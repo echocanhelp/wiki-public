@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-11
 ---
 # THE BOARD OF TAIWANESE AMERICAN CONFERENCES – WEST COAST TAC-WC (美西台灣人夏令會理事會)
 
@@ -24,3 +24,8 @@ The Taiwanese American Conferences – West Coast (TAC-WC) is a nonprofit corpor
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+## Vault Cross-References
+
+- [[people/prof-ken-s-huang||Ken S. Huang (黃根深) — proposed the formal TAC-WC organizational structure in 2012]]
+- [[works/taiwaneseamericanhistory-org/whos-who-857-ken-s-huang||TAH Who's Who #857: Ken S. Huang]]

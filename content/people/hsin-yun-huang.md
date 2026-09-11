@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-11
 ---
 # HSIN-YUN HUANG (黃心芸)
 
@@ -43,3 +43,8 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+## Vault Cross-References
+
+- [[works/taiwaneseamericanhistory-org/15064||TAH #439 encyclopedia entry: 439. HSIN-YUN HUANG 黃心芸 / 2015/06]]
+- [[works/taiwaneseamericanhistory-org/37-hsin-yun-huang-e9-bb-83-e5-bf-83-e8-8a-b8-violin||TAH #37 encyclopedia entry: Hsin-Yun Huang 黃心芸, Violinist / 2014/10]]

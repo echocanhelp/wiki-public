@@ -8,7 +8,7 @@ tags:
   - clerk
   - Taiwanese-American
 verification_status: published
-last_reviewed: 2026-08-19
+last_reviewed: 2026-09-11
 ---
 # Rev. Xie Xinguang (謝信光)
 
@@ -44,3 +44,8 @@ He is the receiving point for church reports submitted to the Annual Meeting. Th
 - [[people/zhang-aihui||Zhang Ai-Hui (張愛惠)]]
 - [[people/lin-yushu||Lin Yu-Shu (林育武)]]
 - [[sources/ntpc-usa-org||NTPC USA source hub]]
+
+## Vault Cross-References
+
+- [[organizations/national-taiwanese-presbyterian-council||National Taiwanese Presbyterian Council (NTPC) — 2025/26 執委名單 listing 謝信光 as 書記]]
+- [[sources/ntpc-usa-org||ntpc-usa.org — 執委 letter and 2026 Annual Meeting invitation naming 謝信光牧師 as 書記]]

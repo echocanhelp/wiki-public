@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-11
 ---
 # Prof. Shirley Cheng Tsai (鄭秀蘭教授)
 
@@ -45,3 +45,9 @@ Prof. Shirley Cheng Tsai 鄭秀蘭教授 – History of Taiwanese American (T.A.
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+## Vault Cross-References
+
+- [[works/taiwaneseamericanhistory-org/45-prof-shirley-cheng-tsai||TAH #45 encyclopedia entry: Prof. Shirley Cheng Tsai 鄭秀蘭教授]]
+- [[works/taiwaneseamericanhistory-org/whos-who-369-shirley-cheng-tsai||TAH Who's Who #369: Prof. Shirley Cheng Tsai 鄭秀蘭教授]]
+- [[people/prof-chen-s-tsai||Husband: Prof. Chen S. Tsai (蔡振水)]]
