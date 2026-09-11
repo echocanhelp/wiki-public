@@ -44,6 +44,7 @@ _No filled family fields on the TAH profile._
 ## Vault records
 - [[works/taiwaneseamericanhistory-org/130-dan-yi-chen-e9-99-b3-e4-b8-b9-e6-80-a1||TAH #130 encyclopedia: Dan-Yi Chen 陳丹怡]]
 - [[works/taiwaneseamericanhistory-org/69-dan-yi-chen-e9-99-b3-e4-b8-b9-e6-80-a1-piano||TAH #69: Dan Yi Chen 陳丹怡, Pianist (2014/10)]]
+- [[works/taiwaneseamericanhistory-org/mystories117|TAH #117 琴韻真善美—訪鋼琴家陳丹怡（李淑櫻訪談報導）]] — published 2014-10-16; an additional interview record for this profile held in the vault (deepen pass 2026-09-10)
 
 ## Sources
 - [TAH #130 encyclopedia: 130. Dan-Yi Chen 陳丹怡](https://taiwaneseamericanhistory.org/130-dan-yi-chen-%e9%99%b3%e4%b8%b9%e6%80%a1/)

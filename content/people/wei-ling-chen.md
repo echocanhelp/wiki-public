@@ -59,3 +59,7 @@ _No filled family fields on the TAH profile._
 
 ## Vault Cross-References
 - TAH encyclopedia records for this profile exist in the vault: [[works/taiwaneseamericanhistory-org/22-wei-ling-chen-e9-99-b3-e7-82-ba-e4-bc-b6-composer|TAH #22 陳為伶 (Composer), 2014/10]] and [[works/taiwaneseamericanhistory-org/517-wei-ling-chen-e9-99-b3-e7-82-ba-e4-bc-b6-201507|TAH #517 陳為伶, 2015/07]].
+
+## Vault records (deepen pass 2026-09-10)
+- **Archival records (dated):** TAH #22（Composer）published 2014-10-11; TAH #517 published 2015-07-25 — see the work records linked in the Vault Cross-References section on this page.
+- **Affiliation pages verified in vault:** music-instructor post at [[organizations/houston-taiwan-institute-for-senior-citizens||Houston Taiwan Institute for Senior Citizens]] (per this page's TAH employment table).

@@ -66,3 +66,7 @@ _No filled family fields on the TAH profile._
 - [[organizations/north-america-taiwanese-professors-sc||NATPA 南加州分會]]
 - [[organizations/taiwanese-american-association-milwaukee||TAA Milwaukee]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+## Vault records (deepen pass 2026-09-10)
+- **Archival records (dated):** [[works/taiwaneseamericanhistory-org/ota-276|TAH #276 賴義雄博士]] (published 2019-03-26) · [[works/taiwaneseamericanhistory-org/whos-who-759-robert-y-lai|TAH #759 賴義雄博士]] (published 2016-01-17).
+- **NATPA 第十次年會（1990-03，台灣）:** named in the account of co-hosting negotiations for the association's first conference held back in Taiwan — discussions continued when he returned to Taiwan that month; see [[people/zheng-qinren||鄭欽仁]]'s page and [[works/taiwaneseamericanhistory-org/ourjourneys47|TAH Our Journeys #47]].

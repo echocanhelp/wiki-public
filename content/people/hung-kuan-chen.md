@@ -55,3 +55,7 @@ _No filled family fields on the TAH profile._
 - [[people/sean-chen||Sean Chen]]
 - [[people/kerina-chang||Kerina Chang (張庭瑄)]]
 - [[people/cho-liang-lin||Cho-Liang Lin (林昭亮)]]
+
+## Vault records (deepen pass 2026-09-10)
+- **Archival records (dated):** [[works/taiwaneseamericanhistory-org/576-hung-kuan-chen-e9-99-b3-e5-ae-8f-e5-af-ac-201509|TAH #576 陳宏寬]] and [[works/taiwaneseamericanhistory-org/292-hung-kuan-chen-e9-99-b3-e5-ae-8f-e5-af-ac-pianist-201509|TAH #292 陳宏寬, Pianist]] were both published 2015-09-07.
+- **From this page's own TAH tables/text:** 茱莉亞音樂學院鋼琴教授 2014–present; visiting professor at Yale since 2010; earlier faculty at 波士頓大學 (1984–1999) and 新英格蘭音樂學院附中 (1993–1999).
