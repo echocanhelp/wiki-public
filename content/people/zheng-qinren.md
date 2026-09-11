@@ -8,14 +8,12 @@ tags:
   - taiwanjustice
   - publication-contributor
 verification_status: pending
-last_reviewed: 2026-09-10
+last_reviewed: 2026-09-11
 ---
 
 # Cheng Chin-jen / 鄭欽仁
 
-Mentioned as a contributor or subject in 2017/2023 [taiwanjustice.net](/organizations/taiwanjustice-net) publications. Added to the TAHS L1 priority roster for community engagement and archive scoring.
-
-Related: [Taiwanese American Historical Society](/organizations/taiwanese-american-historical-society)
+Mentioned as a contributor or subject in 2017/2023 [[organizations/taiwanjustice-net|taiwanjustice.net]] publications. Added to the [[organizations/taiwanese-american-historical-society|Taiwanese American Historical Society]] L1 priority roster for community engagement and archive scoring.
 
 ## Career & Community Roles
 

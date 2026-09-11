@@ -7,7 +7,7 @@ tags:
   - Taiwan-Center
   - Taiwan-School
 verification_status: published
-last_reviewed: 2026-09-10
+last_reviewed: 2026-09-11
 ---
 # He Sumei (何素美)
 
@@ -29,6 +29,7 @@ Per the [[organizations/taiwan-center||Taiwan Center]] course table, He Sumei (�
 - **Saturday 15:00–16:00 block:** co-teaches 華文 with [[people/april-lin||April Lin (林淑卿)]] and [[people/shi-yuli||Shi Yuli (施郁麗)]]; the concurrent 合唱 (choir) class is taught by [[people/wang-rongyi||Wang Rongyi (王榮義)]].
 - **Archive coverage:** her course listing sits in the taiwancenter.org Tier-2 web archive (School cluster: about-taiwan-school, class-information) in `knowledge/web-archives/`, indexed via [[sources/taiwancenter-org||taiwancenter.org]]; the school is operated by [[organizations/taiwan-center-foundation-of-greater-los-angeles||Taiwan Center Foundation of Greater Los Angeles]].
 - **2026-09-10 (DEEPEN-X11):** verification re-check — the class table and the Tier-2 archive index remain the vault's only records for her; biography (education beyond "linguistics background", occupation history, family) still unpublished.
+- **2026-09-11 (DEEPEN-X12):** cross-link check — co-teachers [[people/april-lin|April Lin (林淑卿)]], [[people/shi-yuli|Shi Yuli (施郁麗)]] and same-slot choir teacher [[people/wang-rongyi|Wang Rongyi (王榮義)]] all have vault pages and are linked above; no new vault-internal facts surfaced for her.
 
 ## Source Notes
 

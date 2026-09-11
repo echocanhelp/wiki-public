@@ -23,7 +23,7 @@ Lynn Huang is an active musician in the Taiwanese American communities in southe
 
 <!-- tah-tables:start -->
 ## Employment
-- [[organizations/taiwanese-american-elite-foundation|以立音樂基金會 Elite Music Foundation]] — Present — 音樂總監
+- [[works/taiwaneseamericanhistory-org/elite-music-foundation|以立音樂基金會 Elite Music Foundation]] — Present — 音樂總監
 - Rhapsody Trio — Present — Composer and pianist
 - Elite Music Foundation — Present — Music director
 - 洛杉磯天普市恩惠台灣基督長老教會 — 音樂指揮

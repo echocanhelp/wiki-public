@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-10
+last_reviewed: 2026-09-11
 ---
 # Gloria Chien (簡佩盈)
 
@@ -57,6 +57,7 @@ Absorbed from the on-page biography and tables (no external sources):
 - Community hub: [[sources/taiwaneseamericanhistory-org-story-corpus|TAH story corpus hub]]
 
 ## Related Pages
+- [[people/yu-hsuan-liao||Yu-Hsuan Liao (廖又萱)]] — fellow TAH-record pianist
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - [[sources/taiwaneseamericanhistory-org-story-corpus||TAH story corpus hub]]

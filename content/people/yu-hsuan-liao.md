@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-10
+last_reviewed: 2026-09-11
 ---
 # Yu-Hsuan Liao (廖又萱)
 
@@ -53,6 +53,7 @@ _No filled family fields on the TAH profile._
 - [TAH #441 encyclopedia: 441. Yu-Hsuan Liao 廖又萱 / 2015/06](https://taiwaneseamericanhistory.org/whoswho-441/)
 - [TAH #35 encyclopedia: 35. Yu-Hsuan Liao 廖又萱, Pianist/2014/10](https://taiwaneseamericanhistory.org/musician-35/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/yu-hsuan-liao/)
+- Vault records: [[works/taiwaneseamericanhistory-org/musician-35||TAH #35, Pianist (2014-10)]], [[works/taiwaneseamericanhistory-org/whoswho-441||TAH #441 (2015-06)]]
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
