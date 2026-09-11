@@ -39,6 +39,7 @@ last_reviewed: 2026-09-10
 - 2000: scholarship to Idyllwild Arts Academy (California), studying with cellist John Waltz; won two consecutive school solo-recital prizes and performed Tchaikovsky's Variations on a Rococo Theme with the Idyllwild Arts Academy Chamber Orchestra.
 - Cleveland Institute of Music (2009, M.S.), where she served as principal cellist; since 2008, assistant principal cello of the San Diego Symphony (副首席大提琴).
 - Recorded in the TAH encyclopedia both as a person entry — [[works/taiwaneseamericanhistory-org/whoswho1582|TAH #1582, Chia-Ling Chien 簡嘉琳 (2017/03)]] — and in the TAH musician series — [[works/taiwaneseamericanhistory-org/musician391|TAH #391, Jia-Lin Jian 簡嘉琳, Cellist (2017/03)]] — via [[organizations/tah-foundation|TAH Foundation]].
+- 2017-03-26 — both TAH encyclopedia records were published the same day: [[works/taiwaneseamericanhistory-org/whoswho1582|TAH #1582]] (person entry) and [[works/taiwaneseamericanhistory-org/musician391|TAH #391]] (musician series).
 - Greater San Diego / Cleveland community pages in the vault: [[organizations/taiwanese-american-professionals-san-diego|TA Professionals San Diego]] · [[organizations/taiwanese-american-association-greater-cleveland|TAA Greater Cleveland]].
 
 ## Family

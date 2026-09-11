@@ -57,6 +57,7 @@ Her TAH encyclopedia entries are archived in the vault:
 - **2009** — nominated "best composer" at the Golden Melody Awards for debut CD *Elegance* — only the fourth woman ever nominated in that category
 - **2009–2011** — composer-in-residence, Chai Found Music Workshop (funded by the Taiwan National Culture and Arts Foundation)
 - **Current (at TAH profile date)** — board member, Korea-China Art Association; professor at Ewha Womans University and SangMyung University, Seoul, Korea
+- **2014-12-31** — both TAH encyclopedia records published: [[works/taiwaneseamericanhistory-org/107-chihchun-chi-sun-lee-e6-9d-8e-e5-bf-97-e7-b4-94-composer||#107, Composer]] and [[works/taiwaneseamericanhistory-org/186-chihchun-chi-sun-lee-e6-9d-8e-e5-bf-97-e7-b4-94||#186]] (deepen pass 2026-09-10)
 
 ## Connected in the Vault
 

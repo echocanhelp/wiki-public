@@ -42,7 +42,7 @@ last_reviewed: 2026-09-10
 - Age 14 — concerto collaboration with the Longwood Symphony Orchestra, Boston (broadcast by WCRB)
 - 2009 — MM (Performance), Manhattan School of Music; co-founded LX Music Academy, Brooklyn
 - 2015-10 — solo recital, Weill Recital Hall, Carnegie Hall
-- Profiled in the TAH encyclopedia ([#432](https://taiwaneseamericanhistory.org/432-cellist-alice-chen/))
+- 2018-11-17 — TAH encyclopedia record [[works/taiwaneseamericanhistory-org/432-cellist-alice-chen||#432, Alice Chen 陳祐慈, Cellist]] published ([original](https://taiwaneseamericanhistory.org/432-cellist-alice-chen/)) (deepen pass 2026-09-10)
 
 ## Family
 
