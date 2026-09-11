@@ -54,3 +54,7 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+## Connected in the Vault
+
+- **Vault records:** [[works/taiwaneseamericanhistory-org/musician349||TAH #349 encyclopedia record (soprano)]] and [[works/taiwaneseamericanhistory-org/whoswho1176||TAH #1176 encyclopedia record]] in the [[sources/taiwaneseamericanhistory-org-story-corpus||TAH story corpus]] — both mirror the biography and education/employment tables already absorbed above.

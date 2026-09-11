@@ -51,6 +51,10 @@ From the 楊嘉猷 memorial account (Part 2) in the [[sources/2017-tahs-publicat
 - 1984 (LA Olympics): visited Los Angeles; 楊嘉猷 (Charles Yang) visited him with three books — 「江文也傳」, [[people/peng-ming-min||彭明敏]]'s 「自由的滋味」, and 吳濁流's 「無花果」 — to help him reconnect with his Taiwanese identity.
 - Died in the 1980s; relations: 二舅/二叔 of [[people/liao-shu-zong||廖述宗 (Liao Shu-zong)]].
 
+## Family
+
+From the 何義麟 essay in the vault record [[works/taiwaneseamericanhistory-org/our-journeys-350||TAH #350 (Bay-area TCC史料, 2019)]]: the 豐原 (Fengyuan) notables 林朝棨 (NTU geology professor), 林朝權 (his older brother, who went to China after the war) and 林朝業 (dentist) — called the 豐原三傑 together with 廖五湖 — were sons of 林尚, the first in Fengyuan to own a bicycle. 廖繼春's wife was 林朝棨's sister; their son is [[people/liao-shu-zong||廖述宗]], founding president of NATPA. See also [[people/lin-chao-chi||林朝棨]].
+
 ## Source Notes and Confidence
 
 - **Content priority A:** Memorial by 楊嘉猷 (Charles Yang), Part 2, L25–32 — detailed account of Lin's life, political activism, imprisonment, and 1984 LA visit
