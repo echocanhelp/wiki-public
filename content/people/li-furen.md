@@ -2,9 +2,9 @@
 title: "Li Fu-Jen (李輔仁)"
 type: person
 tags:
-  -
+  - person
 verification_status: pending
-last_reviewed: 2026-09-10
+last_reviewed: 2026-09-11
 ---
 # Li Fu-Jen (李輔仁)
 
