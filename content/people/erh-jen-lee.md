@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-10
+last_reviewed: 2026-09-11
 ---
 # Erh-Jen Lee (李爾仁)
 
@@ -49,3 +49,6 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+## Connected in the Vault（deepen pass 2026-09-11）
+- TAH 傳記記錄：[[works/taiwaneseamericanhistory-org/erh-jen-lee-pianist-oboist-accompanist-chamber-musician-and-a-music-educator||TAH #404 Erh-Jen Lee 李爾仁, Pianist, Oboist, Accompanist / 2017/06]]。

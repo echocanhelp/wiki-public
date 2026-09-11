@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-10
+last_reviewed: 2026-09-11
 ---
 # Kai-Ching Chang (張凱晶博士)
 
@@ -52,3 +52,6 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+## Connected in the Vault（deepen pass 2026-09-11）
+- TAH 傳記記錄：[[works/taiwaneseamericanhistory-org/29-kai-ching-chang-e5-bc-b5-e5-87-b1-e6-99-b6-piano||TAH #29 Kai-Ching Chang 張凱晶, Pianist / 2014/10]]、[[works/taiwaneseamericanhistory-org/512-kai-ching-chang-e5-bc-b5-e5-87-b1-e6-99-b6-201507||TAH #512 Kai-Ching Chang 張凱晶 / 2015/07]]。
