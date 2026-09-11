@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-11
 ---
 # Dr. Goodwin Hon Liu (劉弘威博士)
 
@@ -44,6 +44,12 @@ last_reviewed: 2026-08-17
 - [TAH #160 encyclopedia: 160. Dr. Goodwin Hon Liu 劉弘威博士](https://taiwaneseamericanhistory.org/160-dr-goodwin-hon-liu/)
 - [TAH #109 encyclopedia: 109. Dr. Goodwin Hon Liu 劉弘威博士](https://taiwaneseamericanhistory.org/whos-who-109-goodwin-hon-liu/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-goodwin-hon-liu/)
+
+## Vault Holdings
+- [[works/taiwaneseamericanhistory-org/160-dr-goodwin-hon-liu|TAH #160 — Dr. Goodwin Hon Liu 劉弘威博士]]
+- [[works/taiwaneseamericanhistory-org/whos-who-109-goodwin-hon-liu|TAH Who's Who #109 — Dr. Goodwin Hon Liu 劉弘威博士]]
+- [[works/taiwaneseamericanhistory-org/3-goodwin-liu-e5-8a-89-e5-bc-98-e5-a8-81|TAH #3 — Goodwin Liu 劉弘威]]
+- [[works/taiwaneseamericanhistory-org/goodwin-liu|TAH — Goodwin Liu]]
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

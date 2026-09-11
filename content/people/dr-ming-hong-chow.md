@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-11
 ---
 # Dr. Ming Hong Chow (周明宏博士)
 
@@ -44,3 +44,8 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+## Vault records（deepen pass 2026-09-11）
+- 本页传记之 TAH 出处页：[[works/taiwaneseamericanhistory-org/140-2||TAH #140 Dr. Ming Hong Chow 周明宏博士]]、[[works/taiwaneseamericanhistory-org/whos-who-589-ming-hong-chow||TAH #589 Dr. Ming Hong Chow 周明宏博士]]。
+- 本页 Employment 所载社区职务对应之 Vault 页：[[organizations/taiwanese-association-of-america||Taiwanese Association of America]]、[[organizations/taiwanese-association-of-america-greater-washington||TAA Greater Washington, DC]]。
+- publisher／語料庫：[[sources/taiwaneseamericanhistory-org-story-corpus||TAH story corpus]]。

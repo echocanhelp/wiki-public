@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-11
 ---
 # North America Pastel Artist Association (北美粉彩畫家協會)
 
@@ -24,3 +24,8 @@ The North America Pastel Artists Association (NAPAA) was founded in 1997 in New 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+## Vault records（deepen pass 2026-09-11）
+- 本页简介之 TAH 出处页：[[works/taiwaneseamericanhistory-org/north-america-pastel-artist-association||TAH 协会简介页（中英文）]]、[[works/taiwaneseamericanhistory-org/3-north-america-pastel-artist-association-exhibitions||TAH #3 NAPAA exhibitions]]。
+- 创办人（Master Pastelist 張哲雄）：[[people/jason-chang||Jason Chang 張哲雄]]；其个展记录：[[works/taiwaneseamericanhistory-org/35-pastel-exhibition-jason-chang-2019||TAH #35 Pastel Exhibition Jason Chang (2019)]]。
+- 本页所载展览场地：[[organizations/taiwan-center||Taiwan Center]]、[[works/taiwaneseamericanhistory-org/taiwan-center-annual-international-pastel-open-juried-exhibition||Taiwan Center International Pastel Open Juried Exhibition]]。

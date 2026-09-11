@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-11
 ---
 # Cindy Hsu Chung (許弘琪)
 
@@ -38,6 +38,10 @@ _No filled family fields on the TAH profile._
 - [TAH #320 encyclopedia: 320. Cindy Hsu Chung 許弘琪 / 2015/03](https://taiwaneseamericanhistory.org/320-cindy-hsu-chung-%e8%a8%b1%e5%bc%98%e7%90%aa/)
 - [TAH #163 encyclopedia: 163. Cindy Hsu Chung許弘琪 , pianist /2015/03](https://taiwaneseamericanhistory.org/163-cindy-hsu-chung%e8%a8%b1%e5%bc%98%e7%90%aa-pianist-201503/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/cindy-hsu-chung/)
+
+## Vault Holdings
+- [[works/taiwaneseamericanhistory-org/320-cindy-hsu-chung-e8-a8-b1-e5-bc-98-e7-90-aa|TAH #320 — Cindy Hsu Chung 許弘琪 (2015/03)]]
+- [[works/taiwaneseamericanhistory-org/163-cindy-hsu-chung-e8-a8-b1-e5-bc-98-e7-90-aa-pianist-201503|TAH #163 — Cindy Hsu Chung 許弘琪, pianist (2015/03)]]
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
