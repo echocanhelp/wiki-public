@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-10
+last_reviewed: 2026-09-11
 ---
 # Tzuying Huang (黃姿穎)
 
@@ -46,3 +46,7 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+## Deepen pass (2026-09-11)
+- tah-tables Employment 記載的 Kansas City Symphony 任期對應當地台裔社群脈絡：[[organizations/taiwanese-association-of-greater-kansas-city-takc|TAKC 大堪薩斯城市台美協會]]。
+- 本次未新增外部事實。

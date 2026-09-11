@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-10
+last_reviewed: 2026-09-11
 ---
 # Chhong-bi Memorial Fund (聰美姐紀念基會)
 
@@ -31,3 +31,16 @@ The Chhong-bi Memorial Fund was established in April 1993 in memory of a selfles
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+## Vault Holdings
+- 本身紀錄：[[works/taiwaneseamericanhistory-org/chhong-bi-memorial-fund|Chhong-bi Memorial Fund 聰美姐紀念基會]] · [[works/taiwaneseamericanhistory-org/ito-chhong-bi-memorial-fund|65. ITO Chhong-bi Memorial Fund（紐約衛鄉台灣教會）]]
+- 台文通訊（本基會經管 25–142 期）已入 vault 各期：
+  - [[works/taiwaneseamericanhistory-org/611-e5-8f-b0-e6-96-87-e9-80-9a-e8-a8-8atai-bun-thong-sin-13-24chhong-bi-memorial|台文通訊 #13–24]]
+  - [[works/taiwaneseamericanhistory-org/612-e5-8f-b0-e6-96-87-e9-80-9a-e8-a8-8atai-bun-thong-sin-25-36chhong-bi-memorial|台文通訊 #25–36]]
+  - [[works/taiwaneseamericanhistory-org/193-e5-8f-b0-e6-96-87-e9-80-9a-e8-a8-8achhong-bi-memorial-fund-usa199611magazine|台文通訊 1996/11]]
+  - [[works/taiwaneseamericanhistory-org/194-e5-8f-b0-e6-96-87-e9-80-9a-e8-a8-8achhong-bi-memorial-fund-usa200102language|台文通訊 2001/02]]
+  - [[works/taiwaneseamericanhistory-org/428-tai-bun-thong-sin-chhong-bi-memorial-fund-usa-issue-85-96-lanuage|Tai-bun Thong-sin #85–96]]
+  - [[works/taiwaneseamericanhistory-org/429-tai-bun-thong-sin-chhong-bi-memorial-fund-usa-issue-97-108-200302-e5-8f-b0-e|Tai-bun Thong-sin #97–108（2003/02）]]
+
+## Deepen pass (2026-09-11)
+- 台文通訊歷期刊物已在 vault，本次補上連結。未新增外部事實。

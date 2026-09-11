@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-10
+last_reviewed: 2026-09-11
 ---
 # Prof. Tien‐Sung Tom Lin (林天送教授)
 
@@ -34,7 +34,7 @@ Prof. Tien‐Sung (Tom) Lin 林天送教授 – History of Taiwanese American (T
 ## Family
 
 - **Wife:** Loretta (熊乙杏)
-- **Son:** Irvin (林斐強)
+- **Son:** [[people/irvin-lin|Irvin (林斐強)]]
 
 
 ## Sources
@@ -49,3 +49,9 @@ Prof. Tien‐Sung (Tom) Lin 林天送教授 – History of Taiwanese American (T
 
 ## Deepen pass (2026-09-10)
 - Washington University、Argonne National Laboratory 無 vault 頁面，未加連結。
+
+## Vault Holdings
+- 本身紀錄已入 vault：[[works/taiwaneseamericanhistory-org/34-prof-tien-e2-80-90sung-tom-lin|34. Prof. Tien‐Sung Tom Lin 林天送教授]] · [[works/taiwaneseamericanhistory-org/whos-who-1430-tien-sung-lin|1430. Prof. Tien‐Sung (Tom) Lin 林天送教授]]
+
+## Deepen pass (2026-09-11)
+- 之子 Irvin（林斐強）既有頁面：[[people/irvin-lin|Irvin Lin (林斐強)]]（St. Louis／Washington University 1995 畢業，與任職同市）。未新增外部事實。

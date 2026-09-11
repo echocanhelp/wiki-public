@@ -41,6 +41,11 @@ _No filled family fields on the TAH profile._
 - [TAH #103 encyclopedia: 103. Meng-Chieh Liu 劉孟捷](https://taiwaneseamericanhistory.org/103-meng-chieh-liu-%e5%8a%89%e5%ad%9f%e6%8d%b7/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/meng-chieh-liu/)
 
+## Vault records（deepen pass 2026-09-11）
+- 劉孟捷獲邀演出「台灣名家演奏系列」：見 [[works/taiwaneseamericanhistory-org/ourjourneys294||南加州台灣人聯合基金會簡介（2017/06）]]（TUF 三十年演出紀錄，列名鋼琴家之一）。
+- 劉孟捷以大師班指導身分見於同儕頁面：[[people/kerina-chang||Kerina Chang 張庭瑄]]（大師班指導名單含劉孟捷）。
+- 同語料庫 TAH 鋼琴家參照：[[people/joel-fan||Joel Fan 范景德]]、[[people/rose-chen||Rose Chen 陳慧如]]。
+
 ## Vault records（deepen pass 2026-09-10）
 - 本頁傳記之 TAH 出處頁：[[works/taiwaneseamericanhistory-org/80-meng-chieh-liu-e5-8a-89-e5-ad-9f-e6-8d-b7-pianist||TAH #80 Meng-Chieh Liu, Pianist (2014/11)]]、[[works/taiwaneseamericanhistory-org/103-meng-chieh-liu-e5-8a-89-e5-ad-9f-e6-8d-b7||TAH #103 Meng-Chieh Liu]]。
 - publisher／語料庫：[[sources/taiwaneseamericanhistory-org-story-corpus||TAH story corpus]]、[[organizations/tah-foundation||TAH Foundation]]。

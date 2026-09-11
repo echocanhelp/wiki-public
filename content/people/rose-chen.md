@@ -52,3 +52,9 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+## Vault records（deepen pass 2026-09-11）
+- 本頁四則 TAH 出處之 Vault 頁面：[[works/taiwaneseamericanhistory-org/whoswho1094||TAH #1094 Hui-Ju Chen 陳慧如 (2016/06)]]、[[works/taiwaneseamericanhistory-org/338-rose-chen-e9-99-b3-e6-85-a7-e5-a6-82-201503||TAH #338 Rose Chen 陳慧如 (2015/03)]]、[[works/taiwaneseamericanhistory-org/169-rose-chen-e9-99-b3-e6-85-a7-e5-a6-82-pianist-201503||TAH #169 Rose Chen 陳慧如, Conductor (2015/03)]]、[[works/taiwaneseamericanhistory-org/musician30||TAH #30 Hui-Ju Chen 陳慧如, Soprano (2014/10)]]。
+- publisher／語料庫：[[sources/taiwaneseamericanhistory-org-story-corpus||TAH story corpus]]。
+- 同語料庫 TAH 鋼琴家參照：[[people/meng-chieh-liu||Meng-Chieh Liu 劉孟捷]]、[[people/joel-fan||Joel Fan 范景德]]。
+
