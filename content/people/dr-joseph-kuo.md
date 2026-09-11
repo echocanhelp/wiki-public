@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-11
 ---
 # Dr. Joseph Kuo (郭正昭博士)
 
@@ -37,6 +37,11 @@ last_reviewed: 2026-08-17
 - **Daughter:** Josephine Kuo
 - **Son:** John Kuo
 
+
+## Vault Holdings
+- [[works/taiwaneseamericanhistory-org/whos-who-46-joseph-kuo||TAH #46: Dr. Joseph Kuo 郭正昭博士 encyclopedia entry]] — earlier TAH encyclopedia record of the same person
+- [[works/taiwaneseamericanhistory-org/natpa-new-yorknew-jersey-chapter||NATPA New York/New Jersey Chapter]] — he served as chapter president 1998–1999
+- [[organizations/the-great-new-york-region-oversea-taiwanese-pen-club||The Great New York Region Oversea Taiwanese Pen Club]] — he served as president
 
 ## Sources
 - [TAH #181 encyclopedia: 181. Dr. Joseph Kuo 郭正昭博士](https://taiwaneseamericanhistory.org/181-dr-joseph-kuo/)

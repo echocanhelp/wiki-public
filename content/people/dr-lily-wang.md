@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-11
 ---
 # Dr. Lily Wang (王俐力醫師)
 
@@ -33,6 +33,12 @@ last_reviewed: 2026-08-17
 ## Family
 
 _No filled family fields on the TAH profile._
+
+## Vault Holdings
+- [[works/taiwaneseamericanhistory-org/ota-286||TAH #286: Dr. Lily Wang 王俐力醫師 encyclopedia entry]] — earlier TAH encyclopedia record of the same person
+- [[organizations/taiwanese-association-of-cincinnati||Taiwanese Association of Cincinnati (TAA Cincinnati)]] — she served as chapter president
+- [[works/taiwaneseamericanhistory-org/42-ohio-cincinnati-chapter-chapter-fapa||TAH #42: FAPA Ohio-Cincinnati Chapter]] — she served as FAPA/Ohio chapter president
+- Note: her NATWA Ohio-Kentucky chapter presidency has no dedicated chapter page in the vault yet (NATWA chapter pages on file cover other chapters).
 
 ## Sources
 - [TAH #286 encyclopedia: 286. Dr. Lily Wang 王俐力醫師](https://taiwaneseamericanhistory.org/ota-286/)

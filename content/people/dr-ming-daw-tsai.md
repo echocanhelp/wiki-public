@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-11
 ---
 # Dr. Ming-Daw Tsai (蔡明道博士)
 
@@ -33,6 +33,10 @@ Director of Chemistry/Biology Interface Training Program (1995-2003); Kimberly P
 ## Family
 
 _No filled family fields on the TAH profile._
+
+## Vault Holdings
+- [[works/taiwaneseamericanhistory-org/whos-who-1839-ming-daw-tsai||TAH #1839: Dr. Ming-Daw Tsai 蔡明道博士 encyclopedia entry]] — the cited source record, held in the vault
+- [[organizations/taiwanese-american-student-association-at-ohio-state-university||Ohio State University Taiwanese Student Association]] — context: he was a longtime Ohio State faculty member (1980s–2007) and later Academia Sinica IBC director
 
 ## Sources
 - [TAH #1839 encyclopedia: 1839. Dr. Ming-Daw Tsai 蔡明道博士](https://taiwaneseamericanhistory.org/whos-who-1839-ming-daw-tsai/)
