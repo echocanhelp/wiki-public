@@ -88,6 +88,10 @@ Pages that link to **c-c-chen** (c-c-chen):
 - The Chen household is listed among the co-founder generation alongside the [[people/daniel-kao||Dr. Daniel Kao]] family
 - **2025 republication** — carried by [[organizations/national-taiwanese-presbyterian-council||NTPC]] with [[people/yunching-yeh-davis||Dr. Yunching Yeh Davis]]; C.C. Chen's co-founder listing is preserved in the 50th-anniversary edition
 
+## Vault records (deepen pass 2026-09-10)
+- The full co-founder roster preserved on [[people/albert-s-lai||Dr. Albert S. Lai]]'s page (Lai Self-Preface listing): Dr. & Mrs. Daniel Kao (高光民), Dr. & Mrs. C. C. Chen (陳昭俊), Mr. & Mrs. Norman Hsu (許彬), Dr. & Mrs. Isiah Lee (李宗派), Dr. & Mrs. Joseph T. C. Lu (盧俊哲), Mr. & Mrs. Morris Chen (陳茂雄), Mr. & Mrs. George Chen (陳進琛), Dr. & Mrs. Sze-Ya Yeh (葉思雅), Mr. & Mrs. Wang Chun Hsiung (王春雄), Dr. & Mrs. Jang Yan Wu (吳政彥), Dr. Wen-Cho Yang (楊哲), Dr. & Mrs. Justin Chen (陳有義), Meiling Lai (賴美玲), Michael Chen (陳明章), and others.
+- **Name-collision note:** TAH Who's Who also holds a different 陳昭俊博士 — [[people/tah-p-4b7e8e54e2||陳昭俊博士 (engineer, 嘉義, b. 1935; Hughes/TRW/國家太空計畫室)]] — and TAH story record [[works/taiwaneseamericanhistory-org/374-e9-99-b3-e6-98-ad-e4-bf-8a-201504||#374 陳昭俊 (2015-04)]] is a name-only lead. Neither merged into this page (hanzi-only, per HOLD policy).
+
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 

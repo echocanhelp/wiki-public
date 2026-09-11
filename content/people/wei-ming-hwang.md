@@ -61,6 +61,11 @@ _No filled family fields on the TAH profile._
 - 1995-07-29：應台灣人聯合基金會（TUF）台灣名家演奏系列邀請赴洛杉磯演出，與蘇顯達、[[people/joli-wu|吳昭麗（Joli Wu）]]、[[people/chien-an-chen|陳建安（Chien-An Chen）]]、鋼琴葉綠娜同台聲援聲樂家[[people/zoe-huang|黃瑞芬（Zoe Huang）]] — 見[[articles/taiwanjustice-net/2022/20220519130616_2022_01_29_台灣女聲樂家_資深古典音樂節目主持人黃瑞芬過_bfc5f319a036a339|黃瑞芬紀錄（taiwanjustice-net, 2022）]]
 - 1995-09-29：列名《台灣民謠之夜》（Luckman Hall，加州州立大學洛杉磯分校）演出名單，同台含葉綠娜、蘇顯達、陳建安、黃瑞芬、Joli Wu — 見[[works/taiwaneseamericanhistory-org/ourjourneys301|Our Journeys #301]]
 
+## Vault records (deepen pass 2026-09-10)
+- His own TAH encyclopedia records are harvested in the vault: [[works/taiwaneseamericanhistory-org/whoswho1279|TAH #1279]] · [[works/taiwaneseamericanhistory-org/musician363|TAH #363]]; he is listed in the [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]] source hub.
+- In a concert record preserved on [[people/yang-ziqing|楊子清]] and in the taiwanjustice-net article archive ([[articles/taiwanjustice-net/2024/20240520022857_root_e1412ed957f76e0d|2024 record]]), the 弦樂四重奏 violins are 蘇顯達 and 黃維明, 中提琴 吳昭麗 = [[people/joli-wu|Joli Wu]], 大提琴 陳建安 = [[people/chien-an-chen|Chien-An Chen]].
+- No vault pages exist yet for the Columbus Symphony Orchestra, 國家交響樂團, 台北市立交響樂團, 東吳大學 or 蘇顯達; no new pages created per deepen protocol.
+
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

@@ -74,6 +74,11 @@ Absorbed from the on-page bio and tah-tables (no external sources):
 - [TAH #67 encyclopedia: 67. Patsy Fang Chen 方秀蓉, Artistic Director/2014/10](https://taiwaneseamericanhistory.org/67-patsy-fang-chen-%e6%96%b9%e7%a7%80%e8%93%89/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/patsy-fang-chen/)
 
+## Vault Cross-check (deepen pass 2026-09-10)
+
+- Domain peers in the vault's Taiwanese-American performing-arts layer (context only; no membership asserted by the cited TAH records): [[organizations/formosan-society-for-performing-arts-inc-fospa||FOSPA]], [[organizations/taiwanese-american-arts-council-taac||TAAC]], [[organizations/taiwanese-american-arts-association||Taiwanese American Arts Association]], [[organizations/taiwanese-youth-arts-foundation-washington-dc||Taiwanese Youth Arts Foundation (DC)]].
+- Her archival footprint recorded above — [[works/taiwaneseamericanhistory-org/collection-of-mrs-patsy-chen|TAH #36 collection]] plus encyclopedia records #14/#57/#67/#249 — sits alongside her daughters' TAH holdings, making the Chen family a multi-record TAH corpus: [[people/wendy-fang-chen-tilp||Wendy Fang Chen 陳丹蘋]] · [[people/dr-justine-fang-chen||Dr. Justine Fang Chen 陳潔思]] · husband [[people/wen-jer-chen||Wen Jer Chen 陳文哲]].
+
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

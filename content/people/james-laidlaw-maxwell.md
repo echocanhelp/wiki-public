@@ -62,6 +62,11 @@ Laijohn TOC v2 — bodies not archived:
 - The 1865-06-16 Tainan congregation is the clock the [[organizations/presbyterian-church-in-taiwan||PCT]] still marks as its anniversary; [[organizations/good-shepherd-taiwanese-presbyterian-church||GSTPC]] likewise lists Maxwell (with [[people/george-leslie-mackay||馬偕]]) as an origin figure of the Presbyterian mission in Taiwan
 - The 教會史話 trail (201 名醫神技, 301 馬雅各紀念教會史) is preserved via [[people/john-lai||John Lai]] in the [[organizations/elder-john-lai-archives||Elder John Lai Archives]]
 
+## Vault mentions (deepen pass 2026-09-10)
+- The [[organizations/elder-john-lai-archives||Elder John Lai Archives]] volume-3/4 TOC carries direct links to the bodies of 《名醫神技》 (book3 #201) and 《馬雅各紀念教會史》 (book4 #301).
+- Listed with [[people/thomas-barclay||巴克禮]] as southern-mission origin figures on [[people/c-y-hsu||C. Y. Hsu]] (太平境 / 南神 / 〈聖堂〉) and on [[people/george-leslie-mackay||馬偕]] (north/south distinction).
+- A 《台灣演義》 broadcast record 「開台西醫 世紀傳愛—馬雅各」 (2021-03-07) is preserved in the [[organizations/taiwanjustice-net||taiwanjustice-net]] article archive (category listings, 2025).
+
 ## Related Pages
 - [[people/george-leslie-mackay||馬偕]]
 - [[people/thomas-barclay||巴克禮]]

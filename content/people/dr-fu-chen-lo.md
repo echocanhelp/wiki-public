@@ -64,6 +64,11 @@ last_reviewed: 2026-09-10
 - [TAH #9 encyclopedia: 9. Dr. Fu-Chen Lo 羅福全博士](https://taiwaneseamericanhistory.org/whos-who-9-fu-chen-lo/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-fu-chen-lo/)
 
+## Vault Cross-check (deepen pass 2026-09-10)
+
+- Absorbed from the cited source list already on this page (no web): the **TAH #3** record credits him with the *first autobiography translated from Chinese (漢字) into English*, completing the firsts series recorded here — #1 first publisher of Taiwan Tribune (1981), #2 first holder of a UN-issued visa, #3 first 漢字→English autobiography, #364 first Senate testimony for Taiwan's future (1983-11-09).
+- Philadelphia orbit: his Univ. of Pennsylvania doctorate (1964–1968) and 1964 TAA Greater Philadelphia presidency place him alongside the vault's Penn-area Taiwanese organizations [[organizations/penn-taiwanese-society||Penn Taiwanese Society]] and [[organizations/penn-taiwanese-student-association||Penn Taiwanese Student Association]] (vault adjacency only — membership not asserted by the cited records).
+
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

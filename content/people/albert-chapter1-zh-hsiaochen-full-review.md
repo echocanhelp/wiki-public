@@ -95,3 +95,14 @@ EN Ch.I Christopher was ~29 min @ ~149 wpm. ZH full Ch.I is longer in wall-clock
 - [[people/albert-chapter1-audiobook-consent-and-recording-kit||Audiobook consent & recording kit]] — the platform+consent path referenced in the method-lock gate
 - [[media/index||Media index]] — vault media library; master file `albert-ch01-zh-hsiaochen-v1-full-scratch.mp3`
 - [[organizations/taiwanese-american-historical-society||TAHS]] — community-history partner for the republication project
+
+## Vault Cross-check (deepen pass 2026-09-10)
+
+Absorbed from the cited bake-off page [[people/albert-chapter1-zh-review||Ch.1 ZH voice bake-off]] (vault-only, no web):
+
+- The 2026-08-02 bake-off rendered **three zh-TW neural voices from the same 135-character opening excerpt** (Section I — The Land — Formosa), all loudnormed to −16 LUFS / −1.7 dBTP:
+  - **YunJheNeural** (male, Friendly/Positive) — rate +0%, pitch −1Hz — opening sample ~5:08
+  - **HsiaoChenNeural** (female, Friendly/Positive) — rate +0%, pitch +0Hz — opening sample ~5:48 @ ~23.3 wpm ← **the locked voice**
+  - **HsiaoYuNeural** (female, Friendly/Positive) — rate +0%, pitch +0Hz
+- The bake-off excerpt is drawn from Chapter I — *Formosan in Formosa Yesterday* (zh-TW AMT v1.0), the same frozen text evaluated here in full.
+- Sibling gate artifacts in-vault: [[people/albert-chapter1-audiobook-taiwanese-female||Taiwanese female-voice bake-off]] (~30-min full Chapter I) and [[people/albert-chapter1-audiobook-consent-and-recording-kit||consent and recording kit]] (the platform+consent path named in the method-lock gate).

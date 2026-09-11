@@ -81,3 +81,15 @@ Notable quotes and mentions of **黃永成** in Taiwan Justice articles:
 
 - [[people/albert-s-lai||Dr. Albert S. Lai]]
 - [[people/chen-maoxiong||Chen Mao-xiong (陳茂雄)]] — TJ columnist, co-cited in the same digest
+
+## Vault Cross-check (deepen pass 2026-09-10)
+
+- Co-mention cluster: the four taiwanjustice.net December-2017 digest bodies that mention 黃永成 also mention these vault-documented figures — a same-program, same-digest cluster, not an established personal connection:
+  - [[people/chen-po-kong||Chen Po-kong]]
+  - [[people/du-ao-cunfu||Du-ao Cunfu]]
+  - [[people/fan-jiang-ti-ang||Fan Jiang-ti-ang]]
+  - [[people/he-qingxuan||He Qingxuan]]
+  - [[people/huang-diyin||Huang Diyin]]
+  - [[people/jin-hegui||Jin Hegui]]
+  - [[people/liao-qingshan||Liao Qingshan]]
+- His single named work in the vault remains the 民報 2017-12-14 health column 「氣喘病人基本認知的衛教」 (credited 藥師), quoted inside [[articles/taiwanjustice-net/2017/20171216082817_2017_12_12_新聞挖挖哇-20171212-酒錢誰來付_d166377070d5311f||新聞挖挖哇 20171212 酒錢誰來付]].
