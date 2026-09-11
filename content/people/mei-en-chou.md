@@ -54,5 +54,10 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
-- [[works/taiwaneseamericanhistory-org/190-mei-en-chou-e5-91-a8-e5-aa-ba-e6-81-a9-piano-201504||TAH #190 encyclopedia profile (pianist, 2015/04)]]
-- [[works/taiwaneseamericanhistory-org/359-mei-en-chou-e5-91-a8-e5-aa-ba-e6-81-a9201504||TAH #359 encyclopedia profile (2015/04)]]
+- [[works/taiwaneseamericanhistory-org/190-mei-en-chou-e5-91-a8-e5-aa-ba-e6-81-a9-piano-201504||TAH #190 encyclopedia profile (pianist, 2015-04)]]
+- [[works/taiwaneseamericanhistory-org/359-mei-en-chou-e5-91-a8-e5-aa-ba-e6-81-a9201504||TAH #359 encyclopedia profile (2015-04)]]
+
+## Vault Cross-check (deepen pass 2026-09-10, vault-only)
+- Publication dates absorbed from the vault records themselves: the #190 pianist profile was published **2015-04-26** and the #359 profile **2015-04-15**; both are held as Band-B bibliographic records (full text remains in the TAH archive).
+- The reciprocal note on [[people/keng-wei-william-kuo||Keng-Wei William Kuo (郭耿維)]] independently corroborates the UNT Denton, TX graduate study recorded above — the two TAH musician profiles are the vault's only cross-referencing pair for that institution.
+- No further biographical facts are absorbable vault-side: the vault holds no band-A (oral/community-history) material on this subject.
