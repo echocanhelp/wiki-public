@@ -55,6 +55,8 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- [[works/taiwaneseamericanhistory-org/86-peggy-chen-e5-bc-b5-e4-bd-a9-e4-bb-99||TAH #86: Peggy Chen 張佩仙]]
+- [[works/taiwaneseamericanhistory-org/77-peggy-chen-e5-bc-b5-e4-bd-a9-e4-bb-99-soprano-vocalist||TAH #77: Peggy Chen 張佩仙, Soprano Vocalist]]
 
 ## Network
 - [[organizations/irvine-taiwanese-presbyterian-church||ITPC]] — TAH Who’s Who

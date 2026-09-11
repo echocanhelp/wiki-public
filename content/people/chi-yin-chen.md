@@ -47,3 +47,5 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- [[works/taiwaneseamericanhistory-org/225-chi-yin-chen-violinist-201506||TAH #225: Chi-Yin Chen, Violinist]]
+- [[works/taiwaneseamericanhistory-org/465-chi-yin-chen-201506||TAH #465: Chi-Yin Chen]]
