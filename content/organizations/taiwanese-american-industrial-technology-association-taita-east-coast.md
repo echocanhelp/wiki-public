@@ -26,6 +26,10 @@ TAITA-East Coast is the East Coast chapter of the Taiwanese American Industrial 
 ## Network
 - Parent network: [[organizations/tah-foundation||TAH directory organizations]]; cooperates with other Taiwanese American professional associations through joint seminars (per its own directory entry).
 
+## Vault records
+- [[works/taiwaneseamericanhistory-org/taita-east-coast|TAH record: TAITA-East Coast]] — the directory record this page is built from.
+- Sister TAITA records showing the association's wider activity: [[works/taiwaneseamerican-org/taita-sv-panel-presentation-opportunities-for-the-new-decade|TAITA Silicon Valley panel — opportunities for the new decade]] and [[works/taiwaneseamerican-org/summer-bbq-with-taita-in-norcal-2|Summer BBQ with TAITA in NorCal]].
+
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-american-industrial-technology-association-taita-east-coast/)
 

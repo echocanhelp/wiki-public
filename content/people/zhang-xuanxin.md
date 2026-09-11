@@ -72,6 +72,10 @@ Pages that link to **zhang-xuanxin** (zhang-xuanxin):
 
 - **Wife:** Yu-Ling Chang
 
+## Vault Cross-check
+- His 2022-05-15 action at ITPC is corroborated by the vault's church-community records; the companion honouree John Cheng has his own vault page at [[works/taiwaneseamericanhistory-org/artist36-john-cheng|TAH artist record: John Cheng]].
+- The ITPC shooting is separately sourced at [[sources/irvine-taiwanese-presbyterian-church||ITPC source page]].
+
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[organizations/irvine-taiwanese-presbyterian-church||ITPC]]

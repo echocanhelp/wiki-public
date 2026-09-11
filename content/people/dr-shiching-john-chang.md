@@ -48,6 +48,13 @@ Dr. Shiching (John) Chang 張錫清博士 – History of Taiwanese American (T.A
 - **Son:** Albert, Michael
 
 
+## Vault records
+His Kansas City community roles are corroborated by existing vault records:
+- [[organizations/taiwanese-association-of-greater-kansas-city-takc||TAKC (Taiwanese Association of Greater Kansas City)]] — he is listed as president of the Taiwanese Association of Kansas
+- [[works/taiwaneseamericanhistory-org/139-tainantaiwan-and-kansas-city-kansas-first-sister-city-program-1978|TAH #139: Tainan–Kansas City sister-city program (1978)]] — he chaired the Tainan Sister Cities committee
+- [[works/taiwaneseamericanhistory-org/40-banner-of-taiwan-independence-cup-softball-tournament-kansas|TAH #40: Taiwan Independence Cup softball banner]] · [[works/taiwaneseamericanhistory-org/42-t-shirt-of-taiwan-independence-cup-softball-tournament-kansas|TAH #42: tournament T-shirt]] — he organized the tournament
+- [[works/taiwaneseamericanhistory-org/taiwanese-american-heritage-week-of-kansas|TAH: Taiwanese American Heritage Week of Kansas]] · [[works/taiwaneseamericanhistory-org/43taiwanese-american-heritage-week-a-proclamation-of-kansas-city-mi|TAH #43: Kansas City MO proclamation]] — community context for his Kansas leadership era
+
 ## Sources
 - [TAH #26 encyclopedia: 26. Dr. Shiching (John) Chang 張錫清博士](https://taiwaneseamericanhistory.org/26-dr-shiching-john-chang/)
 - [TAH #75 encyclopedia: 75. Dr. Shiching (John) Chang 張錫清博士](https://taiwaneseamericanhistory.org/whos-who-75-shiching-john-chang/)
