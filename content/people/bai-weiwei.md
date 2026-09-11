@@ -9,7 +9,7 @@ tags:
 name_en: "Wei Wei Bai"
 name_zh_hanzi: "白偉瑋"
 verification_status: pending
-last_reviewed: 2026-09-10
+last_reviewed: 2026-09-11
 source_note: "TAHS 2025 organization chart (roles only; no private contacts); 2023 oral-history interviewer credit (Tier2)"
 ---
 # Wei Wei Bai (白偉瑋)
