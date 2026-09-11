@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-10
+last_reviewed: 2026-09-11
 ---
 # Dr. Ching C. Shir (石清正博士)
 
@@ -48,5 +48,12 @@ Accomplishment
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
-## Deepen pass (2026-09-10)
+## Vault Holdings
+- [[works/taiwaneseamericanhistory-org/61-dr-ching-c-shir|TAH #61 Dr. Ching C. Shir 石清正博士]] — 本人百科條目
+- [[works/taiwaneseamericanhistory-org/whos-who-296-ching-c-shir|TAH #296 Dr. Ching C. Shir 石清正博士]] — 本人百科條目
+- [[works/taiwaneseamericanhistory-org/collection-of-dr-ching-c-shir|TAH 石清正博士收藏]]
+- [[works/taiwaneseamericanhistory-org/92-dr-tu-chen-dr-c-c-shir-and-dr-c-s-huang-e9-99-b3-e9-83-bd-e3-80-81-e7-9f-b3-e|TAH #92 徐、石、黃三人捐贈文物]] — 共同捐贈者之一
+
+## Deepen pass (2026-09-11)
+- 補上 vault 內既有本人記錄連結（#61、#296、個人收藏、#92 共同捐贈文物）。
 - TAH #61/#296 記錄之 TAI(北加州)、Paradise Culture Associates 目前無對應 vault 頁面，未加連結。

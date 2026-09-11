@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-10
+last_reviewed: 2026-09-11
 ---
 # Prof. Hsing-Jien Kung (龔行健教授)
 
@@ -43,5 +43,9 @@ _No filled family fields on the TAH profile._
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
-## Deepen pass (2026-09-10)
-- NHRI、Taipei Medical University 無 vault 頁面；UC Davis 社團連結為地域關聯，非本人成員事實。
+## Vault Holdings
+- [[works/taiwaneseamericanhistory-org/whos-who-1781-hsing-jien-kung|TAH #1781 Prof. Hsing-Jien Kung 龔行健教授]] — 本人百科條目
+
+## Deepen pass (2026-09-11)
+- 補上 vault 內本人百科條目（#1781）連結。
+- NHRI、Taipei Medical University、UC Davis Comprehensive Cancer Center 無 vault 頁面；UC Davis 社團連結為地域關聯，非本人成員事實。

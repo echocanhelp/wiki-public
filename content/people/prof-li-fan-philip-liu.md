@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-10
+last_reviewed: 2026-09-11
 ---
 # Prof. Li-Fan Philip Liu (劉立方教授)
 
@@ -44,5 +44,10 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
-- [[organizations/cornell-taiwanese-american-society||Cornell Taiwanese American Society]]
-- [[organizations/association-of-taiwanese-students-at-mit||Association of Taiwanese Students at MIT]]
+- [[organizations/cornell-taiwanese-american-society||Cornell Taiwanese American Society]] — 任教所在地Cornell（1974–2017）社團，地域關聯
+- [[organizations/cornell-taiwanese-student-association||Cornell Taiwanese Student Association]] — 任教所在地Cornell社團，地域關聯
+- [[organizations/association-of-taiwanese-students-at-mit||Association of Taiwanese Students at MIT]] — 就學所在地MIT社團，地域關聯
+
+## Deepen pass (2026-09-11)
+- Cornell 教職（1974–2017）與 MIT 求學期間之台籍社團以地域關聯標示，非本人成員事實。
+- National University of Singapore（2015–）無 vault 頁面，未加連結。

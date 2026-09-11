@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-10
+last_reviewed: 2026-09-11
 ---
 # Emily Muramoto (蔡蕙宇)
 
@@ -44,3 +44,7 @@ _No filled family fields on the TAH profile._
 ## Vault records（deepen pass 2026-09-10）
 - 本頁傳記之 TAH 出處頁：[[works/taiwaneseamericanhistory-org/331-emily-muramoto-vocalist-201602||TAH #331 Emily Muramoto, Vocalist (2016/02)]]。
 - publisher／語料庫：[[sources/taiwaneseamericanhistory-org-story-corpus||TAH story corpus]]。
+- [[organizations/orange-county-taiwanese-association||Orange County Taiwanese Association]] — 本人活動地（Orange County）社團，地域關聯，非成員事實。
+
+## Deepen pass (2026-09-11)
+- OCSA、Carnegie Hall Weill Concert Hall、Orange County Lutheran Church 目前無 vault 頁面，未加連結；本頁無需補傳記（TAH #331 記錄已全數吸收）。

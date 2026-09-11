@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-10
+last_reviewed: 2026-09-11
 ---
 # Yiwei Lin (林怡薇)
 
@@ -49,3 +49,8 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+## Vault records (deepen pass 2026-09-11)
+- 本頁傳記之 TAH 出處頁已入 vault：[[works/taiwaneseamericanhistory-org/275-yiwei-lin-e6-9e-97-e6-80-a1-e8-96-87-pianist-201508|TAH #275 Yiwei Lin 林怡薇, Pianist (2015/08)]]、[[works/taiwaneseamericanhistory-org/547-yiwei-lin-e6-9e-97-e6-80-a1-e8-96-87-201508|TAH #547 Yiwei Lin 林怡薇 (2015/08)]]。
+- publisher／語料庫：[[sources/taiwaneseamericanhistory-org-story-corpus||TAH story corpus]]。
+- St. Louis 台灣人社區脈絡（vault 有相關記錄，未見本人直接關聯記載）：[[organizations/taiwanese-association-of-america-in-greater-st-louis|TAA Greater St. Louis]]。
