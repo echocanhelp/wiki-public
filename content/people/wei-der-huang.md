@@ -54,6 +54,7 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- [[sources/taiwaneseamericanhistory-org-story-corpus||TAH story corpus]] — her encyclopedia entries #1084 and #8 are held as bibliographic records in the corpus
 - [[works/taiwaneseamericanhistory-org/whoswho1084||TAH Encyclopedia #1084: 黃瑋德]]
 - [[works/taiwaneseamericanhistory-org/muscian8||TAH Encyclopedia #8: 黃瑋德, Pianist]]
 - [[organizations/taiwanese-american-student-association-at-the-university-of-maryland-college-park||Taiwanese American Student Association at UMD]] — Taiwanese student community at College Park, where Huang earned her DMA

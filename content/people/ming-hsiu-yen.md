@@ -60,3 +60,4 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- [[sources/taiwaneseamericanhistory-org-story-corpus||TAH story corpus]] — her encyclopedia entries #1087, #571, and #287 are held as bibliographic records in the corpus

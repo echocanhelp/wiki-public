@@ -44,6 +44,13 @@ Prof. W.S. (William) Wei 魏武雄教授 – History of Taiwanese American (T.A.
 - **Son:** Stephen Wei, Stanley Wei
 
 
+## Vault Records
+
+- [[works/taiwaneseamericanhistory-org/131-prof-w-s-william-wei||TAH encyclopedia #131 — Prof. W.S. (William) Wei 魏武雄教授]]
+- [[works/taiwaneseamericanhistory-org/whos-who-632-w-s-wei||TAH Who's Who #632 — 魏武雄教授]]
+- Both held as bibliographic records in the [[sources/taiwaneseamericanhistory-org-story-corpus||TAH story corpus]].
+- His T.A. Archives (台美史料中心) role is documented under [[organizations/tah-foundation||TAH Foundation]].
+
 ## Sources
 - [TAH #131 encyclopedia: 131. Prof. W.S. (William) Wei 魏武雄教授](https://taiwaneseamericanhistory.org/131-prof-w-s-william-wei/)
 - [TAH #632 encyclopedia: 632. Prof. W.S. (William) Wei 魏武雄教授](https://taiwaneseamericanhistory.org/whos-who-632-w-s-wei/)
