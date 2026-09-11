@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-10
+last_reviewed: 2026-09-11
 ---
 # Zhang Xuanxin (張宣信)
 
@@ -37,7 +37,7 @@ Details below are absorbed from pages already in the vault (no new sourcing):
 - **Ordained pastor, 21-year ITPC ministry.** Vault accounts describe him as 張宣信牧師 (Pastor Billy Chang), the former pastor (前任牧師) of ITPC who 曾牧會21年; by 2023 he served 台北中會南門教會 in Taipei ([[articles/taiwanjustice-net/2023/20230530143708_2023_03_20_irvine-台灣基督長老教會槍擊案紀念冊-為台美人下一代_76cab17abde5b880|TAJ memorial-book report, 2023-03-20]]).
 - **ITPC 長青教室.** Listed as a contact person (with Ken Ao) for ITPC's free senior-learner program at Laguna Woods Village ([[works/taiwaneseamericanhistory-org/ourjourneys107|TAH #107, 2015/02]]).
 - **2022-05-15 shooting, as recorded in TAH #380 and TAJ reports.** He was guest-ministering because current pastor [[people/li-furen|李輔仁 Li Furen]] was away covering for the recently operated [[people/chen-meihui|陳美蕙 Chen Meihui]]; during the welcome lunch the gunman chained the doors and opened fire. Dr. John Cheng rushed the gunman and was shot; Chang waited for the magazine change, struck the gunman with a chair, and elders aged 60–70 pinned and bound him with an electrical cord. Rep. Young Kim publicly commended his quick action ([[works/taiwaneseamericanhistory-org/our-journeys-380|TAH #380, 2022/05]]; [[articles/taiwanjustice-net/2025/20250212080020_一把椅子制伏槍手-南加州教會槍擊案目擊者_勇敢_4a1c41c54468c213|TAJ eyewitness report, 2022-05-21]]).
-- **2023 memorial book.** He is quoted on the church's bilingual memorial volume 《今生難忘的5152022》, deposited with 台大, 台南, 玉山神學院, 台灣教授協會 and the PCT history archive (TAJ report above).
+- **2023 memorial book.** He is quoted on the church's bilingual memorial volume 《今生難忘的5152022》, deposited with 台大, 台南, 玉山神學院, 台灣教授協會 and the [[organizations/presbyterian-church-in-taiwan||PCT]] history archive (TAJ report above).
 - **Who's Who entry:** [[works/taiwaneseamericanhistory-org/whos-who-2322|TAH #2322 Billy Chang 張宣信 (2024-09-10)]].
 
 ## Timeline

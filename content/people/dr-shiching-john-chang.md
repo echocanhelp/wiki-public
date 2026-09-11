@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-10
+last_reviewed: 2026-09-11
 ---
 # Dr. Shiching John Chang (張錫清博士)
 
@@ -50,7 +50,7 @@ Dr. Shiching (John) Chang 張錫清博士 – History of Taiwanese American (T.A
 ## Vault Record Absorbed (2026-09-10)
 Chang is himself a TAH story contributor — four bylined pieces already in the vault document his community work (no new sourcing):
 
-- **NATWA-Kansas military-family support.** As an officer of the Kansas chapter of the North American Taiwanese Women's Association, he authored a report on monthly care packages for overseas-deployed servicemembers, Christmas gifts for 10–15 wounded veterans' families, and emergency rent/utility/auto-loan aid for wounded-veteran households ([[works/taiwaneseamericanhistory-org/ourjourneys137|TAH #137, 2015/05]]; chapter page: [[organizations/north-america-taiwanese-womens-association-kansas-chapter|NATWA-Kansas]]).
+- **NATWA-Kansas military-family support.** As an officer of the Kansas chapter of the [[organizations/north-america-taiwanese-womens-association||North American Taiwanese Women's Association]], he authored a report on monthly care packages for overseas-deployed servicemembers, Christmas gifts for 10–15 wounded veterans' families, and emergency rent/utility/auto-loan aid for wounded-veteran households ([[works/taiwaneseamericanhistory-org/ourjourneys137|TAH #137, 2015/05]]; chapter page: [[organizations/north-america-taiwanese-womens-association-kansas-chapter|NATWA-Kansas]]).
 - **Taiwan Independence Cup softball.** He authored the record of the annual tournament he organizes ([[works/taiwaneseamericanhistory-org/55-taiwan-independence-cup|TAH #55, 2018/11]]).
 - **Taiwan-birthplace passport campaign.** He authored the story of 林良炫, the first Taiwanese American to demand "Taiwan" as birthplace on a US passport ([[works/taiwaneseamericanhistory-org/mystories327|TAH #327, 2015/09]]).
 - **Plains Region Fall Camp.** He authored a note on the TAA Plains-region fall camp tradition, first held 1985 in Manhattan, Kansas ([[works/taiwaneseamericanhistory-org/our-journeys-351|TAH #351, 2020/01]]) — the regional circle around his [[organizations/taiwanese-association-of-greater-kansas-city-takc|TAKC / Taiwanese Association of Kansas]] presidency.

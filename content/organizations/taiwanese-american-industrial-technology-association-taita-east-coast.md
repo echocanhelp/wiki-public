@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-10
+last_reviewed: 2026-09-11
 ---
 # Taiwanese American Industrial Technology Association TAITA-East Coast (台美產業科技協會美東分會)
 
