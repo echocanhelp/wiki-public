@@ -28,7 +28,7 @@ Accomplishment
 - **1982–** — Deputy Vice Director, Pacific Biotech
 - **1994–** — Co-founder, Wyntek Diagnostics; later Vice President of Operations, Genzyme Diagnostics San Diego (formerly Wyntek Diagnostics, Inc.)
 - **1998–2005 & 2010–2018** — Chairman, [[organizations/tsunah-foundation||Tsunah Foundation (美國慈林基金會)]]
-- **Community** — Co-founder, Taiwanese American Foundation of San Diego; Co-founder, Taiwan Center in San Diego; Board Member, San Diego County CLERB (Citizens' Law Enforcement Review Board); President, NATWA/Greater San Diego Chapter (北美洲台灣婦女會聖地牙哥分會)
+- **Community** — Co-founder, [[organizations/taiwanese-american-foundation-of-san-diego||Taiwanese American Foundation of San Diego]]; Co-founder, Taiwan Center in San Diego; Board Member, San Diego County CLERB (Citizens' Law Enforcement Review Board); President, [[organizations/north-america-taiwanese-womens-association-greater-san-diego-chapter||NATWA/Greater San Diego Chapter (北美洲台灣婦女會聖地牙哥分會)]]
 
 <!-- tah-tables:start -->
 ## Education
