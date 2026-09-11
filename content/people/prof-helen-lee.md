@@ -62,3 +62,5 @@ Education (per TAH encyclopedia tables): B.A. Music, Chinese Culture University;
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- [[works/taiwaneseamericanhistory-org/16-prof-helen-lee||TAH encyclopedia #16: Prof. Helen Lee 李雪玟教授]]
+- [[works/taiwaneseamericanhistory-org/whos-who1313-helen-lee||TAH encyclopedia #1313: Prof. Helen Lee 李雪玟教授]]

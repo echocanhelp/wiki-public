@@ -67,6 +67,7 @@ She is recorded in the TAH Who's Who encyclopedia (#306, 2015/02) and on the [[s
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
+- [[works/taiwaneseamericanhistory-org/306-shirley-yu-e5-bc-b5-e6-ac-a3-e7-8f-a0201502||TAH encyclopedia #306: Shirley Yu 張欣珠 (2015/02)]]
 
 - [[organizations/taiwan-center||Taiwan Center]]
 - [[sources/taiwancenter-org||taiwancenter.org source]]

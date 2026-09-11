@@ -60,6 +60,7 @@ A citation accompanying Shih-Hui Chen’s Goddard Lieberson Fellowship from the 
 - **Other honors (per TAH #191):** Koussevitzky Music Foundation Commission · Guggenheim Fellowship · American Academy in Rome Prize
 - **Recordings:** *66 Times* (Albany Records — New Music Box: “…completely blurs the line between traditional Chinese music and contemporary American composition”) · *Returning Souls* (New World — Wire Magazine: “deep musical intelligence”)
 - **Career:** professor, Rice University Shepherd School of Music (2000–present); also Longy School of Music, Bunting Institute of Harvard University, Boston University Tanglewood Institute (作曲總監)
+- **1999-10-22 —** the Formosan Chamber Music Society presented a program of new music by Shih-Hui Chen: concert record in the vault at [[works/taiwaneseamericanhistory-org/musical-concerts-155|TAH #155, Formosan Chamber Music Society / New Music By Shih-Hui Chen (10/22/1999)]]
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
