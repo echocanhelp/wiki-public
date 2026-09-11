@@ -33,7 +33,7 @@ Accomplishment
 ## Timeline
 - **Medical training** — M.D., Taipei Medical Univ. (台北醫學大學).
 - **Philadelphia area career** — Director of Surgery and Deputy Director of Surgery Department, Urology, Bucks County Branch, Temple University of Pennsylvania; Attending Physician and Assistant Professor, Hahnemann Medical College Hospital; Physician, Bucks County Urology Clinic.
-- **FAPA PA Chapter** — President, Formosan Association for Public Affairs (FAPA) Pennsylvania Chapter (台灣人公共事務會賓夕法尼亞州分會).
+- **FAPA PA Chapter** — President, Formosan Association for Public Affairs (FAPA) [[organizations/fapa-los-angeles|FAPA]] Pennsylvania Chapter (台灣人公共事務會賓夕法尼亞州分會).
 - **2009–2012** — President, [[organizations/taiwan-hakka-association-for-public-affairs-in-north-america||Taiwan Hakka Association for Public Affairs in North America (HAPA-NA)]] (北美客家公共事務協會會長).
 - **Community** — President, Taiwanese Hakka Association of Greater Philadelphia (大費城台灣客家同鄉會).
 

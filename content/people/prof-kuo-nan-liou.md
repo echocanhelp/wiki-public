@@ -62,3 +62,7 @@ _No filled family fields on the TAH profile._
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - [[works/taiwaneseamericanhistory-org/whos-who-1797-kuo-nan-liou||TAH #1797: Prof. Kuo-Nan Liou 廖國男教授]]
 - [[works/taiwaneseamericanhistory-org/carl-gustaf-rossby-research-medal-2018-roger-revelle-medal-2013-kuo-nan-liou||Rossby & Revelle Medals / Kuo-Nan Liou (廖國男)]]
+
+## Deepen — 2026-09-11 (vault-only re-check)
+
+All existing wikilinks (TAH #1797 work page, Rossby/Revelle medals work page, TAH Foundation, source hub) re-verified against live vault slugs; no broken links. No further unabsorbed facts in cited vault records.

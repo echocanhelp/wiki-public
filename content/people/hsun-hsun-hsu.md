@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-10
+last_reviewed: 2026-09-11
 ---
 # Hsun-Hsun Hsu (許恂恂)
 
@@ -56,3 +56,6 @@ _No filled family fields on the TAH profile._
 
 ## Deepen pass 2026-09-10 (vault-only)
 The #82 encyclopedia record exists in the vault and is wikilinked above; the #356 citation has no matching vault copy (the only #356 work in the vault is an unrelated entry). Timeline already absorbs the on-page TAH biography in full (USC B.A./M.S. vocal performance under Cynthia Munzer, Phi Kappa Lambda, NATS Young Artist prizewinner, Long Beach Mozart Festival finalist, Opera Buffs scholarship, Chi Mei Arts and Music Foundation sponsorship ×2, PCT church music posts). No further vault-internal facts to absorb.
+
+## Deepen pass 2026-09-11 (vault-only)
+Her USC vocal-performance years also connect to the vault's [[organizations/taiwanese-american-organization-at-the-university-of-southern-california||Taiwanese American Organization at USC]] (community-layer link; no membership recorded in the TAH source). [[works/taiwaneseamericanhistory-org/82-hsun-hsun-hsu-e8-a8-b1-e6-81-82-e6-81-82conductor||TAH #82]] remains the only vault copy; #356 still has no vault duplicate. No biography beyond the on-page TAH text was added.

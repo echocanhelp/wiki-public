@@ -4,7 +4,7 @@ type: person
 tags:
   - 
 verification_status: pending
-last_reviewed: 2026-09-10
+last_reviewed: 2026-09-11
 ---
 # TAHS Member Onboarding
 
@@ -65,3 +65,6 @@ Pages that link to **tahs-member-onboarding** (tahs-member-onboarding):
 
 - The society page [[organizations/taiwanese-american-historical-society||TAHS]] documents this pathway as **owner-confirmed LINE introductions, membership recorded with appointment basis** — the consent-boundary rule above in practice.
 - Officers recorded through this pathway are listed on the society page, including CTO [[people/david-lee||David Lee (李東璞)]], one of the two people pages that link back here.
+
+## Deepen pass 2026-09-11 (vault-only)
+Verified backlinks: [[people/david-lee||David Lee (李東璞)]] and [[people/index|index]] remain the only people pages linking here; the society page [[organizations/taiwanese-american-historical-society||TAHS]] remains the authority for owner-confirmed LINE introductions. The LINE ↔ Echopedia Identity Linking decision tree / v1 schema documents are not yet vault pages, so they stay as plain-text references (no wikilink added).

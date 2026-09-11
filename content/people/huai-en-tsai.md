@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-10
+last_reviewed: 2026-09-11
 ---
 # Huai-En Tsai (蔡懷恩)
 
@@ -58,3 +58,6 @@ Currently a freelance musician in Washington D.C area, trombonist Huai-En Tsai �
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - [[works/taiwaneseamericanhistory-org/421-huai-en-tsai-e8-94-a1-e6-87-b7-e6-81-a9-201505||TAH #421: Huai-En Tsai 蔡懷恩 / 2015-05]]
+
+## Deepen pass 2026-09-11 (vault-only)
+No further vault-internal facts to absorb: [[works/taiwaneseamericanhistory-org/421-huai-en-tsai-e8-94-a1-e6-87-b7-e6-81-a9-201505||TAH #421]] is the sole vault copy of his record and is already mirrored into the timeline (Peabody B.S./Musical Arts doctorate, 2006 Baltimore Music Club win, Asia Trombone Seminar since 2007). No vault pages exist for Soochow University or the Peabody Institute, so no additional wikilinks are permissible.
