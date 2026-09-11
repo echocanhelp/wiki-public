@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-10
+last_reviewed: 2026-09-11
 ---
 # Sonia Lee (王淑女)
 
@@ -59,3 +59,4 @@ _No filled family fields on the TAH profile._
 
 ## Network
 - [[organizations/presbyterian-church-in-taiwan||PCT]] — TAH Who’s Who
+- Her NTNU piano-training generation is documented in the alumni corpus: see [[works/taiwaneseamericanhistory-org/140-ntnuaa||NTNU alumni association record]].

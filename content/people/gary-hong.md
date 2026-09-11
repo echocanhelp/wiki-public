@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-10
+last_reviewed: 2026-09-11
 ---
 # Gary Hong (洪逸凡)
 
@@ -60,3 +60,4 @@ _No filled family fields on the TAH profile._
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - [[sources/taiwaneseamericanhistory-org-story-corpus||TAH story corpus hub]]
+- His Tunghai fine-arts graduate studies connect to the Tunghai alumni network in Southern California: see [[works/taiwaneseamericanhistory-org/tunghai-alumni-in-the-greater-los-angeles-area||Tunghai Alumni in the greater Los Angeles area]].

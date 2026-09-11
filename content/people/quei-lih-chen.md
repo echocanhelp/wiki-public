@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-10
+last_reviewed: 2026-09-11
 ---
 # Quei-Lih Chen (陳瑰麗)
 
@@ -52,3 +52,4 @@ _No filled family fields on the TAH profile._
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - Reciprocal mention in the vault: [[works/taiwaneseamericanhistory-org/ourjourneys29||Our Journeys #29 — 南加州台灣會館開創的史料]] lists 陳瑰麗 among the TAHS-related figures.
 - Peabody Conservatory years sit in the Johns Hopkins orbit: see [[organizations/johns-hopkins-university-taiwanese-student-association||JHU Taiwanese Student Association]].
+- Her USC DMA years (2001) connect to the USC campus in the TA record: see [[works/taiwaneseamerican-org/itasa-leadership-retreat-at-usc||ITASA leadership retreat at USC]].
