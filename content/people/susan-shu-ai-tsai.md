@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-10
+last_reviewed: 2026-09-11
 ---
 # Susan Shu-Ai Tsai (蔡淑愛)
 

@@ -54,3 +54,4 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- [[works/taiwaneseamericanhistory-org/ota-298|TAH #298 encyclopedia: Prof. Chung Y. Hsu 許重義教授]] · [[works/taiwaneseamericanhistory-org/whos-who-723-chung-yi-hsu|TAH #723 encyclopedia: Prof. Chung-Yi Hsu 許重義教授]]

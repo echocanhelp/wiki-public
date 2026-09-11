@@ -33,3 +33,6 @@ Evergreen Senior University (ESU) is an outreach program of Evangelical Formosan
 
 - [[organizations/irvine-taiwanese-presbyterian-church||Irvine Taiwanese Presbyterian Church]] (Irvine 教會樂齡教育平行案例)
 - [[organizations/houston-formosan-evergreen-association||Houston Formosan Evergreen Association]] (長者服務同類社團)
+- [[organizations/evergreen-class-by-irvine-taiwanese-presbyterian-church-laguna-hills-ca||Evergreen Class 長青教室 (Irvine TPC, Laguna Hills)]] (Irvine 地區教會長青教育同類方案)
+- [[organizations/taiwanese-evergreen-academy||Taiwanese Evergreen Academy 矽谷迦南長青學院]] (長者教育同類機構)
+- [[organizations/formosa-senior-association||Formosa Senior Association]] (長者服務同類社團)

@@ -51,3 +51,4 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- [[works/taiwaneseamericanhistory-org/whos-who-2023-tai-chang-chiang|TAH #2023 encyclopedia: Prof. Tai Chang Chiang 江台章教授]]
