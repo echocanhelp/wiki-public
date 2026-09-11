@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-10
+last_reviewed: 2026-09-11
 ---
 # Hannah Hsu Wang (許鴻玉)
 
@@ -51,3 +51,4 @@ _No filled family fields on the TAH profile._
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - [[organizations/north-america-taiwanese-womens-association|North America Taiwanese Women's Association]] — parent organization of the New York chapter she led as president
+- Vault record of the chapter she chaired: [[works/taiwaneseamericanhistory-org/natwa-new-york-chapter|NATWA New York Chapter record]]

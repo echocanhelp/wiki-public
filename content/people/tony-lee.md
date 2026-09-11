@@ -7,7 +7,7 @@ tags:
   - Taiwan-Center
   - board
 verification_status: published
-last_reviewed: 2026-09-10
+last_reviewed: 2026-09-11
 ---
 # Tony Lee (李賢群)
 
@@ -46,6 +46,7 @@ last_reviewed: 2026-09-10
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
+- [[works/taiwaneseamericanhistory-org/whos-who-710|TAH #710 encyclopedia entry]]
 
 - [[organizations/taiwan-center||Taiwan Center]]
 - [[sources/taiwancenter-org||taiwancenter.org source]]

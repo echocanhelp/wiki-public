@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-10
+last_reviewed: 2026-09-11
 ---
 # Prof. Yu-Chong Tai (戴聿昌教授)
 
@@ -48,6 +48,8 @@ _No filled family fields on the TAH profile._
 
 - **Vault record:** [[works/taiwaneseamericanhistory-org/whos-who-2022-yu-chong-ta||TAH #2022 encyclopedia record]] (published 2018-02-12) in the [[sources/taiwaneseamericanhistory-org-story-corpus||TAH story corpus]].
 - **Berkeley context:** the vault holds [[organizations/taiwanese-american-student-association-at-uc-berkeley||Taiwanese American Student Association at UC Berkeley]] as community context for his graduate years (M.S. 1986, Ph.D. 1989).
+- **Berkeley student association (general):** the vault also holds [[organizations/taiwanese-student-association-at-uc-berkeley||Taiwanese Student Association at UC Berkeley]] as additional community context for 1981–1989.
+- **Deepen-X19 check (2026-09-11):** all TAH profile facts (Caltech faculty ladder 1989–, EE/Bio/ME/Medical Engineering chairs, department leadership 2002–2008, 2013–) already absorbed verbatim from the cited vault record; no further vault-sourced facts remain.
 
 ## Career timeline (from cited TAH profile)
 

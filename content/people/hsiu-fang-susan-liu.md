@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-10
+last_reviewed: 2026-09-11
 ---
 # Hsiu-Fang Susan Liu (陳秀芳)
 
@@ -63,6 +63,9 @@ Accomplishment
 - [[works/taiwaneseamericanhistory-org/history-of-taiwanese-association-of-america-minnesota-chapter||History of TAA Minnesota Chapter]] — Festivals of Nations committee context
 - [[works/taiwaneseamericanhistory-org/10-participation-of-festival-of-nations-by-taa-minnesota-chapter-in-st-paul-mn-m||TAA Minnesota participation in Festival of Nations]] — documented committee involvement
 - [[works/taiwaneseamericanhistory-org/whos-who-83-hsiu-fang-liu||TAH Who's Who #83]] — source profile
+- [[organizations/taiwanese-association-of-america-in-greater-st-louis||TAA in Greater St. Louis]] — community context for her St. Louis years (M.S. Social Work, Washington University, 1976)
+- [[organizations/taiwanese-association-of-america-the-greater-chicago||TAA of Greater Chicago]] — community context for her DePaul University computer-science studies (1982)
+- **Deepen-X19 check (2026-09-11):** all TAH #83 facts (CCF, 台南神學院, Blue Cross, St. Paul/Travelers 1984–2006, Festivals of Nations 1987–2019, Taiwanese American Archives co-founder, children Karen and Benjamin) already absorbed; TAH #25 interview-authorship and Bob Cheng portrait cross-links verified against those vault pages.
 
 ## Vault records (deepen pass 2026-09-10)
 

@@ -8,7 +8,7 @@ tags:
   - tahs-publication-2017
   - shihping-site
 verification_status: pending
-last_reviewed: 2026-09-10
+last_reviewed: 2026-09-11
 ---
 # Lin Chao-chi (林朝棨)
 
@@ -52,4 +52,11 @@ As the third uncle (三舅) of 廖述宗, Lin Chao-chi was part of the extended 
 
 - [[people/liao-shu-zong||廖述宗 (Liao Shu-zong) — nephew]]
 - [[people/lin-chao-quan||林朝權 (Lin Chao-quan) — second uncle, relative]]
+- [[people/lin-qiong-xian||林瓊仙 (Lin Qiong-xian) — sister, link to the 廖 family]]
+- [[people/liao-ji-chun||廖繼春 (Liao Ji-chun) — brother-in-law (sister's husband)]]
+- [[people/yang-jia-you||楊嘉猷 (Charles Yang) — memorial author]]
 - [[sources/2017-tahs-publication||2017 TAHS Publication]]
+
+## Deepen-X19 check (2026-09-11)
+
+- All vault-sourced facts already absorbed: 十三行遺址 discovery (楊嘉猷 memorial, 2017 TAHS hub), 豐原三傑 anecdote, 台大地質系 professorship, and the full 林尚／林朝權／林瓊仙／林朝業 family layer (Our Journeys #350). The 板橋 vs 十三行 site-attribution discrepancy remains flagged pending verification; no new pages or web sources added this pass.

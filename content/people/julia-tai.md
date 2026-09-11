@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-10
+last_reviewed: 2026-09-11
 ---
 # Julia Tai (戴宇音)
 
@@ -48,6 +48,12 @@ _No filled family fields on the TAH profile._
 ## Vault records (deepen pass 2026-09-10)
 
 - A second TAH encyclopedia entry, #494 (published 2015-07-11), is held in the vault alongside #239: [[works/taiwaneseamericanhistory-org/494-julia-tai-e6-88-b4-e5-ae-87-e9-9f-b3-201507||TAH #494: Julia Tai 戴宇音]]. Her USC Thornton "Outstanding Graduate of 2004" award and DMA conducting studies under Peter Eros are documented in these vault entries.
+
+## Connected in the Vault
+
+- **USC context:** the vault holds [[organizations/taiwanese-student-association-at-the-university-of-southern-california||Taiwanese Student Association at USC]] and [[organizations/taiwanese-american-organization-at-the-university-of-southern-california||Taiwanese American Organization at USC]] as community context for her USC years (1998–2004, B.M. Vocal Arts, M.M. Choral Conducting).
+- **University of Washington context:** the vault holds [[organizations/taiwanese-student-association-at-university-of-washington||Taiwanese Student Association at the University of Washington]] as community context for her DMA conducting studies.
+- **Deepen-X19 check (2026-09-11):** both TAH encyclopedia entries (#239, #494) are linked and their facts (Outstanding Graduate of 2004, studies under Peter Eros / Ronald Patterson, current and past posts) already absorbed; no further vault-sourced facts remain.
 
 ## Sources
 - [TAH #239 encyclopedia: 239. Julia Tai戴宇音, Conductor / 2015/07](https://taiwaneseamericanhistory.org/239-julia-tai%e6%88%b4%e5%ae%87%e9%9f%b3-conductor-201507/)
