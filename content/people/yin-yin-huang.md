@@ -59,3 +59,8 @@ Yin Yin Huang, pianist, born in Taiwan, began her piano lessons at the age of 8 
 
 ## Network
 - [[organizations/presbyterian-church-in-taiwan||PCT]] — TAH Who’s Who
+
+## Vault records (deepen pass 2026-09-10)
+- The vault holds two TAH encyclopedia records for her: [[works/taiwaneseamericanhistory-org/whos-who-433-yin-yin-huang||Who's Who #433]] and the earlier [[works/taiwaneseamericanhistory-org/202-yin-yin-huang-e9-bb-84-e7-85-90-e5-aa-96-pianist-201505||#202 pianist profile (2015/05)]]; both were harvested under [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]] via [[organizations/tah-foundation||TAH Foundation]].
+- Her pre-emigration post in the cited tables — Assistant Professor at 臺南神學院 — sits in the [[organizations/presbyterian-church-in-taiwan||PCT]] school system (see Network).
+- Her U.S. base since 2000 is [[organizations/acevedo-music-and-art-education-foundation-inc||Acevedo Music & Art Education Foundation (惜台社)]], which she has led as President / Artistic Director since 2005 alongside her CSULA Department of Music faculty post; her sons (Elliot and Evan Jung Acevedo) are listed in the same record.

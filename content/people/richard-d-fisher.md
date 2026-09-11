@@ -80,3 +80,7 @@ See the source hub. Top mentions:
 - [[sources/taiwanjustice-net||taiwanjustice.net source hub]]
 - [[organizations/taiwanjustice-net||taiwanjustice.net (台灣公義網)]]
 - [[people/freeman-huang||Freeman Huang (黃樹人)]]
+
+## Vault records (deepen pass 2026-09-10)
+- The archive preserves two title hits — the 2024 air-superiority column [[articles/taiwanjustice-net/2024/20240725005235_root_7f15b38e799d4267||台灣確保空優的不對稱與對稱戰力選項]] and the 2025 artillery column [[articles/taiwanjustice-net/2025/20250425155555_戰略火砲的及時回歸-_費學禮_richard-d-fisher-jr-_c4d8b26293607cca||戰略火砲的及時回歸]] — plus two body mentions (2019-12-17 aircraft-carrier piece, 2021-12-11 daily archive).
+- Byline registry: 費學禮 (alias fei-xue-li, Columnist, 2 title hits). He shares the [[organizations/taiwanjustice-net||taiwanjustice.net (台灣公義網)]] archive hub with fellow columnist [[people/freeman-huang||Freeman Huang (黃樹人)]].

@@ -56,3 +56,7 @@ Amanda H.M. Chen (Conductor). Amanda Chen holds a BS degree in Political Science
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[organizations/greater-washington-taiwan-culture-center||Greater Washington Taiwanese community]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+## Vault records (deepen pass 2026-09-10)
+- The vault holds two TAH encyclopedia records under different bylines: [[works/taiwaneseamericanhistory-org/whos-who-1707-amanda-hsu||Who's Who #1707 "Amanda Hsu"]] (journalist) and [[works/taiwaneseamericanhistory-org/musician407||#407 "Amanda Chen, conductor" (06/2017)]] — one person: NTU Political Science BS, Univ. of Maryland Journalism MS, married to [[people/frank-c-h-chen||陳治煌]].
+- Timeline absorbed from the cited tables: moved to Greater Washington D.C. 1986 → co-founded 海天合唱團 1989 (conductor, many terms) → 華府榮星兒童合唱團 faculty 1996–2003 (Training choir coach 3 years) → 北美世界日報 D.C. News Division lead journalist 1997–2015 → freelance from 2015; community highlight: ACDA Greater D.C. Honor Chorus under John Rutter, 2008.

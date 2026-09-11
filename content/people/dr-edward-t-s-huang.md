@@ -68,3 +68,7 @@ A chemical engineer born in Tainan in 1936, Dr. Huang built a four-decade career
 ## Network
 - [[organizations/the-board-of-taiwanese-american-conferences-west-coast-tac-wc||TAC/West Coast]] — Coordinator — TAH Who's Who
 - [[organizations/tass-eb||TASS-EB]] — President — TAH Who's Who
+
+## Vault records (deepen pass 2026-09-10)
+- Two TAH encyclopedia records are cited in the vault: [[works/taiwaneseamericanhistory-org/ota-56||#56]] and [[works/taiwaneseamericanhistory-org/whos-who-1018-edward-t-s-huang||Who's Who #1018]], harvested under [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]] via [[organizations/tah-foundation||TAH Foundation]].
+- The cited tables record his career arc NCKU ChemE BS 1958 → Univ. of Kansas MS 1962 / PhD 1966 → oil-field research (Cities Service, Gulf R&D, Sohio/Prudhoe Bay, Unocal) → supercritical fluid work back at NCKU 1995–2000 → drug micronization at Univ. of Colorado 2000–2004; family: wife 韓淑真.
