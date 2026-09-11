@@ -42,8 +42,15 @@ May-Sing studied music in college, and had a lot of concert experience since gra
 
 ## Family
 
-- **Husband:** 張信行
+- **Husband:** 張信行 — both were key promoters of the Taiwan Center: [[works/taiwaneseamericanhistory-org/mystories21||TAH #21: 張信行、黃美星 台灣會館主要推手 (楊寧茵, 2014/09)]]; see also [[organizations/taiwan-center||Taiwan Center]]
 
+## Related Pages
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- [[works/taiwaneseamericanhistory-org/195-may-sing-chang||TAH Encyclopedia #195: May-Sing Chang 黃美星]]
+- [[works/taiwaneseamericanhistory-org/263-may-sing-huang-e9-bb-83-e7-be-8e-e6-98-9f-vocalist-201508||TAH Encyclopedia #263: May-Sing Chang 黃美星, Vocalist (2015-08)]]
+- [[organizations/north-america-taiwanese-womens-association||NATWA]]
+- [[organizations/taiwanese-association-of-oklahoma||Taiwanese Association of Oklahoma]]
 
 ## Sources
 - [TAH #195 encyclopedia: 195. May-Sing Chang 黃美星](https://taiwaneseamericanhistory.org/195-may-sing-chang/)
