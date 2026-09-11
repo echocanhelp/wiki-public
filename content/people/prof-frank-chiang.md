@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-10
+last_reviewed: 2026-09-11
 ---
 # Prof. Frank Chiang (江永芳教授)
 
@@ -46,6 +46,10 @@ last_reviewed: 2026-09-10
 
 - **Wife:** Quay-Yin (林貴英)
 
+
+## Vault Holdings
+- [[works/taiwaneseamericanhistory-org/185-prof-frank-chiang|TAH #185 Who's Who]]
+- [[works/taiwaneseamericanhistory-org/whos-who-768-frank-chiang|TAH #768 Who's Who]]
 
 ## Sources
 - [TAH #185 encyclopedia: 185. Prof. Frank Chiang 江永芳教授](https://taiwaneseamericanhistory.org/185-prof-frank-chiang/)

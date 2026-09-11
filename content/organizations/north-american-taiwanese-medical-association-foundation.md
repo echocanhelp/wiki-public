@@ -32,6 +32,6 @@ The NATMA Foundation is a distinct tax-exempt nonprofit corporation entity of th
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 ## Vault Cross-References
-- Parent association: [[organizations/north-american-taiwanese-medical-association-natma|北美洲台灣人醫師協會 NATMA]]；會訊存於 [[works/taiwaneseamericanhistory-org/enewsletter-natma|NATMA eNewsletter]]。
+- Parent association: [[works/taiwaneseamericanhistory-org/north-american-taiwanese-medical-association-natma|北美洲台灣人醫師協會 NATMA]]；會訊存於 [[works/taiwaneseamericanhistory-org/enewsletter-natma|NATMA eNewsletter]]；南加州分會見 [[organizations/natma-southern-california|NATMA Southern California]]。
 - 醫療Mission紀錄：[[works/taiwaneseamericanhistory-org/natma-international-medical-mission|NATMA International Medical Mission]]、[[works/taiwaneseamericanhistory-org/first-international-medical-mission|First International Medical Mission]]、[[works/taiwaneseamericanhistory-org/honduras-medical-mission|Honduras medical mission]]、[[works/taiwaneseamericanhistory-org/honduras-medical-mission-2019|2019 Honduras mission]]。
 - 基金會獎助學金紀錄：[[works/taiwaneseamericanhistory-org/22-north-american-taiwanese-medical-association-natma-foundation-scholarship|NATMA Foundation Scholarship]]。

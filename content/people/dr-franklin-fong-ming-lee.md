@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-10
+last_reviewed: 2026-09-11
 ---
 # Dr. Franklin Fong-Ming Lee (李豐明博士)
 
@@ -49,6 +49,7 @@ Dr. Franklin Fong-Ming Lee 李豐明博士 – History of Taiwanese American (T.
 
 ## Vault Holdings
 - [[works/taiwaneseamericanhistory-org/whos-who-1780-franklin-fong-ming-lee|TAH #1780 Who's Who]]
+- [[sources/taiwaneseamericanhistory-org-story-corpus|TAH story corpus]]
 
 ## Sources
 - [TAH #1780 encyclopedia: 1780. Dr. Franklin Fong-Ming Lee 李豐明博士](https://taiwaneseamericanhistory.org/whos-who-1780-franklin-fong-ming-lee/)

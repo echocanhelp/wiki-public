@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-10
+last_reviewed: 2026-09-11
 ---
 # Jui-Wen Ginger Chen
 
@@ -54,3 +54,5 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- [[organizations/taiwanese-american-students-association-at-northwestern-university|台美西北大學學生會]] — 母校西北大學時期的台美學生組織
+- [[organizations/taiwanese-american-historical-society|TAHS]] — 傳記資料收錄機構

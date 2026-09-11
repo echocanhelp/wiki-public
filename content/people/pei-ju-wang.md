@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-10
+last_reviewed: 2026-09-11
 ---
 # Pei-Ju Wang (王培儒)
 
@@ -50,3 +50,6 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+## Vault Cross-References
+- 本人 TAH 百科條目存於 vault：[[works/taiwaneseamericanhistory-org/265-pei-ju-wang-e7-8e-8b-e5-9f-b9-e5-84-92-violinist-201508|TAH #265 Pei-Ju Wang, Violinist（2015/08）]]、[[works/taiwaneseamericanhistory-org/531-pei-ju-wang-e7-8e-8b-e5-9f-b9-e5-84-92-201508|TAH #531 Pei-Ju Wang 王培儒（2015/08）]]。

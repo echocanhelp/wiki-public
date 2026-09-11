@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-10
+last_reviewed: 2026-09-11
 ---
 # Dr. Guei-Yun Yang (楊貴運博士)
 
@@ -37,7 +37,7 @@ Accomplishment
 _No filled family fields on the TAH profile._
 
 ## Vault records (deepen pass 2026-09-10)
-The umbrella bodies he founded or led appear in the TAH corpus at [[works/taiwaneseamericanhistory-org/taiwanese-hakka-associations-of-america|Taiwanese Hakka Associations of America 美洲台灣客家聯合會 / 全美臺灣客家會]] and [[works/taiwaneseamericanhistory-org/ushakka|全美台灣客家聯誼會]]; the world body's LA-area federation membership is recorded on [[organizations/taiwanese-hakka-association-of-the-world|THAW]]. His 1970 founding of the Taiwanese Hakka Association of California predates the wave of regional Hakka chapters catalogued across the corpus.
+The umbrella bodies he founded or led appear in the TAH corpus at [[works/taiwaneseamericanhistory-org/taiwanese-hakka-associations-of-america|Taiwanese Hakka Associations of America 美洲台灣客家聯合會 / 全美臺灣客家會]] and [[works/taiwaneseamericanhistory-org/ushakka|全美台灣客家聯誼會]]; the world body's LA-area federation membership is recorded on [[organizations/taiwanese-hakka-association-of-the-world|THAW]]. His 1970 founding of the Taiwanese Hakka Association of California predates the wave of regional Hakka chapters catalogued across the corpus. The umbrella body's convention record is at [[works/taiwaneseamericanhistory-org/30-taiwanese-hakka-associations-of-america-conference|Taiwanese Hakka Associations of America conference]].
 
 ## Sources
 - [TAH #25 encyclopedia: 25. Dr. Guei-Yun Yang (楊貴運博士)](https://taiwaneseamericanhistory.org/senior-taiwanese-american-25/)

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-10
+last_reviewed: 2026-09-11
 ---
 # Julie Wong (翁致理)
 
@@ -42,6 +42,9 @@ _No filled family fields on the TAH profile._
 - Faculty member at Rutgers University, Seton Hall University, Montclair University, and the Music Department of Truth Theological Seminary
 - Volunteer performer at hospitals, medical centers, and nursing homes
 - **Recent** — Ninth tour of recitals and master classes in Taiwan
+
+## Vault Holdings
+- [[works/taiwaneseamericanhistory-org/46-julie-wong-e7-bf-81-e8-87-b4-e7-90-86-piano|TAH #46 story (2014-10-11)]]
 
 ## Sources
 - [TAH #46 encyclopedia: 46. Julie Wong 翁致理, Pianist/2014/10](https://taiwaneseamericanhistory.org/46-julie-wong-%e7%bf%81%e8%87%b4%e7%90%86-piano/)

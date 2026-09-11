@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-10
+last_reviewed: 2026-09-11
 ---
 # Hung Ya Chao (趙弘雅)
 
@@ -56,4 +56,5 @@ last_reviewed: 2026-09-10
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 ## Vault Cross-References
-- TAH Who's Who 記錄存於 vault：[[works/taiwaneseamericanhistory-org/whoswho1352|TAH #1352 Hung Ya Chao 趙弘雅, 2016/10]]。
+- TAH Who's Who 記錄存於 vault：[[works/taiwaneseamericanhistory-org/whoswho1352|TAH #1352 Hung Ya Chao 趙弘雅, 2016/10]]；同編號著作條目見 [[works/taiwaneseamericanhistory-org/publications1352|TAH publications1352]]。
+- 宗教／民間信仰系列文章條目存於 vault：[[works/taiwaneseamericanhistory-org/183-怪力亂神的民間信仰-c|TAH #183 怪力亂神的民間信仰（2003/03）]]。

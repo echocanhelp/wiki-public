@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-10
+last_reviewed: 2026-09-11
 ---
 # Prof. Ju-Shey Ho (何汝諧教授)
 
@@ -40,12 +40,20 @@ Accomplishment
 - 1985–1986 — President, North America Taiwanese Professors' Association / South California Chapter — [[organizations/north-america-taiwanese-professors-sc|NATPA South California]]
 - 1993–1999 — President, World Association of Copepodologists — the first president of a world-wide professional organization from the Taiwanese American community
 
+- 2011 — Monoculus Award (國際單眼橈足生物學會最高榮譽獎), highest honor of the international copepodologist community — [[works/taiwaneseamericanhistory-org/monoculus-award-ju-shey-ho-2011|vault record]]
+
 ## Family
 
 - **Wife:** Pao-Hsi
 - **Daughter:** Min-Min
 - **Son:** Phi-Lip
 
+
+## Vault Holdings
+- [[works/taiwaneseamericanhistory-org/39-prof-ju-shey-ho|TAH #39 Who's Who]]
+- [[works/taiwaneseamericanhistory-org/ff285|TAH #285 first president of a world-wide professional org]]
+- [[works/taiwaneseamericanhistory-org/whos-who-605-ju-shey-ho|TAH #605 Who's Who]]
+- [[works/taiwaneseamericanhistory-org/monoculus-award-ju-shey-ho-2011|TAH Monoculus Award 2011]]
 
 ## Sources
 - [TAH #39 encyclopedia: 39. Prof. Ju-Shey Ho 何汝諧教授](https://taiwaneseamericanhistory.org/39-prof-ju-shey-ho/)
