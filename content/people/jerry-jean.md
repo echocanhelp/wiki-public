@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-10
+last_reviewed: 2026-09-11
 ---
 # Jerry Jean (簡子翕)
 
@@ -59,3 +59,6 @@ _Sourced from the TAH Who's Who profile above; no external material added._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- [[works/taiwaneseamericanhistory-org/jerry-jean-pianist||TAH #195: Jerry Jean簡子翕, Songwriter & Music Producer / 2015/05]]
+- [[works/taiwaneseamericanhistory-org/whos-jerry-jean||TAH #414: Jerry Jean 簡子翕 / 2015/05]]
+- [[works/taiwaneseamerican-org/slow-jam-jerry-jean||Your New Classic Slow Jam: Music by Jerry Jean (TA.org, 2017)]]

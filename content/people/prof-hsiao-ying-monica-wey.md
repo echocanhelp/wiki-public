@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-10
+last_reviewed: 2026-09-11
 ---
 # Prof. Hsiao-Ying Monica Wey (魏曉英教授)
 
@@ -49,3 +49,5 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- [[works/taiwaneseamericanhistory-org/whos-who-1909-hsiao-ying-wey||TAH #1909: 1909. Prof. Hsiao-Ying (Monica) Wey 魏曉英教授]]
+- [[sources/taiwaneseamericanhistory-org-story-corpus||TAH story corpus]]

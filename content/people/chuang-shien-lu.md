@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-10
+last_reviewed: 2026-09-11
 ---
 # Chuang-Shien Lu (呂泉生)
 
@@ -59,3 +59,8 @@ last_reviewed: 2026-09-10
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- [[works/taiwaneseamericanhistory-org/whos864-chuang-shien-lu||TAH #864: Chuang-Shien Lu 呂泉生 / 2016/03]]
+- [[works/taiwaneseamericanhistory-org/333-chuang-shien-lu-e5-91-82-e6-b3-89-e7-94-9f-composer-musician-201603||TAH #333: Chuang-Shien Lu 呂泉生, Composer & Musician / 2016/03]]
+- [[organizations/the-kee-jen-education-of-arts-foundation||The Kee-Jen Education of Arts Foundation 呂泉生文教基金會]]
+- [[organizations/taiwan-center||Taiwan Center Foundation of the Greater Los Angeles]]
+- [[people/ye-siya||葉思雅]] — studied piano under 呂泉生 (per that page)
