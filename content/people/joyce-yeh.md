@@ -35,6 +35,7 @@ last_reviewed: 2026-09-10
 - **Content priority C:** Full biography not in this source set
 - **Coverage hub:** both activity records above are reported by [[sources/taiwanjustice-net||taiwanjustice.net]], the vault's news hub for 台美社團 coverage; her board seat itself is priority-A from the archived taiwancenter.org board roster
 - **2026-09-10 (DEEPEN-X11):** re-check — the two activity reports and the board roster were re-read; no additional vault-internal facts (團體董事 affiliation organization, biography) appear in the current source set
+- **2026-09-10 (DEEPEN-X09101124-3):** cross-checked the archived board snapshot via [[people/joseph-teng||Joseph Teng (曾英銘)]] and [[organizations/taiwan-center||Taiwan Center]]: her 團體董事 seat sits in a cohort with [[people/shirley-yu||Shirley Yu (張欣珠)]], [[people/josephine-pan||Josephine Pan (潘掬慧)]], [[people/joseph-teng||Joseph Teng (曾英銘)]], [[people/steven-wu||Steven Wu (吳尚誠)]] and [[people/lisa-hou||Lisa Hou (侯乃文)]]; the sponsoring organization for her seat remains unstated on the board page. The affiliation is reciprocated on [[people/joseph-teng||Joseph Teng's page]] and the Taiwan Center board roster.
 
 ## Related Pages
 

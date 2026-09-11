@@ -54,6 +54,13 @@ Facts absorbed from this page's own TAH tables and accomplishment entry (no exte
 - **Daughter:** Christine, Connie
 
 
+## Connected in the Vault (deepen pass 2026-09-10)
+
+- **Author** of the NATMA Foundation Southern California chapter's own history: [[works/taiwaneseamericanhistory-org/project-3-45|TAH #45 北美洲台灣人醫師協會基金會南加分會簡介]] ([[works/taiwaneseamericanhistory-org/project-3-45-eng|English version: History of NATMA Foundation]]) — he wrote the chapter record himself.
+- **2020 — WHA advocacy:** per the [[articles/taiwanjustice-net/2025/20250317171814_202776_fbaac1a916f7fe57|taiwanjustice.net report 北美醫界挺台灣參與WHO]], NATMA's Geneva advocacy delegations made five trips (up to 120 participants); 許正雄 is quoted as a former delegation leader (曾經率團出征).
+- **Church community:** listed as the Dentistry speaker in the medical health-lecture roster at [[organizations/irvine-taiwanese-presbyterian-church|ITPC 長老教會]].
+- His story is also told by 林蓮華 in [[works/taiwaneseamericanhistory-org/323-e8-a8-b1-e6-ad-a3-e9-9b-84-e7-89-99-e9-86-ab-e5-b8-ab-e7-9a-84-e6-95-85-e4-b|TAH #323 許正雄牙醫師的故事 (2015)]].
+
 ## Sources
 - [TAH #67 encyclopedia: 67. Dr. Daniel C. Hsu 許正雄醫師](https://taiwaneseamericanhistory.org/67-dr-daniel-c-hsu/)
 - [TAH #88 encyclopedia: 88. Daniel Hsu, D.M.D 許正雄醫師 (NATMA Southern California Chapter Annual Convention](https://taiwaneseamericanhistory.org/videos88/)

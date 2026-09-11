@@ -64,6 +64,11 @@ Built from the on-page TAH profile tables (no new facts added):
 
 According to the TAH Our Journeys memoir (#316), the New York Taiwanese American Center (紐約台灣會館) formed a senior-center management committee at the end of 2003 with 林秀合 as 執行長 coordinating activities among the associations — consistent with her role as Executive Director of the NY Taiwanese American Senior Center.
 
+## Connected in the Vault (deepen pass 2026-09-10)
+
+- **2014** — Named as a New York City contact (718-454-0855) for the "Team Taiwan" Race for the Cure team in 葉寶桂's call for participation: [[works/taiwaneseamericanhistory-org/ourjourneys6|TAH Our Journeys #6, 2014-08-10]]. The article names NATWA, TAA and WUFI among Team Taiwan's founding associations — consistent with her presidencies of [[works/taiwaneseamericanhistory-org/natwa-new-york-chapter|NATWA NYC]] and [[organizations/taiwanese-american-association-new-york|TAA New York]].
+- Her senior-center leadership is corroborated by two vault works: [[works/taiwaneseamericanhistory-org/ourjourneys316|Our Journeys #316]] (2003 senior-center committee, 執行長) and [[works/taiwaneseamericanhistory-org/ny-taiwan-center-senior-center|NY Taiwan Center senior center]].
+
 ## Sources
 - [TAH #80 encyclopedia: 80. Shiuho Lin 林秀合](https://taiwaneseamericanhistory.org/80-shiuho-lin/)
 - [TAH #1495 encyclopedia: 1495. Shiuho Lin 林秀合](https://taiwaneseamericanhistory.org/whos-who-1495-shiuho-lin/)

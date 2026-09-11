@@ -53,6 +53,12 @@ Professor of Electrical and Computer Dept., Director of Materials and Manufactur
 - **Community leadership (Pittsburgh & Orange County years)** — President of the [[organizations/taiwanese-american-cultural-association||Taiwanese American Cultural Association (美國台灣文化協會)]], the [[organizations/orange-county-taiwanese-association||Orange County Taiwanese Association (OCTA)]], Southern California Taitonese Association (南加州台東同鄉會), and Taiwanese American Federation of South California (南加州台灣同鄉會聯合會)
 - **Documented in** TAH Foundation encyclopedia entries #57 and #1245 ([[works/taiwaneseamericanhistory-org/57-prof-chin-c-lee||TAH #57]])
 
+## Connected in the Vault (deepen pass 2026-09-10)
+
+- **1980–1981** — President of the Pittsburgh Taiwanese association (TAA Pittsburgh Chapter): the first officers-meeting minutes for that year (附件9) name 李金忠 as 會長 and 馮世興 as 副會長 — 胡民祥's documentary chapter history, [[works/taiwaneseamericanhistory-org/ourjourneys292|TAH Our Journeys #292 早年匹茲堡台灣同鄉會歷屆會長考證]] ([[works/taiwaneseamericanhistory-org/ourjourneys292-eng|English edition]]). This dates his TAA Pittsburgh presidency to his Carnegie Mellon → UCI transition years.
+- **Irvine community:** listed as the scuba-diving (水肺潛水) instructor in the adult-education roster at [[organizations/irvine-taiwanese-presbyterian-church|ITPC 長老教會]].
+- **Bibliographic:** his profile is held twice in the vault — [[works/taiwaneseamericanhistory-org/57-prof-chin-c-lee|TAH #57]] and [[works/taiwaneseamericanhistory-org/whos-who-1245-chin-c-lee|TAH Who's Who #1245 (published 2016-08-14)]].
+
 ## Sources
 - [TAH #57 encyclopedia: 57. Prof. Chin C. Lee 李金忠教授](https://taiwaneseamericanhistory.org/57-prof-chin-c-lee/)
 - [TAH #1245 encyclopedia: 1245. Prof. Chin C. Lee 李金忠教授](https://taiwaneseamericanhistory.org/whos-who-1245-chin-c-lee/)
