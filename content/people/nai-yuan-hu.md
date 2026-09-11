@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-10
+last_reviewed: 2026-09-11
 ---
 # Nai-Yuan Hu (胡乃元)
 
@@ -17,9 +17,9 @@ last_reviewed: 2026-09-10
 - **Era:** 1961
 - **Geography:** Tainan, Taiwan
 - **Core roles:** entrepreneur, artist
-- **Source:** TAH Foundation Who’s Who
+- **Source:** TAH Foundation Who's Who
 
-Since winning the First Prize of the prestigious Queen Elisabeth International Competition in 1985, violinist Nai-Yuan Hu has appeared on many of the world’s stages, including the Concertgebouw in Amsterdam, Avery Fisher Hall in New York and major venues in London, Paris, Brussels, Munich, and other cities in Europe, North and South Americas and Asia. In praise of his playing, BBC Music Magazine wrote, “Taiwanese violinist Nai-Yuan Hu is an awesomely capable performer whose technical facility, musical intelligence and unfaltering verve place him among the higher echelons of today’s string virtuosi.”
+Since winning the First Prize of the prestigious Queen Elisabeth International Competition in 1985, violinist Nai-Yuan Hu has appeared on many of the world's stages, including the Concertgebouw in Amsterdam, Avery Fisher Hall in New York and major venues in London, Paris, Brussels, Munich, and other cities in Europe, North and South Americas and Asia. In praise of his playing, BBC Music Magazine wrote, "Taiwanese violinist Nai-Yuan Hu is an awesomely capable performer whose technical facility, musical intelligence and unfaltering verve place him among the higher echelons of today's string virtuosi."
 
 <!-- tah-tables:start -->
 ## Education
@@ -36,6 +36,11 @@ Since winning the First Prize of the prestigious Queen Elisabeth International C
 - 2009– Music Director, TC Chamber Orchestra
 - Later service: Jury member of the Queen Elisabeth Competition (Brussels) and the Seoul Violin Competition
 
+## Recognition
+- 1985 — First Prize, Queen Elisabeth International Competition (Brussels)
+- BBC Music Magazine praised him as "an awesomely capable performer whose technical facility, musical intelligence and unfaltering verve place him among the higher echelons of today's string virtuosi"
+- Invited as jury member of the Queen Elisabeth Competition (Brussels) and the Seoul Violin Competition
+
 ## Family
 
 _No filled family fields on the TAH profile._
@@ -44,7 +49,7 @@ _No filled family fields on the TAH profile._
 - [TAH #95 encyclopedia: 95. Nai-Yuan Hu 胡乃元](https://taiwaneseamericanhistory.org/95-nai-yuan-hu/)
 - [TAH #88 encyclopedia: 88. Nai-Yuan Hu 胡乃元, Violinist/2014/12](https://taiwaneseamericanhistory.org/88-nai-yuan-hu/)
 - [TAH #136 encyclopedia: 136. Nai-Yuan Hu 胡乃元](https://taiwaneseamericanhistory.org/whos-who-136-nai-yuan-hu/)
-- [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/nai-yuan-hu/)
+- [TAH Who's Who](https://taiwaneseamericanhistory.org/person/nai-yuan-hu/)
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
