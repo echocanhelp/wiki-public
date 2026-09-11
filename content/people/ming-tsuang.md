@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-10
+last_reviewed: 2026-09-11
 ---
 # Ming Tsuang (莊明哲教授)
 
@@ -57,6 +57,14 @@ last_reviewed: 2026-09-10
 - [TAH #161 encyclopedia: 161. 莊明哲教授 / 台美協進會創會會長 / 1980](https://taiwaneseamericanhistory.org/ff161/)
 - [TAH #398 encyclopedia: 398. Ming Tsuang莊明哲教授 / 2015/05](https://taiwaneseamericanhistory.org/whos-ming-tsuang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/ming-tsuang/)
+
+## Vault Holdings
+
+- [[works/taiwaneseamericanhistory-org/senior-taiwanese-american-16|TAH #16 senior encyclopedia]] — Prof. Ming Tsuang 莊明哲教授回台報告
+- [[works/taiwaneseamericanhistory-org/82-prof-ming-tsuang|TAH #82 encyclopedia]] — Prof. Ming Tsuang 莊明哲教授
+- [[works/taiwaneseamericanhistory-org/pride-prof-ming-t-tsuang|TAH pride encyclopedia]] — Prof. Ming T. Tsuang 莊明哲教授
+- [[works/taiwaneseamericanhistory-org/ff161|TAH #161 encyclopedia]] — 莊明哲教授／台美協進會創會會長／1980（2016-02-10 刊）
+- [[works/taiwaneseamericanhistory-org/whos-ming-tsuang|TAH Who's Who #398]] — Ming Tsuang 莊明哲教授（2015-05 刊）
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

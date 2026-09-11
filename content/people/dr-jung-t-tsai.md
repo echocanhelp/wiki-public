@@ -50,6 +50,14 @@ Accomplishment
 - [TAH #165 encyclopedia: 165. Dr. Jung T. Tsai 蔡榮聰醫師](https://taiwaneseamericanhistory.org/whos-who-165-jung-t-tsai/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-jung-t-tsai/)
 
+## Vault Holdings
+
+- [[works/taiwaneseamericanhistory-org/183-dr-jung-t-tsai|TAH #183 encyclopedia]] — Dr. Jung T. Tsai 蔡榮聰醫師（2018-11-06 刊）
+- [[works/taiwaneseamericanhistory-org/whos-who-165-jung-t-tsai|TAH Who's Who #165]] — Dr. Jung T. Tsai 蔡榮聰醫師（2014-12-23 刊）
+- [[works/taiwaneseamericanhistory-org/215-dr-long-tsung-tsai-e8-94-a1-e6-a6-ae-e8-81-b0-e9-86-ab-e5-b8-ab-the-first-pr|TAH #215 encyclopedia]] — 同名傳記條目：Great New York Pen Club 創會長（2016-02-10 刊）
+- [[works/taiwaneseamericanhistory-org/private-collections-100-jung-t-tsai|TAH private collections #100]] — 蔡榮聰醫師的收藏（2020-06-22 刊）
+- [[works/taiwaneseamericanhistory-org/china-medical-university|中國醫藥學院全美國校友會總會]] — 其 1971 年 M.D. 母校之美國校友組織紀錄
+
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

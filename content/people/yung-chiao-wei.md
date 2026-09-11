@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-10
+last_reviewed: 2026-09-11
 ---
 # Yung-Chiao Wei (魏詠蕎)
 
@@ -47,6 +47,11 @@ _No filled family fields on the TAH profile._
 - [TAH #198 encyclopedia: 198. Yung-Chiao Wei 魏詠蕎, Bassist / 2015/05](https://taiwaneseamericanhistory.org/198-yung-chiao-wei%e9%ad%8f%e8%a9%a0%e8%95%8e-bassist-201505/)
 - [TAH #422 encyclopedia: 422. Yung-Chiao Wei 魏詠蕎 / 2015/05](https://taiwaneseamericanhistory.org/422-yung-chiao-wei-%e9%ad%8f%e8%a9%a0%e8%95%8e-201505/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/yung-chiao-wei/)
+
+## Vault Holdings
+
+- [[works/taiwaneseamericanhistory-org/198-yung-chiao-wei-e9-ad-8f-e8-a9-a0-e8-95-8e-bassist-201505|TAH #198 encyclopedia]] — Yung-Chiao Wei 魏詠蕎, Bassist（2015-05 刊）
+- [[works/taiwaneseamericanhistory-org/422-yung-chiao-wei-e9-ad-8f-e8-a9-a0-e8-95-8e-201505|TAH #422 encyclopedia]] — Yung-Chiao Wei 魏詠蕎（2015-05 刊）
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

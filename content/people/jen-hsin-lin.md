@@ -50,6 +50,11 @@ _No filled family fields on the TAH profile._
 - [TAH #891 encyclopedia: 891. JEN HSIN LIN 林人信 / 2016/03](https://taiwaneseamericanhistory.org/whos891-jen-hsin-lin/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/jen-hsin-lin/)
 
+## Vault Holdings
+
+- [[works/taiwaneseamericanhistory-org/artist60-jen-hsin-lin|TAH artist #60 encyclopedia]] — 林人信 JEN HSIN LIN（2016-03 刊）
+- [[works/taiwaneseamericanhistory-org/whos891-jen-hsin-lin|TAH Who's Who #891]] — JEN HSIN LIN 林人信（2016-03 刊）
+
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
