@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-10
+last_reviewed: 2026-09-11
 ---
 # Senior Taiwanese Association of Northern California (北加州台灣長輩會)
 
@@ -42,4 +42,4 @@ The vault already holds this association's own publication record and member dir
 
 - [[works/taiwaneseamericanhistory-org/3-senior-taiwanese-association-of-northern-california||TAH directory record #3: 北加州台灣長輩會]] — the source directory entry behind this page.
 - [[works/taiwaneseamericanhistory-org/newsletters-of-senior-taiwanese-association-of-northern-california||Newsletters 北加州臺灣長輩會通訊]] — record of the monthly newsletter noted above.
-- 35 member-biography records from the association's senior directory are held at `works/taiwaneseamericanhistory-org/senior-taiwanese-american-2` … `senior-taiwanese-american-36` (e.g. Prof. T. Anthony Tu 杜祖健教授).
+- 35 member-biography records from the association's senior directory are held at `works/taiwaneseamericanhistory-org/senior-taiwanese-american-2` … `senior-taiwanese-american-36` (e.g. [[people/anthony-t-tu||Prof. Anthony T. Tu 杜祖健教授|]]).
