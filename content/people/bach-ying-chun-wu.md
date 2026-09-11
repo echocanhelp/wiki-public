@@ -65,6 +65,11 @@ The preface quoted above was written by [[people/tyzen-hsiao||Tyzen Hsiao (蕭�
 - The preface author [[people/tyzen-hsiao||Tyzen Hsiao (蕭泰然)]] is a separate person page in the vault; his own profile cross-references the same [[organizations/presbyterian-church-in-taiwan||PCT]] church-music tradition that trained Wu at 台灣神學院音樂系.
 - Employment listed in the TAH harvest tables (香柏樹樂坊 music director, 洛杉磯之聲 choral conductor, 聖達福音教會 music director) have no vault pages yet — no wikilinks invented.
 
+## Vault records (deepen pass 2026-09-10, slice 09102100-3)
+
+- The TAH corpus holds 台福 church records tied to the 聖達 ministry name under which Wu served as 聖樂指揮: [[works/taiwaneseamericanhistory-org/ourjourneys257||257. 洛杉磯台福基督教會 / 台福傳播中心 /10/2016]] records 聖達教會 (聖達又分設愛鄰教會), and [[works/taiwaneseamericanhistory-org/evangelical-formosan-church-of-hacienda-heights||Evangelical Formosan Church of Hacienda Heights]] names 聖達台福基督教會. These corpus name-forms differ from the harvest-table entry 聖達福音教會, so they are recorded as related corpus mentions, not an identity merge.
+- No vault page exists yet for wife 梁淑玲 or for employers 香柏樹樂坊 / 洛杉磯之聲; no wikilinks invented.
+
 ## Network
 - [[organizations/presbyterian-church-in-taiwan||PCT]] — TAH Who’s Who
 - [[people/tyzen-hsiao||Tyzen Hsiao (蕭泰然)]] — wrote the preface quoted above

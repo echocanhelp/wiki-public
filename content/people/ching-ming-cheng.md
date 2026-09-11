@@ -60,6 +60,7 @@ Pianist Dr. Ching-Ming Cheng, a native of Taiwan. Dr. Cheng holds a bachelor’s
 ## References in vault
 - [[works/taiwaneseamericanhistory-org/85-ching-ming-cheng-e9-84-ad-e9-9d-9c-e6-97-bb||85. Ching-Ming Cheng 鄭靜旻]] — TAH encyclopedia #85
 - [[works/taiwaneseamericanhistory-org/49-ching-ming-cheng-e9-84-ad-e9-9d-9c-e6-97-bb-piano||49. Ching-Ming Cheng 鄭靜旻, Pianist/2014/10]] — TAH encyclopedia #49
+- Deepen pass 2026-09-10 (vault-only): marriage to [[people/paul-pai-shih-lee||Paul Pai-Shih Lee (李百仕)]] is reciprocated on his page (his Wife field links here), so the family link is verified bidirectional in-vault. No vault pages yet exist for her institutions (NTNU, University of Miami, CSU San Marcos, Barry, Humboldt, Fu-Jen) or her teacher associations (MTAC, MTA, CAPMT).
 
 
 ## Sources

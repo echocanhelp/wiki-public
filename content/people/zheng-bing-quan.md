@@ -26,7 +26,7 @@ last_reviewed: 2026-09-10
 
 ## TAHS Founding
 
-Zheng Bingquan was the first convener of the Taiwanese American Historical Society, beginning the process in June 2013 by convening community leaders, notably 楊嘉猷 (Charles Yang). He was one of the key founders alongside Yang (founding president), 周威霖 (secretary), and 王耀廷 (vice president). He also served as an interviewer for the 2017 TAHS Publication, conducting the profile interview of [[people/anne-shih||Anne Shih]] (施劉秀枝).
+Zheng Bingquan was the first convener of the Taiwanese American Historical Society, beginning the process in June 2013 by convening community leaders, notably [[people/yang-jia-you||楊嘉猷 (Charles Yang)]]. He was one of the key founders alongside Yang (founding president), [[people/zhou-wei-lin||周威霖]] (secretary), and [[people/wang-yao-ting||王耀廷]] (vice president). He also served as an interviewer for the 2017 TAHS Publication, conducting the profile interview of [[people/anne-shih||Anne Shih]] (施劉秀枝).
 
 ## Editorial Work
 
@@ -61,7 +61,12 @@ Pages that link to **zheng-bing-quan** (zheng-bing-quan):
 - **Hub:** [[sources/2017-tahs-publication||2017 TAHS Publication]]
 - **Hub:** [[sources/2023-tahs-publication||2023 TAHS Publication]] (author of the 鄭達志 profile; carries his own pharmacist/woodcarver profile)
 - **Archive cross-ref:** `knowledge/web-archives/2023-tahs-publication-part1.md` — pharmacist and self-taught woodcarver (retired 2009; 「富蘭克林」 and 「女神」 exhibited at TAHS art shows). Attribution conflicts with [[people/zheng-dazhi||鄭達志]] — HOLD pending source check.
-- **Status:** Stub — needs expanded biographical details
+- **Status:** Deepened 2026-09-10 (vault-only pass) — founding roles, co-editor credits, and the 2023 pharmacist/woodcarver profile absorbed; expanded biography still awaits new sources.
+
+## Vault cross-references (deepen pass 2026-09-10)
+
+- Duplicate TAHS roster stub for the same person: [[people/zheng-bingquan|Zheng Bing-quan (roster stub)]] — carries taiwanjustice.net citation scores; both pages describe 鄭炳全 and should be merged when the roster page is next touched.
+- His 鄭達志 profile in the 2023 publication covers the physician killed at the [[works/taiwaneseamerican-org/laguna-woods-taiwanese-church-shooting|Laguna Woods Taiwanese church shooting]] (2022-05-15).
 
 ## Name Variants / Disambiguation
 

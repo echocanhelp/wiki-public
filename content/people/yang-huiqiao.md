@@ -49,6 +49,7 @@ Yang Huiqiao's dedication to Taiwan independence has inspired generations of Tai
 - **Content priority B:** 2023 TAHS Publication (profile, Section 3, ~2720 lines)
 - **Hub:** [[sources/2023-tahs-publication||2023 TAHS Publication]]
 - **Archive:** `knowledge/web-archives/2023-tahs-publication-part2.md`
+- **Deepen pass 2026-09-10 (vault-only):** husband 鄭德和's TAH #718 work record now linked from Family; her two TAH Who's Who bibliographic records (#169, #609) and the TACL founding memoir ([[works/taiwaneseamericanhistory-org/ourjourneys272|Our Journeys 272]], 1984-12-01 座谈会) were already absorbed above.
 
 ## Sources
 - [TAH #169 encyclopedia: 169. Catherine Yang 楊惠喬](https://taiwaneseamericanhistory.org/169-catherine-yang/)
@@ -65,9 +66,9 @@ Yang Huiqiao's dedication to Taiwan independence has inspired generations of Tai
 
 ## Family
 
-- **Husband:** 鄭德和
-- **Daughter:** 鄭伊純
-- **Son:** 鄭丁榮
+- **Husband:** 鄭德和 — Tokyo University urban-planning graduate, met through a friend in 1971 (see Career above); his own TAH story-corpus record is [[works/taiwaneseamericanhistory-org/718-e9-84-ad-e5-be-b7-e5-92-8c-201512|TAH #718: 鄭德和, 2015/12]]
+- **Daughter:** 鄭伊純 — no vault page yet
+- **Son:** 鄭丁榮 — no vault page yet
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

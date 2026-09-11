@@ -57,6 +57,16 @@ Accomplishment
 - [[works/taiwaneseamericanhistory-org/ourjourneys162||162. 聖地牙哥台灣中心開幕典禮與慶祝音樂會/2015/08]]
 
 
+## Vault records (deepen pass 2026-09-10, slice 09102100-3)
+
+The TAH encyclopedia entries cited below are themselves vault work pages:
+
+- [[works/taiwaneseamericanhistory-org/104-chen-ming-wang||104. Chen-Ming Wang 王建民]] — his own encyclopedia profile record
+- [[works/taiwaneseamericanhistory-org/whos-who-909-chen-min-wang||909. Chen-Min Wang 王建民]] — Who's Who record behind this page
+- [[works/taiwaneseamericanhistory-org/39-chen-min-wang-e7-8e-8b-e5-bb-ba-e6-b0-91-famous-professional-baseball-player||39. Chen-Min Wang 王建民 / Famous professional baseball player]]
+- [[works/taiwaneseamericanhistory-org/124-e3-80-8a-e5-be-8c-e5-8b-81-ef-bc-9a-e7-8e-8b-e5-bb-ba-e6-b0-91-e3-80-8b-e5-8||124. Late Life: the Chien-Min Wang Story《後勁：王建民》入圍金馬最佳紀錄片]] — the #124 record behind the 2018 Golden Horse nomination in the Timeline
+- [[works/taiwaneseamericanhistory-org/softball51||51. 王建民重返大聯盟MLB, 2016]] — corroborates the 2016 Kansas City Royals comeback season in the Employment table
+
 ## Sources
 - [TAH #127 encyclopedia: 127. LATE LIFE: THE CHIEN-MING WANG STORY | 後勁：王建民 | OFFICIAL TEASER](https://taiwaneseamericanhistory.org/127-late-life/)
 - [TAH #124 encyclopedia: 124. Late Life: the Chien-Min Wang Story《後勁：王建民》入圍金馬最佳紀錄片/10/02/2018](https://taiwaneseamericanhistory.org/124-%e3%80%8a%e5%be%8c%e5%8b%81%ef%bc%9a%e7%8e%8b%e5%bb%ba%e6%b0%91%e3%80%8b%e5%85%a5%e5%9c%8d%e9%87%91%e9%a6%ac%e6%9c%80%e4%bd%b3%e7%b4%80%e9%8c%84%e7%89%87-10-02-2018/)

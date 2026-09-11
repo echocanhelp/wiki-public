@@ -65,6 +65,7 @@ Absorbed from the on-page bio and tah-tables (no external sources):
 
 - Corpus hub: [[sources/taiwaneseamericanhistory-org-story-corpus|TAH story corpus hub]] — her two encyclopedia entries (#33, 2014-10, as Violinist; #1108, 2016-06, as violist) are part of the TAH story corpus.
 - Her two vault records: [[works/taiwaneseamericanhistory-org/musician33|TAH #33]] and [[works/taiwaneseamericanhistory-org/whoswho1108|TAH #1108]]. No vault records yet exist for her principal teachers (Tsuna Sakamoto, Victoria Chiang, Chung-Chen Chen) or for the orchestras she has played in (Winston-Salem Symphony, National Taiwan Symphony Orchestra).
+- Deepen pass 2026-09-10 (vault-only): the National Taiwan Symphony Orchestra, where she was a section member before emigrating, does appear in the vault as a performing ensemble on the work page [[works/taiwaneseamericanhistory-org/concerts140|TAH #140: Tyzen Hsiao Memorial Concert, San Jose, 2018-08-04]] — no dedicated orchestra page exists yet.
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
