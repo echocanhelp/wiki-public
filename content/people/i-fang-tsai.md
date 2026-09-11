@@ -42,6 +42,10 @@ _No filled family fields on the TAH profile._
 - Studies in Color Aesthetics in France and Japan; sketch and watercolor training from elementary school (biography above).
 - Exhibition honors already on this page: "Soho Street Scape" first place, New Rochelle Art Association (2012); International Pastel Artists Invitational Exhibition at the National Chiang Kai-shek Memorial Hall, Taiwan; Excellent Work, 2012–2013 National Pastel Painters Competition (Taiwan Arts Education Center, 2013); listed in "Who's Who in American Art".
 
+## Vault Holdings
+- Encyclopedia entry in the vault: [[works/taiwaneseamericanhistory-org/whoswho1050||TAH #1050 — I-Fang Tsai 蔡宜芳 (2016/05)]] (the source profile behind the biography and employment table above).
+- Artist profile in the vault: [[works/taiwaneseamericanhistory-org/artist-yvonne-i-fang-tsai||TAH #17 — 蔡宜芳 Yvonne I-Fang Tsai]].
+
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

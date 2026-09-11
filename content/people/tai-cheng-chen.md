@@ -52,6 +52,8 @@ Absorbed from the TAH profile above:
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/tai-cheng-chen/)
 
 ## Vault Holdings
+- Encyclopedia entry in the vault: [[works/taiwaneseamericanhistory-org/99-dr-tai-cheng-chen||TAH #99 — Dr. Tai-Cheng Chen 陳泰成博士]] (the source profile behind the biography and Education/Employment tables above).
+
 Two further TAH story-corpus entries exist in the vault:
 - [[works/taiwaneseamericanhistory-org/76-tai-cheng-chen-e9-99-b3-e6-b3-b0-e6-88-90-pianist||TAH #76 — Tai-Cheng Chen 陳泰成, Pianist]] (2014/11)
 - [[works/taiwaneseamericanhistory-org/ourjourneys287||Our Journeys #287 — 台南善友樂團之後代首次在夏令會聚會]] lists 陳泰成 among the musicians present.
