@@ -43,6 +43,7 @@ Structured from his TAH encyclopedia entries (#197, #420, both 2015/05):
 
 ## Connected in the Vault
 
+- His NYU composer-in-residence years have a NYU Taiwanese-community page in the vault, [[organizations/nyu-taiwanese-american-student-society||NYU Taiwanese American Student Society]]; no personal membership is documented.
 - Composer **Chihchun Chi-sun Lee**, whose TAH biography names Wen among her composition teachers (alongside William Albright, William Bolcom, and Bright Sheng), has a reciprocal vault page: [[people/chihchun-chi-sun-lee||Chihchun Chi-sun Lee (李智美)]].
 
 ## Family

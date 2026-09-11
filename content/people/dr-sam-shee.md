@@ -44,6 +44,10 @@ last_reviewed: 2026-09-11
 - The vault's Northwestern record is its Taiwanese student association page [[organizations/taiwanese-american-students-association-of-northwestern-university||TASA Northwestern]]; no personal membership is documented.
 - Wife 陳維琳 is named in the TAH family record; no vault page yet.
 
+## Vault records (deepen pass 2026-09-11)
+
+- His own TAH encyclopedia entries are held in the vault as work pages: [[works/taiwaneseamericanhistory-org/79-dr-sam-shee||TAH #79: Dr. Sam Shee 施哲三醫師]] and [[works/taiwaneseamericanhistory-org/whos-who-1105-sam-shee||TAH Who's Who #1105: Dr. Sam Shee 施哲三醫師]]; his art-side record: [[works/taiwaneseamericanhistory-org/artist9-sam-shee||TAH artist9: Sam Shee]]. All facts above are documented there.
+
 ## Sources
 - [TAH #79 encyclopedia: 79. Dr. Sam Shee 施哲三醫師](https://taiwaneseamericanhistory.org/79-dr-sam-shee/)
 - [TAH #1105 encyclopedia: 1105. Dr. Sam Shee 施哲三醫師](https://taiwaneseamericanhistory.org/whos-who-1105-sam-shee/)

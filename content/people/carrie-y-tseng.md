@@ -45,6 +45,12 @@ Dr. Tseng's documented trajectory links Taiwan, New York, and Arizona music inst
 
 _No filled family fields on the TAH profile._
 
+## Silicon Valley context (deepen pass 2026-09-11)
+
+- Her documented move to the South Bay and Silicon Valley teaching posts sit inside the vault's regional community record [[organizations/silicon-valley-taiwanese-american-association||Silicon Valley Taiwanese American Association]]; no personal membership is documented.
+
+## Family
+
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/carrie-y-tseng/)
 
