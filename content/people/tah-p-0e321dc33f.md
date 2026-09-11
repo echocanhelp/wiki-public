@@ -39,6 +39,10 @@ last_reviewed: 2026-09-10
 - **2010/06** — 博士學位，紐約市立大學 (CUNY)
 - **Present** — 聖地牙哥交響樂團小提琴手；活躍於本地室內樂演出；**2011 春**與鋼琴家張晶晶於聖地牙哥舉行獨奏會 — San Diego Taiwanese community: [[organizations/san-diego-taiwanese-cultural-association||San Diego Taiwanese Cultural Association]]
 
+## Source-Internal Discrepancy (HOLD)
+
+- The Chinese biography says her doctorate was from 紐約市立大學 (CUNY, 2010/06), while the profile's own Education table lists **紐約大學 (NYU) — Ph.D.音樂**. Recorded as-is from the source; not resolved.
+
 ## Family
 
 _No filled family fields on the TAH profile._

@@ -52,3 +52,8 @@ Accomplishment
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[organizations/taiwan-hakka-association-for-public-affairs-in-north-america||HAPA-NA]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- [[works/taiwaneseamericanhistory-org/154-dr-chanchi-lee||TAH Encyclopedia #154: Dr. Chanchi Lee 李常吉醫師]]
+- [[works/taiwaneseamericanhistory-org/whos-who-1335-chanchi-lee||TAH Who's Who #1335: Dr. Chanchi Lee 李常吉醫師]]
+
+## Deepen pass 2026-09-10 (vault-only)
+Both cited encyclopedia records (#154, Who's Who #1335) exist in the vault and are now wikilinked above. No new external facts absorbed — page's own TAH tables (Taipei Medical Univ. M.D.; Temple/Hahnemann/Bucks County urology posts; FAPA PA, HAPA-NA 2009–2012, Greater Philadelphia Hakka association presidencies; family: Lynn Chen, daughter Melanie 李玫蘭) already reflect source content.

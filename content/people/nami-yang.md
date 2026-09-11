@@ -56,6 +56,11 @@ last_reviewed: 2026-09-10
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
-- [[organizations/natwa-southern-california||NATWA Southern California]]
-- [[organizations/taiwanese-american-arts-association||Taiwanese American Arts Association]]
-- [[organizations/taiwanese-american-pen-club-la||Taiwanese American Pen Club LA]]
+- [[works/taiwaneseamericanhistory-org/whos-who-2178-nami-yang||TAH #2178: Nami Yang 李淑櫻]]
+- [[works/taiwaneseamericanhistory-org/6-nami-yang||TAH #6: Nami Yang 李淑櫻]]
+- [[works/taiwaneseamericanhistory-org/artist4-nami-yang||TAH artist profile #4: 李淑櫻 Nami Yang]]
+
+## Connected in the Vault — 2026-09-10 deepen pass (vault-only)
+- Three TAH encyclopedia records for her are held in the vault: [[works/taiwaneseamericanhistory-org/whos-who-2178-nami-yang||#2178]], [[works/taiwaneseamericanhistory-org/6-nami-yang||#6]], and [[works/taiwaneseamericanhistory-org/artist4-nami-yang||artist profile #4]].
+- Her leadership roles map onto existing vault organization pages: [[organizations/taiwanese-american-arts-association||TAAA 台美藝術協會]] (president 2004–2005), [[organizations/neo-art-league||Neo Art League]] (founder/first president 2006–2009), [[organizations/natwa-southern-california||NATWA S. CA Chapter]] (president 2010, district board 2014–2016), and [[organizations/taiwanese-american-pen-club-la||Taiwanese Pen Club in L.A. 台美人筆會]] (president 2016–2017).
+- Family already recorded: daughter Lisa Yang; son [[people/james-yang||James Yang]].

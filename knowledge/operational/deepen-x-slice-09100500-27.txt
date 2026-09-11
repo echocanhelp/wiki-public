@@ -1,0 +1,4 @@
+people/prof-davis-l-s-chang.md
+people/jerry-jean.md
+people/gloria-h-shaw.md
+organizations/global-hakka-un-ngo-applying-committee-un-ngo.md

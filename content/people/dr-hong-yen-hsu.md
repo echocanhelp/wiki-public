@@ -57,3 +57,8 @@ last_reviewed: 2026-09-10
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+## Connected in the Vault — 2026-09-10 deepen pass (vault-only)
+- Four TAH records for him are held in the vault: [[works/taiwaneseamericanhistory-org/senior-taiwanese-american-7||TAH senior profile #7]], [[works/taiwaneseamericanhistory-org/91-dr-hong-yen-hsu||TAH #91]], [[works/taiwaneseamericanhistory-org/whos-who-808-hong-yen-hsu||TAH Who's Who #808]], and his autobiography [[works/taiwaneseamericanhistory-org/1266-autobiography||TAH #1266]].
+- The Sun Ten Museum he founded also has its own vault pages: [[organizations/sun-ten-museum||Sun Ten Museum]] and [[works/taiwaneseamericanhistory-org/history-of-sun-ten-museum||history of the museum]]; an additional encyclopedia record exists at [[works/taiwaneseamericanhistory-org/40-sun-ten-museum||TAH #40: Sun Ten Museum]].
+- Family links already recorded and verified as existing vault pages: wife [[people/ring-lin-hsu||許林碖]]; children 許純真 (Melissa), 許照信, 許照義 (no vault pages yet).

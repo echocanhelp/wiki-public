@@ -1,0 +1,4 @@
+people/janice-wong.md
+people/rev-james-i-cheng.md
+people/frank-lai.md
+people/yi-cherng-lin.md

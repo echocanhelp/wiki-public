@@ -55,3 +55,8 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- [[works/taiwaneseamericanhistory-org/312-vera-hui-pin-hsu-e8-a8-b1-e6-83-a0-e5-93-81-201502||TAH Encyclopedia #312: Vera Hui-pin Hsu 許惠品 (2015/02)]]
+- [[works/taiwaneseamericanhistory-org/154-vera-hui-pin-hsu-e8-a8-b1-e6-83-a0-e5-93-81-conductorpiani-201502||TAH Encyclopedia #154: Vera Hui-pin Hsu 許惠品, Conductor/Pianist (2015/02)]]
+
+## Deepen pass 2026-09-10 (vault-only)
+Both cited encyclopedia records (#312, #154, 2015/02) exist in the vault and are now wikilinked above. Career section already absorbs their full content (2009 Georgia conductors competition win; 2012 Haifa Symphony tour; 2013 DMA, CUNY Graduate Center under Martin Canin; 2015/01 Haifa University artist-in-residence; recording of Sung-jen Hsu's "Pounding Rain" with Taiwan Philharmonic on the Voice of Taiwan series). Taipei arts university degrees on the TAH table remain as recorded.

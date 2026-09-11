@@ -53,3 +53,6 @@ _No filled family fields on the TAH profile._
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - [[works/taiwaneseamericanhistory-org/82-hsun-hsun-hsu-e8-a8-b1-e6-81-82-e6-81-82conductor||TAH Encyclopedia #82: Hsun Hsun Hsu 許恂恂, Conductor]]
 - [[organizations/presbyterian-church-in-taiwan||Presbyterian Church in Taiwan]] — church music posts (牧谷基督長老教會 音樂主任)
+
+## Deepen pass 2026-09-10 (vault-only)
+The #82 encyclopedia record exists in the vault and is wikilinked above; the #356 citation has no matching vault copy (the only #356 work in the vault is an unrelated entry). Timeline already absorbs the on-page TAH biography in full (USC B.A./M.S. vocal performance under Cynthia Munzer, Phi Kappa Lambda, NATS Young Artist prizewinner, Long Beach Mozart Festival finalist, Opera Buffs scholarship, Chi Mei Arts and Music Foundation sponsorship ×2, PCT church music posts). No further vault-internal facts to absorb.
