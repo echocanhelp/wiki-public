@@ -63,5 +63,3 @@ _Sourced from the TAH Who's Who profile above; no external material added._
 - [[works/taiwaneseamericanhistory-org/whos-who-2196-gloria-h-shaw||TAH encyclopedia #2196: Gloria H. Shaw 李雪芬]]
 - [[works/taiwaneseamericanhistory-org/198-gloria-h-shaw||TAH encyclopedia #198: Gloria H. Shaw 李雪芬]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
-- [[works/taiwaneseamericanhistory-org/whos-who-2196-gloria-h-shaw||TAH encyclopedia #2196: Gloria H. Shaw 李雪芬]]
-- [[works/taiwaneseamericanhistory-org/198-gloria-h-shaw||TAH encyclopedia #198: Gloria H. Shaw 李雪芬]]

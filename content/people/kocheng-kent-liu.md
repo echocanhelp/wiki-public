@@ -62,4 +62,3 @@ _Facts absorbed from this page's own TAH tables and accomplishment note; no new 
 - [[works/taiwaneseamericanhistory-org/ota-97||TAH encyclopedia #97: Kocheng (Kent) Liu]]
 - [[works/taiwaneseamericanhistory-org/whos-who-1906-kocheng-liu||TAH encyclopedia #1906: Kocheng (Kent) Liu 劉格正]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
-- [[works/taiwaneseamericanhistory-org/whos-who-1906-kocheng-liu||TAH encyclopedia #1906: Kocheng (Kent) Liu 劉格正]]
