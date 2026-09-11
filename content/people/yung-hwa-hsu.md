@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-10
+last_reviewed: 2026-09-11
 ---
 # Yung Hwa Hsu (許永華)
 
@@ -58,3 +58,4 @@ Accomplishment
 - [[works/taiwaneseamericanhistory-org/170-yung-hwa-hsu||TAH #170: Yung Hwa Hsu 許永華]]
 - [[works/taiwaneseamericanhistory-org/whos-who-298-yung-hwa-hsu||TAH Who's Who #298: Yung Hwa Hsu 許永華]]
 - [[works/taiwaneseamericanhistory-org/collection-of-mr-yung-hwa-hsu||Collection of Mr. Yung Hwa Hsu]]
+- [[works/taiwaneseamericanhistory-org/world-federation-of-taiwanese-associations||World Federation of Taiwanese Associations 世界台灣同鄉會]] — he served as Chief Secretary (秘書長)
