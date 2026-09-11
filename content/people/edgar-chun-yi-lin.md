@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-10
+last_reviewed: 2026-09-11
 ---
 # Prof. Jun-Yi Lin (林俊義教授)
 
@@ -72,3 +72,4 @@ The TAH archive carries this person under both romanizations — Edgar (TAH #174
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- [[works/taiwaneseamericanhistory-org/255-e6-9e-97-e4-bf-8a-e7-be-a9-e6-95-99-e6-8e-88-e5-8f-b0-e7-81-a3-e7-92-b0-e4-b||TAH #255 — 林俊義教授 / 台灣環保之父]]

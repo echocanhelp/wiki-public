@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-10
+last_reviewed: 2026-09-11
 ---
 # Tai Lin (林泰)
 
@@ -62,3 +62,4 @@ Dr. Tai Lin was born in Taipei, Taiwan and graduated from Taiwan National Tsing 
 - Wife: Dr. Yuhling Lu — co-founder of Ariel Premium Supply (no vault page yet).
 - Conductor posts per the employment table: 台北金穗合唱團, 唯歌小集, St. Louis Taiwanese Youth Chamber Orchestra.
 - Listed as a 理事 of 全美台灣人權協會's 2014 board (as 林泰) per vault page [[works/taiwaneseamericanhistory-org/ourjourneys75||Our Journeys #75]], which already wikilinks this page.
+- His St. Louis base (Washington Univ. graduate study, Ariel Premium Supply) overlaps with [[organizations/taiwanese-association-of-america-in-greater-st-louis||TAA in Greater St. Louis]] and [[organizations/friends-of-taiwan-greater-st-louis||Friends of Taiwan Greater St. Louis]]; no membership is documented.

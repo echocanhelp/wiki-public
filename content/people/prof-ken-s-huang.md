@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-10
+last_reviewed: 2026-09-11
 ---
 # Prof. Ken S. Huang (黃根深教授)
 
@@ -60,3 +60,6 @@ Master of Arts (MA), Drawing, School of Art and Art History, University of Iowa,
 - [[works/taiwaneseamericanhistory-org/ff308||TAH #308 — first art professor in U.S. universities]]
 - [[works/taiwaneseamericanhistory-org/whos-who-857-ken-s-huang||TAH #857 encyclopedia profile]]
 - [[works/taiwaneseamericanhistory-org/collection-of-prof-ken-huang||TAH #39 — Collection of Prof. Ken Huang 黃根深教授的收藏]]
+
+## Notes
+- The page intro records his University of Iowa M.A. in Drawing as 1972 while the Education table records 1973 (M.A./MFA); both dates appear in the TAH record and are retained as-is pending verification.
