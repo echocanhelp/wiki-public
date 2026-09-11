@@ -53,6 +53,11 @@ Absorbed from the on-page TAH biography and Education/Employment tables.
 - [[works/taiwaneseamericanhistory-org/artist58-marlene-tseng-yu||TAH story #58 — 虞曾富美 Marlene Tseng Yu (2016-02)]]
 - Both are bibliographic records; full text stays in the vault (see [[sources/taiwaneseamericanhistory-org-story-corpus||TAH story corpus]]).
 
+## Connected in the Vault (deepen pass 2026-09-10)
+
+- Two TAH encyclopedia records document her: [[works/taiwaneseamericanhistory-org/861-marlene-tseng-yu||TAH #861]] and [[works/taiwaneseamericanhistory-org/artist58-marlene-tseng-yu||TAH #58]], both published 2016-02-29 (value band B — essay/feature). Both are held as bibliographic records in the [[sources/taiwaneseamericanhistory-org-story-corpus||TAH story corpus]]; full text stays in the vault.
+- Her educator role traces through [[organizations/tah-foundation||TAH Foundation]]'s Who's Who, which frames her as a Hualien-born artist-educator line from 台灣 花蓮 to SoHo/Long Island City and the Marlene Yu Museum (Shreveport, LA, 2014).
+
 ## Notes
 
 - Education table entry "Univ. of ColoradoBoulder" is a source typo for University of Colorado at Boulder (M.A. Art, 1967), consistent with the narrative and with her teaching post at Denver University 1967-68.

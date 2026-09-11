@@ -42,6 +42,14 @@ Absorbed from the on-page TAH biography and Education/Employment tables.
 - **2017** — 參與臺北藝穗節自製音樂推廣節目『聽，電影!』，並以此節目獲臺北市社教館藝文沙龍補助
 - 現任紐約龍星音樂中心鋼琴及弦樂師資及行政經理
 
+## Vault records (deepen pass 2026-09-10)
+
+Absorbed from vault pages already cited (no new sources):
+
+- Her encyclopedia entry [[works/taiwaneseamericanhistory-org/431-violinist-ashley-chen||TAH #431: Ashley Chen, Violinist]] was published 2018-11-17 (value band B — essay/feature) and is catalogued in the [[sources/taiwaneseamericanhistory-org-story-corpus||TAH story corpus]] as a bibliographic record; the full text stays in the vault.
+- The source-side title labels her as a violinist; her profile biography documents viola (中提琴, studied under 王璽禎 at 復興高中 and 蕭雨沛 at 國立臺灣藝術大學) alongside piano (周佳臻; 葉孟儒、謝琦雯 at 復興高中) — a dual strings/keyboard identity, plus harpsichord as a collaborative instrument with 臺北市立交響樂團 and 世紀交響樂團.
+- Career line recorded in the vault: TSO administrative assistant → TSO/Century Symphony collaborative performer → 2016 founds A' Art Studio → 2017 臺北藝穗節 program『聽，電影!』(subsidized by 臺北市社教館藝文沙龍) → present: piano & string faculty and administrative manager at 龍星音樂中心, New York.
+
 ## Family
 
 _No filled family fields on the TAH profile._

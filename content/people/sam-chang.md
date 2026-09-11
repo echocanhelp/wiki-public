@@ -44,6 +44,15 @@ His profile in the 2017 TAHS publication (菁英錄) was compiled by [[people/zh
 - **McSam era** — Built McSam Hotel Group into a hotel development, construction, management, and investment firm; completed **25 hotels** across New York City's five boroughs, including properties associated with major brands and **Trump Entertainment Resorts** links.
 - **2017** — Profiled in the [[sources/2017-tahs-publication||2017 TAHS Publication]] (菁英錄) as the "旅館開發大王" of the New York Taiwanese American community.
 
+## Vault records (deepen pass 2026-09-10)
+
+Absorbed from vault pages already citing this profile (no new sources):
+
+- The 2017 TAHS 菁英錄 profile occupies Part 2, lines L1413–1644 (~231 lines), compiled by [[people/zhou-wei-liang||周威廉 (Zhou Weiliang)]], who also wrote the publication's 緣起與展望 founding essay (Part 1, L162–289); Zhou is listed separately from TAHS Secretary General [[people/zhou-wei-lin||周威霖 (Zhou Weilin)]], the other Zhou on the editorial team.
+- Per [[people/franklin-ping-cheng||Franklin Ping Cheng]]'s 會長謝詞 context, the 2017 yearbook introduced four prominent TA entrepreneurs and outstanding second-generation leaders — among them Sam Chang alongside [[people/katherine-huang||Katherine Huang]], [[people/lisa-su||Lisa Su]], and [[people/shawna-yang-ryan||Shawna Yang Ryan]].
+- The [[sources/2017-tahs-publication||2017 TAHS Publication]] hub lists him as 張善良 (Sam Chang) — Hotel developer, 紐約台裔.
+- Fellow developer [[people/wang-gui-rong||王桂榮 (Wang Gui-rong)]] appears in the same community-developer layer of the vault.
+
 ## Network
 
 Pages that link to **sam-chang** (sam-chang):

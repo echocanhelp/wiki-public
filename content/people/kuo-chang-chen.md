@@ -61,3 +61,6 @@ Accomplishment
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- [[works/taiwaneseamericanhistory-org/ota-249||TAH encyclopedia #249 — Kuo Chang Chen 陳國昌]]
+- [[works/taiwaneseamericanhistory-org/378-mr-kuo-chang-chen||TAH #378 — first T.A. to complete the visit of all 50 states]]
+- [[works/taiwaneseamericanhistory-org/whos-who-1138-kuo-chang-chen||TAH #1138 Who's Who entry]]
