@@ -40,6 +40,8 @@ last_reviewed: 2026-09-10
 
 ## Vault Holdings
 - [[works/taiwaneseamericanhistory-org/203-prof-mingchi-wu|TAH #203]] · [[works/taiwaneseamericanhistory-org/whos-who-975-mingchi-wu|TAH #975 Who's Who]]
+- FAPA's own newsletter is held in the vault: [[works/taiwaneseamericanhistory-org/14-fapa-news-by-formosan-association-for-public-affairs|TAH #14: FAPA News]] — context for his 2001–2003 national presidency.
+- Vault chapter-level FAPA pages that exist today: [[organizations/fapa-los-angeles||FAPA Los Angeles]], [[organizations/fapa-orange-county||FAPA Orange County]] (no national or Dallas chapter page yet).
 
 ## Vault cross-checks (absorbed 2026-09-10)
 - 1973 — co-organized the first 美東台灣人夏令會 (July 19–22, 1973, Camp Taconic, NY) as the Pittsburgh 同鄉會 representative, per the TAA founding account [[works/taiwaneseamericanhistory-org/ourjourneys76|TAH #76: Our Journeys 美東夏令會起源]].

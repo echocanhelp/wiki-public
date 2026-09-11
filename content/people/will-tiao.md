@@ -46,14 +46,10 @@ _No filled family fields on the TAH profile._
 
 ## Vault records
 - [[works/taiwaneseamericanhistory-org/40-will-tiao-e5-88-81-e6-af-93-e8-83-bd-the-first-movie-producer-formosa-betraye||TAH #40: Will Tiao 刁毓能 — first movie producer, "Formosa Betrayed" (2009)]]
-- [[works/taiwaneseamericanhistory-org/ota-233||TAH #233: Will Tiao 刁毓能 (2019)]] — encyclopedia record of his film and public-advocacy career.
+- [[works/taiwaneseamericanhistory-org/ota-233||TAH #233: Will Tiao 刁毓能 (2019)]]
 
-## Vault Cross-References (deepen pass 2026-09-10)
-Facts already held in this vault's taiwaneseamerican.org records:
-- Born and raised in Manhattan, Kansas; parents from Kaohsiung, blacklisted for identifying as "Taiwanese" ([[works/taiwaneseamerican-org/a-message-from-will-tiao-producer-of-formosa-betrayed||Tiao's 2010 fundraising message]]).
-- Formosa Betrayed (released 2010-02-26) was the first American film on US–Taiwan relations and White Terror-era issues, funded by 6-million-dollar-plus investment from Taiwanese communities in the US and Canada; Tiao spent five years developing it (same 2010 message; see also his [[works/taiwaneseamerican-org/an-open-letter-from-producer-will-tiao-to-the-fans-of-formosa-betrayed||open letter to fans, 2010-04-30]]).
-- 2010 promotion tour on US campuses: [[works/taiwaneseamerican-org/meet-formosa-betrayeds-will-tiao-and-adam-kane-at-northwestern-university||Northwestern University screening, 2010-03-04]] and [[works/taiwaneseamerican-org/will-tiao-speaking-at-emory-university-422||Emory University talk, 2010-04-22]].
-- Magna cum laude, Tufts University (international relations) — his alma mater's Taiwanese student association is [[organizations/taiwanese-association-of-students-at-tufts|page here in the vault]]; also holds an MIA from Columbia University.
+## Notes absorbed from vault records (2026-09-10)
+From the taiwaneseamerican.org records linked below: born and raised in Manhattan, Kansas; parents from Kaohsiung, blacklisted for identifying as "Taiwanese". Formosa Betrayed (released 2010-02-26) — the first American film on US–Taiwan relations and White Terror-era issues — was funded by over $6 million from Taiwanese investors in the US and Canada; Tiao spent five years developing it. He promoted it on a 2010 US campus tour (Northwestern, Emory). He graduated magna cum laude from Tufts (international relations; his student association is paged in the vault) with an MIA from Columbia.
 
 ## Vault records (deepen pass 2026-09-10)
 Additional records about this person already held in the vault (taiwaneseamerican.org harvest):

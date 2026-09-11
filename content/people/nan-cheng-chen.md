@@ -49,6 +49,12 @@ Absorbed from the profile text, Employment table, and cited TAH encyclopedia ent
 ## Connected in the Vault
 - Absorbed 2026-09-10: the vault holds two fellow New Asia Chamber Music Society (NACMS) principals as person pages — [[people/dr-wei-yang-andy-lin||Dr. Wei-Yang Andy Lin 林威良]] (NACMS co-founder and Artistic Director) and [[people/kevin-shue||Kevin Shue]] (NACMS founding member and Director of Education and Community Engagement). No standalone organization page exists yet for NACMS 新亞室內樂協會; the cited TAH pages remain the anchors.
 
+## Vault cross-links (2026-09-10)
+Absorbed from existing vault pages that document the same ensemble:
+- New Asia Chamber Music Society (NACMS, 新亞室內樂協會) co-founder and Artistic Director: [[people/dr-wei-yang-andy-lin||Andy Lin]] — his page corroborates the society's founding and mission.
+- NACMS founding member, Director of Education & Community Engagement: [[people/kevin-shue||Kevin Shue]].
+- No vault pages exist yet for NACMS, Sonic Escape, the Chen Trio, Juilliard, or the collaborating orchestras; the cited TAH encyclopedia entries remain the anchors.
+
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

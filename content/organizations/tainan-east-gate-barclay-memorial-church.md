@@ -33,6 +33,7 @@ A [[organizations/presbyterian-church-in-taiwan||PCT]] congregation in **台南�
 - **2003** — Centennial; renamed 巴克禮紀念教會; 18號公園 → 巴克禮紀念公園
 - **2020-09-14** — [[people/pinghsi-liu||劉炳熹]] installed as **第十任** pastor (church history)
 - **2024-10-25** — Tainan municipal historic monument (ZH Wikipedia)
+- **Office system (office history)** — the church's own history counts **十七任** pastors across 10 offices; first office-holder 黃俟命, tenth 劉炳熹 (absorbed 2026-09-10 from [[sources/eastgatebarclay-org||eastgatebarclay.org 教會歷史]])
 
 ## Polity
 **PCT / 台南中會.** Same Hanzi 台灣基督長老教會 as the denomination in Taiwan — here it *is* PCT, not a U.S. TPC.
