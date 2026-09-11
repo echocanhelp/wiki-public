@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-10
+last_reviewed: 2026-09-11
 ---
 # Jason Wu (吳季剛)
 
@@ -59,3 +59,4 @@ last_reviewed: 2026-09-10
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- [[works/taiwaneseamericanhistory-org/mystories225||TAH #225: 台美人的榮耀 — Stories of Mr. Jason Wu 吳季剛]]

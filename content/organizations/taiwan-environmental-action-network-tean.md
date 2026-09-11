@@ -30,6 +30,11 @@ planning); it serves as an overseas representative for numerous Taiwan-based civ
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwan-environmental-action-network-tean/)
 
+## Connected in the Vault（deepen pass 2026-09-11）
+
+- 同儕環境／生態取向台美團體：[[organizations/taiwanese-american-green-society||台美人生活綠化促進會 Taiwanese American Green Society]]（TAH 目錄同類組織）。
+- 目錄來源：[[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]] 組織目錄頁；Berkeley 學生圈連結見上（TASA／TSA at UC Berkeley），雙向連結完整。
+
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

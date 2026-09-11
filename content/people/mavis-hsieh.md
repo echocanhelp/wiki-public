@@ -47,6 +47,12 @@ _No filled family fields on the TAH profile._
 - [TAH #166 encyclopedia: 166. Mavis Hsieh謝孟潔 , Soprano / 2015/03](https://taiwaneseamericanhistory.org/166-mavis-hsieh%e8%ac%9d%e5%ad%9f%e6%bd%94-soprano/)
 - [TAH Who's Who](https://taiwaneseamericanhistory.org/person/mavis-hsieh/)
 
+## Vault Holdings（deepen pass 2026-09-11）
+
+- 本頁所引 TAH 百科原文已入庫：[[works/taiwaneseamericanhistory-org/323-mavis-hsieh-e8-ac-9d-e5-ad-9f-e6-bd-94||TAH #323（2015/03）]] 及
+  [[works/taiwaneseamericanhistory-org/166-mavis-hsieh-e8-ac-9d-e5-ad-9f-e6-bd-94-soprano||TAH #166（2015/03，Soprano）]]；
+  上表時序內容均出自該兩則記錄，無另行補充之新傳記事實。
+
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

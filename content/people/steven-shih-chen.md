@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-10
+last_reviewed: 2026-09-11
 ---
 # Steven Shih Chen (陳士駿)
 
@@ -54,3 +54,4 @@ Steven Chen received his B.S. degree in Chemical Engineering from National Taiwa
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- [[works/taiwaneseamericanhistory-org/concerts71||TAH #71: Joint Formosan Presbyterian Church Choir 福爾摩沙長老教會聯合合唱團 — Mendelssohn Saint Paul (LA, 1995)]]

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-10
+last_reviewed: 2026-09-11
 ---
 # Wayne Lee (李家瑋)
 
@@ -50,3 +50,5 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- [[works/taiwaneseamericanhistory-org/6-e7-a6-8f-e7-88-be-e6-91-a9-e6-b2-99-e5-9b-9b-e9-87-8d-e5-a5-8f||TAH #6: Formosa Quartet 福爾摩沙四重奏 / 2014-10]]
+- [[people/che-yen-chen||Che-Yen Chen 陳則言（Formosa Quartet 團員）]]
