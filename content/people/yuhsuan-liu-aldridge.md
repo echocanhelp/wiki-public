@@ -53,3 +53,6 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+## Vault Cross-References
+- TAH encyclopedia records for this profile exist in the vault: [[works/taiwaneseamericanhistory-org/278-yuhsuan-liu-aldridge-e5-8a-89-e4-ba-8e-e7-91-84-pianist-201508|TAH #278 劉于瑄 (Pianist), 2015/08]] and [[works/taiwaneseamericanhistory-org/551-yuhsuan-liu-aldridge-e5-8a-89-e4-ba-8e-e7-91-84-201508|TAH #551 劉于瑄, 2015/08]].
