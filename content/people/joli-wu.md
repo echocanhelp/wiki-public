@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-10
+last_reviewed: 2026-09-11
 ---
 # Joli Wu (吳昭麗)
 
@@ -62,3 +62,5 @@ _No filled family fields on the TAH profile._
 - [[organizations/yale-taiwanese-student-association||Yale TSA]]
 - [[organizations/taiwanese-american-association-atlanta||TAA Atlanta]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- [[organizations/taiwanese-american-historical-society|TAHS (台美人歷史協會)]]
+- [[sources/taiwaneseamericanhistory-org-story-corpus|taiwaneseamericanhistory.org 故事語料庫]]

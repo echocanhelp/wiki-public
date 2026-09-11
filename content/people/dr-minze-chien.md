@@ -45,6 +45,10 @@ _Compiled from this page's own Employment table — no new facts._
 - **Son:** Jeffrey
 
 
+## Vault records (deepen pass 2026-09-11)
+- 本人 TAH 百科條目的 vault 工作頁：[[works/taiwaneseamericanhistory-org/68-dr-minze-chien|TAH #68 條目]]、[[works/taiwaneseamericanhistory-org/whos-who-1832-minze-chien|TAH #1832 條目]]。
+- 求學與會籍脈絡（本頁既有記載）：[[organizations/university-of-maryland-taiwanese-student-association|馬里蘭大學台灣同學會]]（求學）、[[organizations/taiwanese-american-senior-society-tass-of-greater-washington-dc|TASS of Greater Washington D.C.]]（華府台裔社群脈絡）。
+
 ## Sources
 - [TAH #68 encyclopedia: 68. Dr. Minze Chien 簡明子博士](https://taiwaneseamericanhistory.org/68-dr-minze-chien/)
 - [TAH #1832 encyclopedia: 1832. Dr. Minze Chien 簡明子博士](https://taiwaneseamericanhistory.org/whos-who-1832-minze-chien/)
