@@ -41,6 +41,17 @@ Dr. Yvonne Yifang Wang, violinist born in Taoyuan, Taiwan, grew up in music as b
 - [[works/taiwaneseamericanhistory-org/487-yvonne-yifang-wang-e7-8e-8b-e4-ba-a6-e5-87-a1-201507||TAH story #487 — Yvonne Yifang Wang (2015-07)]]
 - Both are bibliographic records; full text stays in the vault (see [[sources/taiwaneseamericanhistory-org-story-corpus||TAH story corpus]]).
 
+## Timeline (absorbed from on-page biography & TAH tables; no new sources)
+
+- Born Taoyuan (桃園); both parents music teachers; violin since age 4, competition winner since childhood
+- 1996 — entered music department (narrative: Soochow; Education table: 東海大學 — see HOLD below)
+- 2000 — B.S. Music, 東海大學 (Tunghai University)
+- Master of Music, Mannes College of Music, NYC — studied with Dr. Chin Kim (Queen Elisabeth Competition prize winner); master classes with the Onion String Quartet, Michael Gilbert (NY Philharmonic Principal Associate Concertmaster), Yoko Takebe (NY Philharmonic)
+- 2002 — full scholarship to Claremont Graduate University; DMA under Dr. Rachel Vetter Huang
+- 2008 — Ph.D./DMA Music, Claremont Graduate University
+- Present — 弦樂總監, Rhapsody School of Music
+- Vault records: [[works/taiwaneseamericanhistory-org/18-yvonne-yifang-wang-e7-8e-8b-e4-ba-a6-e5-87-a1-violin||TAH story #18]] and [[works/taiwaneseamericanhistory-org/487-yvonne-yifang-wang-e7-8e-8b-e4-ba-a6-e5-87-a1-201507||TAH story #487]]
+
 ## Family
 
 _No filled family fields on the TAH profile._

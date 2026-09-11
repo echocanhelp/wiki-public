@@ -48,3 +48,8 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- [[works/taiwaneseamericanhistory-org/103-hanchien-lee-e6-9d-8e-e5-87-bd-e8-92-a8-pianist||TAH Encyclopedia #103: Hanchien Lee 李函蒨, Pianist]]
+
+## Connected in the Vault — 2026-09-10 deepen pass (vault-only)
+- Her TAH encyclopedia record is held in the vault: [[works/taiwaneseamericanhistory-org/103-hanchien-lee-e6-9d-8e-e5-87-bd-e8-92-a8-pianist||TAH Encyclopedia #103: Hanchien Lee 李函蒨, Pianist]] — consistent with the Who's Who record already reflected in the Timeline above (debut with the Philadelphia Orchestra at sixteen; Curtis B.A. → Yale M.M. and Artists' Diploma → Peabody Ph.D.; piano faculty at Peabody Preparatory and the University of Pennsylvania).
+- No vault pages exist yet for her institutions (Curtis, Yale, Peabody) or ensembles; no vault person is cross-cited in her record, so no person links are asserted.

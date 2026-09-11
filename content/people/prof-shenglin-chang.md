@@ -53,6 +53,9 @@ _No filled family fields on the TAH profile._
 - [TAH #1767 encyclopedia: 1767. Prof. Shenglin Chang 張聖琳教授](https://taiwaneseamericanhistory.org/whos-who-1767-shenglin-chang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-shenglin-chang/)
 
+## Connected in the Vault (2026-09-10 deepen pass)
+- Encyclopedia record held in-vault: [[works/taiwaneseamericanhistory-org/whos-who-1767-shenglin-chang||TAH Who's Who #1767: Prof. Shenglin Chang 張聖琳教授]] — the bibliographic record behind the Education/Employment tables above (published 2017-07-19, value band B)
+
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

@@ -53,6 +53,9 @@ _No filled family fields on the TAH profile._
 - [TAH #1632 encyclopedia: 1632. Prof. Ping-Hui Liao 廖炳惠教授](https://taiwaneseamericanhistory.org/whos-who-1632-ping-hui-liao/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-ping-hui-liao/)
 
+## Connected in the Vault (2026-09-10 deepen pass)
+- His film criticism is echoed in-vault: [[articles/taiwanjustice-net/2023/20230530142943_tag_廖炳惠教授論台灣當代電影_大佛普拉斯_26304bdd1d29ccb8||廖炳惠教授論台灣當代電影「大佛普拉斯」]] (taiwanjustice.net, 2023-05-30) — public commentary on contemporary Taiwanese cinema, consistent with his comparative-literature chairmanship
+
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

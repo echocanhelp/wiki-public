@@ -35,7 +35,7 @@ last_reviewed: 2026-09-10
 - 1966 — B.S., Arts, National Taiwan Univ. of Arts; later studied at Art Center College of Design and California State Univ. Northridge
 - 1994–2004 — Writer and editor, art column, Pacific Times Newspaper
 - 2004–2005 — President, [[organizations/taiwanese-american-arts-association||Taiwanese American Arts Association (TAAA) 台美藝術協會]]
-- 2006–2009 — Founder and first president, Neo Art League
+- 2006–2009 — Founder and first president, [[organizations/neo-art-league||Neo Art League]]
 - 2010 — President, [[organizations/natwa-southern-california||NATWA S. CA Chapter (北美洲台灣婦女會南加分會)]]
 - 2014–2016 — District board member, NATWA
 - 2016–2017 — President, [[organizations/taiwanese-american-pen-club-la||Taiwanese Pen Club in L.A. (台美人筆會)]]

@@ -25,6 +25,7 @@ last_reviewed: 2026-09-10
 - **Content priority A:** Name and role on https://www.taiwancenter.org/board (archived `taiwancenter-org-board.md`)
 - **Hub:** [[sources/taiwancenter-org||taiwancenter.org]]
 - **Content priority C:** Full biography not in this source set
+- **2026-09-10 disambiguation (vault-absorbed):** TAH Who's Who record #256 "James Yang" names the violinist **楊明仁**, not this person — see [[works/taiwaneseamericanhistory-org/whos-who-256-james-yang||TAH #256 record]]; 楊榮勝 has no TAH Who's Who record in the vault
 - **2024 corroboration:** listed among the 38 董事 (with 李賢群、葉上毅 and others) at 大洛杉磯台灣會館第26周年年會晚宴暨募款活動 — [[articles/taiwanjustice-net/2025/20250420093345_2024大洛杉磯台灣會館第26周年年會晚宴暨募款活動11月2_2f4af86847559b66|taiwanjustice.net report]]
 
 ## Sources

@@ -47,6 +47,10 @@ Sean Y. Wang is a violinist, musicologist, and conductor. A violin graduate of t
 
 _No filled family fields on the TAH profile._
 
+## Connected in the Vault (2026-09-10 deepen pass)
+- [[works/taiwaneseamericanhistory-org/246-sean-wang-e7-8e-8b-e9-9b-8d-e7-bf-94violinist-201507||TAH story #246: Sean Wang 王雍翔, Violinist (2015/07)]] — in-vault biographical record matching the profile text above
+- [[works/taiwaneseamericanhistory-org/503-sean-wang-e7-8e-8b-e9-9b-8d-e7-bf-94-201507||TAH story #503: Sean Wang 王雍翔 (2015/07)]] — companion entry, same publication date
+
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/sean-wang/)
 
