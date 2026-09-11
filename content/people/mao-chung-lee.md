@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-10
+last_reviewed: 2026-09-11
 ---
 # MAO-CHUNG LEE (李茂宗)
 
@@ -54,3 +54,5 @@ _No filled family fields on the TAH profile._
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - [[works/taiwaneseamericanhistory-org/whoswho1021||TAH #1021 profile (2016/05)]]
 - [[works/taiwaneseamericanhistory-org/33-e6-9d-8e-e8-8c-82-e5-ae-97lee-mao-chung-201503||TAH #33 profile (2015/03)]]
+- [[organizations/taiwanese-american-historical-society||TAHS]] — source community for the TAH Who's Who project
+- [[sources/taiwaneseamericanhistory-org-story-corpus||TAH story corpus hub]]

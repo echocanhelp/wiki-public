@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-10
+last_reviewed: 2026-09-11
 absorb_note: 2026-09-10 deep pass — sole cited work record 34-e9-bb-83 dated 2015-03-06; no other vault page mentions him
 ---
 # SHIH CHIEH HUANG (黃世傑)
@@ -53,3 +53,4 @@ _No filled family fields on the TAH profile._
 ## Network
 - [[organizations/united-taiwanese-association-at-uc-san-diego||UTASD UC San Diego]] — UC San Diego BFA (1998), per Education table
 - [[organizations/brooklyn-artists-studio||Brooklyn Artists Studio]] — NYC art-community connection (New Museum, Art Omi residencies per bio)
+- [[sources/taiwaneseamericanhistory-org-story-corpus||TAH story corpus hub]]

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-10
+last_reviewed: 2026-09-11
 ---
 # Ruth Yeh (葉李麗貞)
 
@@ -61,3 +61,5 @@ Absorbed from the profile text, Employment table, and cited TAH encyclopedia ent
 - [[works/taiwaneseamericanhistory-org/99-mrs-ruth-yeh-e8-91-89-e6-9d-8e-e9-ba-97-e8-b2-9e-first-family-and-marriage-cl||TAH #99: Ruth Yeh, First family and marriage clinic / 1986]]
 - [[works/taiwaneseamericanhistory-org/ruth-mail-box||Ruth Mail Box 路德信箱 (台灣公論報)]]
 - [[works/taiwaneseamericanhistory-org/mystories243||人生若夢─心理治療家葉李麗貞的故事 / 楊遠薰]]
+- [[organizations/taiwanese-american-historical-society||TAHS]] — source community for the TAH Who's Who project
+- [[sources/taiwaneseamericanhistory-org-story-corpus||TAH story corpus hub]]

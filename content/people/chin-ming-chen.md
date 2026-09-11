@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-10
+last_reviewed: 2026-09-11
 ---
 # Dr. Chin-Ming Chen (陳欽明醫師)
 
@@ -64,3 +64,4 @@ Absorbed from the on-page biography and tables (no external sources):
 - [[sources/taiwaneseamericanhistory-org-story-corpus||TAH story corpus hub]]
 - [[organizations/global-taiwan-institute||Global Taiwan Institute]]
 - [[organizations/the-great-new-york-region-oversea-taiwanese-pen-club||大紐約區海外台灣人筆會]]
+- [[organizations/taiwanese-american-historical-society||TAHS]] — source community for the TAH Who's Who project
