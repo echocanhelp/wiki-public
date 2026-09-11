@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-10
+last_reviewed: 2026-09-11
 ---
 # Evergreen Senior University by Evangelical Formosa Church of Irvine ESU (愛恩台福基督教會長春大學)
 

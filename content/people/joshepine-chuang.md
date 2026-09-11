@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-10
+last_reviewed: 2026-09-11
 ---
 # Joshepine Chuang (莊靜怡)
 
@@ -54,3 +54,4 @@ _No filled family fields on the TAH profile._
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - [[works/taiwaneseamericanhistory-org/grace-taiwanese-presbyterian-church||Grace Taiwanese Presbyterian Church]]
+- [[organizations/presbyterian-church-in-taiwan||台灣基督長老教會]] — Grace Taiwanese Presbyterian Church (where she conducts the children's choir) is in the PCT tradition

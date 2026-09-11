@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-10
+last_reviewed: 2026-09-11
 ---
 # Ching-Yun Hu (胡瀞云)
 
@@ -43,6 +43,10 @@ Ching-Yun Hu was named a winner of the 2009 Concert Artists Guild International 
 ## Family
 
 _No filled family fields on the TAH profile._
+
+## Connected in the Vault（deepen pass 2026-09-11）
+
+- 本頁兩篇 TAH 傳記之 vault 內出處頁：[[works/taiwaneseamericanhistory-org/572-ching-yun-hu-e8-83-a1-e7-80-9e-e4-ba-91-201509||TAH #572 胡瀞云（2015/09）]]、[[works/taiwaneseamericanhistory-org/288-e8-83-a1-e7-80-9e-e4-ba-91ching-yun-hu-pianist-201509||TAH #288 胡瀞云, Pianist（2015/09）]]。
 
 ## Sources
 - [TAH #572 encyclopedia: 572. Ching-Yun Hu 胡瀞云 / 2015/09](https://taiwaneseamericanhistory.org/572-ching-yun-hu-%e8%83%a1%e7%80%9e%e4%ba%91-201509/)
