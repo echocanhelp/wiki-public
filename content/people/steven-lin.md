@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-10
+last_reviewed: 2026-09-11
 ---
 # Steven Lin (林易)
 
@@ -48,5 +48,7 @@ _No filled family fields on the TAH profile._
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/steven-lin/)
 
 ## Related Pages
+- [[works/taiwaneseamericanhistory-org/291-steven-lin-e6-9e-97-e6-98-93-pianist-201509||TAH #291 林易（鋼琴家）傳記]]（2015-09-07 刊）
+- [[works/taiwaneseamericanhistory-org/575-steven-lin||TAH #575 林易]]（2015-09-07 刊）
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

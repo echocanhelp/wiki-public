@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-10
+last_reviewed: 2026-09-11
 ---
 # Mei-Li Chen (陳玫麗)
 
@@ -50,6 +50,8 @@ _No filled family fields on the TAH profile._
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/mei-li-chen/)
 
 ## Related Pages
+- [[works/taiwaneseamericanhistory-org/117-mei-li-chen-e9-99-b3-e7-8e-ab-e9-ba-97-conductor-201501||TAH #117 陳玫麗（指揮）傳記]]（2015-01-19 刊）
+- [[works/taiwaneseamericanhistory-org/207-mei-li-chen-e9-99-b3-e7-8e-ab-e9-ba-97-201501||TAH #207 陳玫麗傳記]]（2015-01-19 刊）
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
