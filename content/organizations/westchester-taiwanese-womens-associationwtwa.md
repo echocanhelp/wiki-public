@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-10
+last_reviewed: 2026-09-11
 ---
 # Westchester Taiwanese Women’s Association WTWA (威郡台灣婦女會)
 
@@ -43,3 +43,6 @@ _Facts absorbed from this page's own description; no new sources._
 
 ## Deepen pass 2026-09-10 (vault-only)
 The association's own TAH encyclopedia record (#108) and directory record exist in the vault and are now wikilinked above, along with the Passport to Taiwan event record and Westchester, NY geography page its history references. History section already absorbs the directory description in full (founded fall 1974; monthly Sep–Jun gatherings; Scarsdale Woman's Club exchanges; Heritage Week / Passport to Taiwan / Komen Team Taiwan participation; 1999 25th-anniversary charity piano concert for the Taiwan Center Steinway and Music Conservatory of Westchester scholarship).
+
+## Vault re-check 2026-09-11 (deepen-x slice 7, vault-only)
+All wikilink targets on this page verified to exist in the vault; all cited-source facts were already absorbed in the prior deepen pass. No new vault facts found, no web used, no new pages created, nothing published.
