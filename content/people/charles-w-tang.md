@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-10
+last_reviewed: 2026-09-11
 ---
 # Charles W. Tang (唐瑋廷)
 
@@ -70,4 +70,5 @@ His zheng study under WANG Changyuan and his composer-in-residence role with Dru
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
+- Fellow Juilliard piano pupil of Martin Canin: [[people/jung-lin|Jung Lin (林容光)]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

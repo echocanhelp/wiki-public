@@ -51,6 +51,8 @@ _No filled family fields on the TAH profile._
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
+- [[works/taiwaneseamericanhistory-org/whoswho1407||TAH encyclopedia #1407: Cindy Chen 陳欣意]]
+- [[works/taiwaneseamericanhistory-org/musician373||TAH encyclopedia #373: Cindy Chen 陳欣意, harpist]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - [[works/taiwaneseamericanhistory-org/whoswho1407||TAH encyclopedia #1407: Cindy Chen 陳欣意]]
 - [[works/taiwaneseamericanhistory-org/musician373||TAH encyclopedia #373: Cindy Chen 陳欣意, harpist]]

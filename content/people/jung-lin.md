@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-10
+last_reviewed: 2026-09-11
 ---
 # Jung Lin (林容光)
 
@@ -54,6 +54,7 @@ _No filled family fields on the TAH profile._
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
+- Fellow Juilliard piano pupil of Martin Canin: [[people/charles-w-tang|Charles W. Tang (唐瑋廷)]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - [[works/taiwaneseamericanhistory-org/musician400||400. Jung Lin 林容光, Pianist & Composer / 05/2017]] — TAH encyclopedia #400
 - [[works/taiwaneseamericanhistory-org/whos-who-1664-jung-lin||1664. Jung Lin 林容光]] — TAH Who's Who #1664

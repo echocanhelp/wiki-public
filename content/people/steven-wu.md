@@ -7,7 +7,7 @@ tags:
   - Taiwan-Center
   - board
 verification_status: published
-last_reviewed: 2026-09-10
+last_reviewed: 2026-09-11
 ---
 # Steven Wu (吳尚誠)
 
@@ -38,7 +38,7 @@ Facts absorbed from records already mirrored on this page (no new sources):
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/steven-wu/)
 
 ## Name-collision caution (vault-sourced)
-- The TAH records behind the table below (encyclopedia post 1619, archived `1619-steven-wu-巫石增-201704.md`, and the person record `person/steven-wu.json`) are titled **Steven Wu 巫石增** — birthplace 台灣, arrived US 1966, Huntsville AL, NASA Johnson/Stennis/Marshall centers, 首任會長 FAPA阿拉巴馬州分會 (1994), 會長 Huntsville台灣同鄉會 (1995), source 台灣公論報第1626期 02/1998. The **Chinese name does not match** the taiwancenter.org board entry 吳尚誠, so the TAH biography may belong to a different Steven Wu; the tah-tables below are the 巫石增 record and should not be merged into the board member's biography without confirmation.
+- The TAH records behind the table below (encyclopedia post 1619, [[works/taiwaneseamericanhistory-org/1619-steven-wu-e5-b7-ab-e7-9f-b3-e5-a2-9e-201704|TAH #1619, Steven Wu 巫石增 (04/2017)]] (archived `1619-steven-wu-巫石增-201704.md`), and the person record `person/steven-wu.json`) are titled **Steven Wu 巫石增** — birthplace 台灣, arrived US 1966, Huntsville AL, NASA Johnson/Stennis/Marshall centers, 首任會長 FAPA阿拉巴馬州分會 (1994), 會長 Huntsville台灣同鄉會 (1995), source 台灣公論報第1626期 02/1998. The **Chinese name does not match** the taiwancenter.org board entry 吳尚誠, so the TAH biography may belong to a different Steven Wu; the tah-tables below are the 巫石增 record and should not be merged into the board member's biography without confirmation.
 - **Board cohort (團體董事, same archived snapshot, cross-confirmed on [[people/lisa-hou||Lisa Hou (侯乃文)]]):** [[people/shirley-yu||Shirley Yu (張欣珠)]], [[people/joyce-yeh||Joyce Yeh (葉怡蘭)]], [[people/josephine-pan||Josephine Pan (潘掬慧)]], [[people/joseph-teng||Joseph Teng (曾英銘)]], Lisa Hou (侯乃文)
 
 <!-- tah-tables:start -->

@@ -57,6 +57,9 @@ _Facts absorbed from this page's own TAH tables and accomplishment note; no new 
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
+- [[organizations/taiwanese-association-of-america||Taiwanese Association of America]] — parent org of his TAA-NC chapter leadership
+- [[organizations/taiwanese-association-nc-chapter||TAA North Carolina Chapter (北卡台灣同鄉會)]] — president 1985, 1998 (2nd half), 1999
 - [[works/taiwaneseamericanhistory-org/ota-97||TAH encyclopedia #97: Kocheng (Kent) Liu]]
+- [[works/taiwaneseamericanhistory-org/whos-who-1906-kocheng-liu||TAH encyclopedia #1906: Kocheng (Kent) Liu 劉格正]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - [[works/taiwaneseamericanhistory-org/whos-who-1906-kocheng-liu||TAH encyclopedia #1906: Kocheng (Kent) Liu 劉格正]]
