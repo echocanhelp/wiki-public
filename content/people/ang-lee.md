@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-10
+last_reviewed: 2026-09-11
 ---
 # Ang Lee (李安)
 
@@ -64,3 +64,4 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- [[works/taiwaneseamerican-org/taiwanese-american-ang-lee-wins-best-director-academy-award-for-life-of-pi||Coverage: Taiwanese American Ang Lee wins Best Director Academy Award for Life of Pi]] — corresponds to the 2012 Life of Pi entry in the filmography above

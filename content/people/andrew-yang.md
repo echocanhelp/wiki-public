@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-10
+last_reviewed: 2026-09-11
 ---
 # Andrew Yang (楊安澤)
 
@@ -65,3 +65,5 @@ TAH records held in this vault:
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- [[organizations/brown-taiwan-society||Brown Taiwan Society]] (context only — his Brown B.A. is listed in the table above; membership is not stated in his TAH profile)
+- [[organizations/columbia-university-taiwanese-student-association||Columbia Taiwanese Student Association]] (context only — his Columbia J.D. is listed; membership is not stated)
