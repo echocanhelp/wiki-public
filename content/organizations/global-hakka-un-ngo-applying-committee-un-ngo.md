@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-10
+last_reviewed: 2026-09-11
 ---
 # Global HAKKA UN NGO Applying Committee UN NGO (世界客家社團加入)
 

@@ -7,7 +7,7 @@ tags:
   - taiwanjustice-net
   - thin-page
 verification_status: pending
-last_reviewed: 2026-09-10
+last_reviewed: 2026-09-11
 name_en: "Frank Hsieh"
 ---
 # Frank Hsieh (謝長廷)
@@ -55,3 +55,4 @@ name_en: "Frank Hsieh"
 - Entity registry (`knowledge/research/taiwanjustice-net-entities.md`): 謝長廷 / Frank Hsieh — registry slug `xie-changting` (page not yet created), **22** article hits, registry role label "Legislative Speaker" (title-extracted, secondary; expand only with primary sources).
 - Same-archive cross-reference: [[people/chen-shuibian||Chen Shuibian (陳水扁)]] — 14 hits in the same taiwanjustice.net extraction (President 2000–2008 per registry); overlapping DPP-era coverage.
 - ⚠ The TAH Who's Who pianist block above stays flagged as a wrong-merge candidate; no absorbment this pass.
+- 2026-09-11 pass: still no absorbment pending the split decision (politician 謝長廷 vs TAH pianist); registry slug `xie-changting` page not yet created — no new pages per slice rules.

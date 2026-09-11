@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-10
+last_reviewed: 2026-09-11
 ---
 # Yi-Cherng Lin (林宜誠)
 
@@ -62,3 +62,4 @@ _No filled family fields on the TAH profile._
 ## Vault records (deepen pass 2026-09-10)
 
 - [[people/pin-huey-wang||Pin-Huey Wang]] — pianist (also a University of Maryland College Park DMA graduate, 2008). Her vault-recorded TAH profile notes **a concert with baritone Yi-Cherng Lin at the Taiwanese Culture Center in San Diego**, the reciprocal record of this performance.
+- 2026-09-11 pass: no further absorbable vault facts; prior records (#458/#14 encyclopedia pages, 華府台灣文化中心, UMD TSA, Pin-Huey Wang reciprocal concert note) remain current.

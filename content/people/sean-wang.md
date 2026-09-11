@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-10
+last_reviewed: 2026-09-11
 ---
 # Sean Wang (王雍翔博士)
 
@@ -57,3 +57,6 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+## Vault records (deepen pass 2026-09-11)
+- Institution-context pages in the vault corpus: [[organizations/taiwanese-cultural-society-at-stanford-university||Taiwanese Cultural Society at Stanford University]] and [[organizations/stanford-taiwanese-student-association||Stanford Taiwanese Student Association]] (Ph.D. years at Stanford), [[organizations/vanderbilt-tssa||Vanderbilt TSSA]] (violin professor post listed 泛德堡大學 — apparent typo for 范德堡/Vanderbilt). Context only — no documented membership.
