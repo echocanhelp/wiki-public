@@ -58,3 +58,4 @@ _No filled family fields on the TAH profile._
 - [[works/taiwaneseamericanhistory-org/53-george-chang-long-chen-chen-wen-hsong-lai-e5-bc-b5-e7-87-a6-e9-9d-99-e9-99-b3||TAH #53 oral history: George Chang, Long-Chen Chen & Wen Hsong Lai]]
 - [[works/taiwaneseamericanhistory-org/1014-frank-lai-e8-b3-b4-e6-96-87-e9-9b-84-201605||TAH Encyclopedia #1014: Frank Lai 賴文雄]]
 - [[people/tsan-hung-george-chang||張燦鍙 (George Chang)]] — co-interviewee, TAH #53
+- [[works/taiwaneseamericanhistory-org/whoswho1044||TAH Encyclopedia #1044: W. S. Lai 賴文雄]] — encyclopedia profile

@@ -54,3 +54,4 @@ Accomplishment
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- [[works/taiwaneseamericanhistory-org/whos-who-882-shu-ching-cheng||TAH Encyclopedia #882: Shu-ching Cheng 賴淑卿]]

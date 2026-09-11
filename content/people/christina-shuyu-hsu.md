@@ -57,5 +57,9 @@ last_reviewed: 2026-09-11
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/christina-shuyu-hsu/)
 
 ## Related Pages
+- [[works/taiwaneseamericanhistory-org/whos437-christina-hsu||TAH #437: Christina Shuyu Hsu 許吳漱玉]]
+- [[works/taiwaneseamericanhistory-org/artist44-christina-hsu||TAH #44: 許吳漱玉 Christina Hsu (Artist)]]
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- [[organizations/joint-alumni-association-of-taiwan-teachers-college-and-normal-univers||Joint Alumni Association of Taiwan Teachers College and Normal Universities]] — alumni network for her teachers-college training (台中師院/台北師院)
+- [[organizations/new-york-taiwan-center||New York Taiwan Center]] — New York-area community org where her NY Chinese-school era was centered

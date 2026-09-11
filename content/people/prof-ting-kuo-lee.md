@@ -52,3 +52,5 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- [[works/taiwaneseamericanhistory-org/whos-who-1789-ting-kuo-lee||TAH Encyclopedia #1789: Prof. Ting-Kuo Lee 李定國教授]]
+- [[organizations/brown-risd-taiwanese-graduate-student-association||Brown/RISD Taiwanese Graduate Student Association]] — Brown-era Taiwanese student community (his Ph.D. alma mater was Brown Univ.)
