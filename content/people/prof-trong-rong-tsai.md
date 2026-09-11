@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-10
+last_reviewed: 2026-09-11
 ---
 # Prof. Trong-Rong Tsai (蔡同榮教授)
 
@@ -65,3 +65,5 @@ Prof. Trong-Rong Tsai 蔡同榮教授 – History of Taiwanese American (T.A. Ar
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- [[works/taiwaneseamericanhistory-org/173-prof-tron-rong-tsai||TAH #173 encyclopedia: Prof. Tron-Rong Tsai 蔡同榮教授]]
+- [[works/taiwaneseamericanhistory-org/whos-who-30-trong-rong-tsai||TAH Who's Who #30: Prof. Trong-Rong Tsai 蔡同榮教授]]

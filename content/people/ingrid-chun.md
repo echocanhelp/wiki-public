@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-10
+last_reviewed: 2026-09-11
 ---
 # Ingrid Chun (郭雋音)
 
@@ -44,6 +44,9 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- [[works/taiwaneseamericanhistory-org/222-ingrid-chun-e9-83-ad-e9-9b-8b-e9-9f-b3201501||TAH #222 encyclopedia: Ingrid Chun 郭雋音 (2015/01)]]
+- [[works/taiwaneseamericanhistory-org/118-ingrid-chun-e9-83-ad-e9-9b-8b-e9-9f-b3-violinist201501||TAH #118 encyclopedia: Ingrid Chun 郭雋音, Violinist (2015/01)]]
+- [[people/melody-kuo||Melody Kuo (郭雋律)]]
 
 ## Timeline (absorbed 2026-09-10 from profile text on this page)
 - 1992 — joined the Los Angeles Philharmonic as violinist (listed as 首席小提琴 in the employment table); tenure has included international tours across Europe and Asia and recordings on Grammy-winning albums
