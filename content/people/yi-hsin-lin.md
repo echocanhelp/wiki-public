@@ -53,3 +53,7 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+## Vault records (deepen pass 2026-09-10)
+- Encyclopedia record in vault: [[works/taiwaneseamericanhistory-org/yi-hsin-lin-violinist||TAH #402 Yi-Hsin Lin 林宜欣, Violinist]] (06/2017) — vault copy of the source behind the Carnegie Hall debut and chair history above.
+- Mid-Atlantic community cluster for her on-page D.C./Maryland activity (no documented membership): [[organizations/taiwanese-american-association-baltimore||Taiwanese American Association of Baltimore]], [[organizations/taiwanese-american-cultural-society-of-the-capital-district||Taiwanese American Cultural Society of the Capital District]].

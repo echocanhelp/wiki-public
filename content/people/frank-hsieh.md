@@ -50,3 +50,8 @@ name_en: "Frank Hsieh"
 - [[organizations/taiwanjustice-net||taiwanjustice.net (台灣公義網)]]
 - [[articles/taiwanjustice-net/index||taiwanjustice.net Article Archive]]
 - [[people/freeman-huang||Freeman Huang (黃樹人)]]
+
+## Vault records (deepen pass 2026-09-10)
+- Entity registry (`knowledge/research/taiwanjustice-net-entities.md`): 謝長廷 / Frank Hsieh — registry slug `xie-changting` (page not yet created), **22** article hits, registry role label "Legislative Speaker" (title-extracted, secondary; expand only with primary sources).
+- Same-archive cross-reference: [[people/chen-shuibian||Chen Shuibian (陳水扁)]] — 14 hits in the same taiwanjustice.net extraction (President 2000–2008 per registry); overlapping DPP-era coverage.
+- ⚠ The TAH Who's Who pianist block above stays flagged as a wrong-merge candidate; no absorbment this pass.

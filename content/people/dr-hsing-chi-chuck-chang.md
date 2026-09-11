@@ -72,5 +72,5 @@ Dr. Hsing-Chi (Chuck) Chang 張幸吉博士 – History of Taiwanese American (T
 
 - 正文所稱 **台美史料中心（T.A. Archives）** 與任職紀錄中的 Formosa Credit Union NJ 等單位，vault 內暫無專屬頁面，不建連結以免新建頁。
 - **Windsor Area Taiwanese American Association**（1993–1994 創會長）：vault 已有檔案頁 [[works/taiwaneseamericanhistory-org/windsor-area-taiwanese-american-association||Windsor Area Taiwanese American Association 溫莎區台美協會]]，及通訊紀錄 [[works/taiwaneseamericanhistory-org/newsletter-of-winsor-area-taiwanese-american-association||Windsor Area TAA 通訊]]。
-- **FAPA / NJ Chapter**（2007–2008 會長）：vault 另有同分會檔案 [[works/taiwaneseamericanhistory-org/176-dr-maurice-hsu-e8-a8-b1-e7-9b-9b-e7-94-b7-president-of-fapanew-jersey-chapte||TAH #176：FAPA NJ 分會紀錄]]（前任會長陳榮炯），可互證分會沿革。
+- **FAPA / NJ Chapter**（2007–2008 會長）：vault 另有同分會檔案 [[works/taiwaneseamericanhistory-org/176-dr-maurice-hsu-e8-a8-b1-e7-9b-9b-e7-94-b7-president-of-fapanew-jersey-chapte||TAH #176：徐榮炯 Dr. Maurice Hsu，FAPA NJ 分會長]]，可互證分會沿革。
 - 其他單位（台美史料中心、Formosa Credit Union、TA Association NJ）vault 內暫無專屬頁面，不建連結以免新建頁。

@@ -65,3 +65,9 @@ Married to [[people/t-y-ko||柯翠園]].
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+## Vault records (deepen pass 2026-09-10)
+- Encyclopedia record in vault: [[works/taiwaneseamericanhistory-org/mystories512||TAH #512 火箭王子 陳彥升 棄高薪回台發展]] (林修卉, 02/2017) — the profiled "Rocket Prince" story behind the 2017 timeline entry.
+- Who's Who record in vault: [[works/taiwaneseamericanhistory-org/whoswho1410||TAH #1410 Yen-Sen Chen 陳彥升]] (11/2016).
+- Same-domain diaspora association in the vault corpus: [[organizations/taiwanese-american-aeronautics-and-space-association||Taiwanese American Aeronautics and Space Association]] (aerospace field context only — no documented membership on this page).
+- Family: wife [[people/t-y-ko||柯翠園]].

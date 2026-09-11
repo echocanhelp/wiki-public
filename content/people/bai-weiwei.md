@@ -54,7 +54,8 @@ This page is an **A-tier thin record** for graph linking and member-priority sco
 ## Related Pages
 
 - [[organizations/taiwanese-american-historical-society||Taiwanese American Historical Society (TAHS)]]
-- [[people/ching-sze-hsieh||謝清志博士]] — interview subject's father; [[people/rosalyne-formosa-shieh||Rosalyne Shieh (謝泊欣)]] — 2023 oral-history interviewee (with 黃樹人 / Freeman Huang)
+- [[people/ching-sze-hsieh||謝清志博士]] — interview subject's father; his own vault archive record: [[works/taiwaneseamericanhistory-org/108-e8-a7-a3-e6-b0-b8-e5-8d-9a-e5-a3-ab-dr-ching-sze-hsieh||TAH #108：謝清志博士]] (his oral testimony is cited inside the 謝泊欣 interview); [[people/rosalyne-formosa-shieh||Rosalyne Shieh (謝泊欣)]] — 2023 oral-history interviewee (with 黃樹人 / Freeman Huang)
+- Publication harvest: `knowledge/web-archives/2023-tahs-publication-part2.md`; vault source page [[sources/2023-tahs-publication||《台名人菁英錄》第二輯]]
 - [[people/leonard-hsu-jr||Leonard Hsu Jr. (許景鴻)]] — President (會長)
 - [[people/yang-jia-you||Charles Yang (楊嘉猷)]] — Treasurer (財務長); founding president
 - [[people/freeman-huang||Freeman Huang (黃樹人)]] — Secretary (秘書)

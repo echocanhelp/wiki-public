@@ -55,3 +55,8 @@ Accomplishment
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+## Vault records (deepen pass 2026-09-10)
+- Encyclopedia records in vault: [[works/taiwaneseamericanhistory-org/ota-254||TAH #254 Dr. Yung-San Liang 梁永三博士]], [[works/taiwaneseamericanhistory-org/whos-who-2172-yung-san-liang||TAH #2172 Dr. Yung-San Liang 梁永三博士]] (no vault work page yet for #30).
+- Award issuer present in vault: [[organizations/taiwanese-youth-arts-foundation-washington-dc||Taiwanese Youth Arts Foundation (Washington DC)]] — per the on-page table he received its Outstanding Service Award (2002–2003).
+- Greater-D.C. community cluster (context only, no documented membership): [[organizations/taiwanese-american-cultural-society-of-the-capital-district||Taiwanese American Cultural Society of the Capital District]], [[organizations/taiwanese-american-senior-society-tass-of-greater-washington-dc||TASS of Greater Washington DC]]. The "Taiwanese American Association of Great D.C. Areas" (Board 2002–2003 per on-page table) has no vault page under that exact name yet.
