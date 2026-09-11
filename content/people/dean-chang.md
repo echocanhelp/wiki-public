@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-10
+last_reviewed: 2026-09-11
 ---
 # Dean Chang (張怡仁)
 
@@ -43,6 +43,12 @@ Accomplishment
 - **Father:** 張坤文
 - **Mother:** 陳美蓉
 
+
+## Vault Holdings
+- [[works/taiwaneseamericanhistory-org/whos-who-616-dean-chang|TAH #616 Who's Who：Dean Chang 張怡仁]]
+- [[works/taiwaneseamericanhistory-org/13-dean-chang|TAH #13 百科：Dean Chang 張怡仁]]
+- [[works/taiwaneseamericanhistory-org/ourfootstapes-24|TAH #24：向雷根總統展示西點軍校年鑑]]
+- [[works/taiwaneseamericanhistory-org/collection-of-colonel-retired-dean-chang|上校退役張怡仁（Dean Chang）檔案彙整]]
 
 ## Sources
 - [TAH #24 encyclopedia: 24. Dean Chang ( 張怡仁) Presenting the West Point Yearbook to President Reagan  By](https://taiwaneseamericanhistory.org/ourfootstapes-24/)

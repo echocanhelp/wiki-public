@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-10
+last_reviewed: 2026-09-11
 ---
 # Ted Kuo (郭來哲博士)
 
@@ -48,6 +48,7 @@ last_reviewed: 2026-09-10
 
 ## Connected in the Vault
 - Vault records about them: [[works/taiwaneseamericanhistory-org/mystories75|75. 郭來哲博士的英文語源百科大辭典 / 楊遠薰]] · [[works/taiwaneseamericanhistory-org/ourjourneys12|12. 大紐約區海外台灣人筆會十週年/柯金寅/2014/09]] · [[works/taiwaneseamericanhistory-org/ourjourneys17|17. 紐澤西的將軍日本餐廳 / 李正三 /09/2014]] · [[works/taiwaneseamericanhistory-org/ourjourneys58|58.回憶編印第一本《全美台灣同鄉通訊錄》的甘苦經過 / 陳希寬]]
+- Main encyclopedia record: [[works/taiwaneseamericanhistory-org/272-e5-8f-b0-e7-81-a3-e4-ba-ba-e7-9a-84-e7-bf-b9-e6-a5-9a-e9-83-ad-e4-be-86-e5-9|TAH #272 台灣人的翹楚—郭來哲博士、楊涵珺伉儷 / 李素鳳]]
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

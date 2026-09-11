@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-10
+last_reviewed: 2026-09-11
 ---
 # Prof. Shih-I Chu (朱時宜教授)
 
@@ -44,7 +44,8 @@ _No filled family fields on the TAH profile._
 - 2008— — 任國立台灣大學量子科學與工程中心（CQSE）主任
 
 ## Vault Holdings
-- [[works/taiwaneseamericanhistory-org/whos-who-1858-shih-i-chu|TAH #1858 Who's Who]]
+- [[works/taiwaneseamericanhistory-org/whos-who-1858-shih-i-chu|TAH #1858 Who's Who：朱時宜教授]]
+- Career record (堪薩斯大學化學系 1978–、Kansas Center for Advanced Scientific Computing 主任 1996–2006、台大 CQSE 主任 2008–) is fully absorbed from this vault work; see [[organizations/tah-foundation|TAH Foundation]] for the source corpus.
 
 ## Sources
 - [TAH #1858 encyclopedia: 1858. Prof. Shih-I Chu 朱時宜教授](https://taiwaneseamericanhistory.org/whos-who-1858-shih-i-chu/)
