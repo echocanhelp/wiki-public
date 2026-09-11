@@ -46,6 +46,9 @@ _No filled family fields on the TAH profile._
 - [TAH #435 encyclopedia: 435. Pauline Huey-Fen Hsu 徐彗芬, Soprano /06/2019](https://taiwaneseamericanhistory.org/435-soprano-pauline-huey-fen-hsu-%e5%be%90%e5%bd%97%e8%8a%ac-06-2019/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/pauline-huey-fen-hsu/)
 
+## Notes
+- Vocational details (soloist engagements, competition prizes) are fully documented in [[works/taiwaneseamericanhistory-org/435-soprano-pauline-huey-fen-hsu-e5-be-90-e5-bd-97-e8-8a-ac-06-2019||TAH #435]]; no additional vault record found.
+
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[organizations/taiwanese-american-historical-society||TAH 台美史料協會]]
