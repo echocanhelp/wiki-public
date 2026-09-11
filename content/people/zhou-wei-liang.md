@@ -64,3 +64,7 @@ Pages that link to **zhou-wei-liang** (zhou-wei-liang):
 Cross-checked against the cited hub [[sources/2017-tahs-publication||2017 TAHS Publication]], which records the resolved disambiguation: 周威廉 and [[people/zhou-wei-lin||周威霖 (Zhou Weilin)]] are two distinct editors/compilers of 台美菁英錄 — 周威廉 authored 緣起與展望 and the [[people/sam-chang||Sam Chang 張善良]] profile, while 周威霖 (TAHS 秘書長) authored the [[people/hsu-hsin-hung||徐新宏]], [[people/wang-gui-rong||王桂榮]], and [[people/wang-neng-xiang||王能祥]] profiles.
 
 Editorial-team colleagues on the publication's editor list who have vault pages: [[people/stella-chen||陳婉真 (Stella Chen)]], [[people/zheng-bing-quan||鄭炳全 (Zheng Bingquan)]], [[people/freeman-huang||黃樹人]], [[people/liao-qingshan||廖清山]].
+
+## Deepen — 2026-09-11 (vault-only re-check)
+
+All disambiguation and editorial-team links re-verified against live vault slugs (zhou-wei-lin, sam-chang, zheng-bing-quan, stella-chen, freeman-huang, liao-qingshan, hsu-hsin-hung, wang-gui-rong, wang-neng-xiang, 2017-TAHS hub): all exist. No new vault facts.

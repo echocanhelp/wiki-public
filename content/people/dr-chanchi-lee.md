@@ -57,3 +57,7 @@ Accomplishment
 
 ## Deepen pass 2026-09-10 (vault-only)
 Both cited encyclopedia records (#154, Who's Who #1335) exist in the vault and are now wikilinked above. No new external facts absorbed — page's own TAH tables (Taipei Medical Univ. M.D.; Temple/Hahnemann/Bucks County urology posts; FAPA PA, HAPA-NA 2009–2012, Greater Philadelphia Hakka association presidencies; family: Lynn Chen, daughter Melanie 李玫蘭) already reflect source content.
+
+## Deepen — 2026-09-11 (vault-only)
+
+FAPA chapter presidency now wikilinked to the vault's existing FAPA page ([[organizations/fapa-los-angeles|FAPA]]; no PA-chapter page exists, nearest existing FAPA page linked). All prior links (#154, #1335, HAPA-NA) re-verified present.
