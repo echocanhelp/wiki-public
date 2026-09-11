@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-10
+last_reviewed: 2026-09-11
 ---
 # Prof. Bay-Mao Bill Wu (吳倍茂教授)
 
@@ -60,6 +60,11 @@ _No filled family fields on the TAH profile._
 - He appears as the 1994 總協調人 (TAA DC-area) in the chapter history [[works/taiwaneseamericanhistory-org/ourjourneys-138|TAH #138: 華府與巴城TAA的誕生 / 陳淮崇]]
 - His 2013 presidency matches [[organizations/taiwanese-american-science-and-technology-association-tasta||TASTA 華府台灣產業科技協會]] (founded 2002, Greater D.C.)
 - His TAA DC-area presidency ties to [[organizations/taiwanese-association-of-america-greater-washington||TAA Greater Washington]] via parent body [[organizations/taiwanese-association-of-america||TAA]]
+
+## Vault cross-references (deepen pass 2026-09-11, vault-only)
+- In-vault NATPA activity records (org-level; his 2020–2021 presidency is not named in them): [[works/taiwaneseamericanhistory-org/natpa-forum-by-north-america-taiwanese-professors-association-natpa|NATPA forum record]], [[works/taiwaneseamericanhistory-org/banner-of-natpa|NATPA banner of solidarity]], [[works/taiwaneseamericanhistory-org/natpa-professor-liao-shutsung-research-award|NATPA Liao Shutsung Research Award]]
+- Pharmacy-profession network page in vault: [[organizations/taiwanese-american-association-of-pharmaceutics|Taiwanese American Association of Pharmaceutics]] (same profession; membership not stated in the TAH profile)
+- NATPA chapter records also held in-vault: [[works/taiwaneseamericanhistory-org/natpa-michigan-chapter|NATPA Michigan chapter]], [[works/taiwaneseamericanhistory-org/natpa-new-england-chapter|NATPA New England chapter]]
 
 ## Sources
 - [TAH #1760 encyclopedia: 1760. Prof. Bay-Mao (Bill) Wu 吳倍茂教授](https://taiwaneseamericanhistory.org/whos-who-1760-bay-mao-wu/)
