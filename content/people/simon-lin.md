@@ -23,6 +23,14 @@ last_reviewed: 2026-09-10
 The archived board source (`taiwancenter-org-board.md`, mirrored under [[sources/taiwancenter-org||taiwancenter.org]]) is the sole vault source for this role; board colleagues documented in the same source set include [[people/alan-thian||Alan Thian (田詒鴻)]], [[people/ken-wu||Ken Wu (吳兆峯)]] and [[people/linda-liu||Linda Liu (劉玲華)]]. No further biography is published in the vault source set.
 
 
+## Public record (vault-sourced, deepen pass 2026-09-10)
+
+Additional roles for this person are already recorded elsewhere in the vault (Taiwanjustice.net tier2 archive):
+
+- **2016 — elected 董事長 of 大洛杉磯台灣會館**: 「台灣會館第十屆董事會選出新任董事長林榮松」 (2016-06-12): [[articles/taiwanjustice-net/2022/20221202064912_tag_大洛杉磯台灣會館_page_14_48e9bb158d2a9b98||taiwanjustice.net tag page]]. A 2017-08-26 會館會訊 invitation is likewise signed 「台灣會館董事長林榮松」: [[articles/taiwanjustice-net/2020/20200625110644_category_taiwancenter_newsletter_page_2_dad11b620b8d9268||TWCLA newsletter archive page]].
+- **2020-11-19 — 南加州林榮松僑務諮詢委員獲聘行政院政務顧問** (Overseas Affairs Advisory Committee member, S. California, appointed Executive Yuan political advisor): [[articles/taiwanjustice-net/2020/20201126144045_2020_11_19_南加州林榮松僑務諮詢委員獲聘行政院政務顧問_06510e79e7a07f48||taiwanjustice.net article]].
+- **2025-02-22 — led the roll-call of 228 victims** (林茂生、湯德章、施江南) at the 台灣會館 228追思紀念大會 (24 groups; TAHS 會長 楊嘉猷 present): noted on [[people/hsu-ling-yun||Hsu Ling-yun]] with the source article.
+
 ## Network
 
 Pages that link to **simon-lin** (simon-lin):

@@ -56,4 +56,5 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[works/taiwaneseamericanhistory-org/concerts111||TAH concert record mentioning 黃文亭]]
+- [[works/taiwaneseamericanhistory-org/268-valentina-wen-ting-huang-pianist-201508||TAH Encyclopedia #268: Valentina Wen-Ting Huang 黃文亭, Pianist (2015-08)]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

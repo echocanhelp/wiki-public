@@ -45,6 +45,11 @@ Prof. C.-T. (James) Huang 黃正德教授 – History of Taiwanese American (T.A
 
 _No filled family fields on the TAH profile._
 
+## Vault cross-references (deepen pass 2026-09-10)
+
+- Full TAH encyclopedia entry mirrored in the vault: [[works/taiwaneseamericanhistory-org/whos-who-2019-c-t-huang||TAH #2019: Prof. C.-T. (James) Huang 黃正德教授]].
+- Possible spouse lead only: [[people/grace-yang||Grace Yang (楊蕙安)]] lists "Husband: James Huang" (Chicago lawyer). Name-only match against this linguist's profile — **not merged**, no confirmation in the vault source set.
+
 ## Sources
 - [TAH #2019 encyclopedia: 2019. Prof. C.-T. (James) Huang  黃正德教授](https://taiwaneseamericanhistory.org/whos-who-2019-c-t-huang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-c-t-james-huang/)

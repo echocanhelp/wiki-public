@@ -35,4 +35,11 @@ _Facts absorbed from this page's own description; no new sources._
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[organizations/taiwan-center||Taiwan Center]]
 - [[works/taiwaneseamericanhistory-org/taiwanese-american-heritage-week-of-westchester-county||TA Heritage Week of Westchester County]]
+- [[works/taiwaneseamericanhistory-org/108-westchester-taiwanese-woman-association-the-first-and-longest-taiwanese-amer||TAH Encyclopedia #108: WTWA — first and longest Taiwanese-American women's association]]
+- [[works/taiwaneseamericanhistory-org/westchester-taiwanese-womens-association-ef-bc-88wtwa-ef-bc-89||TAH directory record: WTWA (威郡台灣婦女會)]]
+- [[works/taiwaneseamericanhistory-org/24-passport-to-taiwan||Passport to Taiwan]]
+- [[works/taiwaneseamericanhistory-org/westchester-ny||Westchester, NY]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+## Deepen pass 2026-09-10 (vault-only)
+The association's own TAH encyclopedia record (#108) and directory record exist in the vault and are now wikilinked above, along with the Passport to Taiwan event record and Westchester, NY geography page its history references. History section already absorbs the directory description in full (founded fall 1974; monthly Sep–Jun gatherings; Scarsdale Woman's Club exchanges; Heritage Week / Passport to Taiwan / Komen Team Taiwan participation; 1999 25th-anniversary charity piano concert for the Taiwan Center Steinway and Music Conservatory of Westchester scholarship).
