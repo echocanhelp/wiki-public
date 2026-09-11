@@ -62,5 +62,7 @@ This page is an **A-tier thin record** for graph linking and member-priority sco
 
 ## Revision History
 
+- **2026-09-11** — deepen re-check: page already carries the full vault-absorbed content (2025 org-chart role + 2023 interviewer credit); all linked slugs ([[people/rosalyne-formosa-shieh]], [[people/ching-sze-hsieh]], [[people/freeman-huang]], [[sources/2023-tahs-publication]], [[works/taiwaneseamericanhistory-org/108-e8-a7-a3-e6-b0-b8-e5-8d-9a-e5-a3-ab-dr-ching-sze-hsieh]]) verified to exist. No new facts available in-vault; no web consulted.
+
 - **2026-08-25** — P8 densify from Tier2: added 2023 oral-history interview credit for 謝泊欣 (with 黃樹人 / Freeman Huang) from 《台名人菁英錄》第二輯 p.108. No invented biography.
 - **2026-08-02** — L1 thin record from 2025 TAHS org chart.

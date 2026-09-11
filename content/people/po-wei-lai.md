@@ -67,3 +67,4 @@ _No filled family fields on the TAH profile._
 ## Vault records (deepen pass 2026-09-10)
 - The only vault records about him are his own TAH encyclopedia works — [[works/taiwaneseamericanhistory-org/293-po-wei-lai-e8-b3-b4-e4-bc-af-e7-91-8b-violinconductor-201509|TAH #293]] and [[works/taiwaneseamericanhistory-org/631-po-wei-lai-e8-b3-b4-e4-bc-af-e7-91-8b-201509|TAH #631]] (both 2015-09-27, band B) — listed via the [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]] source hub.
 - Vault-wide check (Po-Wei / 賴伯瑋 / Gwung-Fu / Double-Ten / BAYMS) found no other mentioning page, so the bio above already reflects everything held in the vault; no web consulted.
+- **2026-09-11 re-check:** no new vault records mentioning him; no vault pages exist for BAYMS, Gwung-Fu Orchestra, Double-Ten Orchestra, Peabody Conservatory, or the Niagara festival, so no additional wikilinks were possible under the deepen protocol.

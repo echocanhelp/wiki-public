@@ -52,6 +52,7 @@ Accomplishment
 - TAHS memoirs place him in the family network: [[works/taiwaneseamericanhistory-org/our-journeys-350|Our Journeys #350]] records him as the son of painter [[people/liao-ji-chun|廖繼春]].
 - [[works/taiwaneseamericanhistory-org/ourjourneys318|Our Journeys #318]] records him as a speaker (with 黃彰輝, 陳南天) at the first 美南台灣人夏令會, Sam Houston State University — an early community-organizing role alongside his NATPA founding.
 - Duplicate encyclopedia entries in-vault: [[works/taiwaneseamericanhistory-org/9-prof-shutsung-liao|#9]], [[works/taiwaneseamericanhistory-org/100-prof-shutsung-liao|#100]], [[works/taiwaneseamericanhistory-org/whos-who-174-shutsung-liao|#174]].
+- NATPA institutional holdings he founded the association for are in-vault as works: [[works/taiwaneseamericanhistory-org/2-natpa-record-ta-history|NATPA Record (TA history)]] and [[works/taiwaneseamericanhistory-org/2-t-shirt-of-natpa-20th-anniversary|NATPA 20th-anniversary T-shirt]]; his own honor is documented by both the earlier [[works/taiwaneseamericanhistory-org/natpa-professor-liao-shutsung-research-award|NATPA Professor Liao Shutsung Research Award]] and the later [[works/taiwaneseamericanhistory-org/12-natpa-professor-liao-shutsung-memorial-award|Professor Liao Shutsung Memorial Award]]. (Re-check 2026-09-11; no new pages created.)
 
 ## Family
 
