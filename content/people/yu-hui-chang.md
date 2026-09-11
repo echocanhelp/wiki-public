@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-10
+last_reviewed: 2026-09-11
 ---
 # Yu-Hui Chang (張玉慧)
 
@@ -65,3 +65,4 @@ The two TAH encyclopedia entries cited above are held in the vault as bibliograp
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - [[works/taiwaneseamericanhistory-org/301-yu-hui-chang-e5-bc-b5-e7-8e-89-e6-85-a7-composer-201510||TAH #301: Yu-Hui Chang, Composer]]
 - [[works/taiwaneseamericanhistory-org/652-yu-hui-chang-e5-bc-b5-e7-8e-89-e6-85-a7-201510||TAH #652: Yu-Hui Chang]]
+- [[sources/taiwaneseamericanhistory-org-story-corpus||TAH story corpus]]

@@ -8,7 +8,7 @@ tags:
   - tahs-publication-2017
   - modern-art
 verification_status: pending
-last_reviewed: 2026-09-10
+last_reviewed: 2026-09-11
 ---
 # Liao Jichun (廖繼春)
 
@@ -73,3 +73,5 @@ Pages that link to **liao-ji-chun** (liao-ji-chun):
 - [[people/lin-qiong-xian||林瓊仙 (Lin Qiong-xian) — wife]]
 - [[people/guo-shu-qing||Guo Shu-qing — linked page]]
 - [[sources/2017-tahs-publication||2017 TAHS Publication]]
+- [[organizations/taiwanese-american-historical-society||TAHS]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
