@@ -69,4 +69,4 @@ From his own TAH employment table and encyclopedia entries (#149, #128, #21):
 - [[organizations/taiwanese-heritage-society-of-houston||Taiwanese Heritage Society of Houston]]
 - [[works/taiwaneseamericanhistory-org/149-dr-ya-yen-lee||TAH #149 encyclopedia profile]]
 - [[works/taiwaneseamericanhistory-org/128-dr-ya-yan-lee-e6-9d-8e-e9-9b-85-e5-bd-a5-e9-86-ab-e5-b8-ab-founder-of-taiwan||TAH #128 — Founder of Taiwan Center/Houston]]
-- [[works/taiwaneseamericanhistory-org/whos-who-21-ya-yen-lee||TAH #21 Who                            Who profile]]
+- [[works/taiwaneseamericanhistory-org/whos-who-21-ya-yen-lee||TAH #21 Who's Who profile]]
