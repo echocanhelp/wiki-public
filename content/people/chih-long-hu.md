@@ -54,6 +54,7 @@ _No filled family fields on the TAH profile._
 
 ## Related Pages
 - [[organizations/taiwanese-association-of-america-east-tennessee||Taiwanese Association of America East Tennessee (東田納西)]] — regional TA community context for his current post in East Tennessee
+- [[organizations/tennessee-taiwanese-association||Tennessee Taiwanese Association (田納西州大納許維爾台灣同鄉會)]] — statewide TA community in the same state as his ETSU post (added DEEPEN-X 09112100-3; no biography added)
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 

@@ -63,3 +63,4 @@ last_reviewed: 2026-09-11
 - [[works/taiwaneseamericanhistory-org/ota-251||TAH #251 encyclopedia — Dr. Fu-Tong Hsu 徐福棟博士]]
 - [[works/taiwaneseamericanhistory-org/ff224||TAH #224 — first president of TAA/NY, 1964]]
 - [[works/taiwaneseamericanhistory-org/whos-who-192-fu-tong-hsu||TAH #192 Who's Who entry — Dr. Fu-Tong Hsu]]
+- [[works/taiwaneseamericanhistory-org/taiwanese-american-conference-2005||Taiwanese American Conference 2005 record]] — the TAC movement's later conference history held in the vault, context for the East Coast board he organized/founded (added DEEPEN-X 09112100-3; no new biography)
