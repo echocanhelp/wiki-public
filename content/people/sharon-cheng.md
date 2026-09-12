@@ -58,3 +58,6 @@ _No filled family fields on the TAH profile._
 ## Connected in the Vault
 
 - **Vault records:** [[works/taiwaneseamericanhistory-org/musician349||TAH #349 encyclopedia record (soprano)]] and [[works/taiwaneseamericanhistory-org/whoswho1176||TAH #1176 encyclopedia record]] in the [[sources/taiwaneseamericanhistory-org-story-corpus||TAH story corpus]] — both mirror the biography and education/employment tables already absorbed above.
+
+## Vault re-check 2026-09-11 (deepen-x slice 11, vault-only)
+All wikilink targets on this page verified to exist in the vault (incl. [[organizations/taiwanese-american-student-association-at-penn-state||TAASA Penn State]] and [[organizations/taiwanese-student-association-at-syracuse-university||TSA Syracuse]] from her education timeline); all cited-source facts were already absorbed in the prior deepen pass. No new vault facts found, no web used, no new pages created, nothing published.
