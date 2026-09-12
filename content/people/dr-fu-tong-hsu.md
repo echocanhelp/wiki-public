@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-12
 ---
 # Dr. Fu-Tong Hsu (徐福棟博士)
 
@@ -64,3 +64,4 @@ last_reviewed: 2026-09-11
 - [[works/taiwaneseamericanhistory-org/ff224||TAH #224 — first president of TAA/NY, 1964]]
 - [[works/taiwaneseamericanhistory-org/whos-who-192-fu-tong-hsu||TAH #192 Who's Who entry — Dr. Fu-Tong Hsu]]
 - [[works/taiwaneseamericanhistory-org/taiwanese-american-conference-2005||Taiwanese American Conference 2005 record]] — the TAC movement's later conference history held in the vault, context for the East Coast board he organized/founded (added DEEPEN-X 09112100-3; no new biography)
+- 2026-09-12 deepen pass: publication dates confirmed from the vault work pages behind his encyclopedia entries — #251 published 2019-02-15, #224 published 2016-02-10 (documenting the 1964 TAA/NY founding generation), #192 published 2015-01-06 — all held in the [[sources/taiwaneseamericanhistory-org-story-corpus||TAH story corpus]]. Wife [[people/yunn-mei-lin||林詠梅]]'s page independently lists him as 徐福棟 (spousal cross-confirmation). The Oklahoma-membership note remains inference only; no vault fact states it.

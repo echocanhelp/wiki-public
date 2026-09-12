@@ -74,4 +74,6 @@ Pages that link to **liao-ji-chun** (liao-ji-chun):
 - [[people/guo-shu-qing||Guo Shu-qing — linked page]]
 - [[sources/2017-tahs-publication||2017 TAHS Publication]]
 - [[organizations/taiwanese-american-historical-society||TAHS]]
+- [[organizations/joint-alumni-association-of-taiwan-teachers-college-and-normal-univers||JTTAA 台灣師院校友聯合會]] — the 師範-school alumni network his 台中師範 teaching career belongs to
+- [[works/taiwaneseamericanhistory-org/100-prof-shutsung-liao||TAH Encyclopedia #100: Prof. Shutsung Liao (son)]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

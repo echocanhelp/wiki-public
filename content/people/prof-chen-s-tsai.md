@@ -58,6 +58,13 @@ last_reviewed: 2026-09-11
 
 - The vault also holds his personal-paper collection page [[works/taiwaneseamericanhistory-org/collection-of-prof-chen-s-tsai||Collection of Prof. Chen S. Tsai]] alongside the three encyclopedia entries (#27, #15, #368) already linked above.
 
+## Vault cross-references (DEEPEN-X09112100-5, 2026-09-11)
+
+- His three encyclopedia entries (#27, #15 Pride, #368 Who's Who) are catalogued in the [[sources/taiwaneseamericanhistory-org-story-corpus||TAH story corpus]] as bibliographic records; the full text stays in the vault.
+- Campus/community context already in the vault at his UCI post: [[organizations/taiwan-national-organization-at-uci||Taiwan National Organization at UCI]], alongside the TSA/TGSA/TAO pages noted in the 2026-09-11 pass above.
+- Family cross-link confirmed: daughter/son fields match the spouse page [[people/prof-shirley-cheng-tsai||Prof. Shirley Cheng Tsai (鄭秀蘭)]].
+- No new biography invented; no additional vault-sourced facts remained after this pass.
+
 ## Sources
 - [TAH #27 encyclopedia: 27. Prof. Chen S. Tsai 蔡振水教授](https://taiwaneseamericanhistory.org/27-prof-chen-s-tsai/)
 - [TAH #15 encyclopedia: 15. Prof. Chen S. Tsai 蔡振水教授](https://taiwaneseamericanhistory.org/pride-chen-s-tsai/)

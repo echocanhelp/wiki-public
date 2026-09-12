@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-12
 ---
 # Chih-Long Hu (胡志龍)
 
@@ -62,3 +62,4 @@ _No filled family fields on the TAH profile._
 - [[people/ke-chia-chen||Ke-Chia Chen]] — reciprocal link: Ke-Chia Chen's page credits Chih-Long Hu as the performer of his piano solo "To An Isolated Island" on *Formosa: 24 Caprices for solo piano*.
 - Re-review 2026-09-11: TAH #444/#210 absorb, ETSU post, and reciprocal Ke-Chia Chen link already complete; TAA East Tennessee link verified against existing slug; no new vault-only facts.
 - [[works/taiwaneseamericanhistory-org/15109||444. Chih-Long Hu 胡志龍 / 2015/06]] and [[works/taiwaneseamericanhistory-org/210-hsin-yun-huang-e9-bb-84-e5-bf-83-e8-8a-b8-viola-201506||210. Chih-Long Hu 胡志龍, Pianist / 2015/06]] — the two encyclopedia entries behind this page.
+- 2026-09-12 deepen pass: both cited encyclopedia work pages (#444, #210) record publication date 2015-06-14 and are held in the [[sources/taiwaneseamericanhistory-org-story-corpus||TAH story corpus]]; reciprocal Ke-Chia Chen link and ETSU/TAA East Tennessee links re-verified against existing slugs. No further vault-only biographical facts available.

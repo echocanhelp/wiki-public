@@ -4,7 +4,7 @@ type: person
 tags:
   - 
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-12
 ---
 # Elder Deng Shuzhen (鄧淑貞長老)
 
@@ -88,3 +88,4 @@ Use Echopedia Community Contributions Hub and include:
 ## Cross-Reference Status (2026-09-10 sweep)
 No other Tier1 person, organization, or work page in the vault currently names 鄧淑貞長老; the individual GSTPC bulletins cited above are not yet ingested as work pages. Further wikilinks therefore depend on bulletin ingestion, not on biography inference, so no new claims were added in this pass. Re-confirmed 2026-09-11: bulletin work pages still absent, GSTPC org + source wikilinks remain the only valid existing targets.
 - DEEPEN-X 09112100-3 pass: added the work-layer record [[works/taiwaneseamericanhistory-org/good-shepherd-taiwanese-presbyterian-church||GSTPC in the TAH story corpus]] as one further existing vault target; individual dated bulletin work pages remain absent, so no biographical claims were added.
+- 2026-09-12 pass: the only other GSTPC person pages in the vault are [[people/hu-gstpc||Brother Hu (GSTPC)]], [[people/ku-gstpc||Brother Ku (GSTPC)]] and [[people/wang-gstpc||Brother Wang (GSTPC)]] — congregant records of the same congregation, listed as congregation context only since none names 鄧淑貞長老. The wikification-queue and fiduciary-ledger references above still have no vault pages; new wikilinks remain gated on bulletin ingestion.

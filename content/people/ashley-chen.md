@@ -59,6 +59,11 @@ Absorbed from vault pages already cited (no new sources):
 
 _No filled family fields on the TAH profile._
 
+## Vault cross-references (DEEPEN-X09112100-5, 2026-09-11)
+
+- Alumni-community context: the vault holds [[works/taiwaneseamericanhistory-org/ntuaaany||National Taiwan University of Arts Alumni Association, New York (Ntuaaany) 國立台灣藝術大學美東校友會]] — the New York alumni body of her alma mater (國立臺灣藝術大學), relevant since she now teaches at 龍星音樂中心 in New York. No new biographical claims beyond this affiliation.
+- Her encyclopedia entry [[works/taiwaneseamericanhistory-org/431-violinist-ashley-chen||TAH #431]] remains her only vault-sourced document; all biography facts on this page were already absorbed from it in the 2026-09-10 pass.
+
 ## Sources
 - [TAH #431 encyclopedia: 431.  Ashley Chen ( 陳祐萱),Violinist](https://taiwaneseamericanhistory.org/431-violinist-ashley-chen/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/ashley-chen/)
