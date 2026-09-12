@@ -62,3 +62,6 @@ _No filled family fields on the TAH profile._
 ## Connected in the Vault
 
 - **Vault records:** [[works/taiwaneseamericanhistory-org/194-te-chiang-bacco-liu-e5-8a-89-e5-be-b7-e5-bc-b7-violinist-201505||TAH #194 encyclopedia record (violinist)]] and [[works/taiwaneseamericanhistory-org/396-te-chiang-bacco-liu-e5-8a-89-e5-be-b7-e5-bc-b7-201505||TAH #396 encyclopedia record]] in the [[sources/taiwaneseamericanhistory-org-story-corpus||TAH story corpus]] — both mirror the biography and education/employment tables already absorbed above.
+
+## Vault re-check 2026-09-11 (deepen-x slice 15, vault-only)
+Every wikilink target on this page verified to exist in the vault; all facts from the cited TAH encyclopedia records (#194, #396) and Who's Who tables were already absorbed in the Career & Training section. No new vault facts found, no web used, no new pages created, nothing published.
