@@ -30,6 +30,8 @@ last_reviewed: 2026-09-11
 - 2024-11-02 — among the 38 Taiwan Center 董事 who co-hosted the 2024 Annual Gala and Fundraising Banquet at Pacific Palms Resort (keynote: Yih-Chuan Wang, Taiwan Brain Trust), alongside chair 田詒鴻 ([[people/alan-thian||Alan Thian]]) and co-directors 陳柏宇 ([[people/paul-chen||Paul Chen]]), 林榮松 ([[people/simon-lin||Simon Lin]]), 蔡漢成 ([[people/roger-tsai||Roger Tsai]]), 劉玲華 ([[people/linda-liu||Linda Liu]])
 - **2026-09-10** — DEEPEN-X11 pass: page carries the full board-roster and 2024 gala context already on-page; namesake jazz-musician records held separate pending evidence.
 - **2026-09-11** — DEEPEN-X09102200-4 pass: re-verified on-page board/gala context; no new vault facts available in cited sources; namesake jazz-musician works held separate.
+- **2026-09-11** — DEEPEN-X09112100-2 pass: re-verified against the archived board page (`knowledge/web-archives/taiwancenter-org-board.md`) — currently listed there as 個人董事. Namesake jazz records remain held separate.
+- **2018-06-17** — the 第11屆 會員大會 會訊 report ([[articles/taiwanjustice-net/2020/20201118162555_2018_06_27_大洛杉磯台灣會館會訊_2018-年六月-_大洛杉磯台灣_79291dad808ef7f7||大洛杉磯台灣會館會訊，2018 年六月]]) names the 20 個人董事 elected that day; 林冠豪 is **not** among them (the 林-surnamed directors listed are 林榮松, 林國彥 and 林正賢). His current 個人董事 seat therefore post-dates the 2018 board renewal — the earliest vault record of his tenure remains the 2024-11-02 gala roster above.
 
 ## Possible-namesake records (identity not established)
 

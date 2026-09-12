@@ -32,7 +32,8 @@ last_reviewed: 2026-09-11
 - **current snapshot** — serving as 副董事長 of [[organizations/taiwan-center||Taiwan Center]]
 
 ## Board record (vault-sourced)
-- **2018** — elected 個人董事 at the 第11屆 會員大會 (會訊 2018-06, TJ archive `20201118162555…`): 20 個人董事, 13 新任 — the largest board turnover in 會館 history
+- **2018-06-17** — elected 個人董事 at the 第11屆 會員大會 (會訊 2018-06, TJ archive `20201118162555…` [[articles/taiwanjustice-net/2020/20201118162555_2018_06_27_大洛杉磯台灣會館會訊_2018-年六月-_大洛杉磯台灣_79291dad808ef7f7||會館會訊 2018-06 report]]): 20 個人董事 elected, of whom **7 were newly recruited**; the full 第11屆 board (30 directors incl. 10 團體董事, 13 新任) was the largest turnover in 會館 history. The same day the first 董事會 unanimously elected 田詒鴻 董事長 with 陳柏宇 第一副董, 蔡漢成 第二副董, 賴淑遠 第三副董, 劉玲華 第四副董 — 陳芃佑 entered as a rank-and-file 個人董事 and was not on that 副董 slate; her current 副董事長 title reflects a later term (archived board snapshot).
+- **2026-09-11** — DEEPEN-X09112100-2 pass: absorbed the exact election date, the 7-of-20 new-director count, and the 2018 officer slate from the on-page cited 會訊 article; earlier "20 個人董事, 13 新任" phrasing conflated the 個人董事 count with the whole-board count and is corrected above.
 - **Current site snapshot** — **副董事長** on the archived taiwancenter.org/board page (one of five 副董事長 alongside 蔡漢成, 劉玲華, 賴淑遠, 李賢群)
 
 - **2024-11** — named among the **38位董事** in the 第26周年年會晚宴 announcement (TJ archive `20250420093345…`)
