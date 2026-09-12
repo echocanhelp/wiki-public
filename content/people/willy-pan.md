@@ -89,7 +89,7 @@ From the same 2024-10-04 台灣公義網 announcement listing the 38位董事, t
 - [[people/shawn-yeh||葉上毅 (Shawn Yeh)]]
 
 ## Related Pages
-- Fellow 會館 figures whose own vault pages record the same 2024 director roster: [[people/alan-thian||Alan Thian (吳添賢)]] · [[people/linda-liu||Linda Liu]]
+- Fellow 會館 figures whose own vault pages record the same 2024 director roster: [[people/alan-thian||Alan Thian (田詒鴻)]] · [[people/linda-liu||Linda Liu (劉玲華)]]
 - [[organizations/taiwan-center||大洛杉磯台灣會館 / Taiwan Center]]
 - [[sources/taiwanjustice-net||taiwanjustice.net]]
 - [[people/jolie-chenn||Jolie Chenn (陳芃佑) — 副董事長, same 會館 board]]
