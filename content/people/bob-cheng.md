@@ -58,8 +58,4 @@ Dr. Bob Cheng (鄭寶鼎博士) was a Taiwanese American chemist, entrepreneur, 
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 ## Vault re-check 2026-09-11 (deepen-x slice 17, vault-only)
-All wikilink targets verified to exist in the vault; all cited-source facts (NTU/Syracuse, Colgate-Palmolive, FEMA Electronics, TAA-NJ, TAH Archives, memorials #749/#300, portraits #35/#34) already absorbed. No web, no new pages, not published.
-
-
-## Vault re-check 2026-09-11 (deepen-x slice 17, vault-only)
-All wikilink targets on this page verified to exist in the vault; all cited-source facts were already absorbed on-page. No new vault facts found, no web used, no new pages created, nothing published.
+All wikilink targets verified to exist in the vault; all cited-source facts (NTU/Syracuse, Colgate-Palmolive, FEMA Electronics, TAA-NJ, TAH Archives, memorials #749/#300, portraits #35/#34) already absorbed. No web used, no new pages created, nothing published.
