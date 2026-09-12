@@ -67,3 +67,6 @@ Prof. Trong-Rong Tsai 蔡同榮教授 – History of Taiwanese American (T.A. Ar
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - [[works/taiwaneseamericanhistory-org/173-prof-tron-rong-tsai||TAH #173 encyclopedia: Prof. Tron-Rong Tsai 蔡同榮教授]]
 - [[works/taiwaneseamericanhistory-org/whos-who-30-trong-rong-tsai||TAH Who's Who #30: Prof. Trong-Rong Tsai 蔡同榮教授]]
+- [[works/taiwaneseamericanhistory-org/18-prof-tron-rong-tsai||TAH #18 encyclopedia: Prof. Tron-Rong Tsai 蔡同榮教授]]
+- [[works/taiwaneseamericanhistory-org/7-prof-tron-rong-tsai-e8-94-a1-e5-90-8c-e6-a6-ae-e6-95-99-e6-8e-88-famous-runner||TAH #7: Prof. Tron-Rong Tsai 蔡同榮教授 — Famous runner of Taiwanese Americans]]
+- [[organizations/taiwanese-american-historical-society||TAHS（台美人歷史協會）]]

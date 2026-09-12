@@ -51,6 +51,7 @@ Structured from the TAH Who's Who biography and tables already mirrored on this 
 - Guest artist, Taipei Philharmonic Foundation National Concert Hall concert
 - Speaker, Nevada State Senate Committee — Taiwan's WHO application and Taiwan/US Free Trade Agreement
 - Fundraising concert performer, San Diego Taiwan Center (raised US $100,000)
+- University of Nevada–Reno campus 服務三十年貢獻獎 (30-year service contribution award), 2016-10 — see [[works/taiwaneseamericanhistory-org/7-university-of-nevada-reno-campus-helene-lee|TAH #7: UNR campus服務三十年貢獻獎 / Helene Lee 李雪玟 (10/2016)]]
 
 Education (per TAH encyclopedia tables): B.A. Music, Chinese Culture University; M.A. Music, Brigham Young University. Family (per TAH profile): husband 李明義; daughter Eileen Lee 世芳; son Felix Lee 世揚.
 
@@ -65,3 +66,4 @@ Education (per TAH encyclopedia tables): B.A. Music, Chinese Culture University;
 - [[works/taiwaneseamericanhistory-org/16-prof-helen-lee||TAH encyclopedia #16: Prof. Helen Lee 李雪玟教授]]
 - [[works/taiwaneseamericanhistory-org/whos-who1313-helen-lee||TAH encyclopedia #1313: Prof. Helen Lee 李雪玟教授]]
 - [[works/taiwaneseamericanhistory-org/collection-of-prof-helen-lee||TAH collection: Prof. Helen Lee 李雪玟]]
+- [[works/taiwaneseamericanhistory-org/7-university-of-nevada-reno-campus-helene-lee||TAH #7: University of Nevada–Reno campus服務三十年貢獻獎 / Helene Lee 李雪玟 (10/2016)]]

@@ -64,3 +64,7 @@ Absorbed from her TAH records (#1759, #416) already in the vault:
 - [[works/taiwaneseamericanhistory-org/whos-who-1759-chia-yi-tseng||TAH #1759: Prof. Chia-Yi Tseng 曾加宜教授]]
 - [[works/taiwaneseamericanhistory-org/musician416||TAH #416: Chia-Yi Tseng 曾加宜, Cellist (07/2017)]]
 - [[organizations/taiwanese-american-historical-society||TAHS]]
+
+## Deepen check 2026-09-11
+
+本輪（slice 09112100-7）複核：職業與教學經歷已自 vault 內 [[works/taiwaneseamericanhistory-org/whos-who-1759-chia-yi-tseng|TAH #1759]] 及 [[works/taiwaneseamericanhistory-org/musician416|TAH #416]] 全量吸收；文中學校/樂團（Paris Ecole normale, Yale, Univ. of Maryland, D.C. Youth Orchestra, GMC Youth Orchestra, 輔仁大學, 國立臺中教育大學, 國立屏東大學）於 vault 皆無專屬頁面，不新建頁、不誤連近似頁。
