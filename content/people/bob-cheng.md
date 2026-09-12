@@ -56,3 +56,7 @@ Dr. Bob Cheng (鄭寶鼎博士) was a Taiwanese American chemist, entrepreneur, 
 - [[people/hsiu-fang-susan-liu||陳秀芳 Hsiu-Fang Susan Liu（畫像 #35）]]
 - [[people/dr-chao-min-liu||劉兆民 Dr. Chao-Min Liu（畫像 #34）]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+
+## Vault re-check 2026-09-11 (deepen-x slice 17, vault-only)
+All wikilink targets on this page verified to exist in the vault; all cited-source facts were already absorbed on-page. No new vault facts found, no web used, no new pages created, nothing published.

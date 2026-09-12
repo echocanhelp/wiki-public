@@ -58,3 +58,4 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- [[people/lynn-huang||Lynn Huang (黃令先)]] — fellow TAH Who's Who Taiwanese-American pianist/composer

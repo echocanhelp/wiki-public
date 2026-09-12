@@ -53,6 +53,8 @@ _No filled family fields on the TAH profile._
 - [[works/taiwaneseamericanhistory-org/488-lynn-huang-e9-bb-83-e4-bb-a4-e5-85-88-201507||TAH Encyclopedia #488: Lynn Huang 黃令先]]
 - [[works/taiwaneseamericanhistory-org/19-lynn-huang-e9-bb-83-e4-bb-a4-e5-85-88-composer-piano||TAH Encyclopedia #19: Lynn Huang 黃令先, Composer, Pianist]]
 - [[people/hsu-ching-chun||Christine Hsu 許景淳]] — singer for whom Huang arranged pop and religious songs
+- [[people/yu-hsuan-liao||Yu-Hsuan Liao (廖又萱)]] — fellow TAH Who's Who Taiwanese-American pianist
+- [[people/shirley-yu||Shirley Yu (張欣珠)]] — Taiwan Center board connection (Huang accompanied at 洛杉磯台灣會館)
 
 ## Vault records (deepen pass 2026-09-10)
 
