@@ -50,6 +50,11 @@ Structured from the TAH profile text and tables above:
 
 _No filled family fields on the TAH profile._
 
+## Vault cross-references (DEEPEN-X09112100-5, 2026-09-11)
+
+- **Boston University context:** the vault holds [[organizations/boston-university-taiwanese-student-association||Boston University Taiwanese Student Association]] and [[organizations/taiwanese-overseas-students-association-at-boston-university||Taiwanese Overseas Students Association at Boston University]] as community context for his BU studies (M.S. 2008, DMA 2014) and 2007 concerto debut with the BU Symphony Orchestra.
+- His two encyclopedia entries [[works/taiwaneseamericanhistory-org/186-wei-chen-lin-e6-9e-97-e5-a8-81-e9-9c-87-percussionist-201503||TAH #186]] and [[works/taiwaneseamericanhistory-org/379-wei-chin-lin-e6-9e-97-e5-a8-81-e9-9c-87-201504||TAH #379]] are catalogued in the [[sources/taiwaneseamericanhistory-org-story-corpus||TAH story corpus]] as bibliographic records; all competition and ensemble facts on this page were absorbed from them — no ensemble org pages (Taipei Percussion, Tanglewood Music Center, Houston Symphony) exist in the vault, so none were linked.
+
 ## Sources
 - [TAH #379 encyclopedia: 379. Wei-Chin Lin 林威震 / 2015/04](https://taiwaneseamericanhistory.org/379-wei-chin-lin-%e6%9e%97%e5%a8%81%e9%9c%87-201504/)
 - [TAH #186 encyclopedia: 186.  Wei-Chen Lin 林威震, Percussionist / 2015/03](https://taiwaneseamericanhistory.org/186-wei-chen-lin-%e6%9e%97%e5%a8%81%e9%9c%87-percussionist-201503/)
