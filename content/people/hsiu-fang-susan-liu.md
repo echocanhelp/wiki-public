@@ -54,6 +54,10 @@ Accomplishment
 - [TAH #83 encyclopedia: 83. Hsiu-Fang (Susan) Liu 陳秀芳](https://taiwaneseamericanhistory.org/whos-who-83-hsiu-fang-liu/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/hsiu-fang-susan-liu/)
 
+## Deepen-X09112100-13 check (2026-09-11)
+
+- All TAH #83 facts remain absorbed (see Deepen-X19 note above). Additional Minnesota-community context link, following the established pattern used for her St. Louis and Chicago years: [[organizations/university-of-minnesota-taiwanese-student-association||University of Minnesota Taiwanese Student Association]] — Taiwanese student community in the Twin Cities during her St. Paul residency (1987–2019). No vault pages exist for CCF, Blue Cross/Blue Shield, St. Paul/Travelers, Tunghai, or Wash U — no links invented.
+
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

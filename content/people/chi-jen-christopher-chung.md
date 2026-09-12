@@ -59,6 +59,10 @@ Facts already present in vault pages (no new sources):
 - The three TAH encyclopedia entries cited above are held in the vault: [[works/taiwaneseamericanhistory-org/ota-241|TAH #241]], [[works/taiwaneseamericanhistory-org/whos-who-353-chi-jen-chung|TAH #353]] and [[works/taiwaneseamericanhistory-org/92-chijen-christopher-chung-e9-8d-be-e5-95-93-e4-bb-81-cellist-and-conductor|TAH #92 — Cellist and Conductor (2014-12)]].
 - His CYCNY posts per the tah-tables above (String Coach 2006–, String Faculty 2007–2013, Conductor 2011–, Music Director and Conductor 2013–) correspond to the org page [[organizations/youth-orchestra-cycny|Youth Orchestra, CYCNY (紐約幼獅青少年管弦樂團)]].
 
+## Deepen-X09112100-13 check (2026-09-11)
+
+- tah-tables facts fully reflected in the Career section (Purchase College SUNY BM/MM, NTNU certificate, Taipei Symphony 1991–1993, CYCNY posts). No vault pages exist for his teachers, employers (Melody Music School, Song of Songs Group, Amadeus Conservatory), or family members (鍾克紀, 顏惠美, Robert Delsite) — no wikilinks added rather than inventing pages; the only valid existing target, [[organizations/youth-orchestra-cycny||CYCNY]], is already linked. All cited source records (#241, #353, #92) verified present in the vault.
+
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

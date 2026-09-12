@@ -64,6 +64,10 @@ Her TAH encyclopedia entries are archived in the vault:
 - Her composition teacher **Loong-Hsing Wen (溫隆信)**, named in her TAH biography alongside William Albright, William Bolcom, and Bright Sheng, has a vault page: [[people/david-loong-hsing-wen||David Loong-Hsing Wen (溫隆信)]].
 - Her 2009–2011 residency ensemble **Chai Found Music Workshop** appears in the vault: [[works/taiwaneseamerican-org/chai-found-music-workshop-in-wilmington-de||Chai Found Music Workshop in Wilmington, DE]]
 
+## Deepen-X09112100-13 check (2026-09-11)
+
+- On-page TAH facts (Soochow B.M., Ohio U. double M.M., Michigan Ph.D., Brandenburg prize, 2009 Golden Melody nomination for *Elegance*, Chai Found residency, Seoul professorships) already fully absorbed; records #107/#186 verified in vault. Context link for her doctoral years in Ann Arbor: [[organizations/taiwan-student-association-at-the-university-of-michigan||Taiwan Student Association at the University of Michigan]] — Taiwanese student community where she studied for her Ph.D. (no vault page exists for Ohio University, distinct from the Ohio State TSA page, so no link there).
+
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
