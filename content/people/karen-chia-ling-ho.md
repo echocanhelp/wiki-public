@@ -64,6 +64,7 @@ _No filled family fields on the TAH profile._
 
 - 文中所稱 **伊士曼音樂學院**、**辛辛那提大學音樂學院**、**舊金山歌劇院 Merola Program**、**聖彼德堡歌劇公司**、**華新兒童合唱團**、**福爾摩沙合唱團**、**中廣兒童合唱團**、**士林長老教會兒童音樂劇團**、**羅徹斯特愛鄉合唱團（TCSR）** 等單位，vault 內皆無專屬頁面，不建連結以免新建頁或誤連近似組織頁。
 - TAH #251 條目（`taiwaneseamericanhistory.org/musician/`）已確認對應 vault 頁：[[works/taiwaneseamericanhistory-org/musician||TAH #251：251. Jia-Ling He 何佳陵, Soprano Soloist / 2015/07]] — 與 [[works/taiwaneseamericanhistory-org/whoswho511||TAH #511]] 同為本人原始條目。
+- **現職單位** — 紐約福爾摩沙合唱團（New York Formosa Chorus）：vault 已有對應條目 [[works/taiwaneseamericanhistory-org/14-new-york-formosa-chorus||TAH #14：New York Formosa Chorus 紐約福爾摩沙合唱團]]；本頁所載「現任聲樂指導」即該團。（童年所屬之台北「福爾摩沙合唱團」為不同團體，vault 無頁，不誤連。）
 
 ## Deepen check 2026-09-11
 

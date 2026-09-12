@@ -57,6 +57,7 @@ Absorbed from her TAH records (#1759, #416) already in the vault:
 ## Connected in the Vault
 - Archival profiles: [[works/taiwaneseamericanhistory-org/whos-who-1759-chia-yi-tseng|TAH #1759: Prof. Chia-Yi Tseng]] · [[works/taiwaneseamericanhistory-org/musician416|TAH #416: Chia-Yi Tseng 曾加宜, Cellist (07/2017)]]
 - Community hub: [[sources/taiwaneseamericanhistory-org-story-corpus|TAH story corpus hub]]
+- Vault-link note (deepen pass 2026-09-11): 文中所稱 亞洲青少年管弦樂團（Asian Youth Orchestra）、Ecole normale de musique de Paris、Salle Cortot、Rostropovich、輔仁大學、國立臺中教育大學、國立屏東大學、D.C. Youth Orchestra、GMC Youth Orchestra、馬里蘭音樂教師協會 等單位，vault 內皆無專屬頁面（vault 之 [[organizations/youth-orchestra-cycny|Youth Orchestra CYCNY]] 與 [[works/taiwaneseamericanhistory-org/formosa-youth-orchestra|Formosa Youth Orchestra]] 為不同樂團，不誤連），故不建連結、不新增傳記內容。
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

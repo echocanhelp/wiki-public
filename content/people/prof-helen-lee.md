@@ -47,7 +47,7 @@ Structured from the TAH Who's Who biography and tables already mirrored on this 
 - Performed several times at Carnegie Hall and Lincoln Center, New York City
 - Invited by the Suzuki Music Association of Japan to tour Japan; interviewed and performed on Japanese television
 - Exchange professor (short-term), National Taiwan Normal University
-- Award recipient, performer, and conference speaker — North American Taiwanese Professors' Association (NATPA); performer at Formosan Association for Public Affairs (FAPA) 25th Anniversary Conference, Taipei
+- Award recipient, performer, and conference speaker — North American Taiwanese Professors' Association (NATPA; vault entry: [[works/taiwaneseamericanhistory-org/natpa||NATPA 北美的台灣人教授協會]]); performer at Formosan Association for Public Affairs (FAPA) 25th Anniversary Conference, Taipei (FAPA founding record: [[works/taiwaneseamericanhistory-org/formosan-association-for-public-affair-was-established-in-los-angeles-02-1982||FAPA established in Los Angeles, 02/1982]])
 - Guest artist, Taipei Philharmonic Foundation National Concert Hall concert
 - Speaker, Nevada State Senate Committee — Taiwan's WHO application and Taiwan/US Free Trade Agreement
 - Fundraising concert performer, San Diego Taiwan Center (raised US $100,000)
