@@ -1,0 +1,4 @@
+people/kuo-chang-chen.md
+people/agnes-hsu.md
+people/ying-chen-kao.md
+organizations/taiwanese-american-industrial-technology-association-taita-east-coast.md

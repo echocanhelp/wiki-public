@@ -1,0 +1,4 @@
+people/jui-wen-ginger-chen.md
+people/thomas-ming-chien-wu.md
+people/rev-r-h-chang.md
+organizations/overseas-taiwanese-for-democracy.md

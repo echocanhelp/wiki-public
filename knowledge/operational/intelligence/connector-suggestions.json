@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-10T04:45:45.702427",
+  "generated_at": "2026-09-11T04:46:28.952729",
   "pages_scanned": 2885,
   "capped": true,
   "cap_top_n": 80,
   "summary": {
-    "co_citation_count": 1375,
-    "co_mention_count": 6454,
+    "co_citation_count": 1618,
+    "co_mention_count": 6772,
     "shared_tags_count": 0,
     "orphan_folder_count": 2,
     "kept_co_citation": 80,
@@ -25,15 +25,6 @@
       },
       {
         "type": "CO-CITATION",
-        "page1": "organizations/taiwan-center.md",
-        "page2": "people/zhou-wei-lin.md",
-        "shared_target": "organizations/taiwanese-american-association-of-los-angeles-east-san-gabriel-valley",
-        "page1_title": "Taiwan Center Foundation of the Greater Los Angeles (大洛杉磯台灣會館)",
-        "page2_title": "Zhou Weilin (周威霖)",
-        "shared_targets_count": 4
-      },
-      {
-        "type": "CO-CITATION",
         "page1": "people/en-sheng-pan.md",
         "page2": "people/lien-hwa-chow.md",
         "shared_target": "sources/presbyterian-church-in-taiwan",
@@ -48,7 +39,7 @@
         "shared_target": "organizations/tah-foundation",
         "page1_title": "AJ WANG FOUNDATION – SCHOLARSHIP FUND",
         "page2_title": "American Citizens for Taiwan (西雅圖美台會)",
-        "shared_targets_count": 2564
+        "shared_targets_count": 2590
       },
       {
         "type": "CO-CITATION",
@@ -57,7 +48,7 @@
         "shared_target": "organizations/tah-foundation",
         "page1_title": "AJ WANG FOUNDATION – SCHOLARSHIP FUND",
         "page2_title": "American Citizens of Taiwan Origin ACTO (美台公民協會)",
-        "shared_targets_count": 2564
+        "shared_targets_count": 2590
       },
       {
         "type": "CO-CITATION",
@@ -66,7 +57,7 @@
         "shared_target": "organizations/tah-foundation",
         "page1_title": "AJ WANG FOUNDATION – SCHOLARSHIP FUND",
         "page2_title": "Ann Arbor Taiwanese Association (安雅堡)",
-        "shared_targets_count": 2564
+        "shared_targets_count": 2590
       },
       {
         "type": "CO-CITATION",
@@ -102,7 +93,7 @@
         "shared_target": "people/john-lai",
         "page1_title": "Boston Taiwanese Christian Church (波士頓台灣基督教會)",
         "page2_title": "Elder John Lai's Archives (賴永祥長老史料庫)",
-        "shared_targets_count": 9
+        "shared_targets_count": 11
       },
       {
         "type": "CO-CITATION",
@@ -111,7 +102,7 @@
         "shared_target": "people/john-lai",
         "page1_title": "Boston Taiwanese Christian Church (波士頓台灣基督教會)",
         "page2_title": "Presbyterian Church in Taiwan (PCT)",
-        "shared_targets_count": 9
+        "shared_targets_count": 11
       },
       {
         "type": "CO-CITATION",
@@ -120,7 +111,7 @@
         "shared_target": "people/john-lai",
         "page1_title": "Boston Taiwanese Christian Church (波士頓台灣基督教會)",
         "page2_title": "James Laidlaw Maxwell (馬雅各)",
-        "shared_targets_count": 9
+        "shared_targets_count": 11
       },
       {
         "type": "CO-CITATION",
@@ -147,7 +138,7 @@
         "shared_target": "organizations/elder-john-lai-archives",
         "page1_title": "Boston Taiwanese Christian Church (波士頓台灣基督教會)",
         "page2_title": "George Leslie Mackay (馬偕)",
-        "shared_targets_count": 15
+        "shared_targets_count": 17
       },
       {
         "type": "CO-CITATION",
@@ -156,7 +147,7 @@
         "shared_target": "organizations/presbyterian-church-in-taiwan",
         "page1_title": "Chunglun Presbyterian Church (中崙教會)",
         "page2_title": "Elder John Lai's Archives (賴永祥長老史料庫)",
-        "shared_targets_count": 121
+        "shared_targets_count": 129
       },
       {
         "type": "CO-CITATION",
@@ -165,7 +156,7 @@
         "shared_target": "organizations/presbyterian-church-in-taiwan",
         "page1_title": "Chunglun Presbyterian Church (中崙教會)",
         "page2_title": "Formosan Presbyterian Church in Los Angeles (FPCLA)",
-        "shared_targets_count": 121
+        "shared_targets_count": 129
       },
       {
         "type": "CO-CITATION",
@@ -174,7 +165,7 @@
         "shared_target": "organizations/presbyterian-church-in-taiwan",
         "page1_title": "Chunglun Presbyterian Church (中崙教會)",
         "page2_title": "Good Shepherd Taiwanese Presbyterian Church",
-        "shared_targets_count": 121
+        "shared_targets_count": 129
       },
       {
         "type": "CO-CITATION",
@@ -183,7 +174,7 @@
         "shared_target": "people/thomas-barclay",
         "page1_title": "Chunglun Presbyterian Church (中崙教會)",
         "page2_title": "Presbyterian Church in Taiwan (PCT)",
-        "shared_targets_count": 12
+        "shared_targets_count": 13
       },
       {
         "type": "CO-CITATION",
@@ -192,7 +183,7 @@
         "shared_target": "people/thomas-barclay",
         "page1_title": "Chunglun Presbyterian Church (中崙教會)",
         "page2_title": "Tainan East Gate Barclay Memorial Church (東門巴克禮紀念教會)",
-        "shared_targets_count": 12
+        "shared_targets_count": 13
       },
       {
         "type": "CO-CITATION",
@@ -201,7 +192,7 @@
         "shared_target": "people/pinghsi-liu",
         "page1_title": "Chunglun Presbyterian Church (中崙教會)",
         "page2_title": "National Taiwanese Presbyterian Council (NTPC)",
-        "shared_targets_count": 32
+        "shared_targets_count": 33
       },
       {
         "type": "CO-CITATION",
@@ -210,7 +201,7 @@
         "shared_target": "people/pinghsi-liu",
         "page1_title": "Chunglun Presbyterian Church (中崙教會)",
         "page2_title": "TPC — Taiwanese Presbyterian Churches (not PCT)",
-        "shared_targets_count": 32
+        "shared_targets_count": 33
       },
       {
         "type": "CO-CITATION",
@@ -219,16 +210,7 @@
         "shared_target": "organizations/tainan-east-gate-barclay-memorial-church",
         "page1_title": "Chunglun Presbyterian Church (中崙教會)",
         "page2_title": "Rev. Pinghsi Liu (劉炳熹)",
-        "shared_targets_count": 11
-      },
-      {
-        "type": "CO-CITATION",
-        "page1": "organizations/chunglun-presbyterian-church.md",
-        "page2": "people/thomas-barclay.md",
-        "shared_target": "organizations/tainan-east-gate-barclay-memorial-church",
-        "page1_title": "Chunglun Presbyterian Church (中崙教會)",
-        "page2_title": "Thomas Barclay (巴克禮)",
-        "shared_targets_count": 11
+        "shared_targets_count": 12
       },
       {
         "type": "CO-CITATION",
@@ -264,7 +246,7 @@
         "shared_target": "people/peng-ming-min",
         "page1_title": "Democratic Progressive Party (民主進步黨)",
         "page2_title": "Taiwanese American Foundation (TAF)",
-        "shared_targets_count": 19
+        "shared_targets_count": 24
       },
       {
         "type": "CO-CITATION",
@@ -273,7 +255,7 @@
         "shared_target": "people/peng-ming-min",
         "page1_title": "Democratic Progressive Party (民主進步黨)",
         "page2_title": "chen-po-kong",
-        "shared_targets_count": 19
+        "shared_targets_count": 24
       },
       {
         "type": "CO-CITATION",
@@ -282,7 +264,7 @@
         "shared_target": "people/peng-ming-min",
         "page1_title": "Democratic Progressive Party (民主進步黨)",
         "page2_title": "du-ao-cunfu",
-        "shared_targets_count": 19
+        "shared_targets_count": 24
       },
       {
         "type": "CO-CITATION",
@@ -318,16 +300,16 @@
         "shared_target": "people/chen-shuibian",
         "page1_title": "Democratic Progressive Party (民主進步黨)",
         "page2_title": "Overseas Community Affairs Council (僑務委員會)",
-        "shared_targets_count": 14
+        "shared_targets_count": 15
       },
       {
         "type": "CO-CITATION",
         "page1": "organizations/democratic-progressive-party.md",
-        "page2": "people/hsu-hsin-hung.md",
+        "page2": "people/frank-hsieh.md",
         "shared_target": "people/chen-shuibian",
         "page1_title": "Democratic Progressive Party (民主進步黨)",
-        "page2_title": "Hsu Hsin-hung (徐新宏)",
-        "shared_targets_count": 14
+        "page2_title": "Frank Hsieh (謝長廷)",
+        "shared_targets_count": 15
       },
       {
         "type": "CO-CITATION",
@@ -354,7 +336,7 @@
         "shared_target": "people/ken-wu",
         "page1_title": "Democratic Progressive Party (民主進步黨)",
         "page2_title": "Taiwan Center Foundation of the Greater Los Angeles (大洛杉磯台灣會館)",
-        "shared_targets_count": 58
+        "shared_targets_count": 59
       },
       {
         "type": "CO-CITATION",
@@ -363,7 +345,7 @@
         "shared_target": "people/ken-wu",
         "page1_title": "Democratic Progressive Party (民主進步黨)",
         "page2_title": "Taiwanese American Historical Society (TAHS)",
-        "shared_targets_count": 58
+        "shared_targets_count": 59
       },
       {
         "type": "CO-CITATION",
@@ -399,7 +381,7 @@
         "shared_target": "organizations/formosan-presbyterian-church-in-los-angeles",
         "page1_title": "Democratic Progressive Party (民主進步黨)",
         "page2_title": "Good Shepherd Taiwanese Presbyterian Church",
-        "shared_targets_count": 68
+        "shared_targets_count": 73
       },
       {
         "type": "CO-CITATION",
@@ -408,7 +390,7 @@
         "shared_target": "organizations/formosan-presbyterian-church-in-los-angeles",
         "page1_title": "Democratic Progressive Party (民主進步黨)",
         "page2_title": "Irvine Taiwanese Presbyterian Church (爾灣台灣基督長老教會 (ITPC))",
-        "shared_targets_count": 68
+        "shared_targets_count": 73
       },
       {
         "type": "CO-CITATION",
@@ -417,7 +399,16 @@
         "shared_target": "organizations/overseas-community-affairs-council",
         "page1_title": "Democratic Progressive Party (民主進步黨)",
         "page2_title": "Chungchin Chen (陳仲欽)",
-        "shared_targets_count": 11
+        "shared_targets_count": 12
+      },
+      {
+        "type": "CO-CITATION",
+        "page1": "organizations/democratic-progressive-party.md",
+        "page2": "people/hsu-hsin-hung.md",
+        "shared_target": "organizations/overseas-community-affairs-council",
+        "page1_title": "Democratic Progressive Party (民主進步黨)",
+        "page2_title": "Hsu Hsin-hung (徐新宏)",
+        "shared_targets_count": 12
       },
       {
         "type": "CO-CITATION",
@@ -489,7 +480,7 @@
         "shared_target": "people/george-leslie-mackay",
         "page1_title": "Elder John Lai's Archives (賴永祥長老史料庫)",
         "page2_title": "Redirect → George Leslie Mackay (馬偕)",
-        "shared_targets_count": 14
+        "shared_targets_count": 16
       },
       {
         "type": "CO-CITATION",
@@ -499,6 +490,42 @@
         "page1_title": "Elder John Lai's Archives (賴永祥長老史料庫)",
         "page2_title": "Elder John Lai (賴永祥)",
         "shared_targets_count": 5
+      },
+      {
+        "type": "CO-CITATION",
+        "page1": "organizations/evergreen-senior-university-by-evangelical-formosa-church-of-irvine-esu.md",
+        "page2": "organizations/formosan-presbyterian-church-in-los-angeles.md",
+        "shared_target": "organizations/irvine-taiwanese-presbyterian-church",
+        "page1_title": "Evergreen Senior University by Evangelical Formosa Church of Irvine ESU (愛恩台福基督教會長春大學)",
+        "page2_title": "Formosan Presbyterian Church in Los Angeles (FPCLA)",
+        "shared_targets_count": 48
+      },
+      {
+        "type": "CO-CITATION",
+        "page1": "organizations/evergreen-senior-university-by-evangelical-formosa-church-of-irvine-esu.md",
+        "page2": "organizations/good-shepherd-taiwanese-presbyterian-church.md",
+        "shared_target": "organizations/irvine-taiwanese-presbyterian-church",
+        "page1_title": "Evergreen Senior University by Evangelical Formosa Church of Irvine ESU (愛恩台福基督教會長春大學)",
+        "page2_title": "Good Shepherd Taiwanese Presbyterian Church",
+        "shared_targets_count": 48
+      },
+      {
+        "type": "CO-CITATION",
+        "page1": "organizations/evergreen-senior-university-by-evangelical-formosa-church-of-irvine-esu.md",
+        "page2": "organizations/national-taiwanese-presbyterian-council.md",
+        "shared_target": "organizations/irvine-taiwanese-presbyterian-church",
+        "page1_title": "Evergreen Senior University by Evangelical Formosa Church of Irvine ESU (愛恩台福基督教會長春大學)",
+        "page2_title": "National Taiwanese Presbyterian Council (NTPC)",
+        "shared_targets_count": 48
+      },
+      {
+        "type": "CO-CITATION",
+        "page1": "organizations/evergreen-senior-university-by-evangelical-formosa-church-of-irvine-esu.md",
+        "page2": "sources/taiwaneseamericanhistory-org.md",
+        "shared_target": "organizations/houston-formosan-evergreen-association",
+        "page1_title": "Evergreen Senior University by Evangelical Formosa Church of Irvine ESU (愛恩台福基督教會長春大學)",
+        "page2_title": "taiwaneseamericanhistory.org (TAH Foundation)",
+        "shared_targets_count": 2
       },
       {
         "type": "CO-CITATION",
@@ -615,7 +642,7 @@
         "shared_target": "organizations/good-shepherd-taiwanese-presbyterian-church",
         "page1_title": "Formosan Presbyterian Church in Los Angeles (FPCLA)",
         "page2_title": "National Taiwanese Presbyterian Council (NTPC)",
-        "shared_targets_count": 58
+        "shared_targets_count": 62
       },
       {
         "type": "CO-CITATION",
@@ -624,16 +651,7 @@
         "shared_target": "organizations/good-shepherd-taiwanese-presbyterian-church",
         "page1_title": "Formosan Presbyterian Church in Los Angeles (FPCLA)",
         "page2_title": "Presbyterian Church in Taiwan (PCT)",
-        "shared_targets_count": 58
-      },
-      {
-        "type": "CO-CITATION",
-        "page1": "organizations/formosan-presbyterian-church-in-los-angeles.md",
-        "page2": "organizations/good-shepherd-taiwanese-presbyterian-church.md",
-        "shared_target": "organizations/irvine-taiwanese-presbyterian-church",
-        "page1_title": "Formosan Presbyterian Church in Los Angeles (FPCLA)",
-        "page2_title": "Good Shepherd Taiwanese Presbyterian Church",
-        "shared_targets_count": 38
+        "shared_targets_count": 62
       },
       {
         "type": "CO-CITATION",
@@ -656,11 +674,11 @@
       {
         "type": "CO-CITATION",
         "page1": "organizations/formosan-presbyterian-church-in-los-angeles.md",
-        "page2": "people/mingyuan-hsu.md",
+        "page2": "people/lien-hwa-chow.md",
         "shared_target": "people/pingtung-lai",
         "page1_title": "Formosan Presbyterian Church in Los Angeles (FPCLA)",
-        "page2_title": "Rev. Mingyuan Hsu (許明遠)",
-        "shared_targets_count": 11
+        "page2_title": "Dr. Lien-Hwa Chow (周聯華)",
+        "shared_targets_count": 12
       },
       {
         "type": "CO-CITATION",
@@ -678,7 +696,7 @@
         "shared_target": "organizations/national-taiwanese-presbyterian-council",
         "page1_title": "Formosan Presbyterian Church in Los Angeles (FPCLA)",
         "page2_title": "NTPC (disambiguation)",
-        "shared_targets_count": 56
+        "shared_targets_count": 57
       },
       {
         "type": "CO-CITATION",
@@ -687,7 +705,16 @@
         "shared_target": "organizations/national-taiwanese-presbyterian-council",
         "page1_title": "Formosan Presbyterian Church in Los Angeles (FPCLA)",
         "page2_title": "TPC — Taiwanese Presbyterian Churches (not PCT)",
-        "shared_targets_count": 56
+        "shared_targets_count": 57
+      },
+      {
+        "type": "CO-CITATION",
+        "page1": "organizations/formosan-presbyterian-church-in-los-angeles.md",
+        "page2": "people/prof-sze-ya-yeh.md",
+        "shared_target": "people/grace-h-yeh",
+        "page1_title": "Formosan Presbyterian Church in Los Angeles (FPCLA)",
+        "page2_title": "Prof. Sze-ya Yeh (葉思雅教授)",
+        "shared_targets_count": 4
       },
       {
         "type": "CO-CITATION",
@@ -696,43 +723,16 @@
         "shared_target": "people/grace-h-yeh",
         "page1_title": "Formosan Presbyterian Church in Los Angeles (FPCLA)",
         "page2_title": "Ye Siya & Zhang Xinhui (葉思雅、張信惠)",
-        "shared_targets_count": 2
+        "shared_targets_count": 4
       },
       {
         "type": "CO-CITATION",
-        "page1": "organizations/formosan-presbyterian-church-in-los-angeles.md",
-        "page2": "people/james-yang.md",
-        "shared_target": "people/yang-ming-ren",
-        "page1_title": "Formosan Presbyterian Church in Los Angeles (FPCLA)",
-        "page2_title": "James Yang (楊榮勝)",
-        "shared_targets_count": 2
-      },
-      {
-        "type": "CO-CITATION",
-        "page1": "organizations/formosan-presbyterian-church-in-los-angeles.md",
-        "page2": "organizations/taiwan-center.md",
-        "shared_target": "people/james-yang",
-        "page1_title": "Formosan Presbyterian Church in Los Angeles (FPCLA)",
-        "page2_title": "Taiwan Center Foundation of the Greater Los Angeles (大洛杉磯台灣會館)",
-        "shared_targets_count": 37
-      },
-      {
-        "type": "CO-CITATION",
-        "page1": "organizations/formosan-presbyterian-church-in-los-angeles.md",
-        "page2": "people/april-lin.md",
-        "shared_target": "people/james-yang",
-        "page1_title": "Formosan Presbyterian Church in Los Angeles (FPCLA)",
-        "page2_title": "April Lin (林淑卿)",
-        "shared_targets_count": 37
-      },
-      {
-        "type": "CO-CITATION",
-        "page1": "organizations/formosan-presbyterian-church-in-los-angeles.md",
-        "page2": "people/danny-chen.md",
-        "shared_target": "people/james-yang",
-        "page1_title": "Formosan Presbyterian Church in Los Angeles (FPCLA)",
-        "page2_title": "Danny Chen (陳啟耕)",
-        "shared_targets_count": 37
+        "page1": "people/prof-sze-ya-yeh.md",
+        "page2": "people/ye-siya-zhang-xinhui.md",
+        "shared_target": "people/grace-h-yeh",
+        "page1_title": "Prof. Sze-ya Yeh (葉思雅教授)",
+        "page2_title": "Ye Siya & Zhang Xinhui (葉思雅、張信惠)",
+        "shared_targets_count": 4
       }
     ],
     "co_mention": [

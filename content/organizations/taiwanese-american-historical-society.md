@@ -62,7 +62,7 @@ Not on the 2025 paper org chart. Owner-confirmed for public leadership listing (
 ## Member records cross-linked in the vault (deepen pass 2026-09-10)
 
 - Onboarding process page: [[people/tahs-member-onboarding||TAHS member onboarding]] (owner-confirmed LINE introductions, membership recorded with appointment basis).
-- Recorded individual members cross-linked from this page's community include [[people/rex-chen||Rex Chen (陳乃光)]] (member since 2026-06-15, introduced by [[people/leonard-hsu-jr||Leonard Hsu Jr.]]) and [[people/ken-wu||Ken Wu (吳兆峯)]].
+- Recorded individual members cross-linked from this page's community include [[people/rex-chen||Rex Chen (陳乃光)]] (member since 2026-06-15, introduced by [[people/leonard-hsu-jr||Leonard Hsu Jr.]]), [[people/ken-wu||Ken Wu (吳兆峯)]], and [[people/lester-tsai||Lester Tsai, MD]] (member since 2026-09-11, introduced by Leonard Hsu Jr.).
 - 2023 TAHS Publication 专访家庭: [[people/xie-qingzhi-xie-poyi||謝清志、謝泊怡]] — interview held at the TAHS office, October 2022（源見 [[sources/2023-tahs-publication||2023 TAHS Publication]]）.
 
 ## History & public activity (in-vault records)
