@@ -64,6 +64,9 @@ Authored the 2017 autobiography *From East to West: Memoirs of a Finance Profess
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+## Vault re-check 2026-09-11 (deepen-x slice 17, vault-only)
+All wikilink targets verified to exist in the vault; all cited-source facts (degrees, UIUC/Rutgers chairs, Pacific Basin conference directorship, memoirs #1109/#276/#557) already absorbed. No web, no new pages, not published.
 - [[works/taiwaneseamericanhistory-org/70-prof-cheng-few-lee||TAH #70 encyclopedia: Prof. Cheng-Few Lee 李正福教授]]
 - [[works/taiwaneseamericanhistory-org/whos-who-131-cheng-few-lee||TAH Who's Who #131 encyclopedia: Prof. Cheng-Few Lee 李正福教授]]
 - [[works/taiwaneseamericanhistory-org/mystories557||TAH My Stories #557: 李正福教授 美台40年教學研究及主持會議之經驗]]
