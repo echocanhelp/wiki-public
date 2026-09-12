@@ -1,0 +1,4 @@
+people/rev-james-i-cheng.md
+people/dr-ray-wang.md
+people/janice-wong.md
+people/wen-s-charlie-chern.md

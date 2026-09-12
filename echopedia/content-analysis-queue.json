@@ -1,9 +1,9 @@
 {
-  "date": "2026-09-11",
+  "date": "2026-09-12",
   "standards_version": 10,
-  "total_pages_scanned": 2879,
-  "pages_with_findings": 43,
-  "auto_queued": 2,
+  "total_pages_scanned": 2880,
+  "pages_with_findings": 41,
+  "auto_queued": 4,
   "queue": [
     {
       "path": "people/anita-wen-shin-chang.md",
@@ -20,10 +20,38 @@
       ]
     },
     {
-      "path": "people/grace-chung.md",
+      "path": "people/chungchin-chen.md",
       "findings": [
         "DESC_NO_TITLE_MENTION",
-        "LINKS_LOW_DENSITY"
+        "READABILITY_MANY_LONG_SENTENCES_5"
+      ],
+      "priority": "medium",
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol",
+        "Fix ONLY listed findings — no inventing biography",
+        "Update last_reviewed after fixes",
+        "Commit only (no publish)"
+      ]
+    },
+    {
+      "path": "people/dr-chi-wan-lai.md",
+      "findings": [
+        "DESC_NO_TITLE_MENTION",
+        "LINKS_HIGH_DENSITY"
+      ],
+      "priority": "medium",
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol",
+        "Fix ONLY listed findings — no inventing biography",
+        "Update last_reviewed after fixes",
+        "Commit only (no publish)"
+      ]
+    },
+    {
+      "path": "people/dr-mike-kuo.md",
+      "findings": [
+        "DESC_NO_TITLE_MENTION",
+        "READABILITY_MANY_LONG_SENTENCES_4"
       ],
       "priority": "medium",
       "instructions": [
@@ -34,6 +62,6 @@
       ]
     }
   ],
-  "suppressed_findings": 1839,
-  "fp_history_entries": 1925
+  "suppressed_findings": 1829,
+  "fp_history_entries": 1928
 }

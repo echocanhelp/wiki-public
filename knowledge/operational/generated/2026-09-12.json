@@ -1,0 +1,103 @@
+{
+  "date": "2026-09-12",
+  "total_cards": 8,
+  "evaluated_file": "/home/leedt/echo-system/knowledge/operational/evaluated/2026-09-12.json",
+  "priority_counts": {
+    "high": 1,
+    "medium": 5,
+    "low": 2
+  },
+  "playbook_counts": {
+    "P8": 8
+  },
+  "cards": [
+    {
+      "card_id": "echo-gen-2026-09-12-0001",
+      "title": "[HIGH] chungchin-chen: Ensure the first paragraph mentions the page subject",
+      "body": "## Task: [HIGH] chungchin-chen: Ensure the first paragraph mentions the page subject\n\n**Priority:** high\n**Playbook:** P8\n**Page:** `people/chungchin-chen.md`\n**Finding:** `DESC_NO_TITLE_MENTION`\n**Score:** 10.5 (inbound links: 7)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/people/chungchin-chen.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-09-12 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Ensure the first paragraph mentions the page subject\n**Detail:** The first paragraph should reference the person/organization this page is about.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: DESC_NO_TITLE_MENTION\nPage type: people\nType weight: 1.5\nFinding weight: 1.0",
+      "priority": "high",
+      "playbook": "P8",
+      "page": "people/chungchin-chen.md",
+      "finding": "DESC_NO_TITLE_MENTION",
+      "score": 10.5,
+      "target_path": "/home/leedt/echo-system/content/people/chungchin-chen.md"
+    },
+    {
+      "card_id": "echo-gen-2026-09-12-0002",
+      "title": "[MEDIUM] chungchin-chen: Break up long sentences",
+      "body": "## Task: [MEDIUM] chungchin-chen: Break up long sentences\n\n**Priority:** medium\n**Playbook:** P8\n**Page:** `people/chungchin-chen.md`\n**Finding:** `READABILITY_MANY_LONG_SENTENCES_5`\n**Score:** 5.25 (inbound links: 7)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/people/chungchin-chen.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-09-12 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Break up long sentences\n**Detail:** Multiple sentences exceed 50 words. Break them up for readability.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: READABILITY_MANY_LONG_SENTENCES\nPage type: people\nType weight: 1.5\nFinding weight: 0.5",
+      "priority": "medium",
+      "playbook": "P8",
+      "page": "people/chungchin-chen.md",
+      "finding": "READABILITY_MANY_LONG_SENTENCES_5",
+      "score": 5.25,
+      "target_path": "/home/leedt/echo-system/content/people/chungchin-chen.md"
+    },
+    {
+      "card_id": "echo-gen-2026-09-12-0003",
+      "title": "[MEDIUM] dr-chi-wan-lai: Ensure the first paragraph mentions the page subject",
+      "body": "## Task: [MEDIUM] dr-chi-wan-lai: Ensure the first paragraph mentions the page subject\n\n**Priority:** medium\n**Playbook:** P8\n**Page:** `people/dr-chi-wan-lai.md`\n**Finding:** `DESC_NO_TITLE_MENTION`\n**Score:** 4.5 (inbound links: 3)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/people/dr-chi-wan-lai.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-09-12 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Ensure the first paragraph mentions the page subject\n**Detail:** The first paragraph should reference the person/organization this page is about.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: DESC_NO_TITLE_MENTION\nPage type: people\nType weight: 1.5\nFinding weight: 1.0",
+      "priority": "medium",
+      "playbook": "P8",
+      "page": "people/dr-chi-wan-lai.md",
+      "finding": "DESC_NO_TITLE_MENTION",
+      "score": 4.5,
+      "target_path": "/home/leedt/echo-system/content/people/dr-chi-wan-lai.md"
+    },
+    {
+      "card_id": "echo-gen-2026-09-12-0004",
+      "title": "[MEDIUM] dr-chi-wan-lai: UNKNOWN_FINDING_TYPE",
+      "body": "## Task: [MEDIUM] dr-chi-wan-lai: UNKNOWN_FINDING_TYPE\n\n**Priority:** medium\n**Playbook:** P8\n**Page:** `people/dr-chi-wan-lai.md`\n**Finding:** `LINKS_HIGH_DENSITY`\n**Score:** 4.5 (inbound links: 3)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/people/dr-chi-wan-lai.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-09-12 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** UNKNOWN_FINDING_TYPE\n**Detail:** No action mapping for finding: LINKS_HIGH_DENSITY\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: LINKS_HIGH_DENSITY\nPage type: people\nType weight: 1.5\nFinding weight: 1.0",
+      "priority": "medium",
+      "playbook": "P8",
+      "page": "people/dr-chi-wan-lai.md",
+      "finding": "LINKS_HIGH_DENSITY",
+      "score": 4.5,
+      "target_path": "/home/leedt/echo-system/content/people/dr-chi-wan-lai.md"
+    },
+    {
+      "card_id": "echo-gen-2026-09-12-0005",
+      "title": "[MEDIUM] dr-mike-kuo: Ensure the first paragraph mentions the page subject",
+      "body": "## Task: [MEDIUM] dr-mike-kuo: Ensure the first paragraph mentions the page subject\n\n**Priority:** medium\n**Playbook:** P8\n**Page:** `people/dr-mike-kuo.md`\n**Finding:** `DESC_NO_TITLE_MENTION`\n**Score:** 4.5 (inbound links: 3)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/people/dr-mike-kuo.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-09-12 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Ensure the first paragraph mentions the page subject\n**Detail:** The first paragraph should reference the person/organization this page is about.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: DESC_NO_TITLE_MENTION\nPage type: people\nType weight: 1.5\nFinding weight: 1.0",
+      "priority": "medium",
+      "playbook": "P8",
+      "page": "people/dr-mike-kuo.md",
+      "finding": "DESC_NO_TITLE_MENTION",
+      "score": 4.5,
+      "target_path": "/home/leedt/echo-system/content/people/dr-mike-kuo.md"
+    },
+    {
+      "card_id": "echo-gen-2026-09-12-0006",
+      "title": "[MEDIUM] anita-wen-shin-chang: Ensure the first paragraph mentions the page subject",
+      "body": "## Task: [MEDIUM] anita-wen-shin-chang: Ensure the first paragraph mentions the page subject\n\n**Priority:** medium\n**Playbook:** P8\n**Page:** `people/anita-wen-shin-chang.md`\n**Finding:** `DESC_NO_TITLE_MENTION`\n**Score:** 3.0 (inbound links: 2)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/people/anita-wen-shin-chang.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-09-12 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Ensure the first paragraph mentions the page subject\n**Detail:** The first paragraph should reference the person/organization this page is about.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: DESC_NO_TITLE_MENTION\nPage type: people\nType weight: 1.5\nFinding weight: 1.0",
+      "priority": "medium",
+      "playbook": "P8",
+      "page": "people/anita-wen-shin-chang.md",
+      "finding": "DESC_NO_TITLE_MENTION",
+      "score": 3.0,
+      "target_path": "/home/leedt/echo-system/content/people/anita-wen-shin-chang.md"
+    },
+    {
+      "card_id": "echo-gen-2026-09-12-0007",
+      "title": "[LOW] dr-mike-kuo: Break up long sentences",
+      "body": "## Task: [LOW] dr-mike-kuo: Break up long sentences\n\n**Priority:** low\n**Playbook:** P8\n**Page:** `people/dr-mike-kuo.md`\n**Finding:** `READABILITY_MANY_LONG_SENTENCES_4`\n**Score:** 2.25 (inbound links: 3)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/people/dr-mike-kuo.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-09-12 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Break up long sentences\n**Detail:** Multiple sentences exceed 50 words. Break them up for readability.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: READABILITY_MANY_LONG_SENTENCES\nPage type: people\nType weight: 1.5\nFinding weight: 0.5",
+      "priority": "low",
+      "playbook": "P8",
+      "page": "people/dr-mike-kuo.md",
+      "finding": "READABILITY_MANY_LONG_SENTENCES_4",
+      "score": 2.25,
+      "target_path": "/home/leedt/echo-system/content/people/dr-mike-kuo.md"
+    },
+    {
+      "card_id": "echo-gen-2026-09-12-0008",
+      "title": "[LOW] anita-wen-shin-chang: Break up long sentences",
+      "body": "## Task: [LOW] anita-wen-shin-chang: Break up long sentences\n\n**Priority:** low\n**Playbook:** P8\n**Page:** `people/anita-wen-shin-chang.md`\n**Finding:** `READABILITY_MANY_LONG_SENTENCES_4`\n**Score:** 1.5 (inbound links: 2)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/people/anita-wen-shin-chang.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-09-12 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Break up long sentences\n**Detail:** Multiple sentences exceed 50 words. Break them up for readability.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: READABILITY_MANY_LONG_SENTENCES\nPage type: people\nType weight: 1.5\nFinding weight: 0.5",
+      "priority": "low",
+      "playbook": "P8",
+      "page": "people/anita-wen-shin-chang.md",
+      "finding": "READABILITY_MANY_LONG_SENTENCES_4",
+      "score": 1.5,
+      "target_path": "/home/leedt/echo-system/content/people/anita-wen-shin-chang.md"
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+organizations/tainan-east-gate-barclay-memorial-church.md
+people/san-nan-chen.md
+people/dr-john-hsu.md
+people/phoenix-ko.md

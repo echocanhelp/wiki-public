@@ -670,3 +670,6 @@
 {"ts": "2026-09-12T00:49:20Z", "status": "miss", "query": "@Echo許 AI助理 yo", "slug": null, "source": "brain", "kind": null}
 {"ts": "2026-09-12T00:49:42Z", "status": "miss", "query": "@Echo許 AI助理 introduce yourself to Lester, he's my cousin", "slug": null, "source": "brain", "kind": null}
 {"ts": "2026-09-12T00:50:19Z", "status": "hit", "query": "@Echo許 AI助理 explain our society mission statement to him", "slug": "taiwanese-american-cultural-society-of-california", "source": "brain", "kind": "organization"}
+{"ts": "2026-09-12T05:22:10Z", "status": "hit", "query": "@Echo許 AI助理 Here is the zhtw manuscript.  Lets make things right", "slug": "sandra-wright-shen", "source": "brain", "kind": "person"}
+{"ts": "2026-09-12T05:27:17Z", "status": "hit", "query": "@Echo許 AI助理 here is a 2nd version docx of the manuscript, maybe easier to extract text here", "slug": "theresa-l-chung", "source": "brain", "kind": "person"}
+{"ts": "2026-09-12T05:45:58Z", "status": "hit", "query": "[Hsuperman] Check line logs, group chat with albert, what is processing", "slug": "l-a-study-group", "source": "brain", "kind": "organization"}
