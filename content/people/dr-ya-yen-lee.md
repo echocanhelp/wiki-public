@@ -35,7 +35,7 @@ Accomplishment
 From his own TAH employment table and encyclopedia entries (#149, #128, #21):
 
 - **President, North America Taiwanese Professors' Association (NATPA)** — national presidency of the professors' association (a NATPA chapter page exists in the vault: [[organizations/north-america-taiwanese-professors-sc||NATPA Southern California]]).
-- **President, [[organizations/taiwanese-association-of-america-houston-chapter||Taiwanese Association of America — Houston Chapter]]**
+- **President, [[organizations/taiwanese-association-of-america-houston-chapter||Taiwanese Association of America — Houston Chapter]]** (chapter of [[organizations/taiwanese-association-of-america||Taiwanese Association of America]])
 - **President, [[organizations/taiwanese-heritage-society-of-houston||Taiwanese Heritage Society of Houston]]**
 - **成立委員會委員 (1992)** — founding committee member of the 休士頓台灣人活動中心 (Houston Taiwan Community Center)
 - TAH encyclopedia #128 additionally records him as **Founder of Taiwan Center/Houston**.

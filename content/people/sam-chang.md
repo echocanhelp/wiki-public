@@ -78,3 +78,4 @@ Pages that link to **sam-chang** (sam-chang):
 - [[sources/2017-tahs-publication||2017 TAHS Publication]]
 - [[people/wang-gui-rong||Wang Gui-rong (王桂榮) — fellow hotel developer]]
 - [[people/franklin-ping-cheng||Franklin Ping Cheng (程炳成) — TAHS president]]
+- [[people/katherine-huang||Katherine Huang]] · [[people/lisa-su||Lisa Su]] · [[people/shawna-yang-ryan||Shawna Yang Ryan]] — the other three featured entrepreneurs/leaders in the same [[sources/2017-tahs-publication||2017 TAHS 菁英錄]]

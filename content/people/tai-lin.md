@@ -63,3 +63,7 @@ Dr. Tai Lin was born in Taipei, Taiwan and graduated from Taiwan National Tsing 
 - Conductor posts per the employment table: 台北金穗合唱團, 唯歌小集, St. Louis Taiwanese Youth Chamber Orchestra.
 - Listed as a 理事 of 全美台灣人權協會's 2014 board (as 林泰) per vault page [[works/taiwaneseamericanhistory-org/ourjourneys75||Our Journeys #75]], which already wikilinks this page.
 - His St. Louis base (Washington Univ. graduate study, Ariel Premium Supply) overlaps with [[organizations/taiwanese-association-of-america-in-greater-st-louis||TAA in Greater St. Louis]] and [[organizations/friends-of-taiwan-greater-st-louis||Friends of Taiwan Greater St. Louis]]; no membership is documented.
+
+## Connected in the Vault (deepen 2026-09-11)
+- Encyclopaedia profiles: [[works/taiwaneseamericanhistory-org/552-tai-lin-e6-9e-97-e6-b3-b0-conductor-201508|TAH encyclopaedia — Tai Lin, Conductor (2015/08)]] · [[works/taiwaneseamericanhistory-org/553-tai-lin-e6-9e-97-e6-b3-b0-201508|TAH encyclopaedia — Tai Lin (2015/08)]]
+- Organisational tie already documented in-vault: 理事 of 全美台灣人權協會's 2014 board per [[works/taiwaneseamericanhistory-org/ourjourneys75|Our Journeys #75]]

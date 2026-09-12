@@ -19,7 +19,7 @@ last_reviewed: 2026-09-11
 - **Core roles:** physician
 - **Source:** TAH Foundation Who’s Who
 
-3. Coordinator of Taiwanese American Council of Greater New York (大紐約區台灣人社團聯合會招集人) 2004-2018
+3. Coordinator of [[organizations/taiwanese-american-council-of-greater-new-york|Taiwanese American Council of Greater New York (大紐約區台灣人社團聯合會)]] 招集人 2004-2018
 
 <!-- tah-tables:start -->
 ## Education
