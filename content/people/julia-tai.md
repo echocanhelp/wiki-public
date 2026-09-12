@@ -49,7 +49,9 @@ _No filled family fields on the TAH profile._
 
 - A second TAH encyclopedia entry, #494 (published 2015-07-11), is held in the vault alongside #239: [[works/taiwaneseamericanhistory-org/494-julia-tai-e6-88-b4-e5-ae-87-e9-9f-b3-201507||TAH #494: Julia Tai 戴宇音]]. Her USC Thornton "Outstanding Graduate of 2004" award and DMA conducting studies under Peter Eros are documented in these vault entries.
 
-## Connected in the Vault
+## Connected in the Vault (slice 09112100-5 cross-links)
+
+- Both encyclopedia entries are catalogued in the vault story corpus: [[works/taiwaneseamericanhistory-org/mystories239||TAH mystories #239]] and [[works/taiwaneseamericanhistory-org/mystories494||TAH mystories #494]].
 
 - **USC context:** the vault holds [[organizations/taiwanese-student-association-at-the-university-of-southern-california||Taiwanese Student Association at USC]] and [[organizations/taiwanese-american-organization-at-the-university-of-southern-california||Taiwanese American Organization at USC]] as community context for her USC years (1998–2004, B.M. Vocal Arts, M.M. Choral Conducting).
 - **University of Washington context:** the vault holds [[organizations/taiwanese-student-association-at-university-of-washington||Taiwanese Student Association at the University of Washington]] as community context for her DMA conducting studies.

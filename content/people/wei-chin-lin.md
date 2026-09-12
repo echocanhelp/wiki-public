@@ -41,6 +41,11 @@ Structured from the TAH profile text and tables above:
 - Ensembles / posts: Taipei Percussion (2002–2006); Principal Timpanist, National Taiwan Symphony Orchestra (2010–2011); Fellow (Timpanist/Percussionist), Tanglewood Music Center (2008); Boston Civic Symphony; Hai-Dao Contemporary Ensemble.
 - Education: 台灣台北藝術大學 B.A. 音樂系; 波士頓大學 M.S. 打擊樂 (2008), Ph.D. 音樂藝術 (2014).
 
+## Connected in the Vault (deepen pass 2026-09-11, slice 09112100-5)
+
+- His encyclopedia entries are catalogued in the vault story corpus: [[works/taiwaneseamericanhistory-org/musician379||TAH musician #379]] and [[works/taiwaneseamericanhistory-org/mystories186||TAH mystories #186]].
+- **Boston University context** (M.M. 2008, DMA 2014, Boston University Honors Award 2008/2013): the vault holds [[organizations/boston-university-taiwanese-student-association||Boston University Taiwanese Student Association]], [[organizations/taiwanese-overseas-students-association-at-boston-university||Taiwanese Overseas Students Association at Boston University]], and [[organizations/taiwanese-american-foundation-of-boston||Taiwanese American Foundation of Boston]] as community context for his Boston years.
+
 ## Family
 
 _No filled family fields on the TAH profile._

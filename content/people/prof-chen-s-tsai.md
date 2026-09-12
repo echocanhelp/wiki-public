@@ -54,6 +54,10 @@ last_reviewed: 2026-09-11
 
 - **Campus community context:** the vault holds [[organizations/stanford-taiwanese-student-association||Stanford Taiwanese Student Association]] and [[organizations/taiwanese-cultural-society-at-stanford-university||Taiwanese Cultural Society at Stanford]] from his doctoral institution, and [[organizations/taiwanese-american-organization-at-uc-irvine||Taiwanese American Organization at UC Irvine]], [[organizations/taiwanese-student-association-at-uc-irvine||TSA at UC Irvine]], and [[organizations/taiwanese-graduate-student-association-at-uc-irvine||TGSA at UC Irvine]] from the campus where he held the Distinguished/Chancellor's Professorship (1980–).
 
+## Vault records (deepen pass 2026-09-11, slice 09112100-5)
+
+- The vault also holds his personal-paper collection page [[works/taiwaneseamericanhistory-org/collection-of-prof-chen-s-tsai||Collection of Prof. Chen S. Tsai]] alongside the three encyclopedia entries (#27, #15, #368) already linked above.
+
 ## Sources
 - [TAH #27 encyclopedia: 27. Prof. Chen S. Tsai 蔡振水教授](https://taiwaneseamericanhistory.org/27-prof-chen-s-tsai/)
 - [TAH #15 encyclopedia: 15. Prof. Chen S. Tsai 蔡振水教授](https://taiwaneseamericanhistory.org/pride-chen-s-tsai/)

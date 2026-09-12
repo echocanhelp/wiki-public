@@ -50,6 +50,11 @@ Absorbed from vault pages already cited (no new sources):
 - The source-side title labels her as a violinist; her profile biography documents viola (中提琴, studied under 王璽禎 at 復興高中 and 蕭雨沛 at 國立臺灣藝術大學) alongside piano (周佳臻; 葉孟儒、謝琦雯 at 復興高中) — a dual strings/keyboard identity, plus harpsichord as a collaborative instrument with 臺北市立交響樂團 and 世紀交響樂團.
 - Career line recorded in the vault: TSO administrative assistant → TSO/Century Symphony collaborative performer → 2016 founds A' Art Studio → 2017 臺北藝穗節 program『聽，電影!』(subsidized by 臺北市社教館藝文沙龍) → present: piano & string faculty and administrative manager at 龍星音樂中心, New York.
 
+## Connected in the Vault (deepen pass 2026-09-11, slice 09112100-5)
+
+- Her encyclopedia entry is catalogued in the vault story-corpus page [[works/taiwaneseamericanhistory-org/mystories431||TAH mystories #431]].
+- **New York community context** (she is currently based in New York per the TAH biography): the vault holds [[organizations/new-york-taiwan-center||New York Taiwan Center]] and [[organizations/taiwanese-american-association-new-york||Taiwanese American Association of New York]] as Taiwanese-arts community context for her current city.
+
 ## Family
 
 _No filled family fields on the TAH profile._
