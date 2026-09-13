@@ -1,7 +1,7 @@
 {
   "version": 1,
   "last_run": "self-heal-verify",
-  "last_run_date": "2026-09-12",
+  "last_run_date": "2026-09-13",
   "pages_audited": 2850,
   "issues_found": 23002,
   "issue_history": [
@@ -1028,6 +1028,33 @@
     },
     {
       "run_date": "2026-09-12",
+      "total_issues": 11447,
+      "broken_links": 9751,
+      "missing_pages": 1577,
+      "structural": 93,
+      "stale": 0,
+      "missing_sections": 0,
+      "orphans": 26,
+      "cross_refs": 0,
+      "prev_total": 23002,
+      "delta": -11555
+    },
+    {
+      "run_date": "2026-09-13",
+      "total_issues": 23002,
+      "broken_links": 19489,
+      "missing_sections": 93,
+      "stale_content": 139,
+      "orphans": 26,
+      "cross_references": 255,
+      "missing_pages": 3000,
+      "index_sync": 0,
+      "web_issues": 0,
+      "structural": 42,
+      "full_log": "/home/leedt/echo-system/echopedia/logs/nightly-audit-2026-09-13.txt"
+    },
+    {
+      "run_date": "2026-09-13",
       "total_issues": 11447,
       "broken_links": 9751,
       "missing_pages": 1577,

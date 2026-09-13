@@ -1,10 +1,11 @@
 # Connector suggestions (capped top 80)
 
-- co_citation total=1618 kept=80
-- co_mention total=6772 kept=40
+- co_citation total=1764 kept=80
+- co_mention total=7039 kept=40
 - shared_tags total=0 kept=0
 
 ## Top co-citation
+- people/wei-ming-hwang.md ↔ people/zoe-huang.md
 - organizations/taiwanese-american-association-of-los-angeles-east-san-gabriel-valley.md ↔ sources/taiwaneseamericanhistory-org.md
 - people/en-sheng-pan.md ↔ people/lien-hwa-chow.md
 - organizations/aj-wang-foundation-scholarship-fund.md ↔ organizations/american-citizens-for-taiwan.md
@@ -29,4 +30,3 @@
 - organizations/chunglun-presbyterian-church.md ↔ people/pinghsi-liu.md
 - organizations/democratic-progressive-party.md ↔ people/albert-s-lai.md
 - organizations/democratic-progressive-party.md ↔ people/ken-wu.md
-- organizations/democratic-progressive-party.md ↔ people/zhou-wei-lin.md

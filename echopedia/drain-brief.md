@@ -1,4 +1,4 @@
-## Queue drain — 2026-09-12
+## Queue drain — 2026-09-13
 - Items: **40**
 
 - `people/chen-po-kong.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)

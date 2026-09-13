@@ -1,4 +1,4 @@
-TAHS · Echopedia morning brief — 2026-09-11
+TAHS · Echopedia morning brief — 2026-09-12
 1 NEED YOU item(s) below; the rest is auto-handled.
 
 🔴 NEED YOU (your judgment only)
@@ -33,21 +33,20 @@ TAHS · Echopedia morning brief — 2026-09-11
 🟡 QUEUE 11 pages WIP/incomplete
 
 🟡 QUEUE / link suggestions (disk)
-ℹ️  INFO  top tips below · full pairs on disk (~8390 scored)
+ℹ️  INFO  top tips below · full pairs on disk (~8803 scored)
 
 🟡 QUEUE / optional link tips (≤5, not NEED YOU)
-🟡 QUEUE 1. Link tip: organizations/taiwanese-american-association-of-los-angeles-east-san-gabriel-valley.md ↔ sources/taiwaneseamericanhistory-org.md
-🟡 QUEUE 2. Link tip: people/en-sheng-pan.md ↔ people/lien-hwa-chow.md
-🟡 QUEUE 3. Link tip: organizations/aj-wang-foundation-scholarship-fund.md ↔ organizations/american-citizens-for-taiwan.md
-🟡 QUEUE 4. Link tip: organizations/aj-wang-foundation-scholarship-fund.md ↔ organizations/american-citizens-of-taiwan-origin-acto.md
-🟡 QUEUE 5. Link tip: organizations/aj-wang-foundation-scholarship-fund.md ↔ organizations/ann-arbor-taiwanese-association.md
+🟡 QUEUE 1. Link tip: people/wei-ming-hwang.md ↔ people/zoe-huang.md
+🟡 QUEUE 2. Link tip: organizations/taiwanese-american-association-of-los-angeles-east-san-gabriel-valley.md ↔ sources/taiwaneseamericanhistory-org.md
+🟡 QUEUE 3. Link tip: people/en-sheng-pan.md ↔ people/lien-hwa-chow.md
+🟡 QUEUE 4. Link tip: organizations/aj-wang-foundation-scholarship-fund.md ↔ organizations/american-citizens-for-taiwan.md
+🟡 QUEUE 5. Link tip: organizations/aj-wang-foundation-scholarship-fund.md ↔ organizations/american-citizens-of-taiwan-origin-acto.md
 
 ℹ️ SITE (wiki visits; operator self-traffic excluded)
-ℹ️  INFO  wiki 7 visits since cutoff · yday 2026-09-10 = 0 · /people/hsu-ching-chun 2, / 2, /people/hsu-ling-yun 1
+ℹ️  INFO  wiki 13 visits since cutoff · yday 2026-09-11 = 6 · / 3, /organizations/taiwanese-american-historical-society 2, /people/albert-chapter1-zh-hsiaochen-full-revie
 
 ✅ AUTO (overnight — evidence)
-✅ AUTO related-pages 1
-✅ AUTO analyzer scanned 2879 queued 2 suppressed 1839
+✅ AUTO analyzer scanned 2880 queued 4 suppressed 1829
 🟡 QUEUE janitor HOLD leftover 40
-🟡 QUEUE kanban blocked 90
+🟡 QUEUE kanban blocked 68
 ℹ️  INFO  only 🔴 NEED YOU requires your reply

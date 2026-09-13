@@ -1,4 +1,4 @@
-## Site design audit — 2026-09-12 04:37
+## Site design audit — 2026-09-13 04:30
 
 - pages_md=15036
 - critical=0 high=0 medium=1
@@ -8,7 +8,7 @@
 - **SITE_DESIGN_STATUS: WARN**
 
 ### MEDIUM (1)
-- **F4** people/index.html is 1491494 bytes — heavy on mobile. Do NOT hand-edit content/people/index.md. Search-first is the IA; regen script only if links break.
+- **F4** people/index.html is 1491492 bytes — heavy on mobile. Do NOT hand-edit content/people/index.md. Search-first is the IA; regen script only if links break.
 
 ### LOW (1)
 - **C1** spelling signals (sample): 1 `[AGENT_SUGGESTED]`
@@ -22,7 +22,7 @@
   - `people/lin-yuan-ching.md`
   - `people/yang-jia-you.md`
   - `people/yang-xin.md`
-- **B1** person/org touched ≤7d (rely on recency featured window): 542
+- **B1** person/org touched ≤7d (rely on recency featured window): 538
   - `people/agnes-hsu.md`
   - `people/albert-chapter1-audiobook-consent-and-recording-kit.md`
   - `people/albert-chapter1-en-review.md`

@@ -1,35 +1,35 @@
 {
-  "at": "2026-09-11T14:00:10Z",
+  "at": "2026-09-12T14:00:18Z",
   "cutoff": "2026-08-21T19:22:14Z",
   "ok": true,
-  "visits_since_cutoff": 7,
-  "yesterday_pdt": "2026-09-10",
-  "yesterday_visits": 0,
+  "visits_since_cutoff": 13,
+  "yesterday_pdt": "2026-09-11",
+  "yesterday_visits": 6,
   "top": [
+    {
+      "count": 3,
+      "path": "/wiki-public",
+      "title": "Echopedia"
+    },
+    {
+      "count": 2,
+      "path": "/wiki-public/organizations/taiwanese-american-historical-society",
+      "title": "Taiwanese American Historical Society (TAHS)"
+    },
+    {
+      "count": 2,
+      "path": "/wiki-public/people/albert-chapter1-zh-hsiaochen-full-review",
+      "title": "Albert Ch.1 ZH full \u2014 HsiaoChen evaluation (SKU B gate)"
+    },
     {
       "count": 2,
       "path": "/wiki-public/people/hsu-ching-chun",
       "title": "Hsu Ching-chun (\u8a31\u666f\u6df3)"
     },
     {
-      "count": 2,
-      "path": "/wiki-public",
-      "title": "Echopedia"
-    },
-    {
       "count": 1,
-      "path": "/wiki-public/people/hsu-ling-yun",
-      "title": "Hsu Ling-yun (\u8a31\u51cc\u96f2)"
-    },
-    {
-      "count": 1,
-      "path": "/wiki-public/people/david-huang",
-      "title": "Rev. David Huang (\u9ec3\u5fb7\u5229)"
-    },
-    {
-      "count": 1,
-      "path": "/wiki-public/people/albert-chapter1-zh-hsiaochen-full-review",
-      "title": "Albert Ch.1 ZH full \u2014 HsiaoChen evaluation (SKU B gate)"
+      "path": "/wiki-public/people/lester-tsai",
+      "title": "Not Found"
     }
   ],
   "error": null
