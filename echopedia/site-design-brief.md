@@ -1,4 +1,4 @@
-## Site design audit — 2026-09-13 06:05
+## Site design audit — 2026-09-13 06:15
 
 - pages_md=15043
 - critical=0 high=0 medium=1
@@ -8,7 +8,7 @@
 - **SITE_DESIGN_STATUS: WARN**
 
 ### MEDIUM (1)
-- **F4** people/index.html is 1491492 bytes — heavy on mobile. Do NOT hand-edit content/people/index.md. Search-first is the IA; regen script only if links break.
+- **F4** people/index.html is 1491494 bytes — heavy on mobile. Do NOT hand-edit content/people/index.md. Search-first is the IA; regen script only if links break.
 
 ### LOW (1)
 - **C1** spelling signals (sample): 2 `[AGENT_SUGGESTED]`

@@ -6,3 +6,26 @@ CI: queue-drain done
 CI: publishing to heal drift
 CI: site-design OK
 CI: smoke OK
+Auto packing the repository in background for optimum performance.
+See "git help gc" for manual housekeeping.
+[gh-pages b42586d29c] ci-heal: L2 auto-heal (2026-09-13)
+ 18740 files changed, 39145 insertions(+), 37335 deletions(-)
+ create mode 100644 content/events/sc-taiwancenter-org-event-2026-membership.md
+ create mode 100644 content/events/sc-taiwancenter-org-event-2026tai-wan-xue-xiao.md
+ create mode 100644 content/events/sc-taiwancenter-org-event-da-luo-shan-ji-tai-mei-ren-chuan-tong-zhou.md
+ create mode 100644 content/events/sc-taiwancenter-org-event-tai-wan-zhang-hua-guang-xing-ge-zhang-zhong-ju-tuan-10.md
+ create mode 100644 content/works/taiwaneseamerican-org/theyve-always-come-to-us-fiction-eddie-lo.md
+ create mode 100644 content/works/taiwaneseamerican-org/to-my-date-at-wonder-bar.md
+ create mode 100644 content/works/taiwaneseamerican-org/vultures-medical-conspiracy-thriller.md
+ create mode 100644 events/sc-taiwancenter-org-event-2026-membership.html
+ create mode 100644 events/sc-taiwancenter-org-event-2026tai-wan-xue-xiao.html
+ create mode 100644 events/sc-taiwancenter-org-event-da-luo-shan-ji-tai-mei-ren-chuan-tong-zhou.html
+ create mode 100644 events/sc-taiwancenter-org-event-tai-wan-zhang-hua-guang-xing-ge-zhang-zhong-ju-tuan-10.html
+ create mode 100644 public/events/sc-taiwancenter-org-event-2026-membership.html
+ create mode 100644 public/events/sc-taiwancenter-org-event-2026tai-wan-xue-xiao.html
+ create mode 100644 public/events/sc-taiwancenter-org-event-da-luo-shan-ji-tai-mei-ren-chuan-tong-zhou.html
+ create mode 100644 public/events/sc-taiwancenter-org-event-tai-wan-zhang-hua-guang-xing-ge-zhang-zhong-ju-tuan-10.html
+ create mode 100644 public/works/taiwaneseamerican-org/theyve-always-come-to-us-fiction-eddie-lo.html
+ create mode 100644 public/works/taiwaneseamerican-org/to-my-date-at-wonder-bar.html
+ create mode 100644 public/works/taiwaneseamerican-org/vultures-medical-conspiracy-thriller.html
+CI: committed heal
