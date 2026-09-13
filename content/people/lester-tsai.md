@@ -24,7 +24,7 @@ sources:
 
 ## TAHS Membership Assignment
 - Membership Class: Member
-- Functional Title: Cheek Inspector (owner recommendation; member may change)
+- Functional Title: pending (honorary title to be chosen with member and owner)
 - Effective Date: 2026-09-11
 - Appointing Authority: Leonard Hsu Jr.
 - Appointment Basis: owner onboarding in LINE group; verified as Lester Tsai
@@ -32,7 +32,7 @@ sources:
 - Review Date: Optional / pending
 
 ## Introduction Context
-Lester Tsai was introduced by [[people/leonard-hsu-jr||Leonard Hsu Jr. (許景鴻)]] as his cousin and onboarded to the Taiwanese American Historical Society ([[organizations/taiwanese-american-historical-society||TAHS]]). Owner instruction: verify as Lester Tsai; honorary functional title **Cheek Inspector**, which Lester is welcome to change.
+Lester Tsai was introduced by [[people/leonard-hsu-jr||Leonard Hsu Jr. (許景鴻)]] as his cousin and onboarded to the Taiwanese American Historical Society ([[organizations/taiwanese-american-historical-society||TAHS]]). Owner-verified as Lester Tsai.
 
 ## Professional / Career Context
 Public Kaiser Permanente Southern California physician directory (retrieved 2026-09-11):
@@ -49,7 +49,7 @@ Clinic addresses, phone numbers, and plan lists from that directory are **not** 
 > Pending Lester Tsai's first-person introduction.
 
 ## Contributions / Responsibilities
-- TAHS member; honorary title Cheek Inspector unless Lester chooses another title.
+- TAHS member; honorary functional title pending.
 - Future contributions, oral-history leads, documents, or society responsibilities should be added here with source and consent notes.
 
 ## Consent & Privacy
@@ -61,7 +61,7 @@ Clinic addresses, phone numbers, and plan lists from that directory are **not** 
 ## Verification Block
 - Owner-verified as **Lester Tsai** by Leonard Hsu Jr. on 2026-09-11.
 - Professional facts limited to the public Kaiser directory page named above.
-- Chinese name, preferred romanization, and title change remain member-editable.
+- Chinese name, preferred romanization, and honorary title remain member-editable with owner confirmation.
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||Taiwanese American Historical Society (TAHS)]]
@@ -72,4 +72,5 @@ Clinic addresses, phone numbers, and plan lists from that directory are **not** 
 - [Kaiser Permanente physician directory — Lester Tsai, MD](https://healthy.kaiserpermanente.org/southern-california/physicians/lester-tsai-6602490)
 
 ## Revision History
-- 2026-09-11: Created Echopedia onboarding page after Leonard Hsu Jr. LINE introduction; owner-verified as Lester Tsai; title Cheek Inspector (changeable); Kaiser public directory facts only.
+- 2026-09-11: Created Echopedia onboarding page after Leonard Hsu Jr. LINE introduction; owner-verified as Lester Tsai; Kaiser public directory facts only.
+- 2026-09-11: Removed an erroneous honorary title from the public page; functional title left pending.

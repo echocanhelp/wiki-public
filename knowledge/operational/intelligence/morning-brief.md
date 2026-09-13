@@ -10,24 +10,22 @@ TAHS · Echopedia morning brief — 2026-09-13
 🟡 QUEUE Charles Yang: soft pending aged out: capture_line_user_id_on_first_sender_message
 
 🟡 SOURCE CONTINUITY (live sites)
-✅ AUTO  taiwancenter-org: +3 new / 30 changed; applied 47
-✅ AUTO  good-shepherd-taiwanese-presbyterian-church: +1 new / 4 changed; applied 7
-✅ AUTO  presbyterian-church-in-taiwan: +0 new / 1 changed; applied 3
-✅ AUTO  taiwaneseamerican-org: +1 new / 7 changed; applied 17
-✅ AUTO  eastgatebarclay-org: +2 new / 0 changed; applied 4
+✅ AUTO  taiwancenter-org: +4 new / 24 changed; applied 34
+✅ AUTO  good-shepherd-taiwanese-presbyterian-church: +0 new / 1 changed; applied 3
+✅ AUTO  presbyterian-church-in-taiwan: +3 new / 1 changed; applied 6
+✅ AUTO  taiwaneseamerican-org: +1 new / 11 changed; applied 25
+✅ AUTO  penghu-info: +0 new / 4 changed; applied 6
 
 🟡 A-BAND WORKS (thicken — not AUTO people)
-🟡 QUEUE taiwaneseamerican-org: Taiwanese Chef Eric Sze Brings Honesty &#038; &#8220;Intentional Fusion&#8221; to His First Cookb
-🟡 QUEUE taiwaneseamerican-org: A Little Bit Sweet: A Taiwanese American Documentary About Grief, Family, and Hot Sauce
-🟡 QUEUE taiwaneseamerican-org: A Reflection on 228, from Taiwanese America in 2026
-🟡 QUEUE taiwaneseamerican-org: Crying in the Taipei 101 Food Court: Two Transpacific Adoptees Talk (Re-)Learning Mandarin in Tai
-🟡 QUEUE taiwaneseamerican-org: In Grief, Returning to my Roots in Search of my Father’s Childhood
+🟡 QUEUE taiwaneseamerican-org: Now Streaming on Instagram: &#8220;Vultures,&#8221; a Medical Conspiracy Thriller
+🟡 QUEUE taiwaneseamerican-org: &#8220;Beneath the Same Round Moon&#8221;: Q&#038;A with Debut Author Jasmine Fang
+🟡 QUEUE taiwaneseamerican-org: Leaving the United States Made Me Feel More Taiwanese American
 
 🟡 NEXT INGEST (≤2, advisory — not started)
+🟡 QUEUE healthy.kaiserpermanente.org — external host on 3 Tier1 pages; not watched
+     → go Echopedia website https://healthy.kaiserpermanente.org/
 🟡 QUEUE ntumcaa-na.org — external host on 3 Tier1 pages; not watched
      → go Echopedia website https://ntumcaa-na.org/
-🟡 QUEUE tcnn.org.tw — external host on 5 Tier1 pages; not watched
-     → go Echopedia website https://tcnn.org.tw/
 
 🟡 QUEUE / unfinished (not a hard gate)
 🟡 QUEUE 11 pages WIP/incomplete
