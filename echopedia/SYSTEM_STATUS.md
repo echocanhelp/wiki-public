@@ -1,6 +1,6 @@
 # Echopedia System Status
 
-*Generated: 2026-09-13 04:38 PDT*
+*Generated: 2026-09-13 06:05 PDT*
 
 ## Orientation
 - **Entry:** go <plain language> via go-router (auto-route) · **Control:** [CONTROL.md](CONTROL.md)
@@ -14,14 +14,14 @@
 - **Level:** L3
 - **L2 auto-publish on drift:** True
 - **L3 auto-push when green:** True
-- **Last good deploy:** `5e92b86d99`
-- **Last night (ledger):** analyzer scanned 2880 queued 4 suppressed 1829 · 🟡 QUEUE janitor HOLD leftover 40 · 🟡 QUEUE kanban blocked 68
+- **Last good deploy:** `6ca75fe6d2`
+- **Last night (ledger):** analyzer scanned 2880 queued 3 suppressed 1835 · 🟡 QUEUE janitor HOLD leftover 40 · 🟡 QUEUE kanban blocked 68
 - **Track SSOT:** `knowledge/operational/intelligence/autonomy-ledger.json`
 
 ## Content
 |- **Tier1 pages:** 2850 (people 2403 / orgs 429 / sources 18) · Tier2 archive: 29103
 |- **Janitor queue depth:** 43
-|- **Uncommitted files:** 13369
+|- **Uncommitted files:** 30899
 
 ## Self-improvement pipeline (Scout → Filter → Extract → Evaluate → Generate → Review)
 || Stage | Script | Last run | Output |
@@ -61,19 +61,19 @@ Load skill **echopedia-ops** first for any wiki work.
     Last run:  2026-09-12T07:01:21.989526-07:00  ok
     Name:      vllm-thermal-scaler
     Schedule:  every 1m
-    Last run:  2026-09-13T04:37:07.547587-07:00  ok
+    Last run:  2026-09-13T06:05:10.301352-07:00  ok
     Name:      Echopedia content analysis
     Schedule:  10 1 * * *
     Last run:  2026-09-13T01:11:00.547017-07:00  ok
     Name:      unified-watchdog
     Schedule:  every 30m
-    Last run:  2026-09-13T04:18:05.863134-07:00  ok
+    Last run:  2026-09-13T05:48:08.194262-07:00  ok
     Name:      echopedia-digest
     Schedule:  20 6 * * *
     Last run:  2026-09-12T06:20:19.252021-07:00  ok
     Name:      memory-audit
     Schedule:  50 4 * * *
-    Last run:  2026-09-12T04:50:13.238501-07:00  ok
+    Last run:  2026-09-13T04:50:12.389499-07:00  ok
     Name:      echopedia-nightly-audit
     Schedule:  15 1 * * *
     Last run:  2026-09-13T01:47:05.885042-07:00  ok
@@ -85,13 +85,13 @@ Load skill **echopedia-ops** first for any wiki work.
     Last run:  2026-09-06T06:04:40.787408-07:00  ok
     Name:      echopedia-ci-heal
     Schedule:  25 4 * * *
-    Last run:  2026-09-12T04:39:12.215307-07:00  ok
+    Last run:  2026-09-13T04:39:11.995968-07:00  ok
     Name:      echopedia-site-design
     Schedule:  30 4 * * *
     Last run:  2026-09-13T04:30:10.529581-07:00  ok
     Name:      vault-search-index-rebuild
     Schedule:  0 5 * * 0
-    Last run:  2026-09-06T05:00:01.003873-07:00  ok
+    Last run:  2026-09-13T05:00:07.173032-07:00  ok
     Name:      echopedia-scout-live
 ```
 

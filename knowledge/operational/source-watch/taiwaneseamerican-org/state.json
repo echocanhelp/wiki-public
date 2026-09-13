@@ -2,56 +2,56 @@
   "id": "taiwaneseamerican-org",
   "urls": {
     "https://www.taiwaneseamerican.org/": {
-      "hash": "3174fdeebcd30ee5f74ee2429c20492c",
-      "len": 59385,
+      "hash": "78fe90f3a24bebcbbb3c348dad6b5f84",
+      "len": 57558,
       "code": 200,
       "baseline": false
     },
     "https://www.taiwaneseamerican.org/2026/07/theyve-always-come-to-us-fiction-eddie-lo/": {
-      "hash": "60f5a8cf74d32b55bfd07ae2d87640e9",
-      "len": 89475,
+      "hash": "48a8952e24ba39f87de214b3776ad78d",
+      "len": 91288,
       "code": 200,
       "baseline": false
     },
     "https://www.taiwaneseamerican.org/2026/05/2026-creative-writing-prize-winners/": {
-      "hash": "2815020f901fb7419fafe26b7df981cc",
-      "len": 77265,
+      "hash": "1ba8bf78dd1b402df1a85a76767ff173",
+      "len": 79078,
       "code": 200,
       "baseline": false
     },
     "https://www.taiwaneseamerican.org/2026/07/to-my-date-at-wonder-bar/": {
-      "hash": "544e33d41e3971d936d887e79a2da28d",
-      "len": 70116,
+      "hash": "34ab8e375ee5a831411eaee05ec257c9",
+      "len": 71929,
       "code": 200,
       "baseline": false
     },
     "https://www.taiwaneseamerican.org/2026/05/inner-voices-of-the-fog-a-reflection-on-a-foggy-tale/": {
-      "hash": "d8e6fef9351388f9572ed76667bd29b2",
-      "len": 65085,
+      "hash": "71f2c8feff83973abee8f9ee971fde5f",
+      "len": 66898,
       "code": 200,
       "baseline": false
     },
     "https://www.taiwaneseamerican.org/2026/05/a-pilgrimage-creative-nonfiction-by-cindy-cheng/": {
-      "hash": "9a1ce3f56d4b87e3d4b934f1f2286b20",
-      "len": 87611,
+      "hash": "26ac7069bbf2f07ddb0c812903493ed5",
+      "len": 89424,
       "code": 200,
       "baseline": false
     },
     "https://www.taiwaneseamerican.org/2026/05/serena-shih-fiction-cwp/": {
-      "hash": "1f99670358393d621c8d100f84497674",
-      "len": 67713,
+      "hash": "694eeb0ad2f868d0bf2c1a17aeacd9b2",
+      "len": 69526,
       "code": 200,
       "baseline": false
     },
     "https://www.taiwaneseamerican.org/2026/05/laurie-fang-fiction-cwp/": {
-      "hash": "94c649b2af2e0d5913d9142133839fe2",
-      "len": 69716,
+      "hash": "00650beff6762a4dd33e365722347d5b",
+      "len": 71529,
       "code": 200,
       "baseline": false
     },
     "https://www.taiwaneseamerican.org/2026/05/susan-hong-fiction-cwp/": {
-      "hash": "736d3357144fac141d62c9f22e0b57e9",
-      "len": 77082,
+      "hash": "fc1872018380c5adec4e0c09832718b0",
+      "len": 78895,
       "code": 200,
       "baseline": false
     },
@@ -62,8 +62,8 @@
       "baseline": false
     },
     "https://www.taiwaneseamerican.org/2026/05/leaving-the-united-states-made-me-feel-more-taiwanese-american/": {
-      "hash": "834cfc1a552684fab00cff264f740634",
-      "len": 74898,
+      "hash": "6e0d1013bc6d775669132d6d0da2d245",
+      "len": 76711,
       "code": 200,
       "baseline": false
     },
@@ -122,8 +122,8 @@
       "baseline": true
     },
     "https://www.taiwaneseamerican.org/2026/08/beneath-the-same-round-moon-jasmine-fang/": {
-      "hash": "5e22fc6b4a9c9de5c36fcd4130829e26",
-      "len": 61639,
+      "hash": "32e911660ac418bf91ff1843b93725a3",
+      "len": 63452,
       "code": 200,
       "baseline": false
     },
@@ -132,8 +132,14 @@
       "len": 72425,
       "code": 200,
       "baseline": false
+    },
+    "https://www.taiwaneseamerican.org/2026/09/vultures-medical-conspiracy-thriller/": {
+      "hash": "36cc8557448049a51d8e3840281a2c4e",
+      "len": 69959,
+      "code": 200,
+      "baseline": false
     }
   },
-  "last_poll": "2026-09-06T12:34:46Z",
+  "last_poll": "2026-09-13T12:34:23Z",
   "baseline_at": "2026-08-21T01:37:21Z"
 }

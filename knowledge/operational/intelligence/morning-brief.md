@@ -1,4 +1,4 @@
-TAHS · Echopedia morning brief — 2026-09-12
+TAHS · Echopedia morning brief — 2026-09-13
 1 NEED YOU item(s) below; the rest is auto-handled.
 
 🔴 NEED YOU (your judgment only)
@@ -43,10 +43,10 @@ TAHS · Echopedia morning brief — 2026-09-12
 🟡 QUEUE 5. Link tip: organizations/aj-wang-foundation-scholarship-fund.md ↔ organizations/american-citizens-of-taiwan-origin-acto.md
 
 ℹ️ SITE (wiki visits; operator self-traffic excluded)
-ℹ️  INFO  wiki 13 visits since cutoff · yday 2026-09-11 = 6 · / 3, /organizations/taiwanese-american-historical-society 2, /people/albert-chapter1-zh-hsiaochen-full-revie
+ℹ️  INFO  wiki 18 visits since cutoff · yday 2026-09-12 = 5 · /people/albert-chapter1-zh-hsiaochen-full-review 4, / 3, /organizations/taiwanese-american-historical-societ
 
 ✅ AUTO (overnight — evidence)
-✅ AUTO analyzer scanned 2880 queued 4 suppressed 1829
+✅ AUTO analyzer scanned 2880 queued 3 suppressed 1835
 🟡 QUEUE janitor HOLD leftover 40
 🟡 QUEUE kanban blocked 68
 ℹ️  INFO  only 🔴 NEED YOU requires your reply

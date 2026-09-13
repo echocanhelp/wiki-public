@@ -266,12 +266,12 @@
       "baseline": false
     },
     "https://gstpc.org/home/09-06-2026-sunday-bulletin/": {
-      "hash": "88d949ff414a5ad30bd1bcac1d075cb9",
-      "len": 27233,
+      "hash": "39643bda3694bcd796cd2997933953c7",
+      "len": 26569,
       "code": 200,
       "baseline": false
     }
   },
-  "last_poll": "2026-09-06T12:31:31Z",
+  "last_poll": "2026-09-13T12:31:15Z",
   "baseline_at": "2026-08-09T21:02:05Z"
 }

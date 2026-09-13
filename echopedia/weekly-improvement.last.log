@@ -1,60 +1,8 @@
-=== weekly improvement 2026-09-06 ===
+=== weekly improvement 2026-09-13 ===
 IMPROVE_BRIEF: /home/leedt/echo-system/echopedia/improvement-brief.md
 IMPROVE_STATUS: OK
-CI: ops-check WARN
+CI: ops-check OK
 CI: queue-drain done
 CI: publishing to heal drift
 CI: site-design OK
 CI: smoke OK
-Auto packing the repository in background for optimum performance.
-See "git help gc" for manual housekeeping.
-[gh-pages 02f70ada26] ci-heal: L2 auto-heal (2026-09-06)
- 8791 files changed, 21353 insertions(+), 17566 deletions(-)
- create mode 100644 content/events/sc-taiwancenter-org-event-2025-annual-gala-fundraising-dinner.md
- create mode 100644 content/events/sc-taiwancenter-org-event-2025-miss-taiwan-usa-news.md
- create mode 100644 content/events/sc-taiwancenter-org-event-2025-traditional-week.md
- create mode 100644 content/events/sc-taiwancenter-org-event-2026-luo-shan-ji-tai-mei-ren-chuan-tong-zhou.md
- create mode 100644 content/events/sc-taiwancenter-org-event-228-memorial-commemoration-ceremony.md
- create mode 100644 content/events/sc-taiwancenter-org-event-calendar.md
- create mode 100644 content/events/sc-taiwancenter-org-event-construction-progress-of-the-building.md
- create mode 100644 content/events/sc-taiwancenter-org-event-groundbreaking-ceremony.md
- create mode 100644 content/events/sc-taiwancenter-org-event-she-li-guo-cheng-zhao-pian.md
- create mode 100644 content/events/sc-taiwancenter-org-event-taiwan-joining-who.md
- create mode 100644 content/events/sc-taiwancenter-org-event-thanksgiving-dinner.md
- create mode 100644 content/events/sc-taiwancenter-org-event-xin-guan-shi-nei-she-ji-kong-jian-yu-gui-hua.md
- create mode 100644 content/works/taiwaneseamerican-org/eric-sze-taiwanese-cookbook.md
- create mode 100644 events/sc-taiwancenter-org-event-2025-annual-gala-fundraising-dinner.html
- create mode 100644 events/sc-taiwancenter-org-event-2025-miss-taiwan-usa-news.html
- create mode 100644 events/sc-taiwancenter-org-event-2025-traditional-week.html
- create mode 100644 events/sc-taiwancenter-org-event-2026-luo-shan-ji-tai-mei-ren-chuan-tong-zhou.html
- create mode 100644 events/sc-taiwancenter-org-event-228-memorial-commemoration-ceremony.html
- create mode 100644 events/sc-taiwancenter-org-event-calendar.html
- create mode 100644 events/sc-taiwancenter-org-event-construction-progress-of-the-building.html
- create mode 100644 events/sc-taiwancenter-org-event-groundbreaking-ceremony.html
- create mode 100644 events/sc-taiwancenter-org-event-she-li-guo-cheng-zhao-pian.html
- create mode 100644 events/sc-taiwancenter-org-event-taiwan-joining-who.html
- create mode 100644 events/sc-taiwancenter-org-event-thanksgiving-dinner.html
- create mode 100644 events/sc-taiwancenter-org-event-xin-guan-shi-nei-she-ji-kong-jian-yu-gui-hua.html
- create mode 100644 knowledge/operational/janitor-log/site-design-20260906.log
- create mode 100644 public/events/sc-taiwancenter-org-event-2025-annual-gala-fundraising-dinner.html
- create mode 100644 public/events/sc-taiwancenter-org-event-2025-miss-taiwan-usa-news.html
- create mode 100644 public/events/sc-taiwancenter-org-event-2025-traditional-week.html
- create mode 100644 public/events/sc-taiwancenter-org-event-2026-luo-shan-ji-tai-mei-ren-chuan-tong-zhou.html
- create mode 100644 public/events/sc-taiwancenter-org-event-228-memorial-commemoration-ceremony.html
- create mode 100644 public/events/sc-taiwancenter-org-event-calendar.html
- create mode 100644 public/events/sc-taiwancenter-org-event-construction-progress-of-the-building.html
- create mode 100644 public/events/sc-taiwancenter-org-event-groundbreaking-ceremony.html
- create mode 100644 public/events/sc-taiwancenter-org-event-she-li-guo-cheng-zhao-pian.html
- create mode 100644 public/events/sc-taiwancenter-org-event-taiwan-joining-who.html
- create mode 100644 public/events/sc-taiwancenter-org-event-thanksgiving-dinner.html
- create mode 100644 public/events/sc-taiwancenter-org-event-xin-guan-shi-nei-she-ji-kong-jian-yu-gui-hua.html
- create mode 100644 public/works/taiwaneseamerican-org/eric-sze-taiwanese-cookbook.html
-CI: committed heal
-[gh-pages 937cd47ea3] ci-heal: L3 green publish (2026-09-06)
- 1194 files changed, 1272 insertions(+), 1228 deletions(-)
-To https://github.com/echocanhelp/wiki-public.git
-   6959a05189..937cd47ea3  gh-pages -> gh-pages
-CI: L3 pushed 937cd47ea3
-CI: post-push CDN verify CDN_LAG
-CI_SUMMARY: green=1 ops=WARN drift=OK smoke=OK
-CI_STATUS: GREEN

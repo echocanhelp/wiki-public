@@ -1,5 +1,5 @@
 {
-  "at": "2026-09-06T12:37:02Z",
+  "at": "2026-09-13T12:36:55Z",
   "items": [
     {
       "id": "taiwancenter-org",
@@ -28,13 +28,13 @@
     {
       "id": "laijohn-com",
       "page": "content/organizations/elder-john-lai-archives.md",
-      "bytes": 4923,
+      "bytes": 5620,
       "tier": "MEDIUM"
     },
     {
       "id": "taiwaneseamerican-org",
       "page": "content/organizations/taiwaneseamerican-org.md",
-      "bytes": 3686,
+      "bytes": 5155,
       "tier": "MEDIUM"
     },
     {
@@ -52,13 +52,13 @@
     {
       "id": "eastgatebarclay-org",
       "page": "content/organizations/tainan-east-gate-barclay-memorial-church.md",
-      "bytes": 2414,
-      "tier": "THIN"
+      "bytes": 3551,
+      "tier": "MEDIUM"
     },
     {
       "id": "penghu-info",
       "page": "content/organizations/penghu-info.md",
-      "bytes": 2360,
+      "bytes": 2607,
       "tier": "THIN"
     }
   ]

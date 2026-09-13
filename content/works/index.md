@@ -15,6 +15,7 @@ Interviews, oral history, and named-subject features absorbed as Echopedia **wor
 <!-- works-index-start -->
 ## Featured stories
 
+- [[works/taiwaneseamerican-org/vultures-medical-conspiracy-thriller|Now Streaming on Instagram: “Vultures,” a Medical Conspiracy Thriller]] — 2026-09-07 · taiwaneseamerican-org
 - [[works/taiwaneseamerican-org/eric-sze-taiwanese-cookbook|Taiwanese Chef Eric Sze Brings Honesty & “Intentional Fusion” to His First Cookbook]] — 2026-09-03 · taiwaneseamerican-org
 - [[works/taiwaneseamerican-org/beneath-the-same-round-moon-jasmine-fang|“Beneath the Same Round Moon”: Q&A with Debut Author Jasmine Fang]] — 2026-08-20 · taiwaneseamerican-org
 - [[works/taiwaneseamericanhistory-org/honoring-the-taiwanese-american-journey-history-heritage-and-contributions|Honoring the Taiwanese American Journey: History, Heritage, and Contributions]] — 2026-08-06 · taiwaneseamericanhistory-org
@@ -26,7 +27,6 @@ Interviews, oral history, and named-subject features absorbed as Echopedia **wor
 - [[works/taiwaneseamerican-org/national-treasure-taiwanese-identity|Finding the Treasure: How National Treasure Helped Me Rediscover My Taiwanese American Story]] — 2026-02-03 · taiwaneseamerican-org
 - [[works/taiwaneseamerican-org/revolutionary-taiwan|What happens when we think of Taiwan as a revolutionary place?: A Conversation with Catherine Chou, co-author of REVOLUTIONARY TAIWAN]] — 2026-02-01 · taiwaneseamerican-org
 - [[works/taiwaneseamerican-org/kaila-yus-fetishized-community-discussion-guide|Kaila Yu’s FETISHIZED: Community Discussion Guide]] — 2026-01-23 · taiwaneseamerican-org
-- [[works/taiwaneseamerican-org/taiwan-is-not-up-to-xi-vickie-wang|It Is Not Up to Xi. And It Is Not Complicated.]] — 2026-01-19 · taiwaneseamerican-org
 
 [→ All sources below](#by-source)
 
@@ -34,10 +34,13 @@ Interviews, oral history, and named-subject features absorbed as Echopedia **wor
 
 ### taiwaneseamerican-org
 
-A 554 · B 1781 · C 78 · total 2413 — full list, never truncated.
+A 555 · B 1781 · C 80 · total 2416 — full list, never truncated.
 
+- [[works/taiwaneseamerican-org/vultures-medical-conspiracy-thriller|Now Streaming on Instagram: “Vultures,” a Medical Conspiracy Thriller]] — 2026-09-07 · A
 - [[works/taiwaneseamerican-org/eric-sze-taiwanese-cookbook|Taiwanese Chef Eric Sze Brings Honesty & “Intentional Fusion” to His First Cookbook]] — 2026-09-03 · A
 - [[works/taiwaneseamerican-org/beneath-the-same-round-moon-jasmine-fang|“Beneath the Same Round Moon”: Q&A with Debut Author Jasmine Fang]] — 2026-08-20 · A
+- [[works/taiwaneseamerican-org/theyve-always-come-to-us-fiction-eddie-lo|They’ve Always Come to Us, and We’ve Always Stayed: Fiction by Eddie Lo]] — 2026-07-30 · C
+- [[works/taiwaneseamerican-org/to-my-date-at-wonder-bar|To My Date at Wonder Bar: Creative Nonfiction by Christine Huang]] — 2026-07-01 · C
 - [[works/taiwaneseamerican-org/inner-voices-of-the-fog-a-reflection-on-a-foggy-tale|Inner Voices of the Fog: A Reflection on A Foggy Tale]] — 2026-05-26 · B
 - [[works/taiwaneseamerican-org/a-pilgrimage-creative-nonfiction-by-cindy-cheng|A Pilgrimage: Creative Nonfiction by Cindy Cheng]] — 2026-05-21 · C
 - [[works/taiwaneseamerican-org/esther-fung-fiction-cwp|Last Night in Taipei: Fiction by Esther Fung]] — 2026-05-15 · C

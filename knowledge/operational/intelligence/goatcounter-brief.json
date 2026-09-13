@@ -1,11 +1,16 @@
 {
-  "at": "2026-09-12T14:00:18Z",
+  "at": "2026-09-13T11:45:40Z",
   "cutoff": "2026-08-21T19:22:14Z",
   "ok": true,
-  "visits_since_cutoff": 13,
-  "yesterday_pdt": "2026-09-11",
-  "yesterday_visits": 6,
+  "visits_since_cutoff": 18,
+  "yesterday_pdt": "2026-09-12",
+  "yesterday_visits": 5,
   "top": [
+    {
+      "count": 4,
+      "path": "/wiki-public/people/albert-chapter1-zh-hsiaochen-full-review",
+      "title": "Albert Ch.1 ZH full \u2014 HsiaoChen evaluation (SKU B gate)"
+    },
     {
       "count": 3,
       "path": "/wiki-public",
@@ -18,18 +23,13 @@
     },
     {
       "count": 2,
-      "path": "/wiki-public/people/albert-chapter1-zh-hsiaochen-full-review",
-      "title": "Albert Ch.1 ZH full \u2014 HsiaoChen evaluation (SKU B gate)"
-    },
-    {
-      "count": 2,
       "path": "/wiki-public/people/hsu-ching-chun",
       "title": "Hsu Ching-chun (\u8a31\u666f\u6df3)"
     },
     {
       "count": 1,
-      "path": "/wiki-public/people/lester-tsai",
-      "title": "Not Found"
+      "path": "/wiki-public/works/taiwaneseamerican-org/susan-hong-fiction-cwp",
+      "title": "Home / \u6545\u9109 : Fiction by Susan Hong"
     }
   ],
   "error": null

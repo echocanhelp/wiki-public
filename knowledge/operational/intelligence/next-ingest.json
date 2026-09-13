@@ -1,6 +1,14 @@
 {
-  "at": "2026-09-06T12:37:02Z",
+  "at": "2026-09-13T12:36:55Z",
   "suggestions": [
+    {
+      "kind": "website",
+      "host": "healthy.kaiserpermanente.org",
+      "mentions": 3,
+      "score": 17,
+      "why": "external host on 3 Tier1 pages; not watched",
+      "action": "go Echopedia website https://healthy.kaiserpermanente.org/"
+    },
     {
       "kind": "website",
       "host": "ntumcaa-na.org",
@@ -8,20 +16,12 @@
       "score": 17,
       "why": "external host on 3 Tier1 pages; not watched",
       "action": "go Echopedia website https://ntumcaa-na.org/"
-    },
-    {
-      "kind": "website",
-      "host": "tcnn.org.tw",
-      "mentions": 5,
-      "score": 15,
-      "why": "external host on 5 Tier1 pages; not watched",
-      "action": "go Echopedia website https://tcnn.org.tw/"
     }
   ],
-  "candidates_considered": 16,
+  "candidates_considered": 17,
   "pools": {
-    "website_like": 9,
-    "densify": 3,
-    "total": 16
+    "website_like": 11,
+    "densify": 1,
+    "total": 17
   }
 }

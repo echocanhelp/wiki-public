@@ -8,7 +8,7 @@ tags:
   - Taiwan
   - primary-source
 verification_status: published
-last_reviewed: 2026-09-06
+last_reviewed: 2026-09-13
 ---
 # Presbyterian Church in Taiwan (PCT) Official Website
 
