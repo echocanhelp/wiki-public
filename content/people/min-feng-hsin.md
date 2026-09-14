@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # Min Feng Hsin (辛明峰)
 
@@ -55,3 +55,7 @@ A native of Taiwan, Ming Feng Hsin’s musical career began as a violin soloist 
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - [[works/taiwaneseamericanhistory-org/380-min-feng-hsin-e8-be-9b-e6-98-8e-e5-b3-b0|TAH #380 encyclopedia]]
 - [[works/taiwaneseamericanhistory-org/185-ming-feng-hsin-e8-be-9b-e6-98-8e-e5-b3-b0-violinist-conductor-201503|TAH #185 encyclopedia]]
+
+## deepen pass 2026-09-14（DEEPEN-X slice 09112200-12）
+
+復核本頁全部出處：兩篇 TAH 百科 vault 工作頁（#380、#185）與 [[organizations/tah-foundation||TAH Foundation]]、[[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]] 皆確認存在於 vault，傳記事實均已吸收自既有引用來源（vault-only，未上網、未新增傳記事實、未新建頁面）。本頁提及的 Juilliard、Metropolitan Opera Orchestra、Yehudi Menuhin、Wen Qian 等目前 vault 內尚無對應頁面，故本輪未新增 wikilink（避免死連結）；待相關頁面建立後可再行連結。

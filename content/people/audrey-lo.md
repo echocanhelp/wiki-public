@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # Audrey Lo
 
@@ -60,3 +60,8 @@ _No filled family fields on the TAH profile._
 
 核查本頁所有出處與連結：引用的 TAH 條目頁（works/taiwaneseamericanhistory-org/*）與組織／語料庫頁皆已存在於 vault，
 傳記事實已全部吸收自既有引用來源（vault-only，未上網、未新增傳記內容、未新建頁面）。本頁已為深化完成狀態。
+
+## deepen pass 2026-09-14（DEEPEN-X slice 09112200-12）
+
+- 新增語料庫脈絡連結：她就讀 Pre-College Division 的 Manhattan School of Music 在 TAH 語料庫另有條目 [[works/taiwaneseamericanhistory-org/manhattan-school-of-music-appoints-acclaimed-conductor-mei-ann-chen-as-incoming-||TAH：Manhattan School of Music 相關條目]]（該頁主角為 Mei-Ann Chen，僅作學校於語料庫之脈絡，非本人事蹟）。
+- LaGuardia、SUNY Purchase、Mannes College、Albany Symphony、InterSchool Orchestra 於 vault 目前無對應頁面，故未新增連結；既有連結皆經核對存在，未新建頁面、未上網。

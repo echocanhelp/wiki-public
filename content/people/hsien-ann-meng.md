@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # Hsien-Ann Meng (孟憲安博士)
 
@@ -53,3 +53,8 @@ _No filled family fields on the TAH profile._
 - Howard Community College, where Dr. Meng teaches piano, recurs as a teaching hub in this corpus: [[people/yi-hsin-lin|Yi-Hsin Lin]] is recorded on its Music Institute faculty and [[people/i-ling-chen|I-Ling Chen]] on its former piano faculty.
 - The University of Maryland in College Park (her DMA) is likewise shared with [[people/i-ling-chen|I-Ling Chen]] (DMA, 2002) and with [[people/yi-hsin-lin|Yi-Hsin Lin]] (principal of the University of Maryland Symphony) per their TAH profiles.
 - The College Park campus TA community is itself in the vault: see [[organizations/taiwanese-american-student-association-at-the-university-of-maryland-college-park||UMD College Park Taiwanese American Student Association]].
+
+## deepen pass 2026-09-14（DEEPEN-X slice 09112200-12）
+
+- 新增語料庫脈絡連結：她取得 DMA 的 University of Maryland in College Park 於 TA.org 語料庫另有活動條目，如 [[works/taiwaneseamerican-org/night-market-at-university-of-maryland||TA：UMD 校園夜市集會條目]]、[[works/taiwaneseamerican-org/taiwanese-movie-festival-at-university-of-maryland||TA：UMD 台灣電影節條目]]（僅作母校於語料庫之脈絡，非本人事蹟）。
+- Peabody Conservatory、Howard Community College、MTNA、MSMTA、Friday Morning Music Club、Octtava Piano Duo 於 vault 目前無對應頁面，故未新增連結；既有連結（yi-hsin-lin、i-ling-chen、UMD TASA）經核對皆存在，未新建頁面、未上網、無虛構事蹟。

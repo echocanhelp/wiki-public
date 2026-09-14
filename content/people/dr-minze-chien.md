@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # Dr. Minze Chien (簡明子博士)
 
@@ -57,3 +57,8 @@ _Compiled from this page's own Employment table — no new facts._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+## deepen pass 2026-09-14（DEEPEN-X slice 09112200-12）
+
+- 新增連結：他兩度擔任會長的 FAPA 華府分會，於 TAH 百科語料庫有專屬條目頁 [[works/taiwaneseamericanhistory-org/20-greate-washington-dc-chapter-chapter-fapa||TAH：FAPA Great Washington D.C. Chapter]]；FAPA 全國總覽另見 [[works/taiwaneseamericanhistory-org/1-fapa||TAH：FAPA]]。此為本頁 Employment 表既有事實（FAPA DC Chapter President 1998–1999, 2013–2017）之語料庫對應，非新增傳記事實。
+- 既有連結（TAA-GWC、TASTA、UMD 台灣同學會、TASS、TAH #68／#1832 條目頁）已逐一核對為 vault 實際存在頁面；未新建頁面、未上網、無虛構事蹟。
