@@ -10,7 +10,7 @@ tags:
 name_en: "Phoenix Ko"
 name_zh_hanzi: "柯貝昀"
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 source_note: "TAHS 2025 org chart 財務 柯貝昀; owner confirmed = Phoenix Ko (2026-08-03)"
 ---
 # Phoenix Ko (柯貝昀)
@@ -46,7 +46,8 @@ Private phones and LINE U-ids are **not** published here.
 
 - **2025** — Serves as **財務 (Finance)** on the TAHS 2025 organization chart (柯貝昀); owner confirmed LINE display **Phoenix Ko** (2026-08-03).
 - **2026-09-10** — DEEPEN-X11 re-check against [[organizations/taiwanese-american-historical-society||the TAHS 2025 org-chart page]]: cross-links verified both directions; no further vault-internal facts (education, occupation, prior terms absent from the source set).
-- **2026-09-11** — DEEPEN-X slice 31 re-check: org-chart network cross-links verified both directions; no additional vault-side facts available.
+- **2026-09-11** — DEEPEN-X slice 31 re-check
+- **2026-09-14** — DEEPEN-X slice 22 re-check: org-chart cross-links re-verified both directions; the vault source set (2025 org chart + owner confirmation 2026-08-03) still yields no additional biographical facts.: org-chart network cross-links verified both directions; no additional vault-side facts available.
 
 ## Network
 

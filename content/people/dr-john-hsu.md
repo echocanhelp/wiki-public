@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # Dr. John Hsu (徐新宏博士)
 
@@ -54,6 +54,9 @@ Accomplishment
 ## Vault Holdings
 - [[works/taiwaneseamericanhistory-org/ota-287||TAH #287 encyclopedia: Dr. John Hsu 徐新宏博士]]
 - [[works/taiwaneseamericanhistory-org/whos-who-873-john-hsu||TAH #873 encyclopedia: Dr. John Hsu 徐新宏博士]]
+
+## Same-person cross-link (deepen 2026-09-14)
+- The fuller biography of the same person (徐新宏, born 1947 Miaoli; spouse **陳麗華** matches the Family field above; founded **J.H. Biotech, Inc.** 1987, Chairman/CEO of 佳和企業集團) is on vault page [[people/hsu-hsin-hung||Hsu Hsin-hung (徐新宏)]], sourced from [[sources/2017-tahs-publication||the 2017 TAHS publication]]. That page cross-links back here.
 
 ## Sources
 - [TAH #287 encyclopedia: 287. Dr. John Hsu 徐新宏博士](https://taiwaneseamericanhistory.org/ota-287/)

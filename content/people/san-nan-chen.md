@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # San-Nan Chen (陳珊喃)
 
@@ -49,6 +49,9 @@ _No filled family fields on the TAH profile._
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - [[works/taiwaneseamericanhistory-org/215-san-nan-chen-e9-99-b3-e7-8f-8a-e5-96-83-pianist201506||TAH #215: San-Nan Chen 陳珊喃, Pianist (2015/06)]]
 - [[works/taiwaneseamericanhistory-org/451-san-nan-chen-e9-99-b3-e7-8f-8a-e5-96-83-201506||TAH #451: San-Nan Chen 陳珊喃 (2015/06)]]
+
+## Deepen note (2026-09-14)
+- Vault-internal cross-link: colleague at **Intercultural Montessori Language School** — [[people/wan-lin-tsai||Wan-Lin Tsai (蔡宛霖)]], who shares the same B.S. Elementary Education program at National Taipei University of Education (per both TAH Who's Who profiles in [[sources/taiwaneseamericanhistory-org||the TAH archive]]).
 
 ## Connected in the Vault
 - Encyclopedia records: [[works/taiwaneseamericanhistory-org/215-san-nan-chen-e9-99-b3-e7-8f-8a-e5-96-83-pianist201506||TAH #215 — Pianist]] and [[works/taiwaneseamericanhistory-org/451-san-nan-chen-e9-99-b3-e7-8f-8a-e5-96-83-201506||TAH #451]] (both 2015/06).

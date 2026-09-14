@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # Youming Chen (陳猶明)
 
@@ -40,6 +40,7 @@ Absorbed from the TAH profile text above:
 - At the 58th Coleman Chamber Ensemble Competition (California), the Fader Quartet won the Saunderson Award; also appeared with the Michigan Chamber Players and at Ann Arbor Chamber Fest 2002.
 - Doctor of Musical Arts candidate at Rutgers University under Paul Neubauer and Toby Appel; Master's degree with [[people/hsin-yun-huang||Hsin-Yun Huang]] at the Juilliard School (see also fellow Juilliard-trained TA musician [[people/anne-ku-2||Anne Ku]]); Bachelor's degree from the University of Michigan with Yizhak Schotten.
 - Per the employment table: concertmaster (副首席) of the Flint Symphony Orchestra and principal guest (客任首席) of the Ann Arbor Symphony Orchestra.
+- Note on the Education table: 密西根大學 (University of Michigan) B.S. Music and 茱麗亞音樂學院 (Juilliard) M.S. 中提琴 (viola) match the narrative degrees above.
 
 ## Family
 
@@ -50,9 +51,15 @@ _No filled family fields on the TAH profile._
 - [TAH #787 encyclopedia: 787. Youming Chen 陳猶明/ 2016/01](https://taiwaneseamericanhistory.org/787-youming-chen-%e9%99%b3%e7%8c%b6%e6%98%8e-201601/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/youming-chen/)
 
+## Vault records (deepen pass 2026-09-14)
+
+- [[works/taiwaneseamericanhistory-org/326-youming-chen-e9-99-b3-e7-8c-b6-e6-98-8e-violist-201601||TAH #326 encyclopedia page]] exists in the vault as a bibliographic record (2016-01-31); #787 likewise. Neither carries additional narrative beyond the profile text above.
+- Reciprocal cross-link: [[people/shih-yin-chen||Shih-Yin Chen]]'s vault page already lists Chen as a "fellow TAH-listed Taiwan-born classical musician with New York training"; this page reciprocates that link.
+- He also appears in the TAH source-hub index at [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]].
+
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - [[people/anne-ku-2||Anne Ku]] — fellow Juilliard-trained Taiwanese American musician
 - [[people/hsin-yun-huang||Hsin-Yun Huang]] — violist named as Chen's Juilliard teacher
-- [[people/shih-yin-chen||Shih-Yin Chen]] — fellow TAH-listed Taiwan-born classical musician with New York training
+- [[people/shih-yin-chen||Shih-Yin Chen]] — fellow TAH-listed Taiwan-born classical musician with New York training (reciprocal link confirmed on her page)

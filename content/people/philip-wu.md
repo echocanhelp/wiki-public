@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # Philip Wu (吳庭和)
 
@@ -50,6 +50,12 @@ Absorbed from the profile text, Employment table, and cited TAH encyclopedia ent
 - Community leadership — president of the [[organizations/formosan-association-for-human-rights|Formosan Association For Human Rights (台灣人權協會)]], of the [[organizations/taiwanese-american-federation-of-n-california|Taiwanese American Federation of Northern California (北加州台灣同鄉聯合會)]], and of the [[organizations/east-bay-taiwanese-association|East Bay Taiwanese Association (北加州東灣台灣同鄉會)]]; also president of the Taiwanese American Association/USA (全美台灣同鄉會).
 - Wife: 王秀蓉.
 
+## Vault records (deepen pass 2026-09-14)
+
+Absorbed from [[works/taiwaneseamericanhistory-org/ourjourneys38-eng||TAH #38: TAFNC Thirty Year Review (Ching C. Shir)]], already cited on this page's source corpus:
+- Wu was the **Twenty-eighth President of the Taiwanese American Federation of Northern California (TAFNC)**. The TAFNC 30-year review names him alongside [[people/may-sing-chang||May-Sing Chang]] (wife of 20th President Shinn-Sheng Chang) as "both master vocalists," and records that the concerts they held in the Bay Area "are unforgettable, for they used beautiful music to express the inner desires of the Taiwanese people, thereby initiating a boom in Taiwanese cultural activities in Northern California" (context: 1991–1992, under Presidents Chi-chang Wu and Shinn-Sheng Chang).
+- Corroborates the Employment table's TAFNC presidency; the review's president roster places his term after Shun Hua Yu (26th) and Li-tu Chen (27th), i.e. early 2000s.
+
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
@@ -57,3 +63,6 @@ Absorbed from the profile text, Employment table, and cited TAH encyclopedia ent
 - [[works/taiwaneseamericanhistory-org/124-phi-lip-wu-e5-90-b3-e5-ba-ad-e5-92-8c-tenor-201501||TAH #124: Philip Wu, Tenor]]
 - [[works/taiwaneseamericanhistory-org/whos-who-238-philip-wu||TAH #238: Philip Wu 吳庭和]]
 - [[works/taiwaneseamericanhistory-org/ota-252||TAH #252: Philip Wu 吳庭和]]
+- [[works/taiwaneseamericanhistory-org/ourjourneys38-eng||TAH #38: TAFNC Thirty Year Review]] — names Wu as 28th TAFNC President
+- [[people/may-sing-chang||May-Sing Chang]] — fellow master vocalist, co-cited in the TAFNC review
+- [[organizations/taiwanese-american-federation-of-n-california||Taiwanese American Federation of Northern California]] — Wu served as its 28th President
