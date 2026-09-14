@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-13
+last_reviewed: 2026-09-14
 ---
 # Ruth Yeh (葉李麗貞)
 
@@ -49,7 +49,7 @@ Absorbed from the profile text, Employment table, and cited TAH encyclopedia ent
 - Pioneering "firsts" recorded in the TAH encyclopedia: first nurse (TAH #85, 1956), first Marriage and Family Therapist 第一位婚姻與家庭治療師 (TAH #86, 1985), and first family and marriage clinic (TAH #99, 1986).
 - President of a Family and Marriage Clinic; psychotherapist (心理治療師) at the Family Enrichment Center.
 - Received the Lifetime Achievement Award from the Texas Association for Marriage and Family Therapy (2020).
-- Writer: columnist for the 路德信箱 column in 台灣公論報, author of 成功的溝通—從家庭開始 (2010); her life story is told in 楊遠薰's 人生若夢─心理治療家葉李麗貞的故事.
+- Writer: columnist for the 路德信箱 column in 台灣公論報, author of 成功的溝通—從家庭開始 (2010); her life story is told in [[people/yang-yuanxun||楊遠薰]]'s 人生若夢─心理治療家葉李麗貞的故事.
 - Husband: 葉國勢.
 
 ## Related Pages
