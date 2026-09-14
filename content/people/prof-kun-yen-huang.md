@@ -61,6 +61,10 @@ Accomplishment
 - 所引三筆 TAH 記錄均已入庫：[[works/taiwaneseamericanhistory-org/senior-taiwanese-american-12||TAH #12（2019-08-28，Senior Taiwanese American 專輯）]]、[[works/taiwaneseamericanhistory-org/ota-294||TAH #294（OTA）]]、[[works/taiwaneseamericanhistory-org/whos-who-828-kun-yen-huang||TAH Who's Who #828]]。三筆均為書目級記錄（value band B），全文留存在 vault；上方 Timeline 與 Education/Employment 即出自該等記錄之 TAH tables，無另行補充之新傳記事實。
 - 夫人 [[people/hwei-mei-amyhuang||謝惠美]] 另有獨立即人頁面；三女黃岫清、黃岫安、黃岫寧暫無個人頁面。
 
+## Role in the Community
+
+- 陳淮崇回憶錄〈138. 華府與巴城TAA的誕生〉（2015-05，band A 第一手社群史料）記述：1960 年代中期華府地區台灣人圈中，「在 NIH 等國家級機關做研究的」即包括「後來成為台灣成功大學醫學院創辦人的黃崑巖」，與楊基焜、林明璋、黃泰郎等並列——印證其留美早期（1963–1968 海軍醫學研究所時期，與本頁 Timeline 相符）即屬華府／巴城早期台美社群的核心學術成員：[[works/taiwaneseamericanhistory-org/ourjourneys-138||TAH #138：華府與巴城TAA的誕生／陳淮崇]]。
+
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[works/taiwaneseamericanhistory-org/senior-taiwanese-american-12||TAH Encyclopedia #12: Prof. Kun-Yen Huang 黃崑巖教授]]

@@ -47,6 +47,11 @@ Absorbed from vault pages already held for him (no web):
 - [[works/taiwaneseamericanhistory-org/ourjourneys186||TAH #186]] lists him among the advisors (顧問) of the 台美公民協會籌備委員會 (台灣公論報 #369, 1985-04-15).
 - During his 1973–2007 USC years, the vault's USC Taiwanese-American community page is [[organizations/taiwanese-american-organization-at-the-university-of-southern-california||TAO at USC]].
 
+Absorbed from the taiwanjustice.net community-press corpus (2026-09-14 pass):
+
+- 2020-01-24 — 以冠狀病毒專家身分發表〈武漢冠狀病毒的省思〉（源於其臉書貼文，經社區媒體轉載），建議關閉野生動物市場、隔離病人、一般口罩即可等 evidence-based 建言；其夫人（專業醫師）評為「經驗加科學根據，平實中肯」：[[articles/taiwanjustice-net/2025/20250621165819_武漢冠狀病毒的省思-_冠狀病毒專家賴明詔教授_f6cb790fb8ad2725||武漢冠狀病毒的省思（2020-01-24 刊）]]。
+- 2022-01-23 — 受邀以視訊主講北美洲台灣人醫師協會（NAMA）南加分會年會，題目〈新冠肺炎病毒及疫苗〉；該報導稱其在臺灣有「冠狀病毒之父」美譽，與上方 TAH #252 標題相符：[[articles/taiwanjustice-net/2022/20220519124831_2022_01_20_北美洲台灣人醫師協會南加分會1-23舉辦視訊年會_40cc82ac1f384a0d||NAMA 南加分會年會公告（2022-01-20 刊）]]。
+
 ## Timeline
 - 1942 — born (Era per TAH directory)
 - 1968 — M.D., National Taiwan Univ.

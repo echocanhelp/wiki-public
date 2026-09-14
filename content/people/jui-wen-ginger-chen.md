@@ -51,6 +51,10 @@ _No filled family fields on the TAH profile._
 - [TAH #274 encyclopedia: 274. Jui-Wen Ginger Chen, Pianist / 2015/08](https://taiwaneseamericanhistory.org/274-jui-wen-ginger-chen-pianist-201508/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/jui-wen-ginger-chen/)
 
+## Vault Cross-References (deepen pass 2, 2026-09-14, corpus)
+- Second vault record: [[works/taiwaneseamericanhistory-org/545-jui-wen-201508||TAH #545 — Jui-Wen Ginger Chen]] (published 2015-08-22, same batch as #274, B-band).
+- Corpus check: no memoir, newsletter, or oral-history mentions of her beyond these two own-name encyclopedia records — nothing further absorbable.
+
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

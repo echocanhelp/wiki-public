@@ -52,6 +52,13 @@ _No filled family fields on the TAH profile._
 - 台灣政治大學 — 講師
 - 2012 — Died
 
+## Role in the Community (deepen 2026-09-14, corpus pass)
+- 1966-06-18 費城會談（促成 7-4 成立全美台灣獨立聯盟 UFAI）：賴文雄以洛杉磯地區代表身分與會；UFAI 首屆執行委員會任「組織」（與王秋森、邱坤勝、范良信並列）。出處：[[works/taiwaneseamericanhistory-org/ourjourneys81||周烒明起稿《早期威大台灣學生在台灣建國運動所扮演的角色》]]。
+- 1967-06-16 第二屆盟員大會（密蘇里州獨立城）：改任執行委員會「出版」委員。出處：同上。
+- WUFI 世界台獨聯盟棒球賽隊場景：賴文雄與鄭自才一同舉「台灣隊加油」橫幅，口述者立於中央。出處：[[works/taiwaneseamericanhistory-org/ourjourneys62-eng||Our Journeys #62（EN）]]；同期口述另見 [[works/taiwaneseamericanhistory-org/53-george-chang-long-chen-chen-wen-hsong-lai-e5-bc-b5-e7-87-a6-e9-8d-99-e9-99-b3||TAH #53 口述歷史]]。
+- 1979 後人權運動合影（文雄嫂與賴文雄並列第二排，同排有李登山、洪哲勝、艾琳達等）：[[works/taiwaneseamericanhistory-org/our-journeys-363||艾琳達《戒嚴時期關注台灣人權的國際力量》]]。
+- HOLD: existing vault note（黃根深頁）gives his UFI entry as a 1966 introduction by [[people/huang-gen-shen||黃根深]], while the corpus shows him already seated as an LA delegate and co-organizer at the 1966-06-18 founding talks — sequence of entry unreconciled, both kept.
+
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

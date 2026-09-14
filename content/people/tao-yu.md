@@ -63,3 +63,7 @@ Both are band-B bibliographic records; full text stays in the source archive.
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - [[sources/taiwaneseamericanhistory-org-story-corpus||TAH Story Corpus (source hub)]]
+
+## Deepen pass 2026-09-14 (SKIP-with-reason)
+
+- Corpus grep（works/ + articles/）僅命中本人自有之書目紀錄 #6、#677（已列於上方）與 works/index.md，無其他社群文獻提及；無可吸收之新社群事實，故本頁維持原狀。

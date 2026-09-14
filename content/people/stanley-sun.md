@@ -60,3 +60,8 @@ _No filled family fields on the TAH profile._
 ## Vault records (deepen pass 2026-09-14)
 - 本人 TAH 百科條目已入 vault 書目紀錄：#2321（2021-08-05 發布）；全文仍存 TAH 原站，本庫為書目級紀錄。
 - 聖路易求職教與參與 Apollo 11 & 12 月岩研究時期（1971–1973，本頁既有記載）之當地台裔學術社群脈絡，參 [[organizations/taiwanese-scholar-association-in-st-louis-tsa-stl||聖路易台灣學者協會 TSA-STL]]（關聯性待核）。
+
+## Role in the Community
+
+- **USS Hornet 志工人社區紀錄**：TAH 語料庫收有博物館方致謝篇〈795. A Big Thanks to Stanley Sun from USS Hornet — Sea, Air and Space Museum!〉（2021-07-20），從社區角度印證本頁既載 2005–2020 年 Hornet 博物館義職（docent）十五年之貢獻：[[works/taiwaneseamericanhistory-org/my-stories-795||TAH #795（2021-07-20）]]。
+- **台大校友公共參與**：2018-07 以南台大氣系校友身分，連署〈抗議南加州台大校友會邀管中閔來年會做專題演講〉校友公開信（taiwanjustice.net 刊出）：[[articles/taiwanjustice-net/2018/20180721091303_2018_07_20_抗議-南加州台大校友會邀管中閔來年會做專題演講_a428dcebbceacf38||校友連署聲明（2018-07-20 刊）]]。
