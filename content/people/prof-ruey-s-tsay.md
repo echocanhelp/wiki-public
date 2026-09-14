@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # Prof. Ruey S. Tsay (蔡瑞胸教授)
 
@@ -46,3 +46,4 @@ _No filled family fields on the TAH profile._
 - 本頁 TAH 出處之 Vault 頁面：[[works/taiwaneseamericanhistory-org/whos-who-1793-ruey-s-tsay||TAH 1793. Prof. Ruey S. Tsay 蔡瑞胸教授]]。
 - publisher／語料庫：[[sources/taiwaneseamericanhistory-org-story-corpus||TAH story corpus]]。
 - 同語料庫蔡氏家族參照：[[people/dr-kuen-shii-tsay||Dr. Kuen-Shii Tsay 蔡坤喜醫師]]、[[people/prof-andy-tsay||Prof. Andy Tsay 蔡安達教授]]。
+- 複核（2026-09-14）：出處 TAH #1793 為書目記錄，無可再吸收之新事实；本页以既有連結為準。

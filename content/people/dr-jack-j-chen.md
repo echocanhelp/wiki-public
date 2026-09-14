@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # Dr. Jack J. Chen (陳宏傑教授)
 
@@ -36,7 +36,7 @@ last_reviewed: 2026-09-11
 
 - **Wife:** Gina
 - **Daughter:** Faith, Sophia
-- **Father:** Jeff Chen (陳哲夫)
+- **Father:** [[people/chen-zhefu-xu-chunhui||Jeff Chen 陳哲夫]]（1937–1995）— 與妻許春惠自 $2,000 _seed 投資建立南加州飯店事業、深參與台美人社區領導；詳見夫婦頁
 - **Mother:** [[people/julie-chen||Julie H. Chen 許春惠]] — TAH 紀錄：1941 年生、台南市、國立臺灣師範大學家政系、企業家；詳見該頁
 
 
@@ -52,3 +52,4 @@ last_reviewed: 2026-09-11
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- 雙親：[[people/chen-zhefu-xu-chunhui||Chen Zhefu & Xu Chunhui 陳哲夫、許春惠]]（TAHS 2023 出版人物頁）

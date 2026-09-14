@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # Amy Chun-Ting Chao (趙君婷)
 
@@ -45,5 +45,6 @@ _No filled family fields on the TAH profile._
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/amy-chun-ting-chao/)
 
 ## Related Pages
+- 皮博迪學院所屬大學的台美學生社團：[[organizations/johns-hopkins-university-taiwanese-student-association||JHU Taiwanese Student Association]]、[[organizations/taiwanese-american-students-association-at-johns-hopkins-university||TASA at Johns Hopkins]]
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

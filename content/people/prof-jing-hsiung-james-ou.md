@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # Prof. Jing-Hsiung James Ou (歐競雄教授)
 
@@ -44,5 +44,7 @@ _No filled family fields on the TAH profile._
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-jing-hsiung-james-ou/)
 
 ## Related Pages
+- USC 任職期間的台美社團：[[organizations/taiwanese-american-organization-at-the-university-of-southern-california||TAO at USC]]
+- 學生時代的南加州台美社團網絡：[[organizations/taiwanese-student-association-at-the-university-of-southern-california||TSA at USC]]
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

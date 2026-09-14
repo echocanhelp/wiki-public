@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # Charlene Chen (陳怡林)
 
@@ -48,5 +48,7 @@ Accomplishment
 Her community role at the [[organizations/taiwanese-american-foundation||Taiwanese American Foundation]] (Director 2007-2008, later youth-programs adviser) is documented in the TAH profile above.
 
 ## Related Pages
+- 求學階段：[[organizations/duke-taiwanese-student-association||Duke Taiwanese Student Association]]、[[organizations/taiwanese-student-association-at-uc-berkeley||TSA at UC Berkeley]]
+- 她曾任職的基金會：[[organizations/taiwanese-american-foundation||Taiwanese American Foundation]]
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

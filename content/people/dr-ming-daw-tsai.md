@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # Dr. Ming-Daw Tsai (蔡明道博士)
 
@@ -45,3 +45,8 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- [[sources/taiwaneseamericanhistory-org-story-corpus||TAH story corpus]]
+- [[organizations/taiwanese-student-association-at-ohio-state-university||Ohio State 台灣學生會]] — 同校台裔社團脈絡
+
+## Vault records（deepen pass 2026-09-14）
+- 複核：出處 TAH #1839 為書目記錄，無可再吸收之新事实；本页以既有連結為準。

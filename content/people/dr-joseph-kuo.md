@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # Dr. Joseph Kuo (郭正昭博士)
 
@@ -41,6 +41,7 @@ last_reviewed: 2026-09-11
 ## Vault Holdings
 - [[works/taiwaneseamericanhistory-org/whos-who-46-joseph-kuo||TAH #46: Dr. Joseph Kuo 郭正昭博士 encyclopedia entry]] — earlier TAH encyclopedia record of the same person
 - [[works/taiwaneseamericanhistory-org/natpa-new-yorknew-jersey-chapter||NATPA New York/New Jersey Chapter]] — he served as chapter president 1998–1999
+- [[works/taiwaneseamericanhistory-org/natpa||NATPA 北美洲台灣人教授協會]] — 上述分會所屬母會的 vault 記錄
 - [[organizations/the-great-new-york-region-oversea-taiwanese-pen-club||The Great New York Region Oversea Taiwanese Pen Club]] — he served as president
 
 ## Sources

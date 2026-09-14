@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # Shih-han Erika Chiu (邱詩涵)
 
@@ -47,5 +47,7 @@ _No filled family fields on the TAH profile._
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/shih-han-erika-chiu/)
 
 ## Related Pages
+- 求學所在地（奧克拉荷馬）的台美人社團：[[organizations/taiwanese-association-of-oklahoma||TAA Oklahoma]]
+- 求學所在地（科羅拉多）的台美人社團：[[organizations/taiwanese-association-of-america-colorado||TAA Colorado]]
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # Taiwanese-American Elite Foundation (台美智庫基金會)
 
@@ -24,6 +24,8 @@ The Taiwanese-American Elite Foundation (台美智庫基金會) is an organizati
 ## Vault Cross-References
 - TAH directory work page: [[works/taiwaneseamericanhistory-org/5-taiwanese-american-ellite-foundation||TAH #5 — Taiwanese-American Ellite Foundation]]
 - Related org: [[organizations/taiwan-elite-alliance||Taiwan Elite Alliance]]
+- 創辦人：[[people/professor-schuman-s-tu||杜新茂（Schuman Tu）]]（TAH #97 伯樂計畫一文作者）與 [[people/liao-shu-zong||廖述宗]]（1931–2017，生化學家、NATPA 創辦人；詳見該頁）
+- 勿與加州組織 [[organizations/taiwan-elite-alliancetea||Taiwan Elite Alliance TEA（優社）]] 混淆：TEA 2000 年由 Josephine Pan 於加州成立、2007 年立案，旨趣為台美藝文與人權
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

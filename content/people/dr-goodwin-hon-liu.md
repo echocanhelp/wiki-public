@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # Dr. Goodwin Hon Liu (劉弘威博士)
 
@@ -50,6 +50,12 @@ last_reviewed: 2026-09-11
 - [[works/taiwaneseamericanhistory-org/whos-who-109-goodwin-hon-liu|TAH Who's Who #109 — Dr. Goodwin Hon Liu 劉弘威博士]]
 - [[works/taiwaneseamericanhistory-org/3-goodwin-liu-e5-8a-89-e5-bc-98-e5-a8-81|TAH #3 — Goodwin Liu 劉弘威]]
 - [[works/taiwaneseamericanhistory-org/goodwin-liu|TAH — Goodwin Liu]]
+- [[works/taiwaneseamerican-org/president-obama-nominates-taiwanese-american-goodwin-liu-for-the-ninth-circuit|TA — 歐巴馬提名劉弘威出任聯邦第九巡迴上訴法院法官]]
+- [[works/taiwaneseamerican-org/confirmation-hearing-for-nominee-goodwin-liu-to-the-u-s-court-of-appeals|TA — 劉弘威第九巡迴上訴法院提名聽證會]]
+- [[works/taiwaneseamerican-org/confirmation-hearing-events-for-nominee-goodwin-liu-to-the-u-s-court-of-appeals|TA — 劉弘威提名聽證會事件記錄]]
+
+## Vault records（deepen pass 2026-09-14）
+- 本頁 TAH 出處均為書目記錄（全文在 TAH）。Vault 另藏 [[sources/taiwaneseamericanhistory-org-story-corpus|TAH story corpus]] 相關報導：歐巴馬總統曾提名劉弘威出任聯邦第九巡迴上訴法院法官（見上列 taiwaneseamerican-org 記錄）。
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
