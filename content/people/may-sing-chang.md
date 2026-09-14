@@ -28,6 +28,7 @@ May-Sing studied music in college, and had a lot of concert experience since gra
 - 1982 — emigrated to the United States; continued music studies
 - 1987 — M.S., Opera — Oklahoma City University; [[organizations/taiwanese-association-of-oklahoma||Taiwanese Association of Oklahoma]] active in the local Taiwanese community
 - Invited performer several times at [[organizations/north-america-taiwanese-womens-association||NATWA]] conventions
+- Authored the essay 《北加州台灣會館的誕生》 — [[works/taiwaneseamericanhistory-org/ourjourneys24|TAH Our Journeys #24 (黃美星, 2014/09)]]; her recital is also recalled in [[works/taiwaneseamericanhistory-org/ourjourneys38|Our Journeys #38 北加州台灣同鄉聯合會三十年回顧]] (as 張信行夫人, 聲樂高手, 1992 台灣文化之夜)
 - Married to 張信行; both were key promoters of the Taiwan Center (TAH #21, 楊寧茵, 2014/09)
 - Profiled in [[works/taiwaneseamericanhistory-org/195-may-sing-chang||TAH encyclopedia #195]]
 

@@ -67,3 +67,4 @@ _No filled family fields on the TAH profile._
 
 ## Vault re-check (deepen pass 2026-09-14)
 - Both cited encyclopedia records confirmed present in the vault: [[works/taiwaneseamericanhistory-org/whoswho1121|TAH #1121]] and [[works/taiwaneseamericanhistory-org/musician113|TAH #113]]. No new biography added; the page's biography, education, and employment facts are already fully absorbed in the Timeline above.
+- Vault mention found: in [[works/taiwaneseamericanhistory-org/ourjourneys301|TAH Our Journeys #301 (林衡哲, 2017/07)]] 吳昭麗 is named among the 北美文協室內樂團 players at the 1989 台灣文化之夜 (with 郭雋律、郭雋音、林俊信、劉召岑) — consistent with her California origins and pre-Juilliard training years.

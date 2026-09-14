@@ -48,6 +48,7 @@ Wenhsiung (Luke) Huang 黃文雄 – History of Taiwanese American (T.A. Archive
 - [[works/taiwaneseamericanhistory-org/468-peter-huang-e9-bb-83-e6-96-87-e9-9b-84-201506|TAH #468：Peter Huang 黃文雄（人物是否同一人，未驗證）]]
 - [[works/taiwaneseamericanhistory-org/photo-albums-historical-19|TAH #19：黃文雄 424刺蔣事件（1970/4/24，人物是否同一人，未驗證）]] — vault page for the cited #19 photo entry
 - The 《刺蔣》紀錄片 and 陳榮成、吳富美《1970四二四刺蔣案內情再公開》 already linked below remain the vault's main depth sources for the 刺蔣事件 question.
+- Additional vault records naming a 黃文雄 in the 刺蔣 context (same person-identity caveat applies): [[works/taiwaneseamericanhistory-org/milestones14|TAH Milestones #14 — 4/24/1970 Peter Huang 黃文雄 attempted to shoot C.K. Chiang, NYC]] and [[works/taiwaneseamericanhistory-org/728-e9-bb-83-e6-96-87-e9-9b-84-e5-bf-97-e5-a3-ab-e8-90-ac-e6-ad-b2-e5-8f-b0-e7-8|TAH #728 — 黃文雄志士萬歲!!／台灣青年 1970/5]]. Note also [[organizations/irvine-taiwanese-presbyterian-church|ITPC]] lists a Dr. 黃文雄 (皮膚科), a different specialty from this pediatric profile — likely a distinct person.
 
 ## Family
 
