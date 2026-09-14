@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # North America Pastel Artist Association (北美粉彩畫家協會)
 
@@ -29,3 +29,7 @@ The North America Pastel Artists Association (NAPAA) was founded in 1997 in New 
 - 本页简介之 TAH 出处页：[[works/taiwaneseamericanhistory-org/north-america-pastel-artist-association||TAH 协会简介页（中英文）]]、[[works/taiwaneseamericanhistory-org/3-north-america-pastel-artist-association-exhibitions||TAH #3 NAPAA exhibitions]]。
 - 创办人（Master Pastelist 張哲雄）：[[people/jason-chang||Jason Chang 張哲雄]]；其个展记录：[[works/taiwaneseamericanhistory-org/35-pastel-exhibition-jason-chang-2019||TAH #35 Pastel Exhibition Jason Chang (2019)]]。
 - 本页所载展览场地：[[organizations/taiwan-center||Taiwan Center]]、[[works/taiwaneseamericanhistory-org/taiwan-center-annual-international-pastel-open-juried-exhibition||Taiwan Center International Pastel Open Juried Exhibition]]。
+
+## Vault records（deepen pass 2026-09-14）
+- 創辦人 Jason Chang 之其餘 TAH 紀錄：[[works/taiwaneseamericanhistory-org/118-mr-jason-chang-e5-bc-b5-e5-93-b2-e9-9b-84-e5-85-88-e7-94-9f-first-master-of-||TAH #118 Jason Chang 第一位粉彩大師（2009）]]、[[works/taiwaneseamericanhistory-org/141-mr-jason-chang-e5-bc-b5-e5-93-b2-e9-9b-84-e5-85-88-e7-94-9f-founder-and-firs||TAH #141 Jason Chang 創辦人紀錄]]、[[works/taiwaneseamericanhistory-org/whos-who-180-jason-chang||TAH Who's Who #180 Jason Chang]]、[[works/taiwaneseamericanhistory-org/artist1-jason-chang||vault artist1 Jason Chang]]。
+- 紐約會務場地另見 [[organizations/new-york-taiwan-center||紐約台灣會館]]；語料庫入口：[[sources/taiwaneseamericanhistory-org-story-corpus||TAH 故事語料庫]]。

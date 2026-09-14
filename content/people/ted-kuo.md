@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # Ted Kuo (郭來哲博士)
 
@@ -39,7 +39,7 @@ last_reviewed: 2026-09-11
 
 ## Family
 
-- **Wife:** 楊涵君
+- **Wife:** 楊涵君（TAH #272 書目標題作「楊涵珺」，兩寫並存待查證）
 
 
 ## Sources
@@ -47,7 +47,9 @@ last_reviewed: 2026-09-11
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/ted-kuo/)
 
 ## Connected in the Vault
-- Vault records about them: [[works/taiwaneseamericanhistory-org/mystories75|75. 郭來哲博士的英文語源百科大辭典 / 楊遠薰]] · [[works/taiwaneseamericanhistory-org/ourjourneys12|12. 大紐約區海外台灣人筆會十週年/柯金寅/2014/09]] · [[works/taiwaneseamericanhistory-org/ourjourneys17|17. 紐澤西的將軍日本餐廳 / 李正三 /09/2014]] · [[works/taiwaneseamericanhistory-org/ourjourneys58|58.回憶編印第一本《全美台灣同鄉通訊錄》的甘苦經過 / 陳希寬]]
+- Vault records about them: [[works/taiwaneseamericanhistory-org/ourjourneys17|17. 紐澤西的將軍日本餐廳 / 李正三 /09/2014]] · [[works/taiwaneseamericanhistory-org/ourjourneys58|58.回憶編印第一本《全美台灣同鄉通訊錄》的甘苦經過 / 陳希寬]]
+- （2026-09-14 deepen pass：原列 mystories75、ourjourneys12 兩筆 vault slug 不存在，已移除死連結。）
+- 語料庫入口：[[sources/taiwaneseamericanhistory-org-story-corpus||TAH 故事語料庫]]。
 - Main encyclopedia record: [[works/taiwaneseamericanhistory-org/272-e5-8f-b0-e7-81-a3-e4-ba-ba-e7-9a-84-e7-bf-b9-e6-a5-9a-e9-83-ad-e4-be-86-e5-9|TAH #272 台灣人的翹楚—郭來哲博士、楊涵珺伉儷 / 李素鳳]]
 
 ## Related Pages

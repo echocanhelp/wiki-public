@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # Julie Wong (翁致理)
 
@@ -53,3 +53,7 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+## Vault records（deepen pass 2026-09-14）
+- TAH #46 人物專文（2014-10-11）於 vault 僅存書目紀錄（無正文可吸收）；本頁 Education/Employment 全部延伸事實出自 TAH Who's Who 人物表格。
+- 語料庫入口：[[sources/taiwaneseamericanhistory-org-story-corpus||TAH 故事語料庫]]。
