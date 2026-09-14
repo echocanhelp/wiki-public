@@ -53,6 +53,15 @@ _No filled family fields on the TAH profile._
 - **1988** — died (per TAH #651 title).
 - **Saturation note:** the vault holds no other page asserting facts about 陳翠玉; remaining gaps (WMDT founding year, 台大護校 details) live only in the cited TAH encyclopedia entries.
 
+## Role in the Community
+*(absorbed 2026-09-14 revisit pass from the vault corpus)*
+
+- NATWA (北美洲臺灣婦女會) records her as a member who, from NATWA's founding, actively urged members of 穩得 (Women's Movement for Democracy in Taiwan, WMDT — which she founded) to participate in NATWA. Her quoted maxim, preserved in the NATWA memoir [[works/taiwaneseamericanhistory-org/ourjourneys60|Our Journeys]]: 「教育一個男人只是教育一個人，而教育一個女人則是教育整個家庭」.
+- The same memoir places her death precisely: **1988-08 (mid-August)**, in Taiwan — a sharpening of the era 1917–1988 already on this page, consistent with the TAH #651 title 護理界的英雌─陳翠玉（1917－1988）. No conflict; date narrowed, not merged.
+- The corpus carries a full biography of her by 李錦容, 台灣女英雄陳翠玉 (2001, rev. 2009): [[works/taiwaneseamericanhistory-org/publications26|TAH #26]]. Her TAH encyclopedia entries are themselves corpus works: [[works/taiwaneseamericanhistory-org/senior-taiwanese-american-20|TAH #20]], [[works/taiwaneseamericanhistory-org/119-stella-landauer|TAH #119]], [[works/taiwaneseamericanhistory-org/whos-who-1303-stella-landauer|TAH #1303]].
+- NATWA's tribute names [[people/elena-ling|黃美惠 Elena Ling]] alongside her, situating her in the early NATWA/WMDT women's-movement network.
+- **Saturation note:** the corpus's distinctive new fact is the WMDT→NATWA pipeline and the mid-August 1988 death date; WMDT's founding year remains absent from the vault.
+
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

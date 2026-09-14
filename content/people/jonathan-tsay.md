@@ -55,6 +55,10 @@ His TAH encyclopedia records are held in the vault as community historical recor
 - [[works/taiwaneseamericanhistory-org/musician375|TAH #375 — Jonathan Tsay 蔡宇明, Pianist (2016/11)]]
 - [[works/taiwaneseamericanhistory-org/whoswho1413|TAH #1413 — Jonathan Tsay 蔡宇明 (2016/11)]]
 
+## Corpus check (2026-09-14)
+
+SKIP-with-reason: a corpus grep for 蔡宇明 / Jonathan Tsay over `content/works` and `content/articles` returns only his own TAH catalogue records ([[works/taiwaneseamericanhistory-org/musician375|#375]], [[works/taiwaneseamericanhistory-org/whoswho1413|#1413]] — already listed in Vault Holdings) and the works index. No memoir or movement-record content exists to absorb; this page remains press-kit biography only.
+
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[organizations/taiwanese-american-historical-society||TAHS]]

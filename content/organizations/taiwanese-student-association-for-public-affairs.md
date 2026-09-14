@@ -40,3 +40,6 @@ TSAPA is the University of Washington chapter of the Taiwanese Student Associati
 ## Timeline
 - 2003 — 2003 SARS 期間中國阻擾國際援台，促使創會
 - 2014-10-12 — TAH directory story 紀錄刊出
+
+## Deepen pass (2026-09-14, slice 31)
+- **SKIP-with-reason (corpus scan):** grep of `content/works` + `content/articles` for TSAPA / 台灣公共事務學生會 returns only its own TAH #16 directory record (already linked in Vault Holdings) and the corpus index. No memoir or community-record mentions — nothing further absorbable beyond the directory narrative.

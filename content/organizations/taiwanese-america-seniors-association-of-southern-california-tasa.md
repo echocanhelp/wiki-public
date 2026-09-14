@@ -27,6 +27,9 @@ The Taiwanese-America Seniors Association of Southern California (TASA) is a com
 - [[works/taiwaneseamericanhistory-org/860-e5-8d-97-e5-8a-a0-e5-b7-9e-e5-8f-b0-e7-81-a3-e4-ba-ba-e9-95-b7-e8-bc-a9-e6-9||南加州台灣人長輩會 35週年年會特刊]] (2015-03) — the 35th-anniversary special issue
 - [[works/taiwaneseamericanhistory-org/newsletter-senior-asso||TASA newsletter record]] (2018-12-15)
 - Related directory page: [[organizations/taiwanese-american-seniors-association-of-southern-california||Taiwanese American Seniors Association of Southern California]]; TASA appears as a group member in [[organizations/taiwan-center||Taiwan Center]].
+- [[works/taiwaneseamericanhistory-org/2-activities-of-taiwanese-america-seniors-association-of-southern-california||TAH record #2: 南加州台灣人長輩會各式活動]] — the association's own activities record in the story corpus, corroborating the monthly social/recreational programming described above.
+- [[works/taiwaneseamericanhistory-org/taiwan-american-folk-rite||TAH record #1: 南加州台灣人長輩會 台美式民俗成年禮]] — documents TASA's Taiwanese-American folk coming-of-age ceremony program, an activity not previously recorded on this page.
+- Corpus-match note: corpus greps for "TASA" also return ITASA records ([[works/taiwaneseamericanhistory-org/history-of-itasa|history of ITASA]], [[works/taiwaneseamericanhistory-org/176-in-memory-of-my-son-keimay-yang-a-devoted-supporter-of-itasa-by-mrs-agnes-wu||#176 紀念 Keimay Yang]]). ITASA is a **distinct** seniors organization, not this one — no facts absorbed from those records.
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

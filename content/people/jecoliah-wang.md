@@ -43,6 +43,10 @@ Jecoliah Wang started playing violin at age of six. At fourteen she performed as
 
 _No filled family fields on the TAH profile._
 
+## Corpus check (2026-09-14)
+
+SKIP-with-reason: a corpus grep for 王欣慈 / Jecoliah Wang over `content/works` and `content/articles` returns only her own TAH catalogue records (#48, #546 — already wikilinked below) and the works index. No memoir or movement-record content exists to absorb; this page remains press-kit biography only.
+
 ## Sources
 - [TAH #546 encyclopedia: 546. Jecoliah Wang 王欣慈 / 2015/08](https://taiwaneseamericanhistory.org/546-jecoliah-wang-%e7%8e%8b%e6%ac%a3%e6%85%88-201508/)
 - [TAH #48 encyclopedia: 48. Jecoliah Wang 王欣慈, Violinist/2014/10](https://taiwaneseamericanhistory.org/48-jecoliah-wang-%e7%8e%8b%e6%ac%a3%e6%85%88-violin/)

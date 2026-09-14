@@ -41,6 +41,11 @@ A native of Taiwan, Leslie Ho enjoys a diverse musical career in performing, tea
 - **Present** — Whittier College 教授小提琴、中提琴；Christian Zion Church Youth 指揮
 - Rio Hondo Symphony 首席（Concertmaster）
 
+## Role in the Community
+
+- TAHS 語料庫收有他本人的兩篇 TAH 百科條目，為其主要原始材料：[[works/taiwaneseamericanhistory-org/123-leslie-ho-violinist-201501|TAH #123 Leslie Ho 何炳宏, Violinist]]、[[works/taiwaneseamericanhistory-org/9872|TAH #231 Leslie Ho 何炳宏]]（皆 2015-01-26 入庫）
+- 語料庫其餘提及僅為同名误配（如《Betrayed Formosa》影評中的演員 Leslie Hope），非本人事跡
+
 ## Family
 
 _No filled family fields on the TAH profile._

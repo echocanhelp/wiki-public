@@ -58,6 +58,10 @@ Peer members listed in the same L1 block, useful for disambiguating LINE display
 - **2026-08** — Listed on TAHS LINE L1 roster as Kevin Lee (ZH pending).
 - **2026-09** — Roster entry re-reviewed; identity remains LINE-membership-only, no biography asserted.
 
+## Corpus scan (2026-09-14, slice 31)
+
+- **SKIP-with-reason (identity unconfirmed):** the only `content/works` + `content/articles` hit for "Kevin Lee" is a TaiwaneseAmerican.org interview page ([[works/taiwaneseamerican-org/apa-artists-on-overcoming-racism-stereotypes||APA Artists on Overcoming Racism & Stereotypes]]), which credits a "Junior High Program counselors Kevin Lee" at the **2009** Taiwanese American Foundation Summer Conference. No hanzi or other linkage ties that 2009 conference counselor to the current TAHS LINE member — merging on an English surname+given alone is barred by roster policy, so nothing was absorbed. If owner confirms they are the same person, the 2009 TAF Summer Conference counselor role becomes absorbable timeline material.
+
 ## Sources
 
 - `knowledge/operational/tahs-priority-roster.md` — L1 LINE block (file lives at echo-system repo root, outside content/)

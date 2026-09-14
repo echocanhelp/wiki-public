@@ -61,3 +61,8 @@ Prof. Shirley Cheng Tsai 鄭秀蘭教授 – History of Taiwanese American (T.A.
 - [[works/taiwaneseamericanhistory-org/45-prof-shirley-cheng-tsai||TAH #45 encyclopedia entry: Prof. Shirley Cheng Tsai 鄭秀蘭教授]]（vault 記錄發布日 2018-08-24）
 - [[works/taiwaneseamericanhistory-org/whos-who-369-shirley-cheng-tsai||TAH Who's Who #369: Prof. Shirley Cheng Tsai 鄭秀蘭教授]]（vault 記錄發布日 2015-04-16）
 - [[people/prof-chen-s-tsai||Husband: Prof. Chen S. Tsai (蔡振水)]]
+
+## Role in the Community (deepen 2026-09-14, slice 09141213-32)
+
+- **Corpus author:** she contributed her own memoir essay 「追求夢想的幸福女兒」 (published 2015-04-13) to the 台美史料中心 story corpus — vault record [[works/taiwaneseamericanhistory-org/227-e8-bf-bd-e6-b1-82-e5-a4-a2-e6-83-b3-e7-9a-84-e5-b9-b8-e7-a6-8f-e5-a5-b3-e5-8||TAH #227]]. This makes her a first-person source for the Taiwanese American scientific-generational record (NTU Chem. Eng. 1963 → Caltech Ph.D. 1969 → industry → CSULB).
+- No other memoir mentions of her in works/ or articles/; her encyclopedia records remain TAH #45 / #369.

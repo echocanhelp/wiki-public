@@ -45,6 +45,12 @@ _No filled family fields on the TAH profile._
 - [[works/taiwaneseamericanhistory-org/activities-of-the-greater-new-york-region-overseas-taiwanese-pen-club||Pen Club activities record]]
 - [[works/taiwaneseamericanhistory-org/110-martin-tsai||TAH #110 record]] · [[works/taiwaneseamericanhistory-org/whos-who-365-martin-tsai||TAH #365 record]]
 
+## Role in the Community (absorbed from corpus, 2026-09-14)
+- **NY Taiwan Center founding cadre (1983):** as president of the Taiwanese American Association of New York, Martin Tsai pledged at a Taiwan Day event to fight for an overseas Taiwanese meeting place — the memoirist's first encounter with the "Taiwan Center" idea ([[works/taiwaneseamericanhistory-org/ourjourneys9-eng||Our Journeys 9, English edition]]). At the founding Executive Committee meeting of 1983-11-23 in Dr. Hong-Tien Lai's office he was elected **Deputy Chairman** (with Cheng-Bin Ku) under Chairman Lung-Fong Chen, and took charge of the **fundraising group**, against a plan to raise US$500,000 in six months (same record; Chinese edition [[works/taiwaneseamericanhistory-org/ourjourneys09||Our Journeys 9]]).
+- **NY Taiwan Center elder-care governance:** in the 2003 reorganisation of the Center's senior center (老人中心管理委員會, operating from 2004-01), 蔡明峰 sat as one of three board-of-director commissioners alongside 陳春蘭 and 尤欽德 ([[works/taiwaneseamericanhistory-org/ourjourneys316||Our Journeys 316]]).
+- **Pen Club patron:** the Pen Club's ten-year memoir records him — as 海外台灣網 founder and former 紐約台灣會館董事長 — repeatedly telling its photographer that few club annual meetings he had attended matched the Pen Club's success; the memoirist also recalls late-night manuscript checks at the Tsai home and 蔡夫人's beef noodles ([[works/taiwaneseamericanhistory-org/ourjourneys12||Our Journeys 12 — Pen Club ten-year history]]).
+- **Seattle visit:** invited to the Seattle Taiwan Center's opening period, his earlier skepticism about the dilapidated预定地 turned into admiration — "兩對夫婦30多年都這麼熱心，令人感動！" ([[works/taiwaneseamericanhistory-org/ourjourneys30||Our Journeys 30 — 西雅圖台灣會館]]; English edition [[works/taiwaneseamericanhistory-org/ourjourneys30-eng||Our Journeys 30, English edition]]).
+
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
