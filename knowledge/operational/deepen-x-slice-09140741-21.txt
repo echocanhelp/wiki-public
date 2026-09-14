@@ -1,0 +1,4 @@
+organizations/tainan-east-gate-barclay-memorial-church.md
+people/eileen-lo.md
+people/janice-wong.md
+people/prof-ju-shey-ho.md

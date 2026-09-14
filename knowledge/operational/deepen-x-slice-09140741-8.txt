@@ -1,0 +1,4 @@
+organizations/north-american-taiwanese-medical-association-foundation.md
+people/andrew-yang.md
+people/sharon-huang.md
+people/joseph-teng.md
