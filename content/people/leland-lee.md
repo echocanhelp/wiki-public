@@ -51,6 +51,9 @@ TAH records held in this vault:
 - [TAH #14 encyclopedia: 14. 李柏毅 Leland Lee](https://taiwaneseamericanhistory.org/artist14-leland-lee/)
 - [TAH Who's Who](https://taiwaneseamericanhistory.org/person/leland-lee/)
 
+## Corpus cross-reference（deepen 2026-09-14）
+- HOLD: conflict — 語料庫唯一其他hits [[works/taiwaneseamericanhistory-org/our-journeys-373|TAH #373 The Overseas Taiwanese Student Movement And Its Impact on Post-Sunflower Movement Politics]]（New Bloom, 2021/06）提及「Lee Bo-yi (李柏毅)」為倫敦 Formosa Salon 發起人之一、後當選台湾國家建設聯合中心常務委員；以其留英學生背景與本頁 1989 年生洛杉磯自閉症藝術家之生平無法對應，疑似同名異人，不併入本頁。
+
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

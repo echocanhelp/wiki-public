@@ -62,3 +62,5 @@ _No filled family fields on the TAH profile._
 - 本人 TAH 百科條目的 vault 工作頁：[[works/taiwaneseamericanhistory-org/690-joanne-chang-e5-bc-b5-e7-93-8a-e6-96-87-201511|TAH #690 條目（2015/11）]]、[[works/taiwaneseamericanhistory-org/313-joanne-chang-e5-bc-b5-e7-93-8a-e6-96-87-pianist-201511|TAH #313 條目（2015/11）]]（兩則皆 2015-11-07 發布，書目級紀錄）。
 - 求學脈絡（哥倫比亞大學 Ph.D.，本頁既有記載）：[[organizations/columbia-university-taiwanese-student-association|哥倫比亞大學台美同學會]]。
 - 居住紐約、任教市立大學之社區脈絡（本頁既有記載）：[[organizations/new-york-taiwan-center|紐約台灣會館]]（關聯性待核）。
+- 同名辨析（corpus check 2026-09-14）：vault 內 [[works/taiwaneseamericanhistory-org/whoswho1598|TAH #1598「Joanne Chang 張柔安」（2017/04）]] 及 TA.org 兩篇 Flour Bakery（波士頓麵包店創辦人）報導為**另一位 Joanne Chang（張柔安）**，非本頁鋼琴家張瓊文。HOLD: 同英文名不同漢名，請勿合併。
+- 本次 corpus 掃描除本人既有兩則條目外無可吸收之社群事證。

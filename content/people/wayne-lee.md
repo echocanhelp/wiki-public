@@ -52,6 +52,11 @@ _No filled family fields on the TAH profile._
 - 所属 Formosa Quartet 專輯存於 vault：[[works/taiwaneseamericanhistory-org/6-e7-a6-8f-e7-88-be-e6-91-a9-e6-b2-99-e5-9b-9b-e9-87-8d-e5-a5-8f|TAH #6 Formosa Quartet 福爾摩沙四重奏（2014-10 刊）]]；團員另見 [[people/che-yen-chen||Che-Yen Chen 陳則言]]。
 - publisher／語料庫：[[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]。
 
+## Role in the Community（deepen 2026-09-14，自本會語料庫吸收）
+- 與鋼琴家妻子 Juliana Han 共同擔任灣區 Piedmont Chamber Music Festival 共同創辦人／共同總監；2018-06-05 二人接受 taiwaneseamerican.org 專訪（Anna Wu 訪問），談該音樂節、Formosa Quartet 與音樂旅程：[[works/taiwaneseamerican-org/juliana-wayne-interview|Piedmont Chamber Music Festival 專訪（2018-06）]]。
+- HOLD: conflict — 本頁與 TAH #733 記其為小提琴家（violinist），TAH #322 條目標題則記「pianist」；兩條目同為 2015-12 刊，不逕行合併。
+- 同名異人警示：TAH [[works/taiwaneseamericanhistory-org/whoswho1284|TAH #1284（2016/09）「Wayne Lee 李煒鈞」]]漢名不同（李煒鈞≠李家瑋），疑似另一位同名人士，未併入本頁。
+
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
