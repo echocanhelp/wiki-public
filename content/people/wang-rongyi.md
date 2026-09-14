@@ -79,3 +79,7 @@ Absorbed from the cited class-listing source (`taiwancenter-org-class-informatio
 ## Deepen — 2026-09-13 (vault-only)
 
 The Saturday choir he teaches has its own vault page: [[organizations/taiwan-center-choir||Taiwan Center Choir]] — now linked from this page's class listing above. All other links re-verified against live vault slugs (taiwan-center, taiwan-center-foundation-of-greater-los-angeles, taiwancenter-org hub, co-instructor people pages, three Taiwan Center event pages): all exist. No new vault facts beyond the choir-page link.
+
+## Deepen — 2026-09-14 (vault-only re-check)
+
+Cited class-listing source (`taiwancenter-org-class-information.md`) fully absorbed; no additional vault pages mention 王榮義. All wikilinks (choir org page, Taiwan Center org + foundation, taiwancenter.org hub, co-instructors, event pages) resolve to existing slugs. No new vault facts, no web used, nothing published.

@@ -56,3 +56,6 @@ _No filled family fields on the TAH profile._
 
 ## Vault re-check 2026-09-13 (deepen-x slice 24, vault-only)
 All wikilink targets verified to exist in the vault; all cited-source facts already absorbed in the 2026-09-10/11 deepen passes — no new vault facts found, no web used, no new pages, nothing published.
+
+## Deepen — 2026-09-14 (vault-only re-check)
+TAH Who's Who profile fully absorbed into the timeline/tables; biography truncation ("American Choral Direc…") is in the source itself, not a vault gap. Existing links to [[people/amanda-hsu||Amanda Hsu]], [[people/frank-c-h-chen||Frank C. H. Chen]], and the Taiwanese Youth Arts Foundation all resolve; Glorystar Children's Chorus, Shih-Chien College, SFCM, and the DC-area churches still have no vault pages and stay plain text.
