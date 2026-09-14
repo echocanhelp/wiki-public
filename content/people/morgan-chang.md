@@ -46,6 +46,14 @@ Accomplishment
 - 本頁 Accomplishment 所載「海外台灣基督徒聯合通訊」主編任期 1973-1976，其夫妻連名Record之 vault 出處頁：[[works/taiwaneseamericanhistory-org/ff143||TAH #143 楊宜宜 張富雄／海外台灣基督徒聯合通訊／1973-1996]]（2016-02-08 發布）。
 - 台灣之音連名出處頁 [[works/taiwaneseamericanhistory-org/144-e6-a5-8a-e5-ae-9c-e5-ae-9c-e5-bc-b5-e5-af-8c-e9-9b-84-e5-8f-b0-e7-81-a3-e4-b||TAH #144]]。
 
+## Role in the Community（deepen pass 2026-09-14，語料庫吸收）
+
+- **美東夏令會催生者（1973）**：1973年7月19日起，於紐約奥尔巴尼南方 Camp Taconic 合辦「美東基督徒第四屆夏令會」與「美東台灣同鄉會第一屆夏令會」，張富雄任同鄉會負責人（New York），與鄭寶鼎（NJ）、吳明基・黃東昇（Pittsburgh）、李豐明（Upstate NY）共同帶領；夏令會後美東夏令會年年延續，美西、美南、中西部相繼跟進，成為全美會區域性主要活動之一。出處：[[works/taiwaneseamericanhistory-org/ourjourneys76||TAH Our Journeys #76（全美會會史・中文版）]]、[[works/taiwaneseamericanhistory-org/ourjourneys76-eng||英文版]]。
+- **「台灣之音」構想源頭**：台灣之音（Voice of Taiwan）非廣播電台，而是以電話答錄機留言功能即時傳遞消息的另類媒體；構想來自紐約的張富雄、楊宜宜夫婦，紐約台自 1977-05-01 開播至 1982-02-26 結束（近五年）；灣區分台 1979-04-01 開播，歐、日、南美亦相繼設台。與本頁 Employment 所載「Voice of Taiwan — Co-Founder」相符。出處：[[works/taiwaneseamericanhistory-org/our-journeys-357||TAH Our Journeys #357（海外台灣人認同與另類媒體研究文）]]。
+- **訪談回憶（同文記錄）**：1969年赴哥倫比亞大學留學時，在校園宿舍見到標語「Free China is neither free nor China」，引發其反思成長過程、走上自我認同追尋之路。
+- **台灣會館憧憬**：與陳隆豐、彭良治、魏瑞明、陳阿火、辜澄彬等弟兄在談話中同抱「台灣樓」「台灣會館」的的共同夢（海外遊子共同願景，後發展為台灣會館運動）。出處：[[works/taiwaneseamericanhistory-org/ourjourneys09||TAH Our Journeys #09（台灣會館回憶錄）]]。
+- **和平契友聯絡網**：台北和平教會契友紐約地區主要聯絡員之一，參與歷屆夏令會聯繫，並參與第一屆夏令會教材（Herein Is Love）年份考證。出處：[[works/taiwaneseamericanhistory-org/ourjourneys268||TAH Our Journeys #268（和平契友夏令會回憶）]]。
+
 ## Sources
 - [TAH #2195 encyclopedia: 2195. Morgan Chang 張富雄](https://taiwaneseamericanhistory.org/whos-who-2195-morgan-chang/)
 - [TAH #200 encyclopedia: 200.  Morgan Chang  張富雄](https://taiwaneseamericanhistory.org/200-morgan-chang/)

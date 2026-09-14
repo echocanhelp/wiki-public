@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-08
+last_reviewed: 2026-09-14
 ---
 # Shante Shaw Sean Chen (陳善哲)
 
@@ -36,6 +36,11 @@ Industrial-design trained artist (Carnegie-Mellon B.S. 1990) working in Washingt
 - **Son:** Travis Kiran Chen
 - **Father:** 陳哲仁
 - **Mother:** [[people/enchin-shaw-chen||蕭永真]]
+
+## Role in the Community
+*(revisit pass 2026-09-14 — corpus-link only)*
+
+- Corpus scan (works/ + articles/) found a single mention: his own TAH artist encyclopedia entry, held in the vault as a **bibliographic record only** ("Full text stays in the vault") — [[works/taiwaneseamericanhistory-org/artist61-shante-shawsean-chen|TAH #61 陳善哲 Shante Shaw(Sean) Chen]]. No memoir or community narrative in the corpus to absorb — **SKIP-with-reason**: the only absorbable action was linking his own work page; TAH #209/#870 have no corresponding work pages in the vault.
 
 
 ## Sources

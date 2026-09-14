@@ -63,3 +63,6 @@ _No filled family fields on the TAH profile._
 - [[organizations/presbyterian-church-in-taiwan||PCT]] — TAH Who’s Who
 - [[people/alice-chen||Alice Chen (陳祐慈)]] — organ teacher at Taiwan Theological College & Seminary
 - [[works/taiwaneseamericanhistory-org/295-shu-hui-janet-tsai-e8-94-a1-e6-b7-91-e6-85-a7-201510||TAH #295: Shu-Hui Janet Tsai / 2015/10]]
+
+## deepen 2026-09-14
+- 語料庫再比對：除已連結的 TAH #295 外，另有本人傳記記錄 [[works/taiwaneseamericanhistory-org/20649||TAH #644 Shu-Hui Janet Tsai 蔡淑慧／2015/10]]（2015-10-03 發布）。除本人 Record 外，回憶錄語料庫中無他人記述可吸收之社群事績。

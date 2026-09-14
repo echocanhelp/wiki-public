@@ -54,3 +54,6 @@ _No filled family fields on the TAH profile._
 - [[works/taiwaneseamericanhistory-org/whoswho1407||TAH encyclopedia #1407: Cindy Chen 陳欣意]]
 - [[works/taiwaneseamericanhistory-org/musician373||TAH encyclopedia #373: Cindy Chen 陳欣意, harpist]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+## deepen 2026-09-14
+- SKIP-with-reason: 語料庫檢索（陳欣意 / Cindy Chen）僅命中本人 Record（TAH #373、#1407，本頁已連結）、works/index 目錄列項，以及同名異人 Cindy Cheng（[[works/taiwaneseamerican-org/a-pilgrimage-creative-nonfiction-by-cindy-cheng||A Pilgrimage by Cindy Cheng]]，非本人）。無可吸收之社群事跡。

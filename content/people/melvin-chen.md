@@ -51,3 +51,6 @@ _No filled family fields on the TAH profile._
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - [[organizations/taiwanese-american-society-at-yale||Taiwanese American Society at Yale]]
 - Vault records of the cited entries: [[works/taiwaneseamericanhistory-org/434-pianist-sharon-how||TAH #434 encyclopedia]], [[works/taiwaneseamericanhistory-org/mystories434||TAH mystories #434]]
+
+## deepen 2026-09-14
+- SKIP-with-reason: 語料庫檢索（陳意超 / Melvin Chen）僅命中本人 Record（TAH #434，本頁已連結）與 works/index 目錄列項，無他人回憶錄或社群事跡可吸收。
