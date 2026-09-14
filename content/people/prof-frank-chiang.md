@@ -61,7 +61,7 @@ last_reviewed: 2026-09-14
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - [[works/taiwaneseamericanhistory-org/natpa||NATPA 北美洲台灣人教授協會]] — 1998–1999 總會長
 - [[organizations/north-america-taiwanese-professors-sc||NATPA 南加州分會]] — 同協會分會（地域關聯，非本人職務）
-- [[works/taiwaneseamericanhistory-org/36-new-york-manhattan-chapter-fapa||FAPA 紐約曼哈頓分會]] — 本人任會長之紐約分會（1991–1992）
+- [[works/taiwaneseamericanhistory-org/36-new-york-manhattan-chapter-fapa||FAPA 紐約曼哈頓分會]] — 本人 1991–1992 任會長之「FAPA 紐約分會」相關分會紀錄（是否同一分會待查）
 - [[works/taiwaneseamericanhistory-org/19-georgia-chapter-fapa||FAPA 喬治亞分會]] — 任教所在地分會（地域關聯）
 - [[organizations/taiwanese-association-of-america-the-greater-chicago||TAA 大芝加哥]] — 就學所在地（Univ. of Chicago, JD 1967）社團，地域關聯
 - [[organizations/taiwanese-american-students-association-of-northwestern-university||Northwestern 台美同學會]] — 就學所在地社團，地域關聯
