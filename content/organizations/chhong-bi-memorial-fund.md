@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # Chhong-bi Memorial Fund (聰美姐紀念基會)
 
@@ -44,3 +44,7 @@ The Chhong-bi Memorial Fund was established in April 1993 in memory of a selfles
 
 ## Deepen pass (2026-09-11)
 - 台文通訊歷期刊物已在 vault，本次補上連結。未新增外部事實。
+
+## Deepen pass (2026-09-14)
+- 自既有 vault 引用吸收：紀念對象為**伊藤聰美**（ITO Chhong-bi）——見本頁已引用之 vault 紀錄 [[works/taiwaneseamericanhistory-org/ito-chhong-bi-memorial-fund|65. ITO Chhong-bi Memorial Fund 伊藤聰美紀念基金（紐約衛鄉台灣教會，2016-08-23 刊）]]；其醫生丈夫同赴尼泊爾義診、十年匿名捐助『Taiwan Youth』之事蹟出自本頁 TAH 目錄條目，維持原載。
+- 無新增外部事實；台文通訊歷期 vault 連結維持原樣。

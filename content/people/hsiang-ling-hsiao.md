@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # Hsiang-Ling Hsiao (蕭湘舲)
 
@@ -57,3 +57,7 @@ _No filled family fields on the TAH profile._
 - Collaborative-pianist training under Professor Rita Sloan at the University of Maryland; opera and art-song experience through Maryland Opera Studio productions.
 - Won third prize in the 2011 UMD Concerto Competition and performed Rachmaninoff's First Piano Concerto with the University of Maryland Repertory Orchestra.
 - Pianist at 聖經教會樂道堂.
+
+## Deepen pass (2026-09-14)
+- 複核兩筆 TAH 百科引用（#34 2014/10、#515 2015/07）均為書目級紀錄：頁內傳記、學歷、工作、時間線已完整反映既有引用內容，本次無可再吸收之新增事實。
+- 親屬欄維持「TAH 檔案無資料」。導師 Rita Sloan、聖經教會樂道堂目前無既有頁面：不建頁、不臆造傳記。

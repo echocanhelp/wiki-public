@@ -10,7 +10,7 @@ tags:
   - TPC
   - Presbyterian
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # Rev. Tsai Weiren (蔡維仁)
 
@@ -72,3 +72,7 @@ Pages that link to **cai-weiren** (cai-weiren):
 2. GSTPC40 黃德利「那些人，那些事」— seven counselors
 3. GSTPC40 潘淑姃 — first call committee hired 蔡維仁
 4. [[organizations/good-shepherd-taiwanese-presbyterian-church||GSTPC]]
+
+## Deepen pass (2026-09-14)
+- 複核 GSTPC40 三篇引用（本人「數算恩典邁步前行」、黃德利「那些人，那些事」、潘淑姃）：頁內年份、第二任牧師 2006–2016、首批七位青少輔導之一等事實均已落檔，本次無新增外部事實。
+- 同批後任牧者 **黃授正、林雍迪** 仍無獨立頁面：維持文字提及，不建頁。頁內 wikilink 全部指向既有頁面（GSTPC、david-huang、logos-evangelical-seminary、irvine-taiwanese-presbyterian-church）。

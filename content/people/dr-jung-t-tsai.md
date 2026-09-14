@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # Dr. Jung T. Tsai (蔡榮聰醫師)
 
@@ -63,3 +63,7 @@ Accomplishment
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - [[organizations/north-america-taiwanese-medical-association-foundation||North American Taiwanese Medical Association (NATMA)]]
 - [[organizations/the-great-new-york-region-oversea-taiwanese-pen-club||The Great New York Region Oversea Taiwanese Pen Club]]
+
+## Deepen pass (2026-09-14)
+- 名字拼寫待核（HOLD，不自動合併）：vault 條目 [[works/taiwaneseamericanhistory-org/215-dr-long-tsung-tsai-e8-94-a1-e6-a6-ae-e8-81-b0-e9-86-ab-e5-b8-ab-the-first-pr|TAH #215]] 標題作「Dr. **Long Tsung** Tsai」，漢名與 #183／Who's Who #165「蔡榮聰醫師」相同；暫並列記錄，待確認後再統一。
+- 1971 年 M.D. 母校之美國校友紀錄維持：[[works/taiwaneseamericanhistory-org/china-medical-university|中國醫藥學院全美國校友會總會]]。
