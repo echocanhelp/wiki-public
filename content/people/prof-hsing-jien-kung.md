@@ -56,3 +56,4 @@ _No filled family fields on the TAH profile._
 ## Deepen pass (2026-09-14)
 - 吸收表列學經歷至傳記段（無新增外部事實）。
 - 傳記行所引「台美史料中心」補上 vault 介紹頁連結（已核頁存在）。
+- 複核：vault 本人記錄僅 #1781 一條（連結已到位）。國衛院、加州理工、臺北醫學大學、UC Davis 癌症中心目前無對應 vault 頁面，未加連結。
