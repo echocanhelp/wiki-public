@@ -7,7 +7,7 @@ tags:
   - Taiwan-Center
   - board
 verification_status: published
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # Simon Lin (林榮松)
 
@@ -90,3 +90,7 @@ Pages that link to **simon-lin** (simon-lin):
 - [[people/wei-boji||Wei Boji (魏博基)]]
 - [[people/xu-shitan||Xu Shitan (徐士坦)]]
 - [[people/wang-rongyi||Wang Rongyi (王榮義)]]
+
+## Vault re-check 2026-09-14 (deepen-x slice 6, vault-only)
+- All 37 wikilink targets re-verified to exist in the vault. The board role (執行長, TWCLA), the 2016 當選董事長 record, the 2020 僑務諮詢委員獲聘行政院政務顧問 record, and the 2025 228追思 roll-call note were all absorbed from the taiwanjustice.net tier2 archive in prior passes; no further biography exists in the vault source set.
+- No web used, no new pages created, nothing published.

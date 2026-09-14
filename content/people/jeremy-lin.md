@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # Jeremy Lin (林書豪)
 
@@ -58,3 +58,7 @@ Growing up, Jeremy realized that teammates on his basketball team all came from 
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - Archival records in the vault: [[works/taiwaneseamericanhistory-org/11-jeremy-lin|TAH #11]] · [[works/taiwaneseamericanhistory-org/21-jeremy-lin-e6-9e-97-e6-9b-b8-e8-b1-aa-the-first-t-a-professional-basketball-p|TAH #21]] · [[works/taiwaneseamericanhistory-org/195-e6-9e-97-e6-9b-b8-e8-b1-aa-jeremy-lin-the-first-person-to-be-recruited-by-nb|TAH #195]] · [[works/taiwaneseamericanhistory-org/11509|TAH #203 台美人的榮耀]] · [[works/taiwaneseamericanhistory-org/videos113|TAH #113 台灣演義影片]] · [[works/taiwaneseamericanhistory-org/whos-who-530-jeremy-lin|TAH Who's Who #53]]
+
+## Vault re-check 2026-09-14 (deepen-x slice 6, vault-only)
+- All wikilink targets re-verified to exist. All six cited TAH encyclopedia records (#11, #21, #53, #113, #195, #203) resolve to vault works pages; family fields (林繼明, 吳信信) have no vault person pages, left unlinked.
+- Career sequence (Warriors 2010–2011 → Knicks Linsanity 2011–2012 → Rockets → Lakers → Hornets → Nets → Hawks → Raptors; New Taipei Kings 2023–2025) and Jeremy Lin Foundation founder role remain the consolidated vault record. No web used, no new pages created, nothing published.

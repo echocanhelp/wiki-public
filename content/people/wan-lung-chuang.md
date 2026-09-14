@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # Wan-Lung Chuang (莊婉玲)
 
@@ -69,3 +69,7 @@ _No filled family fields on the TAH profile._
 
 ## Vault re-check 2026-09-11 (deepen-x slice 7, vault-only)
 All wikilink targets on this page verified to exist in the vault; all cited-source facts were already absorbed in the prior deepen pass. No new vault facts found, no web used, no new pages created, nothing published.
+
+## Vault re-check 2026-09-14 (deepen-x slice 6, vault-only)
+- All wikilink targets re-verified to exist; the Career and Timeline sections remain consistent with the TAH #1757 / #414 records held in the vault, and the dual Wan-Lung / Wan-Ling spelling is still recorded as-is, unresolved.
+- No new vault facts found, no web used, no new pages created, nothing published.
