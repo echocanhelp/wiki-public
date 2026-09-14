@@ -9,7 +9,7 @@ tags:
   - line-group
   - Taiwanese-American
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 source_note: "LINE group displayName Kevin Lee; ZH pending; distinct from David Lee / 李東璞 and Yi Sen Lee / 李意盛"
 ---
 
@@ -29,19 +29,29 @@ source_note: "LINE group displayName Kevin Lee; ZH pending; distinct from David 
 
 Documented on the TAHS LINE group member list used for the L1 priority roster (2026-08). No public biography is invented here; facts are limited to community membership signals until a Chinese name or chart role is confirmed.
 
-## Disambiguation
+## Open questions (roster close-loop)
 
-Do **not** conflate with:
+From the L1 roster block in `knowledge/operational/tahs-priority-roster.md`:
 
-- [[people/david-lee||David Lee (李東璞)]] — LINE display often includes `(Work)`
-- [[people/yi-sen-lee||Yi Sen Lee (李意盛)]] — LINE display `Yi Lee`; chart 特別助理
+- **Chinese name (Hanji):** pending owner confirmation — the roster row records `*(pending ZH)*`.
+- **Chart role:** none recorded; no 2025 TAHS chart role is asserted for this page.
+- **Identity collision:** must not be merged into [[people/david-lee||David Lee (李東璞)]] or [[people/yi-sen-lee||Yi Sen Lee (李意盛)]] on surname alone.
 
 ## Network
 
-- [[organizations/taiwanese-american-historical-society||TAHS]]
-- [[people/david-lee||David Lee (李東璞)]] — distinct person
-- [[people/yi-sen-lee||Yi Sen Lee (李意盛)]] — distinct person
+- [[organizations/taiwanese-american-historical-society||TAHS]] — the community he is documented in
 - [[people/leonard-hsu-jr||Leonard Hsu Jr.]] — TAHS President
+- Distinct people sharing the surname: [[people/david-lee||David Lee (李東璞)]] — LINE display often includes `(Work)`; [[people/yi-sen-lee||Yi Sen Lee (李意盛)]] — LINE display `Yi Lee`, chart 特別助理
+
+### Same roster band (L1 — LINE core group)
+
+Peer members listed in the same L1 block, useful for disambiguating LINE display names:
+
+- [[people/rex-chen||Rex Chen (陳乃光)]]
+- [[people/ashton-hsu||Ashton Hsu (許思敦)]]
+- [[people/albert-s-lai||Albert S. Lai (賴信雄)]]
+- [[people/phoenix-ko||Phoenix Ko (柯貝昀)]]
+- [[people/willy-pan||Willy Pan (潘建宇)]] — LINE display `Will`
 
 ## Timeline
 
@@ -58,3 +68,5 @@ Do **not** conflate with:
 - [[organizations/taiwanese-american-historical-society||TAHS]]
 - [[people/david-lee||David Lee]]
 - [[people/yi-sen-lee||Yi Sen Lee]]
+- [[people/rex-chen||Rex Chen]]
+- [[people/willy-pan||Willy Pan]]
