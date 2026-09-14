@@ -69,7 +69,8 @@ Absorbed from this page's own cited TAH tables; no new external facts:
 
 ## Deepen — 2026-09-14 (vault-only pass)
 
-Re-checked this page's cited TAH records; no new external facts, one additional existing-page link:
+Re-checked this page's cited TAH records; no new external facts, two additional existing-page links:
 
 - His Yale Divinity School years (M.Div. 1967, S.T.M. 1968) are additionally contextualized by the vault's [[organizations/taiwanese-american-society-at-yale||Taiwanese American Society at Yale]], which documents the same Yale Taiwanese community alongside the [[organizations/yale-taiwanese-student-association||Yale Taiwanese Student Association]].
 - His FAPA/Pennsylvania Chapter founding sits within the same FAPA chapter structure recorded in the vault at [[organizations/fapa-los-angeles||FAPA Los Angeles]] and [[organizations/fapa-orange-county||FAPA Orange County]].
+- His 美東台灣人夏令會 convener role has no East-Coast conference page in the vault (only the west-coast counterpart [[organizations/the-board-of-taiwanese-american-conferences-west-coast-tac-wc||TAC-WC]] exists); his source record is [[works/taiwaneseamericanhistory-org/whos-who-1691-james-i-cheng||TAH Who's Who #1691]] and his denominational root is [[organizations/presbyterian-church-in-taiwan||PCT]] — cross-link pass DEEPEN-X09140107-4, no new pages created.

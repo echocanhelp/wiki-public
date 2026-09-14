@@ -38,7 +38,6 @@ Absorbed from the TAH profile text and the encyclopedia entries already held in 
 ## Employment
 - Arizona Lyric Opera — 舞台總監
 - Sierrra音樂藝術學校 — 聲樂及音樂劇場教學
-
 <!-- tah-tables:end -->
 
 ## Family

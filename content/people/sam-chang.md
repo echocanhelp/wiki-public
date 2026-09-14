@@ -52,6 +52,7 @@ Absorbed from vault pages already citing this profile (no new sources):
 - Per [[people/franklin-ping-cheng||Franklin Ping Cheng]]'s 會長謝詞 context, the 2017 yearbook introduced four prominent TA entrepreneurs and outstanding second-generation leaders — among them Sam Chang alongside [[people/katherine-huang||Katherine Huang]], [[people/lisa-su||Lisa Su]], and [[people/shawna-yang-ryan||Shawna Yang Ryan]].
 - The [[sources/2017-tahs-publication||2017 TAHS Publication]] hub lists him as 張善良 (Sam Chang) — Hotel developer, 紐約台裔.
 - Fellow developer [[people/wang-gui-rong||王桂榮 (Wang Gui-rong)]] appears in the same community-developer layer of the vault.
+- **2026-09-14 (DEEPEN-X09140107-4):** cross-link pass — the publishing body [[organizations/taiwanese-american-historical-society||TAHS]], compiler [[people/zhou-wei-liang||周威廉 (Zhou Weiliang)]], 會長 [[people/franklin-ping-cheng||Franklin Ping Cheng]] and all three co-profiled leaders resolve to existing pages; no further vault-internal biographical facts exist for him beyond those recorded above.
 
 ## Network
 

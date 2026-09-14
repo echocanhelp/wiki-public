@@ -51,6 +51,8 @@ _No filled family fields on the TAH profile._
 ## Timeline (absorbed 2026-09-10 from profile text on this page)
 - 1992 — joined the Los Angeles Philharmonic as violinist (listed as 首席小提琴 in the employment table); tenure has included international tours across Europe and Asia and recordings on Grammy-winning albums
 - 2005 — solo debut with the L.A. Philharmonic at Walt Disney Concert Hall; again a featured soloist in 2010 and 2014
+- 1989 — at the 台灣文化之夜, played with sister [[people/melody-kuo||Melody Kuo (郭雋律)]] in the 北美文協室內樂團 and gave the premiere of [[people/tyzen-hsiao||蕭泰然 (Tyzen Hsiao)]]'s violin concerto to a standing ovation; 1994 — the sisters performed 夢幻的恆春小調 and Sarasate's 流浪者之歌 (per [[works/taiwaneseamericanhistory-org/ourjourneys301||Our Journeys #301]])
+- 2026-09-14 (DEEPEN-X09140107-4) — cross-link pass: family, event, and source links above all resolve to existing vault pages; the duplicated education row is explained in the note below
 
 ## Family & Vault Connections (deepened 2026-09-10, vault-internal)
 - Mother: [[people/l-m-chen||L. M. Chen (陳麗美)]]; father: 郭順良. Sister: [[people/melody-kuo||Melody Kuo (郭雋律)]], DMA piano (USC) — the sisters are described as a performing "姊妹花" duo.
