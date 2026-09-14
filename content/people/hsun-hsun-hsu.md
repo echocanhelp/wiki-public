@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-13
+last_reviewed: 2026-09-14
 ---
 # Hsun-Hsun Hsu (許恂恂)
 
@@ -62,3 +62,8 @@ Re-verified: on-page TAH biography remains fully absorbed; all wikilink targets 
 
 ## Deepen pass 2026-09-11 (vault-only)
 Her USC vocal-performance years also connect to the vault's [[organizations/taiwanese-american-organization-at-the-university-of-southern-california||Taiwanese American Organization at USC]] (community-layer link; no membership recorded in the TAH source). [[works/taiwaneseamericanhistory-org/82-hsun-hsun-hsu-e8-a8-b1-e6-81-82-e6-81-82conductor||TAH #82]] remains the only vault copy; #356 still has no vault duplicate. No biography beyond the on-page TAH text was added.
+
+## Vault re-check 2026-09-14 (deepen-x slice 09140020-2, vault-only)
+- Correction to the 2026-09-10 note: the #356 encyclopedia record **does** exist in the vault, at [[works/taiwaneseamericanhistory-org/13182||TAH #356: Hsun-Hsun Hsu 許恂恂 (2015-03)]] (bibliographic record; now linked). The prior pass missed it because the vault file is named 13182.md.
+- [[works/taiwaneseamericanhistory-org/ourjourneys340||TAH #340: 寫在泰然音樂節前夕 / 許丕龍 / 2018-08]] names her as conductor of 半音合唱團 (東區) in the 泰然音樂節 216-musicer festival choir — the vault's only other mention of her conducting, consistent with the 指揮 post already in the tables. Linked as community-record context only.
+- No new biography asserted, no web used, no new pages created, nothing published.

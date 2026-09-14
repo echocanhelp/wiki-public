@@ -67,3 +67,7 @@ _No filled family fields on the TAH profile._
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - [[works/taiwaneseamericanhistory-org/videos-160||《刺蔣》紀錄片(典藏版)]]
 - [[works/taiwaneseamericanhistory-org/publications1264||1970四二四刺蔣案內情再公開 / 陳榮成、吳富美]]
+
+## Cross-link check (deepen pass 2026-09-14)
+
+- All cited vault pages verified present: [[works/taiwaneseamericanhistory-org/whoswho1324||#1324 Who's Who]], [[works/taiwaneseamericanhistory-org/photo-albums-historical-19||#19]], [[works/taiwaneseamericanhistory-org/milestones14||Milestones #14]], the #142/#89/#468 photo works, and both 刺蔣 depth sources above. The person-identity caveat (pediatrician vs 4/24刺蔣 黃文雄; ITPC's dermatologist 黃文雄 likely a third person) remains unresolved in the vault source set — `verification_status` stays pending; no new in-vault facts to absorb.
