@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-13
+last_reviewed: 2026-09-14
 ---
 # Prof. C.-T. James Huang (黃正德教授)
 
@@ -64,3 +64,6 @@ _No filled family fields on the TAH profile._
 
 ## Deepen pass 2026-09-11 (vault-only)
 No further vault-internal facts to absorb: the on-page Education/Employment/Timeline tables already mirror [[works/taiwaneseamericanhistory-org/whos-who-2019-c-t-huang||TAH #2019]] in full, and every institutional tie in the biography (NTNU, MIT, NTHU, Cornell, UCI, Harvard) already carries its vault cross-reference or is absent from the vault's org layer. The Grace Yang name-only lead remains unmerged per the HOLD rule.
+
+## Deepen pass 2026-09-14 (vault-only)
+No change to substance: [[works/taiwaneseamericanhistory-org/whos-who-2019-c-t-huang||TAH #2019]] remains the sole source and is fully mirrored. Student-association links (MIT, Cornell, UC Irvine, Harvard) remain context-only — no membership recorded. 台美史料中心 has no vault page, so no link was added.

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-13
+last_reviewed: 2026-09-14
 ---
 # Agnes Hsu (許芝榕)
 
@@ -60,3 +60,6 @@ _No filled family fields on the TAH profile._
 - 2010 — Career Development Grant, Peabody Institute
 - Chamber milestones — Pablo Casals Festival; collaborations with Vladimir Mendelssohn and Gerard Poulet
 - Present — teaching at Jou Music Institute
+
+## Deepen pass 2026-09-14 (vault-only)
+Re-verified: [[works/taiwaneseamericanhistory-org/whoswho1447||TAH #1447]] and [[works/taiwaneseamericanhistory-org/musician378||TAH #378]] are the only vault copies and are already mirrored into the timeline; the Johns Hopkins student-association links stay context-only (no membership recorded). No new facts.

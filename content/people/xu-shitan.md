@@ -7,7 +7,7 @@ tags:
   - Taiwan-Center
   - Taiwan-School
 verification_status: published
-last_reviewed: 2026-09-13
+last_reviewed: 2026-09-14
 ---
 # Xu Shitan (徐士坦)
 
@@ -78,3 +78,6 @@ No further biography is published on the site; no details are invented here.
 
 ## Deepen re-verification 2026-09-11 (vault-only)
 All cited sources and wikilink targets verified present in the vault (Taiwan Center hub, instructor cohort pages). No further unpublished vault facts found; none invented.
+
+## Deepen pass 2026-09-14 (vault-only)
+Re-verified: no new vault facts. Sole record remains the Taiwan Center class-information roster; every wikilink target resolves to an existing vault page. No biography invented.
