@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # Amy Hsieh (謝孟容)
 
@@ -54,4 +54,11 @@ _No filled family fields on the TAH profile._
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
+- [[organizations/taiwanese-american-historical-society|TAHS]] — 傳記資料收錄機構
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+## Vault Cross-References (deepen 2026-09-14, vault-sourced)
+- [[works/taiwaneseamericanhistory-org/musician376||TAH #376 record — Cellist entry]] — bibliographic record (published 2016-12-26)
+- [[works/taiwaneseamericanhistory-org/whoswho1445||TAH #1445 record]] — bibliographic record (same 2016-12-26 publication date, same profile cycle)
+- Vault note: both records carry the same dates as the tables on this page — B.M. Juilliard 2000, M.M. Manhattan School of Music 2002 (the year of her Weill Recital Hall debut as an Artists International New York Debut Award winner), D.M.A. Boston University 2007.
+- No vault pages exist yet for The Juilliard School, Manhattan School of Music, Boston University, Nuance Chamber Ensemble, C'est Bon Chamber Music Academy, Jou Music Institute, or Encore Music & Arts; her Sunnyvale base is Bay Area, outside the vault's Orange County Taiwanese-association cluster.

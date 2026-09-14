@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # Prof. Chung-Yi Hsu (許重義教授)
 
@@ -55,3 +55,9 @@ _No filled family fields on the TAH profile._
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - [[works/taiwaneseamericanhistory-org/ota-298|TAH #298 encyclopedia: Prof. Chung Y. Hsu 許重義教授]] · [[works/taiwaneseamericanhistory-org/whos-who-723-chung-yi-hsu|TAH #723 encyclopedia: Prof. Chung-Yi Hsu 許重義教授]]
+
+## Vault Cross-References (deepen 2026-09-14, vault-sourced)
+- [[works/taiwaneseamericanhistory-org/ota-298||TAH #298 record]] — bibliographic record of the cited encyclopedia entry (published 2019-06-30)
+- [[works/taiwaneseamericanhistory-org/whos-who-723-chung-yi-hsu||TAH #723 record]] — bibliographic record (published 2015-12-05); both entries are held as B-band records with full text at the source, not mirrored
+- Vault note: the two vault records agree with the tables already on this page — the NIH review-board chairmanship 1983–1997 sits inside the MUSC (1981–1989) → Baylor (1989–1993) → Washington Univ. in St. Louis (1993–) professorial sequence, with Taipei Medical Univ. principal from 2002.
+- The vault currently holds a page only for the Southern California chapter, [[organizations/north-america-taiwanese-professors-sc||北美洲台灣人教授協會南加分會]] — not the parent association he led as President; no vault page exists yet for that parent body.

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # Jui-Wen Ginger Chen
 
@@ -54,5 +54,10 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
-- [[organizations/taiwanese-american-students-association-at-northwestern-university|台美西北大學學生會]] — 母校西北大學時期的台美學生組織
+- [[organizations/taiwanese-american-students-association-of-northwestern-university|台美西北大學學生會]] — 母校西北大學時期的台美學生組織（slug 修正： vault 實際頁面為 -of- 而非 -at-）
 - [[organizations/taiwanese-american-historical-society|TAHS]] — 傳記資料收錄機構
+
+## Vault Cross-References (deepen 2026-09-14, vault-sourced)
+- [[works/taiwaneseamericanhistory-org/274-jui-wen-ginger-chen-pianist-201508||TAH #274 record — Pianist entry]] — bibliographic record (published 2015-08-22); B-band record, full text stays at the source
+- Vault note: the employment sequence already carried in this page's TAH tables — piano instructor at Northwestern University and Columbia International University, then Associate Professor at Georgia Perimeter College from 1998 — is the entirety of the teaching record the vault holds.
+- No vault pages exist yet for University of South Carolina at Columbia, Northwestern University, Columbia International University, Georgia Perimeter College, or the Saint-Petersburg Conservatory Piano Institute.

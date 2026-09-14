@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # JEN HSIN LIN (林人信)
 
@@ -60,3 +60,9 @@ _No filled family fields on the TAH profile._
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 - [[organizations/irvine-taiwanese-presbyterian-church||Irvine Taiwanese Presbyterian Church]] (Orange County 台僑社區脈絡)
+
+## Vault Cross-References (deepen 2026-09-14, vault-sourced)
+- [[works/taiwaneseamericanhistory-org/artist60-jen-hsin-lin||TAH artist #60 record]] — bibliographic record (published 2016-03-16)
+- [[works/taiwaneseamericanhistory-org/whos891-jen-hsin-lin||TAH Who's Who #891 record]] — bibliographic record (published 2016-03-15); the two entries were published a day apart in the same cycle, consistent with one 2016-03 profile submission
+- Orange County community context held in the vault (no membership claimed by either record): [[organizations/orange-county-taiwanese-association||Orange County Taiwanese Association]] · [[organizations/irvine-taiwanese-presbyterian-church||Irvine Taiwanese Presbyterian Church]]
+- No vault pages exist yet for the venues already named on this page (台北市立美術館、高雄中正文化中心、台南市立文化中心、Orange County Center for Contemporary Art); 實踐家專 likewise has no vault page.
