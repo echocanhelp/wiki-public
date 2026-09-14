@@ -66,3 +66,7 @@ Dr. Suy Ming (Sam) Chou 周烒明博士 – History of Taiwanese American (T.A. 
 - [[organizations/united-formosans-for-independenceufi||United Formosans for Independence (UFI)]] — co-founder
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+## Deepen — 2026-09-14 (vault-only re-check)
+- Wikilink targets above (NATMA Foundation, NATMA – Southern California Chapter, UFI, and the TAH #121 memorial record) re-verified against live vault slugs; no broken links.
+- The Timeline, Family (wife 吳秀惠) and Legacy sections already absorb every fact present in the cited encyclopedia records (#18, #23, #93, #121, #2155). No further unabsorbed vault facts; no new biography invented.

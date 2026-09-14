@@ -63,3 +63,7 @@ Both story records belong to the [[sources/taiwaneseamericanhistory-org-story-co
 ## Network
 - [[people/keng-yuen-tseng||Keng-Yuen Tseng]] — 2011 Piatigorsky Foundation Montana tour — TAH Who's Who
 - [[organizations/taiwanese-american-charity-and-education-association||TACEA]] — 2011 & 2013 annual concerts, Kennedy Center — TAH Who's Who
+
+## Deepen — 2026-09-14 (vault-only re-check)
+- Both vault story records (TAH #226, TAH #466) and the network links [[people/keng-yuen-tseng||Keng-Yuen Tseng]] and [[organizations/taiwanese-american-charity-and-education-association||TACEA]] re-verified against live vault slugs; no broken links.
+- The Timeline already absorbs all facts present in the cited records (Peabody B.S./M.S., Virginia Symphony 2014–15 season, 2011 Piatigorsky Montana tour, 2011/2013 TACEA Kennedy Center concerts). Family fields are placeholder-only because the source records name no relatives — left unfilled rather than invented.
