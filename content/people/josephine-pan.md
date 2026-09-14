@@ -46,7 +46,7 @@ last_reviewed: 2026-09-14
 
 ## Family
 
-- **Husband:** [[people/thomas-shu||Thomas Shu 許正龍]] — per his own page he is 台灣大學經濟系, and Vice President and Marketing Director of **JT & Tea Inc.**, the same company where Pan is CEO and Managing Director; he is recorded in TAH as 「The first Ambassador of Taiwan Tea 第一任台灣茶葉大使」 (TAH #68).
+- **Husband:** [[people/thomas-shu||Thomas Shu 許正龍]] — per his own page he is 台灣大學經濟系, and Vice President and Marketing Director of **JT & Tea Inc.**, the same company where Pan is CEO and Managing Director; he is recorded in TAH as 「The first Ambassador of Taiwan Tea 第一任台灣茶葉大使」 ([[works/taiwaneseamericanhistory-org/68-thomas-shu-e8-a8-b1-e6-ad-a3-e9-be-8d-the-first-ambassador-of-taiwan-tea-e7-a|TAH #68]], 2007; see also [[works/taiwaneseamericanhistory-org/114-thomas-shu-e8-a8-b1-e6-ad-a3-e9-be-8d|TAH #114]]).
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

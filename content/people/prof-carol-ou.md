@@ -54,6 +54,7 @@ Synthesized from the TAH profile text above and the employment record below (no 
 ## Network & Distinction (vault-internal)
 - **Husband:** James Buswell; the Buswell–Ou Duo pairs her with her husband — violist James Buswell is also named as a duo partner of [[people/ya-fei-chuang||Ya-Fei Chuang]] on that page. Children: Anna and William Buswell.
 - **Distinct from:** [[people/carol-ou-lin||Carol Ou Lin (歐春美)]], a different person — NATWA president (2014–15), TAH #847.
+- **NEC colleague (vault-internal):** [[people/pei-shan-lee||Pei-Shan Lee]] — TAH-recorded pianist who teaches piano ensemble and chamber music at the New England Conservatory, where Ou is cello/chamber faculty, and who also appeared at the Heifetz International Music Institute during Ou's directorship (2006–2015).
 - **Archival record:** [[works/taiwaneseamericanhistory-org/12-prof-carol-ou|TAH #12 encyclopedia]] · [[works/taiwaneseamericanhistory-org/whos-who-570-carol-ou|TAH #570 encyclopedia]] · [[works/taiwaneseamericanhistory-org/musician58-carol-ou|TAH musician58, Carol Ou]]
 
 ## Related Pages

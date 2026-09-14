@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # Dr. Vincent Chuang (莊伯祥醫師)
 
@@ -18,8 +18,6 @@ last_reviewed: 2026-09-11
 - **Geography:** Tainan, Taiwan
 - **Core roles:** physician, professor, educator
 - **Source:** TAH Foundation Who’s Who
-
-3. Medical College of Virginia Hospital, Virginia Commonwealth Univ., Richmond, VA
 
 <!-- tah-tables:start -->
 ## Education
@@ -42,6 +40,7 @@ last_reviewed: 2026-09-11
 - 1988–1990 — Clinical Professor, Dept. of Radiology, Emory Univ. Hospital
 - 1990–1996 — returned as Professor, Dept. of Diagnostic Radiology, M.D. Anderson Cancer Center
 - 1996– — Chief, Section of Interventional Radiology and Vice President, Koo Foundation Sun Yat-Sen Cancer Center, Taiwan
+- 2018-04-18 — 個人條目發表於 TAH 百科 #2095（條目頁存於 vault：[[works/taiwaneseamericanhistory-org/whos-who-2095-vincent-chuang|已覆葆]]，載訂者為 [[organizations/tah-foundation||TAH Foundation]]）
 
 Publisher of source profile: [[organizations/tah-foundation||TAH Foundation]].
 

@@ -47,6 +47,7 @@ _No filled family fields on the TAH profile._
 - Two TAH encyclopedia entries for her are held in the vault: [[works/taiwaneseamericanhistory-org/15-annie-chuan-e6-ac-8a-e9-9b-8b-e6-96-87-cello|TAH #15 (2014, Cellist)]] and [[works/taiwaneseamericanhistory-org/521-annie-chuan-e6-ac-8a-e9-9b-8b-e6-96-87-201507|TAH #521 (2015)]].
 - From the TAH profile tables already on this page: B.S. Music, 輔仁大學; DMA, 馬里蘭大學 (2008); cello instructor of the Montgomery College Orchestra and of the District Metropolitan Youth Orchestra Program.
 - Community music roles in the greater D.C. area: music director of the children's musical at the 美國大華府地區台灣文化中心 (2009) and conductor of the 大華府地區客家會青年管弦樂團 (2010).
+- Fellow cellists recorded in the TAH biographical corpus: [[people/carrie-y-tseng||Carrie Y. Tseng (曾郁庭)]] and Nan-Cheng Chen ([[works/taiwaneseamericanhistory-org/32-nan-cheng-chen-e9-99-b3-e5-8d-97-e5-91-88-cello|TAH #32, cello]]) — parallel profiles, no direct collaboration documented.
 
 ## Sources
 - [TAH #521 encyclopedia: 521. Annie Chuan 權雋文  / 2015/07](https://taiwaneseamericanhistory.org/521-annie-chuan-%e6%ac%8a%e9%9b%8b%e6%96%87-201507/)
