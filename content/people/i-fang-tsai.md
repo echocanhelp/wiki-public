@@ -49,3 +49,7 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+## Deepen pass (2026-09-14)
+- 複核 vault 既有 holdings（TAH #1050、TAH #17 藝術家檔案）與上方傳記：頁內年份、得獎與社團身分均已落檔，本次無新增外部事實（vault-only，未查網）。
+- 頁內 wikilink 全部指向既有頁面（people/jason-chang、organizations/north-america-pastel-artist-association、works/taiwaneseamericanhistory-org/whoswho1050、works/taiwaneseamericanhistory-org/artist-yvonne-i-fang-tsai）；未建新頁。
