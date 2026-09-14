@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # Shih-Peng Chang (張士芃)
 
@@ -51,4 +51,13 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[organizations/taiwanese-american-students-association-at-johns-hopkins-university||Taiwanese American Students Association at Johns Hopkins University]] — Chang earned her M.M. at the Peabody Conservatory of Johns Hopkins University
+- [[organizations/taiwanese-american-student-association-at-the-university-of-maryland-college-park|TASA at University of Maryland, College Park]] — Chang earned her D.M.A. at the University of Maryland (same basis as the Peabody link above)
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+## Vault Holdings
+- [[works/taiwaneseamericanhistory-org/310-shih-peng-chang-e5-bc-b5-e5-a3-ab-e8-8a-83-violinist-201510|TAH #310 Shih-Peng Chang 張士芃, Violinist / 2015-10]] — 本人百科條目
+- [[works/taiwaneseamericanhistory-org/684-shih-peng-chang-e5-bc-b5-e5-a3-ab-e8-8a-83-201510|TAH #684 Shih-Peng Chang 張士芃 / 2015-10]] — 本人百科條目
+
+## Deepen pass (2026-09-14)
+- 補上 vault 內本人百科條目 #310、#684 連結；依本人履歷就讀經歷補列 University of Maryland 留學生團體頁。
+- 未新增任何傳記事實；Peabody/UM 學生團體連結僅標註就讀關聯。
