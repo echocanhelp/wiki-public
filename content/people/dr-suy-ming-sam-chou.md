@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # Dr. Suy Ming Sam Chou (周烒明博士)
 
@@ -45,6 +45,11 @@ Dr. Suy Ming (Sam) Chou 周烒明博士 – History of Taiwanese American (T.A. 
 ## Family
 
 - **Wife:** 吳秀惠
+
+## Legacy
+
+- TAH encyclopedia published a memorial entry on his death: [[works/taiwaneseamericanhistory-org/121-remembering-dr-suy-ming-chou||TAH #121: Remembering Dr. Suy-Ming Chou 周烒明博士]] (09/2018), alongside four earlier profile entries (#18, #23, #93, #2155) cited below.
+- He is the founding (first) president of the association behind [[organizations/north-american-taiwanese-medical-association-foundation||NATMA Foundation]]; his documented chapter tie is [[organizations/natma-southern-california||NATMA – Southern California Chapter]].
 
 
 ## Sources

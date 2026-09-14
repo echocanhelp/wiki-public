@@ -10,7 +10,7 @@ tags:
   - PCT
   - Taiwan
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # Thomas Barclay (巴克禮)
 
@@ -43,6 +43,10 @@ Absorbed from `knowledge/research/eastgatebarclay-org-entities.md` + [[sources/e
 - **2017-05 / 2018-05** — Elizabeth Memorial Chapel (伊莉莎白纪念教会) built and dedicated, honoring his wife
 - **2022** — 東門巴克禮歷史教育推廣協會 formed to carry on the legacy
 - **2024-10** — the church became a Tainan municipal historic monument (台南古蹟); its records are on the UNESCO Memory of the World National Register (世界記憶國家名錄)
+
+## Family
+
+- **Spouse:** Elizabeth Barclay (伊莉莎白) — co-opened the 1903 East Gate 福音堂 (later [[organizations/tainan-east-gate-barclay-memorial-church||東門巴克禮紀念教會]]); honored by the 2017–2018 Elizabeth Memorial Chapel on the church grounds (from the eastgatebarclay.org vault archive above).
 
 ## Network
 - [[organizations/tainan-east-gate-barclay-memorial-church||東門巴克禮紀念教會]]

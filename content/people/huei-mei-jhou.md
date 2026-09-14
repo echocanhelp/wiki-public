@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # Huei-mei Jhou (周惠美博士)
 
@@ -48,6 +48,14 @@ _No filled family fields on the TAH profile._
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/huei-mei-jhou/)
 
+## Network
+- [[works/taiwaneseamericanhistory-org/318-huei-mei-jhou-e5-91-a8-e6-83-a0-e7-be-8e||TAH #318 encyclopedia entry]] — primary TAH record
+- [[works/taiwaneseamericanhistory-org/157-huei-mei-chou-e5-91-a8-e6-83-a0-e7-be-8e-flutist201502||TAH #157 encyclopedia entry]] — second TAH record (2015-02-24)
+
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+## Deepen note (2026-09-14, vault-only)
+
+Per the education/employment tables on this page: MM Univ. of Miami (2007) precedes the DMA Univ. of Minnesota (2012); teaching engagements run International Music Camp flute faculty (2012) → Princeton High School instrumental instructor (2015). Master-class teaching (North Dakota, Minnesota, incl. Minnesota All-State Band) is documented between these degrees and appointments. No vault page exists yet for the Univ. of Miami Frost School, Princeton High School, or the Marcel Moyse Society, so those stay unlinked pending new pages (out of scope this pass).
