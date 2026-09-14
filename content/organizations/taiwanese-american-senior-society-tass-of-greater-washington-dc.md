@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # Taiwanese American Senior Society TASS of Greater Washington DC (大華府台美人長樂會)
 
@@ -20,6 +20,9 @@ The Taiwanese American Senior Society (TASS) of Greater Washington DC was offici
 
 ## Vault records (deepen pass 2026-09-10)
 Sister chapter [[organizations/tass-eb|TASS-EB]] (founded Oct 2014, Walnut Creek) documents the same TASS model — SIG-based programs for Taiwanese-American seniors — on the West Coast; see also the society's [[works/taiwaneseamericanhistory-org/newsletter-of-tass|newsletter record]] in the TAH corpus. The Rockville venue is the [[organizations/greater-washington-taiwan-culture-center|Greater Washington Taiwan Culture Center]].
+
+## Vault records (deepen pass 2026-09-14)
+The society's TAH directory entry is held in the vault as the work record [[works/taiwaneseamericanhistory-org/taiwanese-american-senior-society-tass|TAH record: 大華府台美人長樂會 TASS of Greater Washington DC]] (published 2014-10-12), and its own newsletter is catalogued at [[works/taiwaneseamericanhistory-org/newsletter-of-tass|Newsletter of TASS]]. Its Monday/Tuesday program venues place it in the same Rockville / DC-area civic network as [[organizations/taiwanese-association-of-america-greater-washington|TAA Greater Washington]], [[organizations/taiwanese-american-professionals-washington-d-c|Taiwanese American Professionals Washington D.C.]], and [[organizations/taiwanese-youth-arts-foundation-washington-dc|Taiwanese Youth Arts Foundation Washington DC]] (community-context links only; no shared events are documented in the vault).
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-american-senior-society-tass-of-greater-washington-dc/)

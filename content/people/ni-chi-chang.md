@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # Ni-Chi Chang (張倪綺)
 
@@ -45,6 +45,9 @@ Ni-Chi Chang (張倪綺) was born in Taichung, Taiwan. She graduated from Taipei
 ## Family
 
 _No filled family fields on the TAH profile._
+
+## Vault records (deepen pass 2026-09-14)
+Her two vault records are [[works/taiwaneseamericanhistory-org/musician421|TAH #421: Ni-Chi Chang 張倪綺, Soprano]] (published 2017-08-06) and [[works/taiwaneseamericanhistory-org/whos-who-1813-ni-chi-chang|TAH #1813 Who's Who entry]]. All biographical facts on this page — TNUA B.A. 2009, Temple University M.A. 2011 (Dr. Phillip Cho), the 2003 Vienna Leschetizky master class, the 2006 Kathaumixw choir festival with the TNUA Choir, the 2008 Bach B-minor Mass under Helmuth Rilling in Taipei and Macau, and the 2010 National Opera Workshop role of Ms. Pompous in Too Many Sopranos — derive from those two records; no further vault material exists. No vault pages exist for her almae matres (TNUA, Temple) or the opera workshop, so no further links are added.
 
 ## Sources
 - [TAH #421 encyclopedia: 421. Ni-Chi Chang 張倪綺, Soprano / 08/2017](https://taiwaneseamericanhistory.org/musician421/)

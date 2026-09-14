@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # Steven Shih Chen (陳士駿)
 
@@ -45,6 +45,9 @@ Steven Chen received his B.S. degree in Chemical Engineering from National Taiwa
 - PayPal、Facebook、YouTube — Co-Founder / 前 CTO（2005–）
 - 2011– — AVOS Systems Co-Founder；2014– — Google Venture
 - 社群：Asian Art Museum of San Francisco 董事及主要支持者；Joint Formosan Presbyterian Church Choir 男高音獨唱（曾隨 Professor J.K. Chen、Professor L.P. Ong 學習聲樂，於 Mendelssohn 的 Elijah 與 Handel 的 Messiah 獨唱演出）
+
+## Vault records (deepen pass 2026-09-14)
+His TAH profiles are catalogued as [[works/taiwaneseamericanhistory-org/whos-who-178-steven-shih-chen|TAH #178: Steven Shih Chen 陳士駿]] (published 2014-12-28) and [[works/taiwaneseamericanhistory-org/ota-237|TAH #237: Steven Shih Chen 陳士駿]] (published 2019-01-29); his tenor soloist work with the Joint Formosan Presbyterian Church Choir is documented at [[works/taiwaneseamericanhistory-org/concerts71|TAH #71: Mendelssohn Saint Paul, LA, 1995]]. For his UCLA years (M.S. Material Science, 1991) the vault holds the UCLA Taiwanese community pages [[organizations/taiwanese-american-student-association-at-ucla|TASA at UCLA]] and [[organizations/ucla-taiwanese-american-union|UCLA Taiwanese American Union]] as era-context only — membership is not documented. No vault page exists for NTU or Illinois, so the 1983 and 2002 degrees stay unlinked.
 
 ## Sources
 - [TAH #237 encyclopedia: 237. Steven Shih Chen 陳士駿](https://taiwaneseamericanhistory.org/ota-237/)
