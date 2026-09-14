@@ -67,3 +67,6 @@ Both story records belong to the [[sources/taiwaneseamericanhistory-org-story-co
 ## Deepen — 2026-09-14 (vault-only re-check)
 - Both vault story records (TAH #226, TAH #466) and the network links [[people/keng-yuen-tseng||Keng-Yuen Tseng]] and [[organizations/taiwanese-american-charity-and-education-association||TACEA]] re-verified against live vault slugs; no broken links.
 - The Timeline already absorbs all facts present in the cited records (Peabody B.S./M.S., Virginia Symphony 2014–15 season, 2011 Piatigorsky Montana tour, 2011/2013 TACEA Kennedy Center concerts). Family fields are placeholder-only because the source records name no relatives — left unfilled rather than invented.
+
+## Deepen-x 09141300-3 (2026-09-14)
+- SKIP-with-reason: corpus sweep of works/ and articles/ returns only her own two cited story records ([[works/taiwaneseamericanhistory-org/226-yu-chia-hsiao-violinist-201506|TAH #226]], [[works/taiwaneseamericanhistory-org/466-yu-chia-hsiao-201506|TAH #466]]) plus index pages — no memoir/community material with new facts. Chinese name still unknown; not invented.

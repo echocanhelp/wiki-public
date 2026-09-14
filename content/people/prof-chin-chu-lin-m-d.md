@@ -45,6 +45,14 @@ Prof. Chin-Chu Lin M.D. 林靜竹教授 – History of Taiwanese American (T.A. 
 - President, [[works/taiwaneseamericanhistory-org/brief-history-of-natpa||North American Taiwanese Professors' Association (NATPA) 北美洲台灣人教授協會]] — see also [[organizations/north-america-taiwanese-professors-sc||NATPA Southern California chapter]]
 - Board Member and Chair of the Education Committee, [[organizations/natma-southern-california||North American Taiwanese Medical Association (NATMA) 北美洲台灣人醫師協會]]
 
+## Role in the Community (corpus-absorbed)
+
+- NATMA's founding memoir [[works/taiwaneseamericanhistory-org/ourjourneys74|Our Journeys #74]] names him（芝加哥的林靜竹）as one of the trusted, like-minded doctors who responded enthusiastically to [[people/dr-suy-ming-sam-chou|周烒明]]'s city-by-city recruitment calls for Taiwanese physicians to join the association — direct documented evidence of his Chicago-area NATMA organizing role, consistent with the Board Member / Education Committee chair record above (English version: [[works/taiwaneseamericanhistory-org/ourjourneys74-eng|Our Journeys #74 (EN)]]).
+- He is also a published essayist/memoirist in the corpus: obituary memoir [[works/taiwaneseamericanhistory-org/my-stories-654|TAH #654: 懷念許世真（10/2018）]] and his literature collection [[works/taiwaneseamericanhistory-org/publications1130|TAH #1130: 愛心集——林靜竹教授文集 第二集（08/2017, 文學）]].
+
+## Deepen-x 2026-09-14 (corpus pass)
+- Corpus grep of works + articles: six hits — the four TAH encyclopedia records already linked under Vault Holdings, plus the two memoirs newly absorbed above. No date/age conflicts encountered; nothing to HOLD.
+
 ## Family
 
 - **Wife:** Jane Shwu-Ching Hahn (韓淑清)

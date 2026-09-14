@@ -54,6 +54,10 @@ _No filled family fields on the TAH profile._
 - 2022-01-15 — 因心肌條塞於家中逝世，享年 58 歲；先生孫華翔（國藝會副執行長）。
 - 死訊並覆葆於本頁已列之 vault 死訊檔頁；TAH 入選條目 [[works/taiwaneseamericanhistory-org/221-zoe-huang-e9-bb-83-e7-91-9e-e8-8a-ac-vocalist-201506||#221]]、[[works/taiwaneseamericanhistory-org/373-zoe-huang-e9-bb-83-e7-91-9e-e8-8a-ac201504||#373]]。
 
+## Role in the Community (deepen-x 09141300-3，語料吸收 2026-09-14)
+- 林衡哲會長回憶：台灣人聯合基金會（[[organizations/taiwanese-united-fund|TUF]]）1995 年《台灣民謠之夜》在加州州立大學洛杉磯分校 Luckman Hall 舉辦，由第五任會長賴英慧主持、李遠哲主講，黃瑞芬與蘇顯達、葉綠娜、黃維明及台美第二代 Joli Wu 等同台，節目全為台灣作曲家作品，「很多鄉親都感動到落淚」——台灣音樂推向國際樂壇的台美運動現場（[[works/taiwaneseamericanhistory-org/ourjourneys301|TAH #301 林衡哲：南加州台灣人聯合基金會的誕生、回顧與展望（1986-1996）]]）。
+- HOLD: conflict — 本頁已吸收之死訊記該場洛杉磯演出為 1995-07-29（TUF 台灣名家演奏系列），林衡哲 TUF 會史回憶記為 1995-09-29（《台灣民謠之夜》）；兩來源並列不擅merge。另大提琴者名字兩寫法並存：陳健安（死訊）vs 陳建安（TUF 會史）。
+
 ## Sources
 - [TAH #221 encyclopedia: 221. Zoe Huang 黃瑞芬, Vocalist / 2015/06](https://taiwaneseamericanhistory.org/221-zoe-huang-%e9%bb%83%e7%91%9e%e8%8a%ac-vocalist-201506/)
 - [TAH #373 encyclopedia: 373. Zoe Huang 黃瑞芬/2015/04](https://taiwaneseamericanhistory.org/373-zoe-huang-%e9%bb%83%e7%91%9e%e8%8a%ac201504/)

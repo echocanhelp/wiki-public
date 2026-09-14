@@ -67,6 +67,13 @@ Dr. Suy Ming (Sam) Chou 周烒明博士 – History of Taiwanese American (T.A. 
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
+## Role in the Community (corpus-absorbed)
+
+- NATMA's founding memoir [[works/taiwaneseamericanhistory-org/ourjourneys74|Our Journeys #74]] records his recruitment campaign: he personally made phone calls encouraging Taiwanese doctors to join the association, working around the excuses 「居留問題」 and 「太忙」 by routing through existing groups (教授會、同鄉會) and enlisting trusted like-minded doctors city by city — 楊次雄 (Greater New York), 黃昭 (Michigan), [[people/prof-chin-chu-lin-m-d|林靜竹]] (Chicago), 陳惠亭 (Southern California), 蔡武男 (Washington D.C.) all responded enthusiastically (English version: [[works/taiwaneseamericanhistory-org/ourjourneys74-eng|Our Journeys #74 (EN)]]).
+- His own drafted memoir [[works/taiwaneseamericanhistory-org/ourjourneys81|Our Journeys #81: 早期（1960〜1970年）威大台灣學生在台灣建國運動所扮演的角色（起稿 2014/12）]] documents the 1960s–70s 威大 Taiwanese-student generation's role in the Taiwan nation-building movement.
+- [[works/taiwaneseamericanhistory-org/ourjourneys259|Our Journeys #259（朱耀源, 10/2016）]] names him among the first movement figures allowed back to Taiwan around NATPA's first Taipei annual meeting (1990), after nearly six months of negotiation shrank the blacklist from 84 named applicants to 3.
+- The couple's story is told in the memoir [[works/taiwaneseamericanhistory-org/my-stories-856|TAH #856: 周烒明醫師與吳秀惠醫師的故事（上）(10/2022)]] — corroborating his wife 吳秀惠 as a physician; an institutional memorial file is held at [[works/taiwaneseamericanhistory-org/49897|TAH #649: 周烒明 / 吳三連台灣史料基金會 (09/2018)]].
+
 ## Deepen — 2026-09-14 (vault-only re-check)
 - Wikilink targets above (NATMA Foundation, NATMA – Southern California Chapter, UFI, and the TAH #121 memorial record) re-verified against live vault slugs; no broken links.
 - The Timeline, Family (wife 吳秀惠) and Legacy sections already absorb every fact present in the cited encyclopedia records (#18, #23, #93, #121, #2155). No further unabsorbed vault facts; no new biography invented.

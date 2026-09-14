@@ -59,6 +59,11 @@ Ms. Cheryl Lin Hong started her piano lesson at 5, and was fascinated by music s
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
+## Role in the Community (deepen-x 09141300-3，語料吸收 2026-09-14)
+- 筆名**紅番薯**：與台北和平教會契友、台灣的鄭兒玉牧師（筆名黃芎蕉）把威爾第歌劇《納布果》描寫猶太亡國之思的合唱曲改編為《流浪海外台灣人的心聲》（英文 "Lamentation of Taiwanese in Exile"），由紐約聯合教會合唱團在第一屆美東台灣人夏令會開幕式演唱。據1975年夏令會總召集人王成章牧師回憶，唱到「結起來，合起來，獨立拼命，不通復繼續做二等國民」時台上台下哭成一片——這是台灣人運動紀錄中她最動人的社區貢獻（[[works/taiwaneseamericanhistory-org/our-journeys-392|TAH #392 王成章牧師專訪]]；另見 [[works/taiwaneseamericanhistory-org/ourjourneys33-eng|TAH #33 台美協進會的歷史／History of Taiwanese American Foundation]] 英文版記載）。
+- **第一屆美東台灣人夏令會聯絡員**：和平契友紐約地區聯絡網成員之一（[[works/taiwaneseamericanhistory-org/ourjourneys268|TAH #268 回憶第一屆美東台灣人夏令會]]）；該屆夏令會合唱團合影（左起：張初穗、林慧美、黃凰鳳、許希哲、黃柯明珠、黃碧鳳、**林千千**、黃惠美，許松鵬 2016/11 提供）存於同一紀錄。
+- **NATWA 婦女信箱主筆任期確認：1994～1995**（編輯年表見 [[works/taiwaneseamericanhistory-org/ourjourneys161|TAH #161 婦女信箱的歷史]]：「1994~1995 吳淳雅、林千千、詹麗茹、謝金朱」），補全本頁原只有職稱無年份之記載。
+
 ## Vault re-check 2026-09-14 (deepen-x slice 09132337-3, vault-only)
 - Wikilink targets verified: NATWA, NATWA Detroit Chapter, Cho-Liang Lin, Ya-Hui Wang, TAH #261 / #554, the Akron Symphony concert record, and the TAH #161 / #268 essays citing her.
 - NATMA, 輔仁大學, Columbia University and the Detroit 愛樂小集 named on this page have no vault pages; left as plain text, no new pages created. No web used, nothing published.

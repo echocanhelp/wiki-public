@@ -70,3 +70,5 @@ All wikilink targets on this page verified to exist in the vault; all cited-sour
 Both cited TAH encyclopedia records now carry a reciprocal Subjects link to this page ([[works/taiwaneseamericanhistory-org/musician4|TAH #4]], [[works/taiwaneseamericanhistory-org/whoswho1082|TAH #1082]]). No other vault page holds facts about her; no new pages, no web, nothing published.
 
 Re-check 2026-09-14 (slice 8): vault-wide mention sweep found her only in the two cited TAH encyclopedia records plus the people/works/source index pages — no new absorbable facts.
+
+Deepen-x 09141300-3 (2026-09-14): SKIP-with-reason — corpus sweep of works/ and articles/ again returns only her own two cited TAH encyclopedia records ([[works/taiwaneseamericanhistory-org/musician4|TAH #4]], [[works/taiwaneseamericanhistory-org/whoswho1082|TAH #1082]]) plus index pages; no memoir/community material beyond what this page already absorbs.
