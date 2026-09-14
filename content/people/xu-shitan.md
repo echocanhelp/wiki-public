@@ -80,4 +80,5 @@ No further biography is published on the site; no details are invented here.
 All cited sources and wikilink targets verified present in the vault (Taiwan Center hub, instructor cohort pages). No further unpublished vault facts found; none invented.
 
 ## Deepen pass 2026-09-14 (vault-only)
+Corpus sweep: SKIP-with-reason — grep of works/ and articles/ for 徐士坦/Xu Shitan returns zero hits outside the Taiwan Center source page; nothing absorbable.
 Re-verified: no new vault facts. Sole record remains the Taiwan Center class-information roster; every wikilink target resolves to an existing vault page. No biography invented.

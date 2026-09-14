@@ -59,7 +59,13 @@ Two further TAH story-corpus entries exist in the vault:
 - [[works/taiwaneseamericanhistory-org/ourjourneys287||Our Journeys #287 — 台南善友樂團之後代首次在夏令會聚會]] lists 陳泰成 among the musicians present.
 - Second encyclopedia record: [[works/taiwaneseamericanhistory-org/111-dr-tai-chin-chen-e9-99-b3-e6-b3-b0-e6-88-90-e5-8d-9a-e5-a3-ab-the-first-ph-d||TAH #111 — Dr. Tai Chin Chen 陳泰成博士, The First Ph.D. Holder in Music from Juilliard (1984)]] — corroborates the Juilliard D.M.A. and 1987–2012 國立台北藝術大學 professorship in the tables above.
 
-Deepen 2026-09-14 (vault-only): no new biographical facts beyond the absorbed TAH #99/#111 text; cross-link to the #111 vault record added.
+## Role in the Community (absorbed from corpus, 2026-09-14)
+
+- **1992–1993** — performed in the 「台灣名家演奏系列」 concerts in Los Angeles, the series launched in 1992 under 吳澧培's sponsorship (opening concert: 胡乃元 violin recital) and organized by a preparation committee led by Dr. 林衡哲, with 楊子淸 and 陳隆 as active committee members. Programs deliberately featured works by Taiwanese composers such as 蕭泰然 and 許常惠, aiming to introduce Taiwanese musicians and composers to US mainstream society — see [[works/taiwaneseamericanhistory-org/ourjourneys287|Our Journeys #287 (黃東昇, 2017/05)]].
+- The 南加州台灣人聯合基金會 (TUF) history record lists him among the pianists invited to that ongoing series alongside 陳毓襄、葉綠娜、吳涵、劉孟捷 (violinists 林昭亮、陳慕融、蘇顯達; cellists 楊文信、范雅志、陳建安; vocalists 陳麗嬋、曾道雄) — [[works/taiwaneseamericanhistory-org/ourjourneys294|Our Journeys #294 — 南加州台灣人聯合基金會簡介 (2017/06)]].
+- **2014** — third TAH encyclopedia record in the vault: [[works/taiwaneseamericanhistory-org/81-taicheng-chen-e9-99-b3-e6-b3-b0-e6-88-90|TAH #81 — Dr. Tai-Cheng Chen 陳泰成 (2014)]]; also profiled in an interview by 李淑櫻 — [[works/taiwaneseamericanhistory-org/mystories127|My Stories #127 — 訪鋼琴家陳泰成 (2014)]].
+
+Deepen 2026-09-14 (corpus sweep): no new biographical facts beyond the absorbed TAH #99/#111 text; community-performance and interview records above added from ourjourneys287/294, mystories127, and TAH #81.
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

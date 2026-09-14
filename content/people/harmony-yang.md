@@ -66,4 +66,5 @@ TAH encyclopedia records held in this vault:
 ## Vault records (deepen pass 2026-09-14)
 - 兩則 TAH 百科條目均已入 vault 書目紀錄：#1635 與 #396（皆 2017-05-07 發布）；全文仍存 TAH 原站，本庫為書目級紀錄。
 - 教會服事脈絡（本頁既有記載：華府台裔長老教會音樂總監）見 [[works/taiwaneseamericanhistory-org/taiwanese-presbyterian-church-of-washington||Taiwanese Presbyterian Church of Washington 條目]]；台裔長老教會系統脈絡另見 [[organizations/presbyterian-church-in-taiwan||台灣基督長老教會]]、[[organizations/national-taiwanese-presbyterian-council||NTPC-USA]]（關聯性待核）。
+- Corpus sweep 2026-09-14: SKIP-with-reason — grep of works/ and articles/ for 楊心新/Harmony Yang returns only her own two TAH records (#1635, #396, already linked above); no memoir/community mention elsewhere in the corpus, nothing absorbable.
 - 求學與定居馬里蘭脈絡（Ph.D. 2016，本頁既有記載）對應 [[organizations/university-of-maryland-taiwanese-student-association||馬里蘭大學台美同學會]]；辛辛那提求學時期（M.S.，本頁既有記載）對應 [[organizations/taiwanese-association-of-cincinnati||辛辛那提台灣人協會]]。
