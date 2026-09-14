@@ -40,7 +40,7 @@ Accomplishment
 - 1985–1986 — President, North America Taiwanese Professors' Association / South California Chapter — [[organizations/north-america-taiwanese-professors-sc|NATPA South California]]
 - 1993–1999 — President, World Association of Copepodologists — the first president of a world-wide professional organization from the Taiwanese American community
 
-- 2001 — 台美基金會科技工程獎 (Taiwanese American Foundation science/engineering award); his acceptance essay is held in the vault — [[works/taiwaneseamericanhistory-org/mystories428|TAH #428 得獎感言]]
+- 2001 — [[organizations/taiwanese-american-foundation|台美基金會 (TAF)]] 科技工程獎 (Taiwanese American Foundation science/engineering award); his acceptance essay is held in the vault — [[works/taiwaneseamericanhistory-org/mystories428|TAH #428 得獎感言]]
 - 2011 — Monoculus Award (國際單眼橈足生物學會最高榮譽獎), highest honor of the international copepodologist community — [[works/taiwaneseamericanhistory-org/monoculus-award-ju-shey-ho-2011|vault record]]
 - 長青教室 (lifelong-learning program of [[organizations/irvine-taiwanese-presbyterian-church|Irvine台灣長老教會 ITPC]]) — lecturer, California abalone history — [[works/taiwaneseamericanhistory-org/ourjourneys107|TAH #107 長青教室課程清單]]
 
@@ -67,6 +67,7 @@ Accomplishment
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-ju-shey-ho/)
 
 ## Related Pages
+- [[organizations/taiwanese-american-foundation||Taiwanese American Foundation (TAF)]] — 2001 科技工程獎得主
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - [[organizations/irvine-taiwanese-presbyterian-church||Irvine台灣長老教會 (ITPC)]] — 長青教室講師
