@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # Gloria H. Shaw (李雪芬)
 
@@ -60,6 +60,7 @@ _Sourced from the TAH Who's Who profile above; no external material added._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[organizations/taiwanese-association-of-america-dallas-fort-worth||TAJ Dallas–Fort Worth]] — her Dallas community geography
+- [[organizations/taiwanese-association-of-america-pittsburgh||TAA Pittsburgh]] — 對應她 1972–1974 年任職 Clinical Pathology of Western Pennsylvania 的賓州地理（僅地理連結，非會籍記載）
 - [[works/taiwaneseamericanhistory-org/whos-who-2196-gloria-h-shaw||TAH encyclopedia #2196: Gloria H. Shaw 李雪芬]]
 - [[works/taiwaneseamericanhistory-org/198-gloria-h-shaw||TAH encyclopedia #198: Gloria H. Shaw 李雪芬]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

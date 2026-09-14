@@ -10,7 +10,7 @@ tags:
   - PCT
   - Taiwan
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # George Leslie Mackay (馬偕)
 
@@ -59,5 +59,7 @@ Laijohn TOC: **51** 馬偕-title hits (not listed). Son **偕叡廉** = 史話 5
 
 ## Related Pages
 - [[people/james-laidlaw-maxwell||馬雅各]]
+- [[works/taiwaneseamericanhistory-org/ourjourneys274||TAH Our Journeys #274 — 1871 年 27 歲離加、經高雄、1872-03-09 登淡水]]
+- [[works/taiwaneseamericanhistory-org/my-stories-830||TAH #830（04/2022）— 馬偕第四代孫 柯威霖：火車司機員到 NASA 科學家]]
 - [[organizations/elder-john-lai-archives||史料庫]]
 - [[sources/laijohn-com||laijohn.com]]

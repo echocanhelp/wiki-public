@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # Tsan-hung George Chang (張燦鍙教授)
 
@@ -45,6 +45,8 @@ Tsan-hung George Chang 張燦鍙 – History of Taiwanese American (T.A. Archive
 - **Daughter:** 張惠君
 
 妻子為 [[people/tina-chang||Tina Chang 張丁蘭]]，其 TAH 紀錄另見該頁。
+
+本頁 tah-tables 所載 1970–1995 歷任台独運動職位（臺灣獨立聯盟副主席 → 世界臺灣獨立建國聯盟主席 → 臺灣建國委員會委員長 → 臺灣獨立建國聯盟主席）之機構頁：[[organizations/united-formosans-for-independenceufi||United Formosans for Independence UFI]]；任期長度之出處見本項 Sources 之 [[works/taiwaneseamericanhistory-org/56-professor-george-chang-the-longest-president-of-world-united-formosans||TAH #56（任期最久之 World United Formosans 會長）]]。
 
 
 ## Timeline

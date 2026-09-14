@@ -6,7 +6,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # 蔡佩君
 
@@ -57,3 +57,12 @@ _No filled family fields on the TAH profile._
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - [[works/taiwaneseamericanhistory-org/228-e8-94-a1-e4-bd-a9-e5-90-9b-violinist-201507||TAH Encyclopedia #228: Pei Chung Tsai 蔡佩君, Violinist]]
 - [[works/taiwaneseamericanhistory-org/16364||TAH Encyclopedia #476: 蔡佩君]]
+
+## 同系列 TAH 小提琴家條目（deepen 2026-09-14）
+
+本頁所載身分（台灣人赴美小提琴演奏／教學）與 TAH 百科同期同主題條目互為對照（2015 年台灣音樂人系列）：
+
+- [[works/taiwaneseamericanhistory-org/118-ingrid-chun-e9-83-ad-e9-9b-8b-e9-9f-b3-violinist201501||TAH #118 Ingrid Chun 郭雋音, Violinist (2015/01)]]
+- [[works/taiwaneseamericanhistory-org/123-leslie-ho-violinist-201501||TAH #123 Leslie Ho 何炳宏, Violinist (2015/01)]]
+- [[works/taiwaneseamericanhistory-org/128-min-yen-chien-e7-b0-a1-e5-90-8d-e5-bd-a5-violinist-201502||TAH #128 Min-Yen Chien 簡名彥, Violinist (2015/02)]]
+- [[organizations/san-diego-taiwanese-cultural-association||San Diego Taiwanese Cultural Association]] — 現居聖地牙哥社群場域

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # Eric Teng-Kuan Huang (黃騰寬)
 
@@ -47,6 +47,7 @@ _No filled family fields on the TAH profile._
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
+- [[organizations/greater-washington-taiwan-culture-center||Greater Washington Taiwan Culture Center]] — 本頁所載 GWTAC 伴奏與教會音樂服務之大華府台美人社群場域
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 ## Vault records（deepen pass 2026-09-11）

@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # Taiwan Environmental Action Network TEAN (台灣環境行動網)
 
@@ -38,3 +38,5 @@ planning); it serves as an overseas representative for numerous Taiwan-based civ
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- 目錄紀錄：[[works/taiwaneseamericanhistory-org/taiwan-environmental-action-network-tean||TAH 目錄頁：Taiwan Environmental Action Network TEAN]]
+- 双向連結：[[people/edgar-chun-yi-lin||Edgar Chun-Yi Lin]]（其 vault 人物頁已記載 TEAN 參與）

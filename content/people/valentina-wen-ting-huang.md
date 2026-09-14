@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # Valentina Wen-Ting Huang (黃文亭)
 
@@ -58,3 +58,6 @@ _No filled family fields on the TAH profile._
 - [[works/taiwaneseamericanhistory-org/concerts111||TAH concert record mentioning 黃文亭]]
 - [[works/taiwaneseamericanhistory-org/268-valentina-wen-ting-huang-pianist-201508||TAH Encyclopedia #268: Valentina Wen-Ting Huang 黃文亭, Pianist (2015-08)]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- [[organizations/taiwanese-association-of-indiana||TAA of Indiana]] — 對應她 Indiana University 博士（Ph.D. Music, 2005）時期的地理（僅地理連結，非會籍記載）
+- TAH 故事庫同期鋼琴相關記錄（同儕對照，非人際連結）：
+  [[works/taiwaneseamericanhistory-org/119-melody-kuo-e9-83-ad-e9-9b-8b-e5-be-8b-piano-accompanist||TAH #119 Melody Kuo 許郁涵, Piano Accompanist]]

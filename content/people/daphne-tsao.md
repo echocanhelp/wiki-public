@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # Daphne Tsao (曹恩菱)
 
@@ -56,3 +56,6 @@ A native of Taiwan, Daphne Tsao began her musical training on piano at age of 3,
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - [[sources/taiwaneseamericanhistory-org-story-corpus||TAH story corpus]] — hub for the encyclopedia records above
+- TAH 故事庫同期台灣小提琴家記錄（同儕對照，非人際連結）：
+  [[works/taiwaneseamericanhistory-org/118-ingrid-chun-e9-83-ad-e9-9b-8b-e9-9f-b3-violinist201501||TAH #118 Ingrid Chun 許郁籝, Violinist (2015-01)]]、
+  [[works/taiwaneseamericanhistory-org/128-min-yen-chien-e7-b0-a1-e5-90-8d-e5-bd-a5-violinist-201502||TAH #128 Min-Yen Chien 簡名彣, Violinist (2015-02)]]
