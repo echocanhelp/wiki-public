@@ -72,3 +72,7 @@ Accomplishment
 ## Connected in the Vault（deepen pass 2026-09-14）
 - 1967 年協助建立的洛杉磯台教會：[[organizations/formosan-presbyterian-church-in-los-angeles||FPCLA]]（本頁 Timeline 與 Network 已連結；傳記僅斷言 Assist in the establishment）。
 - 兩篇 vault 出處頁相互印證卒年：Who's Who #2227（2019-11-11）與紀念專輯 #142《生命的禮讚》（2019-11-14）均為 2019 年 11 月發布，與本頁 Era 1932-2019 一致。
+
+## 語料庫檢核（deepen pass 2026-09-14, slice 17：SKIP-with-reason）
+- 語料庫檢索僅兩處近似命中，均非本人，不主張連結：[[works/taiwaneseamericanhistory-org/ourjourneys47|ourjourneys47]] 中的「張榮發（国家政策研究資料中心）／張瑞猛」與 taiwanjustice 關鍵時刻轉錄中的「張榮發」皆為新光集團張榮發一族，與本頁張瑞雄牧師無關。
+- 除既有兩則本人 vault 記錄（#2227、#142）外，無可吸收之社群事實；本頁已為本階最完整狀態。
