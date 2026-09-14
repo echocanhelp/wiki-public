@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # Melinda Tang (陳方俐)
 
@@ -51,3 +51,7 @@ in Rowland Heights and directs/acompanies at 恩惠台灣基督長老敎會 — 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+## Vault records（deepen pass 2026-09-14）
+- 本頁 TAH 出處之 Vault 頁面：[[works/taiwaneseamericanhistory-org/whoswho1117||TAH 1117. Melinda Tang 陳方俐 / 2016/06]]、[[works/taiwaneseamericanhistory-org/musician85||TAH 85. Melinda Tang 陳方俐, Pianist / 2014/12]]。
+- 西北大學音樂學院時期（B.M. 1991 / M.M. 1993）的校園台美人圈子：[[organizations/taiwanese-american-students-association-of-northwestern-university||TASA at Northwestern]]；聖樂服事所屬長老教會傳統：[[organizations/presbyterian-church-in-taiwan||台灣基督長老教會]]。

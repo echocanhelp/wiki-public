@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # Dr. Peter Huang (黃勝雄醫師)
 
@@ -50,3 +50,6 @@ last_reviewed: 2026-09-11
 ## Vault records（deepen pass 2026-09-11）
 - 本頁 TAH 出處之 Vault 頁面：[[works/taiwaneseamericanhistory-org/46-dr-peter-huang||TAH 46. Dr. Peter Huang 黃勝雄醫師]]、[[works/taiwaneseamericanhistory-org/ff314||TAH 314. Dr. Huang Peter 黃勝雄醫師, 白宮醫療諮詢顧問 / 1981]]、[[works/taiwaneseamericanhistory-org/videos44||TAH 44. My Memoir of Dr. Peter Huang 分享「我的回憶錄」/10/2016]]、[[works/taiwaneseamericanhistory-org/whos-who-399-peter-huang||TAH 399. Dr. Peter Huang 黃勝雄醫師]]、[[works/taiwaneseamericanhistory-org/collection-of-dr-peter-huang||TAH 66. Collection of Dr. Peter Huang 黃勝雄醫師的收藏]]。
 - publisher／語料庫：[[sources/taiwaneseamericanhistory-org-story-corpus||TAH story corpus]]。
+
+## Community Context（deepen pass 2026-09-14）
+履歷（皆本頁既有事實，僅補連結）：1967 年臺北醫學院醫學士；後赴約翰霍普金斯大學取得醫療政策與衛生政策兩個碩士 —— 與當地台美人學生圈子相連：[[organizations/johns-hopkins-university-taiwanese-student-association||JHU Taiwanese Student Association]]。1984–1996 年任 Delaware Medical Center 神經外科主任（德拉瓦州台美人社團：[[organizations/taiwanese-association-of-america-delaware||TAA Delaware]]）；1993–2015 年任門諾醫院（Mennonite Christian Hospital，花蓮）院長，為台美人醫界投入鄉土的典範 —— 同類組織：[[organizations/north-american-taiwanese-medical-association-foundation||NAMTA Foundation]]。

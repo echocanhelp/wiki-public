@@ -40,10 +40,12 @@ this record captures only the historically-anchored subset linked from Tier1.
 - 許凌雲 (1862–1944) 秀才 biography — `knowledge/web-archives/penghu-info/`
 - 許凌雲秀才紀念館 / 存養軒書房 — commemorative building listing
 - 瓦硐許姓 clan (始祖 1618) — 靖樂 11 世 line
+- 澎湖出身的當代人物亦以本平台為故鄉脈絡來源：[[people/prof-wen-hwa-lee||李文華]]（1950 年生於澎湖）
 
 ## Sources
 - Hub: [[sources/penghu-info||penghu.info 平台]]
 - [[people/hsu-ling-yun||Hsu Ling-yun]] · [[people/hsu-ching-chun||Hsu Ching-chun]] · [[organizations/hsu-ling-yun-xiucai-memorial-hall||凌雲秀才紀念館]]
-## Connected in the Vault（deepen pass 2026-09-10）
+## Connected in the Vault（deepen pass 2026-09-14）
 
-- 來源錨點頁：[[sources/penghu-info||penghu.info 平台]]（Hub）；引用本平台之 Tier1 人物／機構頁均已於上方「Connected in the Vault」列出，雙向連結完整。
+- 來源錨點頁：[[sources/penghu-info||penghu.info 平台]]（Hub）。引用本平台之 Tier1 現為四頁：[[people/hsu-ling-yun||許凌雲]]、[[people/hsu-ching-chun||許景淳]]、[[organizations/hsu-ling-yun-xiucai-memorial-hall||凌雲秀才紀念館]]、[[people/prof-wen-hwa-lee||李文華]]（故鄉脈絡引用，非傳記主體）；雙向連結完整。
+- 本地語料：`knowledge/web-archives/penghu-info/` 已存抓回之 category／地點錨點頁（馬公市、白沙鄉、文化 category 等）。
