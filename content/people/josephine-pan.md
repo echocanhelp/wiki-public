@@ -29,6 +29,7 @@ last_reviewed: 2026-09-14
 - **Content priority A:** Name and role on https://www.taiwancenter.org/board (archived `taiwancenter-org-board.md`)
 - **Hub:** [[sources/taiwancenter-org||taiwancenter.org]]
 - **Content priority C:** Full biography not in this source set
+- **Deepen-X0914 re-check (2026-09-14, vault-only):** the cited vault record [[works/taiwaneseamericanhistory-org/113-josephine-pan-e6-bd-98-e6-8e-ac-e6-85-a7|TAH #113]] is held as a bibliographic record only (no article text in the vault), so no further biography can be absorbed without the live source; her JT & Tea role and cross-link to [[people/thomas-shu||Thomas Shu (許正龍)]] remain the vault-sourced facts, and her 2025-02-24 228 追思紀念大會主持 role is corroborated via the quote archive on [[people/roger-tsai||Roger Tsai (蔡漢成)]]'s page.
 
 ## Vault records (deepen pass 2026-09-10)
 

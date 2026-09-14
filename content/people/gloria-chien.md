@@ -65,3 +65,8 @@ Absorbed from the on-page biography and tables (no external sources):
 
 ## Vault re-check 2026-09-13 (deepen-x slice 22, vault-only)
 All cited-source records (#498, #241, Who's Who) verified present in the vault and already linked; biography facts were fully absorbed in the on-page Timeline. Cross-linked to a fellow New England Conservatory alumnus documented in the vault. No new vault facts found, no web used, no new pages created, nothing published.
+
+## Vault re-check 2026-09-14 (deepen-x slice 09140020-2, vault-only)
+- Peer links extended within the vault's TAH-record pianist circle: [[people/melody-kuo||Melody Kuo 郭雋律]] (piano accompanist documented in the vault, peer of the same cohort) and [[people/min-yen-chien||Min-Yen Chien 簡名彥]] (violinist, cites the same #241-#498 generation of musician records). Community-layer links only — no collaboration asserted.
+- The husband field 安寧 has no vault person page (verified: no people/ page for that name), so it stays unlinked per no-new-pages rule.
+- No new biography asserted, no web used, no new pages created, nothing published.

@@ -59,3 +59,8 @@ _No filled family fields on the TAH profile._
 - [[organizations/taiwanese-american-historical-society||TAHS]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - [[sources/taiwaneseamericanhistory-org-story-corpus||TAH Story Corpus (source hub)]]
+
+## Deepen pass 2026-09-14 (vault-only)
+- Her 2009 children's-musical music-director role (per the TAH employment table already on this page) was at the 美國大華府地區台灣文化中心 — the vault page [[organizations/greater-washington-taiwan-culture-center||Greater Washington Taiwan Culture Center (華府台灣文化中心)]] records the same Rockville, MD center.
+- Fellow TAH-corpus cellist now cross-linked directly: [[people/nan-cheng-chen||Nan-Cheng Chen (陳南呈)]] (TAH #32, cello) — parallel profiles, no documented collaboration.
+- No vault page exists for 大華府地區客家會 (Hakka Association in Washington Metropolitan Area), 輔仁大學, University of Maryland, Montgomery College, or the D.C. youth orchestras, so no further existing-slug links apply. Status: saturated, pending-verification. (slice 09140741-10)
