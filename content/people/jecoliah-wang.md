@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # Jecoliah Wang (王欣慈)
 
@@ -51,3 +51,5 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- [[works/taiwaneseamericanhistory-org/546-jecoliah-wang-e7-8e-8b-e6-ac-a3-e6-85-88-201508||TAH #546: Jecoliah Wang 王欣慈]]
+- [[works/taiwaneseamericanhistory-org/48-jecoliah-wang-e7-8e-8b-e6-ac-a3-e6-85-88-violin||TAH #48: Jecoliah Wang, Violinist]]

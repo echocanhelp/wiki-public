@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # Shu-Hui Janet Tsai (蔡淑慧博士)
 
@@ -61,3 +61,5 @@ _No filled family fields on the TAH profile._
 
 ## Network
 - [[organizations/presbyterian-church-in-taiwan||PCT]] — TAH Who’s Who
+- [[people/alice-chen||Alice Chen (陳祐慈)]] — organ teacher at Taiwan Theological College & Seminary
+- [[works/taiwaneseamericanhistory-org/295-shu-hui-janet-tsai-e8-94-a1-e6-b7-91-e6-85-a7-201510||TAH #295: Shu-Hui Janet Tsai / 2015/10]]

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # Peter Lee (李文智)
 
@@ -56,5 +56,6 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- [[sources/taiwaneseamericanhistory-org-story-corpus||TAHS story corpus]] — source hub for encyclopedia entries #445 / #213
 - [[works/taiwaneseamericanhistory-org/445-peter-lee-e6-9d-8e-e6-96-87-e6-99-ba-201506||TAH #445: Peter Lee 李文智]]
 - [[works/taiwaneseamericanhistory-org/213-2||TAH #213: Peter Lee 李文智, Countertenor]]

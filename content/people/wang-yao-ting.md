@@ -9,7 +9,7 @@ tags:
   - tahs-leadership
   - founding-member
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # Wang Yao-ting (王耀廷)
 
@@ -39,9 +39,11 @@ Wang Yao-ting was one of the key founders of the Taiwanese American Historical S
 Pages that link to **wang-yao-ting** (wang-yao-ting):
 
 
-### People (1)
+### People (3)
 
 1. [[people/zheng-bing-quan|zheng-bing-quan]]
+2. [[people/yang-jia-you|yang-jia-you]] — founding president, named in the same founding narrative
+3. [[people/zhou-wei-lin|zhou-wei-lin]] — founding secretary and author of the founding narrative (Part 1)
 
 ### Organizations (1)
 
