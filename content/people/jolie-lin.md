@@ -63,4 +63,6 @@ Her TAH encyclopedia entries are held in the vault as community historical recor
 
 ## Deepen — 2026-09-14 (vault-only pass)
 
-Both cited TAH encyclopedia records are archived in the vault (#211, #440 — already wikilinked above) and re-verified. No new external facts absorbed — the page's Career section already reflects the full TAH profile text and tables (UC Berkeley B.S.; Peabody M.M./DMA; teaching posts at Northern Virginia Community College, Peabody Prep, Baltimore School for the Arts). Added one contextual cross-link to an existing vault page for the Taiwanese community at her alma mater (membership not asserted).
+## Corpus pass — 2026-09-14 (deepen-x slice 6)
+
+Corpus grep (林姝秀 / Jolie Lin) over works+articles returns only her own two TAH encyclopedia records (#211, #440, both already wikilinked above) plus the works index. No memoir, article, or community record in our corpus mentions her beyond the press-kit profile itself — nothing absorbable. **SKIP-with-reason:** no primary community material in the vault beyond the TAH Who's Who entry.

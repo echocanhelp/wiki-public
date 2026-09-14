@@ -8,7 +8,7 @@ tags:
   - co-founder
   - Los-Angeles
 verification_status: published
-last_reviewed: 2026-09-09
+last_reviewed: 2026-09-14
 ---
 # Dr. Daniel Kao (高光民)
 
@@ -30,6 +30,13 @@ The FPCLA org page names the full founding cohort of Taiwanese believer househol
 
 **Disambiguation:** Not the same person as [[people/chaolong-kao||Dr. Charles C.L. Kao / Chaolong Kao (高昭龍)]], who was called as **organizing minister** by the Presbytery of Los Angeles Southwest in September 1971.
 
+
+## Role in the Community (absorbed 2026-09-14 from our own corpus)
+
+- Our own oral history [[works/taiwaneseamericanhistory-org/ourjourneys231|231. 洛杉磯台灣基督長老教會 /邱惠美、李永碩 /12/2020]] (English version: [[works/taiwaneseamericanhistory-org/ourjourneys231-eng|231. English]]) names **高光民 first** among those who "積極參與支持張牧師開拓事工" — 高光民、陳昭俊、葉思雅、李宗派、許文彬、王春雄、吳政彥、賴信雄 — i.e. the active core behind the first gathering on **1970-08-09** at Centenary United Methodist Church (Normandie Ave & 35th St), the historical founding point of the church.
+- Same work: the congregation entered Wilshire Crest Presbyterian Church in **1971-07** while still under Pacific Presbytery supervision, and received the building outright in **1974** when Wilshire Crest dissolved; FPCLA was formally elevated to a 堂會 of PCUSA on **1973-05-20** — the first Taiwanese-speaking church so recognized by PCUSA in the US.
+- Note on the roster: this oral history lists **許文彬** where the Lai Self-Preface lists 許彬 (Norman Hsu) — treated as the same household, spelling variant only.
+- **HOLD: conflict — different Daniel Kao.** [[articles/taiwanjustice-net/2025/20250618180425_切斷一切關係-美國與中國脫鉤能到什麼程_ab0ddbd033889a89|切斷一切關係？美國與中國脫鉤 (TJ 2025)]] quotes 高達偉 (Daniel Kao), assistant professor of supply-chain management at University of Michigan–Dearborn. English name collides; 漢名 differs (高達偉 ≠ 高光民) — **not this person**, no merge.
 
 ## Timeline
 

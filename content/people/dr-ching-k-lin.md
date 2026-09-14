@@ -40,6 +40,16 @@ Recorded on the page of [[organizations/irvine-taiwanese-presbyterian-church||Ir
 - **Notable speaker, ITPC community lecture series (2009–2026)** — named repeatedly in the church's speaker roster across nearly two decades.
 - The Evergreen Class itself is documented as a free weekly community-education program (200+ sessions since September 2009, ~100 attendees per session): [[organizations/evergreen-class-by-irvine-taiwanese-presbyterian-church-laguna-hills-ca||Evergreen Class by ITPC, Laguna Hills, CA]].
 
+## Role in the Community (corpus-linked, 2026-09-14)
+
+Our own story corpus holds three first-person records by/with Lin and his wife 詹正玉 — these outrank the press-kit profile as primary material:
+
+- **2018-10-24** — book-launch/life-story record: [[works/taiwaneseamericanhistory-org/129-the-life-stories-of-dr-mrs-ching-k-lin|TAH #129, The Life Stories of Dr. & Mrs. Ching K Lin 挑戰與感恩：我們的人生路]] (林清貴詹正玉夫婦).
+- **2019-01-17** — couple memoir in the story corpus: [[works/taiwaneseamericanhistory-org/my-stories-671|TAH #671, 林清貴、詹正玉 的故事]].
+- **2020-05-18** — donated personal papers: [[works/taiwaneseamericanhistory-org/private-collections-99-ching-k-lin|TAH #99, Collection of the Dr. Ching K. Lin 林清貴博士的收藏]].
+
+Together with the encyclopedia records ([[works/taiwaneseamericanhistory-org/ota-248|TAH #248 夫妻合傳]], [[works/taiwaneseamericanhistory-org/whos-who-886-ching-k-lin|TAH Who's Who #886]]) this shows a decades-long pattern of community self-documentation matching his ITPC/Evergreen-class teaching record above.
+
 ## Family
 
 - **Wife:** 詹正玉

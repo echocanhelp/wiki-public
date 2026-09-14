@@ -40,6 +40,11 @@ A Chiayi-born agricultural chemist, Dr. Ching-Tsang Hou built a four-decade rese
 - 1986–1988 — Director, Dept. of Microbial Biochemistry and Genetics/Natural Products, Squibb Institute for Medical Research, Princeton, NJ
 - 1989– — Lead Scientist, National Center for Agricultural Utilization Research, ARS, USDA, Peoria, IL
 - 1999– — US Side Chairperson, Biochemistry and Biotechnology Area, US-Japan program
+- 2015-01-23 — published his eightieth-birthday memoir 八十自述：出生在台灣 從日本人，中國人，到美國人 (Eighty Years-Old Memoir: Born in Taiwan, from Japanese, Chinese, to American) in the TAH story corpus: [[works/taiwaneseamericanhistory-org/mystories183|TAH #183]] (vault copy; full text stays in the vault). The memoir's framing — one life spanning three citizenships on one island — is his own account of the 1935-Chiayi generation; consistent with the 1935 birth year above (2015 − 1935 = 80).
+
+## Role in the Community
+- Left his personal papers with the TAH archive as a donated collection: [[works/taiwaneseamericanhistory-org/collection-of-dr-ching-tsang-hou|TAH #58, Collection of Dr. Ching-Tsang Hou 侯景滄博士的收藏]].
+- His memoir [[works/taiwaneseamericanhistory-org/mystories183|TAH #183, 八十自述 (2015)]] is held by the community as first-person movement-era history, alongside the encyclopedia records [[works/taiwaneseamericanhistory-org/58-dr-ching-tsang-hou|TAH #58]] and [[works/taiwaneseamericanhistory-org/whos-who-1837-ching-tsang-hou|TAH #1837]].
 
 ## Recognition & Service
 - American Oil Chemists Society Foundation — Vice Chairperson
