@@ -5,7 +5,7 @@ tags:
   - person
   - theologian
 verification_status: published
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # Dr. Lien-Hwa Chow (周聯華)
 
@@ -45,7 +45,7 @@ In this cluster, Dr. Chow functions as a reference point in theological lineage 
 
 Absorbed from vault pages already citing 周聯華 (no new sources):
 
-- [[works/taiwaneseamericanhistory-org/our-journeys-350||Our Journeys #350 (張瑞雄 memoir)]] records: 周聯華 was the pastor of 懷恩堂 and a Zhejiang native who studied in the U.S., described as theologically open-minded; he and 黃彰輝 got along well, conversing in English, and he took part in the Presbyterian Church centennial evangelism commemoration (長老教會宣教100年紀念). The same account notes his brother 周彤華 was ROC consul general in San Francisco (1967), whose help pastor 張瑞雄 used for family-visa paperwork.
+- [[works/taiwaneseamericanhistory-org/our-journeys-350||Our Journeys #350 (張瑞雄 memoir)]] records: 周聯華 was the pastor of 懷恩堂 and a Zhejiang native who studied in the U.S., described as theologically open-minded; he and [[people/shoki-coe||黃彰輝 (Shoki Coe)]] got along well, conversing in English, and he took part in the Presbyterian Church centennial evangelism commemoration (長老教會宣教100年紀念) — see also [[organizations/presbyterian-church-in-taiwan||PCT]]. The same account (memoir of [[people/jonah-chang||張瑞雄 (Rev. Jonah Chang)]]) notes his brother 周彤華 was ROC consul general in San Francisco (1967), whose help pastor 張瑞雄 used for family-visa paperwork. Note: 周聯華 himself pastored 懷恩堂 in Taipei; no separate vault page exists for that church yet.
 - [[people/pingtung-lai||Pingtung Lai]] lists 周聯華 among the advisory-network Christian figures (with 張群, 馬壽華) around the United Bible Societies work in Taiwan.
 - The Taiwan Justice republication cluster (余杰 on Chiang Kai-shek's Christianity) names 周聯華 as Chiang's "御用牧師" for spiritual consultation at 士林官邸 — consistent with his role as a KMT-era establishment pastoral voice.
 

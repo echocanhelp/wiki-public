@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # Prof. Ken S. Huang (黃根深教授)
 
@@ -63,3 +63,4 @@ Master of Arts (MA), Drawing, School of Art and Art History, University of Iowa,
 
 ## Notes
 - The page intro records his University of Iowa M.A. in Drawing as 1972 while the Education table records 1973 (M.A./MFA); both dates appear in the TAH record and are retained as-is pending verification.
+- Deepen pass 2026-09-14 (vault-only): the TAH Who's Who tables, family fields, and both Iowa date variants are mirrored above; all absorbable vault links (FAHR / NATPA-SC presidencies, 王康陸人權獎 honors [[people/kang-lu-wang||Kang-lu Wang 王康陸]], TAC-WC founding proposal, TAHS-logo & UFI/UFAI profile under [[people/huang-gen-shen||Huang Gen-shen]], photo album #128, collection #39) are already in place — no further vault-sourced facts.

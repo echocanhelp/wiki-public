@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # Sheng-Ching Angel Hsu (徐升晴)
 
@@ -58,3 +58,6 @@ _No filled family fields on the TAH profile._
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - [[works/taiwaneseamericanhistory-org/237-sheng-ching-angel-hsu-e5-be-90-e5-8d-87-e6-99-b4-violin-201507||TAH #237 — Sheng-Ching Angel Hsu 徐升晴, Violin (2015/07)]]
 - [[works/taiwaneseamericanhistory-org/492-sheng-ching-angel-hsu-e5-be-90-e5-8d-87-e6-99-b4-201507||TAH #492 — Sheng-Ching Angel Hsu 徐升晴 (2015/07)]]
+
+## Notes
+- Deepen pass 2026-09-14 (vault-only): the biography and education/employment tables above already mirror the full TAH Who's Who record; her institutions (Mannes, Juilliard, Manhasset School of Music) and sponsors (Yamaha, Kawai) have no vault pages, so they remain named-not-linked. Both TAH encyclopedia works (#237, #492) are linked; no further vault-sourced facts.

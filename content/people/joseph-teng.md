@@ -7,7 +7,7 @@ tags:
   - Taiwan-Center
   - board
 verification_status: published
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # Joseph Teng (曾英銘)
 
@@ -73,3 +73,4 @@ last_reviewed: 2026-09-11
 
 - The [[organizations/taiwan-center||Taiwan Center]] organization page's board section independently lists him in a six-seat 團體董事 cohort together with [[people/shirley-yu||Shirley Yu (張欣珠)]], [[people/joyce-yeh||Joyce Yeh (葉怡蘭)]], [[people/josephine-pan||Josephine Pan (潘掬慧)]], [[people/steven-wu||Steven Wu (吳尚誠)]], and [[people/lisa-hou||Lisa Hou (侯乃文)]]; the sponsoring organization is likewise not stated there.
 - He is reciprocally linked from class-instructor pages of the same mirrored roster, e.g. [[people/shi-yuli||Shi Yuli (施郁麗)]].
+- Deepen pass 2026-09-14: re-checked the archived taiwancenter.org/board snapshot and the Taiwan Center org page — no facts beyond the six-seat 團體董事 cohort already recorded; sponsoring organization remains not stated, seat post-dates the 2018 第11屆 會訊.
