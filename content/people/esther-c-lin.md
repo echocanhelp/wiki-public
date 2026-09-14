@@ -53,7 +53,7 @@ Esther C. Lin is a versatile Taiwanese American artist. President of Taiwan Cent
 
 - [[works/taiwaneseamericanhistory-org/musician337|TAH musician #337]] — Esther C. Lin 林陳春蘭, Soprano（2016-04-03 刊）
 - [[works/taiwaneseamericanhistory-org/whoswho925|TAH Who's Who #925]] — Esther C. Lin 林陳春蘭（2016-04-03 刊）
-- [[works/taiwaneseamericanhistory-org/concerts17|TAH concerts #17]] — 林陳春蘭師生音樂演奏會，Flushing, NY，1986-12-14
+- [[works/taiwaneseamericanhistory-org/concerts17|TAH concerts #17]] — 林陳春蘭師生音樂演奏會，Flushing, NY，1986-12-14（recording held 2015-07-28）— earliest documented NYC performance in the vault, predating her 2016 encyclopedia entries by three decades
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
