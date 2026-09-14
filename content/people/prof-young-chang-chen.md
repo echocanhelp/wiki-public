@@ -61,6 +61,9 @@ Prof. Young-Chang Chen 陳榮昌教授 – History of Taiwanese American (T.A. A
 - He is named among the San Diego/Camino recruiters of the 美西夏令會 movement in [[works/taiwaneseamericanhistory-org/ourjourneys265|TAH #265: 2011年美西夏令會的回顧 / 黃根深]]
 - Encyclopedia records in-vault: [[works/taiwaneseamericanhistory-org/125-prof-young-chang-chen|TAH #125]] · [[works/taiwaneseamericanhistory-org/whos-who-745-young-chang-chen|TAH #745]]
 
+## Deepen pass 2026-09-14 (vault-only)
+Re-verified all cross-references above against the vault: the memorial scholarship [[works/taiwaneseamericanhistory-org/awards79|TAH #79]], his essay [[works/taiwaneseamericanhistory-org/mystories142|TAH #142 歸巢]] (English twin also in-vault), and the 美西夏令會 mention in [[works/taiwaneseamericanhistory-org/ourjourneys265|TAH #265]] all exist. No new vault facts beyond what the TAH tables and prior 2026-09-10 pass already record; no new pages created.
+
 ## Sources
 - [TAH #125 encyclopedia: 125. Prof. Young-Chang Chen 陳榮昌教授](https://taiwaneseamericanhistory.org/125-prof-young-chang-chen/)
 - [TAH #745 encyclopedia: 745. Prof. Young-Chang Chen 陳榮昌教授](https://taiwaneseamericanhistory.org/whos-who-745-young-chang-chen/)

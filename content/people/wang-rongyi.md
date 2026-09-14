@@ -75,3 +75,7 @@ Absorbed from the cited class-listing source (`taiwancenter-org-class-informatio
 - [[people/he-sumei||He Sumei (何素美)]]
 - [[people/wei-boji||Wei Boji (魏博基)]]
 - [[people/xu-shitan||Xu Shitan (徐士坦)]]
+
+## Deepen — 2026-09-13 (vault-only)
+
+The Saturday choir he teaches has its own vault page: [[organizations/taiwan-center-choir||Taiwan Center Choir]] — now linked from this page's class listing above. All other links re-verified against live vault slugs (taiwan-center, taiwan-center-foundation-of-greater-los-angeles, taiwancenter-org hub, co-instructor people pages, three Taiwan Center event pages): all exist. No new vault facts beyond the choir-page link.
