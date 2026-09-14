@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-14
 ---
 # Jenny Lin (林佳靜)
 
@@ -41,3 +41,7 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- [[organizations/taiwanese-american-students-association-at-johns-hopkins-university||TAASA at Johns Hopkins]] — her alma mater's Taiwanese student association
+
+## Vault Record Notes
+- TAH story records held in vault: [[works/taiwaneseamericanhistory-org/whoswho1089|TAH #1089 Jenny Lin 林佳靜 (2016/06)]], [[works/taiwaneseamericanhistory-org/musician16|TAH #16 Jenny Lin 林佳靜, Pianist (2014/10)]], [[works/taiwaneseamericanhistory-org/520-jenny-lin-e6-9e-97-e4-bd-b3-e9-9d-9c-201507|TAH #520 林佳靜 (2015/07)]]

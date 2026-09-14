@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-14
 ---
 # Shiao-Uen Ding (丁曉雯)
 
@@ -41,3 +41,7 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- [[organizations/taiwanese-association-of-cincinnati||Taiwanese Association of Cincinnati]] — her doctoral locality (University of Cincinnati)
+
+## Vault Record Notes
+- TAH story records held in vault: [[works/taiwaneseamericanhistory-org/64-shiau-uen-ding-e4-b8-81-e6-9b-89-e9-9b-af-piano|TAH #64 Shiau-uen Ding 丁曉雯, Pianist]]、[[works/taiwaneseamericanhistory-org/92-dr-shiao-uen-ding-e4-b8-81-e6-9b-89-e9-9b-af-e5-8d-9a-e5-a3-ab-piaonist|TAH #92 丁曉雯博士, Pianist]]

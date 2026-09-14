@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-14
 ---
 # Rev. C. Y. Huang (黃主義牧師)
 
@@ -46,4 +46,8 @@ last_reviewed: 2026-08-17
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 ## Network
-- [[organizations/presbyterian-church-in-taiwan||PCT]] — TAH Who’s Who
+- [[organizations/presbyterian-church-in-taiwan||PCT]] — TAH Who’s Who（PCT 頁亦反向列其名）
+
+## Vault Record Notes
+- 朱真一以黃主義牧師 1949–1955 赴美進修（Union Theological Seminary, NYC）為早期留學北美神學者之例：[[works/taiwaneseamericanhistory-org/ourjourneys270|TAH #270 早期留學北美的台灣女士（朱真一）]]
+- TAH 故事記錄：[[works/taiwaneseamericanhistory-org/whos-who-1855-c-y-huang|TAH #1855 Rev. C. Y. Huang 黃主義牧師]]
