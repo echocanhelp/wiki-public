@@ -54,6 +54,16 @@ _No filled family fields on the TAH profile._
 ## Connected in the Vault
 - **Reciprocal link:** [[people/chih-long-hu||Chih-Long Hu]]'s page confirms he performed her piano solo "To An Isolated Island" on *Formosa: 24 Caprices for solo piano*.
 - **Archival record:** [[works/taiwaneseamericanhistory-org/20-ke-chia-chen-e9-99-b3-e5-8f-af-e5-98-89-composer|TAH #20 encyclopedia, Composer, 2014/10]]
+- **Archival record:** [[works/taiwaneseamericanhistory-org/whoswho1059|TAH #1059 encyclopedia, Ke Chia Chen 陳可嘉, 2015/06]]
+- **Publisher / source site:** [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]（TAH Who's Who 人物檔）
+
+## Career notes（deepen pass 2026-09-14，僅重組本頁 TAH 原文事實）
+
+- 創作上演範圍橫跨美國、日本、台灣的指標性樂團、室內樂團與獨奏家。
+- 代表場域與曲目：Carnegie Hall《Song of the Wanderer》（單簧管與鋼琴）；費城 WHYY 廣播電台《The Desires》（中提琴與雙弦樂四重奏）；Delaware Symphony Orchestra「Miles of Manuscript ~ A New Music Concert」（David Lang 主持）之《Rhapsody of Seasons》（弦樂四重奏）。
+- 錄音：《To An Isolated Island》（鋼琴獨奏）收錄於 Amillita Entertaining Group 發行《Formosa: 24 Caprices for solo piano》，由 [[people/chih-long-hu||Chih-Long Hu 胡志龍]] 演奏。
+- 教學與駐館：Curtis Institute of Music 教師（2010– ）；New York Youth Symphony 駐館作曲家；Brooklyn「Concerts on the Slope」室內樂團駐館作曲家（2016–2017）；紐約樂團 Assistant Conductor。
+- 學歷：Curtis Institute of Music（B.S. Composition）、Manhattan School of Music（M.S. Composition）、University of Pennsylvania（Ph.D. Composition）。
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
