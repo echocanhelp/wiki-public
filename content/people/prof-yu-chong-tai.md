@@ -62,3 +62,7 @@ _No filled family fields on the TAH profile._
 - 2005–2008 — EE Executive Officer (Chairman); 2005–2016 — Professor of EE and Mechanical Engineering
 - 2013– — Executive Officer of Medical Engineering
 - 2016– — Professor of Electrical Engineering and Medical Engineering, Caltech
+
+## Corpus re-check 2026-09-14 (deepen-x slice 09141300-11) — SKIP
+
+SKIP-with-reason: corpus grep over `content/works` and `content/articles` matches only his own cited TAH #2022 bibliographic record and the works index — no independent memoir/community corpus mentions found; nothing absorbable beyond the facts already on-page.

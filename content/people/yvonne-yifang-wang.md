@@ -68,3 +68,7 @@ All wikilink targets on this page verified to exist in the vault; all cited-sour
 
 ## Vault re-check 2026-09-14 (deepen-x slice 09140020-9, vault-only)
 Second vault-only pass: all cited-source facts remain fully absorbed (incl. the Soochow/Tunghai HOLD), all wikilink targets verified present. No further vault-only facts available; no web used, nothing published.
+
+## Role in the Community (absorbed from corpus, 2026-09-14)
+
+- Gave the special lecture 「泛音」 (harmonics) together with 黃令先老師 (Lynn Huang, composer/pianist) in 楊子清老師音樂短講 — the bel-canto technique series, episode 13 「快速音」 — as distributed via 台灣報報 (taiwanjustice.net): [[articles/taiwanjustice-net/2021/20210128084700_2020_12_13_楊子清老師音樂短講第13集_美聲唱法的技巧-7-快速_426d2811d4065134|2021-01-28 issue]] and [[articles/taiwanjustice-net/2025/20250327205857_楊子清老師音樂短講第13集_美聲唱法的技巧-7-快速_4119cffe264101c6|2025-03-27 re-run]]. Companion vault record: [[works/taiwaneseamericanhistory-org/488-lynn-huang-e9-bb-83-e4-bb-a4-e5-85-88-201507|TAH #488 — Lynn Huang 黃令先]].

@@ -103,3 +103,10 @@ She is recorded in the TAH Who's Who encyclopedia (#306, 2015/02) and on the [[s
 - [[people/wei-boji||Wei Boji (魏博基)]]
 - [[people/xu-shitan||Xu Shitan (徐士坦)]]
 - [[people/wang-rongyi||Wang Rongyi (王榮義)]]
+
+## Role in the Community (absorbed from corpus, 2026-09-14)
+
+- **亞美社會福利基金會 董事長:** spoke on 長輩居家照護 (in-home elder care) at the 4th 大洛杉磯台灣會館線上生活座談會 (2021-04-25, alongside 黃勝雄醫生 on COVID vaccines) — [[articles/taiwanjustice-net/2021/20210509161721_2021_04_18_大洛杉磯台灣會館線上生活座談會_四_4月25日舉_e42eec68227f1d4a|taiwanjustice.net 2021-05-09]].
+- **Taiwan Center contact:** listed as a contact (714-366-5585) for the 老人健康研習會講座系列 at 台灣會館 (Rosemead), with 黃勝雄醫師 lecturing on depression — [[articles/taiwanjustice-net/2025/20250328115404_老人健康研習會講座系列_黃勝雄-醫師講憂鬱症_e6a97afd26f5827e|taiwanjustice.net 2025-03-28]].
+- **Director:** named among the 38 台灣會館董事 in the announcement of the 2024 第26周年年會晚宴暨募款活動 (fundraiser for the US$20M rebuilding project) — [[articles/taiwanjustice-net/2025/20250420093345_2024大洛杉磯台灣會館第26周年年會晚宴暨募款活動11月2_2f4af86847559b66|taiwanjustice.net 2025-04-20]].
+- **台大校友紀錄:** signed the 2018 alumni protest letter over 南加州台大校友會 inviting 管中閔, listed as 張欣珠(社會) — the letter records her as 社會; the TAH profile lists B.A. Social Work. Recorded as-is, not resolved. [[articles/taiwanjustice-net/2018/20180721091303_2018_07_20_抗議-南加州台大校友會邀管中閔來年會做專題演講_a428dcebbceacf38|taiwanjustice.net 2018-07-21]].

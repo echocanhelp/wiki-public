@@ -80,3 +80,9 @@ Absorbed from this page's own cited TAH records; no new external facts:
 
 - Doctoral years at UC Berkeley (Ph.D. Agricultural Economics, 1975) — the vault documents Taiwanese student life at Berkeley at [[organizations/taiwanese-american-student-association-at-uc-berkeley||TASA at UC Berkeley]].
 - Professor at The Ohio State University 1987–2007 — the vault records the Taiwanese student community at OSU at [[organizations/taiwanese-american-student-association-ohio-state-university||TASA at Ohio State University]].
+
+## Role in the Community (absorbed from corpus, 2026-09-14)
+
+- Wrote the T.A. Archives (台美史料中心) history piece recorded as [[works/taiwaneseamericanhistory-org/292-wen-s-charlie-chern-e9-99-b3-e6-96-87-e9-9b-84201502|TAH #292: Wen S. (Charlie) Chern 陳文雄 (2015/02)]]; the vault holds the companion community-archive context at [[works/taiwaneseamericanhistory-org/introduction-of-the-ta-archives|Introduction of the T.A. Archives]].
+- Community record from his own cited encyclopedia entries: the first Taiwanese American to board Air Force One with President George W. Bush (1991-12-30) — see TAH #267 above and [[works/taiwaneseamericanhistory-org/892-an-immigrants-experience-on-air-force-one-the-story-of-winston-chen-nicole-a|TAH #892]].
+- HOLD: conflicting source naming — TAH #35 / #896 / #267 title him "Dr. Winston H. Chen" while TAH #292 titles him "Wen S. (Charlie) Chern". Both recorded as-is from the sources; not auto-merged.
