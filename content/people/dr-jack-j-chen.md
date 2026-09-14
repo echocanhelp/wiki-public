@@ -36,7 +36,7 @@ last_reviewed: 2026-09-14
 
 - **Wife:** Gina
 - **Daughter:** Faith, Sophia
-- **Father:** [[people/chen-zhefu-xu-chunhui||Jeff Chen 陳哲夫]]（1937–1995）— 與妻許春惠自 $2,000 _seed 投資建立南加州飯店事業、深參與台美人社區領導；詳見夫婦頁
+- **Father:** [[people/chen-zhefu-xu-chunhui||Jeff Chen 陳哲夫]]（1937–1995）— 與妻許春惠以 $2,000 起始投資建立南加州飯店事業、深參與台美人社區領導；詳見夫婦頁
 - **Mother:** [[people/julie-chen||Julie H. Chen 許春惠]] — TAH 紀錄：1941 年生、台南市、國立臺灣師範大學家政系、企業家；詳見該頁
 
 
