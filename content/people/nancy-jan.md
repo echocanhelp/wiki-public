@@ -45,6 +45,15 @@ _No filled family fields on the TAH profile._
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
+## Role in the Community
+
+Her presence in the corpus consists of the two TAH Who's Who encyclopedia records themselves (bibliographic-level records; full text stays in the TAH vault):
+
+- [[works/taiwaneseamericanhistory-org/musician102|TAH #102. Nancy Jan 詹雅惠, Violinist / 2012/12]] — HOLD: conflict on record date, entry title says 2012/12 vs corpus record date 2014-12-22 (Era 2014); never auto-merged.
+- [[works/taiwaneseamericanhistory-org/whoswho1119|TAH #1119. Nancy Jan 詹雅惠 / 2016/06]]
+
+No memoir or community-history text names her beyond these profiles.
+
 ## Deepen pass (2026-09-14, vault-only)
 Absorbed solely from facts already present on this page (TAH biography + tah-tables):
 
