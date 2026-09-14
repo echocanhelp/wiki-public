@@ -6,7 +6,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # 周政忠
 
@@ -54,3 +54,7 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+## Deepen 2026-09-14（vault-only）
+- 複核本頁兩筆 TAH 出處之 vault 頁 [[works/taiwaneseamericanhistory-org/648-e5-91-a8-e6-94-bf-e5-bf-a0-201510|TAH #648（2015-10-03 刊）]] 與 [[works/taiwaneseamericanhistory-org/297-jonathan-jou-e5-91-a8-e6-94-bf-e5-bf-a0-pinaist-201510|TAH #297（2015-10-03 刊）]]：均為書目記錄（bibliographic record only），全無可另吸收之傳記事實；本頁既有 Timeline 已涵蓋 TAH 全部所載。
+- 同語料庫 TAH 鋼琴家參照：[[people/joel-fan|Joel Fan 范景德]]、[[people/steven-lin|Steven Lin 林易]]、[[people/meng-chieh-liu|Meng-Chieh Liu 劉孟捷]]。

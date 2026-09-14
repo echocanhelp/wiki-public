@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # Prof. Kang-Lung Wang (王康隆教授)
 
@@ -49,3 +49,7 @@ Prof. Kang-Lung Wang 王康隆教授 – History of Taiwanese American (T.A. Arc
 - 求學時期對應的台美學生組織頁：[[organizations/association-of-taiwanese-students-at-mit||Association of Taiwanese Students at MIT]]（1966–1970 MIT 在讀期間之同期台美學生社團）。
 - 任教 UCLA（本页所載现职）时期对应之南加州台美校友社团页：[[works/taiwaneseamericanhistory-org/national-cheng-kung-university-alumni-association-of-southern-california||NCKU Alumni Association of Southern California]]（成功大学为其 1964 年母校；仅同期社团关联，未证实会员身分）。
 - publisher／語料庫：[[sources/taiwaneseamericanhistory-org-story-corpus||TAH story corpus]]。
+
+## Deepen 2026-09-14（vault-only）
+- 出處 TAH #1787 之 vault 頁 [[works/taiwaneseamericanhistory-org/whos-who-1787-kang-lung-wang|TAH #1787（2017-07-27 刊）]] 為書目記錄，全無可另吸收事實；Education／Employment 欄機構（成大、MIT、GE、HKUST、UCLA、FENA、CNSI、CEGN）vault 內均無獨立頁，維持本頁紀錄。
+- 家人錢慎微、Evelyn Wang 於 vault 無頁；Jou 家族頁（[[people/emerson-m-f-jou]]、[[people/jack-j-jou]]）與本頁無已證實關聯，不連結。

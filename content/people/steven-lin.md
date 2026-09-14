@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # Steven Lin (林易)
 
@@ -52,3 +52,7 @@ _No filled family fields on the TAH profile._
 - [[works/taiwaneseamericanhistory-org/575-steven-lin||TAH #575 林易]]（2015-09-07 刊）
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+## Deepen 2026-09-14（vault-only）
+- 出處之 vault 頁 [[works/taiwaneseamericanhistory-org/291-steven-lin-e6-9e-97-e6-98-93-pianist-201509|TAH #291（2015-09-07 刊）]]、[[works/taiwaneseamericanhistory-org/575-steven-lin|TAH #575（2015-09-07 刊）]] 為書目記錄，無新增可吸收事實；本頁 Timeline 已涵蓋全部所載。
+- 同語料庫 TAH 鋼琴家參照：[[people/joel-fan|Joel Fan 范景德]]、[[people/tah-p-850ffab5db|周政忠 Jonathan Jou]]、[[people/meng-chieh-liu|Meng-Chieh Liu 劉孟捷]]。

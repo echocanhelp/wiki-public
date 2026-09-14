@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # Joel Fan (范景德)
 
@@ -51,3 +51,7 @@ _No filled family fields on the TAH profile._
 ## Vault records（deepen pass 2026-09-10）
 - 本頁傳記之 TAH 出處頁：[[works/taiwaneseamericanhistory-org/290-e8-8c-83-e6-99-af-e5-be-b7-joel-fan-pianist-201509||TAH #290 Joel Fan 范景德, Pianist (2015/09)]]、[[works/taiwaneseamericanhistory-org/574-joel-fan-e8-8c-83-e6-99-af-e5-be-b7-pianist-201509||TAH #574 Joel Fan 范景德, Pianist (2015/09)]]。
 - publisher／語料庫：[[sources/taiwaneseamericanhistory-org-story-corpus||TAH story corpus]]。
+
+## Deepen 2026-09-14（vault-only）
+- 出處 tah-tables 之 Juilliard／Harvard／Peabody／Silk Road Ensemble／Northwest Sinfonietta 於 vault 仍無機構頁，維持本頁紀錄，不新建。
+- 同語料庫 TAH 鋼琴家參照：[[people/steven-lin|Steven Lin 林易]]、[[people/tah-p-850ffab5db|周政忠 Jonathan Jou]]。
