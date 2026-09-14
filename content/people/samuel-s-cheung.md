@@ -57,3 +57,4 @@ Samuel S. Cheung has performed as an accompanist in recitals at Carnegie Hall, M
 - 本人 TAH 百科條目的 vault 工作頁：[[works/taiwaneseamericanhistory-org/musician109|TAH #109 條目（2015/01）]]、[[works/taiwaneseamericanhistory-org/whoswho1120|TAH #1120 條目（2016/06）]]。
 - 伴奏演出脈絡（本頁既有記載）：Carnegie Hall、Merkin Recital Hall、Avery Fisher Hall（Lincoln Center）、Benaroya Hall 等登臺記錄見上。
 - 複核 2026-09-14：兩份 TAH 百科工作頁（#109、#1120）均為書目記錄，與本頁 Timeline 所載两次入選（2015/01、2016/06）一致；曼哈坦音樂院、紐約大學巴魯克學院等教育機構暫無獨立頁，見上方 Education 表，不另新建。
+- Slice 16 複核（2026-09-14）：[[works/taiwaneseamericanhistory-org/musician109|TAH #109]]、[[works/taiwaneseamericanhistory-org/whoswho1120|TAH #1120]]、[[organizations/tah-foundation|TAH Foundation]] 連結均解析至既存頁；vault 內無本頁未載之新事實。

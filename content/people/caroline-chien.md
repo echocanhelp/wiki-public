@@ -51,6 +51,7 @@ Accomplishment
 - 夫 [[people/dr-william-p-tseng||Dr. William P. Tseng 曾伯聰]] 之頁面已互列本頁為配偶（Wife: Caroline Chien 簡淑津），雙邊連結已對稱。
 - 本頁 TAH #1863 出處頁之發布紀錄：2017-08-21、B 級（essay/feature），見 [[works/taiwaneseamericanhistory-org/whos-who-1863-caroline-chien||TAH #1863 發布頁]]。
 - 靜宜大學（Providence Univ.）1970 化學系學士後轉修藝術（Columbia Univ.、American Art Schools）——皆已載於上表，無新事實。語料庫樞紐：[[sources/taiwaneseamericanhistory-org-story-corpus||TAH story corpus]]。
+- Slice 16 複核（2026-09-14）：配偶頁 [[people/dr-william-p-tseng||Dr. William P. Tseng]] 與出處工作頁 [[works/taiwaneseamericanhistory-org/whos-who-1863-caroline-chien||TAH #1863]] 均已存在且互列；靜宜大學、Columbia、New Jersey Art Foundation、Lions Clubs 新澤西州章無獨立頁，依規則不新建。
 
 ## Sources
 - [TAH #1863 encyclopedia: 1863. Caroline Chien 簡淑津](https://taiwaneseamericanhistory.org/whos-who-1863-caroline-chien/)
