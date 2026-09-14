@@ -49,6 +49,10 @@ _Facts absorbed from this page's own biography text and TAH tables; no new sourc
 
 _No filled family fields on the TAH profile._
 
+## Vault records（deepen 2026-09-14 corpus sweep）
+
+- 第二份百科條目工作頁：[[works/taiwaneseamericanhistory-org/534-valentina-wen-ting-huang-201508||TAH #534 Valentina Wen-Ting Huang（2015/08）]]——與上方 #268 同日期（2015-08-15）入庫，屬 TAH 音樂家專欄之平行記錄。除此之外 corpus sweep（works/、articles/）無其他可吸收之社群第一手材料；跳過（SKIP）新增社群章節——無本人著述、無紀念文、無活動報導提及。（articles/ 內之 "Valentina" 命中皆為 Matviyenko／赫魯曉夫夫人等同名異人，非本人。）
+
 ## Sources
 - [TAH #268 encyclopedia: 268. Valentina Wen-Ting Huang 黃文亭, Pianist / 2015/08](https://taiwaneseamericanhistory.org/268-valentina-wen-ting-huang-pianist-201508/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/valentina-wen-ting-huang/)

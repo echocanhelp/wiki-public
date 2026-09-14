@@ -45,6 +45,13 @@ Accomplishment
 - **Son:** Winston
 
 
+## Role in the Community（deepen 2026-09-14，出處：本會 corpus）
+
+王政卿在社群內部留下第一手著述，非僅 TAH 百科條目對象：
+
+- **高爾夫球俱樂部領導（1988–2018）**：他親撰 [[works/taiwaneseamericanhistory-org/51053||TAH #342〈紐約台灣人高爾夫球俱樂部——當董事長30年 (1988-2018) 感想〉]]（2018-11），自述擔任該俱樂部董事長三十年。HOLD: Conflict — TAH press-kit 欄位記為「Taiwanese Golf Association Lifetime CEO」，與其本人自述的「紐約台灣人高爾夫球俱樂部董事長 1988–2018」是否同一組織，兩說並存，不逕行合併。
+- **紐約台灣會館**：著 [[works/taiwaneseamericanhistory-org/mystories29||TAH #29〈紐約台灣會館二十六周年感言〉]]，與其 Taiwan Center/New York 董事身份互相印證（會館26周年感言出自董事之手）。
+
 ## Vault Holdings（deepen pass 2026-09-11）
 
 - TAH 傳記記錄：[[works/taiwaneseamericanhistory-org/139-prof-jen-chin-wang-e7-8e-8b-e6-94-bf-e5-8d-bf-e6-95-99-e6-8e-88||TAH #139 Prof. Jen Chin Wang 王政卿教授]]（書目記錄，全文在 TAH）。
