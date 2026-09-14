@@ -68,6 +68,14 @@ Clinic addresses, phone numbers, and plan lists from that directory are **not** 
 - [[people/tahs-member-onboarding||TAHS member onboarding]]
 - [[people/leonard-hsu-jr||Leonard Hsu Jr. (許景鴻)]]
 
+## Network（deepen pass 2026-09-14）
+
+以下僅重組本頁既有事實，連結皆指向 vault 內已存在頁面，未新增傳記內容：
+
+- **醫療專業**：南加州 Kaiser Permanente 胃腸科醫師（公開醫師目錄，2026-09-11 查證）；學歷、住院醫師訓練與第一人身分自述仍待本人提供。
+- **TAHS 關係**：由 [[people/leonard-hsu-jr||Leonard Hsu Jr.（許景鴻）]] 以表親身份引入，經台美人歷史協會（[[organizations/taiwanese-american-historical-society||TAHS]]）所有者驗證入會（2026-09-11）；入會流程見 [[people/tahs-member-onboarding||TAHS 會員導入程序]]。
+- **待補欄位**：中文名、光榮職銜、第一人身分自述 —— 皆為會員可編輯欄位，需所有者確認後刊登。
+
 ## Sources
 - [Kaiser Permanente physician directory — Lester Tsai, MD](https://healthy.kaiserpermanente.org/southern-california/physicians/lester-tsai-6602490)
 

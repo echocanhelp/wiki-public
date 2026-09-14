@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # Huei-Sheng Kao (高慧生)
 
@@ -66,3 +66,7 @@ Built from the on-page TAH bio (sources below; no new facts added):
 - [[works/taiwaneseamericanhistory-org/129-huei-sheng-kao-e9-ab-98-e6-85-a7-e7-94-9f-violinist-201502||TAH #129: Huei-Sheng Kao, Violinist (2015/02)]]
 - [[works/taiwaneseamericanhistory-org/242-huei-sheng-kao-e9-ab-98-e6-85-a7-e7-94-9f-201502||TAH #242: Huei-Sheng Kao 高慧生 (2015/02)]]
 - [[organizations/taiwanese-american-historical-society||TAHS]]
+
+## Vault re-check 2026-09-14 (deepen-x slice 09132337-3, vault-only)
+- Wikilink targets verified: Taiwanese Association of America Pittsburgh, Penn Taiwanese Student Association, and both TAH #129 / #242 work pages.
+- Curtis Institute of Music, the BBC Children's Orchestra, Chinese Youth Orchestra, Interlochen and the Capetown / Pittsburgh orchestras named in his bio have no vault pages; no new pages created. His cited encyclopedia records are bibliographic-only in the vault, so no further facts were absorbable without web. No web used, nothing published.

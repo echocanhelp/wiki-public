@@ -29,6 +29,16 @@ Taiwanese-American cellist, Judy Kang, launched her career with a performance fo
 - Celine Dion — Resident Cellist
 <!-- tah-tables:end -->
 
+## Career milestones（deepen pass 2026-09-14，僅重組本頁 TAH 原文事實）
+
+- 生涯起點：世界級大提琴家 Yo-Yo Ma 世界大師巡迴（Worldwide Master Tour）訪台，家鄉台北的首演契機。
+- 學經歷：南加大（USC Thornton School of Music）全額獎學金，USC 校史首位同時取得大提琴與鋼琴演奏雙學位者；TAH 表欄記載南加大 B.A. 音樂系。
+- 駐團：Celine Dion 駐團大提琴家。
+- 指揮合作：John Williams 指揮下演出。
+- 同台藝人：Elton John、Stevie Wonder、Demi Lovato、Michael McDonald、Sarah McLachlan、Carly Rae Jepsen、Andrea Bocelli、Earth Wind & Fire。
+- 大提琴家合作：Mischa Maisky、Steven Isserlis、Ralph Kirshbaum、Lynn Harrell。
+- 電視演出：Access Hollywood、ABC《Good Morning America》、Latin Grammy Awards、Fox《GLEE》及《The GLEE Project》。
+
 ## Family
 
 _No filled family fields on the TAH profile._

@@ -60,4 +60,14 @@ Recorded on the page of [[organizations/irvine-taiwanese-presbyterian-church||Ir
 - [[works/taiwaneseamericanhistory-org/whos-who-886-ching-k-lin||TAH Who's Who #886: Dr. Ching K. Lin 林清貴博士]]
 
 ## Network
-- [[organizations/irvine-taiwanese-presbyterian-church||ITPC]] — TAH Who’s Who; instructor & speaker roster
+- [[organizations/irvine-taiwanese-presbyterian-church||ITPC]] — TAH Who's Who; instructor & speaker roster
+- [[organizations/evergreen-class-by-irvine-taiwanese-presbyterian-church-laguna-hills-ca||Evergreen Class（長青教室）]] — Director（TAH Who's Who 記載同 ITPC 教會頁面所載教師身分）
+
+## Life & career timeline（deepen pass 2026-09-14，僅重組本頁 TAH 原文事實）
+
+- 嘉義出身；[[organizations/tah-foundation||TAH Foundation]] Who's Who 記載。
+- 學歷：省立中興大學（今國立中興大學）森林學士（1963）→ 北卡大學（Univ. of North Carolina）林業與造紙碩士 → NC State University 紙品科學與聚合物物理博士（1975–1980）。
+- 經歷：中興大學教授（1972–1975）；Monsanto Company 尼龍纖維製造與研發工程；佛羅里達州 Pensacola 中餐廳負責人（1980–2001）。
+- 社區：[[organizations/irvine-taiwanese-presbyterian-church||ITPC]] 執事；長青教室（Evergreen Senior Class）主任；Lambert Ranch 亞美協會創辦人暨首任會長；UC Irvine 記憶障礙與神經疾病研究所亞裔諮詢委員會董事。
+- 家庭：妻詹正玉；女 Jean；子 Jack、James（TAH #248 夫妻合傳）。
+- 原始條目：[[works/taiwaneseamericanhistory-org/ota-248||TAH #248（夫妻合傳）]]、[[works/taiwaneseamericanhistory-org/whos-who-886-ching-k-lin||TAH Who's Who #886]]。

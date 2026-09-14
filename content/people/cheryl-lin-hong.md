@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # Cheryl Lin Hong (林千千)
 
@@ -58,3 +58,7 @@ Ms. Cheryl Lin Hong started her piano lesson at 5, and was fascinated by music s
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+## Vault re-check 2026-09-14 (deepen-x slice 09132337-3, vault-only)
+- Wikilink targets verified: NATWA, NATWA Detroit Chapter, Cho-Liang Lin, Ya-Hui Wang, TAH #261 / #554, the Akron Symphony concert record, and the TAH #161 / #268 essays citing her.
+- NATMA, 輔仁大學, Columbia University and the Detroit 愛樂小集 named on this page have no vault pages; left as plain text, no new pages created. No web used, nothing published.

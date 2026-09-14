@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # Westchester Taiwanese Women’s Association WTWA (威郡台灣婦女會)
 
@@ -46,3 +46,6 @@ The association's own TAH encyclopedia record (#108) and directory record exist 
 
 ## Vault re-check 2026-09-11 (deepen-x slice 7, vault-only)
 All wikilink targets on this page verified to exist in the vault; all cited-source facts were already absorbed in the prior deepen pass. No new vault facts found, no web used, no new pages created, nothing published.
+
+## Vault re-check 2026-09-14 (deepen-x slice 09132337-3, vault-only)
+- All wikilink targets re-verified (Taiwan Center, TAH #108, directory record, Passport to Taiwan, Westchester NY geography, Heritage Week of Westchester County). Every fact in the directory description remains fully absorbed in the History section; no new vault-only facts surfaced this pass. No web used, no new pages created, nothing published.

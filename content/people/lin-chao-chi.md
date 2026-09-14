@@ -8,7 +8,7 @@ tags:
   - tahs-publication-2017
   - shihping-site
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # Lin Chao-chi (林朝棨)
 

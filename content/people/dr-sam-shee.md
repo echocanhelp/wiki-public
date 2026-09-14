@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # Dr. Sam Shee (施哲三醫師)
 
@@ -56,3 +56,8 @@ last_reviewed: 2026-09-11
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+## Vault re-check 2026-09-14 (deepen-x slice 09132337-3, vault-only)
+- All wikilink targets verified to exist: Musée Highland, Karen Shee, TASA Northwestern, and his TAH #79 / #1105 / artist9 work pages.
+- 北美台灣人醫師年會 (North American Taiwanese Physicians Association), wife 陳維琳, Meriter Hospital and Northwestern's own institutions have no vault pages; left as plain text, no new pages created.
+- His cited work pages are bibliographic-only records in the vault (full text stays at the source), so no further facts were absorbable without web. No web used, nothing published.
