@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # Dr. Mu-Sheng Wu (吳木盛博士)
 
@@ -56,3 +56,9 @@ Accomplishment
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - [[organizations/taiwanese-association-of-america||Taiwanese Association of America]]
 - [[organizations/austin-taiwanese-association||Austin Taiwanese Association]]
+- [[organizations/taiwanese-american-professionals-austin||Taiwanese American Professionals Austin]] — 定居 Austin 時期地域相關社團，非成員事實。
+
+
+## Deepen pass (2026-09-14)
+- TAA 會長（1974–1976）、Austin 會相關事實均出自既有 TAH 書目記錄（#14／#36／#44／#74／收藏頁），全文仍在 TAH；vault 無可再補傳記事實。
+- 家庭欄（妻 洪文治、子女 Jean／Jennifer／Ben）依 TAH 原文維持，vault 內無對應頁面。
