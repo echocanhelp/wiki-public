@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # Prof. Chin-Hsien Jim Wang (王進賢教授)
 
@@ -52,3 +52,6 @@ Prof. Chin-Hsien (Jim) Wang 王進賢教授 – History of Taiwanese American (T
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+## deepen 2026-09-14
+- 出處頁出版日（自 vault works 頁）：[[works/taiwaneseamericanhistory-org/ota-244||TAH #244]] 2019-02-09、[[works/taiwaneseamericanhistory-org/whos-who-418-chin-hsien-wang||TAH #418]] 2015-05-20、[[works/taiwaneseamericanhistory-org/ourjourneys352||TAH #352]]。

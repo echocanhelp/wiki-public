@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # Dr. Lily Wang (王俐力醫師)
 
@@ -48,3 +48,7 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+## deepen 2026-09-14
+- 兩篇 TAH 出處頁均有 vault 頁：[[works/taiwaneseamericanhistory-org/ota-286||TAH #286]]（2019-05-20 發布）、[[works/taiwaneseamericanhistory-org/whos-who-1203-lily-wang||TAH #1203]]（2016-07-30 發布）。
+- FAPA  ohio 章節之外，Vault 現有 FAPA 章節頁可資對照：[[organizations/fapa-los-angeles||FAPA Los Angeles]]、[[organizations/fapa-orange-county||FAPA Orange County]]。
