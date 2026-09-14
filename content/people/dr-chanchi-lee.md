@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-13
+last_reviewed: 2026-09-14
 ---
 # Dr. Chanchi Lee (李常吉醫師)
 
@@ -35,7 +35,7 @@ Accomplishment
 - **Philadelphia area career** — Director of Surgery and Deputy Director of Surgery Department, Urology, Bucks County Branch, Temple University of Pennsylvania; Attending Physician and Assistant Professor, Hahnemann Medical College Hospital; Physician, Bucks County Urology Clinic.
 - **FAPA PA Chapter** — President, Formosan Association for Public Affairs (FAPA) [[organizations/fapa-los-angeles|FAPA]] Pennsylvania Chapter (台灣人公共事務會賓夕法尼亞州分會).
 - **2009–2012** — President, [[organizations/taiwan-hakka-association-for-public-affairs-in-north-america||Taiwan Hakka Association for Public Affairs in North America (HAPA-NA)]] (北美客家公共事務協會會長).
-- **Community** — President, Taiwanese Hakka Association of Greater Philadelphia (大費城台灣客家同鄉會).
+- **Community** — President, Taiwanese Hakka Association of Greater Philadelphia (大費城台灣客家同鄉會) — see the association's vault record [[works/taiwaneseamericanhistory-org/taiwanese-hakka-assoc-of-greater-philadelphia||Taiwanese Hakka Assoc. of Greater Philadelphia]].
 
 ## Family
 
@@ -54,6 +54,8 @@ Accomplishment
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - [[works/taiwaneseamericanhistory-org/154-dr-chanchi-lee||TAH Encyclopedia #154: Dr. Chanchi Lee 李常吉醫師]]
 - [[works/taiwaneseamericanhistory-org/whos-who-1335-chanchi-lee||TAH Who's Who #1335: Dr. Chanchi Lee 李常吉醫師]]
+- [[works/taiwaneseamericanhistory-org/taiwanese-hakka-assoc-of-greater-philadelphia||TAH record: Taiwanese Hakka Assoc. of Greater Philadelphia]] — the Greater Philadelphia Hakka association he led as president, documented in the TAH corpus in the vault.
+- [[organizations/taiwanese-hakka-association-of-the-world||Taiwanese Hakka Association of the World]] — global Hakka umbrella in the vault's Hakka-association cluster; affiliation not asserted.
 
 ## Deepen pass 2026-09-10 (vault-only)
 Both cited encyclopedia records (#154, Who's Who #1335) exist in the vault and are now wikilinked above. No new external facts absorbed — page's own TAH tables (Taipei Medical Univ. M.D.; Temple/Hahnemann/Bucks County urology posts; FAPA PA, HAPA-NA 2009–2012, Greater Philadelphia Hakka association presidencies; family: Lynn Chen, daughter Melanie 李玫蘭) already reflect source content.
@@ -61,3 +63,7 @@ Both cited encyclopedia records (#154, Who's Who #1335) exist in the vault and a
 ## Deepen — 2026-09-11 (vault-only)
 
 FAPA chapter presidency now wikilinked to the vault's existing FAPA page ([[organizations/fapa-los-angeles|FAPA]]; no PA-chapter page exists, nearest existing FAPA page linked). All prior links (#154, #1335, HAPA-NA) re-verified present.
+
+## Deepen — 2026-09-14 (vault-only pass)
+
+New link: the Greater Philadelphia Hakka association he presided over has its own TAH-corpus record now in the vault ([[works/taiwaneseamericanhistory-org/taiwanese-hakka-assoc-of-greater-philadelphia]]), linked from the Timeline and Related Pages. A contextual link to the Hakka umbrella [[organizations/taiwanese-hakka-association-of-the-world||Taiwanese Hakka Association of the World]] was added (affiliation not asserted). No new external biography.

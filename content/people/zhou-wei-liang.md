@@ -6,7 +6,7 @@ tags:
   - TAHS
   - 2017-publication
 verification_status: provisional
-last_reviewed: 2026-09-13
+last_reviewed: 2026-09-14
 ---
 # Zhou Weiliang (周威廉)
 
@@ -58,6 +58,7 @@ Pages that link to **zhou-wei-liang** (zhou-wei-liang):
 
 - [[people/albert-s-lai||Dr. Albert S. Lai]]
 - [[people/sam-chang||Sam Chang (張善良)]] — profile compiled by Zhou Weiliang
+- [[sources/2023-tahs-publication||2023 TAHS Publication]] — TAHS's later publication in the same series, held in the vault.
 
 ## Deepen — 2026-09-10 (vault-only pass)
 
@@ -68,3 +69,7 @@ Editorial-team colleagues on the publication's editor list who have vault pages:
 ## Deepen — 2026-09-11 (vault-only re-check)
 
 All disambiguation and editorial-team links re-verified against live vault slugs (zhou-wei-lin, sam-chang, zheng-bing-quan, stella-chen, freeman-huang, liao-qingshan, hsu-hsin-hung, wang-gui-rong, wang-neng-xiang, 2017-TAHS hub): all exist. No new vault facts.
+
+## Deepen — 2026-09-14 (vault-only pass)
+
+All existing links re-verified. One new contextual link added: TAHS's later [[sources/2023-tahs-publication||2023 TAHS Publication]] hub now in Related Pages. No new external facts about Zhou Weiliang exist in the vault beyond the 2017 publication record already reflected here.

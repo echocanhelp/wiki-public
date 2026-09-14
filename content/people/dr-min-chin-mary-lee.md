@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-13
+last_reviewed: 2026-09-14
 ---
 # Dr. Min-Chin Mary Lee (李敏琴醫師)
 
@@ -62,3 +62,9 @@ _No filled family fields on the TAH profile._
 - [[works/taiwaneseamericanhistory-org/whos-who-2192-min-chin-lee||TAH #2192 encyclopedia: Dr. Min-Chin Mary Lee 李敏琴醫師]]
 - [[works/taiwaneseamericanhistory-org/222-2||TAH #222 encyclopedia: Dr. Min-chin Mary Lee 李敏琴醫師]]
 - [[organizations/taiwanese-association-of-america-greater-philadelphia||TAA Greater Philadelphia]] — community near her Philadelphia-area base (Sidney Kimmel Medical College, Nemours) from 2018; membership not asserted.
+- [[organizations/harvard-taiwanese-cultural-society||Harvard Taiwanese Cultural Society]] — Taiwanese campus community organization at her alma mater (Harvard College, A.B. 1979); membership not asserted.
+- [[organizations/duke-taiwanese-student-association||Duke Taiwanese Student Association]] — Taiwanese student community organization at Duke during her faculty tenure at Duke University Medical School (2000–2004); membership not asserted.
+
+## Deepen — 2026-09-14 (vault-only pass)
+
+Both cited TAH encyclopedia records are held in the vault ([[works/taiwaneseamericanhistory-org/whos-who-2192-min-chin-lee|#2192]], [[works/taiwaneseamericanhistory-org/222-2|#222]]) and were re-verified. No new external facts absorbed — the page's own TAH tables (Harvard A.B. 1979, SUNY-Buffalo M.D. 1983, pediatrics faculty posts at Pennsylvania, MGH, Duke, UMass, Sidney Kimmel, Nemours CSO, pediatric endocrine/andrology society presidencies, NIH NIEHS council) already reflect source content. Added contextual cross-links to existing vault pages for the Taiwanese communities at her institutions (contextual only; membership not asserted).

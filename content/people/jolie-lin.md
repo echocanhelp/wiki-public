@@ -59,3 +59,8 @@ Her TAH encyclopedia entries are held in the vault as community historical recor
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[organizations/taiwanese-american-historical-society||TAHS]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- [[organizations/taiwanese-american-student-association-at-uc-berkeley||Taiwanese American Student Association at UC Berkeley]] — Taiwanese campus community organization at her alma mater (B.S., UC Berkeley); membership not asserted.
+
+## Deepen — 2026-09-14 (vault-only pass)
+
+Both cited TAH encyclopedia records are archived in the vault (#211, #440 — already wikilinked above) and re-verified. No new external facts absorbed — the page's Career section already reflects the full TAH profile text and tables (UC Berkeley B.S.; Peabody M.M./DMA; teaching posts at Northern Virginia Community College, Peabody Prep, Baltimore School for the Arts). Added one contextual cross-link to an existing vault page for the Taiwanese community at her alma mater (membership not asserted).
