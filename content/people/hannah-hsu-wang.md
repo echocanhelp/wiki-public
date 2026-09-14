@@ -53,3 +53,5 @@ _No filled family fields on the TAH profile._
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - [[organizations/north-america-taiwanese-womens-association|North America Taiwanese Women's Association]] — parent organization of the New York chapter she led as president
 - Vault record of the chapter she chaired: [[works/taiwaneseamericanhistory-org/natwa-new-york-chapter|NATWA New York Chapter record]]
+
+Deepen pass 2026-09-14: re-checked against the cited TAH records (#161, #555, #62) and concert/recital records (#4, #131, #143) already linked on this page; all in-vault facts are reflected above. No further absorbable facts (no web used); no new pages — no vault org pages exist yet for New England Conservatory, Yale, 東吳大學, 師範大學, or 中國文化學院.

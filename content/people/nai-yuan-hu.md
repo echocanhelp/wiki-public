@@ -61,3 +61,5 @@ Trained at Indiana Univ., Nai-Yuan Hu turned his 1985 Queen Elisabeth First Priz
 - [[works/taiwaneseamericanhistory-org/95-nai-yuan-hu||TAH #95: Nai-Yuan Hu 胡乃元]]
 - [[works/taiwaneseamericanhistory-org/88-nai-yuan-hu||TAH #88: Nai-Yuan Hu 胡乃元, Violinist (2014/12)]]
 - [[works/taiwaneseamericanhistory-org/whos-who-136-nai-yuan-hu||TAH Who's Who #136: Nai-Yuan Hu 胡乃元]]
+
+Deepen pass 2026-09-14: re-checked against the cited TAH #95 / #88 / #136 records linked above; all in-vault facts are already reflected on the page (no web used). No standalone vault org pages exist yet for Taiwan Connection, TC Chamber Orchestra, Indiana Univ., or the Queen Elisabeth Competition, so no further existing-slug links were available.
