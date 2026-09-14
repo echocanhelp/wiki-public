@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # Prof. Wen-Hwa Lee (李文華教授)
 
@@ -63,3 +63,12 @@ Accomplishment
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+## Vault connections (2026-09-14 deepen pass, context only)
+- [[organizations/joint-alumni-association-of-taiwan-teachers-college-and-normal-univers||Joint Alumni Association of Taiwan Teachers College and Normal Universities]] — context for his 1972 B.S. in Biology at 師範大學 (National Taiwan Normal Univ.)
+- [[organizations/taiwanese-student-association-at-uc-berkeley||Taiwanese Student Association at UC Berkeley]] — context for his 1981 Ph.D. in Molecular Biology at UC Berkeley
+- [[organizations/united-taiwanese-association-at-uc-san-diego||United Taiwanese Association at UC San Diego]] — context for his 1984–1991 professorship at UCSD
+- [[organizations/taiwanese-american-organization-at-uc-irvine||Taiwanese American Organization at UC Irvine]] — context for his 2003–2019 UC Irvine years (Donald Bren Professor → Chancellor)
+- [[sources/penghu-info||Penghu]] — context for his 1950 birthplace, Penghu
+
+Context-of-staff affiliation links only — no documented membership. Spouse discrepancy vs [[people/prof-eva-y-h-p-lee||Prof. Eva Y. H. P. Lee]] remains on HOLD pending owner verification.

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # Sean Wang (王雍翔博士)
 
@@ -60,3 +60,6 @@ _No filled family fields on the TAH profile._
 
 ## Vault records (deepen pass 2026-09-11)
 - Institution-context pages in the vault corpus: [[organizations/taiwanese-cultural-society-at-stanford-university||Taiwanese Cultural Society at Stanford University]] and [[organizations/stanford-taiwanese-student-association||Stanford Taiwanese Student Association]] (Ph.D. years at Stanford), [[organizations/vanderbilt-tssa||Vanderbilt TSSA]] (violin professor post listed 泛德堡大學 — apparent typo for 范德堡/Vanderbilt). Context only — no documented membership.
+
+## Deepen pass 2026-09-14 (vault-only)
+Re-checked both cited TAH works (#246, #503) and the corpus: all absorbable biographical text is already in the profile/timeline above, and every institution with a vault page (Stanford, Vanderbilt) is linked. No Curtis Institute, Juilliard, Houston, or 高雄 page exists in the vault, so no further existing-slug links apply. Status: saturated, pending-verification.

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # Vera Hui-pin Hsu (許惠品)
 
@@ -60,3 +60,6 @@ _No filled family fields on the TAH profile._
 
 ## Deepen pass 2026-09-10 (vault-only)
 Both cited encyclopedia records (#312, #154, 2015/02) exist in the vault and are now wikilinked above. Career section already absorbs their full content (2009 Georgia conductors competition win; 2012 Haifa Symphony tour; 2013 DMA, CUNY Graduate Center under Martin Canin; 2015/01 Haifa University artist-in-residence; recording of Sung-jen Hsu's "Pounding Rain" with Taiwan Philharmonic on the Voice of Taiwan series). Taipei arts university degrees on the TAH table remain as recorded.
+
+## Deepen pass 2026-09-14 (vault-only)
+Re-checked both cited records: content remains fully absorbed. No vault pages exist for Taipei National University of the Arts, CUNY, Haifa University/Symphony, Sung-jen Hsu, or the CKS Cultural Center, so no further existing-slug links apply. Status: saturated, pending-verification.
