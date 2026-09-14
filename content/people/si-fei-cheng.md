@@ -57,3 +57,4 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- [[organizations/university-of-minnesota-taiwanese-student-association||University of Minnesota Taiwanese Student Association]] — institutional context for his Minnesota Orchestra base since 1995 (context link only; no membership asserted)
