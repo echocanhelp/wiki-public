@@ -83,3 +83,6 @@ The Saturday choir he teaches has its own vault page: [[organizations/taiwan-cen
 ## Deepen — 2026-09-14 (vault-only re-check)
 
 Cited class-listing source (`taiwancenter-org-class-information.md`) fully absorbed; no additional vault pages mention 王榮義. All wikilinks (choir org page, Taiwan Center org + foundation, taiwancenter.org hub, co-instructors, event pages) resolve to existing slugs. No new vault facts, no web used, nothing published.
+
+## Vault re-check 2026-09-14 (deepen-x slice 09140845-3, vault-only)
+All wikilink targets re-verified to exist in the vault; all cited-source facts remain as absorbed in prior deepen passes. No new vault facts, no web used, no new pages, nothing published.

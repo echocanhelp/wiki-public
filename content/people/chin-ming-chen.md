@@ -72,3 +72,6 @@ All cited records (#102, #899, #17) remain fully absorbed; GTI and the Greater N
 
 ## Vault re-check 2026-09-14 (deepen-x slice 09140020-6, vault-only)
 All wikilink targets (#102, #899, #17, GTI, pen-club pages) verified to exist in the vault; the three cited TAH records are band-B bibliographic pages with no additional absorbable text. No new vault facts found, no web used, no new pages, nothing published.
+
+## Vault re-check 2026-09-14 (deepen-x slice 09140845-3, vault-only)
+All wikilink targets re-verified to exist in the vault; all cited-source facts remain as absorbed in prior deepen passes. No new vault facts, no web used, no new pages, nothing published.
