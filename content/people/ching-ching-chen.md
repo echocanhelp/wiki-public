@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # Ching Ching Chen (鄭青青)
 
@@ -55,3 +55,7 @@ _No filled family fields on the TAH profile._
 ## Vault records（deepen pass 2026-09-11）
 - 本页传记之 TAH 出处页：[[works/taiwaneseamericanhistory-org/whoswho1053||TAH #1053 Ching Ching Chen 鄭青青 (2016/05)]]、[[works/taiwaneseamericanhistory-org/23-e9-84-ad-e9-9d-92-e9-9d-92-ching-ching-cheng||TAH #23 鄭青青 Ching Ching Cheng]]（异拼出处页，见本页 Name Variants）。
 - publisher／語料庫：[[sources/taiwaneseamericanhistory-org-story-corpus||TAH story corpus]]。
+
+## Vault re-check (2026-09-14, vault-only)
+- 出處頁發布日期（vault records）：TAH #1053 發布於 2016-06-02；TAH #23（異拼 Cheng 出處）發布於 2014-11-24。
+- 兩出處頁皆為書目記錄，無其他可吸收事實（語料庫入口見上節）。

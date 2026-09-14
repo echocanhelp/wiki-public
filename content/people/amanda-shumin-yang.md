@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # Amanda Shumin Yang (方書敏)
 
@@ -57,3 +57,8 @@ _No filled family fields on the TAH profile._
 ## Vault Holdings (deepened 2026-09-11)
 - [[works/taiwaneseamericanhistory-org/556-amanda-shumin-yang-e6-96-b9-e6-9b-b8-e6-95-8f-201508||TAH #556: 方書敏]]
 - [[works/taiwaneseamericanhistory-org/556-amanda-shumin-yang-e6-96-b9-e6-9b-b8-e6-95-8f-violinist-201508||TAH #281: 方書敏, Violinist]]
+
+## Vault re-check (2026-09-14, vault-only)
+- 出處頁發布日期（vault records）：556 系條目頁發布於 2015-08-29；同一檔案另有 Violinist 版本（來源清單標為 #281，vault 檔名沿用 556 slug，兩者為同源異題）。
+- 語料庫入口：[[sources/taiwaneseamericanhistory-org-story-corpus||TAH story corpus]]。
+- 兩出處頁皆為書目記錄，無其他可吸收事實。

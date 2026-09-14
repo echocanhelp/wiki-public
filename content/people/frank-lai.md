@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # Frank Lai (賴文雄)
 
@@ -59,3 +59,9 @@ _No filled family fields on the TAH profile._
 - [[works/taiwaneseamericanhistory-org/1014-frank-lai-e8-b3-b4-e6-96-87-e9-9b-84-201605||TAH Encyclopedia #1014: Frank Lai 賴文雄]]
 - [[people/tsan-hung-george-chang||張燦鍙 (George Chang)]] — co-interviewee, TAH #53
 - [[works/taiwaneseamericanhistory-org/whoswho1044||TAH Encyclopedia #1044: W. S. Lai 賴文雄]] — encyclopedia profile
+
+## Vault 深挖（2026-09-14）
+- 1966 年引薦 [[people/huang-gen-shen||黃根深]] 加入 [[organizations/united-formosans-for-independenceufi||UFI（台灣獨立建國聯盟）]]，兩人為終生好友（據黃根深頁：黃為 UFI 創始成員中唯一藝術家，任《福爾摩沙通訊》Formosan Gram 秘書兼發行）。
+- TAH #53 口述歷史（1966 橫貫美國之旅）另兩位受訪者：[[people/tsan-hung-george-chang||張燦鍙 (George Chang)]] 與 [[people/ron-chen||陳榮成 (Ron Chen / Long-Chen Chen)]]——陳榮成頁記載同一年、同一行程。
+- 出處頁發布日期（vault records）：#1014 — 2016-05-22；#1044 — 2016-05-28；#53 口述歷史 — 2015-12-04。
+- 發布機構：[[organizations/taiwanese-american-historical-society||TAHS]]；語料庫：[[sources/taiwaneseamericanhistory-org-story-corpus||TAH story corpus]]。
