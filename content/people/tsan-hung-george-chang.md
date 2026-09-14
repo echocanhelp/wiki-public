@@ -62,6 +62,13 @@ Tsan-hung George Chang 張燦鍙 – History of Taiwanese American (T.A. Archive
 - 1997–2001 — 台南市政府 市長
 - 現任 — 台南市李登輝民主協會 常務理事
 
+## Role in the Community (deepened 2026-09-14, vault corpus)
+- 1966 — With 陳榮成 and 賴文雄 he made the first long journey across the U.S.A. by car, an early mobility/organizing episode recorded in the TAH encyclopedia: [[works/taiwaneseamericanhistory-org/53-george-chang-long-chen-chen-wen-hsong-lai-e5-bc-b5-e7-87-a6-e9-8d-99-e9-99-b3|TAH #53 — The first long journey across the U.S.A.]].
+- FAPA's origin traces to his chairmanship: as WUFI president he wrote (1982-01-10) to twenty enthusiastic colleagues worldwide inviting them to a Los Angeles meeting on an overseas radio station; the Feb 13 meeting pivoted to founding a national-diplomacy organization — the birth of FAPA, per 蔡同榮's memoir [[works/taiwaneseamericanhistory-org/ourjourneys65-eng|Our Journeys #65 — The Birth of FAPA]] → [[organizations/fapa-los-angeles||FAPA Los Angeles]].
+- 《台灣公論報》founding era: in 張月英's oral history he quipped that even he was told 《台獨月刊》「拿去廁所看還看不下去」, prompting the movement to publish an easier-to-read paper, and he proposed a 「三日刊」 cadence for it: [[works/taiwaneseamericanhistory-org/ourjourneys49|Our Journeys #49 — 《台灣公論報》創刊]].
+- The KMT prosecution in the 美麗島/Kaohsiung Incident named him a 「暴力分子」 whose alleged work-funds ($5,000 carried by Rev. 張瑞雄 to 姚嘉文) were branded WUFI donations — regime-side evidence of his WUFI fundraising reach: [[works/taiwaneseamericanhistory-org/our-journeys-350|Our Journeys #350 — 舊金山灣區台灣基督教會史料]].
+- Memorialized alongside 林永生 and 王康陸 in the community's remembrance of 王康陸: [[works/taiwaneseamericanhistory-org/ourjourneys302|Our Journeys #302 — 台美人沒有忘記王康陸]].
+
 ## Sources
 - [TAH #56 encyclopedia: 56. Professor George Chang 張燦鍙教授 / The longest president of World United Formosa](https://taiwaneseamericanhistory.org/56-professor-george-chang-the-longest-president-of-world-united-formosans/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/tsan-hung-george-chang/)

@@ -66,3 +66,4 @@ _No filled family fields on the TAH profile._
 - [[works/taiwaneseamericanhistory-org/whos891-jen-hsin-lin||TAH Who's Who #891 record]] — bibliographic record (published 2016-03-15); the two entries were published a day apart in the same cycle, consistent with one 2016-03 profile submission
 - Orange County community context held in the vault (no membership claimed by either record): [[organizations/orange-county-taiwanese-association||Orange County Taiwanese Association]] · [[organizations/irvine-taiwanese-presbyterian-church||Irvine Taiwanese Presbyterian Church]]
 - No vault pages exist yet for the venues already named on this page (台北市立美術館、高雄中正文化中心、台南市立文化中心、Orange County Center for Contemporary Art); 實踐家專 likewise has no vault page.
+- Slice 09141213-5 複核（2026-09-14）：corpus grep（content/works、content/articles）僅命中本人两条 TAH 書目記錄（artist60、whos891，均已連結於上）與 works/index；memoir 語料無新事實，本輪無可吸收內容。

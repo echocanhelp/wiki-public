@@ -49,6 +49,12 @@ Prof. Frank S. T. Hsiao 蕭聖鐵教授 – History of Taiwanese American (T.A. 
 - Married to [[people/prof-mei-chu-wang-hsiao||Prof. Mei-Chu Wang Hsiao (王美珠教授)]]; one daughter and one son.
 - Chronicler of Taiwanese American history via T.A. Archives (台美史料中心), Colorado.
 
+## Role in the Community (deepen 2026-09-14, vault-sourced)
+- **台美史料中心 (T.A. Archives), Colorado** — Hsiao's chronicle of the Taiwanese American movement. The vault holds newsletter records of T.A. Archives: [[works/taiwaneseamericanhistory-org/9-newsletter-of-t-a-archives-january-2016|T.A. Archives Newsletter #9 (2016-01)]] and [[works/taiwaneseamericanhistory-org/26-newsletter-of-t-a-archives-february-2017|Newsletter #26 (2017-02)]].
+- **Scholarship on Taiwan's legal status** — the vault's taiwanjustice-net archive cites his co-authored book with Lawrence Sullivan,《The Chinese Communist Party and the Status of Taiwan, 1928–1943》(《中國共產黨與台灣地位》), on the CCP's post-1943 position shift over Taiwan — see [[articles/taiwanjustice-net/2022/20221002085041_2022_08_12_秦剛扯_台灣自1800年前就是中國領土_看看歷史_e79a3dd82b8f4d06|秦剛扯「台灣自1800年前就是中國領土」(2022-08)]]。
+- **Economic commentary** — his piece "How Bad Is Taiwan's Economy?" (Diplomat, 2016-07-22) was archived/reposted in the vault article [[articles/taiwanjustice-net/2024/20240522044125_root_f51d2ebb674cbdd3|English Pages (taiwanjustice-net, 2024-05)]]。
+- No date/age conflicts encountered; existing Education/Employment tables left as-is.
+
 ## Sources
 - [TAH #1558 encyclopedia: 1558. Prof. Frank S. T. Hsiao 蕭聖鐵教授](https://taiwaneseamericanhistory.org/whos-who-1558-frank-s-t-hsiao/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-frank-s-t-hsiao/)

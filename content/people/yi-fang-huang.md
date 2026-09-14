@@ -61,3 +61,7 @@ _No filled family fields on the TAH profile._
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[organizations/taiwanese-american-historical-society||TAH 台美史料協會]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+## Corpus re-check (slice 09141213-3, 2026-09-14)
+
+- Vault-wide grep (works/ + articles/) returns only her own TAH entry work pages (#39, #1109 — already recorded above as bibliographic stubs) plus index.md adjacency. No memoir, newsletter, or community record mentions her. Nothing new absorbable this pass; biography unchanged.

@@ -62,4 +62,11 @@ _No filled family fields on the TAH profile._
 
 ## Vault cross-references (deepen pass 2026-09-14)
 
-- The cited film-criticism article is mirrored in-vault under its publisher hub [[sources/taiwanjustice-net||taiwanjustice.net]] (also recorded as an organization page [[organizations/taiwanjustice-net||Taiwan Justice]]); his commentary on contemporary Taiwanese cinema is the only authored writing of his cited in the vault, consistent with his comparative-literature chairmanship. No further in-vault biography to absorb.
+- The cited film-criticism article is mirrored in-vault under its publisher hub [[sources/taiwanjustice-net||taiwanjustice.net]] (also recorded as an organization page [[organizations/taiwanjustice-net||Taiwan Justice]]); his commentary on contemporary Taiwanese cinema is the only authored writing of his cited in the vault, consistent with his comparative-literature chairmanship.
+
+## Role in the Community (deepen pass 2026-09-14)
+
+- Founding director and inaugural Chuan Lyu Endowed Chair (川流講座) in Taiwan Studies, **Center for Taiwan Studies, UC San Diego**. The center was established through a US$5 million endowed gift by UCSD alumnus Dr. Chiu-Shan Chen (陳秋山, co-founder of Pacific Biosciences, founding chairman of the San Diego Taiwanese American Foundation); its grand opening ceremony took place 2023-05-06. In-vault coverage: [[works/taiwaneseamericanhistory-org/our-journeys-385|TAH Our Journeys #385 — Grand Opening of the Center for Taiwan Studies at UCSD]] and its Chinese mirror [[works/taiwaneseamericanhistory-org/our-journeys-386|TAH Our Journeys #386 — UCSD獲500萬成立台灣研究中心跨學科合作]].
+- Per his own remarks recorded in-vault, the center deliberately includes **Taiwanese American** history and holdings — much of its early archival material and recordings come from the 台美史料中心 founded by 鄭寶鼎 — and is professionalizing the digitization of volunteer-collected records.
+- His contemporary-Taiwanese-cinema lecture at the 55th 世界臺灣文化論壇 (2022-10-03, 「大佛普拉斯」) is also mirrored in-vault at [[articles/taiwanjustice-net/2025/20250906044254_第55回世界臺灣文化論壇-廖炳惠教授論台灣當代電_ad7f737b9872262d|第55回世界臺灣文化論壇報導]] (same series as the 2023 tag-page citation above).
+- No date or role conflicts found between the TAH #1632 profile and these vault records; nothing merged that required a HOLD.
