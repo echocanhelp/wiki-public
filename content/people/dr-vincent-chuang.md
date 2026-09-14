@@ -59,3 +59,6 @@ TAH encyclopedia records held in this vault:
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+## Community Context（deepen pass 2026-09-14）
+履歷（皆本頁既有事實，僅補連結）：1983–1990 年間兩度任職亞特蘭大 Emory Univ. Hospital（放射線科教授、血管攝影科主任、臨床教授）——當地台美學生社團：[[organizations/taiwanese-american-student-association-at-emory-university||TASA at Emory University]]；作為在台美醫界服務並回台貢獻（1996 年起任台北 Koo Foundation Sun Yat-Sen Cancer Center 放射線介入科主任暨副院長）的醫師，屬台美人醫界返鄉投入典範 —— 同類組織：[[organizations/north-american-taiwanese-medical-association-foundation||NAMTA Foundation]]。
