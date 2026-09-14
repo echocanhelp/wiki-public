@@ -64,3 +64,7 @@ Accomplishment
 - [[works/taiwaneseamericanhistory-org/whos-who-298-yung-hwa-hsu||TAH Who's Who #298: Yung Hwa Hsu 許永華]]
 - [[works/taiwaneseamericanhistory-org/collection-of-mr-yung-hwa-hsu||Collection of Mr. Yung Hwa Hsu]]
 - [[works/taiwaneseamericanhistory-org/world-federation-of-taiwanese-associations||World Federation of Taiwanese Associations 世界台灣同鄉會]] — he served as Chief Secretary (秘書長)
+
+## Deepen — 2026-09-14 (vault-only re-check)
+
+Both TAH encyclopedia records (#170, #298) and his papers collection are absorbed and linked; wife [[people/amy-hsu||Amy Hsu 蘇惠美]] and the WFTA chief-secretary role resolve to existing pages. His employers (Main La Frentz, Austin CPA and Geber CPA, Services Management Company, his own CPA practice), schools (NCCU, Utah State, Wayne State), the Ann Arbor chapter page, the Midwest Taiwanese Summer Conference Foundation, and the Professor Wen-Cheng Chen Foundation have no vault pages beyond those already linked and stay plain text.
