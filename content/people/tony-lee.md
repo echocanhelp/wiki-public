@@ -85,3 +85,7 @@ last_reviewed: 2026-09-14
 - [[people/wei-boji||Wei Boji (魏博基)]]
 - [[people/xu-shitan||Xu Shitan (徐士坦)]]
 - [[people/wang-rongyi||Wang Rongyi (王榮義)]]
+
+## Vault deepening note (slice 09140107-9, 2026-09-14, vault-only)
+- Institution-context links added from the existing vault corpus: [[organizations/taiwanese-american-student-association-ohio-state-university||Taiwanese American Student Association @ Ohio State University]] and [[organizations/taiwanese-student-association-at-ohio-state-university||Taiwanese Student Association at Ohio State University]] (MS Civil Engineering years at Ohio State). Context only — no documented membership.
+- The cited vault records — TAH #710 ([[works/taiwaneseamericanhistory-org/whos-who-710||bibliographic stub]]) and the Taiwan Center board archive — carry no further absorbable biography; full-text biography remains outside this source set. Status: published for board role only.

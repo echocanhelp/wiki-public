@@ -34,7 +34,7 @@ Prof. Bernard Travis Lee 李伯寧教授 – History of Taiwanese American (T.A.
 
 - **Wife:** 李必寧
 - **Son:** 李博德
-- **Father:** 李清澤 — his father's TAH profiles are held in the vault: [[works/taiwaneseamericanhistory-org/167-dr-ching-tse-lee||TAH #167 Dr. Ching-Tse Lee 李清澤博士]], [[works/taiwaneseamericanhistory-org/artist18-ching-tse-lee||TAH #18 李清澤 Ching-Tse Lee (2014-10)]] and [[works/taiwaneseamericanhistory-org/footsteps-32||TAH #32 Dr. Ching-Tse Lee 李清澤博士 (by 林榮峰 Emily Lee, 2020-09)]]
+- **Father:** [[people/dr-ching-tse-lee||Dr. Ching-Tse Lee 李清澤博士]] — his father's TAH profiles are held in the vault: [[works/taiwaneseamericanhistory-org/167-dr-ching-tse-lee||TAH #167 Dr. Ching-Tse Lee 李清澤博士]], [[works/taiwaneseamericanhistory-org/artist18-ching-tse-lee||TAH #18 李清澤 Ching-Tse Lee (2014-10)]] and [[works/taiwaneseamericanhistory-org/footsteps-32||TAH #32 Dr. Ching-Tse Lee 李清澤博士 (by 林榮峰 Emily Lee, 2020-09)]]
 - **Mother:** [[people/emily-lin-lee||李林榮峰]] — the artist 林榮峰 / Emily Lee, who authored his TAH encyclopedia entry #33
 
 
@@ -65,3 +65,9 @@ Prof. Bernard Travis Lee 李伯寧教授 – History of Taiwanese American (T.A.
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- [[sources/taiwaneseamericanhistory-org-story-corpus||TAH story corpus (source hub)]]
+- [[people/dr-ching-tse-lee||Dr. Ching-Tse Lee 李清澤博士]] — father, own vault record
+- Institution-context pages in the vault corpus: [[organizations/taiwanese-association-of-students-at-tufts||Taiwanese Association of Students at Tufts]] (Tufts M.D.) and [[organizations/harvard-taiwanese-cultural-society||Harvard Taiwanese Cultural Society]] (Harvard Medical School / alumni posts). Context only — no documented membership.
+
+## Vault deepening note (slice 09140107-9, 2026-09-14, vault-only)
+- Absorbed only what the vault already holds: the father's own person page [[people/dr-ching-tse-lee]] is now linked directly (previously only his three TAH work pages were), and his Harvard/Tufts institution years are cross-linked to the existing campus-org pages. No new biographical facts invented; the three cited TAH records (#33/#285/#592) remain bibliographic stubs in the vault, so no further text could be absorbed. Status: pending-verification.
