@@ -63,3 +63,8 @@ _No filled family fields on the TAH profile._
 - [[people/anne-ku-2||Anne Ku]] — fellow Juilliard-trained Taiwanese American musician
 - [[people/hsin-yun-huang||Hsin-Yun Huang]] — violist named as Chen's Juilliard teacher
 - [[people/shih-yin-chen||Shih-Yin Chen]] — fellow TAH-listed Taiwan-born classical musician with New York training (reciprocal link confirmed on her page)
+
+## Vault records (deepen pass 2026-09-14, DEEPEN-X09140741-12)
+
+- Reciprocity now confirmed in both directions: [[people/hsin-yun-huang||Hsin-Yun Huang]]'s page explicitly lists Chen among her documented students ("earned his Juilliard master's degree with her"); see the Vault Network section on her page.
+- Institutional context for his Rutgers DMA period: the vault holds [[organizations/rutgers-taiwan-study-association||Rutgers Taiwan Study Association]] as a community page at that institution (context only — no membership recorded for Chen).

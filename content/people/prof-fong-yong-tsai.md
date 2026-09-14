@@ -64,3 +64,8 @@ Prof. Fong-Yong Tsai 蔡芳洋教授 – History of Taiwanese American (T.A. Arc
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+## Vault records (deepen pass 2026-09-14, DEEPEN-X09140741-12)
+
+- Institutional context at UC Irvine (Professor and Chairman 2000–2006, Professor 2007–2011): the vault holds [[organizations/taiwanese-american-organization-at-uc-irvine||Taiwanese American Organization at UC Irvine]] (context only — no link to Tsai recorded).
+- Reciprocity check: neither the [[organizations/taiwanese-association-of-greater-kansas-city-takc||TAKC]] page nor the [[organizations/north-america-taiwanese-professors-sc||NATPA Southern California Chapter]] page currently echoes his presidencies; those terms stay sourced solely from his TAH employment table.

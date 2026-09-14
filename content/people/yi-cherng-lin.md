@@ -69,3 +69,8 @@ _No filled family fields on the TAH profile._
 - [[works/taiwaneseamericanhistory-org/14-yi-cherng-lin-e6-9e-97-e5-ae-9c-e8-aa-a0-baritone||TAH Encyclopedia #14: Yi-Cherng Lin, Baritone]]
 - [[organizations/greater-washington-taiwan-culture-center||Greater Washington Taiwan Culture Center (華府台灣文化中心)]] — 執行長
 - [[organizations/university-of-maryland-taiwanese-student-association||University of Maryland Taiwanese Student Association]] — affiliated UMD page
+
+## Vault records (deepen pass 2026-09-14, DEEPEN-X09140741-12)
+
+- Second UMD-community context page: [[organizations/taiwanese-american-student-association-at-the-university-of-maryland-college-park||TASA at the University of Maryland, College Park]] is a vault page for his doctoral institution (context only — no membership recorded).
+- Venue note on the Pin-Huey Wang reciprocal concert: her page names the venue "Taiwanese Culture Center in San Diego"; the vault's nearest community page is [[organizations/san-diego-taiwanese-cultural-association||San Diego Taiwanese Cultural Association (聖地牙哥台灣同鄉會)]], but the names differ, so venue identity is not asserted.
