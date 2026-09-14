@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # Prof. Tien‐Sung Tom Lin (林天送教授)
 
@@ -17,7 +17,7 @@ last_reviewed: 2026-09-11
 - **Era:** 1938
 - **Geography:** Yunlin, Taiwan
 - **Core roles:** scientist, professor, educator
-- **Source:** TAH Foundation Who’s Who
+- **Source:** TAH Foundation Who's Who
 
 Prof. Tien‐Sung (Tom) Lin 林天送教授 – History of Taiwanese American (T.A. Archives) 台美史料中心
 
@@ -38,9 +38,9 @@ Prof. Tien‐Sung (Tom) Lin 林天送教授 – History of Taiwanese American (T
 
 
 ## Sources
-- [TAH #34 encyclopedia: 34. Prof. Tien‐Sung Tom Lin 林天送教授](https://taiwaneseamericanhistory.org/34-prof-tien%e2%80%90sung-tom-lin/)
+- [TAH #34 encyclopedia: 34. Prof. Tien‐Sung Tom Lin 林天送教授](https://taiwaneseamericanhistory.org/34-prof-tien%e2-80-90sung-tom-lin/)
 - [TAH #1430 encyclopedia: 1430. Prof. Tien‐Sung (Tom) Lin 林天送教授](https://taiwaneseamericanhistory.org/whos-who-1430-tien-sung-lin/)
-- [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-tien-sung-tom-lin/)
+- [TAH Who's Who](https://taiwaneseamericanhistory.org/person/prof-tien-sung-tom-lin/)
 
 ## Related Pages
 - [[organizations/taiwanese-student-association-at-syracuse-university|Taiwanese Student Association at Syracuse University]] — 同校留學脈絡 (Syracuse M.S., 1966)
@@ -55,3 +55,6 @@ Prof. Tien‐Sung (Tom) Lin 林天送教授 – History of Taiwanese American (T
 
 ## Deepen pass (2026-09-11)
 - 之子 Irvin（林斐強）既有頁面：[[people/irvin-lin|Irvin Lin (林斐強)]]（St. Louis／Washington University 1995 畢業，與任職同市）。未新增外部事實。
+
+## Deepen pass (2026-09-14)
+- Washington University 任教期間（1970–2012）與 vault 內聖路易台裔學術社群紀錄同期：[[organizations/taiwanese-scholar-association-in-st-louis-tsa-stl|TSA of St. Louis]]、[[organizations/taiwanese-association-of-america-in-greater-st-louis|TAA of Greater St. Louis]]（僅為同期脈絡，無直接參與紀錄，未新增事實）。

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # Samuel Lin (林雲郎)
 
@@ -17,7 +17,7 @@ last_reviewed: 2026-09-11
 - **Era:** Birth Place
 - **Geography:** 台灣
 - **Core roles:** conductor, entrepreneur, professor, educator
-- **Source:** TAH Foundation Who’s Who
+- **Source:** TAH Foundation Who's Who
 
 Samuel Lin is a graduate of the National Taiwan Academy of Arts, majoring in vocal. He received his Master of Music Arts degree in Conducting conferred by Roger Wagner Center of Choral Studies at California State University in Los Angeles. In addition to studying choral conducting with Dr. William Belan and the esteemed Dr. Roger Wagner, he also studied under Dr. Robert Fowells, Dr. Donald Neuen and Dr. Paul Salamunovich.
 
@@ -45,10 +45,14 @@ Samuel Lin is a graduate of the National Taiwan Academy of Arts, majoring in voc
 
 _No filled family fields on the TAH profile._
 
+## Vault Holdings (deepen pass 2026-09-14)
+- His two TAH encyclopedia records are held in the vault, both published **2015-02-02** (value band B; bibliographic records only): [[works/taiwaneseamericanhistory-org/10231|TAH #250 Samuel Lin 林雲郎 (2015/02)]] and [[works/taiwaneseamericanhistory-org/136-samuel-lin-e6-9e-97-e9-9b-b2-e9-83-8e-artistic-director-conductor-201502|TAH #136 Samuel Lin 林雲郎, Artistic Director / Conductor (2015/02)]].
+- 洛華音樂基金會 (Lo-Wa Music Foundation, founded 1994) and the choirs he directed have no vault pages yet; not to be confused with [[organizations/lapc-music-foundation|LAPC Music Foundation]] (洛杉磯樂音音樂基金會, founded 2006) — a different Los Angeles-area Taiwanese music foundation, so no link is asserted.
+
 ## Sources
 - [TAH #250 encyclopedia: 250. Samuel Lin 林雲郎 / 2015/02](https://taiwaneseamericanhistory.org/250/)
 - [TAH #136 encyclopedia: 136. Samuel Lin 林雲郎, Artistic Director / Conductor / 2015/02](https://taiwaneseamericanhistory.org/136-samuel-lin-%e6%9e%97%e9%9b%b2%e9%83%8e-artistic-director-conductor-201502/)
-- [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/samuel-lin/)
+- [TAH Who's Who](https://taiwaneseamericanhistory.org/person/samuel-lin/)
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

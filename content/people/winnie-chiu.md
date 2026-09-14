@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # Winnie Chiu (藍月卿)
 
@@ -17,7 +17,7 @@ last_reviewed: 2026-09-11
 - **Era:** 1955
 - **Geography:** 南蘭羅東
 - **Core roles:** educator
-- **Source:** TAH Foundation Who’s Who
+- **Source:** TAH Foundation Who's Who
 
 1974年入東吳大學音樂系主修鋼琴、副修聲樂，之後于大二改副修小提琴，並加入東吳大學管弦樂團(擔任小提琴)，及被甄選為音樂系女聲合唱團(女高音)，於1976年慶祝美國建國200週年巡迴演唱。
 
@@ -39,14 +39,15 @@ _No filled family fields on the TAH profile._
 ## Sources
 - [TAH #730 encyclopedia: 730. Winnie Chiu 藍月卿 / 2015/12](https://taiwaneseamericanhistory.org/730-winnie-chiu-%e8%97%8d%e6%9c%88%e5%8d%bf-201512/)
 - [TAH #320 encyclopedia: 320. Winnie Chiu 藍月卿, Pianist / 2015/12](https://taiwaneseamericanhistory.org/320-winnie-chiu-%e8%97%8d%e6%9c%88%e5%8d%bf-pianist-201512/)
-- [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/winnie-chiu/)
+- [TAH Who's Who](https://taiwaneseamericanhistory.org/person/winnie-chiu/)
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 ## Network
-- [[organizations/formosan-presbyterian-church-in-los-angeles||FPCLA]] — TAH Who’s Who (1984 accompanist; 2012–2014 choir & children's ensemble conductor)
+- [[organizations/formosan-presbyterian-church-in-los-angeles||FPCLA]] — TAH Who's Who (1984 accompanist; 2012–2014 choir & children's ensemble conductor)
 
-## Vault records (deepen pass 2026-09-10)
-Her 1987–1995 St. Louis service as pianist sits alongside the vault's church-press record [[works/taiwaneseamericanhistory-org/newsletter-of-taiwanese-presbyterian-church-of-greater-st-louis|Newsletter of Taiwanese Presbyterian Church of Greater St. Louis]]; her Los Angeles engagements are held on [[organizations/formosan-presbyterian-church-in-los-angeles|FPCLA]]. Her two TAH encyclopedia records are also held in the vault: [[works/taiwaneseamericanhistory-org/730-winnie-chiu-e8-97-8d-e6-9c-88-e5-8d-bf-201512|TAH #730 Winnie Chiu 藍月卿 (2015/12)]] and [[works/taiwaneseamericanhistory-org/320-winnie-chiu-e8-97-8d-e6-9c-88-e5-8d-bf-pianist-201512|TAH #320 Winnie Chiu 藍月卿, Pianist (2015/12)]].
+## Vault records (deepen pass 2026-09-10, reviewed 2026-09-14)
+Her 1987–1995 St. Louis service as pianist sits alongside the vault's church-press record [[works/taiwaneseamericanhistory-org/newsletter-of-taiwanese-presbyterian-church-of-greater-st-louis|Newsletter of Taiwanese Presbyterian Church of Greater St. Louis]]; her Los Angeles engagements are held on [[organizations/formosan-presbyterian-church-in-los-angeles|FPCLA]]. Her two TAH encyclopedia records are also held in the vault — both published **2015-12-13** (value band B, bibliographic records only): [[works/taiwaneseamericanhistory-org/730-winnie-chiu-e8-97-8d-e6-9c-88-e5-8d-bf-201512|TAH #730 Winnie Chiu 藍月卿 (2015/12)]] and [[works/taiwaneseamericanhistory-org/320-winnie-chiu-e8-97-8d-e6-9c-88-e5-8d-bf-pianist-201512|TAH #320 Winnie Chiu 藍月卿, Pianist (2015/12)]].
+- 聖路易台灣基督長老教會 itself has no dedicated vault page; the contemporaneous St. Louis Taiwanese community is documented on [[organizations/taiwanese-association-of-america-in-greater-st-louis|TAA of Greater St. Louis]] (context only — no direct participation record for Winnie Chiu).

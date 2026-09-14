@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # Prof. Shih-I Chu (朱時宜教授)
 
@@ -17,7 +17,7 @@ last_reviewed: 2026-09-11
 - **Era:** --
 - **Geography:** Taiwan
 - **Core roles:** scientist, professor
-- **Source:** TAH Foundation Who’s Who
+- **Source:** TAH Foundation Who's Who
 
 Assistant Professor (1978-81), Associate Professor (1981-1985), Professor (1985-1990), Watkins Distinguished Professor (1990-)
 
@@ -47,9 +47,13 @@ _No filled family fields on the TAH profile._
 - [[works/taiwaneseamericanhistory-org/whos-who-1858-shih-i-chu|TAH #1858 Who's Who：朱時宜教授]]
 - Career record (堪薩斯大學化學系 1978–、Kansas Center for Advanced Scientific Computing 主任 1996–2006、台大 CQSE 主任 2008–) is fully absorbed from this vault work; see [[organizations/tah-foundation|TAH Foundation]] for the source corpus.
 
+## Deepen pass (2026-09-14)
+- Vault work page records the profile as published **2017-08-21** (value band B; bibliographic record only, full text stays with TAH).
+- No vault pages exist for Univ. of Kansas, National Tsing Hua Univ., Harvard Univ., or NTU CQSE — no further cross-links added (existing Harvard-affiliated org pages do not document membership for this person).
+
 ## Sources
 - [TAH #1858 encyclopedia: 1858. Prof. Shih-I Chu 朱時宜教授](https://taiwaneseamericanhistory.org/whos-who-1858-shih-i-chu/)
-- [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-shih-i-chu/)
+- [TAH Who's Who](https://taiwaneseamericanhistory.org/person/prof-shih-i-chu/)
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
