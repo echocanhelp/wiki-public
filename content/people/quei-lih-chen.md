@@ -55,3 +55,7 @@ _No filled family fields on the TAH profile._
 - Peabody Conservatory years sit in the Johns Hopkins orbit: see [[organizations/johns-hopkins-university-taiwanese-student-association||JHU Taiwanese Student Association]].
 - Her USC DMA years (2001) connect to the USC campus in the TA record: see [[works/taiwaneseamerican-org/itasa-leadership-retreat-at-usc||ITASA leadership retreat at USC]].
 - Vault accompanist record: on 2001/7/2 she was the pianist (伴奏) for the 半音合唱團 concert at 國家音樂廳 marking 陳文成博士殉難20週年 (invited by the [[organizations/professor-chen-wen-chen-memorial-foundation||Professor Chen Wen-chen Memorial Foundation]]; conductor 楊子清) — see [[articles/taiwanjustice-net/2017/20171107225317_2017_11_05_2001年7月2日半音合唱團受邀演唱於國家音樂廳實況錄_de11e29571f3dc86|台美人新聞 archive note]]; 楊子清's page [[people/yang-ziqing|楊子清]] carries the same event.
+
+## Deepen — 2026-09-14 (vault-only re-check)
+- All wikilink targets re-verified against live vault slugs (Our Journeys #29, #419, #54, JHU Taiwanese Student Association, ITASA @ USC record, 半音合唱團 archive note, 楊子清, Chen Wen-chen Memorial Foundation) — no broken links.
+- The Career Record section already absorbs every fact present in the cited encyclopedia records (#419, #54) and the vault accompanist/debut records. Conductor 鄭超明 (Chao-Ming Cheng), Samuel Sanders, and Daniel Pollack have no vault pages, so no new wikilinks were possible without creating new pages; no biography invented.
