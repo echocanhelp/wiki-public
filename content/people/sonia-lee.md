@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # Sonia Lee (王淑女)
 
@@ -39,6 +39,8 @@ Gifted with perfect pitch and agility, Ms. Lee won numerous piano competitions s
 - Church music in southern California: 崇拜司琴及詩班 accompaniment at 愛恩台福教會 (Evangelical Formosan Church of Irvine — the church that hosts [[organizations/evergreen-senior-university-by-evangelical-formosa-church-of-irvine-esu||Evergreen Senior University]]) and at [[organizations/irvine-taiwanese-presbyterian-church||Irvine Taiwanese Presbyterian Church]], per her TAH employment table.
 - President of the Evangelical Formosan Church of Irvine Orchestra; conductor of 愛恩交響樂團; accompanist for 爾灣聖樂團 (harpsichord), 吾鳴合唱團, 中文學校兒童合唱團, and 爾灣華聲合唱團.
 - Later studies: hand bell with Nancy Jessup and pipe organ with Esther Johns at Concordia University.
+- **1998/05** — music CD 《乘著歌聲的翅膀》 with 李秀麗 — vault record [[works/taiwaneseamericanhistory-org/publications538||TAH #538]]
+- **《台灣人的歌》合唱專案** — co-responsible (with 賴美芬) for the Irvine 台美人團 rehearsal cluster in the 216-musician five-region project — vault record [[works/taiwaneseamericanhistory-org/ourjourneys340||Our Journeys #340]]
 
 ## Family
 

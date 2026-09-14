@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # Andrew Yang (楊安澤)
 
@@ -56,6 +56,9 @@ TAH records held in this vault:
 - [[works/taiwaneseamericanhistory-org/whos-who-2058-andrew-yang|TAH #2058 — Andrew Yang 楊安澤 (2018/03)]]
 - [[works/taiwaneseamericanhistory-org/andrew-yang|Andrew Yang 楊安澤 in S. CA (2020/06)]]
 - [[works/taiwaneseamericanhistory-org/4-donate-money-to-mr-andrew-yang-to-be-on-the-debate-stage-for-thepresidential-c|一人一元送楊安澤上辯論台 (2019/02)]]
+- [[works/taiwaneseamericanhistory-org/ota-219|TAH #219 — Andrew Yang 楊安澤 (encyclopedia record)]]
+- [[works/taiwaneseamericanhistory-org/videos134|TAH #134 — 楊安澤筆會新年年會演說：台裔子弟入主美國總統啓動 (2019/01)]]
+- [[works/taiwaneseamericanhistory-org/my-story-674|TAH #674 — 我認識的楊安澤：首位亞裔美國總統參選人, 王劭文 (2019/02)]]
 
 ## Sources
 - [TAH #219 encyclopedia: 219. Andrew Yang 楊安澤](https://taiwaneseamericanhistory.org/ota-219/)

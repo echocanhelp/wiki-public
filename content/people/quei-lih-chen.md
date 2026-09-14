@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # Quei-Lih Chen (陳瑰麗)
 
@@ -40,6 +40,7 @@ _No filled family fields on the TAH profile._
 - Peabody Conservatory of the Johns Hopkins University — B.M./M.M.; five years there, incl. chamber-music exposure with Samuel Sanders
 - First prizewinner, Elizabeth Davis Piano Competition (Washington D.C.); consequently invited to the Friday Morning Club as a performing member
 - Full scholarship to the University of Southern California, studies with Daniel Pollack; **2001** — Doctor of Musical Arts in Piano Performance with minors in Instrumental Conducting and Piano Accompanying
+- **《台灣人的歌》專輯錄影** — played piano for the conference commemorative recording session; staff pictured: 李麗華、賴昭晴、吳明杰、廖欽和 — documented in [[works/taiwaneseamericanhistory-org/ourjourneys29||Our Journeys #29]]
 - TAH encyclopedia entries in vault: [[works/taiwaneseamericanhistory-org/419-quei-lih-chen-e9-99-b3-e7-91-b0-e9-ba-97-201505||#419]] · [[works/taiwaneseamericanhistory-org/54-quei-lih-chen-e9-99-b3-e7-91-b0-e9-ba-97-piano||#54, Pianist]]
 
 ## Sources
