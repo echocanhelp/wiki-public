@@ -46,7 +46,7 @@ Elizabeth S. Chen was born in Kaohsiung, Taiwan in 1944. She was graduated from 
 
 
 ## Vault Holdings
-- [[works/taiwaneseamericanhistory-org/61-elizabeth-s-chen-e6-9d-8e-e7-a7-80-e9-ba-97-vocalist|TAH #61 encyclopedia, Vocalist / 2014-10]] — her own profile entry (born 1944 Kaohsiung; NTNU Music 1966, vocal major under 賴素芬/Su-fen Lai and 林秋金/Chiu-gin Lin; SUNY Binghamton M.A. 1971, thesis on A-mei indigenous music under Dr. Chianis)
+- [[works/taiwaneseamericanhistory-org/61-elizabeth-s-chen-e6-9d-8e-e7-a7-80-e9-ba-97-vocalist|TAH #61 encyclopedia, Vocalist / 2014-10]] — her own profile entry (born 1944 Kaohsiung; NTNU Music 1966, vocal major under Mrs. Su-fen Lai and Mrs. Chiu-gin Lin; SUNY Binghamton M.A. 1971, thesis on A-mei indigenous music under Dr. Chianis)
 - [[works/taiwaneseamericanhistory-org/278-elizabeth-s-chen-e6-9d-8e-e7-a7-80-e9-ba-97-201502|TAH #278 encyclopedia / 2015-02]] — later profile entry (children's music education, church choir conducting)
 
 ## Sources
