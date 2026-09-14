@@ -60,3 +60,5 @@ Accomplishment
 ## Vault records (deepen pass 2026-09-10)
 - 本人 TAH 百科條目的 vault 工作頁：[[works/taiwaneseamericanhistory-org/19-dr-rex-yu|TAH #19 條目]]、[[works/taiwaneseamericanhistory-org/whos-who-970-rex-yu|TAH #970 條目]]。
 - 社團記錄：2010 年任 [[organizations/san-gabriel-taiwanese-lions-club|美國台灣人獅子會]] 會長（本頁既有記載）。
+- 收藏記錄（deepen pass 2026-09-14 自 vault 吸收）：TAH 另藏本人個人收藏條目 [[works/taiwaneseamericanhistory-org/collection-of-dr-rex-yu|TAH #71 余忠村博士的收藏]]（2018-07-19 刊）；本人條目 #19 刊於 2018-08-08、#970 刊於 2016-05-01。
+- [[sources/taiwaneseamericanhistory-org-story-corpus|TAH 故事語料庫]]

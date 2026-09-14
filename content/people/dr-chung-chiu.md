@@ -54,9 +54,11 @@ _No filled family fields on the TAH profile._
 ## Vault Holdings
 
 - [[works/taiwaneseamericanhistory-org/whos-who-1910-chung-chiu|TAH Who's Who #1910]] — Dr. Chung Chiu 邱強博士
-- [[works/taiwaneseamericanhistory-org/mystories585|TAH mystories #585]] — 危機化解大師邱強博士（TAH My Stories，2017-10 刊）
-- [[works/taiwaneseamericanhistory-org/100-dr-chong-chiu-e9-82-b1-e5-bc-b7-e5-8d-9a-e5-a3-ab-first-president-and-founde|TAH #100]] — Dr. Chong Chiu 邱強博士：風險管理公司 Performance Improvement International 創辦人兼第一任總裁（1987）
+- [[works/taiwaneseamericanhistory-org/mystories585|TAH mystories #585]] — 危機化解大師邱強博士（TAH My Stories，2017-10-03 刊）；內容與本頁 1991 年沙漠風暴危機資料預析記載互為印證
+- [[works/taiwaneseamericanhistory-org/100-dr-chong-chiu-e9-82-b1-e5-bc-b7-e5-8d-9a-e5-a3-ab-first-president-and-founde|TAH #100]] — Dr. Chong Chiu 邱強博士：風險管理公司 Performance Improvement International 創辦人兼第一任總裁（1987）；條目刊於 2015-12-10，條目標題作 Chong Chiu（與 Who's Who 頁 Chung Chiu 拼法並存）
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- [[sources/taiwaneseamericanhistory-org-story-corpus|TAH 故事語料庫]]
+- [[organizations/association-of-taiwanese-students-at-mit|台美麻省理工同學會（留學 MIT 時期相關社團）]]

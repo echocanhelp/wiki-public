@@ -39,6 +39,14 @@ Ray Chen began learning violin at the age of four. Within five years he complete
 - **2010-** — 成為 Sony Classical 錄音藝術家（Recording Artist）。
 - **2012** — TAH 百科 #244 記載其為第一位參加諾貝爾獎音樂會演出的音樂家。
 
+## 同語料庫 TAH 音樂家記錄（vault 既有頁面）
+TAH 百科 2015/05 亦收錄多位台裔演奏家條目，與本頁同屬 TAH 音樂人才記錄：
+- [[people/yin-yin-huang|Yin Yin Huang 黄煐媖（鋼琴）]]
+- [[people/rachel-ku|Rachel Ku（小提琴）]]
+- [[people/te-chiang-bacco-liu|Te-Chiang Bacco Liu 劉德強（小提琴）]]
+- [[people/yung-chiao-wei|Yung-Chiao Wei 魏詠蕎（貝斯）]]
+- [[people/yunn-shan-ma|Yunn-Shan Ma 馬韻珊（指揮）]]
+
 ## Family
 
 _No filled family fields on the TAH profile._
@@ -58,3 +66,7 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- [[sources/taiwaneseamericanhistory-org-story-corpus|TAH 故事語料庫]]
+
+## Vault 條目刊期（deepen pass 2026-09-14 自 vault 記錄吸收）
+- #244（第一位參加諾貝爾獎音樂會演出）：2016-02-10 刊；#247（Violinist）與 #505：皆 2015-07-18 刊。
