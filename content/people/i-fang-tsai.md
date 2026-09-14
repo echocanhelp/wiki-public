@@ -53,3 +53,7 @@ _No filled family fields on the TAH profile._
 ## Deepen pass (2026-09-14)
 - 複核 vault 既有 holdings（TAH #1050、TAH #17 藝術家檔案）與上方傳記：頁內年份、得獎與社團身分均已落檔，本次無新增外部事實（vault-only，未查網）。
 - 頁內 wikilink 全部指向既有頁面（people/jason-chang、organizations/north-america-pastel-artist-association、works/taiwaneseamericanhistory-org/whoswho1050、works/taiwaneseamericanhistory-org/artist-yvonne-i-fang-tsai）；未建新頁。
+
+## Deepen-X — 2026-09-14 (slice 09141300-12, corpus grep)
+
+SKIP-with-reason：corpus grep（蔡宜芳 / I-Fang Tsai，於 works/ 與 articles/）命中均非本人——taiwanjustice 報導中的蔡宜芳（台灣民眾黨，2020 立委候選人）為同名政治人物，與本頁紐約粉彩畫家（TAH #1050、#17）不同人，HOLD: no merge；works 命中皆為他人條目（Yvonne Cheng 鄭瑜英、Yvonne Yifang Wang 王亦凡等）。本人兩筆記錄已連結，無新增社群事實。

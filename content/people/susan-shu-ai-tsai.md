@@ -56,3 +56,7 @@ _No filled family fields on the TAH profile._
 ## Deepen — 2026-09-14 (vault-only re-check)
 
 All cited TAH records (#183, #357, Who's Who) are already absorbed into the timeline and employment tables; every wikilink (GSTPC, the Southern California Taiwanese Presbyterian Conference and its newsletter) resolves to an existing vault page. Merry Singers Women's Chorus, Eunice Chou Vocal Studio, 綠萍樂坊, and the Music Teacher Association of California still have no vault pages, so they remain plain text. No new vault facts this pass.
+
+## Deepen-X — 2026-09-14 (slice 09141300-12, corpus grep)
+
+SKIP-with-reason：corpus grep（蔡淑愛 / Shu-Ai Tsai，於 works/ 與 articles/）僅命中她本人的兩條 TAH 百科 work 頁（#183、#357，均已連結並吸收於 Timeline/Employment）及 works/index 目錄條目，無其他回憶錄或 newsletter 一手材料可吸收。GSTPC 與南加州長老教會聯合會 newsletter 關聯已於 Network 段落檔。

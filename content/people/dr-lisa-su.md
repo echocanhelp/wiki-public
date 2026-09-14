@@ -65,3 +65,9 @@ father [[people/su-chun-huai||蘇春槐]]; mother 羅淑雅 (no page yet).
 - She received the **Dr. Morris Chang Exemplary Leadership Award** from the Global Semiconductor Alliance (GSA) on December 6, 2018, documented at [[works/taiwaneseamericanhistory-org/71-dr-morris-chang-exemplary-leadership-award-dr-lisa-su||TAH #71]].
 - AMD's bet on brand-new chip technology under her leadership is profiled in [[works/taiwaneseamericanhistory-org/12-chipmaker-amd-makes-a-big-bet-on-brand-new-tech-dr-lisa-su||TAH #12 (2017-07-19)]].
 - All three EE degrees (B.S. 1990, M.S. 1991, Ph.D. 1994) were earned at MIT, connecting her to the Taiwanese student network at [[organizations/association-of-taiwanese-students-at-mit||AIT/MIT]]; encyclopedia records at [[works/taiwaneseamericanhistory-org/53-dr-lisa-su||TAH #53]] and [[works/taiwaneseamericanhistory-org/whos-who-43-lisa-su||TAH #43]].
+
+## Role in the Community（deepen pass 2026-09-14）
+- 社群記載她為 MIT 電子工程最年輕博士（25 歲取得，1994）：[[works/taiwaneseamericanhistory-org/113-dr-lisa-su||TAH #113]]。此說與本頁 MIT 三學歷年份相符。
+- 2020 年獲半導體協會（SIA）Robert N. Noyce Award：[[works/taiwaneseamericanhistory-org/award-76||TAH #76（2020）]]；媒體跟進報導「張忠謀後華裔第 2 人」見 [[articles/taiwanjustice-net/2026/20260121003520_蘇姿丰獲美半導體協會大獎_張忠謀後華裔第2人_4779b4e7bc06941e|台灣時報_net 報導]]。
+- 父亲 [[people/su-chun-huai||蘇春槐]]（紐約台灣會館理事長）率團訪美東時，AIT 官員因她是 AMD 總裁而格外熱絡，並邀 Lisa 回台至 AIT 走走 —— 見社群回憶錄 [[works/taiwaneseamericanhistory-org/our-journeys-382|Our Journeys 382]]。此為本頁首要的社區第一手材料：她的成就在鄉親network中被直接視為家族與台灣會館的連結。
+- 2014 年升任 AMD 總裁兼執行長當時即被同儕記錄：[[works/taiwaneseamericanhistory-org/videos73-2|73. Dr. Lisa Su as AMD's new president and CEO!]]；台美人第二代視角專文見 [[works/taiwaneseamericanhistory-org/mystories84-dr-lisa-t-su|TAH mystories84（曾恆利）]]。
