@@ -66,3 +66,7 @@ _No filled family fields on the TAH profile._
 ## Deepen — 2026-09-11 (vault-only re-check)
 
 All existing wikilinks (TAH #1797 work page, Rossby/Revelle medals work page, TAH Foundation, source hub) re-verified against live vault slugs; no broken links. No further unabsorbed facts in cited vault records.
+
+## Deepen — 2026-09-14 (vault-only re-check)
+
+Re-read the on-page TAH Employment/Education tables and the cited #1797 vault work record: every date and role is already mirrored in the Timeline. No new absorbable vault facts; no new pages created.
