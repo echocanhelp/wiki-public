@@ -50,7 +50,7 @@ Dr. Long Song (Simon) Lin 林榮松醫師 – History of Taiwanese American (T.A
 - [[works/taiwaneseamericanhistory-org/my-stories-803||TAH #803 行醫救人 一心為臺灣 (09/2021)]]
 - [[works/taiwaneseamericanhistory-org/videos25||TAH #25 林榮松談參與海外後援會的經驗 (oral history video)]]
 
-Role anchors already on this page's TAH table map to vault pages: [[organizations/taiwan-center||大洛杉磯台灣會館]] (directory slug taiwan-center-foundation-of-greater-los-angeles redirects there), [[organizations/natma-southern-california||NATMA Southern California Chapter]], [[organizations/north-america-taiwanese-medical-association-foundation||NATMA Foundation]].
+Role anchors already on this page's TAH table map to vault pages: [[organizations/taiwan-center||大洛杉磯台灣會館]] (directory slug taiwan-center-foundation-of-greater-los-angeles redirects there), [[organizations/natma-southern-california||NATMA Southern California Chapter]], [[organizations/north-american-taiwanese-medical-association-foundation||NATMA Foundation]].
 
 ## Duplicate-page note (deepen-x 2026-09-14)
 [[people/simon-lin|Simon Lin (林榮松)]] (published page) lists a 林榮松 as 執行長 of Taiwan Center; this page's own TAH table lists the same 林榮松 as President of the same foundation. Role titles differ (執行長 vs President), so per merge policy this is flagged, NOT auto-merged — cross-source verification needed.
