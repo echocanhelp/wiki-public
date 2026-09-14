@@ -7,7 +7,7 @@ tags:
   - Taiwan-Center
   - board
 verification_status: published
-last_reviewed: 2026-09-10
+last_reviewed: 2026-09-14
 ---
 # Shu Lai (賴淑遠)
 
@@ -53,6 +53,12 @@ last_reviewed: 2026-09-10
 - **Husband:** 賴聰域
 - **Daughter:** Sharon Lai
 - **Son:** Irving Lai
+
+## Role in the Community
+- Our own TAH encyclopedia corpus holds two records on her: [[works/taiwaneseamericanhistory-org/159-shu-yuan-lai|TAH #159, Shu-Yuan Lai 賴淑遠]] and [[works/taiwaneseamericanhistory-org/whos-who-389-shu-yuan-lai|TAH #389, Shu-Yuan Lai 賴淑遠]].
+- From our memoir corpus, [[works/taiwaneseamericanhistory-org/ourjourneys212|Our Journeys #212 (生活座談會 history)]]: she co-founded the **聖東生活座談會** in October 1992 with 林富文夫婦, 孫嘉璘, 郭漢甫, and 許貞華; the group's members went on to serve in NATWA, 陳文成基金會, 同鄉會, FAPA, 公民協會 — matching her NATWA-LA presidency and FAPA board service.
+- Co-initiator of the May 2021 Southern California 僑界 joint statement supporting Taiwan's participation in WHA — [[articles/taiwanjustice-net/2021/20210616072940_2021_05_17_2021年南加州僑界支持台灣參與世界衛生大會wha聯合聲_b1d58af16c0a5e5b|2021 WHA joint statement]] — initiated jointly with Taiwan Center (大洛杉磯台灣會館) and TAHS (台美人歷史協會), consistent with her vice-chairmanship there.
+- Signed the July 2018 open letter of NTU alumni protesting the invitation of 管中閔 by the SoCal NTU alumni council — [[articles/taiwanjustice-net/2018/20180721091303_2018_07_20_抗議-南加州台大校友會邀管中閔來年會做專題演講_a428dcebbceacf38|2018 alumni protest letter]] — listed as 賴淑遠(商學), corroborating her NTU 商學院 (accounting) degree. The letter also lists 賴聰域(數學), corroborating her husband's NTU math-alumnus background.
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

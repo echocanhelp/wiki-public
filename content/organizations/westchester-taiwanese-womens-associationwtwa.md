@@ -49,3 +49,8 @@ All wikilink targets on this page verified to exist in the vault; all cited-sour
 
 ## Vault re-check 2026-09-14 (deepen-x slice 09132337-3, vault-only)
 - All wikilink targets re-verified (Taiwan Center, TAH #108, directory record, Passport to Taiwan, Westchester NY geography, Heritage Week of Westchester County). Every fact in the directory description remains fully absorbed in the History section; no new vault-only facts surfaced this pass. No web used, no new pages created, nothing published.
+
+## Corpus links added 2026-09-14 (deepen-x slice 09141300-5, corpus-only)
+- Corpus grep surfaced the Association's own band-A memoir record [[works/taiwaneseamericanhistory-org/ourjourneys18-eng|Our Journeys #18: 威郡台灣婦女會 / WTWA]] — first-party account, now linked here.
+- The 1999-04-11 25th-anniversary charity piano concert is its own corpus record: [[works/taiwaneseamericanhistory-org/concerts111|111. 郭陳芳玉慈善演奏會 by 威郡台灣婦女會, Purchase, NY on 04/11/1999]] — confirms the concert pictured in the 1999 History entry (title gives 郭陳芳玉 as the performing pianist; venue Purchase, NY).
+- Nearby Westchester geography in the corpus: [[works/taiwaneseamericanhistory-org/chappaqua-library-ta-heritage|紐約威郡 Chappaqua Library 台美人傳統月]] (2018 TA Heritage Month event in the same county) and [[works/taiwaneseamericanhistory-org/ito-chhong-bi-memorial-fund|65. ITO Chhong-bi Memorial Fund by Westchester Taiwanese Church]] — sibling Westchester-org records, not WTWA's own acts (no facts merged).

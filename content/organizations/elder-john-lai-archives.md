@@ -10,7 +10,7 @@ tags:
   - church
   - PCT
 verification_status: pending
-last_reviewed: 2026-09-09
+last_reviewed: 2026-09-14
 ---
 # Elder John Lai's Archives (賴永祥長老史料庫)
 
@@ -85,3 +85,10 @@ Per [[sources/laijohn-com||laijohn.com source hub]] (harvested 2026-08-18):
 - [[organizations/presbyterian-church-in-taiwan||PCT]]
 - [[organizations/boston-taiwanese-christian-church||波士頓台灣基督教會]]
 - [[sources/taiwaneseamericanhistory-org||TAH]]
+
+## Role in the Community
+Our own TAH story corpus documents the archive's founder across four records — the archive is part of the Taiwanese American historical record itself, not just a Taiwan-side resource:
+- [[works/taiwaneseamericanhistory-org/whos-who-41-john-lai|TAH Who's Who #41, John Lai 賴永祥]] (2014-10-04)
+- [[works/taiwaneseamericanhistory-org/106-elder-john-lai-e8-b3-b4-e6-b0-b8-e7-a5-a5-e9-95-b7-e8-80-81-famous-librarian|TAH #106, Elder John Lai — Famous librarian of Harvard University, Boston]] (2015-12-10)
+- [[works/taiwaneseamericanhistory-org/83-elder-john-lai|TAH #83, Elder John Lai 賴永祥長老]] (2018-09-10)
+- [[works/taiwaneseamericanhistory-org/senior-taiwanese-american-6|TAH Seniors #6, Elder John Lai (賴永祥長老)]] (2019-08-28)

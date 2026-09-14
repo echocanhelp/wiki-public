@@ -64,6 +64,9 @@ _No filled family fields on the TAH profile._
 ## Deepen pass 2026-09-14 (vault-only)
 Re-verified: [[works/taiwaneseamericanhistory-org/whoswho1447||TAH #1447]] and [[works/taiwaneseamericanhistory-org/musician378||TAH #378]] are the only vault copies and are already mirrored into the timeline; the Johns Hopkins student-association links stay context-only (no membership recorded). No new facts.
 
+## Deepen pass 2026-09-14 (DEEPEN-X09141300-1) — SKIP-with-reason
+Corpus grep (works/articles) returns only [[works/taiwaneseamericanhistory-org/whoswho1447||TAH #1447]] and [[works/taiwaneseamericanhistory-org/musician378||TAH #378]] — both already mirrored into the timeline above by prior passes. No memoir/corpus material beyond the press record; nothing absorbable.
+
 ## Deepen pass 2026-09-14 (DEEPEN-X09140741-12)
 
 - Reciprocity check: neither [[organizations/johns-hopkins-university-taiwanese-student-association||JHU Taiwanese student association]] nor [[organizations/taiwanese-american-students-association-at-johns-hopkins-university||TASA at Johns Hopkins]] mentions Hsu on-page, so both links remain context-only; no vault page outside the two TAH work records carries 許芝榕 / Agnes Hsu. Her teachers (Danchenko, Beaver), PONT/Fondation des États-Unis, and Jou Music Institute have no vault pages and stay plain text.
