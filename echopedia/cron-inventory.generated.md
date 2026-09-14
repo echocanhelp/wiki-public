@@ -1,7 +1,7 @@
 <!-- cron-inventory-meta: count=27 agent=0 bad_deliver=0 -->
 | Schedule | Job | Mode | En | Last | Script |
 |----------|-----|------|----|------|--------|
-| 0 * * * * | `echopedia-window-freeze` | no_agent | on | ok | `echopedia-window-freeze.sh` |
+| 0 0-7 * * * | `echopedia-window-freeze` | no_agent | on | ok | `echopedia-window-freeze.sh` |
 | 0 2 * * * | `echopedia-extract-actions` | no_agent | on | ok | `echopedia-extract-actions.py` |
 | 0 3 * * * | `echopedia-person-works-linker` | no_agent | on | ok | `echopedia-person-works-linker-cron.sh` |
 | 0 5 * * 0 | `vault-search-index-rebuild` | no_agent | on | ok | `vault-search-index-rebuild.sh` |

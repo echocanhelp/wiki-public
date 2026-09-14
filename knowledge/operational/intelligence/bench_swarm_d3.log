@@ -1,0 +1,4 @@
+c= 1: aggregate 21.8 tok/s | per-stream 21.8 (min 21.8 max 21.8) | TTFT med 246 ms max 246 ms | acc 0.92 tok/round | temp 50C
+c= 4: aggregate 58.9 tok/s | per-stream 15.4 (min 14.9 max 15.9) | TTFT med 431 ms max 432 ms | acc 1.04 tok/round | temp 50C
+c= 8: aggregate 88.9 tok/s | per-stream 11.6 (min 11.0 max 12.3) | TTFT med 1426 ms max 1428 ms | acc 1.03 tok/round | temp 50C
+c=10: aggregate 118.6 tok/s | per-stream 13.2 (min 12.8 max 13.6) | TTFT med 565 ms max 567 ms | acc 1.00 tok/round | temp 50C

@@ -1,0 +1,4 @@
+people/julie-wong.md
+organizations/north-america-pastel-artist-association.md
+people/chi-yin-chen.md
+people/ted-kuo.md

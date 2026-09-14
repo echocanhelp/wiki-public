@@ -1,0 +1,22 @@
+{
+  "run": "2026-09-13 MTP depth sweep, idle+thermal-gated (GPU <=50C, <=3% util before each leg)",
+  "worker": "vLLM qwen38-flash-next-unc-nvfp4, fp8 KV, thinking off, temp 0, seqs 16, GPU_MEM 0.80",
+  "scripts": ["scripts/worker-mtp-bench.py (single-stream short+1k-seed)", "scripts/worker-mtp-swarm-bench.py (c=1/4/8/10)"],
+  "depths": {
+    "2": {"decode_c1_tps": 24.9, "prefill_2k7_tps": 1998, "accept_tok_round": 1.0,
+          "swarm": {"c1": 19.4, "c4": 62.7, "c8": 95.2, "c10": 107.4},
+          "ttft_med_ms": {"c4": 1227, "c8": 1930, "c10": 652},
+          "note": "neutral single-stream, production accept fell 1.13->1.00, TTFT regress at width"},
+    "3": {"decode_c1_tps": 24.9, "prefill_2k7_tps": 1979, "accept_tok_round": 1.13,
+          "swarm": {"c1": 21.8, "c4": 58.9, "c8": 88.9, "c10": 118.6},
+          "ttft_med_ms": {"c4": 431, "c8": 1426, "c10": 565},
+          "per_pos_accept_pct": {"pos0": 69.0, "pos1": 47.1, "pos2": 32.7},
+          "note": "KEEPER. Prefix-cache hit 89.7%. Verified revert: num_spec_tokens=3, verify_worker_flags PASS, chat smoke OK"},
+    "4": {"decode_c1_tps": 20.3, "prefill_2k7_tps": 1971, "accept_tok_round": 1.14,
+          "swarm": {"c1": 17.8, "c4": 48.1, "c8": 85.3, "c10": 103.4},
+          "ttft_med_ms": {"c4": 1132, "c8": 492, "c10": 506},
+          "note": "no acceptance gain from slot4, pays verify cost -> -18% decode, worst aggregate at every width"}
+  },
+  "verdict": "Depth 3 stays. Acceptance ceiling is drafter/kernel-bound (cuda.fast board: 1.6 tok-round, 33.8 dec on ds4 GGUF), not depth-tunable.",
+  "caveats": "c1 short-prompt prefill legs show high CV (tiny prompt, startup jitter) - use 1k-seed legs for comparisons. First c=1 swarm samples run warmup-JIT-cheap; use c>=4 legs for A/B."
+}

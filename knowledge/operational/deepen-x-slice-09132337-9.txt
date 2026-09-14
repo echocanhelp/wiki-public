@@ -1,0 +1,4 @@
+people/christina-shuyu-hsu.md
+people/harmony-yang.md
+people/stanley-sun.md
+people/joanne-chang.md

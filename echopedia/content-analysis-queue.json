@@ -1,43 +1,15 @@
 {
-  "date": "2026-09-13",
+  "date": "2026-09-14",
   "standards_version": 10,
-  "total_pages_scanned": 2880,
-  "pages_with_findings": 37,
-  "auto_queued": 3,
+  "total_pages_scanned": 2885,
+  "pages_with_findings": 8,
+  "auto_queued": 1,
   "queue": [
     {
-      "path": "people/chungchin-chen.md",
+      "path": "events/sc-taiwancenter-org-event-2026-membership.md",
       "findings": [
         "DESC_NO_TITLE_MENTION",
-        "READABILITY_MANY_LONG_SENTENCES_5"
-      ],
-      "priority": "medium",
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol",
-        "Fix ONLY listed findings — no inventing biography",
-        "Update last_reviewed after fixes",
-        "Commit only (no publish)"
-      ]
-    },
-    {
-      "path": "people/dr-chi-wan-lai.md",
-      "findings": [
-        "DESC_NO_TITLE_MENTION",
-        "LINKS_HIGH_DENSITY"
-      ],
-      "priority": "medium",
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol",
-        "Fix ONLY listed findings — no inventing biography",
-        "Update last_reviewed after fixes",
-        "Commit only (no publish)"
-      ]
-    },
-    {
-      "path": "people/dr-mike-kuo.md",
-      "findings": [
-        "DESC_NO_TITLE_MENTION",
-        "READABILITY_MANY_LONG_SENTENCES_4"
+        "LINKS_NO_RELATED"
       ],
       "priority": "medium",
       "instructions": [
@@ -48,6 +20,6 @@
       ]
     }
   ],
-  "suppressed_findings": 1835,
-  "fp_history_entries": 1928
+  "suppressed_findings": 1883,
+  "fp_history_entries": 1935
 }

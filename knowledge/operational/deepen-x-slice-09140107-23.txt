@@ -1,0 +1,4 @@
+people/prof-ming-chiao-michael-lai.md
+people/judy-ching-fang-wu.md
+people/katherine-tai.md
+people/anthony-t-tu.md

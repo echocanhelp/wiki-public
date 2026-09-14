@@ -2843,7 +2843,8 @@
     "2026-08-22",
     "2026-08-23",
     "2026-09-12",
-    "2026-09-13"
+    "2026-09-13",
+    "2026-09-14"
   ],
   "organizations/taiwan-hakka-language-system.md|STRUCT_NO_HISTORY": [
     "2026-08-21",
@@ -14292,14 +14293,38 @@
   ],
   "organizations/taiwan-hakka-association-for-public-affairs-in-north-america.md|READABILITY_LONG_SENTENCES": [
     "2026-09-12",
-    "2026-09-13"
+    "2026-09-13",
+    "2026-09-14"
   ],
   "people/wei-chin-lin.md|READABILITY_MANY_LONG_SENTENCES": [
     "2026-09-12",
-    "2026-09-13"
+    "2026-09-13",
+    "2026-09-14"
   ],
   "people/yvonne-cheng.md|READABILITY_MANY_LONG_SENTENCES": [
     "2026-09-12",
-    "2026-09-13"
+    "2026-09-13",
+    "2026-09-14"
+  ],
+  "events/sc-taiwancenter-org-event-2026-membership.md|DESC_NO_TITLE_MENTION": [
+    "2026-09-14"
+  ],
+  "events/sc-taiwancenter-org-event-2026-membership.md|LINKS_NO_RELATED": [
+    "2026-09-14"
+  ],
+  "events/sc-taiwancenter-org-event-2026tai-wan-xue-xiao.md|LINKS_NO_RELATED": [
+    "2026-09-14"
+  ],
+  "events/sc-taiwancenter-org-event-da-luo-shan-ji-tai-mei-ren-chuan-tong-zhou.md|LINKS_NO_RELATED": [
+    "2026-09-14"
+  ],
+  "events/sc-taiwancenter-org-event-tai-wan-zhang-hua-guang-xing-ge-zhang-zhong-ju-tuan-10.md|LINKS_NO_RELATED": [
+    "2026-09-14"
+  ],
+  "people/albert-zh-sku-b-publisher-review.md|LINKS_NO_RELATED": [
+    "2026-09-14"
+  ],
+  "people/albert-zh-sku-b-publisher-review.md|STRUCT_NO_RELATED": [
+    "2026-09-14"
   ]
 }
