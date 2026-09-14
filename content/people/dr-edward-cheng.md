@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # Dr. Edward Cheng (鄭德昌博士)
 
@@ -34,8 +34,8 @@ Accomplishment
 ## Family
 
 - **Wife:** [[people/shu-ching-cheng||賴淑卿]]
-- **Daughter:** Wendy(鄭昕)
-- **Son:** Eric(鄭晧)
+- **Daughter:** [[people/wendy-cheng||Wendy 鄭昕]]
+- **Son:** [[people/eric-cheng||Eric 鄭晧]]
 
 
 ## Sources
@@ -51,3 +51,6 @@ Accomplishment
 - 本页传记之 TAH 出处页：[[works/taiwaneseamericanhistory-org/180-dr-edward-cheng||TAH #180 Dr. Edward Cheng 鄭德昌博士]]、[[works/taiwaneseamericanhistory-org/whos-who-347-edward-cheng||TAH #347 Dr. Edward Cheng 鄭德昌博士]]。
 - 本页 Employment 所载社区职务对应之 Vault 页：[[organizations/taiwanese-american-foundation-of-san-diego||Taiwanese American Foundation of San Diego]]、[[organizations/formosan-association-for-human-rights||Formosan Association for Human Rights]]；配偶页：[[people/shu-ching-cheng||賴淑卿 Shu-Ching Cheng]]。
 - publisher／語料庫：[[sources/taiwaneseamericanhistory-org-story-corpus||TAH story corpus]]。
+
+## Deepen pass (2026-09-14)
+- 家人欄已連結既有頁：[[people/wendy-cheng||Wendy 鄭昕]]、[[people/eric-cheng||Eric 鄭晧]]（TAH 紀錄所載子女，未新增外部事實）。
