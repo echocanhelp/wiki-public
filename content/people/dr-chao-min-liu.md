@@ -71,3 +71,7 @@ _Facts absorbed from this page's own TAH tables and encyclopedia entry; no new s
 
 ## Vault re-check 2026-09-11 (deepen-x slice 9, vault-only)
 All wikilink targets on this page verified to exist in the vault; all cited-source facts were already absorbed in the prior deepen pass. No new vault facts found, no web used, no new pages created, nothing published.
+
+## Vault re-check 2026-09-13 (deepen-x slice 22, vault-only)
+- His own archival collection is held by the TAH archive: [[works/taiwaneseamericanhistory-org/collection-of-dr-chao-min-liu||TAH #64 — Collection of Dr. Chao-Min Liu 劉兆民博士的收藏]].
+No web used, no new pages created, nothing published.
