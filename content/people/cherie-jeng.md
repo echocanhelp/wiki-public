@@ -59,3 +59,7 @@ All wikilink targets verified to exist in the vault; all cited-source facts alre
 
 ## Deepen — 2026-09-14 (vault-only re-check)
 TAH Who's Who profile fully absorbed into the timeline/tables; biography truncation ("American Choral Direc…") is in the source itself, not a vault gap. Existing links to [[people/amanda-hsu||Amanda Hsu]], [[people/frank-c-h-chen||Frank C. H. Chen]], and the Taiwanese Youth Arts Foundation all resolve; Glorystar Children's Chorus, Shih-Chien College, SFCM, and the DC-area churches still have no vault pages and stay plain text.
+
+## Role in the Community
+- Our own TAH story corpus holds a community feature on her: record #332 "Cherie Jeng, Artistic Director" (2016-03-01) — [[works/taiwaneseamericanhistory-org/332-cherie-jeng-artistic-director-201602|TAH record #332, Cherie Jeng, Artistic Director]] — documenting her recognition within the Taiwanese American community as an artistic director.
+- Disambiguation (same surname, different people, in the same corpus — do not merge): [[works/taiwaneseamericanhistory-org/104-e6-b4-aa-e7-a7-80-e8-8a-ac-judy-jeng|TAH #104 Judy Jeng 莊明芷]], [[works/taiwaneseamericanhistory-org/769-raymond-jeng-e9-84-ad-e8-8b-b1-e6-9d-be-201601|TAH #769 Raymond Jeng]], [[works/taiwaneseamericanhistory-org/whos-who-2168-y-c-jeng|TAH Who's Who Y.C. Jeng]], [[works/taiwaneseamericanhistory-org/whos-who-2134-rhoda-wang-jeng|TAH Who's Who Rhoda Wang Jeng]].

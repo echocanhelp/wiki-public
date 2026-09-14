@@ -51,6 +51,12 @@ Accomplishment
 - [TAH #36 encyclopedia: 36. Dr. Mu-Sheng Wu 吳木盛博士](https://taiwaneseamericanhistory.org/whos-who-36-mu-sheng-wu/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-mu-sheng-wu/)
 
+## Role in the Community（吸收自语料庫 2026-09-14）
+- **TAA 會長時期（1974–1976）**：1975 年 7 月 2 日，呂秀蓮經全美台灣同鄉會吳木盛引介，赴美東台灣人夏令會演講，因其維護國民黨政府之言論遭會眾圍剿（見 [[works/taiwaneseamericanhistory-org/our-journeys-392|TAH #392：1975 美東台灣人夏令會總召集人王成章牧師專訪]]）。
+- **會史撰文者**：親撰全美台灣同鄉會會史 [[works/taiwaneseamericanhistory-org/ourjourneys76-eng|TAH #76：全美台灣同鄉會／Taiwanese Association of America]] 及奧斯汀同鄉會會史 [[works/taiwaneseamericanhistory-org/ourjourneys45-eng|TAH #45：Austin 台灣同鄉會之成立]]。
+- **社區中心購置**：休士頓台灣人活動中心成立十周年 memoir 記載，1988 年當選七人購置委員會委員之一（與 Chao-Yuh Yang、Cheng-Yi Chuang 等）並參與看屋評估（[[works/taiwaneseamericanhistory-org/ourjourneys233-eng|TAH #233：回顧休士頓台灣人活動中心的成立]]）。HOLD: 該 memoir 為休士頓場景，與本頁 Austin 背景是否同一人未經證實，並記存疑。
+- **專欄作家／文學筆**：《台灣公論報》專欄〈吳木盛開講〉〈藝術的生活〉（[[works/taiwaneseamericanhistory-org/columns27|TAH #27]]、[[works/taiwaneseamericanhistory-org/columns26|TAH #26]]）；文學隨筆《小指隨筆》（[[works/taiwaneseamericanhistory-org/publications1099|TAH #1099：小指隨筆]]）；人物記錄稱「台美人第一筆」（[[works/taiwaneseamericanhistory-org/ff325|TAH #325：The Famous Writer]]）。
+
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

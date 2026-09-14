@@ -47,6 +47,9 @@ _No filled family fields on the TAH profile._
 - [[works/taiwaneseamericanhistory-org/whoswho1111||TAH #1111: Tina Shao 邵婷雯 (2016/06)]] — Who's Who 百科記錄；vault 記錄發布日 2016-06-25
 - [[organizations/johns-hopkins-university-taiwanese-student-association||Johns Hopkins University Taiwanese Student Association]] — context: her alma mater (Peabody Conservatory of Music) is part of Johns Hopkins University
 
+## Corpus check（2026-09-14）
+- 語料庫檢索僅命中本人既有記錄（TAH #55、#1111，均已列於 Vault Holdings）；ourjourneys234 之命中為拼音子字串誤配，內文無本人事蹟。SKIP-with-reason：vault 內無可吸收之新增社群事實。
+
 ## Sources
 - [TAH #1111 encyclopedia: 1111. Tina Shao  邵婷雯 / 2016/06](https://taiwaneseamericanhistory.org/whoswho1111/)
 - [TAH #55 encyclopedia: 55. Tina Shao 邵婷雯, Pianist/2014/10](https://taiwaneseamericanhistory.org/musician55/)

@@ -53,6 +53,9 @@ _No filled family fields on the TAH profile._
 - 吸收本頁既有 Education／Employment 表列事實至傳記段（無新增外部事實）。
 - 曼哈頓音樂學院、內華達州立大學、國立臺中教育大學、新民高中無 vault 頁面；不新增虛構 wikilink。
 
+## Corpus check（2026-09-14）
+- 語料庫檢索命中僅本人既有記錄（TAH #114、#88，已列於 Vault records）及 #202 誤配頁（連結實指 jonathan-h-wu，已備註）。SKIP-with-reason：vault 內無可吸收之新增社群事實。
+
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
