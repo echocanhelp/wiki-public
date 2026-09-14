@@ -47,7 +47,8 @@ last_reviewed: 2026-09-14
 
 ## Family
 
-- **Wife:** 柯惠香
+- **Wife:** 柯惠香（僅見於本頁與子頁，尚無專屬頁面）
+- **Son:** [[people/dr-john-tsuang||Dr. John Tsuang 莊文宗醫師]]（其頁載 Father 莊明哲、Mother 柯惠香， reciprocal 對應）
 
 
 ## Sources
@@ -69,3 +70,8 @@ last_reviewed: 2026-09-14
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- [[organizations/united-taiwanese-association-at-uc-san-diego||UCSD 台灣學生社團]] — 任職UC San Diego 之地域關聯
+- 任職地（台大、華盛頓大學聖路易、愛荷華、布朗、哈佛、UCSD）目前無專屬機構頁，僅保留文字事實。
+
+## Vault note (deepen-x 2026-09-14)
+本輪僅自 vault 既有頁面吸收：兒子頁 [[people/dr-john-tsuang]]  reciprocity 補入 Family；未新增外部傳記。
