@@ -45,7 +45,10 @@ Absorbed from the TAH profile above:
 - 2020 — received the **Outstanding Alumni Award** from the School of Pharmacy, National Taiwan University ([[works/taiwaneseamericanhistory-org/73-rita-fang-yuh-chen-received-outstanding-alumni-award-2020||TAH #73]], 2020-06-12).
 - Her personal papers and photographs are held as a private collection: [[works/taiwaneseamericanhistory-org/private-collection-96-fang-yuh-rita-chen||TAH #96 — Collection of the Fang-Yuh Rita Chen 陳芳玉的收藏]] (2020-05-11).
 - Her Pharmacy training at NTU (B.S. 1964) places her within the professional network documented by [[organizations/taiwanese-american-association-of-pharmaceutics||Taiwanese American Association of Pharmaceutics]] (台美藥劑協會); no personal membership is documented in the vault.
-- Encyclopedia records in the vault: [[works/taiwaneseamericanhistory-org/5-fang-yuh-rita-chen||TAH #5]], [[works/taiwaneseamericanhistory-org/181-rita-chen-e9-99-b3-e8-8a-b3-e7-8e-89new-york-e7-ac-ac-e4-b8-80-e4-bd-8d-e5-8||TAH #181 — 第一位台美鋼琴演奏家]], [[works/taiwaneseamericanhistory-org/41-rita-chen-e9-99-b3-e8-8a-b3-e7-8e-89-piano||TAH #41 — Pianist]], [[works/taiwaneseamericanhistory-org/whos-who-15-fang-yuh-chen||TAH Who's Who #15]].
+- Encyclopedia records in the vault: [[works/taiwaneseamericanhistory-org/5-fang-yuh-rita-chen||TAH #5]], [[works/taiwaneseamericanhistory-org/181-rita-chen-e9-99-b3-e8-8a-b3-e7-8e-89new-york-e7-ac-ac-e4-b8-80-e4-bd-8d-e5-8||TAH #181 — 第一位台美鋼琴演奏家]], [[works/taiwaneseamericanhistory-org/41-rita-chen-e9-99-b3-e8-8a-b3-e7-8e-89-piano||TAH #41 — Pianist]], [[works/taiwaneseamericanhistory-org/whos-who-15-fang-yuh-chen||TAH Who's Who #15]], [[works/taiwaneseamericanhistory-org/ff13||TAH #13]].
+- 2002-06 — received the 紐約威郡YWCA藝術傑出成就獎 (NYWTWCA Outstanding Achievement Award in the Arts) as Rita Chen Kuo ([[works/taiwaneseamericanhistory-org/winner-rita-chen-kuo-06-2002||TAH #61]]).
+- 1999-04-11 — 郭陳芳玉慈善演奏會 (charitable recital) presented by 威郡台灣婦女會 at Purchase, NY ([[works/taiwaneseamericanhistory-org/concerts111||TAH #111]]); WTWA's own history is documented in [[works/taiwaneseamericanhistory-org/ourjourneys18-eng||TAH 威郡台灣婦女會 / WTWA]].
+- Her own memoir essay is preserved in the vault: 我的青春紀事 ([[works/taiwaneseamericanhistory-org/mystories20||TAH My Youth Chronicle / 陳芳玉]]).
 
 ## Family
 

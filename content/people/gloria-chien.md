@@ -58,6 +58,10 @@ Absorbed from the on-page biography and tables (no external sources):
 
 ## Related Pages
 - [[people/yu-hsuan-liao||Yu-Hsuan Liao (廖又萱)]] — fellow TAH-record pianist
+- [[people/chiun-teng-cheng||Chiun-Teng Cheng (鄭俊騰)]] — fellow New England Conservatory alumnus (TAH-record musician)
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - [[sources/taiwaneseamericanhistory-org-story-corpus||TAH story corpus hub]]
+
+## Vault re-check 2026-09-13 (deepen-x slice 22, vault-only)
+All cited-source records (#498, #241, Who's Who) verified present in the vault and already linked; biography facts were fully absorbed in the on-page Timeline. Cross-linked to a fellow New England Conservatory alumnus documented in the vault. No new vault facts found, no web used, no new pages created, nothing published.
