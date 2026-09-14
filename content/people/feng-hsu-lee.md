@@ -60,3 +60,7 @@ _No filled family fields on the TAH profile._
 - Education chain per the education table: 東吳大學音樂系 (B.S. 作曲) → Eastman School of Music, University of Rochester (M.S. 作曲) → The Hartt School, University of Hartford (Ph.D. Music).
 - Posts per the employment table: conductor and director of 洛杉磯大都會青少年交響樂團 (present); teaching at 馬來西亞吉隆坡馬來亞大學 (University of Malaya) 文化中心音樂系.
 - Geography: 台灣雲林. No filled family fields on the TAH profile; no other vault person page currently references 李豐旭.
+
+## Deepen note (2026-09-14, vault-only)
+- Both cited encyclopedia records ([[works/taiwaneseamericanhistory-org/musician392|#392]] and [[works/taiwaneseamericanhistory-org/whoswho1602|#1602]], both 2017-04-09) are bibliographic records only — no additional prose available in-vault beyond the truncated profile text mirrored above (the biography cuts off mid-entry at "Unbearable and Watery Eyes").
+- Institutions named in his tables (東吳大學音樂系, Eastman School of Music, The Hartt School, 洛杉磯大都會青少年交響樂團, University of Malaya) have no vault pages; per no-new-pages rule they stay unlinked. His hub listing is [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]].

@@ -84,3 +84,7 @@ Pages that link to **april-lin** (april-lin):
 - [[people/wei-boji||Wei Boji (魏博基)]]
 - [[people/xu-shitan||Xu Shitan (徐士坦)]]
 - [[people/wang-rongyi||Wang Rongyi (王榮義)]]
+
+## Vault deepening note (2026-09-14, vault-only)
+- Re-checked cited sources (`taiwancenter-org-board.md` archive, gala announcement article): no new facts beyond the page's current content.
+- Reciprocal link added: TWCLA director-list peer [[people/shirley-yu||Shirley Yu (張欣珠)]] (existing vault page) sits on the same 董事 roster.

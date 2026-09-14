@@ -55,3 +55,8 @@ Her TAH encyclopedia entries are held in the vault as community historical recor
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[organizations/columbia-university-taiwanese-graduate-student-association||Columbia University（Teachers College 就讀相關）]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+## Deepen note (2026-09-14, vault-only)
+- Both cited TAH encyclopedia records ([[works/taiwaneseamericanhistory-org/90-yvonne-cheng-e9-84-ad-e7-91-9c-e8-8b-b1-soprano|#90]] and [[works/taiwaneseamericanhistory-org/140-yvonne-cheng-e9-84-ad-e7-91-9c-e8-8b-b1|#140]], both 2014-12-05) are bibliographic records only — full biography text stays at the source site, so no additional facts could be absorbed beyond the biography and tah-tables already mirrored above.
+- Family entries Joseph Letizia and Jessica Letizia have no vault pages; per no-new-pages rule they stay unlinked.
+- Her roster entry lives in the source hub [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]; no other vault person page currently references 鄭瑜英.

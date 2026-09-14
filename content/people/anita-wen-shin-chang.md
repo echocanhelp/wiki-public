@@ -49,3 +49,7 @@ Her film on leprosy patients in Taiwan and her move to teach at National Dong Hw
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - [[people/jean-cheng||Jean Cheng]] — fellow Taiwanese American filmmaker cited in the same TAH magazine feature
+
+## Vault deepening note (2026-09-14, vault-only)
+- Re-checked the vault corpus (TAH #141, TAH magazine feature [[works/taiwaneseamerican-org/taiwanese-american-film||Taiwanese American Film]]): no new biographical facts beyond those already absorbed above.
+- Cross-reference: the same feature's vault page corroborates *62 Years and 6,500 Miles Between* and the NAATA/CAAM "Taiwanese" category anecdote already recorded here.

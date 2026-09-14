@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # Hung-Kuan Chen (陳宏寬)
 
@@ -59,3 +59,7 @@ _No filled family fields on the TAH profile._
 ## Vault records (deepen pass 2026-09-10)
 - **Archival records (dated):** [[works/taiwaneseamericanhistory-org/576-hung-kuan-chen-e9-99-b3-e5-ae-8f-e5-af-ac-201509|TAH #576 陳宏寬]] and [[works/taiwaneseamericanhistory-org/292-hung-kuan-chen-e9-99-b3-e5-ae-8f-e5-af-ac-pianist-201509|TAH #292 陳宏寬, Pianist]] were both published 2015-09-07.
 - **From this page's own TAH tables/text:** 茱莉亞音樂學院鋼琴教授 2014–present; visiting professor at Yale since 2010; earlier faculty at 波士頓大學 (1984–1999) and 新英格蘭音樂學院附中 (1993–1999).
+
+## Vault deepening note (2026-09-14, vault-only)
+- Re-checked the cited vault records (TAH #576 / #292, 2015-09-07): no further absorbable facts; chamber colleagues Yo-Yo Ma, Roman Totenberg, David Shifrin, Tema Blackstone have no vault pages, so no new wikilinks.
+- Existing reciprocal links remain the strongest vault connections: [[people/sean-chen||Sean Chen]] (student), [[people/kerina-chang||Kerina Chang]] (masterclass), [[people/cho-liang-lin||Cho-Liang Lin]] (chamber).

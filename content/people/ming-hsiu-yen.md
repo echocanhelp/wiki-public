@@ -61,3 +61,7 @@ _No filled family fields on the TAH profile._
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - [[sources/taiwaneseamericanhistory-org-story-corpus||TAH story corpus]] — her encyclopedia entries #1087, #571, and #287 are held as bibliographic records in the corpus
+
+## Deepen note (2026-09-14, vault-only)
+- All three cited records ([[works/taiwaneseamericanhistory-org/whoswho1087|#1087]], [[works/taiwaneseamericanhistory-org/571-ming-hsiu-yen-e9-a1-8f-e5-90-8d-e7-a7-80-201509|#571]], [[works/taiwaneseamericanhistory-org/musician287|#287]]) are bibliographic records only — the biography and tah-tables mirrored above are the complete in-vault record; nothing further absorbable without web.
+- Her Rochester post (Taiwanese Choral Society of Rochester) is a different body from the vault's [[organizations/taiwanese-american-association-of-rochester-new-york||Taiwanese American Association of Rochester]] — deliberately not linked to avoid a false association. Eastman School of Music, University of Michigan, and the named orchestras have no vault pages.

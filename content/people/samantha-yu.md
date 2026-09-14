@@ -74,3 +74,7 @@ last_reviewed: 2026-09-14
 - [[people/wei-boji||Wei Boji (魏博基)]]
 - [[people/xu-shitan||Xu Shitan (徐士坦)]]
 - [[people/wang-rongyi||Wang Rongyi (王榮義)]]
+
+## Deepen note (2026-09-14, vault-only)
+- Cross-referenced from two fellow-director pages in the vault: listed among the 會館董事 (with 董事長田詒鴻、陳柏宇、林榮松、蔡漢成 等) in the Palms Resort 募票公告 quoted on [[people/roger-tsai||Roger Tsai (蔡漢成)]], and named in the 38位董事 roster block on [[people/steven-wu||Steven Wu (吳尚誠)]].
+- All three board-record citations on this page (current board listing, 2018 第11屆會訊, 2024 TJ 年會報導) are exhausted; biography remains undocumented in this source set — no further facts absorbable without web.

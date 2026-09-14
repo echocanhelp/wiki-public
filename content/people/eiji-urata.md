@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # Eiji Urata (謝榮慶)
 
@@ -57,3 +57,7 @@ Facts absorbed from the TAH profile text already cited on this page:
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - [[works/taiwaneseamericanhistory-org/54-e8-ac-9d-e6-a6-ae-e6-85-b6-eiji-urata||TAH Encyclopedia #54: 謝榮慶 Eiji Urata (2015/09)]]
+
+## Vault deepening note (2026-09-14, vault-only)
+- Re-checked both cited TAH encyclopedia records already in the vault (#1001, #54): the full biography is already absorbed above; no additional facts remain in the source set.
+- Notable named influences 三宅一生 (Issey Miyake), 織田博哉, and 蘇茂生 have no vault pages — deliberately left as plain text, no new pages created.
