@@ -46,6 +46,10 @@ An accomplished opera baritone, Mr. Jonathan Wu graduated from the Chinese Cultu
 - **Son:** 吳新毅
 
 
+## Role in the Community（deepen 2026-09-14，corpus pass）
+- 語料庫另存有他所屬合唱團的獨立百科記錄：[[works/taiwaneseamericanhistory-org/24-e7-89-a7-e6-98-9f-e5-90-88-e5-94-b1-e5-9c-98-201503|TAH #24 牧星合唱團（2015-03-22 刊）]]——該記錄本身未具名個人（Subjects pending），但與本頁「特約歌唱家, 牧星合唱團」現職相互印證，屬本運動合唱傳統的一環。
+- 全語料 grep（works/articles，含簡體「吴显明」）僅命中本身書目記錄 #110／#201／#202 與上述團體記錄；無其他回憶錄素材可吸收。
+
 ## Sources
 - [TAH #201 encyclopedia: 201. Jonathan H. Wu 吳顯明 /2015/01](https://taiwaneseamericanhistory.org/201-jonathan-h-wu-%e5%90%b3%e9%a1%af%e6%98%8e-201501/)
 - [TAH #110 encyclopedia: 110. Jonathan H. Wu 吳顯明, Baritone / 2015/01](https://taiwaneseamericanhistory.org/110-jonathan-h-wu-%e5%90%b3%e9%a1%af%e6%98%8e-baritone-201501/)
