@@ -61,3 +61,4 @@ Facts absorbed from the TAH profile text already cited on this page:
 ## Vault deepening note (2026-09-14, vault-only)
 - Re-checked both cited TAH encyclopedia records already in the vault (#1001, #54): the full biography is already absorbed above; no additional facts remain in the source set.
 - Notable named influences 三宅一生 (Issey Miyake), 織田博哉, and 蘇茂生 have no vault pages — deliberately left as plain text, no new pages created.
+- SKIP note (deepen-x 09141300-16, 2026-09-14): corpus grep over content/works + content/articles returned only his own bibliographic records (#54, #1001), already linked above — no memoir material with new community facts to absorb.
