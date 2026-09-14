@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-14
 ---
 # Jun-Ching Lin
 
@@ -41,6 +41,12 @@ The Atlanta Symphony’s Assistant Concertmaster since 1988, Jun-Ching Lin was c
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/jun-ching-lin/)
+
+
+## Deepen 2026-09-14 (vault-only)
+- **Directory record:** the TAH profile is corroborated by two musician-encyclopedia entries in the vault, both published 2015-08-22: [[works/taiwaneseamericanhistory-org/271-jun-ching-lin-violinist-201508||TAH #271, Jun-Ching Lin, Violinist]] and [[works/taiwaneseamericanhistory-org/542-jun-ching-lin-201508||TAH #542, Jun-Ching Lin]], which classify him by role as *violinist*.
+- **Holdings:** the entries sit in the [[sources/taiwaneseamericanhistory-org-story-corpus||台美史料中心 story corpus]], published by [[organizations/tah-foundation||TAH Foundation]].
+- **Link hygiene:** the Atlanta Symphony Orchestra, Emory University, Curtis Institute, Cleveland Institute, Encore School for Strings and Franklin Pond Chamber Music have no vault pages; left unlinked rather than creating new pages. No Atlanta-area Taiwanese org in the vault asserts a documented link to him, so none was linked.
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

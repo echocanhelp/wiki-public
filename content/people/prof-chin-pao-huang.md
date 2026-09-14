@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-14
 ---
 # Prof. Chin-Pao Huang (黃金寶教授)
 
@@ -40,6 +40,13 @@ Prof. Chin-Pao Huang 黃金寶教授 – History of Taiwanese American (T.A. Arc
 ## Sources
 - [TAH #2305 encyclopedia: 2305. Prof. Chin-Pao Huang 黃金寶教授](https://taiwaneseamericanhistory.org/whos-who-2305-chin-pao-huang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-chin-pao-huang/)
+
+
+## Deepen 2026-09-14 (vault-only)
+- **Directory record:** the Who's Who profile is archived in the vault as [[works/taiwaneseamericanhistory-org/whos-who-2305-chin-pao-huang||TAH #2305, Prof. Chin-Pao Huang 黃金寶教授]], published 2021-01-05.
+- **Family:** his daughter Catherine (Katherine) Huang has her own vault page [[people/katherine-huang||Katherine Huang]] (already wikilinked in the Family section). Wife Yu-Chu Chang and son Calvin Huang have no vault pages; left unlinked.
+- **Geography note:** his 1971-2009+ academic career is Delaware-based; the vault's only Delaware Taiwanese-community page is [[organizations/taiwanese-association-of-america-delaware||TAA Delaware]], but no vault source documents his membership, so it is noted without an asserted affiliation.
+- **Holdings:** the entry sits in the [[sources/taiwaneseamericanhistory-org-story-corpus||台美史料中心 story corpus]], published by [[organizations/tah-foundation||TAH Foundation]].
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-14
 ---
 # Dr. Tzu-Hsing April Kuo (郭姿杏博士)
 
@@ -39,6 +39,13 @@ _No filled family fields on the TAH profile._
 ## Sources
 - [TAH #1908 encyclopedia: 1908. Dr. Tzu-Hsing (April) Kuo 郭姿杏博士](https://taiwaneseamericanhistory.org/whos-who-1908-tzu-hsing-kuo/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-tzu-hsing-april-kuo/)
+
+
+## Deepen 2026-09-14 (vault-only)
+- **Directory record:** the Who's Who profile is archived in the vault as [[works/taiwaneseamericanhistory-org/whos-who-1908-tzu-hsing-kuo||TAH #1908, Dr. Tzu-Hsing (April) Kuo 郭姿杏博士]], published 2017-09-24.
+- **Community role:** her employment record lists her as President of the 波士頓台灣人生物科技協會, which has its own vault page [[organizations/boston-taiwanese-biotechnology-association||BTBA]] — founded 2012 by Taiwanese graduate students, postdocs and young professionals in greater Boston, holding annual symposiums of 350+ young Taiwanese bioscience professionals. Her postdoc-to-industry path (Penn, then Brigham and Women's/Harvard, then Acceleron Pharma) places her inside that Boston cohort.
+- **Holdings:** the entry sits in the [[sources/taiwaneseamericanhistory-org-story-corpus||台美史料中心 story corpus]], published by [[organizations/tah-foundation||TAH Foundation]].
+- **Link hygiene:** National Taiwan Univ., National Yang Ming Univ., UMDNJ, Rutgers, Penn, Brigham and Women's/Harvard have no vault pages; left unlinked.
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
