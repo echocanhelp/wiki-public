@@ -65,6 +65,10 @@ Accomplishment
 - [[works/taiwaneseamericanhistory-org/378-mr-kuo-chang-chen||TAH #378 — first T.A. to complete the visit of all 50 states]]
 - [[works/taiwaneseamericanhistory-org/whos-who-1138-kuo-chang-chen||TAH #1138 Who's Who entry]]
 
+## Role in the Community (from corpus)
+- He is a corpus author himself: his own memoir [[works/taiwaneseamericanhistory-org/mystories669|669. 我的50州圓夢之旅 / 陳國昌 /01/2019]] (2019-01) tells the 50-state journey first-hand — the corpus companion to the press record [[works/taiwaneseamericanhistory-org/378-mr-kuo-chang-chen|TAH #378 — first T.A. to complete the visit of all 50 states]].
+- Movement leadership already documented in the vault: presidencies of [[organizations/taiwanese-association-of-northwest-los-angeles|Taiwanese Association of Northwest Los Angeles]] (2001–2002), [[organizations/fapa-los-angeles|FAPA/Los Angeles]] (2003–2006, plus FAPA/USA central executive committee) and [[organizations/taiwanese-american-cpa-association-tacpa|TACPA 台美會計師協會]] (2019–2020), preceded by the 1979 Formosa Student Association presidency at the University of Kansas.
+
 ## Vault re-check (2026-09-14, deepen-x slice)
 - All three TAH encyclopedia work records cited here exist in the vault and are wikilinked above (#249, #378 — the first-T.A.-to-visit-all-50-states record — and #1138).
 - His three documented presidency posts all have vault pages: [[organizations/taiwanese-american-cpa-association-tacpa||TACPA]] (2019–2020), [[organizations/fapa-los-angeles||FAPA/LA]] (2003–2006, plus FAPA/USA central executive committee), and [[organizations/taiwanese-association-of-northwest-los-angeles||Taiwanese Association of Northwest Los Angeles]] (2001–2002).

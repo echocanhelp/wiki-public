@@ -3,7 +3,7 @@ title: "Rex Chen (陳乃光)"
 type: person
 tags: []
 verification_status: pending
-last_reviewed: 2026-09-10
+last_reviewed: 2026-09-14
 ---
 # Rex Chen (陳乃光 / Chen Nai-Guang)
 
@@ -95,3 +95,8 @@ Pages that link to **陳乃光** (rex-chen):
 - [[people/david-lee||David Lee (李東璞)]] serves as TAHS CTO per the Echo System leadership listing on the [[organizations/taiwanese-american-historical-society||TAHS]] page.
 - Onboarding was recorded under the [[people/tahs-member-onboarding||TAHS member onboarding]] process; employer context (EverTrust Bank, an O-Bank subsidiary) remains per the onboarding business card, pending Rex's own confirmation.
 - Revision note 2026-09-10: vault-internal deepen pass only (reciprocal backlinks + process links); no new biographical claims added.
+
+## Corpus scan (revisit 2026-09-14)
+
+- Corpus grep of `content/works` + `content/articles` for 陳乃光 / Rex Chen returns only the TAH Who's Who record [[works/taiwaneseamericanhistory-org/whoswho2046|2046. Rex Chen 陳財元 / 02/2018]] — that is the earlier Oklahoma Rex Chen [[people/chen-caiyuan||陳財元 (1949–2003)]], **not this member**. No memoir or article in the corpus mentions 陳乃光.
+- No corpus facts absorbable for this member; the link above is recorded so the recurring name collision resolves here instead of being re-flagged.

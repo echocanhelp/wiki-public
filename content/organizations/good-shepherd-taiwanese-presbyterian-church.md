@@ -189,3 +189,8 @@ Good Shepherd is **not** a Presbyterian Church in Taiwan congregation. See [[org
 - [[sources/good-shepherd-taiwanese-presbyterian-church||GSTPC Official Website (source)]]
 - [[people/sam-wei-chih-sun||Sam Wei-Chih Sun (孫偉志)]]
 - [[people/susan-shu-ai-tsai||Susan Shu-Ai Tsai (蔡淑愛)]]
+
+## Role in the Community
+- Our own TAH story corpus carries a dedicated community record on the church: "Good Shepherd Taiwanese Presbyterian Church, Monterey Park, CA 好牧者基督教長老教會" (2016-05-12) — [[works/taiwaneseamericanhistory-org/good-shepherd-taiwanese-presbyterian-church|TAHS story-corpus record, Good Shepherd TPC]] — evidence the church was documented as part of the Taiwanese American historical record by 2016.
+- HOLD: naming conflict — the TAH corpus record titles the church 好牧者基督教長老教會 (no 臺灣); the church's own usage is 好牧者臺灣基督長老教會. Keep both, do not auto-merge.
+- Corpus near-misses checked and excluded: Miami "Good Shepherd Villas" venue in a TJJCC Miami event record (unrelated), Sydney 好牧羊人教堂 stabbing news (unrelated).

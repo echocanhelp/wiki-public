@@ -51,6 +51,11 @@ _No filled family fields on the TAH profile._
 ## Vault note (deepen-x 2026-09-14)
 Page is saturated at its single cited source. None of the named entities (teachers, Yun-Fu Elementary, Ta-Chen Middle School, Tainan Girls' High School, Juilliard School, Muse Piano Quartet, Formosa Chamber Music Society) has an existing vault page; per slice rules no new pages were created and no biography was invented.
 
+## Corpus links (revisit 2026-09-14)
+
+- Her own TAH Who's Who record sits in the corpus: [[works/taiwaneseamericanhistory-org/436-i-chen-wang-violinist-09-2019|436. I-Chen Wang, Violinist / 09/2019]] — the bibliographic counterpart of the profile above.
+- Her sponsoring society, Formosa Chamber Music Society (台灣室內樂社), is documented in our own records: [[works/taiwaneseamericanhistory-org/concerts85|85. The Long Duo 雙鋼琴演奏會, NY, 10/29/2005]] and [[works/taiwaneseamericanhistory-org/our-journeys-390|Our Journeys — UCSD Center for Taiwan Studies launch, 2023]] (intergenerational Formosa Chamber Music group performance). These document society activity; neither names her directly — no biography merged from them.
+
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

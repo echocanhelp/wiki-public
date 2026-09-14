@@ -54,3 +54,8 @@ Timeline absorbed solely from this page's own tah-tables (TAH #1785):
 - **2014–** — Distinguished Chair Professor, National Taiwan University Graduate Institute of Clinical Medicine.
 
 Cross-links (existing slugs only): [[organizations/stanford-taiwanese-student-association||Stanford Taiwanese Student Association]] and [[organizations/harvard-taiwanese-cultural-society||Harvard Taiwanese Cultural Society]] — vault organizations at his institutions of study/employment.
+
+## Role in the Community (corpus revisit 2026-09-14)
+
+- Primary community record: TAH Who's Who file [[works/taiwaneseamericanhistory-org/whos-who-1785-howard-yuan-hao-chang|1785. Prof. Howard Yuan-Hao Chang 張元豪教授 / 07/2017]] — the corpus source behind the tables above.
+- The taiwaneseamerican.org blog corpus (2014) lists a "Community Service Chair, Howard Chang (howard.chang@tap-sf.org)" for Taiwanese American Professionals–SF volunteer events: [[works/taiwaneseamerican-org/community-service-opportunity-with-tap-in-oakland|TAP Oakland Lunar New Year volunteer]] and [[works/taiwaneseamerican-org/community-service-event-with-tap-in-norcal|TAP NorCal community service event]]. HOLD: conflict — same name, but no evidence linking that TAP-SF chair to the Stanford/NTU professor; not merged.
