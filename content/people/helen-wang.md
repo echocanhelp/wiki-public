@@ -48,6 +48,7 @@ Accomplishment
 - [[works/taiwaneseamericanhistory-org/175-helen-wang||TAH #175 百科 entry]]
 - [[works/taiwaneseamericanhistory-org/whos-who-1728-helen-wang||TAH #1728 Who's Who entry]]
 - [[works/taiwaneseamericanhistory-org/ourjourneys60||Our Journeys #60 (方惠音)]]
+- [[works/taiwaneseamericanhistory-org/ourjourneys60-eng||Our Journeys #60 (英文版)]]
 - [[organizations/north-america-taiwanese-womens-association||North America Taiwanese Women's Association 北美洲台灣婦女會總會 — President 1992–1993]]
 - [[organizations/taiwanese-american-association-new-york||大紐約區台灣同鄉會 — President]]
 - [[organizations/new-york-taiwan-center||New York Taiwan Center 紐約台灣會館 — Vice President]]
