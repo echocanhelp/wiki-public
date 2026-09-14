@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # Prof. Fong-Yong Tsai (蔡芳洋教授)
 
@@ -55,6 +55,11 @@ Prof. Fong-Yong Tsai 蔡芳洋教授 – History of Taiwanese American (T.A. Arc
 - [TAH #69 encyclopedia: 69. Prof. Fong-Yong Tsai 蔡芳洋教授](https://taiwaneseamericanhistory.org/69-prof-fong-yong-tsai/)
 - [TAH #602 encyclopedia: 602. Prof. Fong-Yong Tsai 蔡芳洋教授](https://taiwaneseamericanhistory.org/whos-who-602-fong-yong-tsai/)
 - [TAH Who's Who](https://taiwaneseamericanhistory.org/person/prof-fong-yong-tsai/)
+
+## Connected in the Vault
+- His own TAH encyclopedia records sit in the vault: [[works/taiwaneseamericanhistory-org/69-prof-fong-yong-tsai||TAH #69 encyclopedia profile (published 2018-09-04)]] and [[works/taiwaneseamericanhistory-org/whos-who-602-fong-yong-tsai||TAH #602 encyclopedia profile]].
+- The vault also holds [[works/taiwaneseamericanhistory-org/collection-of-prof-fong-yong-tsai||TAH #28 — Collection of Prof. Fong-yong Tsai 蔡芳洋教授的收藏]] (published 2017-07-11), a T.A. Archives record of his collection.
+- **2026-09-14 (DEEPEN-X09112200-19):** cross-link re-check — his institutions (Taipei Medical, Thomas Jefferson, Albany, USC Keck, UMKC, Allegheny/Hahnemann, UC Irvine) have no vault pages and stay plain text; the TAKC and NATPA Southern California chapter links above both resolve.
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

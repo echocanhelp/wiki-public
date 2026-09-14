@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # Dr. Kuochih Hong (洪國治博士)
 
@@ -29,7 +29,11 @@ last_reviewed: 2026-09-11
 - Community: President of the Detroit chapter of the Taiwanese Association of America — Detroit TAGD (底特律台灣人同鄉會) in 1984, 2008, and 2019; Midwest-region coordinator of the Taiwanese Summer Conference (1984).
 
 ## Network
-- **Community org:** [[organizations/taiwanese-association-of-america-detroit-tagd||底特律台灣同鄉會 TAGD]] — three-term chapter president.
+- **Community org:** [[organizations/taiwanese-association-of-america-detroit-tagd||底特律台灣同鄉會 TAGD]] — three-term chapter president (1984, 2008, 2019); a chapter of [[organizations/taiwanese-association-of-america||Taiwanese Association of America]].
+
+## Deepen notes (2026-09-14 pass)
+- Deepened from facts already on this page (TAH Who's Who extract and tah-tables block); no web, no new pages.
+- Wikilinks added only to existing vault slugs: TAGD chapter page, TAA parent org, and the TAH encyclopedia records below (#258, #171), which document the Nickel Metal Hydride battery invention and career record.
 
 <!-- tah-tables:start -->
 ## Education

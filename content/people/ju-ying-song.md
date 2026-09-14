@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # Ju-Ying Song (宋如音)
 
@@ -34,7 +34,7 @@ last_reviewed: 2026-09-11
 
 ## Family
 
-_No filled family fields on the TAH profile._
+- **Father:** Rev. Dr. [[people/choan-seng-song||Dr. Choan-Seng Song (宋泉盛)]] — a vault event report (大洛杉磯台灣會館台灣學校 classical-music appreciation, 2016/06) describes「宋泉盛牧師千金宋如音女士」playing Bartók: see [[articles/taiwanjustice-net/2023/20230129123134_2016_06_06_大洛杉磯台灣會館台灣學校_古典音樂欣賞_-六月_a244776e9eb57979||taiwanjustice-net report of the 2016/06 event]].
 
 ## Timeline
 - 1991 — B.S. 音樂及微生物免疫, 史丹福大學 (Stanford).
