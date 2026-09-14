@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-14
 ---
 # Prof. F. Frank Chen (陳鳳山教授)
 
@@ -38,6 +38,12 @@ _No filled family fields on the TAH profile._
 ## Sources
 - [TAH #1911 encyclopedia: 1911. Prof. F. Frank Chen 陳鳳山教授](https://taiwaneseamericanhistory.org/whos-who-1911-f-frank-chen/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-f-frank-chen/)
+
+## Deepen pass (2026-09-14, vault-sourced)
+- [[works/taiwaneseamericanhistory-org/winners49||TAH story #49: Presidential Faculty Fellows (PFF/PECASE) Award 美國總統教授獎]] — the award record naming F. Frank Chen (陳鳳山), 1996, corroborating his page-leading accomplishment as the first Taiwanese scholar to receive it
+- [[works/taiwaneseamericanhistory-org/whos-who-1911-f-frank-chen||TAH Who's Who #1911: Prof. F. Frank Chen 陳鳳山教授]] (record 2017-10-03)
+
+Timeline (from cited vault pages): 1980 B.S. Industrial Engineering, Tunghai Univ., M.S./Ph.D. Industrial Engineering, Univ. of Missouri-Columbia, 1996 PFF/PECASE, John L. Lawrence Endowed Professor and founder/director of the Center for High Performance Manufacturing at Virginia Tech, Lutcher Brown University Distinguished Chair Professor at UT San Antonio.
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

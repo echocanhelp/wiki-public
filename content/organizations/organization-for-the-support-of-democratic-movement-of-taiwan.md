@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-14
 ---
 # Organization For The Support of Democratic Movement of Taiwan (台灣民主運動支援會)
 
@@ -20,6 +20,14 @@ The Organization For The Support of Democratic Movement of Taiwan was founded in
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/organization-for-the-support-of-democratic-movement-of-taiwan/)
+
+## Deepen pass (2026-09-14, vault-sourced)
+The TAH story corpus holds the organization's own publications as community records:
+- [[works/taiwaneseamericanhistory-org/newsletter-osdmt||民主台灣(通訊)]] — the support council's newsletter 民主台灣, cited 2016-03-23
+- [[works/taiwaneseamericanhistory-org/publicationmagazines978||台灣民主運動支援會第12期通訊]] — newsletter issue 12, 01/1980
+- [[works/taiwaneseamericanhistory-org/publications1145||葉島蕾事件專刊]] — special issue on the 葉島蕾 case, 05/1981
+
+These place the organization's print advocacy in the 1979-1981 window immediately after its founding, alongside its Midwest/East Coast camps and symposiums.
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
