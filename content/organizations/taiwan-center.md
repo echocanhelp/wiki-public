@@ -10,7 +10,7 @@ tags:
   - Taiwan-School
   - Alhambra
 verification_status: published
-last_reviewed: 2026-09-13
+last_reviewed: 2026-09-14
 ---
 # Taiwan Center Foundation of the Greater Los Angeles (大洛杉磯台灣會館)
 
@@ -50,6 +50,16 @@ Same founding sentence appears on a 2020 TASF scholarship notice (TJ). TAH encyc
 | current (site board) | [[people/alan-thian||Alan Thian 田詒鴻]] | taiwancenter.org/board |
 
 Middle years are **not** filled from memory.
+
+## Role in the Community (corpus records)
+
+From our own TAH corpus — the Center's footprint in the movement record:
+
+- **TAH #1255 — 回顧與展望：二十周年紀念特刊** (洛杉磯台灣會館, 2018/11) — the Center's own 20th-anniversary commemorative volume ([[works/taiwaneseamericanhistory-org/1255-20|TAH #1255]])
+- **TAH record — 大洛杉磯台灣會館的活動** (2019-02-14) — published record of the Center's community activities ([[works/taiwaneseamericanhistory-org/activities-of-tcgla|TAH activities record]])
+- **TAH record — 洛杉磯台灣會館二二八紀念活動** (2018-02-13) — the Center's 228 commemoration programming ([[works/taiwaneseamericanhistory-org/la228|TAH 228 record]])
+- **2017 — Hurricane Harvey relief.** The Center joined a joint donation to the Houston mayor's Hurricane Harvey Relief Fund totaling ~US$87,459, of which **洛杉磯台灣會館 contributed $35,450** — the largest single contribution in the coalition ([[works/taiwaneseamericanhistory-org/ourjourneys328|TAH #328]]).
+- **Sister centers in the corpus:** 北加州台灣會館 yearbooks 2005 / 2007 ([[works/taiwaneseamericanhistory-org/723-e5-8c-97-e5-8a-a0-e5-b7-9e-e5-8f-b0-e7-81-a3-e6-9c-83-e9-a4-a82005-e5-b9-b4-|TAH #723]], [[works/taiwaneseamericanhistory-org/e5-8c-97-e5-8a-a0-e5-b7-9e-e5-8f-b0-e7-81-a3-e6-9c-83-e9-a4-a82007-e5-b9-b4-e5-8|TAH #380]]), 紐約台灣會館, 西雅圖台灣會館 — distinct organizations, cross-link only, do not merge.
 
 ### New building (2025–)
 

@@ -7,7 +7,7 @@ tags:
   - Taiwan-Center
   - board
 verification_status: published
-last_reviewed: 2026-09-08
+last_reviewed: 2026-09-14
 ---
 # Joe Hu (胡永全)
 
@@ -48,6 +48,14 @@ From [[organizations/taiwan-center||Taiwan Center]] (last reviewed 2026-09-06 on
   - [[people/linda-liu||Linda Liu (劉玲華)]] — same class of 台灣會館董事 enumeration
   - [[people/yang-jia-you||Yang Jia-you (楊嘉猷)]] — name-run that includes 胡永全 among community figures
 - Those quotes prove **name co-occurrence** on director publicity; they do not date his first term
+
+## Role in the Community
+
+From our own corpus (TAJ / community records, not press-kit material):
+
+- **2021-05 — WHA joint statement co-initiator.** 胡永全 is named among the 共同發起人 of the 2021年南加州僑界支持台灣參與世界衛生大會（WHA）聯合聲明, alongside board colleagues 田詒鴻、林榮松、劉雅薇、李賢群、蔡漢成 and others ([[articles/taiwanjustice-net/2021/20210616072940_2021_05_17_2021年南加州僑界支持台灣參與世界衛生大會wha聯合聲_b1d58af16c0a5e5b|TAJ report, 2021-05-17]]). This is community advocacy in his own name, not just a board listing.
+- **2024 — Taiwan Center 26th-anniversary director.** The announcement of the 2024大洛杉磯台灣會館第26周年年會晚宴暨募款活動 (2024-11-02, Pacific Palms Resort) lists 胡永全 among the **38位董事** handling tickets ([[articles/taiwanjustice-net/2025/20250420093345_2024大洛杉磯台灣會館第26周年年會晚宴暨募款活動11月2_2f4af86847559b66|TAJ report]]) — pushing his attested directorship back from the 2026-07-16 board archive to at least 2024.
+- **Disambiguation:** a separate TAJ notice (228七十週年特展, 2017) names a Las Vegas contact "Joe Hung" (hungjoe71@yahoo.com) — **different person**, not merged here.
 
 ## Quotes
 

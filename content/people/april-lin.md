@@ -90,3 +90,8 @@ Pages that link to **april-lin** (april-lin):
 - Reciprocal link added: TWCLA director-list peer [[people/shirley-yu||Shirley Yu (張欣珠)]] (existing vault page) sits on the same 董事 roster.
 - New absorbed fact (vault article): 林淑卿 appears as 共同發起人 in the 2021 南加州僑界支持台灣參與世界衛生大會（WHA）聯合聲明, issued with 大洛杉磯台灣會館 as 共同發起單位 — consistent with her TWCLA director role: [[articles/taiwanjustice-net/2021/20210616072940_2021_05_17_2021年南加州僑界支持台灣參與世界衛生大會wha聯合聲_b1d58af16c0a5e5b|2021 WHA 聯合聲明]].
 - Peer links on the same 董事 roster: [[people/joseph-teng||Joseph Teng (曾英銘)]], [[people/lisa-hou||Lisa Hou (侯乃文)]] (existing pages).
+
+## Role in the Community (deepen-x slice 09141300-5, corpus-absorbed)
+- 2022-09 — Listed as one of two named contact persons (with 戴智信) for the 万人挺台灣參與聯合國及世界衛生組織健行 carpool organized out of 台灣會館 — she was an on-the-ground organizer mobilizing LA participants for the Irvine walk: [[articles/taiwanjustice-net/2022/20220924224324_2022_09_20_萬人挺台灣參與聯合國及世界衛生組織健行24日舉行_67ae45d84cabf180|2022 挺台灣健行公告]].
+- Her WHA-advocacy footprint is corroborated by a second archived copy of the 2021 聯合聲明: [[articles/taiwanjustice-net/2025/20251108183438_2021年南加州僑界支持台灣參與世界衛生大會wha聯合聲_80c0a825a7a661b6|2021 WHA 聯合聲明 (第二存檔)]] — same 共同發起人 listing, no new facts.
+- Disambiguation reconfirmed: the early-1950s 音樂教育的 林淑卿 in [[works/taiwaneseamericanhistory-org/ourjourneys270|Our Journeys #270]] is a different person (different generation; no merge).

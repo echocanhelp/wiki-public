@@ -64,3 +64,7 @@ Both cited TAH encyclopedia records exist in the vault and are wikilinked above 
 ## Deepen-x 2026-09-14 (vault-only)
 
 Re-check: all Related Pages wikilinks (TAH #1021, TAH #33, TAHS, story corpus hub) resolve to existing vault pages. TAH tables already carry the complete absorbable record; no new vault facts, no web, no new pages.
+
+## Deepen-x 2026-09-14 (slice 09141300-2) — SKIP with reason
+
+Corpus grep over content/works and content/articles for 李茂宗 / Mao-Chung Lee returns only the works index entries for his own two already-linked TAH records ([[works/taiwaneseamericanhistory-org/whoswho1021|#1021]], [[works/taiwaneseamericanhistory-org/33-e6-9d-8e-e8-8c-82-e5-ae-97lee-mao-chung-201503|#33]]). No memoir, article, or organizational record mentions him — nothing absorbable. No web, no new pages.

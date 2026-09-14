@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-10
+last_reviewed: 2026-09-14
 ---
 # Dr. Victor Shen (沈新欽博士)
 
@@ -43,6 +43,12 @@ Victor Shen, a native of Taiwan, began studying music theory and voice at the ag
 
 - **Father:** 沈哲哉
 
+
+## Role in the Community (absorbed 2026-09-14 from our own corpus)
+
+- Our own memoir [[works/taiwaneseamericanhistory-org/ourjourneys17|17. 紐澤西的將軍日本餐廳 / 李正三 /09/2014]] records 沈新欽 among the **14 shareholders of Shogun 18**, the second 將軍 (Shogun) Japanese restaurant in New Jersey (opened 1985-12-17) — a cross-holding of the NJ Taiwanese community circle alongside 李正三, 張秋南, 林為裕, 板倉健二 and others.
+- Same memoir: the shareholders **hired 沈新欽 to manage Shogun 18** after struggling through seven managers in eighteen years; he later left to manage the larger **將軍27 (Shogun 27)**. This restaurant-entrepreneur phase in NJ sits alongside — and predates/dovetails with — his US choral-conducting posts (Trenton, Rutgers, Vox Nova); the TAH press-kit bios omit it entirely.
+- TAH corpus profile pages: [[works/taiwaneseamericanhistory-org/whos-who-2242-victor-shen|TAH #2242 encyclopedia entry]] and [[works/taiwaneseamericanhistory-org/116-victor-shen-e6-b2-88-e6-96-b0-e6-ac-bd-conductor-201501|TAH #116, 'Victor Shen 沈新欽, Conductor' (2015/01)]].
 
 ## Timeline (absorbed 2026-09-10 from the education/employment tables on this page)
 - Age 14 — began studying music theory and voice; later won first prizes in Taiwan music competitions

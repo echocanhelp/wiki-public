@@ -63,3 +63,7 @@ _No filled family fields on the TAH profile._
 
 ## Vault re-check 2026-09-14 (deepen-x slice 09140020-9, vault-only)
 His Who's Who entry is archived in-vault as [[works/taiwaneseamericanhistory-org/whos436-yien-hwei-franklin-lee|TAH #436]], and his personal papers are cataloged as [[works/taiwaneseamericanhistory-org/collection-of-dr-yien-hwei-franklin-lee|Collection of Dr. Yien-hwei Franklin Lee]] — both now linked above. No web used, no new pages created, nothing published.
+
+## Deepen-x 2026-09-14 (slice 09141300-2) — SKIP with reason
+
+Corpus grep over content/works and content/articles for 李彥輝 / Franklin Lee hits only the works index plus records this page already links (encyclopedia #229–#232, essays [[works/taiwaneseamericanhistory-org/mystories287|#287]] / [[works/taiwaneseamericanhistory-org/mystories480|#480]] / [[works/taiwaneseamericanhistory-org/144-e6-95-91-e6-8f-b4-e9-bb-83-e9-84-ad-e5-85-a9-e6-b0-8f-e5-91-bc-e5-96-9a-e6-9|#144]], and his papers collection). No third-party memoir or article mentions him — nothing new absorbable. No web, no new pages.
