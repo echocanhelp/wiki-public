@@ -61,3 +61,4 @@ _No filled family fields on the TAH profile._
 
 ## Notes
 - Deepen pass 2026-09-14 (vault-only): the biography and education/employment tables above already mirror the full TAH Who's Who record; her institutions (Mannes, Juilliard, Manhasset School of Music) and sponsors (Yamaha, Kawai) have no vault pages, so they remain named-not-linked. Both TAH encyclopedia works (#237, #492) are linked; no further vault-sourced facts.
+- Slice 09141059-3 re-verify (vault-only): no further vault-internal facts to absorb; all cross-references resolve to existing vault pages. Status unchanged: saturated, pending-verification.

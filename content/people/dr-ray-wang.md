@@ -64,3 +64,5 @@ Re-checked this page's cited TAH records; no new external facts, community links
 - His graduate studies and first association presidency were at Kansas State University; the vault records Taiwanese American community life in Kansas at [[organizations/taiwanese-association-of-greater-kansas-city-takc||Taiwanese Association of Greater Kansas City (TAKC)]] and the [[organizations/north-america-taiwanese-womens-association-kansas-chapter||NATWA Kansas Chapter]].
 - His Philadelphia community work links to the vault's [[organizations/taiwanese-association-of-america-greater-philadelphia||TAA Greater Philadelphia chapter]] record.
 - Kansas community context (vault-only, not his own deeds): his graduate years were spent in the same Kansas TA milieu recorded at [[works/taiwaneseamericanhistory-org/139-tainantaiwan-and-kansas-city-kansas-first-sister-city-program-1978||TAH #139 台南—Kansas City 姐妹市計畫 / 1978]].
+
+Slice 09141059-3 re-verify (vault-only): no further vault-internal facts to absorb; all cross-references resolve to existing vault pages. Status unchanged: saturated, pending-verification.
