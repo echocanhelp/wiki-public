@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-13
+last_reviewed: 2026-09-14
 ---
 # Chia-Ling Chien (簡嘉琳)
 
@@ -57,3 +57,6 @@ _No filled family fields on the TAH profile._
 
 ## Vault re-check 2026-09-11 (deepen-x slice 17, vault-only)
 All wikilink targets verified to exist in the vault; all cited-source facts were already absorbed on-page. No new vault facts found, no web used, no new pages created, nothing published.
+
+## Deepen pass 2026-09-14 (deepen-x slice 09140020-5, vault-only)
+Both in-vault encyclopedia records linked from this page are disk-verified: [[works/taiwaneseamericanhistory-org/whoswho1582|TAH #1582]] and [[works/taiwaneseamericanhistory-org/musician391|TAH #391]]. Community context for her two documented bases is in-vault: San Diego — [[organizations/taiwanese-american-professionals-san-diego|TA Professionals San Diego]] (also [[organizations/taiwanese-american-foundation-of-san-diego|TA Foundation of San Diego]], [[organizations/san-diego-taiwanese-cultural-association|San Diego TA Cultural Association]]); Cleveland — [[organizations/taiwanese-american-association-greater-cleveland|TAA Greater Cleveland]]. No biography invented beyond the TAH tables, no web used, no new pages created, nothing published.

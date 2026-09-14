@@ -64,3 +64,8 @@ Accomplishment
 - [[works/taiwaneseamericanhistory-org/ota-249||TAH encyclopedia #249 — Kuo Chang Chen 陳國昌]]
 - [[works/taiwaneseamericanhistory-org/378-mr-kuo-chang-chen||TAH #378 — first T.A. to complete the visit of all 50 states]]
 - [[works/taiwaneseamericanhistory-org/whos-who-1138-kuo-chang-chen||TAH #1138 Who's Who entry]]
+
+## Vault re-check (2026-09-14, deepen-x slice)
+- All three TAH encyclopedia work records cited here exist in the vault and are wikilinked above (#249, #378 — the first-T.A.-to-visit-all-50-states record — and #1138).
+- His three documented presidency posts all have vault pages: [[organizations/taiwanese-american-cpa-association-tacpa||TACPA]] (2019–2020), [[organizations/fapa-los-angeles||FAPA/LA]] (2003–2006, plus FAPA/USA central executive committee), and [[organizations/taiwanese-association-of-northwest-los-angeles||Taiwanese Association of Northwest Los Angeles]] (2001–2002).
+- Kansas student years: the only vault Kansas record remains the [[organizations/taiwanese-association-of-greater-kansas-city-takc||TAKC]] community page; his 1979 Formosa Student Association of the University of Kansas presidency has no dedicated vault page and none was created in this pass.

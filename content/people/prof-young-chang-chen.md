@@ -57,12 +57,17 @@ Prof. Young-Chang Chen 陳榮昌教授 – History of Taiwanese American (T.A. A
 
 ## Vault cross-references (2026-09-10)
 - A TAH award is named for him: [[works/taiwaneseamericanhistory-org/awards79|TAH #79: Prof. Young Chang Chen Memorial Scholarship 陳榮昌教授紀念獎學金]]
-- His own prize essay is in-vault: [[works/taiwaneseamericanhistory-org/mystories142|TAH #142: 歸巢 — 受寵若驚的得獎感言 / 陳榮昌]]
+- His own prize essay is in-vault: [[works/taiwaneseamericanhistory-org/mystories142|TAH #142: 歸巢 — 受寵若驚的得獎感言 / 陳榮昌]]（英文 twin：[[works/taiwaneseamericanhistory-org/mystories142-eng|TAH #142-eng]]）
 - He is named among the San Diego/Camino recruiters of the 美西夏令會 movement in [[works/taiwaneseamericanhistory-org/ourjourneys265|TAH #265: 2011年美西夏令會的回顧 / 黃根深]]
 - Encyclopedia records in-vault: [[works/taiwaneseamericanhistory-org/125-prof-young-chang-chen|TAH #125]] · [[works/taiwaneseamericanhistory-org/whos-who-745-young-chang-chen|TAH #745]]
 
 ## Deepen pass 2026-09-14 (vault-only)
 Re-verified all cross-references above against the vault: the memorial scholarship [[works/taiwaneseamericanhistory-org/awards79|TAH #79]], his essay [[works/taiwaneseamericanhistory-org/mystories142|TAH #142 歸巢]] (English twin also in-vault), and the 美西夏令會 mention in [[works/taiwaneseamericanhistory-org/ourjourneys265|TAH #265]] all exist. No new vault facts beyond what the TAH tables and prior 2026-09-10 pass already record; no new pages created.
+
+## Deepen pass 2026-09-14 (deepen-x slice 09140020-5, vault-only)
+- English twin of the prize essay now linked in-line above: [[works/taiwaneseamericanhistory-org/mystories142-eng|TAH #142-eng]] — disk-verified.
+- All organization links re-verified on disk: [[organizations/north-america-taiwanese-professors-sc|北台教授協會南加分會]], [[organizations/north-american-taiwan-studies-associationnatsa|NATSA]], [[organizations/taiwanese-association-of-america|TAA]].
+- No new biography, no web used, no new pages created, nothing published.
 
 ## Sources
 - [TAH #125 encyclopedia: 125. Prof. Young-Chang Chen 陳榮昌教授](https://taiwaneseamericanhistory.org/125-prof-young-chang-chen/)

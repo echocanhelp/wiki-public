@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-13
+last_reviewed: 2026-09-14
 ---
 # Taiwanese American Industrial Technology Association TAITA-East Coast (台美產業科技協會美東分會)
 
@@ -34,6 +34,11 @@ TAITA-East Coast is the East Coast chapter of the Taiwanese American Industrial 
 ## Vault records (deepen pass 2026-09-13)
 - The 2008 joint-conference partner 精精俱樂部 (Happy Club) has its own vault record, now linked: [[works/taiwaneseamericanhistory-org/happy-club-nnj|Happy Club (NNJ)]]. Distinct from [[organizations/happy-dancers-club||Happy Dancers Club]] — different group, not merged.
 - All prior cross-check targets disk-verified (NJ survey [[works/taiwaneseamericanhistory-org/ourjourneys356|TAH #356]], sibling records). No biography beyond the directory entry added.
+
+## Deepen pass 2026-09-14 (deepen-x slice 09140020-5, vault-only)
+- Disk-verified every in-vault link on this page: directory record [[works/taiwaneseamericanhistory-org/taita-east-coast|TAITA-East Coast]], 2008 joint-conference partner [[works/taiwaneseamericanhistory-org/happy-club-nnj|Happy Club (NNJ)]], NJ survey [[works/taiwaneseamericanhistory-org/ourjourneys356|TAH #356]], and the sibling records.
+- The West Coast sibling [[works/taiwaneseamericanhistory-org/3-silicon-valley-taiwanese-american-industrial-technology-association|TAH #3: 矽谷台美產業科技協會]] has a work record but **no organization page yet** in the vault — none created here per slice rules. Its region overlaps [[organizations/silicon-valley-taiwanese-american-association|Silicon Valley Taiwanese American Association]] (a TAA regional chapter, different organization — not merged).
+- No new facts beyond the directory record; no web used, nothing published.
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-american-industrial-technology-association-taita-east-coast/)

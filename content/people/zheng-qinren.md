@@ -73,3 +73,10 @@ Notable quotes and mentions of **鄭欽仁** in Taiwan Justice articles:
 
 - [[people/albert-s-lai||Dr. Albert S. Lai]]
 - [[works/taiwaneseamericanhistory-org/ourjourneys47||47. 北美洲台灣人教授協會首度回台召開年會]]
+- [[organizations/taiwanese-american-historical-society||Taiwanese American Historical Society]]
+- [[organizations/north-america-taiwanese-professors-sc||NATPA Southern California chapter]]
+
+## Vault re-check (2026-09-14, deepen-x slice)
+- **NATPA presidency context:** the vault currently holds no page for the national 北美洲台灣人教授協會 itself; the closest existing record is the [[organizations/north-america-taiwanese-professors-sc||Southern California chapter page]] (listed there as a Taiwan Center Foundation group member). His NATPA presidency and the 1989–1990 co-hosting negotiation for the first in-Taiwan annual conference remain documented in [[works/taiwaneseamericanhistory-org/ourjourneys47||Our Journeys #47]].
+- **TAHS roster:** he remains on the [[organizations/taiwanese-american-historical-society||TAHS]] L1 priority roster per this page's opening note.
+- The 2023-03-18 國史館 廖文毅 symposium report (陳儀深 article in the taiwanjustice.net harvest) names him alongside 陳中統, 陳欽生, 蔡焜霖 and 艾琳達; none of those co-panelists have vault pages, so no links were added for them.

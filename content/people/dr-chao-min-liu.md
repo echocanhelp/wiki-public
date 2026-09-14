@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-13
+last_reviewed: 2026-09-14
 ---
 # Dr. Chao-Min Liu (劉兆民博士)
 
@@ -75,3 +75,11 @@ All wikilink targets on this page verified to exist in the vault; all cited-sour
 ## Vault re-check 2026-09-13 (deepen-x slice 22, vault-only)
 - His own archival collection is held by the TAH archive: [[works/taiwaneseamericanhistory-org/collection-of-dr-chao-min-liu||TAH #64 — Collection of Dr. Chao-Min Liu 劉兆民博士的收藏]].
 No web used, no new pages created, nothing published.
+
+## Deepen pass 2026-09-14 (deepen-x slice 09140020-5, vault-only)
+More in-vault works by or depicting him, newly linked (all disk-verified before linking; no web used):
+- Paintings in the TAH story corpus: [[works/taiwaneseamericanhistory-org/footsteps-3|台美族的圓桌會議 (2006)]], [[works/taiwaneseamericanhistory-org/footsteps-4|台美社區獎學金]], [[works/taiwaneseamericanhistory-org/footsteps-6|示威 (2002)]]; his canvases also reproduce in [[works/taiwaneseamericanhistory-org/ourjourneys112|TAH #112 (Taiwanese American conference, oil on canvas)]] and [[works/taiwaneseamericanhistory-org/ourjourneys303|TAH #303]].
+- Earlier art publication: [[works/taiwaneseamericanhistory-org/publications122|劉兆民油畫選集 (1998)]].
+- His own memoir: [[works/taiwaneseamericanhistory-org/mystories14|一九六三年離台留美記]].
+- Encyclopedia twins: [[works/taiwaneseamericanhistory-org/18-dr-chao-min-liu|TAH #18]], [[works/taiwaneseamericanhistory-org/whos-who-3-chao-min-liu|TAH #3]].
+No biography invented, no new pages created, nothing published.

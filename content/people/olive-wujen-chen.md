@@ -56,3 +56,8 @@ last_reviewed: 2026-09-14
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - [[works/taiwaneseamericanhistory-org/323-olive-wujen-chen-e5-90-b3-e7-ae-b4-cellist||TAH #323: Olive WuJen Chen 吳箴, Cellist]]
 - [[works/taiwaneseamericanhistory-org/747-olive-wujen-chen-e5-90-b3-e7-ae-b4-201512||TAH #747: Olive WuJen Chen 吳箴]]
+
+## Vault re-check (2026-09-14, deepen-x slice)
+- Both TAH encyclopedia work records cited on this page exist in the vault and are wikilinked above: [[works/taiwaneseamericanhistory-org/323-olive-wujen-chen-e5-90-b3-e7-ae-b4-cellist||#323 (cellist profile)]] and [[works/taiwaneseamericanhistory-org/747-olive-wujen-chen-e5-90-b3-e7-ae-b4-201512||#747 (2015/12 entry)]].
+- Her Houston career (Houston Community College teaching, Opera on the Heights / Woodland Symphony, Formosa String Quartet / Keynote Chamber Players) sits in the same community orbit as the vault's [[organizations/taiwanese-association-of-america-houston-chapter||TAA Houston Chapter]] page; no vault pages yet exist for the individual ensembles, Aspen Music Festival, or Rice University, and none were created in this pass.
+- Siblings 吳泓 (violinist) and 吳涵 (pianist) are named only inside this page's family record — no separate person pages in the vault.
