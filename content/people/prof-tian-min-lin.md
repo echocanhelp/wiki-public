@@ -56,5 +56,5 @@ Visiting Professor of World Religion
 
 ## Publications (vault records)
 - *The Life and Thought of Soren Kierkegaard* (1974) — noted by TAH as 第一本台美出版英文書: [[works/taiwaneseamericanhistory-org/183-the-life-and-thought-of-soren-kierkegaard-by-prof-timothy-tian-min-lin-e7-ac||TAH #183]]
-- 《基督教與現代世界》(1988/01, 宗教): [[works/taiwaneseamericanhistory-org/463-e5-9f-ba-e7-9d-a3-e6-95-99-e8-88-89-e7-8f-be-e4-bb-a3-e4-b8-96-e7-95-8c-e6-9||TAH #463]]
+- 《基督教與現代世界》(1988/01, 宗教): [[works/taiwaneseamericanhistory-org/463-e5-9f-ba-e7-9d-a3-e6-95-99-e8-88-87-e7-8f-be-e4-bb-a3-e4-b8-96-e7-95-8c-e6-9||TAH #463]]
 - Profile: [[works/taiwaneseamericanhistory-org/whos-who-189-tian-min-lin||TAH #189 Who's Who entry]]

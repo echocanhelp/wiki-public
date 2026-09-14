@@ -6,7 +6,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-14
 ---
 # 杜宛珊
 
@@ -27,6 +27,16 @@ last_reviewed: 2026-08-17
 - 賓州州立大學 — Ph.D. Music
 <!-- tah-tables:end -->
 
+## Timeline (absorbed from on-page TAH biography)
+
+- 五歲開始習琴；曾師事 Constance Keene、Marylene Dosse、Abbey Simon
+- 紐約曼哈頓音樂院（Manhattan School of Music）學士 — 同校校友：[[people/leslie-ho||Leslie Ho（何炳宏）]]
+- 賓州州立大學音樂碩士、演奏博士
+- **2003** — 美國賓州教師協會鋼琴大賽獎
+- **2004** — 賓州州立大學器樂組比賽冠軍
+- 活躍於台灣及美國演出；曾於 Constance Keene、David Dubal、Horacio Guiterrez 等大師班示範演出
+- 室內樂經驗豐富，師事 Peter Winograd、Junie Cho、Timothy Deighton、Timothy Hester
+
 ## Family
 
 _No filled family fields on the TAH profile._
@@ -39,3 +49,5 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- [[people/leslie-ho||Leslie Ho（何炳宏）]] — 同為曼哈頓音樂院校友
+- [[people/i-bei-lin||I-Bei Lin（林怡貝）]] — 同屬 TAH Who's Who 音樂家名錄
