@@ -31,6 +31,10 @@ TAITA-East Coast is the East Coast chapter of the Taiwanese American Industrial 
 - Sister TAITA records showing the association's wider activity: [[works/taiwaneseamerican-org/taita-sv-panel-presentation-opportunities-for-the-new-decade|TAITA Silicon Valley panel — opportunities for the new decade (2010-01-21)]] and [[works/taiwaneseamerican-org/summer-bbq-with-taita-in-norcal-2|Summer BBQ with TAITA in NorCal (2014-08-09)]]; West Coast sibling documented at [[works/taiwaneseamericanhistory-org/3-silicon-valley-taiwanese-american-industrial-technology-association|TAH #3: 矽谷台美產業科技協會 (2014-10-12)]].
 - **Cross-check (2026-09-10, vault-only):** the New Jersey community-organizations survey of 2020-08-03 lists 台灣科技產業促進委員會 (TAITA) among active NJ Taiwanese American groups, corroborating the chapter's New Jersey base ([[works/taiwaneseamericanhistory-org/ourjourneys356|TAH #356: 紐澤西州的台美團體]]).
 
+## Vault records (deepen pass 2026-09-13)
+- The 2008 joint-conference partner 精精俱樂部 (Happy Club) has its own vault record, now linked: [[works/taiwaneseamericanhistory-org/happy-club-nnj|Happy Club (NNJ)]]. Distinct from [[organizations/happy-dancers-club||Happy Dancers Club]] — different group, not merged.
+- All prior cross-check targets disk-verified (NJ survey [[works/taiwaneseamericanhistory-org/ourjourneys356|TAH #356]], sibling records). No biography beyond the directory entry added.
+
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-american-industrial-technology-association-taita-east-coast/)
 

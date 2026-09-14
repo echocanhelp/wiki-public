@@ -62,3 +62,11 @@ last_reviewed: 2026-09-14
 - Four TAH records for him are held in the vault: [[works/taiwaneseamericanhistory-org/senior-taiwanese-american-7||TAH senior profile #7]], [[works/taiwaneseamericanhistory-org/91-dr-hong-yen-hsu||TAH #91]], [[works/taiwaneseamericanhistory-org/whos-who-808-hong-yen-hsu||TAH Who's Who #808]], and his autobiography [[works/taiwaneseamericanhistory-org/1266-autobiography||TAH #1266]].
 - The Sun Ten Museum he founded also has its own vault pages: [[organizations/sun-ten-museum||Sun Ten Museum]] and [[works/taiwaneseamericanhistory-org/history-of-sun-ten-museum||history of the museum]]; an additional encyclopedia record exists at [[works/taiwaneseamericanhistory-org/40-sun-ten-museum||TAH #40: Sun Ten Museum]].
 - Family links already recorded and verified as existing vault pages: wife [[people/ring-lin-hsu||許林碖]]; children 許純真 (Melissa), 許照信, 許照義 (no vault pages yet).
+
+## Deepen pass 2026-09-14 (vault-only)
+Additional vault records about him (existing pages, no new biography):
+- [[works/taiwaneseamericanhistory-org/pride19|TAH pride #19: Father of Scientific Oriental Medicine「科學中藥之父」/ Dr. Hong-yen Hsu 許鴻源博士]]
+- [[works/taiwaneseamericanhistory-org/mystories612|TAH #612: 許鴻源博士的一生 / 陳飛龍 / 2017-12]]
+- [[works/taiwaneseamericanhistory-org/685-my-stories|TAH #685: 收集美術畫 / 許鴻源博士 / 2019-06]] — his own account of art collecting
+- [[works/taiwaneseamericanhistory-org/39-dr-hong-yen-hsu-memorial-fine-arts-center|TAH #39: Dr. Hong-Yen Hsu Memorial Fine Arts Center 許鴻源博士紀念美術館]]
+- [[works/taiwaneseamericanhistory-org/679-nami-yang-03-2019|TAH #679: 我所認識的許鴻源長老 / 李淑櫻 Nami Yang / 2019-03]] — memoir by [[people/nami-yang||Nami Yang 李淑櫻]]

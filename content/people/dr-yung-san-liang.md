@@ -56,6 +56,10 @@ Accomplishment
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
+## Vault records (deepen pass 2026-09-13)
+- Board service re-checked against the vault: the on-page employer name is "Taiwanese American Association of Great D.C. Areas" (2002–2003). The nearest existing vault page, [[organizations/taiwanese-association-of-america-greater-washington||TAA Greater Washington]], carries a different organization name — flagged as a candidate match only, **not merged** (name mismatch = HOLD per merge policy).
+- No additional vault-internal facts beyond the 2026-09-11 pass below; all its cited targets disk-verified.
+
 ## Vault records (deepen pass 2026-09-11)
 - Encyclopedia records in vault: [[works/taiwaneseamericanhistory-org/senior-taiwanese-american-30||TAH #30 Dr. Yung-San Liang (梁永三博士)]], [[works/taiwaneseamericanhistory-org/ota-254||TAH #254 Dr. Yung-San Liang 梁永三博士]], [[works/taiwaneseamericanhistory-org/whos-who-2172-yung-san-liang||TAH #2172 Dr. Yung-San Liang 梁永三博士]].
 - Washington D.C. Taiwan School — volunteer teacher of Japanese language per the on-page employment table; vault record: [[works/taiwaneseamericanhistory-org/enews-washington-dc-taiwanese-school||Washington DC Taiwanese School (華府台灣學校)]].

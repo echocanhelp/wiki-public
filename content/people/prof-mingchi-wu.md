@@ -54,6 +54,11 @@ last_reviewed: 2026-09-13
 - **Son:** Stanley
 
 
+## Deepen pass 2026-09-13 (vault-only)
+- The three TAA chapters whose presidency the on-page table records (Pittsburgh, Dallas/Fort Worth, South Florida) all sit under the parent body now linked: [[organizations/taiwanese-association-of-america||Taiwanese Association of America]].
+- His 2001–2003 FAPA national presidency remains unlinked for lack of a national-page slug; nearest vault anchors unchanged: [[organizations/fapa-los-angeles||FAPA Los Angeles]], [[organizations/fapa-orange-county||FAPA Orange County]], and the newsletter [[works/taiwaneseamericanhistory-org/14-fapa-news-by-formosan-association-for-public-affairs|TAH #14: FAPA News]].
+- Both encyclopedia copies cited on-page are disk-verified in the vault: [[works/taiwaneseamericanhistory-org/203-prof-mingchi-wu|TAH #203]], [[works/taiwaneseamericanhistory-org/whos-who-975-mingchi-wu|TAH #975]]. No new biography added beyond the on-page TAH text.
+
 ## Sources
 - [TAH #203 encyclopedia: 203. Prof. Mingchi Wu 吳明基教授](https://taiwaneseamericanhistory.org/203-prof-mingchi-wu/)
 - [TAH #975 encyclopedia: 975. Prof. Mingchi Wu 吳明基教授](https://taiwaneseamericanhistory.org/whos-who-975-mingchi-wu/)
