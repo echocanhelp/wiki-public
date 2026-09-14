@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # Prof. M. S. Wang (王孟心教授)
 
@@ -43,6 +43,12 @@ _No filled family fields on the TAH profile._
 ## Sources
 - [TAH #1902 encyclopedia: 1902. Prof. M. S. Wang 王孟心教授](https://taiwaneseamericanhistory.org/whos-who-1902-m-s-wang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-m-s-wang/)
+
+## Deepen 2026-09-14 (vault-only)
+- **Directory record:** [[works/taiwaneseamericanhistory-org/whos-who-1902-m-s-wang||TAH #1902]] was published 2017-09-20; the vault copy is a bibliographic (band B) record, so the substance below is absorbed from this page's own TAH education/employment tables.
+- **Career path:** B.A. History and Political Science, National Taiwan Univ. → M.A. Social Work, Univ. of Texas at Austin → Ph.D. Counseling, Univ. of North Texas → research assistant, Univ. of North Texas Game Therapy Center (2004–2005) → 中國文化大學 Dept. of Counselling, full-time assistant professor (2005–2012) then full-time associate professor (2012–) → Director, 台灣沙遊治療協會 (2009–); member of the American Play Therapy Association and the Taipei Association of Counseling Psychologists.
+- **Disambiguation:** [[works/taiwaneseamericanhistory-org/whos-who-1973-s-m-wang||TAH #1973 S. M. (Jacqueline) Wang 王賽美]] is a different person despite the matching initials — not linked here.
+- **Link hygiene:** 中國文化大學, Univ. of Texas at Austin, Univ. of North Texas and 台灣沙遊治療協會 have no vault pages.
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

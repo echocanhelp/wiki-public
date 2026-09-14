@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # Prof. Chien-Fu Jeff Wu (吳建福教授)
 
@@ -41,6 +41,11 @@ _No filled family fields on the TAH profile._
 ## Vault Holdings
 - [[works/taiwaneseamericanhistory-org/whos-who-1792-chien-fu-wu||TAH #1792 Who's Who entry 吳建福教授]]
 - [[sources/taiwaneseamericanhistory-org-story-corpus||台美史料中心 story corpus]]
+
+## Deepen 2026-09-14 (vault-only)
+- **Directory record:** [[works/taiwaneseamericanhistory-org/whos-who-1792-chien-fu-wu||TAH #1792]] was published 2017-07-27; the vault copy is a bibliographic (band B) record, so the substance below is absorbed from this page's own TAH education/employment tables.
+- **Career path:** B.S. Mathematics, National Taiwan Univ. (1971) → Ph.D. Statistics, UC Berkeley (1976) → Berkeley instructor, Dept. of Statistics (1976–1977) → Univ. of Wisconsin Statistics Dept., assistant → associate → full professor (1977–1988) → GM/NSERC Chair in Quality and Productivity, Univ. of Waterloo (1988–1993) → H. C. Carver Professor of Statistics and Professor of Industrial and Operations Engineering, Univ. of Michigan, Ann Arbor (1993–2003) → Coca-Cola Chair in Engineering Statistics and Professor, Georgia Institute of Technology.
+- **Link hygiene:** none of these institutions has a vault page — the Georgia Tech / Michigan / Berkeley slugs on disk are student- and alumni-association pages, not universities — so no links were added.
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

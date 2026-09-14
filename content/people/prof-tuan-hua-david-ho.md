@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # Prof. Tuan-Hua David Ho (賀端華教授)
 
@@ -40,6 +40,12 @@ _No filled family fields on the TAH profile._
 ## Sources
 - [TAH #1794 encyclopedia: 1794. Prof. Tuan-Hua (David) Ho 賀端華教授](https://taiwaneseamericanhistory.org/whos-who-1794-tuan-hua-ho/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-tuan-hua-david-ho/)
+
+## Deepen 2026-09-14 (vault-only)
+- **Directory record:** [[works/taiwaneseamericanhistory-org/whos-who-1794-tuan-hua-ho||TAH #1794]] was published 2017-07-29; the vault copy is a bibliographic (band B) record, so the substance below is absorbed from this page's own TAH education/employment tables.
+- **Career path:** B.S. Botany, National Taiwan Univ. (1970) → Ph.D. Biochemistry, Michigan State Univ. (1976) → Univ. of Illinois assistant professor, Dept. of Plant Biology (1979–1984) → Washington Univ., Dept. of Biology, associate professor to professor (1984–2012) and Associate Chairman (1998–2003) → Director-General, National Science and Technology Program on Agricultural Biotechnology (2004–2008) → Director (2003–2008) and later Distinguished Visiting Chair, Institute of Plant and Microbial Biology, Academia Sinica.
+- **Disambiguation:** the on-disk [[works/taiwaneseamericanhistory-org/whos-who-196-david-ho||TAH #196 Dr. David Ho 何大一醫師]] is a *different* David Ho (2015 entry) — not linked here.
+- **Holdings:** published by [[organizations/tah-foundation||TAH Foundation]].
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # Chi Yi Chen (陳志宐)
 
@@ -43,6 +43,12 @@ _No filled family fields on the TAH profile._
 - [TAH #1704 encyclopedia: 1704.  Chi Yi Chen 陳志宐 / 06/2017](https://taiwaneseamericanhistory.org/whoswho1704/)
 - [TAH #406 encyclopedia: 406. Chi Yi Chen 陳志宐, conductor / 06/2017](https://taiwaneseamericanhistory.org/musician406/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/chi-yi-chen/)
+
+## Deepen 2026-09-14 (vault-only)
+- **Directory record:** both cited TAH entries were published 2017-06-29 — the Who's Who profile [[works/taiwaneseamericanhistory-org/whoswho1704||TAH #1704]] and the musician-directory profile [[works/taiwaneseamericanhistory-org/musician406||TAH #406]], which classifies her by role as *conductor*.
+- **Choral work:** the vault's employment table lists her as 指揮 of 福爾摩沙合唱團 alongside 普林斯頓神學院詩班助理指揮. The vault holds [[works/taiwaneseamericanhistory-org/14-new-york-formosa-chorus||TAH #14 紐約福爾摩沙合唱團]], which documents the *New York* Formosa Chorus — a different ensemble from her 福爾摩沙合唱團, linked here only for disambiguation.
+- **Link hygiene:** 台南神學院, 西敏寺音樂學院, 普林斯頓神學院 and the Bella Bartok Choral Institute have no vault pages; left unlinked rather than creating new pages or linking a near-match.
+- **Holdings:** the entries sit in the [[sources/taiwaneseamericanhistory-org-story-corpus||台美史料中心 story corpus]], published by [[organizations/tah-foundation||TAH Foundation]].
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
