@@ -66,3 +66,7 @@ Absorbed from this page's own cited TAH encyclopedia records (#543, #272); no ne
 ## Deepen — 2026-09-14 (vault-only pass)
 
 Re-checked cited TAH records (#543, #272): page is already saturated with vault-side links (Emory TSA / Emory TSA, JHU TSA, both TAH encyclopedia works). No further absorbable vault facts without new sources; no new links added this pass.
+
+## Deepen — 2026-09-14 (slice deepen-x-09141300-19)
+
+SKIP-with-reason: corpus grep for 王正怡 / Janice Wong across `content/works` and `content/articles` returns only her own two cited TAH encyclopedia stubs (#543, #272) and the works index — no memoir, newsletter, or movement-record material mentions her. Press-kit bio only; nothing absorbable from community sources.

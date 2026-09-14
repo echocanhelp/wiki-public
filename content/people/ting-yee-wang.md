@@ -41,7 +41,15 @@ _Compiled from facts already on this page — no new facts._
 
 His papers and collection are held by TAH — see [[works/taiwaneseamericanhistory-org/collection-of-mr-tingyee-wang||TAH #57, Collection of Mr. TingYee Wang]] and encyclopedia entry [[works/taiwaneseamericanhistory-org/75-tingyee-wang||TAH #75]].
 
-**2026-09-14 deepen passes (slices 09112200-23, 09140741-31):** page already carried a compiled notes section from cited TAH material; the earlier pass linked the Wang Kong-Lu award to the existing FAHR org page and refreshed the review date. The 09140741-31 pass added the reciprocity link to the existing TAH #218 台獨之聲 vault record. No new facts absorbed, no new pages, no web used.
+**2026-09-14 deepen passes (slices 09112200-23, 09140741-31):** page already carried a compiled notes section from cited TAH material; the earlier pass linked the Wang Kong-Lu award to the existing FAHR org page and refreshed the review date. The 09140741-31 pass added the reciprocity link to the existing TAH #218 台獨之聲 vault record.
+
+## Role in the Community
+_Corpus-absorbed 2026-09-14 (slice 09141300-17); primary material from our own memoirs._
+
+- **Courtesy name (字):** 泰和 — as used in the TAH record title for his collection ([[works/taiwaneseamericanhistory-org/collection-of-mr-tingyee-wang|TAH #57 王廷宜(泰和)先生的收藏]]) and in movement bylines.
+- **Co-author of the movement's own FAHR history.** He is one of the three authors of [[works/taiwaneseamericanhistory-org/publications1040|TAH #1040 台灣人權協會 1970–1990年代的故事]] (with 黃根深 and 莊秋雄) — a first-person institutional history of the Formosan Association for Human Rights, not just a subject of TAH profiles.
+- **Co-founder, Taiwan Human Rights & Culture Association (LA).** Per [[works/taiwaneseamericanhistory-org/ourjourneys75-eng|TAH #75 台灣人權協會的開始與現況 (Tina Chang)]], the LA group that co-founded THRA with 許世楷、許千惠、郭清江、張綺石、鄭德和 and 王廷宜(泰和); the same record's 2014 officer roster lists him as an FAHR Director (Ting Yee Wang).
+- **Founding member, Southern California Taiwanese Federal Credit Union (南加州台灣人聯邦信用合作社, SCTFCU).** Per [[works/taiwaneseamericanhistory-org/ourjourneys244|TAH Our Journeys #244 曇花一現的南加信用合作社 (周實)]], he attended the first organising meeting (July 24, alongside 劉丁榮、許啓勇、曾輝光、許清煌 and others) — convened while 周實 was president of the Los Angeles Taiwanese Association in 1977 — and served on the credit union's 徵信會 (Credit Committee) under chair 許清煌.
 
 ## Family
 

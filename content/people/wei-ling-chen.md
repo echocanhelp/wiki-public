@@ -65,3 +65,6 @@ _No filled family fields on the TAH profile._
 - **Archival records (dated):** TAH #22（Composer）published 2014-10-11; TAH #517 published 2015-07-25 — see the work records linked in the Vault Cross-References section on this page.
 - **Affiliation pages verified in vault:** music-instructor post at [[organizations/houston-taiwan-institute-for-senior-citizens||Houston Taiwan Institute for Senior Citizens]] (per this page's TAH employment table).
 - **Commissioned composer/arranger for Grace Taiwan Presbyterian Church** — her Houston-period church matches the vault record [[works/taiwaneseamericanhistory-org/grace-taiwan-presbyterian-church-in-houston||Grace Taiwan Presbyterian Church in Houston]]; no vault page yet for Musique 21 (Michigan State University new-music ensemble) or a Taiwanese Association in America page under that exact name.
+
+## Deepen — 2026-09-14 (slice 09141300-17)
+SKIP-with-reason: corpus grep of works/articles returns only her own two TAH encyclopedia records (#22/#517, already linked above) and the works index — no memoir or community material. Nothing absorbable; no new facts invented.

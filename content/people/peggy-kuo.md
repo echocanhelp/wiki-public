@@ -68,3 +68,4 @@ Community leadership: former President, Federal Bar Council American Inn of Cour
 
 ## Vault re-check (deepen pass 2026-09-14)
 - Re-confirmed: all four cited TAH records (#226 ota-226, #357 ff357, #1992 whos-who-1992-peggy-kuo, peggy-kuo) exist in the vault; the Career Notes timeline is fully absorbed from them, no new biography added.
+- 語料庫新增關聯：她本人的生平自述式專文亦已入庫 —— [[works/taiwaneseamericanhistory-org/mystories620|620. The Life Story of the Magistrate Judge, Ms. Peggy Kuo（2018/01，value band B）]]。此為語料庫中獨立於 TAH Who's Who 表格之外的生平記載，後續深化以該篇為首要素材。

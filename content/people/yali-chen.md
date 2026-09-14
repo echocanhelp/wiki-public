@@ -51,6 +51,7 @@ Absorbed from the profile text and cited TAH encyclopedia entries:
 - 2005 — M.S. Fine Art, UCI Claire (Claire Trevor) 音樂學院.
 
 ## Vault records (deepen pass 2026-09-14)
+- SKIP-with-reason: corpus grep (陳雅莉 / Yali Chen in content/works + content/articles) returns only her own two TAH encyclopedia records (#330, #843) and the works index — no memoir/community mentions elsewhere, nothing new absorbable; both records are already wikilinked below.
 - Encyclopedia record in vault: [[works/taiwaneseamericanhistory-org/330-yali-chen-e9-99-b3-e9-9b-85-e8-8e-89-oboist-conductor-201602|TAH #330: Yali Chen, Oboist & Conductor]] (02/2016) — vault copy of the source behind the biography and tables above.
 - Southern California cluster for her documented Orange/Riverside County activity (Disney Concert Hall, Segerstrom Hall, Riverside County; UCI Claire Trevor 音樂學院 2005) — no documented membership: [[organizations/taiwanese-american-organization-at-uc-irvine]], [[organizations/taiwanese-graduate-student-association-at-uc-irvine]], [[organizations/orange-county-taiwanese-association]].
 

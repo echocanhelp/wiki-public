@@ -57,3 +57,6 @@ _No filled family fields on the TAH profile._
 
 ## Deepen — 2026-09-14 (vault-only re-check)
 TAH #304/#674 vault work pages and the Formosa / Hanchien-lee disambiguation pointers above re-verified against live vault slugs; no broken links. No further unabsorbed facts in cited vault records; no new biography invented.
+
+## Deepen — 2026-09-14 (slice 09141300-17)
+SKIP-with-reason: corpus grep of works/articles returns only her own two TAH encyclopedia records (#304/#674, already linked above) and the works index — no memoir or community material beyond the press-kit bio. Nothing absorbable; no new facts invented.
