@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-14
 ---
 # Prof. Stephen Shau-tsi Chen (陳紹紀教授)
 
@@ -32,7 +32,7 @@ Prof. Stephen Shau-tsi Chen 陳紹紀教授 – History of Taiwanese American (T
 
 ## Family
 
-- **Wife:** Clara Liu Chen (劉真真)
+- **Wife:** Clara Liu Chen (劉真真) — see [[people/clara-chen||Clara Chen (劉真真)]], TAH Who's Who profile (1936, Tainan; NTU Physics 1959 — same NTU class year as his 1959 M.D.)
 - **Son:** David Taiwie,
 
 
@@ -40,6 +40,23 @@ Prof. Stephen Shau-tsi Chen 陳紹紀教授 – History of Taiwanese American (T
 - [TAH #2303 encyclopedia: 2303. Prof. Stephen Shau-tsi Chen 陳紹紀教授](https://taiwaneseamericanhistory.org/whos-who-2303-shau-tsi-chen/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-stephen-shau-tsi-chen/)
 
+## Timeline
+*(absorbed 2026-09-14 deepen pass — solely from the TAH education/employment tables already on this page; no new sources consulted)*
+
+- **1934** — born in Yun-Lin, Taiwan (台灣雲林).
+- **1959** — M.D., National Taiwan Univ.
+- **1968** — Ph.D., Univ. of Wisconsin.
+- **1968–1975** — Instructor / Assistant Professor, University of Wisconsin.
+- **1975–1978** — Assistant Professor, University of New York.
+- **1978–1980** — Assistant Professor, University of Pittsburgh.
+- **1981–1986** — Assistant Professor, University of Washington, Seattle.
+- **1981–1985** — Chief, Mental Health Clinic, VA Hospital, American Lake.
+- **Community** — Co-founder, Seattle Taiwanese Center; co-founder, Seifu Garden.
+- **Family** — wife Clara Liu Chen (劉真真); son David Taiwei.
+- **Saturation note:** his career cities (Wisconsin, Pittsburgh, Seattle) each have TAH-directory community org pages in this vault ([[organizations/taiwanese-association-of-wisconsin||Taiwanese Association of Wisconsin]], [[organizations/taiwanese-association-of-america-pittsburgh||TA of America Pittsburgh]], [[organizations/taiwanese-association-of-greater-seattle-tags||TA of Greater Seattle (TAGS)]]); these are listed as同城 community context only — no membership is asserted by his TAH profile.
+
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+- [[people/clara-chen||Clara Chen (劉真真)]] — wife

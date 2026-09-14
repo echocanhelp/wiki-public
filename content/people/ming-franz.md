@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-14
 ---
 # Ming Franz (林明姝)
 
@@ -35,6 +35,16 @@ Ming Franz was born in the southern Taiwan, grew up in a sugar plantation where 
 - [TAH #998 encyclopedia: 998.  Ming Franz  林明姝 / 2016/05](https://taiwaneseamericanhistory.org/whoswho908/)
 - [TAH #38 encyclopedia: 38. Ming Franz 林明姝  /2015/04](https://taiwaneseamericanhistory.org/38-ming-franz/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/ming-franz/)
+
+## Life & Artistic Formation
+*(absorbed 2026-09-14 deepen pass — solely from the narrative and TAH tables already on this page; no new sources consulted)*
+
+- **Origin:** born in southern Taiwan — 台灣屏東縣萬巒 — and grew up on a sugar plantation where her father worked as a steam engine engineer.
+- **Artistic beginnings:** began painting at age 8 under her neighbour Mr. Tsai, an art teacher, who taught her crayon, pencil and charcoal drawing and watercolour, took her by bicycle to other villages to paint, and taught her to observe nature while hiking.
+- **Hiking:** as a child she hiked many miles to school; she remains an avid hiker and has hiked mountains around the world. This lifelong contact with nature shapes her subject matter — waterfalls, streams, rivers, trees and birds — and why she paints landscapes: "that is part of her life."
+- **Career:** teaching engagement at the New Mexico Art League (see Employment table above).
+- **Family:** daughter Tammy.
+- **Saturation note:** all absorbable facts on this page are now surfaced in narrative form; further deepening requires the cited TAH #998 / #38 / Who's Who web sources (out of scope for the vault-only pass).
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

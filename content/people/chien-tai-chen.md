@@ -44,3 +44,6 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- [[works/taiwaneseamericanhistory-org/654-chien-tai-chen-e9-99-b3-e5-bb-ba-e5-8f-b0-201510||2015-10: TAH #654 encyclopedia entry 陳建台]]
+- [[works/taiwaneseamericanhistory-org/302-chien-tai-chen-e9-99-b3-e5-bb-ba-e5-8f-b0-composer-201510||2015-10: TAH #302 encyclopedia entry — Composer]]
+- Maryland years (Ph.D. 1984, then faculty): [[organizations/university-of-maryland-taiwanese-student-association||UMD TSA]] and [[organizations/taiwanese-american-student-association-at-the-university-of-maryland-college-park||UMCP TSA]] are the campus-adjacent TA community pages in the vault

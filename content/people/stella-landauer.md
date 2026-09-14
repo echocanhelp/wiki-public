@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-14
 ---
 # Stella Landauer (陳翠玉)
 
@@ -40,6 +40,18 @@ _No filled family fields on the TAH profile._
 - [TAH #651 encyclopedia: 651. 護理界的英雌─陳翠玉（1917－1988)/09/2018](https://taiwaneseamericanhistory.org/651/)
 - [TAH #1303 encyclopedia: 1303. Stella Landauer 陳翠玉](https://taiwaneseamericanhistory.org/whos-who-1303-stella-landauer/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/stella-landauer/)
+
+## Timeline
+*(absorbed 2026-09-14 deepen pass — solely from the TAH education/employment tables and source titles already on this page; no new sources consulted)*
+
+- **1917** — born in Changhua, Taiwan (era 1917–1988 per TAH #651 title 護理界的英雌─陳翠玉).
+- **1948** — B.S. in Nursing education, Univ. of Toronto.
+- **1948–1958** — Founder and First President, Tai-Da Nursing School (台大護校).
+- **1955** — M.S. in Nursing administration, Boston Univ. TAH records her as the first Taiwanese American to earn both B.S. (1948) and M.S. (1955) degrees in the nursing field.
+- **1956–1977** — Health Consultant for the World Health Organization.
+- **Community** — Founder, Women Movement for Democracy in Taiwan (WMDT).
+- **1988** — died (per TAH #651 title).
+- **Saturation note:** the vault holds no other page asserting facts about 陳翠玉; remaining gaps (WMDT founding year, 台大護校 details) live only in the cited TAH encyclopedia entries.
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-14
 ---
 # Winnie Lan-In Yang (楊嵐茵)
 
@@ -44,3 +44,5 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- [[works/taiwaneseamericanhistory-org/236-winnie-lan-in-yang-pianist-composer||2015-07: TAH #236 encyclopedia entry — Pianist, Composer]]
+- [[works/taiwaneseamericanhistory-org/491-winnie-lan-in-yang-e6-a5-8a-e5-b5-90-e8-8c-b5-201507||2015-07: TAH #491 encyclopedia entry 楊嵐茵]]
