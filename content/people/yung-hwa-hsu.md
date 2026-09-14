@@ -68,3 +68,10 @@ Accomplishment
 ## Deepen — 2026-09-14 (vault-only re-check)
 
 Both TAH encyclopedia records (#170, #298) and his papers collection are absorbed and linked; wife [[people/amy-hsu||Amy Hsu 蘇惠美]] and the WFTA chief-secretary role resolve to existing pages. His employers (Main La Frentz, Austin CPA and Geber CPA, Services Management Company, his own CPA practice), schools (NCCU, Utah State, Wayne State), the Ann Arbor chapter page, the Midwest Taiwanese Summer Conference Foundation, and the Professor Wen-Cheng Chen Foundation have no vault pages beyond those already linked and stay plain text.
+
+## Deepen — 2026-09-14 (slice 09141200-2, vault-only)
+
+- 新增語料庫脈絡連結（皆為 vault 既有頁面，非本人新事蹟）：
+  - [[works/taiwaneseamericanhistory-org/ann-arbor-chapter-taa|Ann Arbor Chapter TAA record (TAH, 2015-12-30)]] — 語料庫中關於他曾任會長（1977）之安雅堡同鄉會分會的專文紀錄。
+  - [[works/taiwaneseamerican-org/midwest-taiwanese-american-summer-conference-in-illinois|Midwest Taiwanese American Summer Conference in Illinois (2010-07-09)]] — 他所任理事長之中西部夏令營基金會主辦活動的同儕脈絡紀錄（context-only，無本人署名紀錄）。
+- 其餘結論維持上輪：僱主、學校、Chen Wen-Cheng 基金會與 WFTA 以外組織仍無 vault 頁面，不加死連結；無新建頁面、未上網、無虛構事蹟。

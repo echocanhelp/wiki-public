@@ -65,3 +65,7 @@ A native of Taiwan, Ming Feng Hsin’s musical career began as a violin soloist 
 
 - TAH 表列休士頓 Rice 大學指揮碩士：vault 內有 [[organizations/rice-taiwanese-graduate-student-association||Rice Taiwanese Graduate Student Association]] 及 [[organizations/rice-taiwanese-association||Rice Taiwanese Association]]，屬就學地台美人同儕脈絡（context-only，無本人 membership 紀錄），非本人事蹟。
 - 其餘結論維持：無 vault 頁面者不加連結；本頁飽和，verification_status: pending。
+
+## deepen pass 2026-09-14（DEEPEN-X slice 09141200-2）
+
+- 全庫再掃：Juilliard、Metropolitan Opera Orchestra、Yehudi Menuhin、Wen Qian、Glasgow International Violin Competition 等於 vault 內仍無對應頁面，維持純文字；既有 TAH #380/#185 與同儕脈絡連結全部解析正常。本頁於 vault-only 規則下飽和，未新增事蹟。
