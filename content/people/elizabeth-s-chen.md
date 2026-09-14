@@ -39,6 +39,7 @@ Elizabeth S. Chen was born in Kaohsiung, Taiwan in 1944. She was graduated from 
 - **Career** — Children's music education (兒童音樂教育); church choir conductor (教會詩班指揮)
 - **1998-02-28** — Joint concert 乘著歌聲的翅膀 with 賴美芬, Santa Ana, CA — vault 活動條目：[[works/taiwaneseamericanhistory-org/concerts61|TAH #61 concerts 紀錄]]
 - 本人兩則傳記條目見下方 Vault Holdings（[[works/taiwaneseamericanhistory-org/61-elizabeth-s-chen-e6-9d-8e-e7-a7-80-e9-ba-97-vocalist|TAH #61 音樂家條目]]、[[works/taiwaneseamericanhistory-org/278-elizabeth-s-chen-e6-9d-8e-e7-a7-80-e9-ba-97-201502|TAH #278 條目]]）
+- Teachers at 師範大學: Mrs. Su-fen Lai and Mrs. Chiu-gin Lin; SUNY Binghamton thesis supervisor: Dr. Chianis
 
 ## Family
 
