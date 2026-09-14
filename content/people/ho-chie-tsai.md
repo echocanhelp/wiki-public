@@ -82,3 +82,8 @@ Facts already present in vault pages (no new sources):
 - [[sources/2017-tahs-publication||2017 TAHS Publication]]
 - [[people/franklin-ping-cheng||Franklin Ping Cheng (程炳成) — TAHS president]]
 - [[people/yang-jia-you||Charles Yang (楊嘉猷) — TAHS founding president]]
+
+## Vault re-check 2026-09-14 (deepen-x slice 09140845-1, vault-only)
+- Cross-linked the org layer: TAP San Francisco, which he founded, has its own page — [[organizations/taiwanese-american-professionals-san-francisco|Taiwanese American Professionals San Francisco]]; the [[organizations/taiwan-american-foundation|TAF]] link and all work-page links above verified to exist.
+- His 2017 TAHS Publication profile was written by 楊遠薰 — linked to her vault author page [[people/yang-yuanxun|Yang Yuan-xun (楊遠薰)]].
+- No new biographical facts absorbable from vault-internal sources beyond those already recorded; nothing invented, no web used, nothing published.

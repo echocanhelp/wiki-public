@@ -66,3 +66,7 @@ Absorbed from [[works/taiwaneseamericanhistory-org/ourjourneys38-eng||TAH #38: T
 - [[works/taiwaneseamericanhistory-org/ourjourneys38-eng||TAH #38: TAFNC Thirty Year Review]] — names Wu as 28th TAFNC President
 - [[people/may-sing-chang||May-Sing Chang]] — fellow master vocalist, co-cited in the TAFNC review
 - [[organizations/taiwanese-american-federation-of-n-california||Taiwanese American Federation of Northern California]] — Wu served as its 28th President
+
+## Vault re-check 2026-09-14 (deepen-x slice 09140845-1, vault-only)
+- All wikilink targets verified to exist (FAHHR, TAFNC, East Bay Taiwanese Association, May-Sing Chang, TAH #29 / #124 / #238 / #252 / ourjourneys38 work pages).
+- 全美台灣同鄉會 (Taiwanese American Association/USA) and wife 王秀蓉 have no vault pages; left as plain text, no new pages created. No web used, nothing published.

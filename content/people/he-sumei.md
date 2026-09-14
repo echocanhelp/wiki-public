@@ -76,3 +76,6 @@ Per the [[organizations/taiwan-center||Taiwan Center]] course table, He Sumei (�
 - [[people/wei-boji||Wei Boji (魏博基)]]
 - [[people/xu-shitan||Xu Shitan (徐士坦)]]
 - [[people/wang-rongyi||Wang Rongyi (王榮義)]]
+
+## Vault re-check 2026-09-14 (deepen-x slice 09140845-1, vault-only)
+- Related-pages layer re-verified: all linked co-teacher, choir-teacher, school, foundation and hub slugs exist; no additional vault page names 何素美 beyond the taiwancenter.org class table, so no new facts were absorbable without web. Biography still unpublished; nothing invented, nothing published.
