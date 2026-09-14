@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # Peggy Kuo (郭佩宇)
 
@@ -63,3 +63,8 @@ Community leadership: former President, Federal Bar Council American Inn of Cour
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - [[organizations/taiwanese-american-lawyers-association||Taiwanese American Lawyers Association]] — peer TA lawyers' org in the same field
+- [[organizations/taiwanese-american-historical-society|TAHS (台美人歷史協會)]]
+- [[sources/taiwaneseamericanhistory-org-story-corpus|taiwaneseamericanhistory.org 故事語料庫]]
+
+## Vault re-check (deepen pass 2026-09-14)
+- Re-confirmed: all four cited TAH records (#226 ota-226, #357 ff357, #1992 whos-who-1992-peggy-kuo, peggy-kuo) exist in the vault; the Career Notes timeline is fully absorbed from them, no new biography added.

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # Joli Wu (吳昭麗)
 
@@ -64,3 +64,6 @@ _No filled family fields on the TAH profile._
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - [[organizations/taiwanese-american-historical-society|TAHS (台美人歷史協會)]]
 - [[sources/taiwaneseamericanhistory-org-story-corpus|taiwaneseamericanhistory.org 故事語料庫]]
+
+## Vault re-check (deepen pass 2026-09-14)
+- Both cited encyclopedia records confirmed present in the vault: [[works/taiwaneseamericanhistory-org/whoswho1121|TAH #1121]] and [[works/taiwaneseamericanhistory-org/musician113|TAH #113]]. No new biography added; the page's biography, education, and employment facts are already fully absorbed in the Timeline above.

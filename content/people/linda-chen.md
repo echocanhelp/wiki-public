@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # Linda Chen (陳映妤)
 
@@ -59,3 +59,4 @@ Born in Taipei, Taiwan, Linda began piano lessons at the age of four. A few year
 
 ## Vault records (deepen pass 2026-09-11)
 - Encyclopedia record in vault: [[works/taiwaneseamericanhistory-org/264-linda-chen-e9-99-b3-e6-98-a0-e5-a6-a4-pianist-201508||TAH #264 Linda Chen 陳映妤, Pianist]] (2015/08) — vault copy of the source behind the Eastman/UMKC biography, teaching studio, and KMTA/Mu Phi Epsilon service above.
+- Second cited record also held: [[works/taiwaneseamericanhistory-org/264-linda-chen-e9-99-b3-e6-98-a0-e5-a6-a4-201508||TAH #530 Linda Chen 陳映妤]] (2015/08) — vault copy of the companion encyclopedia entry cited in Sources above.

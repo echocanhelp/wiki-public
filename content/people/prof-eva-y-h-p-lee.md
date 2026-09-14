@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # Prof. Eva Y.H. P. Lee (潘玉華教授)
 
@@ -56,3 +56,7 @@ Prof. Eva Y.H. P. Lee 潘玉華教授 – History of Taiwanese American (T.A. Ar
 - [[works/taiwaneseamericanhistory-org/introduction-of-the-ta-archives||T.A. Archives (台美史料中心)]]
 - [[organizations/taiwanese-american-historical-society|TAHS (台美人歷史協會)]]
 - [[sources/taiwaneseamericanhistory-org-story-corpus|taiwaneseamericanhistory.org 故事語料庫]]
+
+## Vault re-check (deepen pass 2026-09-14)
+- Her own encyclopedia record is held in the vault: [[works/taiwaneseamericanhistory-org/whos-who-1796-eva-y-h-p-lee|TAH #1796: Prof. Eva Y.H. P. Lee 潘玉華教授]] — the source behind the NTNU/UC Berkeley education and UCSD/UT Health/UC Irvine/NTNU career timeline above.
+- Spouse link cross-confirmed both directions: [[people/prof-wen-hwa-lee||Prof. Wen-Hwa Lee (李文華教授)]] and his record [[works/taiwaneseamericanhistory-org/whos-who-1795-wen-hwa-lee|TAH #1795]].
