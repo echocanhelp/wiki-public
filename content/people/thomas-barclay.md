@@ -71,3 +71,6 @@ Absorbed from `knowledge/research/eastgatebarclay-org-entities.md` + [[sources/e
 
 ## Deepen — 2026-09-14 (vault-only re-check)
 East Gate vault archive facts (1903 福音堂, 1914 臺灣大會, 2003 centennial rename, 2017–2018 Elizabeth Memorial Chapel, 2024-10 古蹟 designation) already absorbed above; all wikilinks re-verified against live vault slugs. No further unabsorbed vault facts; no new pages created.
+
+### Corpus grep 2026-09-14 (slice -15) — SKIP with reason
+All 巴克禮/Barclay matches in works/ + articles/ are unrelated UK news copy (Barclays/Brexit-era taiwanjustice.net wires); no memoir or work page references the missionary. Nothing absorbable beyond the East Gate archive already incorporated above.

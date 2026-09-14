@@ -60,3 +60,7 @@ As the third uncle (三舅) of 廖述宗, Lin Chao-chi was part of the extended 
 ## Deepen-X19 check (2026-09-11)
 
 - All vault-sourced facts already absorbed: 十三行遺址 discovery (楊嘉猷 memorial, 2017 TAHS hub), 豐原三傑 anecdote, 台大地質系 professorship, and the full 林尚／林朝權／林瓊仙／林朝業 family layer (Our Journeys #350). The 板橋 vs 十三行 site-attribution discrepancy remains flagged pending verification; no new pages or web sources added this pass.
+
+## Deepen-X09141300-13 check (2026-09-14)
+
+- **SKIP-with-reason:** corpus grep over `content/works` + `content/articles` for 林朝棨 / Lin Chao-chi returns exactly one hit — [[works/taiwaneseamericanhistory-org/our-journeys-350|Our Journeys #350 (張瑞雄口述)]] — and every fact from it is already absorbed in the Fengyuan section above. Nothing new absorbable in the corpus; no web sources per protocol.

@@ -44,6 +44,13 @@ Her TAH encyclopedia entries are archived at [[works/taiwaneseamericanhistory-or
 - Community leadership: vice chairperson of the [[organizations/taiwanese-united-fund|Taiwanese United Foundation]], per her employment/community record above.
 - Entries harvested from [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]: [[works/taiwaneseamericanhistory-org/257-bonnie-yang-e9-99-b3-e4-bd-b3-e8-8a-ac-201502|TAH #257]] and [[works/taiwaneseamericanhistory-org/141-bonnie-yang-e9-99-b3-e4-bd-b3-e8-8a-ac-pianist-201502|TAH #141]].
 
+## Role in the Community — memoir corpus (absorbed 2026-09-14)
+
+- Per Dr. Lin Heng-che's TUF memoir [[works/taiwaneseamericanhistory-org/ourjourneys301|301. 南加州臺灣人聯合基金會的誔生、回顧與展望 (1986–1996)]], Bonnie Yang 陳佳芬 served as the **6th chairperson of the Southern California Taiwanese United Fund (TUF 台灣人聯合基金會)** in 1997 (「TUF第六任會長陳佳芬」). In that capacity she co-organized, together with 吳澧培 and 林衡哲, the landmark 1997 二二八十週年紀念音樂會.
+- That concert — conducted by 大山平一郎 and his Asian American Symphony under the title 《向台灣致敬》, pairing 金希文《第三交響曲台灣》and 蕭泰然《1947序曲》, with pianist 吳涵 performing Mendelssohn's Piano Concerto No. 1 — is described by Lin as the most unforgettable 228 memorial concert in Southern California history; 蕭泰然 and 金希文 flew in from Taiwan to speak.
+- Her community-leadership record thus extends the vice-chairperson entry above into the movement's core institutional history at [[organizations/taiwanese-united-fund||Taiwanese United Fund]].
+- HOLD: conflict — TAH press-kit bio says "recently elected as a vice chairperson of Taiwanese United Foundation"; Lin Heng-che's memoir names her TUF 第六任會長 (6th chairperson, 1997). Both are primary-sourced; not auto-merged.
+
 ## Family
 
 _No filled family fields on the TAH profile._

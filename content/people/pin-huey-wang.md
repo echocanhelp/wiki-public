@@ -57,3 +57,6 @@ _No filled family fields on the TAH profile._
 - Ensemble posts per the same record: pianist for Kaohsiung Opera Workshop; Maryland Opera Studio (2000–2003); University of Maryland Chorus and Chamber Singers (2003–2005).
 - Concert record includes soprano Carmen Balthrop at the National Concert Hall (Taipei), baritone Yi-Cherng Lin at the Taiwanese Culture Center in San Diego, Finnish soprano Riikka Hakola at the Embassy of Finland, and Washington Sängerbund at the Embassy of Austria (Washington, D.C.).
 - Private piano studio since 1993; adjunct piano faculty at Montgomery College, Maryland; member of the American College of Musicians and the Music Teachers National Association. Student link: [[people/eric-teng-kuan-huang||Eric Teng-Kuan Huang]] (private piano instruction).
+
+### Corpus grep 2026-09-14 (slice -15) — SKIP with reason
+Only corpus hits are her own two TAH encyclopedia records ([[works/taiwaneseamericanhistory-org/13-pin-huey-wang-e7-8e-8b-e5-93-81-e6-83-a0-piano||TAH #13]] and [[works/taiwaneseamericanhistory-org/519-pin-huey-wang-e7-8e-8b-e5-93-81-e6-83-a0-201507||TAH #519]]), already fully absorbed in the section above, plus the works index. No memoir or article mentions her — no movement-record material to absorb.

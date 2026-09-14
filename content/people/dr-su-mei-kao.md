@@ -48,6 +48,13 @@ Community leadership in New Jersey's Taiwanese American community:
 - **Daughter:** Megan (高怡玫), Jennifer (高怡真)
 
 
+## Role in the Community
+*(absorbed from our own corpus, deepen-x slice 09141300-13, 2026-09-14)*
+
+- **46th 美東台灣人夏令會 (TAC-EC) — 總召集人.** In her memoir 劉照男 records that the 46th TAC-EC, hosted by the New Jersey 同鄉會, closed successfully thanks to the careful planning of 總召集人 林素梅 and her team: theme 「心的所在就是故鄉」, 650 鄉親 of three generations gathered at East Stroudsburg University, speakers and program hosts mostly young people — see [[works/taiwaneseamericanhistory-org/ourjourneys153|Our Journeys #153 (劉照男, 美東夏令會的返鄉之夢)]]. This is a first-hand community corroboration of the TAC-EC Chairwoman role on her TAH profile.
+- **TAH archival collection.** TAH holds [[works/taiwaneseamericanhistory-org/collection-of-mrs-su-mei-kao|TAH #52 Collection of Mrs. Su-Mei Kao 林素梅女士的收藏]] (2017/12). HOLD: identity of the donor is not stated in the record — likely the same Dr. Su-Mei Kao active in the NJ community, but not merged without confirmation.
+- A **"Su-Mei Kao, FAPA" signature** appears on [[works/taiwaneseamerican-org/pew-research-center-taiwanese-american-statement|the Taiwanese American statement (taiwanamerican.org)]]; name matches exactly but identity held unconfirmed.
+
 ## Sources
 - [TAH #87 encyclopedia: 87. Dr. Su-Mei Kao 林素梅博士](https://taiwaneseamericanhistory.org/87-dr-su-mei-kao/)
 - [TAH #1684 encyclopedia: 1684. Dr. Su-Mei Kao 林素梅博士](https://taiwaneseamericanhistory.org/whos-who-1684-su-mei-kao/)

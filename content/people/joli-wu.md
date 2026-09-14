@@ -41,6 +41,14 @@ _No filled family fields on the TAH profile._
 - [[works/taiwaneseamericanhistory-org/whoswho1121|TAH #1121 — Joli Wu 吳昭麗（2016/06）]]
 - [[works/taiwaneseamericanhistory-org/musician113|TAH #113 — Joli Wu 吳昭麗, Violinist（2015/01）]]
 
+## Role in the Community
+*(absorbed from our own corpus, deepen-x slice 09141300-13, 2026-09-14)*
+
+- **1989 台灣文化之夜（北美文協）** — 吳昭麗 was one of the five players of the 北美文協室內樂團 (with 郭雋律、郭雋音、林俊信、劉召岑) at the 1989 台灣文化之夜, per 林衡哲's memoir [[works/taiwaneseamericanhistory-org/ourjourneys301|Our Journeys #301]]. The same evening featured 陳泰成 (茱麗亞鋼琴博士) and the US premiere of 蕭泰然's Violin Concerto by 郭雋音/郭雋律.
+- **1995《台灣民謠之夜》— TUF 台灣人聯合基金會 台灣名家演奏系列** (California State University, Los Angeles, Luckman Hall): 吳昭麗 played viola in the star-studded lineup of first-rate Taiwanese musicians the movement sent to LA — violinists 蘇顯達 and 黃維明, cellist 陳建安, pianist 葉綠娜, soprano 黃瑞芬. 林衡哲's memoir lists her among "優秀的台美第二代"; the program of 呂泉生《搖嬰仔歌》and 蕭泰然《嘸通嫌台灣》moved many 鄉親 to tears.
+  - Corroborating program records in our article corpus: [[articles/taiwanjustice-net/2024/20240225012121_root_64302d51d03b3c5f|台灣女聲樂家黃瑞芬過世（台灣正義網 2024）]] and [[articles/taiwanjustice-net/2024/20240520022857_root_e1412ed957f76e0d|台灣民謠之夜, 民謠與詩的對話 — TUF 1995（台灣正義網）]].
+  - HOLD: conflict on the concert date — 林衡哲's memoir gives 1995-09-29; the 台灣正義網 recollections give 1995-07-29. Not merged.
+
 ## Sources
 - [TAH #1121 encyclopedia: 1121. Joli Wu 吳昭麗 / 2016/06](https://taiwaneseamericanhistory.org/whoswho1121/)
 - [TAH #113 encyclopedia: 113. Joli Wu 吳昭麗, Violinist/ 2015/01](https://taiwaneseamericanhistory.org/musician113/)

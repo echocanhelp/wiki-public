@@ -43,6 +43,8 @@ _No filled family fields on the TAH profile._
 
 ## Vault records (deepen pass 2026-09-14)
 - Encyclopedia record in vault: [[works/taiwaneseamericanhistory-org/45-e9-99-b3-e7-b4-a0-e8-8f-afsuhua-low201505|TAH #45: 陳素華 Suhua Low]] (05/2015) — vault copy of the source behind the artist statement and tables above.
+- **Second, later encyclopedia record in vault: [[works/taiwaneseamericanhistory-org/whoswho1003|TAH #1003: Suhua Low 陳素華]] (05/2016)** — found by corpus grep in deepen-x slice 09141300-13 (2026-09-14). Same subject, one year after #45; no new biography beyond the #45 artist statement, but the page is now linked to both TAH encyclopedia records.
+- No memoir/corpus narrative beyond these two TAH records mentions 陳素華 / Suhua Low; her community footprint in our corpus stays at the exhibiting-artist record above. Nothing invented.
 - New Jersey / New York community cluster for her post-1986 activity (NJ residence; Manhattan gallery and museum visits) — no documented membership: [[organizations/taiwanese-association-of-america-new-jersey]], [[organizations/taiwanese-association-of-america-south-jersey-chapter]], [[organizations/taiwanese-american-council-of-greater-new-york]].
 - Vault art-association pages for cross-reference (no documented membership): [[organizations/new-world-art-center]], [[organizations/neo-art-league]], [[organizations/north-america-pastel-artist-association]], [[organizations/taiwanese-american-arts-council-taac]].
 - Somerset Art Association (NJ) and Greenwich Art Council (CT) — her documented exhibiting venues — have no vault pages yet.
