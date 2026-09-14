@@ -70,3 +70,4 @@ Built from the on-page TAH bio (sources below; no new facts added):
 ## Vault re-check 2026-09-14 (deepen-x slice 09132337-3, vault-only)
 - Wikilink targets verified: Taiwanese Association of America Pittsburgh, Penn Taiwanese Student Association, and both TAH #129 / #242 work pages.
 - Curtis Institute of Music, the BBC Children's Orchestra, Chinese Youth Orchestra, Interlochen and the Capetown / Pittsburgh orchestras named in his bio have no vault pages; no new pages created. His cited encyclopedia records are bibliographic-only in the vault, so no further facts were absorbable without web. No web used, nothing published.
+- Re-verified 2026-09-14 (deepen-x slice 09140741-2): page already carries the vault-only deepen pass; state confirmed on disk, no further absorbable vault facts.

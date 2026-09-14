@@ -94,3 +94,4 @@ Pages that link to **simon-lin** (simon-lin):
 ## Vault re-check 2026-09-14 (deepen-x slice 6, vault-only)
 - All 37 wikilink targets re-verified to exist in the vault. The board role (執行長, TWCLA), the 2016 當選董事長 record, the 2020 僑務諮詢委員獲聘行政院政務顧問 record, and the 2025 228追思 roll-call note were all absorbed from the taiwanjustice.net tier2 archive in prior passes; no further biography exists in the vault source set.
 - No web used, no new pages created, nothing published.
+- Re-verified 2026-09-14 (deepen-x slice 09140741-2): deepen sections and all wikilink targets confirmed on disk; no further vault-sourced facts.

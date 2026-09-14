@@ -63,3 +63,4 @@ _No filled family fields on the TAH profile._
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - [[works/taiwaneseamericanhistory-org/432-cellist-alice-chen||TAH #432: Alice Chen, Cellist]]
 - [[people/janet-tsai||Janet Tsai]] — the vault's Tsai page notes she took organ lessons "with Alice Chen at the college"; identity with this cellist is unverified, flagged here only as a possible lead.
+- Re-verified 2026-09-14 (deepen-x slice 09140741-2): TAH bio, timeline, and in-vault records already absorbed in prior pass; the Janet Tsai lead stays flagged (not auto-merged per policy). No web used, nothing published.
