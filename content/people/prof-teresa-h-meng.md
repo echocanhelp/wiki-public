@@ -41,3 +41,7 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+## Vault Cross-References (absorbed 2026-09-14)
+- Vault copy of the cited encyclopedia entry: [[works/taiwaneseamericanhistory-org/whos-who-1861-teresa-h-meng||TAH #1861]] (published 2017-08-21; bibliographic record, all-rights).
+- Campus organizations in the vault at her recorded institutions (her own membership is not recorded in the TAH profile): [[organizations/taiwanese-american-student-association-at-uc-berkeley||TAASA @ UC Berkeley]], [[organizations/stanford-taiwanese-student-association||Stanford TSA]].

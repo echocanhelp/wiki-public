@@ -24,3 +24,8 @@ The North American Taiwan Studies Association (NATSA) is a US-based 501(c)(3) no
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+## Vault Cross-References (absorbed 2026-09-14)
+- Vault copy of the TAH directory story: [[works/taiwaneseamericanhistory-org/north-american-taiwan-studies-association-ef-bc-88natsa-ef-bc-89||TAH NATSA story]] (published 2014-10-12).
+- [[works/taiwaneseamerican-org/call-for-papers-natsa2014||NATSA 20th Anniversary Conference CFP]] (2014-01-10) places the association's 20th anniversary in 2014, implying founding c. 1994.
+- Officers recorded on vault person pages: [[people/prof-t-l-lin||Prof. T. L. Lin (林子倫)]] served as NATSA president; [[people/prof-young-chang-chen||Prof. Young-Chang Chen (陳榮昌)]] is cross-linked to NATSA on his page.

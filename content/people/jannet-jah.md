@@ -43,3 +43,8 @@ Jennet Jah is the daughter of the noted composter, Professor Kenneth Lee. She gr
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+## Vault Cross-References (absorbed 2026-09-14)
+- Vault copies of the cited encyclopedia entries: [[works/taiwaneseamericanhistory-org/245-jannet-jah-e6-9d-8e-e4-bf-8a-e7-8e-b2-201502||TAH #245]] and [[works/taiwaneseamericanhistory-org/10177||TAH #132 (Soprano)]].
+- Recent vault press coverage credits her as 女高音獨唱 with the LA-based 以立合唱團: [[articles/taiwanjustice-net/2025/20250209214700_以立合唱團_演唱_拯救我_-選自威爾第的_7214b273dfcb59ce||以立合唱團演唱「拯救我」（威爾第「安魂曲」選段）]].
+- Discrepancy (HOLD, no merge): the narrative bio names her father as composer "Professor Kenneth Lee" while the Family field records 江奎然; no vault page establishes either identity, so neither is linked.
