@@ -57,3 +57,6 @@ _No filled family fields on the TAH profile._
 ## Deepen pass (2026-09-14)
 - 吸收表列學經歷至傳記段（無新增外部事實）。
 - 聖路易任期補當地台裔社團地域關聯連結（已核頁存在）；臺北市立教育大學、Jacobs 音樂學院、UT Austin 無 vault 頁面，不新增虛構連結。
+
+## Deepen pass (2026-09-14, slice 09141213-24)
+- SKIP-with-reason：語料庫檢索僅命中本人自有書目頁（TAH #341、#1056）及 index 條目行，無回憶錄/社群第一手材料可吸收。

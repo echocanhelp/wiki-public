@@ -59,3 +59,6 @@ _No filled family fields on the TAH profile._
 ## Vault records（deepen pass 2026-09-11, refreshed 2026-09-14）
 - 本頁 TAH 出處之 Vault 頁面：[[works/taiwaneseamericanhistory-org/musician356||TAH 356. Kaiyin Huang 黃凱盈, Pianist / 2016/08]]（vault 記錄發布日 2016-08-20）、[[works/taiwaneseamericanhistory-org/whoswho1251||TAH 1251. Kaiyin Huang 黃凱盈 / 2016/08]]。
 - publisher／語料庫：[[sources/taiwaneseamericanhistory-org-story-corpus||TAH story corpus]]。
+
+## Deepen pass (2026-09-14, slice 09141213-24)
+- SKIP-with-reason：語料庫檢索僅命中本人自有書目頁（TAH #356、#1251）及 index 條目行，無回憶錄/社群第一手材料可吸收。

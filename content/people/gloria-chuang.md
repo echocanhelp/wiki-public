@@ -60,3 +60,6 @@ Her TAH encyclopedia records are held in the vault as community historical recor
 - [[organizations/taiwanese-american-historical-society||TAHS]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - [[sources/taiwaneseamericanhistory-org-story-corpus||TAH story corpus]]
+
+## Deepen pass (2026-09-14, slice 09141213-24)
+- SKIP-with-reason：語料庫檢索僅命中本人自有書目頁（TAH #384、#1508）及 index 條目行，無回憶錄/社群第一手材料可吸收。
