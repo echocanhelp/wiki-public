@@ -47,6 +47,7 @@ Absorbed from vault pages already naming him (no web):
 - [[works/taiwaneseamericanhistory-org/mystories724||TAH #724: 奔流的樹葉：序言 / 杜祖健 / 2020-03]] — his own essay (序言) in the TAH story corpus.
 - [[works/taiwaneseamericanhistory-org/senior-taiwanese-american-2||TAH senior directory #2: Prof. T. Anthony Tu (杜祖健教授)]] — his entry in the 北加州台灣長輩會 senior directory, i.e. he is a listed member of [[organizations/senior-taiwanese-association-of-northern-california||Senior Taiwanese Association of Northern California]].
 - Additional TAH encyclopedia records: [[works/taiwaneseamericanhistory-org/4-prof-t-anthony-tu||#4]] and [[works/taiwaneseamericanhistory-org/whos-who-812-anthony-t-tu||#812]].
+- His own writings in the story corpus (deepen 09141213-16): [[works/taiwaneseamericanhistory-org/publications1110||TAH #1110: Nomadic Academic Life of a Professor / 自傳 (2009)]] — his autobiographical essay; [[works/taiwaneseamericanhistory-org/mystories555||TAH #555: Reflection of Prof. Anthony T. Tu's Life (2017-07)]] — a later life-reflection piece; [[works/taiwaneseamericanhistory-org/publications1339||TAH #1339: 奔流的樹葉 / 自傳 (2020-03)]] — his 2020 autobiography (companion/fuller record of the 序言 already linked as #724). Three self-authored memoir records spanning 2009–2020 make him one of the corpus's better-documented senior scientists.
 
 ## Timeline
 - 1930 — born in Taipei (Era per TAH directory)

@@ -46,6 +46,15 @@ last_reviewed: 2026-09-14
 ## 《教會史話》 (titles only)
 Laijohn TOC: **51** 馬偕-title hits (not listed). Son **偕叡廉** = 史話 501. Bodies not archived. Site also has `/Mackay/` scrap cluster (not v2).
 
+## Role in the Community (deepen 09141213-16)
+Corpus memoirs that carry his legacy into the Taiwanese American community record:
+- **Medical-mission lineage invoked by NATMA volunteers** — [[works/taiwaneseamericanhistory-org/ourjourneys274||TAH Our Journeys #274]] places Mackay (with 蘭大衛/連瑪玉 of 彰化基督教醫院) as the forebear of the NATMA 國際義診團 movement: the author, moved by the missionaries' example, joined 6 NATMA international free-clinic trips from 2005 (incl. 2015 Guatemala, 3,058 人次, 53 surgeries).
+- **Subject of community arts** — [[works/taiwaneseamericanhistory-org/ourjourneys277||TAH Our Journeys #277]]: the UW-Milwaukee 台灣布袋戲團 staged 《馬偕醫生的故事》at its 10th anniversary (2007), teaching Mackay's story as part of Taiwanese culture in the US.
+- **Mentor line into the church** — [[works/taiwaneseamericanhistory-org/our-journeys-392||TAH Our Journeys #392]]: 王成章牧師 (b. 1935 宜蘭)'s grandfather, 傳道師王春生, was Mackay's student — linking him to the Presbyterian families later active in North America (北美基督教協會).
+- **Vantage point in Taiwan medical history** — [[works/taiwaneseamericanhistory-org/ourjourneys291||TAH Our Journeys #291]] (黃哲陽): Mackay (north) paired with 馬雅各 (south, 1865) as the dual origin of Western medicine in Taiwan, the seedbed the later 醫師出國潮 grew from.
+- **His hospital as community venue** — [[works/taiwaneseamericanhistory-org/ourjourneys74||TAH Our Journeys #74]] / [[works/taiwaneseamericanhistory-org/ourjourneys74-eng||EN]]: the NATPA×NATMA 10th-anniversary joint meeting was held at 馬偕紀念醫院 Taipei in Aug 1990; [[works/taiwaneseamericanhistory-org/ourjourneys47||Our Journeys #47]] records 馬偕醫院 proposed as 1990 annual-meeting venue.
+- **Family memoir coverage** — [[works/taiwaneseamericanhistory-org/ourjourneys270||TAH Our Journeys #270]] discusses 馬偕家族 and early church-connected scholars who went to North America to study (林淑卿、蕭永真、劉淑媛).
+
 ## Network
 - [[people/james-laidlaw-maxwell||馬雅各]] — south, 1865; distinct person
 - [[organizations/presbyterian-church-in-taiwan||Presbyterian Church in Taiwan]]

@@ -51,6 +51,9 @@ Absorbed from this page's TAH encyclopedia entries (#366, #151) and the TAH tabl
 - Mannes College of Music (M.M. 2007, double major Cello Performance & Music Theory).
 - Dual career: software engineer at Tradeweb (2007–present) alongside cello & theory teaching at Bryn Mawr Conservatory (2003–2011).
 
+## Role in the Community（corpus sweep 2026-09-14）
+- 台美融合樂團 Hsu-Nami（以二胡為主旋律的紐約樂團，團長 Jack Hsu）2016 年同名專輯曲目〈Reincarnation〉弦樂編制中，許華洲擔任大提琴（小提琴 Jack Hsu、中提琴 Andy Lin），於 Jack Hsu 個人錄音室混入管弦編曲——見 A 級口述訪談 [[works/taiwaneseamerican-org/the-hsu-nami-new-album|《The Hsu-Nami Storm Back Again with New Album》（taiwaneseamerican.org，2016-06-27）]]。此為其在台美人音樂圈實際參與的一手記錄。
+
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

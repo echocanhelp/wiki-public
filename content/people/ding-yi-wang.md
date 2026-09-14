@@ -52,6 +52,10 @@ last_reviewed: 2026-09-14
 - **Son:** 楊元平
 
 
+## Role in the Community (deepen 09141213-16)
+- A third corpus record names him directly: [[works/taiwaneseamericanhistory-org/273-stella-chen-e9-99-b3-e5-a9-89-e7-9c-9f201502||TAH #273: Ding Yi Wang 楊定一 (2015-02)]] — a 2015-02-08 story-corpus entry titled under his own name (published URL slug still carries the preceding record's 陳婉真 filename). Bibliographic record only; HOLD: title attribution 楊定一 vs URL slug 陳婉真 — no body text archived to reconcile.
+- Corpus material beyond his own #104/#105/#421/#273 records: none. No community/memoir mentions found in content/works or content/articles.
+
 ## Connected in the Vault（deepen pass 2026-09-10）
 
 - 本頁 TAH 傳記之 vault 內出處頁：[[works/taiwaneseamericanhistory-org/104-dr-ding-i-yang-e6-a5-8a-e5-ae-9a-e4-b8-80-e5-8d-9a-e5-a3-ab-youngest-ph-d-ho||TAH #104 年21獲洛克菲勒大學生化博士]]、[[works/taiwaneseamericanhistory-org/105-dr-ding-i-yang-e6-a5-8a-e5-ae-9a-e4-b8-80-e5-8d-9a-e5-a3-ab-the-youngest-cha||TAH #105 年27出任該校史上最年輕講座主任]]。

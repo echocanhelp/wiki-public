@@ -48,6 +48,7 @@ _No filled family fields on the TAH profile._
 
 ## Notes
 - Vocational details (soloist engagements, competition prizes) are fully documented in [[works/taiwaneseamericanhistory-org/435-soprano-pauline-huey-fen-hsu-e5-be-90-e5-bd-97-e8-8a-ac-06-2019||TAH #435]]; no additional vault record found.
+- SKIP（deepen-x 09141213-18）：語料庫掃描僅命中本人書目頁 #435 與 index，回憶錄/社群文獻無提及，無可吸收之新增事實。
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

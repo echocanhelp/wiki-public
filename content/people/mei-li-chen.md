@@ -55,9 +55,14 @@ _No filled family fields on the TAH profile._
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
+## Role in the Community（corpus sweep 2026-09-14）
+- 拾音合唱團為紐澤西中部台美人合唱團，會員約三十至四十人，以介紹台灣歌曲予美國主流社會為宗旨；1995-11-25 於普林斯頓大學 Richardson Auditorium（五百人廳）舉辦售票音樂會，曲目含蕭泰然交響樂曲、江文也三首舞曲、聖樂與台灣鄉土歌謠，門票最終售罄——親身記述見 [[works/taiwaneseamericanhistory-org/12-chime-in-chorus|TAH #12 拾音合唱團紀錄（2014/11）]]、[[works/taiwaneseamericanhistory-org/photo-albums-activities-6|TAH 相簿 #6 拾音合唱團（紐澤西）]]，及 [[works/taiwaneseamericanhistory-org/ourjourneys327|TAH #327〈有賣門票的台美團體舉辦的臺灣音樂會—台灣曲之夜〉（2017/12）]]。陳玫麗 1989 年起任該團指揮（見上列 tah-tables），與此段團史相符。
+- 1998-05-09 該團於 New Brunswick, NJ 舉辦「台灣民謠演唱會」：[[works/taiwaneseamericanhistory-org/concerts18|TAH 紀錄 #18（1998-05-09 演唱會）]]。
+- 台美人新澤西社團名錄將 Chime-In Chorus 與北紐澤西台灣人長老教會、DPP 美東支部等並列為 NJ 台美人組織：[[works/taiwaneseamericanhistory-org/ourjourneys356-eng|TAH Our Journeys #356（英文版 NJ 社團章）]]。
+
 ## Vault records（deepen pass 2026-09-14）
 - 本頁兩筆 vault 出處頁同於 2015-01-19 刊、B 級書目紀錄頁：[[works/taiwaneseamericanhistory-org/117-mei-li-chen-e9-99-b3-e7-8e-ab-e9-ba-97-conductor-201501||TAH #117 發布頁]]、[[works/taiwaneseamericanhistory-org/207-mei-li-chen-e9-99-b3-e7-8e-ab-e9-ba-97-201501||TAH #207 發布頁]]（全文留原站）。
-- 傳記事實以上列正文與 tah-tables 為準（東海大學音樂系鋼琴、西敏寺合唱學院師承 Dr. J. Flummerfelt、1989 起拾音合唱團指揮、South Plainfield 衛理公會與 New Brunswick First Reformed Church 聖樂職）——無新事實。
+- 傳記事實以上列正文、tah-tables 與上列「Role in the Community」語料庫記述為準（東海大學音樂系鋼琴、西敏寺合唱學院師承 Dr. J. Flummerfelt、1989 起拾音合唱團指揮、South Plainfield 衛理公會與 New Brunswick First Reformed Church 聖樂職）。
 - 教會服務脈絡屬長老教會傳統：[[organizations/presbyterian-church-in-taiwan||PCT]]；語料庫樞紐：[[sources/taiwaneseamericanhistory-org-story-corpus||TAH story corpus]]。
 
 ## Network
