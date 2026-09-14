@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-14
 ---
 # Prof. Chih-Chung Yang (楊志忠教授)
 
@@ -17,7 +17,7 @@ last_reviewed: 2026-08-17
 - **Era:** --
 - **Geography:** Taiwan
 - **Core roles:** engineer, professor, educator
-- **Source:** TAH Foundation Who’s Who
+- **Source:** TAH Foundation Who's Who
 
 Prof. Chih-Chung Yang 楊志忠教授 – History of Taiwanese American (T.A. Archives) 台美史料中心
 
@@ -34,10 +34,14 @@ Prof. Chih-Chung Yang 楊志忠教授 – History of Taiwanese American (T.A. Ar
 
 _No filled family fields on the TAH profile._
 
+## In the vault
+- TAH's story corpus carries his encyclopedia entry, "2064. Prof. Chih-Chung Yang 楊志忠教授", published 2018-03-17 — see [[works/taiwaneseamericanhistory-org/whos-who-2064-chih-chung-yang|TAH #2064]]. His recorded path is NTU → Illinois (Ph.D. 1984) → Penn State (1984-1993) → back to NTU 光電所, i.e. a US-then-return academic career within the Taiwanese American community.
+
 ## Sources
 - [TAH #2064 encyclopedia: 2064. Prof. Chih-Chung Yang 楊志忠教授](https://taiwaneseamericanhistory.org/whos-who-2064-chih-chung-yang/)
-- [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-chih-chung-yang/)
+- [TAH Who's Who](https://taiwaneseamericanhistory.org/person/prof-chih-chung-yang/)
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- [[works/taiwaneseamericanhistory-org/whos-who-2064-chih-chung-yang|TAH #2064]]

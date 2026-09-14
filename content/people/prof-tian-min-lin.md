@@ -51,3 +51,10 @@ Visiting Professor of World Religion
 
 ## Network
 - [[organizations/presbyterian-church-in-taiwan||PCT]] — TAH Who’s Who
+- [[organizations/taiwanese-american-society-at-yale||TAS at Yale]] — Yale years (M.Div. 1964, S.T.M. 1965). 徐頌鵬's memoir of the first 美東台灣人夏令會 ([[works/taiwaneseamericanhistory-org/ourjourneys268||TAH #268]]) lists him among the divinity students / pastors he knew at Yale, and notes 林天民 was his 台大哲學系 senior.
+- Taught 回教 I, II at the 長青教室 run by [[organizations/irvine-taiwanese-presbyterian-church||ITPC]] ([[works/taiwaneseamericanhistory-org/ourjourneys107||TAH #107]])
+
+## Publications (vault records)
+- *The Life and Thought of Soren Kierkegaard* (1974) — noted by TAH as 第一本台美出版英文書: [[works/taiwaneseamericanhistory-org/183-the-life-and-thought-of-soren-kierkegaard-by-prof-timothy-tian-min-lin-e7-ac||TAH #183]]
+- 《基督教與現代世界》(1988/01, 宗教): [[works/taiwaneseamericanhistory-org/463-e5-9f-ba-e7-9d-a3-e6-95-99-e8-88-89-e7-8f-be-e4-bb-a3-e4-b8-96-e7-95-8c-e6-9||TAH #463]]
+- Profile: [[works/taiwaneseamericanhistory-org/whos-who-189-tian-min-lin||TAH #189 Who's Who entry]]
