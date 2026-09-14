@@ -62,3 +62,4 @@ _No filled family fields on the TAH profile._
 - 出處頁發布日期（vault records）：556 系條目頁發布於 2015-08-29；同一檔案另有 Violinist 版本（來源清單標為 #281，vault 檔名沿用 556 slug，兩者為同源異題）。
 - 語料庫入口：[[sources/taiwaneseamericanhistory-org-story-corpus||TAH story corpus]]。
 - 兩出處頁皆為書目記錄，無其他可吸收事實。
+- deepen-x 09141213-22：全語料庫 grep（方書敏／Amanda Shumin Yang）僅命中上述自家書目頁，無回憶錄敘述可吸收 — 本頁維持 SKIP（無可吸收社區事實）。

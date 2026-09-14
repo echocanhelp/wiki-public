@@ -52,6 +52,13 @@ _No filled family fields on the TAH profile._
 - Cornell 教職（1974–2017）與 MIT 求學期間之台籍社團以地域關聯標示，非本人成員事實。
 - National University of Singapore（2015–）無 vault 頁面，未加連結。
 
+## Role in the Community
+- 2021-05-01 — 以 **「Philip Liu, member of NATPA」** 身分連署 taiwaneseamerican.org 針對皮尤研究中心（Pew Research Center）將台灣人數據併入「中國人」分類的公開聲明《We made it count. Now tell our stories.》（「MY name My Right」行動）。此為本會語料庫所藏第一手連署名單記錄，見 [[works/taiwaneseamerican-org/pew-research-center-taiwanese-american-statement|Pew 聲明（2021-05-01）]]。
+- NATPA 為本人自述之社團歸屬（連署署名原文），非本vault機構頁記載；vault 暫無 NATPA 機構頁，故僅文字記述不另造連結。
+
 ## Deepen pass (2026-09-14)
 - 本人條目即「台美史料中心（T.A. Archives）」TAH 百科收录；vault 已有其介紹頁 [[works/taiwaneseamericanhistory-org/introduction-of-the-ta-archives||台美史料中心介紹]]（地域與史料關聯，非本人職務事實）。
 - 台大（1968 畢業）、康乃爾教職、NUS 皆無對應機構頁；新增連結僅限既有 slug。
+
+## Deepen pass (2026-09-14, slice 09141213-24)
+- 語料庫檢索命中本人為 2021 Pew 聲明連署人（NATPA 身分），已吸收至上列 Role in the Community 並連結語料頁（band A 第一手記錄）。
