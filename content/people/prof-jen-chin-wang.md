@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # Prof. Jen Chin Wang (王政卿教授)
 
@@ -49,6 +49,7 @@ Accomplishment
 
 - TAH 傳記記錄：[[works/taiwaneseamericanhistory-org/139-prof-jen-chin-wang-e7-8e-8b-e6-94-bf-e5-8d-bf-e6-95-99-e6-8e-88||TAH #139 Prof. Jen Chin Wang 王政卿教授]]（書目記錄，全文在 TAH）。
 - 任職／參與之既有組織頁：[[organizations/north-american-taiwanese-medical-association-foundation||NATMA Foundation 北美洲台灣人醫師協會基金會]]（時任董事長）、[[organizations/new-york-taiwan-center||New York Taiwan Center 紐約台灣會館]]（Taiwan Center/New York 董事）、[[organizations/global-taiwan-institute||Global Taiwan Institute (GTI)]]（共同創辦人，見上方 Timeline）。
+- 第二份百科條目工作頁：[[works/taiwaneseamericanhistory-org/whos-who-1230-jen-chin-wang||TAH #1230 Prof. Jen Chin Wang 王政卿教授]]（書目記錄，對應上方 Sources 之 #1230 連結）。NATMA 總會／紐約分會本身暫無獨立頁，職務見上方 Timeline。
 
 ## Sources
 - [TAH #139 encyclopedia: 139. Prof. Jen Chin Wang 王政卿教授](https://taiwaneseamericanhistory.org/139-prof-jen-chin-wang-%e7%8e%8b%e6%94%bf%e5%8d%bf%e6%95%99%e6%8e%88/)

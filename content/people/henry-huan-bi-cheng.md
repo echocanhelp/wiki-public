@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # Henry Huan Bi Cheng (鄭煥璧)
 
@@ -45,6 +45,7 @@ _No filled family fields on the TAH profile._
 - TAH 傳記記錄：[[works/taiwaneseamericanhistory-org/175-henry-huan-bi-cheng-e9-84-ad-e7-85-a5-e7-92-a7-201503||TAH #175 Henry Huan Bi Cheng 鄭煥璧, conductor / 2015/03]]（書目記錄，全文在 TAH）。
 - 人物專訪：[[works/taiwaneseamericanhistory-org/604-e5-90-b9-e5-8f-a3-e5-93-a8-e3-80-81-e5-90-91-e5-89-8d-e8-a1-8c-e7-9a-84-e5-9||TAH #604 吹口哨、向前行的合唱音樂家鄭煥璧／孫芝君／2006/11]] — 孫芝君 2006 年撰寫之合唱指揮生涯專訪（書目記錄）。
 - publisher／語料庫：[[organizations/tah-foundation||TAH Foundation]]、[[sources/taiwaneseamericanhistory-org-story-corpus||TAH story corpus]]。
+- 複核 2026-09-14：#175（2015/03）與 #604（2006/11，孫芝君專訪）兩份工作頁均為書目記錄，與本頁 Timeline 一致（1958–1976 榮星兒童合唱團、1976 起創辦瑞聲合唱團、近年出版四冊合唱曲、一冊獨唱曲、一冊教會音樂）。啟師盧傳信、榮星兒童合唱團等暫無獨立頁，不另新建。
 
 ## Sources
 - [TAH #175 encyclopedia: 175. Henry Huan Bi Cheng 鄭煥璧, conductor/2015/03](https://taiwaneseamericanhistory.org/175-henry-huan-bi-cheng-%e9%84%ad%e7%85%a5%e7%92%a7-201503/)

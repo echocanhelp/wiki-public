@@ -4,7 +4,7 @@ type: person
 tags:
   - 
 verification_status: published
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # Dr. Shoki Coe (黃彰輝)
 
@@ -62,3 +62,6 @@ From [[works/taiwaneseamericanhistory-org/our-journeys-350|張瑞雄牧師口述
 ## Related Pages
 - [[people/index||People Index]]
 - [[sources/good-shepherd-taiwanese-presbyterian-church||Good Shepherd Taiwanese Presbyterian Church]]
+- [[organizations/presbyterian-church-in-taiwan||Presbyterian Church in Taiwan (PCT)]] — 其戰後台灣教會教育與普世運動脈絡所屬的台灣長老教會
+- [[organizations/formosan-presbyterian-church-in-los-angeles||Formosan Presbyterian Church in Los Angeles]]（見上方 Network：該頁連結至本頁）
+- 經其培育的後輩傳道人：[[people/kao-chun-ming|高俊明]]；同學：[[people/rev-ai-chih-tsai|蔡愛智]]（詳見上方 Vault records）
