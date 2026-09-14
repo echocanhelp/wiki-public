@@ -39,6 +39,10 @@ _No filled family fields on the TAH profile._
 - [TAH #1641 encyclopedia: 1641. Prof. Chin-An Li 李勤岸教授](https://taiwaneseamericanhistory.org/whos-who-1641-chin-an-li/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-chin-an-li/)
 
+## Vault Cross-References (deepen 2026-09-14, vault-sourced)
+- [[works/taiwaneseamericanhistory-org/whos-who-1641-chin-an-li||TAH #1641 record]] — bibliographic record of the cited encyclopedia entry (2017-05-10)
+- Role note from the same TAH record, no vault org page yet: Chief Convener, World Federation of Taiwanese Mother Tongues (世界台灣母語聯盟), 2004
+
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

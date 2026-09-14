@@ -35,6 +35,16 @@ _No filled family fields on the TAH profile._
 - [TAH #365 encyclopedia: 365. Martin Tsai 蔡明峰](https://taiwaneseamericanhistory.org/whos-who-365-martin-tsai/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/martin-tsai/)
 
+## Vault Cross-References (deepen 2026-09-14, vault-sourced)
+- [[organizations/the-great-new-york-region-oversea-taiwanese-pen-club||The Greater New York Region Overseas Taiwanese Pen Club]] — President (2018)
+- [[organizations/new-york-taiwan-center||New York Taiwan Center]] — Director General
+- [[organizations/taiwanese-association-of-america-northern-new-jersey||TAA Northern New Jersey Chapter]] — President
+- [[organizations/taiwanese-association-of-america||Taiwanese Association of America]] — Greater New York Chapter president
+- [[works/taiwaneseamericanhistory-org/taiwanus-net||Taiwanus.net 台灣海外網]] — founder; vault record of the site
+- [[works/taiwaneseamericanhistory-org/ourjourneys12||Our Journeys 12 — Pen Club ten-year history]] — names 蔡明峰 as 海外台灣網 founder and former NY Taiwan Center chairman
+- [[works/taiwaneseamericanhistory-org/activities-of-the-greater-new-york-region-overseas-taiwanese-pen-club||Pen Club activities record]]
+- [[works/taiwaneseamericanhistory-org/110-martin-tsai||TAH #110 record]] · [[works/taiwaneseamericanhistory-org/whos-who-365-martin-tsai||TAH #365 record]]
+
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

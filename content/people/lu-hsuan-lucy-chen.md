@@ -40,6 +40,11 @@ _No filled family fields on the TAH profile._
 - [TAH #40 encyclopedia: 40. Lu-Hsuan Lucy Chen 陳綠萱, Soprano/2014/10](https://taiwaneseamericanhistory.org/40-lu-hsuan-lucy-chen-%e9%99%b3%e7%b6%a0%e8%90%b1-lyric-soprano/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/lu-hsuan-lucy-chen/)
 
+## Vault Cross-References (deepen 2026-09-14, vault-sourced)
+- [[works/taiwaneseamericanhistory-org/514-lu-hsuan-lucy-chen-e9-99-b3-e7-b6-a0-e8-90-b1-201507||TAH #514 record]] — bibliographic record (2015-07-25)
+- [[works/taiwaneseamericanhistory-org/40-lu-hsuan-lucy-chen-e9-99-b3-e7-b6-a0-e8-90-b1-lyric-soprano||TAH #40 record — Soprano entry]] — bibliographic record (2014-10-11)
+- Vault note: degree path per the TAH record — B.A. National Taiwan Normal University, M.M. Peabody Conservatory (Johns Hopkins), DMA University of Maryland at College Park; currently music director/organist at St. Barnabas' Episcopal Church. No vault page exists yet for any of these institutions/church.
+
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

@@ -39,6 +39,11 @@ _No filled family fields on the TAH profile._
 - [TAH #282 encyclopedia: 282. Chia-Hsuan Lee 李佳璇, Pianist / 2015/08](https://taiwaneseamericanhistory.org/282-chia-hsuan-lee-%e6%9d%8e%e4%bd%b3%e7%92%87-pianist-201508/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/chia-hsuan-lee/)
 
+## Vault Cross-References (deepen 2026-09-14, vault-sourced)
+- [[works/taiwaneseamericanhistory-org/561-chia-hsuan-lee-e6-9d-8e-e4-bd-b3-e7-92-87-201508||TAH #561 record]] — bibliographic record (2015-08-29)
+- [[works/taiwaneseamericanhistory-org/282-chia-hsuan-lee-e6-9d-8e-e4-bd-b3-e7-92-87-pianist-201508||TAH #282 record — Pianist entry]] — bibliographic record (2015-08-29)
+- Vault note: origin 彰化 (1971); the two TAH encyclopedia entries both credit her as a pianist trained through experimental music programs, active as accompanist (SooChow Univ. 1989–1993) and later M.M. piano performance, Univ. of Maryland 1997.
+
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
