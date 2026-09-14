@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # Yung-Chiao Wei (魏詠蕎)
 
@@ -24,7 +24,7 @@ last_reviewed: 2026-09-11
 <!-- tah-tables:start -->
 ## Education
 - 伊士曼音樂院 — B.S. 演奏
-- 新英格蘭音樂院 — M.S.ejmc qkhk
+- 新英格蘭音樂院 — M.S. 演奏
 
 ## Employment
 - 路易斯安納州立大學 — 音樂系低音提琴教授
@@ -52,6 +52,7 @@ _No filled family fields on the TAH profile._
 
 - [[works/taiwaneseamericanhistory-org/198-yung-chiao-wei-e9-ad-8f-e8-a9-a0-e8-95-8e-bassist-201505|TAH #198 encyclopedia]] — Yung-Chiao Wei 魏詠蕎, Bassist（2015-05 刊）
 - [[works/taiwaneseamericanhistory-org/422-yung-chiao-wei-e9-ad-8f-e8-a9-a0-e8-95-8e-201505|TAH #422 encyclopedia]] — Yung-Chiao Wei 魏詠蕎（2015-05 刊）
+- deepen pass 2026-09-14：兩條百科條目（#198 註記 Bassist、#422）均已入 vault；經文中點名的 Gary Karr、Eugene Levinson 屬外部音樂家、vault 暫無頁面，不新建；現任路易斯安納州立大學音樂系低音提琴教授一節以 #422 條目為準。
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

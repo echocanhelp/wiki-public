@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # The North America Taiwanese Students’ Association TSA-NA (北美台灣學生協會)
 
@@ -21,14 +21,11 @@ The North America Taiwanese Students’ Association (TSA-NA) is a non-profit org
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/the-north-america-taiwanese-students-association-tsa-na/)
 
-## Vault records（deepen pass 2026-09-11）
-- 同類台灣學生社團參照：[[organizations/taiwanese-student-association-tsa||Taiwanese Student Association TSA（UCSC 臺灣同學會）]]、[[organizations/emory-tsa||Emory TSA]]、[[organizations/university-of-north-carolina-at-chapel-hill-taiwanese-student-association||UNC Chapel Hill Taiwanese Student Association]]（2008 重組會長 Chung-ping Wang 即就讀該校 MBA）。
-- publisher／語料庫：[[sources/taiwaneseamericanhistory-org-story-corpus||TAH story corpus]]。
-
-## Vault records（deepen pass 2026-09-10）
-- 2008 年重組時當選新任會長的 Chung-ping Wang 就讀 UNC MBA（本頁 directory 傳記所載）；Vault 內相關章節頁面：[[organizations/university-of-north-carolina-at-chapel-hill-taiwanese-student-association||UNC Chapel Hill Taiwanese Student Association]]。
-- 同類留美台灣學生社團參照：[[organizations/emory-tsa||Emory TSA]]。
-- publisher：[[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]。
+## Vault records（deepen pass 2026-09-14）
+- 1983 年原創、於北卡州合法登記；沉寂多年後 2008 年由熱心創始人與當地台灣社團重組，時就讀 UNC Chapel Hill MBA 的 Chung-ping Wang 當選新任會長（本頁 directory 傳記所載；vault 內相關社團頁：[[organizations/university-of-north-carolina-at-chapel-hill-taiwanese-student-association||UNC Chapel Hill Taiwanese Student Association]]）。
+- 服務每年來美兩萬餘名台灣學生（多以研究生為主），推動團隊合作、領導與創業能力，並強化留美台灣學生的自我認同與社群凝聚力。
+- 同類台灣學生社團參照：[[organizations/taiwanese-student-association-tsa||Taiwanese Student Association TSA（UCSC 臺灣同學會）]]、[[organizations/emory-tsa||Emory TSA]]。
+- publisher／語料庫：[[sources/taiwaneseamericanhistory-org-story-corpus||TAH story corpus]]、[[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]。
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

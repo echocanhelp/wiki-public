@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # Wayne Lee (李家瑋)
 
@@ -46,6 +46,11 @@ _No filled family fields on the TAH profile._
 - [TAH #733 encyclopedia: 733. Wayne Lee 李家瑋 / 2015/12](https://taiwaneseamericanhistory.org/733-wayne-lee-%e6%9d%8e%e5%ae%b6%e7%91%8b-201512/)
 - [TAH #322 encyclopedia: 322. Wayne Lee 李家瑋, pianist / 2015/12](https://taiwaneseamericanhistory.org/322-wayne-lee-%e6%9d%8e%e5%ae%b6%e7%91%8b-pianist-201512/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/wayne-lee/)
+
+## Vault records（deepen pass 2026-09-14）
+- 本人 TAH 百科條目存於 vault：[[works/taiwaneseamericanhistory-org/733-wayne-lee-e6-9d-8e-e5-ae-b6-e7-91-8b-201512|TAH #733 Wayne Lee 李家瑋（2015-12 刊）]]、[[works/taiwaneseamericanhistory-org/322-wayne-lee-e6-9d-8e-e5-ae-b6-e7-91-8b-pianist-201512|TAH #322 Wayne Lee 李家瑋, pianist（2015-12 刊）]]。
+- 所属 Formosa Quartet 專輯存於 vault：[[works/taiwaneseamericanhistory-org/6-e7-a6-8f-e7-88-be-e6-91-a9-e6-b2-99-e5-9b-9b-e9-87-8d-e5-a5-8f|TAH #6 Formosa Quartet 福爾摩沙四重奏（2014-10 刊）]]；團員另見 [[people/che-yen-chen||Che-Yen Chen 陳則言]]。
+- publisher／語料庫：[[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]。
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

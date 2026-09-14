@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # Pei-Ju Wang (王培儒)
 
@@ -53,3 +53,4 @@ _No filled family fields on the TAH profile._
 
 ## Vault Cross-References
 - 本人 TAH 百科條目存於 vault：[[works/taiwaneseamericanhistory-org/265-pei-ju-wang-e7-8e-8b-e5-9f-b9-e5-84-92-violinist-201508|TAH #265 Pei-Ju Wang, Violinist（2015/08）]]、[[works/taiwaneseamericanhistory-org/531-pei-ju-wang-e7-8e-8b-e5-9f-b9-e5-84-92-201508|TAH #531 Pei-Ju Wang 王培儒（2015/08）]]。
+- deepen pass 2026-09-14：傳記所載敦化音樂國小、南門國中、師大附中、FIU（全額獎學金、2000 協奏曲比賽首獎、TA 獎學金碩士）、UMKC（全額獎學金博士）及私人教師 Robert Davidavich、Ivan Chan 於 vault 均暫無專屬頁面，不新建；生平時序全以 #265（Violinist）、#531 兩條目為準。publisher 另見 [[sources/taiwaneseamericanhistory-org-story-corpus||TAH story corpus]]。
