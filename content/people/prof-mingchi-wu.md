@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-13
+last_reviewed: 2026-09-14
 ---
 # Prof. Mingchi Wu (吳明基教授)
 
@@ -58,6 +58,11 @@ last_reviewed: 2026-09-13
 - The three TAA chapters whose presidency the on-page table records (Pittsburgh, Dallas/Fort Worth, South Florida) all sit under the parent body now linked: [[organizations/taiwanese-association-of-america||Taiwanese Association of America]].
 - His 2001–2003 FAPA national presidency remains unlinked for lack of a national-page slug; nearest vault anchors unchanged: [[organizations/fapa-los-angeles||FAPA Los Angeles]], [[organizations/fapa-orange-county||FAPA Orange County]], and the newsletter [[works/taiwaneseamericanhistory-org/14-fapa-news-by-formosan-association-for-public-affairs|TAH #14: FAPA News]].
 - Both encyclopedia copies cited on-page are disk-verified in the vault: [[works/taiwaneseamericanhistory-org/203-prof-mingchi-wu|TAH #203]], [[works/taiwaneseamericanhistory-org/whos-who-975-mingchi-wu|TAH #975]]. No new biography added beyond the on-page TAH text.
+
+## Deepen pass 2026-09-14 (vault-only)
+- He was one of only three persons (吳明基、李應元、郭榮桔) still kept on the ROC blacklist when the North American Taiwanese Professors Association first held its annual meeting in Taipei, per 朱耀源's memoir [[works/taiwaneseamericanhistory-org/ourjourneys259|TAH #259: 台灣人回國的三個階段]]; 林靜竹's account of the same meeting names him as 現任FAPA會長、NAPTA理事、台獨聯盟中央委員: [[works/taiwaneseamericanhistory-org/ourjourneys47|TAH #47: 北美洲台灣人教授協會首度回台召開年會]].
+- FAPA longtime staff 昆布勞 served under nine FAPA national chairmen including 吳明基 — independent confirmation of his national presidency: [[works/taiwaneseamericanhistory-org/ourjourneys228|TAH #228: 昆布勞與FAPA的故事 / 楊遠薰]].
+- His 1972 presidency of the Pittsburgh 台灣同鄉會 is documented from the 太平洋時報 article 「壘球風雲四十年」 in 胡民祥's chapter-history study: [[works/taiwaneseamericanhistory-org/ourjourneys292|TAH #292: 早年匹茲堡台灣同鄉會簡介與歷屆會長考證]].
 
 ## Sources
 - [TAH #203 encyclopedia: 203. Prof. Mingchi Wu 吳明基教授](https://taiwaneseamericanhistory.org/203-prof-mingchi-wu/)

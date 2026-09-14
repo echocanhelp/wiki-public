@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # Rev. R. H. Chang (張瑞雄牧師)
 
@@ -52,7 +52,8 @@ Accomplishment
 - 2019 逝世；TAH encyclopedia #142 刊紀念專輯《生命的禮讚》
 
 ## Vault Holdings
-- [[works/taiwaneseamericanhistory-org/whos-who-2227-r-h-chang|TAH #2227 Rev. R. H. Chang Who's Who]]
+- [[works/taiwaneseamericanhistory-org/whos-who-2227-r-h-chang|TAH #2227 Rev. R. H. Chang Who's Who]]（2019-11-11 發布、value band B、all-rights）
+- [[works/taiwaneseamericanhistory-org/photo-albums-activities-142|TAH #142 紀念專輯《生命的禮讚》]]（2019-11-14 發布、value band B；2019 逝世後紀念）
 
 ## Sources
 - [TAH #142 encyclopedia: 142. In Memory of Rev. R. H. Chang, 張瑞雄牧師 生命的禮讚](https://taiwaneseamericanhistory.org/photo-albums-activities-142/)
@@ -67,3 +68,7 @@ Accomplishment
 - [[organizations/formosan-presbyterian-church-in-los-angeles||FPCLA]] — TAH Who’s Who
 - [[organizations/presbyterian-church-in-taiwan||PCT]] — TAH Who’s Who
 - [[people/jonah-chang||same person as Rev. Jonah Chang 張瑞雄]]
+
+## Connected in the Vault（deepen pass 2026-09-14）
+- 1967 年協助建立的洛杉磯台教會：[[organizations/formosan-presbyterian-church-in-los-angeles||FPCLA]]（本頁 Timeline 與 Network 已連結；傳記僅斷言 Assist in the establishment）。
+- 兩篇 vault 出處頁相互印證卒年：Who's Who #2227（2019-11-11）與紀念專輯 #142《生命的禮讚》（2019-11-14）均為 2019 年 11 月發布，與本頁 Era 1932-2019 一致。

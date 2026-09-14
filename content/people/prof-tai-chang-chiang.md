@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # Prof. Tai Chang Chiang (江台章教授)
 
@@ -52,3 +52,10 @@ _No filled family fields on the TAH profile._
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - [[works/taiwaneseamericanhistory-org/whos-who-2023-tai-chang-chiang|TAH #2023 encyclopedia: Prof. Tai Chang Chiang 江台章教授]]
+
+## Connected in the Vault（deepen pass 2026-09-14）
+- 出處頁：[[works/taiwaneseamericanhistory-org/whos-who-2023-tai-chang-chiang||TAH #2023 江台章教授]]（2018-02-12 發布、value band B、all-rights；傳記全文留 vault 出處頁）。
+- 學士母校台大的校友社團：[[works/taiwaneseamericanhistory-org/sd-ntu||SD-NTU]]（台大為其 1971 物理學士母校；membership 未被 TAH 傳記斷言）。
+- 博士母校 UC Berkeley 的台裔社團：[[organizations/taiwanese-student-association-at-uc-berkeley||Taiwanese Student Association at UC Berkeley]]（membership 未被斷言）。
+- 1980–2011 任教的 UIUC 台裔社團：[[organizations/taiwanese-student-association-at-uiuc||Taiwanese Student Association at UIUC]]、[[organizations/taiwanese-american-students-club-at-uiuc||Taiwanese American Students Club at UIUC]]（逾 30 年任教；membership 未被斷言）。
+- 2010–2014 任 Synchrotron Radiation Center 科學主任期間所處的 Wisconsin 台裔社群：[[organizations/student-association-of-taiwan-uw-madison||Student Association of Taiwan @ UW-Madison]]、[[organizations/taiwanese-association-of-wisconsin||Taiwanese Association of Wisconsin]]。

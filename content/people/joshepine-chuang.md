@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # Joshepine Chuang (莊靜怡)
 
@@ -55,3 +55,8 @@ _No filled family fields on the TAH profile._
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - [[works/taiwaneseamericanhistory-org/grace-taiwanese-presbyterian-church||Grace Taiwanese Presbyterian Church]]
 - [[organizations/presbyterian-church-in-taiwan||台灣基督長老教會]] — Grace Taiwanese Presbyterian Church (where she conducts the children's choir) is in the PCT tradition
+
+## Connected in the Vault（deepen pass 2026-09-14）
+- 兩篇 TAH 傳記出處頁（[[works/taiwaneseamericanhistory-org/247-joshepine-chuang-e8-8e-8a-e9-9d-9c-e6-80-a1-201502||TAH #247 莊靜怡]]、[[works/taiwaneseamericanhistory-org/134-joshepine-chuang-e8-8e-8a-e9-9d-9c-e6-80-a1-vocalist-201502||TAH #134 莊靜怡, Vocalist]]）均為 2015-02-01 發布、value band B、all-rights；傳記全文留 vault 出處頁。
+- 碩士母校南加大（1993 教育碩士）的台裔學生社團：[[organizations/taiwanese-american-organization-at-the-university-of-southern-california||Taiwanese American Organization at USC]]、[[organizations/taiwanese-student-association-at-the-university-of-southern-california||Taiwanese Student Association at USC]]（就學年代社團 membership 未被 TAH 傳記斷言）。
+- 任教之恩惠兒童合唱團隸屬 Grace Taiwanese Presbyterian Church（北橙縣）：見 [[works/taiwaneseamericanhistory-org/grace-taiwanese-presbyterian-church||Grace Taiwanese Presbyterian Church]]（本頁 Related Pages 已連結）。

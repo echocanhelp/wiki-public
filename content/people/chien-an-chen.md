@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # Chien-An Chen (陳建安)
 
@@ -54,3 +54,9 @@ _No filled family fields on the TAH profile._
 ## Vault Holdings (deepened 2026-09-11)
 - [[works/taiwaneseamericanhistory-org/musician86||TAH musician #86: 陳建安, Cellist]]
 - [[works/taiwaneseamericanhistory-org/whoswho134||TAH Who's Who #134: 陳建安]]
+
+## Connected in the Vault（deepen pass 2026-09-14）
+- 兩篇 TAH 傳記出處頁（[[works/taiwaneseamericanhistory-org/musician86||TAH musician #86 陳建安, Cellist]]、[[works/taiwaneseamericanhistory-org/whoswho134||TAH Who's Who #134 陳建安]]）均為 2014-12-03 發布、value band B、all-rights；傳記全文留 vault 出處頁。
+- Peabody Institute 所屬的 Johns Hopkins University 台裔學生社團：[[organizations/johns-hopkins-university-taiwanese-student-association||Johns Hopkins University Taiwanese Student Association]]（membership 未被 TAH 傳記斷言）。
+- Shepherd School of Music 所屬的 Rice University 台裔社團：[[organizations/rice-taiwanese-graduate-student-association||Rice Taiwanese Graduate Student Association]]（membership 未被斷言）。
+- USC（隨 Gabor Rejto 學習、1986 任教助教）的台裔學生社團：[[organizations/taiwanese-american-organization-at-the-university-of-southern-california||Taiwanese American Organization at USC]]。

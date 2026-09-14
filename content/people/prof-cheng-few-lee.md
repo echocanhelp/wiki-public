@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-13
+last_reviewed: 2026-09-14
 ---
 # Prof. Cheng-Few Lee (李正福教授)
 
@@ -70,5 +70,5 @@ Authored the 2017 autobiography *From East to West: Memoirs of a Finance Profess
 - [[works/taiwaneseamericanhistory-org/publications1109||TAH Publications #1109: From East to West — Memoirs of a Finance Professor (自傳, 2017/01)]]
 - [[works/taiwaneseamericanhistory-org/276-e6-9d-8e-e6-ad-a3-e7-a6-8f-e8-87-aa-e8-bf-b0-e5-85-bc-e8-ab-87-e5-8f-b0-e7-8||TAH #276: 李正福自述兼談台灣與亞太地區經濟前景]]
 
-## Vault re-check 2026-09-11 (deepen-x slice 17, vault-only)
-All wikilink targets verified to exist in the vault; all cited-source facts (degrees, UIUC/Rutgers chairs, Pacific Basin conference directorship, memoirs #1109/#276/#557) already absorbed. No web used, no new pages created, nothing published.
+## Vault re-check 2026-09-14 (deepen-x slice 09140020-3, vault-only)
+All five cited encyclopedia/work records re-verified on disk: [[works/taiwaneseamericanhistory-org/70-prof-cheng-few-lee||TAH #70]], [[works/taiwaneseamericanhistory-org/whos-who-131-cheng-few-lee||TAH Who's Who #131]], [[works/taiwaneseamericanhistory-org/mystories557||My Stories #557]], [[works/taiwaneseamericanhistory-org/publications1109||Publications #1109]], [[works/taiwaneseamericanhistory-org/276-e6-9d-8e-e6-ad-a3-e7-a6-8f-e8-87-aa-e8-bf-b0-e5-85-bc-e8-ab-87-e5-8f-b0-e7-8||TAH #276]]. All on-page facts (NTU B.A. 1962 / M.A. 1966, WVU M.S. 1970, SUNY Buffalo Ph.D. 1973, UIUC 1978–1988, Rutgers Distinguished Professor 1988–, Pacific Basin conference directorship 1993–) are already absorbed above; no additional vault-internal biography found. New link added: his Rutgers tenure (1988–) overlaps with the existence of the vault's [[organizations/rutgers-taiwan-study-association||Rutgers Taiwan Study Association]] — noted as campus context only, membership NOT documented. No web used, no new pages created, nothing published.

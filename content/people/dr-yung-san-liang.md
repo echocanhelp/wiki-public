@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-13
+last_reviewed: 2026-09-14
 ---
 # Dr. Yung-San Liang (梁永三博士)
 
@@ -59,6 +59,11 @@ Accomplishment
 ## Vault records (deepen pass 2026-09-13)
 - Board service re-checked against the vault: the on-page employer name is "Taiwanese American Association of Great D.C. Areas" (2002–2003). The nearest existing vault page, [[organizations/taiwanese-association-of-america-greater-washington||TAA Greater Washington]], carries a different organization name — flagged as a candidate match only, **not merged** (name mismatch = HOLD per merge policy).
 - No additional vault-internal facts beyond the 2026-09-11 pass below; all its cited targets disk-verified.
+
+## Vault records (deepen pass 2026-09-14, slice 09140020-3)
+- All cited work records re-verified on disk (#30 / #254 / #2172, and the Washington DC Taiwanese School e-news record) — see the 2026-09-11 pass below for the links.
+- Employer/volunteer orgs checked against the vault: "Univ. of Lowell Research Foundation" and "Biomedical Research Institute" have no vault pages; "Taiwanese American Association of Great D.C. Areas" remains an unmerged name-mismatch candidate (see 09-13 note).
+- The existing Greater-D.C. cluster links below already cover his documented community sphere; no additional vault-internal biography found. No web used, no new pages created, nothing published.
 
 ## Vault records (deepen pass 2026-09-11)
 - Encyclopedia records in vault: [[works/taiwaneseamericanhistory-org/senior-taiwanese-american-30||TAH #30 Dr. Yung-San Liang (梁永三博士)]], [[works/taiwaneseamericanhistory-org/ota-254||TAH #254 Dr. Yung-San Liang 梁永三博士]], [[works/taiwaneseamericanhistory-org/whos-who-2172-yung-san-liang||TAH #2172 Dr. Yung-San Liang 梁永三博士]].

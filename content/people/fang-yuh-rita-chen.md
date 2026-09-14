@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-13
+last_reviewed: 2026-09-14
 ---
 # Fang-Yuh Rita Chen (陳芳玉)
 
@@ -55,6 +55,10 @@ Absorbed from the TAH profile above:
 - **Husband:** 郭季彥
 - **Son:** 2
 
+
+## Deepen pass 2026-09-14 (vault-only)
+- Her own essay 會館文教呈秀色 更有名琴添氣韻 (2014-08-07), describing her first performance on the 會館's renowned piano, is preserved in the vault: [[works/taiwaneseamericanhistory-org/ourjourneys3|TAH #3]].
+- 林衡哲's memoir of the 南加州臺灣人聯合基金會 records her Taiwan-composer recital at its 台灣文化之夜 with 蕭泰然: trained under piano pedagogue 雷賓 (Levine), she programmed 江文也、陳泗治、郭芝苑、許常惠、馬水龍 and 蕭泰然, plus her own folk-song arrangements (一隻鳥仔啾啾叫、恆春調、望春風、丟丟銅), and closed with a 蕭泰然–陳芳玉 duet of 「有酒矸通賣嘸」: [[works/taiwaneseamericanhistory-org/ourjourneys301|TAH #301: 南加州臺灣人聯合基金會的誔生、回顧與展望 / 林衡哲]].
 
 ## Sources
 - [TAH #5 encyclopedia: 5. Fang-Yuh Rita Chen 陳芳玉](https://taiwaneseamericanhistory.org/5-fang-yuh-rita-chen/)
