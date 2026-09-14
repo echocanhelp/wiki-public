@@ -7,9 +7,13 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # Carolyn Kuan (關琦安)
+
+## Vault record timeline
+- 2014-12-09 — TAH encyclopedia profile #151 published: [[works/taiwaneseamericanhistory-org/151-carolyn-kuan-e9-97-9c-e7-90-a6-e5-ae-89|151. Carolyn Kuan 關琦安]]; companion conductor profile: [[works/taiwaneseamericanhistory-org/105-carolyn-kuan-e9-97-9c-e7-90-a6-e5-ae-89-conductor|TAH #105 (2014/12)]]
+- Both records date from 2014/12 — inside her tenure as the 10th Music Director of the Hartford Symphony Orchestra, a post she has held since the 2011/12 season, and document the earlier posts (Seattle Symphony Orchestra Associate Conductor, Baltimore Opera Company Assistant Conductor, New York City Ballet Artist-in-Residence) and her education at Smith College, University of Illinois (M.M.), and Peabody Conservatory (Performance Diploma).
 
 ## Identity Snapshot
 - **English:** Carolyn Kuan

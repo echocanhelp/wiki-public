@@ -33,8 +33,11 @@ Prof. Frank S. T. Hsiao 蕭聖鐵教授 – History of Taiwanese American (T.A. 
 
 ## Family
 
-- **Wife:** Mei-Chu Wang Hsiao
+- **Wife:** [[people/prof-mei-chu-wang-hsiao||Prof. Mei-Chu Wang Hsiao (王美珠教授)]]
 - **Daughter:** 1; Son: 1
+
+## Vault Holdings
+- [[works/taiwaneseamericanhistory-org/whos-who-1558-frank-s-t-hsiao||TAH #1558 encyclopedia: Prof. Frank S. T. Hsiao 蕭聖鐵教授]] — full Career/Education/Employment table source for this page
 
 
 ## Timeline

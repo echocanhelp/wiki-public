@@ -7,9 +7,14 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # Chih-Chen Wei (魏志真)
+
+## Vault record timeline
+- 2014/10 — TAH encyclopedia composer profile: [[works/taiwaneseamericanhistory-org/52-chih-chen-wei-e9-ad-8f-e5-bf-97-e7-9c-9f-composer|51/52. Chih-Chen Wei 魏志真, Composer]] — contemporaneous with the 2014 Centaur release of *Viola Works By American Female Composers*, which collected her "Between Stream and Hills V – Odyssey" (recorded by violist Prof. Hsiaopei Lee and pianist Dr. Chialing Hsieh).
+- 2015-05-10 — second TAH encyclopedia record published: [[works/taiwaneseamericanhistory-org/402-chih-chen-wei-e9-ad-8f-e5-bf-97-e7-9c-9f-201505|402. Chih-Chen Wei 魏志真]]
+- The two records document her resident-composer posts — Los Angeles Chamber Singers (2002), 4th Annual Thailand International Composition Festival (2008), National Taiwan Symphony Orchestra (2010) — and her education: NTNU B.S., UCLA M.S., USC Ph.D. (Music Art); geography on her TAH profile: 台灣台中.
 
 ## Identity Snapshot
 - **English:** Chih-Chen Wei

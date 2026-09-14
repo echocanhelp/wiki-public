@@ -7,9 +7,14 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # Yung Hwa Hsu (許永華)
+
+## Vault record timeline
+- 2015-02-15 — TAH Who's Who #298 encyclopedia record published: [[works/taiwaneseamericanhistory-org/whos-who-298-yung-hwa-hsu|298. Yung Hwa Hsu 許永華]] (earlier profile: [[works/taiwaneseamericanhistory-org/170-yung-hwa-hsu|TAH #170]])
+- His papers are held by TAH as the [[works/taiwaneseamericanhistory-org/collection-of-mr-yung-hwa-hsu|Collection of Mr. Yung Hwa Hsu]]
+- Community service recorded on the two TAH profiles and [[works/taiwaneseamericanhistory-org/world-federation-of-taiwanese-associations|World Federation of Taiwanese Associations 世界台灣同鄉會]], where he served as Chief Secretary (秘書長); he was also President (理事長) of the Midwest Taiwanese Summer Conference Foundation (中西部夏令營基金會) and Co-Founder of the Professor Wen-Cheng Chen Foundation in the U.S.
 
 ## Identity Snapshot
 - **English:** Yung Hwa Hsu

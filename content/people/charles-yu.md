@@ -7,9 +7,15 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # Charles Yu (游朝凱)
+
+## Vault record timeline
+- 2012/08 — TAHS-held reviews of his fiction: [[works/taiwaneseamericanhistory-org/426-third-class-superhero-charles-yu-201208-e6-96-87-e5-ad-b8|Third Class Superhero]] · [[works/taiwaneseamericanhistory-org/425-how-to-live-safely-in-a-science-fictional-universe-charles-yu-201208|How to Live Safely in a Science Fictional Universe]] · [[works/taiwaneseamericanhistory-org/427-sorry-please-thank-you-stories-charles-yu-charles-yu-201208-e6-96-87-e5-ad-b|Sorry Please Thank You: Stories]]
+- 2015-02-05 — TAH Who's Who #264 encyclopedia record published: [[works/taiwaneseamericanhistory-org/whos-who264-charles-yu|264. Charles Yu 游朝凱]]
+- 2020/11 — TAH #768 reports his National Book Award win (「台美人之光」): [[works/taiwaneseamericanhistory-org/my-stories-768|768. 游朝凱榮獲國家圖書奬]]
+- 2021-02-11 — TAHS notice: after the win he established the Betty L. Yu and Jin C. Yu Creative Writing Prizes for young Taiwanese American writers (named for his parents): [[works/taiwaneseamerican-org/national-book-award-winner-charles-yu-establishes-prize-for-young-taiwanese-amer|TAHS notice]] · [[works/taiwaneseamericanhistory-org/awards-93|TAH #93]]
 
 ## Identity Snapshot
 - **English:** Charles Yu

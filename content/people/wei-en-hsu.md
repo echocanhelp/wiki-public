@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # Wei-En Hsu (徐惟恩)
 
@@ -61,3 +61,9 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- [[works/taiwaneseamericanhistory-org/whoswho509||TAH #509 (2015/07)]] — earliest TAH entry; Juilliard years, Royal Academy exchange
+- [[works/taiwaneseamericanhistory-org/musician348||TAH #348 (2016/07)]] — later entry; Pocket Opera, HKAPA, Vital Opera posts
+
+## Name note
+The earlier TAH entry [[works/taiwaneseamericanhistory-org/249-wei-en-hsu-e5-be-90-e7-b6-ad-e6-81-a9pianonist-201507||TAH #249 (2015/07)]] renders his name 徐維恩, versus 徐惟恩 in #509/#348 and on this page. Treat the spelling as unresolved (HOLD).
+
