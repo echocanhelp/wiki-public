@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # Mao-Sheng Chen (陳茂生)
 
@@ -50,6 +50,7 @@ Chen Mao-sheng, born in 1942 in Hsinchu, Taiwan, is a church musician and organi
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- [[organizations/presbyterian-church-in-taiwan||Presbyterian Church in Taiwan]] — the church-music milieu of his Hsinchu upbringing and his decades directing music at 台灣神學院
 - [[works/taiwaneseamericanhistory-org/567-chen-mao-sheng-e9-99-b3-e8-8c-82-e7-94-9f-2201509|TAH #567 encyclopedia entry]]
 - [[works/taiwaneseamericanhistory-org/284-e9-99-b3-e8-8c-82-e7-94-9f-organist-201509|TAH #284 — Organist entry]]
 

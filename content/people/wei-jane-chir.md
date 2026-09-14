@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # Wei Jane Chir (池農深)
 
@@ -60,3 +60,4 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- [[organizations/san-francisco-taiwanese-association||San Francisco Taiwanese Association]] — Taiwanese community in the Bay Area during her San Francisco State years (1983–1995)

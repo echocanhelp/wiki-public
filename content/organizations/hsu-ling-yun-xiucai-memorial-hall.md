@@ -9,7 +9,7 @@ tags:
   - memorial
   - cultural-heritage
 verification_status: verified
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 
 # Hsu Ling-yun Xiucai Memorial Hall (許凌雲秀才紀念館)

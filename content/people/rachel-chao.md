@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # Rachel Chao (趙亦秋)
 
@@ -54,3 +54,6 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- [[organizations/rice-taiwanese-association||Rice Taiwanese Association]] and [[organizations/rice-taiwanese-graduate-student-association||Rice Taiwanese Graduate Student Association]] — Taiwanese community at Rice University, where she serves as staff pianist
+- [[organizations/taiwanese-american-students-association-of-northwestern-university||TA Taiwanese Students Association of Northwestern University]] — Taiwanese student community at her M.S./Ph.D. alma mater
+- [[organizations/taiwanese-student-association-at-arizona-state-university||Taiwanese Student Association at Arizona State]] — Taiwanese student community at her B.S. alma mater
