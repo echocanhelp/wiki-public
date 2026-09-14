@@ -41,6 +41,13 @@ May-Sing studied music in college, and had a lot of concert experience since gra
 - Taiwan Center / N. CA — Director — Taiwan Provincial Symphony Orchestra — Member — Taipei First Girls' High School (北一女) — Music Teacher — Community — North American Taiwanese Women's Association (NATWA) — Invited performer at conventions
 <!-- tah-tables:end -->
 
+## Role in the Community
+
+From her own memoirs in the corpus:
+
+- In [[works/taiwaneseamericanhistory-org/ourjourneys53|TAH Our Journeys #53 台灣會館美夢成真 (黃美星)]] she recounts moving from Oklahoma to the Bay Area in 1988 amid the Taiwanese民主運動 — her home hosted dozens of 鄉親 weekly for meetings — and, with husband 張信行, co-founding 北加州台美人第一間公厝「台灣會館」 in Fremont in March 2003 alongside 陳德輝、邱俊邦、林典謨、翁嘉盛、石清正、施天墩、陳光博、李華林、張祿生 (2,800 sq ft). See [[organizations/taiwan-center|Taiwan Center]].
+- In [[works/taiwaneseamericanhistory-org/ourjourneys301|TAH Our Journeys #301]] (TUF 台灣文化之夜 history): at the 1989 台灣文化之夜 she gave a 女高音 solo as an 奧克拉荷馬大學音樂碩士, alongside the 北美文協室內樂團 and the world premiere of 蕭泰然's violin concerto — the concert that opened the 1990s wave of Bay Area 台灣文化活動 also recalled in [[works/taiwaneseamericanhistory-org/ourjourneys38|Our Journeys #38]].
+
 ## Family
 
 - **Husband:** [[people/dr-shinn-sheng-chang||張信行醫師 (Dr. Shinn-Sheng Chang)]] — both were key promoters of the Taiwan Center: [[works/taiwaneseamericanhistory-org/mystories21||TAH #21: 張信行、黃美星 台灣會館主要推手 (楊寧茵, 2014/09)]]; see also [[organizations/taiwan-center||Taiwan Center]]

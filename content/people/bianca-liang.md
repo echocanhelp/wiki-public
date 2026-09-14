@@ -43,6 +43,11 @@ Born in the United States, grow up in Taiwan, Bianca Liang started her musical t
 - 2012 — M.M. in piano performance, Indiana University – Bloomington, Jacobs School of Music (mentor: Prof. Evelyne Brancart), on scholarship.
 - Profession: 鋼琴教師 (piano teacher).
 
+## Role in the Community (deepen-x 2026-09-14, corpus-absorbed)
+
+- **2015/04 — 明州「台灣之愛：鄉愁與四季」室內樂音樂會 (Roseville Lutheran Church, Minnesota).** 梁沁茵 was one of three pianists (with 王騰寬 and [[people/julia-huang|黃馨儀]]) among the 15 Taiwanese and American musicians in the concert organized by 台灣線上圖書館 (TOliB, www.tolib.org), music director 鄭光生. The program opened with works by the late [[people/tyzen-hsiao|蕭泰然]] as a memorial; [[people/karen-lin|林璇雯]] and [[people/te-chiang-bacco-liu|劉德強]] led the string sections and [[people/yi-ming-chen|陳怡名]] played viola/violin. About 350 attendees heard the concert, whose stated aim was to honor the Taiwanese American journey — "不忘本，並在新家園展望未來與服務社區". Reported by 陳曼玲, archived at [[works/taiwaneseamericanhistory-org/ourjourneys128|TAH ourjourneys #128 (台美人顧台灣 19)]].
+- This places her US performance activity in the Taiwanese American community circuit (Minnesota, 2015), alongside the TAH #156/#317 press-kit profile already on this page.
+
 ## Source Notes
 - Deepen pass 2026-09-14: the timeline above is synthesized solely from the page's own TAH tables and the cited TAH #156 / #317 records (no web used); both vault copies are bibliographic stubs.
 - No vault pages exist for the music magnet school, Univ. of Minnesota, IU Jacobs School, Dr. Paul Shaw, Prof. Evelyne Brancart, or either scholarship, so no further wikilinks were added; university TSA/association pages exist but her membership is not stated in the sources, so they are not linked.

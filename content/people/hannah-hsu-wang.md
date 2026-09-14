@@ -55,3 +55,4 @@ _No filled family fields on the TAH profile._
 - Vault record of the chapter she chaired: [[works/taiwaneseamericanhistory-org/natwa-new-york-chapter|NATWA New York Chapter record]]
 
 Deepen pass 2026-09-14: re-checked against the cited TAH records (#161, #555, #62) and concert/recital records (#4, #131, #143) already linked on this page; all in-vault facts are reflected above. No further absorbable facts (no web used); no new pages — no vault org pages exist yet for New England Conservatory, Yale, 東吳大學, 師範大學, or 中國文化學院.
+SKIP note (deepen-x 09141300-16, 2026-09-14): corpus grep over content/works + content/articles returned only her own bibliographic records (#4, #62, #131, #143, #161, #555), already linked above — no memoir/press material with new community facts to absorb.

@@ -41,6 +41,13 @@ Since winning the First Prize of the prestigious Queen Elisabeth International C
 - BBC Music Magazine praised him as "an awesomely capable performer whose technical facility, musical intelligence and unfaltering verve place him among the higher echelons of today's string virtuosi"
 - Invited as jury member of the Queen Elisabeth Competition (Brussels) and the Seoul Violin Competition
 
+## Role in the Community
+
+- Childhood training in Taiwan: as told in [[works/taiwaneseamericanhistory-org/ourjourneys287|TAH Our Journeys #287 (2015 美西夏令會 / 善友樂團第二代)]], 胡乃元 (like 林昭亮) trained as a boy in the **3B Youth Orchestra** in Tainan, founded by 鄭昭明 after the amateur 善友管弦樂團 dissolved in 1960 — a direct line from a post-war southern-Taiwan amateur orchestra to two international soloists.
+- First artist of the 台灣人聯合基金會's 「台灣名家演奏系列」: in 1992, sponsored by [[people/wu-lipei|吳澧培]], his violin recital opened the series in LA, which over the years brought 林昭亮、陳慕融、蘇顯達、陳泰成、陳毓襄、葉綠娜、陳麗嬋、曾道雄 and others to US stages, catalysed three 蕭泰然 concertos, and led to the 1997 228紀念音樂會 — [[works/taiwaneseamericanhistory-org/ourjourneys294|TAH Our Journeys #294 (TUF 三十年)]]; the series is also recalled in [[works/taiwaneseamericanhistory-org/ourjourneys287|Our Journeys #287]]. See [[organizations/taiwanese-united-fund|Taiwanese United Fund]].
+- Bay Area: invited by the 19th 北加州台灣同鄉聯合會 to perform at Stanford on 1992-02-08 under president 吳啓昌 — [[works/taiwaneseamericanhistory-org/ourjourneys38|TAH Our Journeys #38 北加州台灣同鄉聯合會三十年回顧]].
+- Dedicated community-biography records in the vault: [[works/taiwaneseamericanhistory-org/mystories478|TAH #478 第一位贏得伊莉莎白皇后大賽的台灣小提琴家胡乃元（1961-）/ 林衡哲 / 2016-11]] and [[works/taiwaneseamericanhistory-org/publications1055|TAH #1055 弓在弦上：胡乃元與Taiwan Connection的故事 / 吳錦勳 / 2014-11]].
+
 ## Family
 
 _No filled family fields on the TAH profile._
