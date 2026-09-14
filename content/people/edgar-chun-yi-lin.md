@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # Prof. Jun-Yi Lin (林俊義教授)
 
@@ -72,4 +72,10 @@ The TAH archive carries this person under both romanizations — Edgar (TAH #174
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- [[sources/taiwaneseamericanhistory-org-story-corpus||TAH story corpus hub]]
 - [[works/taiwaneseamericanhistory-org/255-e6-9e-97-e4-bf-8a-e7-be-a9-e6-95-99-e6-8e-88-e5-8f-b0-e7-81-a3-e7-92-b0-e4-b||TAH #255 — 林俊義教授 / 台灣環保之父]]
+
+## Deepen pass 2026-09-14 (vault-only)
+- Graduate-school network: his M.S./Ph.D. years at Indiana Univ. place him in the same cohort space as the [[organizations/taiwanese-association-of-indiana||Taiwanese Association of Indiana]]; a recorded associate from that network is [[people/irwin-chu||Prof. Irwin Chu 朱耀源博士]], also an Indiana Univ. alumnus.
+- Environmental record: as Director of the EPA (2000-2001), titled 台灣環保之父 in [[works/taiwaneseamericanhistory-org/174-prof-edgar-lin||TAH #174]] and [[works/taiwaneseamericanhistory-org/publication-501||his own memoir 活出淋漓盡致的生命 (2014-10)]], he overlaps with the movement held in the vault as [[organizations/taiwan-environmental-action-network-tean||Taiwan Environmental Action Network (TEAN)]].
+- No further biography exists in the vault source set; deepened via cross-links only.

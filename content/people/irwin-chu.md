@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # Prof. Irwin Chu (朱耀源博士)
 
@@ -66,3 +66,5 @@ Absorbed from his TAH records (#17, #87, #99, #284) already in the vault:
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- [[sources/taiwaneseamericanhistory-org-story-corpus||TAH story corpus hub]]
+- Graduate-school peer: [[people/edgar-chun-yi-lin||Prof. Jun-Yi (Edgar) Lin 林俊義教授]] — also took his M.S./Ph.D. at Indiana Univ. and appears in the [[organizations/taiwanese-association-of-indiana||Taiwanese Association of Indiana]] network

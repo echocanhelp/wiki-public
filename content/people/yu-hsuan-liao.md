@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # Yu-Hsuan Liao (廖又萱)
 
@@ -59,3 +59,9 @@ _No filled family fields on the TAH profile._
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - [[people/lynn-huang||Lynn Huang (黃令先)]] — fellow TAH Who's Who Taiwanese-American pianist/composer
+- Corpus hub: [[sources/taiwaneseamericanhistory-org-story-corpus||TAH story corpus hub]]
+
+## Deepen pass 2026-09-14 (vault-only)
+- Her two vault records — [[works/taiwaneseamericanhistory-org/musician-35||TAH #35, Pianist (2014-10)]] and [[works/taiwaneseamericanhistory-org/whoswho-441||TAH #441 (2015-06)]] — are both within the [[sources/taiwaneseamericanhistory-org-story-corpus||TAH story corpus]].
+- Education trail 台中東海大學 → Austin (UT Austin) places her studies alongside the [[organizations/taiwanese-association-of-indiana||Taiwanese Association of Indiana]] generation only by coincidence of region; no Indiana tie is recorded in her sources.
+- No new biographical facts found in the vault beyond the timeline already on this page; page deepened via cross-links only.

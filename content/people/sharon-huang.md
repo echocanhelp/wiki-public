@@ -7,7 +7,7 @@ tags:
   - Taiwan-Center
   - board
 verification_status: published
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # Sharon Huang (黃馨瑤)
 
@@ -92,3 +92,4 @@ last_reviewed: 2026-09-11
 
 - **Do not confuse with** [[works/taiwaneseamericanhistory-org/22-sharon-huang||TAH #22 黃曉雯 Sharon Huang (2014 essay byline)]] — a different Sharon Huang; her own record is the TAH Who's Who person entry ([[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]).
 - Reciprocally linked from the mirrored Taiwan Center board cohort pages, including [[people/joseph-teng||Joseph Teng (曾英銘)]] and [[people/shi-yuli||Shi Yuli (施郁麗)]]. No further biography exists in the vault source set.
+- Her TAH Who's Who record sits in the [[sources/taiwaneseamericanhistory-org-story-corpus||TAH story corpus]]; do not confuse it with the essay-byline [[works/taiwaneseamericanhistory-org/22-sharon-huang||TAH #22 黃曉雯 Sharon Huang (2014)]].
