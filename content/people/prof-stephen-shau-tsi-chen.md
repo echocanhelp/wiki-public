@@ -40,7 +40,7 @@ Prof. Stephen Shau-tsi Chen 陳紹紀教授 – History of Taiwanese American (T
 
 - **西雅圖台灣會館**：2003-04，陳紹紀與劉真真夫婦和林正南與陳淳美夫婦共同出資買下台灣會館預定地；自策劃到出錢出力，會館於 2004-02-28 正式啟用。王虹妮記：「打乒乓球找陳紹紀醫師，絕對不會失望！」劉真真出任首任館長。見 [[works/taiwaneseamericanhistory-org/ourjourneys30|30. 西雅圖台灣會館（王虹妮 2014/09，摘 西雅圖台灣會館創刊號 2005/03）]]。此與 TAH 表欄「Seattle Taiwanese Center — Co-founder」互為印證。
 - **建國運動連署**：周烒明回憶威大台灣學生與台灣建國運動，記結盟大會當天未能與會、但以書信發表意見和關心者中有「西雅圖的陳紹紀」（同列有紐約陳伯山、馬利蘭鄭自才、加州王秋森等）；敘事脈絡在 UFAI 1966-07-04 成立前後 — HOLD: 回憶錄未明載該大會年月，不逕併 1966。見 [[works/taiwaneseamericanhistory-org/ourjourneys81|81. 早期威大台灣學生在台灣建國運動所扮演的角色（周烒明起稿 2014/12）]]。
-- **基督徒夏令會**：謝伯芳懷憶六十年代前期明尼蘇達（Madison, WI）台灣學生祈禱查經會：第一次靈修會於 Wisconsin Dells 露營，「劉真真，陳紹紀，鄭學禮等由 Madison 辛苦籌備」，其後數年在中西部各州續辦「基督徒夏令會」。見 [[works/taiwaneseamericanhistory-org/ourjourneys-369|369. 懷憶六十年代前期的明市（謝伯芳 2021/03）]]。（HOLD: 該文以「明市」指 Wisconsin Madison，與本頁 Geography 雲林→美國中西部路徑吻合，惟年份僅云六十年代前期。）
+- **基督徒夏令會**：謝伯芳懷憶六十年代前期「明市」（Madison, WI）台灣學生祈禱查經會：第一次靈修會於 Wisconsin Dells 露營，「劉真真，陳紹紀，鄭學禮等由 Madison 辛苦籌備」，其後數年在中西部各州續辦「基督徒夏令會」。見 [[works/taiwaneseamericanhistory-org/ourjourneys-369|369. 懷憶六十年代前期的明市（謝伯芳 2021/03）]]。（HOLD: 該文以「明市」指 Wisconsin Madison，與本頁 Geography 雲林→美國中西部路徑吻合，惟年份僅云六十年代前期。）
 - **本人撰文**：vault 收其親筆兩篇 — [[works/taiwaneseamericanhistory-org/mystories108|108. 輕小的乒乓球予人眾多的歡樂（陳紹紀，2014）]]（台灣會館乒乓球生活）與 [[works/taiwaneseamericanhistory-org/my-stories-774|774. 劉清風 第一位台灣人獲美醫學博士（陳紹紀 2020/12）]]，後者顯示其以醫史寫作延續台美人紀錄。
 
 ## Sources
