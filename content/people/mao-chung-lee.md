@@ -60,3 +60,7 @@ _No filled family fields on the TAH profile._
 ## Deepen — 2026-09-13 (vault-only)
 
 Both cited TAH encyclopedia records exist in the vault and are wikilinked above ([[works/taiwaneseamericanhistory-org/whoswho1021||#1021]] and [[works/taiwaneseamericanhistory-org/33-e6-9d-8e-e8-8c-82-e5-ae-97lee-mao-chung-201503||#33]]); both are bibliographic records only ("full text stays in the vault") — no additional absorbable facts beyond the page's own TAH tables, which already carry the full 1940–2003 timeline (Miaoli birth, NTUA/NSR training, teaching posts, US ceramics career, 純青窯 studio, 2003 Ching-Shuei public artwork) and the five authored books.
+
+## Deepen-x 2026-09-14 (vault-only)
+
+Re-check: all Related Pages wikilinks (TAH #1021, TAH #33, TAHS, story corpus hub) resolve to existing vault pages. TAH tables already carry the complete absorbable record; no new vault facts, no web, no new pages.

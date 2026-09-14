@@ -63,3 +63,7 @@ Synthesized from the TAH profile text above and the employment record below (no 
 - [[people/ya-fei-chuang||Ya-Fei Chuang]] — fellow duo partner of her husband James Buswell
 - [[people/carol-ou-lin||Carol Ou Lin (歐春美) — different person]]
 - Archival records in the vault: [[works/taiwaneseamericanhistory-org/12-prof-carol-ou|TAH #12]] · [[works/taiwaneseamericanhistory-org/whos-who-570-carol-ou|TAH #570]] · [[works/taiwaneseamericanhistory-org/musician58-carol-ou|TAH #58, Cellist]]
+
+## Deepen-x 2026-09-14 (vault-only)
+
+Re-check: all vault-internal links (ya-fei-chuang, carol-ou-lin, pei-shan-lee, TAH #12/#570/musician58 records) resolve to existing pages. Gordon College, New England Conservatory, Heifetz Institute, Carpe Diem String Quartet, and Marlboro Music Festival have no vault pages, so they stay plain text. No new vault facts, no web, no new pages.
