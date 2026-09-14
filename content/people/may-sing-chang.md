@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # May-Sing Chang (黃美星)
 
@@ -42,7 +42,8 @@ May-Sing studied music in college, and had a lot of concert experience since gra
 
 ## Family
 
-- **Husband:** 張信行 — both were key promoters of the Taiwan Center: [[works/taiwaneseamericanhistory-org/mystories21||TAH #21: 張信行、黃美星 台灣會館主要推手 (楊寧茵, 2014/09)]]; see also [[organizations/taiwan-center||Taiwan Center]]
+- **Husband:** [[people/dr-shinn-sheng-chang||張信行醫師 (Dr. Shinn-Sheng Chang)]] — both were key promoters of the Taiwan Center: [[works/taiwaneseamericanhistory-org/mystories21||TAH #21: 張信行、黃美星 台灣會館主要推手 (楊寧茵, 2014/09)]]; see also [[organizations/taiwan-center||Taiwan Center]]
+- **Daughter:** [[people/gloria-chang||Gloria Chang]] — her page lists 父親 張信行、母親 黃美星, corroborating this family link (absorbed from the vault page, 2026-09-14)
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

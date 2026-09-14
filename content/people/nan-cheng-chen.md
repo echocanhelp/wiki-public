@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # Nan-Cheng Chen (陳南呈)
 
@@ -49,6 +49,7 @@ Absorbed from the profile text, Employment table, and cited TAH encyclopedia ent
 ## Connected in the Vault
 - Absorbed 2026-09-10: the vault holds two fellow New Asia Chamber Music Society (NACMS) principals as person pages — [[people/dr-wei-yang-andy-lin||Dr. Wei-Yang Andy Lin 林威良]] (NACMS co-founder and Artistic Director) and [[people/kevin-shue||Kevin Shue]] (NACMS founding member and Director of Education and Community Engagement). No standalone organization page exists yet for NACMS 新亞室內樂協會; the cited TAH pages remain the anchors.
 - Deepen 2026-09-11: those two pages independently record the same NACMS founding roles in their TAH Employment tables, corroborating this page; the #516/#32 vault work records are bibliographic-only (Band B), so no further text was absorbable in-vault.
+- Deepen 2026-09-14 (vault-only): re-checked #516/#32 vault records and both NACMS colleague pages — no new absorbable facts; page already carries all vault-attested links.
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

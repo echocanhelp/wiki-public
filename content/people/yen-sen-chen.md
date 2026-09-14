@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # Yen-Sen Chen (陳彥升)
 
@@ -72,3 +72,4 @@ Married to [[people/t-y-ko||柯翠園]].
 - Same-domain diaspora association in the vault corpus: [[organizations/taiwanese-american-aeronautics-and-space-association||Taiwanese American Aeronautics and Space Association]] (aerospace field context only — no documented membership on this page).
 - Family: wife [[people/t-y-ko||柯翠園]].
 - Geography-context pages in the vault corpus: [[organizations/taiwanese-association-of-greater-kansas-city-takc||TAKC Greater Kansas City]] (University of Kansas years) and [[organizations/taiwanese-association-of-alabama-birmingham||Taiwanese Association of Alabama Birmingham]] (Alabama 1990–1998) — context only, no documented membership.
+- Deepen 2026-09-14 (vault-only): re-checked all cited vault records (#512, #1410) and the spouse page [[people/t-y-ko||柯翠園]] — every wikilink target verified present on disk; no new absorbable facts beyond the tables above.

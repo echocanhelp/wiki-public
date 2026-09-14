@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # Dr. Tai-Cheng Chen (陳泰成博士)
 
@@ -57,6 +57,9 @@ Absorbed from the TAH profile above:
 Two further TAH story-corpus entries exist in the vault:
 - [[works/taiwaneseamericanhistory-org/76-tai-cheng-chen-e9-99-b3-e6-b3-b0-e6-88-90-pianist||TAH #76 — Tai-Cheng Chen 陳泰成, Pianist]] (2014/11)
 - [[works/taiwaneseamericanhistory-org/ourjourneys287||Our Journeys #287 — 台南善友樂團之後代首次在夏令會聚會]] lists 陳泰成 among the musicians present.
+- Second encyclopedia record: [[works/taiwaneseamericanhistory-org/111-dr-tai-chin-chen-e9-99-b3-e6-b3-b0-e6-88-90-e5-8d-9a-e5-a3-ab-the-first-ph-d||TAH #111 — Dr. Tai Chin Chen 陳泰成博士, The First Ph.D. Holder in Music from Juilliard (1984)]] — corroborates the Juilliard D.M.A. and 1987–2012 國立台北藝術大學 professorship in the tables above.
+
+Deepen 2026-09-14 (vault-only): no new biographical facts beyond the absorbed TAH #99/#111 text; cross-link to the #111 vault record added.
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
