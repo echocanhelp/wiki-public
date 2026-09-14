@@ -8,7 +8,7 @@ tags:
   - democracy
   - indigenous
 verification_status: verified
-last_reviewed: 2026-09-13
+last_reviewed: 2026-09-14
 website: https://www.pct.org.tw/
 ---
 
@@ -272,6 +272,13 @@ Listing harvested **2026-08-18** from [news_pct.aspx](https://www.pct.org.tw/new
 | 2026-05-15 | [宋信喜等十位牧師退休公告](https://www.pct.org.tw/news_pct.aspx?strBlockID=B00006&strContentid=C2026051500004&strDesc=Y) |
 
 English listing (older / ILT-focused): [enNews_pct.aspx](https://english.pct.org.tw/enNews_pct.aspx).
+
+## Role in the Community (corpus links)
+
+- 語料庫收有多篇北美台灣基督長老教會系教會之紀錄，為 PCT diaspora 網絡的一環：[[works/taiwaneseamericanhistory-org/taiwanese-presbyterian-church-of-dallas|達拉斯台灣基督長老教會]]、[[works/taiwaneseamericanhistory-org/louisville-taiwanese-presbyterian-church|路城台灣基督長老教會]]、[[works/taiwaneseamericanhistory-org/taiwan-presbyterian-church-tpc-of-greater-chicago|芝城台灣基督長老教會]]
+- [[works/taiwaneseamericanhistory-org/182-e6-b4-9b-e6-9d-89-e7-a3-af-e5-8f-b0-e7-81-a3-e5-9f-ba-e7-9d-a3-e9-95-b7-e8-8|TAH #182 洛杉磯台灣基督長老教會三十週年紀念特刊（2000-09）]] — PCT 之名冠名的洛杉磯教會特刊
+- 語料庫 Our Journeys 研究文（[[works/taiwaneseamericanhistory-org/our-journeys-350|TAH #350]]）援引黃武東《北美洲台灣基督教會開拓史》（北美教協，1986）為海外台灣教會基本文獻，並記 1984 年灣區第一基督長老教會由 PCT 應聘來美的紀彰龢牧師開拓 — PCT 向北美輸出宣教師的實例
+- 注意：北美 TPC 系教會（GSTPC/ITPC/FPCLA 等）多屬 PC(USA)/UPCUSA 系統，為 PCT **傳承**而非 PCT 直屬會堂（見 Related Organizations）
 
 ## Related Pages
 

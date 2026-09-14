@@ -37,6 +37,15 @@ last_reviewed: 2026-09-14
 - 活躍於台灣及美國演出；曾於 Constance Keene、David Dubal、Horacio Guiterrez 等大師班示範演出
 - 室內樂經驗豐富，師事 Peter Winograd、Junie Cho、Timothy Deighton、Timothy Hester
 
+## Role in the Community
+
+TAH Foundation 對她的記錄以兩筆人物百科條目存於本庫語料，均為書目級記錄（全文留存於 TAH vault），未含生平新增事實：
+
+- [[works/taiwaneseamericanhistory-org/253-e6-9d-9c-e5-ae-9b-e7-8f-8a-ef-bc-8cpianist-201508|TAH #253. Wan-Shan Du 杜宛珊，Pianist / 2015/08]]
+- [[works/taiwaneseamericanhistory-org/522-e6-9d-9c-e5-ae-9b-e7-8f-8a-201508|TAH #522. 杜宛珊 / 2015/08]]
+
+與既有 TAH 來源一致，無衝突需 HOLD。
+
 ## Family
 
 _No filled family fields on the TAH profile._

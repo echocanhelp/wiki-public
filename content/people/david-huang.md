@@ -11,7 +11,7 @@ tags:
   - tah-whos-who
   - Presbyterian
 verification_status: pending
-last_reviewed: 2026-09-09
+last_reviewed: 2026-09-14
 ---
 # Rev. David Huang (黃德利)
 
@@ -55,6 +55,11 @@ Current GSTPC pastor is [[people/mingyuan-hsu||Rev. Mingyuan Hsu (許明遠)]], 
 - **2024** — NTPC 50th 紀念特刊 總編輯 (invitation PDF; book **not** on the public web)
 - **2025-05** — NTPC 51st panel, Houston 恩惠 (TCNN)
 - **2025** — Named in the [[sources/toward-a-community-of-hope||Toward A Community of Hope]] republication preface cluster
+
+## Role in the Community
+
+- 語料庫收有其本人 TAH 百科條目：[[works/taiwaneseamericanhistory-org/whos-who-2132-david-huang|TAH #2132 Rev. David Huang 黃德利牧師]]（2018-06-14 入庫，與陳宏文 #2133、許錦銘 #2131 同期收錄）
+- 語料庫 Our Journeys TACL 創會回憶錄中出現的「Mao-ching David Huang」為黃茂清，非本人（見上方同名提示）；taiwanjustice 新聞存檔中的立委「黃國書」亦同名異人
 
 ## GSTPC40 essay《那些人，那些事》(2021)
 
