@@ -43,7 +43,7 @@ Andrew Yang is an American entrepreneur, author, and politician born on January 
 ## Family
 
 - **Wife:** Evelyn Yang
-- **Father:** 楊界雄
+- **Father:** [[people/dr-kei-hsiung-yang||Dr. Kei-Hsiung Yang (楊界雄)]]
 - **Mother:** [[people/nancy-yang||陳玲銖]]
 
 
@@ -70,3 +70,7 @@ TAH records held in this vault:
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - [[organizations/brown-taiwan-society||Brown Taiwan Society]] (context only — his Brown B.A. is listed in the table above; membership is not stated in his TAH profile)
 - [[organizations/columbia-university-taiwanese-student-association||Columbia Taiwanese Student Association]] (context only — his Columbia J.D. is listed; membership is not stated)
+
+## Vault deepening note (2026-09-14, vault-only, slice 09140107-11)
+- Father entry now wikilinked to [[people/dr-kei-hsiung-yang||Dr. Kei-Hsiung Yang (楊界雄)]] — his page's Son entry verified on disk (reciprocal).
+- No vault pages exist for Evelyn Yang, Brown University, Columbia Law School, Venture for America, or the Forward Party; tah-tables content is already mirrored in the Timeline. No other existing-slug links apply.

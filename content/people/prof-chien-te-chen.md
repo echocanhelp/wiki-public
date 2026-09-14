@@ -42,8 +42,18 @@ _No filled family fields on the TAH profile._
 
 ## Vault Holdings
 His TAH Who's Who record is held in the vault as community historical record:
-- [[works/taiwaneseamericanhistory-org/whos-who-1791-chien-te-chen|TAH #1791 — Prof. Chien-Te Chen 陳建德教授]]
+- [[works/taiwaneseamericanhistory-org/whos-who-1791-chien-te-chen|TAH #1791 — Prof. Chien-Te Chen 陳建德教授]] (published 2017-07-27, value band B)
+
+## Timeline (absorbed from TAH tables above, vault-only)
+- **1953** — Born in Kaohsiung, Taiwan.
+- **1976 / 1980** — B.S. and M.S. in Physics, National Taiwan Univ.
+- **1985** — Ph.D. in Physics, Univ. of Pennsylvania; joined AT&T Bell Labs as Experimental Physicist, Member of Technical Staff (1985–1995).
+- **1995** — Returned to Taiwan as Deputy Director and Scientist, National Synchrotron Radiation Research Center; became Director and Distinguished Scientist from 1997.
+- **1998–2006 / 1999–** — Adjunct Professor of Physics at National Taiwan Univ. and National Chung-Cheng Univ.
+- **2010–2014** — Director General, Taiwan Photon Source synchrotron construction project.
 
 ## Related Pages
-- [[organizations/tah-foundation||TAH Foundation]]
+- [[organizations/tah-foundation||TAH Foundation]] — publisher of the Who's Who record
+- [[organizations/taiwanese-american-historical-society||TAHS]]
+- [[organizations/taiwanese-american-science-and-technology-association-tasta||TASTA]] — Taiwanese-American scientist community
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

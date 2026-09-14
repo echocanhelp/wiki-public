@@ -88,3 +88,5 @@ Pages that link to **april-lin** (april-lin):
 ## Vault deepening note (2026-09-14, vault-only)
 - Re-checked cited sources (`taiwancenter-org-board.md` archive, gala announcement article): no new facts beyond the page's current content.
 - Reciprocal link added: TWCLA director-list peer [[people/shirley-yu||Shirley Yu (張欣珠)]] (existing vault page) sits on the same 董事 roster.
+- New absorbed fact (vault article): 林淑卿 appears as 共同發起人 in the 2021 南加州僑界支持台灣參與世界衛生大會（WHA）聯合聲明, issued with 大洛杉磯台灣會館 as 共同發起單位 — consistent with her TWCLA director role: [[articles/taiwanjustice-net/2021/20210616072940_2021_05_17_2021年南加州僑界支持台灣參與世界衛生大會wha聯合聲_b1d58af16c0a5e5b|2021 WHA 聯合聲明]].
+- Peer links on the same 董事 roster: [[people/joseph-teng||Joseph Teng (曾英銘)]], [[people/lisa-hou||Lisa Hou (侯乃文)]] (existing pages).

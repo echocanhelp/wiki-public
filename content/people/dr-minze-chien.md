@@ -62,3 +62,8 @@ _Compiled from this page's own Employment table — no new facts._
 
 - 新增連結：他兩度擔任會長的 FAPA 華府分會，於 TAH 百科語料庫有專屬條目頁 [[works/taiwaneseamericanhistory-org/20-greate-washington-dc-chapter-chapter-fapa||TAH：FAPA Great Washington D.C. Chapter]]；FAPA 全國總覽另見 [[works/taiwaneseamericanhistory-org/1-fapa||TAH：FAPA]]。此為本頁 Employment 表既有事實（FAPA DC Chapter President 1998–1999, 2013–2017）之語料庫對應，非新增傳記事實。
 - 既有連結（TAA-GWC、TASTA、UMD 台灣同學會、TASS、TAH #68／#1832 條目頁）已逐一核對為 vault 實際存在頁面；未新建頁面、未上網、無虛構事蹟。
+
+## deepen pass 2026-09-14（DEEPEN-X slice 09140107-6）
+
+- 新增語料庫脈絡連結（皆為本頁 Employment 表既有事實之 TAH 語料庫對應頁，非新增事蹟）：他連續十年協調的獎學金活動見 [[works/taiwaneseamericanhistory-org/1-taiwanese-american-community-scholarship-awards-greater-washington-d-c||TAH：Taiwanese American Community Scholarship Awards / Greater Washington D.C.]]；他出任會長的 TAA-GWC 另有語料庫記錄 [[works/taiwaneseamericanhistory-org/131-taagwc-past-president||TAH #131：TAAGWC Past President Portraits（2018）]]、[[works/taiwaneseamericanhistory-org/132-taagwc-50th-anniversary||TAH #132：TAAGWC 50th Anniversary]]；他 2017 年協調的東海岸台灣大會之早期歷史見 [[works/taiwaneseamericanhistory-org/73-taiwanese-american-conference-the-first-national-conference-on-broad-issues-o||TAH：Taiwanese American Conference 首次全國大會記錄]]。
+- 本輪 vault-only：未新建頁面、未上網、無虛構事蹟。
