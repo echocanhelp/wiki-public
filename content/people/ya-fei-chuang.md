@@ -64,3 +64,6 @@ Acclaimed by critics in the United States and abroad for performances of stunnin
 
 ## Vault re-check 2026-09-11 (deepen-x slice 11, vault-only)
 All wikilink targets on this page verified to exist in the vault (incl. [[people/prof-carol-ou||Prof. Carol Ou (歐逸青)]] via the Buswell duo connection); all cited-source facts were already absorbed in the prior deepen pass. Husband Robert Levin is a cited duo partner but has no vault page — noted, no page created. No web used, nothing published.
+
+## Vault re-check 2026-09-14 (deepen-x slice 09112200-1, vault-only)
+Reciprocity confirmed: [[people/prof-carol-ou||Prof. Carol Ou (歐逸青)]]'s page carries the back-link naming her husband James Buswell as her duo partner. The cited [[works/taiwaneseamericanhistory-org/316-ya-fei-chuang-e8-8e-8a-e9-9b-85-e6-96-90-pianist|TAH #316]] and [[works/taiwaneseamericanhistory-org/693-ya-fei-chuang-e8-8e-8a-e9-9b-85-e6-96-90-201511|TAH #693]] vault records are bibliographic records only (full text stays in the vault corpus) — no further absorbable facts. No web used, no new pages, nothing published.

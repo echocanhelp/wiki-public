@@ -61,3 +61,6 @@ _No filled family fields on the TAH profile._
 
 ## Vault re-check 2026-09-11 (deepen-x slice 11, vault-only)
 All wikilink targets on this page verified to exist in the vault (incl. [[organizations/taiwanese-american-student-association-at-penn-state||TAASA Penn State]] and [[organizations/taiwanese-student-association-at-syracuse-university||TSA Syracuse]] from her education timeline); all cited-source facts were already absorbed in the prior deepen pass. No new vault facts found, no web used, no new pages created, nothing published.
+
+## Vault re-check 2026-09-14 (deepen-x slice 09112200-1, vault-only)
+Re-checked both cited TAH records in the vault: [[works/taiwaneseamericanhistory-org/musician349||TAH #349]] and [[works/taiwaneseamericanhistory-org/whoswho1176||TAH #1176]] are held as bibliographic records only (full text stays in the vault corpus) — no additional absorbable facts beyond the biography and tables already on this page. No other vault page names her. No web used, no new pages, nothing published.

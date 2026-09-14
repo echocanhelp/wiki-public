@@ -100,3 +100,9 @@ From the same 2024-10-04 台灣公義網 announcement listing the 38位董事, t
 - LINE displayName: `Will`
 - Preferred English spelling: **Willy Pan**
 - Chinese: 潘建宇
+
+## Vault re-check 2026-09-14 (deepen-x slice 09112200-1, vault-only)
+
+- Listed on the [[organizations/taiwanese-american-historical-society||TAHS]] org page as a **LINE L1 community contact** (LINE: Will; not a chart officer) — his TAHS membership is recorded there.
+- The 2024 Taiwan Center gala announcement that records his 董事 role was published by [[people/freeman-huang||Freeman Huang (黃樹人)]], TAHS 秘書長 (2025), and is preserved in the [[sources/taiwanjustice-net||taiwanjustice.net]] corpus that TAHS/Echopedia maintains after the live site closed (~2025-10).
+- No web used, no new pages, nothing published.

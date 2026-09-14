@@ -65,3 +65,8 @@ Facts absorbed from the TAH encyclopedia entries already cited on this page:
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - [[works/taiwaneseamericanhistory-org/166-tsu-yi-jay-loo||TAH Encyclopedia #166: Tsu-Yi Jay Loo 盧主義]]
+- [[works/taiwaneseamericanhistory-org/whos-who-219-tsu-yi-loo||TAH Encyclopedia #219: Tsu-Yi (Jay) Loo 盧主義]]
+- [[works/taiwaneseamericanhistory-org/201-e7-9b-a7-e4-b8-bb-e7-be-a9-the-first-president-of-united-formosans-for-indep||TAH Encyclopedia #201: 盧主義 — The First President of UFI (1958)]]
+
+## Vault re-check 2026-09-14 (deepen-x slice 09112200-1, vault-only)
+His Source list's TAH #219 and #201 encyclopedia URLs resolve to existing vault pages, now wikilinked above. Additional vault corroboration found: [[works/taiwaneseamericanhistory-org/ourjourneys33||Our Journeys #33 (張炎憲, 2014/09)]] independently records him — 陳以德、盧主義、林榮勳、楊東傑、林錫湖 — as the five who founded 3F in Philadelphia in 1956 and reorganized it into UFI in 1958. No web used, no new pages, nothing published.
