@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-14
 ---
 # Prof. Howard Yuan-Hao Chang (張元豪教授)
 
@@ -42,3 +42,15 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+## Deepen pass (2026-09-14, vault-only)
+Timeline absorbed solely from this page's own tah-tables (TAH #1785):
+
+- **1994** — A.B., Biochemical Sciences, Harvard University.
+- **1998** — Ph.D., Biology, Massachusetts Institute of Technology.
+- **2000** — M.D., Harvard Medical School, Harvard–MIT Division of Health Science and Technology.
+- **2004–** — Stanford University School of Medicine: Assistant Professor → Associate Professor → Professor.
+- **2014–** — Director, Center for Personal Dynamic Regulomes (NIH Center of Excellence in Genomic Science at Stanford).
+- **2014–** — Distinguished Chair Professor, National Taiwan University Graduate Institute of Clinical Medicine.
+
+Cross-links (existing slugs only): [[organizations/stanford-taiwanese-student-association||Stanford Taiwanese Student Association]] and [[organizations/harvard-taiwanese-cultural-society||Harvard Taiwanese Cultural Society]] — vault organizations at his institutions of study/employment.
