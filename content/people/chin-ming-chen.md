@@ -69,3 +69,6 @@ Absorbed from the on-page biography and tables (no external sources):
 ## Deepen — 2026-09-14 (vault-only re-check)
 
 All cited records (#102, #899, #17) remain fully absorbed; GTI and the Greater New York Region Overseas Taiwanese Pen Club links resolve. His 2018–2019 editor-in-chief role for the Taiwanese American Literature Collections sits within the broader pen-club movement documented in the vault at [[organizations/taiwanese-american-pen-club||Taiwanese American Pen Club]]. The Kaohsiung Medical University America Alumni Association has no vault page and stays plain text.
+
+## Vault re-check 2026-09-14 (deepen-x slice 09140020-6, vault-only)
+All wikilink targets (#102, #899, #17, GTI, pen-club pages) verified to exist in the vault; the three cited TAH records are band-B bibliographic pages with no additional absorbable text. No new vault facts found, no web used, no new pages, nothing published.
