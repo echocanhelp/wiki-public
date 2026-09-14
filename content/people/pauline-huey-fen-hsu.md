@@ -40,7 +40,7 @@ _No filled family fields on the TAH profile._
 - Soprano soloist: Tunghai Opera Theatre, Peabody Opera, Peabody Symphony Orchestra, Tunghai University Luce Chapel Choir, Taipei Chinsui Chorus, Kaohsiung Natus Cantorum, Vox Nova Singers, National Taiwan Symphony Orchestra
 
 ## Vault records
-- [[works/taiwaneseamericanhistory-org/435-soprano-pauline-huey-fen-hsu-e5-be-90-e5-bd-97-e8-8a-ac-06-2019||TAH #435: Pauline Huey-Fen Hsu 徐彗芬, Soprano (06/2019)]]
+- [[works/taiwaneseamericanhistory-org/435-soprano-pauline-huey-fen-hsu-e5-be-90-e5-bd-97-e8-8a-ac-06-2019||TAH #435: Pauline Huey-Fen Hsu 徐彗芬, Soprano (06/2019)]] — bibliographic mirror (band B), published 2019-06-21
 
 ## Sources
 - [TAH #435 encyclopedia: 435. Pauline Huey-Fen Hsu 徐彗芬, Soprano /06/2019](https://taiwaneseamericanhistory.org/435-soprano-pauline-huey-fen-hsu-%e5%be%90%e5%bd%97%e8%8a%ac-06-2019/)

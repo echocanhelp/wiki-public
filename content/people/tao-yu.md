@@ -36,6 +36,13 @@ Tao Yu 余道昌, the highly acclaimed concert violinist, has performed in recit
 
 _No filled family fields on the TAH profile._
 
+## Timeline (from the TAH tables above)
+- 1995 — B.S. Music, Peabody Conservatory (馬里蘭州約翰霍普金斯大學Peabody音樂學院)
+- 1996 — M.S. Music, Peabody Conservatory
+- 1998 — Ph.D. Music, Peabody Conservatory
+- 2003 — 教授, 馬里蘭大學 (University of Maryland)
+- 2003– — 先修班客座教授, Peabody音樂學院及Juilliard音樂學院
+
 ## Sources
 - [TAH #677 encyclopedia: 677. Tao Yu 余道昌 / 2015/10](https://taiwaneseamericanhistory.org/677-tao-yu-%e4%bd%99%e9%81%93%e6%98%8c-201510/)
 - [TAH #6 encyclopedia: 6. Tao Yu 余道昌, Violinist/2014/10](https://taiwaneseamericanhistory.org/6-tao-yu-%e4%bd%99%e9%81%93%e6%98%8c-violin/)

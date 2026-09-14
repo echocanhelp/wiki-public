@@ -43,6 +43,7 @@ _No filled family fields on the TAH profile._
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - [[sources/taiwaneseamericanhistory-org-story-corpus||TAH story corpus hub]]
+- **Deepen-X0913 check (2026-09-14):** re-checked against the cited vault record — full Caltech ladder and NTU/Berkeley education already absorbed verbatim; no further vault-sourced facts, no new pages.
 
 ## Connected in the Vault
 

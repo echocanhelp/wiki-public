@@ -32,7 +32,7 @@ She is recorded in the TAH Who's Who encyclopedia (#306, 2015/02) and on the [[s
 
 - **Content priority A:** Name and role on https://www.taiwancenter.org/board (archived `taiwancenter-org-board.md`)
 - **Hub:** [[sources/taiwancenter-org||taiwancenter.org]]
-- **Content priority C:** Full biography not in this source set
+- **Content priority C (updated 2026-09-14):** full biography from TAH #306 is now absorbed on-page (Education/Employment/Timeline/Family); the taiwancenter.org board listing corroborates the 團體董事 role.
 
 ## Sources
 - [TAH #306 encyclopedia: 306. Shirley Yu 張欣珠/2015/02](https://taiwaneseamericanhistory.org/306-shirley-yu-%e5%bc%b5%e6%ac%a3%e7%8f%a0201502/)

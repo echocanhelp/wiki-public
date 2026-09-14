@@ -12,7 +12,7 @@ last_reviewed: 2026-09-14
 ---
 # Lin Chao-chi (林朝棨)
 
-**Lin Chao-chi** (林朝棨) was a renowned Taiwanese geologist, best known for discovering the 十三行遺址 (Shihping Archaeological Site), one of Taiwan's most significant archaeological sites. He was the third uncle (三舅) of biochemist 廖述宗 (Liao Shu-zong).
+**Lin Chao-chi** (林朝棨) was a renowned Taiwanese geologist, best known for discovering the 十三行遺址 (Shihping Archaeological Site), one of Taiwan's most significant archaeological sites. He was the third uncle (三舅) of biochemist [[people/liao-shu-zong||廖述宗 (Liao Shu-zong)]].
 
 ## Identity Snapshot
 

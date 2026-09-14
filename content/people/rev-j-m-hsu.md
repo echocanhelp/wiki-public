@@ -30,10 +30,13 @@ last_reviewed: 2026-09-14
 
 ## Timeline
 - **1965** — 台神 (PCT seminary, Taiwan)
+- **1971** — Preached at the 2nd 美東基督徒台語夏令會 (Highland Lake, NY; convener 許希哲); with Taiwan expelled from the UN that year he urged attendees not to lose heart, using Moses and the Exodus ([[works/taiwaneseamericanhistory-org/our-journeys-392||TAH #392 王成章訪問]])
+- **1971-09 → 1972** — Called by FPCLA as Organizing Pastor after [[people/chaolong-kao||高昭龍]] departed for Harvard (Aug 1972), per the FPCLA 50-year history ([[works/taiwaneseamericanhistory-org/ourjourneys231||TAH #231]], ENG [[works/taiwaneseamericanhistory-org/ourjourneys231-eng||#231-eng]])
 - **1972–1973** — Pastor, Presbyterian Church in the United States (TAH wording)
 - **1973–1979** — TAH: **First Pastor**, FPCLA. FPCLA page also names [[people/chaolong-kao||高昭龍]] organizing pastor 1971 — keep both; do not flatten
 - **1980-12-07** — Helped GSTPC plant in Monterey Park ([[organizations/good-shepherd-taiwanese-presbyterian-church||GSTPC]] 設教; per [[people/david-huang||黃德利]] 40th-anniversary essay, one of seven PCT-trained pastors then in SoCal who helped the plant)
 - **1983** — Co-founder and first president, Formosan Outreach Mission (北美宣道會), with [[people/david-huang||黃德利]] (TAH)
+- **1985** — Named as 顧問 of the 台美公民協會 (TACL) preparatory committee (顧問會議 1985-04-06, Cerritos, ~70 attendees; convener 吳澧培) — [[works/taiwaneseamericanhistory-org/ourjourneys186||TAH #186]], ENG [[works/taiwaneseamericanhistory-org/ourjourneys186-eng||#186-eng]]; TACL org page: [[organizations/taiwanese-american-citizens-league]]
 - **1985** — Reformed Church in America, pioneer (TAH)
 - **1986–1988** — First pastor, Fair Lawn Community Church (新澤西台灣歸正教會)
 - **1995** — Died (TAH)
