@@ -46,6 +46,13 @@ _Sourced from the TAH Who's Who profile above; no external material added._
 - 1996– — Founder, Agape Healthy Living consulting.
 - Community service: Honor Chair of Business Advisory, National Republican Congressional Committee.
 
+## Role in the Community
+
+- She is a corpus author, not only a Who's Who subject: 李雪芬 contributed two personal essays/autobiography to the TAH story corpus —
+  - [[works/taiwaneseamericanhistory-org/109-e5-ad-b8-e7-84-a1-e6-ad-a2-e5-a2-83-e6-9d-8e-e9-9b-aa-e8-8a-ac|TAH #109 學無止境]]（2014-10-03 發布，隨筆/故事，band B）
+  - [[works/taiwaneseamericanhistory-org/publicationautobiography983|TAH #983 經歷生命的錘鍊]]（2016-04-04 發布，自傳 Autobiography，band B）
+- Both vault records are bibliographic (full text stays in the TAH vault); the essay titles record her own retrospective voice on her life in Taiwanese America.
+
 ## Family
 
 - **Husband:** Ching Hao Shaw

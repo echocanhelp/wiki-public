@@ -58,3 +58,4 @@ Born in Taipei in 1943, Komi Chen grew up in an art painting family and was infl
 - 本頁 TAH 出處之 Vault 頁面：[[works/taiwaneseamericanhistory-org/whos-who-2290-komi-chen||TAH 2290. Komi Chen 郭香美]]、[[works/taiwaneseamericanhistory-org/artists68||TAH 68. 郭香美 Komi Chen]]。
 - 父親：[[people/hsueh-hu-kuo||郭雪湖 (Kuo Hsueh-Hu)]]；母親 林阿琴、姊姊 Ann Kuo 目前僅見於本頁與父親頁，尚無專屬頁面。
 - 匹茲堡時期（Pittsburgh/Monroeville 社區大學任教，匹大圖書館學碩士）與當地台美人圈子相符：[[organizations/taiwanese-association-of-america-pittsburgh||TAA Pittsburgh]]。
+- SKIP（deepen-x slice 09141213-23）：語料庫檢索僅命中本人書目記錄 [[works/taiwaneseamericanhistory-org/whos-who-2290-komi-chen||TAH #2290]]、[[works/taiwaneseamericanhistory-org/artists68||TAH #68]]（皆為書目頁、無內文），無可吸收之社群/回憶錄材料。

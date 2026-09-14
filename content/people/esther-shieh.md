@@ -59,3 +59,4 @@ _No filled family fields on the TAH profile._
 - 出處頁發布日期（vault records）：TAH #250（Pianist）與 #510（鋼琴伴奏）兩條目頁皆發布於 2015-07-25。
 - 語料庫入口：[[sources/taiwaneseamericanhistory-org-story-corpus||TAH story corpus]]。
 - 兩出處頁皆為書目記錄，無其他可吸收事實。
+- SKIP（deepen-x slice 09141213-23）：語料庫檢索僅命中本人書目記錄 TAH #250、#510（皆為書目頁、無內文），無可吸收之社群/回憶錄材料。

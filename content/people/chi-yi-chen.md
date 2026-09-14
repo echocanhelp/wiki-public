@@ -49,6 +49,7 @@ _No filled family fields on the TAH profile._
 - **Choral work:** the vault's employment table lists her as 指揮 of 福爾摩沙合唱團 alongside 普林斯頓神學院詩班助理指揮. The vault holds [[works/taiwaneseamericanhistory-org/14-new-york-formosa-chorus||TAH #14 紐約福爾摩沙合唱團]], which documents the *New York* Formosa Chorus — a different ensemble from her 福爾摩沙合唱團, linked here only for disambiguation.
 - **Link hygiene:** 台南神學院, 西敏寺音樂學院, 普林斯頓神學院 and the Bella Bartok Choral Institute have no vault pages; left unlinked rather than creating new pages or linking a near-match.
 - **Holdings:** the entries sit in the [[sources/taiwaneseamericanhistory-org-story-corpus||台美史料中心 story corpus]], published by [[organizations/tah-foundation||TAH Foundation]].
+- **SKIP（deepen-x slice 09141213-23）:** corpus grep hits only her own bibliographic records [[works/taiwaneseamericanhistory-org/whoswho1704||TAH #1704]] and [[works/taiwaneseamericanhistory-org/musician406||TAH #406]] (bibliographic stubs, no article text); no memoir/community material to absorb.
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

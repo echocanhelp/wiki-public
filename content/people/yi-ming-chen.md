@@ -57,5 +57,9 @@ _No filled family fields on the TAH profile._
 - [[organizations/university-of-minnesota-taiwanese-student-association||明尼蘇達大學台灣人同學會]] — 就學所在地（2004 碩士／2007 博士）社團，地域關聯
 - [[works/taiwaneseamericanhistory-org/31-minnesota-chapter-fapa||FAPA 明尼蘇達分會]] — 就學所在地分會（地域關聯）
 
+## Role in the Community
+
+- [[works/taiwaneseamericanhistory-org/ourjourneys128|TAH #128 明州「台灣之愛：鄉愁與四季」音樂會 (陳曼玲, 2015/04)]]：2015-04-09 台灣線上圖書館在羅斯斐爾市 Roseville Lutheran Church 主辦的室內樂演出，陳怡名名列「中/小提琴」演出群（與鄭仕侃同組），全場集結 15 位台、美音樂家，約 350 位台、美、中觀眾，屬 band A 社區史料。此記錄佐證她留學明尼蘇達期間（2004 碩士／2007 博士之後）仍活躍於台美人社區音樂演出。
+
 ## Deepen pass (2026-09-14)
 - 東吳大學（學士）、Chamber Music Society of Minnesota、Elliott Carter Festival、明尼蘇達大學交響樂團目前無 vault 頁面，僅保留文字事實，未加連結。
