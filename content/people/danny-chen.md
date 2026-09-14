@@ -35,6 +35,16 @@ last_reviewed: 2026-09-14
 - A 2025 TJ report names a **陳啟耕** as 世台基金會副執行長兼發言人 — same name; identity **not confirmed** against this lawyer's record
 - Board archive snapshot: `knowledge/web-archives/taiwancenter-org-board.md`
 
+## Role in the Community (corpus links absorbed 2026-09-14)
+
+The TJ archives already cited on this page are in-corpus works — linked here so the record connects:
+
+- [[articles/taiwanjustice-net/2021/20210117070450_2020_06_23_大洛杉磯台灣會館_疫情擋不住人情_濟困扶危挺_71a7c64663ea03b6|大洛杉磯台灣會館：疫情擋不住人情，濟困扶危挺僑民]] — the pandemic relief record; his 2020-04-25 移民講座 was the 會館's first online event, >100 attendees
+- [[articles/taiwanjustice-net/2021/20210616072940_2021_05_17_2021年南加州僑界支持台灣參與世界衛生大會wha聯合聲_b1d58af16c0a5e5b|2021年南加州僑界支持台灣參與世界衛生大會(WHA)聯合聲明]] — 陳啟耕 appears in the full 共同發起人 roster (the page's 2021-05 co-initiator claim verified verbatim)
+- [[articles/taiwanjustice-net/2021/20211207115010_2021_10_16_總統肯定海外十大傑出青年_盼續讓台灣走向世界_6ea96172e50a6adf|總統肯定海外十大傑出青年，盼續讓台灣走向世界]] — the 總統 quote names 陳啟耕 in **美國加州** alongside 張文綺 (Paraguay) and 黃志博 (South Africa) as overseas Taiwanese serving long-term through legal expertise
+- **HOLD:** [[articles/taiwanjustice-net/2025/20250328021626_世台基金會邀陳建仁赴紐約-推動台灣學子un實習_570323c249fb15ba|世台基金會邀陳建仁赴紐約 推動台灣學子UN實習 (2025)]] names a 陳啟耕 as **世台聯合基金會副執行長兼發言人** (HQ New York, founded 2009). Same name; an LA-based lawyer vs a NY-based foundation spokesman — identity **not confirmed**, no merge.
+- **HOLD (likely different person):** [[works/taiwaneseamerican-org/census-2020-fundraiser|Census 2020 'Write in Taiwanese' fundraiser]] and [[works/taiwaneseamerican-org/pew-research-center-taiwanese-american-statement|Pew Research statement]] name a "Danny Chen" as **President, Southeast Bay Taiwanese Association** / community organizer with TaiwaneseAmerican.org (Bay Area). No 漢名 given; Bay Area ≠ SoCal lawyer. Not linked as this person.
+
 ## Timeline（自上方 Board record 既有日期彙整，deepen 2026-09-10）
 - **2018-06** — 第11屆董事會以台美律師會名義出任團體董事
 - **2020-04-25** — 主講會館首場線上活動（移民講座，與 Career Taiwan USA Association 合辦，逾百人參加）
