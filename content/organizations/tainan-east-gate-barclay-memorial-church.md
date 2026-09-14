@@ -59,3 +59,7 @@ A [[organizations/presbyterian-church-in-taiwan||PCT]] congregation in **台南�
 2. [教會歷史](https://eastgatebarclay.org/aboutme/%E6%95%99%E6%9C%83%E6%AD%B7%E5%8F%B2/)
 3. [PCT churchdata C08007](https://www.pct.org.tw/churchdata.aspx?strOrgNo=C08007)
 4. [維基百科：東門巴克禮紀念教會](https://zh.wikipedia.org/wiki/東門巴克禮紀念教會)
+
+## Deepen — 2026-09-14 (slice deepen-x-09141300-19)
+
+SKIP-with-reason: corpus grep for 東門巴克禮 / 東門教會 / 巴克禮 across `content/works` and `content/articles` returns a single hit — the 陳能通 / 228 article already absorbed into the Timeline above this pass; the works index carries no Barclay memoir material. Page already saturated from the eastgatebarclay.org source hub (支會 network, chapel, 協會, 十七任 offices); nothing further absorbable from community corpus.
