@@ -1,6 +1,6 @@
 # Echopedia System Status
 
-*Generated: 2026-09-14 04:30 PDT*
+*Generated: 2026-09-14 04:49 PDT*
 
 ## Orientation
 - **Entry:** go <plain language> via go-router (auto-route) · **Control:** [CONTROL.md](CONTROL.md)
@@ -14,14 +14,14 @@
 - **Level:** L3
 - **L2 auto-publish on drift:** True
 - **L3 auto-push when green:** True
-- **Last good deploy:** `0e1b594520`
-- **Last night (ledger):** analyzer scanned 2880 queued 3 suppressed 1835 · 🟡 QUEUE janitor HOLD leftover 40 · 🟡 QUEUE kanban blocked 68
+- **Last good deploy:** `5cde2b2824`
+- **Last night (ledger):** analyzer scanned 2885 queued 1 suppressed 1883 · 🟡 QUEUE janitor HOLD leftover 40 · 🟡 QUEUE kanban blocked 36
 - **Track SSOT:** `knowledge/operational/intelligence/autonomy-ledger.json`
 
 ## Content
 |- **Tier1 pages:** 2851 (people 2404 / orgs 429 / sources 18) · Tier2 archive: 29103
 |- **Janitor queue depth:** 41
-|- **Uncommitted files:** 30996
+|- **Uncommitted files:** 13594
 
 ## Self-improvement pipeline (Scout → Filter → Extract → Evaluate → Generate → Review)
 || Stage | Script | Last run | Output |
@@ -61,7 +61,7 @@ Load skill **echopedia-ops** first for any wiki work.
     Last run:  2026-09-13T07:01:23.281274-07:00  ok
     Name:      vllm-thermal-scaler
     Schedule:  every 1m
-    Last run:  2026-09-14T04:29:41.222330-07:00  ok
+    Last run:  2026-09-14T04:47:48.917135-07:00  ok
     Name:      Echopedia content analysis
     Schedule:  10 1 * * *
     Last run:  2026-09-14T01:11:29.334351-07:00  ok
@@ -88,7 +88,7 @@ Load skill **echopedia-ops** first for any wiki work.
     Last run:  2026-09-13T04:39:11.995968-07:00  ok
     Name:      echopedia-site-design
     Schedule:  30 4 * * *
-    Last run:  2026-09-13T04:30:10.529581-07:00  ok
+    Last run:  2026-09-14T04:30:41.443849-07:00  ok
     Name:      vault-search-index-rebuild
     Schedule:  0 5 * * 0
     Last run:  2026-09-13T05:00:07.173032-07:00  ok

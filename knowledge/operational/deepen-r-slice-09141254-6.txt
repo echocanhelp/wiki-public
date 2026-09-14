@@ -1,0 +1,3 @@
+people/dr-victor-shen.md
+people/danny-chen.md
+people/daniel-kao.md

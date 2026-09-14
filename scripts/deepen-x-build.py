@@ -35,7 +35,7 @@ con.close()
 open_titles = {r[1] for r in open_rows}
 open_paths = set()
 for _id, _title, body in open_rows:
-    m = re.search(r'deepen-x-slice(-\d+)?-\d+\.txt', body or '')
+    m = re.search(r'deepen-[xr]-slice(-\d+)?-\d+\.txt', body or '')
     if m:
         sp = OUT / m.group(0)
         if sp.is_file():

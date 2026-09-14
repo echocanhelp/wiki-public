@@ -1,0 +1,4 @@
+people/cherie-jeng.md
+organizations/good-shepherd-taiwanese-presbyterian-church.md
+organizations/elder-john-lai-archives.md
+people/shu-lai.md

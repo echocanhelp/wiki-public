@@ -1,4 +1,4 @@
-## Site design audit — 2026-09-14 04:30
+## Site design audit — 2026-09-14 04:48
 
 - pages_md=15044
 - critical=0 high=0 medium=1
@@ -8,13 +8,7 @@
 - **SITE_DESIGN_STATUS: WARN**
 
 ### MEDIUM (1)
-- **F4** people/index.html is 1492244 bytes — heavy on mobile. Do NOT hand-edit content/people/index.md. Search-first is the IA; regen script only if links break.
-
-### LOW (1)
-- **C1** spelling signals (sample): 3 `[AGENT_SUGGESTED]`
-  - `kevin-lee.md: ?disambiguating`
-  - `tzuying-huang.md: ?tzuying`
-  - `hsin-yun-huang.md: ?youming`
+- **F4** people/index.html is 1492246 bytes — heavy on mobile. Do NOT hand-edit content/people/index.md. Search-first is the IA; regen script only if links break.
 
 ### INFO (2)
 - **B2** pinned featured pages: 6 (cap 6 people + 3 orgs; overflow hides recency)
