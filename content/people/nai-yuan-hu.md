@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # Nai-Yuan Hu (胡乃元)
 
@@ -51,8 +51,12 @@ _No filled family fields on the TAH profile._
 - [TAH #136 encyclopedia: 136. Nai-Yuan Hu 胡乃元](https://taiwaneseamericanhistory.org/whos-who-136-nai-yuan-hu/)
 - [TAH Who's Who](https://taiwaneseamericanhistory.org/person/nai-yuan-hu/)
 
+## Career (from the TAH profile)
+Trained at Indiana Univ., Nai-Yuan Hu turned his 1985 Queen Elisabeth First Prize into an international solo career across the Concertgebouw, Avery Fisher Hall and major venues in Europe, the Americas and Asia. He founded **Taiwan Connection** in 2007 and has served as its Music Director, adding Music Director of the **TC Chamber Orchestra** from 2009. His standing was later recognised by invitations to the juries of the Queen Elisabeth Competition (Brussels) and the Seoul Violin Competition.
+
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org-story-corpus||TAH story corpus]] — hub for the encyclopedia records above
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - [[works/taiwaneseamericanhistory-org/95-nai-yuan-hu||TAH #95: Nai-Yuan Hu 胡乃元]]
 - [[works/taiwaneseamericanhistory-org/88-nai-yuan-hu||TAH #88: Nai-Yuan Hu 胡乃元, Violinist (2014/12)]]

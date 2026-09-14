@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # Wei-Shuan Yu (尤韋琁)
 
@@ -37,6 +37,9 @@ As a doctoral program in-progress student at the College-Conservatory of Music o
 - 2014 — Finalist, Music Teachers National Association (MTNA) National Chamber Music Competition
 - Doctoral student (in progress) at UC-CCM; Graduate Incentive Award recipient
 - Principal cellist, Clermont Philharmonic Orchestra (Greater Cincinnati Area)
+
+## Performance activity
+A Taichung-born cellist trained at 國立中山大學 (B.S., Music) and the University of Cincinnati College-Conservatory of Music (M.M., cello performance, Spring 2014; University Graduate Scholarship), she is active in the Greater Cincinnati area as principal cellist of the Clermont Philharmonic Orchestra. Her piano trio **The Schatten Trio**, formed with fellow CCM students, won First Prize at the 2014 CCM Chamber Music Competition and reached the finals of the 2014 MTNA National Chamber Music Competition; as a doctoral student in progress at UC-CCM she received the Graduate Incentive Award. Her Greater Cincinnati community ties are documented in the vault at [[organizations/taiwanese-association-of-cincinnati|Taiwanese Association of Cincinnati]].
 
 ## Family
 

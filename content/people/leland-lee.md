@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # Leland Lee (李柏毅)
 
@@ -31,6 +31,9 @@ Born in 1989 in Los Angeles of a Taiwanese American family, Leland Lee was diagn
 
 ## Style
 Bright, bold colors spanning the full spectrum with dark lines defining forms and spaces — a style shaped by being born in America and raised partly in Asia; even live sketches resolve into intense color movements and curvy lines.
+
+## TAH documentation
+Leland Lee's life and art are recorded in three vault holdings: an artist profile ([[works/taiwaneseamericanhistory-org/artist14-leland-lee|TAH #14]]), encyclopedia profile #267 featured on 2019-03-18 ([[works/taiwaneseamericanhistory-org/ota-267|TAH #267]]), and the TAH #172 program 《天才雨人》 (2021/04) with 簡靜惠 and 李永碩 ([[works/taiwaneseamericanhistory-org/videos-172|TAH #172]]).
 
 ## Family
 

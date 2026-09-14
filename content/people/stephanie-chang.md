@@ -58,6 +58,9 @@ She represented Michigan House District 6 as State Representative for two terms 
 - [TAH #102 encyclopedia: 102. Stephanie Chang 張理](https://taiwaneseamericanhistory.org/whos-who-102-stephanie-chang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/stephanie-chang/)
 
+## Detroit network (in-vault pages, deepened 2026-09-14)
+Her organizing geography and campus years both have vault pages: the Detroit-area Taiwanese women's network [[organizations/north-america-taiwanese-womens-association-detroit-chapter||NAWDET Detroit chapter]], the chapter network [[organizations/taiwanese-association-of-america-detroit-tagd||TAA Detroit TAGD]], and her undergrad campus groups [[organizations/taiwan-student-association-at-the-university-of-michigan||TSA at U-M]] and [[organizations/taiwanese-american-student-association-at-the-university-of-michigan||TASA at U-M]]. Her own coverage in the TaiwaneseAmerican.org corpus: [[works/taiwaneseamerican-org/stephanie-chang-representing-detroit||Stephanie Chang representing Detroit]].
+
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
