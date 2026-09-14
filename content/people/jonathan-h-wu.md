@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # Jonathan H. Wu (吳顯明)
 
@@ -57,3 +57,4 @@ An accomplished opera baritone, Mr. Jonathan Wu graduated from the Chinese Cultu
 - [[works/taiwaneseamericanhistory-org/110-jonathan-h-wu-e5-90-b3-e9-a1-af-e6-98-8e-baritone-201501||TAH encyclopedia #110: Jonathan H. Wu, Baritone]]
 - [[works/taiwaneseamericanhistory-org/201-jonathan-h-wu-e5-90-b3-e9-a1-af-e6-98-8e-201501||TAH encyclopedia #201: Jonathan H. Wu]]
 - [[sources/taiwaneseamericanhistory-org-story-corpus||TAH story corpus]] — hub for the encyclopedia records above
+- [[works/taiwaneseamericanhistory-org/202-jonathan-h-wu-e5-90-b3-e9-a1-af-e6-98-8e-201501||TAH encyclopedia #202: Jonathan H. Wu 吳顯明（2015/01）]]（deepen 2026-09-14：同姓名之另一則 Vault 記錄；傳記事實以 #110／#201 為據，未新增）

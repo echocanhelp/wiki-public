@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # Christina Shuyu Hsu (許吳漱玉)
 
@@ -63,3 +63,8 @@ last_reviewed: 2026-09-11
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - [[organizations/joint-alumni-association-of-taiwan-teachers-college-and-normal-univers||Joint Alumni Association of Taiwan Teachers College and Normal Universities]] — alumni network for her teachers-college training (台中師院/台北師院)
 - [[organizations/new-york-taiwan-center||New York Taiwan Center]] — New York-area community org where her NY Chinese-school era was centered
+- [[sources/taiwaneseamericanhistory-org-story-corpus||TAH 故事語料庫]] — 兩則本人條目（#44、#437）的收錄源
+
+## Vault records (deepen pass 2026-09-14)
+- 本人兩則 TAH 百科條目均已入 vault 書目紀錄：#44〈許吳漱玉 Christina Hsu〉（2015-05-22 發布）、#437〈Christina Shuyu Hsu 許吳漱玉〉（2015-06-11 發布）；全文仍存 TAH 原站，本庫為書目級紀錄。
+- 求學脈絡（台中師院美術科 1967、台北師院特教證書 1979，皆本頁既有記載）對應 [[organizations/joint-alumni-association-of-taiwan-teachers-college-and-normal-univers||台師院北師院聯合同學會]]；紐約社區脈絡（1990–2008 紐約任教期間）對應 [[organizations/new-york-taiwan-center||紐約台灣會館]]。

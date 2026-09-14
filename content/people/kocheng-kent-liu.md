@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # Kocheng Kent Liu (劉格正)
 
@@ -43,6 +43,8 @@ _Facts absorbed from this page's own TAH tables and accomplishment note; no new 
 - 1989–1991 — Chairperson, S.E. TAA (美東南區)
 - 1991–1993 — Full-time organizer, Taiwan Labor Front (台灣勞工陣線)
 - 1995– — Real estate management, Triangle Investment Realty
+
+> 跨頁參照（deepen 2026-09-14，僅連結既有頁面）：其美東南區（S.E. TAA）會長與夏令會籌委會經歷對應 [[organizations/taiwanese-association-of-america||TAA 總會]]；田納西州同鄉會（就讀 Univ. of Tennessee 時期之地域連結）見 [[organizations/tennessee-taiwanese-association||Tennessee Taiwanese Association]]。
 
 ## Family
 

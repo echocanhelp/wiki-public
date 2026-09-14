@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # Joanne Chang (張瓊文)
 
@@ -55,7 +55,10 @@ _No filled family fields on the TAH profile._
 
 - [[organizations/columbia-university-taiwanese-student-association||Columbia University Taiwanese Student Association]] (哥倫比亞大學就學脈絡)
 - [[organizations/formosan-society-for-performing-arts-inc-fospa||FOSPA]] (台裔表演藝術社團脈絡)
+- [[organizations/new-york-taiwan-center||New York Taiwan Center]] (紐約台裔社區脈絡，關聯性待核)
+- [[sources/taiwaneseamericanhistory-org-story-corpus||TAH 故事語料庫]] — 本人兩則條目（#313、#690）的收錄源
 
-## Vault records (deepen pass 2026-09-10)
-- 本人 TAH 百科條目的 vault 工作頁：[[works/taiwaneseamericanhistory-org/690-joanne-chang-e5-bc-b5-e7-93-8a-e6-96-87-201511|TAH #690 條目（2015/11）]]、[[works/taiwaneseamericanhistory-org/313-joanne-chang-e5-bc-b5-e7-93-8a-e6-96-87-pianist-201511|TAH #313 條目（2015/11）]]。
+## Vault records (deepen pass 2026-09-10; reviewed 2026-09-14)
+- 本人 TAH 百科條目的 vault 工作頁：[[works/taiwaneseamericanhistory-org/690-joanne-chang-e5-bc-b5-e7-93-8a-e6-96-87-201511|TAH #690 條目（2015/11）]]、[[works/taiwaneseamericanhistory-org/313-joanne-chang-e5-bc-b5-e7-93-8a-e6-96-87-pianist-201511|TAH #313 條目（2015/11）]]（兩則皆 2015-11-07 發布，書目級紀錄）。
 - 求學脈絡（哥倫比亞大學 Ph.D.，本頁既有記載）：[[organizations/columbia-university-taiwanese-student-association|哥倫比亞大學台美同學會]]。
+- 居住紐約、任教市立大學之社區脈絡（本頁既有記載）：[[organizations/new-york-taiwan-center|紐約台灣會館]]（關聯性待核）。

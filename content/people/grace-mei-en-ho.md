@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # Grace Mei-En Ho (何美恩)
 
@@ -52,6 +52,7 @@ _No filled family fields on the TAH profile._
 - 本頁所引 TAH 百科原文已入庫：[[works/taiwaneseamericanhistory-org/musician415||TAH #415（07/2017，Cellist）]] 及
   [[works/taiwaneseamericanhistory-org/whos-who-1758-grace-mei-en-ho||TAH #1758（Who's Who）]]；
   上表學經歷（North Texas 學士、Manhattan School of Music 碩士／DMA、Ulysses Quartet 共同創辦人、Miami Symphony 首席）均出自該兩則記錄，無另行補充之新傳記事實。
+- （deepen 2026-09-14）語料庫樞紐：[[sources/taiwaneseamericanhistory-org-story-corpus||TAH story corpus]]；同語料庫 TAH 音樂家參照：[[people/meng-chieh-liu||Meng-Chieh Liu 劉孟捷]]、[[people/joel-fan||Joel Fan 范景德]]；駐校／任職機構參照：[[organizations/tah-foundation||TAH Foundation]]。
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # Stanley Sun (孫獻祥)
 
@@ -56,3 +56,7 @@ _No filled family fields on the TAH profile._
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - [[works/taiwaneseamericanhistory-org/whos-who-2321-stanley-sun||TAH Who's Who #2321: Stanley Sun 孫獻祥]]
 - 所引 TAH 故事亦見 [[sources/taiwaneseamericanhistory-org-story-corpus|taiwaneseamericanhistory.org 故事語料庫]]（已收錄書目紀錄）
+
+## Vault records (deepen pass 2026-09-14)
+- 本人 TAH 百科條目已入 vault 書目紀錄：#2321（2021-08-05 發布）；全文仍存 TAH 原站，本庫為書目級紀錄。
+- 聖路易求職教與參與 Apollo 11 & 12 月岩研究時期（1971–1973，本頁既有記載）之當地台裔學術社群脈絡，參 [[organizations/taiwanese-scholar-association-in-st-louis-tsa-stl||聖路易台灣學者協會 TSA-STL]]（關聯性待核）。
