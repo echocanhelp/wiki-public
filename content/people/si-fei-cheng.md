@@ -49,6 +49,10 @@ _No filled family fields on the TAH profile._
 - [[works/taiwaneseamericanhistory-org/whoswho1270||1270. Si-Fei Cheng 鄭希暉 / 09/2016]]
 - [[works/taiwaneseamericanhistory-org/musician361||361. Sifei Cheng 鄭希暉, Violist / 09/2016]]
 
+## Corpus sweep 2026-09-14
+
+全庫 grep（鄭希暉／Si-Fei Cheng／Sifei Cheng）僅命中本頁兩份 TAH 出處頁 [[works/taiwaneseamericanhistory-org/whoswho1270||#1270]]、[[works/taiwaneseamericanhistory-org/musician361||#361]]（均為本人傳記之書目記錄，全文留 TAH）。vault 回忆語料無其他提及——音樂世家於美國樂壇之經歷，暂无同儕社群文獻可吸收；無新事實，無衝突需 HOLD。
+
 ## Sources
 - [TAH #1270 encyclopedia: 1270. Si-Fei Cheng 鄭希暉/ 09/2016](https://taiwaneseamericanhistory.org/whoswho1270/)
 - [TAH #361 encyclopedia: 361. Sifei Cheng 鄭希暉, Violist / 09/2016](https://taiwaneseamericanhistory.org/musician361/)

@@ -47,6 +47,10 @@ From 1972 Dr. Lee kept a private otolaryngology practice in Topeka, Kansas, beco
 - [TAH #2311 encyclopedia: 2311. Dr. Song-Ping Lee 李嵩斌醫師](https://taiwaneseamericanhistory.org/whos-who-2311-song-ping-lee/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-song-ping-lee/)
 
+## Corpus sweep 2026-09-14
+
+全庫 grep（李嵩斌／Song-Ping Lee）僅命中本頁兩份 TAH 出處頁 [[works/taiwaneseamericanhistory-org/whos-who-2311-song-ping-lee||#2311]]、[[works/taiwaneseamericanhistory-org/award-78||#78]]（均為本人記錄，書目性質，無可另吸收之社群事蹟）；兩頁皆無全文回忆語料。已於上方 Recognition 段完整連結，無新增內容。
+
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
