@@ -64,3 +64,5 @@ _No filled family fields on the TAH profile._
 
 - TAH 百科條目頁：[[works/taiwaneseamericanhistory-org/457-butteryfly-chong-e5-bc-b5-e7-bf-a0-e8-9d-b6-201506||TAH #457 Butteryfly Chong 張翠蝶 (2015/06)]]（與上方口述歷史 #36 同為本頁敘述來源）。
 - publisher／語料庫：[[organizations/tah-foundation||TAH Foundation]]、[[sources/taiwaneseamericanhistory-org-story-corpus||TAH story corpus]]。
+- 名字拼寫：本頁 slug／TAH Who's Who 用 "Butteryfly"，口述歷史 #36 與 2014 年條目用 "Butterfly"。兩種寫法均見於來源，視為未定（HOLD）。
+- 專業學會：美國合唱指揮協會（ACDA）、音樂教師全國協會（MTNA）會員——見本頁 Timeline 末段（來源：TAH #36 口述歷史）。
