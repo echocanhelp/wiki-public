@@ -51,8 +51,18 @@ _No filled family fields on the TAH profile._
 - Community leadership: President of [[organizations/taiwanese-american-cpa-association-tacpa|TACPA (台美會計師協會)]], 2001–2002; President of the 全美台灣客家同鄉會 — the association is documented in the vault at [[works/taiwaneseamericanhistory-org/taiwanese-hakka-associations-of-america|TAH: Taiwanese Hakka Associations of America]]; Vice President of [[organizations/taiwanese-hakka-association-of-the-world|Taiwanese Hakka Associations of the World]]; President of [[organizations/taiwanese-american-federation-of-n-california|TAFNC (北加州台灣同鄉會)]].
 - **2026-09-14 (DEEPEN-X09112200-5):** re-check — TACPA, TAFNC, the Hakka-association pages and the TAH #1873 work record all resolve in the vault; Bowling Green State, Univ. of Pittsburgh, SUNY Buffalo, San Jose State and the accounting firms have no vault pages; no new absorbable vault-side facts.
 
+## TAFNC leadership and 台灣會館 (absorbed 2026-09-14, vault-only)
+
+From the Our Journeys accounts already held in the vault:
+
+- 1994 — served as one of the two vice chairmen (副會長, with 謝鎮寬) of the 北加州台灣同鄉會聯合會 under chairman 林健次, per [[works/taiwaneseamericanhistory-org/ourjourneys142|TAH #142 (林健次, 2015/06)]]. During the internal council dispute that year, the pro-KMT bloc proposed stripping the chairman/vice-chairman votes; the episode is recorded there verbatim.
+- 2003 — as chairman (會長), launched the 台灣會館 fundraising drive at the Spring Festival gala (raised $30,000; preparatory committee formed Feb 16, convened by 張信行), per [[works/taiwaneseamericanhistory-org/ourjourneys38|TAH #38]].
+- Early 2003 — encouraged the founding of the Northern California 台灣會館 and joined its preparatory committee alongside 陳德輝, 石清正, 陳光博, 施天墩, 林典謨, 李華林, 翁嘉盛, 邱俊邦 and 張信行; the 會館 opened in Fremont in March 2003, per [[works/taiwaneseamericanhistory-org/ourjourneys24|TAH #24]] and [[works/taiwaneseamericanhistory-org/ourjourneys53|TAH #53]].
+- A chairman-era record appears in [[works/taiwaneseamericanhistory-org/ourjourneys110|TAH #110 (張祿生會長)]].
+
 ## Sources
 - [TAH #1873 encyclopedia: 1873. Prof. Davis L. S. Chang 張祿生教授](https://taiwaneseamericanhistory.org/whos-who-1873-davis-l-s-chang/)
+- Vault works: [[works/taiwaneseamericanhistory-org/ourjourneys142|Our Journeys #142]] · [[works/taiwaneseamericanhistory-org/ourjourneys38|#38]] · [[works/taiwaneseamericanhistory-org/ourjourneys24|#24]] · [[works/taiwaneseamericanhistory-org/ourjourneys53|#53]] · [[works/taiwaneseamericanhistory-org/ourjourneys110|#110]]
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-davis-l-s-chang/)
 
 ## Related Pages

@@ -70,5 +70,9 @@ Accomplishment
 - [[organizations/united-taiwanese-association-at-uc-san-diego||United Taiwanese Association at UC San Diego]] — context for his 1984–1991 professorship at UCSD
 - [[organizations/taiwanese-american-organization-at-uc-irvine||Taiwanese American Organization at UC Irvine]] — context for his 2003–2019 UC Irvine years (Donald Bren Professor → Chancellor)
 - [[sources/penghu-info||Penghu]] — context for his 1950 birthplace, Penghu
+- [[works/taiwaneseamericanhistory-org/china-medical-university|TAH vault record: China Medical University]] — vault record covering the institution where he has served as Principal since 2014
+- [[works/taiwaneseamericanhistory-org/whos-who-1796-eva-y-h-p-lee|TAH #1796 Who's Who (Eva Y. H. P. Lee)]] — adjacent encyclopedia entry; source of the spouse-mention discrepancy held above
+
+Deepen-x pass 2026-09-14 (slice 09140107-1, vault-only): tah-tables education/employment already absorbed into Timeline above; RB gene discovery (1986) carried from on-page accomplishment field. Links added only to disk-verified vault pages.
 
 Context-of-staff affiliation links only — no documented membership. Spouse discrepancy vs [[people/prof-eva-y-h-p-lee||Prof. Eva Y. H. P. Lee]] remains on HOLD pending owner verification.

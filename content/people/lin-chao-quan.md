@@ -66,3 +66,5 @@ From the 何義麟 essay in the vault record [[works/taiwaneseamericanhistory-or
 - [[people/liao-shu-zong||廖述宗 (Liao Shu-zong) — second cousin]]
 - [[people/yang-jia-you||楊嘉猷 (Charles Yang) — visited Lin in 1984]]
 - [[sources/2017-tahs-publication||2017 TAHS Publication]]
+## Vault re-check 2026-09-14 (deepen-x slice 09140107-3, vault-only)
+All wikilink targets re-verified to resolve in the vault; all cited-source facts already absorbed in prior deepen passes. No new vault facts found, no web used, no new pages, nothing published.

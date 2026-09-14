@@ -71,5 +71,9 @@ Note: the on-page narrative ("25 years" at Tamkang) and the employment table (19
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - [[sources/taiwaneseamericanhistory-org-story-corpus||TAH story corpus hub]]
+- [[sources/presbyterian-church-in-taiwan||Presbyterian Church in Taiwan source]] — church milieu context for his 台灣神學院 training and 牧師 role recalled in vault memoirs
+- [[works/taiwaneseamericanhistory-org/sc-tamkang-high-school-alumni-association||南加州淡江中學校友會]] — the 淡江中學 alumni body that kept performing his works in the US
+
+Deepen-x pass 2026-09-14 (slice 09140107-1, vault-only): tah-tables (教育 台灣神學院 1930–1934; 校長 淡江中學 1952–1954, 純德女子學校 1955–1980; 啟師 entry truncated in source table) already absorbed into Timeline above; no new vault facts found, no web used, no new pages created.
 ## Network
 - [[organizations/presbyterian-church-in-taiwan||PCT]] — TAH Who’s Who

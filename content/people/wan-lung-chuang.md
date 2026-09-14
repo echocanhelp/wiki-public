@@ -73,3 +73,6 @@ All wikilink targets on this page verified to exist in the vault; all cited-sour
 ## Vault re-check 2026-09-14 (deepen-x slice 6, vault-only)
 - All wikilink targets re-verified to exist; the Career and Timeline sections remain consistent with the TAH #1757 / #414 records held in the vault, and the dual Wan-Lung / Wan-Ling spelling is still recorded as-is, unresolved.
 - No new vault facts found, no web used, no new pages created, nothing published.
+
+## Vault re-check 2026-09-14 (deepen-x slice 09140107-3, vault-only)
+All wikilink targets re-verified to resolve in the vault; all cited-source facts already absorbed in prior deepen passes. No new vault facts found, no web used, no new pages, nothing published.
