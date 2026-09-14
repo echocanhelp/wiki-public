@@ -49,3 +49,8 @@ last_reviewed: 2026-09-14
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+## Vault Absorbed (2026-09-14)
+- His cited TAH #178 entry records him as the first Taiwanese American animal specimen maker (第一位台美人動物標本製作家, 1970); the vault also holds [[works/taiwaneseamericanhistory-org/11-e9-84-ad-e7-91-9e-e9-9b-84-e5-85-88-e7-94-9f-e8-b4-88-e9-80-81-e7-9a-84-e6-a8|TAH #11 鄭瑞雄先生贈送的標本]] (2015-03) — donated specimen records consistent with that role.
+- Vault story corpus (all authored by/about him): [[works/taiwaneseamericanhistory-org/314-jeffrey-tsung-e9-84-ad-e7-91-9e-e9-9b-84201502|TAH #314]] (2015-02-26), [[works/taiwaneseamericanhistory-org/273-e5-85-92-e5-ad-90-e7-9a-84-e5-bf-83-e8-81-b2-e9-84-ad-e7-91-9e-e9-9b-8420150|TAH #273 兒子的心聲]] (2015-05-27, his sons' tribute), and [[works/taiwaneseamericanhistory-org/mystories212|My Stories #212 面紗內外]] (2015-03-03).
+- No further biography invented; verification still pending against the cited TAH pages.

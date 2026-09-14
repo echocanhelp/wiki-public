@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-14
 ---
 # Dr. Sie-Ling Chiang (姜西淋博士)
 
@@ -46,3 +46,5 @@ Accomplishment
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- [[works/taiwaneseamericanhistory-org/whos-who-1644-sie-ling-chiang||2017-05: TAH #1644 Who's Who entry]]
+- Listed as the Pennsylvania contact in 陳希寬's memoir of the first《全美台灣同鄉通訊錄》([[works/taiwaneseamericanhistory-org/ourjourneys58||TAH #58]]) — consistent with his 1964–2004 career in PA and at Dept. of the Interior HQ

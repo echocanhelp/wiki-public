@@ -45,4 +45,9 @@ last_reviewed: 2026-09-14
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 ## Network
-- [[organizations/presbyterian-church-in-taiwan||PCT]] — TAH Who’s Who
+- [[organizations/presbyterian-church-in-taiwan||PCT]] — TAH Who’s Who; the PCT page lists him among its key figures (reciprocal link verified 2026-09-14)
+- His deanship of Presbyterian Bible College (新竹聖經學院) sits within the PCT's own related-institution line — the PCT page names Presbyterian Bible College among its educational institutions.
+
+## Vault Absorbed (2026-09-14)
+- Vault work record: [[works/taiwaneseamericanhistory-org/whos-who-1674-rui-long-lin|TAH #1674 Rev. Rui-Long Lin 林瑞隆牧師]], published 2017-05-21 — bibliographic record only.
+- Era field 1947-2019 on this page records his passing; no death-date detail exists elsewhere in the vault, so none was added.

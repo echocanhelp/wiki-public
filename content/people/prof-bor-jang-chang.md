@@ -41,3 +41,7 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+## Vault Absorbed (2026-09-14)
+- Vault work record: [[works/taiwaneseamericanhistory-org/whos-who-1702-bor-jang-chang|TAH #1702 Prof. Bor Jang Chang 張博增教授]], published 2017-06-29 — bibliographic record only, full text stays in the vault.
+- No other vault page names 張博增 beyond the TAH harvest index; the page is saturated with what the vault currently holds (graph education/employment tables + #1702 record). No new biography invented.

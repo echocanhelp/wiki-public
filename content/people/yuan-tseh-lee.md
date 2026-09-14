@@ -49,3 +49,9 @@ M.S., Radiochemistry Group
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+## Vault Absorbed (2026-09-14)
+- Named among the laureates honored by [[organizations/taiwan-american-foundation||Taiwan American Foundation]] (founded by Wang Gui-rong 王桂榮 to honor outstanding Taiwanese individuals worldwide), alongside 廖述宗, 柏楊, 李登輝, 彭明敏, 蘭大弼.
+- His TAH encyclopedia entry #24 records him as the first Nobel prize winner (Chemistry), dated 10/15/1986.
+- Vault work records: [[works/taiwaneseamericanhistory-org/whos-who-54-yuan-tseh-lee|TAH #54 Who's Who profile]] (2014-10-04) and [[works/taiwaneseamericanhistory-org/3-prof-yuan-tze-lee|TAH #3 Prof. Yuan-tze Lee 李遠哲教授]] (2018-07-31).
+- No further biography invented; verification still pending against the cited TAH pages.
