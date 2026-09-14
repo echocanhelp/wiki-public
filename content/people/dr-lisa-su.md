@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # Dr. Lisa Su (蘇姿豐博士)
 
@@ -59,3 +59,9 @@ father [[people/su-chun-huai||蘇春槐]]; mother 羅淑雅 (no page yet).
 - [[works/taiwaneseamericanhistory-org/whos-who-43-lisa-su||TAH Who's Who #43: Dr. Lisa Su]]
 - [[works/taiwaneseamericanhistory-org/112-dr-lisa-su-amd-2014||TAH #112: Dr. Lisa Su, AMD (2014)]]
 - [[works/taiwaneseamericanhistory-org/71-dr-morris-chang-exemplary-leadership-award-dr-lisa-su||TAH #71: Dr. Morris Chang Exemplary Leadership Award — Dr. Lisa Su]]
+
+## Vault Deepen (2026-09-14)
+- TAH #112 (published 2015-12-10) records her as **the first Taiwanese-American second generation to become CEO of a public company** upon her 2014 appointment at AMD: [[works/taiwaneseamericanhistory-org/112-dr-lisa-su-amd-2014||TAH #112]].
+- She received the **Dr. Morris Chang Exemplary Leadership Award** from the Global Semiconductor Alliance (GSA) on December 6, 2018, documented at [[works/taiwaneseamericanhistory-org/71-dr-morris-chang-exemplary-leadership-award-dr-lisa-su||TAH #71]].
+- AMD's bet on brand-new chip technology under her leadership is profiled in [[works/taiwaneseamericanhistory-org/12-chipmaker-amd-makes-a-big-bet-on-brand-new-tech-dr-lisa-su||TAH #12 (2017-07-19)]].
+- All three EE degrees (B.S. 1990, M.S. 1991, Ph.D. 1994) were earned at MIT, connecting her to the Taiwanese student network at [[organizations/association-of-taiwanese-students-at-mit||AIT/MIT]]; encyclopedia records at [[works/taiwaneseamericanhistory-org/53-dr-lisa-su||TAH #53]] and [[works/taiwaneseamericanhistory-org/whos-who-43-lisa-su||TAH #43]].

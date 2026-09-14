@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # Erh-Jen Lee (李爾仁)
 
@@ -52,3 +52,8 @@ _No filled family fields on the TAH profile._
 
 ## Connected in the Vault（deepen pass 2026-09-11）
 - TAH 傳記記錄：[[works/taiwaneseamericanhistory-org/erh-jen-lee-pianist-oboist-accompanist-chamber-musician-and-a-music-educator||TAH #404 Erh-Jen Lee 李爾仁, Pianist, Oboist, Accompanist / 2017/06]]。
+
+## Vault Deepen (2026-09-14)
+- Her TAH #404 biography ([[works/taiwaneseamericanhistory-org/erh-jen-lee-pianist-oboist-accompanist-chamber-musician-and-a-music-educator||published 2017-06-05]]) records the full arc: piano from age 5; Kawai Piano Competition Taiwan at age 10 (Mozart piano sonata, 3rd movement); three first prizes in Taiwan's National Oboe Competition by age 13; win at the International Chopin Piano Competition of Taipei → scholarship to study with **Constance Keene** at the Manhattan School of Music, with further study at the Juilliard School; doctoral degree, Catholic University of America (2013).
+- Honored with "The National Outstanding Artist Achievement Award" from the Chi-Mei Cultural Arts Foundation, 2001–2003.
+- Since 2011: Rehearsal Artist / Accompanist, American Dance Institute; also Rehearsal Artist and School Accompanist, Washington Ballet.

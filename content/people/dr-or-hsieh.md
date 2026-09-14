@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # Dr. Or. Hsieh (謝娥醫師)
 
@@ -59,3 +59,8 @@ _No filled family fields on the TAH profile._
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - [[people/dr-jen-yih-chu||Dr. Jen-Yih Chu（朱真一，TAH #96 記述者）]]
+
+## Vault Deepen (2026-09-14)
+- Two further TAH records held in the vault: [[works/taiwaneseamericanhistory-org/senior-taiwanese-american-15||TAH #15: Dr. Or Hsieh (謝娥醫師)]] (published 2019-08-30) and the photo-album record [[works/taiwaneseamericanhistory-org/photo-albums-historical-26||TAH #26: The First Taiwanese American — Dr. Or Hsieh / 1949]] (published 2016-01-24).
+- [[works/taiwaneseamericanhistory-org/mystories96||TAH #96]], by [[people/dr-jen-yih-chu||Dr. Jen-Yih Chu 朱真一]], recounts her as the **first woman Taiwanese American** (left Taiwan 1949, built a career in public health); her 1952 Columbia DrPH as the **first Taiwanese-American Ph.D. in public health** is recorded at [[works/taiwaneseamericanhistory-org/ff311||TAH #311]].
+- Career per the profile tables: M.D. Tokyo Women's Medical Univ. 1935–1940 → Legislator, Taiwan legislature (1948–) → Oregon State Hospital (1967–) → Director, NY State Albany Regional Office (1973–); Who's Who entry at [[works/taiwaneseamericanhistory-org/whos-who-1845-or-hsieh||TAH #1845]].
