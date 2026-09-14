@@ -60,3 +60,6 @@ Born in Taipei, Taiwan, Linda began piano lessons at the age of four. A few year
 ## Vault records (deepen pass 2026-09-11)
 - Encyclopedia record in vault: [[works/taiwaneseamericanhistory-org/264-linda-chen-e9-99-b3-e6-98-a0-e5-a6-a4-pianist-201508||TAH #264 Linda Chen 陳映妤, Pianist]] (2015/08) — vault copy of the source behind the Eastman/UMKC biography, teaching studio, and KMTA/Mu Phi Epsilon service above.
 - Second cited record also held: [[works/taiwaneseamericanhistory-org/264-linda-chen-e9-99-b3-e6-98-a0-e5-a6-a4-201508||TAH #530 Linda Chen 陳映妤]] (2015/08) — vault copy of the companion encyclopedia entry cited in Sources above.
+
+## Deepen pass (2026-09-14)
+- 自既有 vault 引用複核：傳記事實（Eastman B.M. 2000、UMKC M.M. 2004 / DMA 2009、Kansas City Music Teachers Association 執行董事、Mu Phi Epsilon 區Director、2000 起私人琴室）全部出自已連結的 TAH #264/#530 vault 條目與 Who's Who 表欄，無可新增之既有 vault 事實；未新增頁面、未新闢傳記。last_reviewed 更新為今日。

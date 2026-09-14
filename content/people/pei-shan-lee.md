@@ -54,3 +54,6 @@ _No filled family fields on the TAH profile._
 - Concert venues include the Kennedy Center, Lincoln Center's Avery Fisher and Alice Tully Halls, Carnegie Hall's Weill Recital Hall, Boston's Jordan Hall, Cleveland's Severance Hall, and Taiwan's National Concert Hall, plus tours of France, Germany, Belgium, and Israel.
 - Summer festival appearances span the Mostly Mozart, Caramoor, Great Lakes Chamber Music, Chautauqua Institute, Music Academy of the West, Heifetz Institute, and Formosa Chamber Music Festival, among others.
 - Trained at the Manhattan School of Music (BM), The Juilliard School (MM), and the New England Conservatory (DMA); teaches piano ensemble and chamber music at the New England Conservatory (美國新英格蘭音樂學院) and previously at UC Northridge (加州大學北嶺分校).
+
+## Deepen — 2026-09-14 (vault-only re-check)
+TAH #304/#674 vault work pages and the Formosa / Hanchien-lee disambiguation pointers above re-verified against live vault slugs; no broken links. No further unabsorbed facts in cited vault records; no new biography invented.

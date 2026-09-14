@@ -68,3 +68,6 @@ Absorbed from `knowledge/research/eastgatebarclay-org-entities.md` + [[sources/e
 - [[organizations/tainan-east-gate-barclay-memorial-church||東門巴克禮紀念教會]]
 - [[organizations/elder-john-lai-archives||史料庫]]
 - [[sources/laijohn-com||laijohn.com]]
+
+## Deepen — 2026-09-14 (vault-only re-check)
+East Gate vault archive facts (1903 福音堂, 1914 臺灣大會, 2003 centennial rename, 2017–2018 Elizabeth Memorial Chapel, 2024-10 古蹟 designation) already absorbed above; all wikilinks re-verified against live vault slugs. No further unabsorbed vault facts; no new pages created.
