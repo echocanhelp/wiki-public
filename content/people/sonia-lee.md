@@ -62,3 +62,6 @@ _No filled family fields on the TAH profile._
 ## Network
 - [[organizations/presbyterian-church-in-taiwan||PCT]] — TAH Who’s Who
 - Her NTNU piano-training generation is documented in the alumni corpus: see [[works/taiwaneseamericanhistory-org/140-ntnuaa||NTNU alumni association record]].
+
+## Deepen — 2026-09-14 (vault-only pass)
+- Re-verified against the page's own cited records: both TAH encyclopedia works (#115, #230) exist in the vault and are linked above; the Irvine church links ([[organizations/evergreen-senior-university-by-evangelical-formosa-church-of-irvine-esu||EFCI/Evergreen Senior University]], [[organizations/irvine-taiwanese-presbyterian-church||ITPC]]) cover her documented community footprint. No further absorbable vault facts without new sources; no new links added this pass.
