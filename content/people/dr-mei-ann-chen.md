@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-13
 ---
 # Dr. Mei-Ann Chen (陳美安博士)
 
@@ -64,3 +64,6 @@ All are band-B bibliographic records; full text stays in the source archive.
 - [[organizations/taiwanese-american-historical-society||TAHS]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - [[sources/taiwaneseamericanhistory-org-story-corpus||TAH Story Corpus (source hub)]]
+
+## Vault re-check 2026-09-13 (deepen-x slice 24, vault-only)
+All wikilink targets verified to exist in the vault; all cited-source facts already absorbed in the 2026-09-10/11 deepen passes — no new vault facts found, no web used, no new pages, nothing published.

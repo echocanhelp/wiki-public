@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-13
 ---
 # David Loong-Hsing Wen (溫隆信)
 
@@ -63,3 +63,6 @@ _No filled family fields on the TAH profile._
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - [[people/chihchun-chi-sun-lee||Chihchun Chi-sun Lee (李智美)]]
+
+## Vault re-check 2026-09-13 (deepen-x slice 24, vault-only)
+All wikilink targets verified to exist in the vault; all cited-source facts already absorbed in the 2026-09-10/11 deepen passes — no new vault facts found, no web used, no new pages, nothing published.

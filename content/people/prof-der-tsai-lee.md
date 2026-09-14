@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-13
 ---
 # Prof. Der-Tsai Lee (李德財教授)
 
@@ -63,3 +63,6 @@ Facts already present in cited vault pages, absorbed here:
 
 ## Vault re-check 2026-09-11 (deepen-x slice 9, vault-only)
 All wikilink targets on this page verified to exist in the vault; all cited-source facts were already absorbed in the prior deepen pass. No new vault facts found, no web used, no new pages created, nothing published.
+
+## Vault re-check 2026-09-13 (deepen-x slice 24, vault-only)
+All wikilink targets verified to exist in the vault; all cited-source facts already absorbed in the 2026-09-10/11 deepen passes — no new vault facts found, no web used, no new pages, nothing published.

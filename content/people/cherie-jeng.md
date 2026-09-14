@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-13
 ---
 # Cherie Jeng
 
@@ -53,3 +53,6 @@ _No filled family fields on the TAH profile._
 - [[organizations/taiwanese-youth-arts-foundation-washington-dc||Taiwanese Youth Arts Foundation (Washington DC)]] — DC-area Taiwanese arts-education context for her Glorystar children's-chorus work
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+## Vault re-check 2026-09-13 (deepen-x slice 24, vault-only)
+All wikilink targets verified to exist in the vault; all cited-source facts already absorbed in the 2026-09-10/11 deepen passes — no new vault facts found, no web used, no new pages, nothing published.
