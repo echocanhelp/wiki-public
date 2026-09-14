@@ -59,3 +59,11 @@ Dr. Bob Cheng (鄭寶鼎博士) was a Taiwanese American chemist, entrepreneur, 
 
 ## Vault re-check 2026-09-11 (deepen-x slice 17, vault-only)
 All wikilink targets verified to exist in the vault; all cited-source facts (NTU/Syracuse, Colgate-Palmolive, FEMA Electronics, TAA-NJ, TAH Archives, memorials #749/#300, portraits #35/#34) already absorbed. No web used, no new pages created, nothing published.
+
+## Vault re-check 2026-09-14 (deepen-x slice 09140020-2, vault-only)
+Multiple further vault records mention him and were not yet linked from this page (all disk-verified):
+- Memorial essays: [[works/taiwaneseamericanhistory-org/my-stories-807||#807 悼先夫——鄭寶鼎 (2021-10)]] (by his wife), [[works/taiwaneseamericanhistory-org/my-stories-767||#767 相扶持過一生的典範夫妻：鄭寶鼎丶張錦雲 / 李彥禎 (2020-11)]], [[works/taiwaneseamericanhistory-org/mystories-744||#744 悼念鄭寶鼎博士 / 柯金寅 (2020-09)]], [[works/taiwaneseamericanhistory-org/mystories-747||#747 緬懷鄭寶鼎先生之餘 / 江正吉 (2020-09)]], [[works/taiwaneseamericanhistory-org/mystories-756||#756 我所認識的Bob Cheng / 鍾澄文 (2020-10)]], [[works/taiwaneseamericanhistory-org/mystore-755||#755 Tribute to Dr. Bob Cheng / Dean Chang (2020-09)]], [[works/taiwaneseamericanhistory-org/event2020-8||#8 The passing of T. A. Archives' founder Dr. Bob Cheng]].
+- His archive's afterlife: [[works/taiwaneseamericanhistory-org/our-journeys-386||#386 UCSD獲500萬成立台灣研究中心 (2023-05)]] — UCSD's Taiwan Studies Center holds much of the TAH Archives material he founded and plans professional digitization.
+- Collection record: [[works/taiwaneseamericanhistory-org/private-collections-102||#102 Collection of the Dr. Bob Cheng 鄭寶鼎博士的收藏]]; association context: [[works/taiwaneseamericanhistory-org/ourjourneys76||#76 全美台灣同鄉會 / 吳木盛 (2014-12)]] lists 鄭寶鼎 among the New Jersey branch leadership.
+- Family note, not merged: #767 names his wife 張錦雲; the existing Family field lists "Jean". No vault source explicitly equates the two, so per HOLD-on-name-spelling policy both stand pending review.
+- No new biography asserted, no web used, no new pages created, nothing published.
