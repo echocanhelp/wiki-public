@@ -63,6 +63,10 @@ Absorbed from his TAH records (#17, #87, #99, #284) already in the vault:
 - Vault records about him: [[works/taiwaneseamericanhistory-org/17-prof-irwin-chu|17. Prof. Irwin Chu 朱耀源教授]] · [[works/taiwaneseamericanhistory-org/whos-who-99-irwin-chu|99. Dr. Irwin Chu 朱耀源博士]] · [[works/taiwaneseamericanhistory-org/collection-of-dr-irwin-chu|67. Collection of Prof. Irwin Chu 朱耀源教授的收藏]]
 - Community ties in the vault: [[organizations/taiwanese-association-of-indiana|Taiwanese Association of Indiana]] — the Indiana chapter network where he is listed as a founding member
 
+## Vault deepening note (2026-09-14, vault-only)
+- Re-checked the cited vault records [[works/taiwaneseamericanhistory-org/17-prof-irwin-chu|TAH #17]] and [[works/taiwaneseamericanhistory-org/87-dr-irwin-chu-e6-9c-b1-e8-80-80-e6-ba-90-e5-8d-9a-e5-a3-ab-first-president-not|TAH #87]]: held as bibliographic records only (full text stays in the [[sources/taiwaneseamericanhistory-org-story-corpus||TAH story corpus]]); no biographical facts beyond those already absorbed in Career Notes and Timeline.
+- Family members 張純枝, 朱隆英, 朱仲英 have no vault pages; no existing-slug links apply and no new pages created. Status: saturated.
+
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
