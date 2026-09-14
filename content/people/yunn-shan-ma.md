@@ -51,6 +51,10 @@ _No filled family fields on the TAH profile._
 - **Scope:** active as conductor, pianist and educator in both Asia and America; a native of 台灣.
 - **Vault context:** her Rochester/Eastman circle overlaps [[people/wan-lung-chuang||Wan-Lung Chuang]] (Eastman bassist, Rochester faculty) — same-school peer link only, no direct collaboration asserted; her 台大 alma mater is represented in the vault by [[organizations/joint-alumni-association-of-taiwan-teachers-college-and-normal-univers||JTTAA]] (師範院校校友組織; membership not asserted).
 
+## Vault records（deepen pass 2026-09-14）
+- 本人之 TAH 百科記錄兩則已入 vault（僅書目紀錄，發布 2015-05-24）：[[works/taiwaneseamericanhistory-org/200-yunn-shan-ma-e9-a6-ac-e9-9f-bb-e7-8f-8a-conductor-201505|TAH #200 Yunn-Shan Ma 馬韻珊, Conductor (2015/05)]]、[[works/taiwaneseamericanhistory-org/423-yunn-shan-ma-e9-a6-ac-e9-9f-bb-e7-8f-8a-201505|TAH #423 Yunn-Shan Ma 馬韻珊 (2015/05)]]。
+- 語料庫 grep 僅命中上述本人書目紀錄與 works/index，回忆录敘事無可吸收者；本頁人物敘事維持 TAH 原始紀錄。
+
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

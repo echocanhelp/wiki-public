@@ -50,6 +50,10 @@ _No filled family fields on the TAH profile._
 - [[organizations/greater-washington-taiwan-culture-center||Greater Washington Taiwan Culture Center]] — 本頁所載 GWTAC 伴奏與教會音樂服務之大華府台美人社群場域
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
+## Role in the Community（corpus-deepened 2026-09-14）
+- **GWTAC 伴奏之實錄**：大華府臺灣合唱團（GWTAC）「作伙來唱歌、唱出咱ㄟ心聲」音樂會 2017-11-04 於 Rockville, MD 舉行，vault 存有两项记录页：[[works/taiwaneseamericanhistory-org/concerts108|TAH #108 音樂會記錄]] 與 [[works/taiwaneseamericanhistory-org/videos85|TAH #85 影音記錄]]——本頁所載之合唱團伴奏服務由此得到實際活動日期佐證。
+- **同名漢字異寫**：语料库另有 [[works/taiwaneseamericanhistory-org/whoswho1637|TAH #1637「Teng-Kuan (Eric) Huang 黃勝寬」/2017-05]]，羅馬拼音與本頁相同（Teng-Kuan Eric Huang）但漢名作「黃勝寬」非「黃騰寬」——HOLD: 同人之筆誤 vs 另一位同名者，兩說並存，不逕行併檔。
+
 ## Vault records（deepen pass 2026-09-11）
 - 本页传记之 TAH 出处页：[[works/taiwaneseamericanhistory-org/eric-teng-kuan-huang-pianist||TAH #405 Eric (Teng-Kuan) Huang 黃騰寬, Pianist (06/2017)]]、[[works/taiwaneseamericanhistory-org/music398||TAH #398 Eric (Teng-Kuan) Huang 黃騰寬, pianist (2017/05)]]。
 - 本页所载伴奏／钢琴服务对应之 Vault 页：[[works/taiwaneseamericanhistory-org/taiwanese-presbyterian-church-of-washington||Washington 台美人长老教会记录页]]、[[works/taiwaneseamericanhistory-org/1-the-greater-washington-taiwanese-american-chorus-e8-8f-af-e5-ba-9c-e5-8f-b0-e7||TAH #1 The Greater Washington Taiwanese-American Chorus (GWTAC)]]。
