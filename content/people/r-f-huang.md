@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # R. F. Huang (許黃瑞鳳)
 
@@ -29,6 +29,14 @@ last_reviewed: 2026-09-11
 - Long Island Symphonic Chorus — Member — 紐約杏仁 Quartet — Conductor — 大紐約區台灣同鄉會合唱團 — Conductor — (2011-) — Community — 紐約杏林Quartet — 指揮 — 大紐約區台灣同鄉會合唱團 — 指揮
 <!-- tah-tables:end -->
 
+## Timeline（自本頁既有史料整理，deepen 2026-09-14）
+- 出生於台南，成長於愛好音樂的家庭（母親柯明珠為三十年代留日聲樂家）
+- 五歲起參加唱詩班至今
+- 1961 — 台灣師範大學音樂系畢業（主修聲樂；tah-tables 欄「台灣範大學」為「台灣師範大學」之脫字）
+- 來美後定居長島，參加 Long Island Symphonic Chorus 二十多年
+- 擔任紐約杏仁 Quartet 指揮十多年
+- 2011 起 — 大紐約區台灣同鄉會合唱團指揮
+
 ## Family
 - **Mother:** 柯明珠 — 三十年代留日聲樂家 (per TAH #409 biography above)
 
@@ -39,9 +47,10 @@ last_reviewed: 2026-09-11
 
 ## Vault Holdings
 Her TAH encyclopedia records are held in the vault as community historical record:
-- [[works/taiwaneseamericanhistory-org/musician409|TAH #409 — R. F. Huang 許黃瑞鳳, conductor (07/2017)]]
+- [[works/taiwaneseamericanhistory-org/musician409|TAH #409 — R. F. Huang 許黃瑞鳳, conductor (07/2017)]]（vault 記錄發布日 2017-07-01）
 - [[works/taiwaneseamericanhistory-org/whoswho1710|TAH #1710 — R. F. Huang 許黃瑞鳳 (07/2017)]]
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- [[sources/taiwaneseamericanhistory-org-story-corpus||TAH story corpus]]

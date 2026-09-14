@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # Kaiyin Huang (黃凱盈)
 
@@ -32,9 +32,20 @@ Kaiyin Huang is an trained pianist and one of the contributing artists of 88 Con
 - 紐約州立大學音樂系 — 室內樂教學助理
 <!-- tah-tables:end -->
 
+## Timeline（自本頁既有史料整理，deepen 2026-09-14）
+- 1984 — 出生於台北市
+- 茱莉亞音樂學院 — B.S. Music
+- 耶魯研究所 — M.S. Music；耶魯大學音樂系 — 鋼琴教學助理
+- 紐約州立大學石溪分校 — 2012 — Ph.D. Music；紐約州立大學音樂系 — 室內樂教學助理
+- 2008 起 — 參與 88 Concert Tours（足跡及泰國、突尼西亞、土耳其、埃及；於開羅歌劇院辦理音樂會）
+- 2014 — 與 88 Concert Tours 於仰光創辦首屆 Myanmar International Music Festival
+
 ## Family
 
 _No filled family fields on the TAH profile._
+
+## 史料校讀（deepen 2026-09-14）
+- Education 欄「約州立大學石溪分校」應為「紐約州立大學石溪分校」（SUNY Stony Brook）之脫字；同頁 Employment 欄已作「紐約州立大學音樂系」，可互證。tah-tables 原始欄位保留原貌未改。
 
 ## Sources
 - [TAH #356 encyclopedia: 356. Kaiyin Huang 黃凱盈, Pianist / 2016/08](https://taiwaneseamericanhistory.org/musician356/)
@@ -45,6 +56,6 @@ _No filled family fields on the TAH profile._
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
-## Vault records（deepen pass 2026-09-11）
-- 本頁 TAH 出處之 Vault 頁面：[[works/taiwaneseamericanhistory-org/musician356||TAH 356. Kaiyin Huang 黃凱盈, Pianist / 2016/08]]、[[works/taiwaneseamericanhistory-org/whoswho1251||TAH 1251. Kaiyin Huang 黃凱盈 / 2016/08]]。
+## Vault records（deepen pass 2026-09-11, refreshed 2026-09-14）
+- 本頁 TAH 出處之 Vault 頁面：[[works/taiwaneseamericanhistory-org/musician356||TAH 356. Kaiyin Huang 黃凱盈, Pianist / 2016/08]]（vault 記錄發布日 2016-08-20）、[[works/taiwaneseamericanhistory-org/whoswho1251||TAH 1251. Kaiyin Huang 黃凱盈 / 2016/08]]。
 - publisher／語料庫：[[sources/taiwaneseamericanhistory-org-story-corpus||TAH story corpus]]。

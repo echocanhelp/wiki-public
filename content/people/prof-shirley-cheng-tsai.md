@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # Prof. Shirley Cheng Tsai (鄭秀蘭教授)
 
@@ -30,9 +30,18 @@ Prof. Shirley Cheng Tsai 鄭秀蘭教授 – History of Taiwanese American (T.A.
 - Gulf Oil, Pittsburgh, PA — Senior Research Engineer — (1974-1980) — Occidental Research Center, CA — Senior Research Engineer — (1980-1983) — California State University, Long Beach — Professor — (1983-2009) — Academia Sinica, Taiwan — Visiting Research Fellow — (1999-2003)
 <!-- tah-tables:end -->
 
+## Timeline（自本頁既有史料整理，deepen 2026-09-14）
+- 1941 — 出生於台灣苗栗
+- 1963 — 國立台灣大學化學工程學士（B.S., Chem. Eng.）
+- 1969 — 加州理工學院（Caltech）化學博士
+- 1974–1980 — Gulf Oil（匹茲堡）资深研究工程師
+- 1980–1983 — Occidental Research Center（加州）资深研究工程師
+- 1983–2009 — 加州州立大學長灘分校（CSULB）教授
+- 1999–2003 — 中央研究院訪問研究學者
+
 ## Family
 
-- **Husband:** Chen S. Tsai (蔡振水)
+- **Husband:** Chen S. Tsai (蔡振水) — 見 [[people/prof-chen-s-tsai||Prof. Chen S. Tsai]]
 - **Daughter:** Jeanne L. (蔡珍玲)
 - **Son:** Larry W. (蔡金勳)
 
@@ -45,9 +54,10 @@ Prof. Shirley Cheng Tsai 鄭秀蘭教授 – History of Taiwanese American (T.A.
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- [[sources/taiwaneseamericanhistory-org-story-corpus||TAH story corpus]]
 
 ## Vault Cross-References
 
-- [[works/taiwaneseamericanhistory-org/45-prof-shirley-cheng-tsai||TAH #45 encyclopedia entry: Prof. Shirley Cheng Tsai 鄭秀蘭教授]]
-- [[works/taiwaneseamericanhistory-org/whos-who-369-shirley-cheng-tsai||TAH Who's Who #369: Prof. Shirley Cheng Tsai 鄭秀蘭教授]]
+- [[works/taiwaneseamericanhistory-org/45-prof-shirley-cheng-tsai||TAH #45 encyclopedia entry: Prof. Shirley Cheng Tsai 鄭秀蘭教授]]（vault 記錄發布日 2018-08-24）
+- [[works/taiwaneseamericanhistory-org/whos-who-369-shirley-cheng-tsai||TAH Who's Who #369: Prof. Shirley Cheng Tsai 鄭秀蘭教授]]（vault 記錄發布日 2015-04-16）
 - [[people/prof-chen-s-tsai||Husband: Prof. Chen S. Tsai (蔡振水)]]

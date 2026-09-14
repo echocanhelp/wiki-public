@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # Tina Shao (邵婷雯)
 
@@ -31,12 +31,20 @@ Dr. Tina Shao is a member of the Pi Kappa Lambda National Honor Society and the 
 - Tainan University of Technol-ogy
 <!-- tah-tables:end -->
 
+## Timeline（自本頁既有史料整理，deepen 2026-09-14）
+- 台灣出身（a native of Taiwan）
+- Peabody Conservatory of Music（Johns Hopkins University）— Bachelor 及 Master of Music（performance）
+- Louisiana State University — Doctor of Musical Arts
+- 職涯 — Associate Professor of Music，Tainan University of Technology（教鋼琴演奏、文獻、台灣音樂史）
+- 學術榮譽／會員 — Pi Kappa Lambda National Honor Society；Music Teachers National Association（MTNA）
+
 ## Family
 
 _No filled family fields on the TAH profile._
 
 ## Vault Holdings
-- [[works/taiwaneseamericanhistory-org/musician55||TAH #55: Tina Shao 邵婷雯, Pianist (2014/10)]] — earlier TAH musician profile of the same person
+- [[works/taiwaneseamericanhistory-org/musician55||TAH #55: Tina Shao 邵婷雯, Pianist (2014/10)]] — earlier TAH musician profile of the same person；vault 記錄發布日 2014-10-11
+- [[works/taiwaneseamericanhistory-org/whoswho1111||TAH #1111: Tina Shao 邵婷雯 (2016/06)]] — Who's Who 百科記錄；vault 記錄發布日 2016-06-25
 - [[organizations/johns-hopkins-university-taiwanese-student-association||Johns Hopkins University Taiwanese Student Association]] — context: her alma mater (Peabody Conservatory of Music) is part of Johns Hopkins University
 
 ## Sources
@@ -47,3 +55,4 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- [[sources/taiwaneseamericanhistory-org-story-corpus||TAH story corpus]]
