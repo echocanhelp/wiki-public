@@ -47,7 +47,7 @@ Absorbed from the profile text and cited TAH encyclopedia entries:
 - Began on piano; moved to music theory, Solfege training, then oboe performance at [[organizations/joint-alumni-association-of-taiwan-teachers-college-and-normal-univers|台灣師範大學]] (NTNU), B.S. Music.
 - Principal oboist of the NTNU University Symphony Orchestra; won the university concerto competition and performed Haydn's Oboe Concerto with the Orchestra; numerous solo and chamber concerts.
 - Studied under Professor Pierre W. Feit during a visit to Vienna and Graz, Austria; won Third Prize at the Wiener International Summer Camp.
-- Returned to Taiwan to teach oboe while serving as principal oboist of the [[organizations/tah-foundation|National Symphony Orchestra in Taiwan]]-era national music scene; later guest oboist with orchestras at the Disney Concert Hall, Segerstrom Hall (Anaheim), and Riverside County (per Employment table).
+- Returned to Taiwan to teach oboe while serving as principal oboist of the National Symphony Orchestra in Taiwan (no vault page for the orchestra; publisher context: [[organizations/tah-foundation|TAH Foundation]]); later guest oboist with orchestras at the Disney Concert Hall, Segerstrom Hall (Anaheim), and Riverside County (per Employment table).
 - 2005 — M.S. Fine Art, UCI Claire (Claire Trevor) 音樂學院.
 
 ## Vault records (deepen pass 2026-09-14)

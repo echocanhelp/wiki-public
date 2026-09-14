@@ -28,7 +28,7 @@ last_reviewed: 2026-09-14
 
 ## Board record (vault-sourced)
 - **Attorney, California** — held the 團體董事 seat sponsored by **台美律師會** ([[organizations/taiwanese-american-lawyers-association||台美律師會]]) in the 第11屆 board (會訊 2018-06, TJ archive `20201118162555…`)
-- **2020-04-25** — lectured the 會館's first online event, an 移民講座 co-hosted with Career Taiwan USA Association; 100+ attendees (TJ archive `20210117070450…`)
+- **2020-04-25** — lectured the 會館's first online event, an 移民講座 co-hosted with [[organizations/career-taiwan-usa-association||Career Taiwan USA Association]]; 100+ attendees (TJ archive `20210117070450…`)
 - **2021-05** — co-initiator, 南加州僑界支持台灣參與WHA聯合聲明
 - **2021-10** — cited by the 總統 among 海外十大傑出青年 for long-term legal service to overseas Taiwanese in California (TJ archive `20211207115010…`)
 - **2024-11** — named among the **38位董事** in the 第26周年年會晚宴 announcement (TJ archive `20250420093345…`)
