@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # Mei-Li Chen (陳玫麗)
 
@@ -54,6 +54,11 @@ _No filled family fields on the TAH profile._
 - [[works/taiwaneseamericanhistory-org/207-mei-li-chen-e9-99-b3-e7-8e-ab-e9-ba-97-201501||TAH #207 陳玫麗傳記]]（2015-01-19 刊）
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+## Vault records（deepen pass 2026-09-14）
+- 本頁兩筆 vault 出處頁同於 2015-01-19 刊、B 級書目紀錄頁：[[works/taiwaneseamericanhistory-org/117-mei-li-chen-e9-99-b3-e7-8e-ab-e9-ba-97-conductor-201501||TAH #117 發布頁]]、[[works/taiwaneseamericanhistory-org/207-mei-li-chen-e9-99-b3-e7-8e-ab-e9-ba-97-201501||TAH #207 發布頁]]（全文留原站）。
+- 傳記事實以上列正文與 tah-tables 為準（東海大學音樂系鋼琴、西敏寺合唱學院師承 Dr. J. Flummerfelt、1989 起拾音合唱團指揮、South Plainfield 衛理公會與 New Brunswick First Reformed Church 聖樂職）——無新事實。
+- 教會服務脈絡屬長老教會傳統：[[organizations/presbyterian-church-in-taiwan||PCT]]；語料庫樞紐：[[sources/taiwaneseamericanhistory-org-story-corpus||TAH story corpus]]。
 
 ## Network
 - [[organizations/presbyterian-church-in-taiwan||PCT]] — TAH Who’s Who

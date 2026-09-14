@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # Jason Wu (吳季剛)
 
@@ -55,6 +55,11 @@ last_reviewed: 2026-09-11
 - [TAH #225 encyclopedia: 225. 台美人的榮耀 ( Pride of Taiwanese Americans) : 5,  Stories of Mr. Jason Wu ( 吳季剛 ](https://taiwaneseamericanhistory.org/mystories225/)
 - [TAH #172 encyclopedia: 172. Jason Wu 吳季剛](https://taiwaneseamericanhistory.org/whos-who-172-jason-wu/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/jason-wu/)
+
+## Vault records（deepen pass 2026-09-14）
+- 本頁三筆 vault 出處頁之發布紀錄：[[works/taiwaneseamericanhistory-org/whos-who-172-jason-wu||TAH #172 發布頁]]（2014-12-28）、[[works/taiwaneseamericanhistory-org/30-jason-wu-e5-90-b3-e5-ad-a3-e5-89-9b-famous-fashion-designer||TAH #30 發布頁]]（2015-12-03）、[[works/taiwaneseamericanhistory-org/mystories225||TAH #225 台美人的榮耀—吳季剛故事]]（2015-03-31，馬岳琳撰稿），皆 B 級。
+- 出處頁皆為書目紀錄頁（全文留原站），傳記事實以上列 tah-tables、Timeline 與 Family（父吳昆民、母陳美雲）為準——無新事實。
+- 語料庫樞紐：[[sources/taiwaneseamericanhistory-org-story-corpus||TAH story corpus]]。
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

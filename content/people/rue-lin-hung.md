@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # Rue-Lin Hung (洪瑞麟)
 
@@ -47,6 +47,10 @@ last_reviewed: 2026-09-11
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+## Vault records（deepen pass 2026-09-14）
+- 出處頁發布紀錄：[[works/taiwaneseamericanhistory-org/whos868-rue-lin-hung||TAH #868]]（2016-03-06）、[[works/taiwaneseamericanhistory-org/artist10-jui-lin-hung||TAH #10]]（2014-09-05）、[[works/taiwaneseamericanhistory-org/art-show-9||TAH #9 洪瑞麟回顧展 1997]]（紀錄頁 2017-02-16 刊），皆 B 級書目紀錄頁。
+- 傳記事實以上列正文與 tah-tables 為準（1938 起端芳／懷山煤礦三十五年、Mouve 行動美術集團、1964 洪瑞麟藝術工作室）；語料庫樞紐：[[sources/taiwaneseamericanhistory-org-story-corpus||TAH story corpus]]。
+
 ## Connected in the Vault（deepen pass 2026-09-10）
 
 - TAH 傳記記錄：[[works/taiwaneseamericanhistory-org/whos868-rue-lin-hung||TAH #868 Rue-Lin Hung 洪瑞麟 / 2016/03]]、[[works/taiwaneseamericanhistory-org/artist10-jui-lin-hung||TAH #10 洪瑞麟 Jui-Lin Hung]]。

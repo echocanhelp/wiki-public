@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # Prof. Jow-Lay Huang (黃肇端教授)
 
@@ -54,6 +54,11 @@ _No filled family fields on the TAH profile._
 ## Vault Holdings
 
 - [[works/taiwaneseamericanhistory-org/whos-who-1790-jow-lay-huang|TAH Who's Who #1790]] — Prof. Jow-Lay Huang 黃肇端教授（2017-07-27 刊）
+
+## Vault records（deepen pass 2026-09-14）
+- 本頁 TAH 傳記之 vault 內出處頁：[[works/taiwaneseamericanhistory-org/whos-who-1790-jow-lay-huang||TAH #1790 黃肇端 發布頁]]——發布 2017-07-27、B 級（essay/feature）。
+- 出處頁為書目紀錄頁（全文留原站），傳記事實以上列 tah-tables 與 Timeline 為準：清華大學學士、猶他大學 1983 博士、Ceramatec／Champion 產業歷練、成功大學教授歷任副院長至研发長、2016 起國立高雄大學校長、台灣鍍膜科技協會理事長——無新事實。
+- 語料庫樞紐：[[sources/taiwaneseamericanhistory-org-story-corpus||TAH story corpus]]；發布機構：[[organizations/tah-foundation||TAH Foundation]]。
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
