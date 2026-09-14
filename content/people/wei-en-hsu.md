@@ -53,6 +53,9 @@ _No filled family fields on the TAH profile._
 - [[works/taiwaneseamericanhistory-org/whoswho509||TAH #509 encyclopedia: Wei-En Hsu 徐惟恩 / 2015-07]]
 - [[works/taiwaneseamericanhistory-org/249-wei-en-hsu-e5-be-90-e7-b6-ad-e6-81-a9pianonist-201507||TAH #249 encyclopedia: Wei-En Hsu 徐維恩, Pianist / 2015-07 (note: name rendered 徐維恩 there)]]
 
+## Vault re-check (deepen 2026-09-14, vault-only)
+- All three cited encyclopedia records (#509, #348, #249) verified present in the vault corpus; the page body already absorbs every fact they carry (TNUAS 2003, Juilliard 2006, Royal Academy exchange 2004–05, Pocket Opera 2009, Carnegie consultancy 2011, HKAPA / Metropolitan 2012, Vital Opera board). No vault organization pages exist yet for TNUAS, Juilliard, the Royal Academy of Music, HKAPA, Pocket Opera or Vital Opera, so those stay unlinked plain text; the name-spelling HOLD (#249 徐維恩 vs #509/#348 徐惟恩) stands.
+
 ## Sources
 - [TAH #348 encyclopedia: 348. Wei-En Hsu 徐惟恩, Pianist / 2016/07](https://taiwaneseamericanhistory.org/musician348/)
 - [TAH #509 encyclopedia: 509. Wei-En Hsu 徐惟恩 / 2015/07](https://taiwaneseamericanhistory.org/whoswho509/)

@@ -33,17 +33,19 @@ last_reviewed: 2026-09-14
 - **2025** — thanked as 僑務委員 among 台美人傳統週 sponsors ([[events/tc-event-2025-traditional-week||2025 台美人傳統週]])
 
 ## Board record (vault-sourced)
-- **2018** — elected 個人董事 at the 第11屆 會員大會 (會訊 2018-06, TJ archive `20201118162555…`): 20 個人董事, 13 新任 — the largest board turnover in 會館 history
-- **2021-05** — co-initiator, 南加州僑界支持台灣參與WHA聯合聲明 (listed as 王梅鳯)
-- **2025** — thanked as **僑務委員** among 台美人傳統週 sponsors (TJ archive `20250518185808…`)
+- **2018** — elected 個人董事 at the 第11屆 會員大會 (會訊 2018-06 — vault record [[articles/taiwanjustice-net/2020/20201118162555_2018_06_27_大洛杉磯台灣會館會訊_2018-年六月-_大洛杉磯台灣_79291dad808ef7f7||會訊 2018-06]]): 20 個人董事, 13 新任 — the largest board turnover in 會館 history
+- **2021-05** — co-initiator, [[articles/taiwanjustice-net/2021/20210616072940_2021_05_17_2021年南加州僑界支持台灣參與世界衛生大會wha聯合聲_b1d58af16c0a5e5b||南加州僑界支持台灣參與WHA聯合聲明]] (listed as 王梅鳯)
+- **2025** — thanked as **僑務委員** among 台美人傳統週 sponsors (vault record [[articles/taiwanjustice-net/2025/20250518185808_2025大洛杉磯台美人傳統週隆重登場-文化融合綻放台_3ea94b0c1ab03c3e||台美人傳統週報導, taiwanjustice.net 2025-05]])
 
-- **2024-11** — named among the **38位董事** in the 第26周年年會晚宴 announcement (TJ archive `20250420093345…`)
+- **2024-11** — named among the **38位董事** in the 第26周年年會晚宴 announcement (vault record [[articles/taiwanjustice-net/2025/20250420093345_2024大洛杉磯台灣會館第26周年年會晚宴暨募款活動11月2_2f4af86847559b66||第26周年年會晚宴, taiwanjustice.net 2025-04]])
 - Board archive snapshot: `knowledge/web-archives/taiwancenter-org-board.md`
+
+**2026-09-14 deepen pass (vault-only):** the four board-record events now link their in-vault taiwanjustice.net archive articles (previously bare archive-ID references); 僑務委員 role linked to [[organizations/overseas-community-affairs-council||OCAC 僑務委員會]] in the public-roles section below. No new biography, no new pages.
 
 ## Public roles beyond the board (vault-sourced)
 
 - 2021-05 — co-initiator of the 南加州僑界支持台灣參與WHA聯合聲明 (recorded with name variant 王梅鳯) — an overseas-Taiwanese campaign for World Health Assembly participation
-- 2025 — thanked as 僑務委員 (overseas Taiwanese-affairs commissioner) among sponsors of 台美人傳統週 — see [[events/tc-event-2025-traditional-week||2025 台美人傳統週]]
+- 2025 — thanked as 僑務委員 (overseas Taiwanese-affairs commissioner — [[organizations/overseas-community-affairs-council||OCAC 僑務委員會]]) among sponsors of 台美人傳統週 — see [[events/tc-event-2025-traditional-week||2025 台美人傳統週]]
 
 ## Related Pages
 

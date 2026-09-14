@@ -41,7 +41,7 @@ Community-organizing activity around his founding of Taiwanese American Professi
 ## Community Involvement
 
 - **Taiwanese American Foundation (TAF)** — Board member
-- **Taiwanese American Professionals in San Francisco** — Founder
+- **[[organizations/taiwanese-american-professionals-san-francisco|Taiwanese American Professionals in San Francisco]]** — Founder
 - **TaiwaneseAmerican.org** — Founder
 
 ## Source Notes and Confidence
