@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # Ingrid Chun (郭雋音)
 
@@ -54,6 +54,6 @@ _No filled family fields on the TAH profile._
 
 ## Family & Vault Connections (deepened 2026-09-10, vault-internal)
 - Mother: [[people/l-m-chen||L. M. Chen (陳麗美)]]; father: 郭順良. Sister: [[people/melody-kuo||Melody Kuo (郭雋律)]], DMA piano (USC) — the sisters are described as a performing "姊妹花" duo.
-- Per vault page [[works/taiwaneseamericanhistory-org/ourjourneys301||Our Journeys #301]]: at the 1989 台灣文化之夜, Ingrid (violin) and Melody (piano) played in the 北美文協室內樂團 and gave the premiere performance of 蕭泰然's violin concerto, to a standing ovation; at the 1994 event the sisters performed 夢幻的恆春小調 and Sarasate's 流浪者之歌.
+- Per vault page [[works/taiwaneseamericanhistory-org/ourjourneys301||Our Journeys #301]]: at the 1989 台灣文化之夜, Ingrid (violin) and Melody (piano) played in the 北美文協室內樂團 and gave the premiere performance of [[people/tyzen-hsiao||蕭泰然 (Tyzen Hsiao)]]'s violin concerto, to a standing ovation; at the 1994 event the sisters performed 夢幻的恆春小調 and Sarasate's 流浪者之歌.
 - Other profile facts: Juilliard Bachelor's and Master's as a scholarship student of Dorothy DeLay; chamber collaborations with The Taylor Quartet, Thomas Adès, Yuja Wang; Edinburgh International Festival chamber music; regular in the L.A. Phil Green Umbrella new-music and Chamber Music series; adjunct faculty at La Sierra University, string orchestra director at The Master's College, currently teaching at Azusa Pacific University; began violin at age five, born in Taipei to a family of musicians.
 - Note: the education table lists "B.A. Music" twice; the profile prose states a Bachelor's **and** Master's from Juilliard, so the second row is the master's degree.

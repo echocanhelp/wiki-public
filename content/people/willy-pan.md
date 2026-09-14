@@ -4,7 +4,7 @@ type: person
 tags:
   - person
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # Willy Pan (潘建宇)
 

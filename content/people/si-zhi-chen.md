@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # Si Zhi Chen (陳泗治)
 
@@ -38,7 +38,7 @@ Absorbed from the on-page biography and tables (no external sources):
 - 1911 — born in Shilin (士林), Taipei.
 - Educated at Tamsui Senior High School; 台灣神學院 (Taiwan Theological College and Seminary) 1930–1934; studied piano with Minister Wu Wei-Lian and Ms. De Ming-Li.
 - 1934 — traveled to Japan to study composition at Tokyo Union Theological Seminary.
-- Returned to Taiwan; headmaster of 淡江中學 (Tamkang Senior High School), credited on-page with 25 years (table entry: 1952–1954, 校長).
+- Returned to Taiwan; headmaster of 淡江中學 (Tamkang Senior High School), credited on-page with 25 years (table entry: 1952–1954, 校長). His alma-mater/alumni network in the US is documented in the vault at [[works/taiwaneseamericanhistory-org/sc-tamkang-high-school-alumni-association||南加州淡江中學校友會]].
 - 1955–1980 — headmaster of 純德女子學校.
 - Compositions noted for patriotism, nationalistic fervor, and rural characteristics; called "a master of all masters" by the renowned Taiwanese composer 呂泉生 (Lü Quan-Sheng).
 - 1992 — passed away in the US.

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # Mei-En Chou (周媺恩)
 
@@ -61,3 +61,4 @@ _No filled family fields on the TAH profile._
 - Publication dates absorbed from the vault records themselves: the #190 pianist profile was published **2015-04-26** and the #359 profile **2015-04-15**; both are held as Band-B bibliographic records (full text remains in the TAH archive).
 - The reciprocal note on [[people/keng-wei-william-kuo||Keng-Wei William Kuo (郭耿維)]] independently corroborates the UNT Denton, TX graduate study recorded above — the two TAH musician profiles are the vault's only cross-referencing pair for that institution.
 - No further biographical facts are absorbable vault-side: the vault holds no band-A (oral/community-history) material on this subject.
+- **2026-09-14 (DEEPEN-X09112200-5):** cross-link re-check — 國立台灣師範大學, University of North Texas and Dr. Pamela Mia Paul have no vault pages, so institutions and mentor stay plain text; the reciprocal note on [[people/keng-wei-william-kuo|郭耿維]] and both TAH #190 / #359 work records still resolve; no new absorbable vault-side facts.

@@ -8,7 +8,7 @@ tags:
   - tahs-publication-2017
   - anti-kmt
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # Lin Chao-quan (林朝權)
 
@@ -59,6 +59,7 @@ From the 何義麟 essay in the vault record [[works/taiwaneseamericanhistory-or
 
 - **Content priority A:** Memorial by 楊嘉猷 (Charles Yang), Part 2, L25–32 — detailed account of Lin's life, political activism, imprisonment, and 1984 LA visit
 - **Hub:** [[sources/2017-tahs-publication||2017 TAHS Publication]]
+- **2026-09-14 (DEEPEN-X09112200-5):** re-check — every existing wikilink target (彭明敏, 廖述宗, 楊嘉猷, 林朝棨, TAH #350, 2017 TAHS Publication) resolves in the vault; 吳濁流 and 江文也 have no vault pages, so those book authors stay plain text; no additional absorbable vault-only facts.
 
 ## Related Pages
 
