@@ -1,0 +1,4 @@
+people/melody-kuo.md
+people/mao-sheng-chen.md
+people/jerry-jean.md
+people/wei-jane-chir.md
