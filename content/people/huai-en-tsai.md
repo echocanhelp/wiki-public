@@ -65,3 +65,6 @@ No further vault-internal facts to absorb: [[works/taiwaneseamericanhistory-org/
 
 ## Deepen pass 2026-09-14 (vault-only)
 Cross-linked the second vault record TAH #28 (2014-10); it carries no facts beyond TAH #421. No Soochow University or Peabody Institute pages exist in the vault, so no institutional links were added.
+
+## Corpus re-check 2026-09-14 (deepen-x slice 09141300-10)
+SKIP-with-reason: corpus grep of `content/works` + `content/articles` for 蔡懷恩/Huai-En returns only his own TAH records #421 and #28 (both already wikilinked above) plus the works index. No memoir or article material mentions him; the Greater Washington link on this page is already caveated as regional, not membership. No community/corpus facts absorbable. Nothing published.

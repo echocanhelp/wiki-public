@@ -70,3 +70,6 @@ _No filled family fields on the TAH profile._
 ## Name note
 The earlier TAH entry [[works/taiwaneseamericanhistory-org/249-wei-en-hsu-e5-be-90-e7-b6-ad-e6-81-a9pianonist-201507||TAH #249 (2015/07)]] renders his name 徐維恩, versus 徐惟恩 in #509/#348 and on this page. Treat the spelling as unresolved (HOLD).
 
+## Deepen-x 2026-09-14 (slice 09141300-9, corpus grep)
+**SKIP-with-reason:** corpus grep for 徐惟恩/徐維恩/Wei-En Hsu over works+articles returns only the three encyclopedia records already linked and fully absorbed (#509, #348, #249) plus the works index. No mention in the Our Journeys memoirs or other community material, and no new facts to absorb (口袋歌劇團/Pocket Opera and 大都會國際音樂節 have zero corpus hits). Name-spelling HOLD (#249 徐維恩 vs #509/#348 徐惟恩) stands.
+

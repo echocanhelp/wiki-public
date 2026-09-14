@@ -48,3 +48,6 @@ Directory description remains the sole absorbed source. Hakka-network links re-v
 
 ## Deepen-x 2026-09-14 (vault-only)
 Directory entry [[works/taiwaneseamericanhistory-org/global-hakka-un-ngo-applying-committee|TAH #44 (2016-06-16)]] now carries a reciprocal Subjects link to this page. No new vault facts beyond the already-absorbed directory description.
+
+## Deepen-x 2026-09-14 (slice 09141300-9, corpus grep)
+**SKIP-with-reason:** corpus grep for 世界客家社團加入 / "HAKKA UN NGO" over works+articles returns only its own record [[works/taiwaneseamericanhistory-org/global-hakka-un-ngo-applying-committee|TAH #44]] (already linked above) and the works index. Other 協進會 hits in the corpus (e.g. [[works/taiwaneseamericanhistory-org/taf-summer-conference|TAH #7 台美協進會夏令營]], [[works/taiwaneseamericanhistory-org/ourjourneys266|Our Journeys #266 台灣協進會]]) name different bodies — the Taiwanese American Federation and a 台灣協進會, not this Hakka committee — and are not absorbable here. Directory description remains the sole source.
