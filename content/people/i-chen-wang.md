@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-14
 ---
 # I-Chen Wang
 
@@ -35,6 +35,21 @@ _No filled family fields on the TAH profile._
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/i-chen-wang/)
+
+## Timeline (from cited TAH Who's Who profile)
+- 1974 — born in Taiwan
+- age 7 — piano studies begin (teachers Pu-Tao Wu, Angela Liu, Yin-Pin Liu, Wen-Jean Wang); admitted to the special music class at Yun-Fu Elementary School
+- age 10 — violin studies begin; age 12 — switched to viola (teachers Ling-Hui Chuang, Wen-Liang Yu)
+- 1986 — entered the music class of Ta-Chen Middle School
+- 1989 — entered the music class of Tainan Girls' High School
+- 1992 — entered the Juilliard School, B.S. in Music (Performing Arts), student of Karen Tuttle
+
+## Community roles (from same profile)
+- Founder/violist, Muse Piano Quartet
+- Sponsored performer, Formosa Chamber Music Society, Inc.
+
+## Vault note (deepen-x 2026-09-14)
+Page is saturated at its single cited source. None of the named entities (teachers, Yun-Fu Elementary, Ta-Chen Middle School, Tainan Girls' High School, Juilliard School, Muse Piano Quartet, Formosa Chamber Music Society) has an existing vault page; per slice rules no new pages were created and no biography was invented.
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

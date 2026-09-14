@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-14
 ---
 # Nancy Jan (詹雅惠)
 
@@ -44,3 +44,14 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+## Deepen pass (2026-09-14, vault-only)
+Absorbed solely from facts already present on this page (TAH biography + tah-tables):
+
+- **Training:** pupil of Dorothy DeLay and Hyo Kang; Master's degree, Juilliard School (tah-tables: Juilliard School — M.S.).
+- **Festival activity:** for years participated in the Aspen Music Festival (Colorado).
+- **Teaching:** Settlement School of Music; Haddonfield School of Music; currently L I N I S T Studio and a private violin studio.
+- **Performance:** concerto soloist with the Lancaster Symphony, Bridgeton Symphony, and Haddonfield Symphony (South Jersey / Philadelphia area); currently a member of the Delaware Symphony.
+- **TAH record history:** first listed as Who's Who #102 (musician, 2012/12), re-listed as #1119 (2016/06) — both encyclopedia entries cited above.
+
+Cross-links (existing slugs only): [[organizations/taiwanese-association-of-america-delaware||TA of America — Delaware]] (state of her current Delaware Symphony post).

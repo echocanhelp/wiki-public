@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-14
 ---
 # Taiwanese Scholar Association in St. Louis TSA-STL (聖路易台灣學者協會)
 
@@ -20,6 +20,15 @@ The Taiwanese Scholar Association in St. Louis (TSA-STL) is a community organiza
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-scholar-association-in-st-louis-tsa-stl/)
+
+## Vault record (TAH corpus)
+- 2016-09-27 — association profile story [[works/taiwaneseamericanhistory-org/taiwanese-scholar-association-in-st-louis-tsa-stl||TAH #21 TSA-STL]]
+- 2017-04 / 2018-04 — annual symposium handbooks held in vault: [[works/taiwaneseamericanhistory-org/publications1220||2017 Symposium 年會手冊]], [[works/taiwaneseamericanhistory-org/publications1221||2018 Symposium 年會手冊]] (corroborate the annual symposium described above)
+
+The association operates in the same St. Louis community field as [[organizations/taiwanese-association-of-america-in-greater-st-louis||TAA in Greater St. Louis]], [[organizations/friends-of-taiwan-greater-st-louis||Friends of Taiwan Greater St. Louis]], and [[organizations/north-america-taiwanese-womens-association-st-louis-chapter||NATWA St. Louis Chapter]].
+
+## Vault note (deepen-x 2026-09-14)
+Text above is absorbed solely from vault pages of the cited TAH records; no external biography added. Named TSA-STL officers/members have no vault pages yet.
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
