@@ -58,3 +58,8 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+## Deepen pass 2026-09-14 (vault-only, slice 09140741-13)
+
+- Collaborator sweep: no vault pages exist for violist Hsiaopei Lee or pianists Chialing Hsieh, Charleen Liu, Kelly Anderson, Jocelyn Hua-Chen Chang, Slawomir P. Dobrzanski, nor for Nick Terry, Stacey Fraser, or Andrew Crane; no org pages exist for the Taipei Philharmonic Youth Orchestra, Los Angeles Chamber Singers, the Thailand International Composition Festival, or the National Taiwan Symphony Orchestra. [[people/chia-ling-chien||Glendy Chien 簡嘉琳]] remains the only linkable collaborator.
+- Cited records [[works/taiwaneseamericanhistory-org/52-chih-chen-wei-e9-ad-8f-e5-bf-97-e7-9c-9f-composer|#52 (2014/10)]] and [[works/taiwaneseamericanhistory-org/402-chih-chen-wei-e9-ad-8f-e5-bf-97-e7-9c-9f-201505|#402 (2015/05)]] are bibliographic-only in the vault — no further text to absorb. Status: saturated, pending-verification.

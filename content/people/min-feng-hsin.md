@@ -60,3 +60,8 @@ A native of Taiwan, Ming Feng Hsin’s musical career began as a violin soloist 
 
 - 新增語料庫同儕脈絡連結：vault 內另有 TA 音樂家先例條目 [[works/taiwaneseamericanhistory-org/ff13||TAH #13：陳芳玉 Fan Yu Chen——Juilliard 音樂學校首位畢業生（鋼琴）]]，與本頁「Juilliard 指揮學位」之就學地相同，屬語料庫中 Juilliard 之早期台美人脈絡，非本人事蹟。
 - 其餘上輪結論維持：Juilliard、Metropolitan Opera Orchestra、Yehudi Menuhin、Wen Qian 等仍無 vault 頁面，未新增連結（避免死連結）；未新建頁面、未上網、無虛構事蹟。
+
+## deepen pass 2026-09-14（DEEPEN-X slice 09140741-13）
+
+- TAH 表列休士頓 Rice 大學指揮碩士：vault 內有 [[organizations/rice-taiwanese-graduate-student-association||Rice Taiwanese Graduate Student Association]] 及 [[organizations/rice-taiwanese-association||Rice Taiwanese Association]]，屬就學地台美人同儕脈絡（context-only，無本人 membership 紀錄），非本人事蹟。
+- 其餘結論維持：無 vault 頁面者不加連結；本頁飽和，verification_status: pending。

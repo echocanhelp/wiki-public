@@ -67,3 +67,4 @@ No further vault-internal facts to absorb: the on-page Education/Employment/Time
 
 ## Deepen pass 2026-09-14 (vault-only)
 No change to substance: [[works/taiwaneseamericanhistory-org/whos-who-2019-c-t-huang||TAH #2019]] remains the sole source and is fully mirrored. Student-association links (MIT, Cornell, UC Irvine, Harvard) remain context-only — no membership recorded. 台美史料中心 has no vault page, so no link was added.
+Slice 09140741-13: the 臺灣師範大學 (NTNU) lineage gains one context-only institutional tie — [[organizations/joint-alumni-association-of-taiwan-teachers-college-and-normal-univers||Joint Alumni Association of Taiwan Teachers College and Normal University (JTTAA)]] (alumni association of his degree-granting institution's lineage; no membership recorded). No other vault slugs apply; status: saturated, pending-verification.
