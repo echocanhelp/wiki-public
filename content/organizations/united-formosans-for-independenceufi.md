@@ -23,6 +23,9 @@ World United Formosans for Independence (WUFI) is a global advocacy organization
 - The alliance's publishing pipeline is documented firsthand: 《台獨月刊》 was its main voice, and 《台灣公論報》 (Taiwan Tribune) — planned from spring 1981, first issue 1981-07-31 from a Long Island City warehouse office — counted 社長洪哲勝 and 發行人羅福全; FAPA (台灣人公共事務會, first president 蔡同榮, 1982) was spun off from alliance work, its founding preparations held in 羅福全's kitchen — see [[works/taiwaneseamericanhistory-org/ourjourneys49|Our Journeys 49]].
 - The alliance's 遷台 campaign is remembered at the 1990s NYC 遷台餐會 (held 九月廿八, 500+ attendees, record fundraising; 陳婉眞 raised the alliance flag over 台中; 郭倍宏 and 李應元 appeared) — see [[works/taiwaneseamericanhistory-org/ourjourneys280|Our Journeys 280]].
 - 王康陸紀念音樂會 was held 7月2日 at the 美東台灣人夏令會 with the alliance; photo (left to right): 張燦鍙、林永生、王康陸 — see [[works/taiwaneseamericanhistory-org/ourjourneys302|Our Journeys 302]].
+- 移民配額：FAPA 成立前，透過台獨聯盟與全美台灣同鄉會的努力成功爭取到兩萬名台灣移民配額——美國第一次將台灣與中國分開考量；但外界批評聯盟「說了這麼多愛台灣的話，卻還要人留在美國」，聯盟努力反傷及自身——見 [[works/taiwaneseamericanhistory-org/ourjourneys49|Our Journeys 49]]。與 1982-02-13 董事會背景（美國國會通過兩萬名台灣人移民提案）互為印證（[[works/taiwaneseamericanhistory-org/ourjourneys65-eng|Our Journeys 65 (EN)]]）。
+- 美麗島事件牽連：起訴書指張瑞雄牧師帶五千美元交姚嘉文、為「暴力分子張燦鍙交付的工作費」；口述史料澄清該款為台灣同鄉捐款、經林弘宣託帶，國民黨情治單位自始認定為台獨聯盟捐款——見 [[works/taiwaneseamericanhistory-org/our-journeys-350|Our Journeys 350]]。
+- founding 文獻：TAH #204《世界台灣獨立建國聯盟 / The first year / 1/1/1970》有 vault 書目頁 [[works/taiwaneseamericanhistory-org/204-e4-b8-96-e7-95-8c-e5-8f-b0-e7-81-a3-e7-8d-a8-e7-ab-8b-e5-bb-ba-e5-9c-8b-e8-8|TAH #204]]（全文留原站）。
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/united-formosans-for-independenceufi/)

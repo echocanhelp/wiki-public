@@ -50,6 +50,7 @@ last_reviewed: 2026-09-14
 - 1992–1999 — Webcraft Technologies Inc — 技術經理
 - 出生於台灣雲林；妻：素慧
 - 於 TAH 發表宗教／民間信仰系列文章（西方天界大搜密 2010/08、揭開漢人天界之謎 2010/05、怪力亂神的民間信仰 2003/03）
+- 1998/01 — 於 TAH 發表台文系列「台灣話ABC(一)(二)」（TAH #195、#196，名條註記 1998/01/Language/台文；vault 書目鏡像發布日 2014-11-01 為站點遷移日，非衝突）
 - 2016-10-27 — Who's Who 條目發表於 TAH #1352（條目頁已收錄於 vault，見下方 Vault Cross-References；同號著作條目 publications1352 亦在 vault）
 
 ## Related Pages

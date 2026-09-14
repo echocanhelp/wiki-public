@@ -61,6 +61,9 @@ last_reviewed: 2026-09-14
 - 出處頁皆為書目紀錄頁（全文留原站），傳記事實以上列 tah-tables、Timeline 與 Family（父吳昆民、母陳美雲）為準——無新事實。
 - 語料庫樞紐：[[sources/taiwaneseamericanhistory-org-story-corpus||TAH story corpus]]。
 
+## Role in the Community
+- HOLD: 語料庫中另有同名「Jason Wu」——迦南教會教友，對台灣會館（San Jose，2009 年租下二樓 8400 平方呎）不計成本提供裝修（見 [[works/taiwaneseamericanhistory-org/ourjourneys53|Our Journeys 53]] 及 [[works/taiwaneseamericanhistory-org/ourjourneys53-eng|Our Journeys 53 (EN)]]）。該社群事蹟是否即本頁時裝設計師吳季剛，語料未載身份細節，不予合併。
+
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
