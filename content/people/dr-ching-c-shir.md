@@ -53,6 +53,11 @@ Accomplishment
 - [[works/taiwaneseamericanhistory-org/whos-who-296-ching-c-shir|TAH #296 Dr. Ching C. Shir 石清正博士]] — 本人百科條目
 - [[works/taiwaneseamericanhistory-org/collection-of-dr-ching-c-shir|TAH 石清正博士收藏]]
 - [[works/taiwaneseamericanhistory-org/92-dr-tu-chen-dr-c-c-shir-and-dr-c-s-huang-e9-99-b3-e9-83-bd-e3-80-81-e7-9f-b3-e|TAH #92 徐、石、黃三人捐贈文物]] — 共同捐贈者之一
+- [[works/taiwaneseamericanhistory-org/taiwanese-alliance-for-interculture|台灣協志會（北加州）專文]] — 本人 1973 年共同創辦之組織（vault 以 work 頁典藏）
+- [[works/taiwaneseamericanhistory-org/journals-of-taiwanese-alliance-for-interculture|番薯—台灣協志會會刊]] — 協志會會刊
+- [[works/taiwaneseamericanhistory-org/ourjourneys37|Our Journeys #37：台灣協志會成立與大事記]] — 載本人為籌備委員、首屆董事、起草組織章程者之一，曾任北加州台灣同鄉聯合會會長
+- [[works/taiwaneseamericanhistory-org/ourjourneys19|Our Journeys #19：在矽谷創業臺美人]] — 本人撰寫之創業回憶
+- [[works/taiwaneseamericanhistory-org/93-komag-inc-first-enterprise-to-go-public|TAH #93：Komag Inc.——第一家上市的台灣人企業]] — 本人为共同創辦人（VP Engineering, R&D）
 
 ## Deepen pass (2026-09-11)
 - 補上 vault 內既有本人記錄連結（#61、#296、個人收藏、#92 共同捐贈文物）。
