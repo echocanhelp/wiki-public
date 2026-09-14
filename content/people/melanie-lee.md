@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-14
 ---
 # Melanie Lee (李玫蘭)
 
@@ -36,6 +36,9 @@ Accomplishment
 - **Father:** Chan-chi Lee
 - **Mother:** Lynn Chen
 
+## Vault records (deepen pass 2026-09-14)
+- Bibliographic records in the TAH story corpus: [[works/taiwaneseamericanhistory-org/whos-who-1880-melanie-lee||TAH #1880 encyclopedia entry]], [[works/taiwaneseamericanhistory-org/ff337||TAH #337 encyclopedia entry]], [[works/taiwaneseamericanhistory-org/melanie-lee||TAH person record]]（value band B，全文存 vault）
+- Columbia 在校參與：紀錄載其任校內台灣學生社團會長 — [[organizations/columbia-university-taiwanese-american-students-association||Columbia University Taiwanese American Students Association]]
 
 ## Sources
 - [TAH #211 encyclopedia: 211. Melanie Lynn Lee 李玫蘭](https://taiwaneseamericanhistory.org/211/)

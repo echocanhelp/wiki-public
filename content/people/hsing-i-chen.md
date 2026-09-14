@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-14
 ---
 # Hsing-I Chen (陳欣沂)
 
@@ -33,6 +33,10 @@ last_reviewed: 2026-08-17
 ## Family
 
 _No filled family fields on the TAH profile._
+
+## Vault records (deepen pass 2026-09-14)
+- Bibliographic records in the TAH story corpus（皆 2016-02 刊載，value band B，全文存 vault）：[[works/taiwaneseamericanhistory-org/329-hsing-i-chen-e9-99-b3-e6-ac-a3-e6-b2-82-pianist-201602||TAH #329（Pianist）]], [[works/taiwaneseamericanhistory-org/825-hsing-i-chen-e9-99-b3-e6-ac-a3-e6-b2-82-201602||TAH #825]]
+- 2004 年起於舊金山灣區獨立任教／演出：灣區社區聯合組織 — [[organizations/taiwanese-american-federation-of-n-california||TAFNC 北加州台灣同鄉聯合會]]
 
 ## Sources
 - [TAH #329 encyclopedia: 329. Hsing-I Chen 陳欣沂, Pianist / 2016/02](https://taiwaneseamericanhistory.org/329-hsing-i-chen-%e9%99%b3%e6%ac%a3%e6%b2%82-pianist-201602/)

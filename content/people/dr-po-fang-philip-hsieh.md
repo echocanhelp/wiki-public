@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-14
 ---
 # Dr. Po-Fang Philip Hsieh (謝伯芳博士)
 
@@ -35,6 +35,10 @@ Dr. Po-Fang (Philip) Hsieh 謝伯芳博士 – History of Taiwanese American (T.
 - **Wife:** Emmy H. (蘇惠美)
 - **Son:** Paul S. (謝碩旼), Timothy I. (謝恩次)
 
+## Vault records (deepen pass 2026-09-14)
+- Bibliographic record in the TAH story corpus: [[works/taiwaneseamericanhistory-org/whos-who-2318-po-fang-hsieh||TAH #2318 encyclopedia entry]]（2021-02-22 刊載，value band B，全文存 vault）
+- Employment record Western Michigan Univ.（1964–2000）：其任職地Community association — [[organizations/taiwanese-association-of-west-michigan||Taiwanese Association of West Michigan]]
+- Visiting appointment UCLA（1969）：同地台灣學生社團 — [[organizations/taiwanese-american-student-association-at-ucla||Taiwanese American Student Association at UCLA]]
 
 ## Sources
 - [TAH #2318 encyclopedia: 2318. Dr. Po-Fang (Philip) Hsieh 謝伯芳博士](https://taiwaneseamericanhistory.org/whos-who-2318-po-fang-hsieh/)
