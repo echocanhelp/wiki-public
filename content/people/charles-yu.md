@@ -57,3 +57,7 @@ Charles Yu (游朝凱) is a novelist, short story writer, and screenwriter born 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+## Corpus pass — 2026-09-14 (deepen-x slice 6)
+
+Corpus grep (游朝凱 / Charles Yu) returns 6 work records — awards-93, whos-who264, mystories-760, my-stories-768, and the 2012 book reviews #426/#427 — every one of which is already wikilinked in the Vault record timeline and Connected in the Vault sections above. **SKIP-with-reason:** no unlinked corpus material remains to absorb; this page was already fully corpus-linked. (#425 How to Live Safely is likewise already linked.)
