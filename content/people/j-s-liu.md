@@ -60,5 +60,4 @@ _No filled family fields on the TAH profile._
 - 本頁 TAH 傳記之出處頁：[[works/taiwaneseamericanhistory-org/whoswho1544||TAH #1544 J. S. Liu 劉佳欣]]、[[works/taiwaneseamericanhistory-org/musician389||TAH #389 劉佳欣, Pianist]]。
 - 任職鋼琴伴奏之洛杉磯心悅合唱團見 [[works/taiwaneseamericanhistory-org/los-angeles-melody-chorus||TAH #53 Los Angeles Melody Chorus 洛杉磯心悅合唱團]]（2016 演唱會紀錄另見 [[works/taiwaneseamericanhistory-org/concerts86||TAH #86]]）。
 - publisher／語料庫：[[organizations/tah-foundation||TAH Foundation]]、[[sources/taiwaneseamericanhistory-org-story-corpus||TAH story corpus]]。
-- 伴奏／參與之洛杉磯心悅合唱團為 [[works/taiwaneseamericanhistory-org/los-angeles-melody-chorus||TAH #53 Los Angeles Melody Chorus]] 同一團體之中文名稱（ tah-tables 已載 Participant/Pianist 身份）。
 - 複核（2026-09-14）：TAH #1544、#389 出處頁於 vault 僅存書目記錄，無本页傳記以外之新事實；1997 年合奏之小提琴家劉慧婷、1998 年演出場地十方樂集與國立台北藝術大學目前無專屬頁，依規則不建新頁。本页時序與 tah-tables 一致。
