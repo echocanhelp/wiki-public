@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # Shu-ching Cheng (賴淑卿)
 
@@ -42,8 +42,8 @@ Accomplishment
 ## Family
 
 - **Husband:** [[people/dr-edward-cheng||Edward Cheng (鄭德昌)]]
-- **Daughter:** Wendy(鄭昕)
-- **Son:** Eric(鄭晧)
+- **Daughter:** [[people/wendy-cheng||Wendy Cheng (鄭昕)]]
+- **Son:** [[people/eric-cheng||Eric Cheng (鄭晧)]]
 
 
 ## Sources
@@ -55,3 +55,4 @@ Accomplishment
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - [[works/taiwaneseamericanhistory-org/whos-who-882-shu-ching-cheng||TAH Encyclopedia #882: Shu-ching Cheng 賴淑卿]]
+- [[works/taiwaneseamericanhistory-org/1-shu-cheng||TAH Encyclopedia #1: Shu Cheng 賴淑卿]]

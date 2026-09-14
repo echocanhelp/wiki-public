@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # Dr. Ming J. Lee (李銘正博士)
 
@@ -63,3 +63,5 @@ last_reviewed: 2026-09-11
 - [[organizations/taiwanese-american-cpa-association-tacpa||Taiwanese American CPA Association (TACPA)]]
 - [[works/taiwaneseamericanhistory-org/ghee-lan-association-of-usa||Ghee-Lan Association of USA 美國宜蘭台灣同鄉會]]
 - [[organizations/joint-alumni-association-of-taiwan-teachers-college-and-normal-univers||Joint Alumni Association of Taiwan Teachers College and Normal Universities]]
+- [[works/taiwaneseamericanhistory-org/whos-who-2165-ming-j-lee||TAH Encyclopedia #2165: Dr. Ming J. Lee 李銘正博士]]
+- [[works/taiwaneseamericanhistory-org/146-dr-ming-j-lee||TAH Encyclopedia #146: Dr. Ming J. Lee 李銘正博士]]

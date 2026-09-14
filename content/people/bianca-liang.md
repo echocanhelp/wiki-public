@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # Bianca Liang (梁沁茵)
 
@@ -35,6 +35,17 @@ Born in the United States, grow up in Taiwan, Bianca Liang started her musical t
 
 ## Employment
 - 鋼琴教師
+
+## Timeline
+- Born in the United States; grew up in Taiwan; began musical training at age six at a music magnet school, training in violin alongside piano and performing as an orchestra violinist.
+- Came to the United States to pursue piano performance.
+- 2009 — B.M. in piano performance, Univ. of Minnesota – Twin Cities (mentor: Dr. Paul Shaw); awards: Ude Music Scholarship, Lloyd Gonyea Music Scholarship.
+- 2012 — M.M. in piano performance, Indiana University – Bloomington, Jacobs School of Music (mentor: Prof. Evelyne Brancart), on scholarship.
+- Profession: 鋼琴教師 (piano teacher).
+
+## Source Notes
+- Deepen pass 2026-09-14: the timeline above is synthesized solely from the page's own TAH tables and the cited TAH #156 / #317 records (no web used); both vault copies are bibliographic stubs.
+- No vault pages exist for the music magnet school, Univ. of Minnesota, IU Jacobs School, Dr. Paul Shaw, Prof. Evelyne Brancart, or either scholarship, so no further wikilinks were added; university TSA/association pages exist but her membership is not stated in the sources, so they are not linked.
 
 ## Family
 

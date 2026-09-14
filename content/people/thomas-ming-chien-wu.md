@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # Thomas Ming-Chien Wu (吳明杰)
 
@@ -37,10 +37,10 @@ Dr. Wu was born in Taiwan, County of Tainan. He received his B.S. degree from th
 - B.S. in Music (violin), 國立師範大學 (National Taiwan Normal University).
 - Emigrated to the US via Vienna.
 - Master's degree in Fine Arts / Voice Performance, UCLA.
-- Doctoral degree in Musical Arts / Vocal Art, USC — first Taiwanese musician with a doctorate in Vocal Arts.
+- Doctoral degree in Musical Arts / Vocal Art, USC — first Taiwanese musician with a doctorate in Vocal Arts — [[works/taiwaneseamericanhistory-org/ff157|TAH #157 吳明杰博士 / 第一位擁有聲樂博士學位]]
 - Active as vocalist, violinist, and conductor of chamber orchestras, symphony orchestras, and choirs.
 - 1995 — Founded 洛杉磯台美室內樂團 (Los Angeles Taiwanese American Chamber Orchestra).
-- 1999 — Founded 台美交響樂團 (Taiwanese American Symphony Orchestra).
+- 1999 — Founded 台美交響樂團 (Taiwanese American Symphony Orchestra) — related vault record: [[works/taiwaneseamericanhistory-org/los-angeles-taiwanese-american-symphony-orchestra-taso|TAH #43 洛杉磯台美交響樂團 (TASO)]]
 
 ## Family
 
@@ -49,6 +49,10 @@ _No filled family fields on the TAH profile._
 ## Vault Holdings
 - [[works/taiwaneseamericanhistory-org/327-thomas-min-g-chieh-wu-e5-90-b3-e6-98-8e-e6-9d-b0-vocalist-201602|TAH #327 吳明杰 Vocalist]]
 - [[works/taiwaneseamericanhistory-org/801-thomas-ming-chien-wu-e5-90-b3-e6-98-8e-e6-9d-b0-201602|TAH #801 吳明杰]]
+- [[works/taiwaneseamericanhistory-org/ff157|TAH #157 吳明杰博士 / 第一位擁有聲樂博士學位]]
+- [[works/taiwaneseamericanhistory-org/los-angeles-taiwanese-american-symphony-orchestra-taso|TAH #43 洛杉磯台美交響樂團 (TASO)]]
+
+Deepen pass 2026-09-14: both cited vault records are bibliographic stubs; no additional in-vault facts (no web used). No vault org pages exist yet for 國立師範大學, UCLA, USC, 洛杉磯台美室內樂團, or 台美交響樂團 as standalone organizations, so links above are to the TAH records themselves.
 
 ## Sources
 - [TAH #327 encyclopedia: 327. Thomas Ming-Chieh Wu 吳明杰, Vocalist / 2016/02](https://taiwaneseamericanhistory.org/327-thomas-min-g-chieh-wu-%e5%90%b3%e6%98%8e%e6%9d%b0-vocalist-201602/)

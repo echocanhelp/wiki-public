@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # Eileen Lo (丁志清)
 
@@ -40,6 +40,11 @@ Eileen Lo (Accompanist). Ms. Eileen Lo, a graduate of the Chinese Culture Univer
 - 鋼琴伴奏 for the NTUA-DC (臺大校友合唱團 DC) Chorus and the 童心 (Tung-Hsin) Chorus — alongside conductors [[people/frank-c-h-chen||陳治煌 Frank C.H. Chen]] and [[people/amanda-hsu||許惠敏 Amanda Hsu]]
 - Present — works for the US Nuclear Regulatory Commission (美國核能審核委員會)
 
+## Source Notes
+- Deepen pass 2026-09-14: every fact on this page is absorbed from the cited TAH #513 / #252 profiles; the vault copies of both records ([[works/taiwaneseamericanhistory-org/513-eileen-lo-e4-b8-81-e5-bf-97-e6-b8-85-201507|TAH #513]], [[works/taiwaneseamericanhistory-org/252-eileen-lo-e4-b8-81-e5-bf-97-e6-b8-85-piano-accompanist-201507|TAH #252]]) are bibliographic stubs, so no further in-vault facts were available (no web used).
+- Reciprocal link verified: [[people/frank-c-h-chen||陳治煌 Frank C.H. Chen]]'s page independently records her as the accompanist on the same NTUA-DC Chorus podium as him and [[people/amanda-hsu||許惠敏 Amanda Hsu]].
+- No vault pages exist yet for 文化大學, 密西西比女子州立大學, University of Wisconsin–Madison, the NTUA-DC Chorus, the 童心 (Tung-Hsin) Chorus, the US Nuclear Regulatory Commission, MTNA, or the National Guild of Piano Teachers, so no further wikilinks were added under the deepen protocol.
+
 ## Family
 
 _No filled family fields on the TAH profile._
@@ -52,4 +57,5 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- [[organizations/taiwanese-american-historical-society||TAHS]] — 傳記資料收錄機構
 - [[works/taiwaneseamericanhistory-org/513-eileen-lo-e4-b8-81-e5-bf-97-e6-b8-85-201507|TAH #513 encyclopedia]] · [[works/taiwaneseamericanhistory-org/252-eileen-lo-e4-b8-81-e5-bf-97-e6-b8-85-piano-accompanist-201507|TAH #252 encyclopedia]]
