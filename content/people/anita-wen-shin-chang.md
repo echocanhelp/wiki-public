@@ -41,6 +41,12 @@ Her film on leprosy patients in Taiwan and her move to teach at National Dong Hw
 - **Son:** 4.Parents:
 
 
+## Role in the Community (deepen-x slice 09141300-5, corpus-absorbed)
+- Writing as Anita Chang, her first language was Taiwanese (Minnan), lost after learning English — the language-loss regret that drives her later film work, per her own 2014 interview: [[works/taiwaneseamerican-org/a-chat-with-documentary-filmmaker-anita-chang|A Chat with Documentary Filmmaker Anita Chang (2014-05-07, band A)]].
+- Beyond *62 Years and 6,500 Miles Between* (2005), the interview credits her with ~a dozen films, most notably **Joyful Life** (2007), pertinent to the Taiwanese community.
+- 2014 — Her documentary **Tongues of Heaven** (young indigenous peoples of Taiwan and Hawaii learning endangered heritage languages) had a limited SF/Bay Area theatrical engagement co-presented by TaiwaneseAmerican.org with CAAM and NATWA — Roxie Theater 2014-10-08, New Parkway Theater Oakland 2014-10-14: [[works/taiwaneseamerican-org/anita-chang-tongues-of-heaven|Tongues of Heaven SF/Bay Area screenings (2014-09-28, band A)]]. Community-press co-presentation of her film is direct movement-organizing record, complementing the CAAM "Taiwanese" category anecdote above.
+- HOLD: conflict on MFA institution — on-page TAH table reads UC Santa Cruz MFA Cinema, while the 2014 community interview says MFA in Cinema at San Francisco State University. Not merged; both retained.
+
 ## Sources
 - [TAH #141 encyclopedia: 141. Anita Wen-Shin Chang 張文馨](https://taiwaneseamericanhistory.org/141-anita-wen-shin-chang%e5%bc%b5%e6%96%87%e9%a6%a8/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/anita-wen-shin-chang/)

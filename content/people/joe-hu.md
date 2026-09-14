@@ -89,6 +89,7 @@ If Hu or the Center supplies a consented biography, add it with a named source. 
 
 ## Revision History
 
+- 2026-09-14 — DEEPEN-R revisit: 'Role in the Community' from TAJ corpus (2021 WHA 聯合聲明 co-initiator; 2024 會館26周年 38董事 ticket list); Joe Hung disambiguation
 - 2026-09-08 — DEEPEN-X12: Overview, Timeline, Quotes, Network from board archive + org page; drop duplicate Related link
 - 2026-07-16 — board stub from taiwancenter.org/board
 

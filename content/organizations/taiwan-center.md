@@ -214,6 +214,7 @@ Official: **36** directors; 董事長兼會館會長; 正副監事長 / 財務�
 
 ## Source Notes
 
+- New section 'Role in the Community (corpus records)' added 2026-09-14 (DEEPEN-R revisit): TAH #1255 二十周年特刊, activities record, la228 record, Harvey-relief donation figure from TAH #328
 - Full-domain archive **38** URLs · [[sources/taiwancenter-org||source hub]] · `knowledge/research/taiwancenter-org-entities.md`
 - WEBSITE_INGEST finish: all board, all group members stubbed, all events as `content/events/tc-event-*`, school teachers linked
 
