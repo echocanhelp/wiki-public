@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # Yali Chen (陳雅莉)
 
@@ -49,6 +49,10 @@ Absorbed from the profile text and cited TAH encyclopedia entries:
 - Studied under Professor Pierre W. Feit during a visit to Vienna and Graz, Austria; won Third Prize at the Wiener International Summer Camp.
 - Returned to Taiwan to teach oboe while serving as principal oboist of the [[organizations/tah-foundation|National Symphony Orchestra in Taiwan]]-era national music scene; later guest oboist with orchestras at the Disney Concert Hall, Segerstrom Hall (Anaheim), and Riverside County (per Employment table).
 - 2005 — M.S. Fine Art, UCI Claire (Claire Trevor) 音樂學院.
+
+## Vault records (deepen pass 2026-09-14)
+- Encyclopedia record in vault: [[works/taiwaneseamericanhistory-org/330-yali-chen-e9-99-b3-e9-9b-85-e8-8e-89-oboist-conductor-201602|TAH #330: Yali Chen, Oboist & Conductor]] (02/2016) — vault copy of the source behind the biography and tables above.
+- Southern California cluster for her documented Orange/Riverside County activity (Disney Concert Hall, Segerstrom Hall, Riverside County; UCI Claire Trevor 音樂學院 2005) — no documented membership: [[organizations/taiwanese-american-organization-at-uc-irvine]], [[organizations/taiwanese-graduate-student-association-at-uc-irvine]], [[organizations/orange-county-taiwanese-association]].
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # Prof. Shenglin Chang (張聖琳教授)
 
@@ -55,6 +55,11 @@ _No filled family fields on the TAH profile._
 
 ## Connected in the Vault (2026-09-10 deepen pass)
 - Encyclopedia record held in-vault: [[works/taiwaneseamericanhistory-org/whos-who-1767-shenglin-chang||TAH Who's Who #1767: Prof. Shenglin Chang 張聖琳教授]] — the bibliographic record behind the Education/Employment tables above (published 2017-07-19, value band B)
+
+## Community clusters on her study/teaching cities (deepen pass 2026-09-14, no documented membership)
+- Ithaca (M.S. Landscape Architecture, through 1993): [[organizations/taiwanese-american-student-association-at-cornell]], [[organizations/cornell-taiwanese-american-society]]
+- College Park (Ph.D. work alongside UC Berkeley, then faculty 2000–2008): [[organizations/university-of-maryland-taiwanese-student-association]], [[organizations/taiwanese-american-student-association-at-the-university-of-maryland-college-park]]
+- Berkeley (Ph.D. Landscape and Environmental Planning, through 2000): [[organizations/taiwanese-student-association-at-uc-berkeley]]
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

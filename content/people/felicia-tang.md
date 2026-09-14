@@ -42,6 +42,7 @@ _No filled family fields on the TAH profile._
 - Performed with the Philadelphia Orchestra, Queens Symphony Orchestra, Lansdowne Symphony Orchestra, and NYCCC Dance Company; venues include Avery Fisher Hall (Lincoln Center), The Juilliard Theater, Mann Music Center, Tribeca Theater, and the United Nations.
 - Profiled by ABC News, CBS News, television show Vision, Courier Post, and World Journal.
 - Taught piano at Superbrain; teaches at the Renaissance Music and Arts School in New York (listed in her TAH table as 紐約「小亞歷音樂美術學院」).
+- **2017-09-04** — dual TAH encyclopedia records published the same day: Who's Who #1872 and musician #425 (piano, as Chien-Yuh Tang); both held as bibliographic records in the vault.
 
 ## Sources
 - [TAH #1872 encyclopedia: 1872. Felicia Tang 唐千畬 / 09/2017](https://taiwaneseamericanhistory.org/whoswho1872/)

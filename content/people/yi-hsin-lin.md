@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # Yi-Hsin Lin (林宜欣)
 
@@ -57,3 +57,8 @@ _No filled family fields on the TAH profile._
 ## Vault records (deepen pass 2026-09-10)
 - Encyclopedia record in vault: [[works/taiwaneseamericanhistory-org/yi-hsin-lin-violinist||TAH #402 Yi-Hsin Lin 林宜欣, Violinist]] (06/2017) — vault copy of the source behind the Carnegie Hall debut and chair history above.
 - Mid-Atlantic community cluster for her on-page D.C./Maryland activity (no documented membership): [[organizations/taiwanese-american-association-baltimore||Taiwanese American Association of Baltimore]], [[organizations/taiwanese-american-cultural-society-of-the-capital-district||Taiwanese American Cultural Society of the Capital District]].
+
+## Community clusters on her degree cities (deepen pass 2026-09-14, no documented membership)
+- Baltimore (M.M., Peabody Institute of the Johns Hopkins University): [[organizations/johns-hopkins-university-taiwanese-student-association]], [[organizations/taiwanese-american-students-association-at-johns-hopkins-university]]
+- College Park (D.M.A.; principal chairs in the University of Maryland Symphony): [[organizations/university-of-maryland-taiwanese-student-association]], [[organizations/taiwanese-american-student-association-at-the-university-of-maryland-college-park]]
+- D.C. youth-arts scene peer organization to her documented D.C. Youth Orchestra jury work: [[organizations/taiwanese-youth-arts-foundation-washington-dc]]

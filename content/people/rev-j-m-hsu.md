@@ -10,7 +10,7 @@ tags:
   - TPC
   - Presbyterian
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # Rev. J. M. Hsu (許錦銘)
 

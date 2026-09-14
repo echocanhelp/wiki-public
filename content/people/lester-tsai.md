@@ -7,7 +7,7 @@ tags:
   - physician
 verification_status: owner_verified
 status: published
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 sources:
   - https://healthy.kaiserpermanente.org/southern-california/physicians/lester-tsai-6602490
 ---
