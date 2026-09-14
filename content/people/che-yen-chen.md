@@ -50,6 +50,8 @@ _No filled family fields on the TAH profile._
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/che-yen-chen/)
 
 ## Related Pages
+- [[works/taiwaneseamericanhistory-org/227-che-yen-chen-e9-99-b3-e5-89-87-e8-a8-80-violist-201507||TAH #227: Che-Yen Chen 陳則言, Violist (2015/07)]] — vault bibliographic record of the encyclopedia entry cited in Sources
+- [[works/taiwaneseamericanhistory-org/475-che-yen-chen-e9-99-b3-e5-89-87-e8-a8-80-201507||TAH #475: Che-Yen Chen 陳則言 (2015/07)]] — second vault bibliographic record, same date
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[organizations/taiwanese-american-foundation-of-san-diego||Taiwanese American Foundation of San Diego]] — Southern California context for his San Diego Symphony tenure
 - [[people/wayne-lee||Wayne Lee 李家瑋（Formosa Quartet）]]

@@ -56,3 +56,7 @@ _No filled family fields on the TAH profile._
 
 ## Vault re-check 2026-09-11 (deepen-x slice 9, vault-only)
 All wikilink targets on this page verified to exist in the vault; all cited-source facts were already absorbed in the prior deepen pass. No new vault facts found, no web used, no new pages created, nothing published.
+
+## Vault re-check 2026-09-13 (deepen-x slice 09112100-23, vault-only)
+- A second vault record of her exists and is now linked: [[works/taiwaneseamericanhistory-org/whos-hanchien-lee||TAH #149: Hanchien Lee 李函蒨]] (published 2014-12-09, bibliographic record of the Who's Who entry at taiwaneseamericanhistory.org/whos-hanchien-lee/). It predates the #103 encyclopedia record already linked above.
+- No other vault pages exist for her institutions or ensembles; no new biographical facts asserted, no web used, no new pages created, nothing published.
