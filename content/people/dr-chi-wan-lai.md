@@ -51,3 +51,7 @@ Assistant Professor, Director of Epilepsy Center, Director of EEG Physiology, As
 - 合著者朱真一：[[people/dr-jen-yih-chu||Dr. Jen-Yih Chu (朱真一博士)]]；合著 [[works/taiwaneseamericanhistory-org/publications1146||TAH #1146 醫界溫馨與關懷]]；著作 [[works/taiwaneseamericanhistory-org/publications1075||TAH #1075 杏林筆記2：行醫路上的生命沉思]]。
 - 本人撰文紀念／書寫的人物：[[people/kim-lai-huang||黃金來教授 Kim Lai Huang]]（[[works/taiwaneseamericanhistory-org/mystories372||TAH #372 懷念黃金來教授]]）、[[people/edgar-chun-yi-lin||林俊義教授 Prof. Jun-Yi Lin]]（[[works/taiwaneseamericanhistory-org/mystories244||TAH #244 林俊義教授一生的故事與思考]]）。
 - 傳記頁出處：[[works/taiwaneseamericanhistory-org/191-dr-chi-wan-lai||TAH #191]]、[[works/taiwaneseamericanhistory-org/whos-who-193-chi-wan-lai||TAH #193]]；語料庫 hub：[[sources/taiwaneseamericanhistory-org-story-corpus||TAH story corpus]]。
+
+## 醫學人文與翻譯（deepen-x 2026-09-14、vault-only）
+
+- 林衡哲的TAH回憶錄記載：賴其萬與廖運範、林克明、胡海國、文榮光、葉頌壽、王溢嘉等台灣醫學界理想主義者一起，為志文出版社「新潮文庫」譯介佛洛伊德等精神醫學大師作品，並創刊「當代醫學雜誌」；賴其萬本人譯出佛氏經典「夢的解析」，被林衡哲稱為國內醫學人文教育的領航者，並長期擔任新潮文庫的股東同仁。出處：[[works/taiwaneseamericanhistory-org/ourjourneys70||TAH #70 各位敬愛的股東同仁平安 / 林衡哲]]（2014-12-02）。

@@ -49,6 +49,15 @@ From his own TAH employment table and encyclopedia entries (#149, #128, #21):
 - **National service** — President, [[organizations/north-america-taiwanese-professors-sc||NATPA]] (national presidency; chapter page in vault)
 - **Houston leadership** — President, [[organizations/taiwanese-association-of-america-houston-chapter||TAA Houston Chapter]] and [[organizations/taiwanese-heritage-society-of-houston||Taiwanese Heritage Society of Houston]]
 
+## Legacy & memorial (vault-sourced, deepen-x 2026-09-14)
+
+- **故李雅彥教授生平 / 台北醫學院李雅彥教授紀念講座** — memoir of his life and the memorial lecture established at his alma mater Taipei Medical College: [[works/taiwaneseamericanhistory-org/139-e6-95-85-e6-9d-8e-e9-9b-85-e5-bd-a5-e6-95-99-e6-8e-88-e7-94-9f-e5-b9-b3||TAH #139]] (2014-11-09); magazine notices [[works/taiwaneseamericanhistory-org/372-e6-9d-8e-e9-9b-85-e5-bd-a5-e6-95-99-e6-8e-88-e7-b4-80-e5-bf-b5-e8-ac-9b-e5-b||TAH #372 紀念講座/2000/01]] and [[works/taiwaneseamericanhistory-org/373-e6-80-9d-e5-bf-b5-e6-9d-8e-e9-9b-85-e5-bd-a5-e6-95-99-e6-8e-88-e9-9b-9c-e8-a||TAH #373 思念李雅彥教授]].
+- **李雅彥教授紀念文物館** — memorial museum record (2018-01-10): [[works/taiwaneseamericanhistory-org/ya-yen-lee-museum||TAH 紀念文物館]].
+- **Dr. Ya-Yen Lee Memorial Foundation Scholarship 李雅彥醫師紀念基金會獎助金** (2018-01-03): [[works/taiwaneseamericanhistory-org/dr-ya-yen-lee-memorial-foundation-scholarship||TAH #83]].
+- **Taiwanese American Fund in Professor Ya Yen Lee Memorial Library**, managed by the [[organizations/taiwanese-heritage-society-of-houston||Taiwanese Heritage Society of Houston]] (2016-02-25): [[works/taiwaneseamericanhistory-org/8-taiwanese-american-fund-in-professor-ya-yen-lee-memorial-library-managed-by-ta||TAH #8]].
+- Memorial essay 長留遺愛在人間 – 紀念李雅彥醫師 by 蔡淑媛(翠屏) (2016-04): [[works/taiwaneseamericanhistory-org/mystories426||TAH #426]].
+- His 1992 founding-committee role for the 休士頓台灣人活動中心 is recalled firsthand in 莊承業's memoir of the center's founding: [[works/taiwaneseamericanhistory-org/ourjourneys233||TAH #233 回顧休士頓台灣人活動中心的成立]] (2016-07-28).
+
 ## Family
 
 - **Wife:** [[people/gin-ru-yeh||葉錦如]]
