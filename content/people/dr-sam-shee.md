@@ -61,3 +61,6 @@ last_reviewed: 2026-09-14
 - All wikilink targets verified to exist: Musée Highland, Karen Shee, TASA Northwestern, and his TAH #79 / #1105 / artist9 work pages.
 - 北美台灣人醫師年會 (North American Taiwanese Physicians Association), wife 陳維琳, Meriter Hospital and Northwestern's own institutions have no vault pages; left as plain text, no new pages created.
 - His cited work pages are bibliographic-only records in the vault (full text stays at the source), so no further facts were absorbable without web. No web used, nothing published.
+
+## Vault re-check 2026-09-14 (deepen-x slice 09140845-1, vault-only)
+- Re-verified all wikilink targets exist (Musée Highland, Karen Shee, TASA Northwestern, TAH #79 / #1105 / artist9 work pages); no new vault-internal facts absorbable — his cited work pages remain bibliographic-only records and no further vault page names him beyond those already linked. Wife 陳維琳 still has no vault page; left as plain text. No web used, nothing published.
