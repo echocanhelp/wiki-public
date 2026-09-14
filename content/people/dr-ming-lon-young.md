@@ -54,5 +54,5 @@ Clinical career in South Florida: after posts at the University of Iowa and the 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
-- Vault records of the cited entries: [[works/taiwaneseamericanhistory-org/ota-279||TAH #279 encyclopedia]], [[works/taiwaneseamericanhistory-org/whos-who-1299-ming-lon-young||Who's Who #1299]], [[works/taiwaneseamericanhistory-org/80-collection-of-dr-ming-lon-young||TAH #80 collection]]
+- Vault records of the cited entries: [[works/taiwaneseamericanhistory-org/ota-279||TAH #279 encyclopedia]]（2019-04-22 刊）, [[works/taiwaneseamericanhistory-org/whos-who-1299-ming-lon-young||Who's Who #1299]]（2016-10-02 刊）, [[works/taiwaneseamericanhistory-org/80-collection-of-dr-ming-lon-young||TAH #80 collection]]（楊明倫教授的收藏, 2019-04-12 刊）
 - Graduate alma mater's Taiwanese student community: [[organizations/johns-hopkins-university-taiwanese-student-association||Johns Hopkins University Taiwanese Student Association]] (JHU was his M.S. institution; membership not asserted by the TAH profile).
