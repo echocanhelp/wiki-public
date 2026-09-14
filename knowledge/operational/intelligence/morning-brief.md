@@ -1,4 +1,4 @@
-TAHS · Echopedia morning brief — 2026-09-13
+TAHS · Echopedia morning brief — 2026-09-14
 1 NEED YOU item(s) below; the rest is auto-handled.
 
 🔴 NEED YOU (your judgment only)
@@ -31,20 +31,20 @@ TAHS · Echopedia morning brief — 2026-09-13
 🟡 QUEUE 11 pages WIP/incomplete
 
 🟡 QUEUE / link suggestions (disk)
-ℹ️  INFO  top tips below · full pairs on disk (~8803 scored)
+ℹ️  INFO  top tips below · full pairs on disk (~9260 scored)
 
 🟡 QUEUE / optional link tips (≤5, not NEED YOU)
 🟡 QUEUE 1. Link tip: people/wei-ming-hwang.md ↔ people/zoe-huang.md
 🟡 QUEUE 2. Link tip: organizations/taiwanese-american-association-of-los-angeles-east-san-gabriel-valley.md ↔ sources/taiwaneseamericanhistory-org.md
-🟡 QUEUE 3. Link tip: people/en-sheng-pan.md ↔ people/lien-hwa-chow.md
-🟡 QUEUE 4. Link tip: organizations/aj-wang-foundation-scholarship-fund.md ↔ organizations/american-citizens-for-taiwan.md
-🟡 QUEUE 5. Link tip: organizations/aj-wang-foundation-scholarship-fund.md ↔ organizations/american-citizens-of-taiwan-origin-acto.md
+🟡 QUEUE 3. Link tip: organizations/aj-wang-foundation-scholarship-fund.md ↔ organizations/american-citizens-for-taiwan.md
+🟡 QUEUE 4. Link tip: organizations/aj-wang-foundation-scholarship-fund.md ↔ organizations/american-citizens-of-taiwan-origin-acto.md
+🟡 QUEUE 5. Link tip: organizations/aj-wang-foundation-scholarship-fund.md ↔ organizations/ann-arbor-taiwanese-association.md
 
 ℹ️ SITE (wiki visits; operator self-traffic excluded)
-ℹ️  INFO  wiki 18 visits since cutoff · yday 2026-09-12 = 5 · /people/albert-chapter1-zh-hsiaochen-full-review 4, / 3, /organizations/taiwanese-american-historical-societ
+ℹ️  INFO  wiki 24 visits since cutoff · yday 2026-09-13 = 5 · /people/lester-tsai 5, /people/albert-chapter1-zh-hsiaochen-full-review 4, / 3
 
 ✅ AUTO (overnight — evidence)
-✅ AUTO analyzer scanned 2880 queued 3 suppressed 1835
+✅ AUTO analyzer scanned 2885 queued 1 suppressed 1883
 🟡 QUEUE janitor HOLD leftover 40
-🟡 QUEUE kanban blocked 68
+🟡 QUEUE kanban blocked 36
 ℹ️  INFO  only 🔴 NEED YOU requires your reply

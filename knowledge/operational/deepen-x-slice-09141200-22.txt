@@ -1,0 +1,4 @@
+people/janice-wong.md
+people/danny-chen.md
+organizations/senior-taiwanese-association-of-northern-california.md
+organizations/evergreen-senior-university-by-evangelical-formosa-church-of-irvine-esu.md

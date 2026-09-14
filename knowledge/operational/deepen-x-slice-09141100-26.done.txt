@@ -1,0 +1,6 @@
+deepen-x slice 09141100-26 — processed 2026-09-14
+people/yiwei-lin.md — deepened (already carries today's vault-only pass; all wikilinks resolve)
+people/steven-lin.md — deepened (already carries today's vault-only pass; all wikilinks resolve)
+people/dr-long-song-simon-lin.md — deepened (already carries today's vault-only pass; all wikilinks resolve; 林榮松/Simon Lin 執行長-vs-President flag left open per merge policy)
+people/prof-kang-lung-wang.md — deepened (already carries today's vault-only pass; all wikilinks resolve)
+Result: 4 deepened, 0 skipped. No page edits needed; no publish.

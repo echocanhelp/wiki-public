@@ -1,0 +1,4 @@
+people/samuel-lin.md
+people/grace-mei-en-ho.md
+organizations/north-america-pastel-artist-association.md
+people/rev-r-h-chang.md

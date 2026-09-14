@@ -1,11 +1,16 @@
 {
-  "at": "2026-09-13T14:00:18Z",
+  "at": "2026-09-14T14:00:21Z",
   "cutoff": "2026-08-21T19:22:14Z",
   "ok": true,
-  "visits_since_cutoff": 18,
-  "yesterday_pdt": "2026-09-12",
+  "visits_since_cutoff": 24,
+  "yesterday_pdt": "2026-09-13",
   "yesterday_visits": 5,
   "top": [
+    {
+      "count": 5,
+      "path": "/wiki-public/people/lester-tsai",
+      "title": "Not Found"
+    },
     {
       "count": 4,
       "path": "/wiki-public/people/albert-chapter1-zh-hsiaochen-full-review",
@@ -18,18 +23,13 @@
     },
     {
       "count": 2,
-      "path": "/wiki-public/organizations/taiwanese-american-historical-society",
-      "title": "Taiwanese American Historical Society (TAHS)"
+      "path": "/wiki-public/people/albert-zh-sku-b-publisher-review",
+      "title": "Not Found"
     },
     {
       "count": 2,
-      "path": "/wiki-public/people/hsu-ching-chun",
-      "title": "Hsu Ching-chun (\u8a31\u666f\u6df3)"
-    },
-    {
-      "count": 1,
-      "path": "/wiki-public/works/taiwaneseamerican-org/susan-hong-fiction-cwp",
-      "title": "Home / \u6545\u9109 : Fiction by Susan Hong"
+      "path": "/wiki-public/organizations/taiwanese-american-historical-society",
+      "title": "Taiwanese American Historical Society (TAHS)"
     }
   ],
   "error": null

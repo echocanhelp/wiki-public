@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-13",
+  "date": "2026-09-14",
   "standards_version": 10,
   "auto_apply_agent": false,
   "nodes": {
@@ -11,9 +11,9 @@
       "n": 0
     },
     "analyzer": {
-      "scanned": 2880,
-      "queued": 3,
-      "suppressed": 1835
+      "scanned": 2885,
+      "queued": 1,
+      "suppressed": 1883
     },
     "enrichment_writes": {
       "n": 0,
@@ -23,7 +23,7 @@
       "n": 40
     },
     "kanban.blocked": {
-      "n": 68
+      "n": 36
     },
     "kanban.auto_go": {
       "enabled": false
@@ -39,9 +39,9 @@
     "cron.fail": []
   },
   "telegram_auto_lines": [
-    "✅ AUTO analyzer scanned 2880 queued 3 suppressed 1835",
+    "✅ AUTO analyzer scanned 2885 queued 1 suppressed 1883",
     "🟡 QUEUE janitor HOLD leftover 40",
-    "🟡 QUEUE kanban blocked 68"
+    "🟡 QUEUE kanban blocked 36"
   ],
   "cron_fail_names": []
 }
