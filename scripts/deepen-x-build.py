@@ -52,17 +52,30 @@ for i in range(NCARDS):
     if title in open_titles or any(r[1] in open_paths for r in chunk):
         print('skip (open twin):', title)
         continue
-    # unique filename per run — never clobber a slice file an open card points at
+    # Unique filename per run — never clobber a slice file an open card points at
     p = OUT / f'deepen-x-slice-{STAMP}-{i+1}.txt'
     p.write_text('\n'.join(r[1] for r in chunk) + '\n')
+    # 2026-09-14 harmonization (post gwhyneth-chen review): deepening is
+    # vault-first. Each page gets ONE corpus-grep call so the worker absorbs
+    # OUR OWN memoirs/work pages (the community record) before touching the
+    # page's embedded bios. A pass that adds zero wikilinks to works/ or
+    # people/ pages is incomplete. 3 calls/page stays inside the 30-iteration
+    # budget: 4x3 + commit + complete = 14.
     body_tpl = (
         f"Deepen {len(chunk)} thin Tier1 pages. Slice file: knowledge/operational/deepen-x-slice-{STAMP}-{i+1}.txt "
-        "(paths relative to content/). Per page: read it; absorb facts ALREADY PRESENT in its cited sources/"
-        "vault pages (no web); add wikilinks to EXISTING slugs only (no new pages, no invented biography); "
-        "set last_reviewed: today. Pages needing more than 3 tool steps: note SKIP-with-reason and move on. "
-        "HARD RULES: (1) max 2 tool calls per page; (2) when ALL pages are processed, you MUST run "
+        "(paths relative to content/). MISSION: this is the Taiwanese American movement record — "
+        "community/corpus facts outrank press-kit bios. Per page, exactly 3 steps: "
+        "(1) read the page; (2) ONE shell call that greps the corpus for the person/org: "
+        "`grep -rl 'NAME_ZH\\|NAME_EN' content/works content/articles 2>/dev/null | head -6` then "
+        "`grep -h -m2 -A2 'NAME_ZH\\|NAME_EN' <hits> | head -40` — our memoirs are the primary material; "
+        "(3) edit the page: absorb corpus facts into a '## Role in the Community' (or Timeline) section, "
+        "wikilink each work page touched ([[works/...|label]]), reconcile with existing text, HOLD conflicts "
+        "(write 'HOLD: conflict A vs B', never auto-merge dates/ages), set last_reviewed: today. "
+        "No web, no new pages, no invented biography; wikilinks to EXISTING slugs only. "
+        "Pages with no corpus hits and nothing absorbable: note SKIP-with-reason. "
+        "HARD RULES: (1) max 3 tool calls per page; (2) when ALL pages are processed, you MUST run "
         "`git add -A content/ && git commit -m 'deepen-x slice' ; hermes kanban complete __TASKID__ "
-        "--result 'N deepened, M skipped'` as your LAST action; (3) ending your turn without calling "
+        "--result 'N deepened, M skipped, K corpus-linked'` as your LAST action; (3) ending your turn without calling "
         "kanban_complete counts as a crash. Do NOT publish."
     )
     r = subprocess.run(['hermes', 'kanban', 'create',

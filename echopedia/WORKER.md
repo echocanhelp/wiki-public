@@ -73,6 +73,8 @@ If you already started P8 on Grok this turn, **stop after the next file** and ha
 
 Person-to-work linking is **not a worker playbook.** Nightly `no_agent` cron `echopedia-person-works-linker` owns it (capped). Do **not** run `--all` from a session — that was the 22.8MB `## Works` dump.
 
+**Deepening is vault-first (2026-09-14):** grep `content/works` + `content/articles` for the person/org BEFORE any web material — our memoirs/corpus are the mission record and outrank press-kit bios; a deepening pass with zero wikilinks into works/people pages is incomplete. HOLD on cross-source date/age conflicts. SSOT card text: `scripts/deepen-x-build.py`.
+
 **Story-corpus (magazines):** ingest `--apply-works` then `echopedia-thicken-work-a.py` (**full A-band article**, not WP teaser). C stays bib. Then works-index + linkcheck + **P2**. Truncation of the **catalog** (`works/index`, people/orgs directories, source hubs) is a bug — list everything. Do **not** uncap person-page quote/harvest dumps (that was the 22MB `## Works` incident).
 
 **directory-corpus (TAH.org) — never skip high-value text:**
