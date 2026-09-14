@@ -1,0 +1,4 @@
+organizations/north-america-pastel-artist-association.md
+people/ming-tsuang.md
+people/steven-shih-chen.md
+people/prof-ming-chiao-michael-lai.md
