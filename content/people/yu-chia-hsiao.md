@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # Yu-Chia Hsiao
 
@@ -49,6 +49,8 @@ Yu-Chia Hsiao, currently join the Virginia Symphony Orchestra for the 2014-15 se
 本頁所引 TAH 故事紀錄已入庫：
 - [[works/taiwaneseamericanhistory-org/226-yu-chia-hsiao-violinist-201506|TAH #226 — Yu-Chia Hsiao, Violinist（2015/06）]]
 - [[works/taiwaneseamericanhistory-org/466-yu-chia-hsiao-201506|TAH #466 — Yu-Chia Hsiao（2015/06）]]
+
+Both story records belong to the [[sources/taiwaneseamericanhistory-org-story-corpus|taiwaneseamericanhistory.org 故事語料庫]] maintained with archive partner [[organizations/taiwanese-american-historical-society||TAHS (台美人歷史協會)]]. The 2011 Montana tour partner [[people/keng-yuen-tseng||Keng-Yuen Tseng]] and the [[organizations/taiwanese-american-charity-and-education-association||TACEA]] annual concerts (Kennedy Center, 2011 & 2013) above are corroborated in these two TAH records.
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/yu-chia-hsiao/)

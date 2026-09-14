@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # Richard Chang (張立仁)
 
@@ -36,6 +36,18 @@ Richard Chang began playing the violin at the age of four in Taiwan and continue
 ## Family
 
 _No filled family fields on the TAH profile._
+
+## Timeline
+
+- Violin from age 4 in Taiwan; further studies with Professor One in Tokyo
+- From 1978 — Juilliard Pre-College and College Divisions on scholarship; teachers Hyo Kang and Dorothy DeLay; B.S./M.S. 1987 plus Professional Studies Diploma
+- Two years at Mannes School of Music with Aaron Rosand
+- Concertmaster: Pittsburgh Youth Symphony, Juilliard Orchestra, Mannes Orchestra
+- 1987–1989 — three summers on French Government grant, Music Festival of Nice
+- Guest performances: Pittsburgh Symphony, Wheaton Symphony of Chicago, Aspen Symphony
+- **Since 1995** — member, Kennedy Center Opera House Orchestra
+
+(Timeline assembled solely from the TAH biography text and tah-tables already cited on this page; deepen pass 2026-09-14, vault-only. Community-context pages: his Washington DC base [[organizations/formosan-society-for-performing-arts-inc-fospa||FOSPA]]; his Pittsburgh orchestral years sit in the same community as [[organizations/taiwanese-association-of-america-pittsburgh||TAA Pittsburgh]] — presence context only, membership not asserted.)
 
 ## Career Record
 - Violin from age 4 in Taiwan; continued studies with Professor One in Tokyo

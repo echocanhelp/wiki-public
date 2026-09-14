@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # Ang Lee (李安)
 
@@ -65,3 +65,7 @@ _No filled family fields on the TAH profile._
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - [[works/taiwaneseamerican-org/taiwanese-american-ang-lee-wins-best-director-academy-award-for-life-of-pi||Coverage: Taiwanese American Ang Lee wins Best Director Academy Award for Life of Pi]] — corresponds to the 2012 Life of Pi entry in the filmography above
+- [[works/taiwaneseamerican-org/ang-lee-lust-caution-a-special-screening-co-presented-by-taiwaneseamerican-org||2009-03: Lust, Caution special screening co-presented by TaiwaneseAmerican.org]] — community reception of the 2007 film above
+- [[works/taiwaneseamerican-org/ang-lee-retrospective-at-rice-university-houston-tx||2010-02: Ang Lee Retrospective at Rice University, Houston TX]]
+- [[works/taiwaneseamerican-org/the-films-of-ang-lee||2012-11: The Films of Ang Lee — a month of screenings, Washington DC]]
+- All three above are archived in the vault under [[sources/taiwaneseamerican-org||TaiwaneseAmerican.org]]

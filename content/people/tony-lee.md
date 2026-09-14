@@ -7,7 +7,7 @@ tags:
   - Taiwan-Center
   - board
 verification_status: published
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # Tony Lee (李賢群)
 
@@ -47,6 +47,9 @@ last_reviewed: 2026-09-11
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[works/taiwaneseamericanhistory-org/whos-who-710|TAH #710 encyclopedia entry]]
+- The 2025-02-24 追思紀念大會 and 2021 WHA 聯合聲明 above are preserved in the vault's Taiwan Justice Net archive: [[sources/taiwanjustice-net||Taiwan Justice Net (來源頁)]]
+- The board he serves as 副董事長 on is also documented as [[organizations/taiwan-center-foundation-of-greater-los-angeles||Taiwan Center Foundation of the Greater Los Angeles]]
+- Who's Who profile held by [[organizations/tah-foundation||TAH Foundation]]; community archive partner [[organizations/taiwanese-american-historical-society||TAHS (台美人歷史協會)]]
 
 - [[organizations/taiwan-center||Taiwan Center]]
 - [[sources/taiwancenter-org||taiwancenter.org source]]

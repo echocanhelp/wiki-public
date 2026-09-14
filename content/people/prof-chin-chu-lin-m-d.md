@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # Prof. Chin-Chu Lin M.D. (林靜竹教授)
 
@@ -38,6 +38,7 @@ Prof. Chin-Chu Lin M.D. 林靜竹教授 – History of Taiwanese American (T.A. 
 - **1969–1971** — Genetics researcher, New York State Univ. Southern California Medical Center
 - **1974–1976** — Researcher (Taiwan Society of Perinatology), New York Einstein Medical Center
 - **1976–2001** — Professor and Director of the High-Risk Obstetrics Clinic, OB-GYN Dept., University of Chicago
+- **1979** — First certificate holder of Maternal & Fetal Medicine (per TAH #120 encyclopedia record held in vault)
 - **2001–** — Lifetime Honorary Professor (Professor Emeritus for Life), University of Chicago
 
 ## Community Leadership
@@ -48,7 +49,7 @@ Prof. Chin-Chu Lin M.D. 林靜竹教授 – History of Taiwanese American (T.A. 
 
 - **Wife:** Jane Shwu-Ching Hahn (韓淑清)
 - **Daughter:** Juliet Lin
-- **Son:** Jim Lin, John Lin
+- **Son:** [[people/dr-jim-lin||Jim Lin 林存欣醫師]] (his own vault page lists 林靜竹 as father; M.D., Univ. of Chicago Pritzker School of Medicine, 1991), John Lin
 
 
 ## Vault Holdings

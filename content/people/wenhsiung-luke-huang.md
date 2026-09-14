@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # Wenhsiung Luke Huang (黃文雄)
 
@@ -46,6 +46,8 @@ Wenhsiung (Luke) Huang 黃文雄 – History of Taiwanese American (T.A. Archive
 - [[works/taiwaneseamericanhistory-org/142-e9-bb-83-e6-96-87-e9-9b-84-first-assassination-attempt-to-mr-c-k-chiang-at-p|TAH #142：424刺蔣事件照片（人物是否同一人，未驗證）]]
 - [[works/taiwaneseamericanhistory-org/89-e9-bb-83-e6-96-87-e9-9b-84-e5-88-ba-e8-94-a3-e4-ba-8b-e4-bb-b6at-hotel-new-yo|TAH #89：刺蔣事件at hotel New York（人物是否同一人，未驗證）]]
 - [[works/taiwaneseamericanhistory-org/468-peter-huang-e9-bb-83-e6-96-87-e9-9b-84-201506|TAH #468：Peter Huang 黃文雄（人物是否同一人，未驗證）]]
+- [[works/taiwaneseamericanhistory-org/photo-albums-historical-19|TAH #19：黃文雄 424刺蔣事件（1970/4/24，人物是否同一人，未驗證）]] — vault page for the cited #19 photo entry
+- The 《刺蔣》紀錄片 and 陳榮成、吳富美《1970四二四刺蔣案內情再公開》 already linked below remain the vault's main depth sources for the 刺蔣事件 question.
 
 ## Family
 

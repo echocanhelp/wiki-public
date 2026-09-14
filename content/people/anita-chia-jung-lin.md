@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # Anita Chia-Jung Lin (林佳蓉)
 
@@ -29,6 +29,17 @@ Born in Tainan, Taiwan, Anita Lin began to learn violin at the age of seven. In 
 ## Employment
 - 聖路易音樂學校 — Present — 小提琴講師
 <!-- tah-tables:end -->
+
+## Timeline
+
+- Born in Tainan, Taiwan; began violin at age seven
+- 2006 — B.M. Music, 台南藝術大學 (Tainan National University of the Arts)
+- 2008 — first prize, NATS musical-theater competition
+- 2009 — SIUE Aria/Concerto Competition winner; role: Lucy in The Telephone (SIUE)
+- 2010 — M.M. violin performance, Southern Illinois University Edwardsville; roles: Casilda in The Gondoliers, Mrs. Mayor in The Seussical; 2nd prize, NATS vocal competition
+- Present — violin teacher, 聖路易音樂學校 (St. Louis School of Music), Suzuki-method emphasis; two years of prior theater experience in Taipei
+
+(Timeline assembled solely from the TAH biography text and tah-tables already cited on this page; deepen pass 2026-09-14, vault-only.)
 
 ## Family
 
