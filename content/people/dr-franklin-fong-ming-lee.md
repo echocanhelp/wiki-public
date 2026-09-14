@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # Dr. Franklin Fong-Ming Lee (李豐明博士)
 
@@ -58,3 +58,6 @@ Dr. Franklin Fong-Ming Lee 李豐明博士 – History of Taiwanese American (T.
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+## Deepen pass (2026-09-14)
+- 學經歷（NTU 1957 / NCSU 1963 / Stanford 1967、IBM、Litton、工研院、義守、中國文化大學）均已載於 TAH #1780 出處頁，vault 僅此一頁，無既有頁可再連結；本次僅更新複核日期，未新增外部事實。

@@ -34,6 +34,10 @@ Accomplishment
 
 - **Husband:** [[people/k-d-wang||王康德]]
 
+## NATWA 會長任內（absorbed from [[works/taiwaneseamericanhistory-org/ourjourneys60||咱的故事—NATWA的歷史]], 2014-11-09）
+- 第五屆會長方惠音於 **1992 年 7 月**打破黑名單組團回臺參觀訪問，並在年會公開討論「婦女與政治」，突破婦女不關心政治的傳統。
+- 該文並載：陳麗英 1994 年 2 月帶團返臺協助世界婦女高峰會議（前後任會長脈絡）。
+- 出處書目頁：[[works/taiwaneseamericanhistory-org/175-helen-wang||TAH #175]]（2018-10-31 發布）、[[works/taiwaneseamericanhistory-org/whos-who-1728-helen-wang||TAH #1728 Who's Who]]。
 
 ## Sources
 - [TAH #175 encyclopedia: 175. Helen Wang 方惠音](https://taiwaneseamericanhistory.org/175-helen-wang/)

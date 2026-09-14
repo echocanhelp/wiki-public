@@ -42,6 +42,13 @@ Born in Penghu, Taiwan, conductor Yu-An Chang was awarded first prize at the 201
 - 2016– — Music Director and Chief Conductor, Asia Nova Symphony Orchestra
 - 2018 — Conducting Fellow, Tanglewood Music Center
 - 2019– — Assistant Conductor, Boston Symphony Orchestra
+- 2020-01-20 / 2020-01-22 — TAH profile records archived (see Vault records below)
+
+## Vault records（deepen pass 2026-09-14）
+- 傳記出處之 Vault 書目頁：[[works/taiwaneseamericanhistory-org/whos-who-2238-yu-an-chang||TAH #2238]]（2020-01-22 發布）、[[works/taiwaneseamericanhistory-org/musician-438||TAH #438 音樂家專項]]（2020-01-20 發布）。
+- 故鄉澎湖之地方知識脈絡頁：[[sources/penghu-info||Penghu.info 澎湖知識服務平台]]（同為澎湖出身 Tier1 人物之故鄉錨點，參 [[people/prof-wen-hwa-lee||李文華]]）。
+- 內子 Kai-Chuan Chang：Vault 尚無對應頁面，未建連結以免誤配。
+- 語料庫：[[sources/taiwaneseamericanhistory-org-story-corpus||TAH story corpus]]。
 
 ## Sources
 - [TAH #2238 encyclopedia: 2238. Yu-An Chang 張宇安](https://taiwaneseamericanhistory.org/whos-who-2238-yu-an-chang/)

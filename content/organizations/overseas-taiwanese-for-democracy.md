@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # Overseas Taiwanese for Democracy (海外台灣青年陣線)
 
@@ -35,3 +35,6 @@ Overseas Taiwanese for Democracy (海外台灣青年陣線) is a North American 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+## Deepen pass (2026-09-14)
+- 新增既有頁連結：[[works/taiwaneseamericanhistory-org/overseas-taiwanese-for-democracy|TAH story #18 海外台灣青年陣線（2015-02-23 刊）]]、[[works/taiwaneseamericanhistory-org/otdnjus|TAH story #12 紐澤西分會紀錄]]、[[works/taiwaneseamericanhistory-org/our-journeys-373|TAH #373 海外台灣學生運動與太陽花學運後政治]]（vault 既有文獻，未新增外部事實）。
