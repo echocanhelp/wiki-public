@@ -55,3 +55,6 @@ _No filled family fields on the TAH profile._
 
 ## Deepen-x 2026-09-14 (vault-only)
 Cited record [[works/taiwaneseamericanhistory-org/177-e6-9e-97-e9-ba-97-e8-b2-9e-conductor-201503|TAH #177]] now carries a reciprocal Subjects link to this page. Her 2018 福爾摩莎之愛 choir conducting is already absorbed from [[works/taiwaneseamericanhistory-org/ourjourneys340|TAH #340]]. All Related Pages targets verified to exist; no new vault facts, no web, nothing published.
+
+## Deepen-x 2026-09-14 (slice 09141300-7)
+- Corpus grep (林麗貞 / Lily Li-Jan) returns only records already linked here: her conductor profile [[works/taiwaneseamericanhistory-org/177-e6-9e-97-e9-ba-97-e8-b2-9e-conductor-201503|TAH #177]] and the 蕭泰然音樂節 account [[works/taiwaneseamericanhistory-org/ourjourneys340|TAH #340]] (where 許丕龍 names her as director of the 福爾摩莎之愛 section among the 216 five-region singers). Both facts already in the Career/Cross-check sections — no new absorbable corpus material.

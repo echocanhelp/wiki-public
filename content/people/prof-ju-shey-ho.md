@@ -41,6 +41,7 @@ Accomplishment
 - 1993–1999 — President, World Association of Copepodologists — the first president of a world-wide professional organization from the Taiwanese American community
 
 - 2001 — [[organizations/taiwanese-american-foundation|台美基金會 (TAF)]] 科技工程獎 (Taiwanese American Foundation science/engineering award); his acceptance essay is held in the vault — [[works/taiwaneseamericanhistory-org/mystories428|TAH #428 得獎感言]]
+- 1985 — named as 顧問 (advisor) of the 台美公民協會籌備委員會 (Taiwan公民 Association organizing committee, founding-advisor roster of 80+ movement figures incl. 王桂榮, 王慶滄, 蕭泰然, 賴明詔) — corpus record [[works/taiwaneseamericanhistory-org/ourjourneys186|TAH #186 台美公民協會簡介, from 台灣公論報 #369, 1985-04-15]]
 - 2011 — Monoculus Award (國際單眼橈足生物學會最高榮譽獎), highest honor of the international copepodologist community — [[works/taiwaneseamericanhistory-org/monoculus-award-ju-shey-ho-2011|vault record]]
 - 長青教室 (lifelong-learning program of [[organizations/irvine-taiwanese-presbyterian-church|Irvine台灣長老教會 ITPC]]) — lecturer, California abalone history — [[works/taiwaneseamericanhistory-org/ourjourneys107|TAH #107 長青教室課程清單]]
 
@@ -74,3 +75,5 @@ Accomplishment
 - [[organizations/taiwanese-american-historical-society||TAHS]] — 傳記資料收錄機構
 
 Deepen re-check 2026-09-14 (vault-only): re-read the cited vault records (#39/#285/#605 Who's Who, #428 得獎感言, #566 生涯自述, #1270, Monoculus 2011, #107 長青清單) — no further absorbable facts; TAH #1270 co-author Dr. Yu-Rong Cheng and CSULB have no vault pages, so no new wikilinks could be added without creating new pages.
+
+Deepen-x 2026-09-14 (slice 09141300-7): corpus grep found a new movement-record hit — [[works/taiwaneseamericanhistory-org/ourjourneys186|TAH #186 台美公民協會簡介]] (1985 籌備委員會顧問 roster), now absorbed into the Timeline above. Other hits (#39/#285/#428/#566/#605) were already linked.

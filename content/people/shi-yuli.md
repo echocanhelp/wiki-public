@@ -83,3 +83,6 @@ At [[organizations/taiwan-center||Taiwan Center Taiwan School]] she appears in t
 ## Vault cross-references (deepen pass 2026-09-14)
 
 - Full re-check of the vault source set (Taiwan Center class-information material and mirrored instructor pages): her only documented facts remain the joint Saturday 華文 class at [[organizations/taiwan-center||Taiwan Center Taiwan School]] with [[people/april-lin||April Lin (林淑卿)]] and [[people/he-sumei||He Sumei (何素美)]]. All existing cross-links resolve; no new in-vault facts to absorb.
+
+## Deepen-x 2026-09-14 (slice 09141300-7)
+- SKIP-with-reason: corpus grep (`works/`, `articles/`) for 施郁麗 / Shi Yuli returns zero hits — she appears nowhere in the memoir/record corpus. Nothing absorbable; page retains its Taiwan Center class-schedule facts only.

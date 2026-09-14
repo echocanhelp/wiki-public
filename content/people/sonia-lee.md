@@ -65,3 +65,6 @@ _No filled family fields on the TAH profile._
 
 ## Deepen — 2026-09-14 (vault-only pass)
 - Re-verified against the page's own cited records: both TAH encyclopedia works (#115, #230) exist in the vault and are linked above; the Irvine church links ([[organizations/evergreen-senior-university-by-evangelical-formosa-church-of-irvine-esu||EFCI/Evergreen Senior University]], [[organizations/irvine-taiwanese-presbyterian-church||ITPC]]) cover her documented community footprint. No further absorbable vault facts without new sources; no new links added this pass.
+
+## Deepen-x 2026-09-14 (slice 09141300-7)
+- Corpus grep (王淑女 / Sonia Lee) returns only records already linked here: her own profiles [[works/taiwaneseamericanhistory-org/115-sonia-lee-e7-8e-8b-e6-b7-91-e5-a5-b3-pianist-201501|TAH #115]] / [[works/taiwaneseamericanhistory-org/230-230-sonia-lee-e7-8e-8b-e6-b7-91-e5-a5-b3-201501|TAH #230]], the 1998 CD [[works/taiwaneseamericanhistory-org/publications538|TAH #538]], and the 2018 蕭泰然音樂節 account [[works/taiwaneseamericanhistory-org/ourjourneys340|TAH #340]] where she co-ran the Irvine 台美人團 rehearsal cluster with 賴美芬. All facts already absorbed — no new absorbable corpus material.
