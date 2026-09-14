@@ -45,8 +45,9 @@ After her master's she returned to Taiwan to join local efforts to build choral 
 _No filled family fields on the TAH profile._
 
 ## Vault Holdings
-- [[works/taiwaneseamericanhistory-org/musician23||TAH #23 encyclopedia: Shih-Yin Chen 陳詩音, Conductor / 2014-10]] — first TAH entry, New York conducting years
-- [[works/taiwaneseamericanhistory-org/whoswho1090||TAH #1090 encyclopedia: Shih-Yin Chen 陳詩音 / 2016-06]] — Who's Who entry, Taiwan teaching/conducting posts
+- [[works/taiwaneseamericanhistory-org/musician23||TAH #23 encyclopedia: Shih-Yin Chen 陳詩音, Conductor / 2014-10]] — first TAH entry, New York conducting years; published 2014-10-11, value band B
+- [[works/taiwaneseamericanhistory-org/whoswho1090||TAH #1090 encyclopedia: Shih-Yin Chen 陳詩音 / 2016-06]] — Who's Who entry, Taiwan teaching/conducting posts; published 2016-06-18, value band B
+- Corpus check (slice 09141213-2, 2026-09-14): full-vault grep for 陳詩音/Shih-Yin Chen in works+articles returns only these two TAH records and the works index — no memoir or article mentions; no new community facts absorbable, no conflicts to HOLD.
 
 ## Sources
 - [TAH #1090 encyclopedia: 1090. Shih-Yin Chen 陳詩音2016/06](https://taiwaneseamericanhistory.org/whoswho1090/)
