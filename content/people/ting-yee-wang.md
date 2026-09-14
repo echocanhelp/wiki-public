@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # Ting Yee Wang (王廷宜)
 
@@ -20,7 +20,7 @@ last_reviewed: 2026-09-11
 - **Source:** TAH Foundation Who’s Who
 
 Accomplishment
-1. Wang Kong-Lu Human Right Awards by Formosan Association For Human Rights (王康陸人權獎) 2017
+1. Wang Kong-Lu Human Right Awards (王康陸人權獎) 2017, from the [[organizations/formosan-association-for-human-rights||Formosan Association for Human Rights (FAHTR / 台灣人權協會)]]
 
 <!-- tah-tables:start -->
 ## Education
@@ -40,6 +40,8 @@ _Compiled from facts already on this page — no new facts._
 **Human-rights and community leadership.** Co-founder of the [[organizations/taiwan-human-rights-and-culture-association||Taiwan Human Rights & Culture Association (台灣人權及文化協會)]] and founder of Voice of Taiwan Independence (台獨之聲). President of the [[organizations/formosan-association-for-human-rights||Formosan Association for Human Rights (台灣人權協會)]] in 1980, 1992–1993 and 1993–1995; founder (1998) and President (2015–2018) of [[organizations/friends-of-taiwan||Friends of Taiwan]]. He received the 2017 Wang Kong-Lu Human Rights Awards (王康陸人權獎) from FAHTR.
 
 His papers and collection are held by TAH — see [[works/taiwaneseamericanhistory-org/collection-of-mr-tingyee-wang||TAH #57, Collection of Mr. TingYee Wang]] and encyclopedia entry [[works/taiwaneseamericanhistory-org/75-tingyee-wang||TAH #75]].
+
+**2026-09-14 deepen pass (slice 09112200-23):** page already carried a compiled notes section from cited TAH material; this pass linked the Wang Kong-Lu award to the existing FAHR org page and refreshed review date. No new facts absorbed, no new pages.
 
 ## Family
 

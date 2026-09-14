@@ -7,7 +7,7 @@ tags:
   - taiwanjustice-net
   - thin-page
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 name_en: "Frank Hsieh"
 ---
 # Frank Hsieh (謝長廷)
@@ -18,7 +18,7 @@ name_en: "Frank Hsieh"
 
 - **English:** Frank Hsieh
 - **Chinese:** 謝長廷
-- **Role (as covered):** DPP politician; former Premier / representative roles (as covered)
+- **Role (as covered):** [[organizations/democratic-progressive-party||DPP]] politician; former Premier / representative roles (as covered)
 - **Echopedia scope:** Taiwan politics coverage via taiwanjustice.net; not a Taiwanese-American diaspora profile
 
 ## Source Notes
@@ -56,3 +56,4 @@ name_en: "Frank Hsieh"
 - Same-archive cross-reference: [[people/chen-shuibian||Chen Shuibian (陳水扁)]] — 14 hits in the same taiwanjustice.net extraction (President 2000–2008 per registry); overlapping DPP-era coverage.
 - ⚠ The TAH Who's Who pianist block above stays flagged as a wrong-merge candidate; no absorbment this pass.
 - 2026-09-11 pass: still no absorbment pending the split decision (politician 謝長廷 vs TAH pianist); registry slug `xie-changting` page not yet created — no new pages per slice rules.
+- 2026-09-14 pass (slice 09112200-23): no absorbable new vault facts. Only change: wikilink on the existing "DPP politician" role label to [[organizations/democratic-progressive-party||民主進步黨]] (existing slug); split decision (politician vs TAH pianist) still pending, TAH pianist block stays flagged.
