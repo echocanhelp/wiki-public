@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-14
 ---
 # Prof. Sheng-cheng Hu (胡勝正教授)
 
@@ -43,3 +43,8 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+## Vault Absorbed (2026-09-14)
+- Vault work records: [[works/taiwaneseamericanhistory-org/150-prof-sheng-cheng-hu|TAH #150 Prof. Sheng-Cheng Hu 胡勝正教授]] (2018-10-19) and [[works/taiwaneseamericanhistory-org/whos-who-2150-sheng-cheng-hu|TAH #2150 Who's Who profile]] (2018-07-12).
+- Community-history mention: 林靜竹's account of the 北美洲台灣人教授協會 (NATPA) first-on-island annual conference (2004) records 胡勝正 as one of eight organizers at the second planning meeting held at 賴義雄's home in Washington D.C. (April 21), ahead of the April 19/24 台灣經貿會議 in D.C. — see [[works/taiwaneseamericanhistory-org/ourjourneys47|TAHS Our Journeys #47]]. His organizing role links him to [[organizations/north-america-taiwanese-professors-sc|North America Taiwan Professors Association]].
+- No further biography invented; verification still pending against the cited TAH pages.

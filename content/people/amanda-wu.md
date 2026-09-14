@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-14
 ---
 # Amanda Wu
 
@@ -39,3 +39,8 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+## Vault Absorbed (2026-09-14)
+- Vault work record: [[works/taiwaneseamericanhistory-org/165-amanda-wu-bassist-201503|TAH #165 Amanda Wu, bassist (2015/03)]].
+- A near-duplicate TAH record exists in the vault as [[people/amenda-wu|Amenda Wu]] (same Bay Area geography, UC Davis music study, San Francisco Symphony donor-relations role, UC Berkeley Symphony Orchestra membership); the companion work record [[works/taiwaneseamericanhistory-org/322-amenda-wu-201503|TAH #322 Amenda Wu (2015/03)]] carries the same publication date. Likely a spelling-variant duplicate entry — held pending owner verification, not merged.
+- No further biography invented; verification still pending against the cited TAH pages.

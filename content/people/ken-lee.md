@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-14
 ---
 # Ken Lee (李彥禎)
 
@@ -46,3 +46,7 @@ last_reviewed: 2026-08-17
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+## Vault Cross-References
+- TAH 紀錄：[[works/taiwaneseamericanhistory-org/115-ken-lee|115. Ken Lee 李彥禎]]、[[works/taiwaneseamericanhistory-org/whos-who-26-ken-lee|26. Ken Lee 李彥禎]]、[[works/taiwaneseamericanhistory-org/ff124|124. Mr. Ken Lee — An outstanding social worker]]、收藏見 [[works/taiwaneseamericanhistory-org/collection-of-mr-ken-lee|56. Collection of Mr. Ken Lee]]。
+- 曾任職/帶領團體：[[organizations/taiwanese-association-nc-chapter|Taiwanese Association – NC Chapter（1979 會長）]]、[[organizations/laguna-woods-village-taiwanese-club|Taiwanese Club Laguna Woods Village（2017 會長）]]、[[organizations/taiwanese-american-pen-club-la|Taiwanese American Pen Club (LA)（2007 會長）]]。

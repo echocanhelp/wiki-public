@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-14
 ---
 # Ying-Ying Chen (陳盈穎)
 
@@ -37,8 +37,11 @@ _No filled family fields on the TAH profile._
 ## Sources
 - [TAH #350 encyclopedia: 350. Ying-Ying Chen 陳盈穎, Musician / 2016/07](https://taiwaneseamericanhistory.org/musician350/)
 - [TAH #1178 encyclopedia: 1178. Ying-Ying Chen 陳盈穎 / 2016/07](https://taiwaneseamericanhistory.org/whoswho1178/)
-- [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/ying-ying-chen/)
+- [TAH Who's Who](https://taiwaneseamericanhistory.org/person/ying-ying-chen/)
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+## Vault Cross-References
+- TAH 紀錄：[[works/taiwaneseamericanhistory-org/musician350|350. Ying-Ying Chen 陳盈穎, Musician]]、[[works/taiwaneseamericanhistory-org/whoswho1178|1178. Ying-Ying Chen 陳盈穎]]。

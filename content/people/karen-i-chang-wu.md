@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-14
 ---
 # Karen I. Chang Wu (張音音律師)
 
@@ -45,3 +45,9 @@ Accomplishment
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+## Vault Absorbed (2026-09-14)
+- Mother 楊宜宜 (Eileen Yi Yi Yang) matches [[people/eileen-chang|Eileen Chang 楊宜宜]] — the page for [[people/morgan-chang|Morgan Chang]]'s wife lists daughter "Yin Yin", the same person as this page's 張音音. Both parents' pages corroborate the family link.
+- Her Taiwan Mission Foundation advisory-board/pro-bono role mirrors the foundation her mother founded and leads ([[people/eileen-chang|Eileen Chang]] — Founder and President, Taiwan Mission).
+- Vault work record: [[works/taiwaneseamericanhistory-org/whos-who-739-karen-i-chang-wu|TAH #739 Who's Who profile]] (2015-12-20).
+- No further biography invented; verification still pending against the cited TAH pages.
