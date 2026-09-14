@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # Meng-Chieh Liu (劉孟捷)
 
@@ -35,6 +35,19 @@ A recipient of the 2002 Avery Fisher Career Grant, Meng-Chieh Liu first made hea
 ## Family
 
 _No filled family fields on the TAH profile._
+
+## Timeline（absorbed 2026-09-14；自本頁既有 TAH 記錄整理，未加入外部新事實）
+- 1971 — 出生於台灣高雄
+- 1993 — 柯蒂斯音樂院學士；同年 21 歲時以三小時通知代換 André Watts 於費城 Academy of Music 頂替演出而成名，嗣後於甘迺迪中心獨奏會廣獲好評
+- 1993– — 柯蒂斯音樂院鋼琴教授
+- 2002 — 獲 Avery Fisher Career Grant
+- 2006– — 芝加哥羅斯福大學任教
+- 2009– — 芝加哥室內樂團（Chicago Chamber Musicians）音樂總監
+- 亦見於新英格蘭音樂學院（New England Conservatory）相關記錄
+
+## Vault records（deepen pass 2026-09-14）
+- 同儕 reciprocity：[[people/grace-mei-en-ho||Grace Mei-en Ho 何美恩]]（2026-09-14 deepen）已以本頁為同語料庫 TAH 音樂家參照；[[people/kerina-chang||Kerina Chang 張庭瑄]] 頁之大師班指導名單含劉孟捷。
+- 「台灣名家演奏系列」（TUF 自 1992 年吳澧培贊助起歷年邀請清單，含鋼琴家劉孟捷）：見 [[works/taiwaneseamericanhistory-org/ourjourneys294||南加州台灣人聯合基金會簡介（2017/06）]]。
 
 ## Sources
 - [TAH #80 encyclopedia: 80. Meng-Chieh Liu 劉孟捷, Pianist/2014/11](https://taiwaneseamericanhistory.org/80-meng-chieh-liu-%e5%8a%89%e5%ad%9f%e6%8d%b7-pianist/)

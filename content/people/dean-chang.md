@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # Dean Chang (張怡仁)
 
@@ -49,6 +49,12 @@ Accomplishment
 - [[works/taiwaneseamericanhistory-org/13-dean-chang|TAH #13 百科：Dean Chang 張怡仁]]
 - [[works/taiwaneseamericanhistory-org/ourfootstapes-24|TAH #24：向雷根總統展示西點軍校年鑑]]
 - [[works/taiwaneseamericanhistory-org/collection-of-colonel-retired-dean-chang|上校退役張怡仁（Dean Chang）檔案彙整]]
+
+## Vault records（deepen pass 2026-09-14）
+- 相簿紀錄：[[works/taiwaneseamericanhistory-org/photo-albums-activities-106||TAH 相簿 #106：台美人第一位西點畢業生（1984/02）]]、[[works/taiwaneseamericanhistory-org/photo-albums-historical-18||TAH 歷史相簿 #18：Dean Chang 會見雷根總統（1984/02）]]。
+- 1971 年威廉波特世界少棒賽台美人保護行動之親身回憶（小學時以馬鈴薯刻台灣形印章發傳單；後入西點、獲雷根總統召見、退役後入哥倫比亞大學）：見 [[works/taiwaneseamericanhistory-org/ourjourneys62||Our Journeys #62]]（Subjects 已列 [[people/dean-chang]]）。
+- 撰寫人紀錄：[[works/taiwaneseamericanhistory-org/mystore-755||TAH #755：Tribute to Dr. Bob Cheng（2020/09，Dean Chang 著）]]。
+- 「第一位第二代台美人任國務院外交官（外交系統）」紀錄：見已引用之 [[works/taiwaneseamericanhistory-org/ff45|TAH #45]]、[[works/taiwaneseamericanhistory-org/ff44|TAH #44]]。
 
 ## Sources
 - [TAH #24 encyclopedia: 24. Dean Chang ( 張怡仁) Presenting the West Point Yearbook to President Reagan  By](https://taiwaneseamericanhistory.org/ourfootstapes-24/)

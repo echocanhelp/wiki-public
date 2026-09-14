@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # Prof. Hsiao-Ying Monica Wey (魏曉英教授)
 
@@ -41,6 +41,11 @@ Prof. Hsiao-Ying (Monica) Wey 魏曉英教授 – History of Taiwanese American 
 ## Family
 
 _No filled family fields on the TAH profile._
+
+## Vault records（deepen pass 2026-09-14）
+- 本頁 TAH 傳記之 vault 內出處頁：[[works/taiwaneseamericanhistory-org/whos-who-1909-hsiao-ying-wey||TAH #1909 魏曉英（2017-09-24 發布，B 級記錄）]]。
+- 上表學經歷（成功大學 2006 醫學影像暨放射科學系學士、UT Health Science Center at San Antonio 2011 醫學物理博士、2011 起 Massachusetts General Hospital Athinoula A. Martinos Center 研究員至今）均出自該出處記錄，無另行補充之新傳記事實。
+- 語料庫樞紐：[[sources/taiwaneseamericanhistory-org-story-corpus||TAH story corpus]]；發布機構：[[organizations/tah-foundation||TAH Foundation]]、[[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]。
 
 ## Sources
 - [TAH #1909 encyclopedia: 1909. Prof. Hsiao-Ying (Monica) Wey 魏曉英教授](https://taiwaneseamericanhistory.org/whos-who-1909-hsiao-ying-wey/)
