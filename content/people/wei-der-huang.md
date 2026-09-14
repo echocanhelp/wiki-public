@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # Wei-Der Huang (黃瑋德)
 
@@ -63,3 +63,7 @@ _No filled family fields on the TAH profile._
 - [[works/taiwaneseamericanhistory-org/muscian8||TAH Encyclopedia #8: 黃瑋德, Pianist]]
 - [[organizations/taiwanese-american-student-association-at-the-university-of-maryland-college-park||Taiwanese American Student Association at UMD]] — Taiwanese student community at College Park, where Huang earned her DMA
 - [[works/taiwaneseamericanhistory-org/grace-lutheran-church||Grace Lutheran Church (record in TAH corpus)]] — Huang served as Music Director and Organist at Grace Lutheran Church, Astoria NY
+- [[works/taiwaneseamericanhistory-org/1-the-greater-washington-taiwanese-american-chorus-e8-8f-af-e5-ba-9c-e5-8f-b0-e7||The Greater Washington Taiwanese American Chorus]] — Greater Washington Area, where Huang teaches (Howard Community College) and performs (Strathmore, Montgomery College, NIH Masur Auditorium)
+
+## Deepen-X09132337-1 check (2026-09-14)
+- Vault-only pass: all on-page TAH biography facts (teachers Fu-Jen/Manhattan/UMD, Grace Lutheran Astoria, Howard CC, Greenbelt Community Church, MTNA/MSMTA/FMMC, recital venues) already absorbed in the Timeline; no vault pages exist for those institutions, so no links invented. New valid existing target added above (Greater Washington Taiwanese American Chorus — her current Washington-area performance community).

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # Hsiu-Fang Susan Liu (陳秀芳)
 
@@ -48,7 +48,10 @@ Accomplishment
 - 1982 — Computer Science studies, DePaul University, Chicago
 - 1984–2006 — Computer programmer / analyst, St. Paul Companies / Travelers
 - 1987–2019 — Key member, "Festivals of Nations" Committee, Taiwanese American Association, Minnesota Chapter (St. Paul, MN)
-- Co-founder and active member, Taiwanese American Archives (Articles, Outstanding Taiwanese American & Website Management Committees)
+- Co-founder and active member, [[works/taiwaneseamericanhistory-org/1-taiwanese-american-archives||Taiwanese American Archives]] (Articles, Outstanding Taiwanese American & Website Management Committees)
+
+## Deepen-X09132337-1 check (2026-09-14)
+- All TAH #83 facts remain absorbed; no new vault facts found (vault-only pass, no web). Newly verified existing-slug links added: her TAA Minnesota Festivals-of-Nations committee work is documented in the vault records [[works/taiwaneseamericanhistory-org/11-festival-of-nations-taa-minnesota-2014||Festival of Nations, TAA Minnesota 2014]] and [[works/taiwaneseamericanhistory-org/110-taaminnesota-taiwanese-american-organization-that-has-the-longest-participat||TAA Minnesota — longest Festival-of-Nations participant]], and her Taiwanese American Archives co-founding is documented in [[works/taiwaneseamericanhistory-org/introduction-of-the-ta-archives||Introduction of T.A. Archives]].
 
 ## Sources
 - [TAH #83 encyclopedia: 83. Hsiu-Fang (Susan) Liu 陳秀芳](https://taiwaneseamericanhistory.org/whos-who-83-hsiu-fang-liu/)

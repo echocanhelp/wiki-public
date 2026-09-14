@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # Te-Chiang Bacco Liu (劉德強)
 
@@ -62,6 +62,10 @@ _No filled family fields on the TAH profile._
 ## Connected in the Vault
 
 - **Vault records:** [[works/taiwaneseamericanhistory-org/194-te-chiang-bacco-liu-e5-8a-89-e5-be-b7-e5-bc-b7-violinist-201505||TAH #194 encyclopedia record (violinist)]] and [[works/taiwaneseamericanhistory-org/396-te-chiang-bacco-liu-e5-8a-89-e5-be-b7-e5-bc-b7-201505||TAH #396 encyclopedia record]] in the [[sources/taiwaneseamericanhistory-org-story-corpus||TAH story corpus]] — both mirror the biography and education/employment tables already absorbed above.
+- **Twin Cities residency:** his doctorate at 明尼蘇達大學 and current substitute work with the Saint Paul Chamber Orchestra / Minnesota Orchestra place him in the Minnesota Taiwanese community documented in the vault: [[organizations/university-of-minnesota-taiwanese-student-association||University of Minnesota Taiwanese Student Association]] and [[works/taiwaneseamericanhistory-org/minnesota-chapter-taa||TAA Minnesota Chapter]].
+
+## Deepen-X09132337-1 check (2026-09-14)
+Vault-only pass: all facts from the cited TAH records (#194, #396) and Who's Who tables ( Queensland Conservatorium, 實踐大學, Boston Conservatory, National Defense Symphony Orchestra, Yo-Yo Ma collaboration, U-Minnesota doctorate, SMSU faculty) were already absorbed in Career & Training; no vault pages exist for those institutions so no links invented. Only Minnesota-community context links added above.
 
 ## Vault re-check 2026-09-11 (deepen-x slice 15, vault-only)
 Every wikilink target on this page verified to exist in the vault; all facts from the cited TAH encyclopedia records (#194, #396) and Who's Who tables were already absorbed in the Career & Training section. No new vault facts found, no web used, no new pages created, nothing published.
