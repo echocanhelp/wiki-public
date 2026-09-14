@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # Nami Yang (李淑櫻)
 
@@ -64,3 +64,12 @@ last_reviewed: 2026-09-11
 - Three TAH encyclopedia records for her are held in the vault: [[works/taiwaneseamericanhistory-org/whos-who-2178-nami-yang||#2178]], [[works/taiwaneseamericanhistory-org/6-nami-yang||#6]], and [[works/taiwaneseamericanhistory-org/artist4-nami-yang||artist profile #4]].
 - Her leadership roles map onto existing vault organization pages: [[organizations/taiwanese-american-arts-association||TAAA 台美藝術協會]] (president 2004–2005), [[organizations/neo-art-league||Neo Art League]] (founder/first president 2006–2009), [[organizations/natwa-southern-california||NATWA S. CA Chapter]] (president 2010, district board 2014–2016), and [[organizations/taiwanese-american-pen-club-la||Taiwanese Pen Club in L.A. 台美人筆會]] (president 2016–2017).
 - Family already recorded: daughter Lisa Yang; son [[people/james-yang||James Yang]].
+
+## Deepen pass 2026-09-14 (vault-only)
+Her own writings/records additionally held in the vault (existing pages, no new biography):
+- [[works/taiwaneseamericanhistory-org/mystories133|TAH #133: 緬懷西面兄 / 李淑櫻]] — her essay
+- [[works/taiwaneseamericanhistory-org/mystories231|TAH #231: 閃亮的第二代——訪鄭榮得 / 李淑櫻 / 2015-04]] — her interview piece
+- [[works/taiwaneseamericanhistory-org/679-nami-yang-03-2019|TAH #679: 我所認識的許鴻源長老 / Nami Yang / 2019-03]] — her memoir of [[people/dr-hong-yen-hsu||Dr. Hong-Yen Hsu 許鴻源博士]]
+- [[works/taiwaneseamericanhistory-org/collection-of-ms-nami-li|TAH #24: Collection of Ms. Nami Yang 李淑櫻女士的收藏]] — her collection record
+- [[works/taiwaneseamericanhistory-org/footsteps-27|TAH footsteps #27: Interview artist at latwtvfinearts by Nami Yang / 2019]] — artist interview from her 千楓藝術台 program
+- She is also credited as author in [[works/taiwaneseamericanhistory-org/ourjourneys231|TAH ourjourneys #231]] (07/2016).
