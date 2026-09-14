@@ -90,3 +90,9 @@ Use the shared intake process at Echopedia Community Contributions Hub and inclu
 - [[organizations/national-taiwanese-presbyterian-council||NTPC]]
 - [[organizations/presbyterian-church-in-taiwan||Presbyterian Church in Taiwan (台灣基督長老教會)]]
 - [[sources/presbyterian-church-in-taiwan||Presbyterian Church in Taiwan source]]
+- [[works/taiwaneseamericanhistory-org/our-journeys-350||Our Journeys #350 (張瑞雄 memoir)]] — primary vault account of 周聯華 (懷恩堂 pastor, Zhejiang native, US-educated)
+- [[people/shoki-coe||黃彰輝 (Shoki Coe)]] — named in the same memoir as a close associate
+- [[people/jonah-chang||張瑞雄 (Rev. Jonah Chang)]] — memoir author; used 周聯華's brother 周彤華's consul-general connections
+- [[people/pingtung-lai||Pingtung Lai]] — shares advisory-network context with 周聯華
+
+Deepen-x pass 2026-09-14 (slice 09140107-1, vault-only): facts from cited sources (albert_lai export, Our Journeys #350) already absorbed above; 懷恩堂 has no vault page (verified) — left unlinked, no new pages created, no web used, nothing published.
