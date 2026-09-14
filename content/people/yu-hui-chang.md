@@ -66,3 +66,6 @@ The two TAH encyclopedia entries cited above are held in the vault as bibliograp
 - [[works/taiwaneseamericanhistory-org/301-yu-hui-chang-e5-bc-b5-e7-8e-89-e6-85-a7-composer-201510||TAH #301: Yu-Hui Chang, Composer]]
 - [[works/taiwaneseamericanhistory-org/652-yu-hui-chang-e5-bc-b5-e7-8e-89-e6-85-a7-201510||TAH #652: Yu-Hui Chang]]
 - [[sources/taiwaneseamericanhistory-org-story-corpus||TAH story corpus]]
+
+## Deepen-x re-check 2026-09-14 (slice 8, vault-only)
+Vault-wide mention sweep: she appears only in the two cited TAH encyclopedia records ([[works/taiwaneseamericanhistory-org/301-yu-hui-chang-e5-bc-b5-e7-8e-89-e6-85-a7-composer-201510||#301]], [[works/taiwaneseamericanhistory-org/652-yu-hui-chang-e5-bc-b5-e7-8e-89-e6-85-a7-201510||#652]]) plus the people/works/source index pages. All wikilink targets verified to exist. No new vault facts, no new pages, no web, nothing published.
