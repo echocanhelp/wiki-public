@@ -40,7 +40,7 @@ last_reviewed: 2026-09-14
 - 1988–1990 — Clinical Professor, Dept. of Radiology, Emory Univ. Hospital
 - 1990–1996 — returned as Professor, Dept. of Diagnostic Radiology, M.D. Anderson Cancer Center
 - 1996– — Chief, Section of Interventional Radiology and Vice President, Koo Foundation Sun Yat-Sen Cancer Center, Taiwan
-- 2018-04-18 — 個人條目發表於 TAH 百科 #2095（條目頁存於 vault：[[works/taiwaneseamericanhistory-org/whos-who-2095-vincent-chuang|已覆葆]]，載訂者為 [[organizations/tah-foundation||TAH Foundation]]）
+- 2018-04-18 — 個人條目發表於 TAH 百科 #2095（條目頁存於 vault：[[works/taiwaneseamericanhistory-org/whos-who-2095-vincent-chuang|已收錄]]，發佈者為 [[organizations/tah-foundation||TAH Foundation]]）
 
 Publisher of source profile: [[organizations/tah-foundation||TAH Foundation]].
 
