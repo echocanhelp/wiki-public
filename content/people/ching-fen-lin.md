@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # Ching-Fen Lin (張靜芬)
 
@@ -54,3 +54,8 @@ _No filled family fields on the TAH profile._
 - Trained at 東海大學 (B.S. 音樂系) and 西德州農工大學 (M.S. 聲樂); voice study under William Zimerman, 陳盤安, 李靜美, Elsa Porter, Elena Nickolaidi, and Laurel Miller, conducting under Hugh Sanders and Henry Gibbons.
 - Conducted the Taiwanese-American choruses 華聲 (Dallas), 悅友 (Minnesota), 狂飆 (Houston), and 東海大學民謠合唱團; led the 四季合唱團 on Taiwan tours in 1995 and 1999.
 - Engaged as a contracted soloist with the Arlington and Fort Worth opera companies; currently a high-school voice teacher and the artistic director/conductor of the 四季合唱團, and a member of NATS.
+
+## Community context (deepen pass 2026-09-14)
+
+- Her Dallas-area posts (華聲 chorus, Arlington/Fort Worth opera engagements) overlap the vault's DFW Taiwanese-American community record [[works/taiwaneseamericanhistory-org/dallasfort-worth-chapter-taa|Dallas/Fort Worth Chapter, TAA (TAH record)]]; no personal membership is documented.
+- Her Houston conducting post (狂飆 chorus) sits within the vault's documented Houston Taiwanese choral scene — see [[works/taiwaneseamericanhistory-org/344-taiwanese-chorus-of-greater-houston-tcgh-e4-bc-91-e5-a3-ab-e9-a0-93-e5-8f-b0|TAH #344, Taiwanese Chorus of Greater Houston]], a distinct chorus from the one she conducted.

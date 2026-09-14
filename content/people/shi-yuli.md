@@ -7,7 +7,7 @@ tags:
   - Taiwan-Center
   - Taiwan-School
 verification_status: published
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # Shi Yuli (施郁麗)
 
@@ -79,3 +79,7 @@ At [[organizations/taiwan-center||Taiwan Center Taiwan School]] she appears in t
 ## Vault cross-references (deepen pass 2026-09-11)
 
 - Cross-link check: her page is reciprocally linked from the mirrored cohort pages [[people/he-sumei||He Sumei (何素美)]], [[people/april-lin||April Lin (林淑卿)]], [[people/simon-lin||Simon Lin (林榮松)]], and the [[organizations/taiwan-center||Taiwan Center]] class table; all resolve to existing vault pages. No new biography exists in the vault source set.
+
+## Vault cross-references (deepen pass 2026-09-14)
+
+- Full re-check of the vault source set (Taiwan Center class-information material and mirrored instructor pages): her only documented facts remain the joint Saturday 華文 class at [[organizations/taiwan-center||Taiwan Center Taiwan School]] with [[people/april-lin||April Lin (林淑卿)]] and [[people/he-sumei||He Sumei (何素美)]]. All existing cross-links resolve; no new in-vault facts to absorb.

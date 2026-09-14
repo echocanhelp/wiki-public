@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # Carrie Y. Tseng (曾郁庭博士)
 
@@ -59,3 +59,8 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+## Vault cross-references (deepen pass 2026-09-14)
+
+- Her documented South Bay settlement sits alongside the vault's South Bay community record [[works/taiwaneseamericanhistory-org/south-bay-taiwanese-association|South Bay Taiwanese Association (TAH record)]]; no personal membership is documented.
+- She is one of several cellists recorded in the TAH biographical corpus — see the parallel cello profiles [[works/taiwaneseamericanhistory-org/15-annie-chuan-e6-ac-8a-e9-9b-8b-e6-96-87-cello|TAH record: Annie Chuan, cello]] and [[works/taiwaneseamericanhistory-org/32-nan-cheng-chen-e9-99-b3-e5-8d-97-e5-91-88-cello|TAH record: Nan-Cheng Chen, cello]]; no direct collaboration is documented.

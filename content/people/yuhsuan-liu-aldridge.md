@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # Yuhsuan Liu Aldridge (劉于瑄)
 
@@ -39,7 +39,7 @@ Yuhsuan Liu Aldridge started piano lessons at age of five, and cello lessons at 
 - 2010 — Bachelor of Science in Music Therapy, Maryville University
 - Six-year tenure as piano and cello instructor, Webster University Community Music School; certified in Suzuki books 1–4; active soloist and accompanist in St. Louis and Taiwan
 
-St. Louis-area activity connects to [[organizations/friends-of-taiwan-greater-st-louis||Friends of Taiwan Greater St. Louis]] and [[organizations/taiwanese-scholar-association-in-st-louis-tsa-stl||TSA-STL]] as regional Taiwanese-American community organizations.
+St. Louis-area activity connects to [[organizations/friends-of-taiwan-greater-st-louis||Friends of Taiwan Greater St. Louis]], [[organizations/taiwanese-scholar-association-in-st-louis-tsa-stl||TSA-STL]] and [[organizations/taiwanese-association-of-america-in-greater-st-louis||Taiwanese Association of America in Greater St. Louis]] as regional Taiwanese-American community organizations active where she studied (Webster University, University of Missouri–St. Louis, Maryville University) and taught.
 
 ## Family
 

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # Prof. Ping-Hui Liao (廖炳惠教授)
 
@@ -59,3 +59,7 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+## Vault cross-references (deepen pass 2026-09-14)
+
+- The cited film-criticism article is mirrored in-vault under its publisher hub [[sources/taiwanjustice-net||taiwanjustice.net]] (also recorded as an organization page [[organizations/taiwanjustice-net||Taiwan Justice]]); his commentary on contemporary Taiwanese cinema is the only authored writing of his cited in the vault, consistent with his comparative-literature chairmanship. No further in-vault biography to absorb.

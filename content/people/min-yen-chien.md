@@ -43,8 +43,12 @@ _No filled family fields on the TAH profile._
 - [TAH #128 encyclopedia: 128. Min-Yen Chien 簡名彥, Violinist / 2015/02](https://taiwaneseamericanhistory.org/128-min-yen-chien-%e7%b0%a1%e5%90%8d%e5%bd%a5-violinist-201502/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/min-yen-chien/)
 
+## First-generation TA musician network (all in-vault)
+His own records [[works/taiwaneseamericanhistory-org/128-min-yen-chien-e7-b0-a1-e5-90-8d-e5-bd-a5-violinist-201502|TAH #128]] / [[works/taiwaneseamericanhistory-org/241-min-yen-chien-e7-b0-a1-e5-90-8d-e5-bd-a5-201502|TAH #241]] place him beside the peer musicians already profiled in the vault: pianist [[works/taiwaneseamericanhistory-org/103-hanchien-lee-e6-9d-8e-e5-87-bd-e8-92-a8-pianist|Hanchien Lee 李貞鏘]], piano accompanist [[people/melody-kuo||Melody Kuo 郭雋律]] ([[works/taiwaneseamericanhistory-org/119-melody-kuo-e9-83-ad-e9-9b-8b-e5-be-8b-piano-accompanist|TAH #119]]), and violinist [[works/taiwaneseamericanhistory-org/130-chiun-teng-cheng-e9-84-ad-e4-bf-8a-e9-a8-b0-violinist-201502|Chiun-Teng Cheng 鄭雅鈴]]. Same-surname disambiguation retained: [[people/dr-minze-chien||Dr. Minze Chien 簡明子]] (engineer, TAA-GWC president) and [[people/mien-chien||Mien Chien 簡勐]] are distinct persons.
+
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - [[works/taiwaneseamericanhistory-org/128-min-yen-chien-e7-b0-a1-e5-90-8d-e5-bd-a5-violinist-201502||TAH #128 — 簡名彥, Violinist]]
 - [[works/taiwaneseamericanhistory-org/241-min-yen-chien-e7-b0-a1-e5-90-8d-e5-bd-a5-201502||TAH #241 — 簡名彥]]
+- [[people/melody-kuo||Melody Kuo 郭雋律]] — peer first-generation TA musician in the TAH encyclopedia corpus
