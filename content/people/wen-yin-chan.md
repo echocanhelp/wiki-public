@@ -44,6 +44,7 @@ _No filled family fields on the TAH profile._
 - **Endorsement already on file:** the Claude Frank quote ("technically brilliant, musically spontaneous, creative and convincing") and the performance venues (Carnegie Hall, Steinway Hall, Minneapolis Orchestra Hall, Taiwan National Recital Hall, Fort Collins and Winnipeg symphony orchestras) come from these vault-held entries, not from web re-fetch.
 - **Holdings:** the entries sit in the [[sources/taiwaneseamericanhistory-org-story-corpus||台美史料中心 story corpus]], published by [[organizations/tah-foundation||TAH Foundation]].
 - **Link hygiene:** Curtis Institute, Yale School of Music and Levine School of Music have no vault pages; left unlinked rather than creating new pages.
+- **SKIP 2026-09-14 (corpus scan):** full grep of `content/works` + `content/articles` for 詹雯茵 / Wen-Yin Chan returns only her own two TAH directory records (already linked above) and the corpus index. No memoir or community-record mentions beyond the press-kit entries — nothing further absorbable.
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

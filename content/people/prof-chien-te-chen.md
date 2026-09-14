@@ -44,6 +44,9 @@ _No filled family fields on the TAH profile._
 His TAH Who's Who record is held in the vault as community historical record:
 - [[works/taiwaneseamericanhistory-org/whos-who-1791-chien-te-chen|TAH #1791 — Prof. Chien-Te Chen 陳建德教授]] (published 2017-07-27, value band B)
 
+## SKIP note (deepen pass 2026-09-14)
+Corpus grep (`content/works`, `content/articles`) returns only his own TAH #1791 record page and the works index — no memoir/community material beyond the existing TAH tables. Nothing absorbable; no new facts added.
+
 ## Timeline (absorbed from TAH tables above, vault-only)
 - **1953** — Born in Kaohsiung, Taiwan.
 - **1976 / 1980** — B.S. and M.S. in Physics, National Taiwan Univ.
