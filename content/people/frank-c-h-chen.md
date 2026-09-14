@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # Frank C.H. Chen (陳治煌)
 
@@ -53,3 +53,9 @@ Frank C.H. Chen (Conductor). Frank C.H. Chen holds a BS and MS degrees in Electr
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - Vault records of the cited entries: [[works/taiwaneseamericanhistory-org/musician408||TAH #408 musician entry]], [[works/taiwaneseamericanhistory-org/whoswho1706||Who's Who #1706]], [[works/taiwaneseamericanhistory-org/whoswho1708||Who's Who #1708]]
+
+## Vault Holdings（deepen pass 2026-09-14）
+
+- 本頁所引三筆 TAH 記錄（#408、#1706、#1708，皆 06/2017）均已入庫，為書目級記錄（value band B），全文留存在 vault；Timeline 內容即出自該等記錄之 TAH tables，無另行補充之新傳記事實。
+- 夫妻同為合唱指揮：夫人 [[people/amanda-hsu||許惠敏]] 之 TAH 記錄見 [[works/taiwaneseamericanhistory-org/whos-who-1707-amanda-hsu||Who's Who #1707]] 及 [[works/taiwaneseamericanhistory-org/musician407||TAH #407（conductor, 06/2017）]]；兩頁互證 1989 年夫妻共同創辦海天合唱團（Haitien Chorus，暫無獨立頁面）之記載。
+- DC 台裔社區脈絡：[[organizations/greater-washington-taiwan-culture-center||Greater Washington Taiwanese community]]。

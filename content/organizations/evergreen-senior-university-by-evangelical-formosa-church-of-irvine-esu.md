@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # Evergreen Senior University by Evangelical Formosa Church of Irvine ESU (愛恩台福基督教會長春大學)
 
@@ -36,3 +36,9 @@ Evergreen Senior University (ESU) is an outreach program of Evangelical Formosan
 - [[organizations/evergreen-class-by-irvine-taiwanese-presbyterian-church-laguna-hills-ca||Evergreen Class 長青教室 (Irvine TPC, Laguna Hills)]] (Irvine 地區教會長青教育同類方案)
 - [[organizations/taiwanese-evergreen-academy||Taiwanese Evergreen Academy 矽谷迦南長青學院]] (長者教育同類機構)
 - [[organizations/formosa-senior-association||Formosa Senior Association]] (長者服務同類社團)
+
+## Vault Holdings（deepen pass 2026-09-14）
+
+- 本機構之 TAH 專文已入庫：[[works/taiwaneseamericanhistory-org/evergreen-senior-university-by-evangelical-formosa-church-of-irvine||TAH ESU 專文（2015-07-27，value band B）]]；母會記載見 [[works/taiwaneseamericanhistory-org/evangelical-formosan-church-of-irvine||Evangelical Formosan Church of Irvine 愛恩台福基督教會專文（2016-05-17）]]。入庫記錄為書目級，全文留存在 vault。
+- 日期脈絡：入庫專文發文日為 2015-07-27，與本頁依 TAH 目錄所載「2014 年設立」並存不衝突（發文日非設立日）。
+- 同類教會長青教育方案之入庫記錄：[[works/taiwaneseamericanhistory-org/5-evergreen-by-irvine-taiwanese-presbyterian-church||TAH #5 Evergreen (ITPC)]]、[[works/taiwaneseamericanhistory-org/evergreen-class-irvine-taiwanese-presbyterian-church||Evergreen Class (ITPC)]]、[[works/taiwaneseamericanhistory-org/208-irvine-e5-8f-b0-e7-81-a3-e5-9f-ba-e7-9d-a3-e9-95-b7-e8-80-81-e6-95-99-e6-9c-||Irvine 台灣基督長老教會十週年紀念特刊（2004）]]。

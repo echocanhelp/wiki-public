@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # Prof. Kun-Yen Huang (黃崑巖教授)
 
@@ -55,6 +55,11 @@ Accomplishment
 - [TAH #294 encyclopedia: 294. Prof. Kun-Yen Huang 黃崑巖教授](https://taiwaneseamericanhistory.org/ota-294/)
 - [TAH #828 encyclopedia: 828. Prof. Kun-Yen Huang 黃崑巖教授](https://taiwaneseamericanhistory.org/whos-who-828-kun-yen-huang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-kun-yen-huang/)
+
+## Vault Holdings（deepen pass 2026-09-14）
+
+- 所引三筆 TAH 記錄均已入庫：[[works/taiwaneseamericanhistory-org/senior-taiwanese-american-12||TAH #12（2019-08-28，Senior Taiwanese American 專輯）]]、[[works/taiwaneseamericanhistory-org/ota-294||TAH #294（OTA）]]、[[works/taiwaneseamericanhistory-org/whos-who-828-kun-yen-huang||TAH Who's Who #828]]。三筆均為書目級記錄（value band B），全文留存在 vault；上方 Timeline 與 Education/Employment 即出自該等記錄之 TAH tables，無另行補充之新傳記事實。
+- 夫人 [[people/hwei-mei-amyhuang||謝惠美]] 另有獨立即人頁面；三女黃岫清、黃岫安、黃岫寧暫無個人頁面。
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # Mavis Hsieh (謝孟潔)
 
@@ -56,3 +56,4 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- [[organizations/taiwanese-association-of-indiana||Taiwanese Association of Indiana]]（Indiana 居住地之社團脈絡：Ball State、Muncie 皆在 Indiana）
