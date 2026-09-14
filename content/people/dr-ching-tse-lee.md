@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-10
+last_reviewed: 2026-09-14
 ---
 # Dr. Ching-Tse Lee (李清澤博士)
 
@@ -30,6 +30,11 @@ Ching-Tse Lee, Ph.D., Professor Emeritus of Psychology at the City University of
 ## Employment
 - Univ. of Texas, Austin — Faculty Associate — (1969-1971) — City Univ. of New York — Professor — (1971-1975) — Brooklyn College of CUNY — Professor — (1976-2008) — City University of New York, Brooklyn College, Department of Psychology — Professor Emeritus of Psychology — City University of New York, Brooklyn College, Department of Psychology — Chairperson — Golden Eagle Institute — President — Tao and Zen Research Institute — Director — Taiwan Photography Association In Greater New York — President — (2005-) — Spring Lake Gallery, New Jersey — Exhibiting Artist — Community — Golden Eagle Institute for seniors — Founding member and President (1991-2007, 2013) — North America Taiwanese Professor Association / New York Chapter — President (1984-1985, 2001-2002) — Taiwan Photography Association in Greater New York — Founder and President (2005-2012, 2015) — Taiwan Christian Church Council of North America — Chief editor of journal (1975-1976) — National Taiwan University Alumni Association / New York Chapter — President (1997-1999) — World Zen Art Center — Honorable President (2012)
 <!-- tah-tables:end -->
+
+## Role in the Community
+
+- 語料庫收有其本人多篇原始材料：TAH 百科 [[works/taiwaneseamericanhistory-org/167-dr-ching-tse-lee|TAH #167 李清澤博士]]、藝術家專輯 [[works/taiwaneseamericanhistory-org/artist18-ching-tse-lee|TAH #18 李清澤 Ching-Tse Lee]]、足跡紀錄 [[works/taiwaneseamericanhistory-org/footsteps-32|TAH #32 足跡（林榮峰撰文）]]
+- 語料庫 NATPA 回憶錄（Our Journeys 系列）中的「李鎮源教授」為台大醫學院醫師、台灣民主運動前輩，與本頁心理學家李清澤同名異人，勿混
 
 ## Family
 

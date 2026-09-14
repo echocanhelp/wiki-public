@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-10
+last_reviewed: 2026-09-14
 ---
 # Li-Chan Chen-Maxham (陳麗嬋)
 
@@ -60,6 +60,13 @@ _No filled family fields on the TAH profile._
 - [TAH #312 encyclopedia: 312. 台灣的世紀女高音－陳麗嬋/林衡哲/2015/07](https://taiwaneseamericanhistory.org/mystories312/)
 - [TAH #60 encyclopedia: 60. Li-Chan Chen-Maxham 陳麗嬋, Soprano/2014/10](https://taiwaneseamericanhistory.org/60-li-chan-chen-maxham-%e9%99%b3%e9%ba%97%e5%ac%8b-soprano/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/li-chan-chen-maxham/)
+
+## Role in the Community
+*(absorbed 2026-09-14 revisit pass from the vault corpus)*
+
+- The movement record places her inside the 台灣人音樂家推廣 network: in **1992 and 1993** she was invited by 林衡哲醫師's 「台灣名家演奏系列」 concert series in Los Angeles, alongside 林昭亮、胡乃元、陳泰成、陳毓襄、曾道雄, with programs deliberately interleaving works by 蕭泰然 and 許常惠 — the series' stated aim was to introduce Taiwanese musicians and composers to the US mainstream (per the memoir [[works/taiwaneseamericanhistory-org/ourjourneys287|Our Journeys #287]], which also cites 林衡哲's book 台灣音樂之光).
+- 林衡哲's essay 台灣的世紀女高音－陳麗嬋 (2015-07) is itself in the corpus: [[works/taiwaneseamericanhistory-org/mystories312|TAH #312]]. Her TAH encyclopedia/Who's-Who profiles are corpus works too: [[works/taiwaneseamericanhistory-org/71-li-chan-chen|TAH #71]], [[works/taiwaneseamericanhistory-org/60-li-chan-chen-maxham-e9-99-b3-e9-ba-97-e5-ac-8b-soprano|TAH #60 (2014)]], [[works/taiwaneseamericanhistory-org/whos-who-1114-li-chan-chen-maxham|TAH #1114]], [[works/taiwaneseamericanhistory-org/11-li-chan-chen-famous-soprano|TAH #11]].
+- **Saturation note:** the corpus's distinctive new fact is the 1992–93 LA 台灣名家演奏系列 appearances — community-side verification of the press-kit soprano bio; no date/name conflicts found, nothing to HOLD.
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
