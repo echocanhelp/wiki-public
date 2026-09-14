@@ -65,3 +65,8 @@ _No filled family fields on the TAH profile._
 
 - 新增語料庫脈絡連結：她就讀 Pre-College Division 的 Manhattan School of Music 在 TAH 語料庫另有條目 [[works/taiwaneseamericanhistory-org/manhattan-school-of-music-appoints-acclaimed-conductor-mei-ann-chen-as-incoming-||TAH：Manhattan School of Music 相關條目]]（該頁主角為 Mei-Ann Chen，僅作學校於語料庫之脈絡，非本人事蹟）。
 - LaGuardia、SUNY Purchase、Mannes College、Albany Symphony、InterSchool Orchestra 於 vault 目前無對應頁面，故未新增連結；既有連結皆經核對存在，未新建頁面、未上網。
+
+## deepen pass 2026-09-14（DEEPEN-X slice 09140107-6）
+
+- 新增所在地社群脈絡連結（她現於 Albany Symphony 任教小提琴，以下為該地 TA 社群之 TAH 語料庫記錄，非本人事蹟、未主張會籍）：[[works/taiwaneseamericanhistory-org/15-capital-district-festival-of-nations-albany-ny||TAH #15：紐約首府區萬國嘉年華會（TAA-Albany, NY）]]、[[works/taiwaneseamericanhistory-org/35-new-york-albany-chapter-fapa||TAH #35：FAPA New York-Albany Chapter]]。
+- 本輪 vault-only：未新建頁面、未上網、無虛構事蹟。

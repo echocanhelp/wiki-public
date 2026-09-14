@@ -67,3 +67,8 @@ She lives and teaches in the greater-St. Louis Taiwanese American community, whe
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - [[works/taiwaneseamericanhistory-org/277-anita-chia-jung-lin-e6-9e-97-e4-bd-b3-e8-93-89-violinist-201508||TAH Encyclopedia #277: 林佳蓉, Violinist (2015/08)]]
 - [[works/taiwaneseamericanhistory-org/550-anita-chia-jung-lin-e6-9e-97-e4-bd-b3-e8-93-89-201508||TAH Encyclopedia #550: 林佳蓉 (2015/08)]]
+
+## deepen pass 2026-09-14（DEEPEN-X slice 09140107-6）
+
+- 復核本頁：傳記事實已全部吸收自本頁既有 TAH 出處（vault-only，未上網）；聖路易社群脈絡四連結（TAA-GSL、TSA-StL、FoT-GSL、NATWA-StL）經核對皆存在於 vault，屬居住／任教地脈絡，未主張會籍。
+- 本頁提及的 台南藝術大學、Southern Illinois University Edwardsville、St. Louis School of Music、NATS 於 vault 目前無對應頁面，故本輪未新增 wikilink（避免死連結）；未新建頁面、無虛構事蹟。
