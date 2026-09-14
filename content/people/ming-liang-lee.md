@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # Prof. Ming Liang Lee (李明亮)
 
@@ -58,7 +58,7 @@ Professor, Head of Department
 
 ## Family
 
-- **Wife:** 廖雅惠(Yahnei)
+- **Wife:** 廖雅惠(Yahnei) — no vault page yet; do not link to the unrelated 王雅惠/詹雅惠/邱雅惠 pages
 - **Daughter:** 李悅舟
 - **Daughter:** 李康舟
 - **Daughter:** 李培舟
@@ -70,6 +70,7 @@ TAH records held in this vault:
 - [[works/taiwaneseamericanhistory-org/12-35|TAH #35 — 逾千學者挺小英，李明亮：沒有人是淡水阿嬤叫我們來的 (2016/01)]]
 - [[works/taiwaneseamericanhistory-org/22-prof-ming-liang-lee|TAH — Prof. Ming Liang Lee 李明亮教授 (22)]]
 - [[works/taiwaneseamericanhistory-org/collection-of-prof-ming-liang-lee|Collection of Prof. Ming Liang Lee]]
+- Re-check pass 2026-09-14: vault holdings above verified on disk; no additional biography absorbable from vault beyond the Timeline/Employment already captured; no new facts invented.
 
 ## Sources
 - [TAH #35 encyclopedia: 35. 逾千學者挺小英，李明亮：沒有人是淡水阿嬤叫我們來的 /2016/01](https://taiwaneseamericanhistory.org/12-35/)
@@ -78,4 +79,5 @@ TAH records held in this vault:
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
+- [[organizations/taiwanese-american-historical-society||TAH 台美史料協會]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

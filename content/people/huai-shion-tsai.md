@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # Huai Shion Tsai (蔡蕙香)
 
@@ -43,7 +43,7 @@ Huai-Shion Tsai was born in Tainan, Taiwan in 1947. She graduated from the Natio
 
 ## Family
 
-- **Husband:** [[people/henty-chen||陳華山]]
+- **Husband:** [[people/henty-chen||陳華山]] — his own TAH record: [[works/taiwaneseamericanhistory-org/461-henty-chen-e9-99-b3-e8-8f-af-e5-b1-b1201506|TAH #461: Henty Chen 陳華山 (2015/06)]]
 - **Son:** Jack, Steve, Mike, Jimmy
 
 
@@ -52,6 +52,7 @@ Huai-Shion Tsai was born in Tainan, Taiwan in 1947. She graduated from the Natio
 - [[works/taiwaneseamericanhistory-org/artist19-huai-shion-tsai||TAH #19: 蔡蕙香 Huai-Shion Tsai, Artist]]
 - [[works/taiwaneseamericanhistory-org/163-e8-94-a1-e8-95-99-e9-a6-991988-e8-94-a1-e8-95-99-e9-a6-99198801art-e8-97-9d-||TAH #163: 蔡蕙香 1988/01 Art/藝術]]
 - [[works/taiwaneseamericanhistory-org/164-e8-94-a1-e8-95-99-e9-a6-991995-e8-94-a1-e8-95-99-e9-a6-99199501art-e8-97-9d-||TAH #164: 蔡蕙香 1995/01 Art/藝術]]
+- Re-check pass 2026-09-14: vault records above cross-checked; they are encyclopedia/date records already absorbed into the sections above — no further biography absorbable from vault, no new facts invented. Spouse's own TAH work record (461) cross-linked in Family.
 
 ## Sources
 - [TAH #460 encyclopedia: 460. Huai Shion Tsai 蔡蕙香/2015/06](https://taiwaneseamericanhistory.org/whos460-huai-shion-tsai/)

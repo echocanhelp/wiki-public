@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # Yi-Fang Huang (黃亦芳)
 
@@ -47,6 +47,7 @@ _No filled family fields on the TAH profile._
 - [[works/taiwaneseamericanhistory-org/whoswho1109||TAH #1109 encyclopedia: Yi-Fang Huang 黃亦芳 (published 2016-06-25)]]
 - [[works/taiwaneseamericanhistory-org/musician39||TAH #39: Yi-Fang Huang 黃亦芳, Pianist (published 2014-10-11)]]
 - Both vault records are bibliographic stubs ("full text stays in the vault"); no additional biography is absorbable from them beyond the dates above.
+- Re-check pass 2026-09-14: both vault records re-verified on disk as bibliographic stubs; no new absorbable facts; no invented biography.
 
 ## Name Variants / Disambiguation
 - Do not confuse with **Linda (Yi-Fang) Yau 劉義芳** — a different TAH Who's Who subject ([[works/taiwaneseamericanhistory-org/whos-lindayi-fang-yau|TAH #1566, 2017-03-20]]; page [[people/lindayi-fang-yau|Linda(Yi-Fang) Yau]], spouse page [[people/william-yau|William Yau]]). The shared romanized given name "Yi-Fang" has caused cross-linking errors.
@@ -58,4 +59,5 @@ _No filled family fields on the TAH profile._
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
+- [[organizations/taiwanese-american-historical-society||TAH 台美史料協會]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
