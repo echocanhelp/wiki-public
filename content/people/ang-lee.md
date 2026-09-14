@@ -69,3 +69,7 @@ _No filled family fields on the TAH profile._
 - [[works/taiwaneseamerican-org/ang-lee-retrospective-at-rice-university-houston-tx||2010-02: Ang Lee Retrospective at Rice University, Houston TX]]
 - [[works/taiwaneseamerican-org/the-films-of-ang-lee||2012-11: The Films of Ang Lee — a month of screenings, Washington DC]]
 - All three above are archived in the vault under [[sources/taiwaneseamerican-org||TaiwaneseAmerican.org]]
+
+## Vault deepening note (2026-09-14, vault-only)
+- Re-check 2026-09-14: the four archived TaiwaneseAmerican.org records linked above document community reception of the filmography already on this page — 2012 Life of Pi Best Director coverage, the 2009 Lust, Caution co-presented screening, the 2010 Rice University (Houston) retrospective, and the 2012 Washington DC month of screenings.
+- No vault pages exist for his collaborators or institutions (NTUA, UIUC, NYU Tisch), so no new wikilinks were added; existing links to [[organizations/tah-foundation||TAH Foundation]], [[sources/taiwaneseamerican-org||TaiwaneseAmerican.org]], and [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]] remain the vault connections.
