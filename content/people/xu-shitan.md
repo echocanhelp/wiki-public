@@ -7,7 +7,7 @@ tags:
   - Taiwan-Center
   - Taiwan-School
 verification_status: published
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-13
 ---
 # Xu Shitan (徐士坦)
 

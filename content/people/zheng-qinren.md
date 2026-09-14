@@ -8,7 +8,7 @@ tags:
   - taiwanjustice
   - publication-contributor
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-13
 ---
 
 # Cheng Chin-jen / 鄭欽仁
