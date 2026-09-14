@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # Dr. Ray Wang (王瑞華博士)
 
@@ -56,3 +56,10 @@ His biographical entry is [[works/taiwaneseamericanhistory-org/whos-who-2306-ray
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - [[works/taiwaneseamericanhistory-org/whos-who-2306-ray-wang||TAH #2306 Who's Who entry]]
+
+## Deepen — 2026-09-14 (vault-only pass)
+
+Re-checked this page's cited TAH records; no new external facts, community links only:
+
+- His graduate studies and first association presidency were at Kansas State University; the vault records Taiwanese American community life in Kansas at [[organizations/taiwanese-association-of-greater-kansas-city-takc||Taiwanese Association of Greater Kansas City (TAKC)]] and the [[organizations/north-america-taiwanese-womens-association-kansas-chapter||NATWA Kansas Chapter]].
+- His Philadelphia community work links to the vault's [[organizations/taiwanese-association-of-america-greater-philadelphia||TAA Greater Philadelphia chapter]] record.

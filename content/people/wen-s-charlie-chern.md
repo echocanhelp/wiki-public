@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # Wen S. Charlie Chern (陳文雄博士)
 
@@ -73,3 +73,10 @@ Wen S. (Charlie) Chern 陳文雄 – History of Taiwanese American (T.A. Archive
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[organizations/taiwanese-american-historical-society||TAH 台美史料協會]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+## Deepen — 2026-09-14 (vault-only pass)
+
+Absorbed from this page's own cited TAH records; no new external facts:
+
+- Doctoral years at UC Berkeley (Ph.D. Agricultural Economics, 1975) — the vault documents Taiwanese student life at Berkeley at [[organizations/taiwanese-american-student-association-at-uc-berkeley||TASA at UC Berkeley]].
+- Professor at The Ohio State University 1987–2007 — the vault records the Taiwanese student community at OSU at [[organizations/taiwanese-american-student-association-ohio-state-university||TASA at Ohio State University]].

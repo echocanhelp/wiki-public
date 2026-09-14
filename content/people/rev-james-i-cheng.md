@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # Rev. James I. Cheng (鄭義勇牧師)
 
@@ -66,3 +66,10 @@ Absorbed from this page's own cited TAH tables; no new external facts:
 - Pastoral ministry spanned three cities: New Orleans (紐奧良華人長老會), Toronto (多倫多台灣聯合教會), and the Washington DC area (華府台灣基督長老教會, 2006–2009); honorary retired minister, National Capital Presbytery, PC(USA).
 - Founding President, FAPA/Pennsylvania Chapter — the vault documents other FAPA chapters such as [[organizations/fapa-los-angeles||FAPA Los Angeles]] and [[organizations/fapa-orange-county||FAPA Orange County]]; also Convener of the Program Group, 美東台灣人夏令會.
 - Ordained ministry rooted in the [[organizations/presbyterian-church-in-taiwan||Presbyterian Church in Taiwan]] tradition.
+
+## Deepen — 2026-09-14 (vault-only pass)
+
+Re-checked this page's cited TAH records; no new external facts, one additional existing-page link:
+
+- His Yale Divinity School years (M.Div. 1967, S.T.M. 1968) are additionally contextualized by the vault's [[organizations/taiwanese-american-society-at-yale||Taiwanese American Society at Yale]], which documents the same Yale Taiwanese community alongside the [[organizations/yale-taiwanese-student-association||Yale Taiwanese Student Association]].
+- His FAPA/Pennsylvania Chapter founding sits within the same FAPA chapter structure recorded in the vault at [[organizations/fapa-los-angeles||FAPA Los Angeles]] and [[organizations/fapa-orange-county||FAPA Orange County]].
