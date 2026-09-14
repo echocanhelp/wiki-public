@@ -7,14 +7,14 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # Jonathan Tsay (蔡宇明)
 
 ## Identity Snapshot
 - **English:** Jonathan Tsay
 - **Chinese:** 蔡宇明
-- **Era:** -
+- **Era:** Contemporary (doctorate 2009; TAH profile 2016/11)
 - **Geography:** Arlington/TX
 - **Core roles:** artist
 - **Source:** TAH Foundation Who’s Who
@@ -30,6 +30,16 @@ Born and raised in Arlington, Texas, Jonathan started his piano studies with Car
 - Van Cliburn藝術學院 — present — 專屬鋼琴家
 - Ensemble75 — present — 室內樂的術總監
 <!-- tah-tables:end -->
+
+## Career & Training
+
+Absorbed from the cited TAH profile text and its harvested tables:
+
+- First piano studies with Carolyn Savko in Arlington, Texas, at age five.
+- Bachelors of Music with Honors (2004), Meadows School of the Arts, Southern Methodist University, studying with Carol Leone.
+- SMU awards: van Katwijk Award; Roy and Sue Johnson Award; Mu Phi Epsilon Award.
+- Entered l’Université de Montréal in 2005 as a Masters of Music student of Marc Durand; received his doctorate in 2009 through an accelerated program.
+- Present posts: 專屬鋼琴家 at the Van Cliburn藝術學院, and 室內樂藝術總監 of Ensemble75.
 
 ## Family
 
@@ -47,4 +57,6 @@ His TAH encyclopedia records are held in the vault as community historical recor
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
+- [[organizations/taiwanese-american-historical-society||TAHS]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- [[sources/taiwaneseamericanhistory-org-story-corpus||TAH story corpus]]

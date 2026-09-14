@@ -8,7 +8,7 @@ tags:
   - clerk
   - Taiwanese-American
 verification_status: published
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # Rev. Xie Xinguang (謝信光)
 
@@ -30,15 +30,20 @@ Per the 2025/26 執委 letter on ntpc-usa.org:
 
 He is the receiving point for church reports submitted to the Annual Meeting. The 2026 invitation states: "請各教會、地區書面報告於 4 月 10 日以前送交書記謝信光牧師 E-mail： frankhsieh7@gmail.com."
 
+### Duties as 書記
+
+Per the same 執委 letter and 2026 Annual Meeting invitation: written reports from 各教會 and 地區 are due to him before 4 月 10 日, which he then forwards for the Annual Meeting.
+
 ## Name Variants / Disambiguation
 
 - Chinese: 謝信光
 - Romanized: Xie Xinguang / Frank Hsieh
-- **Never** merge to `people/frank-hsieh` (謝長廷) — different person. Site email frankhsieh7 confirms identity.
+- **Never** merge to [[people/frank-hsieh||Frank Hsieh (謝長廷)]] — different person. Site email frankhsieh7 confirms identity.
 
 ## Related Pages
 
 - [[organizations/national-taiwanese-presbyterian-council||National Taiwanese Presbyterian Council (NTPC)]]
+- [[organizations/presbyterian-church-in-taiwan||Presbyterian Church in Taiwan (TPC)]]
 - [[people/yunching-yeh-davis||Dr. Yunching Yeh Davis (葉芸青)]]
 - [[people/chen-hui-chen||Chen Hui-Chen (陳慧貞)]]
 - [[people/zhang-aihui||Zhang Ai-Hui (張愛惠)]]
