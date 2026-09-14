@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-14
 ---
 # Leslie Ho (何炳宏)
 
@@ -32,6 +32,15 @@ A native of Taiwan, Leslie Ho enjoys a diverse musical career in performing, tea
 - Rio Hondo Symphony — Concertmaster
 <!-- tah-tables:end -->
 
+## Timeline (absorbed from on-page TAH biography)
+
+- 台北人；演奏、教學、指揮三方面發展的音樂家
+- 曾師事 Peter Marsh、Sidney Harth、Margaret Pardee、Yoko Takebe、Lucy Roberts、Yao-Ji Lin、Tokyo String Quartet、Ruggiero Ricci
+- 曼哈頓音樂院（Manhattan School of Music）學士 — 同校校友：[[people/tah-p-f29b98a03f||杜宛珊]]
+- 耶魯大學碩士（全額獎學金）
+- **Present** — Whittier College 教授小提琴、中提琴；Christian Zion Church Youth 指揮
+- Rio Hondo Symphony 首席（Concertmaster）
+
 ## Family
 
 _No filled family fields on the TAH profile._
@@ -44,3 +53,4 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- [[people/tah-p-f29b98a03f||杜宛珊]] — 同為曼哈頓音樂院校友

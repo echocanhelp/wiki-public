@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-14
 ---
 # I-Bei Lin (林怡貝)
 
@@ -32,6 +32,13 @@ Dr. I-Bei Lin is an Associate Professor of Cello and Chair of Strings at the Uni
 - University of Hawaii at Manoa — Present — Chair of Strings
 <!-- tah-tables:end -->
 
+## Timeline (absorbed from on-page TAH biography)
+
+- 高雄人
+- Eastman School of Music 學士（with Distinction）
+- 美國西北大學音樂學院（Northwestern University）碩士、Doctor of Music（with Honors）— 留學時期社團：[[organizations/taiwanese-american-students-association-of-northwestern-university||台美同學會（西北大學）]]
+- **Present** — University of Hawai`i at Manoa 大提琴副教授、弦樂系主任 — 夏威夷台裔社區：[[organizations/taiwanese-association-of-america-hawaii||台美協會夏威夷分會]]
+
 ## Family
 
 _No filled family fields on the TAH profile._
@@ -44,3 +51,6 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- [[organizations/taiwanese-american-students-association-of-northwestern-university||台美同學會（西北大學）]]
+- [[organizations/taiwanese-association-of-america-hawaii||台美協會夏威夷分會]]
+- [[people/tah-p-f29b98a03f||杜宛珊]] — 同屬 TAH Who's Who 音樂家名錄
