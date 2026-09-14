@@ -66,3 +66,6 @@ last_reviewed: 2026-09-14
 2. [TAH #2131](https://taiwaneseamericanhistory.org/whos-who-2131-j-m-hsu/)
 3. GSTPC40 黃德利「那些人，那些事」
 4. [[organizations/formosan-presbyterian-church-in-los-angeles||FPCLA]]
+
+## Deepen pass 2026-09-14 (vault-only)
+Re-checked all cited vault records ([[works/taiwaneseamericanhistory-org/whos-who-2131-j-m-hsu|TAH #2131]] mirror, #231/#231-eng, #186/#186-eng, GSTPC40 essay, FPCLA hub): every absorbable fact is already in the bio/timeline above; #2131 is a bibliographic mirror with no additional text. No vault pages exist for Union Theological Seminary, Princeton Theological Seminary, Fair Lawn Community Church, or 北美宣道會 (Formosan Outreach Mission ≠ [[organizations/taiwanese-american-outreach-association|Taiwanese American Outreach Association]], a different org), so no further existing-slug links apply. Saturated; no biography invented.

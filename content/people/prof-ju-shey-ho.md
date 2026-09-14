@@ -72,3 +72,5 @@ Accomplishment
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - [[organizations/irvine-taiwanese-presbyterian-church||Irvine台灣長老教會 (ITPC)]] — 長青教室講師
 - [[organizations/taiwanese-american-historical-society||TAHS]] — 傳記資料收錄機構
+
+Deepen re-check 2026-09-14 (vault-only): re-read the cited vault records (#39/#285/#605 Who's Who, #428 得獎感言, #566 生涯自述, #1270, Monoculus 2011, #107 長青清單) — no further absorbable facts; TAH #1270 co-author Dr. Yu-Rong Cheng and CSULB have no vault pages, so no new wikilinks could be added without creating new pages.

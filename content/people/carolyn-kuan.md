@@ -59,3 +59,8 @@ _No filled family fields on the TAH profile._
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - [[works/taiwaneseamericanhistory-org/105-carolyn-kuan-e9-97-9c-e7-90-a6-e5-ae-89-conductor||TAH #105 profile (Conductor, 2014/12)]]
 - [[works/taiwaneseamericanhistory-org/151-carolyn-kuan-e9-97-9c-e7-90-a6-e5-ae-89||TAH #151 profile]]
+- [[organizations/taiwanese-american-historical-society||TAHS]] — source community for the TAH Who's Who project
+- [[sources/taiwaneseamericanhistory-org-story-corpus||TAH story corpus hub]]
+
+## Deepen pass 2026-09-14 (vault-only)
+Re-checked both cited encyclopedia records (#151, #105): bibliographic mirrors only — all absorbable biography (HSO 10th Music Director from the 2011/12 season, Seattle Symphony / Baltimore Opera / NYC Ballet posts, Smith College / University of Illinois / Peabody education) is already absorbed above. No vault pages exist for the Hartford Symphony Orchestra, Seattle Symphony, Baltimore Opera Company, New York City Ballet, Smith College, or Peabody Conservatory, so only existing slugs were linked (TAHS, story-corpus hub). Saturated; status pending-verification.
