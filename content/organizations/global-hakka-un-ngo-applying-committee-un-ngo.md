@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # Global HAKKA UN NGO Applying Committee UN NGO (世界客家社團加入)
 
@@ -41,3 +41,7 @@ Vault context only, no new external facts: the committee's chairperson is drawn 
 ## Deepen — 2026-09-11 (vault-only re-check)
 
 Hakka-network links re-verified (world Taiwanese Hakka Federation, Southern California Hakka associations, HAPA-NA, Hakka Foundation): all exist. Directory description remains the sole absorbed source; no new vault facts.
+
+## Deepen — 2026-09-14 (vault-only re-check)
+
+Directory description remains the sole absorbed source. Hakka-network links re-verified against the vault (世界台灣客家會, Southern California Hakka associations, HAPA-NA, Hakka Foundation): all resolve. The France Taiwan Hakka Association and the World Hakka Kinship Assembly have no vault pages, so they stay plain text. No new vault facts.

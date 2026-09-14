@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # Dr. Chin-Ming Chen (陳欽明醫師)
 
@@ -65,3 +65,7 @@ Absorbed from the on-page biography and tables (no external sources):
 - [[organizations/global-taiwan-institute||Global Taiwan Institute]]
 - [[organizations/the-great-new-york-region-oversea-taiwanese-pen-club||大紐約區海外台灣人筆會]]
 - [[organizations/taiwanese-american-historical-society||TAHS]] — source community for the TAH Who's Who project
+
+## Deepen — 2026-09-14 (vault-only re-check)
+
+All cited records (#102, #899, #17) remain fully absorbed; GTI and the Greater New York Region Overseas Taiwanese Pen Club links resolve. His 2018–2019 editor-in-chief role for the Taiwanese American Literature Collections sits within the broader pen-club movement documented in the vault at [[organizations/taiwanese-american-pen-club||Taiwanese American Pen Club]]. The Kaohsiung Medical University America Alumni Association has no vault page and stays plain text.

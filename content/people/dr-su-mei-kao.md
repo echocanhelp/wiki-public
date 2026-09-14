@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # Dr. Su-Mei Kao (林素梅博士)
 
@@ -62,3 +62,7 @@ Community leadership in New Jersey's Taiwanese American community:
 - [[organizations/north-america-taiwanese-womens-association-new-jersey-chapter||NATWA New Jersey Chapter]] — she served as chapter president
 - [[organizations/taiwanese-association-of-america-northern-new-jersey||TAA Northern New Jersey]] (context only — her TAH profile lists the New Jersey TAA chapter)
 - [[works/taiwaneseamericanhistory-org/taiwanese-american-community-scholarship-project||Taiwanese American Community Scholarship Project]] — project-level coverage
+
+## Deepen — 2026-09-14 (vault-only re-check)
+
+All TAH records (#87, #1684) are fully absorbed; every community-role link (NATWA NJ chapter, TAA NJ, the scholarship project and its awards coverage, husband [[people/long-rong-mark-kao||高龍榮]]) resolves to an existing page. Her employers/schools (Wyeth, CIBA-GEIGY, NJ public schools, NCSU, UMKC, Cornell, 中興大學) and the Windsor Area Taiwanese American Association / TAC-EC have no vault pages and stay plain text.
