@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-13
+last_reviewed: 2026-09-14
 ---
 # Chiun-Teng Cheng (鄭俊騰)
 
@@ -64,3 +64,6 @@ _No filled family fields on the TAH profile._
 - [[organizations/taiwanese-american-historical-society||TAHS]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - [[works/taiwaneseamericanhistory-org/130-chiun-teng-cheng-e9-84-ad-e4-bf-8a-e9-a8-b0-violinist-201502||TAH #130: Chiun-Teng Cheng, Violinist]]
+
+## Vault re-check 2026-09-14 (deepen-x slice 09140020-9, vault-only)
+Re-check: the #243 encyclopedia record is held in-vault at [[works/taiwaneseamericanhistory-org/10126|TAH #243]] (already linked in Timeline); all other wikilink targets verified present. No additional vault-only facts beyond those absorbed. No web used, nothing published.

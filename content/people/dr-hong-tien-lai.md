@@ -67,3 +67,7 @@ Absorbed from the on-page biography and tables (no external sources):
 - [[sources/taiwaneseamericanhistory-org-story-corpus||TAH story corpus hub]]
 - [[organizations/new-york-taiwan-center||New York Taiwan Center]]
 - [[organizations/taiwanese-american-council-of-greater-new-york||大紐約區台灣人社團聯合會]]
+
+## Deepen pass 2026-09-14 (vault-only)
+- All four cited vault archival profiles (TAH #2, #1159, #168, #6 — linked above) are bibliographic records only; the page's own Education/Employment tables and Timeline already carry every absorbable fact from the TAH profile.
+- Existing-slug wikilinks verified: [[organizations/new-york-taiwan-center||紐約台灣會館]], [[organizations/taiwanese-american-council-of-greater-new-york||大紐約區台灣人社團聯合會]], [[organizations/tah-foundation||TAH Foundation]], [[sources/taiwaneseamericanhistory-org-story-corpus||story corpus hub]]. FAPA New York Chapter, Greater New York Taiwanese Medical Association, and UN for Taiwan 台灣加入聯合國行動委員會 have no standalone vault pages yet — left as plain text per slice rules (no new pages). Family (林吟珍, Jonathan) likewise has no vault pages.

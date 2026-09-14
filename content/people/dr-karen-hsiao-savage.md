@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-13
+last_reviewed: 2026-09-14
 ---
 # Dr. Karen Hsiao Savage
 
@@ -42,7 +42,7 @@ Karen Hsiao Savage is Associate Professor at Washington State University School 
 - **Mother:** 李惠惠
 
 
-## Vault Holdings
+## Vault Context
 - [[works/taiwaneseamericanhistory-org/musician429|TAH #429 (05/2018)]] — artist profile predating her Washington State University appointment, when she was still based in the Victoria/Canada region noted in the Identity Snapshot.
 - [[works/taiwaneseamericanhistory-org/whos-who-2108-karen-hsiao-savage|TAH #2108 Who's Who entry]] — the record the tables above are harvested from.
 - Father [[people/sin-i-hsiao||蕭欣義]]'s page ([[works/taiwaneseamericanhistory-org/whoswho1013|TAH #1013]]) independently documents the family's Victoria residence during her Univ. of Victoria bachelor's degree.
@@ -56,3 +56,6 @@ Karen Hsiao Savage is Associate Professor at Washington State University School 
 - [[works/taiwaneseamericanhistory-org/musician429||TAH #429 — Karen Hsiao Savage, Pianist (05/2018)]]
 - [[works/taiwaneseamericanhistory-org/whos-who-2108-karen-hsiao-savage||TAH #2108 — Dr. Karen Hsiao Savage]]
 - [[people/sin-i-hsiao||蕭欣義 (父親)]]
+
+## Vault re-check 2026-09-14 (deepen-x slice 09140020-9, vault-only)
+Re-check: both Vault Holdings sections and all wikilink targets (incl. father [[people/sin-i-hsiao|蕭欣義]] / TAH #1013) verified in-vault; the bio's truncated end ('teaching assistantshi…') is a source-side truncation, recorded as-is. No web used, nothing published.

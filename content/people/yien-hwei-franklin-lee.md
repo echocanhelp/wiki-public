@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-13
+last_reviewed: 2026-09-14
 ---
 # Yien-hwei Franklin Lee (李彥輝醫師)
 
@@ -58,3 +58,8 @@ _No filled family fields on the TAH profile._
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - [[organizations/hsinchu-high-school-alumni-association-of-north-america||北美新竹中學校友會]]
 - [[works/taiwaneseamericanhistory-org/mystories287||我的留學生活 — 李彥輝]]
+- [[works/taiwaneseamericanhistory-org/whos436-yien-hwei-franklin-lee||TAH #436 Who's Who — 李彥輝]]
+- [[works/taiwaneseamericanhistory-org/collection-of-dr-yien-hwei-franklin-lee||Collection of Dr. Yien-hwei Franklin Lee]]
+
+## Vault re-check 2026-09-14 (deepen-x slice 09140020-9, vault-only)
+His Who's Who entry is archived in-vault as [[works/taiwaneseamericanhistory-org/whos436-yien-hwei-franklin-lee|TAH #436]], and his personal papers are cataloged as [[works/taiwaneseamericanhistory-org/collection-of-dr-yien-hwei-franklin-lee|Collection of Dr. Yien-hwei Franklin Lee]] — both now linked above. No web used, no new pages created, nothing published.

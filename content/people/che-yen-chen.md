@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-13
+last_reviewed: 2026-09-14
 ---
 # Che-Yen Chen (陳則言)
 
@@ -57,3 +57,8 @@ _No filled family fields on the TAH profile._
 - [[people/wayne-lee||Wayne Lee 李家瑋（Formosa Quartet）]]
 - [[people/powen-wang||Powen Wang 王博文（Formosa Quartet）]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+## Deepen pass 2026-09-14 (vault-only)
+- Both cited TAH encyclopedia records ([[works/taiwaneseamericanhistory-org/227-che-yen-chen-e9-99-b3-e5-89-87-e8-a8-80-violist-201507||#227]], [[works/taiwaneseamericanhistory-org/475-che-yen-chen-e9-99-b3-e5-89-87-e8-a8-80-201507||#475]]) are bibliographic records only — no additional absorbable facts beyond the page's own biography and tables.
+- New existing-slug link: the Formosa Quartet itself has a vault record — [[works/taiwaneseamericanhistory-org/6-e7-a6-8f-e7-88-be-e6-91-a9-e6-b2-99-e5-9b-9b-e9-87-8d-e5-a5-8f||TAH #6: Formosa Quartet 福爾摩沙四重奏 (2014/10)]], joinable via quartet-mate [[people/wayne-lee||Wayne Lee 李家瑋]]. The 2018 taiwaneseamerican.org interview [[works/taiwaneseamerican-org/juliana-wayne-interview||Juliana & Wayne / Piedmont Chamber Music Festival]] corroborates Formosa Quartet's founding (2002), First Prize at the London International String Quartet Competition (2006), and alumni joining the Juilliard Quartet, Ying Quartet, and New York Philharmonic.
+- USC, San Diego Symphony, Curtis, Juilliard, Yale (beyond [[organizations/taiwanese-american-society-at-yale|Yale Taiwanese American Society]]), Marlboro, and Cal State Fullerton have no standalone vault pages — left as plain text per slice rules.
