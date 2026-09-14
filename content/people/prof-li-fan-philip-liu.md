@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # Prof. Li-Fan Philip Liu (劉立方教授)
 
@@ -51,3 +51,7 @@ _No filled family fields on the TAH profile._
 ## Deepen pass (2026-09-11)
 - Cornell 教職（1974–2017）與 MIT 求學期間之台籍社團以地域關聯標示，非本人成員事實。
 - National University of Singapore（2015–）無 vault 頁面，未加連結。
+
+## Deepen pass (2026-09-14)
+- 本人條目即「台美史料中心（T.A. Archives）」TAH 百科收录；vault 已有其介紹頁 [[works/taiwaneseamericanhistory-org/introduction-of-the-ta-archives||台美史料中心介紹]]（地域與史料關聯，非本人職務事實）。
+- 台大（1968 畢業）、康乃爾教職、NUS 皆無對應機構頁；新增連結僅限既有 slug。

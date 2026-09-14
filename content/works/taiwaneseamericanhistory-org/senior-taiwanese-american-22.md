@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2019-08-30 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[people/prof-liang-tseng-fan|Prof. Liang-Tseng Fan 范良政教授]] — profiled subject（NTU 化工 1951、Kansas State 碩士 1954、West Virginia 博士 1957；Kansas State 化學工程教授、系主任、University Distinguished Professor 1984–）
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

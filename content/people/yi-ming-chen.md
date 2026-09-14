@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # Yi-Ming Chen (陳怡名)
 
@@ -54,3 +54,8 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- [[organizations/university-of-minnesota-taiwanese-student-association||明尼蘇達大學台灣人同學會]] — 就學所在地（2004 碩士／2007 博士）社團，地域關聯
+- [[works/taiwaneseamericanhistory-org/31-minnesota-chapter-fapa||FAPA 明尼蘇達分會]] — 就學所在地分會（地域關聯）
+
+## Deepen pass (2026-09-14)
+- 東吳大學（學士）、Chamber Music Society of Minnesota、Elliott Carter Festival、明尼蘇達大學交響樂團目前無 vault 頁面，僅保留文字事實，未加連結。

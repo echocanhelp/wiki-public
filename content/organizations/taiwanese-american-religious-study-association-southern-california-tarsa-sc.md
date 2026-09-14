@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # Taiwanese-American Religious Study Association Southern California TARSA-SC (台美人信仰與人文研習會)
 
@@ -31,7 +31,7 @@ The Taiwanese-American Religious Study Association Southern California (TARSA-SC
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-american-religious-study-association-southern-california-tarsa-sc/)
 
 ## Vault Cross-References
-- Parent org listing: [[organizations/taiwanese-american-religious-study-association||Taiwanese American Religious Study Association]] — recorded as a group member of the Taiwan Center Foundation of the Greater Los Angeles
+- Parent org listing: [[organizations/taiwanese-american-religious-study-association||Taiwanese American Religious Study Association]] — recorded as a group member of [[organizations/taiwan-center-foundation-of-greater-los-angeles||Taiwan Center Foundation of the Greater Los Angeles]]
 - TAH directory work page: [[works/taiwaneseamericanhistory-org/923-e5-8f-b0-e7-be-8e-e4-ba-ba-e4-bf-a1-e4-bb-b0-e8-88-87-e4-ba-ba-e6-96-87-e7-a||TAH #923 directory entry]]
 - Activity record: [[works/taiwaneseamericanhistory-org/photo-albums-activities-36||TAH photo albums & activities (TARSA)]]
 

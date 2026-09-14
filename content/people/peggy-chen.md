@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # Peggy Chen (張佩仙)
 
@@ -60,3 +60,8 @@ _No filled family fields on the TAH profile._
 
 ## Network
 - [[organizations/irvine-taiwanese-presbyterian-church||ITPC]] — TAH Who’s Who
+- [[organizations/laguna-woods-village-taiwanese-club||Laguna Woods Village 台灣人同儕會]] — 同社區社團；本人指揮之台灣人合唱團所屬社區
+- [[works/taiwaneseamericanhistory-org/10-laguna-woods-village-taiwanese-chorale||TAH #10: Laguna Woods Village 台灣人合唱團]] — 本人任指揮之合唱團專頁
+
+## Deepen pass (2026-09-14)
+- 東京高田馬場長老教會、洛杉磯福爾摩沙聖樂團（助理指揮）、東海大學、武蔵野音樂大學目前無 vault 頁面，僅保留文字事實，未加連結。
