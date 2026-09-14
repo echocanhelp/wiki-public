@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # Pei-Ning Ku (顧蓓寧)
 
@@ -20,6 +20,8 @@ last_reviewed: 2026-09-11
 - **Source:** TAH Foundation Who’s Who
 
 Pei-Ning Ku, the 1996 Outstanding Performance prize winner in the Grand Asia vocal competition held in Malaysia, continues to give outstanding performances on stage and in the classroom. She has devoted herself to family, performing, and vocal music education. She is a passionate teacher and performer, in both Taiwan and the United States.
+
+依本頁 tah-tables 記載：1990 年獲曼哈頓音樂學院（Manhattan School of Music）聲樂表演學士，2014 年获內華達州立大學音樂系聲樂博士；現任內華達州立大學聲樂教師，並曾任教國立臺中教育大學音樂系與台灣新民高中。
 
 <!-- tah-tables:start -->
 ## Education
@@ -46,6 +48,10 @@ _No filled family fields on the TAH profile._
 - 本頁傳記之 TAH 出處頁：[[works/taiwaneseamericanhistory-org/114-pei-ning-ku-e9-a1-a7-e8-93-93-e5-af-a7-vocalist-201501||TAH #114 Pei-Ning Ku 顧蓓寧, Soprano (2015/01)]]、[[works/taiwaneseamericanhistory-org/88-pei-ning-ku-e9-a1-a7-e8-93-93-e5-af-a7||TAH #88 Pei-Ning Ku 顧蓓寧]]。
 - publisher／語料庫：[[sources/taiwaneseamericanhistory-org-story-corpus||TAH story corpus]]。
 - 比對備註：Sources 所列 TAH #202 連結實指向 jonathan-h-wu 出處頁（既有 vault 記錄 #114、#88 才是本人傳記出處）。
+
+## Deepen pass (2026-09-14)
+- 吸收本頁既有 Education／Employment 表列事實至傳記段（無新增外部事實）。
+- 曼哈頓音樂學院、內華達州立大學、國立臺中教育大學、新民高中無 vault 頁面；不新增虛構 wikilink。
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # Prof. De-Min Wu (吳得民教授)
 
@@ -57,3 +57,9 @@ last_reviewed: 2026-09-11
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- [[works/taiwaneseamericanhistory-org/natpa||NATPA 北美洲台灣人教授協會]] — 本人 1983–84 任會長之社團記錄
+- [[organizations/student-association-of-taiwan-uw-madison|UW–Madison 台灣學生會]] — 留學所在地（University of Wisconsin, 1963 經濟學博士）地域關聯，非成員事實
+
+## Deepen pass (2026-09-14)
+- 吸收表列學經歷：臺大經濟學士（1956）、威斯康辛大學經濟學博士（1963）後任教堪薩斯大學（1964–1999，歷助理、副教授、正教授、系主任，1999 起名譽教授），並曾任東京一橋大學（1986–87）、中國人民大學（1991 春）、筑波大學（1995–96）、京都大學（1998 夏）任教／訪問職務——無新增外部事實。
+- NATPA 會長任期的組織記錄改以 vault 既有頁 [[works/taiwaneseamericanhistory-org/natpa]] 連結；堪薩斯／東京／北京／京都無 vault 頁面，不新增虛構連結。

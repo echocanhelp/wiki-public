@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # HSIN-YUN HUANG (黃心芸)
 
@@ -48,3 +48,8 @@ _No filled family fields on the TAH profile._
 
 - [[works/taiwaneseamericanhistory-org/15064||TAH #439 encyclopedia entry: 439. HSIN-YUN HUANG 黃心芸 / 2015/06]]
 - [[works/taiwaneseamericanhistory-org/37-hsin-yun-huang-e9-bb-83-e5-bf-83-e8-8a-b8-violin||TAH #37 encyclopedia entry: Hsin-Yun Huang 黃心芸, Violinist / 2014/10]]
+
+## Vault Network（deepen pass 2026-09-14）
+
+- Documented students at existing vault pages: [[people/i-ting-huang|I-Ting Huang]] studied under her at Mannes on an LCU Foundation–sponsored full scholarship (M.M. 2004, P.S.D. 2006); [[people/youming-chen|Youming Chen]] earned his Juilliard master's degree with her.
+- TAH encyclopedia #210's source URL is mislabeled to this entry — noted on [[people/chih-long-hu|Chih-Long Hu]]'s page.

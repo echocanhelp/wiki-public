@@ -56,6 +56,10 @@ _No filled family fields on the TAH profile._
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
+## Connected in the Vault (deepen 2026-09-14, vault-only)
+
+- 就讀博士班（DMA, 2012）的明尼蘇達大學於語料庫另有 TA 社群記錄：[[organizations/university-of-minnesota-taiwanese-student-association||明尼蘇達大學台美學生會]]；明州 TA 社區活動見 [[works/taiwaneseamericanhistory-org/11-festival-of-nations-taa-minnesota-2014||TAH #11 TAA Minnesota 節日展演 / 2014]]、[[works/taiwaneseamericanhistory-org/31-minnesota-chapter-fapa||TAH #31 FAPA 明尼蘇達分會]]（僅作就學地語料庫脈絡，非本人事蹟）。
+
 ## Deepen note (2026-09-14, vault-only)
 
 Per the education/employment tables on this page: MM Univ. of Miami (2007) precedes the DMA Univ. of Minnesota (2012); teaching engagements run International Music Camp flute faculty (2012) → Princeton High School instrumental instructor (2015). Master-class teaching (North Dakota, Minnesota, incl. Minnesota All-State Band) is documented between these degrees and appointments. No vault page exists yet for the Univ. of Miami Frost School, Princeton High School, or the Marcel Moyse Society, so those stay unlinked pending new pages (out of scope this pass).

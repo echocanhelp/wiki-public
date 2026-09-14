@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # Chia Wei Lee (李佳蔚)
 
@@ -48,3 +48,8 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+## Vault Network（deepen pass 2026-09-14）
+
+- Fellow TAH-profiled Taiwanese baritone: [[works/taiwaneseamericanhistory-org/14-yi-cherng-lin-e6-9e-97-e5-ae-9c-e8-aa-a0-baritone|Yi Cherng Lin 林一誠, Baritone]].
+- All performance and academic posts on this page (Alice Tully Hall debut as soloist in the Yellow River Cantata; Kenyon College 2002; University of Texas at Trinity University faculty since 2003) derive from the TAH #527 / #258 encyclopedia entries linked above.

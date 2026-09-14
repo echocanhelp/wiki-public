@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # Prof. Hsing-Jien Kung (龔行健教授)
 
@@ -20,6 +20,8 @@ last_reviewed: 2026-09-11
 - **Source:** TAH Foundation Who’s Who
 
 Prof. Hsing-Jien Kung 龔行健教授 – History of Taiwanese American (T.A. Archives) 台美史料中心
+
+依本頁 tah-tables 記載：國立臺灣大學化學系學士（1969）、加州理工學院化學博士（1975）；歷任 UC Davis 生物化學與分子醫學系教授（1998–2008）、講座教授（2008–2012）、UC Davis 綜合癌症中心副主任兼基礎科學主任（1998–2013）、國家衛生研究院院長兼特聘研究員（2012–2017）、臺北醫學大學講座教授（2018–）；1997–1998 曾任國衛院分子與基因醫學組主任。
 
 <!-- tah-tables:start -->
 ## Education
@@ -45,7 +47,12 @@ _No filled family fields on the TAH profile._
 
 ## Vault Holdings
 - [[works/taiwaneseamericanhistory-org/whos-who-1781-hsing-jien-kung|TAH #1781 Prof. Hsing-Jien Kung 龔行健教授]] — 本人百科條目
+- [[works/taiwaneseamericanhistory-org/introduction-of-the-ta-archives|台美史料中心（T.A. Archives）介紹]] — 本頁傳記行所引之典藏來源機構
 
 ## Deepen pass (2026-09-11)
 - 補上 vault 內本人百科條目（#1781）連結。
 - NHRI、Taipei Medical University、UC Davis Comprehensive Cancer Center 無 vault 頁面；UC Davis 社團連結為地域關聯，非本人成員事實。
+
+## Deepen pass (2026-09-14)
+- 吸收表列學經歷至傳記段（無新增外部事實）。
+- 傳記行所引「台美史料中心」補上 vault 介紹頁連結（已核頁存在）。

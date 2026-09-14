@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # Dr. David Hong (洪德生博士)
 
@@ -50,3 +50,7 @@ Accomplishment
 ## Vault records（deepen pass 2026-09-11）
 - 本页传记之 TAH 出处页：[[works/taiwaneseamericanhistory-org/whos-who-1892-david-hong||TAH #1892 Dr. David Hong 洪德生博士]]。
 - publisher／語料庫：[[sources/taiwaneseamericanhistory-org-story-corpus||TAH story corpus]]。
+
+## Vault Network（deepen pass 2026-09-14）
+- 本人回憶錄（美台求學及經濟研究 43 年）：[[works/taiwaneseamericanhistory-org/mystories575||575. 洪德生教授美台求學及經濟研究43年之經驗 / 09/2017]]。
+- 家庭欄佐證：[[works/taiwaneseamericanhistory-org/11-e6-b4-aa-e5-be-b7-e7-94-9f-e3-80-81-e6-a2-81-e4-bf-a1-e6-83-a0-e5-a4-ab-e5-a9||11. 洪德生、梁信惠 夫婦返台服務]] — 妻 梁信惠 見於兩處記錄。

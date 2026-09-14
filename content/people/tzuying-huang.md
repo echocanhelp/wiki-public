@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # Tzuying Huang (黃姿穎)
 
@@ -20,6 +20,8 @@ last_reviewed: 2026-09-11
 - **Source:** TAH Foundation Who’s Who
 
 Tzuying Huang was appointed the Bass Clarinetist of the St. Louis Symphony in February of 2015 under music director David Robertson. Prior to joining the St. Louis Symphony, she was the Bass Clarinetist of the Kansas City Symphony. Her summer appearances include Colorado Music Festival, Aspen Music Festival, Tanglewood Music Festival, Banff Music Festival and the Young Artist Program of National Art Center at Ottawa, Canada (under the direction of Pinchas Zukerman.)
+
+依本頁 tah-tables 記載：臺北市立教育大學音樂系學士、Indiana University Bloomington Jacobs 音樂學院演奏碩士（2010）；曾任德州大學奧斯汀分校單簧管教學助理；現任堪薩斯城市交響樂團低音單簧管演奏家。
 
 <!-- tah-tables:start -->
 ## Education
@@ -46,7 +48,12 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- [[organizations/taiwanese-association-of-america-in-greater-st-louis|TAA 大聖路易斯台灣人協會]] — 2015 年起任職聖路易交響樂團之當地台裔社群地域關聯，非成員事實
 
 ## Deepen pass (2026-09-11)
 - tah-tables Employment 記載的 Kansas City Symphony 任期對應當地台裔社群脈絡：[[organizations/taiwanese-association-of-greater-kansas-city-takc|TAKC 大堪薩斯城市台美協會]]。
 - 本次未新增外部事實。
+
+## Deepen pass (2026-09-14)
+- 吸收表列學經歷至傳記段（無新增外部事實）。
+- 聖路易任期補當地台裔社團地域關聯連結（已核頁存在）；臺北市立教育大學、Jacobs 音樂學院、UT Austin 無 vault 頁面，不新增虛構連結。

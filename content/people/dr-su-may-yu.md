@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # Dr. Su-May Yu (余淑美博士)
 
@@ -36,7 +36,7 @@ Accomplishment
 _No filled family fields on the TAH profile._
 
 ## Sources
-- [TAH #2045 encyclopedia: 2045. Dr. Su-May Yu 余淑美博士](https://taiwaneseamericanhistory.org/whos-who-2045-su-may-yu/)
+- [TAH #2045 encyclopedia: 2045. Dr. Su-May Yu 余淑美博士](https://taiwaneseamericanhistory.org/whos-who-2045-su-may-yu/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-su-may-yu/)
 
 ## Related Pages
@@ -46,3 +46,8 @@ _No filled family fields on the TAH profile._
 ## Vault records（deepen pass 2026-09-11）
 - 本頁 TAH 出處之 Vault 頁面：[[works/taiwaneseamericanhistory-org/whos-who-2045-su-may-yu||TAH 2045. Dr. Su-May Yu 余淑美博士]]。
 - publisher／語料庫：[[sources/taiwaneseamericanhistory-org-story-corpus||TAH story corpus]]。
+
+## Career Notes（deepen pass 2026-09-14）
+- 出中興大學植物病理系、阿肯色大學植物生物與病理學博士（1984）後，歷羅徹斯特大學、康乃爾大學博士後（1984–1988）。
+- 中央研究院分子生物研究所職涯 ladder：副研究員（1989–1997）→ 研究員（1997–2008）→ 傑出研究員（2008–），全履歷見上方 TAH #2045 出處。
+- 2009 年获世界工業與科技研究組織「最佳創意女科學家獎」，为本页唯一记载之获奖记录。
