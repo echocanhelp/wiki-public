@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # Alice Chen (陳祐慈)
 
@@ -51,6 +51,11 @@ _No filled family fields on the TAH profile._
 ## Sources
 - [TAH #432 encyclopedia: 432. Alice Chen 陳祐慈,Cellist](https://taiwaneseamericanhistory.org/432-cellist-alice-chen/)
 - [TAH Who's Who](https://taiwaneseamericanhistory.org/person/alice-chen/)
+
+## Vault records (deepen pass 2026-09-14)
+- Her own TAH encyclopedia record is held in-vault: [[works/taiwaneseamericanhistory-org/432-cellist-alice-chen||TAH #432, published 2018-11-17]].
+- Peer cellist covered in the TaiwaneseAmerican.org corpus in the vault: [[works/taiwaneseamerican-org/cellist-stephanie-lai-a-finalist-for-youtube-symphony-orchestra||Stephanie Lai, YouTube Symphony Orchestra finalist]] (relationship not stated in the TAH profile; listed as network context only).
+- No in-vault pages yet for Manhattan School of Music, LX Music Academy, Longwood Symphony Orchestra, or WCRB, so those institutions stay as plain text.
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

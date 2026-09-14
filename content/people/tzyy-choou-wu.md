@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # Tzyy-Choou Wu (吳子丑)
 
@@ -53,7 +53,9 @@ _No filled family fields on the TAH profile._
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
+- [[organizations/taiwanese-american-historical-society||TAH 台美史料協會]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- 其任教與求學均在上海 Hopkins 體系：Hopkins 台美學人社團脈絡見上節 vault 社團頁（[[organizations/johns-hopkins-university-taiwanese-student-association|JHU TSA]]、[[organizations/taiwanese-american-students-association-at-johns-hopkins-university|JHU TASA]]）。
 
 ## Vault records (deepen pass 2026-09-10)
 - 本人 TAH 百科條目的 vault 工作頁：[[works/taiwaneseamericanhistory-org/622-tzyy-choou-wu-e5-90-b3-e5-ad-90-e4-b8-91-201509|TAH #622 條目（2015/09）]]。

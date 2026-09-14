@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # Elizabeth S. Chen (李秀麗)
 
@@ -37,7 +37,8 @@ Elizabeth S. Chen was born in Kaohsiung, Taiwan in 1944. She was graduated from 
 - **1966–1968** — Taught music at a Kaohsiung middle school for two years
 - **1971** — M.A. in Art (M.S. Art), SUNY Binghamton, New York State University; thesis “The Analysis in Music of Taiwan Aboriginal A-mei” under Dr. Chianis
 - **Career** — Children's music education (兒童音樂教育); church choir conductor (教會詩班指揮)
-- **1998-02-28** — Joint concert 乘著歌聲的翅膀 with 賴美芬, Santa Ana, CA (TAH #61 encyclopedia)
+- **1998-02-28** — Joint concert 乘著歌聲的翅膀 with 賴美芬, Santa Ana, CA — vault 活動條目：[[works/taiwaneseamericanhistory-org/concerts61|TAH #61 concerts 紀錄]]
+- 本人兩則傳記條目見下方 Vault Holdings（[[works/taiwaneseamericanhistory-org/61-elizabeth-s-chen-e6-9d-8e-e7-a7-80-e9-ba-97-vocalist|TAH #61 音樂家條目]]、[[works/taiwaneseamericanhistory-org/278-elizabeth-s-chen-e6-9d-8e-e7-a7-80-e9-ba-97-201502|TAH #278 條目]]）
 
 ## Family
 

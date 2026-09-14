@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # Prof. Shi-Kuei Wu (吳錫圭教授)
 
@@ -43,6 +43,10 @@ last_reviewed: 2026-09-11
 - **Wife:** Ching Chen (張錦貞)
 - **Daughter:** 吳采貞
 
+
+## Vault records (deepen pass 2026-09-14)
+- 本人 TAH 百科條目的 vault 工作頁：[[works/taiwaneseamericanhistory-org/senior-taiwanese-american-13|TAH #13  senior 條目]]、[[works/taiwaneseamericanhistory-org/10-prof-shi-kuei-wu|TAH #10 條目]]、[[works/taiwaneseamericanhistory-org/whos-who-1561-shi-kuei-wu|TAH #1561 Who's Who 條目]]。
+- 其所協調的平原區秋令會活動紀錄：[[works/taiwaneseamericanhistory-org/13-plains-region-fall-camp-summer-camp|Plains Region Fall Camp & Summer Camp 平原區台灣人秋令會和夏令會]]。
 
 ## Sources
 - [TAH #13 encyclopedia: 13. Prof. Shi-Kuei Wu (吳錫圭教授)](https://taiwaneseamericanhistory.org/senior-taiwanese-american-13/)

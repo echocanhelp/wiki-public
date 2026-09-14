@@ -7,7 +7,7 @@ tags:
   - Taiwan-Center
   - board
 verification_status: published
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # James Yang (楊榮勝)
 
@@ -34,6 +34,7 @@ last_reviewed: 2026-09-11
 ## Related Pages
 - [[organizations/taiwan-center||Taiwan Center]]
 - [[sources/taiwancenter-org||taiwancenter.org source]]
+- [[works/taiwaneseamericanhistory-org/whos-who-256-james-yang||TAH #256 record]] — names the violinist 楊明仁, NOT this person
 - [[people/alan-thian||Alan Thian (田詒鴻)]]
 - [[people/simon-lin||Simon Lin (林榮松)]]
 - [[people/roger-tsai||Roger Tsai (蔡漢成)]]

@@ -60,6 +60,11 @@ _No filled family fields on the TAH profile._
 - TAH encyclopedia records for this profile exist in the vault: [[works/taiwaneseamericanhistory-org/ota-276|TAH #276 賴義雄博士]] and [[works/taiwaneseamericanhistory-org/whos-who-759-robert-y-lai|TAH #759 Who's Who: Dr. Robert Y. Lai]].
 - GTI 董事長（2016–2018）任期見 [[organizations/global-taiwan-institute||Global Taiwan Institute]]。
 
+## Absorbed vault cross-links (deepen pass 2026-09-14)
+- Graduate years at Northwestern (M.S. 1967, Ph.D. 1969) connect to the in-vault campus record [[organizations/taiwanese-american-students-association-of-northwestern-university||TASA of Northwestern University]].
+- Milwaukee chapter presidency: [[organizations/taiwanese-american-association-milwaukee||TAA Milwaukee]]; NATPA-SC presidency (2004): [[organizations/north-america-taiwanese-professors-sc||NATPA 南加州分會]]; GTI 董事長（2016–2018）: [[organizations/global-taiwan-institute||Global Taiwan Institute]].
+- 1990-era TA civic-association print in the vault ([[works/taiwaneseamericanhistory-org/759-e5-8f-b0-e7-be-8e-e5-85-ac-e6-b0-91-e5-8d-94-e6-9c-83-e9-80-9a-e8-a8-8a1990-|台美公民協會通訊 1990/09]]) is period context only; it does not name him.
+
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[organizations/global-taiwan-institute||Global Taiwan Institute]]

@@ -40,7 +40,7 @@ _No filled family fields on the TAH profile._
 ## Timeline
 - 16 歲於菲律賓與 Cebu Youth Symphony 四度演出柴可夫斯基第一號鋼琴協奏曲，完成協奏曲首演
 - The Juilliard School — 鋼琴演奏學士、碩士、博士
-- 曾與 New Amsterdam Symphony Orchestra、[[organizations/youth-orchestra-cycny|紐約幼獅青少年管弦樂團（CYCNY 青年樂團脈絡）]]、New York Youth Symphony、Arts Viva Orchestra（伊利諾）、Du Page County Youth Symphony、Yi-Qi Orchestra、Evergreen Symphony Orchestra（台灣）合作
+- 曾與 New Amsterdam Symphony Orchestra、New York Youth Symphony、Arts Viva Orchestra（伊利諾）、Du Page County Youth Symphony、Yi-Qi Orchestra、Evergreen Symphony Orchestra（台灣）合作
 - 教職：West Virginia University、Southeastern University 鋼琴助理教授；Juilliard Pre-College Division 教師；紐約 Geneva Conservatory of Music 執行長；Aspen Music Festival、Viana do Castelo 國際音樂節（葡萄牙）、U.S.-China Piano Festival（中國新疆）師資
 
 ## Sources

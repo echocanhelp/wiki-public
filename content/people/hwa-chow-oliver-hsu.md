@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # Hwa-Chow Oliver Hsu (許華洲)
 
@@ -54,3 +54,4 @@ Absorbed from this page's TAH encyclopedia entries (#366, #151) and the TAH tabl
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- 本頁傳記之 vault 內出處頁：[[works/taiwaneseamericanhistory-org/366-hwa-chow-oliver-hsu-e8-a8-b1-e8-8f-af-e6-b4-b2201504||TAH #366（2015/04）]]、[[works/taiwaneseamericanhistory-org/151-hwa-chow-oliver-hsu-e8-a8-b1-e8-8f-af-e6-b4-b2201502||TAH #151 大提琴家（2015/02）]]
