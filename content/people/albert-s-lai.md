@@ -58,6 +58,8 @@ See also the [[organizations/formosan-presbyterian-church-in-los-angeles||FPCLA]
 
 EN SKU A of *Toward A Community of Hope* (1971 Preface + Ch I–VI) has been produced as AI-scratch audiobook for Echopedia review. See [[people/albert-en-sku-a-scratch-review||full multi-track hub]], [[people/albert-chapter1-en-review||Chapter I detail]], and [[people/albert-chapter1-audiobook-taiwanese-female||Taiwanese female pilot]] (separate experiment).
 
+ZH SKU B (publisher Traditional Chinese manuscript, HsiaoChen): [[people/albert-zh-sku-b-publisher-review||華語最終審聽 hub（Ch.I–VI + 結論）]].
+
 ## 50th Anniversary Republication (2025)
 
 In 2025, the dissertation was reprinted with a 50th anniversary foreword by [[people/yunching-yeh-davis||Dr. Yunching Yeh Davis]] (NTPC Moderator), along with forewords from the PCT ([[people/en-sheng-pan||Rev. En Sheng Pan]]), [[organizations/national-taiwanese-presbyterian-council||NTPC]] Historical Committee ([[people/ching-fang-chen||Rev. Ching Fang Chen]]), [[people/mingyuan-hsu||Rev. Mingyuan Hsu]] (Good Shepherd TPC), and [[people/pinghsi-liu||Rev. Pinghsi Liu]] (Tainan East Gate Barclay Memorial Church). The republication was published by Taiwan Church Press and the Incorporated Association of Tainan East Gate Barclay History Education Promotion.
@@ -546,6 +548,7 @@ Chronological events for **賴信雄**:
 ## Related Pages
 
 - [[people/albert-en-sku-a-scratch-review||EN SKU A full-book AI scratch review (~4.4 h)]]
+- [[people/albert-zh-sku-b-publisher-review||ZH SKU B publisher-manuscript final review (HsiaoChen)]]
 - [[people/albert-chapter1-en-review||Ch.1 English audiobook review (voice/tempo)]]
 - [[sources/toward-a-community-of-hope||Toward A Community of Hope (work & full-text links)]]
 - [[organizations/formosan-presbyterian-church-in-los-angeles||Formosan Presbyterian Church in Los Angeles (FPCLA)]]

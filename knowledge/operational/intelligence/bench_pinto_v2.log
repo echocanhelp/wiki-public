@@ -1,0 +1,14 @@
+short1: temp 50->56C | prefill 66 tok 228 ms (289 tok/s) | decode 912 tok 38.0 s (24.0 tok/s) | acc 1.09 tok/round (36% draft accept)
+seed1k1: temp 50->55C | prefill 2676 tok 1354 ms (1976 tok/s) | decode 512 tok 20.9 s (24.5 tok/s) | acc 1.12 tok/round (37% draft accept)
+short2: temp 50->56C | prefill 66 tok 228 ms (289 tok/s) | decode 889 tok 41.9 s (21.2 tok/s) | acc 1.13 tok/round (38% draft accept)
+seed1k2: temp 50->55C | prefill 2676 tok 1361 ms (1967 tok/s) | decode 512 tok 19.9 s (25.7 tok/s) | acc 1.20 tok/round (40% draft accept)
+short3: temp 50->56C | prefill 66 tok 214 ms (308 tok/s) | decode 912 tok 38.7 s (23.6 tok/s) | acc 0.99 tok/round (33% draft accept)
+seed1k3: temp 50->55C | prefill 2676 tok 1371 ms (1952 tok/s) | decode 512 tok 20.7 s (24.8 tok/s) | acc 1.11 tok/round (37% draft accept)
+short4: temp 50->56C | prefill 66 tok 217 ms (304 tok/s) | decode 1024 tok 39.3 s (26.0 tok/s) | acc 1.24 tok/round (41% draft accept)
+seed1k4: temp 50->55C | prefill 2676 tok 1365 ms (1961 tok/s) | decode 512 tok 20.1 s (25.4 tok/s) | acc 1.13 tok/round (38% draft accept)
+short5: temp 50->56C | prefill 66 tok 227 ms (291 tok/s) | decode 1024 tok 40.0 s (25.6 tok/s) | acc 1.15 tok/round (38% draft accept)
+seed1k5: temp 50->55C | prefill 2676 tok 1347 ms (1987 tok/s) | decode 512 tok 21.2 s (24.2 tok/s) | acc 1.03 tok/round (34% draft accept)
+
+=== SUMMARY (mean ± CV) ===
+short-prompt decode: prefill 296 tok/s (CV 2.7%) | decode 24.0 tok/s (CV 7.4%) | accept 1.12 tok/round (CV 7.2%)
+1k-seed track-like: prefill 1969 tok/s (CV 0.6%) | decode 24.9 tok/s (CV 2.3%) | accept 1.12 tok/round (CV 5.0%)
