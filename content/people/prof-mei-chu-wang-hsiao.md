@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # Prof. Mei-Chu Wang Hsiao (王美珠教授)
 
@@ -43,6 +43,11 @@ Prof. Mei-Chu Wang Hsiao 王美珠教授 – History of Taiwanese American (T.A.
 
 - **Husband:** [[people/prof-frank-s-t-hsiao||Prof. Frank S.T. Hsiao]]
 - **Daughter:** 1; Son: 1
+
+## Vault cross-references (deepened 2026-09-14, vault-internal)
+
+- She and her husband [[people/prof-frank-s-t-hsiao|Prof. Frank S.T. Hsiao]] are both TAH Foundation encyclopedia subjects; her own entries are archived at [[works/taiwaneseamericanhistory-org/firstfamous-389-prof-mei-chu-wang-hsiao|TAH #389 (first-famous list)]] and [[works/taiwaneseamericanhistory-org/whos-who-1559-mei-chu-wang-hsiao|TAH #1559 (Who's Who)]], harvested from [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]].
+- Her TAA speaking/participation record in Colorado is cross-documented on [[organizations/taiwanese-association-of-america-colorado|Taiwanese Association of America — Colorado]].
 
 ## Sources
 - [TAH #389 encyclopedia: 389. Prof Mei-Chu Wang Hsiao (王美珠教授) : The First Taiwanese American woman who re](https://taiwaneseamericanhistory.org/firstfamous-389-prof-mei-chu-wang-hsiao/)

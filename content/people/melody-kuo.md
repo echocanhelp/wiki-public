@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # Melody Kuo (郭雋律)
 
@@ -35,17 +35,14 @@ Dr. Melody Kuo received her degree of Doctor of Musical Arts, Master of Music, b
 
 ## Family
 
-_No filled family fields on the TAH profile._
+_No filled family fields on the TAH profile_ (see Family & Vault Connections below).
 
-## Sources
-- [TAH #229 encyclopedia: 229. Melody Kuo 郭雋律 / 2015/01](https://taiwaneseamericanhistory.org/229-melody-kuo-%e9%83%ad%e9%9b%8b%e5%be%8b-pianist-201501/)
-- [TAH #119 encyclopedia: 119. Melody Kuo 郭雋律,  Pianist / 2015/01](https://taiwaneseamericanhistory.org/119-melody-kuo-%e9%83%ad%e9%9b%8b%e5%be%8b-piano-accompanist/)
-- [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/melody-kuo/)
-
-## Family & Vault Connections (deepened 2026-09-10, vault-internal)
+## Family & Vault Connections (deepened 2026-09-10, deepened again 2026-09-14, vault-internal)
 - Mother: [[people/l-m-chen||L. M. Chen (陳麗美)]], an educator (B.A. Music, National Taiwan Normal University; teacher at Guangren Catholic Elementary School, Taipei, and Taipei Municipal Zhong Shan Girls High School). Per her vault page, Melody (郭雋律) is listed as a daughter, alongside her sister Ingrid (郭雋音); father: 郭順良.
+- Sister: [[people/ingrid-chun|Ingrid Chun (郭雋音)]], violinist and Los Angeles Philharmonic member since 1992 (Juilliard-trained, scholarship student of Dorothy DeLay, per her vault page) — the two sisters were born in Taipei to a family of musicians.
 - Career facts already on this page, absorbed from TAH #229 / #119: DMA and M.M. in Piano Performance, University of Southern California (1993 DMA per the education table), with studies in Accompanying and Church Music; scholarships from the Dr. Ewart Williams and Helen Bailey Schiavo foundations.
 - Current posts per the employment table: accompanist for the Chinese Christian Chorale of Los Angeles (洛杉磯華人聖樂團 / 洛杉磯華人合唱), and music teacher at 台福神學院 (Logos Evangelical Seminary) and 真道神學院 (Truth Theological Seminary); adjudicator for the Southwestern Youth Music Festival and MTAC Certificate of Merit exams; Pi Kappa Lambda member; Vice President, MTAC Los Angeles Branch.
+- Her TAH encyclopedia entries are archived in-vault at [[works/taiwaneseamericanhistory-org/119-melody-kuo-e9-83-ad-e9-9b-8b-e5-be-8b-piano-accompanist|TAH #119 (Piano Accompanist)]] and [[works/taiwaneseamericanhistory-org/229-melody-kuo-e9-83-ad-e9-9b-8b-e5-be-8b-pianist-201501|TAH #229 (Pianist)]].
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

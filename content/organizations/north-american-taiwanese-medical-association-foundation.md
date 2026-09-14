@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # NORTH AMERICAN TAIWANESE MEDICAL ASSOCIATION Foundation (北美洲台灣人醫師協會基金會)
 
@@ -23,6 +23,13 @@ The NATMA Foundation is a distinct tax-exempt nonprofit corporation entity of th
 - 2006/09 — 51-member team to Panama — served over 3,000 patients
 - 2007/02 — 64-member team to Guatemala — served over 4,000 patients
 - 2007/09 — 50-member team returning to Panama — served over 8,000 patients
+
+## Foundation programs (deepened 2026-09-14, vault-internal)
+
+- The Foundation is the charitable entity of the [[works/taiwaneseamericanhistory-org/north-american-taiwanese-medical-association-natma|North American Taiwanese Medical Association (NATMA)]]; its International Medical Mission program is documented at [[works/taiwaneseamericanhistory-org/natma-international-medical-mission|NATMA International Medical Mission]] and [[works/taiwaneseamericanhistory-org/first-international-medical-mission|First International Medical Mission]].
+- Scholarship program: [[works/taiwaneseamericanhistory-org/22-north-american-taiwanese-medical-association-natma-foundation-scholarship|NATMA Foundation Scholarship]].
+- Later mission records in the vault cover Honduras: [[works/taiwaneseamericanhistory-org/honduras-medical-mission|Honduras medical mission]] and [[works/taiwaneseamericanhistory-org/honduras-medical-mission-2019|2019 Honduras mission]].
+- Chapter-level pages in this vault: [[organizations/natma-southern-california|NATMA Southern California]] and [[organizations/northern-california-taiwanese-medical-association-nctma|Northern California Taiwanese Medical Association (NCTMA)]].
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/north-american-taiwanese-medical-association-foundation/)
