@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # Paul C. Tsai (蔡正驊)
 
@@ -57,6 +57,7 @@ Paul C. Tsai is a graduate of Chinese Culture University in Taiwan. He was educa
 
 - Two TAH encyclopedia entries for him are preserved in the vault: [[works/taiwaneseamericanhistory-org/253-paul-c-tsai-e8-94-a1-e6-ad-a3-e9-a9-8a-201502||TAH #253: Paul C. Tsai 蔡正驊 / 2015-02]] and [[works/taiwaneseamericanhistory-org/139-paul-c-tsai-e8-94-a1-e6-ad-a3-e9-a9-8a-baritone-201502||TAH #139: Paul C. Tsai 蔡正驊, Baritone / 2015-02]] — the records behind his Milano conservatory diploma (1983), opera/cantata solo career, 1989–1991 North America concert tours, and current Houston choral posts.
 - His Houston base overlaps the vault's [[organizations/taiwanese-association-of-america-houston-chapter||Taiwanese Association of America Houston Chapter]] regional community (no direct membership recorded).
+- Deepen re-check 2026-09-14 (vault-only): no vault page yet exists for the Houston Chinese Children's Choir / Youth Orchestra / Christian Chorus or for 北美中華福音神學院 itself, but the 中華福音神學院 teaching network he belongs to is recorded via colleagues — [[people/timothy-s-wu||Timothy S. Wu]] (中華福音神學院 professor, 研發部部長) and [[people/s-t-liu||S. T. Liu]] (中華福音神學院 M.S. 聖經, 1987). Institutional affiliation only; no direct collaboration recorded.
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

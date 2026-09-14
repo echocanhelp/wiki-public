@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # Prof. Bernard Travis Lee (李伯寧教授)
 
@@ -34,7 +34,7 @@ Prof. Bernard Travis Lee 李伯寧教授 – History of Taiwanese American (T.A.
 
 - **Wife:** 李必寧
 - **Son:** 李博德
-- **Father:** 李清澤
+- **Father:** 李清澤 — his father's TAH profiles are held in the vault: [[works/taiwaneseamericanhistory-org/167-dr-ching-tse-lee||TAH #167 Dr. Ching-Tse Lee 李清澤博士]], [[works/taiwaneseamericanhistory-org/artist18-ching-tse-lee||TAH #18 李清澤 Ching-Tse Lee (2014-10)]] and [[works/taiwaneseamericanhistory-org/footsteps-32||TAH #32 Dr. Ching-Tse Lee 李清澤博士 (by 林榮峰 Emily Lee, 2020-09)]]
 - **Mother:** [[people/emily-lin-lee||李林榮峰]] — the artist 林榮峰 / Emily Lee, who authored his TAH encyclopedia entry #33
 
 

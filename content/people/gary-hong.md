@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-09-14
 ---
 # Gary Hong (洪逸凡)
 
@@ -55,6 +55,8 @@ _No filled family fields on the TAH profile._
 ## Connected in the Vault
 - Archival profile: [[works/taiwaneseamericanhistory-org/artist3-gary-hong|TAH #3 (artist profile)]]
 - Community hub: [[sources/taiwaneseamericanhistory-org-story-corpus|TAH story corpus hub]]
+- League membership: [[organizations/neo-art-league||Neo Art League (加州新藝畫會)]] — his own TAH employment table lists him as member / exhibiting artist there, 2008–2013.
+- Deepen re-check 2026-09-14 (vault-only): no vault pages yet exist for Sandstone Gallery, Bluebird Art Gallery, Agora Gallery, Pasadena City College or the French salons named in his TAH record, and the 苗栗 birthplace has no matching vault origin-page. Nothing further absorbable without invention.
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
