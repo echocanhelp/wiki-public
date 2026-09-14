@@ -54,3 +54,12 @@ _No filled family fields on the TAH profile._
 ## Deepen note (2026-09-14, vault-only)
 
 From this page's own TAH employment table (no new facts): her community leadership outside work was **president of the Taiwanese Student Association (San Francisco Bay Area)**; the Bay Area roles (SFCM and Skyline College Concert choir accompanist, TACNC piano instructor) all predate the 2005 move to Los Angeles, after which every documented role (USC Graduate Performance Certificate on merit scholarship, Occidental College, Half Step Choir, Taiwanese Presbyterian Conference Master Chorale, FPCLA) is LA-based. No other vault page currently covers the Taiwanese Student Association (SF Bay Area), Half Step Choir, or the USC Keyboard Collaborative Arts program, so those remain unlinked.
+
+
+## Community Record in the Corpus (revisit 2026-09-14)
+
+Grep of `works/` and `articles/` for 方美盈 / May Fang returns only this person's own TAH encyclopedia records — no mentions in memoirs or other community works. Corpus links:
+- [[works/taiwaneseamericanhistory-org/81-may-fang-e6-96-b9-e7-be-8e-e7-9b-88-pianist|81. May Fang 方美盈, Pianist (2014-11)]]
+- [[works/taiwaneseamericanhistory-org/12980|336. May Fang 方美盈 (2015-03)]]
+
+Both records are band-B bibliographic entries (full text stays with TAH), so there is no memoir material beyond the press-kit biography already digested above. No conflicts found; nothing to HOLD; no new biography invented.

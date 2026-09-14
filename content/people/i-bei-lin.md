@@ -54,3 +54,12 @@ _No filled family fields on the TAH profile._
 - [[organizations/taiwanese-american-students-association-of-northwestern-university||台美同學會（西北大學）]]
 - [[organizations/taiwanese-association-of-america-hawaii||台美協會夏威夷分會]]
 - [[people/tah-p-f29b98a03f||杜宛珊]] — 同屬 TAH Who's Who 音樂家名錄
+
+
+## Community Record in the Corpus (revisit 2026-09-14)
+
+Grep of `works/` and `articles/` for 林怡貝 / I-Bei Lin returns only this person's own TAH encyclopedia records — no mentions in memoirs or other community works. Corpus links:
+- [[works/taiwaneseamericanhistory-org/289-i-bei-lin-e6-9e-97-e6-80-a1-e8-b2-9d-cellist-201509|289. I-Bei Lin 林怡貝, Cellist (2015-09)]]
+- [[works/taiwaneseamericanhistory-org/573-i-bei-lin-e6-9e-97-e6-80-a1-e8-b2-9d-201509|573. I-Bei Lin 林怡貝 (2015-09)]]
+
+Both records are band-B bibliographic entries (full text stays with TAH), so there is no memoir material beyond the press-kit biography already digested above. No conflicts found; nothing to HOLD; no new biography invented.

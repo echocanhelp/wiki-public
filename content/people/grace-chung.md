@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-08
+last_reviewed: 2026-09-14
 ---
 # Grace Chung (鍾曉青博士)
 
@@ -64,3 +64,12 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+
+## Community Record in the Corpus (revisit 2026-09-14)
+
+Grep of `works/` and `articles/` for 鍾曉青 / Grace Chung returns only this person's own TAH encyclopedia records — no mentions in memoirs or other community works. Corpus links:
+- [[works/taiwaneseamericanhistory-org/318-e9-8d-be-e6-9b-89-e9-9d-92-grace-chung-pianist-201511|318. 鍾曉青 Grace Chung, Pianist (2015-11)]]
+- [[works/taiwaneseamericanhistory-org/695-grace-chung-e9-8d-be-e6-9b-89-e9-9d-92-201511|695. Grace Chung 鍾曉青 (2015-11)]]
+
+Both records are band-B bibliographic entries (full text stays with TAH), so there is no memoir material beyond the press-kit biography already digested above. No conflicts found; nothing to HOLD; no new biography invented.

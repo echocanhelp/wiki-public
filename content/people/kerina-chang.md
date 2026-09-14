@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-10
+last_reviewed: 2026-09-14
 ---
 # Kerina Chang (張庭瑄)
 
@@ -60,3 +60,12 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+
+## Community Record in the Corpus (revisit 2026-09-14)
+
+Grep of `works/` and `articles/` for 張庭瑄 / Kerina Chang returns only this person's own TAH encyclopedia records — no mentions in memoirs or other community works. Corpus links:
+- [[works/taiwaneseamericanhistory-org/243-kerina-chang-e5-bc-b5-e5-ba-ad-e7-91-84-pianist-201507|243. Kerina Chang 張庭瑄, Pianist (2015-07)]]
+- [[works/taiwaneseamericanhistory-org/500-kerina-chang-e5-bc-b5-e5-ba-ad-e7-91-84-201507|500. Kerina Chang 張庭瑄 (2015-07)]]
+
+Both records are band-B bibliographic entries (full text stays with TAH), so there is no memoir material beyond the press-kit biography already digested above. No conflicts found; nothing to HOLD; no new biography invented.
