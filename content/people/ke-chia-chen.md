@@ -68,3 +68,7 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+## Deepen-x 2026-09-14 (slice 09141300-4, vault-only) — SKIP with reason
+
+Corpus grep (works/ + articles/, ZH 陳可嘉 and EN Ke Chia Chen / Ke-Chia Chen) returns only her own TAH encyclopedia records ([[works/taiwaneseamericanhistory-org/20-ke-chia-chen-e9-99-b3-e5-8f-af-e5-98-89-composer|TAH #20]], [[works/taiwaneseamericanhistory-org/whoswho1059|TAH #1059]] — both already linked above, band-B bibliographic) and the reciprocal mention on [[people/chih-long-hu||Chih-Long Hu]]'s page, already reflected in Connected in the Vault. No memoir material on this composer; nothing new absorbable. No web, no new pages.

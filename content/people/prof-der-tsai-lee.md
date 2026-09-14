@@ -69,3 +69,7 @@ All wikilink targets verified to exist in the vault; all cited-source facts alre
 
 ## Vault re-check 2026-09-14 (deepen-x slice 09140020-6, vault-only)
 All wikilink targets verified to exist in the vault; every cited-source page is a band-B bibliographic record with no additional absorbable text, so all cited facts remain as absorbed in the 2026-09-10/11/13 deepen passes. No new vault facts found, no web used, no new pages, nothing published.
+
+## Deepen-x 2026-09-14 (slice 09141300-4, vault-only) — SKIP with reason
+
+Corpus grep (works/ + articles/, ZH 李德財 and EN Der-Tsai Lee) returns only his own TAH #1798 record, [[works/taiwaneseamericanhistory-org/ourjourneys123||Our Journeys #123]], and the 2022-11-14 Taiwan Justice Net article — the latter two are already absorbed verbatim in the Vault records section above (NDAP delegation to the 博物館電腦網路 annual meeting; NTU Outstanding Alumni 2022). No further corpus facts to absorb. No web, no new pages.

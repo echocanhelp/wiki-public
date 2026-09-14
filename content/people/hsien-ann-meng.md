@@ -62,3 +62,12 @@ _No filled family fields on the TAH profile._
 ## Deepen-x 2026-09-14 (vault-only)
 
 Re-check: existing vault links (yi-hsin-lin, i-ling-chen, UMD TASA, TA.org UMD event records) all resolve. No further absorbable vault facts for this profile; no web, no new pages.
+
+## Deepen-x 2026-09-14 (slice 09141300-4, vault-only)
+
+Corpus grep (ZH 孟憲安 / EN Hsien-Ann Meng) surfaced two TAH encyclopedia records for Dr. Meng not yet linked from this page; both exist in the vault as band-B bibliographic records and are now corpus-linked:
+
+- [[works/taiwaneseamericanhistory-org/musician9||TAH #9: Hsien-Ann Meng 孟憲安, Pianist (2014/10)]] — published 2014-10-11, an early profile in TAH's musician series.
+- [[works/taiwaneseamericanhistory-org/whoswho1085||TAH #1085: Hsien-Ann Meng 孟憲安 (2016/06)]] — published 2016-06-18, her Who's Who encyclopedia entry.
+
+Both hold the Who's Who profile text already reproduced on this page; no additional narrative beyond the existing Career & Teaching Record section, so no conflicts to HOLD. No web, no new pages, no invented biography.
