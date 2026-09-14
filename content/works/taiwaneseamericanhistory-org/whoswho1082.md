@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-06-18 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[people/chun-hsin-jenny|Chun Hsin Jenny (伍君心)]] — subject of this record (absorbed deepen-x 2026-09-14)
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

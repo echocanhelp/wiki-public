@@ -45,3 +45,6 @@ Hakka-network links re-verified (world Taiwanese Hakka Federation, Southern Cali
 ## Deepen — 2026-09-14 (vault-only re-check)
 
 Directory description remains the sole absorbed source. Hakka-network links re-verified against the vault (世界台灣客家會, Southern California Hakka associations, HAPA-NA, Hakka Foundation): all resolve. The France Taiwan Hakka Association and the World Hakka Kinship Assembly have no vault pages, so they stay plain text. No new vault facts.
+
+## Deepen-x 2026-09-14 (vault-only)
+Directory entry [[works/taiwaneseamericanhistory-org/global-hakka-un-ngo-applying-committee|TAH #44 (2016-06-16)]] now carries a reciprocal Subjects link to this page. No new vault facts beyond the already-absorbed directory description.

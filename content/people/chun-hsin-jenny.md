@@ -65,3 +65,6 @@ _No filled family fields on the TAH profile._
 
 ## Vault re-check 2026-09-11 (deepen-x slices 7 + 17, vault-only)
 All wikilink targets on this page verified to exist in the vault; all cited-source facts were already absorbed in the prior deepen pass. No new vault facts found, no web used, no new pages created, nothing published.
+
+## Deepen-x 2026-09-14 (vault-only)
+Both cited TAH encyclopedia records now carry a reciprocal Subjects link to this page ([[works/taiwaneseamericanhistory-org/musician4|TAH #4]], [[works/taiwaneseamericanhistory-org/whoswho1082|TAH #1082]]). No other vault page holds facts about her; no new pages, no web, nothing published.

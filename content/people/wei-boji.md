@@ -79,3 +79,6 @@ Absorbed from the archived taiwancenter.org pages (`knowledge/web-archives/taiwa
 - [[people/he-sumei||He Sumei (何素美)]]
 - [[people/xu-shitan||Xu Shitan (徐士坦)]]
 - [[people/wang-rongyi||Wang Rongyi (王榮義)]]
+
+## Deepen-x 2026-09-14 (vault-only)
+Cross-checked against the [[organizations/taiwan-center||Taiwan Center]] class table: 日文 row lists [[people/wei-boji||魏博基]] (+2 TAs), Sun 14:00–15:30 · $60 — consistent with this page. All Related Pages targets verified to exist in the vault. No new vault facts, no web, nothing published.

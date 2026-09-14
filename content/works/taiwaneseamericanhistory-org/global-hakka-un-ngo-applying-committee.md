@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-06-16 — published
 
 ## Subjects
-- (named subjects pending absorb)
+- [[organizations/global-hakka-un-ngo-applying-committee-un-ngo|Global HAKKA UN NGO Applying Committee UN NGO (世界客家社團加入)]] — subject of this record (absorbed deepen-x 2026-09-14)
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]
