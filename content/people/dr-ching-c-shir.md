@@ -65,4 +65,5 @@ Accomplishment
 
 ## Deepen pass (2026-09-14)
 - 複核：vault 本人記錄（#61、#296、個人收藏、#92 共同捐贈）連結皆已到位，無新增事實。
-- 仍無對應 vault 頁面而未連結者：TAI 北加州（vault 僅有南加州 TAI，見該頁 Not 註記）、Paradise Culture Associates、家人（妻張初枝、女 Peggy／Vanna）。
+- 補入 vault 既有關聯頁：台灣協志會（北加州）專文及其會刊、Our Journeys #37（協志會成立大事記）、#19（本人撰寫之矽谷創業回憶）、TAH #93（Komag）。事實均出自上述 vault 頁，未引用外部。
+- 仍無對應 vault 頁面而未連結者：Paradise Culture Associates、家人（妻張初枝、女 Peggy／Vanna）；北加州協志會另有 vault work 頁（見上），南加州「協志社」為不同組織，見其頁 Not 註記。
