@@ -28,6 +28,7 @@ A [[organizations/presbyterian-church-in-taiwan||PCT]] congregation in **台南�
 ## Timeline
 - **1903-05** — [[people/thomas-barclay||巴克禮]] and Elizabeth (伊莉莎白) open 福音堂 on 東門街
 - **1906-06** — 太平境教會支會
+- **1921** — Independent 堂會
 - **1927–1934** — First pastor 黃俟命 (father of [[people/shoki-coe||黃彰輝]])
 - **1940s** — 陳能通 (later principal of 淡水中學) taught at 長榮中學 and served concurrently as 傳道師 at 台南東門教會 during this period (absorbed 2026-09-14 from [[articles/taiwanjustice-net/2022/20221202065132_2016_07_06_帶學生避禍228-自己卻難逃一劫_淡水中學校長陳能_1fa146177b3547b7||帶學生避禍228 — 淡水中學校長陳能通]], taiwanjustice-net)
 - **2003** — Centennial; renamed 巴克禮紀念教會; 18號公園 → 巴克禮紀念公園
