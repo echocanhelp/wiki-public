@@ -62,3 +62,8 @@ _Sourced from the TAH Who's Who profile above; no external material added._
 - [[works/taiwaneseamericanhistory-org/jerry-jean-pianist||TAH #195: Jerry Jean簡子翕, Songwriter & Music Producer / 2015/05]]
 - [[works/taiwaneseamericanhistory-org/whos-jerry-jean||TAH #414: Jerry Jean 簡子翕 / 2015/05]]
 - [[works/taiwaneseamerican-org/slow-jam-jerry-jean||Your New Classic Slow Jam: Music by Jerry Jean (TA.org, 2017)]]
+
+## Connected in the Vault（deepen pass 2026-09-14）
+- 求職與任教於紐約期間的台裔學生社團：[[organizations/nyu-taiwanese-american-student-society||NYU Taiwanese American Student Society]]（NYU 為其學士母校與 2005–2010 任教處；membership 未被 TAH 傳記斷言）
+- 碩士母校的台裔學生社團：[[organizations/columbia-university-taiwanese-student-association||Columbia University Taiwanese Student Association]]（Columbia 為其 2008 教育學碩士母校；membership 未被斷言）
+- 兩篇 TAH 傳記出處頁均為 2015-05-12 發布、value band B、all-rights；另有 TA.org 2017 專輯介紹頁（見上）為 vault 內唯一作品層紀錄。

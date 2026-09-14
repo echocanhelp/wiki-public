@@ -54,3 +54,8 @@ _No filled family fields on the TAH profile._
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - [[works/taiwaneseamericanhistory-org/whos-who-1789-ting-kuo-lee||TAH Encyclopedia #1789: Prof. Ting-Kuo Lee 李定國教授]]
 - [[organizations/brown-risd-taiwanese-graduate-student-association||Brown/RISD Taiwanese Graduate Student Association]] — Brown-era Taiwanese student community (his Ph.D. alma mater was Brown Univ.)
+
+## Connected in the Vault（deepen pass 2026-09-14）
+- 學士母校的校友社團：[[works/taiwaneseamericanhistory-org/sd-ntu||SD-NTU]]（台大校友社团，台大為其物理學士母校；社團 membership 未被 TAH 傳記斷言）
+- 出處頁：[[works/taiwaneseamericanhistory-org/whos-who-1789-ting-kuo-lee||TAH #1789]]（2017-07-27 發布、value band B、all-rights；傳記全文留 vault 出處）
+- 職涯軌跡以 TAH #1789 表欄為準：弗吉尼亞理工（1982–1997）→ 清華大學兼任（2001–）→ 國家奈米科技計畫共同執行長（2004–2006）→ 中央研究院（2007–2018）→ 中山大學講座教授（2019–）。

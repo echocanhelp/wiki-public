@@ -44,9 +44,11 @@ Ching-Yun Hu was named a winner of the 2009 Concert Artists Guild International 
 
 _No filled family fields on the TAH profile._
 
-## Connected in the Vault（deepen pass 2026-09-11）
+## Connected in the Vault（deepen pass 2026-09-11, refreshed 2026-09-14）
 
 - 本頁兩篇 TAH 傳記之 vault 內出處頁：[[works/taiwaneseamericanhistory-org/572-ching-yun-hu-e8-83-a1-e7-80-9e-e4-ba-91-201509||TAH #572 胡瀞云（2015/09）]]、[[works/taiwaneseamericanhistory-org/288-e8-83-a1-e7-80-9e-e4-ba-91ching-yun-hu-pianist-201509||TAH #288 胡瀞云, Pianist（2015/09）]]。
+- 兩篇出處頁均為 2015-09-05 發布、value band B、all-rights；傳記全文留 vault 出處頁，本頁僅持表欄事實（茱莉亞學士／碩士、天普大學 Esther Boyer 音樂學院任教）。
+- vault 內暫無茱莉亞音樂學院或天普大學專屬頁面，故此處不立連結（避免死鏈）。
 
 ## Sources
 - [TAH #572 encyclopedia: 572. Ching-Yun Hu 胡瀞云 / 2015/09](https://taiwaneseamericanhistory.org/572-ching-yun-hu-%e8%83%a1%e7%80%9e%e4%ba%91-201509/)
