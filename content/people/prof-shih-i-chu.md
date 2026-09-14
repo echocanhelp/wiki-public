@@ -50,6 +50,7 @@ _No filled family fields on the TAH profile._
 ## Deepen pass (2026-09-14)
 - Vault work page records the profile as published **2017-08-21** (value band B; bibliographic record only, full text stays with TAH).
 - No vault pages exist for Univ. of Kansas, National Tsing Hua Univ., Harvard Univ., or NTU CQSE — no further cross-links added (existing Harvard-affiliated org pages do not document membership for this person).
+- Corpus grep (2026-09-14, deepen-x slice 26): hits in content/works + content/articles limited to his own bibliographic record [[works/taiwaneseamericanhistory-org/whos-who-1858-shih-i-chu|TAH #1858]] and the works index — no memoir/community material absorbable. SKIP (no new facts).
 
 ## Sources
 - [TAH #1858 encyclopedia: 1858. Prof. Shih-I Chu 朱時宜教授](https://taiwaneseamericanhistory.org/whos-who-1858-shih-i-chu/)

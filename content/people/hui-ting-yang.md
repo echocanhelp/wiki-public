@@ -52,5 +52,6 @@ _No filled family fields on the TAH profile._
 
 
 ## Deepen pass (2026-09-14)
+- Corpus grep returns only her own TAH #692/#315 record pages and the works index — no memoir/community material to absorb. SKIP (nothing absorbable beyond what is already noted below).
 - 學士母校（臺北市立師範學院）相關社團頁可互參：[[organizations/joint-alumni-association-of-taiwan-teachers-college-and-normal-univers|Joint Alumni Association of Taiwan Teachers College and Normal Universities]] — 就學經歷主題相關，非成員事實。
 - 任職單位 Troy University、Ohio University、Florida State University 目前無 vault 頁面，未加連結；TAH #692／#315 記錄已全數吸收。

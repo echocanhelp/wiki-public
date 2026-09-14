@@ -37,6 +37,18 @@ Prof. Tien‐Sung (Tom) Lin 林天送教授 – History of Taiwanese American (T
 - **Son:** [[people/irvin-lin|Irvin (林斐強)]]
 
 
+## Role in the Community
+林天送不僅是學術化學家，也是台美人社群中長期耕耘的科普作家。TAH 出版物收藏中有他八本Life/生活類著作（1996–2014），橫跨自由基、健康老化、腦科學與發明：
+
+- 1996/01 — [[works/taiwaneseamericanhistory-org/publications1060|TAH #1060 你的生命活力—從自由基談起]]
+- 1997/08 — [[works/taiwaneseamericanhistory-org/publications1061|TAH #1061 你的生命活力(二)—從生活細節做起]]
+- 1998/12 — [[works/taiwaneseamericanhistory-org/publications1062|TAH #1062 自由基大革命—生老病死的秘密]]
+- 2000/07 — [[works/taiwaneseamericanhistory-org/publications1063|TAH #1063 二十一世紀的健康管理藍圖：活到一百二十歲]]
+- 2001/03 — [[works/taiwaneseamericanhistory-org/publications1064|TAH #1064 環境荷爾蒙危機]]（與楊明珠合編）
+- 2003/08 — [[works/taiwaneseamericanhistory-org/publications1065|TAH #1065 活用你的腦力]]
+- 2010/04 — [[works/taiwaneseamericanhistory-org/publications1066|TAH #1066 延年益壽的奧秘]]
+- 2014/04 — [[works/taiwaneseamericanhistory-org/publications1067|TAH #1067 靈機一動：發明家的啟示]]
+
 ## Sources
 - [TAH #34 encyclopedia: 34. Prof. Tien‐Sung Tom Lin 林天送教授](https://taiwaneseamericanhistory.org/34-prof-tien%e2-80-90sung-tom-lin/)
 - [TAH #1430 encyclopedia: 1430. Prof. Tien‐Sung (Tom) Lin 林天送教授](https://taiwaneseamericanhistory.org/whos-who-1430-tien-sung-lin/)

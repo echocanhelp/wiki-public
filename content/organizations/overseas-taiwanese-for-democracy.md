@@ -38,3 +38,4 @@ Overseas Taiwanese for Democracy (海外台灣青年陣線) is a North American 
 
 ## Deepen pass (2026-09-14)
 - 新增既有頁連結：[[works/taiwaneseamericanhistory-org/overseas-taiwanese-for-democracy|TAH story #18 海外台灣青年陣線（2015-02-23 刊）]]、[[works/taiwaneseamericanhistory-org/otdnjus|TAH story #12 紐澤西分會紀錄]]、[[works/taiwaneseamericanhistory-org/our-journeys-373|TAH #373 海外台灣學生運動與太陽花學運後政治]]（vault 既有文獻，未新增外部事實）。
+- Corpus grep (slice 26): content/works + content/articles 命中僅限上述三個本身文獻頁（taiwanjustice 文章命中為雜湊字串誤配）——無其他社群材料可吸收。SKIP（無新事實）。
