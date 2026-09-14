@@ -61,3 +61,4 @@ _No filled family fields on the TAH profile._
 ## Deepen pass (2026-09-14)
 - 複核兩筆 TAH 百科引用（#34 2014/10、#515 2015/07）均為書目級紀錄：頁內傳記、學歷、工作、時間線已完整反映既有引用內容，本次無可再吸收之新增事實。
 - 親屬欄維持「TAH 檔案無資料」。導師 Rita Sloan、聖經教會樂道堂目前無既有頁面：不建頁、不臆造傳記。
+- Corpus sweep（slice 09141213-4）：全語料 grep（蕭湘舲／Hsiang-Ling Hsiao）僅命中已連結之書目紀錄 [[works/taiwaneseamericanhistory-org/34-hsiang-ling-hsiao-e8-95-ad-e6-b9-98-e8-88-b2-piano|TAH #34]]、[[works/taiwaneseamericanhistory-org/515-hsiang-ling-hsiao-e8-95-ad-e6-b9-98-e8-88-b2-201507|TAH #515]]（均為書目級，全文留在來源端）與 works/index.md 書目行；works、articles 無其他語料提及。無新增可吸收事實。

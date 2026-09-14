@@ -73,5 +73,11 @@ last_reviewed: 2026-09-14
 - [[organizations/united-taiwanese-association-at-uc-san-diego||UCSD 台灣學生社團]] — 任職UC San Diego 之地域關聯
 - 任職地（台大、華盛頓大學聖路易、愛荷華、布朗、哈佛、UCSD）目前無專屬機構頁，僅保留文字事實。
 
+## Role in the Community (corpus-absorbed, deepen-x slice 1)
+
+- TAF 創會會長（1980–1982，時任職 Iowa）：會友回憶 [[works/taiwaneseamericanhistory-org/our-journeys-377|TAH #377 回憶一九八一年TAF青少年夏令營]]（2021-10）載第一任 TAF 會長為 Iowa 州的莊明哲醫師教授，並與張信義醫師共同授課於 1981 年青少年夏令營——與本頁既有「1980 創會會長（per TAH #161）」記載相互印证，無衝突。
+- UCSD 台灣研究中心：[[works/taiwaneseamericanhistory-org/our-journeys-386|TAH #386 UCSD獲500萬成立台灣研究中心]]（2023-05）載其任該中心諮詢委員會**聯席主席**（主席為生物工程教授錢煦）。
+- 傳記文稿：楊遠薰撰 [[works/taiwaneseamericanhistory-org/mystories81|TAH #81 奇異恩典－精神遺傳學大師莊明哲教授的奇妙歷程]]（2014）为其專文。
+
 ## Vault note (deepen-x 2026-09-14)
 本輪僅自 vault 既有頁面吸收：兒子頁 [[people/dr-john-tsuang]]  reciprocity 補入 Family；未新增外部傳記。

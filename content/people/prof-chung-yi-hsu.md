@@ -61,3 +61,8 @@ _No filled family fields on the TAH profile._
 - [[works/taiwaneseamericanhistory-org/whos-who-723-chung-yi-hsu||TAH #723 record]] — bibliographic record (published 2015-12-05); both entries are held as B-band records with full text at the source, not mirrored
 - Vault note: the two vault records agree with the tables already on this page — the NIH review-board chairmanship 1983–1997 sits inside the MUSC (1981–1989) → Baylor (1989–1993) → Washington Univ. in St. Louis (1993–) professorial sequence, with Taipei Medical Univ. principal from 2002.
 - The vault currently holds a page only for the Southern California chapter, [[organizations/north-america-taiwanese-professors-sc||北美洲台灣人教授協會南加分會]] — not the parent association he led as President; no vault page exists yet for that parent body.
+
+## Role in the Community (corpus-absorbed, deepen-x slice 1)
+
+- 休士頓台灣人活動中心建館募款委員會委員：莊承業撰 [[works/taiwaneseamericanhistory-org/ourjourneys233|TAH #233 回顧休士頓台灣人活動中心的成立]]（2016-07）兩度列名於楊朝諭召集／主任委員之募款委員會（1992-01 募款餐會 258 人出席，募得 24 萬 8 千元），為其社區參與之直接一手記錄。
+- 著作收錄：為 [[works/taiwaneseamericanhistory-org/publications1085|TAH #1085 新時代的醫學人文]]（戴正德主編，2017-04）合著者之一。

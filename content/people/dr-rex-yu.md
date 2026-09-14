@@ -63,6 +63,12 @@ Accomplishment
 - 收藏記錄（deepen pass 2026-09-14 自 vault 吸收）：TAH 另藏本人個人收藏條目 [[works/taiwaneseamericanhistory-org/collection-of-dr-rex-yu|TAH #71 余忠村博士的收藏]]（2018-07-19 刊）；本人條目 #19 刊於 2018-08-08、#970 刊於 2016-05-01。
 - [[sources/taiwaneseamericanhistory-org-story-corpus|TAH 故事語料庫]]
 
+## Role in the Community (corpus-absorbed, deepen-x slice 1)
+
+- 撰文紀念社團同仁：本人執筆 [[works/taiwaneseamericanhistory-org/mystories643|敬悼台灣人獅子會創會指導員泰迪安德生]]（2018-08），載其參與台灣人獅子會創會時期事務並與創會指導員 Anderson 交誼。
+- 獲選國立中興大學第 21 屆（106 年）傑出校友，見 vault 條目 [[works/taiwaneseamericanhistory-org/winners55|TAH #55 中興大學傑出校友 / Rex Yu 余忠村 / 2017]]（與本頁中興大學學歷相符）。
+- 文化收藏：vault 藏 [[works/taiwaneseamericanhistory-org/footsteps-36|TAH #36 余忠村博士與布袋戲偶]]（2021，與布袋戲藝師李淑櫻 Nami Yang 之戲偶紀錄），與既有收藏條目 [[works/taiwaneseamericanhistory-org/collection-of-dr-rex-yu|TAH #71]] 同屬其收藏紀錄。
+
 ## Vault records (deepen pass 2026-09-14, slice 16)
 - 連結複核：三份 TAH 工作頁（#19、#970、#71 收藏）與 [[organizations/san-gabriel-taiwanese-lions-club|美國台灣人獅子會]] 頁皆已存在，連結解析成立。
 - 妻 Tammy Yu（李月英）、子 Winston／Benjamin 及中興大學、Utah State、Michigan State 等教育機構於 vault 無獨立頁，依規則不新建、不虛構。

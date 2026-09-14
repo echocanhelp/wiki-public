@@ -66,3 +66,6 @@ _No filled family fields on the TAH profile._
 - publisher／語料庫：[[organizations/tah-foundation||TAH Foundation]]、[[sources/taiwaneseamericanhistory-org-story-corpus||TAH story corpus]]。
 - 名字拼寫：本頁 slug／TAH Who's Who 用 "Butteryfly"，口述歷史 #36 與 2014 年條目用 "Butterfly"。兩種寫法均見於來源，視為未定（HOLD）。
 - 專業學會：美國合唱指揮協會（ACDA）、音樂教師全國協會（MTNA）會員——見本頁 Timeline 末段（來源：TAH #36 口述歷史）。
+
+## Corpus sweep (2026-09-14, slice 09141213-4)
+- 全語料 grep（張翠蝶／Butterfly／Butteryfly Chong）僅命中本頁已連結之 [[works/taiwaneseamericanhistory-org/36-butterfly-chong-e5-bc-b5-e7-bf-a0-e8-9d-b6-choral-conductor|TAH #36]]（全文已吸收進 Timeline 與正文，含 Fairfax、Haitien、Liren 等合唱團細節）與 [[works/taiwaneseamericanhistory-org/457-butteryfly-chong-e5-bc-b5-e7-bf-a0-e8-9d-b6-201506|TAH #457]]（書目級）。另見 works/index.md 書目行。無新增可吸收事實。

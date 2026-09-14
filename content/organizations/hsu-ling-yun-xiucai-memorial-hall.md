@@ -43,6 +43,10 @@ Descendant Hsu Ya-chin (許雅琴) led the heritage application (reviewed Mar 20
 - [[people/hsu-ching-chun||Hsu Ching-chun (許景淳)]] — same Watong Hsu clan, 靖樂 line
 - [[organizations/presbyterian-church-in-taiwan||Presbyterian Church in Taiwan]]
 
+## Vault records (deepen pass 2026-09-14, slice 1)
+
+- SKIP-with-reason：corpus（works/、articles/）檢索「許凌雲／Hsu Ling-yun」無本館相關命中（僅「壯志凌雲」「凌雲御風」等成語誤合），無可吸收之社團/語料事實；本頁既有內容已完整，連結複核通過。
+
 ## Vault records (deepen pass 2026-09-14, slice 16)
 
 - 連結複核：紀念對象 [[people/hsu-ling-yun||許凌雲]]、同莊許氏 [[people/hsu-ching-chun||許景淳]]、[[organizations/presbyterian-church-in-taiwan||PCT]]、出處樞紐 [[sources/penghu-info||penghu.info]] 頁皆已存在，連結全部解析成立；vault 內無本頁未載之新事實。
