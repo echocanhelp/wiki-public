@@ -52,8 +52,8 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
-- [[works/taiwaneseamericanhistory-org/whoswho1872|TAH #1872 encyclopedia entry]]
-- [[works/taiwaneseamericanhistory-org/musician425|TAH #425 — piano entry]]
+- [[works/taiwaneseamericanhistory-org/whoswho1872|TAH #1872 encyclopedia entry]] — her Who's Who profile, published 2017-09-04
+- [[works/taiwaneseamericanhistory-org/musician425|TAH #425 — piano entry]] — musician entry under her formal name Chien-Yuh Tang, published the same day (2017-09-04)
 - [[organizations/taiwanese-american-historical-society||TAHS]] — source community for the TAH Who's Who project
 
 ## Network
