@@ -64,3 +64,9 @@ M.S., Radiochemistry Group
 ## Deepen-x re-check (slice 09142320-3, 2026-09-15)
 - Two further dated TAH records of his standing in the community, newly linked from this pass: [[works/taiwaneseamericanhistory-org/my-stories-697|TAH #697 我的學思歷程／李遠哲 (2019-09)]] and [[works/taiwaneseamericanhistory-org/videos116|TAH #116 【台灣演義】李遠哲的成長路 (2017-02)]]（另見異拼 Yuan-Tze Lee 標題）. Both are bibliographic/video records — no new biography absorbable beyond the existing sections.
 - Romanization HOLD widened, not merged: a fourth variant **Yuan-Tze**（TAH #116）now on record alongside Yuan-Tseh / Yuan-tze / Yan tze.
+
+## Deepen-x re-check (slice 09150316-24, 2026-09-15)
+- Corpus memoirs record his direct participation in community cultural life: TUF（南加州台灣人聯合基金會）history [[works/taiwaneseamericanhistory-org/ourjourneys301|TAH #301 林衡哲 /07/2017]] — 創辦人林衡哲親自返台中研院邀請院長李遠哲主講 1996 年《台灣文化之夜》（與北美洲台灣人教授協會合辦），由他自己決定題目《回台工作一千零一夜》，自述返台服務三年「是他人生中最有意義的三年」；演講者名單另見 [[works/taiwaneseamericanhistory-org/ourjourneys294|TAH #294 TUF 簡介 /06/2017]]（與林義雄、陳郁秀並列）。
+- Mother-tongue episode: [[works/taiwaneseamericanhistory-org/ourjourneys203|TAH #203 我對母語的看法 / 林榮松 /03/2016]] 記他在台美人教授協會年會首場演講改用北京話引場外抗議，其後所有演講改為「福佬話加英文」，作者視為從善如流的典範。
+- Community portrayals held in the vault: [[works/taiwaneseamericanhistory-org/ourfootsteps-23|TAH #23 油畫《李遠哲博士領取諾貝爾獎》/ 陳秀芳 /2018]]、[[works/taiwaneseamericanhistory-org/mystories166|TAH #166 專訪《立足小分子 縱情大宇宙》/ 林俊義 /2014-12]]、傳記書目 [[works/taiwaneseamericanhistory-org/publications1049|TAH #1049 藍麗娟《李遠哲傳》/11/2016]] 及 [[works/taiwaneseamericanhistory-org/important2016-26|TAH milestone #26 該傳 2016-11 於台出版]]。
+- HOLD: the TUF memoir cites the 1996 lecture title both as《回台工作一千零一夜》and《返台工作一千零一夜》in the same essay — title variant recorded, not merged.

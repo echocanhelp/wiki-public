@@ -55,3 +55,6 @@ Jennet Jah is the daughter of the noted composter, Professor Kenneth Lee. She gr
 - 2024-10-12 该团轻歌剧《学生王子》制作中任**声乐指导**（李俊玲老师），非登台身份：[[articles/taiwanjustice-net/2025/20250318101332_洛杉磯_以立合唱團_演出的輕歌劇_學生王子_2b2e0ebccd1c5edd||洛杉矶以立合唱团轻歌剧「学生王子」]]。
 - 同一《致死的震怒近了》（饰 Abigalle）报道另有 2025-02-09 存档重刊：[[articles/taiwanjustice-net/2025/20250209202050_以立合唱團_演唱威爾弟歌劇合唱選曲_致死的_2b3d5a363a2935eb||以立合唱团「致死的震怒近了」（2025 重刊）]]，与 2023 年原报道为同一演出，不另计新事实。
 - HOLD（不并档）：TAH #132 及各演出记录拼作 "Jennet Jah"，TAH #245 与本页作 "Jannet Jah"；名字拼写分歧，未经本人记录不自动合并。
+
+## Deepen-x re-check (slice 09150316-31, 2026-09-15)
+- SKIP-with-reason：全语料重 grep（李俊玲／Jannet Jah／Jennet Jah）命中集不变——本人两笔 TAH 记录（[[works/taiwaneseamericanhistory-org/10177|TAH #132]]、[[works/taiwaneseamericanhistory-org/245-jannet-jah-e6-9d-8e-e4-bf-8a-e7-8e-b2-201502|TAH #245]]）、works 索引条目，及三篇已链接的以立合唱团报道。逐条上下文核对：2024-10-12《学生王子》报道中「声乐指导老师李俊玲」身份（声乐指导，非登台）与 Role in the Community 既有记载一致，无新增事实。拼写分歧 HOLD 维持。

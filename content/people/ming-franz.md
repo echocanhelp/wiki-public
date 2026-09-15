@@ -51,6 +51,7 @@ Ming Franz was born in the southern Taiwan, grew up in a sugar plantation where 
 - 語料庫檢索結果：除本人兩筆 TAH 記錄外，works／articles 內無其他提及 Ming Franz 林明姝 之回憶錄或運動史料。SKIP-with-reason：corpus 僅含本身書目記錄，無可吸收之新增事實。
 - deepen-x 09141500-8（覆核）：articles 檢索之 "Franz" 命中經逐一核對皆為誤配（如Strauss 之子 Franz、音樂評論用字），非本人。確認 **SKIP**。
 - 覆核（deepen-x slice 09142320-1，2026-09-15）：全語料庫重新 grep（林明姝／Ming Franz）命中不變——僅本人兩筆 TAH 記錄 [[works/taiwaneseamericanhistory-org/whoswho908|TAH #998]]、[[works/taiwaneseamericanhistory-org/38-ming-franz|TAH #38]] 及作品索引條目，無可吸收之新增社群事實。維持 **SKIP**。
+- 覆核（deepen-x slice 09150316-31，2026-09-15）：重新 grep 命中集不變（本人兩筆 TAH 記錄 + works 索引條目），無其他回憶錄或報導提及本人。維持 **SKIP**。
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
