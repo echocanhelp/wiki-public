@@ -72,5 +72,5 @@ _No filled family fields on the TAH profile._
 - Corpus grep（`蔡佩君|Pei Chung Tsai`）命中除本頁兩則 TAH 條目（已連結）外，另有 taiwanjustice.net 轉載新聞 [[articles/taiwanjustice-net/2025/20250617162559_梨山雨後現美景_虹霓同現掛高空_be8e102d0879b0e0||梨山雨後現美景（2025-06-17）]]：文中「梨山國中小美術老師蔡佩君」為**同名不同人**（台中梨山國小教師，非旅美小提琴家）。HOLD: 名字碰撞，不合併、不吸收為本頁事實。
 - 除此之外無可吸收之新 corpus 事實。
 
-## 再掃（slice deepen-x-slice-09150316-15，2026-09-15）
-- 重跑 corpus grep（蔡佩君／Pei Chung Tsai，works+articles）：命中僅自有條目 [[works/taiwaneseamericanhistory-org/228-e8-94-a1-e4-bd-a9-e5-90-9b-violinist-201507|#228]]、[[works/taiwaneseamericanhistory-org/16364|#476]]（均已連結）、works index，及 taiwanjustice.net 梨山新聞之**同名不同人**（HOLD 已列於上，不合併、不吸收）。SKIP-with-reason：無可吸收新事實。
+## 再掃（slice deepen-x-slice-09150316-15 / 09150400-1，2026-09-15）
+- 重跑 corpus grep（蔡佩君／Pei Chung Tsai，works+articles）：命中僅自有條目 [[works/taiwaneseamericanhistory-org/228-e8-94-a1-e4-bd-a9-e5-90-9b-violinist-201507|#228]]、[[works/taiwaneseamericanhistory-org/16364|#476]]（均已連結）、works index，及 taiwanjustice.net 梨山新聞之**同名不同人**（台中梨山國中小美術老師，2025-06-17 虹霓新聞拍照者；HOLD 已列於上，不合併、不吸收）。SKIP-with-reason：命中集合兩輪無變，無可吸收新事實。

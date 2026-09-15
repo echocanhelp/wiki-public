@@ -59,6 +59,7 @@ Accomplishment
 - 重掃語料庫（Helen Wang／方惠音）命中 [[works/taiwaneseamericanhistory-org/ourjourneys60|咱的故事—NATWA的歷史]]、英文版 [[works/taiwaneseamericanhistory-org/ourjourneys60-eng|Our Journeys #60]]、[[works/taiwaneseamericanhistory-org/175-helen-wang|TAH #175]]、[[works/taiwaneseamericanhistory-org/whos-who-1728-helen-wang|TAH #1728]] — 均為本頁已連結記錄，本人事實已吸收於上節，無新事實。
 - Slice 09150316-21 複掃（2026-09-15）：grep（方惠音／Helen Wang）命中集不變（ourjourneys60 中英兩版、#175、#1728、works/index），本人事實已於上節吸收完畢，本輪 SKIP——無新事實；新舊版年份冲突見下方 HOLD，維持不合併。
 - HOLD: 前後任會長返臺年份冲突 — 中文版 [[works/taiwaneseamericanhistory-org/ourjourneys60|咱的故事]] 載陳麗英 **1994 年 2 月**帶團返臺協助世界婦女高峰會議；英文版 [[works/taiwaneseamericanhistory-org/ourjourneys60-eng|Our Journeys #60 (eng)]] 同段作 **February 1992**（且人名譯作 Li-Ying Lee）。兩版年份不一致，維持現載（1994），未自動合併。
+- **2026-09-15 (DEEPEN-X09150400-12):** re-sweep SKIP — grep（方惠音／Helen Wang）命中集不變（ourjourneys60 中英兩版、#175、#1728、works/index），本人事實已吸收完畢，無新事實；HOLD 維持。
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

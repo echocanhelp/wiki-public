@@ -70,3 +70,4 @@ Accomplishment
 - 家庭欄（妻 洪文治、子女 Jean／Jennifer／Ben）依 TAH 原文維持，vault 內無對應頁面。
 - Corpus re-check (slice 09142319-9, 2026-09-15): grep of works/ + articles/ returns only pages already wikilinked above (#45/#26/#27/#76/#1099/#392); no new absorbable facts.
 - Corpus re-check (slice 09150316-5, 2026-09-15): grep 三核，命中仍僅上述已連結書目頁（#26/#27/#45/#76/#392/#1099 書名頁標題命中），無 memoir 敘述新增事實。SKIP-with-reason; nothing absorbable.
+- Corpus re-check (slice 09150400-2, 2026-09-15): grep 四核，命中集不變（僅上述已連結書目頁），無新事實，無衝突需 HOLD；last_reviewed 已是今日。

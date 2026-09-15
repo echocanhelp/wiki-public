@@ -52,6 +52,7 @@ last_reviewed: 2026-09-15
 - **Association leadership chain** (per Who's Who #2165 / #146): 台師大美東校友會會長 2010–2011 → 美國宜蘭同鄉會會長 2011–2012 → 台美會計師協會會長 2013–2014 — three consecutive years leading alumni, hometown, and professional wings of the Taiwanese American community in the U.S. East Coast: [[works/taiwaneseamericanhistory-org/whos-who-2165-ming-j-lee|TAH #2165]], [[works/taiwaneseamericanhistory-org/146-dr-ming-j-lee|TAH #146]].
 - **2026-09-15 (DEEPEN-X09142319-17):** re-sweep SKIP — corpus grep hits only his own #146/#657/#2165 records (all already linked above); no peer memoirs mention him; nothing new absorbable.
 - **2026-09-15 (DEEPEN-X09150316-18):** re-sweep SKIP — grep 李銘正／Ming J. Lee again hits only his own #146/#657/#2165 records + works index (all already wikilinked here); no peer memoir mentions; nothing new absorbable.
+- **2026-09-15 (DEEPEN-X09150400-12):** re-sweep SKIP — hit set unchanged (own #146/#657/#2165 + index listing only); no peer memoir material to absorb.
 
 ## Family
 
