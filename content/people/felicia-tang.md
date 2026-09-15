@@ -64,3 +64,4 @@ _No filled family fields on the TAH profile._
 - （複掃 2026-09-15，slice 26：SKIP）含正式名 Chien-Yuh Tang 重掃，命中仍僅本人 #1872／#425 記錄與 works/index；無新語料可吸收。
 - （覆掃 2026-09-15，slice 09150400-25：SKIP）唐千畬／Felicia Tang／Chien-Yuh Tang 重掃，命中仍僅 [[works/taiwaneseamericanhistory-org/whoswho1872|#1872]]／[[works/taiwaneseamericanhistory-org/musician425|#425]] 與 works index 條目行；無新語料可吸收。
 - （覆掃 2026-09-15，slice 09150500-16：SKIP）三名全稱重掃（唐千畬／Felicia Tang／Chien-Yuh），命中集不變——僅 [[works/taiwaneseamericanhistory-org/whoswho1872|#1872]]／[[works/taiwaneseamericanhistory-org/musician425|#425]] 與 works index 條目行；維持 **SKIP**。
+- （複掃 2026-09-15，slice 09150600-6：SKIP）結果不變——命中僅已連結之 #1872／#425 及 works/index 目錄列，無可吸收之新增社群事實。

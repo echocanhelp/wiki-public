@@ -59,6 +59,7 @@ last_reviewed: 2026-09-15
 - （deepen-x slice 09150400-27 覆核 2026-09-15：重抓 works+articles，命中集合與既往各 pass 相同（ourjourneys12/17/58、mystories75、故事 #8、#272 記錄頁），全部已吸收並連結於上方，無新材料。）
 - （deepen-x slice 09150500-19 覆核 2026-09-15：重抓 works+articles，命中集合與既往各 pass 相同（ourjourneys12/17/58、mystories75、故事 #8、#272 記錄頁），全部已吸收並連結於上方；本次僅自 #17 原文補入店面競購與價額細節，無新材料。）
 - 語料庫入口：[[sources/taiwaneseamericanhistory-org-story-corpus||TAH 故事語料庫]]。
+- （deepen-x slice 09150600-6 覆核 2026-09-15：重抓 works+articles，命中集合與既往各 pass 相同（ourjourneys12/17/58、mystories75、故事 #8、#272 記錄頁），全部已吸收並連結於上方，無新材料。）
 - Main encyclopedia record: [[works/taiwaneseamericanhistory-org/272-e5-8f-b0-e7-81-a3-e4-ba-ba-e7-9a-84-e7-bf-b9-e6-a5-9a-e9-83-ad-e4-be-86-e5-9|TAH #272 台灣人的翹楚—郭來哲博士、楊涵珺伉儷 / 李素鳳]]
 
 ## Related Pages
