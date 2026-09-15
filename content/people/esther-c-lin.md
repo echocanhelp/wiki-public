@@ -34,6 +34,7 @@ Esther C. Lin is a versatile Taiwanese American artist. President of Taiwan Cent
 - Conductor/director roles per TAH table: 台灣醫學院合唱團 指揮; 台北教師合唱團 指導; 紐約頌音合唱團 指揮
 - Awards: New York State Governor's Arts Award; Lions Club Lifetime Achievement Award
 - Pastel artist guided into the medium by Jason Chang, President of the North American Pastel Artists Association; works frequently exhibited, noted for bright color and simple construction expressing truth, kindness and beauty
+- **2015-10-08** — profiled in TAH artist encyclopedia #55 (as 陳春蘭), the earliest encyclopedia record of hers in the vault
 - **1986-12-14** — 於紐約 Flushing 舉辦「林陳春蘭師生音樂演奏會」（TAH concerts #17 紀錄）
 - **2016-04-03** — dual TAH encyclopedia records published the same day: musician #337 (soprano profile) and Who's Who #925; both held as bibliographic records in the vault
 - Devoted to music education and music evangelicalism; vocal art, piano performance, choir conducting
@@ -54,6 +55,7 @@ Esther C. Lin is a versatile Taiwanese American artist. President of Taiwan Cent
 - [[works/taiwaneseamericanhistory-org/musician337|TAH musician #337]] — Esther C. Lin 林陳春蘭, Soprano（2016-04-03 刊）
 - [[works/taiwaneseamericanhistory-org/whoswho925|TAH Who's Who #925]] — Esther C. Lin 林陳春蘭（2016-04-03 刊）
 - [[works/taiwaneseamericanhistory-org/concerts17|TAH concerts #17]] — 林陳春蘭師生音樂演奏會，Flushing, NY，1986-12-14（recording held 2015-07-28）— earliest documented NYC performance in the vault, predating her 2016 encyclopedia entries by three decades
+- [[works/taiwaneseamericanhistory-org/artist55-esther-lin|TAH artist #55]] — 陳春蘭 Esther C. Lin（2015-10-08 刊）— earlier artist entry, predating the 2016-04-03 dual records; note the TAH title renders her as 陳春蘭 (maiden-name form) vs 林陳春蘭 on this page
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

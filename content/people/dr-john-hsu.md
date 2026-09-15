@@ -31,6 +31,9 @@ Accomplishment
 - Utah State University, Logan — Assistant Professor — (1986-1987) — National Chung Hsing University, Soil Environmental Science — Assistant Professor — (1988-) — J. H. Biotech, Inc. (佳和生物科技公司) — Chairman & CEO — (2014-) — Community — Taiwan Center Foundation of Greater Los Angeles (大洛杉磯台灣會館基金會) — President — Taiwanese Hakka Association of the World (世界台灣客家聯合會) — President — North American Taiwanese Professors' Association, South CA Chapter (北美洲台灣人教授協會南加州分會) — President — National Chung Hsing University Alumni Association of South California (中興大學南加州校友會) — President
 <!-- tah-tables:end -->
 
+## Role in the Community
+- **2015-02-20** — Invited lecturer at 長青教室 (sponsored by Irvine台灣長老教會, ITPC): spoke on 「臺灣會館的經營與運作」(operation and management of the Taiwan Center) — documented in our own community record [[works/taiwaneseamericanhistory-org/ourjourneys107|TAH ourjourneys #107, 長青教室 (2015-02)]]. The talk positions him as the community's spokesperson on Taiwan Center governance, consistent with his presidency of the [[organizations/taiwan-center|Taiwan Center Foundation of Greater Los Angeles]].
+
 ## Timeline
 - **1947** — Born in Miaoli, Taiwan
 - **1971** — B.S. Agricultural Chemistry, National Chung Hsing University (中興大學)
@@ -57,6 +60,8 @@ Accomplishment
 
 ## Same-person cross-link (deepen 2026-09-14)
 - The fuller biography of the same person (徐新宏, born 1947 Miaoli; spouse **陳麗華** matches the Family field above; founded **J.H. Biotech, Inc.** 1987, Chairman/CEO of 佳和企業集團) is on vault page [[people/hsu-hsin-hung||Hsu Hsin-hung (徐新宏)]], sourced from [[sources/2017-tahs-publication||the 2017 TAHS publication]]. That page cross-links back here.
+- HOLD: conflict — J.H. Biotech tenure **2014–** (TAH Who's Who employment table on this page) vs **founded 1987** (2017 TAHS publication, via [[people/hsu-hsin-hung]]). Not auto-merged.
+- Disambiguation: [[works/taiwaneseamericanhistory-org/whos-who-2262-john-hsu|TAH Who's Who #2262 "John Hsu 許作初"]] is a **different person** (許作初 ≠ 徐新宏) despite the shared English name.
 
 ## Sources
 - [TAH #287 encyclopedia: 287. Dr. John Hsu 徐新宏博士](https://taiwaneseamericanhistory.org/ota-287/)

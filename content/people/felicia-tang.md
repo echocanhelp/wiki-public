@@ -58,3 +58,6 @@ _No filled family fields on the TAH profile._
 
 ## Network
 - [[organizations/new-york-taiwan-center||New York Taiwan Center]] — NYC-based pianist/teacher (per bio: performs and teaches in New York)
+
+## Deepen pass 2026-09-14
+- SKIP-with-reason: corpus grep of works/articles returns only her own two TAH encyclopedia records (#1872, #425), already linked and absorbed above; no memoir/community material beyond the press-kit bio to incorporate.
