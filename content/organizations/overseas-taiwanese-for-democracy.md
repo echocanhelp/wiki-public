@@ -21,7 +21,13 @@ Overseas Taiwanese for Democracy (海外台灣青年陣線) is a North American 
 ## Timeline
 
 - **2014** — Emerged from the transnational solidarity efforts surrounding Taiwan's Sunflower Movement, in which overseas Taiwanese students amplified international coverage of the occupation of Taiwan's Parliament in protest of the Cross-Strait Service Trade Agreement
+- **2014-08** — Founded per member 林子堯's account: while studying economics at the University of Maryland he was inspired by Taiwan's g0v zero-hour government data-visualisation platform during 318; that August he met like-minded youths from other U.S. states, and the group formed an online exchange platform, later named 海外台灣青年陣線 (海台青)
 - **2015** — Held an annual conference themed around cross-generational Taiwanese subjectivity
+- **2017** — Introduced a hackathon (黑客松) workshop and Mandarin- and Taiwanese-speaking youth at the U.S. East Coast Taiwanese Summer Camp (TACEC), injecting new blood into the nearly half-century-old camp
+
+## Role in the Community
+
+- 楊遠薰's column [[articles/taiwanjustice-net/2021/20211207123518_2017_07_24_海台青與黑客松-_-楊遠薰-2017-07-24_2c9cb76838702dd7|海台青與黑客松]] (taiwanjustice.net, 2017-07-24) is the community's primary account of the founding, based on an interview with member 林子堯 (University of Maryland economics Ph.D. student); 林子堯 currently has no vault page.
 
 ## Standing activities
 
