@@ -33,7 +33,7 @@ Adjunct Professor, Department of Engineering and System Science, National Tsing 
 ## Role in the Community
 - **San Diego Taiwan Center library/archive builder.** 黃正源's founding memoir [[works/taiwaneseamericanhistory-org/ourjourneys26|26. 聖地牙哥台灣中心的前半生與轉型 (2014-09)]] records that of the Center's library and special-collections建档 effort, 「以黃彩娓及許正餘的貢獻最大」— Hsu guided the software/systems side (Library-of-Congress-style cataloguing fed into computer files) while 黃采娓 catalogued the books by hand.
 - **NATPA president; TAC-WC leadership.** 黃東昇's [[works/taiwaneseamericanhistory-org/ourjourneys352|352. History of Taiwanese American Conference – West Coast (2020-03)]] names him as President of NATPA and co-chair (with TAFNC president 林政原, coordinator 黃東昇) of the record 500-person 2016 Bay Area TAC-WC; he then agreed to coordinate the 2017 TAC-WC in San Diego, enabling the TAC-WC Board's formation.
-- **Author.** His essay "Bottom-Up Economics" is held at [[works/taiwaneseamericanhistory-org/publications-1328|1328. Bottom-Up Economics (2019)]].
+- **Author.** His essay "Bottom-Up Economics" is held at [[works/taiwaneseamericanhistory-org/publications-1328|1328. Bottom-Up Economics (2019)]] and his Chinese-language lecture series on the same theory, 「民富論 – 由下而上的經濟與幣值不均的理論」, is archived in the community press at [[articles/taiwanjustice-net/2024/20240723012554_root_2c109418c5ea51e4|台灣公義報 民富論演講 (2024-07)]] — the theory has circulated in the movement in both English and Chinese.
 - Corpus Who's-Who/story records: [[works/taiwaneseamericanhistory-org/397-james-j-y-hsu-e8-a8-b1-e6-ad-a3-e9-a4-98-201505|397. James J. Y Hsu 許正餘 (2015-05)]].
 
 ## Family

@@ -37,6 +37,7 @@ Accomplishment
 - Listed among the 華府同鄉会 (Washington hometown association) supporters thanked in the Our Journeys fundraising acknowledgment, alongside 林光源, 陳唐山, 楊基定 and 洪燿東 [[works/taiwaneseamericanhistory-org/ourjourneys256|256]].
 - As 蔡武男長老 he served on the building committee of his Washington-area Presbyterian church's construction campaign, and was among the church elders who negotiated the World Peace Foundation donation (three land parcels split with Bethesda Presbyterian Church) [[works/taiwaneseamericanhistory-org/ourjourneys217|217. Our Journeys 建堂募款 memoir]].
 - Who's Who entry archived as [[works/taiwaneseamericanhistory-org/whos-who-1804-bernard-tsai|1804. Dr. Bernard Tsai 蔡武男醫師]].
+- 語料庫再扫描（2026-09-15，slice 09150600-28）：命中僅 1983 會員名錄（#138）、Our Journeys #74 英文版招募記述、本人 Who's Who #1804 書目頁、works/index 收錄列舉 — 與上列已吸收內容完全一致，無新可吸收事實。
 
 ## Family
 
