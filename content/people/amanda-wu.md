@@ -44,3 +44,4 @@ _No filled family fields on the TAH profile._
 - Vault work record: [[works/taiwaneseamericanhistory-org/165-amanda-wu-bassist-201503|TAH #165 Amanda Wu, bassist (2015/03)]].
 - A near-duplicate TAH record exists in the vault as [[people/amenda-wu|Amenda Wu]] (same Bay Area geography, UC Davis music study, San Francisco Symphony donor-relations role, UC Berkeley Symphony Orchestra membership); the companion work record [[works/taiwaneseamericanhistory-org/322-amenda-wu-201503|TAH #322 Amenda Wu (2015/03)]] carries the same publication date. Likely a spelling-variant duplicate entry — held pending owner verification, not merged.
 - No further biography invented; verification still pending against the cited TAH pages.
+- Corpus re-check 2026-09-14 (deepen-x slice 16): grep across works/articles returns only her own two TAH records (#165, #322) plus index listings — no memoir/community passages absorbable. SKIP-with-reason; dedup question already held above.
