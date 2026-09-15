@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-14
 ---
 # Dr. Alex Yang (楊青博士)
 
@@ -33,6 +33,17 @@ last_reviewed: 2026-08-17
 ## Family
 
 _No filled family fields on the TAH profile._
+
+## Role in the Community
+Community service is recorded in his TAH profile itself: President of the [[organizations/taiwanese-american-foundation|Taiwanese American Foundation]] alongside his biotech career. The movement record holds two TAH encyclopedia entries on him ([[works/taiwaneseamericanhistory-org/ota-270|270. Dr. Alex Yang 楊青博士 / 2019-03-18]] and [[works/taiwaneseamericanhistory-org/whos-alexyang|1958. Dr. Alex Yang 楊青博士 / 2017-12-03]]); both are held as bibliographic records only, so no further community detail is absorbable from the corpus.
+
+**Name-collision note:** corpus mentions of 楊青矗 (the novelist and 美麗島 event defendant, e.g. [[works/taiwaneseamericanhistory-org/ourjourneys38|Our Journeys 38]], [[works/taiwaneseamericanhistory-org/ourjourneys357|Our Journeys 357]]) are a different person and must not be merged here. HOLD: an unattributed "Alex Yang" in the acknowledgements of [[works/taiwaneseamerican-org/all-eyes-on-nba-sensation-jeremy-lin|All Eyes on NBA Sensation Jeremy Lin / 2012-02-15]] (a sports enthusiast) — identity unverified, not merged.
+
+## Timeline
+- 2012–present — Founder, President and CEO, Xelay Acumen (strategy & management consulting)
+- 2017-12-03 — TAH encyclopedia Who's Who entry #1958
+- 2019-03-18 — TAH encyclopedia entry #270
+- date unknown — President, Taiwanese American Foundation (per TAH profile)
 
 ## Sources
 - [TAH #270 encyclopedia: 270. Dr. Alex Yang 楊青博士](https://taiwaneseamericanhistory.org/ota-270/)
