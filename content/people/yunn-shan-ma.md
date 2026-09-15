@@ -56,6 +56,7 @@ _No filled family fields on the TAH profile._
 - 語料庫 grep 僅命中上述本人書目紀錄與 works/index，回忆录敘事無可吸收者；本頁人物敘事維持 TAH 原始紀錄。
 - SKIP 複核（deepen-x slice 09142320-2，2026-09-15）：全語料庫 grep（馬韻珊／Yunn-Shan Ma）仍僅命中 #200、#423 書目頁與 works/index，無回憶錄或社群材料可吸收，維持 SKIP。
 - SKIP 複核（deepen-x slice 09150400-28，2026-09-15）：全語料庫重掃（馬韻珊／Yunn-Shan Ma）命中集合不變，僅 [[works/taiwaneseamericanhistory-org/200-yunn-shan-ma-e9-a6-ac-e9-9f-bb-e7-8f-8a-conductor-201505|#200]]、[[works/taiwaneseamericanhistory-org/423-yunn-shan-ma-e9-a6-ac-e9-9f-bb-e7-8f-8a-201505|#423]] 書目頁與 works/index，無回憶錄或社群材料可吸收，維持 SKIP。
+- SKIP 複核（deepen-x slice 09150500-17，2026-09-15）：重掃命中集合不變（#200、#423 書目頁＋works/index），維持 SKIP。
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

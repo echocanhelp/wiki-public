@@ -43,6 +43,8 @@ Tsai is recorded in the TAHS corpus as a human-rights worker (人權工作者) a
 
 HOLD (deepen-x slice 09150400-32, 2026-09-15): the corpus also names a 蔡明**憲** — a 同鄉 mentioned in [[works/taiwaneseamericanhistory-org/our-journeys-392|Our Journeys #392]] (his and 蔡其芳's mother spoke on stage at a 王成章牧師 gathering), and a member of the 1984 南加州台灣同鄉會 blacklist-breaking return delegation ([[works/taiwaneseamericanhistory-org/ourjourneys66|66. 南加州同鄉會組團回台 / 謝清志]]). Different given-name character (憲 vs 殿) and romanization (Ming-Hsien vs Ming Ten); likely a different person, NOT merged here.
 
+复核（deepen-x slice 09150500-17，2026-09-15）：全語料庫重掃（蔡明殿／Ming Ten）命中集合不變——僅上列六則本人署名書目頁與 works/index，無新回憶錄或社群材料可吸收；HOLD（蔡明憲）維持不併入。
+
 Read against the Education table, the corpus traces a single arc: 台大農推系 → Boston University special education → founding a farm in Newton, NJ (written up 1982) → literary output (在海之角 1992, 菜蟲的現代寓言 2015) → human-rights work. The movement treats his writing as movement writing, not a hobby. The era on this page (1945–2014) and the corpus items (1982–2016) raise no conflict.
 
 ## Sources

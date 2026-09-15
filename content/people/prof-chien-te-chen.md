@@ -64,6 +64,9 @@ Re-scan grep -E `Chien-Te Chen|陳建德` over works+articles again returns only
 ## SKIP note (deepen-x pass 2026-09-15, slice 09150400-27)
 Re-scan grep -E `Chien-Te Chen|陳建德` over works+articles: hit set unchanged (own [[works/taiwaneseamericanhistory-org/whos-who-1791-chien-te-chen|TAH #1791]] record + works index only). SKIP-with-reason; nothing absorbable.
 
+## SKIP note (deepen-x pass 2026-09-15, slice 09150500-17)
+Re-scan hit set unchanged (own [[works/taiwaneseamericanhistory-org/whos-who-1791-chien-te-chen|TAH #1791]] record + works index only). SKIP-with-reason; nothing absorbable.
+
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]] — publisher of the Who's Who record
 - [[organizations/taiwanese-american-historical-society||TAHS]]
