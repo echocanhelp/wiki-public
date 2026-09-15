@@ -38,6 +38,12 @@ Accomplishment
 - **Son:** Wilson
 
 
+## Role in the Community
+
+- **Founding the Capital District movement.** At a Christmas 1970 gathering of over ten Taiwanese families, the attendees agreed to form a Taiwanese association — the New York State Capital District Formosan Fellowship. Lee, who had already settled in the Capital District and worked for the state water bureau, was elected its first president, with Chia-min Wang (GE-R&D) as vice-president. By 1971 the club had 20 family members and 5 singles; first-year income was just $58.00 in dues. (HOLD: year of settlement to Capital District — 1967 per [[works/taiwaneseamericanhistory-org/ourjourneys311|Our Journeys #311]] vs 1966 per [[works/taiwaneseamericanhistory-org/our-journeys-391|Our Journeys #391]].)
+- **Institutional building.** The fellowship was re-registered as the New York State Capital District Formosan Club in 1971 and renamed Taiwanese American Association of the Capital District in 1984 ([[organizations/taiwanese-american-association-of-capital-district-new-york|TAA of the Capital District]]). After the failed 501(c)(3) attempts, the board decided in 2003 to create the [[organizations/taiwanese-american-cultural-society-of-the-capital-district|Taiwanese American Cultural Society of the Capital District]] with a $200×36-household founding fund; at its first general meeting in August 2004 Lee was elected the first 會長.
+- **Steward in crisis.** When the association hit "organizational fatigue" in 2002 and could not field a president, Lee and fellow elder Chungchin Chen volunteered to serve as president again in 2003 and 2004, carrying the organization through — per his own memoirs in [[works/taiwaneseamericanhistory-org/ourjourneys311|Our Journeys #311]] and its English edition [[works/taiwaneseamericanhistory-org/ourjourneys311-eng|Our Journeys #311 (EN)]].
+
 ## Sources
 - [TAH #2174 encyclopedia: 2174. William H. Lee 李錫洋](https://taiwaneseamericanhistory.org/whos-who-2174-william-h-lee/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/william-h-lee/)

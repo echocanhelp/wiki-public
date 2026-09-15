@@ -42,6 +42,11 @@ last_reviewed: 2026-09-14
 - **Daughter:** Jasmine
 
 
+## Role in the Community
+
+- **TAH archive footprint.** Jou appears in the TAH Foundation's own record layer three times: profiled in the Who's Who encyclopedia entry #100 on 2014-11-17 ([[works/taiwaneseamericanhistory-org/whos100-dr-emerson-jou|Who's Who #100]]), featured as an On This Archive story #282 on 2019-04-22 ([[works/taiwaneseamericanhistory-org/ota-282|OTA #282]]), and — as a community archivist in his own right — his donated papers are held as TAH private collection #104, catalogued 2021-12-07 ([[works/taiwaneseamericanhistory-org/private-collections-104|Private Collection #104]]).
+- Corpus memoirs (Our Journeys corpus, articles/) carry no narrative passages naming 周明峰 beyond these TAH records; his published books (台灣簡史, 心在台灣, 台美情懷, the pain-management titles, 哈哇意亡國史, 晚霞滿天) remain as recorded in the TAH press-kit block above.
+
 ## Sources
 - [TAH #282 encyclopedia: 282. Dr. Emerson M. F. Jou 周明峰醫師](https://taiwaneseamericanhistory.org/ota-282/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/emerson-m-f-jou/)

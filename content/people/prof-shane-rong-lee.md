@@ -35,6 +35,11 @@ Prof. Shane-Rong Lee 李憲榮教授 – History of Taiwanese American (T.A. Arc
 
 _No filled family fields on the TAH profile._
 
+## Role in the Community
+
+- **Black-list breach, 1989.** As sitting president of the World Taiwanese Association (世台會) and named on the regime's overseas blacklist, Lee smuggled himself back to Taiwan on 1989-08-11, appearing at the association's annual meeting in Kaohsiung together with vice-president 蔡銘祿 and 台獨聯盟 central committee member 蔡正隆, and marching with locals in the demand to abolish the blacklist — recorded in the corpus as 世台會's most impactful on-island action ([[works/taiwaneseamericanhistory-org/ourjourneys230|Our Journeys #230]]).
+- **13th TCA Summer Camp speaker, 1991.** At the Thirteenth Summer Camp of Taiwanese Canadians/Americans (from 1991-07-19, Methodist College, Spartanburg, S.C., hosted by the North Carolina Taiwanese Association, theme "轉變中的台灣"), Lee lectured on the San Francisco Peace Treaty's impact on Taiwan's international status, arguing that Taiwan's sovereignty already resided in all the people of Taiwan ([[works/taiwaneseamericanhistory-org/ourjourneys245|Our Journeys #245]], [[works/taiwaneseamericanhistory-org/our-journeys-379|Our Journeys #379]]).
+
 ## Sources
 - [TAH #1901 encyclopedia: 1901. Prof. Shane-Rong Lee 李憲榮教授](https://taiwaneseamericanhistory.org/whos-who-1901-shane-rong-lee/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-shane-rong-lee/)
