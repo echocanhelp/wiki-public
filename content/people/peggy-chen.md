@@ -67,3 +67,4 @@ _No filled family fields on the TAH profile._
 ## Deepen pass (2026-09-14)
 - 補上 vault 既存專頁 TAH #17（洛杉磯福爾摩沙聖樂團，本人任助理指揮，事實已在本頁 tah-tables）。
 - 東京高田馬場長老教會、洛杉磯福爾摩沙聖樂團（助理指揮）、東海大學、武蔵野音樂大學目前無 vault 頁面，僅保留文字事實，未加連結。
+- 語料庫檢索（slice 09141300-25）：命中僅已連結之 [[works/taiwaneseamericanhistory-org/86-peggy-chen-e5-bc-b5-e4-bd-a9-e4-bb-99|TAH #86]]、[[works/taiwaneseamericanhistory-org/77-peggy-chen-e5-bc-b5-e4-bd-a9-e4-bb-99-soprano-vocalist|TAH #77]]，皆 B 級書目紀錄、無正文 → SKIP-with-reason（無可吸收新事實）。

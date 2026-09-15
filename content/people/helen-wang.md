@@ -32,7 +32,7 @@ Accomplishment
 
 ## Family
 
-- **Husband:** [[people/k-d-wang||王康德]]
+- **Husband:** [[people/k-d-wang||王康德]] — 本人亦有 TAH 百科條目：[[works/taiwaneseamericanhistory-org/whos-who-1726-k-d-wang||TAH #1726 K. D. Wang 王康德]]（2017-07-02 與本人 #1728 同日發布）
 
 ## NATWA 會長任內（absorbed from [[works/taiwaneseamericanhistory-org/ourjourneys60||咱的故事—NATWA的歷史]], 2014-11-09）
 - 第五屆會長方惠音於 **1992 年 7 月**打破黑名單組團回臺參觀訪問，並在年會公開討論「婦女與政治」，突破婦女不關心政治的傳統。

@@ -42,6 +42,15 @@ _No filled family fields on the TAH profile._
 - M.S. Music, San Francisco Conservatory
 - Teaching, Biola University
 
+## Role in the Community
+Corpus-absorbed (deepen-x slice 28, 2026-09-14) from 鍾澄文's column [[articles/taiwanjustice-net/2021/20210119001936_2020_10_17_週末漫談音樂37_異想天開的游泳池音樂會-_信_e9c589e34b8229d2|週末漫談音樂37：異想天開的游泳池音樂會 (twjustice 2021-01)]]:
+
+- During the COVID-19 quarantine she conducted [[organizations/taiwan-center-choir||台灣會館合唱團 (Taiwan Center Choir)]] — a group member of [[organizations/taiwan-center||大洛杉磯台灣會館]] — in producing its Virtual Choir video 「熱情的沙漠 2020 Quarantine Edition」, with members singing from home; the column praises the result as 相當好聽 and notes the choir members are familiar 同鄉.
+- HOLD: role labels conflict across the vault's own TAH entries for this slug — #169 titles her "Conductor", #30 "Soprano", while the Who's Who bio here describes a pianist/chamber musician. Never auto-merged; treat as pending reconciliation.
+
+## Vault records（deepen pass 2026-09-14）
+- New corpus link from this pass: 2020 Virtual Choir 指揮 activity in the taiwanjustice article above (first third-party community mention beyond her own TAH pages).
+
 ## Sources
 - [TAH #1094 encyclopedia: 1094. Hui-Ju Chen 陳慧如 / 2016/06](https://taiwaneseamericanhistory.org/whoswho1094/)
 - [TAH #338 encyclopedia: 338. Rose Chen 陳慧如 / 2015/03](https://taiwaneseamericanhistory.org/338-rose-chen-%e9%99%b3%e6%85%a7%e5%a6%82-201503/)

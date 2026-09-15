@@ -56,3 +56,7 @@ Clinical career in South Florida: after posts at the University of Iowa and the 
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - Vault records of the cited entries: [[works/taiwaneseamericanhistory-org/ota-279||TAH #279 encyclopedia]]（2019-04-22 刊）, [[works/taiwaneseamericanhistory-org/whos-who-1299-ming-lon-young||Who's Who #1299]]（2016-10-02 刊）, [[works/taiwaneseamericanhistory-org/80-collection-of-dr-ming-lon-young||TAH #80 collection]]（楊明倫教授的收藏, 2019-04-12 刊）
 - Graduate alma mater's Taiwanese student community: [[organizations/johns-hopkins-university-taiwanese-student-association||Johns Hopkins University Taiwanese Student Association]] (JHU was his M.S. institution; membership not asserted by the TAH profile).
+
+## Deepen pass (2026-09-14, slice 09141300-25)
+- 語料庫檢索（content/works、content/articles）：命中僅本人相關三條 —— [[works/taiwaneseamericanhistory-org/ota-279|TAH #279]]、[[works/taiwaneseamericanhistory-org/whos-who-1299-ming-lon-young|TAH #1299]]、[[works/taiwaneseamericanhistory-org/80-collection-of-dr-ming-lon-young|TAH #80 楊明倫教授的收藏]]，皆為 B 級書目紀錄（全文留存原庫），本頁已全數連結。
+- SKIP-with-reason：vault 語料無正文可吸收，無新社區事實；未新增外部事實，未建新頁。
