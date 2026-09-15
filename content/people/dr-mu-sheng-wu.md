@@ -68,3 +68,4 @@ Accomplishment
 ## Deepen pass (2026-09-14)
 - TAA 會長（1974–1976）、Austin 會相關事實均出自既有 TAH 書目記錄（#14／#36／#44／#74／收藏頁），全文仍在 TAH；vault 無可再補傳記事實。
 - 家庭欄（妻 洪文治、子女 Jean／Jennifer／Ben）依 TAH 原文維持，vault 內無對應頁面。
+- Corpus re-check (slice 09142319-9, 2026-09-15): grep of works/ + articles/ returns only pages already wikilinked above (#45/#26/#27/#76/#1099/#392); no new absorbable facts.

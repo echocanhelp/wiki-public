@@ -61,3 +61,4 @@ Absorbed from this page's TAH encyclopedia entries (#366, #151) and the TAH tabl
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - 本頁傳記之 vault 內出處頁：[[works/taiwaneseamericanhistory-org/366-hwa-chow-oliver-hsu-e8-a8-b1-e8-8f-af-e6-b4-b2201504||TAH #366（2015/04）]]、[[works/taiwaneseamericanhistory-org/151-hwa-chow-oliver-hsu-e8-a8-b1-e8-8f-af-e6-b4-b2201502||TAH #151 大提琴家（2015/02）]]
+- Corpus re-check (slice 09142319-9, 2026-09-15): hits remain own TAH entries #366/#151, index lines, and the Hsu-Nami album page already absorbed — SKIP-with-reason, no new community facts.

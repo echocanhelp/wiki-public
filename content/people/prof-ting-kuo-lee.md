@@ -64,3 +64,4 @@ _No filled family fields on the TAH profile._
 - 學士母校的校友社團：[[works/taiwaneseamericanhistory-org/sd-ntu||SD-NTU]]（台大校友社团，台大為其物理學士母校；社團 membership 未被 TAH 傳記斷言）
 - 出處頁：[[works/taiwaneseamericanhistory-org/whos-who-1789-ting-kuo-lee||TAH #1789]]（2017-07-27 發布、value band B、all-rights；傳記全文留 vault 出處）
 - 職涯軌跡以 TAH #1789 表欄為準：弗吉尼亞理工（1982–1997）→ 清華大學兼任（2001–）→ 國家奈米科技計畫共同執行長（2004–2006）→ 中央研究院（2007–2018）→ 中山大學講座教授（2019–）。
+- Corpus re-check (slice 09142319-9, 2026-09-15): only #1789 own entry, index line, and the 印城同鄉會 name-collision memoir (already held). No new absorbable facts.
