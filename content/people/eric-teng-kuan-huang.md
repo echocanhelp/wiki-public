@@ -59,3 +59,7 @@ _No filled family fields on the TAH profile._
 - 本页所载伴奏／钢琴服务对应之 Vault 页：[[works/taiwaneseamericanhistory-org/taiwanese-presbyterian-church-of-washington||Washington 台美人长老教会记录页]]、[[works/taiwaneseamericanhistory-org/1-the-greater-washington-taiwanese-american-chorus-e8-8f-af-e5-ba-9c-e5-8f-b0-e7||TAH #1 The Greater Washington Taiwanese-American Chorus (GWTAC)]]。
 - publisher／語料庫：[[sources/taiwaneseamericanhistory-org-story-corpus||TAH story corpus]]。
 - deepen-x 09142319-23（覆核）：語料再檢僅命中本人書目頁 [[works/taiwaneseamericanhistory-org/eric-teng-kuan-huang-pianist|#405]]、[[works/taiwaneseamericanhistory-org/music398|#398]]、[[works/taiwaneseamericanhistory-org/whoswho1637|#1637 黃勝寬（HOLD 見上）]] 及索引頁 — 無可吸收之回憶錄/社群材料，SKIP。
+
+## Corpus re-check (slice deepen-x-09150316-16, 2026-09-15)
+
+語料重掃：命中僅本人書目頁 #405/#398、漢名異寫頁 #1637（HOLD 見上）與 works/index。memoir 語料無新事實——SKIP。

@@ -74,3 +74,7 @@ Re-read the on-page TAH Employment/Education tables and the cited #1797 vault wo
 ## Corpus re-check (slice 09141400-7, 2026-09-14)
 
 Grep of works/ + articles/ returns only his two already-linked vault work pages (TAH #1797, Rossby/Revelle medals #44) and the works/index.md bibliographic lines. No memoir or newsletter narrative mentions him. SKIP: no new absorbable corpus material.
+
+## Corpus re-check (slice deepen-x-09150316-16, 2026-09-15)
+
+全語料重掃（works/ + articles/）：命中僅已連結之本人書目頁 TAH #1797、勳章頁 #44（Rossby/Revelle）與 works/index。回憶錄語料無新事實——SKIP，無可吸收內容。

@@ -67,3 +67,5 @@ _No filled family fields on the TAH profile._
 - No vault pages exist yet for University of South Carolina at Columbia, Northwestern University, Columbia International University, Georgia Perimeter College, or the Saint-Petersburg Conservatory Piano Institute.
 - Slice 09141400-13 複核（2026-09-14）：corpus grep（content/works、content/articles）僅命中本人两条 TAH 書目記錄（#274、#545，均已連結於上）與 works/index；memoir 語料無新事實，本輪 SKIP——無可吸收內容。
 - Slice 09142319-16 語料複核 (2026-09-15): grep (works+articles) 僅命中本人兩則 TAH 書目記錄 (#274、#545, 已連結於上) 與 works index; memoir 語料無新事實——SKIP。
+
+- Slice 09150316-16 語料複核 (2026-09-15): grep (works+articles) 命中僅本人兩則 TAH 書目記錄 (#274、#545, 已連結) 與 works index；memoir 語料無新事實——SKIP。
