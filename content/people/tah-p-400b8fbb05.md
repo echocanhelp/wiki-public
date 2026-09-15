@@ -62,3 +62,4 @@ _No filled family fields on the TAH profile._
 - Slice 09142319-16 (2026-09-15): 語料重掃僅命中本人 #269、#540 兩則百科條目（已列於 Vault Holdings）及索引頁；無可吸收新事實——SKIP。
 
 - Slice 09150316-19（2026-09-15）：語料重掃僅命中 #269、#540 兩則百科條目及索引頁；無可吸收新事實——SKIP-with-reason。
+- Slice 09150400-18（2026-09-15）：語料重掃（施彥伃／Yan-Yu Shih）僅命中本人 #269、#540 兩則百科條目與 works index；無可吸收新事實——SKIP-with-reason。

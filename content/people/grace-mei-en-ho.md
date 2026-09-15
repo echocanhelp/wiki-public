@@ -62,4 +62,5 @@ _No filled family fields on the TAH profile._
 - 本頁已收錄全部 TAH 出處（#415、#1758），學經歷即出自該兩則記錄，無另行可吸收之社群事實。
 - （slice 09141400-12 複核，2026-09-14）SKIP-with-reason：grep 何美恩/Grace Mei-En Ho 於 works+articles 僅命中本身兩則出處頁（#415、#1758）與 works index；無可吸收之新社群事實，無衝突須 HOLD。（slice 09142319-15 再複核 2026-09-15：結果相同，僅 works index。）
 - （slice 09150316-23 再複核 2026-09-15）SKIP-with-reason：重掃結果相同，命中僅本人 #415、#1758 書目頁與 works index；無可吸收之社群事實。
+- （slice 09150400-18 再複核 2026-09-15）SKIP-with-reason：重掃（何美恩／Grace Mei-En Ho／Grace Ho）命中僅本人 #415、#1758 書目頁與 works index；無可吸收之社群事實。
 - 語料庫「Grace」命中均為同名撞擊，非本人：ourjourneys60/74/306 之 Grace 為 Grace Wu Chou（周Grace，Cleveland 台美人協會會長、NATWA 負責人，見 [[works/taiwaneseamericanhistory-org/ourjourneys60-eng|ourjourneys60]] 等）；[[works/taiwaneseamericanhistory-org/grace-taiwan-presbyterian-church-in-houston|Grace 休士頓恩惠台灣基督長老教會]] 之 Grace 為教會名。均不主張連結。
