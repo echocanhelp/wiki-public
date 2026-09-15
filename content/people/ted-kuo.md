@@ -45,7 +45,7 @@ last_reviewed: 2026-09-15
 ## Role in the Community
 - 台灣筆會 (Pen Club) 永久會員。筆會十週年回顧記載：他是筆會會員中對學問研究最深者之一，四十年鑽研「印歐語系字根」，研究成果已上網於 www.rootopedia.com 供大眾使用 — see [[works/taiwaneseamericanhistory-org/ourjourneys12|TAHS Our Journeys #12]].
 - 楊遠薰撰文介紹其英文語源百科大辭典：[[works/taiwaneseamericanhistory-org/mystories75|TAH mystories #75 郭來哲博士的英文語源百科大辭典 / 楊遠薰]]。
-- 陳希寬回憶（[[works/taiwaneseamericanhistory-org/ourjourneys17|Our Journeys #17 紐澤西的將軍日本餐廳]]）：1983-84 年籌設紐澤西 Green Brook「將軍」日本餐廳時，郭來哲極力鼓勵陳希寬提高價格買下店面，是該餐廳創辦過程的關鍵推手。
+- 陳希寬回憶（[[works/taiwaneseamericanhistory-org/ourjourneys17|Our Journeys #17 紐澤西的將軍日本餐廳]]）：1983-84 年籌設紐澤西 Green Brook「將軍」日本餐廳時，郭來哲極力鼓勵陳希寬提高價格買下店面，是該餐廳創辦過程的關鍵推手。據原文細載：該店面（時價四十萬美元，含三千平方呎建築、酒牌、生意及一英畝土地）另有胡先生競購，陳希寬猶豫之際郭來哲極力鼓勵，最終以稍高價格、增加頭款买下。
 - 名录紀錄：[[works/taiwaneseamericanhistory-org/ourjourneys58|Our Journeys #58《全美台灣同鄉通訊錄》]]列郭來哲於紐澤西（New Jersey）編輯名單。
 - 本人執筆之故事記錄亦典藏於 vault：[[works/taiwaneseamericanhistory-org/8-chu-jen-yih-e6-9c-b1-e7-9c-9f-e4-b8-80|TAH 故事 #8「Ted Kuo 郭來哲」（2015/05，記錄日期 2014-10-04）]]。
 
@@ -57,6 +57,7 @@ last_reviewed: 2026-09-15
 - Vault records about them: [[works/taiwaneseamericanhistory-org/ourjourneys17|17. 紐澤西的將軍日本餐廳 / 李正三 /09/2014]] · [[works/taiwaneseamericanhistory-org/ourjourneys58|58.回憶編印第一本《全美台灣同鄉通訊錄》的甘苦經過 / 陳希寬]]
 - （2026-09-14 二次 deepen pass：先前移除的 mystories75、ourjourneys12 連結經核實 slug 確實存在，已改列於上方 Role in the Community。）
 - （deepen-x slice 09150400-27 覆核 2026-09-15：重抓 works+articles，命中集合與既往各 pass 相同（ourjourneys12/17/58、mystories75、故事 #8、#272 記錄頁），全部已吸收並連結於上方，無新材料。）
+- （deepen-x slice 09150500-19 覆核 2026-09-15：重抓 works+articles，命中集合與既往各 pass 相同（ourjourneys12/17/58、mystories75、故事 #8、#272 記錄頁），全部已吸收並連結於上方；本次僅自 #17 原文補入店面競購與價額細節，無新材料。）
 - 語料庫入口：[[sources/taiwaneseamericanhistory-org-story-corpus||TAH 故事語料庫]]。
 - Main encyclopedia record: [[works/taiwaneseamericanhistory-org/272-e5-8f-b0-e7-81-a3-e4-ba-ba-e7-9a-84-e7-bf-b9-e6-a5-9a-e9-83-ad-e4-be-86-e5-9|TAH #272 台灣人的翹楚—郭來哲博士、楊涵珺伉儷 / 李素鳳]]
 

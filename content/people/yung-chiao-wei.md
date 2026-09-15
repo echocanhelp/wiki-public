@@ -53,10 +53,7 @@ _No filled family fields on the TAH profile._
 - [[works/taiwaneseamericanhistory-org/198-yung-chiao-wei-e9-ad-8f-e8-a9-a0-e8-95-8e-bassist-201505|TAH #198 encyclopedia]] — Yung-Chiao Wei 魏詠蕎, Bassist（2015-05 刊）
 - [[works/taiwaneseamericanhistory-org/422-yung-chiao-wei-e9-ad-8f-e8-a9-a0-e8-95-8e-201505|TAH #422 encyclopedia]] — Yung-Chiao Wei 魏詠蕎（2015-05 刊）
 - deepen pass 2026-09-14：兩條百科條目（#198 註記 Bassist、#422）均已入 vault；經文中點名的 Gary Karr、Eugene Levinson 屬外部音樂家、vault 暫無頁面，不新建；現任路易斯安納州立大學音樂系低音提琴教授一節以 #422 條目為準。
-- SKIP（deepen-x slice 09141213-23）：語料庫檢索僅命中本人書目記錄 TAH #198、#422（皆為書目頁、無內文），無可吸收之社群/回憶錄材料；現有事實屬press-kit性質但 vault 內無社群材料可校對。
-- SKIP 複核（deepen-x slice 09141500-9，2026-09-14）：再次全語料庫 grep（魏詠蕎／Yung-Chiao Wei）仍僅命中上述兩條自家書目頁與作品索引，無回憶錄或運動史料可吸收，維持 SKIP。
-- SKIP 三度複核（deepen-x slice 09142320-2，2026-09-15）：全語料庫 grep 僅命中 #198、#422 書目頁與 works/index，社群/回憶錄材料零命中，維持 SKIP。
-- SKIP 四度複核（deepen-x slice 09150400-29，2026-09-15）：全語料庫 grep 復核仍僅命中 #198、#422 書目頁與 works/index，無回憶錄／社群材料可吸收，維持 SKIP。
+- SKIP 歷次複核（deepen-x slices 09141213-23、09141500-9、09142320-2、09150400-29、09150500-20，2026-09-14/15）：全語料庫歷次 grep（魏詠蕎／Yung-Chiao Wei）命中集合不變，僅命中 #198、#422 書目頁與 works/index，社群/回憶錄材料零命中，維持 SKIP。
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

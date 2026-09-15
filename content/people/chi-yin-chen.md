@@ -55,11 +55,5 @@ _No filled family fields on the TAH profile._
 - 校友社團頁（约翰霍普金斯）：[[organizations/johns-hopkins-university-taiwanese-student-association||JHU 台灣學生會]]（僅同校線索，非本人直接紀錄）。
 - 語料庫入口：[[sources/taiwaneseamericanhistory-org-story-corpus||TAH 故事語料庫]]。
 
-## Deepen-x re-check (slice 09142320-6, 2026-09-15)
-- SKIP-with-reason: re-grep (works/articles) again hits only the two band-B bibliographic records already linked above plus the works index — no memoir material beyond the Who's Who tables on this page.
-
-## Deepen-x re-check (slice 09150400-29, 2026-09-15)
-- SKIP-with-reason: corpus grep (works/articles) hit set unchanged — only the two band-B bibliographic records already linked above plus the works index; no memoir/community material to absorb.
-
-## Deepen-x re-check (slice 09141300-30, 2026-09-14)
-- SKIP-with-reason: corpus grep (works/articles) hits only the two band-B bibliographic records already linked above（[[works/taiwaneseamericanhistory-org/225-chi-yin-chen-violinist-201506||TAH #225]]、[[works/taiwaneseamericanhistory-org/465-chi-yin-chen-201506||TAH #465]]）plus the works index — no memoir/正文 material to absorb beyond the Who's Who tables already on this page.
+## Deepen-x re-check (slices 09141300-30, 09142320-6, 09150400-29, 09150500-20; 2026-09-14/15)
+- SKIP-with-reason: repeated corpus greps (works/articles) hit set unchanged — only the two band-B bibliographic records already linked above（[[works/taiwaneseamericanhistory-org/225-chi-yin-chen-violinist-201506||TAH #225]]、[[works/taiwaneseamericanhistory-org/465-chi-yin-chen-201506||TAH #465]]）plus the works index; no memoir/community material to absorb beyond the Who's Who tables already on this page.
