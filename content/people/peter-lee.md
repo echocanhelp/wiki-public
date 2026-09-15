@@ -53,6 +53,9 @@ _No filled family fields on the TAH profile._
 - [TAH #213 encyclopedia: 213. Peter Lee李文智, Countertenor / 2015/06](https://taiwaneseamericanhistory.org/213-2/)
 - [TAH Who's Who](https://taiwaneseamericanhistory.org/person/peter-lee/)
 
+## Vault note (deepen-x 2026-09-14)
+Corpus grep (works/articles) hit only this page's own TAH record pages #445 / #213 (already wikilinked below) and index entries — no memoir/community material to absorb. SKIP this pass.
+
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

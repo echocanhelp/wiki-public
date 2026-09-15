@@ -38,6 +38,12 @@ Accomplishment
 - **Son:** [[people/eric-cheng||Eric 鄭晧]]
 
 
+## Role in the Community（deepen-x 2026-09-14，自本會史料吸収）
+- 台美基金會聖地牙哥分會（TAHF-SD）／台灣中心：與妻賴淑卿一同由董事推選加入董事陣容，二人有長年共同創業合作經驗（[[works/taiwaneseamericanhistory-org/ourjourneys26|Our Journeys #26]]、英文版 [[works/taiwaneseamericanhistory-org/ourjourneys26-eng|#26-eng]]、TAH [[works/taiwaneseamericanhistory-org/mystories300|#300]])
+- 在任期間主導修改組織章程：董事名額增至三十人、任期二年改三年、取消隔年再連任限制，並將募款責任（每位董事每年 $3,000–5,000）直接分派予董事，以支撐台灣中心每年十萬元以上固定經常支出
+- 逝後追思：其女王溫蒂（Wendy Cheng）撰 [[works/taiwaneseamericanhistory-org/mystories300|TAH #300 In memory of Dr. Edward Cheng（2015/07）]]；陳正茂撰 [[works/taiwaneseamericanhistory-org/299-e8-bf-bd-e6-80-9d-e9-84-ad-e5-be-b7-e5-be-b7-e6-98-8c-e5-85-84-e9-99-b3-e6-ad-a3-e8-8|TAH #299 追思鄭德昌兄（陳正茂，2015/07）]] — 兩篇追思文發布於 2015-07，據此推定歿於 2015 年（HOLD: 確切歿日未見於史料，不臆造）
+- 另有随笔 [[works/taiwaneseamericanhistory-org/110-e7-b6-a0-e8-89-b2-e7-9e-ac-e9-96-93-e6-96-b0-e6-98-8c-e9-84-ad-e5-be-b7-e6-9|TAH #110 綠色瞬間 – 新昌（鄭德昌）（2005.02）]]
+
 ## Sources
 - [TAH #180 encyclopedia: 180. Dr. Edward Cheng 鄭德昌博士](https://taiwaneseamericanhistory.org/180-dr-edward-cheng/)
 - [TAH #347 encyclopedia: 347. Dr. Edward Cheng 鄭德昌博士](https://taiwaneseamericanhistory.org/whos-who-347-edward-cheng/)

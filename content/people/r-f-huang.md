@@ -40,6 +40,11 @@ last_reviewed: 2026-09-14
 ## Family
 - **Mother:** 柯明珠 — 三十年代留日聲樂家 (per TAH #409 biography above)
 
+## Role in the Community（deepen-x 2026-09-14，自本會史料吸収）
+- 和平教會契友network：Our Journeys #268（自述第一屆夏令會籌備史）記載，為動員參加夏令會而利用和平契友聯絡網，紐約地區主要聯絡員為許登龍，黃瑞鳳名列紐約地區聯絡員之一 — [[works/taiwaneseamericanhistory-org/ourjourneys268|Our Journeys #268]]
+- 同文「為了寫這一篇文章」名單中作「黃瑞鳳（許登龍）」，显示其與許登龍家族之連結（隨夫姓稱呼，未自動併入姓名欄）
+- 以上為本會回憶錄所載社區組織角色，與上方 TAH 傳記（合唱/指揮生涯）互補不衝突
+
 ## Sources
 - [TAH #409 encyclopedia: 409. R. F. Huang許黃瑞鳳, conductor / 07/2017](https://taiwaneseamericanhistory.org/musician409/)
 - [TAH #1710 encyclopedia: 1710.  R. F. Huang 許黃瑞鳳 / 07/2017](https://taiwaneseamericanhistory.org/whoswho1710/)

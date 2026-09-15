@@ -52,7 +52,7 @@ _No filled family fields on the TAH profile._
 - 本頁所引 TAH 百科原文已入庫：[[works/taiwaneseamericanhistory-org/323-mavis-hsieh-e8-ac-9d-e5-ad-9f-e6-bd-94||TAH #323（2015/03）]] 及
   [[works/taiwaneseamericanhistory-org/166-mavis-hsieh-e8-ac-9d-e5-ad-9f-e6-bd-94-soprano||TAH #166（2015/03，Soprano）]]；
   上表時序內容均出自該兩則記錄，無另行補充之新傳記事實。
-- **SKIP-with-reason（deepen-x slice 09141300-27）**：corpus grep（`content/works`、`content/articles`）僅命中本人兩則 TAH 百科頁與 works index，無其他回忆錄／報導提及，無可吸收之新社群事實。
+- **SKIP-with-reason（deepen-x slice 09141300-27）**：corpus grep（`content/works`、`content/articles`）僅命中本人兩則 TAH 百科頁與 works index，無其他回憶錄／報導提及，無可吸收之新社群事實。
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

@@ -53,5 +53,6 @@ in Rowland Heights and directs/acompanies at 恩惠台灣基督長老敎會 — 
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 ## Vault records（deepen pass 2026-09-14）
+- **SKIP-with-reason（deepen-x slice 09141300-27）**：corpus grep（`content/works`、`content/articles`）僅命中本人兩則 TAH 百科頁與 works index，無其他回憶錄／報導提及，無可吸收之新社群事實；页上 2026-09-10 脈絡段已涵蓋現有脈絡。
 - 本頁 TAH 出處之 Vault 頁面：[[works/taiwaneseamericanhistory-org/whoswho1117||TAH 1117. Melinda Tang 陳方俐 / 2016/06]]、[[works/taiwaneseamericanhistory-org/musician85||TAH 85. Melinda Tang 陳方俐, Pianist / 2014/12]]。
 - 西北大學音樂學院時期（B.M. 1991 / M.M. 1993）的校園台美人圈子：[[organizations/taiwanese-american-students-association-of-northwestern-university||TASA at Northwestern]]；聖樂服事所屬長老教會傳統：[[organizations/presbyterian-church-in-taiwan||台灣基督長老教會]]。
