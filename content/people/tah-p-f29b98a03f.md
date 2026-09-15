@@ -64,3 +64,4 @@ _No filled family fields on the TAH profile._
 - **SKIP 2026-09-15 (slice 09142320-12):** third corpus re-grep (杜宛珊 / Wan-Shan Du) returned only her own records [[works/taiwaneseamericanhistory-org/253-e6-9d-9c-e5-ae-9b-e7-8f-8a-ef-bc-8cpianist-201508|TAH #253]], [[works/taiwaneseamericanhistory-org/522-e6-9d-9c-e5-ae-9b-e7-8f-8a-201508|TAH #522]] and the works index — no memoir mentions; nothing further absorbable.
 
 - SKIP 確認（slice 09150500-24, 2026-09-15）：復檢 works/ + articles/，命中僅本人自有 TAH 書目頁與 index 目錄列項，無回憶錄/社群第一手材料可吸收；無新增連結。
+- SKIP 確認（slice 09150600-13, 2026-09-15）：第四次復檢（杜宛珊／Wan-Shan Du），命中集合不變——僅 #253、#522 自有書目頁與 works/index；維持 SKIP。
