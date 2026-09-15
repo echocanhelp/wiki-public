@@ -40,3 +40,6 @@ The North America Pastel Artists Association (NAPAA) was founded in 1997 in New 
 - [[works/taiwaneseamericanhistory-org/237-e8-87-ba-e7-81-a3-e6-9c-83-e9-a4-a8-e9-a6-96-e5-b1-86-e5-9c-8b-e9-9a-9b-e7-b||TAH #237〈臺灣會館首屆國際粉彩畫展／台美人第一次的國際粉彩畫展〉（活動 2005/05，2016-02-10 發布）]]：即本頁所載 2005 年台灣會館首屆國際粉彩公開徵選畫展之會內記錄（「台美人第一次的國際粉彩畫展」），與 [[works/taiwaneseamericanhistory-org/taiwan-center-annual-international-pastel-open-juried-exhibition||Taiwan Center 國際粉彩展記錄]] 互為印证。
 - 創辦人教學著作 [[works/taiwaneseamericanhistory-org/publications390||TAH publications390〈粉彩畫技法入門及作品欣賞〉（張哲雄，2009/06）]]：呼應本頁所載協會於 Flushing 開設粉彩課程之推廣工作。
 - 無衝突事項（無需 HOLD）。
+
+## Corpus cross-check（deepen-x slice 3, 2026-09-14）
+- SKIP：本輪語料庫檢索（北美粉彩畫家協會／North America Pastel）命中僅本頁已連結之書目級記錄 — [[works/taiwaneseamericanhistory-org/north-america-pastel-artist-association||TAH #42 協會簡介頁]]、[[works/taiwaneseamericanhistory-org/3-north-america-pastel-artist-association-exhibitions||TAH #3 NAPAA 聯展]]（及 works/index 目錄頁），無可另吸收之新素材。

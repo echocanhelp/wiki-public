@@ -44,6 +44,8 @@ last_reviewed: 2026-09-14
 - Dean of 精神流行病及精神遺傳研究所, 哈佛大學
 - 1980 — 創會會長 of 台美協進會 (per TAH #161)
 - Present — University of California 總校教授 (University Professor) and Behavioral Genomics Endowed Chair; 所長, 行為基因體研究所, UC San Diego
+- （年份不詳）— 推动哈佛大學台灣語文計畫成立；參與促成 UCSD Chuan Lyu 台灣研究講座設立（per TAH #384）
+- 2022-10-10 — 夫人（語料庫記為 Snow）過世（per TAH #384；HOLD: 與「柯惠香」姓名對應無內證）
 
 ## Family
 
@@ -78,6 +80,8 @@ last_reviewed: 2026-09-14
 - TAF 創會會長（1980–1982，時任職 Iowa）：會友回憶 [[works/taiwaneseamericanhistory-org/our-journeys-377|TAH #377 回憶一九八一年TAF青少年夏令營]]（2021-10）載第一任 TAF 會長為 Iowa 州的莊明哲醫師教授，並與張信義醫師共同授課於 1981 年青少年夏令營——與本頁既有「1980 創會會長（per TAH #161）」記載相互印证，無衝突。
 - UCSD 台灣研究中心：[[works/taiwaneseamericanhistory-org/our-journeys-386|TAH #386 UCSD獲500萬成立台灣研究中心]]（2023-05）載其任該中心諮詢委員會**聯席主席**（主席為生物工程教授錢煦）。
 - 傳記文稿：楊遠薰撰 [[works/taiwaneseamericanhistory-org/mystories81|TAH #81 奇異恩典－精神遺傳學大師莊明哲教授的奇妙歷程]]（2014）为其專文。
+- UCSD Taiwan Studies Center 創所支持圈：[[works/taiwaneseamericanhistory-org/our-journeys-384|TAH #384 UCSD台灣研究中心主任年終信]]（2022-12-23 刊，band A）載其與夫人 Snow 對台灣相關活動貢獻良多，且其為推动哈佛大學**台灣語文計畫（Taiwanese Language Program）**成立之關鍵人物，後又參與促成 UCSD **Chuan Lyu 台灣研究講座（Endowed Chair in Taiwan Studies）**之設立；同文另載 Snow 於 2022-10-10 安詳過世。
+- HOLD：本輪語料（#384）夫人僅記英文名「Snow」，與本頁及子頁所載「柯惠香」之對應尚無語料庫內證，不逕行認定為同一姓名，不合併。
 
 ## Vault note (deepen-x 2026-09-14)
 本輪僅自 vault 既有頁面吸收：兒子頁 [[people/dr-john-tsuang]]  reciprocity 補入 Family；未新增外部傳記。

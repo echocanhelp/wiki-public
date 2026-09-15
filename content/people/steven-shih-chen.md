@@ -53,6 +53,9 @@ His TAH profiles are catalogued as [[works/taiwaneseamericanhistory-org/whos-who
 - 2018 — 取得國家發展委員會核發的**第一張「就業金卡」**（含工作許可、居留簽證、外僑居留證、重入國許可），自矽谷遷居回台，蔚為話題：[[works/taiwaneseamericanhistory-org/our-journeys-361|Our Journeys #361：人親土親，60歲以上矽谷台裔科技人回台工作意願高（馮昭，2020/11）]]（原文明確稱「Youtube創辦人之一陳士駿」，與本頁身分相符）
 - 2024-06 — TAH 故事語料庫條目〈直球對決台灣議題 喜劇演員陳士駿：我故鄉我驕傲〉：[[works/taiwaneseamericanhistory-org/my-stories-906|My Stories #906（2024-06-27）]]；另見 [[articles/taiwanjustice-net/2025/20250328065436_tag_台灣議題_b525a00db93a00f0|台灣正義網「台灣議題」tag 頁（2025-03）]] 轉載同標題。HOLD: 「喜劇演員」頭銜與本頁工程師／企業家身分未獲語料庫內證相符，可能為同名他人，不合併。
 
+## Corpus cross-check（deepen-x slice 3, 2026-09-14）
+- SKIP：本輪語料庫檢索（陳士駿／Steven Shih Chen）命中 — [[works/taiwaneseamericanhistory-org/ota-237||TAH #237]]、[[works/taiwaneseamericanhistory-org/whos-who-178-steven-shih-chen||TAH #178]]、[[works/taiwaneseamericanhistory-org/our-journeys-361||Our Journeys #361]]、[[works/taiwaneseamericanhistory-org/my-stories-906||My Stories #906]] 及台灣正義網 tag 頁 — 均為本頁 Vault records／Role in the Community 已收連結，無新素材可吸收；既有 HOLD（喜劇演員陳士駿）維持。
+
 ## Sources
 - [TAH #237 encyclopedia: 237. Steven Shih Chen 陳士駿](https://taiwaneseamericanhistory.org/ota-237/)
 - [TAH #178 encyclopedia: 178. Steven Shih Chen 陳士駿](https://taiwaneseamericanhistory.org/whos-who-178-steven-shih-chen/)

@@ -61,3 +61,4 @@ last_reviewed: 2026-09-14
 ## Corpus re-check (slice 09141213-3, 2026-09-14)
 
 - Vault-wide grep (works/ + articles/) returns only this subject's own TAH entry work pages (#10, #13, #1561 — band-B bibliographic stubs, already linked above) and the already-linked Plains Region Fall Camp record; the index.md hit is adjacency noise. No memoir or newsletter narrative adds facts beyond the current page. Nothing new absorbable this pass; biography unchanged.
+- Corpus re-check (slice 09141400-7, 2026-09-14): grep of works/ + articles/ again hits only his own TAH #13/#1561 work pages and the index.md bibliographic lines — all already linked. SKIP: no new absorbable corpus material.

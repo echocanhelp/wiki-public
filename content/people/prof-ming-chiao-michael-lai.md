@@ -44,7 +44,8 @@ Absorbed from vault pages already held for him (no web):
 - [[works/taiwaneseamericanhistory-org/mystories321||TAH #321: 台美人的榮耀（Pride of Taiwanese American）：賴明詔校長 / 林秀美 / 2015-08]] — feature on his NCKU presidency.
 - [[works/taiwaneseamericanhistory-org/mystories561||TAH #561: 鶼鰈琴深 賴明詔與妻結音緣 / 黃以敬 / 2017-07]] — story of how he and his wife 翁惠瑛 shared a musical bond.
 - [[works/taiwaneseamericanhistory-org/ourjourneys291||TAH #291 (Our Journeys)]] describes him as a coronavirus researcher (冠狀濾過性病毒專家), Academia Sinica academician (中研院院士), and NCKU president.
-- [[works/taiwaneseamericanhistory-org/ourjourneys186||TAH #186]] lists him among the advisors (顧問) of the 台美公民協會籌備委員會 (台灣公論報 #369, 1985-04-15).
+- [[works/taiwaneseamericanhistory-org/ourjourneys186||TAH #186]] lists him among the advisors (顧問) of the 台美公民協會籌備委員會 (台灣公論報 #369, 1985-04-15)；同一記錄之英文姊妹檔見 [[works/taiwaneseamericanhistory-org/ourjourneys186-eng||TAH #186-eng]]（deepen-x slice 3, 2026-09-14 補連結）。
+- Corpus cross-check（deepen-x slice 3, 2026-09-14）：本輪檢索命中（mystories561／ourjourneys186／mystories321／94-／nikkei-asia-prize）均為本頁已收記錄，除上方 sister-record 連結外無新事實可吸收；無需 HOLD。
 - During his 1973–2007 USC years, the vault's USC Taiwanese-American community page is [[organizations/taiwanese-american-organization-at-the-university-of-southern-california||TAO at USC]].
 
 Absorbed from the taiwanjustice.net community-press corpus (2026-09-14 pass):

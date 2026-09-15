@@ -54,6 +54,7 @@ _No filled family fields on the TAH profile._
 
 ## Role in the Community（deepen 2026-09-14，自本會語料庫吸收）
 - 與鋼琴家妻子 Juliana Han 共同擔任灣區 Piedmont Chamber Music Festival 共同創辦人／共同總監；2018-06-05 二人接受 taiwaneseamerican.org 專訪（Anna Wu 訪問），談該音樂節、Formosa Quartet 與音樂旅程：[[works/taiwaneseamerican-org/juliana-wayne-interview|Piedmont Chamber Music Festival 專訪（2018-06）]]。
+- 專訪自述（同上）：該音樂節以家鄉 Piedmont, California 為基地，為期一週，於 Piedmont Center for the Arts 舉辦三場主題音樂會及一場兒童音樂會，並在奧克蘭的遊民收容所、安養院等社區場地演出免費音樂會；2018 年夏季屆滿第三屆。
 - HOLD: conflict — 本頁與 TAH #733 記其為小提琴家（violinist），TAH #322 條目標題則記「pianist」；兩條目同為 2015-12 刊，不逕行合併。
 - 同名異人警示：TAH [[works/taiwaneseamericanhistory-org/whoswho1284|TAH #1284（2016/09）「Wayne Lee 李煒鈞」]]漢名不同（李煒鈞≠李家瑋），疑似另一位同名人士，未併入本頁。
 

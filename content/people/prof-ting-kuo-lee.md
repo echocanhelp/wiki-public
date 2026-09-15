@@ -52,6 +52,7 @@ _No filled family fields on the TAH profile._
 ## Role in the Community (deepen 2026-09-14, corpus pass)
 - Corpus name-collision note: 李定國 also appears in [[works/taiwaneseamericanhistory-org/our-journeys-389||印城台灣同鄉會紀要 #389]] — but there as 「校長李定國先生」, who led 宜蘭凱旋國小 14 students to an exchange with Merle Sidener Gifted Academy (IPS School 359, Indianapolis) 2012-10-25–11-18. HOLD: an elementary-school principal in Yilan vs the physicist (NTU B.S. Physics 1967) — almost certainly a different person; NOT merged.
 - No other corpus material on the physicist himself; his record stays as the TAH #1789 tables.
+- Corpus re-check (slice 09141400-7, 2026-09-14): grep of works/ + articles/ again returns only the 印城同鄉會 memoir (name-collision already held above) and the works/index.md bibliographic line for TAH #1789. No new absorbable facts.
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

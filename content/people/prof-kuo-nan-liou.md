@@ -70,3 +70,7 @@ All existing wikilinks (TAH #1797 work page, Rossby/Revelle medals work page, TA
 ## Deepen — 2026-09-14 (vault-only re-check)
 
 Re-read the on-page TAH Employment/Education tables and the cited #1797 vault work record: every date and role is already mirrored in the Timeline. No new absorbable vault facts; no new pages created.
+
+## Corpus re-check (slice 09141400-7, 2026-09-14)
+
+Grep of works/ + articles/ returns only his two already-linked vault work pages (TAH #1797, Rossby/Revelle medals #44) and the works/index.md bibliographic lines. No memoir or newsletter narrative mentions him. SKIP: no new absorbable corpus material.
