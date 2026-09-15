@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-14
+last_reviewed: 2026-09-15
 ---
 # Meng-Chieh Liu (劉孟捷)
 
@@ -69,3 +69,4 @@ _No filled family fields on the TAH profile._
 
 ## Re-sweep（slice deepen-x-slice-09141400-16，2026-09-14）
 - 再掃 works/ + articles/：僅命中自有書目頁 #80、#103 與 [[works/taiwaneseamericanhistory-org/ourjourneys294|TUF 簡介]]（台灣名家演奏系列列名，已吸收於上方）；無新社群素材，本輪無新增事實。
+- **2026-09-15（DEEPEN-X09142319-17）：** 再掃結果相同——命中僅 #80、#103、ourjourneys294 及 works/index；TUF 列名已吸收，SKIP。

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-14
+last_reviewed: 2026-09-15
 ---
 # Ding Yi Wang (楊定一博士)
 
@@ -56,6 +56,7 @@ last_reviewed: 2026-09-14
 - A third corpus record names him directly: [[works/taiwaneseamericanhistory-org/273-stella-chen-e9-99-b3-e5-a9-89-e7-9c-9f201502||TAH #273: Ding Yi Wang 楊定一 (2015-02)]] — a 2015-02-08 story-corpus entry titled under his own name (published URL slug still carries the preceding record's 陳婉真 filename). Bibliographic record only; HOLD: title attribution 楊定一 vs URL slug 陳婉真 — no body text archived to reconcile.
 - Corpus material beyond his own #104/#105/#421/#273 records: none. No community/memoir mentions found in content/works or content/articles.
 - **2026-09-14 (DEEPEN-X09141400-11):** re-sweep SKIP — corpus grep (works/, articles/) hits only `works/index.md` listings of his own #104/#105 pages; no new first-hand community material to absorb.
+- **2026-09-15 (DEEPEN-X09142319-17):** re-sweep SKIP — grep hits only his own #104/#105/#421/#273 records (all already linked above); no memoir or peer-community mentions; nothing absorbable.
 
 ## Connected in the Vault（deepen pass 2026-09-10）
 
