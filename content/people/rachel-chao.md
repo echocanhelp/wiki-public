@@ -57,3 +57,6 @@ _No filled family fields on the TAH profile._
 - [[organizations/rice-taiwanese-association||Rice Taiwanese Association]] and [[organizations/rice-taiwanese-graduate-student-association||Rice Taiwanese Graduate Student Association]] — Taiwanese community at Rice University, where she serves as staff pianist
 - [[organizations/taiwanese-american-students-association-of-northwestern-university||TA Taiwanese Students Association of Northwestern University]] — Taiwanese student community at her M.S./Ph.D. alma mater
 - [[organizations/taiwanese-student-association-at-arizona-state-university||Taiwanese Student Association at Arizona State]] — Taiwanese student community at her B.S. alma mater
+
+## Corpus sweep 2026-09-15（slice 09150316-26）
+- **SKIP-with-reason:** grep `Rachel Chao|趙亦秋|Yi-Chiu` over content/works + content/articles hits only her own two TAH encyclopedia records ([[works/taiwaneseamericanhistory-org/270-yi-chiu-rachel-chao-e8-b6-99-e4-ba-a6-e7-a7-8b-pianist-201508|#270]]、[[works/taiwaneseamericanhistory-org/541-rachel-chao-e8-b6-99-e4-ba-a6-e7-a7-8b-201508|#541]]), already linked and absorbed above. 傳記為演奏家 press-kit 材料，回憶錄/社運語料無其他提及 — nothing absorbable.

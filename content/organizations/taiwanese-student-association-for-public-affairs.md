@@ -46,5 +46,8 @@ TSAPA is the University of Washington chapter of the Taiwanese Student Associati
 
 ## Deepen pass (2026-09-14, slice 09141500-12)
 - **SKIP-with-reason (corpus re-scan):** exact grep `TSAPA|台灣公共事務學生會` again hits only the TAH #16 directory record (linked) plus index. Broader "Public Affairs" matches are all *other* orgs — FAPA（台灣人公共事務會，見 [[works/taiwaneseamericanhistory-org/14-fapa-news-by-formosan-association-for-public-affairs|FAPA NEWS 通訊]]）and 北美臺灣客家公共事務協會 — false positives, not absorbed.
+## Deepen pass (2026-09-15, slice 09150316-26)
+- **SKIP-with-reason (corpus re-scan):** grep `TSAPA|台灣公共事務學生會` over content/works + content/articles hits only its own TAH directory record ([[works/taiwaneseamericanhistory-org/tsapa-taiwanese-student-association-for-public-affairs|已連結於 Vault Holdings]])。語料庫無回憶錄/社群提及 — nothing absorbable.
+
 ## Deepen pass (2026-09-15, slice 09142319-30)
 - **SKIP-with-reason (corpus re-scan):** grep `TSAPA|台灣公共事務學生會` over content/works + content/articles hits only its own TAH #16 directory record ([[works/taiwaneseamericanhistory-org/tsapa-taiwanese-student-association-for-public-affairs|linked in Vault Holdings]]). No memoir/community mentions — nothing absorbable.
