@@ -65,3 +65,7 @@ last_reviewed: 2026-09-15
 - Slice 09142319-19 複核（2026-09-15）：重跑 grep 趙弘雅／Hung Ya Chao（works+articles）命中無變——僅本人六篇書目記錄（#183–185、#195–196）與 #1352 條目，均已連結於上；memoir 語料無新事實，SKIP-with-reason。
 - Slice 09150316-14 複核（2026-09-15）：grep 命中無變——僅本人六篇書目記錄（#183–185、#195–196）與 #1352 條目（均已連結於上）；memoir 語料無新事實，SKIP-with-reason。
 - Slice 09150400-11 複核（2026-09-15）：grep 命中無變——僅本人六篇書目記錄（#183–185、#195–196）與 #1352 條目（均已連結於上）；memoir 語料無新事實，SKIP-with-reason。
+
+## Corpus re-check（slice deepen-x-09150500-3，2026-09-15）
+
+語料重掃（works/ + articles/）：命中僅本人自有 TAH 書目記錄（均已連結於上）與索引頁，無其他 memoir／會刊提及——無可吸收之新增社群事實，SKIP-with-reason。

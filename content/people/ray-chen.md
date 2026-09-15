@@ -85,3 +85,7 @@ _No filled family fields on the TAH profile._
 ## Deepen pass 2026-09-15（slice deepen-x-slice-09150400-15，SKIP-with-reason）
 
 - 重掃 works/ + articles/：命中仍僅本人自有 TAH #244／#247／#505 傳記條目（均已連結）與 works/index.md，無其他 memoir／會刊提及，無可吸收之新增社群事實。
+
+## Corpus re-check（slice deepen-x-09150500-3，2026-09-15）
+
+語料重掃（works/ + articles/）：命中僅本人自有 TAH 書目記錄（均已連結於上）與索引頁，無其他 memoir／會刊提及——無可吸收之新增社群事實，SKIP-with-reason。
