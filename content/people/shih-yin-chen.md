@@ -48,6 +48,7 @@ _No filled family fields on the TAH profile._
 - [[works/taiwaneseamericanhistory-org/musician23||TAH #23 encyclopedia: Shih-Yin Chen 陳詩音, Conductor / 2014-10]] — first TAH entry, New York conducting years; published 2014-10-11, value band B
 - [[works/taiwaneseamericanhistory-org/whoswho1090||TAH #1090 encyclopedia: Shih-Yin Chen 陳詩音 / 2016-06]] — Who's Who entry, Taiwan teaching/conducting posts; published 2016-06-18, value band B
 - Corpus check (slice 09141213-2, 2026-09-14): full-vault grep for 陳詩音/Shih-Yin Chen in works+articles returns only these two TAH records and the works index — no memoir or article mentions; no new community facts absorbable, no conflicts to HOLD.
+- SKIP (slice 09141400-9, 2026-09-14): re-grep of works+articles for 陳詩音/Shih-Yin Chen again returns only the two work pages above — still no memoir/newsletter/community mentions; nothing absorbable.
 
 ## Sources
 - [TAH #1090 encyclopedia: 1090. Shih-Yin Chen 陳詩音2016/06](https://taiwaneseamericanhistory.org/whoswho1090/)

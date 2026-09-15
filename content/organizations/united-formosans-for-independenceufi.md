@@ -26,6 +26,7 @@ World United Formosans for Independence (WUFI) is a global advocacy organization
 - 移民配額：FAPA 成立前，透過台獨聯盟與全美台灣同鄉會的努力成功爭取到兩萬名台灣移民配額——美國第一次將台灣與中國分開考量；但外界批評聯盟「說了這麼多愛台灣的話，卻還要人留在美國」，聯盟努力反傷及自身——見 [[works/taiwaneseamericanhistory-org/ourjourneys49|Our Journeys 49]]。與 1982-02-13 董事會背景（美國國會通過兩萬名台灣人移民提案）互為印證（[[works/taiwaneseamericanhistory-org/ourjourneys65-eng|Our Journeys 65 (EN)]]）。
 - 美麗島事件牽連：起訴書指張瑞雄牧師帶五千美元交姚嘉文、為「暴力分子張燦鍙交付的工作費」；口述史料澄清該款為台灣同鄉捐款、經林弘宣託帶，國民黨情治單位自始認定為台獨聯盟捐款——見 [[works/taiwaneseamericanhistory-org/our-journeys-350|Our Journeys 350]]。
 - founding 文獻：TAH #204《世界台灣獨立建國聯盟 / The first year / 1/1/1970》有 vault 書目頁 [[works/taiwaneseamericanhistory-org/204-e4-b8-96-e7-95-8c-e5-8f-b0-e7-81-a3-e7-8d-a8-e7-ab-8b-e5-bb-ba-e5-9c-8b-e8-8|TAH #204]]（全文留原站）。
+- 《台灣公論報》籌備內幕（deepen 2026-09-14，absorb 自 [[works/taiwaneseamericanhistory-org/ourjourneys49|Our Journeys 49]]）：報社 1981-07-15 起運作、星期二／五出刊（星期一／四送印），社內四位記者；定名源自李萬居《公論報》，「公論」意在替台灣發聲；版面曾激辯直寫（被視為國民黨式）vs 橫寫、三日刊（被譏「做三天就沒了」），最終拍板橫寫小版面以便攜帶。1982-02-13  RADIO 董事會（本頁上載）另記：1982-01-27 去函 Joshua Yapp 將「國民外交」列入議程（其主張最力）；RADIO 計畫因島內反國民黨雜誌已興盛、且國民黨必干擾廣播而暫置，會後轉向籌組專責國民外交之組織（即 FAPA 前聲）（[[works/taiwaneseamericanhistory-org/ourjourneys65-eng|Our Journeys 65 (EN)]]）。
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/united-formosans-for-independenceufi/)
