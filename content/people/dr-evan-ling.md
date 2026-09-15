@@ -37,6 +37,13 @@ last_reviewed: 2026-09-15
 - **Son:** Felix, Benjamin
 
 
+## Role in the Community
+- Founding president of the TAA Atlanta chapter; the chapter was established during Ho Rui-hsu's (許和瑞) national-term expansion, one of 9 new chapters that brought TAA to 43 chapters — see [[works/taiwaneseamericanhistory-org/ourjourneys76|全美會會史]].
+- Founding president of the Dr. Chen Wen-chen Memorial Foundation (陳文成教授紀念基金會). Authored the founding account 陳文成教授紀念基金會成立經過 — see [[works/taiwaneseamericanhistory-org/ourjourneys8-eng|Our Journeys #8]].
+- Per a fellow organizer's memoir, in late October (1981) Evan Ling called offering to expand the Chen Wen-chen memorial fundraising and arranged for Chen Su-jen (陳素貞) to tour and speak in several cities; funds largely went to the Formosan Association for Human Rights — see [[works/taiwaneseamericanhistory-org/ourjourneys321|Our Journeys #321]].
+- Agreed with the commemorative-book editor that Evan Ling and his wife would handle printing of the 陳文成教授紀念專集, while the editor handled editing and soliciting articles — see [[works/taiwaneseamericanhistory-org/ourjourneys321-eng|Our Journeys #321 (EN)]].
+- Continued correspondence over the foundation for many years despite never having met the earlier organizer in person.
+
 ## Sources
 - [TAH #1679 encyclopedia: 1679. Dr. Evan Ling 林富文博士](https://taiwaneseamericanhistory.org/whos-who-1679-evan-ling/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-evan-ling/)

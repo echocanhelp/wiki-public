@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-15
 ---
 # Taiwan Hotel & Motel Association of Southern California (南加州台灣旅館業同業公會)
 
@@ -17,6 +17,15 @@ last_reviewed: 2026-08-17
 - **Core roles:** Community organization (TAH directory)
 
 The Taiwan Hotel & Motel Association of Southern California was established in 1974 to unite Taiwanese hoteliers and hotel-related businesses in the United States. The Association serves its members by providing education and information on the hospitality industry, including symposia and training courses led by industry experts. Annual events such as the annual banquet, Christmas dinner, and golf tournament foster networking and community bonds among members. In 1999, board members organized an interest-free loan drive to purchase a permanent association hall, giving the organization a stable home. The Association has grown to become a recognized pillar of the Southern California Taiwanese immigrant community.
+
+## Role in the Community
+
+Corpus records in the TAH collection document the Association's activity and standing:
+
+- Founded 08/1974 — the TAH album record calls it the **first Taiwanese American organization in the business field** (第一個台美人商業團體): [[works/taiwaneseamericanhistory-org/ff261|TAH #261 南加州台灣旅館業同業公會 / First T.A. organization in Business Field]].
+- Hosted the 台灣餐旅系學員美國暑假在職訓練營 (summer on-the-job training camp in the U.S. for Taiwanese hotel/restaurant-management students), 2016: [[works/taiwaneseamericanhistory-org/12-63|TAH #63 訓練營]].
+- Runs the Charity Golf Tournament 慈善高爾夫球友誼賽, documented 2018: [[works/taiwaneseamericanhistory-org/golf-thmasc|Charity Golf Tournament by THMASC]].
+- Operates within a wider network: the corpus also records the parent umbrella body 北美洲台灣旅館公會聯合總會 (Taiwan Hotel & Motel Association of North America): [[works/taiwaneseamericanhistory-org/taiwan-hotel-motel-association-of-north-america|THMANA]].
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwan-hotel-motel-association-of-southern-california/)
