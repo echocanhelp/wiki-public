@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-14
+last_reviewed: 2026-09-15
 ---
 # Shih-Peng Chang (張士芃)
 
@@ -63,3 +63,4 @@ _No filled family fields on the TAH profile._
 - 未新增任何傳記事實；Peabody/UM 學生團體連結僅標註就讀關聯。
 - Slice 09141213-5 複核（2026-09-14）：corpus grep（content/works、content/articles，含漢名「張士芃」）僅命中本人两条 TAH 書目記錄（#310、#684，均已連結於上）與 works/index；memoir 語料無新事實，本輪無可吸收內容。
 - Slice 09141400-14 複核（2026-09-14）：重跑 grep 結果相同（僅 #310、#684 書目記錄，均已連結），SKIP-with-reason：無可吸收之社群語料。
+- Slice 09142319-22 複核（2026-09-15）：重跑 grep（張士芃｜Shih-Peng Chang，含簡體）結果不變——僅本人書目記錄 #310、#684（均已連結），memoir 語料無新事實；SKIP-with-reason，僅刷新 last_reviewed。

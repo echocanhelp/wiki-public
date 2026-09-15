@@ -45,6 +45,10 @@ Esther C. Lin is a versatile Taiwanese American artist. President of Taiwan Cent
 - **Son:** Eward林恩哲
 
 
+## Role in the Community（deepen-x 09142319-23，自本會史料吸収）
+- **台灣會館老人中心（TASC）**：2003 年底紐約台灣會館設老人中心管理委員會，陳春蘭以會館理事身份任委員（另兩位會館理事蔡明峰、尤欽德，及四位原各老人會代表）；2004 年 1 月中心及管委會開始運作 — 見 [[works/taiwaneseamericanhistory-org/ourjourneys316|Our Journeys #316（大紐約區台灣會館老人中心史）]]，與本頁所載「President of Taiwan Center」相互佐證
+- 其餘語料命中皆為本人書目/演出記錄頁（[[works/taiwaneseamericanhistory-org/musician337|#337]]、[[works/taiwaneseamericanhistory-org/whoswho925|#925]]、[[works/taiwaneseamericanhistory-org/artist55-esther-lin|#55]]、[[works/taiwaneseamericanhistory-org/concerts17|#17]]），已列於 Vault Holdings，無新增事實
+
 ## Sources
 - [TAH #337 encyclopedia: 337. Esther C. Lin  林陳春蘭, Soprano / 2016/04](https://taiwaneseamericanhistory.org/musician337/)
 - [TAH #925 encyclopedia: 925. Esther C. Lin  林陳春蘭/ 2016/04](https://taiwaneseamericanhistory.org/whoswho925/)

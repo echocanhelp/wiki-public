@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-14
+last_reviewed: 2026-09-15
 ---
 # Prof. Li-Fan Philip Liu (劉立方教授)
 
@@ -65,3 +65,6 @@ _No filled family fields on the TAH profile._
 
 ## Deepen pass (2026-09-14, slice 09141500-5)
 - 語料庫重檢（劉立方｜Philip Liu｜Li-Fan）命中僅三處：本人 TAH #2021 百科頁、Pew 聲明連署名單、works/index——全部已於上列吸收或為索引頁。**SKIP：無新語料事實可吸收**。
+
+## Deepen pass (2026-09-15, slice 09142319-22)
+- 語料庫重檢（劉立方｜Philip Liu｜Li-Fan Liu）：命中僅本人 TAH #2021 百科頁與 2021 Pew 聲明連署名單——兩者已全數吸收於上列 Role in the Community。無新語料事實，僅刷新 last_reviewed。

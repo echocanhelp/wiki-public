@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-14
+last_reviewed: 2026-09-15
 ---
 # Yi-Ming Chen (陳怡名)
 
@@ -66,3 +66,4 @@ _No filled family fields on the TAH profile._
 
 ## Deepen pass (2026-09-14, slice 09141500-5)
 - 語料庫重檢（陳怡名｜Yi-Ming Chen）命中僅四處：本人 TAH #332／#158 百科頁、已吸收的 #128 音樂會記錄、works/index——無新語料事實可吸收。**SKIP**。
+- （複掃 2026-09-15，slice 26：SKIP）重掃結果不變——四處命中無變，無新社群事實可吸收。

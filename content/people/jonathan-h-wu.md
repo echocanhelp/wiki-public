@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-14
+last_reviewed: 2026-09-15
 ---
 # Jonathan H. Wu (吳顯明)
 
@@ -63,5 +63,8 @@ An accomplished opera baritone, Mr. Jonathan Wu graduated from the Chinese Cultu
 - [[sources/taiwaneseamericanhistory-org-story-corpus||TAH story corpus]] — hub for the encyclopedia records above
 - [[works/taiwaneseamericanhistory-org/202-jonathan-h-wu-e5-90-b3-e9-a1-af-e6-98-8e-201501||TAH encyclopedia #202: Jonathan H. Wu 吳顯明（2015/01）]]（deepen 2026-09-14：同姓名之另一則 Vault 記錄；傳記事實以 #110／#201 為據，未新增）
 
-## Re-sweep（slice deepen-x-slice-09141400-16，2026-09-14）
+## 再掃（slice deepen-x-slice-09141400-16，2026-09-14）
 - 再掃 works/ + articles/（含簡體「吴显明」）：僅命中自有書目頁 #110、#201（#202 已列於 Related Pages）；無新社群素材，本輪無新增事實。
+
+## 再掃（slice deepen-x-slice-09142319-22，2026-09-15）
+- 重跑 corpus grep（works/ + articles/，含簡體「吴显明」）：結果不變——僅自有書目頁 #110、#201 與牧星合唱團團體記錄 #24（均已連結）。SKIP-with-reason：無 memoir 素材可吸收，僅刷新 last_reviewed。

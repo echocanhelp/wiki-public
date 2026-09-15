@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-14
+last_reviewed: 2026-09-15
 ---
 # Prof. Ming-Shian Kao (高銘憲教授)
 
@@ -61,3 +61,6 @@ For more information, please clickProjects >>>14. Pride of T. A. >>>6. 全美最
 - **與會館/社群的一手記錄**：[[works/taiwaneseamericanhistory-org/my-stories-902|TAH #902 專訪「醫生中的醫生」——聖路易高銘憲醫師談移民如何就醫（2024-04）]]、[[works/taiwaneseamericanhistory-org/mystories492|TAH #492 高銘憲醫師 視病如親／吳淑梅]]、[[works/taiwaneseamericanhistory-org/mystories553|TAH #553 高銘憲醫師的禱告／吳淑梅]]、[[works/taiwaneseamericanhistory-org/whos1262|TAH #1262 Ming-Shian Kao 高銘憲／2016-08]]。
 - 「Pride of T. A.」系列記載（Best Doctor、Best Oncologist、華盛頓大學婦產科醫院傑出教授榮譽紀念獎）於 vault 有獨立作品頁：[[works/taiwaneseamericanhistory-org/pride6|Pride of T.A. #6]]。
 - 太太**石幸津為醫師**，與高銘憲一同參與上述聖路易台灣人基督徒團契創立（見 #305），可補強 Family 欄。
+
+## 再掃（slice deepen-x-slice-09142319-22，2026-09-15）
+- corpus grep（高銘憲｜Ming-Shian Kao）命中六作：#902 專訪、#492、#553、#6（Pride of T.A.）、#305（張理美聖路易教會史）、#1262——全部已吸收於上列 Role in the Community 並已 wikilink。#305 內其餘細節（1982-05 合法登記非營利教會、1984-11 賴俊明牧師赴任等）屬教會整體史而非本人社群事實，不予搬入。無新事實，僅刷新 last_reviewed。

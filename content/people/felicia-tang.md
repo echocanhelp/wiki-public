@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-14
+last_reviewed: 2026-09-15
 ---
 # Felicia Tang (唐千畬)
 
@@ -61,3 +61,4 @@ _No filled family fields on the TAH profile._
 
 ## Deepen pass 2026-09-14
 - SKIP-with-reason: corpus grep of works/articles returns only her own two TAH encyclopedia records (#1872, #425), already linked and absorbed above; no memoir/community material beyond the press-kit bio to incorporate.
+- （複掃 2026-09-15，slice 26：SKIP）含正式名 Chien-Yuh Tang 重掃，命中仍僅本人 #1872／#425 記錄與 works/index；無新語料可吸收。

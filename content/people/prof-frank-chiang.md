@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-14
+last_reviewed: 2026-09-15
 ---
 # Prof. Frank Chiang (江永芳教授)
 
@@ -70,3 +70,4 @@ last_reviewed: 2026-09-14
 - Asia Bank／New York（共同創辦人兼副總執行長 1984–1988）、The Taiwan Merchant Association of New York（會長 1980–1984）目前無 vault 頁面，僅保留文字事實。
 - 妻子 Quay-Yin（林貴英）無 vault 人物頁，未加連結。
 - （複掃 2026-09-14，slice 20：SKIP）語料庫（works/articles）除本人書目記錄與 index 列表外零命中，無社群一手材料可吸收。
+- （複掃 2026-09-15，slice 26：SKIP）重掃結果不變——僅本人 TAH #185／#768 書目記錄與 works/index 命中，無社群一手材料可吸收。
