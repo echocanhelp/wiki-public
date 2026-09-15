@@ -36,6 +36,9 @@ Born in Taiwan, Alex Hsuan-Yu Lee is a young accomplished violinist and conducto
 
 _No filled family fields on the TAH profile._
 
+## Role in the Community
+The movement record holds two TAH encyclopedia entries on him — [[works/taiwaneseamericanhistory-org/musician146|146. Alex Hsuan-Yu Lee 李軒宇, Violinist / 2015-02-03]] and [[works/taiwaneseamericanhistory-org/whoswho1225|1225. Alex Hsuan-Yu Lee 李軒宇 / 2016-08-06]] — both held as bibliographic records only, so no further community detail is absorbable from the corpus. His 2015 entry sits in TAH's young-musician series alongside [[works/taiwaneseamericanhistory-org/musician145|145. Shuo-Hui (Sophie) Hung 洪碩徽, Pianist]], situating him in the foundation's early coverage of the next generation of Taiwanese-American classical musicians.
+
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/alex-hsuan-yu-lee/)
 

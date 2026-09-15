@@ -35,6 +35,12 @@ Dr. Shinn-Sheng Chang 張信行醫師 – History of Taiwanese American (T.A. Ar
 - **Daughter:** Gloria
 
 
+## Role in the Community
+- Corpus memoirs written by his wife [[people/may-sing-chang|黃美星]] document the founding of the Taiwanese American Center of Northern California (TACNC): after the 2000 political transition in Taiwan, she and Dr. Chang began recruiting like-minded association members to create a permanent Taiwanese American Center, and he was among the organizers of the TACNC Preparation Committee (with Te-hui Chen, Ching S. Shir, Kuang-po Chen, Tien-tun Shih, Davis Chang, Hwalin Lee, David Weng and others); the Center opened in April 2003 in clinic space sponsored by Dr. Ye-Ming Wu. See [[works/taiwaneseamericanhistory-org/ourjourneys24-eng|Our Journeys 24]].
+- He chaired the Center in its early years and turned the chairmanship over to Te-hui Chen in 2007, when the search for a permanent building began; the couple later helped broker the 2009 joint arrangement with Canaan Church for the 8,400 sq ft Center in San Jose's Golden Triangle. See [[works/taiwaneseamericanhistory-org/ourjourneys53-eng|53. 台灣會館美夢成真 / May-Sing Chang]].
+- Consistent with his TAH profile entries "Key Member in Establishing — Taiwan Center / North CA" and "First President — Taiwanese American Foundation of North California".
+- His TAH encyclopedia records are preserved at [[works/taiwaneseamericanhistory-org/199-dr-shinn-sheng-chang|TAH #199]] and [[works/taiwaneseamericanhistory-org/whos-who-893-shinn-sheng-chang|TAH #893]].
+
 ## Sources
 - [TAH #199 encyclopedia: 199. Dr. Shinn-Sheng Chang 張信行醫師](https://taiwaneseamericanhistory.org/199-dr-shinn-sheng-chang/)
 - [TAH #893 encyclopedia: 893. Dr. Shinn-Sheng Chang 張信行醫師](https://taiwaneseamericanhistory.org/whos-who-893-shinn-sheng-chang/)

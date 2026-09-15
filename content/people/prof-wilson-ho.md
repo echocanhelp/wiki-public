@@ -34,6 +34,9 @@ Assistant Professor (1980-1985); Associate Professor (1985-1991); Professor (199
 
 _No filled family fields on the TAH profile._
 
+## Role in the Community
+The movement record holds his own TAH encyclopedia entry [[works/taiwaneseamericanhistory-org/whos-who-2037-wilson-ho|2037. Prof. Wilson Ho 何文程教授 / 2018-02-19]], held as a bibliographic record only — no memoir or event material is absorbable from the corpus. Adjacent in the same 2018-02-19 batch is a likely relative: [[works/taiwaneseamericanhistory-org/whos-who-2036-w-s-ho|2036. Prof. W.S. (Winston) Ho 何文壽教授]]. HOLD: relationship between 何文程 and 何文壽 (brothers?) unverified in the corpus, not merged.
+
 ## Sources
 - [TAH #2037 encyclopedia: 2037. Prof. Wilson Ho 何文程教授](https://taiwaneseamericanhistory.org/whos-who-2037-wilson-ho/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-wilson-ho/)

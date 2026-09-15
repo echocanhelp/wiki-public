@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-14
 ---
 # Dr. W.P. Andrew Lee (李為平醫師)
 
@@ -30,6 +30,12 @@ Director of the Plastic Surgery Research Laboratory and Subsequently Chief of Ha
 ## Employment
 - Massachusetts General Hospital — Faculty — Harvard Medical School — Director of the Plastic Surgery Research Laboratory and Subsequently Chief of Hand Service in Dept. of Surgery — University of Pittsburgh — Division Chief of Plastic Surgery — (2002-2010) — Johns Hopkins University School of Medicine — Professor and Chairman of Dept. of Plastic and Reconstructive Surgery
 <!-- tah-tables:end -->
+
+## Role in the Community
+- His Who's Who entry is held in the corpus as [[works/taiwaneseamericanhistory-org/whos-who-2102-w-p-andrew-lee|2102. Dr. W.P. Andrew Lee 李為平醫師]].
+- The Northern California movement memoirs [[works/taiwaneseamericanhistory-org/ourjourneys37-eng|Our Journeys 37 (TAI history, EN)]] and [[works/taiwaneseamericanhistory-org/ourjourneys38-eng|Our Journeys 38 (TAFNC history, EN)]] list an **Andrew Lee** among the presidents of the Taiwanese American Federation of Northern California — part of the post–Black Terror generation (after Rung-fang/Ching-sheng Huang et al.) who took the TAFNC presidency despite KMT-era blacklisting, and among TAI-trained leaders heading Bay Area associations.
+- HOLD: identity of the corpus-listed TAFNC president "Andrew Lee" vs 李為平 (this page) not explicitly established in the corpus — no Chinese name given in those memoirs; not auto-merged.
+- Note: [[works/taiwaneseamericanhistory-org/63-andrew-lee-memorial-scholarship|63. Andrew Lee Memorial Scholarship]] memorialises 李友義博士 — a different Andrew Lee; do not conflate.
 
 ## Family
 
