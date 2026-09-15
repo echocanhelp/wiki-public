@@ -63,3 +63,4 @@ _No filled family fields on the TAH profile._ The profile narrative does record 
 
 - SKIP 確認（slice 09142320-10, 2026-09-15）：復檢 works/ + articles/，命中僅本人自有 TAH 書目頁、index 目錄列項（Cindy Chen 另有同名異人 Cindy Cheng 一頁），無回憶錄/社群第一手材料可吸收；無新增連結。
 - SKIP 再確認（slice 09150500-25, 2026-09-15）：語料庫檢索仍僅命中本人書目頁 TAH #106、#184，無回憶錄或社群新材料。
+- SKIP 再確認（slice 09150600-16, 2026-09-15）：語料庫檢索仍僅命中本人書目頁 TAH #106、#184 與 works index，無回憶錄或社群新材料。
