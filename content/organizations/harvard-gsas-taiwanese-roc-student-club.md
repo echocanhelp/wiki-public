@@ -43,3 +43,6 @@ Cross-links (existing slugs only): [[organizations/harvard-griffin-gsas-taiwan-s
 
 ## Deepen-x re-check (slice 09150500-26, 2026-09-15)
 - SKIP-with-reason: grep re-run (works/articles; HTROCSC / harvardrocc / "Taiwanese ROC Student" / FTSANE, case-insensitive) — zero hits again. Nothing absorbable.
+
+## Deepen-x re-check (slice 09150600-15, 2026-09-15)
+- SKIP-with-reason: grep re-run (works/articles; HTROCSC / harvardrocc / ROC Student Club / FTSANE, case-insensitive) — zero hits. No memoir material; page stands on its TAH directory facts.
