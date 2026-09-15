@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-14
 ---
 # Houston Formosan Evergreen Association (休士頓台灣長春會)
 
@@ -17,6 +17,15 @@ last_reviewed: 2026-08-17
 - **Core roles:** Community organization (TAH directory)
 
 The Houston Formosan Evergreen Association is a nonprofit, non-political organization founded on April 1, 1981, composed of retirees from diverse backgrounds across Taiwan who are residing in Houston. With over 300 members, it serves as a senior community organization for Taiwanese expatriates in Houston, fostering healthy and joyful lifestyles in their middle and later years. Membership eligibility was lowered from age 60 to 55 in December 2003 to welcome more community participants. The association holds monthly meetings, major seasonal celebrations (Lunar New Year, Mother’s Day, Mid-Autumn Festival, Father’s Day), and participates in a wide range of activities through the Taiwan Academy (台灣學苑), including choir, art classes, fitness, computer classes, tai chi, and aerobics. Younger members may join as sponsoring members and automatically transition to full membership upon turning 55.
+
+## Role in the Community
+- **1992 — Co-governance of the Houston Taiwanese Community Center (TCC):** when the Taiwan Heritage Society approved a management committee for the TCC in January 1992, the Evergreen Association held a seat through its representative Shou-chang Ou, alongside representatives of TAA–Houston Chapter (Chi-yu Chao), the Taiwanese Language School (Ping-chuan Tsai), the Greater Dallas Chamber of Commerce (Wen-hsin Wu), TACL (David Tsay), and community member Sha-ying Li. The committee's first meeting was held February 8, 1992. Source: [[works/taiwaneseamericanhistory-org/ourjourneys233-eng|233. 回顧休士頓台灣人活動中心的成立 / Tenth Anniversary of Houston TCC (Cheng Y. Eddie Chuang)]].
+
+## Published Record
+The association's own anniversary special issues are held in the corpus as community historical record:
+- [[works/taiwaneseamericanhistory-org/2-houston-formosan-evergreen-association|TAH #2. 休士頓台灣長春會 (directory entry)]]
+- [[works/taiwaneseamericanhistory-org/935-e4-bc-91-e5-a3-ab-e9-a0-93-e5-8f-b0-e7-81-a3-e9-95-b7-e6-98-a5-e6-9c-8325-e9|935. 休士頓台灣長春會 25 週年特刊 (2006)]]
+- [[works/taiwaneseamericanhistory-org/936-e4-bc-91-e5-a3-ab-e9-a0-93-e5-8f-b0-e7-81-a3-e9-95-b7-e6-98-a5-e6-9c-8330-e9|936. 休士頓台灣長春會 30 週年特刊 (2011)]]
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/houston-formosan-evergreen-association/)
