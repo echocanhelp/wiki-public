@@ -71,3 +71,6 @@ _No filled family fields on the TAH profile._
 
 ## Deepen-x re-check (slice 09150400-24, 2026-09-15)
 - SKIP-with-reason：語料庫檢索（works/articles）再次復核，命中僅本人書目記錄與 works index 條目行，無回憶錄/社群第一手材料可吸收；既有事實與衝突記載不變。
+
+## Deepen-x re-check (slice 09150500-15, 2026-09-15)
+- SKIP-with-reason：語料庫檢索（works/articles，鄭青青/Ching Ching Chen/Cheng）再次復核，命中僅兩筆 band-B 書目記錄（[[works/taiwaneseamericanhistory-org/whoswho1053|TAH #1053]]、[[works/taiwaneseamericanhistory-org/23-e9-84-ad-e9-9d-92-e9-9d-92-ching-ching-cheng|TAH #23]]）及 works index 條目行，無回憶錄材料；異拼衝突（Chen vs Cheng）維持 Name Variants 記載，不併檔。

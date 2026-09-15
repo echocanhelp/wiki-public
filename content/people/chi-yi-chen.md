@@ -64,3 +64,4 @@ _No filled family fields on the TAH profile._
 
 ## Deepen-x re-check (slice 09150400-24, 2026-09-15)
 - SKIP-with-reason：語料庫檢索（works/articles）再次復核，命中僅本人書目記錄與 works index 條目行，無回憶錄/社群第一手材料可吸收；既有事實與衝突記載不變。
+- 覆核（deepen-x slice 09150500-16，2026-09-15）：再 grep（陳志宐／Chi Yi Chen）命中集不變——僅 [[works/taiwaneseamericanhistory-org/whoswho1704|TAH #1704]]、[[works/taiwaneseamericanhistory-org/musician406|TAH #406]] 及 works index 條目行。維持 **SKIP**。

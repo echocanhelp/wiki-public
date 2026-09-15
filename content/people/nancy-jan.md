@@ -76,3 +76,6 @@ Cross-links (existing slugs only): [[organizations/taiwanese-association-of-amer
 
 ## Deepen-x re-check (slice 09150400-24, 2026-09-15)
 - SKIP-with-reason：語料庫檢索（works/articles）再次復核，命中僅本人書目記錄與 works index 條目行，無回憶錄/社群第一手材料可吸收；既有事實與衝突記載不變。
+
+## Deepen-x re-check (slice 09150500-15, 2026-09-15)
+- SKIP-with-reason：語料庫檢索（works/articles，詹雅惠/Nancy Jan）再次復核，命中僅本人書目頁 [[works/taiwaneseamericanhistory-org/musician102|TAH #102]]、[[works/taiwaneseamericanhistory-org/whoswho1119|TAH #1119]] 及 works/index 條目行，無回憶錄/社群第一手材料可吸收；#102 日期衝突（條目標題 2012/12 vs 記錄日 2014-12-22）維持 HOLD，不併檔。
