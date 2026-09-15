@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-14
+last_reviewed: 2026-09-15
 ---
 # Yuhsuan Liu Aldridge (劉于瑄)
 
@@ -56,3 +56,4 @@ _No filled family fields on the TAH profile._
 
 ## Vault Cross-References
 - TAH encyclopedia records for this profile exist in the vault: [[works/taiwaneseamericanhistory-org/278-yuhsuan-liu-aldridge-e5-8a-89-e4-ba-8e-e7-91-84-pianist-201508|TAH #278 劉于瑄 (Pianist), 2015/08]] and [[works/taiwaneseamericanhistory-org/551-yuhsuan-liu-aldridge-e5-8a-89-e4-ba-8e-e7-91-84-201508|TAH #551 劉于瑄, 2015/08]].
+- Corpus re-check (2026-09-15, deepen-x slice 09142320-7): grep of content/works + content/articles hits only these two own bibliographic pages and the works index — no memoir/community material absorbable. SKIP (no new facts).

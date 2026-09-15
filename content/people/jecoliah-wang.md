@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-14
+last_reviewed: 2026-09-15
 ---
 # Jecoliah Wang (王欣慈)
 
@@ -48,6 +48,8 @@ _No filled family fields on the TAH profile._
 SKIP-with-reason: a corpus grep for 王欣慈 / Jecoliah Wang over `content/works` and `content/articles` returns only her own TAH catalogue records (#48, #546 — already wikilinked below) and the works index. No memoir or movement-record content exists to absorb; this page remains press-kit biography only.
 
 Re-check (slice 09141500-11, 2026-09-14): grep re-run, same result — no new corpus material.
+
+Re-check (slice 09142320-11, 2026-09-15): grep re-run, same result — only her own TAH catalogue records (#48, #546) and the works index. SKIP: press-kit biography only, nothing absorbable.
 
 ## Sources
 - [TAH #546 encyclopedia: 546. Jecoliah Wang 王欣慈 / 2015/08](https://taiwaneseamericanhistory.org/546-jecoliah-wang-%e7%8e%8b%e6%ac%a3%e6%85%88-201508/)

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-14
+last_reviewed: 2026-09-15
 ---
 # Yu-Fang Chang (張玉芳)
 
@@ -48,6 +48,8 @@ _No filled family fields on the TAH profile._
 
 ## Vault records (deepen pass 2026-09-14)
 Her TAH profiles are catalogued in the vault as [[works/taiwaneseamericanhistory-org/musician377|TAH #377: Yu-Fang Chang 張玉芳, Cellist]] (published 2016-12-26) and [[works/taiwaneseamericanhistory-org/whoswho1446|TAH #1446: Yu-Fang Chang 張玉芳]]. At the Jou Music Institute, where she teaches, the vault also records two fellow cellists on its faculty: [[people/amy-hsieh|Amy Hsieh]] — also a Boston University DMA holder like Chang — and [[people/carrie-y-tseng|Carrie Y. Tseng]] (colleague-faculty links from their own TAH profiles; no direct collaboration between them is documented).
+
+Corpus re-check (2026-09-15, deepen-x slice 09142320-7): fresh grep of content/works + content/articles hits only her own bibliographic pages [[works/taiwaneseamericanhistory-org/whoswho1446|TAH #1446]], [[works/taiwaneseamericanhistory-org/musician377|TAH #377]] and the works index — no memoir/community material absorbable. SKIP (no new facts).
 
 ## Sources
 - [TAH #1446 encyclopedia: 1446. Yu-Fang Chang 張玉芳 / 2016/12](https://taiwaneseamericanhistory.org/whoswho1446/)

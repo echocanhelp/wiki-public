@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-14
+last_reviewed: 2026-09-15
 ---
 # Prof. Tuan-Hua David Ho (賀端華教授)
 
@@ -51,5 +51,5 @@ _No filled family fields on the TAH profile._
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
-## Deepen-x re-check (slice 09141300-30, 2026-09-14)
+## Deepen-x re-check (slice 09141300-30, 2026-09-14; re-verified slice 09142320-8, 2026-09-15)
 - SKIP-with-reason: corpus grep (works/articles, 賀端華/Tuan-Hua) hits only [[works/taiwaneseamericanhistory-org/whos-who-1794-tuan-hua-ho||TAH #1794]] (band-B bibliographic record, already linked) plus the works index — no memoir material beyond the career path already absorbed in the Deepen 2026-09-14 section.

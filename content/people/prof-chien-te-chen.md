@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-14
+last_reviewed: 2026-09-15
 ---
 # Prof. Chien-Te Chen (陳建德教授)
 
@@ -57,6 +57,9 @@ Re-scan grep -E `Chien-Te Chen|陳建德` again returns only his own [[works/tai
 - **1995** — Returned to Taiwan as Deputy Director and Scientist, National Synchrotron Radiation Research Center; became Director and Distinguished Scientist from 1997.
 - **1998–2006 / 1999–** — Adjunct Professor of Physics at National Taiwan Univ. and National Chung-Cheng Univ.
 - **2010–2014** — Director General, Taiwan Photon Source synchrotron construction project.
+
+## SKIP note (deepen-x pass 2026-09-15, slice 09142320-6)
+Re-scan grep -E `Chien-Te Chen|陳建德` over works+articles again returns only his own [[works/taiwaneseamericanhistory-org/whos-who-1791-chien-te-chen|TAH #1791]] record (already linked) plus the works index — no memoir/community material. SKIP-with-reason; nothing absorbable.
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]] — publisher of the Who's Who record

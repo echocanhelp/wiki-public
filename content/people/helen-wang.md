@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-14
+last_reviewed: 2026-09-15
 ---
 # Helen Wang (方惠音)
 
@@ -54,6 +54,10 @@ Accomplishment
 - [[organizations/new-york-taiwan-center||New York Taiwan Center 紐約台灣會館 — Vice President]]
 - [[organizations/taiwan-center-choir||台灣會館老人合唱團 — Manager]]
 - [[organizations/formosan-association-for-human-rights||全美台灣人權協會 FAHR — President]]
+
+## Deepen-x 2026-09-15（slice 09142320-6）
+- 重掃語料庫（Helen Wang／方惠音）命中 [[works/taiwaneseamericanhistory-org/ourjourneys60|咱的故事—NATWA的歷史]]、英文版 [[works/taiwaneseamericanhistory-org/ourjourneys60-eng|Our Journeys #60]]、[[works/taiwaneseamericanhistory-org/175-helen-wang|TAH #175]]、[[works/taiwaneseamericanhistory-org/whos-who-1728-helen-wang|TAH #1728]] — 均為本頁已連結記錄，本人事實已吸收於上節，無新事實。
+- HOLD: 前後任會長返臺年份冲突 — 中文版 [[works/taiwaneseamericanhistory-org/ourjourneys60|咱的故事]] 載陳麗英 **1994 年 2 月**帶團返臺協助世界婦女高峰會議；英文版 [[works/taiwaneseamericanhistory-org/ourjourneys60-eng|Our Journeys #60 (eng)]] 同段作 **February 1992**（且人名譯作 Li-Ying Lee）。兩版年份不一致，維持現載（1994），未自動合併。
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

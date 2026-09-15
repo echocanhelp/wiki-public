@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-14
+last_reviewed: 2026-09-15
 ---
 # Prof. Shih-I Chu (朱時宜教授)
 
@@ -52,6 +52,7 @@ _No filled family fields on the TAH profile._
 - No vault pages exist for Univ. of Kansas, National Tsing Hua Univ., Harvard Univ., or NTU CQSE — no further cross-links added (existing Harvard-affiliated org pages do not document membership for this person).
 - Corpus grep (2026-09-14, deepen-x slice 26): hits in content/works + content/articles limited to his own bibliographic record [[works/taiwaneseamericanhistory-org/whos-who-1858-shih-i-chu|TAH #1858]] and the works index — no memoir/community material absorbable. SKIP (no new facts).
 - Corpus grep re-check (2026-09-14, deepen-x slice 09141500-10): same result — only his own bibliographic page and the works index. SKIP (no new facts).
+- Corpus grep re-check (2026-09-15, deepen-x slice 09142320-7): same result — only [[works/taiwaneseamericanhistory-org/whos-who-1858-shih-i-chu|TAH #1858]] and the works index. SKIP (no new facts).
 
 ## Sources
 - [TAH #1858 encyclopedia: 1858. Prof. Shih-I Chu 朱時宜教授](https://taiwaneseamericanhistory.org/whos-who-1858-shih-i-chu/)

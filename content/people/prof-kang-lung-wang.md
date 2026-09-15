@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-14
+last_reviewed: 2026-09-15
 ---
 # Prof. Kang-Lung Wang (王康隆教授)
 
@@ -39,6 +39,9 @@ Prof. Kang-Lung Wang 王康隆教授 – History of Taiwanese American (T.A. Arc
 ## Sources
 - [TAH #1787 encyclopedia: 1787. Prof. Kang-Lung Wang 王康隆教授](https://taiwaneseamericanhistory.org/whos-who-1787-kang-lung-wang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-kang-lung-wang/)
+
+## Deepen-x 2026-09-15（slice 09142320-6）
+- SKIP-with-reason：語料庫重掃（王康隆／Kang-Lung Wang）仍僅命中出處頁 [[works/taiwaneseamericanhistory-org/whos-who-1787-kang-lung-wang|TAH #1787]]（書目記錄）及 works/index；community／memoir 材料零命中，無可吸收事實。
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
