@@ -54,6 +54,9 @@ TAH records held in this vault:
 ## Corpus cross-reference（deepen 2026-09-14）
 - HOLD: conflict — 語料庫唯一其他hits [[works/taiwaneseamericanhistory-org/our-journeys-373|TAH #373 The Overseas Taiwanese Student Movement And Its Impact on Post-Sunflower Movement Politics]]（New Bloom, 2021/06）提及「Lee Bo-yi (李柏毅)」為倫敦 Formosa Salon 發起人之一、後當選台湾國家建設聯合中心常務委員；以其留英學生背景與本頁 1989 年生洛杉磯自閉症藝術家之生平無法對應，疑似同名異人，不併入本頁。
 
+## Corpus recheck（deepen-x slice 09141400-8, 2026-09-14）
+- SKIP-with-reason：本頁已於先前 deepen pass 吸收全部語料（[[works/taiwaneseamericanhistory-org/artist14-leland-lee|TAH #14]]、[[works/taiwaneseamericanhistory-org/ota-267|#267]]、[[works/taiwaneseamericanhistory-org/videos-172|#172]] 三頁均已載；[[works/taiwaneseamericanhistory-org/our-journeys-373|#373]] 同名異人 HOLD 已載）。本次重掃 hits 僅同批既有條目與 index 列表，無新社群事實可吸收。
+
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

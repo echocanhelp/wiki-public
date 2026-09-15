@@ -54,6 +54,9 @@ Absorbed from this page's TAH encyclopedia entries (#366, #151) and the TAH tabl
 ## Role in the Community（corpus sweep 2026-09-14）
 - 台美融合樂團 Hsu-Nami（以二胡為主旋律的紐約樂團，團長 Jack Hsu）2016 年同名專輯曲目〈Reincarnation〉弦樂編制中，許華洲擔任大提琴（小提琴 Jack Hsu、中提琴 Andy Lin），於 Jack Hsu 個人錄音室混入管弦編曲——見 A 級口述訪談 [[works/taiwaneseamerican-org/the-hsu-nami-new-album|《The Hsu-Nami Storm Back Again with New Album》（taiwaneseamerican.org，2016-06-27）]]。此為其在台美人音樂圈實際參與的一手記錄。
 
+## Corpus recheck（deepen-x slice 09141400-8, 2026-09-14）
+- SKIP-with-reason：hits 為本人 TAH 條目（[[works/taiwaneseamericanhistory-org/366-hwa-chow-oliver-hsu-e8-a8-b1-e8-8f-af-e6-b4-b2201504|#366]]、[[works/taiwaneseamericanhistory-org/151-hwa-chow-oliver-hsu-e8-a8-b1-e8-8f-af-e6-b4-b2201502|#151]]，均已吸收）與 index 列表，無新社群事證；Hsu-Nami 大提琴參與記錄維持現載。
+
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

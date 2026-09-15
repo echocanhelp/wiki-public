@@ -51,6 +51,10 @@ Descendant Hsu Ya-chin (許雅琴) led the heritage application (reviewed Mar 20
 
 - 連結複核：紀念對象 [[people/hsu-ling-yun||許凌雲]]、同莊許氏 [[people/hsu-ching-chun||許景淳]]、[[organizations/presbyterian-church-in-taiwan||PCT]]、出處樞紐 [[sources/penghu-info||penghu.info]] 頁皆已存在，連結全部解析成立；vault 內無本頁未載之新事實。
 
+## Vault records (deepen pass 2026-09-14, slice 8)
+
+- SKIP-with-reason：corpus 檢索「許凌雲／Hsu Ling-yun／秀才紀念館」於 works/、articles/ 零命中，無可吸收之社團/語料事實；既有內容與連結已於 slice 1、16 兩次 deepen pass 複核通過。
+
 ## Sources
 
 1. [澎湖知識服務平台](https://penghu.info/OB08DF845E664F47451E)
