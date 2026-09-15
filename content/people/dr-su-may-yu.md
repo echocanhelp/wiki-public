@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-14
+last_reviewed: 2026-09-15
 ---
 # Dr. Su-May Yu (余淑美博士)
 
@@ -51,3 +51,6 @@ _No filled family fields on the TAH profile._
 - 出中興大學植物病理系、阿肯色大學植物生物與病理學博士（1984）後，歷羅徹斯特大學、康乃爾大學博士後（1984–1988）。
 - 中央研究院分子生物研究所職涯 ladder：副研究員（1989–1997）→ 研究員（1997–2008）→ 傑出研究員（2008–），全履歷見上方 TAH #2045 出處。
 - 2009 年获世界工業與科技研究組織「最佳創意女科學家獎」，为本页唯一记载之获奖记录。
+
+## Corpus re-grep (2026-09-15)
+- SKIP: 再grep僅見本身TAH出處頁 whos-who-2045 及 works index，無新語料可吸收。
