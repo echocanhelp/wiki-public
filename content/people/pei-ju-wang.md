@@ -60,3 +60,4 @@ _No filled family fields on the TAH profile._
 - deepen-x 09150400-26（2026-09-15 覆核）：再 grep（王培儒／Pei-Ju Wang）命中僅自身出處頁 #265、#531 與 [[works/index|works index]] 條目行 — 維持 **SKIP（理由：無非出處頁語料）**。
 - deepen-x 09150500-19（2026-09-15 覆核）：再 grep（王培儒／Pei-Ju Wang，works+articles）命中仍僅自身出處頁 #265、#531 — 維持 **SKIP（理由：無回憶錄／社群一手材料）**。
 - deepen-x 09150600-9（2026-09-15 覆核）：再 grep 命中僅自身出處頁 #265、#531、works index 條目行，另有 #1999 Prof. Pei-Jung Lin（姓名相近之另一人）slug 假性命中 — 維持 **SKIP（理由：無非出處頁語料）**。
+- deepen-x 09150700-5（2026-09-15 覆核）：再 grep（王培儒／Pei-Ju Wang，works+articles）命中仍僅自身出處頁 #265、#531 與 [[works/index|works index]] 條目行 — 維持 **SKIP（理由：無回憶錄／社群一手材料）**。

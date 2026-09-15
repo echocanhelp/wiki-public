@@ -39,6 +39,7 @@ The corpus shows Wang as both a community leader and a TAH philosophy essayist:
 - Own TAH entry: [[works/taiwaneseamericanhistory-org/whos-who-1-wayne-lung-wang|TAH #1 Dr. Wayne Lung Wang 王文隆博士]].
 - Artist-side collaboration and stage work: with painter 蔡烈輝 he co-authored the political-artwork piece [[works/taiwaneseamericanhistory-org/footsteps-15|15. UN for Taiwan 台灣加入聯合國 (2014)]], and the Chicago cultural memoir [[works/taiwaneseamericanhistory-org/ourjourneys167|167. 咱的鄉土，咱的歌—芝城台灣文化促進會公演記實 (2015-08)]] credits him as 佈景設計 (set designer) for the association's landmark stage production. His own memoir [[works/taiwaneseamericanhistory-org/mystories628|628. 回鄉的經驗 (2018-02)]] is also in the corpus, and 黃根深's [[works/taiwaneseamericanhistory-org/ourjourneys256|256. 寫在畫展之前 (2016-10)]] carries a corroborating artist note: 1944年生，宜蘭人.
 - HOLD: the TAH profile's era "1944" vs. a 1959–1964 Taipei Institute of Tech diploma (age ~15 at entry) — plausible but not independently confirmed; no auto-merge.
+- Corpus re-verified（deepen-x slice 09150700-15, 2026-09-15）：命中集不變——本人 TAH #1 記錄、芝加哥台灣同鄉會史 #378（1988 會長任次）、哲學著作 publications 290／291／1143／1144；社群事跡已全數吸收於上，無新增素材。
 
 ## Family
 
