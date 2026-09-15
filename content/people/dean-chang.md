@@ -55,6 +55,7 @@ Accomplishment
 - 1971 年威廉波特世界少棒賽台美人保護行動之親身回憶（小學時以馬鈴薯刻台灣形印章發傳單；後入西點、獲雷根總統召見、退役後入哥倫比亞大學）：見 [[works/taiwaneseamericanhistory-org/ourjourneys62||Our Journeys #62]]（Subjects 已列 [[people/dean-chang]]）。
 - 撰寫人紀錄：[[works/taiwaneseamericanhistory-org/mystore-755||TAH #755：Tribute to Dr. Bob Cheng（2020/09，Dean Chang 著）]]。
 - 「第一位第二代台美人任國務院外交官（外交系統）」紀錄：見已引用之 [[works/taiwaneseamericanhistory-org/ff45|TAH #45]]、[[works/taiwaneseamericanhistory-org/ff44|TAH #44]]。
+- （複掃 2026-09-14，slice 20）1971 威廉波特保護行動馬鈴薯刻印軼事的英文版記錄亦在庫：[[works/taiwaneseamericanhistory-org/ourjourneys62-eng||Our Journeys #62（英文版）]]（英文版並列 [[people/frank-lai|賴文雄]]、[[people/tzutsai-cheng|鄭自才]] 為 Subjects）。除此之外語料庫命中均為已連結之本人書目／相簿記錄，無新事實可吸收。
 
 ## Sources
 - [TAH #24 encyclopedia: 24. Dean Chang ( 張怡仁) Presenting the West Point Yearbook to President Reagan  By](https://taiwaneseamericanhistory.org/ourfootstapes-24/)

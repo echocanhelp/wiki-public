@@ -60,3 +60,6 @@ TAH encyclopedia records held in this vault:
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - [[sources/taiwaneseamericanhistory-org-story-corpus||TAH story corpus]] — hub for the encyclopedia records above
 - [[organizations/taiwanese-association-of-cincinnati||Taiwanese Association of Cincinnati]] — Greater Cincinnati community where she performs
+
+## Deepen pass (slice 09141400-14, 2026-09-14)
+- corpus grep（content/works＋content/articles，漢名「尤韋琁」與英文名皆查）僅命中本人兩則 TAH 百科書目記錄（#296、#645，已列於上）與 works/index；memoir／articles 語料無任何提及，SKIP-with-reason：無可吸收之社群語料。
