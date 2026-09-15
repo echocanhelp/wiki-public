@@ -51,3 +51,7 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+## deepen 2026-09-15
+- 語料庫複核：社群事跡命中（#69/#106/#233/#266、TAH #23/#33/#270）已全數吸收於 Role in the Community，黑名單回憶錄學歷衝突 HOLD 維持。
+- articles 檢索另見三位同名異人：桃園中壢無黨籍立委候選人李文雄（2020 選舉名單）、舊金山佛利蒙特台裔僑領／僑務委員李文雄（商家破窗、童玩節出席報導）——非本人，不吸收，僅此備註免後誤併。
