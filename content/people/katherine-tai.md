@@ -42,7 +42,7 @@ _No filled family fields on the TAH profile._
 Corpus grep (`content/works` + `content/articles`) shows she surfaces in our news archive as a Taiwan–U.S. trade figure, not just a USTR bureaucrat:
 
 - **Confirmation hearing, 2021-02-25.** At her Senate Finance Committee hearing she stated China must honor Phase-One trade-agreement commitments and that the Biden team views tariffs as a valuable policy tool; she also said she would examine China's forced labor of ethnic minorities. Her parents, per the report, were born in China and raised in Taiwan before emigrating — the article files her under its Taiwanese-American category: [[articles/taiwanjustice-net/2021/20210419115654_2021_02_25_汽車晶片短缺_美國會議員向蕭美琴求助_10e3a027ce22991c|TAJ 2021-02-25 汽車晶片短缺報導]].
-- **Taiwan linkage in office.** At the same hearing Sen. Stabenow raised the auto-chip shortage caused by reduced shipments from Taiwanese makers, and community coverage tracked her role in the U.S.–Taiwan economic track: 戴琪與鄧振中首度視訊對話、美台重啟 TIFA (2021-06-10), archived in the vault.
+- **Taiwan linkage in office.** At the same hearing Sen. Stabenow raised the auto-chip shortage caused by reduced shipments from Taiwanese makers, and community coverage tracked her role in the U.S.–Taiwan economic track: [[articles/taiwanjustice-net/2021/20210616081448_2021_06_10_戴琪與鄧振中首度視訊對話_美台未來數週重啟tifa_4a5080befc342f69|戴琪與鄧振中首度視訊對話、美台重啟 TIFA (2021-06-10)]], archived in the vault.
 
 Absorbed from vault pages already naming her (no web):
 
