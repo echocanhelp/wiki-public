@@ -37,7 +37,8 @@ Accomplishment
 - **Mother:** Lynn Chen
 
 ## Vault records (deepen pass 2026-09-14)
-- Bibliographic records in the TAH story corpus: [[works/taiwaneseamericanhistory-org/whos-who-1880-melanie-lee||TAH #1880 encyclopedia entry]], [[works/taiwaneseamericanhistory-org/ff337||TAH #337 encyclopedia entry]], [[works/taiwaneseamericanhistory-org/melanie-lee||TAH person record]]（value band B，全文存 vault）
+- Bibliographic records in the TAH story corpus: [[works/taiwaneseamericanhistory-org/whos-who-1880-melanie-lee||TAH #1880 encyclopedia entry]], [[works/taiwaneseamericanhistory-org/ff337||TAH #337 encyclopedia entry]], [[works/taiwaneseamericanhistory-org/52913||TAH #211 encyclopedia entry]]（published 2019-01-05）, [[works/taiwaneseamericanhistory-org/melanie-lee||TAH person record「Melanie Lee 李玫蘭 in New York」]]（value band B，全文存 vault）
+- Community record: the vault's person record places her in New York（2020-06-01 刊載），consistent with her NYC school-leadership career.
 - Columbia 在校參與：紀錄載其任校內台灣學生社團會長 — [[organizations/columbia-university-taiwanese-american-students-association||Columbia University Taiwanese American Students Association]]
 
 ## Sources
