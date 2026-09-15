@@ -53,5 +53,14 @@ Prof. Chin-Hsien (Jim) Wang 王進賢教授 – History of Taiwanese American (T
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
+## Role in the Community（corpus 吸收 2026-09-14）
+
+據黃東昇（Ed Huang）2020-02 撰 TAC-WC 會史（[[works/taiwaneseamericanhistory-org/ourjourneys352||TAH #352]]）：
+
+- 2016-2017 年 TAC-WC 董事會籌組時，他獲邀出任首批五位區域董事之一，負責 Salt Lake City–Las Vegas 區域（依原文區序），與李賢群 Tony Lee（Los Angeles）、周昭亮 John Chou（Seattle）、王克雄 Ken Wang（San Diego）、黃東昇 Ed Huang（San Francisco–Sacramento）共組董事會，柯耀宗 Daniel Ko 任顧問；會章由 Steve Lin 主稿，San Diego 的傅郁子 Vivian Fu 辦理法人登記。
+- 2017-05 TAC-WC 正式宣布成立董事會（San Diego 的王克雄 Ken Wang 出任首任董事長），並決定五區域輪值年會。
+- 2019 年由他在猶他大學主辦 TAC-WC Salt Lake City 年會——與任內 Utah 地區台美人社區龍頭角色相呼應。
+- 其 Employment 欄所載「Taiwanese Association, Utah Chapter — President」「TAC-WC — Coordinator」與會史記載互相印證，無衝突。
+
 ## deepen 2026-09-14
 - 出處頁出版日（自 vault works 頁）：[[works/taiwaneseamericanhistory-org/ota-244||TAH #244]] 2019-02-09、[[works/taiwaneseamericanhistory-org/whos-who-418-chin-hsien-wang||TAH #418]] 2015-05-20、[[works/taiwaneseamericanhistory-org/ourjourneys352||TAH #352]]。
