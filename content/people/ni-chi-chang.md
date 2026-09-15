@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-14
+last_reviewed: 2026-09-15
 ---
 # Ni-Chi Chang (張倪綺)
 
@@ -58,3 +58,4 @@ Her two vault records are [[works/taiwaneseamericanhistory-org/musician421|TAH #
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- 2026-09-15 slice 09142319-27 複掃：命中僅本頁書目記錄 #421／#1813（皆已連結）；回憶錄/社群文獻無提及——**SKIP（無可吸收之新增社群事實）**。

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-14
+last_reviewed: 2026-09-15
 ---
 # Dr. Gichiong Khu (邱義昌博士)
 
@@ -58,3 +58,6 @@ All facts above are absorbed from vault pages of the cited TAH encyclopedia entr
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+## Vault note (deepen-x 2026-09-15, slice 09142319-27)
+全語料重掃（邱義昌／Gichiong Khu）：命中僅已連結之本人出處頁——ourjourneys8（含 EN）、ourjourneys156、mystories-791、publications284、whos-who-1460；社群文獻無新增事實——**SKIP（出處已全數連結）**。

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-14
+last_reviewed: 2026-09-15
 ---
 # Dr. Chung Chiu (邱強博士)
 
@@ -64,3 +64,4 @@ _No filled family fields on the TAH profile._
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - [[sources/taiwaneseamericanhistory-org-story-corpus|TAH 故事語料庫]]
 - [[organizations/association-of-taiwanese-students-at-mit|台美麻省理工同學會（留學 MIT 時期相關社團）]]
+- （複掃 2026-09-15，slice 09142319-27）：`邱強/Chung Chiu/Chong Chiu` 全語料重掃，命中僅已連結之本人出處頁 #1910、#100、#585——**SKIP（無可吸收之新增社群事實）**。
