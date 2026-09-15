@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-14
+last_reviewed: 2026-09-15
 ---
 # Jessie Chang (張晶晶)
 
@@ -44,6 +44,7 @@ Pianist Jessie Chang is admired for her beautiful tone, commanding technique, an
 ## 社群連帶（deepen pass 2026-09-14）
 - 2011 年春，張晶晶與小提琴手 [[people/tah-p-0e321dc33f||蔡佩君（Pei Chung Tsai）]] 在聖地牙哥舉行獨奏會（自蔡佩君頁吸收；兩人同為聖地牙哥交響樂團音樂圈）。
 - Corpus re-check 2026-09-14 (deepen-x slice 16): grep across works/articles returns only her own TAH bio records #731/#321 — no memoir/community passages absorbable beyond the 2011 獨奏會 note above. SKIP-with-reason.
+- Corpus re-check 2026-09-15 (deepen-x slice 19): re-grepped 張晶晶/Jessie Chang — same result (#731, #321 + index listings only). SKIP-with-reason; no new material.
 
 ## Sources
 - [TAH #731 encyclopedia: 731. Jessie Chang 張晶晶/ 2015/12](https://taiwaneseamericanhistory.org/731-jessie-chang-%e5%bc%b5%e6%99%b6%e6%99%b6-201512/)
