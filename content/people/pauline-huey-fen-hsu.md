@@ -58,3 +58,4 @@ _No filled family fields on the TAH profile._
 - SKIP（deepen-x 09142320-5, 2026-09-15）：檢索復核，徐彗芬僅命中本人書目頁 #435 與 index（其餘 Pauline 命中為黃百齡、蕭百忍、邱曼怡、Pauline Chen 等其他人物），無可吸收事實。
 - SKIP（deepen-x 09150400-29, 2026-09-15）：grep 復核（徐彗芬／Huey-Fen，works+articles）命中集合不變——僅本人書目頁 #435 與 index，維持 SKIP。
 - SKIP（deepen-x 09150500-21, 2026-09-15）：第三次 grep 復核命中集合不變——僅本人書目頁 #435 與 index，無可吸收事實，維持 SKIP。
+- SKIP 第四次確認（slice 09150600-11, 2026-09-15）：grep 復核（徐彗芬／Huey-Fen，works+articles）命中集合不變——僅本人書目頁 #435 與 index，無可吸收事實。
