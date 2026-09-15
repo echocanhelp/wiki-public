@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-15
 ---
 # Prof. T. L. Lin (林子倫教授)
 
@@ -35,6 +35,11 @@ Accomplishment
 ## Family
 
 _No filled family fields on the TAH profile._
+
+## Role in the Community
+- His two community roles are independently documented as community-historical records in the TAH story corpus: [[works/taiwaneseamericanhistory-org/north-american-taiwan-studies-association-ef-bc-88natsa-ef-bc-89|2. North American Taiwan Studies Association（NATSA）北美臺灣研究學會]] (2014), of which he served as president, and [[works/taiwaneseamericanhistory-org/taiwan-environmental-action-network-tean|22. Taiwan Environmental Action Network (TEAN) 台灣環境行動網]] (2016), which he initiated and convened.
+- His TAH encyclopedia entry is preserved at [[works/taiwaneseamericanhistory-org/whos-who-1765-t-l-lin|TAH #1765 encyclopedia: 1765. Prof. T. L. Lin 林子倫教授]].
+- No memoir or club mentions beyond these records in content/works / content/articles.
 
 ## Sources
 - [TAH #1765 encyclopedia: 1765. Prof. T. L. Lin 林子倫教授](https://taiwaneseamericanhistory.org/whos-who-1765-t-l-lin/)
