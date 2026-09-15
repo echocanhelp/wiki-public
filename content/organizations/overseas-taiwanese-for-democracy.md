@@ -24,6 +24,7 @@ Overseas Taiwanese for Democracy (海外台灣青年陣線) is a North American 
 - **2014-08** — Founded per member 林子堯's account: while studying economics at the University of Maryland he was inspired by Taiwan's g0v zero-hour government data-visualisation platform during 318; that August he met like-minded youths from other U.S. states, and the group formed an online exchange platform, later named 海外台灣青年陣線 (海台青)
 - **2015** — Held an annual conference themed around cross-generational Taiwanese subjectivity
 - **2017** — Introduced a hackathon (黑客松) workshop and Mandarin- and Taiwanese-speaking youth at the U.S. East Coast Taiwanese Summer Camp (TACEC), injecting new blood into the nearly half-century-old camp
+- **Post-2014** — Conferences held under the auspices of Overseas Taiwanese for Democracy (OTD) connected Taiwanese students studying across the U.S.; organising was assisted by FAPA, the main Taiwanese lobbying organisation in the US. First-hand account: [[works/taiwaneseamericanhistory-org/our-journeys-373|TAH #373 海外台灣學生運動與太陽花學運後政治]]
 
 ## Role in the Community
 
