@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-14
 ---
 # Masa C. W. Chen (陳正旺)
 
@@ -29,6 +29,10 @@ Accomplishment
 ## Employment
 - Tainan Agricultural Research and Extension Station (農林改良場) — Technician — (1963-1966) — Taiwan Rice Technical Mission in Philippines — Technician — (1966-1967) — Sino-Africa Agriculture Committee (今之台灣海外援助委員會) — Instructor — (1968-1969) — Bayer A.G., Germany — Tropical Agricultural Researcher — (1970-1984) — Orchid of Wainanae — Owner — (1983-) — Community — FAPA — Active member — TAA-HI — Active member
 <!-- tah-tables:end -->
+
+## Role in the Community
+
+Per his TAH record ([[works/taiwaneseamericanhistory-org/whos-who-2294-masa-c-w-chen|TAH #2294 Who's Who profile]]), Chen has been an active member of the Hawaiian Taiwanese community: a member of [[organizations/taiwanese-student-association-for-public-affairs|FAPA]] and of the [[organizations/taiwanese-association-of-america-hawaii|Taiwanese Association of America — Hawaii]]. His career moved from Taiwan's agricultural extension service and the Philippines rice technical mission through Bayer AG tropical agricultural research (1970-1984) to orchid farming in Hawaii (Orchids of Wainanae, owner from 1983).
 
 ## Family
 

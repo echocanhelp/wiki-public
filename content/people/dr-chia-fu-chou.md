@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-14
 ---
 # Dr. Chia-Fu Chou (周家復博士)
 
@@ -42,3 +42,6 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- [[works/taiwaneseamericanhistory-org/whos-who-2067-chia-fu-chou|TAH #2067 Who's Who profile]]
+
+<!-- HOLD: works/taiwaneseamericanhistory-org/139-creation-of-medical-miracles... and videos-166 (醫學奇蹟, UCLA professors, 2020) match on topic only — neither text names 周家復, whose posts are ASU / Academia Sinica, not UCLA. Not linked; needs confirmation before absorbing. -->
