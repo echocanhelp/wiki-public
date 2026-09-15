@@ -2,7 +2,7 @@
 title: "Russell Hsiao"
 type: person
 name_en: "Russell Hsiao"
-name_zh: ""
+name_zh: "蕭良其"
 tags:
   - person
   - tah-whos-who
@@ -13,7 +13,7 @@ last_reviewed: 2026-09-15
 
 ## Identity Snapshot
 - **English:** Russell Hsiao
-- **Chinese:** —
+- **Chinese:** 蕭良其（corpus 中文報導所記）
 - **Era:** --
 - **Geography:** --
 - **Core roles:** lawyer
@@ -37,6 +37,8 @@ Experienced policy analyst and analytics manager with a demonstrated history of 
 **Global Taiwan Institute.** Hsiao has led GTI (全球台灣研究中心) as Executive Director from its founding in Washington, DC in 2016. The Echopedia corpus preserves the institute's own community record: [[works/taiwaneseamericanhistory-org/important2016-9|TAH #9 — The beginning of GTI in DC, Sept. 14, 2016]], its institutional history [[works/taiwaneseamericanhistory-org/history-of-gti-global-taiwan-institute|TAH #47 — History of GTI (2018-02-12)]], directory profile [[works/taiwaneseamericanhistory-org/global-taiwan-institute|TAH #49 — Global Taiwan Institute (2016-09-15)]], and the [[works/taiwaneseamericanhistory-org/newsletter-of-global-taiwan-institute|GTI newsletter record (2018-03-30)]]. Under GTI's aegis the community also hosted the October 2020 Taiwanese film week documented in [[works/taiwaneseamerican-org/ta-film-festival-guide-2020|Taiwanese and Taiwanese American Film Festival Guide: Fall 2020]].
 
 **TAH encyclopedia record.** His own Who's Who entry is archived at [[works/taiwaneseamericanhistory-org/whos-who-1550-russell-hsiao|TAH #1550 (2017-03-15)]]. His pre-GTI posts — Taiwan Foundation for Democracy (2005–2007), The Jamestown Foundation's China Brief (2007–2011), Project 2049 Institute (2011–2013) — place his movement work in the Washington policy corridor.
+
+**Corpus addendum (slice 09150700-24).** 語料庫中文報導顯示其漢名 **蕭良其**：美國之音中文報導引述他以全球台灣研究中心執行主任身分評論蓬佩奧2020-01演說（「一個新的『民主聯盟』將是一個非常關鍵和重要的倡議」）——見 [[articles/taiwanjustice-net/2023/20230322165607_2020_07_24_蓬佩奧籲建新民主聯盟_專家稱若推此倡議台灣將_96ee9a6ae685a304|蓬佩奧籲建新民主聯盟（報系轉載）]]。另2017年紐約「海台青與黑客松」社運論壇紀錄：他與 FAPA 副會長林希明應邀主講「如何爭取美國政圈支持台灣」——見 [[articles/taiwanjustice-net/2021/20211207123518_2017_07_24_海台青與黑客松-_-楊遠薰-2017-07-24_2c9cb76838702dd7|海台青與黑客松（楊遠薰, 2017-07-24）]]。
 
 ## Family
 

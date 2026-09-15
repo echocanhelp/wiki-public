@@ -28,6 +28,12 @@ The Evergreen Class is documented across the TAH corpus as one of the most durab
 
 The 10th anniversary (2019) and the founding note (since September 2009) are consistent with the page's session-count claim of 200+ sessions.
 
+### Disambiguation (corpus re-grep 2026-09-15)
+Other "Evergreen/長青" hits in the TAH corpus are **distinct organizations**, not this class, and must not be merged into it:
+- Houston Formosan Evergreen Association 休士頓台灣長春會 ([[works/taiwaneseamericanhistory-org/2-houston-formosan-evergreen-association|TAH #2]]); its Shou-chang Ou appears on the 1992 Taiwan Community Center-Houston management committee ([[works/taiwaneseamericanhistory-org/ourjourneys233-eng|Our Journeys 233]]).
+- Evergreen Association, a Wednesday user of the NYC Taiwan Center in the early 1990s ([[works/taiwaneseamericanhistory-org/ourjourneys27-eng|Our Journeys 27]]).
+- Taiwanese Evergreen Academy of Northern California 北加州臺灣長青學院 ([[works/taiwaneseamericanhistory-org/annual-books-of-taiwanese-evergreen-academy-of-northern-california|yearbook]]).
+
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/evergreen-class-by-irvine-taiwanese-presbyterian-church-laguna-hills-ca/)
 

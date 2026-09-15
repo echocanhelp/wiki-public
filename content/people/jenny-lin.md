@@ -48,3 +48,6 @@ _No filled family fields on the TAH profile._
 
 ## Vault Record Notes
 - TAH story records held in vault: [[works/taiwaneseamericanhistory-org/whoswho1089|TAH #1089 Jenny Lin 林佳靜 (2016/06)]], [[works/taiwaneseamericanhistory-org/musician16|TAH #16 Jenny Lin 林佳靜, Pianist (2014/10)]], [[works/taiwaneseamericanhistory-org/520-jenny-lin-e6-9e-97-e4-bd-b3-e9-9d-9c-201507|TAH #520 林佳靜 (2015/07)]], [[works/taiwaneseamericanhistory-org/musical-concerts-159|TAH #159 Formosan Chamber Music Society / Jenny Lin Piano (2002-10-25)]]
+
+## Corpus re-check (2026-09-15)
+Re-grep 林佳靜|Jenny Lin against content/works + content/articles returned only her own already-cited TAH bibliographic records (#16, #159, #1089; the #520 record page exists on disk) plus the works index. All are wikilinked above; no memoir/community material beyond the #159 concert note already absorbed, no conflicts to hold.
