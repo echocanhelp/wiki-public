@@ -70,3 +70,4 @@ _No filled family fields on the TAH profile._
 
 - Slice 09150316-16 語料複核 (2026-09-15): grep (works+articles) 命中僅本人兩則 TAH 書目記錄 (#274、#545, 已連結) 與 works index；memoir 語料無新事實——SKIP。
 - Slice 09150400-13 語料複核 (2026-09-15): grep (works+articles) 命中集不變（#274、#545 已連結＋works index）；memoir 語料 0 提及——SKIP，無衝突需 HOLD。
+- Slice 09150500-7 語料複核 (2026-09-15): grep (works+articles) 除本人 #274、#545 書目記錄外，ourjourneys 命中均為「呂瑞文 Raymond Lu」（[[works/taiwaneseamericanhistory-org/ourjourneys271|TAH #271]] 等，同鄉會人物，非本人）之子串誤命中；memoir 語料 0 真實提及——SKIP，無衝突需 HOLD。

@@ -68,5 +68,8 @@ Corpus grep (content/works, content/articles) hits only her own bibliographic re
 ## Deepen-x 2026-09-15 (slice 09142319-30)
 - SKIP-with-reason: corpus re-grep（曹恩菱／Daphne Tsao）hits only own records [[works/taiwaneseamericanhistory-org/whos-who-2032-daphne-tsao|TAH #2032]]、[[works/taiwaneseamericanhistory-org/daphne-tsao-violin|TAH #426]]（書目記錄）— no memoir/community material absorbable.
 
+## Deepen-x 2026-09-15 (slice 09150500-12)
+- **SKIP-with-reason：** 重掃（曹恩菱／Daphne Tsao）命中仍僅自家書目頁 [[works/taiwaneseamericanhistory-org/whos-who-2032-daphne-tsao|TAH #2032]]、[[works/taiwaneseamericanhistory-org/daphne-tsao-violin|TAH #426]]；無回憶錄／社群正文可吸收，維持 SKIP。
+
 ## Deepen-x 2026-09-15 (slice 09150400-21)
 - SKIP-with-reason: corpus re-grep（曹恩菱／Daphne Tsao, works+articles）命中仍僅自家書目頁 [[works/taiwaneseamericanhistory-org/whos-who-2032-daphne-tsao|TAH #2032]]、[[works/taiwaneseamericanhistory-org/daphne-tsao-violin|TAH #426]]；無回憶錄/社群正文可吸收，維持 SKIP。

@@ -77,3 +77,4 @@ Married to [[people/t-y-ko||柯翠園]].
 - Slice 09142319-16 語料複核 (2026-09-15): grep 僅命中 [[works/taiwaneseamericanhistory-org/mystories512|TAH #512]] 與 [[works/taiwaneseamericanhistory-org/whoswho1410|TAH #1410]], 均已吸收於上; 語料無新事實——SKIP。
 - Slice 09150316-13 語料複核 (2026-09-15): grep 陳彥升/Yen-Sen Chen（works+articles）命中僅 #512、#1410（皆已吸收）與 index adjacency；memoir 語料無新事實——SKIP。
 - Slice 09150400-11 語料複核 (2026-09-15): grep 陳彥升/Yen-Sen Chen（works+articles）命中僅 #512、#1410 書目記錄（皆已吸收）；memoir 語料無新事實——SKIP。
+- Slice 09150500-4 語料複核 (2026-09-15): 命中集無變（僅 #512、#1410）；memoir 語料無新事實——SKIP。
