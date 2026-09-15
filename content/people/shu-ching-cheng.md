@@ -39,6 +39,17 @@ Accomplishment
 - Pacific Biotech — Deputy Vice Director — (1982-) — Wyntek Diagnostics — Co-founder — (1994-) — Genzyme Diagnostics San Diego (formerly Wyntek Diagnostics, Inc.) — Vice President of Operations — Community — Tsunah Foundation (美國慈林基金會) — Chairman — Taiwanese American Foundation of San Diego — Co-founder; Secretary and Board Member — Taiwan Center in San Diego — Co-founder — San Diego County CLERB (Citizens' Law Enforcement Review Board) — Board Member — NATWA/Greater San Diego Chapter (北美洲台灣婦女會聖地牙哥分會) — President
 <!-- tah-tables:end -->
 
+## Role in the Community
+Corpus-absorbed (deepen-x slice 28, 2026-09-14) from our own memoir [[works/taiwaneseamericanhistory-org/ourjourneys26|26. 聖地牙哥台灣中心的前半生與轉型 / 黃正源]] and its English counterpart [[works/taiwaneseamericanhistory-org/ourjourneys26-eng|the English translation]]:
+
+- 黃正源's memoir of the San Diego Taiwan Center records that the 台美基金會 board elected 賴淑卿 and 鄭德昌 (Edward Cheng) 夫婦 onto the board, citing their long shared experience co-founding businesses; their addition made board operations more dynamic.
+- Under the couple's push, the board rewrote its constitution: director seats expanded to 30, terms lengthened from two to three years, and the one-year-out-before-reelection rule removed — so more 鄉親 could directly run the Foundation and the Taiwan Center.
+- They instituted director-led fundraising (a target of $3,000–5,000 per director per year) to cover the Taiwan Center's $100,000+ annual fixed operating costs — fundraising became a formal duty of a director.
+- Note: the English memoir transliterates her name "Shu Cheng Cheng"; treat as the same person as 賴淑卿 / Shu-ching Cheng.
+
+## Network
+- Husband-and-board-partner: [[people/dr-edward-cheng||Edward Cheng (鄭德昌)]]; fellow directors named in the same memoir include 范清亮 (Dr. Chris Fan, chairman, [[works/taiwaneseamericanhistory-org/whos-who-880-chris-fan|TAH #880]]) and 陳秋山.
+
 ## Family
 
 - **Husband:** [[people/dr-edward-cheng||Edward Cheng (鄭德昌)]]
