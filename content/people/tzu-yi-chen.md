@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-14
+last_reviewed: 2026-09-15
 ---
 # Tzu-Yi Chen (陳孜怡)
 
@@ -60,3 +60,5 @@ _No filled family fields on the TAH profile._ The profile narrative does record 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+- SKIP 確認（slice 09142320-10, 2026-09-15）：復檢 works/ + articles/，命中僅本人自有 TAH 書目頁、index 目錄列項（Cindy Chen 另有同名異人 Cindy Cheng 一頁），無回憶錄/社群第一手材料可吸收；無新增連結。
