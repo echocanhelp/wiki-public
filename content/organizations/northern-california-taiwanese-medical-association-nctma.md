@@ -30,4 +30,4 @@ The Northern California Taiwanese Medical Association (NCTMA) is a nonprofit pub
 - NCTMA 於 2000 年由北、南分會合併而成；同體系分會/基金会頁面：[[organizations/natma-southern-california|NATMA Southern California]]、[[organizations/north-american-taiwanese-medical-association-foundation|NATMA Foundation（1995 成立，國際醫療mission）]]。
 - 母協會 NATMA 紀錄：[[works/taiwaneseamericanhistory-org/north-american-taiwanese-medical-association-natma|北美洲台灣人醫師協會 NATMA]]、會訊 [[works/taiwaneseamericanhistory-org/enewsletter-natma|NATMA eNewsletter]]。
 ## Corpus re-check (2026-09-15)
-Re-grep 北加州台灣醫師會|NCTMA returned only the already-linked organization record page (2018-05-04, band B, bibliographic only) plus the works index. No new community facts absorbable; founders Dr. Ruijhen Song / Dr. Qiyi Chen and the 2000 north–south merger stand as stated. No conflicts to hold.
+Re-grep 北加州台灣醫師會|NCTMA (deepen-x slice 32) returned only the already-linked organization record page (2018-05-04, band B, bibliographic only) plus the works index. No new community facts absorbable; founders Dr. Ruijhen Song / Dr. Qiyi Chen and the 2000 north–south merger stand as stated. No conflicts to hold.
