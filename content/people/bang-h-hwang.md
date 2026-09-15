@@ -37,6 +37,12 @@ Assistant Professor of Anatomy
 - VA Puget Sound Health Care System, Seattle, WA — 2007-present — Senior Health Science Research Specialist
 <!-- tah-tables:end -->
 
+## Role in the Community
+
+- 1992–1993 — president of the Indianapolis Taiwanese American Association (印城台灣同鄉會), listed in the association's own historical roster of successive presidents in [[works/taiwaneseamericanhistory-org/our-journeys-389|389. 印城台灣同鄉會紀要 (12/2023)]] (band A, community history).
+- Same memoir places him among the Indianapolis circle — with 莊振戊, 吳群也, 吳良也, 楊水森, 吳義雄, 何源泉, 吳錦鍠 and John Conklin — that, through the Indiana chapter of FAPA (台灣人公共事務會) from the 1990s onward, lobbied Indiana's congressional delegation (Sen. Richard Lugar, chairman of the Senate Foreign Relations Committee, and Rep. Lee Hamilton, chairman of the House Foreign Affairs Committee) into resolutions promoting Taiwan's democratization, Taiwan Strait security, and US–Taiwan relations.
+- Corpus name-collision note: taiwanjustice-net (2021) carries health essays by a 「黃邦雄醫師」 (e.g. 長青教室心得報告 2018-11-02). HOLD: a physician writer vs this profile's anatomy researcher (Penn State / Indiana Univ. / VA Puget Sound) — no evidence they are the same person; NOT merged.
+
 ## Family
 
 _No filled family fields on the TAH profile._
