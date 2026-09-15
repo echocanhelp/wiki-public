@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-14
+last_reviewed: 2026-09-15
 ---
 # Ming Ten Dan Tsai (蔡明殿)
 
@@ -40,6 +40,8 @@ Tsai is recorded in the TAHS corpus as a human-rights worker (人權工作者) a
 - [[works/taiwaneseamericanhistory-org/124-e5-9c-a8-e6-b5-b7-e4-b9-8b-e8-a7-92-e8-94-a1-e6-98-8e-e6-ae-bf-1992-05-e6-96|TAH #124. 在海之角 – 蔡明殿 – 文學]] (1992-05) — literary piece, the earliest item under his name
 - [[works/taiwaneseamericanhistory-org/155-e8-94-a1-e6-98-8e-e6-ae-bf-e7-8e-8b-e6-b7-91-e8-8b-b1-the-first-farm-farmers|TAH #155. The first farm & farmers, Newton, N.J.]] (1982) — his own account of founding a farm in New Jersey
 - [[works/taiwaneseamericanhistory-org/whos841|TAH #841. Ming Ten Dan Tsai 蔡明殿]] (2016-02) — Who's Who entry
+
+HOLD (deepen-x slice 09150400-32, 2026-09-15): the corpus also names a 蔡明**憲** — a 同鄉 mentioned in [[works/taiwaneseamericanhistory-org/our-journeys-392|Our Journeys #392]] (his and 蔡其芳's mother spoke on stage at a 王成章牧師 gathering), and a member of the 1984 南加州台灣同鄉會 blacklist-breaking return delegation ([[works/taiwaneseamericanhistory-org/ourjourneys66|66. 南加州同鄉會組團回台 / 謝清志]]). Different given-name character (憲 vs 殿) and romanization (Ming-Hsien vs Ming Ten); likely a different person, NOT merged here.
 
 Read against the Education table, the corpus traces a single arc: 台大農推系 → Boston University special education → founding a farm in Newton, NJ (written up 1982) → literary output (在海之角 1992, 菜蟲的現代寓言 2015) → human-rights work. The movement treats his writing as movement writing, not a hobby. The era on this page (1945–2014) and the corpus items (1982–2016) raise no conflict.
 

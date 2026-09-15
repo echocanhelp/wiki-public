@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-14
+last_reviewed: 2026-09-15
 ---
 # PARRIS HSU-CHENG CHANG (張旭成)
 
@@ -51,6 +51,7 @@ PARRIS HSU-CHENG CHANG 張旭成 – History of Taiwanese American (T.A. Archive
 - **1989-12** — Joined NATPA's delegation observing Taiwan's立委/縣市長/省議員 elections (with 陳文彥、廖述宗、林宗光); the delegation returned to the US and issued a statement condemning KMT misuse of public power, non-neutral military, and money politics. [[works/taiwaneseamericanhistory-org/ourjourneys47|47. 北美洲台灣人敎授協會首度回台召開年會的經緯和歷史意義 / 林靜竹]]
 - The 廖述宗 memoir corroborates the table record below: after the 2000 political turnover, 張旭成 returned to Taiwan as a DPP 僑選立委 and later 國安會副秘書長. [[works/taiwaneseamericanhistory-org/ourjourneys69|69. 北美洲台灣人教授協會 / 廖述宗]]
 - Community directory profile: [[works/taiwaneseamericanhistory-org/535-parris-hsu-cheng-chang|535. PARRIS HSU-CHENG CHANG 張旭成 / 2015-08]].
+- Re-check (deepen-x slice 09150400-32, 2026-09-15): corpus grep against works/ + articles/ returns the same record set — his own directory page plus the memoirs already absorbed above, now also seen in English translation ([[works/taiwaneseamericanhistory-org/ourjourneys69-eng|69 (EN)]]、[[works/taiwaneseamericanhistory-org/ourjourneys74-eng|74 (EN)]] — same Oberlin 1983 camp and NATPA founding passages). No new absorbable community content.
 
 ## Sources
 - [TAH #535 encyclopedia: 535. PARRIS HSU-CHENG CHANG 張旭成 / 2015/08](https://taiwaneseamericanhistory.org/535-parris-hsu-cheng-chang/)

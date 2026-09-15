@@ -57,3 +57,4 @@ last_reviewed: 2026-09-15
 - His specimen-making legacy has a dedicated photo record in the vault: [[works/taiwaneseamericanhistory-org/photo-albums-activities-61|TAH #61 Animal Specimen 鄭瑞雄醫師的動物標本]] (2015-03), complementing the donated-specimen page TAH #11 above.
 - No further biography invented; verification still pending against the cited TAH pages.
 - Re-check (deepen-x slice 09142320-9, 2026-09-15): corpus grep against works/ + articles/ returns the same six band-B records (#11, #61, #114, #273, #314, mystories212) — all already linked above; no new absorbable community content.
+- Re-check 2 (deepen-x slice 09150400-32, 2026-09-15): grep again returns only those same six own-name records; no third-party memoir mentions. Nothing further absorbable.
