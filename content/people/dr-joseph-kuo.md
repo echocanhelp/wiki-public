@@ -61,3 +61,6 @@ last_reviewed: 2026-09-15
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+## Corpus re-check (slice 09142319-7, 2026-09-15)
+- Corpus grep (郭正昭／Joseph Kuo, works/ + articles/): all hits are records already absorbed into 'Role in the Community' / Vault Holdings above — TAH #69 林一洋醫師記念演講 record, 海外對話錄 series (publication1272–1276), Our Journey #12/#17/#104/#260, Who's Who #46. No new community material this pass; page remains deepened, HOLD on 博士 vs 教授 honorific preserved.

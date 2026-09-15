@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-14
+last_reviewed: 2026-09-15
 ---
 # Christina Shuyu Hsu (許吳漱玉)
 
@@ -71,6 +71,9 @@ last_reviewed: 2026-09-14
 
 ## Role in the Community
 - **寫作者／回憶錄作者**：本人撰有回憶散文〈捕捉記憶二三事〉，TAH 故事語料庫收為 #302（2015-07-09 發布）——見 [[works/taiwaneseamericanhistory-org/mystories302|302. 捕捉記憶二三事／許吳漱玉]]。這是不同於兩則百科條目（#44、#437，他人撰寫之介紹）的**本人親筆**第一手材料。
+
+## Deepen note (DEEPEN-X09142319-4, 2026-09-15)
+- 本輪重掃（許吳漱玉／Christina Hsu／Shuyu）之 hits 為已收錄之三則本人條目 —— [[works/taiwaneseamericanhistory-org/artist44-christina-hsu|#44]]、[[works/taiwaneseamericanhistory-org/whos437-christina-hsu|#437]]、親筆回憶錄 [[works/taiwaneseamericanhistory-org/mystories302|#302]] —— 及索引頁。無可再吸收之新事實，無衝突需 HOLD。SKIP-with-reason：語料庫材料已於前輪（slice 09141300-21）全數吸收，本輪僅刷新 last_reviewed。
 
 ## Deepen note (DEEPEN-X09141300-21, 2026-09-14)
 - 本輪語料庫掃描（works + articles）發現上述本人親筆回憶錄 #302 一則（先前本頁僅連結百科條目 #44、#437），已收錄並 wikilink；語料庫中另有 hits 皆為本頁既有条目或索引頁，無可再吸收之新事實，無衝突需 HOLD。

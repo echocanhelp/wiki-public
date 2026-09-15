@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-14
+last_reviewed: 2026-09-15
 ---
 # Taiwanese American Association Mid-Peninsula Taiwanese (北加州)
 
@@ -28,6 +28,9 @@ The Taiwanese American Association Mid-Peninsula Taiwanese (北加州 中半島�
 - The companion memoir [[works/taiwaneseamericanhistory-org/our-journeys-350|350. 美國舊金山灣區台灣基督教會史料簡介/何義麟/2019-11]] gives the federation's early English name as Northern California Formosan Federation (NCFF), founded September 1973. HOLD: conflict in the federation's English acronym — NCFF (corpus memoirs) vs TAFNC (page heading, TAA directory).
 - Federation-side activity documented in the vault (context for chapter life): 1978 「Joint Committee of Taiwanese American for 1980 U.S. Census」 with 協志會 and churches, urging 台美人 to write in "Taiwanese American" on the census; 1979 信用合作社 (Credit Union) home-purchase loans for young members, ~10 years of operation; 2003-01-25 三十週年慶祝 with 宋泉盛牧師's lecture 「台灣人民面臨抉擇的時刻」 (all from our-journeys-350).
 - Federation publications held in the vault: [[works/taiwaneseamericanhistory-org/357-e4-b8-89-e5-8d-81-e8-80-8c-e7-ab-8b-e5-8c-97-e5-8a-a0-e5-b7-9e-e5-8f-b0-e7-8|TAH #357 三十而立：北加州台灣同鄉聯合會成立三十週年特刊 (2003-09)]] · [[works/taiwaneseamericanhistory-org/770-e5-8c-97-e5-8a-a0-e5-b7-9e-e5-8f-b0-e7-81-a3-e7-a4-be-e5-8d-80-e8-81-af-e5-9|TAH #770 北加州台灣社區聯合通訊 第三冊第三期 (1991-10)]] · [[works/taiwaneseamericanhistory-org/771-e5-8c-97-e5-8a-a0-e5-b7-9e-e5-8f-b0-e7-81-a3-e7-a4-be-e5-8d-80-e8-81-af-e5-9|TAH #771 北加州台灣社區聯合通訊 第四冊第一期 (1992-04)]] · [[works/taiwaneseamericanhistory-org/publications778|TAH #778 2005 台灣文化節特刊 (2005-05)]].
+
+## Deepen note (DEEPEN-X09142319-4, 2026-09-15)
+- 本輪語料庫重掃（works + articles；Mid-Peninsula／中半島／北加州台灣同鄉聯合會）之 hits 皆為本頁已吸收之來源：[[works/taiwaneseamericanhistory-org/our-journeys-350|TAH #350]]、[[works/taiwaneseamericanhistory-org/our-journeys-357|TAH #357 回憶錄]]、TAH #357／#770／#771／#778 特刊書目。中半島臺灣同鄉會本身於語料庫中無其他一手記述。SKIP-with-reason：無可再吸收之新事實，僅確認既有記載並刷新 last_reviewed。
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-american-association-mid-peninsula-taiwanese/)

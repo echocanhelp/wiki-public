@@ -66,3 +66,6 @@ Born in Taipei, Taiwan, Linda began piano lessons at the age of four. A few year
 
 ## Deepen pass (2026-09-14)
 - 自既有 vault 引用複核：傳記事實（Eastman B.M. 2000、UMKC M.M. 2004 / DMA 2009、Kansas City Music Teachers Association 執行董事、Mu Phi Epsilon 區Director、2000 起私人琴室）全部出自已連結的 TAH #264/#530 vault 條目與 Who's Who 表欄，無可新增之既有 vault 事實；未新增頁面、未新闢傳記。last_reviewed 更新為今日。
+
+## Corpus re-check (slice 09142319-7, 2026-09-15) — SKIP
+- SKIP-with-reason: corpus grep (陳映妤／Linda Chen, works/ + articles/) matches only her own TAH #264/#530 entry pages (already linked above) plus index.md rows. No memoir/community material mentions this subject; nothing absorbable.

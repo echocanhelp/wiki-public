@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-14
+last_reviewed: 2026-09-15
 ---
 # Ching-Fen Lin (張靜芬)
 
@@ -61,3 +61,4 @@ _No filled family fields on the TAH profile._
 - Her Houston conducting post (狂飆 chorus) sits within the vault's documented Houston Taiwanese choral scene — see [[works/taiwaneseamericanhistory-org/344-taiwanese-chorus-of-greater-houston-tcgh-e4-bc-91-e5-a3-ab-e9-a0-93-e5-8f-b0|TAH #344, Taiwanese Chorus of Greater Houston]], a distinct chorus from the one she conducted.
 - The vault's record of a 四季合唱團 is the Seattle ensemble — [[works/taiwaneseamericanhistory-org/29-e8-a5-bf-e9-9b-85-e5-9c-96-e5-9b-9b-e5-ad-a3-e5-90-88-e5-94-b1-e5-9c-98201506|TAH #29：西雅圖四季合唱團（2015/06）]]; likely the same chorus she serves as artistic director/conductor (her tah-tables place her in Dallas/Minnesota/Houston posts — location of her ensemble not stated in the TAH profile).
 - **SKIP note（corpus pass 2026-09-14 slice 09141300-23）：** corpus grep of works/ + articles/ hit only her own TAH encyclopedia entries #524/#255 (already linked above) and the index — no memoir, club history, or press mention of her by others. Nothing absorbable beyond existing content; this pass adds only the 四季合唱團 work link, no new biography.
+- **Re-sweep（slice 09142319-4, 2026-09-15）：** corpus grep (張靜芬／Ching-Fen Lin) again hits only #524／#255 plus the namesake record [[works/taiwaneseamericanhistory-org/whos-who-1737-ching-fen-lin|TAH #1737 Ching Fen Lin 林青棻]] — the distinct 林青棻 noted in the disambiguation above, not this person. SKIP-with-reason: nothing absorbable; last_reviewed refreshed only.

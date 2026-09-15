@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-14
+last_reviewed: 2026-09-15
 ---
 # Dr. Franklin Fong-Ming Lee (李豐明博士)
 
@@ -69,3 +69,6 @@ Dr. Franklin Fong-Ming Lee 李豐明博士 – History of Taiwanese American (T.
 - 曾任紐約地區夏令會聯絡員（台北和平長老教會青年團契契友網絡）—— Our Journeys #268；該文並載：陳良平後娶李豐明、李豐隆之妹李秀麗。
 - 曾主講「台灣語言及推廣方法」，與本頁「創辦台灣語言中心」相互印證 —— [[works/taiwaneseamericanhistory-org/ourjourneys283|Our Journeys #283 世台會第二、三屆年會報告／吳木盛]]。
 - 相關組織頁：[[organizations/taiwanese-association-of-america|Taiwanese Association of America]]（TAC/EC 美東台灣人夏令會目前無 vault 頁面，未加連結）。
+
+## Corpus recheck（deepen-x slice 09142319-9, 2026-09-15）
+- 新增：1977 年第 8 屆美東台灣人夏令會（波士頓召集人張啟典主辦，羅德島 Brown University）邀其與陳錦芳、洪哲勝、鄭義勇等作專題演講 —— [[works/taiwaneseamericanhistory-org/ourjourneys338|Our Journeys #338 楊遠薰：張啟典醫師的回憶—1977年TAC/EC]]。與既有「第五屆召集人」記錄互補，顯示其為 TAC/EC 講員世代核心人物。

@@ -66,3 +66,6 @@ _No filled family fields on the TAH profile._
 ## Vault deepening note (2026-09-14, vault-only)
 - Re-checked the cited vault records (TAH #576 / #292, 2015-09-07): no further absorbable facts; chamber colleagues Yo-Yo Ma, Roman Totenberg, David Shifrin, Tema Blackstone have no vault pages, so no new wikilinks.
 - Existing reciprocal links remain the strongest vault connections: [[people/sean-chen||Sean Chen]] (student), [[people/kerina-chang||Kerina Chang]] (masterclass), [[people/cho-liang-lin||Cho-Liang Lin]] (chamber).
+
+## Corpus re-check (slice 09142319-7, 2026-09-15) — SKIP
+- SKIP-with-reason: corpus grep (陳宏寬／Hung-Kuan Chen, works/ + articles/) again matches only this page's own TAH entry pages (#576/#292, already linked above) plus index.md bibliography rows. No memoir/community material mentions him; nothing absorbable. Existing reciprocal links unchanged.
