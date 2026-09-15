@@ -63,3 +63,6 @@ Prof. Eva Y.H. P. Lee 潘玉華教授 – History of Taiwanese American (T.A. Ar
 
 ## Deepen — 2026-09-14 (slice 09141300-17)
 SKIP-with-reason: corpus grep of works/articles returns only the works-index row for her own record TAH #1796 (already linked above) — no memoir or community material. Nothing absorbable; no new facts invented.
+
+## Deepen — 2026-09-14 (slice 09142101-6)
+SKIP (re-run): grep of works/articles returns only her own TAH #1796 record (already wikilinked above) + works index; TA Archives intro adds no role facts. Nothing absorbable.
