@@ -62,6 +62,7 @@ _No filled family fields on the TAH profile._
 - NATWA's tribute names [[people/elena-ling|黃美惠 Elena Ling]] alongside her, situating her in the early NATWA/WMDT women's-movement network.
 - **Saturation note:** the corpus's distinctive new fact is the WMDT→NATWA pipeline and the mid-August 1988 death date; WMDT's founding year remains absent from the vault.
 - Corpus recheck (slice 09142319-12, 2026-09-15): grep 陳翠玉/Stella Landauer across works/ + articles/ returns only the work pages already wikilinked above (incl. [[works/taiwaneseamericanhistory-org/ourjourneys60|Our Journeys 60]], whose NATWA passage — 名言、穩得動員、1988年8月中旬病逝 — is already absorbed here verbatim in intent). No new community facts; nothing to HOLD.
+- Corpus recheck (slice 09150316-3, 2026-09-15): grep re-run 陳翠玉/Stella Landauer — same six work pages as before (all already wikilinked above); the NATWA/WMDT passage in ourjourneys60 remains fully absorbed. No new facts; nothing to HOLD.
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

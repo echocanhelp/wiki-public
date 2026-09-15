@@ -72,3 +72,6 @@ Community leadership: former President, Federal Bar Council American Inn of Cour
 
 ## Corpus re-check (deepen-x slice 09142101-7, 2026-09-14)
 - SKIP-with-reason: corpus grep (郭佩宇 / Peggy Kuo across works + articles) returns only her own five TAH records (#226, #357, #1992, peggy-kuo, mystories620) and the works index — all bibliographic records with no body text, all already wikilinked above. No memoir/community mentions elsewhere in the corpus; no new absorbable facts, no conflicts to HOLD.
+
+## Corpus re-check (deepen-x slice 09150316-3, 2026-09-15)
+- SKIP-with-reason: grep re-run (郭佩宇 / Peggy Kuo across works + articles) — hits unchanged: only her own five TAH records + index rows, all already wikilinked above. No community mentions; nothing absorbable, no conflicts to HOLD.
