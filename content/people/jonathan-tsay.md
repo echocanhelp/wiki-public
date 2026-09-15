@@ -69,3 +69,5 @@ Re-check (deepen-x slice 09141500-9, 2026-09-14): corpus grep re-run returned th
 Re-check (deepen-x slice 09142320-5, 2026-09-15): corpus grep re-run — hits are only his own TAH catalogue records #375/#1413 (already linked in Vault Holdings). No memoir material; SKIP stands.
 
 Re-check (deepen-x slice 09150400-30, 2026-09-15): corpus grep re-run — hits are only his own TAH catalogue records #375/#1413 + works index. No memoir material; SKIP stands.
+
+Re-check (deepen-x slice 09150500-21, 2026-09-15): third corpus grep re-run — hit set unchanged (own catalogue records [[works/taiwaneseamericanhistory-org/musician375|#375]] / [[works/taiwaneseamericanhistory-org/whoswho1413|#1413]] + works index). No memoir material; SKIP stands.
