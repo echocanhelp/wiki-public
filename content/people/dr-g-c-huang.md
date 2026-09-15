@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-14
 ---
 # Dr. G. C. Huang (黃光彩博士)
 
@@ -35,6 +35,11 @@ Director of Multimedia and Communication Institute, School of System Engineering
 ## Family
 
 _No filled family fields on the TAH profile._
+
+## Role in the Community
+- **2007** — Listed as president (會長) of the Greater Washington Taiwanese American Association (華府台灣同鄉會) in the association's forty-year presidents roster (華府台灣同鄉會歷屆會長芳名錄), recorded under the romanization "Kuan-tsae Huang 黃光彩". [[works/taiwaneseamericanhistory-org/ourjourneys-138|138. 華府與巴城TAA的誕生 / 陳淮崇]]
+- Community directory profile: [[works/taiwaneseamericanhistory-org/whos-who-1869-g-c-huang|1869. Dr. G. C. Huang 黃光彩博士 / 2017-08]].
+- HOLD: conflict — the 2007 TAA-DC presidency places him in Washington DC, while the TAH profile lists Singapore-based roles (NUS/SingaLab from 1992, NTNU principal 2004–2005). Sequence not resolved; not auto-merged.
 
 ## Sources
 - [TAH #1869 encyclopedia: 1869. Dr. G. C. Huang 黃光彩博士](https://taiwaneseamericanhistory.org/whos-who-1869-g-c-huang/)

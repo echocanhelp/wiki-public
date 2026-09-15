@@ -58,5 +58,5 @@ _No filled family fields on the TAH profile._
 ## Deepen pass 2026-09-14 (vault-only)
 Re-checked the sole cited work record (#34, 2015/03): all absorbable text is already in the bio/timeline above and every vault page matching his institutions is linked (UTASD/UCSD, Brooklyn Artists Studio). No vault pages exist for the Venice Biennial, Smithsonian, SVA, MOCA Taipei/Taipei, or Skowhegan, so no further existing-slug links apply. Status: saturated, pending-verification.
 
-### Corpus grep 2026-09-14 (slice -15) — SKIP with reason
+### Corpus grep 2026-09-14 (slice -15, re-verified slice deepen-x-09142101-4) — SKIP with reason
 Further corpus hits for 黃世傑 are all **different people**, not the artist: a 台大醫科 alumnus 黃世傑 in the NTU alumni roster (taiwanjustice.net petition page), Taipei 衛生局長 黃世傑 (2025 pandemic news), and ROC 立委 黃世傑 (游錫堃 2022 法國行). No memoir or article mentions this artist. Nothing absorbable; no new links added.

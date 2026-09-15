@@ -60,6 +60,6 @@ _No filled family fields on the TAH profile._
 - [[organizations/taiwanese-american-historical-society||TAHS]] — 傳記資料收錄機構
 - [[works/taiwaneseamericanhistory-org/513-eileen-lo-e4-b8-81-e5-bf-97-e6-b8-85-201507|TAH #513 encyclopedia]] · [[works/taiwaneseamericanhistory-org/252-eileen-lo-e4-b8-81-e5-bf-97-e6-b8-85-piano-accompanist-201507|TAH #252 encyclopedia]]
 
-## Deepen — 2026-09-14 (slice deepen-x-09141300-19)
+## Deepen — 2026-09-14 (slice deepen-x-09141300-19; corpus re-grep re-verified in slice deepen-x-09142101-4)
 
 SKIP-with-reason: corpus grep for 丁志清 / Eileen Lo across `content/works` and `content/articles` returns only her own two cited TAH encyclopedia stubs (#513, #252) and the works index — no memoir or newsletter material mentions her. Page already carries the full absorbable press-kit record plus the reciprocal 陳治煌/許惠敏 NTUA-DC link; nothing further absorbable from community sources.
