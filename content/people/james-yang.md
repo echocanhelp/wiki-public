@@ -7,7 +7,7 @@ tags:
   - Taiwan-Center
   - board
 verification_status: published
-last_reviewed: 2026-09-14
+last_reviewed: 2026-09-15
 ---
 # James Yang (楊榮勝)
 

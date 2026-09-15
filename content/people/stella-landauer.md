@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-14
+last_reviewed: 2026-09-15
 ---
 # Stella Landauer (陳翠玉)
 
@@ -61,6 +61,7 @@ _No filled family fields on the TAH profile._
 - The corpus carries a full biography of her by 李錦容, 台灣女英雄陳翠玉 (2001, rev. 2009): [[works/taiwaneseamericanhistory-org/publications26|TAH #26]]. Her TAH encyclopedia entries are themselves corpus works: [[works/taiwaneseamericanhistory-org/senior-taiwanese-american-20|TAH #20]], [[works/taiwaneseamericanhistory-org/119-stella-landauer|TAH #119]], [[works/taiwaneseamericanhistory-org/whos-who-1303-stella-landauer|TAH #1303]], and the 2018 漢文 tribute 護理界的英雌─陳翠玉（1917－1988）: [[works/taiwaneseamericanhistory-org/50044|TAH #651]].
 - NATWA's tribute names [[people/elena-ling|黃美惠 Elena Ling]] alongside her, situating her in the early NATWA/WMDT women's-movement network.
 - **Saturation note:** the corpus's distinctive new fact is the WMDT→NATWA pipeline and the mid-August 1988 death date; WMDT's founding year remains absent from the vault.
+- Corpus recheck (slice 09142319-12, 2026-09-15): grep 陳翠玉/Stella Landauer across works/ + articles/ returns only the work pages already wikilinked above (incl. [[works/taiwaneseamericanhistory-org/ourjourneys60|Our Journeys 60]], whose NATWA passage — 名言、穩得動員、1988年8月中旬病逝 — is already absorbed here verbatim in intent). No new community facts; nothing to HOLD.
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
