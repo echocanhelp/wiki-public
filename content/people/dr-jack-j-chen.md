@@ -55,3 +55,6 @@ last_reviewed: 2026-09-15
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - 雙親：[[people/chen-zhefu-xu-chunhui||Chen Zhefu & Xu Chunhui 陳哲夫、許春惠]]（TAHS 2023 出版人物頁）
+
+## Corpus re-grep (deepen-x slice 09150700-25)
+- 以英文名與漢名重搜 content/works + content/articles：命中僅本人/本會之 TAH 書目頁（band B）與 works/index 彙整行，無回憶錄或社群事蹟材料可吸收。SKIP-with-reason；複核日期維持當日。

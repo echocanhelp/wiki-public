@@ -23,6 +23,8 @@ The Great New York Region-Oversea Taiwanese Pen Club is a literary and civic org
 - Its annual convention/New Year banquet continued into the 2020s: [[works/taiwaneseamericanhistory-org/2020-important-events-activities-and-news-4|4. The 6th Annual Convention & New Year Banquet of Oversea Taiwanese Pen Club/New York, Morris Plains/NJ, 01/01/2020]].
 - Sibling chapters document the wider movement network: [[works/taiwaneseamericanhistory-org/sf-oversea-taiwanese-pen-club|15. 舊金山灣區矽谷海外台灣人筆會]] (SF Bay Area/Silicon Valley chapter).
 - Related literary publishing: [[works/taiwaneseamericanhistory-org/80-e5-8f-b0-e7-be-8e-e6-96-87-e8-97-9d-2005-e9-99-b3-e5-9e-a3-e4-b8-89-2005-01-e|80. 台美文藝 2005 / 台美人筆會]]. HOLD: the corpus names this body both 大紐約區海外台灣人筆會 and 大紐約區台灣人筆會 — treat as the same club's short form, not merged automatically.
+- Anniversary meetings are documented well past the sixth term: [[works/taiwaneseamericanhistory-org/2018-27|27. 第14屆 Anniversary Meeting, Fairfield/NJ, 01/01/2018, 150 attendants]] and [[works/taiwaneseamericanhistory-org/videos133|133. 第15屆大紐約區海外台灣人筆會主題研討會暨年度晚宴, 01/2019]] — founding 2003 aligns with a 14th/15th term in 2018/2019.
+- Visual record: [[works/taiwaneseamericanhistory-org/photo-albums-activities-35|35. 大紐約區海外台灣人筆會 photo album (攝影兼編輯: 柯金寅), 01/03/2015]] — club activity photographed by member Kin Ko.
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/the-great-new-york-region-oversea-taiwanese-pen-club/)
