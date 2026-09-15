@@ -35,6 +35,11 @@ A native Taiwanese, pianist Min-Kuei Yang has appeared as a recitalist and colla
 
 _No filled family fields on the TAH profile._
 
+## Role in the Community
+Yang enters the community record through the TAHS musician series rather than movement organizing. The corpus holds two records naming him: [[works/taiwaneseamericanhistory-org/musician24|TAH #24. Min-Kuei Yang 楊閔貴, Pianist]] (2014-10-11) and the later Who's Who entry [[works/taiwaneseamericanhistory-org/whoswho1091|TAH #1091. Min-Kuei Yang 楊閔貴]] (2016-06-18). Both are band-B catalog records filed in the same batches as 陳詩音 and 林佳靜, which places him on the Taiwanese American artist roster the movement chose to archive — performing from Presidential Hall and the National Concert Hall in Taiwan to Eastman's Kilburn Hall, Peabody's Friedberg Concert Hall, and Julliard's Paul Hall.
+
+Beyond that placement the corpus adds no new biography: the NTNU → Eastman → Peabody training and the 台南應用科技大學 post rest on the TAH profile alone, and no dates, family, or organizational affiliations are recoverable from the corpus text (full texts stay in the vault, bibliographic record only). Nothing here conflicts with the existing page.
+
 ## Sources
 - [TAH #1091 encyclopedia: 1091. Min-Kuei Yang 楊閔貴 / 2016/06](https://taiwaneseamericanhistory.org/whoswho1091/)
 - [TAH #24 encyclopedia: 24. Min-Kuei Yang 楊閔貴, Pianist/2014/10](https://taiwaneseamericanhistory.org/musician24/)
