@@ -34,6 +34,7 @@ Professor of Pathology, Oncology, Obstetrics and Gynecology, and Molecular Micro
 - 該報導記載：他以卓越的子宮頸癌及 HPV 病毒研究馳名國際；在美東夏令會專題演講不談醫學理論，而以流暢、幽默又感性的語言敘述自屏東潮州苦瓜寮家鄉出發、經高雄中學與台大醫科、再到 JHU 從事 HPV Vaccines 研究的經過，全場聽眾鴉雀無聲。
 - 社團歸屬：[[organizations/taiwanese-american-association-baltimore|巴爾的摩台美協會（Taiwanese American Association Baltimore）]]。
 - 語料庫所載出身細節（屏東潮州、高雄中學）與上列 tah-tables 學經歷（台大醫科 1975–82）互補，無日期衝突。
+- Corpus recheck（deepen-x slice 09141400-2，2026-09-14）：語料庫檢索命中僅楊遠薰報導兩份存檔（已於上文收錄連結）與 works 索引書目條，無新素材 — SKIP-with-reason。
 
 <!-- tah-tables:start -->
 ## Education

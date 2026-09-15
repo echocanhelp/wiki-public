@@ -61,3 +61,11 @@ Dr. Franklin Fong-Ming Lee 李豐明博士 – History of Taiwanese American (T.
 
 ## Deepen pass (2026-09-14)
 - 學經歷（NTU 1957 / NCSU 1963 / Stanford 1967、IBM、Litton、工研院、義守、中國文化大學）均已載於 TAH #1780 出處頁，vault 僅此一頁，無既有頁可再連結；本次僅更新複核日期，未新增外部事實。
+
+## Role in the Community（deepen 2026-09-15，語料庫吸收）
+- TAA（全美台灣同鄉會）創會世代：為 1971 年創會時 28 個分會之創始會長之一（Binghamton 分會會長）—— [[works/taiwaneseamericanhistory-org/ourjourneys76|Our Journeys #76 全美台灣同鄉會／吳木盛]]（英文版 [[works/taiwaneseamericanhistory-org/ourjourneys76-eng|Our Journeys #76 ENG]]）。
+- 1973 年协助叶加兴、黄贤理，促成全美會與美東基督徒聯合會在 Camp Taconic 合辦「美東基督徒第四屆暨美東台灣同鄉會第一屆夏令會」，任 Upstate New York 地區同鄉會負責人 —— 同前引 Our Journeys #76。
+- 1974 年主辦第五屆美東台灣人夏令會（紐約上州 Camp of Woods，主題「咱能為台灣做什麼？」，參加逾 350 人），與本頁 Employment「第五屆召集人」相互印證 —— [[works/taiwaneseamericanhistory-org/our-journeys-392|Our Journeys #392 王成章牧師專訪]]、[[works/taiwaneseamericanhistory-org/ourjourneys268|Our Journeys #268 徐頌鵬：回憶第一屆美東台灣人夏令會]]。
+- 曾任紐約地區夏令會聯絡員（台北和平長老教會青年團契契友網絡）—— Our Journeys #268；該文並載：陳良平後娶李豐明、李豐隆之妹李秀麗。
+- 曾主講「台灣語言及推廣方法」，與本頁「創辦台灣語言中心」相互印證 —— [[works/taiwaneseamericanhistory-org/ourjourneys283|Our Journeys #283 世台會第二、三屆年會報告／吳木盛]]。
+- 相關組織頁：[[organizations/taiwanese-association-of-america|Taiwanese Association of America]]（TAC/EC 美東台灣人夏令會目前無 vault 頁面，未加連結）。

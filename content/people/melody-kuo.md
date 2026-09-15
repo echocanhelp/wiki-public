@@ -49,6 +49,8 @@ _No filled family fields on the TAH profile_ (see Family & Vault Connections bel
 - 1994 台灣文化之夜: the "姊妹花" closed the concert with five pieces — 蕭泰然《夢幻的恆春小調》 and Sarasate《流浪者之歌》 drew a hushed, moved audience, and she soloed the up-and-coming composer 郭英俊's《台灣狂想曲》 to finish the evening (same memoir; event also pictured in 楊子清's column [[articles/taiwanjustice-net/2021/20210117071954_tag_楊子清_11aa2dfa5f64d7e4|Taiwan Justice 2017-03-02: TUF 台灣文化之夜 1994]]).
 - Pattern: across the TUF concert era (1989, 1994) she and her sister were the go-to LA duo for Taiwanese-art-music premieres, tying her church/competition career above to the movement's cultural institution-building.
 
+> Corpus recheck（deepen-x slice 09141400-2，2026-09-14）：語料庫檢索命中僅 Our Journeys #301、台灣正义網 TUF 報導（皆已於上文收錄連結）、works 索引書目條，無新素材 — SKIP-with-reason。
+
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

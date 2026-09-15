@@ -53,3 +53,8 @@ _No filled family fields on the TAH profile._
 ## deepen 2026-09-14
 - 他曾任 TAA 全國會長（見本頁 Employment）：總會頁 [[organizations/taiwanese-association-of-america||Taiwanese Association of America]]。
 - 傳記出處頁出版日：[[works/taiwaneseamericanhistory-org/whos-who-589-ming-hong-chow||TAH #589]] 2015-09-08、[[works/taiwaneseamericanhistory-org/140-2||TAH #140]] 2018-10-14。
+
+## Role in the Community（deepen 2026-09-15，語料庫吸收）
+- 2017 年以 TAC/EC（美東台灣人夏令會）代理理事長身份主持會務：與召集人簡明子於 7/2 致歡迎詞揭幕，7/4 將 TAC/EC 會旗交與 2018 年理事長翁進治、召集人謝己，與本頁 Employment「TAC/EC Coordinator」相互印證 —— [[articles/taiwanjustice-net/2021/20211205054150_2017_07_10_2017年美東台灣人夏令會-_-楊遠薰-報導-2017-07-09_29faf54b8c9e2d10|2017 年美東台灣人夏令會報導／楊遠薰]]。
+- 紀錄片《好國好民》美國各地放映之 US Coordinator（與黃泰郎、王振源並列）—— [[articles/taiwanjustice-net/2024/20240719002430_root_1f001897255f71a7|《好國好民》美國各地放映座談會]]。
+- 其名亦見於回憶錄 [[works/taiwaneseamericanhistory-org/ourjourneys-138|Our Journeys #138 華府與巴城 TAA 的誕生／陳淮崇]]，與其 TAA Greater Washington, DC 會長經歷相符。

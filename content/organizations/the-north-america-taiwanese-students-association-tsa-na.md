@@ -30,3 +30,7 @@ The North America Taiwanese Students’ Association (TSA-NA) is a non-profit org
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+## Deepen pass (2026-09-15)
+- 本頁(directory 條目)之語料庫存檔頁：[[works/taiwaneseamericanhistory-org/the-north-america-taiwanese-students-association-tsa-na|TSA-NA 社團目錄條目（2016-05-03）]]。
+- SKIP-with-reason：語料庫 grep（TSA-NA／北美台灣學生協會）除本條目存檔頁與 works/index 目錄外，無回憶錄或其他社團材料可補充會史；未新增事實。
