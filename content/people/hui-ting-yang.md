@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-14
+last_reviewed: 2026-09-15
 ---
 # Hui-Ting Yang (楊惠婷)
 
@@ -55,3 +55,6 @@ _No filled family fields on the TAH profile._
 - Corpus grep returns only her own TAH #692/#315 record pages and the works index — no memoir/community material to absorb. SKIP (nothing absorbable beyond what is already noted below).
 - 學士母校（臺北市立師範學院）相關社團頁可互參：[[organizations/joint-alumni-association-of-taiwan-teachers-college-and-normal-univers|Joint Alumni Association of Taiwan Teachers College and Normal Universities]] — 就學經歷主題相關，非成員事實。
 - 任職單位 Troy University、Ohio University、Florida State University 目前無 vault 頁面，未加連結；TAH #692／#315 記錄已全數吸收。
+
+## Deepen pass (2026-09-15)
+- SKIP-with-reason：語料庫 grep（楊惠婷／Hui-Ting Yang）僅命中本人 TAH #692／#315 書目記錄與 works/index 目錄列項，無回憶錄或社群事跡可吸收；TAH 記錄已全數吸收，僅更新複核日期。

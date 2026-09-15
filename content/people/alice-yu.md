@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-15
 ---
 # Alice Yu (游陳鈴津)
 
@@ -39,6 +39,11 @@ Distinguished Chair Professor
 
 - **Husband:** 游正博
 
+
+## Role in the Community
+- Community record: [[works/taiwaneseamericanhistory-org/whoswho1533|TAH Who's Who #1533, published 2017-02-26]] — corpus copy of the profile behind this page.
+- Family cross-link in the record: husband 游正博 is also a TAHS/TAH subject — [[people/john-yu|John Yu 游正博博士]]; both share a University of Chicago → Taiwan academic-medicine path (Genomics Research Center / 長庚).
+- Corpus grep (2026-09-15): no memoir or article coverage beyond the Who's Who record.
 
 ## Sources
 - [TAH #1533 encyclopedia: 1533. Alice Yu 游陳鈴津/ 2017/02](https://taiwaneseamericanhistory.org/whoswho1533/)

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-15
 ---
 # Prof. Oliver Chyan (錢明仁教授)
 
@@ -36,6 +36,10 @@ Accomplishment
 ## Family
 
 _No filled family fields on the TAH profile._
+
+## Role in the Community
+- Community record: [[works/taiwaneseamericanhistory-org/whos-who-1922-oliver-chyan|TAH Who's Who #1922, published 2017-10-25]] — corpus copy of the profile behind this page.
+- Corpus grep (2026-09-15): no memoir or article coverage beyond the Who's Who record (a corpus hit on 林環牆's page is a "Chyang" spelling false match, not this person).
 
 ## Sources
 - [TAH #1922 encyclopedia: 1922. Prof. Oliver Chyan 錢明仁教授](https://taiwaneseamericanhistory.org/whos-who-1922-oliver-chyan/)
