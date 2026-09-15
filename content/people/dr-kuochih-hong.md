@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-14
+last_reviewed: 2026-09-15
 ---
 # Dr. Kuochih Hong (洪國治博士)
 
@@ -70,3 +70,6 @@ TAH encyclopedia records held in this vault:
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+## Corpus re-check (slice 09142319-3, 2026-09-15)
+- 無新增事實：精確 grep（洪國治／Kuochih）命中 ota-258、whos-who-171、ourjourneys249、our-journeys-376、PEW 連署聲明——五項均已吸收於上方 Role in the Community 與 Vault Holdings。維持現狀。

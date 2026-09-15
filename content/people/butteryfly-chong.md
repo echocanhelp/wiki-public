@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-14
+last_reviewed: 2026-09-15
 ---
 # Butteryfly Chong (張翠蝶)
 
@@ -72,3 +72,6 @@ _No filled family fields on the TAH profile._
 
 ## Corpus sweep (2026-09-14, slice 09141213-4)
 - 全語料 grep（張翠蝶／Butterfly／Butteryfly Chong）僅命中本頁已連結之 [[works/taiwaneseamericanhistory-org/36-butterfly-chong-e5-bc-b5-e7-bf-a0-e8-9d-b6-choral-conductor|TAH #36]]（全文已吸收進 Timeline 與正文，含 Fairfax、Haitien、Liren 等合唱團細節）與 [[works/taiwaneseamericanhistory-org/457-butteryfly-chong-e5-bc-b5-e7-bf-a0-e8-9d-b6-201506|TAH #457]]（書目級）。另見 works/index.md 書目行。無新增可吸收事實。
+
+## Corpus re-check (slice 09142319-3, 2026-09-15) — SKIP
+- SKIP-with-reason: grep（張翠蝶／Butterfly／Butteryfly）僅命中已連結之 TAH #36、TAH #457（與 index 書目行）。連續第三輪複核無新增可吸收事實。

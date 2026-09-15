@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-14
+last_reviewed: 2026-09-15
 ---
 # Thomas Ming-Chien Wu (吳明杰)
 
@@ -69,3 +69,7 @@ Deepen pass 2026-09-14 (早期注記): cited vault records were bibliographic st
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - [[organizations/joint-alumni-association-of-taiwan-teachers-college-and-normal-univers|師範大學院雙校友會]] — 母校相關校友組織
 - [[organizations/taiwanese-american-historical-society|TAHS]] — 傳記資料收錄機構
+
+## Corpus re-check (slice 09142319-3, 2026-09-15)
+- 命中檔全部已連結並吸收：TAH #327、#801、#157（ff157）、TAH #16（回台任教）、Our Journeys 29。
+- 排除（寬鬆 grep 假陽性，本輪逐一核對）：[[works/taiwaneseamericanhistory-org/ourjourneys85-eng|Our Journeys #85（英文版）]] 命中者為 Thomas Liao 與 Chen-nan Wu，非本頁人物；[[works/taiwaneseamericanhistory-org/ourjourneys186-eng|Our Journeys #186（英文版）]] 命中者為 Thomas Liu、Raymond Wu 等，非本頁人物。均不合併。

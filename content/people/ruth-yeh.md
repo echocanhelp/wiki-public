@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-14
+last_reviewed: 2026-09-15
 ---
 # Ruth Yeh (葉李麗貞)
 
@@ -67,3 +67,6 @@ Absorbed from the profile text, Employment table, and cited TAH encyclopedia ent
 - [[works/taiwaneseamericanhistory-org/mystories243||人生若夢─心理治療家葉李麗貞的故事 / 楊遠薰]]
 - [[organizations/taiwanese-american-historical-society||TAHS]] — source community for the TAH Who's Who project
 - [[sources/taiwaneseamericanhistory-org-story-corpus||TAH story corpus hub]]
+
+## Corpus re-check (slice 09142319-3, 2026-09-15)
+- 命中檔全部已連結並吸收：[[works/taiwaneseamericanhistory-org/whos-who-1123-ruth-yeh||TAH #1123 Ruth Yeh 葉李麗貞 (2016/07)]]（書目級條目頁，本輪補連結）、ruth-mail-box、TAH #86、#99、mystories243、our-journeys-379。無其他新增事實。
