@@ -46,6 +46,7 @@ last_reviewed: 2026-09-14
 
 
 ## Role in the Community
+- 紐約台灣會館不動產：會館 memoir 記載，會館產業以股東制購入，共 37 位股東（含 Fon-may Fan 范崇愷與李汝城）共同登記「Taitower Inc.」，每人 50 股、每股 $12,500，購下產業後以每年 $1 象徵價格租給台灣會館；會館於 1986-07-19 開幕。見 [[works/taiwaneseamericanhistory-org/ourjourneys304|Our Journey 304：心心念念一間厝——紐約台灣會館起家]]（英文版 [[works/taiwaneseamericanhistory-org/ourjourneys304-eng|ourjourneys304-eng]]）。
 - 2001-12-17: 時任紐約台灣會館理事長，主持理事會成立「台灣會館鄉親俱樂部」（Taiwan Center Senior Citizens Club，後改制為台灣會館老人中心 TASC），並與尤欽德、蔡明峯三人向紐約州政府登記註冊，首任總幹事李鵬。見 [[works/taiwaneseamericanhistory-org/ourjourneys316|Our Journey 316：台灣會館老人中心]]。
 - NATMA 紐約分會首波整合期：原有「台灣醫師協會」因成員複雜不敢自稱「台灣人醫師協會」，經 NATMA 第二任總會會長楊次雄运作加盟為紐約分會，時任分會會長即李汝城（約 1986–87）。見 [[works/taiwaneseamericanhistory-org/ourjourneys74|Our Journey 74：NATMA 紐約分會]]（英文版 [[works/taiwaneseamericanhistory-org/ourjourneys74-eng|ourjourneys74-eng]]）。
 - 2016-03: 發表〈也談「台灣的語言」〉一文，引發會內關於台醫協會聚會語言與客家人參與（10–15% 會員為客家）的討論。見 [[works/taiwaneseamericanhistory-org/ourjourneys201|也談台灣的語言／李汝城]]、會內回應 [[works/taiwaneseamericanhistory-org/ourjourneys202|Our Journey 202：會員回應]]。
