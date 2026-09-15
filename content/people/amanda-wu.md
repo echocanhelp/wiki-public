@@ -46,3 +46,4 @@ _No filled family fields on the TAH profile._
 - No further biography invented; verification still pending against the cited TAH pages.
 - Corpus re-check 2026-09-14 (deepen-x slice 16): grep across works/articles returns only her own two TAH records (#165, #322) plus index listings — no memoir/community passages absorbable. SKIP-with-reason; dedup question already held above.
 - Corpus re-check 2026-09-15 (deepen-x slice 19): re-grepped "Amanda Wu" — same result (#165 + index only; the Amenda Wu variant record is on [[people/amenda-wu]], held, not merged). SKIP-with-reason; no new community passages.
+- Corpus re-check 2026-09-15 (deepen-x slice 32): re-grepped Amanda/Amenda across works+articles — hits are exactly her own two TAH records (#165, #322) plus index listings, no memoir passages. SKIP-with-reason; duplicate-name HOLD stands.

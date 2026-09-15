@@ -42,6 +42,8 @@ last_reviewed: 2026-09-15
 - Founding president of the Dr. Chen Wen-chen Memorial Foundation (陳文成教授紀念基金會). Authored the founding account 陳文成教授紀念基金會成立經過 — see [[works/taiwaneseamericanhistory-org/ourjourneys8-eng|Our Journeys #8]].
 - Per a fellow organizer's memoir, in late October (1981) Evan Ling called offering to expand the Chen Wen-chen memorial fundraising and arranged for Chen Su-jen (陳素貞) to tour and speak in several cities; funds largely went to the Formosan Association for Human Rights — see [[works/taiwaneseamericanhistory-org/ourjourneys321|Our Journeys #321]].
 - Agreed with the commemorative-book editor that Evan Ling and his wife would handle printing of the 陳文成教授紀念專集, while the editor handled editing and soliciting articles — see [[works/taiwaneseamericanhistory-org/ourjourneys321-eng|Our Journeys #321 (EN)]].
+- **Anonymity under the blacklist era:** the 紀念專集 editorial committee worked under two-character code names — 林富文's was **石林**, and his wife 黃美惠's was **甘子** (others: 林田=林龍和, 李樸=曹永愷, 許杰=許永華), because Chen Wen-chen's friends dared not use real names — see [[works/taiwaneseamericanhistory-org/ourjourneys321|Our Journeys #321]].
+- The Chen Wen-chen Memorial Foundation was formally registered as a non-profit in New Jersey in **1982-03** (over eight months after the fund's creation) and applied for IRS tax-exempt status; most donations were routed directly to the Formosan Association for Human Rights for custody — see [[works/taiwaneseamericanhistory-org/ourjourneys8-eng|Our Journeys #8 (EN), his own founding account]].
 - Continued correspondence over the foundation for many years despite never having met the earlier organizer in person.
 
 ## Sources

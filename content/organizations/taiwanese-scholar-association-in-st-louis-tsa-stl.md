@@ -28,7 +28,7 @@ The Taiwanese Scholar Association in St. Louis (TSA-STL) is a community organiza
 The association operates in the same St. Louis community field as [[organizations/taiwanese-association-of-america-in-greater-st-louis||TAA in Greater St. Louis]], [[organizations/friends-of-taiwan-greater-st-louis||Friends of Taiwan Greater St. Louis]], and [[organizations/north-america-taiwanese-womens-association-st-louis-chapter||NATWA St. Louis Chapter]].
 
 ## Vault note (deepen-x 2026-09-15)
-Corpus re-check (works/articles) found no material beyond the vault records already absorbed above; SKIP this pass — works/index.md hits are directory entries only.
+Corpus re-check (works/articles, slices 32 re-run) found no material beyond the vault records already absorbed above; SKIP this pass — the only hits (the #21 profile story, the 2017/2018 symposium handbooks, index listings) are already cited here.
 Text above is absorbed solely from vault pages of the cited TAH records; no external biography added. Named TSA-STL officers/members have no vault pages yet.
 
 ## Related Pages

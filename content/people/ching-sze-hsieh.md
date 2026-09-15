@@ -49,6 +49,10 @@ Led FORMOSAT-1 (福衛一號) launch team as head of launch group at National Sc
 - Brought 23 Taiwanese-American aerospace PhDs working in US industry back to Taiwan to offer their expertise (gap analysis with 侯貞雄, 江昭儀) — [[works/taiwaneseamericanhistory-org/ourjourneys261|TAH #261 一頓飯 省下20億美元 (陳文石)]]
 - Biographical feature: [[works/taiwaneseamericanhistory-org/131-e8-ac-9d-e6-b8-85-e5-bf-97-e7-9a-84-e7-94-9f-e5-91-bd-e6-8c-af-e5-8b-95-e8-a|TAH #131 謝清志的生命振動]] (2008.10, 傳記)
 - HOLD: [[works/taiwaneseamericanhistory-org/152-e7-b4-af-e7-a9-8d-e5-af-a6-e5-8b-99-e7-b6-93-e9-a9-97-e6-9c-89-e5-90-8d-e7-9|TAH #152「累積實務經驗 有名的SAT老師」]] is also attributed to a 謝清志 — same-name identity vs a different 謝清志 unresolved, not merged.
+- 1974 onward: named among the later members of the 柑區-centered 南區生活座談會 (South California life-seminar forum, founded 1974 at 阮厝) per 劉天良's history — the forum trained many community leaders ([[works/taiwaneseamericanhistory-org/ourjourneys212|TAH #212 生活座談會簡史]]); 李木通's memoir likewise lists 謝清志 among seminar alumni who later returned to Taiwan and contributed ([[works/taiwaneseamericanhistory-org/ourjourneys240|TAH #240 半世紀前 UCLA的那些日子]]).
+- Family/identity cross-ref: [[people/xie-qingzhi-xie-poyi|謝清志、謝泊怡 family page]] (TAHS publication 2023) records the same aerospace career and son 謝泊怡; it states birth year **1942** vs **1941** on this TAH profile — HOLD: conflict 1941 vs 1942, not merged.
+- HOLD: [[works/taiwaneseamericanhistory-org/2-e8-ac-9d-e6-b8-85-e5-bf-97-e3-80-81-e6-9e-97-e6-b0-b4-e6-b3-89-e7-ad-89-e4-b8-|TAH record #2「謝清志、林水泉等七人回台無故被毆，被迫離境」(2015)]] names a 謝清志 beaten on return to Taiwan in 2015 — bibliographic record only, same-name identity vs this aerospace-profile person unresolved, not merged.
+- Re-check (slice 09150600-12, 2026-09-15): hit set now fully absorbed (TAH #253、#244、#66、#261、#108、#131、#152 HOLD、#212、#240、#2 HOLD); no further material.
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
