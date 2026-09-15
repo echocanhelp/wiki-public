@@ -40,6 +40,10 @@ From her TAH profile (absorbed from the cited encyclopedia entries #21 / #518):
 - As a graphic artist, her work *Constellation of Voice* appeared on the cover of Carnegie Hall's October playbill in August 2006.
 - Education: 邁阿密大學音樂學院 B.S. 作曲/鋼琴 (2004); 琵琶第音樂學院 M.S. Music. Teaching: Johns Hopkins Peabody Conservatory composition department, teaching assistant (present).
 
+## Role in the Community (deepen 09141400-11)
+
+- SKIP-with-reason: corpus grep (works/, articles/) hits only `works/index.md` listings of her own TAH #21/#518 work pages — no memoir, event report, or community mention of 高盈真 anywhere in the corpus. Nothing absorbable beyond the profile facts already captured above.
+
 ## Family
 
 _No filled family fields on the TAH profile._
