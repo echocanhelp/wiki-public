@@ -62,3 +62,5 @@ Prof. Liang-Tseng Fan 范良政教授 – History of Taiwanese American (T.A. Ar
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+## Deepen-x re-check (slice 09150400-22, 2026-09-15)
+- SKIP-with-reason：語料重檢命中集不變（TAH #22/#59/#130、ourjourneys33、ourjourneys58、works index）；通訊錄第一位買主與堪大指導师生关系已全數載入 Role in the Community，無新增可吸收事實、無衝突。

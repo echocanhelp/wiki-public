@@ -59,3 +59,5 @@ Accomplishment
 - 2014-09-05：撰寫台灣中心成會史〈The Birth of the Permanent Home for the Taiwanese American Community Center of San Diego 聖地牙哥台灣中心〉（本人署名著作）— [[works/taiwaneseamericanhistory-org/11-the-birth-of-the-permanent-home-for-the-taiwanese-american-community-center-o|TAH #11 聖地牙哥台灣中心成會史（呂錦文，2014/09）]]；文中記述 2009 開幕典禮上因參與建物改建獲頒獎牌（與 Dr. Ming Wu 同獲，與 #162 表彰記錄互證）
 ## Deepen-x 2026-09-15 (slice 09150316-27)
 - 覆核：語料重檢命中集與先前各 slice 相同（僅本人出處頁、works/index、已全數吸收之社区記錄頁），無新增可吸收事實，本頁維持現狀。 <!-- slice27 -->
+## Deepen-x re-check (slice 09150400-22, 2026-09-15)
+- SKIP-with-reason：語料重檢命中集不變（ourjourneys102/162/162-eng/245/313、TAH #11、#14、works index）；Community Record 已全數吸收（含 #162 英文版互證），無新增可吸收事實、無衝突。

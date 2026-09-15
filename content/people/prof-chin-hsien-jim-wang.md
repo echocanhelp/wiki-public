@@ -69,3 +69,5 @@ Prof. Chin-Hsien (Jim) Wang 王進賢教授 – History of Taiwanese American (T
 - 出處頁出版日（自 vault works 頁）：[[works/taiwaneseamericanhistory-org/ota-244||TAH #244]] 2019-02-09、[[works/taiwaneseamericanhistory-org/whos-who-418-chin-hsien-wang||TAH #418]] 2015-05-20、[[works/taiwaneseamericanhistory-org/ourjourneys352||TAH #352]]。
 ## Deepen-x 2026-09-15 (slice 09150316-27)
 - 覆核：語料重檢命中集與先前各 slice 相同（僅本人出處頁、works/index、已全數吸收之社区記錄頁），無新增可吸收事實，本頁維持現狀。 <!-- slice27 -->
+## Deepen-x re-check (slice 09150400-22, 2026-09-15)
+- SKIP-with-reason：語料重檢命中集不變（本人出處頁 TAH #244/#418、ourjourneys352 TAC-WC 會史、works index）；會史事實已全數載入 Role in the Community，無新增可吸收事實、無衝突。
