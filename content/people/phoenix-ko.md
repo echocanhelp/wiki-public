@@ -53,6 +53,7 @@ Private phones and LINE U-ids are **not** published here.
 - **2026-09-15** — DEEPEN-X slice 09142319-20 corpus sweep: grep across works/ and articles/ for 柯貝昀／Phoenix Ko returns zero hits again; SKIP (2025 org chart + owner confirmation 2026-08-03 remain the only sources, fully absorbed).
 - **2026-09-15** — DEEPEN-X slice 09150316-18 corpus sweep: grep for 柯貝昀／Phoenix Ko returns zero hits a third time; SKIP (no memoir or article material beyond the 2025 org chart).
 - **2026-09-15** — DEEPEN-X slice 09150400-15 corpus sweep: grep across works/ and articles/ for 柯貝昀／Phoenix Ko returns zero hits again; SKIP (2025 org chart + owner confirmation remain the only sources, fully absorbed).
+- **2026-09-15** — DEEPEN-X slice 09150500-6 corpus sweep: grep 柯貝昀／Phoenix Ko across works/+articles/ zero hits again; vault-wide the only non-self mention is the reciprocal wikilink on [[people/kevin-lee||Kevin Lee]]'s page (link resolves, no new facts). SKIP — no memoir or article material beyond the 2025 org chart.
 
 ## Network
 

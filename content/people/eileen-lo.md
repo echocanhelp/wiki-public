@@ -64,3 +64,4 @@ _No filled family fields on the TAH profile._
 
 SKIP-with-reason: corpus grep for 丁志清 / Eileen Lo across `content/works` and `content/articles` returns only her own two cited TAH encyclopedia stubs (#513, #252) and the works index — no memoir or newsletter material mentions her. Page already carries the full absorbable press-kit record plus the reciprocal 陳治煌/許惠敏 NTUA-DC link; nothing further absorbable from community sources.
 - Slice 09150400-13 複核 (2026-09-15): grep (works+articles) 命中集不變——僅本人 TAH 書目頁 #513、#252（已 wikilink）與 works index；memoir 語料 0 提及——SKIP，無衝突需 HOLD。
+- Slice 09150500-6 複核 (2026-09-15): grep（丁志清／Eileen Lo over works+articles）排除自家 #513/#252 書目頁與 index 後命中為零；memoir 語料 0 提及——維持 SKIP，無衝突需 HOLD。

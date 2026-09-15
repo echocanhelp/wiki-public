@@ -73,3 +73,7 @@ _No filled family fields on the TAH profile._
 ## Deepen pass 2026-09-15（slice deepen-x-slice-09150400-15，SKIP-with-reason）
 
 - 重掃 works/ + articles/：命中仍僅本人自有 #313／#690 條目、#1598 張柔安 HOLD、Flour Bakery 兩篇同名異人報導、works/index.md——無新社群事證。HOLD 維持：同名英文 Joanne Chang、漢名不同（張瓊文 vs 張柔安），勿合併。
+
+## Deepen pass 2026-09-15（slice deepen-x-slice-09150500-1，SKIP-with-reason）
+
+- 重掃 works/ + articles/（張瓊文|Joanne Chang）：命中仍僅本人 #313／#690 條目、#1598 張柔安 HOLD、Flour Bakery 兩篇同名異人報導、works/index.md——無新社群事證。HOLD 維持：同名英文 Joanne Chang、漢名不同（張瓊文 vs 張柔安），勿合併。

@@ -62,3 +62,5 @@ Prof. Mei-Chu Wang Hsiao 王美珠教授 – History of Taiwanese American (T.A.
 - SKIP-with-reason: corpus grep (王美珠 / Mei-Chu across works + articles) returns only her own two TAH records (#389, #1559) and the works index — no memoir/community mentions elsewhere. Husband [[people/prof-frank-s-t-hsiao|Prof. Frank S.T. Hsiao]]'s page cross-documents the same T.A. Archives (台美史料中心) Colorado context already noted above; no new absorbable facts, no conflicts to HOLD.
 - SKIP note (deepen-x 09150316-9, 2026-09-15): re-sweep returned the same hits (#389, #1559 + works index) — SKIP-with-reason stands.
 - SKIP note (deepen-x 09150400-8, 2026-09-15): re-sweep returned the same hits (own TAH encyclopedia stubs + works index) — no memoir/newsletter/community mentions; SKIP-with-reason stands.
+
+- SKIP note (deepen-x 09150500-1, 2026-09-15): re-sweep（王美珠|Mei-Chu, works＋articles）returned the same hits — own #389／#1559 條目＋works/index only; no memoir/newsletter/community mentions; SKIP-with-reason stands.

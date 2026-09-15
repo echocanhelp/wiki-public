@@ -62,3 +62,4 @@ _No filled family fields on the TAH profile._
 - **2026-09-15 (DEEPEN-X09142319-15):** re-sweep SKIP — grep 郭耿維/Keng-Wei in works+articles hits only `works/index.md`; no community material to absorb, no conflicts to HOLD.
 - **2026-09-15 (DEEPEN-X09150316-17):** re-sweep SKIP — grep 郭耿維/Keng-Wei hits only his own #439/#2315 records + `works/index.md`; no memoir/community material, no conflicts to HOLD.
 - **2026-09-15 (DEEPEN-X09150400-14):** re-sweep SKIP — grep 郭耿維/Keng-Wei in works+articles hits only his own #439/#2315 records + `works/index.md`; no memoir/community material, no conflicts to HOLD.
+- **2026-09-15 (DEEPEN-X09150500-6):** re-sweep SKIP — grep 郭耿維/Keng-Wei/William Kuo in works+articles: excluding his own #439/#2315 records and `works/index.md`, hits are zero; no memoir/community material, no conflicts to HOLD. (Earlier slices' 郭京維 spelling note: correct hanzi 郭耿維 confirmed against both TAH records.)
