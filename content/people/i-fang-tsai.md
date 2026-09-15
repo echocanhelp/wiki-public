@@ -57,3 +57,7 @@ _No filled family fields on the TAH profile._
 ## Deepen-X — 2026-09-14 (slice 09141300-12, corpus grep)
 
 SKIP-with-reason：corpus grep（蔡宜芳 / I-Fang Tsai，於 works/ 與 articles/）命中均非本人——taiwanjustice 報導中的蔡宜芳（台灣民眾黨，2020 立委候選人）為同名政治人物，與本頁紐約粉彩畫家（TAH #1050、#17）不同人，HOLD: no merge；works 命中皆為他人條目（Yvonne Cheng 鄭瑜英、Yvonne Yifang Wang 王亦凡等）。本人兩筆記錄已連結，無新增社群事實。
+
+## Deepen-X — 2026-09-14 (slice 09142101-2, corpus re-grep)
+
+SKIP-with-reason：復核語料檢索結果與本頁前輪（slice 09141300-12）一致——本人命中僅 [[works/taiwaneseamericanhistory-org/whoswho1050|TAH #1050]] 與 [[works/taiwaneseamericanhistory-org/artist-yvonne-i-fang-tsai|TAH #17]] 兩條已連結記錄（均為書目級，全文留 vault）；articles/ 命中（taiwanjustice 報導）皆為同名台灣政治人物蔡宜芳，維持 HOLD: no merge。無新增社群事實可吸收。

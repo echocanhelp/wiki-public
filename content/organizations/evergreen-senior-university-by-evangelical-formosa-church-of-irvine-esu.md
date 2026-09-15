@@ -47,3 +47,7 @@ Evergreen Senior University (ESU) is an outreach program of Evangelical Formosan
 
 - 本機構已實際運作至畢業典禮規模：TAH 記錄 2016-11-29 於 Irvine 舉行第一屆畢業典禮（照片報導，文內記載發文日 2016-12-02），見 [[works/taiwaneseamericanhistory-org/important2016-20|20. ESU 畢業典禮（2016-11-29，value band B）]]。與「2014 年設立、每年三學期」之时序相符（設立約两年半後即有可畢業的學員群）。
 - 語料檢索注意：縮寫「ESU」在語料中亦指 East Stroudsburg University（美東夏令會場地，見 [[works/taiwaneseamericanhistory-org/ourjourneys159|Our Journeys 159]]），檢索本機構時須以全名「愛恩台福基督教會長春大學 / Evergreen Senior University」為準，勿以 ESU 簡稱誤配。
+
+## Deepen-X — 2026-09-14 (slice 09142101-2, corpus grep)
+
+- 語料檢索（全名關鍵字，於 works/ 與 articles/）命中兩條既有 work 頁：[[works/taiwaneseamericanhistory-org/evergreen-senior-university-by-evangelical-formosa-church-of-irvine|TAH #14 ESU 專文（2015-07-27）]] 與 [[works/taiwaneseamericanhistory-org/important2016-20|TAH important2016 #20 第一屆畢業典禮報導（2016-11-29 典禮）]]，皆已連結並吸收於上方 Vault Holdings 與 Role in the Community；本次自 work 頁標題核對補入記錄編號 #14。兩條均為書目級記錄（全文留 vault），articles/ 無命中，無其他回憶錄一手材料。未建新頁，未查網。
