@@ -56,3 +56,6 @@ _No filled family fields on the TAH profile._
 - 本頁傳記之 TAH 出處頁已入 vault：[[works/taiwaneseamericanhistory-org/275-yiwei-lin-e6-9e-97-e6-80-a1-e8-96-87-pianist-201508|TAH #275 Yiwei Lin 林怡薇, Pianist (2015/08)]]、[[works/taiwaneseamericanhistory-org/547-yiwei-lin-e6-9e-97-e6-80-a1-e8-96-87-201508|TAH #547 Yiwei Lin 林怡薇 (2015/08)]]。
 - publisher／語料庫：[[sources/taiwaneseamericanhistory-org-story-corpus||TAH story corpus]]。
 - St. Louis 台灣人社區脈絡（vault 有相關記錄，未見本人直接關聯記載）：[[organizations/taiwanese-association-of-america-in-greater-st-louis|TAA Greater St. Louis]]。
+
+## Deepen-x 2026-09-14（slice 09141300-26）
+- SKIP-with-reason：語料庫 grep（林怡薇／Yiwei Lin）僅命中本傳記之兩筆出處頁 [[works/taiwaneseamericanhistory-org/275-yiwei-lin-e6-9e-97-e6-80-a1-e8-96-87-pianist-201508|TAH #275]]、[[works/taiwaneseamericanhistory-org/547-yiwei-lin-e6-9e-97-e6-80-a1-e8-96-87-201508|TAH #547]]（均為書目記錄，B-band，無內文）及 works/index，無任何本人memoir或社區第一手記載可吸收；本頁時序已由 TAH 表完整涵蓋。

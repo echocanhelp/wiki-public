@@ -53,3 +53,6 @@ Prof. Kang-Lung Wang 王康隆教授 – History of Taiwanese American (T.A. Arc
 ## Deepen 2026-09-14（vault-only）
 - 出處 TAH #1787 之 vault 頁 [[works/taiwaneseamericanhistory-org/whos-who-1787-kang-lung-wang|TAH #1787（2017-07-27 刊）]] 為書目記錄，全無可另吸收事實；Education／Employment 欄機構（成大、MIT、GE、HKUST、UCLA、FENA、CNSI、CEGN）vault 內均無獨立頁，維持本頁紀錄。
 - 家人錢慎微、Evelyn Wang 於 vault 無頁；Jou 家族頁（[[people/emerson-m-f-jou]]、[[people/jack-j-jou]]）與本頁無已證實關聯，不連結。
+
+## Deepen-x 2026-09-14（slice 09141300-26）
+- SKIP-with-reason：語料庫 grep（王康隆／Kang-Lung Wang）僅命中出處頁 [[works/taiwaneseamericanhistory-org/whos-who-1787-kang-lung-wang|TAH #1787]]（書目記錄）及 works/index；vault 內無本人 memoir 或其他社區第一手記載可吸收。
