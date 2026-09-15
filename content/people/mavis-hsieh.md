@@ -59,3 +59,5 @@ _No filled family fields on the TAH profile._
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - [[organizations/taiwanese-association-of-indiana||Taiwanese Association of Indiana]]（Indiana 居住地之社團脈絡：Ball State、Muncie 皆在 Indiana）
+
+- SKIP 確認（slice 09150500-24, 2026-09-15）：復檢 works/ + articles/，命中僅本人自有 TAH 書目頁與 index 目錄列項，無回憶錄/社群第一手材料可吸收；無新增連結。

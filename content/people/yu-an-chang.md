@@ -49,8 +49,7 @@ Born in Penghu, Taiwan, conductor Yu-An Chang was awarded first prize at the 201
 - 故鄉澎湖之地方知識脈絡頁：[[sources/penghu-info||Penghu.info 澎湖知識服務平台]]（同為澎湖出身 Tier1 人物之故鄉錨點，參 [[people/prof-wen-hwa-lee||李文華]]）。
 - 內子 Kai-Chuan Chang：Vault 尚無對應頁面，未建連結以免誤配。
 - 語料庫掃描（deepen-x 09141213-18）SKIP：corpus 命中僅本人書目頁 #2238/#438（均已連結）與 index，回憶錄/社群文獻無提及；其職涯事實皆出自 TAH 壓力套件本傳，無可吸收之新增社群事實。
-- SKIP 複核（deepen-x slice 09142320-2，2026-09-15）：全語料庫 grep（張宇安／Yu-An Chang）仍僅命中 #2238、#438 書目頁與 works/index，無回憶錄或社群材料可吸收，維持 SKIP。
-- SKIP 複核（deepen-x slice 09150400-28，2026-09-15）：全語料庫重掃（張宇安／Yu-An Chang）命中集合不變，僅 #2238、#438 書目頁與 works/index，無回憶錄或社群材料可吸收，維持 SKIP。
+- SKIP 複核（deepen-x slices 09142320-2、09150400-28、09150500-20，2026-09-15）：全語料庫歷次重掃（張宇安／Yu-An Chang）命中集合不變，僅 #2238、#438 書目頁與 works/index，無回憶錄或社群材料可吸收，維持 SKIP。
 - 語料庫：[[sources/taiwaneseamericanhistory-org-story-corpus||TAH story corpus]]。
 
 ## Sources
