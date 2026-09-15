@@ -62,3 +62,4 @@ _No filled family fields on the TAH profile._
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - Corpus grep re-check (2026-09-15, deepen-x slice 09150400-31): same result — only own bibliographic page(s) and the works index; no memoir/community material absorbable. SKIP (no new facts).
+- Corpus grep re-check (2026-09-15, deepen-x slice 09150500-23): same result — only [[works/taiwaneseamericanhistory-org/whos-who-1858-shih-i-chu|TAH #1858]]. SKIP (no new facts).
