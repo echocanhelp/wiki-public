@@ -60,6 +60,7 @@ _No filled family fields on the TAH profile._
 - 出處頁為書目紀錄頁（全文留原站），傳記事實以上列 tah-tables 與 Timeline 為準：清華大學學士、猶他大學 1983 博士、Ceramatec／Champion 產業歷練、成功大學教授歷任副院長至研发長、2016 起國立高雄大學校長、台灣鍍膜科技協會理事長——無新事實。
 - 語料庫樞紐：[[sources/taiwaneseamericanhistory-org-story-corpus||TAH story corpus]]；發布機構：[[organizations/tah-foundation||TAH Foundation]]。
 - 語料庫 re-check（2026-09-15，deepen-x slice 09142320-7）：content/works + content/articles 命中僅限本人書目頁 [[works/taiwaneseamericanhistory-org/whos-who-1790-jow-lay-huang||TAH #1790]] 與作品索引——無回憶錄／社區材料可吸收。SKIP（無新事實）。
+- 語料庫 re-check（2026-09-15，deepen-x slice 09150400-29）：再次 grep（黃肇端／Jow-Lay，works+articles）命中集合不變——僅本人書目頁與作品索引，維持 SKIP。
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

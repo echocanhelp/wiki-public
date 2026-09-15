@@ -56,3 +56,4 @@ _No filled family fields on the TAH profile._
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - [[sources/taiwaneseamericanhistory-org-story-corpus||TAH story corpus hub]]
 - SKIP（deepen-x 09142320-5, 2026-09-15）：檢索復核，徐彗芬僅命中本人書目頁 #435 與 index（其餘 Pauline 命中為黃百齡、蕭百忍、邱曼怡、Pauline Chen 等其他人物），無可吸收事實。
+- SKIP（deepen-x 09150400-29, 2026-09-15）：grep 復核（徐彗芬／Huey-Fen，works+articles）命中集合不變——僅本人書目頁 #435 與 index，維持 SKIP。
