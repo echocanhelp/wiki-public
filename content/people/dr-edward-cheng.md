@@ -61,3 +61,4 @@ Accomplishment
 ## Deepen pass (2026-09-14)
 - 家人欄已連結既有頁：[[people/wendy-cheng||Wendy 鄭昕]]、[[people/eric-cheng||Eric 鄭晧]]（TAH 紀錄所載子女，未新增外部事實）。
 - deepen-x 09142319-23（覆核）：語料再檢命中皆已吸收於上列 Role in the Community（#26、#26-eng、#299、#300、#110），另有本人書目頁 [[works/taiwaneseamericanhistory-org/whos-who-347-edward-cheng|#347]] — 無新增事實，SKIP。
+- deepen-x 09150316-20（覆核）：語料再檢（漢名＋英文名）命中僅 #347、#26、#26-eng、#299、#300、#110 — 全部已吸收於上方 Role in the Community；無新事實，SKIP。

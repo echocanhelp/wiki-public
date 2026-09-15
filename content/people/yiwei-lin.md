@@ -61,3 +61,5 @@ _No filled family fields on the TAH profile._
 - SKIP-with-reason：語料庫 grep（林怡薇／Yiwei Lin）僅命中本傳記之兩筆出處頁 [[works/taiwaneseamericanhistory-org/275-yiwei-lin-e6-9e-97-e6-80-a1-e8-96-87-pianist-201508|TAH #275]]、[[works/taiwaneseamericanhistory-org/547-yiwei-lin-e6-9e-97-e6-80-a1-e8-96-87-201508|TAH #547]]（均為書目記錄，B-band，無內文）及 works/index，無任何本人memoir或社區第一手記載可吸收；本頁時序已由 TAH 表完整涵蓋。
 ## Deepen-x 2026-09-15 (slice 09142319-30)
 - SKIP-with-reason: corpus re-grep（林怡薇／Yiwei Lin）hits only own records [[works/taiwaneseamericanhistory-org/275-yiwei-lin-e6-9e-97-e6-80-a1-e8-96-87-pianist-201508|TAH #275]]、[[works/taiwaneseamericanhistory-org/547-yiwei-lin-e6-9e-97-e6-80-a1-e8-96-87-201508|TAH #547]]（書目記錄）— no memoir/community material absorbable.
+## Deepen-x 2026-09-15 (slice 09150316-27)
+- 覆核：語料重檢命中集與先前各 slice 相同（僅本人出處頁、works/index、已全數吸收之社区記錄頁），無新增可吸收事實，本頁維持現狀。 <!-- slice27 -->

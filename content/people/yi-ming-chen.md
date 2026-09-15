@@ -67,3 +67,5 @@ _No filled family fields on the TAH profile._
 ## Deepen pass (2026-09-14, slice 09141500-5)
 - 語料庫重檢（陳怡名｜Yi-Ming Chen）命中僅四處：本人 TAH #332／#158 百科頁、已吸收的 #128 音樂會記錄、works/index——無新語料事實可吸收。**SKIP**。
 - （複掃 2026-09-15，slice 26：SKIP）重掃結果不變——四處命中無變，無新社群事實可吸收。
+## Deepen-x 2026-09-15 (slice 09150316-27)
+- 覆核：語料重檢命中集與先前各 slice 相同（僅本人出處頁、works/index、已全數吸收之社区記錄頁），無新增可吸收事實，本頁維持現狀。 <!-- slice27 -->

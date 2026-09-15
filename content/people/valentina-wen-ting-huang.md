@@ -55,6 +55,7 @@ _No filled family fields on the TAH profile._
 
 - **2026-09-14 (DEEPEN-X09141400-11):** re-sweep SKIP — grep 命中僅 `works/index.md` 對本人 #268／#534 頁之索引罗列，無新材料。
 - **2026-09-15 (DEEPEN-X09142319-21):** re-sweep SKIP — 命中仍僅本人 #268／#534 頁、works 索引，及 Valentina Matviyenko 等同名異人之烏克蘭政治報導，無可吸收社群材料。
+- **2026-09-15 (DEEPEN-X09150316-20):** re-sweep SKIP — 命中僅本人 #268／#534 書目頁（均已連結）與 works 索引，另為同名異人之烏克蘭報導；無可吸收社群材料。
 
 ## Sources
 - [TAH #268 encyclopedia: 268. Valentina Wen-Ting Huang 黃文亭, Pianist / 2015/08](https://taiwaneseamericanhistory.org/268-valentina-wen-ting-huang-pianist-201508/)
