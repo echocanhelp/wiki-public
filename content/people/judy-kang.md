@@ -61,4 +61,5 @@ _No filled family fields on the TAH profile._
 
 - 文中所述 **Yo-Yo Ma 世界大師巡迴訪台**（她生涯首演契機）、**南加大雙主修大提琴／鋼琴第一人**、**Celine Dion 駐團大提琴家**、**指揮 John Williams** 等人名，vault 內尚無專屬頁面，故此處不建連結（避免新建頁）。
 - 兩則 TAH 百科條目（#126、#233）已如上連結，與 Who's Who 人物檔互為佐證。
-- **社群書寫紀錄（本次新增）：** [[works/taiwaneseamericanhistory-org/mystories110||110. 琴韻傑出的康瑋倫 / 李淑櫻]]（TAH「我的故事」系列，2014-10-13）——vault 內既有的同主題專文紀錄，與本頁 TAH 生平互為補充；作者李淑櫻 vault 內尚無專屬人物頁，故不建連結（避免新建頁）。
+- **社群書寫紀錄：** [[works/taiwaneseamericanhistory-org/mystories110||110. 琴韻傑出的康瑋倫 / 李淑櫻]]（TAH「我的故事」系列，2014-10-13）——vault 內既有的同主題專文紀錄，與本頁 TAH 生平互為補充；作者李淑櫻 vault 內尚無專屬人物頁，故不建連結（避免新建頁）。
+- **SKIP（deepen 2026-09-14）：** 本次語料庫全檢（works/articles）僅命中本頁已連結之書目頁 #126、#233、mystories110 及 index——mystories110 為書目級紀錄（全文留原站），無新社群事實可吸收，故不重複抄錄。

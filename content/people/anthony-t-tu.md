@@ -49,6 +49,16 @@ Absorbed from vault pages already naming him (no web):
 - Additional TAH encyclopedia records: [[works/taiwaneseamericanhistory-org/4-prof-t-anthony-tu||#4]] and [[works/taiwaneseamericanhistory-org/whos-who-812-anthony-t-tu||#812]].
 - His own writings in the story corpus (deepen 09141213-16): [[works/taiwaneseamericanhistory-org/publications1110||TAH #1110: Nomadic Academic Life of a Professor / 自傳 (2009)]] — his autobiographical essay; [[works/taiwaneseamericanhistory-org/mystories555||TAH #555: Reflection of Prof. Anthony T. Tu's Life (2017-07)]] — a later life-reflection piece; [[works/taiwaneseamericanhistory-org/publications1339||TAH #1339: 奔流的樹葉 / 自傳 (2020-03)]] — his 2020 autobiography (companion/fuller record of the 序言 already linked as #724). Three self-authored memoir records spanning 2009–2020 make him one of the corpus's better-documented senior scientists.
 
+## Role in the Community (deepen slice 09141400-9, corpus pass)
+
+Further self-authored records in the TAH story corpus surface his public intellectual engagement beyond academia:
+
+- [[works/taiwaneseamericanhistory-org/publications1104||TAH #1104: A Medal from the Japanese Emperor (2010-05)]] — his own account of the 2009 旭日中綬章 decoration already recorded above.
+- [[works/taiwaneseamericanhistory-org/publications1106||TAH #1106: Chemical Terrorism — Horrors in Tokyo Subway and Matsumoto City (2002)]] — his toxinology expertise applied publicly to the sarin attacks.
+- [[works/taiwaneseamericanhistory-org/publications1240||TAH #1240: サリン事件死刑囚 中川智正との対話 (2018-07)]] — his dialogue with Aum sarin-matter death-row inmate Tomomasa Nakagawa, continuing the #1106 thread.
+- [[works/taiwaneseamericanhistory-org/publications1241||TAH #1241: 沖縄と台湾を愛したジョージ・H・カー先生の思い出 / 比嘉辰雄 杜祖健 (2018-03)]] — co-authored reminiscence of George H. Kerr with Higa Tatsuo.
+- [[works/taiwaneseamericanhistory-org/publications1105||TAH #1105: In Loving Memory of Kazuko Yamamoto Tu (2013-08)]] — his own memoir piece for his wife (Family above), which places her death by 2013-08; existing Family field lists her without dates, so no conflict to HOLD.
+
 ## Timeline
 - 1930 — born in Taipei (Era per TAH directory)
 - 1953 — B.S. (Chemistry), National Taiwan Univ.
