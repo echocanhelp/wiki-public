@@ -30,10 +30,11 @@ Re-stated only from the TAH records the vault already holds (see Vault Cross-Ref
 - **Organisational structure:** proposed by [[people/prof-ken-s-huang||Ken S. Huang (黃根深)]] in **2012**.
 
 ## Timeline
+- **1987-07** — 美西台灣人夏令會1987手冊 published (vault record #1329) — documentary evidence of the conference run predating formal incorporation by three decades.
 - **2012** — Formal organisational structure proposed by Ken S. Huang (黃根深).
-- **2015** — TAC-WC conference active (TAH story record, 2015-06-14).
+- **2015** — TAC-WC conference active (TAH story record, 2015-06-14; conference handbook #86 held in vault).
 - **2017-03** — Incorporated as a nonprofit corporation; 501(c)(3) application underway.
-- **2017-07-07 – 09** — Inaugural conference as a formal corporation, San Diego area.
+- **2017-07-07 – 09** — Inaugural conference as a formal corporation, San Diego area; conference handbook issued 2017-07-14 (vault record #1116).
 - **2019-07-19 – 20** — Conference in Salt Lake City / Utah.
 
 ## Sources
@@ -50,3 +51,6 @@ Re-stated only from the TAH records the vault already holds (see Vault Cross-Ref
 - [[works/taiwaneseamericanhistory-org/tacwc||TAH: 5. Taiwanese American Conference / West Coast 美西台灣人夏令會 (2015)]]
 - [[works/taiwaneseamericanhistory-org/the-board-of-taiwanese-american-conferences-west-coast-tac-wc||TAH: founding announcement of the TAC-WC board (2017-03-20)]]
 - [[works/taiwaneseamericanhistory-org/77-hand-bag-of-2019-taiwanese-american-conference-west-coast||TAH #77: hand bag of TAC-WC 2019, Salt Lake City, July 19–20/2019]]
+- [[works/taiwaneseamericanhistory-org/publications1329||TAH #1329: 美西台灣人夏令會1987手冊 (07/1987)]]
+- [[works/taiwaneseamericanhistory-org/photo-albums-activities-86||TAH #86: 美西台灣人夏令會手冊 (2015-06)]]
+- [[works/taiwaneseamericanhistory-org/publications1116||TAH #1116: 美西台灣人夏令會2017手冊 (07/2017)]]

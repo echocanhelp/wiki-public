@@ -52,6 +52,10 @@ Absorbed from the profile text, Employment table, and cited TAH encyclopedia ent
 - Writer: columnist for the 路德信箱 column in 台灣公論報, author of 成功的溝通—從家庭開始 (2010); her life story is told in [[people/yang-yuanxun||楊遠薰]]'s 人生若夢─心理治療家葉李麗貞的故事.
 - Husband: 葉國勢.
 
+## Role in the Community
+- Absorbed from the TAH memoir corpus ([[works/taiwaneseamericanhistory-org/our-journeys-379|TAH Our Journeys #379]]): at the 東南夏令 gathering she led a 婚姻生活座談 (marriage-life discussion session), recalled by the author as one of the program's richly attended highlights alongside lectures by 魚夫, 李永熾, 范振聲, 江蓋世 and 黃文英 — community teaching, not just clinical practice.
+- Her family-therapy advocacy ran through the Taiwanese-American community press and publishing: the 路德信箱 column ([[works/taiwaneseamericanhistory-org/ruth-mail-box|路德信箱, 台灣公論報]]) and her 2010 book [[works/taiwaneseamericanhistory-org/107-e6-88-90-e5-8a-9f-e7-9a-84-e6-ba-9d-e9-80-9a-e4-b8-80-e5-be-9e-e5-ae-b6-e5-b|成功的溝通—從家庭開始]].
+
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
