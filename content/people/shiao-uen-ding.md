@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-14
+last_reviewed: 2026-09-15
 ---
 # Shiao-Uen Ding (丁曉雯)
 
@@ -45,3 +45,7 @@ _No filled family fields on the TAH profile._
 
 ## Vault Record Notes
 - TAH story records held in vault: [[works/taiwaneseamericanhistory-org/64-shiau-uen-ding-e4-b8-81-e6-9b-89-e9-9b-af-piano|TAH #64 Shiau-uen Ding 丁曉雯, Pianist]]、[[works/taiwaneseamericanhistory-org/92-dr-shiao-uen-ding-e4-b8-81-e6-9b-89-e9-9b-af-e5-8d-9a-e5-a3-ab-piaonist|TAH #92 丁曉雯博士, Pianist]]
+
+## Role in the Community (corpus re-grep 2026-09-15)
+- Two vault story records name her, both held as bibliographic records only (full text stays in the TAH vault, all-rights): [[works/taiwaneseamericanhistory-org/64-shiau-uen-ding-e4-b8-81-e6-9b-89-e9-9b-af-piano|TAH #64 Shiau-uen Ding 丁曉雯, Pianist]] (published 2014-10-11) and [[works/taiwaneseamericanhistory-org/92-dr-shiao-uen-ding-e4-b8-81-e6-9b-89-e9-9b-af-e5-8d-9a-e5-a3-ab-piaonist|TAH #92 丁曉雯博士, Pianist]] (published 2014-11-16) — she was profiled in the 2014 musician-feature series alongside [[works/taiwaneseamericanhistory-org/musician63|63. Gail Lee 李秀文, Conductor]] and [[works/taiwaneseamericanhistory-org/hannah-hsu-wang-piano|62. Hannah Hsu Wang 許鴻玉, Pianist]], documenting Taiwanese American musicians active in the community.
+- HOLD: romanization conflict — record #64 uses "Shiau-uen Ding", record #92 uses "Shiao-Uen Ding"; both are TAH's own entries, never auto-merged.

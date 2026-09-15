@@ -6,7 +6,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-15
 ---
 # 黃美菁
 
@@ -32,6 +32,10 @@ last_reviewed: 2026-08-17
 ## Family
 
 _No filled family fields on the TAH profile._
+
+## Role in the Community
+
+TAH 紀錄中,黃美菁以旅美台灣小提琴家身分被兩度記錄:人物頁 [[works/taiwaneseamericanhistory-org/477-e9-bb-83-e7-be-8e-e8-8f-81-201507|477. 黃美菁 / 2015/07]] 與專文 [[works/taiwaneseamericanhistory-org/229-e9-bb-83-e7-be-8e-e8-8f-81-violinist-201507|229. 黃美菁, Violinist / 2015/07]](皆 2015-07-05 入檔,收於 [[works/taiwaneseamericanhistory-org/3-newsletter-of-t-a-archives-july-2015|3. Newsletter of T.A. Archives July 2015]] 同批檔案)。她與盧冠呈 ([[works/taiwaneseamericanhistory-org/233-kuan-cheng-lu-e7-9b-a7-e5-86-a0-e5-91-88violinist-201507|233. Kuan Cheng Lu 盧冠呈]]), 林允白 ([[works/taiwaneseamericanhistory-org/230-jasmine-lin-e6-9e-97-e5-85-81-e7-99-bd-violinist-201705|230. Jasmine Lin 林允白]]), 蔡佩君 ([[works/taiwaneseamericanhistory-org/228-e8-94-a1-e4-bd-a9-e5-90-9b-violinist-201507|228. Pei Chung Tsai 蔡佩君]]) 等旅美台灣音樂家同屬 TAH 音樂人才檔案群,是協會保存的台灣裔美國藝文貢獻者記錄。
 
 ## Sources
 - [TAH #229 encyclopedia: 229. 黃美菁, Violinist / 2015/07](https://taiwaneseamericanhistory.org/229-%e9%bb%83%e7%be%8e%e8%8f%81-violinist-201507/)
