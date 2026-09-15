@@ -39,6 +39,7 @@ Our memoirs record Chang as a core figure of the Bay Area Taiwanese Christian an
 - Corpus: [[works/taiwaneseamericanhistory-org/our-journeys-350|Our Journeys 350]] (張瑞雄牧師 memoir), [[works/taiwaneseamericanhistory-org/ourjourneys37|Our Journeys 37]], [[works/taiwaneseamericanhistory-org/ourjourneys38|Our Journeys 38]], [[works/taiwaneseamericanhistory-org/ourjourneys106|Our Journeys 106]], and his own entry [[works/taiwaneseamericanhistory-org/whos-who-2304-leon-chang|TAH #2304]].
 
 - Corpus re-verified（deepen-x slice 09150600-18, 2026-09-15）：grep 命中集＝已連結之 [[works/taiwaneseamericanhistory-org/our-journeys-350|Our Journeys 350]]、[[works/taiwaneseamericanhistory-org/my-stories-779|779. 憶張村樑長老]]、Our Journeys 37/38/106 與本人 TAH #2304 記錄；回憶錄材料全數已吸收於上，無新增事實。
+- Corpus re-verified（deepen-x slice 09150700-10, 2026-09-15）：grep（張村樑 / Leon Chang, works+articles）命中集不變——Our Journeys 350/37/38/106、my-stories-779、本人 TAH #2304 記錄，皆已連結並吸收；無新增事實。
 
 ## Family
 

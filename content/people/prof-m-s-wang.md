@@ -53,6 +53,7 @@ _No filled family fields on the TAH profile._
 - **Corpus check 2026-09-15 (SKIP, slice 09142320-9):** re-grep matches only the own directory record and `works/index.md` again — no new material.
 - **Corpus check 2026-09-15 (SKIP, slice 09150500-26):** re-grep (王孟心 / M. S. Wang) matches only [[works/taiwaneseamericanhistory-org/whos-who-1902-m-s-wang|TAH #1902]] and `works/index.md` — hit set unchanged, nothing absorbable.
 - **Corpus check 2026-09-15 (SKIP, slice 09150600-16):** re-grep (王孟心 / M. S. Wang) matches only [[works/taiwaneseamericanhistory-org/whos-who-1902-m-s-wang|TAH #1902]] and `works/index.md` — hit set unchanged across five passes, nothing absorbable.
+- **Corpus check 2026-09-15 (SKIP, slice 09150700-10):** re-grep (王孟心 / M. S. Wang) matches only [[works/taiwaneseamericanhistory-org/whos-who-1902-m-s-wang|TAH #1902]] and `works/index.md` — sixth consecutive pass, no memoir mentions, nothing absorbable.
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

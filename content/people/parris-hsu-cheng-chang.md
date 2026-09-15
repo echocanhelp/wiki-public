@@ -52,6 +52,7 @@ PARRIS HSU-CHENG CHANG 張旭成 – History of Taiwanese American (T.A. Archive
 - The 廖述宗 memoir corroborates the table record below: after the 2000 political turnover, 張旭成 returned to Taiwan as a DPP 僑選立委 and later 國安會副秘書長. [[works/taiwaneseamericanhistory-org/ourjourneys69|69. 北美洲台灣人教授協會 / 廖述宗]]
 - Community directory profile: [[works/taiwaneseamericanhistory-org/535-parris-hsu-cheng-chang|535. PARRIS HSU-CHENG CHANG 張旭成 / 2015-08]].
 - Re-check (deepen-x slices 09150400-32, 09150500-20, 09150600-10, 2026-09-15): corpus grep against works/ + articles/ returns the same record set — his own directory page plus the memoirs already absorbed above, now also seen in English translation ([[works/taiwaneseamericanhistory-org/ourjourneys69-eng|69 (EN)]]、[[works/taiwaneseamericanhistory-org/ourjourneys74-eng|74 (EN)]] — same Oberlin 1983 camp and NATPA founding passages). No new absorbable community content.
+- Re-check (deepen-x slice 09150700-8, 2026-09-15): hit set unchanged (ourjourneys 37/47/69/74 + works index). One peripheral new trace in the taiwanjustice-net tier2 archive manifest (a 2017-07-24 蘋果日報 opinion piece「神話習近平的愚民運動」and a 「Tag: 張旭成」 listing under a 統戰 tag page) — press commentary authored by him, outside the community/memoir corpus and outside content/; noted, not absorbed. No conflicts; nothing to HOLD.
 
 ## Sources
 - [TAH #535 encyclopedia: 535. PARRIS HSU-CHENG CHANG 張旭成 / 2015/08](https://taiwaneseamericanhistory.org/535-parris-hsu-cheng-chang/)
