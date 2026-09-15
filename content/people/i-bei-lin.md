@@ -63,3 +63,6 @@ Grep of `works/` and `articles/` for 林怡貝 / I-Bei Lin returns only this per
 - [[works/taiwaneseamericanhistory-org/573-i-bei-lin-e6-9e-97-e6-80-a1-e8-b2-9d-201509|573. I-Bei Lin 林怡貝 (2015-09)]]
 
 Both records are band-B bibliographic entries (full text stays with TAH), so there is no memoir material beyond the press-kit biography already digested above. No conflicts found; nothing to HOLD; no new biography invented.
+
+## Deepen pass (2026-09-14, slice 09141500-10)
+- SKIP-with-reason：語料庫檢索復核，命中僅本人書目頁（TAH #289、#573）、index 條目行及 杜宛珊 頁的名錄互聯，無回憶錄材料可吸收。

@@ -56,3 +56,6 @@ _No filled family fields on the TAH profile._
 - SKIP-with-reason：語料庫 grep 僅命中本人書目紀錄 #290／#574（已連結於本頁）與 works/index 目錄行，回忆录無可吸收之社群事實；維持 TAH 傳記紀錄。
 - 出處 tah-tables 之 Juilliard／Harvard／Peabody／Silk Road Ensemble／Northwest Sinfonietta 於 vault 仍無機構頁，維持本頁紀錄，不新建。
 - 同語料庫 TAH 鋼琴家參照：[[people/steven-lin|Steven Lin 林易]]、[[people/tah-p-850ffab5db|周政忠 Jonathan Jou]]。
+
+## Deepen pass (2026-09-14, slice 09141500-12)
+- **SKIP-with-reason (corpus re-scan):** grep -E `Joel Fan|范景德` over `content/works` + `content/articles` again returns only his own bibliography records TAH #290／#574（已連結於本頁）— no memoir/community-record mentions. Nothing absorbable.

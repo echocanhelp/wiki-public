@@ -64,3 +64,6 @@ Absorbed solely from facts already present on this page (TAH biography + tah-tab
 - **TAH record history:** first listed as Who's Who #102 (musician, 2012/12), re-listed as #1119 (2016/06) — both encyclopedia entries cited above.
 
 Cross-links (existing slugs only): [[organizations/taiwanese-association-of-america-delaware||TA of America — Delaware]] (state of her current Delaware Symphony post).
+
+## Deepen pass (2026-09-14, slice 09141500-10)
+- SKIP-with-reason：語料庫檢索復核，命中僅本人書目頁（TAH #102、#1119）、index 條目行，及 ming-liang-lee 頁「廖雅惠≠詹雅惠」辨歧註記（非本人事實），無可吸收材料。
