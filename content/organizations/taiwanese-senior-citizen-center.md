@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-15
 ---
 # Taiwanese Senior Citizen Center (紐約台灣老人聯合會)
 

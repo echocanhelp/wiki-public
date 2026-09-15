@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-15
 ---
 # Dr. Bernard Tsai (蔡武男醫師)
 
@@ -31,6 +31,12 @@ Accomplishment
 ## Employment
 - Yale University School of Medicine — Residency — (1976-) — Rockville, MD — Anesthesiology Specialist — Community — North American Taiwanese Medical Association (北美洲台灣人醫師協會) — President — Formosan Association for Public Affairs (台灣人公共事務會總會) — Vice President — Washington Tsai Ing-Wen Support Association (華府蔡英文後援會) — Convener
 <!-- tah-tables:end -->
+
+## Role in the Community
+- One of the like-minded physicians who enthusiastically answered 周烒明's recruitment drive for the North American Taiwanese Medical Association, responding for the Washington D.C. area alongside 楊次雄 (NY), 黃昭 (Michigan), 林靜竹 (Chicago) and 陳惠亭 (SoCal) [[works/taiwaneseamericanhistory-org/ourjourneys74|74. Our Journeys 北美洲台灣人醫師協會成立]], later serving the association as president [[works/taiwaneseamericanhistory-org/ourjourneys74-eng|74 (English)]]; appears in the association's 1983 membership roll [[works/taiwaneseamericanhistory-org/ourjourneys-138|138]].
+- Listed among the 華府同鄉会 (Washington hometown association) supporters thanked in the Our Journeys fundraising acknowledgment, alongside 林光源, 陳唐山, 楊基定 and 洪燿東 [[works/taiwaneseamericanhistory-org/ourjourneys256|256]].
+- As 蔡武男長老 he served on the building committee of his Washington-area Presbyterian church's construction campaign, and was among the church elders who negotiated the World Peace Foundation donation (three land parcels split with Bethesda Presbyterian Church) [[works/taiwaneseamericanhistory-org/ourjourneys217|217. Our Journeys 建堂募款 memoir]].
+- Who's Who entry archived as [[works/taiwaneseamericanhistory-org/whos-who-1804-bernard-tsai|1804. Dr. Bernard Tsai 蔡武男醫師]].
 
 ## Family
 
