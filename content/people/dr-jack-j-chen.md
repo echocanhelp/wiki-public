@@ -49,7 +49,7 @@ last_reviewed: 2026-09-15
 - Duplicate person page: [[people/jack-j-chen||Jack J. Chen]]
 - TAH encyclopedia work pages: [[works/taiwaneseamericanhistory-org/whos-who-642-jack-j-chen||TAH Who's Who #642]], [[works/taiwaneseamericanhistory-org/862-parkinsons-disease-jack-j-chen-199710life-e7-94-9f-e6-b4-bb||TAH #862 — Parkinson's disease article (1997)]]
 - TAH #217 encyclopedia record (2019-01-10, bibliographic): [[works/taiwaneseamericanhistory-org/53015||TAH #217 Dr. Jack J. Chen 陳宏傑教授]]
-- （2026-09-14 deepen pass：語料庫檢索另見 works/index.md 彙整頁，無新增社群事蹟；本頁維持 TAH 職涯紀錄。）
+- （2026-09-14 deepen pass、2026-09-15 複核：語料庫檢索命中僅本頁已連結之書目頁 TAH #217／#642／#862（band B）與 works/index.md 彙整頁，無新增社群事蹟；本頁維持 TAH 職涯紀錄。**SKIP：無新可吸收事實。**）
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
