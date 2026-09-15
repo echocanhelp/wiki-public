@@ -65,3 +65,4 @@ _No filled family fields on the TAH profile._
 
 ## corpus sweep 2026-09-15（slice 29）
 - SKIP：再 grep works/articles 僅命中本人書目頁（TAH #1173、#1587，已併入 Timeline）與索引頁；文章命中皆為同名誤配——時代力量台南黨部組織部主任**林易瑩**為另一人，非本頁鋼琴家。無新增可吸收事實。
+- 覆核（deepen-x slice 09150400-20，2026-09-15）：重掃（林易／Steven Lin over works+articles）命中不變——本人書目頁 4 筆（#291、#575、#1173、#1587，均已連結）、works/index 目錄列、taiwanjustice-net MANIFEST.jsonl（索引中繼資料，無敘述內容），及同名誤配之時代力量**林易瑩**文章。無可吸收社群事實，維持 **SKIP**。

@@ -61,3 +61,4 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- （覆核 deepen-x slice 09150400-20，2026-09-15：SKIP）重掃（林雲郎／Samuel Lin over works+articles）結果不變——命中僅本人書目頁 [[works/taiwaneseamericanhistory-org/10231|TAH #250]]、[[works/taiwaneseamericanhistory-org/136-samuel-lin-e6-9e-97-e9-9b-b2-e9-83-8e-artistic-director-conductor-201502|TAH #136]]、works/index，及 Pew 連署名單裸名「Samuel Lin」（無 identifiers，不主張連結）；無新社群事實可吸收。
