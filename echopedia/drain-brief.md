@@ -1,4 +1,4 @@
-## Queue drain — 2026-09-14
+## Queue drain — 2026-09-15
 - Items: **40**
 
 - `people/chen-po-kong.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
@@ -10,12 +10,9 @@
 - `people/rev-martin-c-wang.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 - `people/john-chin-jung-cheng.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 - `people/zai-xing-wang.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
-- `people/rev-edward-bin-tanng.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 - `people/rev-sheng-to-shih.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
-- `people/tina-shih.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 - `people/h-j-chen.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 - `people/susan-chou.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
-- `people/prof-tian-min-lin.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 - `people/dr-joseph-kho.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 - `people/c-l-hong.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 - `people/j-m-chiang.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
@@ -24,7 +21,6 @@
 - `people/ralph-su.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 - `people/prof-yang-en-cheng.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 - `people/milo-thornberry.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
-- `people/wudong-huang.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 - `people/samuel-wu.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 - `people/rev-james-chang.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 - `people/felix-liu.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
@@ -37,9 +33,13 @@
 - `people/christina-lai.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 - `people/rev-s-y-lin.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 - `people/rev-c-l-tong.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
-- `people/rev-rui-long-lin.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
-- `people/jen-hao-lee.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
-- `people/rev-c-y-huang.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
-- `people/tah-p-b256f6296d.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
+- `people/rev-thomas-h-chen.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
+- `people/fan-jiang-ti-ang.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
+- `people/huang-diyin.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
+- `people/li-jian.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
+- `people/lin-baohua.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
+- `people/yang-yueqing.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
+- `people/guan-renjian.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
+- `events/sc-presbyterian-church--news_pct.aspx.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 
 Fail-closed first-mention is AUTO (janitor). HOLD leftover ≠ human body-link batch.

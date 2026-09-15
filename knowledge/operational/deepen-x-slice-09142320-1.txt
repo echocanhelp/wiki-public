@@ -1,0 +1,4 @@
+organizations/taiwanese-american-religious-study-association-southern-california-tarsa-sc.md
+people/kevin-lee.md
+people/amanda-shumin-yang.md
+people/ming-franz.md

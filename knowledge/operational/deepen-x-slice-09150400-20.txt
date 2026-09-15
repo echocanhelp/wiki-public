@@ -1,0 +1,4 @@
+people/amanda-shumin-yang.md
+people/komi-chen.md
+people/steven-lin.md
+people/samuel-lin.md

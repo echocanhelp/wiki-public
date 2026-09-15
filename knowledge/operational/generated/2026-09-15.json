@@ -1,0 +1,235 @@
+{
+  "date": "2026-09-15",
+  "total_cards": 20,
+  "evaluated_file": "/home/leedt/echo-system/knowledge/operational/evaluated/2026-09-15.json",
+  "priority_counts": {
+    "medium": 12,
+    "low": 8
+  },
+  "playbook_counts": {
+    "P3": 8,
+    "P8": 12
+  },
+  "cards": [
+    {
+      "card_id": "echo-gen-2026-09-15-0001",
+      "title": "[MEDIUM] servicespace-awakin-chen: Add ## Related Pages section",
+      "body": "## Task: [MEDIUM] servicespace-awakin-chen: Add ## Related Pages section\n\n**Priority:** medium\n**Playbook:** P3\n**Page:** `sources/servicespace-awakin-chen.md`\n**Finding:** `LINKS_NO_RELATED`\n**Score:** 8.0 (inbound links: 4)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/sources/servicespace-awakin-chen.md\n3. Find broken wikilinks and repair or redirect\n4. Commit only (no publish)\n\n### Specific Fix\n**Action:** Add ## Related Pages section\n**Detail:** Add a Related Pages section with wikilinks to connected people, organizations, and sources.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: LINKS_NO_RELATED\nPage type: sources\nType weight: 1.0\nFinding weight: 2.0",
+      "priority": "medium",
+      "playbook": "P3",
+      "page": "sources/servicespace-awakin-chen.md",
+      "finding": "LINKS_NO_RELATED",
+      "score": 8.0,
+      "target_path": "/home/leedt/echo-system/content/sources/servicespace-awakin-chen.md"
+    },
+    {
+      "card_id": "echo-gen-2026-09-15-0002",
+      "title": "[MEDIUM] conbrio-board-bio: Add ## Related Pages section",
+      "body": "## Task: [MEDIUM] conbrio-board-bio: Add ## Related Pages section\n\n**Priority:** medium\n**Playbook:** P3\n**Page:** `sources/conbrio-board-bio.md`\n**Finding:** `LINKS_NO_RELATED`\n**Score:** 6.0 (inbound links: 3)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/sources/conbrio-board-bio.md\n3. Find broken wikilinks and repair or redirect\n4. Commit only (no publish)\n\n### Specific Fix\n**Action:** Add ## Related Pages section\n**Detail:** Add a Related Pages section with wikilinks to connected people, organizations, and sources.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: LINKS_NO_RELATED\nPage type: sources\nType weight: 1.0\nFinding weight: 2.0",
+      "priority": "medium",
+      "playbook": "P3",
+      "page": "sources/conbrio-board-bio.md",
+      "finding": "LINKS_NO_RELATED",
+      "score": 6.0,
+      "target_path": "/home/leedt/echo-system/content/sources/conbrio-board-bio.md"
+    },
+    {
+      "card_id": "echo-gen-2026-09-15-0003",
+      "title": "[MEDIUM] patch-elcerrito-2011: Add ## Related Pages section",
+      "body": "## Task: [MEDIUM] patch-elcerrito-2011: Add ## Related Pages section\n\n**Priority:** medium\n**Playbook:** P3\n**Page:** `sources/patch-elcerrito-2011.md`\n**Finding:** `LINKS_NO_RELATED`\n**Score:** 6.0 (inbound links: 3)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/sources/patch-elcerrito-2011.md\n3. Find broken wikilinks and repair or redirect\n4. Commit only (no publish)\n\n### Specific Fix\n**Action:** Add ## Related Pages section\n**Detail:** Add a Related Pages section with wikilinks to connected people, organizations, and sources.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: LINKS_NO_RELATED\nPage type: sources\nType weight: 1.0\nFinding weight: 2.0",
+      "priority": "medium",
+      "playbook": "P3",
+      "page": "sources/patch-elcerrito-2011.md",
+      "finding": "LINKS_NO_RELATED",
+      "score": 6.0,
+      "target_path": "/home/leedt/echo-system/content/sources/patch-elcerrito-2011.md"
+    },
+    {
+      "card_id": "echo-gen-2026-09-15-0004",
+      "title": "[MEDIUM] conbrio-board-bio: Add more wikilinks to related pages",
+      "body": "## Task: [MEDIUM] conbrio-board-bio: Add more wikilinks to related pages\n\n**Priority:** medium\n**Playbook:** P3\n**Page:** `sources/conbrio-board-bio.md`\n**Finding:** `LINKS_LOW_DENSITY`\n**Score:** 4.5 (inbound links: 3)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/sources/conbrio-board-bio.md\n3. Find broken wikilinks and repair or redirect\n4. Commit only (no publish)\n\n### Specific Fix\n**Action:** Add more wikilinks to related pages\n**Detail:** This page has low wikilink density. Add [[wikilinks]] to people, organizations, and sources mentioned in the text.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: LINKS_LOW_DENSITY\nPage type: sources\nType weight: 1.0\nFinding weight: 1.5",
+      "priority": "medium",
+      "playbook": "P3",
+      "page": "sources/conbrio-board-bio.md",
+      "finding": "LINKS_LOW_DENSITY",
+      "score": 4.5,
+      "target_path": "/home/leedt/echo-system/content/sources/conbrio-board-bio.md"
+    },
+    {
+      "card_id": "echo-gen-2026-09-15-0005",
+      "title": "[MEDIUM] morenews-interview: Add ## Related Pages section",
+      "body": "## Task: [MEDIUM] morenews-interview: Add ## Related Pages section\n\n**Priority:** medium\n**Playbook:** P3\n**Page:** `sources/morenews-interview.md`\n**Finding:** `LINKS_NO_RELATED`\n**Score:** 4.0 (inbound links: 2)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/sources/morenews-interview.md\n3. Find broken wikilinks and repair or redirect\n4. Commit only (no publish)\n\n### Specific Fix\n**Action:** Add ## Related Pages section\n**Detail:** Add a Related Pages section with wikilinks to connected people, organizations, and sources.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: LINKS_NO_RELATED\nPage type: sources\nType weight: 1.0\nFinding weight: 2.0",
+      "priority": "medium",
+      "playbook": "P3",
+      "page": "sources/morenews-interview.md",
+      "finding": "LINKS_NO_RELATED",
+      "score": 4.0,
+      "target_path": "/home/leedt/echo-system/content/sources/morenews-interview.md"
+    },
+    {
+      "card_id": "echo-gen-2026-09-15-0006",
+      "title": "[MEDIUM] ntch-lib-recordings: Add ## Related Pages section",
+      "body": "## Task: [MEDIUM] ntch-lib-recordings: Add ## Related Pages section\n\n**Priority:** medium\n**Playbook:** P3\n**Page:** `sources/ntch-lib-recordings.md`\n**Finding:** `LINKS_NO_RELATED`\n**Score:** 4.0 (inbound links: 2)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/sources/ntch-lib-recordings.md\n3. Find broken wikilinks and repair or redirect\n4. Commit only (no publish)\n\n### Specific Fix\n**Action:** Add ## Related Pages section\n**Detail:** Add a Related Pages section with wikilinks to connected people, organizations, and sources.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: LINKS_NO_RELATED\nPage type: sources\nType weight: 1.0\nFinding weight: 2.0",
+      "priority": "medium",
+      "playbook": "P3",
+      "page": "sources/ntch-lib-recordings.md",
+      "finding": "LINKS_NO_RELATED",
+      "score": 4.0,
+      "target_path": "/home/leedt/echo-system/content/sources/ntch-lib-recordings.md"
+    },
+    {
+      "card_id": "echo-gen-2026-09-15-0007",
+      "title": "[MEDIUM] ntcpetv-ptsi-bio: Add ## Related Pages section",
+      "body": "## Task: [MEDIUM] ntcpetv-ptsi-bio: Add ## Related Pages section\n\n**Priority:** medium\n**Playbook:** P3\n**Page:** `sources/ntcpetv-ptsi-bio.md`\n**Finding:** `LINKS_NO_RELATED`\n**Score:** 4.0 (inbound links: 2)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/sources/ntcpetv-ptsi-bio.md\n3. Find broken wikilinks and repair or redirect\n4. Commit only (no publish)\n\n### Specific Fix\n**Action:** Add ## Related Pages section\n**Detail:** Add a Related Pages section with wikilinks to connected people, organizations, and sources.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: LINKS_NO_RELATED\nPage type: sources\nType weight: 1.0\nFinding weight: 2.0",
+      "priority": "medium",
+      "playbook": "P3",
+      "page": "sources/ntcpetv-ptsi-bio.md",
+      "finding": "LINKS_NO_RELATED",
+      "score": 4.0,
+      "target_path": "/home/leedt/echo-system/content/sources/ntcpetv-ptsi-bio.md"
+    },
+    {
+      "card_id": "echo-gen-2026-09-15-0008",
+      "title": "[MEDIUM] servicespace-awakin-chen: Ensure the first paragraph mentions the page subject",
+      "body": "## Task: [MEDIUM] servicespace-awakin-chen: Ensure the first paragraph mentions the page subject\n\n**Priority:** medium\n**Playbook:** P8\n**Page:** `sources/servicespace-awakin-chen.md`\n**Finding:** `DESC_NO_TITLE_MENTION`\n**Score:** 4.0 (inbound links: 4)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/sources/servicespace-awakin-chen.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-09-15 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Ensure the first paragraph mentions the page subject\n**Detail:** The first paragraph should reference the person/organization this page is about.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: DESC_NO_TITLE_MENTION\nPage type: sources\nType weight: 1.0\nFinding weight: 1.0",
+      "priority": "medium",
+      "playbook": "P8",
+      "page": "sources/servicespace-awakin-chen.md",
+      "finding": "DESC_NO_TITLE_MENTION",
+      "score": 4.0,
+      "target_path": "/home/leedt/echo-system/content/sources/servicespace-awakin-chen.md"
+    },
+    {
+      "card_id": "echo-gen-2026-09-15-0009",
+      "title": "[MEDIUM] servicespace-awakin-chen: Add ## Archive Statistics or ## Content section",
+      "body": "## Task: [MEDIUM] servicespace-awakin-chen: Add ## Archive Statistics or ## Content section\n\n**Priority:** medium\n**Playbook:** P8\n**Page:** `sources/servicespace-awakin-chen.md`\n**Finding:** `STRUCT_NO_STATS`\n**Score:** 4.0 (inbound links: 4)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/sources/servicespace-awakin-chen.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-09-15 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Add ## Archive Statistics or ## Content section\n**Detail:** Add archive statistics (URL count, size, date) or content summary for this source page.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: STRUCT_NO_STATS\nPage type: sources\nType weight: 1.0\nFinding weight: 1.0",
+      "priority": "medium",
+      "playbook": "P8",
+      "page": "sources/servicespace-awakin-chen.md",
+      "finding": "STRUCT_NO_STATS",
+      "score": 4.0,
+      "target_path": "/home/leedt/echo-system/content/sources/servicespace-awakin-chen.md"
+    },
+    {
+      "card_id": "echo-gen-2026-09-15-0010",
+      "title": "[MEDIUM] conbrio-board-bio: Add ## Archive Statistics or ## Content section",
+      "body": "## Task: [MEDIUM] conbrio-board-bio: Add ## Archive Statistics or ## Content section\n\n**Priority:** medium\n**Playbook:** P8\n**Page:** `sources/conbrio-board-bio.md`\n**Finding:** `STRUCT_NO_STATS`\n**Score:** 3.0 (inbound links: 3)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/sources/conbrio-board-bio.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-09-15 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Add ## Archive Statistics or ## Content section\n**Detail:** Add archive statistics (URL count, size, date) or content summary for this source page.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: STRUCT_NO_STATS\nPage type: sources\nType weight: 1.0\nFinding weight: 1.0",
+      "priority": "medium",
+      "playbook": "P8",
+      "page": "sources/conbrio-board-bio.md",
+      "finding": "STRUCT_NO_STATS",
+      "score": 3.0,
+      "target_path": "/home/leedt/echo-system/content/sources/conbrio-board-bio.md"
+    },
+    {
+      "card_id": "echo-gen-2026-09-15-0011",
+      "title": "[MEDIUM] patch-elcerrito-2011: Ensure the first paragraph mentions the page subject",
+      "body": "## Task: [MEDIUM] patch-elcerrito-2011: Ensure the first paragraph mentions the page subject\n\n**Priority:** medium\n**Playbook:** P8\n**Page:** `sources/patch-elcerrito-2011.md`\n**Finding:** `DESC_NO_TITLE_MENTION`\n**Score:** 3.0 (inbound links: 3)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/sources/patch-elcerrito-2011.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-09-15 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Ensure the first paragraph mentions the page subject\n**Detail:** The first paragraph should reference the person/organization this page is about.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: DESC_NO_TITLE_MENTION\nPage type: sources\nType weight: 1.0\nFinding weight: 1.0",
+      "priority": "medium",
+      "playbook": "P8",
+      "page": "sources/patch-elcerrito-2011.md",
+      "finding": "DESC_NO_TITLE_MENTION",
+      "score": 3.0,
+      "target_path": "/home/leedt/echo-system/content/sources/patch-elcerrito-2011.md"
+    },
+    {
+      "card_id": "echo-gen-2026-09-15-0012",
+      "title": "[MEDIUM] patch-elcerrito-2011: Add ## Archive Statistics or ## Content section",
+      "body": "## Task: [MEDIUM] patch-elcerrito-2011: Add ## Archive Statistics or ## Content section\n\n**Priority:** medium\n**Playbook:** P8\n**Page:** `sources/patch-elcerrito-2011.md`\n**Finding:** `STRUCT_NO_STATS`\n**Score:** 3.0 (inbound links: 3)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/sources/patch-elcerrito-2011.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-09-15 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Add ## Archive Statistics or ## Content section\n**Detail:** Add archive statistics (URL count, size, date) or content summary for this source page.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: STRUCT_NO_STATS\nPage type: sources\nType weight: 1.0\nFinding weight: 1.0",
+      "priority": "medium",
+      "playbook": "P8",
+      "page": "sources/patch-elcerrito-2011.md",
+      "finding": "STRUCT_NO_STATS",
+      "score": 3.0,
+      "target_path": "/home/leedt/echo-system/content/sources/patch-elcerrito-2011.md"
+    },
+    {
+      "card_id": "echo-gen-2026-09-15-0013",
+      "title": "[LOW] morenews-interview: Ensure the first paragraph mentions the page subject",
+      "body": "## Task: [LOW] morenews-interview: Ensure the first paragraph mentions the page subject\n\n**Priority:** low\n**Playbook:** P8\n**Page:** `sources/morenews-interview.md`\n**Finding:** `DESC_NO_TITLE_MENTION`\n**Score:** 2.0 (inbound links: 2)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/sources/morenews-interview.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-09-15 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Ensure the first paragraph mentions the page subject\n**Detail:** The first paragraph should reference the person/organization this page is about.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: DESC_NO_TITLE_MENTION\nPage type: sources\nType weight: 1.0\nFinding weight: 1.0",
+      "priority": "low",
+      "playbook": "P8",
+      "page": "sources/morenews-interview.md",
+      "finding": "DESC_NO_TITLE_MENTION",
+      "score": 2.0,
+      "target_path": "/home/leedt/echo-system/content/sources/morenews-interview.md"
+    },
+    {
+      "card_id": "echo-gen-2026-09-15-0014",
+      "title": "[LOW] morenews-interview: Add ## Archive Statistics or ## Content section",
+      "body": "## Task: [LOW] morenews-interview: Add ## Archive Statistics or ## Content section\n\n**Priority:** low\n**Playbook:** P8\n**Page:** `sources/morenews-interview.md`\n**Finding:** `STRUCT_NO_STATS`\n**Score:** 2.0 (inbound links: 2)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/sources/morenews-interview.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-09-15 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Add ## Archive Statistics or ## Content section\n**Detail:** Add archive statistics (URL count, size, date) or content summary for this source page.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: STRUCT_NO_STATS\nPage type: sources\nType weight: 1.0\nFinding weight: 1.0",
+      "priority": "low",
+      "playbook": "P8",
+      "page": "sources/morenews-interview.md",
+      "finding": "STRUCT_NO_STATS",
+      "score": 2.0,
+      "target_path": "/home/leedt/echo-system/content/sources/morenews-interview.md"
+    },
+    {
+      "card_id": "echo-gen-2026-09-15-0015",
+      "title": "[LOW] ntch-lib-recordings: Ensure the first paragraph mentions the page subject",
+      "body": "## Task: [LOW] ntch-lib-recordings: Ensure the first paragraph mentions the page subject\n\n**Priority:** low\n**Playbook:** P8\n**Page:** `sources/ntch-lib-recordings.md`\n**Finding:** `DESC_NO_TITLE_MENTION`\n**Score:** 2.0 (inbound links: 2)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/sources/ntch-lib-recordings.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-09-15 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Ensure the first paragraph mentions the page subject\n**Detail:** The first paragraph should reference the person/organization this page is about.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: DESC_NO_TITLE_MENTION\nPage type: sources\nType weight: 1.0\nFinding weight: 1.0",
+      "priority": "low",
+      "playbook": "P8",
+      "page": "sources/ntch-lib-recordings.md",
+      "finding": "DESC_NO_TITLE_MENTION",
+      "score": 2.0,
+      "target_path": "/home/leedt/echo-system/content/sources/ntch-lib-recordings.md"
+    },
+    {
+      "card_id": "echo-gen-2026-09-15-0016",
+      "title": "[LOW] ntch-lib-recordings: Add ## Archive Statistics or ## Content section",
+      "body": "## Task: [LOW] ntch-lib-recordings: Add ## Archive Statistics or ## Content section\n\n**Priority:** low\n**Playbook:** P8\n**Page:** `sources/ntch-lib-recordings.md`\n**Finding:** `STRUCT_NO_STATS`\n**Score:** 2.0 (inbound links: 2)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/sources/ntch-lib-recordings.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-09-15 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Add ## Archive Statistics or ## Content section\n**Detail:** Add archive statistics (URL count, size, date) or content summary for this source page.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: STRUCT_NO_STATS\nPage type: sources\nType weight: 1.0\nFinding weight: 1.0",
+      "priority": "low",
+      "playbook": "P8",
+      "page": "sources/ntch-lib-recordings.md",
+      "finding": "STRUCT_NO_STATS",
+      "score": 2.0,
+      "target_path": "/home/leedt/echo-system/content/sources/ntch-lib-recordings.md"
+    },
+    {
+      "card_id": "echo-gen-2026-09-15-0017",
+      "title": "[LOW] ntcpetv-ptsi-bio: Ensure the first paragraph mentions the page subject",
+      "body": "## Task: [LOW] ntcpetv-ptsi-bio: Ensure the first paragraph mentions the page subject\n\n**Priority:** low\n**Playbook:** P8\n**Page:** `sources/ntcpetv-ptsi-bio.md`\n**Finding:** `DESC_NO_TITLE_MENTION`\n**Score:** 2.0 (inbound links: 2)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/sources/ntcpetv-ptsi-bio.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-09-15 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Ensure the first paragraph mentions the page subject\n**Detail:** The first paragraph should reference the person/organization this page is about.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: DESC_NO_TITLE_MENTION\nPage type: sources\nType weight: 1.0\nFinding weight: 1.0",
+      "priority": "low",
+      "playbook": "P8",
+      "page": "sources/ntcpetv-ptsi-bio.md",
+      "finding": "DESC_NO_TITLE_MENTION",
+      "score": 2.0,
+      "target_path": "/home/leedt/echo-system/content/sources/ntcpetv-ptsi-bio.md"
+    },
+    {
+      "card_id": "echo-gen-2026-09-15-0018",
+      "title": "[LOW] ntcpetv-ptsi-bio: Add ## Archive Statistics or ## Content section",
+      "body": "## Task: [LOW] ntcpetv-ptsi-bio: Add ## Archive Statistics or ## Content section\n\n**Priority:** low\n**Playbook:** P8\n**Page:** `sources/ntcpetv-ptsi-bio.md`\n**Finding:** `STRUCT_NO_STATS`\n**Score:** 2.0 (inbound links: 2)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/sources/ntcpetv-ptsi-bio.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-09-15 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Add ## Archive Statistics or ## Content section\n**Detail:** Add archive statistics (URL count, size, date) or content summary for this source page.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: STRUCT_NO_STATS\nPage type: sources\nType weight: 1.0\nFinding weight: 1.0",
+      "priority": "low",
+      "playbook": "P8",
+      "page": "sources/ntcpetv-ptsi-bio.md",
+      "finding": "STRUCT_NO_STATS",
+      "score": 2.0,
+      "target_path": "/home/leedt/echo-system/content/sources/ntcpetv-ptsi-bio.md"
+    },
+    {
+      "card_id": "echo-gen-2026-09-15-0019",
+      "title": "[LOW] sc-taiwancenter-org-event-2026-membership: Ensure the first paragraph mentions the page subject",
+      "body": "## Task: [LOW] sc-taiwancenter-org-event-2026-membership: Ensure the first paragraph mentions the page subject\n\n**Priority:** low\n**Playbook:** P8\n**Page:** `events/sc-taiwancenter-org-event-2026-membership.md`\n**Finding:** `DESC_NO_TITLE_MENTION`\n**Score:** 0.0 (inbound links: 0)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/events/sc-taiwancenter-org-event-2026-membership.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-09-15 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Ensure the first paragraph mentions the page subject\n**Detail:** The first paragraph should reference the person/organization this page is about.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: DESC_NO_TITLE_MENTION\nPage type: events\nType weight: 1.0\nFinding weight: 1.0",
+      "priority": "low",
+      "playbook": "P8",
+      "page": "events/sc-taiwancenter-org-event-2026-membership.md",
+      "finding": "DESC_NO_TITLE_MENTION",
+      "score": 0.0,
+      "target_path": "/home/leedt/echo-system/content/events/sc-taiwancenter-org-event-2026-membership.md"
+    },
+    {
+      "card_id": "echo-gen-2026-09-15-0020",
+      "title": "[LOW] sc-taiwancenter-org-event-2026-membership: Add ## Related Pages section",
+      "body": "## Task: [LOW] sc-taiwancenter-org-event-2026-membership: Add ## Related Pages section\n\n**Priority:** low\n**Playbook:** P3\n**Page:** `events/sc-taiwancenter-org-event-2026-membership.md`\n**Finding:** `LINKS_NO_RELATED`\n**Score:** 0.0 (inbound links: 0)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/events/sc-taiwancenter-org-event-2026-membership.md\n3. Find broken wikilinks and repair or redirect\n4. Commit only (no publish)\n\n### Specific Fix\n**Action:** Add ## Related Pages section\n**Detail:** Add a Related Pages section with wikilinks to connected people, organizations, and sources.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: LINKS_NO_RELATED\nPage type: events\nType weight: 1.0\nFinding weight: 2.0",
+      "priority": "low",
+      "playbook": "P3",
+      "page": "events/sc-taiwancenter-org-event-2026-membership.md",
+      "finding": "LINKS_NO_RELATED",
+      "score": 0.0,
+      "target_path": "/home/leedt/echo-system/content/events/sc-taiwancenter-org-event-2026-membership.md"
+    }
+  ]
+}

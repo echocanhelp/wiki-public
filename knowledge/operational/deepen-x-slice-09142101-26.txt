@@ -1,0 +1,4 @@
+organizations/evergreen-class-by-irvine-taiwanese-presbyterian-church-laguna-hills-ca.md
+people/prof-chong-maw-chen.md
+people/ted-lieu.md
+people/szu-ning-tai.md

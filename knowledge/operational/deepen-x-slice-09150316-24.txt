@@ -1,0 +1,4 @@
+organizations/organization-for-the-support-of-democratic-movement-of-taiwan.md
+people/yuan-tseh-lee.md
+people/peggy-chen.md
+people/samuel-lin.md

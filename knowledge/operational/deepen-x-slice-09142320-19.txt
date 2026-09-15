@@ -1,0 +1,4 @@
+people/fei-mei-lee-chou.md
+people/prof-chin-pao-huang.md
+people/amanda-wu.md
+people/jessie-chang.md

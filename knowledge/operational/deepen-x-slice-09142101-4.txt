@@ -1,0 +1,4 @@
+people/shih-chieh-huang.md
+people/eileen-lo.md
+people/harmony-yang.md
+people/thomas-barclay.md

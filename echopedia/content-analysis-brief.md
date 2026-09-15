@@ -1,21 +1,29 @@
-## Echopedia Content Analysis — 2026-09-14
+## Echopedia Content Analysis — 2026-09-15
 - Standards v10
-- Pages scanned: **8** with findings
-- Auto-queued for remediation: **1** (score ≥ 3)
-- Wall time: 1.69s
+- Pages scanned: **46** with findings
+- Auto-queued for remediation: **7** (score ≥ 3)
+- Wall time: 2.04s
 
 ### Top 10 pages needing attention:
+- `sources/morenews-interview.md` score=4 ⚠️ DESC_NO_TITLE_MENTION — DESC_NO_TITLE_MENTION, LINKS_NO_RELATED, STRUCT_NO_STATS
+- `sources/ntch-lib-recordings.md` score=4 ⚠️ DESC_NO_TITLE_MENTION — DESC_NO_TITLE_MENTION, LINKS_NO_RELATED, STRUCT_NO_STATS
+- `sources/ntcpetv-ptsi-bio.md` score=4 ⚠️ DESC_NO_TITLE_MENTION — DESC_NO_TITLE_MENTION, LINKS_NO_RELATED, STRUCT_NO_STATS
+- `sources/patch-elcerrito-2011.md` score=4 ⚠️ DESC_NO_TITLE_MENTION — DESC_NO_TITLE_MENTION, LINKS_NO_RELATED, STRUCT_NO_STATS
+- `sources/servicespace-awakin-chen.md` score=4 ⚠️ DESC_NO_TITLE_MENTION — DESC_NO_TITLE_MENTION, LINKS_NO_RELATED, STRUCT_NO_STATS
 - `events/sc-taiwancenter-org-event-2026-membership.md` score=3 ⚠️ DESC_NO_TITLE_MENTION — DESC_NO_TITLE_MENTION, LINKS_NO_RELATED
-- `organizations/taiwan-hakka-association-for-public-affairs-in-north-america.md` score=2 — STRUCT_NO_HISTORY, READABILITY_LONG_SENTENCES_31wps
-- `people/albert-zh-sku-b-publisher-review.md` score=2 — LINKS_NO_RELATED, STRUCT_NO_RELATED
-- `events/sc-taiwancenter-org-event-2026tai-wan-xue-xiao.md` score=1 — LINKS_NO_RELATED
-- `events/sc-taiwancenter-org-event-da-luo-shan-ji-tai-mei-ren-chuan-tong-zhou.md` score=1 — LINKS_NO_RELATED
-- `events/sc-taiwancenter-org-event-tai-wan-zhang-hua-guang-xing-ge-zhang-zhong-ju-tuan-10.md` score=1 — LINKS_NO_RELATED
-- `people/wei-chin-lin.md` score=1 — READABILITY_MANY_LONG_SENTENCES_5
-- `people/yvonne-cheng.md` score=1 — READABILITY_MANY_LONG_SENTENCES_4
+- `sources/conbrio-board-bio.md` score=3 — LINKS_LOW_DENSITY, LINKS_NO_RELATED, STRUCT_NO_STATS
+- `organizations/golden-eagle-institute.md` score=2 — READABILITY_LONG_SENTENCES_38wps, READABILITY_MANY_LONG_SENTENCES_4
+- `organizations/taiwanese-american-association-mid-peninsula-taiwanese.md` score=2 — READABILITY_LONG_SENTENCES_30wps, READABILITY_MANY_LONG_SENTENCES_4
+- `organizations/taiwanese-american-senior-society-tass-of-greater-washington-dc.md` score=2 — READABILITY_LONG_SENTENCES_36wps, READABILITY_MANY_LONG_SENTENCES_4
 
 ### Auto-queued for P13 remediation:
 - `events/sc-taiwancenter-org-event-2026-membership.md` (medium) — DESC_NO_TITLE_MENTION, LINKS_NO_RELATED
+- `sources/conbrio-board-bio.md` (medium) — LINKS_LOW_DENSITY, LINKS_NO_RELATED, STRUCT_NO_STATS
+- `sources/morenews-interview.md` (medium) — DESC_NO_TITLE_MENTION, LINKS_NO_RELATED, STRUCT_NO_STATS
+- `sources/ntch-lib-recordings.md` (medium) — DESC_NO_TITLE_MENTION, LINKS_NO_RELATED, STRUCT_NO_STATS
+- `sources/ntcpetv-ptsi-bio.md` (medium) — DESC_NO_TITLE_MENTION, LINKS_NO_RELATED, STRUCT_NO_STATS
+- `sources/patch-elcerrito-2011.md` (medium) — DESC_NO_TITLE_MENTION, LINKS_NO_RELATED, STRUCT_NO_STATS
+- `sources/servicespace-awakin-chen.md` (medium) — DESC_NO_TITLE_MENTION, LINKS_NO_RELATED, STRUCT_NO_STATS
 
-- Log: `knowledge/operational/content-analysis/2026-09-14.jsonl`
+- Log: `knowledge/operational/content-analysis/2026-09-15.jsonl`
 - Queue: `echopedia/content-analysis-queue.json`

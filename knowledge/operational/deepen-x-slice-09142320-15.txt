@@ -1,0 +1,4 @@
+people/hui-ting-yang.md
+people/melvin-chen.md
+people/emily-muramoto.md
+organizations/organization-for-the-support-of-democratic-movement-of-taiwan.md
