@@ -51,6 +51,8 @@ _No filled family fields on the TAH profile._
 
 ## Corpus sweep 2026-09-14
 
+Slice 09141400-15 re-sweep: same result — grep across works/ and articles/ for 鄭希暉／Si-Fei Cheng returns only the two own-source TAH work records plus the works index; no memoir or peer-community material; SKIP (nothing absorbable, no conflicts).
+
 全庫 grep（鄭希暉／Si-Fei Cheng／Sifei Cheng）僅命中本頁兩份 TAH 出處頁 [[works/taiwaneseamericanhistory-org/whoswho1270||#1270]]、[[works/taiwaneseamericanhistory-org/musician361||#361]]（均為本人傳記之書目記錄，全文留 TAH）。vault 回忆語料無其他提及——音樂世家於美國樂壇之經歷，暂无同儕社群文獻可吸收；無新事實，無衝突需 HOLD。
 
 ## Sources

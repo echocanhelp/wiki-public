@@ -49,6 +49,8 @@ From 1972 Dr. Lee kept a private otolaryngology practice in Topeka, Kansas, beco
 
 ## Corpus sweep 2026-09-14
 
+Slice 09141400-15 re-sweep: same result — grep across works/ and articles/ for 李嵩斌／Song-Ping Lee returns only #2311 and #78 plus the works index; SKIP (nothing absorbable beyond the Recognition section above, no conflicts).
+
 全庫 grep（李嵩斌／Song-Ping Lee）僅命中本頁兩份 TAH 出處頁 [[works/taiwaneseamericanhistory-org/whos-who-2311-song-ping-lee||#2311]]、[[works/taiwaneseamericanhistory-org/award-78||#78]]（均為本人記錄，書目性質，無可另吸收之社群事蹟）；兩頁皆無全文回忆語料。已於上方 Recognition 段完整連結，無新增內容。
 
 ## Related Pages
