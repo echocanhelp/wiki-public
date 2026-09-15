@@ -43,5 +43,8 @@ _No filled family fields on the TAH profile._
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - [[organizations/taiwanese-american-students-association-at-johns-hopkins-university||TAASA at Johns Hopkins]] — her alma mater's Taiwanese student association
 
+## Role in the Community
+- Performed at a Formosan Chamber Music Society concert on 2002-10-25 (Jenny Lin, piano) — a Taiwanese community arts event preserved in the TAH corpus as [[works/taiwaneseamericanhistory-org/musical-concerts-159|TAH #159 Formosan Chamber Music Society / Jenny Lin Piano (10/25/2002)]]. This places her within the Formosan/Taiwanese-American musical community circuit in the early 2000s, alongside peers like Gwhyneth Chen and the Chiang twins documented in the same concert series.
+
 ## Vault Record Notes
-- TAH story records held in vault: [[works/taiwaneseamericanhistory-org/whoswho1089|TAH #1089 Jenny Lin 林佳靜 (2016/06)]], [[works/taiwaneseamericanhistory-org/musician16|TAH #16 Jenny Lin 林佳靜, Pianist (2014/10)]], [[works/taiwaneseamericanhistory-org/520-jenny-lin-e6-9e-97-e4-bd-b3-e9-9d-9c-201507|TAH #520 林佳靜 (2015/07)]]
+- TAH story records held in vault: [[works/taiwaneseamericanhistory-org/whoswho1089|TAH #1089 Jenny Lin 林佳靜 (2016/06)]], [[works/taiwaneseamericanhistory-org/musician16|TAH #16 Jenny Lin 林佳靜, Pianist (2014/10)]], [[works/taiwaneseamericanhistory-org/520-jenny-lin-e6-9e-97-e4-bd-b3-e9-9d-9c-201507|TAH #520 林佳靜 (2015/07)]], [[works/taiwaneseamericanhistory-org/musical-concerts-159|TAH #159 Formosan Chamber Music Society / Jenny Lin Piano (2002-10-25)]]
