@@ -49,6 +49,7 @@ _No filled family fields on the TAH profile._
 - His two TAH encyclopedia records are held in the vault, both published **2015-02-02** (value band B; bibliographic records only): [[works/taiwaneseamericanhistory-org/10231|TAH #250 Samuel Lin 林雲郎 (2015/02)]] and [[works/taiwaneseamericanhistory-org/136-samuel-lin-e6-9e-97-e9-9b-b2-e9-83-8e-artistic-director-conductor-201502|TAH #136 Samuel Lin 林雲郎, Artistic Director / Conductor (2015/02)]].
 - 洛華音樂基金會 (Lo-Wa Music Foundation, founded 1994) and the choirs he directed have no vault pages yet; not to be confused with [[organizations/lapc-music-foundation|LAPC Music Foundation]] (洛杉磯樂音音樂基金會, founded 2006) — a different Los Angeles-area Taiwanese music foundation, so no link is asserted.
 - （語料庫檢核 2026-09-14，slice 17：SKIP-with-reason）除上述兩則本人書目記錄外，語料庫唯一命中為 [[works/taiwaneseamerican-org/pew-research-center-taiwanese-american-statement|taiwaneseamerican-org 2021 年回應 Pew 報告連署名單]] 中的裸名「Samuel Lin」——名單無任何 identifiers（地點、頭銜、組織），無法歸屬本人，不主張連結；無可吸收之社群事實。
+- （複掃 2026-09-14，slice 20：SKIP）語料庫重掃結果不變——僅本人書目記錄與 works/index 列表命中，無新社群事實可吸收。
 
 ## Sources
 - [TAH #250 encyclopedia: 250. Samuel Lin 林雲郎 / 2015/02](https://taiwaneseamericanhistory.org/250/)

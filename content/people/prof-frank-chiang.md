@@ -69,3 +69,4 @@ last_reviewed: 2026-09-14
 ## Deepen pass (2026-09-14)
 - Asia Bank／New York（共同創辦人兼副總執行長 1984–1988）、The Taiwan Merchant Association of New York（會長 1980–1984）目前無 vault 頁面，僅保留文字事實。
 - 妻子 Quay-Yin（林貴英）無 vault 人物頁，未加連結。
+- （複掃 2026-09-14，slice 20：SKIP）語料庫（works/articles）除本人書目記錄與 index 列表外零命中，無社群一手材料可吸收。

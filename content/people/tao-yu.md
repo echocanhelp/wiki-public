@@ -67,3 +67,4 @@ Both are band-B bibliographic records; full text stays in the source archive.
 ## Deepen pass 2026-09-14 (SKIP-with-reason)
 
 - Corpus grep（works/ + articles/）僅命中本人自有之書目紀錄 #6、#677（已列於上方）與 works/index.md，無其他社群文獻提及；無可吸收之新社群事實，故本頁維持原狀。
+- 本 slice（deepen-x-slice-09141400-16）再掃：命中僅自有書目頁 #6、#677；維持 SKIP-with-reason，無新社群素材。

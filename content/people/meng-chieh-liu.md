@@ -66,3 +66,6 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+## Re-sweep（slice deepen-x-slice-09141400-16，2026-09-14）
+- 再掃 works/ + articles/：僅命中自有書目頁 #80、#103 與 [[works/taiwaneseamericanhistory-org/ourjourneys294|TUF 簡介]]（台灣名家演奏系列列名，已吸收於上方）；無新社群素材，本輪無新增事實。
