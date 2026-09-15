@@ -65,3 +65,5 @@ _No filled family fields on the TAH profile._
 
 - SKIP 確認（slice 09150500-24, 2026-09-15）：復檢 works/ + articles/，命中僅本人自有 TAH 書目頁與 index 目錄列項，無回憶錄/社群第一手材料可吸收；無新增連結。
 - SKIP 確認（slice 09150600-13, 2026-09-15）：第四次復檢（杜宛珊／Wan-Shan Du），命中集合不變——僅 #253、#522 自有書目頁與 works/index；維持 SKIP。
+
+- SKIP 確認（slice 09150700-11, 2026-09-15）：復檢 works/ + articles/，命中僅自有 TAH 書目頁與 index 列項，無回憶錄/社群第一手材料可吸收；無新增連結。

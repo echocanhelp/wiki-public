@@ -59,3 +59,5 @@ _No filled family fields on the TAH profile._
 - Corpus re-check (2026-09-15, deepen-x slice 09142320-7): grep of content/works + content/articles hits only these two own bibliographic pages and the works index — no memoir/community material absorbable. SKIP (no new facts).
 - Corpus grep re-check (2026-09-15, deepen-x slice 09150400-31): same result — only own bibliographic page(s) and the works index; no memoir/community material absorbable. SKIP (no new facts).
 - Corpus grep re-check (2026-09-15, deepen-x slice 09150600-13): same result — only own bibliographic pages and the works index; SKIP (no new facts).
+
+- SKIP 確認（slice 09150700-11, 2026-09-15）：復檢 works/ + articles/，命中僅自有 TAH 書目頁與 index 列項，無回憶錄/社群第一手材料可吸收；無新增連結。
