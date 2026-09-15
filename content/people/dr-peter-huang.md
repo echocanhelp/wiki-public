@@ -57,5 +57,12 @@ last_reviewed: 2026-09-14
 - **返臺服務 22 年榮退**：門諾醫院出版 [[works/taiwaneseamericanhistory-org/publications1057|TAH #1057「感恩 祝福 黃勝雄醫師返臺服務22年 榮退特輯」/2015-06]]——與本頁表列 1993–2015 院長任期（22 年、2015 離任）相互吻合，無衝突。
 - **白宮醫療諮詢顧問（1981）**：[[works/taiwaneseamericanhistory-org/9-consultant-of-the-medical-team-caring-for-u-s-president-dr-huang-peter|TAH #9]] 與既有連結 ff314 為同一事跡之兩份記錄頁。
 
+### Corpus re-sweep（slice 09141500-1，2026-09-14 新增）
+- **「醫師的醫師」同儕佐證**：黃哲陽台美人醫師群像 [[works/taiwaneseamericanhistory-org/ourjourneys291|TAH #291 台美人醫師 overview /2017-05（band A）]] 記載黃勝雄「腦神經外科很傑出，是醫師的醫師，也是白宮諮詢顧問，但在事業巔峰時又選擇回台擔任門諾醫院院長」——與親撰 #285 及 #9／ff314 相互印證。
+- **白宮顧問本人自述**：[[works/taiwaneseamericanhistory-org/mystories510|TAH #510「從醫師的醫師到白宮醫療諮詢顧問」/2017-02]]——同一事跡之自述版本。
+- **返台就任当年报道**：[[works/taiwaneseamericanhistory-org/8-e9-bb-83-e5-8b-9d-e9-9b-84-e8-bf-94-e5-8f-b0-e6-93-94-e4-bb-bb-e9-96-80-e8-ab-|TAH #8「黃勝雄返台擔任門諾醫院院長 1993」]]——與表列 1993 上任吻合，無衝突。
+- **成書回憶錄與中文版**：[[works/taiwaneseamericanhistory-org/publications1058|TAH #1058「回台灣買靈魂：門諾醫院．黃勝雄醫師回憶錄」/2016-10（自傳）]]；「我是回臺灣買靈魂的」中文版另有 [[works/taiwaneseamericanhistory-org/mystories234|TAH #234 中文版/2015-04]]（既有連結為中英對照版）。
+- **爾灣長老教會槍擊案目擊（2022-05）**：[[works/taiwaneseamericanhistory-org/our-journeys-380|TAH #380 Irvine台灣基督長老教會槍擊案（1死5傷）]] 記載時任門諾前院長、現為該會長老的黃勝雄與太太同在現場目擊全過程——其現居南加州並持續投入台美人長老教會社群之近期紀錄；corpus 僅稱「太太」未具名，與 Family 欄 Jeanne 無衝突。
+
 ## Community Context（deepen pass 2026-09-14）
 履歷（皆本頁既有事實，僅補連結）：1967 年臺北醫學院醫學士；後赴約翰霍普金斯大學取得醫療政策與衛生政策兩個碩士 —— 與當地台美人學生圈子相連：[[organizations/johns-hopkins-university-taiwanese-student-association||JHU Taiwanese Student Association]]。1984–1996 年任 Delaware Medical Center 神經外科主任（德拉瓦州台美人社團：[[organizations/taiwanese-association-of-america-delaware||TAA Delaware]]）；1993–2015 年任門諾醫院（Mennonite Christian Hospital，花蓮）院長，為台美人醫界投入鄉土的典範 —— 同類組織：[[organizations/north-american-taiwanese-medical-association-foundation||NAMTA Foundation]]。

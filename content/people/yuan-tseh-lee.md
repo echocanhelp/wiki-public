@@ -55,3 +55,8 @@ M.S., Radiochemistry Group
 - His TAH encyclopedia entry #24 records him as the first Nobel prize winner (Chemistry), dated 10/15/1986.
 - Vault work records: [[works/taiwaneseamericanhistory-org/whos-who-54-yuan-tseh-lee|TAH #54 Who's Who profile]] (2014-10-04) and [[works/taiwaneseamericanhistory-org/3-prof-yuan-tze-lee|TAH #3 Prof. Yuan-tze Lee 李遠哲教授]] (2018-07-31).
 - No further biography invented; verification still pending against the cited TAH pages.
+
+## Role in the Community (deepen pass 2026-09-14, corpus-sourced)
+- [[works/taiwaneseamericanhistory-org/milestones31|TAH milestone #31]] records 1986-10-15: Nobel Prize in Chemistry, "The First T.A. received this award" — the corpus's anchor entry for the "Pride of Taiwanese American" theme. This corroborates the truncated 10/15/198 date on the cited TAH #24 encyclopedia entry.
+- Three 2015 TAH story-series essays document his standing in the 台美人 community: [[works/taiwaneseamericanhistory-org/mystories240|TAH #240 台美人顧台灣 21：李遠哲旋風/林俊義 (2015-05)]] · [[works/taiwaneseamericanhistory-org/mystories253|TAH #253 台美人顧台灣 24：打造台灣新故鄉/李遠哲 (2015-05)]] · [[works/taiwaneseamericanhistory-org/248-e5-8f-b0-e7-be-8e-e4-ba-ba-e7-9a-84-e6-a6-ae-e8-80-80-ef-bc-88pride-of-taiwa|TAH #248 台美人的榮耀 10：親炙典範～談我所接觸到的李遠哲院長/蔣理容 (2015-05)]].
+- HOLD: name romanization conflict across corpus records — Yuan-Tseh (TAH #54, Who's Who) vs Yuan-tze (TAH #3) vs Yan tze (TAH #24); never auto-merged.

@@ -54,3 +54,8 @@ Accomplishment
 ## Vault Network（deepen pass 2026-09-14）
 - 本人回憶錄（美台求學及經濟研究 43 年）：[[works/taiwaneseamericanhistory-org/mystories575||575. 洪德生教授美台求學及經濟研究43年之經驗 / 09/2017]]。
 - 家庭欄佐證：[[works/taiwaneseamericanhistory-org/11-e6-b4-aa-e5-be-b7-e7-94-9f-e3-80-81-e6-a2-81-e4-bf-a1-e6-83-a0-e5-a4-ab-e5-a9||11. 洪德生、梁信惠 夫婦返台服務]] — 妻 梁信惠 見於兩處記錄。
+
+## Role in the Community（deepen pass 2026-09-14）
+
+- 明州台美人社區大事記記錄：11 月洪德生在明州演講《台灣環保》。該條目位於曾啟明「明州台美人百年大事」1990 年區塊附近，確切年份未明示：HOLD: 年份 1990 前後待核。見 [[works/taiwaneseamericanhistory-org/ourjourneys123||123. 明州台美人百年大事 / 曾啟明 / 2015/03]]。
+- 同一大事記另載「洪德生出任台灣經濟研究院院長」，與 Employment 欄（TIER 院長 2006-2015）相互佐證：[[works/taiwaneseamericanhistory-org/ourjourneys123||123. 明州台美人百年大事]]。

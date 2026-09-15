@@ -54,6 +54,12 @@ HOLD: 自傳 #151 全文在 TAH（value band B，vault 僅書目紀錄），轉�
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
+## Deepen-x 2026-09-14 (slice 09141500-1)
+Corpus re-sweep of `content/works` + `content/articles` for 鄭翼宗 / Y. C. Cheng:
+- **到美時間第二份記錄**：謝娥追述文另有 2022-07-26 版 [[articles/taiwanjustice-net/2022/20220815035652_2022_07_26_台灣第一位外科女醫生謝娥-1949年離台移民美國有_9388a12b28bea71e|台灣正義網 2022 版]]，與既有 2025 版同載「鄭翼宗前輩1949年11月初到美國留學……比謝娥早一個月到美國」——Timeline 的 1949/11（初）一節現有两份 vault 記錄相互印證；該文另註謝娥先行赴歐「遊學」，可能實際離台更早，故「誰為台灣人留美第一」兩文皆持保留態度，本頁不强行排序。
+- **pew 記錄為同名誤配**：grep 命中 [[works/taiwaneseamerican-org/pew-research-center-taiwanese-american-statement|Pew 台美人聲明連署名單]]，但該處為「Alan Y.C. Cheng」連署人，非鄭翼宗本人 —— 不收錄、不連結為本人事跡。
+- #285、#151、#1853 三筆既有連結之內容覆核無新事實（自傳全文仍在 band B 之外），HOLD 維持。
+
 ## Deepen pass (2026-09-14, vault-only)
 Absorbed solely from this page's own tah-tables and biography (TAH #1853); no new biography invented.
 
