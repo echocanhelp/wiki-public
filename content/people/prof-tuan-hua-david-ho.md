@@ -54,3 +54,4 @@ _No filled family fields on the TAH profile._
 ## Deepen-x re-check (slice 09141300-30, 2026-09-14; re-verified slice 09142320-8, 2026-09-15)
 - SKIP-with-reason: corpus grep (works/articles, 賀端華/Tuan-Hua) hits only [[works/taiwaneseamericanhistory-org/whos-who-1794-tuan-hua-ho||TAH #1794]] (band-B bibliographic record, already linked) plus the works index — no memoir material beyond the career path already absorbed in the Deepen 2026-09-14 section.
 - 再核（deepen-x slice-28，2026-09-15）：命中集不變（僅 #1794 存檔頁 + works/index），維持 SKIP-with-reason。
+- 再核（deepen-x slice 09150600-19, 2026-09-15）：命中集不變（僅 #1794 書目頁 + works/index），維持 SKIP-with-reason。

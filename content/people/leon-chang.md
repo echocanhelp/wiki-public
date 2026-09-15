@@ -38,6 +38,8 @@ Our memoirs record Chang as a core figure of the Bay Area Taiwanese Christian an
 - 1978: one of seven commissioners of the Joint Committee of Taiwanese American for 1980 U.S. Census (with 張富美, 張瑞雄, 黃介山, 黃景生, 陳隆, 謝鐐暲), the campaign that urged Taiwanese to write in "Taiwanese American" on the 1980 census — a landmark in Taiwanese American identity formation.
 - Corpus: [[works/taiwaneseamericanhistory-org/our-journeys-350|Our Journeys 350]] (張瑞雄牧師 memoir), [[works/taiwaneseamericanhistory-org/ourjourneys37|Our Journeys 37]], [[works/taiwaneseamericanhistory-org/ourjourneys38|Our Journeys 38]], [[works/taiwaneseamericanhistory-org/ourjourneys106|Our Journeys 106]], and his own entry [[works/taiwaneseamericanhistory-org/whos-who-2304-leon-chang|TAH #2304]].
 
+- Corpus re-verified（deepen-x slice 09150600-18, 2026-09-15）：grep 命中集＝已連結之 [[works/taiwaneseamericanhistory-org/our-journeys-350|Our Journeys 350]]、[[works/taiwaneseamericanhistory-org/my-stories-779|779. 憶張村樑長老]]、Our Journeys 37/38/106 與本人 TAH #2304 記錄；回憶錄材料全數已吸收於上，無新增事實。
+
 ## Family
 
 - **Wife:** Jane (楊鸞鳳)
@@ -49,8 +51,6 @@ Our memoirs record Chang as a core figure of the Bay Area Taiwanese Christian an
 ## Sources
 - [TAH #2304 encyclopedia: 2304. Leon Chang 張村樑](https://taiwaneseamericanhistory.org/whos-who-2304-leon-chang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/leon-chang/)
-
-- Corpus re-verified（deepen-x slice 09150600-18, 2026-09-15）：grep 命中集＝已連結之 [[works/taiwaneseamericanhistory-org/our-journeys-350|Our Journeys 350]]、[[works/taiwaneseamericanhistory-org/my-stories-779|779. 憶張村樑長老]]、Our Journeys 37/38/106 與本人 TAH #2304 記錄；回憶錄材料全數已吸收於 Role in the Community，無新增事實。
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

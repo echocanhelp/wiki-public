@@ -45,6 +45,7 @@ last_reviewed: 2026-09-15
 - 同文「為了寫這一篇文章」名單中作「黃瑞鳳（許登龍）」，显示其與許登龍家族之連結（隨夫姓稱呼，未自動併入姓名欄）
 - 以上為本會回憶錄所載社區組織角色，與上方 TAH 傳記（合唱/指揮生涯）互補不衝突
 - Corpus re-verified（deepen-x slice 09150500-29, 2026-09-15）：grep 命中集＝本人 TAH #409／#1710 記錄與 Our Journeys #268，全數已吸收於上；無新增社群事實。
+- Corpus re-verified（deepen-x slice 09150600-19, 2026-09-15）：命中集不變——本人 TAH #409／#1710、Our Journeys #268、works/index；社群事跡已全數吸收於上，無新增素材。
 
 ## Sources
 - [TAH #409 encyclopedia: 409. R. F. Huang許黃瑞鳳, conductor / 07/2017](https://taiwaneseamericanhistory.org/musician409/)

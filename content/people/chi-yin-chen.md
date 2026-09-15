@@ -57,3 +57,4 @@ _No filled family fields on the TAH profile._
 
 ## Deepen-x re-check (slices 09141300-30, 09142320-6, 09150400-29, 09150500-20; 2026-09-14/15)
 - SKIP-with-reason: repeated corpus greps (works/articles) hit set unchanged — only the two band-B bibliographic records already linked above（[[works/taiwaneseamericanhistory-org/225-chi-yin-chen-violinist-201506||TAH #225]]、[[works/taiwaneseamericanhistory-org/465-chi-yin-chen-201506||TAH #465]]）plus the works index; no memoir/community material to absorb beyond the Who's Who tables already on this page.
+- 再核（deepen-x slice 09150600-19, 2026-09-15）：命中集不變（僅 #225／#465 書目頁 + works/index），維持 SKIP-with-reason。
