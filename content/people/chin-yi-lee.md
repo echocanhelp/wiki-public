@@ -53,6 +53,7 @@ _No filled family fields on the TAH profile._
 - corpus sweep 2026-09-14：works/、articles/ 全庫僅 works/index.md 書目索引命中本人兩條既有一手記錄頁，無本人著述、紀念文或活動報導等可吸收之社群材料——社群章節 SKIP-with-reason。
 - deepen-x 09142319-31（2026-09-15 覆核）：檢索僅命中自身 TAH 出處頁 #25、#1092 與 works index 條目行，無社群一手材料 — 維持 **SKIP**。
 - deepen-x 09150400-27（2026-09-15 二次覆核）：命中集合不變（#25、#1092、works index），無新材料 — 維持 **SKIP**。
+- deepen-x 09150500-21（2026-09-15 三次覆核）：grep（李琹怡／Chin-Yi Lee，works+articles）命中集合不變——僅本人書目頁 #25、#1092 與 works index，無社群一手材料 — 維持 **SKIP**。
 
 ## Sources
 - [TAH #1092 encyclopedia: 1092. Chin-Yi Lee 李琹怡 / 2016/06](https://taiwaneseamericanhistory.org/whoswho1092/)
