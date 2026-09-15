@@ -60,5 +60,8 @@ _No filled family fields on the TAH profile._
 - 語料庫另有兩筆本人後期 Who's Who 記錄（書目級，無內文）：[[works/taiwaneseamericanhistory-org/whoswho1173|TAH #1173（2016-07-23 刊）]]、[[works/taiwaneseamericanhistory-org/whoswho1587|TAH #1587（2017-03-26 刊）]]，已併入 Timeline。
 - 同語料庫 TAH 鋼琴家參照：[[people/joel-fan|Joel Fan 范景德]]、[[people/tah-p-850ffab5db|周政忠 Jonathan Jou]]、[[people/meng-chieh-liu|Meng-Chieh Liu 劉孟捷]]。
 
+## corpus sweep 2026-09-15（slice 28）
+- SKIP：第四次重掃（林易／Steven Lin over works+articles）結果不變——本人書目頁 4 筆（#291、#575、#1173、#1587，均已連結）之外，文章命中全屬時代力量**林易瑩**（同名誤配，另一人）。無可吸收社群事實。
+
 ## corpus sweep 2026-09-15（slice 29）
 - SKIP：再 grep works/articles 僅命中本人書目頁（TAH #1173、#1587，已併入 Timeline）與索引頁；文章命中皆為同名誤配——時代力量台南黨部組織部主任**林易瑩**為另一人，非本頁鋼琴家。無新增可吸收事實。

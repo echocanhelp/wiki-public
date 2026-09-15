@@ -58,6 +58,9 @@ _No filled family fields on the TAH profile._
 - [[works/taiwaneseamericanhistory-org/556-amanda-shumin-yang-e6-96-b9-e6-9b-b8-e6-95-8f-201508||TAH #556: 方書敏]]
 - [[works/taiwaneseamericanhistory-org/556-amanda-shumin-yang-e6-96-b9-e6-9b-b8-e6-95-8f-violinist-201508||TAH #281: 方書敏, Violinist]]
 
+## Deepen-x re-check (2026-09-15, slice 09150316-28)
+- 重掃（方書敏／Amanda Shumin Yang over content/works + content/articles）命中仍僅自家書目頁 [[works/taiwaneseamericanhistory-org/556-amanda-shumin-yang-e6-96-b9-e6-9b-b8-e6-95-8f-201508|TAH #556]] 與同名 Violinist 版本頁；無回憶錄敘述可吸收，維持 **SKIP**。
+
 ## Vault re-check (2026-09-14, vault-only)
 - 出處頁發布日期（vault records）：556 系條目頁發布於 2015-08-29；同一檔案另有 Violinist 版本（來源清單標為 #281，vault 檔名沿用 556 slug，兩者為同源異題）。
 - 語料庫入口：[[sources/taiwaneseamericanhistory-org-story-corpus||TAH story corpus]]。

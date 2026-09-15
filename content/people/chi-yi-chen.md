@@ -60,3 +60,4 @@ _No filled family fields on the TAH profile._
 - [[organizations/presbyterian-church-in-taiwan||PCT]] — TAH Who’s Who
 ## Deepen-x 2026-09-15 (slice 09142319-30)
 - SKIP-with-reason: corpus re-grep（陳志宐／Chi Yi Chen）hits only own records [[works/taiwaneseamericanhistory-org/whoswho1704|TAH #1704]]、[[works/taiwaneseamericanhistory-org/musician406|TAH #406]]（書目記錄）— no memoir/community material absorbable.
+- SKIP re-check（deepen-x slice 09150316-29, 2026-09-15）：全語料 grep（陳志宐／Chi Yi Chen）命中僅本人書目頁 #1704／#406 與 works index——維持 **SKIP**，無可吸收社群事實。

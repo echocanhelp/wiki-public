@@ -67,5 +67,8 @@ Her TAH encyclopedia records are held in the vault as community historical recor
 ## Deepen pass (2026-09-14, slice 09141500-12)
 - **SKIP-with-reason (corpus re-scan):** grep -E `Gloria Chuang|莊邑文` over `content/works` + `content/articles` again returns only her own bibliography pages [[works/taiwaneseamericanhistory-org/musician384|TAH #384]]／[[works/taiwaneseamericanhistory-org/whoswho1508|TAH #1508]]（已連結於 Vault Holdings）。Still no memoir/community-record mentions — nothing absorbable.
 
+## Deepen pass (2026-09-15, slice 09150316-28)
+- **SKIP-with-reason（第四次語料庫重掃）：** `莊邑文|Gloria Chuang` 重掃 works+articles，命中仍僅 [[works/taiwaneseamericanhistory-org/musician384|TAH #384]]、[[works/taiwaneseamericanhistory-org/whoswho1508|TAH #1508]] 兩頁自家書目記錄；無回憶錄/社群第一手材料，維持 SKIP。
+
 ## Deepen pass (2026-09-15, slice 09142319-32)
 - **SKIP-with-reason（第三次語料庫重掃）：** `Gloria Chuang|莊邑文` 於 content/works、content/articles 命中仍僅本人書目頁 [[works/taiwaneseamericanhistory-org/musician384|TAH #384]]、[[works/taiwaneseamericanhistory-org/whoswho1508|TAH #1508]] 及 works/index 條目行；無回憶錄或社群第一手材料可吸收。

@@ -59,3 +59,4 @@ Her two vault records are [[works/taiwaneseamericanhistory-org/musician421|TAH #
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - 2026-09-15 slice 09142319-27 複掃：命中僅本頁書目記錄 #421／#1813（皆已連結）；回憶錄/社群文獻無提及——**SKIP（無可吸收之新增社群事實）**。
+- 2026-09-15 slice 09150316-29 覆核：全語料 grep（張倪綺／Ni-Chi Chang）命中僅本人書目頁 #421／#1813（皆已連結）與 works index——維持 **SKIP**，無可吸收社群事實。
