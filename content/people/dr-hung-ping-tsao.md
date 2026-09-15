@@ -53,4 +53,4 @@ Tsao is a recurring author in the TAH publications corpus — an applied-mathema
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
-- 語料庫再扫描（2026-09-15，slice 09150600-28）：命中集合與上列完全一致（本人 5 部著作書目頁 + Who's Who #197），無他人回憶錄提及曹恆平；無新可吸收事實。
+- 語料庫再扫描（2026-09-15，slices 09150600-28 / 09150700-21）：命中集合與上列完全一致（本人 5 部著作書目頁 + Who's Who #197），無他人回憶錄提及曹恆平；無新可吸收事實。

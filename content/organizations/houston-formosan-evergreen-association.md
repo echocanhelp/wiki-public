@@ -28,6 +28,9 @@ The association's own anniversary special issues are held in the corpus as commu
 - [[works/taiwaneseamericanhistory-org/935-e4-bc-91-e5-a3-ab-e9-a0-93-e5-8f-b0-e7-81-a3-e9-95-b7-e6-98-a5-e6-9c-8325-e9|935. 休士頓台灣長春會 25 週年特刊 (2006)]]
 - [[works/taiwaneseamericanhistory-org/936-e4-bc-91-e5-a3-ab-e9-a0-93-e5-8f-b0-e7-81-a3-e9-95-b7-e6-98-a5-e6-9c-8330-e9|936. 休士頓台灣長春會 30 週年特刊 (2011)]]
 
+## Corpus Re-check (slice 19, 2026-09-15)
+- Re-grep of `content/works` + `content/articles` for 休士頓台灣長春會 / Formosan Evergreen returns only the association's own directory entry (#2), its anniversary issues #934/#935/#936, and [[works/taiwaneseamericanhistory-org/ourjourneys233-eng|Our Journeys #233]] — all already absorbed above (1992 TCC co-governance seat via Shou-chang Ou; anniversary special issues as published record). No new absorbable material; no conflicts to HOLD.
+
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/houston-formosan-evergreen-association/)
 

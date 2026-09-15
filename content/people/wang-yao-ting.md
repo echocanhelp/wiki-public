@@ -52,6 +52,7 @@ Pages that link to **wang-yao-ting** (wang-yao-ting):
 - 語料庫再扫描（2026-09-14）：除 #1133 外無其他可吸收語料；無衝突資料需 HOLD。
 - 語料庫再檢（2026-09-15）：命中僅 #1133 自身條目及 works/index 目錄行（相鄰條目王燕山為另一人，勿混淆）。無新增可吸收語料。
 - 語料庫再檢 slice 22（2026-09-15）：命中集合不變（#1133 + works/index）。維持 SKIP，無衝突需 HOLD。
+- 語料庫再檢 slice 19（2026-09-15）：命中集合不變（#1133 + works/index）。無新增可吸收語料，無衝突需 HOLD。
 
 ## Source Notes and Confidence
 
