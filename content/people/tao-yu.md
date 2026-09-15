@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-14
+last_reviewed: 2026-09-15
 ---
 # Tao Yu (余道昌)
 
@@ -68,3 +68,7 @@ Both are band-B bibliographic records; full text stays in the source archive.
 
 - Corpus grep（works/ + articles/）僅命中本人自有之書目紀錄 #6、#677（已列於上方）與 works/index.md，無其他社群文獻提及；無可吸收之新社群事實，故本頁維持原狀。
 - 本 slice（deepen-x-slice-09141400-16）再掃：命中僅自有書目頁 #6、#677；維持 SKIP-with-reason，無新社群素材。
+
+## Deepen pass 2026-09-15（slice deepen-x-09142319-24，SKIP-with-reason）
+
+- 本 slice 再掃（works/ + articles/）：命中僅自有書目頁 #6、#677 與 works/index.md，無新社群素材，維持 SKIP-with-reason。

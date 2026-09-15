@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-14
+last_reviewed: 2026-09-15
 ---
 # Ray Chen (陳銳)
 
@@ -73,3 +73,7 @@ _No filled family fields on the TAH profile._
 
 ## Deepen pass 2026-09-14（re-sweep）
 - SKIP-with-reason: 全語料庫重掃僅命中其本人 TAH #244／#247／#505 傳記條目（均已連結），無其他 memoir／會刊提及，無可吸收之新增社群事實。
+
+## Deepen pass 2026-09-15（slice deepen-x-09142319-24，SKIP-with-reason）
+
+- 全語料庫重掃（works/ + articles/）：命中僅本人自有 TAH #244／#247／#505 傳記條目（均已連結）與 works/index.md，無其他 memoir／會刊提及，無可吸收之新增社群事實。

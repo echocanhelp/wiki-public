@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-14
+last_reviewed: 2026-09-15
 ---
 # Prof. Shirley Cheng Tsai (鄭秀蘭教授)
 
@@ -67,3 +67,7 @@ Prof. Shirley Cheng Tsai 鄭秀蘭教授 – History of Taiwanese American (T.A.
 - **Corpus author:** she contributed her own memoir essay 「追求夢想的幸福女兒」 (published 2015-04-13) to the 台美史料中心 story corpus — vault record [[works/taiwaneseamericanhistory-org/227-e8-bf-bd-e6-b1-82-e5-a4-a2-e6-83-b3-e7-9a-84-e5-b9-b8-e7-a6-8f-e5-a5-b3-e5-8||TAH #227]]. This makes her a first-person source for the Taiwanese American scientific-generational record (NTU Chem. Eng. 1963 → Caltech Ph.D. 1969 → industry → CSULB). Vault copy of #227 is a bibliographic record only (full text stays at the live site), so no narrative facts could be absorbed from it.
 - **Possible TASC link (HOLD):** the TaiwaneseAmerican.org interview [[works/taiwaneseamerican-org/taiwan-america-student-conference|Building Bridges: An Interview with Organizers of the Taiwan-America Student Conference]] names "Shirley Cheng" among the TASC Executive Committee members. HOLD: context (a student-organized conference, c. 2017, team recruited via a NTHU professor's network) suggests this may be a different, younger Shirley Cheng; identity not auto-merged pending confirmation.
 - No other memoir mentions of her in works/ or articles/; her encyclopedia records remain TAH #45 / #369.
+
+## Deepen pass 2026-09-15（slice deepen-x-09142319-24，SKIP-with-reason）
+
+- 全語料庫重掃（works/ + articles/）：命中僅自有條目 #45、#369、本人投稿 memoir 之書目紀錄 #227（均已連結）、works/index.md，及 TASC 訪談中「Shirley Cheng」一處（已列 HOLD，疑為另一人，不逕行歸併）。無可吸收之新增社群事實。

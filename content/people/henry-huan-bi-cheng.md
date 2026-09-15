@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-14
+last_reviewed: 2026-09-15
 ---
 # Henry Huan Bi Cheng (鄭煥璧)
 
@@ -56,3 +56,7 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+## Deepen pass 2026-09-15（slice deepen-x-09142319-24，SKIP-with-reason）
+
+- 全語料庫重掃（works/ + articles/）：命中僅本人自有書目頁 #175、#391、#604（均已連結）與 works/index.md；taiwanjustice 2024-06-13 之「Henry Cheng」仍為 85°C USA 同名不同人。無新增回忆錄記述可吸收。
