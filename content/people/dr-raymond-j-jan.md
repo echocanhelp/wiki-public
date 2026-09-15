@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-14
 ---
 # Dr. Raymond J. Jan (詹正治博士)
 
@@ -36,6 +36,9 @@ Accomplishment
 - **Wife:** Tricia
 - **Daughter:** Connie Jan Chuan, Tiffany Jan Kennedy
 
+
+## Role in the Community
+Jan's movement service is recorded in the TAH encyclopedia corpus: his account [[works/taiwaneseamericanhistory-org/whos-who-2284-raymond-j-jan|2284. Dr. Raymond J. Jan 詹正治博士]] was published 2020-09-08. In the community record he is a Dallas-based movement figure — President of the TAA Dallas Chapter (達拉斯台灣同鄉會會長, 2012) and Commissioner of the Overseas Community Affairs Council (僑務委員, 2018–2021) — bridging an engineering career (AMAX/Westinghouse, Mobil, ExxonMobil process engineering) with organized Taiwanese American community leadership in Texas.
 
 ## Sources
 - [TAH #2284 encyclopedia: 2284. Dr. Raymond J. Jan 詹正治博士](https://taiwaneseamericanhistory.org/whos-who-2284-raymond-j-jan/)

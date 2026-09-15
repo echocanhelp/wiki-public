@@ -60,3 +60,6 @@ Absorbed from the profile text and cited TAH encyclopedia entries:
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - [[works/taiwaneseamericanhistory-org/330-yali-chen-e9-99-b3-e9-9b-85-e8-8e-89-oboist-conductor-201602||TAH #330: Yali Chen, Oboist & Conductor]]
 - [[works/taiwaneseamericanhistory-org/843-yali-chen-e9-99-b3-e9-9b-85-e8-8e-89-201602||TAH #843: Yali Chen]]
+
+## Corpus re-check (deepen-x slice 09142101-7, 2026-09-14)
+- SKIP-with-reason: corpus grep (陳雅莉 / Yali Chen across works + articles) returns only her own two TAH records (#330, #843) and the works index — no memoir/community mentions elsewhere in the corpus. Consistent with the earlier same-day vault re-check on this page; no new absorbable facts, no conflicts to HOLD.
