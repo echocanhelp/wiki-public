@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-14
 ---
 # Dr. Ching-Hsing Liao (廖進興博士)
 
@@ -35,6 +35,12 @@ Dr. Ching-Hsing Liao 廖進興博士 – History of Taiwanese American (T.A. Arc
 - **Wife:** Anna (智惠)
 - **Son:** Mickey
 
+
+
+## Role in the Community
+- Movement translator and collaborator of independence veteran Lu Ih-chu (盧主義, pen name 李天福): Liao translated Lu's English commentary "The Formosans do Know What They Want" (published in *The New Republic* after the debate with KMT envoy 朱撫松) into Chinese as「評析五十年代國民黨殖民統治」, later collected in《自由的呼喚》(前衛社, 2000). Recounted in Lu's band-A memoir: [[works/taiwaneseamericanhistory-org/ourjourneys126|126. 台獨聯盟UFI / 盧主義 / 2015-04]].
+- Community leadership (TAH profile): General Convener (2004) and Chairman (2009) of the Taiwanese American Conference / East Coast (美東台灣人夏令會).
+- Encyclopedia record: [[works/taiwaneseamericanhistory-org/whos-who-1819-ching-hsing-liao|1819. Dr. Ching-Hsing Liao 廖進興博士]].
 
 ## Sources
 - [TAH #1819 encyclopedia: 1819. Dr. Ching-Hsing Liao 廖進興博士](https://taiwaneseamericanhistory.org/whos-who-1819-ching-hsing-liao/)

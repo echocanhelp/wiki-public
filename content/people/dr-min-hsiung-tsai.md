@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-14
 ---
 # Dr. Min Hsiung Tsai (蔡敏雄博士)
 
@@ -31,6 +31,9 @@ Accomplishment
 ## Employment
 - Unitek Co. — Matech Inc. — Founder — (1980-) — Community — Taiwanese Association of Northwest Los Angeles Chapter (洛杉磯西北區台灣同鄉會) — President — Taiwanese American Historical Society (美國台灣文化協會) — Director and Vice President — TACCLA (洛杉磯台美商會) — Director
 <!-- tah-tables:end -->
+
+## Role in the Community
+- Community leadership recorded in the corpus: President of the Taiwanese Association of Northwest Los Angeles Chapter (洛杉磯西北區台灣同鄉會), Director and Vice President of the Taiwanese American Historical Society (美國台灣文化協會), and Director of TACCLA (洛杉磯台美商會) — per his own TAH encyclopedia entry ([[works/taiwaneseamericanhistory-org/whos-who-1915-min-hsiung-tsai|TAH #1915]]).
 
 ## Family
 

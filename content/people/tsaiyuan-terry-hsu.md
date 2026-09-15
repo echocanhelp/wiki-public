@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-14
 ---
 # Tsaiyuan Terry Hsu (許財源)
 
@@ -30,6 +30,11 @@ last_reviewed: 2026-08-17
 ## Employment
 - 電腦公司, 國防軍用機密電腦高科技--Control Data Company for high security US Defense and Military Computer High Technology --Computer Architectures
 <!-- tah-tables:end -->
+
+## Role in the Community
+- His legacy entered the movement record through his widow: his wife 廖明惠 authored his story for the TAH encyclopedia — [[works/taiwaneseamericanhistory-org/mystories644|TAH #644, 許財源—美國國防部軍事機密中的匿名英雄 (08/2018)]] — portraying him as an anonymous hero inside US Defense military-classified computer work at Control Data.
+- The couple jointly donated an archival collection to the archive: [[works/taiwaneseamericanhistory-org/collection-of-dr-tsaiyuan-terry-and-emily-hsu|TAH #68, Collection of Dr. Tsaiyuan (Terry) and Mrs. Emily Hsu 許財源博士和廖明惠夫婦的收藏]].
+- Who's Who entry: [[works/taiwaneseamericanhistory-org/whos-tsaiyuan-terry-hsu|TAH #1507 (02/2017)]].
 
 ## Family
 

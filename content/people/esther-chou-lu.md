@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-14
 ---
 # Esther Chou Lu (周慧香)
 
@@ -33,6 +33,10 @@ last_reviewed: 2026-08-17
 - 知音合唱團 — conductor
 - 風鈴Singer — 1991- — 音樂指導及鋼琴伴奏
 <!-- tah-tables:end -->
+
+## Role in the Community
+- Recorded twice in the TAH Foundation encyclopedia in July 2017: as a pianist/conductor story ([[works/taiwaneseamericanhistory-org/musician411|TAH #411, 07/2017]]) and as a Who's Who entry ([[works/taiwaneseamericanhistory-org/whoswho1731|TAH #1731, 07/2017]]).
+- Corpus records confirm the press-kit biography (piano studies at TNUA and UGA, teaching piano in Pennsylvania) but add no new community activity beyond the encyclopedia entries themselves.
 
 ## Family
 
