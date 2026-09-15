@@ -58,6 +58,7 @@ Peer members listed in the same L1 block, useful for disambiguating LINE display
 - **2026-08** — Listed on TAHS LINE L1 roster as Kevin Lee (ZH pending).
 - **2026-09** — Roster entry re-reviewed; identity remains LINE-membership-only, no biography asserted.
 - **2026-09-15** — deepen-x slice 09142320-1 re-grep (content/works + content/articles): the sole "Kevin Lee" hit remains [[works/taiwaneseamerican-org/apa-artists-on-overcoming-racism-stereotypes|APA Artists interview page]] (2009 TAF Summer Conference counselor). Still SKIP-with-reason — no hanzi linkage; English-name-only merge barred by roster policy.
+- **2026-09-15** — deepen-x slice 09150316-31 re-grep: hit set unchanged (single APA Artists interview hit); context check confirms it credits "Junior High Program counselors Kevin Lee, Justin Yang and Ann Wu" at the 2009 TAF Summer Conference with no linkage to this LINE member. Maintains **SKIP** pending owner hanzi confirmation.
 
 ## Corpus scan (2026-09-14, slice 31)
 
