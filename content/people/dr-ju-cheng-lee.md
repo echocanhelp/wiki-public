@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-14
+last_reviewed: 2026-09-15
 ---
 # Dr. Ju-Cheng Lee (李汝城醫師)
 
@@ -51,6 +51,7 @@ last_reviewed: 2026-09-14
 - NATMA 紐約分會首波整合期：原有「台灣醫師協會」因成員複雜不敢自稱「台灣人醫師協會」，經 NATMA 第二任總會會長楊次雄运作加盟為紐約分會，時任分會會長即李汝城（約 1986–87）。見 [[works/taiwaneseamericanhistory-org/ourjourneys74|Our Journey 74：NATMA 紐約分會]]（英文版 [[works/taiwaneseamericanhistory-org/ourjourneys74-eng|ourjourneys74-eng]]）。
 - 2016-03: 發表〈也談「台灣的語言」〉一文，引發會內關於台醫協會聚會語言與客家人參與（10–15% 會員為客家）的討論。見 [[works/taiwaneseamericanhistory-org/ourjourneys201|也談台灣的語言／李汝城]]、會內回應 [[works/taiwaneseamericanhistory-org/ourjourneys202|Our Journey 202：會員回應]]。
 -  TAH 收藏其美國耳鼻喉科專科醫師證書（American Board of Otolaryngology 第一張證）。見 [[works/taiwaneseamericanhistory-org/50-dr-ju-cheng-lee-e6-9d-8e-e6-b1-9d-e5-9f-8e-e5-8d-9a-e5-a3-ab-the-first-certif|TAH #50：專科證書]]。
+- 紐澤西「將軍」日本餐廳股東（據會館 memoir，deepen-x slice 09142319-1 自語料庫吸收）：1983 年元祿餐廳股東經人介紹邀李汝城醫師夫婦及謝孟勳博士夫婦入股，組成紐澤西將軍日本餐廳（Green Brook 22 公路店，接手原 Leaning Tower of Pizza 比薩斜塔店面）；1985 年 Shogun 18 開店時亦為股東之一。1988 年籌開將軍 27（Kendall Park，125 萬美元成交）時， memoir 明載「在這討價還價的過程中，李汝城醫師扮演了關鍵性角色」。見 [[works/taiwaneseamericanhistory-org/ourjourneys17|Our Journey 17：「將軍」是這樣開始的]]。此為台美人合資自營事業的社群經濟紀錄，與學經歷無衝突。
 
 ## Sources
 - [TAH #182 encyclopedia: 182. Dr. Ju-Cheng Lee 李汝城醫師](https://taiwaneseamericanhistory.org/182-dr-ju-cheng-lee/)

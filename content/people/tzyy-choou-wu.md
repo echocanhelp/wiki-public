@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-14
+last_reviewed: 2026-09-15
 ---
 # Tzyy-Choou Wu (吳子丑)
 
@@ -35,6 +35,7 @@ Professor of Pathology, Oncology, Obstetrics and Gynecology, and Molecular Micro
 - 社團歸屬：[[organizations/taiwanese-american-association-baltimore|巴爾的摩台美協會（Taiwanese American Association Baltimore）]]。
 - 語料庫所載出身細節（屏東潮州、高雄中學）與上列 tah-tables 學經歷（台大醫科 1975–82）互補，無日期衝突。
 - Corpus recheck（deepen-x slice 09141400-2，2026-09-14）：語料庫檢索命中僅楊遠薰報導兩份存檔（已於上文收錄連結）與 works 索引書目條，無新素材 — SKIP-with-reason。
+- Corpus recheck（deepen-x slice 09142319-1，2026-09-15）：全庫檢索命中僅 TAH #622 工作頁與楊遠薰報導兩份存檔（皆已收錄連結）及 works/index 書目條，無新素材 — SKIP-with-reason。
 
 <!-- tah-tables:start -->
 ## Education
