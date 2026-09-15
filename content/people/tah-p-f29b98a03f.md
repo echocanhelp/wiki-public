@@ -60,3 +60,4 @@ _No filled family fields on the TAH profile._
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - [[people/leslie-ho||Leslie Ho（何炳宏）]] — 同為曼哈頓音樂院校友
 - [[people/i-bei-lin||I-Bei Lin（林怡貝）]] — 同屬 TAH Who's Who 音樂家名錄
+- **SKIP 2026-09-14 (slice 09141500-15):** corpus re-grep (works/ + articles/) returned only the person's own TAH directory records and the works index — no memoir mentions; nothing further absorbable.

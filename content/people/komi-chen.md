@@ -59,3 +59,4 @@ Born in Taipei in 1943, Komi Chen grew up in an art painting family and was infl
 - 父親：[[people/hsueh-hu-kuo||郭雪湖 (Kuo Hsueh-Hu)]]；母親 林阿琴、姊姊 Ann Kuo 目前僅見於本頁與父親頁，尚無專屬頁面。
 - 匹茲堡時期（Pittsburgh/Monroeville 社區大學任教，匹大圖書館學碩士）與當地台美人圈子相符：[[organizations/taiwanese-association-of-america-pittsburgh||TAA Pittsburgh]]。
 - SKIP（deepen-x slice 09141213-23）：語料庫檢索僅命中本人書目記錄 [[works/taiwaneseamericanhistory-org/whos-who-2290-komi-chen||TAH #2290]]、[[works/taiwaneseamericanhistory-org/artists68||TAH #68]]（皆為書目頁、無內文），無可吸收之社群/回憶錄材料。
+- deepen-x 09141500-8（覆核）：改以「香美」及父名再檢，本人名於 works／articles 仍僅命中上述兩筆書目記錄 — 確認 **SKIP**。但父系語料可佐證家族脉络：父親 郭雪湖 晚年定居舊金山灣區 Richmond「望海山莊」（窗前遠眺似觀音山而命名），見灣區台美人社群史料 [[works/taiwaneseamericanhistory-org/our-journeys-357|Our Journeys #357]]；另有父親傳記式文章 [[works/taiwaneseamericanhistory-org/mystories417|TAH #417【人心人術】走過一百年 用台灣人的眼睛畫世界：郭雪湖]]（張肇烜，2016/03）。已記入 Family 交叉索引，非本人直屬事實故不入 Timeline。

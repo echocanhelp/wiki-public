@@ -53,3 +53,4 @@ _No filled family fields on the TAH profile._
 - 兩篇 TAH 出處頁均有 vault 頁：[[works/taiwaneseamericanhistory-org/ota-286||TAH #286]]（2019-05-20 發布）、[[works/taiwaneseamericanhistory-org/whos-who-1203-lily-wang||TAH #1203]]（2016-07-30 發布）。
 - FAPA  ohio 章節之外，Vault 現有 FAPA 章節頁可資對照：[[organizations/fapa-los-angeles||FAPA Los Angeles]]、[[organizations/fapa-orange-county||FAPA Orange County]]。
 - **SKIP 2026-09-14 (slice 09141213-32):** corpus grep (works/ + articles/) hit only her own two TAH encyclopedia records — no memoir mentions; nothing new absorbable beyond existing deepen notes.
+- **SKIP 2026-09-14 (slice 09141500-15):** corpus re-grep (works/ + articles/) returned only the person's own TAH directory records and the works index — no memoir mentions; nothing further absorbable.
