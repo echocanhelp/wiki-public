@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-14
 ---
 # Wan-Lin Tsai (蔡宛霖博士)
 
@@ -31,6 +31,12 @@ Wan-Line Tsai is originally from Taiwan. She has a Bachelor’s Degree in Elemen
 - Preschool Chinese program
 - Intercultrual Montessori Language School — Present — Assistant teacher — Teaching
 <!-- tah-tables:end -->
+
+## Role in the Community
+
+Documented in the TAH corpus as a Taiwanese American violinist: two records were published in the same 2015/06 batch — [[works/taiwaneseamericanhistory-org/450-wan-lin-tsai-e8-94-a1-e5-ae-9b-e9-9c-96-201506|TAH #450 Wan-Lin Tsai 蔡宛霖]] (2015-06-21) and [[works/taiwaneseamericanhistory-org/214-wan-line-e8-94-a1-e5-ae-9b-e9-9c-96-vionist201506|TAH #214 Wan-Line Tsai 蔡宛霖, Violinist]] (2015-06-21). She is also listed in the corpus index alongside the 2015 youth-orchestra concert record (TAH #87 紐約幼獅青少年管弦樂團年度音樂會), consistent with her musical-direction work for local organizations.
+
+HOLD: corpus name spellings "Wan-Lin" (#450) vs "Wan-Line" (#214, likely typo); both records are bibliographic only — full text stays in the TAH vault, no additional biography absorbable.
 
 ## Family
 

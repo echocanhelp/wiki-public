@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-14
 ---
 # Fei-Mei Lee Chou (周李惠美)
 
@@ -32,6 +32,12 @@ last_reviewed: 2026-08-17
 - Genral Electric — 1976-1979 — Engineering Assistance
 - Lockheed Martin — 1979-2001 — Software Engineer
 <!-- tah-tables:end -->
+
+## Role in the Community
+
+Her own first-person account (above) is held in the corpus as a community memoir: [[works/taiwaneseamericanhistory-org/whos-fei-mei-lee-chou|TAH #716 Fei-Mei Lee Chou 周李惠美]] (published 2015-12-01). The triumph she describes — the US team's gold in the 400m (100m×4) and 1,600m (400m×4) relays, 80–84 age group, at the 2015 World Master Athletic Championship in Lyon, with world records of 1:21.06 and 8:39.82 — is separately archived at [[works/taiwaneseamericanhistory-org/winners53|TAH #53 (winners53)]] (published 2017-11-27), confirming the achievement as community-verified record rather than self-report.
+
+HOLD: era field says 1935 but the 2015 relay entry is the 80~84 age group, implying a birth year of 1931–1935; do not auto-merge. Corroboration in the corpus places her in the East-Bay/Southern-California Taiwanese community network (same publication batch as 我與東灣台灣同鄉會網球隊的因緣, 南加學壇 SCAL Tribune, and FAPA chapters).
 
 ## Family
 

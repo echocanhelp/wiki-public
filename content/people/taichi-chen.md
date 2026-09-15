@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-14
 ---
 # Taichi Chen (陳太一)
 
@@ -29,6 +29,12 @@ Taichi Chen began his violin studies in his native country Taiwan when he was 7 
 ## Employment
 - Minnesota Orchestra — 1985-present — 2nd violin section
 <!-- tah-tables:end -->
+
+## Role in the Community
+
+Documented in the TAH corpus as part of the 2015/02 violinist cohort of the Taiwanese American community archive: [[works/taiwaneseamericanhistory-org/10168|TAH #131 Taichi Chen 陳太一, Violinist]] and [[works/taiwaneseamericanhistory-org/10162|TAH #244 Taichi Chen 陳太一]] (both published 2015-02-01). He appears in the same batch as peers 鄭俊騰, 高慧生, 簡名彥 and soprano 李俊玲 — a network of Taiwan-born classical musicians active in the U.S., preserved by the community record alongside FAPA chapter records (Minnesota, Missouri) from the same corpus.
+
+Both corpus records are bibliographic only (full text in the TAH vault); the Minnesota Orchestra tenure above (1985–present, 2nd violin) is consistent with the corpus geography, no conflicts to hold.
 
 ## Family
 

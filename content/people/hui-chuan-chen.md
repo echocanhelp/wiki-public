@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-14
 ---
 # Hui-Chuan Chen (陳慧娟)
 
@@ -29,6 +29,12 @@ Pianist Hui-Chuan Chen 陳慧娟 was born in Kaohsiung, Taiwan and began piano l
 ## Employment
 - Taiwan National Symphony Orchestra — Rehearsal Pianist — Peabody Institute — Accompanying Coordinator
 <!-- tah-tables:end -->
+
+## Role in the Community
+
+Carried in the TAH corpus across two encyclopedia batches, documenting her as a Taiwanese American pianist in the Baltimore/Peabody circle: [[works/taiwaneseamericanhistory-org/musician27|TAH #27 Hui-Chuan Chen 陳慧娟, Pianist]] (2014-10-11) and [[works/taiwaneseamericanhistory-org/whoswho1093|TAH #1093 Hui-Chuan Chen 陳慧娟]] (2016-06-18). The 2014 record was published in the same musician series as peers 謝永芹, 李琹怡, 楊閔貴 and 蔡懷恩 — a cohort of Taiwan-born classical musicians documented by the community archive; the 2016 record appears in the 2016/06 encyclopedia batch alongside 陳慧如, 李琹怡, 陳詩音 and 楊閔貴.
+
+Both corpus records are bibliographic only (full text in the TAH vault); nothing contradicts the press-kit bio above, no conflicts to hold.
 
 ## Family
 
