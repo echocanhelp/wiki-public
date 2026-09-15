@@ -75,3 +75,4 @@ Prof. Tien‐Sung (Tom) Lin 林天送教授 – History of Taiwanese American (T
 - corpus grep（`林天送|Tom Lin` 對 content/works、content/articles）命中僅本人 TAH 書目頁 #1060–#1067、#34、#1430——皆已 wikilink 於本頁 Role in the Community／Vault Holdings；memoir 語料無本人新事實，本輪無可吸收內容。
 - 2026-09-15 (slice 09150316-12): re-grep 命中集相同（僅本人 TAH 書目頁，皆已 wikilink）。維持 SKIP，無新事實、無衝突。
 - 2026-09-15 (slice 09150400-13): re-grep 命中集相同（本人書目頁 #1060–#1067、#34、#1430，皆已 wikilink；跨頁命中僅為書目頁間互聯，如 ourjourneys339 直查 0 命中）。memoir 語料無新事實——SKIP，無衝突需 HOLD。
+- 2026-09-15 (slice 09150500-2): re-grep 命中集相同（本人書目頁 #1060–#1067、#34、#1430，皆已 wikilink）。memoir 語料無新事實——SKIP，無衝突需 HOLD。
