@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-14
+last_reviewed: 2026-09-15
 ---
 # Pauline Huey-Fen Hsu (徐彗芬)
 
@@ -55,3 +55,4 @@ _No filled family fields on the TAH profile._
 - [[organizations/taiwanese-american-historical-society||TAH 台美史料協會]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - [[sources/taiwaneseamericanhistory-org-story-corpus||TAH story corpus hub]]
+- SKIP（deepen-x 09142320-5, 2026-09-15）：檢索復核，徐彗芬僅命中本人書目頁 #435 與 index（其餘 Pauline 命中為黃百齡、蕭百忍、邱曼怡、Pauline Chen 等其他人物），無可吸收事實。

@@ -58,3 +58,6 @@ _No filled family fields on the TAH profile._
 - 傳記行所引「台美史料中心」補上 vault 介紹頁連結（已核頁存在）。
 - 複核：vault 本人記錄僅 #1781 一條（連結已到位）。國衛院、加州理工、臺北醫學大學、UC Davis 癌症中心目前無對應 vault 頁面，未加連結。
 - 語料庫檢索（slice 09141300-25）：content/works、content/articles 命中僅 [[works/taiwaneseamericanhistory-org/whos-who-1781-hsing-jien-kung|TAH #1781]]（已連結），B 級書目紀錄無正文 → SKIP-with-reason（無可吸收新事實）。
+
+## Deepen pass (2026-09-15, slice 09142319-32)
+- **SKIP-with-reason（語料庫重掃）：** `Hsing-Jien Kung|龔行健` 於 content/works、content/articles 命中僅本人條目 [[works/taiwaneseamericanhistory-org/whos-who-1781-hsing-jien-kung|TAH #1781]]（已連結）及 works/index 條目行，無回憶錄/社群正文可吸收。

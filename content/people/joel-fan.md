@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-14
+last_reviewed: 2026-09-15
 ---
 # Joel Fan (范景德)
 
@@ -59,3 +59,5 @@ _No filled family fields on the TAH profile._
 
 ## Deepen pass (2026-09-14, slice 09141500-12)
 - **SKIP-with-reason (corpus re-scan):** grep -E `Joel Fan|范景德` over `content/works` + `content/articles` again returns only his own bibliography records TAH #290／#574（已連結於本頁）— no memoir/community-record mentions. Nothing absorbable.
+## Deepen pass (2026-09-15, slice 09142320-5)
+- SKIP-with-reason：語料庫復核命中僅本人書目紀錄 TAH #290／#574（已連結於本頁），回忆录無社群事實可吸收。

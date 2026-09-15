@@ -63,3 +63,6 @@ _No filled family fields on the TAH profile._
 
 ## Deepen pass (2026-09-14, slice 09141500-10)
 - SKIP-with-reason：語料庫檢索復核，命中僅本人書目頁（TAH #341、#1056）、works/index 條目行與他人頁面的同名辨歧註記，無回憶錄/社群第一手材料可吸收。
+
+## Deepen pass (2026-09-15, slice 09142320-4)
+- SKIP-with-reason：語料庫檢索（works/articles）再次復核，命中僅本人書目頁 [[works/taiwaneseamericanhistory-org/musician341|TAH #341]]、[[works/taiwaneseamericanhistory-org/1056-tzuying-huang-e9-bb-83-e5-a7-bf-e7-a9-8e-201605|TAH #1056]] 及 works/index 條目行，無回憶錄/社群第一手材料可吸收。

@@ -47,6 +47,7 @@ last_reviewed: 2026-09-15
 - 楊遠薰撰文介紹其英文語源百科大辭典：[[works/taiwaneseamericanhistory-org/mystories75|TAH mystories #75 郭來哲博士的英文語源百科大辭典 / 楊遠薰]]。
 - 陳希寬回憶（[[works/taiwaneseamericanhistory-org/ourjourneys17|Our Journeys #17 紐澤西的將軍日本餐廳]]）：1983-84 年籌設紐澤西 Green Brook「將軍」日本餐廳時，郭來哲極力鼓勵陳希寬提高價格買下店面，是該餐廳創辦過程的關鍵推手。
 - 名录紀錄：[[works/taiwaneseamericanhistory-org/ourjourneys58|Our Journeys #58《全美台灣同鄉通訊錄》]]列郭來哲於紐澤西（New Jersey）編輯名單。
+- 本人執筆之故事記錄亦典藏於 vault：[[works/taiwaneseamericanhistory-org/8-chu-jen-yih-e6-9c-b1-e7-9c-9f-e4-b8-80|TAH 故事 #8「Ted Kuo 郭來哲」（2015/05，記錄日期 2014-10-04）]]。
 
 ## Sources
 - [TAH #272 encyclopedia: 272. 台灣人的翹楚-郭來哲博士，楊涵珺 伉儷/李素鳳/2015/01](https://taiwaneseamericanhistory.org/272-%e5%8f%b0%e7%81%a3%e4%ba%ba%e7%9a%84%e7%bf%b9%e6%a5%9a-%e9%83%ad%e4%be%86%e5%93%b2%e5%8d%9a%e5%a3%ab%ef%bc%8c%e6%a5%8a%e6%b6%b5%e7%8f%ba-%e4%bc%89%e5%84%b7%e6%9d%8e%e7%b4%a0%e9%b3%b3201501/)

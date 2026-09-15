@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-14
+last_reviewed: 2026-09-15
 ---
 # Jonathan Tsay (蔡宇明)
 
@@ -66,3 +66,4 @@ Re-check (deepen-x slice 09141500-9, 2026-09-14): corpus grep re-run returned th
 - [[organizations/taiwanese-american-historical-society||TAHS]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - [[sources/taiwaneseamericanhistory-org-story-corpus||TAH story corpus]]
+Re-check (deepen-x slice 09142320-5, 2026-09-15): corpus grep re-run — hits are only his own TAH catalogue records #375/#1413 (already linked in Vault Holdings). No memoir material; SKIP stands.

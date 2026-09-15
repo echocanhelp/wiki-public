@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-14
+last_reviewed: 2026-09-15
 ---
 # I-Bei Lin (林怡貝)
 
@@ -66,3 +66,5 @@ Both records are band-B bibliographic entries (full text stays with TAH), so the
 
 ## Deepen pass (2026-09-14, slice 09141500-10)
 - SKIP-with-reason：語料庫檢索復核，命中僅本人書目頁（TAH #289、#573）、index 條目行及 杜宛珊 頁的名錄互聯，無回憶錄材料可吸收。
+## Deepen pass (2026-09-15, slice 09142320-5)
+- SKIP-with-reason：語料庫檢索復核，命中僅本人書目頁（TAH #289、#573），無回憶錄材料可吸收。
