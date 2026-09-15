@@ -72,3 +72,5 @@ _No filled family fields on the TAH profile._
 
 ## Deepen-x 2026-09-15 (slice 09150400-23)
 - **SKIP（第四次重掃）：** `陳怡名|Yi-Ming Chen` 命中集不變——本人 TAH #332／#158 出處頁、已全數吸收之 #128 明州音樂會記錄、works/index 目錄列。無新社群事實可吸收。
+## Deepen-x re-check (slice 09150500-14, 2026-09-15)
+- **SKIP（第五次重掃）：** 命中集不變＝本人出處頁 [[works/taiwaneseamericanhistory-org/332-yi-ming-chen-e9-99-b3-e6-80-a1-e5-90-8d|#332]]／[[works/taiwaneseamericanhistory-org/158-yi-ming-chen-e9-99-b3-e6-80-a1-e5-90-8d-violist201502|#158]]、已全數吸收之 [[works/taiwaneseamericanhistory-org/ourjourneys128|#128]] 明州音樂會記錄、works index。無新增可吸收事實、無衝突。

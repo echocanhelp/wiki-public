@@ -61,3 +61,5 @@ Accomplishment
 - 覆核：語料重檢命中集與先前各 slice 相同（僅本人出處頁、works/index、已全數吸收之社区記錄頁），無新增可吸收事實，本頁維持現狀。 <!-- slice27 -->
 ## Deepen-x re-check (slice 09150400-22, 2026-09-15)
 - SKIP-with-reason：語料重檢命中集不變（ourjourneys102/162/162-eng/245/313、TAH #11、#14、works index）；Community Record 已全數吸收（含 #162 英文版互證），無新增可吸收事實、無衝突。
+## Deepen-x re-check (slice 09150500-14, 2026-09-15)
+- SKIP-with-reason：命中集不變＝ourjourneys102／#162／#162-eng／#245／#313、本人著作 [[works/taiwaneseamericanhistory-org/11-the-birth-of-the-permanent-home-for-the-taiwanese-american-community-center-o|#11]]、出處頁 #14、works index；Community Record 已全數吸收，無新增可吸收事實、無衝突。
