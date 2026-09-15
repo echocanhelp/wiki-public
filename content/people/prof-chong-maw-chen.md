@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-15
 ---
 # Prof. Chong-Maw Chen (陳正茂教授)
 
@@ -29,6 +29,14 @@ Prof. Chong-Maw Chen 陳正茂教授 – History of Taiwanese American (T.A. Arc
 ## Employment
 - University of Wisconsin — Professor — (1977-) — University of Wisconsin — Professor Emeritus — Community — Research Institute of Applied Molecules — Founder and President — Taiwanese American Foundation of San Diego — President
 <!-- tah-tables:end -->
+
+## Role in the Community
+
+Corpus records place Prof. Chen among the movement's organizational founders and contributors:
+
+- He is listed among the **Consultants of the Taiwanese American Citizens League Preparatory Committee** in Taiwan Tribune 第三六九期 (1985-04-15, p.9), preserved in the movement memoir collection [[works/taiwaneseamericanhistory-org/ourjourneys186|Our Journeys 186 (台灣公論報 lists)]] and its English counterpart [[works/taiwaneseamericanhistory-org/ourjourneys186-eng|Our Journeys 186 (EN)]] — as "Chong-Maw Chen".
+- He authored the memorial essay [[works/taiwaneseamericanhistory-org/299-e8-bf-bd-e6-80-9d-e9-84-ad-e5-be-b7-e6-98-8c-e5-85-89-e9-99-b3-e6-ad-a3-e8-8|TAH #299: 追思鄭德昌兄 / 陳正茂 / 2015/07]], contributing to the community's remembrance literature for 鄭德昌.
+- His encyclopedia profiles are archived as [[works/taiwaneseamericanhistory-org/188-prof-chong-maw-chen|TAH #188: Prof. Chong-Maw Chen 陳正茂教授]] (2018-11-12) and [[works/taiwaneseamericanhistory-org/whos-who-1677-chong-maw-chen|TAH #1677: Prof. Chong-Maw Chen 陳正茂教授]] (2017-05-25).
 
 ## Family
 

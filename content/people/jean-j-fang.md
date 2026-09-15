@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-15
 ---
 # Jean J. Fang (黃靜枝)
 
@@ -36,6 +36,11 @@ Accomplishment
 
 - **Husband:** 方菊雄
 
+
+## Role in the Community
+- Movement-theatre record: at the 1983 Taiwanese American Conference/East Coast she played 陳淑子 (Chen Su-jen) in the stage play "Mending the Broken Net" (補破網) dramatizing the Chen Wen-chen murder, alongside director 陳明楷 and 康泰山 as Chen Wen-Chen — recalled in the memoir [[works/taiwaneseamericanhistory-org/ourjourneys8-eng|Our Journeys 8 (EN)]]; see also [[organizations/professor-chen-wen-chen-memorial-foundation|Professor Chen Wen-Chen Memorial Foundation]].
+- Her TAH encyclopedia profile is preserved as [[works/taiwaneseamericanhistory-org/ourjourneys76|Our Journeys 76]], which links her page and the Chen Wen-chen Memorial Foundation.
+- Husband 方菊雄 (Jyu-Hsiung Fang, professor) has his own corpus records: [[works/taiwaneseamericanhistory-org/186-prof-jyu-hsiung-fang|186. Prof. Jyu-Hsiung Fang]] and [[works/taiwaneseamericanhistory-org/whos-who-714-jyu-hsiung-fan|WHO'S WHO 714. Jyu-Hsiung Fang]].
 
 ## Sources
 - [TAH #163 encyclopedia: 163. Jean J. Fang 黃靜枝](https://taiwaneseamericanhistory.org/163-jean-j-fang/)

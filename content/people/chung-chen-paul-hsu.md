@@ -35,6 +35,11 @@ last_reviewed: 2026-09-15
 - **Wife:** [[people/sharon-s-hsu||許聖美]]
 
 
+## Role in the Community
+- His founding of Hsu's Ginseng Enterprises in Wausau is recorded in the TAH encyclopedia as an early private business enterprise by Taiwanese immigrants: [[works/taiwaneseamericanhistory-org/ff42|42. Paul (Chung Chen) and Sharon Hsu 許忠政, 許聖美 — The first private business enterprise (1974)]], with a companion entry [[works/taiwaneseamericanhistory-org/36-chung-chen-paul-and-sharon-hsu|36. Chung Chen (Paul) and Sharon Hsu 許忠政、許聖美夫婦]] and WHO'S WHO profile [[works/taiwaneseamericanhistory-org/whos-who-262-chung-chen-hsu|262. Chung Chen (Paul) Hsu 許忠政]].
+- Community activity in Minnesota: as 許氏人蔘總裁 he was invited by 華人學術聯誼會 to lecture on 《三十年經營理念與養生之道》, per the Twin Cities community journal [[works/taiwaneseamericanhistory-org/ourjourneys123|Our Journeys 123]].
+- HOLD: [[works/taiwaneseamericanhistory-org/whoswho1320|1320. Paul Hsu 徐紹欽]] shares the English name "Paul Hsu" but is a different person (徐紹欽) — do not merge.
+
 ## Sources
 - [TAH #36 encyclopedia: 36. Chung Chen (Paul) and Sharon Hsu 許忠政、許聖美夫婦](https://taiwaneseamericanhistory.org/36-chung-chen-paul-and-sharon-hsu/)
 - [TAH #42 encyclopedia: 42. Paul (Chung Chen) and Sharon Hsu 許忠政, 許聖美 / The first private business enter](https://taiwaneseamericanhistory.org/ff42/)

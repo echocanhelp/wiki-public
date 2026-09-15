@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-15
 ---
 # Evergreen Class by Irvine Taiwanese Presbyterian Church ，Laguna Hills, CA (長青教室)
 
@@ -17,6 +17,16 @@ last_reviewed: 2026-08-17
 - **Core roles:** Community organization (TAH directory)
 
 The Evergreen Class is a free community education program sponsored by the Irvine Taiwanese Presbyterian Church (ITPC), held at Geneva Church near Laguna Woods Village retirement community in Laguna Hills, California. It serves retired Taiwanese Americans in the area by offering weekly two-hour sessions every Wednesday from 10am to 12pm, excluding summer and winter breaks. Topics cover a wide range including health and medicine, humanities and technology, religion, arts and lifestyle, Taiwan, and travel. Speakers are primarily local professionals such as doctors, professors, and scholars who present in Taiwanese. Since September 2009, the class has held over 200 sessions with nearly 100 attendees per session.
+
+## Role in the Community
+
+The Evergreen Class is documented across the TAH corpus as one of the most durable senior-education programs in the OC Taiwanese Presbyterian community:
+
+- Its founding profile is recorded in [[works/taiwaneseamericanhistory-org/5-evergreen-by-irvine-taiwanese-presbyterian-church|TAH #5: 長青教室 by Irvine Taiwanese Presbyterian Church]].
+- The class marked its **10th anniversary on 11/27/2019** in Laguna Woods, recorded in [[works/taiwaneseamericanhistory-org/22-10th-anniversary-of-evergreen-class-e9-95-b7-e9-9d-92-e6-95-99-e5-ae-a4-by-ir|TAH #22: 10th Anniversary of Evergreen Class]] and the same-day closing ceremony footage [[works/taiwaneseamericanhistory-org/videos-154|長青教室秋季班結業式 11/27/2019]].
+- The program maintains its own publication, the ITPC Evergreen newsletter ([[works/taiwaneseamericanhistory-org/newsletter-of-evergreen-itpc|Newsletter of Evergreen, ITPC]]), and activity photo albums such as [[works/taiwaneseamericanhistory-org/photo-albums-activities-62|TAH #62: 長青教室 activity album, 2015/03]].
+
+The 10th anniversary (2019) and the founding note (since September 2009) are consistent with the page's session-count claim of 200+ sessions.
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/evergreen-class-by-irvine-taiwanese-presbyterian-church-laguna-hills-ca/)
