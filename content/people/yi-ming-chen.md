@@ -69,3 +69,6 @@ _No filled family fields on the TAH profile._
 - （複掃 2026-09-15，slice 26：SKIP）重掃結果不變——四處命中無變，無新社群事實可吸收。
 ## Deepen-x 2026-09-15 (slice 09150316-27)
 - 覆核：語料重檢命中集與先前各 slice 相同（僅本人出處頁、works/index、已全數吸收之社区記錄頁），無新增可吸收事實，本頁維持現狀。 <!-- slice27 -->
+
+## Deepen-x 2026-09-15 (slice 09150400-23)
+- **SKIP（第四次重掃）：** `陳怡名|Yi-Ming Chen` 命中集不變——本人 TAH #332／#158 出處頁、已全數吸收之 #128 明州音樂會記錄、works/index 目錄列。無新社群事實可吸收。

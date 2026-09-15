@@ -76,3 +76,6 @@ Peer members listed in the same L1 block, useful for disambiguating LINE display
 - [[people/yi-sen-lee||Yi Sen Lee]]
 - [[people/rex-chen||Rex Chen]]
 - [[people/willy-pan||Willy Pan]]
+
+## Deepen-x 2026-09-15 (slice 09150400-23)
+- **SKIP-with-reason（第三次重掃，結果一致）：** `Kevin Lee` 於 works、articles 命中僅 [[works/taiwaneseamerican-org/apa-artists-on-overcoming-racism-stereotypes|APA Artists 訪談頁]]（2009 TAF 夏令營輔導員，無漢字 linkage），依 roaster 政策不得以英文名併入——維持 SKIP，候 owner 漢字確認。

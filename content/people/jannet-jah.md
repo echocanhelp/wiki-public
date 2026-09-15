@@ -57,4 +57,8 @@ Jennet Jah is the daughter of the noted composter, Professor Kenneth Lee. She gr
 - HOLD（不并档）：TAH #132 及各演出记录拼作 "Jennet Jah"，TAH #245 与本页作 "Jannet Jah"；名字拼写分歧，未经本人记录不自动合并。
 
 ## Deepen-x re-check (slice 09150316-31, 2026-09-15)
-- SKIP-with-reason：全语料重 grep（李俊玲／Jannet Jah／Jennet Jah）命中集不变——本人两笔 TAH 记录（[[works/taiwaneseamericanhistory-org/10177|TAH #132]]、[[works/taiwaneseamericanhistory-org/245-jannet-jah-e6-9d-8e-e4-bf-8a-e7-8e-b2-201502|TAH #245]]）、works 索引条目，及三篇已链接的以立合唱团报道。逐条上下文核对：2024-10-12《学生王子》报道中「声乐指导老师李俊玲」身份（声乐指导，非登台）与 Role in the Community 既有记载一致，无新增事实。拼写分歧 HOLD 维持。
+- SKIP-with-reason（当时）：本人两笔 TAH 记录（[[works/taiwaneseamericanhistory-org/10177|TAH #132]]、[[works/taiwaneseamericanhistory-org/245-jannet-jah-e6-9d-8e-e4-bf-8a-e7-8e-b2-201502|TAH #245]]）、works 索引条目，及三篇已链接的以立合唱团报道。逐条上下文核对：2024-10-12《学生王子》报道中「声乐指导老师李俊玲」身份（声乐指导，非登台）与 Role in the Community 既有记载一致，无新增事实。拼写分歧 HOLD 维持。
+
+## Deepen-x re-check (slice 09150400-17, 2026-09-15)
+- 新增同演出存档副本两笔，无新事实，仅补记以全语料命中：2024-02-24 存档《拯救我》（2022-12-16 演出、女高音独唱李俊玲）—— [[articles/taiwanjustice-net/2024/20240224201637_root_80b33cf1846bc005|以立合唱团演唱「拯救我」（2024-02 存档）]]；2024-02-28 存档《致死的震怒近了》（饰 Abigalle）—— [[articles/taiwanjustice-net/2024/20240228151341_root_8c6aeada16c1e8ba|以立合唱团「致死的震怒近了」（2024-02 存档）]]。
+- 2024-10-12 同日轻歌剧《森林王子》选曲演出报道同载「声乐指导李俊玲老师」，与《学生王子》记载一致，非登台身份 —— [[articles/taiwanjustice-net/2025/20250318104403_洛杉磯_以立合唱團_演出的輕歌劇_森林王子_928db8aa40e881b2|洛杉矶以立合唱团轻歌剧「森林王子」]]。拼写分歧 HOLD（Jennet vs Jannet）维持不并档。
