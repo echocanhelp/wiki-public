@@ -52,6 +52,7 @@ Rev. Edward Bin Tanng 陳黃義敏牧師 – History of Taiwanese American (T.A.
 - **Founding generation of the North American Taiwanese Professors Association (北美洲台灣人教授協會).** He was one of the sixteen professors at the first organizing meeting, 1980-02-16, at the University of Chicago International House, and served as secretary cum treasurer (秘書兼財務) under the first elected president ([[works/taiwaneseamericanhistory-org/ourjourneys69|69. 北美洲台灣人教授協會 /廖述宗]]).
 - His own TAH encyclopedia record: [[works/taiwaneseamericanhistory-org/whos-who-2128-edward-bin-tanng|2128. Rev. Edward Bin Tanng 陳黃義敏牧師]].
 - HOLD: conflict in the FPCLA anniversary English appendix, which prints his pastorate as "1998-1991", against 1988-1991 in the Chinese pastor list and in the TAH profile — kept at 1988–1991, not auto-merged.
+- 語料庫再核 2026-09-15（deepen-x slice-17）：命中 ourjourneys231（含英文版）、ourjourneys69（含英文版）、ourjourneys33-eng、whos-who-2128 與 works/index，全部已吸收；英文版人名作 "Edward Gibin Tanng"，與本頁 Edward Bin Tanng 並記，不逕改。無新增可吸收語料。
 
 ## Network
 - [[organizations/formosan-presbyterian-church-in-los-angeles||FPCLA]] — TAH Who’s Who

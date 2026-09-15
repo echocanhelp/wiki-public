@@ -28,6 +28,7 @@ last_reviewed: 2026-09-15
 - 1974：受邀為北加州台灣人協會聯合會（TAFNC）首屆灣區大會演講人之一，與康寧祥、呂秀蓮、金美齡、彭明敏同台；TAFNC 1973-09-22 於蘇純雄家中成立，為灣區台美人社區首個聯合組織，其後並舉辦首屆灣區棒球錦標賽；见 [[works/taiwaneseamericanhistory-org/ourjourneys38-eng|Our Journeys 38（英文版）]]。
 - 語料庫複核 2026-09-15（deepen-x slice 31）：命中 ourjourneys38-eng（上述 1974 大會演說、自決運動支持）、ourjourneys76-eng（張瑞雄口述，已吸收）、自傳式紀錄 TAH #11、#132 及 works/index 收錄列舉；無其他可吸收社群語料。
 - 牧会之外亦扶持後學：1964 年私下介紹長老教會資助清苦留學生張瑞雄以交換學生方式轉入舊金山神學院完成學業；見 [[works/taiwaneseamericanhistory-org/ourjourneys76|Our Journeys 76（張瑞雄口述）]]。
+- 語料庫再核 2026-09-15（deepen-x slice-17）：命中 our-journeys-350／357、ourjourneys266／267、ourjourneys76（含英文版）與 works/index，全部已吸收或本屬張瑞雄口述本人記事（自決運動支持、參與世台會籌備），非黃武東新事實；《北美洲台灣基督教會開拓史》八大類分冊敘述與本頁記載一致。無新增可吸收語料。
 
 <!-- tah-tables:start -->
 ## Education

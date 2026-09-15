@@ -58,6 +58,7 @@ _No filled family fields on the TAH profile._
 - 語料庫再檢（2026-09-15）：命中僅 #114、#88、#202 既有記錄及 works/index 目錄行，回憶錄無提及。維持 SKIP-with-reason。
 - 語料庫三檢（2026-09-15, slice 31）：命中僅本人記錄與 works/index 目錄行, 與前兩次一致。維持 SKIP-with-reason。
 - 語料庫四檢（2026-09-15, slice-20）：命中僅 #202（誤配頁，已備註）、#114 本人記錄及 works/index 目錄行，回憶錄無他人記述。維持 SKIP-with-reason。
+- 語料庫五檢（2026-09-15, slice-17）：命中僅本人 #202（誤配頁，已備註）、#114 記錄及 works/index 目錄列項，與前四次一致，回憶錄無他人記述。維持 SKIP-with-reason。
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
