@@ -36,3 +36,9 @@ HOLD: merger framing — TAH directory blurb says the Center itself "was formed 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+## Corpus re-check (slice 09150316-13, 2026-09-15)
+- Context absorbed: the NY merger was part of a broader North-American Taiwanese senior-association wave. The LA movement is documented in [[works/taiwaneseamericanhistory-org/ourjourneys54|54. 海外台灣人第一所老人公寓一鶴園 / 王桂榮 /10/2014]]: 台灣長輩會 was founded 1979-05-05 borrowing Los Angeles Gospel Church as its meeting place, first chair 陳夢蘭 (his pharmacist son 陳銓仁 as secretary); after a leadership dispute over re-election, 蕭華銓 led by the third term, the name was changed to 台灣老人會, an office with a recreation room was rented in Little Tokyo, and a monthly newsletter began; the narrator (then 48, an honorary member) mediated, donated ~US$1,000/year, and received the top-donor award at the 15th anniversary in 1994.
+- Movement framing: [[works/taiwaneseamericanhistory-org/ourjourneys208|208. 台灣人社團的多元化與整合的必要性 / 出外人 /03/2016]] lists 各地台灣老人會 among the dozens of functional Taiwanese associations (alongside NATPA, TAA/台灣人公共事務協會, 台美人文藝協會, etc.) in a community of 200,000+ Taiwanese in North America — arguing diversification then consolidation, the exact pattern the NY three-association merger followed.
+- Related senior-housing milestone in the same corpus: [[works/taiwaneseamericanhistory-org/ourjourneys173-eng|173. 台美人移民史的首座里程碑 / Flamingo Garden Senior Apartments / Fei-Kuang Tseng]].
+- No new conflicts requiring HOLD; the existing merger-framing HOLD above stands.

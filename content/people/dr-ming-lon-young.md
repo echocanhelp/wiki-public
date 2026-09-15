@@ -61,3 +61,4 @@ Clinical career in South Florida: after posts at the University of Iowa and the 
 - 語料庫檢索（content/works、content/articles）：命中僅本人相關三條 —— [[works/taiwaneseamericanhistory-org/ota-279|TAH #279]]、[[works/taiwaneseamericanhistory-org/whos-who-1299-ming-lon-young|TAH #1299]]、[[works/taiwaneseamericanhistory-org/80-collection-of-dr-ming-lon-young|TAH #80 楊明倫教授的收藏]]，皆為 B 級書目紀錄（全文留存原庫），本頁已全數連結。
 - SKIP-with-reason：vault 語料無正文可吸收，無新社區事實；未新增外部事實，未建新頁。
 - Slice 09142319-18 語料複核（2026-09-15）：SKIP-with-reason——重跑 grep 楊明倫/Ming-Lon Young（works+articles）命中仍為已連結之三條書目記錄（TAH #279、#1299、#80 收藏），memoir 語料無新事實，無衝突須 HOLD。
+- Slice 09150316-13 語料複核（2026-09-15）：SKIP-with-reason——重跑 grep 楊明倫/Ming-Lon Young 命中仍僅 #279、#1299、#80 三條書目記錄（已連結）；語料無新社區事實，無衝突。
