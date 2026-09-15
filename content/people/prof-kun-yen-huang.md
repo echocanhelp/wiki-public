@@ -65,6 +65,7 @@ Accomplishment
 
 - 陳淮崇回憶錄〈138. 華府與巴城TAA的誕生〉（2015-05，band A 第一手社群史料）記述：1960 年代中期華府地區台灣人圈中，「在 NIH 等國家級機關做研究的」即包括「後來成為台灣成功大學醫學院創辦人的黃崑巖」，與楊基焜、林明璋、黃泰郎等並列——印證其留美早期（1963–1968 海軍醫學研究所時期，與本頁 Timeline 相符）即屬華府／巴城早期台美社群的核心學術成員：[[works/taiwaneseamericanhistory-org/ourjourneys-138||TAH #138：華府與巴城TAA的誕生／陳淮崇]]。
 - Corpus sweep (slice 09141400-5, 2026-09-14): full grep (黃崑巖／Kun-Yen Huang) hits only [[works/taiwaneseamericanhistory-org/ourjourneys-138|TAH #138]]（上文已吸收）及三筆百科書目記錄 #12／#294／#828（Vault Holdings 已列）。無新增可吸收語料。
+- Corpus re-grep (slice 09150316-10, 2026-09-15): 黃崑巖 hits remain [[works/taiwaneseamericanhistory-org/ourjourneys-138|TAH #138]]（上文已吸收）+ 本人百科記錄 #12／#294／#828 + works/index；無新增可吸收語料，SKIP-with-reason。
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

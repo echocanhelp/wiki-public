@@ -61,3 +61,4 @@ Samuel S. Cheung has performed as an accompanist in recitals at Carnegie Hall, M
 - Slice 09141400-12 複核（2026-09-14）：SKIP-with-reason——重跑 grep 張詩賢/Samuel S. Cheung（works+articles）結果不變，僅命中本人两条 TAH 書目記錄與 works index；memoir 語料無新事實。
 - Slice 09141213-5 複核（2026-09-14）：corpus grep（content/works、content/articles，含漢名「張詩賢」）僅命中本人两条 TAH 書目記錄（musician109、whoswho1120，均已連結於上）與 works/index；memoir 語料無新事實，本輪無可吸收內容。
 - Slice 09142319-18 複核（2026-09-15）：SKIP-with-reason——重跑 grep 張詩賢/Samuel S. Cheung（works+articles）結果不變，僅命中 [[works/taiwaneseamericanhistory-org/musician109|TAH #109]]、[[works/taiwaneseamericanhistory-org/whoswho1120|TAH #1120]] 與 works index；memoir 語料無新事實，無衝突須 HOLD。
+- Slice 09150316-11 複核（2026-09-15）：SKIP-with-reason——再跑 grep（漢名＋英文名，works+articles，排除本人兩條書目記錄與 index）零命中；memoir 語料仍無新事實。

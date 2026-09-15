@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-14
+last_reviewed: 2026-09-15
 ---
 # Eiji Urata (謝榮慶)
 
@@ -65,3 +65,6 @@ Facts absorbed from the TAH profile text already cited on this page:
 
 ## Deepen — 2026-09-14 (slice 09142101-6)
 SKIP (re-run): grep of works/articles returns only his own TAH #54/#1001 bibliographic records (already wikilinked above) + works index — no community/memoir material.
+
+## Deepen — 2026-09-15 (slice 09150316-7)
+SKIP-with-reason (3rd re-check): grep 謝榮慶/Eiji Urata over content/works + content/articles returns only his own records [[works/taiwaneseamericanhistory-org/54-e8-ac-9d-e6-a6-ae-e6-85-b6-eiji-urata|TAH #54]] and [[works/taiwaneseamericanhistory-org/whoswho1001|TAH #1001]] (both already linked). No memoir/community mentions; nothing absorbable.

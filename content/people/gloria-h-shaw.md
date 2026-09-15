@@ -76,3 +76,4 @@ _Sourced from the TAH Who's Who profile above; no external material added._
 ## Corpus re-check (slice 09142319-13, 2026-09-15)
 
 - Re-grep 李雪芬/Gloria H. Shaw returns exactly the pages already linked in Role in the Community above (#2196, #198, #109 學無止境, #983 經歷生命的錘鍊, Pew 聲明) plus works/index — all previously absorbed; no new community material this pass.
+- Slice 09150316-7 語料複核（2026-09-15）：SKIP-with-reason（再跑）——grep 李雪芬/Gloria H. Shaw 命中面不變（#2196、#198、#109、#983、Pew 聲明），全部已吸收於上方 Role in the Community；無新事實、無衝突須 HOLD。

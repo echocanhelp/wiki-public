@@ -60,3 +60,6 @@ _No filled family fields on the TAH profile._
 
 ## Corpus check (deepen pass 2026-09-15, slice 09142319-14: SKIP-with-reason)
 - Re-grep works + articles: hits are only the own TAH encyclopedia record pages and works/index entry lines; no memoir, editorial, or club-document mentions; no new community facts absorbable, no conflicts to HOLD.
+
+## Corpus check (deepen pass 2026-09-15, slice 09150316-10: SKIP-with-reason)
+- Re-grep works + articles (Kevin Shue／許愷洋): zero corpus hits beyond this page's own record links; no memoir, editorial, or club-document mentions; nothing absorbable, no conflicts to HOLD.

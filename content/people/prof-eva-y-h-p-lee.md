@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-14
+last_reviewed: 2026-09-15
 ---
 # Prof. Eva Y.H. P. Lee (潘玉華教授)
 
@@ -66,3 +66,6 @@ SKIP-with-reason: corpus grep of works/articles returns only the works-index row
 
 ## Deepen — 2026-09-14 (slice 09142101-6)
 SKIP (re-run): grep of works/articles returns only her own TAH #1796 record (already wikilinked above) + works index; TA Archives intro adds no role facts. Nothing absorbable.
+
+## Deepen — 2026-09-15 (slice 09150316-7)
+SKIP-with-reason (3rd re-check): grep 潘玉華/Eva Y.H. P. Lee over content/works + content/articles returns only her own record [[works/taiwaneseamericanhistory-org/whos-who-1796-eva-y-h-p-lee|TAH #1796]] (already linked). No memoir or community mentions; nothing absorbable, no conflicts to HOLD.
