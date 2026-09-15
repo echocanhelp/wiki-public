@@ -14,6 +14,10 @@ last_reviewed: 2026-08-20
 - **Captured by:** source-continuity delta
 - **Source hub:** [[sources/presbyterian-church-in-taiwan||source]]
 
+## Related Pages
+
+- [[sources/presbyterian-church-in-taiwan]]
+
 ## Notes
 
 Auto stub from live-site watch. Expand only with cited facts.

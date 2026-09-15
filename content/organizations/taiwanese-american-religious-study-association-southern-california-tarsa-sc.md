@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-14
+last_reviewed: 2026-09-15
 ---
 # Taiwanese-American Religious Study Association Southern California TARSA-SC (台美人信仰與人文研習會)
 
@@ -27,7 +27,8 @@ The Taiwanese-American Religious Study Association Southern California (TARSA-SC
 ## Timeline
 - **2014-11** — First community record held by TAH (catalogued under the Chinese name 台美人信仰與人文研習會) — see [[works/taiwaneseamericanhistory-org/taiwanese-american-religious-study-association-southern-californiatarsa-sc|TAH #4 TARSA-SC record (2014-11-10)]]. HOLD: this record (2014-11-10) predates the recorded 2014-12 rename by one month — title date vs rename date unreconciled.
 - **2014-12** — Renamed in Chinese to 「台美人信仰與人文研習會」(Taiwanese-American Faith and Humanities Study Association) to better reflect its broader scope beyond formal religion; the original name carried 'Religious Study' to reflect its founding focus.
-- **2015-12** — Published 演講錄影第五集 (seminar video volume 5, DVD) — [[works/taiwaneseamericanhistory-org/924-e5-8f-b0-e7-be-8e-e4-ba-ba-e4-bf-a1-e4-bb-b0-e8-88-87-e4-ba-ba-e6-96-87-e7-a|TAH #924]].
+- **2015-01** — Activity/photo-album record catalogued under the ORIGINAL Chinese name 台美人宗教研習會 (TAH #36, published 2015-01-04) — [[works/taiwaneseamericanhistory-org/photo-albums-activities-36|TAH #36 (2015-01-04)]]. Corpus fact absorbed 2026-09-15: catalogued usage of the old name a month AFTER the recorded 2014-12 rename, alongside TAH #4's pre-rename usage of the new name. HOLD retained: rename date 2014-12 vs actual name usage 2014-11 / 2015-01 unreconciled — never auto-merged.
+- **2015-12** — Published 演講錄影第五集 (seminar video volume 5, DVD) — [[works/taiwaneseamericanhistory-org/924-e5-8f-b0-e7-be-8e-e4-ba-ba-e4-bf-a1-e4-bb-b0-e8-88-87-e4-ba-ba-e6-96-87-e7-a|TAH #924, 2015-12-20]] — and its 2015年刊 (magazine/雜誌) — [[works/taiwaneseamericanhistory-org/923-e5-8f-b0-e7-be-8e-e4-ba-ba-e4-bf-a1-e4-bb-b0-e8-88-87-e4-ba-ba-e6-96-87-e7-a|TAH #923, 2015-12-20]]. Both records confirm the association documented its seminar program annually in print and video.
 - **2017-06** — Association newsletter recorded in the TAH vault — [[works/taiwaneseamericanhistory-org/newsletter-of-tarsa-sc|TARSA-SC newsletter (2017-06-15)]].
 - **2020-05** — Seminar video archive (錄影紀錄) catalogued — [[works/taiwaneseamericanhistory-org/videos161|TAH #161 videos (2020-05-04)]], consistent with its practice of sharing seminars via YouTube.
 

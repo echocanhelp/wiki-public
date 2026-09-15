@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-14
+last_reviewed: 2026-09-15
 ---
 # Yunn-Shan Ma (馬韻珊)
 
@@ -54,6 +54,7 @@ _No filled family fields on the TAH profile._
 ## Vault records（deepen pass 2026-09-14）
 - 本人之 TAH 百科記錄兩則已入 vault（僅書目紀錄，發布 2015-05-24）：[[works/taiwaneseamericanhistory-org/200-yunn-shan-ma-e9-a6-ac-e9-9f-bb-e7-8f-8a-conductor-201505|TAH #200 Yunn-Shan Ma 馬韻珊, Conductor (2015/05)]]、[[works/taiwaneseamericanhistory-org/423-yunn-shan-ma-e9-a6-ac-e9-9f-bb-e7-8f-8a-201505|TAH #423 Yunn-Shan Ma 馬韻珊 (2015/05)]]。
 - 語料庫 grep 僅命中上述本人書目紀錄與 works/index，回忆录敘事無可吸收者；本頁人物敘事維持 TAH 原始紀錄。
+- SKIP 複核（deepen-x slice 09142320-2，2026-09-15）：全語料庫 grep（馬韻珊／Yunn-Shan Ma）仍僅命中 #200、#423 書目頁與 works/index，無回憶錄或社群材料可吸收，維持 SKIP。
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

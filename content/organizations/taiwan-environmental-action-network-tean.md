@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-14
+last_reviewed: 2026-09-15
 ---
 # Taiwan Environmental Action Network TEAN (台灣環境行動網)
 
@@ -44,3 +44,6 @@ planning); it serves as an overseas representative for numerous Taiwan-based civ
 ## Deepen pass 2026-09-14（slice 09141213-20）：SKIP-with-reason
 - 語料庫全庫檢索（TEAN／台灣環境行動網）僅得兩類結果：(a) 本組織之書目記錄頁 [[works/taiwaneseamericanhistory-org/taiwan-environmental-action-network-tean|TAH #22]]（2016-12-19 發布，僅書目、無內文，已見上連結）；(b) 一筆假性命中（台派即時報導存檔頁之 hexadecimal digest 字串恰含 "TEAN"，非實質提及）。
 - 回忆录／社群文獻無 TEAN 實質Material，無可吸收之新事實，維持 2026-09-10／09-11 兩輪既有內容不增不刪；雙向連結（Edgar Chun-Yi Lin、TASA／TSA Berkeley、Green Society）經本輪覆核皆存在且完整。
+
+## Deepen pass 2026-09-15（slice 09142319-25 re-sweep）
+- SKIP-with-reason：全庫重掃（TEAN／台灣環境行動網）命中僅 (a) 本人目錄書目頁、(b) 台派存檔頁 hexadecimal digest 假性命中（Z7DPT2MT**TEAN**T4...，已逐字驗證非實質提及）；無可吸收新事實，前輪雙向連結覆核仍完整。

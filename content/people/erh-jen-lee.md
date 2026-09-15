@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-14
+last_reviewed: 2026-09-15
 ---
 # Erh-Jen Lee (李爾仁)
 
@@ -60,3 +60,6 @@ _No filled family fields on the TAH profile._
 
 ## Deepen pass 2026-09-14（re-sweep）
 - SKIP-with-reason: 全語料庫重掃僅命中其本人 TAH #404 傳記條目（已吸收），無其他 memoir／會刊提及，無可吸收之新增社群事實。
+
+## Deepen pass 2026-09-15（slice 09142319-25 re-sweep）
+- SKIP-with-reason：全庫重掃（李爾仁／Erh-Jen Lee）僅命中本人 TAH #404 書目記錄與 works/index.md 目錄行，無新增 memoir／會刊提及；維持前輪結論。
