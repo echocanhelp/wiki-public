@@ -56,6 +56,7 @@ last_reviewed: 2026-09-15
 ## Connected in the Vault
 - Vault records about them: [[works/taiwaneseamericanhistory-org/ourjourneys17|17. 紐澤西的將軍日本餐廳 / 李正三 /09/2014]] · [[works/taiwaneseamericanhistory-org/ourjourneys58|58.回憶編印第一本《全美台灣同鄉通訊錄》的甘苦經過 / 陳希寬]]
 - （2026-09-14 二次 deepen pass：先前移除的 mystories75、ourjourneys12 連結經核實 slug 確實存在，已改列於上方 Role in the Community。）
+- （deepen-x slice 09150400-27 覆核 2026-09-15：重抓 works+articles，命中集合與既往各 pass 相同（ourjourneys12/17/58、mystories75、故事 #8、#272 記錄頁），全部已吸收並連結於上方，無新材料。）
 - 語料庫入口：[[sources/taiwaneseamericanhistory-org-story-corpus||TAH 故事語料庫]]。
 - Main encyclopedia record: [[works/taiwaneseamericanhistory-org/272-e5-8f-b0-e7-81-a3-e4-ba-ba-e7-9a-84-e7-bf-b9-e6-a5-9a-e9-83-ad-e4-be-86-e5-9|TAH #272 台灣人的翹楚—郭來哲博士、楊涵珺伉儷 / 李素鳳]]
 
