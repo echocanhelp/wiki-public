@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-14
+last_reviewed: 2026-09-15
 ---
 # Prof. Ben Liu (劉斌碩教授)
 
@@ -36,6 +36,8 @@ Accomplishment
 **Chen Wen-chen Memorial Foundation leadership.** Corpus records list Liu as 會長 (Chairman) of the 陳文成教授紀念基金會 (Professor Chen Wen-chen Memorial Foundation): he signed the overseas Taiwanese American organizations' joint statement 「拒一國兩制！海外台灣人社團：支持香港反對中國暴政」 (posted 2019-09-04) as the foundation's chairman, alongside 台灣人公共事務會 會長郭正光博士, 世界台灣人大會, 全美台灣同鄉會, and 王康陸紀念基金會 會長王康厚. See [[articles/taiwanjustice-net/2024/20240221122756_root_53455d7e13136092|Joint Taiwanese American organizations statement in solidarity with the people of Hong Kong (2019)]].
 
 **Movement service record.** The TAH directory records him as Chairman (理事長) of 美東台灣人夏令會 (Taiwanese American Conference East Coast, 2010) and President (2008–2009) of 北美洲台灣人教授協會總會 (NAPeA). His own encyclopedia records are archived at [[works/taiwaneseamericanhistory-org/whos-who-736-ben-liu|TAH #736 (2015-12-13)]] and [[works/taiwaneseamericanhistory-org/ota-288|TAH #288 (2019-05-20)]].
+
+- Corpus re-grep 2026-09-15: 劉斌碩 / Ben Liu hits in content/works + content/articles are his own TAH 百科 records (#736, #288), the works index, and the 2019 挺港 joint statement [[articles/taiwanjustice-net/2024/20240221122756_root_53455d7e13136092|海外台灣人社團聯合聲明]] — all already absorbed above. No new memoir material; no conflicts to HOLD.
 
 ## Family
 
