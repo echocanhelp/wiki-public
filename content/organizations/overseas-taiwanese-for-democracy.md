@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-14
+last_reviewed: 2026-09-15
 ---
 # Overseas Taiwanese for Democracy (海外台灣青年陣線)
 
@@ -28,6 +28,7 @@ Overseas Taiwanese for Democracy (海外台灣青年陣線) is a North American 
 
 ## Role in the Community
 
+- Per the corpus memoir [[works/taiwaneseamericanhistory-org/our-journeys-373|TAH #373 海外台灣學生運動與太陽花學運後政治]], OTD conferences were the networking hub that connected Taiwanese students studying across the U.S., with organising support from FAPA (Formosan Association for Public Affairs); the same first-hand account situates this student network alongside the New York Cafe Philo scene, hosted by software engineer [[people/hsin-cheng-hsiao|蕭新晟 Hsin-cheng Hsiao]].
 - 楊遠薰's column [[articles/taiwanjustice-net/2021/20211207123518_2017_07_24_海台青與黑客松-_-楊遠薰-2017-07-24_2c9cb76838702dd7|海台青與黑客松]] (taiwanjustice.net, 2017-07-24) is the community's primary account of the founding, based on an interview with member 林子堯 (University of Maryland economics Ph.D. student); 林子堯 currently has no vault page.
 
 ## Standing activities
@@ -46,3 +47,4 @@ Overseas Taiwanese for Democracy (海外台灣青年陣線) is a North American 
 ## Deepen pass (2026-09-14)
 - 新增既有頁連結：[[works/taiwaneseamericanhistory-org/overseas-taiwanese-for-democracy|TAH story #18 海外台灣青年陣線（2015-02-23 刊）]]、[[works/taiwaneseamericanhistory-org/otdnjus|TAH story #12 紐澤西分會紀錄]]、[[works/taiwaneseamericanhistory-org/our-journeys-373|TAH #373 海外台灣學生運動與太陽花學運後政治]]（vault 既有文獻，未新增外部事實）。
 - Corpus grep (slice 26): content/works + content/articles 命中僅限上述三個本身文獻頁（taiwanjustice 文章命中為雜湊字串誤配）——無其他社群材料可吸收。SKIP（無新事實）。
+- **2026-09-15 (DEEPEN-X09142319-21):** 前次 SKIP 結論修正——[[works/taiwaneseamericanhistory-org/our-journeys-373|TAH #373]] 文內含第一手記述（OTD 年會為全美台生聯網樞紐、FAPA 協助組織、與紐約 Cafe Philo／蕭新晟 場景相鄰），已吸收進 Timeline／Role in the Community 段。相關既有頁：[[people/hsin-cheng-hsiao|蕭新晟]]、[[people/brian-hioe|Brian Hioe]]（#373 文內連結之同期台生社群成員）。
