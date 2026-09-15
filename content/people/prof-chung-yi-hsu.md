@@ -66,3 +66,4 @@ _No filled family fields on the TAH profile._
 
 - 休士頓台灣人活動中心建館募款委員會委員：莊承業撰 [[works/taiwaneseamericanhistory-org/ourjourneys233|TAH #233 回顧休士頓台灣人活動中心的成立]]（2016-07）兩度列名於楊朝諭召集／主任委員之募款委員會（1992-01 募款餐會 258 人出席，募得 24 萬 8 千元），為其社區參與之直接一手記錄。
 - 著作收錄：為 [[works/taiwaneseamericanhistory-org/publications1085|TAH #1085 新時代的醫學人文]]（戴正德主編，2017-04）合著者之一。
+- Corpus sweep (slice 09141400-5, 2026-09-14): full grep (許重義／Chung-Yi Hsu／Chung Y. Hsu) over works+articles hits only the records already absorbed above — [[works/taiwaneseamericanhistory-org/ourjourneys233|TAH #233]] (中／英兩版同一記述) and [[works/taiwaneseamericanhistory-org/publications1085|TAH #1085]] — plus works/index.md catalogue rows. No new absorbable corpus facts; nothing else held.

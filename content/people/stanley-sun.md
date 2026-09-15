@@ -64,4 +64,4 @@ _No filled family fields on the TAH profile._
 ## Role in the Community
 
 - **USS Hornet 志工人社區紀錄**：TAH 語料庫收有博物館方致謝篇〈795. A Big Thanks to Stanley Sun from USS Hornet — Sea, Air and Space Museum!〉（2021-07-20），從社區角度印證本頁既載 2005–2020 年 Hornet 博物館義職（docent）十五年之貢獻：[[works/taiwaneseamericanhistory-org/my-stories-795||TAH #795（2021-07-20）]]。
-- **台大校友公共參與**：2018-07 以南台大氣系校友身分，連署〈抗議南加州台大校友會邀管中閔來年會做專題演講〉校友公開信（taiwanjustice.net 刊出）：[[articles/taiwanjustice-net/2018/20180721091303_2018_07_20_抗議-南加州台大校友會邀管中閔來年會做專題演講_a428dcebbceacf38||校友連署聲明（2018-07-20 刊）]]。
+- **台大校友公共參與**：2018-07 以台大校友身分連署〈抗議南加州台大校友會邀管中閔來年會做專題演講〉校友公開信（taiwanjustice.net 刊出）：[[articles/taiwanjustice-net/2018/20180721091303_2018_07_20_抗議-南加州台大校友會邀管中閔來年會做專題演講_a428dcebbceacf38||校友連署聲明（2018-07-20 刊）]]；連署名單將其列於地質系（孫獻祥(地質)），與本頁台大地質學士（1955）記載互為印證。HOLD: conflict — 連署名單記地質系 vs 本頁先前 deepen pass 記「大氣系校友」，不逕行改寫求學科系。

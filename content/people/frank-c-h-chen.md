@@ -60,6 +60,9 @@ Frank C.H. Chen (Conductor). Frank C.H. Chen holds a BS and MS degrees in Electr
 - 夫妻同為合唱指揮：夫人 [[people/amanda-hsu||許惠敏]] 之 TAH 記錄見 [[works/taiwaneseamericanhistory-org/whos-who-1707-amanda-hsu||Who's Who #1707]] 及 [[works/taiwaneseamericanhistory-org/musician407||TAH #407（conductor, 06/2017）]]；兩頁互證 1989 年夫妻共同創辦海天合唱團（Haitien Chorus，暫無獨立頁面）之記載。
 - DC 台裔社區脈絡：[[organizations/greater-washington-taiwan-culture-center||Greater Washington Taiwanese community]]。
 
+## Corpus re-check (slice 09141400-6, 2026-09-14) — SKIP
+- SKIP-with-reason: corpus grep (works/ + articles/) again returns only his own TAH entry pages (#408/#1706/#1708, already linked and absorbed above) plus index rows. No memoir/community material mentions him. Nothing absorbable; biography unchanged, last_reviewed current.
+
 ## Corpus re-check (slice 09141213-3, 2026-09-14)
 
 - Vault-wide grep (works/ + articles/): the only matches are his own three TAH entry pages (#408/#1706/#1708), already recorded above. Two near-miss hits were ruled out on inspection: [[works/taiwaneseamericanhistory-org/whos-who-1911-f-frank-chen|TAH #1911 Prof. F. Frank Chen 陳鳳山]] is a different person, and the "Frank Chen" mention in the Chien-Ming Wang story is not this subject. No community/memoir material adds facts. Nothing new absorbable this pass; biography unchanged.
