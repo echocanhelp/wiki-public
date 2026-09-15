@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-14
+last_reviewed: 2026-09-15
 ---
 # Winnie Lan-In Yang (楊嵐茵)
 
@@ -31,6 +31,10 @@ Dr. Lan-In Winnie Yang has enjoyed successes not only as a pianist, but also as 
 ## Employment
 - 1. Suzuki on the Island — 2013-present
 <!-- tah-tables:end -->
+
+## Role in the Community
+- Recorded twice in the TAH Foundation encyclopedia in July 2015: as a pianist/composer story ([[works/taiwaneseamericanhistory-org/236-winnie-lan-in-yang-pianist-composer|TAH #236, 07/2015]]) and as a second encyclopedia entry ([[works/taiwaneseamericanhistory-org/491-winnie-lan-in-yang-e6-a5-8a-e5-b5-90-e8-8c-b5-201507|TAH #491, 07/2015]]).
+- Corpus records (both bibliography-only) confirm the press-kit biography — performance and composition activity across Asia, Europe, and the U.S., and Suzuki teaching on the island since 2013 — but add no new community activity beyond the encyclopedia entries themselves.
 
 ## Family
 
