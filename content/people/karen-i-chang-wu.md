@@ -38,6 +38,11 @@ Accomplishment
 - **Mother:** Eileen Yi Yi Yang
 
 
+## Role in the Community (vault corpus, 2026-09-14)
+- **TACL-LA leadership:** the community essay [[works/taiwaneseamerican-org/reflecting-on-the-taiwanese-american-citizens-leagues-25-year-history-and-legacy|Reflecting on TACL's 25 Year History and Legacy]] (by Erica Ling, TACL 25th-anniversary gala, c. 2010) names "Former TACL-LA chapter President Karen Chang" directing volunteers at the 300-person gala — consistent with this page's LA/DC legal-and-philanthropy profile; absorbed as community role, identity held pending verification (name appears without hanzi in the source).
+- **Later community record:** [[works/taiwaneseamericanhistory-org/whos-who-739-karen-i-chang-wu|TAH #739 Who's Who profile]] (2015-12-20) and [[works/taiwaneseamericanhistory-org/223-karen-i-chang-wu-e5-bc-b5-e9-9f-b3-e9-9f-b3|TAH #223 Karen I. Chang Wu 張音音]] (2019-01-20) — two dated TAH records of the same person, 2015 and 2019.
+- Her pro-bono board work (Open Hands Legal Services; Taiwan Mission Foundation) aligns with the family record on [[people/eileen-chang|Eileen Chang 楊宜宜]]'s page; no press-kit biography added beyond corpus facts.
+
 ## Sources
 - [TAH #739 encyclopedia: 739. Karen I. Chang Wu 張音音律師](https://taiwaneseamericanhistory.org/whos-who-739-karen-i-chang-wu/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/karen-i-chang-wu/)

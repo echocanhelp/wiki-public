@@ -29,6 +29,8 @@ The TAH story corpus holds the organization's own publications as community reco
 
 These place the organization's print advocacy in the 1979-1981 window immediately after its founding, alongside its Midwest/East Coast camps and symposiums.
 
+Corroborating community memory: 吳木盛's essay [[works/taiwaneseamericanhistory-org/ourjourneys222|222. 秀才造反 / 吳木盛 /05/2016]] — a movement insider cataloguing 54 overseas Taiwanese magazines he collected across three decades — lists 民主台灣 among the papers circulating in the **late 1970s and early 1980s** (alongside 台灣青年、台獨、望春風、台灣通訊、人權通訊). This independently dates the support council's periodical to the same 1979-1984 window as the vault's own issue copies, and shows it was read across the diaspora's magazine ecosystem rather than in isolation.
+
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

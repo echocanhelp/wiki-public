@@ -51,6 +51,7 @@ Accomplishment
 - [[organizations/taiwanese-association-of-america-pittsburgh||TAA Pittsburgh]]
 
 ## Community Record (absorbed from vault sources)
+- 1970年代諾城時期：與夫人劉美娥常於週日邀請同鄉友人到家享用家常菜，被同鄉回憶記為「使我們不但沒有感到在異地的寂寞，反而有一種家的溫暖感覺」的熱情好客家庭之一 — [[works/taiwaneseamericanhistory-org/ourjourneys102|TAH #102 諾誠回憶]]
 - 1975 感恩節：參加諾城台灣同鄉會成立大會，因會中建言獲選為副會長（該會後改名東田納西台灣同鄉會）— [[works/taiwaneseamericanhistory-org/ourjourneys313|TAH #313 東田納西台灣同鄉會成立簡史]]、[[works/taiwaneseamericanhistory-org/ourjourneys102|TAH #102 諾誠回憶]]；夫人劉美娥回憶亦見於 #102（與 Wife: Meier Liu Lue 相符）
 - 1986：第八屆美東南區台灣人夏令會召集人（東田納西同鄉會主辦，主題「認識今日台灣」）— [[works/taiwaneseamericanhistory-org/ourjourneys245|TAH #245 美東南區台灣人夏令會簡史]]
 - 2009-09-19：聖地牙哥台灣中心新會館開幕時獲表揚的義工之一，獎牌「銘心鏤骨 賢士壯舉 錦繡吾館 文化傳承」— [[works/taiwaneseamericanhistory-org/ourjourneys162|TAH #162 聖地牙哥台灣中心開幕典禮與慶祝音樂會]]

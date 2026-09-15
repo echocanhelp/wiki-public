@@ -50,6 +50,7 @@ _No filled family fields on the TAH profile._
 - 兩篇出處頁均為 2015-09-05 發布、value band B、all-rights；傳記全文留 vault 出處頁，本頁僅持表欄事實（茱莉亞學士／碩士、天普大學 Esther Boyer 音樂學院任教）。
 - vault 內暫無茱莉亞音樂學院或天普大學專屬頁面，故此處不立連結（避免死鏈）。
 - deepen-x 09141213-21：語料庫檢索僅命中本頁兩篇 TAH 出處頁及 works index 條目行，無回憶錄／社群一手材料可吸收 — **SKIP（理由：無非出處頁語料）**。
+- deepen-x 09141500-7（2026-09-14 覆核）：再以「胡瀞云／Ching-Yun Hu」全庫檢索 works、articles，命中僅 [[works/index|works index]] 條目行，無新增回憶錄／社群材料 — 維持 **SKIP**。
 
 ## Sources
 - [TAH #572 encyclopedia: 572. Ching-Yun Hu 胡瀞云 / 2015/09](https://taiwaneseamericanhistory.org/572-ching-yun-hu-%e8%83%a1%e7%80%9e%e4%ba%91-201509/)
