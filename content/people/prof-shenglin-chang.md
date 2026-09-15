@@ -67,3 +67,4 @@ _No filled family fields on the TAH profile._
 
 ## Corpus re-check (deepen slice 09141400-13, 2026-09-14)
 - Slice 09141400-13 複核：corpus grep（content/works、content/articles）僅命中 [[works/taiwaneseamericanhistory-org/whos-who-1767-shenglin-chang|TAH #1767]]（已連結於上）與 works/index；memoir／通訊語料無任何提及，本輪 SKIP——無可吸收內容。
+- Slice 09142319-13 複核（2026-09-15）：再 grep 張聖琳/Shenglin Chang 仍僅命中 #1767 與 works/index，無新增社群素材；SKIP。

@@ -66,3 +66,4 @@ _No filled family fields on the TAH profile._
 
 - Vault-wide grep (works/ + articles/) returns only her own TAH entry work pages (#39, #1109 — already recorded above as bibliographic stubs) plus index.md adjacency. No memoir, newsletter, or community record mentions her. Nothing new absorbable this pass; biography unchanged.
 - SKIP (slice 09141400-9, 2026-09-14): re-grep for 黃亦芳/Yi-Fang Huang again returns only #39/#1109 work pages — no community material to absorb; note the disambiguation above (別頁 劉義芳) checked, no cross-mentions found.
+- SKIP (slice 09142319-13, 2026-09-15): re-grep again returns only #39/#1109 work pages plus works/index adjacency; no memoir or newsletter mentions; biography unchanged.

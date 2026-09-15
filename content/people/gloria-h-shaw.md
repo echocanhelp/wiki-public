@@ -72,3 +72,7 @@ _Sourced from the TAH Who's Who profile above; no external material added._
 - [[works/taiwaneseamericanhistory-org/whos-who-2196-gloria-h-shaw||TAH encyclopedia #2196: Gloria H. Shaw 李雪芬]]
 - [[works/taiwaneseamericanhistory-org/198-gloria-h-shaw||TAH encyclopedia #198: Gloria H. Shaw 李雪芬]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+## Corpus re-check (slice 09142319-13, 2026-09-15)
+
+- Re-grep 李雪芬/Gloria H. Shaw returns exactly the pages already linked in Role in the Community above (#2196, #198, #109 學無止境, #983 經歷生命的錘鍊, Pew 聲明) plus works/index — all previously absorbed; no new community material this pass.
