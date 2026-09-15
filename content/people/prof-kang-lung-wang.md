@@ -62,3 +62,6 @@ Prof. Kang-Lung Wang 王康隆教授 – History of Taiwanese American (T.A. Arc
 
 ## Deepen-x 2026-09-15（slice 09150400-28）
 - SKIP-with-reason：語料庫重掃（王康隆／Kang-Lung Wang）命中集合不變，僅出處頁 [[works/taiwaneseamericanhistory-org/whos-who-1787-kang-lung-wang|TAH #1787]]（書目記錄）及 works/index；community／memoir 材料零命中，無可吸收事實。
+
+## Deepen-x 2026-09-15（slice 09150500-18）
+- SKIP-with-reason：語料庫重掃（王康隆／Kang-Lung Wang）命中集合不變，僅出處頁 [[works/taiwaneseamericanhistory-org/whos-who-1787-kang-lung-wang|TAH #1787]]（書目記錄）及 works/index；community／memoir 材料零命中，無可吸收事實。

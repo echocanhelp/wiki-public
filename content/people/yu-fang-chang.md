@@ -53,6 +53,8 @@ Corpus re-check (2026-09-15, deepen-x slice 09142320-7): fresh grep of content/w
 
 Corpus re-check (2026-09-15, deepen-x slice 09150400-28): re-grep of works + articles — hit set unchanged (own bibliographic pages [[works/taiwaneseamericanhistory-org/whoswho1446|TAH #1446]], [[works/taiwaneseamericanhistory-org/musician377|TAH #377]] + works index only). SKIP, no absorbable community facts.
 
+Corpus re-check (2026-09-15, deepen-x slice 09150500-18): re-grep of works + articles — hit set unchanged ([[works/taiwaneseamericanhistory-org/whoswho1446|TAH #1446]], [[works/taiwaneseamericanhistory-org/musician377|TAH #377]] + works index only). SKIP, no absorbable community facts.
+
 ## Sources
 - [TAH #1446 encyclopedia: 1446. Yu-Fang Chang 張玉芳 / 2016/12](https://taiwaneseamericanhistory.org/whoswho1446/)
 - [TAH #377 encyclopedia: 377. Yu-Fang Chang張玉芳 , Cellist / 2016/12](https://taiwaneseamericanhistory.org/musician377/)
