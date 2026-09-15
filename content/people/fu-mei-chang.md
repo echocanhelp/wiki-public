@@ -36,8 +36,10 @@ last_reviewed: 2026-09-15
 - Through 康寧祥's 1974 visit to the U.S., she became one of the Bay Area community leaders (with 艾琳達) who maintained long-term ties with the island's tang-wai (outside) opposition movement [[works/taiwaneseamericanhistory-org/our-journeys-357|Our Journeys 357 (協志會)]].
 - In April 1978, the Bay Area churches, 協志會 and the 同鄉聯合會 formed the "Joint Committee of Taiwanese American for 1980 U.S. Census" and elected 張富美 as one of seven commissioners, urging Taiwanese to write in "Taiwanese American" on the census — a landmark in Taiwanese American identity-building [[works/taiwaneseamericanhistory-org/our-journeys-350|Our Journeys 350]].
 - In 1993 she is recorded as National Assembly Member (張富美, legislator Annette Lu同期) attending the "China: A Turning Point in History" seminar at the University of Minnesota and speaking for the Taiwanese American community [[works/taiwaneseamericanhistory-org/ourjourneys123-eng|Our Journeys 123 (EN)]].
+- A 北美台灣人教授協會 retrospective on the post-1990 return wave lists 國代張富美 among 台美人 who entered island politics alongside 台南縣長陳唐山、立委蔡同榮、許添財 — a second independent memoir record for the 國民大會代表 identity [[works/taiwaneseamericanhistory-org/ourjourneys259|Our Journeys 259]].
 - HOLD: corpus identifies a 国民大会代表 "Chang Fu-Mei / 張富美" in 1993 (ourjourneys123-eng) — whether this is the same person as this lawyer/educator profile is unconfirmed; not auto-merged.
 - Community profiles: [[works/taiwaneseamericanhistory-org/145-dr-fu-mei-chang|TAH record 145]], [[works/taiwaneseamericanhistory-org/19-dr-fu-mei-chang-e5-bc-b5-e5-af-8c-e7-be-8e-e5-8d-9a-e5-a3-ab-the-first-presid|TAH record 19]].
+- 語料庫再比對（deepen-x slice-30，2026-09-15）：新增 ourjourneys259 佐證條目；1993 國民大會代表身分維持 HOLD，未自動併入。
 
 ## Family
 

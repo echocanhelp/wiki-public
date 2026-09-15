@@ -58,3 +58,6 @@ _No filled family fields on the TAH profile._
 
 ## Deepen pass (2026-09-15)
 - SKIP-with-reason：語料庫 grep（楊惠婷／Hui-Ting Yang）僅命中本人 TAH #692／#315 書目記錄與 works/index 目錄列項，無回憶錄或社群事跡可吸收；TAH 記錄已全數吸收，僅更新複核日期。
+
+## Deepen pass (2026-09-15, slice-30)
+- SKIP-with-reason：命中集不變——本人 TAH #692／#315 書目記錄與 works/index 目錄列項，無回憶錄素材可吸收。

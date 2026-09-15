@@ -67,3 +67,4 @@ _No filled family fields on the TAH profile._
 ## deepen 2026-09-14
 - 語料庫再比對：除已連結的 TAH #295 外，另有本人傳記記錄 [[works/taiwaneseamericanhistory-org/20649||TAH #644 Shu-Hui Janet Tsai 蔡淑慧／2015/10]]（2015-10-03 發布）。除本人 Record 外，回憶錄語料庫中無他人記述可吸收之社群事績。
 - 語料庫再比對（deepen-x slice-13，2026-09-15）：蔡淑慧／Janet Tsai 精確 grep 僅命中本人 #295、#644 存檔頁（均已連結）。維持 SKIP-with-reason；無新增社群事實。
+- 語料庫再比對（deepen-x slice-30，2026-09-15）：命中集不變（#295／#644 + works/index 目錄列項），無他人記述可吸收。維持 SKIP-with-reason。

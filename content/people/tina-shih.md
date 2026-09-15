@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-14
+last_reviewed: 2026-09-15
 ---
 # Tina Shih (施雅婷)
 
@@ -51,3 +51,6 @@ _No filled family fields on the TAH profile._
 
 ## Network
 - [[organizations/presbyterian-church-in-taiwan||PCT]] — TAH Who’s Who
+
+## Deepen pass (2026-09-15, slice-30)
+- 語料庫再比對：施雅婷／Tina Shih 命中集與既有記錄完全一致（本人 TAH #1137／#173／#202 + 2016台美小姐開訓稿及其 2024 存檔，均已吸收並連結）。SKIP-with-reason；無新增社群事實，僅更新複核日期。
