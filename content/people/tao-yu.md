@@ -78,3 +78,4 @@ Both are band-B bibliographic records; full text stays in the source archive.
 - 本 slice 重掃（余道昌／Tao Yu，works/ + articles/）：命中集合不變——僅自有書目頁 #6、#677 與 works/index.md，無其他 memoir／會刊提及；無可吸收之新社群事實，無衝突須 HOLD。
 
 - Slice 09150400-16 (2026-09-15)：重掃命中集合不變，SKIP-with-reason。
+- Slice 09150500-13 (2026-09-15)：重掃命中集合不變（僅自有書目頁 #6、#677 與 works index），SKIP-with-reason。

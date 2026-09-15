@@ -67,3 +67,6 @@ _No filled family fields on the TAH profile._
 
 ## Deepen-x 2026-09-15 (slice 09150400-23)
 - **SKIP-with-reason（第三次重掃，結果一致）：** `龔行健|Hsing-Jien Kung` 命中仍僅本人條目 [[works/taiwaneseamericanhistory-org/whos-who-1781-hsing-jien-kung|TAH #1781]]（已連結）及 works/index 條目行，無回憶錄／社群正文可吸收。
+
+## Deepen-x 2026-09-15 (slice 09150500-13)
+- **SKIP-with-reason（第四次重掃，結果一致）：** `龔行健|Hsing-Jien Kung` 命中仍僅本人條目 [[works/taiwaneseamericanhistory-org/whos-who-1781-hsing-jien-kung|TAH #1781]] 及 works/index 條目行，無新素材可吸收。
