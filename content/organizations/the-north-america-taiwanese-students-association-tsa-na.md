@@ -37,3 +37,4 @@ The North America Taiwanese Students’ Association (TSA-NA) is a non-profit org
 - 複核（deepen-x slice-13，2026-09-15）：精確 grep 僅命中本組織存檔頁；first-136、publications1220/1221、NATSA、Rutgers TSA、UW TSA 等命中為近似社名（NATSA 台灣研究協會、各校地方 TSA）非本組織，無可補充之會史材料。維持 SKIP-with-reason。
 - 再核（deepen-x slice-28，2026-09-15）：語料庫 grep 命中集不變（僅本條目存檔頁 + works/index），維持 SKIP-with-reason。
 - 再核（deepen-x slice-18，2026-09-15）：語料庫 grep（TSA-NA／北美台灣學生協會／North America Taiwanese Students）命中集不變（僅本條目存檔頁 + works/index），維持 SKIP-with-reason。
+- 再核（deepen-x slice 09150700-13，2026-09-15）：grep 命中集不變（僅本條目存檔頁 + works/index），維持 SKIP-with-reason。
