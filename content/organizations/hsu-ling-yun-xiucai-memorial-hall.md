@@ -9,7 +9,7 @@ tags:
   - memorial
   - cultural-heritage
 verification_status: verified
-last_reviewed: 2026-09-14
+last_reviewed: 2026-09-15
 ---
 
 # Hsu Ling-yun Xiucai Memorial Hall (許凌雲秀才紀念館)
@@ -54,6 +54,10 @@ Descendant Hsu Ya-chin (許雅琴) led the heritage application (reviewed Mar 20
 ## Vault records (deepen pass 2026-09-14, slice 8)
 
 - SKIP-with-reason：corpus 檢索「許凌雲／Hsu Ling-yun／秀才紀念館」於 works/、articles/ 零命中，無可吸收之社團/語料事實；既有內容與連結已於 slice 1、16 兩次 deepen pass 複核通過。
+
+## Vault records (deepen pass 2026-09-15, slice 11)
+
+- SKIP-with-reason：「許凌雲／Hsu Ling-yun」於 works/、articles/ 第四次全語料檢索仍零命中（無成語誤合以外的命中），無回憶錄或社團刊物敘事涉及本館；既有內容與連結經 slice 1、8、16 三次複核通過。
 
 ## Sources
 

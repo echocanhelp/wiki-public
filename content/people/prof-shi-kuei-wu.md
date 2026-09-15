@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-14
+last_reviewed: 2026-09-15
 ---
 # Prof. Shi-Kuei Wu (吳錫圭教授)
 
@@ -62,3 +62,4 @@ last_reviewed: 2026-09-14
 
 - Vault-wide grep (works/ + articles/) returns only this subject's own TAH entry work pages (#10, #13, #1561 — band-B bibliographic stubs, already linked above) and the already-linked Plains Region Fall Camp record; the index.md hit is adjacency noise. No memoir or newsletter narrative adds facts beyond the current page. Nothing new absorbable this pass; biography unchanged.
 - Corpus re-check (slice 09141400-7, 2026-09-14): grep of works/ + articles/ again hits only his own TAH #13/#1561 work pages and the index.md bibliographic lines — all already linked. SKIP: no new absorbable corpus material.
+- Corpus re-check (slice 09142319-11, 2026-09-15): grep 再核，命中僅本人 TAH #10/#13/#1561 書目級工作頁（均已連結於 Vault records 區）；no memoir or newsletter narrative adds facts. SKIP-with-reason: nothing absorbable; last_reviewed refreshed.

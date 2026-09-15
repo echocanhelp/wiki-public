@@ -54,6 +54,7 @@ Accomplishment
 - Slice 16 複核（2026-09-14）：配偶頁 [[people/dr-william-p-tseng||Dr. William P. Tseng]] 與出處工作頁 [[works/taiwaneseamericanhistory-org/whos-who-1863-caroline-chien||TAH #1863]] 均已存在且互列；靜宜大學、Columbia、New Jersey Art Foundation、Lions Clubs 新澤西州章無獨立頁，依規則不新建。
 - Slice 09141213-2 語料複核（2026-09-14）：全庫 grep 簡淑津/Caroline Chien 僅命中本身出處頁 [[works/taiwaneseamericanhistory-org/whos-who-1863-caroline-chien||TAH #1863]] 與 works index；無回憶錄或文章提及，無可吸收新事實，無衝突須 HOLD。
 - Slice 09141400-10 語料複核（2026-09-14）：再grep結果同上——僅本身出處頁與 works index，配偶頁外無語料素材；SKIP，無可吸收事實。
+- Slice 09142319-16 語料複核 (2026-09-15): grep 僅命中本身出處頁 [[works/taiwaneseamericanhistory-org/whos-who-1863-caroline-chien|TAH #1863]] 與 works index; 無回憶錄提及，無可吸收新事實——SKIP。
 
 ## Sources
 - [TAH #1863 encyclopedia: 1863. Caroline Chien 簡淑津](https://taiwaneseamericanhistory.org/whos-who-1863-caroline-chien/)

@@ -59,3 +59,4 @@ _No filled family fields on the TAH profile._
 - 吸收本頁既有 TAH 傳記與 Vault 出處所載：邁阿密國際大學表演藝術行政碩士 → Arizona Lyric Opera 舞台總監 → 亞利桑那州立大學賀伯格藝術學院聲樂表演碩士、全額獎學金攻讀並於 2006 年取得音樂藝術博士；與 ASU 巴洛克室內樂團合作演出巴洛克清唱劇及後期浪漫／現代聲樂室內樂；任教 Sierra 音樂藝術學校並協助社區、學校、教會成立合唱團與音樂劇團——無新增外部事實。
 - 出處改以 Vault 既有頁連結（見上「Vault Holdings」#269、#540）；邁阿密、Phoenix、Sierra 學校無 Vault 頁面，不新增虛構連結。
 - **DEEPEN-X09141300-21:** 語料庫重掃（works + articles）僅命中本人兩則 TAH 百科條目（#269、#540，已列於上方 Vault Holdings）及索引頁；無回憶錄提及、無可吸收之新事實——SKIP，僅留此紀錄。
+- Slice 09142319-16 (2026-09-15): 語料重掃僅命中本人 #269、#540 兩則百科條目（已列於 Vault Holdings）及索引頁；無可吸收新事實——SKIP。
