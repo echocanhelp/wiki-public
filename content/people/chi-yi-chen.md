@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-14
+last_reviewed: 2026-09-15
 ---
 # Chi Yi Chen (陳志宐)
 
@@ -58,3 +58,5 @@ _No filled family fields on the TAH profile._
 
 ## Network
 - [[organizations/presbyterian-church-in-taiwan||PCT]] — TAH Who’s Who
+## Deepen-x 2026-09-15 (slice 09142319-30)
+- SKIP-with-reason: corpus re-grep（陳志宐／Chi Yi Chen）hits only own records [[works/taiwaneseamericanhistory-org/whoswho1704|TAH #1704]]、[[works/taiwaneseamericanhistory-org/musician406|TAH #406]]（書目記錄）— no memoir/community material absorbable.

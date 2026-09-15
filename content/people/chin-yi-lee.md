@@ -51,6 +51,7 @@ _No filled family fields on the TAH profile._
 - [[works/taiwaneseamericanhistory-org/whoswho1092||TAH #1092: Chin-Yi Lee 李琹怡 (2016/06)]]
 - [[works/taiwaneseamericanhistory-org/musician25||TAH #25: Chin-Yi Lee 李琹怡, Pianist (2014/10)]]
 - corpus sweep 2026-09-14：works/、articles/ 全庫僅 works/index.md 書目索引命中本人兩條既有一手記錄頁，無本人著述、紀念文或活動報導等可吸收之社群材料——社群章節 SKIP-with-reason。
+- deepen-x 09142319-31（2026-09-15 覆核）：檢索僅命中自身 TAH 出處頁 #25、#1092 與 works index 條目行，無社群一手材料 — 維持 **SKIP**。
 
 ## Sources
 - [TAH #1092 encyclopedia: 1092. Chin-Yi Lee 李琹怡 / 2016/06](https://taiwaneseamericanhistory.org/whoswho1092/)
