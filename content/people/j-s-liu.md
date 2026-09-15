@@ -62,4 +62,5 @@ _No filled family fields on the TAH profile._
 - publisher／語料庫：[[organizations/tah-foundation||TAH Foundation]]、[[sources/taiwaneseamericanhistory-org-story-corpus||TAH story corpus]]。
 - 複核（2026-09-14）：TAH #1544、#389 出處頁於 vault 僅存書目記錄，無本页傳記以外之新事實；1997 年合奏之小提琴家劉慧婷、1998 年演出場地十方樂集與國立台北藝術大學目前無專屬頁，依規則不建新頁。本页時序與 tah-tables 一致。
 - Slice 09141400-14 複核（2026-09-14）：corpus grep（works＋articles）仍僅命中本人 #1544、#389 書目記錄與 works/index，memoir 語料無新事實，本輪無可吸收內容。
+- Slice 09150316-21 複核（2026-09-15）：corpus grep（`劉佳欣|J. S. Liu`）命中集不變——僅本人書目頁 [[works/taiwaneseamericanhistory-org/whoswho1544||#1544]]、[[works/taiwaneseamericanhistory-org/musician389||#389]] 與 works/index，出處頁僅存 Identity Snapshot 書目記錄；memoir 語料無新事實，本輪 SKIP-with-reason，無冲突需 HOLD。
 - Slice 09142319-20 複核（2026-09-15）：corpus grep（`劉佳欣|J. S. Liu`）仍僅命中 #1544、#389 書目頁與 works/index；memoir 語料無新事實，本輪無可吸收內容。

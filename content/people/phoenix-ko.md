@@ -51,6 +51,7 @@ Private phones and LINE U-ids are **not** published here.
 - **2026-09-14** — DEEPEN-X slice 09141213-4 corpus sweep: grep across works/ and articles/ for 柯貝昀／Phoenix Ko returns zero hits outside this page and the org-chart page; no memoir or article material to absorb.
 - **2026-09-14** — DEEPEN-X slice 09141400-15 corpus sweep: grep across works/ and articles/ for 柯貝昀／Phoenix Ko again returns zero hits; SKIP (no corpus material beyond the 2025 org chart, already fully absorbed).
 - **2026-09-15** — DEEPEN-X slice 09142319-20 corpus sweep: grep across works/ and articles/ for 柯貝昀／Phoenix Ko returns zero hits again; SKIP (2025 org chart + owner confirmation 2026-08-03 remain the only sources, fully absorbed).
+- **2026-09-15** — DEEPEN-X slice 09150316-18 corpus sweep: grep for 柯貝昀／Phoenix Ko returns zero hits a third time; SKIP (no memoir or article material beyond the 2025 org chart).
 
 ## Network
 
