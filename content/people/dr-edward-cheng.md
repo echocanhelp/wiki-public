@@ -61,4 +61,8 @@ Accomplishment
 ## Deepen pass (2026-09-14)
 - 家人欄已連結既有頁：[[people/wendy-cheng||Wendy 鄭昕]]、[[people/eric-cheng||Eric 鄭晧]]（TAH 紀錄所載子女，未新增外部事實）。
 - deepen-x 09142319-23（覆核）：語料再檢命中皆已吸收於上列 Role in the Community（#26、#26-eng、#299、#300、#110），另有本人書目頁 [[works/taiwaneseamericanhistory-org/whos-who-347-edward-cheng|#347]] — 無新增事實，SKIP。
-- deepen-x 09150316-20（覆核）：語料再檢（漢名＋英文名）命中僅 #347、#26、#26-eng、#299、#300、#110 — 全部已吸收於上方 Role in the Community；無新事實，SKIP。
+## Deepen-x re-check (slice 09150400-17, 2026-09-15)
+- 語料再檢（漢名＋英文名）新增兩筆先前未連結之本人著作／追思記錄，已吸收：
+  - 本人文學創作：[[works/taiwaneseamericanhistory-org/515-e7-b7-b4-e7-bf-92-e8-a9-a9-e9-84-ad-e5-be-b7-e6-98-8c201411literature-e6-96-|TAH #515 練習詩／鄭德昌（2014/11 文學）]] — 與既有随笔 #110《綠色瞬間》並列，證明其留有文學創作於故事庫。
+  - 逝後追思影像專輯：[[works/taiwaneseamericanhistory-org/photo-albums-activities-94|TAH 活動相簿 #94 In memory of Dr. Edward Cheng 鄭德昌博士生命的禮讚（2015-07-23）]] — 與 #299／#300 追思文同日範圍發布，進一步支持歿於 2015 年之推定（HOLD: 確切歿日仍未見於史料）。
+- 其餘命中（#180、#347、#26、#26-eng、#299、#300、#110、works 索引）均已吸收於上方 Role in the Community，無新事實。

@@ -64,3 +64,6 @@ _No filled family fields on the TAH profile._
 
 ## Deepen pass (2026-09-15, slice 09150316-30)
 - **SKIP-with-reason（第三次語料庫重掃）：** `張凱晶|Kai-Ching Chang|张凯晶` 於 content/works、content/articles 命中與前兩次完全相同（僅 TAH #29、#512 書目頁及 works/index 條目行），無回憶錄/社群正文可吸收；未新增事實、未引入衝突。
+
+## Deepen-x 2026-09-15 (slice 09150400-21)
+- SKIP-with-reason: corpus re-grep（張凱晶／Kai-Ching Chang／张凯晶, works+articles）命中集與歷次相同——僅書目頁 [[works/taiwaneseamericanhistory-org/29-kai-ching-chang-e5-bc-b5-e5-87-b1-e6-99-b6-piano|TAH #29]]、[[works/taiwaneseamericanhistory-org/512-kai-ching-chang-e5-bc-b5-e5-87-b1-e6-99-b6-201507|TAH #512]]；無可吸收素材。

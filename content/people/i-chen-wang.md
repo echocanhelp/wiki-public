@@ -65,3 +65,6 @@ Page is saturated at its single cited source. None of the named entities (teache
 
 ## Deepen-x re-check (slice 09150316-32, 2026-09-15)
 - SKIP-with-reason：語料庫檢索（works/articles）第三次復核，命中僅本人書目頁 [[works/taiwaneseamericanhistory-org/436-i-chen-wang-violinist-09-2019|TAH #436]] 及 works/index 條目行；同批 Formosan Chamber Music Society 音樂會記錄未直接提及本人，無回憶錄/社群第一手材料可吸收。
+
+## Deepen-x 2026-09-15 (slice 09150400-21)
+- SKIP-with-reason: corpus re-grep（I-Chen Wang, works+articles）命中僅本人書目頁 [[works/taiwaneseamericanhistory-org/436-i-chen-wang-violinist-09-2019|TAH #436]]；同批 Formosan Chamber Music Society 記錄未直接提及本人，無第一手社群材料可吸收。
