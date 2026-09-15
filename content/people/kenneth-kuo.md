@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-14
 ---
 # Kenneth Kuo (郭虔哲)
 
@@ -34,6 +34,9 @@ Hailed by the Sydney Morning Harold as a “cellist with great facility and conf
 ## Family
 
 _No filled family fields on the TAH profile._
+
+## Role in the Community
+Kuo appears twice in the TAH encyclopedia corpus as a Taiwanese American classical-music figure, both records published 2015-11-14: [[works/taiwaneseamericanhistory-org/319-kennth-kuo-e9-83-ad-e8-99-94-e5-93-b2-cellist-201511|319. Kennth Kuo郭虔哲, cellist / 2015/11]] and [[works/taiwaneseamericanhistory-org/699-kenneth-kuo-e9-83-ad-e8-99-94-e5-93-b2-201511|699. Kenneth Kuo 郭虔哲/ 2015/11]]. The parallel accounts document him both as an international cellist (Julia 1996, Yale School of Music 1999; New Haven Symphony/Orchestra; founder-president of the Connecticut School of Music) and as part of the Taiwanese American arts diaspora the society tracks. HOLD: entry 319 spells his name "Kennth Kuo" in the source title — source-side typo, not a second person.
 
 ## Sources
 - [TAH #319 encyclopedia: 319. Kennth Kuo郭虔哲, cellist / 2015/11](https://taiwaneseamericanhistory.org/319-kennth-kuo%e9%83%ad%e8%99%94%e5%93%b2-cellist-201511/)

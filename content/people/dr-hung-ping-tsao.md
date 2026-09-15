@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-14
 ---
 # Dr. Hung-ping Tsao (曹恆平博士)
 
@@ -34,6 +34,17 @@ last_reviewed: 2026-08-17
 ## Family
 
 _No filled family fields on the TAH profile._
+
+## Role in the Community
+Tsao is a recurring author in the TAH publications corpus — an applied-mathematics professor and actuary who became a published essayist on Taiwan's political history for the society. His Who's Who account is held as [[works/taiwaneseamericanhistory-org/whos-who-197-hung-ping-tsao|197. Dr. Hung-ping Tsao 曹恆平博士]] (published 2015-01-14). Authored works held in the corpus:
+- [[works/taiwaneseamericanhistory-org/360-e5-81-b4-e8-ba-ab-e6-b0-91-e5-9c-8b-e7-94-b1-e9-81-b7-e5-8f-b0-e8-87-b3-e7-9|360. 側身民國：由遷台至百年]] — 2012/09, 文學
+- [[works/taiwaneseamericanhistory-org/359-e5-8f-b0-e7-81-a3-e6-94-bf-e6-b2-bb-e8-97-8d-e5-9c-92-e7-b6-a0-e6-8c-87-e6-9|359. 台灣政治：藍園綠指撫紅塵]] — 2013/05, 文學
+- [[works/taiwaneseamericanhistory-org/485-e7-8e-89-e6-a8-93-e6-ae-98-e5-a4-a2-ef-bc-9a-e7-9f-b3-e9-a0-ad-e6-96-b0-e8-a|485. 玉樓殘夢：石頭新記]] — 2014/12, 文學
+- [[works/taiwaneseamericanhistory-org/publications1217|1217. 閱失近史隨筆]] — 2017/01
+- [[works/taiwaneseamericanhistory-org/publications-1351|1351. 被強加的台灣政治歷史]] — 2021-02-04
+
+## Timeline
+- 2012–2021 — five TAH-published works spanning commentary on the Republic on Taiwan, Taiwan politics, and memoir: a sustained engagement with the society's publication program.
 
 ## Sources
 - [TAH #197 encyclopedia: 197. Dr. Hung-ping Tsao 曹恆平博士](https://taiwaneseamericanhistory.org/whos-who-197-hung-ping-tsao/)

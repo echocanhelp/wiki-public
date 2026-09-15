@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-14
 ---
 # I-Uen Wang Hwang (王怡雯)
 
@@ -25,6 +25,15 @@ I-Uen Wang Hwang was born in Tainan, Taiwan and moved to the United States in 19
 ## Education
 - Taiwan National Normal University — 1991 — B.S. music composition — University of Pennsylvania — 1998 — Ph.D. music composition
 <!-- tah-tables:end -->
+
+## Role in the Community
+
+Hwang was profiled twice in the TAH Foundation encyclopedia, documenting her as part of the Taiwanese American musician community:
+
+- [[works/taiwaneseamericanhistory-org/59-i-uen-wang-hwang-composer|59. I-Uen Wang Hwang 王怡雯, Composer]] (2014-10-11) — featured in a series on Taiwanese American classical musicians alongside Formosa Quartet (福爾摩沙四重奏), cellist Carol Ou 歐逸青, and pianist Nam Yeung 楊楠.
+- [[works/taiwaneseamericanhistory-org/232-i-uen-wang-hwang-e7-8e-8b-e6-80-a1-e9-9b-af-201501|232. I-Uen Wang Hwang 王怡雯]] (2015-01-26) — a second encyclopedia entry.
+
+No further community/corpus material found in the memoir corpus beyond these records.
 
 ## Family
 
