@@ -62,4 +62,5 @@ _No filled family fields on the TAH profile._
 - [[works/taiwaneseamericanhistory-org/whoswho1445||TAH #1445 record]] — bibliographic record (same 2016-12-26 publication date, same profile cycle)
 - Vault note: both records carry the same dates as the tables on this page — B.M. Juilliard 2000, M.M. Manhattan School of Music 2002 (the year of her Weill Recital Hall debut as an Artists International New York Debut Award winner), D.M.A. Boston University 2007.
 - No vault pages exist yet for The Juilliard School, Manhattan School of Music, Boston University, Nuance Chamber Ensemble, C'est Bon Chamber Music Academy, Jou Music Institute, or Encore Music & Arts; her Sunnyvale base is Bay Area, outside the vault's Orange County Taiwanese-association cluster.
+- Slice 09141400-12 語料複核（2026-09-14）：SKIP-with-reason——重跑 grep 謝孟容/Amy Hsieh（works+articles）結果不變，僅命中本身出處頁與 works index；無可吸收新事實。
 - Slice 09141213-2 語料複核（2026-09-14）：全庫 grep 謝孟容/Amy Hsieh 僅命中本身兩篇出處頁（TAH #376、#1445）與 works index；無回憶錄或文章提及，無可吸收新事實，無衝突須 HOLD。
