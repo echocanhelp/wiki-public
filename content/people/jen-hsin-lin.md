@@ -40,6 +40,7 @@ Jen Hsin Lin is a Taiwanese American visual artist based in Orange County, Calif
 - 美國展演: Golden West College、Saddleback College、Irvine Valley College、Bistango、Irvine Fine Arts Center、Orange County Center for Contemporary Art(會員)
 - 台灣展演: 台北市立美術館、高雄中正文化中心、台南市立文化中心
 - 巡迴展: 林人信現代藝術巡迴展
+- HOLD: conflict — vault 圖錄 #974 標題署名「JEN HSIN BOOTH (1990-1993)」vs 本人记录署名「JEN HSIN LIN」；不自動合併姓名，保留兩寫法待查證
 
 ## Family
 
@@ -54,6 +55,7 @@ _No filled family fields on the TAH profile._
 
 - [[works/taiwaneseamericanhistory-org/artist60-jen-hsin-lin|TAH artist #60 encyclopedia]] — 林人信 JEN HSIN LIN（2016-03 刊）
 - [[works/taiwaneseamericanhistory-org/whos891-jen-hsin-lin|TAH Who's Who #891]] — JEN HSIN LIN 林人信（2016-03 刊）
+- [[works/taiwaneseamericanhistory-org/publications974|TAH publications #974 — 林人信現代藝術巡迴展圖錄]] — 「林人信現在藝術巡迴展 OIL PAINTINGS BY JEN HSIN BOOTH (1990-1993)」，1993-09 巡迴展文獻（2016-03-15 入庫）；早期創作年代 1990–1993 由此圖錄記錄坐實
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

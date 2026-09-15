@@ -60,3 +60,9 @@ last_reviewed: 2026-09-14
 ## Network
 - [[organizations/stanford-taiwanese-student-association||Stanford TSA]] — Stanford BS 1991, per Education table
 - [[organizations/taiwanese-cultural-society-at-stanford-university||Taiwanese Cultural Society at Stanford]] — same Stanford years (1991 B.S.)
+
+## Role in the Community (deepen slice 09141400-13, 2026-09-14, corpus)
+- Corpus check over works+articles: beyond the two own-name TAH records (#339, #969, both linked above), the only memoir/newsletter material is the 大洛杉磯台灣會館台灣學校 classical-music appreciation report, preserved in two copies in the vault:
+  - [[articles/taiwanjustice-net/2023/20230129123134_2016_06_06_大洛杉磯台灣會館台灣學校_古典音樂欣賞_-六月_a244776e9eb57979||2016/06 會館台灣學校 古典音樂欣賞課報告 (taiwanjustice-net 2023 转载)]]
+  - [[articles/taiwanjustice-net/2024/20240522054349_root_b4e27e98036e15d0||同文第二份 (taiwanjustice-net 2024 转载)]]
+- Community fact absorbed: 2016/06, at the TA House Taiwanese School music-appreciation class (taught by 葉思雅醫師與夫人張信惠), 宋如音女士 (described as「宋泉盛牧師千金」) was featured performing Bartók works to the LA community audience — a documented instance of her serving as a cultural bridge in the Taiwanese American community. No further corpus material; nothing else absorbable.

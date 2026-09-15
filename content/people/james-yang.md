@@ -27,6 +27,7 @@ last_reviewed: 2026-09-14
 - **Content priority C:** Full biography not in this source set
 - **2026-09-10 disambiguation (vault-absorbed):** TAH Who's Who record #256 "James Yang" names the violinist **楊明仁**, not this person — see [[works/taiwaneseamericanhistory-org/whos-who-256-james-yang||TAH #256 record]]; 楊榮勝 has no TAH Who's Who record in the vault
 - **2026-09-14 corpus pass (vault-absorbed):** further TAH records where "James Yang" is the violinist **楊明仁** (NOT this person): [[works/taiwaneseamericanhistory-org/ota-284|TAH #284 James Yang 楊明仁]], [[works/taiwaneseamericanhistory-org/10313|TAH #140 James Yang 楊明仁, Violinist]], [[works/taiwaneseamericanhistory-org/386-james-yang-e6-a5-8a-e6-98-8e-e4-bb-81-completed-and-launched-the-first-gradu|TAH #386（首創網路研究所申請）]], [[works/taiwaneseamericanhistory-org/387-james-yang-the-first-taiwanese-american-to-be-the-member-of-mensa-internatio|TAH #387（Mensa 首位台美人會員）]]。楊榮勝本人於全語料（含簡體「杨荣胜」）僅見於已引之 2024 會館 38 董事名單，無其他回憶錄素材。
+- **2026-09-14 slice-10 recheck:** corpus grep 楊榮勝/James Yang (incl. 简体 杨荣胜) still returns only the 楊明仁 (violinist) records disambiguated above plus the works index; no memoir or article mentions of this person — SKIP, nothing absorbable.
 - **2024 corroboration:** listed among the 38 董事 (with 李賢群、葉上毅 and others) at 大洛杉磯台灣會館第26周年年會晚宴暨募款活動 — [[articles/taiwanjustice-net/2025/20250420093345_2024大洛杉磯台灣會館第26周年年會晚宴暨募款活動11月2_2f4af86847559b66|taiwanjustice.net report]]
 
 ## Sources

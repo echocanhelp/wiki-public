@@ -62,3 +62,6 @@ _No filled family fields on the TAH profile._
 - Baltimore (M.M., Peabody Institute of the Johns Hopkins University): [[organizations/johns-hopkins-university-taiwanese-student-association]], [[organizations/taiwanese-american-students-association-at-johns-hopkins-university]]
 - College Park (D.M.A.; principal chairs in the University of Maryland Symphony): [[organizations/university-of-maryland-taiwanese-student-association]], [[organizations/taiwanese-american-student-association-at-the-university-of-maryland-college-park]]
 - D.C. youth-arts scene peer organization to her documented D.C. Youth Orchestra jury work: [[organizations/taiwanese-youth-arts-foundation-washington-dc]]
+
+## Corpus recheck (slice 09141400-10, 2026-09-14)
+- Full-corpus grep 林宜欣/Yi-Hsin Lin hits only her own source record [[works/taiwaneseamericanhistory-org/yi-hsin-lin-violinist||TAH #402]] and the works index; no memoir or article mentions, no movement-record material to absorb — SKIP with reason, no conflicts to HOLD.
