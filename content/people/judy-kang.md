@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-14
+last_reviewed: 2026-09-15
 ---
 # JUDY KANG (康瑋倫)
 
@@ -63,3 +63,4 @@ _No filled family fields on the TAH profile._
 - 兩則 TAH 百科條目（#126、#233）已如上連結，與 Who's Who 人物檔互為佐證。
 - **社群書寫紀錄：** [[works/taiwaneseamericanhistory-org/mystories110||110. 琴韻傑出的康瑋倫 / 李淑櫻]]（TAH「我的故事」系列，2014-10-13）——vault 內既有的同主題專文紀錄，與本頁 TAH 生平互為補充；作者李淑櫻 vault 內尚無專屬人物頁，故不建連結（避免新建頁）。
 - **SKIP（deepen 2026-09-14）：** 本次語料庫全檢（works/articles）僅命中本頁已連結之書目頁 #126、#233、mystories110 及 index——mystories110 為書目級紀錄（全文留原站），無新社群事實可吸收，故不重複抄錄。
+- **SKIP（deepen-x slice 09142319-2, 2026-09-15）：** 語料庫重檢命中結果不變（#126、#233、mystories110、works index），皆已連結且為書目級紀錄，無新社群事實可吸收。

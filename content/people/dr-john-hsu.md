@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-14
+last_reviewed: 2026-09-15
 ---
 # Dr. John Hsu (徐新宏博士)
 
@@ -57,11 +57,13 @@ Accomplishment
 ## Vault Holdings
 - [[works/taiwaneseamericanhistory-org/ota-287||TAH #287 encyclopedia: Dr. John Hsu 徐新宏博士]]
 - [[works/taiwaneseamericanhistory-org/whos-who-873-john-hsu||TAH #873 encyclopedia: Dr. John Hsu 徐新宏博士]]
+- Publication dates (absorbed from the works index, 2026-09-15): [[works/taiwaneseamericanhistory-org/ota-287|#287]] 刊於 2019-05-20；[[works/taiwaneseamericanhistory-org/whos-who-873-john-hsu|#873]] 刊於 2016-03-06；演講紀錄 [[works/taiwaneseamericanhistory-org/ourjourneys107|長青教室 #107]] 刊於 2015-02-20（band A 社區紀錄）。
 
 ## Same-person cross-link (deepen 2026-09-14)
 - The fuller biography of the same person (徐新宏, born 1947 Miaoli; spouse **陳麗華** matches the Family field above; founded **J.H. Biotech, Inc.** 1987, Chairman/CEO of 佳和企業集團) is on vault page [[people/hsu-hsin-hung||Hsu Hsin-hung (徐新宏)]], sourced from [[sources/2017-tahs-publication||the 2017 TAHS publication]]. That page cross-links back here.
 - HOLD: conflict — J.H. Biotech tenure **2014–** (TAH Who's Who employment table on this page) vs **founded 1987** (2017 TAHS publication, via [[people/hsu-hsin-hung]]). Not auto-merged.
 - Disambiguation: [[works/taiwaneseamericanhistory-org/whos-who-2262-john-hsu|TAH Who's Who #2262 "John Hsu 許作初"]] is a **different person** (許作初 ≠ 徐新宏) despite the shared English name.
+- Corpus recheck (deepen-x slice 09142319-2, 2026-09-15): 檢索命中僅 #287、#873、#107（皆已連結，刊期已記於 Vault Holdings）、#2262（不同人）及 works index 書目條，無其他可吸收之生平素材。
 
 ## Sources
 - [TAH #287 encyclopedia: 287. Dr. John Hsu 徐新宏博士](https://taiwaneseamericanhistory.org/ota-287/)

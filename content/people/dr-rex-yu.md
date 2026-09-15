@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-14
+last_reviewed: 2026-09-15
 ---
 # Dr. Rex Yu (余忠村博士)
 
@@ -73,3 +73,6 @@ Accomplishment
 - Corpus recheck（deepen-x slice 09141400-2）：語料庫檢索命中 #970、#55、#36、#643 四工作頁（皆已於上文收錄連結）、works 索引書目條與 MANIFEST，無新素材 — SKIP-with-reason。
 - 連結複核：三份 TAH 工作頁（#19、#970、#71 收藏）與 [[organizations/san-gabriel-taiwanese-lions-club|美國台灣人獅子會]] 頁皆已存在，連結解析成立。
 - 妻 Tammy Yu（李月英）、子 Winston／Benjamin 及中興大學、Utah State、Michigan State 等教育機構於 vault 無獨立頁，依規則不新建、不虛構。
+
+## Corpus recheck (deepen-x slice 09142319-2, 2026-09-15)
+- 語料庫重檢（works/articles）：命中 #19、#970、#71 收藏、#55 中興大學傑出校友、#36 布袋戲偶、#643 悼文——皆已於上文收錄連結，且均為書目級紀錄（全文留原站），無新社群事實可吸收 — SKIP-with-reason。

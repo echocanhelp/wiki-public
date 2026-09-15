@@ -55,6 +55,7 @@ Re-stated only from the TAH records the vault already holds (see Vault Cross-Ref
 
 - [[people/prof-ken-s-huang||Ken S. Huang (黃根深) — proposed the formal TAC-WC organizational structure in 2012]]
 - [[works/taiwaneseamericanhistory-org/whos-who-857-ken-s-huang||TAH Who's Who #857: Ken S. Huang]]
+- [[works/taiwaneseamericanhistory-org/ourjourneys352||TAH #352: History of TAC-WC / 黃東昇 (03/2020, A-band memoir)]]
 - [[works/taiwaneseamericanhistory-org/tacwc||TAH: 5. Taiwanese American Conference / West Coast 美西台灣人夏令會 (2015)]]
 - [[works/taiwaneseamericanhistory-org/the-board-of-taiwanese-american-conferences-west-coast-tac-wc||TAH: founding announcement of the TAC-WC board (2017-03-20)]]
 - [[works/taiwaneseamericanhistory-org/77-hand-bag-of-2019-taiwanese-american-conference-west-coast||TAH #77: hand bag of TAC-WC 2019, Salt Lake City, July 19–20/2019]]

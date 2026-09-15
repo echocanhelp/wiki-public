@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-14
+last_reviewed: 2026-09-15
 ---
 # Huai Shion Tsai (蔡蕙香)
 
@@ -56,6 +56,8 @@ Huai-Shion Tsai was born in Tainan, Taiwan in 1947. She graduated from the Natio
 
 ## Role in the Community
 - Absorbed 2026-09-14 from the corpus: a painting collection 《蔡蕙香繪畫集》 is recorded in the TAH encyclopedia (2014/12) — [[works/taiwaneseamericanhistory-org/729-e8-94-a1-e8-95-99-e9-a6-99-e7-b9-aa-e7-95-ab-e9-9b-86-e8-94-a1-e8-95-99-e9-a|TAH #729: 蔡蕙香繪畫集]]. HOLD: conflict — the works index lists #729 as 蔡蕙香繪畫集 (2014/12) but the vault work page's own title reads 曾憲榮/2015/12; not auto-merged.
+- Disambiguation (corpus recheck 2026-09-15): [[works/taiwaneseamericanhistory-org/421-huai-en-tsai-e8-94-a1-e6-87-b7-e6-81-a9-201505|TAH #421: Huai-En Tsai 蔡懷恩 (2015/05)]] matched the corpus grep by romanisation similarity but is a **different person** (蔡懷恩 ≠ 蔡蕙香); no biography absorbed.
+- HOLD reconciled (2026-09-15): the #729 title conflict noted above no longer stands — the vault work page now carries the title 《729. 蔡蕙香繪畫集/蔡蕙香/2014/12/Art/藝術》, matching the works index (the 曾憲榮 title was corrected since the 2026-09-14 pass); only a routine publication lag remains (site date 2015-06-25 vs content date 2014/12). HOLD lifted.
 - Absorbed exhibition record (2017): as a member of 新藝畫會 she was invited to the 「台灣之美‧亞洲之心」國際巡迴展 (4/1–2, 2017) alongside 李淑櫻、洪逸凡、劉白、陳文石, curated by 蘇奐豪 — [[articles/taiwanjustice-net/2024/20240724234326_root_cd2062fe6528223c|台灣之美‧亞洲之心巡迴展 (tjtw)]]. Documents her membership in a cross-strait artist association, extending the Network section.
 
 ## Sources
