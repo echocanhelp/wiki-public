@@ -48,6 +48,7 @@ _No filled family fields on the TAH profile._
 - 語料庫樞紐：[[sources/taiwaneseamericanhistory-org-story-corpus||TAH story corpus]]；發布機構：[[organizations/tah-foundation||TAH Foundation]]、[[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]。
 - corpus sweep 2026-09-14：SKIP——全語料庫（works/articles）僅命中本人 TAH #1909 書目頁與索引頁，無回忆錄、報導或社團記述等新事實可吸收。
 - corpus sweep 2026-09-15（slice 29 複核）：再 grep 結果相同——僅本人書目頁與索引頁，維持 SKIP。
+- corpus sweep 2026-09-15（slice 09150400-26 覆核）：再 grep（魏曉英／Hsiao-Ying／Monica Wey）命中僅本人 TAH #1909 書目頁與 [[works/index|works index]]，無回忆錄／社群一手材料 — 維持 **SKIP**。
 
 ## Sources
 - [TAH #1909 encyclopedia: 1909. Prof. Hsiao-Ying (Monica) Wey 魏曉英教授](https://taiwaneseamericanhistory.org/whos-who-1909-hsiao-ying-wey/)

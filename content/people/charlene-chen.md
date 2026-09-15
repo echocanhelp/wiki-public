@@ -52,6 +52,7 @@ Her community role at the [[organizations/taiwanese-american-foundation||Taiwane
 - **TAH 人物傳記條目**：[[works/taiwaneseamericanhistory-org/52906|TAH #210 Charlene Chen 陳怡林（2019）]]。
 - **藝術再現**：畫家陳秀芳（Susan Hsiu-fang Liu）以她與肯亞農民為題材的畫作被 TAH 收錄為館藏作品 —— [[works/taiwaneseamericanhistory-org/footsteps-26|TAH #26 Charlene Chen with Farmers in Kenya（2019）]]，顯示她在台美人社群中被視為第二代非洲創業的代表人物。
 - **複核（deepen-x slice 09142320-2，2026-09-15）**：全語料庫 grep（陳怡林／Charlene Chen）命中 #230（中英雙版）、#125、#210、#2205、#26 與 index——全部為上列已吸收之页面，無新增社群材料；本節維持，無衝突需 HOLD。
+- **覆核（deepen-x slice 09150400-26，2026-09-15）**：再 grep（陳怡林／Charlene Chen）命中集合不變（#230 中英雙版、#125、#52906/#210、#2205、#26），皆已吸收 — 維持本節，無衝突需 HOLD。
 
 ## Related Pages
 - 求學階段：[[organizations/duke-taiwanese-student-association||Duke Taiwanese Student Association]]、[[organizations/taiwanese-student-association-at-uc-berkeley||TSA at UC Berkeley]]
