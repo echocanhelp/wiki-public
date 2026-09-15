@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-15
 ---
 # Prof. Edith Chen (陳怡迪教授)
 
@@ -30,6 +30,11 @@ Accomplishment
 ## Employment
 - Northwestern University — Faculty Fellow and Professor of Psychology — (2012-) — University of British Columbia — Professor of Psychology and Canada Research Chair in Health and Society — (2003-2012) — Washington University — Assistant Professor — (2000-2003)
 <!-- tah-tables:end -->
+
+## Role in the Community
+
+- Received the American Psychological Association Distinguished Scientific Award for Early Career Contribution to Health Psychology (2004), recorded in the TAH movement archive: [[works/taiwaneseamericanhistory-org/award-edith-chen-2004|APA early-career award record, TAH 62]].
+- TAH encyclopedia entries documenting her as part of the second-generation Taiwanese American academic cohort: [[works/taiwaneseamericanhistory-org/212-2|TAH 212]] and [[works/taiwaneseamericanhistory-org/whos-who-2176-edith-chen|TAH 2176]].
 
 ## Family
 

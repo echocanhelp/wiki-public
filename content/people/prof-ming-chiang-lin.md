@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-15
 ---
 # Prof. Ming Chiang Lin (林明璋教授)
 
@@ -29,6 +29,12 @@ Prof. Ming Chiang Lin 林明璋教授 – History of Taiwanese American (T.A. Ar
 ## Employment
 - National Chiao Tung University — Professor in Molecular Science Research Center — (2003-) — Emory University — Professor, Director — (1988-2002) — United States Naval Research Laboratory (NRL) — Director of Chemical Kinetics Group
 <!-- tah-tables:end -->
+
+## Role in the Community
+
+- Part of the first generation of Taiwanese graduate students and researchers in the Washington, D.C. area. The community memoir [[works/taiwaneseamericanhistory-org/ourjourneys-138|Our Journeys 138]] recalls him among the Taiwanese researchers at NIH-level national institutions (with 楊基焜, 黃泰郎, and 黃崑巖, later founder of NCKU's medical college) — young first-generation pioneers, mostly around 30, living simply in apartments and forming the backbone of the early Taiwanese American community near D.C.
+- Directed the Chemical Kinetics Group at the U.S. Naval Research Laboratory and received the Navy's highest research honor, the 1998 Captain Robert Dexter Conrad Award: [[works/taiwaneseamericanhistory-org/captain-robert-dexter-conrad-award-by-u-s-navy-ming-chiang-lin|Captain Robert Dexter Conrad Award by U.S. Navy, 1998]] and [[works/taiwaneseamericanhistory-org/winners30|TAH award record 30]].
+- HOLD: conflict in Chinese name — this page and most records use 林明璋, while the award record title winners30 renders 林明彰教授. Not auto-merged.
 
 ## Family
 
