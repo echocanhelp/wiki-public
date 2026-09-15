@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-14
+last_reviewed: 2026-09-15
 ---
 # Amanda Shumin Yang (方書敏)
 
@@ -64,3 +64,4 @@ _No filled family fields on the TAH profile._
 - 兩出處頁皆為書目記錄，無其他可吸收事實。
 - deepen-x 09141213-22：全語料庫 grep（方書敏／Amanda Shumin Yang）僅命中上述自家書目頁，無回憶錄敘述可吸收 — 本頁維持 SKIP（無可吸收社區事實）。
 - SKIP 複核（deepen-x slice 09141500-9，2026-09-14）：重新 grep（方書敏／Amanda Shumin Yang over content/works + content/articles）仍僅命中自家書目頁與作品索引，無社群材料可吸收，維持 SKIP。
+- 覆核（deepen-x slice 09142320-1，2026-09-15）：全語料庫重新 grep 結果不變——命中僅 [[works/taiwaneseamericanhistory-org/556-amanda-shumin-yang-e6-96-b9-e6-9b-b8-e6-95-8f-201508|TAH #556]]、[[works/taiwaneseamericanhistory-org/556-amanda-shumin-yang-e6-96-b9-e6-9b-b8-e6-95-8f-violinist-201508|TAH #281]] 兩頁自家書目記錄及作品索引條目，無回憶錄敘述可吸收。維持 **SKIP**。

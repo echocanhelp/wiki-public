@@ -9,7 +9,7 @@ tags:
   - line-group
   - Taiwanese-American
 verification_status: pending
-last_reviewed: 2026-09-14
+last_reviewed: 2026-09-15
 source_note: "LINE group displayName Kevin Lee; ZH pending; distinct from David Lee / 李東璞 and Yi Sen Lee / 李意盛"
 ---
 
@@ -57,6 +57,7 @@ Peer members listed in the same L1 block, useful for disambiguating LINE display
 
 - **2026-08** — Listed on TAHS LINE L1 roster as Kevin Lee (ZH pending).
 - **2026-09** — Roster entry re-reviewed; identity remains LINE-membership-only, no biography asserted.
+- **2026-09-15** — deepen-x slice 09142320-1 re-grep (content/works + content/articles): the sole "Kevin Lee" hit remains [[works/taiwaneseamerican-org/apa-artists-on-overcoming-racism-stereotypes|APA Artists interview page]] (2009 TAF Summer Conference counselor). Still SKIP-with-reason — no hanzi linkage; English-name-only merge barred by roster policy.
 
 ## Corpus scan (2026-09-14, slice 31)
 
