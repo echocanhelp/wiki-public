@@ -44,7 +44,10 @@ _No filled family fields on the TAH profile._
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
+## Role in the Community
+- NATPA（北美洲台灣人教授協會）2004 年首度返台年會的籌備核心：林靜竹記載，4 月 21 日趁多位籌備人員在華府之便，於賴義雄府上召開第二次年會籌備會議，出席八人為賴義雄、蔡嘉寅、胡勝正、陳文彥、吳漢南、賴淳彥、李賢淇、林靜竹，會中就會議節目、在台學者邀請名單、五天參觀旅行計劃、宴會主講者及新聞發布等進行決議 — see [[works/taiwaneseamericanhistory-org/ourjourneys47|TAHS Our Journeys #47]]；相關組織：[[organizations/north-america-taiwanese-professors-sc|NATPA]]。
+
 ## Vault Absorbed (2026-09-14)
 - Vault work records: [[works/taiwaneseamericanhistory-org/150-prof-sheng-cheng-hu|TAH #150 Prof. Sheng-Cheng Hu 胡勝正教授]] (2018-10-19) and [[works/taiwaneseamericanhistory-org/whos-who-2150-sheng-cheng-hu|TAH #2150 Who's Who profile]] (2018-07-12).
-- Community-history mention: 林靜竹's account of the 北美洲台灣人教授協會 (NATPA) first-on-island annual conference (2004) records 胡勝正 as one of eight organizers at the second planning meeting held at 賴義雄's home in Washington D.C. (April 21), ahead of the April 19/24 台灣經貿會議 in D.C. — see [[works/taiwaneseamericanhistory-org/ourjourneys47|TAHS Our Journeys #47]]. His organizing role links him to [[organizations/north-america-taiwanese-professors-sc|North America Taiwan Professors Association]].
+- NATPA 籌備事蹟詳見上方 Role in the Community（2026-09-14 二次 pass 自舊摘記整合，重複摘記已去重）。
 - No further biography invented; verification still pending against the cited TAH pages.

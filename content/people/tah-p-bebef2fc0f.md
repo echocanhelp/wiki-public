@@ -40,6 +40,10 @@ _No filled family fields on the TAH profile._
 
 - 2017 年紐約台灣會館老人中心創立史（[[works/taiwaneseamericanhistory-org/ourjourneys316||TAH ourjourneys316／林炎誠／2017-10]]）所列義工老師名單包含陳炳衡，與本頁所述會館義工、指揮合唱團經歷互相佐證。
 
+## Role in the Community（deepen pass 2026-09-14）
+
+- Corpus re-sweep 2026-09-14：語料命中僅本頁既有出處（TAH #562／#283 書目頁、[[works/taiwaneseamericanhistory-org/ourjourneys316|ourjourneys316 老人中心義工名單]]、works/index 收錄列舉）。**SKIP：無新的可吸收事実**；ourjourneys316 之佐證已在上節記錄，無衝突需 HOLD。
+
 ## Sources
 - [TAH #562 encyclopedia: 562. 陳炳衡 / 2015/08](https://taiwaneseamericanhistory.org/562-%e9%99%b3%e7%82%b3%e8%a1%a1-201508/)
 - [TAH #283 encyclopedia: 283. BING-HENG CHEN 陳炳衡, Conductor / 2015/08](https://taiwaneseamericanhistory.org/283-%e9%99%b3%e7%82%b3%e8%a1%a1-conductor-201508/)

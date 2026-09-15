@@ -44,6 +44,11 @@ Prof. Liang-Tseng Fan 范良政教授 – History of Taiwanese American (T.A. Ar
 - 子 Tso Yee Fan 見 [[people/dr-tso-yee-fan||Dr. Tso-Yee Fan 范佐怡博士]]（工程師、科學家）。
 - 指導师生关系：陳希寬回憶錄 [[works/taiwaneseamericanhistory-org/ourjourneys33||TAH #33 一家人做伙來打拼]]（張炎憲，2014）記其 1964 年入堪薩斯州立大學、由范良政教授指導。
 
+## Role in the Community（deepen pass 2026-09-14）
+
+- **全美台灣同鄉通訊錄的第一位買主**：陳希寬回憶，1967 年 12 月 23 日Kansas City 台灣同鄉會年終晚會，當晚賣出的**第一本**《全美台灣同鄉通訊錄》——美國台灣人社區第一本有數據性的全美通訊錄——就在晚會停車場賣給他的指導教授范良政博士（每本售價 2 美元）。出處：[[works/taiwaneseamericanhistory-org/ourjourneys58|TAH #58 陳希寬《回憶編印第一本全美台灣同鄉通訊錄的甘苦經過》]]。
+- **兩代台籍研究生的指導教授**：陳希寬 1964 年入堪薩斯州立大學即由范良政指導（其大哥志青曾就讀堪大、指導教授即是范，故推薦希寬入其門下，見 [[works/taiwaneseamericanhistory-org/ourjourneys33|TAH #33 一家人做伙來打拼]]）；同期堪大台籍學生圈（莊秋雄、陳希寬等）正投入校園統獨論戰並於學生報刊登二二八廣告，范與台僑學生社群關係密切。
+
 ## Sources
 - [TAH #22 encyclopedia: 22. Prof. Liang-tseng Fan (范良政教授)](https://taiwaneseamericanhistory.org/senior-taiwanese-american-22/)
 - [TAH #130 encyclopedia: 130. Prof. Liang-tseng Fan 范良政教授](https://taiwaneseamericanhistory.org/130-prof-liang-tseng-fan/)

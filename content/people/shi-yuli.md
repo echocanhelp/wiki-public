@@ -86,3 +86,6 @@ At [[organizations/taiwan-center||Taiwan Center Taiwan School]] she appears in t
 
 ## Deepen-x 2026-09-14 (slice 09141300-7)
 - SKIP-with-reason: corpus grep (`works/`, `articles/`) for 施郁麗 / Shi Yuli returns zero hits — she appears nowhere in the memoir/record corpus. Nothing absorbable; page retains its Taiwan Center class-schedule facts only.
+
+## Deepen-x 2026-09-14 (slice 09141500-1)
+- Re-swept `content/works` + `content/articles` for 施郁麗 / Shi Yuli / shi-yuli: still zero corpus hits. SKIP-with-reason stands — no memoir/record material exists to absorb beyond the Taiwan Center class-roster facts already on the page.

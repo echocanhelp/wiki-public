@@ -51,5 +51,6 @@ _No filled family fields on the TAH profile._
 
 ## Vault Network（deepen pass 2026-09-14）
 
+- Corpus re-sweep 2026-09-14: corpus hits are limited to this page's own TAH #527／#258 百科記錄（書目頁）與 works/index 收錄列舉；未見任何回憶錄、同鄉會或社團文獻直接記載本人的社區參與。**SKIP：無可吸收之社群語料**，頁面現有陳述全部出自 TAH 官方傳記，無新事実可吸收、無衝突需 HOLD。
 - Fellow TAH-profiled Taiwanese baritone: [[works/taiwaneseamericanhistory-org/14-yi-cherng-lin-e6-9e-97-e5-ae-9c-e8-aa-a0-baritone|Yi Cherng Lin 林一誠, Baritone]].
 - All performance and academic posts on this page (Alice Tully Hall debut as soloist in the Yellow River Cantata; Kenyon College 2002; University of Texas at Trinity University faculty since 2003) derive from the TAH #527 / #258 encyclopedia entries linked above.

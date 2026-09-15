@@ -53,4 +53,11 @@ For more information, please clickProjects >>>14. Pride of T. A. >>>6. 全美最
 ## Vault records（deepen pass 2026-09-10）
 - 本頁傳記之 TAH 出處頁：[[works/taiwaneseamericanhistory-org/88-prof-ming-shian-kao||TAH #88 Prof. Ming-Shian Kao 高銘憲教授]]（含「Pride of T.A.」系列記載：Best Doctor、Best Oncologist、華盛頓大學婦產科醫院傑出教授榮譽紀念獎）。
 - publisher／語料庫：[[sources/taiwaneseamericanhistory-org-story-corpus||TAH story corpus]]。
-- St. Louis 醫學與學術生涯之地域脈絡（vault 有聖路易台灣人團體記錄，未見本人直接關聯記載）：[[organizations/taiwanese-association-of-america-in-greater-st-louis|TAA Greater St. Louis]]、[[organizations/taiwanese-scholar-association-in-st-louis-tsa-stl|TSA-STL]]。
+- St. Louis 醫學與學術生涯之地域脈絡：[[organizations/taiwanese-association-of-america-in-greater-st-louis|TAA Greater St. Louis]]、[[organizations/taiwanese-scholar-association-in-st-louis-tsa-stl|TSA-STL]]。
+
+## Role in the Community（deepen pass 2026-09-14）
+
+- **教會創辦與長老**：據張理美教會史，1972 年夏，高銘憲與石幸津醫師夫婦同張世聰醫師與翁秀惠夫婦、林逸民醫師與陳倫美夫婦、石孜理長老等，在聖路易開始討論成立台灣人基督徒團契；該團契 1978 年命名「福爾摩斯基督徒圑契」，1988 年 9 月正式登記為**大聖路易台灣人長老基督教會**——美國中西部第一間加入美國主流教派的台灣人教會。1989 年 5 月小會成立，高銘憲任**首任六位長老之一**（與林逸民、張理美、陳克充、鄭紀昭、蘇希）。出處：[[works/taiwaneseamericanhistory-org/ourjourneys305|TAH #305 張理美《美國聖路易台灣人基督長老教會的歷史簡略》／2017-07]]。
+- **與會館/社群的一手記錄**：[[works/taiwaneseamericanhistory-org/my-stories-902|TAH #902 專訪「醫生中的醫生」——聖路易高銘憲醫師談移民如何就醫（2024-04）]]、[[works/taiwaneseamericanhistory-org/mystories492|TAH #492 高銘憲醫師 視病如親／吳淑梅]]、[[works/taiwaneseamericanhistory-org/mystories553|TAH #553 高銘憲醫師的禱告／吳淑梅]]、[[works/taiwaneseamericanhistory-org/whos1262|TAH #1262 Ming-Shian Kao 高銘憲／2016-08]]。
+- 「Pride of T. A.」系列記載（Best Doctor、Best Oncologist、華盛頓大學婦產科醫院傑出教授榮譽紀念獎）於 vault 有獨立作品頁：[[works/taiwaneseamericanhistory-org/pride6|Pride of T.A. #6]]。
+- 太太**石幸津為醫師**，與高銘憲一同參與上述聖路易台灣人基督徒團契創立（見 #305），可補強 Family 欄。
