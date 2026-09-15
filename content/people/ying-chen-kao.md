@@ -64,3 +64,7 @@ _No filled family fields on the TAH profile._
 ## Deepen pass 2026-09-15（slice deepen-x-slice-09150316-22，SKIP-with-reason）
 
 - 重掃 works/ + articles/：命中僅本人自有 TAH 傳記條目（均已連結）與 works/index.md，無其他 memoir／會刊提及，無可吸收之新增社群事實。
+
+## Deepen pass 2026-09-15（slice deepen-x-slice-09150400-14，SKIP-with-reason）
+
+- 重掃 works/ + articles/：命中僅本人自有 TAH 條目 #21/#518（均已連結）、works/index.md，另有三件假陽性——[[works/taiwaneseamericanhistory-org/whoswho1285||TAH #1285 陳美瑩]]、[[works/taiwaneseamericanhistory-org/musician350||TAH #350 陳盈穎]]、[[works/taiwaneseamericanhistory-org/whoswho1178||TAH #1178 陳盈穎]]，係「Ying … Chen」字面撞名之不同人物，非本人提及。無可吸收之新增社群事實，無衝突需 HOLD。

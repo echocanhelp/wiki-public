@@ -61,3 +61,4 @@ _No filled family fields on the TAH profile._
 - **2026-09-14 (DEEPEN-X09141400-11):** re-sweep SKIP — corpus grep (works/, articles/) hits only `works/index.md` listings of his own #439/#2315 records (plus unrelated 陳文成 entries); no memoir/community material to absorb.
 - **2026-09-15 (DEEPEN-X09142319-15):** re-sweep SKIP — grep 郭耿維/Keng-Wei in works+articles hits only `works/index.md`; no community material to absorb, no conflicts to HOLD.
 - **2026-09-15 (DEEPEN-X09150316-17):** re-sweep SKIP — grep 郭耿維/Keng-Wei hits only his own #439/#2315 records + `works/index.md`; no memoir/community material, no conflicts to HOLD.
+- **2026-09-15 (DEEPEN-X09150400-14):** re-sweep SKIP — grep 郭耿維/Keng-Wei in works+articles hits only his own #439/#2315 records + `works/index.md`; no memoir/community material, no conflicts to HOLD.
