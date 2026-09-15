@@ -63,3 +63,5 @@ Accomplishment
 - SKIP-with-reason：語料重檢命中集不變（ourjourneys102/162/162-eng/245/313、TAH #11、#14、works index）；Community Record 已全數吸收（含 #162 英文版互證），無新增可吸收事實、無衝突。
 ## Deepen-x re-check (slice 09150500-14, 2026-09-15)
 - SKIP-with-reason：命中集不變＝ourjourneys102／#162／#162-eng／#245／#313、本人著作 [[works/taiwaneseamericanhistory-org/11-the-birth-of-the-permanent-home-for-the-taiwanese-american-community-center-o|#11]]、出處頁 #14、works index；Community Record 已全數吸收，無新增可吸收事實、無衝突。
+## Deepen-x re-check (slice 09150600-1, 2026-09-15)
+- SKIP-with-reason：命中集不變（#102／#162／#162-eng／#245／#313、#11、#14、works index）；中英雙語覆核（1975 感恩節當選副會長、1986 第八屆夏令會召集人、2009-09-19 改建表揚）與 Community Record 所載一致，無新增可吸收事實、無衝突。
