@@ -66,3 +66,4 @@ _No filled family fields on the TAH profile._
 - 職涯軌跡以 TAH #1789 表欄為準：弗吉尼亞理工（1982–1997）→ 清華大學兼任（2001–）→ 國家奈米科技計畫共同執行長（2004–2006）→ 中央研究院（2007–2018）→ 中山大學講座教授（2019–）。
 - Corpus re-check (slice 09142319-9, 2026-09-15): only #1789 own entry, index line, and the 印城同鄉會 name-collision memoir (already held). No new absorbable facts.
 - Corpus re-check (slice 09150316-6, 2026-09-15): only the TAH #1789 own entry and the 印城台灣同鄉會 memoir (#389, 「校長李定國先生」— collision held above, not merged; the memoir adds exchange-program detail about the principal, not the physicist). No new absorbable facts.
+- Corpus re-check (slice 09150400-1, 2026-09-15): hit set unchanged (own #1789 entry + index line + #389 name-collision memoir). SKIP-with-reason: no new absorbable facts; 校長李定國 collision remains held, not merged.
