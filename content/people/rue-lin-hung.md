@@ -58,7 +58,6 @@ last_reviewed: 2026-09-14
 - 名录稱其「27歲起在瑞芳煤礦工作35年，故有《礦工畫家》之稱」。與本页正文「端芳煤礦（後改懷山煤礦，倪蔣懷經營）1938–1972」年代相符（1912＋27＝1939≒1938），礦名則為異寫——HOLD: 端芳／懷山 vs 瑞芳，未自動合併。
 - 参展本身即為台美社群史事實：其作品經《世界台灣人美術展覽會》在美台裔社團夏令会展出，與本页 1997 逝後回顧展 [[works/taiwaneseamericanhistory-org/art-show-9||TAH #9]] 前後相銜。
 - 出處頁發布紀錄：[[works/taiwaneseamericanhistory-org/whos868-rue-lin-hung||TAH #868]]（2016-03-06）、[[works/taiwaneseamericanhistory-org/artist10-jui-lin-hung||TAH #10]]（2014-09-05）、[[works/taiwaneseamericanhistory-org/art-show-9||TAH #9 洪瑞麟回顧展 1997]]（紀錄頁 2017-02-16 刊），皆 B 級書目紀錄頁。
-- 出處頁發布紀錄：[[works/taiwaneseamericanhistory-org/whos868-rue-lin-hung||TAH #868]]（2016-03-06）、[[works/taiwaneseamericanhistory-org/artist10-jui-lin-hung||TAH #10]]（2014-09-05）、[[works/taiwaneseamericanhistory-org/art-show-9||TAH #9 洪瑞麟回顧展 1997]]（紀錄頁 2017-02-16 刊），皆 B 級書目紀錄頁。
 - 傳記事實以上列正文與 tah-tables 為準（1938 起端芳／懷山煤礦三十五年、Mouve 行動美術集團、1964 洪瑞麟藝術工作室）；語料庫樞紐：[[sources/taiwaneseamericanhistory-org-story-corpus||TAH story corpus]]。
 
 ## Connected in the Vault（deepen pass 2026-09-10）

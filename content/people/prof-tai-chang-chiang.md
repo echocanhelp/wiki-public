@@ -59,3 +59,7 @@ _No filled family fields on the TAH profile._
 - 博士母校 UC Berkeley 的台裔社團：[[organizations/taiwanese-student-association-at-uc-berkeley||Taiwanese Student Association at UC Berkeley]]（membership 未被斷言）。
 - 1980–2011 任教的 UIUC 台裔社團：[[organizations/taiwanese-student-association-at-uiuc||Taiwanese Student Association at UIUC]]、[[organizations/taiwanese-american-students-club-at-uiuc||Taiwanese American Students Club at UIUC]]（逾 30 年任教；membership 未被斷言）。
 - 2010–2014 任 Synchrotron Radiation Center 科學主任期間所處的 Wisconsin 台裔社群：[[organizations/student-association-of-taiwan-uw-madison||Student Association of Taiwan @ UW-Madison]]、[[organizations/taiwanese-association-of-wisconsin||Taiwanese Association of Wisconsin]]。
+
+## 語料庫檢核（deepen pass 2026-09-14, slice 17：SKIP-with-reason）
+- 全語料庫檢索（江台章 / Tai Chang Chiang）僅命中本人出處頁 [[works/taiwaneseamericanhistory-org/whos-who-2023-tai-chang-chiang||TAH #2023]] 與 works/index.md 條目行；無他人文獻、回憶錄或社團刊物提及本人，「長期投入台美史紀錄」一語在語料庫中無可展開的具體事證。
+- 無可吸收之新增社群事實，本頁為本階最完整狀態；既有 Connected in the Vault 推測性連結已註明 membership 未被傳記斷言，維持原樣。
