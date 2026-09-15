@@ -64,3 +64,6 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+## Corpus re-check (deepen slice 09141400-13, 2026-09-14)
+- Slice 09141400-13 複核：corpus grep（content/works、content/articles）僅命中 [[works/taiwaneseamericanhistory-org/whos-who-1767-shenglin-chang|TAH #1767]]（已連結於上）與 works/index；memoir／通訊語料無任何提及，本輪 SKIP——無可吸收內容。
