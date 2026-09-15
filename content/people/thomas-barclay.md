@@ -10,7 +10,7 @@ tags:
   - PCT
   - Taiwan
 verification_status: pending
-last_reviewed: 2026-09-14
+last_reviewed: 2026-09-15
 ---
 # Thomas Barclay (巴克禮)
 
@@ -74,3 +74,4 @@ East Gate vault archive facts (1903 福音堂, 1914 臺灣大會, 2003 centennia
 
 ### Corpus grep 2026-09-14 (slice -15, re-verified slice deepen-x-09142101-4) — SKIP with reason
 All 巴克禮/Barclay matches in works/ + articles/ are unrelated UK news copy (Barclays/Brexit-era taiwanjustice.net wires); no memoir or work page references the missionary. Nothing absorbable beyond the East Gate archive already incorporated above.
+- Re-swept 2026-09-15 (slice deepen-x-09150316-9): same — all hits are Barclays bank / Steve Barclay Brexit wires in taiwanjustice-net; SKIP-with-reason stands.

@@ -63,4 +63,5 @@ _No filled family fields on the TAH profile._
 - 親屬欄維持「TAH 檔案無資料」。導師 Rita Sloan、聖經教會樂道堂目前無既有頁面：不建頁、不臆造傳記。
 - Corpus sweep（slice 09141213-4）：全語料 grep（蕭湘舲／Hsiang-Ling Hsiao）僅命中已連結之書目紀錄 [[works/taiwaneseamericanhistory-org/34-hsiang-ling-hsiao-e8-95-ad-e6-b9-98-e8-88-b2-piano|TAH #34]]、[[works/taiwaneseamericanhistory-org/515-hsiang-ling-hsiao-e8-95-ad-e6-b9-98-e8-88-b2-201507|TAH #515]]（均為書目級，全文留在來源端）與 works/index.md 書目行；works、articles 無其他語料提及。無新增可吸收事實。
 - Corpus re-check（slice 09141400-7，2026-09-14）：重跑全語料 grep，結果與上列相同——僅書目級紀錄與 index 書目行，無回憶錄或刊物敘事提及本人。SKIP：本切片無可吸收之新增事實。
+- Corpus re-check（slice 09150316-2，2026-09-15）：重跑 grep（蕭湘舲／Hsiang-Ling Hsiao），命中不變——僅兩筆已連結書目級紀錄與 index 書目行。SKIP：無新增可吸收事實。
 - Corpus re-check（slice 09142319-11，2026-09-15）：works/、articles/ 全語料 grep 再核，命中仍僅 [[works/taiwaneseamericanhistory-org/34-hsiang-ling-hsiao-e8-95-ad-e6-b9-98-e8-88-b2-piano|TAH #34]]、[[works/taiwaneseamericanhistory-org/515-hsiang-ling-hsiao-e8-95-ad-e6-b9-98-e8-88-b2-201507|TAH #515]] 兩筆書目級紀錄（已連結）。SKIP-with-reason：無回憶錄／刊物敘事新增事實可吸收；last_reviewed 已刷新。
