@@ -63,3 +63,4 @@ SKIP-with-reason: corpus grep of works/articles returns only her own two TAH enc
 SKIP note (deepen-x 09142101-5): re-sweep returned the same hits (#304, #674 + works index) — SKIP-with-reason stands.
 SKIP note (deepen-x 09150316-9, 2026-09-15): re-sweep returned the same hits (#304, #674 + works index) — SKIP-with-reason stands.
 - SKIP note (deepen-x 09150400-8, 2026-09-15): re-sweep returned the same hits (own TAH encyclopedia stubs + works index) — no memoir/newsletter/community mentions; SKIP-with-reason stands.
+- SKIP note (deepen-x 09150500-2, 2026-09-15): re-sweep returned the same hits (own TAH encyclopedia stubs #304/#674 + works index) — no memoir/newsletter/community mentions; SKIP-with-reason stands.

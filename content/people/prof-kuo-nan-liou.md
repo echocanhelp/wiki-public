@@ -82,3 +82,7 @@ Grep of works/ + articles/ returns only his two already-linked vault work pages 
 ## Corpus re-check (slice deepen-x-09150400-9, 2026-09-15)
 
 命中集無變（僅 TAH #1797、Rossby/Revelle 勳章頁、works/index 條目行）。維持 SKIP，無可吸收之社群事實。
+
+## Corpus re-check (slice deepen-x-09150500-2, 2026-09-15)
+
+命中集無變（僅 TAH #1797、Rossby/Revelle 勳章頁、works/index 條目行，皆已 wikilink）。維持 SKIP，無可吸收之社群事實。
