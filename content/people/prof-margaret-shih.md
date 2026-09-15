@@ -37,6 +37,16 @@ Accomplishment
 - **Mother:** 廖純如
 
 
+## Role in the Community
+- Profiled twice in the TAH Foundation encyclopedia: Who's Who #507 (published 2015-07-23) [[works/taiwaneseamericanhistory-org/whos-who-507-margaret-shih|TAH #507: Prof. Margaret Shih 施華維教授]] and OTA #261 (published 2019-02-24) [[works/taiwaneseamericanhistory-org/ota-261|TAH #261: Prof. Margaret Shih 施華維教授]].
+- Community news record: TAH #881 (published 2023-07-14) reports she assumed the role of Department Chair in the UCLA Anderson School of Management [[works/taiwaneseamericanhistory-org/my-stories-881|TAH #881]].
+- Reconciliation: the page lists Senior Associate Dean from 2014; the 2023 corpus record adds the department-chair role — complementary, not a conflict.
+
+### Timeline
+- 2015-07-23 — profiled in TAH Who's Who #507
+- 2019-02-24 — TAH OTA #261 profile
+- 2023-07-14 — TAH #881: assumed Department Chair role at UCLA Anderson School of Management
+
 ## Sources
 - [TAH #261 encyclopedia: 261. Prof. Margaret Shih 施華維教授](https://taiwaneseamericanhistory.org/ota-261/)
 - [TAH #507 encyclopedia: 507. Prof. Margaret Shih 施華維教授](https://taiwaneseamericanhistory.org/whos-who-507-margaret-shih/)
