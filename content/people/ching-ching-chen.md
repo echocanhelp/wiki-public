@@ -59,3 +59,6 @@ _No filled family fields on the TAH profile._
 ## Vault re-check (2026-09-14, vault-only)
 - 出處頁發布日期（vault records）：TAH #1053 發布於 2016-06-02；TAH #23（異拼 Cheng 出處）發布於 2014-11-24。
 - 兩出處頁皆為書目記錄，無其他可吸收事實（語料庫入口見上節）。
+
+## Deepen-x re-check (slice 09141300-30, 2026-09-14)
+- SKIP-with-reason: corpus grep (works/articles, 鄭青青/Ching Ching Chen/Cheng) hits only the two band-B bibliographic records already linked（[[works/taiwaneseamericanhistory-org/whoswho1053||TAH #1053]]、[[works/taiwaneseamericanhistory-org/23-e9-84-ad-e9-9d-92-e9-9d-92-ching-ching-cheng||TAH #23]]）plus the works index — no memoir material beyond existing text. Name-variant conflict (Chen vs Cheng) remains documented under Name Variants, not merged.

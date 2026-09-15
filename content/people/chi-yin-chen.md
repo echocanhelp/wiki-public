@@ -54,3 +54,6 @@ _No filled family fields on the TAH profile._
 - TAH #225、#465（皆 2015-06-28）於 vault 僅存書目紀錄（無正文可吸收）；本頁全部延伸事實出自 Who's Who 人物表格。
 - 校友社團頁（约翰霍普金斯）：[[organizations/johns-hopkins-university-taiwanese-student-association||JHU 台灣學生會]]（僅同校線索，非本人直接紀錄）。
 - 語料庫入口：[[sources/taiwaneseamericanhistory-org-story-corpus||TAH 故事語料庫]]。
+
+## Deepen-x re-check (slice 09141300-30, 2026-09-14)
+- SKIP-with-reason: corpus grep (works/articles) hits only the two band-B bibliographic records already linked above（[[works/taiwaneseamericanhistory-org/225-chi-yin-chen-violinist-201506||TAH #225]]、[[works/taiwaneseamericanhistory-org/465-chi-yin-chen-201506||TAH #465]]）plus the works index — no memoir/正文 material to absorb beyond the Who's Who tables already on this page.

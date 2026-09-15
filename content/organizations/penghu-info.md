@@ -49,3 +49,4 @@ this record captures only the historically-anchored subset linked from Tier1.
 
 - 來源錨點頁：[[sources/penghu-info||penghu.info 平台]]（Hub）。引用本平台之 Tier1 現為四頁：[[people/hsu-ling-yun||許凌雲]]、[[people/hsu-ching-chun||許景淳]]、[[organizations/hsu-ling-yun-xiucai-memorial-hall||凌雲秀才紀念館]]、[[people/prof-wen-hwa-lee||李文華]]（故鄉脈絡引用，非傳記主體）；雙向連結完整。
 - 本地語料：`knowledge/web-archives/penghu-info/` 已存抓回之 category／地點錨點頁（馬公市、白沙鄉、文化 category 等）。
+- 語料檢核（deepen pass 2026-09-14，SKIP）：`works/`＋`articles/` 全文檢索零命中——本平台僅由 Tier1 人物頁引用，回憶錄語料尚無提及，無可吸收之社群事實；引用面維持現況四頁雙向連結。

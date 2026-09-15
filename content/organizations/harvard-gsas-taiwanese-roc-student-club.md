@@ -34,3 +34,6 @@ Absorbed solely from facts already present on this page:
 - **Activity horizon (as archived):** latest hcs-site content references a 2012 new student handbook; last blog posts from 2009.
 
 Cross-links (existing slugs only): [[organizations/harvard-griffin-gsas-taiwan-student-association||Harvard Griffin GSAS Taiwan Student Association]] and [[organizations/harvard-taiwanese-cultural-society||Harvard Taiwanese Cultural Society]] — other Harvard Taiwanese student organizations in the TAH directory. (No FTSANE page exists in the vault; name left unlinked.)
+
+## Deepen-x re-check (slice 09141300-30, 2026-09-14)
+- SKIP-with-reason: corpus grep (works/articles, HTROCSC/harvardrocc/ROC Student Club) returned zero hits — no memoir material in the corpus; page stands on its TAH directory facts above.

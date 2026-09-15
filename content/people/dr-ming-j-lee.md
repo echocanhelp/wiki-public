@@ -46,6 +46,11 @@ last_reviewed: 2026-09-14
 - **2011–2012** — 美國宜蘭同鄉會會長
 - **2013–2014** — 台美會計師協會會長
 
+## Role in the Community
+
+- **Community memoir in our own archive.** Dr. Lee authored 轉行當美國註冊會計師的歷程 (TAH #657, 2018/10), an first-person account of his second-career path from physics/science education into the U.S. CPA profession — primary community-historical material held in the vault: [[works/taiwaneseamericanhistory-org/657-e8-bd-89-e8-a1-8c-e7-95-b6-e7-be-8e-e5-9c-8b-e8-a8-bb-e5-86-8a-e6-9c-83-e8-a|TAH #657: 轉行當美國註冊會計師的歷程 / 2018-10]]. This corroborates the directory-recorded 1993 accounting degree and 1996 CPA-firm milestones above from his own pen.
+- **Association leadership chain** (per Who's Who #2165 / #146): 台師大美東校友會會長 2010–2011 → 美國宜蘭同鄉會會長 2011–2012 → 台美會計師協會會長 2013–2014 — three consecutive years leading alumni, hometown, and professional wings of the Taiwanese American community in the U.S. East Coast: [[works/taiwaneseamericanhistory-org/whos-who-2165-ming-j-lee|TAH #2165]], [[works/taiwaneseamericanhistory-org/146-dr-ming-j-lee|TAH #146]].
+
 ## Family
 
 - **Wife:** Pan Li-Chu Lee
