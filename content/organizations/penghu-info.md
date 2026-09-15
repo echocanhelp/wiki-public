@@ -53,3 +53,4 @@ this record captures only the historically-anchored subset linked from Tier1.
 - 再檢核（slice 09142320-11, 2026-09-15，SKIP）：`works/`＋`articles/` 重跑檢索，命中僅為檢核報告與索引等 vault 內部引用（含 sources/penghu-info.md 漢名 mismatch 之自動審計記錄），無回憶錄語料提及，無可吸收事實。
 - 三檢核（slice 09150500-25, 2026-09-15，SKIP）：`works/`＋`articles/` 檢索 Penghu.info／澎湖知識／澎湖記憶庫 零命中（排除 index），無可吸收事實；引用面維持現況。
 - 四檢核（slice 09150600-15, 2026-09-15，SKIP）：`works/`＋`articles/` 重跑檢索（penghu.info／澎湖知識／澎湖記憶庫，case-insensitive）零命中，回憶錄語料仍無提及，無可吸收事實。
+- 五檢核（slice 09150700-10, 2026-09-15，SKIP）：`works/`＋`articles/` 重跑檢索（penghu.info／澎湖知識／澎湖記憶庫，case-insensitive）零命中，回憶錄語料仍無提及，無可吸收事實。
