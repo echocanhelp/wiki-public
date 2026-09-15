@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-14
+last_reviewed: 2026-09-15
 ---
 # Dr. Alex Yang (楊青博士)
 
@@ -53,3 +53,6 @@ Community service is recorded in his TAH profile itself: President of the [[orga
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+## Corpus re-grep (2026-09-15)
+Re-grepped Alex Yang / 楊青 across content/works + content/articles: hit set unchanged — his own TAH records ([[works/taiwaneseamericanhistory-org/ota-270|#270]], [[works/taiwaneseamericanhistory-org/whos-alexyang|#1958]]) plus 楊青矗 (novelist) mentions in Our Journeys 38/69/245/292/357, already held under the name-collision note above. No new community material; nothing to merge.
