@@ -40,6 +40,12 @@ Dr. Po-Fang (Philip) Hsieh 謝伯芳博士 – History of Taiwanese American (T.
 - Employment record Western Michigan Univ.（1964–2000）：其任職地Community association — [[organizations/taiwanese-association-of-west-michigan||Taiwanese Association of West Michigan]]
 - Visiting appointment UCLA（1969）：同地台灣學生社團 — [[organizations/taiwanese-american-student-association-at-ucla||Taiwanese American Student Association at UCLA]]
 
+## Role in the Community (corpus-sourced, deepen 2026-09-14)
+- Authored the community memoir 「懷憶六十年代前期的明市」(2021-03, value band A): [[works/taiwaneseamericanhistory-org/ourjourneys-369|369. 懷憶六十年代前期的明市/謝伯芳/03/2021]] (English: [[works/taiwaneseamericanhistory-org/our-journys-369-eng|369. Life in the early 1960s in Minneapolis]]) — first-hand record of the early Taiwanese student community in Minneapolis.
+- Arrived Minneapolis spring 1959; in autumn 1960 co-founded the weekly Friday 「Mpls 台灣人祈禱查經會」with 殷宗舜、李春美、陳秉虔、蘇惠美 — starting at ~10 attendees, growing past 20; the group fed the midwest 「基督徒夏令會」 retreats organized with Madison students (劉真真、陳紹紀、鄭學禮 et al.).
+- Married 蘇惠美 (Emmy H., in Family above) on 1961-07-08 at Albert Lea Presbyterian Church — consistent with the TAH profile; the engagement banquet (1961-05-14) gathered 30+ Taiwanese in Minneapolis.
+- Per the TAF photo-album record [[works/taiwaneseamericanhistory-org/ourjourneys58|Our Journeys 58]]: as 「Dr. Philip Shieh 謝伯芳 of Kalamazoo, Michigan」he contributed to and collaborated on the yearly Taiwanese Christians Fellowship and Bible Retreats programs from the TAF era onward (record names later residence Laguna Woods, CA — "Luguna Wood" as spelled in the source).
+
 ## Sources
 - [TAH #2318 encyclopedia: 2318. Dr. Po-Fang (Philip) Hsieh 謝伯芳博士](https://taiwaneseamericanhistory.org/whos-who-2318-po-fang-hsieh/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-po-fang-philip-hsieh/)

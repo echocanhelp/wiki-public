@@ -47,6 +47,11 @@ Accomplishment
 
 Her community role at the [[organizations/taiwanese-american-foundation||Taiwanese American Foundation]] (Director 2007-2008, later youth-programs adviser) is documented in the TAH profile above.
 
+## Role in the Community（corpus-absorbed 2026-09-14）
+- **TAH 故事語料庫作者**：她親筆的《一位台美人第二代在非洲的故事——走出溫室，挑戰未知》（Beyond the Comfort Zone）以中英文雙版本刊於 TAH：英文版 [[works/taiwaneseamericanhistory-org/230-e4-b8-80-e4-bd-8d-e5-8f-b0-e7-be-8e-e4-ba-ba-e7-ac-ac-e4-ba-8c-e4-bb-a3-e5-9|TAH #230（English Version）／陳東榮譯，2015/04]]、漢文版 [[works/taiwaneseamericanhistory-org/mystories230-2|TAH #230（漢文版）／2015/04]]，早期版本 [[works/taiwaneseamericanhistory-org/125-beyound-the-comfort-zone|TAH #125 Beyound the Comfort Zone（2013/04/20）]]。文述其非洲（肯亞）跨境支付創業經歷，與 Bit Pesa 紀錄互為印證。
+- **TAH 人物傳記條目**：[[works/taiwaneseamericanhistory-org/52906|TAH #210 Charlene Chen 陳怡林（2019）]]。
+- **藝術再現**：畫家陳秀芳（Susan Hsiu-fang Liu）以她與肯亞農民為題材的畫作被 TAH 收錄為館藏作品 —— [[works/taiwaneseamericanhistory-org/footsteps-26|TAH #26 Charlene Chen with Farmers in Kenya（2019）]]，顯示她在台美人社群中被視為第二代非洲創業的代表人物。
+
 ## Related Pages
 - 求學階段：[[organizations/duke-taiwanese-student-association||Duke Taiwanese Student Association]]、[[organizations/taiwanese-student-association-at-uc-berkeley||TSA at UC Berkeley]]
 - 她曾任職的基金會：[[organizations/taiwanese-american-foundation||Taiwanese American Foundation]]

@@ -18,6 +18,13 @@ last_reviewed: 2026-09-14
 
 The North American Taiwan Studies Association (NATSA) is a US-based 501(c)(3) nonprofit organization registered in California, established and operated by overseas Taiwanese and North American Ph.D. students and recent graduates interested in studying Taiwan. NATSA organizes an annual conference that is the largest academic event on Taiwan Studies in North America, providing scholars and students with a regular forum for intellectual exchange. The organization addresses the marginalization of Taiwan Studies in American academia, where most East Asian departments focus primarily on Chinese, Japanese, or Korean Studies. NATSA views Taiwan not merely as an area of study but as a lens through which to deepen understanding of human societies and global conditions, particularly given Taiwan’s unique position as an intermediary region between Chinese, Japanese, American, and broader East and Southeast Asian influences.
 
+## Timeline (corpus-linked, deepen-x 2026-09-14)
+- c. 1994 — founded, implied by the 20th anniversary conference in 2014 (see CFP below).
+- 2011-06-17 — annual conference in Pittsburgh announced in the community press: [[works/taiwaneseamerican-org/north-american-taiwan-studies-association-annual-conference-in-pittsburgh||NATSA Pittsburgh conference record]] — evidence the annual-conference tradition was already running 13+ years before the 20th anniversary.
+- 2013-01-04 — call for papers for the annual conference: [[works/taiwaneseamerican-org/call-for-papers-for-north-american-taiwan-studies-association-annual-conference||NATSA CFP 2013 record]].
+- 2014-01-10 — call for papers for the 20th anniversary conference (already linked below).
+- 2014-10-12 — profiled in the TAH Foundation directory (already linked below).
+
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/north-american-taiwan-studies-associationnatsa/)
 
