@@ -56,3 +56,5 @@ last_reviewed: 2026-09-15
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+**SKIP 2026-09-15 (slice 09150700-24):** corpus re-grep (works/ + articles/) returned the same hit set already absorbed above (private-collections-91, buiness4, 45-richard-lee, ourjourneys12, publications21, 98-mr-cheng-san-lee) — no new memoir material; page already deepened by a prior slice.

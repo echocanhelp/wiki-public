@@ -55,3 +55,5 @@ She also contributed personal memoir to the corpus: an autobiography 張丁蘭�
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+**SKIP 2026-09-15 (slice 09150700-24):** corpus re-grep (works/ + articles/) returned the same 6-hit set already absorbed above (#64, #94, #253, mystories37-eng, ourjourneys75-eng, photo-albums-activities-97) — no new material; page already deepened by a prior slice.

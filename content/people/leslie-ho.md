@@ -59,4 +59,4 @@ _No filled family fields on the TAH profile._
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - [[people/tah-p-f29b98a03f||杜宛珊]] — 同為曼哈頓音樂院校友
-- **SKIP 2026-09-15 (slice 09150600-28; prior 09142320-16, 09141500-15):** corpus re-grep (works/ + articles/) returned only his own TAH 書目頁 #123/#9872、works/index 收錄列舉、及同名误配（《Betrayed Formosa》影評中的演員 Leslie Hope）— 無回憶錄提及；無新可吸收事實。
+- **SKIP 2026-09-15 (slice 09150700-24; prior 09150600-28, 09142320-16, 09141500-15):** corpus re-grep (works/ + articles/) returned only his own TAH 書目頁 #123/#9872、works/index 收錄列舉、及同名误配（《Betrayed Formosa》影評中的演員 Leslie Hope）— 無回憶錄提及；無新可吸收事實。
