@@ -58,3 +58,4 @@ _No filled family fields on the TAH profile._
 ## Connected in the Vault
 - [[people/mei-en-chou||Mei-En Chou (周媺恩)]] — fellow TAH musician-profile subject; her TAH record also places her graduate study at the University of North Texas (Denton, TX), the same institution as his orchestral-conducting study above
 - **2026-09-14 (DEEPEN-X09112200-19):** cross-link re-check — 中國文化大學, 輔仁大學, Univ. of North Texas, Shen Yun, 飛天藝術學院 and the guest-conducted orchestras (Taipei / Tainan / Yangqin / Dallas AAYS) have no vault pages and stay plain text; TAH #439 and #2315 work records and the reciprocal note on [[people/mei-en-chou||周媺恩]] (itself re-checked 2026-09-14) all resolve; no further absorbable vault-side facts.
+- **2026-09-14 (DEEPEN-X09141400-11):** re-sweep SKIP — corpus grep (works/, articles/) hits only `works/index.md` listings of his own #439/#2315 records (plus unrelated 陳文成 entries); no memoir/community material to absorb.
