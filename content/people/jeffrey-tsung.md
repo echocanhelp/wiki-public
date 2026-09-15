@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-14
+last_reviewed: 2026-09-15
 ---
 # Jeffrey Tsung (鄭瑞雄醫師)
 
@@ -56,3 +56,4 @@ last_reviewed: 2026-09-14
 - He is also a corpus *author* on the shared experience of his generation: his essay [[works/taiwaneseamericanhistory-org/114-e5-85-ad-e3-80-81-e4-b8-83-e3-80-87-e5-b9-b4-e4-bb-a3-e5-88-b0-e7-be-8e-e5-9|TAH #114 六、七〇年代到美國發展的臺灣醫師]] (2015-03) is his own memoir account of Taiwanese physicians who built careers in the US in the 1960s–70s — the cohort his own KMC→Minnesota→Midwest pathology career belongs to.
 - His specimen-making legacy has a dedicated photo record in the vault: [[works/taiwaneseamericanhistory-org/photo-albums-activities-61|TAH #61 Animal Specimen 鄭瑞雄醫師的動物標本]] (2015-03), complementing the donated-specimen page TAH #11 above.
 - No further biography invented; verification still pending against the cited TAH pages.
+- Re-check (deepen-x slice 09142320-9, 2026-09-15): corpus grep against works/ + articles/ returns the same six band-B records (#11, #61, #114, #273, #314, mystories212) — all already linked above; no new absorbable community content.

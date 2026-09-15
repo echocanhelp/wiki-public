@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-14
+last_reviewed: 2026-09-15
 ---
 # Harvard GSAS Taiwanese ROC Student Club
 
@@ -37,3 +37,6 @@ Cross-links (existing slugs only): [[organizations/harvard-griffin-gsas-taiwan-s
 
 ## Deepen-x re-check (slice 09141300-30, 2026-09-14)
 - SKIP-with-reason: corpus grep (works/articles, HTROCSC/harvardrocc/ROC Student Club) returned zero hits — no memoir material in the corpus; page stands on its TAH directory facts above.
+
+## Deepen-x re-check (slice 09142320-11, 2026-09-15)
+- SKIP-with-reason: grep re-run (works/articles; HTROCSC / harvardrocc / "Taiwanese (ROC) Student" / FTSANE) — zero hits. No memoir or movement-record content to absorb; page stands on its TAH directory facts.

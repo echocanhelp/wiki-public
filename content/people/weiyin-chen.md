@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-14
+last_reviewed: 2026-09-15
 ---
 # Weiyin Chen (陳偉茵)
 
@@ -56,3 +56,4 @@ _No filled family fields on the TAH profile._
 - Corpus sweep 2026-09-14 (deepen-x slice 28): the only works/articles mentioning 陳偉茵 / Weiyin Chen are her own two TAH encyclopedia pages already linked below — no memoir or third-party community material to absorb. SKIP-with-reason; press-kit bio retained as-is.
 - 本頁 TAH 出處之 Vault 頁面：[[works/taiwaneseamericanhistory-org/682-weiyin-chen-e9-99-b3-e5-81-89-e8-8c-b5-201510||TAH 682. Weiyin Chen 陳偉茵 / 2015/10]]、[[works/taiwaneseamericanhistory-org/209-e9-99-b3-e5-81-89-e8-8c-b5weiyin-chen201506||TAH 209. Weiyin Chen 陳偉茵, Pianist / 2015/06]]。
 - 2010 年入讀約翰霍普金斯大學琵琶第音樂學院（Peabody, M.S. Music）：[[organizations/johns-hopkins-university-taiwanese-student-association||JHU Taiwanese Student Association]]。
+- SKIP 再確認（deepen-x slice 09142320-9, 2026-09-15）：語料庫仍僅命中本人兩頁（TAH #209、#682）與 works/index，無回憶錄或第三方面材料可吸收。

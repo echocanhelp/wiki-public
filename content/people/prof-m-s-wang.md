@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-14
+last_reviewed: 2026-09-15
 ---
 # Prof. M. S. Wang (王孟心教授)
 
@@ -50,6 +50,7 @@ _No filled family fields on the TAH profile._
 - **Disambiguation:** [[works/taiwaneseamericanhistory-org/whos-who-1973-s-m-wang||TAH #1973 S. M. (Jacqueline) Wang 王賽美]] is a different person despite the matching initials — not linked here.
 - **Link hygiene:** 中國文化大學, Univ. of Texas at Austin, Univ. of North Texas and 台灣沙遊治療協會 have no vault pages.
 - **Corpus check 2026-09-14 (SKIP):** grep across `works/` + `articles/` matches only this person's own directory record [[works/taiwaneseamericanhistory-org/whos-who-1902-m-s-wang|TAH #1902]] and the `works/index.md` listing — no memoir mentions, nothing absorbable beyond the existing TAH tables.
+- **Corpus check 2026-09-15 (SKIP, slice 09142320-9):** re-grep matches only the own directory record and `works/index.md` again — no new material.
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
