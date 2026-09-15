@@ -57,6 +57,9 @@ Corpus-absorbed (deepen-x slice 28, 2026-09-14) from our own memoir [[works/taiw
 - **Son:** [[people/eric-cheng||Eric Cheng (鄭晧)]]
 
 
+## Corpus re-check (deepen-x slice 09150316-12, 2026-09-15)
+- SKIP-with-reason: grep 賴淑卿／Shu-ching Cheng 命中僅本人 TAH 百科頁（#1、#882）與 ourjourneys26／26-eng —— 後者已於 Role in the Community（slice 28）完整吸收，memoir 段落無未吸收事實。無衝突。
+
 ## Sources
 - [TAH #1 encyclopedia: 1. Shu Cheng 賴淑卿](https://taiwaneseamericanhistory.org/1-shu-cheng/)
 - [TAH #882 encyclopedia: 882. Shu-ching Cheng  賴淑卿](https://taiwaneseamericanhistory.org/whos-who-882-shu-ching-cheng/)

@@ -7,7 +7,7 @@ tags:
   - physician
 verification_status: owner_verified
 status: published
-last_reviewed: 2026-09-14
+last_reviewed: 2026-09-15
 sources:
   - https://healthy.kaiserpermanente.org/southern-california/physicians/lester-tsai-6602490
 ---
@@ -84,4 +84,5 @@ Clinic addresses, phone numbers, and plan lists from that directory are **not** 
 - 2026-09-11: Removed an erroneous honorary title from the public page; functional title left pending.
 
 ## Corpus re-check (deepen-x slice 09142101-7, 2026-09-14)
+- 2026-09-15 (slice 09150316-12): re-grep（Lester Tsai／蔡萊斯特，works + articles）再次零命中。維持 SKIP — 待本人第一人身分自述後再吸收。
 - SKIP-with-reason: corpus grep (Lester Tsai across works + articles) returns no hits — the recent 蔡/Tsai matches are unrelated persons (蔡英文, 蔡同榮, 蔡友仁). Newly onboarded member (2026-09-11) with no memoir material yet; first-person introduction pending Lester. Nothing absorbable, no conflicts.

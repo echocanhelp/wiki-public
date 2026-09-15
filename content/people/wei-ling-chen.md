@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-14
+last_reviewed: 2026-09-15
 ---
 # Wei-Ling Chen (陳為伶)
 
@@ -71,3 +71,6 @@ SKIP-with-reason: corpus grep of works/articles returns only her own two TAH enc
 
 ## Deepen — 2026-09-14 (slice 09142101-6)
 SKIP (re-run): grep of works/articles again returns only her own TAH #22/#517 bibliographic records (already wikilinked above) + works index — no memoir/community material. Nothing absorbable; nothing invented.
+
+## Deepen — 2026-09-15 (slice 09150316-5)
+SKIP (third pass): grep of works/articles for 陳為伶/Wei-Ling Chen again hits only her own TAH #22/#517 records (already linked in Vault Cross-References) and index adjacency lines. No memoir or community material; last_reviewed refreshed, biography unchanged.

@@ -34,7 +34,8 @@ Accomplishment
 
 ## Family
 
-_No filled family fields on the TAH profile._
+- 太太：瑞蓮嫂。1967 年携六名子女自松山機場移民加州（見上方 Role in the Community，Our Journey 309）。
+- TAH 故事語料收藏夫妻二人 2018 年紀錄：[[works/taiwaneseamericanhistory-org/ff373|TAH #373 Dr. and Mrs. Guei-Yun Yang —— 第一代台美人最大家族：一子五女]]（2018-07-19，書目紀錄，全文存 vault）。「一子五女」與上述 1967 年「六名子女」影像記錄相符，無衝突。
 
 ## Role in the Community
 - 1967: 太太瑞蓮嫂帶六名子女自松山機場移民美國加州（楊遠薰《咱的故事(二)》影像記錄，摘自《族群與國族認同的形成》07/2013）。見 [[works/taiwaneseamericanhistory-org/ourjourneys309|Our Journey 309：留學生離台影像]]。
@@ -46,6 +47,7 @@ _No filled family fields on the TAH profile._
 The umbrella bodies he founded or led appear in the TAH corpus at [[works/taiwaneseamericanhistory-org/taiwanese-hakka-associations-of-america|Taiwanese Hakka Associations of America 美洲台灣客家聯合會 / 全美臺灣客家會]] and [[works/taiwaneseamericanhistory-org/ushakka|全美台灣客家聯誼會]]; the world body's LA-area federation membership is recorded on [[organizations/taiwanese-hakka-association-of-the-world|THAW]]. His 1970 founding of the Taiwanese Hakka Association of California predates the wave of regional Hakka chapters catalogued across the corpus, e.g. [[works/taiwaneseamericanhistory-org/arkansas-taiwanese-hakka-association|Arkansas Taiwanese Hakka Association]] and the Southern California federation [[organizations/taiwanese-hakka-associations-of-southern-california|Taiwanese Hakka Associations of Southern California]]. The umbrella body's convention record is at [[works/taiwaneseamericanhistory-org/30-taiwanese-hakka-associations-of-america-conference|Taiwanese Hakka Associations of America conference]].
 
 - **2026-09-15 (DEEPEN-X09142319-21):** re-sweep SKIP — grep（楊貴運／Guei-Yun Yang）命中六頁（#874、#233、#147、Our Journey 244／309／110-eng）均已在上方 Role in the Community／Vault records 完整吸收；ourjourneys244 全文段僅為敘事者（周實）交棒细节，與本人無關，無新事實。
+- **2026-09-15 (slice 09150316-12):** re-grep 新增命中 ff373（TAH #373 夫妻家族故事），已吸收至上方 Family；其餘命中頁（#25、#147、#874、OJ 244／309／110-eng）均已吸收。
 
 ## Sources
 - [TAH #25 encyclopedia: 25. Dr. Guei-Yun Yang (楊貴運博士)](https://taiwaneseamericanhistory.org/senior-taiwanese-american-25/)
