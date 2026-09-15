@@ -39,6 +39,14 @@ Coverage in our corpus is press coverage via the taiwanjustice.net archive, not 
 - **Cabinet resignation:** 蘇貞昌批准林佳龍辭呈，20日生效 (2021/04) — archived in tier2 at `knowledge/web-archives/taiwanjustice-net/tier2/2021/20210509165934_...md` (no wiki page for individual tier2 items).
 - **HOLD:** the 68-hit count on this page is title/topic extraction (see Source Notes); actual body mentions are higher — not reconciled.
 
+## Corpus re-check (slice 09150600-15, 2026-09-15)
+
+- Full-text grep of `articles/` (body, not title extraction) now returns **212** article pages mentioning 林佳龍 — confirms the HOLD above: the 68 figure understates coverage. Newly-linked representative hits:
+  - **太魯閣號事故 (2021/04) as transport minister:** 蘇貞昌鞠躬致歉、台鐵改革呼聲 — [[articles/taiwanjustice-net/2021/20210415110122_2021_04_07_太魯閣號事故_蘇貞昌鞠躬致歉_台鐵改革要加速_f1bc2171e3493c95|太魯閣號事故致歉 (2021/04)]]; 「辭職負責，也為喚起支持加速台鐵改革」— [[articles/taiwanjustice-net/2021/20210620131029_2021_04_12_林佳龍_辭職負責_也為喚起支持加速台鐵改革_b1f73ec77d8fd043|辭職負責評論 (2021/04)]]; 事故地點通車、搭首班車完成任內最後任務 — [[articles/taiwanjustice-net/2021/20210620133733_2021_04_18_太魯閣號事故地點通車_林佳龍搭首班車完成任內_602e8a54790ec6f5|首班車通車 (2021/04)]].
+  - **Post-resignation cabinet coverage:** 新內閣分掌 — [[articles/taiwanjustice-net/2026/20260208203442_新內閣_李永得吳政忠分掌文化科技_陳時中徐國_4e0865d1a92dba52|新內閣內閣改組報導]].
+  - **DPP 黨主席風波 (2022/11–2022/12):** 敗選後表態「黨主席改選和調整人事很重要」— [[articles/taiwanjustice-net/2023/20230129120426_2022_11_28_敗選警訊-林佳龍_黨主席改選和調整人事很重要_551953317fe73562|敗選警訊 (2022/11)]]; 賴清德參選黨主席、鄭文燦林佳龍表態力挺 — [[articles/taiwanjustice-net/2023/20230204025732_2022_12_08_賴清德參選黨主席-鄭文燦林佳龍表態力挺成關鍵_045f43655721d8d9|力挺賴清德 (2022/12)]].
+- **Disambiguation note (works/):** the single `works/` grep hit [[works/taiwaneseamericanhistory-org/ourjourneys27-eng|27. 紐約台灣會館：在困境中更新]] matched only on author name "Chia-lung **Cheng**" — a different person; not absorbed. No diaspora-memoir (works/) material exists on this person; coverage remains press archive only.
+
 ## Related Pages
 
 - [[sources/taiwanjustice-net||taiwanjustice.net source hub]]
