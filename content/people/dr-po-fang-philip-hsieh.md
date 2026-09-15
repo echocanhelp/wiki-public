@@ -45,6 +45,8 @@ Dr. Po-Fang (Philip) Hsieh 謝伯芳博士 – History of Taiwanese American (T.
 - Arrived Minneapolis spring 1959; in autumn 1960 co-founded the weekly Friday 「Mpls 台灣人祈禱查經會」with 殷宗舜、李春美、陳秉虔、蘇惠美 — starting at ~10 attendees, growing past 20; the group fed the midwest 「基督徒夏令會」 retreats organized with Madison students (劉真真、陳紹紀、鄭學禮 et al.).
 - Married 蘇惠美 (Emmy H., in Family above) on 1961-07-08 at Albert Lea Presbyterian Church — consistent with the TAH profile; the engagement banquet (1961-05-14) gathered 30+ Taiwanese in Minneapolis.
 - Per the TAF photo-album record [[works/taiwaneseamericanhistory-org/ourjourneys58|Our Journeys 58]]: as 「Dr. Philip Shieh 謝伯芳 of Kalamazoo, Michigan」he contributed to and collaborated on the yearly Taiwanese Christians Fellowship and Bible Retreats programs from the TAF era onward (record names later residence Laguna Woods, CA — "Luguna Wood" as spelled in the source).
+- The same photo-album's English edition [[works/taiwaneseamericanhistory-org/ourjourneys33-eng|Our Journeys 33 (EN)]] lists him in the state-by-state contributor roster as 「Michigan: 鄭俊明、廖光生、林辰吉、謝伯芳、陳坤木」 — consistent with the Kalamazoo, Michigan residence stated above.
+- 2018-07-20 台大校友連署嚴正抗議南加州台大校友會邀請管中閔於年會演講，連署名單列有「謝伯芳（醫科）」 — HOLD: the signatory is tagged 醫科 while this page's subject holds an NTU 數學系 B.S. (1953–1957); possibly a second person of the same name, not merged. Source: [[articles/taiwanjustice-net/2018/20180721091303_2018_07_20_抗議-南加州台大校友會邀管中閔來年會做專題演講_a428dcebbceacf38|2018-07-20 台大校友抗議連署／taiwanjustice.net]].
 
 ## Sources
 - [TAH #2318 encyclopedia: 2318. Dr. Po-Fang (Philip) Hsieh 謝伯芳博士](https://taiwaneseamericanhistory.org/whos-who-2318-po-fang-hsieh/)

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-14
+last_reviewed: 2026-09-15
 ---
 # Prof. Liang-Tseng Fan (范良政教授)
 
@@ -54,6 +54,9 @@ Prof. Liang-Tseng Fan 范良政教授 – History of Taiwanese American (T.A. Ar
 - [TAH #130 encyclopedia: 130. Prof. Liang-tseng Fan 范良政教授](https://taiwaneseamericanhistory.org/130-prof-liang-tseng-fan/)
 - [TAH #59 encyclopedia: 59. Prof. Liang-Tseng Fan 范良政教授](https://taiwaneseamericanhistory.org/whos-who-59-liang-tseng-fan/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-liang-tseng-fan/)
+
+## Deepen-x re-check (slice 09142320-3, 2026-09-15)
+- SKIP-with-reason for Prof. Liang-Tseng Fan 范良政: corpus grep (works/articles, 范良政 / Liang-Tseng Fan) returns only records already linked on this page (TAH #22, #59, #130, #33, #58) — the ourjourneys58 通訊錄 first-buyer and ourjourneys33 mentorship facts are already absorbed in Role in the Community. Nothing new absorbable; no conflicts.
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

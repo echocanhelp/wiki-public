@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-14
+last_reviewed: 2026-09-15
 ---
 # Karen I. Chang Wu (張音音律師)
 
@@ -46,6 +46,9 @@ Accomplishment
 ## Sources
 - [TAH #739 encyclopedia: 739. Karen I. Chang Wu 張音音律師](https://taiwaneseamericanhistory.org/whos-who-739-karen-i-chang-wu/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/karen-i-chang-wu/)
+
+## Deepen-x re-check (slice 09142320-3, 2026-09-15)
+- SKIP-with-reason for Karen I. Chang Wu 張音音: corpus grep (works/articles, 張音音 / Karen I. Chang Wu / Karen Chang) returns only the three records already linked on this page (TAH #739, TAH #223, the TACL 25th-anniversary essay) — no memoir material beyond the existing Role in the Community section. Nothing absorbable; no conflicts introduced.
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
