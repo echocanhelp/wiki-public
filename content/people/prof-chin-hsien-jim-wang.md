@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-14
+last_reviewed: 2026-09-15
 ---
 # Prof. Chin-Hsien Jim Wang (王進賢教授)
 
@@ -61,6 +61,9 @@ Prof. Chin-Hsien (Jim) Wang 王進賢教授 – History of Taiwanese American (T
 - 2017-05 TAC-WC 正式宣布成立董事會（San Diego 的王克雄 Ken Wang 出任首任董事長），並決定五區域輪值年會。
 - 2019 年由他在猶他大學主辦 TAC-WC Salt Lake City 年會——與任內 Utah 地區台美人社區龍頭角色相呼應。
 - 其 Employment 欄所載「Taiwanese Association, Utah Chapter — President」「TAC-WC — Coordinator」與會史記載互相印證，無衝突。
+
+## deepen 2026-09-15（slice 09142319-28 覆核）
+- 全語料 grep（王進賢／Jim Wang）命中僅已吸收之 [[works/taiwaneseamericanhistory-org/ourjourneys352||TAH #352]]（TAC-WC 會史，事實已全數載入 Role in the Community）及 works index 條目行——無新增可吸收事實。
 
 ## deepen 2026-09-14
 - 出處頁出版日（自 vault works 頁）：[[works/taiwaneseamericanhistory-org/ota-244||TAH #244]] 2019-02-09、[[works/taiwaneseamericanhistory-org/whos-who-418-chin-hsien-wang||TAH #418]] 2015-05-20、[[works/taiwaneseamericanhistory-org/ourjourneys352||TAH #352]]。

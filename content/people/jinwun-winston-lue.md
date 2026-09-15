@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-14
+last_reviewed: 2026-09-15
 ---
 # Jinwun Winston Lue (呂錦文)
 
@@ -55,4 +55,5 @@ Accomplishment
 - 1975 感恩節：參加諾城台灣同鄉會成立大會，因會中建言獲選為副會長（該會後改名東田納西台灣同鄉會）— [[works/taiwaneseamericanhistory-org/ourjourneys313|TAH #313 東田納西台灣同鄉會成立簡史]]、[[works/taiwaneseamericanhistory-org/ourjourneys102|TAH #102 諾誠回憶]]；夫人劉美娥回憶亦見於 #102（與 Wife: Meier Liu Lue 相符）
 - 1986：第八屆美東南區台灣人夏令會召集人（東田納西同鄉會主辦，主題「認識今日台灣」）— [[works/taiwaneseamericanhistory-org/ourjourneys245|TAH #245 美東南區台灣人夏令會簡史]]
 - 2009-09-19：聖地牙哥台灣中心新會館開幕時獲表揚的義工之一，獎牌「銘心鏤骨 賢士壯舉 錦繡吾館 文化傳承」— [[works/taiwaneseamericanhistory-org/ourjourneys162|TAH #162 聖地牙哥台灣中心開幕典禮與慶祝音樂會]]
+- 2026-09-15 slice 09142319-28 覆核：全語料 grep（works/articles）命中僅已吸收之 #102／#162／#245／#313 及本人出處頁；#162 英文版（#162-eng）所載改建表揚事與中文版相同，無新增可吸收事實。
 - 2014-09-05：撰寫台灣中心成會史〈The Birth of the Permanent Home for the Taiwanese American Community Center of San Diego 聖地牙哥台灣中心〉（本人署名著作）— [[works/taiwaneseamericanhistory-org/11-the-birth-of-the-permanent-home-for-the-taiwanese-american-community-center-o|TAH #11 聖地牙哥台灣中心成會史（呂錦文，2014/09）]]；文中記述 2009 開幕典禮上因參與建物改建獲頒獎牌（與 Dr. Ming Wu 同獲，與 #162 表彰記錄互證）

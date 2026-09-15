@@ -6,7 +6,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-14
+last_reviewed: 2026-09-15
 ---
 # 周政忠
 
@@ -59,4 +59,5 @@ _No filled family fields on the TAH profile._
 - 複核本頁兩筆 TAH 出處之 vault 頁 [[works/taiwaneseamericanhistory-org/648-e5-91-a8-e6-94-bf-e5-bf-a0-201510|TAH #648（2015-10-03 刊）]] 與 [[works/taiwaneseamericanhistory-org/297-jonathan-jou-e5-91-a8-e6-94-bf-e5-bf-a0-pinaist-201510|TAH #297（2015-10-03 刊）]]：均為書目記錄（bibliographic record only），全無可另吸收之傳記事實；本頁既有 Timeline 已涵蓋 TAH 全部所載。
 - 2026-09-14 slice 09141213-19 複核：全語料 grep（works/articles，含簡體「周政忠」）命中僅限本頁書目記錄 #648／#297，琴韻音樂學園、北加州中國音樂教師協會亦無語料命中；無新增可吸收事實——**SKIP（理由已記錄於頁）**。
 - 2026-09-14 slice 09141400-22 再次全語料複核（繁簡、Jonathan Jou 變體，排除書目頁與 index）：命中零，僅本人 #648／#297 書目頁——維持 **SKIP**，無新增可吸收事實。
+- 2026-09-15 slice 09142319-28 覆核：grep（周政忠／Jonathan Jou）命中僅 works index 條目行及本人書目頁 #648／#297——維持 **SKIP**，無新增可吸收事實。
 - 同語料庫 TAH 鋼琴家參照：[[people/joel-fan|Joel Fan 范景德]]、[[people/steven-lin|Steven Lin 林易]]、[[people/meng-chieh-liu|Meng-Chieh Liu 劉孟捷]]。

@@ -62,6 +62,9 @@ last_reviewed: 2026-09-14
 - **HOLD：職銜衝突**——該文稱「加州第九高等法院法官劉弘威」，本頁 TAH 表格則載 California Supreme Court Associate Justice（2011–）及第九巡迴提名記錄；兩說職銜不同，不逕行合併。
 - **同名辨析：**[[works/taiwaneseamericanhistory-org/ourjourneys159|Our Journeys #159]] 中的「Goodwin Chen」為台美夏令會 TANG 負責人，與本頁劉弘威非同一人，不予連結。
 
+## Role in the Community（deepen pass 2026-09-15，語料吸收）
+- **以加州最高法院法官身份主持台裔法官宣誓：**台美人黃海倫（2000 年台美小姐皇后）2025 年 2 月獲州長紐松任命為洛杉磯郡高等法院法官，宣誓儀式由劉弘威主持並致詞——報導見 [[articles/taiwanjustice-net/2025/20250624105056_台美小姐黃海倫當上洛杉磯法官-台語謝父母_教我_5ddc8a197acc9163|台灣正義網〈台美小姐黃海倫當上洛杉磯法官〉(2025-05-17)]]。此為本會語料中劉弘威以台裔最高法院法官身分支持台裔後進進入司法體系的近期社群證言。
+
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

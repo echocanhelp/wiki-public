@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-14
+last_reviewed: 2026-09-15
 ---
 # Ching-Wen Hsiao (蕭晴文)
 
@@ -38,6 +38,7 @@ _No filled family fields on the TAH profile._
 - 收錄於 [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]] source hub 人物索引。
 - deepen-x 09141213-21：語料庫檢索僅命中自身 TAH 出處頁 #401 及 works index 條目行，無回憶錄／社群一手材料可吸收 — **SKIP（理由：無非出處頁語料）**。
 - deepen-x 09141500-8（覆核，same-day）：以姓名雙寫（蕭晴文／Ching-Wen）再檢 works／articles，命中仍僅 [[works/taiwaneseamericanhistory-org/ching-wen-hsiao-pianist|TAH #401]]（書目記錄，內文僅 Identity Snapshot，無敘事）與 works index 條目行。確認 **SKIP**：語料庫無社群／回憶錄一手材料可吸收。
+- deepen-x 09142319-28（覆核 2026-09-15）：姓名雙寫再檢 works／articles，命中僅 works index 條目行及自身出處頁 #401——維持 **SKIP**，無可吸收材料。
 
 ## Timeline
 - 16 歲於菲律賓與 Cebu Youth Symphony 四度演出柴可夫斯基第一號鋼琴協奏曲，完成協奏曲首演
