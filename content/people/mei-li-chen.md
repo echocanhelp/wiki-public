@@ -67,3 +67,6 @@ _No filled family fields on the TAH profile._
 
 ## Network
 - [[organizations/presbyterian-church-in-taiwan||PCT]] — TAH Who’s Who
+
+## 同名辨識（disambiguation，deepen-x slice 09141400-1，2026-09-14）
+- HOLD：vault 另有 [[works/taiwaneseamericanhistory-org/whos-who-2265-mei-li-chen|TAH Who's Who #2265「Mei-Li Chen 林美里」（2020-04-27 刊）]]——英文拼音相同但漢名不同（陳玫麗 vs 林美里），屬不同人，僅憑羅馬拼音相同不得合併。

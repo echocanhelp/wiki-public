@@ -41,6 +41,12 @@ Elizabeth S. Chen was born in Kaohsiung, Taiwan in 1944. She was graduated from 
 - 本人兩則傳記條目見下方 Vault Holdings（[[works/taiwaneseamericanhistory-org/61-elizabeth-s-chen-e6-9d-8e-e7-a7-80-e9-ba-97-vocalist|TAH #61 音樂家條目]]、[[works/taiwaneseamericanhistory-org/278-elizabeth-s-chen-e6-9d-8e-e7-a7-80-e9-ba-97-201502|TAH #278 條目]]）
 - Teachers at 師範大學: Mrs. Su-fen Lai and Mrs. Chiu-gin Lin; SUNY Binghamton thesis supervisor: Dr. Chianis
 
+## Role in the Community（corpus deepen 2026-09-14）
+
+- **費城和平契友世代：** 據 [[works/taiwaneseamericanhistory-org/ourjourneys268|TAH #268：回憶第一屆美東台灣人夏令會／徐頌鵬（2016/11）]] 親史，1970 年前她是費城台北和平長老教會學生契友圈成員（同圈有歐炯雄、張初穗夫婦、黃有輝、劉淳美、李武雄夫婦、莊文生等），該契友圈即 1970 年首屆美東台灣人夏令會三大源頭團體之一。
+- **親史所記家族關係：** 同文記「陳良平以後與李秀麗（李豐明與李豐隆的妹妹）結婚」，即她為李豐明、李豐隆之妹。HOLD: 配偶記載衝突 —— 本頁 Family 欄記 "Josephen Chen"，親史（TAH #268）記陳良平，兩說並存，不逕行併merge。
+- **出版與史料貢獻：** 2010/03 台語合唱精選專輯 [[works/taiwaneseamericanhistory-org/416-e9-98-bf-e6-af-8d-e6-88-91-e6-83-b5-e6-82-a8-e6-9d-8e-e7-a7-80-e9-b|TAH #416：阿母 我想念您——台語合唱精選專輯]]；亦為本會提供 2013 Laguna Woods 台灣合唱團音樂會紀錄 —— 見 [[works/taiwaneseamericanhistory-org/concerts26|TAH concerts #26：抱著咱的夢（2013 Laguna Woods Village 台灣合唱團音樂會）]]。
+
 ## Family
 
 - **Husband:** Josephen Chen

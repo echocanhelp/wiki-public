@@ -66,3 +66,6 @@ _No filled family fields on the TAH profile._
 - Peabody Institute 所屬的 Johns Hopkins University 台裔學生社團：[[organizations/johns-hopkins-university-taiwanese-student-association||Johns Hopkins University Taiwanese Student Association]]（membership 未被 TAH 傳記斷言）。
 - Shepherd School of Music 所屬的 Rice University 台裔社團：[[organizations/rice-taiwanese-graduate-student-association||Rice Taiwanese Graduate Student Association]]（membership 未被斷言）。
 - USC（隨 Gabor Rejto 學習、1986 任教助教）的台裔學生社團：[[organizations/taiwanese-american-organization-at-the-university-of-southern-california||Taiwanese American Organization at USC]]。
+
+## Re-check（deepen-x slice 09141400-1，2026-09-14）
+本次 corpus grep（陳建安／Chien-An Chen）僅命中已連結的書目紀錄頁（musician86、whoswho134、ourjourneys301）與 index；TUF 演奏紀錄已見上方「Role in the Community」。本輪 SKIP：無新增可吸收材料。

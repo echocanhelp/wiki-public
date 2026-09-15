@@ -34,6 +34,9 @@ vault 藏有大華府台美人長樂會自創會以來的連續出版紀錄，�
 - 2021 — [[works/taiwaneseamericanhistory-org/publications-1360|TAH #1360：2019–2021 年刊]]
 週一至週二的常態活動（講座、健康體適能、旅遊聯誼）透過週年會刊逐年記錄，屬會務持續性的第一手社群史料。
 
+## Re-check（deepen-x slice 09141400-1，2026-09-14）
+本次 corpus grep（大華府台美人長樂會／TASS of Greater Washington）命中的六筆 work 紀錄（TAH #323、#328、#483、#1210、#1360、相簿 #28）皆已全數收錄於上方會刊出版鏈，無新增可吸收材料。本輪 SKIP：語料已吸收完畢。
+
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-american-senior-society-tass-of-greater-washington-dc/)
 
