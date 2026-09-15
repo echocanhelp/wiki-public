@@ -65,3 +65,6 @@ Visiting Professor of World Religion
 - **Books in the corpus:** beyond the Kierkegaard study, the vault also records 《宗教與現代人生》([[works/taiwaneseamericanhistory-org/462-e5-ae-97-e6-95-99-e8-88-87-e7-8f-be-e4-bb-a3-e4-ba-ba-e7-94-9f-e6-9e-97-e5-a||TAH #462]], 商務 2004/05 — the book TAH #61 credits with reshaping members' Bible study) and a second record of the Kierkegaard book ([[works/taiwaneseamericanhistory-org/464-the-life-thought-of-soren-kierkegaard-timothy-tian-min-lin-e5-a4-96-e6-96-87||TAH #464]]).
 - **Still active in 2017:** 台美人信仰與人文研習會 (TARSA) December 2017 seminar featured him on 宗教 ([[articles/taiwanjustice-net/2017/20171220125053_2017_11_29_全美台灣人權協會年會暨鄭南榕紀念獎_王康陸人_c4d413fd5efb8a9c||台灣公義報 2017-12-20]]).
 - **台大校友 record:** he appears as 林天民(哲學) among signatories in the 南加州台大校友會 2018 statement re 管中閔 ([[articles/taiwanjustice-net/2018/20180721091303_2018_07_20_抗議-南加州台大校友會邀管中閔來年會做專題演講_a428dcebbceacf38||台灣公義報 2018-07-20]]).
+
+## Corpus re-sweep — 2026-09-14 (slice 09141500-2)
+- 全庫 grep（林天民／Tian-Min Lin）命中之作品（TAH #189、#183、#462、#463、#464、Our Journeys #268、#107）皆已連結並吸收於上文 Role in the Community（slice 09141213-32）。無新增社群事實，SKIP-with-reason（已飽和）。
