@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-14
 ---
 # Marlon Chen (陳啟寬)
 
@@ -37,6 +37,9 @@ last_reviewed: 2026-08-17
 ## Family
 
 _No filled family fields on the TAH profile._
+
+## Role in the Community
+Corpus presence is limited to his own TAH encyclopedia entries — [[works/taiwaneseamericanhistory-org/260-marlon-chen-e3-80-80-e9-99-b3-e5-95-9f-e5-af-ac-conductor|260. Marlon Chen 陳啟寬, Conductor]] and [[works/taiwaneseamericanhistory-org/528-marlon-chen-e9-99-b3-e5-95-9f-e5-af-ac-201508|528. Marlon Chen 陳啟寬 (2015/08)]], both dated 2015-08-10. No memoir or organizational mentions found in works/articles beyond these profiles (press-kit biography only; the musician's community role in the movement record is not yet documented in our corpus).
 
 ## Sources
 - [TAH #260 encyclopedia: 260. Marlon Chen　陳啟寬, Conductor](https://taiwaneseamericanhistory.org/260-marlon-chen%e3%80%80%e9%99%b3%e5%95%9f%e5%af%ac-conductor/)

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-14
 ---
 # Jen-Hao Lee (李仁豪牧師)
 
@@ -33,6 +33,15 @@ last_reviewed: 2026-08-17
 ## Family
 
 _No filled family fields on the TAH profile._
+
+## Role in the Community
+The FPCLA church memoir records him as the church's sixth stated pastor, serving 2014–2019 ([[works/taiwaneseamericanhistory-org/ourjourneys231|洛杉磯台灣基督長老教會五十年史]]; English version [[works/taiwaneseamericanhistory-org/ourjourneys231-eng|FPCLA 50-year history, English]]). The memoir credits him with producing daily Bible-reading and devotional materials for the congregation and with significant contributions to the church's celebrated music ministries — FPCLA being the archetypal "music church" of the Taiwanese diaspora, with choirs, orchestras, and hand-bell teams. He reflects in the memoir on FPCLA's role as a "港口教會" (harbor church) for immigrants and warns that Taigi-language churches face a severe sustainability test within 10–20 years unless they develop English/Chinese-language ministries for the second and third generations.
+
+## Timeline
+- 2014–2019 — Sixth stated pastor of Formosan Presbyterian Church in Los Angeles (per church 50-year memoir)
+- 2015/02 — Profiled by 李淑櫻: 音樂、繪畫、牧會 ([[works/taiwaneseamericanhistory-org/mystories201|201. mystories201]])
+- 2015/03 — TAH encyclopedia entries as artist and conductor ([[works/taiwaneseamericanhistory-org/artist32-jen-hao-lee|32. artist]] · [[works/taiwaneseamericanhistory-org/musician160-jen-hao-lee|160. musician/conductor]])
+- 2016/05 — Who's Who entry ([[works/taiwaneseamericanhistory-org/whoswho1022|1022. Jen-Hao Lee 李仁豪]])
 
 ## Sources
 - [TAH #160 encyclopedia: 160.  Rev. Dr. Jen-Hao Lee李仁豪牧師, Conductor/2015/03](https://taiwaneseamericanhistory.org/musician160-jen-hao-lee/)
