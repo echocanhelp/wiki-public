@@ -65,3 +65,6 @@ _No filled family fields on the TAH profile._
 
 ## Corpus check (slice deepen-x-slice-09150316-8, 2026-09-15: SKIP-with-reason)
 - Re-grep works + articles for 陳珊喃/San-Nan Chen: same hit set as prior passes (own TAH #215/#451 records + works/index lines only). No memoir or community mentions; nothing absorbable. last_reviewed refreshed.
+
+## Corpus check (slice deepen-x-slice-09150400-2, 2026-09-15: SKIP-with-reason)
+- Re-grep works + articles: only own TAH #215/#451 record pages + works/index entry lines, identical to all prior passes; no new community facts, nothing absorbable; last_reviewed already today.

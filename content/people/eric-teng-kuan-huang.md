@@ -63,3 +63,7 @@ _No filled family fields on the TAH profile._
 ## Corpus re-check (slice deepen-x-09150316-16, 2026-09-15)
 
 語料重掃：命中僅本人書目頁 #405/#398、漢名異寫頁 #1637（HOLD 見上）與 works/index。memoir 語料無新事實——SKIP。
+
+## Corpus re-check (slice deepen-x-09150400-11, 2026-09-15)
+
+語料重掃（含 黃騰寬|黃勝寬|Teng-Kuan）：命中僅本人書目頁 #405/#398 與漢名異寫頁 #1637（HOLD 見上）。memoir 語料無新事實——SKIP。

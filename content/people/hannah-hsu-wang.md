@@ -58,3 +58,4 @@ Deepen pass 2026-09-14: re-checked against the cited TAH records (#161, #555, #6
 SKIP note (deepen-x 09141300-16, 2026-09-14): corpus grep over content/works + content/articles returned only her own bibliographic records (#4, #62, #131, #143, #161, #555), already linked above — no memoir/press material with new community facts to absorb.
 SKIP note (deepen-x 09142101-5): re-sweep returned the same six own-record hits (#4, #62, #131, #143, #161, #555) — no new memoir/community material, nothing absorbable.
 SKIP note (deepen-x 09150316-6, 2026-09-15): re-sweep returned the same six own-record hits (#4, #62, #131, #143, #161, #555) — no memoir/press material beyond the Performances & Community Record section already on this page; nothing absorbable.
+SKIP note (deepen-x 09150400-2, 2026-09-15): re-sweep returned the same six own-record hits — hit set unchanged; nothing absorbable; last_reviewed already today.

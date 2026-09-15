@@ -88,3 +88,6 @@ SKIP (re-run): grep of works/articles for 徐士坦/Xu Shitan returns zero hits;
 
 ## Deepen — 2026-09-15 (slice 09150316-6)
 SKIP (re-run): grep of works/ + articles/ for 徐士坦/Xu Shitan again returns zero corpus hits; sole record remains the Taiwan Center class-information roster entry. Nothing absorbable; no biography invented.
+
+## Deepen — 2026-09-15 (slice 09150400-3)
+SKIP (re-run): grep works/ + articles/ for 徐士坦/Xu Shitan — zero corpus hits again. Sole record remains the Taiwan Center class-information roster. Nothing absorbable; nothing invented.

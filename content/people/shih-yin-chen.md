@@ -65,3 +65,6 @@ _No filled family fields on the TAH profile._
 
 ## Corpus check (slice deepen-x-slice-09150316-8, 2026-09-15: SKIP-with-reason)
 - Re-grep works + articles for 陳詩音/Shih-Yin Chen: same hit set as prior passes (own TAH #23/#1090 records + works/index lines only). No memoir or community mentions; nothing absorbable. last_reviewed refreshed.
+
+## Corpus check (slice deepen-x-slice-09150400-3, 2026-09-15: SKIP-with-reason)
+- Re-grep works + articles: hit set unchanged (own TAH #23/#1090 record pages only). No memoir/newsletter/community mentions; nothing absorbable, no conflicts to HOLD. last_reviewed current.
