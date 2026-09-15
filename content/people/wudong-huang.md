@@ -21,6 +21,12 @@ last_reviewed: 2026-09-15
 
 3. One of the originators of Formosar Chriotion for Self Determination (台灣人民自決運動發起人之一) 1973
 
+## Role in the Community
+- 1972-12-25（一說 1973-03-20 發起日，HOLD: 兩處紀年 1972-12-25 華盛頓發起 vs 1973-03-20 宣言發布）：與黃彰輝、林宗義、宋泉盛共同發起「台灣人民自決運動」，呼應長老教會 1971-12-29〈對國是的聲明與建議〉；見 [[works/taiwaneseamericanhistory-org/our-journeys-350|Our Journeys 350]]、[[works/taiwaneseamericanhistory-org/ourjourneys267|267. 台灣基督教會在北美洲（黃武東, 11/2016）]]。
+- 著《北美洲台灣基督教會開拓史》（北美教協，1986）：以問卷調查登載美加各地台灣教會（含查經班、團契）基本資料，分八大類，是海外台灣人教會史的最基本參考文獻；後輩研究者以其為起點補充灣區教會史料；見 [[works/taiwaneseamericanhistory-org/our-journeys-350|Our Journeys 350]]、[[works/taiwaneseamericanhistory-org/our-journeys-357|Our Journeys 357]]。
+- 亦撰 [[works/taiwaneseamericanhistory-org/ourjourneys266|266. 台灣人在北美洲（黃武東, 11/2016）]]。
+- 牧会之外亦扶持後學：1964 年私下介紹長老教會資助清苦留學生張瑞雄以交換學生方式轉入舊金山神學院完成學業；見 [[works/taiwaneseamericanhistory-org/ourjourneys76|Our Journeys 76（張瑞雄口述）]]。
+
 <!-- tah-tables:start -->
 ## Education
 - 台南神學校 — 1930
