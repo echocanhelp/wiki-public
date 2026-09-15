@@ -72,3 +72,6 @@ Dr. Franklin Fong-Ming Lee 李豐明博士 – History of Taiwanese American (T.
 
 ## Corpus recheck（deepen-x slice 09142319-9, 2026-09-15）
 - 新增：1977 年第 8 屆美東台灣人夏令會（波士頓召集人張啟典主辦，羅德島 Brown University）邀其與陳錦芳、洪哲勝、鄭義勇等作專題演講 —— [[works/taiwaneseamericanhistory-org/ourjourneys338|Our Journeys #338 楊遠薰：張啟典醫師的回憶—1977年TAC/EC]]。與既有「第五屆召集人」記錄互補，顯示其為 TAC/EC 講員世代核心人物。
+
+## Corpus re-check (slice 09150316-1, 2026-09-15)
+- Re-grep (李豐明／Franklin Fong-Ming Lee, works/ + articles/) returns exactly the six Our Journeys files already wikilinked and absorbed in Role in the Community / Corpus recheck sections (#76 中英、#268、#283、#338、#392)。全文再核對一輪：TAA 28 創始分會、1973 Camp Taconic 合辦、1974 第五屆召集、和平契友聯絡網、1977 第八屆講員等事實均已入頁，無遺漏事實可新增。傳記未變。

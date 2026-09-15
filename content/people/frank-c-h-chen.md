@@ -69,3 +69,6 @@ Frank C.H. Chen (Conductor). Frank C.H. Chen holds a BS and MS degrees in Electr
 
 ## Corpus re-check (slice 09142319-7, 2026-09-15) — SKIP
 - SKIP-with-reason: third corpus grep pass (陳治煌／Frank C.H. Chen, works/ + articles/) returns only his own TAH entries (#408/#1706/#1708, already linked and absorbed into the Timeline/Vault Holdings above) plus index.md rows. No new community/memoir mentions; biography unchanged.
+
+## Corpus re-check (slice 09150316-1, 2026-09-15) — SKIP
+- SKIP-with-reason: fourth corpus grep pass (陳治煌／Frank C.H. Chen, works/ + articles/) again returns only his own TAH entry pages (#408/#1706/#1708, already linked and absorbed into Timeline/Vault Holdings) plus index.md rows. No memoir/community mentions; nothing absorbable, biography unchanged, last_reviewed current.

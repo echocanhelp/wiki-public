@@ -7,7 +7,7 @@ tags:
   - Taiwan-Center
   - Taiwan-School
 verification_status: published
-last_reviewed: 2026-09-14
+last_reviewed: 2026-09-15
 ---
 # Xu Shitan (徐士坦)
 
@@ -85,3 +85,6 @@ Re-verified: no new vault facts. Sole record remains the Taiwan Center class-inf
 
 ## Deepen — 2026-09-14 (slice 09142101-6)
 SKIP (re-run): grep of works/articles for 徐士坦/Xu Shitan returns zero hits; sole record remains the Taiwan Center class-information roster. Nothing absorbable.
+
+## Deepen — 2026-09-15 (slice 09150316-6)
+SKIP (re-run): grep of works/ + articles/ for 徐士坦/Xu Shitan again returns zero corpus hits; sole record remains the Taiwan Center class-information roster entry. Nothing absorbable; no biography invented.

@@ -68,3 +68,5 @@ last_reviewed: 2026-09-15
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+Corpus re-check (slice 09150316-6, 2026-09-15): grep of works/ + articles/ again returns only own TAH/TA bibliographic records (already linked above), the 林靜竹 Our Journeys #164 memoir (absorbed 2026-09-14, HOLD on 職銜 conflict stands), and the 台美小姐/黃海倫法官 report (absorbed 2026-09-15). No new absorbable community facts.

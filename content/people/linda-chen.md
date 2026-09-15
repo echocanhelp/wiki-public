@@ -69,3 +69,6 @@ Born in Taipei, Taiwan, Linda began piano lessons at the age of four. A few year
 
 ## Corpus re-check (slice 09142319-7, 2026-09-15) — SKIP
 - SKIP-with-reason: corpus grep (陳映妤／Linda Chen, works/ + articles/) matches only her own TAH #264/#530 entry pages (already linked above) plus index.md rows. No memoir/community material mentions this subject; nothing absorbable.
+
+## Corpus re-check (slice 09150316-1, 2026-09-15) — SKIP
+- SKIP-with-reason: re-grep (陳映妤／Linda Chen, works/ + articles/) matches only her own TAH #264/#530 entry pages (already linked in Vault records) plus index.md rows. No memoir/community material; nothing absorbable, biography unchanged.

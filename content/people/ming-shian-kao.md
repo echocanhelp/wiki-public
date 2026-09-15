@@ -64,3 +64,6 @@ For more information, please clickProjects >>>14. Pride of T. A. >>>6. 全美最
 
 ## 再掃（slice deepen-x-slice-09142319-22，2026-09-15）
 - corpus grep（高銘憲｜Ming-Shian Kao）命中六作：#902 專訪、#492、#553、#6（Pride of T.A.）、#305（張理美聖路易教會史）、#1262——全部已吸收於上列 Role in the Community 並已 wikilink。#305 內其餘細節（1982-05 合法登記非營利教會、1984-11 賴俊明牧師赴任等）屬教會整體史而非本人社群事實，不予搬入。無新事實，僅刷新 last_reviewed。
+
+## 再掃（slice deepen-x-slice-09150316-8，2026-09-15）
+- 再次 grep works+articles：命中集與上列完全相同（#902、#492、#553、#6、#305、#1262 及本人 TAH #88 記錄頁），全部已吸收並 wikilink。無新社群事實，無衝突需 HOLD，僅刷新 last_reviewed。
