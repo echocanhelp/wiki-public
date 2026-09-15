@@ -60,6 +60,8 @@ _No filled family fields on the TAH profile._
 - 本人條目即「台美史料中心（T.A. Archives）」TAH 百科收录；vault 已有其介紹頁 [[works/taiwaneseamericanhistory-org/introduction-of-the-ta-archives||台美史料中心介紹]]（地域與史料關聯，非本人職務事實）。
 - 台大（1968 畢業）、康乃爾教職、NUS 皆無對應機構頁；新增連結僅限既有 slug。
 
+## Deepen pass (2026-09-14, slice 09141213-24)
+- 語料庫檢索命中本人為 2021 Pew 聲明連署人（NATPA 身分），已吸收至上列 Role in the Community 並連結語料頁（band A 第一手記錄）。
+
 ## Deepen pass (2026-09-14, slice 09141500-5)
 - 語料庫重檢（劉立方｜Philip Liu｜Li-Fan）命中僅三處：本人 TAH #2021 百科頁、Pew 聲明連署名單、works/index——全部已於上列吸收或為索引頁。**SKIP：無新語料事實可吸收**。
-- 語料庫檢索命中本人為 2021 Pew 聲明連署人（NATPA 身分），已吸收至上列 Role in the Community 並連結語料頁（band A 第一手記錄）。
