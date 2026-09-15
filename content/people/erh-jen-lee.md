@@ -69,3 +69,6 @@ _No filled family fields on the TAH profile._
 
 ## Deepen pass 2026-09-15（slice 09150400-18 re-sweep）
 - SKIP-with-reason：重掃（李爾仁／Erh-Jen Lee）命中集合不變——僅本人 TAH #404 書目頁與 works/index.md；無新增 memoir／會刊提及，無衝突須 HOLD。
+
+## Deepen pass 2026-09-15（slice 09150500-9 re-sweep）
+- SKIP-with-reason：重掃（李爾仁／Erh-Jen Lee）命中集合不變——僅本人 TAH #404 書目頁與 works/index.md；無新增社群事實。
