@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-14
+last_reviewed: 2026-09-15
 absorb_note: 2026-09-10 deep pass — sole cited work record 34-e9-bb-83 dated 2015-03-06; no other vault page mentions him
 ---
 # SHIH CHIEH HUANG (黃世傑)
@@ -60,3 +60,6 @@ Re-checked the sole cited work record (#34, 2015/03): all absorbable text is alr
 
 ### Corpus grep 2026-09-14 (slice -15, re-verified slice deepen-x-09142101-4) — SKIP with reason
 Further corpus hits for 黃世傑 are all **different people**, not the artist: a 台大醫科 alumnus 黃世傑 in the NTU alumni roster (taiwanjustice.net petition page), Taipei 衛生局長 黃世傑 (2025 pandemic news), and ROC 立委 黃世傑 (游錫堃 2022 法國行). No memoir or article mentions this artist. Nothing absorbable; no new links added.
+
+### Corpus re-check (deepen-x slice 09150316-4, 2026-09-15) — SKIP with reason
+全語料再檢「黃世傑／Shih Chieh Huang」：命中僅本人 TAH #34 條目、works index，及三位**同名不同人**——台大醫科校友黃世傑（南加州台大校友會連署名單）、台北市衛生局長黃世傑（2025 防疫新聞）、ROC 立委黃世傑（游錫堃 2022 法國行）。無任何涉及本藝術家之回憶錄/社團記錄；無新可吸收事實，無衝突需 HOLD。

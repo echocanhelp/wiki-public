@@ -59,6 +59,10 @@ Descendant Hsu Ya-chin (許雅琴) led the heritage application (reviewed Mar 20
 
 - SKIP-with-reason：「許凌雲／Hsu Ling-yun」於 works/、articles/ 第四次全語料檢索仍零命中（無成語誤合以外的命中），無回憶錄或社團刊物敘事涉及本館；既有內容與連結經 slice 1、8、16 三次複核通過。
 
+## Vault records (deepen pass 2026-09-15, slice 09150316-4)
+
+- SKIP-with-reason：「許凌雲／Ling-yun」於 works/、articles/ 第五次全語料檢索仍零實質命中（僅 our-journeys-383 及 taiwanjustice 文章之成語「壯志凌雲」誤合，與本館無關）；無回憶錄或社團刊物涉及本館，既有內容與連結經 slice 1、8、16、11 四次複核通過。
+
 ## Sources
 
 1. [澎湖知識服務平台](https://penghu.info/OB08DF845E664F47451E)

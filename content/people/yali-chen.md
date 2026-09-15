@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-14
+last_reviewed: 2026-09-15
 ---
 # Yali Chen (陳雅莉)
 
@@ -63,3 +63,6 @@ Absorbed from the profile text and cited TAH encyclopedia entries:
 
 ## Corpus re-check (deepen-x slice 09142101-7, 2026-09-14)
 - SKIP-with-reason: corpus grep (陳雅莉 / Yali Chen across works + articles) returns only her own two TAH records (#330, #843) and the works index — no memoir/community mentions elsewhere in the corpus. Consistent with the earlier same-day vault re-check on this page; no new absorbable facts, no conflicts to HOLD.
+
+## Corpus re-check (deepen-x slice 09150316-4, 2026-09-15)
+- SKIP-with-reason: 全語料再檢「陳雅莉／Yali Chen」於 works/、articles/ 仍僅命中本人 TAH 條目（#330、#843）及 works index，無回憶錄或社團刊物提及；無新可吸收事實、無衝突需 HOLD，既有連結複核通過。

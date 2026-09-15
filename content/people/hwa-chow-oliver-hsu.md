@@ -57,6 +57,9 @@ Absorbed from this page's TAH encyclopedia entries (#366, #151) and the TAH tabl
 ## Corpus recheck（deepen-x slice 09141400-8, 2026-09-14）
 - SKIP-with-reason：hits 為本人 TAH 條目（[[works/taiwaneseamericanhistory-org/366-hwa-chow-oliver-hsu-e8-a8-b1-e8-8f-af-e6-b4-b2201504|#366]]、[[works/taiwaneseamericanhistory-org/151-hwa-chow-oliver-hsu-e8-a8-b1-e8-8f-af-e6-b4-b2201502|#151]]，均已吸收）與 index 列表，無新社群事證；Hsu-Nami 大提琴參與記錄維持現載。
 
+## Corpus recheck（deepen-x slice 09150316-4, 2026-09-15）
+- SKIP-with-reason：hits 維持本人 TAH 條目（#366、#151）、works index，及 Hsu-Nami 演出三則書目頁（Pianos NYC 2011、Beast Attire、Stairway to the Dream Stage 11）——後三者為 B 級書目記錄，未載團員名單，無大提琴署名細節可吸收；僅 the-hsu-nami-new-album（A 級訪談）記錄其弦樂參與，已於 Role in the Community 吸收。無新社群事實、無衝突需 HOLD。
+
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
