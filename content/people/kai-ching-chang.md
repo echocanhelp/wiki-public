@@ -58,3 +58,6 @@ _No filled family fields on the TAH profile._
 - 同語料庫 TAH 鋼琴家記錄：[[people/yin-yin-huang|Yin Yin Huang 黄煐媖]]（TAH 百科 #202，2015/05 批次）。
 - 2026-09-14 slice 09141213-19 複核：全語料 grep（works/articles，含簡體「张凯晶」）命中僅限本頁書目記錄 #29／#512；無其他回憶錄素材可吸收——**SKIP（理由已記錄於頁）**。
 - [[sources/taiwaneseamericanhistory-org-story-corpus|TAH 故事語料庫]]
+
+## Deepen pass (2026-09-15, slice 09142320-4)
+- SKIP-with-reason：語料庫檢索（works/articles，含簡體「张凯晶」）再次復核，命中僅本人書目頁 [[works/taiwaneseamericanhistory-org/29-kai-ching-chang-e5-bc-b5-e5-87-b1-e6-99-b6-piano|TAH #29]]、[[works/taiwaneseamericanhistory-org/512-kai-ching-chang-e5-bc-b5-e5-87-b1-e6-99-b6-201507|TAH #512]] 及 works/index 條目行，無回憶錄/社群第一手材料可吸收。
