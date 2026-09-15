@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-14
+last_reviewed: 2026-09-15
 ---
 # Chien-Tai Chen (陳建台)
 
@@ -48,4 +48,4 @@ _No filled family fields on the TAH profile._
 - [[works/taiwaneseamericanhistory-org/302-chien-tai-chen-e9-99-b3-e5-bb-ba-e5-8f-b0-composer-201510||2015-10: TAH #302 encyclopedia entry — Composer]]
 - Maryland years (Ph.D. 1984, then faculty): [[organizations/university-of-maryland-taiwanese-student-association||UMD TSA]] and [[organizations/taiwanese-american-student-association-at-the-university-of-maryland-college-park||UMCP TSA]] are the campus-adjacent TA community pages in the vault
 
-複核（deepen-x 2026-09-14）：corpus re-grep 僅見本人書目記錄 #654/#302（全文未入庫）與 index 條目，無可吸收之社群/回憶錄材料 — SKIP，以既有連結為準。
+複核（deepen-x 2026-09-15）：corpus re-grep（works+articles，含 index）僅見本人書目記錄 #654/#302（全文未入庫）與 index 條目，無回忆錄/社群材料可吸收 — SKIP，維持既有連結為準。

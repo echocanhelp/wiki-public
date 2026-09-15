@@ -49,3 +49,5 @@ Dr. Ching-Hsing Liao 廖進興博士 – History of Taiwanese American (T.A. Arc
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+複核（deepen-x 2026-09-15）：corpus re-grep（works+articles）僅見 ourjourneys126 盧主義回憶錄（已吸收至上方 Role in the Community）與 index 書目條目，無新增社群材料 — 維持現況。
