@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-15
 ---
 # Gail Lee (李秀文)
 
@@ -30,6 +30,11 @@ Gail Hsiu-Wen Lee’s passion to bring live classical music to Central New Jerse
 - Alfred University Orchestra at Alfred University — Conductor
 - The New Brunswick Chamber Orchestra — Artistic Director and Conductor
 <!-- tah-tables:end -->
+
+## Role in the Community
+- Profiled in the TAH "musician" story series as entry #63 among the documented Taiwanese American musicians of 2014/10 — the same series covering 丁曉雯 (pianist, #64), 許鴻玉 (pianist, #62), 李秀麗 (vocalist, #61) and 陳麗嬋 (soprano, #60) [[works/taiwaneseamericanhistory-org/musician63|63. Gail Lee 李秀文, Conductor/2014/10]].
+- Her founding of Sinfonietta Nova (2008, West Windsor NJ) brought live classical symphony music to Central New Jersey's Taiwanese American community; later recorded in the TAH Who's Who corpus as [[works/taiwaneseamericanhistory-org/whoswho1115-2|1115. Gail Lee 李秀文 / 2016/06]].
+- Note: not to be confused with vocalist 李秀麗 (Elizabeth S. Chen), a different musician-series subject.
 
 ## Family
 

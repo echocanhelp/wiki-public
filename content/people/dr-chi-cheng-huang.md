@@ -36,6 +36,12 @@ Accomplishment
 - **Wife:** Kristin
 
 
+## Role in the Community
+- Wrote the first-person account of his Bolivian street-children work: 玻利維亞街童的春天 ([[works/taiwaneseamericanhistory-org/150-e7-8e-bb-e5-88-a9-e7-b6-ad-e4-ba-9e-e8-a1-97-e7-ab-a5-e7-9a-84-e6-98-a5-e5-a|141. 玻利維亞街童的春天]], 2014), reissued with 唐藹邦 as [[works/taiwaneseamericanhistory-org/209-e7-8e-bb-e5-88-a9-e7-b6-ad-e4-ba-9e-e8-a1-97-e7-ab-a5-e7-9a-84-e6-98-a5-e5-a|209. 玻利維亞街童的春天]] — describing how, seeing street children scavenging at night in La Paz, he founded Kaya International to fund aid for them.
+- HOLD: org name conflict — TAH profile says "Kaya Children International", the 2014 corpus essay says "Kaya International"; not merged.
+- Entered the movement's cultural record: at the Taiwanese American Community Center grand-opening concert (李智惠 recital), her song 孩子們 was composed from Dr. 黃至成's story ([[works/taiwaneseamericanhistory-org/ourjourneys162|Our Journeys 162 — center grand opening]]).
+- Cited in the second-generation survey of outstanding Taiwanese American physicians alongside surgeon Bernard Lee ([[works/taiwaneseamericanhistory-org/ourjourneys291|Our Journeys 291]]).
+
 ## Sources
 - [TAH #236 encyclopedia: 236. Dr. Chi Cheng Huang 黃至成醫師](https://taiwaneseamericanhistory.org/ota-236/)
 - [TAH #600 encyclopedia: 600. Dr. Chi-Cheng Huang 黃至成醫師](https://taiwaneseamericanhistory.org/whos-who-600-chi-cheng-huang/)
