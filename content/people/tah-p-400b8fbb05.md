@@ -64,3 +64,4 @@ _No filled family fields on the TAH profile._
 - Slice 09150316-19（2026-09-15）：語料重掃僅命中 #269、#540 兩則百科條目及索引頁；無可吸收新事實——SKIP-with-reason。
 - Slice 09150400-18（2026-09-15）：語料重掃（施彥伃／Yan-Yu Shih）僅命中本人 #269、#540 兩則百科條目與 works index；無可吸收新事實——SKIP-with-reason。
 - Slice 09150500-10（2026-09-15）：語料重掃結果與歷次相同——僅 #269、#540 書目頁與 works/index 目錄列，無回憶錄／社群正文可吸收——SKIP-with-reason。
+- Slice 09150600-2（2026-09-15）：語料重掃結果與歷次相同——僅 #269、#540 書目頁與 works/index 目錄列，無可吸收新事實——SKIP-with-reason。

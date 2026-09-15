@@ -46,3 +46,6 @@ Corroborating community memory: 吳木盛's essay [[works/taiwaneseamericanhisto
 
 ## Deepen-x re-check (slice 09150500-9, 2026-09-15)
 - 重掃命中集合不變——僅本組織 own 書目頁與 works/index 列表——**SKIP（無新社群事實可吸收）**。
+
+## Deepen-x re-check (slice 09150600-2, 2026-09-15)
+- 重掃命中集合不變——僅本組織 own 書目頁（directory record、#978、#1145、民主台灣通訊）與 works/index 列表——**SKIP（無新社群事實可吸收）**。

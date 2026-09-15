@@ -58,6 +58,7 @@ Prof. Liang-Tseng Fan 范良政教授 – History of Taiwanese American (T.A. Ar
 ## Deepen-x re-check (slices 09142320-3 & 09150316-31, 2026-09-15)
 - SKIP-with-reason for Prof. Liang-Tseng Fan 范良政: corpus grep (works/articles, 范良政 / Liang-Tseng Fan) returns only records already linked on this page (TAH #22, #59, #130, #33, #58, works index) — the ourjourneys58 通訊錄 first-buyer and ourjourneys33 mentorship facts are already absorbed in Role in the Community. Nothing new absorbable; no conflicts.
 - Slice 09150316-31 re-grep: hit set unchanged (same five work pages plus the works index); context check of ourjourneys33/ourjourneys58 confirms the Kansas State mentorship, 1967 通訊錄 first-buyer, and Kansas Suite Group/unification-independence debate facts are all already on this page. Maintains **SKIP**.
+- Slice 09150600-3 re-grep: hit set again unchanged ([[works/taiwaneseamericanhistory-org/senior-taiwanese-american-22|TAH #22]]、[[works/taiwaneseamericanhistory-org/whos-who-59-liang-tseng-fan|#59]]、[[works/taiwaneseamericanhistory-org/130-prof-liang-tseng-fan|#130]]、[[works/taiwaneseamericanhistory-org/ourjourneys33|#33]]、[[works/taiwaneseamericanhistory-org/ourjourneys58|#58]] plus works index), all已連結且事實已吸收於 Role in the Community。維持 **SKIP**，無新素材、無衝突。
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

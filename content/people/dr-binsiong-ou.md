@@ -66,3 +66,6 @@ Corpus material shows Dr. Ou primarily as a Taiwan-language literature writer, c
 
 ## deepen 2026-09-15
 - 語料庫複核：TAH 藏書再多 7 筆本人著作/編著（261/264 台語文學選兩版、262 燭火闖關蔡正隆紀念文集編、266 台灣製、268 夏娃伊意紀遊、269 走探台灣文學痕跡、270 台語母奶情深）已全部吸收並連結，佐證「出版 14 本台灣人著作」。261 與 264 同標題別版 slug：HOLD: 疑同書雙重建頁。
+
+## Deepen-x 2026-09-15 (slice 09150600-4)
+- 語料庫復核：grep 胡民祥／Binsiong Ou 命中（columns20、260、264、265、271、272 等書目頁）已全部存在於本頁 Role in the Community 連結中，命中集合無新增；HOLD（261 vs 264 同標題別版疑雙重建頁）維持不變。無新事實可吸收。

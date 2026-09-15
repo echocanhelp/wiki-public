@@ -74,3 +74,4 @@ last_reviewed: 2026-09-15
 - （複掃 2026-09-15，slice 09150316-25：SKIP）再掃結果不變——江永芳／Frank Chiang 於 works／articles 僅命中本人書目頁 #185、#768 及 works/index 目錄列，回憶錄／語料庫無社群一手材料可吸收。
 - （複掃 2026-09-15，slice 09150400-19：SKIP）重掃結果不變——僅 [[works/taiwaneseamericanhistory-org/185-prof-frank-chiang|TAH #185]]、[[works/taiwaneseamericanhistory-org/whos-who-768-frank-chiang|TAH #768]] 書目記錄與 works/index 命中，無社群一手材料可吸收。
 - （複掃 2026-09-15，slice 09150500-12：**SKIP**）重掃結果不變——江永芳／Frank Chiang 於 works／articles 僅命中本人書目頁 #185、#768，無社群一手材料可吸收。
+- （複掃 2026-09-15，slice 09150600-3：**SKIP**）重掃結果不變——江永芳／Frank Chiang 於 works／articles 僅命中本人書目頁 [[works/taiwaneseamericanhistory-org/185-prof-frank-chiang|TAH #185]]、[[works/taiwaneseamericanhistory-org/whos-who-768-frank-chiang|#768]] 及 works/index 目錄列，無社群一手材料可吸收；無衝突記載。

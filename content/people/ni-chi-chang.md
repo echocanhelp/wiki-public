@@ -66,3 +66,6 @@ Her two vault records are [[works/taiwaneseamericanhistory-org/musician421|TAH #
 
 ## Deepen-x re-check (slice 09150500-15, 2026-09-15)
 - SKIP-with-reason：語料庫檢索（works/articles，張倪綺/Ni-Chi Chang）再次復核，命中僅本人書目頁 [[works/taiwaneseamericanhistory-org/musician421|TAH #421]]、[[works/taiwaneseamericanhistory-org/whos-who-1813-ni-chi-chang|TAH #1813]]（皆已連結）及 works index 條目行，無回憶錄/社群第一手材料可吸收。
+
+## Deepen-x re-check (slice 09150600-3)
+- SKIP-with-reason：語料庫檢索（works/articles，張倪綺/Ni-Chi Chang）第六次復核，命中仍僅本人書目頁 [[works/taiwaneseamericanhistory-org/musician421|TAH #421]]、[[works/taiwaneseamericanhistory-org/whos-who-1813-ni-chi-chang|TAH #1813]]（皆已連結）與 works index 條目行，無回憶錄/社群第一手材料可吸收。
