@@ -46,6 +46,9 @@ last_reviewed: 2026-09-15
 - The Chen Wen-chen Memorial Foundation was formally registered as a non-profit in New Jersey in **1982-03** (over eight months after the fund's creation) and applied for IRS tax-exempt status; most donations were routed directly to the Formosan Association for Human Rights for custody — see [[works/taiwaneseamericanhistory-org/ourjourneys8-eng|Our Journeys #8 (EN), his own founding account]].
 - Continued correspondence over the foundation for many years despite never having met the earlier organizer in person.
 
+## Deepen-x re-check (slice 09150700-16, 2026-09-15)
+- Re-grepped 林富文／Evan Ling against content/works + content/articles: hit set = Our Journeys #8(EN)/#76(EN)/#321(EN) + own TAH #1679 record + works index — all facts in these memos (TAA Atlanta founding under 許和瑞's 9-chapter expansion to 43, 陳文成基金會 founding account, 1981-10 phone-call expansion with 陳素貞 tour, 紀念專集 printing division, 石林/甘子 code names, 1982-03 NJ registration) are already absorbed above. No new community material; no conflicts to HOLD.
+
 ## Sources
 - [TAH #1679 encyclopedia: 1679. Dr. Evan Ling 林富文博士](https://taiwaneseamericanhistory.org/whos-who-1679-evan-ling/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-evan-ling/)
