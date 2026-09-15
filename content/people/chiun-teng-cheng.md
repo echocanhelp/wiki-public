@@ -70,3 +70,6 @@ Re-check: the #243 encyclopedia record is held in-vault at [[works/taiwaneseamer
 
 ## Corpus re-check 2026-09-14 (deepen-x slice 09141300-10)
 SKIP-with-reason: corpus grep of `content/works` + `content/articles` for 鄭俊騰/Chiun-Teng returns only his own TAH records #130 and #243 (both already wikilinked in Timeline/Connected sections) plus the works index. No memoir, Our Journeys, or article material mentions him — no community/corpus facts absorbable beyond the TAH press-kit bio already absorbed. Nothing published.
+
+## Corpus re-check 2026-09-14 (deepen-x slice 09142101-1)
+SKIP-with-reason: corpus grep of `content/works` + `content/articles` for 鄭俊騰/Chiun-Teng again returns only his own TAH records #130/#243 (both already wikilinked in Timeline/Connected sections). No memoir or article mentions; nothing absorbable. last_reviewed already 2026-09-14. Nothing published.

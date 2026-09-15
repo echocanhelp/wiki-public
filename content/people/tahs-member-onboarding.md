@@ -75,3 +75,6 @@ Verified backlinks: [[people/david-lee||David Lee (李東璞)]] and [[people/ind
 ## Deepen pass 2026-09-14 (vault-only)
 - The society page's member-records section documents this pathway applied in practice: [[people/rex-chen||Rex Chen (陳乃光)]] (member since 2026-06-15, introduced by [[people/leonard-hsu-jr||Leonard Hsu Jr.]]), [[people/ken-wu||Ken Wu (吳兆峯)]], and [[people/lester-tsai||Lester Tsai, MD]] (member since 2026-09-11, also introduced by Leonard Hsu Jr.) — each an instance of the identity-confirmation + consent-boundary steps above.
 - No new vault facts beyond the prior 2026-09-10/11 passes; no new pages created.
+
+## Corpus re-check 2026-09-14 (deepen-x slice 09142101-1)
+SKIP-with-reason (repeat): grep for onboarding/member-onboarding in content/works + content/articles — zero hits. Internal TAHS workflow page, not a movement figure; no memoir material exists to absorb. Nothing published.

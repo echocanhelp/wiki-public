@@ -68,3 +68,6 @@ Cross-linked the second vault record TAH #28 (2014-10); it carries no facts beyo
 
 ## Corpus re-check 2026-09-14 (deepen-x slice 09141300-10)
 SKIP-with-reason: corpus grep of `content/works` + `content/articles` for 蔡懷恩/Huai-En returns only his own TAH records #421 and #28 (both already wikilinked above) plus the works index. No memoir or article material mentions him; the Greater Washington link on this page is already caveated as regional, not membership. No community/corpus facts absorbable. Nothing published.
+
+## Corpus re-check 2026-09-14 (deepen-x slice 09142101-1)
+SKIP-with-reason: corpus grep for 蔡懷恩/Huai-En returns zero hits beyond his own TAH records #421/#28 (already wikilinked above). No community/corpus facts absorbable. last_reviewed already 2026-09-14. Nothing published.

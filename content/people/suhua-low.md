@@ -49,6 +49,9 @@ _No filled family fields on the TAH profile._
 - Vault art-association pages for cross-reference (no documented membership): [[organizations/new-world-art-center]], [[organizations/neo-art-league]], [[organizations/north-america-pastel-artist-association]], [[organizations/taiwanese-american-arts-council-taac]].
 - Somerset Art Association (NJ) and Greenwich Art Council (CT) — her documented exhibiting venues — have no vault pages yet.
 
+## Corpus re-check 2026-09-14 (deepen-x slice 09142101-1)
+SKIP-with-reason: corpus grep for 陳素華/Suhua returns a single superficial hit — 林素華(園藝) in the 台大校友連署清單 of [[articles/taiwanjustice-net/2018/20180721091303_2018_07_20_抗議-南加州台大校友會邀管中閔來年會做專題演講_a428dcebbceacf38|taiwanjustice 2018-07-21]], a different person (林, not 陳); no other material. Nothing absorbable beyond TAH records #45/#1003 already linked. Nothing invented, nothing published.
+
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
