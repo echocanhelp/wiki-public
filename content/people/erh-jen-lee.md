@@ -57,3 +57,6 @@ _No filled family fields on the TAH profile._
 - Her TAH #404 biography ([[works/taiwaneseamericanhistory-org/erh-jen-lee-pianist-oboist-accompanist-chamber-musician-and-a-music-educator||published 2017-06-05]]) records the full arc: piano from age 5; Kawai Piano Competition Taiwan at age 10 (Mozart piano sonata, 3rd movement); three first prizes in Taiwan's National Oboe Competition by age 13; win at the International Chopin Piano Competition of Taipei → scholarship to study with **Constance Keene** at the Manhattan School of Music, with further study at the Juilliard School; doctoral degree, Catholic University of America (2013).
 - Honored with "The National Outstanding Artist Achievement Award" from the Chi-Mei Cultural Arts Foundation, 2001–2003.
 - Since 2011: Rehearsal Artist / Accompanist, American Dance Institute; also Rehearsal Artist and School Accompanist, Washington Ballet.
+
+## Deepen pass 2026-09-14（re-sweep）
+- SKIP-with-reason: 全語料庫重掃僅命中其本人 TAH #404 傳記條目（已吸收），無其他 memoir／會刊提及，無可吸收之新增社群事實。

@@ -70,3 +70,6 @@ _No filled family fields on the TAH profile._
 
 ## Vault 條目刊期（deepen pass 2026-09-14 自 vault 記錄吸收）
 - #244（第一位參加諾貝爾獎音樂會演出）：2016-02-10 刊；#247（Violinist）與 #505：皆 2015-07-18 刊。
+
+## Deepen pass 2026-09-14（re-sweep）
+- SKIP-with-reason: 全語料庫重掃僅命中其本人 TAH #244／#247／#505 傳記條目（均已連結），無其他 memoir／會刊提及，無可吸收之新增社群事實。

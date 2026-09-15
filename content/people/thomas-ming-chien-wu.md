@@ -52,7 +52,12 @@ _No filled family fields on the TAH profile._
 - [[works/taiwaneseamericanhistory-org/ff157|TAH #157 吳明杰博士 / 第一位擁有聲樂博士學位]]
 - [[works/taiwaneseamericanhistory-org/los-angeles-taiwanese-american-symphony-orchestra-taso|TAH #43 洛杉磯台美交響樂團 (TASO)]]
 
-Deepen pass 2026-09-14: both cited vault records are bibliographic stubs; no additional in-vault facts (no web used). No vault org pages exist yet for 國立師範大學, UCLA, USC, 洛杉磯台美室內樂團, or 台美交響樂團 as standalone organizations, so links above are to the TAH records themselves.
+Deepen pass 2026-09-14 (早期注記): cited vault records were bibliographic stubs; no vault org pages exist yet for 國立師範大學, UCLA, USC, 洛杉磯台美室內樂團, or 台美交響樂團 as standalone organizations, so links above are to the TAH records themselves.
+
+## Role in the Community（deepen pass 2026-09-14 自 corpus 吸收）
+- **回台任教**：TAH 記錄 [[works/taiwaneseamericanhistory-org/16-e5-90-b3-e6-98-8e-e6-9d-b0-e5-8d-9a-e5-a3-ab-e5-9b-9e-e5-8f-b0-e6-93-94-e4-bb|TAH #16 吳明杰博士回台擔任國立屏東大學音樂系教授]]（2016）——返台執教國立屏東大學音樂系，為其留美生涯之後的教職延伸。
+- **會館文獻**：[[works/taiwaneseamericanhistory-org/ourjourneys29|Our Journeys 29（南加州台灣會館）]] 紀念錄影帶「台灣人的歌」專輯工作人員合影記有吳明杰，同列者有 [[people/jau-ching-lai|賴昭晴]]、廖欽和、李麗華，鋼琴演奏為 [[people/quei-lih-chen|陳瑰麗]]——顯示其參與南加州台灣會館的音樂製作工作。
+- 排除：[[articles/taiwanjustice-net/2024/20240721111210_root_01acab92f6a50d18|2024-07-21 台灣正義網報導]] 之摄影記者「吳明杰」為同名台灣記者，非本頁人物，不合併。
 
 ## Sources
 - [TAH #327 encyclopedia: 327. Thomas Ming-Chieh Wu 吳明杰, Vocalist / 2016/02](https://taiwaneseamericanhistory.org/327-thomas-min-g-chieh-wu-%e5%90%b3%e6%98%8e%e6%9d%b0-vocalist-201602/)

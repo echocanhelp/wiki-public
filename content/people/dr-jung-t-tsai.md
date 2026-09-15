@@ -67,3 +67,9 @@ Accomplishment
 ## Deepen pass (2026-09-14)
 - 名字拼寫待核（HOLD，不自動合併）：vault 條目 [[works/taiwaneseamericanhistory-org/215-dr-long-tsung-tsai-e8-94-a1-e6-a6-ae-e8-81-b0-e9-86-ab-e5-b8-ab-the-first-pr|TAH #215]] 標題作「Dr. **Long Tsung** Tsai」，漢名與 #183／Who's Who #165「蔡榮聰醫師」相同；暫並列記錄，待確認後再統一。
 - 1971 年 M.D. 母校之美國校友紀錄維持：[[works/taiwaneseamericanhistory-org/china-medical-university|中國醫藥學院全美國校友會總會]]。
+
+## Role in the Community（deepen pass 2026-09-14 自 corpus 吸收）
+- **大紐約區海外台灣人筆會**：會刊回顧 [[works/taiwaneseamericanhistory-org/ourjourneys12|Our Journeys 筆會十年]] 記載筆會由楊慶安、蔡榮聰、王淑芬、林淑麗四人發起，**創立於 2003-11-29**，成立大會於佳壇台語教會舉行，公推蔡榮聰醫師任第一任會長；首任期間由會長本人收集稿件編排年刊。筆會第一次活動為 2004 年 3 月組成 60 餘人總統助選團隊返台助選，並在桃園機場發表國臺現狀聲明。
+  - HOLD: 衝突 — 筆會創設年份 corpus 記 2003-11-29（ourjourneys12）vs TAH 表列 2005（該年實為第一屆年會，2005-01-01），不自動合併。
+- **義診**：本人親撰 [[works/taiwaneseamericanhistory-org/83-e7-be-a9-e8-a8-ba-e7-9a-84-e5-91-bc-e5-8f-ac-e9-9b-a3-e5-bf-98-e7-9a-84-e6-b5|TAH #83 義診的呼召：難忘的海地與多明尼加]]（2015/01）， firsthand 記錄加勒比海海外義診經歷。
+- **著作**：另有親撰散文 [[works/taiwaneseamericanhistory-org/185-e5-a5-b3-e5-85-92-e7-b5-90-e5-a9-9a-e6-84-9f-e8-a8-80-e8-94-a1-e6-a6-ae-e8-8|TAH #185 女兒結婚感言]]（2015/01），與 Family 欄女兒蔡華珊相呼應。
