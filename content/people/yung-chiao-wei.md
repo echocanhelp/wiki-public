@@ -53,7 +53,7 @@ _No filled family fields on the TAH profile._
 - [[works/taiwaneseamericanhistory-org/198-yung-chiao-wei-e9-ad-8f-e8-a9-a0-e8-95-8e-bassist-201505|TAH #198 encyclopedia]] — Yung-Chiao Wei 魏詠蕎, Bassist（2015-05 刊）
 - [[works/taiwaneseamericanhistory-org/422-yung-chiao-wei-e9-ad-8f-e8-a9-a0-e8-95-8e-201505|TAH #422 encyclopedia]] — Yung-Chiao Wei 魏詠蕎（2015-05 刊）
 - deepen pass 2026-09-14：兩條百科條目（#198 註記 Bassist、#422）均已入 vault；經文中點名的 Gary Karr、Eugene Levinson 屬外部音樂家、vault 暫無頁面，不新建；現任路易斯安納州立大學音樂系低音提琴教授一節以 #422 條目為準。
-- SKIP 歷次複核（deepen-x slices 09141213-23、09141500-9、09142320-2、09150400-29、09150500-20，2026-09-14/15）：全語料庫歷次 grep（魏詠蕎／Yung-Chiao Wei）命中集合不變，僅命中 #198、#422 書目頁與 works/index，社群/回憶錄材料零命中，維持 SKIP。
+- SKIP 歷次複核（deepen-x slices 09141213-23、09141500-9、09142320-2、09150400-29、09150500-20、09150600-21，2026-09-14/15）：全語料庫歷次 grep（魏詠蕎／Yung-Chiao Wei）命中集合不變，僅命中 #198、#422 書目頁與 works/index，社群/回憶錄材料零命中，維持 SKIP。
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
