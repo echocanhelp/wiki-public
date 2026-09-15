@@ -43,3 +43,12 @@ The Taiwanese-American Religious Study Association Southern California (TARSA-SC
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+## Deepen pass 2026-09-15（slice deepen-x-09150316-19，DEEPENED）
+
+- 語料重掃發現四筆以**原名「台美人宗教研習會」**著錄之年刊／特刊書目，補入年刊沿革：
+  - [[works/taiwaneseamericanhistory-org/831-e5-8f-b0-e7-be-8e-e4-ba-ba-e5-ae-97-e6-95-99-e7-a0-94-e7-bf-92-e6-9c-832012-||TAH #831 台美人宗教研習會2012年刊]]
+  - [[works/taiwaneseamericanhistory-org/832-e5-8f-b0-e7-be-8e-e4-ba-ba-e5-ae-97-e6-95-99-e7-a0-94-e7-bf-92-e6-9c-832013-||TAH #832 台美人宗教研習會2013年刊]]
+  - [[works/taiwaneseamericanhistory-org/833-e5-8f-b0-e7-be-8e-e4-ba-ba-e5-ae-97-e6-95-99-e7-a0-94-e7-bf-92-e6-9c-832014-||TAH #833 台美人宗教研習會2014年刊]]
+  - [[works/taiwaneseamericanhistory-org/834-e5-8f-b0-e7-be-8e-e4-ba-ba-e5-ae-97-e6-95-99-e7-a0-94-e7-bf-92-e6-9c-832014-||TAH #834 台美人宗教研習會2014特刊（2014-10）]]
+- 語料庫事實：會方以年刊記錄研習活動之習慣**不遲於 2012 年**即已存在（2012、2013、2014 連續年刊＋2014-10 特刊），早於 2014-12 更名；原名「台美人宗教研習會」於書目中持續使用至 2014/2015 之交，與 TAH #36（2015-01）一致。既有 HOLD（更名日 2014-12 vs 實際名稱使用 2014-11/2015-01）維持不併。

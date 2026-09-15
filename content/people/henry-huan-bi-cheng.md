@@ -60,3 +60,8 @@ _No filled family fields on the TAH profile._
 ## Deepen pass 2026-09-15（slice deepen-x-09142319-24，SKIP-with-reason）
 
 - 全語料庫重掃（works/ + articles/）：命中僅本人自有書目頁 #175、#391、#604（均已連結）與 works/index.md；taiwanjustice 2024-06-13 之「Henry Cheng」仍為 85°C USA 同名不同人。無新增回忆錄記述可吸收。
+
+## Deepen pass 2026-09-15（slice deepen-x-09150316-19，DEEPENED）
+
+- 語料重掃新增命中：[[works/taiwaneseamericanhistory-org/605-e5-bd-88-e7-90-b4-e5-bd-88-e7-91-9f-e8-ac-b3-e5-92-be-e8-80-b6-e5-92-8c-e8-8||TAH #605 彈琴彈瑟 謳咾耶和華 台語聖樂合唱曲／鄭煥壁／2008-01]] — 本人 2008 年 1 月出版之台語聖樂合唱曲集書目記錄，為本頁所載「投入作曲、出版教會音樂」之一項具體出版物記錄。姓名用字在此記錄作「鄭煥壁」，與既有 HOLD（#175「璧」vs #391「壁」）同一衝突，不逕行歸併。
+- 其餘命中仍為自有書目頁（#175、#391、#604）、works/index.md 及 taiwanjustice 2024-06-13 同名不同人（85°C USA 代理董事長）；無回憶錄記述可吸收。

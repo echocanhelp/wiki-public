@@ -65,3 +65,5 @@ _No filled family fields on the TAH profile._
 - Slice 09141400-12 語料複核（2026-09-14）：SKIP-with-reason——重跑 grep 謝孟容/Amy Hsieh（works+articles）結果不變，僅命中本身出處頁與 works index；無可吸收新事實。
 - Slice 09141213-2 語料複核（2026-09-14）：全庫 grep 謝孟容/Amy Hsieh 僅命中本身兩篇出處頁（TAH #376、#1445）與 works index；無回憶錄或文章提及，無可吸收新事實，無衝突須 HOLD。
 - Slice 09142319-19 語料複核（2026-09-15）：重跑 grep 謝孟容／Amy Hsieh 命中無變——僅 #376、#1445 兩筆出處記錄與 works index；無新事實，SKIP-with-reason。
+
+- Slice 09150316-19 語料複核（2026-09-15）：重跑 grep 謝孟容／Amy Hsieh 命中無變——僅 #376、#1445 兩筆出處記錄與 works index；無新事實，SKIP-with-reason。
