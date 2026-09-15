@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-14
 ---
 # Rev. Edward Bin Tanng (陳黃義敏牧師)
 
@@ -45,6 +45,12 @@ Rev. Edward Bin Tanng 陳黃義敏牧師 – History of Taiwanese American (T.A.
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+## Role in the Community
+- **Third pastor of the Formosan Presbyterian Church in Los Angeles (1988–1991).** The church's 50th-anniversary memoir lists his tenure among the six successive pastors and credits him with superior English ability that gave the church good communication with the presbytery (中會) and General Assembly (大會), plus diligent training of church workers ([[works/taiwaneseamericanhistory-org/ourjourneys231|231. 洛杉磯台灣基督長老教會 /邱惠美、李永碩]]). His pastorate coincided with the church's late-1980s growth to ~250 members and the 1988 South Bay branch that seeded a new长老教會.
+- **Founding generation of the North American Taiwanese Professors Association (北美洲台灣人教授協會).** He was one of the sixteen professors at the first organizing meeting, 1980-02-16, at the University of Chicago International House, and served as secretary cum treasurer (秘書兼財務) under the first elected president ([[works/taiwaneseamericanhistory-org/ourjourneys69|69. 北美洲台灣人教授協會 /廖述宗]]).
+- His own TAH encyclopedia record: [[works/taiwaneseamericanhistory-org/whos-who-2128-edward-bin-tanng|2128. Rev. Edward Bin Tanng 陳黃義敏牧師]].
+- HOLD: conflict in the FPCLA anniversary English appendix, which prints his pastorate as "1998-1991", against 1988-1991 in the Chinese pastor list and in the TAH profile — kept at 1988–1991, not auto-merged.
 
 ## Network
 - [[organizations/formosan-presbyterian-church-in-los-angeles||FPCLA]] — TAH Who’s Who

@@ -21,6 +21,11 @@ last_reviewed: 2026-09-15
 
 4. Formosa Presbyterian Church in Houston, Elder and Chair of Board of Deacon, Church Building Committee Secretary
 
+## Role in the Community
+- 2021-02-01 入錄 TAH Foundation 名人錄百科第 2310 條；見 [[works/taiwaneseamericanhistory-org/whos-who-2310-jin-l-lin|2310. Dr. Jin L. Lin 林金龍博士]]。
+- 休士頓 Formosa Presbyterian Church 長老、執事會主席、建堂委員會秘書（見 Employment）。
+- HOLD: 台美人媒體 taiwanjustice.net 轉載蘋果日報專欄〈戳破(遠東集團總裁)徐旭東的謬誤論述〉署名「林金龍」（2017-06-21，見 [[articles/taiwanjustice-net/2024/20240716123826_root_362d48d50d132457|台美人網專欄彙編]]）——僅同名，無法確認是否即休士頓林金龍，暫不吸收為本人著作。
+
 <!-- tah-tables:start -->
 ## Education
 - National Taiwan Normal Univ. — 1961 — B.S., Physics
