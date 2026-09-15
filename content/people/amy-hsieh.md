@@ -67,3 +67,4 @@ _No filled family fields on the TAH profile._
 - Slice 09142319-19 語料複核（2026-09-15）：重跑 grep 謝孟容／Amy Hsieh 命中無變——僅 #376、#1445 兩筆出處記錄與 works index；無新事實，SKIP-with-reason。
 
 - Slice 09150316-19 語料複核（2026-09-15）：重跑 grep 謝孟容／Amy Hsieh 命中無變——僅 #376、#1445 兩筆出處記錄與 works index；無新事實，SKIP-with-reason。
+- Slice 09150400-16 語料複核（2026-09-15）：命中集合不變，無新社群事實，SKIP-with-reason。

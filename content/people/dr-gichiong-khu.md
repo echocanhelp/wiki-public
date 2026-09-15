@@ -62,3 +62,4 @@ All facts above are absorbed from vault pages of the cited TAH encyclopedia entr
 ## Vault note (deepen-x 2026-09-15, slice 09142319-27)
 全語料重掃（邱義昌／Gichiong Khu）：命中僅已連結之本人出處頁——ourjourneys8（含 EN）、ourjourneys156、mystories-791、publications284、whos-who-1460；社群文獻無新增事實——**SKIP（出處已全數連結）**。
 （複掃 2026-09-15，slice 09150316-25：SKIP）結果不變——命中仍僅上述五筆已連結出處頁；檢核 ourjourneys8 內文（理事邀入、文成杯雙打賽制設計）、ourjourneys156（公論報副發行人署名）等事實均已吸收於 Vault record 段落，無新增社群材料。
+（複掃 2026-09-15，slice 09150400-19：SKIP）再掃結果不變——邱義昌／Gichiong Khu 於 works／articles 命中仍僅 ourjourneys8（含 EN）、ourjourneys156、mystories-791、publications284、whos-who-1460 五筆已連結出處頁，無新增社群一手材料。

@@ -42,3 +42,4 @@ Corroborating community memory: 吳木盛's essay [[works/taiwaneseamericanhisto
 
 ## Deepen-x re-check (slice 09150316-24, 2026-09-15)
 - 全語料重掃（台灣民主運動支援會／Support of Democratic Movement）：命中僅本組織 own 書目頁（directory record、#1145、#978、民主台灣通訊）及 works/index 列表——皆已於上文連結，**SKIP（無新社群事實可吸收）**。
+- **Slice 09150400-16 re-check (2026-09-15):** re-grep hit set unchanged (own bibliographic pages + works index only); no new community facts, SKIP-with-reason.

@@ -71,3 +71,4 @@ _No filled family fields on the TAH profile._
 - 再掃 works/ + articles/：僅命中自有書目頁 #80、#103 與 [[works/taiwaneseamericanhistory-org/ourjourneys294|TUF 簡介]]（台灣名家演奏系列列名，已吸收於上方）；無新社群素材，本輪無新增事實。
 - **2026-09-15（DEEPEN-X09142319-17）：** 再掃結果相同——命中僅 #80、#103、ourjourneys294 及 works/index；TUF 列名已吸收，SKIP。
 - **2026-09-15 (DEEPEN-X09150316-20):** re-sweep SKIP — 命中僅自有書目頁 #80、#103、ourjourneys294（台灣名家演奏系列列名，已吸收）及 works 索引；無新社群素材。
+- **2026-09-15 (DEEPEN-X09150400-16):** re-sweep SKIP — 命中集合不變，無新社群素材。
