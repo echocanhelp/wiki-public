@@ -50,6 +50,8 @@ Our memoirs record Chang as a core figure of the Bay Area Taiwanese Christian an
 - [TAH #2304 encyclopedia: 2304. Leon Chang 張村樑](https://taiwaneseamericanhistory.org/whos-who-2304-leon-chang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/leon-chang/)
 
+- Corpus re-verified（deepen-x slice 09150600-18, 2026-09-15）：grep 命中集＝已連結之 [[works/taiwaneseamericanhistory-org/our-journeys-350|Our Journeys 350]]、[[works/taiwaneseamericanhistory-org/my-stories-779|779. 憶張村樑長老]]、Our Journeys 37/38/106 與本人 TAH #2304 記錄；回憶錄材料全數已吸收於 Role in the Community，無新增事實。
+
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

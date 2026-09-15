@@ -49,6 +49,7 @@ _No filled family fields on the TAH profile._
 - Author of the Taigi poetry collection [[works/taiwaneseamericanhistory-org/431-e5-8f-b0-e8-aa-9e-e8-a9-a9-e9-81-b8-e6-9d-8e-e5-8b-a4-e5-b2-b8-2001-e8-aa-9e|TAH #431 台語詩選]] (2001)
 - At the closing 主日禮拜 of the 45th 美東台灣人大會 he presented his Taigi poetry and images to the assembly, per 翁進治's convention memoir — [[works/taiwaneseamericanhistory-org/ourjourneys260|TAH #260 第四十五屆美東夏令會備忘錄]]
 - Corpus re-verified（deepen-x slice 09150500-29, 2026-09-15）：grep 命中集＝本人 TAH #1641 記錄、#431 台語詩選、#260 備忘錄、台文通訊30週年與國語法兩篇報導，全數已吸收於上；無新增社群事實。
+- Corpus re-verified（deepen-x slice 09150600-18, 2026-09-15）：grep 命中集不變（TAH #1641、#431 台語詩選、#260 備忘錄、台文通訊30週年與國語法報導），全數已吸收；無新增社群事實。
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
