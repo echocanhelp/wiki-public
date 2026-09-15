@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-14
+last_reviewed: 2026-09-15
 ---
 # Pei-Ning Ku (顧蓓寧)
 
@@ -55,6 +55,7 @@ _No filled family fields on the TAH profile._
 
 ## Corpus check（2026-09-14）
 - 語料庫檢索命中僅本人既有記錄（TAH #114、#88，已列於 Vault records）及 #202 誤配頁（連結實指 jonathan-h-wu，已備註）。SKIP-with-reason：vault 內無可吸收之新增社群事實。
+- 語料庫再檢（2026-09-15）：命中僅 #114、#88、#202 既有記錄及 works/index 目錄行，回憶錄無提及。維持 SKIP-with-reason。
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

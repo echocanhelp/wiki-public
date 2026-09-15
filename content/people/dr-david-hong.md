@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-14
+last_reviewed: 2026-09-15
 ---
 # Dr. David Hong (洪德生博士)
 
@@ -59,3 +59,4 @@ Accomplishment
 
 - 明州台美人社區大事記記錄：11 月洪德生在明州演講《台灣環保》。該條目位於曾啟明「明州台美人百年大事」1990 年區塊附近，確切年份未明示：HOLD: 年份 1990 前後待核。見 [[works/taiwaneseamericanhistory-org/ourjourneys123||123. 明州台美人百年大事 / 曾啟明 / 2015/03]]。
 - 同一大事記另載「洪德生出任台灣經濟研究院院長」，與 Employment 欄（TIER 院長 2006-2015）相互佐證：[[works/taiwaneseamericanhistory-org/ourjourneys123||123. 明州台美人百年大事]]。
+- 語料庫再檢（2026-09-15）：命中 mystories575、ourjourneys123、11. 夫婦返台服務 均已連結於上，無新增可吸收事實；年份 HOLD 維持。

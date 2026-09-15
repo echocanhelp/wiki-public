@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-14
+last_reviewed: 2026-09-15
 ---
 # Wen-Yin Chan (詹雯茵)
 
@@ -45,6 +45,7 @@ _No filled family fields on the TAH profile._
 - **Holdings:** the entries sit in the [[sources/taiwaneseamericanhistory-org-story-corpus||台美史料中心 story corpus]], published by [[organizations/tah-foundation||TAH Foundation]].
 - **Link hygiene:** Curtis Institute, Yale School of Music and Levine School of Music have no vault pages; left unlinked rather than creating new pages.
 - **SKIP 2026-09-14 (corpus scan):** full grep of `content/works` + `content/articles` for 詹雯茵 / Wen-Yin Chan returns only her own two TAH directory records (already linked above) and the corpus index. No memoir or community-record mentions beyond the press-kit entries — nothing further absorbable.
+- **再檢 2026-09-15：**命中僅 #104、#150 自身條目及 works/index 目錄行。維持 SKIP。
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

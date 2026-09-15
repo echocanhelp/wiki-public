@@ -9,7 +9,7 @@ tags:
   - tahs-leadership
   - founding-member
 verification_status: pending
-last_reviewed: 2026-09-14
+last_reviewed: 2026-09-15
 ---
 # Wang Yao-ting (王耀廷)
 
@@ -50,6 +50,7 @@ Pages that link to **wang-yao-ting** (wang-yao-ting):
 ## Vault records（deepen pass 2026-09-14）
 - 本人於 TAH 百科有獨立條目：[[works/taiwaneseamericanhistory-org/whoswho1133||TAH #1133 Y. T. Wang 王耀廷]]（2016-07-10 發布，value band B，書目紀錄；全文存於 TAH 原廠）。此條目與 2017/2023 TAHS 出版物所載創會紀錄相互印證，確認其以 TAHS 創會副會長身分被列入台美人紀錄。
 - 語料庫再扫描（2026-09-14）：除 #1133 外無其他可吸收語料；無衝突資料需 HOLD。
+- 語料庫再檢（2026-09-15）：命中僅 #1133 自身條目及 works/index 目錄行（相鄰條目王燕山為另一人，勿混淆）。無新增可吸收語料。
 
 ## Source Notes and Confidence
 
