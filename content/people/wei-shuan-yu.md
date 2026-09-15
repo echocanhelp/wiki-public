@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-14
+last_reviewed: 2026-09-15
 ---
 # Wei-Shuan Yu (尤韋琁)
 
@@ -63,3 +63,6 @@ TAH encyclopedia records held in this vault:
 
 ## Deepen pass (slice 09141400-14, 2026-09-14)
 - corpus grep（content/works＋content/articles，漢名「尤韋琁」與英文名皆查）僅命中本人兩則 TAH 百科書目記錄（#296、#645，已列於上）與 works/index；memoir／articles 語料無任何提及，SKIP-with-reason：無可吸收之社群語料。
+
+## Corpus check (deepen pass 2026-09-15, slice 09142319-14: SKIP-with-reason)
+- Re-grep works + articles: hits are only the own TAH encyclopedia record pages and works/index entry lines; no memoir, editorial, or club-document mentions; no new community facts absorbable, no conflicts to HOLD.

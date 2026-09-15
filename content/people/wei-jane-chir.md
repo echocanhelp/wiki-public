@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-14
+last_reviewed: 2026-09-15
 ---
 # Wei Jane Chir (池農深)
 
@@ -60,6 +60,7 @@ _No filled family fields on the TAH profile._
 ## Role in the Community (deepen 2026-09-14, corpus pass)
 - Corpus check (vault-only): the only works/articles mentions of 池農深 / Wei Jane Chir are her own TAH encyclopedia records — [[works/taiwaneseamericanhistory-org/whos434-wei-jane-chir||TAH #434]] (published 2015-06-08) and [[works/taiwaneseamericanhistory-org/artist47-wei-jane-chir||TAH #47]] (published 2015-06-04). No memoir, newsletter, or oral-history mentions found; nothing further absorbable.
 - SKIP (slice 09141400-9, 2026-09-14): re-grep for 池農深/Wei Jane Chir in works+articles again hits only those two own TAH records — no community material to absorb.
+- SKIP (slice 09142319-15, 2026-09-15): re-grep again returns only `works/index.md` listings of her own records — still no memoir/newsletter community material.
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

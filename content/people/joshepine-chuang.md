@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-14
+last_reviewed: 2026-09-15
 ---
 # Joshepine Chuang (莊靜怡)
 
@@ -62,3 +62,4 @@ _No filled family fields on the TAH profile._
 - 任教之恩惠兒童合唱團隸屬 Grace Taiwanese Presbyterian Church（北橙縣）：見 [[works/taiwaneseamericanhistory-org/grace-taiwanese-presbyterian-church||Grace Taiwanese Presbyterian Church]]（本頁 Related Pages 已連結）。
 - Slice 09141400-12 語料複核（2026-09-14）：SKIP-with-reason——重跑 grep 莊靜怡/Joshepine Chuang（works+articles）結果不變，僅命中本身出處頁與 works index；無可吸收新事實。
 - Slice 09141213-2 語料複核（2026-09-14）：全庫 grep 莊靜怡/Joshepine Chuang 僅命中本身兩篇出處頁（TAH #134、#247）與 works index；無回憶錄或文章提及，無可吸收新事實，無衝突須 HOLD。
+- Slice 09142319-18 語料複核（2026-09-15）：SKIP-with-reason——重跑 grep（works+articles）結果不變，僅命中本身出處頁 [[works/taiwaneseamericanhistory-org/134-joshepine-chuang-e8-8e-8a-e9-9d-9c-e6-80-a1-vocalist-201502|TAH #134]]、[[works/taiwaneseamericanhistory-org/247-joshepine-chuang-e8-8e-8a-e9-9d-9c-e6-80-a1-201502|TAH #247]] 與 works index；memoir 語料無新事實。

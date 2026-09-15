@@ -7,7 +7,7 @@ tags:
   - ITPC
   - Taiwanese-American
 verification_status: pending
-last_reviewed: 2026-09-14
+last_reviewed: 2026-09-15
 ---
 # Guo Yingyan (郭應言)
 
@@ -48,3 +48,5 @@ The [[organizations/irvine-taiwanese-presbyterian-church||Irvine Taiwanese Presb
 Deepen re-check 2026-09-14 (slice 09140845-9): all cross-links resolve to existing vault slugs; the cited vault source set (ITPC history document, captured 2026-06-06) yields no further absorbable biographical facts — no biography invented.
 
 SKIP-with-reason (slice 09141300-22): corpus grep for 郭應言/Guo Yingyan across works/ and articles/ returned zero hits beyond this page — no additional community material exists in the vault; the ITPC history document remains the sole source.
+
+Slice 09142319-18 re-check (2026-09-15): SKIP-with-reason — re-ran grep across works/ and articles/, still zero corpus hits. Whole-vault sweep found only vault cross-references from [[people/li-furen|李輔仁牧師]], whose page links back to this pastoral chronology; no new biographical facts, no conflicts to HOLD.

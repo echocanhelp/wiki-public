@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-14
+last_reviewed: 2026-09-15
 ---
 # San-Nan Chen (陳珊喃)
 
@@ -59,3 +59,6 @@ _No filled family fields on the TAH profile._
 ## 語料庫檢核（deepen pass 2026-09-14, slice 17：SKIP-with-reason）
 - 全語料庫檢索（陳珊喃 / San-Nan Chen）僅命中本頁兩則本人 TAH 記錄頁（#215、#451）與 works/index.md 條目行，無任何他人回憶錄、社論或社團文獻提及本人。
 - 無可吸收之新增社群事實；本頁現狀（含 2026-09-14 既有 deepen note 之蔡宛霖同事連結）已是本階最完整狀態。
+
+## Corpus check (deepen pass 2026-09-15, slice 09142319-14: SKIP-with-reason)
+- Re-grep works + articles: hits are only the own TAH encyclopedia record pages and works/index entry lines; no memoir, editorial, or club-document mentions; no new community facts absorbable, no conflicts to HOLD.

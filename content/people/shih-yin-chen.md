@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-14
+last_reviewed: 2026-09-15
 ---
 # Shih-Yin Chen (陳詩音)
 
@@ -59,3 +59,6 @@ _No filled family fields on the TAH profile._
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - [[people/youming-chen|Youming Chen]] — fellow TAH-listed Taiwan-born classical musician with New York training
+
+## Corpus check (deepen pass 2026-09-15, slice 09142319-14: SKIP-with-reason)
+- Re-grep works + articles: hits are only the own TAH encyclopedia record pages and works/index entry lines; no memoir, editorial, or club-document mentions; no new community facts absorbable, no conflicts to HOLD.
