@@ -52,6 +52,11 @@ _No filled family fields on the TAH profile._
 TAH encyclopedia records held in this vault:
 - [[works/taiwaneseamericanhistory-org/whos-who-2095-vincent-chuang|TAH #2095 — Dr. Vincent Chuang 莊伯祥醫師 (2018/04)]]
 
+## Corpus deepen（2026-09-14）
+
+- **台南善友樂團成員：** 黃東昇的夏令會回憶記：善友樂團第一代老團員已寥寥無幾，仍保持聯絡者包括「莊伯祥（住台北）」—— 他是這支台南先驅業餘樂團的早期團員；樂團史見本會收錄著作 [[works/taiwaneseamericanhistory-org/publications1215|TAH #1215：荒漠樂音——善友樂團風華／黃東昇、林素純、陳天令（2018/02）]]，回憶見 [[works/taiwaneseamericanhistory-org/ourjourneys287|TAH #287：台南善友樂團之後代首次在夏令會聚會／黃東昇（2017/05）]]。
+- **醫學生涯的音樂軼事：** 台大醫學院學生時期與作者（時為台大醫院婦產科住院醫師）一起值班時，提出「Brahms 四首交響樂可隱喻為一首交響樂的四個樂章」之論 —— 見民間專欄 [[articles/taiwanjustice-net/2022/20220127014839_2021_12_04_週末漫談音樂-95_brahms-第四交響樂-_-信雅_90447e206f10e30f|台灣正義網：週末漫談音樂(95) Brahms 第四交響樂／信雅]]，為本頁放射線學者履歷補上藝文一面，屬台美人醫師兼具藝文涵養的一代寫照。
+
 ## Sources
 - [TAH #2095 encyclopedia: 2095. Dr. Vincent Chuang 莊伯祥醫師](https://taiwaneseamericanhistory.org/whos-who-2095-vincent-chuang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-vincent-chuang/)
