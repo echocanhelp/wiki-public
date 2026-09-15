@@ -6,7 +6,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-14
+last_reviewed: 2026-09-15
 ---
 # 陳炳衡
 
@@ -42,7 +42,7 @@ _No filled family fields on the TAH profile._
 
 ## Role in the Community（deepen pass 2026-09-14）
 
-- Corpus re-sweep 2026-09-14：語料命中僅本頁既有出處（TAH #562／#283 書目頁、[[works/taiwaneseamericanhistory-org/ourjourneys316|ourjourneys316 老人中心義工名單]]、works/index 收錄列舉）。**SKIP：無新的可吸收事実**；ourjourneys316 之佐證已在上節記錄，無衝突需 HOLD。
+- Corpus re-sweep 2026-09-15 (prior 2026-09-14)：語料命中僅本頁既有出處（TAH #562／#283 書目頁、[[works/taiwaneseamericanhistory-org/ourjourneys316|ourjourneys316 老人中心義工名單]]、works/index 收錄列舉）。**SKIP：無新的可吸收事実**；ourjourneys316 之佐證已在上節記錄，無衝突需 HOLD。
 
 ## Sources
 - [TAH #562 encyclopedia: 562. 陳炳衡 / 2015/08](https://taiwaneseamericanhistory.org/562-%e9%99%b3%e7%82%b3%e8%a1%a1-201508/)
