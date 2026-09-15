@@ -47,3 +47,5 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+複核（deepen-x 2026-09-14）：corpus re-grep 僅見本人書目記錄 #561/#282（全文未入庫）與 index 條目，無可吸收之社群/回憶錄材料 — SKIP，以既有連結為準。

@@ -47,3 +47,4 @@ _No filled family fields on the TAH profile._
 - publisher／語料庫：[[sources/taiwaneseamericanhistory-org-story-corpus||TAH story corpus]]。
 - 同語料庫蔡氏家族參照：[[people/dr-kuen-shii-tsay||Dr. Kuen-Shii Tsay 蔡坤喜醫師]]、[[people/prof-andy-tsay||Prof. Andy Tsay 蔡安達教授]]。
 - 複核（2026-09-14）：出處 TAH #1793 為書目記錄，無可再吸收之新事实；本页以既有連結為準。
+- 複核（deepen-x 2026-09-14）：corpus re-grep 僅見本人書目記錄 #1793（全文未入庫）與 index 條目，無可吸收之社群/回憶錄材料 — SKIP，以既有連結為準。
