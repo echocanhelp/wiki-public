@@ -80,3 +80,4 @@ Both are band-B bibliographic records; full text stays in the source archive.
 - Slice 09150400-16 (2026-09-15)：重掃命中集合不變，SKIP-with-reason。
 - Slice 09150500-13 (2026-09-15)：重掃命中集合不變（僅自有書目頁 #6、#677 與 works index），SKIP-with-reason。
 - Slice 09150600-5 (2026-09-15)：重掃命中集合不變（僅自有書目頁 #6、#677），SKIP-with-reason。
+- （覆核 2026-09-15，slice 09150700-1）：全語料重掃命中集不變——僅本人自有出處頁與 works 索引條目行，無回憶錄／社群第一手材料可吸收。維持 **SKIP-with-reason**。

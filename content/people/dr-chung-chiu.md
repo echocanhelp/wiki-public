@@ -71,3 +71,4 @@ _No filled family fields on the TAH profile._
 - （複掃 2026-09-15，slice 09150400-23：SKIP）結果不變——`邱強|Chung Chiu|Chong Chiu` 命中僅已連結之本人出處頁 #1910、#100、#585 及 works/index 目錄列，無新增社群事實。
 - （複掃 2026-09-15，slice 09150500-15：SKIP）結果不變——命中僅上述三筆已連結出處頁及 works/index 目錄列，無可吸收之新增社群事實。
 - （複掃 2026-09-15，slice 09150600-6：SKIP）結果不變——`邱強|Chung Chiu|Chong Chiu` 命中僅已連結之本人出處頁 #1910、#100、#585 及 works/index 目錄列，無新增社群事實。
+- （覆核 2026-09-15，slice 09150700-1）：全語料重掃命中集不變——僅本人自有出處頁與 works 索引條目行，無回憶錄／社群第一手材料可吸收。維持 **SKIP-with-reason**。

@@ -59,3 +59,4 @@ Ming Franz was born in the southern Taiwan, grew up in a sugar plantation where 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- （覆核 2026-09-15，slice 09150700-1）：全語料重掃命中集不變——僅本人自有出處頁與 works 索引條目行，無回憶錄／社群第一手材料可吸收。維持 **SKIP-with-reason**。
