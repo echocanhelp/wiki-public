@@ -65,3 +65,4 @@ _No filled family fields on the TAH profile._
 - [[sources/taiwaneseamericanhistory-org-story-corpus|TAH 故事語料庫]]
 - [[organizations/association-of-taiwanese-students-at-mit|台美麻省理工同學會（留學 MIT 時期相關社團）]]
 - （複掃 2026-09-15，slice 09142319-27）：`邱強/Chung Chiu/Chong Chiu` 全語料重掃，命中僅已連結之本人出處頁 #1910、#100、#585——**SKIP（無可吸收之新增社群事實）**。
+- （複掃 2026-09-15，slice 09150316-25：SKIP）結果不變——命中僅上述三筆已連結出處頁及 works/index 目錄列，無新增社群事實。
