@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-14
+last_reviewed: 2026-09-15
 ---
 # Taiwanese Youth Arts Foundation / Washington DC (華府台灣人青少年才藝基金會)
 
