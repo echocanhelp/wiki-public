@@ -43,6 +43,7 @@ Our memoirs record Chang as a core figure of the Bay Area Taiwanese Christian an
 - **Wife:** Jane (楊鸞鳳)
 - **Daughter:** Ruth, Cindy
 - **Son:** Justin
+- **Father-in-law:** 楊啟東 — Governor-General's Japanese Language School (總督府國語學校) alumnus and one of Taiwan's modern-era artists; his sons 楊維楨 (NTU electrical engineering) and 楊維哲 (NTU mathematics) were Chang's brothers-in-law (per [[works/taiwaneseamericanhistory-org/my-stories-779|779. 憶張村樑長老 — 張瑞雄]]).
 
 
 ## Sources
