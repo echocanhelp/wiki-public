@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-14
+last_reviewed: 2026-09-15
 ---
 # Prof. Shane-Rong Lee (李憲榮教授)
 
@@ -38,6 +38,7 @@ _No filled family fields on the TAH profile._
 ## Role in the Community
 
 - **Black-list breach, 1989.** As sitting president of the World Taiwanese Association (世台會) and named on the regime's overseas blacklist, Lee smuggled himself back to Taiwan on 1989-08-11, appearing at the association's annual meeting in Kaohsiung together with vice-president 蔡銘祿 and 台獨聯盟 central committee member 蔡正隆, and marching with locals in the demand to abolish the blacklist — recorded in the corpus as 世台會's most impactful on-island action ([[works/taiwaneseamericanhistory-org/ourjourneys230|Our Journeys #230]]).
+- **2025 Ukraine/Russia commentary.** Now retired (退休) political-science professor at 長榮基督教大學 Chang Jung Christian University, Lee was quoted in the Taiwanese community press on 2025-09-06 warning that if Taiwan falls, all of Asia falls with it — "如果台灣倒下，那麼整個亞洲都會倒下，包括韓國和日本，以及所有地方" ([[works/index|taiwanjustice.net 台灣人密切關注美國對俄羅斯和烏克蘭的行動, 2025-09-06]]).
 - **13th TCA Summer Camp speaker, 1991.** At the Thirteenth Summer Camp of Taiwanese Canadians/Americans (from 1991-07-19, Methodist College, Spartanburg, S.C., hosted by the North Carolina Taiwanese Association, theme "轉變中的台灣"), Lee lectured on the San Francisco Peace Treaty's impact on Taiwan's international status, arguing that Taiwan's sovereignty already resided in all the people of Taiwan ([[works/taiwaneseamericanhistory-org/ourjourneys245|Our Journeys #245]], [[works/taiwaneseamericanhistory-org/our-journeys-379|Our Journeys #379]]).
 
 ## Sources
