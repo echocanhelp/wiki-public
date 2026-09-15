@@ -68,3 +68,6 @@ _No filled family fields on the TAH profile._
 
 ## Deepen pass (2026-09-15, slice 09142319-22)
 - 語料庫重檢（劉立方｜Philip Liu｜Li-Fan Liu）：命中僅本人 TAH #2021 百科頁與 2021 Pew 聲明連署名單——兩者已全數吸收於上列 Role in the Community。無新語料事實，僅刷新 last_reviewed。
+
+## Deepen pass (2026-09-15, slice 09150316-17)
+- 語料庫重檢（劉立方｜Philip Liu｜Li-Fan）：命中僅本人 TAH #2021 百科頁、2021 Pew 聲明連署名單、works/index——全部已吸收或為索引頁。**SKIP：無新語料事實可吸收**。

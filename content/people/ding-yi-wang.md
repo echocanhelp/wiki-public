@@ -57,6 +57,7 @@ last_reviewed: 2026-09-15
 - Corpus material beyond his own #104/#105/#421/#273 records: none. No community/memoir mentions found in content/works or content/articles.
 - **2026-09-14 (DEEPEN-X09141400-11):** re-sweep SKIP — corpus grep (works/, articles/) hits only `works/index.md` listings of his own #104/#105 pages; no new first-hand community material to absorb.
 - **2026-09-15 (DEEPEN-X09142319-17):** re-sweep SKIP — grep hits only his own #104/#105/#421/#273 records (all already linked above); no memoir or peer-community mentions; nothing absorbable.
+- **2026-09-15 (DEEPEN-X09150316-17):** re-sweep SKIP — grep 楊定一/Ding Yi Wang/Ding-I Yang hits only #104/#105/#421/#273 + `works/index.md` (all already linked); no memoir material; HOLD on #273 title attribution stands unresolved.
 
 ## Connected in the Vault（deepen pass 2026-09-10）
 
