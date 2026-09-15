@@ -73,3 +73,6 @@ Cross-links (existing slugs only): [[organizations/taiwanese-association-of-amer
 
 ## Deepen-x re-check (slice 09150316-32, 2026-09-15)
 - SKIP-with-reason：語料庫檢索（works/articles）再次復核，命中僅本人書目頁 [[works/taiwaneseamericanhistory-org/musician102|TAH #102]]、[[works/taiwaneseamericanhistory-org/whoswho1119|TAH #1119]] 及 works/index 條目行，無回憶錄/社群第一手材料可吸收。
+
+## Deepen-x re-check (slice 09150400-24, 2026-09-15)
+- SKIP-with-reason：語料庫檢索（works/articles）再次復核，命中僅本人書目記錄與 works index 條目行，無回憶錄/社群第一手材料可吸收；既有事實與衝突記載不變。
