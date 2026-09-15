@@ -52,3 +52,5 @@ SKIP-with-reason (slice 09141300-22): corpus grep for 郭應言/Guo Yingyan acro
 Slice 09142319-18 re-check (2026-09-15): SKIP-with-reason — re-ran grep across works/ and articles/, still zero corpus hits. Whole-vault sweep found only vault cross-references from [[people/li-furen|李輔仁牧師]], whose page links back to this pastoral chronology; no new biographical facts, no conflicts to HOLD.
 
 Slice 09150316-11 re-check (2026-09-15): SKIP-with-reason — grep 郭應言 across works/ and articles/ again returned zero hits outside people/ cross-references; the ITPC history document remains the sole source, nothing absorbable.
+
+Slice 09150400-6 re-check (2026-09-15): SKIP-with-reason — re-ran grep 郭應言／Guo Yingyan across works/ and articles/: zero hits again. Nothing absorbable, no conflicts to HOLD; last_reviewed already today.

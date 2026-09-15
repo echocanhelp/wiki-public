@@ -69,3 +69,6 @@ TAH encyclopedia records held in this vault:
 
 ## Corpus check (deepen pass 2026-09-15, slice 09150316-10: SKIP-with-reason)
 - Re-grep works + articles (Wei-Shuan Yu／尤韋琁): hits are only works/index entry lines for the own TAH records #296／#645 (already linked above); no memoir mentions; nothing absorbable, no conflicts to HOLD.
+
+## Corpus check (deepen pass 2026-09-15, slice 09150400-4: SKIP-with-reason)
+- Re-grep works + articles (尤韋琁／Wei-Shuan Yu): hit set unchanged — only own TAH record pages #296／#645 and works/index; no memoir or community-document mentions; nothing absorbable, no conflicts to HOLD.

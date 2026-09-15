@@ -70,3 +70,4 @@ _No filled family fields on the TAH profile._
 - No vault pages exist yet for the venues already named on this page (台北市立美術館、高雄中正文化中心、台南市立文化中心、Orange County Center for Contemporary Art); 實踐家專 likewise has no vault page.
 - Slice 09141213-5 複核（2026-09-14）：corpus grep（content/works、content/articles）僅命中本人两条 TAH 書目記錄（artist60、whos891，均已連結於上）與 works/index；memoir 語料無新事實，本輪無可吸收內容。
 - Slice 09150316-14 複核（2026-09-15）：grep 林人信／JEN HSIN LIN（works＋articles）命中無變——僅本人三筆書目記錄 [[works/taiwaneseamericanhistory-org/artist60-jen-hsin-lin|artist #60]]、[[works/taiwaneseamericanhistory-org/whos891-jen-hsin-lin|Who's Who #891]]、[[works/taiwaneseamericanhistory-org/publications974|圖錄 #974（BOOTH 署名）]]（均已連結於上）與 works/index；memoir 語料無新事實，SKIP-with-reason（HOLD 姓名衝突維持）。
+- Slice 09150400-1 複核（2026-09-15）：命中集合再無變（僅本人三筆書目記錄＋works/index），SKIP-with-reason：無可吸收新事實；HOLD「JEN HSIN BOOTH vs JEN HSIN LIN」維持。

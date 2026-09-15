@@ -71,3 +71,6 @@ An accomplished opera baritone, Mr. Jonathan Wu graduated from the Chinese Cultu
 
 ## 再掃（slice deepen-x-slice-09150316-15，2026-09-15）
 - 重跑 corpus grep（吳顯明／吴显明／Jonathan H. Wu，works+articles）：命中僅自有書目頁 #110、#201 與 works index（#202、牧星合唱團 #24 連結不變）。SKIP-with-reason：無回忆錄素材可吸收，無衝突須 HOLD。
+
+## 再掃（slice deepen-x-slice-09150400-6，2026-09-15）
+- 重跑 corpus grep（吳顯明／吴显明／Jonathan H. Wu，works+articles）：命中集合不變——僅自有書目頁 #110、#201 與 works index。SKIP-with-reason：無回憶錄素材可吸收，無衝突須 HOLD，last_reviewed 已為今日。

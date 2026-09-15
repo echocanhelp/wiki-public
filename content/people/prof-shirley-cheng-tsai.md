@@ -75,3 +75,7 @@ Prof. Shirley Cheng Tsai 鄭秀蘭教授 – History of Taiwanese American (T.A.
 ## Corpus re-check (slice deepen-x-09150316-16, 2026-09-15)
 
 全語料重掃：命中僅 #45、#369、本人投稿 #227（均已連結）、works/index，及 TASC 訪談「Shirley Cheng」一處（HOLD 見上）。無新增可吸收社群事實——SKIP。
+
+## Corpus re-check (slice deepen-x-09150400-9, 2026-09-15)
+
+命中集無變（#45、#369、#227、works/index、TASC 訪談「Shirley Cheng」一處維持 HOLD）。維持 SKIP。

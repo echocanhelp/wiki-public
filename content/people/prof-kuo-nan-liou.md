@@ -78,3 +78,7 @@ Grep of works/ + articles/ returns only his two already-linked vault work pages 
 ## Corpus re-check (slice deepen-x-09150316-16, 2026-09-15)
 
 全語料重掃（works/ + articles/）：命中僅已連結之本人書目頁 TAH #1797、勳章頁 #44（Rossby/Revelle）與 works/index。回憶錄語料無新事實——SKIP，無可吸收內容。
+
+## Corpus re-check (slice deepen-x-09150400-9, 2026-09-15)
+
+命中集無變（僅 TAH #1797、Rossby/Revelle 勳章頁、works/index 條目行）。維持 SKIP，無可吸收之社群事實。

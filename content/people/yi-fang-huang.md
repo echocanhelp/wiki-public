@@ -68,3 +68,4 @@ _No filled family fields on the TAH profile._
 - SKIP (slice 09141400-9, 2026-09-14): re-grep for 黃亦芳/Yi-Fang Huang again returns only #39/#1109 work pages — no community material to absorb; note the disambiguation above (別頁 劉義芳) checked, no cross-mentions found.
 - SKIP (slice 09142319-13, 2026-09-15): re-grep again returns only #39/#1109 work pages plus works/index adjacency; no memoir or newsletter mentions; biography unchanged.
 - SKIP (slice 09150316-13, 2026-09-15): re-grep 黃亦芳/Yi-Fang Huang across works/+articles/ returns only her own bibliographic stubs #39/#1109 (already linked) plus works/index adjacency; no memoir or newsletter mentions; biography unchanged.
+- SKIP note (deepen-x 09150400-8, 2026-09-15): re-sweep returned the same hits (own TAH encyclopedia stubs + works index) — no memoir/newsletter/community mentions; SKIP-with-reason stands.

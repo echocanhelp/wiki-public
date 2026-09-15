@@ -64,3 +64,4 @@ _No filled family fields on the TAH profile._
 - 全語料庫檢索（江台章 / Tai Chang Chiang）僅命中本人出處頁 [[works/taiwaneseamericanhistory-org/whos-who-2023-tai-chang-chiang||TAH #2023]] 與 works/index.md 條目行；無他人文獻、回憶錄或社團刊物提及本人，「長期投入台美史紀錄」一語在語料庫中無可展開的具體事證。
 - 無可吸收之新增社群事實，本頁為本階最完整狀態；既有 Connected in the Vault 推測性連結已註明 membership 未被傳記斷言，維持原樣。
 - Slice 09150316-14 複核（2026-09-15）：grep 江台章／Tai Chang Chiang（works＋articles）命中無變——僅本人出處頁 [[works/taiwaneseamericanhistory-org/whos-who-2023-tai-chang-chiang||TAH #2023]] 與 works/index；SKIP-with-reason。
+- Slice 09150400-9 複核（2026-09-15）：命中集再無變（僅本人出處頁＋索引行）；維持 SKIP-with-reason。

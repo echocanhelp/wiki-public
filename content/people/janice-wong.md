@@ -72,3 +72,4 @@ Re-checked cited TAH records (#543, #272): page is already saturated with vault-
 SKIP-with-reason: corpus grep for 王正怡 / Janice Wong across `content/works` and `content/articles` returns only her own two cited TAH encyclopedia stubs (#543, #272) and the works index — no memoir, newsletter, or movement-record material mentions her. Press-kit bio only; nothing absorbable from community sources.
 SKIP note (deepen-x 09142101-5): re-sweep returned the same hits (#543, #272 + works index) — SKIP-with-reason stands.
 SKIP note (deepen-x 09150316-9, 2026-09-15): re-sweep returned the same hits (#543, #272 + works index) — SKIP-with-reason stands.
+- SKIP note (deepen-x 09150400-8, 2026-09-15): re-sweep returned the same hits (own TAH encyclopedia stubs + works index) — no memoir/newsletter/community mentions; SKIP-with-reason stands.

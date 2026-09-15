@@ -60,6 +60,7 @@ Accomplishment
 - （複掃 2026-09-15，slice 09142319-19）重跑語料 grep（張怡仁／Dean Chang，works+articles）：命中全數為本頁已連結之書目／相簿／Our Journeys #62 記錄（含 ff44、ff45），無新事實可吸收，無衝突須 HOLD。
 
 - （複掃 2026-09-15，slice 09150316-15）重跑語料 grep（張怡仁／Dean Chang，works+articles）：命中 ff44、相簿 #106／#18、Our Journeys #62（英文版）、檔案彙整 #73、#616——全數為本頁已連結之書目／相簿／回憶錄記錄（威廉波特馬鈴薯刻印軼事已吸收），無新事實可吸收，無衝突須 HOLD。
+- （複掃 2026-09-15，slice 09150400-5）重跑語料 grep：命中集合不變（ff44、#106、#18、ourjourneys62-eng、#73、#616），無新事實可吸收，無衝突須 HOLD——SKIP-with-reason。
 
 ## Sources
 - [TAH #24 encyclopedia: 24. Dean Chang ( 張怡仁) Presenting the West Point Yearbook to President Reagan  By](https://taiwaneseamericanhistory.org/ourfootstapes-24/)

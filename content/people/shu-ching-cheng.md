@@ -57,7 +57,7 @@ Corpus-absorbed (deepen-x slice 28, 2026-09-14) from our own memoir [[works/taiw
 - **Son:** [[people/eric-cheng||Eric Cheng (鄭晧)]]
 
 
-## Corpus re-check (deepen-x slice 09150316-12, 2026-09-15)
+## Corpus re-check (deepen-x slices 09150316-12 & 09150400-5, 2026-09-15)
 - SKIP-with-reason: grep 賴淑卿／Shu-ching Cheng 命中僅本人 TAH 百科頁（#1、#882）與 ourjourneys26／26-eng —— 後者已於 Role in the Community（slice 28）完整吸收，memoir 段落無未吸收事實。無衝突。
 
 ## Sources
