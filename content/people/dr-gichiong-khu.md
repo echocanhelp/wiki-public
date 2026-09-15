@@ -47,6 +47,7 @@ Accomplishment
 - [[works/taiwaneseamericanhistory-org/mystories-791||TAH #791 吳三連臺灣史料基金會人物介紹 (04/2021)]] — consistent with the 1935–2021 era dates.
 - [[works/taiwaneseamericanhistory-org/publications284||TAH #284 無厝的渡鳥 – 安安靜靜邱義昌 (林雙不, 10/2000, 傳記)]] — 林雙不《無厝的渡鳥》傳記系列為他立有一篇人物傳「安安靜靜邱義昌」（vault 記錄發布於 2014-11-26）；傳記全文留存 TAH vault。
 - 英文版對照：[[works/taiwaneseamericanhistory-org/ourjourneys8-eng||TAH #8 (EN) founding-account of the Chen Wen-Chen Memorial Foundation]]。
+- 本人 TAH 百科記錄亦已入 vault：[[works/taiwaneseamericanhistory-org/whos-who-1460-gichiong-khu||TAH #1460 Dr. Gichiong Khu 邱義昌博士]]（書目紀錄；與上列傳記/回憶錄記錄互為對照）。
 - Reciprocal: [[people/sue-chiu||Sue Chiu 黃雪香]]'s page lists Husband 邱義昌; her own TAH page records a NTU 植物病蟲害 B.S. — the couple share the same NTU phytopathology academic background.
 
 Club/foundation roles on this page map to vault pages: [[organizations/taiwanese-association-of-america||TAA]], [[organizations/taiwanese-association-of-america-new-jersey||TAA New Jersey]], [[organizations/professor-chen-wen-chen-memorial-foundation||Professor Chen Wen-Chen Memorial Foundation]].

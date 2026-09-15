@@ -48,6 +48,7 @@ _No filled family fields on the TAH profile._
 - Per our movement memoirs [[works/taiwaneseamericanhistory-org/ourjourneys162||我們的足跡 162（中文）]] and [[works/taiwaneseamericanhistory-org/ourjourneys162-eng||Our Journeys 162 (EN)]], Julie Wong gave the **opening concert of the grand opening of the new Taiwanese American Community Center (台灣中心) in San Diego**, together with soprano 李智惠 Irene Lee, after a welcome speech by Director Ted Fan. Her family traveled from Los Angeles for the event; she received the opening commemorative wine and flowers along with Irene Lee and accompanist Helena Chi.
 - Recorded opening program (from the memoir): opened with 陳泗治「龍舞」, then 蕭泰然「家園的回憶」and「觸技曲」, an arrangement of 鄭智仁「福爾摩沙頌」, closing with Liszt「匈牙利狂想曲第六號」— a program anchoring her in the Taiwanese-American art-song movement.
 - [[works/taiwaneseamericanhistory-org/concerts115||TAH record #115: 二十世紀鋼琴名家作品欣賞]] — her recital at South Orange, NJ on **1999-12-05**, held in the community concert corpus the same year she completed her DMA at Rutgers.
+- **1994-07-08～10** — 應邀於第十六屆美東南區台灣人夏令會（喬治亞大學 Athens, GA，北卡同鄉會主辦，蕭勝雄總召集人，主題「台灣文化與教育的展望」）擔綱**音樂講座**，與李喬、楊青矗、東方白、林衡哲、陳明仁、陳惠豐、鄭邦鎮、簡上仁、林雙不、陳柏壽等講者同台——將本頁所載之音樂教育貢獻置於台美人夏令會運動脈絡中。見 [[works/taiwaneseamericanhistory-org/ourjourneys245|Our Journeys #245：美東南區台灣人夏令會簡史（劉格正 /09/2016）]]。
 
 ## Vault Holdings
 - [[works/taiwaneseamericanhistory-org/46-julie-wong-e7-bf-81-e8-87-b4-e7-90-86-piano|TAH #46 story (2014-10-11)]]
