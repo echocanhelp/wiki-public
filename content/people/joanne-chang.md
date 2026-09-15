@@ -65,3 +65,7 @@ _No filled family fields on the TAH profile._
 - 同名辨析（corpus check 2026-09-14）：vault 內 [[works/taiwaneseamericanhistory-org/whoswho1598|TAH #1598「Joanne Chang 張柔安」（2017/04）]] 及 TA.org 兩篇 Flour Bakery（波士頓麵包店創辦人）報導為**另一位 Joanne Chang（張柔安）**，非本頁鋼琴家張瓊文。HOLD: 同英文名不同漢名，請勿合併。
 - 本次 corpus 掃描除本人既有兩則條目外無可吸收之社群事證。
 - Corpus re-scan（slice 09141400-8, 2026-09-14）：hits 全為既有兩則本人條目、#1598 張柔安 HOLD、Flour Bakery 兩篇（同名異人）及 index 列表——SKIP-with-reason，無新社群事證。
+
+## Deepen pass 2026-09-15（slice deepen-x-slice-09150316-22，SKIP-with-reason）
+
+- 重掃 works/ + articles/：命中僅本人自有 TAH 傳記條目（均已連結）與 works/index.md，無其他 memoir／會刊提及，無可吸收之新增社群事實。

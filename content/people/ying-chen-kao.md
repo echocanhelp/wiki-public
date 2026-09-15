@@ -60,3 +60,7 @@ _No filled family fields on the TAH profile._
 - [[works/taiwaneseamericanhistory-org/518-ying-chen-kao-e9-ab-98-e7-9b-88-e7-9c-9f-201507||TAH #518: Ying-Chen Kao 高盈真]]
 - [[works/taiwaneseamericanhistory-org/21-ying-chen-kao-e9-ab-98-e7-9b-88-e7-9c-9f-composer||TAH #21: Ying-Chen Kao, Composer]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+## Deepen pass 2026-09-15（slice deepen-x-slice-09150316-22，SKIP-with-reason）
+
+- 重掃 works/ + articles/：命中僅本人自有 TAH 傳記條目（均已連結）與 works/index.md，無其他 memoir／會刊提及，無可吸收之新增社群事實。
