@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-14
+last_reviewed: 2026-09-15
 ---
 # Peggy Huang (黃瑞雅)
 
@@ -41,7 +41,8 @@ Deputy Attorney General
 ## Role in the Community
 - TAHS published a community endorsement,「加州台美人的驕傲」, when she ran for U.S. Representative as California's Deputy Attorney General (record 2019-06-12): [[works/taiwaneseamericanhistory-org/ms-peggy-huang-for-u-s-representatives|聲援加州副檢察長 Peggy Huang 黃瑞雅參選聯邦眾議員]].
 - As Yorba Linda councilwoman she was quoted in the *Orange County Register*'s coverage of the Irvine Taiwanese Presbyterian Church shooting (Laguna Woods) — an early Taiwanese American voice in that tragedy's press record: [[works/taiwaneseamericanhistory-org/our-journeys-380|our-journeys-380]].
-- Profile records in the corpus: [[works/taiwaneseamericanhistory-org/ota-292|292. Peggy Huang 黃瑞雅]] · [[works/taiwaneseamericanhistory-org/whos-who-2199-peggy-huang|2199. Peggy Huang 黃瑞雅]] · [[works/taiwaneseamericanhistory-org/peggy-huang|Peggy Huang 黃瑞雅 in S. CA]].
+- Profile records in the corpus: [[works/taiwaneseamericanhistory-org/ota-292|292. Peggy Huang 黃瑞雅]]（published 2019-06-25）· [[works/taiwaneseamericanhistory-org/whos-who-2199-peggy-huang|2199. Peggy Huang 黃瑞雅]] · [[works/taiwaneseamericanhistory-org/peggy-huang|Peggy Huang 黃瑞雅 in S. CA]]（published 2020-06-27）.
+- Irvine church shooting coverage in the corpus record [[works/taiwaneseamericanhistory-org/our-journeys-380|our-journeys-380]] was published 2022-05-18.
 
 ## Sources
 - [TAH #292 encyclopedia: 292. Peggy Huang 黃瑞雅](https://taiwaneseamericanhistory.org/ota-292/)

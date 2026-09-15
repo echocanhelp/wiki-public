@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-14
+last_reviewed: 2026-09-15
 ---
 # Dr .Grace Fong
 
@@ -44,3 +44,5 @@ _No filled family fields on the TAH profile._
 - Vault sweep: no work/organization record other than the TAH Who's Who profile itself cites Grace Fong — this page is currently the vault's sole holding on her (no duplicate entry, unlike fellow bassist-profile case [[people/amanda-wu|Amanda Wu]]).
 - Peer TAH musicians' profiles already in the vault (e.g. [[works/taiwaneseamericanhistory-org/311-chi-chen-wu-pianist-201510|TAH #311 Chi-chen Wu, pianist]], [[works/taiwaneseamericanhistory-org/695-grace-chung-e9-8d-be-e6-9b-89-e9-9d-92-201511|TAH #695 Grace Chung 鍾美青, pianist]]) document the same TAH practice of recording Taiwanese-American concert musicians; no biographical link asserted between them.
 - No further biography invented; verification still pending against the cited TAH page.
+## Corpus re-check (2026-09-15)
+Re-grep 'Grace Fong' against content/works + content/articles: zero hits. This page remains the vault's sole holding on her; nothing absorbable from the memoir corpus beyond the TAH Who's Who profile already cited. SKIP-with-reason recorded.
