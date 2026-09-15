@@ -57,3 +57,6 @@ Prof. Mei-Chu Wang Hsiao 王美珠教授 – History of Taiwanese American (T.A.
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+## Corpus re-check (deepen-x slice 09142101-7, 2026-09-14)
+- SKIP-with-reason: corpus grep (王美珠 / Mei-Chu across works + articles) returns only her own two TAH records (#389, #1559) and the works index — no memoir/community mentions elsewhere. Husband [[people/prof-frank-s-t-hsiao|Prof. Frank S.T. Hsiao]]'s page cross-documents the same T.A. Archives (台美史料中心) Colorado context already noted above; no new absorbable facts, no conflicts to HOLD.

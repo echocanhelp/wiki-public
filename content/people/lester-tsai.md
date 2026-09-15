@@ -82,3 +82,6 @@ Clinic addresses, phone numbers, and plan lists from that directory are **not** 
 ## Revision History
 - 2026-09-11: Created Echopedia onboarding page after Leonard Hsu Jr. LINE introduction; owner-verified as Lester Tsai; Kaiser public directory facts only.
 - 2026-09-11: Removed an erroneous honorary title from the public page; functional title left pending.
+
+## Corpus re-check (deepen-x slice 09142101-7, 2026-09-14)
+- SKIP-with-reason: corpus grep (Lester Tsai across works + articles) returns no hits — the recent 蔡/Tsai matches are unrelated persons (蔡英文, 蔡同榮, 蔡友仁). Newly onboarded member (2026-09-11) with no memoir material yet; first-person introduction pending Lester. Nothing absorbable, no conflicts.
