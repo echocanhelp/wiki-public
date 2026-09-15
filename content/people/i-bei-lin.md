@@ -68,3 +68,6 @@ Both records are band-B bibliographic entries (full text stays with TAH), so the
 - SKIP-with-reason：語料庫檢索復核，命中僅本人書目頁（TAH #289、#573）、index 條目行及 杜宛珊 頁的名錄互聯，無回憶錄材料可吸收。
 ## Deepen pass (2026-09-15, slice 09142320-5)
 - SKIP-with-reason：語料庫檢索復核，命中僅本人書目頁（TAH #289、#573），無回憶錄材料可吸收。
+
+## Deepen pass (2026-09-15, slice 09150400-30)
+- SKIP-with-reason：語料庫復核命中僅本人書目頁 TAH #289／#573 與 works index，無回憶錄材料可吸收。

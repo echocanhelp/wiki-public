@@ -61,3 +61,6 @@ _No filled family fields on the TAH profile._
 - **SKIP-with-reason (corpus re-scan):** grep -E `Joel Fan|范景德` over `content/works` + `content/articles` again returns only his own bibliography records TAH #290／#574（已連結於本頁）— no memoir/community-record mentions. Nothing absorbable.
 ## Deepen pass (2026-09-15, slice 09142320-5)
 - SKIP-with-reason：語料庫復核命中僅本人書目紀錄 TAH #290／#574（已連結於本頁），回忆录無社群事實可吸收。
+
+## Deepen pass (2026-09-15, slice 09150400-30)
+- SKIP-with-reason：語料庫復核命中僅本人書目紀錄 TAH #290／#574 與 works index，回忆录無社群事實可吸收。

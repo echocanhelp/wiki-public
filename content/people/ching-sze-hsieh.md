@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-14
+last_reviewed: 2026-09-15
 ---
 # Ching Sze Hsieh (謝清志博士)
 
@@ -55,3 +55,6 @@ Led FORMOSAT-1 (福衛一號) launch team as head of launch group at National Sc
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - [[people/rosalyne-formosa-shieh||Ruselyne Formosa Shieh]]
 - [[people/perry-b-shieh||Perry B. Shieh]]
+
+## Deepen pass (2026-09-15, slice 09150400-30)
+- 復核：語料庫命中集與既有 Role in the Community 完全一致（TAH #253、#244、#66、#261、#108、#152 HOLD），無新增可吸收事實。
