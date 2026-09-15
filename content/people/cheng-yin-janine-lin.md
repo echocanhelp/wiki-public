@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-15
 ---
 # Dr. Cheng-Yin Janine Lin (林政穎博士)
 
@@ -30,6 +30,11 @@ Dr. Cheng-Yin (Janine) Lin 林政穎博士 – History of Taiwanese American (T.
 ## Employment
 - LSU Performing Arts Academy — Music Teacher — (2009-2012) — Kid's Orchestra Music Program, Baton Rouge, LA — Violin Teacher — (2013-2013) — Baton Rouge Symphony Orchestra — Assistant Concertmaster — (2010-) — Burgundy Farm Country Day School, Alexandria, VA — Violin Teacher — (2014-) — Louisiana State University — Violin Instructor (undergraduate students)
 <!-- tah-tables:end -->
+
+## Role in the Community
+- Entered the TAH community record in 2018 as a violin/piano musician profiled in the TAH musician series (record 427, published 2018-03-17, bibliographic band B) [[works/taiwaneseamericanhistory-org/musician427|427. Cheng-Yin (Janine) Lin, violin, piano]].
+- Community profile: [[works/taiwaneseamericanhistory-org/whos-who2063-cheng-yin-lin|TAH Who's Who 2063]].
+- Note: the Identity Snapshot line citing the T.A. Archives (台美史料中心) reflects her TAH profile's stated role; no narrative memoir coverage found in the corpus beyond the musician record.
 
 ## Family
 

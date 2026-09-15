@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-15
 ---
 # Dr. Wayne Lung Wang (王文隆博士)
 
@@ -31,6 +31,13 @@ last_reviewed: 2026-08-17
 ## Employment
 - Carnegie-Mellon University, PA — Post Doc — (1971-1973) — Lawrence Berkeley Lab, CA — Post Doc — (1973-1975) — Argonne National Lab, IL — Associate Engineer — (1975-1980) — Bell Labs, IL — MTS — (1980-2010)
 <!-- tah-tables:end -->
+
+## Role in the Community
+The corpus shows Wang as both a community leader and a TAH philosophy essayist:
+- Chicago community leadership: the Chicago Taiwanese Association history [[works/taiwaneseamericanhistory-org/our-journeys-378|378. 芝加哥台灣同鄉會50年的歳月 (10/2021)]] lists 王文隆 among the association's presidents, for **1988** (between 林錦弘 1986 and 李義雄 1989) — he led the Chicago Taiwanese community while working at Argonne National Lab and Bell Labs.
+- Philosophy writer for the TA Archives My Stories/Publications corpus: [[works/taiwaneseamericanhistory-org/publications290|290. The Logic of Tao Philosophy (04/2013)]], [[works/taiwaneseamericanhistory-org/publications291|291. Tao Te Ching: An Ultimate Translation (04/2013)]], [[works/taiwaneseamericanhistory-org/publications1143|1143. 老子哲學的真義 (08/2017)]], and [[works/taiwaneseamericanhistory-org/publications1144|1144. 《道德經》簡易白話解義 (08/2017)]] — the engineer-artist dual role on his TAH profile is corroborated by this body of Tao/philosophy work.
+- Own TAH entry: [[works/taiwaneseamericanhistory-org/whos-who-1-wayne-lung-wang|TAH #1 Dr. Wayne Lung Wang 王文隆博士]].
+- HOLD: the TAH profile's era "1944" vs. a 1959–1964 Taipei Institute of Tech diploma (age ~15 at entry) — plausible but not independently confirmed; no auto-merge.
 
 ## Family
 
