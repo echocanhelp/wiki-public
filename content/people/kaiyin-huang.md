@@ -62,3 +62,4 @@ _No filled family fields on the TAH profile._
 
 ## Deepen pass (2026-09-14, slice 09141213-24)
 - SKIP-with-reason：語料庫檢索僅命中本人自有書目頁（TAH #356、#1251）及 index 條目行，無回憶錄/社群第一手材料可吸收。
+- SKIP 確認（slice 09141500-11, 2026-09-14）：復檢結果相同，語料庫無新材料。
