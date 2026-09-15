@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-14
+last_reviewed: 2026-09-15
 ---
 # THE BOARD OF TAIWANESE AMERICAN CONFERENCES – WEST COAST TAC-WC (美西台灣人夏令會理事會)
 

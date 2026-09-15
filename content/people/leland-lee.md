@@ -57,6 +57,9 @@ TAH records held in this vault:
 ## Corpus recheck（deepen-x slice 09141400-8, 2026-09-14）
 - SKIP-with-reason：本頁已於先前 deepen pass 吸收全部語料（[[works/taiwaneseamericanhistory-org/artist14-leland-lee|TAH #14]]、[[works/taiwaneseamericanhistory-org/ota-267|#267]]、[[works/taiwaneseamericanhistory-org/videos-172|#172]] 三頁均已載；[[works/taiwaneseamericanhistory-org/our-journeys-373|#373]] 同名異人 HOLD 已載）。本次重掃 hits 僅同批既有條目與 index 列表，無新社群事實可吸收。
 
+## Corpus recheck（deepen-x slice 09142319-6, 2026-09-15）
+- SKIP-with-reason：重掃（李柏毅／Leland Lee）命中不變——本人三筆 TAH 記錄（#14、#267、#172，均已 wikilink 載入）、同名異人 HOLD 條目 [[works/taiwaneseamericanhistory-org/our-journeys-373|#373]]、index 目錄行與 MANIFEST 書目行。無新社群事實可吸收。
+
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

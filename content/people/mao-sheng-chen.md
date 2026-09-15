@@ -58,6 +58,7 @@ Chen Mao-sheng, born in 1942 in Hsinchu, Taiwan, is a church musician and organi
 - 全語料 grep（content/works、content/articles，繁簡與姓名全形變體）命中僅本人書目頁 [[works/taiwaneseamericanhistory-org/567-chen-mao-sheng-e9-99-b3-e8-8c-82-e7-94-9f-2201509|TAH #567]]、[[works/taiwaneseamericanhistory-org/284-e9-99-b3-e8-8c-82-e7-94-9f-organist-201509|TAH #284]]（均 B 級書目記錄，無正文可吸收）與 works/index 目錄行；[[organizations/presbyterian-church-in-taiwan|PCT]] 頁僅有本人反向連結。
 - 《我們的旅程》等 band A 回憶錄中的「Mao-sheng」命中屬 TACL 籌委 **Mao-sheng Yang（楊茂生）**（[[works/taiwaneseamericanhistory-org/ourjourneys272-eng|TAH #272]]、[[works/taiwaneseamericanhistory-org/ourjourneys186-eng|TAH #186]]），非本人，已排除——無誤鏈。
 - 結論：社群語料無新增可吸收事實；本頁既有 Sacred Music Contributions 已涵蓋 TAH 兩筆出處全部所載。
+- Recheck slice 09142319-6（2026-09-15）：重掃（陳茂生／Mao-Sheng Chen）命中不變——僅本人書目頁 #567、#284 與 works/index 目錄行；楊茂生（Mao-sheng Yang）同名排除仍成立。SKIP：無新增可吸收事實。
 
 ## Network
 - [[organizations/presbyterian-church-in-taiwan||PCT]] — TAH Who’s Who
