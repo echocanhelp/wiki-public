@@ -29,6 +29,8 @@ The North American Taiwan Studies Association (NATSA) is a US-based 501(c)(3) no
 
 复核（deepen-x slice 09150500-17，2026-09-15）：全語料庫重掃（NATSA／北美臺灣研究學會）命中集合不變——TAH 目錄故事、works/index、及已引於 2025 條目之 [[works/taiwaneseamerican-org/taiwanese-american-jing-mei-memorial-park|memorial-park 散文]]；無新材料可吸收。
 
+复核（deepen-x slice 09150600-7，2026-09-15）：SKIP-with-reason——重掃命中集合仍為 TAH 目錄故事 vault 頁、works/index、memorial-park 散文，三者均已吸收並連結於上；無新材料。
+
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/north-american-taiwan-studies-associationnatsa/)
 

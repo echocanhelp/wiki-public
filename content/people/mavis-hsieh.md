@@ -38,6 +38,9 @@ Mavis Hsieh, soprano. Winner of several vocal competitions, Miss Hsieh also has 
 - **Performing career** — Winner of several vocal competitions; performances in Taiwan, U.S.A. and Italy. Operatic roles include Rosalinde in Strauss' *Die Fledermaus*, Susanna in Mozart's *Le Nozze di Figaro*, and the First Witch in *Dido and Aeneas*.
 - **Indiana career** — Teaches voice at Ji-eun Lee Music Academy; soprano section leader in the First Presbyterian Church choir (Muncie); intern at the Muncie Symphony Orchestra as Education and Outreach Coordinator.
 
+## Role in the Community
+- Featured in the Taiwanese American history community record (TA.org) with two story entries dated 2015-03-08: [[works/taiwaneseamericanhistory-org/323-mavis-hsieh-e8-ac-9d-e5-ad-9f-e6-bd-94|323. Mavis Hsieh 謝孟潔]] and [[works/taiwaneseamericanhistory-org/166-mavis-hsieh-e8-ac-9d-e5-ad-9f-e6-bd-94-soprano|166. Mavis Hsieh 謝孟潔, Soprano]] — community-held profiles consistent with the soprano/educator biography above.
+
 ## Family
 
 _No filled family fields on the TAH profile._

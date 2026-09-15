@@ -45,6 +45,8 @@ HOLD (deepen-x slice 09150400-32, 2026-09-15): the corpus also names a 蔡明**�
 
 复核（deepen-x slice 09150500-17，2026-09-15）：全語料庫重掃（蔡明殿／Ming Ten）命中集合不變——僅上列六則本人署名書目頁與 works/index，無新回憶錄或社群材料可吸收；HOLD（蔡明憲）維持不併入。
 
+复核（deepen-x slice 09150600-7，2026-09-15）：SKIP-with-reason——重掃命中集合不變（#13／#124／#155／#389／#841／#945 六頁均已連結於 Role in the Community）；HOLD（蔡明憲）維持不併入。
+
 Read against the Education table, the corpus traces a single arc: 台大農推系 → Boston University special education → founding a farm in Newton, NJ (written up 1982) → literary output (在海之角 1992, 菜蟲的現代寓言 2015) → human-rights work. The movement treats his writing as movement writing, not a hobby. The era on this page (1945–2014) and the corpus items (1982–2016) raise no conflict.
 
 ## Sources
