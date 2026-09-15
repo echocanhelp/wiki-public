@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-14
+last_reviewed: 2026-09-15
 ---
 # Dr. Tzu-Hsing April Kuo (郭姿杏博士)
 
@@ -52,3 +52,4 @@ _No filled family fields on the TAH profile._
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - **SKIP 2026-09-14 (slice 09141213-32):** corpus re-grep returned only her own directory record and the works index — no memoir/corpus material beyond the deepening above; nothing further absorbable.
 - **SKIP 2026-09-14 (slice 09141500-15):** corpus re-grep (works/ + articles/) returned only the person's own TAH directory records and the works index — no memoir mentions; nothing further absorbable.
+- **SKIP 2026-09-15 (slice 09142320-12):** third corpus re-grep (郭姿杏 / Tzu-Hsing / April Kuo) returned only [[works/taiwaneseamericanhistory-org/whos-who-1908-tzu-hsing-kuo||TAH #1908]] and the works index — no memoir mentions; nothing further absorbable.

@@ -6,7 +6,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-14
+last_reviewed: 2026-09-15
 ---
 # 杜宛珊
 
@@ -61,3 +61,4 @@ _No filled family fields on the TAH profile._
 - [[people/leslie-ho||Leslie Ho（何炳宏）]] — 同為曼哈頓音樂院校友
 - [[people/i-bei-lin||I-Bei Lin（林怡貝）]] — 同屬 TAH Who's Who 音樂家名錄
 - **SKIP 2026-09-14 (slice 09141500-15):** corpus re-grep (works/ + articles/) returned only the person's own TAH directory records and the works index — no memoir mentions; nothing further absorbable.
+- **SKIP 2026-09-15 (slice 09142320-12):** third corpus re-grep (杜宛珊 / Wan-Shan Du) returned only her own records [[works/taiwaneseamericanhistory-org/253-e6-9d-9c-e5-ae-9b-e7-8f-8a-ef-bc-8cpianist-201508|TAH #253]], [[works/taiwaneseamericanhistory-org/522-e6-9d-9c-e5-ae-9b-e7-8f-8a-201508|TAH #522]] and the works index — no memoir mentions; nothing further absorbable.

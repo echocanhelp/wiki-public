@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-14
+last_reviewed: 2026-09-15
 ---
 # Dr. Lily Wang (王俐力醫師)
 
@@ -54,3 +54,4 @@ _No filled family fields on the TAH profile._
 - FAPA  ohio 章節之外，Vault 現有 FAPA 章節頁可資對照：[[organizations/fapa-los-angeles||FAPA Los Angeles]]、[[organizations/fapa-orange-county||FAPA Orange County]]。
 - **SKIP 2026-09-14 (slice 09141213-32):** corpus grep (works/ + articles/) hit only her own two TAH encyclopedia records — no memoir mentions; nothing new absorbable beyond existing deepen notes.
 - **SKIP 2026-09-14 (slice 09141500-15):** corpus re-grep (works/ + articles/) returned only the person's own TAH directory records and the works index — no memoir mentions; nothing further absorbable.
+- **SKIP 2026-09-15 (slice 09142320-12):** third corpus re-grep (王俐力 / Lily Wang) returned only her own encyclopedia records [[works/taiwaneseamericanhistory-org/ota-286||TAH #286]], [[works/taiwaneseamericanhistory-org/whos-who-1203-lily-wang||TAH #1203]] and the works index — no memoir mentions; nothing further absorbable.

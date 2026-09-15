@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-14
+last_reviewed: 2026-09-15
 ---
 # North American Taiwan Studies Association NATSA (北美臺灣研究學會)
 
@@ -24,6 +24,7 @@ The North American Taiwan Studies Association (NATSA) is a US-based 501(c)(3) no
 - 2013-01-04 — call for papers for the annual conference: [[works/taiwaneseamerican-org/call-for-papers-for-north-american-taiwan-studies-association-annual-conference||NATSA CFP 2013 record]].
 - 2014-01-10 — call for papers for the 20th anniversary conference (already linked below).
 - 2014-10-12 — profiled in the TAH Foundation directory (already linked below).
+- 2025 — the annual conference is still a living forum for the movement's younger scholars: a Taiwanese American memoirist cites it as formative, "what I learned at NATSA this year—to relate rather than compare" in [[works/taiwaneseamerican-org/taiwanese-american-jing-mei-memorial-park||We Build Museums So We Can Someday Stop Building Cages]] — evidence the association shapes how the community frames transitional justice and memory today.
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/north-american-taiwan-studies-associationnatsa/)
