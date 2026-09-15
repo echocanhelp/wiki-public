@@ -55,5 +55,5 @@ _No filled family fields on the TAH profile._
 ## deepen 2026-09-14
 - SKIP-with-reason: 語料庫檢索（陳意超 / Melvin Chen）僅命中本人 Record（TAH #434，本頁已連結）與 works/index 目錄列項，無他人回憶錄或社群事跡可吸收。
 
-## deepen 2026-09-15
+## deepen 2026-09-15 (re-verify)
 - SKIP-with-reason：語料庫複核（Melvin Chen／陳意超）僅命中本人 TAH #434 記錄（vault 頁 slug 為 434-pianist-sharon-how，本頁已連結）與 works/index 目錄列項，無他人回憶錄或社群事跡可吸收。

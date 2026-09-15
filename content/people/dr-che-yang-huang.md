@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-14
+last_reviewed: 2026-09-15
 ---
 # Dr. Che-Yang Huang (黃哲陽醫師)
 
@@ -38,9 +38,11 @@ Accomplishment
 
 
 ## Role in the Community
-Huang is one of the most prolific first-person chroniclers in the TAHS story corpus: six writings under his own byline plus a collection deposit, all held as community historical record.
+Huang is one of the most prolific first-person chroniclers in the TAHS story corpus: eight writings under his own byline plus a collection deposit, all held as community historical record.
 
 - [[works/taiwaneseamericanhistory-org/mystories518|TAH #518. 我的美國醫師生涯]] (02/2017) — his own account of building a medical career in the United States
+- [[works/taiwaneseamericanhistory-org/ourjourneys291|TAH #291. 台美人醫師 overview]] (05/2017, value band A) — his community survey of Taiwanese American physicians
+- [[works/taiwaneseamericanhistory-org/mystories458|TAH #458. 我的業餘寫作經驗]] (09/2016) — his own account of amateur writing
 - [[works/taiwaneseamericanhistory-org/ourjourneys-332|TAH #332. 台美人的婚姻 Overview]] (2018) — a community survey of Taiwanese American marriage
 - [[works/taiwaneseamericanhistory-org/publications1029|TAH #1029. 男女兩性]] (06/2016, Life/生活)
 - [[works/taiwaneseamericanhistory-org/mystories145|TAH #145. 我的宗教信仰]] — his faith testimony, the personal record behind his TARSA involvement

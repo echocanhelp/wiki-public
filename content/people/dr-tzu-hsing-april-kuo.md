@@ -53,3 +53,4 @@ _No filled family fields on the TAH profile._
 - **SKIP 2026-09-14 (slice 09141213-32):** corpus re-grep returned only her own directory record and the works index — no memoir/corpus material beyond the deepening above; nothing further absorbable.
 - **SKIP 2026-09-14 (slice 09141500-15):** corpus re-grep (works/ + articles/) returned only the person's own TAH directory records and the works index — no memoir mentions; nothing further absorbable.
 - **SKIP 2026-09-15 (slice 09142320-12):** third corpus re-grep (郭姿杏 / Tzu-Hsing / April Kuo) returned only [[works/taiwaneseamericanhistory-org/whos-who-1908-tzu-hsing-kuo||TAH #1908]] and the works index — no memoir mentions; nothing further absorbable.
+- **SKIP 2026-09-15 (slice 09150500-27):** fourth corpus re-grep (郭姿杏 / Tzu-Hsing / April Kuo) returned the same hit set — own directory record + works index only; nothing further absorbable.
