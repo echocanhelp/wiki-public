@@ -47,6 +47,7 @@ _No filled family fields on the TAH profile._
 - 上表學經歷（成功大學 2006 醫學影像暨放射科學系學士、UT Health Science Center at San Antonio 2011 醫學物理博士、2011 起 Massachusetts General Hospital Athinoula A. Martinos Center 研究員至今）均出自該出處記錄，無另行補充之新傳記事實。
 - 語料庫樞紐：[[sources/taiwaneseamericanhistory-org-story-corpus||TAH story corpus]]；發布機構：[[organizations/tah-foundation||TAH Foundation]]、[[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]。
 - corpus sweep 2026-09-14：SKIP——全語料庫（works/articles）僅命中本人 TAH #1909 書目頁與索引頁，無回忆錄、報導或社團記述等新事實可吸收。
+- corpus sweep 2026-09-15（slice 29 複核）：再 grep 結果相同——僅本人書目頁與索引頁，維持 SKIP。
 
 ## Sources
 - [TAH #1909 encyclopedia: 1909. Prof. Hsiao-Ying (Monica) Wey 魏曉英教授](https://taiwaneseamericanhistory.org/whos-who-1909-hsiao-ying-wey/)

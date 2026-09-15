@@ -58,3 +58,6 @@ _No filled family fields on the TAH profile._
 - 2017 年以 TAC/EC（美東台灣人夏令會）代理理事長身份主持會務：與召集人簡明子於 7/2 致歡迎詞揭幕，7/4 將 TAC/EC 會旗交與 2018 年理事長翁進治、召集人謝己，與本頁 Employment「TAC/EC Coordinator」相互印證 —— [[articles/taiwanjustice-net/2021/20211205054150_2017_07_10_2017年美東台灣人夏令會-_-楊遠薰-報導-2017-07-09_29faf54b8c9e2d10|2017 年美東台灣人夏令會報導／楊遠薰]]。
 - 紀錄片《好國好民》美國各地放映之 US Coordinator（與黃泰郎、王振源並列）—— [[articles/taiwanjustice-net/2024/20240719002430_root_1f001897255f71a7|《好國好民》美國各地放映座談會]]。
 - 其名亦見於回憶錄 [[works/taiwaneseamericanhistory-org/ourjourneys-138|Our Journeys #138 華府與巴城 TAA 的誕生／陳淮崇]]，與其 TAA Greater Washington, DC 會長經歷相符。
+
+## corpus sweep 2026-09-15（slice 29 複核）
+- 再 grep works/articles：命中頁均為本頁已吸收之出處（TAH #140、#589 書目頁、Our Journeys #138、2017 TAC/EC 報導、《好國好民》放映紀錄），無新增事實。TAH #589 頁內同列人名（謝博六、Paul B. Hshieh）屬同批次記錄清單，非本人事蹟，不予吸收。

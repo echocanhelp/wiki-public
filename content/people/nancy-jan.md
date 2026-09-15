@@ -67,3 +67,6 @@ Cross-links (existing slugs only): [[organizations/taiwanese-association-of-amer
 
 ## Deepen pass (2026-09-14, slice 09141500-10)
 - SKIP-with-reason：語料庫檢索復核，命中僅本人書目頁（TAH #102、#1119）、index 條目行，及 ming-liang-lee 頁「廖雅惠≠詹雅惠」辨歧註記（非本人事實），無可吸收材料。
+
+## Deepen pass (2026-09-15, slice 09142320-4)
+- SKIP-with-reason：語料庫檢索（works/articles）再次復核，命中僅本人書目頁 [[works/taiwaneseamericanhistory-org/musician102|TAH #102]]、[[works/taiwaneseamericanhistory-org/whoswho1119|TAH #1119]] 及 works/index 條目行，無回憶錄/社群第一手材料可吸收。
