@@ -29,7 +29,14 @@ Re-stated only from the TAH records the vault already holds (see Vault Cross-Ref
 - **Later conference on record:** the **2019** TAC-WC conference was held in **Salt Lake City, Utah, July 19–20, 2019** — consistent with the Las Vegas/Salt Lake City chapter; the TAH holding for it is an artefact record (a conference hand bag).
 - **Organisational structure:** proposed by [[people/prof-ken-s-huang||Ken S. Huang (黃根深)]] in **2012**.
 
+## Role in the Community（absorbed from TAH corpus memoir, 2026-09-15）
+
+- 黃東昇（Edward Huang）第一手會史回忆（[[works/taiwaneseamericanhistory-org/ourjourneys352||TAH #352: History of TAC-WC, 03/2020，A-band]]）記載：**第一屆美西台灣人夏令會於 1975 年 7 月在加州 Squaw Valley（Lake Tahoe）舉行**，由北加州台灣同鄉聯合會（TAFNC）與協志會（TAI）共同主辦——將本組織會史向前推展至正式立案前四十二年。
+- 1999 年會後的十一年間僅 2003 年舉辦過一次；[[people/prof-ken-s-huang||Ken Huang（黃根深，2017 年逝世）]]持續力推復興，終於說服 NATPA 會長李學圖，於 **2011 年 7 月與 NATPA 第 31 屆年會在 UC San Diego 合辦**（由黃根深、洪珠美 Darice Lee 協調）；2012 年黃根深夫妇再於 UC Santa Barbara 獨力續辦，其後 San Jose（2013）、Seattle（2014）、Los Angeles（2015）、San Francisco（2016）各屆皆需艱難尋找當地主辦人。
+- 理事會制直接源自東岸經驗：長年參與 TAC-EC（1970 年起年年舉辦）的柯耀宗（Daniel Ko）2013 年移居灣區後，建議 TAC-WC 仿效 TAC-EC 設五區輪辦理事會，確保每年開會——即 2012 年構想、2017 年立案之五區理事會的前身論述。
+
 ## Timeline
+- **1975-07** — First TAC-WC held at Squaw Valley, Lake Tahoe, CA (organised by TAFNC 北加州台灣同鄉聯合會 and TAI 協志會) — per Edward Huang's memoir, TAH #352.
 - **1987-07** — 美西台灣人夏令會1987手冊 published (vault record #1329) — documentary evidence of the conference run predating formal incorporation by three decades.
 - **2012** — Formal organisational structure proposed by Ken S. Huang (黃根深).
 - **2015** — TAC-WC conference active (TAH story record, 2015-06-14; conference handbook #86 held in vault).

@@ -50,6 +50,7 @@ _No filled family fields on the TAH profile._
 - [[works/taiwaneseamericanhistory-org/concerts115||TAH record #115: 二十世紀鋼琴名家作品欣賞]] — her recital at South Orange, NJ on **1999-12-05**, held in the community concert corpus the same year she completed her DMA at Rutgers.
 - **1994-07-08～10** — 應邀於第十六屆美東南區台灣人夏令會（喬治亞大學 Athens, GA，北卡同鄉會主辦，蕭勝雄總召集人，主題「台灣文化與教育的展望」）擔綱**音樂講座**，與李喬、楊青矗、東方白、林衡哲、陳明仁、陳惠豐、鄭邦鎮、簡上仁、林雙不、陳柏壽等講者同台——將本頁所載之音樂教育貢獻置於台美人夏令會運動脈絡中。見 [[works/taiwaneseamericanhistory-org/ourjourneys245|Our Journeys #245：美東南區台灣人夏令會簡史（劉格正 /09/2016）]]。
 
+- Corpus sweep (slice 09142319-5, 2026-09-15): full grep (翁致理／Julie Wong) hits only works already absorbed above — ourjourneys162（中英文）、concerts115、ourjourneys245、#46 書目、及 index 書目列舉。新增可吸收細節：ourjourneys162 中文版記該開幕音樂會後，聖地牙哥台灣中心副主任歐春美致贈開幕紀念酒予翁致理、李智惠及伴奏 Helena Chi 各一瓶（紅酒，印台灣中心標誌，每瓶 USD $50）；另記其家人自洛杉磯前來聖地牙哥觀禮。
 ## Vault Holdings
 - [[works/taiwaneseamericanhistory-org/46-julie-wong-e7-bf-81-e8-87-b4-e7-90-86-piano|TAH #46 story (2014-10-11)]]
 

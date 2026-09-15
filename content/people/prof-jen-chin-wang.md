@@ -52,6 +52,7 @@ Accomplishment
 - **高爾夫球俱樂部領導（1988–2018）**：他親撰 [[works/taiwaneseamericanhistory-org/51053||TAH #342〈紐約台灣人高爾夫球俱樂部——當董事長30年 (1988-2018) 感想〉]]（2018-11），自述擔任該俱樂部董事長三十年。HOLD: Conflict — TAH press-kit 欄位記為「Taiwanese Golf Association Lifetime CEO」，與其本人自述的「紐約台灣人高爾夫球俱樂部董事長 1988–2018」是否同一組織，兩說並存，不逕行合併。
 - **紐約台灣會館**：著 [[works/taiwaneseamericanhistory-org/mystories29||TAH #29〈紐約台灣會館二十六周年感言〉]]，與其 Taiwan Center/New York 董事身份互相印證（會館26周年感言出自董事之手）。
 - Corpus sweep (slice 09141400-5, 2026-09-14): full grep (王政卿／Jen Chin Wang) hits only the works already absorbed or listed on this page — [[works/taiwaneseamericanhistory-org/51053|TAH #342]]、[[works/taiwaneseamericanhistory-org/mystories29|TAH #29]]（均為其本人著述，上文已收）及兩筆百科書目記錄 #139／#1230。無新增可吸收語料。
+- Corpus sweep (slice 09142319-5, 2026-09-15): re-grep confirms the same hit set (51053、whos-who-1230、#139、mystories29、index 書目列舉)。無新增可吸收語料。
 
 ## Vault Holdings（deepen pass 2026-09-11）
 
