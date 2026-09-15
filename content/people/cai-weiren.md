@@ -10,7 +10,7 @@ tags:
   - TPC
   - Presbyterian
 verification_status: pending
-last_reviewed: 2026-09-14
+last_reviewed: 2026-09-15
 ---
 # Rev. Tsai Weiren (蔡維仁)
 
@@ -79,3 +79,6 @@ Pages that link to **cai-weiren** (cai-weiren):
 
 ## Deepen pass (2026-09-14, slice 09141400-18)
 - **SKIP-with-reason**：corpus grep（`蔡維仁|Tsai Weiren|Cai Weiren` 對 content/works、content/articles）**0 命中**——本人_material_僅存於 GSTPC40 出版物（已全數吸收於本頁）。本次無可吸收之新 corpus 事實。
+
+## Deepen pass (2026-09-15, slice 09142319-20)
+- **SKIP-with-reason**：corpus grep（`蔡維仁|Tsai Weiren|Cai Weiren`）再次 **0 命中**。本人材料僅存 GSTPC40 出版物，已全數吸收於本頁；本輪無新事實可吸收。

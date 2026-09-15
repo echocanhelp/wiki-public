@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-14
+last_reviewed: 2026-09-15
 ---
 # Prof. Tien‐Sung Tom Lin (林天送教授)
 
@@ -70,3 +70,6 @@ Prof. Tien‐Sung (Tom) Lin 林天送教授 – History of Taiwanese American (T
 
 ## Deepen pass (2026-09-14)
 - Washington University 任教期間（1970–2012）與 vault 內聖路易台裔學術社群紀錄同期：[[organizations/taiwanese-scholar-association-in-st-louis-tsa-stl|TSA of St. Louis]]、[[organizations/taiwanese-association-of-america-in-greater-st-louis|TAA of Greater St. Louis]]（僅為同期脈絡，無直接參與紀錄，未新增事實）。
+
+## Deepen pass (2026-09-15, slice 09142319-20)
+- corpus grep（`林天送|Tom Lin` 對 content/works、content/articles）命中僅本人 TAH 書目頁 #1060–#1067、#34、#1430——皆已 wikilink 於本頁 Role in the Community／Vault Holdings；memoir 語料無本人新事實，本輪無可吸收內容。。
