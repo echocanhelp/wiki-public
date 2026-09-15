@@ -62,3 +62,4 @@ Clinical career in South Florida: after posts at the University of Iowa and the 
 - SKIP-with-reason：vault 語料無正文可吸收，無新社區事實；未新增外部事實，未建新頁。
 - Slice 09142319-18 語料複核（2026-09-15）：SKIP-with-reason——重跑 grep 楊明倫/Ming-Lon Young（works+articles）命中仍為已連結之三條書目記錄（TAH #279、#1299、#80 收藏），memoir 語料無新事實，無衝突須 HOLD。
 - Slice 09150316-13 語料複核（2026-09-15）：SKIP-with-reason——重跑 grep 楊明倫/Ming-Lon Young 命中仍僅 #279、#1299、#80 三條書目記錄（已連結）；語料無新社區事實，無衝突。
+- Slice 09150400-10 語料複核（2026-09-15）：SKIP-with-reason——重跑 grep 楊明倫/Ming-Lon Young（works＋articles）命中集合不變（#279、#1299、#80 書目記錄＋works/index）；memoir 語料無新社區事實，無衝突須 HOLD。

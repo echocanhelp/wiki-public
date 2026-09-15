@@ -62,3 +62,6 @@ Accomplishment
 
 ## Deepen-x re-check (slice 09150316-30, 2026-09-15)
 - **SKIP-with-reason（語料庫重掃）：** `張音音|Karen I. Chang Wu|Karen Chang` 命中與前次完全相同 — [[works/taiwaneseamericanhistory-org/whos-who-739-karen-i-chang-wu|TAH #739]]、[[works/taiwaneseamericanhistory-org/223-karen-i-chang-wu-e5-bc-b5-e9-9f-b3-e9-9f-b3|TAH #223]]、TACL 25 週年紀念文 [[works/taiwaneseamerican-org/reflecting-on-the-taiwanese-american-citizens-leagues-25-year-history-and-legacy|Reflecting on TACL's 25 Year History and Legacy]]（三者皆已連結於本頁）及 works/index 條目行。無新增回憶錄素材；「Former TACL-LA chapter President Karen Chang」身份對應維持 HOLD（原文無漢名）。
+
+## Deepen-x re-check (slice 09150400-10, 2026-09-15)
+- **SKIP-with-reason：** 重掃 張音音｜Karen I. Chang Wu｜Karen Chang 命中集合與前次相同——[[works/taiwaneseamericanhistory-org/whos-who-739-karen-i-chang-wu|TAH #739]]、[[works/taiwaneseamericanhistory-org/223-karen-i-chang-wu-e5-bc-b5-e9-9f-b3-e9-9f-b3|TAH #223]]、TACL 25 週年紀念文（三者皆已連結於本頁）及 works/index。無新增回憶錄素材；Karen Chang 身份對應維持 HOLD（原文無漢名）。

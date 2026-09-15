@@ -68,3 +68,6 @@ _No filled family fields on the TAH profile._
 
 ## Corpus recheck (slice 09141400-10, 2026-09-14)
 - Full-corpus grep 林宜欣/Yi-Hsin Lin hits only her own source record [[works/taiwaneseamericanhistory-org/yi-hsin-lin-violinist||TAH #402]] and the works index; no memoir or article mentions, no movement-record material to absorb — SKIP with reason, no conflicts to HOLD.
+
+## Corpus recheck (slice 09150400-10, 2026-09-15)
+- Re-grep 林宜欣/Yi-Hsin Lin（works＋articles）hit set unchanged: only her own [[works/taiwaneseamericanhistory-org/yi-hsin-lin-violinist||TAH #402]] record and the works index. No memoir or article mentions; nothing absorbable, no conflicts to HOLD — SKIP with reason.

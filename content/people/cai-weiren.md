@@ -85,3 +85,6 @@ Pages that link to **cai-weiren** (cai-weiren):
 
 ## Deepen pass (2026-09-15, slice 09150316-18)
 - **SKIP-with-reason**：corpus grep 第三次 **0 命中**（content/works、content/articles）。GSTPC40 三篇仍為唯一來源，本頁所載即 corpus 全量；無新事實可吸收，無衝突需 HOLD。
+
+## Deepen pass (2026-09-15, slice 09150400-11)
+- **SKIP-with-reason**：corpus grep 第四次 **0 命中**（content/works、content/articles，蔡維仁|Tsai Weiren|Cai Weiren）。本人材料僅存 GSTPC40 出版物（已全數吸收於本頁）；無新事實可吸收，無衝突需 HOLD。
