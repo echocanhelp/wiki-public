@@ -76,3 +76,6 @@ Pages that link to **cai-weiren** (cai-weiren):
 ## Deepen pass (2026-09-14)
 - 複核 GSTPC40 三篇引用（本人「數算恩典邁步前行」、黃德利「那些人，那些事」、潘淑姃）：頁內年份、第二任牧師 2006–2016、首批七位青少輔導之一等事實均已落檔，本次無新增外部事實。
 - 同批後任牧者 **黃授正、林雍迪** 仍無獨立頁面：維持文字提及，不建頁。頁內 wikilink 全部指向既有頁面（GSTPC、david-huang、logos-evangelical-seminary、irvine-taiwanese-presbyterian-church）。
+
+## Deepen pass (2026-09-14, slice 09141400-18)
+- **SKIP-with-reason**：corpus grep（`蔡維仁|Tsai Weiren|Cai Weiren` 對 content/works、content/articles）**0 命中**——本人_material_僅存於 GSTPC40 出版物（已全數吸收於本頁）。本次無可吸收之新 corpus 事實。

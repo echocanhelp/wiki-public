@@ -81,3 +81,14 @@ TAH records held in this vault:
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[organizations/taiwanese-american-historical-society||TAH 台美史料協會]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+## Role in the Community（語料庫吸收 2026-09-14, slice 17）
+李明亮不只是 TAH Who's Who 收錄人物，本身即為本庫（TAH 故事語料庫）的**撰稿人與收藏提供者**，跨醫學、公共衛生與台灣史三個領域供稿：
+
+- **台灣史／郵史研究（本人撰寫）**：[[works/taiwaneseamericanhistory-org/895-e5-8f-b0-e7-81-a3-e6-b0-91-e4-b8-bb-e5-9c-8b-e9-83-b5-e5-8f-b2-e5-8f-8a-e9-8|TAH #895 台灣民主國郵史及郵票（1995/12，History）]]、[[works/taiwaneseamericanhistory-org/mystories346|TAH #346 獨虎票與民主國國旗（2015/10）]]。兩文顯示其專長為台灣民主國時期的郵政史與「獨虎票」郵票史，屬社群自行撰寫的台灣史原始論述，非二手報導。
+- **個人收藏入庫**：TAH #40 [[works/taiwaneseamericanhistory-org/collection-of-prof-ming-liang-lee|Collection of Prof. Ming Liang Lee 李明亮教授的收藏]]（2017-08-25 發布）— 其 personally 收藏的台灣史文物／文獻以專檔形式保存於 TAH。
+- **SARS 第一手見證（本人撰寫）**：[[works/taiwaneseamericanhistory-org/897-e5-9b-9e-e9-a6-96sars-e6-9d-8e-e6-98-8e-e4-ba-ae-200901life-e7-94-9f-e6-b4-b|TAH #897 回首SARS（2009/01，Life）]]，為其以 2003 年抗SARS總指揮身分親撰的回憶文字（value band B）。
+- **他人記述其 SARS 經歷**：[[works/taiwaneseamericanhistory-org/publications896|TAH #896 走過SARS 抗煞總指揮李明亮的心路歷程／李樹人（2009/01）]] — 由李樹人（另一作者，勿誤併為本人）執筆的人物記述。
+- **醫學教育論述（本人撰寫）**：[[works/taiwaneseamericanhistory-org/publications1234|TAH #1234 彈珠台的一顆小鋼珠—給醫學生與年輕醫師之十封信（2017/12，Life）]]，與其創校慈濟醫學院、長期從教的醫學教育角色相呼應。
+- 政治參與：2016/01 逾千學者挺小英宣言中具名（「沒有人是淡水阿嬤叫我們來的」），見本頁 Timeline 與 [[works/taiwaneseamericanhistory-org/12-35|TAH #35]]。
+- 無日期／世代衝突，本節無需 HOLD。

@@ -66,3 +66,8 @@ _No filled family fields on the TAH profile._
 - [[works/taiwaneseamericanhistory-org/123-leslie-ho-violinist-201501||TAH #123 Leslie Ho 何炳宏, Violinist (2015/01)]]
 - [[works/taiwaneseamericanhistory-org/128-min-yen-chien-e7-b0-a1-e5-90-8d-e5-bd-a5-violinist-201502||TAH #128 Min-Yen Chien 簡名彥, Violinist (2015/02)]]
 - [[organizations/san-diego-taiwanese-cultural-association||San Diego Taiwanese Cultural Association]] — 現居聖地牙哥社群場域
+
+## Deepen pass (2026-09-14, slice 09141400-18)
+
+- Corpus grep（`蔡佩君|Pei Chung Tsai`）命中除本頁兩則 TAH 條目（已連結）外，另有 taiwanjustice.net 轉載新聞 [[articles/taiwanjustice-net/2025/20250617162559_梨山雨後現美景_虹霓同現掛高空_be8e102d0879b0e0||梨山雨後現美景（2025-06-17）]]：文中「梨山國中小美術老師蔡佩君」為**同名不同人**（台中梨山國小教師，非旅美小提琴家）。HOLD: 名字碰撞，不合併、不吸收為本頁事實。
+- 除此之外無可吸收之新 corpus 事實。
