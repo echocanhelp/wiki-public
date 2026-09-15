@@ -31,6 +31,7 @@ last_reviewed: 2026-09-15
 - **2024 corroboration:** listed among the 38 董事 (with 李賢群、葉上毅 and others) at 大洛杉磯台灣會館第26周年年會晚宴暨募款活動 — [[articles/taiwanjustice-net/2025/20250420093345_2024大洛杉磯台灣會館第26周年年會晚宴暨募款活動11月2_2f4af86847559b66|taiwanjustice.net report]]
 - **2026-09-15 slice-13 recheck:** corpus grep 楊榮勝/杨荣胜/James Yang again returns only the 楊明仁 (violinist) records disambiguated above plus works/index — no memoir material for this person; SKIP, nothing absorbable.
 - **2026-09-15 slice-10 recheck:** corpus grep 楊榮勝/杨荣胜 again returns only the already-cited taiwanjustice.net 會館26周年年會報導（38 董事名單）— no memoir material for this person; SKIP, nothing absorbable.
+- **2026-09-15 slice 09150400-5 recheck:** corpus grep 楊榮勝/杨荣胜 (works+articles) again returns solely the already-cited taiwanjustice.net 會館報導; no other person mentions. SKIP-with-reason: 無可吸收新事實，無衝突須 HOLD。
 
 ## Sources
 - [Taiwan Center board](https://www.taiwancenter.org/board)

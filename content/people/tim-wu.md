@@ -44,6 +44,7 @@ Accomplishment
 - 競選紐約副州長：朱真一回憶文章〈台獨父親身教 台裔吳修銘競選紐約副州長〉（TAH #274，2015/03 作，2015-05-27 刊）以父親「身教」框架記述吳修銘競選紐約副州長一事，將個人參選置於台獨運動世代敘事中（[[works/taiwaneseamericanhistory-org/mystories274|274. 台獨父親身教 台裔吳修銘競選紐約副州長／朱真一／2015/03]]）；本頁 tah-tables 歷任欄未列此次參選，屬社群紀錄與press-kit履歷的詳略差異。
 - HOLD: 父親吳明達的黑名單／「望春風」敘事在本人傳記（press-kit 式）與台僑回憶敘事中詳略不同，未見可核實的日期與刊物流傳紀錄，維持現有不合併寫法。
 - 複核（slice 09150316-30, 2026-09-15）：語料庫重掃命中僅已連結的 [[works/taiwaneseamericanhistory-org/tim-wu|TAH #9]]、[[works/taiwaneseamericanhistory-org/whos-who-118-tim-wu|TAH #118]]、[[works/taiwaneseamericanhistory-org/my-stories-788|TAH #788]]、[[works/taiwaneseamericanhistory-org/mystories274|TAH #274]]（均為書目紀錄，全文留 vault）及 works/index、MANIFEST 條目行，無其他回憶錄正文可吸收。
+- 複核（slice 09150400-1, 2026-09-15）：命中集合無變（TAH #9／#118／#274／#788 書目記錄＋works/index＋MANIFEST 行），SKIP-with-reason：無新事實可吸收。
 
 ## Sources
 - [TAH #9 encyclopedia: 9. Tim Wu 吳修銘 in New York](https://taiwaneseamericanhistory.org/tim-wu/)
