@@ -68,3 +68,5 @@ Her TAH encyclopedia entries are held in the vault as community historical recor
 Corpus grep (林姝秀 / Jolie Lin) over works+articles returns only her own two TAH encyclopedia records (#211, #440, both already wikilinked above) plus the works index. No memoir, article, or community record in our corpus mentions her beyond the press-kit profile itself — nothing absorbable. **SKIP-with-reason:** no primary community material in the vault beyond the TAH Who's Who entry.
 
 Recheck (deepen-x slice 09142319-6, 2026-09-15): grep re-run — hits unchanged (#211, #440, index rows). **SKIP-with-reason:** still no primary community material beyond the press-kit profile.
+
+Recheck (deepen-x slice 09150316-3, 2026-09-15): grep re-run — hits unchanged (#211, #440, index rows only). **SKIP-with-reason:** no memoir/community material in the corpus beyond the press-kit profile itself.
