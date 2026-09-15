@@ -67,3 +67,4 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- 語料庫 re-check（2026-09-15，deepen-x slice 09150700-6）：第五次 grep（黃肇端／Jow-Lay，works+articles）命中集合不變——僅本人書目頁 [[works/taiwaneseamericanhistory-org/whos-who-1790-jow-lay-huang||TAH #1790]] 與 works index 條目行 — 維持 **SKIP（無非出處頁語料）**。

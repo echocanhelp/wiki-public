@@ -68,3 +68,4 @@ _No filled family fields on the TAH profile._
 ## Deepen pass (2026-09-15, slice 09150500-22)
 - SKIP-with-reason：語料庫第三次復核，命中集不變（僅 #290／#574 書目紀錄與 works index），无新增回忆录mentions。
 - SKIP-with-reason（slice 09150600-11, 2026-09-15）：語料庫第四次復核，命中集不變（僅 #290／#574 書目紀錄與 works index），無回忆录社群事實可吸收。
+- SKIP-with-reason（slice 09150700-7, 2026-09-15）：語料庫第五次復核，命中集不變（范景德／Joel Fan 僅 #290／#574 與 index），維持 SKIP。

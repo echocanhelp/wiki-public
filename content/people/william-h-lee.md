@@ -46,6 +46,8 @@ Accomplishment
 
 - **Re-check (slice 09150500-27, 2026-09-15):** corpus re-grep (李錫洋 / William H. Lee) returned the same hit set — his own memoirs [[works/taiwaneseamericanhistory-org/ourjourneys311|Our Journeys #311]] (+EN) and [[works/taiwaneseamericanhistory-org/our-journeys-391|Our Journeys #391]], and directory record [[works/taiwaneseamericanhistory-org/whos-who-2174-william-h-lee|TAH #2174]] — all already absorbed above; existing HOLD on the 1966-vs-1967 settlement year stands. Nothing further absorbable.
 - **Re-check (slice 09150600-12, 2026-09-15):** corpus re-grep returned the identical hit set (Our Journeys #311 +EN, #391, TAH #2174, works index) — no new community material. SKIP (no new facts).
+- **Growth and founding board (absorbed from [[works/taiwaneseamericanhistory-org/our-journeys-391|Our Journeys #391]]).** Membership grew from the 20 families of 1971 to nearly 80 households by 1985, with activities expanding accordingly. At the Cultural Society's first general meeting (August 2004) the founding board was elected: 會長 李錫洋, 副會長 陳仲欽, 秘書 楊偉實, 財務 陳麗玲, plus directors 陳仁煌、柯錦霞、廖文榜、黃麗娜、何玲姍; the incorporation was drafted by a professional lawyer referred via the New York Nonprofit Council, on the recommendation of 陳仲欽, then a director of that council. The 1966-vs-1967 settlement-year HOLD above stands (1967 in #311, 1966 in #391).
+- Re-check (slice 09150700-8, 2026-09-15): corpus re-grep hit set unchanged; the two facts above were the only absorbable residue from #391.
 
 ## Sources
 - [TAH #2174 encyclopedia: 2174. William H. Lee 李錫洋](https://taiwaneseamericanhistory.org/whos-who-2174-william-h-lee/)

@@ -75,3 +75,4 @@ Both records are band-B bibliographic entries (full text stays with TAH), so the
 ## Deepen pass (2026-09-15, slice 09150500-22)
 - SKIP-with-reason：語料庫第三次復核，命中集不變（僅 #289／#573 書目頁與 works index），無回憶錄材料可吸收。
 - SKIP-with-reason（slice 09150600-11, 2026-09-15）：語料庫第四次復核，命中集不變（僅 #289／#573 書目頁與 works index），無回憶錄材料可吸收。
+- SKIP-with-reason（slice 09150700-8, 2026-09-15）：語料庫第五次復核，排除本人書目頁後命中為零，無回憶錄材料可吸收。
