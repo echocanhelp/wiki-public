@@ -58,3 +58,4 @@ _No filled family fields on the TAH profile._
 - deepen-x 09141500-7（2026-09-14 覆核）：再以「王培儒／Pei-Ju Wang」全庫檢索 works、articles，命中僅 [[works/index|works index]] 條目行，無新增回憶錄／社群材料 — 維持 **SKIP**。
 - deepen-x 09142319-31（2026-09-15 覆核）：檢索僅命中自身 TAH 出處頁 #265、#531 與 works index 條目行，無社群一手材料 — 維持 **SKIP**。
 - deepen-x 09150400-26（2026-09-15 覆核）：再 grep（王培儒／Pei-Ju Wang）命中僅自身出處頁 #265、#531 與 [[works/index|works index]] 條目行 — 維持 **SKIP（理由：無非出處頁語料）**。
+- deepen-x 09150500-19（2026-09-15 覆核）：再 grep（王培儒／Pei-Ju Wang，works+articles）命中仍僅自身出處頁 #265、#531 — 維持 **SKIP（理由：無回憶錄／社群一手材料）**。
