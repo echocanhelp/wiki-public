@@ -50,6 +50,7 @@ _No filled family fields on the TAH profile._
 - **Link hygiene:** 台南神學院, 西敏寺音樂學院, 普林斯頓神學院 and the Bella Bartok Choral Institute have no vault pages; left unlinked rather than creating new pages or linking a near-match.
 - **Holdings:** the entries sit in the [[sources/taiwaneseamericanhistory-org-story-corpus||台美史料中心 story corpus]], published by [[organizations/tah-foundation||TAH Foundation]].
 - **SKIP（deepen-x slice 09141213-23）:** corpus grep hits only her own bibliographic records [[works/taiwaneseamericanhistory-org/whoswho1704||TAH #1704]] and [[works/taiwaneseamericanhistory-org/musician406||TAH #406]] (bibliographic stubs, no article text); no memoir/community material to absorb.
+- **SKIP re-check（deepen-x slice 09141500-9, 2026-09-14）:** corpus re-grep (陳志宐／Chi Yi Chen over content/works + content/articles) returns the same two own catalogue records plus the works index only — still no memoir or movement-record material to absorb.
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

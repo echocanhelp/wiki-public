@@ -63,3 +63,4 @@ _No filled family fields on the TAH profile._
 - 語料庫入口：[[sources/taiwaneseamericanhistory-org-story-corpus||TAH story corpus]]。
 - 兩出處頁皆為書目記錄，無其他可吸收事實。
 - deepen-x 09141213-22：全語料庫 grep（方書敏／Amanda Shumin Yang）僅命中上述自家書目頁，無回憶錄敘述可吸收 — 本頁維持 SKIP（無可吸收社區事實）。
+- SKIP 複核（deepen-x slice 09141500-9，2026-09-14）：重新 grep（方書敏／Amanda Shumin Yang over content/works + content/articles）仍僅命中自家書目頁與作品索引，無社群材料可吸收，維持 SKIP。

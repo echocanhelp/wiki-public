@@ -59,6 +59,8 @@ His TAH encyclopedia records are held in the vault as community historical recor
 
 SKIP-with-reason: a corpus grep for 蔡宇明 / Jonathan Tsay over `content/works` and `content/articles` returns only his own TAH catalogue records ([[works/taiwaneseamericanhistory-org/musician375|#375]], [[works/taiwaneseamericanhistory-org/whoswho1413|#1413]] — already listed in Vault Holdings) and the works index. No memoir or movement-record content exists to absorb; this page remains press-kit biography only.
 
+Re-check (deepen-x slice 09141500-9, 2026-09-14): corpus grep re-run returned the same two catalogue records plus the works index — nothing absorbable; SKIP stands.
+
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[organizations/taiwanese-american-historical-society||TAHS]]
