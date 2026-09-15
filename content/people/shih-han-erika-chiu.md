@@ -51,3 +51,6 @@ _No filled family fields on the TAH profile._
 - 求學所在地（科羅拉多）的台美人社團：[[organizations/taiwanese-association-of-america-colorado||TAA Colorado]]
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+## Corpus re-grep (2026-09-15)
+Re-grepped 邱詩涵 / Shih-han (Erika) Chiu across content/works + content/articles: the only hits are her own TAH 百科 records — [[works/taiwaneseamericanhistory-org/245-shih-han-erika-chiu-e9-82-b1-e8-a9-a9-e6-b6-b5-basson-201507|TAH #245, Bassoon, 2015-07-18 · band B]] and [[works/taiwaneseamericanhistory-org/502-shih-han-erika-chiu-e9-82-b1-e8-a9-a9-e6-b6-b5-201507|TAH #502, 2015-07-18 · band B]] — both already linked under Vault Holdings, plus the works index. Her page line ties her to 台美史料中心 (T.A. Archives) but no archive-held material for her exists in the corpus yet. Nothing absorbable, no conflicts. SKIP-no-new-material.

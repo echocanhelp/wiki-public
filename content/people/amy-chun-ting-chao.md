@@ -48,3 +48,6 @@ _No filled family fields on the TAH profile._
 - 皮博迪學院所屬大學的台美學生社團：[[organizations/johns-hopkins-university-taiwanese-student-association||JHU Taiwanese Student Association]]、[[organizations/taiwanese-american-students-association-at-johns-hopkins-university||TASA at Johns Hopkins]]
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+## Corpus re-grep (2026-09-15)
+Re-grepped 趙君婷 / Amy Chun-Ting Chao across content/works + content/articles: the only hits are her own TAH 百科 records — [[works/taiwaneseamericanhistory-org/218-amy-chun-ting-chao-e8-b6-99-e5-90-9b-e5-a9-b7-soprano-201606|TAH #218, Soprano, 2015-06-21 · band B]] and [[works/taiwaneseamericanhistory-org/454-amy-chun-ting-chao-e8-b6-99-e5-90-9b-e5-a9-b7-201506|TAH #454, 2015-06-21 · band B]] — both already linked under Vault Holdings, plus the works index. No memoir/community material beyond these; nothing absorbable, no conflicts. SKIP-no-new-material.

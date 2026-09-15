@@ -51,3 +51,6 @@ last_reviewed: 2026-09-15
 ## Vault Absorbed (2026-09-14)
 - Vault work record: [[works/taiwaneseamericanhistory-org/whos-who-1674-rui-long-lin|TAH #1674 Rev. Rui-Long Lin 林瑞隆牧師]], published 2017-05-21 — bibliographic record only.
 - Era field 1947-2019 on this page records his passing; no death-date detail exists elsewhere in the vault, so none was added.
+
+## Corpus re-grep (2026-09-15)
+Re-grepped 林瑞隆 / Rui-Long Lin across content/works + content/articles: the only hit is his own TAH Who's Who record [[works/taiwaneseamericanhistory-org/whos-who-1674-rui-long-lin|TAH #1674, 2017-05-21 · band B]] (already linked under Vault Absorbed), plus the works index. No memoir/community material beyond this; nothing absorbable, no conflicts — the era 1947-2019 stands unchallenged. SKIP-no-new-material.
