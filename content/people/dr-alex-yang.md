@@ -55,4 +55,4 @@ Community service is recorded in his TAH profile itself: President of the [[orga
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 ## Corpus re-grep (2026-09-15)
-Re-grepped Alex Yang / 楊青 across content/works + content/articles: hit set unchanged — his own TAH records ([[works/taiwaneseamericanhistory-org/ota-270|#270]], [[works/taiwaneseamericanhistory-org/whos-alexyang|#1958]]) plus 楊青矗 (novelist) mentions in Our Journeys 38/69/245/292/357, already held under the name-collision note above. No new community material; nothing to merge.
+Re-grepped Alex Yang / 楊青 across content/works + content/articles: hit set unchanged — his own TAH records ([[works/taiwaneseamericanhistory-org/ota-270|#270]], [[works/taiwaneseamericanhistory-org/whos-alexyang|#1958]]) plus 楊青矗 (novelist) mentions in Our Journeys 38/69/245/292/357, already held under the name-collision note above. No new community material; nothing to merge. Re-verified (deepen-x slice 09150700-18, 2026-09-15): hit set unchanged.

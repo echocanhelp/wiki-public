@@ -70,6 +70,9 @@ Re-scan hit set unchanged (own [[works/taiwaneseamericanhistory-org/whos-who-179
 ## SKIP note (deepen-x pass 2026-09-15, slice 09150600-8)
 Re-scan grep -E `陳建德|Chien-Te Chen` over works+articles: hit set unchanged (own [[works/taiwaneseamericanhistory-org/whos-who-1791-chien-te-chen|TAH #1791]] record + works index only). SKIP-with-reason; nothing absorbable.
 
+## SKIP note (deepen-x pass 2026-09-15, slice 09150700-4)
+Re-scan grep -E `陳建德|Chien-Te Chen` over works+articles: hit set unchanged (own [[works/taiwaneseamericanhistory-org/whos-who-1791-chien-te-chen|TAH #1791]] record + works index only). SKIP-with-reason; nothing absorbable.
+
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]] — publisher of the Who's Who record
 - [[organizations/taiwanese-american-historical-society||TAHS]]
