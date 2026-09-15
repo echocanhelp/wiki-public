@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-14
+last_reviewed: 2026-09-15
 ---
 # Nan-Cheng Chen (陳南呈)
 
@@ -45,6 +45,8 @@ Absorbed from the profile text, Employment table, and cited TAH encyclopedia ent
 - Founded the New Asia Chamber Music Society (NACMS) at age 25 and serves as its executive director.
 - Member of Sonic Escape (2013–) and the Chen Trio, among other active NYC music ensembles.
 - Active soloist: has collaborated with the Simon Bolivar Orchestra, Queens Symphony Orchestra, Metro-West Symphony, Quincy Symphony, and Symphony Pro Musica.
+
+- Slice 09142319-19 複核（2026-09-15）：重跑 grep 陳南呈／Nan-Cheng Chen 命中仍僅 #516、#32 兩筆書目記錄與 works index；無回憶錄提及，無可吸收新事實，SKIP-with-reason。
 
 ## Connected in the Vault
 - Absorbed 2026-09-10: the vault holds two fellow New Asia Chamber Music Society (NACMS) principals as person pages — [[people/dr-wei-yang-andy-lin||Dr. Wei-Yang Andy Lin 林威良]] (NACMS co-founder and Artistic Director) and [[people/kevin-shue||Kevin Shue]] (NACMS founding member and Director of Education and Community Engagement). No standalone organization page exists yet for NACMS 新亞室內樂協會; the cited TAH pages remain the anchors.

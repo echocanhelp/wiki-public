@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-14
+last_reviewed: 2026-09-15
 ---
 # Dean Chang (張怡仁)
 
@@ -56,6 +56,8 @@ Accomplishment
 - 撰寫人紀錄：[[works/taiwaneseamericanhistory-org/mystore-755||TAH #755：Tribute to Dr. Bob Cheng（2020/09，Dean Chang 著）]]。
 - 「第一位第二代台美人任國務院外交官（外交系統）」紀錄：見已引用之 [[works/taiwaneseamericanhistory-org/ff45|TAH #45]]、[[works/taiwaneseamericanhistory-org/ff44|TAH #44]]。
 - （複掃 2026-09-14，slice 20）1971 威廉波特保護行動馬鈴薯刻印軼事的英文版記錄亦在庫：[[works/taiwaneseamericanhistory-org/ourjourneys62-eng||Our Journeys #62（英文版）]]（英文版並列 [[people/frank-lai|賴文雄]]、[[people/tzutsai-cheng|鄭自才]] 為 Subjects）。除此之外語料庫命中均為已連結之本人書目／相簿記錄，無新事實可吸收。
+
+- （複掃 2026-09-15，slice 09142319-19）重跑語料 grep（張怡仁／Dean Chang，works+articles）：命中全數為本頁已連結之書目／相簿／Our Journeys #62 記錄（含 ff44、ff45），無新事實可吸收，無衝突須 HOLD。
 
 ## Sources
 - [TAH #24 encyclopedia: 24. Dean Chang ( 張怡仁) Presenting the West Point Yearbook to President Reagan  By](https://taiwaneseamericanhistory.org/ourfootstapes-24/)
