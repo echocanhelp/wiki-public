@@ -71,3 +71,6 @@ _No filled family fields on the TAH profile._
 
 ## Deepen pass (2026-09-15, slice 09142319-27)
 - 全語料重掃（張佩仙／Peggy Chen）：命中僅已連結之 [[works/taiwaneseamericanhistory-org/86-peggy-chen-e5-bc-b5-e4-bd-a9-e4-bb-99|TAH #86]]、[[works/taiwaneseamericanhistory-org/77-peggy-chen-e5-bc-b5-e4-bd-a9-e4-bb-99-soprano-vocalist|TAH #77]] 書目記錄——**SKIP（無可吸收新事實）**。
+
+## Deepen-x re-check (slice 09150316-24, 2026-09-15)
+- 重掃結果不變：命中僅本人兩則書目記錄與 works/index 列表——**SKIP（無新社群事實可吸收）**。

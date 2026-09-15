@@ -51,6 +51,7 @@ _No filled family fields on the TAH profile._
 - （語料庫檢核 2026-09-14，slice 17：SKIP-with-reason）除上述兩則本人書目記錄外，語料庫唯一命中為 [[works/taiwaneseamerican-org/pew-research-center-taiwanese-american-statement|taiwaneseamerican-org 2021 年回應 Pew 報告連署名單]] 中的裸名「Samuel Lin」——名單無任何 identifiers（地點、頭銜、組織），無法歸屬本人，不主張連結；無可吸收之社群事實。
 - （複掃 2026-09-14，slice 20：SKIP）語料庫重掃結果不變——僅本人書目記錄與 works/index 列表命中，無新社群事實可吸收。
 - （複掃 2026-09-15，slice 26：SKIP）重掃結果不變——命中僅本人書目記錄、works/index，及 Pew 連署名單裸名（無 identifiers，不主張連結）；無新社群事實可吸收。
+- （複掃 2026-09-15，slice 09150316-24：SKIP）重掃結果不變——僅本人書目記錄、works/index 命中；無新社群事實可吸收。
 
 ## Sources
 - [TAH #250 encyclopedia: 250. Samuel Lin 林雲郎 / 2015/02](https://taiwaneseamericanhistory.org/250/)

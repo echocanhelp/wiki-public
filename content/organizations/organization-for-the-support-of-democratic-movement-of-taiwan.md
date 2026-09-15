@@ -39,3 +39,6 @@ Corroborating community memory: 吳木盛's essay [[works/taiwaneseamericanhisto
 - 本組織 TAH 組織目錄記錄之 vault 書目頁：[[works/taiwaneseamericanhistory-org/organization-for-the-support-of-democratic-movement-of-taiwan|TAH organization directory record（2017-05-17）]]。
 - 創辦人林孝信（Old Lin）的社群脈絡：[[works/taiwaneseamericanhistory-org/ourjourneys238|238. 台灣學生報 / 林文義 /08/2016]] 記 1983 年 12 月「台灣學生」首屆冬令會邀請林孝信與許信良、洪哲勝、劉重義同台座談，「集各種不同政治理念的領導人物」——支援會領袖林孝信至 1983 年仍是海外台灣學生運動各路線共同認知的核心人物，與本組織 1979 年創會後 Midwest／East Coast 夏令營、研討會的學生網絡互相呼應。另有本人書目記錄 [[works/taiwaneseamericanhistory-org/826-e6-9e-97-e5-ad-9d-e4-bf-a1-201602|826. 林孝信 / 2016/02]]、本人頁 [[people/tah-p-a80569567d|林孝信]]。
 - 檢索雜訊（不吸收）：2025 taiwanjustice 陳文石畫展新聞之「支持台灣民主運動」為泛稱用法、2026 大洛杉磯台灣會館 228 追思新聞之「民主台灣攝影展」為宋隆泉攝影展名稱，兩者皆非本組織事證，維持不連結。
+
+## Deepen-x re-check (slice 09150316-24, 2026-09-15)
+- 全語料重掃（台灣民主運動支援會／Support of Democratic Movement）：命中僅本組織 own 書目頁（directory record、#1145、#978、民主台灣通訊）及 works/index 列表——皆已於上文連結，**SKIP（無新社群事實可吸收）**。
