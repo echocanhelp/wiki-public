@@ -77,3 +77,7 @@ All existing links re-verified. One new contextual link added: TAHS's later [[so
 ## Deepen-X — 2026-09-14 (slice 09141300-12, corpus grep)
 
 SKIP-with-reason：corpus grep（周威廉 / Zhou Weiliang，於 works/ 與 articles/）零命中——本人於 corpus 僅存於本页與 2017 TAHS hub 記錄本身，無可吸收之社群一手材料。既有 2017 台美菁英錄貢獻記錄與周威霖區辨維持不變。
+
+## Corpus re-check 2026-09-14 (deepen-x slice 09142101-3) — SKIP
+
+SKIP-with-reason：再次 grep 周威廉 / Zhou Weiliang（含變體）於 works/ 與 articles/，零命中。corpus 內無可吸收之社群一手材料；2017 台美菁英錄貢獻記錄與周威霖區辨維持不變。

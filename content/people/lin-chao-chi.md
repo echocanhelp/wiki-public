@@ -64,3 +64,7 @@ As the third uncle (三舅) of 廖述宗, Lin Chao-chi was part of the extended 
 ## Deepen-X09141300-13 check (2026-09-14)
 
 - **SKIP-with-reason:** corpus grep over `content/works` + `content/articles` for 林朝棨 / Lin Chao-chi returns exactly one hit — [[works/taiwaneseamericanhistory-org/our-journeys-350|Our Journeys #350 (張瑞雄口述)]] — and every fact from it is already absorbed in the Fengyuan section above. Nothing new absorbable in the corpus; no web sources per protocol.
+
+## Corpus re-check 2026-09-14 (deepen-x slice 09142101-3) — SKIP
+
+- **SKIP-with-reason:** re-grepped 林朝棨 / Lin Chao-chi (incl. reversed-order variants) across `works/` + `articles/` — still exactly one hit, [[works/taiwaneseamericanhistory-org/our-journeys-350|Our Journeys #350 (張瑞雄口述)]], fully absorbed above. No new corpus material; 板橋 vs 十三行 attribution discrepancy remains on HOLD.

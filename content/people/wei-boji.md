@@ -85,3 +85,7 @@ Absorbed from the archived taiwancenter.org pages (`knowledge/web-archives/taiwa
 
 ## Deepen-x 2026-09-14 (vault-only)
 Cross-checked against the [[organizations/taiwan-center||Taiwan Center]] class table: 日文 row lists [[people/wei-boji||魏博基]] (+2 TAs), Sun 14:00–15:30 · $60 — consistent with this page. All Related Pages targets verified to exist in the vault. No new vault facts, no web, nothing published.
+
+## Deepen-X — 2026-09-14 (slice 09142101-2, corpus re-grep)
+
+SKIP-with-reason：復核語料檢索（魏博基 / Boji，於 works/ 與 articles/）仍為零命中——本人僅見於 taiwancenter.org 課程頁存檔（已全數吸收於上方），無回憶錄或通訊材料提及；無可吸收事實，未新增內容。

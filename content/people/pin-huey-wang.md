@@ -60,3 +60,6 @@ _No filled family fields on the TAH profile._
 
 ### Corpus grep 2026-09-14 (slice -15) — SKIP with reason
 Only corpus hits are her own two TAH encyclopedia records ([[works/taiwaneseamericanhistory-org/13-pin-huey-wang-e7-8e-8b-e5-93-81-e6-83-a0-piano||TAH #13]] and [[works/taiwaneseamericanhistory-org/519-pin-huey-wang-e7-8e-8b-e5-93-81-e6-83-a0-201507||TAH #519]]), already fully absorbed in the section above, plus the works index. No memoir or article mentions her — no movement-record material to absorb.
+
+### Corpus re-check 2026-09-14 (slice 09142101-3) — SKIP with reason
+Re-grepped 王品惠 / Pin-Huey Wang (incl. variants) across `works/` + `articles/`: hits remain only her own TAH #13 / #519 records and the works index. No independent memoir mentions; nothing new absorbable.

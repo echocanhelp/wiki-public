@@ -66,3 +66,7 @@ _No filled family fields on the TAH profile._
 ## Corpus re-check 2026-09-14 (deepen-x slice 09141300-11) — SKIP
 
 SKIP-with-reason: corpus grep over `content/works` and `content/articles` matches only his own cited TAH #2022 bibliographic record and the works index — no independent memoir/community corpus mentions found; nothing absorbable beyond the facts already on-page.
+
+## Corpus re-check 2026-09-14 (deepen-x slice 09142101-3) — SKIP
+
+SKIP-with-reason: re-grepped 戴聿昌 / Yu-Chong Tai (incl. name variants) across `works/` and `articles/` — same result: hits limited to his own TAH #2022 record and the works index. No memoir or community corpus mentions; nothing new absorbable.
