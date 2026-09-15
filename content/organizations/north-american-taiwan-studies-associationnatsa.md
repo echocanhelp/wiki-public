@@ -24,6 +24,7 @@ The North American Taiwan Studies Association (NATSA) is a US-based 501(c)(3) no
 - 2013-01-04 — call for papers for the annual conference: [[works/taiwaneseamerican-org/call-for-papers-for-north-american-taiwan-studies-association-annual-conference||NATSA CFP 2013 record]].
 - 2014-01-10 — call for papers for the 20th anniversary conference (already linked below).
 - 2014-10-12 — profiled in the TAH Foundation directory (already linked below).
+- 2024 — welcoming plenary session features memoirist Kim Liao on her book *Where Every Ghost Has a Name* and her grandfather Thomas Liao (Liao Wen-yi), per the community-press conversation record [[works/taiwaneseamerican-org/kim-liao-interview||"Where Every Ghost Has a Name": Kim Liao in conversation with Cosette Wu]] — the conference platforming an independence-movement family memoir shows NATSA's forum engaging directly with the movement's own memory work.
 - 2025 — the annual conference is still a living forum for the movement's younger scholars: a Taiwanese American memoirist cites it as formative, "what I learned at NATSA this year—to relate rather than compare" in [[works/taiwaneseamerican-org/taiwanese-american-jing-mei-memorial-park||We Build Museums So We Can Someday Stop Building Cages]] — evidence the association shapes how the community frames transitional justice and memory today.
 
 ## Sources
