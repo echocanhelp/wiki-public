@@ -31,6 +31,11 @@ last_reviewed: 2026-09-14
 ## Network
 - **Community org:** [[organizations/taiwanese-association-of-america-detroit-tagd||底特律台灣同鄉會 TAGD]] — three-term chapter president (1984, 2008, 2019); a chapter of [[organizations/taiwanese-association-of-america||Taiwanese Association of America]].
 
+## Role in the Community (absorbed from corpus, 2026-09-14)
+- 以 TAGD（Taiwanese Association of Great Detroit）名義連署 PEW Research Center 台灣人Statement：[[works/taiwaneseamerican-org/pew-research-center-taiwanese-american-statement|PEW Research Center 台灣人美國連署聲明]]。
+- 為 TAH《Our Journeys》專刊撰文（該篇「文章：洪國治」，配圖為 2019 MTSC 宣傳圖）：[[works/taiwaneseamericanhistory-org/our-journeys-376|Our Journeys #376]]。
+- 同鄉互助紀錄：密西根同鄉回憶錄記載他與另外四位同鄉於一場集団車禍中集體受傷——「洪國治談笑如常，其實内傷很重」，事後 Ann Arbor、聖保羅等地同鄉自動留下來天天跑醫院照顧傷患（車禍年份語料未載，不臆測）：[[works/taiwaneseamericanhistory-org/ourjourneys249|Our Journeys #249]]。
+
 ## Deepen notes (2026-09-14 pass)
 - Deepened from facts already on this page (TAH Who's Who extract and tah-tables block); no web, no new pages.
 - Wikilinks added only to existing vault slugs: TAGD chapter page, TAA parent org, and the TAH encyclopedia records below (#258, #171), which document the Nickel Metal Hydride battery invention and career record.

@@ -50,6 +50,7 @@ _No filled family fields on the TAH profile._
 - Vault records about him: [[works/taiwaneseamericanhistory-org/152-kevin-shue-e8-a8-b1-e6-84-b7-e6-b4-8b201502|152. Kevin Shue 許愷洋, Violinist]] (published 2015-02-16) · [[works/taiwaneseamericanhistory-org/382-kevin-shue-e8-a8-b1-e6-84-b7-e6-b4-8b-201504|382. Kevin Shue 許愷洋]] (published 2015/04)
 - Both records sit in the [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]] corpus under the [[organizations/tah-foundation|TAH Foundation]] Who's Who program.
 - **2026-09-14 (DEEPEN-X09112200-19):** fellow New Asia Chamber Music Society (NACMS) principals already held as person pages — [[people/dr-wei-yang-andy-lin||Dr. Wei-Yang Andy Lin 林威良]] (NACMS co-founder and Artistic Director), reciprocal note on his page; no standalone NACMS 新亞室內樂協會 organization page exists, and Stony Brook, Mannes, Children's Orchestra Society and Great Neck Conservatory have no vault pages, so they stay plain text.
+- **2026-09-14 (DEEPEN-X09141300-21):** corpus re-grep (works + articles) returns only his own two TAH encyclopedia records (#152, #382, already linked above) plus index entries; no mention in any memoir — nothing absorbable, SKIP this slice, no content change.
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

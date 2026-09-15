@@ -42,6 +42,12 @@ Dr. Long Song (Simon) Lin 林榮松醫師 – History of Taiwanese American (T.A
 - [TAH #702 encyclopedia: 702. Dr. Long Song (Simon) Lin 林榮松醫師](https://taiwaneseamericanhistory.org/whos-who-702-long-song-lin/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-long-song-simon-lin/)
 
+## Role in the Community（absorbed from TAH corpus, 2026-09-14）
+- **南加州台灣會館創會會長**：會館於 1998-02-19 召開第一次籌備會議、1998-06-12 開館；本人回憶錄（[[works/taiwaneseamericanhistory-org/ourjourneys29-eng|TAH #29 南加州台灣會館開創的史料]]，A-band）記載其為該書編纂者並留有第一手記述——以「火車」比喻會館（台灣會館如火車、社區如乘客；需募得車輛、燃料與人員），並記錄肯郡王（Kenjohn Wang）全額捐贈館舍、自基金會成立至開館僅四個月。與本頁 TAH 表所載 President 一職相互印證。
+- **UN for Taiwan 活動**：本人具名之活動紀錄片/相片集收於 vault（[[works/taiwaneseamericanhistory-org/photo-albums-activities-67|TAH #67 UN for Taiwan／林榮松，2015-04-23 刊]]）。
+- 義工與醫療服務事蹟：[[works/taiwaneseamericanhistory-org/mystories181|TAH #180 林榮松 甘願做義工（林蓮華，2015/01）]]；後援會參與經驗口述：[[works/taiwaneseamericanhistory-org/videos25|TAH #25 口述影像]]；會館首任會長專文：[[works/taiwaneseamericanhistory-org/ff163|TAH #163（1998）]]。
+- HOLD: 本頁 TAH 表載 林榮松 為 Taiwan Center Foundation President；[[people/simon-lin|Simon Lin（林榮松）]] 頁載同一人為執行長（title 不同），維持旗標，不自動合併。
+
 ## Vault record (TAH corpus)
 - [[works/taiwaneseamericanhistory-org/134-dr-long-song-simon-lin||TAH #134 encyclopedia entry]] (2018-10-09)
 - [[works/taiwaneseamericanhistory-org/collection-of-dr-simon-lin||TAH #69 林榮松醫師的收藏]] (2018-07-03)

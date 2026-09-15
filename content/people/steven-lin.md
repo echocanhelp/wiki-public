@@ -40,7 +40,7 @@ _No filled family fields on the TAH profile._
 - **2012** — Won the CAG Victor Elmaleh Competition
 - **2013** — Festival performer, Aspen Chamber Music Workshop
 - **2013** — Competed at the Van Cliburn International Piano Competition; awarded the John Giordano Jury Chairman Discretionary Award; praised by the Ft. Worth Star-Telegram as "…thoroughly enjoyable both as music and as a performance"
-- **c. 2015** — Soloist in Rachmanoff's Rhapsody on a Theme of Paganini with the Baltimore Symphony; The Baltimore Sun called the performance "elegantly refined"
+- **c. 2015** — Soloist in Rachmaninoff's Rhapsody on a Theme of Paganini with the Baltimore Symphony; The Baltimore Sun called the performance "elegantly refined"
 - **2016-07-23** — re-profiled in the TAH Who's Who corpus ([[works/taiwaneseamericanhistory-org/whoswho1173|TAH #1173 Steven Lin, 2016/07]])
 - **2017-03-26** — third TAH Who's Who profile in the corpus ([[works/taiwaneseamericanhistory-org/whoswho1587|TAH #1587 Steven Lin, 2017/03]])
 
@@ -57,4 +57,5 @@ _No filled family fields on the TAH profile._
 
 ## Deepen 2026-09-14（vault-only）
 - 出處之 vault 頁 [[works/taiwaneseamericanhistory-org/291-steven-lin-e6-9e-97-e6-98-93-pianist-201509|TAH #291（2015-09-07 刊）]]、[[works/taiwaneseamericanhistory-org/575-steven-lin|TAH #575（2015-09-07 刊）]] 為書目記錄，無新增可吸收事實；本頁 Timeline 已涵蓋全部所載。
+- 語料庫另有兩筆本人後期 Who's Who 記錄（書目級，無內文）：[[works/taiwaneseamericanhistory-org/whoswho1173|TAH #1173（2016-07-23 刊）]]、[[works/taiwaneseamericanhistory-org/whoswho1587|TAH #1587（2017-03-26 刊）]]，已併入 Timeline。
 - 同語料庫 TAH 鋼琴家參照：[[people/joel-fan|Joel Fan 范景德]]、[[people/tah-p-850ffab5db|周政忠 Jonathan Jou]]、[[people/meng-chieh-liu|Meng-Chieh Liu 劉孟捷]]。

@@ -68,3 +68,9 @@ last_reviewed: 2026-09-14
 ## Vault records (deepen pass 2026-09-14)
 - 本人兩則 TAH 百科條目均已入 vault 書目紀錄：#44〈許吳漱玉 Christina Hsu〉（2015-05-22 發布）、#437〈Christina Shuyu Hsu 許吳漱玉〉（2015-06-11 發布）；全文仍存 TAH 原站，本庫為書目級紀錄。
 - 求學脈絡（台中師院美術科 1967、台北師院特教證書 1979，皆本頁既有記載）對應 [[organizations/joint-alumni-association-of-taiwan-teachers-college-and-normal-univers||台師院北師院聯合同學會]]；紐約社區脈絡（1990–2008 紐約任教期間）對應 [[organizations/new-york-taiwan-center||紐約台灣會館]]。
+
+## Role in the Community
+- **寫作者／回憶錄作者**：本人撰有回憶散文〈捕捉記憶二三事〉，TAH 故事語料庫收為 #302（2015-07-09 發布）——見 [[works/taiwaneseamericanhistory-org/mystories302|302. 捕捉記憶二三事／許吳漱玉]]。這是不同於兩則百科條目（#44、#437，他人撰寫之介紹）的**本人親筆**第一手材料。
+
+## Deepen note (DEEPEN-X09141300-21, 2026-09-14)
+- 本輪語料庫掃描（works + articles）發現上述本人親筆回憶錄 #302 一則（先前本頁僅連結百科條目 #44、#437），已收錄並 wikilink；語料庫中另有 hits 皆為本頁既有条目或索引頁，無可再吸收之新事實，無衝突需 HOLD。
