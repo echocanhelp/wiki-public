@@ -48,6 +48,7 @@ Absorbed from the profile text, Employment table, and cited TAH encyclopedia ent
 
 - Slice 09142319-19 複核（2026-09-15）：重跑 grep 陳南呈／Nan-Cheng Chen 命中仍僅 #516、#32 兩筆書目記錄與 works index；無回憶錄提及，無可吸收新事實，SKIP-with-reason。
 - Slice 09150316-18 複核（2026-09-15）：grep 再跑，命中仍僅 #516／#32 書目錨點（皆已 wikilink 於本頁）＋works index；同儕回憶錄 0 提及，SKIP-with-reason，無衝突需 HOLD。
+- Slice 09150400-13 複核（2026-09-15）：grep 重跑，命中集不變（#516／#32 已連結＋works index）；同儕回憶錄 0 提及，SKIP-with-reason，無衝突需 HOLD。
 
 ## Connected in the Vault
 - Absorbed 2026-09-10: the vault holds two fellow New Asia Chamber Music Society (NACMS) principals as person pages — [[people/dr-wei-yang-andy-lin||Dr. Wei-Yang Andy Lin 林威良]] (NACMS co-founder and Artistic Director) and [[people/kevin-shue||Kevin Shue]] (NACMS founding member and Director of Education and Community Engagement). No standalone organization page exists yet for NACMS 新亞室內樂協會; the cited TAH pages remain the anchors.
