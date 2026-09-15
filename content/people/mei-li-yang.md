@@ -41,7 +41,7 @@ Accomplishment
 ## Role in the Community
 - NATWA association history credits her (as president-era contributor) with building the NATWA web membership directory and organizing a delegation to Geneva to join Taiwanese organizations worldwide petitioning for Taiwan's admission to the World Health Organization — see [[works/taiwaneseamericanhistory-org/ourjourneys60|NATWA 會史]] / [[works/taiwaneseamericanhistory-org/ourjourneys60-eng|NATWA history (EN)]].
 - NATWA calendar (月曆) sales history: joined the sales effort in 1995 with drive, helping the calendar project overcome its 1994–95 sales crisis; in 1998 the 「未完成的夢」 edition, under the leadership of Susan Y. J. Chang (程韻如) and Mei-Li Yang, printed 3,000 copies and sold out around Thanksgiving 1997 — see [[works/taiwaneseamericanhistory-org/ourjourneys160|NATWA 月曆史]].
-- Her NATWA presidency (2004–2005) per TAH Who's Who is consistent with the association history's sequence of presidents.
+- TAH Who's Who lists her NATWA presidency as 2004–2005; the same association history attributes the 2005 post-Katrina relief visit to President Cecelia Tsai (葉明霞). HOLD: conflict on who held the NATWA presidency in 2005 (TAH table vs 會史 narrative), not auto-merged.
 
 ## Sources
 - [TAH #2201 encyclopedia: 2201. Mei-Li Yang 楊美麗](https://taiwaneseamericanhistory.org/whos-who-2201-mei-li-yang/)

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-15
 ---
 # Richard Lee (李正三)
 
@@ -38,6 +38,14 @@ last_reviewed: 2026-08-17
 - **Son:** Howard Lee
 - **Father:** - ;Mother:-
 
+
+## Role in the Community
+- Fourth president of the Greater New York Region Overseas Taiwanese Pen Club (大紐約區海外台灣人筆會): the pen-club ten-year history records he took office in early 2015 as 4th president, after 林興隆 (2nd) and 郭正昭 (3rd), succeeded by 陳欽明 (5th) — see [[works/taiwaneseamericanhistory-org/ourjourneys12|筆會十年]]. His TAH-listed term 2014–2015 vs the club history's 2015 assumption of office: HOLD: minor conflict, not auto-merged.
+- Author of the memoir 「七十回顧—輕舟已過萬重山」, listed in the pen club's publication catalog and honored in the club history among member-authored books — see [[works/taiwaneseamericanhistory-org/publications21|七十回顧]].
+- Author of 吹響北美台獨號角的「費城四傑」— 楊東傑醫師與北美台獨運動話從頭 — see [[works/taiwaneseamericanhistory-org/10-e5-90-b9-e9-9f-bf-e5-8c-97-e7-be-8e-e5-8f-b0-e7-8d-a8-e8-99-9f-e8-a7-92-e7-9a|費城四傑]].
+- His restaurant career (Genroku, Shogun) is documented in his own account 李正三的餐飲業生涯 — see [[works/taiwaneseamericanhistory-org/buiness4|餐飲業生涯]].
+- A 228 survivor family (228受難家屬): his story of gratitude and resilience was written up by 楊遠薰 — see [[works/taiwaneseamericanhistory-org/mystories332|知恩與惜福]].
+- Donated personal archives: Collection of the Richard Cheng-San Lee 李正三的收藏 — see [[works/taiwaneseamericanhistory-org/private-collections-91|李家收藏]].
 
 ## Sources
 - [TAH #201 encyclopedia: 201. Cheng-San Lee 李正三](https://taiwaneseamericanhistory.org/201-cheng-san-lee/)

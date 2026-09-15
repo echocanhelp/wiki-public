@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-15
 ---
 # Chao-Yuh Yang (楊朝諭)
 
@@ -33,6 +33,13 @@ President of Taiwanese Association of West Germany and Taiwanese Association of 
 - Baylor College of Medicine, Dept of Medicine — 2009 - Present — Professor Emeritus
 - 中國醫藥大學 — 2010 - Present — Visiting Professor
 <!-- tah-tables:end -->
+
+## Role in the Community
+
+- **休士頓台灣人活動中心 founding (Houston):** Charter-drafting team member (章程組：李雅彥、謝貴分、蔡丁財、楊朝諭) and banquet-team lead (餐會組) for the founding activities of the Taiwanese American Community Center of Houston, per 莊承業's memoir [[works/taiwaneseamericanhistory-org/ourjourneys233|233. 回顧休士頓台灣人活動中心的成立]].
+- **ASSAT/同鄉會 leadership:** Elected president of the Houston Taiwanese American community organization in 1987; noted as having incurred the KMT government's displeasure, reportedly because of his prior role as president of the Taiwanese Association in Germany, per [[works/taiwaneseamericanhistory-org/ourjourneys106|106. Political Activities of Taiwanese Americans: 中華民國的黑名單]]. Consistent with his TAH bio as president of the Taiwanese Association of West Germany and of the Taiwanese Association of Europe.
+- **Name-collision note:** his brother 楊朝諄 ([[people/c-c-yang|楊朝諄]], physics, Indiana University) is a different person; the blacklist memoir notes the near-identical names caused report mix-ups.
+- **Essayist, TAH "台美人顧台灣" series:** authored [[works/taiwaneseamericanhistory-org/95-care-for-taiwan-by-taiwanese-americans-2-e9-80-81-e8-8a-b1-e7-9a-84-e6-89-8b-|95. 送花的手有餘香，為善的心能常樂 (2015/02)]] and [[works/taiwaneseamericanhistory-org/138-e4-b8-80-e4-bd-8d-e9-9b-a3-e5-be-97-e7-9a-84-e5-8f-b0-e7-81-a3-e4-ba-ba-e6-a|138. 一位難得的台灣人 (2014)]].
 
 ## Family
 

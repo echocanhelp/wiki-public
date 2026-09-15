@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-15
 ---
 # Father Brendan O’Connell (甘惠忠神父)
 
@@ -29,6 +29,9 @@ Father Brendan O’Connell 甘惠忠神父 – History of Taiwanese American (T.
 ## Employment
 - St. Raphael Opportunity Center (瑞復益智中心) — Founder — (1976-) — St. Theresa Opportunity Center (德蘭啟智中心) — Director — (1988-) — Bethlehem Foundation — Founder — (1996-) — Community — Asian Alliance for the Intellectually Deficient — Honorary Director
 <!-- tah-tables:end -->
+
+## Role in the Community
+Corpus check (2026-09-15, slice deepen-x-32): the only substantive local record is the TAH Who's Who entry itself, held at [[works/taiwaneseamericanhistory-org/whos-who-2255-father-brendan-oconnell|TAH #2255 甘惠忠神父]] (published 2020-04-20, bibliographic record — full text stays in the vault). No memoir or article mentions found in works/articles; remaining "Brendan" grep hits were false positives (Brendan Fraser, Brendan Carr FCC, Australian MP Brendan O'Connor). Absorbed community facts already on page: founded 瑞復益智中心 St. Raphael Opportunity Center (1976), directed 德蘭啟智中心 St. Theresa Opportunity Center (1988), founded Bethlehem Foundation (1996), honorary director of the Asian Alliance for the Intellectually Deficient — a New York Catholic priest's lifelong service to intellectually disabled children in Taiwan, recognized in the Taiwanese American community record.
 
 ## Family
 
