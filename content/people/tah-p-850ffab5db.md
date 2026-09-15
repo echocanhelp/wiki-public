@@ -62,3 +62,4 @@ _No filled family fields on the TAH profile._
 - 2026-09-15 slice 09142319-28 覆核：grep（周政忠／Jonathan Jou）命中僅 works index 條目行及本人書目頁 #648／#297——維持 **SKIP**，無新增可吸收事實。
 - 同語料庫 TAH 鋼琴家參照：[[people/joel-fan|Joel Fan 范景德]]、[[people/steven-lin|Steven Lin 林易]]、[[people/meng-chieh-liu|Meng-Chieh Liu 劉孟捷]]。
 - 2026-09-15 slice 09150316-29 覆核：grep（周政忠／Jonathan Jou／琴韻音樂學園）命中僅本人書目頁 #648／#297 與 works index 條目行——維持 **SKIP**，無新增可吸收事實。
+- 2026-09-15 slice 09150400-25 覆核：grep（周政忠／Jonathan Jou）命中集不變——僅本人書目頁 [[works/taiwaneseamericanhistory-org/648-e5-91-a8-e6-94-bf-e5-bf-a0-201510|#648]]／[[works/taiwaneseamericanhistory-org/297-jonathan-jou-e5-91-a8-e6-94-bf-e5-bf-a0-pinaist-201510|#297]] 與 works index 條目行——維持 **SKIP**。

@@ -55,3 +55,4 @@ _No filled family fields on the TAH profile._
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - 所引 TAH 故事亦見 [[sources/taiwaneseamericanhistory-org-story-corpus|taiwaneseamericanhistory.org 故事語料庫]]（已收錄書目紀錄）
 - deepen-x 09150316-29（覆核 2026-09-15）：姓名雙寫再檢 works／articles，命中僅自身書目頁 #401 及 works index 條目行——維持 **SKIP**，無社群／回憶錄材料可吸收。
+- deepen-x 09150400-25（覆核 2026-09-15）：再檢命中集不變——僅 [[works/taiwaneseamericanhistory-org/ching-wen-hsiao-pianist|TAH #401]] 及 works index 條目行——維持 **SKIP**，無可吸收材料。
