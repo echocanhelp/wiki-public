@@ -64,3 +64,4 @@ _No filled family fields on the TAH profile._
 - Slice 09141400-14 複核（2026-09-14）：corpus grep（works＋articles）仍僅命中本人 #1544、#389 書目記錄與 works/index，memoir 語料無新事實，本輪無可吸收內容。
 - Slice 09150316-21 複核（2026-09-15）：corpus grep（`劉佳欣|J. S. Liu`）命中集不變——僅本人書目頁 [[works/taiwaneseamericanhistory-org/whoswho1544||#1544]]、[[works/taiwaneseamericanhistory-org/musician389||#389]] 與 works/index，出處頁僅存 Identity Snapshot 書目記錄；memoir 語料無新事實，本輪 SKIP-with-reason，無冲突需 HOLD。
 - Slice 09142319-20 複核（2026-09-15）：corpus grep（`劉佳欣|J. S. Liu`）仍僅命中 #1544、#389 書目頁與 works/index；memoir 語料無新事實，本輪無可吸收內容。
+- Slice 09150400-7 複核 (2026-09-15): corpus grep 劉佳欣 / J. S. Liu 命中集不變 — 僅本人書目頁 [[works/taiwaneseamericanhistory-org/whoswho1544||#1544]], [[works/taiwaneseamericanhistory-org/musician389||#389]] 與 works/index; 出處頁僅 Identity Snapshot 書目記錄, memoir 語料無新事實, SKIP-with-reason, 無 conflict 需 HOLD。

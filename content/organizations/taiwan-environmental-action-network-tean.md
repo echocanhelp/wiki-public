@@ -50,3 +50,6 @@ planning); it serves as an overseas representative for numerous Taiwan-based civ
 
 ## Deepen pass 2026-09-15（slice 09150316-23 re-sweep）
 - SKIP-with-reason：重掃（TEAN／台灣環境行動網／Taiwan Environmental Action Network）命中僅本組織書目頁、works index，與同一筆台派存檔頁 archive_digest 假性命中（已於本輪再次逐字驗證：命中位於 front-matter `archive_digest: Z7DPT2MTVEYI4D2SGNCCTEANOIB5ABQ3`，非內文提及）；無可吸收之新社群事實。
+
+## Deepen pass 2026-09-15 (slice 09150400-7 re-sweep)
+- SKIP-with-reason: 重掃 (TEAN / 台灣環境行動網 / Taiwan Environmental Action Network) 命中僅本人書目頁 [[works/taiwaneseamericanhistory-org/taiwan-environmental-action-network-tean|TAH #22]], works/index, 與同一筆台派存檔頁 front-matter archive_digest hexadecimal 假性命中; 本輪另以 TEAN 字邊界 (word boundary) 重驗, 該存檔頁不中, 確認非內文提及。memoir 語料零實質命中, 無可吸收之新社群事實, 無冲突需 HOLD。

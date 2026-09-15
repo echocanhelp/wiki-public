@@ -55,6 +55,7 @@ Slice 09141400-15 re-sweep: same result — grep across works/ and articles/ for
 
 - **2026-09-15 (slice 09150316-21):** re-sweep SKIP — grep（李嵩斌／Song-Ping Lee across works＋articles）命中不變：僅本人出處頁 [[works/taiwaneseamericanhistory-org/whos-who-2311-song-ping-lee||#2311]]、[[works/taiwaneseamericanhistory-org/award-78||#78]] 及 works/index；memoir 語料零命中，無可另吸收之社群事蹟，無冲突需 HOLD。
 - **2026-09-15 (DEEPEN-X09142319-21):** re-sweep SKIP — grep（李嵩斌／Song-Ping Lee）命中不變（僅本人 #2311、#78 兩頁及 works 索引），無可另吸收之社群語料。
+- **2026-09-15 (slice 09150400-7):** re-sweep SKIP — grep 李嵩斌 / Song-Ping Lee (works + articles) 命中不變: 僅本人出處頁 [[works/taiwaneseamericanhistory-org/whos-who-2311-song-ping-lee||#2311]], [[works/taiwaneseamericanhistory-org/award-78||#78]] 及 works/index; memoir 語料零命中, 無可另吸收之社群事蹟, 無 conflict 需 HOLD。
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

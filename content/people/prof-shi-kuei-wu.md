@@ -64,3 +64,4 @@ last_reviewed: 2026-09-15
 - Corpus re-check (slice 09141400-7, 2026-09-14): grep of works/ + articles/ again hits only his own TAH #13/#1561 work pages and the index.md bibliographic lines — all already linked. SKIP: no new absorbable corpus material.
 - Corpus re-check (slice 09142319-11, 2026-09-15): grep 再核，命中僅本人 TAH #10/#13/#1561 書目級工作頁（均已連結於 Vault records 區）；no memoir or newsletter narrative adds facts. SKIP-with-reason: nothing absorbable; last_reviewed refreshed.
 - Corpus re-check (slice 09150316-5, 2026-09-15): grep 四核，命中僅 works/index.md 書目相鄰行（本人 #10/#13 條目及相鄰噪声），無敘述性材料。SKIP-with-reason 維持。
+- Corpus re-check (slice 09150400-3, 2026-09-15): grep 五核，命中僅本人 TAH #10/#13/#1561 書目級工作頁（均已連結於 Vault records 區）；無敘述性語料新增事實。SKIP-with-reason 維持；last_reviewed 現行。
