@@ -32,6 +32,11 @@ Accomplishment
 - Scripps Research Institute — Immunology Research — Community — Taiwanese American Foundation of San Diego (聖地牙哥台美基金會) — President (2011-2012) — San Diego Taiwan Community Center (聖地牙哥台灣中心) — Director (2004-2010) — San Diego Taiwanese Cultural Association (聖地牙哥台灣同鄉會) — President (2002)
 <!-- tah-tables:end -->
 
+## Role in the Community
+
+- 2009-09-19 — as executive director of the San Diego Taiwan Community Center (聖地牙哥台灣中心), conducted the ribbon-cutting for the center's permanent-site grand opening alongside TAFSD president Kun-Mu Chen 陳坤木 and Councilwoman Donna Frye's chief of staff Steven Hadley; delivered the indoor-ceremony welcoming speech; the event drew over 300 attendees, opened with the Naruwan Taiko Club, and honored building-remodel leaders Dr. Ming Wu 吳銘賢 and Dr. Winston Lue 呂錦文 with a plaque. Recorded in the movement archive at [[works/taiwaneseamericanhistory-org/ourjourneys162|162. 聖地牙哥台灣中心開幕典禮與慶祝音樂會]] and its English counterpart [[works/taiwaneseamericanhistory-org/ourjourneys162-eng|162 (EN)]].
+- Consistent with his TAH profile roles: director of the San Diego Taiwan Community Center (2004–2010), president of the Taiwanese American Foundation of San Diego (2011–2012), president of the San Diego Taiwanese Cultural Association (2002).
+
 ## Family
 
 _No filled family fields on the TAH profile._
