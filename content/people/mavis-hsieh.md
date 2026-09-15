@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-14
+last_reviewed: 2026-09-15
 ---
 # Mavis Hsieh (謝孟潔)
 
@@ -52,7 +52,8 @@ _No filled family fields on the TAH profile._
 - 本頁所引 TAH 百科原文已入庫：[[works/taiwaneseamericanhistory-org/323-mavis-hsieh-e8-ac-9d-e5-ad-9f-e6-bd-94||TAH #323（2015/03）]] 及
   [[works/taiwaneseamericanhistory-org/166-mavis-hsieh-e8-ac-9d-e5-ad-9f-e6-bd-94-soprano||TAH #166（2015/03，Soprano）]]；
   上表時序內容均出自該兩則記錄，無另行補充之新傳記事實。
-- **SKIP-with-reason（deepen-x slice 09141300-27）**：corpus grep（`content/works`、`content/articles`）僅命中本人兩則 TAH 百科頁與 works index，無其他回憶錄／報導提及，無可吸收之新社群事實。
+- **SKIP-with-reason（re-verified deepen-x slice 09142320-8, 2026-09-15）**：corpus grep（`content/works`、`content/articles`）僅命中本人兩則 TAH 百科頁與 works index，無其他回憶錄／報導提及，無可吸收之新社群事實。
+- HOLD: conflict — 本人 TAH 傳記正文稱 Ball State University 為 Master Degree，tah-tables Education 欄却記為「B.S. vocal」；同源互斥，不自動改併。
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
