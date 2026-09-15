@@ -31,6 +31,13 @@ Accomplishment
 - Taiwan Electric Co. — Engineer — (1958-1963) — Bechtel Engineer Co. — Civil Engineer — (1968-1977) — Terrace Motel — Owner — (1976-1997) — Community — East Bay Taiwanese Association — President (1977, 1979, 1981, 1983, 1986) — Taiwanese American Federation of Northern California — President (1981, 1988) — Taiwan Christian Church in East Bay, Northern California — Founder
 <!-- tah-tables:end -->
 
+## Role in the Community
+Our memoirs record Chang as a core figure of the Bay Area Taiwanese Christian and association movement:
+- Among the earliest believers baptized by Rev. Zhang Ruixiong (張瑞雄牧師) in San Francisco around 1968, introduced via a Japanese friend; his wife 楊鸞鳳 joined him in the U.S. in 1968 (her brothers were 楊維楨, NTU electrical engineering professor, and 楊維哲, NTU mathematics professor). He helped found the Taiwan Christian Church in East Bay.
+- Co-initiator of the Northern California Taiwanese Association (北加州台灣同鄉聯合會): in 1973 蘇俊雄, 張村樑 and 黃介山 proposed a federation of Bay Area clubs; the preparatory meeting was held at 黃介山's home on 1973-08-17 and the federation was founded 1973-09-22 with 蘇俊雄 as president and Chang as vice-president. He later served as federation president (per [[works/taiwaneseamericanhistory-org/my-stories-779|779. 憶張村樑長老 — 張瑞雄]]).
+- 1978: one of seven commissioners of the Joint Committee of Taiwanese American for 1980 U.S. Census (with 張富美, 張瑞雄, 黃介山, 黃景生, 陳隆, 謝鐐暲), the campaign that urged Taiwanese to write in "Taiwanese American" on the 1980 census — a landmark in Taiwanese American identity formation.
+- Corpus: [[works/taiwaneseamericanhistory-org/our-journeys-350|Our Journeys 350]] (張瑞雄牧師 memoir), [[works/taiwaneseamericanhistory-org/ourjourneys37|Our Journeys 37]], [[works/taiwaneseamericanhistory-org/ourjourneys38|Our Journeys 38]], [[works/taiwaneseamericanhistory-org/ourjourneys106|Our Journeys 106]], and his own entry [[works/taiwaneseamericanhistory-org/whos-who-2304-leon-chang|TAH #2304]].
+
 ## Family
 
 - **Wife:** Jane (楊鸞鳳)

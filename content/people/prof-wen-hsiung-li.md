@@ -31,6 +31,14 @@ last_reviewed: 2026-09-15
 - Univ. of Wisconsin Madison — Post-doctoral researcher — (1972-) — Univ. of Texas — Professor — (1973-) — Univ. of Chicago — Professor — (1998-) — Academia Sinica Biodiversity Research Center — Director
 <!-- tah-tables:end -->
 
+## Role in the Community
+
+- **NATPA (北美洲台灣人教授協會):** Elected south-region director (南區理事) at the association's 1981 annual meeting held jointly with the US East Taiwanese summer camp (1981-07-02–05), alongside 陳榮耀 (East), 孫錦德 (Midwest), and 李英偉 (West), per [[works/taiwaneseamericanhistory-org/ourjourneys69|69. 北美洲台灣人教授協會創會首十年紀事 (excerpt)]]. Later listed as the association's representative (北美洲台灣人教授協會代表) at a community forum, per [[works/taiwaneseamericanhistory-org/ourjourneys266|266]].
+- **休士頓台灣人活動中心 founding (Houston):** Secretarial team member (文書組：蔡淑媛、沈郁芳、郭正光、李文雄、吳連山) for the founding of the Taiwanese American Community Center of Houston, per 莊承業's memoir [[works/taiwaneseamericanhistory-org/ourjourneys233|233. 回顧休士頓台灣人活動中心的成立]].
+- **同鄉會 service:** Listed among those blacklisted by the ROC government; described as a former 同鄉會理事, per [[works/taiwaneseamericanhistory-org/ourjourneys106|106. Political Activities of Taiwanese Americans: 中華民國的黑名單]].
+- **HOLD: conflict** — the blacklist memoir (#106) describes 李文雄 as Chung Yuan math dept, Univ. of Wisconsin Ph.D. (Philosophy), then a statistics professor at a Texas medical school; the TAH Who's Who profile above records Chung Yuan civil engineering (1965), Brown Ph.D. applied mathematics (1972). Same blacklist entry also names him Wen-Hsiung Li; not auto-merged.
+- Profiled in TAH encyclopedia entry [[works/taiwaneseamericanhistory-org/23-prof-wen-hsiung-li|23. Prof. Wen-Hsiung Li 李文雄 教授 (2018)]].
+
 ## Family
 
 _No filled family fields on the TAH profile._
