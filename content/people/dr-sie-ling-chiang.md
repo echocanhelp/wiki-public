@@ -39,6 +39,12 @@ Accomplishment
 - **Son:** Andrew
 
 
+## Role in the Community
+- Beyond his BLM/DOI engineering career, Jiang is a documented theater artist and author in the TAH corpus: his dramatic-arts memoir survives as a three-part documentary series, 姜西淋演劇紀錄片系列一/二/三 (2007) — [[works/taiwaneseamericanhistory-org/publications542|TAH #542]], [[works/taiwaneseamericanhistory-org/publications543|TAH #543]], [[works/taiwaneseamericanhistory-org/publications544|TAH #544]]
+- Further oral theater record: [[works/taiwaneseamericanhistory-org/932-e6-88-b2-e8-ab-87-e6-b1-9f-e8-a5-bf-e6-b7-8b-e6-bc-94-e5-8a-87-e7-b6-93-e6-a|TAH #932 戲談姜西淋演劇經歷DVD]] (2011/12)
+- Author: [[works/taiwaneseamericanhistory-org/publications189|TAH #189 知命開運手邊冊]] (2007/04, philosophy)
+- Community network: listed among the Pennsylvania contacts in《全美台灣同鄉通訊錄》— [[works/taiwaneseamericanhistory-org/ourjourneys58|TAH #58 (陳希寬 memoir)]]
+
 ## Sources
 - [TAH #1644 encyclopedia: 1644. Dr. Sie-Ling Chiang 姜西淋博士](https://taiwaneseamericanhistory.org/whos-who-1644-sie-ling-chiang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-sie-ling-chiang/)

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-14
 ---
 # Dr. Justine Fang Chen (陳潔思博士)
 
@@ -36,6 +36,16 @@ Dr. Justine Fang Chen 陳潔思博士 – History of Taiwanese American (T.A. Ar
 - **Father:** [[people/wen-jer-chen||Wen Jer Chen]]
 - **Mother:** [[people/patsy-fang-chen||Patsy Fang Chen]]
 
+
+## Role in the Community
+Chen is documented in the TAHS/TAH Foundation story corpus as a performer-composer active in Taiwanese American musical institutions in the New York area. Four records carry her name:
+
+- [[works/taiwaneseamericanhistory-org/67-justine-f-chen-e9-99-b3-e6-bd-94-e6-80-9d-violin-and-composer|TAH #66. Justine F. Chen 陳潔思, Violin and Composer]] (2014-10-11) — profile in the musician series
+- [[works/taiwaneseamericanhistory-org/concerts62|TAH #62. Justine Fang Chen Violin Recital (陳潔思小提琴獨奏會)]] — recital presented by 名絃室內樂團 in Flushing, NY on 06/17/2001 (recorded 05/2002): an early NY-area 名弦 performance document
+- [[works/taiwaneseamericanhistory-org/519-brooklyn-neighorhood-chamber-orchestrajustine-fang-chen-music-e9-9f-b3-e6-a8|TAH #519. Brooklyn Neighborhood Chamber Orchestra / Justine Fang Chen 音樂CD]] (2015-02-15) — recording deposited with the archive
+- Who's Who encyclopedia entries [[works/taiwaneseamericanhistory-org/whos-who-164-justine-fang-chen|TAH #164]] (2014-12-23) and [[works/taiwaneseamericanhistory-org/52901|TAH #208]]
+
+Read together, the corpus places her career inside the community's own ensembles (名絃室內樂團, Brooklyn Neighborhood Chamber Orchestra) and in the archival record, not only in the Juilliard / New York City Ballet press record listed under Employment. Her parents [[people/wen-jer-chen|Wen Jer Chen]] and [[people/patsy-fang-chen|Patsy Fang Chen]] hold their own pages.
 
 ## Sources
 - [TAH #208 encyclopedia: 208. Dr. Justine Fang Chen 陳潔思博士](https://taiwaneseamericanhistory.org/208/)

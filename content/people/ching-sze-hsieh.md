@@ -42,6 +42,14 @@ Led FORMOSAT-1 (福衛一號) launch team as head of launch group at National Sc
 ## Sources
 - [TAH Who's Who](https://taiwaneseamericanhistory.org/person/ching-sze-hsieh/)
 
+## Role in the Community
+- 1987: named on the 19-person working committee of the Joint Committee of Taiwanese Americans for 1990 U.S. Census (召集人: FAPA 會長賴義雄), per 周實's TACL memoir — [[works/taiwaneseamericanhistory-org/ourjourneys253|TAH #253 1990年美國人口普查-TACL的角色]]
+- 1984: attendee at the first preparatory meeting of 南加州台灣人聯邦信用合作社 (SCTFCU); later secretary of its 徵信會 (Credit Committee) under chairman 許清煌 — [[works/taiwaneseamericanhistory-org/ourjourneys244|TAH #244 曇花一現的南加信用合作社]]
+- Authored his own TAH account of the 南加州同鄉會 1984 group return to Taiwan that broke the blacklist — [[works/taiwaneseamericanhistory-org/ourjourneys66|TAH #66 南加州同鄉會組團回台–1984突破黑名單]]
+- Brought 23 Taiwanese-American aerospace PhDs working in US industry back to Taiwan to offer their expertise (gap analysis with 侯貞雄, 江昭儀) — [[works/taiwaneseamericanhistory-org/ourjourneys261|TAH #261 一頓飯 省下20億美元 (陳文石)]]
+- Biographical feature: [[works/taiwaneseamericanhistory-org/131-e8-ac-9d-e6-b8-85-e5-bf-97-e7-9a-84-e7-94-9f-e5-91-bd-e6-8c-af-e5-8b-95-e8-a|TAH #131 謝清志的生命振動]] (2008.10, 傳記)
+- HOLD: [[works/taiwaneseamericanhistory-org/152-e7-b4-af-e7-a9-8d-e5-af-a6-e5-8b-99-e7-b6-93-e9-a9-97-e6-9c-89-e5-90-8d-e7-9|TAH #152「累積實務經驗 有名的SAT老師」]] is also attributed to a 謝清志 — same-name identity vs a different 謝清志 unresolved, not merged.
+
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
