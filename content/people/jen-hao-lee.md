@@ -44,7 +44,7 @@ The FPCLA church memoir records him as the church's sixth stated pastor, serving
 - 2016/05 — Who's Who entry ([[works/taiwaneseamericanhistory-org/whoswho1022|1022. Jen-Hao Lee 李仁豪]])
 
 ## Notes
-- Corpus re-check log (2026-09-16; deepen-x slices 18, 19, 09160400-18): re-grepped 李仁豪/Jen-Hao Lee across content/works + content/articles each pass — hit set unchanged (FPCLA 50年史 ourjourneys231 ZH+EN: sixth stated pastor 2014–2019, daily devotional materials, 港口教會 quote; mystories201 interview; artist32, musician160, whoswho1022), all already absorbed and wikilinked above. SKIP-with-reason; no new corpus facts, no conflicts to HOLD.
+- Corpus re-check log (2026-09-16; deepen-x slices 18, 19, 09160400-18, 09160500-19): re-grepped 李仁豪/Jen-Hao Lee across content/works + content/articles each pass — hit set unchanged (FPCLA 50年史 ourjourneys231 ZH+EN: sixth stated pastor 2014–2019, daily devotional materials, 港口教會 quote; mystories201 interview; artist32, musician160, whoswho1022), all already absorbed and wikilinked above. SKIP-with-reason; no new corpus facts, no conflicts to HOLD.
 
 ## Sources
 - [TAH #160 encyclopedia: 160.  Rev. Dr. Jen-Hao Lee李仁豪牧師, Conductor/2015/03](https://taiwaneseamericanhistory.org/musician160-jen-hao-lee/)

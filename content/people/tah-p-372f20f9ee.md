@@ -47,3 +47,4 @@ The corpus preserves him as a composer whose legacy was carried on by the commun
 - Corpus re-grep 2026-09-16 (slice 23 re-check): same result — the five work pages already wikilinked in Role in the Community (#493, #238, #276, #650, #651) remain the complete corpus footprint; SKIP-no-new-material.
 - Corpus re-grep 2026-09-16 (slice 26 re-check): hit set unchanged — only this person's own TAH 百科／書目 records plus index listings; no memoir or community material, nothing absorbable, no conflicts. SKIP-no-new-material.
 - Corpus re-grep 2026-09-16 (slice 09160400-22 re-check): hit set unchanged — the five already-wikilinked work pages (#493, #238, #276, #650, #651) plus index remain the complete footprint; SKIP-no-new-material.
+- Corpus re-grep 2026-09-16 (slice 09160500-19 re-check): hit set again unchanged — same five work pages + index; no memoir material beyond what is already absorbed in Role in the Community; SKIP-no-new-material.

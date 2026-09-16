@@ -37,3 +37,4 @@ Text above is absorbed solely from vault pages of the cited TAH records; no exte
 
 ## Corpus re-grep log
 - 英文名與漢名每輪重搜 content/works + content/articles（2026-09-15；slices 09150700-25、21、09160316-17、09160400-18）：命中集不變——僅本會之 TAH 書目頁（#21 介紹文、2017/2018 年會手冊 #1220／#1221，皆已引於上方）與 works/index 彙整行，無回憶錄或干部/會員材料可吸收。SKIP-with-reason；無衝突需 HOLD。
+- Corpus re-grep 2026-09-16 (slice 09160500-21): hit set unchanged（#21 介紹文、#1220／#1221 年會手冊皆已引於上方、index）。SKIP — 無回憶錄或干部/會員新材料。
