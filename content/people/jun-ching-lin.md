@@ -53,6 +53,7 @@ The Atlanta Symphony’s Assistant Concertmaster since 1988, Jun-Ching Lin was c
 - **Re-check (slices 09150600-13, 09150700-9, 2026-09-15):** grep re-run (Jun-Ching Lin / 林俊清 / 林俊青) — hit set unchanged: only #271, #542 and the works index. SKIP: no memoir or movement-record content to absorb.
 - **Re-check (slice 09160109-11, 2026-09-16):** grep re-run (Jun-Ching Lin / 林俊*) — hit set unchanged: only #271, #542 and the works index; 林俊* hits remain other persons' false positives. SKIP: nothing absorbable.
 - **Re-check (slice 09160316-8, 2026-09-16):** grep re-run (Jun-Ching Lin) — hit set unchanged: only his own catalogue records #271, #542 and the works index. SKIP: no memoir or movement-record content to absorb.
+- **Re-check (slice 09160400-7, 2026-09-16):** grep re-run (Jun-Ching Lin / 林俊清 / 林俊青 / 林峻) — hit set unchanged: exact-name hits remain only #271, #542 and the works index; no Chinese-name variant returns any corpus hit at all. SKIP: nothing absorbable.
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
