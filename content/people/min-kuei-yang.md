@@ -51,3 +51,4 @@ Re-grep 楊閔貴|Min-Kuei Yang returned only the two already-cited catalog reco
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- Re-grep 2026-09-16 (deepen-x slice 25): same hit set (#24, #1091 + index), both already wikilinked above. No new community facts; no conflicts.

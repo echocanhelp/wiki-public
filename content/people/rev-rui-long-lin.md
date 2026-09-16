@@ -57,3 +57,6 @@ Re-grepped 林瑞隆 / Rui-Long Lin across content/works + content/articles: the
 
 ## Corpus re-grep (2026-09-16, deepen-x slice 29)
 Re-grepped 林瑞隆 / Rui-Long Lin / RuiLong Lin: identical result — own record #1674 + index only. SKIP-no-new-material, confirmed on a second pass.
+
+## Corpus re-grep (2026-09-16, deepen-x slice 25)
+Third pass: identical result — own record #1674 + works index only. SKIP-no-new-material.

@@ -45,4 +45,4 @@ _No filled family fields on the TAH profile._
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
-複核（deepen-x 2026-09-16）：corpus re-grep（works+articles）僅見已吸收於上方的 mystories 專欄（747、648、7、499、publications1123）與 artifact 捐贈紀錄 #66，無新增社群材料 — 維持現況。
+複核（deepen-x 2026-09-16, slices incl. 26）：corpus re-grep（works+articles）僅見已吸收於上方的 mystories 專欄（747、648、7、499、publications1123）與 artifact 捐贈紀錄 #66，無新增社群材料 — 維持現況。

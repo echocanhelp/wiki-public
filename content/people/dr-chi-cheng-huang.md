@@ -51,3 +51,5 @@ Accomplishment
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+## Corpus re-check (2026-09-16, deepen-x slice 25)
+Re-grepped 黃至成|Chi-Cheng Huang across works+articles: identical hit set (141/209 街童 essay, Our Journeys 162/291, #236/#600, mystories-673) — all already absorbed above. Nothing new absorbable; Kaya naming HOLD stands.
