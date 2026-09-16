@@ -36,6 +36,7 @@ Dr. Jii (James) Shieh 謝己博士 – History of Taiwanese American (T.A. Archi
 - Long-standing technical backbone of the TAC East Coast Summer Convention (美東夏令會): credited in [[works/taiwaneseamericanhistory-org/ourjourneys159|Our Journeys #159]] for running the computer/AV operations — troubleshooting equipment alongside the organizer, enabling the student-movement (服貿/學運) discussion panel to start on time, and co-operating the 台灣之夜 stage program (with 蔡宗元) despite last-minute CD failures.
 - 2017-07-04, at the closing of the 2017 TAC/EC 美東台灣人夏令會, the TAC/EC flag was handed to him as 召集人 of the 2018 convention (alongside incoming 理事長 翁進治) — the 2018 美東夏令會 was taken over by the Philadelphia/Delaware (費城/德拉瓦) community, which he convened. Reported by 楊遠薰: [[articles/taiwanjustice-net/20211205054150_2017_07_10_2017年美東台灣人夏令會-_-楊遠薰-報導-2017-07-09_29faf54b8c9e2d10|2017年美東台灣人夏令會 / 楊遠薰 / 2017-07-09]].
 - Consistent with his TAH profile's community roles: TAA Greater Philadelphia Area President and TAC/EC TANG Coordinator.
+- Corpus re-grep 2026-09-16 (slice 09160400-24): hits = video-185, ourjourneys159, TAH #2101, index, and 楊遠薰's 2017 夏令會 report (a second archived copy of the same handover event already absorbed above). No new community facts; SKIP.
 
 ## Family
 

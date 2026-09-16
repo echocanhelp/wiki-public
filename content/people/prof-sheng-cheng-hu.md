@@ -53,3 +53,4 @@ _No filled family fields on the TAH profile._
 - No further biography invented; verification still pending against the cited TAH pages.
 - Corpus re-grep 2026-09-16 (slice 27): hits are only the two linked TAH bibliographic records (#150, #2150), the already-absorbed NATPA 籌備記述 in [[works/taiwaneseamericanhistory-org/ourjourneys47|TAHS Our Journeys #47]], and the works index. No new community facts absorbable; no conflicts.
 - Corpus re-grep 2026-09-16 (slice 09160316-24): hit set unchanged (#150, #2150, ourjourneys47, index). SKIP this pass.
+- Corpus re-grep 2026-09-16 (slice 09160400-24): hit set unchanged (#150, #2150, ourjourneys47, index). SKIP — page saturated, no new community facts.

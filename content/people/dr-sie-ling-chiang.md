@@ -56,3 +56,5 @@ Accomplishment
 - Listed as the Pennsylvania contact in 陳希寬's memoir of the first《全美台灣同鄉通訊錄》([[works/taiwaneseamericanhistory-org/ourjourneys58||TAH #58]]) — consistent with his 1964–2004 career in PA and at Dept. of the Interior HQ
 - （2026-09-15 deepen pass ×2（slices 09150600-28 / 09150700-21）：語料庫檢索命中 TAH #542/#543/#544、#932、#189、#58 全部已吸收並連結於上，**SKIP：無新可吸收事實。**）
 - （2026-09-16 deepen pass slice 09160109-22：再次檢索 works/articles，命中集不變（#542/#543/#544、#932、#189、#58），**SKIP：無新可吸收事實。**）
+- Theater activity continued into the 2010s: billed work 933.戲劇:白賊七的騙術&姜西淋博士返鄉專題講座 (2014/10) — a play (Paiketse's骗術) paired with his 返鄉專題講座 — [[works/taiwaneseamericanhistory-org/publications933|TAH #933]]
+- （2026-09-16 deepen pass slice 09160400-20：檢索命中 #542/#543/#544、#932、#189、#58 已吸收；新增吸收 #933（2014/10 返鄉講座＋戲劇節目）。其餘命中為自record與 works index，無其他新事實。）

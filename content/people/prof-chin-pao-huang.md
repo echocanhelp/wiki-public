@@ -54,3 +54,7 @@ Prof. Chin-Pao Huang 黃金寶教授 – History of Taiwanese American (T.A. Arc
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - Corpus re-grep 2026-09-16 (slice 23 re-check): same result — only own TAH #2305 record + works index; no memoir/community passages; SKIP-no-new-material.
 - Corpus re-grep 2026-09-16 (slice 26 re-check): hit set unchanged — only this person's own TAH 百科／書目 records plus index listings; no memoir or community material, nothing absorbable, no conflicts. SKIP-no-new-material.
+
+## Role in the Community
+- Public signatory of the 2021 Taiwanese American community response to the Pew Research reports on Asian American communities ("We made it count. Now tell our stories."), listed as **Chin-pao Huang, American Taiwanese Association of Delaware** in [[works/taiwaneseamerican-org/pew-research-center-taiwanese-american-statement|the 2021-05 statement]]. This documents his Delaware Taiwanese-community affiliation asserted by himself, closing the earlier note that his TAA Delaware link was undocumented — see [[organizations/taiwanese-association-of-america-delaware|TAA Delaware]].
+- Corpus re-check 2026-09-16 (slice 09160400-22): new hit beyond own #2305 record — the Pew-response signatory list above; absorbed. No conflicts to hold.

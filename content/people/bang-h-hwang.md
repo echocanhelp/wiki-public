@@ -45,6 +45,7 @@ Assistant Professor of Anatomy
 
 - Corpus re-check 2026-09-16 (deepen-x slice 25): re-grep across works/articles returns the same hit set — own TAH #834 record, the our-journeys-389 印城同鄉會 memoir, and the taiwanjustice-net 「黃邦雄醫師」 essays — all already cited above. Nothing new absorbable; HOLD on the name collision stands.
 - Corpus re-check 2026-09-16 (deepen-x slice 09160316-20): re-grep hit set unchanged (#834、our-journeys-389、taiwanjustice-net 2021 文章含「人類乳突病毒與疫苗的認識[影]」HPV 講題，屬同一「黃邦雄醫師」 HOLD 群). SKIP — 無新可吸收事實。
+- Corpus re-check 2026-09-16 (deepen-x slice 09160400-19): hit set again identical (#834、our-journeys-389、taiwanjustice-net「黃邦雄醫師」檔案). SKIP — 無新可吸收事實；HOLD 不變。
 
 ## Family
 

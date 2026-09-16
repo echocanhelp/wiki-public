@@ -8,6 +8,7 @@ tags:
   - tah-whos-who
 verification_status: pending
 last_reviewed: 2026-09-16
+resweep: deepen-x-09160400-21
 ---
 # Sibyl Chen (陳世樸)
 
@@ -49,3 +50,6 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+## Corpus re-grep (deepen-x slice 09160400-21)
+- 2026-09-16: hit set unchanged -- only the person's own already-linked TAH bibliography pages (band B) and works/index catalog rows. No memoir/community material to absorb. SKIP-with-reason; no conflicts to HOLD.
