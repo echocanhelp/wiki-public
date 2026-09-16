@@ -38,15 +38,22 @@ Accomplishment
 
 
 ## Role in the Community
-Beyond his association leadership — president of the Orange County Taiwanese Association (OCTA 柑縣台灣同鄉會, 2001) and of the Taiwanese Association of the Greater Salt Lake (TAGSL) — Wang is a recurring community essayist in the TAH story collections, writing in Taigi-inflected Chinese on community life and Taiwan politics (corpus re-grep 2026-09-16 confirms these as his only essay records, plus his earliest):
+Beyond his association leadership — president of the Orange County Taiwanese Association (OCTA 柑縣台灣同鄉會, 2001) and of the Taiwanese Association of the Greater Salt Lake (TAGSL) — Wang is a recurring community essayist in the TAH story collections (21 corpus records on re-grep 2026-09-16, spanning 2004–2021), writing in Taigi-inflected Chinese on community life and Taiwan politics:
 - [[works/taiwaneseamericanhistory-org/6-e7-88-be-e7-81-a3-e8-8a-b1-e5-a3-87-e6-83-85-e4-be-86-e7-89-bd-e7-8e-8b-e5-81-|6. 爾灣花壇情來牽 (2004/01, 文學)]] — earliest essay in the corpus
 - [[works/taiwaneseamericanhistory-org/mystories266|266. 溫馨小毛巾 (2014/12)]]
 - [[works/taiwaneseamericanhistory-org/133-e6-84-9b-e9-a0-8c-e4-bf-b1-e6-a8-82-e9-83-a8-e7-8e-8b-e5-81-a5-e6-a4-8e20150|133. 愛頌俱樂部 (2015/05)]]
 - [[works/taiwaneseamericanhistory-org/mystories497|497. 柚有靈兮一點通 (2016/12)]]
+- [[works/taiwaneseamericanhistory-org/private-collections-87|87. 王健椎博士的收藏 (personal collection donated, 2019/08)]]
 - [[works/taiwaneseamericanhistory-org/my-stories-688|688. 不三不四跨藍綠 (2019)]]
 - [[works/taiwaneseamericanhistory-org/my-stories-714|714. 見證台灣2020大選 (2020/01)]]
+- [[works/taiwaneseamericanhistory-org/mystories-746|746. 懷念Bob (2020/09)]]
+- [[works/taiwaneseamericanhistory-org/my-stories-762|762. 新冠疫情真情五四三 (2020/10)]]
+- [[works/taiwaneseamericanhistory-org/mystories-764|764. 逃難火燒山 (2020/11)]]
+- [[works/taiwaneseamericanhistory-org/my-stories-771|771. 世界尚好的漢堡 (2020/11)]]
+- [[works/taiwaneseamericanhistory-org/our-journeys-367|367. 民主病毒新希望 (2021/03, band A)]]
+- [[works/taiwaneseamericanhistory-org/our-journeys-368|368. 老中老外心掛礙 (2021/03, band A)]]
 
-His Golden Orange Club (金桔會)/OCTA project-management role recorded in the TAH profile ties the essayist persona to the same Orange County community infrastructure.
+His Golden Orange Club (金桔會)/OCTA project-management role recorded in the TAH profile ties the essayist persona to the same Orange County community infrastructure. The 2019 personal-collection record shows his papers entered the TAH archive as well.
 
 ## Sources
 - [TAH #156 encyclopedia: 156. Dr. Jian-Juei Wang 王健椎博士](https://taiwaneseamericanhistory.org/156-dr-jian-juei-wang/)
