@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-15
+last_reviewed: 2026-09-16
 ---
 # Evergreen Class by Irvine Taiwanese Presbyterian Church ，Laguna Hills, CA (長青教室)
 
