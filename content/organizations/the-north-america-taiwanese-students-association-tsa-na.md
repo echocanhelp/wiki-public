@@ -41,3 +41,4 @@ The North America Taiwanese Students’ Association (TSA-NA) is a non-profit org
 - Recheck (deepen-x slice 09160109-12, 2026-09-16): grep hit-set unchanged (own archive page + works/index only); SKIP-with-reason stands.
 - Recheck (deepen-x slice 09160316-10, 2026-09-16): grep hit-set unchanged (own archive page + works/index only); SKIP-with-reason stands.
 - Recheck (deepen-x slice 09160400-10, 2026-09-16): grep hit-set unchanged (own archive page + works/index only); SKIP-with-reason stands.
+- Recheck (deepen-x slice 09160500-9, 2026-09-16): grep hit-set unchanged (own archive page + works/index only); no memoir material on the 1983 founding or 2008 reestablishment beyond the directory bio. SKIP-with-reason stands.

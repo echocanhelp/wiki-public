@@ -76,3 +76,5 @@ _No filled family fields on the TAH profile._
 - 語料庫再比對：命中集不變（本人 #295／#644 存檔頁 + works/index），無他人記述可吸收。維持 SKIP-with-reason。
 ## deepen 2026-09-16 (slice 09160400-10)
 - 語料庫再比對：命中集不變（本人 #295／#644 存檔頁 + works/index），無他人記述可吸收。維持 SKIP-with-reason。
+## deepen 2026-09-16 (slice 09160500-9)
+- 語料庫再比對：命中集不變（本人 #295／#644 存檔頁 + works/index）；taiwanjustice-net 三則新聞之命中為「珍妮特」泛名噪音（財經時事報導），與本頁教會音樂事蹟無關。維持 SKIP-with-reason。
