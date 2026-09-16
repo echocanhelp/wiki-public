@@ -57,3 +57,6 @@ The corpus documents Lieu's standing within the Taiwanese American community in 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+## Corpus re-grep (slice 09160400-29, 2026-09-16)
+Re-grep 劉雲平 / Ted Lieu across content/works + content/articles returned the same six records — the 台美人募款會 re-election piece, the TAIWANESE census-checkbox piece, the 2020 re-election event, memoir #787 從政之路, and encyclopedia #4/#155 — all already wikilinked under Role in the Community above. No new community facts absorbable; nothing to hold. SKIP-no-new-material.

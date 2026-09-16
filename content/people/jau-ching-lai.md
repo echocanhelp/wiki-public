@@ -37,6 +37,7 @@ _No filled family fields on the TAH profile._
 ## Role in the Community
 - **會館音樂製作：** The South California Taiwanese House corpus record lists 賴昭晴 among the production staff (李麗華、賴昭晴、吳明杰、廖欽和; piano by [[people/quei-lih-chen|陳瑰麗]]) of the commemorative video album 《台灣人的歌》 — [[works/taiwaneseamericanhistory-org/ourjourneys29|Our Journeys #29（南加州台灣會館）]]; her community work extended to music production for the 會館 commemoration (co-staff [[people/thomas-ming-chien-wu|吳明杰]] also carries the cross-link).
 - **語料庫紀錄：** [[works/taiwaneseamericanhistory-org/254-jau-ching-lai-e8-b3-b4-e6-98-ad-e6-99-b4-201502|TAH #254]] (2015/02); the companion entry [[works/taiwaneseamericanhistory-org/10221|TAH #135「Jau-Ching Lai 賴昭晴, Pianist」]] (2015/02) labels her as a pianist, consistent with her piano-teaching career.
+- **Cross-link in same record：** ourjourneys29 also cross-links [[people/an-su-gao-lai|賴高安賜]] alongside 賴昭晴 in its related-people set; relationship (family?) not stated in the record — noted as association only, no merge.
 - HOLD: conflict — the profile text says a *master degree* in Music from USC (1993), while the Education table records 南加州大學 1993 *B.S. 音樂演奏*. Never auto-merged; awaiting owner confirmation.
 
 ## Sources
