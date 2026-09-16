@@ -41,6 +41,7 @@ last_reviewed: 2026-09-16
 - **複核（deepen-x 2026-09-16）：** corpus re-grep (溫碧謙 / B. C. Wen) returns exactly the four work pages already linked here — [[works/taiwaneseamericanhistory-org/whos-who-1461-b-c-wen|#1461]], [[works/taiwaneseamericanhistory-org/ota-293|#293]], [[works/taiwaneseamericanhistory-org/119-dr-wen-mbc|#119 養生功法專欄]], [[works/taiwaneseamericanhistory-org/ourjourneys101|Our Journeys #101]] — plus the harvest index. Memoir detail absorbed above; no conflicts found.
 - **專欄作者：** His wellness/qigong column 「溫醫師MBC養生功法」 is held at [[works/taiwaneseamericanhistory-org/119-dr-wen-mbc|TAH #119]] (2010/05, Life section).
 - **百科紀錄：** [[works/taiwaneseamericanhistory-org/ota-293|TAH OTA #293]] · [[works/taiwaneseamericanhistory-org/whos-who-1461-b-c-wen|TAH Who's Who #1461]].
+- **複核（deepen-x slice 18, 2026-09-16）：** re-grep（溫碧謙 / B. C. Wen）hit set unchanged — #1461、OTA #293、MBC養生功法專欄 #119、Our Journeys #101、加 harvest index，全數已 wikilink 於上。SKIP-no-new-material.
 - Community leadership already on this page — TAA South Florida chapter president (2004), TAA Iowa chapter president, and a regional branch president of 全美客家同鄉會 — is consistent with these grassroots records.
 
 ## Sources

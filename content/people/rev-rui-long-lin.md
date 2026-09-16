@@ -63,3 +63,6 @@ Third pass: identical result — own record #1674 + works index only. SKIP-no-ne
 
 ## Corpus re-grep (2026-09-16, deepen-x slice 24)
 Fourth pass: identical hit set — own record [[works/taiwaneseamericanhistory-org/whos-who-1674-rui-long-lin|TAH #1674]] + works index only. SKIP-no-new-material; page saturated.
+
+## Corpus re-grep (2026-09-16, deepen-x slice 18)
+Fifth pass: identical hit set — own record [[works/taiwaneseamericanhistory-org/whos-who-1674-rui-long-lin|TAH #1674]] + works index only. SKIP-no-new-material; page saturated.
