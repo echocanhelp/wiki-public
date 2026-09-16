@@ -42,9 +42,10 @@ last_reviewed: 2026-09-15
 - **His own memoirs in the corpus:** [[works/taiwaneseamericanhistory-org/mystories460-eng|460. 告別休士頓台灣同鄉 / Farewell to TAA Houston / 2016-09]] and [[works/taiwaneseamericanhistory-org/my-stories-712|712. 一個黑名單的自白 / 2019-12]].
 
 ## Sources
-- [TAH #34 encyclopedia: 34. Dr. Ming Cheng Liau (廖明徵博士)](https://taiwaneseamericanhistory.org/senior-taiwanese-american-34/)
-- [TAH #2216 encyclopedia: 2216. Dr. Ming Cheng Liau 廖明徵博士](https://taiwaneseamericanhistory.org/whos-who-2216-ming-cheng-liau/)
-- [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-ming-cheng-liau/)
+- TAH encyclopedia entries (corpus copies): [[works/taiwaneseamericanhistory-org/senior-taiwanese-american-34|TAH #34: Dr. Ming Cheng Liau 廖明徵博士]] · [[works/taiwaneseamericanhistory-org/whos-who-2216-ming-cheng-liau|TAH #2216: Dr. Ming Cheng Liau 廖明徵博士]] · [TAH Who's Who](https://taiwaneseamericanhistory.org/person/dr-ming-cheng-liau/)
+
+### Disambiguation (corpus re-grep 2026-09-16)
+Grep hits for "Ming-Cheng/Ching-Ming" on [[works/taiwaneseamericanhistory-org/85-ching-ming-cheng-e9-84-ad-e9-9d-9c-e6-97-bb|TAH #85]] and [[works/taiwaneseamericanhistory-org/49-ching-ming-cheng-e9-84-ad-e9-9d-9c-e6-97-bb-piano|TAH #49]] are **Ching-Ming Cheng 鄭靜旻**, a different person — do not merge.
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

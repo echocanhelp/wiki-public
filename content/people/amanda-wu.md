@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-15
+last_reviewed: 2026-09-16
 ---
 # Amanda Wu
 
@@ -48,3 +48,4 @@ _No filled family fields on the TAH profile._
 - Corpus re-check 2026-09-15 (deepen-x slice 19): re-grepped "Amanda Wu" — same result (#165 + index only; the Amenda Wu variant record is on [[people/amenda-wu]], held, not merged). SKIP-with-reason; no new community passages.
 - Corpus re-check 2026-09-15 (deepen-x slice 32): re-grepped Amanda/Amenda across works+articles — hits are exactly her own two TAH records (#165, #322) plus index listings, no memoir passages. SKIP-with-reason; duplicate-name HOLD stands.
 - Corpus re-check 2026-09-15 (deepen-x slice 23): re-grepped Amanda/Amenda Wu — same result (#165, #322, index only). SKIP-with-reason; HOLD on the Amenda Wu duplicate stands.
+- Corpus re-check 2026-09-16 (deepen-x slice 21): re-grepped Amanda/Amenda Wu across works+articles — hits remain only her own two TAH records (#165, #322) plus index listings; the other Wu-name hits are unrelated people (吳明源, 吳瑟民, Arthur H. Wu 吳漢南, De Min Wu). SKIP-with-reason; no memoir/community passages; HOLD stands.

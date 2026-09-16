@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-15
+last_reviewed: 2026-09-16
 ---
 # Shu-Hui Janet Tsai (蔡淑慧博士)
 
@@ -70,3 +70,5 @@ _No filled family fields on the TAH profile._
 - 語料庫再比對（deepen-x slice-30，2026-09-15）：命中集不變（#295／#644 + works/index 目錄列項），無他人記述可吸收。維持 SKIP-with-reason。
 - 語料庫再比對（deepen-x slice-20，2026-09-15）：命中集不變（#295／#644 + works/index），無他人記述可吸收。維持 SKIP-with-reason。
 - 語料庫再比對（deepen-x slice-16，2026-09-15）：命中集不變（#295／#644 + works/index），無他人記述可吸收。維持 SKIP-with-reason。
+## deepen 2026-09-16 (slice 09160109-14)
+- 語料庫再比對：命中集不變（本人 #295／#644 存檔頁 + works/index），無他人記述可吸收。維持 SKIP-with-reason。

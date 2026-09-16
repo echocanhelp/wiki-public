@@ -33,6 +33,7 @@ Other "Evergreen/長青" hits in the TAH corpus are **distinct organizations**, 
 - Houston Formosan Evergreen Association 休士頓台灣長春會 ([[works/taiwaneseamericanhistory-org/2-houston-formosan-evergreen-association|TAH #2]]); its Shou-chang Ou appears on the 1992 Taiwan Community Center-Houston management committee ([[works/taiwaneseamericanhistory-org/ourjourneys233-eng|Our Journeys 233]]).
 - Evergreen Association, a Wednesday user of the NYC Taiwan Center in the early 1990s ([[works/taiwaneseamericanhistory-org/ourjourneys27-eng|Our Journeys 27]]).
 - Taiwanese Evergreen Academy of Northern California 北加州臺灣長青學院 ([[works/taiwaneseamericanhistory-org/annual-books-of-taiwanese-evergreen-academy-of-northern-california|yearbook]]).
+- San Diego Formosan Evergreen Association 聖地牙哥台灣長青會 ([[works/taiwaneseamericanhistory-org/seniororg6|TAH #6]]) and the Good Neighbor Club 好厝邊長青會 ([[works/taiwaneseamericanhistory-org/enewsletters-good-neighbor-club|e-newsletter]]) — same 長青 senior-education genre, different bodies (re-grep 2026-09-16).
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/evergreen-class-by-irvine-taiwanese-presbyterian-church-laguna-hills-ca/)

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-15
+last_reviewed: 2026-09-16
 ---
 # Pei-Ning Ku (顧蓓寧)
 
@@ -63,3 +63,5 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+## Corpus check（2026-09-16, slice 09160109-14）
+- 語料庫六檢：命中僅本人記錄（#202 誤配頁、#114）及 works/index 目錄行，與前五次一致，回憶錄無他人記述。維持 SKIP-with-reason。

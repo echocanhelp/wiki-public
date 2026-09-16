@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-15
+last_reviewed: 2026-09-16
 ---
 # Hui-Ting Yang (楊惠婷)
 
@@ -67,3 +67,5 @@ _No filled family fields on the TAH profile._
 
 ## Deepen pass (2026-09-15, slice 09150700-15)
 - SKIP-with-reason：命中集不變——本人 TAH #692／#315 書目記錄與 works/index，無回憶錄素材可吸收。
+## Deepen pass (2026-09-16, slice 09160109-14)
+- SKIP-with-reason：命中集不變——本人 TAH #692／#315 書目記錄與 works/index 目錄列項，回憶錄語料無他人記述可吸收。
