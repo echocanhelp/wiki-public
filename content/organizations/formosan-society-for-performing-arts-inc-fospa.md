@@ -21,6 +21,7 @@ The Formosan Society for Performing Arts Inc. (FOSPA) is a nonprofit, non-religi
 ## Role in the Community
 - Directory record preserved in the vault as community historical record: [[works/taiwaneseamericanhistory-org/formosan-society-for-performing-arts-inc-fospa|FOSPA directory entry, TAH, 2017-07-19]].
 - The NYFC performance at Lincoln Center's Alice Tully Hall for the Glory Star celebration is catalogued separately as [[works/taiwaneseamericanhistory-org/concerts126|126. 全球榮星樂展 by 福爾摩沙表演藝術協會, New York, NY on 07/11/2009]].
+- **2016-07-16** — FOSPA's New York Formosa Chorus celebrated its 10th anniversary with the "CIRCLE OF LIFE 聲聲不息" concert in Flushing, NY, recorded in the corpus as [[works/taiwaneseamericanhistory-org/concerts55|55. CIRCLE OF LIFE 聲聲不息(紐約福爾摩沙合唱團歡慶十週年音樂會)]] — corroborating the 2006 founding date and the chorus's decade of activity in the New York Taiwanese American community.
 - The broader West-coast performing-arts network that FOSPA's model (chorus + youth performance opportunities) belongs to is documented in [[articles/taiwanjustice-net/2025/20251013100452_洛杉磯台灣書院攜手台中歌劇院-參與美西表藝年會_227b9ef848bac280|洛杉磯台灣書院攜手台中歌劇院 參與美西表藝年會]] (2025, taiwanjustice.net) — no direct FOSPA mention in that article, so it is context only.
 
 ## Sources
