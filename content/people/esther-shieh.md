@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-15
+last_reviewed: 2026-09-16
 ---
 # Esther Shieh (謝逸詩)
 
@@ -65,3 +65,4 @@ _No filled family fields on the TAH profile._
 - SKIP 四度確認（slice 09150500-25, 2026-09-15）：語料庫檢索命中集不變（僅本人書目頁 #250、#510），無新材料。
 - SKIP 五度確認（slice 09150600-17, 2026-09-15）：語料庫檢索命中集不變（僅本人書目頁 #250、#510 及 works/index），無新材料。
 - SKIP 六度確認（slice 09150700-13, 2026-09-15）：語料庫檢索命中集不變（僅本人書目頁 #250、#510），維持 SKIP-with-reason。
+- SKIP 七度確認（slice 09160109-11, 2026-09-16）：語料庫檢索命中集不變（僅本人書目頁 #250、#510），維持 SKIP-with-reason。

@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-15
+last_reviewed: 2026-09-16
 ---
 # North American Taiwan Studies Association NATSA (北美臺灣研究學會)
 
@@ -21,6 +21,7 @@ The North American Taiwan Studies Association (NATSA) is a US-based 501(c)(3) no
 ## Timeline (corpus-linked, deepen-x 2026-09-14)
 - c. 1994 — founded, implied by the 20th anniversary conference in 2014 (see CFP below).
 - 2011-06-17 — annual conference in Pittsburgh announced in the community press: [[works/taiwaneseamerican-org/north-american-taiwan-studies-association-annual-conference-in-pittsburgh||NATSA Pittsburgh conference record]] — evidence the annual-conference tradition was already running 13+ years before the 20th anniversary.
+- 2012 — the **18th** annual North American Taiwan Studies Conference is recorded in the community press: [[works/taiwaneseamerican-org/the-18th-annual-north-american-taiwan-studies-conference||18th annual NATSA conference record]] (2012-06-09) — an independent count that pins the first conference to c. 1994/95, corroborating the c. 1994 founding implied by the 2014 20th-anniversary CFP.
 - 2013-01-04 — call for papers for the annual conference: [[works/taiwaneseamerican-org/call-for-papers-for-north-american-taiwan-studies-association-annual-conference||NATSA CFP 2013 record]].
 - 2014-01-10 — call for papers for the 20th anniversary conference (already linked below).
 - 2014-10-12 — profiled in the TAH Foundation directory (already linked below).
