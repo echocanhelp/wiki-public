@@ -61,3 +61,4 @@ _No filled family fields on the TAH profile._
 - SKIP-with-reason (slice 09160400-6, 2026-09-16): grep re-run returns the identical hit set (#69/#106/#233/#266、TAH #23/#33), all absorbed; 黑名單學歷衝突 HOLD 維持；同名異人備註維持。無新事實可吸收。
 - SKIP-with-reason (09160109-9, 2026-09-16): grep re-run returns the identical hit set (#69/#106/#233/#266、TAH #23/#33/#270), all absorbed; 黑名單學歷衝突 HOLD 維持; 同名異人備註維持。無新事實可吸收。
 - SKIP-with-reason: grep re-run (works/articles; 李文雄 / Wen-Hsiung Li) returns the identical hit set (#69/#106/#233/#266、TAH #23/#33/#270), all facts already absorbed in Role in the Community; 黑名單學歷衝突 HOLD 維持。無新事實可吸收。
+- SKIP-with-reason (slice 09160500-5, 2026-09-16): grep re-run (李文雄／Wen-Hsiung Li) returns the identical hit set (#69/#106/#233/#266、TAH #23/#33 + own #270), all absorbed; 黑名單學歷衝突 HOLD 與同名異人備註維持。無新事實可吸收。

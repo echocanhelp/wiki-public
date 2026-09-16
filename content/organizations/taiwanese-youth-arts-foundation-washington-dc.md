@@ -32,6 +32,8 @@ Re-grepped 華府台灣人青少年/青年才藝基金會 / Taiwanese Youth Arts
 
 Re-grep 2026-09-16 (slice 09160400-15): hit set unchanged (#20 directory record, award records #42/#43, works index; the taiwanjustice 2024-04-25 article hit remains an archive-digest-hash false positive). No new community narrative; SKIP-no-new-material; 青年/青少年 spelling HOLD stands.
 
+Re-grep 2026-09-16 (slice 09160500-11): hit set unchanged (#20 directory record, award records #42/#43, works index; taiwanjustice 2024-04-25 hit again a digest-hash false positive — "TYAF" occurs only inside an archive hash string). No memoir/community material beyond the directory description; SKIP-no-new-material; 青年/青少年 spelling HOLD stands.
+
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-youth-arts-foundation-washington-dc/)
 

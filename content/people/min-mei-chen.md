@@ -47,6 +47,7 @@ Accomplishment
 - Portrait by peer: Ken Lee's essay [[works/taiwaneseamericanhistory-org/ourjourneys264|264 / Ken Lee / 2016-11]] recalls her (綽號「皇后」) as a writer who, after surviving breast cancer some four–five years earlier, turned to chronicling suffering and cautionary experience "以蒼生為念" — crediting her with essays 劫後重生、防人之心不可無、小心一世，大意一時、猝不及防的禍患 (titles not separately filed in the vault; noted as reported).
 - Her papers/archive: [[works/taiwaneseamericanhistory-org/collection-of-mrs-min-mei-chen|47. Collection of Mrs. Min-mei Chen 吳明美女士的收藏 / 2017-10]]; a second memorial notice exists as [[works/taiwaneseamericanhistory-org/138-min-mei-wu-chen|138. In Memory of Mrs. Min-Mei Wu Chen 懷念吳明美女士]].
 - 複核（deepen-x slice 28, 2026-09-16）：full corpus re-grep (no head-truncation) surfaced the band-A cruise memoir, five further essay pages, the collection record #47, a second memorial #138, and the Ken Lee portrait — all absorbed above.
+- SKIP-with-reason (slice 09160500-5, 2026-09-16): grep re-run (吳明美／Min-Mei Chen, untruncated) returns the identical 17-file hit set; every hit is either already wikilinked above or is her own catalogue record (#199/#268, in Sources). No new absorbable community facts; page remains fully deepened.
 
 ## Sources
 - [TAH #141 encyclopedia: 141. In Memory of Mrs. Min-Mei Wu Chen 吳明美 生命的禮讚](https://taiwaneseamericanhistory.org/photo-albums-activities-141/)

@@ -57,3 +57,4 @@ Accomplishment
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - Corpus re-grep 2026-09-16 (slice -12): hit set unchanged; content-level grep of Our Journeys 26 (+EN) confirms no detail beyond the bullets already absorbed above. Ching-ling vs Ching-liang HOLD stands.
+- Corpus re-grep 2026-09-16 (slice 09160500-10): hit set unchanged — [[works/taiwaneseamericanhistory-org/ourjourneys26|Our Journeys 26]] (+EN), own records [[works/taiwaneseamericanhistory-org/32-dr-ching-liang-chris-fan|#32]] / [[works/taiwaneseamericanhistory-org/whos-who-880-chris-fan|#880]], and 「黃金白兔」. Content-level context matches the Role in the Community bullets already absorbed (recruitment by 陳秋山, first salaried Center director, 賴淑卿/鄭德昌 board joining, newsletter editor Tsung-han Yang / art director Ying-li Liu, permanent-Center push); nothing new, Ching-ling vs Ching-liang HOLD stands.
