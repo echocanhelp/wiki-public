@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-15
+last_reviewed: 2026-09-16
 ---
 # Prof. Shih-I Chu (朱時宜教授)
 
@@ -65,3 +65,4 @@ _No filled family fields on the TAH profile._
 - Corpus grep re-check (2026-09-15, deepen-x slice 09150500-23): same result — only [[works/taiwaneseamericanhistory-org/whos-who-1858-shih-i-chu|TAH #1858]]. SKIP (no new facts).
 - Corpus grep re-check (2026-09-15, deepen-x slice 09150600-12): same result — only own bibliographic page + works index across content/works + content/articles. SKIP (no new facts).
 - Corpus grep re-check (2026-09-15, deepen-x slice 09150700-8): same result after excluding own bibliographic page — zero memoir/community hits. SKIP (no new facts).
+- Corpus grep re-check (2026-09-16, deepen-x slice 09160109-6): same result — grep (朱時宜 / Shih-I Chu, works+articles) matches only [[works/taiwaneseamericanhistory-org/whos-who-1858-shih-i-chu|TAH #1858]] and the works index. SKIP (no new facts).

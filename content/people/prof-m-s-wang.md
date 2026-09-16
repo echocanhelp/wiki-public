@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-15
+last_reviewed: 2026-09-16
 ---
 # Prof. M. S. Wang (王孟心教授)
 
@@ -54,6 +54,7 @@ _No filled family fields on the TAH profile._
 - **Corpus check 2026-09-15 (SKIP, slice 09150500-26):** re-grep (王孟心 / M. S. Wang) matches only [[works/taiwaneseamericanhistory-org/whos-who-1902-m-s-wang|TAH #1902]] and `works/index.md` — hit set unchanged, nothing absorbable.
 - **Corpus check 2026-09-15 (SKIP, slice 09150600-16):** re-grep (王孟心 / M. S. Wang) matches only [[works/taiwaneseamericanhistory-org/whos-who-1902-m-s-wang|TAH #1902]] and `works/index.md` — hit set unchanged across five passes, nothing absorbable.
 - **Corpus check 2026-09-15 (SKIP, slice 09150700-10):** re-grep (王孟心 / M. S. Wang) matches only [[works/taiwaneseamericanhistory-org/whos-who-1902-m-s-wang|TAH #1902]] and `works/index.md` — sixth consecutive pass, no memoir mentions, nothing absorbable.
+- **Corpus check 2026-09-16 (SKIP, slice 09160109-6):** re-grep (王孟心 / M. S. Wang) matches only [[works/taiwaneseamericanhistory-org/whos-who-1902-m-s-wang|TAH #1902]] and `works/index.md` — seventh consecutive pass, hit set unchanged, nothing absorbable.
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
