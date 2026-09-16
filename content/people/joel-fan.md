@@ -71,3 +71,4 @@ _No filled family fields on the TAH profile._
 - SKIP-with-reason（slice 09150700-7, 2026-09-15）：語料庫第五次復核，命中集不變（范景德／Joel Fan 僅 #290／#574 與 index），維持 SKIP。
 - SKIP-with-reason（slice 09160109-5, 2026-09-16）：語料庫第六次復核，命中集不變（僅本人書目紀錄 #290／#574 與 works index），回憶錄無社群事實可吸收，維持 SKIP。
 - SKIP-with-reason（slice 09160316-3, 2026-09-16）：語料庫第七次復核，命中集不變（范景德／Joel Fan 僅 #290／#574 書目紀錄），維持 SKIP。
+- SKIP-with-reason（slice 09160400-2, 2026-09-16）：語料庫第八次復核，命中集不變（范景德／Joel Fan 僅 [[works/taiwaneseamericanhistory-org/290-e8-8c-83-e6-99-af-e5-be-b7-joel-fan-pianist-201509|#290]]／[[works/taiwaneseamericanhistory-org/574-joel-fan-e8-8c-83-e6-99-af-e5-be-b7-pianist-201509|#574]] 書目紀錄），回憶錄無社群事實可吸收，維持 SKIP。

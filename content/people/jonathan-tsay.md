@@ -79,3 +79,5 @@ Re-check (deepen-x slice 09150700-6, 2026-09-15): fifth corpus grep re-run — h
 Re-check (deepen-x slice 09160109-4, 2026-09-16): sixth corpus grep re-run — hit set unchanged (#375 / #1413 + works index). No memoir material; SKIP stands.
 
 Re-check (deepen-x slice 09160316-2, 2026-09-16): seventh corpus grep re-run — hit set unchanged (#375 / #1413 + works index). No memoir material; SKIP stands.
+
+Re-check (deepen-x slice 09160400-2, 2026-09-16): eighth corpus grep re-run — hit set unchanged (own catalogue records [[works/taiwaneseamericanhistory-org/musician375|#375]] / [[works/taiwaneseamericanhistory-org/whoswho1413|#1413]] only). No memoir material; SKIP stands.

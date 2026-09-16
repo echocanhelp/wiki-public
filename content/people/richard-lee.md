@@ -63,3 +63,5 @@ last_reviewed: 2026-09-16
 **SKIP 2026-09-16 (slice 09160109-19):** re-grep again returned the identical 6-file hit set — nothing new absorbable.
 
 **2026-09-16 (slice 09160316-17):** re-grep 李正三/Cheng-San across works+articles surfaced two previously unlinked records — 721. 西遷記 (my-stories-721) and 紀念228在紐約 (台美人顧台灣 #14) — absorbed into Role in the Community above.
+
+**SKIP 2026-09-16 (slice 09160400-10):** re-grep returned the identical 6-file hit set (private-collections-91, buiness4, 45-richard-lee, ourjourneys12, publications21, 98-mr-cheng-san-lee) — all already absorbed above; nothing new absorbable.
