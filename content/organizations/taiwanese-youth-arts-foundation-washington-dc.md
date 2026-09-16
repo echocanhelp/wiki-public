@@ -36,6 +36,8 @@ Re-grep 2026-09-16 (slice 09160500-11): hit set unchanged (#20 directory record,
 
 Re-grep 2026-09-16 (slice 09160600-7): hit set unchanged (#20 directory record, award records #42/#43, works index; taiwanjustice 2024-04-25 digest-hash false positive). SKIP-no-new-material; 青年/青少年 spelling HOLD stands.
 
+Re-grep 2026-09-16 (slice 09160700-4): hit set unchanged (#20 directory record, award records #42/#43, works index; taiwanjustice 2024-04-25 hit again a digest-hash false positive — "TYAF" occurs only inside an archive digest string). No new community narrative beyond the directory description; SKIP-no-new-material; 青年/青少年 spelling HOLD stands.
+
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-youth-arts-foundation-washington-dc/)
 

@@ -57,5 +57,5 @@ _No filled family fields on the TAH profile._
 ## Corpus re-grep (deepen-x slice 09160500-17)
 - 2026-09-16: hit set unchanged -- own already-linked TAH records + works/index catalog rows only. No new community/corpus facts absorbable. SKIP-with-reason; no conflicts to HOLD.
 
-## Corpus re-grep (deepen-x slice 09160600-12)
-- 2026-09-16: hit set unchanged — own already-linked TAH records + works/index catalog rows only. No new community/corpus facts absorbable. SKIP-with-reason; no conflicts to HOLD; last_reviewed already 2026-09-16.
+## Corpus re-grep (deepen-x slices 09160600-12, 09160700-8)
+- 2026-09-16: hit set unchanged — own already-linked TAH records (ourjourneys157、publications144、ff312、whos1450) + works/index catalog rows only; the 王淑芬 announcement passage in ourjourneys157 is already absorbed above. No new community/corpus facts absorbable. SKIP-with-reason; no conflicts to HOLD; last_reviewed already 2026-09-16.

@@ -60,5 +60,5 @@ Accomplishment
 ## Corpus re-grep (deepen-x slice 09160500-17)
 - 2026-09-16: hit set unchanged -- own already-linked TAH records + works/index catalog rows only. No new community/corpus facts absorbable. SKIP-with-reason; no conflicts to HOLD.
 
-## Corpus re-grep (deepen-x slice 09160600-12)
-- 2026-09-16: hit set unchanged — own already-linked TAH records + works/index catalog rows only. No new community/corpus facts absorbable. SKIP-with-reason; no conflicts to HOLD; last_reviewed already 2026-09-16.
+## Corpus re-grep (deepen-x slices 09160600-12, 09160700-8)
+- 2026-09-16: hit set unchanged — own already-linked TAH records (#118、#196、#228、#32) + the HOLD-flagged name-collision #1892 (洪德生, different person) + works/index catalog rows only. No new community/corpus facts absorbable. SKIP-with-reason; HOLD (David Hong name collision) still stands; last_reviewed already 2026-09-16.

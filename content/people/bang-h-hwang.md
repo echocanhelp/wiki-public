@@ -48,6 +48,7 @@ Assistant Professor of Anatomy
 - Corpus re-check 2026-09-16 (deepen-x slice 09160400-19): hit set again identical (#834、our-journeys-389、taiwanjustice-net「黃邦雄醫師」檔案). SKIP — 無新可吸收事實；HOLD 不變。
 - Corpus re-check 2026-09-16 (deepen-x slice 09160500-15): re-grep hit set unchanged (own #834、our-journeys-389 印城同鄉會 memoir、taiwanjustice-net「黃邦雄醫師」articles、works/index) — all already cited above. SKIP — 無新可吸收事實；name-collision HOLD 不變。
 - Corpus re-check 2026-09-16 (deepen-x slice 09160600-10): re-grep hit set unchanged (own #834、our-journeys-389 歷任會長名錄 黃邦雄 1992–1993 已載、taiwanjustice-net「黃邦雄醫師」articles、works/index). SKIP — 無新可吸收事實；name-collision HOLD 不變。
+- Corpus re-check 2026-09-16 (deepen-x slice 09160700-6): re-grep hit set unchanged (own #834、our-journeys-389 歷任會長名錄＋FAPA 印州遊說群組名單 黃邦雄 已載、taiwanjustice-net「黃邦雄醫師」2021 醫療講座影片剪輯／HPV 講題記錄、works/index). SKIP — 無新可吸收事實；name-collision HOLD 不變。
 
 ## Family
 
