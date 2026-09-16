@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-15
+last_reviewed: 2026-09-16
 ---
 # Dr. S. F. Sheuh (薛信夫博士)
 

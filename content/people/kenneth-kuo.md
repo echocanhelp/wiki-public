@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-14
+last_reviewed: 2026-09-16
 ---
 # Kenneth Kuo (郭虔哲)
 
