@@ -52,9 +52,5 @@ _No filled family fields on the TAH profile._
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
-## Corpus re-grep (2026-09-15)
-Re-grepped 邱詩涵 / Shih-han (Erika) Chiu across content/works + content/articles: the only hits are her own TAH 百科 records — [[works/taiwaneseamericanhistory-org/245-shih-han-erika-chiu-e9-82-b1-e8-a9-a9-e6-b6-b5-basson-201507|TAH #245, Bassoon, 2015-07-18 · band B]] and [[works/taiwaneseamericanhistory-org/502-shih-han-erika-chiu-e9-82-b1-e8-a9-a9-e6-b6-b5-201507|TAH #502, 2015-07-18 · band B]] — both already linked under Vault Holdings, plus the works index. Her page line ties her to 台美史料中心 (T.A. Archives) but no archive-held material for her exists in the corpus yet. Nothing absorbable, no conflicts. SKIP-no-new-material.
-
-## Corpus re-grep (deepen-x slice 09160109-20)
-- 2026-09-16 複核：以 Shih-han (Erika) Chiu／邱詩涵 重搜 content/works + content/articles，命中集不變——僅本人 TAH 書目頁 [[works/taiwaneseamericanhistory-org/245-shih-han-erika-chiu-e9-82-b1-e8-a9-a9-e6-b6-b5-basson-201507|#245]]／[[works/taiwaneseamericanhistory-org/502-shih-han-erika-chiu-e9-82-b1-e8-a9-a9-e6-b6-b5-201507|#502]]（band B，已在 Vault Holdings 連結）與 works/index 彙整行，無回憶錄／社群事蹟材料可吸收。SKIP-with-reason；無衝突需 HOLD。
-- 2026-09-16 (slice 09160316-17) 再次複核：命中集仍不變（#245／#502＋index），維持 SKIP-with-reason。
+## Corpus re-grep log
+- 每輪以 邱詩涵 / Shih-han (Erika) Chiu 重搜 content/works + content/articles（2026-09-15；slices 09160109-20、09160316-17、09160400-18）：命中集不變——僅本人 TAH 書目頁 [[works/taiwaneseamericanhistory-org/245-shih-han-erika-chiu-e9-82-b1-e8-a9-a9-e6-b6-b5-basson-201507|TAH #245, Bassoon · band B]]／[[works/taiwaneseamericanhistory-org/502-shih-han-erika-chiu-e9-82-b1-e8-a9-a9-e6-b6-b5-201507|TAH #502 · band B]]（皆已列於 Vault Holdings）與 works/index 彙整行。頁面首行雖提及台美史料中心（T.A. Archives），但本庫尚無其檔案材料，無回憶錄／社群事蹟可吸收，亦無衝突需 HOLD。SKIP-with-reason。
