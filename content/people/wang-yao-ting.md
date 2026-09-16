@@ -9,7 +9,7 @@ tags:
   - tahs-leadership
   - founding-member
 verification_status: pending
-last_reviewed: 2026-09-15
+last_reviewed: 2026-09-16
 ---
 # Wang Yao-ting (王耀廷)
 
@@ -53,6 +53,7 @@ Pages that link to **wang-yao-ting** (wang-yao-ting):
 - 語料庫再檢（2026-09-15）：命中僅 #1133 自身條目及 works/index 目錄行（相鄰條目王燕山為另一人，勿混淆）。無新增可吸收語料。
 - 語料庫再檢 slice 22（2026-09-15）：命中集合不變（#1133 + works/index）。維持 SKIP，無衝突需 HOLD。
 - 語料庫再檢 slice 19（2026-09-15）：命中集合不變（#1133 + works/index）。無新增可吸收語料，無衝突需 HOLD。
+- 語料庫再檢 slice 16（2026-09-16）：命中集合不變（#1133 + works/index；相鄰 #1132 王燕山、#1134 林健華為另一人，勿混淆）。#1133 為書目紀錄（全文存 TAH 原廠），無可吸收語料，維持 SKIP，無衝突需 HOLD。
 
 ## Source Notes and Confidence
 

@@ -57,5 +57,5 @@ _No filled family fields on the TAH profile._
 ## Deepen pass (2026-09-15)
 - SKIP-with-reason：語料庫 grep（Emily Muramoto／蔡蕙宇）僅命中本頁自身出處頁 #331 與 works/index 目錄行，無任何社群／回憶錄材料可吸收； TAH #331 記錄已全數吸收，僅更新複核日期。
 
-## Corpus re-grep (deepen-x slice 09150700-25)
-- 以英文名與漢名重搜 content/works + content/articles：命中僅本人/本會之 TAH 書目頁（band B）與 works/index 彙整行，無回憶錄或社群事蹟材料可吸收。SKIP-with-reason；複核日期維持當日。
+## Corpus re-grep (deepen-x slice 09160109-20)
+- 2026-09-16 複核：以 Emily Muramoto／蔡蕙宇 重搜 content/works + content/articles，命中僅本人 TAH 書目頁 [[works/taiwaneseamericanhistory-org/331-emily-muramoto-vocalist-201602|#331]]（band B，已吸收）與 works/index 彙整行，無回憶錄／社群事蹟材料可吸收。SKIP-with-reason；無衝突需 HOLD。

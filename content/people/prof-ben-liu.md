@@ -38,6 +38,7 @@ Accomplishment
 **Movement service record.** The TAH directory records him as Chairman (理事長) of 美東台灣人夏令會 (Taiwanese American Conference East Coast, 2010) and President (2008–2009) of 北美洲台灣人教授協會總會 (NAPeA). His own encyclopedia records are archived at [[works/taiwaneseamericanhistory-org/whos-who-736-ben-liu|TAH #736 (2015-12-13)]] and [[works/taiwaneseamericanhistory-org/ota-288|TAH #288 (2019-05-20)]].
 
 - Corpus re-grep 2026-09-15 (slice -20): 劉斌碩 / Ben Liu hits in content/works + content/articles are his own TAH 百科 records (#736, #288), the works index, and the 2019 挺港 joint statement [[articles/taiwanjustice-net/2024/20240221122756_root_53455d7e13136092|海外台灣人社團聯合聲明]] — all already absorbed above. No new memoir material; no conflicts to HOLD.
+- Corpus re-grep 2026-09-16 (slice -20): hit set unchanged — own TAH 百科 records #736/#288 (band B), works index, and the same 2019 挺港 joint statement, where the byline lists him as 「陳文成教授紀念基金會 會長劉斌碩 教授」（英文署名 President, Professor Chen Wen-Chen's Memorial Foundation）— consistent with the Role in the Community section above, nothing new to absorb. No conflicts to HOLD.
 
 ## Family
 
