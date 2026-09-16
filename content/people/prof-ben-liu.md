@@ -40,6 +40,7 @@ Accomplishment
 - Corpus re-grep 2026-09-15 (slice -20): 劉斌碩 / Ben Liu hits in content/works + content/articles are his own TAH 百科 records (#736, #288), the works index, and the 2019 挺港 joint statement [[articles/taiwanjustice-net/2024/20240221122756_root_53455d7e13136092|海外台灣人社團聯合聲明]] — all already absorbed above. No new memoir material; no conflicts to HOLD.
 - Corpus re-grep 2026-09-16 (slice -20): hit set unchanged — own TAH 百科 records #736/#288 (band B), works index, and the same 2019 挺港 joint statement, where the byline lists him as 「陳文成教授紀念基金會 會長劉斌碩 教授」（英文署名 President, Professor Chen Wen-Chen's Memorial Foundation）— consistent with the Role in the Community section above, nothing new to absorb. No conflicts to HOLD.
 - Corpus re-grep 2026-09-16 (slice -14): hit set unchanged — own records [[works/taiwaneseamericanhistory-org/whos-who-736-ben-liu|#736]] / [[works/taiwaneseamericanhistory-org/ota-288|#288]], works index, and the 2019 joint statement [[articles/taiwanjustice-net/2024/20240221122756_root_53455d7e13136092|聯合聲明]]. All already absorbed; nothing new, no conflicts to HOLD.
+- Corpus re-grep 2026-09-16 (slice 09160400-11): hit set unchanged — own records #736/#288, works index, and the same 2019 挺港 joint statement. All facts already absorbed in Role in the Community above; nothing new, no conflicts to HOLD.
 
 ## Family
 

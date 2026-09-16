@@ -29,6 +29,16 @@ The Evergreen Class is documented across the TAH corpus as one of the most durab
 
 The 10th anniversary (2019) and the founding note (since September 2009) are consistent with the page's session-count claim of 200+ sessions.
 
+### Founding profile & operations (absorbed from corpus, slice 09160400-9)
+
+The A-band program introduction and three-year retrospective in [[works/taiwaneseamericanhistory-org/ourjourneys107|TAH #107: 長青教室 sponsored by Irvine台灣長老教會(ITPC), 2015/02]] (with the companion bibliographic record [[works/taiwaneseamericanhistory-org/evergreen-class-irvine-taiwanese-presbyterian-church|TAH #13: Evergreen Class, 2015/07/27]]) document:
+
+- **Mission & venue:** a community-service, free program for retired Taiwanese Americans in and near Laguna Woods Village, held in the second-floor Saddleback Room of Geneva Church, 24301 El Toro Rd, Laguna Hills, CA 92637 (corner of Calle Sonora).
+- **Growth:** launched September 2009; 124 sessions with average attendance ~90 by the 3-year retrospective (12/19/2012); 200 sessions with nearly 100 per session by the program introduction (12/30/2013).
+- **Curriculum:** six categories — health & medicine (32 sessions alone, e.g. dental care by 蔡宗一, implants by 洪錦鈺, hypertension by 蔡明康, colorectal cancer by 許明雄), humanities & technology, religion, arts & lifestyle, Taiwan, and travel — taught in Taiwanese by local doctors, professors, and scholars.
+- **Dissemination:** session recordings on YouTube and written transcripts posted at the church site (irvinetpc.org); transcripts frequently reprinted in the Pacific Times Journal (太平洋時報). Speakers receive a small honorarium.
+- **Named contacts (2012–2013):** 歐孟軒 Ken Ao and Rev. 張宣信 Billy Chang.
+
 ### Disambiguation (corpus re-grep 2026-09-15)
 Other "Evergreen/長青" hits in the TAH corpus are **distinct organizations**, not this class, and must not be merged into it:
 - Houston Formosan Evergreen Association 休士頓台灣長春會 ([[works/taiwaneseamericanhistory-org/2-houston-formosan-evergreen-association|TAH #2]]); its Shou-chang Ou appears on the 1992 Taiwan Community Center-Houston management committee ([[works/taiwaneseamericanhistory-org/ourjourneys233-eng|Our Journeys 233]]).
