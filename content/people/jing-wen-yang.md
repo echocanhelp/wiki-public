@@ -31,6 +31,7 @@ last_reviewed: 2026-09-16
 - HOLD: TAH profile era listed as 1924 vs Who's Who card 364 dated 2015-04 — birth-year field unverified, left as-is.
 - Corpus re-grep 2026-09-16 (slice 09160316-24): hits are only own TAH #364 record, the three wikilinked literary works (#148/#114/#113), the already-absorbed Our Journeys #296 緣起, and the works index. No new community facts; no conflicts. SKIP this pass.
 - Corpus re-grep 2026-09-16 (slice 09160400-22): hit set unchanged (#364, #148/#114/#113, Our Journeys #296, index). Nothing absorbable; no conflicts. SKIP.
+- Corpus re-grep 2026-09-16 (slice 09160500-20): hit set unchanged (#364, #148/#114/#113, Our Journeys #296, index). Nothing absorbable; no conflicts. SKIP.
 
 ## Family
 
