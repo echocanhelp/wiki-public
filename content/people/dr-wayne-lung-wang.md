@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-15
+last_reviewed: 2026-09-16
 ---
 # Dr. Wayne Lung Wang (王文隆博士)
 
@@ -35,7 +35,7 @@ last_reviewed: 2026-09-15
 ## Role in the Community
 The corpus shows Wang as both a community leader and a TAH philosophy essayist:
 - Chicago community leadership: the Chicago Taiwanese Association history [[works/taiwaneseamericanhistory-org/our-journeys-378|378. 芝加哥台灣同鄉會50年的歳月 (10/2021)]] lists 王文隆 among the association's presidents, for **1988** (between 林錦弘 1986 and 李義雄 1989) — he led the Chicago Taiwanese community while working at Argonne National Lab and Bell Labs.
-- Philosophy writer for the TA Archives My Stories/Publications corpus: [[works/taiwaneseamericanhistory-org/publications290|290. The Logic of Tao Philosophy (04/2013)]], [[works/taiwaneseamericanhistory-org/publications291|291. Tao Te Ching: An Ultimate Translation (04/2013)]], [[works/taiwaneseamericanhistory-org/publications1143|1143. 老子哲學的真義 (08/2017)]], and [[works/taiwaneseamericanhistory-org/publications1144|1144. 《道德經》簡易白話解義 (08/2017)]] — the engineer-artist dual role on his TAH profile is corroborated by this body of Tao/philosophy work.
+- Philosophy writer for the TA Archives My Stories/Publications corpus: [[works/taiwaneseamericanhistory-org/publications290|290. The Logic of Tao Philosophy (04/2013)]], [[works/taiwaneseamericanhistory-org/publications291|291. Tao Te Ching: An Ultimate Translation (04/2013)]], [[works/taiwaneseamericanhistory-org/publications1143|1143. 老子哲學的真義 (08/2017)]], [[works/taiwaneseamericanhistory-org/publications1144|1144. 《道德經》簡易白話解義 (08/2017)]], and the 2019 English sequels [[works/taiwaneseamericanhistory-org/publication1277|1277. Beyond the Mystery of Tao (2019)]] and [[works/taiwaneseamericanhistory-org/publication1278|1278. The True Meaning of Perennial Tao Philosophy (2019)]] — the engineer-artist dual role on his TAH profile is corroborated by this body of Tao/philosophy work.
 - Own TAH entry: [[works/taiwaneseamericanhistory-org/whos-who-1-wayne-lung-wang|TAH #1 Dr. Wayne Lung Wang 王文隆博士]].
 - Artist-side collaboration and stage work: with painter 蔡烈輝 he co-authored the political-artwork piece [[works/taiwaneseamericanhistory-org/footsteps-15|15. UN for Taiwan 台灣加入聯合國 (2014)]], and the Chicago cultural memoir [[works/taiwaneseamericanhistory-org/ourjourneys167|167. 咱的鄉土，咱的歌—芝城台灣文化促進會公演記實 (2015-08)]] credits him as 佈景設計 (set designer) for the association's landmark stage production. His own memoir [[works/taiwaneseamericanhistory-org/mystories628|628. 回鄉的經驗 (2018-02)]] is also in the corpus, and 黃根深's [[works/taiwaneseamericanhistory-org/ourjourneys256|256. 寫在畫展之前 (2016-10)]] carries a corroborating artist note: 1944年生，宜蘭人.
 - HOLD: the TAH profile's era "1944" vs. a 1959–1964 Taipei Institute of Tech diploma (age ~15 at entry) — plausible but not independently confirmed; no auto-merge.

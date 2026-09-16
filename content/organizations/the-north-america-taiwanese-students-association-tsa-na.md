@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-15
+last_reviewed: 2026-09-16
 ---
 # The North America Taiwanese Students’ Association TSA-NA (北美台灣學生協會)
 
@@ -38,3 +38,4 @@ The North America Taiwanese Students’ Association (TSA-NA) is a non-profit org
 - 再核（deepen-x slice-28，2026-09-15）：語料庫 grep 命中集不變（僅本條目存檔頁 + works/index），維持 SKIP-with-reason。
 - 再核（deepen-x slice-18，2026-09-15）：語料庫 grep（TSA-NA／北美台灣學生協會／North America Taiwanese Students）命中集不變（僅本條目存檔頁 + works/index），維持 SKIP-with-reason。
 - 再核（deepen-x slice 09150700-13，2026-09-15）：grep 命中集不變（僅本條目存檔頁 + works/index），維持 SKIP-with-reason。
+- Recheck (deepen-x slice 09160109-12, 2026-09-16): grep hit-set unchanged (own archive page + works/index only); SKIP-with-reason stands.

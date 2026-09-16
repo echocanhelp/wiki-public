@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-15
+last_reviewed: 2026-09-16
 ---
 # Chin-Yi Lee (李琹怡)
 
@@ -67,3 +67,4 @@ _No filled family fields on the TAH profile._
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - [[sources/taiwaneseamericanhistory-org-story-corpus||TAH story corpus hub]]
 - deepen-x 09150700-6（2026-09-15 五次覆核）：grep（李琹怡／Chin-Yi Lee，works+articles）命中集合不變（#25、#1092、works index），無可吸收社群材料 — 維持 **SKIP**。
+- deepen-x 09160109-4（2026-09-16 六次覆核）：命中集合不變（#25、#1092、works index），無可吸收社群材料 — 維持 **SKIP**。

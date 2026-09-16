@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-15
+last_reviewed: 2026-09-16
 ---
 # Dr. Tzu-Hsing April Kuo (郭姿杏博士)
 
@@ -56,3 +56,4 @@ _No filled family fields on the TAH profile._
 - **SKIP 2026-09-15 (slice 09150500-27):** fourth corpus re-grep (郭姿杏 / Tzu-Hsing / April Kuo) returned the same hit set — own directory record + works index only; nothing further absorbable.
 - **SKIP 2026-09-15 (slice 09150600-18):** fifth corpus re-grep (郭姿杏 / Tzu-Hsing / April Kuo) returned the same hit set — own TAH #1908 directory record + works index only; no memoir mentions; nothing further absorbable.
 - **SKIP 2026-09-15 (slice 09150700-12):** sixth corpus re-grep (郭姿杏 / Tzu-Hsing / April Kuo) returned the same hit set — own TAH #1908 directory record + works index only; no memoir mentions; nothing further absorbable.
+- SKIP 確認（slice 09160109-8, 2026-09-16）：復檢 works/ + articles/，命中僅自有 TAH 書目頁與 index 列項，無回憶錄/社群第一手材料可吸收；無新增連結。
