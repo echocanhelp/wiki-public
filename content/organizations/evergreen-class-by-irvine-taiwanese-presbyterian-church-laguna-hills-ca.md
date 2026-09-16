@@ -25,6 +25,7 @@ The Evergreen Class is documented across the TAH corpus as one of the most durab
 - Its founding profile is recorded in [[works/taiwaneseamericanhistory-org/5-evergreen-by-irvine-taiwanese-presbyterian-church|TAH #5: 長青教室 by Irvine Taiwanese Presbyterian Church]].
 - The class marked its **10th anniversary on 11/27/2019** in Laguna Woods, recorded in [[works/taiwaneseamericanhistory-org/22-10th-anniversary-of-evergreen-class-e9-95-b7-e9-9d-92-e6-95-99-e5-ae-a4-by-ir|TAH #22: 10th Anniversary of Evergreen Class]] and the same-day closing ceremony footage [[works/taiwaneseamericanhistory-org/videos-154|長青教室秋季班結業式 11/27/2019]].
 - The program maintains its own publication, the ITPC Evergreen newsletter ([[works/taiwaneseamericanhistory-org/newsletter-of-evergreen-itpc|Newsletter of Evergreen, ITPC]]), and activity photo albums such as [[works/taiwaneseamericanhistory-org/photo-albums-activities-62|TAH #62: 長青教室 activity album, 2015/03]].
+- Class sessions were filmed as a regular practice: the corpus also holds [[works/taiwaneseamericanhistory-org/videos84|TAH #84: 長青教室秋季班錄影 2017]], an autumn-term session recording alongside the 2019 closing-ceremony footage (corpus re-grep 2026-09-16).
 
 The 10th anniversary (2019) and the founding note (since September 2009) are consistent with the page's session-count claim of 200+ sessions.
 

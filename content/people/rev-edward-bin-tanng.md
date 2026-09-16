@@ -54,6 +54,7 @@ Rev. Edward Bin Tanng 陳黃義敏牧師 – History of Taiwanese American (T.A.
 - HOLD: conflict in the FPCLA anniversary English appendix, which prints his pastorate as "1998-1991", against 1988-1991 in the Chinese pastor list and in the TAH profile — kept at 1988–1991, not auto-merged.
 - 語料庫再核 2026-09-15（deepen-x slice-17）：命中 ourjourneys231（含英文版）、ourjourneys69（含英文版）、ourjourneys33-eng、whos-who-2128 與 works/index，全部已吸收；英文版人名作 "Edward Gibin Tanng"，與本頁 Edward Bin Tanng 並記，不逕改。無新增可吸收語料。
 - 語料庫再核 2026-09-16（deepen-x slice-15）：命中集合不變，全部已吸收（含英文版拼字並記、HOLD 1998-1991 vs 1988-1991 維持）。無新增可吸收語料。
+- 語料庫再核 2026-09-16（deepen-x slice-11）：命中集合不變（ourjourneys231／231-eng、ourjourneys69／69-eng、ourjourneys33-eng、whos-who-2128），全部已吸收；HOLD「1998-1991 vs 1988-1991」維持。無新增可吸收語料。
 
 ## Network
 - [[organizations/formosan-presbyterian-church-in-los-angeles||FPCLA]] — TAH Who’s Who
