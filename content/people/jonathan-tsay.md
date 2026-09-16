@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-15
+last_reviewed: 2026-09-16
 ---
 # Jonathan Tsay (蔡宇明)
 
@@ -75,3 +75,5 @@ Re-check (deepen-x slice 09150500-21, 2026-09-15): third corpus grep re-run — 
 Re-check (deepen-x slice 09150600-10, 2026-09-15): fourth corpus grep re-run — hit set unchanged (#375 / #1413 + works index). No memoir material; SKIP stands.
 
 Re-check (deepen-x slice 09150700-6, 2026-09-15): fifth corpus grep re-run — hit set unchanged (#375 / #1413 + works index). No memoir material; SKIP stands.
+
+Re-check (deepen-x slice 09160109-4, 2026-09-16): sixth corpus grep re-run — hit set unchanged (#375 / #1413 + works index). No memoir material; SKIP stands.

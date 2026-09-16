@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-15
+last_reviewed: 2026-09-16
 ---
 # Prof. Chien-Te Chen (陳建德教授)
 
@@ -78,3 +78,6 @@ Re-scan grep -E `陳建德|Chien-Te Chen` over works+articles: hit set unchanged
 - [[organizations/taiwanese-american-historical-society||TAHS]]
 - [[organizations/taiwanese-american-science-and-technology-association-tasta||TASTA]] — Taiwanese-American scientist community
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+## SKIP note (deepen-x pass 2026-09-16, slice 09160109-2)
+再 grep -E `陳建德|Chien-Te Chen`（works+articles）命中集合不變——僅本人 [[works/taiwaneseamericanhistory-org/whos-who-1791-chien-te-chen|TAH #1791]] 紀錄頁與 works index — SKIP-with-reason; nothing absorbable.

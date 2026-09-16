@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-15
+last_reviewed: 2026-09-16
 ---
 # Charlene Chen (陳怡林)
 
@@ -56,6 +56,7 @@ Her community role at the [[organizations/taiwanese-american-foundation||Taiwane
 - **覆核（deepen-x slice 09150500-18，2026-09-15）**：再 grep（陳怡林／Charlene Chen）命中集合不變（#230 中英雙版、#125、#52906/#210、#2205、#26 皆本人親筆或再現作品，已全部吸收於本節）— 無新增社群材料，無衝突需 HOLD。
 - **覆核（deepen-x slice 09150600-8，2026-09-15）**：再 grep（陳怡林／Charlene Chen）命中集合不變（#230 中英雙版、#125、#52906/#210、#2205、#26），皆已吸收 — 維持本節，無衝突需 HOLD。
 - **覆核（deepen-x slice 09150700-4，2026-09-15）**：再 grep（陳怡林／Charlene Chen）命中 7 檔 = 上列已吸收之 #230、#125、#52906/#210、#2205、#26、mystories230-2 及 works index — 無新增社群材料，維持本節，無衝突需 HOLD。
+- **覆核（deepen-x slice 09160109-2，2026-09-16）**：再 grep（陳怡林／Charlene Chen）命中 6 檔 = 上列已吸收之 #230（中英雙版）、#125、#52906/#210、#2205、#26、mystories230-2 — 無新增社群材料，維持本節，無衝突需 HOLD。
 
 ## Related Pages
 - 求學階段：[[organizations/duke-taiwanese-student-association||Duke Taiwanese Student Association]]、[[organizations/taiwanese-student-association-at-uc-berkeley||TSA at UC Berkeley]]

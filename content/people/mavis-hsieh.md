@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-15
+last_reviewed: 2026-09-16
 ---
 # Mavis Hsieh (謝孟潔)
 
@@ -65,3 +65,4 @@ _No filled family fields on the TAH profile._
 
 - SKIP 確認（slice 09150500-24, 2026-09-15）：復檢 works/ + articles/，命中僅本人自有 TAH 書目頁與 index 目錄列項，無回憶錄/社群第一手材料可吸收；無新增連結。
 - SKIP 再確認（slice 09150700-7, 2026-09-15）：復檢命中集合不變（僅自有兩則 TAH 頁 #323／#166 與 index），維持 SKIP；既有 HOLD（Ball State 學位記法衝突）保留不動。
+- SKIP 再確認（slice 09160109-4, 2026-09-16）：復檢命中集合不變（僅自有兩則 TAH 頁 #323／#166 與 index），維持 SKIP；既有 HOLD 保留不動。

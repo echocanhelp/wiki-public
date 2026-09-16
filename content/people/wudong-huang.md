@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-15
+last_reviewed: 2026-09-16
 ---
 # Rev. Wudong Huang (黃武東牧師)
 
@@ -62,3 +62,4 @@ last_reviewed: 2026-09-15
 
 ## Network
 - [[organizations/presbyterian-church-in-taiwan||PCT]] — TAH Who’s Who
+- Recheck (deepen-x slice 09160109-12, 2026-09-16): grep hit-set unchanged (our-journeys-350/357, ourjourneys76-eng/38-eng/266/267, TAH #11/#132); the 357 six-category + two cross-denominational breakdown matches the eight-category note already on this page. No new absorbable corpus material.

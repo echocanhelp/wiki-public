@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-15
+last_reviewed: 2026-09-16
 ---
 # Ming Ten Dan Tsai (蔡明殿)
 
@@ -35,7 +35,8 @@ last_reviewed: 2026-09-15
 Tsai is recorded in the TAHS corpus as a human-rights worker (人權工作者) and writer who worked as a pair with his wife [[people/suing-wang|王淑英 (Suing Wang)]]. Seven items carry his name:
 
 - [[works/taiwaneseamericanhistory-org/13-e8-94-a1-e6-98-8e-e6-ae-bfming-ten-tsai-e4-ba-ba-e6-ac-8a-e5-b7-a5-e4-bd-9c-e|TAH #13. 蔡明殿 Ming Ten Tsai – 人權工作者]] (2016-01) — the movement record names his role outright
-- [[works/taiwaneseamericanhistory-org/publication945|TAH #945. 菜蟲的現代寓言 蔡明殿談憶錄（下）]] with 王淑英 (08/2015, Biography/傳記) — his own memoir, told as a "modern fable of the vegetable worm"; the primary material for his life story
+- [[works/taiwaneseamericanhistory-org/publication944|TAH #944. 台灣在世界的臂彎 蔡明殿談憶錄（上）]] with 王淑英 (08/2015, Biography/傳記) — part 1 of his two-part memoir, "Taiwan in the arm-bend of the world"
+- [[works/taiwaneseamericanhistory-org/publication945|TAH #945. 菜蟲的現代寓言 蔡明殿談憶錄（下）]] with 王淑英 (08/2015, Biography/傳記) — part 2 of the memoir, told as a "modern fable of the vegetable worm"; the primary material for his life story
 - [[works/taiwaneseamericanhistory-org/mystories389|TAH #389. 蔡明殿大愛在人間]] by 黃嘉光 (2016-01) — a portrait written by someone outside the family, i.e. the community itself wrote his life sketch
 - [[works/taiwaneseamericanhistory-org/124-e5-9c-a8-e6-b5-b7-e4-b9-8b-e8-a7-92-e8-94-a1-e6-98-8e-e6-ae-bf-1992-05-e6-96|TAH #124. 在海之角 – 蔡明殿 – 文學]] (1992-05) — literary piece, the earliest item under his name
 - [[works/taiwaneseamericanhistory-org/155-e8-94-a1-e6-98-8e-e6-ae-bf-e7-8e-8b-e6-b7-91-e8-8b-b1-the-first-farm-farmers|TAH #155. The first farm & farmers, Newton, N.J.]] (1982) — his own account of founding a farm in New Jersey

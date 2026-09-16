@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-15
+last_reviewed: 2026-09-16
 ---
 # Prof. Hsiao-Ying Monica Wey (魏曉英教授)
 
@@ -52,6 +52,7 @@ _No filled family fields on the TAH profile._
 - corpus sweep 2026-09-15（slice 09150500-18 覆核）：再 grep（魏曉英／Hsiao-Ying／Monica Wey）命中集合不變——僅本人 TAH #1909 書目頁與 [[works/index|works index]]，無回忆錄／社群一手材料 — 維持 **SKIP**。
 - corpus sweep 2026-09-15（slice 09150600-8 覆核）：再 grep（魏曉英／Hsiao-Ying／Monica Wey）命中集合不變——僅本人 TAH #1909 書目頁與 [[works/index|works index]]，維持 **SKIP**。
 - corpus sweep 2026-09-15（slice 09150700-5 覆核）：再 grep（魏曉英／Hsiao-Ying／Monica Wey）命中集合不變——僅本人 TAH #1909 書目頁與 [[works/index|works index]]，無回忆錄／社群一手材料 — 維持 **SKIP**。
+- corpus sweep 2026-09-16（slice 09160109-2 覆核）：再 grep（魏曉英／Hsiao-Ying／Monica Wey）命中集合不變——僅本人 TAH #1909 書目頁與 [[works/index|works index]]，維持 **SKIP**。
 
 ## Sources
 - [TAH #1909 encyclopedia: 1909. Prof. Hsiao-Ying (Monica) Wey 魏曉英教授](https://taiwaneseamericanhistory.org/whos-who-1909-hsiao-ying-wey/)

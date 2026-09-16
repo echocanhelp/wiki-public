@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-15
+last_reviewed: 2026-09-16
 ---
 # Ching-Yun Hu (胡瀞云)
 
@@ -56,6 +56,7 @@ _No filled family fields on the TAH profile._
 - deepen-x 09150500-19（2026-09-15 覆核）：再 grep（胡瀞云／Ching-Yun Hu，works+articles）命中仍僅自身出處頁 #572、#288 — 維持 **SKIP（理由：無回憶錄／社群一手材料）**。
 - deepen-x 09150600-9（2026-09-15 覆核）：再 grep 命中僅自身出處頁 #572、#288、works index 條目行，另有 ourjourneys291/311/391、#658 之 slug 假性命中（實為 ching-yung-lee 李慶榮 連結）— 維持 **SKIP（理由：無非出處頁語料）**。
 - deepen-x 09150700-5（2026-09-15 覆核）：再 grep（胡瀞云／Ching-Yun Hu，works+articles）命中仍僅自身出處頁 #572、#288 與 [[works/index|works index]] 條目行，無回憶錄／社群一手材料 — 維持 **SKIP（理由：無非出處頁語料）**。
+- deepen-x 09160109-2（2026-09-16 覆核）：再 grep（胡瀞云／Ching-Yun Hu，works+articles）命中仍僅自身出處頁 #572、#288 與 [[works/index|works index]] 條目行 — 維持 **SKIP（理由：無非出處頁語料）**。
 
 ## Sources
 - [TAH #572 encyclopedia: 572. Ching-Yun Hu 胡瀞云 / 2015/09](https://taiwaneseamericanhistory.org/572-ching-yun-hu-%e8%83%a1%e7%80%9e%e4%ba%91-201509/)
