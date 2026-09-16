@@ -57,3 +57,5 @@ She also contributed personal memoir to the corpus: an autobiography 張丁蘭�
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 **SKIP 2026-09-15 (slice 09150700-24):** corpus re-grep (works/ + articles/) returned the same 6-hit set already absorbed above (#64, #94, #253, mystories37-eng, ourjourneys75-eng, photo-albums-activities-97) — no new material; page already deepened by a prior slice.
+
+**SKIP 2026-09-16 (slice 09160109-19):** re-grep again returned the identical 6-file hit set — nothing new absorbable.
