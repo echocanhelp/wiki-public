@@ -58,3 +58,4 @@ _No filled family fields on the TAH profile._
 - 再核（deepen-x slice 09150700-16, 2026-09-15）：命中集不變（僅 #1794 書目頁 + works/index），維持 SKIP-with-reason。
 - 再核（deepen-x slice 09160109-14, 2026-09-16）：命中集不變（僅 #1794 書目頁 + works/index），維持 SKIP-with-reason。
 - 再核（deepen-x slice 09160316-12, 2026-09-16）：命中集不變（僅 #1794 書目頁 + works/index），無回忆录語料，維持 SKIP-with-reason。
+- 再核（deepen-x slice 09160400-11, 2026-09-16）：賀端華／Tuan-Hua 命中集不變（僅 [[works/taiwaneseamericanhistory-org/whos-who-1794-tuan-hua-ho|#1794]] 書目頁 + works/index），無可吸收社群語料，無衝突可 HOLD，維持 SKIP-with-reason。

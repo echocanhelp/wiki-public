@@ -55,6 +55,7 @@ _No filled family fields on the TAH profile._
 - 語料庫再比對（deepen-x slice 09150700-12，2026-09-15）：精確姓名 grep（邵婷雯／Tina Shao）命中集不變（僅本人 #55、#1111 與 works/index），無可吸收之新增社群事實。維持 SKIP-with-reason。
 - 語料庫再比對（deepen-x slice 09160109-7，2026-09-16）：精確姓名 grep（邵婷雯／Tina Shao）命中集不變（僅本人 #55、#1111 與 works/index），無可吸收之新增社群事實。維持 SKIP-with-reason。
 - 語料庫再比對（deepen-x slice 09160316-6，2026-09-16）：精確姓名 grep（邵婷雯／Tina Shao）命中集不變（僅本人 #55、#1111 自有書目頁），無可吸收之新增社群事實。維持 SKIP-with-reason。
+- 語料庫再比對（deepen-x slice 09160400-4，2026-09-16）：精確姓名 grep（邵婷雯／Tina Shao）命中集不變（僅本人 #55、#1111 與 works/index），無可吸收之新增社群事實。維持 SKIP-with-reason。
 
 ## Sources
 - [TAH #1111 encyclopedia: 1111. Tina Shao  邵婷雯 / 2016/06](https://taiwaneseamericanhistory.org/whoswho1111/)

@@ -74,3 +74,5 @@ _No filled family fields on the TAH profile._
 - 語料庫再比對：命中集不變（本人 #295／#644 存檔頁 + works/index），無他人記述可吸收。維持 SKIP-with-reason。
 ## deepen 2026-09-16 (slice 09160316-11)
 - 語料庫再比對：命中集不變（本人 #295／#644 存檔頁 + works/index），無他人記述可吸收。維持 SKIP-with-reason。
+## deepen 2026-09-16 (slice 09160400-10)
+- 語料庫再比對：命中集不變（本人 #295／#644 存檔頁 + works/index），無他人記述可吸收。維持 SKIP-with-reason。

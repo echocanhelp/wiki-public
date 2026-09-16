@@ -61,3 +61,4 @@ _No filled family fields on the TAH profile._
 - 再核（deepen-x slice 09150700-16, 2026-09-15）：命中集不變（僅 #225／#465 書目頁 + works/index），維持 SKIP-with-reason。
 - 再核（deepen-x slice 09160109-15, 2026-09-16）：命中集不變（僅 #225／#465 書目頁 + works/index），無回憶錄社群語料，維持 SKIP-with-reason。
 - 再核（deepen-x slice 09160316-11, 2026-09-16）：命中集不變（僅 #225／#465 書目頁 + works/index），維持 SKIP-with-reason。
+- 再核（deepen-x slice 09160400-11, 2026-09-16）：命中集不變（僅 #225／#465 書目頁 + works/index），無回憶錄社群語料，無衝突可 HOLD，維持 SKIP-with-reason。

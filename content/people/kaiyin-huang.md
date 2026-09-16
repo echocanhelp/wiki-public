@@ -72,3 +72,4 @@ _No filled family fields on the TAH profile._
 - SKIP 確認（slice 09150700-11, 2026-09-15）：復檢 works/ + articles/，命中僅自有 TAH 書目頁與 index 列項，無回憶錄/社群第一手材料可吸收；無新增連結。
 - SKIP 確認（slice 09160109-8, 2026-09-16）：復檢 works/ + articles/，命中僅自有 TAH 書目頁與 index 列項，無回憶錄/社群第一手材料可吸收；無新增連結。
 - SKIP 確認（slice 09160316-6, 2026-09-16）：復檢 works/ + articles/（黃凱盈／Kaiyin Huang），命中僅自有 #356、#1251 書目頁，無回憶錄/社群第一手材料可吸收；無新增連結。
+- SKIP 確認（slice 09160400-6, 2026-09-16）：復檢 works/ + articles/，命中集相同（自有 #356、#1251 書目頁與 index 列項），無回憶錄/社群第一手材料可吸收；無新增連結。
