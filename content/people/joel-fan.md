@@ -70,3 +70,4 @@ _No filled family fields on the TAH profile._
 - SKIP-with-reason（slice 09150600-11, 2026-09-15）：語料庫第四次復核，命中集不變（僅 #290／#574 書目紀錄與 works index），無回忆录社群事實可吸收。
 - SKIP-with-reason（slice 09150700-7, 2026-09-15）：語料庫第五次復核，命中集不變（范景德／Joel Fan 僅 #290／#574 與 index），維持 SKIP。
 - SKIP-with-reason（slice 09160109-5, 2026-09-16）：語料庫第六次復核，命中集不變（僅本人書目紀錄 #290／#574 與 works index），回憶錄無社群事實可吸收，維持 SKIP。
+- SKIP-with-reason（slice 09160316-3, 2026-09-16）：語料庫第七次復核，命中集不變（范景德／Joel Fan 僅 #290／#574 書目紀錄），維持 SKIP。
