@@ -58,3 +58,4 @@ Pianist Jessie Chang is admired for her beautiful tone, commanding technique, an
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - Corpus re-check 2026-09-16 (deepen-x slice 25): re-grepped 張晶晶|Jessie Chang — identical hit set (own TAH #731/#321 band-B records + works index). SKIP-with-reason; stable across four passes.
 - Corpus re-grep 2026-09-16 (slice 09160500-21): re-grep 張晶晶|Jessie Chang — identical hit set (own #731/#321 + index). SKIP-with-reason; stable across six passes.
+- Corpus re-grep 2026-09-16 (slice 09160600-17): identical hit set (own #731/#321 + works/index). SKIP-with-reason; saturated across seven passes.

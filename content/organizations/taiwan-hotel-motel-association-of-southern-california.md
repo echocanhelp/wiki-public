@@ -22,6 +22,7 @@ The Taiwan Hotel & Motel Association of Southern California was established in 1
 
 Corpus records in the TAH collection document the Association's activity and standing:
 
+- The Association's own TAH directory record is preserved in the corpus: [[works/taiwaneseamericanhistory-org/taiwan-hotel-motel-association-of-southern-california|THMASC 目錄記錄]].
 - Founded 08/1974 — the TAH album record calls it the **first Taiwanese American organization in the business field** (第一個台美人商業團體): [[works/taiwaneseamericanhistory-org/ff261|TAH #261 南加州台灣旅館業同業公會 / First T.A. organization in Business Field]].
 - Hosted the 台灣餐旅系學員美國暑假在職訓練營 (summer on-the-job training camp in the U.S. for Taiwanese hotel/restaurant-management students), 2016: [[works/taiwaneseamericanhistory-org/12-63|TAH #63 訓練營]].
 - Runs the Charity Golf Tournament 慈善高爾夫球友誼賽, documented 2018: [[works/taiwaneseamericanhistory-org/golf-thmasc|Charity Golf Tournament by THMASC]].
