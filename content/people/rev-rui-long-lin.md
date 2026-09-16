@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-15
+last_reviewed: 2026-09-16
 ---
 # Rev. Rui-Long Lin (林瑞隆牧師)
 
@@ -54,3 +54,6 @@ last_reviewed: 2026-09-15
 
 ## Corpus re-grep (2026-09-15)
 Re-grepped 林瑞隆 / Rui-Long Lin across content/works + content/articles: the only hit is his own TAH Who's Who record [[works/taiwaneseamericanhistory-org/whos-who-1674-rui-long-lin|TAH #1674, 2017-05-21 · band B]] (already linked under Vault Absorbed), plus the works index. No memoir/community material beyond this; nothing absorbable, no conflicts — the era 1947-2019 stands unchallenged. SKIP-no-new-material.
+
+## Corpus re-grep (2026-09-16, deepen-x slice 29)
+Re-grepped 林瑞隆 / Rui-Long Lin / RuiLong Lin: identical result — own record #1674 + index only. SKIP-no-new-material, confirmed on a second pass.
