@@ -44,6 +44,7 @@ Publication(Non-professional)
 - Contributor to the TAH Foundation story corpus: memoir 那些年，我們一起留學美國的日子 ([[works/taiwaneseamericanhistory-org/mystories619|619. 那些年，我們一起留學美國的日子]], 01/2018) and 留學美國、教育子女、邁向哈佛 ([[works/taiwaneseamericanhistory-org/publications1184|1184. 留學美國、教育子女、邁向哈佛]], 08/2016), documenting the 1980s Taiwan-to-US graduate-school pathway.
 - Co-authored with his wife 黃安玲 the parenting essay 教育子女的分享與經驗談 ([[works/taiwaneseamericanhistory-org/my-stories-722|722. 教育子女的分享與經驗談]], 02/2020).
 - Personal papers held in the TAH archive: Collection of the Prof. Frank Shih 施永強教授的收藏 ([[works/taiwaneseamericanhistory-org/private-collections-92|92. 施永強教授的收藏]], 2020).
+- 複核（deepen-x slice-24 2026-09-16）：re-grep 施永強 / Frank Shih 得 6 筆（#64、#1990、#619、#1184、#722、#92）全數已吸收於上列條目，皆為書目/收藏記錄，無回憶錄正文可再吸收；無衝突需 HOLD。
 
 ## Sources
 - [TAH #64 encyclopedia: 64. Prof. Frank Shih 施永強教授](https://taiwaneseamericanhistory.org/64-prof-frank-shih/)
