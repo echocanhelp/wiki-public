@@ -43,6 +43,8 @@ The same memoirs credit him with the Center's permanent-home campaign: together 
 
 His own encyclopedia record is preserved at [[works/taiwaneseamericanhistory-org/who-who-1870-david-weng|TAH #1870: David Weng 翁嘉盛]].
 
+- Corpus re-sweep 2026-09-16 (slice 09160109-24): corpus grep matched only records already absorbed above (ourjourneys53/24/38); loose 翁 matches carry no personal facts. **SKIP: no new absorbable facts**, no conflicts to HOLD.
+
 
 ## Sources
 - [TAH #1870 encyclopedia: 1870. David Weng 翁嘉盛](https://taiwaneseamericanhistory.org/who-who-1870-david-weng/)

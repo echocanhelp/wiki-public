@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-15
+last_reviewed: 2026-09-16
 ---
 # Hsing-I Chen (陳欣沂)
 
@@ -47,5 +47,5 @@ _No filled family fields on the TAH profile._
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
-## Corpus re-grep (2026-09-15)
+## Corpus re-grep (2026-09-15, re-confirmed 2026-09-16 slice 27)
 Re-grepped 陳欣沂 / Hsing-I Chen across content/works + content/articles: the only hits are her own TAH records — [[works/taiwaneseamericanhistory-org/329-hsing-i-chen-e9-99-b3-e6-ac-a3-e6-b2-82-pianist-201602|TAH #329, Pianist, 2016-02-20 · band B]] and [[works/taiwaneseamericanhistory-org/825-hsing-i-chen-e9-99-b3-e6-ac-a3-e6-b2-82-201602|TAH #825, 2016-02-20 · band B]] — already linked under Vault records, plus the works index (adjacent entry 台美藝術協會 TAAA does not name her). No memoir/community material; nothing absorbable, no conflicts. SKIP-no-new-material.
