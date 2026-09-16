@@ -1,0 +1,4 @@
+people/janet-tsai.md
+people/rev-edward-bin-tanng.md
+organizations/evergreen-class-by-irvine-taiwanese-presbyterian-church-laguna-hills-ca.md
+people/chi-yin-chen.md

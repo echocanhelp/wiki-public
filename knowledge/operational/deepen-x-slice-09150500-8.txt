@@ -1,0 +1,4 @@
+people/wei-jane-chir.md
+people/dr-ming-j-lee.md
+people/gloria-chuang.md
+organizations/taiwanese-student-association-for-public-affairs.md

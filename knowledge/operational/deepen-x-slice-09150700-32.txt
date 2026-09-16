@@ -1,0 +1,4 @@
+people/prof-shane-rong-lee.md
+people/jessie-chang.md
+organizations/northern-california-taiwanese-medical-association-nctma.md
+organizations/taiwan-photography-association-in-greater-new-york-tpagny.md

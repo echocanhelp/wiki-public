@@ -1,0 +1,4 @@
+organizations/hsinchu-high-school-alumni-association-of-north-america.md
+people/prof-chin-an-li.md
+people/tina-shih.md
+people/prof-wen-hsiung-li.md

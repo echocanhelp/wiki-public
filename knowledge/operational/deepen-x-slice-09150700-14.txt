@@ -1,0 +1,4 @@
+people/jecoliah-wang.md
+people/dr-david-hong.md
+organizations/hsinchu-high-school-alumni-association-of-north-america.md
+people/dr-shinn-sheng-chang.md

@@ -1,15 +1,204 @@
 {
-  "date": "2026-09-15",
+  "date": "2026-09-16",
   "standards_version": 10,
   "total_pages_scanned": 2898,
-  "pages_with_findings": 46,
-  "auto_queued": 7,
+  "pages_with_findings": 53,
+  "auto_queued": 20,
   "queue": [
     {
       "path": "events/sc-taiwancenter-org-event-2026-membership.md",
       "findings": [
         "DESC_NO_TITLE_MENTION",
         "LINKS_NO_RELATED"
+      ],
+      "priority": "medium",
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol",
+        "Fix ONLY listed findings — no inventing biography",
+        "Update last_reviewed after fixes",
+        "Commit only (no publish)"
+      ]
+    },
+    {
+      "path": "organizations/evergreen-class-by-irvine-taiwanese-presbyterian-church-laguna-hills-ca.md",
+      "findings": [
+        "STRUCT_NO_HISTORY",
+        "READABILITY_LONG_SENTENCES_32wps",
+        "READABILITY_MANY_LONG_SENTENCES_4"
+      ],
+      "priority": "medium",
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol",
+        "Fix ONLY listed findings — no inventing biography",
+        "Update last_reviewed after fixes",
+        "Commit only (no publish)"
+      ]
+    },
+    {
+      "path": "organizations/golden-eagle-institute.md",
+      "findings": [
+        "STRUCT_NO_HISTORY",
+        "READABILITY_LONG_SENTENCES_36wps",
+        "READABILITY_MANY_LONG_SENTENCES_4"
+      ],
+      "priority": "medium",
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol",
+        "Fix ONLY listed findings — no inventing biography",
+        "Update last_reviewed after fixes",
+        "Commit only (no publish)"
+      ]
+    },
+    {
+      "path": "organizations/north-america-pastel-artist-association.md",
+      "findings": [
+        "LINKS_HIGH_DENSITY",
+        "STRUCT_NO_HISTORY",
+        "READABILITY_LONG_SENTENCES_32wps"
+      ],
+      "priority": "medium",
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol",
+        "Fix ONLY listed findings — no inventing biography",
+        "Update last_reviewed after fixes",
+        "Commit only (no publish)"
+      ]
+    },
+    {
+      "path": "organizations/taiwanese-american-association-mid-peninsula-taiwanese.md",
+      "findings": [
+        "STRUCT_NO_HISTORY",
+        "READABILITY_LONG_SENTENCES_30wps",
+        "READABILITY_MANY_LONG_SENTENCES_4"
+      ],
+      "priority": "medium",
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol",
+        "Fix ONLY listed findings — no inventing biography",
+        "Update last_reviewed after fixes",
+        "Commit only (no publish)"
+      ]
+    },
+    {
+      "path": "organizations/taiwanese-american-senior-society-tass-of-greater-washington-dc.md",
+      "findings": [
+        "STRUCT_NO_HISTORY",
+        "READABILITY_LONG_SENTENCES_36wps",
+        "READABILITY_MANY_LONG_SENTENCES_4"
+      ],
+      "priority": "medium",
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol",
+        "Fix ONLY listed findings — no inventing biography",
+        "Update last_reviewed after fixes",
+        "Commit only (no publish)"
+      ]
+    },
+    {
+      "path": "people/ching-sze-hsieh.md",
+      "findings": [
+        "DESC_NO_TITLE_MENTION",
+        "READABILITY_LONG_SENTENCES_45wps",
+        "READABILITY_MANY_LONG_SENTENCES_4"
+      ],
+      "priority": "medium",
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol",
+        "Fix ONLY listed findings — no inventing biography",
+        "Update last_reviewed after fixes",
+        "Commit only (no publish)"
+      ]
+    },
+    {
+      "path": "people/dr-ching-c-shir.md",
+      "findings": [
+        "DESC_NO_TITLE_MENTION",
+        "LINKS_HIGH_DENSITY"
+      ],
+      "priority": "medium",
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol",
+        "Fix ONLY listed findings — no inventing biography",
+        "Update last_reviewed after fixes",
+        "Commit only (no publish)"
+      ]
+    },
+    {
+      "path": "people/dr-peter-huang.md",
+      "findings": [
+        "DESC_NO_TITLE_MENTION",
+        "LINKS_HIGH_DENSITY"
+      ],
+      "priority": "medium",
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol",
+        "Fix ONLY listed findings — no inventing biography",
+        "Update last_reviewed after fixes",
+        "Commit only (no publish)"
+      ]
+    },
+    {
+      "path": "people/gwhyneth-chen.md",
+      "findings": [
+        "LINKS_NO_RELATED",
+        "STRUCT_NO_RELATED",
+        "READABILITY_MANY_LONG_SENTENCES_11"
+      ],
+      "priority": "medium",
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol",
+        "Fix ONLY listed findings — no inventing biography",
+        "Update last_reviewed after fixes",
+        "Commit only (no publish)"
+      ]
+    },
+    {
+      "path": "people/martin-tsai.md",
+      "findings": [
+        "DESC_NO_TITLE_MENTION",
+        "READABILITY_MANY_LONG_SENTENCES_4"
+      ],
+      "priority": "medium",
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol",
+        "Fix ONLY listed findings — no inventing biography",
+        "Update last_reviewed after fixes",
+        "Commit only (no publish)"
+      ]
+    },
+    {
+      "path": "people/prof-mingchi-wu.md",
+      "findings": [
+        "DESC_NO_TITLE_MENTION",
+        "READABILITY_MANY_LONG_SENTENCES_4"
+      ],
+      "priority": "medium",
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol",
+        "Fix ONLY listed findings — no inventing biography",
+        "Update last_reviewed after fixes",
+        "Commit only (no publish)"
+      ]
+    },
+    {
+      "path": "people/rue-lin-hung.md",
+      "findings": [
+        "DESC_NO_TITLE_MENTION",
+        "LINKS_HIGH_DENSITY"
+      ],
+      "priority": "medium",
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol",
+        "Fix ONLY listed findings — no inventing biography",
+        "Update last_reviewed after fixes",
+        "Commit only (no publish)"
+      ]
+    },
+    {
+      "path": "people/symeon-woo.md",
+      "findings": [
+        "DESC_NO_TITLE_MENTION",
+        "LINKS_HIGH_DENSITY"
       ],
       "priority": "medium",
       "instructions": [
@@ -110,6 +299,6 @@
       ]
     }
   ],
-  "suppressed_findings": 1887,
-  "fp_history_entries": 2001
+  "suppressed_findings": 1868,
+  "fp_history_entries": 2010
 }

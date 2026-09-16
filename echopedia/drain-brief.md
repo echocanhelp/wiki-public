@@ -1,4 +1,4 @@
-## Queue drain — 2026-09-15
+## Queue drain — 2026-09-16
 - Items: **40**
 
 - `people/chen-po-kong.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
@@ -40,6 +40,6 @@
 - `people/lin-baohua.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 - `people/yang-yueqing.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 - `people/guan-renjian.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
-- `events/sc-presbyterian-church--news_pct.aspx.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
+- `events/ev-lunar-new-year-banquet.md`: add last_reviewed, WROTE
 
 Fail-closed first-mention is AUTO (janitor). HOLD leftover ≠ human body-link batch.

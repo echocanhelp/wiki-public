@@ -1,0 +1,4 @@
+organizations/hsinchu-high-school-alumni-association-of-north-america.md
+people/tina-shao.md
+people/yuhsuan-liu-aldridge.md
+people/wudong-huang.md
