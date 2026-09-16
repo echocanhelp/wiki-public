@@ -42,6 +42,7 @@ _No filled family fields on the TAH profile._
 - Corpus re-grep (2026-09-16, deepen-x slice 24): hits unchanged — own record [[works/taiwaneseamericanhistory-org/whos-who-1633-jin-tan-liu|TAH #1633（2017-05-07, band B）]]（已列上）、works index 彙整行、及上述三篇變造文件報導（其中本 slice 新收第三篇，已補link）。無回憶錄級社群材料，無新衝突。
 - HOLD: conflict — 傳聞「總統姐夫」親屬關係 vs 總統府否認相關文件為偽造；親屬關係本身未經corp證實，不預設。
 - Corpus re-grep 2026-09-16 (slice 09160600-16): hit set unchanged（本人書目 #1633、works index、青平台顧問報導、三篇總統府變造文件報導，皆已引於上方）。SKIP — 無回憶錄級社群新材料，無新衝突。
+- Corpus re-grep 2026-09-16 (slice 09160700-13): hit set unchanged（#1633、index、青平台報導、三篇變造文件報導，皆已引於上方）。SKIP — saturated，無新材料，無新衝突。
 
 ## Sources
 - [TAH #1633 encyclopedia: 1633. Prof. Jin-Tan Liu 劉錦添教授](https://taiwaneseamericanhistory.org/whos-who-1633-jin-tan-liu/)
