@@ -43,7 +43,8 @@ _No filled family fields on the TAH profile._
 
 ## Role in the Community（deepen pass 2026-09-14）
 
-- Corpus re-sweep 2026-09-16 (slice 21): re-grep 陳炳衡 — hit set unchanged (TAH #562／#283 書目頁、ourjourneys316 義工芳名名單、works/index 收錄列舉). 名單原文再確認：陳炳衡列名於紐約台灣會館老人中心義工老師芳名（含「合唱團」時段），與本頁所載吻合。**SKIP: 無新的可吸收事実**，無衝突需 HOLD。
+- Corpus re-sweep 2026-09-15（slice 27；prior 2026-09-14）：語料命中僅本頁既有出處（TAH #562／#283 書目頁、[[works/taiwaneseamericanhistory-org/ourjourneys316|ourjourneys316 老人中心義工名單]]、works/index 收錄列舉）。自 ourjourneys316 吸收：該史載老人中心每日 10:00–15:00 時段活動含「合唱團」一類，與本頁所述陳老師於會館指揮合唱團之經歷吻合；義工芳名名單所載即上節佐證。**除上述佐證細節外 SKIP：無新的可吸收事実**，無衝突需 HOLD。
+- Corpus re-sweep 2026-09-16 (slice 21): re-grep 陳炳衡 — hit set unchanged (TAH #562／#283 書目頁、[[works/taiwaneseamericanhistory-org/ourjourneys316|ourjourneys316 義工芳名名單]]、works/index 收錄列舉）。名單原文再確認：陳炳衡列名於紐約台灣會館老人中心義工老師芳名（含「合唱團」時段），與本頁所載吻合。**SKIP: 無新的可吸収事実**，無衝突需 HOLD。
 
 ## Sources
 - [TAH #562 encyclopedia: 562. 陳炳衡 / 2015/08](https://taiwaneseamericanhistory.org/562-%e9%99%b3%e7%82%b3%e8%a1%a1-201508/)

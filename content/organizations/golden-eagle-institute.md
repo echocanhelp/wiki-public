@@ -26,6 +26,7 @@ Golden Eagle Institute is a continuing education institution founded in 1991 in 
 
 ## Notes
 - Corpus re-check 2026-09-16 (deepen-x slice 18): re-grepped 金鷹學院/Golden Eagle — hit set unchanged (#185 第一個老年學院 notice, #143 廖清愛 founding memoir, #12 org record, 金鷹學壇 #710/#711/#712); all already linked in Role in the Community. SKIP-with-reason; no new absorbable material.
+- Corpus re-check 2026-09-16 (deepen-x slice 19): re-grepped — same six hits (金鷹學壇 #710/#711/#712, #12 org record, #143 founding memoir, #185 first-senior-academy notice), all already wikilinked in Role in the Community. SKIP-with-reason; no new corpus facts, no conflicts to HOLD.
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/golden-eagle-institute/)
