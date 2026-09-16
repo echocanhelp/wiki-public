@@ -54,6 +54,7 @@ Pages that link to **wang-yao-ting** (wang-yao-ting):
 - 語料庫再檢 slice 22（2026-09-15）：命中集合不變（#1133 + works/index）。維持 SKIP，無衝突需 HOLD。
 - 語料庫再檢 slice 19（2026-09-15）：命中集合不變（#1133 + works/index）。無新增可吸收語料，無衝突需 HOLD。
 - 語料庫再檢 slice 16（2026-09-16）：命中集合不變（#1133 + works/index；相鄰 #1132 王燕山、#1134 林健華為另一人，勿混淆）。#1133 為書目紀錄（全文存 TAH 原廠），無可吸收語料，維持 SKIP，無衝突需 HOLD。
+- 語料庫再檢 slice 14（2026-09-16）：命中集合不變（[[works/taiwaneseamericanhistory-org/whoswho1133|#1133]] + works/index 目錄行）。內容級 grep 確認 #1133 僅為書目紀錄，語料庫無回憶錄/社區紀錄提及，維持 SKIP，無衝突需 HOLD。
 
 ## Source Notes and Confidence
 

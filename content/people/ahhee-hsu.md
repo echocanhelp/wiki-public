@@ -50,6 +50,7 @@ Accomplishment
 ## Notes
 - Corpus re-check 2026-09-15 (deepen-x slice 23): re-grepped 許丕龍/Ahhee Hsu across works+articles — hit set unchanged (#2267 Who's Who, #649 詩篇 tape, #258 兩代音樂傳奇, #172 台灣音樂社/感恩節音樂會, TACL prep-committee roster 台灣公論報 #369 EN+ZH); all already absorbed in Role in the Community. SKIP-with-reason; nothing new absorbable.
 - Corpus re-check 2026-09-16 (deepen-x slice 09160109-17): re-grep hit set identical to the 2026-09-15 set above — all hits already absorbed into Role in the Community. Nothing new absorbable.
+- Corpus re-check 2026-09-16 (deepen-x slice 09160316-15): re-grep 許丕龍/Ahhee Hsu hit set unchanged (#2267, #649 tape, #258, #172, ourjourneys186 EN+ZH TACL roster) — all absorbed. SKIP-with-reason.
 
 ## Related Pages
 - [[people/c-y-hsu||Tsan Yu Hsu 許贊育]] — father

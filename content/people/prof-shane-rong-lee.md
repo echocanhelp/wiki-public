@@ -50,3 +50,4 @@ _No filled family fields on the TAH profile._
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 **RECHECK 2026-09-16 (slice 09160109-19):** corpus re-grep (works/ + articles/) returned the same hit set already absorbed above (whos-who-1901, ourjourneys230, ourjourneys245, our-journeys-379, taiwanjustice.net 2025-09-06) — 黑名單闖關、13屆夏令會、2025 Ukraine commentary all verified present in corpus verbatim; no new memoir material.
+**RECHECK 2026-09-16 (slice 09160316-15):** re-grep 李憲榮/Shane-Rong Lee returned the identical hit set (whos-who-1901, ourjourneys230/245, our-journeys-379, works/index, taiwanjustice.net 2025-09-06) — all facts already in Role in the Community; SKIP-with-reason, nothing new absorbable.

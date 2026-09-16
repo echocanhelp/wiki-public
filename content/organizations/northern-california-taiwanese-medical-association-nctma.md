@@ -34,3 +34,6 @@ Re-grep 北加州台灣醫師會|NCTMA (deepen-x slice 32) returned only the alr
 
 ## Corpus re-check (2026-09-16, deepen-x slice 29)
 Re-grep 北加州台灣醫師會|NCTMA across works+articles: same result — only the already-linked directory record [[works/taiwaneseamericanhistory-org/northern-california-taiwanese-medical-association-nctma|NCTMA 組織紀錄]] (band B) and the index. A loose 台灣醫師會 grep additionally surfaced [[articles/taiwanjustice-net/2025/20251108190522_世界醫師會首爾理事會-通過支持台灣參與who決議_35608a4f22d48339|世界醫師會首爾理事會報導]] — that names Taiwan's 台灣醫師會理事长 邱泰源, a different body, not NCTMA. SKIP-with-reason: no absorbable NCTMA community material.
+
+## Corpus re-check (2026-09-16, deepen-x slice 09160316-18)
+Re-grep NCTMA|北加州台灣醫師會 across works+articles: identical hits — only the already-linked directory record (band B) and the works index row. No memoir/coverage mentions; nothing absorbable. SKIP-with-reason.

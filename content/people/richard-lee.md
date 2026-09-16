@@ -46,6 +46,7 @@ last_reviewed: 2026-09-16
 - His restaurant career (Genroku, Shogun) is documented in his own account 李正三的餐飲業生涯 — see [[works/taiwaneseamericanhistory-org/buiness4|餐飲業生涯]].
 - A 228 survivor family (228受難家屬): his story of gratitude and resilience was written up by 楊遠薰 — see [[works/taiwaneseamericanhistory-org/mystories332|知恩與惜福]].
 - Donated personal archives: Collection of the Richard Cheng-San Lee 李正三的收藏 — see [[works/taiwaneseamericanhistory-org/private-collections-91|李家收藏]].
+- Essayist in the movement record: his memoir piece 西遷記 (published 2020-02) — see [[works/taiwaneseamericanhistory-org/my-stories-721|721. 西遷記]] — and his piece 紀念228在紐約, published in 台美人顧台灣 #14 (2015-03) — see [[works/taiwaneseamericanhistory-org/113-e7-b4-80-e5-bf-b5228-e5-9c-a8-e7-b4-90-e7-b4-84-e6-9d-8e-e6-ad-a3-e4-b8-8920|紀念228在紐約]]. Corroborates his NY-area 228 commemoration activism alongside his 228受難家屬 background.
 
 ## Sources
 - [TAH #201 encyclopedia: 201. Cheng-San Lee 李正三](https://taiwaneseamericanhistory.org/201-cheng-san-lee/)
