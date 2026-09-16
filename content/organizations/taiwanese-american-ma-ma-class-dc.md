@@ -24,7 +24,7 @@ Taiwanese American Ma Ma Class is a Washington DC-area organization founded by T
 - **2020-09-30 — UN membership advocacy:** the group (signed as 華府台灣人媽媽教室) was among 16 Greater Washington Taiwanese groups — including 華府台灣同鄉會, 大華府台美人長樂會, 華府台灣信用合作社, 大華府台灣合唱團, 華府台灣學校, and 台灣人公共事務會華府/馬里蘭分會 — that issued a joint statement supporting Taiwan's bid to join the United Nations ([[articles/taiwanjustice-net/2020/20201113055311_2020_09_30_大華府僑團聯合聲明-挺台灣加入聯合國_ded546e367fc6fe0|大華府僑團聯合聲明：挺台灣加入聯合國]]). HOLD: conflict in the group's rendered name — directory page 大華府區台美人媽媽教室 vs statement signing 華府台灣人媽媽教室 (word order 台美人 vs 台灣人); likely the same org, not merged.
 
 ## Corpus re-check (2026-09-16)
-Re-grep 媽媽教室|Ma Ma Class against content/works + content/articles returned only the group's own directory record and the 2020-09-30 大華府僑團聯合聲明 — both already wikilinked above. The signing-name discrepancy (大華府區台美人媽媽教室 vs 華府台灣人媽媽教室) remains on HOLD; no auto-merge, no new community facts absorbable.
+Re-grep 媽媽教室|Ma Ma Class against content/works + content/articles returned only the group's own directory record and the 2020-09-30 大華府僑團聯合聲明 — both already wikilinked above. The signing-name discrepancy (大華府區台美人媽媽教室 vs 華府台灣人媽媽教室) remains on HOLD; no auto-merge, no new community facts absorbable. SKIP-no-new-material (deepen-x slice 25).
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-american-ma-ma-class-dc/)
