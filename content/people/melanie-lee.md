@@ -41,6 +41,7 @@ Accomplishment
 - Community record: the vault's person record places her in New York（2020-06-01 刊載），consistent with her NYC school-leadership career.
 - Columbia 在校參與：紀錄載其任校內台灣學生社團會長 — [[organizations/columbia-university-taiwanese-american-students-association||Columbia University Taiwanese American Students Association]]
 - 複核（deepen-x 2026-09-16）：corpus re-grep（李玫蘭 / Melanie Lee）命中之四個 work 頁全部已於上列記錄，無新增材料。#337 全題補充校名細節：Queens High School **for** Language Studies, Flushing, NY（2013 創校首任校長）— 與本頁「Founder/First Principal」一致，屬名稱異寫而非日期衝突。
+- 再複核（slice 09160600-24，2026-09-16）：命中同前（#211／#1880／#337／person record + works index），全部已連結；均為 band-B 書目紀錄，無可吸收之新社區事實。SKIP-with-reason。
 
 ## Sources
 - [TAH #211 encyclopedia: 211. Melanie Lynn Lee 李玫蘭](https://taiwaneseamericanhistory.org/211/)
