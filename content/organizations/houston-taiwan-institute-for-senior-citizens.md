@@ -22,7 +22,7 @@ The Houston Taiwan Institute for Senior Citizens is a nonprofit educational inst
 - Registered in the TAH movement record as its own entry: [[works/taiwaneseamericanhistory-org/houston-taiwan-institute-for-senior-citizens|9. Houston Taiwan Institute for Senior Citizens 休士頓台灣松年學院 (directory record)]].
 - The corpus preserves a dedicated record of its programming: [[works/taiwaneseamericanhistory-org/activities-of-htisc|休士頓台灣松年學院的活動 (Activities of HTISC)]].
 - Community fundraising extends beyond the classroom: the institute sponsors its own golf event, [[works/taiwaneseamericanhistory-org/houston-taiwan-institute-for-senior-citizens-htisc-cup-golf-tournament|HTISC Cup Golf Tournament 松年杯高爾夫球賽]].
-- Annual benefit concerts are documented in the performing-arts corpus: [[works/taiwaneseamericanhistory-org/concerts106|106. HTISC Benefit Concert 休士頓台灣松年學院年度音樂會 (Houston, 09/29/17)]] and [[works/taiwaneseamericanhistory-org/musical-concerts-167|musical concerts #167]].
+- Annual benefit concerts are documented in the performing-arts corpus across at least the 2017–2020 seasons: [[works/taiwaneseamericanhistory-org/concerts106|106. HTISC Benefit Concert 休士頓台灣松年學院年度音樂會 (Houston, 09/29/17)]] and [[works/taiwaneseamericanhistory-org/musical-concerts-167|167. 休士頓台灣松年學院社區音樂會-弦舞春風 (Houston, 02/09/2020)]].
 - Profiled in the movement journal: [[works/taiwaneseamericanhistory-org/ourjourneys298|298. Houston Taiwan Institute for Senior Citizens 休士頓松年學院 (06/2017)]].
 
 ## Sources
