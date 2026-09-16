@@ -50,5 +50,5 @@ _No filled family fields on the TAH profile._
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
-## Corpus re-grep (2026-09-16)
-- SKIP: 再grep語料僅見已吸收之 ourjourneys162 中/EN（2009-09-19 台灣中心開幕）及 works index，無新語料可吸收。
+## Corpus re-grep (2026-09-16, slice 09160500-28)
+- Re-grep 'Ted Fan|范少達' against content/works + content/articles: hits = ourjourneys162 中/EN (already absorbed in Role in the Community above), the works index, and his own TAH encyclopedia record [[works/taiwaneseamericanhistory-org/111-dr-ted-fan|TAH #111: Dr. Ted Fan 范少達博士]] (published 2018-09-26, band-B bibliographic stub — full text stays in the TAH vault), now wikilinked. No other community facts absorbable; no conflicts to hold.
