@@ -56,3 +56,6 @@ _No filled family fields on the TAH profile._
 
 ## Corpus re-grep (deepen-x slice 09160500-17)
 - 2026-09-16: hit set unchanged -- own already-linked TAH records + works/index catalog rows only. No new community/corpus facts absorbable. SKIP-with-reason; no conflicts to HOLD.
+
+## Corpus re-grep (deepen-x slice 09160600-12)
+- 2026-09-16: hit set unchanged — own already-linked TAH records + works/index catalog rows only. No new community/corpus facts absorbable. SKIP-with-reason; no conflicts to HOLD; last_reviewed already 2026-09-16.
