@@ -44,6 +44,7 @@ Deputy Attorney General
 - Profile records in the corpus: [[works/taiwaneseamericanhistory-org/ota-292|292. Peggy Huang 黃瑞雅]]（published 2019-06-25）· [[works/taiwaneseamericanhistory-org/whos-who-2199-peggy-huang|2199. Peggy Huang 黃瑞雅]] · [[works/taiwaneseamericanhistory-org/peggy-huang|Peggy Huang 黃瑞雅 in S. CA]]（published 2020-06-27）.
 - Irvine church shooting coverage in the corpus record [[works/taiwaneseamericanhistory-org/our-journeys-380|our-journeys-380]] was published 2022-05-18; the shooting itself occurred 2022-05-15 at Irvine台灣基督長老教會 (congregation largely retired Taiwanese Americans near Laguna Woods). Her OC Register quotation survives verbatim in that record: "There is a lot of grief and disbelief among the congregation… This was supposed to be a joyous occasion," attributed there to "Yorba Linda councilwoman Peggy Huang, who is Taiwanese American". The work page's Subjects section reciprocally links this page.
 - Corpus re-check 2026-09-16 (deepen-x slice 29): grep 黃瑞雅|Peggy Huang across works+articles returns only the five records already linked above plus the works index; no further memoir material. Details above absorbed from our-journeys-380's full text.
+- Corpus re-check 2026-09-16 (slice 09160316-17): identical hit set (ota-292, whos-who-2199, ms-peggy-huang-for-u-s-representatives, our-journeys-380, peggy-huang, index) — all already cited above. SKIP-with-reason; no conflicts to HOLD.
 
 ## Sources
 - [TAH #292 encyclopedia: 292. Peggy Huang 黃瑞雅](https://taiwaneseamericanhistory.org/ota-292/)
