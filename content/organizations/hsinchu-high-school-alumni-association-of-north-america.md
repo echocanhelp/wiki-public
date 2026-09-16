@@ -27,6 +27,7 @@ Corpus re-check (deepen-x slice 09160109-9, 2026-09-16): grep 北美新竹中學
 Corpus re-check (deepen-x slice 09160316-5, 2026-09-16): grep 北美新竹中學校友會 / Hsinchu High School Alumni (excluding own pages and index) returns zero new hits — no material beyond the already-wikilinked set; SKIP, no new absorbable facts.
 Corpus re-check (deepen-x slice 09150700-14, 2026-09-15): grep for 北美新竹中學校友會 / Hsinchu High School Alumni returns the same hit set — the 2017 profile, the #231/#232 Franklin Lee records, the 會訊 newsletter record, and the works index — all already wikilinked above. No new absorbable material.
 Corpus re-check (deepen-x slice 09160400-4, 2026-09-16): grep 北美新竹中學校友會 / Hsinchu High School Alumni returns #231/#232 Franklin Lee records + works/index only (own profile/newsletter pages excluded) — all already wikilinked. SKIP, no new absorbable material.
+Corpus re-check (deepen-x slice 09160500-1, 2026-09-16): grep 北美新竹中學校友會 / Hsinchu High School Alumni (excluding own pages) returns #231/#232 Franklin Lee records + works/index — identical hit set, all already wikilinked above (含 1993 大費城分會先於 2004 北美總會之_sequence)。SKIP, no new absorbable material.
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/hsinchu-high-school-alumni-association-of-north-america/)
