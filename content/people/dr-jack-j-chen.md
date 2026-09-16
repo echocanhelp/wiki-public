@@ -59,3 +59,6 @@ resweep: deepen-x-09160400-21
 
 ## Corpus re-grep (deepen-x slices 09160109-20, 09160316-19)
 - 2026-09-16 複核：以 Dr. Jack J. Chen／陳宏傑 重搜 content/works + content/articles，命中集不變——僅本頁已連結之書目頁 TAH #217（[[works/taiwaneseamericanhistory-org/53015|53015]]）／#642／#862（band B）與 works/index 彙整行，無回憶錄／社群事蹟材料可吸收。SKIP-with-reason；無衝突需 HOLD（雙親頁關聯已吸收）。
+
+## Corpus re-grep (deepen-x slice 09160400-21)
+- 2026-09-16: hit set unchanged -- only the person's own already-linked TAH bibliography pages (band B) and works/index catalog rows. No memoir/community material to absorb. SKIP-with-reason; no conflicts to HOLD.

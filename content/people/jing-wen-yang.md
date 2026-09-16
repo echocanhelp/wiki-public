@@ -30,6 +30,7 @@ last_reviewed: 2026-09-16
 - Literary contributor to the TAH encyclopedia: [[works/taiwaneseamericanhistory-org/148-e4-bf-97-e8-aa-9e-e7-ac-91-e8-a9-b1-e6-a5-8a-e6-99-af-e6-96-87-2000-11-e6-96|148.俗語笑話 (2000.11, 文學)]], [[works/taiwaneseamericanhistory-org/114-e6-9c-9d-e6-b0-a3-e8-a9-a9-e6-ad-8c-e6-a5-8a-e6-99-af-e6-96-87-2002-02-e6-96|114. 朝氣詩歌 (2002.02, 文學)]], and [[works/taiwaneseamericanhistory-org/113-e7-94-b1-e6-ad-b7-e5-8f-b2-e5-9c-b0-e7-90-86-e7-a4-be-e6-9c-83-e8-83-8c-e6-9|113. 由歷史地理社會背景看吳鳳 (2004.01, 傳記)]].
 - HOLD: TAH profile era listed as 1924 vs Who's Who card 364 dated 2015-04 — birth-year field unverified, left as-is.
 - Corpus re-grep 2026-09-16 (slice 09160316-24): hits are only own TAH #364 record, the three wikilinked literary works (#148/#114/#113), the already-absorbed Our Journeys #296 緣起, and the works index. No new community facts; no conflicts. SKIP this pass.
+- Corpus re-grep 2026-09-16 (slice 09160400-22): hit set unchanged (#364, #148/#114/#113, Our Journeys #296, index). Nothing absorbable; no conflicts. SKIP.
 
 ## Family
 
