@@ -33,6 +33,8 @@ Father Brendan O’Connell 甘惠忠神父 – History of Taiwanese American (T.
 ## Role in the Community
 Corpus check (2026-09-15, slice deepen-x-32): the only substantive local record is the TAH Who's Who entry itself, held at [[works/taiwaneseamericanhistory-org/whos-who-2255-father-brendan-oconnell|TAH #2255 甘惠忠神父]] (published 2020-04-20, bibliographic record — full text stays in the vault). No memoir or article mentions found in works/articles; remaining "Brendan" grep hits were false positives (Brendan Fraser, Brendan Carr FCC, Australian MP Brendan O'Connor). Absorbed community facts already on page: founded 瑞復益智中心 St. Raphael Opportunity Center (1976), directed 德蘭啟智中心 St. Theresa Opportunity Center (1988), founded Bethlehem Foundation (1996), honorary director of the Asian Alliance for the Intellectually Deficient — a New York Catholic priest's lifelong service to intellectually disabled children in Taiwan, recognized in the Taiwanese American community record.
 
+Corpus check (2026-09-16, slice deepen-x-30): re-grepping under the Chinese name 甘惠忠 surfaced press mentions the English-name grep had missed, in [[articles/taiwanjustice-net/2020/20200620214142_category_culture_page_2_83806e4281c73df1|台灣正義網文化類]] and [[articles/taiwanjustice-net/2020/20200623145926_category_videos_民視台灣學堂_page_2_1e769380e3de4acb|民視台灣學堂類]]: 甘惠忠神父奉獻台灣半世紀，於紐約過世，享壽84歲 (reported 2020-04-16), and 民視台灣學堂 這些人這些事: 令人懷念的早療先驅甘惠忠神父 — 盧俊義 (aired 2020-06-01), commemorating him as a pioneer of early-intervention therapy (早療) in Taiwan. Community memory thus frames him primarily as 早療先驅 — the early-education/early-therapy pioneer behind 瑞復益智中心 and 德蘭啟智中心 — rather than by his New York credentials alone.
+
 ## Family
 
 _No filled family fields on the TAH profile._
