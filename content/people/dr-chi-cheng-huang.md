@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-15
+last_reviewed: 2026-09-16
 ---
 # Dr. Chi-Cheng Huang (黃至成醫師)
 
@@ -41,6 +41,7 @@ Accomplishment
 - HOLD: org name conflict — TAH profile says "Kaya Children International", the 2014 corpus essay says "Kaya International"; not merged.
 - Entered the movement's cultural record: at the Taiwanese American Community Center grand-opening concert (李智惠 recital), her song 孩子們 was composed from Dr. 黃至成's story ([[works/taiwaneseamericanhistory-org/ourjourneys162|Our Journeys 162 — center grand opening]]).
 - Cited in the second-generation survey of outstanding Taiwanese American physicians alongside surgeon Bernard Lee ([[works/taiwaneseamericanhistory-org/ourjourneys291|Our Journeys 291]]).
+- Left a first-person memoir in the corpus: 673. 黃至成醫師的人生故事 (2019.01) — [[works/taiwaneseamericanhistory-org/mystories-673|673. 黃至成醫師的人生故事]].
 
 ## Sources
 - [TAH #236 encyclopedia: 236. Dr. Chi Cheng Huang 黃至成醫師](https://taiwaneseamericanhistory.org/ota-236/)
