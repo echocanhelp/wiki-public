@@ -52,3 +52,4 @@ _No filled family fields on the TAH profile._
 - Corpus re-check 2026-09-16 (deepen-x slice 09160316-16): re-grepped Amanda/Amenda Wu — same hit set (#165, #322, works/index only); no memoir/community passages. SKIP-with-reason; Amenda Wu duplicate HOLD stands.
 - Corpus re-check 2026-09-16 (deepen-x slice 09160400-15): re-grepped Amanda/Amenda Wu — same hit set (#165, #322, works/index only); no memoir/community passages. SKIP-with-reason; Amenda Wu duplicate HOLD stands.
 - Corpus re-check 2026-09-16 (deepen-x slice 09160500-13): re-grepped Amanda/Amenda Wu across works+articles — hit set unchanged (#165, #322, works/index); no memoir/community passages. SKIP-with-reason; Amenda Wu duplicate HOLD stands.
+- Corpus re-check 2026-09-16 (deepen-x slice 09160600-9): re-grepped Amanda/Amenda Wu across works+articles - hit set unchanged (#165, #322, works/index only); no memoir/community passages. SKIP-with-reason; Amenda Wu duplicate HOLD stands.
