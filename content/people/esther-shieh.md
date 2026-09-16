@@ -75,3 +75,6 @@ _No filled family fields on the TAH profile._
 
 ## Deepen pass (2026-09-16, slice 09160500-7)
 - SKIP-with-reason（九度確認）：語料庫檢索命中集不變（僅本人書目頁 #250、#510 及 works/index），無回憶錄或社群新材料。
+
+## Deepen pass (2026-09-16, slice 09160600-3)
+- SKIP-with-reason（十度確認）：語料庫檢索命中集不變（僅本人書目頁 #250、#510 及 works/index 目錄列項），無回憶錄或社群新材料。

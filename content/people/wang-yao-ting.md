@@ -76,3 +76,4 @@ Pages that link to **wang-yao-ting** (wang-yao-ting):
 - [[people/zhou-wei-lin||周威霖 (Zhou Wei-lin)]]
 - 語料庫再檢 slice 12（2026-09-16）：命中集合不變（[[works/taiwaneseamericanhistory-org/whoswho1133|#1133]] + works/index 目錄行）。內容級 grep 確認 #1133 僅為書目紀錄，無回憶錄/社區紀錄提及，維持 SKIP，無衝突需 HOLD。
 - 語料庫再檢 slice 09160500-10（2026-09-16）：命中集合不變（[[works/taiwaneseamericanhistory-org/whoswho1133|#1133]] + works/index 目錄行；相鄰 #1132 王燕山為另一人，勿混淆）。語料庫無回憶錄/社區紀錄提及本人，維持 SKIP-with-reason，無衝突需 HOLD。
+- 語料庫再檢 slice 09160600-5（2026-09-16）：命中集合不變（[[works/taiwaneseamericanhistory-org/whoswho1133|#1133]] 書目紀錄 + works/index 目錄行；王耀廷/Wang Yao-ting/Y. T. Wang 三式皆檢）。語料庫無回憶錄/社區紀錄提及本人，維持 SKIP-with-reason，無衝突需 HOLD。

@@ -42,6 +42,7 @@ Accomplishment
 - Corpus re-check 2026-09-16 (deepen-x slice 09160316-16): re-grepped 蔡武男/Bernard Tsai — same six hits, all already absorbed; the #74 EN recruitment passage pairs his name with "C. S. Hwang in Michigan" (a note that belongs on the Hwang page, now recorded there). No new facts for this page.
 - Corpus re-check 2026-09-16 (deepen-x slice 09160400-14): same six hits; #217 passage re-read and the church's donation-negotiation delegation (王能祥/凌光雄/王偉國/劉德勇 + 王清珠 meeting, Rockville parcel appreciation) absorbed into Role in the Community. No other new facts.
 - Corpus re-check 2026-09-16 (deepen-x slice 09160500-8): re-grepped 蔡武男／Bernard Tsai — same six hits (#138, #74 ZH+EN, #1804, #256, #217), all already absorbed above. SKIP-with-reason; no new facts.
+- Corpus re-check 2026-09-16 (deepen-x slice 09160600-5): re-grepped 蔡武男／Bernard Tsai — same six hits, all previously absorbed (#138 membership roll, #74 recruitment passage pairing 華府蔡武男 with 楊次雄/黃昭/林靜竹/陳惠亭, #256 華府同鄉會 fundraising acknowledgment, #217 建堂委員會/世界和平協會 land negotiation, #1804 bibliographic). SKIP-with-reason; no new facts.
 
 ## Family
 
