@@ -74,3 +74,4 @@ Pages that link to **wang-yao-ting** (wang-yao-ting):
 - [[people/yang-jia-you||楊嘉猷 (Charles Yang)]]
 - [[people/zheng-bing-quan||鄭炳全 (Zheng Bingquan)]]
 - [[people/zhou-wei-lin||周威霖 (Zhou Wei-lin)]]
+- 語料庫再檢 slice 12（2026-09-16）：命中集合不變（[[works/taiwaneseamericanhistory-org/whoswho1133|#1133]] + works/index 目錄行）。內容級 grep 確認 #1133 僅為書目紀錄，無回憶錄/社區紀錄提及，維持 SKIP，無衝突需 HOLD。
