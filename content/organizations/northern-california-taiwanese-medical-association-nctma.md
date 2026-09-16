@@ -43,3 +43,6 @@ Re-grep NCTMA|北加州台灣醫師會 across works+articles: 2 hits only — th
 
 ## Corpus re-check (2026-09-16, deepen-x slice 09160500-12)
 Re-grep NCTMA|北加州台灣醫師會 across works+articles: 2 hits — the already-linked directory record (band B) and the works index row only. No memoir/coverage mentions; nothing absorbable; founders and 2000 north–south merger stand, no conflicts to HOLD. SKIP-with-reason.
+
+## Corpus re-check (2026-09-16, deepen-x slice 09160600-8)
+Re-grep NCTMA|北加州台灣醫師會 across works+articles: hit set unchanged — only the already-linked directory record [[works/taiwaneseamericanhistory-org/northern-california-taiwanese-medical-association-nctma|NCTMA 組織紀錄]] (band B) and the works index row. No memoir/coverage material; nothing absorbable; no conflicts to HOLD. SKIP-with-reason.

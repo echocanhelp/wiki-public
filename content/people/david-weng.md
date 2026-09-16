@@ -47,6 +47,7 @@ His own encyclopedia record is preserved at [[works/taiwaneseamericanhistory-org
 - Corpus re-sweep 2026-09-16 (slice 21): re-grep 翁嘉盛/David Weng — hit set unchanged (ourjourneys53 ZH+EN founding roster & site-search narrative, ourjourneys24 ZH+EN 籌備會 roster, ourjourneys38, own record TAH #1870). Roster detail re-confirmed: 張信行與陳德輝邀集的創會友名單及籌備委員名單均載翁嘉盛, but no facts beyond what is absorbed above. **SKIP: no new absorbable facts**, no conflicts to HOLD.
 - Corpus re-sweep 2026-09-16 (slice 16): re-grep 翁嘉盛/David Weng — hit set unchanged (ourjourneys53/24/38 ZH+EN rosters & narrative, own record TAH #1870). **SKIP: no new absorbable facts**, no conflicts to HOLD.
 - Corpus re-sweep 2026-09-16 (slice 09160500-13): re-grep 翁嘉盛/David Weng — hit set unchanged (ourjourneys53 ZH+EN, ourjourneys24 ZH+EN, ourjourneys38, TAH #1870). Rosters re-confirmed in full (黃美星 memoir's founding list 陳德輝、邱俊邦、林典謨、翁嘉盛、石清正、施天墩、陳光博、李華林、張祿生, and 張信行's 籌備會 roster with 張祿生、陳德輝、陳光博、李華林、林典謨、施天墩、石清正) — all already covered above. **SKIP: no new absorbable facts**, no conflicts to HOLD.
+- Corpus re-sweep 2026-09-16 (slice 09160600-6): re-grep 翁嘉盛/David Weng — hit set unchanged (ourjourneys53 ZH+EN, ourjourneys24 ZH+EN, ourjourneys38, TAH #1870); all founding/籌備會/site-search facts already absorbed in Role in the Community. **SKIP: no new absorbable facts**, no conflicts to HOLD.
 
 
 ## Sources

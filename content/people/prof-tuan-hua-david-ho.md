@@ -60,3 +60,4 @@ _No filled family fields on the TAH profile._
 - 再核（deepen-x slice 09160316-12, 2026-09-16）：命中集不變（僅 #1794 書目頁 + works/index），無回忆录語料，維持 SKIP-with-reason。
 - 再核（deepen-x slice 09160400-11, 2026-09-16）：賀端華／Tuan-Hua 命中集不變（僅 [[works/taiwaneseamericanhistory-org/whos-who-1794-tuan-hua-ho|#1794]] 書目頁 + works/index），無可吸收社群語料，無衝突可 HOLD，維持 SKIP-with-reason。
 - 再核（deepen-x slice 09160500-9, 2026-09-16）：賀端華／Tuan-Hua 精確命中集不變；「David Ho」寬泛命中另屬同名人物（[[works/taiwaneseamericanhistory-org/whos-who-196-david-ho|#196 何大一]]、#118、[[works/taiwaneseamericanhistory-org/whos-who-1892-david-hong|David Hong]] 等），本页早已歧义标注，非本人语料。维持 SKIP-with-reason。
+- 再核（deepen-x slice 09160600-3, 2026-09-16）：賀端華／Tuan-Hua 命中集不變（僅 #1794 書目頁 + works/index），無社群語料可吸收，維持 SKIP-with-reason。
