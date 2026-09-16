@@ -59,6 +59,7 @@ Re-grepped 吳青芳 / Judy Ching Fang across content/works + content/articles: 
 Re-grep 2026-09-16 (deepen-x slice 20): identical — own records #143/#258 + works index only. SKIP-no-new-material.
 Re-grep 2026-09-16 (deepen-x slice 09160600-11): identical — own records #143/#258 + works index only. SKIP-no-new-material; no conflicts to HOLD.
 Re-grep 2026-09-16 (deepen-x slice 09160500-18): identical — own records [[works/taiwaneseamericanhistory-org/143-judy-ching-fang-wu-e5-90-b3-e9-9d-92-e8-8a-b3-cello-201502|#143]]、[[works/taiwaneseamericanhistory-org/258-judy-ching-fang-wu-e5-90-b3-e9-9d-92-e8-8a-b3-201502|#258]] (band B) + works index only; adjacent same-day index entries (Bonnie Yang 陳佳芬, James Yang 楊明仁) do not name her. SKIP-no-new-material; no conflicts to HOLD.
+Re-grep 2026-09-16 (deepen-x slice 09160700-9): identical — own records #143/#258 + works index only. SKIP-no-new-material; no conflicts to HOLD.
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
