@@ -56,3 +56,4 @@ this record captures only the historically-anchored subset linked from Tier1.
 - 五檢核（slice 09150700-10, 2026-09-15，SKIP）：`works/`＋`articles/` 重跑檢索（penghu.info／澎湖知識／澎湖記憶庫，case-insensitive）零命中，回憶錄語料仍無提及，無可吸收事實。
 - 六檢核（slice 09160109-7, 2026-09-16，SKIP）：`works/`＋`articles/` 重跑檢索（penghu.info／澎湖知識／澎湖記憶庫）零命中，回憶錄語料仍無提及，無可吸收事實。
 - 七檢核（slice 09160316-5, 2026-09-16，SKIP）：`works/`＋`articles/` 重跑檢索（penghu.info／澎湖知識／澎湖記憶庫，case-insensitive，排除 index）零命中，回憶錄語料仍無提及，無可吸收事實；引用面維持現況。
+- 八檢核（slice 09160400-3, 2026-09-16，SKIP）：`works/`＋`articles/` 重跑檢索（penghu.info／澎湖知識／澎湖記憶庫）零命中；僅澎湖作為地名出現於回憶錄（Our Journeys #81 1965威大国旗遊行澎湖意象、#85 Edward Chen 澎湖出生），屬他頁事实，非本平台可吸收之社群記錄；無可吸收事實。

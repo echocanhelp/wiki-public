@@ -61,6 +61,8 @@ Re-check (slice 09160109-11, 2026-09-16): grep re-run — hit set unchanged (#48
 
 Re-check (slice 09160316-9, 2026-09-16): grep re-run — hit set unchanged (#48, #546, works index only). SKIP: press-kit biography only, nothing absorbable.
 
+Re-check (slice 09160400-8, 2026-09-16): grep re-run — hit set unchanged (#48, #546, works index only). SKIP: press-kit biography only, no memoir or movement-record content to absorb.
+
 ## Sources
 - [TAH #546 encyclopedia: 546. Jecoliah Wang 王欣慈 / 2015/08](https://taiwaneseamericanhistory.org/546-jecoliah-wang-%e7%8e%8b%e6%ac%a3%e6%85%88-201508/)
 - [TAH #48 encyclopedia: 48. Jecoliah Wang 王欣慈, Violinist/2014/10](https://taiwaneseamericanhistory.org/48-jecoliah-wang-%e7%8e%8b%e6%ac%a3%e6%85%88-violin/)

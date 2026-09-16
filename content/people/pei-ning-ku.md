@@ -68,3 +68,6 @@ _No filled family fields on the TAH profile._
 
 ## Corpus check（2026-09-16, slice 09160316-10）
 - 語料庫七檢：命中僅 #202（誤配頁，已備註）、#114 本人記錄及 works/index 目錄列項，與前六次一致，回憶錄無他人記述。維持 SKIP-with-reason。
+
+## Corpus check（2026-09-16, slice 09160400-9）
+- 語料庫八檢：命中僅 #202（誤配頁，已備註）、#114 本人記錄及 works/index 目錄列項，與前七次一致，回憶錄無他人記述。維持 SKIP-with-reason。
