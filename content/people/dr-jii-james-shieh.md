@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-14
+last_reviewed: 2026-09-16
 ---
 # Dr. Jii James Shieh (謝己博士)
 
@@ -34,6 +34,7 @@ Dr. Jii (James) Shieh 謝己博士 – History of Taiwanese American (T.A. Archi
 ## Role in the Community
 - Oral-history subject: TAH Taiwanese Americans Oral History Project interview [[works/taiwaneseamericanhistory-org/video-185|185. President of TAAGPC –謝己 James Jii Shieh's Journey]] (2025) records his leadership as President of the Taiwanese Association of America, Greater Philadelphia Chapter (TAAGPC, 2024) and Chairman of the Taiwanese American Conference East Coast (TAC/EC, 2024), on his journey of leadership and vision for empowering future generations.
 - Long-standing technical backbone of the TAC East Coast Summer Convention (美東夏令會): credited in [[works/taiwaneseamericanhistory-org/ourjourneys159|Our Journeys #159]] for running the computer/AV operations — troubleshooting equipment alongside the organizer, enabling the student-movement (服貿/學運) discussion panel to start on time, and co-operating the 台灣之夜 stage program (with 蔡宗元) despite last-minute CD failures.
+- 2017-07-04, at the closing of the 2017 TAC/EC 美東台灣人夏令會, the TAC/EC flag was handed to him as 召集人 of the 2018 convention (alongside incoming 理事長 翁進治) — the 2018 美東夏令會 was taken over by the Philadelphia/Delaware (費城/德拉瓦) community, which he convened. Reported by 楊遠薰: [[articles/taiwanjustice-net/20211205054150_2017_07_10_2017年美東台灣人夏令會-_-楊遠薰-報導-2017-07-09_29faf54b8c9e2d10|2017年美東台灣人夏令會 / 楊遠薰 / 2017-07-09]].
 - Consistent with his TAH profile's community roles: TAA Greater Philadelphia Area President and TAC/EC TANG Coordinator.
 
 ## Family
