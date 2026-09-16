@@ -64,3 +64,4 @@ _No filled family fields on the TAH profile._
 - 再核（deepen-x slice 09160400-11, 2026-09-16）：命中集不變（僅 #225／#465 書目頁 + works/index），無回憶錄社群語料，無衝突可 HOLD，維持 SKIP-with-reason。
 - 再核（deepen-x slice 09160500-10, 2026-09-16）：命中集不變（僅 [[works/taiwaneseamericanhistory-org/225-chi-yin-chen-violinist-201506|#225]]／[[works/taiwaneseamericanhistory-org/465-chi-yin-chen-201506|#465]] 書目頁 + works/index），內容級 grep 確認無正文可吸收，維持 SKIP-with-reason，無衝突需 HOLD。
 - 再核（deepen-x slice 09160600-5, 2026-09-16）：命中集不變（僅 #225／#465 書目頁 + works/index），無回憶錄社群語料可吸收，維持 SKIP-with-reason，無衝突需 HOLD。
+- 再核（deepen-x slice 09160700-2, 2026-09-16）：命中集不變（僅 #225／#465 書目頁 + works/index），無正文可吸收，維持 SKIP-with-reason，無衝突需 HOLD。

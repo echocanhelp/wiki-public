@@ -81,3 +81,6 @@ _No filled family fields on the TAH profile._
 
 ## deepen 2026-09-16 (slice 09160600-4)
 - corpus re-grep: hit set unchanged (own #295, #644 archive pages only), no third-party accounts to absorb. SKIP-with-reason maintained.
+
+## deepen 2026-09-16 (slice 09160700-2)
+- corpus re-grep（蔡淑慧／Janet Tsai）：命中集不變（本人 #295／#644 存檔頁 + works/index），內容級抽查僅書目 Identity Snapshot，無他人記述可吸收。維持 SKIP-with-reason，無衝突需 HOLD。
