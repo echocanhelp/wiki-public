@@ -77,3 +77,4 @@ Both records are band-B bibliographic entries (full text stays with TAH), so the
 - SKIP-with-reason（slice 09150600-11, 2026-09-15）：語料庫第四次復核，命中集不變（僅 #289／#573 書目頁與 works index），無回憶錄材料可吸收。
 - SKIP-with-reason（slice 09150700-8, 2026-09-15）：語料庫第五次復核，排除本人書目頁後命中為零，無回憶錄材料可吸收。
 - SKIP-with-reason（slice 09160109-5, 2026-09-16）：語料庫第六次復核，命中集不變（僅本人書目頁 TAH #289／#573 與 works index），無回憶錄材料可吸收，維持 SKIP。
+- SKIP-with-reason (slice 09160316-4, 2026-09-16): seventh corpus re-check, hit set unchanged (only own bibliographic pages TAH #289/#573 and the works index); no memoir material absorbable, SKIP stands.
