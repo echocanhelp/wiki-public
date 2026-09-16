@@ -41,6 +41,7 @@ _No filled family fields on the TAH profile._
 - 2020-05 — 總統府被駭事件中，偽造文件把劉錦添寫成「總統姐夫、台大經濟系教授推薦32名閣員名單」；發言人黃重諺稱此訊息「完全杜撰」，指其從未出席府內政策會議，並稱其為「知名的計量經濟學者」：[[articles/taiwanjustice-net/2025/20251214082621_台灣總統府遭駭客入侵_文件遭變造後散佈_aff536a57f923100|台灣總統府遭駭客入侵（文件變造報導）]]、[[articles/taiwanjustice-net/2025/20251206005811_總統府遭駭_國安人士_典型認知空間作戰製造紛_3c0f5da09f6d3290|總統府遭駭（認知作戰報導）]]、[[articles/taiwanjustice-net/2024/20240228163750_root_2b8425492c65ee8e|總統府變偽造文件報導（黃重諺記者會）]]
 - Corpus re-grep (2026-09-16, deepen-x slice 24): hits unchanged — own record [[works/taiwaneseamericanhistory-org/whos-who-1633-jin-tan-liu|TAH #1633（2017-05-07, band B）]]（已列上）、works index 彙整行、及上述三篇變造文件報導（其中本 slice 新收第三篇，已補link）。無回憶錄級社群材料，無新衝突。
 - HOLD: conflict — 傳聞「總統姐夫」親屬關係 vs 總統府否認相關文件為偽造；親屬關係本身未經corp證實，不預設。
+- Corpus re-grep 2026-09-16 (slice 09160600-16): hit set unchanged（本人書目 #1633、works index、青平台顧問報導、三篇總統府變造文件報導，皆已引於上方）。SKIP — 無回憶錄級社群新材料，無新衝突。
 
 ## Sources
 - [TAH #1633 encyclopedia: 1633. Prof. Jin-Tan Liu 劉錦添教授](https://taiwaneseamericanhistory.org/whos-who-1633-jin-tan-liu/)
