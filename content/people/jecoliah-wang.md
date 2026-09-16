@@ -75,3 +75,5 @@ Re-check (slice 09160500-7, 2026-09-16): grep re-run — hit set unchanged (#48,
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - [[works/taiwaneseamericanhistory-org/546-jecoliah-wang-e7-8e-8b-e6-ac-a3-e6-85-88-201508||TAH #546: Jecoliah Wang 王欣慈]]
 - [[works/taiwaneseamericanhistory-org/48-jecoliah-wang-e7-8e-8b-e6-ac-a3-e6-85-88-violin||TAH #48: Jecoliah Wang, Violinist]]
+
+Re-check (slice 09160600-4, 2026-09-16): grep re-run - hit set unchanged (#48, #546 only). SKIP: press-kit biography only, nothing absorbable.

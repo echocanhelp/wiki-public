@@ -67,3 +67,5 @@ last_reviewed: 2026-09-16
 **SKIP 2026-09-16 (slice 09160400-10):** re-grep returned the identical 6-file hit set (private-collections-91, buiness4, 45-richard-lee, ourjourneys12, publications21, 98-mr-cheng-san-lee) — all already absorbed above; nothing new absorbable.
 
 **SKIP 2026-09-16 (slice 09160500-7):** re-grep (李正三/Cheng-San/Cheng San/Richard Lee) returned the same 6-file hit set — all already absorbed into Role in the Community; nothing new absorbable.
+
+**SKIP 2026-09-16 (slice 09160600-4):** re-grep across works+articles returned the identical 6-file hit set - all already absorbed into Role in the Community; nothing new absorbable.

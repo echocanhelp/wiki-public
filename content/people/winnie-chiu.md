@@ -59,3 +59,4 @@ Her 1987–1995 St. Louis service as pianist sits alongside the vault's church-p
 - 語料庫五核（deepen-x slice 09160316-12，2026-09-16）：命中集合不變（僅本人 #730／#320 存檔頁 + works/index 目錄列項），回忆录無可吸收之社群事實，維持 SKIP-with-reason。
 - 語料庫六核（deepen-x slice 09160400-11，2026-09-16）：藍月卿／Winnie Chiu 命中集合不變（僅本人 #730／#320 存檔頁 + works/index），無可吸收社群語料，無衝突可 HOLD，維持 SKIP-with-reason。
 - 語料庫七核（deepen-x slice 09160500-8，2026-09-16）：藍月卿／Winnie Chiu 命中集合不變（僅本人 #730／#320 存檔頁 + works/index 目錄列項），維持 SKIP-with-reason。
+- 語料庫八核（deepen-x slice 09160600-6，2026-09-16）：命中集合不變（僅本人 #730／#320 存檔頁 + works/index），回忆录無可吸收社群事實，維持 SKIP-with-reason。

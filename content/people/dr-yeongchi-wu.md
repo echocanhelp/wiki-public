@@ -54,3 +54,5 @@ _No filled family fields on the TAH profile._
 
 ## Corpus re-grep (slices through 09160500-14, 2026-09-16)
 Re-grepped Yeongchi Wu / 吳永吉 across content/works + content/articles: hit set unchanged — his own TAH records (#67, #122, #125, #126) plus *Our Journeys* 256/291, all already absorbed into Role in the Community above. New this slice: a 台灣公義報 essay hit (陳東榮醫師 on 普世醫學) absorbed above. No conflicts. Re-verified (deepen-x slice 09160500-14, 2026-09-16).
+
+Re-verified (slice 09160600-4, 2026-09-16): re-grep hit set unchanged (own TAH records + Our Journeys 256/291), all absorbed above. No conflicts, nothing new.
