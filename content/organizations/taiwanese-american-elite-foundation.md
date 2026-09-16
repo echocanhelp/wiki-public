@@ -27,7 +27,7 @@ The Taiwanese-American Elite Foundation (台美智庫基金會) is an organizati
 - 創辦人：[[people/professor-schuman-s-tu||杜新茂（Schuman Tu）]]（TAH #97 伯樂計畫一文作者）與 [[people/liao-shu-zong||廖述宗]]（1931–2017，生化學家、NATPA 創辦人；詳見該頁）
 - 勿與加州組織 [[organizations/taiwan-elite-alliancetea||Taiwan Elite Alliance TEA（優社）]] 混淆：TEA 2000 年由 Josephine Pan 於加州成立、2007 年立案，旨趣為台美藝文與人權
 - 語料庫再扫描（2026-09-14 起四次複核，含 slice -20）：唯一命中即書目頁 [[works/taiwaneseamericanhistory-org/5-taiwanese-american-ellite-foundation||TAH #5]]（2014-10-12，band B，僅書目紀錄、無內文）及 works/index 收錄列舉，均已連結；回憶錄與社團語料無本組織記載。注意：「台美菁英」字面另命中 TAP 台美菁英協會各分會頁（如 TAH #3 奧斯丁、#4 波士頓、#5 華府分會）及 #35 西雅圖獎學金，屬不同組織（TAP ≠ 台美智庫基金會），不可混入本頁。**SKIP：無新可吸收事實。**
-- Corpus re-check 2026-09-16 (deepen-x slice 21): re-grepped 台美智庫/Elite Foundation/Ellite Foundation — same hits (bibliographic page TAH #5 + index rows only), already linked above; no memoir passages. SKIP-with-reason.
+- Corpus re-check 2026-09-16 (deepen-x slices 21 & 09160316-18): re-grepped 台美智庫/Elite Foundation/Ellite Foundation — same hits (bibliographic page TAH #5 + index rows only), already linked above; no memoir passages. Slice -18 broad grep only matched 台美 in unrelated TaiwanJustice news articles (false positives). SKIP-with-reason.
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
