@@ -26,6 +26,7 @@ The Taiwan Photography Association in Greater New York (TPAGNY) was founded in 2
 - Corpus re-check 2026-09-15 (deepen-x slice 32): re-grepped 大紐約區台灣攝影學會/TPAGNY/紐約台灣攝影學會/founder Ching-tse Lee — hits are only its own TAH directory record plus the works index. No new community facts absorbable; founding 2005 under Prof. Ching-tse Lee and the 'Photography is Mindography' philosophy stand as stated. SKIP-with-reason; no conflicts to hold.
 - Corpus re-check 2026-09-16 (deepen-x slice 23): re-grep identical — only its own directory record and the works index. SKIP-with-reason; nothing new absorbable.
 - Corpus re-check 2026-09-16 (deepen-x slice 22): re-grep 大紐約區台灣攝影學會/TPAGNY identical — own directory record + works index only. SKIP-with-reason; nothing new absorbable, no conflicts to hold.
+- Corpus re-check 2026-09-16 (deepen-x slice 20): re-grep 大紐約區台灣攝影學會/TPAGNY/紐約台灣攝影學會 identical — own directory record + works index only. SKIP-with-reason; nothing new absorbable.
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwan-photography-association-in-greater-new-york-tpagny/)

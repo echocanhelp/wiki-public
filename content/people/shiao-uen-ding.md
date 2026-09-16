@@ -51,3 +51,4 @@ _No filled family fields on the TAH profile._
 - HOLD: romanization conflict — record #64 uses "Shiau-uen Ding", record #92 uses "Shiao-Uen Ding"; both are TAH's own entries, never auto-merged.
 - Corpus re-check 2026-09-16 (deepen-x slice 23): re-grep 丁曉雯/Ding — no new hits beyond #64/#92 (other 丁 hits are unrelated 丁紀明/丁弘彬); nothing new absorbable.
 - Corpus re-check 2026-09-16 (deepen-x slice 22): re-grep 丁曉雯/Shiao-Uen/Shiau-uen Ding — hits unchanged (#64, #92, works index). SKIP-with-reason; nothing new absorbable; HOLD on romanization conflict stands.
+- Corpus re-check 2026-09-16 (deepen-x slice 20): re-grep 丁曉雯/Shiao-Uen Ding — hits unchanged (own records #64/#92 + works index only). SKIP-with-reason; nothing new absorbable.
