@@ -37,7 +37,8 @@ last_reviewed: 2026-09-14
 
 
 ## Role in the Community
-- **社區健康推廣：** At the community Our Journeys cruise summer camp, 溫碧謙醫師 taught morning tai-chi qigong on deck for two days to enthusiastic 鄉親 participants (camp speakers included 劉一德、高成炎、徐永明、林衡哲) — memoir account in [[works/taiwaneseamericanhistory-org/ourjourneys101|Our Journeys #101]]; he is cross-listed as a subject there.
+- **社區健康推廣：** At the community Our Journeys cruise summer camp, 溫碧謙醫師 taught morning tai-chi qigong on deck for two days to enthusiastic 鄉親 participants (camp speakers included 劉一德、高成炎、徐永明、林衡哲) — memoir account in [[works/taiwaneseamericanhistory-org/ourjourneys101|Our Journeys #101]]; he is cross-listed as a subject there. The memoir has the classes starting at 清晨七點 on the ship's 11th deck, with his motto 「兩天學六招，一生用不完」; the lively Q&A about the squat posture drew the crowd in and 引發許多人強身練功之興趣.
+- **複核（deepen-x 2026-09-16）：** corpus re-grep (溫碧謙 / B. C. Wen) returns exactly the four work pages already linked here — [[works/taiwaneseamericanhistory-org/whos-who-1461-b-c-wen|#1461]], [[works/taiwaneseamericanhistory-org/ota-293|#293]], [[works/taiwaneseamericanhistory-org/119-dr-wen-mbc|#119 養生功法專欄]], [[works/taiwaneseamericanhistory-org/ourjourneys101|Our Journeys #101]] — plus the harvest index. Memoir detail absorbed above; no conflicts found.
 - **專欄作者：** His wellness/qigong column 「溫醫師MBC養生功法」 is held at [[works/taiwaneseamericanhistory-org/119-dr-wen-mbc|TAH #119]] (2010/05, Life section).
 - **百科紀錄：** [[works/taiwaneseamericanhistory-org/ota-293|TAH OTA #293]] · [[works/taiwaneseamericanhistory-org/whos-who-1461-b-c-wen|TAH Who's Who #1461]].
 - Community leadership already on this page — TAA South Florida chapter president (2004), TAA Iowa chapter president, and a regional branch president of 全美客家同鄉會 — is consistent with these grassroots records.

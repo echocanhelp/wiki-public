@@ -52,5 +52,5 @@ _No filled family fields on the TAH profile._
 - 中央研究院分子生物研究所職涯 ladder：副研究員（1989–1997）→ 研究員（1997–2008）→ 傑出研究員（2008–），全履歷見上方 TAH #2045 出處。
 - 2009 年获世界工業與科技研究組織「最佳創意女科學家獎」，为本页唯一记载之获奖记录。
 
-## Corpus re-grep (2026-09-15)
-- SKIP: 再grep僅見本身TAH出處頁 whos-who-2045 及 works index，無新語料可吸收。
+## Corpus re-grep (2026-09-16)
+- SKIP: 再grep僅見本身TAH出處頁 whos-who-2045 及 works index，無新語料可吸收（2026-09-15、09-16 兩度複核同結論）。

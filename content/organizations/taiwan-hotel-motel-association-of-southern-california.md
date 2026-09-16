@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-15
+last_reviewed: 2026-09-16
 ---
 # Taiwan Hotel & Motel Association of Southern California (南加州台灣旅館業同業公會)
 
