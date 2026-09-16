@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-15
+last_reviewed: 2026-09-16
 ---
 # Prof. Chin-Pao Huang (黃金寶教授)
 
@@ -52,3 +52,4 @@ Prof. Chin-Pao Huang 黃金寶教授 – History of Taiwanese American (T.A. Arc
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- Corpus re-grep 2026-09-16 (slice 26 re-check): hit set unchanged — only this person's own TAH 百科／書目 records plus index listings; no memoir or community material, nothing absorbable, no conflicts. SKIP-no-new-material.
