@@ -35,6 +35,7 @@ Hui-Mei Lin, pianist, received her Master’s degree from the Juilliard School a
 - **Spouse cross-link:** [[people/sung-peng-hsu|徐頌鵬]] lists her as 太太; his page and this one corroborate each other.
 - Corpus re-grep 2026-09-16 (deepen-x slices 23, 25, 26): hit set unchanged (#188 portrait, ourjourneys268 memoir, ourjourneys123 Minnesota note + works index — all already cited); nothing new absorbable. Note: [[works/taiwaneseamericanhistory-org/262-amy-lin-e6-9e-97-e6-83-a0-e7-be-8e-pianist-201508|TAH #262]] / [[works/taiwaneseamericanhistory-org/557-amy-lin-e6-9e-97-e6-83-a0-e7-be-8e-201508|TAH #557]] record a *different* pianist Amy Lin 林**惠**美 (惠 vs 慧) — name collision only, not this subject; do not absorb.
 - HOLD: [[works/taiwaneseamericanhistory-org/ourjourneys123|123. 明州台美人百年大事 (2015-03)]] records 「1997 同鄉會會長林慧美」 in Minnesota; this page's subject is based in New York/Westchester — same-person identity unconfirmed in the corpus, not auto-merged.
+- Corpus re-grep 2026-09-16 (slice 09160700-17): SKIP — hit set unchanged (#188 portrait, ourjourneys268 memoir incl. the 「徐頌鵬的太太（林慧美）」 caption passage and choir roster, ourjourneys123 Minnesota note, works index). Nothing new absorbable; Minnesota HOLD stands.
 
 ## Family
 

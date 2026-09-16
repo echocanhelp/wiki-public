@@ -35,6 +35,7 @@ Accomplishment
 ## Role in the Community
 
 - 2009-09-19 — as executive director of the San Diego Taiwan Community Center (聖地牙哥台灣中心), conducted the ribbon-cutting for the center's permanent-site grand opening alongside TAFSD president Kun-Mu Chen 陳坤木 and Councilwoman Donna Frye's chief of staff Steven Hadley; delivered the indoor-ceremony welcoming speech; the event drew over 300 attendees, opened with the Naruwan Taiko Club, and honored building-remodel leaders Dr. Ming Wu 吳銘賢 and Dr. Winston Lue 呂錦文 with a plaque. Recorded in the movement archive at [[works/taiwaneseamericanhistory-org/ourjourneys162|162. 聖地牙哥台灣中心開幕典禮與慶祝音樂會]] and its English counterpart [[works/taiwaneseamericanhistory-org/ourjourneys162-eng|162 (EN)]].
+- At the same 2009-09-19 grand opening, the ceremony was co-hosted by KFMB TV news anchor Marcella Lee and TAFSD young-professional group leader Walter Chung, and the opening concert featured pianist Julie Wong and soprano Irene Lee — community figures of the San Diego Taiwanese American network preserved in the English account [[works/taiwaneseamericanhistory-org/ourjourneys162-eng|162 (EN)]].
 - Consistent with his TAH profile roles: director of the San Diego Taiwan Community Center (2004–2010), president of the Taiwanese American Foundation of San Diego (2011–2012), president of the San Diego Taiwanese Cultural Association (2002).
 
 ## Family
