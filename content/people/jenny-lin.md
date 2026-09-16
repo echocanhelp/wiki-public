@@ -51,3 +51,5 @@ _No filled family fields on the TAH profile._
 
 ## Corpus re-check (2026-09-15, re-verified 2026-09-16 slice 09160109-22)
 Re-grep 林佳靜|Jenny Lin against content/works + content/articles returned only her own already-cited TAH bibliographic records (#16, #159, #1089; the #520 record page exists on disk) plus the works index. All are wikilinked above; no memoir/community material beyond the #159 concert note already absorbed, no conflicts to hold. **SKIP：無新可吸收事實。**
+
+Re-check 2026-09-16 (deepen-x slice 22): hit-set unchanged (#16, #159, #1089, works index). **SKIP：無新可吸收事實。**

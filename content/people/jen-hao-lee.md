@@ -45,6 +45,7 @@ The FPCLA church memoir records him as the church's sixth stated pastor, serving
 
 ## Notes
 - Corpus re-check 2026-09-16 (deepen-x slice 18): re-grepped 李仁豪/Jen-Hao Lee — hit set unchanged (FPCLA 50年史 ourjourneys231 ZH+EN: sixth pastor 2014–2019, devotional materials, 港口教會 quote; mystories201 interview; #32, #160, #1022); all already absorbed. SKIP-with-reason; nothing new absorbable.
+- Corpus re-check 2026-09-16 (deepen-x slice 19): re-grepped — same hit set (ourjourneys231 ZH+EN, mystories201, artist32, musician160, whoswho1022), all already absorbed/wikilinked. SKIP-with-reason; no new corpus facts, no conflicts to HOLD.
 
 ## Sources
 - [TAH #160 encyclopedia: 160.  Rev. Dr. Jen-Hao Lee李仁豪牧師, Conductor/2015/03](https://taiwaneseamericanhistory.org/musician160-jen-hao-lee/)

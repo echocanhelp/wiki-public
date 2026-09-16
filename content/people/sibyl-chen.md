@@ -36,6 +36,7 @@ The Johns Hopkins University - Paul H. Nitze School of Advanced International St
 - TAH Who's Who entry: [[works/taiwaneseamericanhistory-org/whos1450|TAH 1450]].
 - Corpus re-sweep 2026-09-15（slice 27）：語料命中僅本頁已連結並已吸收之四頁（ourjourneys157 王淑芬宣布文、publications144、ff312、whos1450）及 works/index 收錄列舉；**SKIP：所命中語料全數已在本頁吸收**，無新事実、無衝突需 HOLD。
 - Corpus re-sweep 2026-09-16（slice 09160109-22）：命中集不變，**SKIP：無新可吸收事實。**
+- Corpus re-sweep 2026-09-16（slice 09160316-22）：命中仍為 ourjourneys157、publications144、ff312、whos1450 及 works/index，全數已吸收並連結，**SKIP：無新可吸收事實。**
 
 ## Family
 

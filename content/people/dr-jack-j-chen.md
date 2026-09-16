@@ -56,5 +56,5 @@ last_reviewed: 2026-09-16
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - 雙親：[[people/chen-zhefu-xu-chunhui||Chen Zhefu & Xu Chunhui 陳哲夫、許春惠]]（TAHS 2023 出版人物頁）
 
-## Corpus re-grep (deepen-x slice 09160109-20)
+## Corpus re-grep (deepen-x slices 09160109-20, 09160316-19)
 - 2026-09-16 複核：以 Dr. Jack J. Chen／陳宏傑 重搜 content/works + content/articles，命中集不變——僅本頁已連結之書目頁 TAH #217（[[works/taiwaneseamericanhistory-org/53015|53015]]）／#642／#862（band B）與 works/index 彙整行，無回憶錄／社群事蹟材料可吸收。SKIP-with-reason；無衝突需 HOLD（雙親頁關聯已吸收）。
