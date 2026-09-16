@@ -54,6 +54,9 @@ Her documented training and early career are centered on Austin, Texas; the vaul
 - [TAH #143 encyclopedia: 143. Judy Ching Fang Wu 吳青芳, Cellist / 2015/02](https://taiwaneseamericanhistory.org/143-judy-ching-fang-wu-%e5%90%b3%e9%9d%92%e8%8a%b3-cello-201502/)
 - [TAH Who's Who](https://taiwaneseamericanhistory.org/person/judy-ching-fang-wu/)
 
+## Corpus re-grep (2026-09-16, slice 28)
+Re-grepped 吳青芳 / Judy Ching Fang across content/works + content/articles: only her own encyclopedia records ([[works/taiwaneseamericanhistory-org/143-judy-ching-fang-wu-e5-90-b3-e9-9d-92-e8-8a-b3-cello-201502|TAH #143, Cellist, 2015-02-02 · band B]], [[works/taiwaneseamericanhistory-org/258-judy-ching-fang-wu-e5-90-b3-e9-9d-92-e8-8a-b3-201502|TAH #258, 2015-02-02 · band B]]) plus the works index catalog. Adjacent index entries (洪儷珊, Bonnie Yang 陳佳芬, James Yang 楊明仁) do not name her. No memoir/community material; nothing absorbable, no conflicts. SKIP-no-new-material.
+
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

@@ -27,6 +27,9 @@ The Taiwanese Youth Arts Foundation, Inc. (TYAF), established in 1982 and IRS-re
 - 1982 — foundation established (per TAH directory description)
 - 2015-08-13 — three encyclopedia records published: organization directory #20 plus award records #42 and #43
 
+## Corpus re-grep (2026-09-16, slice 28)
+Re-grepped 華府台灣人青少年/青年才藝基金會 / Taiwanese Youth Arts / TYAF across content/works + content/articles: hits are the organization's own directory record and its two award records already linked above ([[works/taiwaneseamericanhistory-org/42-e8-8f-af-e5-ba-9c-e5-8f-b0-e7-81-a3-e4-ba-ba-e9-9d-92-e5-b9-b4-e6-89-8d-e8-97|TAH #42 傑出青少年獎]], [[works/taiwaneseamericanhistory-org/43-e8-8f-af-e5-ba-9c-e5-8f-b0-e7-81-a3-e4-ba-ba-e9-9d-92-e5-b9-b4-e6-89-8d-e8-97|TAH #43 總統義工服務獎]]), plus the works index catalog. One apparent article hit (taiwanjustice 2024-04-25) is a false positive — "TYAF" appears only inside an archive digest hash, not as the foundation. Note: award record bodies carry mismatched internal titles (真與美(四), Chungchin Chen 陳仲欽) — a slug-collision artifact in the source harvest, recorded as-is, not resolved here. No memoir/community narrative beyond the directory description; SKIP-no-new-material.
+
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-youth-arts-foundation-washington-dc/)
 
