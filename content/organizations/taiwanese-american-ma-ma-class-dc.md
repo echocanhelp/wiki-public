@@ -32,3 +32,4 @@ Re-grep 媽媽教室|Ma Ma Class against content/works + content/articles return
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- Re-grep 2026-09-16 (deepen-x slice 23): same hit set (own directory record + 2020-09-30 聯合聲明), both already wikilinked; signing-name discrepancy (大華府區台美人媽媽教室 vs 華府台灣人媽媽教室) stays on HOLD. SKIP-no-new-material.
