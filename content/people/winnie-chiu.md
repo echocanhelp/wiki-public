@@ -55,3 +55,4 @@ Her 1987–1995 St. Louis service as pianist sits alongside the vault's church-p
 - 聖路易台灣基督長老教會 itself has no dedicated vault page; the contemporaneous St. Louis Taiwanese community is documented on [[organizations/taiwanese-association-of-america-in-greater-st-louis|TAA of Greater St. Louis]] (context only — no direct participation record for Winnie Chiu).
 - 語料庫再核（deepen-x slice-21，2026-09-15）：藍月卿／Winnie Chiu 命中集合不變，僅本人 #730／#320 存檔頁與 works/index 目錄列項，維持 SKIP-with-reason。
 - 語料庫三核（deepen-x slice-17，2026-09-15）：藍月卿／Winnie Chiu 命中集合不變，僅本人 #730／#320 存檔頁與 works/index 目錄列項，無可吸收社群語料。維持 SKIP-with-reason。
+- 語料庫四核（deepen-x slice-15，2026-09-16）：命中集合不變（僅 #730／#320 存檔頁 + works/index），維持 SKIP-with-reason。

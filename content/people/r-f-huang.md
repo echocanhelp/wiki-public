@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-15
+last_reviewed: 2026-09-16
 ---
 # R. F. Huang (許黃瑞鳳)
 
@@ -44,9 +44,7 @@ last_reviewed: 2026-09-15
 - 和平教會契友network：Our Journeys #268（自述第一屆夏令會籌備史）記載，為動員參加夏令會而利用和平契友聯絡網，紐約地區主要聯絡員為許登龍，黃瑞鳳名列紐約地區聯絡員之一 — [[works/taiwaneseamericanhistory-org/ourjourneys268|Our Journeys #268]]
 - 同文「為了寫這一篇文章」名單中作「黃瑞鳳（許登龍）」，显示其與許登龍家族之連結（隨夫姓稱呼，未自動併入姓名欄）
 - 以上為本會回憶錄所載社區組織角色，與上方 TAH 傳記（合唱/指揮生涯）互補不衝突
-- Corpus re-verified（deepen-x slice 09150500-29, 2026-09-15）：grep 命中集＝本人 TAH #409／#1710 記錄與 Our Journeys #268，全數已吸收於上；無新增社群事實。
-- Corpus re-verified（deepen-x slice 09150600-19, 2026-09-15）：命中集不變——本人 TAH #409／#1710、Our Journeys #268、works/index；社群事跡已全數吸收於上，無新增素材。
-- Corpus re-verified（deepen-x slice 09150700-15, 2026-09-15）：命中集不變（TAH #409／#1710、Our Journeys #268、works/index），無新增社群事實。
+- Corpus re-verified（自 slice 09150500-29 至 slice 09160109-13, 2026-09-16 結論一致）：grep 命中集＝本人 TAH #409／#1710、works/index，另有 Our Journeys #268（該文作「黃瑞鳳」無許姓前綴）；社群事跡已全數吸收於上，無新增社群事實。
 
 ## Sources
 - [TAH #409 encyclopedia: 409. R. F. Huang許黃瑞鳳, conductor / 07/2017](https://taiwaneseamericanhistory.org/musician409/)

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-15
+last_reviewed: 2026-09-16
 ---
 # Wen-Yin Chan (詹雯茵)
 
@@ -48,6 +48,7 @@ _No filled family fields on the TAH profile._
 - **再檢 2026-09-15：**命中僅 #104、#150 自身條目及 works/index 目錄行。維持 SKIP。
 - **再檢 slice 22（2026-09-15）：**命中集合不變（#104、#150 + works/index）。語料庫無回憶錄或社區紀錄提及，維持 SKIP。
 - **再檢 slice 19（2026-09-15）：**命中集合不變（#104、#150 + works/index）。維持 SKIP——無可吸收之社區/回憶錄語料。
+- **再檢 slice 16（2026-09-16）：**命中集合不變（#104、#150 + works/index 目錄行）。維持 SKIP——語料庫僅有自身 press-kit 條目，無回憶錄/社區紀錄可吸收。
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

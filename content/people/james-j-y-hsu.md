@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-15
+last_reviewed: 2026-09-16
 ---
 # James J. Y Hsu (許正餘博士)
 
@@ -41,7 +41,7 @@ Adjunct Professor, Department of Engineering and System Science, National Tsing 
 - **Wife:** [[people/y-h-liang||梁琰華]] — herself recorded in the corpus at [[works/taiwaneseamericanhistory-org/whoswho1471|1471. Y. H. Liang 梁琰華 (2017-01)]].
 
 
-## Corpus Re-check (slice 19, 2026-09-15)
+## Corpus Re-check (slices through 09160109-13, 2026-09-16)
 - Re-grep for 許正餘 / James J. Y Hsu returns the same corpus set already absorbed above — [[works/taiwaneseamericanhistory-org/ourjourneys26|Our Journeys #26]] (SD Taiwan Center library 建档), [[works/taiwaneseamericanhistory-org/ourjourneys352|Our Journeys #352]] (NATPA presidency, TAC-WC 2016/2017), [[works/taiwaneseamericanhistory-org/397-james-j-y-hsu-e8-a8-b1-e6-ad-a3-e9-a4-98-201505|directory record #397]], and the 台灣公義報 民富論 lecture article. No new absorbable material; no conflicts to HOLD.
 
 ## Sources

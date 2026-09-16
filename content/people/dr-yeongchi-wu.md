@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-15
+last_reviewed: 2026-09-16
 ---
 # Dr. Yeongchi Wu (吳永吉醫師)
 
@@ -51,5 +51,5 @@ _No filled family fields on the TAH profile._
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
-## Corpus re-grep (2026-09-15)
+## Corpus re-grep (slices through 09160109-13, 2026-09-16)
 Re-grepped Yeongchi Wu / 吳永吉 across content/works + content/articles: hit set unchanged — his own TAH records (#67, #122, #125, #126) plus *Our Journeys* 256/291, all already absorbed into Role in the Community above. No new community material, no conflicts.

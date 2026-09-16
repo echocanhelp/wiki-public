@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-15
+last_reviewed: 2026-09-16
 ---
 # Prof. Tsan-Iang Chuang (莊燦陽教授)
 
@@ -50,9 +50,7 @@ Chuang appears in the Band-A oral history [[works/taiwaneseamericanhistory-org/o
 
 Also recorded in TAH's own encyclopedia entry: [[works/taiwaneseamericanhistory-org/whos-who-2153-tsan-iang-chuang|2153. Prof. Tsan-Iang Chuang 莊燦陽教授]].
 
-語料庫再比對（deepen-x slice-20，2026-09-15）：命中集不變（#152 台灣寮回憶錄 + #2153 本人記錄 + works/index），上述 Role in the Community 已完整吸收 #152 記述（竹中投手、台灣寮 2452 Bancroft Way、中研院、中伊州大植物分類學、1994/05 逝世享年62、El Cerrito 墓）；無新增社群事實。
-
-語料庫再比對（deepen-x slice 09150700-15，2026-09-15）：命中集不變（#152 + #2153 + works/index），素材已全數吸收，無新增社群事實。
+語料庫再比對（自 slice-20 至 slice 09160109-13，2026-09-16 結論一致）：命中集不變（#152 台灣寮回憶錄 + #2153 本人記錄 + works/index），上述 Role in the Community 已完整吸收 #152 記述（竹中投手、台灣寮 2452 Bancroft Way、中研院、中伊州大植物分類學、1994/05 逝世享年62、El Cerrito 墓）；無新增社群事實。
 
 ## Sources
 - [TAH #2153 encyclopedia: 2153. Prof. Tsan-Iang Chuang 莊燦陽教授](https://taiwaneseamericanhistory.org/whos-who-2153-tsan-iang-chuang/)
