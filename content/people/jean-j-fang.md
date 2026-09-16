@@ -41,6 +41,8 @@ Accomplishment
 - Movement-theatre record: at the 1983 Taiwanese American Conference/East Coast she played 陳淑子 (Chen Su-jen) in the stage play "Mending the Broken Net" (補破網) dramatizing the Chen Wen-chen murder, alongside director 陳明楷 and 康泰山 as Chen Wen-Chen — recalled in the memoir [[works/taiwaneseamericanhistory-org/ourjourneys8-eng|Our Journeys 8 (EN)]]; see also [[organizations/professor-chen-wen-chen-memorial-foundation|Professor Chen Wen-Chen Memorial Foundation]].
 - Her TAH encyclopedia profile is preserved as [[works/taiwaneseamericanhistory-org/ourjourneys76|Our Journeys 76]], which links her page and the Chen Wen-chen Memorial Foundation.
 - Husband 方菊雄 (Jyu-Hsiung Fang, professor) has his own corpus records: [[works/taiwaneseamericanhistory-org/186-prof-jyu-hsiung-fang|186. Prof. Jyu-Hsiung Fang]] and [[works/taiwaneseamericanhistory-org/whos-who-714-jyu-hsiung-fan|WHO'S WHO 714. Jyu-Hsiung Fang]].
+- As NATWA president (1999–2000) she commissioned the book-length collection of the 婦女信箱 advice column (long written by 阿香 and carried in 台灣公論報); the editor's memoir recalls her request to compile the year's columns into a volume — [[works/taiwaneseamericanhistory-org/ourjourneys79|Our Journeys 79]].
+- Early movement record: recalled in [[works/taiwaneseamericanhistory-org/ourjourneys58|Our Journeys 58]] as one of the Manhattan, Kansas staff who sold movement books (alongside 陳希寬, 莊秋雄, 方菊雄 and others) in the UFAI-related book drive whose accounts totalled US$2,069 in receipts.
 
 ## Sources
 - [TAH #163 encyclopedia: 163. Jean J. Fang 黃靜枝](https://taiwaneseamericanhistory.org/163-jean-j-fang/)

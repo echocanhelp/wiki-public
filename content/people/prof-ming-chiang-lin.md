@@ -53,3 +53,4 @@ _No filled family fields on the TAH profile._
 
 ## Corpus re-grep (2026-09-16)
 - SKIP: 再grep語料僅見已吸收之 ourjourneys-138（華府第一代研究者回憶）、conrad award 頁、winners30 及 works index，無新語料可吸收；HOLD（林明璋 vs 林明彰）維持。
+- slice 09160600-21 覆核：命中集合不變（自身書目 #124/#1416、ourjourneys-138、winners30、conrad award 頁、index），無新增社群材料。
