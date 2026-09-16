@@ -36,6 +36,9 @@ Director of the Plastic Surgery Research Laboratory and Subsequently Chief of Ha
 - The Northern California movement memoirs [[works/taiwaneseamericanhistory-org/ourjourneys37-eng|Our Journeys 37 (TAI history, EN)]] and [[works/taiwaneseamericanhistory-org/ourjourneys38-eng|Our Journeys 38 (TAFNC history, EN)]] list an **Andrew Lee** among the presidents of the Taiwanese American Federation of Northern California — part of the post–Black Terror generation (after Rung-fang/Ching-sheng Huang et al.) who took the TAFNC presidency despite KMT-era blacklisting, and among TAI-trained leaders heading Bay Area associations.
 - HOLD: identity of the corpus-listed TAFNC president "Andrew Lee" vs 李為平 (this page) not explicitly established in the corpus — no Chinese name given in those memoirs; not auto-merged.
 - Note: [[works/taiwaneseamericanhistory-org/63-andrew-lee-memorial-scholarship|63. Andrew Lee Memorial Scholarship]] memorialises 李友義博士 — a different Andrew Lee; do not conflate.
+- Ordering context (slice-27 re-grep): [[works/taiwaneseamericanhistory-org/ourjourneys38-eng|Our Journeys 38]] lists the nine post–Black Terror TAFNC presidents in sequence — after Rung-fang Chen: Tsun-liang Chang, Shih-ming Huang, Ching-sheng Huang, I-ren Kan, Wen-liang Ho, **Andrew Lee**, Ri-chang Lien, Ming-chun Chen, Wan-fu Liao — placing this president in the mid-1980s. [[works/taiwaneseamericanhistory-org/ourjourneys37-eng|Our Journeys 37]] likewise lists Andrew Lee between I-ren Kan and Ri-chang Lien in its TAI-trained leaders roster.
+
+Corpus re-check (deepen-x slice 27, 2026-09-16): re-grep 李為平|「W.P. Andrew Lee」 against content/works + content/articles returns only [[works/taiwaneseamericanhistory-org/whos-who-2102-w-p-andrew-lee|TAH #2102]] (band-B bibliographic stub) and the works index; the community-track material is the two Our Journeys memoirs already wikilinked above. HOLD on identity merge stands.
 
 ## Family
 
