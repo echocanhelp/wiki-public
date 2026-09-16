@@ -60,6 +60,7 @@ Accomplishment
 - Corpus re-check 2026-09-16 (deepen-x slice 09160400-14): re-grep hit set identical again; #186 ZH/EN rosters re-read, English roster confirms "Ahhee Hsu" among TACL preparatory-committee consultants — already stated above. Nothing new absorbable; page saturated.
 - Corpus re-check 2026-09-16 (deepen-x slice 09160500-11): re-grep hit set identical (#2267 Who's Who, #649 詩篇 tape, #258 兩代音樂傳奇, #172 台灣音樂社, ourjourneys186 ZH/EN TACL roster) — 台灣公論報 #369 roster re-read, 許丕龍 listed among consultants as recorded above. SKIP-with-reason; nothing new absorbable.
 - Corpus re-check 2026-09-16 (deepen-x slice 09160600-7): re-grep 許丕龍/Ahhee Hsu hit set identical again (#2267, #649 tape, #258, #172, ourjourneys186 ZH/EN) — all already absorbed in Role in the Community. SKIP-with-reason; page saturated.
+- Corpus re-check 2026-09-16 (deepen-x slice 09160700-3): re-grep widened the hit set — OJ 2 (台灣之音 US$1,000 early donation), OJ 70 (1982-11-12 concert date + TUF genesis), OJ 272 (TACL first prep meeting in his Monterey Park office), OJ 301 (TUF Linda Wang Juilliard benefit), OJ 339 + #340 (2018 蕭泰然音樂節 at Disney Hall; 出頭天進行曲 lyric credit). All absorbed into Role in the Community; one HOLD recorded (TACL roster credit vs observer self-account). 1982 Crystal Cathedral ~3,000 vs 2018 Disney ~2,300 are different events, not a conflict.
 
 ## Related Pages
 - [[people/c-y-hsu||Tsan Yu Hsu 許贊育]] — father
