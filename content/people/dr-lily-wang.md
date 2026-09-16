@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-15
+last_reviewed: 2026-09-16
 ---
 # Dr. Lily Wang (王俐力醫師)
 
@@ -57,3 +57,4 @@ _No filled family fields on the TAH profile._
 - **SKIP 2026-09-15 (slice 09142320-12):** third corpus re-grep (王俐力 / Lily Wang) returned only her own encyclopedia records [[works/taiwaneseamericanhistory-org/ota-286||TAH #286]], [[works/taiwaneseamericanhistory-org/whos-who-1203-lily-wang||TAH #1203]] and the works index — no memoir mentions; nothing further absorbable.
 - **SKIP 2026-09-15 (slice 09150500-25):** fourth corpus re-grep returned the same hit set (own records TAH #286, #1203 only) — no memoir or community material to absorb.
 - **SKIP 2026-09-15 (slices 09150600-16, 09150700-9):** fifth and sixth corpus re-greps (王俐力 / Lily Wang) returned the same hit set (own records [[works/taiwaneseamericanhistory-org/ota-286||TAH #286]], [[works/taiwaneseamericanhistory-org/whos-who-1203-lily-wang||TAH #1203]] + works index) — no memoir or community material to absorb.
+- **SKIP 2026-09-16 (slice 09160109-10):** seventh corpus re-grep (王俐力 / Lily Wang) returned the same hit set (own records only) — no memoir or community material to absorb.

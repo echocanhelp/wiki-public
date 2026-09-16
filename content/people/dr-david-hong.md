@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-15
+last_reviewed: 2026-09-16
 ---
 # Dr. David Hong (洪德生博士)
 
@@ -58,6 +58,7 @@ Accomplishment
 ## Role in the Community（deepen pass 2026-09-14）
 
 - 明州台美人社區大事記記錄：11 月洪德生在明州演講《台灣環保》。經區塊核對，該條目位於曾啟明「明州台美人百年大事」1990 年區塊內（1990 標題與 1991 標題之間），年份可定為 1990：HOLD 已解（原為 1990 前後待核）。見 [[works/taiwaneseamericanhistory-org/ourjourneys123||123. 明州台美人百年大事 / 曾啟明 / 2015/03]]。
+- 同一大事記另記：「洪德生出任台灣經濟研究院院長」，經區塊核對位於 2005 年區塊內（2005 會長顏振鋒與 2006 會長呂瑞文兩區塊之間）。社群記載任命消息見於 2005，TAH 本傳表列院長（Dean）任期 2006–2015：HOLD: 社群大事記 2005 vs TAH 表 2006，未自動合併。見 [[works/taiwaneseamericanhistory-org/ourjourneys123||123. 明州台美人百年大事 / 曾啟明 / 2015/03]]。
 - 同一大事記另載「洪德生出任台灣經濟研究院院長」，条目位於 2005 區塊末（2006 標題前），與 Employment 欄（TIER 院長 2006-2015）相差約一年，屬大事記以年度彙整之常見偏差：HOLD: 出任年份 2005（大事記位置）vs 2006（TAH #1892 Employment 欄），不自動併合。見 [[works/taiwaneseamericanhistory-org/ourjourneys123||123. 明州台美人百年大事]]。
 - 語料庫再檢（2026-09-15）：命中 mystories575、ourjourneys123、11. 夫婦返台服務 均已連結於上，無新增可吸收事實；年份 HOLD 維持。
 - 語料庫再核（deepen-x slice-21，2026-09-15）：洪德生／David Hong 命中集合不變（本人 #1892、mystories575、ourjourneys123、11. 夫婦返台服務、works/index）；环保演講年份經區塊核對定为 1990，上方 HOLD 已據證解除。

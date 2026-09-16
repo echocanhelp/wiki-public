@@ -48,6 +48,7 @@ last_reviewed: 2026-09-16
 
 ## Deepen-x re-check (slice 09150700-16, 2026-09-15)
 - Re-grepped 林富文／Evan Ling against content/works + content/articles: hit set = Our Journeys #8(EN)/#76(EN)/#321(EN) + own TAH #1679 record + works index — all facts in these memos (TAA Atlanta founding under 許和瑞's 9-chapter expansion to 43, 陳文成基金會 founding account, 1981-10 phone-call expansion with 陳素貞 tour, 紀念專集 printing division, 石林/甘子 code names, 1982-03 NJ registration) are already absorbed above. No new community material; no conflicts to HOLD.
+- Re-grep re-check (slice 09160109-7, 2026-09-16): hit set unchanged (same Our Journeys #8/#76/#321 EN+ZH set + own TAH #1679 record). Verified the ZH memoir passages in #321 (十月下旬來電擴大募款、陳素貞各地演講、捐款大半匯入台灣人權會、紀念專集由林富文夫婦負責印刷) match the absorbed English facts above; no new community material; no conflicts to HOLD.
 
 ## Sources
 - [TAH #1679 encyclopedia: 1679. Dr. Evan Ling 林富文博士](https://taiwaneseamericanhistory.org/whos-who-1679-evan-ling/)

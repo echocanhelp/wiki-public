@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-15
+last_reviewed: 2026-09-16
 ---
 # Yu-Fang Chang (張玉芳)
 
@@ -58,6 +58,8 @@ Corpus re-check (2026-09-15, deepen-x slice 09150500-18): re-grep of works + art
 Corpus re-check (2026-09-15, deepen-x slice 09150600-7): re-grep of works + articles — hit set unchanged ([[works/taiwaneseamericanhistory-org/whoswho1446|TAH #1446]], [[works/taiwaneseamericanhistory-org/musician377|TAH #377]] + works index only). SKIP, no absorbable community facts.
 
 Corpus re-check (2026-09-15, deepen-x slice 09150700-4): re-grep of works + articles — hit set unchanged ([[works/taiwaneseamericanhistory-org/whoswho1446|TAH #1446]], [[works/taiwaneseamericanhistory-org/musician377|TAH #377]] + works index only). SKIP, no absorbable community facts.
+
+Corpus re-check (2026-09-16, deepen-x slice 09160109-1): re-grep of works + articles — hit set unchanged ([[works/taiwaneseamericanhistory-org/whoswho1446|TAH #1446]], [[works/taiwaneseamericanhistory-org/musician377|TAH #377]] + works index only). SKIP, no absorbable community facts.
 
 ## Sources
 - [TAH #1446 encyclopedia: 1446. Yu-Fang Chang 張玉芳 / 2016/12](https://taiwaneseamericanhistory.org/whoswho1446/)
