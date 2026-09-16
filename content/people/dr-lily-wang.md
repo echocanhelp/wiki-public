@@ -60,3 +60,4 @@ _No filled family fields on the TAH profile._
 - **SKIP 2026-09-16 (slice 09160109-10):** seventh corpus re-grep (王俐力 / Lily Wang) returned the same hit set (own records only) — no memoir or community material to absorb.
 - **SKIP 2026-09-16 (slice 09160316-8):** eighth corpus re-grep (王俐力 / Lily Wang) returned the same hit set (own records [[works/taiwaneseamericanhistory-org/ota-286||TAH #286]], [[works/taiwaneseamericanhistory-org/whos-who-1203-lily-wang||TAH #1203]] + works index) — no memoir or community material to absorb.
 - SKIP 確認（slice 09160400-5, 2026-09-16）：復檢 works/ + articles/，命中僅自有 TAH 書目頁與 index 列項（Cindy Chen 另有同名異人 Cindy Cheng 一頁），無回憶錄/社群第一手材料可吸收；無新增連結。
+- SKIP 確認（deepen-x slice 09160500-3, 2026-09-16）：第九次復檢（王俐力 / Lily Wang），命中集合不變（自有 [[works/taiwaneseamericanhistory-org/ota-286||TAH #286]]、[[works/taiwaneseamericanhistory-org/whos-who-1203-lily-wang||TAH #1203]] + works index），無回憶錄/社群第一手材料可吸收。
