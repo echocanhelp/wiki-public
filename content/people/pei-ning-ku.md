@@ -65,3 +65,6 @@ _No filled family fields on the TAH profile._
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 ## Corpus check（2026-09-16, slice 09160109-14）
 - 語料庫六檢：命中僅本人記錄（#202 誤配頁、#114）及 works/index 目錄行，與前五次一致，回憶錄無他人記述。維持 SKIP-with-reason。
+
+## Corpus check（2026-09-16, slice 09160316-10）
+- 語料庫七檢：命中僅 #202（誤配頁，已備註）、#114 本人記錄及 works/index 目錄列項，與前六次一致，回憶錄無他人記述。維持 SKIP-with-reason。

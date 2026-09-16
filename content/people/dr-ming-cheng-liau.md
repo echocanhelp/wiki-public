@@ -47,6 +47,9 @@ last_reviewed: 2026-09-16
 ### Disambiguation (corpus re-grep 2026-09-16)
 Grep hits for "Ming-Cheng/Ching-Ming" on [[works/taiwaneseamericanhistory-org/85-ching-ming-cheng-e9-84-ad-e9-9d-9c-e6-97-bb|TAH #85]] and [[works/taiwaneseamericanhistory-org/49-ching-ming-cheng-e9-84-ad-e9-9d-9c-e6-97-bb-piano|TAH #49]] are **Ching-Ming Cheng 鄭靜旻**, a different person — do not merge.
 
+### Corpus re-grep (slice 09160316-12, 2026-09-16)
+Hit set unchanged — ourjourneys81, ourjourneys233 (+eng), ourjourneys307, mystories460-eng, my-stories-712 — every fact (UFAI founding delegate, 《望春風》29–47 Houston editorial team, THSH five-principals 1988-09 non-profit filing, 1991-06-01 board election as 秘書, own memoirs) already absorbed in Role in the Community. No new material, no conflicts.
+
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

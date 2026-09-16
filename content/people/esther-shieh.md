@@ -66,3 +66,6 @@ _No filled family fields on the TAH profile._
 - SKIP 五度確認（slice 09150600-17, 2026-09-15）：語料庫檢索命中集不變（僅本人書目頁 #250、#510 及 works/index），無新材料。
 - SKIP 六度確認（slice 09150700-13, 2026-09-15）：語料庫檢索命中集不變（僅本人書目頁 #250、#510），維持 SKIP-with-reason。
 - SKIP 七度確認（slice 09160109-11, 2026-09-16）：語料庫檢索命中集不變（僅本人書目頁 #250、#510），維持 SKIP-with-reason。
+
+## Deepen pass (2026-09-16, slice 09160316-10)
+- SKIP-with-reason：語料庫檢索命中集不變（僅本人書目頁 #250、#510 及 works/index），無回憶錄或社群新材料。
