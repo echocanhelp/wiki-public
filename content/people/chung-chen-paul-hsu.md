@@ -49,3 +49,6 @@ last_reviewed: 2026-09-16
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+## Corpus re-grep (2026-09-16)
+- SKIP: re-grep of content/works + content/articles returned only the already-cited ff42, 36, whos-who-262, ourjourneys123 and the works index — no new memoir material to absorb; Role in the Community is already saturated (incl. the Paul Hsu / 徐紹欽 same-name HOLD).
