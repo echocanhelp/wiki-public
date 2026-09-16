@@ -33,7 +33,7 @@ Hui-Mei Lin, pianist, received her Master’s degree from the Juilliard School a
 - **Founding generation of the US-East Taiwanese Summer Conference (美東台灣人夏令會).** 徐頌鵬's memoir [[works/taiwaneseamericanhistory-org/ourjourneys268|268. 回憶第一屆美東台灣人夏令會 (2016-11)]] places her — as 徐頌鵬的太太 — in the founding organizing committee's gathering photo and in the first conference choir (「2林慧美」 in the photo caption; choir roster named). That memoir's Subjects list already links this page.
 - **Corpus portrait record:** [[works/taiwaneseamericanhistory-org/188-hui-mei-lin-e6-9e-97-e6-85-a7-e7-be-8e-pianist201504|188. Hui Mei Lin 林慧美, Pianist (2015-04)]].
 - **Spouse cross-link:** [[people/sung-peng-hsu|徐頌鵬]] lists her as 太太; his page and this one corroborate each other.
-- Corpus re-grep 2026-09-16 (deepen-x slices 25, 26): hit set unchanged (#188 portrait, ourjourneys268 memoir, ourjourneys123 Minnesota note + works index — all already cited); nothing new absorbable.
+- Corpus re-grep 2026-09-16 (deepen-x slices 23, 25, 26): hit set unchanged (#188 portrait, ourjourneys268 memoir, ourjourneys123 Minnesota note + works index — all already cited); nothing new absorbable. Note: [[works/taiwaneseamericanhistory-org/262-amy-lin-e6-9e-97-e6-83-a0-e7-be-8e-pianist-201508|TAH #262]] / [[works/taiwaneseamericanhistory-org/557-amy-lin-e6-9e-97-e6-83-a0-e7-be-8e-201508|TAH #557]] record a *different* pianist Amy Lin 林**惠**美 (惠 vs 慧) — name collision only, not this subject; do not absorb.
 - HOLD: [[works/taiwaneseamericanhistory-org/ourjourneys123|123. 明州台美人百年大事 (2015-03)]] records 「1997 同鄉會會長林慧美」 in Minnesota; this page's subject is based in New York/Westchester — same-person identity unconfirmed in the corpus, not auto-merged.
 
 ## Family

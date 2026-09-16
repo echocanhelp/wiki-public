@@ -51,7 +51,7 @@ _No filled family fields on the TAH profile._
 ## Vault Holdings
 - [[works/taiwaneseamericanhistory-org/320-cindy-hsu-chung-e8-a8-b1-e5-bc-98-e7-90-aa|TAH #320 — Cindy Hsu Chung 許弘琪 (2015/03)]]
 - [[works/taiwaneseamericanhistory-org/163-cindy-hsu-chung-e8-a8-b1-e5-bc-98-e7-90-aa-pianist-201503|TAH #163 — Cindy Hsu Chung 許弘琪, pianist (2015/03)]]
-- 複核（deepen-x 2026-09-16）：corpus re-grep 僅見本人書目記錄 #320、#163（入庫者為 bibliographic-record-only，全文未入庫）與 index 條目，無可吸收之社群/回憶錄材料 — SKIP，以既有連結為準。本切片（slices 25、28）再度完整 re-grep，命中僅 #320、#163 與 index，無新材料。
+- 複核（deepen-x 2026-09-16）：corpus re-grep 僅見本人書目記錄 #320、#163（入庫者為 bibliographic-record-only，全文未入庫）與 index 條目，無可吸收之社群/回憶錄材料 — SKIP，以既有連結為準。本切片（slices 22、25、28）再度完整 re-grep，命中僅 #320、#163 與 index，無新材料。
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

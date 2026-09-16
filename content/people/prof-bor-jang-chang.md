@@ -49,3 +49,4 @@ _No filled family fields on the TAH profile._
 ## Role in the Community (corpus re-grep 2026-09-15)
 - Corpus re-grep (張博增 / Bor Jang Chang, content/works + content/articles) returns only the harvest index — the sole work naming him remains [[works/taiwaneseamericanhistory-org/whos-who-1702-bor-jang-chang|TAH #1702]] (published 2017-06-29), already recorded under "Vault Absorbed". No memoir material; nothing absorbable beyond the existing graph tables.
 - 複核（deepen-x 2026-09-16）：re-grep 結果相同（#1702 + index only）— SKIP：無回憶錄/社群材料可吸收，維持既有連結。
+- 複核（deepen-x slice-25 2026-09-16）：re-grep 張博增 / Bor Jang Chang 僅見本人書目記錄 #1702 與 harvest index — SKIP, 無回憶錄/社群材料可吸收。

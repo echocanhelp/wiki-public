@@ -50,3 +50,4 @@ _No filled family fields on the TAH profile._
 - 複核（deepen-x 2026-09-14）：corpus re-grep 僅見本人書目記錄 #1793（全文未入庫）與 index 條目，無可吸收之社群/回憶錄材料 — SKIP，以既有連結為準。
 - 複核（deepen-x 2026-09-15）：再 grep 結果相同（#1793 + index only）— 維持 SKIP。
 - 複核（deepen-x 2026-09-16）：三次 grep 結果相同 — SKIP：corpus（content/works + content/articles）僅有本人書目記錄 #1793 與 harvest index，無回憶錄/社群材料可吸收。
+- 複核（deepen-x slice-25 2026-09-16）：re-grep 蔡瑞胸 / Ruey S. Tsay 僅見本人書目記錄 #1793 與 harvest index — SKIP, 無回憶錄/社群材料可吸收。

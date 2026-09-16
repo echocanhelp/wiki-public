@@ -39,7 +39,7 @@ Her own first-person account (above) is held in the corpus as a community memoir
 
 HOLD: era field says 1935 but the 2015 relay entry is the 80~84 age group, implying a birth year of 1931–1935; do not auto-merge. Corroboration in the corpus places her in the East-Bay/Southern-California Taiwanese community network (same publication batch as 我與東灣台灣同鄉會網球隊的因緣, 南加學壇 SCAL Tribune, and FAPA chapters).
 
-- Corpus re-check 2026-09-16 (deepen-x slices 19, 26, 25, and slice 26 re-run): grep across works/articles returns only her own two TAH records (#716, #53 winners53) plus index listings — no further memoir/community passages absorbable beyond the Role-in-the-Community section above. SKIP-with-reason; HOLD on birth year stands.
+- Corpus re-check 2026-09-16 (deepen-x slices 19, 22, 26, 25, and slice 26 re-run): grep across works/articles returns only her own two TAH records (#716, #53 winners53) plus index listings — no further memoir/community passages absorbable beyond the Role-in-the-Community section above. SKIP-with-reason; HOLD on birth year stands.
 
 ## Family
 
