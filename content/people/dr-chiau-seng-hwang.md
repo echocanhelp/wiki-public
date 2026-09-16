@@ -50,3 +50,5 @@ Dr. Chiau-Seng Hwang 黃昭聲醫師 – History of Taiwanese American (T.A. Arc
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+**RECHECK 2026-09-16 (slice 09160109-19):** corpus re-grep (works/ + articles/) returned the same hit set already absorbed above (ourjourneys74, ourjourneys321, whos-who-2236) — NATMA 密西根代表名單與陳文成追悼會捐費記載逐字核對無誤; no new material.
