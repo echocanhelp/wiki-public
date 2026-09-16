@@ -65,3 +65,4 @@ Accomplishment
 - 語料庫再核（deepen-x slice-14，2026-09-15）：命中集合仍不變，全部已連結於上；無新增可吸收事實。出任年份 HOLD（2005 大事記 vs 2006 TAH 欄位）維持不自動併合。
 - 語料庫再核（slice 09160316-7，2026-09-16）：命中集合不變（#1892、mystories575、ourjourneys123、11. 夫婦返台服務、works/index），全部已連結；無新增可吸收事實；出任年份 HOLD 維持，維持 SKIP。
 - 語料庫再核（slice 09160400-6，2026-09-16）：命中集合不變（#1892、mystories575、ourjourneys123、11. 夫婦返台服務、works/index），全部已連結；無新增可吸收事實；出任年份 HOLD（2005 大事記 vs 2006 TAH 欄位）維持，維持 SKIP。
+- 語料庫再核（deepen-x slice 09160500-3，2026-09-16）：命中集合不變（#1892、mystories575、ourjourneys123、11. 夫婦返台服務、works/index），全部已連結於上；無新增可吸收事實；出任年份 HOLD 維持，維持 SKIP。

@@ -67,3 +67,4 @@ _No filled family fields on the TAH profile._
 - SKIP 再確認（slice 09150700-7, 2026-09-15）：復檢命中集合不變（僅自有兩則 TAH 頁 #323／#166 與 index），維持 SKIP；既有 HOLD（Ball State 學位記法衝突）保留不動。
 - SKIP 再確認（slice 09160109-4, 2026-09-16）：復檢命中集合不變（僅自有兩則 TAH 頁 #323／#166 與 index），維持 SKIP；既有 HOLD 保留不動。
 - SKIP 再確認（slice 09160316-3, 09160400-1, 2026-09-16）：復檢命中集合不變（僅自有 TAH 頁 #323／#166），回憶錄無可吸收之社群事實，維持 SKIP；既有 HOLD（Ball State 學位記法衝突）保留不動。
+- SKIP 再確認（slice 09160500-2, 2026-09-16）：復檢 works/ + articles/（謝孟潔／Mavis Hsieh，排除自有書目頁與 index）零命中，命中集合不變，維持 SKIP；既有 HOLD（Ball State 學位記法衝突）保留不動。

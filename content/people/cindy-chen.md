@@ -68,3 +68,4 @@ _No filled family fields on the TAH profile._
 - SKIP 確認（slice 09160109-8, 2026-09-16）：復檢 works/ + articles/，命中僅自有 TAH 書目頁與 index 列項，無回憶錄/社群第一手材料可吸收；無新增連結。
 - SKIP 確認（slice 09160316-6, 2026-09-16）：復檢 works/ + articles/（陳欣意／Cindy Chen），命中僅自有 #373、#1407 書目頁及同名異人 Cindy Cheng 一頁，無回憶錄/社群第一手材料可吸收；無新增連結。
 - SKIP 確認（slice 09160400-5, 2026-09-16）：復檢 works/ + articles/，命中僅自有 TAH 書目頁與 index 列項（Cindy Chen 另有同名異人 Cindy Cheng 一頁），無回憶錄/社群第一手材料可吸收；無新增連結。
+- SKIP 確認（slice 09160500-2, 2026-09-16）：復檢 works/ + articles/（陳欣意／Cindy Chen），命中僅自有 #373、#1407 書目頁及同名異人 Cindy Cheng 一頁（[[works/taiwaneseamerican-org/a-pilgrimage-creative-nonfiction-by-cindy-cheng||A Pilgrimage by Cindy Cheng]]，非本人），無回憶錄/社群第一手材料可吸收；無新增連結。
