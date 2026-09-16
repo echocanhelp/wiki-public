@@ -48,4 +48,6 @@ _No filled family fields on the TAH profile._
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
-複核（deepen-x 2026-09-15）：corpus re-grep（works+articles，含 index）僅見本人書目記錄 #561/#282（全文未入庫）與 index 條目，無回忆錄/社群材料可吸收 — SKIP，維持既有連結為準。
+複核（deepen-x 2026-09-15）：corpus re-grep（works+articles，含 index）僅見本人書目記錄 #561/#282（全文未入庫）與 index 條目，无回忆錄/社群材料可吸收 — SKIP，維持既有連結為準。
+
+複核（deepen-x 2026-09-16）：re-grep 結果與前次相同 — corpus 僅本人書目與 index 條目，無可吸收社群材料，維持 SKIP。
