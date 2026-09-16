@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-15
+last_reviewed: 2026-09-16
 ---
 # Prof. Jing-Hsiung James Ou (歐競雄教授)
 
@@ -38,6 +38,11 @@ _No filled family fields on the TAH profile._
 
 - TAH 傳記記錄：[[works/taiwaneseamericanhistory-org/whos-who-2018-jing-hsiung-ou||TAH #2018 Prof. Jing-Hsiung (James) Ou 歐競雄教授]]（書目記錄，全文在 TAH）。
 - 人物頁來源：[[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org Who's Who]]。
+
+## Role in the Community
+
+- 語料庫檢索（2026-09-16，content/works + content/articles）僅見書目記錄 [[works/taiwaneseamericanhistory-org/whos-who-2018-jing-hsiung-ou||TAH #2018]]（2018-02-08，B 級），無回憶錄／社團文章提及本人；vault 內尚無可吸收的社群事證。
+- 任職紀錄（USC 微生物學／新興病原體與免疫疾病研究所副所長 2012–2017、台積中研院分子所訪問教授 2001）全部出自 TAH 傳記材料，未經本土語料交叉印證。
 
 ## Sources
 - [TAH #2018 encyclopedia: 2018. Prof. Jing-Hsiung (James) Ou 歐競雄教授](https://taiwaneseamericanhistory.org/whos-who-2018-jing-hsiung-ou/)

@@ -33,6 +33,7 @@ Tung-Ying Huang is a native of Taiwan and a 2004 graduate of the Mannes College 
 ## Role in the Community
 - **NYC Young Lions Youth Orchestra (紐約幼獅青少年管弦樂團):** listed among the instructor faculty (指導老師, alongside 林季靜, 張若葳, 張紀葳), coaching students aged 10–18 in weekly Saturday rehearsals in Queens under music director 鍾啟仁; the ensemble performed at the Flushing 台灣會館 and Lincoln Center (Alice Tully Hall) during the 2017–18 season. Source: [[works/taiwaneseamericanhistory-org/ourjourneys306|306. 紐約幼獅青少年管弦樂團的簡介 / 方秀蓉 / 08/2017]].
 - Profile records held in the corpus: [[works/taiwaneseamericanhistory-org/153-tony-tung-ying-huang-e9-bb-83-e6-9d-b1-e7-80-9b201502|153. Tony Tung-Ying Huang 黃東瀛, Violist, Violinist (02/2015)]] and [[works/taiwaneseamericanhistory-org/383-tony-tung-ying-huang-e9-bb-83-e6-9d-b1-e7-80-9b-201504|383. Tony Tung-Ying Huang 黃東瀛 (04/2015)]].
+- Corpus re-grep (黃東瀛 / Tung-Ying Huang, content/works + content/articles, 2026-09-16): hits are exactly the works already cited above (#153, #383, Our Journeys 306 — which names him among the 指導老師 in its roster passage) plus the harvest index — no new absorbable material.
 
 ## Family
 

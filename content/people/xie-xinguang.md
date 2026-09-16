@@ -8,7 +8,7 @@ tags:
   - clerk
   - Taiwanese-American
 verification_status: published
-last_reviewed: 2026-09-15
+last_reviewed: 2026-09-16
 ---
 # Rev. Xie Xinguang (謝信光)
 
@@ -54,3 +54,7 @@ Per the same 執委 letter and 2026 Annual Meeting invitation: written reports f
 
 - [[organizations/national-taiwanese-presbyterian-council||National Taiwanese Presbyterian Council (NTPC) — 2025/26 執委名單 listing 謝信光 as 書記]]
 - [[sources/ntpc-usa-org||ntpc-usa.org — 執委 letter and 2026 Annual Meeting invitation naming 謝信光牧師 as 書記]]
+
+## Corpus Check（deepen-x 2026-09-16：SKIP）
+
+- SKIP-with-reason: grep of content/works + content/articles for 謝信光 / Xie Xinguang / frankhsieh7 returned zero hits. Sole source remains the NTPC 2025/26 執委 letter on ntpc-usa.org (already absorbed above); no memoir or community material in the corpus to absorb. No facts invented.
