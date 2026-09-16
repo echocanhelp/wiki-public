@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-15
+last_reviewed: 2026-09-16
 ---
 # Prof. Chien-Fu Jeff Wu (吳建福教授)
 
@@ -57,3 +57,4 @@ _No filled family fields on the TAH profile._
 - SKIP 第三次確認（slice 09150500-23, 2026-09-15）：復檢命中僅 [[works/taiwaneseamericanhistory-org/whos-who-1792-chien-fu-wu|TAH #1792]] 自有書目頁，無可吸收材料。
 - SKIP 第四次確認（slice 09150600-11, 2026-09-15）：復檢 works/ + articles/（吳建福／Chien-Fu／Jeff Wu），命中僅自有書目頁 [[works/taiwaneseamericanhistory-org/whos-who-1792-chien-fu-wu|TAH #1792]] 與 index 列項，無社群第一手材料可吸收。
 - SKIP 第五次確認（slice 09150700-7, 2026-09-15）：復檢命中集合不變（僅自有書目頁與 index），維持 SKIP。
+- SKIP 第六次確認（slice 09160109-5, 2026-09-16）：復檢 works/ + articles/（吳建福／Chien-Fu／Jeff Wu），命中仍僅自有書目頁 [[works/taiwaneseamericanhistory-org/whos-who-1792-chien-fu-wu|TAH #1792]] 與 index 列項，無回憶錄/社群第一手材料可吸收，維持 SKIP。
