@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-14
+last_reviewed: 2026-09-16
 ---
 # Jau-Ching Lai (賴昭晴)
 
@@ -47,3 +47,5 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+複核（deepen-x 2026-09-16）：corpus re-grep 僅再確認 #254、#135（10221）書目條目與 ourjourneys29 會館《台灣人的歌》工作人員紀錄（皆已吸收），無新增社群材料；USC 學位 HOLD 維持。

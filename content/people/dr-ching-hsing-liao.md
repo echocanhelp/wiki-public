@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-15
+last_reviewed: 2026-09-16
 ---
 # Dr. Ching-Hsing Liao (廖進興博士)
 
@@ -51,3 +51,5 @@ Dr. Ching-Hsing Liao 廖進興博士 – History of Taiwanese American (T.A. Arc
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 複核（deepen-x 2026-09-15）：corpus re-grep（works+articles）僅見 ourjourneys126 盧主義回憶錄（已吸收至上方 Role in the Community）與 index 書目條目，無新增社群材料 — 維持現況。
+
+複核（deepen-x 2026-09-16）：corpus re-grep 僅再確認 ourjourneys126 盧主義回憶錄與 whos-who-1819 自身書目條目，無新增社群材料 — 維持現況。

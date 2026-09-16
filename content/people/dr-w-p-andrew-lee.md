@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-14
+last_reviewed: 2026-09-16
 ---
 # Dr. W.P. Andrew Lee (李為平醫師)
 
@@ -48,3 +48,5 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+複核（deepen-x 2026-09-16）：corpus re-grep（李為平\|W.P. Andrew Lee）僅見 whos-who-2102 自身紀錄與 index 書目條目，無新增社群材料；TAFNC「Andrew Lee」HOLD 與 李友義 區辨維持。
