@@ -53,3 +53,4 @@ Re-grep 楊閔貴|Min-Kuei Yang returned only the two already-cited catalog reco
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - Re-grep 2026-09-16 (deepen-x slice 25): same hit set (#24, #1091 + index), both already wikilinked above. No new community facts; no conflicts.
 - Re-grep 2026-09-16 (deepen-x slice 23): same hit set (#24, #1091 + index), both already wikilinked. SKIP-no-new-material.
+- Re-grep 2026-09-16 (deepen-x slice 19): hit set unchanged — only own TAH 百科/書目 records (already wikilinked above) plus works index; no memoir or community material, nothing absorbable, no conflicts. SKIP-no-new-material.

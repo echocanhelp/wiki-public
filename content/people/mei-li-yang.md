@@ -56,3 +56,4 @@ Accomplishment
 ## Corpus re-check (2026-09-16, deepen-x slice 23)
 Re-grepped 楊美麗|Mei-Li Yang across content/works + content/articles: identical hit set (NATWA 會史 OJ 60 / 60-eng, 月曆史 OJ 160, TAH #37/#2201, index) — all already absorbed under Role in the Community. Nothing new absorbable; the 2005-presidency conflict HOLD stands. SKIP-no-new-material.
 Re-check 2026-09-16 (slice 09160500-19): hit set again identical (NATWA 會史 OJ 60 ZH+EN, 月曆史 OJ 160, TAH #37/#2201, index) — all absorbed; HOLD stands. SKIP-no-new-material.
+Re-check 2026-09-16 (slice 09160600-14): hit set again identical — all absorbed under Role in the Community; 2005-presidency HOLD stands. SKIP-no-new-material.

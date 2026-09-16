@@ -38,6 +38,7 @@ Dr. Jii (James) Shieh 謝己博士 – History of Taiwanese American (T.A. Archi
 - Consistent with his TAH profile's community roles: TAA Greater Philadelphia Area President and TAC/EC TANG Coordinator.
 - Corpus re-grep 2026-09-16 (slice 09160400-24): hits = video-185, ourjourneys159, TAH #2101, index, and 楊遠薰's 2017 夏令會 report (a second archived copy of the same handover event already absorbed above). No new community facts; SKIP.
 - Corpus re-grep 2026-09-16 (slice 09160500-20): hit set unchanged (video-185, ourjourneys159, TAH #2101, index, plus a second taiwanjustice-net archived copy of 楊遠薰's 2017 夏令會 handover report — same event already absorbed). Nothing new absorbable; no conflicts. SKIP.
+- Corpus re-grep 2026-09-16 (slice 09160600-14): hit set unchanged (video-185, ourjourneys159, TAH #2101, index, plus taiwanjustice-net copies of 楊遠薰's 2017 夏令會 report — the 2024-05-22 Wayback snapshot is the same handover event already absorbed). No new community facts; SKIP-no-new-material.
 
 ## Family
 
