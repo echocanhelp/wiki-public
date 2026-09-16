@@ -59,3 +59,5 @@ _No filled family fields on the TAH profile._
 複核（deepen-x slice 09160500-11，2026-09-16）：re-grep 李為平|W.P. Andrew Lee 命中僅 whos-who-2102 自身條目與 works/index；Our Journeys #37/#38 之 TAFNC「Andrew Lee」材料先前已吸收（無中文名，HOLD 維持），#63 李友義紀念獎學金之區辨不變。SKIP-with-reason，無新社群語料。
 
 複核（deepen-x slice 09160600-7，2026-09-16）：命中集合不變（whos-who-2102 + works/index）；TAFNC「Andrew Lee」HOLD 與 李友義 區辨維持。SKIP-with-reason。
+
+複核（deepen-x slice 09160700-5，2026-09-16）：re-grep 李為平|W.P. Andrew Lee 命中僅 whos-who-2102 自身條目與 works/index；Our Journeys #37/#38「Andrew Lee」HOLD 與 李友義 區辨維持。SKIP-with-reason。
