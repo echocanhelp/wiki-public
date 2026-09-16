@@ -58,3 +58,5 @@ The FPCLA church memoir records him as the church's sixth stated pastor, serving
 ## Network
 - [[organizations/formosan-presbyterian-church-in-los-angeles||FPCLA]] — TAH Who’s Who
 - [[organizations/presbyterian-church-in-taiwan||PCT]] — TAH Who’s Who
+
+- Corpus re-check log (2026-09-16, slice 09160600-15): re-grep 李仁豪/Jen-Hao Lee — hit set unchanged (ourjourneys231 ZH+EN, mystories201, artist32, musician160, whoswho1022), all absorbed and wikilinked above. SKIP-with-reason; no new corpus facts, no conflicts.

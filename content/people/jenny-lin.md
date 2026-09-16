@@ -55,3 +55,5 @@ Re-grep 林佳靜|Jenny Lin against content/works + content/articles returned on
 Re-check 2026-09-16 (deepen-x slice 22): hit-set unchanged (#16, #159, #1089, works index). **SKIP：無新可吸收事實。**
 Re-check 2026-09-16 (slice 09160400-22): hit-set again unchanged (own #16/#159/#1089 records + works index only). **SKIP：無新可吸收事實。**
 Re-check 2026-09-16 (slice 09160500-19): hit-set again unchanged (#16, #159, #1089 + works index). **SKIP：無新可吸收事實。**
+
+Re-check 2026-09-16 (slice 09160600-15): re-grep 林佳靜/Jenny Lin — hit set unchanged (own #16/#159/#1089 records + works index; #520 linked above). **SKIP：無新可吸收事實。**
