@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-15
+last_reviewed: 2026-09-16
 ---
 # Prof. Teresa H. Meng (孟懷縈教授)
 
@@ -46,5 +46,5 @@ _No filled family fields on the TAH profile._
 - Vault copy of the cited encyclopedia entry: [[works/taiwaneseamericanhistory-org/whos-who-1861-teresa-h-meng||TAH #1861]] (published 2017-08-21; bibliographic record, all-rights).
 - Campus organizations in the vault at her recorded institutions (her own membership is not recorded in the TAH profile): [[organizations/taiwanese-american-student-association-at-uc-berkeley||TAASA @ UC Berkeley]], [[organizations/stanford-taiwanese-student-association||Stanford TSA]].
 
-## Role in the Community (corpus re-grep 2026-09-15)
+## Role in the Community (corpus re-grep 2026-09-15, re-verified 2026-09-16)
 - Corpus re-grep (孟懷縈 / Teresa H. Meng, content/works + content/articles) returns only the harvest index — the sole work naming her is her own encyclopedia record [[works/taiwaneseamericanhistory-org/whos-who-1861-teresa-h-meng|TAH #1861]] (published 2017-08-21), already wikilinked above. No memoir or community text in the vault adds facts beyond the TAH tables; nothing absorbable, no new biography added.

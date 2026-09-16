@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-15
+last_reviewed: 2026-09-16
 ---
 # Ted Lieu (劉雲平)
 
@@ -35,6 +35,7 @@ The corpus documents Lieu's standing within the Taiwanese American community in 
 
 - The community organized a **fundraiser backing his re-election** as congressman for CA-33, recorded in [[works/taiwaneseamericanhistory-org/ta-u-s-rep-ted-lieu|台美人辦募款會支持33選區國會衆議員劉雲平競選連任]].
 - He publicly **called on the U.S. Census Bureau to include a "TAIWANESE" checkbox** on the Census 2020 form — a signature community advocacy issue — recorded in [[works/taiwaneseamericanhistory-org/2017-6|Rep. Ted Lieu of CA called upon U.S. Census Bureau to include "TAIWANESE" check box]].
+- The TAH story corpus also records his **2020 re-election**: [[works/taiwaneseamericanhistory-org/events-2020-12|TAH #12: Ted Lieu re-elected as U.S. Congressman (2020/11)]].
 - His path into politics is told in the memoir piece [[works/taiwaneseamericanhistory-org/my-stories-787|TAH #787: 出身台灣家庭，美國會議員劉雲平從政之路 (03/2021)]].
 - His TAH encyclopedia entries are archived as [[works/taiwaneseamericanhistory-org/4-congressman-mr-liu-in-s-ca|TAH #4: Congressman Mr. Ted Lieu 劉雲平 in S. CA.]] and [[works/taiwaneseamericanhistory-org/155-ted-lieu|TAH #155: Ted Lieu 劉雲平]].
 

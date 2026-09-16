@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-15
+last_reviewed: 2026-09-16
 ---
 # Min-Mei Chen (吳明美)
 
@@ -42,6 +42,7 @@ Accomplishment
 - Honoured with her husband as the first Family of Outstanding Taiwanese Americans: [[works/taiwaneseamericanhistory-org/384-chun-fan-and-min-mei-chen-family-the-first-family-of-outstanding-taiwanese-a|384. Chun-Fan and Min-Mei Chen Family / 2019-03]].
 - After her death (2019), remembered in her husband Prof. Chun-Fan Chen's memoir [[works/taiwaneseamericanhistory-org/676-03-2019|676. 吾妻吳明美 / 2019-03]] and the tribute album [[works/taiwaneseamericanhistory-org/photo-albums-activities-141|141. In Memory of Mrs. Min-Mei Wu Chen 生命的禮讚]].
 - Corpus dates (1942–2019) agree with the Identity Snapshot era on this page.
+- 複核（deepen-x 2026-09-16）：corpus re-grep 命中之作品（#457、女男平等、#596、#384、#676、追念專輯 #141）皆已連結於上，無新增可吸收材料 — SKIP，以既有連結為準。
 
 ## Sources
 - [TAH #141 encyclopedia: 141. In Memory of Mrs. Min-Mei Wu Chen 吳明美 生命的禮讚](https://taiwaneseamericanhistory.org/photo-albums-activities-141/)
