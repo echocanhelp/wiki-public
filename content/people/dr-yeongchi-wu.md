@@ -51,5 +51,5 @@ _No filled family fields on the TAH profile._
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
-## Corpus re-grep (slices through 09160316-12, 2026-09-16)
-Re-grepped Yeongchi Wu / 吳永吉 across content/works + content/articles: hit set unchanged — his own TAH records (#67, #122, #125, #126) plus *Our Journeys* 256/291, all already absorbed into Role in the Community above. No new community material, no conflicts.
+## Corpus re-grep (slices through 09160400-13, 2026-09-16)
+Re-grepped Yeongchi Wu / 吳永吉 across content/works + content/articles: hit set unchanged — his own TAH records (#67, #122, #125, #126) plus *Our Journeys* 256/291, all already absorbed into Role in the Community above. No new community material, no conflicts. Re-verified (deepen-x slice 09160400-13, 2026-09-16): saturated.
