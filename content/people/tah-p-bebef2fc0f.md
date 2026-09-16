@@ -39,6 +39,7 @@ _No filled family fields on the TAH profile._
 - 文中所述「紐約台灣會館」合唱團義工經歷對應：[[organizations/new-york-taiwan-center||New York Taiwan Center 紐約台灣會館]]。
 
 - 2017 年紐約台灣會館老人中心創立史（[[works/taiwaneseamericanhistory-org/ourjourneys316||TAH ourjourneys316／林炎誠／2017-10]]）所列義工老師名單包含陳炳衡，與本頁所述會館義工、指揮合唱團經歷互相佐證。
+- Corpus re-sweep 2026-09-16 (slice 09160109-24): hits are the same already-absorbed records above (TAH #562/#283 書目頁, ourjourneys316 義工名單, works/index). **SKIP: no new absorbable facts**, no conflicts to HOLD.
 
 ## Role in the Community（deepen pass 2026-09-14）
 

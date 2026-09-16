@@ -35,9 +35,9 @@ Dr. Wu received her Doctor of Musical Arts in Cello performance from the Univers
 
 _No filled family fields on the TAH profile._
 
-## Vault records (deepen pass 2026-09-14)
+## Vault records (corpus re-check 2026-09-16)
 
-Her full vault footprint is the two TAH encyclopedia records below (no web consulted):
+Her full vault footprint remains the two TAH encyclopedia records below (no web consulted); the 2026-09-16 corpus grep found no memoir or article mentions beyond her own records — the only other hits are catalog entries in [[works/index|works index]]:
 
 - [[works/taiwaneseamericanhistory-org/143-judy-ching-fang-wu-e5-90-b3-e9-9d-92-e8-8a-b3-cello-201502||TAH #143: Judy Ching Fang Wu 吳青芳, Cellist / 2015-02]]
 - [[works/taiwaneseamericanhistory-org/258-judy-ching-fang-wu-e5-90-b3-e9-9d-92-e8-8a-b3-201502||TAH #258: Judy Ching Fang Wu 吳青芳 / 2015-02]]
