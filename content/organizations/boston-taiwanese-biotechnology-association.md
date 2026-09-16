@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-14
+last_reviewed: 2026-09-16
 ---
 # Boston Taiwanese Biotechnology Association (波士頓台灣人生物科技協會)
 
