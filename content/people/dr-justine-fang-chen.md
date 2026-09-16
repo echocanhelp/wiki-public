@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-15
+last_reviewed: 2026-09-16
 ---
 # Dr. Justine Fang Chen (陳潔思博士)
 
@@ -46,6 +46,7 @@ Chen is documented in the TAHS/TAH Foundation story corpus as a performer-compos
 - Who's Who encyclopedia entries [[works/taiwaneseamericanhistory-org/whos-who-164-justine-fang-chen|TAH #164]] (2014-12-23) and [[works/taiwaneseamericanhistory-org/52901|TAH #208]]
 
 Read together, the corpus places her career inside the community's own ensembles (名絃室內樂團, Brooklyn Neighborhood Chamber Orchestra) and in the archival record, not only in the Juilliard / New York City Ballet press record listed under Employment. Her parents [[people/wen-jer-chen|Wen Jer Chen]] and [[people/patsy-fang-chen|Patsy Fang Chen]] hold their own pages.
+- Corpus re-check 2026-09-16 (deepen-x slice 23): re-grep 陳潔思/Justine Fang Chen — hit set unchanged (records #62, #66, #164, #208, #519 + works index); no third-party memoir mentions; nothing new absorbable.
 
 ## Sources
 - [TAH #208 encyclopedia: 208. Dr. Justine Fang Chen 陳潔思博士](https://taiwaneseamericanhistory.org/208/)

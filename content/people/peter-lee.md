@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-15
+last_reviewed: 2026-09-16
 ---
 # Peter Lee (李文智)
 
@@ -53,8 +53,8 @@ _No filled family fields on the TAH profile._
 - [TAH #213 encyclopedia: 213. Peter Lee李文智, Countertenor / 2015/06](https://taiwaneseamericanhistory.org/213-2/)
 - [TAH Who's Who](https://taiwaneseamericanhistory.org/person/peter-lee/)
 
-## Vault note (deepen-x 2026-09-15, slices incl. 26)
-Corpus grep (works/articles) hit only this page's own TAH record pages #445 / #213 (already wikilinked below) and index entries — no memoir/community material to absorb. SKIP this pass.
+## Vault note (deepen-x 2026-09-15 / re-check 2026-09-16, slices incl. 25, 26)
+Corpus grep (works/articles, both 李文智 and "Peter Lee") hits only this page's own TAH record pages #445 / #213 (already wikilinked below) and index entries — no memoir/community material to absorb. SKIP this pass.
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

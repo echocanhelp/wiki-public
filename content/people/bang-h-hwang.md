@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-15
+last_reviewed: 2026-09-16
 ---
 # Bang H. Hwang (黃邦雄)
 
@@ -42,6 +42,8 @@ Assistant Professor of Anatomy
 - 1992–1993 — president of the Indianapolis Taiwanese American Association (印城台灣同鄉會), listed in the association's own historical roster of successive presidents in [[works/taiwaneseamericanhistory-org/our-journeys-389|389. 印城台灣同鄉會紀要 (12/2023)]] (band A, community history).
 - Same memoir places him among the Indianapolis circle — with 莊振戊, 吳群也, 吳良也, 楊水森, 吳義雄, 何源泉, 吳錦鍠 and John Conklin — that, through the Indiana chapter of FAPA (台灣人公共事務會) from the 1990s onward, lobbied Indiana's congressional delegation (Sen. Richard Lugar, chairman of the Senate Foreign Relations Committee, and Rep. Lee Hamilton, chairman of the House Foreign Affairs Committee) into resolutions promoting Taiwan's democratization, Taiwan Strait security, and US–Taiwan relations.
 - Corpus name-collision note: taiwanjustice-net (2021) carries health essays by a 「黃邦雄醫師」 (e.g. 長青教室心得報告 2018-11-02), and a 2021-07-25 TanLa 洛僑中心醫療講座 report names a 黃邦雄醫師 as 婦病專科 who edited/uploaded the lecture series videos and was slated to present the series' third talk (2021-09-11). HOLD: a gynecologic-oncology physician community lecturer vs this profile's anatomy researcher (Penn State / Indiana Univ. / VA Puget Sound) — no evidence they are the same person; NOT merged.
+
+- Corpus re-check 2026-09-16 (deepen-x slice 25): re-grep across works/articles returns the same hit set — own TAH #834 record, the our-journeys-389 印城同鄉會 memoir, and the taiwanjustice-net 「黃邦雄醫師」 essays — all already cited above. Nothing new absorbable; HOLD on the name collision stands.
 
 ## Family
 
