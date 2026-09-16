@@ -51,4 +51,5 @@ _No filled family fields on the TAH profile._
 
 ## Corpus re-grep (2026-09-15, incl. slice 26)
 Re-grepped 趙君婷 / Amy Chun-Ting Chao across content/works + content/articles: the only hits are her own TAH 百科 records — [[works/taiwaneseamericanhistory-org/218-amy-chun-ting-chao-e8-b6-99-e5-90-9b-e5-a9-b7-soprano-201606|TAH #218, Soprano, 2015-06-21 · band B]] and [[works/taiwaneseamericanhistory-org/454-amy-chun-ting-chao-e8-b6-99-e5-90-9b-e5-a9-b7-201506|TAH #454, 2015-06-21 · band B]] — both already linked under Vault Holdings, plus the works index. No memoir/community material beyond these; nothing absorbable, no conflicts. SKIP-no-new-material.
+- Corpus re-grep 2026-09-16 (slice 23 re-check): same result — only own TAH #218/#454 書目 records + works index; SKIP-no-new-material.
 - Corpus re-grep 2026-09-16 (slice 26 re-check): hit set unchanged — only this person's own TAH 百科／書目 records plus index listings; no memoir or community material, nothing absorbable, no conflicts. SKIP-no-new-material.

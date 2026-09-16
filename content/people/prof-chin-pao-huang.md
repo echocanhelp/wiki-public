@@ -52,4 +52,5 @@ Prof. Chin-Pao Huang 黃金寶教授 – History of Taiwanese American (T.A. Arc
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- Corpus re-grep 2026-09-16 (slice 23 re-check): same result — only own TAH #2305 record + works index; no memoir/community passages; SKIP-no-new-material.
 - Corpus re-grep 2026-09-16 (slice 26 re-check): hit set unchanged — only this person's own TAH 百科／書目 records plus index listings; no memoir or community material, nothing absorbable, no conflicts. SKIP-no-new-material.
