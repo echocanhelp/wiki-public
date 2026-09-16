@@ -46,5 +46,5 @@ _No filled family fields on the TAH profile._
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - [[works/taiwaneseamericanhistory-org/whos-who-2064-chih-chung-yang|TAH #2064]]
 
-## Role in the Community (corpus re-grep 2026-09-15)
+## Role in the Community (corpus re-grep 2026-09-16)
 - Corpus re-grep (楊志忠 / Chih-Chung Yang, content/works + content/articles) returns only the harvest index — the sole work naming him is his own encyclopedia record [[works/taiwaneseamericanhistory-org/whos-who-2064-chih-chung-yang|TAH #2064]] (published 2018-03-17), already cited under "In the vault". No memoir material; page remains saturated with the TAH graph tables.

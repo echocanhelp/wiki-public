@@ -54,5 +54,7 @@ His Golden Orange Club (金桔會)/OCTA project-management role recorded in the 
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-jian-juei-wang/)
 
 ## Related Pages
+- [[works/taiwaneseamericanhistory-org/156-dr-jian-juei-wang||TAH #156 王健椎博士傳記]]
+- [[works/taiwaneseamericanhistory-org/whos-who-97-jian-juei-wang||TAH #97 王健椎博士傳記]]
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

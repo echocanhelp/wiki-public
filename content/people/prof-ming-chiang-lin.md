@@ -46,6 +46,8 @@ _No filled family fields on the TAH profile._
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-ming-chiang-lin/)
 
 ## Related Pages
+- [[works/taiwaneseamericanhistory-org/124-prof-ming-chiang-lin||TAH #124 林明璋教授傳記]]
+- [[works/taiwaneseamericanhistory-org/whos-who-1416-ming-chiang-lin||TAH #1416 林明璋教授傳記]]
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
