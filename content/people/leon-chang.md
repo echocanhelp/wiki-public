@@ -42,6 +42,7 @@ Our memoirs record Chang as a core figure of the Bay Area Taiwanese Christian an
 - Corpus re-verified（deepen-x slice 09150700-10, 2026-09-15）：grep（張村樑 / Leon Chang, works+articles）命中集不變——Our Journeys 350/37/38/106、my-stories-779、本人 TAH #2304 記錄，皆已連結並吸收；無新增事實。
 - **黑名單紀錄：** [[works/taiwaneseamericanhistory-org/ourjourneys106|Our Journeys 106]] 歷屆北加州台灣同鄉聯合會會長名單將張村樑列入「國府黑名單上的榜上人物」——與歷任會長同樣因熱心服務同鄉而列入黑名單，付出個人政治代價（memoir 評估，屬作者觀點）。
 - Corpus re-verified（deepen-x slice 09160109-6, 2026-09-16）：grep（張村樑 / Leon Chang, works+articles）命中集不變（OJ 350/37/38/106、my-stories-779、TAH #2304、works index）；新增吸收 OJ 106 黑名單一項事實（見上），其餘材料皆已吸收。
+- Corpus re-verified（deepen-x slice 09160316-1, 2026-09-16）：grep 命中集不變（OJ 350/37/38/106、my-stories-779、TAH #2304）；回憶錄材料全數已吸收，無新增事實。SKIP（無新料）。
 
 ## Family
 

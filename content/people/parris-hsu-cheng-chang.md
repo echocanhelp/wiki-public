@@ -54,6 +54,7 @@ PARRIS HSU-CHENG CHANG 張旭成 – History of Taiwanese American (T.A. Archive
 - Re-check (deepen-x slices 09150400-32, 09150500-20, 09150600-10, 2026-09-15): corpus grep against works/ + articles/ returns the same record set — his own directory page plus the memoirs already absorbed above, now also seen in English translation ([[works/taiwaneseamericanhistory-org/ourjourneys69-eng|69 (EN)]]、[[works/taiwaneseamericanhistory-org/ourjourneys74-eng|74 (EN)]] — same Oberlin 1983 camp and NATPA founding passages). No new absorbable community content.
 - Re-check (deepen-x slice 09150700-8, 2026-09-15): hit set unchanged (ourjourneys 37/47/69/74 + works index). One peripheral new trace in the taiwanjustice-net tier2 archive manifest (a 2017-07-24 蘋果日報 opinion piece「神話習近平的愚民運動」and a 「Tag: 張旭成」 listing under a 統戰 tag page) — press commentary authored by him, outside the community/memoir corpus and outside content/; noted, not absorbed. No conflicts; nothing to HOLD.
 - Re-check (deepen-x slice 09160109-4, 2026-09-16): grep (張旭成／Parris, works+articles) hit set unchanged — own directory page + memoirs already absorbed above. No new absorbable community content; no conflicts.
+- Re-check (deepen-x slice 09160316-1, 2026-09-16): grep hit set unchanged (own #535 page + OJ 37/69/74 + EN translations). SKIP (no new facts).
 
 ## Sources
 - [TAH #535 encyclopedia: 535. PARRIS HSU-CHENG CHANG 張旭成 / 2015/08](https://taiwaneseamericanhistory.org/535-parris-hsu-cheng-chang/)
