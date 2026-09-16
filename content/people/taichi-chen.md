@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-15
+last_reviewed: 2026-09-16
 ---
 # Taichi Chen (陳太一)
 
@@ -49,5 +49,5 @@ Both corpus records are bibliographic only (full text in the TAH vault); the Min
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
-## Corpus re-check (2026-09-15)
+## Corpus re-check (2026-09-15, re-run 2026-09-16)
 Re-grep 陳太一|Taichi Chen returned only the two already-cited records (#131, #244) plus the works index — bibliographic stubs already wikilinked in Role in the Community; full text stays in the TAH vault. No new community facts absorbable; no conflicts to hold.

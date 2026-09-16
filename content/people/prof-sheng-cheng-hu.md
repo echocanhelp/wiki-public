@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-15
+last_reviewed: 2026-09-16
 ---
 # Prof. Sheng-cheng Hu (胡勝正教授)
 
@@ -51,3 +51,4 @@ _No filled family fields on the TAH profile._
 - Vault work records: [[works/taiwaneseamericanhistory-org/150-prof-sheng-cheng-hu|TAH #150 Prof. Sheng-Cheng Hu 胡勝正教授]] (2018-10-19) and [[works/taiwaneseamericanhistory-org/whos-who-2150-sheng-cheng-hu|TAH #2150 Who's Who profile]] (2018-07-12).
 - NATPA 籌備事蹟詳見上方 Role in the Community（2026-09-14 二次 pass 自舊摘記整合，重複摘記已去重）。
 - No further biography invented; verification still pending against the cited TAH pages.
+- Corpus re-grep 2026-09-16 (slice 27): hits are only the two linked TAH bibliographic records (#150, #2150), the already-absorbed NATPA 籌備記述 in [[works/taiwaneseamericanhistory-org/ourjourneys47|TAHS Our Journeys #47]], and the works index. No new community facts absorbable; no conflicts.

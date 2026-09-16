@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-14
+last_reviewed: 2026-09-16
 ---
 # Min-Kuei Yang (楊閔貴)
 
@@ -44,6 +44,9 @@ Beyond that placement the corpus adds no new biography: the NTNU → Eastman →
 - [TAH #1091 encyclopedia: 1091. Min-Kuei Yang 楊閔貴 / 2016/06](https://taiwaneseamericanhistory.org/whoswho1091/)
 - [TAH #24 encyclopedia: 24. Min-Kuei Yang 楊閔貴, Pianist/2014/10](https://taiwaneseamericanhistory.org/musician24/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/min-kuei-yang/)
+
+## Corpus re-check (2026-09-16)
+Re-grep 楊閔貴|Min-Kuei Yang returned only the two already-cited catalog records (#24, #1091) plus the works index — both wikilinked in Role in the Community. No new community facts absorbable; no conflicts to hold.
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
