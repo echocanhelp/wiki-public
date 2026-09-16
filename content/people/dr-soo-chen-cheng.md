@@ -51,5 +51,5 @@ Degree Program (2013–). Profiled in TAH Who's Who encyclopedia #1840
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
-## Corpus re-grep (2026-09-15, re-confirmed 2026-09-16 slices incl. 23, 27)
+## Corpus re-grep (2026-09-15, re-confirmed 2026-09-16 slices incl. 22, 23, 27)
 - SKIP: 再grep content/works + content/articles，僅見本身TAH出處頁 [[works/taiwaneseamericanhistory-org/whos-who-1840-soo-chen-cheng|TAH #1840]]（2017-08-13 · band B）及 works index 目次條目，無回憶錄/社運語料可吸收；鄭淑珍為科學界人物，TAH語料僅收其Who's Who傳記。既有連結以 TAH #1840 為準。
