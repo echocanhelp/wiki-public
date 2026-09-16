@@ -40,6 +40,7 @@ Accomplishment
 - Under him the Center's programming shifted toward music, fine arts, and cultural activities, and San Diego government offices, civic organizations, and media established friendly relations with the Taiwan Center — with long-term impact on the permanent-location search and event negotiations [[works/taiwaneseamericanhistory-org/ourjourneys26-eng|Our Journeys 26 (EN)]].
 - HOLD: conflict in pinyin rendering — Our Journeys 26 English translation writes "Dr. Fan Ching-ling" vs. TAH record 32's "Ching Liang" (范清亮, Ching-liang); treated as a translation typo, name forms not merged.
 - Community profiles: [[works/taiwaneseamericanhistory-org/32-dr-ching-liang-chris-fan|TAH record 32]], [[works/taiwaneseamericanhistory-org/whos-who-880-chris-fan|TAH Who's Who 880]].
+- Corpus re-grep 2026-09-16 (slice -14): hit set unchanged — [[works/taiwaneseamericanhistory-org/ourjourneys26|Our Journeys 26]] (+ EN), own records #32/#880, and 「黃金白兔」 are all already absorbed above. No new memoir material; the existing Ching-ling vs Ching-liang HOLD stands.
 
 ## Family
 
