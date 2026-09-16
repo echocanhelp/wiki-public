@@ -51,3 +51,4 @@ Re-grep re-run in deepen-x slice 09160500-24 (2026-09-16): hit set unchanged (#4
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - Re-grep 2026-09-16 (deepen-x slice 19): hit set unchanged — only own TAH 百科/書目 records (already wikilinked above) plus works index; no memoir or community material, nothing absorbable, no conflicts. SKIP-no-new-material.
+- Re-grep 2026-09-16 (deepen-x slice 16): hit set unchanged (#477, #229 + index), both already wikilinked. SKIP-no-new-material.
