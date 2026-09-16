@@ -40,6 +40,8 @@ TAH 紀錄中,黃美菁以旅美台灣小提琴家身分被兩度記錄:人物�
 ## Corpus re-check (2026-09-16, incl. deepen-x slice 09160400-26)
 Re-grep 黃美菁 against content/works + content/articles returned only the two already-cited TAH records (#477, #229) plus the works index — both wikilinked in Role in the Community above. No memoir/article text beyond these records; no new community facts absorbable, no conflicts to hold. SKIP-with-reason; page saturated.
 
+Re-grep re-run in deepen-x slice 09160500-24 (2026-09-16): hit set unchanged (#477, #229, works index). SKIP-with-reason confirmed.
+
 ## Sources
 - [TAH #229 encyclopedia: 229. 黃美菁, Violinist / 2015/07](https://taiwaneseamericanhistory.org/229-%e9%bb%83%e7%be%8e%e8%8f%81-violinist-201507/)
 - [TAH #477 encyclopedia: 477. 黃美菁 / 2015/07](https://taiwaneseamericanhistory.org/477-%e9%bb%83%e7%be%8e%e8%8f%81-201507/)

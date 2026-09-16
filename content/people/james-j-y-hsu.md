@@ -44,6 +44,7 @@ Adjunct Professor, Department of Engineering and System Science, National Tsing 
 ## Corpus Re-check (slices through 09160400-13, 2026-09-16)
 - Re-verified (deepen-x slices 09160316-13 and 09160400-13, 2026-09-16): hit set unchanged.
 - Re-grep for 許正餘 / James J. Y Hsu returns the same corpus set already absorbed above — [[works/taiwaneseamericanhistory-org/ourjourneys26|Our Journeys #26]] (SD Taiwan Center library 建档), [[works/taiwaneseamericanhistory-org/ourjourneys352|Our Journeys #352]] (NATPA presidency, TAC-WC 2016/2017), [[works/taiwaneseamericanhistory-org/397-james-j-y-hsu-e8-a8-b1-e6-ad-a3-e9-a4-98-201505|directory record #397]], and the 台灣公義報 民富論 lecture article. No new absorbable material; no conflicts to HOLD.
+- Re-verified (deepen-x slice 09160500-14, 2026-09-16): hit set identical (ourjourneys26, ourjourneys352, #397, 民富論 article, MANIFEST). SKIP: saturated.
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/james-j-y-hsu/)
