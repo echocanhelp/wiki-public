@@ -30,6 +30,7 @@ The Great New York Region-Oversea Taiwanese Pen Club is a literary and civic org
 
 ## Notes
 - Corpus re-check 2026-09-16 (deepen-x slice 18): re-grepped 台灣人筆會/Pen Club — new hits #215 (first president 蔡榮聰) absorbed above; #216 (鄭炳全 1998) held as naming/date conflict; other hit set unchanged (#491 年刊, 2020 banquet, SF chapter, photo album).
+- Corpus re-check 2026-09-16 (deepen-x slice 09160316-3): re-grep now also surfaces the club's own directory-derived record page [[works/taiwaneseamericanhistory-org/the-great-new-york-region-oversea-taiwanese-pen-club|8. The Great New York Region-Oversea Taiwanese Pen Club, 2014/10/12]] — bibliographic record only, consistent with the identity snapshot; no new biography, no conflicts.
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/the-great-new-york-region-oversea-taiwanese-pen-club/)

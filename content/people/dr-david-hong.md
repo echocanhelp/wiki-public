@@ -63,3 +63,4 @@ Accomplishment
 - 語料庫再核（slice 09160109-10，2026-09-16）：洪德生／David Hong 命中集合不變（#1892、mystories575、ourjourneys123、11. 夫婦返台服務、works/index），無新增可吸收事實；出任年份 HOLD 維持，維持 SKIP。
 - 語料庫再核（deepen-x slice-21，2026-09-15）：洪德生／David Hong 命中集合不變（本人 #1892、mystories575、ourjourneys123、11. 夫婦返台服務、works/index）；环保演講年份經區塊核對定为 1990，上方 HOLD 已據證解除。
 - 語料庫再核（deepen-x slice-14，2026-09-15）：命中集合仍不變，全部已連結於上；無新增可吸收事實。出任年份 HOLD（2005 大事記 vs 2006 TAH 欄位）維持不自動併合。
+- 語料庫再核（slice 09160316-7，2026-09-16）：命中集合不變（#1892、mystories575、ourjourneys123、11. 夫婦返台服務、works/index），全部已連結；無新增可吸收事實；出任年份 HOLD 維持，維持 SKIP。

@@ -61,3 +61,4 @@ _No filled family fields on the TAH profile._
 - SKIP 再確認（deepen-x slice 09150600-17, 2026-09-15）：語料庫命中集不變（僅本人 TAH #209、#682 與 works/index），無可吸收之社群/回憶錄材料。
 - SKIP 再確認（deepen-x slice 09150700-13, 2026-09-15）：語料庫命中集不變（僅本人 TAH #209、#682 與 works/index），維持 SKIP-with-reason。
 - SKIP 再確認（deepen-x slice 09160109-11, 2026-09-16）：語料庫命中集不變（僅本人 TAH #209、#682 與 works/index），維持 SKIP-with-reason。
+- SKIP 再確認（deepen-x slice 09160316-9, 2026-09-16）：語料庫命中集不變（僅本人 TAH #209、#682 與 works/index），維持 SKIP-with-reason。
