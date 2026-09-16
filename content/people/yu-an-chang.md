@@ -55,6 +55,7 @@ Born in Penghu, Taiwan, conductor Yu-An Chang was awarded first prize at the 201
 - SKIP 複核（slice 09160316-8，2026-09-16）：重掃（張宇安／Yu-An Chang）命中集合不變（僅 #2238、#438 書目頁與 works/index），無回憶錄或社群材料可吸收，維持 SKIP。
 - SKIP 複核（slice 09160400-7，2026-09-16）：重掃（張宇安／Yu-An Chang）命中集合不變（僅 #2238、#438 書目頁與 works/index），無回憶錄或社群材料可吸收，維持 SKIP。
 - SKIP 複核（slice 09160500-5，2026-09-16）：重掃（張宇安／Yu-An Chang）命中集合不變（僅 #2238、#438 書目頁與 works/index），無回憶錄或社群材料可吸收，維持 SKIP。
+- SKIP 複核（slice 09160600-2，2026-09-16）：重掃（張宇安／Yu-An Chang）命中集合不變（僅 #2238、#438 書目頁與 works/index），無回憶錄或社群材料可吸收，維持 SKIP。
 - 語料庫：[[sources/taiwaneseamericanhistory-org-story-corpus||TAH story corpus]]。
 
 ## Sources
