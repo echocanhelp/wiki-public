@@ -58,3 +58,4 @@ _No filled family fields on the TAH profile._
 - SKIP 第四次確認（slice 09150600-11, 2026-09-15）：復檢 works/ + articles/（吳建福／Chien-Fu／Jeff Wu），命中僅自有書目頁 [[works/taiwaneseamericanhistory-org/whos-who-1792-chien-fu-wu|TAH #1792]] 與 index 列項，無社群第一手材料可吸收。
 - SKIP 第五次確認（slice 09150700-7, 2026-09-15）：復檢命中集合不變（僅自有書目頁與 index），維持 SKIP。
 - SKIP 第六次確認（slice 09160109-5, 2026-09-16）：復檢 works/ + articles/（吳建福／Chien-Fu／Jeff Wu），命中仍僅自有書目頁 [[works/taiwaneseamericanhistory-org/whos-who-1792-chien-fu-wu|TAH #1792]] 與 index 列項，無回憶錄/社群第一手材料可吸收，維持 SKIP。
+- SKIP 第七次確認（slice 09160316-2, 2026-09-16）：復檢 works/ + articles/（吳建福／Chien-Fu／Jeff Wu），命中仍僅自有書目頁 [[works/taiwaneseamericanhistory-org/whos-who-1792-chien-fu-wu|TAH #1792]] 與 index 列項，無社群第一手材料可吸收，維持 SKIP。

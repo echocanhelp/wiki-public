@@ -56,6 +56,7 @@ _No filled family fields on the TAH profile._
 - 語料庫複核：社群事跡命中（#69/#106/#233/#266、TAH #23/#33/#270）已全數吸收於 Role in the Community，黑名單回憶錄學歷衝突 HOLD 維持。
 - articles 檢索另見三位同名異人：桃園中壢無黨籍立委候選人李文雄（2020 選舉名單）、舊金山佛利蒙特台裔僑領／僑務委員李文雄（商家破窗、童玩節出席報導）——非本人，不吸收，僅此備註免後誤併。
 
-## Deepen-x re-check (slices 09150600-15, 09150700-9, 09160109-9)
+## Deepen-x re-check (slices 09150600-15, 09150700-9, 09160109-9, 09160316-7)
+- SKIP-with-reason (09160316-7, 2026-09-16): grep re-run returns the identical hit set (#69/#106/#233/#266、TAH #23/#33), all absorbed; HOLD 維持。無新事實可吸收。
 - SKIP-with-reason (09160109-9, 2026-09-16): grep re-run returns the identical hit set (#69/#106/#233/#266、TAH #23/#33/#270), all absorbed; 黑名單學歷衝突 HOLD 維持; 同名異人備註維持。無新事實可吸收。
 - SKIP-with-reason: grep re-run (works/articles; 李文雄 / Wen-Hsiung Li) returns the identical hit set (#69/#106/#233/#266、TAH #23/#33/#270), all facts already absorbed in Role in the Community; 黑名單學歷衝突 HOLD 維持。無新事實可吸收。
