@@ -54,3 +54,4 @@ Accomplishment
 ## Corpus re-check (2026-09-16, deepen-x slice 25)
 Re-grepped 黃至成|Chi-Cheng Huang across works+articles: identical hit set (141/209 街童 essay, Our Journeys 162/291, #236/#600, mystories-673) — all already absorbed above. Nothing new absorbable; Kaya naming HOLD stands.
 - Corpus re-grep 2026-09-16 (slice 23 re-check): hit set unchanged (141/209 街童 essay, OJ 162/291, #236/#600, mystories-673) — all absorbed above; nothing new, Kaya naming HOLD stands. SKIP-no-new-material.
+- Corpus re-grep 2026-09-16 (slice 09160500-20): hit set unchanged (141/209 街童 essay, OJ 162/291, #236/#600, mystories-673) — all absorbed above; nothing new, Kaya naming HOLD stands. SKIP-no-new-material.

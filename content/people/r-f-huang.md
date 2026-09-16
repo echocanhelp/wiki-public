@@ -46,6 +46,7 @@ last_reviewed: 2026-09-16
 - 以上為本會回憶錄所載社區組織角色，與上方 TAH 傳記（合唱/指揮生涯）互補不衝突
 - Corpus re-verified（自 slice 09150500-29 至 slice 09160316-15, 2026-09-16 結論一致）：grep 命中集＝本人 TAH #409／#1710、works/index，另有 Our Journeys #268（該文作「黃瑞鳳」無許姓前綴）；社群事跡已全數吸收於上，無新增社群事實，維持 SKIP-with-reason。
 - Corpus re-verified 2026-09-16（deepen-x slice 09160400-17）：grep 命中集相同（#409、#1710、Our Journeys #268、works/index）。SKIP-with-reason；無新增社群事實，無衝突需 HOLD。
+- Corpus re-verified 2026-09-16（deepen-x slice 09160500-15）：grep 命中集再次相同（#409、#1710、Our Journeys #268、works/index）。SKIP-with-reason；社群事跡已全數吸收，無新增事實，無衝突需 HOLD。
 
 ## Sources
 - [TAH #409 encyclopedia: 409. R. F. Huang許黃瑞鳳, conductor / 07/2017](https://taiwaneseamericanhistory.org/musician409/)
