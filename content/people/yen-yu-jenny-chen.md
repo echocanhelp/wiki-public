@@ -51,3 +51,4 @@ Dr. Yen-Yu (Jenny) Chen 陳延瑜博士 – History of Taiwanese American (T.A. 
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - Re-grep 2026-09-16 (deepen-x slice 23): hits confined to own profiles (musician422, whos-who-1814) + index, both already wikilinked. SKIP-no-new-material.
 - Re-grep 2026-09-16 (deepen-x slice 19): hit set unchanged — only own TAH 百科/書目 records (already wikilinked above) plus works index; no memoir or community material, nothing absorbable, no conflicts. SKIP-no-new-material.
+- Re-grep 2026-09-16 (deepen-x slice 09160700-15): hit set unchanged — own profiles musician422, whos-who-1814 + works index, all already wikilinked; still no memoir naming her personally. SKIP-no-new-material.
