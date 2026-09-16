@@ -40,3 +40,6 @@ Re-grep NCTMA|北加州台灣醫師會 across works+articles: identical hits —
 
 ## Corpus re-check (2026-09-16, deepen-x slice 09160400-17)
 Re-grep NCTMA|北加州台灣醫師會 across works+articles: 2 hits only — the already-linked directory record and the works index row. SKIP-with-reason: no new community material; founders and 2000 north–south merger stand, no conflicts to HOLD.
+
+## Corpus re-check (2026-09-16, deepen-x slice 09160500-12)
+Re-grep NCTMA|北加州台灣醫師會 across works+articles: 2 hits — the already-linked directory record (band B) and the works index row only. No memoir/coverage mentions; nothing absorbable; founders and 2000 north–south merger stand, no conflicts to HOLD. SKIP-with-reason.

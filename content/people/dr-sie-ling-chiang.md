@@ -58,3 +58,4 @@ Accomplishment
 - （2026-09-16 deepen pass slice 09160109-22：再次檢索 works/articles，命中集不變（#542/#543/#544、#932、#189、#58），**SKIP：無新可吸收事實。**）
 - Theater activity continued into the 2010s: billed work 933.戲劇:白賊七的騙術&姜西淋博士返鄉專題講座 (2014/10) — a play (Paiketse's骗術) paired with his 返鄉專題講座 — [[works/taiwaneseamericanhistory-org/publications933|TAH #933]]
 - （2026-09-16 deepen pass slice 09160400-20：檢索命中 #542/#543/#544、#932、#189、#58 已吸收；新增吸收 #933（2014/10 返鄉講座＋戲劇節目）。其餘命中為自record與 works index，無其他新事實。）
+- 語料庫再核（deepen-x slice 09160500-12，2026-09-16）：命中集合不變（#542/#543/#544、#932、#189、#58、#933 全部已吸收並連結於上），無新可吸收事實，維持 SKIP。
