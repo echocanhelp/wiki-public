@@ -55,3 +55,4 @@ Tsao is a recurring author in the TAH publications corpus — an applied-mathema
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - 語料庫再扫描（2026-09-15，slices 09150600-28 / 09150700-21）：命中集合與上列完全一致（本人 5 部著作書目頁 + Who's Who #197），無他人回憶錄提及曹恆平；無新可吸收事實。
 - 語料庫再扫描（2026-09-16，deepen-x slice 23）：re-grep 曹恆平 / Hung-ping Tsao — 命中集合不變（本人 5 部著作 + Who's Who #197）；SKIP — 無新可吸收事實。
+- 語料庫再扫描（2026-09-16，deepen-x slice 09160316-20）：re-grep 結果命中集合仍不變（本人 5 部著作書目頁 + Who's Who #197），無他人回憶錄提及；SKIP — 無新可吸收事實。
