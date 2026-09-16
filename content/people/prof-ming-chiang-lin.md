@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-15
+last_reviewed: 2026-09-16
 ---
 # Prof. Ming Chiang Lin (林明璋教授)
 
@@ -48,3 +48,6 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+## Corpus re-grep (2026-09-16)
+- SKIP: 再grep語料僅見已吸收之 ourjourneys-138（華府第一代研究者回憶）、conrad award 頁、winners30 及 works index，無新語料可吸收；HOLD（林明璋 vs 林明彰）維持。

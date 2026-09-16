@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-14
+last_reviewed: 2026-09-16
 ---
 # Dr. Ted Fan (范少達博士)
 
@@ -49,3 +49,6 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+## Corpus re-grep (2026-09-16)
+- SKIP: 再grep語料僅見已吸收之 ourjourneys162 中/EN（2009-09-19 台灣中心開幕）及 works index，無新語料可吸收。

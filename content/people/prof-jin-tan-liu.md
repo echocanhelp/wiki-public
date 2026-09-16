@@ -36,6 +36,7 @@ last_reviewed: 2026-09-16
 _No filled family fields on the TAH profile._
 
 ## Role in the Community
+- Corpus (TAH Who's Who record): his own encyclopedia entry is in the corpus as [[works/taiwaneseamericanhistory-org/whos-who-1633-jin-tan-liu|TAH #1633 Prof. Jin-Tan Liu 劉錦添教授]] (2017/05), which records him as a 台大特聘教授 (distinguished professor, NTU Dept. of Economics) — the corpus consistently describes him as 「知名的計量經濟學者」.
 - 2021-02 — 青平台基金會轉型（鄭麗君主導）時，應允與陳博志、朱敬一、吳乃德、吳榮義、陳東升、陳傳岳等人同任**顧問**：[[articles/taiwanjustice-net/2021/20210303211034_2021_02_22_鄭麗君推青平台轉型_林飛帆吳怡農任基金會董事_4ff1da3d6099b2e3|鄭麗君推青平台轉型（2021-03-03）]]
 - 2020-05 — 總統府被駭事件中，偽造文件把劉錦添寫成「總統姐夫、台大經濟系教授推薦32名閣員名單」；發言人黃重諺稱此訊息「完全杜撰」，指其從未出席府內政策會議：[[articles/taiwanjustice-net/2025/20251214082621_台灣總統府遭駭客入侵_文件遭變造後散佈_aff536a57f923100|台灣總統府遭駭客入侵（文件變造報導）]]、[[articles/taiwanjustice-net/2025/20251206005811_總統府遭駭_國安人士_典型認知空間作戰製造紛_3c0f5da09f6d3290|總統府遭駭（認知作戰報導）]]
 - HOLD: conflict — 傳聞「總統姐夫」親屬關係 vs 總統府否認相關文件為偽造；親屬關係本身未經corp證實，不預設。
