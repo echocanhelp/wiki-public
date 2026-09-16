@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-15
+last_reviewed: 2026-09-16
 ---
 # Sibyl Chen (陳世樸)
 
@@ -35,6 +35,7 @@ The Johns Hopkins University - Paul H. Nitze School of Advanced International St
 - Per 王淑芬's announcement [[works/taiwaneseamericanhistory-org/ourjourneys157|Our Treasury 的書出來了！]]: freshly graduated from UC Berkeley political science and long passionate about writing, she took over the book project from earlier student writers who dropped out over coursework, found not a single existing book documenting Taiwanese American daily life, and quit her job to write full-time for three months. The 50-page book tells ten stories — a housewife who became a community leader through PTA, a tech entrepreneur turned CEO, 楊宗昌 after thirty years on the blacklist, 阿香 of the Formosan Affairs Journal 婦女信箱 column, painter 陳錦芳 from village student to Paris volunteer to UN cultural ambassador, and young New Jersey Taiwanese-community activist 蔡岳庭, among others. She then went on to SAIS to study American foreign policy, as planned.
 - TAH Who's Who entry: [[works/taiwaneseamericanhistory-org/whos1450|TAH 1450]].
 - Corpus re-sweep 2026-09-15（slice 27）：語料命中僅本頁已連結並已吸收之四頁（ourjourneys157 王淑芬宣布文、publications144、ff312、whos1450）及 works/index 收錄列舉；**SKIP：所命中語料全數已在本頁吸收**，無新事実、無衝突需 HOLD。
+- Corpus re-sweep 2026-09-16（slice 09160109-22）：命中集不變，**SKIP：無新可吸收事實。**
 
 ## Family
 
