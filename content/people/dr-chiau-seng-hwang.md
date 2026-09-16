@@ -55,3 +55,5 @@ Dr. Chiau-Seng Hwang 黃昭聲醫師 – History of Taiwanese American (T.A. Arc
 **RECHECK 2026-09-16 (slice 09160109-19):** corpus re-grep (works/ + articles/) returned the same hit set already absorbed above (ourjourneys74, ourjourneys321, whos-who-2236) — NATMA 密西根代表名單與陳文成追悼會捐費記載逐字核對無誤; no new material.
 
 **RECHECK 2026-09-16 (slice 09160400-8):** corpus re-grep for 黃昭聲 / Chiau-Seng Hwang returned the same hit set (ourjourneys74, ourjourneys321 +eng, whos-who-2236, works index) — all facts already absorbed in Role in the Community; no new material, no conflicts.
+
+**RECHECK 2026-09-16 (slice 09160500-6):** corpus re-grep (works/ + articles/) returned no new 黃昭聲 / Chiau-Seng Hwang material beyond the already-absorbed set (ourjourneys74, ourjourneys321, whos-who-2236); the broader 黃/Hwang sweep surfaced only unrelated Huang/Ban persons (黃智舜, 黃勝雄, 黃昭堂, 黃景生, 黃介山, Ula Hwang 等). SKIP-with-reason; no new links.

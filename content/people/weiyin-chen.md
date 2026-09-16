@@ -63,3 +63,4 @@ _No filled family fields on the TAH profile._
 - SKIP 再確認（deepen-x slice 09160109-11, 2026-09-16）：語料庫命中集不變（僅本人 TAH #209、#682 與 works/index），維持 SKIP-with-reason。
 - SKIP 再確認（deepen-x slice 09160316-9, 2026-09-16）：語料庫命中集不變（僅本人 TAH #209、#682 與 works/index），維持 SKIP-with-reason。
 - 再確認並新增消歧（deepen-x slice 09160400-8, 2026-09-16）：本輪語料庫命中新增 [[works/taiwaneseamericanhistory-org/ff284|TAH #284 Wei-Yin Chen 陳偉殷（MLB 投手）]] 與 whos-who-1744（同為陳偉殷）—— romanization 相近的**職棒投手陳偉殷**，非本頁鋼琴家陳偉茵，切勿合併。除此之外仍僅本人 TAH #209、#682，無可吸收之社群/回憶錄材料，維持 SKIP-with-reason。
+- SKIP 再確認（deepen-x slice 09160500-4, 2026-09-16）：語料庫命中集不變（僅本人 TAH #209、#682 與 works/index；另有 romanization 相近之職棒投手陳偉殷 whos-who-1744／ff284，已消歧勿合併），維持 SKIP-with-reason。

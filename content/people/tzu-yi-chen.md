@@ -68,3 +68,4 @@ _No filled family fields on the TAH profile._ The profile narrative does record 
 - SKIP 再確認（slice 09150700-12, 2026-09-15）：語料庫檢索仍僅命中本人書目頁 TAH #106、#184 與 works index，無回憶錄或社群新材料。
 - SKIP 再確認（slice 09160316-9, 2026-09-16）：語料庫檢索仍僅命中本人書目頁 TAH #106、#184 與 works index，無回憶錄或社群新材料，維持 SKIP-with-reason。
 - SKIP 再確認（slice 09160400-7, 2026-09-16）：語料庫檢索仍僅命中本人書目頁 TAH #106、#184 與 works index，無回憶錄或社群新材料，維持 SKIP-with-reason。
+- SKIP 再確認（slice 09160500-6, 2026-09-16）：語料庫檢索仍僅命中本人書目頁 TAH #106、#184 與 works index，無回憶錄或社群新材料，維持 SKIP-with-reason。

@@ -51,6 +51,7 @@ _No filled family fields on the TAH profile._
 - **再檢 slice 16（2026-09-16）：**命中集合不變（#104、#150 + works/index 目錄行）。維持 SKIP——語料庫僅有自身 press-kit 條目，無回憶錄/社區紀錄可吸收。
 - **再檢 slice 14（2026-09-16）：**命中集合不變（#104、#150 + works/index 目錄行）。內容級 grep 確認兩條目皆為自身 press-kit/目錄紀錄，無回憶錄或社區紀錄提及，維持 SKIP，無衝突需 HOLD。
 - **再檢 slice 13（09160400-13，2026-09-16）：**命中集合不變（#104、#150 + works/index 目錄行）。維持 SKIP——語料庫僅有自身 press-kit 條目，無可吸收之回憶錄/社區紀錄，無衝突需 HOLD。
+- **再檢 slice 11（09160500-11，2026-09-16）：**命中集合不變（#104、#150 自身條目 + works/index）。內容級確認兩條目皆為 press-kit/目錄紀錄，無回憶錄或社區紀錄提及。維持 SKIP-with-reason，無衝突需 HOLD。
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

@@ -61,3 +61,4 @@ _No filled family fields on the TAH profile._
 - 語料庫再核（deepen-x slice 09160109-17，2026-09-16）：命中集合不變（僅本人 TAH #434 記錄 `434-pianist-sharon-how` 與 works/index），維持 SKIP-with-reason。
 - 語料庫再核（deepen-x slice 09160316-15，2026-09-16）：命中集合不變（僅本人 TAH #434 記錄與 works/index 目錄列項），無他人回憶錄或社群事跡可吸收，維持 SKIP-with-reason。
 - 語料庫再核（deepen-x slice 09160400-14，2026-09-16）：命中集合不變（陳意超/Melvin Chen 僅本人 TAH #434 記錄與 works/index），無可吸收社群材料，維持 SKIP-with-reason。
+- 語料庫再核（deepen-x slice 09160500-12，2026-09-16）：命中集合不變（僅本人 TAH #434 記錄 `434-pianist-sharon-how` 與 works/index 目錄列項），無他人回憶錄或社群事跡可吸收，維持 SKIP-with-reason。
