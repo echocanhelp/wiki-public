@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-17
 ---
 # Patrick Huang (黃再添)
 
@@ -35,6 +35,10 @@ Accomplishment
 
 - **Wife:** [[people/s-c-yang||楊淑卿]]
 
+
+## Role in the Community
+- Recorded in 鄭家隆's institutional memoir of the New York Taiwan House (紐約台灣會館) as one of four volunteers — with 陳隆豐, 樊豐美, 賴弘典 — who kept fundraising for the House when it faced closure, and whose report to the incoming director helped launch its 1992 turnaround ([[works/taiwaneseamericanhistory-org/ourjourneys27|27. 紐約台灣會館：在困境中更新 / 鄭家隆 / 2014-09]], value band A).
+- Active in the 台灣筆會 community: the pen-association's longtime chronicler 柯哲洋 (Kin Ko) recalls 黃再添 emailing congratulations after a successful annual conference ([[works/taiwaneseamericanhistory-org/ourjourneys12|Our Journeys #12 筆會 memoir]]).
 
 ## Sources
 - [TAH #193 encyclopedia: 193. Patrick Huang 黃再添](https://taiwaneseamericanhistory.org/193-patrick-huang/)
