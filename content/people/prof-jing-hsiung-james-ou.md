@@ -43,6 +43,7 @@ _No filled family fields on the TAH profile._
 
 - 語料庫檢索（2026-09-16，content/works + content/articles）僅見書目記錄 [[works/taiwaneseamericanhistory-org/whos-who-2018-jing-hsiung-ou||TAH #2018]]（2018-02-08，B 級），無回憶錄／社團文章提及本人；vault 內尚無可吸收的社群事證。
 - 任職紀錄（USC 微生物學／新興病原體與免疫疾病研究所副所長 2012–2017、台積中研院分子所訪問教授 2001）全部出自 TAH 傳記材料，未經本土語料交叉印證。
+- Slice deepen-x-slice-09162138-21 覆核（2026-09-16 夜）：再檢結果相同，僅書目記錄一筆，無可吸收之社群事證。SKIP。
 
 ## Sources
 - [TAH #2018 encyclopedia: 2018. Prof. Jing-Hsiung (James) Ou 歐競雄教授](https://taiwaneseamericanhistory.org/whos-who-2018-jing-hsiung-ou/)
