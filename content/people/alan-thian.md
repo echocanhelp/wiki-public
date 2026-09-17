@@ -257,6 +257,7 @@ Notable quotes and mentions of **田詒鴻** in Taiwan Justice articles:
 
 ## From the record
 
+- 2021-05-13 — 南加州僑界45個社團（含台美人歷史協會、台美人律師協會）於洛杉磯華僑文教服務中心開發布會，連署聯合聲明支持台灣以制度化管理參與WHA/WHO，為聲明共同發起人之一（[[articles/taiwanjustice-net/2021/20210616072940_2021_05_17_2021年南加州僑界支持台灣參與世界衛生大會wha聯合聲_b1d58af16c0a5e5b|TJJ 2021-06-16 轉載]]；[[articles/taiwanjustice-net/2025/20251108183438_2021年南加州僑界支持台灣參與世界衛生大會wha聯合聲_80c0a825a7a661b6|2025-11-08 快照]]）。
 - 2019-10-10 — A TJJ report on the 2020 海外小英後援會 LA 造勢大會 (10-13, San Gabriel Hilton) names Thian as 會長 (國策顧問領銜), setting out the group's three services: voter registration assistance, return-to-Taiwan election-support tours, and 2020 election information ([[articles/taiwanjustice-net/2024/20240613093234_root_1d72b2ae61640747|TJJ, 2019-10-10]]).
 - 2020-06-23 — A TJJ report on the Taiwan Center's pandemic relief identifies Thian as 董事長 whose Royal Business Bank donated 3,900 medical masks (1,200 relayed via 副董事長 陳柏宇 to Laguna Woods city, 600 to the Southern California Taiwanese elders' association) ([[articles/taiwanjustice-net/2020/20201126153300_2020_06_23_大洛杉磯台灣會館_疫情擋不住人情_濟困扶危挺_c05e2d53013fcd15|TJJ, 2020-06-23]]).
 - 2022-09-13 — A TJJ notice for the 大洛杉磯台灣會館 24th-anniversary gala records that Thian, then 董事長 and 行政院政務顧問, led the 2018 launch of the center's expansion/ rebuilding fund campaign together with 執行長 林榮松 ([[articles/taiwanjustice-net/2022/20220924222953_2022_09_13_10-22大洛杉磯台灣會館-24-週年募款年會_紀政擔任主講_2a543ddc9301b7b3|TJJ, 2022-09-13]]).

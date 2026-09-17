@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-16
+last_reviewed: 2026-09-17
 ---
 # Hui Mei Lin (林慧美)
 
@@ -50,3 +50,4 @@ Hui-Mei Lin, pianist, received her Master’s degree from the Juilliard School a
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - Corpus re-grep 2026-09-16 (slice 09162200-10): SKIP — hit set unchanged (#188, ourjourneys268, ourjourneys123); Amy Lin 林惠美 collision re-confirmed a different person. Minnesota HOLD stands.
+- Corpus re-grep 2026-09-17 (slice 09170130-7): SKIP — hit set unchanged (#188, ourjourneys268, ourjourneys123, works index); Amy Lin 林惠美 collision re-confirmed a different person; Minnesota HOLD stands.

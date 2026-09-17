@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-16
+last_reviewed: 2026-09-17
 ---
 # Jessie Chang (張晶晶)
 
@@ -62,3 +62,4 @@ Pianist Jessie Chang is admired for her beautiful tone, commanding technique, an
 - Corpus re-grep 2026-09-16 (slice 09160700-13): identical hit set (own #731/#321 + index). SKIP-with-reason; saturated across eight passes.
 - Corpus re-grep 2026-09-16 (slice 09162138-10): identical hit set (own #731/#321 + index). SKIP-with-reason; saturated across nine passes.
 - Corpus re-grep 2026-09-16 (slice 09162200-9): identical hit set (own #731/#321 + works/index). SKIP-with-reason; saturated across ten passes.
+- Corpus re-grep 2026-09-17 (slice 09170130-6): identical hit set (own #731/#321 + works index). SKIP-with-reason; saturated across eleven passes.

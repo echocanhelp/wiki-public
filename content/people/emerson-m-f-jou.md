@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-16
+last_reviewed: 2026-09-17
 ---
 # Dr. Emerson M.F. Jou (周明峰醫師)
 
@@ -49,6 +49,7 @@ last_reviewed: 2026-09-16
 - Corpus memoirs (Our Journeys corpus, articles/) carry no narrative passages naming 周明峰 beyond these TAH records; 心在台灣 (1995), the remaining pain-management titles and 晚霞滿天 (2020) appear only in the press-kit block above — no separate publication record surfaced in the re-grep.
 - Corpus re-grep 2026-09-16 (slices 09160700-17, 09162138-14): SKIP — hit set unchanged (#100 Who's Who, OTA #282, Private Collection #104, publication records #33/#35/#1342/#1352, works index). No memoir or article narrative; nothing new absorbable.
 - Corpus re-grep 2026-09-16 (slice 09162200-12): SKIP — hit set unchanged. False-hit guard: the broad 明峰 substring matches in [[works/taiwaneseamericanhistory-org/ourjourneys30|Our Journeys #30 (西雅圖台灣會館)]] and [[works/taiwaneseamericanhistory-org/ourjourneys316|Our Journeys #316 (紐約台灣會館老人中心)]] are 蔡明峰 ([[people/martin-tsai|Martin Tsai]], NY 台灣會館前董事長) — a different person; do not merge. No 周明峰 narrative in any memoir.
+- Corpus re-grep 2026-09-17 (slice 09170130-7): SKIP — hit set unchanged (#100, OTA #282, Private Collection #104, publications #33/#35/#1342/#1352, works index). 蔡明峰 false-hit guard re-applied. No 周明峰 memoir narrative.
 
 ## Sources
 - [TAH #282 encyclopedia: 282. Dr. Emerson M. F. Jou 周明峰醫師](https://taiwaneseamericanhistory.org/ota-282/)

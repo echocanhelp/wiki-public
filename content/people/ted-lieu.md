@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-16
+last_reviewed: 2026-09-17
 ---
 # Ted Lieu (劉雲平)
 
@@ -64,3 +64,4 @@ Re-grep 劉雲平 / Ted Lieu across content/works + content/articles returned th
 - Corpus re-grep (deepen-x slice 09160700-15, 2026-09-16): same six work pages (募款會, #6, events-2020-12, my-stories-787, #4, #155), all already wikilinked. SKIP-no-new-material.
 - Corpus re-grep (deepen-x slice 09162138-11, 2026-09-16): same six work pages (募款會, #6, events-2020-12, my-stories-787, #4, #155), all already wikilinked. SKIP-no-new-material.
 - Corpus re-grep (deepen-x slice 09162200-9, 2026-09-16): same six work pages (募款會, #6, events-2020-12, my-stories-787, #4, #155), all already wikilinked. SKIP-no-new-material.
+- Corpus re-grep 2026-09-17 (slice 09170130-7): hit set unchanged (募款會, #6 census-checkbox, events-2020-12, my-stories-787, #4, #155), all already wikilinked. SKIP-no-new-material.

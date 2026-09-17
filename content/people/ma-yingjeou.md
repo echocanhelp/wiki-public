@@ -30,6 +30,7 @@ last_reviewed: 2026-09-17
 
 ## From the record
 
+- 2013-09-15 — TJJ English Pages 目錄頁收錄 Jerome F. Keating 評論「Will Ma Ying-jeou's Disappearing Legacy be that of Richard III?」。（[[articles/taiwanjustice-net/2024/20240224194137_root_b1e144ecc18e460f|TJJ, 2013-07-30 快照]]）。
 - 2013-04-22 — TJJ 轉載 Michael Richardson 報導（陳水扁移送風波）：Human Rights Action Center 的 Jack Healey 指馬英九政府「涉入司法程序、受復仇政治驅動」並公開呼籲「莫讓馬英九謀殺陳水扁而無人發聲」；同文稱民調顯示馬支持度跌至历史新低，多數台灣民意主張准陳水扁醫療釋放 —— [[articles/taiwanjustice-net/2024/20240425113156_root_f19de8f9d3b53071|TJJ：Chen Shui-bian's return to prison（2013-04-22）]]。
 
 - 2013-10-06 — The Economist, reprinted via TJJ, called Ma "possibly one of the most unpopular elected presidents in Taiwan's history" after the 馬王政爭 drove his approval to 9.2%, while crediting the 2013 ICAO invitation as a diplomatic breakthrough ([[articles/taiwanjustice-net/2024/20240530133623_root_becb39f917174438|The Economist via TJJ, 2013-10-06]]).

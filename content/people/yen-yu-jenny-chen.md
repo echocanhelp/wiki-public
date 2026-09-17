@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-16
+last_reviewed: 2026-09-17
 ---
 # Dr. Yen-Yu Jenny Chen (陳延瑜博士)
 
@@ -54,3 +54,4 @@ Dr. Yen-Yu (Jenny) Chen 陳延瑜博士 – History of Taiwanese American (T.A. 
 - Re-grep 2026-09-16 (deepen-x slice 09160700-15): hit set unchanged — own profiles musician422, whos-who-1814 + works index, all already wikilinked; still no memoir naming her personally. SKIP-no-new-material.
 - Re-grep 2026-09-16 (deepen-x slice 09162138-11): hit set unchanged — own profiles musician422, whos-who-1814 + works index, all already wikilinked; still no memoir naming her personally. SKIP-no-new-material.
 - Re-grep 2026-09-16 (deepen-x slice 09162200-9): hit set unchanged — own profiles musician422, whos-who-1814 + works index. SKIP-no-new-material.
+- Re-grep 2026-09-17 (slice 09170130-6): hit set unchanged — own profiles musician422, whos-who-1814 + works index, all already wikilinked; still no memoir naming her personally. SKIP-no-new-material.

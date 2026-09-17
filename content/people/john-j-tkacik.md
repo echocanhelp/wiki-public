@@ -80,3 +80,7 @@ The one title-authored column preserved in the harvest — *台灣、烏克蘭�
 - [[sources/taiwanjustice-net||taiwanjustice.net source hub]]
 - [[organizations/taiwanjustice-net||taiwanjustice.net (台灣公義網)]]
 - [[people/freeman-huang||Freeman Huang (黃樹人)]]
+
+## From the record
+
+- 2016-12-05 — TJJ English Pages 目錄頁收錄其 National Interest 轉載評論「Donald Trump Has Disrupted Years of Broken Taiwan Policy」。（[[articles/taiwanjustice-net/2024/20240224194137_root_b1e144ecc18e460f|TJJ, 2013-07-30 快照]]）。
