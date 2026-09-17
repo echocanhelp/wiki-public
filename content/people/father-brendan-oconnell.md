@@ -37,6 +37,8 @@ Corpus check (2026-09-16, slice deepen-x-30): re-grepping under the Chinese name
 
 Corpus re-grep (2026-09-16, slice 09160700-17): SKIP — hit set unchanged. New grep hits are works/index plus 台灣正義網 category/tag listing pages (2020 culture & videos pages, a 2025 這些人這些事 tag page) that merely re-list the already-cited obituary (奉獻台灣半世紀，紐約過世享壽84歲, 2020-04-16) and 民視台灣學堂 memorial episode (早療先驅甘惠忠神父—盧俊義, 2020-06-01). No memoir narrative; nothing new absorbable.
 
+Corpus re-grep (2026-09-16, slice 09162138-9): SKIP — hit set unchanged. 甘惠忠 hits remain the #2255 bibliography page, works/index, and 台灣正義網 listing pages (incl. a 2020-06-28 culture page-2 index and the 2025 這些人這些事 tag page) that re-list the same already-cited obituary and 民視台灣學堂 memorial episode; English-name grep hits nothing beyond #2255. No memoir narrative; nothing new absorbable; no conflicts to HOLD.
+
 ## Family
 
 _No filled family fields on the TAH profile._

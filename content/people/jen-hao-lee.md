@@ -60,4 +60,5 @@ The FPCLA church memoir records him as the church's sixth stated pastor, serving
 - [[organizations/presbyterian-church-in-taiwan||PCT]] — TAH Who’s Who
 
 - Corpus re-check log (2026-09-16, slice 09160600-15): re-grep 李仁豪/Jen-Hao Lee — hit set unchanged (ourjourneys231 ZH+EN, mystories201, artist32, musician160, whoswho1022), all absorbed and wikilinked above. SKIP-with-reason; no new corpus facts, no conflicts.
+- Corpus re-check log (2026-09-16, slice 09162138-8): re-grep Jen-Hao Lee / 李仁豪 — hit set unchanged (ourjourneys231 ZH+EN pastor history, mystories201, artist32, musician160, whoswho1022), all absorbed above. SKIP-with-reason; no new corpus facts, no conflicts.
 - Corpus re-check log (2026-09-16, slice 09160700-12): re-grep hit set again unchanged (ourjourneys231 ZH+EN, mystories201, artist32, musician160, whoswho1022), all absorbed above. SKIP-with-reason; no new corpus facts, no conflicts.

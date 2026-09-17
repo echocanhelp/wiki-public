@@ -57,3 +57,4 @@ _No filled family fields on the TAH profile._
 - Corpus re-grep 2026-09-16 (slice 09160500-21): hit set unchanged (#150, #2150, ourjourneys47 NATPA 籌備記述已吸收, index). SKIP — saturated, no new community facts.
 - Corpus re-grep 2026-09-16 (slice 09160600-16): hit set unchanged (#150, #2150, ourjourneys47, index). SKIP — saturated, no new community facts.
 - Corpus re-grep 2026-09-16 (slice 09160700-13): hit set unchanged (#150, #2150, ourjourneys47 NATPA 記述已吸收, index). SKIP — saturated, no new community facts.
+- Corpus re-grep 2026-09-16 (slice 09162138-9): hit set unchanged (#150、#2150、ourjourneys47 NATPA 籌備記述已吸收於 Role in the Community、index). SKIP — saturated, no new community facts, no conflicts to HOLD.
