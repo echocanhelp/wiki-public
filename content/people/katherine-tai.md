@@ -62,16 +62,14 @@ Absorbed from vault pages already naming her (no web):
 
 ## From the record
 
+- 2021-02-25 — 於參院財政委員會提名聽證會當日，民主黨參議員斯塔貝諾就美國汽車晶片短缺發難，指台灣廠商「減少」出貨；美台商會會長韓儒伯反駁此說係美國車業低估需求所致，並稱台美政府正尋求緩解之道（[[articles/taiwanjustice-net/2021/20210419115654_2021_02_25_汽車晶片短缺_美國會議員向蕭美琴求助_10e3a027ce22991c|TJJ 轉載中央社, 2021-02-25]]）。
 - 2021-06-10 — 首度與行政院政務委員兼經貿談判辦公室總談判代表鄧振中舉行約 40 分鐘視訊會談，強調台美貿易投資關係重要性及拜登政府以勞工為中心的貿易政策，承諾數週內於 AIT／TECRO 共同主持下重啟自 2016 年 10 月中斷的第 11 屆 TIFA 會議；鄧振中轉述她「對台灣非常友善」（[[articles/taiwanjustice-net/2025/20250719154043_戴琪與鄧振中首度視訊對話_美台未來數週重啟tifa_2c5d3c7d4f5acccc|TJJ 轉載中央社, 2021-06-10]]）。
+- 2022-06-28 — 在美台21世紀貿易倡議首場會談（6/27 於 USTR 召開，行政院政務委員鄧振中、駐美代表蕭美琴視訊出席，美方由副貿易代表畢昂奇 Sarah Bianchi 率團）後的「選擇美國投資峰會」（selectUSA Investment Summit）演說中表示，美台正制定具體、有意義的方式強化雙邊貿易與投資關係，下一步是探索並商定談判路線圖，以便在關鍵領域達成高標準承諾與成果（[[articles/taiwanjustice-net/2025/20250518232637_戴琪_台美貿易倡議盼在關鍵領域達高標準成果_6d16f9e35d9e3188|TJJ 轉載中央社記者華盛頓報導, 2022-06-28]]）。
 
 ## Sources
 - [TAH #2309 encyclopedia: 2309. Katherine Tai 戴琪](https://taiwaneseamericanhistory.org/whos-who-2309-katherine-tai/)
 - [TAH #783 encyclopedia: 783. 戴琪：拜登提名任貿易代表的「中國通」華裔律師是誰？/01/2021](https://taiwaneseamericanhistory.org/my-stories-783/)
 - [TAH Who's Who](https://taiwaneseamericanhistory.org/person/katherine-tai/)
-
-## From the record
-
-- 2021-06-10 — 上任後首度與行政院政務委員兼經貿談判辦公室總談判代表鄧振中視訊會談，強調美台貿易與投資關係重要性及以勞工為中心的貿易優先事項，雙方承諾數週內在AIT與TECRO共同主持下重啟停擺五年（2016年10月最後召開）的第11屆TIFA會議（[[articles/taiwanjustice-net/2021/20210616081448_2021_06_10_戴琪與鄧振中首度視訊對話_美台未來數週重啟tifa_4a5080befc342f69|TJJ/CNA, 2021-06-10]]）。
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

@@ -43,6 +43,10 @@ Hsun Hsun Hsu received her bachelor and master degrees in vocal performance arts
 
 _No filled family fields on the TAH profile._
 
+## From the record
+
+- 2020-03-01 — 許恂恂在阿凱迪亞（Arcadia）社區教會舉行的228台灣介心靈日紀念音樂會（第13屆，因武漢肺炎疫情險停辦後照常舉行）擔任半音合唱團指揮，並特地帶兩名在美長大的孩子參加，她說「歷史要傳承下去，不管我們的專業是什麼，在世界上的哪一個角落，都應該要替台灣人發聲」（[[articles/taiwanjustice-net/2025/20250430234000_洛杉磯僑胞細心防疫_-228台灣介心靈日音樂會不間_2589c86787ef4241|TJJ 轉載中央社記者洛杉磯報導, 2020-03-01]]）。
+
 ## Sources
 - [TAH #356 encyclopedia: 356. Hsun-Hsun Hsu 許恂恂 2015/03](https://taiwaneseamericanhistory.org/356/)
 - [TAH #82 encyclopedia: 82. Hsun Hsun Hsu 許恂恂, Conductor](https://taiwaneseamericanhistory.org/82-hsun-hsun-hsu-%e8%a8%b1%e6%81%82%e6%81%82conductor/)

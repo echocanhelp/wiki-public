@@ -40,6 +40,7 @@ Founding member and board member of the American Premium Tea Institute (now merg
 
 - 2023-08-06 — A TJJ report on the 28th 台美小姐選拔賽 (2023-08-05, San Gabriel Hilton) lists Shu, as 台灣茶葉大使, among the final-round judges alongside 僑務委員何巧玲, 前台美小姐總召余佳霓, 華裔舞蹈協會會長賴泱璇, 托倫斯市長陳光豪 and 聖馬利諾市議員黃文谷 ([[articles/taiwanjustice-net/2025/20250614233935_2023台美小姐選拔賽_盛大舉行-宋依珊_mimiq-soong_奪后_79b5f26fdef89d22|TJJ, 2023-08-06]]).
 - 2024-02-28 — 以優社（TEA）社長身份在台灣人聯合基金會（TUF）合辦的第17屆「台灣介心靈日」228紀念音樂會（Arcadia Community Church）以客語吟頌杜潘芳格詩作「台灣介心靈日」與張秋台客家詩《渡台悲歌》，提醒大家莫忘228悲劇（[[articles/taiwanjustice-net/2024/20240522044953_root_47725345581e0f61|TJJ 影音報導, 2024-03-04]]；另見同一報導之影音全集頁 [[articles/taiwanjustice-net/2025/20250517150428_台灣介心靈日-2-28-77週年紀念音樂會20240228影音全集_ff4731d4f51b100d|TJJ, 2024-03-04]]）。
+- 2020-03-01 — 第13屆228紀念音樂會因武漢肺炎疫情險停辦，主辦人潘掬慧諮詢醫師意見後照常舉行；主辦人之一許正龍在阿凱迪亞（Arcadia）社區教會登台以客語吟唱詩歌，近百名鄉親出席為二二八受難者祈禱（[[articles/taiwanjustice-net/2025/20250430234000_洛杉磯僑胞細心防疫_-228台灣介心靈日音樂會不間_2589c86787ef4241|TJJ 轉載中央社記者洛杉磯報導, 2020-03-01]]）。
 
 ## Sources
 - [TAH #68 encyclopedia: 68. Thomas Shu 許正龍 / The first Ambassador of Taiwan Tea第一任台灣茶葉大使 / 2007](https://taiwaneseamericanhistory.org/68-thomas-shu-%e8%a8%b1%e6%ad%a3%e9%be%8d-the-first-ambassador-of-taiwan-tea%e7%ac%ac%e4%b8%80%e4%bb%bb%e5%8f%b0%e7%81%a3%e8%8c%b6%e8%91%89%e5%a4%a7%e4%bd%bf-2007/)

@@ -44,6 +44,7 @@ _No filled family fields on the TAH profile._
 
 ## From the record
 
+- 2021-02-25 — 駐美代表任內因美國汽車晶片短缺獲悉多達國會議員求助；她向議員說明缺貨起因為中間供應商去年砍單、屬民間商業行為，台灣廠商正努力增產；斯塔貝諾參議員證實曾就此與她會晤並感謝其關注（[[articles/taiwanjustice-net/2021/20210419115654_2021_02_25_汽車晶片短缺_美國會議員向蕭美琴求助_10e3a027ce22991c|TJJ 轉載中央社, 2021-02-25]]）。
 - 2020-11-05 — 美國大選膠著時表示「無論誰勝選，台美關係將持續深化」，見台灣公義報「台美人台加人」分類（2025-02-16 存檔）—— [[articles/taiwanjustice-net/2025/20250216000009_category_taiwaneseamerican_page_2_3be67f6e82d34da7|TJJ 台美人台加人存檔頁2]]。
 - 2017-02 — Led an 8-lawmaker legislative delegation to the US (王定宇, 林俊憲, 邱議瑩, 尤美女, 江啟臣, 許毓仁, 高路·以用), meeting House/Senate members, administration units, and think tanks including the Global Taiwan Institute; 宋娣's column cites the trip as proof the US-Taiwan relationship is approaching quasi-state status ([[articles/taiwanjustice-net/2024/20240522232536_root_064fe05a08d0aecf|TJJ, 2017-02-17]]).
 - 2020-11-17 — Announced by 大洛杉磯台灣會館 as guest speaker of its 22nd online fundraising annual meeting (2020-12-05) on 「台美攜手 眾志成城 TAIWAN-U.S.A. STRONGER TOGETHER」; the notice recounts her four DPP legislative terms and her status as one of two people ever to serve as both 僑選 and 區域立委 ([[articles/taiwanjustice-net/2020/20201126160218_2020_11_17_大洛杉磯台灣會館基金會22週年線上募款年會12-5舉行_c3e762826a7e42d2|TJJ, 2020-11-17]]).
