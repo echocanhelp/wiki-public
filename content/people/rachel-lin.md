@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-16
+last_reviewed: 2026-09-17
 ---
 # Rachel Lin
 
@@ -38,7 +38,7 @@ Rachel Lin began her violin lessons when she was 8 years old with Dr. Lee Tai Hs
 ## Role in the Community
 - Featured twice in the TAH Foundation encyclopedia record: [[works/taiwaneseamericanhistory-org/164-rachel-lin-violinist-201503|164. Rachel Lin, Violinist / 2015-03]] and [[works/taiwaneseamericanhistory-org/321-rachel-lin-violinist-201503|321. Rachel Lin, violinist / 2015-03]] — both published 2015-03-08 as community historical records (bibliographic; full text stays in the vault).
 - Corpus material so far is limited to these TAH profile entries; her Bay Area violin-teaching career (youth symphony pipeline, MTAC member) rests on the TAH Who's Who bio. No memoir first-person material found in the corpus.
-- Re-verified 2026-09-16: corpus re-grep (works/articles) hits only the two TAH encyclopedia records #164/#321 above (bibliographic; full text stays in the vault) plus index listings — no additional community facts absorbable.
+- Re-verified 2026-09-17: corpus re-grep (works/articles) hits only the two TAH encyclopedia records #164/#321 above (bibliographic; full text stays in the vault) plus index listings — no additional community facts absorbable.
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/rachel-lin/)
