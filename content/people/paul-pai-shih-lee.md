@@ -35,6 +35,9 @@ Violinist Paul Pai-Shih Lee, a Taiwan born Taiwanese-American, started his music
 - **Wife:** [[people/ching-ming-cheng||Ching-Ming Cheng 鄭靜旻]]
 
 
+## Role in the Community
+Two TAH Who's Who records are held in the corpus: [[works/taiwaneseamericanhistory-org/189-paul-pai-shih-lee-e6-9d-8e-e7-99-be-e4-bb-95-violinist201504|189. Paul Pai-Shih Lee 李百仕, Violinist (2015/04)]] and [[works/taiwaneseamericanhistory-org/205-paul-pai-shih-lee-e6-9d-8e-e7-99-be-e4-bb-95201501|206. Paul Pai-Shih Lee 李百仕 (2015/01)]] — the latter's page number (206) disagrees with its archive slug (205); HOLD: slug-vs-title numbering conflict. No memoir or article mentions found beyond these records.
+
 ## Sources
 - [TAH #189 encyclopedia: 189. Paul Pai-Shih Lee 李百仕, Violinist/2015/04](https://taiwaneseamericanhistory.org/189-paul-pai-shih-lee-%e6%9d%8e%e7%99%be%e4%bb%95-violinist201504/)
 - [TAH #206 encyclopedia: 206. Paul Pai-Shih Lee 李百仕/2015/01](https://taiwaneseamericanhistory.org/205-paul-pai-shih-lee-%e6%9d%8e%e7%99%be%e4%bb%95201501/)

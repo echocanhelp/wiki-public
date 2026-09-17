@@ -34,6 +34,9 @@ last_reviewed: 2026-09-17
 
 _No filled family fields on the TAH profile._
 
+## Role in the Community
+Two TAH Who's Who records for her are held in the corpus: [[works/taiwaneseamericanhistory-org/256-e5-bc-b5-e5-bb-96-e8-8e-89-e5-a8-9c-lina-huang-soprano-201508|256. Lina Huang 張廖莉娜, Soprano (2015/08)]] and [[works/taiwaneseamericanhistory-org/525-lina-huang-e5-bc-b5-e5-bb-96-e8-8e-89-e5-a8-9c-201508|525. Lina Huang 張廖莉娜 (2015/08)]] — same-day duplicate directory entries, consistent with the Houston soprano / Taichung 第十届市議員 (1980) profile. No memoir or article mentions found beyond these records.
+
 ## Sources
 - [TAH #525 encyclopedia: 525. Lina Huang 張廖莉娜 / 2015/08](https://taiwaneseamericanhistory.org/525-lina-huang-%e5%bc%b5%e5%bb%96%e8%8e%89%e5%a8%9c-201508/)
 - [TAH #256 encyclopedia: 256. Lina Huang 張廖莉娜 , Soprano / 2015/08](https://taiwaneseamericanhistory.org/256-%e5%bc%b5%e5%bb%96%e8%8e%89%e5%a8%9c-lina-huang-soprano-201508/)
