@@ -37,6 +37,10 @@ last_reviewed: 2026-09-17
 
 _No filled family fields on the TAH profile._
 
+## Role in the Community
+- Entered the community record via the TAH Foundation Who's Who encyclopedia entry [[works/taiwaneseamericanhistory-org/whoswho1400|1400. Clement C.S.Hsu 許清曉 / 2016/11]] (published 2016-11-17, value band B).
+- Corpus scan (content/works, content/articles): no memoir or article mentions of 許清曉 found beyond the own-record page; other "Clement" matches in the corpus are unrelated (Clementi, San Clemente Island, Clément Beaune).
+
 ## Sources
 - [TAH #1400 encyclopedia: 1400. Clement C.S.Hsu 許清曉 / 2016/11](https://taiwaneseamericanhistory.org/whoswho1400/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/clement-c-s-hsu/)
