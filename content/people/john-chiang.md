@@ -124,3 +124,4 @@ His childhood experience with racial discrimination shaped his worldview. He wit
 
 - 2017-09-08 — TJJ English Pages 目錄頁收錄其英文專欄「John Chiang: Hear what Californians have to say about our future and...」（本快照頁）。（[[articles/taiwanjustice-net/2024/20240224194137_root_b1e144ecc18e460f|TJJ, 2013-07-30 快照]]）。
 - 2020-06-26 — 其英文專欄「John Chiang: Hear what Californians have to say about our future」列於台灣正義網 English Pages 目錄頁（快照 2020-06-26）（[[articles/taiwanjustice-net/2020/20200626022615_category_english-pages_page_2_c351c962b4545bfa|TJJ English Pages, 2020-06-26]]）。
+- 2017-09-08 — 其英文專欄「John Chiang: Hear what Californians have to say about our future and about this campaign」列於台灣正義網 English Pages 目錄頁（本快照頁，存檔 2017-11-09）（[[articles/taiwanjustice-net/2017/20171109045230_category_english-pages_2b4b26ff68b75bc6|TJJ English Pages, 2017-11-09 快照]]）。

@@ -21,7 +21,8 @@ The Asian Senior Concerns Foundation is a nonprofit organization established in 
 ## Role in the Community
 - Recorded in the TAH community directory entry [[works/taiwaneseamericanhistory-org/asian-senior-concerns-foundation|48. Asian Senior Concerns Foundation 亞裔銀髮族關懷基金會(西雅圖)]] (published 2017-04-04, value band B), which documents the Seattle (西雅圖) chapter of the foundation.
 - Adjacent in the same senior-services cluster of the TAH directory: [[works/taiwaneseamericanhistory-org/happy-club-nnj|Happy Club 精精俱樂部]].
-- Corpus scan (content/works, content/articles): no memoir/article mentions beyond the own-directory record.
+- Founder's own account: Dr. 陳一仁's essay [[works/taiwaneseamericanhistory-org/ourjourneys281|281. 如是，我為：自己的老年狄斯耐樂園自己建造！ / 陳一仁 / 2017-04]] (value band A) describes founding the foundation with a group of volunteers in spring 2002, starting with weekly Saturday lectures plus tai-chi/qigong classes at a rented community center, then a joint health-lecture day with a local hospital (2003) and a large health fair with several Mandarin-speaking physicians that drew hundreds from the community.
+- HOLD: founding-year conflict — directory snapshot says established 2001; founder 陳一仁's memoir says spring 2002. Not auto-merged; needs owner confirmation.
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/asian-senior-concerns-foundation/)

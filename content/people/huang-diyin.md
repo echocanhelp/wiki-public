@@ -1,5 +1,9 @@
 
 
+## From the record
+
+- 2020-11-25 — FAHR 公告第44屆年會（12/5 台北）邀歷屆「鄭南榕紀念獎」得獎人回娘家，黃帝穎名列 2018 年得獎人（[[articles/taiwanjustice-net/2021/20210118235211_2020_11_25_全美台灣人權協會第44屆年會暨_鄭南榕紀念獎_頒_996879ac7a006acf|TJJ, 2020-11-25]]）。
+
 ## Timeline
 
 Chronological events for **黃帝穎**:
