@@ -38,7 +38,7 @@ Jennet Jah is the daughter of the noted composter, Professor Kenneth Lee. She gr
 ## From the record
 
 - 2024-10-12 — 洛杉磯以立合唱團演出輕歌劇「學生王子」（同日並演「森林王子」選曲），李俊玲任聲樂指導（非登台身份）（[[articles/taiwanjustice-net/2025/20250318101332_洛杉磯_以立合唱團_演出的輕歌劇_學生王子_2b2e0ebccd1c5edd|TJJ, 2025-01-27]]）。
-- 2022-10-01／10-08 — 以立合唱團在洛杉磯 Pasadena（10/1）及紐約卡內基贊克爾音樂廳（10/8）演出威爾第作品，李俊玲（Jennet Jah）任《安魂曲》「拯救我」Libera me 及《拿布果》「致死的震怒近了」女高音獨唱（飾 Abigaille）（[[articles/taiwanjustice-net/2023/20230202203511_2022_12_16_以立合唱團_演唱_拯救我_-選自威爾第的_526ee7d662ebe432|TJJ「拯救我」, 2022-12-16]]；[[articles/taiwanjustice-net/2024/20240228151341_root_8c6aeada16c1e8ba|TJJ「致死的震怒近了」, 2023-02-03]]）。
+- 2022-10-01／10-08 — 以立合唱團在洛杉磯 Pasadena（10/1）及紐約卡內基贊克爾音樂廳（10/8）演出威爾第作品，李俊玲（Jennet Jah）任《安魂曲》「拯救我」Libera me 及《拿布果》「致死的震怒近了」女高音獨唱（飾 Abigaille）（[[articles/taiwanjustice-net/2023/20230202203511_2022_12_16_以立合唱團_演唱_拯救我_-選自威爾第的_526ee7d662ebe432|TJJ「拯救我」, 2022-12-16]]；同稿存檔副本 [[articles/taiwanjustice-net/2024/20240224201637_root_80b33cf1846bc005|2024-02-24]]；[[articles/taiwanjustice-net/2024/20240228151341_root_8c6aeada16c1e8ba|TJJ「致死的震怒近了」, 2023-02-03]]）。
 
 ## Sources
 - [TAH #245 encyclopedia: 245. Jannet Jah 李俊玲 / 2015/02](https://taiwaneseamericanhistory.org/245-jannet-jah-%e6%9d%8e%e4%bf%8a%e7%8e%b2-201502/)
@@ -63,10 +63,6 @@ Jennet Jah is the daughter of the noted composter, Professor Kenneth Lee. She gr
 
 ## Deepen-x re-check (slice 09150316-31, 2026-09-15)
 - SKIP-with-reason（当时）：本人两笔 TAH 记录（[[works/taiwaneseamericanhistory-org/10177|TAH #132]]、[[works/taiwaneseamericanhistory-org/245-jannet-jah-e6-9d-8e-e4-bf-8a-e7-8e-b2-201502|TAH #245]]）、works 索引条目，及三篇已链接的以立合唱团报道。逐条上下文核对：2024-10-12《学生王子》报道中「声乐指导老师李俊玲」身份（声乐指导，非登台）与 Role in the Community 既有记载一致，无新增事实。拼写分歧 HOLD 维持。
-
-## From the record
-
-- 2022-10-01／10-08 — 以立合唱團在洛杉磯 Pasadena（10/1）及紐約卡內基贊克爾廳（10/8）演唱威爾第《安魂曲》選段「拯救我」Libera me，李俊玲任女高音獨唱（楊子清指揮、黃令先鋼琴）（[[articles/taiwanjustice-net/2024/20240224201637_root_80b33cf1846bc005|TJJ, 2022-12-16]]）。
 
 ## Deepen-x re-check (slice 09150400-17, 2026-09-15)
 - 新增同演出存档副本两笔，无新事实，仅补记以全语料命中：2024-02-24 存档《拯救我》（2022-12-16 演出、女高音独唱李俊玲）—— [[articles/taiwanjustice-net/2024/20240224201637_root_80b33cf1846bc005|以立合唱团演唱「拯救我」（2024-02 存档）]]；2024-02-28 存档《致死的震怒近了》（饰 Abigalle）—— [[articles/taiwanjustice-net/2024/20240228151341_root_8c6aeada16c1e8ba|以立合唱团「致死的震怒近了」（2024-02 存档）]]。

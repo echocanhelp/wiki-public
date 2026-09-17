@@ -36,6 +36,14 @@ Professor and Director of Anesthesiology/Pharmacy
 
 _No filled family fields on the TAH profile._
 
+## Role in the Community
+
+- President of the Chinese American Medical Society (美洲中華醫學會) — community leadership role recorded in his TAH profile's employment record; no standalone CAMS page exists in the wiki yet.
+- 2018-02-01 — Entered into the TAH Who's Who community record: [[works/taiwaneseamericanhistory-org/whoswho2006|2006. Dr. Wen-Hsien Wu 吳聞咸醫師]] (band B; bibliographic record only, full text stays in the vault).
+- Career per the TAH record: NYU School of Medicine Associate Professor of Anesthesiology (1974–), then University of Medicine and Dentistry of New Jersey Professor and Director of Anesthesiology/Pharmacy (1979–).
+
+Corpus grep found no memoir or other community mentions of 吳聞咸 beyond the TAH Who's Who record itself.
+
 ## Sources
 - [TAH #2006 encyclopedia: 2006. Dr. Wen-Hsien Wu 吳聞咸醫師](https://taiwaneseamericanhistory.org/whoswho2006/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-wen-hsien-wu/)
