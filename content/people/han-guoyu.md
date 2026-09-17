@@ -7,7 +7,7 @@ tags:
   - taiwanjustice-net
   - thin-page
 verification_status: pending
-last_reviewed: 2026-07-28
+last_reviewed: 2026-09-17
 ---
 # Han Kuo-yu (韓國瑜)
 
@@ -27,6 +27,13 @@ last_reviewed: 2026-07-28
 - **Hub:** [[sources/taiwanjustice-net||taiwanjustice.net source hub]]
 - **Primary org:** [[organizations/taiwanjustice-net||taiwanjustice.net (台灣公義網)]]
 - **Do not invent:** No birth data, family, or private contact on this page
+
+## From the Record
+
+- In the local taiwanjustice.net archive, **韓國瑜 appears in 1,005 article files** — coverage is dominated by the 2019–2020 election/recall period and later KMT-line disputes.
+- 2019-12-30 — 台灣向前行 clip: Han criticized for cursing at media and mocking Ma Ying-jeou as weak ([[articles/taiwanjustice-net/2026/20260113120625_tag_爆粗口_4d347025353705f1|TJJ tag 爆粗口]]).
+- 2020-05-08 — 前進新台灣 clip: the motion to recall Han as Kaohsiung mayor was rejected for a second time, with 黃捷's 火線話題 alleging games by the Kaohsiung election committee ([[articles/taiwanjustice-net/2026/20260120122916_tag_韓粉目標_5e090f2d1ea38848|TJJ tag 韓粉目標]]).
+- 2026-01-18 — 陳昭南's commentary on the 國台辦 rebuke of the KMT uses Han's chairmanship to argue the 九二共識 fight inside the party: "韓國瑜=九二共識？或是，馬英九=九二共識？" ([[articles/taiwanjustice-net/2026/20260118105817_國台辦訓斥國民黨_馬英九就立刻表態效忠-_陳昭_44fcb678ea0c3f42|陳昭南, TJJ 2026-01-18]]).
 
 ## Related Pages
 

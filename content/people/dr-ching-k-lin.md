@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-14
+last_reviewed: 2026-09-17
 ---
 # Dr. Ching K. Lin (林清貴博士)
 
@@ -81,3 +81,7 @@ Together with the encyclopedia records ([[works/taiwaneseamericanhistory-org/ota
 - 社區：[[organizations/irvine-taiwanese-presbyterian-church||ITPC]] 執事；長青教室（Evergreen Senior Class）主任；Lambert Ranch 亞美協會創辦人暨首任會長；UC Irvine 記憶障礙與神經疾病研究所亞裔諮詢委員會董事。
 - 家庭：妻詹正玉；女 Jean；子 Jack、James（TAH #248 夫妻合傳）。
 - 原始條目：[[works/taiwaneseamericanhistory-org/ota-248||TAH #248（夫妻合傳）]]、[[works/taiwaneseamericanhistory-org/whos-who-886-ching-k-lin||TAH Who's Who #886]]。
+
+## From the record
+
+- 2019-05-17 — Gave the 長青教室 talk 「植物生化素與你的健康」 (phytochemicals and your health, with video) at the class he directs ([[articles/articles/taiwanjustice-net/2024/20240723014059_root_b35038dda7fa4bcf|TJJ tag page, archived 2024-07-23]]).

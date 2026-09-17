@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-17
 ---
 # Frances Wu (吳涵秋)
 
@@ -41,3 +41,7 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- [[works/taiwaneseamericanhistory-org/138-frances-wu-e5-90-b3-e6-b6-b5-e7-a7-8b-mezzo-soprano-201502|TAH #138 Frances Wu 吳涵秋, Mezzo-Soprano]]
+- [[works/taiwaneseamericanhistory-org/252-frances-wu-e5-90-b3-e6-b6-b5-e7-a7-8b-201502|TAH #252 Frances Wu 吳涵秋]]
+
+> Corpus scan 2026-09-17: the only corpus mentions are the two TAH encyclopedia mirrors above — no independent community/memoir material to absorb. SKIP-deepen; page linked to its own works pages only.

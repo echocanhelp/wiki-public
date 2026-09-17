@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-17
 ---
 # Kenneth Wang (王克雄博士)
 
@@ -45,3 +45,7 @@ last_reviewed: 2026-08-17
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+## From the record
+
+- 2018-03-07 — Lectured at the 長青教室 on 蔣介石與二二八慘案 (Chiang Kai-shek and the 228 tragedy) (心得報告 posted 2018-03-13, later updated with video) ([[articles/articles/taiwanjustice-net/2024/20240723014059_root_b35038dda7fa4bcf|TJJ tag page, archived 2024-07-23]]).

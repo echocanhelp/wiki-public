@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-17
 ---
 # Simon Cheng (鄭良光)
 
@@ -44,3 +44,7 @@ last_reviewed: 2026-08-17
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+## From the record
+
+- 2024-12-21 — Moderated (主持人) the 第161回世界台灣文化論壇 online symposium on the Huang Yi & Kuka North America tour, representing the 美國台灣人聯合基金會 ([[articles/articles/taiwanjustice-net/2025/20250425112924_huangyi-kuka-第161回世界台灣文化論壇_7dfa96523779391d|TJJ, 2024-12-17]]).

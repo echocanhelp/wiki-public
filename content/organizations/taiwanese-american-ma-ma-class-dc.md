@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-16
+last_reviewed: 2026-09-17
 ---
 # Taiwanese American Ma Ma Class DC (大華府區台美人媽媽教室)
 
@@ -37,3 +37,4 @@ Re-grep 媽媽教室|Ma Ma Class against content/works + content/articles return
 - Re-grep 2026-09-16 (deepen-x slice 09160700-15): identical hit set (own directory record, works index, 2020-09-30 大華府僑團聯合聲明) — all already wikilinked. SKIP-no-new-material; HOLD on the signing-name discrepancy persists.
 - Re-grep 2026-09-16 (deepen-x slice 09162138-11): identical hit set — own directory record, works index, 2020-09-30 大華府僑團聯合聲明 (signed 華府台灣人媽媽教室) — all already wikilinked. SKIP-no-new-material; signing-name HOLD persists.
 - Re-grep 2026-09-16 (deepen-x slice 09162200-7): identical hit set — own directory record, works index, 2020-09-30 大華府僑團聯合聲明 — all already wikilinked. SKIP-no-new-material; signing-name HOLD persists.
+- Re-grep 2026-09-17 (deepen-x slice 09170130-5): identical hit set — own directory record, works index, 2020-09-30 大華府僑團聯合聲明 (signed 華府台灣人媽媽教室) — all already wikilinked. SKIP-no-new-material; signing-name HOLD persists.

@@ -34,6 +34,8 @@ last_reviewed: 2026-09-17
 
 - 2013-10-06 — The Economist, reprinted via TJJ, called Ma "possibly one of the most unpopular elected presidents in Taiwan's history" after the 馬王政爭 drove his approval to 9.2%, while crediting the 2013 ICAO invitation as a diplomatic breakthrough ([[articles/taiwanjustice-net/2024/20240530133623_root_becb39f917174438|The Economist via TJJ, 2013-10-06]]).
 
+- 2015-01-07 — A TJJ reprinted examination (Micheal Richardson, examiner.com) argues Chen Shui-bian's 2015-01-05 medical parole was forced on the Ma administration by 呂秀蓮's hunger strike, notes the hand-picked judge who convicted Chen had cleared Ma himself in his own corruption investigation, recalls Ma as Chiang Ching-kuo's personal translator under martial law, and attributes both the Sunflower Movement and 柯文哲's entry into politics to Ma's handling of Chen and the cross-strait agreements, with Ma's support by then in single digits ([[articles/taiwanjustice-net/2024/20240425074240_root_795e52aadf3797a0|TJJ, 2015-01-07]]).
+
 ## Related Pages
 
 - [[sources/taiwanjustice-net||taiwanjustice.net source hub]]

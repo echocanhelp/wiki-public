@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-17
 ---
 # K.H. Huang (黃國雄)
 
@@ -41,3 +41,7 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+## From the record
+
+- 2017-11-08 — Lectured at the 長青教室 on 前總統李登輝先生的兵法與軍隊國家化 (心得報告 posted 2017-11-12); also reported on 回教崛起對基督教的影響 (心得報告 posted 2019-06-07) ([[articles/articles/taiwanjustice-net/2024/20240723014059_root_b35038dda7fa4bcf|TJJ tag page, archived 2024-07-23]]).

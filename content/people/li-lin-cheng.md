@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-17
 ---
 # Li-Lin Cheng (鄭麗伶)
 
@@ -44,3 +44,7 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+## From the record
+
+- 2021-11-22 — As president of NATPA (北美洲台灣人教授協會), issued with all board directors the memorial 「哲人日已遠：敬弔李應元博士」 on Taiwan Justice ([[articles/articles/taiwanjustice-net/2022/20220701171700_tag_李應元_23924f7ad0d93713|TJJ tag page, archived 2022-07-01]]).

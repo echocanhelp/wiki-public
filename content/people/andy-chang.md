@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-17
 ---
 # Andy Chang (張繼昭博士)
 
@@ -42,3 +42,7 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+## From the record
+
+- 2012-02-22 — Lectured at the 長青教室 on 台灣國際外交的突破 (breakthroughs in Taiwan's international diplomacy) (心得報告 posted 2012-02-23) ([[articles/articles/taiwanjustice-net/2024/20240621163532_root_e9ec20fd58bf6b1c|TJJ tag page, archived 2024-06-21]]).

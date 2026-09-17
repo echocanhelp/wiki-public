@@ -6,7 +6,7 @@ tags:
   - Taiwanese-American
   - Taiwan-Center-group-member
 verification_status: published
-last_reviewed: 2026-07-16
+last_reviewed: 2026-09-17
 ---
 # TUF(Taiwanese United Fund)
 
@@ -33,3 +33,7 @@ last_reviewed: 2026-07-16
 
 - [[organizations/taiwan-center||Taiwan Center]]
 - [[sources/taiwancenter-org||taiwancenter.org]]
+
+## From the record
+
+- 2024-12-21 — Co-supported the 第161回世界台灣文化論壇 online symposium 「台灣現代舞團 Huang Yi & Kuka 北美巡演迴響」 (moderated by 鄭良光 of the 美國台灣人聯合基金會) alongside host Caltech and sponsors 台灣書院 and the 台灣人基金會 ([[articles/articles/taiwanjustice-net/2025/20250425112924_huangyi-kuka-第161回世界台灣文化論壇_7dfa96523779391d|TJJ, 2024-12-17]]).

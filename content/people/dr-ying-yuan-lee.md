@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-17
 ---
 # Dr. Ying-Yuan Lee (李應元博士)
 
@@ -39,3 +39,7 @@ last_reviewed: 2026-08-17
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+## From the record
+
+- 2021-11 — Died after illness; per Taiwan Justice coverage his 家祭 was set for 11-30 with 植存 (Buddhist natural burial) at 法鼓山 on 12-02, and NATPA president 鄭麗伶 led a memorial 「哲人日已遠：敬弔李應元博士」 ([[articles/articles/taiwanjustice-net/2022/20220701171700_tag_李應元_23924f7ad0d93713|TJJ tag page, archived 2022-07-01]]).

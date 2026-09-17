@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-17
 ---
 # Paul Lin (林水波教授)
 
@@ -40,3 +40,7 @@ last_reviewed: 2026-08-17
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+## From the record
+
+- 2012-10-24 — Lectured at the 長青教室 on 郝龍斌倡導阿扁保外就醫論評 (mayor Hau Lung-bin's advocacy of former president Chen Shui-bian's medical parole) (心得報告 posted 2012-10-26) ([[articles/articles/taiwanjustice-net/2024/20240621163532_root_e9ec20fd58bf6b1c|TJJ tag page, archived 2024-06-21]]).
