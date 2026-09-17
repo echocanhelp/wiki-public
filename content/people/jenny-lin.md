@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-16
+last_reviewed: 2026-09-17
 ---
 # Jenny Lin (林佳靜)
 
@@ -60,3 +60,4 @@ Re-check 2026-09-16 (slice 09160600-15): re-grep 林佳靜/Jenny Lin — hit set
 Re-check 2026-09-16 (slice 09160700-12): hit set again unchanged (#16/#159/#1089 + works index). **SKIP：無新可吸收事實。**
 Re-check 2026-09-16 (slice 09162138-8): hit set again unchanged (#16/#159/#1089 + works index; #520 linked above). **SKIP：無新可吸收事實。**
 Re-check 2026-09-16 (slice 09162200-7): hit set again unchanged (#16/#159/#1089 + works index; #520 linked above). **SKIP：無新可吸收事實。**
+Re-check 2026-09-17 (slice 09170130-4): hit set again unchanged (#16/#159/#1089 + works index; #520 linked above). **SKIP：無新可吸收事實。**

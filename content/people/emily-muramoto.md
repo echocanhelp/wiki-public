@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-16
+last_reviewed: 2026-09-17
 resweep: deepen-x-09160400-21
 ---
 # Emily Muramoto (蔡蕙宇)
@@ -68,3 +68,6 @@ _No filled family fields on the TAH profile._
 ## Corpus re-grep (deepen-x slices 09162138-9, 09162200-6)
 - 2026-09-16 (slice 09162138-9): hit set unchanged — Emily Muramoto／蔡蕙宇 matches only her own TAH bibliography page [[works/taiwaneseamericanhistory-org/331-emily-muramoto-vocalist-201602|#331]] (band B, fully absorbed) and works/index catalog rows. No memoir/community material. SKIP-with-reason; no conflicts to HOLD.
 - 2026-09-16 (slice 09162200-6): hit set again unchanged (#331 + works/index only). SKIP-with-reason; no new corpus facts, no conflicts to HOLD.
+
+## Corpus re-grep (deepen-x slice 09170130-4)
+- 2026-09-17: hit set unchanged — Emily Muramoto／蔡蕙宇 matches only her own TAH bibliography page [[works/taiwaneseamericanhistory-org/331-emily-muramoto-vocalist-201602|#331]] (band B, fully absorbed) and works/index catalog rows. No memoir/community material to absorb. SKIP-with-reason; no conflicts to HOLD.
