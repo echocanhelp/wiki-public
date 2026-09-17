@@ -54,6 +54,10 @@ Huai-Shion Tsai was born in Tainan, Taiwan in 1947. She graduated from the Natio
 - [[works/taiwaneseamericanhistory-org/164-e8-94-a1-e8-95-99-e9-a6-991995-e8-94-a1-e8-95-99-e9-a6-99199501art-e8-97-9d-||TAH #164: 蔡蕙香 1995/01 Art/藝術]]
 - Re-check pass 2026-09-14: vault records above cross-checked; they are encyclopedia/date records already absorbed into the sections above — no further biography absorbable from vault, no new facts invented. Spouse's own TAH work record (461) cross-linked in Family.
 
+## From the record
+
+- 2017-04-01 — Invited as a 新藝畫會 member to exhibit at the 「台灣之美‧亞洲之心」國際巡迴展 LA stop (4/1–2/2017, 橋二中心; hosted by TUF, curated by 蘇奐豪), alongside 李淑櫻、洪逸凡、劉白、陳文石 ([[articles/taiwanjustice-net/2024/20240724234326_root_cd2062fe6528223c|TJJ exhibition report, 2017-03-14]]); see also the absorbed note under Role in the Community.
+
 ## Role in the Community
 - Absorbed 2026-09-14 from the corpus: a painting collection 《蔡蕙香繪畫集》 is recorded in the TAH encyclopedia (2014/12) — [[works/taiwaneseamericanhistory-org/729-e8-94-a1-e8-95-99-e9-a6-99-e7-b9-aa-e7-95-ab-e9-9b-86-e8-94-a1-e8-95-99-e9-a|TAH #729: 蔡蕙香繪畫集]]. HOLD: conflict — the works index lists #729 as 蔡蕙香繪畫集 (2014/12) but the vault work page's own title reads 曾憲榮/2015/12; not auto-merged.
 - Disambiguation (corpus recheck 2026-09-15): [[works/taiwaneseamericanhistory-org/421-huai-en-tsai-e8-94-a1-e6-87-b7-e6-81-a9-201505|TAH #421: Huai-En Tsai 蔡懷恩 (2015/05)]] matched the corpus grep by romanisation similarity but is a **different person** (蔡懷恩 ≠ 蔡蕙香); no biography absorbed.

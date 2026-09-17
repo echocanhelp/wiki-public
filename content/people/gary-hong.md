@@ -52,6 +52,10 @@ _No filled family fields on the TAH profile._
 
 - Vault records: [[works/taiwaneseamericanhistory-org/artist3-gary-hong||TAH #3, 洪逸凡 Gary Hong]]
 
+## From the record
+
+- 2017-04-01 — Invited as a 新藝畫會 member to exhibit at the 「台灣之美‧亞洲之心」國際巡迴展 LA stop (4/1–2/2017, 橋二中心; hosted by TUF, curated by 蘇奐豪), alongside 李淑櫻、劉白、蔡蕙香、陳文石 ([[articles/taiwanjustice-net/2024/20240724234326_root_cd2062fe6528223c|TJJ exhibition report, 2017-03-14]]).
+
 ## Connected in the Vault
 - Archival profile: [[works/taiwaneseamericanhistory-org/artist3-gary-hong|TAH #3 (artist profile)]]
 - Community hub: [[sources/taiwaneseamericanhistory-org-story-corpus|TAH story corpus hub]]
