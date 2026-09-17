@@ -60,6 +60,10 @@ From [[works/taiwaneseamericanhistory-org/ourjourneys76|TAH #76 — 全美台灣
 - **1971-08-13** — incorporated as The Formosan Club of America, Inc. in Washington, D.C.; directors 黃際鑫, 鄭義和, 陳隆豐.
 - **2022-10-24** — as 全美會創會會長暨彭明敏文教基金會董事長, hosted the 全美會 return-visit banquet in Taipei (with 1986 全美會會長楊黃美幸 accompanying); Vice President 賴清德 made a surprise visit. Photo record also shows current 全美會會長 陳桂鈴 ([[people/kuei-ling-chen|kuei-ling-chen]]) — [[works/taiwaneseamericanhistory-org/our-journeys-382|Our Journeys #382 — 2022年全美會回台參訪記 (2022/11)]].
 
+## From the record
+
+- 2023-09-24 — 以彭明敏文教基金會董事長身份出席國史館「台灣人民自救宣言案」史料彙編新書發表暨座談會，並致詞認為彭明敏一生的所做所為為台灣民主發展建立基礎 —— [[articles/taiwanjustice-net/2025/20250213225448_人民自救宣言59週年-林佳龍_難想像舊時荒謬_da7f84e20eff6ae9|TJJ/CNA, 2023-09-24]]。
+
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[organizations/taiwanese-association-of-america||Taiwanese Association of America]]

@@ -33,6 +33,7 @@ last_reviewed: 2026-09-17
 - 2013-07-30 — TJJ English Pages 目錄頁收錄其英文報導「不准病假 北院提訊陳水扁」（涂醒哲醫師，蘋果日報），快照顯示該頁已上線。（[[articles/taiwanjustice-net/2024/20240224194137_root_b1e144ecc18e460f|TJJ, 2013-07-30]]）。
 - 2013-04 — TJJ 轉載 Michael Richardson 報導：陳水扁獲悉從台北榮總精神科病房移回台中監獄附設佩德診所後，以長袖內衣繫門把在浴室試圖自縊，院方阻止但移送照舊執行；主治醫師周紋華（Chou Yuan-hua）4/1 立院聽證時已警告送回台北監獄必成自殺風險，並診斷其有重度憂鬱症、嚴重睡眠呼吸中止、非典型帕金森氏症等，建議回家休養；Washington D.C. 人權行動中心（Human Rights Action Center）4/22 譴責此舉為「slow-motion murder」 —— [[articles/taiwanjustice-net/2024/20240425113156_root_f19de8f9d3b53071|TJJ：Chen Shui-bian's return to prison（2013-04-22）]]。
 - 2015-01-07 — A TJJ reprinted examination (Micheal Richardson, examiner.com) reports Chen's 2015-01-05 one-month medical parole — granted, it argues, only after 呂秀蓮's hunger strike forced the ROC Ministry of Justice's hand — and notes all but one of his corruption charges had been dismissed on appeal, with the remaining case's chief witness admitting perjury ([[articles/taiwanjustice-net/2024/20240425074240_root_795e52aadf3797a0|TJJ, 2015-01-07]]).
+- 2013-06-05 — 陳順盛醫師發布第三次台中監獄探訪後的專訪報導（Michael Richardson 譯述）：陳自述兩個月內兩度自縊的動機——對台灣獨立的執念、對民進黨及總統候選人全數迴避台獨的失望、對自身處境無望而陷入重度憂鬱；並自述其三步中國policy（「台灣就是中華民國」→「台灣不是中國」→「中台兩國論」）及廢除國統綱領、以台灣名義申請聯合國與WTO導致被囚 —— [[articles/taiwanjustice-net/2024/20240425071249_root_69b4f44f9c019bd5|TJJ, 2013-06-10]]。
 
 ## Role in the Community
 
