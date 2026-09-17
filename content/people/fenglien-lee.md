@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-17
 ---
 # Fenglien Lee (李鳳霖)
 
@@ -34,6 +34,9 @@ Ph.D. Computer Science
 - University of Guam — 2006-2012 — Associate Professor
 - University of Guam — 2012-present — Professor
 <!-- tah-tables:end -->
+
+## Role in the Community
+- Corpus record: TAH Who's Who entry 814 (published 2016-02-14, value band B) is the sole corpus trace — no memoir/community mentions found in works/articles — [[works/taiwaneseamericanhistory-org/814-fenglien-lee-e6-9d-8e-e9-b3-b3-e9-9c-96-201602|814. Fenglien Lee 李鳳霖/ 2016/02]].
 
 ## Family
 

@@ -36,6 +36,7 @@ Accomplishment
 - 1977 — as newly elected president of the Taiwanese American Association of New York (大紐約區台灣同鄉會), personally delivered a phone answering machine (and later a longer-record machine) to 沈富雄 so the association could launch its 「台灣之音」 phone-broadcast line (test broadcast 1977-04-01, official launch 1977-05-01, (212)726-3023) — 沈富雄's memoir [[works/taiwaneseamericanhistory-org/ourjourneys8|Our Journeys 8]].
 - Contributed materially (with 謝裡法) to the 北美 bimonthly 「台灣文化」, alongside社長 楊黃美幸 and總編輯 陳芳明 — a key vehicle for recording 228 Incident history — [[works/taiwaneseamericanhistory-org/ourjourneys8-eng|Our Journeys 8 (EN)]].
 - 2016 — after the TAC-WC Bay Area conference, with Daniel Ko (柯耀宗) and Ed Huang (黃東昇), convened regional leaders to create the TAC-WC Board and took the lead drafting its bylaws — [[works/taiwaneseamericanhistory-org/ourjourneys352|Our Journeys 352]].
+- The 「台灣之音」 1977 episode is also recorded in the corpus memoir 《台灣之音》的回顧 (2014-09) — HOLD: conflict on memoir attribution, this page credits 沈富雄 (Our Journeys 8) but the corpus copy is titled 張富雄 — [[works/taiwaneseamericanhistory-org/ourjourneys2|Our Journeys 2]].
 - Corpus Who's Who entry: [[works/taiwaneseamericanhistory-org/whos-who-1821-stephen-lin|1821. Stephen Lin 林俊提]] (published 2017-08-07).
 
 ## Family

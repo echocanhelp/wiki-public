@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-17
 ---
 # Rex Chen (陳財元)
 
@@ -37,6 +37,7 @@ TAH Foundation Who’s Who slug `rex-chen`. **Not** TAHS member [[people/rex-che
 
 ## Community (TAH)
 - 台美會計師協會 — 副會長
+- Corpus record: TAH Who's Who entry 2046 (published 2018-02-26, value band B, bibliographic record only — full text stays in the vault) — [[works/taiwaneseamericanhistory-org/whoswho2046|2046. Rex Chen 陳財元 / 02/2018]].
 
 TAH harvest `birth_year` field is `1949-2003` (death 2003). TAH text: “Passed Away 2003.”
 

@@ -18,6 +18,10 @@ Mentioned as a contributor or subject in 2017/2023 [taiwanjustice.net](/organiza
 Related: [Taiwanese American Historical Society](/organizations/taiwanese-american-historical-society)
 
 
+## From the record
+
+- 2020-11-25 — FAHR 公告第44屆年會（12/5 台北）邀歷屆「鄭南榕紀念獎」得獎人回娘家，名列 2017 年得獎人（本頁 Works 欄 2017-11-29 聖地牙哥年會報導即以其為該獎得獎人記錄，故連結成立；[[articles/taiwanjustice-net/2021/20210118235211_2020_11_25_全美台灣人權協會第44屆年會暨_鄭南榕紀念獎_頒_996879ac7a006acf|TJJ, 2020-11-25]]）。
+
 ## Works
 
 **zheng-wenlong** — **8** title hits, **5** body mentions in the taiwanjustice.net harvest. Listed: last 5 years, up to 8/year. Full index: [[sources/taiwanjustice-net|taiwanjustice.net]].
