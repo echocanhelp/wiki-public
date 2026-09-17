@@ -212,6 +212,7 @@ Notable quotes and mentions of **陳柏宇** in Taiwan Justice articles:
 
 ## From the record
 
+- 2022-07-02 — 以台灣會館董事長身分與台美商會會長劉雅薇等台美人社區領袖於柑縣為國會眾議員 Michelle Steel（朴銀珠）第45區連任舉辦募款餐會，公開呼籲支持其連任（[[articles/taiwanjustice-net/2022/20220813052744_2022_07_02_台美人社區領袖力挺柑縣國會眾議員朴銀珠競選連_8c5d12035d4e1a54|TJJ, 2022-07-02]]；另見 [[articles/taiwanjustice-net/2025/20250808005844_台美人社區領袖力挺柑縣國會眾議員朴銀珠競選連_2fc3294ed01f2d2a|2025-08-08 快照]]）。
 - 2021-05-13 — 南加州僑界48個社團（含台美人歷史協會、台美律師協會）於洛杉磯華僑文教服務中心開發布會，連署聯合聲明支持台灣以制度化管理參與WHA/WHO，為聲明共同發起人之一（[[articles/taiwanjustice-net/2021/20210616072940_2021_05_17_2021年南加州僑界支持台灣參與世界衛生大會wha聯合聲_b1d58af16c0a5e5b|TJJ 2021-06-16 轉載]]；[[articles/taiwanjustice-net/2025/20251108183438_2021年南加州僑界支持台灣參與世界衛生大會wha聯合聲_80c0a825a7a661b6|2025-11-08 快照]]）。
 - 2020-06-23 — A TJJ report on Taiwan Center pandemic relief credits Chen, as 台灣會館副董事長, with forwarding 1,200 of Royal Business Bank's 3,900 donated medical masks to the City of Rosemead ([[articles/taiwanjustice-net/2021/20210117070450_2020_06_23_大洛杉磯台灣會館_疫情擋不住人情_濟困扶危挺_71a7c64663ea03b6|TJJ, 2020-06-23]]).
 - 2023-08-06 — A TJJ report on the 28th 台美小姐選拔賽 (2023-08-05, San Gabriel Hilton) quotes Chen's address as 台館基金會董事長: the pageant exists to encourage young Taiwanese-American women leaders who will represent and serve the community ([[articles/taiwanjustice-net/2025/20250614233935_2023台美小姐選拔賽_盛大舉行-宋依珊_mimiq-soong_奪后_79b5f26fdef89d22|TJJ, 2023-08-06]]).

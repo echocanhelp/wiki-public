@@ -50,3 +50,4 @@ _No filled family fields on the TAH profile._
 - 2021-11-22 — As president of NATPA (北美洲台灣人教授協會), issued with all board directors the memorial 「哲人日已遠：敬弔李應元博士」 on Taiwan Justice ([[articles/taiwanjustice-net/2022/20220701171700_tag_李應元_23924f7ad0d93713|TJJ tag page, archived 2022-07-01]]).
 
 - 2021 — 以 NATPA 會長身分偕全體理事署名人文〈哲人日已遠：敬弔李應元博士〉，刊於台灣公義報「台美人台加人」分類（2025-04-30 存檔）—— [[articles/taiwanjustice-net/2025/20250430202458_category_taiwaneseamerican_a75a6e8c12e18729|TJJ 台美人台加人存檔頁]]。
+- 2021-11-22 — 弔文登上台灣公義報「北美洲台灣人教授協會」標籤頁（同頁並列 2020-02-26 NATPA 武漢肺炎聲明、2020-04-13 TAPA/NATMA/NATPA 致 WHO 聯合公開信）（[[articles/taiwanjustice-net/2025/20250914125309_tag_北美洲台灣人教授協會_912bedafc3ae02b4|TJJ NATPA tag, 存檔 2025-09-14]]）。
