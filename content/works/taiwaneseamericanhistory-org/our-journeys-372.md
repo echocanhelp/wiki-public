@@ -70,6 +70,8 @@ This article was published as part of a series on Taiwanese Americans.
 - [[organizations/overseas-community-affairs-council|僑務委員會]]
 - [[people/chen-shuibian|Chen Shui-bian]]
 - [[people/wendy-cheng|Wendy Cheng]]
+- [[people/chen-shuibian.md|Chen Shui-bian]] — mentioned in this record
+- [[people/wendy-cheng.md|Wendy Cheng]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

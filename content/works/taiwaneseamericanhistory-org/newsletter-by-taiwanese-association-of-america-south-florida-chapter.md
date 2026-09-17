@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-01-05 — published
 
 ## Subjects
+- [[organizations/taiwanese-association-of-south-florida.md|Taiwanese Association of South Florida]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

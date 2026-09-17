@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-05-27 — published
 
 ## Subjects
+- [[people/rev-james-i-cheng.md|Rev. James I. Cheng]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

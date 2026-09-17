@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-11-16 — published
 
 ## Subjects
+- [[people/prof-leona-yi-fan-su.md|Prof. Leona Yi-Fan Su]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

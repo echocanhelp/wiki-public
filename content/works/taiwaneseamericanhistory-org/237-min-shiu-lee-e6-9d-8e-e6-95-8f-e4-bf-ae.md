@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2015-01-27 — published
 
 ## Subjects
+- [[people/min-shiu-lee.md|Min-Shiu Lee]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

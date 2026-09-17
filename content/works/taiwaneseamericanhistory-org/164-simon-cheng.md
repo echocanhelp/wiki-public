@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2018-10-28 — published
 
 ## Subjects
+- [[people/simon-cheng.md|Simon Cheng]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-03-13 — published
 
 ## Subjects
+- [[people/prof-h-c-lee.md|Prof. H. C. Lee]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2014-12-28 — published
 
 ## Subjects
+- [[people/jason-wu.md|Jason Wu]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

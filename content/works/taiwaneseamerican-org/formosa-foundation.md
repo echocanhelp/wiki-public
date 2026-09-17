@@ -44,6 +44,7 @@ http://formosafoundation.org/ambassador-program/program-description.php
 - Community
 - Featured
 - Social/Politics
+- [[organizations/formosa-foundation.md|Formosa Foundation]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

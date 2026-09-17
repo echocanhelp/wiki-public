@@ -32,6 +32,8 @@ _Bibliographic record only. Full text stays in the vault._
 - 2015-07-08 — published
 
 ## Subjects
+- [[people/wendy-cheng.md|Wendy Cheng]] — mentioned in this record
+- [[people/dr-edward-cheng.md|Dr. Edward Cheng]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

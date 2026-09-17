@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2018-10-24 — published
 
 ## Subjects
+- [[people/prof-ken-s-huang.md|Prof. Ken S. Huang]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

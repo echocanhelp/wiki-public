@@ -32,6 +32,8 @@ _Bibliographic record only. Full text stays in the vault._
 - 2015-11-08 — published
 
 ## Subjects
+- [[organizations/taiwanese-association-of-america-san-antonio.md|Taiwanese Association of America San Antonio]] — mentioned in this record
+- [[organizations/taiwanese-association-of-america.md|Taiwanese Association of America]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

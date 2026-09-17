@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2015-02-08 — published
 
 ## Subjects
+- [[people/paul-kuo.md|Paul Kuo]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

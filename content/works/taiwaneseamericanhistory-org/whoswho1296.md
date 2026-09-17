@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-10-02 — published
 
 ## Subjects
+- [[people/catherine-ken.md|Catherine Ken]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

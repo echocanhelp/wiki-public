@@ -32,6 +32,8 @@ _Bibliographic record only. Full text stays in the vault._
 - 2014-10-16 — published
 
 ## Subjects
+- [[people/chihmei-lin-chen.md|林智美]] — mentioned in this record
+- [[people/ho-yang-lin.md|楊千鶴]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

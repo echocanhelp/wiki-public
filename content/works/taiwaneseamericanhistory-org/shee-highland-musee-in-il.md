@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-02-17 — published
 
 ## Subjects
+- [[organizations/shee-highland-musee-in-il.md|Shee Highland Musée in IL]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

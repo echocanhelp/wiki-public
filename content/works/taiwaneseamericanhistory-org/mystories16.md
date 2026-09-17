@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2014-08-31 — published
 
 ## Subjects
+- [[people/dean-liang.md|梁基典]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

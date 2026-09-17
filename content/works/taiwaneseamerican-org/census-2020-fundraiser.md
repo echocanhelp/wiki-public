@@ -48,6 +48,9 @@ TACL Campaign collegiate lead and ITASA national president Roy Cheng in the Call
 ## Subjects
 - Community
 - Featured
+- [[people/leona-chen.md|Leona Chen]] — mentioned in this record
+- [[people/danny-chen.md|Danny Chen]] — mentioned in this record
+- [[people/christina-hu.md|Christina Hu]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

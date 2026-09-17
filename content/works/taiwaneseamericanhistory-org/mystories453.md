@@ -32,6 +32,8 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-08-05 — published
 
 ## Subjects
+- [[people/prof-helen-lee.md|Prof. Helen Lee]] — mentioned in this record
+- [[people/jackson-kuo.md|郭敏俊]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

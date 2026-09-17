@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2015-12-27 — published
 
 ## Subjects
+- [[organizations/global-education-fund.md|Global Education Fund]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

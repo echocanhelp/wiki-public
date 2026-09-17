@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-09-11 — published
 
 ## Subjects
+- [[people/janet-allen.md|安美莉]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

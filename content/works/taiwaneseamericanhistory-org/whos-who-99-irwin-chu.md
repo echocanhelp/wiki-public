@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2014-11-17 — published
 
 ## Subjects
+- [[people/irwin-chu.md|Prof. Irwin Chu]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

@@ -60,6 +60,8 @@ What Taiwanese Americans Can Learn from Taiwanese Politics | Leona Chen
 - Featured
 - Perspectives
 - Social/Politics
+- [[people/leona-chen.md|Leona Chen]] — mentioned in this record
+- [[organizations/taiwanese-american-student-association.md|Taiwanese American Student Association]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

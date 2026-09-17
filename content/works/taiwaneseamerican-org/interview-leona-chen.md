@@ -114,6 +114,9 @@ More commentary on Book of Cord by author Shawna Yang Ryan (Green Island, Knopf 
 - Arts &amp; Culture
 - Featured
 - Interviews
+- [[people/leona-chen.md|Leona Chen]] — mentioned in this record
+- [[people/kenji-c-liu.md|Kenji C. Liu]] — mentioned in this record
+- [[people/shawna-yang-ryan.md|Shawna Yang Ryan]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2021-01-25 — published
 
 ## Subjects
+- [[people/tah-p-230622a660.md|李秉林博士]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

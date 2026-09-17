@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-01-24 — published
 
 ## Subjects
+- [[people/c-k-kuo.md|郭重國]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

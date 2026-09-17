@@ -32,6 +32,8 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-08-17 — published
 
 ## Subjects
+- [[people/c-y-huang.md|C.Y. Huang]] — mentioned in this record
+- [[people/rev-c-y-huang.md|Rev. C. Y. Huang]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

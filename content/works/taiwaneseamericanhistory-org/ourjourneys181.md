@@ -82,6 +82,9 @@ Cited from the original ([source](https://taiwaneseamericanhistory.org/ourjourne
 - [[organizations/new-york-taiwan-center|New York Taiwan Center (紐約台灣會館)]]
 - [[people/dou-hwei-su-liu|劉蘇多惠]]
 - [[people/lai-ching-te|Lai Ching-te]]
+- [[people/lai-ching-te.md|Lai Ching-te]] — mentioned in this record
+- [[organizations/new-york-taiwan-center.md|New York Taiwan Center]] — mentioned in this record
+- [[people/dou-hwei-su-liu.md|劉蘇多惠]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2015-04-13 — published
 
 ## Subjects
+- [[people/dr-y-c-simon-liu.md|Dr. Y. C. Simon Liu]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

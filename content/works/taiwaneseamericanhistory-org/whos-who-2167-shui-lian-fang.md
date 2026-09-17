@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2018-10-30 — published
 
 ## Subjects
+- [[people/shui-lian-fang.md|Shui-Lian Fang]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

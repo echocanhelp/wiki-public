@@ -67,6 +67,8 @@ Posted in 01/2017
 ## Subjects
 - [[organizations/taiwanese-association-of-america]]
 - [[people/david-lee]]
+- [[people/david-lee.md|David Lee]] — mentioned in this record
+- [[organizations/taiwanese-association-of-america.md|Taiwanese Association of America]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

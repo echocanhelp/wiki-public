@@ -126,6 +126,7 @@ Follow James Chang on Instagram at @jchang.kitchen
 ## Subjects
 - Food &amp; Travel
 - Interviews
+- [[people/rev-james-chang.md|Rev. James Chang]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

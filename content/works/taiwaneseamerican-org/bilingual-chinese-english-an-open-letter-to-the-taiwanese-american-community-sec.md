@@ -94,6 +94,8 @@ The views and opinions expressed in all perspectives pieces are those of the aut
 - Community
 - Perspectives
 - Social/Politics
+- [[people/tim-chng.md|Tim Chng]] — mentioned in this record
+- [[organizations/taiwanese-american-students-association.md|Taiwanese American Students Association]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

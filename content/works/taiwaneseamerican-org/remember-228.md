@@ -64,6 +64,7 @@ New York Times Article, March 29, 1947: “Formosa killings are put at 10,000”
 
 ## Subjects
 - Perspectives
+- [[people/ma-yingjeou.md|Ma Ying-jeou]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

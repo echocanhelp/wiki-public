@@ -256,6 +256,18 @@ Translated from 233. 回顧休士頓台灣人活動中心的成立 / 莊承業 /
 - [[people/j-s-chien|簡忠松]]
 - [[people/jien-hua-charles-chuang|莊峻華]]
 - [[people/s-j-chen|陳松楨]]
+- [[people/dr-sheng-yi-chuang.md|Dr. Sheng-Yi Chuang]] — mentioned in this record
+- [[people/john-y-chieu.md|John Y. Chieu]] — mentioned in this record
+- [[people/dr-mu-sheng-wu.md|Dr. Mu-Sheng Wu]] — mentioned in this record
+- [[people/s-j-chen.md|S. J. Chen]] — mentioned in this record
+- [[people/chao-yuh-yang.md|Chao-Yuh Yang]] — mentioned in this record
+- [[people/david-tsay.md|Dr. David Tsay]] — mentioned in this record
+- [[people/dr-ming-cheng-liau.md|Dr. Ming Cheng Liau]] — mentioned in this record
+- [[people/j-s-chien.md|J. S. Chien]] — mentioned in this record
+- [[people/dr-mike-kuo.md|Dr. Mike Kuo]] — mentioned in this record
+- [[people/chao-w-chen.md|Chao W Chen]] — mentioned in this record
+- [[people/jien-hua-charles-chuang.md|Jien-Hua Charles Chuang]] — mentioned in this record
+- [[people/dr-john-chieu.md|Dr. John Chieu]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

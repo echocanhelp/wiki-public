@@ -79,6 +79,9 @@ Email Address: jechin.han@gmail.com
 ## Subjects
 - [[people/liao-shu-zong|Liao Shu-zong (廖述宗)]]
 - [[people/prof-shutsung-liao|廖述宗教授]]
+- [[people/prof-je-chin-han.md|Prof. Je-Chin Han]] — mentioned in this record
+- [[people/liao-shu-zong.md|Liao Shu-zong]] — mentioned in this record
+- [[people/prof-shutsung-liao.md|廖述宗教授]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2015-08-06 — published
 
 ## Subjects
+- [[organizations/joint-alumni-association-of-taiwan-teachers-college-and-normal-univers.md|Joint Alumni Association of Taiwan Teachers College and Normal University]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

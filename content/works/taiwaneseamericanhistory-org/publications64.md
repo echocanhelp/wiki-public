@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2014-10-15 — published
 
 ## Subjects
+- [[people/mei-fun-tsai.md|吳美芬]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

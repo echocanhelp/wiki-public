@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-02-22 — published
 
 ## Subjects
+- [[people/prof-kun-yen-huang.md|Prof. Kun-Yen Huang]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

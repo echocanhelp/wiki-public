@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2018-04-24 — published
 
 ## Subjects
+- [[people/dr-jii-james-shieh.md|謝己博士]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

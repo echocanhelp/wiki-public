@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2018-05-31 — published
 
 ## Subjects
+- [[people/prof-robert-yien.md|Prof. Robert Yien]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

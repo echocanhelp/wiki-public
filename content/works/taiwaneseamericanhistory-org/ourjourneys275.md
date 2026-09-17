@@ -70,6 +70,7 @@ Posted in 01/2017
 - [[people/christine-l-yang]]
 - [[people/dr-robert-y-lai]]
 - [[people/walter-m-yang]]
+- [[people/christine-l-yang.md|林壽英]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

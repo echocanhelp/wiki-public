@@ -28,6 +28,9 @@ _Bibliographic record only. Full text stays in the vault (copyright)._
 ## Subjects
 - [[works/taiwaneseamerican-org/2026-creative-writing-prize-winners||Charles Yu, Grace Loh Prasad, Alvina Ling, Shawna Yang Ryan, Averylin Cummins select 2026 Creative Writing Prize Winners]]
 - [[organizations/taiwanese-american-historical-society||TAHS]]
+- [[people/alvina-ling.md|Alvina Ling]] — mentioned in this record
+- [[people/shawna-yang-ryan.md|Shawna Yang Ryan]] — mentioned in this record
+- [[people/charles-yu.md|Charles Yu]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

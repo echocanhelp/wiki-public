@@ -93,6 +93,9 @@ Infielder Yu Chang is one of the lesser known names on this list, but is neverth
 ## Subjects
 - Community
 - Featured
+- [[people/jeremy-lin.md|Jeremy Lin]] — mentioned in this record
+- [[people/karen-chen.md|Karen Chen]] — mentioned in this record
+- [[people/tzu-wei-lin.md|林子偉]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

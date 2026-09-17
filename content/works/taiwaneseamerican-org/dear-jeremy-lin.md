@@ -28,6 +28,7 @@ _Bibliographic record only. Full text stays in the vault (copyright)._
 ## Subjects
 - [[works/taiwaneseamerican-org/dear-jeremy-lin||Dear Jeremy Lin&#8230;]]
 - [[organizations/taiwanese-american-historical-society||TAHS]]
+- [[people/jeremy-lin.md|Jeremy Lin]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

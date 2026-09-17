@@ -90,6 +90,8 @@ Posted in 08/2017
 - [[people/cheng-y-chuang]]
 - [[people/dr-cary-s-hung]]
 - [[people/thomas-tzu-shen-lin]]
+- [[people/cheng-y-chuang.md|莊承業]] — mentioned in this record
+- [[people/peter-su.md|蘇國雄]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

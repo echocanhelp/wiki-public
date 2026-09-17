@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2014-12-09 — published
 
 ## Subjects
+- [[people/harold-m-otness.md|Harold M. Otness]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

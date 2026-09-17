@@ -32,6 +32,8 @@ _Bibliographic record only. Full text stays in the vault._
 - 2014-10-12 — published
 
 ## Subjects
+- [[people/stella-landauer.md|陳翠玉]] — mentioned in this record
+- [[people/j-z-lee.md|李錦容]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

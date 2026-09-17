@@ -48,6 +48,7 @@ Ho Chie Tsai is the creator and manager of TaiwaneseAmerican.org. Like Dawen, he
 
 ## Subjects
 - Interviews
+- [[people/ho-chie-tsai.md|Ho Chie Tsai]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

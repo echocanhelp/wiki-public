@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2015-07-16 — published
 
 ## Subjects
+- [[people/chao-nan-liu.md|劉照男]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

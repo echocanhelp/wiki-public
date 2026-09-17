@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2015-12-20 — published
 
 ## Subjects
+- [[people/chin-hui-lee.md|Chin-Hui Lee]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

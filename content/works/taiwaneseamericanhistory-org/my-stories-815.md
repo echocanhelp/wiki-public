@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2021-12-10 — published
 
 ## Subjects
+- [[people/lanhee-j-chen.md|陳仁宜]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

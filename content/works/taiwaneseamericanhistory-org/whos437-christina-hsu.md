@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2015-06-11 — published
 
 ## Subjects
+- [[people/christina-shuyu-hsu.md|Christina Shuyu Hsu]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

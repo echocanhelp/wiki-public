@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-09-17 — published
 
 ## Subjects
+- [[people/dr-thomas-yawting-ko.md|Dr. Thomas Yawting Ko]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

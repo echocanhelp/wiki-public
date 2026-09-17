@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2020-04-27 — published
 
 ## Subjects
+- [[people/carol-kuo.md|Carol Kuo]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

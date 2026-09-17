@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2015-11-14 — published
 
 ## Subjects
+- [[people/rui-feng-hsu.md|Rui-feng Hsu]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

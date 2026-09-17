@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-05-11 — published
 
 ## Subjects
+- [[people/r-j-chang.md|R. J. Chang]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

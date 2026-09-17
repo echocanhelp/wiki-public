@@ -41,6 +41,8 @@ Posted on 8/5/2025
 ## Subjects
 - [[organizations/taiwanese-association-of-america|Taiwanese Association of America]]
 - [[people/powen-wang|Powen Wang]]
+- [[people/powen-wang.md|Powen Wang]] — mentioned in this record
+- [[organizations/taiwanese-association-of-america.md|Taiwanese Association of America]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

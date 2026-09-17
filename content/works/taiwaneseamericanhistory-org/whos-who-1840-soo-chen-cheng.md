@@ -33,6 +33,7 @@ _Bibliographic record only. Full text stays in the vault._
 
 ## Subjects
 - [[people/dr-soo-chen-cheng|Dr. Soo-Chen Cheng 鄭淑珍博士]] — profiled subject（Academia Sinica 分子生物研究所副所長 2006–2008、所長 2013–2016；基因體研發中心特聘研究員 2004–；NTU 化學 1977、Duke 生物化學博士 1983）
+- [[people/dr-soo-chen-cheng.md|Dr. Soo-Chen Cheng]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

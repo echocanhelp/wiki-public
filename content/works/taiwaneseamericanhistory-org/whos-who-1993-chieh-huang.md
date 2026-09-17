@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2018-01-29 — published
 
 ## Subjects
+- [[people/chieh-huang.md|Chieh Huang]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

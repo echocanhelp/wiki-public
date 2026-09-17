@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2019-08-14 — published
 
 ## Subjects
+- [[people/b-h-chen.md|陳炳煌]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

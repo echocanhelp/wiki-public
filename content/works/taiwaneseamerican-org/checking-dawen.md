@@ -28,6 +28,7 @@ _Bibliographic record only. Full text stays in the vault (copyright)._
 ## Subjects
 - [[works/taiwaneseamerican-org/checking-dawen||Checking in with Dawen (王大文)]]
 - [[organizations/taiwanese-american-historical-society||TAHS]]
+- [[people/dawen-wang.md|王大文]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

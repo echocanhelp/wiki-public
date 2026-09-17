@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-07-27 — published
 
 ## Subjects
+- [[people/prof-ting-kuo-lee.md|Prof. Ting-Kuo Lee]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

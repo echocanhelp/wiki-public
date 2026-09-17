@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2020-12-29 — published
 
 ## Subjects
+- [[people/prof-henry-chuang.md|Prof. Henry Chuang]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

@@ -60,6 +60,12 @@ Ho Chie Tsai, creator of TaiwaneseAmerican.org, knows the impact that these summ
 
 ## Subjects
 - Interviews
+- [[people/ho-chie-tsai.md|Ho Chie Tsai]] — mentioned in this record
+- [[people/jason-tsai.md|Jason Tsai]] — mentioned in this record
+- [[organizations/taiwanese-american-organization-at-uc-irvine.md|Taiwanese American Organization at UC Irvine]] — mentioned in this record
+- [[organizations/taiwanese-american-students-association.md|Taiwanese American Students Association]] — mentioned in this record
+- [[organizations/taiwanese-american-citizens-league.md|Taiwanese American Citizens League]] — mentioned in this record
+- [[organizations/taiwan-american-foundation.md|Taiwanese American Foundation]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

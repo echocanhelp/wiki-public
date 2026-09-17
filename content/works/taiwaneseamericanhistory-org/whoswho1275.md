@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-09-11 — published
 
 ## Subjects
+- [[people/steven-chien.md|Steven Chien]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

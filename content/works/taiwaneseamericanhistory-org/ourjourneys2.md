@@ -86,6 +86,17 @@ Cited from the original ([source](https://taiwaneseamericanhistory.org/ourjourne
 - [[people/dr-teng-lung-hsu||許登龍醫師]]
 - [[people/frank-lai||賴文雄]]
 - [[people/stella-chen||陳婉真]]
+- [[people/eileen-chang.md|Eileen Chang]] — mentioned in this record
+- [[people/k-c-liao.md|廖國仲]] — mentioned in this record
+- [[people/dr-teng-lung-hsu.md|許登龍醫師]] — mentioned in this record
+- [[people/morgan-chang.md|張富雄]] — mentioned in this record
+- [[people/stella-chen.md|陳婉真]] — mentioned in this record
+- [[people/frank-lai.md|賴文雄]] — mentioned in this record
+- [[people/prof-h-c-lee.md|李弘祺教授]] — mentioned in this record
+- [[people/martin-tsai.md|蔡明峰]] — mentioned in this record
+- [[people/rui-feng-hsu.md|許瑞峰]] — mentioned in this record
+- [[people/stephen-lin.md|林俊提]] — mentioned in this record
+- [[people/ahhee-hsu.md|許丕龍]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

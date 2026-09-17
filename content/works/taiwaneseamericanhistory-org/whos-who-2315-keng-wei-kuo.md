@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2021-02-17 — published
 
 ## Subjects
+- [[people/keng-wei-william-kuo.md|郭耿維]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

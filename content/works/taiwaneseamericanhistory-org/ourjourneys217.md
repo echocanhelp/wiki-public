@@ -73,6 +73,10 @@ Posted in 04/2016
 - [[people/d-y-liu|劉德勇]]
 - [[people/guang-xiong-ling|凌光雄]]
 - [[people/wang-neng-xiang|Wang Neng-xiang (王能祥)]]
+- [[people/wang-neng-xiang.md|Wang Neng-xiang]] — mentioned in this record
+- [[people/guang-xiong-ling.md|凌光雄]] — mentioned in this record
+- [[people/d-y-liu.md|劉德勇]] — mentioned in this record
+- [[people/c-n-chen.md|陳建南]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

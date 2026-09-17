@@ -32,6 +32,8 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-07-11 — published
 
 ## Subjects
+- [[people/prof-yuh-huey-grace-lin.md|Prof. Yuh-Huey Grace Lin]] — mentioned in this record
+- [[people/grace-lin.md|Grace Lin]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

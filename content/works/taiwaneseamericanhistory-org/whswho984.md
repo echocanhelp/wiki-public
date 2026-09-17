@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-05-11 — published
 
 ## Subjects
+- [[people/tah-p-8b0212151d.md|施麗媛]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

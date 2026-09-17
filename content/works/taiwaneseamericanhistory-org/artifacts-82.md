@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2021-08-17 — published
 
 ## Subjects
+- [[people/enoch-wu.md|Enoch Wu]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

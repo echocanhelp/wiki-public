@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-05-23 — published
 
 ## Subjects
+- [[people/george-h-kerr.md|George H. Kerr]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

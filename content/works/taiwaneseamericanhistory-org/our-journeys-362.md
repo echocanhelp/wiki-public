@@ -98,6 +98,7 @@ Posted in 12/2020
 
 ## Subjects
 - [[people/clara-chen|Clara Chen]]
+- [[people/clara-chen.md|Clara Chen]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

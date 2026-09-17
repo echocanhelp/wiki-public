@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2020-01-22 — published
 
 ## Subjects
+- [[people/yu-an-chang.md|Yu-An Chang]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-09-20 — published
 
 ## Subjects
+- [[organizations/taiwanese-student-association.md|Taiwanese Student Association]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

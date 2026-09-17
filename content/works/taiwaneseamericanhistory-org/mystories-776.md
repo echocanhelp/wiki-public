@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2020-12-27 — published
 
 ## Subjects
+- [[people/chin-hsin-jason-liu.md|劉進興]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

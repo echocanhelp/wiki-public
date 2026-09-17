@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2020-04-27 — published
 
 ## Subjects
+- [[people/tah-p-48d42f32e0.md|陳來治]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

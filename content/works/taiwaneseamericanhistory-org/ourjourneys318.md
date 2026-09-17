@@ -46,6 +46,7 @@ Posted in 10/2017
 
 ## Subjects
 - [[people/cheng-y-chuang|莊承業]]
+- [[people/cheng-y-chuang.md|莊承業]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

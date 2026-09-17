@@ -83,6 +83,7 @@ https://www.amazon.com/Shadows-Crimson-Sun-Julia-Lin/dp/1988449170/
 ## Subjects
 - Arts &amp; Culture
 - Interviews
+- [[people/yang-jia-you.md|Charles Yang]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

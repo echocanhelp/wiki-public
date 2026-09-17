@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2018-05-27 — published
 
 ## Subjects
+- [[people/s-j-ho.md|何世杰]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

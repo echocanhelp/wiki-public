@@ -58,6 +58,13 @@ Logo of NATWA 點心擔
 - [[people/mei-lu|陳香梅]]
 - [[people/sue-chiu|黃雪香]]
 - [[people/t-y-ko|柯翠園]]
+- [[organizations/north-america-taiwanese-womens-association.md|North America Taiwanese Women’s Association]] — mentioned in this record
+- [[people/sue-chiu.md|黃雪香]] — mentioned in this record
+- [[people/carol-ou-lin.md|歐春美]] — mentioned in this record
+- [[people/mei-lu.md|陳香梅]] — mentioned in this record
+- [[people/anna-chang.md|張月英]] — mentioned in this record
+- [[people/t-y-ko.md|柯翠園]] — mentioned in this record
+- [[people/agnes-wu.md|姜瑞香]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

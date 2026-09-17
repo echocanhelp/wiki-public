@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2015-10-21 — published
 
 ## Subjects
+- [[organizations/center-for-taiwan-international-relations-ctir.md|Center for Taiwan International Relations, CTIR]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

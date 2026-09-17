@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2015-06-28 — published
 
 ## Subjects
+- [[people/stephanie-wan-hsiu-lan.md|藍婉修]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-07-09 — published
 
 ## Subjects
+- [[people/fu-te-ni.md|倪福德]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

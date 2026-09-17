@@ -80,6 +80,7 @@ Learn more about the Taiwanese American Citizens League’s “Write in ‘Taiwa
 - Community
 - Featured
 - Social/Politics
+- [[organizations/taiwanese-american-citizens-league.md|Taiwanese American Citizens League]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

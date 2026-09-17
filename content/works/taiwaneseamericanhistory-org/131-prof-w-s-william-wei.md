@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2018-10-05 — published
 
 ## Subjects
+- [[people/prof-w-s-william-wei.md|魏武雄教授]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

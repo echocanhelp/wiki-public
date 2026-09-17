@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-06-06 — published
 
 ## Subjects
+- [[people/prof-young-chang-chen.md|陳榮昌教授]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

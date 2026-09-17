@@ -161,6 +161,12 @@ It has been 30 years. The journey of TAFPC has been long and winding. It had its
 - [[people/rev-c-l-tong||董俊蘭牧師]]
 - [[people/rev-ben-m-c-hsieh||謝敏川牧師]]
 - [[people/wudong-huang||黃武東牧師]]
+- [[people/rev-martin-c-wang.md|Rev. Martin C. Wang]] — mentioned in this record
+- [[people/kenneth-liu.md|Kenneth Liu]] — mentioned in this record
+- [[people/rev-ben-m-c-hsieh.md|謝敏川牧師]] — mentioned in this record
+- [[people/wudong-huang.md|黃武東牧師]] — mentioned in this record
+- [[people/mou-chinlin.md|林茂清]] — mentioned in this record
+- [[people/rev-c-l-tong.md|董俊蘭牧師]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

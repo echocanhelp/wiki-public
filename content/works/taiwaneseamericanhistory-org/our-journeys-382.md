@@ -144,6 +144,16 @@ Posted on 11/28/2022
 
 ## Subjects
 - [[organizations/taiwanese-association-of-america|Taiwanese Association of America]]
+- [[people/lisa-su.md|Lisa T. Su]] — mentioned in this record
+- [[people/dr-lisa-su.md|Dr. Lisa Su]] — mentioned in this record
+- [[organizations/taiwanese-association-of-america.md|Taiwanese Association of America]] — mentioned in this record
+- [[people/lindayi-fang-yau.md|劉義芳]] — mentioned in this record
+- [[people/tah-p-2b6d280f0f.md|陳建賓]] — mentioned in this record
+- [[people/prof-ming-min-peng.md|彭明敏教授]] — mentioned in this record
+- [[people/kuei-ling-chen.md|陳桂鈴]] — mentioned in this record
+- [[people/yi-ho-cheng.md|鄭義和]] — mentioned in this record
+- [[people/dr-mike-kuo.md|郭正光博士]] — mentioned in this record
+- [[people/maysing-huang.md|楊黃美幸]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

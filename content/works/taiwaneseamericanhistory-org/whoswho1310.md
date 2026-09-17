@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-10-15 — published
 
 ## Subjects
+- [[people/apo-hsu.md|許瀞心]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

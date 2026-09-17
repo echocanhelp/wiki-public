@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-07-10 — published
 
 ## Subjects
+- [[people/chi-shih-huang.md|Chi Shih Huang]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

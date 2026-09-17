@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-07-02 — published
 
 ## Subjects
+- [[people/chiao-jung-wang.md|Chiao-jung Wang]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

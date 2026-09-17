@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2015-12-08 — published
 
 ## Subjects
+- [[people/tsan-hung-george-chang.md|張燦鍙教授]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

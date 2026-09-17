@@ -118,6 +118,7 @@ Posted in 08/2017
 ## Subjects
 - [[people/hsiu-fang-susan-liu]]
 - [[people/yang-yuanxun]]
+- [[people/hsiu-fang-susan-liu.md|陳秀芳]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

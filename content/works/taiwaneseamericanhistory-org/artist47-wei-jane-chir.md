@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2015-06-04 — published
 
 ## Subjects
+- [[people/wei-jane-chir.md|池農深]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

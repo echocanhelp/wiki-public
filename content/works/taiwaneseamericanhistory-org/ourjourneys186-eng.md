@@ -140,6 +140,18 @@ Translated from 186. 台美公民協會簡介 / 台美公民協會籌備委員�
 - [[people/tyzen-hsiao|蕭泰然]]
 - [[people/y-c-hsu|許耀慶]]
 - [[people/y-t-yan|顏裕庭]]
+- [[people/charles-ting.md|Charles Ting]] — mentioned in this record
+- [[people/daniel-lin.md|Daniel Lin]] — mentioned in this record
+- [[people/charles-chiang.md|Charles Chiang]] — mentioned in this record
+- [[people/dr-jeffrey-tsai.md|Dr. Jeffrey Tsai]] — mentioned in this record
+- [[people/c-b-chien.md|C. B. Chien]] — mentioned in this record
+- [[people/peter-su.md|Peter Su]] — mentioned in this record
+- [[people/tyzen-hsiao.md|Tyzen Hsiao]] — mentioned in this record
+- [[people/james-liang.md|James Liang]] — mentioned in this record
+- [[people/san-john-huang.md|San John Huang]] — mentioned in this record
+- [[people/prof-chong-maw-chen.md|Prof. Chong-Maw Chen]] — mentioned in this record
+- [[people/isaiah-lee.md|Isaiah Lee]] — mentioned in this record
+- [[people/raymond-wu.md|Raymond Wu]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

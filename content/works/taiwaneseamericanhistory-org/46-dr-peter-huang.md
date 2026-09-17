@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2018-08-24 — published
 
 ## Subjects
+- [[people/dr-peter-huang.md|Dr. Peter Huang]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

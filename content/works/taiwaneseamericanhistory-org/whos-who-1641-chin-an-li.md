@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-05-10 — published
 
 ## Subjects
+- [[people/prof-chin-an-li.md|Prof. Chin-An Li]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2018-11-06 — published
 
 ## Subjects
+- [[people/prof-jyu-hsiung-fang.md|方菊雄教授]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

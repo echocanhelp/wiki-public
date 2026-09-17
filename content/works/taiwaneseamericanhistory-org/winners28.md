@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-11-17 — published
 
 ## Subjects
+- [[people/dr-i-shih-chang.md|Dr. I-Shih Chang]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2018-02-12 — published
 
 ## Subjects
+- [[people/prof-yu-chong-tai.md|Prof. Yu-Chong Tai]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

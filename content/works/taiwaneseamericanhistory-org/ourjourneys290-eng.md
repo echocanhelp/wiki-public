@@ -75,6 +75,13 @@ Translated from 290. 北美臺灣客家公共事務協會
 - [[people/frank-m-hsu]]
 - [[people/joyce-weng]]
 - [[people/tsai-ing-wen]]
+- [[people/chen-shuibian.md|Chen Shui-bian]] — mentioned in this record
+- [[people/tsai-ing-wen.md|Tsai Ing-wen]] — mentioned in this record
+- [[people/joyce-weng.md|Joyce Weng]] — mentioned in this record
+- [[people/frank-m-hsu.md|Frank M. Hsu]] — mentioned in this record
+- [[people/dr-chanchi-lee.md|Dr. Chanchi Lee]] — mentioned in this record
+- [[people/clyde-kiang.md|Clyde Kiang]] — mentioned in this record
+- [[organizations/taiwan-hakka-association-for-public-affairs-in-north-america.md|Taiwan Hakka Association for Public Affairs in North America]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

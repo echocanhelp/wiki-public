@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-11-06 — published
 
 ## Subjects
+- [[people/h-r-hsu.md|許惠茹]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

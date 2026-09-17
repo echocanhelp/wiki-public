@@ -88,6 +88,9 @@ Posted in 03/2016
 - [[people/lin-rongsong|Lin Jung-sung]]
 - [[people/peng-ming-min|Peng Ming-min (彭明敏)]]
 - [[people/simon-lin|Simon Lin (林榮松)]]
+- [[people/simon-lin.md|Simon Lin]] — mentioned in this record
+- [[people/peng-ming-min.md|Peng Ming-min]] — mentioned in this record
+- [[people/lin-rongsong.md|Lin Jung-sung]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

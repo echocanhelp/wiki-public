@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-03-19 — published
 
 ## Subjects
+- [[people/y-c-hsu-2.md|許英智]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-12-21 — published
 
 ## Subjects
+- [[people/elaine-liu.md|Elaine Liu]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

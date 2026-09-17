@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2019-06-24 — published
 
 ## Subjects
+- [[people/yi-ho-cheng.md|Yi-Ho Cheng]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

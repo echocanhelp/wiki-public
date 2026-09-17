@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2015-09-08 — published
 
 ## Subjects
+- [[people/prof-bernard-travis-lee.md|Prof. Bernard Travis Lee]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

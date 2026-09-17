@@ -100,6 +100,16 @@ Translated from 272. 台美公民協會的成長：從孕育到發芽 / 周實 /
 - [[people/symeon-woo]]
 - [[people/y-c-hsu]]
 - [[people/y-c-hsu-2]]
+- [[people/dr-jeffrey-tsai.md|Dr. Jeffrey Tsai]] — mentioned in this record
+- [[people/c-b-chien.md|C. B. Chien]] — mentioned in this record
+- [[people/san-john-huang.md|San John Huang]] — mentioned in this record
+- [[people/jin-sheng-jian.md|Jin-Sheng Jian]] — mentioned in this record
+- [[people/mao-ching-david-huang.md|Mao-ching David Huang]] — mentioned in this record
+- [[people/david-huang.md|Rev. David Huang]] — mentioned in this record
+- [[people/symeon-woo.md|Symeon Woo]] — mentioned in this record
+- [[people/jer-shung-lin.md|Jer-Shung Lin]] — mentioned in this record
+- [[people/ahhee-hsu.md|Ahhee Hsu]] — mentioned in this record
+- [[organizations/taiwanese-american-citizens-league.md|Taiwanese American Citizens League]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

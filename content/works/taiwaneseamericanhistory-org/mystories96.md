@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2014-09-05 — published
 
 ## Subjects
+- [[people/dr-or-hsieh.md|謝娥醫師]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

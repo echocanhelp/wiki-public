@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-07-09 — published
 
 ## Subjects
+- [[people/chia-jen-lo.md|Chia-Jen Lo]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

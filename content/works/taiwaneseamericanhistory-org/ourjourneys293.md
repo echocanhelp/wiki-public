@@ -107,6 +107,10 @@ Posted in 06/2017
 ## Subjects
 - [[people/dr-taitzer-wang]]
 - [[people/m-k-wei]]
+- [[people/dr-s-t-cheng.md|鄭信傳醫師]] — mentioned in this record
+- [[people/j-y-lin.md|林哲也]] — mentioned in this record
+- [[people/c-t-lee.md|李青泰]] — mentioned in this record
+- [[people/m-k-wei.md|魏妙圭]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

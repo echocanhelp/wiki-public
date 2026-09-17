@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2015-12-27 — published
 
 ## Subjects
+- [[people/shoei-sheng-chen.md|Shoei-Sheng Chen]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

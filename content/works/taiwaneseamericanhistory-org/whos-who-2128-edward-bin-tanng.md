@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2018-06-12 — published
 
 ## Subjects
+- [[people/rev-edward-bin-tanng.md|Rev. Edward Bin Tanng]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

@@ -87,6 +87,7 @@ http://twitter.com/dawenmusic
 ## Subjects
 - Arts &amp; Culture
 - Interviews
+- [[people/dawen-wang.md|王大文]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

@@ -46,6 +46,9 @@ Facebook Page: http://www.facebook.com/thesisterhoodofnight
 - Arts &amp; Culture
 - Featured
 - Interviews
+- [[people/david-t-k-chen.md|David T. K. Chen]] — mentioned in this record
+- [[people/david-s-chen.md|David S. Chen]] — mentioned in this record
+- [[people/marilyn-fu.md|Marilyn Fu]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

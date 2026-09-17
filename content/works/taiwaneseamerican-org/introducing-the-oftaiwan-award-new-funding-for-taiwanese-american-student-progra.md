@@ -89,6 +89,9 @@ Warning.
 ## Subjects
 - Community
 - Projects
+- [[people/jenny-wang.md|Jenny Wang]] — mentioned in this record
+- [[organizations/taiwanese-american-students-association.md|Taiwanese American Students Association]] — mentioned in this record
+- [[organizations/taiwanese-american-student-association.md|Taiwanese American Student Association]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

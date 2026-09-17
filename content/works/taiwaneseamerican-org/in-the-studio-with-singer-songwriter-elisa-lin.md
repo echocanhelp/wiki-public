@@ -50,6 +50,7 @@ http://www.yesasia.com/global/im-not/1021639070-0-0-0-en/info.html
 
 ## Subjects
 - Interviews
+- [[people/ho-chie-tsai.md|Ho Chie Tsai]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

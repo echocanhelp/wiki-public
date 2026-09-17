@@ -45,6 +45,8 @@ The “I AM Taiwanese American” shirt that Janet is wearing is available throu
 ## Subjects
 - Arts &amp; Culture
 - Interviews
+- [[people/ho-chie-tsai.md|Ho Chie Tsai]] — mentioned in this record
+- [[people/janet-hsieh.md|Janet Hsieh]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

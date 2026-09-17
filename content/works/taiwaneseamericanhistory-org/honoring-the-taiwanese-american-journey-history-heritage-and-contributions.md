@@ -40,6 +40,7 @@ Posted on 08/06/2026
 
 ## Subjects
 - [[organizations/tah-foundation|TAH Foundation]]
+- [[organizations/tah-foundation.md|TAH Foundation]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

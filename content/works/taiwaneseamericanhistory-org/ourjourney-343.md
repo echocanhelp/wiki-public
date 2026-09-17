@@ -106,6 +106,16 @@ Posted in 02/2019
 - [[people/j-s-chien|簡忠松]]
 - [[people/kevin-lin|Kevin Lin]]
 - [[people/pearl-pi-chu-yang-wu|楊碧珠]]
+- [[people/kevin-lin.md|Kevin Lin]] — mentioned in this record
+- [[people/john-m-yeh.md|John M. Yeh]] — mentioned in this record
+- [[people/john-y-chieu.md|John Y. Chieu]] — mentioned in this record
+- [[people/dr-mu-sheng-wu.md|Dr. Mu-Sheng Wu]] — mentioned in this record
+- [[people/dr-peter-wu.md|Dr. Peter Wu]] — mentioned in this record
+- [[people/dr-john-chieu.md|Dr. John Chieu]] — mentioned in this record
+- [[organizations/taiwanese-association-of-america.md|Taiwanese Association of America]] — mentioned in this record
+- [[organizations/austin-taiwanese-association.md|Austin Taiwanese Association]] — mentioned in this record
+- [[people/pearl-pi-chu-yang-wu.md|楊碧珠]] — mentioned in this record
+- [[people/j-s-chien.md|簡忠松]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

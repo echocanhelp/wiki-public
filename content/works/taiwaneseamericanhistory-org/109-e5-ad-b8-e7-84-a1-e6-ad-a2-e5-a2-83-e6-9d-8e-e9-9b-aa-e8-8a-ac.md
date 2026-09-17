@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2014-10-03 — published
 
 ## Subjects
+- [[people/gloria-h-shaw.md|李雪芬]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

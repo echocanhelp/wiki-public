@@ -29,6 +29,7 @@ _Bibliographic record only. Full text stays in the vault (copyright)._
 - [[works/taiwaneseamerican-org/taiwanese-student-association-at-rice-university-first-general-meeting||Taiwanese Student Association at Rice University First General Meeting]]
 - [[organizations/taiwanese-student-association||Taiwanese Student Association]]
 - [[organizations/taiwanese-american-historical-society||TAHS]]
+- [[organizations/taiwanese-student-association.md|Taiwanese Student Association]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

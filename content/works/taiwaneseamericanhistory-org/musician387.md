@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-03-02 — published
 
 ## Subjects
+- [[people/h-j-lee.md|李慧珍]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

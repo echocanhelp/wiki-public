@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2019-07-11 — published
 
 ## Subjects
+- [[people/bach-ying-chun-wu.md|吳英俊]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

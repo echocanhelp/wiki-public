@@ -32,6 +32,8 @@ _Bibliographic record only. Full text stays in the vault._
 - 2019-05-25 — published
 
 ## Subjects
+- [[people/nami-yang.md|Nami Yang]] — mentioned in this record
+- [[people/george-tseng.md|Dr. George Tseng]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

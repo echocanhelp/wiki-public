@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2015-07-14 — published
 
 ## Subjects
+- [[organizations/southern-california-alumni-association-of-tainan-first-senior-high-sch.md|Southern California Alumni Association of Tainan First Senior High School and Tainan Girls’ Senior High School]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

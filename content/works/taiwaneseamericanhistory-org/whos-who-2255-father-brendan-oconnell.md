@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2020-04-20 — published
 
 ## Subjects
+- [[people/father-brendan-oconnell.md|Father Brendan O’Connell]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

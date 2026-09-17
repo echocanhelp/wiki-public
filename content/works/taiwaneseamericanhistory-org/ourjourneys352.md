@@ -60,6 +60,15 @@ Posted in 03/2020
 - [[people/tah-p-3496456ca5|周昭亮]]
 - [[people/tony-lee|Tony Lee (李賢群)]]
 - [[people/wang-kexiong|王克雄]]
+- [[people/prof-ken-s-huang.md|Prof. Ken S. Huang]] — mentioned in this record
+- [[people/darice-lee.md|Darice Lee]] — mentioned in this record
+- [[people/tony-lee.md|Tony Lee]] — mentioned in this record
+- [[people/daniel-ko.md|Daniel Ko]] — mentioned in this record
+- [[people/james-j-y-hsu.md|James J. Y Hsu]] — mentioned in this record
+- [[people/dr-edward-t-s-huang.md|Dr. Edward T. S. Huang]] — mentioned in this record
+- [[people/jan-yung-lin.md|Jan-Yung Lin]] — mentioned in this record
+- [[people/tah-p-3496456ca5.md|周昭亮]] — mentioned in this record
+- [[people/stephen-lin.md|林俊提]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

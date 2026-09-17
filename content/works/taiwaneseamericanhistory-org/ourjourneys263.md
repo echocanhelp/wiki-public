@@ -61,6 +61,8 @@ Posted in 10/2016
 - 2016-10-31 — published
 
 ## Subjects
+- [[people/chi-shun-hwang.md|黃智舜]] — mentioned in this record
+- [[people/shu-yuan-susan-tsay.md|蔡淑媛]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

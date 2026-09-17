@@ -118,6 +118,12 @@ Posted in 04/2017
 - [[people/dr-mu-sheng-wu]]
 - [[people/peter-chiu]]
 - [[people/wenhsiung-luke-huang]]
+- [[people/peter-su.md|蘇國雄]] — mentioned in this record
+- [[people/peter-chiu.md|邱勝宗]] — mentioned in this record
+- [[people/tah-p-e00ace0a3a.md|毛清芬]] — mentioned in this record
+- [[people/raymond-wu.md|吳瑞信]] — mentioned in this record
+- [[people/long-lee.md|李隆吉]] — mentioned in this record
+- [[people/wenhsiung-luke-huang.md|黃文雄]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

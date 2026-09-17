@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2014-11-10 — published
 
 ## Subjects
+- [[people/tai-cheng-chen.md|Dr. Tai-Cheng Chen]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

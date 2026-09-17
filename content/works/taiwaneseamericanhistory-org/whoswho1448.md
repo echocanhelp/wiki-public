@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-12-26 — published
 
 ## Subjects
+- [[people/carrie-y-tseng.md|Carrie Y. Tseng]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

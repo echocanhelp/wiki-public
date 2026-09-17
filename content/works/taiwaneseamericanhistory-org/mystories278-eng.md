@@ -101,6 +101,8 @@ Posted 1/17/2021
 - 2015-05-31 — published
 
 ## Subjects
+- [[people/prof-tender-lin.md|Prof. Tender Lin]] — mentioned in this record
+- [[people/prof-chin-c-lee.md|Prof. Chin C. Lee]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

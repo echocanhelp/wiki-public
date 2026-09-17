@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2015-06-14 — published
 
 ## Subjects
+- [[people/yu-hsuan-liao.md|Yu-Hsuan Liao]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

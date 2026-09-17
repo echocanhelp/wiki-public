@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2019-12-27 — published
 
 ## Subjects
+- [[people/pamela-hung.md|Pamela Hung]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

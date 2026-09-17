@@ -198,6 +198,12 @@ Posted in 04/2021
 - [[people/hanna-huang|Hanna Huang]]
 - [[people/john-hsieh|John Hsieh]]
 - [[people/pearl-pi-chu-yang-wu|楊碧珠]]
+- [[people/dr-peter-wu.md|Dr. Peter Wu]] — mentioned in this record
+- [[people/michael-s-k-chen.md|Michael S. K. Chen]] — mentioned in this record
+- [[people/dr-mike-kuo.md|Dr. Mike Kuo]] — mentioned in this record
+- [[people/john-hsieh.md|John Hsieh]] — mentioned in this record
+- [[people/hanna-huang.md|Hanna Huang]] — mentioned in this record
+- [[people/pearl-pi-chu-yang-wu.md|楊碧珠]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

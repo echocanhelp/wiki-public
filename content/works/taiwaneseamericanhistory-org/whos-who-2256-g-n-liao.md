@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2020-04-20 — published
 
 ## Subjects
+- [[people/g-n-liao.md|G. N. Liao]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

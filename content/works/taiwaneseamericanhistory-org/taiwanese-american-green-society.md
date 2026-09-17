@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2015-08-03 — published
 
 ## Subjects
+- [[organizations/taiwanese-american-green-society.md|Taiwanese American Green Society]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

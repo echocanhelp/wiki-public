@@ -191,6 +191,7 @@ COST: $10, VOD
 - Community
 - Featured
 - Spotlight
+- [[organizations/global-taiwan-institute.md|Global Taiwan Institute]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

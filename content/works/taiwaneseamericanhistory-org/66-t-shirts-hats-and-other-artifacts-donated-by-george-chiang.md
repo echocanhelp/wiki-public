@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2018-06-29 — published
 
 ## Subjects
+- [[people/george-chiang.md|George Chiang]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

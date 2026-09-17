@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2015-02-19 — published
 
 ## Subjects
+- [[organizations/harvard-taiwanese-cultural-society.md|Harvard Taiwanese Cultural Society]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

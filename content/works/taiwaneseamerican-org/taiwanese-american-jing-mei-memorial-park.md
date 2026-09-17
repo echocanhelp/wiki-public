@@ -112,6 +112,7 @@ ________________________________________________________________________________
 - Arts &amp; Culture
 - Perspectives
 - Social/Politics
+- [[people/michelle-kuo.md|Michelle Kuo]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

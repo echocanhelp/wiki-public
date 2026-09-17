@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2022-02-22 — published
 
 ## Subjects
+- [[people/karen-chen.md|陳楷雯]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

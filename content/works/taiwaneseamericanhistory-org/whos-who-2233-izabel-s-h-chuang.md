@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2019-12-13 — published
 
 ## Subjects
+- [[people/dr-izabel-s-h-chuang.md|Dr. Izabel S. H. Chuang]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

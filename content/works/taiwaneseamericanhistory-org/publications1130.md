@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-09-11 — published
 
 ## Subjects
+- [[people/prof-chin-chu-lin-m-d.md|林靜竹教授]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

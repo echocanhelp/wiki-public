@@ -57,6 +57,7 @@ Other reviews: http://www.yelp.com/biz/boba-guys-san-francisco
 ## Subjects
 - Food &amp; Travel
 - Interviews
+- [[people/ho-chie-tsai.md|Ho Chie Tsai]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

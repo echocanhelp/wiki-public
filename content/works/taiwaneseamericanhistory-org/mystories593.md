@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-10-23 — published
 
 ## Subjects
+- [[people/loring-wuliang-tu.md|杜武亮]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

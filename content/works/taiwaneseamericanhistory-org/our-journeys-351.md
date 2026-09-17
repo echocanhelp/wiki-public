@@ -86,6 +86,10 @@ Posted in 01/2020
 - [[people/bob-in-yu-yang|楊英育]]
 - [[people/h-n-tong|童海南]]
 - [[people/mark-jong|鍾茂萃]]
+- [[people/h-n-tong.md|童海南]] — mentioned in this record
+- [[people/mark-jong.md|鍾茂萃]] — mentioned in this record
+- [[people/kim-lai-huang.md|黃金來]] — mentioned in this record
+- [[people/bob-in-yu-yang.md|楊英育]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

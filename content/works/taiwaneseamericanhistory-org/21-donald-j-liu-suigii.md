@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2014-10-18 — published
 
 ## Subjects
+- [[people/donald-j-liu.md|Donald J. Liu]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

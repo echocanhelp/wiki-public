@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-01-14 — published
 
 ## Subjects
+- [[people/bi-khim-hsiao.md|Bi-khim Hsiao]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

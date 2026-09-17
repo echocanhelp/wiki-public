@@ -68,6 +68,15 @@ Posted in 08/2018
 
 ## Subjects
 - [[people/ahhee-hsu|許丕龍]]
+- [[people/ahhee-hsu.md|Ahhee Hsu]] — mentioned in this record
+- [[people/lily-li-jan-lin.md|林麗貞]] — mentioned in this record
+- [[people/tyzen-hsiao.md|蕭泰然]] — mentioned in this record
+- [[people/alan-thian.md|田詒鴻]] — mentioned in this record
+- [[people/li-chan-chen-maxham.md|陳麗嬋]] — mentioned in this record
+- [[people/sonia-lee.md|王淑女]] — mentioned in this record
+- [[people/sally-tsai.md|蔡淑理]] — mentioned in this record
+- [[people/hsun-hsun-hsu.md|許恂恂]] — mentioned in this record
+- [[people/gwhyneth-chen.md|陳毓襄]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

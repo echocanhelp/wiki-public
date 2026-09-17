@@ -32,6 +32,8 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-07-13 — published
 
 ## Subjects
+- [[people/dr-ming-j-lee.md|Dr. Ming J. Lee]] — mentioned in this record
+- [[people/min-tenmilton-lee.md|李明典]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

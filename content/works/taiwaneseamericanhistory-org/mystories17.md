@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2014-09-01 — published
 
 ## Subjects
+- [[people/nami-yang.md|李淑櫻]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

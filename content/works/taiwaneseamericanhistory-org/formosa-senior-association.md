@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2015-07-28 — published
 
 ## Subjects
+- [[organizations/formosa-senior-association.md|Formosa Senior Association]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

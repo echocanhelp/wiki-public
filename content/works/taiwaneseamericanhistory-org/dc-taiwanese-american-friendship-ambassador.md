@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2018-03-06 — published
 
 ## Subjects
+- [[organizations/taiwanese-american-outreach-association.md|Taiwanese American Outreach Association]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

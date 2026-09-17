@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2015-01-19 — published
 
 ## Subjects
+- [[people/susan-suying-lee.md|李淑英]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

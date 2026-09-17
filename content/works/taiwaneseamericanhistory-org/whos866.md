@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-03-06 — published
 
 ## Subjects
+- [[people/tah-p-e8a9f7b57c.md|蕭樂善]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

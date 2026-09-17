@@ -108,6 +108,9 @@ Kristi Hong was born to immigrants from Taiwan and grew up in Michigan, and whil
 ## Subjects
 - Arts &amp; Culture
 - Interviews
+- [[people/ho-chie-tsai.md|Ho Chie Tsai]] — mentioned in this record
+- [[people/leona-chen.md|Leona Chen]] — mentioned in this record
+- [[people/jeff-yang.md|Jeff Yang]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

@@ -313,6 +313,9 @@ Posted in 06/2017
 - [[people/prof-chin-c-lee]]
 - [[people/prof-mingchi-wu]]
 - [[people/tah-p-9a69693e1e]]
+- [[people/hui-na-lin.md|賴慧娜]] — mentioned in this record
+- [[people/tah-p-9a69693e1e.md|賴金德]] — mentioned in this record
+- [[people/tah-p-e00ace0a3a.md|毛清芬]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

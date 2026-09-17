@@ -50,6 +50,7 @@ Posted in 07/2018
 
 ## Subjects
 - [[organizations/san-diego-taiwanese-cultural-association|San Diego Taiwanese Cultural Association]]
+- [[organizations/san-diego-taiwanese-cultural-association.md|San Diego Taiwanese Cultural Association]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

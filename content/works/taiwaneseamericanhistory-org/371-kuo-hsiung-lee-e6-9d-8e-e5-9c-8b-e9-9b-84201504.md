@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2015-04-16 — published
 
 ## Subjects
+- [[people/kuo-hsiung-lee.md|Kuo-Hsiung Lee]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-11-10 — published
 
 ## Subjects
+- [[organizations/formosar-chriotion-for-self-determination.md|Formosar Chriotion for Self Determination]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

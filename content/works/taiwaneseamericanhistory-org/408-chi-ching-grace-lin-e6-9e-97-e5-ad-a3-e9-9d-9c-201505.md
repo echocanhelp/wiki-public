@@ -32,6 +32,8 @@ _Bibliographic record only. Full text stays in the vault._
 - 2015-05-10 — published
 
 ## Subjects
+- [[people/chi-ching-grace-lin.md|Chi-Ching Grace Lin]] — mentioned in this record
+- [[people/grace-lin.md|Grace Lin]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

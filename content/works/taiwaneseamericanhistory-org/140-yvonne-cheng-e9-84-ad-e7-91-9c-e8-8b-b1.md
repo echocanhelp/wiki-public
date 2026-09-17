@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2014-12-05 — published
 
 ## Subjects
+- [[people/yvonne-cheng.md|Yvonne Cheng]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

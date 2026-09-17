@@ -32,6 +32,8 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-01-25 — published
 
 ## Subjects
+- [[people/dr-paul-chen.md|Dr. Paul Chen]] — mentioned in this record
+- [[people/paul-chen.md|Paul Chen]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2018-10-02 — published
 
 ## Subjects
+- [[people/powen-wang.md|Powen Wang]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-03-23 — published
 
 ## Subjects
+- [[people/chi-tien-chang.md|Prof. Chi-Tien Chang]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

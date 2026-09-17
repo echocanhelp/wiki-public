@@ -85,6 +85,8 @@ Posted in 04/2016
 ## Subjects
 - [[people/hsiu-fang-susan-liu|陳秀芳]]
 - [[people/te-chiang-bacco-liu|劉德強]]
+- [[people/hsiu-fang-susan-liu.md|陳秀芳]] — mentioned in this record
+- [[people/te-chiang-bacco-liu.md|劉德強]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

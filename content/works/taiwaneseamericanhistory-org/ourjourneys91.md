@@ -57,6 +57,8 @@ Posted in 01/2015
 ## Subjects
 - [[people/agnes-wu||姜瑞香]]
 - [[people/kin-ko||柯金寅]]
+- [[people/kin-ko.md|柯金寅]] — mentioned in this record
+- [[people/agnes-wu.md|姜瑞香]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2018-03-13 — published
 
 ## Subjects
+- [[people/karen-chen.md|Karen Chen]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2019-07-15 — published
 
 ## Subjects
+- [[people/min-tenmilton-lee.md|李明典]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

@@ -69,6 +69,7 @@ Purchase Spoiler Alert at: http://georgeshaw.bandcamp.com/album/spoiler-alert
 ## Subjects
 - Arts &amp; Culture
 - Interviews
+- [[people/ho-chie-tsai.md|Ho Chie Tsai]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

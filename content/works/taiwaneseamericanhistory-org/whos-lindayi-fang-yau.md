@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-03-20 — published
 
 ## Subjects
+- [[people/lindayi-fang-yau.md|劉義芳]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

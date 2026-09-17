@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2014-11-10 — published
 
 ## Subjects
+- [[people/robert-chen.md|陳慕融]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

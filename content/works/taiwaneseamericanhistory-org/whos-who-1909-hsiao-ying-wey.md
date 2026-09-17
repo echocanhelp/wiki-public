@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-09-24 — published
 
 ## Subjects
+- [[people/prof-hsiao-ying-monica-wey.md|魏曉英教授]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

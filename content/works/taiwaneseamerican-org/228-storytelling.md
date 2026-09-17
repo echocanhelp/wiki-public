@@ -96,6 +96,7 @@ Tell your stories.
 - Featured
 - Perspectives
 - Social/Politics
+- [[people/leona-chen.md|Leona Chen]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

@@ -240,6 +240,7 @@ Attitudes Toward Homosexuality and Same-Sex Marriage in Taiwan: It’s More Comp
 ## Subjects
 - Perspectives
 - Social/Politics
+- [[people/chen-shuibian.md|Chen Shui-bian]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

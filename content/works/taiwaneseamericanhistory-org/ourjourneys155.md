@@ -106,6 +106,9 @@ Houston張仁裕先生報告在Houston是先有台語學校，由台語學校才
 - [[people/prof-wen-chan|詹文聲教授]]
 - [[people/qun-tsai|蔡昆]]
 - [[people/tah-p-e842a7cf22|楊金文]]
+- [[organizations/taiwanese-heritage-society-of-houston.md|Taiwanese Heritage Society of Houston]] — mentioned in this record
+- [[people/prof-wen-chan.md|詹文聲教授]] — mentioned in this record
+- [[people/tah-p-e842a7cf22.md|楊金文]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

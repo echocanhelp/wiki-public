@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2015-02-03 — published
 
 ## Subjects
+- [[people/jeff-hou.md|Jeff Hou]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

@@ -159,6 +159,13 @@ Translated from 126. 台獨聯盟UFI （United Formosans for Independence）/盧
 - [[organizations/taiwanese-association-of-america|Taiwanese Association of America (全美台灣同鄉會)]]
 - [[organizations/united-formosans-for-independenceufi|United Formosans for Independence UFI (台獨聯盟)]]
 - [[people/tsu-yi-jay-loo|盧主義]]
+- [[people/prof-ming-min-peng.md|Prof. Ming Min Peng]] — mentioned in this record
+- [[people/george-h-kerr.md|George H. Kerr]] — mentioned in this record
+- [[people/dr-fu-chen-lo.md|Dr. Fu-Chen Lo]] — mentioned in this record
+- [[organizations/democratic-progressive-party.md|Democratic Progressive Party]] — mentioned in this record
+- [[organizations/taiwanese-association-of-america.md|Taiwanese Association of America]] — mentioned in this record
+- [[organizations/united-formosans-for-independenceufi.md|United Formosans for Independence UFI]] — mentioned in this record
+- [[people/tsu-yi-jay-loo.md|盧主義]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-12-25 — published
 
 ## Subjects
+- [[people/chin-hsin-jason-liu.md|Chin-Hsin Jason Liu]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

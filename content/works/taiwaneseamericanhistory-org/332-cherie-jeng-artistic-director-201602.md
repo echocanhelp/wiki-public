@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-03-01 — published
 
 ## Subjects
+- [[people/cherie-jeng.md|Cherie Jeng]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

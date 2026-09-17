@@ -532,6 +532,18 @@ Posted in 11/2016
 - [[people/tsung-ming-hsieh|謝聰敏]]
 - [[people/tyzen-hsiao|蕭泰然]]
 - [[people/wei-shou-hu|胡維碩]]
+- [[people/chen-shuibian.md|Chen Shui-bian]] — mentioned in this record
+- [[people/thomas-shu.md|Thomas Shu]] — mentioned in this record
+- [[people/peng-ming-min.md|Peng Ming-min]] — mentioned in this record
+- [[people/josephine-pan.md|Josephine Pan]] — mentioned in this record
+- [[people/michael-fonte.md|Michael Fonte]] — mentioned in this record
+- [[people/chen-maoxiong.md|Chen Mao-xiong]] — mentioned in this record
+- [[organizations/taiwanese-association-of-america.md|Taiwanese Association of America]] — mentioned in this record
+- [[people/tyzen-hsiao.md|蕭泰然]] — mentioned in this record
+- [[people/hsiu-fang-susan-liu.md|陳秀芳]] — mentioned in this record
+- [[people/tah-p-1c92380779.md|陳樂群]] — mentioned in this record
+- [[people/hui-mei-lin.md|林慧美]] — mentioned in this record
+- [[people/chung-chen-paul-hsu.md|許忠政]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

@@ -32,6 +32,8 @@ _Bibliographic record only. Full text stays in the vault._
 - 2020-09-23 — published
 
 ## Subjects
+- [[people/bob-cheng.md|鄭寶鼎博士]] — mentioned in this record
+- [[people/patsy-fang-chen.md|方秀蓉]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

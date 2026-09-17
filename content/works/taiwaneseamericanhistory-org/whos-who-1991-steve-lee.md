@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2018-01-17 — published
 
 ## Subjects
+- [[people/dr-steve-lee.md|Dr. Steve Lee]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

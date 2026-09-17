@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-02-29 — published
 
 ## Subjects
+- [[people/marlene-tseng-yu.md|虞曾富美]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

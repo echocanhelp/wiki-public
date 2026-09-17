@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-06-29 — published
 
 ## Subjects
+- [[people/dr-edward-t-s-huang.md|黃東昇博士]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

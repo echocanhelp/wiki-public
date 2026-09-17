@@ -66,6 +66,8 @@ Visit www.sparkaccel.com to learn more and apply!
 
 ## Subjects
 - Community
+- [[people/kevin-lin.md|Kevin Lin]] — mentioned in this record
+- [[people/maggie-hsu.md|Maggie Hsu]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

@@ -64,6 +64,11 @@ Posted in 02/2015
 - [[people/maysing-huang||楊黃美幸]]
 - [[people/dr-b-c-wen||溫碧謙醫師]]
 - [[people/cheng-yan-kao||高成炎]]
+- [[people/dr-b-c-wen.md|溫碧謙醫師]] — mentioned in this record
+- [[people/prof-helen-lee.md|李雪玟教授]] — mentioned in this record
+- [[people/min-mei-chen.md|吳明美]] — mentioned in this record
+- [[people/maysing-huang.md|楊黃美幸]] — mentioned in this record
+- [[people/cheng-yan-kao.md|高成炎]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

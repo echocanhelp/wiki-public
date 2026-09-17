@@ -110,6 +110,10 @@ Taiwanese Association of Cincinnati Taiwan Center, Cincinnati, OH/1995 (provided
 - [[organizations/taiwanese-association-of-cincinnati]]
 - [[people/dr-s-t-cheng]]
 - [[people/m-k-wei]]
+- [[people/dr-s-t-cheng.md|Dr. S. T. Cheng]] — mentioned in this record
+- [[people/dr-taitzer-wang.md|Dr. Taitzer Wang]] — mentioned in this record
+- [[organizations/taiwanese-association-of-cincinnati.md|Taiwanese Association of Cincinnati]] — mentioned in this record
+- [[people/m-k-wei.md|魏妙圭]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

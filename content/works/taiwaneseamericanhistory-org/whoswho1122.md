@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-07-02 — published
 
 ## Subjects
+- [[people/dr-kuo-shih-yeh.md|Dr. Kuo Shih Yeh]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

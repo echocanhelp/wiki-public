@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2019-01-28 — published
 
 ## Subjects
+- [[people/prof-chi-tsong-chen.md|Prof. Chi-Tsong Chen]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

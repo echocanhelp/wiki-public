@@ -33,6 +33,7 @@ _Bibliographic record only. Full text stays in the vault._
 
 ## Subjects
 - [[people/ming-shian-kao|Prof. Ming-Shian Kao 高銘憲教授]] — profiled subject（NTU 醫學 1961；華盛頓大學聖路易分校婦產科 1965–1993、聖路易大學婦癌科主任；Best Doctor／Best Oncologist）
+- [[people/ming-shian-kao.md|Prof. Ming-Shian Kao]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

@@ -48,6 +48,7 @@ Annie Tung is a student at UC Berkeley who serves as an intern for the Asian Pac
 
 ## Subjects
 - Interviews
+- [[people/jeremy-lin.md|Jeremy Lin]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2014-12-13 — published
 
 ## Subjects
+- [[people/dr-jia-huey-lin-yu.md|Dr. Jia-Huey Lin Yu]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2015-05-07 — published
 
 ## Subjects
+- [[people/chin-ming-chen.md|陳欽明醫師]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-05-01 — published
 
 ## Subjects
+- [[people/dr-rex-yu.md|余忠村博士]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

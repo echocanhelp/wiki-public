@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2019-04-25 — published
 
 ## Subjects
+- [[people/min-mei-chen.md|吳明美]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

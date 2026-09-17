@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-01-18 — published
 
 ## Subjects
+- [[people/dr-gichiong-khu.md|Dr. Gichiong Khu]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

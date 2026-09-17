@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2021-02-16 — published
 
 ## Subjects
+- [[people/prof-w-k-young.md|楊文光教授]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

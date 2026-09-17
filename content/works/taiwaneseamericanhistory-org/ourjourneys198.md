@@ -82,6 +82,7 @@ Posted in 02/2016
 
 ## Subjects
 - [[people/shu-yuan-susan-tsay|蔡淑媛]]
+- [[people/shu-yuan-susan-tsay.md|蔡淑媛]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

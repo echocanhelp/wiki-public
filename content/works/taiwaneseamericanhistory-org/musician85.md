@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2014-12-01 — published
 
 ## Subjects
+- [[people/melinda-tang.md|Melinda Tang]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

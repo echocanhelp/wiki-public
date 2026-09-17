@@ -105,6 +105,13 @@ Posted in 11/2017
 ## Subjects
 - [[people/linda-gail-arrigo|艾琳達]]
 - [[people/yung-hwa-hsu|許永華]]
+- [[people/wen_chen-chen.md|陳文成教授]] — mentioned in this record
+- [[people/tah-p-9a69693e1e.md|賴金德]] — mentioned in this record
+- [[people/b-n-huang.md|黃邦男]] — mentioned in this record
+- [[people/tah-p-04e87d0c6a.md|郭雨新]] — mentioned in this record
+- [[people/elena-ling.md|黃美惠]] — mentioned in this record
+- [[people/yung-hwa-hsu.md|許永華]] — mentioned in this record
+- [[people/linda-gail-arrigo.md|艾琳達]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

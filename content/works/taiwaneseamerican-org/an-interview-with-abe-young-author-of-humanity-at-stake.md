@@ -82,6 +82,7 @@ TaiwaneseAmerican.org is proud to offer autographed copies of Humanity at Stake 
 
 ## Subjects
 - Interviews
+- [[people/shawna-yang-ryan.md|Shawna Yang Ryan]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

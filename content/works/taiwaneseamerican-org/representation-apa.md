@@ -40,6 +40,8 @@ We only wish that our friends and followers can know people just as inspiring an
 - Interviews
 - Perspectives
 - Social/Politics
+- [[people/ho-chie-tsai.md|Ho Chie Tsai]] — mentioned in this record
+- [[people/justine-ker.md|Justine Ker]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

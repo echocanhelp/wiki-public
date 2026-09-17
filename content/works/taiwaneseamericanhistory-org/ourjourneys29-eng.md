@@ -109,6 +109,12 @@ Translated from 29. 南加州台灣會館開創的史料/黃樹人編輯/2014/09
 - [[organizations/overseas-community-affairs-council||Overseas Community Affairs Council]]
 - [[organizations/taiwan-american-foundation||Taiwanese American Foundation]]
 - [[organizations/taiwanese-american-lawyers-association||Taiwanese American Lawyers Association]]
+- [[people/san-john-huang.md|San John Huang]] — mentioned in this record
+- [[people/simon-lin.md|Simon Lin]] — mentioned in this record
+- [[people/freeman-huang.md|Freeman Huang]] — mentioned in this record
+- [[organizations/taiwanese-american-lawyers-association.md|Taiwanese American Lawyers Association]] — mentioned in this record
+- [[organizations/taiwan-american-foundation.md|Taiwanese American Foundation]] — mentioned in this record
+- [[organizations/overseas-community-affairs-council.md|Overseas Community Affairs Council]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

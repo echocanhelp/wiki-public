@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-06-22 — published
 
 ## Subjects
+- [[people/shih-pao-lin.md|Shih Pao Lin]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

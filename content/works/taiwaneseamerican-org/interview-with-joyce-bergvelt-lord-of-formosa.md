@@ -106,6 +106,8 @@ This post contains affiliate links. TaiwaneseAmerican.org participates in the Am
 ## Subjects
 - Arts &amp; Culture
 - Interviews
+- [[people/julie-wu.md|Julie Wu]] — mentioned in this record
+- [[people/shawna-yang-ryan.md|Shawna Yang Ryan]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

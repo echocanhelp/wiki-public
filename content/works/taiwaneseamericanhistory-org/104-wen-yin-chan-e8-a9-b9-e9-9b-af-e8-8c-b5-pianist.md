@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2014-12-26 — published
 
 ## Subjects
+- [[people/wen-yin-chan.md|Wen-Yin Chan]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

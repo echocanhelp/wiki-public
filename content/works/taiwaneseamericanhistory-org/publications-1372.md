@@ -32,6 +32,8 @@ _Bibliographic record only. Full text stays in the vault._
 - 2023-08-18 — published
 
 ## Subjects
+- [[people/k-d-wang.md|王康德]] — mentioned in this record
+- [[people/tah-p-8c5a93b3d4.md|王康厚]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2015-08-29 — published
 
 ## Subjects
+- [[people/amanda-shumin-yang.md|Amanda Shumin Yang]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-03-19 — published
 
 ## Subjects
+- [[people/prof-frank-s-t-hsiao.md|Prof. Frank S. T. Hsiao]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

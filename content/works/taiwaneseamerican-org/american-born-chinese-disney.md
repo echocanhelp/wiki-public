@@ -71,6 +71,12 @@ American Born Chinese premiered on Disney Plus today. Watch the trailer here.
 ## Subjects
 - Arts &amp; Culture
 - Community
+- [[people/alan-yang.md|Alan Yang]] — mentioned in this record
+- [[people/charles-yu.md|Charles Yu]] — mentioned in this record
+- [[people/grace-lin.md|Grace Lin]] — mentioned in this record
+- [[people/kelvin-yu.md|Kelvin Yu]] — mentioned in this record
+- [[people/jin-chyuan-yu.md|Jin-Chyuan Yu]] — mentioned in this record
+- [[organizations/taiwan-american-foundation.md|Taiwanese American Foundation]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

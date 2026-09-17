@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2015-12-10 — published
 
 ## Subjects
+- [[people/ding-yi-wang.md|楊定一博士]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

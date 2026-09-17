@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2020-12-24 — published
 
 ## Subjects
+- [[people/dr-richard-yu-tsang-lin.md|Dr. Richard Yu-Tsang Lin]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

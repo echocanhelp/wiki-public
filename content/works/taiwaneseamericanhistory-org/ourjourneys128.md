@@ -67,6 +67,12 @@ Posted in 04/2015
 - [[people/te-chiang-bacco-liu|劉德強]]
 - [[people/tyzen-hsiao|蕭泰然]]
 - [[people/yi-ming-chen|陳怡名]]
+- [[people/tyzen-hsiao.md|蕭泰然]] — mentioned in this record
+- [[people/julia-huang.md|黃馨儀]] — mentioned in this record
+- [[people/bianca-liang.md|梁沁茵]] — mentioned in this record
+- [[people/yi-ming-chen.md|陳怡名]] — mentioned in this record
+- [[people/karen-lin.md|林璇雯]] — mentioned in this record
+- [[people/te-chiang-bacco-liu.md|劉德強]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

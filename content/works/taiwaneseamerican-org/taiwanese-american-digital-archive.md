@@ -55,6 +55,7 @@ Interested in the project? Email LAAS Resident Archivist, Joanna Chen Cham, at j
 ## Subjects
 - Community
 - Featured
+- [[people/joanna-chen-cham.md|Joanna Chen Cham]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

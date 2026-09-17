@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-06-18 — published
 
 ## Subjects
+- [[people/shih-yin-chen.md|Shih-Yin Chen]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2018-08-30 — published
 
 ## Subjects
+- [[people/dr-edward-t-s-huang.md|Dr. Edward T. S. Huang]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

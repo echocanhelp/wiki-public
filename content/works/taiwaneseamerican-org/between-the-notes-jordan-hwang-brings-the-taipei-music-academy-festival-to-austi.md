@@ -97,6 +97,7 @@ The Austin Asian American Film Festival (AAAFF Online Shorts Festival) admittanc
 ## Subjects
 - Arts &amp; Culture
 - Interviews
+- [[people/cho-liang-lin.md|Cho-Liang Lin]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

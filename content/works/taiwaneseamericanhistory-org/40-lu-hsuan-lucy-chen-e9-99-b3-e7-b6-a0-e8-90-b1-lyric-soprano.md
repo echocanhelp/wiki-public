@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2014-10-11 — published
 
 ## Subjects
+- [[people/lu-hsuan-lucy-chen.md|Lu-Hsuan Lucy Chen]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

@@ -29,6 +29,7 @@ _Bibliographic record only. Full text stays in the vault (copyright)._
 - [[works/taiwaneseamerican-org/sacramento-event-featuring-coen-blaauw-an-advocate-for-taiwan-on-capitol-hill||Sacramento Event Featuring Coen Blaauw, an Advocate for Taiwan on Capitol Hill]]
 - [[organizations/taiwanese-american-historical-society||TAHS]]
 - [[articles/taiwanjustice-net/2023/20231208225407_root_12f4fa36695ac846||10]]
+- [[people/coen-blaauw.md|Coen Blaauw]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

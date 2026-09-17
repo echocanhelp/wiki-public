@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2015-03-06 — published
 
 ## Subjects
+- [[people/han-hsiao-lee.md|Han-Hsiao Lee]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

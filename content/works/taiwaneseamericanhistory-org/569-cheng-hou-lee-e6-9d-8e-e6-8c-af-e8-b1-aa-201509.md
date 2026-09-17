@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2015-09-05 — published
 
 ## Subjects
+- [[people/cheng-hou-lee.md|Cheng-Hou Lee]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

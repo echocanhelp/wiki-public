@@ -110,6 +110,7 @@ Justin Yang is a hip hop and rap music fan and a recent graduate from Columbia U
 - Featured
 - Interviews
 - Spotlight
+- [[organizations/taiwan-american-foundation.md|Taiwanese American Foundation]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

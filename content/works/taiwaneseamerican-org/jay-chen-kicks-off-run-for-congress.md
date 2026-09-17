@@ -28,6 +28,7 @@ _Bibliographic record only. Full text stays in the vault (copyright)._
 ## Subjects
 - [[works/taiwaneseamerican-org/jay-chen-kicks-off-run-for-congress||Jay Chen Kicks Off Run for Congress]]
 - [[organizations/taiwanese-american-historical-society||TAHS]]
+- [[people/jay-chen.md|Jay Chen]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

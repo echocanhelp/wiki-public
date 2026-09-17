@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-06-16 — published
 
 ## Subjects
+- [[organizations/hsinchu-high-school-alumni-association-of-north-america.md|Hsinchu High School Alumni Association of North America]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

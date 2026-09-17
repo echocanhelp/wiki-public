@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2019-11-18 — published
 
 ## Subjects
+- [[people/rev-r-h-chang.md|張瑞雄牧師]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

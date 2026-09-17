@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2014-10-12 — published
 
 ## Subjects
+- [[organizations/austin-taiwanese-association.md|Austin Taiwanese Association]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

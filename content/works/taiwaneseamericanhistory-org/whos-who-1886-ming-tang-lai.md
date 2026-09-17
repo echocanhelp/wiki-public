@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-09-07 — published
 
 ## Subjects
+- [[people/dr-ming-tang-lai.md|Dr. Ming Tang Lai]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

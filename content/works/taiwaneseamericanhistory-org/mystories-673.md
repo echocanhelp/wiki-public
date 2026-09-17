@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2019-01-28 — published
 
 ## Subjects
+- [[people/dr-chi-cheng-huang.md|黃至成醫師]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

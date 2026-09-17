@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2019-05-29 — published
 
 ## Subjects
+- [[people/jason-chang.md|Jason Chang]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

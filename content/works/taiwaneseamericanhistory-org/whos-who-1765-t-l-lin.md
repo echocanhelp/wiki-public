@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-07-19 — published
 
 ## Subjects
+- [[people/prof-t-l-lin.md|Prof. T. L. Lin]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

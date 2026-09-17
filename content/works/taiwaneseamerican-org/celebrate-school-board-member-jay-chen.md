@@ -29,6 +29,7 @@ _Bibliographic record only. Full text stays in the vault (copyright)._
 - [[works/taiwaneseamerican-org/celebrate-school-board-member-jay-chen||Celebrate School Board Member Jay Chen!]]
 - [[organizations/taiwanese-american-historical-society||TAHS]]
 - [[articles/taiwanjustice-net/2023/20231208225407_root_12f4fa36695ac846||10]]
+- [[people/jay-chen.md|Jay Chen]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

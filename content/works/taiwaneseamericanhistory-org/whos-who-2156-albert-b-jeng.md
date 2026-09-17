@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2018-10-02 — published
 
 ## Subjects
+- [[people/prof-albert-b-jeng.md|Prof. Albert B. Jeng]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

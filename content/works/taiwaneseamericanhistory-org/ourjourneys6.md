@@ -66,6 +66,7 @@ Registration fee @25.00 each person
 
 ## Subjects
 - [[people/shiuho-lin||林秀合]]
+- [[people/shiuho-lin.md|林秀合]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

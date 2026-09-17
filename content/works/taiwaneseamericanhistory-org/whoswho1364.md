@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-11-03 — published
 
 ## Subjects
+- [[people/diane-d-s-tang-liu.md|Diane D-S. Tang-Liu]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

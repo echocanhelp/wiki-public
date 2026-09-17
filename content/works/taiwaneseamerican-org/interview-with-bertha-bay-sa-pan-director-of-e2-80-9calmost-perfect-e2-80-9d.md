@@ -111,6 +111,7 @@ Timothy Tau is a writer, filmmaker and an attorney specializing in Intellectual 
 ## Subjects
 - Arts &amp; Culture
 - Interviews
+- [[people/tina-chen.md|Tina Chen]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

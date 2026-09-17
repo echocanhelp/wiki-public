@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2020-06-27 — published
 
 ## Subjects
+- [[people/peggy-huang.md|Peggy Huang]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2019-12-27 — published
 
 ## Subjects
+- [[people/james-j-y-hsu.md|James J. Y Hsu]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

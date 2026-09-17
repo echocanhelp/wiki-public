@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-09-13 — published
 
 ## Subjects
+- [[people/dr-hong-yen-hsu.md|Dr. Hong-Yen Hsu]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

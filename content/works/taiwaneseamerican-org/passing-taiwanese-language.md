@@ -98,6 +98,8 @@ Interested in Taiwanese language classes? Here are some resources for Taiwanese 
 
 ## Subjects
 - Perspectives
+- [[organizations/taiwanese-american-center-of-northern-california.md|Taiwanese American Center of Northern California]] — mentioned in this record
+- [[organizations/taiwanese-heritage-society-of-houston.md|Taiwanese Heritage Society of Houston]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

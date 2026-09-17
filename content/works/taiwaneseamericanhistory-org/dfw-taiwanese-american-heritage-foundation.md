@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2018-05-02 — published
 
 ## Subjects
+- [[organizations/dfw-taiwanese-american-heritage-foundation.md|DFW Taiwanese American Heritage Foundation]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

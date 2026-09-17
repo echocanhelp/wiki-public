@@ -41,6 +41,7 @@ Posted on 8/1/2025
 ## Subjects
 - [[organizations/new-york-taiwan-center|New York Taiwan Center]]
 - [[people/su-chun-huai|蘇春槐]]
+- [[organizations/new-york-taiwan-center.md|New York Taiwan Center]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

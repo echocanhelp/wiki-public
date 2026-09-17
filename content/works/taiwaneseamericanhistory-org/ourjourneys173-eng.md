@@ -61,6 +61,11 @@ Translated from 173. 台美人移民史的首座里程碑 / 曾輝光 /2015/09
 - [[people/an-su-gao-lai|賴高安賜]]
 - [[people/charles-ting|丁昭昇]]
 - [[people/symeon-woo|吳西面]]
+- [[people/charles-ting.md|Charles Ting]] — mentioned in this record
+- [[people/fei-kuang-tseng.md|Dr. Fei-Kuang Tseng]] — mentioned in this record
+- [[people/symeon-woo.md|Symeon Woo]] — mentioned in this record
+- [[organizations/taiwanese-american-seniors-association-of-southern-california.md|Taiwanese American Seniors Association of Southern California]] — mentioned in this record
+- [[people/an-su-gao-lai.md|賴高安賜]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

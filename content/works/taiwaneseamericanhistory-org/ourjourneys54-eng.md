@@ -66,6 +66,8 @@ Translated from 54. 海外台灣人第一所老人公寓一鶴園 / 王桂榮/20
 - [[people/an-su-gao-lai||An-Su Gao Lai]]
 - [[people/c-j-chen||C. J. Chen]]
 - [[people/charles-ting||Charles Ting]]
+- [[people/charles-ting.md|Charles Ting]] — mentioned in this record
+- [[people/c-j-chen.md|C. J. Chen]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

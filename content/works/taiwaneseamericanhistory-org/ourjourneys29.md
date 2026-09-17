@@ -131,6 +131,11 @@ Source from 南加州台灣會館
 - [[people/an-su-gao-lai||賴高安賜]]
 - [[people/quei-lih-chen||陳瑰麗]]
 - [[people/san-john-huang||黃三榮]]
+- [[people/thomas-ming-chien-wu.md|吳明杰]] — mentioned in this record
+- [[people/san-john-huang.md|黃三榮]] — mentioned in this record
+- [[people/jau-ching-lai.md|賴昭晴]] — mentioned in this record
+- [[people/quei-lih-chen.md|陳瑰麗]] — mentioned in this record
+- [[people/an-su-gao-lai.md|賴高安賜]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

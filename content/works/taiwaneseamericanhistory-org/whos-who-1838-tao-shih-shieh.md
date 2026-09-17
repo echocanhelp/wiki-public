@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-08-13 — published
 
 ## Subjects
+- [[people/prof-tao-shih-shieh.md|Prof. Tao-Shih Shieh]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

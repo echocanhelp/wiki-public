@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2015-12-02 — published
 
 ## Subjects
+- [[organizations/coalition-of-taiwan-independences.md|Coalition of Taiwan Independence’s]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-04-10 — published
 
 ## Subjects
+- [[people/mei-shing-wang.md|王美幸]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

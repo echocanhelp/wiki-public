@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-07-19 — published
 
 ## Subjects
+- [[people/prof-shenglin-chang.md|Prof. Shenglin Chang]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

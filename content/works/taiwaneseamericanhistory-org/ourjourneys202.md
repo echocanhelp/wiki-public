@@ -62,6 +62,7 @@ Posted in 03/2016
 
 ## Subjects
 - [[people/dr-ju-cheng-lee|李汝城醫師]]
+- [[people/dr-ju-cheng-lee.md|李汝城醫師]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

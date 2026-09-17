@@ -76,6 +76,9 @@ Posted in 01/2017
 - [[organizations/taiwanese-american-student-association|Taiwanese American Student Association]]
 - [[people/sibyl-chen|陳世樸]]
 - [[people/wang-shufen|Wang Shu-fen]]
+- [[people/wang-shufen.md|Wang Shu-fen]] — mentioned in this record
+- [[people/sibyl-chen.md|Sibyl Chen]] — mentioned in this record
+- [[organizations/taiwanese-american-student-association.md|Taiwanese American Student Association]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

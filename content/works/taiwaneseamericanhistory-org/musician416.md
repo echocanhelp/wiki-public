@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-07-12 — published
 
 ## Subjects
+- [[people/chia-yi-tseng.md|Prof. Chia-Yi Tseng]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

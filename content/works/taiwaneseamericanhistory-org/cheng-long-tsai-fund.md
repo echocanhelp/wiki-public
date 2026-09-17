@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2018-01-02 — published
 
 ## Subjects
+- [[people/cheng-long-tsai.md|蔡正隆博士]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

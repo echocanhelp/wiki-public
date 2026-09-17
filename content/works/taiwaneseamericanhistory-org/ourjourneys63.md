@@ -115,6 +115,14 @@ Cited from the original ([source](https://taiwaneseamericanhistory.org/ourjourne
 - [[people/dr-wu-hsiung-tsai||蔡武雄博士]]
 - [[people/sin-i-hsiao||蕭欣義]]
 - [[people/wen_chen-chen||陳文成教授]]
+- [[people/kang-lu-wang.md|王康陸博士]] — mentioned in this record
+- [[people/dr-wu-hsiung-tsai.md|蔡武雄博士]] — mentioned in this record
+- [[people/wen_chen-chen.md|陳文成教授]] — mentioned in this record
+- [[people/strong-chuang.md|莊秋雄]] — mentioned in this record
+- [[people/dr-cary-s-hung.md|洪哲勝博士]] — mentioned in this record
+- [[people/sin-i-hsiao.md|蕭欣義]] — mentioned in this record
+- [[people/dr-fu-chen-lo.md|羅福全博士]] — mentioned in this record
+- [[people/allen-chang.md|張伯寬]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

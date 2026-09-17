@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-01-24 — published
 
 ## Subjects
+- [[people/milo-thornberry.md|Milo Thornberry]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

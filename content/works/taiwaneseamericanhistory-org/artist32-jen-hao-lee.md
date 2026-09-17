@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2015-03-03 — published
 
 ## Subjects
+- [[people/jen-hao-lee.md|李仁豪牧師]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

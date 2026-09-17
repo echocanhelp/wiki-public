@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-10-27 — published
 
 ## Subjects
+- [[organizations/taiwanese-association-of-america.md|Taiwanese Association of America]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

@@ -73,6 +73,7 @@ In a moment where despair is readily available, her hard-won optimism is a balm 
 ## Subjects
 - Featured
 - Interviews
+- [[people/michelle-wu.md|Michelle Wu]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

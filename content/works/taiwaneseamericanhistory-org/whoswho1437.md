@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-12-18 — published
 
 ## Subjects
+- [[people/c-l-yin.md|殷清隆]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

@@ -47,6 +47,8 @@ Posted in 04/2016
 ## Subjects
 - [[people/chen-shuibian|Chen Shui-bian (陳水扁)]]
 - [[people/tsai-ing-wen|Tsai Ing-wen]]
+- [[people/chen-shuibian.md|Chen Shui-bian]] — mentioned in this record
+- [[people/tsai-ing-wen.md|Tsai Ing-wen]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

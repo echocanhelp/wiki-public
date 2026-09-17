@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2020-07-10 — published
 
 ## Subjects
+- [[people/david-chiu.md|David Chiu]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

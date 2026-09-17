@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2020-04-13 — published
 
 ## Subjects
+- [[people/alan-yang.md|Alan Yang]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

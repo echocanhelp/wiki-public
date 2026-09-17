@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2020-03-23 — published
 
 ## Subjects
+- [[people/dr-jeffrey-tsai.md|Dr. Jeffrey Tsai]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-02-06 — published
 
 ## Subjects
+- [[organizations/chicago-taiwanese-architecture-institute-ctai.md|Chicago Taiwanese Architecture Institute, CTAI]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

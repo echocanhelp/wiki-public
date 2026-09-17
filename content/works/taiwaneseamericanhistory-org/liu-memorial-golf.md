@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2018-03-05 — published
 
 ## Subjects
+- [[people/edward-liu.md|劉俊宏]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

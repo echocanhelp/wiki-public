@@ -32,6 +32,8 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-10-31 — published
 
 ## Subjects
+- [[people/strong-chuang.md|莊秋雄]] — mentioned in this record
+- [[people/ting-yee-wang.md|王廷宜]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

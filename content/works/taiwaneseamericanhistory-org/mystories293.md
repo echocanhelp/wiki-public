@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2015-06-26 — published
 
 ## Subjects
+- [[people/t-k-lin.md|林宗光]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

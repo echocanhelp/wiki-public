@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-05-21 — published
 
 ## Subjects
+- [[people/rev-tsu-kung-chuang.md|Rev. Tsu-Kung Chuang]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

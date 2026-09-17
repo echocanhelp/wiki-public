@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2019-09-13 — published
 
 ## Subjects
+- [[people/i-chen-wang.md|I-Chen Wang]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

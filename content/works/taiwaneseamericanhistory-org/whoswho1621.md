@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-04-23 — published
 
 ## Subjects
+- [[people/z-z-sun.md|孫足枝]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

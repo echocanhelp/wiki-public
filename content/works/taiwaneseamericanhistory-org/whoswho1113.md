@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-06-25 — published
 
 ## Subjects
+- [[people/nam-yeung.md|Nam Yeung]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

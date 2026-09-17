@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-02-06 — published
 
 ## Subjects
+- [[people/dr-gerrit-van-der-wees.md|Dr. Gerrit Van Der Wees]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

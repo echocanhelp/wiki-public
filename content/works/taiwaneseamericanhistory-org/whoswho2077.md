@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2018-03-25 — published
 
 ## Subjects
+- [[people/kenneth-j-kao.md|Kenneth J. Kao]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

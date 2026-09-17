@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-02-10 — published
 
 ## Subjects
+- [[people/dr-jung-t-tsai.md|蔡榮聰醫師]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

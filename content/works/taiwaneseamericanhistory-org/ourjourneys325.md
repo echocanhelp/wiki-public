@@ -51,6 +51,7 @@ Posted in 11/2017
 ## Subjects
 - [[organizations/tah-foundation|台美史料中心]]
 - [[people/jason-chang|張哲雄]]
+- [[people/jason-chang.md|張哲雄]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

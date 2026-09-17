@@ -32,6 +32,8 @@ _Bibliographic record only. Full text stays in the vault._
 - 2020-10-01 — published
 
 ## Subjects
+- [[people/dean-chang.md|Dean Chang]] — mentioned in this record
+- [[people/bob-cheng.md|Dr. Bob Cheng]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

@@ -109,6 +109,7 @@ Tiffany (she/her) (@readbytiffany) is a Taiwanese American bookstagrammer and bo
 ## Subjects
 - Arts &amp; Culture
 - Interviews
+- [[organizations/taiwan-american-foundation.md|Taiwanese American Foundation]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

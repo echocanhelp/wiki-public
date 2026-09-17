@@ -49,6 +49,7 @@ Cited from the original ([source](https://taiwaneseamericanhistory.org/our-journ
 
 ## Subjects
 - [[people/rev-martin-c-wang||王成章牧師]]
+- [[people/rev-martin-c-wang.md|王成章牧師]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

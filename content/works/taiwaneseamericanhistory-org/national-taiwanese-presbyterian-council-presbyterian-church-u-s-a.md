@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-05-12 — published
 
 ## Subjects
+- [[organizations/national-taiwanese-presbyterian-council.md|National Taiwanese Presbyterian Council]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

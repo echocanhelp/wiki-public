@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2015-10-31 — published
 
 ## Subjects
+- [[people/david-chan.md|David Chan]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

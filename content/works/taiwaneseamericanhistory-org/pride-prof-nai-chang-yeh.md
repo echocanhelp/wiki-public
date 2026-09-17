@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-02-07 — published
 
 ## Subjects
+- [[people/prof-nai-chang-yeh.md|葉乃裳教授]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

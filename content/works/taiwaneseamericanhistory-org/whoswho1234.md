@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-08-10 — published
 
 ## Subjects
+- [[people/ching-chong-huang.md|Ching-Chong Huang]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

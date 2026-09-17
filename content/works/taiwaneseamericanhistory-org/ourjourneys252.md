@@ -93,6 +93,10 @@ Posted in 09/2016
 - [[people/prof-w-s-william-wei]]
 - [[people/tah-p-8c33cb949b]]
 - [[people/tah-p-aed84f7112]]
+- [[people/tah-p-aed84f7112.md|黃開榮]] — mentioned in this record
+- [[people/tah-p-8c33cb949b.md|賴江椿]] — mentioned in this record
+- [[people/clyde-kiang.md|江運貴]] — mentioned in this record
+- [[people/edward-j-s-lin.md|林敬賢]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

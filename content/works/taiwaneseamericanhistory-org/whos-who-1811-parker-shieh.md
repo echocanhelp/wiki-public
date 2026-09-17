@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-08-06 — published
 
 ## Subjects
+- [[people/rev-parker-shieh.md|Rev. Parker Shieh]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2019-01-06 — published
 
 ## Subjects
+- [[people/kuo-chang-chen.md|陳國昌]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

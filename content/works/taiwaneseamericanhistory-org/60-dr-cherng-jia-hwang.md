@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2018-08-30 — published
 
 ## Subjects
+- [[people/cherng-jia-huang.md|黃呈嘉博士]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2015-12-09 — published
 
 ## Subjects
+- [[people/david-wu.md|David Wu]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

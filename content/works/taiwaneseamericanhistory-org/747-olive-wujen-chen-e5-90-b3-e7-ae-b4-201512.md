@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2015-12-27 — published
 
 ## Subjects
+- [[people/olive-wujen-chen.md|Olive WuJen Chen]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

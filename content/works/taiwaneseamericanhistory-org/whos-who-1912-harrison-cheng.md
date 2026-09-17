@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-10-08 — published
 
 ## Subjects
+- [[people/prof-harrison-cheng.md|Prof. Harrison Cheng]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

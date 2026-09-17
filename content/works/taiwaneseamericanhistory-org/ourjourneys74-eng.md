@@ -145,6 +145,18 @@ Translated from 74. 1983至1990的北美洲台灣人醫師協會 / 周烒明撰�
 - [[people/y-t-yan||Y. T. Yan]]
 - [[people/mei-fun-tsai||吳美芬]]
 - [[organizations/democratic-progressive-party||Democratic Progressive Party]]
+- [[people/dr-grace-wu.md|Dr. Grace Wu]] — mentioned in this record
+- [[people/dr-chun-c-tsai.md|Dr. Chun C Tsai]] — mentioned in this record
+- [[people/masao-s-yu.md|Masao S. Yu]] — mentioned in this record
+- [[people/dr-hong-chien-lin.md|Dr. Hong-Chien Lin]] — mentioned in this record
+- [[people/dr-tzu-shong-yang.md|Dr. Tzu-Shong Yang]] — mentioned in this record
+- [[people/dr-bernard-tsai.md|Dr. Bernard Tsai]] — mentioned in this record
+- [[people/philip-lin.md|Philip Lin]] — mentioned in this record
+- [[people/dr-ei-shun-lin.md|Dr. Ei-Shun Lin]] — mentioned in this record
+- [[people/edward-chen.md|Edward Chen]] — mentioned in this record
+- [[people/dr-wen-y-chen.md|Dr. Wen Y. Chen]] — mentioned in this record
+- [[people/dr-kun-t-liao.md|Dr. Kun T. Liao]] — mentioned in this record
+- [[people/mei-fun-tsai.md|Mei Fun Tsai]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

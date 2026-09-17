@@ -52,6 +52,7 @@ Posted in 07/2017
 
 ## Subjects
 - [[people/ho-chie-tsai]]
+- [[people/ho-chie-tsai.md|Ho Chie Tsai]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

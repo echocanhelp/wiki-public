@@ -88,6 +88,9 @@ Posted in 10/2016
 
 ## Subjects
 - [[people/william-cho]]
+- [[people/dr-scott-changchien.md|張簡吉誠醫師]] — mentioned in this record
+- [[people/william-cho.md|卓甫良]] — mentioned in this record
+- [[people/carol-cho.md|林秋菊]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

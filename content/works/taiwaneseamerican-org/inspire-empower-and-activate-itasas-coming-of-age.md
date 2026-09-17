@@ -77,6 +77,8 @@ http://berkeley.itasa.org/
 ## Subjects
 - Community
 - National
+- [[people/hanna-huang.md|Hanna Huang]] — mentioned in this record
+- [[organizations/taiwanese-american-students-association.md|Taiwanese American Students Association]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

@@ -66,6 +66,17 @@ Translated from 75. 台灣人權協會的開始與現況 / 張丁蘭 / 2014/12
 - [[people/tina-chang||張丁蘭]]
 - [[organizations/formosan-association-for-human-rights||Formosan Association For Human Rights]]
 - [[organizations/taiwan-human-rights-and-culture-association||Taiwan Human Rights Culture Association]]
+- [[people/prof-ken-s-huang.md|Prof. Ken S. Huang]] — mentioned in this record
+- [[people/chun-yung-lin.md|Chun-Yung Lin]] — mentioned in this record
+- [[people/h-l-hung.md|H. L. Hung]] — mentioned in this record
+- [[people/tony-lee.md|Tony Lee]] — mentioned in this record
+- [[people/henry-lee.md|Henry Lee]] — mentioned in this record
+- [[people/b-michael-yeun.md|B. Michael Yeun]] — mentioned in this record
+- [[people/ting-yee-wang.md|Ting Yee Wang]] — mentioned in this record
+- [[people/tina-chang.md|Tina Chang]] — mentioned in this record
+- [[people/edward-j-s-lin.md|Edward J. S. Lin]] — mentioned in this record
+- [[organizations/formosan-association-for-human-rights.md|Formosan Association for Human Rights]] — mentioned in this record
+- [[organizations/taiwan-human-rights-and-culture-association.md|Taiwan Human Rights & Culture Association]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

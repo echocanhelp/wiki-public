@@ -140,6 +140,7 @@ If you’re in the DC area, their CD release show is on Friday, October 20th at
 
 ## Subjects
 - Interviews
+- [[people/dr-yeongchi-wu.md|Dr. Yeongchi Wu]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

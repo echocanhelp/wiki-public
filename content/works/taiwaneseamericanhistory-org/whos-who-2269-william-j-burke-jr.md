@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2020-05-05 — published
 
 ## Subjects
+- [[people/rev-william-j-burke-jr.md|Rev. William J. Burke Jr.]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

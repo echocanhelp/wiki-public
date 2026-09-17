@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2018-02-19 — published
 
 ## Subjects
+- [[people/daphne-tsao.md|Daphne Tsao]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

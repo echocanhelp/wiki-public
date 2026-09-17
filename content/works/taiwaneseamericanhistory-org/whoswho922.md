@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-04-03 — published
 
 ## Subjects
+- [[people/shang-feng-wu.md|Shang-Feng Wu]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

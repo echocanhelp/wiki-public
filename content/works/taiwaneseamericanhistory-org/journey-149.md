@@ -44,6 +44,7 @@ Cited from the original ([source](https://taiwaneseamericanhistory.org/journey-1
 
 ## Subjects
 - [[people/tsai-ing-wen|Tsai Ing-wen]]
+- [[people/tsai-ing-wen.md|Tsai Ing-wen]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

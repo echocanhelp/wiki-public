@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-05-28 — published
 
 ## Subjects
+- [[people/bei-hung-kuo.md|Bei Hung Kuo]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

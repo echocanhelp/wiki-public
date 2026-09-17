@@ -97,6 +97,7 @@ Author with filmmaker Yu Gu
 - Featured
 - Midwest
 - Perspectives
+- [[people/jeremy-lin.md|Jeremy Lin]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

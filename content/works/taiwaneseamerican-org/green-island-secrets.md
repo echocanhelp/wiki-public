@@ -125,6 +125,7 @@ Dr. Chung-Chih Li is from Taipei, Taiwan, and received his degree in Computer Sc
 - Featured
 - Perspectives
 - Social/Politics
+- [[people/leona-chen.md|Leona Chen]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

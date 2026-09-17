@@ -124,6 +124,8 @@ Typical Attendance: 230-260 (Grade 2 and above, to college / young profesionals)
 ## Subjects
 - Community
 - Featured
+- [[organizations/taiwanese-american-citizens-league.md|Taiwanese American Citizens League]] — mentioned in this record
+- [[organizations/taiwan-american-foundation.md|Taiwanese American Foundation]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

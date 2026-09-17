@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2018-05-19 — published
 
 ## Subjects
+- [[people/prof-liao-tsung-lin.md|Prof. Liao-Tsung Lin]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

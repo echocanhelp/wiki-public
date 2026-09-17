@@ -48,6 +48,8 @@ Posted in 06/2017
 
 ## Subjects
 - [[organizations/houston-taiwan-institute-for-senior-citizens]]
+- [[organizations/houston-taiwan-institute-for-senior-citizens.md|Houston Taiwan Institute for Senior Citizens]] — mentioned in this record
+- [[people/shih-ting-huang.md|黃詩婷]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

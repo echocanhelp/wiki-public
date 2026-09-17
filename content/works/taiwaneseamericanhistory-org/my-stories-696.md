@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2019-09-16 — published
 
 ## Subjects
+- [[people/tsung-ming-hsieh.md|謝聰敏]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

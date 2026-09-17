@@ -571,6 +571,18 @@ Sourced from Chi-Ming Tseng
 - [[people/tyzen-hsiao|蕭泰然]]
 - [[people/wei-shou-hu|胡維碩]]
 - [[people/wen-yen-chen|陳文彥教授]]
+- [[people/charles-chiang.md|Charles Chiang]] — mentioned in this record
+- [[people/wen-yen-chen.md|Wen Yen Chen]] — mentioned in this record
+- [[people/tyzen-hsiao.md|Tyzen Hsiao]] — mentioned in this record
+- [[people/prof-ming-min-peng.md|Prof. Ming Min Peng]] — mentioned in this record
+- [[people/bei-hung-kuo.md|Bei Hung Kuo]] — mentioned in this record
+- [[people/sung-peng-hsu.md|Sung-Peng Hsu]] — mentioned in this record
+- [[people/fang-ming-chen.md|Fang-Ming Chen]] — mentioned in this record
+- [[people/michael-fonte.md|Michael Fonte]] — mentioned in this record
+- [[people/liang-shing-fan.md|Liang-Shing Fan]] — mentioned in this record
+- [[people/adrian-lin.md|Adrian Lin]] — mentioned in this record
+- [[people/john-chen.md|John Chen]] — mentioned in this record
+- [[people/chin-hsin-jason-liu.md|Chin-Hsin Jason Liu]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

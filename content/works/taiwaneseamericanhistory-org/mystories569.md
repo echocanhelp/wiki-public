@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-08-28 — published
 
 ## Subjects
+- [[people/patrick-huang.md|黃再添]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

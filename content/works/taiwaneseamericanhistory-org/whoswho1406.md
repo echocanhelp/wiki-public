@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-11-20 — published
 
 ## Subjects
+- [[people/chung-chi-chou.md|Chung Chi Chou]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

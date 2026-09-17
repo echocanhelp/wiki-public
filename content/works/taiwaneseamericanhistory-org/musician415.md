@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-07-12 — published
 
 ## Subjects
+- [[people/grace-mei-en-ho.md|何美恩]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

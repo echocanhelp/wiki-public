@@ -60,6 +60,12 @@ Cited from the original ([source](https://taiwaneseamericanhistory.org/ourjourne
 - [[people/chun-chiu||邱俊邦]]
 - [[people/l-j-chen||陳柳江]]
 - [[people/may-sing-chang||黃美星]]
+- [[people/may-sing-chang.md|May-Sing Chang]] — mentioned in this record
+- [[people/jason-wu.md|Jason Wu]] — mentioned in this record
+- [[people/ye-ming-wu.md|吳怡明]] — mentioned in this record
+- [[people/l-j-chen.md|陳柳江]] — mentioned in this record
+- [[people/chun-chiu.md|邱俊邦]] — mentioned in this record
+- [[people/david-weng.md|翁嘉盛]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

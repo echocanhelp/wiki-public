@@ -32,6 +32,8 @@ _Bibliographic record only. Full text stays in the vault._
 - 2015-02-23 — published
 
 ## Subjects
+- [[people/nami-yang.md|李淑櫻]] — mentioned in this record
+- [[people/jen-hao-lee.md|李仁豪牧師]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2014-10-12 — published
 
 ## Subjects
+- [[organizations/silicon-valley-taiwanese-american-association.md|Silicon Valley Taiwanese American Association]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

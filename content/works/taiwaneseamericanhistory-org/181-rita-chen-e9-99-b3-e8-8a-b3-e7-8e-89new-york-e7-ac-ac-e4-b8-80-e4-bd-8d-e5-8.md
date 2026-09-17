@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-02-10 — published
 
 ## Subjects
+- [[people/fang-yuh-rita-chen.md|陳芳玉]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

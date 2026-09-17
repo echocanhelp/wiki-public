@@ -69,6 +69,18 @@ Translated from 60. 咱的故事—NATWA的歷史 / 吳秀惠、黃美惠合寫/
 - [[people/elena-ling||黃美惠]]
 - [[organizations/north-america-taiwanese-womens-association||North America Taiwanese Women S Association]]
 - [[organizations/taiwanese-association-of-america||Taiwanese Association Of America]]
+- [[people/dr-grace-wu.md|Dr. Grace Wu]] — mentioned in this record
+- [[people/mei-li-yang.md|Mei-Li Yang]] — mentioned in this record
+- [[people/vivian-y-g-fu.md|Vivian Y.G. Fu]] — mentioned in this record
+- [[people/stella-chen.md|Stella Chen]] — mentioned in this record
+- [[people/dr-cecelia-tsai.md|Dr. Cecelia Tsai]] — mentioned in this record
+- [[people/mei-fun-tsai.md|Mei Fun Tsai]] — mentioned in this record
+- [[people/jean-j-fang.md|Jean J. Fang]] — mentioned in this record
+- [[people/helen-wang.md|Helen Wang]] — mentioned in this record
+- [[people/maysing-huang.md|Maysing Huang]] — mentioned in this record
+- [[people/fu-mei-chang.md|Dr. Fu-Mei Chang]] — mentioned in this record
+- [[people/susan-y-j-chang.md|Susan Y. J. Chang]] — mentioned in this record
+- [[organizations/north-america-taiwanese-womens-association.md|North America Taiwanese Women’s Association]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

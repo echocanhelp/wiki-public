@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-01-05 — published
 
 ## Subjects
+- [[people/dean-chang.md|Dean Chang]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

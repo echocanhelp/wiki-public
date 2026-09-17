@@ -99,6 +99,10 @@ Special thanks to our sports enthusiast friends Eric Chen, Alex Yang, Eric Chang
 ## Subjects
 - Arts &amp; Culture
 - Interviews
+- [[people/karen-lin.md|Karen Lin]] — mentioned in this record
+- [[people/john-lin.md|John Lin]] — mentioned in this record
+- [[people/jeremy-lin.md|Jeremy Lin]] — mentioned in this record
+- [[people/dr-alex-yang.md|Dr. Alex Yang]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

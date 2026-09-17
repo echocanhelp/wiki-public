@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-12-11 — published
 
 ## Subjects
+- [[people/rev-martin-c-wang.md|Rev. Martin C. Wang]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

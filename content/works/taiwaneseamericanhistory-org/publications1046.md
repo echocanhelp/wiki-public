@@ -32,6 +32,10 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-11-29 — published
 
 ## Subjects
+- [[people/kenneth-liu.md|劉光道]] — mentioned in this record
+- [[people/john-liu.md|劉宗憲]] — mentioned in this record
+- [[people/huey-li-liu.md|劉惠麗]] — mentioned in this record
+- [[people/george-chiang.md|江正吉]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

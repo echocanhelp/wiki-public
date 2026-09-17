@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2021-04-13 — published
 
 ## Subjects
+- [[people/leland-lee.md|李柏毅]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

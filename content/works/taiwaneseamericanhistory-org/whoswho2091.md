@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2018-04-17 — published
 
 ## Subjects
+- [[people/chao-w-chen.md|Chao W Chen]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

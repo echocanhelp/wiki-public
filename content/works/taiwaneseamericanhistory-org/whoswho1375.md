@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-11-05 — published
 
 ## Subjects
+- [[people/theodore-ted-wing.md|溫庭宇]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

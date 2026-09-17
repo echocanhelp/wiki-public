@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2020-02-14 — published
 
 ## Subjects
+- [[people/debra-liu.md|Debra Liu]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

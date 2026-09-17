@@ -64,6 +64,7 @@ Well, we think she’s doing just that.
 
 ## Subjects
 - Community
+- [[people/ho-chie-tsai.md|Ho Chie Tsai]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

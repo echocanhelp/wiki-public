@@ -32,6 +32,8 @@ _Bibliographic record only. Full text stays in the vault._
 - 2018-08-17 — published
 
 ## Subjects
+- [[people/wen_chen-chen.md|陳文成教授]] — mentioned in this record
+- [[people/hsiu-fang-susan-liu.md|陳秀芳]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

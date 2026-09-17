@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2015-07-15 — published
 
 ## Subjects
+- [[people/hui-hsiung-kuo.md|Hui-Hsiung Kuo]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

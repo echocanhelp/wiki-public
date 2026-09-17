@@ -106,6 +106,7 @@ Karen Shih is a University of Maryland journalism graduate and in her day job, s
 - Featured
 - Interviews
 - Spotlight
+- [[people/vania-king.md|Vania King]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

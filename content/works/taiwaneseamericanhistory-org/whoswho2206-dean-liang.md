@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2019-06-27 — published
 
 ## Subjects
+- [[people/dean-liang.md|Dean Liang]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-06-05 — published
 
 ## Subjects
+- [[people/christina-yung-chin-mollard.md|謝永芹]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

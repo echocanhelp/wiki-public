@@ -157,6 +157,18 @@ Most of these entrepreneurs found success within the high technology industry, i
 - [[people/chun-chiu||邱俊邦]]
 - [[people/tah-p-8b5bcc4bca||黃世惠]]
 - [[people/y-s-huang||黃炎松]]
+- [[people/dr-tu-chen.md|Dr. Tu Chen]] — mentioned in this record
+- [[people/david-lee.md|David Lee]] — mentioned in this record
+- [[people/cpaul-huang.md|Paul Huang]] — mentioned in this record
+- [[people/chen-ho-wu.md|Dr. Chen-Ho Wu]] — mentioned in this record
+- [[people/dr-wen-y-chen.md|Dr. Wen Y. Chen]] — mentioned in this record
+- [[people/frank-lin.md|Frank Lin]] — mentioned in this record
+- [[people/stephen-lin.md|Stephen Lin]] — mentioned in this record
+- [[people/sandy-yen.md|莊和子]] — mentioned in this record
+- [[people/j-h-liang.md|梁見後]] — mentioned in this record
+- [[people/w-c-lin.md|林文釗]] — mentioned in this record
+- [[people/y-s-huang.md|黃炎松]] — mentioned in this record
+- [[people/tah-p-8b5bcc4bca.md|黃世惠]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

@@ -66,6 +66,9 @@ Cited from the original ([source](https://taiwaneseamericanhistory.org/ourjourne
 - [[people/tsung-ming-hsieh||謝聰敏]]
 - [[people/frank-lai||賴文雄]]
 - [[people/ron-chen||陳榮成]]
+- [[people/frank-lai.md|賴文雄]] — mentioned in this record
+- [[people/ron-chen.md|陳榮成]] — mentioned in this record
+- [[people/tsung-ming-hsieh.md|謝聰敏]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

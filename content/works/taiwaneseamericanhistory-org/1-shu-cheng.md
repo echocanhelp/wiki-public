@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2018-07-30 — published
 
 ## Subjects
+- [[people/shu-ching-cheng.md|賴淑卿]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

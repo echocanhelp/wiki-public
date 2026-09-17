@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2018-06-12 — published
 
 ## Subjects
+- [[people/pin-shan-peter-chen.md|陳品山教授]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-03-06 — published
 
 ## Subjects
+- [[people/angellee-shaw-chen.md|Angellee Shaw Chen]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

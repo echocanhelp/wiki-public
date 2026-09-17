@@ -63,6 +63,7 @@ If you enjoyed this film, please go to and be sure to VOTE for Catching the Invi
 ## Subjects
 - Arts &amp; Culture
 - Interviews
+- [[people/yang-yang.md|Yang Yang]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

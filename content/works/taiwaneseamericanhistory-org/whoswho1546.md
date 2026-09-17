@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-03-14 — published
 
 ## Subjects
+- [[people/ian-lin.md|林毅安]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

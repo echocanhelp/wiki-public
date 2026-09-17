@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2015-06-14 — published
 
 ## Subjects
+- [[people/chih-long-hu.md|Chih-Long Hu]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-05-20 — published
 
 ## Subjects
+- [[people/ming-franz.md|Ming Franz]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

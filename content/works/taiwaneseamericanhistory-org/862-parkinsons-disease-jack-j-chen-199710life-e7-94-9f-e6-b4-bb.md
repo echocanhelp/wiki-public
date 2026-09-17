@@ -32,6 +32,8 @@ _Bibliographic record only. Full text stays in the vault._
 - 2015-09-23 — published
 
 ## Subjects
+- [[people/jack-j-chen.md|Jack J. Chen]] — mentioned in this record
+- [[people/dr-jack-j-chen.md|Dr. Jack J. Chen]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

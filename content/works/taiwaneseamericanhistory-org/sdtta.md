@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-05-31 — published
 
 ## Subjects
+- [[organizations/san-diego-taiwanese-tennis-association.md|San Diego Taiwanese Tennis Association]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

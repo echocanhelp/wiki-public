@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2015-07-11 — published
 
 ## Subjects
+- [[people/winnie-lan-in-yang.md|Winnie Lan-In Yang]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

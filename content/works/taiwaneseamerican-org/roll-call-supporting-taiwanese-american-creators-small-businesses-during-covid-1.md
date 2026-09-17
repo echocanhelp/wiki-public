@@ -219,6 +219,8 @@ Warning.
 - Featured
 - Projects
 - Spotlight
+- [[people/dr-stephen-chen.md|Dr. Stephen Chen]] — mentioned in this record
+- [[people/peter-lin.md|Peter Lin]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

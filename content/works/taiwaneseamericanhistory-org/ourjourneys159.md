@@ -87,6 +87,8 @@ TINY TOT Program是今年夏令會首創節目。平時在餐廳看到的幼童�
 ## Subjects
 - [[people/chao-nan-liu|劉照男]]
 - [[people/tsu-yi-jay-loo|盧主義]]
+- [[people/chao-nan-liu.md|劉照男]] — mentioned in this record
+- [[people/tsu-yi-jay-loo.md|盧主義]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

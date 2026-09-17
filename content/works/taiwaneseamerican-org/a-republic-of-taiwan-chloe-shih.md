@@ -82,6 +82,10 @@ Chloe Shih is a freshman student at Glendora High School and shares her home in 
 
 ## Subjects
 - Perspectives
+- [[people/lai-ching-te.md|Lai Ching-te]] — mentioned in this record
+- [[people/tsai-ing-wen.md|Tsai Ing-wen]] — mentioned in this record
+- [[people/charles-yu.md|Charles Yu]] — mentioned in this record
+- [[organizations/democratic-progressive-party.md|Democratic Progressive Party]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

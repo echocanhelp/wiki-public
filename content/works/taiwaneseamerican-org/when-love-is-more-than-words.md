@@ -140,6 +140,8 @@ Jasmine Fang is a Taiwanese American writer, civil servant, and mom of two. She 
 ## Subjects
 - Arts &amp; Culture
 - Interviews
+- [[people/jenny-wang.md|Jenny Wang]] — mentioned in this record
+- [[people/alvina-ling.md|Alvina Ling]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

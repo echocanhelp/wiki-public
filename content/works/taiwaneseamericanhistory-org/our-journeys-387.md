@@ -98,6 +98,8 @@ Posted on 06/28/2023
 
 ## Subjects
 - [[people/jensen-huang|Jensen Huang]]
+- [[people/michael-c-lu.md|Michael C. Lu]] — mentioned in this record
+- [[people/jensen-huang.md|Jensen Huang]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

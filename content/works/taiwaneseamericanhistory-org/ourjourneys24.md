@@ -55,6 +55,14 @@ The front view of the first Center with the board members and office volunteers.
 - [[people/david-weng||翁嘉盛]]
 - [[people/chun-chiu||邱俊邦]]
 - [[people/may-sing-chang||黃美星]]
+- [[people/may-sing-chang.md|黃美星]] — mentioned in this record
+- [[people/dr-long-song-simon-lin.md|林榮松醫師]] — mentioned in this record
+- [[people/ye-ming-wu.md|吳怡明]] — mentioned in this record
+- [[people/dr-henry-y-wu.md|吳銀鏤醫師]] — mentioned in this record
+- [[people/dr-shinn-sheng-chang.md|張信行醫師]] — mentioned in this record
+- [[people/chun-chiu.md|邱俊邦]] — mentioned in this record
+- [[people/david-weng.md|翁嘉盛]] — mentioned in this record
+- [[people/shun-hua-yu.md|余舜華]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

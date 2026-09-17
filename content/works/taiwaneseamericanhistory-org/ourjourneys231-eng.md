@@ -117,6 +117,18 @@ Posted on 12/2020
 - [[people/rev-r-h-chang|張瑞雄牧師]]
 - [[people/ye-siya|Yeh Ssu-ya]]
 - [[people/ye-siya-zhang-xinhui|Ye Siya & Zhang Xinhui (葉思雅、張信惠)]]
+- [[people/nami-yang.md|Nami Yang]] — mentioned in this record
+- [[people/ye-siya-zhang-xinhui.md|Ye Siya & Zhang Xinhui]] — mentioned in this record
+- [[people/daniel-kao.md|Dr. Daniel Kao]] — mentioned in this record
+- [[people/jonah-chang.md|Rev. Jonah Chang]] — mentioned in this record
+- [[people/albert-s-lai.md|Dr. Albert S. Lai]] — mentioned in this record
+- [[organizations/presbyterian-church-in-taiwan.md|Presbyterian Church in Taiwan]] — mentioned in this record
+- [[organizations/formosan-presbyterian-church-in-los-angeles.md|Formosan Presbyterian Church in Los Angeles]] — mentioned in this record
+- [[people/rev-edward-bin-tanng.md|陳黃義敏牧師]] — mentioned in this record
+- [[people/rev-j-m-hsu.md|許錦銘]] — mentioned in this record
+- [[people/rev-r-h-chang.md|張瑞雄牧師]] — mentioned in this record
+- [[people/grace-h-yeh.md|張信惠]] — mentioned in this record
+- [[people/david-huang.md|黃德利]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

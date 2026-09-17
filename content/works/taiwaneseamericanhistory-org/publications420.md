@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2014-11-27 — published
 
 ## Subjects
+- [[people/alexander-k-young.md|Alexander K. Young]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

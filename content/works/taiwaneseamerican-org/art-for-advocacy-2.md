@@ -73,6 +73,7 @@ photo credit: Dana Ter
 - Featured
 - Social/Politics
 - Spotlight
+- [[people/ma-yingjeou.md|Ma Ying-jeou]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

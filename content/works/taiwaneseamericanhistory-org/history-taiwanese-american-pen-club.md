@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-06-12 — published
 
 ## Subjects
+- [[organizations/taiwanese-american-pen-club.md|Taiwanese American Pen Club]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

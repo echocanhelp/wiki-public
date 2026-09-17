@@ -92,6 +92,7 @@ Follow their journey on Instagram @taiwanfoodandfarmtour and consider contributi
 - Community
 - Featured
 - Food &amp; Travel
+- [[people/leona-chen.md|Leona Chen]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

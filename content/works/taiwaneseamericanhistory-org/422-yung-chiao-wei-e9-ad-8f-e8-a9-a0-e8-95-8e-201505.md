@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2015-05-24 — published
 
 ## Subjects
+- [[people/yung-chiao-wei.md|Yung-Chiao Wei]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

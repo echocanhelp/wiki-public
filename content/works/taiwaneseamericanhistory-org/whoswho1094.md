@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-06-18 — published
 
 ## Subjects
+- [[people/rose-chen.md|陳慧如]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

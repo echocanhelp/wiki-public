@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2015-02-09 — published
 
 ## Subjects
+- [[people/dr-jason-wang.md|Dr. Jason Wang]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

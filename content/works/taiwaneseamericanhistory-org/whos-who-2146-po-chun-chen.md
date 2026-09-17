@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2018-07-10 — published
 
 ## Subjects
+- [[people/dr-po-chun-chen.md|Dr. Po-Chun Chen]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

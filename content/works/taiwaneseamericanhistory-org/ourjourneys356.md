@@ -149,6 +149,12 @@ FAPA分會，推動民間外交活動，跟當地的美國國會議員及政要�
 - [[organizations/taiwanese-sporting-association-new-jersey|紐澤西台灣人運動協會]]
 - [[organizations/taiwanese-students-association|Taiwanese Students Association]]
 - [[people/maurice-hsu|許盛男醫師]]
+- [[organizations/taiwanese-american-council.md|Taiwanese American Council]] — mentioned in this record
+- [[organizations/taiwanese-sporting-association-new-jersey.md|Taiwanese Sporting Association, New Jersey]] — mentioned in this record
+- [[organizations/taiwanese-american-association-of-pharmaceutics.md|Taiwanese American Association of Pharmaceutics]] — mentioned in this record
+- [[organizations/taiwanese-students-association.md|Taiwanese Students Association]] — mentioned in this record
+- [[organizations/taiwanese-american-student-association.md|Taiwanese American Student Association]] — mentioned in this record
+- [[people/maurice-hsu.md|許盛男醫師]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

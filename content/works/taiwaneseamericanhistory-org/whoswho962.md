@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-05-01 — published
 
 ## Subjects
+- [[people/michael-fonte.md|Michael Fonte]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

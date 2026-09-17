@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2015-01-25 — published
 
 ## Subjects
+- [[people/melody-kuo.md|Melody Kuo]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

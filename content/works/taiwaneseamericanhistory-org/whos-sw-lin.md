@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2015-09-07 — published
 
 ## Subjects
+- [[people/tah-p-47a0a66e24.md|林尚武]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

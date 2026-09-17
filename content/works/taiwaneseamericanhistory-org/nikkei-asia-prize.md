@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-07-18 — published
 
 ## Subjects
+- [[people/prof-ming-chiao-michael-lai.md|賴明詔教授]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

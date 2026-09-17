@@ -122,6 +122,13 @@ Posted in 05/2017
 - [[people/lekki-chua]]
 - [[people/ming-liang-lee]]
 - [[people/prof-gwo-jaw-wang]]
+- [[people/dr-chi-cheng-huang.md|Dr. Chi-Cheng Huang]] — mentioned in this record
+- [[people/ming-liang-lee.md|李明亮]] — mentioned in this record
+- [[people/dr-jia-rhon-chen.md|陳家榮醫師]] — mentioned in this record
+- [[people/tah-p-8b5bcc4bca.md|黃世惠]] — mentioned in this record
+- [[people/lekki-chua.md|蔡烈輝]] — mentioned in this record
+- [[people/ching-yung-lee.md|李慶榮]] — mentioned in this record
+- [[people/james-laidlaw-maxwell.md|馬雅各]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

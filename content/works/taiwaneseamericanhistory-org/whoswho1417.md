@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-12-07 — published
 
 ## Subjects
+- [[people/c-r-huang.md|C. R. Huang]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

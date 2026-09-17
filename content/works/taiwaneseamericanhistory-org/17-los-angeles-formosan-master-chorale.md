@@ -76,6 +76,7 @@ YouTube   —   http://www.youtube.com/user/ntuche/
 - [[people/li-ying-shang||Li-Ying Shang]]
 - [[people/li-ying-shang||商麗鶯]]
 - [[organizations/irvine-taiwanese-presbyterian-church||Irvine Taiwanese Presbyterian Church]]
+- [[people/li-ying-shang.md|Li-Ying Shang]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

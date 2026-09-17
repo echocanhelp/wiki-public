@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-11-16 — published
 
 ## Subjects
+- [[people/prof-andre-lee.md|Prof. Andre Lee]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

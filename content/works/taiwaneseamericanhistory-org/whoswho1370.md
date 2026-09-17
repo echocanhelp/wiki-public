@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-11-05 — published
 
 ## Subjects
+- [[people/ian-y-lian.md|Ian Y. Lian]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

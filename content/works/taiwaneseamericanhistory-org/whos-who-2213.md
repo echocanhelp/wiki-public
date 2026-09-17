@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2019-09-04 — published
 
 ## Subjects
+- [[people/john-y-chieu.md|John Y. Chieu]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

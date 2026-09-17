@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-05-20 — published
 
 ## Subjects
+- [[people/henry-c-liao.md|Henry C Liao]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

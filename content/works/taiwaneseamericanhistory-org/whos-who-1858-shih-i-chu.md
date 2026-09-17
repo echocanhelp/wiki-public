@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-08-21 — published
 
 ## Subjects
+- [[people/prof-shih-i-chu.md|Prof. Shih-I Chu]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

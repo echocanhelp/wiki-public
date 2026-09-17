@@ -235,6 +235,10 @@ Posted on 12/13/2023
 - [[people/bang-h-hwang|黃邦雄]]
 - [[people/john-pang-yu|余金榜]]
 - [[people/marisa-lin|陳麗雲]]
+- [[organizations/taiwanese-association-of-indiana.md|Taiwanese Association of Indiana]] — mentioned in this record
+- [[people/bang-h-hwang.md|黃邦雄]] — mentioned in this record
+- [[people/marisa-lin.md|陳麗雲]] — mentioned in this record
+- [[people/john-pang-yu.md|余金榜]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

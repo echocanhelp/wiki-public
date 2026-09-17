@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-02-06 — published
 
 ## Subjects
+- [[people/tah-p-2cc9076139.md|陳美津]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

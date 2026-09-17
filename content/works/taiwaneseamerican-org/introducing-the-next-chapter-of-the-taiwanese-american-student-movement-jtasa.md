@@ -49,6 +49,8 @@ E-mail juniortasa@gmail.com with any questions or concerns and be sure to check 
 ## Subjects
 - Community
 - National
+- [[people/jason-tsai.md|Jason Tsai]] — mentioned in this record
+- [[organizations/taiwanese-american-student-association.md|Taiwanese American Student Association]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-11-03 — published
 
 ## Subjects
+- [[people/dr-john-tsuang.md|Dr. John Tsuang]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

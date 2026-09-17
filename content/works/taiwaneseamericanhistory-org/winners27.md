@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-11-08 — published
 
 ## Subjects
+- [[people/cho-liang-lin.md|林昭亮]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

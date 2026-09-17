@@ -83,6 +83,8 @@ Cited from the original ([source](https://taiwaneseamericanhistory.org/ourjourne
 ## Subjects
 - [[people/shih-chen-hsu||許世真]]
 - [[people/fang-yuh-rita-chen||陳芳玉]]
+- [[people/shih-chen-hsu.md|許世真]] — mentioned in this record
+- [[people/fang-yuh-rita-chen.md|陳芳玉]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

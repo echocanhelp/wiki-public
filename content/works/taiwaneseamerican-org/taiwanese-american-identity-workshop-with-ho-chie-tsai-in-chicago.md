@@ -28,6 +28,7 @@ _Bibliographic record only. Full text stays in the vault (copyright)._
 ## Subjects
 - [[works/taiwaneseamerican-org/taiwanese-american-identity-workshop-with-ho-chie-tsai-in-chicago||Taiwanese American Identity Workshop with Ho Chie Tsai in Chicago]]
 - [[organizations/taiwanese-american-historical-society||TAHS]]
+- [[people/ho-chie-tsai.md|Ho Chie Tsai]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

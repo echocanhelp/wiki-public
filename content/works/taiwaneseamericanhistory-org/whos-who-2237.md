@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2020-01-20 — published
 
 ## Subjects
+- [[people/edward-liu.md|Edward Liu]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

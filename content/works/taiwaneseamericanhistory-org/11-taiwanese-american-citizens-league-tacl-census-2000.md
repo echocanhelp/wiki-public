@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2015-07-30 — published
 
 ## Subjects
+- [[organizations/taiwanese-american-citizens-league.md|Taiwanese American Citizens League]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

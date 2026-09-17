@@ -172,6 +172,11 @@ Cited from the original ([source](https://taiwaneseamericanhistory.org/ourjourne
 - [[people/lung-chen||陳隆]]
 - [[people/joyce-weng||黃娟]]
 - [[people/wenhsiung-luke-huang||黃文雄]]
+- [[people/tyzen-hsiao.md|蕭泰然]] — mentioned in this record
+- [[people/raymond-wu.md|吳瑞信]] — mentioned in this record
+- [[people/li-fa-xie.md|謝里法]] — mentioned in this record
+- [[people/wenhsiung-luke-huang.md|黃文雄]] — mentioned in this record
+- [[people/ahhee-hsu.md|許丕龍]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

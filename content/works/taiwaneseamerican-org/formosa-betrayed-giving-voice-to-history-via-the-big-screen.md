@@ -97,6 +97,11 @@ Anna Wu, an active supporter of Asian American art, is a photographer, the creat
 ## Subjects
 - Arts &amp; Culture
 - Interviews
+- [[people/will-tiao.md|Will Tiao]] — mentioned in this record
+- [[people/ho-chie-tsai.md|Ho Chie Tsai]] — mentioned in this record
+- [[people/shawna-yang-ryan.md|Shawna Yang Ryan]] — mentioned in this record
+- [[people/henry-c-liu.md|Henry C. Liu]] — mentioned in this record
+- [[organizations/formosa-foundation.md|Formosa Foundation]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

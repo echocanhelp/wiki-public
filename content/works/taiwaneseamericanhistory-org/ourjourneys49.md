@@ -77,6 +77,8 @@ Cited from the original ([source](https://taiwaneseamericanhistory.org/ourjourne
 ## Subjects
 - [[people/anna-chang||張月英]]
 - [[people/tah-p-e00ace0a3a||毛清芬]]
+- [[people/tah-p-e00ace0a3a.md|毛清芬]] — mentioned in this record
+- [[people/anna-chang.md|張月英]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

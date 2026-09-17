@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2018-03-19 — published
 
 ## Subjects
+- [[people/tah-p-e00ace0a3a.md|毛清芬]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

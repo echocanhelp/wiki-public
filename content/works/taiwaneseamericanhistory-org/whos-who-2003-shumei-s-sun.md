@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2018-01-31 — published
 
 ## Subjects
+- [[people/prof-shumei-s-sun.md|Prof. Shumei S. Sun]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

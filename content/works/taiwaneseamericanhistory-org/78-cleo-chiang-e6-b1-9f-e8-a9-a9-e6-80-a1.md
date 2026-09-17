@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2014-11-05 — published
 
 ## Subjects
+- [[people/cleo-chiang.md|Cleo Chiang]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

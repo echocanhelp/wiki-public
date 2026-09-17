@@ -69,6 +69,8 @@ Posted in 10/2016
 - [[people/dr-ying-yuan-lee]]
 - [[people/irwin-chu]]
 - [[people/prof-mingchi-wu]]
+- [[people/sin-i-hsiao.md|蕭欣義]] — mentioned in this record
+- [[people/f-s-shen.md|沈富雄]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

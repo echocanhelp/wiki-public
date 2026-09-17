@@ -134,6 +134,15 @@ Posted in 08/2016
 - [[people/wang-gui-rong]]
 - [[people/xie-qingzhi-xie-poyi]]
 - [[people/yang-jia-you]]
+- [[people/cheng-y-chuang.md|莊承業]] — mentioned in this record
+- [[people/peter-su.md|蘇國雄]] — mentioned in this record
+- [[people/julius-shu-05.md|許清煌]] — mentioned in this record
+- [[people/andre-yang.md|楊基定]] — mentioned in this record
+- [[people/san-john-huang.md|黃三榮]] — mentioned in this record
+- [[people/peter-chiu.md|邱勝宗]] — mentioned in this record
+- [[people/c-j-chen.md|陳銓仁]] — mentioned in this record
+- [[people/m-l-chen.md|陳夢蘭]] — mentioned in this record
+- [[people/ting-yee-wang.md|王廷宜]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

@@ -32,6 +32,8 @@ _Bibliographic record only. Full text stays in the vault._
 - 2021-12-16 — published
 
 ## Subjects
+- [[people/ching-fen-hsiao.md|蕭清芬]] — mentioned in this record
+- [[people/bi-khim-hsiao.md|蕭美琴]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

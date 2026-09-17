@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-02-17 — published
 
 ## Subjects
+- [[people/nobu-lu.md|呂信也]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

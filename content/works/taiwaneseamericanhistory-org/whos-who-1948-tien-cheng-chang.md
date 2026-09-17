@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-11-16 — published
 
 ## Subjects
+- [[people/prof-tien-cheng-chang.md|Prof. Tien-Cheng Chang]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

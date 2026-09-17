@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2018-04-18 — published
 
 ## Subjects
+- [[people/dr-shan-p-tsai.md|Dr. Shan P Tsai]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2015-02-01 — published
 
 ## Subjects
+- [[people/huei-sheng-kao.md|Huei-Sheng Kao]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

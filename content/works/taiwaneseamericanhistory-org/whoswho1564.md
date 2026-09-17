@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-03-19 — published
 
 ## Subjects
+- [[people/rui-mu-lee.md|李瑞木]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

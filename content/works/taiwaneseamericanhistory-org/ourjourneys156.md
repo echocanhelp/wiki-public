@@ -51,6 +51,7 @@ Cited from the original ([source](https://taiwaneseamericanhistory.org/ourjourne
 
 ## Subjects
 - [[organizations/united-formosans-for-independenceufi|United Formosans for Independence UFI (台獨聯盟)]]
+- [[organizations/united-formosans-for-independenceufi.md|United Formosans for Independence UFI]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

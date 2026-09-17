@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2014-09-11 — published
 
 ## Subjects
+- [[people/dr-wayne-lung-wang.md|Dr. Wayne Lung Wang]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

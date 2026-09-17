@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-08-21 — published
 
 ## Subjects
+- [[organizations/brooklyn-artists-studio.md|Brooklyn Artists Studio]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

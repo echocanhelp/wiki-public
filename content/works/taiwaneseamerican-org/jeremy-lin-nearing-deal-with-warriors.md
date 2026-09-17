@@ -44,6 +44,7 @@ So this is for all the Taiwanese Americans out there playing basketball for thei
 
 ## Subjects
 - Perspectives
+- [[people/jeremy-lin.md|Jeremy Lin]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

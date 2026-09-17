@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2015-02-27 — published
 
 ## Subjects
+- [[people/peter-kuo.md|Peter Kuo]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

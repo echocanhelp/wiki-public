@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-10-08 — published
 
 ## Subjects
+- [[people/dawen-wang.md|Dawen Wang]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

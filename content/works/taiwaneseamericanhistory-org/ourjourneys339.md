@@ -102,6 +102,11 @@ Posted in 08/2018
 - [[organizations/taiwanese-united-fund|TUF]]
 - [[people/gwhyneth-chen|陳毓襄]]
 - [[people/li-chan-chen-maxham|陳麗嬋]]
+- [[people/tyzen-hsiao.md|蕭泰然]] — mentioned in this record
+- [[people/alan-thian.md|田詒鴻]] — mentioned in this record
+- [[people/li-chan-chen-maxham.md|陳麗嬋]] — mentioned in this record
+- [[people/gwhyneth-chen.md|陳毓襄]] — mentioned in this record
+- [[people/ahhee-hsu.md|許丕龍]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

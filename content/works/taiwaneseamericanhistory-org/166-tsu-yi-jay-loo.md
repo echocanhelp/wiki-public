@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2018-10-28 — published
 
 ## Subjects
+- [[people/tsu-yi-jay-loo.md|盧主義]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

@@ -81,6 +81,15 @@ Cited from the original ([source](https://taiwaneseamericanhistory.org/ourjourne
 - [[people/lung-chen||陳隆]]
 - [[people/patrick-huang||黃再添]]
 - [[people/wudong-huang||黃武東牧師]]
+- [[people/c-b-ku.md|辜澄彬]] — mentioned in this record
+- [[people/morisan-lu.md|呂明森]] — mentioned in this record
+- [[people/dr-hong-tien-lai.md|賴弘典醫師]] — mentioned in this record
+- [[people/morgan-chang.md|張富雄]] — mentioned in this record
+- [[people/maurice-hsu.md|許盛男醫師]] — mentioned in this record
+- [[people/wudong-huang.md|黃武東牧師]] — mentioned in this record
+- [[people/patrick-huang.md|黃再添]] — mentioned in this record
+- [[people/martin-tsai.md|蔡明峰]] — mentioned in this record
+- [[people/eileen-chang.md|楊宜宜]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

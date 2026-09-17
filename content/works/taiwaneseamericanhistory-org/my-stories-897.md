@@ -215,6 +215,12 @@ Posted on 01/30/2024
 - [[people/edward-chen|Edward Chen]]
 - [[people/john-lin|John Lin]]
 - [[people/tom-yang|Tom Yang]]
+- [[people/edward-chen.md|Edward Chen]] — mentioned in this record
+- [[people/echo-lin.md|Echo Lin]] — mentioned in this record
+- [[people/john-lin.md|John Lin]] — mentioned in this record
+- [[people/tom-yang.md|Tom Yang]] — mentioned in this record
+- [[people/george-h-kerr.md|George H. Kerr]] — mentioned in this record
+- [[organizations/formosan-association-for-human-rights.md|Formosan Association for Human Rights]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

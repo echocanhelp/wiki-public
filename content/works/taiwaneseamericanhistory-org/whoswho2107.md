@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2018-05-01 — published
 
 ## Subjects
+- [[people/emily-x-r-pan.md|潘相如]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

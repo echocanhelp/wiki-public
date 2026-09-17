@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2015-07-21 — published
 
 ## Subjects
+- [[people/prof-shutsung-liao.md|廖述宗教授]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

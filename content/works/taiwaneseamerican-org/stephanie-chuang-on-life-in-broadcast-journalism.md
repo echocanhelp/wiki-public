@@ -45,6 +45,7 @@ Check out her website: http://stephaniechuang.com
 ## Subjects
 - Arts &amp; Culture
 - Interviews
+- [[people/stephanie-chuang.md|Stephanie Chuang]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

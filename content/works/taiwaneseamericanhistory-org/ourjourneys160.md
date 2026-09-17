@@ -107,6 +107,10 @@ NATWA started printing yearly calendar m 1991 to introduce to our international 
 - [[people/s-h-chang|張舜華]]
 - [[people/susan-y-j-chang|程韻如]]
 - [[people/vivian-y-g-fu|林郁子]]
+- [[people/mei-li-yang.md|楊美麗]] — mentioned in this record
+- [[people/vivian-y-g-fu.md|林郁子]] — mentioned in this record
+- [[people/s-h-chang.md|張舜華]] — mentioned in this record
+- [[people/susan-y-j-chang.md|程韻如]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

@@ -90,6 +90,7 @@ Translated from 25. 華府台灣文化中心簡介/ 黃泰郎 /2014/09
 
 ## Subjects
 - [[organizations/taiwanese-association-of-america||Taiwanese Association Of America]]
+- [[organizations/taiwanese-association-of-america.md|Taiwanese Association of America]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

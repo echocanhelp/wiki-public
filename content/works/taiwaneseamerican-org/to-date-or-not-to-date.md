@@ -56,6 +56,7 @@ And a big shout out to a wonderfully talented photographer, Thamar Plute, and my
 
 ## Subjects
 - Perspectives
+- [[people/jeff-yang.md|Jeff Yang]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

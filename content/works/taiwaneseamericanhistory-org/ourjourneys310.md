@@ -69,6 +69,9 @@ Posted in 08/2017
 ## Subjects
 - [[people/c-k-lee]]
 - [[people/ting-kuei-tsay]]
+- [[people/c-k-lee.md|李世光]] — mentioned in this record
+- [[people/wenhsiung-luke-huang.md|黃文雄]] — mentioned in this record
+- [[people/long-rong-mark-kao.md|高龍榮]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

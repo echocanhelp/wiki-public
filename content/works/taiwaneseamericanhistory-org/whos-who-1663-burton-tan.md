@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-05-17 — published
 
 ## Subjects
+- [[people/rev-burton-tan.md|Rev. Burton Tan]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

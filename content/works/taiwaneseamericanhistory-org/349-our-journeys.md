@@ -105,6 +105,8 @@ Posted in 07/2019
 ## Subjects
 - [[people/winston-t-dang|陳重信]]
 - [[people/yi-ming-liu|劉怡明]]
+- [[people/yi-ming-liu.md|劉怡明]] — mentioned in this record
+- [[people/winston-t-dang.md|陳重信]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

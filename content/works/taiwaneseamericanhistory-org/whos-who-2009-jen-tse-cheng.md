@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2018-02-06 — published
 
 ## Subjects
+- [[people/dr-jen-tse-cheng.md|Dr. Jen-Tse Cheng]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

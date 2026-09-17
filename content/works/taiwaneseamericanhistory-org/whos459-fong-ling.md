@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2015-06-22 — published
 
 ## Subjects
+- [[people/fong-ling.md|Fong Ling]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

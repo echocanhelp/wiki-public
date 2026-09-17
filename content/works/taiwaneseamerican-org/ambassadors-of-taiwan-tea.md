@@ -40,6 +40,9 @@ http://www.abctea.com
 
 ## Subjects
 - Interviews
+- [[people/thomas-shu.md|Thomas Shu]] — mentioned in this record
+- [[people/josephine-pan.md|Josephine Pan]] — mentioned in this record
+- [[organizations/taiwanese-american-students-association.md|Taiwanese American Students Association]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

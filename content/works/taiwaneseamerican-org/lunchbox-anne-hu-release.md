@@ -129,6 +129,8 @@ Lunchbox is available on YouTube’s Omeleto and on TaiwanPlus for a limited tim
 - Arts &amp; Culture
 - Interviews
 - Spotlight
+- [[people/james-hu.md|James Hu]] — mentioned in this record
+- [[people/anna-lee.md|Anna Lee]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

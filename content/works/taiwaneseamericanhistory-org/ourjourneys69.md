@@ -74,6 +74,11 @@ Cited from the original ([source](https://taiwaneseamericanhistory.org/ourjourne
 - [[people/judy-lin-linton||林奐均]]
 - [[people/c-y-tsai||蔡嘉寅]]
 - [[people/kim-lai-huang||黃金來]]
+- [[people/parris-hsu-cheng-chang.md|張旭成]] — mentioned in this record
+- [[people/wen-yih-sun.md|商文義]] — mentioned in this record
+- [[people/judy-lin-linton.md|林奐均]] — mentioned in this record
+- [[people/kim-lai-huang.md|黃金來]] — mentioned in this record
+- [[people/c-y-tsai.md|蔡嘉寅]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

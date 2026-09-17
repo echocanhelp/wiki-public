@@ -224,6 +224,14 @@ Posted in 11/2016
 - [[people/prof-ken-s-huang]]
 - [[people/prof-young-chang-chen]]
 - [[people/wang-taihe]]
+- [[people/daniel-lin.md|Daniel Lin]] — mentioned in this record
+- [[people/prof-ken-s-huang.md|黃根深教授]] — mentioned in this record
+- [[people/agnes-hsiao.md|黃美琇]] — mentioned in this record
+- [[people/hui-na-lin.md|賴慧娜]] — mentioned in this record
+- [[people/darice-lee.md|洪珠美]] — mentioned in this record
+- [[people/jennifer-hung.md|洪錦鈺]] — mentioned in this record
+- [[people/chun-long-jerry-tsung.md|曾俊隆]] — mentioned in this record
+- [[people/tah-p-f09674a9b0.md|蔡文玉]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

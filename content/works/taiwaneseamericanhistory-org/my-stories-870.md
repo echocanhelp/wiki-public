@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2023-03-28 — published
 
 ## Subjects
+- [[people/shih-hui-chen.md|陳士惠]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

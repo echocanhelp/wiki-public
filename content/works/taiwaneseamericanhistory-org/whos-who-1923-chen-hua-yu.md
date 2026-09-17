@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-11-03 — published
 
 ## Subjects
+- [[people/dr-doug-chen-hua-yu.md|余振華博士]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

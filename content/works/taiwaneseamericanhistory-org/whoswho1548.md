@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-03-14 — published
 
 ## Subjects
+- [[people/weiting-liu.md|Weiting Liu]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

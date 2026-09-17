@@ -98,6 +98,9 @@ Posted on 03/25/2021
 
 ## Subjects
 - [[people/amy-hsu|蘇惠美]]
+- [[people/amy-hsu.md|蘇惠美]] — mentioned in this record
+- [[people/clara-chen.md|劉真真]] — mentioned in this record
+- [[people/herbert-t-chen.md|陳志青]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

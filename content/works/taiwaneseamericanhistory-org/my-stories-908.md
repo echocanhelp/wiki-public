@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2024-07-31 — published
 
 ## Subjects
+- [[people/charles-yu.md|游朝凱]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

@@ -28,6 +28,7 @@ _Bibliographic record only. Full text stays in the vault (copyright)._
 ## Subjects
 - [[works/taiwaneseamerican-org/dinner-with-john-liu-nyc-comptroller||Dinner with John Liu, NYC Comptroller]]
 - [[organizations/taiwanese-american-historical-society||TAHS]]
+- [[people/john-liu.md|John Liu]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

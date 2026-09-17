@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2015-10-10 — published
 
 ## Subjects
+- [[people/yu-hui-chang.md|Yu-Hui Chang]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

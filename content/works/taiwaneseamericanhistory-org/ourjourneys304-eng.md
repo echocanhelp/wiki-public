@@ -81,6 +81,15 @@ Translated from 304. 心心念念一間厝 紐約台灣會館起家 / 黃兆平 
 - [[people/frank-hsieh]]
 - [[people/patrick-huang]]
 - [[people/tsai-ing-wen]]
+- [[people/frank-hsieh.md|Frank Hsieh]] — mentioned in this record
+- [[people/chen-shuibian.md|Chen Shui-bian]] — mentioned in this record
+- [[people/tsai-ing-wen.md|Tsai Ing-wen]] — mentioned in this record
+- [[people/patrick-huang.md|Patrick Huang]] — mentioned in this record
+- [[people/dr-lung-fong-chen.md|Dr. Lung-Fong Chen]] — mentioned in this record
+- [[people/dr-ju-cheng-lee.md|Dr. Ju-Cheng Lee]] — mentioned in this record
+- [[organizations/new-york-taiwan-center.md|New York Taiwan Center]] — mentioned in this record
+- [[organizations/democratic-progressive-party.md|Democratic Progressive Party]] — mentioned in this record
+- [[organizations/overseas-community-affairs-council.md|Overseas Community Affairs Council]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

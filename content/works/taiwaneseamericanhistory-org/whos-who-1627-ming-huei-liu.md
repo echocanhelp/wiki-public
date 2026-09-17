@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-04-23 — published
 
 ## Subjects
+- [[people/rev-ming-huei-phillip-liu.md|Rev. Ming Huei Phillip Liu]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

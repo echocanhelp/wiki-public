@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-12-07 — published
 
 ## Subjects
+- [[people/c-y-chang.md|C. Y. Chang]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

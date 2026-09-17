@@ -66,6 +66,7 @@ Posted in 05/2016
 
 ## Subjects
 - [[people/wang-shufen|Wang Shu-fen]]
+- [[people/wang-shufen.md|Wang Shu-fen]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

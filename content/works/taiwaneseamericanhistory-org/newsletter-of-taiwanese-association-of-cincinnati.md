@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-06-22 — published
 
 ## Subjects
+- [[organizations/taiwanese-association-of-cincinnati.md|Taiwanese Association of Cincinnati]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

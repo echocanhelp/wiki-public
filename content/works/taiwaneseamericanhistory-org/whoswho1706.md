@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-06-29 — published
 
 ## Subjects
+- [[people/frank-c-h-chen.md|陳治煌]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

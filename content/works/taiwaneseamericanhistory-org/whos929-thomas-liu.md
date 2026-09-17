@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-04-06 — published
 
 ## Subjects
+- [[people/thomas-liu.md|Thomas Liu]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

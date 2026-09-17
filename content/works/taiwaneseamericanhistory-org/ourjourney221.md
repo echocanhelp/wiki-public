@@ -53,6 +53,8 @@ Posted in 05/2016
 ## Subjects
 - [[organizations/north-shore-club|North Shore Club (北濱會)]]
 - [[people/christine-l-yang|林壽英]]
+- [[people/christine-l-yang.md|Christine L. Yang]] — mentioned in this record
+- [[organizations/north-shore-club.md|North Shore Club]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

@@ -56,6 +56,7 @@ Posted in 03/2016
 
 ## Subjects
 - [[people/symeon-woo|吳西面]]
+- [[people/symeon-woo.md|吳西面]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

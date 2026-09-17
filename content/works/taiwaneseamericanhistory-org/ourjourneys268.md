@@ -112,6 +112,17 @@ Posted in 11/2016
 - [[people/rev-martin-c-wang]]
 - [[people/sung-peng-hsu]]
 - [[people/w-s-lee]]
+- [[people/guang-xiong-ling.md|凌光雄]] — mentioned in this record
+- [[people/cheryl-lin-hong.md|林千千]] — mentioned in this record
+- [[people/rev-j-m-hsu.md|許錦銘]] — mentioned in this record
+- [[people/w-s-lee.md|李武雄]] — mentioned in this record
+- [[people/hui-mei-lin.md|林慧美]] — mentioned in this record
+- [[people/morgan-chang.md|張富雄]] — mentioned in this record
+- [[people/powen-wang.md|王博文]] — mentioned in this record
+- [[people/henry-lee.md|李豐隆]] — mentioned in this record
+- [[people/ching-fen-hsiao.md|蕭清芬]] — mentioned in this record
+- [[people/chiung-hsiung-ou.md|歐炯雄]] — mentioned in this record
+- [[people/elizabeth-s-chen.md|李秀麗]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

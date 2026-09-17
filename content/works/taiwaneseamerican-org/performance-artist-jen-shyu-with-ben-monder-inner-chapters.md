@@ -29,6 +29,7 @@ _Bibliographic record only. Full text stays in the vault (copyright)._
 - [[works/taiwaneseamerican-org/performance-artist-jen-shyu-with-ben-monder-inner-chapters||Performance Artist Jen Shyu with Ben Monder: &#8220;Inner Chapters&#8221;]]
 - [[organizations/taiwanese-american-historical-society||TAHS]]
 - [[articles/taiwanjustice-net/2023/20231208225407_root_12f4fa36695ac846||10]]
+- [[people/jen-shyu.md|Jen Shyu]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

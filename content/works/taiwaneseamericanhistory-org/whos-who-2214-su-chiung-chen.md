@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2019-09-14 — published
 
 ## Subjects
+- [[people/prof-su-chiung-chen.md|Prof. Su-Chiung Chen]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

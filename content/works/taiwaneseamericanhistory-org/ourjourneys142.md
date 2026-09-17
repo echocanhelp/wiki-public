@@ -49,6 +49,10 @@ Cited from the original ([source](https://taiwaneseamericanhistory.org/ourjourne
 - [[people/john-hsieh|謝鎮寬]]
 - [[people/joseph-hong|洪茂澤]]
 - [[people/linda-gail-arrigo|艾琳達]]
+- [[people/joseph-hong.md|洪茂澤]] — mentioned in this record
+- [[people/dr-shinn-sheng-chang.md|張信行醫師]] — mentioned in this record
+- [[people/john-hsieh.md|謝鎮寬]] — mentioned in this record
+- [[people/linda-gail-arrigo.md|艾琳達]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

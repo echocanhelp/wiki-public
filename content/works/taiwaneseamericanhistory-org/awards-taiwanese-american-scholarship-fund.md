@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-01-04 — published
 
 ## Subjects
+- [[organizations/taiwanese-american-scholarship-fund.md|Taiwanese American Scholarship Fund]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

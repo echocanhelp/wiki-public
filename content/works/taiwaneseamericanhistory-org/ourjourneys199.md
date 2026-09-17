@@ -62,6 +62,7 @@ Posted in 03/2016
 
 ## Subjects
 - [[people/tah-p-8b5bcc4bca|黃世惠]]
+- [[people/tah-p-8b5bcc4bca.md|黃世惠]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

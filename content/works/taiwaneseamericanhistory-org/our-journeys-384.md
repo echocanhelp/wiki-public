@@ -76,6 +76,10 @@ Posted on 12/23/2022
 - [[people/jean-cheng|Jean Cheng]]
 - [[people/ming-tsuang|Ming Tsuang]]
 - [[people/tony-hsieh|Tony Hsieh]]
+- [[people/tony-hsieh.md|Tony Hsieh]] — mentioned in this record
+- [[people/ming-tsuang.md|Ming Tsuang]] — mentioned in this record
+- [[people/dr-hwalin-lee.md|Dr. Hwalin Lee]] — mentioned in this record
+- [[people/jean-cheng.md|Jean Cheng]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

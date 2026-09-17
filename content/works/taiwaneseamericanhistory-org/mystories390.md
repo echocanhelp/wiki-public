@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-01-11 — published
 
 ## Subjects
+- [[people/ming-chang-wang.md|王敏昌]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

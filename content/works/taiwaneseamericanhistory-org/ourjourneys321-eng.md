@@ -85,6 +85,16 @@ Translated from 321. 由陳文成紀念基金會的創立談起 / 許永華 /11/
 - [[organizations/taiwanese-association-of-america|Taiwanese Association of America]]
 - [[people/elena-ling|Elena Ling]]
 - [[people/yung-hwa-hsu|Yung Hwa Hsu]]
+- [[people/dr-evan-ling.md|Dr. Evan Ling]] — mentioned in this record
+- [[people/dr-chiau-seng-hwang.md|Dr. Chiau-Seng Hwang]] — mentioned in this record
+- [[people/elena-ling.md|Elena Ling]] — mentioned in this record
+- [[people/yung-hwa-hsu.md|Yung Hwa Hsu]] — mentioned in this record
+- [[people/prof-chang-jang-hsieh.md|Prof. Chang-Jang Hsieh]] — mentioned in this record
+- [[people/prof-felix-t-hong.md|Prof. Felix T. Hong]] — mentioned in this record
+- [[organizations/formosan-association-for-human-rights.md|Formosan Association for Human Rights]] — mentioned in this record
+- [[organizations/professor-chen-wen-chen-memorial-foundation.md|Professor Chen Wen-Chen Memorial Foundation]] — mentioned in this record
+- [[organizations/taiwanese-association-of-america.md|Taiwanese Association of America]] — mentioned in this record
+- [[organizations/ann-arbor-taiwanese-association.md|Ann Arbor Taiwanese Association]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

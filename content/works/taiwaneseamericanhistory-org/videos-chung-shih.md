@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-11-21 — published
 
 ## Subjects
+- [[people/chung-nan-shih.md|Chung Nan Shih]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

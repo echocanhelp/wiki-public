@@ -56,6 +56,8 @@ Summer in Taiwan and #blacklivesmatter
 - Featured
 - Perspectives
 - Social/Politics
+- [[people/leona-chen.md|Leona Chen]] — mentioned in this record
+- [[people/michelle-kuo.md|Michelle Kuo]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

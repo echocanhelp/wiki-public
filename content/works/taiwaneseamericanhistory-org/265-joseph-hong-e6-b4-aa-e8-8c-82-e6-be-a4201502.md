@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2015-02-05 — published
 
 ## Subjects
+- [[people/joseph-hong.md|Joseph Hong]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

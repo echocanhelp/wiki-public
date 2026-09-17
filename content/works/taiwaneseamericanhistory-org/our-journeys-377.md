@@ -70,6 +70,11 @@ Posted  on 10/11/2021
 - [[organizations/taiwan-american-foundation|Taiwanese American Foundation]]
 - [[people/christine-l-yang|林壽英]]
 - [[people/ho-chie-tsai|Ho Chie Tsai]]
+- [[people/ho-chie-tsai.md|Ho Chie Tsai]] — mentioned in this record
+- [[organizations/taiwan-american-foundation.md|Taiwanese American Foundation]] — mentioned in this record
+- [[people/william-cho.md|卓甫良]] — mentioned in this record
+- [[people/christine-l-yang.md|林壽英]] — mentioned in this record
+- [[people/s-y-chang.md|張信義]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

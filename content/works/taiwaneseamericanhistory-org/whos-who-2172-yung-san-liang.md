@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2019-01-14 — published
 
 ## Subjects
+- [[people/dr-yung-san-liang.md|Dr. Yung-San Liang]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

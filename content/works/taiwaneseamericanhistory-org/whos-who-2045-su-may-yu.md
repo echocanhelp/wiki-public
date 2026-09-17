@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2018-02-25 — published
 
 ## Subjects
+- [[people/dr-su-may-yu.md|余淑美博士]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

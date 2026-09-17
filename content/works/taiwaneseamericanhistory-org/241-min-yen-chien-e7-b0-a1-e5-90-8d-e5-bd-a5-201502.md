@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2015-02-01 — published
 
 ## Subjects
+- [[people/min-yen-chien.md|Min-Yen Chien]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

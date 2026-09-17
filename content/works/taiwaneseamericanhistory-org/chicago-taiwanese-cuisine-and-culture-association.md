@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-04-21 — published
 
 ## Subjects
+- [[organizations/chicago-taiwanese-cuisine-and-culture-association.md|Chicago Taiwanese Cuisine and Culture Association]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-05-25 — published
 
 ## Subjects
+- [[people/dr-jacob-huang.md|Dr. Jacob Huang]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

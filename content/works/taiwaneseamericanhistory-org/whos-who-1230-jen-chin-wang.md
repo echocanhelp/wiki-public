@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-08-10 — published
 
 ## Subjects
+- [[people/prof-jen-chin-wang.md|Prof. Jen Chin Wang]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

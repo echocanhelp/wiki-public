@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-05-16 — published
 
 ## Subjects
+- [[organizations/chhong-bi-memorial-fund.md|Chhong-bi Memorial Fund]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

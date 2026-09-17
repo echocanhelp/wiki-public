@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-10-02 — published
 
 ## Subjects
+- [[people/grace-yang.md|Grace Yang]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

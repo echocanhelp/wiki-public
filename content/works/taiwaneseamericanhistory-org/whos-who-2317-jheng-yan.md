@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2021-02-22 — published
 
 ## Subjects
+- [[people/dr-jheng-yan.md|Dr. Jheng Yan]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

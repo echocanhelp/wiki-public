@@ -32,6 +32,8 @@ _Bibliographic record only. Full text stays in the vault._
 - 2018-08-16 — published
 
 ## Subjects
+- [[people/sharon-s-hsu.md|Sharon S. Hsu]] — mentioned in this record
+- [[people/chung-chen-paul-hsu.md|許忠政]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

@@ -83,6 +83,9 @@ Cited from the original ([source](https://taiwaneseamericanhistory.org/ourjourne
 - [[people/erh-lin||林二]]
 - [[people/martin-tsai||蔡明峰]]
 - [[people/agnes-hsiao||黃美琇]]
+- [[people/agnes-hsiao.md|黃美琇]] — mentioned in this record
+- [[people/clara-chen.md|劉真真]] — mentioned in this record
+- [[people/martin-tsai.md|蔡明峰]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

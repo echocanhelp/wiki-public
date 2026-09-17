@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-08-21 — published
 
 ## Subjects
+- [[people/prof-ralph-t-yang.md|Prof. Ralph T. Yang]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

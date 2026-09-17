@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2021-01-20 — published
 
 ## Subjects
+- [[people/prof-chimei-m-lee.md|Prof. Chimei M. Lee]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

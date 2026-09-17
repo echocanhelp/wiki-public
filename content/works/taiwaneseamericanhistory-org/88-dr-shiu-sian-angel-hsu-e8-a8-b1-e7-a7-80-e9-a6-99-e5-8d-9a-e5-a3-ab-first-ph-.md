@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2015-12-10 — published
 
 ## Subjects
+- [[people/shiu-sian-angel-hsu-wang.md|許秀香]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

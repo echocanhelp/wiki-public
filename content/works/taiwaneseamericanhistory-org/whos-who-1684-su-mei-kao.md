@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-05-27 — published
 
 ## Subjects
+- [[people/dr-su-mei-kao.md|林素梅博士]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

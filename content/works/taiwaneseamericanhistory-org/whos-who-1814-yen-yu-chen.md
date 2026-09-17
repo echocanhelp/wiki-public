@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-08-06 — published
 
 ## Subjects
+- [[people/yen-yu-jenny-chen.md|陳延瑜博士]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

@@ -32,6 +32,8 @@ _Bibliographic record only. Full text stays in the vault._
 - 2015-05-27 — published
 
 ## Subjects
+- [[people/s-c-yang.md|楊淑卿]] — mentioned in this record
+- [[people/patrick-huang.md|黃再添]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

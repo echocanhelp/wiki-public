@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-05-14 — published
 
 ## Subjects
+- [[people/anna-chang.md|Anna Chang]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-10-27 — published
 
 ## Subjects
+- [[people/teresa-dreyfuss.md|Teresa Dreyfuss]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

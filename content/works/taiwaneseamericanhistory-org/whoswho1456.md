@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-01-15 — published
 
 ## Subjects
+- [[people/kenneth-liu.md|Kenneth Liu]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

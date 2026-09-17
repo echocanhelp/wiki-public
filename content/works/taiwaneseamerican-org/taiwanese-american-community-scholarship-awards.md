@@ -66,6 +66,7 @@ teamwork; or (2) What influence do you want to leave on those whom you meet?
 
 ## Subjects
 - East Coast
+- [[organizations/taiwanese-association-of-america.md|Taiwanese Association of America]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

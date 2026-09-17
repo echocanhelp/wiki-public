@@ -74,6 +74,9 @@ Excerpt from From Taiwan and Back: A Memoir of Ambassador Fu-chen Lo, by Fu-ch
 - [[people/dean-chang||張怡仁]]
 - [[people/frank-lai||賴文雄]]
 - [[people/tzutsai-cheng||鄭自才]]
+- [[people/tzutsai-cheng.md|鄭自才]] — mentioned in this record
+- [[people/dean-chang.md|張怡仁]] — mentioned in this record
+- [[people/frank-lai.md|賴文雄]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

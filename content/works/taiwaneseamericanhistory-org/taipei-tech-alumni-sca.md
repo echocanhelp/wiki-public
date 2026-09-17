@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-03-30 — published
 
 ## Subjects
+- [[organizations/national-taipei-university-of-technology-alumni-association.md|National Taipei University of Technology Alumni Association]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

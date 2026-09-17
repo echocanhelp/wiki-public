@@ -30,6 +30,7 @@ _Bibliographic record only. Full text stays in the vault (copyright)._
 - [[organizations/taiwanese-student-association||Taiwanese Student Association]]
 - [[organizations/taiwanese-american-historical-society||TAHS]]
 - [[articles/taiwanjustice-net/2023/20231208225407_root_12f4fa36695ac846||10]]
+- [[organizations/taiwanese-student-association.md|Taiwanese Student Association]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

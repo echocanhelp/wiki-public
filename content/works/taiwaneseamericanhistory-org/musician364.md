@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-09-22 — published
 
 ## Subjects
+- [[people/chiu-ling-lin.md|林巧琳]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

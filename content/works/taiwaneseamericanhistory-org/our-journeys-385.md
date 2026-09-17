@@ -50,6 +50,8 @@ Posted on 05/12/2023
 
 ## Subjects
 - [[people/dr-chiu-shan-chen|Dr. Chiu-Shan Chen]]
+- [[people/dr-chiu-shan-chen.md|Dr. Chiu-Shan Chen]] — mentioned in this record
+- [[people/prof-ping-hui-liao.md|Prof. Ping-Hui Liao]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2015-12-01 — published
 
 ## Subjects
+- [[organizations/texas-college-station-taiwan-study-club.md|Texas College Station Taiwan Study Club]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

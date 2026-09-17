@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-07-18 — published
 
 ## Subjects
+- [[people/chenming-hu.md|Chenming Hu]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

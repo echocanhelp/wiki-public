@@ -238,6 +238,18 @@ Translated from 38. 北加州台灣同鄉聯合會三十年回顧/石清正/2014
 - [[organizations/taiwanese-alliance-for-interculture-southern-california||Taiwanese Alliance For Interculture]]
 - [[organizations/taiwanese-american-center-of-northern-california||Taiwanese American Center Of Northern California]]
 - [[organizations/taiwanese-association-of-america||Taiwanese Association Of America]]
+- [[people/dr-tu-chen.md|Dr. Tu Chen]] — mentioned in this record
+- [[people/may-sing-chang.md|May-Sing Chang]] — mentioned in this record
+- [[people/tyzen-hsiao.md|Tyzen Hsiao]] — mentioned in this record
+- [[people/chen-shuibian.md|Chen Shui-bian]] — mentioned in this record
+- [[people/prof-davis-l-s-chang.md|Prof. Davis L. S. Chang]] — mentioned in this record
+- [[people/wudong-huang.md|Rev. Wudong Huang]] — mentioned in this record
+- [[people/liang-chuan-peng.md|Liang Chuan Peng]] — mentioned in this record
+- [[people/philip-wu.md|Philip Wu]] — mentioned in this record
+- [[people/dr-shinn-sheng-chang.md|Dr. Shinn-Sheng Chang]] — mentioned in this record
+- [[people/john-hsieh.md|John Hsieh]] — mentioned in this record
+- [[people/rung-fang-chen.md|Rung-fang Chen]] — mentioned in this record
+- [[people/andrew-y-lee.md|Andrew Y. Lee]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

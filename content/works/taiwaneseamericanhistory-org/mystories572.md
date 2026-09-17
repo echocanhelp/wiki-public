@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-09-01 — published
 
 ## Subjects
+- [[people/yi-ming-liu.md|劉怡明]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

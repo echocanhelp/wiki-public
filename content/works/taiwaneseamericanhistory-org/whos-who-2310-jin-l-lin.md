@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2021-02-01 — published
 
 ## Subjects
+- [[people/dr-jin-l-lin.md|林金龍博士]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

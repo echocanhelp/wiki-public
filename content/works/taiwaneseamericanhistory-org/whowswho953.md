@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-04-24 — published
 
 ## Subjects
+- [[people/t-c-cheng.md|T. C. Cheng]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

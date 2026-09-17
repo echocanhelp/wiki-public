@@ -102,6 +102,9 @@ Editor-in-Chief, Ketagalan Media
 - Community
 - Featured
 - Social/Politics
+- [[people/leona-chen.md|Leona Chen]] — mentioned in this record
+- [[people/christina-hu.md|Christina Hu]] — mentioned in this record
+- [[organizations/taiwanese-american-citizens-league.md|Taiwanese American Citizens League]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2015-07-05 — published
 
 ## Subjects
+- [[people/kuan-cheng-lu.md|Kuan Cheng Lu]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

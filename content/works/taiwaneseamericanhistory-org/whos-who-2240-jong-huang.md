@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2020-02-05 — published
 
 ## Subjects
+- [[people/dr-jong-huang.md|Dr. Jong Huang]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

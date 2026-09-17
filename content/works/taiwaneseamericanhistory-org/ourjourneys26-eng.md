@@ -86,6 +86,11 @@ Translated from 26. 聖地牙哥台灣中心的前半生與轉型/黃正源/2014
 - [[people/dr-chiu-shan-chen||Dr. Chiu-Shan Chen]]
 - [[people/j-p-lee||J. P. Lee]]
 - [[organizations/taiwanese-association-of-america||Taiwanese Association Of America]]
+- [[people/dr-chris-fan.md|Dr. Chris Fan]] — mentioned in this record
+- [[people/dr-chiu-shan-chen.md|Dr. Chiu-Shan Chen]] — mentioned in this record
+- [[people/james-j-y-hsu.md|James J. Y Hsu]] — mentioned in this record
+- [[people/dr-edward-cheng.md|Dr. Edward Cheng]] — mentioned in this record
+- [[organizations/taiwanese-association-of-america.md|Taiwanese Association of America]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

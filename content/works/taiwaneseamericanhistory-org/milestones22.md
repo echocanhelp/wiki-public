@@ -32,6 +32,8 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-02-03 — published
 
 ## Subjects
+- [[people/dr-wen-y-chen.md|Dr. Wen Y. Chen]] — mentioned in this record
+- [[people/wen_chen-chen.md|陳文成教授]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

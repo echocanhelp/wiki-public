@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-03-07 — published
 
 ## Subjects
+- [[people/sue-chiu.md|黃雪香]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

@@ -40,6 +40,7 @@ Posted on 7/31/2025
 
 ## Subjects
 - [[organizations/taiwanese-american-center-of-northern-california|Taiwanese American Center of Northern California]]
+- [[organizations/taiwanese-american-center-of-northern-california.md|Taiwanese American Center of Northern California]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

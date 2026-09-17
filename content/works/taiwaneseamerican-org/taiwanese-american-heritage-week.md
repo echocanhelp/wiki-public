@@ -104,6 +104,9 @@ World United Federation for Independence
 
 ## Subjects
 - Interviews
+- [[people/david-wu.md|David Wu]] — mentioned in this record
+- [[organizations/taiwan-hakka-association-for-public-affairs-in-north-america.md|Taiwan Hakka Association for Public Affairs in North America]] — mentioned in this record
+- [[organizations/formosan-association-for-human-rights.md|Formosan Association for Human Rights]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

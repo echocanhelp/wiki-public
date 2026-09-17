@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-09-25 — published
 
 ## Subjects
+- [[people/ignatius-lin.md|Ignatius Lin]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

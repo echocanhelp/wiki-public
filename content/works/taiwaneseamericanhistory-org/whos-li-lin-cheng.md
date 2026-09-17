@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-04-14 — published
 
 ## Subjects
+- [[people/li-lin-cheng.md|Li-Lin Cheng]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

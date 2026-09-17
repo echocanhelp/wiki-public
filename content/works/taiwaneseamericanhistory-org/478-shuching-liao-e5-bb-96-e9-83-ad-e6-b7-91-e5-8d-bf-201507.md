@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2015-07-05 — published
 
 ## Subjects
+- [[people/shuching-liao.md|Shuching Liao]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

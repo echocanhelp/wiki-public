@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-05-11 — published
 
 ## Subjects
+- [[people/rev-ai-chih-tsai.md|Rev. Ai Chih Tsai]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

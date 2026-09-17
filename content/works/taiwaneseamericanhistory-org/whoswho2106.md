@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2018-05-01 — published
 
 ## Subjects
+- [[people/pi-pai-wang.md|Pi-Pai Wang]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

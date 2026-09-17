@@ -54,6 +54,8 @@ Cited from the original ([source](https://taiwaneseamericanhistory.org/ourjourne
 
 ## Subjects
 - [[organizations/taiwan-hotel-motel-association-of-southern-california]]
+- [[people/c-j-chen.md|陳銓仁]] — mentioned in this record
+- [[people/j-y-tsai.md|蔡金裕]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

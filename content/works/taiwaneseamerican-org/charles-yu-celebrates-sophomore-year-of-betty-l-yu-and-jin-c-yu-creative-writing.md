@@ -28,6 +28,7 @@ _Bibliographic record only. Full text stays in the vault (copyright)._
 ## Subjects
 - [[works/taiwaneseamerican-org/charles-yu-celebrates-sophomore-year-of-betty-l-yu-and-jin-c-yu-creative-writing||Charles Yu celebrates sophomore year of Betty L. Yu and Jin C. Yu Creative Writing Prizes with fellow judges, participants]]
 - [[organizations/taiwanese-american-historical-society||TAHS]]
+- [[people/charles-yu.md|Charles Yu]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

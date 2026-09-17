@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2019-11-04 — published
 
 ## Subjects
+- [[people/dr-jackson-chiu.md|Dr. Jackson Chiu]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-09-13 — published
 
 ## Subjects
+- [[organizations/taiwan-hotel-motel-association-of-north-america.md|Taiwan Hotel & Motel Association of North America]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

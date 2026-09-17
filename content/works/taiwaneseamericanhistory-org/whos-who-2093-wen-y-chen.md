@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2018-04-17 — published
 
 ## Subjects
+- [[people/dr-wen-y-chen.md|Dr. Wen Y. Chen]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

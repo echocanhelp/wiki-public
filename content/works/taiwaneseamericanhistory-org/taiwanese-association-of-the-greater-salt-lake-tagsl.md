@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-02-06 — published
 
 ## Subjects
+- [[organizations/taiwanese-association-of-the-greater-salt-lake.md|Taiwanese Association of the Greater Salt Lake]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

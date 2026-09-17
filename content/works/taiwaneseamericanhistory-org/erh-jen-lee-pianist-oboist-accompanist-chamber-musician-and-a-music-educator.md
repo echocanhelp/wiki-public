@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-06-05 — published
 
 ## Subjects
+- [[people/erh-jen-lee.md|李爾仁]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

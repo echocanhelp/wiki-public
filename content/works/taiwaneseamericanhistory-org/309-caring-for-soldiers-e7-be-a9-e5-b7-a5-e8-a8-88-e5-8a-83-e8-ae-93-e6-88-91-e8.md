@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2015-07-20 — published
 
 ## Subjects
+- [[people/iris-ho.md|何燕青]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

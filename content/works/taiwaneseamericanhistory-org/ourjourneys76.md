@@ -217,6 +217,17 @@ Cited from the original ([source](https://taiwaneseamericanhistory.org/ourjourne
 - [[people/tony-chen||陳國洸]]
 - [[people/lung-chen||陳隆]]
 - [[people/chi-chin-huang||黃際鑫]]
+- [[people/ho-rui-hsu.md|許和瑞]] — mentioned in this record
+- [[people/j-y-lin.md|林哲也]] — mentioned in this record
+- [[people/cheng-y-chuang.md|莊承業]] — mentioned in this record
+- [[people/morgan-chang.md|張富雄]] — mentioned in this record
+- [[people/raymond-wu.md|吳瑞信]] — mentioned in this record
+- [[people/chi-chin-huang.md|黃際鑫]] — mentioned in this record
+- [[people/yi-ho-cheng.md|鄭義和]] — mentioned in this record
+- [[people/jim-young.md|楊正義]] — mentioned in this record
+- [[people/ming-che-lin.md|林明哲]] — mentioned in this record
+- [[people/minlu-chai.md|蔡銘祿]] — mentioned in this record
+- [[people/tony-chen.md|陳國洸]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

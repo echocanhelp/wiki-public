@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2018-04-24 — published
 
 ## Subjects
+- [[organizations/taiwan-hotel-motel-association-of-southern-california.md|Taiwan Hotel & Motel Association of Southern California]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

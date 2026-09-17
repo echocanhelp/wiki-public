@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2015-09-21 — published
 
 ## Subjects
+- [[organizations/orange-county-taiwanese-association.md|Orange County Taiwanese Association]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

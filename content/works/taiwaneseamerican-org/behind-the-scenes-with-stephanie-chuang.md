@@ -94,6 +94,7 @@ Lisa Chang is a current high school senior, curious for all sorts of college and
 
 ## Subjects
 - Interviews
+- [[people/stephanie-chuang.md|Stephanie Chuang]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

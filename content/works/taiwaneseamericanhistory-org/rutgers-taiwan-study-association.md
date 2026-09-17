@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2018-04-04 — published
 
 ## Subjects
+- [[organizations/rutgers-taiwan-study-association.md|Rutgers Taiwan Study Association]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

@@ -77,6 +77,9 @@ Posted in 08/2016
 - [[people/dr-cary-s-hung]]
 - [[people/dr-ying-yuan-lee]]
 - [[people/ted-lau]]
+- [[people/tah-p-b172331fd9.md|張信堂]] — mentioned in this record
+- [[people/ted-lau.md|劉重義]] — mentioned in this record
+- [[people/tah-p-a80569567d.md|林孝信]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

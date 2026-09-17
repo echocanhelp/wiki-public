@@ -65,6 +65,7 @@ Posted in 01/2017
 ## Subjects
 - [[people/charles-c-hsu]]
 - [[people/xu-zongbang]]
+- [[people/charles-c-hsu.md|Dr. Charles C. Hsu]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

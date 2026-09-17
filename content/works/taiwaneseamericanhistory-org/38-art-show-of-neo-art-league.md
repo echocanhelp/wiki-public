@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2019-05-20 — published
 
 ## Subjects
+- [[organizations/neo-art-league.md|Neo Art League]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

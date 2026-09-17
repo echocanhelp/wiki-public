@@ -32,6 +32,8 @@ _Bibliographic record only. Full text stays in the vault._
 - 2018-09-19 — published
 
 ## Subjects
+- [[people/dr-stephen-chen.md|Dr. Stephen Chen]] — mentioned in this record
+- [[people/chin-ming-chen.md|陳欽明醫師]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

@@ -57,6 +57,11 @@ NATWA II LinkedIn: http://goo.gl/beSxZ7
 ## Subjects
 - Community
 - Featured
+- [[people/tsuann-kuo.md|Tsuann Kuo]] — mentioned in this record
+- [[people/victoria-linchong.md|Victoria Linchong]] — mentioned in this record
+- [[people/karen-lin.md|Karen Lin]] — mentioned in this record
+- [[people/jennifer-j-chow.md|Jennifer J. Chow]] — mentioned in this record
+- [[people/marilyn-fu.md|Marilyn Fu]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

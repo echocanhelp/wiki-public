@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2021-12-07 — published
 
 ## Subjects
+- [[people/emerson-m-f-jou.md|Dr. Emerson M.F. Jou]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-04-17 — published
 
 ## Subjects
+- [[people/shawn-lu.md|Shawn Lu]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

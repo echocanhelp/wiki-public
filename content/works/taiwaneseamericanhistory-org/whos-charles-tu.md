@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2015-09-19 — published
 
 ## Subjects
+- [[people/charles-tu.md|Dr. Charles Tu]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

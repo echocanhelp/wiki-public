@@ -29,6 +29,7 @@ _Bibliographic record only. Full text stays in the vault (copyright)._
 - [[works/taiwaneseamerican-org/vote-for-jeremy-lin-for-the-bob-cousy-award||Vote for Jeremy Lin for the Bob Cousy Award!]]
 - [[organizations/taiwanese-american-historical-society||TAHS]]
 - [[articles/taiwanjustice-net/2023/20231208225407_root_12f4fa36695ac846||10]]
+- [[people/jeremy-lin.md|Jeremy Lin]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

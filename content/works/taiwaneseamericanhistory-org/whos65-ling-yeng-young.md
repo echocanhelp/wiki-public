@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2014-10-19 — published
 
 ## Subjects
+- [[people/ling-yeng-young.md|Ling-Yeng Young]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2014-10-21 — published
 
 ## Subjects
+- [[people/amber-liao.md|Amber Liao]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-09-21 — published
 
 ## Subjects
+- [[organizations/taiwan-national-treasure-foundation.md|Taiwan National Treasure Foundation]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

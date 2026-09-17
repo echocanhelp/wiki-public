@@ -52,6 +52,7 @@ Posted in 05/2016
 
 ## Subjects
 - [[people/chi-shun-hwang|黃智舜]]
+- [[people/chi-shun-hwang.md|黃智舜]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

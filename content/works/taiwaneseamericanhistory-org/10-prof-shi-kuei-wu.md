@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2018-07-31 — published
 
 ## Subjects
+- [[people/prof-shi-kuei-wu.md|Prof. Shi-Kuei Wu]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-07-17 — published
 
 ## Subjects
+- [[people/john-wuo.md|John Wuo]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

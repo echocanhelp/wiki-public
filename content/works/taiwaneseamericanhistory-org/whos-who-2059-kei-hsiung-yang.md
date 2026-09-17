@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2018-03-10 — published
 
 ## Subjects
+- [[people/dr-kei-hsiung-yang.md|Dr. Kei-Hsiung Yang]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

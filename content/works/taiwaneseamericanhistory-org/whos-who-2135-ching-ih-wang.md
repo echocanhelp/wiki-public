@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2018-06-18 — published
 
 ## Subjects
+- [[people/ching-ih-wang.md|Ching Ih Wang]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

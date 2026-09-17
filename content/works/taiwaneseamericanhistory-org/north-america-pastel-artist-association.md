@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-01-26 — published
 
 ## Subjects
+- [[organizations/north-america-pastel-artist-association.md|North America Pastel Artist Association]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

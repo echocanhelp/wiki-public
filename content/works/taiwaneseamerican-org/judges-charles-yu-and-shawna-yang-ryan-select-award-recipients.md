@@ -28,6 +28,8 @@ _Bibliographic record only. Full text stays in the vault (copyright)._
 ## Subjects
 - [[works/taiwaneseamerican-org/judges-charles-yu-and-shawna-yang-ryan-select-award-recipients||Judges Charles Yu and Shawna Yang Ryan select award recipients]]
 - [[organizations/taiwanese-american-historical-society||TAHS]]
+- [[people/shawna-yang-ryan.md|Shawna Yang Ryan]] — mentioned in this record
+- [[people/charles-yu.md|Charles Yu]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

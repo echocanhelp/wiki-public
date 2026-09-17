@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2018-08-30 — published
 
 ## Subjects
+- [[people/prof-sze-ya-yeh.md|Prof. Sze-ya Yeh]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

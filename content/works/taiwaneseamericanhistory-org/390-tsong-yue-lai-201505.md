@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2015-05-03 — published
 
 ## Subjects
+- [[people/tsong-yue-lai.md|Tsong-Yue Lai]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

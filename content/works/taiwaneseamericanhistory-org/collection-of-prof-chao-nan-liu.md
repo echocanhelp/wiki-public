@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2018-08-07 — published
 
 ## Subjects
+- [[people/chao-nan-liu.md|Chao-Nan Liu]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

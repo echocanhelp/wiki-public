@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-03-23 — published
 
 ## Subjects
+- [[organizations/organization-for-the-support-of-democratic-movement-of-taiwan.md|Organization For The Support of Democratic Movement of Taiwan]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

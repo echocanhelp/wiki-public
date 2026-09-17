@@ -32,6 +32,8 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-02-10 — published
 
 ## Subjects
+- [[organizations/orange-county-taiwanese-association.md|Orange County Taiwanese Association]] — mentioned in this record
+- [[people/g-n-liao.md|廖光男]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

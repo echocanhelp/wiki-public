@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2019-01-12 — published
 
 ## Subjects
+- [[organizations/taiwanese-association-of-greater-portland.md|Taiwanese Association of Greater Portland]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

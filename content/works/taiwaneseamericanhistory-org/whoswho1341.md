@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-10-25 — published
 
 ## Subjects
+- [[people/yih-fu-shiau.md|Yih-Fu Shiau]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

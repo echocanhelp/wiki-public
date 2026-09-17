@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-12-05 — published
 
 ## Subjects
+- [[people/mao-ching-david-huang.md|黃茂清]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

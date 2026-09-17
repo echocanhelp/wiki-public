@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-08-14 — published
 
 ## Subjects
+- [[people/sam-huang.md|Sam Huang]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

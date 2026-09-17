@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2020-10-21 — published
 
 ## Subjects
+- [[people/dr-tso-yee-fan.md|范佐怡博士]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

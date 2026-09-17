@@ -115,6 +115,8 @@ Cosette Wu, the great-granddaughter of Dr. Shih Jiangnan, the second Taiwanese t
 ## Subjects
 - Arts &amp; Culture
 - Interviews
+- [[people/charles-yu.md|Charles Yu]] — mentioned in this record
+- [[people/george-h-kerr.md|George H. Kerr]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

@@ -63,6 +63,10 @@ The Blacklava 20th Anniversary Exhibit, a commemorative art retrospective, runs 
 ## Subjects
 - Community
 - Perspectives
+- [[people/justin-lin.md|Justin Lin]] — mentioned in this record
+- [[people/jeremy-lin.md|Jeremy Lin]] — mentioned in this record
+- [[people/jenny-y-yang.md|Jenny Y Yang]] — mentioned in this record
+- [[organizations/taiwanese-american-students-association.md|Taiwanese American Students Association]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

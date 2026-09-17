@@ -32,6 +32,8 @@ _Bibliographic record only. Full text stays in the vault._
 - 2014-10-12 — published
 
 ## Subjects
+- [[organizations/taiwanese-student-association-for-public-affairs.md|Taiwanese Student Association for Public Affairs]] — mentioned in this record
+- [[organizations/taiwanese-student-association.md|Taiwanese Student Association]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

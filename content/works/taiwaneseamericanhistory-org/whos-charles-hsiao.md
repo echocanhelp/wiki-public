@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-11-09 — published
 
 ## Subjects
+- [[people/charles-hsiao.md|Charles Hsiao]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

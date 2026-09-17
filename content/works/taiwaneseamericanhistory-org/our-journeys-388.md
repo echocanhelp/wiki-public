@@ -83,6 +83,7 @@ Posted on 07/21/2023
 - 2023-07-21 — published
 
 ## Subjects
+- [[people/huey-lin.md|林惠洲]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

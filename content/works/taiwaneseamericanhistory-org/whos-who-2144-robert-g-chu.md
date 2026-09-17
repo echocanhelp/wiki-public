@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2018-07-04 — published
 
 ## Subjects
+- [[people/robert-g-chu.md|Robert G. Chu]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

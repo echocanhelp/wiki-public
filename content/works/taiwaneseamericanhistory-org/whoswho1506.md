@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-02-12 — published
 
 ## Subjects
+- [[people/hsien-ching-ko.md|Hsien-Ching Ko]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

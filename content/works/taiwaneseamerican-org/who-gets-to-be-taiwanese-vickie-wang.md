@@ -99,6 +99,8 @@ She is currently working on a memoir on Taiwanese identity, shaped by her experi
 ## Subjects
 - Perspectives
 - Social/Politics
+- [[people/jenny-y-yang.md|Jenny Y Yang]] — mentioned in this record
+- [[organizations/democratic-progressive-party.md|Democratic Progressive Party]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

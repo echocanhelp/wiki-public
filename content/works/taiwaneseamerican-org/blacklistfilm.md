@@ -48,6 +48,8 @@ Christina Hu is a Certified Community Producer with BRIC, and finds her inspirat
 - Featured
 - Perspectives
 - Social/Politics
+- [[people/patrick-huang.md|Patrick Huang]] — mentioned in this record
+- [[people/christina-hu.md|Christina Hu]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

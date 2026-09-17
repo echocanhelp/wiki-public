@@ -28,6 +28,7 @@ _Bibliographic record only. Full text stays in the vault (copyright)._
 ## Subjects
 - [[works/taiwaneseamerican-org/syr-tour||GREEN ISLAND Author Shawna Yang Ryan on Tour]]
 - [[organizations/taiwanese-american-historical-society||TAHS]]
+- [[people/shawna-yang-ryan.md|Shawna Yang Ryan]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

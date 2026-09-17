@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2019-03-24 — published
 
 ## Subjects
+- [[organizations/fapa-orange-county.md|Formosan Association for Public Affairs Orange County]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2015-11-17 — published
 
 ## Subjects
+- [[people/shun-dar-lin.md|林舜達]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

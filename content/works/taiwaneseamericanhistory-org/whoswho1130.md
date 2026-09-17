@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-07-10 — published
 
 ## Subjects
+- [[people/s-l-lin.md|林幸隆]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

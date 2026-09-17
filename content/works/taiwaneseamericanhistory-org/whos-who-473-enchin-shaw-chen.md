@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2015-06-30 — published
 
 ## Subjects
+- [[people/enchin-shaw-chen.md|Enchin Shaw Chen]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

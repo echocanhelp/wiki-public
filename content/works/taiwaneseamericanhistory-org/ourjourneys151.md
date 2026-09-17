@@ -60,6 +60,7 @@ Taiwan’s Food Stand 台灣美食攤, 2013
 
 ## Subjects
 - [[people/chungchin-chen|陳仲欽]]
+- [[people/chungchin-chen.md|陳仲欽]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

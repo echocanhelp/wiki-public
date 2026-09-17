@@ -56,6 +56,8 @@ Posted in 03/2016
 - [[organizations/taiwanese-association-of-america|Taiwanese Association of America (全美台灣同鄉會)]]
 - [[people/joseph-hong|洪茂澤]]
 - [[people/lung-chen|陳隆]]
+- [[organizations/taiwanese-association-of-america.md|Taiwanese Association of America]] — mentioned in this record
+- [[people/joseph-hong.md|洪茂澤]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

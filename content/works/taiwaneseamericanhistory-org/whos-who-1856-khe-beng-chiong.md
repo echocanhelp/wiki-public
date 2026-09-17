@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-08-17 — published
 
 ## Subjects
+- [[people/khe-beng-chiong.md|Khe-Beng Chiong]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

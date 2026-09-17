@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2021-01-27 — published
 
 ## Subjects
+- [[people/katherine-tai.md|Katherine Tai]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

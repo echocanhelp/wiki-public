@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-05-10 — published
 
 ## Subjects
+- [[people/jim-young.md|楊正義]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

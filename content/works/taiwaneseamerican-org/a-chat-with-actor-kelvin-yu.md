@@ -98,6 +98,8 @@ Directed by Gus Van Sant, the lead cast includes Sean Penn, Emile Hirsch, Josh B
 
 ## Subjects
 - Interviews
+- [[people/charles-yu.md|Charles Yu]] — mentioned in this record
+- [[people/kelvin-yu.md|Kelvin Yu]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

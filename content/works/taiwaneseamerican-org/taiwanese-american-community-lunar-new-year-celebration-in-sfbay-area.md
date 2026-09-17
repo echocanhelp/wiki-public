@@ -50,6 +50,7 @@ If you would like to join the “grown ups” program in the dining areas, check
 
 ## Subjects
 - West Coast
+- [[organizations/taiwanese-american-citizens-league.md|Taiwanese American Citizens League]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

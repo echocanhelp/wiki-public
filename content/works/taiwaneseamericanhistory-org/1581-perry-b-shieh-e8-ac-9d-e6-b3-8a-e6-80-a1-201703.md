@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-03-23 — published
 
 ## Subjects
+- [[people/perry-b-shieh.md|Perry B. Shieh]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

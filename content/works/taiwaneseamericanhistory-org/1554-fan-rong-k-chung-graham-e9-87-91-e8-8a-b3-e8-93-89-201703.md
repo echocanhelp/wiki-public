@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-03-17 — published
 
 ## Subjects
+- [[people/fan-rong-k-chung-graham.md|Fan Rong K Chung Graham]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

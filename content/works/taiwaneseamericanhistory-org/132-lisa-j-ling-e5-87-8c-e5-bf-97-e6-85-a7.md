@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2014-12-03 — published
 
 ## Subjects
+- [[people/lisa-j-ling.md|Lisa J. Ling]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

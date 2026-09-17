@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2014-10-12 — published
 
 ## Subjects
+- [[organizations/the-great-new-york-region-oversea-taiwanese-pen-club.md|The Great New York Region-Oversea Taiwanese Pen Club]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

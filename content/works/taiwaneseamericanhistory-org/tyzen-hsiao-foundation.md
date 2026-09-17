@@ -32,6 +32,8 @@ _Bibliographic record only. Full text stays in the vault._
 - 2018-06-11 — published
 
 ## Subjects
+- [[people/tyzen-hsiao.md|Tyzen Hsiao]] — mentioned in this record
+- [[organizations/tyzen-hsiao-foundation.md|Tyzen Hsiao Foundation]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

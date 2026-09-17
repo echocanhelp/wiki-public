@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-03-05 — published
 
 ## Subjects
+- [[people/j-s-liu.md|劉佳欣]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

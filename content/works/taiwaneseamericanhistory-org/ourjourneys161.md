@@ -76,6 +76,15 @@ Cited from the original ([source](https://taiwaneseamericanhistory.org/ourjourne
 - [[people/mei-fun-tsai|吳美芬]]
 - [[people/t-y-ko|柯翠園]]
 - [[people/yang-yuanxun|Yang Yuan-xun]]
+- [[people/yang-yuanxun.md|Yang Yuan-xun]] — mentioned in this record
+- [[people/cheryl-lin-hong.md|林千千]] — mentioned in this record
+- [[people/hui-na-lin.md|賴慧娜]] — mentioned in this record
+- [[people/gin-ru-yeh.md|葉錦如]] — mentioned in this record
+- [[people/julan-jau.md|趙珠蘭]] — mentioned in this record
+- [[people/mei-fun-tsai.md|吳美芬]] — mentioned in this record
+- [[people/t-y-ko.md|柯翠園]] — mentioned in this record
+- [[people/ingrid-tseng.md|曾暎貴]] — mentioned in this record
+- [[people/debra-liu.md|謝金朱]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

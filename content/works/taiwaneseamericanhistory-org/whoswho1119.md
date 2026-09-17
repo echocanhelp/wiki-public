@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-06-25 — published
 
 ## Subjects
+- [[people/nancy-jan.md|Nancy Jan]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

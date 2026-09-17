@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2019-01-10 — published
 
 ## Subjects
+- [[people/emma-chen.md|Emma Chen]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

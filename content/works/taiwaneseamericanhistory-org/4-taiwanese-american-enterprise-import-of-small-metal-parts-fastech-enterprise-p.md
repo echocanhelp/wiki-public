@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2015-01-06 — published
 
 ## Subjects
+- [[people/chong-ming-lee.md|李聰敏]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

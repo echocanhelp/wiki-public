@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2018-08-30 — published
 
 ## Subjects
+- [[people/prof-chin-c-lee.md|Prof. Chin C. Lee]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

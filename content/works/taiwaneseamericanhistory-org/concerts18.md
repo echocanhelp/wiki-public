@@ -407,6 +407,8 @@ EXPLORE
 ## Subjects
 - [[organizations/north-america-taiwanese-womens-association|North America Taiwanese Women’s Association (北美洲臺灣婦女會)]]
 - [[organizations/tah-foundation|TAH Foundation (台美史料中心)]]
+- [[organizations/tah-foundation.md|TAH Foundation]] — mentioned in this record
+- [[organizations/north-america-taiwanese-womens-association.md|North America Taiwanese Women’s Association]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

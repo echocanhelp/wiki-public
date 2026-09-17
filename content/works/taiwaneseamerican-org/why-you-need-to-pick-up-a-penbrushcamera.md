@@ -68,6 +68,7 @@ As an audience, too, we must demand these stories; we must fight for these stori
 
 ## Subjects
 - Perspectives
+- [[people/henry-c-liu.md|Henry C. Liu]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

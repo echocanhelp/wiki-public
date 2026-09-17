@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-11-28 — published
 
 ## Subjects
+- [[people/dr-tsing-fang-chen.md|陳錦芳博士]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

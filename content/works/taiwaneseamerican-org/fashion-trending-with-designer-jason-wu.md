@@ -95,6 +95,9 @@ Edited by Ho Chie Tsai
 ## Subjects
 - Arts &amp; Culture
 - Interviews
+- [[people/ho-chie-tsai.md|Ho Chie Tsai]] — mentioned in this record
+- [[people/jason-wu.md|Jason Wu]] — mentioned in this record
+- [[people/jeremy-lin.md|Jeremy Lin]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

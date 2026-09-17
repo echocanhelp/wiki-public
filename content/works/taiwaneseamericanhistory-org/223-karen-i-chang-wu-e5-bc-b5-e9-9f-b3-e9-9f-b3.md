@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2019-01-20 — published
 
 ## Subjects
+- [[people/karen-i-chang-wu.md|Karen I. Chang Wu]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

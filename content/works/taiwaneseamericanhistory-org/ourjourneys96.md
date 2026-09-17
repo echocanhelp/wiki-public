@@ -54,6 +54,7 @@ Cited from the original ([source](https://taiwaneseamericanhistory.org/ourjourne
 
 ## Subjects
 - [[people/cheng-yan-kao||高成炎]]
+- [[people/cheng-yan-kao.md|高成炎]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

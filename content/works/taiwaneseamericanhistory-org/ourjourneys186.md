@@ -143,6 +143,18 @@ B義務：毎年樂捐。
 - [[people/wu-lipei|Wu Li-pei]]
 - [[people/y-c-hsu-2|許英智]]
 - [[people/y-t-yan|顏裕庭]]
+- [[people/chen-zhefu-xu-chunhui.md|Chen Zhefu & Xu Chunhui]] — mentioned in this record
+- [[people/wang-gui-rong.md|Wang Gui-rong]] — mentioned in this record
+- [[people/charles-ting.md|丁昭昇]] — mentioned in this record
+- [[people/daniel-lin.md|林嘉仁]] — mentioned in this record
+- [[people/charles-chiang.md|江昭儀]] — mentioned in this record
+- [[people/c-b-chien.md|簡錦標]] — mentioned in this record
+- [[people/peter-su.md|蘇國雄]] — mentioned in this record
+- [[people/rev-j-m-hsu.md|許錦銘]] — mentioned in this record
+- [[people/tyzen-hsiao.md|蕭泰然]] — mentioned in this record
+- [[people/james-liang.md|梁政吉]] — mentioned in this record
+- [[people/san-john-huang.md|黃三榮]] — mentioned in this record
+- [[people/julie-chen.md|許春惠]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

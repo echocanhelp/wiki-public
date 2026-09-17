@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-12-22 — published
 
 ## Subjects
+- [[people/fu-mei-wu-chen.md|Fu-Mei Wu Chen]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

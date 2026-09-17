@@ -102,6 +102,7 @@ Link: https://t.co/1zt82gvn8R pic.twitter.com/uSw1v00SAH
 - Featured
 - Perspectives
 - Social/Politics
+- [[people/charles-yu.md|Charles Yu]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

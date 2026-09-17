@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2018-03-17 — published
 
 ## Subjects
+- [[people/prof-chih-chung-yang.md|Prof. Chih-Chung Yang]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

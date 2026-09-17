@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2022-02-24 — published
 
 ## Subjects
+- [[people/j-s-chien.md|簡忠松]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

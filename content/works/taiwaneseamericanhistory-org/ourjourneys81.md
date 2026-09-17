@@ -210,6 +210,18 @@ Mendel教授當時正撰寫「The Politics of Formosan Nationalism台灣民族�
 - [[people/ron-chen||陳榮成]]
 - [[people/ching-chih-chen||陳清池]]
 - [[people/lung-chen||陳隆]]
+- [[people/ho-rui-hsu.md|許和瑞]] — mentioned in this record
+- [[people/wen-chi-chang.md|張文祺]] — mentioned in this record
+- [[people/tah-p-6d8ba3d584.md|王人紀]] — mentioned in this record
+- [[people/dr-grace-wu.md|吳秀惠醫師]] — mentioned in this record
+- [[people/dr-fu-yuan-hsu.md|許富淵]] — mentioned in this record
+- [[people/tzutsai-cheng.md|鄭自才]] — mentioned in this record
+- [[people/strong-chuang.md|莊秋雄]] — mentioned in this record
+- [[people/jin-sheng-jian.md|簡金生]] — mentioned in this record
+- [[people/tah-p-9a69693e1e.md|賴金德]] — mentioned in this record
+- [[people/sin-i-hsiao.md|蕭欣義]] — mentioned in this record
+- [[people/powen-wang.md|王博文]] — mentioned in this record
+- [[people/frank-lai.md|賴文雄]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

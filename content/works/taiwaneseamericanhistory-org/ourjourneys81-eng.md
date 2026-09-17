@@ -260,6 +260,18 @@ Translated from 81.早期(1960〜1970年)威斯康新大學 台灣學生在台�
 - [[people/tzutsai-cheng||Tzutsai Cheng]]
 - [[people/wen-chi-chang||Wen Chi Chang]]
 - [[people/mei-fun-tsai||吳美芬]]
+- [[people/wen-chi-chang.md|Wen Chi Chang]] — mentioned in this record
+- [[people/dr-grace-wu.md|Dr. Grace Wu]] — mentioned in this record
+- [[people/dr-fu-yuan-hsu.md|Dr. Fu Yuan Hsu]] — mentioned in this record
+- [[people/prof-ming-min-peng.md|Prof. Ming Min Peng]] — mentioned in this record
+- [[people/tzutsai-cheng.md|Tzutsai Cheng]] — mentioned in this record
+- [[people/strong-chuang.md|Strong Chuang]] — mentioned in this record
+- [[people/chiu-sen-wang.md|Chiu-Sen Wang]] — mentioned in this record
+- [[people/jin-sheng-jian.md|Jin-Sheng Jian]] — mentioned in this record
+- [[people/c-c-yang.md|C. C. Yang]] — mentioned in this record
+- [[people/sin-i-hsiao.md|Sin-I Hsiao]] — mentioned in this record
+- [[people/powen-wang.md|Powen Wang]] — mentioned in this record
+- [[people/edward-chen.md|Edward Chen]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

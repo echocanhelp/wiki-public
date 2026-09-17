@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2019-06-17 — published
 
 ## Subjects
+- [[people/dr-hong-yen-hsu.md|許鴻源博士]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

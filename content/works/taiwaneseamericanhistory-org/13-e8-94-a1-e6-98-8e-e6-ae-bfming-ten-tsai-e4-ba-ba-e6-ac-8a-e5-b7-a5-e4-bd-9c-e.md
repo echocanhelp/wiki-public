@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-01-20 — published
 
 ## Subjects
+- [[people/ming-ten-dan-tsai.md|蔡明殿]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2018-01-24 — published
 
 ## Subjects
+- [[organizations/san-diego-taiwanese-cultural-association.md|San Diego Taiwanese Cultural Association]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

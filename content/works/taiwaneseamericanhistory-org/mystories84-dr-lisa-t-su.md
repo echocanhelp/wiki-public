@@ -32,6 +32,9 @@ _Bibliographic record only. Full text stays in the vault._
 - 2014-09-05 — published
 
 ## Subjects
+- [[people/lisa-su.md|Lisa T. Su]] — mentioned in this record
+- [[people/henry-tseng.md|曾恆利]] — mentioned in this record
+- [[people/dr-lisa-su.md|蘇姿豐博士]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

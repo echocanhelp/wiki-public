@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-07-17 — published
 
 ## Subjects
+- [[people/kai-chin-chan.md|Kai-Chin Chan]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

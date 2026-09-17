@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-11-14 — published
 
 ## Subjects
+- [[people/shu-yuan-susan-tsay.md|蔡淑媛]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

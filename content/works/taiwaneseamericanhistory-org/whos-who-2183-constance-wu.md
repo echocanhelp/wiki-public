@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2019-05-04 — published
 
 ## Subjects
+- [[people/constance-wu.md|Constance Wu]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-01-31 — published
 
 ## Subjects
+- [[people/liu-hsiung-chuang.md|Liu-Hsiung Chuang]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

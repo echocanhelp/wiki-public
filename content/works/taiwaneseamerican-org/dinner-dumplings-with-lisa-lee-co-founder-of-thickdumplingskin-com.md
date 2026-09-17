@@ -43,6 +43,7 @@ As an emerging and influential leader, we respect and admire the work she’s do
 ## Subjects
 - Interviews
 - Social/Politics
+- [[people/ho-chie-tsai.md|Ho Chie Tsai]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

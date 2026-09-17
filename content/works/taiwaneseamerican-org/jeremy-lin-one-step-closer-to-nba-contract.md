@@ -35,6 +35,7 @@ Best of luck to Jeremy in his quest to become the first Taiwanese American to pl
 
 ## Subjects
 - Perspectives
+- [[people/jeremy-lin.md|Jeremy Lin]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

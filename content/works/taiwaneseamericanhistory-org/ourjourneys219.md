@@ -57,6 +57,8 @@ Posted in 04/2016
 ## Subjects
 - [[people/kin-ko|柯金寅]]
 - [[people/nien-tzu-kuo|郭念慈]]
+- [[people/nien-tzu-kuo.md|郭念慈]] — mentioned in this record
+- [[people/kin-ko.md|柯金寅]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

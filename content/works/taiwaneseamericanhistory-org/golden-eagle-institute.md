@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2015-06-10 — published
 
 ## Subjects
+- [[organizations/golden-eagle-institute.md|Golden Eagle Institute]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

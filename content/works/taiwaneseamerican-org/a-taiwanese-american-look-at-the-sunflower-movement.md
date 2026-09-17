@@ -178,6 +178,7 @@ http://www.nytimes.com/2012/06/23/opinion/why-vincent-chin-matters.html?_r=0
 
 ## Subjects
 - Perspectives
+- [[people/kelly-lin.md|Kelly Lin]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

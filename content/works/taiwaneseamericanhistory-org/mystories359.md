@@ -32,6 +32,8 @@ _Bibliographic record only. Full text stays in the vault._
 - 2015-11-06 — published
 
 ## Subjects
+- [[people/tah-p-3bba902925.md|林忠勝]] — mentioned in this record
+- [[people/richard-lee.md|李正三]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

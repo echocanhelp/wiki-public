@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-01-06 — published
 
 ## Subjects
+- [[people/kenneth-liu.md|劉光道]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

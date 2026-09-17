@@ -57,6 +57,10 @@ When asked how different he thinks his life would have been had he not remained 
 ## Subjects
 - Community
 - Interviews
+- [[people/richard-wang.md|Richard Wang]] — mentioned in this record
+- [[people/jay-chen.md|Jay Chen]] — mentioned in this record
+- [[people/david-chiu.md|David Chiu]] — mentioned in this record
+- [[organizations/taiwanese-american-citizens-league.md|Taiwanese American Citizens League]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

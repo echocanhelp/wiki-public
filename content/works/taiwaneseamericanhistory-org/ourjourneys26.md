@@ -91,6 +91,10 @@ Cited from the original ([source](https://taiwaneseamericanhistory.org/ourjourne
 - [[people/dr-chris-fan||范清亮博士]]
 - [[people/shu-ching-cheng||賴淑卿]]
 - [[people/dr-chiu-shan-chen||陳秋山博士]]
+- [[people/dr-chris-fan.md|范清亮博士]] — mentioned in this record
+- [[people/dr-chiu-shan-chen.md|陳秋山博士]] — mentioned in this record
+- [[people/j-p-lee.md|李金波]] — mentioned in this record
+- [[people/shu-ching-cheng.md|賴淑卿]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-05-12 — published
 
 ## Subjects
+- [[organizations/good-shepherd-taiwanese-presbyterian-church.md|Good Shepherd Taiwanese Presbyterian Church]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

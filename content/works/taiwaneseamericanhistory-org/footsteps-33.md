@@ -32,6 +32,8 @@ _Bibliographic record only. Full text stays in the vault._
 - 2020-08-17 — published
 
 ## Subjects
+- [[people/prof-bernard-travis-lee.md|Prof. Bernard Travis Lee]] — mentioned in this record
+- [[people/emily-lin-lee.md|林榮峰]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

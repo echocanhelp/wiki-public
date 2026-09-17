@@ -52,6 +52,18 @@ Posted in 06/2017
 - [[people/robert-chen]]
 - [[people/simon-cheng]]
 - [[people/yuan-tseh-lee]]
+- [[people/simon-cheng.md|Simon Cheng]] — mentioned in this record
+- [[people/cho-liang-lin.md|林昭亮]] — mentioned in this record
+- [[people/yu-chien-benny-tseng.md|曾宇謙]] — mentioned in this record
+- [[people/meng-chieh-liu.md|劉孟捷]] — mentioned in this record
+- [[people/nai-yuan-hu.md|胡乃元]] — mentioned in this record
+- [[people/tyzen-hsiao.md|蕭泰然]] — mentioned in this record
+- [[people/li-chan-chen-maxham.md|陳麗嬋]] — mentioned in this record
+- [[people/chien-an-chen.md|陳建安]] — mentioned in this record
+- [[people/felix-fan.md|范雅志]] — mentioned in this record
+- [[people/symeon-woo.md|吳西面]] — mentioned in this record
+- [[people/robert-chen.md|陳慕融]] — mentioned in this record
+- [[people/gwhyneth-chen.md|陳毓襄]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

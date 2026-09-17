@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-07-09 — published
 
 ## Subjects
+- [[people/chen-chang-lee.md|Chen Chang Lee]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

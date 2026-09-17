@@ -126,6 +126,7 @@ Vivienne Chang is currently a freshman at Washington University in St. Louis, p
 - Featured
 - Food &amp; Travel
 - Perspectives
+- [[organizations/taiwanese-american-student-association.md|Taiwanese American Student Association]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

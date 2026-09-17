@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2020-03-23 — published
 
 ## Subjects
+- [[people/ruth-yeh.md|Ruth Yeh]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

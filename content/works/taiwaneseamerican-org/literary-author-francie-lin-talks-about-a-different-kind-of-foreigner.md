@@ -123,6 +123,7 @@ D. Lin works in the publishing industry in NYC.
 ## Subjects
 - Arts &amp; Culture
 - Interviews
+- [[people/francie-lin.md|Francie Lin]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

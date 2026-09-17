@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2015-11-27 — published
 
 ## Subjects
+- [[people/tah-p-1c92380779.md|陳樂群]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

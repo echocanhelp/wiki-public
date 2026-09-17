@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2019-06-20 — published
 
 ## Subjects
+- [[people/melvin-chen.md|Melvin Chen]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

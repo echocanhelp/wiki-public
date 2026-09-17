@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2015-12-23 — published
 
 ## Subjects
+- [[people/dr-ya-yen-lee.md|李雅彥醫師]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

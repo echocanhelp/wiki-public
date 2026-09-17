@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-11-13 — published
 
 ## Subjects
+- [[people/tong-liang-larry-chen.md|陳東亮]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

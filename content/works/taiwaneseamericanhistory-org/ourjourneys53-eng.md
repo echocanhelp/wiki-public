@@ -61,6 +61,18 @@ Translated from 53. 台灣會館美夢成真 / 黃美星
 - [[people/ye-ming-wu||Ye-Ming Wu]]
 - [[people/may-sing-chang||黃美星]]
 - [[organizations/taiwanese-american-center-of-northern-california||Taiwanese American Center Of Northern California]]
+- [[people/may-sing-chang.md|May-Sing Chang]] — mentioned in this record
+- [[people/dr-ming-tang-lai.md|Dr. Ming Tang Lai]] — mentioned in this record
+- [[people/jason-wu.md|Jason Wu]] — mentioned in this record
+- [[people/prof-davis-l-s-chang.md|Prof. Davis L. S. Chang]] — mentioned in this record
+- [[people/ye-ming-wu.md|Ye-Ming Wu]] — mentioned in this record
+- [[people/chen-ho-wu.md|Dr. Chen-Ho Wu]] — mentioned in this record
+- [[people/dr-henry-y-wu.md|Dr. Henry Y. Wu]] — mentioned in this record
+- [[people/dr-shinn-sheng-chang.md|Dr. Shinn-Sheng Chang]] — mentioned in this record
+- [[people/l-j-chen.md|L. J. Chen]] — mentioned in this record
+- [[people/dr-ching-c-shir.md|Dr. Ching C. Shir]] — mentioned in this record
+- [[people/chun-chiu.md|Chun Chiu]] — mentioned in this record
+- [[people/david-weng.md|David Weng]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

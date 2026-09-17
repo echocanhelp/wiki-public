@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2018-10-29 — published
 
 ## Subjects
+- [[people/edgar-chun-yi-lin.md|林俊義教授]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

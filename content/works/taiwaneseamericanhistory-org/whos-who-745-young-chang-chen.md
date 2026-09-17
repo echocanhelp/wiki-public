@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2015-12-22 — published
 
 ## Subjects
+- [[people/prof-young-chang-chen.md|Prof. Young-Chang Chen]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

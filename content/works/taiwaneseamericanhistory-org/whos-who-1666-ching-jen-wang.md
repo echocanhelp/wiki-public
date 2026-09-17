@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-05-17 — published
 
 ## Subjects
+- [[people/dr-ching-jen-wang.md|Dr. Ching-Jen Wang]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

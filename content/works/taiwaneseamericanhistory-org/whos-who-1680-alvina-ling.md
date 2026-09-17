@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-05-25 — published
 
 ## Subjects
+- [[people/alvina-ling.md|Alvina Ling]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

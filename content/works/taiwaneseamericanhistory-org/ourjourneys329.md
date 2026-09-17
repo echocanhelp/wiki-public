@@ -71,6 +71,9 @@ Posted in 12/2017
 - 2017-12-11 — published
 
 ## Subjects
+- [[people/wen_chen-chen.md|陳文成教授]] — mentioned in this record
+- [[people/henry-lee.md|李豐隆]] — mentioned in this record
+- [[people/long-rong-mark-kao.md|高龍榮]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

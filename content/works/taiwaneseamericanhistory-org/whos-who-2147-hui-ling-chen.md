@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2018-07-10 — published
 
 ## Subjects
+- [[people/dr-hui-ling-chen.md|Dr. Hui-Ling Chen]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

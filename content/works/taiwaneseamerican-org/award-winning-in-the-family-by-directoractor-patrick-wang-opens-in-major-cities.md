@@ -28,6 +28,7 @@ _Bibliographic record only. Full text stays in the vault (copyright)._
 ## Subjects
 - [[works/taiwaneseamerican-org/award-winning-in-the-family-by-directoractor-patrick-wang-opens-in-major-cities||Award-winning &#8220;In the Family&#8221; by Director/Actor Patrick Wang Opens in Major Cities]]
 - [[organizations/taiwanese-american-historical-society||TAHS]]
+- [[people/patrick-wang.md|Patrick Wang]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

@@ -97,6 +97,13 @@ Translated from 85. 自由的號角-3F之起源/盧主義/2015/01
 - [[people/tom-yang||Tom Yang]]
 - [[people/tsu-yi-jay-loo||Tsu-Yi Jay Loo]]
 - [[people/tsu-yi-jay-loo||盧主義]]
+- [[people/edward-chen.md|Edward Chen]] — mentioned in this record
+- [[people/echo-lin.md|Echo Lin]] — mentioned in this record
+- [[people/grace-lin.md|Grace Lin]] — mentioned in this record
+- [[people/john-lin.md|John Lin]] — mentioned in this record
+- [[people/tom-yang.md|Tom Yang]] — mentioned in this record
+- [[people/george-h-kerr.md|George H. Kerr]] — mentioned in this record
+- [[people/tsu-yi-jay-loo.md|盧主義]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

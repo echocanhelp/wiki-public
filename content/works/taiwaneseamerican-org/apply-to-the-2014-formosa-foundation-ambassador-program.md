@@ -29,6 +29,7 @@ _Bibliographic record only. Full text stays in the vault (copyright)._
 - [[works/taiwaneseamerican-org/apply-to-the-2014-formosa-foundation-ambassador-program||Apply to the 2014 Formosa Foundation Ambassador Program]]
 - [[organizations/formosa-foundation||Formosa Foundation]]
 - [[organizations/taiwanese-american-historical-society||TAHS]]
+- [[organizations/formosa-foundation.md|Formosa Foundation]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

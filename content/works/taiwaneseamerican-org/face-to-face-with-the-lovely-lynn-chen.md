@@ -54,6 +54,7 @@ We’ll randomly select a winner by March 31, 2011. The winner should have a U.S
 
 ## Subjects
 - Interviews
+- [[people/ho-chie-tsai.md|Ho Chie Tsai]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

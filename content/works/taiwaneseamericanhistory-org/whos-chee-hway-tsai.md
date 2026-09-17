@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-11-14 — published
 
 ## Subjects
+- [[people/chee-hway-tsai.md|Chee-Hway Tsai]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

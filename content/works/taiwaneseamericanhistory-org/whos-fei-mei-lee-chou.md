@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2015-12-01 — published
 
 ## Subjects
+- [[people/fei-mei-lee-chou.md|Fei-Mei Lee Chou]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

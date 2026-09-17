@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2015-12-29 — published
 
 ## Subjects
+- [[people/clara-chen.md|劉真真]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

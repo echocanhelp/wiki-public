@@ -85,6 +85,18 @@ Posted in 03/2016
 - [[people/thomas-liu|劉天良]]
 - [[people/ting-yee-wang|王廷宜]]
 - [[people/xie-qingzhi-xie-poyi|Xie Qingzhi & Xie Poyi (謝清志、謝泊怡)]]
+- [[people/xie-qingzhi-xie-poyi.md|Xie Qingzhi & Xie Poyi]] — mentioned in this record
+- [[people/huang-gen-shen.md|Huang Gen-shen]] — mentioned in this record
+- [[people/ho-rui-hsu.md|許和瑞]] — mentioned in this record
+- [[people/charles-chiang.md|江昭儀]] — mentioned in this record
+- [[people/peter-su.md|蘇國雄]] — mentioned in this record
+- [[people/julius-shu-05.md|許清煌]] — mentioned in this record
+- [[people/hui-na-lin.md|賴慧娜]] — mentioned in this record
+- [[people/nick-wu.md|吳仲輝]] — mentioned in this record
+- [[people/eric-wu.md|吳爾融]] — mentioned in this record
+- [[people/thomas-liu.md|劉天良]] — mentioned in this record
+- [[people/mao-ching-david-huang.md|黃茂清]] — mentioned in this record
+- [[people/long-lee.md|李隆吉]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

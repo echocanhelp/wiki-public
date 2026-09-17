@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2015-12-04 — published
 
 ## Subjects
+- [[people/kang-lu-wang.md|王康陸博士]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

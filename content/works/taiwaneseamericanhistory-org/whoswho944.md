@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-04-24 — published
 
 ## Subjects
+- [[people/h-j-andrew-wang.md|王惠鈞]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

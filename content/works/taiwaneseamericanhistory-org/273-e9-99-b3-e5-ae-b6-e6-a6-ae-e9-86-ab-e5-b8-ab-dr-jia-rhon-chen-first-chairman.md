@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-02-10 — published
 
 ## Subjects
+- [[people/dr-jia-rhon-chen.md|陳家榮醫師]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

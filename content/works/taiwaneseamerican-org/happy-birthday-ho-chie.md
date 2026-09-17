@@ -49,6 +49,8 @@ And one more from Pamela, national president of ITASA, the Intercollegiate Taiwa
 ## Subjects
 - Interviews
 - National
+- [[people/ho-chie-tsai.md|Ho Chie Tsai]] — mentioned in this record
+- [[organizations/taiwanese-american-students-association.md|Taiwanese American Students Association]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

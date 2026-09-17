@@ -54,6 +54,8 @@ Posted in 08/2016
 ## Subjects
 - [[people/karen-lin]]
 - [[people/pearl-pi-chu-yang-wu]]
+- [[people/karen-lin.md|Karen Lin]] — mentioned in this record
+- [[people/pearl-pi-chu-yang-wu.md|楊碧珠]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

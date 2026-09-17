@@ -91,6 +91,14 @@ Cited from the original ([source](https://taiwaneseamericanhistory.org/ourjourne
 - [[people/wen_chen-chen||陳文成教授]]
 - [[people/elena-ling||黃美惠]]
 - [[people/kim-lai-huang||黃金來]]
+- [[people/dr-fu-yuan-hsu.md|許富淵]] — mentioned in this record
+- [[people/wen_chen-chen.md|陳文成教授]] — mentioned in this record
+- [[people/elena-ling.md|黃美惠]] — mentioned in this record
+- [[people/yung-hwa-hsu.md|許永華]] — mentioned in this record
+- [[people/kim-lai-huang.md|黃金來]] — mentioned in this record
+- [[people/f-s-shen.md|沈富雄]] — mentioned in this record
+- [[people/maysing-huang.md|楊黃美幸]] — mentioned in this record
+- [[people/stephen-lin.md|林俊提]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

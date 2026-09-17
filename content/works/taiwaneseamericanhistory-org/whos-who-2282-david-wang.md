@@ -32,6 +32,8 @@ _Bibliographic record only. Full text stays in the vault._
 - 2020-07-28 — published
 
 ## Subjects
+- [[people/david-wang.md|David Wang]] — mentioned in this record
+- [[people/david-k-wang.md|David K. Wang]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

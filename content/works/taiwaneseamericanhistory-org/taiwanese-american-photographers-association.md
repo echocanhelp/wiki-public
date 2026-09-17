@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2015-07-31 — published
 
 ## Subjects
+- [[organizations/taiwanese-american-photographers-association.md|Taiwanese American Photographers Association]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

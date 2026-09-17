@@ -69,6 +69,8 @@ Posted in 04/2016
 ## Subjects
 - [[organizations/taiwanese-american-perspectives|Taiwanese American Perspectives]]
 - [[people/thomas-liu|劉天良]]
+- [[people/thomas-liu.md|Thomas Liu]] — mentioned in this record
+- [[organizations/taiwanese-american-perspectives.md|Taiwanese American Perspectives]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-02-18 — published
 
 ## Subjects
+- [[people/gin-ru-yeh.md|葉錦如]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

@@ -64,6 +64,7 @@ Posted in 03/2016
 
 ## Subjects
 - [[people/li-lin-cheng|鄭麗伶]]
+- [[people/li-lin-cheng.md|鄭麗伶]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

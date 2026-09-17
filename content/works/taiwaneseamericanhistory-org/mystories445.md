@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-06-15 — published
 
 ## Subjects
+- [[people/edward-j-s-lin.md|林敬賢]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

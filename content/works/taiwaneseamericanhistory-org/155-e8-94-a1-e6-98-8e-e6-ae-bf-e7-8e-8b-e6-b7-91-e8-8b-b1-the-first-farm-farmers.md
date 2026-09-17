@@ -32,6 +32,8 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-02-10 — published
 
 ## Subjects
+- [[people/ming-ten-dan-tsai.md|蔡明殿]] — mentioned in this record
+- [[people/suing-wang.md|王淑英]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

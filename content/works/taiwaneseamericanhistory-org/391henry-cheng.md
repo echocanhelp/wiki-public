@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2015-05-03 — published
 
 ## Subjects
+- [[people/henry-cheng.md|Henry Cheng]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

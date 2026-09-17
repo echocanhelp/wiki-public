@@ -173,6 +173,18 @@ Cited from the original ([source](https://taiwaneseamericanhistory.org/ourjourne
 - [[people/tah-p-04e87d0c6a||郭雨新]]
 - [[people/cheng-yan-kao||高成炎]]
 - [[people/john-j-y-huang||黃仲義]]
+- [[people/cheng-y-chuang.md|莊承業]] — mentioned in this record
+- [[people/j-z-lee.md|李錦容]] — mentioned in this record
+- [[people/chao-yuh-yang.md|楊朝諭]] — mentioned in this record
+- [[people/cheng-long-tsai.md|蔡正隆博士]] — mentioned in this record
+- [[people/c-c-yang.md|楊朝諄]] — mentioned in this record
+- [[people/tah-p-04e87d0c6a.md|郭雨新]] — mentioned in this record
+- [[people/leon-chang.md|張村樑]] — mentioned in this record
+- [[people/doris-hsieh.md|謝必行]] — mentioned in this record
+- [[people/j-s-chien.md|簡忠松]] — mentioned in this record
+- [[people/dr-mike-kuo.md|郭正光博士]] — mentioned in this record
+- [[people/jien-hua-charles-chuang.md|莊峻華]] — mentioned in this record
+- [[people/john-j-y-huang.md|黃仲義]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

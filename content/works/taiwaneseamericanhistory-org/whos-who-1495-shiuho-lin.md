@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-02-05 — published
 
 ## Subjects
+- [[people/shiuho-lin.md|Shiuho Lin]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

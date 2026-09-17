@@ -86,6 +86,10 @@ Audrey Jean is a Taiwanese American living in the Washington, DC area. She is an
 
 ## Subjects
 - Interviews
+- [[people/chen-shuibian.md|Chen Shui-bian]] — mentioned in this record
+- [[people/peng-ming-min.md|Peng Ming-min]] — mentioned in this record
+- [[people/george-h-kerr.md|George H. Kerr]] — mentioned in this record
+- [[people/coen-blaauw.md|Coen Blaauw]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

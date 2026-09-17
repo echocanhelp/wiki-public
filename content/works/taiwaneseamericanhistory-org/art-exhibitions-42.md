@@ -32,6 +32,8 @@ _Bibliographic record only. Full text stays in the vault._
 - 2019-09-14 — published
 
 ## Subjects
+- [[people/chenhung-chen.md|Chenhung Chen]] — mentioned in this record
+- [[people/echo-lew.md|Echo Lew]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

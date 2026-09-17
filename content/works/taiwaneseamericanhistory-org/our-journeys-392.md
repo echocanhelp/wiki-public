@@ -132,6 +132,12 @@ Posted on 07/31/2024
 
 ## Subjects
 - [[people/rev-martin-c-wang|王成章牧師]]
+- [[people/rev-martin-c-wang.md|王成章牧師]] — mentioned in this record
+- [[people/cheryl-lin-hong.md|林千千]] — mentioned in this record
+- [[people/rev-j-m-hsu.md|許錦銘]] — mentioned in this record
+- [[people/charles-tsai.md|蔡其芳]] — mentioned in this record
+- [[people/dr-franklin-fong-ming-lee.md|李豐明博士]] — mentioned in this record
+- [[people/chiung-hsiung-ou.md|歐炯雄]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

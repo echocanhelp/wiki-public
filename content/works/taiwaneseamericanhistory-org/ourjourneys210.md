@@ -155,6 +155,14 @@ Posted in 03/2016
 - [[people/sing-nan-wang|王幸男]]
 - [[people/stella-landauer|陳翠玉]]
 - [[people/tina-chang|張丁蘭]]
+- [[people/frank-hsieh.md|Frank Hsieh]] — mentioned in this record
+- [[people/chen-shuibian.md|Chen Shui-bian]] — mentioned in this record
+- [[people/kao-chun-ming.md|Rev. Kao Chun-ming]] — mentioned in this record
+- [[people/stella-landauer.md|陳翠玉]] — mentioned in this record
+- [[people/j-z-lee.md|李錦容]] — mentioned in this record
+- [[people/clara-chen.md|劉真真]] — mentioned in this record
+- [[people/tina-chang.md|張丁蘭]] — mentioned in this record
+- [[people/sing-nan-wang.md|王幸男]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

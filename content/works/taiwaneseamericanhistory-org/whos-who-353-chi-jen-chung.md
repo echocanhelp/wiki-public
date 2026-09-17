@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2015-03-24 — published
 
 ## Subjects
+- [[people/chi-jen-christopher-chung.md|Chi-Jen Christopher Chung]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

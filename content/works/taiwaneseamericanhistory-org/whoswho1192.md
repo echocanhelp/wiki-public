@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-07-30 — published
 
 ## Subjects
+- [[people/frankie-woo.md|Frankie Woo]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

@@ -149,6 +149,15 @@ NATPA堅持台灣主權獨立的主張也與後來李登輝總統兩國論和陳
 - [[people/sin-i-hsiao||蕭欣義]]
 - [[people/alan-t-chen||陳清風]]
 - [[people/george-leslie-mackay||馬偕]]
+- [[people/parris-hsu-cheng-chang.md|張旭成]] — mentioned in this record
+- [[people/s-j-lin.md|林宣繼]] — mentioned in this record
+- [[people/arthur-h-wu.md|吳漢南]] — mentioned in this record
+- [[people/alan-t-chen.md|陳清風]] — mentioned in this record
+- [[people/sin-i-hsiao.md|蕭欣義]] — mentioned in this record
+- [[people/wen-yih-sun.md|商文義]] — mentioned in this record
+- [[people/kenneth-chang.md|張學賢]] — mentioned in this record
+- [[people/t-k-lin.md|林宗光]] — mentioned in this record
+- [[people/c-y-tsai.md|蔡嘉寅]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

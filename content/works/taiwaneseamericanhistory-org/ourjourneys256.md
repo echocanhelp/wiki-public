@@ -678,6 +678,15 @@ Posted in 10/2016
 - [[people/rue-lin-hung]]
 - [[people/sim-ti-lim]]
 - [[people/strong-chuang]]
+- [[people/gou-chung-chi.md|紀國鐘]] — mentioned in this record
+- [[people/andre-yang.md|楊基定]] — mentioned in this record
+- [[people/strong-chuang.md|莊秋雄]] — mentioned in this record
+- [[people/heng-liong-lin.md|林興隆]] — mentioned in this record
+- [[people/alan-t-chen.md|陳清風]] — mentioned in this record
+- [[people/rue-lin-hung.md|洪瑞麟]] — mentioned in this record
+- [[people/patrick-huang.md|黃再添]] — mentioned in this record
+- [[people/maysing-huang.md|楊黃美幸]] — mentioned in this record
+- [[people/c-c-lin.md|林振昌]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

@@ -113,6 +113,7 @@ Kristin Chang’s work has been published in Teen Vogue, The Rumpus, The Marg
 ## Subjects
 - Arts &amp; Culture
 - Interviews
+- [[people/shawna-yang-ryan.md|Shawna Yang Ryan]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

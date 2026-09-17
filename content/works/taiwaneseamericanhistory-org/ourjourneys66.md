@@ -84,6 +84,9 @@ Cited from the original ([source](https://taiwaneseamericanhistory.org/ourjourne
 - [[people/maysing-huang||楊黃美幸]]
 - [[people/charles-chiang||江昭儀]]
 - [[people/y-c-hsu-2||許英智]]
+- [[people/charles-chiang.md|江昭儀]] — mentioned in this record
+- [[people/y-c-hsu-2.md|許英智]] — mentioned in this record
+- [[people/maysing-huang.md|楊黃美幸]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

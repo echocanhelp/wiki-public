@@ -84,6 +84,8 @@ Posted in 06/2017
 
 ## Subjects
 - [[organizations/senior-taiwanese-association-of-northern-california]]
+- [[people/tyzen-hsiao.md|蕭泰然]] — mentioned in this record
+- [[people/wen-s-charlie-chern.md|陳文雄博士]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

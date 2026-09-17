@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-01-22 — published
 
 ## Subjects
+- [[people/bach-ying-chun-wu.md|Bach Ying-Chun Wu]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

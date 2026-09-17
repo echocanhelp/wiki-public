@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2014-12-28 — published
 
 ## Subjects
+- [[people/david-chu.md|David Chu]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

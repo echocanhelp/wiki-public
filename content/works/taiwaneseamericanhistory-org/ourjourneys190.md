@@ -42,6 +42,7 @@ Cited from the original ([source](https://taiwaneseamericanhistory.org/ourjourne
 
 ## Subjects
 - [[people/christine-l-yang|林壽英]]
+- [[people/christine-l-yang.md|林壽英]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

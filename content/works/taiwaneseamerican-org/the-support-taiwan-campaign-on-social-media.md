@@ -96,6 +96,7 @@ Through all this, Taiwan has never been part of the People's Republic of China. 
 
 ## Subjects
 - Perspectives
+- [[organizations/democratic-progressive-party.md|Democratic Progressive Party]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

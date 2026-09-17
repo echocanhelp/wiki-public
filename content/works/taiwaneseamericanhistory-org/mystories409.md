@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-03-02 — published
 
 ## Subjects
+- [[people/kenneth-wang.md|王克雄博士]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

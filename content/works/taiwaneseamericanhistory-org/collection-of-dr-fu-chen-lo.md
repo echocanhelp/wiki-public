@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2018-02-21 — published
 
 ## Subjects
+- [[people/dr-fu-chen-lo.md|Dr. Fu-Chen Lo]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

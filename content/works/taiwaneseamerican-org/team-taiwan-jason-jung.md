@@ -67,6 +67,7 @@ J: Favorite Taiwanese food would have to be, 粽子. My Grandma makes them!
 ## Subjects
 - Featured
 - Interviews
+- [[people/jason-jung.md|Jason Jung]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

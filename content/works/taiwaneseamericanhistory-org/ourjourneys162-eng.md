@@ -46,6 +46,10 @@ Excerpt from San Diego Taiwanese American Foundation and Taiwan Center YAM Quart
 - [[organizations/taiwan-american-foundation|Taiwanese American Foundation (TAF)]]
 - [[people/irene-lee|李智惠]]
 - [[people/julie-wong|翁致理]]
+- [[people/julie-wong.md|Julie Wong]] — mentioned in this record
+- [[people/kun-mu-chen.md|Prof. Kun-Mu Chen]] — mentioned in this record
+- [[people/irene-lee.md|Irene Lee]] — mentioned in this record
+- [[organizations/taiwan-american-foundation.md|Taiwanese American Foundation]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

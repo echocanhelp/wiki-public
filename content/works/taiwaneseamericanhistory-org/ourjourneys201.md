@@ -51,6 +51,8 @@ Posted in 03/2016
 ## Subjects
 - [[people/i-y-lin|林一洋醫師]]
 - [[people/prof-gwo-jaw-wang|王國照教授]]
+- [[people/prof-gwo-jaw-wang.md|王國照教授]] — mentioned in this record
+- [[people/i-y-lin.md|林一洋醫師]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

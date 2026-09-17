@@ -56,6 +56,7 @@ Questions? Please contact Jane Huang, Volunteer Coordinator, at Jane.Huang@tap-l
 
 ## Subjects
 - West Coast
+- [[organizations/taiwanese-american-student-association.md|Taiwanese American Student Association]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

@@ -185,6 +185,10 @@ See you on the other side in 2021!
 ## Subjects
 - Community
 - Featured
+- [[people/simon-lin.md|Simon Lin]] — mentioned in this record
+- [[people/tsai-ing-wen.md|Tsai Ing-wen]] — mentioned in this record
+- [[people/alan-yang.md|Alan Yang]] — mentioned in this record
+- [[people/charles-yu.md|Charles Yu]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

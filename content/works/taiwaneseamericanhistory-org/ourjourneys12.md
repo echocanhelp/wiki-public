@@ -112,6 +112,18 @@ Cited from the original ([source](https://taiwaneseamericanhistory.org/ourjourne
 - [[people/chin-ming-chen||陳欽明醫師]]
 - [[people/patrick-huang||黃再添]]
 - [[people/dr-jacob-huang||黃正雅醫師]]
+- [[people/j-y-jackson-ko.md|柯哲洋]] — mentioned in this record
+- [[people/prof-chen-chong-lin.md|林建中教授]] — mentioned in this record
+- [[people/dr-jacob-huang.md|黃正雅醫師]] — mentioned in this record
+- [[people/heng-liong-lin.md|林興隆]] — mentioned in this record
+- [[people/richard-lee.md|李正三]] — mentioned in this record
+- [[people/dr-jung-t-tsai.md|蔡榮聰醫師]] — mentioned in this record
+- [[people/alexander-k-young.md|楊慶安教授]] — mentioned in this record
+- [[people/thomas-tzu-shen-lin.md|林資深博士]] — mentioned in this record
+- [[people/patrick-huang.md|黃再添]] — mentioned in this record
+- [[people/kin-ko.md|柯金寅]] — mentioned in this record
+- [[people/shwu-lih-lin.md|林淑麗]] — mentioned in this record
+- [[people/chin-ming-chen.md|陳欽明醫師]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

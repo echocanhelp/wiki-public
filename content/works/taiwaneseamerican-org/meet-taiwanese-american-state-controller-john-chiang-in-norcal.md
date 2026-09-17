@@ -28,6 +28,7 @@ _Bibliographic record only. Full text stays in the vault (copyright)._
 ## Subjects
 - [[works/taiwaneseamerican-org/meet-taiwanese-american-state-controller-john-chiang-in-norcal||Meet Taiwanese American State Controller John Chiang in NorCal]]
 - [[organizations/taiwanese-american-historical-society||TAHS]]
+- [[people/john-chiang.md|John Chiang]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

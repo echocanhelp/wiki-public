@@ -62,6 +62,8 @@ Taiwanese American 2nd Generation 台美人第二代在美東夏令營 (TANG at 
 ## Subjects
 - [[people/chao-nan-liu|劉照男]]
 - [[people/kin-ko|柯金寅]]
+- [[people/kin-ko.md|柯金寅]] — mentioned in this record
+- [[people/chao-nan-liu.md|劉照男]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

@@ -131,6 +131,11 @@ TAF持續發掘第三代多元種族台美人的需求，並拓展活動以解�
 - [[people/mei-lu|Mei Lu]]
 - [[people/mike-lin|Mike Lin]]
 - [[people/sue-chen|Sue Chen]]
+- [[people/sue-chen.md|Sue Chen]] — mentioned in this record
+- [[people/carol-cho.md|Carol Cho]] — mentioned in this record
+- [[people/jim-t-r-chen.md|Jim T. R. Chen]] — mentioned in this record
+- [[people/mike-lin.md|Mike Lin]] — mentioned in this record
+- [[people/bob-lin.md|林志文]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2015-01-14 — published
 
 ## Subjects
+- [[people/chun-fan-chen.md|Prof. Chun-fan Chen]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

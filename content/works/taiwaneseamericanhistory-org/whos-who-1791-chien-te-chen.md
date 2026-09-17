@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-07-27 — published
 
 ## Subjects
+- [[people/prof-chien-te-chen.md|Prof. Chien-Te Chen]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

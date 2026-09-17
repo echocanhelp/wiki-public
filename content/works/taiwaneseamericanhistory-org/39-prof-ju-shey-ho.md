@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2018-08-22 — published
 
 ## Subjects
+- [[people/prof-ju-shey-ho.md|Prof. Ju-Shey Ho]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

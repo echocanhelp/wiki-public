@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-10-04 — published
 
 ## Subjects
+- [[people/j-z-lee.md|李錦容]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

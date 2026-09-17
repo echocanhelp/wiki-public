@@ -56,6 +56,7 @@ Posted in 09/2020
 
 ## Subjects
 - [[people/li-shun-lu|呂理順]]
+- [[people/li-shun-lu.md|呂理順]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

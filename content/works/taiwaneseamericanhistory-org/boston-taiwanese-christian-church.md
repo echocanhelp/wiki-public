@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-05-16 — published
 
 ## Subjects
+- [[organizations/boston-taiwanese-christian-church.md|Boston Taiwanese Christian Church]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

@@ -62,6 +62,15 @@ Cited from the original ([source](https://taiwaneseamericanhistory.org/ourjourne
 - [[people/symeon-woo|吳西面]]
 - [[people/wang-gui-rong|Wang Gui-rong (王桂榮)]]
 - [[people/yang-jia-you|Charles Yang (楊嘉猷)]]
+- [[people/yang-jia-you.md|Charles Yang]] — mentioned in this record
+- [[people/wang-gui-rong.md|Wang Gui-rong]] — mentioned in this record
+- [[people/roger-tsai.md|Roger Tsai]] — mentioned in this record
+- [[organizations/taiwanese-america-seniors-association-of-southern-california-tasa.md|Taiwanese-America Seniors Association of Southern California TASA]] — mentioned in this record
+- [[people/charles-ting.md|丁昭昇]] — mentioned in this record
+- [[people/raymond-wu.md|吳瑞信]] — mentioned in this record
+- [[people/mao-ching-david-huang.md|黃茂清]] — mentioned in this record
+- [[people/symeon-woo.md|吳西面]] — mentioned in this record
+- [[people/an-su-gao-lai.md|賴高安賜]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

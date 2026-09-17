@@ -70,6 +70,7 @@ To learn more, check out Sheng Wang at his Myspace page.
 
 ## Subjects
 - Interviews
+- [[people/sheng-wang.md|Sheng Wang]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

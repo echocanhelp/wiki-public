@@ -62,6 +62,8 @@ Cited from the original ([source](https://taiwaneseamericanhistory.org/ourjourne
 
 ## Subjects
 - [[organizations/taiwanese-association-of-america-greater-washington|Taiwanese Association of America Greater Washington (華府台灣同鄉會)]]
+- [[organizations/taiwanese-association-of-america-greater-washington.md|Taiwanese Association of America Greater Washington]] — mentioned in this record
+- [[organizations/taiwanese-association-of-america.md|Taiwanese Association of America]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-03-06 — published
 
 ## Subjects
+- [[people/chuang-shien-lu.md|Chuang-Shien Lu]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

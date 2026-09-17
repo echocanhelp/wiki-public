@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-11-05 — published
 
 ## Subjects
+- [[people/haofan-eric-peng.md|彭浩帆]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

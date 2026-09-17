@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-05-28 — published
 
 ## Subjects
+- [[people/diana-y-huang.md|Diana Y Huang]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

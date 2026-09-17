@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2018-09-16 — published
 
 ## Subjects
+- [[people/edward-k-wang.md|Edward K Wang]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

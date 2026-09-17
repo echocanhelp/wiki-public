@@ -32,6 +32,8 @@ _Bibliographic record only. Full text stays in the vault._
 - 2018-04-03 — published
 
 ## Subjects
+- [[people/prof-s-s-huang.md|Prof. S. S. Huang]] — mentioned in this record
+- [[people/s-s-huang.md|S.S. Huang]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

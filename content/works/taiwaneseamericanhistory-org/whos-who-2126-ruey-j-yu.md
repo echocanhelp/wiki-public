@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2018-06-10 — published
 
 ## Subjects
+- [[people/prof-ruey-j-yu.md|Prof. Ruey J. Yu]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2018-06-26 — published
 
 ## Subjects
+- [[organizations/american-citizens-for-taiwan.md|American Citizens for Taiwan]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

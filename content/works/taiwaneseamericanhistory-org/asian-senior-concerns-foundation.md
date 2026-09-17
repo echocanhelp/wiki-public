@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-04-04 — published
 
 ## Subjects
+- [[organizations/asian-senior-concerns-foundation.md|Asian Senior Concerns Foundation]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

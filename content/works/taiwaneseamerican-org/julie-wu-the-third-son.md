@@ -91,6 +91,8 @@ Visit Julie Wu’s author website at http://juliewuauthor.com/
 ## Subjects
 - Arts &amp; Culture
 - Interviews
+- [[people/julie-wu.md|Julie Wu]] — mentioned in this record
+- [[people/george-h-kerr.md|George H. Kerr]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

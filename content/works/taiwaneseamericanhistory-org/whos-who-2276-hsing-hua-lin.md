@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2020-06-10 — published
 
 ## Subjects
+- [[people/dr-hsing-hua-sylvia-lin.md|林杏樺博士]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

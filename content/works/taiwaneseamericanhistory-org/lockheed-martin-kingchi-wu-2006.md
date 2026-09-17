@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2018-03-07 — published
 
 ## Subjects
+- [[people/keng-chi-wu.md|吳耿志]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

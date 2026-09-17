@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-11-22 — published
 
 ## Subjects
+- [[people/coen-blaauw.md|昆布勞]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

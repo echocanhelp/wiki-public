@@ -32,6 +32,8 @@ _Bibliographic record only. Full text stays in the vault._
 - 2014-10-31 — published
 
 ## Subjects
+- [[people/dr-shiching-john-chang.md|Dr. Shiching John Chang]] — mentioned in this record
+- [[people/john-chang.md|John Chang]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

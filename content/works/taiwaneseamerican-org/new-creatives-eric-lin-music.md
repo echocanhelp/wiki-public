@@ -116,6 +116,7 @@ Alyssa Lee served as Johns Hopkins TASA president and is currently leading the T
 - Arts &amp; Culture
 - Community
 - Interviews
+- [[organizations/taiwan-american-foundation.md|Taiwanese American Foundation]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

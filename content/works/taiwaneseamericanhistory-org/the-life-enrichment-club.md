@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-11-23 — published
 
 ## Subjects
+- [[organizations/the-life-enrichment-club.md|The Life Enrichment Club]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

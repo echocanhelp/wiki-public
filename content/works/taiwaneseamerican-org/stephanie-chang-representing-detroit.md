@@ -87,6 +87,9 @@ Amy Liao currently lives and works in Philadelphia. Her t-shirt drawer is filled
 - Featured
 - Social/Politics
 - Spotlight
+- [[people/stephanie-chang.md|Stephanie Chang]] — mentioned in this record
+- [[people/amy-liao.md|Amy Liao]] — mentioned in this record
+- [[organizations/taiwan-american-foundation.md|Taiwanese American Foundation]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

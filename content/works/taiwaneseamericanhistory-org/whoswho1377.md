@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-11-06 — published
 
 ## Subjects
+- [[people/m-j-wang.md|M. J. Wang]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

@@ -219,6 +219,17 @@ Green Island Secrets | Dr. Chung-Chih Li
 ## Subjects
 - Featured
 - Social/Politics
+- [[people/strong-chuang.md|Strong Chuang]] — mentioned in this record
+- [[people/tsuann-kuo.md|Tsuann Kuo]] — mentioned in this record
+- [[people/leona-chen.md|Leona Chen]] — mentioned in this record
+- [[people/josephine-pan.md|Josephine Pan]] — mentioned in this record
+- [[people/tsai-ing-wen.md|Tsai Ing-wen]] — mentioned in this record
+- [[people/milo-thornberry.md|Milo Thornberry]] — mentioned in this record
+- [[people/shawna-yang-ryan.md|Shawna Yang Ryan]] — mentioned in this record
+- [[people/tim-chng.md|Tim Chng]] — mentioned in this record
+- [[people/prof-michi-fu.md|Prof. Michi Fu]] — mentioned in this record
+- [[people/george-h-kerr.md|George H. Kerr]] — mentioned in this record
+- [[organizations/global-taiwan-institute.md|Global Taiwan Institute]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

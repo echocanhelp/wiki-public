@@ -83,6 +83,12 @@ Translated from 252. 續談美洲台灣客家聯合會並簡介北美台灣客�
 - [[people/frank-m-hsu]]
 - [[people/joyce-weng]]
 - [[people/prof-w-s-william-wei]]
+- [[people/joyce-weng.md|Joyce Weng]] — mentioned in this record
+- [[people/frank-m-hsu.md|Frank M. Hsu]] — mentioned in this record
+- [[people/dr-chanchi-lee.md|Dr. Chanchi Lee]] — mentioned in this record
+- [[people/clyde-kiang.md|Clyde Kiang]] — mentioned in this record
+- [[people/edward-j-s-lin.md|Edward J. S. Lin]] — mentioned in this record
+- [[organizations/taiwan-hakka-association-for-public-affairs-in-north-america.md|Taiwan Hakka Association for Public Affairs in North America]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

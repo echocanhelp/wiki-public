@@ -104,6 +104,7 @@ Formosa Quartet
 ## Subjects
 - Arts &amp; Culture
 - Interviews
+- [[people/wayne-lee.md|Wayne Lee]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

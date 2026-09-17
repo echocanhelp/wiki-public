@@ -71,6 +71,14 @@ Posted in 10/2017
 ## Subjects
 - [[organizations/taiwanese-senior-citizen-center|Taiwanese Senior Citizen Center]]
 - [[people/martin-tsai|蔡明峰]]
+- [[organizations/taiwanese-senior-citizen-center.md|Taiwanese Senior Citizen Center]] — mentioned in this record
+- [[people/shiuho-lin.md|林秀合]] — mentioned in this record
+- [[people/emily-lin-lee.md|林榮峰]] — mentioned in this record
+- [[people/tah-p-9078eeef12.md|王惠津]] — mentioned in this record
+- [[people/tah-p-f5d7338384.md|林雅玲]] — mentioned in this record
+- [[people/martin-tsai.md|蔡明峰]] — mentioned in this record
+- [[people/k-d-wang.md|王康德]] — mentioned in this record
+- [[people/tah-p-bebef2fc0f.md|陳炳衡]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

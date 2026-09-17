@@ -97,6 +97,7 @@ My Year of Meats by Ruth Ozeki
 ## Subjects
 - Community
 - Interviews
+- [[people/laura-huang.md|Laura Huang]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

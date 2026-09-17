@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2024-09-27 — published
 
 ## Subjects
+- [[people/zhang-xuanxin.md|Billy Chang]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

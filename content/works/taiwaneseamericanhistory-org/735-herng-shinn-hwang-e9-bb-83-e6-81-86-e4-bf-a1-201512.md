@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2015-12-13 — published
 
 ## Subjects
+- [[people/herng-shinn-hwang.md|Herng-Shinn Hwang]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

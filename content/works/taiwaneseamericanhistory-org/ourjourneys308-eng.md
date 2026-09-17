@@ -44,6 +44,10 @@ Translated from 308. 記休士頓台灣同鄉會起源 / 廖明徵 /08/2017
 - [[organizations/taiwanese-association-of-america]]
 - [[organizations/taiwanese-heritage-society-of-houston]]
 - [[people/dr-ming-cheng-liau]]
+- [[people/dr-sheng-yi-chuang.md|Dr. Sheng-Yi Chuang]] — mentioned in this record
+- [[people/dr-ming-cheng-liau.md|Dr. Ming Cheng Liau]] — mentioned in this record
+- [[organizations/taiwanese-association-of-america.md|Taiwanese Association of America]] — mentioned in this record
+- [[organizations/taiwanese-heritage-society-of-houston.md|Taiwanese Heritage Society of Houston]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

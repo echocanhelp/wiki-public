@@ -32,6 +32,8 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-05-18 — published
 
 ## Subjects
+- [[organizations/taiwanese-american-council-of-greater-new-york.md|Taiwanese American Council of Greater New York]] — mentioned in this record
+- [[organizations/taiwanese-american-council.md|Taiwanese American Council]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

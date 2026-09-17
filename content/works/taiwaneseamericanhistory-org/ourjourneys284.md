@@ -54,6 +54,8 @@ Posted in 05/2017
 - [[people/dr-tsing-fang-chen]]
 - [[people/li-fa-xie]]
 - [[people/prof-shiou-ping-liao]]
+- [[people/prof-shiou-ping-liao.md|廖修平教授]] — mentioned in this record
+- [[people/li-fa-xie.md|謝里法]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

@@ -191,6 +191,12 @@ Translated from 110. 話說 美洲台灣客家社團/王興富/2015/02
 - [[people/w-d-lee||W. D. Lee]]
 - [[organizations/taiwan-hakka-association-for-public-affairs-in-north-america||Taiwan Hakka Association For Public Affairs In North America]]
 - [[organizations/taiwanese-hakka-association-of-the-world||Taiwanese Hakka Association Of The World]]
+- [[people/dr-guei-yun-yang.md|Dr. Guei-Yun Yang]] — mentioned in this record
+- [[people/james-liang.md|James Liang]] — mentioned in this record
+- [[people/prof-davis-l-s-chang.md|Prof. Davis L. S. Chang]] — mentioned in this record
+- [[people/c-c-chung.md|C. C. Chung]] — mentioned in this record
+- [[organizations/taiwan-hakka-association-for-public-affairs-in-north-america.md|Taiwan Hakka Association for Public Affairs in North America]] — mentioned in this record
+- [[organizations/taiwanese-hakka-association-of-the-world.md|Taiwanese Hakka Association of the World]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

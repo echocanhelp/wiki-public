@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-06-24 — published
 
 ## Subjects
+- [[people/dr-sam-shee.md|Dr. Sam Shee]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

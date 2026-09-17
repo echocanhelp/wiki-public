@@ -63,6 +63,15 @@ Formosan Association For Human Rights
 - [[people/ting-yee-wang||王廷宜]]
 - [[people/tah-p-d699884bcd||鄭德和]]
 - [[organizations/formosan-association-for-human-rights||Formosan Association For Human Rights]]
+- [[organizations/taiwan-human-rights-and-culture-association.md|Taiwan Human Rights & Culture Association]] — mentioned in this record
+- [[people/chun-yung-lin.md|林純容]] — mentioned in this record
+- [[people/h-l-hung.md|洪榮隆]] — mentioned in this record
+- [[people/henry-lee.md|李豐隆]] — mentioned in this record
+- [[people/tah-p-d699884bcd.md|鄭德和]] — mentioned in this record
+- [[people/b-michael-yeun.md|楊明昊]] — mentioned in this record
+- [[people/ting-yee-wang.md|王廷宜]] — mentioned in this record
+- [[people/tina-chang.md|張丁蘭]] — mentioned in this record
+- [[people/edward-j-s-lin.md|林敬賢]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

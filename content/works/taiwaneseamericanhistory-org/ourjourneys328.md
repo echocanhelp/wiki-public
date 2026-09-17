@@ -69,6 +69,7 @@ Posted in 12/2017
 - 2017-12-08 — published
 
 ## Subjects
+- [[people/gin-ru-yeh.md|葉錦如]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

@@ -32,6 +32,8 @@ _Bibliographic record only. Full text stays in the vault._
 - 2014-10-16 — published
 
 ## Subjects
+- [[people/nami-yang.md|李淑櫻]] — mentioned in this record
+- [[people/sandra-wright-shen.md|仙杜拉]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

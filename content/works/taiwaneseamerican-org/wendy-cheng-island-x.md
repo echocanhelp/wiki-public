@@ -69,6 +69,7 @@ Wendy Cheng is professor of American studies at Scripps College. She is author o
 - Community
 - Featured
 - Social/Politics
+- [[people/wendy-cheng.md|Wendy Cheng]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-04-29 — published
 
 ## Subjects
+- [[people/tah-p-62fd568361.md|康美珍]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

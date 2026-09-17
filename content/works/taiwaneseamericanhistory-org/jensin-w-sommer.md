@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2020-06-01 — published
 
 ## Subjects
+- [[people/jensin-w-sommer.md|Jensin W. Sommer]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

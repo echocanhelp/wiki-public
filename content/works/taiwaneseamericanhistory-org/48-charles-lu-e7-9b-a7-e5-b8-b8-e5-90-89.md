@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2014-10-04 — published
 
 ## Subjects
+- [[people/charles-lu.md|Charles Lu]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

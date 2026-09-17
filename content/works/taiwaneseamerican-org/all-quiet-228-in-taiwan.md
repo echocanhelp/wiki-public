@@ -79,6 +79,8 @@ Guest writer Joyce Chen is from the Bay Area, California. She was a graduate of 
 - Featured
 - Perspectives
 - Social/Politics
+- [[people/leona-chen.md|Leona Chen]] — mentioned in this record
+- [[organizations/democratic-progressive-party.md|Democratic Progressive Party]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

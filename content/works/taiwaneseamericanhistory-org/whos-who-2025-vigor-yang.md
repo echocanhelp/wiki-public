@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2018-02-12 — published
 
 ## Subjects
+- [[people/prof-vigor-yang.md|Prof. Vigor Yang]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

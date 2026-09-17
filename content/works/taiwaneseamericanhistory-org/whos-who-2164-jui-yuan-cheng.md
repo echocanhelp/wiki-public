@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2018-10-07 — published
 
 ## Subjects
+- [[people/dr-jui-yuan-raymond-cheng.md|鄭瑞源博士]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

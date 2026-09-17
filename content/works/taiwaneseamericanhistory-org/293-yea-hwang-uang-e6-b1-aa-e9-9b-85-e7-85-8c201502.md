@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2015-02-13 — published
 
 ## Subjects
+- [[people/yea-hwang-uang.md|Yea-Hwang Uang]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

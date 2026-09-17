@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-04-19 — published
 
 ## Subjects
+- [[people/brian-hioe.md|Brian Hioe]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

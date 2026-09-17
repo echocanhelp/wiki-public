@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-06-16 — published
 
 ## Subjects
+- [[people/j-y-tsai.md|蔡金裕]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

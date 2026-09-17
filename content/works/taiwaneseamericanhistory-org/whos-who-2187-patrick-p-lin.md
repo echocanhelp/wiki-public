@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2019-05-12 — published
 
 ## Subjects
+- [[people/patrick-p-lin.md|Patrick P. Lin]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

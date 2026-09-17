@@ -103,6 +103,12 @@ Posted in 09/2016
 - [[people/wu-lipei]]
 - [[people/xie-qingzhi-xie-poyi]]
 - [[people/yang-huiqiao]]
+- [[organizations/taiwanese-american-citizens-league.md|Taiwanese American Citizens League]] — mentioned in this record
+- [[people/charles-chiang.md|江昭儀]] — mentioned in this record
+- [[people/raymond-wu.md|吳瑞信]] — mentioned in this record
+- [[people/s-y-huang.md|黃森元]] — mentioned in this record
+- [[people/minlu-chai.md|蔡銘祿]] — mentioned in this record
+- [[people/jin-chyuan-yu.md|游銘泉]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

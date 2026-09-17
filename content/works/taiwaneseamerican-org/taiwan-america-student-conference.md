@@ -101,6 +101,7 @@ http://asiatoday.us/2014/01/first-of-its-kind-student-initiative-to-keep-taiwan-
 ## Subjects
 - Community
 - Interviews
+- [[people/ho-chie-tsai.md|Ho Chie Tsai]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

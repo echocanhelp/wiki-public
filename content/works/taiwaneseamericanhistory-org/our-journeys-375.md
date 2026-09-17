@@ -49,6 +49,7 @@ Cited from the original ([source](https://taiwaneseamericanhistory.org/our-journ
 - 2021-08-17 — published
 
 ## Subjects
+- [[people/chungchin-chen.md|陳仲欽]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

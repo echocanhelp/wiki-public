@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2014-10-12 — published
 
 ## Subjects
+- [[organizations/senior-taiwanese-association-of-northern-california.md|Senior Taiwanese Association of Northern California]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

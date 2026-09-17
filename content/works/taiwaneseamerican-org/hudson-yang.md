@@ -54,6 +54,7 @@ Trailer:
 - Arts &amp; Culture
 - Featured
 - Interviews
+- [[people/jeff-yang.md|Jeff Yang]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

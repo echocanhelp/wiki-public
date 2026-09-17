@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2018-02-06 — published
 
 ## Subjects
+- [[people/dr-patrick-c-chen.md|Dr. Patrick C. Chen]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

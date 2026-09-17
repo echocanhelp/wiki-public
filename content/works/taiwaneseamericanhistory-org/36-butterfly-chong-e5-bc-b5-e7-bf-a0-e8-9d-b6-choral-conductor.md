@@ -36,6 +36,7 @@ Soon after moving to Fairfax, VA in 1998, Butterfly joined the Fairfax Choral So
 
 ## Subjects
 - [[people/butteryfly-chong||張翠蝶]]
+- [[people/butteryfly-chong.md|張翠蝶]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

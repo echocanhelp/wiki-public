@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2020-09-08 — published
 
 ## Subjects
+- [[people/dr-raymond-j-jan.md|Dr. Raymond J. Jan]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

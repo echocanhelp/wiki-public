@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2018-08-16 — published
 
 ## Subjects
+- [[people/prof-wen-hsiung-li.md|Prof. Wen-Hsiung Li]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

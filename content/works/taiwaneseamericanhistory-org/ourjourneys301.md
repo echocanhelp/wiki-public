@@ -155,6 +155,18 @@ Posted in 07/2017
 - [[people/wu-lipei]]
 - [[people/yang-ziqing]]
 - [[people/zoe-huang]]
+- [[people/cho-liang-lin.md|林昭亮]] — mentioned in this record
+- [[people/may-sing-chang.md|黃美星]] — mentioned in this record
+- [[people/nai-yuan-hu.md|胡乃元]] — mentioned in this record
+- [[people/tyzen-hsiao.md|蕭泰然]] — mentioned in this record
+- [[people/ingrid-chun.md|郭雋音]] — mentioned in this record
+- [[people/prof-ming-min-peng.md|彭明敏教授]] — mentioned in this record
+- [[people/li-chan-chen-maxham.md|陳麗嬋]] — mentioned in this record
+- [[people/chien-an-chen.md|陳建安]] — mentioned in this record
+- [[people/ing-hui-lai.md|賴英慧]] — mentioned in this record
+- [[people/marina-lin.md|林淨媺]] — mentioned in this record
+- [[people/fang-yuh-rita-chen.md|陳芳玉]] — mentioned in this record
+- [[people/zoe-huang.md|黃瑞芬]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

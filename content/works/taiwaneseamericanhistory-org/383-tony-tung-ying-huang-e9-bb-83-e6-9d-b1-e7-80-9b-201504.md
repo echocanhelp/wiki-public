@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2015-04-26 — published
 
 ## Subjects
+- [[people/tony-tung-ying-huang.md|Tony Tung-Ying Huang]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

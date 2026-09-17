@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2015-02-10 — published
 
 ## Subjects
+- [[people/mynor-king-wang.md|Mynor King Wang]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2020-04-08 — published
 
 ## Subjects
+- [[people/dr-charles-chiu.md|Dr. Charles Chiu]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

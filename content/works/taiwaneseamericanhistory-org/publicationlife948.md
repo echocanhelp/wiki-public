@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-02-29 — published
 
 ## Subjects
+- [[people/y-t-yan.md|顏裕庭]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

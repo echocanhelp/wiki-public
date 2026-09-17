@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-07-10 — published
 
 ## Subjects
+- [[people/yensan-simon-wang.md|王燕山]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2015-02-17 — published
 
 ## Subjects
+- [[people/dr-tong-y-chen.md|Dr. Tong Y. Chen]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-06-01 — published
 
 ## Subjects
+- [[people/jack-j-jou.md|Jack J. Jou]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

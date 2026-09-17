@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-05-21 — published
 
 ## Subjects
+- [[people/j-c-lin.md|林震泉]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

@@ -29,6 +29,7 @@ _Bibliographic record only. Full text stays in the vault (copyright)._
 - [[works/taiwaneseamerican-org/standup-comedy-performance-with-sheng-wang-in-texas||Standup Comedy Performance with Sheng Wang in Texas]]
 - [[people/sheng-wang||Sheng Wang]]
 - [[organizations/taiwanese-american-historical-society||TAHS]]
+- [[people/sheng-wang.md|Sheng Wang]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

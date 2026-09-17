@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-05-22 — published
 
 ## Subjects
+- [[people/edward-chen.md|Edward Chen]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

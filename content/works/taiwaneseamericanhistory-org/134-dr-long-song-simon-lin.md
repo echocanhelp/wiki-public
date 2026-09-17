@@ -32,6 +32,8 @@ _Bibliographic record only. Full text stays in the vault._
 - 2018-10-09 — published
 
 ## Subjects
+- [[people/dr-long-song-simon-lin.md|Dr. Long Song Simon Lin]] — mentioned in this record
+- [[people/simon-lin.md|Simon Lin]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

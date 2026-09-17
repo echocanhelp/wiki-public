@@ -32,6 +32,8 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-10-31 — published
 
 ## Subjects
+- [[people/tong-liang-larry-chen.md|陳東亮]] — mentioned in this record
+- [[people/tyzen-hsiao.md|蕭泰然]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

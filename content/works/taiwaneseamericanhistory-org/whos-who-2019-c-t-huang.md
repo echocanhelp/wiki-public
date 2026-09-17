@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2018-02-08 — published
 
 ## Subjects
+- [[people/prof-c-t-james-huang.md|黃正德教授]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

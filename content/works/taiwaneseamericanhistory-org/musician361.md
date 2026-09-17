@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-09-11 — published
 
 ## Subjects
+- [[people/si-fei-cheng.md|鄭希暉]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

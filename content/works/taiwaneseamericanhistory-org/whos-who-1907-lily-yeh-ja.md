@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-09-24 — published
 
 ## Subjects
+- [[people/prof-lily-yeh-ja.md|Prof. Lily Yeh Ja]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

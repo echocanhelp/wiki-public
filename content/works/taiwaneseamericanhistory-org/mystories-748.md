@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2020-09-27 — published
 
 ## Subjects
+- [[people/hong-zong-lin.md|林宏容]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

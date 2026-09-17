@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2014-12-19 — published
 
 ## Subjects
+- [[people/edwyn-charles-eddie-huang.md|黄颐銘]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-03-20 — published
 
 ## Subjects
+- [[people/chu-c-falling-star.md|Chu C. Falling-Star]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

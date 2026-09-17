@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2015-02-24 — published
 
 ## Subjects
+- [[people/yi-ming-chen.md|陳怡名]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

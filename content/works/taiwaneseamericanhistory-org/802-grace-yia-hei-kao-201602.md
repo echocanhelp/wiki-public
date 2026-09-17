@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-02-06 — published
 
 ## Subjects
+- [[people/grace-yia-hei-kao.md|Grace Yia-Hei Kao]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2015-10-15 — published
 
 ## Subjects
+- [[organizations/paramitas-foundation.md|Paramitas Foundation]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

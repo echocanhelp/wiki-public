@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2015-02-20 — published
 
 ## Subjects
+- [[organizations/houston-taiwan-institute-for-senior-citizens.md|Houston Taiwan Institute for Senior Citizens]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

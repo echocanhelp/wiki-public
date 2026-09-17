@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2015-12-20 — published
 
 ## Subjects
+- [[people/chuen-mei-lee-fan.md|Chuen-Mei Lee Fan]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

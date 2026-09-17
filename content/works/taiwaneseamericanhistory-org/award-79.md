@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2021-10-11 — published
 
 ## Subjects
+- [[people/jensen-huang.md|Jensen Huang]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

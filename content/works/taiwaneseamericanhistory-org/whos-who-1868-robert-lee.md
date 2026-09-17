@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-08-23 — published
 
 ## Subjects
+- [[people/robert-lee.md|Robert Lee]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

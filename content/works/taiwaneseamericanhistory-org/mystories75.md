@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2014-09-05 — published
 
 ## Subjects
+- [[people/ted-kuo.md|郭來哲博士]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

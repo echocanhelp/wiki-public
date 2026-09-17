@@ -71,6 +71,9 @@ Translated from 310. 伊薩卡臺灣同鄉會的簡介 / 程美希 /08/2017
 ## Subjects
 - [[organizations/taiwanese-association-of-america]]
 - [[people/joseph-h-chen]]
+- [[people/joseph-h-chen.md|Joseph H. Chen]] — mentioned in this record
+- [[people/dr-peter-huang.md|Dr. Peter Huang]] — mentioned in this record
+- [[organizations/taiwanese-association-of-america.md|Taiwanese Association of America]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

@@ -47,6 +47,7 @@ Download the STUF announcement here: ILF Program Announcement 2015
 ## Subjects
 - Community
 - Social/Politics
+- [[people/yi-miao-huang.md|Yi-Miao Huang]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

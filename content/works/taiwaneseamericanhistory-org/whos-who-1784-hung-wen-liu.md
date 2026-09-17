@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-07-27 — published
 
 ## Subjects
+- [[people/prof-hung-wen-ben-liu.md|劉鴻文教授]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

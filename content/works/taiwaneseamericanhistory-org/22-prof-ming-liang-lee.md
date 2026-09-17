@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2018-08-08 — published
 
 ## Subjects
+- [[people/ming-liang-lee.md|Prof. Ming Liang Lee]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

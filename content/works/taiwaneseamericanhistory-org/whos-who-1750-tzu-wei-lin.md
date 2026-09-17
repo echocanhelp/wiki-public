@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-07-09 — published
 
 ## Subjects
+- [[people/tzu-wei-lin.md|林子偉]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

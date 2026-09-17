@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2019-04-01 — published
 
 ## Subjects
+- [[organizations/east-bay-taiwanese-association.md|East Bay Taiwanese Association]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

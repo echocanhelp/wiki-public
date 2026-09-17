@@ -79,6 +79,9 @@ The mission of the Taiwanese-American Religious Study Association Southern Calif
 ## Subjects
 - [[people/prof-tian-min-lin||林天民教授]]
 - [[people/dr-che-yang-huang||黃哲陽醫師]]
+- [[organizations/taiwanese-american-religious-study-association.md|Taiwanese American Religious Study Association]] — mentioned in this record
+- [[people/dr-che-yang-huang.md|黃哲陽醫師]] — mentioned in this record
+- [[people/prof-tian-min-lin.md|林天民教授]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

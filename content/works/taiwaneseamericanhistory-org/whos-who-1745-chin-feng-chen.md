@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-07-06 — published
 
 ## Subjects
+- [[people/chin-feng-chen.md|Chin-Feng Chen]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

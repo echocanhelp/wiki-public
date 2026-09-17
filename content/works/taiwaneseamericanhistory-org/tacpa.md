@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2015-12-20 — published
 
 ## Subjects
+- [[organizations/taiwanese-american-cpa-association-tacpa.md|Taiwanese American CPA Association, TACPA]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

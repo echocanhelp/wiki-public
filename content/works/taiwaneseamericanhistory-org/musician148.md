@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2015-02-03 — published
 
 ## Subjects
+- [[people/yili-hsu.md|Yili Hsu]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

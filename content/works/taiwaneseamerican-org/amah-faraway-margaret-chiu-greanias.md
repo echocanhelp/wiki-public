@@ -89,6 +89,7 @@ Margaret Chiu Greanias is the author of Maximillian Villainous. The daughter of 
 - Arts &amp; Culture
 - Community
 - Interviews
+- [[people/ho-chie-tsai.md|Ho Chie Tsai]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-02-12 — published
 
 ## Subjects
+- [[people/ting-ing-lai-okajima.md|賴騰英]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

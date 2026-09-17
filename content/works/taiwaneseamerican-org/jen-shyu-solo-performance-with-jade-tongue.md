@@ -28,6 +28,7 @@ _Bibliographic record only. Full text stays in the vault (copyright)._
 ## Subjects
 - [[works/taiwaneseamerican-org/jen-shyu-solo-performance-with-jade-tongue||Jen Shyu Solo Performance with Jade Tongue]]
 - [[organizations/taiwanese-american-historical-society||TAHS]]
+- [[people/jen-shyu.md|Jen Shyu]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

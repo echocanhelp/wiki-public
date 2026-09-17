@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2024-06-27 — published
 
 ## Subjects
+- [[people/steven-shih-chen.md|陳士駿]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

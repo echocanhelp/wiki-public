@@ -151,6 +151,18 @@ Posted in 05/2016
 - [[people/tsai-ing-wen|Tsai Ing-wen]]
 - [[people/wang-gui-rong|Wang Gui-rong (王桂榮)]]
 - [[people/yang-yuanxun|Yang Yuan-xun]]
+- [[people/eileen-lin.md|Eileen Lin]] — mentioned in this record
+- [[people/ma-yingjeou.md|Ma Ying-jeou]] — mentioned in this record
+- [[people/peter-chen.md|Peter Chen]] — mentioned in this record
+- [[people/tsai-ing-wen.md|Tsai Ing-wen]] — mentioned in this record
+- [[people/coen-blaauw.md|Coen Blaauw]] — mentioned in this record
+- [[people/yang-yuanxun.md|Yang Yuan-xun]] — mentioned in this record
+- [[people/wang-gui-rong.md|Wang Gui-rong]] — mentioned in this record
+- [[people/masao-s-yu.md|游祥修醫師]] — mentioned in this record
+- [[people/fong-chung-fan.md|樊豐忠]] — mentioned in this record
+- [[people/c-t-lee.md|李青泰]] — mentioned in this record
+- [[people/john-chen.md|陳榮儒]] — mentioned in this record
+- [[people/chiao-jung-wang.md|王巧蓉]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

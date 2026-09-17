@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2015-10-22 — published
 
 ## Subjects
+- [[people/dr-jia-rhon-chen.md|Dr. Jia-Rhon Chen]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

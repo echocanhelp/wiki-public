@@ -38,6 +38,7 @@ Cited from the original ([source](https://taiwaneseamericanhistory.org/ourjourne
 
 ## Subjects
 - [[people/ming-liang-lee||李明亮]]
+- [[people/ming-liang-lee.md|李明亮]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

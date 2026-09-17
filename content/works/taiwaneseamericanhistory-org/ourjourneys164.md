@@ -73,6 +73,8 @@ Cited from the original ([source](https://taiwaneseamericanhistory.org/ourjourne
 ## Subjects
 - [[people/david-chiu|邱信福]]
 - [[people/prof-chin-chu-lin-m-d|林靜竹教授]]
+- [[people/david-chiu.md|邱信福]] — mentioned in this record
+- [[people/prof-chin-chu-lin-m-d.md|林靜竹教授]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

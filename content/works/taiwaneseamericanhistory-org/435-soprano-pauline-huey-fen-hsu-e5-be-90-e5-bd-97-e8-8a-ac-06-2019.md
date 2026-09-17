@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2019-06-21 — published
 
 ## Subjects
+- [[people/pauline-huey-fen-hsu.md|Pauline Huey-Fen Hsu]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

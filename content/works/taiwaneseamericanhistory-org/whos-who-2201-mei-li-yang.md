@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2019-06-23 — published
 
 ## Subjects
+- [[people/mei-li-yang.md|Mei-Li Yang]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

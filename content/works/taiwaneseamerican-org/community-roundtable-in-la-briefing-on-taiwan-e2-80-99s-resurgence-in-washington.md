@@ -58,6 +58,7 @@ Admission is free but seating is limited. Please RSVP to Formosa@formosafoundati
 
 ## Subjects
 - West Coast
+- [[organizations/formosa-foundation.md|Formosa Foundation]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

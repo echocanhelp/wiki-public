@@ -43,6 +43,10 @@ Posted in 11/2016
 ## Subjects
 - [[people/ken-lee]]
 - [[people/wang-shufen]]
+- [[people/sharon-s-hsu.md|許聖美]] — mentioned in this record
+- [[people/k-c-liao.md|廖國仲]] — mentioned in this record
+- [[people/min-mei-chen.md|吳明美]] — mentioned in this record
+- [[people/ken-lee.md|李彥禎]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

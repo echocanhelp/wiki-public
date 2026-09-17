@@ -140,6 +140,18 @@ Posted in 12/2017
 - [[people/sue-chen|Sue Chen]]
 - [[people/william-cho|卓甫良]]
 - [[people/yang-jia-you|Charles Yang]]
+- [[people/charles-huang.md|Charles Huang]] — mentioned in this record
+- [[people/spencer-chen.md|Spencer Chen]] — mentioned in this record
+- [[people/yang-jia-you.md|Charles Yang]] — mentioned in this record
+- [[people/sue-chen.md|Sue Chen]] — mentioned in this record
+- [[people/carol-cho.md|Carol Cho]] — mentioned in this record
+- [[people/jim-t-r-chen.md|Jim T. R. Chen]] — mentioned in this record
+- [[people/mike-lin.md|Mike Lin]] — mentioned in this record
+- [[organizations/taiwan-american-foundation.md|Taiwanese American Foundation]] — mentioned in this record
+- [[people/cheryl-lin-hong.md|林千千]] — mentioned in this record
+- [[people/matthias-c-h-lu.md|盧志華]] — mentioned in this record
+- [[people/william-cho.md|卓甫良]] — mentioned in this record
+- [[people/s-y-chang.md|張信義]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

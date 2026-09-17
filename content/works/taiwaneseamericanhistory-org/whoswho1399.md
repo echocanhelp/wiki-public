@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-11-13 — published
 
 ## Subjects
+- [[people/kathay-rai.md|Kathay Rai]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

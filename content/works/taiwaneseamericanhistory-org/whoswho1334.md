@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-10-22 — published
 
 ## Subjects
+- [[people/rockwell-hsu.md|Rockwell Hsu]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

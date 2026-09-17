@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-03-14 — published
 
 ## Subjects
+- [[people/hsueh-hu-kuo.md|Hsueh-Hu Kuo]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

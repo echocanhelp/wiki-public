@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2018-01-29 — published
 
 ## Subjects
+- [[people/linda-gail-arrigo.md|艾琳達]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

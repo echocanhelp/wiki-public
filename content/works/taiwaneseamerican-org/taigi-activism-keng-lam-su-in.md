@@ -171,6 +171,7 @@ English, No Mandarin: We are painfully aware of the overwhelming dominance of th
 - Featured
 - Interviews
 - Perspectives
+- [[people/jensen-huang.md|Jensen Huang]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

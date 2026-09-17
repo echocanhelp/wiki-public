@@ -132,6 +132,7 @@ Posted in 11/2015
 
 ## Subjects
 - [[organizations/houston-taiwanese-golden-club|Houston Taiwanese Golden Club 樂部 (休士頓台灣清閒俱)]]
+- [[organizations/houston-taiwanese-golden-club.md|Houston Taiwanese Golden Club 樂部]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-07-30 — published
 
 ## Subjects
+- [[people/w-y-chou.md|W. Y. Chou]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

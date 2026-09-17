@@ -89,6 +89,7 @@ Brian Hu is an Associate Professor of TV, Film, and New Media at San Diego State
 ## Subjects
 - Arts &amp; Culture
 - Community
+- [[people/wang-gstpc.md|Brother Wang]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

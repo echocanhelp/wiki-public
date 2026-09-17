@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2015-02-09 — published
 
 ## Subjects
+- [[people/cheng-shen-fang.md|Cheng-Shen Fang]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

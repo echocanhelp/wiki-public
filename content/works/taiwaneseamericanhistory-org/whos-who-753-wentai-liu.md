@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-01-09 — published
 
 ## Subjects
+- [[people/prof-wentai-liu.md|Prof. Wentai Liu]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

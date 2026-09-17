@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2018-10-29 — published
 
 ## Subjects
+- [[people/prof-trong-rong-tsai.md|蔡同榮教授]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

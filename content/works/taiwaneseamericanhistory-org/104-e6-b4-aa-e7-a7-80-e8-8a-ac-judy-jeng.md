@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2014-11-20 — published
 
 ## Subjects
+- [[people/judy-jeng.md|Judy Jeng]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

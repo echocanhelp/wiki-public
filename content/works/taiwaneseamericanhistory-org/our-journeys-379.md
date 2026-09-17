@@ -73,6 +73,12 @@ Cited from the original ([source](https://taiwaneseamericanhistory.org/our-journ
 - 2022-01-26 — published
 
 ## Subjects
+- [[people/cheng-shen-fang.md|范振聲教授]] — mentioned in this record
+- [[people/elena-ling.md|黃美惠]] — mentioned in this record
+- [[people/li-fa-xie.md|謝里法]] — mentioned in this record
+- [[people/ruth-yeh.md|葉李麗貞]] — mentioned in this record
+- [[people/jason-huang.md|黃仁宗]] — mentioned in this record
+- [[people/carol-kuo.md|簡雁齡]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

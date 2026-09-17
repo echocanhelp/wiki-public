@@ -394,6 +394,14 @@ Good Inside: Becoming the Parent You Want to Be, Kennedy, 2022
 
 ## Subjects
 - Parenting Resources
+- [[people/leona-chen.md|Leona Chen]] — mentioned in this record
+- [[people/shawna-yang-ryan.md|Shawna Yang Ryan]] — mentioned in this record
+- [[people/charles-yu.md|Charles Yu]] — mentioned in this record
+- [[people/grace-lin.md|Grace Lin]] — mentioned in this record
+- [[people/wendy-cheng.md|Wendy Cheng]] — mentioned in this record
+- [[people/michelle-kuo.md|Michelle Kuo]] — mentioned in this record
+- [[organizations/taiwanese-american-center-of-northern-california.md|Taiwanese American Center of Northern California]] — mentioned in this record
+- [[organizations/taiwan-american-foundation.md|Taiwanese American Foundation]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

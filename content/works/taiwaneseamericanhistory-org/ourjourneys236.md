@@ -155,6 +155,8 @@ Posted in 08/2016
 ## Subjects
 - [[people/cherng-jia-huang]]
 - [[people/yang-yuanxun]]
+- [[people/dr-long-song-simon-lin.md|林榮松醫師]] — mentioned in this record
+- [[people/sandy-yen.md|莊和子]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

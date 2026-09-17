@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-01-22 — published
 
 ## Subjects
+- [[people/s-c-wu.md|吳西謙]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

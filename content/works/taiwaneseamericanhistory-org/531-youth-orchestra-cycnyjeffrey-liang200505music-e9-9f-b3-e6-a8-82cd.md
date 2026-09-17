@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2015-02-15 — published
 
 ## Subjects
+- [[people/jeffrey-liang.md|Jeffrey Liang]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

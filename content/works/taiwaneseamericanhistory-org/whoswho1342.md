@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-10-25 — published
 
 ## Subjects
+- [[people/sam-s-weng.md|Sam S Weng]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

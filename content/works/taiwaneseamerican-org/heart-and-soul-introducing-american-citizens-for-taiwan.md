@@ -79,6 +79,8 @@ Twitter: @actTaiwan
 ## Subjects
 - Community
 - Interviews
+- [[organizations/formosa-foundation.md|Formosa Foundation]] — mentioned in this record
+- [[organizations/american-citizens-for-taiwan.md|American Citizens for Taiwan]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

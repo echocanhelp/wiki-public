@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-11-04 — published
 
 ## Subjects
+- [[people/hsin-cheng-hsiao.md|Hsin-Cheng Hsiao]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

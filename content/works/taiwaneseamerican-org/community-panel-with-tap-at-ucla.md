@@ -72,6 +72,7 @@ Julie Chao, President at julie.chao@tap-la.org
 
 ## Subjects
 - West Coast
+- [[organizations/taiwanese-american-students-association.md|Taiwanese American Students Association]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

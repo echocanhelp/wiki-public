@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2018-11-19 — published
 
 ## Subjects
+- [[people/james-liang.md|James Liang]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

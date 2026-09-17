@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-01-30 — published
 
 ## Subjects
+- [[people/c-f-liang.md|梁昌夫]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

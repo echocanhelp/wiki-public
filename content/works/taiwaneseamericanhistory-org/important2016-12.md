@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-11-18 — published
 
 ## Subjects
+- [[people/stephanie-chang.md|Stephanie Chang]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-07-14 — published
 
 ## Subjects
+- [[people/c-y-chen.md|C. Y. Chen]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

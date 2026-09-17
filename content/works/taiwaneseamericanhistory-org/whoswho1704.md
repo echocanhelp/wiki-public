@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-06-29 — published
 
 ## Subjects
+- [[people/chi-yi-chen.md|Chi Yi Chen]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

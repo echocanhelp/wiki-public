@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-03-29 — published
 
 ## Subjects
+- [[people/christina-hu.md|Christina Hu]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

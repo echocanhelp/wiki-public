@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2018-02-19 — published
 
 ## Subjects
+- [[people/prof-teh-hui-kao.md|Prof. Teh-Hui Kao]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

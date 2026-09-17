@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-07-07 — published
 
 ## Subjects
+- [[people/prof-cheng-few-lee.md|李正福教授]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

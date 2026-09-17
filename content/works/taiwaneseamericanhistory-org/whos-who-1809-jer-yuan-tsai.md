@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-07-30 — published
 
 ## Subjects
+- [[people/dr-jer-yuan-tsai.md|Dr. Jer-Yuan Tsai]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

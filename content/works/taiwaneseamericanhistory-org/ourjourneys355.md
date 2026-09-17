@@ -56,6 +56,7 @@ Posted in 06/2020
 
 ## Subjects
 - [[people/pearl-pi-chu-yang-wu|楊碧珠]]
+- [[people/pearl-pi-chu-yang-wu.md|楊碧珠]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

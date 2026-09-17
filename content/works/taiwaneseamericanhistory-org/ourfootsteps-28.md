@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2019-04-28 — published
 
 ## Subjects
+- [[people/dr-chao-min-liu.md|Dr. Chao-Min Liu]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

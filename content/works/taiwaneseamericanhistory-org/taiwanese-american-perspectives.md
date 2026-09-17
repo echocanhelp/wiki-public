@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-03-21 — published
 
 ## Subjects
+- [[organizations/taiwanese-american-perspectives.md|Taiwanese American Perspectives]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

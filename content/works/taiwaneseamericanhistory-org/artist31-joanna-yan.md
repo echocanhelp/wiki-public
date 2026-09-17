@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2015-03-03 — published
 
 ## Subjects
+- [[people/joanna-yan.md|Joanna Yan]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

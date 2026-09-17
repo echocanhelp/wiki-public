@@ -32,6 +32,8 @@ _Bibliographic record only. Full text stays in the vault._
 - 2015-10-05 — published
 
 ## Subjects
+- [[organizations/tyzen-hsiao-music-works.md|TYZEN HSIAO MUSIC WORKS]] — mentioned in this record
+- [[people/tyzen-hsiao.md|蕭泰然]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

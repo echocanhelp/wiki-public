@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2021-03-19 — published
 
 ## Subjects
+- [[people/dr-amy-h-kuo.md|郭惠美醫師]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

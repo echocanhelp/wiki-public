@@ -46,6 +46,7 @@ From a Taiwan Country Boy to U.S. Treasury Manager – The Life Journey of Wu-La
 
 ## Subjects
 - [[people/wu-lang-lee||Wu-Lang Lee]]
+- [[people/wu-lang-lee.md|Wu-Lang Lee]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

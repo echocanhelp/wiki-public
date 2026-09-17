@@ -32,6 +32,8 @@ _Bibliographic record only. Full text stays in the vault._
 - 2020-09-24 — published
 
 ## Subjects
+- [[people/kin-ko.md|柯金寅]] — mentioned in this record
+- [[people/bob-cheng.md|鄭寶鼎博士]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

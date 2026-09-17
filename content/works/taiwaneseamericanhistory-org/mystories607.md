@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-11-20 — published
 
 ## Subjects
+- [[people/dr-william-l-ko.md|Dr. William L. Ko]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

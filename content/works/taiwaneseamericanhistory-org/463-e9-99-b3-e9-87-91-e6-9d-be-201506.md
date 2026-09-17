@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2015-06-28 — published
 
 ## Subjects
+- [[people/tah-p-9af7a1ae9e.md|陳金松]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

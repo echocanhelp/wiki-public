@@ -59,6 +59,7 @@ Posted in 05/2018
 - 2018-05-08 — published
 
 ## Subjects
+- [[people/prof-ruey-j-yu.md|Prof. Ruey J. Yu]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

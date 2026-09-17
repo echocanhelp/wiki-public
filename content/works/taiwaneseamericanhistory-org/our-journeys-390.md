@@ -65,6 +65,8 @@ Updated on 12/29/2023
 ## Subjects
 - [[people/dr-hwalin-lee|Dr. Hwalin Lee]]
 - [[people/wendy-cheng|Wendy Cheng]]
+- [[people/wendy-cheng.md|Wendy Cheng]] — mentioned in this record
+- [[people/dr-hwalin-lee.md|Dr. Hwalin Lee]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

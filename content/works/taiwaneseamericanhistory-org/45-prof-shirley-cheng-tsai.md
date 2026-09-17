@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2018-08-24 — published
 
 ## Subjects
+- [[people/prof-shirley-cheng-tsai.md|Prof. Shirley Cheng Tsai]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

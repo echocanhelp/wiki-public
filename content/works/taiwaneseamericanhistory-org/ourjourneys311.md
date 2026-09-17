@@ -124,6 +124,14 @@ Posted in 09/2017
 - [[people/tah-p-6f52d6733e]]
 - [[people/william-h-lee]]
 - [[people/yang-yuanxun]]
+- [[organizations/taiwanese-american-cultural-society-of-the-capital-district.md|Taiwanese American Cultural Society of the Capital District]] — mentioned in this record
+- [[people/c-b-chien.md|簡錦標]] — mentioned in this record
+- [[people/jaw-sy-chen.md|陳昭司]] — mentioned in this record
+- [[people/tah-p-6f52d6733e.md|劉永斌]] — mentioned in this record
+- [[people/ching-yung-lee.md|李慶榮]] — mentioned in this record
+- [[people/david-taka-yo.md|楊兆隆]] — mentioned in this record
+- [[people/chungchin-chen.md|陳仲欽]] — mentioned in this record
+- [[people/william-h-lee.md|李錫洋]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

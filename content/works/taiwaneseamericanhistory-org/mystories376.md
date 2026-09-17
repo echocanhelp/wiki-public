@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2015-12-15 — published
 
 ## Subjects
+- [[people/shin-ruh-liu.md|劉新祿]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

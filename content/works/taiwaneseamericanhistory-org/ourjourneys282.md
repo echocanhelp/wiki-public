@@ -55,6 +55,7 @@ Posted in 04/2017
 ## Subjects
 - [[people/frank-t-shu]]
 - [[people/professor-schuman-s-tu]]
+- [[people/frank-t-shu.md|許子津]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

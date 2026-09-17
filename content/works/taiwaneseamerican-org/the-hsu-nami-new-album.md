@@ -65,6 +65,7 @@ Facebook page: www.facebook.com/hsunamirock
 ## Subjects
 - Featured
 - Interviews
+- [[people/ho-chie-tsai.md|Ho Chie Tsai]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

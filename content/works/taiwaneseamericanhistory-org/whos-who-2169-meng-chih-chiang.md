@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2018-10-30 — published
 
 ## Subjects
+- [[people/meng-chih-chiang.md|Meng Chih Chiang]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

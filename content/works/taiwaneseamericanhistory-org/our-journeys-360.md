@@ -112,6 +112,9 @@ Posted in 09/2020
 - [[organizations/overseas-community-affairs-council|Overseas Community Affairs Council]]
 - [[people/patsy-fang-chen|Patsy Fang Chen]]
 - [[people/tsai-ing-wen|Tsai Ing-wen]]
+- [[people/tsai-ing-wen.md|Tsai Ing-wen]] — mentioned in this record
+- [[people/patsy-fang-chen.md|Patsy Fang Chen]] — mentioned in this record
+- [[organizations/overseas-community-affairs-council.md|Overseas Community Affairs Council]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

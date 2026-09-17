@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-07-18 — published
 
 ## Subjects
+- [[people/tina-chang.md|Tina Chang]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

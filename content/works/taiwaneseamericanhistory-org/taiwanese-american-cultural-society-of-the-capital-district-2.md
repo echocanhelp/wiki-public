@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-09-15 — published
 
 ## Subjects
+- [[organizations/taiwanese-american-cultural-society-of-the-capital-district.md|Taiwanese American Cultural Society of the Capital District]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

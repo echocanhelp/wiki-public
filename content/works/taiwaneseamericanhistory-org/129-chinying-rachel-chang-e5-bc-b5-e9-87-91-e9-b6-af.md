@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2014-12-01 — published
 
 ## Subjects
+- [[people/chinying-rachel-chang.md|張金鶯]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

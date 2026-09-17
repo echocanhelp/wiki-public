@@ -56,6 +56,7 @@ Posted in 12/2017
 
 ## Subjects
 - [[organizations/tah-foundation|台美史料中心]]
+- [[people/tyzen-hsiao.md|蕭泰然]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

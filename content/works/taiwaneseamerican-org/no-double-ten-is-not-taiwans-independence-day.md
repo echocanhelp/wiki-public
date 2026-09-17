@@ -60,6 +60,9 @@ Chieh-Ting Yeh grew up in Taiwan and New York, and graduated with a BA in Chemis
 - Featured
 - Perspectives
 - Social/Politics
+- [[people/ho-chie-tsai.md|Ho Chie Tsai]] — mentioned in this record
+- [[organizations/democratic-progressive-party.md|Democratic Progressive Party]] — mentioned in this record
+- [[organizations/global-taiwan-institute.md|Global Taiwan Institute]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

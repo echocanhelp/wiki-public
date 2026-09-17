@@ -65,6 +65,14 @@ Posted in 05/2017
 - [[people/nai-yuan-hu]]
 - [[people/tai-cheng-chen]]
 - [[people/xu-zongbang]]
+- [[people/cho-liang-lin.md|林昭亮]] — mentioned in this record
+- [[people/nai-yuan-hu.md|胡乃元]] — mentioned in this record
+- [[people/tyzen-hsiao.md|蕭泰然]] — mentioned in this record
+- [[people/li-chan-chen-maxham.md|陳麗嬋]] — mentioned in this record
+- [[people/li-lin-cheng.md|鄭麗伶]] — mentioned in this record
+- [[people/tah-p-957ce8befb.md|石青如]] — mentioned in this record
+- [[people/keng-s-liang.md|梁耕三]] — mentioned in this record
+- [[people/gwhyneth-chen.md|陳毓襄]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-07-27 — published
 
 ## Subjects
+- [[people/prof-hsing-jien-kung.md|Prof. Hsing-Jien Kung]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

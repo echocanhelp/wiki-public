@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2019-03-15 — published
 
 ## Subjects
+- [[people/ssu-yu-huang.md|Ssu-Yu Huang]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

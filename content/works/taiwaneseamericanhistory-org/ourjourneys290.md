@@ -163,6 +163,15 @@ Posted in 05/2017
 - [[people/tah-p-8c33cb949b]]
 - [[people/thomas-shu]]
 - [[people/tsai-ing-wen]]
+- [[people/frank-m-hsu.md|Frank M. Hsu]] — mentioned in this record
+- [[people/dr-chanchi-lee.md|Dr. Chanchi Lee]] — mentioned in this record
+- [[organizations/taiwan-hakka-association-for-public-affairs-in-north-america.md|Taiwan Hakka Association for Public Affairs in North America]] — mentioned in this record
+- [[people/lindayi-fang-yau.md|劉義芳]] — mentioned in this record
+- [[people/thomas-shu.md|許正龍]] — mentioned in this record
+- [[people/kwei-yang-ben-chang.md|張貴洋]] — mentioned in this record
+- [[people/c-c-chung.md|鍾振乾]] — mentioned in this record
+- [[people/tah-p-8c33cb949b.md|賴江椿]] — mentioned in this record
+- [[people/clyde-kiang.md|江運貴]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

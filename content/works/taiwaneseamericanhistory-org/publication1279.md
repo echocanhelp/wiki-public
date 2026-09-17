@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2019-06-25 — published
 
 ## Subjects
+- [[people/wen-chi-lee.md|李文枝]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

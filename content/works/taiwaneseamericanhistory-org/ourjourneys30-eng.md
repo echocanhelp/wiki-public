@@ -80,6 +80,10 @@ Translated from 30. 西雅圖台灣會館 / 王虹妮 /2014/09
 - [[people/clara-chen||Clara Chen]]
 - [[people/martin-tsai||Martin Tsai]]
 - [[organizations/taiwan-american-foundation||Taiwanese American Foundation]]
+- [[people/agnes-hsiao.md|Agnes Hsiao]] — mentioned in this record
+- [[people/clara-chen.md|Clara Chen]] — mentioned in this record
+- [[people/martin-tsai.md|Martin Tsai]] — mentioned in this record
+- [[organizations/taiwan-american-foundation.md|Taiwanese American Foundation]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

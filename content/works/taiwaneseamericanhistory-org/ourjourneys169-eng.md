@@ -64,6 +64,8 @@ Translated from 18. 威郡台灣婦女會 /2014/09
 
 ## Subjects
 - [[organizations/westchester-taiwanese-womens-associationwtwa|Westchester Taiwanese Women’s Association WTWA (威郡台灣婦女會)]]
+- [[people/dr-fu-tong-hsu.md|Dr. Fu-Tong Hsu]] — mentioned in this record
+- [[organizations/westchester-taiwanese-womens-associationwtwa.md|Westchester Taiwanese Women’s Association WTWA]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

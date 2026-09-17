@@ -28,6 +28,7 @@ _Bibliographic record only. Full text stays in the vault (copyright)._
 ## Subjects
 - [[works/taiwaneseamerican-org/support-hong-chih-kuo-at-dodgers-vs-reds-game-in-la||Support Hong-Chih Kuo at Dodgers vs. Reds Game in LA]]
 - [[organizations/taiwanese-american-historical-society||TAHS]]
+- [[people/hong-chih-kuo.md|Hong-Chih Kuo]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

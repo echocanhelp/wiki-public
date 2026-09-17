@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-07-23 — published
 
 ## Subjects
+- [[people/steven-lin.md|Steven Lin]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

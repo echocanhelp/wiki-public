@@ -88,6 +88,7 @@ This slideshow requires JavaScript.
 - Community
 - Featured
 - Perspectives
+- [[people/dr-peter-tsai.md|Dr. Peter Tsai]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

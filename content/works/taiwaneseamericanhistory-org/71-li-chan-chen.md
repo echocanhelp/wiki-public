@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2018-09-04 — published
 
 ## Subjects
+- [[people/li-chan-chen-maxham.md|Li-Chan Chen-Maxham]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

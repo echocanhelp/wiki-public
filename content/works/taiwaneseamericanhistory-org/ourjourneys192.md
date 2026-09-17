@@ -96,6 +96,11 @@ Source from Los Angeles Times 01/13/2016
 - [[people/lai-ching-te|Lai Ching-te]]
 - [[people/simon-lin|Simon Lin (林榮松)]]
 - [[people/tsai-ing-wen|Tsai Ing-wen]]
+- [[people/lai-ching-te.md|Lai Ching-te]] — mentioned in this record
+- [[people/kenneth-wang.md|Kenneth Wang]] — mentioned in this record
+- [[people/simon-lin.md|Simon Lin]] — mentioned in this record
+- [[people/tsai-ing-wen.md|Tsai Ing-wen]] — mentioned in this record
+- [[organizations/democratic-progressive-party.md|Democratic Progressive Party]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

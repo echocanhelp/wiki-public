@@ -32,6 +32,8 @@ _Bibliographic record only. Full text stays in the vault._
 - 2014-10-20 — published
 
 ## Subjects
+- [[people/grace-lin.md|吳瑞惠]] — mentioned in this record
+- [[people/symeon-woo.md|吳西面]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

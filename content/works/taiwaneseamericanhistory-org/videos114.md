@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2018-08-29 — published
 
 ## Subjects
+- [[people/chen-ming-wang.md|王建民]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2015-07-25 — published
 
 ## Subjects
+- [[people/karen-chia-ling-ho.md|何佳陵]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

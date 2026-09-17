@@ -75,6 +75,7 @@ http://www.facebook.com/seaglasscinema
 ## Subjects
 - Arts &amp; Culture
 - Interviews
+- [[people/nicholas-c-huang.md|Nicholas C. Huang]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-08-06 — published
 
 ## Subjects
+- [[people/li-ying-chang.md|Li-Ying Chang]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

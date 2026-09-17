@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-07-29 — published
 
 ## Subjects
+- [[people/prof-tuan-hua-david-ho.md|賀端華教授]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

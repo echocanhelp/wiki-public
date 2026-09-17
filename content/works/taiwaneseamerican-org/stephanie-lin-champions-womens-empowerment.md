@@ -44,6 +44,8 @@ If you’re near the SF/Bay area, come out and support Stephanie on August 8th. 
 - Community
 - Featured
 - Projects
+- [[people/kevin-lin.md|Kevin Lin]] — mentioned in this record
+- [[people/stephanie-chuang.md|Stephanie Chuang]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

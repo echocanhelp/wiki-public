@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2015-04-30 — published
 
 ## Subjects
+- [[people/ching-jang-yao.md|Ching-Jang Yao]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

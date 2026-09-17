@@ -62,6 +62,7 @@ Posted in 02/2016
 
 ## Subjects
 - [[people/john-chen|陳榮儒]]
+- [[people/john-chen.md|陳榮儒]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

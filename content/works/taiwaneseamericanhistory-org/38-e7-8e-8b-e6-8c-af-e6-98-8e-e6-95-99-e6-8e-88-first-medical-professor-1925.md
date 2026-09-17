@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2015-12-04 — published
 
 ## Subjects
+- [[people/james-david-king.md|王振明]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

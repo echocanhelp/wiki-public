@@ -38,6 +38,10 @@ Did you know that many of our TaiwaneseAmerican.org staff members take a full we
 
 ## Subjects
 - Interviews
+- [[people/karen-lin.md|Karen Lin]] — mentioned in this record
+- [[people/jeff-yang.md|Jeff Yang]] — mentioned in this record
+- [[people/kevin-lee.md|Kevin Lee]] — mentioned in this record
+- [[organizations/taiwan-american-foundation.md|Taiwanese American Foundation]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

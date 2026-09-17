@@ -74,6 +74,7 @@ To learn more about FAPA-YPG, visit their website: ypg.fapa.org or join their Fa
 
 ## Subjects
 - Interviews
+- [[people/jonathan-lee.md|Jonathan Lee]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

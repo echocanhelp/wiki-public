@@ -63,6 +63,10 @@ Translated from 27. 紐約台灣會館: 在困境中更新/鄭家隆/2014/09
 - [[people/fon-may-fan||Fon-May Fan]]
 - [[people/patrick-huang||Patrick Huang]]
 - [[organizations/new-york-taiwan-center||New York Taiwan Center]]
+- [[people/dr-hong-tien-lai.md|Dr. Hong Tien Lai]] — mentioned in this record
+- [[people/patrick-huang.md|Patrick Huang]] — mentioned in this record
+- [[people/dr-lung-fong-chen.md|Dr. Lung-Fong Chen]] — mentioned in this record
+- [[organizations/new-york-taiwan-center.md|New York Taiwan Center]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

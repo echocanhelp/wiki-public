@@ -76,6 +76,14 @@ Translated from 311. 紐約首府區台灣同鄉會及台美文化促進會簡�
 - [[people/david-taka-yo]]
 - [[people/joyce-weng]]
 - [[people/william-h-lee]]
+- [[people/prof-ming-min-peng.md|Prof. Ming Min Peng]] — mentioned in this record
+- [[people/joyce-weng.md|Joyce Weng]] — mentioned in this record
+- [[people/dr-or-hsieh.md|Dr. Or. Hsieh]] — mentioned in this record
+- [[people/dr-fu-tong-hsu.md|Dr. Fu-Tong Hsu]] — mentioned in this record
+- [[people/david-taka-yo.md|David Taka Yo]] — mentioned in this record
+- [[people/chungchin-chen.md|Chungchin Chen]] — mentioned in this record
+- [[people/william-h-lee.md|William H. Lee]] — mentioned in this record
+- [[organizations/taiwanese-american-cultural-society-of-the-capital-district.md|Taiwanese American Cultural Society of the Capital District]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

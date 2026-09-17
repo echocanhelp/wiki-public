@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2018-08-16 — published
 
 ## Subjects
+- [[people/prof-tien-sung-tom-lin.md|Prof. Tien‐Sung Tom Lin]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

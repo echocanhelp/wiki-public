@@ -51,6 +51,7 @@ TaiwaneseAmerican.org, Turtlist Media, Seaglass Cinema, and tafLabs bring togeth
 ## Subjects
 - Arts &amp; Culture
 - Interviews
+- [[people/ho-chie-tsai.md|Ho Chie Tsai]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

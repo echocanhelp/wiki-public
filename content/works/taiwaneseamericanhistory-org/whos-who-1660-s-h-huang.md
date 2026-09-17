@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-05-15 — published
 
 ## Subjects
+- [[people/tah-p-dbd0edebb9.md|黃秀華]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2022-09-24 — published
 
 ## Subjects
+- [[people/sandy-yen.md|莊和子]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

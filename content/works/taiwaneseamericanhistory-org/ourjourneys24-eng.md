@@ -60,6 +60,18 @@ Translated from 24. 北加州台灣會館的誕生/黃美星/2014/09
 - [[people/ye-ming-wu||Ye-Ming Wu]]
 - [[people/may-sing-chang||黃美星]]
 - [[organizations/taiwanese-american-center-of-northern-california||Taiwanese American Center Of Northern California]]
+- [[people/may-sing-chang.md|May-Sing Chang]] — mentioned in this record
+- [[people/chen-shuibian.md|Chen Shui-bian]] — mentioned in this record
+- [[people/simon-lin.md|Simon Lin]] — mentioned in this record
+- [[people/prof-davis-l-s-chang.md|Prof. Davis L. S. Chang]] — mentioned in this record
+- [[people/ye-ming-wu.md|Ye-Ming Wu]] — mentioned in this record
+- [[people/chen-ho-wu.md|Dr. Chen-Ho Wu]] — mentioned in this record
+- [[people/dr-henry-y-wu.md|Dr. Henry Y. Wu]] — mentioned in this record
+- [[people/dr-shinn-sheng-chang.md|Dr. Shinn-Sheng Chang]] — mentioned in this record
+- [[people/chun-chiu.md|Chun Chiu]] — mentioned in this record
+- [[people/david-weng.md|David Weng]] — mentioned in this record
+- [[people/dr-hwalin-lee.md|Dr. Hwalin Lee]] — mentioned in this record
+- [[people/shun-hua-yu.md|Shun Hua Yu]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

@@ -33,6 +33,8 @@ Cited from the original ([source](https://taiwaneseamericanhistory.org/53-george
 - 2015-12-04 — published
 
 ## Subjects
+- [[people/frank-lai.md|賴文雄]] — mentioned in this record
+- [[people/ron-chen.md|陳榮成]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

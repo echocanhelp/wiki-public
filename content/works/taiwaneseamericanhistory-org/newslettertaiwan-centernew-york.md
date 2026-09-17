@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2015-07-28 — published
 
 ## Subjects
+- [[organizations/new-york-taiwan-center.md|New York Taiwan Center]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

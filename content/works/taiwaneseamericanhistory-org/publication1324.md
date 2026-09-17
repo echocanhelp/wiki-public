@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2019-09-08 — published
 
 ## Subjects
+- [[people/jennifer-j-chow.md|Jennifer J. Chow]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

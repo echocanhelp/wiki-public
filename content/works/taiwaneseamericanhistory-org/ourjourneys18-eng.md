@@ -79,6 +79,8 @@ Translated from 18. 威郡台灣婦女會 /2014/09
 ## Subjects
 - [[people/fang-yuh-rita-chen||Fang-Yuh Rita Chen]]
 - [[people/shih-chen-hsu||Shih-Chen Hsu]]
+- [[people/shih-chen-hsu.md|Shih-Chen Hsu]] — mentioned in this record
+- [[people/fang-yuh-rita-chen.md|Fang-Yuh Rita Chen]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

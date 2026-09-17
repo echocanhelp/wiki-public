@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-10-09 — published
 
 ## Subjects
+- [[people/tzann-t-fang.md|Tzann T. Fang]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

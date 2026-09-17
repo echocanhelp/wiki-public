@@ -72,6 +72,11 @@ Posted in 12/2020
 - [[people/linda-gail-arrigo|Linda Gail Arrigo]]
 - [[people/philip-lin|林水泉]]
 - [[people/tsung-ming-hsieh|謝聰敏]]
+- [[people/linda-gail-arrigo.md|Linda Gail Arrigo]] — mentioned in this record
+- [[organizations/democratic-progressive-party.md|Democratic Progressive Party]] — mentioned in this record
+- [[people/philip-lin.md|林水泉]] — mentioned in this record
+- [[people/frank-lai.md|賴文雄]] — mentioned in this record
+- [[people/tsung-ming-hsieh.md|謝聰敏]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

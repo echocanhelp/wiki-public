@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2014-12-14 — published
 
 ## Subjects
+- [[people/sarolina-chang.md|Sarolina Chang]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

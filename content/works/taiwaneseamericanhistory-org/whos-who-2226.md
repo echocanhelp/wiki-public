@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2019-11-11 — published
 
 ## Subjects
+- [[people/jong-tseng-yen-phd.md|Jong-Tseng Yen PhD]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-06-28 — published
 
 ## Subjects
+- [[people/rev-c-l-tong.md|Rev. C. L. Tong]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

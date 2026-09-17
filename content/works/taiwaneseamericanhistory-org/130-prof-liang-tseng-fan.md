@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2018-10-05 — published
 
 ## Subjects
+- [[people/prof-liang-tseng-fan.md|范良政教授]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

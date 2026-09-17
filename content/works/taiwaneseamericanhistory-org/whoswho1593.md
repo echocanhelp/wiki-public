@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-03-31 — published
 
 ## Subjects
+- [[people/ming-jer-kuo.md|Ming Jer Kuo]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

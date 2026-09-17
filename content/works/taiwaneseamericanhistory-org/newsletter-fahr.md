@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-12-05 — published
 
 ## Subjects
+- [[organizations/formosan-association-for-human-rights.md|Formosan Association for Human Rights]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

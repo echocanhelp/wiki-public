@@ -76,6 +76,18 @@ Sourced from Eating Fruit, Worshipping the Tree – Memories from Shutsung Liao�
 - [[organizations/democratic-progressive-party||Democratic Progressive Party]]
 - [[organizations/overseas-community-affairs-council||Overseas Community Affairs Council]]
 - [[organizations/taiwanese-association-of-america||Taiwanese Association Of America]]
+- [[people/prof-shutsung-liao.md|Prof. Shutsung Liao]] — mentioned in this record
+- [[people/frank-hsieh.md|Frank Hsieh]] — mentioned in this record
+- [[people/chen-shuibian.md|Chen Shui-bian]] — mentioned in this record
+- [[people/david-tsay.md|Dr. David Tsay]] — mentioned in this record
+- [[people/dr-robert-y-lai.md|Dr. Robert Y. Lai]] — mentioned in this record
+- [[people/dr-wylie-i-lee.md|Dr. Wylie I. Lee]] — mentioned in this record
+- [[people/kim-lai-huang.md|Kim Lai Huang]] — mentioned in this record
+- [[people/prof-chin-teh-sun.md|Prof. Chin-Teh Sun]] — mentioned in this record
+- [[people/prof-kenneth-k-wu.md|Prof. Kenneth K. Wu]] — mentioned in this record
+- [[people/c-y-tsai.md|C. Y. Tsai]] — mentioned in this record
+- [[people/de-min-wu.md|Prof. De-Min Wu]] — mentioned in this record
+- [[people/fu-mei-chang.md|Dr. Fu-Mei Chang]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

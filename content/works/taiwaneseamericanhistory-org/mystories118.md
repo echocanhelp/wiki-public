@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2014-10-16 — published
 
 ## Subjects
+- [[people/kin-ko.md|柯金寅]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

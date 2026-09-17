@@ -71,6 +71,7 @@ This slideshow requires JavaScript.
 - Arts &amp; Culture
 - Community
 - Interviews
+- [[people/sean-wang.md|Sean Wang]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2021-01-05 — published
 
 ## Subjects
+- [[people/prof-chin-pao-huang.md|Prof. Chin-Pao Huang]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

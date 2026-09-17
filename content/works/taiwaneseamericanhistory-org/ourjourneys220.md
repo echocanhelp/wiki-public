@@ -50,6 +50,7 @@ Posted in 04/2016
 
 ## Subjects
 - [[people/shoki-coe|Dr. Shoki Coe (黃彰輝)]]
+- [[people/shoki-coe.md|Dr. Shoki Coe]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

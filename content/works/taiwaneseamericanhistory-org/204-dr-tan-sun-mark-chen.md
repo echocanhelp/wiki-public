@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2018-12-02 — published
 
 ## Subjects
+- [[people/dr-tan-sun-mark-chen.md|陳唐山博士]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

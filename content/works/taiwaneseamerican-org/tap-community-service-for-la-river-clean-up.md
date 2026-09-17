@@ -76,6 +76,7 @@ This is a FREE event, and we welcome everyone to join us, members and non-member
 
 ## Subjects
 - West Coast
+- [[people/andy-chang.md|Andy Chang]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

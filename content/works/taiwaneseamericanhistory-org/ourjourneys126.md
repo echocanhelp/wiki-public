@@ -180,6 +180,14 @@ UFI的文宣《ILHA FORMOSA》（美麗島）
 - [[people/richard-lee|李正三]]
 - [[people/tah-p-e00ace0a3a|毛清芬]]
 - [[people/tsu-yi-jay-loo|盧主義]]
+- [[people/peng-ming-min.md|Peng Ming-min]] — mentioned in this record
+- [[people/george-h-kerr.md|George H. Kerr]] — mentioned in this record
+- [[organizations/democratic-progressive-party.md|Democratic Progressive Party]] — mentioned in this record
+- [[organizations/taiwanese-association-of-america.md|Taiwanese Association of America]] — mentioned in this record
+- [[organizations/united-formosans-for-independenceufi.md|United Formosans for Independence UFI]] — mentioned in this record
+- [[people/richard-lee.md|李正三]] — mentioned in this record
+- [[people/tah-p-e00ace0a3a.md|毛清芬]] — mentioned in this record
+- [[people/tsu-yi-jay-loo.md|盧主義]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

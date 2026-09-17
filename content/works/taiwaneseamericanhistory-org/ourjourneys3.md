@@ -53,6 +53,8 @@ Cited from the original ([source](https://taiwaneseamericanhistory.org/ourjourne
 ## Subjects
 - [[people/dr-hong-tien-lai||賴弘典醫師]]
 - [[people/fang-yuh-rita-chen||陳芳玉]]
+- [[people/dr-hong-tien-lai.md|賴弘典醫師]] — mentioned in this record
+- [[people/fang-yuh-rita-chen.md|陳芳玉]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

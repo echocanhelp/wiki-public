@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2018-02-13 — published
 
 ## Subjects
+- [[people/dr-tzu-shong-yang.md|Dr. Tzu-Shong Yang]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

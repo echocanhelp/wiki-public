@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-04-24 — published
 
 ## Subjects
+- [[people/chun-yen-chang.md|Chun-Yen Chang]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

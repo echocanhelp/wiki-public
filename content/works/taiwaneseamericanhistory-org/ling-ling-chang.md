@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2020-06-27 — published
 
 ## Subjects
+- [[people/ling-ling-chang.md|Ling Ling Chang]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

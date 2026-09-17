@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2019-05-15 — published
 
 ## Subjects
+- [[people/dr-r-palmer-beasley.md|Dr. R. Palmer Beasley]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

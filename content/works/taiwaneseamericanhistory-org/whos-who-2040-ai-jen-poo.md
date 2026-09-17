@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2018-02-20 — published
 
 ## Subjects
+- [[people/ai-jen-poo.md|蒲艾真]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

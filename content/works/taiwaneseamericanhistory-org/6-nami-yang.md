@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2018-07-31 — published
 
 ## Subjects
+- [[people/nami-yang.md|Nami Yang]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

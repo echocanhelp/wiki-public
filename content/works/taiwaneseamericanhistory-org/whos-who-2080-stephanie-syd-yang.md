@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2018-03-27 — published
 
 ## Subjects
+- [[people/stephanie-syd-yang.md|Stephanie Syd Yang]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

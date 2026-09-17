@@ -97,6 +97,14 @@ Posted 0n 10/19/2021
 - [[people/jin-sheng-jian|簡金生]]
 - [[people/ming-che-lin|林明哲]]
 - [[people/s-j-lin|林宣繼]]
+- [[people/prof-shutsung-liao.md|廖述宗教授]] — mentioned in this record
+- [[people/peter-deng.md|鄧培德]] — mentioned in this record
+- [[people/s-j-lin.md|林宣繼]] — mentioned in this record
+- [[people/jin-sheng-jian.md|簡金生]] — mentioned in this record
+- [[people/jeffrey-lee.md|李友禮]] — mentioned in this record
+- [[people/jim-young.md|楊正義]] — mentioned in this record
+- [[people/ming-che-lin.md|林明哲]] — mentioned in this record
+- [[people/edward-j-s-lin.md|林敬賢]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

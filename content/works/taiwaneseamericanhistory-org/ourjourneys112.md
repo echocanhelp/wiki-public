@@ -58,6 +58,10 @@ Posted in 04/2018
 - [[organizations/tah-foundation|TAH Foundation (台美史料中心)]]
 - [[people/gin-ru-yeh|葉錦如]]
 - [[people/h-f-josephine-huang|黃河芬]]
+- [[people/dr-chao-min-liu.md|Dr. Chao-Min Liu]] — mentioned in this record
+- [[organizations/tah-foundation.md|TAH Foundation]] — mentioned in this record
+- [[people/gin-ru-yeh.md|葉錦如]] — mentioned in this record
+- [[people/h-f-josephine-huang.md|黃河芬]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

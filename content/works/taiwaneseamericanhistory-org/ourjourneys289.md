@@ -74,6 +74,7 @@ Posted in 05/2017
 
 ## Subjects
 - [[people/yi-ming-liu]]
+- [[people/yi-ming-liu.md|劉怡明]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

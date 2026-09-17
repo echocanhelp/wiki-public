@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-03-22 — published
 
 ## Subjects
+- [[people/maggie-hsu.md|Maggie Hsu]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

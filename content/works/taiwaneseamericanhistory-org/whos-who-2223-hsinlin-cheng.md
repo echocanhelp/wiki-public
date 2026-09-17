@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2019-11-06 — published
 
 ## Subjects
+- [[people/dr-hsinlin-cheng.md|Dr. Hsinlin Cheng]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

@@ -131,6 +131,9 @@ Post on 05/18/2022
 - [[organizations/irvine-taiwanese-presbyterian-church|Irvine Taiwanese Presbyterian Church]]
 - [[organizations/presbyterian-church-in-taiwan|Presbyterian Church in Taiwan]]
 - [[people/peggy-huang|Peggy Huang]]
+- [[people/zhang-xuanxin.md|Billy Chang]] — mentioned in this record
+- [[people/peggy-huang.md|Peggy Huang]] — mentioned in this record
+- [[organizations/presbyterian-church-in-taiwan.md|Presbyterian Church in Taiwan]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

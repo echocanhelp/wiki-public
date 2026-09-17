@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2019-11-08 — published
 
 ## Subjects
+- [[people/dr-chun-hsiang-lu.md|Dr. Chun Hsiang Lu]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

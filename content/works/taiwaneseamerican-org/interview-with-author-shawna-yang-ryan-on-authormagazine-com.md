@@ -34,6 +34,7 @@ Born in Sacramento, California, the child of parents who met during the Vietnam 
 
 ## Subjects
 - National
+- [[people/shawna-yang-ryan.md|Shawna Yang Ryan]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

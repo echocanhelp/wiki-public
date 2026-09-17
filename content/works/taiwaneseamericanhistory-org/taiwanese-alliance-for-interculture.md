@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2014-10-12 — published
 
 ## Subjects
+- [[organizations/taiwanese-alliance-for-interculture-southern-california.md|Taiwanese Alliance for Interculture]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

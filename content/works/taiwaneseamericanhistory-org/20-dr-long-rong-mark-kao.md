@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2018-08-08 — published
 
 ## Subjects
+- [[people/long-rong-mark-kao.md|高龍榮]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

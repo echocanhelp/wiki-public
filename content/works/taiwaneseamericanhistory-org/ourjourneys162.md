@@ -78,6 +78,16 @@ Inside the center, people toured the facility and enjoyed sumptuous food. At 3:3
 - [[people/m-s-wu|吳銘賢博士]]
 - [[people/si-zhi-chen|陳泗治]]
 - [[people/tyzen-hsiao|蕭泰然]]
+- [[people/julie-wong.md|Julie Wong]] — mentioned in this record
+- [[people/kun-mu-chen.md|Prof. Kun-Mu Chen]] — mentioned in this record
+- [[people/irene-lee.md|Irene Lee]] — mentioned in this record
+- [[organizations/taiwan-center.md|Taiwan Center Foundation of the Greater Los Angeles]] — mentioned in this record
+- [[people/carol-ou-lin.md|歐春美]] — mentioned in this record
+- [[people/m-s-wu.md|吳銘賢博士]] — mentioned in this record
+- [[people/tyzen-hsiao.md|蕭泰然]] — mentioned in this record
+- [[people/chen-ming-wang.md|王建民]] — mentioned in this record
+- [[people/si-zhi-chen.md|陳泗治]] — mentioned in this record
+- [[people/jinwun-winston-lue.md|呂錦文]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

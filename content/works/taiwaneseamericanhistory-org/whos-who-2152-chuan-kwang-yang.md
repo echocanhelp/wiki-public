@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2018-07-22 — published
 
 ## Subjects
+- [[people/chuan-kwang-yang.md|Chuan-Kwang Yang]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

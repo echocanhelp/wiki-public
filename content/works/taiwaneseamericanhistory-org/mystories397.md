@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-02-02 — published
 
 ## Subjects
+- [[people/ching-yung-lee.md|李慶榮]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

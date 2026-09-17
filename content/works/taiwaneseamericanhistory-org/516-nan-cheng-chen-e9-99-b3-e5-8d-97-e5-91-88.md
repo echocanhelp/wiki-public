@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2015-07-25 — published
 
 ## Subjects
+- [[people/nan-cheng-chen.md|Nan-Cheng Chen]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

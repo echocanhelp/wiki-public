@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2018-04-25 — published
 
 ## Subjects
+- [[people/ted-lieu.md|Ted Lieu]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

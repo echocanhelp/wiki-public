@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-07-24 — published
 
 ## Subjects
+- [[people/charles-ke.md|Charles Ke]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

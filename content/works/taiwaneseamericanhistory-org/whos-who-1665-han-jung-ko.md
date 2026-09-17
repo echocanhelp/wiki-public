@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-05-17 — published
 
 ## Subjects
+- [[people/prof-han-jung-ko.md|Prof. Han-Jung Ko]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

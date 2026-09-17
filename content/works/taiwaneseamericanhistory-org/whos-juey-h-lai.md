@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2015-10-19 — published
 
 ## Subjects
+- [[people/juey-h-lai.md|Juey H. Lai]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

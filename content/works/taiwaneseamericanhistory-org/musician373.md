@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-11-20 — published
 
 ## Subjects
+- [[people/cindy-chen.md|陳欣意]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

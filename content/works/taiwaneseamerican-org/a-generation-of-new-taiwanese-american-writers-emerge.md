@@ -87,6 +87,8 @@ Did you make it this far? If so, you’ve been rewarded with the opportunity to 
 
 ## Subjects
 - Interviews
+- [[people/charles-yu.md|Charles Yu]] — mentioned in this record
+- [[people/grace-lin.md|Grace Lin]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

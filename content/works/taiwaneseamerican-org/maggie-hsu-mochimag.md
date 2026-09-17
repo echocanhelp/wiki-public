@@ -90,6 +90,9 @@ Freakonomics podcast: http://freakonomics.com/2015/05/11/could-the-next-brooklyn
 - Community
 - Featured
 - Interviews
+- [[people/tony-hsieh.md|Tony Hsieh]] — mentioned in this record
+- [[people/maggie-hsu.md|Maggie Hsu]] — mentioned in this record
+- [[organizations/taiwanese-american-students-association.md|Taiwanese American Students Association]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2021-02-17 — published
 
 ## Subjects
+- [[people/c-y-huang.md|黃清燕]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

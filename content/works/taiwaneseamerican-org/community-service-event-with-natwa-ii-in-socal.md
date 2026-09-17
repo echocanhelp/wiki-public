@@ -60,6 +60,8 @@ Visit the NATWA II website here: www.natwa2.org
 
 ## Subjects
 - West Coast
+- [[people/deana-chuang.md|Deana Chuang]] — mentioned in this record
+- [[organizations/north-america-taiwanese-womens-association.md|North America Taiwanese Women’s Association]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

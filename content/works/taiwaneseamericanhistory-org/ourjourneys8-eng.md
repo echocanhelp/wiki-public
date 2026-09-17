@@ -118,6 +118,18 @@ Translated by T.A. Archives, from 8. 陳文成教授紀念基金會成立經過/
 - [[people/kim-lai-huang||黃金來]]
 - [[people/jean-j-fang||黃靜枝]]
 - [[organizations/professor-chen-wen-chen-memorial-foundation||Professor Chen Wen-Chen Memorial Foundation]]
+- [[people/dr-fu-yuan-hsu.md|Dr. Fu Yuan Hsu]] — mentioned in this record
+- [[people/dr-gichiong-khu.md|Dr. Gichiong Khu]] — mentioned in this record
+- [[people/dr-evan-ling.md|Dr. Evan Ling]] — mentioned in this record
+- [[people/cheng-long-tsai.md|Cheng Long Tsai]] — mentioned in this record
+- [[people/dr-cary-s-hung.md|Dr. Cary S. Hung]] — mentioned in this record
+- [[people/fang-ming-chen.md|Fang-Ming Chen]] — mentioned in this record
+- [[people/yung-hwa-hsu.md|Yung Hwa Hsu]] — mentioned in this record
+- [[people/kim-lai-huang.md|Kim Lai Huang]] — mentioned in this record
+- [[people/f-s-shen.md|F.S. Shen]] — mentioned in this record
+- [[people/maysing-huang.md|Maysing Huang]] — mentioned in this record
+- [[people/stephen-lin.md|Stephen Lin]] — mentioned in this record
+- [[organizations/professor-chen-wen-chen-memorial-foundation.md|Professor Chen Wen-Chen Memorial Foundation]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

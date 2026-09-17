@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2015-12-03 — published
 
 ## Subjects
+- [[people/dr-chiung-t-ling.md|林安息]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

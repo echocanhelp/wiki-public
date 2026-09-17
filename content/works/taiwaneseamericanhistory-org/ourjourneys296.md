@@ -219,6 +219,12 @@ Lin, C.D. 林啓東
 - [[people/mark-jong]]
 - [[people/min-kao]]
 - [[people/paul-lin]]
+- [[people/paul-lin.md|Paul Lin]] — mentioned in this record
+- [[people/h-n-tong.md|童海南]] — mentioned in this record
+- [[people/mark-jong.md|鍾茂萃]] — mentioned in this record
+- [[people/jing-wen-yang.md|楊景文]] — mentioned in this record
+- [[people/kim-lai-huang.md|黃金來]] — mentioned in this record
+- [[people/bob-in-yu-yang.md|楊英育]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

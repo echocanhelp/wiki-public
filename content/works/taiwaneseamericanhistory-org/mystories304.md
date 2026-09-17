@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2015-07-13 — published
 
 ## Subjects
+- [[people/chen-ho-wu.md|吳振和博士]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

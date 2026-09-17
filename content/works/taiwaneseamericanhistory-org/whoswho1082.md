@@ -33,6 +33,7 @@ _Bibliographic record only. Full text stays in the vault._
 
 ## Subjects
 - [[people/chun-hsin-jenny|Chun Hsin Jenny (伍君心)]] — subject of this record (absorbed deepen-x 2026-09-14)
+- [[people/chun-hsin-jenny.md|Chun Hsin Jenny]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

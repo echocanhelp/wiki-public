@@ -341,6 +341,18 @@ Irvine 台灣基督長老教會免費提供
 - [[people/c-n-chen||陳建南]]
 - [[people/dr-tong-y-chen||陳東榮醫師]]
 - [[people/ching-chih-chen||陳清池]]
+- [[people/zhang-xuanxin.md|Billy Chang]] — mentioned in this record
+- [[people/nami-yang.md|李淑櫻]] — mentioned in this record
+- [[people/fong-jen-lin.md|林豐仁]] — mentioned in this record
+- [[people/li-ying-shang.md|商麗鶯]] — mentioned in this record
+- [[people/isaiah-lee.md|李宗派教授]] — mentioned in this record
+- [[people/prof-tian-min-lin.md|林天民教授]] — mentioned in this record
+- [[people/paul-lin.md|林水波教授]] — mentioned in this record
+- [[people/jennifer-hung.md|洪錦鈺]] — mentioned in this record
+- [[people/james-hu.md|胡宏仁]] — mentioned in this record
+- [[people/ching-chih-chen.md|陳清池]] — mentioned in this record
+- [[people/dr-tong-y-chen.md|陳東榮醫師]] — mentioned in this record
+- [[people/andy-chang.md|張繼昭博士]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

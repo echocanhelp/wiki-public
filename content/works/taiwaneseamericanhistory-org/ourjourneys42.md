@@ -62,6 +62,9 @@ Cited from the original ([source](https://taiwaneseamericanhistory.org/ourjourne
 - [[people/kin-ko||柯金寅]]
 - [[people/martin-tsai||蔡明峰]]
 - [[people/dr-jung-t-tsai||蔡榮聰醫師]]
+- [[people/dr-jung-t-tsai.md|蔡榮聰醫師]] — mentioned in this record
+- [[people/kin-ko.md|柯金寅]] — mentioned in this record
+- [[people/martin-tsai.md|蔡明峰]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

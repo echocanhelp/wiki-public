@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-08-29 — published
 
 ## Subjects
+- [[people/dr-che-yang-huang.md|Dr. Che-Yang Huang]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

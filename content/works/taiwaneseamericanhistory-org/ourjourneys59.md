@@ -79,6 +79,10 @@ Cited from the original ([source](https://taiwaneseamericanhistory.org/ourjourne
 - [[people/ming-che-lin||林明哲]]
 - [[people/jin-sheng-jian||簡金生]]
 - [[people/philip-s-chen||陳伸夫]]
+- [[people/philip-s-chen.md|陳伸夫]] — mentioned in this record
+- [[people/george-k-liu.md|劉寬平]] — mentioned in this record
+- [[people/jin-sheng-jian.md|簡金生]] — mentioned in this record
+- [[people/ming-che-lin.md|林明哲]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

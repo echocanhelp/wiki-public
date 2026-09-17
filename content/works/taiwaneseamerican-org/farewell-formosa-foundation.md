@@ -64,6 +64,8 @@ Chair, Formosa Foundation, 2007-2016
 ## Subjects
 - Community
 - Social/Politics
+- [[organizations/formosa-foundation.md|Formosa Foundation]] — mentioned in this record
+- [[organizations/global-taiwan-institute.md|Global Taiwan Institute]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

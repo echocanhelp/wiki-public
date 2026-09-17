@@ -167,6 +167,7 @@ http://sankei.jp.msn.com/world/news/111005/chn11100500510000-n1.htm
 ## Subjects
 - East Coast
 - Perspectives
+- [[people/eileen-lin.md|Eileen Lin]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

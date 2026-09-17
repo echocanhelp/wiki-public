@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2020-11-04 — published
 
 ## Subjects
+- [[people/margaretta-wan-ling-lin.md|Margaretta Wan-Ling Lin]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

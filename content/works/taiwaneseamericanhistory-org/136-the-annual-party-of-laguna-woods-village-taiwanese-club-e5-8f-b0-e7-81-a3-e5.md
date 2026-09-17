@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2019-02-23 — published
 
 ## Subjects
+- [[organizations/laguna-woods-village-taiwanese-club.md|Laguna Woods Village Taiwanese Club]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

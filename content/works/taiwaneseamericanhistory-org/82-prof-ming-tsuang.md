@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2018-09-10 — published
 
 ## Subjects
+- [[people/ming-tsuang.md|Ming Tsuang]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

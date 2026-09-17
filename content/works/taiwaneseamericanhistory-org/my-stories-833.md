@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2022-05-11 — published
 
 ## Subjects
+- [[people/chung-h-wu.md|吳忠修]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

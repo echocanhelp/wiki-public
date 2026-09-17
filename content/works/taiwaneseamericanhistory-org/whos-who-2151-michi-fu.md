@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2018-07-19 — published
 
 ## Subjects
+- [[people/prof-michi-fu.md|Prof. Michi Fu]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

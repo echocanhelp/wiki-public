@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2015-08-22 — published
 
 ## Subjects
+- [[people/treya-lam.md|Treya Lam]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

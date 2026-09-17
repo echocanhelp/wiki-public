@@ -66,6 +66,7 @@ I can’t help but feel a certain pride for the inspiring role that she plays in
 - Community
 - Featured
 - Interviews
+- [[people/justine-ker.md|Justine Ker]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

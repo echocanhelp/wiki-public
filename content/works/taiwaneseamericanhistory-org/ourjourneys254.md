@@ -55,6 +55,8 @@ Posted in 10/2016
 ## Subjects
 - [[organizations/center-for-taiwan-international-relations-ctir]]
 - [[organizations/taiwanese-association-of-america]]
+- [[people/stella-landauer.md|陳翠玉]] — mentioned in this record
+- [[people/winston-t-dang.md|陳重信]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

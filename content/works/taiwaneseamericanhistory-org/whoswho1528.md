@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-02-26 — published
 
 ## Subjects
+- [[people/k-s-lin.md|林高山]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

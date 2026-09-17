@@ -109,6 +109,18 @@ Translated from 37. 台灣協志會成立與大事記/紀哲嘉/2014/09
 - [[organizations/taiwanese-alliance-for-interculture-southern-california||Taiwanese Alliance For Interculture]]
 - [[organizations/taiwanese-american-citizens-league||Taiwanese American Citizens League]]
 - [[organizations/taiwanese-association-of-america||Taiwanese Association Of America]]
+- [[people/dr-tu-chen.md|Dr. Tu Chen]] — mentioned in this record
+- [[people/prof-ming-min-peng.md|Prof. Ming Min Peng]] — mentioned in this record
+- [[people/john-pang-yu.md|John Pang Yu]] — mentioned in this record
+- [[people/fang-ming-chen.md|Fang-Ming Chen]] — mentioned in this record
+- [[people/liang-chuan-peng.md|Liang Chuan Peng]] — mentioned in this record
+- [[people/dr-wylie-i-lee.md|Dr. Wylie I. Lee]] — mentioned in this record
+- [[people/dr-shinn-sheng-chang.md|Dr. Shinn-Sheng Chang]] — mentioned in this record
+- [[people/prof-chao-yuan-huang.md|Prof. Chao Yuan Huang]] — mentioned in this record
+- [[people/andrew-y-lee.md|Andrew Y. Lee]] — mentioned in this record
+- [[people/maysing-huang.md|Maysing Huang]] — mentioned in this record
+- [[people/yu-tsai.md|Yu Tsai]] — mentioned in this record
+- [[people/dr-ching-c-shir.md|Dr. Ching C. Shir]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

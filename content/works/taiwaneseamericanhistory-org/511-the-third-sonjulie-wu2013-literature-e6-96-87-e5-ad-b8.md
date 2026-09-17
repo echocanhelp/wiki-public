@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2015-02-07 — published
 
 ## Subjects
+- [[people/julie-wu.md|Julie Wu]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2018-01-08 — published
 
 ## Subjects
+- [[organizations/friends-of-taiwan.md|Friends of Taiwan]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

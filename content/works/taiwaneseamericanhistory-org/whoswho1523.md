@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-02-22 — published
 
 ## Subjects
+- [[people/davy-liu.md|Davy Liu]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

@@ -54,6 +54,8 @@ Posted in 11/2017
 
 ## Subjects
 - [[people/chin-hsin-jason-liu|劉進興]]
+- [[people/hsiu-fang-susan-liu.md|陳秀芳]] — mentioned in this record
+- [[people/chin-hsin-jason-liu.md|劉進興]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

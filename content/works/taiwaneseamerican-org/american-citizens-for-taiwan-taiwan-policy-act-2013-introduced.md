@@ -28,6 +28,7 @@ _Bibliographic record only. Full text stays in the vault (copyright)._
 ## Subjects
 - [[works/taiwaneseamerican-org/american-citizens-for-taiwan-taiwan-policy-act-2013-introduced||American Citizens for Taiwan: Taiwan Policy Act 2013 Introduced]]
 - [[organizations/taiwanese-american-historical-society||TAHS]]
+- [[organizations/american-citizens-for-taiwan.md|American Citizens for Taiwan]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

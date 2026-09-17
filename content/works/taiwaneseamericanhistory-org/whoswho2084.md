@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2018-03-28 — published
 
 ## Subjects
+- [[people/w-c-huang.md|W. C. Huang]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

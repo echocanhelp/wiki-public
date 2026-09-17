@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-08-17 — published
 
 ## Subjects
+- [[people/d-y-liu.md|劉德勇]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

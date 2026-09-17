@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-06-01 — published
 
 ## Subjects
+- [[people/jenny-m-lin-chang.md|Jenny M. Lin Chang]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

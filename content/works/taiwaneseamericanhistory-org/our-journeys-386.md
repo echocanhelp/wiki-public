@@ -74,6 +74,8 @@ Posted on 05/23/2023
 - 2023-05-23 — published
 
 ## Subjects
+- [[people/dr-chiu-shan-chen.md|陳秋山博士]] — mentioned in this record
+- [[people/prof-ping-hui-liao.md|廖炳惠教授]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

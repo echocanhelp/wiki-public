@@ -60,6 +60,7 @@ Cited from the original ([source](https://taiwaneseamericanhistory.org/ourjourne
 
 ## Subjects
 - [[people/john-pang-yu||余金榜]]
+- [[people/john-pang-yu.md|余金榜]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

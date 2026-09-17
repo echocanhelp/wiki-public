@@ -59,6 +59,7 @@ Posted in 04/2020
 - 2020-04-13 — published
 
 ## Subjects
+- [[people/alan-yang.md|楊維榕]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

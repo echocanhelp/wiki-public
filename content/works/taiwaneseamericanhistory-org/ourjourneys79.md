@@ -125,6 +125,14 @@ NATWA婦女信箱 P.O.BOX 257 HOPEDALE, MA 01747 (1991. 3. 18)
 - [[people/chihmei-lin-chen||林智美]]
 - [[people/s-s-huang||黃申生]]
 - [[people/jean-j-fang||黃靜枝]]
+- [[people/chihmei-lin-chen.md|林智美]] — mentioned in this record
+- [[people/j-z-lee.md|李錦容]] — mentioned in this record
+- [[people/jeffrey-lee.md|李友禮]] — mentioned in this record
+- [[people/mei-fun-tsai.md|吳美芬]] — mentioned in this record
+- [[people/jean-j-fang.md|黃靜枝]] — mentioned in this record
+- [[people/tina-chang.md|張丁蘭]] — mentioned in this record
+- [[people/s-y-chang.md|張信義]] — mentioned in this record
+- [[people/s-s-huang.md|黃申生]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

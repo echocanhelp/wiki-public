@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2018-03-24 — published
 
 ## Subjects
+- [[people/f-m-yang.md|F. M. Yang]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

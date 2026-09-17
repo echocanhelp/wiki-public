@@ -71,6 +71,7 @@ Vivienne Chang is currently a student at Washington University in St. Louis, pu
 ## Subjects
 - Community
 - Perspectives
+- [[organizations/taiwanese-american-student-association.md|Taiwanese American Student Association]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

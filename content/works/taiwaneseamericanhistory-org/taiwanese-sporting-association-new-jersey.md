@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2015-02-23 — published
 
 ## Subjects
+- [[organizations/taiwanese-sporting-association-new-jersey.md|Taiwanese Sporting Association, New Jersey]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

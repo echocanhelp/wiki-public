@@ -270,6 +270,11 @@ Cited from the original ([source](https://taiwaneseamericanhistory.org/ourjourne
 - [[people/tah-p-0f50cf1291|吳月美]]
 - [[people/tah-p-6f52d6733e|劉永斌]]
 - [[people/w-d-lee|李武達]]
+- [[people/james-liang.md|梁政吉]] — mentioned in this record
+- [[people/tah-p-0f50cf1291.md|吳月美]] — mentioned in this record
+- [[people/c-c-chung.md|鍾振乾]] — mentioned in this record
+- [[people/tah-p-6f52d6733e.md|劉永斌]] — mentioned in this record
+- [[people/w-d-lee.md|李武達]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

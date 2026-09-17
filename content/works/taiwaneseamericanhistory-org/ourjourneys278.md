@@ -52,6 +52,7 @@ Posted in 03/2017
 
 ## Subjects
 - [[people/chen-chao-wang]]
+- [[people/chen-chao-wang.md|王震昭]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

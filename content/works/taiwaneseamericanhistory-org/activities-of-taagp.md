@@ -32,6 +32,8 @@ _Bibliographic record only. Full text stays in the vault._
 - 2019-01-20 — published
 
 ## Subjects
+- [[organizations/taiwanese-association-of-america-greater-philadelphia.md|Taiwanese Association of America Greater Philadelphia]] — mentioned in this record
+- [[organizations/taiwanese-association-of-america.md|Taiwanese Association of America]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

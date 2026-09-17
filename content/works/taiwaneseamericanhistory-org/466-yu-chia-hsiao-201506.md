@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2015-06-28 — published
 
 ## Subjects
+- [[people/yu-chia-hsiao.md|Yu-Chia Hsiao]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

@@ -96,6 +96,8 @@ The Formosan Association for Public Affairs is a 501 (c) (3) non-profit organiza
 
 ## Subjects
 - Perspectives
+- [[people/eileen-lin.md|Eileen Lin]] — mentioned in this record
+- [[people/chia-chun-chung.md|Chia-Chun Chung]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

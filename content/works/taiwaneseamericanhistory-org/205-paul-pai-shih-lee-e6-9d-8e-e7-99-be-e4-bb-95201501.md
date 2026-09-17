@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2015-01-19 — published
 
 ## Subjects
+- [[people/paul-pai-shih-lee.md|Paul Pai-Shih Lee]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

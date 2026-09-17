@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2019-11-12 — published
 
 ## Subjects
+- [[people/guang-xiong-ling.md|Guang-Xiong Ling]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

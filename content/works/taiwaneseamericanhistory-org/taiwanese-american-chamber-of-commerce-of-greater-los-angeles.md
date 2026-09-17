@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-05-06 — published
 
 ## Subjects
+- [[organizations/taiwanese-american-chamber-la.md|Taiwanese American Chamber of Commerce of Greater Los Angeles]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2019-10-30 — published
 
 ## Subjects
+- [[people/dr-ming-cheng-liau.md|Dr. Ming Cheng Liau]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

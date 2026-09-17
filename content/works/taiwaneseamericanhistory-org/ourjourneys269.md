@@ -84,6 +84,8 @@ Posted in 12/2016
 
 ## Subjects
 - [[people/dr-khang-loon-ho]]
+- [[people/cho-liang-lin.md|林昭亮]] — mentioned in this record
+- [[people/tyzen-hsiao.md|蕭泰然]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

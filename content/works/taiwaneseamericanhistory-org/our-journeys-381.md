@@ -50,6 +50,13 @@ Posted on 06/19/2022
 
 ## Subjects
 - [[people/debra-liu|謝金朱]]
+- [[people/kocheng-kent-liu.md|劉格正]] — mentioned in this record
+- [[people/bei-hung-kuo.md|郭倍宏博士]] — mentioned in this record
+- [[people/linda-gail-arrigo.md|艾琳達]] — mentioned in this record
+- [[people/dr-ying-yuan-lee.md|李應元博士]] — mentioned in this record
+- [[people/long-rong-mark-kao.md|高龍榮]] — mentioned in this record
+- [[people/debra-liu.md|謝金朱]] — mentioned in this record
+- [[people/prof-lung-chi-chen.md|陳隆志教授]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

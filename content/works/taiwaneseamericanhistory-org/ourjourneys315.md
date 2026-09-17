@@ -76,6 +76,9 @@ Posted in 10/2017
 
 ## Subjects
 - [[people/rung-fang-chen|陳榮芳]]
+- [[people/rung-fang-chen.md|陳榮芳]] — mentioned in this record
+- [[people/ming-che-lin.md|林明哲]] — mentioned in this record
+- [[people/sing-nan-wang.md|王幸男]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

@@ -29,6 +29,7 @@ _Bibliographic record only. Full text stays in the vault (copyright)._
 - [[works/taiwaneseamerican-org/applications-now-available-for-the-formosa-foundation-2011-ambassador-program||Applications Now Available for the Formosa Foundation 2011 Ambassador Program]]
 - [[organizations/formosa-foundation||Formosa Foundation]]
 - [[organizations/taiwanese-american-historical-society||TAHS]]
+- [[organizations/formosa-foundation.md|Formosa Foundation]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

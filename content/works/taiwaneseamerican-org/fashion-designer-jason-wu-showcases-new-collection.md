@@ -28,6 +28,7 @@ _Bibliographic record only. Full text stays in the vault (copyright)._
 ## Subjects
 - [[works/taiwaneseamerican-org/fashion-designer-jason-wu-showcases-new-collection||Fashion Designer Jason Wu Showcases New Collection]]
 - [[organizations/taiwanese-american-historical-society||TAHS]]
+- [[people/jason-wu.md|Jason Wu]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

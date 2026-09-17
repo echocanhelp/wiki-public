@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-06-09 — published
 
 ## Subjects
+- [[organizations/bliss-wisdom-foundation-of-north-america.md|Bliss & Wisdom Foundation of North America]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

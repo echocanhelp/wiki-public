@@ -28,6 +28,7 @@ _Bibliographic record only. Full text stays in the vault (copyright)._
 ## Subjects
 - [[works/taiwaneseamerican-org/national-book-award-winner-charles-yu-establishes-prize-for-young-taiwanese-amer||National Book Award Winner Charles Yu establishes prize for young Taiwanese American creative writers]]
 - [[organizations/taiwanese-american-historical-society||TAHS]]
+- [[people/charles-yu.md|Charles Yu]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

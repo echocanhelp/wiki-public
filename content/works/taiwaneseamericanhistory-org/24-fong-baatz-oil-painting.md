@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2014-12-08 — published
 
 ## Subjects
+- [[people/fong-baatz.md|Fong Baatz]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

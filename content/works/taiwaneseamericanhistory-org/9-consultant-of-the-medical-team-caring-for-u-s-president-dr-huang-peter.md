@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-02-02 — published
 
 ## Subjects
+- [[people/dr-peter-huang.md|黃勝雄醫師]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

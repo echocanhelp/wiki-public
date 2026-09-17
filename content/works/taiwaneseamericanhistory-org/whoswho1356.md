@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-11-01 — published
 
 ## Subjects
+- [[people/monty-wang.md|Monty Wang]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

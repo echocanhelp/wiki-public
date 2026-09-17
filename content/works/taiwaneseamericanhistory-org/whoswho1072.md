@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-06-12 — published
 
 ## Subjects
+- [[people/chun-chiu.md|Chun Chiu]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

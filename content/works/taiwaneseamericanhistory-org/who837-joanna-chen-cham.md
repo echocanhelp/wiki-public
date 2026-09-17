@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-02-24 — published
 
 ## Subjects
+- [[people/joanna-chen-cham.md|Joanna Chen Cham]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

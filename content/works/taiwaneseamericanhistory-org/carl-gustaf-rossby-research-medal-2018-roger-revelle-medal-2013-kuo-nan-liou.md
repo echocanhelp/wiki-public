@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-08-10 — published
 
 ## Subjects
+- [[people/prof-kuo-nan-liou.md|Prof. Kuo-Nan Liou]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

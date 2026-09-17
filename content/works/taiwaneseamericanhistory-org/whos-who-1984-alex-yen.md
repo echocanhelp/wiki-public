@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-12-26 — published
 
 ## Subjects
+- [[people/dr-alex-yen.md|Dr. Alex Yen]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

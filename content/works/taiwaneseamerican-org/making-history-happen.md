@@ -62,6 +62,7 @@ I feel like I am in a really unique position to be able to tell Su Beng’s stor
 - Featured
 - Perspectives
 - Social/Politics
+- [[organizations/taiwanese-american-students-association.md|Taiwanese American Students Association]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

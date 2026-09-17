@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2018-08-27 — published
 
 ## Subjects
+- [[people/lian-huo-wu.md|Lian Huo Wu]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

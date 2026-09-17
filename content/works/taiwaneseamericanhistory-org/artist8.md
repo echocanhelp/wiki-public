@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2014-09-05 — published
 
 ## Subjects
+- [[people/shih-pao-lin.md|林世寶]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

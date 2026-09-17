@@ -32,6 +32,8 @@ _Bibliographic record only. Full text stays in the vault._
 - 2018-04-25 — published
 
 ## Subjects
+- [[people/andrew-y-lee.md|Andrew Y. Lee]] — mentioned in this record
+- [[people/dr-w-p-andrew-lee.md|李為平醫師]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

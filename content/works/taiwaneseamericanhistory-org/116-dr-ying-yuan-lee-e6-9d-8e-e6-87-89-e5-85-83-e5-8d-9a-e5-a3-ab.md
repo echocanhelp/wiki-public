@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2014-11-30 — published
 
 ## Subjects
+- [[people/dr-ying-yuan-lee.md|Dr. Ying-Yuan Lee]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

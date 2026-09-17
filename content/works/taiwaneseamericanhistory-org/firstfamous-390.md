@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2020-07-09 — published
 
 ## Subjects
+- [[people/dr-peter-tsai.md|Dr. Peter Tsai]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

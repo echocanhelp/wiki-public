@@ -32,6 +32,8 @@ _Bibliographic record only. Full text stays in the vault._
 - 2014-11-26 — published
 
 ## Subjects
+- [[people/henry-tseng.md|曾恆利]] — mentioned in this record
+- [[people/jeremy-lin.md|林書豪]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

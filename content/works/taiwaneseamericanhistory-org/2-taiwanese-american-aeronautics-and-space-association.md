@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2014-10-12 — published
 
 ## Subjects
+- [[organizations/taiwanese-american-aeronautics-and-space-association.md|Taiwanese American Aeronautics and Space Association]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

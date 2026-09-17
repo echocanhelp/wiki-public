@@ -52,6 +52,7 @@ Charis Chu is a student at Chino Hills High School and the president of its Taiw
 
 ## Subjects
 - Perspectives
+- [[people/eric-liu.md|Eric Liu]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

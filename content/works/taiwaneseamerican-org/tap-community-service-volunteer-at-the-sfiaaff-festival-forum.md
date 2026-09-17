@@ -62,6 +62,7 @@ TAP is a 501(c)(3) nonprofit organization through its parent organization, Taiwa
 
 ## Subjects
 - West Coast
+- [[organizations/taiwanese-american-citizens-league.md|Taiwanese American Citizens League]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

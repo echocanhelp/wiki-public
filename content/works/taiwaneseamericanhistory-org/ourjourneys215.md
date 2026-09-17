@@ -56,6 +56,7 @@ Posted in 04/2016
 
 ## Subjects
 - [[people/tah-p-e8a9f7b57c|蕭樂善]]
+- [[people/tah-p-e8a9f7b57c.md|蕭樂善]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

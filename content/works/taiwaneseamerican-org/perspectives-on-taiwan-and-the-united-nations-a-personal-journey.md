@@ -56,6 +56,7 @@ Iris Ho grew up near Snake Alley in Taipei. She holds a Masters degree in Intern
 
 ## Subjects
 - Interviews
+- [[people/iris-ho.md|Iris Ho]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

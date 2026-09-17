@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-03-27 — published
 
 ## Subjects
+- [[people/tom-yang.md|Tom Yang]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

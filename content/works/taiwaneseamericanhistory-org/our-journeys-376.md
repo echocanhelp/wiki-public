@@ -114,6 +114,8 @@ Posted on 08/30/2021
 
 ## Subjects
 - [[organizations/taiwan-american-foundation|TAF]]
+- [[people/edward-liu.md|劉俊宏]] — mentioned in this record
+- [[people/jeffrey-lee.md|李友禮]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

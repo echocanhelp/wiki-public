@@ -104,6 +104,15 @@ Cited from the original ([source](https://taiwaneseamericanhistory.org/ourjourne
 - [[people/dr-tu-chen||陳都博士]]
 - [[people/john-j-y-huang||黃仲義]]
 - [[organizations/taiwanese-alliance-for-interculture-southern-california||Taiwanese Alliance For Interculture]]
+- [[organizations/taiwanese-alliance-for-interculture-southern-california.md|Taiwanese Alliance for Interculture]] — mentioned in this record
+- [[people/parris-hsu-cheng-chang.md|張旭成]] — mentioned in this record
+- [[people/dr-tu-chen.md|陳都博士]] — mentioned in this record
+- [[people/john-pang-yu.md|余金榜]] — mentioned in this record
+- [[people/leon-chang.md|張村樑]] — mentioned in this record
+- [[people/liang-chuan-peng.md|彭兩泉]] — mentioned in this record
+- [[people/t-k-lin.md|林宗光]] — mentioned in this record
+- [[people/maysing-huang.md|楊黃美幸]] — mentioned in this record
+- [[people/john-j-y-huang.md|黃仲義]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

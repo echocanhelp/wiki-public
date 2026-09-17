@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2020-02-17 — published
 
 ## Subjects
+- [[people/prof-frank-shih.md|Prof. Frank Shih]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-07-07 — published
 
 ## Subjects
+- [[people/chin-lung-hu.md|Chin-Lung Hu]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

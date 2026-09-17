@@ -32,6 +32,8 @@ _Bibliographic record only. Full text stays in the vault._
 - 2014-10-13 — published
 
 ## Subjects
+- [[people/nami-yang.md|李淑櫻]] — mentioned in this record
+- [[people/judy-kang.md|康瑋倫]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

@@ -73,6 +73,7 @@ Posted on 12/13/2018
 ## Subjects
 - [[people/shwu-lih-lin||Shwu Lih Lin]]
 - [[people/shwu-lih-lin||林淑麗]]
+- [[people/shwu-lih-lin.md|Shwu Lih Lin]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

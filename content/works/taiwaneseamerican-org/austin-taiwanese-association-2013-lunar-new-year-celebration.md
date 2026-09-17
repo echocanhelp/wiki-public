@@ -28,6 +28,7 @@ _Bibliographic record only. Full text stays in the vault (copyright)._
 ## Subjects
 - [[works/taiwaneseamerican-org/austin-taiwanese-association-2013-lunar-new-year-celebration||Austin Taiwanese Association 2013 Lunar New Year Celebration]]
 - [[organizations/taiwanese-american-historical-society||TAHS]]
+- [[organizations/austin-taiwanese-association.md|Austin Taiwanese Association]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

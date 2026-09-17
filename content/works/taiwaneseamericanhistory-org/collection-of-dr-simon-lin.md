@@ -32,6 +32,8 @@ _Bibliographic record only. Full text stays in the vault._
 - 2018-07-03 — published
 
 ## Subjects
+- [[people/simon-lin.md|Simon Lin]] — mentioned in this record
+- [[people/dr-long-song-simon-lin.md|林榮松醫師]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

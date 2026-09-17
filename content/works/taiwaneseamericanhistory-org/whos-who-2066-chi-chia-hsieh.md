@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2018-03-18 — published
 
 ## Subjects
+- [[people/dr-chi-chia-hsieh.md|Dr. Chi-chia Hsieh]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

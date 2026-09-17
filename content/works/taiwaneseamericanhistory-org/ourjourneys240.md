@@ -155,6 +155,15 @@ Posted in 08/2016
 - [[people/tom-lee]]
 - [[people/tsan-hung-george-chang]]
 - [[people/xie-qingzhi-xie-poyi]]
+- [[people/freeman-huang.md|Freeman Huang]] — mentioned in this record
+- [[people/ho-rui-hsu.md|許和瑞]] — mentioned in this record
+- [[people/charles-chiang.md|江昭儀]] — mentioned in this record
+- [[people/s-j-chen.md|陳松楨]] — mentioned in this record
+- [[people/prof-ming-min-peng.md|彭明敏教授]] — mentioned in this record
+- [[people/c-j-chen.md|陳銓仁]] — mentioned in this record
+- [[people/frank-lai.md|賴文雄]] — mentioned in this record
+- [[people/thomas-liu.md|劉天良]] — mentioned in this record
+- [[people/long-lee.md|李隆吉]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

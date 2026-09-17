@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2015-01-03 — published
 
 ## Subjects
+- [[people/prof-tian-min-lin.md|Prof. Tian-Min Lin]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

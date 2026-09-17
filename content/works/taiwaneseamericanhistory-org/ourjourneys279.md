@@ -100,6 +100,7 @@ Posted in 03/2017
 
 ## Subjects
 - [[people/wu-lipei]]
+- [[people/maysing-huang.md|楊黃美幸]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

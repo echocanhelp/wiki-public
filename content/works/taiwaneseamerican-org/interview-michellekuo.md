@@ -183,6 +183,11 @@ Powell’s Books
 - Featured
 - Interviews
 - Social/Politics
+- [[people/julie-wu.md|Julie Wu]] — mentioned in this record
+- [[people/alan-yang.md|Alan Yang]] — mentioned in this record
+- [[people/jeremy-lin.md|Jeremy Lin]] — mentioned in this record
+- [[people/michelle-kuo.md|Michelle Kuo]] — mentioned in this record
+- [[organizations/democratic-progressive-party.md|Democratic Progressive Party]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

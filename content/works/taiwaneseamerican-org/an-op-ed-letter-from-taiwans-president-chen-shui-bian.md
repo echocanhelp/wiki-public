@@ -72,6 +72,7 @@ Click HERE for a petition letter to print out
 
 ## Subjects
 - Interviews
+- [[people/chen-shuibian.md|Chen Shui-bian]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

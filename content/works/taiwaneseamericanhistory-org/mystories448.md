@@ -32,6 +32,8 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-07-18 — published
 
 ## Subjects
+- [[people/tzutsai-cheng.md|鄭自才]] — mentioned in this record
+- [[people/stella-chen.md|陳婉真]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

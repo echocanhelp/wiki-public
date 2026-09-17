@@ -64,6 +64,13 @@ Posted in 08/2017
 - [[people/grace-lin]]
 - [[people/lovell-park-chang]]
 - [[people/patsy-fang-chen]]
+- [[people/chi-ching-grace-lin.md|Chi-Ching Grace Lin]] — mentioned in this record
+- [[people/grace-lin.md|Grace Lin]] — mentioned in this record
+- [[people/lovell-park-chang.md|Lovell Park Chang]] — mentioned in this record
+- [[organizations/youth-orchestra-cycny.md|Youth Orchestra, CYCNY]] — mentioned in this record
+- [[people/chi-jen-christopher-chung.md|鍾啓仁]] — mentioned in this record
+- [[people/tony-tung-ying-huang.md|黃東瀛]] — mentioned in this record
+- [[people/patsy-fang-chen.md|方秀蓉]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

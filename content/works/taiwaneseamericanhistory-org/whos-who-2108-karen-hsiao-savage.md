@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2018-05-08 — published
 
 ## Subjects
+- [[people/dr-karen-hsiao-savage.md|Dr. Karen Hsiao Savage]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

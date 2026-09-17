@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2018-09-26 — published
 
 ## Subjects
+- [[people/borcheng-hsu.md|BorCheng Hsu]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

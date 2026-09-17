@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2015-03-08 — published
 
 ## Subjects
+- [[people/lorenzo-chun-han-chang.md|Lorenzo Chun-Han Chang]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

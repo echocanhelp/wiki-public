@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2015-02-06 — published
 
 ## Subjects
+- [[people/mien-chie-hung.md|Mien-Chie Hung]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

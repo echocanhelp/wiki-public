@@ -68,6 +68,8 @@ Photos courtesy of Mr. Shu-jon Mao, honorary member/official photographer for NA
 
 ## Subjects
 - Perspectives
+- [[people/prof-michi-fu.md|Prof. Michi Fu]] — mentioned in this record
+- [[people/hanna-huang.md|Hanna Huang]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

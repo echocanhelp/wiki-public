@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-12-26 — published
 
 ## Subjects
+- [[people/yuan-shuh-lii.md|Yuan-Shuh Lii]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

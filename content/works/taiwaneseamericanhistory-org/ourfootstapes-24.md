@@ -32,6 +32,8 @@ _Bibliographic record only. Full text stays in the vault._
 - 2019-02-03 — published
 
 ## Subjects
+- [[people/dean-chang.md|Dean Chang]] — mentioned in this record
+- [[people/lekki-chua.md|蔡烈輝]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

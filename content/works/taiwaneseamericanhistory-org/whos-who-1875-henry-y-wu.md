@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-09-04 — published
 
 ## Subjects
+- [[people/dr-henry-y-wu.md|Dr. Henry Y. Wu]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

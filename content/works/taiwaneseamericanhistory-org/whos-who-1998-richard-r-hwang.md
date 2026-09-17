@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2018-01-31 — published
 
 ## Subjects
+- [[people/dr-richard-r-hwang.md|Dr. Richard R. Hwang]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

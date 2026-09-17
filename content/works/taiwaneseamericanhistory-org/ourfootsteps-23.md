@@ -32,6 +32,8 @@ _Bibliographic record only. Full text stays in the vault._
 - 2019-02-03 — published
 
 ## Subjects
+- [[people/hsiu-fang-susan-liu.md|陳秀芳]] — mentioned in this record
+- [[people/yuan-tseh-lee.md|李遠哲博士]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

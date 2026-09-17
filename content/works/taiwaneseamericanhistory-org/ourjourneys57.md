@@ -59,6 +59,8 @@ Cited from the original ([source](https://taiwaneseamericanhistory.org/ourjourne
 ## Subjects
 - [[people/powen-wang||王博文]]
 - [[people/james-chin-chun-su||蘇金春]]
+- [[people/powen-wang.md|王博文]] — mentioned in this record
+- [[people/james-chin-chun-su.md|蘇金春]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

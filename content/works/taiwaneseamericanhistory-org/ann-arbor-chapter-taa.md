@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2015-12-30 — published
 
 ## Subjects
+- [[organizations/ann-arbor-taiwanese-association.md|Ann Arbor Taiwanese Association]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

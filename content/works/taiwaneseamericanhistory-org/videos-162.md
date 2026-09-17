@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2020-05-18 — published
 
 ## Subjects
+- [[people/joyce-lin.md|Joyce Lin]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

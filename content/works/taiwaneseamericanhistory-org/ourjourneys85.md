@@ -113,6 +113,12 @@ Formosans’ Free Formosa 1956.1
 - [[people/john-lin||林榮勳]]
 - [[people/tom-yang||楊東傑]]
 - [[people/tsu-yi-jay-loo||盧主義]]
+- [[people/edward-chen.md|Edward Chen]] — mentioned in this record
+- [[people/echo-lin.md|Echo Lin]] — mentioned in this record
+- [[people/grace-lin.md|Grace Lin]] — mentioned in this record
+- [[people/john-lin.md|John Lin]] — mentioned in this record
+- [[people/tom-yang.md|Tom Yang]] — mentioned in this record
+- [[people/tsu-yi-jay-loo.md|盧主義]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

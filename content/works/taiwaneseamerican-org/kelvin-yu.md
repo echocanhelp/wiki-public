@@ -52,6 +52,9 @@ https://vimeo.com/91812238 (select acting clips)
 - Arts &amp; Culture
 - Featured
 - Interviews
+- [[people/ho-chie-tsai.md|Ho Chie Tsai]] — mentioned in this record
+- [[people/alan-yang.md|Alan Yang]] — mentioned in this record
+- [[people/kelvin-yu.md|Kelvin Yu]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

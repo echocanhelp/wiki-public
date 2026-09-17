@@ -76,6 +76,11 @@ The goal of this event is to create a safe space to share personal stories and p
 
 ## Subjects
 - West Coast
+- [[people/karen-lin.md|Karen Lin]] — mentioned in this record
+- [[people/jonathan-lee.md|Jonathan Lee]] — mentioned in this record
+- [[organizations/taiwanese-american-perspectives.md|Taiwanese American Perspectives]] — mentioned in this record
+- [[organizations/taiwan-american-foundation.md|Taiwanese American Foundation]] — mentioned in this record
+- [[organizations/american-citizens-for-taiwan.md|American Citizens for Taiwan]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

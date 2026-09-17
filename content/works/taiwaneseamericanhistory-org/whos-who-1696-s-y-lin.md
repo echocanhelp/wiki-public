@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-06-28 — published
 
 ## Subjects
+- [[people/rev-s-y-lin.md|林皙陽牧師]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

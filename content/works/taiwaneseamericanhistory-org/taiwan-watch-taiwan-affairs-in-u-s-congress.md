@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2018-06-26 — published
 
 ## Subjects
+- [[organizations/taiwan-watch-taiwan-affairs-in-u-s-congress.md|Taiwan Watch – Taiwan Affairs in U. S. Congress]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

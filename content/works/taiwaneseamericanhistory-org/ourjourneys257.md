@@ -112,6 +112,10 @@ Posted in 10/2016
 ## Subjects
 - [[people/c-j-chen]]
 - [[people/felix-liu]]
+- [[people/felix-liu.md|Felix Liu]] — mentioned in this record
+- [[people/ho-rui-hsu.md|許和瑞]] — mentioned in this record
+- [[people/charles-ting.md|丁昭昇]] — mentioned in this record
+- [[people/c-j-chen.md|陳銓仁]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

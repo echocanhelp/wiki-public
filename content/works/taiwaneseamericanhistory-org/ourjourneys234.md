@@ -192,6 +192,18 @@ Posted in 08/2016
 - [[people/tzutsai-cheng|鄭自才]]
 - [[people/wang-neng-xiang|Wang Neng-xiang (王能祥)]]
 - [[people/zheng-shaoliang|Zheng Shaoliang (鄭紹良)]]
+- [[people/wang-neng-xiang.md|Wang Neng-xiang]] — mentioned in this record
+- [[people/zheng-shaoliang.md|Zheng Shaoliang]] — mentioned in this record
+- [[people/peng-ming-min.md|Peng Ming-min]] — mentioned in this record
+- [[organizations/united-formosans-for-independenceufi.md|United Formosans for Independence UFI]] — mentioned in this record
+- [[people/philip-s-chen.md|陳伸夫]] — mentioned in this record
+- [[people/tah-p-6d8ba3d584.md|王人紀]] — mentioned in this record
+- [[people/dr-fu-yuan-hsu.md|許富淵]] — mentioned in this record
+- [[people/tzutsai-cheng.md|鄭自才]] — mentioned in this record
+- [[people/strong-chuang.md|莊秋雄]] — mentioned in this record
+- [[people/jin-sheng-jian.md|簡金生]] — mentioned in this record
+- [[people/tah-p-9a69693e1e.md|賴金德]] — mentioned in this record
+- [[people/sin-i-hsiao.md|蕭欣義]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

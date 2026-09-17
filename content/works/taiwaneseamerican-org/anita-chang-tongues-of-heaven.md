@@ -59,6 +59,7 @@ TaiwaneseAmerican.org’s Ho Chie Tsai interviewed her about the film. Watch the
 ## Subjects
 - Arts &amp; Culture
 - Social/Politics
+- [[people/ho-chie-tsai.md|Ho Chie Tsai]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

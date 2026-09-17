@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2014-11-01 — published
 
 ## Subjects
+- [[people/hung-ya-chao.md|趙弘雅]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

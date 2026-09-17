@@ -70,6 +70,7 @@ Posted in 03/2016
 
 ## Subjects
 - [[people/wen_chen-chen|陳文成教授]]
+- [[people/wen_chen-chen.md|陳文成教授]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

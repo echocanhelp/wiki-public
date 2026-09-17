@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-06-05 — published
 
 ## Subjects
+- [[people/ching-wen-hsiao.md|Ching-Wen Hsiao]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

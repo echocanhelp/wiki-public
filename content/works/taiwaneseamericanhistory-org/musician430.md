@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2018-06-30 — published
 
 ## Subjects
+- [[people/yi-ting-hsieh.md|Yi-Ting Hsieh]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2018-05-24 — published
 
 ## Subjects
+- [[people/s-s-huang.md|黃申生]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

@@ -93,6 +93,8 @@ Shop Art: http://www.redbubble.com/people/liusan/shop/
 - Arts &amp; Culture
 - Featured
 - Interviews
+- [[people/ho-chie-tsai.md|Ho Chie Tsai]] — mentioned in this record
+- [[people/kenji-c-liu.md|Kenji C. Liu]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

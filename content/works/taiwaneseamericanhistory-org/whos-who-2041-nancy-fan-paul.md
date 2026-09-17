@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2018-02-21 — published
 
 ## Subjects
+- [[people/dr-nancy-fan-paul.md|Dr. Nancy Fan-Paul]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

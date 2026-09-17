@@ -111,6 +111,8 @@ Good news for both my New Jersey and New York Taiwanese friends! Both of these s
 - Arts &amp; Culture
 - Featured
 - Interviews
+- [[people/kelly-lin.md|Kelly Lin]] — mentioned in this record
+- [[people/peter-lin.md|Peter Lin]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

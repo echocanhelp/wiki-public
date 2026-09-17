@@ -53,6 +53,9 @@ Translated from 313. 東田納西台灣同鄉會成立簡史 / 張惠雄 /09/201
 ## Subjects
 - [[organizations/taiwanese-association-of-america]]
 - [[people/yea-hwang-uang]]
+- [[people/dr-wen-y-chen.md|Dr. Wen Y. Chen]] — mentioned in this record
+- [[people/yea-hwang-uang.md|Yea-Hwang Uang]] — mentioned in this record
+- [[organizations/taiwanese-association-of-america.md|Taiwanese Association of America]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

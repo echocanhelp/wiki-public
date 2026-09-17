@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2018-05-29 — published
 
 ## Subjects
+- [[people/prof-ken-s-huang.md|黃根深教授]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

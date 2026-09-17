@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-01-17 — published
 
 ## Subjects
+- [[people/chio-zong-frank-chen.md|陳秋榮]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

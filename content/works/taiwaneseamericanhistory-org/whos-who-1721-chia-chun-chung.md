@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-07-02 — published
 
 ## Subjects
+- [[people/chia-chun-chung.md|Chia-Chun Chung]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

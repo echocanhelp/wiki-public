@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-02-15 — published
 
 ## Subjects
+- [[people/erh-ping-tsai.md|Erh-Ping Tsai]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

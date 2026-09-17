@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-06-18 — published
 
 ## Subjects
+- [[people/chin-yi-lee.md|Chin-Yi Lee]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

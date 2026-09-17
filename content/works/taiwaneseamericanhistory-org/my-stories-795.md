@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2021-07-20 — published
 
 ## Subjects
+- [[people/stanley-sun.md|Stanley Sun]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

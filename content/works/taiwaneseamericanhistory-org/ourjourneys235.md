@@ -70,6 +70,7 @@ Posted in 08/2016
 
 ## Subjects
 - [[people/peter-chen|陳正義]]
+- [[people/peter-chen.md|Peter Chen]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

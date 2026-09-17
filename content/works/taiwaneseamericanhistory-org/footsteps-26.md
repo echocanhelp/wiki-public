@@ -32,6 +32,8 @@ _Bibliographic record only. Full text stays in the vault._
 - 2019-03-29 — published
 
 ## Subjects
+- [[people/charlene-chen.md|Charlene Chen]] — mentioned in this record
+- [[people/hsiu-fang-susan-liu.md|陳秀芳]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

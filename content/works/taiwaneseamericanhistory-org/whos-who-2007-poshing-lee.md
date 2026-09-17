@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2018-02-01 — published
 
 ## Subjects
+- [[people/dr-poshing-lee.md|Dr. Poshing Lee]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

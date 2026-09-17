@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2020-05-08 — published
 
 ## Subjects
+- [[people/dr-sheng-yi-chuang.md|莊勝義博士]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

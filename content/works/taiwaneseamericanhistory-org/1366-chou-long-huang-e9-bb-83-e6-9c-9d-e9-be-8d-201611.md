@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-11-03 — published
 
 ## Subjects
+- [[people/chou-long-huang.md|Chou-Long Huang]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

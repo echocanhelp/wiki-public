@@ -117,6 +117,9 @@ Vivienne Chang is currently a freshman at Washington University in St. Louis, pu
 ## Subjects
 - Arts &amp; Culture
 - Perspectives
+- [[people/prof-f-frank-chen.md|Prof. F. Frank Chen]] — mentioned in this record
+- [[organizations/taiwanese-american-student-association.md|Taiwanese American Student Association]] — mentioned in this record
+- [[people/chen-ming-wang.md|王建民]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

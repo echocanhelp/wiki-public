@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-08-18 — published
 
 ## Subjects
+- [[organizations/taiwanese-cultural-and-sports-association.md|Taiwanese Cultural and Sports Association]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

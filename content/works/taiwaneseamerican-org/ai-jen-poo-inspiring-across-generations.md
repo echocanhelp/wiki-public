@@ -45,6 +45,7 @@ Special thanks to TaiwaneseAmerican.org staff members Kristina Lin for filming t
 ## Subjects
 - Interviews
 - Social/Politics
+- [[organizations/taiwanese-american-students-association.md|Taiwanese American Students Association]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

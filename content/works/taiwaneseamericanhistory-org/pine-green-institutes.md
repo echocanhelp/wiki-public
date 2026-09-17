@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-03-14 — published
 
 ## Subjects
+- [[organizations/pine-green-institutes.md|Pine Green Institutes]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

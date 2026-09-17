@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-04-14 — published
 
 ## Subjects
+- [[people/austin-ko.md|Austin Ko]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

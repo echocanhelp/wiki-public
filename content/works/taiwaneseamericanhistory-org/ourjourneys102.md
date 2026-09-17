@@ -62,6 +62,7 @@ Posted in 09/2017
 
 ## Subjects
 - [[people/jinwun-winston-lue||呂錦文]]
+- [[people/jinwun-winston-lue.md|呂錦文]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

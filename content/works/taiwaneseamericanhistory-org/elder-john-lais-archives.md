@@ -32,6 +32,8 @@ _Bibliographic record only. Full text stays in the vault._
 - 2018-07-17 — published
 
 ## Subjects
+- [[people/john-lai.md|賴永祥]] — mentioned in this record
+- [[organizations/elder-john-lai-archives.md|賴永祥長老史料庫]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

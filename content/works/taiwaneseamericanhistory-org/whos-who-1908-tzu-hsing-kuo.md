@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-09-24 — published
 
 ## Subjects
+- [[people/dr-tzu-hsing-april-kuo.md|郭姿杏博士]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

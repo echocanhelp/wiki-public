@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-09-18 — published
 
 ## Subjects
+- [[people/yung-lo-lin.md|Yung-Lo Lin]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

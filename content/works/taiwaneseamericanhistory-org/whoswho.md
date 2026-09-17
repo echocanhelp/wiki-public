@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2018-04-13 — published
 
 ## Subjects
+- [[people/l-j-ho.md|何麗珍]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

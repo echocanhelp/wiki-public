@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-02-22 — published
 
 ## Subjects
+- [[people/jeffrey-lee.md|Jeffrey Lee]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

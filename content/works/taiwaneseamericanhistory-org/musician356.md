@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-08-20 — published
 
 ## Subjects
+- [[people/kaiyin-huang.md|Kaiyin Huang]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

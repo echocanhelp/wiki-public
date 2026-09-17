@@ -107,6 +107,10 @@ J.K.那時正與另一個同事合夥，忙著開創屬於兩人的科技工程�
 - [[people/gin-ru-yeh||葉錦如]]
 - [[people/shu-yuan-susan-tsay||蔡淑媛]]
 - [[people/chi-shun-hwang||黃智舜]]
+- [[people/chi-shun-hwang.md|黃智舜]] — mentioned in this record
+- [[people/gin-ru-yeh.md|葉錦如]] — mentioned in this record
+- [[people/dr-ya-yen-lee.md|李雅彥醫師]] — mentioned in this record
+- [[people/shu-yuan-susan-tsay.md|蔡淑媛]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

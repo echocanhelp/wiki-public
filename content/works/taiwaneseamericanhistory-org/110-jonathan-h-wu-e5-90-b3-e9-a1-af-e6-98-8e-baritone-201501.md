@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2015-01-12 — published
 
 ## Subjects
+- [[people/jonathan-h-wu.md|Jonathan H. Wu]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

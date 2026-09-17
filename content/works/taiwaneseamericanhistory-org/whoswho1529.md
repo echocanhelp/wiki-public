@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-02-26 — published
 
 ## Subjects
+- [[people/alan-su.md|Alan Su]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

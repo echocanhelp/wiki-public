@@ -198,6 +198,15 @@ Posted in 11/2019
 
 ## Subjects
 - [[people/jonah-chang|張瑞雄]]
+- [[people/rev-ai-chih-tsai.md|蔡愛智牧師]] — mentioned in this record
+- [[people/rev-r-h-chang.md|張瑞雄牧師]] — mentioned in this record
+- [[people/w-i-chen.md|陳石溫愛]] — mentioned in this record
+- [[people/tah-p-04e87d0c6a.md|郭雨新]] — mentioned in this record
+- [[people/wudong-huang.md|黃武東牧師]] — mentioned in this record
+- [[people/leon-chang.md|張村樑]] — mentioned in this record
+- [[people/m-l-chen.md|陳夢蘭]] — mentioned in this record
+- [[people/prof-tsung-yi-lin.md|林宗義教授]] — mentioned in this record
+- [[people/f-s-shen.md|沈富雄]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

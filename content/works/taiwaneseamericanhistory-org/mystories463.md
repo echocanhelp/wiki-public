@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-09-12 — published
 
 ## Subjects
+- [[people/s-y-lee.md|李嵩義]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

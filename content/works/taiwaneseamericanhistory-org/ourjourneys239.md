@@ -72,6 +72,8 @@ Posted in 08/2016
 
 ## Subjects
 - [[people/ken-lee]]
+- [[people/daniel-ko.md|柯耀宗博士]] — mentioned in this record
+- [[people/ken-lee.md|李彥禎]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

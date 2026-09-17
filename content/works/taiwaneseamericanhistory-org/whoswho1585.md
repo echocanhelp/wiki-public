@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-03-26 — published
 
 ## Subjects
+- [[people/ehin-lin-guo.md|Ehin-Lin Guo]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

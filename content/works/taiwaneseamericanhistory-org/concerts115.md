@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-12-13 — published
 
 ## Subjects
+- [[people/julie-wong.md|翁致理]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

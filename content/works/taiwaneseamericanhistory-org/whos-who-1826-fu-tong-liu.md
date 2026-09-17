@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-08-09 — published
 
 ## Subjects
+- [[people/dr-fu-tong-liu.md|Dr. Fu-Tong Liu]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

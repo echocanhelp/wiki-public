@@ -202,6 +202,18 @@ Translated from 292. 早年匹茲堡台灣同鄉會簡介與歷屆會長考證 /
 - [[people/daniel-ko]]
 - [[people/dr-binsiong-ou]]
 - [[people/tony-chen]]
+- [[people/cheng-long-tsai.md|Cheng Long Tsai]] — mentioned in this record
+- [[people/dr-cecelia-tsai.md|Dr. Cecelia Tsai]] — mentioned in this record
+- [[people/dr-wen-y-chen.md|Dr. Wen Y. Chen]] — mentioned in this record
+- [[people/prof-chen-s-tsai.md|Prof. Chen S. Tsai]] — mentioned in this record
+- [[people/daniel-ko.md|Daniel Ko]] — mentioned in this record
+- [[people/prof-mingchi-wu.md|Prof. Mingchi Wu]] — mentioned in this record
+- [[people/dr-edward-t-s-huang.md|Dr. Edward T. S. Huang]] — mentioned in this record
+- [[people/dr-fu-chen-lo.md|Dr. Fu-Chen Lo]] — mentioned in this record
+- [[people/prof-chin-c-lee.md|Prof. Chin C. Lee]] — mentioned in this record
+- [[people/dr-binsiong-ou.md|Dr. Binsiong Ou]] — mentioned in this record
+- [[people/tony-chen.md|Tony Chen]] — mentioned in this record
+- [[people/kao-chun-ming.md|Rev. Kao Chun-ming]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

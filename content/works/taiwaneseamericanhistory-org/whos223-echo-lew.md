@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2015-01-20 — published
 
 ## Subjects
+- [[people/echo-lew.md|Echo Lew]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

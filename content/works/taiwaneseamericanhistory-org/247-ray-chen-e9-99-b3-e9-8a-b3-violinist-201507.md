@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2015-07-18 — published
 
 ## Subjects
+- [[people/ray-chen.md|Ray Chen]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

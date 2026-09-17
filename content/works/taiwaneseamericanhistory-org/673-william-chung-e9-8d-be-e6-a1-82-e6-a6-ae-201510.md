@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2015-10-24 — published
 
 ## Subjects
+- [[people/william-chung.md|William Chung]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

@@ -393,6 +393,7 @@ Posted in 11/2016
 - [[organizations/taiwanese-alliance-for-interculture-southern-california]]
 - [[organizations/taiwanese-association-of-america]]
 - [[people/wudong-huang]]
+- [[people/rev-ai-chih-tsai.md|蔡愛智牧師]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

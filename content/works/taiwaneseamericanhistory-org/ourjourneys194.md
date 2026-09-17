@@ -199,6 +199,8 @@ Posted in 2016/01
 ## Subjects
 - [[people/peng-ming-min|Peng Ming-min (彭明敏)]]
 - [[people/prof-ming-min-peng|彭明敏教授]]
+- [[people/peng-ming-min.md|Peng Ming-min]] — mentioned in this record
+- [[people/prof-ming-min-peng.md|彭明敏教授]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

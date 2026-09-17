@@ -55,6 +55,9 @@ Posted in 09/2016
 ## Subjects
 - [[people/andrew-y-lee]]
 - [[people/yung-hwa-hsu]]
+- [[people/yung-hwa-hsu.md|許永華]] — mentioned in this record
+- [[people/ming-che-lin.md|林明哲]] — mentioned in this record
+- [[people/susan-y-j-chang.md|程韻如]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

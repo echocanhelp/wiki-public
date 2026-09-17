@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2018-10-09 — published
 
 ## Subjects
+- [[people/prof-shih-wen-huang.md|Prof. Shih-Wen Huang]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

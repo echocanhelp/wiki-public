@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2015-12-11 — published
 
 ## Subjects
+- [[people/dr-daniel-c-hsu.md|Dr. Daniel C. Hsu]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

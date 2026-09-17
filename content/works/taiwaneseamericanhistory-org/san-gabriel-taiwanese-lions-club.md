@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2015-10-12 — published
 
 ## Subjects
+- [[organizations/san-gabriel-taiwanese-lions-club.md|San Gabriel Taiwanese Lions Club]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

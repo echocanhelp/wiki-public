@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-06-09 — published
 
 ## Subjects
+- [[people/linda-gail-arrigo.md|Linda Gail Arrigo]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

@@ -363,6 +363,18 @@ Zut-zuang Hsu 許日章
 - [[people/tzutsai-cheng|鄭自才]]
 - [[people/vincent-c-lai|賴經都]]
 - [[people/y-l-shieh|沈郁良]]
+- [[people/ing-hour-lin.md|Ing-Hour Lin]] — mentioned in this record
+- [[people/dr-bernard-tsai.md|Dr. Bernard Tsai]] — mentioned in this record
+- [[people/kenneth-chang.md|Kenneth Chang]] — mentioned in this record
+- [[people/kwei-yang-ben-chang.md|Kwei-Yang Ben Chang]] — mentioned in this record
+- [[people/norman-chen.md|Norman Chen]] — mentioned in this record
+- [[people/jason-huang.md|Jason Huang]] — mentioned in this record
+- [[people/dr-henry-h-yu.md|Dr. Henry H. Yu]] — mentioned in this record
+- [[people/andrew-y-lee.md|Andrew Y. Lee]] — mentioned in this record
+- [[people/frederic-wang.md|Frederic Wang]] — mentioned in this record
+- [[people/liu-hsiung-chuang.md|Liu-Hsiung Chuang]] — mentioned in this record
+- [[people/prof-edward-h-lee.md|Prof. Edward H Lee]] — mentioned in this record
+- [[organizations/taiwanese-association-of-america-greater-washington.md|Taiwanese Association of America Greater Washington]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

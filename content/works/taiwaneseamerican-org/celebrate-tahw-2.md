@@ -47,6 +47,7 @@ cover photo by Anna Wu
 ## Subjects
 - Community
 - Featured
+- [[people/david-wu.md|David Wu]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

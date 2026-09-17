@@ -32,6 +32,8 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-10-26 — published
 
 ## Subjects
+- [[people/rev-shirley-lin.md|Rev. Shirley Lin]] — mentioned in this record
+- [[people/syaru-shirley-lin.md|Syaru Shirley Lin]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

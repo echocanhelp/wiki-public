@@ -38,6 +38,8 @@ Evonne Hsu, also known as Hsu Hui-hsin, was born in Longview, Texas and went to 
 
 ## Subjects
 - Interviews
+- [[people/ho-chie-tsai.md|Ho Chie Tsai]] — mentioned in this record
+- [[people/evonne-hsu.md|Evonne Hsu]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

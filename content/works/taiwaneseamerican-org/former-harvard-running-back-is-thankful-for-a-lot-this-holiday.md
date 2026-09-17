@@ -96,6 +96,7 @@ THANKSGIVING UPDATE: Cheng has been keeping busy on his rotation with the Events
 
 ## Subjects
 - Interviews
+- [[people/jeremy-lin.md|Jeremy Lin]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

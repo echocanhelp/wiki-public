@@ -74,6 +74,7 @@ Shawna Yang Ryan is a former Fulbright scholar and the author of Water Ghosts 
 - Arts &amp; Culture
 - Featured
 - Interviews
+- [[people/shawna-yang-ryan.md|Shawna Yang Ryan]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

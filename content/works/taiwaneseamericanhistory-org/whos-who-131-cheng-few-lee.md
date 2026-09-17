@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2014-12-02 — published
 
 ## Subjects
+- [[people/prof-cheng-few-lee.md|Prof. Cheng-Few Lee]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

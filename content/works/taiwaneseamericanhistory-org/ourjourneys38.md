@@ -230,6 +230,17 @@ Cited from the original ([source](https://taiwaneseamericanhistory.org/ourjourne
 - [[people/john-hsieh||謝鎮寬]]
 - [[people/wen_chen-chen||陳文成教授]]
 - [[people/may-sing-chang||黃美星]]
+- [[people/may-sing-chang.md|黃美星]] — mentioned in this record
+- [[people/nai-yuan-hu.md|胡乃元]] — mentioned in this record
+- [[people/tyzen-hsiao.md|蕭泰然]] — mentioned in this record
+- [[people/wen_chen-chen.md|陳文成教授]] — mentioned in this record
+- [[people/leon-chang.md|張村樑]] — mentioned in this record
+- [[people/liang-chuan-peng.md|彭兩泉]] — mentioned in this record
+- [[people/philip-wu.md|吳庭和]] — mentioned in this record
+- [[people/john-hsieh.md|謝鎮寬]] — mentioned in this record
+- [[people/linda-gail-arrigo.md|艾琳達]] — mentioned in this record
+- [[people/david-weng.md|翁嘉盛]] — mentioned in this record
+- [[people/shun-hua-yu.md|余舜華]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

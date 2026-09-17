@@ -28,6 +28,8 @@ _Bibliographic record only. Full text stays in the vault (copyright)._
 ## Subjects
 - [[works/taiwaneseamerican-org/join-tacl-in-learning-taiwanese-with-david-chen-in-la||Join TACL in Learning Taiwanese with David Chen in LA]]
 - [[organizations/taiwanese-american-historical-society||TAHS]]
+- [[people/david-t-k-chen.md|David T. K. Chen]] — mentioned in this record
+- [[people/david-s-chen.md|David S. Chen]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2018-12-02 — published
 
 ## Subjects
+- [[people/ming-liang-lee.md|李明亮]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

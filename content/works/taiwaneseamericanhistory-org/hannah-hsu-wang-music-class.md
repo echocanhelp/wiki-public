@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2015-08-24 — published
 
 ## Subjects
+- [[people/hannah-hsu-wang.md|許鴻玉]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

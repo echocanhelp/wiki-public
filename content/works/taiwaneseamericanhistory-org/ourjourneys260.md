@@ -95,6 +95,14 @@ Posted in 10/2016
 ## Subjects
 - [[people/helen-loo]]
 - [[people/tsu-yi-jay-loo]]
+- [[people/helen-loo.md|Helen Loo]] — mentioned in this record
+- [[people/wen_chen-chen.md|陳文成教授]] — mentioned in this record
+- [[people/c-h-chen.md|陳初雄]] — mentioned in this record
+- [[people/prof-chin-an-li.md|李勤岸教授]] — mentioned in this record
+- [[people/martin-tsai.md|蔡明峰]] — mentioned in this record
+- [[people/ted-lau.md|劉重義]] — mentioned in this record
+- [[people/rev-james-i-cheng.md|鄭義勇牧師]] — mentioned in this record
+- [[people/tsu-yi-jay-loo.md|盧主義]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

@@ -48,6 +48,8 @@ Posted in 09/2016
 
 ## Subjects
 - [[people/yung-hwa-hsu]]
+- [[people/j-c-chen.md|陳進財]] — mentioned in this record
+- [[people/yung-hwa-hsu.md|許永華]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

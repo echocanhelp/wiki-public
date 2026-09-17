@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2020-10-02 — published
 
 ## Subjects
+- [[people/prof-je-chin-han.md|Prof. Je-Chin Han]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

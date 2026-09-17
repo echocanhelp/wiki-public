@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2020-12-25 — published
 
 ## Subjects
+- [[people/prof-tien-chang-lee.md|Prof. Tien-Chang Lee]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

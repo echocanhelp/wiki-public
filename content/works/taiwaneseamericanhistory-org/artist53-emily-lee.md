@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2015-08-24 — published
 
 ## Subjects
+- [[people/emily-lin-lee.md|林榮峰]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

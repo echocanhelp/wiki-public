@@ -48,6 +48,7 @@ Cited from the original ([source](https://taiwaneseamericanhistory.org/ourjourne
 
 ## Subjects
 - [[people/ken-lee|李彥禎]]
+- [[people/ken-lee.md|李彥禎]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

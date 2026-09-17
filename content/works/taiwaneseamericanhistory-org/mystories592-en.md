@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-10-19 — published
 
 ## Subjects
+- [[people/dr-min-hsiung-ko.md|Dr. Min-Hsiung Ko]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

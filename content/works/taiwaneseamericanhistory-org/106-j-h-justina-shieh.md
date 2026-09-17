@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2018-09-21 — published
 
 ## Subjects
+- [[people/j-h-justina-shieh.md|J. H. Justina Shieh]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

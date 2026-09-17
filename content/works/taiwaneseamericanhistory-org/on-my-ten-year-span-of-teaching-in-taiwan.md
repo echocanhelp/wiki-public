@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-05-26 — published
 
 ## Subjects
+- [[people/prof-tender-lin.md|林天德教授]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

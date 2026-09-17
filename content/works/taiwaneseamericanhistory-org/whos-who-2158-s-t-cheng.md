@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2018-10-07 — published
 
 ## Subjects
+- [[people/dr-s-t-cheng.md|Dr. S. T. Cheng]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

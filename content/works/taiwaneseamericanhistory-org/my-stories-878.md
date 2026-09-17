@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2023-05-24 — published
 
 ## Subjects
+- [[people/gene-lay.md|賴正光]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

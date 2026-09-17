@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-09-20 — published
 
 ## Subjects
+- [[people/dr-pofu-hsieh.md|Dr. Pofu Hsieh]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

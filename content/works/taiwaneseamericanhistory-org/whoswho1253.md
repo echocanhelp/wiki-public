@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-08-21 — published
 
 ## Subjects
+- [[people/gordon-s-w-chin.md|Gordon S. W. Chin]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

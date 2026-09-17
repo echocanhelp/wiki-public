@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-12-03 — published
 
 ## Subjects
+- [[people/dr-lynn-y-s-lin.md|林英祥博士]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

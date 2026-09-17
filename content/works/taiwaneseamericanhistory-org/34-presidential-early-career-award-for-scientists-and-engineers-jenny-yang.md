@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-02-10 — published
 
 ## Subjects
+- [[people/jenny-y-yang.md|Jenny Y Yang]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

@@ -56,6 +56,7 @@ Cited from the original ([source](https://taiwaneseamericanhistory.org/ourjourne
 
 ## Subjects
 - [[people/w-y-chou|周婉窈]]
+- [[people/w-y-chou.md|周婉窈]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

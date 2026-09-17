@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-10-03 — published
 
 ## Subjects
+- [[people/prof-f-frank-chen.md|Prof. F. Frank Chen]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

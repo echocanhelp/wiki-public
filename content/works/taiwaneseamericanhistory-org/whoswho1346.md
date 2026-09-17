@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-10-27 — published
 
 ## Subjects
+- [[people/marcy-leroy-ditmanson.md|Marcy Leroy Ditmanson]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

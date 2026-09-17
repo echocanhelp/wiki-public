@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2018-02-19 — published
 
 ## Subjects
+- [[people/j-c-lai.md|賴景宗]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

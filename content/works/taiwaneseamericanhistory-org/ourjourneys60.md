@@ -70,6 +70,17 @@ Cited from the original ([source](https://taiwaneseamericanhistory.org/ourjourne
 - [[people/gin-ru-yeh||葉錦如]]
 - [[people/stella-landauer||陳翠玉]]
 - [[people/elena-ling||黃美惠]]
+- [[people/stella-landauer.md|陳翠玉]] — mentioned in this record
+- [[people/mei-li-yang.md|楊美麗]] — mentioned in this record
+- [[people/gin-ru-yeh.md|葉錦如]] — mentioned in this record
+- [[people/vivian-y-g-fu.md|林郁子]] — mentioned in this record
+- [[people/elena-ling.md|黃美惠]] — mentioned in this record
+- [[people/mei-fun-tsai.md|吳美芬]] — mentioned in this record
+- [[people/helen-wang.md|方惠音]] — mentioned in this record
+- [[people/t-y-ko.md|柯翠園]] — mentioned in this record
+- [[people/ingrid-tseng.md|曾暎貴]] — mentioned in this record
+- [[people/maysing-huang.md|楊黃美幸]] — mentioned in this record
+- [[people/susan-y-j-chang.md|程韻如]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

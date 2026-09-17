@@ -110,6 +110,7 @@ Posted in 05/2016
 
 ## Subjects
 - [[people/sing-nan-wang|王幸男]]
+- [[people/sing-nan-wang.md|王幸男]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

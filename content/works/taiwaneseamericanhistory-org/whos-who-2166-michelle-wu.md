@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2018-10-21 — published
 
 ## Subjects
+- [[people/michelle-wu.md|Michelle Wu]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

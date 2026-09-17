@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-02-08 — published
 
 ## Subjects
+- [[people/judy-wang.md|Judy Wang]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

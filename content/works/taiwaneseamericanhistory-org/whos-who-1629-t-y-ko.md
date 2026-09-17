@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-05-07 — published
 
 ## Subjects
+- [[people/t-y-ko.md|柯翠園]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

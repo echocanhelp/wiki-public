@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2021-02-17 — published
 
 ## Subjects
+- [[people/dr-song-ping-lee.md|Dr. Song-Ping Lee]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

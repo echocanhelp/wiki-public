@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2018-10-19 — published
 
 ## Subjects
+- [[people/dr-ming-j-lee.md|Dr. Ming J. Lee]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

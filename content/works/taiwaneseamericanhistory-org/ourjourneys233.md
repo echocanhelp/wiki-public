@@ -357,6 +357,18 @@ Posted in 07/2016
 - [[people/li-fa-xie|謝里法]]
 - [[people/robert-lee|李席舟]]
 - [[people/shu-yuan-susan-tsay|蔡淑媛]]
+- [[organizations/taiwanese-heritage-society-of-houston.md|Taiwanese Heritage Society of Houston]] — mentioned in this record
+- [[people/cheng-y-chuang.md|莊承業]] — mentioned in this record
+- [[people/robert-lee.md|李席舟]] — mentioned in this record
+- [[people/gin-ru-yeh.md|葉錦如]] — mentioned in this record
+- [[people/dr-ya-yen-lee.md|李雅彥醫師]] — mentioned in this record
+- [[people/chao-yuh-yang.md|楊朝諭]] — mentioned in this record
+- [[people/c-c-yang.md|楊朝諄]] — mentioned in this record
+- [[people/j-s-chien.md|簡忠松]] — mentioned in this record
+- [[people/ching-nan-ou.md|歐清南]] — mentioned in this record
+- [[people/li-fa-xie.md|謝里法]] — mentioned in this record
+- [[people/shu-yuan-susan-tsay.md|蔡淑媛]] — mentioned in this record
+- [[people/jien-hua-charles-chuang.md|莊峻華]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

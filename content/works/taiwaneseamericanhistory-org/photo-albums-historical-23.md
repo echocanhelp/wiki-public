@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-01-22 — published
 
 ## Subjects
+- [[people/wen_chen-chen.md|陳文成教授]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

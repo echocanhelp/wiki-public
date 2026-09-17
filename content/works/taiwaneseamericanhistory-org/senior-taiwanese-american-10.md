@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2019-08-28 — published
 
 ## Subjects
+- [[people/prof-ming-min-peng.md|Prof. Ming Min Peng]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

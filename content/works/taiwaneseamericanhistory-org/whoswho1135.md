@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-07-10 — published
 
 ## Subjects
+- [[people/k-t-wu.md|吳告祖]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

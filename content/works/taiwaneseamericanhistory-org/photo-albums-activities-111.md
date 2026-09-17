@@ -32,6 +32,8 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-03-01 — published
 
 ## Subjects
+- [[people/donald-c-j-chen.md|陳哲仁醫師]] — mentioned in this record
+- [[people/enchin-shaw-chen.md|蕭永真]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

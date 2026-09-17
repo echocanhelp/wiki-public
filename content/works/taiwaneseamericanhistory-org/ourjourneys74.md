@@ -145,6 +145,13 @@ NATMA第三任會長廖坤塗於1988年11月2日組織第二次回國訪問團�
 - [[people/y-t-yan||顏裕庭]]
 - [[people/george-leslie-mackay||馬偕]]
 - [[people/prof-chao-yuan-huang||黃昭淵教授]]
+- [[people/parris-hsu-cheng-chang.md|張旭成]] — mentioned in this record
+- [[people/philip-lin.md|林水泉]] — mentioned in this record
+- [[people/mei-fun-tsai.md|吳美芬]] — mentioned in this record
+- [[people/y-t-yan.md|顏裕庭]] — mentioned in this record
+- [[people/t-k-lin.md|林宗光]] — mentioned in this record
+- [[people/prof-chao-yuan-huang.md|黃昭淵教授]] — mentioned in this record
+- [[people/s-y-chang.md|張信義]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

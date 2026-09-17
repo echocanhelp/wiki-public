@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2015-01-26 — published
 
 ## Subjects
+- [[people/i-uen-wang-hwang.md|I-Uen Wang Hwang]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

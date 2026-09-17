@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-08-15 — published
 
 ## Subjects
+- [[people/larry-jang.md|Larry Jang]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

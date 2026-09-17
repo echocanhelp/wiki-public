@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-01-26 — published
 
 ## Subjects
+- [[organizations/taiwanese-hakka-association-of-the-world.md|Taiwanese Hakka Association of the World]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

@@ -92,6 +92,9 @@ The TAF website: www.tafworld.org
 
 ## Subjects
 - Perspectives
+- [[people/will-tiao.md|Will Tiao]] — mentioned in this record
+- [[people/stephanie-chuang.md|Stephanie Chuang]] — mentioned in this record
+- [[organizations/taiwanese-american-students-association.md|Taiwanese American Students Association]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

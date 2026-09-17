@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-06-28 — published
 
 ## Subjects
+- [[people/dr-wen-chen-kenneth-wu.md|吳文振博士]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

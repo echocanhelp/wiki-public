@@ -28,6 +28,7 @@ _Bibliographic record only. Full text stays in the vault (copyright)._
 ## Subjects
 - [[works/taiwaneseamerican-org/dinner-with-taiwanese-american-author-jennifer-j-chow-in-seattle||Dinner with Taiwanese American Author Jennifer J. Chow in Seattle]]
 - [[organizations/taiwanese-american-historical-society||TAHS]]
+- [[people/jennifer-j-chow.md|Jennifer J. Chow]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

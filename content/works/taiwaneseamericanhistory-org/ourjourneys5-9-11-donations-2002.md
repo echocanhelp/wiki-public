@@ -49,6 +49,8 @@ Cited from the original ([source](https://taiwaneseamericanhistory.org/ourjourne
 ## Subjects
 - [[people/john-liu||John Liu]]
 - [[people/john-chun-liu||劉醇逸]]
+- [[people/john-liu.md|John Liu]] — mentioned in this record
+- [[people/john-chun-liu.md|劉醇逸]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

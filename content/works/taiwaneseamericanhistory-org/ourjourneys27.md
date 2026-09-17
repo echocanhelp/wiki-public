@@ -64,6 +64,8 @@ Cited from the original ([source](https://taiwaneseamericanhistory.org/ourjourne
 - [[people/fon-may-fan||樊豐美]]
 - [[people/lung-chen||陳隆]]
 - [[people/patrick-huang||黃再添]]
+- [[people/fon-may-fan.md|樊豐美]] — mentioned in this record
+- [[people/patrick-huang.md|黃再添]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

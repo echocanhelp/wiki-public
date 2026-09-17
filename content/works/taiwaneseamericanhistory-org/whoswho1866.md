@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-08-22 — published
 
 ## Subjects
+- [[people/s-b-liu.md|劉西北]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

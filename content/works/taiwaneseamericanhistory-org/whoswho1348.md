@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-10-27 — published
 
 ## Subjects
+- [[people/f-z-chen-wu.md|F. Z. Chen Wu]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

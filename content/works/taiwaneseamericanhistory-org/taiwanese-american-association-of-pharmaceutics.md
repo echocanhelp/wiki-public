@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-09-15 — published
 
 ## Subjects
+- [[organizations/taiwanese-american-association-of-pharmaceutics.md|Taiwanese American Association of Pharmaceutics]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

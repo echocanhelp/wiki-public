@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2023-01-29 — published
 
 ## Subjects
+- [[people/bi-khim-hsiao.md|蕭美琴]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

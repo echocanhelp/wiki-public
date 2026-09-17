@@ -85,6 +85,7 @@ Photo credits: Diane Phelan, Shervin Lainez, Dan Lane Williams
 ## Subjects
 - Arts &amp; Culture
 - Interviews
+- [[people/jerry-jean.md|Jerry Jean]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

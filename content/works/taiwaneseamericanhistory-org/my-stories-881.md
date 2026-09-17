@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2023-07-14 — published
 
 ## Subjects
+- [[people/prof-margaret-shih.md|Prof. Margaret Shih]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

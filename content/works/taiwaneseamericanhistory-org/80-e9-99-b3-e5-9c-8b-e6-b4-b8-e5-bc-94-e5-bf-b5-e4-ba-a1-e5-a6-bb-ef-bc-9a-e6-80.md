@@ -32,6 +32,8 @@ _Bibliographic record only. Full text stays in the vault._
 - 2014-09-05 — published
 
 ## Subjects
+- [[people/wen-chi-lee.md|李文枝]] — mentioned in this record
+- [[people/tony-chen.md|陳國洸]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

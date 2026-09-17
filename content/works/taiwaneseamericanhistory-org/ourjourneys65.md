@@ -82,6 +82,11 @@ Posted in 11/2014
 - [[people/tah-p-04e87d0c6a||郭雨新]]
 - [[people/philip-s-chen||陳伸夫]]
 - [[people/ron-chen||陳榮成]]
+- [[people/charles-ting.md|丁昭昇]] — mentioned in this record
+- [[people/philip-s-chen.md|陳伸夫]] — mentioned in this record
+- [[people/tah-p-04e87d0c6a.md|郭雨新]] — mentioned in this record
+- [[people/ron-chen.md|陳榮成]] — mentioned in this record
+- [[people/ming-che-lin.md|林明哲]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

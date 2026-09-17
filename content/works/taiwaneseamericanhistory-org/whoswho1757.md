@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-07-11 — published
 
 ## Subjects
+- [[people/wan-lung-chuang.md|Wan-Lung Chuang]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

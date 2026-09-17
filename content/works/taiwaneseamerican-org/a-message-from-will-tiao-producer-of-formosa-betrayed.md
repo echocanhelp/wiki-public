@@ -56,6 +56,7 @@ Producer, Formosa Betrayed
 
 ## Subjects
 - Perspectives
+- [[people/will-tiao.md|Will Tiao]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

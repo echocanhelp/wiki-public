@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-01-18 — published
 
 ## Subjects
+- [[people/chun-long-jerry-tsung.md|曾俊隆]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

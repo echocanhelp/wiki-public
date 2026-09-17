@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2019-09-13 — published
 
 ## Subjects
+- [[people/gwhyneth-chen.md|Gwhyneth Chen]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

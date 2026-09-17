@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2015-09-10 — published
 
 ## Subjects
+- [[people/yuan-chuan-lee.md|Yuan Chuan Lee]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

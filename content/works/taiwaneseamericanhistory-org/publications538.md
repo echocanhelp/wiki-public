@@ -32,6 +32,8 @@ _Bibliographic record only. Full text stays in the vault._
 - 2015-02-15 — published
 
 ## Subjects
+- [[people/sonia-lee.md|王淑女]] — mentioned in this record
+- [[people/elizabeth-s-chen.md|李秀麗]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

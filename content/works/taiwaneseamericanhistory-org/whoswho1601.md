@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-04-09 — published
 
 ## Subjects
+- [[people/bill-lee.md|Bill Lee]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

@@ -64,6 +64,9 @@ Cited from the original ([source](https://taiwaneseamericanhistory.org/ourjourne
 - [[people/jennie-wang|林靜娥]]
 - [[people/liao-shu-zong|Liao Shu-zong (廖述宗)]]
 - [[people/shitien-yang|楊錫鈿]]
+- [[people/liao-shu-zong.md|Liao Shu-zong]] — mentioned in this record
+- [[people/shitien-yang.md|楊錫鈿]] — mentioned in this record
+- [[people/jennie-wang.md|林靜娥]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

@@ -56,6 +56,8 @@ Michael Chen graduated from California State University, Los Angeles, with a deg
 - Community
 - Featured
 - Perspectives
+- [[people/michael-s-k-chen.md|Michael S. K. Chen]] — mentioned in this record
+- [[organizations/taiwanese-american-citizens-league.md|Taiwanese American Citizens League]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

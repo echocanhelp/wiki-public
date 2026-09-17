@@ -55,6 +55,8 @@ Cited from the original ([source](https://taiwaneseamericanhistory.org/ourjourne
 ## Subjects
 - [[people/amy-hsu|蘇惠美]]
 - [[people/yung-hwa-hsu|許永華]]
+- [[people/amy-hsu.md|蘇惠美]] — mentioned in this record
+- [[people/yung-hwa-hsu.md|許永華]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

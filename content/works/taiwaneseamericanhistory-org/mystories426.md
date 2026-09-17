@@ -32,6 +32,8 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-04-15 — published
 
 ## Subjects
+- [[people/dr-ya-yen-lee.md|李雅彥醫師]] — mentioned in this record
+- [[people/shu-yuan-susan-tsay.md|蔡淑媛]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

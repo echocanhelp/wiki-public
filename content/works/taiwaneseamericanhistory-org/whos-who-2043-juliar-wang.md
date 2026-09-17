@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2018-02-25 — published
 
 ## Subjects
+- [[people/juliar-wang.md|Juliar Wang]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

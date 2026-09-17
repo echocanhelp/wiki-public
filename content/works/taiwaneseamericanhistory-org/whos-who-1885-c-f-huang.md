@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-09-07 — published
 
 ## Subjects
+- [[people/dr-c-f-huang.md|Dr. C. F. Huang]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

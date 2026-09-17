@@ -87,6 +87,9 @@ Christina was born in Taiwan and grew up in Virginia. She was a founding member 
 - Featured
 - Perspectives
 - Social/Politics
+- [[people/christina-hu.md|Christina Hu]] — mentioned in this record
+- [[organizations/taiwanese-american-citizens-league.md|Taiwanese American Citizens League]] — mentioned in this record
+- [[organizations/taiwanese-student-association.md|Taiwanese Student Association]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

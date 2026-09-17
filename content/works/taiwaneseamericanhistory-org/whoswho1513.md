@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-02-19 — published
 
 ## Subjects
+- [[people/edward-j-s-lin.md|Edward J. S. Lin]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

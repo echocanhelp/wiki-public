@@ -70,6 +70,7 @@ Posted in 01/2021
 
 ## Subjects
 - [[people/debra-liu|謝金朱]]
+- [[people/debra-liu.md|Debra Liu]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

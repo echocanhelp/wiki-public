@@ -47,6 +47,7 @@ https://www.facebook.com/100DaysMovie
 ## Subjects
 - Arts &amp; Culture
 - Interviews
+- [[people/weiko-lin.md|Weiko Lin]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-07-07 — published
 
 ## Subjects
+- [[people/anthony-t-tu.md|Prof. Anthony T. Tu]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

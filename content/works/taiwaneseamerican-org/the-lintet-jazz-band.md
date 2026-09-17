@@ -98,6 +98,7 @@ The Lintet play classic Taiwanese folk song “Diu Diu Deng” 丟丟銅仔! (�
 - Arts &amp; Culture
 - Community
 - Featured
+- [[people/peter-lin.md|Peter Lin]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

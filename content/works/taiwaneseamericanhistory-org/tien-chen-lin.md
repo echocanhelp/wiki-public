@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-11-14 — published
 
 ## Subjects
+- [[people/tien-chen-lin.md|Tien-Chen Lin]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

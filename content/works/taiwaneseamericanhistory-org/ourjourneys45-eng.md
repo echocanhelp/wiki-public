@@ -62,6 +62,7 @@ Source: A Commoners Story, Mu-Sheng Wu
 
 ## Subjects
 - (無具名人物/團體) — absorb 2026-09-07
+- [[people/dr-mu-sheng-wu.md|Dr. Mu-Sheng Wu]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

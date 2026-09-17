@@ -40,6 +40,7 @@ posted on 7/31/2025
 
 ## Subjects
 - [[organizations/taiwanese-heritage-society-of-houston|Taiwanese Heritage Society of Houston]]
+- [[organizations/taiwanese-heritage-society-of-houston.md|Taiwanese Heritage Society of Houston]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

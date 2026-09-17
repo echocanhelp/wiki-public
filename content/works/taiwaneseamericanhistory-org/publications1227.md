@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2018-06-28 — published
 
 ## Subjects
+- [[people/c-m-cecilia-huang.md|黃晴美]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

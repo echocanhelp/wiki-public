@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-01-05 — published
 
 ## Subjects
+- [[people/nai-yuan-hu.md|胡乃元]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

@@ -38,6 +38,7 @@ In 2005, TaiwaneseAmerican.org’s first Spotlight article featured Michelle Kru
 
 ## Subjects
 - Interviews
+- [[organizations/taiwanese-american-students-association.md|Taiwanese American Students Association]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

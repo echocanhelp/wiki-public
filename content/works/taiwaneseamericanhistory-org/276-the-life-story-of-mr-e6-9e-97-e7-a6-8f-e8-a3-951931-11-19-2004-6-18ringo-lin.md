@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2015-05-29 — published
 
 ## Subjects
+- [[people/tah-p-372f20f9ee.md|林福裕]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

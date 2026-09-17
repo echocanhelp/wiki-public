@@ -113,6 +113,16 @@ Posted in 06/2016
 - [[people/strong-chuang|莊秋雄]]
 - [[people/tina-chang|張丁蘭]]
 - [[people/tsung-ming-hsieh|謝聰敏]]
+- [[people/peng-ming-min.md|Peng Ming-min]] — mentioned in this record
+- [[people/chen-zhaonan.md|Chen Chao-nan]] — mentioned in this record
+- [[organizations/united-formosans-for-independenceufi.md|United Formosans for Independence UFI]] — mentioned in this record
+- [[people/stella-landauer.md|陳翠玉]] — mentioned in this record
+- [[people/strong-chuang.md|莊秋雄]] — mentioned in this record
+- [[people/philip-lin.md|林水泉]] — mentioned in this record
+- [[people/stella-chen.md|陳婉真]] — mentioned in this record
+- [[people/tsung-ming-hsieh.md|謝聰敏]] — mentioned in this record
+- [[people/minlu-chai.md|蔡銘祿]] — mentioned in this record
+- [[people/tina-chang.md|張丁蘭]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

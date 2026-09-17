@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2014-11-24 — published
 
 ## Subjects
+- [[people/hsun-hsun-hsu.md|許恂恂]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

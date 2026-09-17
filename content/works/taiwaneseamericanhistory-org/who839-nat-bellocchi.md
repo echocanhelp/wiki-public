@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-02-24 — published
 
 ## Subjects
+- [[people/nat-bellocchi.md|Nat Bellocchi]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

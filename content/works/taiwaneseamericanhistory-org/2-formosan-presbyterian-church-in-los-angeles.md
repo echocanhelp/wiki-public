@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-08-22 — published
 
 ## Subjects
+- [[organizations/formosan-presbyterian-church-in-los-angeles.md|Formosan Presbyterian Church in Los Angeles]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

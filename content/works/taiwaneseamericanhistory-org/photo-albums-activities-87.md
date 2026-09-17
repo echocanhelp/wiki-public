@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2015-06-19 — published
 
 ## Subjects
+- [[organizations/youth-orchestra-cycny.md|Youth Orchestra, CYCNY]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

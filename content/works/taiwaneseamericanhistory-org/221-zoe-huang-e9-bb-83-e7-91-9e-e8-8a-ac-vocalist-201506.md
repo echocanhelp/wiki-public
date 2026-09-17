@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2015-06-28 — published
 
 ## Subjects
+- [[people/zoe-huang.md|Zoe Huang]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

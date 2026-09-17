@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-07-17 — published
 
 ## Subjects
+- [[people/p-d-chen.md|P. D. Chen]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2015-03-29 — published
 
 ## Subjects
+- [[people/susan-shu-ai-tsai.md|Susan Shu-Ai Tsai]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

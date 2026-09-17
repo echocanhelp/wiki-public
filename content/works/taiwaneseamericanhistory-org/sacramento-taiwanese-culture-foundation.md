@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2014-10-12 — published
 
 ## Subjects
+- [[organizations/sacramento-taiwanese-culture-foundation.md|Sacramento Taiwanese Culture Foundation]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

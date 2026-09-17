@@ -78,6 +78,8 @@ Posted in 07/2017
 
 ## Subjects
 - [[organizations/new-york-taiwan-center]]
+- [[people/fon-may-fan.md|樊豐美]] — mentioned in this record
+- [[people/patrick-huang.md|黃再添]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

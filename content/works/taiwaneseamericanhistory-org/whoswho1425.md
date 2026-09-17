@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-12-11 — published
 
 ## Subjects
+- [[people/tah-p-5cf2b4632a.md|須藤正子]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

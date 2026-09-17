@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-07-27 — published
 
 ## Subjects
+- [[people/prof-ruey-s-tsay.md|Prof. Ruey S. Tsay]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-04-06 — published
 
 ## Subjects
+- [[people/h-j-chen.md|H. J. Chen]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

@@ -77,6 +77,10 @@ Cited from the original ([source](https://taiwaneseamericanhistory.org/ourjourne
 - [[people/an-su-gao-lai||賴高安賜]]
 - [[people/m-l-chen||陳夢蘭]]
 - [[people/c-j-chen||陳銓仁]]
+- [[people/charles-ting.md|丁昭昇]] — mentioned in this record
+- [[people/c-j-chen.md|陳銓仁]] — mentioned in this record
+- [[people/m-l-chen.md|陳夢蘭]] — mentioned in this record
+- [[people/an-su-gao-lai.md|賴高安賜]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2015-09-27 — published
 
 ## Subjects
+- [[people/frank-m-hsu.md|Frank M. Hsu]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

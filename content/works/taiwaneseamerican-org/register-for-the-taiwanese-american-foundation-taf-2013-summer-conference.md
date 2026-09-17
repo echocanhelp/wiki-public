@@ -29,6 +29,7 @@ _Bibliographic record only. Full text stays in the vault (copyright)._
 - [[works/taiwaneseamerican-org/register-for-the-taiwanese-american-foundation-taf-2013-summer-conference||Register for the Taiwanese American Foundation (TAF) 2013 Summer Conference]]
 - [[organizations/taiwan-american-foundation||Taiwanese American Foundation (TAF)]]
 - [[organizations/taiwanese-american-historical-society||TAHS]]
+- [[organizations/taiwan-american-foundation.md|Taiwanese American Foundation]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

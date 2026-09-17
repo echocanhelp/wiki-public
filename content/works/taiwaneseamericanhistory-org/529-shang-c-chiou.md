@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2015-08-13 — published
 
 ## Subjects
+- [[people/shang-c-chiou.md|Shang C. Chiou]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2020-10-12 — published
 
 ## Subjects
+- [[people/dr-andy-hwang.md|Dr. Andy Hwang]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

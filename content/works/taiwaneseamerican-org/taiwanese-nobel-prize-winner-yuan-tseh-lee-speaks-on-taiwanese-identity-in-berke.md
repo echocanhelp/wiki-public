@@ -28,6 +28,7 @@ _Bibliographic record only. Full text stays in the vault (copyright)._
 ## Subjects
 - [[works/taiwaneseamerican-org/taiwanese-nobel-prize-winner-yuan-tseh-lee-speaks-on-taiwanese-identity-in-berke||Taiwanese Nobel Prize Winner Yuan-Tseh Lee Speaks on &#8220;Taiwanese Identity&#8221; in Berkeley, CA]]
 - [[organizations/taiwanese-american-historical-society||TAHS]]
+- [[people/yuan-tseh-lee.md|Dr. Yuan-Tseh Lee]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

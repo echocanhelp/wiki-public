@@ -82,6 +82,14 @@ Excerpt from the 10th Anniversary Special Issue of New York Taiwan Center July, 
 - [[people/patrick-huang||Patrick Huang]]
 - [[organizations/new-york-taiwan-center||New York Taiwan Center]]
 - [[organizations/taiwanese-american-council||Taiwanese American Council]]
+- [[people/dr-tu-chen.md|Dr. Tu Chen]] — mentioned in this record
+- [[people/morisan-lu.md|Morisan Lu]] — mentioned in this record
+- [[people/maurice-hsu.md|Maurice Hsu]] — mentioned in this record
+- [[people/patrick-huang.md|Patrick Huang]] — mentioned in this record
+- [[people/dr-lung-fong-chen.md|Dr. Lung-Fong Chen]] — mentioned in this record
+- [[people/martin-tsai.md|Martin Tsai]] — mentioned in this record
+- [[organizations/new-york-taiwan-center.md|New York Taiwan Center]] — mentioned in this record
+- [[organizations/taiwanese-american-council.md|Taiwanese American Council]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

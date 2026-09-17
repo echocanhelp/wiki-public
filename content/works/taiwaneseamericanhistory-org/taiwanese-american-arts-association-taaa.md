@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-02-20 — published
 
 ## Subjects
+- [[organizations/taiwanese-american-arts-association.md|Taiwanese American Arts Association]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

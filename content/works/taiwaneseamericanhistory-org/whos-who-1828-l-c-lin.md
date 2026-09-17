@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-08-09 — published
 
 ## Subjects
+- [[people/dr-l-c-lin.md|林麗瓊博士]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

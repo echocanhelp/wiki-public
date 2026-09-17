@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-11-16 — published
 
 ## Subjects
+- [[people/monica-hsu.md|徐麗芬]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

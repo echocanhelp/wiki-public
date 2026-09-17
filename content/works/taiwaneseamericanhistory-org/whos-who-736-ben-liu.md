@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2015-12-13 — published
 
 ## Subjects
+- [[people/prof-ben-liu.md|Prof. Ben Liu]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

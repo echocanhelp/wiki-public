@@ -58,6 +58,9 @@ Posted in 05/2017
 
 ## Subjects
 - [[people/dr-peter-huang]]
+- [[people/james-david-king.md|王振明]] — mentioned in this record
+- [[people/dr-chiung-t-ling.md|林安息]] — mentioned in this record
+- [[people/dr-seifu-ryu.md|劉清風醫師]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

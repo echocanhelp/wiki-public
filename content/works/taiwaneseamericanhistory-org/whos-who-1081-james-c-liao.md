@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-06-16 — published
 
 ## Subjects
+- [[people/prof-james-c-liao.md|Prof. James C. Liao]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

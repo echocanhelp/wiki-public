@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2018-10-09 — published
 
 ## Subjects
+- [[people/de-min-wu.md|Prof. De-Min Wu]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

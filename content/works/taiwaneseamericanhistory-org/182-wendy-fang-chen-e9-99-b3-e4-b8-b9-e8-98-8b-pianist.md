@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2015-03-22 — published
 
 ## Subjects
+- [[people/wendy-fang-chen-tilp.md|陳丹蘋]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

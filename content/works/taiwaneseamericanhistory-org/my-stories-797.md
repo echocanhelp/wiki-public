@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2021-07-23 — published
 
 ## Subjects
+- [[people/ming-hsin-chiang.md|江明信]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

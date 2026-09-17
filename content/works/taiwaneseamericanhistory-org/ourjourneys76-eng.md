@@ -223,6 +223,18 @@ Translated from 76. 全美台灣同鄉會/吳木盛/12/2014
 - [[people/tony-chen||Tony Chen]]
 - [[people/yi-ho-cheng||Yi-Ho Cheng]]
 - [[organizations/taiwanese-association-of-america||Taiwanese Association Of America]]
+- [[people/donald-c-j-chen.md|Donald C.J. Chen]] — mentioned in this record
+- [[people/dr-wu-hsiung-tsai.md|Dr. Wu Hsiung Tsai]] — mentioned in this record
+- [[people/dr-tu-chen.md|Dr. Tu Chen]] — mentioned in this record
+- [[people/choan-seng-song.md|Dr. Choan-Seng Song]] — mentioned in this record
+- [[people/cheng-shen-fang.md|Cheng-Shen Fang]] — mentioned in this record
+- [[people/dr-mu-sheng-wu.md|Dr. Mu-Sheng Wu]] — mentioned in this record
+- [[people/chiu-sen-wang.md|Chiu-Sen Wang]] — mentioned in this record
+- [[people/c-j-chen.md|C. J. Chen]] — mentioned in this record
+- [[people/dr-evan-ling.md|Dr. Evan Ling]] — mentioned in this record
+- [[people/fang-ming-chen.md|Fang-Ming Chen]] — mentioned in this record
+- [[people/morgan-chang.md|Morgan Chang]] — mentioned in this record
+- [[people/raymond-wu.md|Raymond Wu]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

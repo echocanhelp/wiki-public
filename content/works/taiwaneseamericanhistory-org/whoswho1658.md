@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-05-15 — published
 
 ## Subjects
+- [[people/w-s-chen.md|W. S. Chen]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

@@ -246,6 +246,12 @@ LWC, editor-in-chief
 ## Subjects
 - Community
 - Featured
+- [[people/kelly-lin.md|Kelly Lin]] — mentioned in this record
+- [[people/tsai-ing-wen.md|Tsai Ing-wen]] — mentioned in this record
+- [[people/stephanie-syd-yang.md|Stephanie Syd Yang]] — mentioned in this record
+- [[people/andrew-yang.md|Andrew Yang]] — mentioned in this record
+- [[people/peter-lin.md|Peter Lin]] — mentioned in this record
+- [[organizations/taiwanese-american-citizens-league.md|Taiwanese American Citizens League]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

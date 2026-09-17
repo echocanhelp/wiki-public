@@ -671,6 +671,18 @@ Posted in 08/2020
 - [[organizations/taiwanese-american-citizens-league|Taiwanese American Citizens League]]
 - [[organizations/taiwanese-association-of-america|Taiwanese Association of America]]
 - [[people/wendy-cheng|Wendy Cheng]]
+- [[people/wendy-cheng.md|Wendy Cheng]] — mentioned in this record
+- [[organizations/formosan-association-for-human-rights.md|Formosan Association for Human Rights]] — mentioned in this record
+- [[organizations/taiwanese-american-citizens-league.md|Taiwanese American Citizens League]] — mentioned in this record
+- [[organizations/taiwanese-association-of-america.md|Taiwanese Association of America]] — mentioned in this record
+- [[organizations/taiwanese-alliance-for-interculture-southern-california.md|Taiwanese Alliance for Interculture]] — mentioned in this record
+- [[people/ho-rui-hsu.md|許和瑞]] — mentioned in this record
+- [[people/rev-r-h-chang.md|張瑞雄牧師]] — mentioned in this record
+- [[people/tzutsai-cheng.md|鄭自才]] — mentioned in this record
+- [[people/strong-chuang.md|莊秋雄]] — mentioned in this record
+- [[people/tah-p-04e87d0c6a.md|郭雨新]] — mentioned in this record
+- [[people/morgan-chang.md|張富雄]] — mentioned in this record
+- [[people/stella-chen.md|陳婉真]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

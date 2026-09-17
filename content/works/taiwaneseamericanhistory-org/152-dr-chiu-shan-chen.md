@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2018-10-21 — published
 
 ## Subjects
+- [[people/dr-chiu-shan-chen.md|陳秋山博士]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

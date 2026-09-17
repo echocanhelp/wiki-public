@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2014-12-21 — published
 
 ## Subjects
+- [[people/professor-schuman-s-tu.md|Professor Schuman S. Tu]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

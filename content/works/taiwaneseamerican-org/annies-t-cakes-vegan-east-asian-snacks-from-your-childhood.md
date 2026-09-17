@@ -125,6 +125,7 @@ https://www.facebook.com/AnniesTCakes
 ## Subjects
 - Food &amp; Travel
 - Interviews
+- [[people/tammy-chang.md|Tammy Chang]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

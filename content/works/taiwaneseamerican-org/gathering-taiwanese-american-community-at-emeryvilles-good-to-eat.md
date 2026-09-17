@@ -68,6 +68,9 @@ Plan your next visit to Good to Eat Dumplings here.
 ## Subjects
 - Community
 - Food &amp; Travel
+- [[people/ho-chie-tsai.md|Ho Chie Tsai]] — mentioned in this record
+- [[people/leona-chen.md|Leona Chen]] — mentioned in this record
+- [[organizations/taiwan-american-foundation.md|Taiwanese American Foundation]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

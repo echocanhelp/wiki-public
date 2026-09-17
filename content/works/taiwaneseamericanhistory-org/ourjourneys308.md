@@ -45,6 +45,7 @@ Posted in 08/2017
 ## Subjects
 - [[people/cheng-y-chuang]]
 - [[people/dr-ming-cheng-liau]]
+- [[people/cheng-y-chuang.md|莊承業]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

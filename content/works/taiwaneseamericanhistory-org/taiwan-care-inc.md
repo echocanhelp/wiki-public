@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2014-10-12 — published
 
 ## Subjects
+- [[organizations/taiwan-care-inc.md|Taiwan Care Inc.]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

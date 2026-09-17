@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2018-08-30 — published
 
 ## Subjects
+- [[people/min-kao.md|高民環博士]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

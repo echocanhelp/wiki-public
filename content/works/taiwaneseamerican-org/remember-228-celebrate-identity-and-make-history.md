@@ -56,6 +56,10 @@ Creator of TaiwaneseAmerican.org
 
 ## Subjects
 - Perspectives
+- [[people/will-tiao.md|Will Tiao]] — mentioned in this record
+- [[people/ho-chie-tsai.md|Ho Chie Tsai]] — mentioned in this record
+- [[organizations/taiwanese-american-citizens-league.md|Taiwanese American Citizens League]] — mentioned in this record
+- [[organizations/taiwan-american-foundation.md|Taiwanese American Foundation]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

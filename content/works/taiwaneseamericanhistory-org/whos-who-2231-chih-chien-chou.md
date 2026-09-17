@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2019-12-04 — published
 
 ## Subjects
+- [[people/dr-chih-chien-adam-chou.md|周志謙博士]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

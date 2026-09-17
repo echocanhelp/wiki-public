@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2015-06-29 — published
 
 ## Subjects
+- [[people/cossette-sun.md|Cossette Sun]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

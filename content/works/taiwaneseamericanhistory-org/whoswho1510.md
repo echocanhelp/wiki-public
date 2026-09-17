@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-02-12 — published
 
 ## Subjects
+- [[people/hwei-ling-chen.md|Hwei-Ling Chen]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

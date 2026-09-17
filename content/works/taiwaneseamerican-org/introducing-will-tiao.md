@@ -72,6 +72,8 @@ Los Angeles, CA 90027
 
 ## Subjects
 - Interviews
+- [[people/will-tiao.md|Will Tiao]] — mentioned in this record
+- [[people/henry-c-liu.md|Henry C. Liu]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]
