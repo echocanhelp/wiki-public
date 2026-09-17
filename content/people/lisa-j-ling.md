@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-17
 ---
 # Lisa J. Ling (凌志慧)
 
@@ -35,6 +35,11 @@ Host of National Geographic Explorer, reality television show, The Job, reporter
 - **Husband:** Paul Song
 - **Daughter:** Jett Ling Song
 
+
+## Role in the Community
+- Held in the TAH Foundation story corpus: [[works/taiwaneseamericanhistory-org/132-lisa-j-ling-e5-87-8c-e5-bf-97-e6-85-a7|TAH #132 — Lisa J. Ling 凌志慧]] (published 2014-12-03, bibliographic record).
+- Her corpus record documents a national-media career (CNN, OWN, ABC, National Geographic Explorer, Channel One News); no movement-organization activity is recorded in the vault corpus beyond the TAH Who's Who profile itself.
+- Listed in the same TAH Who's Who corpus alongside [[people/laura-g-ling|Laura G. Ling 凌志美]] (TAH #133).
 
 ## Sources
 - [TAH #132 encyclopedia: 132. Lisa J. Ling 凌志慧](https://taiwaneseamericanhistory.org/132-lisa-j-ling-%e5%87%8c%e5%bf%97%e6%85%a7/)

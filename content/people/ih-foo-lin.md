@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-17
 ---
 # Ih Foo Lin (林毅夫醫師)
 
@@ -39,6 +39,11 @@ Staff Psychiatrist, Director
 - **Daughter:** 0
 - **Son:** 2
 
+
+## Role in the Community
+- Founding participant (October 1983) of the **Cleveland Taiwanese Medical Association**, established at the Feng Lin Ko (楓林閣) restaurant in Cleveland with 25 doctors; he is listed among the Kaohsiung Medical University–trained founders in [[works/taiwaneseamericanhistory-org/ourjourneys74-eng|Our Journeys #74 (EN)]]. The founders deliberately minimized politics amid White Terror-era suspicion, emphasizing mutual benefits for foreign-trained doctors; the group planned the North American Taiwanese Medical Association's founding at the following summer's Taiwanese American Conference – Midwest.
+- Consistent with his TAH profile roles: 會長 of the Cleveland Taiwanese Physicians Association, 秘書 of the FAPA Cleveland chapter, and 會長 of the Chicago Taiwanese Association.
+- Bibliographic record: [[works/taiwaneseamericanhistory-org/35-0|TAH #35 — Ih Foo Lin 林毅夫 (2014-10-04)]].
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/ih-foo-lin/)
