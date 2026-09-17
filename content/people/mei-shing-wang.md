@@ -47,3 +47,6 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+## Vault records（deepen-x 2026-09-16, slice 15）
+- re-grep 王美幸 / Mei Shing Wang：新增吸收本人回憶錄 mystories #535、#537 與聯展畫冊 publications #1089（皆書目記錄，全文未入庫）→ 已記入 Role in the Community。
