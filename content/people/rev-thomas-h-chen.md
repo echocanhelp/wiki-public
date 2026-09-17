@@ -46,3 +46,7 @@ _No filled family fields on the TAH profile._
 
 ## Network
 - [[organizations/presbyterian-church-in-taiwan||PCT]] — TAH Who’s Who
+
+## From the record
+
+- 2024-02-28 — 在優社（TEA）與台灣人聯合基金會（TUF）合辦的「台灣介心靈日」228 77週年紀念音樂會（Arcadia Community Church）帶領會眾祈禱，祈禱文指出每個國家都有黑暗的歷史，必須為受害者發聲、打破社會禁忌，否則統治者越發猖狂；並祈求歷史完全顯露、受害者得到公平對待，台灣面對外來新威脅能建立健康自由的國家（[[articles/taiwanjustice-net/2025/20250517150428_台灣介心靈日-2-28-77週年紀念音樂會20240228影音全集_ff4731d4f51b100d|TJJ, 2024-03-04]]）。

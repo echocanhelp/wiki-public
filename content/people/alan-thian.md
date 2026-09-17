@@ -263,6 +263,7 @@ Notable quotes and mentions of **田詒鴻** in Taiwan Justice articles:
 - 2022-09-13 — A TJJ notice for the 大洛杉磯台灣會館 24th-anniversary gala records that Thian, then 董事長 and 行政院政務顧問, led the 2018 launch of the center's expansion/ rebuilding fund campaign together with 執行長 林榮松 ([[articles/taiwanjustice-net/2022/20220924222953_2022_09_13_10-22大洛杉磯台灣會館-24-週年募款年會_紀政擔任主講_2a543ddc9301b7b3|TJJ, 2022-09-13]]).
 - 2020-11-17 — The Taiwan Center's 22nd-anniversary notice repeats that the rebuilding campaign was launched in 2018 under his chairmanship (then also 行政院政務顧問), organised by 執行長 林榮松 with all former chairmen's support ([[articles/taiwanjustice-net/2020/20201126160218_2020_11_17_大洛杉磯台灣會館基金會22週年線上募款年會12-5舉行_c3e762826a7e42d2|TJJ, 2020-11-17]]).
 - 2024-10-04 — 大洛杉磯台灣會館公布26周年年會晚宴（11-2, Pacific Palms Resort）募款資訊，重建新大樓兩千萬美金預算進入最後募款階段、計畫2025破土；田詒鴻以董事長名列38位董事購票聯絡人首位（[[articles/taiwanjustice-net/2025/20250420093345_2024大洛杉磯台灣會館第26周年年會晚宴暨募款活動11月2_2f4af86847559b66|TJJ 會館公告, 2024-10-04]]）。
+- 2020-01-06 — 以海外小英後援會會長率助選團（團員來自美國各州、加拿大、澳洲、紐西蘭）返台為立委造勢，行第4天欣慰分享「我深深感受到民進黨啓動世代交替，已經非常正面成功，我對未來的台灣充滿信心」；報導並記該團總幹事許維鈞、團長楊婉柔及經驗最豐富的林榮松，晚間行政院長蘇貞昌親至新北陪同立委張宏陸掃街向海外鄉親致意（[[articles/taiwanjustice-net/2025/20251207122146_2020海外小英後援會助選團返台助選_感受民進黨啓_f631078d99d9924d|TJJ, 2020-01-06]]）。
 
 ## Sources
 - TAHS 2025 organization chart (roles only)
