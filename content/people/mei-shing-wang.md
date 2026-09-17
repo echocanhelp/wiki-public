@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-14
+last_reviewed: 2026-09-16
 ---
 # Mei Shing Wang (王美幸)
 
@@ -32,6 +32,8 @@ Ms. Mei-Shing Wang was born in Taipei in 1944 and graduated from The Art Departm
 ## Role in the Community
 - Primary-source donor: her personal papers and artworks are held in the TAH Foundation archive as [[works/taiwaneseamericanhistory-org/collection-of-ms-mei-shing-wang|25. Collection of Ms. Mei Shing Wang 王美幸女士的收藏]] (recorded 2017-07-07) — an artist's-collection deposit into the Taiwanese American historical record.
 - Featured in the TAH encyclopedia twice: card [[works/taiwaneseamericanhistory-org/whoswho1592|1592. Mei Shing Wang 王美幸 / 2017/03]] and profile 66.
+- First-person contributor to the TAH story corpus: memoir essays [[works/taiwaneseamericanhistory-org/mystories535|535. 感恩．祝福 / 王美幸 / 2017/03]] and [[works/taiwaneseamericanhistory-org/mystories537|537. 王美幸的繪畫生涯 / 王美幸 / 2017/03]] — her own account of her painting life, primary source for this page.
+- Co-authored the 2006/06 art catalogue [[works/taiwaneseamericanhistory-org/publications1089|1089. 生命愛土地 (with 汪壽寧、周月秀、孫明煌)]] — group exhibition publication; co-exhibitors have no vault person pages yet.
 
 ## Family
 

@@ -49,4 +49,4 @@ _No filled family fields on the TAH profile._
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
-複核（deepen-x 2026-09-16, slices incl. 20、22、26、18）：corpus re-grep 僅再確認 #254、#135（10221）書目條目與 ourjourneys29 會館《台灣人的歌》工作人員紀錄（皆已吸收），無新增社群材料；USC 學位 HOLD 維持。Slice 09162138-15 re-check: identical hit set（#254、#10221、ourjourneys29、index），皆已吸收，SKIP-no-new-material.
+複核（deepen-x 2026-09-16, slices incl. 20、22、26、18）：corpus re-grep 僅再確認 #254、#135（10221）書目條目與 ourjourneys29 會館《台灣人的歌》工作人員紀錄（皆已吸收），無新增社群材料；USC 學位 HOLD 維持。Slice 09162138-15 re-check: identical hit set（#254、#10221、ourjourneys29、index），皆已吸收，SKIP-no-new-material. Slice 09162200-13 re-check: 相同命中集合（#254、#10221、ourjourneys29、index），ourjourneys29 會館《台灣人的歌》工作人員紀錄已吸收，無新增社群語料，SKIP-with-reason；USC 學位 HOLD 維持。

@@ -40,6 +40,8 @@ Corpus check (2026-09-16, slices deepen-x-30、09160700-19): re-grep under 蔡�
 
 HOLD: corpus name spellings "Wan-Lin" (#450) vs "Wan-Line" (#214, likely typo); both records are bibliographic only — full text stays in the TAH vault, no additional biography absorbable.
 
+Corpus re-grep (2026-09-16, slice deepen-x-09162200-12): identical hit set — own records [[works/taiwaneseamericanhistory-org/450-wan-lin-tsai-e8-94-a1-e5-ae-9b-e9-9c-96-201506|#450]] and [[works/taiwaneseamericanhistory-org/214-wan-line-e8-94-a1-e5-ae-9b-e9-9c-96-vionist201506|#214]] only. SKIP-no-new-material; page saturated.
+
 ## Family
 
 _No filled family fields on the TAH profile._

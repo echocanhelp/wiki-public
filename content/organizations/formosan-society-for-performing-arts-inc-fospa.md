@@ -26,6 +26,8 @@ The Formosan Society for Performing Arts Inc. (FOSPA) is a nonprofit, non-religi
 
 Corpus check (2026-09-16, slices deepen-x-09160700-23 + 09162138-14): grep 福爾摩沙表演藝術協會 / FOSPA / Formosan Society for Performing Arts across content/works + content/articles returns only the association's own three records (directory entry, concerts #126 全球榮星樂展 2009, concerts #55 CIRCLE OF LIFE 2016) — all already linked above — plus the harvest index row. All are grade-B bibliographic stubs; no memoir or third-party mention adds facts. Nothing new absorbable; no conflicts to hold.
 
+Corpus re-grep (2026-09-16, slice deepen-x-09162200-12): identical hit set — own directory entry, concerts #126 and #55 only. SKIP-no-new-material; page saturated, recommend dropping from future slices.
+
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/formosan-society-for-performing-arts-inc-fospa/)
 
