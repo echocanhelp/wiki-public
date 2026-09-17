@@ -75,3 +75,7 @@ last_reviewed: 2026-09-14
 - [[organizations/the-kee-jen-education-of-arts-foundation||The Kee-Jen Education of Arts Foundation 呂泉生文教基金會]]
 - [[organizations/taiwan-center||Taiwan Center Foundation of the Greater Los Angeles]]
 - [[people/ye-siya||葉思雅]] — studied piano under 呂泉生 (per that page)
+
+## From the record
+
+- 1995-07-29 — 其作品〈搖嬰仔歌〉在台灣人聯合基金會（TUF）洛杉磯「台灣名家演奏系列」音樂會上由黃瑞芬等演出（[[articles/taiwanjustice-net/2024/20240225012121_root_64302d51d03b3c5f|TJJ 轉載訃聞，2022-01-29]]）。

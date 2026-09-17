@@ -47,3 +47,7 @@ last_reviewed: 2026-08-17
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+## From the record
+
+- 2021-09-25 — 出席台大陳文成事件 40 週年紀念座談會並發言：作為陳文成差一屆的學長，過去因難過屢缺席紀念活動，此次站出來盼望釐清真相（[[articles/taiwanjustice-net/2021/20211023211116_2021_09_25_陳文成事件-人權醫師陳永興盼儘速釐清真相_d6441ab32ea8636d|TJJ/CNA, 2021-09-25]]）。

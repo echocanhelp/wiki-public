@@ -67,3 +67,4 @@ Corpus grep (游朝凱 / Charles Yu) returns 6 work records — awards-93, whos-
 
 - 2024-07-06 — TJJ/CNA profile (黃淑芳): Yu says he began writing to narrate his parents' inner world as Taiwanese immigrants; interviewed by video alongside his father 游銘泉; 《內景唐人街》 TV adaptation set for Hulu/Disney+ that autumn; UC Berkeley assigned the novel for freshman reading and the NEA Big Read selected it ([[articles/taiwanjustice-net/2024/20240715085116_root_9c6973783db0011a|TJJ/CNA, 2024-07-06]]).
 - 2016-05-10 — 大洛杉磯台灣會館「2016年海外台語研習會」宣傳：鄭良光將於課程中介紹台文翻譯與世界名著接軌途徑，並專介紹旅居美國的第二代作家游朝凱 Charles Yu——曾獲美國國會圖書館選為全美35歲以下最有前途的五位作家之一、作品收入高中教科書，原執業律師、時已專事寫作（[[articles/taiwanjustice-net/2023/20230205151554_2016_05_10_2016年-海外台語研習會_六月四日舉行-_大洛杉磯_24ebe5f065076949|TJJ, 2016-05-10]]）。
+- 2021-02-11 — 與 TaiwaneseAmerican.org 合作創立以父母命名的游玲娟、游銘泉創意寫作獎，獎勵台美人高中與大學生的創意文學作品，獲獎者獎金 1,500 美元（[[articles/taiwanjustice-net/2026/20260211084131_全國圖書獎得主游朝凱charles-yu為台美人青年創意作家_5b6cede86851b2ba|TJJ, 2021-02-14]]）。

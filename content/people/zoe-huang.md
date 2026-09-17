@@ -69,3 +69,7 @@ _No filled family fields on the TAH profile._
 - [[works/taiwaneseamericanhistory-org/221-zoe-huang-e9-bb-83-e7-91-9e-e8-8a-ac-vocalist-201506||TAH #221: Zoe Huang 黃瑞芬, Vocalist / 2015/06]]
 - [[works/taiwaneseamericanhistory-org/373-zoe-huang-e9-bb-83-e7-91-9e-e8-8a-ac201504||TAH #373: Zoe Huang 黃瑞芬 / 2015/04]]
 - [[articles/taiwanjustice-net/2022/20220519130616_2022_01_29_台灣女聲樂家_資深古典音樂節目主持人黃瑞芬過_bfc5f319a036a339||台灣女聲樂家、資深古典音樂節目主持人黃瑞芬過世（Taiwan Justice, 2022）]]
+
+## From the record
+
+- 2022-01-15 — 因心肌梗塞在家中過世，享年 58 歲；訃聞回顧其茱莉亞學歷、1988 比利時依莉沙白國際聲樂大賽銅牌，以及 1995-07-29 應 TUF 邀請在洛杉磯的音樂會（[[articles/taiwanjustice-net/2024/20240225012121_root_64302d51d03b3c5f|TJJ, 2022-01-29]]）。

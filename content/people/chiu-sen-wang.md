@@ -46,3 +46,7 @@ last_reviewed: 2026-08-17
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+## From the record
+
+- 2024-02-24 — 主講「二七部隊」專題演講，於大洛杉磯台灣會館 2024 年二二八追思紀念大會（77 周年），介紹這支以反抗陳儀政府為號召的民兵部隊（[[articles/taiwanjustice-net/2025/20250213041753_二二八事件77周年-大洛杉磯台灣會館舉辦追思紀念_f4bc88a293a5ec0d|TJJ, 2024-02-25]]）。

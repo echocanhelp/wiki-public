@@ -92,3 +92,4 @@ Yang Ryan's profile in the 2017 TAHS publication was prepared by the Taiwanese A
 ## From the record
 
 - 2016-12-09 — Ryan's Washington Post op-ed, republished on TJJ, opens with her third-grade interview of her Taiwanese mother about being "from China," then uses her research for the novel *Green Island* to argue that treating Taiwan's history as beginning in 1949 is "a second silencing" after 38 years of martial law ([[articles/taiwanjustice-net/2024/20240721112815_root_15fc4a3e5664504e|TJJ republication of WaPo op-ed, 2016-12-09]]).
+- 2021-02-11 — 受邀擔任首屆游玲娟、游銘泉創意寫作獎（Betty L. Yu and Jin C. Yu Creative Writing Prizes，TaiwaneseAmerican.org）評委（[[articles/taiwanjustice-net/2026/20260211084131_全國圖書獎得主游朝凱charles-yu為台美人青年創意作家_5b6cede86851b2ba|TJJ, 2021-02-14]]）。
