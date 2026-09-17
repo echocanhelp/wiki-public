@@ -53,3 +53,4 @@ _No filled family fields on the TAH profile._
 
 ## Corpus re-grep (2026-09-16, slices 09160500-28, 09160600-20)
 - Re-grep 'Ted Fan|范少達' against content/works + content/articles: hits = ourjourneys162 中/EN (already absorbed in Role in the Community above), the works index, and his own TAH encyclopedia record [[works/taiwaneseamericanhistory-org/111-dr-ted-fan|TAH #111: Dr. Ted Fan 范少達博士]] (published 2018-09-26, band-B bibliographic stub — full text stays in the TAH vault), now wikilinked. No other community facts absorbable; no conflicts to hold.
+- Re-grep re-run in deepen-x slice 09162138-13 (2026-09-16): hit set unchanged except that the second own-record [[works/taiwaneseamericanhistory-org/whos-who-1220-sao-tah-fan|TAH #1220: Dr. Sao-Tah (Ted) Fan 范少達博士]] (already cited in Sources) is now also wikilinked here. No new community material; SKIP-no-new-material.

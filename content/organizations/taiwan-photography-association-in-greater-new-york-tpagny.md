@@ -41,3 +41,6 @@ The Taiwan Photography Association in Greater New York (TPAGNY) was founded in 2
 
 ## Corpus re-grep (slice 09160700-10)
 - 2026-09-16: hit set unchanged -- own TAH directory record + works/index only. No new community/corpus facts absorbable; no conflicts to HOLD. **SKIP-with-reason.**
+
+## Corpus re-grep (slice 09162138-5)
+- 2026-09-16: re-grep 大紐約區台灣攝影學會 / TPAGNY / 紐約台灣攝影學會 / founder Ching-tse Lee — hit set identical: own directory record + works/index only. **SKIP-with-reason**; nothing new absorbable, no conflicts to HOLD.

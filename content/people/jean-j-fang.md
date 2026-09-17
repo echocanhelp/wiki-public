@@ -43,7 +43,8 @@ Accomplishment
 - Husband 方菊雄 (Jyu-Hsiung Fang, professor) has his own corpus records: [[works/taiwaneseamericanhistory-org/186-prof-jyu-hsiung-fang|186. Prof. Jyu-Hsiung Fang]] and [[works/taiwaneseamericanhistory-org/whos-who-714-jyu-hsiung-fan|WHO'S WHO 714. Jyu-Hsiung Fang]].
 - As NATWA president (1999–2000) she commissioned the book-length collection of the 婦女信箱 advice column (long written by 阿香 and carried in 台灣公論報); the editor's memoir recalls her request to compile the year's columns into a volume — [[works/taiwaneseamericanhistory-org/ourjourneys79|Our Journeys 79]].
 - Early movement record: recalled in [[works/taiwaneseamericanhistory-org/ourjourneys58|Our Journeys 58]] as one of the Manhattan, Kansas staff who sold movement books (alongside 陳希寬, 莊秋雄, 方菊雄 and others) in the UFAI-related book drive whose accounts totalled US$2,069 in receipts.
-- Corpus re-grep 2026-09-16 (slice 09160700-19): hits = ourjourneys8-eng, ourjourneys79, ourjourneys58, own #163/#827 records, works index — all already linked above; nothing new absorbable. SKIP-with-reason.
+- As NATWA president she also began issuing the NATWA newsletter and created a "Networking Committee", and in the 2000 and 2004 Presidential elections she led NATWA delegations back to Taiwan to participate in election campaigns — [[works/taiwaneseamericanhistory-org/ourjourneys60-eng|Our Journeys 60 (EN), NATWA history]].
+- Corpus re-grep 2026-09-16 (slices 09160700-19, 09162138-14): hits = ourjourneys8-eng, ourjourneys79, ourjourneys58, ourjourneys60-eng (NATWA newsletter + delegations, newly absorbed above), own #163/#827 records, works index — no further new material.
 
 ## Sources
 - [TAH #163 encyclopedia: 163. Jean J. Fang 黃靜枝](https://taiwaneseamericanhistory.org/163-jean-j-fang/)
