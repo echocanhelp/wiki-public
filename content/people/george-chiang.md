@@ -50,3 +50,4 @@ _No filled family fields on the TAH profile._
 - Re-grep 2026-09-16 (deepen-x slice 23): same hit set (mystories 747/648/7/499, publications1123, artifact #66), all already wikilinked above. SKIP-no-new-material.
 - Re-grep 2026-09-16 (deepen-x slice 18): same hit set (mystories 747/648/7/499, publications1123, artifact #66), all already wikilinked above. SKIP-no-new-material.
 - Re-grep 2026-09-16 (deepen-x slice 16): same hit set, all already wikilinked above. SKIP-no-new-material.
+- Re-grep 2026-09-16 (deepen-x slice 14): same hit set, all already wikilinked above. SKIP-no-new-material.
