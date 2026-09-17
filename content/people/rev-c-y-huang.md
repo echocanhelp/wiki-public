@@ -33,7 +33,7 @@ last_reviewed: 2026-09-17
 ## Role in the Community
 - Educator across both theological seminaries: taught at Tainan Theological College & Seminary (台南神學院) and Taiwan Theological College and Seminary (台灣神學院) across four stints (1937–40, 1940–44, 1948–55, 1966–70) per his TAH record ([[works/taiwaneseamericanhistory-org/whos-who-1855-c-y-huang|TAH #1855]], published 2017-08-17).
 - 朱真一's memoir names his 1949–1955 Union Theological Seminary (NYC) study as a case of the longest early overseas sabbaticals by Taiwanese theologians — and notes no record of wives accompanying them to North America at the time: [[works/taiwaneseamericanhistory-org/ourjourneys270|TAH #270 早期留學北美的台灣女士（朱真一）]].
-- Corpus grep re-verified 2026-09-17: coverage limited to his own Who's Who record and the ourjourneys270 memoir passage.
+- Corpus grep re-verified 2026-09-17: coverage limited to his own Who's Who record and the ourjourneys270 memoir passage. The memoir passage also situates his 1949–55 sabbatical among peers: 劉主安校長's 1935–36/1948–49 Europe-US study trips, 劉青眼牧師's 1956–61 Covenant Theological College (St. Louis) study, and 陳皙宗牧師's 1948 Canada→US move — the corpus's earliest window of overseas-trained Taiwanese theologians ([[works/taiwaneseamericanhistory-org/ourjourneys270|TAH #270]]).
 
 ## Family
 

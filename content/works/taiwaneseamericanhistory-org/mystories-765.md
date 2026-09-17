@@ -33,6 +33,7 @@ _Bibliographic record only. Full text stays in the vault._
 
 ## Subjects
 - [[people/masa-c-w-chen|Masa C. W. Chen 陳正旺]] and Gloria Chen — the couple named in this photo record
+- [[people/masa-c-w-chen.md|Masa C. W. Chen]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]
