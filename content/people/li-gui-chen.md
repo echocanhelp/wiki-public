@@ -48,6 +48,7 @@ Accomplishment
 ## From the record
 
 - 2011-11-08 — 紀錄片《好國好民》Dear Taiwan（導演、製片）全美放映座談會公告：已於台北、台南、波士頓、北卡首映，巡迴支加哥、羅德島、辛新那提、亞特蘭大、紐約、聖地牙哥、橘縣、聖荷西等地，由全美台灣同鄉會及華府台灣文化中心支持（[[articles/taiwanjustice-net/2024/20240719002430_root_1f001897255f71a7|TJJ, 2011-11-08]]）。
+- 2011-10-15 — 《好國好民》Dear Taiwan 美國巡迴放映座談會公告（導演、製片）：波士頓（10/22）及北卡（11/5）放映會確定，紐約、華府、費城、休士頓、舊金山、洛杉磯籌備中（[[articles/taiwanjustice-net/2024/20240718223218_root_b5e568ec43e787f1|TJJ，2011-10-15]]）。
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

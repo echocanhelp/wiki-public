@@ -32,6 +32,7 @@ _No filled family fields on the TAH profile._
 ## From the record
 
 - 2011-11-08 — 擔任紀錄片《好國好民》Dear Taiwan 美國區協調人（US coordinators: 黃泰郎、周明宏、王振源），配合全美八地放映座談會巡迴（[[articles/taiwanjustice-net/2024/20240719002430_root_1f001897255f71a7|TJJ, 2011-11-08]]）。
+- 2011-10-15 — 列名《好國好民》Dear Taiwan 製片（與導演陳麗貴共同製片）及美國區協調人，配合波士頓、北卡放映座談會（[[articles/taiwanjustice-net/2024/20240718223218_root_b5e568ec43e787f1|TJJ，2011-10-15]]）。
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

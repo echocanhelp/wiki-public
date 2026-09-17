@@ -49,6 +49,10 @@ Wellington (Welly) Yang 楊呈偉 – History of Taiwanese American (T.A. Archiv
 - [TAH #112 encyclopedia: 112. Wellington (Welly) Yang 楊呈偉](https://taiwaneseamericanhistory.org/whos-who-112-wellington-yang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/wellington-welly-yang/)
 
+## From the record
+
+- 2022-08-08 — 報導記載其曾於裴洛西訪台募款餐會開場獻唱美國國歌；與妻森下迪娜（同為百老匯演員）獲國發會就業金卡，率全家返台加入外百老匯音樂劇《夢幻愛程》（9/23–11/13 台北松山文創園區駐點）排練演出（[[articles/taiwanjustice-net/2022/20221002104157_2022_08_08_曾為裴洛西募款餐會獻唱_音樂劇演員楊呈偉返台_6fd9d16befa5a33a|TJJ，2022-08-08]]、[[articles/taiwanjustice-net/2025/20251016213907_曾為裴洛西募款餐會獻唱_音樂劇演員楊呈偉返台_5f12408ab340f912|TJJ 2025 存檔]]）。
+
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

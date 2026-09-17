@@ -89,6 +89,10 @@ Pages that link to **zhang-xuanxin** (zhang-xuanxin):
 - His 2022-05-15 action at ITPC is corroborated by the vault's church-community records; the companion honouree John Cheng has his own vault page at [[works/taiwaneseamericanhistory-org/artist36-john-cheng|TAH artist record: John Cheng]].
 - The ITPC shooting is separately sourced at [[sources/irvine-taiwanese-presbyterian-church||ITPC source page]].
 
+## From the record
+
+- 2022-05-17 — 評論記載：5月15日南加州橘郡日內瓦長老教會槍擊案（1死5傷、傷亡皆台裔）中，張宣信牧師與數位教友奮不顧身制服兇手，防止悲劇擴大（[[articles/taiwanjustice-net/2022/20220705115208_2022_05_17_南加州槍擊案的省思_廢國統綱領_強化國家認同_8362234ba338aea7|TJJ，2022-05-17]]）。
+
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[organizations/irvine-taiwanese-presbyterian-church||ITPC]]
