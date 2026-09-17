@@ -34,6 +34,8 @@ Accomplishment
 
 Per his TAH record ([[works/taiwaneseamericanhistory-org/whos-who-2294-masa-c-w-chen|TAH #2294 Who's Who profile]]), Chen has been an active member of the Hawaiian Taiwanese community: a member of [[organizations/taiwanese-student-association-for-public-affairs|FAPA]] and of the [[organizations/taiwanese-association-of-america-hawaii|Taiwanese Association of America — Hawaii]]. His career moved from Taiwan's agricultural extension service and the Philippines rice technical mission through Bayer AG tropical agricultural research (1970-1984) to orchid farming in Hawaii (Orchids of Wainanae, owner from 1983).
 
+The orchid years are documented in the community's own story corpus: [[works/taiwaneseamericanhistory-org/mystories-765|765. Masa and Gloria Chen with Their Large Yellow Cattleyas (Arthur Chadwick, 2020-11-04)]] records the couple and their prize large-yellow Cattleyas, corroborating TAH #2294's Hawaii orchid-farming chapter and his marriage to Gloria.
+
 ## Family
 
 - **Wife:** Gloria
