@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-17
 ---
 # Lanhee J. Chen (陳仁宜)
 
@@ -39,6 +39,10 @@ last_reviewed: 2026-08-17
 
 - **Father:** 陳崇廉 Mother:謝雅美
 
+
+## Role in the Community
+- 2021 — ran for California State Controller (加州主計長); TAH community coverage notes his parents' support: [[works/taiwaneseamericanhistory-org/my-stories-815|815. 台裔學者陳仁宜角逐加州主計長 感恩父母支持]] (2021-12-10)
+- Held in the TAH Who's Who record: [[works/taiwaneseamericanhistory-org/whoswh2070|2070. Lanhee J. Chen 陳仁宜 / 03/2018]]; his father 陳崇廉 has his own entry [[works/taiwaneseamericanhistory-org/whoswho2071|2071. CHUNG-LIEN Chen 陳崇廉 / 03/2018]], corroborating the Family section (父陳崇廉、母謝雅美).
 
 ## Sources
 - [TAH #2070 encyclopedia: 2070. Lanhee J. Chen 陳仁宜 / 03/2018](https://taiwaneseamericanhistory.org/whoswh2070/)

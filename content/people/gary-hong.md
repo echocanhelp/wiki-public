@@ -58,7 +58,7 @@ _No filled family fields on the TAH profile._
 - League membership: [[organizations/neo-art-league||Neo Art League (加州新藝畫會)]] — his own TAH employment table lists him as member / exhibiting artist there, 2008–2013.
 - Deepen re-check 2026-09-14 (vault-only): no vault pages yet exist for Sandstone Gallery, Bluebird Art Gallery, Agora Gallery, Pasadena City College or the French salons named in his TAH record, and the 苗栗 birthplace has no matching vault origin-page. Nothing further absorbable without invention.
 - **Re-check（deepen-x slice 09141400-1，2026-09-14）：** corpus grep（洪逸凡／Gary Hong）僅命中已連結的 TAH #3 書目頁與 index；本輪 SKIP，無新增可吸收材料。
-- **社群展覽紀錄（本次新增）：** 2017 年他以[[organizations/neo-art-league||新藝畫會]]會員身份受邀參加「台灣之美‧亞洲之心」國際巡迴展（2017-04-01~02，策展人蘇奐豪理事），同受邀者有李淑櫻、劉白、蔡蕙香、[[people/chen-wenshi||陳文石]]；見 [[articles/taiwanjustice-net/2024/20240724234326_root_cd2062fe6528223c||台灣公義網展覽報導]]。此為 vault 內既有事實，與其 TAH 表欄 2008–2013 新藝畫會會員紀錄相互印證；同場畫友李淑櫻、劉白、蔡蕙香 vault 內尚無專屬人物頁，故不建連結。
+- **社群展覽紀錄（本次新增）：** 2017 年他以[[organizations/neo-art-league||新藝畫會]]會員身份受邀參加「台灣之美‧亞洲之心」國際巡迴展（2017-04-01~02，策展人蘇奐豪理事），同受邀者有李淑櫻、劉白、蔡蕙香、[[people/chen-wenshi||陳文石]]；見 [[articles/taiwanjustice-net/2024/20240724234326_root_cd2062fe6528223c||台灣公義網展覽報導]]。此為 vault 內既有事實，與其 TAH 表欄 2008–2013 新藝畫會會員紀錄相互印證；同場畫友已於後續 slice 建頁：[[people/nami-yang||李淑櫻]]、[[people/huai-shion-tsai||蔡蕙香]]；劉白 vault 內尚無專屬人物頁，故不建連結。
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

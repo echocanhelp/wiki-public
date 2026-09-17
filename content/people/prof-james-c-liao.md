@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-17
 ---
 # Prof. James C. Liao (廖俊智教授)
 
@@ -34,6 +34,12 @@ last_reviewed: 2026-08-17
 
 - **Wife:** ­­--
 
+
+## Role in the Community
+- 2015 — elected to the U.S. National Academy of Sciences for renewable-energy research, profiled in the 台美人的榮耀 (Pride of Taiwanese American) series: [[works/taiwaneseamericanhistory-org/mystories239|239. 台美人的榮耀 9: 研究再生能源 廖俊智獲選美國國家科學院院士 / 蔡穎 / 2015/05]]
+- 2016 — named President of Academia Sinica, recorded in TAH's notable-events series: [[works/taiwaneseamericanhistory-org/important2016-22|22. New President of Academia Sinica, Taiwan / Prof. James C. Liao (廖俊智) / 06/21/2016]] (matches Employment 2016–2018)
+- 2023 — received an international award and urged metabolic engineering to address global warming: [[works/taiwaneseamericanhistory-org/my-stories-879|879. 廖俊智獲頒國際獎項 籲利用代謝工程因應全球暖化]] (2023-06-14)
+- Held in the TAH Who's Who records: [[works/taiwaneseamericanhistory-org/107-prof-james-c-liao|107]] and [[works/taiwaneseamericanhistory-org/whos-who-1081-james-c-liao|1081]].
 
 ## Sources
 - [TAH #107 encyclopedia: 107. Prof. James C. Liao 廖俊智教授](https://taiwaneseamericanhistory.org/107-prof-james-c-liao/)
