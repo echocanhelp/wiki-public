@@ -55,3 +55,4 @@ _No filled family fields on the TAH profile._
 - SKIP: 再grep語料僅見已吸收之 ourjourneys-138（華府第一代研究者回憶）、conrad award 頁、winners30 及 works index，無新語料可吸收；HOLD（林明璋 vs 林明彰）維持。
 - slice 09160600-21 覆核：命中集合不變（自身書目 #124/#1416、ourjourneys-138、winners30、conrad award 頁、index），無新增社群材料。
 - slice 09160700-17 覆核：新增一枚獎章書目 [[works/taiwaneseamericanhistory-org/captain-robert-dexter-conrad-award-by-u-s-navy-ming-chiang-lin|59. Captain Robert Dexter Conrad Award by U.S. Navy / Ming Chiang Lin 林明璋 / 1998]]（已在「Role in the Community」引用）；該頁作 林明璋，winners30 作 林明彰 — HOLD 維持，不併字。此外命中僅自身書目 #124/#1416、ourjourneys-138 與 works index，無新社群材料。
+- slice 09162138-11 覆核（2026-09-16）：命中集合不變（#124、#1416、ourjourneys-138、winners30、conrad award 頁、index），全數已吸收並連結；HOLD（林明璋 vs 林明彰）維持。SKIP-no-new-material。
