@@ -33,6 +33,10 @@ Clarinetist Yi-Ting Hsieh has performed solo, orchestral, and chamber works in T
 
 _No filled family fields on the TAH profile._
 
+## Role in the Community
+- Held in the TAH musician corpus: profiled as pianist and clarinetist in the story-corpus entry 430. Yi-Ting Hsieh, Pianist and Clarinetist (2018-06-30), the community record of her dual-instrument performance career ([[works/taiwaneseamericanhistory-org/musician430|430. Yi-Ting Hsieh, Pianist and Clarinetist]]).
+- Chinese name not recorded in the corpus (no 漢名 hits in works/articles); left blank rather than invented.
+
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/yi-ting-hsieh/)
 
