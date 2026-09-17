@@ -84,4 +84,4 @@ Together with the encyclopedia records ([[works/taiwaneseamericanhistory-org/ota
 
 ## From the record
 
-- 2019-05-17 — Gave the 長青教室 talk 「植物生化素與你的健康」 (phytochemicals and your health, with video) at the class he directs ([[articles/articles/taiwanjustice-net/2024/20240723014059_root_b35038dda7fa4bcf|TJJ tag page, archived 2024-07-23]]).
+- 2019-05-17 — Gave the 長青教室 talk 「植物生化素與你的健康」 (phytochemicals and your health, with video) at the class he directs ([[articles/taiwanjustice-net/2024/20240723014059_root_b35038dda7fa4bcf|TJJ tag page, archived 2024-07-23]]).

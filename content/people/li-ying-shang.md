@@ -48,4 +48,4 @@ _No filled family fields on the TAH profile._
 
 ## From the record
 
-- 2012-10-16 — Gave the 長青教室 talk 「聽故事, 吟詩歌」 at the Los Angeles Taiwanese community class (心得報告 posted 2012-10-20) ([[articles/articles/taiwanjustice-net/2024/20240621163532_root_e9ec20fd58bf6b1c|TJJ tag page, archived 2024-06-21]]).
+- 2012-10-16 — Gave the 長青教室 talk 「聽故事, 吟詩歌」 at the Los Angeles Taiwanese community class (心得報告 posted 2012-10-20) ([[articles/taiwanjustice-net/2024/20240621163532_root_e9ec20fd58bf6b1c|TJJ tag page, archived 2024-06-21]]).

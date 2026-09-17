@@ -43,4 +43,4 @@ _No filled family fields on the TAH profile._
 
 ## From the record
 
-- 2012-11-07 — With Dr. 洪遠相, gave the 長青教室 talk 「植牙與口腔的再春」 on dental implants and oral health (心得報告 posted 2012-11-08) ([[articles/articles/taiwanjustice-net/2024/20240621163532_root_e9ec20fd58bf6b1c|TJJ tag page, archived 2024-06-21]]).
+- 2012-11-07 — With Dr. 洪遠相, gave the 長青教室 talk 「植牙與口腔的再春」 on dental implants and oral health (心得報告 posted 2012-11-08) ([[articles/taiwanjustice-net/2024/20240621163532_root_e9ec20fd58bf6b1c|TJJ tag page, archived 2024-06-21]]).
