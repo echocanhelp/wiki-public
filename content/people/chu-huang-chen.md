@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-17
 ---
 # Chu-Huang Chen (陳珠璜)
 
@@ -36,6 +36,10 @@ last_reviewed: 2026-08-17
 ## Family
 
 _No filled family fields on the TAH profile._
+
+## Deepen note
+
+SKIP (2026-09-17): corpus re-grep (content/works, content/articles) returns only her own TAH encyclopedia record [[works/taiwaneseamericanhistory-org/579-chu-huang-chen-e9-99-b3-e7-8f-a0-e7-92-9c-201509|579. Chu-Huang Chen 陳珠璜 / 2015/09]] and the works index — no memoir/community material to absorb.
 
 ## Sources
 - [TAH #579 encyclopedia: 579. Chu-Huang Chen 陳珠璜 / 2015/09](https://taiwaneseamericanhistory.org/579-chu-huang-chen-%e9%99%b3%e7%8f%a0%e7%92%9c-201509/)
