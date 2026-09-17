@@ -50,6 +50,7 @@ last_reviewed: 2026-09-14
 ## From the record
 
 - 2017-03-14 — Authored 「台灣之美–亞洲之心」, the account of the 台灣之美繪畫巡迴展 LA stop (4/1–2/2017, 橋二中心/洛僑中心, hosted by TUF, curated by 蘇奐豪): she is a sitting TUF board member and 藝展組 member and reports the interview with the curator; 新藝畫會 members 李淑櫻、洪逸凡、劉白、蔡蕙香、陳文石 were invited to exhibit ([[articles/taiwanjustice-net/2024/20240724234326_root_cd2062fe6528223c|TJJ report, article dated 2017-03-14]]).
+- 2017-06-11 — As president of [[organizations/taiwanese-american-pen-club-la|台美人筆會]] (founded 1998, publishes 台美文藝 biennially) announced the just-published 2017 台美文藝 — 67 works by 40+ authors — and its new-book launch 2017-06-17 at 大洛杉磯台灣會館, Rosemead; the club had introduced second-generation writers 游朝凱、梁凱琳、Julia Wu、Jennifer Chow、楊小娜 to the community, and the 2017 editorial board included 李彥禎、陳東榮、李芬芬、鄭炳全、秦雪華、林文政 ([[articles/taiwanjustice-net/2022/20221127052725_2017_06_11_2017台美文藝出版-台美人筆會六月十七日舉辦發表會_c76f11ecd2598ecb|TJJ, 2017-06-11]]).
 
 ## Sources
 - [TAH #6 encyclopedia: 6. Nami Yang 李淑櫻](https://taiwaneseamericanhistory.org/6-nami-yang/)

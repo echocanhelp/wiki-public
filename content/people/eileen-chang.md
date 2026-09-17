@@ -73,3 +73,4 @@ Facts absorbed from the TAH encyclopedia entries already cited on this page:
 ## From the record
 
 - 2024-06-08 — 慈林教育基金會「撕開黑幕的光：海內外人權救援暨北美台灣之音聯展」設「台灣之音—在縫隙裡聽見自由」單元，向1977年由張富雄、楊宜宜夫妻在紐約以電話答錄系統創立的「台灣之音 The Voice of Taiwan」致敬（[[articles/taiwanjustice-net/2025/20250814164746_海內外人權救援聯展-慈林教育基金會登場_向北美_c082b03671e7c8ee|TJJ, 2024-06-08]]）。
+- 2024-06-08 — Second TJJ copy of the CNA report (中央社記者沈如峰) on the 慈林教育基金會联展（至年底）: the exhibition also covers 彭明敏's 1964 「台灣人民自救運動宣言」 arrest and the 1970 「X計畫」 escape aided by 宗像隆幸's forged Japanese passport ([[articles/taiwanjustice-net/2024/20240622115321_root_2a0ba680f2b8720a|TJJ, 2024-06-08]]).

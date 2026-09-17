@@ -35,6 +35,10 @@ last_reviewed: 2026-08-17
 - **Daughter:** London Kira
 
 
+## From the record
+
+- 2017-06-11 — TJJ's report on 台美人筆會's 2017 台美文藝 launch records her as one of the second-generation Taiwanese-American writers the club had introduced to the community (with 游朝凱、Julia Wu、Jennifer Chow、楊小娜), whose works reflect Taiwanese-American culture and hold a place in American letters ([[articles/taiwanjustice-net/2022/20221127052725_2017_06_11_2017台美文藝出版-台美人筆會六月十七日舉辦發表會_c76f11ecd2598ecb|TJJ, 2017-06-11]]).
+
 ## Sources
 - [TAH #1979 encyclopedia: 1979. Kailin Gow 梁凱琳](https://taiwaneseamericanhistory.org/whos-who-1979-kailin-gow/)
 - [TAH #354 encyclopedia: 354. Kailin Gow 梁凱琳 / The Most Productive Author](https://taiwaneseamericanhistory.org/ff354/)

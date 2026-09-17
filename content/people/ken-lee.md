@@ -49,6 +49,10 @@ The TAH story corpus holds Ken Lee (李彥禎) as one of its most prolific commu
 ### Additional corpus-linked works (deepen-x slice 09142319-1, 2026-09-15)
 Further corpus hits confirm the essayist footprint extends earlier than the 2014–2021 band above — the vault also holds his 2006 literature piece [[works/taiwaneseamericanhistory-org/23-e6-9c-89-e6-84-9b-e7-84-a1-e6-b7-9a-e6-9d-8e-e5-bd-a5-e7-a6-8e-2006-07-e6-96-|23. 有愛無淚（2006/07）]], his Laguna Woods community study [[works/taiwaneseamericanhistory-org/180-e6-9c-80-e5-a4-9a-e5-8f-b0-e7-be-8e-e4-ba-ba-e5-b1-85-e4-bd-8f-e7-9a-84-e9-8|180. 最多台美人居住的退休村—Laguna Woods Village（2015/10）]] (antecedent to his 2017 Laguna Woods Taiwanese Club presidency), [[works/taiwaneseamericanhistory-org/mysotries473|473. 人中豪傑（2016/10）]], and a 2018–2020 memoir series: [[works/taiwaneseamericanhistory-org/my-stories-664|664. 當一座山擋住去路時（2018/12）]], [[works/taiwaneseamericanhistory-org/my-stories-707|707. 一個一天到晚想上天堂的人—楊淑婉（2019/11）]], [[works/taiwaneseamericanhistory-org/my-stories-726|726. 愛心的鏡頭，歷史的見證（2020/03）]], [[works/taiwaneseamericanhistory-org/my-stories-731|731. 阮叫曾玉（2020/05）]], [[works/taiwaneseamericanhistory-org/my-stories-767|767. 相扶持過一生的典範夫妻：鄭寶鼎丶張錦雲（2020/11）]]. He also lectured on writing at a TAA/台美史料中心 program: [[works/taiwaneseamericanhistory-org/ourjourneys107|Our Journey 107]] lists his talk 《從世界名著談生活與寫作》 alongside 范正彥醫師、邱伸彥博士、郭義雄教授. English edition of his couple memoir: [[works/taiwaneseamericanhistory-org/68318-eng|174-eng. Our Story – Ken Lee and Yudy Chang]]. No conflicts to HOLD; all pages pre-existing.
 
+## From the record
+
+- 2017-06-11 — Listed by TJJ on the editorial committee of 《2017臺美文藝》 published by 台美人筆會 (67 works by 40+ authors, alongside 陳東榮、李芬芬、鄭炳全、秦雪華、林文政); new-book launch 2017-06-17 at 大洛杉磯台灣會館, Rosemead ([[articles/taiwanjustice-net/2022/20221127052725_2017_06_11_2017台美文藝出版-台美人筆會六月十七日舉辦發表會_c76f11ecd2598ecb|TJJ, 2017-06-11]]).
+
 ## Sources
 - [TAH #115 encyclopedia: 115. Ken Lee 李彥禎](https://taiwaneseamericanhistory.org/115-ken-lee/)
 - [TAH #124 encyclopedia: 124. Mr. Ken Lee 李彥禎 / An outstanding social worker](https://taiwaneseamericanhistory.org/ff124/)

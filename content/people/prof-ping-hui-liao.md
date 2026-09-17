@@ -48,6 +48,10 @@ _No filled family fields on the TAH profile._
 - 1996– — Visiting Researcher, Dept. of Foreign Languages, Harvard University
 - Chairman, Society of Comparative Literature of the Republic of China
 
+## From the record
+
+- 2022-10-03 — Announced as 主講人 of the 55th 世界臺灣文化論壇 (held online 2022-10-08): as director of the UCSD Center for Taiwan Studies he spoke on 台灣當代電影「大佛普拉斯」 (黃信堯 director; 2017 金馬獎 five awards) drawing on his then-forthcoming *Siting Postcoloniality* (Duke UP 2023), with 鄭良光 as 主持人 and 張復聚醫師 and 何信翰教授 as responders ([[articles/taiwanjustice-net/2025/20250906044254_第55回世界臺灣文化論壇-廖炳惠教授論台灣當代電_ad7f737b9872262d|TJJ, 2022-10-03]]).
+
 ## Sources
 - [[works/taiwaneseamericanhistory-org/whos-who-1632-ping-hui-liao||TAH Who's Who #1632]] — source profile
 - [TAH #1632 encyclopedia: 1632. Prof. Ping-Hui Liao 廖炳惠教授](https://taiwaneseamericanhistory.org/whos-who-1632-ping-hui-liao/)
