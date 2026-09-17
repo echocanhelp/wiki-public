@@ -41,6 +41,10 @@ last_reviewed: 2026-08-17
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/bao-tyan-wang/)
 
+## From the record
+
+- 2022-01-01 — 第14回世界台灣文化論壇線頂聚會「布袋戲kap歌仔戲文學ê人生智慧」節目中含訪問王寶田博士（與郭月霞長老娘談現代歌仔戲）（[[articles/taiwanjustice-net/2022/20220521165415_2021_12_31_第14回世界台灣文化論壇_布袋戲kap歌仔戲文學e人生_08cd200c3a58e6b7|TJJ, 2021-12-31]]；[[articles/taiwanjustice-net/2025/20250512055435_第14回世界台灣文化論壇_布袋戲kap歌仔戲文學e人生_fc48810253f4912f|2025-05-12 快照]]）。
+
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
