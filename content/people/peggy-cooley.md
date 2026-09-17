@@ -37,7 +37,7 @@ last_reviewed: 2026-08-17
 
 ## From the record
 
-- 2024-05-20 — 520 就職典禮，與女兒蕭美琴專程從美國返台觀禮；報導指她雖是美國人，一家人曾住台南，能說一口流利台語，在親人眼中「比台灣人更像台灣人」（[[articles/taiwanjustice-net/2025/20250213214800_520就職典禮賴清德家人將出席-蕭美琴母親返台觀禮_0258611f5f824a5d|TJJ 轉載中央社, 2024-05-19]]）。
+- 2024-05-20 — 520 就職典禮，與女兒蕭美琴專程從美國返台觀禮；報導指她雖是美國人，一家人曾住台南，能說一口流利台語，在親人眼中「比台灣人更像台灣人」（[[articles/taiwanjustice-net/2025/20250213214800_520就職典禮賴清德家人將出席-蕭美琴母親返台觀禮_0258611f5f824a5d|TJJ 轉載中央社, 2024-05-19]]；另見同文存檔 [[articles/taiwanjustice-net/2024/20240613095611_root_4c65a9afe4934086|2024-06-13 快照]]）。
 
 ## Sources
 - [TAH #2161 encyclopedia: 2161. Peggy Cooley 邱碧玉](https://taiwaneseamericanhistory.org/whos-who-2161-peggy-cooley/)
@@ -46,10 +46,6 @@ last_reviewed: 2026-08-17
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
-
-## From the record
-
-- 2024-05-20 — 與女兒專程自美國返台觀禮520就職典禮（女兒蕭美琴宣誓就任副總統）；報導述其雖是美國人、曾住台南，能說一口流利台語，在親人眼中「比台灣人更像台灣人」（[[articles/taiwanjustice-net/2024/20240613095611_root_4c65a9afe4934086|TJJ 轉載中央社, 2024-05-19]]）。
 
 ## Network
 - [[organizations/presbyterian-church-in-taiwan||PCT]] — TAH Who’s Who
