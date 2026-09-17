@@ -37,6 +37,10 @@ last_reviewed: 2026-08-17
 - **Husband:** 李應元
 
 
+## From the record
+
+- 2021-11-22 — NATPA 理事會敬弔文〈哲人日已遠：敬弔李應元博士〉向其牽手、同為 NATPA 會員的黃月桂博士致哀（[[articles/taiwanjustice-net/2021/20211207111000_2021_11_22_哲人日已遠_敬弔李應元博士-_natpa鄭麗伶會長暨全_efea1ad2d8cb4d11|TJJ，2021-11-22]]）。
+
 ## Sources
 - [TAH #767 encyclopedia: 767. Laura Huang 黃月桂 /2016/01](https://taiwaneseamericanhistory.org/767-laura-huang-%e9%bb%83%e6%9c%88%e6%a1%82-201601/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/laura-huang/)

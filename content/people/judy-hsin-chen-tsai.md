@@ -27,6 +27,10 @@ last_reviewed: 2026-08-17
 - **Daughter:** Emily Muramoto蔡蕙宇
 
 
+## From the record
+
+- 2018-06-27 — 大洛杉磯台灣會館會訊列蔡幸珍為第11屆個人董事（[[articles/taiwanjustice-net/2020/20201118162555_2018_06_27_大洛杉磯台灣會館會訊_2018-年六月-_大洛杉磯台灣_79291dad808ef7f7|TJJ，2018-06-27]]）。
+
 ## Sources
 - [TAH #845 encyclopedia: 845. Judy Hsin-Chen Tsai 蔡幸珍 / 2016/02](https://taiwaneseamericanhistory.org/845-judy-hsin-chen-tsai-201602/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/judy-hsin-chen-tsai/)

@@ -44,7 +44,8 @@ _No filled family fields on the TAH profile._
 
 ## From the record
 
-- 2024-05-13 — 黃令先改編自「大黃蜂的飛行」旋律的台語「天烏烏」版〈Oh My Goodness〉，隨以立合唱團在 Pasadena Mayfield Junior High School 全校早禱會演出獲滿堂喝采；她並携電子鍵盤與道具隨團擔任伴奏（[[articles/taiwanjustice-net/2025/20250617205127_一場獲滿堂彩的文化交流-以立合唱團為美國中學生_9412105875987041|TJJ, 2024-05-29]]）。
+- 2018-06-27 — 大洛杉磯台灣會館會訊列師範院校同鄉會黃令先為第11屆十位團體董事之一；本屆 30 位董事中 13 位新任，為會館史上換血最多的一屆（[[articles/taiwanjustice-net/2020/20201118162555_2018_06_27_大洛杉磯台灣會館會訊_2018-年六月-_大洛杉磯台灣_79291dad808ef7f7|TJJ，2018-06-27]]）。
+- 2024-05-13 — 以立合唱團訪問 Pasadena Mayfield Junior High School 全校早禱會，黃令先攜電子鍵盤與小道具隨團擔任伴奏，其改編自《大黃蜂的飛行》旋律的台語「天烏烏」版〈Oh My Goodness〉由合唱團演唱，獲滿堂喝采（[[articles/taiwanjustice-net/2025/20250617205127_一場獲滿堂彩的文化交流-以立合唱團為美國中學生_9412105875987041|TJJ, 2024-05-29]]；[[articles/taiwanjustice-net/2024/20240622135632_root_54dd66fe454bf899|同稿 2024 存檔副本]]）。
 
 ## Sources
 - [TAH #488 encyclopedia: 488. Lynn Huang 黃令先 / 2015/07](https://taiwaneseamericanhistory.org/488-lynn-huang-%e9%bb%83%e4%bb%a4%e5%85%88-201507/)

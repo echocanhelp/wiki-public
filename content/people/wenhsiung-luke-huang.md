@@ -56,6 +56,7 @@ _No filled family fields on the TAH profile._
 
 ## From the record
 
+- 2020-04-24 — 中央社記者刺蔣案 50 週年報導：1970-04-24 康乃爾大學博士生黃文雄與妹夫鄭自才策劃刺殺蔣經國未果被捕，棄保逃亡後浪跡世界 26 年（報導中刺蔣主角黃文雄是否即本頁 TAH 醫師 profile 仍未驗證，詳見 Notes on sources；[[articles/taiwanjustice-net/2025/20251115150231_鄭自才談424刺蔣案意義_台灣人追求獨立建國_24119694dbb384c9|TJJ，2020-04-24]]）。
 - 2022-07-12 — Recounted in 王泰和's memorial interview on the 424刺蔣案: on 1970-04-24, as Chiang Ching-kuo entered the Plaza Hotel in New York, 黃文雄 fired but was restrained by US security personnel and his shot went wide; 蔡同榮 led the demonstration and later fronted network news interviews ([[articles/taiwanjustice-net/2025/20250811013132_化作千風_懷念台美人的人權鬥士_台獨先鋒王泰_31b7081a5d37939f|TJJ, 2022-07-12]]).
 
 ## Sources

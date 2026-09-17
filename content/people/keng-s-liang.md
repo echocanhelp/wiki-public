@@ -43,6 +43,7 @@ last_reviewed: 2026-08-17
 
 ## From the record
 
+- 2021-09-10 — 以「司法不公，國耻之最：海內外台灣人聲援翁啟惠連署活動」聯絡人身分（與翁青志、陳怡君）呼籲海内外台灣人及社團再次連署，聲援浩鼎案已獲無罪卻仍遭監院彈劾的翁啟惠，回應謝清志博士的投書號召（[[articles/taiwanjustice-net/2023/20230530145556_2021_09_10_司法不公_國耻之最_海內外台灣人聲援翁啟惠連_59a68b9cd855c1bf|TJJ，2021-09-10]]）。
 - 1990 — 楊遠薰's memoir records that the Bridgewater (NJ) 查經班, which included 林茂清、建信、愛信 and later 彭昕, was founded in 1990 on Liang's initiative as a rotating weekly Friday-house gathering of Central Jersey Taiwanese families that ran for a decade ([[articles/taiwanjustice-net/2024/20240302024930_root_299c00bb18030b81|TJJ memo, 2021-09-23]] · [[articles/taiwanjustice-net/2021/20211020131319_2021_09_23_懷念彭昕醫師-_-楊遠薰_6763e8f4ad9bcb7c|2021 archive]] · [[articles/taiwanjustice-net/2025/20250323073306_懷念彭昕醫師-_-楊遠薰_80e2a87a17215263|2025 archive]]).
 
 ## Related Pages
