@@ -31,6 +31,12 @@ Dr. Simon Shiao is a versatile performer who holds the distinction of having per
 - UNF University of North Florida — 小提琴教授兼弦樂主任
 <!-- tah-tables:end -->
 
+## Role in the Community
+
+- Preserved in the T.A. Archives as a Taiwanese American classical musician of Hualien origin: profiled as a violinist in [[works/taiwaneseamericanhistory-org/musician385|385. Simon Shiao 蕭世杰, Violinist (2017/02)]] and in the Who's Who encyclopedia as [[works/taiwaneseamericanhistory-org/whoswho1518|1518. Simon Shiao 蕭世杰 (2017/02)]].
+- Community record highlights: performed at Carnegie Hall in three capacities — recitalist, string quartet, and with orchestra; violin professor and chair of strings at the University of North Florida.
+- No first-person memoir or movement-activity mentions found elsewhere in the corpus (searched works/articles for 蕭世杰 / Simon Shiao, 2026-09-17).
+
 ## Family
 
 _No filled family fields on the TAH profile._
