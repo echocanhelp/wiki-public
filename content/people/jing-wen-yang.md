@@ -54,3 +54,4 @@ Re-grep 楊景文/JING-WEN YANG across works+articles: hit set unchanged (own #3
 ## Corpus re-grep (slices 09160700-10, 09162138-6)
 - 2026-09-16: hit set again unchanged (#364, #148/#114/#113, Our Journeys #296, index). Nothing new absorbable; no conflicts; era-1924 HOLD stands. **SKIP-with-reason.**
 - 2026-09-16 (slice 09162138-6): hit set again unchanged (#364, #148/#114/#113, Our Journeys #296, index); OJ #296 緣起 passage already absorbed into Role in the Community. Nothing new absorbable; no conflicts; era-1924 HOLD stands. **SKIP-with-reason.**
+- Corpus re-grep 2026-09-16 (slice 09162200-4): hits limited to Our Journeys #296 (already absorbed into Role in the Community) + own bibliography pages. SKIP — no new absorbable material; era-1924 HOLD stands.

@@ -38,3 +38,4 @@ The Taiwanese-American Elite Foundation (台美智庫基金會) is an organizati
 ## Corpus re-grep (deepen-x slices 09160600-12, 09160700-8)
 - 2026-09-16: hit set unchanged — own already-linked TAH records (bibliographic page TAH #5) + works/index catalog rows only. No new community/corpus facts absorbable. SKIP-with-reason; no conflicts to HOLD; last_reviewed already 2026-09-16.
 - 2026-09-16 (slice 09162138-6): re-grep 台美智庫/Elite Foundation/Ellite Foundation — same two hits ([[works/taiwaneseamericanhistory-org/5-taiwanese-american-ellite-foundation|TAH #5]] 書目頁 + works/index), already linked. SKIP — 無新可吸收事實。
+- Corpus re-grep 2026-09-16 (slice 09162200-4): re-grep 台美智庫/Taiwanese American Elite — no new hits (own record is the Ellite-typo bibliography page TAH #5, already linked; index rows only). SKIP — no new absorbable material.
