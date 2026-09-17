@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-17
 ---
 # Rev. J. S. Chou (周再賜牧師)
 
@@ -44,3 +44,6 @@ Accomplishment
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- [[works/taiwaneseamericanhistory-org/whos-who-1851-j-s-chou|1851. Rev. J. S. Chou 周再賜牧師]]
+
+<!-- deepen-x 2026-09-17: corpus grep (周再賜 / J. S. Chou / 共愛 / Oberlin) in works+articles found only this page's own TAH bibliographic record; the Oberlin/共愛 mentions belong to other subjects (1983 Cleveland FAPA story; 劉聰慧 bio). No absorbable community facts — SKIP content-deepen. -->

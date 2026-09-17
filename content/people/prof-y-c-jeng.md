@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-17
 ---
 # Prof. Y. C. Jeng (鄭逸群教授)
 
@@ -34,6 +34,9 @@ Accomplishment
 ## Family
 
 _No filled family fields on the TAH profile._
+
+## Role in the Community
+- Profiled in the TAH Foundation Who's Who encyclopedia as record #2168, published 2018-10-30: [[works/taiwaneseamericanhistory-org/whos-who-2168-y-c-jeng|2168. Prof. Y. C. Jeng 鄭逸群教授]]. The corpus copy is a bibliographic record only — no additional community detail beyond the press-kit profile (IEEE Transactions on Circuits and Systems associate editorship, PSU professorship) is present in our memoirs.
 
 ## Sources
 - [TAH #2168 encyclopedia: 2168. Prof. Y. C. Jeng 鄭逸群教授](https://taiwaneseamericanhistory.org/whos-who-2168-y-c-jeng/)

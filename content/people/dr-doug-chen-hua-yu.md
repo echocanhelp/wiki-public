@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-17
 ---
 # Dr. Doug Chen-Hua Yu (余振華博士)
 
@@ -33,6 +33,11 @@ Dr. Doug (Chen-Hua) Yu 余振華博士 – History of Taiwanese American (T.A. A
 ## Family
 
 _No filled family fields on the TAH profile._
+
+## Role in the Community
+- 2017 — received the Presidential Science Award (總統科學獎); the feature 「為台灣扎技術的根 清華校友余振華獲總統科學獎」 (黃筱珮) was preserved by the TA Archives as record #597: [[works/taiwaneseamericanhistory-org/mystories597|597. 為台灣扎技術的根 清華校友余振華獲總統科學獎]].
+- 2022-12 — remembered in the Taiwan Justice Public Foundation coverage of TSMC's 「研發六騎士」 as the former 研發副總經理 (VP, R&D): listed alongside 林本堅, 梁孟松, 楊光磊, 蔣尚義, 孫元成 — [[articles/taiwanjustice-net/2022/20221207162221_2022_12_06_台積研發六騎士林本堅_台積電人才到美國歷練是_1f7e47608fcf4322|台積研發六騎士]]. The "前研發副總經理" title is consistent with the existing Employment entry (TSMC Vice President).
+- Profiled in the TAH Foundation Who's Who encyclopedia as record #1923 (2017-11-03): [[works/taiwaneseamericanhistory-org/whos-who-1923-chen-hua-yu|1923. Dr. Doug (Chen-Hua) Yu 余振華博士]] — bibliographic record only in the corpus.
 
 ## Sources
 - [TAH #1923 encyclopedia: 1923. Dr. Doug (Chen-Hua) Yu 余振華博士](https://taiwaneseamericanhistory.org/whos-who-1923-chen-hua-yu/)
