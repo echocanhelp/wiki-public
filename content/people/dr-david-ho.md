@@ -62,3 +62,6 @@ Accomplishment
 
 ## Corpus re-grep (deepen-x slices 09160600-12, 09160700-8)
 - 2026-09-16: hit set unchanged — own already-linked TAH records (#118、#196、#228、#32) + the HOLD-flagged name-collision #1892 (洪德生, different person) + works/index catalog rows only. No new community/corpus facts absorbable. SKIP-with-reason; HOLD (David Hong name collision) still stands; last_reviewed already 2026-09-16.
+
+## Corpus re-grep (slice 09162138-5)
+- 2026-09-16: re-grep 何大一 / David Ho — hit set unchanged (#118、#196、#228、#32、#1892 HOLD、works/index), plus one false positive in a 2025-04 Taiwan Justice article about a Jeff Koons-class oil-painting auction: the substring "David Ho" matched *David Hockney*, not this person — no fact to absorb, no new HOLD. **SKIP-with-reason.**

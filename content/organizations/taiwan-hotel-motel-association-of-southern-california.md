@@ -33,6 +33,7 @@ Corpus records in the TAH collection document the Association's activity and sta
 ## Corpus re-grep (2026-09-16)
 - Absorbed: 旅館通訊 刊物記錄（TAH #387）與十二社團聯合發函人口普查的社團脈絡（Our Journeys #253）；與既有 1974 創會、訓練營、高爾夫友誼賽記載無衝突。
 - Re-grep (slice 09160700-14): hit set unchanged — own directory record, TAH #261, #63 訓練營, golf-thmasc, THMANA, Our Journeys #253, all already absorbed above. SKIP-no-new-material.
+- Re-grep (slice 09162138-10, 2026-09-16): hit set unchanged (own directory record, #261, #63, golf-thmasc, THMANA, #387; OJ #253 命中於 articles 已吸收) — all already wikilinked above. SKIP-no-new-material.
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwan-hotel-motel-association-of-southern-california/)
