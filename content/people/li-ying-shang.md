@@ -37,6 +37,12 @@ Li-Ying Shang, a well-known soprano in the Taiwanese church community, was born 
 
 _No filled family fields on the TAH profile._
 
+## Role in the Community
+- Conductor of the Los Angeles Formosan Master Chorale (洛杉磯福爾摩莎聖樂團), founded 2011-08; under her direction the ensemble performed Haydn's "Creation" at Concordia University, Irvine (2012-05-06), followed by Handel's "Messiah", Mendelssohn's "Elijah", and Mozart's "Requiem", and she led the 2016 Christmas handbell-and-choral concert ([[works/taiwaneseamericanhistory-org/17-los-angeles-formosan-master-chorale|17. Los Angeles Formosan Master Chorale]]; [[works/taiwaneseamericanhistory-org/concerts81|concerts81]]). This extends the directory entry "洛杉磯福爾摩莎聖樂合唱團指揮" on this page with the concert record.
+- Contributed source material to the TAH concert archive ([[works/taiwaneseamericanhistory-org/musical-concerts-150|musical-concerts-150]], posted 2019-08), where she is also linked alongside the North America Taiwanese Women's Association.
+- Recognized as 聖樂 (sacred music) in the Our Journeys community program lineup ([[works/taiwaneseamericanhistory-org/ourjourneys107|Our Journeys #107]]).
+- Profiled in her own TAH encyclopedia entries [[works/taiwaneseamericanhistory-org/13051|344. Li-Ying Shang 商麗鶯 2015/03]] and [[works/taiwaneseamericanhistory-org/180-li-ying-shang-conductor|180. Li-Ying Shang 商麗鶯, Conductor]].
+
 ## Sources
 - [TAH #344 encyclopedia: 344. Li-Ying Shang 商麗鶯 2015/03](https://taiwaneseamericanhistory.org/344/)
 - [TAH #180 encyclopedia: 180. Li-Ying Shang 商麗鶯, Conductor / 2015/03](https://taiwaneseamericanhistory.org/180-li-ying-shang-conductor/)

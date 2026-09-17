@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-17
 ---
 # Karen Chiang
 
@@ -32,6 +32,10 @@ Karen Chiang is the first prize winner for numerous piano solo and concerto comp
 ## Family
 
 _No filled family fields on the TAH profile._
+
+## From the record
+
+- 2016-07-23 — entered into the TAH community record as a Bay Area pianist in two same-day records: feature [[works/taiwaneseamericanhistory-org/musician346|346. Karen Chiang, Pianist]] and Who's Who entry [[works/taiwaneseamericanhistory-org/whoswho1169|1169. Karen Chiang]]. Both are held as bibliographic records only (full text stays in the TAH vault), so no further community facts are absorbable from the corpus yet.
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/karen-chiang/)

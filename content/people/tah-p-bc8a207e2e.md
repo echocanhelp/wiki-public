@@ -6,7 +6,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-17
 ---
 # 洪輝雄
 
@@ -31,6 +31,11 @@ last_reviewed: 2026-08-17
 ## Family
 
 _No filled family fields on the TAH profile._
+
+## Role in the Community
+
+- The corpus record for him is the TAH Who's Who entry [[works/taiwaneseamericanhistory-org/178-e6-b4-aa-e8-bc-9d-e9-9b-84pianist-201503|178. 洪輝雄, Pianist / 2015/03]] (bibliographic record; full text in the vault). His profile places him in the network of Taiwanese-American church/community musicians documented alongside him in the same 2015/03 TAH pianist-conductor series — e.g. 張妙華 ([[works/taiwaneseamericanhistory-org/179-e5-bc-b5-e5-a6-99-e8-8f-af-pianist-201503|179]]), 林麗貞 ([[works/taiwaneseamericanhistory-org/177-e6-9e-97-e9-ba-97-e8-b2-9e-conductor-201503|177]]) — consistent with his post-1990 church music ministry (合唱團、聖歌隊伴奏、三四重奏).
+- No memoir/article corpus mentions beyond the TAH encyclopedia entry; nothing else absorbable.
 
 ## Sources
 - [TAH #178 encyclopedia: 178. 洪輝雄,Pianist / 2015/03](https://taiwaneseamericanhistory.org/178-%e6%b4%aa%e8%bc%9d%e9%9b%84pianist-201503/)
