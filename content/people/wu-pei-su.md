@@ -35,6 +35,10 @@ last_reviewed: 2026-09-17
 - Univ. of Houston — 1996- — Professor
 <!-- tah-tables:end -->
 
+## Role in the Community
+- Documented in the TAH Foundation encyclopedia's 2016/02 Taiwanese-American professional batch: [[works/taiwaneseamericanhistory-org/833-wu-pei-su-e8-98-87-e6-ad-a6-e6-b2-9b-022016|TAH #833 "Wu-Pei Su 蘇武沛"]], recorded in the same February 2016 tranche as Bang H. Hwang 黃邦雄, June Wang 王純純, Jeffrey Lee 李友禮 and Gloria Chang — part of the foundation's systematic record of Taiwanese-American academics and professionals.
+- Corpus contains no memoir/newsletter narrative beyond this record; community-role detail (beyond the academic employment table) remains thin.
+
 ## Family
 
 _No filled family fields on the TAH profile._

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-17
 ---
 # Fong Baatz
 
@@ -32,6 +32,12 @@ Fong moved from Taiwan to Seattle in 1987, and graduated from the University of 
 ## Family
 
 _No filled family fields on the TAH profile._
+
+## Role in the Community
+
+- Her oil painting is preserved in the TAH collection record #24: [[works/taiwaneseamericanhistory-org/24-fong-baatz-oil-painting|TAH #24 — Fong Baatz, oil painting (2014)]].
+- Her Who's Who profile is carried in the TAH encyclopedia record #1027: [[works/taiwaneseamericanhistory-org/whoswho1027|TAH #1027 — Fong Baatz (2016/05)]].
+- Community role beyond the press-kit bio: she taught after-school art programs and helped run community program workshops, and continues to teach lessons and host open studios at her Magnuson Park workspace in Seattle (TAH Who's Who record).
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/fong-baatz/)
