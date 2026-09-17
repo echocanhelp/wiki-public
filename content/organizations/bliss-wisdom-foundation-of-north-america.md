@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-16
+last_reviewed: 2026-09-17
 ---
 # Bliss & Wisdom Foundation of North America (北美福智基金會)
 
@@ -22,6 +22,8 @@ The Bliss & Wisdom Foundation of North America is the North American arm of the 
 
 - Documented in the TAH Foundation encyclopedia as entry [[works/taiwaneseamericanhistory-org/bliss-wisdom-foundation-of-north-america|39. Bliss & Wisdom Foundation of North America 北美福智基金會 (2016)]], published in the story corpus 2016-06-09 (Band B).
 - **Southern California chapter activity:** the community's 南加福智讚頌合唱團 (Bliss and Wisdom Insightful Praises Choir) is recorded in TAH entry [[works/taiwaneseamericanhistory-org/bliss-and-wisdom-insightful-praises-choir|54. Bliss and Wisdom Insightful Praises Choir 南加福智讚頌合唱團 (2017)]] (published 2017-02-10), showing the organization's presence in the Taiwanese American community through its praise-choir (讚頌) cultural ministry; in the corpus index that entry sits alongside [[works/taiwaneseamericanhistory-org/los-angeles-melody-chorus|53. Los Angeles Melody Chorus 洛杉磯心悅合唱團]] from the same batch, placing the choir within the wider Taiwanese American choral scene.
+
+- Re-check (deepen-x 2026-09-17): corpus re-grep (Bliss Wisdom / 福智) still returns only the org's own TAH entries #39 and #54 plus the harvest index — no memoir or community material beyond the two linked records above; section remains current, SKIP.
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/bliss-wisdom-foundation-of-north-america/)
