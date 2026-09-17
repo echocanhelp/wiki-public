@@ -64,3 +64,8 @@ HOLD: no conflicts found between corpus records; the tah-tables 安星貿易公�
 - TAH 記錄與追思：[[works/taiwaneseamericanhistory-org/824-symeon-woo-e5-90-b3-e8-a5-bf-e9-9d-a2-201602||TAH #824 Symeon Woo 吳西面 / 2016/02]]、[[works/taiwaneseamericanhistory-org/mystories132||TAH #132 想念大哥_吳西面 / 吳瑞惠]]、[[works/taiwaneseamericanhistory-org/photo-albums-activities-31||TAH #31 In memory of Symeon Woo 吳西面先生生命的禮讚]]。
 - publisher／語料庫：[[organizations/tah-foundation||TAH Foundation]]、[[sources/taiwaneseamericanhistory-org-story-corpus||TAH story corpus]]。
 - Deepen re-check 2026-09-14（僅限語料庫）：其他收錄本人名諱之vault記錄——1984 年沈英忠（時任 SCTAI 會長）邀十二位同鄉於中國城近郊旅館座談（促成日後 TACL 籌備），本人列名與會名單：[[works/taiwaneseamericanhistory-org/ourjourneys272||TAH #272]]；本人列名之社區連署名單：[[works/taiwaneseamericanhistory-org/ourjourneys186||TAH #186]]；南加「台灣人聯合基金會」（TUF）1986 年由本人與林衡哲等發起成立（並催生太平洋時報創刊因緣）：[[works/taiwaneseamericanhistory-org/ourjourneys294||TAH #294]]。其夫人吳陳信愛、子女吳慕真、伯宏、伯仁目前暫無個別vault頁。
+
+
+## From the record
+
+- 2021-09-23 — Per physician 彭昕's email in Yang Yuan-hsün's memoir, 吳西面 was his 表姑父; Woo's wife 信愛 was his 表姑 (her father 陳溪圳牧師 pastored 雙連教會) — confirming the family link ([[articles/taiwanjustice-net/2021/20211020131319_2021_09_23_懷念彭昕醫師-_-楊遠薰_6763e8f4ad9bcb7c|TJJ memorial, 2021-09-23]] · [[articles/taiwanjustice-net/2025/20250323073306_懷念彭昕醫師-_-楊遠薰_80e2a87a17215263|archive copy]])

@@ -41,3 +41,8 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+
+## From the record
+
+- 2024-07-06 — Father 游銘泉 recalls in a TJJ/CNA interview that his first-ever interview was prompted by Kelvin winning the Emmy for best animation; both brothers chose creative careers against immigrant-parent expectations ([[articles/taiwanjustice-net/2024/20240715085116_root_9c6973783db0011a|TJJ/CNA, 2024-07-06]]).

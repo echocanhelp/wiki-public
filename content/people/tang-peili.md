@@ -11228,3 +11228,11 @@ Notable quotes and mentions of **唐培理** in Taiwan Justice articles:
 ## Related Pages
 
 - [[people/albert-s-lai||Dr. Albert S. Lai]]
+
+
+## From the record
+
+- 2017-03-12 — TJJ obituary for the author of 《撲火飛蛾》 (Fireproof Moth), Milo Thornberry (唐培禮), died 2017-03-08 in Bend, Oregon ([[articles/taiwanjustice-net/2024/20240302025810_root_74f89ee82c85dc78|TJJ, 2017-03-12]]).
+
+
+> Note (2026-09-17, TJJ wave-2 absorb): this page is likely the same person as [[people/milo-thornberry|Milo Thornberry 唐培禮]] — 唐培理 vs 唐培禮 is a transliteration variant of one name, but per merge policy this is flagged, not auto-merged; the obituary itself uses both spellings.

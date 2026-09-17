@@ -61,3 +61,8 @@ Charles Yu (游朝凱) is a novelist, short story writer, and screenwriter born 
 ## Corpus pass — 2026-09-14 (deepen-x slice 6)
 
 Corpus grep (游朝凱 / Charles Yu) returns 6 work records — awards-93, whos-who264, mystories-760, my-stories-768, and the 2012 book reviews #426/#427 — every one of which is already wikilinked in the Vault record timeline and Connected in the Vault sections above. **SKIP-with-reason:** no unlinked corpus material remains to absorb; this page was already fully corpus-linked. (#425 How to Live Safely is likewise already linked.)
+
+
+## From the record
+
+- 2024-07-06 — TJJ/CNA profile (黃淑芳): Yu says he began writing to narrate his parents' inner world as Taiwanese immigrants; interviewed by video alongside his father 游銘泉; 《內景唐人街》 TV adaptation set for Hulu/Disney+ that autumn; UC Berkeley assigned the novel for freshman reading and the NEA Big Read selected it ([[articles/taiwanjustice-net/2024/20240715085116_root_9c6973783db0011a|TJJ/CNA, 2024-07-06]]).

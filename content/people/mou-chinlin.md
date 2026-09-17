@@ -33,3 +33,8 @@ Mou-ChinLin (林茂清) is listed in the TAH Foundation Who’s Who Taiwanese Am
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+
+## From the record
+
+- 2021-09-23 — As president of the New Jersey Living Well Club, invited Yang Yuan-hsün to give five online talks during COVID (first in July 2020, on 提倡台美文化), and sent the community the notice of 彭昕醫師's death ([[articles/taiwanjustice-net/2021/20211020131319_2021_09_23_懷念彭昕醫師-_-楊遠薰_6763e8f4ad9bcb7c|TJJ memorial, 2021-09-23]] · [[articles/taiwanjustice-net/2025/20250323073306_懷念彭昕醫師-_-楊遠薰_80e2a87a17215263|archive copy]])

@@ -71,3 +71,9 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+
+## From the record
+
+- 2017-03-12 — TJJ memorial article on Milo Thornberry (唐培禮): credits the Thornberrys as the key helpers in Peng's 1970 escape from surveillance to Sweden (arriving 1970-01-05); recounts the 1964-09-20 台灣自救宣言, the 1965 sentences and the escape ([[articles/taiwanjustice-net/2024/20240302025810_root_74f89ee82c85dc78|TJJ, 2017-03-12]]).
+- 2021-09-23 — Yang Yuan-hsün's memoir of physician Peng Hsin (彭昕) reveals Peng Hsin was his nephew (Peng's younger brother's son); Peng Hsin asked the speaker not to soften anything about his uncle: 「有關我叔叔的事，無論好的不好的，我們都聽得很多」 ([[articles/taiwanjustice-net/2021/20211020131319_2021_09_23_懷念彭昕醫師-_-楊遠薰_6763e8f4ad9bcb7c|TJJ memorial, 2021-09-23]] · [[articles/taiwanjustice-net/2025/20250323073306_懷念彭昕醫師-_-楊遠薰_80e2a87a17215263|archive copy]]).

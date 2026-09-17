@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-17
 ---
 # Joyce Lin (林才欣)
 
@@ -35,6 +35,10 @@ Note
 ## Family
 
 _No filled family fields on the TAH profile._
+
+## From the record
+
+- 2020-05-15 — CNA (via TJJ) reports that Lin, a 40-year-old Taiwanese-American missionary pilot and qualified flight instructor for MAF (MIT CS BS/MS, Gordon-Conwell seminary; ex-USAF officer and IT technical director; US Air Force service noted in a NATPA letter), died on 2020-05-12 when her Kodiak 100 crashed into Lake Sentani minutes after takeoff while delivering COVID-19 rapid-test kits and school supplies to a remote Papuan village — MAF's first fatal accident in 23 years ([[articles/taiwanjustice-net/2025/20250614200802_為印尼偏鄉運送防疫物資_航空宣教使團_台裔_039ccce4163c57a9|TJJ, 2020-05-15]]).
 
 ## Sources
 - [TAH #2270 encyclopedia: 2270. Joyce Lin 林才欣](https://taiwaneseamericanhistory.org/whos-who-2270-joyce-lin/)

@@ -48,3 +48,8 @@ last_reviewed: 2026-08-17
 
 ## Network
 - [[organizations/presbyterian-church-in-taiwan||PCT]] — TAH Who’s Who
+
+
+## From the record
+
+- 2017-03-08 — TJJ memorial report: the author of 《撲火飛蛾》(Fireproof Moth), the US Methodist missionary who helped smuggle Peng Ming-min out of Taiwan in 1970, died in Oregon; expelled from Taiwan by the ROC government on 1971-03-04 on 'terrorist' charges and denied a US passport for 19 years. Daughter Katy Thornberry McNulty's obituary email reproduced in full ([[articles/taiwanjustice-net/2024/20240302025810_root_74f89ee82c85dc78|TJJ, 2017-03-12]]).

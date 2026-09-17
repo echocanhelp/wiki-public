@@ -45,3 +45,8 @@ last_reviewed: 2026-08-17
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+
+## From the record
+
+- 2024-07-06 — Video interview with 中央社記者黃淑芳 alongside son Charles Yu: emigrated to the US around 1965, engineer; laments the language gap across three generations (grandfather Qing-era, father Japanese-era education, his own Mandarin schooling) and says not taking his sons back to Taiwan often enough was his regret; has spent 10+ years returning to Taiwan to coach SME upgrading ([[articles/taiwanjustice-net/2024/20240715085116_root_9c6973783db0011a|TJJ/CNA, 2024-07-06]]).

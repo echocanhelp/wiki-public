@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-17
 ---
 # C. L. Yin (殷清隆)
 
@@ -25,6 +25,10 @@ last_reviewed: 2026-08-17
 
 - **Wife:** 殷敏寬
 
+
+## From the record
+
+- 2019-10-10 — A TJJ report on the 2020 海外小英後援會 LA 造勢大會 (10-13, San Gabriel Hilton) lists Yin, founder of 殷勤文教公益基金會, among the overseas Taiwanese figures who jointly answered the call and helped prepare the rally ([[articles/taiwanjustice-net/2024/20240613093234_root_1d72b2ae61640747|TJJ, 2019-10-10]]).
 
 ## Sources
 - [TAH #1437 encyclopedia: 1437. C. L. Yin 殷清隆 / 2016/12](https://taiwaneseamericanhistory.org/whoswho1437/)

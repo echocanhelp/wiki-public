@@ -11,7 +11,7 @@ name_en: "Alan Thian"
 name_zh_hanzi: "田詒鴻"
 name_zh: "田詒鴻"
 verification_status: pending
-last_reviewed: 2026-08-30
+last_reviewed: 2026-09-17
 source_note: "TAHS 2025 organization chart (roles only; no private contacts)"
 ---
 # Alan Thian (田詒鴻)
@@ -254,6 +254,10 @@ Notable quotes and mentions of **田詒鴻** in Taiwan Justice articles:
 - **High:** Name + 2025 titled role as printed on the society org chart (owner-held copy, 2026-08-03 capture)
 - **Pending:** Preferred English spelling (where marked provisional), full biography, tenure dates beyond chart year
 - `verification_status: pending` until member or officer review
+
+## From the record
+
+- 2019-10-10 — A TJJ report on the 2020 海外小英後援會 LA 造勢大會 (10-13, San Gabriel Hilton) names Thian as 會長 (國策顧問領銜), setting out the group's three services: voter registration assistance, return-to-Taiwan election-support tours, and 2020 election information ([[articles/taiwanjustice-net/2024/20240613093234_root_1d72b2ae61640747|TJJ, 2019-10-10]]).
 
 ## Sources
 - TAHS 2025 organization chart (roles only)
