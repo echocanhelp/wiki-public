@@ -45,6 +45,10 @@ Jensen Huang founded NVIDIA in 1993 and has served since its inception as presid
 - [TAH #226 encyclopedia: 226. Jen-Hsun Jensen Huang 黃仁勳](https://taiwaneseamericanhistory.org/whos-who-226-jen-hsun-huang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/jensen-huang/)
 
+## From the record
+
+- 2021-04-07 — 紐約台灣會館理事長交接典禮報導介紹新任理事長蘇春槐的表弟為輝達（NVIDIA）執行長黃仁勳（[[articles/taiwanjustice-net/2021/20210415111016_2021_04_07_紐約台灣會館-蘇春槐接理事長盼永續經營_483521594640641a|TJJ/CNA, 2021-04-07]]）。
+
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

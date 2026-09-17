@@ -257,6 +257,7 @@ Notable quotes and mentions of **田詒鴻** in Taiwan Justice articles:
 
 ## From the record
 
+- 2016-06-11 — 大洛杉磯台灣會館會員大會選出第十屆董事31名，田詒鴻任第一副董事長（董事長林榮松）（[[articles/taiwanjustice-net/2023/20230129123056_2016_06_12_台灣會館第十屆董事會選出新任董事長林榮松-_大_77328a2c6454177f|TJJ, 2016-06-12]]）。
 - 2018-06-27 — 以新當選大洛杉磯台灣會館第11屆董事長身分具名致函榮譽顧問及永久會員：6月17日會員大會一致選出，報告會館重建 Mixed-use 初步評估、台美小姐選拔與 20 周年慶籌備（[[articles/taiwanjustice-net/2020/20201118162555_2018_06_27_大洛杉磯台灣會館會訊_2018-年六月-_大洛杉磯台灣_79291dad808ef7f7|TJJ，2018-06-27]]）。
 - 2021-05-13 — 南加州僑界48個社團（含台美人歷史協會、台美律師協會）於洛杉磯華僑文教服務中心開發布會，連署聯合聲明支持台灣以制度化管理參與WHA/WHO，為聲明共同發起人之一（[[articles/taiwanjustice-net/2021/20210616072940_2021_05_17_2021年南加州僑界支持台灣參與世界衛生大會wha聯合聲_b1d58af16c0a5e5b|TJJ 2021-06-16 轉載]]；[[articles/taiwanjustice-net/2025/20251108183438_2021年南加州僑界支持台灣參與世界衛生大會wha聯合聲_80c0a825a7a661b6|2025-11-08 快照]]）。
 - 2019-10-10 — A TJJ report on the 2020 海外小英後援會 LA 造勢大會 (10-13, San Gabriel Hilton) names Thian as 會長 (國策顧問領銜), setting out the group's three services: voter registration assistance, return-to-Taiwan election-support tours, and 2020 election information ([[articles/taiwanjustice-net/2024/20240613093234_root_1d72b2ae61640747|TJJ, 2019-10-10]]).
@@ -267,6 +268,7 @@ Notable quotes and mentions of **田詒鴻** in Taiwan Justice articles:
 - 2020-01-06 — 以海外小英後援會會長率助選團（團員來自美國各州、加拿大、澳洲、紐西蘭）返台為立委造勢，行第4天欣慰分享「我深深感受到民進黨啓動世代交替，已經非常正面成功，我對未來的台灣充滿信心」；報導並記該團總幹事許維鈞、團長楊婉柔及經驗最豐富的林榮松，晚間行政院長蘇貞昌親至新北陪同立委張宏陸掃街向海外鄉親致意（[[articles/taiwanjustice-net/2025/20251207122146_2020海外小英後援會助選團返台助選_感受民進黨啓_f631078d99d9924d|TJJ, 2020-01-06]]）。
 
 - 2022-09-02 — 總統府公布遴聘及新聘國策顧問70人名單，田詒鴻在列，聘期自民國111年9月1日起至113年5月19日止；今年國策顧問較去年減少6人，3人辭世（中央社記者賴于榛報導 via [[articles/taiwanjustice-net/2025/20251013095227_總統府公布遴聘及新聘資政27人國策顧問70人名單_fa7c957f552d76e9|TJJ, 2022-09-02]]）。
+- 2025-05-03 — 以台灣會館董事長、總統府國策顧問身份出席大洛杉磯台灣會館新館動土典禮，表示新館由眾多鄉親捐款促成，未來要從第二代、第三代台美人往下傳承台灣人身分認同，「世世代代都驕傲說這是我們台灣人在美國的家」（[[articles/taiwanjustice-net/2025/20250518203139_洛杉磯台灣會館重建動土-盼世代延續台灣認同_afdbd8b27a42563d|TJJ/CNA, 2025-05-04]]）。
 
 ## Sources
 - TAHS 2025 organization chart (roles only)

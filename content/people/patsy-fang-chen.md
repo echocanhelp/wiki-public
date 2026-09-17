@@ -79,6 +79,14 @@ Absorbed from the on-page bio and tah-tables (no external sources):
 - Domain peers in the vault's Taiwanese-American performing-arts layer (context only; no membership asserted by the cited TAH records): [[organizations/formosan-society-for-performing-arts-inc-fospa||FOSPA]], [[organizations/taiwanese-american-arts-council-taac||TAAC]], [[organizations/taiwanese-american-arts-association||Taiwanese American Arts Association]], [[organizations/taiwanese-youth-arts-foundation-washington-dc||Taiwanese Youth Arts Foundation (DC)]].
 - Her archival footprint recorded above — [[works/taiwaneseamericanhistory-org/collection-of-mrs-patsy-chen|TAH #36 collection]] plus encyclopedia records #14/#57/#67/#249 — sits alongside her daughters' TAH holdings, making the Chen family a multi-record TAH corpus: [[people/wendy-fang-chen-tilp||Wendy Fang Chen 陳丹蘋]] · [[people/dr-justine-fang-chen||Dr. Justine Fang Chen 陳潔思]] · husband [[people/wen-jer-chen||Wen Jer Chen 陳文哲]].
 
+## From the record
+
+- 2021-04-07 — 自2017年起出任紐約台灣會館理事長兩任4年屆滿，於交接典禮將理事長職位交予蘇春槐並轉任副理事長；任內積極舉辦台美文化活動、號召賑災捐款，疫情期間協助紐約僑胞取得台灣製口罩；她表示台灣會館在紐約聲望水漲船高，希望更上好幾層樓（[[articles/taiwanjustice-net/2021/20210415111016_2021_04_07_紐約台灣會館-蘇春槐接理事長盼永續經營_483521594640641a|TJJ/CNA, 2021-04-07]]）。
+
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+## From the record
+
+- 2021-01-12 — 以紐約台灣會館理事長身分與華府、洛杉磯、聖地牙哥、北加州四大會館首長署名聯合聲明，就萊豬開放爭議主張「反對科學議題政治化」，呼籲朝野協商機制下認真看待執行面（[[articles/taiwanjustice-net/2021/20210121172817_2021_01_12_美國五大台灣會館評萊豬_反對科學議題政治化_1251d9ed43ef6e32|TJJ, 2021-01-12]]）。
