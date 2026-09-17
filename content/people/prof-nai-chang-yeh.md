@@ -34,6 +34,11 @@ last_reviewed: 2026-09-17
 
 _No filled family fields on the TAH profile._
 
+## Role in the Community
+
+- The TAH encyclopedia entry [[works/taiwaneseamericanhistory-org/187-prof-nai-chang-yeh|187. Prof. Nai-chang Yeh 葉乃裳教授]] and Who's Who entry [[works/taiwaneseamericanhistory-org/whos-who-1004-nai-chang-yeh|1004. Prof. Nai-chang Yeh 葉乃裳教授]] document her career record.
+- The community pride record [[works/taiwaneseamericanhistory-org/pride-prof-nai-chang-yeh|10. The first tenured woman professor in physics and also the first tenured Asian woman professor at Caltech]] celebrates her as a milestone for the Taiwanese American community: the first tenured woman physics professor, and first tenured Asian woman professor, at Caltech.
+
 ## Sources
 - [TAH #187 encyclopedia: 187. Prof. Nai-chang Yeh 葉乃裳教授](https://taiwaneseamericanhistory.org/187-prof-nai-chang-yeh/)
 - [TAH #1004 encyclopedia: 1004. Prof. Nai-chang Yeh 葉乃裳教授](https://taiwaneseamericanhistory.org/whos-who-1004-nai-chang-yeh/)
