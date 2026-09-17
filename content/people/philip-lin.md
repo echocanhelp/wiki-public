@@ -46,4 +46,4 @@ last_reviewed: 2026-08-17
 
 ## From the record
 
-- 2022-05-09 — Listed in 陳昭南's memoir among those who came from Taiwan to the US (with 許信良、謝聰敏) and joined the LA 美麗島週報社 ([[articles/articles/taiwanjustice-net/2022/20220519131411_2022_05_09_籌謀台灣_不流血革命_的獻策高手原來是他-_-陳_e3440fec3eed8107|TJJ column, 2022-05-09]]).
+- 2022-05-09 — Listed in 陳昭南's memoir among those who came from Taiwan to the US (with 許信良、謝聰敏) and joined the LA 美麗島週報社 ([[articles/taiwanjustice-net/2022/20220519131411_2022_05_09_籌謀台灣_不流血革命_的獻策高手原來是他-_-陳_e3440fec3eed8107|TJJ column, 2022-05-09]]).
