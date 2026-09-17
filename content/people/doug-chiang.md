@@ -39,6 +39,12 @@ last_reviewed: 2026-09-17
 - **Son:** Jake Chiang
 
 
+## Role in the Community
+
+No community memoirs or movement records in the corpus mention Doug Chiang (江道格) beyond his own TAH encyclopedia record, preserved at [[works/taiwaneseamericanhistory-org/185-doug-chiang-e6-b1-9f-e9-81-93-e6-a0-bc|185. Doug Chiang 江道格]].
+
+Disambiguation note: corpus mentions of "Douglass Chiang (江文基)" — e.g. chair of the Canadian Taiwanese Association in [[works/taiwaneseamericanhistory-org/ourjourneys352|352. History of Taiwanese American Conference – West Coast (TAC-WC)]] — are a different person (Vancouver, Canada), not Doug Chiang 江道格. No facts merged from those records.
+
 ## Sources
 - [TAH #185 encyclopedia: 185. Doug Chiang 江道格](https://taiwaneseamericanhistory.org/185-doug-chiang-%e6%b1%9f%e9%81%93%e6%a0%bc/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/doug-chiang/)
