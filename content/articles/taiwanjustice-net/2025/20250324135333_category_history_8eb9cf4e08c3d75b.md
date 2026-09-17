@@ -271,3 +271,7 @@ March 19, 2023
 ...
 24
 Page 1 of 24
+
+## Subjects
+- [[people/ryan-hass.md|Ryan Hass]] — mentioned in this record
+

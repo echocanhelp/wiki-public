@@ -68,3 +68,7 @@
 ## Related Pages
 
 - [[people/albert-s-lai||Dr. Albert S. Lai]]
+
+## Subjects
+- [[people/albert-s-lai.md|Dr. Albert S. Lai]] — mentioned in this record
+

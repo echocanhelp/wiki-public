@@ -269,3 +269,7 @@ January 3, 2021
 86
 87
 Page 87 of 87
+
+## Subjects
+- [[people/rueibin-chen.md|陳瑞斌]] — mentioned in this record
+

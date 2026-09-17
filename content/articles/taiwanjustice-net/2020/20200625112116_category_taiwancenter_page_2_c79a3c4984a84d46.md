@@ -295,3 +295,7 @@ May 20, 2019
 大洛杉磯台灣會館
 May 20, 2019
 Load more
+
+## Subjects
+- [[people/rueibin-chen.md|陳瑞斌]] — mentioned in this record
+

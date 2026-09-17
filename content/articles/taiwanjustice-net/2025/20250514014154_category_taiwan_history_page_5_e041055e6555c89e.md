@@ -274,3 +274,8 @@ October 13, 2024
 ...
 29
 Page 5 of 29
+
+## Subjects
+- [[people/jensen-huang.md|黃仁勳]] — mentioned in this record
+- [[people/james-laidlaw-maxwell.md|馬雅各]] — mentioned in this record
+

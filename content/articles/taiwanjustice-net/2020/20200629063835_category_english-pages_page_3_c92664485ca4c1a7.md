@@ -295,3 +295,8 @@ The Right Way to Confront China ◎Freedom House 2017-03-14
 English Pages
 March 16, 2017
 Load more
+
+## Subjects
+- [[people/peter-chen.md|Peter Chen]] — mentioned in this record
+- [[people/ling-ling-chang.md|Ling Ling Chang]] — mentioned in this record
+

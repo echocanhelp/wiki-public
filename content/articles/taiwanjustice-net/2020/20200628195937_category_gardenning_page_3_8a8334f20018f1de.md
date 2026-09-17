@@ -295,3 +295,7 @@ August 30, 2016
 園藝
 August 29, 2016
 Load more
+
+## Subjects
+- [[people/s-l-lin.md|林幸隆]] — mentioned in this record
+

@@ -296,3 +296,7 @@ March 13, 2020
 藝文
 March 9, 2020
 Load more
+
+## Subjects
+- [[people/lynn-huang.md|黃令先]] — mentioned in this record
+

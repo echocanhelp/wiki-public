@@ -272,3 +272,7 @@ May 19, 2022
 158
 159
 Page 158 of 159
+
+## Subjects
+- [[people/bi-khim-hsiao.md|蕭美琴]] — mentioned in this record
+

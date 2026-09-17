@@ -313,3 +313,7 @@ November 24, 2020
 ...
 577
 Page 1 of 577
+
+## Subjects
+- [[people/bi-khim-hsiao.md|蕭美琴]] — mentioned in this record
+

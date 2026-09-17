@@ -244,3 +244,7 @@ March 11, 2022
 多倫多移民家庭齊心協力 種出正港台灣高麗菜
 園藝
 August 9, 2021
+
+## Subjects
+- [[people/juliar-wang.md|Juliar Wang]] — mentioned in this record
+

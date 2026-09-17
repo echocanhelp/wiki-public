@@ -226,3 +226,7 @@ Tag: 以立音樂基金會 Elite Music Foundation 音樂總監黃令先
 焦點影音
 黃令先老師演唱自己的作品 Praise the Lord
 August 13, 2020
+
+## Subjects
+- [[people/lynn-huang.md|黃令先]] — mentioned in this record
+

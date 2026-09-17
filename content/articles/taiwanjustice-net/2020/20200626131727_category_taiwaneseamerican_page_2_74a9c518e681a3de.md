@@ -295,3 +295,8 @@ May 29, 2020
 台美人台加人
 May 26, 2020
 Load more
+
+## Subjects
+- [[people/alan-thian.md|田詒鴻]] — mentioned in this record
+- [[people/bi-khim-hsiao.md|蕭美琴]] — mentioned in this record
+

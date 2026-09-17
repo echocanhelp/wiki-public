@@ -295,3 +295,7 @@ September 15, 2019
 台灣演義
 September 8, 2019
 Load more
+
+## Subjects
+- [[people/tsung-ming-hsieh.md|謝聰敏]] — mentioned in this record
+

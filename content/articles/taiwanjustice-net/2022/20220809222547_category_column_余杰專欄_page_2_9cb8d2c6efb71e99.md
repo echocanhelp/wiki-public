@@ -268,3 +268,7 @@ January 20, 2020
 ...
 38
 Page 2 of 38
+
+## Subjects
+- [[people/jeremy-lin.md|林書豪]] — mentioned in this record
+

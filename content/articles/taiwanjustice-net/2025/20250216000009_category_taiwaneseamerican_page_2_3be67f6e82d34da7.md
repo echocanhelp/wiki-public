@@ -272,3 +272,8 @@ June 3, 2020
 ...
 157
 Page 2 of 157
+
+## Subjects
+- [[people/philip-lin.md|林水泉]] — mentioned in this record
+- [[people/bi-khim-hsiao.md|蕭美琴]] — mentioned in this record
+

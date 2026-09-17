@@ -275,3 +275,7 @@ May 12, 2024
 ...
 23
 Page 4 of 23
+
+## Subjects
+- [[people/jensen-huang.md|黃仁勳]] — mentioned in this record
+

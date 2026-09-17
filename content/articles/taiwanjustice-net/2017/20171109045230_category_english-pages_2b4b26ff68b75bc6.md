@@ -26,3 +26,8 @@ English Pages 美國務院太親中(The State Department Is Tilting Dangerously 
 English Pages Nobuyuki Tsujii – La Campanella – BBC Proms 2013 (辻井伸行さん プロムス2013 アンコール) ◎Youtube August 10, 2017 admin 0 […]
 English Pages A Broadway style Taiwanese Opera, When The World Met Taiwan “遇見台灣” 歌仔戲郭懷一北美巡演 ◎鄭良光 (Simon Cheng) 2017-07-06 July 5, 2017 admin 0 […]
 English Pages New Report: ‘Breaking Down Democracy’ / Freedom House 2017-06-05 June 5, 2017 admin 0 […]
+
+## Subjects
+- [[people/john-chiang.md|John Chiang]] — mentioned in this record
+- [[people/simon-cheng.md|Simon Cheng]] — mentioned in this record
+

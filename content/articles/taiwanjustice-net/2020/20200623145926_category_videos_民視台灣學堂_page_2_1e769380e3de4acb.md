@@ -296,3 +296,7 @@ May 27, 2020
 民視台灣學堂
 May 26, 2020
 Load more
+
+## Subjects
+- [[people/father-brendan-oconnell.md|甘惠忠神父]] — mentioned in this record
+

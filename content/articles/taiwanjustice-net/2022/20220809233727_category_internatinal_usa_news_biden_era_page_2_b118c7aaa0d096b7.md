@@ -267,3 +267,7 @@ June 2, 2021
 ...
 403
 Page 2 of 403
+
+## Subjects
+- [[people/bi-khim-hsiao.md|蕭美琴]] — mentioned in this record
+

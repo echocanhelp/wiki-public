@@ -295,3 +295,8 @@ July 11, 2020
 台灣新聞
 July 11, 2020
 Load more
+
+## Subjects
+- [[people/lanhee-j-chen.md|Lanhee J. Chen]] — mentioned in this record
+- [[people/bi-khim-hsiao.md|蕭美琴]] — mentioned in this record
+

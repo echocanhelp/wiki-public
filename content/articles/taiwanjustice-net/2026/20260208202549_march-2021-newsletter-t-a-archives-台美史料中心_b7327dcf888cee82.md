@@ -25,3 +25,9 @@ A Life Lived to the Fullest By: Edgar Lin 林俊義 Studying in the US: Transfer
 Could you translate your Hanji articles on our website to English? You would be the best person to translate your own article. With our small team trying to translate many thousands of articles into English would take a long time. Even with Google Translate, we still need a lot of efforts to make it better. If many of you could help, we will have more articles to share with our younger generations sooner.
 Progress in February2021
 There are 31 new subjects collected in February and the total posts are 9521.
+
+## Subjects
+- [[people/yung-hwa-hsu.md|Yung Hwa Hsu]] — mentioned in this record
+- [[people/adrian-lin.md|Adrian Lin]] — mentioned in this record
+- [[people/kin-ko.md|柯金寅]] — mentioned in this record
+

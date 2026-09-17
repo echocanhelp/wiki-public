@@ -272,3 +272,7 @@ November 11, 2021
 ...
 15
 Page 1 of 15
+
+## Subjects
+- [[people/bi-khim-hsiao.md|蕭美琴]] — mentioned in this record
+

@@ -29,3 +29,7 @@ von Meck 夫人決定每月寄 6000 rubles 給他，要他辭去音樂院教書�
 Tchaikovsky 與這二位女士交往期間寫了第四交響樂，他很誠實的表現他所遭遇的命運，音樂學家 John Warrack 說他好像是跟隨 Beethoven 後面寫他的「命運交響樂」，可是他創造了獨特的風格來表現他所遭遇的「命運」。由於 von Meck 夫人慷慨資助，讓他能專心寫出很多傑作，如「D 大調小提琴協奏曲」（1878）、歌劇「The Maid of Orleans（聖女貞德的故事）」（1879）、「絃樂小夜曲」（1880）、「意大利隨想曲」（1880）、「1812序曲」（1880）等。
 Tchaikovsky 於1878年完成第四交響樂，獻給他「最偉大的朋友」。當年2月22日在莫斯科初演，由他的朋友 Nikolai Rubinstein 指揮，相當成功。Tchaikovsky 與 von Meck 夫人都在場。演奏會後他寫信給她說：
 「There is a program to our symphony, i.e., there is the possibility of putting into words what it is trying to express, and to you, to you alone . . . I was terribly depressed when I was composing this symphony, and it serves as a true echo of what I was going through at the time」
+
+## Subjects
+- [[people/ming-liang-lee.md|李明亮]] — mentioned in this record
+

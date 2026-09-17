@@ -274,3 +274,7 @@ April 3, 2025
 ...
 782
 Page 3 of 782
+
+## Subjects
+- [[people/jensen-huang.md|黃仁勳]] — mentioned in this record
+

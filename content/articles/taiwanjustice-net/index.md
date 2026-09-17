@@ -94,3 +94,16 @@ knowledge/web-archives/taiwanjustice-net/tier2/
 
 ## Privacy Gate
 A systematic privacy gate scan was run on all 29,103 files. Content is safe to publish. See the full report at `knowledge/research/taiwanjustice-net-privacy-gate.md`.
+
+## Subjects
+- [[people/lai-ching-te.md|Lai Ching-te]] — mentioned in this record
+- [[people/ma-yingjeou.md|Ma Ying-jeou]] — mentioned in this record
+- [[people/freeman-huang.md|Freeman Huang]] — mentioned in this record
+- [[people/tsai-ing-wen.md|Tsai Ing-wen]] — mentioned in this record
+- [[people/liao-qingshan.md|Liao Qing-shan]] — mentioned in this record
+- [[people/chen-zhaonan.md|Chen Chao-nan]] — mentioned in this record
+- [[people/he-qingxuan.md|He Qinglian]] — mentioned in this record
+- [[people/yang-ziqing.md|Yang Zi-qing]] — mentioned in this record
+- [[people/chen-maoxiong.md|Chen Mao-xiong]] — mentioned in this record
+- [[people/yu-jie.md|Yu Chieh]] — mentioned in this record
+

@@ -273,3 +273,9 @@ April 1, 2024
 ...
 158
 Page 3 of 158
+
+## Subjects
+- [[people/prof-ming-min-peng.md|彭明敏教授]] — mentioned in this record
+- [[people/andrew-yang.md|楊安澤]] — mentioned in this record
+- [[people/bi-khim-hsiao.md|蕭美琴]] — mentioned in this record
+

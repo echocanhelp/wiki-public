@@ -263,3 +263,7 @@ September 4, 2023
 台灣史地
 September 4, 2023
 Load more
+
+## Subjects
+- [[people/tzutsai-cheng.md|鄭自才]] — mentioned in this record
+

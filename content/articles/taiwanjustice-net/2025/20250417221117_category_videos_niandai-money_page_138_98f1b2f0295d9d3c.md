@@ -273,3 +273,7 @@ December 26, 2019
 138
 139
 Page 138 of 139
+
+## Subjects
+- [[people/enoch-wu.md|吳怡農]] — mentioned in this record
+

@@ -273,3 +273,7 @@ April 9, 2020
 138
 139
 Page 138 of 139
+
+## Subjects
+- [[people/bi-khim-hsiao.md|蕭美琴]] — mentioned in this record
+

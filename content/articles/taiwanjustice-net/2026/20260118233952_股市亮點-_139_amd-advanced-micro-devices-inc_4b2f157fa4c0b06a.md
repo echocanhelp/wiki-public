@@ -25,3 +25,7 @@ AMD 今年7月越過50天平均線（約55），至9月初最高達( 94.28)! 碰
 則更須加買（buy break-out )! 這個是IBD 買股票的哲學，因為只有能夠突破以前高點的股，才是強有力的股，才能繼續往上「升高」！
 （10/02/2020， 扶丁 ）
  本報24/7隨時更新 歡迎定閱newsletter
+
+## Subjects
+- [[people/dr-lisa-su.md|蘇姿豐博士]] — mentioned in this record
+

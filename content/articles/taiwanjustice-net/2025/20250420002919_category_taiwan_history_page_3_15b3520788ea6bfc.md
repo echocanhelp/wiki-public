@@ -273,3 +273,7 @@ January 21, 2024
 ...
 28
 Page 3 of 28
+
+## Subjects
+- [[people/james-laidlaw-maxwell.md|馬雅各]] — mentioned in this record
+

@@ -268,3 +268,7 @@ July 31, 2021
 ...
 10
 Page 2 of 10
+
+## Subjects
+- [[people/grace-h-yeh.md|張信惠]] — mentioned in this record
+

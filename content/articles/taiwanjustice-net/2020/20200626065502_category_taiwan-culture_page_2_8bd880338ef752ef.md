@@ -295,3 +295,7 @@ May 24, 2020
 台灣人文藝術
 May 23, 2020
 Load more
+
+## Subjects
+- [[people/father-brendan-oconnell.md|甘惠忠神父]] — mentioned in this record
+

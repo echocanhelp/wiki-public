@@ -296,3 +296,7 @@ April 19, 2016
 金恆煒專欄
 April 13, 2016
 Load more
+
+## Subjects
+- [[people/linda-gail-arrigo.md|艾琳達]] — mentioned in this record
+

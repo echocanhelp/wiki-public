@@ -230,3 +230,7 @@ September 1, 2020
 卓甫良與TAF的故事 ◎ 楊遠薰
 鄒族的人權軼史(3)—談高一生、湯守仁及其後代們的故事 ◎楊遠薰
 懷念彭昕醫師 ◎ 楊遠薰
+
+## Subjects
+- [[people/william-cho.md|卓甫良]] — mentioned in this record
+

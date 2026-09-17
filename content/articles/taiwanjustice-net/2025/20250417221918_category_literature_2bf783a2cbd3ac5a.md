@@ -274,3 +274,7 @@ October 26, 2020
 ...
 28
 Page 1 of 28
+
+## Subjects
+- [[people/grace-h-yeh.md|張信惠]] — mentioned in this record
+

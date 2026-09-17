@@ -295,3 +295,8 @@ June 20, 2020
 台灣頭條
 June 20, 2020
 Load more
+
+## Subjects
+- [[people/enoch-wu.md|吳怡農]] — mentioned in this record
+- [[people/bi-khim-hsiao.md|蕭美琴]] — mentioned in this record
+

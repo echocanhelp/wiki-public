@@ -272,3 +272,7 @@ May 10, 2024
 ...
 15
 Page 2 of 15
+
+## Subjects
+- [[people/bi-khim-hsiao.md|蕭美琴]] — mentioned in this record
+

@@ -296,3 +296,7 @@ June 11, 2020
 我的肥皂箱
 June 10, 2020
 Load more
+
+## Subjects
+- [[people/ryan-hass.md|Ryan Hass]] — mentioned in this record
+

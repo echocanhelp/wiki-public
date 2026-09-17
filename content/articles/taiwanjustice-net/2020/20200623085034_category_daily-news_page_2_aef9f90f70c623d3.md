@@ -295,3 +295,7 @@ June 17, 2020
 每日新聞
 June 17, 2020
 Load more
+
+## Subjects
+- [[people/bi-khim-hsiao.md|蕭美琴]] — mentioned in this record
+

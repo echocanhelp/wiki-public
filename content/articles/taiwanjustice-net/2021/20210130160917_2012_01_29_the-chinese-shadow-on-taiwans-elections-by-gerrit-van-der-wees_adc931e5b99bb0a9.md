@@ -29,3 +29,8 @@ One can not thus say that it was a vote for “stability,” but more a vote out
 What is the net result of a win for Ma, the KMT and Taiwan? In the short term, there may be a fictitious peace and quiet, but the Chinese leaders will interpret the situation as going their way and will pressure Ma to start “political talks.” This will put increasing pressure on the country’s democracy and increasingly diminish the freedoms and liberty Taiwanese achieved in their transition to democracy.
 The ultimate question is whether Taiwanese will be able to freely determine their future as a democratic nation. Its authoritarian heritage and China’s shadow over the recent elections have already significantly reduced this freedom.
 Gerrit van der Wees is editor of Taiwan Communique, a publication based in Washington.
+
+## Subjects
+- [[people/ma-yingjeou.md|Ma Ying-jeou]] — mentioned in this record
+- [[organizations/democratic-progressive-party.md|Democratic Progressive Party]] — mentioned in this record
+

@@ -272,3 +272,7 @@ December 24, 2024
 27
 28
 Page 28 of 28
+
+## Subjects
+- [[people/bi-khim-hsiao.md|蕭美琴]] — mentioned in this record
+

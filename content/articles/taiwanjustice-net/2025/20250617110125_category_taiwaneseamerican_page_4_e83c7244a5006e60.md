@@ -274,3 +274,7 @@ December 21, 2024
 ...
 160
 Page 4 of 160
+
+## Subjects
+- [[people/stella-chen.md|陳婉真]] — mentioned in this record
+

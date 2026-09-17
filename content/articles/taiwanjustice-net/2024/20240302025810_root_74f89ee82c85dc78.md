@@ -93,3 +93,9 @@ Katy Thornberry McNulty
 飛蛾，為何要撲火？明知會引火上身，為何還是義無反顧？因為他們追求的，不是只有自己的生命，而是在基督裡的生命，為著愛、公義與真理的生命，他們甘願去冒險，甚至犧牲了生命。這不是說，他們已經完全，而是寧願去相信。他們相信，一個基督徒的生命本該是如此，是耶穌比喻中那個「好撒瑪利亞人」。唐培禮牧師夫婦從一群台灣人身上看到了他們的需要，因此做出一個「合乎道德」的行為，即使這會抵制了他們自身利益，但也因此，這一切讓看似毫無現實性的理論架構，道成肉身，成了活的見證。
 「我是世界的光；跟從我的，會得著生命的光，絕不會在黑暗裏走。」（約翰福音8章12節）
 飛蛾，為何撲火？因為，光，在哪裡。
+
+## Subjects
+- [[people/milo-thornberry.md|Milo Thornberry]] — mentioned in this record
+- [[people/prof-ming-min-peng.md|彭明敏教授]] — mentioned in this record
+- [[people/tsung-ming-hsieh.md|謝聰敏]] — mentioned in this record
+

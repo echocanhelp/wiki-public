@@ -296,3 +296,7 @@ June 18, 2020
 南海東海風雲
 June 17, 2020
 Load more
+
+## Subjects
+- [[people/bi-khim-hsiao.md|蕭美琴]] — mentioned in this record
+
