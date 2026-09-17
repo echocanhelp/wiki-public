@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-17
 ---
 # Kai Wu (吳開智)
 
@@ -32,6 +32,11 @@ last_reviewed: 2026-08-17
 ## Family
 
 _No filled family fields on the TAH profile._
+
+## Role in the Community
+
+- TAH encyclopedia musician entry [[works/taiwaneseamericanhistory-org/musician359|359. Kai Wu 吳開智, Pianist / 09/2016]] and Who's Who entry [[works/taiwaneseamericanhistory-org/whoswho-e5-90-b3-e9-96-8b-e6-99-ba|1265. Kai Wu 吳開智 / 09/2016]] document his record as a Taiwanese American pianist.
+- The 1993 UCLA Royce Hall concert with the American Youth Symphony (Tchaikovsky Piano Concerto No. 1, part of the Tchaikovsky centenary series) is his community-documented milestone; the body text above reads "993年" — HOLD: typo 993 vs the employment record's 1993, not merged.
 
 ## Sources
 - [TAH #359 encyclopedia: 359. Kai Wu 吳開智,Pianist / 09/2016](https://taiwaneseamericanhistory.org/musician359/)

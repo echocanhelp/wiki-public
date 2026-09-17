@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-17
 ---
 # Dr. Hui-Ling Chen (陳慧玲博士)
 
@@ -35,6 +35,9 @@ Research Investigator
 ## Family
 
 _No filled family fields on the TAH profile._
+
+## Role in the Community
+- Record so far rests on the TAH Who's Who encyclopedia entry [[works/taiwaneseamericanhistory-org/whos-who-2147-hui-ling-chen|TAH #2147, Dr. Hui-Ling Chen 陳慧玲博士]] (2018-07-10). Other corpus hits for the name 陳慧玲 are homonyms and do NOT apply to this page: 陳慧玲, daughter of Anson Chan (HK, d. 2025) and 陳慧玲, a Penghu county councilor.
 
 ## Sources
 - [TAH #2147 encyclopedia: 2147. Dr. Hui-Ling Chen 陳慧玲博士](https://taiwaneseamericanhistory.org/whos-who-2147-hui-ling-chen/)
