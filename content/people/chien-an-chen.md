@@ -45,7 +45,7 @@ _No filled family fields on the TAH profile._
 ## Role in the Community（corpus deepen 2026-09-14）
 - 南加州台灣人聯合基金會（TUF）1992 年起「台灣名家演奏系列」（吳澧培贊助）先後邀請大提琴家楊文信、范雅志、**陳建安**等：[[works/taiwaneseamericanhistory-org/ourjourneys294|Our Journeys #294：TUF 簡介（2017/06）]]
 - 1995-09-29 加州州立大學洛杉磯分校 Luckman Hall《台灣民謠之夜》——演出者蘇顯達、葉綠娜、**陳建安**、黃瑞芬、黃維明及台美第二代 Joli Wu（林衡哲回憶）：[[works/taiwaneseamericanhistory-org/ourjourneys301|Our Journeys #301：TUF 的誔生、回顧與展望 1986–1996（2017/07）]]
-- 1995-07-29 TUF 台灣名家演奏系列邀聲樂家黃瑞芬洛杉磯演唱會，同台：鋼琴葉綠娜、小提琴蘇顯達／黃維明、中提琴吳昭麗、大提琴**陳建安**，節目含呂泉生《搖嬰仔歌》、蕭泰然《嘸通嫌台灣》：[[articles/taiwanjustice-net/2024/20240225012121_root_64302d51d03b3c5f|黃瑞芬過世報導（台灣正義網 2024-02）]]
+- 1995-07-29 TUF 台灣名家演奏系列邀聲樂家黃瑞芬洛杉磯演唱會，同台：鋼琴葉綠娜、小提琴蘇顯達／黃維明、中提琴吳昭麗、大提琴**陳建安**，節目含呂泉生《搖嬰仔歌》、蕭泰然《嘸通嫌台灣》：[[articles/taiwanjustice-net/2022/20220519130616_2022_01_29_台灣女聲樂家_資深古典音樂節目主持人黃瑞芬過_bfc5f319a036a339|黃瑞芬過世報導（台灣公義報 2022-01-29）]]、[[articles/taiwanjustice-net/2024/20240225012121_root_64302d51d03b3c5f|2024 存檔copy]]
 - 社群定位：TAH 傳記為演奏生涯記載；vault 語料顯示其為 1990 年代南加州台裔音樂運動（TUF）的大提琴班底之一。
 
 ## Sources

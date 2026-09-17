@@ -43,6 +43,7 @@ _No filled family fields on the TAH profile._
 - 2016-12-17 — 大洛杉磯台灣會館董事長林榮松於會訊 #11 宣布：2017 年 228 七十週年系列活動由董事賴慧娜帶頭籌辦，傳統週則由年輕一代 Ken Wu 董事帶頭 —— [[articles/taiwanjustice-net/2024/20240721101942_root_04f32b14d8cf8f12|TJJ 轉載台灣會館會訊 #11（2016-12-17）]]。
 - 2018-07-20 — Signed as 賴慧娜(圖館) among the ~170 台大校友 co-signatories of the open letter protesting 南加州台大校友會 inviting 管中閔 to speak at its 2018 annual meeting amid the disputed 校長遴選 case ([[articles/taiwanjustice-net/2018/20180721091303_2018_07_20_抗議-南加州台大校友會邀管中閔來年會做專題演講_a428dcebbceacf38|TJJ, 2018-07-20]]).
 - 2017-02-17 — 大洛杉磯台灣會館暨南加及拉斯維加斯75個社團2月25日在洛杉磯華僑文教中心聯合紀念228七十週年並揭幕國紀館特展「沉冤、真相、責任」；籌備會由董事賴慧娜擔任召集人，為海外最盛大的228紀念活動（[[articles/taiwanjustice-net/2024/20240530134421_root_23da543a315a1fa1|TJJ 轉載台灣會館會訊，2017-02-17]]）。
+- 2022-01-09 — 與鄭炳全、林文政、黃樹人連袂拜訪筆會會員葉思雅、張信惠伉儷，慶賀其「週末漫談音樂」專欄滿100期；賴慧娜以水果派致賀（[[articles/taiwanjustice-net/2022/20220127025846_2022_01_10_圓滿的100-慶賀葉思雅_張信惠_週末漫談音樂_專_a1be6b822ac7cdcd|TJJ, 2022-01-10]]）。
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

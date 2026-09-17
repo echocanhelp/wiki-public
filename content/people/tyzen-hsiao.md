@@ -152,7 +152,7 @@ TAH employment (unparsed string): Tainan Univ. of Technology assoc. prof.; Wenza
 
 - 2025-02-22 — At the 228追思紀念大會 hosted by the Greater Los Angeles Taiwan Center (co-hosted by 24 TA groups), the Taiwan Center choir sang 《台灣》 and 《台灣百合》, and 許正龍 led the assembly in a Hakka/Hokkien bilingual sing-along of his 《台灣翠青》 (lyrics by 鄭兒玉), "singing out the spirit and vision of the Taiwanese people" ([[articles/taiwanjustice-net/2025/20250320212940_大洛杉磯台灣會館等24個台美社團舉舉行228追思紀念_c62f5c50846fe267|TJJ report, 2025-02-24]]).
 - 1994 — 名列「TUF 台灣文化之夜 1994」演出名單（同場：李喬、楊青矗、李慧珍、郭雋律、郭雋音、吳英俊），楊子清提供紀錄；同系列 1993 曾道雄/陳麗蟬/蕭泰然演唱會影音紀錄亦經楊子清存檔（[[articles/taiwanjustice-net/2021/20210117071954_tag_楊子清_11aa2dfa5f64d7e4|TJJ 楊子清 tag, 2020-09-30]]）。
-- 1995-07-29 — 其作品〈嘸通嫌台灣〉在台灣人聯合基金會（TUF）「台灣名家演奏系列」洛杉磯音樂會上由黃瑞芬等演出（[[articles/taiwanjustice-net/2024/20240225012121_root_64302d51d03b3c5f|TJJ 轉載訃聞，2022-01-29]]）。
+- 1995-07-29 — 其作品〈嘸通嫌台灣〉在台灣人聯合基金會（TUF）「台灣名家演奏系列」洛杉磯音樂會上由黃瑞芬等演出（[[articles/taiwanjustice-net/2022/20220519130616_2022_01_29_台灣女聲樂家_資深古典音樂節目主持人黃瑞芬過_bfc5f319a036a339|TJJ 轉載訃聞，2022-01-29]]；[[articles/taiwanjustice-net/2024/20240225012121_root_64302d51d03b3c5f|2024 存檔copy]]）。
 
 ## Sources
 1. [Wikipedia: Tyzen Hsiao](https://en.wikipedia.org/wiki/Tyzen_Hsiao)
