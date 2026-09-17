@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-17
 ---
 # Michael Fonte (彭光理)
 
@@ -36,6 +36,12 @@ last_reviewed: 2026-08-17
 
 - **Wife:** Berta Romero
 
+
+## Role in the Community
+
+- 2004-04 — FAPA 主辦「台灣大選選後分析座談」（明尼蘇達），彭光理（Michael Fonte）主講（[[works/taiwaneseamericanhistory-org/ourjourneys123|Our Journeys #123 明州台灣人活動年表]]; the 2004 entry in the same record lists him as the FAPA post-election analysis speaker）。
+- 2016-05 — 楊遠薰為其撰寫專文《432. 彭光理與台灣的半生緣》，收入 TAH「My Stories」社區檔案（[[works/taiwaneseamericanhistory-org/mystories432|My Stories #432]]）。
+- 2016 — 楊遠薰《第四十五屆美東夏令會備忘錄&聲明》以其為紀錄主角之一（[[works/taiwaneseamericanhistory-org/ourjourneys260|Our Journeys #260]]）。
 
 ## Sources
 - [TAH #962 encyclopedia: 962. Michael Fonte 彭光理 / 2016/05](https://taiwaneseamericanhistory.org/whoswho962/)

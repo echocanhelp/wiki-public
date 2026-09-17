@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-17
 ---
 # Jin-Chyuan Yu (游銘泉)
 
@@ -37,6 +37,13 @@ last_reviewed: 2026-08-17
 - **Son:** Charles朝凱
 - **Son:** Kelvin朝敏
 
+
+## Role in the Community
+
+- 1988 — 應邀擔任 TACL 為戴議員募款餐會的工作小組成員（與黃森元、林碧玉、林本晃、鍾金江等），該餐會約 300 人參加，促成戴議員行文邀請 TACL 出席人口普查聽證會（[[works/taiwaneseamericanhistory-org/ourjourneys253|周實《1990年美國人口普查-TACL的角色》, 2016-09]]）。
+- 1989-08 — 與陳照媛、周實聯袂前往普查局（Van Nyes）參觀內部運作，確認 1990 年普查表的台灣人（Taiwanese）分開電碼格式 —— 1990 年人口普查「寫台灣人」認同運動的第一線工作（同上，[[works/taiwaneseamericanhistory-org/ourjourneys253|Our Journeys #253]]）。
+- 南灣生活座談會創會會員（與陳惠亭、黃森元、許清煌、江昭儀等 12 人創會，會史逾十一年）（[[works/taiwaneseamericanhistory-org/ourjourneys212|劉天良《生活座談會簡史》, 2016-03]]）。
+- 與妻 Betty Yu（林玲娟）共同創辦 NATEA-SC、共同創設 TACL LID 青年營、共同創辦南灣台美學校（美國第一所以台語教學為目的學校），長期支持 FAPA、NATWA、TAA；2021 年兒子 Charles Yu 以二人命名設立 Betty L. Yu and Jin C. Yu Creative Writing Prize（[[works/taiwaneseamerican-org/american-born-chinese-disney|American Born Chinese 紀錄頁]]）。
 
 ## Sources
 - [TAH #432 encyclopedia: 432. Jin-Chyuan Yu 游銘泉/2015/06](https://taiwaneseamericanhistory.org/432-jin-chyuan-yu-%e6%b8%b8%e9%8a%98%e6%b3%89201506/)

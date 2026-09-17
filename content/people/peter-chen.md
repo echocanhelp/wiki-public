@@ -50,3 +50,4 @@ last_reviewed: 2026-08-17
 ## From the record
 
 - 2020-06-29 — 署名「Peter Chen 陳正義」的英文評論「Time to reaffirm Taiwan-US ties」（原刊 Taipei Times）列於台灣正義網 English Pages 目錄頁（快照 2020-06-29）（[[articles/taiwanjustice-net/2020/20200629063835_category_english-pages_page_3_c92664485ca4c1a7|TJJ English Pages, 2020-06-29]]）。
+- 2022-09-25 — 擔任第53回世界台灣文化論壇「Tī美國點光台灣」主持人，與主講人高龍榮（Long Rong (Mark) Kao）及與談人 Ken Wu（吳兆峯）對談美國對台關鍵政策、「維持現狀」與「戰略模糊」及 FAPA/FAPR 的角色（[[articles/taiwanjustice-net/2022/20221127045936_2022_09_25_第53回世界台灣文化論壇_ti美國點光台灣高龍榮-吳_e9faa17a0a7ea61c|TJJ, 2022-09-25]]）。

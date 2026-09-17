@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-17
 ---
 # Helen Loo (翁進治)
 
@@ -32,6 +32,12 @@ Accomplishment
 
 - **Husband:** [[people/tsu-yi-jay-loo||盧主義]]
 
+
+## Role in the Community
+
+- 2014 — 美東台灣人夏令會（TAC/EC）召集人（TAH Who's Who 記載）。
+- 2016-10 — 執筆《第四十五屆美東夏令會備忘錄&聲明》，為 TAC/EC 社區檔案留下第一手紀錄（[[works/taiwaneseamericanhistory-org/ourjourneys260|Our Journeys #260, 翁進治, 2016-10]]）。
+- 2017-07-04 — 於第 46 屆美東夏令會閉幕典禮接受會旗交接，出任 **2018 年 TAC/EC 理事長**（召集人謝己，費城/德拉瓦同鄉接辦）——見本頁 From the record 及 [[articles/taiwanjustice-net/2024/20240522235843_root_d2dbfe220e437602|TJJ 轉載楊遠薰報導]]。
 
 ## Sources
 - [TAH #1733 encyclopedia: 1733. Helen Loo 翁進治](https://taiwaneseamericanhistory.org/whos-who-1733-helen-loo/)

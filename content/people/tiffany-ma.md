@@ -43,6 +43,10 @@ _No filled family fields on the TAH profile._
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
+## Role in the Community
+
+- The only in-corpus footprint beyond her own TAH encyclopedia record ([[works/taiwaneseamericanhistory-org/whoswho2072|TAH #2072 profile, 2018/03]]) is her 2020 policy commentary quoted in the TJJ archive below — no memoir/community-organizing material found to absorb.
+
 ## From the record
 
 - 2020-09-22 — In a CNA report relayed via TJJ on Bloomberg's praise of Taiwan's 2020 performance, Ma (senior director, Bower Group Asia) says the USTR priority list's treatment of Taiwan was still unclear, but any US–Taiwan trade deal would help Taiwan break diplomatic isolation and give other countries political cover to strike similar deals ([[articles/taiwanjustice-net/2026/20260125063811_2020全球最佳領導人_彭博_盛讚_難找到比蔡英_beff9b8cd9711c3d|TJJ/CNA, 2020-09-22]]).

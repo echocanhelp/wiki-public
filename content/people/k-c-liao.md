@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-17
 ---
 # K. C. Liao (廖國仲)
 
@@ -36,6 +36,12 @@ last_reviewed: 2026-08-17
 ## Sources
 - [TAH #883 encyclopedia: 883. K. C. Liao 廖國仲/ 2016/03](https://taiwaneseamericanhistory.org/883-k-c-liao-%e5%bb%96%e5%9c%8b%e4%bb%b2-201603/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/k-c-liao/)
+
+## Role in the Community
+
+- **Anonymous early patron of 「台灣之音」** — the founder's memoir recalls the first US$1,000 donation cheque, signed simply 「廖國仲」, arriving when the phone-line radio service could no longer absorb the collect-call costs from Taiwan; he kept quietly sponsoring it through its first five years and was later honored by New York 同鄉 as 「善事一牛車，講話無半聲」 ([[works/taiwaneseamericanhistory-org/ourjourneys2|Our Journeys — 台灣之音回憶]]).
+- **紐約針織企業家** — 楊遠薰 wrote his business-and-philanthropy story for the community memoir series ([[works/taiwaneseamericanhistory-org/mystories264|楊遠薰, 紐約針織企業家廖國仲的故事, 2014/12]]); he also published a collection of essays/art, 老猴集 ([[works/taiwaneseamericanhistory-org/154-e8-80-81-e7-8c-b4-e9-9b-86-e5-bb-96-e5-9c-8b-e4-bb-b2200101art-e8-97-9d-e8-a|老猴集, 2001/01]]), matching his TAH "artist" role.
+- The 2014 memorial-dating conflict with the TAH 「-2005」 death year remains unresolved — see From the record HOLD.
 
 ## From the record
 

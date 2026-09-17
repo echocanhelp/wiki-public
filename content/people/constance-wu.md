@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-17
 ---
 # Constance Wu (吳恬敏)
 
@@ -33,6 +33,15 @@ Constance Wu is an American actress born on March 22, 1982, in Richmond, Virgini
 
 - **Father:** Fang-Sheng Wu
 
+
+## Role in the Community
+
+Held in the TAHS community record as an outstanding Taiwanese American figure:
+
+- 2019-01-29 — Profiled in the TAH "On the Air" story corpus: [[works/taiwaneseamericanhistory-org/ota-240|240. Constance Wu 吳恬敏]] (band B, essay/feature).
+- 2019-05-04 — Entered into the TAH Who's Who record: [[works/taiwaneseamericanhistory-org/whos-who-2183-constance-wu|2183. Constance Wu 吳恬敏]] (band B).
+
+Corpus material is bibliographic only (full text stays in the vault); no community memoir/organizational roles found beyond the TAH record itself.
 
 ## Sources
 - [TAH #2183 encyclopedia: 2183. Constance Wu 吳恬敏](https://taiwaneseamericanhistory.org/whos-who-2183-constance-wu/)
