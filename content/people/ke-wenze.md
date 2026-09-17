@@ -7,7 +7,7 @@ tags:
   - taiwanjustice-net
   - thin-page
 verification_status: pending
-last_reviewed: 2026-07-28
+last_reviewed: 2026-09-17
 ---
 # Ko Wen-je / Ke Wen-ze (柯文哲)
 
