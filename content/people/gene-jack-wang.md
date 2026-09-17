@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-17
 ---
 # Gene-Jack Wang (王俊傑)
 
@@ -39,6 +39,10 @@ last_reviewed: 2026-08-17
 ## Family
 
 _No filled family fields on the TAH profile._
+
+## Role in the Community
+- Named (王俊傑邱綉雅夫婦) among the remaining senior Taiwanese-American members of the 美國聖路易台灣人基督長老教會 in 張理美's church history ([[works/taiwaneseamericanhistory-org/ourjourneys305|305. 美國聖路易台灣人基督長老教會的歷史簡略 / 2017-07]]) — elders who "以愛，熱心支持與關懷年輕一代". This places the family in St. Louis before his 1990 move to Brookhaven (NY), consistent with the employment table.
+- His TAH profile is preserved as [[works/taiwaneseamericanhistory-org/581-gene-jack-wang-e7-8e-8b-e4-bf-8a-e5-82-91-201509|581. Gene-Jack Wang 王俊傑 / 2015-09]].
 
 ## Sources
 - [TAH #581 encyclopedia: 581. Gene-Jack Wang 王俊傑 / 2015/09](https://taiwaneseamericanhistory.org/581-gene-jack-wang-%e7%8e%8b%e4%bf%8a%e5%82%91-201509/)

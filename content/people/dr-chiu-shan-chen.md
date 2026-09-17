@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-17
 ---
 # Dr. Chiu-Shan Chen (陳秋山博士)
 
@@ -31,6 +31,13 @@ Accomplishment
 ## Employment
 - Importer — Self-Employed — Community — Taiwanese American Foundation of San Diego (聖地牙哥台美基金會) — First Chairman
 <!-- tah-tables:end -->
+
+## Role in the Community
+
+- **聖地牙哥台灣中心催生者**：以台美基金會第一任董事長身份號召募款，聖地牙哥台灣中心於 1997-02-28 正式開幕，募款特別順利；他與中心主任潘富鵬博士把台灣中心當自己的家，志工排不出班時自己插班上陣站Desk（會館紀事，見 [[works/taiwaneseamericanhistory-org/ourjourneys26|Our Journeys #26：聖地牙哥台灣中心]]）。
+- **UCSD 台灣研究中心捐助人**：UCSD 校友（物理博士），2021 年 11 月致電廖炳惠教授，表示願捐 500 萬美元於母校設立台灣研究中心；UCSD 後正式成立「台灣研究中心」。見 [[works/taiwaneseamericanhistory-org/our-journeys-386|UCSD 台灣研究中心創設紀事]]、[[works/taiwaneseamericanhistory-org/my-stories-793|793. 校友陳秋山捐母校500萬創建台灣中心]]。
+  - HOLD: my-stories-793 標題標 05/2021，內文稱捐贈緣起於 2021 年 11 月電話 — 日期兩說，未合併。
+- 語料並稱其為「太平洋生物科技公司創辦人」； tah-tables 職涯欄記為 Importer（自僱）。HOLD: conflict「Importer 自僱」vs「太平洋生物科技公司創辦人」，未自動合併。
 
 ## Family
 
