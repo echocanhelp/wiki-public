@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-16
+last_reviewed: 2026-09-17
 resweep: deepen-x-09160400-21
 ---
 # Sibyl Chen (陳世樸)
@@ -62,3 +62,6 @@ _No filled family fields on the TAH profile._
 
 ## Corpus re-grep (slice 09162138-5)
 - 2026-09-16: re-grep Sibyl Chen / 陳世樸 — hit set unchanged (ourjourneys157、publications144、whos1450、ff312、works/index), all already absorbed and linked above. **SKIP-with-reason**; no conflicts to HOLD.
+
+## Corpus re-grep (slice 09170130-3)
+- 2026-09-17: re-grep 陳世樸 / Sibyl Chen — hit set unchanged (ourjourneys157 王淑芬 announcement, publications144, whos1450, ff312, works/index catalog row), all already absorbed and wikilinked above. **SKIP-with-reason**; no new corpus facts, no conflicts to HOLD.

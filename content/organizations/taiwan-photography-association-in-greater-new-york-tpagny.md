@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-16
+last_reviewed: 2026-09-17
 ---
 # Taiwan Photography Association in Greater New York TPAGNY (大紐約區台灣攝影學會)
 
@@ -44,3 +44,6 @@ The Taiwan Photography Association in Greater New York (TPAGNY) was founded in 2
 
 ## Corpus re-grep (slice 09162138-5)
 - 2026-09-16: re-grep 大紐約區台灣攝影學會 / TPAGNY / 紐約台灣攝影學會 / founder Ching-tse Lee — hit set identical: own directory record + works/index only. **SKIP-with-reason**; nothing new absorbable, no conflicts to HOLD.
+
+## Corpus re-grep (slice 09170130-3)
+- 2026-09-17: re-grep 大紐約區台灣攝影學會 / TPAGNY / 紐約台灣攝影學會 / Ching-tse Lee — hit set identical: own TAH directory record + works/index catalog row only. **SKIP-with-reason**; nothing new absorbable, no conflicts to HOLD.

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-16
+last_reviewed: 2026-09-17
 ---
 # Jen-Hao Lee (李仁豪牧師)
 
@@ -63,3 +63,4 @@ The FPCLA church memoir records him as the church's sixth stated pastor, serving
 - Corpus re-check log (2026-09-16, slice 09162138-8): re-grep Jen-Hao Lee / 李仁豪 — hit set unchanged (ourjourneys231 ZH+EN pastor history, mystories201, artist32, musician160, whoswho1022), all absorbed above. SKIP-with-reason; no new corpus facts, no conflicts.
 - Corpus re-check log (2026-09-16, slice 09160700-12): re-grep hit set again unchanged (ourjourneys231 ZH+EN, mystories201, artist32, musician160, whoswho1022), all absorbed above. SKIP-with-reason; no new corpus facts, no conflicts.
 - Corpus re-check log (2026-09-16, slice 09162200-6): re-grep 李仁豪/Jen-Hao Lee — hit set unchanged (ourjourneys231 ZH+EN, mystories201, artist32, musician160, whoswho1022), all absorbed above. SKIP-with-reason; no new corpus facts, no conflicts.
+- Corpus re-check log (2026-09-17, slice 09170130-3): re-grep 李仁豪/Jen-Hao Lee — hit set unchanged (ourjourneys231 ZH+EN pastor history incl. sixth-pastor list 2014–2019 and 港口教會 quote, mystories201, artist32, musician160, whoswho1022), all absorbed above. SKIP-with-reason; no new corpus facts, no conflicts.
