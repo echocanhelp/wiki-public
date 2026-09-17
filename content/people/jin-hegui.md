@@ -11242,7 +11242,7 @@ Notable quotes and mentions of **金恆煒** in Taiwan Justice articles:
 
 ## From the record
 
-- 2020-11-25 — FAHR 公告第44屆年會暨「鄭南榕紀念獎」頒獎典禮移師台北（12/5 台北市立圖書館總館），邀歷屆得獎人回娘家，金恆煒名列 2016 年得獎人（同場得獎人魏德聖導演演講；[[articles/taiwanjustice-net/2021/20210118235211_2020_11_25_全美台灣人權協會第44屆年會暨_鄭南榕紀念獎_頒_996879ac7a006acf|TJJ, 2020-11-25]]）。
+- 2020-11-25 — FAHR（全美台灣人權協會）公告第44屆年會暨「鄭南榕紀念獎」頒獎典禮移師台北（12/5 台北市立圖書館總館），邀歷屆得獎人回娘家，金恆煒名列 2016 年得獎人；今年得獎人魏德聖導演會中演講，台派台灣芭蕾舞團配合蕭泰然樂曲表演，總統府派員參加（[[articles/taiwanjustice-net/2021/20210118235211_2020_11_25_全美台灣人權協會第44屆年會暨_鄭南榕紀念獎_頒_996879ac7a006acf|TJJ, 2020-11-25]]）。
 - 2015-07-02 — 吳澧培's memoir preface: Chin Heng-wei issued the 「台灣獨立行動黨」 formation news to media on July 2, then attacked 蔡英文 and the DPP in his column despite being a party sponsor, nearly driving 吳澧培 out of the project; by 08-10-2015 金恆煒 announced the group would not form separately and would back 時代力量 instead ([[articles/taiwanjustice-net/2024/20240425080646_root_9a39a754d2a3b236|TJJ, 2015-10-12]]).
 
 ## Source Notes
