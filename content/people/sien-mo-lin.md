@@ -30,6 +30,9 @@ last_reviewed: 2026-09-17
 - 畫家
 <!-- tah-tables:end -->
 
+## Role in the Community
+TAH Foundation's archive carries three community records on Lin: the artist profile [[works/taiwaneseamericanhistory-org/artist5|5. 林顯模 Sien-Mo Lin]] (published 2014-09-05), the 2008 exhibition catalogue [[works/taiwaneseamericanhistory-org/353-e6-9e-97-e9-a1-af-e6-a8-a1-e7-95-ab-e9-9b-86sam-lin-e6-9e-97-e9-a1-af-e6-a8-|353. 林顯模畫集 SAM LIN]] (recorded 2014-11-27), and the Who's Who entry [[works/taiwaneseamericanhistory-org/whoswho1103|1103. Sien-Mo Lin 林顯模]] (published 2016-06-22). The corpus records are bibliographic (band B); they corroborate the TAH profile's painter career and California residence without adding new biography.
+
 ## Family
 
 _No filled family fields on the TAH profile._

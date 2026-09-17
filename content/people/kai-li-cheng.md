@@ -31,6 +31,9 @@ Praised by World Journal, Minneapolis, for her “mature technique, a full range
 - Own private studio — teaching
 <!-- tah-tables:end -->
 
+## Role in the Community
+Two 2017 TAH records document Cheng in the community archive: [[works/taiwaneseamericanhistory-org/whoswho1451|1451. Kai-Li Cheng 鄭凱莉]] (Who's Who, published 2017-01-10) and [[works/taiwaneseamericanhistory-org/musician380|380. Kai-Li Cheng 鄭凱莉, Cellinist]] (published 2017-01-10). HOLD: conflict in instrument — the musician380 record titles her a cellist while this page's press-kit biography describes violin performance (violin sonata repertoire, orchestral playing); not auto-merged.
+
 ## Family
 
 _No filled family fields on the TAH profile._
