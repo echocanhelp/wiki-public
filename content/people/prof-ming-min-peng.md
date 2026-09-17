@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-14
+last_reviewed: 2026-09-17
 ---
 # Prof. Ming Min Peng (彭明敏教授)
 
@@ -68,10 +68,6 @@ _No filled family fields on the TAH profile._
 - [TAH #285 encyclopedia: 285. Prof. Ming Min Peng 彭明敏教授](https://taiwaneseamericanhistory.org/whos-who-285-ming-min-peng/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-ming-min-peng/)
 
-## From the record
-
-- 2017-09-10 — 獨傲村夫's essay on Chiang Kai-shek's 1960s "反攻大陸" plans cites the 1964-09-20「台灣人民自救宣言」(co-authored with students 謝聰敏 and 魏廷朝) as exposing 反攻大陸 as a pretext masking authoritarian rule, and calls 彭明敏 a "台灣人的先知" ([[articles/taiwanjustice-net/2024/20240719213421_root_35d25fb4bdf39cd8|獨傲村夫 via TJJ, 2017-09-10]]).
-
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
@@ -81,5 +77,6 @@ _No filled family fields on the TAH profile._
 
 - 2017-03-12 — TJJ memorial article on Milo Thornberry (唐培禮): credits the Thornberrys as the key helpers in Peng's 1970 escape from surveillance to Sweden (arriving 1970-01-05); recounts the 1964-09-20 台灣自救宣言, the 1965 sentences and the escape ([[articles/taiwanjustice-net/2024/20240302025810_root_74f89ee82c85dc78|TJJ, 2017-03-12]]).
 - 2021-09-23 — Yang Yuan-hsün's memoir of physician Peng Hsin (彭昕) reveals Peng Hsin was his nephew (Peng's younger brother's son); Peng Hsin asked the speaker not to soften anything about his uncle: 「有關我叔叔的事，無論好的不好的，我們都聽得很多」 ([[articles/taiwanjustice-net/2021/20211020131319_2021_09_23_懷念彭昕醫師-_-楊遠薰_6763e8f4ad9bcb7c|TJJ memorial, 2021-09-23]] · [[articles/taiwanjustice-net/2025/20250323073306_懷念彭昕醫師-_-楊遠薰_80e2a87a17215263|archive copy]]).
-- 2022-05-09 — 陳昭南's memoir of the 台灣革命黨 era recalls 田台仁's letter noting he first met Peng (with 鄭自才、張維嘉、趙有源) at the 1975 歐台會 Rhine cruise; it also recounts the fierce 1995 DPP presidential primary between Peng and 許信良 and Peng's 1996 general-election loss to 李登輝 ([[articles/articles/taiwanjustice-net/2022/20220519131411_2022_05_09_籌謀台灣_不流血革命_的獻策高手原來是他-_-陳_e3440fec3eed8107|TJJ column, 2022-05-09]]).
-- 1964-09-20 — Retold in a 民報/TJJ history of 蔣介石's 反攻大陸 plans: Peng, with students [[people/tsung-ming-hsieh|謝聰敏]] and 魏廷朝, issued the 「台灣人民自救宣言」 declaring '一個中國，一個台灣' already an iron fact and 反攻大陸 impossible; the author calls him 台灣人的先知 ([[articles/articles/taiwanjustice-net/2017/20171220120857_2017_09_10_反攻大陸_蔣介石的美夢_美國人的噩夢-_下_dd1007a640e39b91|TJJ column, 2017-09-10]]).
+- 2022-09-13 — A TJJ notice for the 大洛杉磯台灣會館 24th-anniversary gala records that in 2022 the center held a memorial service for Prof. 彭明敏 with a prize essay contest, preparing a North American memorial volume ([[articles/taiwanjustice-net/2022/20220924222953_2022_09_13_10-22大洛杉磯台灣會館-24-週年募款年會_紀政擔任主講_2a543ddc9301b7b3|TJJ, 2022-09-13]]).
+- 2022-05-09 — 陳昭南's memoir of the 台灣革命黨 era recalls 田台仁's letter noting he first met Peng (with 鄭自才、張維嘉、趙有源) at the 1975 歐台會 Rhine cruise; it also recounts the fierce 1995 DPP presidential primary between Peng and 許信良 and Peng's 1996 general-election loss to 李登輝 ([[articles/taiwanjustice-net/2022/20220519131411_2022_05_09_籌謀台灣_不流血革命_的獻策高手原來是他-_-陳_e3440fec3eed8107|TJJ column, 2022-05-09]]).
+- 1964-09-20 — Retold in a 民報/TJJ history of 蔣介石's 反攻大陸 plans: Peng, with students [[people/tsung-ming-hsieh|謝聰敏]] and 魏廷朝, issued the 「台灣人民自救宣言」 declaring '一個中國，一個台灣' already an iron fact and 反攻大陸 impossible; the author calls him 台灣人的先知 ([[articles/taiwanjustice-net/2017/20171220120857_2017_09_10_反攻大陸_蔣介石的美夢_美國人的噩夢-_下_dd1007a640e39b91|TJJ column, 2017-09-10]]).

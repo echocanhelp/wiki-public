@@ -88,3 +88,7 @@ Yang Ryan's profile in the 2017 TAHS publication was prepared by the Taiwanese A
 - [[people/yang-jia-you||Charles Yang (楊嘉猷) — TAHS founding president]]
 - [[people/yang-xin||Yang Hsin (楊信) — fellow 菁英錄 subject]]
 - [[people/franklin-ping-cheng||Franklin Ping Cheng (程炳成) — TAHS president]]
+
+## From the record
+
+- 2016-12-09 — Ryan's Washington Post op-ed, republished on TJJ, opens with her third-grade interview of her Taiwanese mother about being "from China," then uses her research for the novel *Green Island* to argue that treating Taiwan's history as beginning in 1949 is "a second silencing" after 38 years of martial law ([[articles/taiwanjustice-net/2024/20240721112815_root_15fc4a3e5664504e|TJJ republication of WaPo op-ed, 2016-12-09]]).

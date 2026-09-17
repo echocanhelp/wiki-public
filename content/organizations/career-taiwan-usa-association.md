@@ -29,3 +29,7 @@ last_reviewed: 2026-07-16
 
 - [[organizations/taiwan-center||Taiwan Center]]
 - [[sources/taiwancenter-org||taiwancenter.org]]
+
+## From the record
+
+- 2020-06-23 — A TJJ report on the Taiwan Center's pandemic relief names Career Taiwan USA Association as co-organizer (with the center) of attorney-director 陳啟耕's April 25 online immigration webinar — the center's first virtual event, drawing over 100 participants ([[articles/taiwanjustice-net/2020/20201126153300_2020_06_23_大洛杉磯台灣會館_疫情擋不住人情_濟困扶危挺_c05e2d53013fcd15|TJJ, 2020-06-23]]).

@@ -67,3 +67,8 @@ Role anchors already on this page's TAH table map to vault pages: [[organization
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+## From the record
+
+- 2020-06-23 — A TJJ report on the Taiwan Center's pandemic relief credits Executive Director 林榮松醫師 with, alongside 副董事長 蔡漢成, running the "會館文獻寶藏數位化方案" that digitized the center's historical audio-visual archives during closure, and (June 1) representing the center in donating 250 face shields to Whittier Hospital Medical Center ([[articles/taiwanjustice-net/2020/20201126153300_2020_06_23_大洛杉磯台灣會館_疫情擋不住人情_濟困扶危挺_c05e2d53013fcd15|TJJ, 2020-06-23]]).
+- 2022-09-13 — A TJJ notice for the 大洛杉磯台灣會館 24th-anniversary gala identifies 林榮松 as 執行長 and former 董事長 who organized the 2018 rebuilding-fund campaign under then-董事長 田詒鴻 ([[articles/taiwanjustice-net/2022/20220924222953_2022_09_13_10-22大洛杉磯台灣會館-24-週年募款年會_紀政擔任主講_2a543ddc9301b7b3|TJJ, 2022-09-13]]).

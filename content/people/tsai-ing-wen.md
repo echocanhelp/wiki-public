@@ -35,3 +35,8 @@ name_en: "Tsai Ing-wen"
 - [[organizations/taiwanjustice-net||taiwanjustice.net (台灣公義網)]]
 - [[articles/taiwanjustice-net/index||taiwanjustice.net Article Archive]]
 - [[people/freeman-huang||Freeman Huang (黃樹人)]]
+
+## From the record
+
+- 2016-12-09 — Novelist Shawna Yang Ryan's Washington Post op-ed, republished on TJJ, laments that coverage of President-elect Trump's phone call with President Tsai discussed Taiwan only as an irritant in US–China relations ("bargaining chip"), and argues for reckoning with Taiwan's own history from 1895 through the 228 massacre and martial law ([[articles/taiwanjustice-net/2024/20240721112815_root_15fc4a3e5664504e|TJJ republication of WaPo op-ed, 2016-12-09]]).
+- 2020-09-22 — A CNA report relayed via TJJ quotes Bloomberg's assessment that no world leader had a better 2020 than Tsai: landslide January re-election, world-class pandemic control, record-high stock market, and a 1.6% growth upgrade — even as China threatened her after she hosted Under Secretary Keith Krach ([[articles/taiwanjustice-net/2026/20260125063811_2020全球最佳領導人_彭博_盛讚_難找到比蔡英_beff9b8cd9711c3d|TJJ/CNA, 2020-09-22]]).

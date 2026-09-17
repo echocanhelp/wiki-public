@@ -228,4 +228,9 @@ Notable quotes and mentions of **陳柏宇** in Taiwan Justice articles:
 - [[people/freeman-huang||Freeman Huang (黃樹人)]] — Secretary (秘書)
 - [[people/dr-paul-chen||Dr. Paul Chen]] — TAH ophthalmologist (not this person)
 
+## From the record
+
+- 2022-09-13 — A TJJ notice for the 大洛杉磯台灣會館 24th-anniversary fundraising gala names Chen as the incumbent 董事長 who took over the rebuilding-fund campaign in 2020 from 田詒鴻; over $10M raised since the 2018 launch with 60% of funds in hand, groundbreaking planned for Q1 2023 ([[articles/taiwanjustice-net/2022/20220924222953_2022_09_13_10-22大洛杉磯台灣會館-24-週年募款年會_紀政擔任主講_2a543ddc9301b7b3|TJJ, 2022-09-13]]).
+- 2020-06-23 — A TJJ report on the Taiwan Center's pandemic relief identifies Chen as 副董事長 who relayed 3,900 medical masks donated by Royal Business Bank, of which 1,200 went to the City of Laguna Woods ([[articles/taiwanjustice-net/2020/20201126153300_2020_06_23_大洛杉磯台灣會館_疫情擋不住人情_濟困扶危挺_c05e2d53013fcd15|TJJ, 2020-06-23]]).
+
 
