@@ -53,3 +53,4 @@ _No filled family fields on the TAH profile._
 - 複核（deepen-x slice-25 2026-09-16）：re-grep 蔡瑞胸 / Ruey S. Tsay 僅見本人書目記錄 #1793 與 harvest index — SKIP, 無回憶錄/社群材料可吸收。
 - 複核（deepen-x slice-22 2026-09-16）：re-grep 結果相同（#1793 + index only）— 維持 SKIP。
 - 複核（deepen-x slice-17 2026-09-16）：re-grep 結果相同（#1793 + index only）— 維持 SKIP。
+- 複核（deepen-x slice-15 2026-09-16）：re-grep 結果相同（#1793 + index only）— 維持 SKIP。
