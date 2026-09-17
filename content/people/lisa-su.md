@@ -82,6 +82,10 @@ Pages that link to **lisa-su** (lisa-su):
 - **2022/05** — MIT 納米大樓 named after her as a distinguished alumna — [[works/taiwaneseamericanhistory-org/my-stories-838|TAH #838]] (confidence B); see also [[works/taiwaneseamericanhistory-org/whos-who-43-lisa-su|TAH Who's Who #43]] and [[works/taiwaneseamericanhistory-org/53-dr-lisa-su|TAH #53]].
 - Same-person cross-page: [[people/dr-lisa-su||Dr. Lisa Su (蘇姿豐博士)]] carries the TAH encyclopedia record (name variant 蘇姿豐 vs 蘇姿丰); pages deliberately not merged yet.
 
+## From the record
+
+- 2021-09-22 — 白宮公布30位總統科技顧問會議（PCAST）成員名單，出身台灣的AMD總裁兼執行長蘇姿丰入選；白宮簡介點出其發明以銅取代鋁連接晶片使半導體效能提高20%，並為首位獲IEEE Robert N. Noyce大獎的女性（[[articles/taiwanjustice-net/2021/20211028205125_2021_09_22_超微台裔總裁兼執行長蘇姿丰-出任美國總統科技顧_88c15e5403e6b9b9|TJJ 轉載中央社記者報導, 2021-09-22]]）。
+
 ## Source Notes and Confidence
 
 - **Content priority A:** 2017 TAHS Publication (profile L844–1027, Part 2, ~183 lines), written by 曾恆利

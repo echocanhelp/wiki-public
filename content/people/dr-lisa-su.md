@@ -44,6 +44,10 @@ technical staff → IBM VP of SRDC → Freescale Sr. VP & GM Networking & Multim
 Business Units (2007) → COO (2012) → CEO & President (2014). Family: husband [[people/daniel-lin||Daniel Lin]],
 father [[people/su-chun-huai||蘇春槐]]; mother 羅淑雅 (no page yet).
 
+## From the record
+
+- 2021-09-22 — 白宮公布30位總統科技顧問會議（PCAST）成員名單，出身台灣的AMD總裁兼執行長蘇姿丰（蘇姿豐）入選，為白宮簡介所稱首位獲IEEE Robert N. Noyce大獎的女性（[[articles/taiwanjustice-net/2021/20211028205125_2021_09_22_超微台裔總裁兼執行長蘇姿丰-出任美國總統科技顧_88c15e5403e6b9b9|TJJ 轉載中央社記者報導, 2021-09-22]]）。
+
 ## Sources
 - [TAH #53 encyclopedia: 53. Dr. Lisa Su 蘇姿豐博士](https://taiwaneseamericanhistory.org/53-dr-lisa-su/)
 - [TAH #43 encyclopedia: 43. Dr. Lisa Su 蘇姿豐博士](https://taiwaneseamericanhistory.org/whos-who-43-lisa-su/)
