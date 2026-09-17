@@ -6,7 +6,7 @@ tags:
   - taiwanese-american
   - tahs-publication-2017
 verification_status: pending
-last_reviewed: 2026-09-15
+last_reviewed: 2026-09-17
 ---
 # Guo Shu-qing (郭淑卿)
 
@@ -34,6 +34,7 @@ Guo Shu-qing married 廖述宗 in 1960 after her mother-in-law 林瓊仙 (Lin Qi
 ## TAH Archive Note
 
 - Holds her own entry in the TAH archive under her married-name form: [[works/taiwaneseamericanhistory-org/478-shuching-liao-e5-bb-96-e9-83-ad-e6-b7-91-e5-8d-bf-201507|478. Shuching Liao 廖郭淑卿 / 2015/07]]. HOLD: romanization conflict — this page "Guo Shu-qing" vs archive "Shuching"; not auto-merged.
+- Corpus grep (2026-09-17): the only works/articles hit is her own archive entry above; no memoir/bulletin narrative coverage to absorb. SKIP-for-deepening.
 
 ## Related Pages
 
