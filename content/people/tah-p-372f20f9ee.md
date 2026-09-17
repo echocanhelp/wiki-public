@@ -6,7 +6,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-16
+last_reviewed: 2026-09-17
 ---
 # 林福裕
 
@@ -52,3 +52,4 @@ The corpus preserves him as a composer whose legacy was carried on by the commun
 - Corpus re-grep 2026-09-16 (slice 09160700-10): hit set again unchanged — same five work pages + index; no memoir material beyond what is already absorbed. SKIP-no-new-material.
 - Corpus re-grep 2026-09-16 (slice 09162138-7): hit set again unchanged — the five already-wikilinked work pages (#493, #238, #276, #650, #651) + index remain the complete footprint; nothing absorbable, no conflicts. SKIP-no-new-material.
 - Corpus re-grep 2026-09-16 (slice 09162200-5): hit set again unchanged — the five already-wikilinked work pages (#493, #238, #276, #650, #651) + index remain the complete footprint; no memoir/community material beyond what is absorbed, no conflicts. SKIP-no-new-material.
+- Corpus re-grep 2026-09-17 (slice 09170130-2): hit set unchanged — the same five work pages (#493, #238, #276, #650, #651) + index remain the complete corpus footprint; nothing absorbable, no conflicts. **SKIP-with-reason.**
