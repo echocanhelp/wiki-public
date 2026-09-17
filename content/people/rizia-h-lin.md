@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-17
 ---
 # Rizia H. Lin (洪文鳳)
 
@@ -40,6 +40,11 @@ last_reviewed: 2026-08-17
 - [TAH #694 encyclopedia: 694. Rizia H. Lin 洪文鳳 / 2015/11](https://taiwaneseamericanhistory.org/694-rizia-h-lin-%e6%b4%aa%e6%96%87%e9%b3%b3-201511/)
 - [TAH #317 encyclopedia: 317. Rizia H. Lin 洪文鳳, Conductor / 2015/11](https://taiwaneseamericanhistory.org/317-rizia-h-lin-%e6%b4%aa%e6%96%87%e9%b3%b3-conductor-201511/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/rizia-h-lin/)
+
+## From the record
+
+- Listed twice in the TAH corpus as a community conductor: profile records [[works/taiwaneseamericanhistory-org/317-rizia-h-lin-e6-b4-aa-e6-96-87-e9-b3-b3-conductor-201511|TAH #317 (Conductor)]] and [[works/taiwaneseamericanhistory-org/694-rizia-h-lin-e6-b4-aa-e6-96-87-e9-b3-b3-201511|TAH #694]], both dated 2015-11-07; the two records are consistent (choral/orchestral conductor, no conflicting facts to hold).
+- Family link in the corpus network: her mother is educator 楊奈美 ([[people/nami-yang|Nami Yang]]), matching the Father/Mother field (Cliff Yang, Nami Yang) on this page.
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

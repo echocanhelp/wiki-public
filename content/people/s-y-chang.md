@@ -40,6 +40,10 @@ _No filled family fields on the TAH profile._
 ## From the record
 
 - 2021-06-22 — 楊遠薰's TAF history names 張信義, then a Chicago physician, as TAF's second president (from 1983), under whom the 1983–1984 camps took Taiwanese history and culture and the theme 認同 (identity); consistent with TAH #377, which has him co-teaching the 1981 TAF camp alongside [[people/ming-tsuang|莊明哲]] ([[articles/taiwanjustice-net/2021/20211205041636_2021_06_22_卓甫良與taf的故事-_-楊遠薰_f06677a469620539|楊遠薰 TAF history, TJJ 2021-06-22]]).
+- 1981 — At the TAF youth camp at Calvin College (Grand Rapids), the Youth Camp was taught by 莊明哲 and 張信義, both psychiatrists; camp themes included 認同 (identity) ([[works/taiwaneseamericanhistory-org/our-journeys-377|Our Journeys #377]]).
+- 1983–1985 — Second president of TAF (per the memoir's president list: 莊明哲 1980–1982, 張信義 1983–1985, 鄭天助 1986–1988, 卓甫良 1989–1991) ([[works/taiwaneseamericanhistory-org/our-journeys-377|Our Journeys #377]]).
+- 1984-07-14 — Among the ~40 founders at the formal establishment of NATMA at Western Michigan University, Ypsilanti, listed in the Chicago group with 蔡俊晴 and 林洪謙 ([[works/taiwaneseamericanhistory-org/ourjourneys74|Our Journeys #74]]; English account [[works/taiwaneseamericanhistory-org/ourjourneys74-eng|#74-eng]]).
+- Described in an Our Journeys roster as 哈佛大學副教授、精神科醫師 ([[works/taiwaneseamericanhistory-org/ourjourneys79|Our Journeys #79]]).
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
