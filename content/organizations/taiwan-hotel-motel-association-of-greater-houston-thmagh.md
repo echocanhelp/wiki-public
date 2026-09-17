@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-16
+last_reviewed: 2026-09-17
 ---
 # Taiwan Hotel-Motel Association of Greater Houston THMAGH (休士頓美南台灣旅館公會)
 
@@ -31,3 +31,6 @@ The Taiwan Hotel-Motel Association of Greater Houston (THMAGH) was founded in 19
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+## Corpus re-check (2026-09-17, slice deepen-x-slice-09170130-17)
+Re-grep '休士頓美南台灣旅館公會 / THMAGH / Taiwan Hotel-Motel Association' against content/works + content/articles: hits are exactly the records already cited above — the dedicated directory record [[works/taiwaneseamericanhistory-org/taiwan-hotel-motel-association-of-greater-houston-thmagh|THMAGH (TAH story record)]], the Kenjohn Wang lineage passage in [[works/taiwaneseamericanhistory-org/ourjourneys29-eng|Our Journeys #29 (EN)]], and the harvest index. No new absorbable material; sister-association claims (Kaohsiung, Taipei) remain uncorroborated press-kit assertions.

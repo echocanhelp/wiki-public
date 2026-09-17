@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-16
+last_reviewed: 2026-09-17
 ---
 # Houston Taiwan Institute for Senior Citizens (休士頓台灣松年學院)
 
@@ -31,3 +31,6 @@ The Houston Taiwan Institute for Senior Citizens is a nonprofit educational inst
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+## Corpus re-check (2026-09-17, slice deepen-x-slice-09170130-17)
+Re-grep '休士頓台灣松年學院 / HTISC / Houston Taiwan Institute' against content/works + content/articles: hits are exactly the six records already linked above (directory record, activities record, HTISC Cup Golf Tournament, concerts106, musical-concerts-167, Our Journeys 298). No new absorbable material.

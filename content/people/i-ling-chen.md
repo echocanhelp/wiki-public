@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-16
+last_reviewed: 2026-09-17
 ---
 # I-Ling Chen (陳奕伶)
 
@@ -34,6 +34,7 @@ I-Ling Chen, Annual Distinguished Young Artist of Taiwan in 1999, received her D
 ## Role in the Community
 - Her TAH encyclopedia profiles are held as community historical record: [[works/taiwaneseamericanhistory-org/3-i-ling-chen-e9-99-b3-e5-a5-95-e4-bc-b6-piano|3. I-Ling Chen 陳奕伶, Pianist, TAH, 2014-10-11]] and [[works/taiwaneseamericanhistory-org/23662|748. I-Ling Chen 陳奕伶, TAH, 2015-12-27]] — both bibliographic records; no additional community facts in the corpus beyond the press-kit profile above.
 - Re-verified 2026-09-16: corpus re-grep (works/articles) matches only the two TAH profiles above plus index listings — no memoir or event mention of 陳奕伶 found; nothing further absorbable.
+- Re-verified again 2026-09-17: same hit set (works #3, #748, index) — still no memoir or event mention; nothing further absorbable.
 - Note: corpus also has records for similarly named but distinct individuals (e.g. 陳婉伶 Wei-Ling Chen, TAH #517/#22; Hui-Ling Chen, Who's Who #2147) — not merged with this page.
 
 ## Family
