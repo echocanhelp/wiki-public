@@ -63,6 +63,7 @@ From [[works/taiwaneseamericanhistory-org/ourjourneys76|TAH #76 — 全美台灣
 ## From the record
 
 - 2023-09-24 — 以彭明敏文教基金會董事長身份出席國史館「台灣人民自救宣言案」史料彙編新書發表暨座談會，並致詞認為彭明敏一生的所做所為為台灣民主發展建立基礎 —— [[articles/taiwanjustice-net/2025/20250213225448_人民自救宣言59週年-林佳龍_難想像舊時荒謬_da7f84e20eff6ae9|TJJ/CNA, 2023-09-24]]。
+- 2023-09-24 — 同一報導另 snapshot：與會時認為彭明敏一生的所做所為為台灣民主發展建立基礎（[[articles/taiwanjustice-net/2024/20240224194255_root_92917d4c9a88eba2|TJJ/中央社記者報導, 2023-09-24]]）。
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

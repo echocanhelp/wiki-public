@@ -11188,6 +11188,10 @@ Notable quotes and mentions of **李筱峰** in Taiwan Justice articles:
 
 *...and 28 more quotes*
 
+## From the record
+
+- 2023-09-24 — 應邀出席國史館「台灣人民自救宣言案」史料彙編新書發表暨座談會，認為自救宣言內容可濃縮為15字「制定新憲法、建立新國家、加入聯合國」，並指出這份宣言突破族群對立、並不排斥外省人（[[articles/taiwanjustice-net/2024/20240224194255_root_92917d4c9a88eba2|TJJ/中央社記者報導, 2023-09-24]]）。
+
 ## Related Pages
 
 - [[people/albert-s-lai||Dr. Albert S. Lai]]

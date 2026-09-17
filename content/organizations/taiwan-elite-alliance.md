@@ -25,6 +25,10 @@ last_reviewed: 2026-07-16
 - **Hub:** [[sources/taiwancenter-org||taiwancenter.org]]  
 - **Content priority C:** Independent history not expanded from listing alone  
 
+## From the record
+
+- 2021-02-28 — 與台灣人聯合基金會合辦「2-28台灣介心靈日74週年紀念音樂會」線上節目（tufusa.org），為2021大洛杉磯二二八線上系列活動之一，與大洛杉磯台灣會館紀念會、FAPA洛杉磯分會與全美台灣人權協會研討會同期並列（[[articles/taiwanjustice-net/2026/20260210173508_2021大洛杉磯台灣會館228事件線上追思紀念會與系列活_ac0c255ef64908a5|TJJ/台灣會館消息, 2021-02-24]]）。
+
 ## Related Pages
 
 - [[organizations/taiwan-center||Taiwan Center]]
