@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-17
 ---
 # Meng Chih Chiang (江孟芝)
 
@@ -33,6 +33,12 @@ last_reviewed: 2026-08-17
 ## Family
 
 _No filled family fields on the TAH profile._
+
+## Role in the Community
+- Held in the TAH story corpus as encyclopedia entry #260, published 2019-02-24: [[works/taiwaneseamericanhistory-org/ota-260|260. Mengchih Chiang 江孟芝]].
+- TAH Who's Who entry #2169, published 2018-10-30: [[works/taiwaneseamericanhistory-org/whos-who-2169-meng-chih-chiang|2169. Meng Chih Chiang 江孟芝]].
+- Community record: a Taiwan-born (Pingtung) designer in New York bridging the Taiwanese American creative community with NY design institutions — teaching at her SVA alma mater (School of Visual Arts) since 2016 while running Mengdom Experimental Design Lab.
+- HOLD: corpus records name her both "Mengchih Chiang" (#260) and "Meng Chih Chiang" (#2169) — romanization variant, not merged.
 
 ## Sources
 - [TAH #260 encyclopedia: 260. Mengchih Chiang 江孟芝](https://taiwaneseamericanhistory.org/ota-260/)
