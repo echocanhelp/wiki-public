@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-17
 ---
 # Dr. Sie-Tung Liu (劉協同博士)
 
@@ -35,6 +35,10 @@ last_reviewed: 2026-08-17
 - **Wife:** 李惠美
 - **Daughter:** Elaine
 
+
+## Role in the Community
+- Minnesota community record [[works/taiwaneseamericanhistory-org/ourjourneys123|123. 明州台美人百年大事 (曾啟明/2015/03)]] (band A chronicle) records him as **會長 of the 明州同鄉會 (Minnesota Taiwanese Association) in 2010**, and places his **Honeywell 終身成就獎 (lifetime achievement award)** in the chronicle's 2007 entries — dated community history corroborating the TAH press-kit entry.
+- His TAH encyclopedia entry is held as [[works/taiwaneseamericanhistory-org/whos-who-155-sie-tung-liu|155. Dr. Sie-Tung Liu 劉協同博士]] (2014-12, band B — bibliographic record).
 
 ## Sources
 - [TAH #155 encyclopedia: 155. Dr. Sie-Tung Liu 劉協同博士](https://taiwaneseamericanhistory.org/whos-who-155-sie-tung-liu/)
