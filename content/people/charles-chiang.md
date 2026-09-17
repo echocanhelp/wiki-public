@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-17
 ---
 # Charles Chiang (江昭儀)
 
@@ -33,6 +33,13 @@ last_reviewed: 2026-08-17
 
 - **Wife:** 江熊一楓
 
+
+## Role in the Community
+
+- 1984 — led the 南加州台灣同鄉會回台訪問團 (9 persons) as 領隊, breaking the blacklist-era return ban; 謝清志 was the delegation's spokesperson, who records his wife's insistence on joining: 「無論發生什麼事, I will be there!」 ([[works/taiwaneseamericanhistory-org/ourjourneys66|66. 南加州同鄉會組團回台 – 1984突破黑名單, 謝清志, 2014-11]]).
+- 1985-04 — named among the consultants (顧問) of the 台美公民協會 (TACL) Preparatory Committee, alongside 丁昭昇、王桂榮、王慶滄 et al. (台灣公論報 #369, 1985-04-15) ([[works/taiwaneseamericanhistory-org/ourjourneys186|Our Journeys 186]]).
+- 1987 — one of the 19 members of the working committee of the 「Joint Committee of Taiwanese Americans for 1990 U.S. Census」 convened out of TACL, which lobbied the Census Bureau's minority advisory committee and Congress ([[works/taiwaneseamericanhistory-org/ourjourneys253|253. 1990年美國人口普查 — TACL的角色, 周實, 2016-09]]).
+- 2011 — listed as president of the TAA Minnesota chapter in the chapter's centennial history ([[works/taiwaneseamericanhistory-org/ourjourneys123-eng|123. Brief History of TAA – Minnesota, 曾啟明]]; HOLD: conflict with the TAH profile's 「Taiwanese American CPA Association — President」 role vs chapter-office in the MN history — not merged).
 
 ## Sources
 - [TAH #2217 encyclopedia: 2217. Charles Chiang 江昭儀](https://taiwaneseamericanhistory.org/whos-who-2217-charles-chiang/)

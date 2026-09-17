@@ -28,8 +28,14 @@ last_reviewed: 2026-09-17
 ## From the record
 
 - 1997 — Per founder 王泰和's 2022-07-12 memorial interview, 台灣之友社 (Friends of Taiwan) was founded by 王泰和 (王廷宜) in Los Angeles as a grassroots people-to-people complement to FAPA's congressional lobbying; Ted Anderson served as its president for over a decade, hosting AIT chairman Richard Bush and John Bolton as speakers ([[articles/taiwanjustice-net/2025/20250811013132_化作千風_懷念台美人的人權鬥士_台獨先鋒王泰_31b7081a5d37939f|TJJ, 2022-07-12]]).
+- The organization is documented across the TAH corpus in its own right: a self-published introduction ([[works/taiwaneseamericanhistory-org/project-3-36-eng|台灣之友會簡介 / A Brief Introduction]]), its own newsletter ([[works/taiwaneseamericanhistory-org/newsletter-of-friends-of-taiwan|Newsletter of Friends of Taiwan 台灣之友會通訊]]), and a directory entry ([[works/taiwaneseamericanhistory-org/friends-of-taiwan|Friends of Taiwan 台灣之友會]]).
+- **2014-03-01** — 美洲台灣日報 interview "仗義為台灣" profiles president Ted Anderson ([[works/taiwaneseamericanhistory-org/video57|video57]]), corroborating the memorial-interview account of his long presidency; Anderson is also profiled in the TAH Who's Who record as "a very strong supporter to the T.A. community" ([[works/taiwaneseamericanhistory-org/ff322|TAH #322]]).
+- A local chapter, Friends of Taiwan—Greater St. Louis 聖路易台灣之友會, is recorded in the 2017 TAH directory ([[works/taiwaneseamericanhistory-org/friends-of-taiwan-greater-st-louis|directory entry]]), showing the group extended beyond Los Angeles.
+- Note: the corpus renders the Chinese name both 台灣之友社 (memorial interview) and 台灣之友會 (TAH directory records). HOLD: spelling 社 vs 會 unreconciled.
 
 ## Related Pages
 
 - [[organizations/taiwan-center||Taiwan Center]]
 - [[sources/taiwancenter-org||taiwancenter.org]]
+- [[people/ted-anderson||Ted Anderson]]
+- [[organizations/friends-of-taiwan-greater-st-louis||Friends of Taiwan—Greater St. Louis]]

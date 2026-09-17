@@ -85,6 +85,7 @@ Pages that link to **lisa-su** (lisa-su):
 ## From the record
 
 - 2021-09-22 — 白宮公布30位總統科技顧問會議（PCAST）成員名單，出身台灣的AMD總裁兼執行長蘇姿丰入選；白宮簡介點出其發明以銅取代鋁連接晶片使半導體效能提高20%，並為首位獲IEEE Robert N. Noyce大獎的女性（[[articles/taiwanjustice-net/2021/20211028205125_2021_09_22_超微台裔總裁兼執行長蘇姿丰-出任美國總統科技顧_88c15e5403e6b9b9|TJJ 轉載中央社記者報導, 2021-09-22]]）。
+- 2020-06-02 — Equilar 薪資調查報導：蘇姿丰以 2019 年總薪酬 5,850 萬美元登顶標普 500 企業執行長年薪榜，為該調查 2011 年開辦以來首位女性榜首（薪酬大增主因一次性績效股票獎勵；本薪 100 萬、績效獎金 120 萬美元）；小檔案記其 1969 年台南出生、MIT 電機三學位、IBM 任職 13 年、2014 年接任超微執行長、2018 年任全球半導體聯盟理事會主席（[[articles/taiwanjustice-net/2025/20250515085035_標普企業執行長年薪排行榜-超微蘇姿丰奪冠_e1e223aabe8b8751|TJJ, 2020-06-02]]）。
 
 ## Source Notes and Confidence
 
@@ -100,7 +101,3 @@ Pages that link to **lisa-su** (lisa-su):
 - [[sources/2017-tahs-publication||2017 TAHS Publication]]
 - [[people/su-chun-huai||蘇春槐 (Su Chun-huai) — father]]
 - [[people/franklin-ping-cheng||Franklin Ping Cheng (程炳成) — TAHS president]]
-
-## From the record
-
-- 2020-06-02 — Equilar 薪資調查報導：蘇姿丰以 2019 年總薪酬 5,850 萬美元登顶標普 500 企業執行長年薪榜，為該調查 2011 年開辦以來首位女性榜首（薪酬大增主因一次性績效股票獎勵；本薪 100 萬、績效獎金 120 萬美元）；小檔案記其 1969 年台南出生、MIT 電機三學位、IBM 任職 13 年、2014 年接任超微執行長、2018 年任全球半導體聯盟理事會主席（[[articles/taiwanjustice-net/2025/20250515085035_標普企業執行長年薪排行榜-超微蘇姿丰奪冠_e1e223aabe8b8751|TJJ, 2020-06-02]]）。

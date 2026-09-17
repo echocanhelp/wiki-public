@@ -41,7 +41,7 @@ For more information, please click link :My Stories >>>464. 爲何我在FAPA ? /
 ## Role in the Community
 
 - 1989– — joined FAPA in Washington DC and over 27 years served as executive staff under nine FAPA 總會長: 王桂榮、陳榮儒、樊豐忠、陳文彥、吳明基、李青泰、楊英育、高龍榮 and 陳正義 (Peter Chen); he is quoted recalling that what he is proudest of is that FAPA "是一個無私(unselfish) 的團體" ([[works/taiwaneseamericanhistory-org/ourjourneys228|228. 美國對台六項保證決議案的推手 — 昆布勞與FAPA的故事, 楊遠薰, 2016-05]])).
-- 2006 — 美國對台六項保證決議案 (first written codification of Reagan's 1982 oral Six Guarantees) is described by 楊遠薰 as the fruit of FAPA staff and Blaauw's years of lobbying on Capitol Hill ([[works/taiwaneseamericanhistory-org/ourjourneys228|TJJ/Our Journeys 228, 2016-05]]).
+- 2016 — 美國對台六項保證決議案 (first written codification of Reagan's 1982 oral Six Guarantees) is described by 楊遠薰 as the fruit of FAPA staff and Blaauw's years of lobbying on Capitol Hill ([[works/taiwaneseamericanhistory-org/ourjourneys228|TJJ/Our Journeys 228, 2016-05]]).
 - His own essay on why he works at FAPA: 「爲何我在FAPA?」 ([[works/taiwaneseamericanhistory-org/mystories464|464. 爲何我在FAPA?, 2016-09]]); profiled again by 楊遠薰 in 「昆布勞與FAPA的奇緣」 ([[works/taiwaneseamericanhistory-org/mystories608|608, 2017-11]]).
 - 2009-11 — with wife [[people/iris-ho|Iris Ho 何燕青]], invited by TAA Minnesota to speak on US–Taiwan relations and FAPA's Young Professional Group (YPG) ([[works/taiwaneseamericanhistory-org/ourjourneys123|123. 明州台美人百年大事, 曾啟明]]).
 
