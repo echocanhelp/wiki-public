@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-17
 ---
 # Prof. W.K. Young (楊文光教授)
 
@@ -30,6 +30,9 @@ Accomplishment
 ## Employment
 - Oak Ridge National Laboratory — Researcher — Institute of Biomedical Sciences, Academia Sinica (IBMS) (中央研究院 生物醫學科學研究所(生醫所)) — Researcher — (1993-) — Safe Save Medical Cell Sciences & Technology Co., Ltd (世福細胞醫學科技股份有限公司) — Chairman and General Manager
 <!-- tah-tables:end -->
+
+## Role in the Community
+- Profile held in the TAH community archive as record 2312 ([[works/taiwaneseamericanhistory-org/whos-who-2312-w-k-young|2312. Prof. W.K. Young 楊文光教授]], 2021-02-16). SKIP NOTE: no other corpus hits in works/articles — only his own press-kit bibliographic record; no community/memoir material to absorb beyond the link above.
 
 ## Family
 

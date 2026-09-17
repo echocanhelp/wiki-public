@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-17
 ---
 # Prof. Christina Long (隆愛真教授)
 
@@ -28,6 +28,9 @@ Prof. Christina Long 隆愛真教授 – History of Taiwanese American (T.A. Arc
 ## Employment
 - Southeast Oklahoma State Univ. — Artist-in-Residence — Westfield State College (Massachusetts) — Assistant Professor — Tabor College (Kansas) — Assistant Professor — Southeast Oklahoma State University — Artist-in-Residence — Westfield State College — Assistant Professor of Piano — Tabor College — Assistant Professor of Piano — Community — Plano Music Teachers Association — Member / Teacher of the Year Candidate (2013, 2015, 2016)
 <!-- tah-tables:end -->
+
+## Role in the Community
+- Portrait record in the TAH community archive as a pianist: 418. Christina Long 隆愛真, pianist / 2017-07 ([[works/taiwaneseamericanhistory-org/musician-christina-long|musician-christina-long]]); Who's Who profile record 1772 ([[works/taiwaneseamericanhistory-org/whos-who-1772-christina-long|whos-who-1772-christina-long]], 2017-07-24). No memoir/community-narrative hits beyond these archive records.
 
 ## Family
 

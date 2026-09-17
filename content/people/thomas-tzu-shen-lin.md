@@ -37,6 +37,11 @@ Research Associate
 - Mail order in health products business — 1982 — Business owner
 <!-- tah-tables:end -->
 
+## Role in the Community
+- Co-founded the student newsletter 《望春風》 at Colorado State University in summer 1969 with 洪哲勝、林銘德、梁文盛、蘇國雄、洪博學 — first issue of 13 copies, later mailed free to 60 TAA chapters and 100 university libraries; recalled in [[works/taiwaneseamericanhistory-org/ourjourneys307|ourjourneys307]].
+- Columnist for 太平洋時報 and featured speaker at the 筆會's first academic symposium (2004-05-23, with 自由時報主編陳國坤) on writing experience — see [[works/taiwaneseamericanhistory-org/ourjourneys12|ourjourneys12]].
+- Own memoir in the TAH archive: 114. 一九八八年以後我的海海人生[自傳紀實] / 2014-10 ([[works/taiwaneseamericanhistory-org/mystories-114|mystories-114]]); profile record 115 ([[works/taiwaneseamericanhistory-org/115-dr-thomas-tzu-shen-lin-e6-9e-97-e8-b3-87-e6-b7-b1-e5-8d-9a-e5-a3-ab|115. Thomas Tzu-Shen Lin 林資深]]).
+
 ## Family
 
 - **Wife:** Su-Huei Pan 潘淑慧

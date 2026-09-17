@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-16
+last_reviewed: 2026-09-17
 ---
 # Chenhung Chen (陳貞宏)
 
@@ -32,6 +32,9 @@ Chenhung Chen is an artist living and working in Los Angeles. She was born in Be
 - **Husband:** Lance Bolton
 - **Son:** Skyler Bolton
 
+## Role in the Community
+- 2019-09-14 — two-person exhibition “Time. Timeless” with Echo Lew at OCCCA, recorded in the TAH story corpus: [[works/taiwaneseamericanhistory-org/art-exhibitions-42|42. “Time. Timeless”/Echo Lew & Chenhung Chen, at OCCCA/2019]]. Community-side activity beyond the press-kit profile.
+- Corpus record pages: [[works/taiwaneseamericanhistory-org/whos387-chenhung-chen|TAH #387 Who's Who profile]] and [[works/taiwaneseamericanhistory-org/artist39-chenhung-chen|TAH #39 artist profile]]. Corpus grep (2026-09-17): no memoir/bulletin narrative coverage beyond these records.
 
 ## Sources
 - [TAH #387 encyclopedia: 387. Chenhung Chen 陳貞宏/2015/04](https://taiwaneseamericanhistory.org/whos387-chenhung-chen/)
