@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-16
+last_reviewed: 2026-09-17
 ---
 # Fei-Mei Lee Chou (周李惠美)
 
@@ -55,3 +55,4 @@ HOLD: era field says 1935 but the 2015 relay entry is the 80~84 age group, imply
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- 複核（deepen-x slice-09170130-14, 2026-09-17）：re-grep 周李惠美|Fei-Mei Lee Chou 結果相同（#716、#53 winners53、index）— SKIP：已飽和；出生年 HOLD（1935 vs 80~84 年齡組推 1931–1935）維持。
