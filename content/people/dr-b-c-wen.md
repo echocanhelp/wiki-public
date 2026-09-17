@@ -44,6 +44,7 @@ last_reviewed: 2026-09-16
 - **複核（deepen-x slice 18, 2026-09-16）：** re-grep（溫碧謙 / B. C. Wen）hit set unchanged — #1461、OTA #293、MBC養生功法專欄 #119、Our Journeys #101、加 harvest index，全數已 wikilink 於上。SKIP-no-new-material.
 - **複核（deepen-x slice 09160700-15, 2026-09-16）：** re-grep（溫碧謙 / B. C. Wen）hit set unchanged — #1461、OTA #293、MBC養生功法專欄 #119、Our Journeys #101、加 harvest index，全數已 wikilink。SKIP-no-new-material.
 - **複核（deepen-x slice 09162138-10, 2026-09-16）：** re-grep（溫碧謙 / B. C. Wen）hit set unchanged — #1461、OTA #293、#119、OJ #101（含蹲姿問答細節，已吸收）、加 index。SKIP-no-new-material.
+- **複核（deepen-x slice 09162200-8, 2026-09-16）：** re-grep（溫碧謙 / B. C. Wen）hit set unchanged — works/ 命中僅 #1461、#119、OJ #101、OTA #293、加 harvest index，全數已 wikilink 於上。SKIP-no-new-material.
 - Community leadership already on this page — TAA South Florida chapter president (2004), TAA Iowa chapter president, and a regional branch president of 全美客家同鄉會 — is consistent with these grassroots records.
 
 ## Sources
