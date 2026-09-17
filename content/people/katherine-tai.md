@@ -60,6 +60,10 @@ Absorbed from vault pages already naming her (no web):
 - 2014–2017 — Trade Consultant, U.S. House Committee on Ways and Means
 - 2021– — Trade Representative, Office of the United States Trade Representative (nominated Jan 2021)
 
+## From the record
+
+- 2021-06-10 — 首度與行政院政務委員兼經貿談判辦公室總談判代表鄧振中舉行約 40 分鐘視訊會談，強調台美貿易投資關係重要性及拜登政府以勞工為中心的貿易政策，承諾數週內於 AIT／TECRO 共同主持下重啟自 2016 年 10 月中斷的第 11 屆 TIFA 會議；鄧振中轉述她「對台灣非常友善」（[[articles/taiwanjustice-net/2025/20250719154043_戴琪與鄧振中首度視訊對話_美台未來數週重啟tifa_2c5d3c7d4f5acccc|TJJ 轉載中央社, 2021-06-10]]）。
+
 ## Sources
 - [TAH #2309 encyclopedia: 2309. Katherine Tai 戴琪](https://taiwaneseamericanhistory.org/whos-who-2309-katherine-tai/)
 - [TAH #783 encyclopedia: 783. 戴琪：拜登提名任貿易代表的「中國通」華裔律師是誰？/01/2021](https://taiwaneseamericanhistory.org/my-stories-783/)

@@ -42,6 +42,10 @@ Lynn Huang is an active musician in the Taiwanese American communities in southe
 
 _No filled family fields on the TAH profile._
 
+## From the record
+
+- 2024-05-13 — 黃令先改編自「大黃蜂的飛行」旋律的台語「天烏烏」版〈Oh My Goodness〉，隨以立合唱團在 Pasadena Mayfield Junior High School 全校早禱會演出獲滿堂喝采；她並携電子鍵盤與道具隨團擔任伴奏（[[articles/taiwanjustice-net/2025/20250617205127_一場獲滿堂彩的文化交流-以立合唱團為美國中學生_9412105875987041|TJJ, 2024-05-29]]）。
+
 ## Sources
 - [TAH #488 encyclopedia: 488. Lynn Huang 黃令先 / 2015/07](https://taiwaneseamericanhistory.org/488-lynn-huang-%e9%bb%83%e4%bb%a4%e5%85%88-201507/)
 - [TAH #19 encyclopedia: 19. Lynn Huang 黃令先, Composer, Pianist/2014/10](https://taiwaneseamericanhistory.org/19-lynn-huang-%e9%bb%83%e4%bb%a4%e5%85%88-composer-piano/)
