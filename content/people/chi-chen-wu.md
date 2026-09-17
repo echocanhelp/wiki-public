@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-17
 ---
 # Chi-Chen Wu (吳紀禛)
 
@@ -41,6 +41,11 @@ _No filled family fields on the TAH profile._
 - [TAH #685 encyclopedia: 685. Chi-Chen Wu 吳紀禛 / 2015/10](https://taiwaneseamericanhistory.org/685-chi-chen-wu-%e5%90%b3%e7%b4%80%e7%a6%9b-201510/)
 - [TAH #311 encyclopedia: 311. Chi-Chen Wu 吳紀禛, Pianist / 2015/10](https://taiwaneseamericanhistory.org/311-chi-chen-wu-pianist-201510/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/chi-chen-wu/)
+
+## Role in the Community
+
+- Profiled twice in the TAH encyclopedia as a Taiwanese American performing artist: [[works/taiwaneseamericanhistory-org/311-chi-chen-wu-pianist-201510|311. Chi-Chen Wu 吳紀禛, Pianist / 2015/10]] and [[works/taiwaneseamericanhistory-org/685-chi-chen-wu-e5-90-b3-e7-b4-80-e7-a6-9b-201510|685. Chi-Chen Wu 吳紀禛 / 2015/10]].
+- Corpus check (works + articles): no further community-activity facts in memoirs beyond these two profile pages.
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

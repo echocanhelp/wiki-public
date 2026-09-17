@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-17
 ---
 # Prof. Abraham Lee (李伯晃教授)
 
@@ -38,6 +38,11 @@ _No filled family fields on the TAH profile._
 - [TAH #2193 encyclopedia: 2193. Prof. Abraham Lee 李伯晃教授](https://taiwaneseamericanhistory.org/whos-who-2193-abraham-lee/)
 - [TAH #206 encyclopedia: 206. Prof. Abraham Lee 李伯晃教授](https://taiwaneseamericanhistory.org/ota-206/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-abraham-lee/)
+
+## Role in the Community
+
+- Profiled twice in the TAH encyclopedia: [[works/taiwaneseamericanhistory-org/whos-who-2193-abraham-lee|2193. Prof. Abraham Lee 李伯晃教授]] and in the OTA collection, [[works/taiwaneseamericanhistory-org/ota-206|206. Prof. Abraham Lee 李伯晃教授]].
+- Corpus check (works + articles): no additional community-activity facts in memoirs beyond these profile pages.
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
