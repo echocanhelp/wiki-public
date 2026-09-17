@@ -34,6 +34,10 @@ last_reviewed: 2026-08-17
 
 _No filled family fields on the TAH profile._
 
+## From the record
+
+- 2020-09-30 — Lin's own memorial essay for 鄭寶鼎博士, published via TJJ (written 9/27), documents his role as a member of 台美史料中心's first board: at Bob Cheng's request he convened the initial 籌備會議 (2010, at 陳立明's home) with 郭清江, 謝清志 and 王漢平, months later gathered 20+ Orange County Taiwanese organization leaders at his own company's conference room to push the project, handled the centre's computer software and network/WiFi at build-out, and hosted three 「正念學」meditation talks there under the 台美航太協會 name ([[articles/taiwanjustice-net/2026/20260121010227_斯人已逝_其德可追-緬懷鄭寶鼎博士-_-林宏容_9907500dda4f33bb|林宏容 via TJJ, 2020-09-30]]).
+
 ## Sources
 - [TAH #1302 encyclopedia: 1302. Hong Zong Lin 林宏容 / 2016/10](https://taiwaneseamericanhistory.org/whoswho1302/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/hong-zong-lin/)

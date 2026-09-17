@@ -58,6 +58,10 @@ Beyond his association leadership — president of the Orange County Taiwanese A
 
 His Golden Orange Club (金桔會)/OCTA project-management role recorded in the TAH profile ties the essayist persona to the same Orange County community infrastructure. The 2019 personal-collection record shows his papers entered the TAH archive as well.
 
+## From the record
+
+- 2020-09-30 — In 林宏容's memorial essay for 鄭寶鼎博士 (TJJ), Wang — former president of the 柑縣台灣同鄉會 — is the one who phoned 林宏容 on the morning of Monday 2020-09-21 to break the news that Bob Cheng had died the previous evening, the call that prompted the essay ([[articles/taiwanjustice-net/2026/20260121010227_斯人已逝_其德可追-緬懷鄭寶鼎博士-_-林宏容_9907500dda4f33bb|林宏容 via TJJ, 2020-09-30]]).
+
 ## Sources
 - [TAH #156 encyclopedia: 156. Dr. Jian-Juei Wang 王健椎博士](https://taiwaneseamericanhistory.org/156-dr-jian-juei-wang/)
 - [TAH #97 encyclopedia: 97. Dr. Jian-Juei Wang 王健椎博士](https://taiwaneseamericanhistory.org/whos-who-97-jian-juei-wang/)
