@@ -37,6 +37,8 @@ Corpus check (2026-09-16, slice deepen-x-30): re-grepping under the Chinese name
 
 Corpus re-grep (2026-09-16, slice 09160700-17): SKIP — hit set unchanged. New grep hits are works/index plus 台灣正義網 category/tag listing pages (2020 culture & videos pages, a 2025 這些人這些事 tag page) that merely re-list the already-cited obituary (奉獻台灣半世紀，紐約過世享壽84歲, 2020-04-16) and 民視台灣學堂 memorial episode (早療先驅甘惠忠神父—盧俊義, 2020-06-01). No memoir narrative; nothing new absorbable.
 
+Corpus re-grep (2026-09-16, slice 09162200-6): one new absorbable fact. A 台灣正義網 轉載報導 ([[articles/taiwanjustice-net/2024/20240423100020_root_a4d269e304b530e9|國慶談話報導]]) records that at the 2017 (106年) Double Ten National Day ceremony — theme「2017一起更好」— 甘惠忠神父 was specially invited, for the first time, to lead the national anthem (首次邀請神父甘惠忠領唱國歌), and President Tsai's National Day address thanked him as that year's national anthem lead singer, citing his decades of service to Taiwan. Community recognition thus extended beyond the disability-rights field into national ceremonial honor.
+
 Corpus re-grep (2026-09-16, slice 09162138-9): SKIP — hit set unchanged. 甘惠忠 hits remain the #2255 bibliography page, works/index, and 台灣正義網 listing pages (incl. a 2020-06-28 culture page-2 index and the 2025 這些人這些事 tag page) that re-list the same already-cited obituary and 民視台灣學堂 memorial episode; English-name grep hits nothing beyond #2255. No memoir narrative; nothing new absorbable; no conflicts to HOLD.
 
 ## Family

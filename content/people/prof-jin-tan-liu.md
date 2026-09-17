@@ -44,6 +44,7 @@ _No filled family fields on the TAH profile._
 - Corpus re-grep 2026-09-16 (slice 09160600-16): hit set unchanged（本人書目 #1633、works index、青平台顧問報導、三篇總統府變造文件報導，皆已引於上方）。SKIP — 無回憶錄級社群新材料，無新衝突。
 - Corpus re-grep 2026-09-16 (slice 09160700-13): hit set unchanged（#1633、index、青平台報導、三篇變造文件報導，皆已引於上方）。SKIP — saturated，無新材料，無新衝突。
 - Corpus re-grep 2026-09-16 (slice 09162138-8): hit set unchanged（#1633書目、works index、青平台顧問報導、三篇總統府變造文件報導，皆已引於上方）。SKIP — 無新材料，無新衝突。
+- Corpus re-grep 2026-09-16 (slice 09162200-6): hit set materially unchanged — one additional 轉載 of the same 2020-05-18 黃重諺記者會回應（「知名的計量經濟學者」、劉錦添從未出席府內政策會議）at [[articles/taiwanjustice-net/2022/20220626164756_2020_05_18_總統府遭駭_國安人士_典型認知空間作戰製造紛_2024ba8b2b06eca3|2022-06-26 轉載（original 中央社記者稿）]]，已補link；內容與已引三篇相同。無回憶錄級社群新材料，無新衝突。
 
 ## Sources
 - [TAH #1633 encyclopedia: 1633. Prof. Jin-Tan Liu 劉錦添教授](https://taiwaneseamericanhistory.org/whos-who-1633-jin-tan-liu/)

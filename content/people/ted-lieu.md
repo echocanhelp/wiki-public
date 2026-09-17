@@ -63,3 +63,4 @@ Re-grep 劉雲平 / Ted Lieu across content/works + content/articles returned th
 - Corpus re-grep (deepen-x slice 18, 2026-09-16): same six work pages (台美人募款會, census-checkbox #6, events-2020-12, my-stories-787, #4, #155), all already wikilinked above. SKIP-no-new-material.
 - Corpus re-grep (deepen-x slice 09160700-15, 2026-09-16): same six work pages (募款會, #6, events-2020-12, my-stories-787, #4, #155), all already wikilinked. SKIP-no-new-material.
 - Corpus re-grep (deepen-x slice 09162138-11, 2026-09-16): same six work pages (募款會, #6, events-2020-12, my-stories-787, #4, #155), all already wikilinked. SKIP-no-new-material.
+- Corpus re-grep (deepen-x slice 09162200-9, 2026-09-16): same six work pages (募款會, #6, events-2020-12, my-stories-787, #4, #155), all already wikilinked. SKIP-no-new-material.

@@ -61,3 +61,4 @@ Pianist Jessie Chang is admired for her beautiful tone, commanding technique, an
 - Corpus re-grep 2026-09-16 (slice 09160600-17): identical hit set (own #731/#321 + works/index). SKIP-with-reason; saturated across seven passes.
 - Corpus re-grep 2026-09-16 (slice 09160700-13): identical hit set (own #731/#321 + index). SKIP-with-reason; saturated across eight passes.
 - Corpus re-grep 2026-09-16 (slice 09162138-10): identical hit set (own #731/#321 + index). SKIP-with-reason; saturated across nine passes.
+- Corpus re-grep 2026-09-16 (slice 09162200-9): identical hit set (own #731/#321 + works/index). SKIP-with-reason; saturated across ten passes.
