@@ -18,6 +18,10 @@ last_reviewed: 2026-09-17
 
 The North American Taiwan Literature Research Association was founded on October 30, 1982, at the Hilton Hotel in Los Angeles. Its establishment was catalyzed by the visit of renowned Taiwanese author Yang Kui (楊逵), who traveled from Iowa to Los Angeles and presided over the founding gathering. The organization brought together Taiwanese writers and literature enthusiasts across North America, with 14 founding members including notable figures such as 許達然, 杜國清, 陳芳明, 陳若曦, 謝里法, and others, plus Yang Kui as an honorary member. The founding event drew over 200 attendees from across the United States and marked the opening of Taiwanese cultural activities in the Los Angeles community.
 
+## Role in the Community
+- 2018-05-11 — the TAH Foundation story corpus holds a dedicated record of the association (slug `natls`): [[works/taiwaneseamericanhistory-org/natls|北美洲臺灣文學研究會 / 2018-05]]. The record is bibliographic (band B); founding narrative above is from the TAH directory entry.
+- Corpus check 2026-09-17: founding-member names (許達然、杜國清、陳芳明、陳若曦、謝里法) and 楊逵's presiding role appear only in the TAH directory/record — no independent memoir corroboration in the vault yet.
+
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/%e5%8c%97%e7%be%8e%e6%b4%b2%e8%87%ba%e7%81%a3%e6%96%87%e5%ad%b8%e7%a0%94%e7%a9%b6%e6%9c%83/)
 

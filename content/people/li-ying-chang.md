@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-17
 ---
 # Li-Ying Chang (張理盈)
 
@@ -28,6 +28,10 @@ Taiwanese pianist Li-Ying Chang graduated with a Master of Music in Piano Perfor
 ## Employment
 - Chicago — present — Teaching Piano
 <!-- tah-tables:end -->
+
+## Role in the Community
+- Listed twice in the TAH story corpus: the Who's Who entry [[works/taiwaneseamericanhistory-org/whoswho1206|1206. Li-Ying Chang 張理盈 / 2016/08]] and the musician profile [[works/taiwaneseamericanhistory-org/musician353|353. Li-Ying Chang張理盈, Pianist / 2016/08]] (both published 2016-08-06) — documenting her as part of the Taiwanese American musician community in the Chicago area.
+- HOLD: conflict in degree level — profile prose says Master of Music (Peabody Conservatory) while the TAH table records B.S. Piano. Kept unresolved per protocol.
 
 ## Family
 

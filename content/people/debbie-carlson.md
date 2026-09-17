@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-17
 ---
 # Debbie Carlson
 
@@ -31,6 +31,10 @@ Debbie Carlson is a visual artist specializing in 3-D media, metals, and jewelry
 - Cerritos Community college — 2014-2015 — Teaching assistant
 - Bower’s Museum, Kidseum — 2013 — Teaching Artist
 <!-- tah-tables:end -->
+
+## Role in the Community
+- Documented twice in the TAH story corpus: artist profile [[works/taiwaneseamericanhistory-org/37-debbie-carlson201504|37. Debbie Carlson / 2015/04]] (published 2015-04-17) and Who's Who entry [[works/taiwaneseamericanhistory-org/whoswho1026|1026. Debbie Carlson / 2016/05]] (published 2016-05-27).
+- HOLD: conflict in degree designation — profile prose says MFA and BFA (Summa Cum Laude) while the TAH table records M.S. Fine Arts (2010) and B.S. Fine Arts (2014); the table's M.S. predating its B.S. is also anomalous. Kept unresolved per protocol.
 
 ## Family
 

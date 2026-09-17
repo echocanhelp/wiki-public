@@ -35,6 +35,10 @@ Ching-Ju Cheng, Harpist and Pianist. Born in Kaohsiung City, Taiwan. She receive
 
 _No filled family fields on the TAH profile._
 
+## Role in the Community
+- 2017-05-07 — recorded in the TAH Foundation encyclopedia twice: as musician entry #395 (Harpist & Pianist) [[works/taiwaneseamericanhistory-org/musician395|TAH #395 鄭靜如 / 2017/05]] and as Who's Who entry #1634 [[works/taiwaneseamericanhistory-org/whoswho1634|TAH #1634 鄭靜如 / 2017/05]].
+- Corpus check 2026-09-17: no mentions in TAHS memoirs/articles beyond her own TAH encyclopedia records — community activity beyond the press-kit profile (Kaohsiung birth, TNUA → Peabody → Univ. of Maryland, private harp & piano studio) is not documented in the vault.
+
 ## Sources
 - [TAH #395 encyclopedia: 395.  Ching-Ju Cheng 鄭靜如, Harpist & Pianist / 2017/05](https://taiwaneseamericanhistory.org/musician395/)
 - [TAH #1634 encyclopedia: 1634. Ching-Ju Cheng 鄭靜如  / 2017/05](https://taiwaneseamericanhistory.org/whoswho1634/)
