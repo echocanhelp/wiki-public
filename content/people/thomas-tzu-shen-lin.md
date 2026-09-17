@@ -40,7 +40,8 @@ Research Associate
 ## Role in the Community
 - Co-founded the student newsletter 《望春風》 at Colorado State University in summer 1969 with 洪哲勝、林銘德、梁文盛、蘇國雄、洪博學 — first issue of 13 copies, later mailed free to 60 TAA chapters and 100 university libraries; recalled in [[works/taiwaneseamericanhistory-org/ourjourneys307|ourjourneys307]].
 - Columnist for 太平洋時報 and featured speaker at the 筆會's first academic symposium (2004-05-23, with 自由時報主編陳國坤) on writing experience — see [[works/taiwaneseamericanhistory-org/ourjourneys12|ourjourneys12]].
-- Own memoir in the TAH archive: 114. 一九八八年以後我的海海人生[自傳紀實] / 2014-10 ([[works/taiwaneseamericanhistory-org/mystories-114|mystories-114]]); profile record 115 ([[works/taiwaneseamericanhistory-org/115-dr-thomas-tzu-shen-lin-e6-9e-97-e8-b3-87-e6-b7-b1-e5-8d-9a-e5-a3-ab|115. Thomas Tzu-Shen Lin 林資深]]).
+- Own memoir in the TAH archive: 114. 一九八八年以後我的海海人生[自傳紀實] / 2014-10 ([[works/taiwaneseamericanhistory-org/mystories-114|mystories-114]]); English bibliographic record of the same memoir ([[works/taiwaneseamericanhistory-org/mystories114-eng|114. My Overseas Life after 1988]]); profile record 115 ([[works/taiwaneseamericanhistory-org/115-dr-thomas-tzu-shen-lin-e6-9e-97-e8-b3-87-e6-b7-b1-e5-8d-9a-e5-a3-ab|115. Thomas Tzu-Shen Lin 林資深]]).
+- His own political essay 《台灣人心靈的補藥湯》 (2008/01) is held in the TAH story corpus ([[works/taiwaneseamericanhistory-org/176-e5-8f-b0-e7-81-a3-e4-ba-ba-e5-bf-83-e9-9d-88-e7-9a-84-e8-a3-9c-e8-97-a5-e6-b|176. 台灣人心靈的補藥湯]]) — the written trace of his 太平洋時報 columnist role noted above.
 
 ## Family
 

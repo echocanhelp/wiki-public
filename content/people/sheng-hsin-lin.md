@@ -37,7 +37,7 @@ _No filled family fields on the TAH profile._
 
 ## Role in the Community
 
-Dr. Lin is documented in the TAHS/Taiwanese American History story corpus through two TAH Foundation encyclopedia records: the Who's Who entry [[works/taiwaneseamericanhistory-org/whoswho1527|1527. Sheng-Hsin Lin 林聖馨]] and the musician entry [[works/taiwaneseamericanhistory-org/musician386|386. Sheng-Hsin Lin 林聖馨, Clarinet]], both dated 2017-02-26. No memoir or movement-activity mentions were found elsewhere in the corpus; her community presence in the record so far is as a classical clarinetist trained in Taiwan and the US (NKNU → Indiana University → UNT DMA), performing with The Unity Orchestra (DFW).
+Dr. Lin is documented in the TAHS/Taiwanese American History story corpus through two TAH Foundation encyclopedia records: the Who's Who entry [[works/taiwaneseamericanhistory-org/whoswho1527|1527. Sheng-Hsin Lin 林聖馨]] and the musician entry [[works/taiwaneseamericanhistory-org/musician386|386. Sheng-Hsin Lin 林聖馨, Clarinet]], both dated 2017-02-26. No memoir or movement-activity mentions were found elsewhere in the corpus; her community presence in the record so far is as a classical clarinetist trained in Taiwan and the US (NKNU → Indiana University → UNT DMA), performing with The Unity Orchestra (DFW). Corpus re-grep 2026-09-17: hits confined to her own two records and the works index — SKIP-content.
 
 ## Sources
 - [TAH #1527 encyclopedia: 1527. Sheng-Hsin Lin 林聖馨 / 2017/02](https://taiwaneseamericanhistory.org/whoswho1527/)

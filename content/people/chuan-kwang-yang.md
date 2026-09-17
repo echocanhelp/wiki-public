@@ -34,7 +34,7 @@ last_reviewed: 2026-09-17
 
 - Held in the TAH record as "The First Male T.A. Won the Olympic Silver Medal in Rome/Italy / 1960" — the decathlon silver at the 1960 Rome Olympics ([[works/taiwaneseamericanhistory-org/ff374|374. Chuan-kwang Yang 楊傳廣 / The First Male T.A. Won the Olympic Silver Medal in Rome]]).
 - Featured in the 【台灣演義】video profile (01/26/2014), part of the community's media memory of him ([[works/taiwaneseamericanhistory-org/videos115|115. Chuan-Kwang Yang【台灣演義】楊傳廣]]).
-- Corpus coverage otherwise limited to Who's-Who entries ([[works/taiwaneseamericanhistory-org/whos-who-2152-chuan-kwang-yang|2152. Chuan-Kwang Yang 楊傳廣]]) — no memoir/first-person corpus material found to absorb beyond the above.
+- Corpus coverage otherwise limited to Who's-Who entries ([[works/taiwaneseamericanhistory-org/whos-who-2152-chuan-kwang-yang|2152. Chuan-Kwang Yang 楊傳廣]]) — no memoir/first-person corpus material found to absorb beyond the above. Re-grep 2026-09-17: same hit set plus the TJJ 2022-09-13 紀政 notice already absorbed under "From the record"; nothing new.
 
 ## Family
 
