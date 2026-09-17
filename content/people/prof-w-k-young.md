@@ -32,7 +32,7 @@ Accomplishment
 <!-- tah-tables:end -->
 
 ## Role in the Community
-- Profile held in the TAH community archive as record 2312 ([[works/taiwaneseamericanhistory-org/whos-who-2312-w-k-young|2312. Prof. W.K. Young 楊文光教授]], 2021-02-16). SKIP NOTE: no other corpus hits in works/articles — only his own press-kit bibliographic record; no community/memoir material to absorb beyond the link above.
+- Profile held in the TAH community archive as record 2312 ([[works/taiwaneseamericanhistory-org/whos-who-2312-w-k-young|2312. Prof. W.K. Young 楊文光教授]], 2021-02-16). SKIP NOTE (re-grep 2026-09-17, slice 09170200-11): no other corpus hits in works/articles — only his own press-kit bibliographic record; no community/memoir material to absorb beyond the link above.
 
 ## Family
 

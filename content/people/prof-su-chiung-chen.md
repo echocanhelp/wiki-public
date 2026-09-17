@@ -40,7 +40,7 @@ Prof. Su-Chiung Chen 陳素瓊教授 – History of Taiwanese American (T.A. Arc
 ## Role in the Community
 - TAH Who's Who 收錄：[[works/taiwaneseamericanhistory-org/whos-who-2214-su-chiung-chen|TAH Who's Who #2214 陳素瓊教授]]（2019）。
 - 本条目由台美史料中心（T.A. Archives）提供，屬 TAH 人物檔案体系。
-- _corpus hits limited to the TAH bibliographic record — no memoir narrative found beyond the press-kit bio above._
+- Corpus re-grep 2026-09-17: 陳素瓊 / Su-Chiung Chen 僅見自身 TAH 圖书记錄 [[works/taiwaneseamericanhistory-org/whos-who-2214-su-chiung-chen|TAH #2214]] 與作品索引，無回憶錄敘事可吸收 — SKIP deepening。
 
 ## Sources
 - [TAH #2214 encyclopedia: 2214. Prof. Su-Chiung Chen 陳素瓊教授](https://taiwaneseamericanhistory.org/whos-who-2214-su-chiung-chen/)

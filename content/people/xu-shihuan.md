@@ -5,12 +5,14 @@ redirect_to: hsu-shih-huan
 tags:
   - redirect
 verification_status: redirect
-last_reviewed: 2026-08-30
+last_reviewed: 2026-09-17
 ---
 
 # Moved
 
-Canonical page: **[[people/hsu-shih-huan||Hsu Shih-huan (許世環)]]**.
+Canonical page: **[[people/hsu-shih-huan||Hsu Shih-huan (許世環)]]** (redirect verified: page exists).
+
+Corpus re-grep 2026-09-17 (slice 09170200-11): the sole corpus mention is the one already recorded below — 許世環(園藝), an NTU 園藝系 alumnus, is a signatory of the 2018-07-19 國立台灣大學校友 open letter protesting the 南加州台大校友會 invitation to 管中閔 ([[articles/taiwanjustice-net/2018/20180721091303_2018_07_20_抗議-南加州台大校友會邀管中閔來年會做專題演講_a428dcebbceacf38|protest letter, 2018-07-20]]). No further material to absorb at this stub.
 
 Former provisional slug: `xu-shihuan`.
 
