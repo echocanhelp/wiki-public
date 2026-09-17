@@ -7,7 +7,7 @@ tags:
   - taiwanjustice-net
   - thin-page
 verification_status: pending
-last_reviewed: 2026-08-16
+last_reviewed: 2026-09-17
 name_en: "Tsai Ing-wen"
 ---
 # Tsai Ing-wen (蔡英文)

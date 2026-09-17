@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-15
+last_reviewed: 2026-09-17
 ---
 # Dr. Long Song Simon Lin (林榮松醫師)
 
@@ -63,6 +63,10 @@ Role anchors already on this page's TAH table map to vault pages: [[organization
 
 ## Duplicate-page note (deepen-x 2026-09-14)
 [[people/simon-lin|Simon Lin (林榮松)]] (published page) lists a 林榮松 as 執行長 of Taiwan Center; this page's own TAH table lists the same 林榮松 as President of the same foundation. Role titles differ (執行長 vs President), so per merge policy this is flagged, NOT auto-merged — cross-source verification needed.
+
+## From the record
+
+- 2020-06-23 — A TJJ report on the Taiwan Center's pandemic relief names Lin, as 執行長, delivering 250 medical face shields to Whittier Hospital Medical Center on 2020-06-01 (accepted by CEO Rich Castro), and co-leading with 副董事長 蔡漢成 the digitization of the Taiwan Center's historical audio/video archives ([[articles/taiwanjustice-net/2021/20210117070450_2020_06_23_大洛杉磯台灣會館_疫情擋不住人情_濟困扶危挺_71a7c64663ea03b6|TJJ, 2020-06-23]]).
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

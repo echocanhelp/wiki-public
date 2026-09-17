@@ -11,7 +11,7 @@ name_en: "Paul Chen"
 name_zh_hanzi: "陳柏宇"
 name_zh: "陳柏宇"
 verification_status: pending
-last_reviewed: 2026-08-30
+last_reviewed: 2026-09-17
 source_note: "TAHS 2025 organization chart (roles only; no private contacts)"
 ---
 # Paul Chen (陳柏宇)
@@ -213,6 +213,11 @@ Notable quotes and mentions of **陳柏宇** in Taiwan Justice articles:
 
 ## Disambiguation
 - [[people/dr-paul-chen||Dr. Paul Chen]] — TAH Who’s Who physician, Redwood City. Different person (same English name only).
+
+## From the record
+
+- 2020-06-23 — A TJJ report on Taiwan Center pandemic relief credits Chen, as 台灣會館副董事長, with forwarding 1,200 of Royal Business Bank's 3,900 donated medical masks to the City of Rosemead ([[articles/taiwanjustice-net/2021/20210117070450_2020_06_23_大洛杉磯台灣會館_疫情擋不住人情_濟困扶危挺_71a7c64663ea03b6|TJJ, 2020-06-23]]).
+- 2023-08-06 — A TJJ report on the 28th 台美小姐選拔賽 (2023-08-05, San Gabriel Hilton) quotes Chen's address as 台館基金會董事長: the pageant exists to encourage young Taiwanese-American women leaders who will represent and serve the community ([[articles/taiwanjustice-net/2025/20250614233935_2023台美小姐選拔賽_盛大舉行-宋依珊_mimiq-soong_奪后_79b5f26fdef89d22|TJJ, 2023-08-06]]).
 
 ## Sources
 - TAHS 2025 organization chart (roles only)
