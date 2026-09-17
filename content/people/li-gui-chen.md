@@ -45,6 +45,10 @@ Accomplishment
 - [TAH #1835 encyclopedia: 1835. Li Gui Chen 陳麗貴](https://taiwaneseamericanhistory.org/whos-who-1835-li-gui-chen/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/li-gui-chen/)
 
+## From the record
+
+- 2011-11-08 — 紀錄片《好國好民》Dear Taiwan（導演、製片）全美放映座談會公告：已於台北、台南、波士頓、北卡首映，巡迴支加哥、羅德島、辛新那提、亞特蘭大、紐約、聖地牙哥、橘縣、聖荷西等地，由全美台灣同鄉會及華府台灣文化中心支持（[[articles/taiwanjustice-net/2024/20240719002430_root_1f001897255f71a7|TJJ, 2011-11-08]]）。
+
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

@@ -69,6 +69,10 @@ Absorbed from vault pages already naming her (no web):
 - [TAH #783 encyclopedia: 783. 戴琪：拜登提名任貿易代表的「中國通」華裔律師是誰？/01/2021](https://taiwaneseamericanhistory.org/my-stories-783/)
 - [TAH Who's Who](https://taiwaneseamericanhistory.org/person/katherine-tai/)
 
+## From the record
+
+- 2021-06-10 — 上任後首度與行政院政務委員兼經貿談判辦公室總談判代表鄧振中視訊會談，強調美台貿易與投資關係重要性及以勞工為中心的貿易優先事項，雙方承諾數週內在AIT與TECRO共同主持下重啟停擺五年（2016年10月最後召開）的第11屆TIFA會議（[[articles/taiwanjustice-net/2021/20210616081448_2021_06_10_戴琪與鄧振中首度視訊對話_美台未來數週重啟tifa_4a5080befc342f69|TJJ/CNA, 2021-06-10]]）。
+
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

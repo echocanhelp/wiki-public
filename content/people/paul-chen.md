@@ -225,6 +225,10 @@ Notable quotes and mentions of **陳柏宇** in Taiwan Justice articles:
 - TAHS 2025 organization chart (roles only)
 - [TAH #1788 encyclopedia: 1788. Paul Y. Chen 陳柏宇](https://taiwaneseamericanhistory.org/whos-who-1788-paul-y-chen/)
 
+## From the record
+
+- 2024-04-04 — 以會館董事長身分表示：大洛杉磯台灣會館25年來在台美社區擔當賑災協調中心，0403花蓮地震後適逢董事會即時議決勸募，並聯繫經文處協調海外捐款專戶，受訪NBC、ABC、KTLA向主流媒體發言（[[articles/taiwanjustice-net/2024/20240527024358_root_097b5750fcf3091a|TJJ, 2024-04-04]]）。
+
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||Taiwanese American Historical Society (TAHS)]]
 - [[organizations/tah-foundation||TAH Foundation]]

@@ -47,6 +47,10 @@ _No filled family fields on the TAH profile._
 - [TAH #1721 encyclopedia: 1721. Chia-Chun Chung 鍾佳君](https://taiwaneseamericanhistory.org/whos-who-1721-chia-chun-chung/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/chia-chun-chung/)
 
+## From the record
+
+- 2011-11-08 — 與張皓博以《好國好民》Dear Taiwan 英文翻譯身分，主持該片全美各地放映座談會並携DVD至現場（[[articles/taiwanjustice-net/2024/20240719002430_root_1f001897255f71a7|TJJ, 2011-11-08]]）。
+
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
