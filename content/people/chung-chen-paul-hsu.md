@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-16
+last_reviewed: 2026-09-17
 ---
 # Chung Chen Paul Hsu (許忠政)
 
@@ -52,3 +52,4 @@ last_reviewed: 2026-09-16
 
 ## Corpus re-grep (2026-09-16, incl. slices 22, 19)
 - SKIP: re-grep of content/works + content/articles returned only the already-cited ff42, 36, whos-who-262, ourjourneys123, whoswho1320 (same-name HOLD) and the works index — no new memoir material to absorb; Role in the Community is already saturated (incl. the Paul Hsu / 徐紹欽 same-name HOLD).
+- Slice deepen-x-slice-09170130-15 覆核（2026-09-17）：再檢結果相同 — 僅已引用之 ff42、36、whos-who-262、ourjourneys123、whoswho1320（同名 HOLD）及索引行，無新增回憶錄材料。SKIP。
