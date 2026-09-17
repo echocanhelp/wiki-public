@@ -30,6 +30,10 @@ Mou-ChinLin (林茂清) is listed in the TAH Foundation Who’s Who Taiwanese Am
 - [TAH #855 encyclopedia: 855. Mou-ChinLin 林茂清 / 2016/02](https://taiwaneseamericanhistory.org/855-mou-chinlin-%e6%9e%97%e8%8c%82%e6%b8%85-201602/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/mou-chinlin/)
 
+## From the record
+
+- 2021-09-23 — Identified in 楊遠薰's memoir as president of the NJ Living Well Club: he invited her to give five online lectures during COVID-19 (2020-2021), worried about host 彭昕's time-zone burden, and sent the community the news of 彭昕's sudden death ([[articles/taiwanjustice-net/2024/20240302024930_root_299c00bb18030b81|TJJ memo, 2021-09-23]]).
+
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

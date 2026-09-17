@@ -41,6 +41,10 @@ last_reviewed: 2026-08-17
 - [TAH #1520 encyclopedia: 1520. Keng S. Liang 梁耕三/ 2017/02](https://taiwaneseamericanhistory.org/whoswho1520/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/keng-s-liang/)
 
+## From the record
+
+- 1990 — 楊遠薰's memoir records that the Bridgewater (NJ) 查經班, which included 林茂清、建信、愛信 and later 彭昕, was founded in 1990 on Liang's initiative as a rotating weekly house gathering of local Taiwanese families ([[articles/taiwanjustice-net/2024/20240302024930_root_299c00bb18030b81|TJJ memo, 2021-09-23]]).
+
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

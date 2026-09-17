@@ -37,6 +37,10 @@ last_reviewed: 2026-08-17
 - [TAH #883 encyclopedia: 883. K. C. Liao 廖國仲/ 2016/03](https://taiwaneseamericanhistory.org/883-k-c-liao-%e5%bb%96%e5%9c%8b%e4%bb%b2-201603/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/k-c-liao/)
 
+## From the record
+
+- 2021-09-23 — In 楊遠薰's memoir of 彭昕醫師 (TJJ), Liao's 2014 New York memorial service is recalled as the place 彭昕 first saw the author; Liao is described as a美東台派大老 who long sponsored [[people/prof-ming-min-peng|彭明敏]] and other Taiwan-democracy veterans ([[articles/taiwanjustice-net/2024/20240302024930_root_299c00bb18030b81|TJJ memo, 2021-09-23]]).
+
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
