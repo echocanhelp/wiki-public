@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-17
 ---
 # Yu-Wen Chen (陳郁雯)
 
@@ -30,6 +30,10 @@ A native of Taiwan, pianist Yu-Wen Chen (陳郁雯) began her study of piano at 
 ## Family
 
 _No filled family fields on the TAH profile._
+
+## Role in the Community
+- Documented in the TAH musician series alongside fellow Taiwanese American performers in the same 08/2017 cohort — pianist 陳延瑜 ([[works/taiwaneseamericanhistory-org/musician422|422. Yen Yu (Jenny) CHEN 陳延瑜, pianist]]) and soprano 張倪綺 ([[works/taiwaneseamericanhistory-org/musician421|421. Ni-Chi Chang 張倪綺, Soprano]]) — i.e. TAHS recorded her as part of the organized TA musician community, not in isolation.
+- Her two TAH records both date 2017-08-06: [[works/taiwaneseamericanhistory-org/musician423|423. Yu-Wen Chen 陳郁雯, Piano]] and [[works/taiwaneseamericanhistory-org/whoswho1815|1815. Yu-Wen Chen 陳郁雯]]. No memoir or movement-activity facts found in the corpus beyond these profiles.
 
 ## Sources
 - [TAH #423 encyclopedia: 423. Yu-Wen Chen陳郁雯, Piano / 08/2017](https://taiwaneseamericanhistory.org/musician423/)

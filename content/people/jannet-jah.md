@@ -37,7 +37,7 @@ Jennet Jah is the daughter of the noted composter, Professor Kenneth Lee. She gr
 
 ## From the record
 
-- 2024-10-12 — 洛杉磯以立合唱團演出輕歌劇「學生王子」（同日並演「森林王子」選曲），李俊玲任聲樂指導（非登台身份）（[[articles/taiwanjustice-net/2025/20250318101332_洛杉磯_以立合唱團_演出的輕歌劇_學生王子_2b2e0ebccd1c5edd|TJJ, 2025-01-27]]）。
+- 2024-10-12 — 洛杉磯以立合唱團演出輕歌劇「學生王子」（同日並演「森林王子」選曲），李俊玲任聲樂指導（非登台身份）（[[articles/taiwanjustice-net/2025/20250318101332_洛杉磯_以立合唱團_演出的輕歌劇_學生王子_2b2e0ebccd1c5edd|TJJ, 2025-01-27]]；「森林王子」選曲同場報導 [[articles/taiwanjustice-net/2025/20250318104403_洛杉磯_以立合唱團_演出的輕歌劇_森林王子_928db8aa40e881b2|TJJ, 2025-01-21]]）。
 - 2022-10-01／10-08 — 以立合唱團在洛杉磯 Pasadena（10/1）及紐約卡內基贊克爾音樂廳（10/8）演出威爾第作品，李俊玲（Jennet Jah）任《安魂曲》「拯救我」Libera me 及《拿布果》「致死的震怒近了」女高音獨唱（飾 Abigaille）（[[articles/taiwanjustice-net/2023/20230202203511_2022_12_16_以立合唱團_演唱_拯救我_-選自威爾第的_526ee7d662ebe432|TJJ「拯救我」, 2022-12-16]]；同稿存檔副本 [[articles/taiwanjustice-net/2024/20240224201637_root_80b33cf1846bc005|2024-02-24]]、[[articles/taiwanjustice-net/2025/20250209214700_以立合唱團_演唱_拯救我_-選自威爾第的_7214b273dfcb59ce|2025-02-09]]；[[articles/taiwanjustice-net/2024/20240228151341_root_8c6aeada16c1e8ba|TJJ「致死的震怒近了」, 2023-02-03]]；同稿存檔副本另見 [[articles/taiwanjustice-net/2023/20230322183020_2023_02_03_以立合唱團_演唱威爾弟歌劇合唱選曲_致死的_b7ec76fa6b673920|2023 存檔]]、[[articles/taiwanjustice-net/2025/20250209202050_以立合唱團_演唱威爾弟歌劇合唱選曲_致死的_2b3d5a363a2935eb|2025 存檔重刊]]）。
 
 ## Sources

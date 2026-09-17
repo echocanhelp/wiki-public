@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-17
 ---
 # Prof. Ke-Hsin Jenny Chi (紀可欣教授)
 
@@ -33,6 +33,10 @@ Prof. Ke-Hsin Jenny Chi 紀可欣教授 – History of Taiwanese American (T.A. 
 ## Family
 
 _No filled family fields on the TAH profile._
+
+## Role in the Community
+
+_SKIP-with-reason (deepen-x 0917-25): the only corpus mention is her own bibliographic record [[works/taiwaneseamericanhistory-org/whos-who-1986-ke-hsin-chi|TAH #1986 — Prof. Ke-Hsin Jenny Chi 紀可欣教授]]; no memoir/community narrative exists to absorb._
 
 ## Sources
 - [TAH #1986 encyclopedia: 1986. Prof. Ke-Hsin Jenny Chi 紀可欣教授](https://taiwaneseamericanhistory.org/whos-who-1986-ke-hsin-chi/)

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-17
 ---
 # Khe-Beng Chiong (鍾啟明)
 
@@ -38,6 +38,9 @@ Sergeant, Lieutenant, Captain
 - **Wife:** Anna
 - **Daughter:** Bi-Lan(美蘭), Chu-Lan(慈蘭),Mei-Lan梅蘭
 
+
+## Role in the Community
+- Corpus check 2026-09-17: sole mention is his own TAH record ([[works/taiwaneseamericanhistory-org/whos-who-1856-khe-beng-chiong|1856. Khe-Beng Chiong 鍾啟明]], published 2017-08-17), filed in the same Who's Who batch as Rev. 黃主義 ([[works/taiwaneseamericanhistory-org/whos-who-1855-c-y-huang|1855. Rev. C. Y. Huang 黃主義牧師]]) and 劉德勇 ([[works/taiwaneseamericanhistory-org/whoswho1854|1854. D. Y. Liu 劉德勇]]). His US Army service 1946–54 (incl. MacArthur HQ) and Miaoli origin are press-kit facts; no movement memoirs mention him. HOLD: era 1912–1958 vs employment listed to 1954 and self-employed phase — death-year 1958 rests on the TAH card alone.
 
 ## Sources
 - [TAH #1856 encyclopedia: 1856. Khe-Beng Chiong 鍾啟明](https://taiwaneseamericanhistory.org/whos-who-1856-khe-beng-chiong/)
