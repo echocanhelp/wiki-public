@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-17
 ---
 # Li-Shan Chang (張力山)
 
@@ -34,6 +34,9 @@ Accomplishment
 ## Family
 
 _No filled family fields on the TAH profile._
+
+## Role in the Community
+No independent community/corpus material beyond his own TAH encyclopedia record ([[works/taiwaneseamericanhistory-org/whos-who-1818-li-shan-chang|TAH #1818]]). The New York-period studios and teaching posts listed in the TAH tables (Earth Studio, Chashama, DUMBO Art Center) are press-kit facts, not movement records; deepening awaits memoir or press material in the corpus.
 
 ## Sources
 - [TAH #1818 encyclopedia: 1818. Li-Shan Chang 張力山](https://taiwaneseamericanhistory.org/whos-who-1818-li-shan-chang/)

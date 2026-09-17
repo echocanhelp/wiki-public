@@ -148,6 +148,10 @@ Notable quotes and mentions of **劉玲華** in Taiwan Justice articles:
 - **Hub:** [[sources/taiwancenter-org||taiwancenter.org]]
 - **Primary org:** [[organizations/taiwan-center||Taiwan Center]]
 
+## From the record
+
+- 2016-06-11 — 大洛杉磯台灣會館第十屆董事會選出幹部，劉玲華任副秘書長（秘書長張菊惠、董事長林榮松）（[[articles/taiwanjustice-net/2024/20240425081647_root_17835ad9519f9cfe|TJJ, 2016-06-12]]）。
+
 ## Related Pages
 
 - [[organizations/taiwan-center||Taiwan Center Foundation of Greater Los Angeles]]

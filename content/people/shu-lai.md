@@ -60,6 +60,10 @@ last_reviewed: 2026-09-14
 - Co-initiator of the May 2021 Southern California 僑界 joint statement supporting Taiwan's participation in WHA — [[articles/taiwanjustice-net/2021/20210616072940_2021_05_17_2021年南加州僑界支持台灣參與世界衛生大會wha聯合聲_b1d58af16c0a5e5b|2021 WHA joint statement]] — initiated jointly with Taiwan Center (大洛杉磯台灣會館) and TAHS (台美人歷史協會), consistent with her vice-chairmanship there.
 - Signed the July 2018 open letter of NTU alumni protesting the invitation of 管中閔 by the SoCal NTU alumni council — [[articles/taiwanjustice-net/2018/20180721091303_2018_07_20_抗議-南加州台大校友會邀管中閔來年會做專題演講_a428dcebbceacf38|2018 alumni protest letter]] — listed as 賴淑遠(商學), corroborating her NTU 商學院 (accounting) degree. The letter also lists 賴聰域(數學), corroborating her husband's NTU math-alumnus background.
 
+## From the record
+
+- 2016-06-11 — 大洛杉磯台灣會館會員大會選出第十屆董事31名，賴淑遠當選第三副董事長（董事長林榮松）（[[articles/taiwanjustice-net/2024/20240425081647_root_17835ad9519f9cfe|TJJ, 2016-06-12]]）。
+
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 

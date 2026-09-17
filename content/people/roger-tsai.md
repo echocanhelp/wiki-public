@@ -188,6 +188,10 @@ Notable quotes and mentions of **蔡漢成** in Taiwan Justice articles:
   - Publisher: Freeman Huang (黃樹人); categories: `usa`, `taiwaneseamerican`, `taiwan-center`
   - Live URL: [2024台灣會館26周年晚宴](https://echocanhelp.github.io/wiki-public/articles/taiwanjustice-net/2025/20250420093345_2024大洛杉磮台灣會館第26周年年會晚宴暨募款活動11月2_2f4af86847559b66.html)
 
+## From the record
+
+- 2016-06-11 — 大洛杉磯台灣會館第十屆董事會選出幹部，蔡漢成當選第四副董事長（董事長林榮松）（[[articles/taiwanjustice-net/2024/20240425081647_root_17835ad9519f9cfe|TJJ, 2016-06-12]]）。
+
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||Taiwanese American Historical Society (TAHS)]]
 - [[people/leonard-hsu-jr||Leonard Hsu Jr. (許景鴻)]] — President (會長)

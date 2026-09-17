@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-17
 ---
 # Dr. Fei-Kuang Tseng (曾輝光博士)
 
@@ -37,6 +37,12 @@ last_reviewed: 2026-08-17
 - **Son:** 曾國哲 Sam K Tseng
 - **Daughter:** 曾千育Margaret A Tseng
 
+
+## Role in the Community
+
+- **Memoirist:** authored 「來美國追夢半世紀」 ([[works/taiwaneseamericanhistory-org/mystories124|mystories 124]], 2014-10) and 「台美人移民史的首座里程碑」 on Flamingo Garden Senior Apartments ([[works/taiwaneseamericanhistory-org/ourjourneys173-eng|Our Journeys 173]]). Personal papers archived: [[works/taiwaneseamericanhistory-org/collection-of-dr-fei-kuang-tseng|49. Collection of Dr. Fei-Kuang Tseng 曾輝光博士的收藏]].
+- **Credit-union founding:** per 周實's memoir 「曇花一現的南加信用合作社」 ([[works/taiwaneseamericanhistory-org/ourjourneys244|Our Journeys 244]]), 曾輝光 attended the first SCTFCU (南加州台灣人聯邦信用合作社) organizing meeting (~14 同鄉 present) and served as **secretary (秘書)** on its founding board.
+- **TASA:** president of the Taiwanese-America Seniors Association of Southern California, 1995 and 1997. [[organizations/taiwanese-america-seniors-association-of-southern-california-tasa|TASA]]
 
 ## Sources
 - [TAH #179 encyclopedia: 179. Dr. Fei-Kuang Tseng 曾輝光博士](https://taiwaneseamericanhistory.org/179-dr-fei-kuang-tseng/)
