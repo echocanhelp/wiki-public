@@ -37,6 +37,10 @@ last_reviewed: 2026-08-17
 - **Husband:** 陳威宏
 
 
+## From the record
+
+- 2025-02-22 — Attended the 228追思紀念大會 at the Greater Los Angeles Taiwan Center listed as 副董事長 (with 蔡漢成) among the honored guests ([[articles/taiwanjustice-net/2025/20250320212940_大洛杉磯台灣會館等24個台美社團舉舉行228追思紀念_c62f5c50846fe267|TJJ report, 2025-02-24]]).
+
 ## Sources
 - [TAH #1141 encyclopedia: 1141. C. Y. Chen 陳黃群雁 / 2016/07](https://taiwaneseamericanhistory.org/whoswho1141/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/c-y-chen/)

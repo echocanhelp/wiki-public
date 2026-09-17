@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-17
 ---
 # Prof. Lan-Bo Chen (陳良博教授)
 
@@ -33,6 +33,12 @@ last_reviewed: 2026-08-17
 ## Family
 
 _No filled family fields on the TAH profile._
+
+## Role in the Community
+- Acclaimed cancer researcher (抗癌研究專家) and academician of Academia Sinica (中研院院士), per a community memoir in [[works/taiwaneseamericanhistory-org/ourjourneys70|Our Journeys #70]].
+- The memoir (a translator's reminiscence of the 文星/新潮文庫 era) records that Chen — described as a fellow-township friend (同鄉好友) of the author — helped translate essays for the Russell books 「羅素回憶集」and「羅素傳」published around 1967.
+- Community record also notes him as a key figure in the 蔡英文宇昌案 controversy (per the same memoir; press-account detail, pending independent verification).
+- Biographical record held at [[works/taiwaneseamericanhistory-org/whos-who-1994-lan-bo-chen|1994. Prof. Lan-Bo Chen 陳良博教授]].
 
 ## Sources
 - [TAH #1994 encyclopedia: 1994. Prof. Lan-Bo Chen 陳良博教授](https://taiwaneseamericanhistory.org/whos-who-1994-lan-bo-chen/)

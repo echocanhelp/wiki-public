@@ -47,8 +47,11 @@ last_reviewed: 2026-09-14
 - **Son:** [[people/james-yang||James Yang]]
 
 
+## From the record
+
+- 2017-03-14 — Authored 「台灣之美–亞洲之心」, the account of the 台灣之美繪畫巡迴展 LA stop (4/1–2/2017, 橋二中心/洛僑中心, hosted by TUF, curated by 蘇奐豪): she is a sitting TUF board member and 藝展組 member and reports the interview with the curator; 新藝畫會 members 李淑櫻、洪逸凡、劉白、蔡蕙香、陳文石 were invited to exhibit ([[articles/taiwanjustice-net/2024/20240724234326_root_cd2062fe6528223c|TJJ report, article dated 2017-03-14]]).
+
 ## Sources
-- [TAH #2178 encyclopedia: 2178. Nami Yang 李淑櫻](https://taiwaneseamericanhistory.org/whos-who-2178-nami-yang/)
 - [TAH #6 encyclopedia: 6. Nami Yang 李淑櫻](https://taiwaneseamericanhistory.org/6-nami-yang/)
 - [TAH #4 encyclopedia: 4. 李淑櫻 Nami Yang](https://taiwaneseamericanhistory.org/artist4-nami-yang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/nami-yang/)

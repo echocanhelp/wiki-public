@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-17
 ---
 # Stella Chen (陳婉真)
 
@@ -36,6 +36,10 @@ B.S. Dept. of Adult & Continuing Education(社教系)
 - **Husband:** 張維嘉
 - **Son:** 張宏久
 
+
+## From the record
+
+- 2022-07-12 — 王泰和's memorial interview lists her among 郭倍宏、李應元、張燦鍙、王康陸 as the blacklist-breakers who returned to Taiwan in 1993 during his presidency of the 全美台灣人人權會; the group enlisted Amnesty International to adopt and rescue those arrested, with statements drafted by 蔡武雄 of the DC 國關中心 ([[articles/taiwanjustice-net/2025/20250811013132_化作千風_懷念台美人的人權鬥士_台獨先鋒王泰_31b7081a5d37939f|TJJ, 2022-07-12]]).
 
 ## Sources
 - [TAH #173 encyclopedia: 173. Stella Chen 陳婉真, 2014/12](https://taiwaneseamericanhistory.org/whos-who-173-stella-chen/)

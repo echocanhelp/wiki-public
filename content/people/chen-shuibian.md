@@ -31,9 +31,6 @@ last_reviewed: 2026-07-28
 ## From the record
 
 - 2013-04 — TJJ 轉載 Michael Richardson 報導：陳水扁獲悉從台北榮總精神科病房移回台中監獄附設佩德診所後，以長袖內衣繫門把在浴室試圖自縊，院方阻止但移送照舊執行；主治醫師周紋華（Chou Yuan-hua）4/1 立院聽證時已警告送回台北監獄必成自殺風險，並診斷其有重度憂鬱症、嚴重睡眠呼吸中止、非典型帕金森氏症等，建議回家休養；Washington D.C. 人權行動中心（Human Rights Action Center）4/22 譴責此舉為「slow-motion murder」 —— [[articles/taiwanjustice-net/2024/20240425113156_root_f19de8f9d3b53071|TJJ：Chen Shui-bian's return to prison（2013-04-22）]]。
-
-## From the record
-
 - 2015-01-07 — A TJJ reprinted examination (Micheal Richardson, examiner.com) reports Chen's 2015-01-05 one-month medical parole — granted, it argues, only after 呂秀蓮's hunger strike forced the ROC Ministry of Justice's hand — and notes all but one of his corruption charges had been dismissed on appeal, with the remaining case's chief witness admitting perjury ([[articles/taiwanjustice-net/2024/20240425074240_root_795e52aadf3797a0|TJJ, 2015-01-07]]).
 
 ## Related Pages

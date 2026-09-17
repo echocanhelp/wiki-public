@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-17
 ---
 # Iris Ho (何燕青)
 
@@ -34,6 +34,10 @@ last_reviewed: 2026-08-17
 
 - **Husband:** Coen Blaauw昆布勞
 
+
+## From the record
+
+- 2016-04-20 — 楊遠薰's 「亂世奇緣」 record: a Taiwanese colleague at FAPA who fell in love with and married Coen Blaauw in 2006 — twelve years his junior, mirroring how his mother Loes Vemer was twelve years younger than his father ([[articles/taiwanjustice-net/2024/20240723022135_root_d3c8399729f03df5|TJJ, 2016-04-20]]).
 
 ## Sources
 - [TAH #935 encyclopedia: 935. Iris Ho 何燕青 2016/04](https://taiwaneseamericanhistory.org/935-iris-ho-%e4%bd%95%e7%87%95%e9%9d%92-201604/)

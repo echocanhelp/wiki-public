@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-17
 ---
 # S. Y. Chang (張信義)
 
@@ -36,6 +36,10 @@ _No filled family fields on the TAH profile._
 ## Sources
 - [TAH #1651 encyclopedia: 1651. S. Y. Chang 張信義 / 05/2017](https://taiwaneseamericanhistory.org/whoswho1651/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/s-y-chang/)
+
+## From the record
+
+- 2021-06-22 — 楊遠薰's TAF history names 張信義, then a Chicago physician, as TAF's second president (from 1983), under whom the 1983–1984 camps took Taiwanese history and culture and the theme 認同 (identity); consistent with TAH #377, which has him co-teaching the 1981 TAF camp alongside [[people/ming-tsuang|莊明哲]] ([[articles/taiwanjustice-net/2021/20211205041636_2021_06_22_卓甫良與taf的故事-_-楊遠薰_f06677a469620539|楊遠薰 TAF history, TJJ 2021-06-22]]).
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

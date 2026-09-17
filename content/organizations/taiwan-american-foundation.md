@@ -7,7 +7,7 @@ tags:
   - philanthropy
   - awards
 verification_status: published
-last_reviewed: 2026-07-20
+last_reviewed: 2026-09-17
 ---
 # Taiwanese American Foundation (TAF)
 
@@ -26,6 +26,10 @@ last_reviewed: 2026-07-20
 ## History
 
 In 1982, Wang Gui-rong donated $1 million to establish the TAF. From 1983 onward, the foundation awarded laureates from around the world who had contributed to Taiwan's cultural, academic, or political advancement. The award was highly regarded within the Taiwanese American community.
+
+## Name collision
+
+A different organization of the same English name — Taiwanese American Foundation 台灣人協進會 (通稱 TAF), formed in 1980 from the Midwest Formosan Christian Foundation (MFCF, est. 1973) to run Taiwanese-American youth camps — appears in the corpus (楊遠薰 TAF history: [[articles/taiwanjustice-net/2021/20211205041636_2021_06_22_卓甫良與taf的故事-_-楊遠薰_f06677a469620539|TJJ 2021-06-22]]); its founding officers include [[people/ming-tsuang|莊明哲]] (founding president) and [[people/william-cho|卓甫良]]. This awards foundation (王桂榮, 1982) is a separate body.
 
 ## Related Pages
 

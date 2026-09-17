@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-14
+last_reviewed: 2026-09-17
 ---
 # Wenhsiung Luke Huang (黃文雄)
 
@@ -53,6 +53,10 @@ Wenhsiung (Luke) Huang 黃文雄 – History of Taiwanese American (T.A. Archive
 ## Family
 
 _No filled family fields on the TAH profile._
+
+## From the record
+
+- 2022-07-12 — Recounted in 王泰和's memorial interview on the 424刺蔣案: on 1970-04-24, as Chiang Ching-kuo entered the Plaza Hotel in New York, 黃文雄 fired but was restrained by US security personnel and his shot went wide; 蔡同榮 led the demonstration and later fronted network news interviews ([[articles/taiwanjustice-net/2025/20250811013132_化作千風_懷念台美人的人權鬥士_台獨先鋒王泰_31b7081a5d37939f|TJJ, 2022-07-12]]).
 
 ## Sources
 - [TAH #1324 encyclopedia: 1324. Wenhsiung (Luke) Huang 黃文雄 / 2916/10](https://taiwaneseamericanhistory.org/whoswho1324/)

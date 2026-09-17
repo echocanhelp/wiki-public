@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-17
 ---
 # William Cho (卓甫良)
 
@@ -44,6 +44,10 @@ last_reviewed: 2026-08-17
 ## Sources
 - [TAH #210 encyclopedia: 210. William Cho 卓甫良/2015/01](https://taiwaneseamericanhistory.org/210-william-cho-%e5%8d%93%e7%94%ab%e8%89%af201501/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/william-cho/)
+
+## From the record
+
+- 2021-06-22 — 楊遠薰's TAF history describes Cho (Bill Cho, 卓甫良) as co-founder of the Midwest Formosan Christian Foundation (MFCF, 1973) and fourth president (from 1987) of its successor, the Taiwanese American Foundation 台灣人協進會 (TAF); after 42 years as an engineer — ending as the State of Illinois nuclear-safety certification expert — he retired from state government at the end of 2002 and later settled in Irvine ([[articles/taiwanjustice-net/2021/20211205041636_2021_06_22_卓甫良與taf的故事-_-楊遠薰_f06677a469620539|楊遠薰 TAF history, TJJ 2021-06-22]]).
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

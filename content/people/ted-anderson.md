@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-17
 ---
 # Ted Anderson (泰德安德森)
 
@@ -33,6 +33,10 @@ last_reviewed: 2026-08-17
 
 - **Wife:** Bernice Anderson
 
+
+## From the record
+
+- 2022-07-12 — 王泰和's memorial interview: sent by US Lions Club headquarters to help found the Taiwanese Lions club, then invited by 王泰和 to chair 台灣之友社 (Friends of Taiwan) for over a decade, during which he hosted AIT chairman Richard Bush and John Bolton as speakers; on one visit to Taiwan he travelled specifically to visit the imprisoned Chen Shui-bian, prompting a EVA Air stewardess to send him breakfast on the house. 王泰和 called him 「真真正正的 Friend of Taiwan」 ([[articles/taiwanjustice-net/2025/20250811013132_化作千風_懷念台美人的人權鬥士_台獨先鋒王泰_31b7081a5d37939f|TJJ, 2022-07-12]]).
 
 ## Sources
 - [TAH #271 encyclopedia: 271. Ted Anderson 泰德安德森](https://taiwaneseamericanhistory.org/ota-271/)

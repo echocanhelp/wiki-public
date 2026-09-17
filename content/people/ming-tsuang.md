@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-14
+last_reviewed: 2026-09-17
 ---
 # Ming Tsuang (莊明哲教授)
 
@@ -68,6 +68,10 @@ last_reviewed: 2026-09-14
 - [[works/taiwaneseamericanhistory-org/pride-prof-ming-t-tsuang|TAH pride encyclopedia]] — Prof. Ming T. Tsuang 莊明哲教授
 - [[works/taiwaneseamericanhistory-org/ff161|TAH #161 encyclopedia]] — 莊明哲教授／台美協進會創會會長／1980（2016-02-10 刊）
 - [[works/taiwaneseamericanhistory-org/whos-ming-tsuang|TAH Who's Who #398]] — Ming Tsuang 莊明哲教授（2015-05 刊）
+
+## From the record
+
+- 2021-06-22 — 楊遠薰's TAF history (article) reports 莊明哲 (then University of Iowa) elected TAF's founding president at its 1980 formation (November 1980 Chicago board meeting), with the 1981–1982 camps themed on communication (溝通) — corroborating this page's 1980 founding-president entry ([[articles/taiwanjustice-net/2021/20211205041636_2021_06_22_卓甫良與taf的故事-_-楊遠薰_f06677a469620539|楊遠薰 TAF history, TJJ 2021-06-22]]).
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

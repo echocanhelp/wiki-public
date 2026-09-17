@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-14
+last_reviewed: 2026-09-17
 ---
 # Ting Yee Wang (王廷宜)
 
@@ -57,6 +57,10 @@ _Corpus-absorbed 2026-09-14 (slice 09141300-17); primary material from our own m
 - **Daughter:** Amy
 - **Son:** Perry
 
+
+## From the record
+
+- 2022-07-12 — 化作千風 memorial interview profile: born 王廷宜 on 1941-09-14 in 九曲堂, 大樹鄉, Kaohsiung; 建國中學 then 台北工專, then Kansas State University (master's) and NYU (Ed.D. in civil engineering); worked for the NYC Board of Education, Rockwell (B-1 bomber programme), then Southern California Edison before self-employing in real estate in LA. Movement roles: 台獨之聲 columnist (scripts read by 盧千惠 over a phone-tape line; his phone was FBI-wiretapped for three years), 台獨聯盟 and FAPA central committee member, vice-convener of the 台灣人黑名單處理小組, and president of the 全美台灣人人權會 who in 1997 founded 「台灣之友社」/ Friends of Taiwan. Married 1971, one son and one daughter ([[articles/taiwanjustice-net/2025/20250811013132_化作千風_懷念台美人的人權鬥士_台獨先鋒王泰_31b7081a5d37939f|TJJ, 2022-07-12]]).
 
 ## Sources
 - [TAH #2283 encyclopedia: 2283. Ting Yee Wang 王廷宜](https://taiwaneseamericanhistory.org/whos-who-2283-ting-yee-wang/)

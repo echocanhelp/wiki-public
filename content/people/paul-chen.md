@@ -219,6 +219,10 @@ Notable quotes and mentions of **陳柏宇** in Taiwan Justice articles:
 - 2020-06-23 — A TJJ report on Taiwan Center pandemic relief credits Chen, as 台灣會館副董事長, with forwarding 1,200 of Royal Business Bank's 3,900 donated medical masks to the City of Rosemead ([[articles/taiwanjustice-net/2021/20210117070450_2020_06_23_大洛杉磯台灣會館_疫情擋不住人情_濟困扶危挺_71a7c64663ea03b6|TJJ, 2020-06-23]]).
 - 2023-08-06 — A TJJ report on the 28th 台美小姐選拔賽 (2023-08-05, San Gabriel Hilton) quotes Chen's address as 台館基金會董事長: the pageant exists to encourage young Taiwanese-American women leaders who will represent and serve the community ([[articles/taiwanjustice-net/2025/20250614233935_2023台美小姐選拔賽_盛大舉行-宋依珊_mimiq-soong_奪后_79b5f26fdef89d22|TJJ, 2023-08-06]]).
 
+## From the record
+
+- 2025-02-22 — Attended the 228追思紀念大會 at the Greater Los Angeles Taiwan Center listed among the guests as 僑務委員 ([[articles/taiwanjustice-net/2025/20250320212940_大洛杉磯台灣會館等24個台美社團舉舉行228追思紀念_c62f5c50846fe267|TJJ report, 2025-02-24]]; consistent with his Taiwan Center board chairmanship 2020–2022).
+
 ## Sources
 - TAHS 2025 organization chart (roles only)
 - [TAH #1788 encyclopedia: 1788. Paul Y. Chen 陳柏宇](https://taiwaneseamericanhistory.org/whos-who-1788-paul-y-chen/)

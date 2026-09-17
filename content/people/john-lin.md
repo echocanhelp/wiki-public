@@ -37,7 +37,7 @@ _No filled family fields on the TAH profile._
 
 ## From the record
 
-- 2023-06-02 — An essay on post-war decolonization and Taiwan normalization recalls that Lin, with 陳以德 and 盧主義 — all NTU graduates — founded the 3F (Free Formosa for Formosans) independence group in Philadelphia in 1956, renamed 「台灣獨立聯盟」/ United Formosans for Independence in 1959 ([[articles/taiwanjustice-net/2024/20240225024511_root_2d725102f4e64118|TJJ, 2023-06-02]]).
+- 2023-06-02 — Essay 「從二戰後全球去殖民化，到台灣國家正常化（下）」 recalls that Lin, with 陳以德 and 盧主義 — all NTU graduates — founded the 3F (Free Formosa for Formosans) independence group in Philadelphia in 1956 — the earliest US-based 台獨 organisation — renamed 「台灣獨立聯盟」/ United Formosans for Independence in 1959 ([[articles/taiwanjustice-net/2024/20240225024511_root_2d725102f4e64118|TJJ, 2023-06-02]]; [[articles/taiwanjustice-net/2023/20230923051922_2023_06_02_從二戰後全球去殖民化_到台灣國家正常化-_下_c251f8fc65ac83e0|2023 archive]]; [[articles/taiwanjustice-net/2025/20250328131429_從二戰後全球去殖民化_到台灣國家正常化-_下_c03323d28f95e9ea|2025 archive]]).
 
 ## Sources
 - [TAH #1011 encyclopedia: 1011. John Lin 林榮勳 / 2016/05](https://taiwaneseamericanhistory.org/whoswho1011/)

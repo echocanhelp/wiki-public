@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-17
 ---
 # Dr. Richard Yu-Tsang Lin (林譽蒼)
 
@@ -35,6 +35,9 @@ Dr. Richard Yu-Tsang Lin 林譽蒼 – History of Taiwanese American (T.A. Archi
 
 - **Wife:** Grace Lay
 
+
+## Role in the Community
+- Corpus footprint is limited to his own TAH encyclopedia record "2300. Dr. Richard Yu-Tsang Lin 林譽蒼": [[works/taiwaneseamericanhistory-org/whos-who-2300-richard-yu-tsang-lin|TAH #2300]]. No memoirs or community articles mention him; nothing else absorbable (no movement-role claims invented).
 
 ## Sources
 - [TAH #2300 encyclopedia: 2300. Dr. Richard Yu-Tsang Lin 林譽蒼](https://taiwaneseamericanhistory.org/whos-who-2300-richard-yu-tsang-lin/)

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-17
 ---
 # Prof. Chang-Jang Hsieh (謝常彰教授)
 
@@ -33,6 +33,9 @@ Prof. Chang-Jang Hsieh 謝常彰教授 – History of Taiwanese American (T.A. A
 ## Family
 
 _No filled family fields on the TAH profile._
+
+## Role in the Community
+- 1981–82: Among the Ann Arbor / Lansing / Detroit 同鄉 who did the actual fundraising legwork for the Professor Chen Wen-Chen Memorial Foundation's second public drive, alongside 黃邦男 (Bernie Huang), 莊兆枋 (Chao-fang Chuang), 林宜雄 (I-hsiung Lin), 許幹男 (Kuo-nan Hsu), 林金地 (Chin-ti Lin), and 黃慧惠 (Hui-hui Huang); donations were recorded one by one in the Chen Wen-Chen Memorial database. Source record: [[works/taiwaneseamericanhistory-org/ourjourneys321|Our Journeys 321]]. See also own profile record [[works/taiwaneseamericanhistory-org/whos-who-1876-chang-jang-hsieh|TAH #1876]].
 
 ## Sources
 - [TAH #1876 encyclopedia: 1876. Prof. Chang-Jang Hsieh 謝常彰教授](https://taiwaneseamericanhistory.org/whos-who-1876-chang-jang-hsieh/)

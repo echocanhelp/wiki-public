@@ -66,10 +66,5 @@ HOLD: no conflicts found between corpus records; the tah-tables 安星貿易公�
 
 ## From the record
 
-- 2021-09-23 — Mentioned in 楊遠薰's memoir of 彭昕醫師 as 彭昕's 表姑父: his wife 吳陳信愛 ('信愛姐', daughter of 陳溪圳牧師) is 彭昕's 表姑; 彭昕 flagged her appearance in the author's lecture slides, and the author recalls meeting 信愛姐 twice in Southern California ([[articles/taiwanjustice-net/2024/20240302024930_root_299c00bb18030b81|TJJ memo, 2021-09-23]]).
+- 2021-09-23 — Mentioned in 楊遠薰's memoir of 彭昕醫師 as 彭昕's 表姑父: his wife 吳陳信愛 ('信愛姐', daughter of 雙連教會 陳溪圳牧師) is 彭昕's 表姑; 彭昕 flagged her appearance in the author's lecture slides, and the author recalls meeting 信愛姐 twice in Southern California ([[articles/taiwanjustice-net/2024/20240302024930_root_299c00bb18030b81|TJJ memo, 2021-09-23]] · [[articles/taiwanjustice-net/2021/20211020131319_2021_09_23_懷念彭昕醫師-_-楊遠薰_6763e8f4ad9bcb7c|2021 archive]] · [[articles/taiwanjustice-net/2025/20250323073306_懷念彭昕醫師-_-楊遠薰_80e2a87a17215263|2025 archive]]).
 - Deepen re-check 2026-09-14（僅限語料庫）：其他收錄本人名諱之vault記錄——1984 年沈英忠（時任 SCTAI 會長）邀十二位同鄉於中國城近郊旅館座談（促成日後 TACL 籌備），本人列名與會名單：[[works/taiwaneseamericanhistory-org/ourjourneys272||TAH #272]]；本人列名之社區連署名單：[[works/taiwaneseamericanhistory-org/ourjourneys186||TAH #186]]；南加「台灣人聯合基金會」（TUF）1986 年由本人與林衡哲等發起成立（並催生太平洋時報創刊因緣）：[[works/taiwaneseamericanhistory-org/ourjourneys294||TAH #294]]。其夫人吳陳信愛、子女吳慕真、伯宏、伯仁目前暫無個別vault頁。
-
-
-## From the record
-
-- 2021-09-23 — Per physician 彭昕's email in Yang Yuan-hsün's memoir, 吳西面 was his 表姑父; Woo's wife 信愛 was his 表姑 (her father 陳溪圳牧師 pastored 雙連教會) — confirming the family link ([[articles/taiwanjustice-net/2021/20211020131319_2021_09_23_懷念彭昕醫師-_-楊遠薰_6763e8f4ad9bcb7c|TJJ memorial, 2021-09-23]] · [[articles/taiwanjustice-net/2025/20250323073306_懷念彭昕醫師-_-楊遠薰_80e2a87a17215263|archive copy]])

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-17
 ---
 # George H. Kerr (葛超智)
 
@@ -32,6 +32,11 @@ last_reviewed: 2026-08-17
 ## Family
 
 _No filled family fields on the TAH profile._
+
+## Role in the Community
+- The TAH story corpus holds an encyclopedia entry for him: [[works/taiwaneseamericanhistory-org/george-h-kerr|TAH #912, 2016-03]].
+- Community memorialization is documented in the corpus: "30. George H. Kerr Memorial Foundation 美國柯喬治紀念基金會": [[works/taiwaneseamericanhistory-org/george-h-kerr-memorial-foundation|TAH #30]]. HOLD: naming conflict 葛超智 (TAH Who's Who page) vs 柯喬治 (memorial-foundation record) — two romanization-era Chinese names for Kerr, not auto-merged.
+- Mentioned in the TJJ column on KMT party assets (2016-08-03): [[articles/taiwanjustice-net/2021/20210228235931_2016_08_03_國民黨不告訴你的歷史-不當黨產背後是無數個台_fb35181c1f66975b|TJJ column, 2016-08-03]].
 
 ## Sources
 - [TAH #912 encyclopedia: 912. George H. Kerr 葛超智 / 2016/03](https://taiwaneseamericanhistory.org/george-h-kerr/)

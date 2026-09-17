@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-17
 ---
 # Jensen Huang (黃仁勳)
 
@@ -34,6 +34,11 @@ Jensen Huang founded NVIDIA in 1993 and has served since its inception as presid
 
 - **Wife:** Lori Huang
 
+
+## Role in the Community
+- Recognized in the Taiwanese American community record multiple times: encyclopedia entries [[works/taiwaneseamericanhistory-org/ota-221|221. Jen-Hsun Jensen Huang 黃仁勳]] (2019) and [[works/taiwaneseamericanhistory-org/whos-who-226-jen-hsun-huang|226. Jen-Hsun Jensen Huang 黃仁勳]].
+- Community archive records his honors: Time's 100 Most Influential People of 2021 ([[works/taiwaneseamericanhistory-org/award-79|79. Jensen Huang, Time's 100 Most Influential People of 2021]]) and Fortune Businessperson of the Year 2017 ([[works/taiwaneseamericanhistory-org/fortune-business-person-of-the-year-jensen-huang|54. Fortune: Business Person of the Year / Jensen Huang 黃仁勳 / 2017]]).
+- Cited in the community coverage of Stanford's Taiwan Science & Technology Hub unveiling (06/2023): Stanford's engineering dean named him — alongside TSMC's Morris Chang and Yahoo's Jerry Yang — as a Taiwan-born alumnus whose impact on world technology is profound ([[works/taiwaneseamericanhistory-org/our-journeys-387|387. 史丹佛「台灣科學及科技中心」揭幕]]).
 
 ## Sources
 - [TAH #221 encyclopedia: 221. Jen-Hsun Jensen Huang 黃仁勳](https://taiwaneseamericanhistory.org/ota-221/)

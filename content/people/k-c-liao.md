@@ -39,13 +39,8 @@ last_reviewed: 2026-08-17
 
 ## From the record
 
-- 2021-09-23 — In 楊遠薰's memoir of 彭昕醫師 (TJJ), Liao's 2014 New York memorial service is recalled as the place 彭昕 first saw the author; Liao is described as a美東台派大老 who long sponsored [[people/prof-ming-min-peng|彭明敏]] and other Taiwan-democracy veterans ([[articles/taiwanjustice-net/2024/20240302024930_root_299c00bb18030b81|TJJ memo, 2021-09-23]]).
+- 2021-09-23 — In 楊遠薰's memoir of 彭昕醫師 (TJJ), Liao — described as her father's lifelong friend who became a 美東台派大老 long sponsoring [[people/prof-ming-min-peng|彭明敏]] and other Taiwan-democracy veterans — has his 2014 New York memorial service recalled as the place 彭昕 first saw the author ([[articles/taiwanjustice-net/2024/20240302024930_root_299c00bb18030b81|TJJ memo, 2021-09-23]] · [[articles/taiwanjustice-net/2021/20211020131319_2021_09_23_懷念彭昕醫師-_-楊遠薰_6763e8f4ad9bcb7c|2021 archive]] · [[articles/taiwanjustice-net/2025/20250323073306_懷念彭昕醫師-_-楊遠薰_80e2a87a17215263|2025 archive]]) — note this memorial post-dates the TAH profile death year 「-2005」; HOLD, not corrected here.
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
-
-
-## From the record
-
-- 2021-09-23 — Yang Yuan-hsün's memoir of 彭昕醫師 recalls 廖國仲 as her father's lifelong friend who became a New York 台派 elder, long-time backer of Peng Ming-min and other democracy pioneers; his memorial in New York in 2014 is where 彭昕 first saw the author ([[articles/taiwanjustice-net/2021/20211020131319_2021_09_23_懷念彭昕醫師-_-楊遠薰_6763e8f4ad9bcb7c|TJJ memorial, 2021-09-23]] · [[articles/taiwanjustice-net/2025/20250323073306_懷念彭昕醫師-_-楊遠薰_80e2a87a17215263|archive copy]]) — note this memorial post-dates the TAH profile death year 「-2005」; HOLD, not corrected here.

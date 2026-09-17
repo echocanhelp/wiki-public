@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-17
 ---
 # Emily Lin Lee (林榮峰)
 
@@ -37,6 +37,11 @@ For more bio information, please click link in Who’s Who : 564. Emily Lin Lee 
 - **Daughter:** Eileen May Lee, 李艾寧
 - **Son:** Bernard Travis Lee, 李伯寧
 
+
+## Role in the Community
+- Active in the New York Taiwanese American Senior Center (紐約台灣會館老人中心) volunteer teacher corps: a community oral history of the center's founding ([[works/taiwaneseamericanhistory-org/ourjourneys316|紐約台灣會館老人中心]]) lists her as 李林榮峰 among the volunteer teachers (義工老師) who ran daily activities such as 水墨畫 and 書法.
+- Portraits she painted as an artist are held in the community archive: [[works/taiwaneseamericanhistory-org/footsteps-33|33. Prof. Bernard Travis Lee 李伯寧教授 by Artist 林榮峰 Emily Lee]] (her son, 09/2020) and [[works/taiwaneseamericanhistory-org/footsteps-32|32. Dr. Ching-Tse Lee 李清澤博士 by Artist 林榮峰 Emily Lee]] (09/2020).
+- Encyclopedia/artist records: [[works/taiwaneseamericanhistory-org/whos564-emily-lin-lee|564. Emily Lin Lee 林榮峰]] and [[works/taiwaneseamericanhistory-org/artist53-emily-lee|53. 林榮峰 Emily Lee]] (both 2015/08).
 
 ## Sources
 - [TAH #564 encyclopedia: 564. Emily Lin Lee 林榮峰 /2015/08](https://taiwaneseamericanhistory.org/whos564-emily-lin-lee/)
