@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-17
 ---
 # Kuei-I Wu (伍癸怡)
 
@@ -34,6 +34,11 @@ _No filled family fields on the TAH profile._
 - [TAH #1083 encyclopedia: 1083. Kuei-I Wu 伍癸怡 / 2016/06](https://taiwaneseamericanhistory.org/whoswho1083/)
 - [TAH #7 encyclopedia: 7. Kuei-I Wu 伍癸怡, pianist/2014/10](https://taiwaneseamericanhistory.org/musician7/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/kuei-i-wu/)
+
+## Role in the Community
+
+- Appears twice in the TAH story corpus, showing sustained community presence in the Taiwanese American arts record: first profiled as pianist in [[works/taiwaneseamericanhistory-org/musician7|TAH Who's Who #7 — Kuei-I Wu 伍癸怡, pianist]] (published 2014-10-11), re-recorded in [[works/taiwaneseamericanhistory-org/whoswho1083|TAH Who's Who #1083 — Kuei-I Wu 伍癸怡]] (published 2016-06-18).
+- No other memoir mentions as of 2026-09-17; festival/competition details stay as recorded in the TAH profile, no external additions.
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

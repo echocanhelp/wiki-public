@@ -39,7 +39,7 @@ _No filled family fields on the TAH profile._
 
 ## From the record
 
-- 2017-07-24 — Photographed as convener (召集人) of 海外台灣青年陣線 (OTD) at the organization's joint summer camp with TACEC at West Chester University, PA; OTD, founded after the 2014 sunflower movement, had held its first general meeting at the University of Washington in April 2015 ([[articles/taiwanjustice-net/2021/20211207123518_2017_07_24_海台青與黑客松-_-楊遠薰-2017-07-24_2c9cb76838702dd7|楊遠薰 column via TJJ, 2017-07-24]]).
+- 2017-07-24 — Photographed as convener (召集人) of 海外台灣青年陣線 (OTD) at the organization's joint summer camp with TACEC at West Chester University, PA; OTD, founded after the 2014 sunflower movement, had held its first general meeting at the University of Washington in April 2015 ([[articles/taiwanjustice-net/2021/20211207123518_2017_07_24_海台青與黑客松-_-楊遠薰-2017-07-24_2c9cb76838702dd7|楊遠薰 column via TJJ, 2017-07-24]]; same column re-archived 2024: [[articles/taiwanjustice-net/2024/20240523010214_root_3260cd0bdf2f84d7|Wayback copy via TJJ]]).
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

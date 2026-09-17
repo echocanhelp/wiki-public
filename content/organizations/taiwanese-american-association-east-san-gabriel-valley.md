@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-17
 ---
 # Taiwanese American Association East San Gabriel Valley (洛杉磯聖東台灣同鄉會)
 

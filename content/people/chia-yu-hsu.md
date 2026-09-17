@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-17
 ---
 # Chia-Yu Hsu (許家毓博士)
 
@@ -35,6 +35,11 @@ Chiayu is an active composer of contemporary concert music. Chiayu has been inte
 ## Family
 
 _No filled family fields on the TAH profile._
+
+## Role in the Community
+
+- Featured twice in the TAH Foundation Who's Who stream (11/2014): as composer profile [[works/taiwaneseamericanhistory-org/74-chia-yu-hsu-e8-a8-b1-e5-ae-b6-e6-af-93|74. Chia-Yu Hsu 許家毓]] and as pianist profile [[works/taiwaneseamericanhistory-org/72-chiayu-hsu-e8-a8-b1-e5-ae-b6-e6-af-93-piano|72. Chiayu Hsu 許家毓, Pianist/2014/11]] — the community record documents both her composition and performance sides.
+- No memoir/corpus narrative beyond these feature records; biography remains TAH press-kit sourced.
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/chia-yu-hsu/)

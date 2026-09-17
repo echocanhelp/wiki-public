@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-17
 ---
 # Pin-Shan Peter Chen (陳品山教授)
 
@@ -37,6 +37,11 @@ _No filled family fields on the TAH profile._
 ## Sources
 - [TAH #2127 encyclopedia: 2127. Pin-Shan (Peter) Chen 陳品山教授](https://taiwaneseamericanhistory.org/whos-who-2127-pin-shan-chen/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/pin-shan-peter-chen/)
+
+## Role in the Community
+
+- Corpus presence is his own TAH Who's Who record: [[works/taiwaneseamericanhistory-org/whos-who-2127-pin-shan-chen|TAH Who's Who #2127 — Pin-Shan (Peter) Chen 陳品山教授]], published 2018-06-12, held as community historical record (value band B).
+- No other memoir/article mentions in the corpus as of 2026-09-17; nothing merged beyond the existing TAH profile fields.
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

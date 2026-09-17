@@ -67,7 +67,6 @@ Owner 2026-08-17: this is the same person as the TAHS officer (CPA), **not** the
   - Publisher: Freeman Huang (黃樹人); categories: `usa`, `taiwaneseamerican`, `taiwan-center`
   - Live URL: [2024台灣會館26周年晚宴](https://echocanhelp.github.io/wiki-public/articles/taiwanjustice-net/2025/20250420093345_2024大洛杉磮台灣會館第26周年年會晚宴暨募款活動11月2_2f4af86847559b66.html)
 
-
 ## Works
 
 **paul-chen** — **0** title hits, **24** body mentions in the taiwanjustice.net harvest. Listed: last 5 years, up to 8/year. Full index: [[sources/taiwanjustice-net|taiwanjustice.net]].
@@ -82,11 +81,9 @@ See the source hub. Top mentions:
 4. [[articles/taiwanjustice-net/2020/20201118162555_2018_06_27_大洛杉磯台灣會館會訊_2018-年六月-_大洛杉磯台灣_79291dad808ef7f7|大洛杉磯台灣會館會訊，2018 年六月 ◎大洛杉磯台灣會館 2018-06-27]]
 5. [[articles/taiwanjustice-net/2025/20250320212940_大洛杉磯台灣會館等24個台美社團舉舉行228追思紀念_c62f5c50846fe267|大洛杉磯台灣會館等24個台美社團舉舉行228追思紀念大會]]
 
-
 ## Timeline
 
 Chronological events for **陳柏宇**:
-
 
 ### 2025 (1 events)
 
@@ -133,7 +130,6 @@ Chronological events for **陳柏宇**:
 ## Quotes
 
 Notable quotes and mentions of **陳柏宇** in Taiwan Justice articles:
-
 
 ### 2025 (1 quotes)
 
@@ -220,10 +216,9 @@ Notable quotes and mentions of **陳柏宇** in Taiwan Justice articles:
 - 2020-06-23 — A TJJ report on Taiwan Center pandemic relief credits Chen, as 台灣會館副董事長, with forwarding 1,200 of Royal Business Bank's 3,900 donated medical masks to the City of Rosemead ([[articles/taiwanjustice-net/2021/20210117070450_2020_06_23_大洛杉磯台灣會館_疫情擋不住人情_濟困扶危挺_71a7c64663ea03b6|TJJ, 2020-06-23]]).
 - 2023-08-06 — A TJJ report on the 28th 台美小姐選拔賽 (2023-08-05, San Gabriel Hilton) quotes Chen's address as 台館基金會董事長: the pageant exists to encourage young Taiwanese-American women leaders who will represent and serve the community ([[articles/taiwanjustice-net/2025/20250614233935_2023台美小姐選拔賽_盛大舉行-宋依珊_mimiq-soong_奪后_79b5f26fdef89d22|TJJ, 2023-08-06]]).
 - 2020-11-17 — At the Taiwan Center 22nd-anniversary press conference Chen, the incoming 台館基金會董事長, appeared with 執行長 林榮松, 副董事長 蔡漢成, 財務長 黃昭竣 and board members; the rebuilding campaign's target is US$11M with US$6M in pledges committed and groundbreaking planned once US$5M more is raised this year ([[articles/taiwanjustice-net/2020/20201126160218_2020_11_17_大洛杉磯台灣會館基金會22週年線上募款年會12-5舉行_c3e762826a7e42d2|TJJ, 2020-11-17]]).
-
-## From the record
-
 - 2025-02-22 — Attended the 228追思紀念大會 at the Greater Los Angeles Taiwan Center listed among the guests as 僑務委員 ([[articles/taiwanjustice-net/2025/20250320212940_大洛杉磯台灣會館等24個台美社團舉舉行228追思紀念_c62f5c50846fe267|TJJ report, 2025-02-24]]; consistent with his Taiwan Center board chairmanship 2020–2022).
+- 2022-09-13 — A TJJ notice for the 大洛杉磯台灣會館 24th-anniversary fundraising gala names Chen as the incumbent 董事長 who took over the rebuilding-fund campaign in 2020 from 田詒鴻; over $10M raised since the 2018 launch with 60% of funds in hand, groundbreaking planned for Q1 2023 ([[articles/taiwanjustice-net/2022/20220924222953_2022_09_13_10-22大洛杉磯台灣會館-24-週年募款年會_紀政擔任主講_2a543ddc9301b7b3|TJJ, 2022-09-13]]).
+- 2020-06-23 — A TJJ report on the Taiwan Center's pandemic relief identifies Chen as 副董事長 who relayed 3,900 medical masks donated by Royal Business Bank, of which 1,200 went to the City of Laguna Woods ([[articles/taiwanjustice-net/2020/20201126153300_2020_06_23_大洛杉磯台灣會館_疫情擋不住人情_濟困扶危挺_c05e2d53013fcd15|TJJ, 2020-06-23]]).
 
 ## Sources
 - TAHS 2025 organization chart (roles only)
@@ -238,10 +233,4 @@ Notable quotes and mentions of **陳柏宇** in Taiwan Justice articles:
 - [[people/yang-jia-you||Charles Yang (楊嘉猷)]] — 創會會長
 - [[people/freeman-huang||Freeman Huang (黃樹人)]] — Secretary (秘書)
 - [[people/dr-paul-chen||Dr. Paul Chen]] — TAH ophthalmologist (not this person)
-
-## From the record
-
-- 2022-09-13 — A TJJ notice for the 大洛杉磯台灣會館 24th-anniversary fundraising gala names Chen as the incumbent 董事長 who took over the rebuilding-fund campaign in 2020 from 田詒鴻; over $10M raised since the 2018 launch with 60% of funds in hand, groundbreaking planned for Q1 2023 ([[articles/taiwanjustice-net/2022/20220924222953_2022_09_13_10-22大洛杉磯台灣會館-24-週年募款年會_紀政擔任主講_2a543ddc9301b7b3|TJJ, 2022-09-13]]).
-- 2020-06-23 — A TJJ report on the Taiwan Center's pandemic relief identifies Chen as 副董事長 who relayed 3,900 medical masks donated by Royal Business Bank, of which 1,200 went to the City of Laguna Woods ([[articles/taiwanjustice-net/2020/20201126153300_2020_06_23_大洛杉磯台灣會館_疫情擋不住人情_濟困扶危挺_c05e2d53013fcd15|TJJ, 2020-06-23]]).
-
 
