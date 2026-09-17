@@ -37,6 +37,12 @@ last_reviewed: 2026-09-17
 
 _No filled family fields on the TAH profile._
 
+## Role in the Community
+
+- Co-founder of the Taiwanese American Center of Northern California (TACNC): named among the twelve preparation-committee organizers (with 陳德輝, 張信行, 邱俊邦, 翁嘉盛, 石清正, 施天墩, 陳光博, 李華林, 張祿生 and others) recruited to stand up the first Bay Area 台灣會館, opened May 2003 in Fremont ([[works/taiwaneseamericanhistory-org/ourjourneys24-eng|Our Journeys #24 — TACNC founding memoir (EN)]]); the Chinese account lists 吳振和 among the directors who joined from 2008 onward and "gave money and labor without seeking return" ([[works/taiwaneseamericanhistory-org/ourjourneys53|Our Journeys #53 — 台灣會館 memoir]]).
+- Entrepreneurial record in Silicon Valley: his company 光林電子 (Leotek Electronics) began manufacturing LED traffic lights in 1998 and reached ~20% market share, ranked third, per the Silicon Valley Taiwanese entrepreneurs chapter ([[works/taiwaneseamericanhistory-org/ourjourneys19|Our Journeys #19]]).
+- His own life sketch is preserved in the TAH collection ([[works/taiwaneseamericanhistory-org/mystories82|TAH #82 — 吳振和人生簡述, 2014]]) and a 2008/09 interview recorded by 國史馆 ([[works/taiwaneseamericanhistory-org/publications761|TAH #761 — 吳振和訪談錄, 國史館 2008/09]]).
+
 ## Sources
 - [TAH #72 encyclopedia: 72. Dr. Chen-Ho Wu 吳振和博士](https://taiwaneseamericanhistory.org/72-dr-chen-ho-wu/)
 - [TAH #330 encyclopedia: 330. Dr. Chen-Ho Wu (吳振和博士) / A Renown Enterprises in LED Street Lighting Produc](https://taiwaneseamericanhistory.org/ff330/)
