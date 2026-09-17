@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-17
 ---
 # Dr. Kopin Liu (劉國平博士)
 
@@ -33,6 +33,10 @@ last_reviewed: 2026-08-17
 ## Family
 
 _No filled family fields on the TAH profile._
+
+## Role in the Community
+
+_Corpus scan 2026-09-17: the only matches for 劉國平 / Kopin Liu in content/works and content/articles are his own TAH encyclopedia record [[works/taiwaneseamericanhistory-org/whos-who-2130-kopin-liu|2130. Dr. Kopin Liu 劉國平博士]] (bibliographic record only, 2018-06-13) and the works index. No memoir or community-text passages to absorb — SKIP deepening; cross-link added only._
 
 ## Sources
 - [TAH #2130 encyclopedia: 2130. Dr. Kopin Liu 劉國平博士](https://taiwaneseamericanhistory.org/whos-who-2130-kopin-liu/)
