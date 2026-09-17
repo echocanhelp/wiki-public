@@ -332,6 +332,10 @@ Notable quotes and mentions of **林榮松** in Taiwan Justice articles:
 
 *...and 86 more quotes*
 
+## From the record
+
+- 2020-11-18 — 獲聘行政院政務顧問，駐洛杉磯台北經濟文化辦事處辦理致頒聘書儀式，黃敏境處長表彰其為大洛杉磯台灣會館創會會長、多年號召僑界支持政府並參與日內瓦聲援台灣參與WHA；他感謝太太石秀文支持，並轉述北美洲台灣人醫師協會義診團獲第五屆國際醫療典範獎（[[articles/taiwanjustice-net/2020/20201126144045_2020_11_19_南加州林榮松僑務諮詢委員獲聘行政院政務顧問_06510e79e7a07f48|TJJ 洛僑中心, 2020-11-19]]）。
+
 ## Related Pages
 
 - [[people/albert-s-lai||Dr. Albert S. Lai]]

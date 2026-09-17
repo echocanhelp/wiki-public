@@ -230,7 +230,9 @@ Notable quotes and mentions of **陳柏宇** in Taiwan Justice articles:
 
 ## From the record
 
+- 2016-06-11 — 大洛杉磯台灣會館會員大會選出第十屆董事會（董事長林榮松），陳柏宇任第二副董事長兼財務長（[[articles/taiwanjustice-net/2023/20230129123056_2016_06_12_台灣會館第十屆董事會選出新任董事長林榮松-_大_77328a2c6454177f|TJJ, 2016-06-12]]）。
 - 2024-04-04 — 以會館董事長身分表示：大洛杉磯台灣會館25年來在台美社區擔當賑災協調中心，0403花蓮地震後適逢董事會即時議決勸募，並聯繫經文處協調海外捐款專戶，受訪NBC、ABC、KTLA向主流媒體發言（[[articles/taiwanjustice-net/2024/20240527024358_root_097b5750fcf3091a|TJJ, 2024-04-04]]）。
+- 2020-11-18 — 以大洛杉磯台灣會館董事長身分，偕副董事長蔡漢成、秘書長吳兆峯等赴駐洛杉磯經文處出席林榮松獲聘行政院政務顧問致頒聘書儀式觀禮（[[articles/taiwanjustice-net/2020/20201126144045_2020_11_19_南加州林榮松僑務諮詢委員獲聘行政院政務顧問_06510e79e7a07f48|TJJ 洛僑中心, 2020-11-19]]）。
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||Taiwanese American Historical Society (TAHS)]]
