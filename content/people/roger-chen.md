@@ -36,6 +36,10 @@ Accomplishment
 - **Wife:** Chen Chen Chen
 
 
+## Role in the Community
+
+Chen appears in the TAHS/Taiwanese American History story corpus through two TAH Foundation encyclopedia records: the OTA entry [[works/taiwaneseamericanhistory-org/ota-235|235. Roger Chen 陳正哲]] (2019-01-29, filed alongside [[works/taiwaneseamericanhistory-org/activities-tafnc|TAFNC 北加州台灣同鄉聯合會活動]]) and the Who's Who entry [[works/taiwaneseamericanhistory-org/whos-who-2185-roger-chen|2185. Roger Chen 陳正哲]] (2019-05-04). The 2019 records sit in the Northern California community cluster; the corpus holds no memoir narrative beyond these entries, so his community role is documented as engineer/entrepreneur (MIT EE 1991 → UCSC Biochemistry 2007, founder of Bioelectronica Corporation 2017). No further corpus activity found.
+
 ## Sources
 - [TAH #2185 encyclopedia: 2185. Roger Chen 陳正哲](https://taiwaneseamericanhistory.org/whos-who-2185-roger-chen/)
 - [TAH #235 encyclopedia: 235. Roger Chen  陳正哲](https://taiwaneseamericanhistory.org/ota-235/)

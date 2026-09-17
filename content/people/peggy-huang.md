@@ -56,6 +56,10 @@ Re-grep 黃瑞雅|Peggy Huang: works hit set unchanged (ota-292, whos-who-2199, 
 - [TAH #2199 encyclopedia: 2199. Peggy Huang 黃瑞雅](https://taiwaneseamericanhistory.org/whos-who-2199-peggy-huang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/peggy-huang/)
 
+## From the record
+
+- 2022-05-16 — In coverage of the Laguna Woods Geneva Presbyterian Church shooting, Huang (Yorba Linda city council member, Office of the AG deputy attorney general) was interviewed by CNA about the attack on the Irvine Taiwanese Presbyterian Church congregation her parents belong to and coordinated member support; she relayed eyewitness detail, including how guest preacher [[people/zhang-xuanxin|張宣信]] subdued the gunman ([[articles/taiwanjustice-net/2022/20220705114925_2022_05_16_台灣來美的外省第二代周文偉到台美人教會開槍殺_117bdbbd9b362236|TJJ report, 2022-05-16]]).
+
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

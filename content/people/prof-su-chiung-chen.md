@@ -37,6 +37,11 @@ Prof. Su-Chiung Chen 陳素瓊教授 – History of Taiwanese American (T.A. Arc
 - **Son:** Kenneth Lin, Michael Lin
 
 
+## Role in the Community
+- TAH Who's Who 收錄：[[works/taiwaneseamericanhistory-org/whos-who-2214-su-chiung-chen|TAH Who's Who #2214 陳素瓊教授]]（2019）。
+- 本条目由台美史料中心（T.A. Archives）提供，屬 TAH 人物檔案体系。
+- _corpus hits limited to the TAH bibliographic record — no memoir narrative found beyond the press-kit bio above._
+
 ## Sources
 - [TAH #2214 encyclopedia: 2214. Prof. Su-Chiung Chen 陳素瓊教授](https://taiwaneseamericanhistory.org/whos-who-2214-su-chiung-chen/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-su-chiung-chen/)

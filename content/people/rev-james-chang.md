@@ -50,3 +50,10 @@ Accomplishment
 
 ## Network
 - [[organizations/presbyterian-church-in-taiwan||PCT]] — TAH Who’s Who
+- [[organizations/formosan-presbyterian-church-in-greater-houston||休士頓台灣基督長老教會]] — Pastor (per TAH record)
+
+## Role in the Community
+
+The pastor's own TAH Foundation encyclopedia record is held in the corpus as [[works/taiwaneseamericanhistory-org/whos-who-1812-james-chang|1812. Rev. James Chang 張拯民牧師]] (2017-08-06). Beyond that entry the corpus records his ministry path — NTNU industrial education (1966), TTCS M.Div. (1986), pastorate at PCT Hoping Church (台北和平基督長老教會) from 1986 and later Formosan Presbyterian Church in Greater Houston — with no memoir mentions of his own.
+
+HOLD: name collision — the corpus also contains [[works/taiwaneseamerican-org/chef-james-chang|Pop-Up Chef James Chang (Kansas City, 2024)]], a different James Chang (chef, not the pastor). Do not merge.

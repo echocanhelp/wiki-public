@@ -31,6 +31,10 @@ Education listed: 台灣神學院 (Taiwan Theological College).
 
 In 2024/09 he appears in TAH's record of the Carnegie Hero Fund commission ceremony alongside John Cheng.
 
+## From the record
+
+- 2022-05-16 — TJJ/CNA report on the Laguna Woods shooting names Chang as the former ITPC senior pastor invited to guest-preach in place of the absent current pastor 李輔仁, and describes how he struck the gunman with a chair during a magazine change, letting the congregation subdue him ([[articles/taiwanjustice-net/2022/20220705114925_2022_05_16_台灣來美的外省第二代周文偉到台美人教會開槍殺_117bdbbd9b362236|TJJ report, 2022-05-16]]).
+
 ## Vault Record Absorbed (2026-09-10)
 Details below are absorbed from pages already in the vault (no new sourcing):
 

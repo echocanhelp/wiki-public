@@ -37,6 +37,10 @@ last_reviewed: 2026-08-17
 - **Husband:** Harry Harding
 
 
+## From the record
+
+- 2021-10-13 — In a Brookings panel on Tsai Ing-wen's Double Ten speech, Lin (UVA visiting professor) said Beijing "detested" the speech but praised Tsai's use of "中華民國台灣" as positioning her at the midpoint of the identity debate, and her handling of energy, vaccines, and economic topics ("我對此給予高度評價") ([[articles/taiwanjustice-net/2021/20211020123926_2021_10_13_美專家評蔡英文雙十演說_將台灣與中國區分_拒_83bfb52c6c14f5c1|VOA via TJJ, 2021-10-13]]).
+
 ## Sources
 - [TAH #1344 encyclopedia: 1344. Syaru Shirley Lin 林夏如 / 2016/10](https://taiwaneseamericanhistory.org/whoswho1344/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/syaru-shirley-lin/)

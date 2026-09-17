@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-17
 ---
 # Dr. Fu-Tong Liu (劉扶東博士)
 
@@ -35,6 +35,12 @@ Accomplishment
 ## Family
 
 _No filled family fields on the TAH profile._
+
+## Role in the Community
+
+- Entry #1826 in the TAH Foundation Who's Who / story corpus, published 2017-08-09: [[works/taiwaneseamericanhistory-org/whos-who-1826-fu-tong-liu|1826. Dr. Fu-Tong Liu 劉扶東博士]] (bibliographic record; full text stays in the vault).
+- Career arc documented in the tah-tables block above (NTU Chemistry 1966 → UChicago Ph.D. 1975 → Scripps → La Jolla Institute of Allergy and Immunology → UC Davis Dermatology chair → Academia Sinica Institute of Biomedicines director) is the community-record version; NIH Allergy and Immunity Research Program reviewer 1985-1989 is the only additional TAH accomplishment note.
+- No memoir or article corpus mentions beyond the Who's Who record itself — no community-activity facts to absorb beyond the bibliographic link.
 
 ## Sources
 - [TAH #1826 encyclopedia: 1826. Dr. Fu-Tong Liu 劉扶東博士](https://taiwaneseamericanhistory.org/whos-who-1826-fu-tong-liu/)

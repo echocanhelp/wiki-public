@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-16
 ---
 # John Chun Liu (劉醇逸)
 
@@ -37,6 +37,13 @@ Accomplishment
 - **Father:** Joseph Chang F. Liu
 - **Mother:** Jamy Liu
 
+
+## Role in the Community
+
+- **9/11 relief conduit (2001–2002):** After 9/11, the Formosan Association network raised over US$180,000 across ~50 US chapters in two–three months; at the Greater New York Formosan Association annual meeting on 2002-02-02, TFA president 邱義昌 handed US$166,000+ to NYC Council Member John Liu to arrange donation to the widows and orphans of World Trade Center firefighters. Liu arranged a formal ceremony at City Hall on 2002-03-21 attended by Council Speaker Gifford Miller; the Firefighters Association returned a commemorative plaque, displayed at the New York Formosan Club Hall. Recorded in [[works/taiwaneseamericanhistory-org/ota-148|TAH encyclopedia #148]] and [[works/taiwaneseamericanhistory-org/ourjourneys5-9-11-donations-2002|Our Journeys donations record, 2002]].
+- **TACL leadership:** President, Taiwanese American Citizens League (TACL) New York Chapter (per TAH Who's Who employment record).
+- **Summer camp lineage:** Appeared by video at the 2022 post-pandemic 美東台灣人夏令會, noting he had attended the camp every year since childhood as elders watched him grow up — per [[articles/taiwanjustice-net/2022/20220813063444_2022_06_29_美東台灣人夏令會疫後回歸_童振源感謝僑界貢獻_40aafe4c9e048251|taiwanjustice.net coverage, 2022-06-29]].
+- **First Taiwanese American NYC Comptroller (2010–2013)**; NYC Council Member 2002–2009; later NY State Senator (as covered in 2022 reporting).
 
 ## Sources
 - [TAH #148 encyclopedia: 148. Chun John Liu 劉醇逸](https://taiwaneseamericanhistory.org/ota-148/)

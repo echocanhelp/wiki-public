@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-17
 ---
 # Min Ten Milton Lee (李明典)
 
@@ -33,6 +33,12 @@ last_reviewed: 2026-08-17
 - Structure Vibration Analysis
 - Washington DC Taiwanese School — 1999-2011 — Violin Instructor
 <!-- tah-tables:end -->
+
+## Role in the Community
+- Longest-continuous member of the Taiwanese Association of America / Greater Washington Chapter (TAA-GWC 華府台灣同鄉會), 1971–2018 — recalled in his own memoir [[works/taiwaneseamericanhistory-org/dr-minten-lee|381. Dr. Min-Ten (Milton) Lee: Own the Longest Membership of A Taiwanese American Association]].
+- Filmed appearance in the DC community: 華府台美人參加2007年度獨立紀念日大遊行, credited as Dr. Ming Lee 李明典 ([[works/taiwaneseamericanhistory-org/videos72|videos72]]).
+- Contributor to the TAH archive's history collection: 蔣渭水和他的時代 / 李明典 / 2016/History/歷史/DVD ([[works/taiwaneseamericanhistory-org/publications999|publications999]]).
+- HOLD: video72 credits him as "Dr. Ming Lee" while other records use "Min-Ten (Milton) Lee" — same wikilink target, name spelling not auto-merged.
 
 ## Family
 
