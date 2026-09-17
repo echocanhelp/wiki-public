@@ -41,3 +41,4 @@ Text above is absorbed solely from vault pages of the cited TAH records; no exte
 - Corpus re-grep 2026-09-16 (slice 09160600-16): hit set unchanged（#21、#1220／#1221、index）。SKIP — saturated，無新材料。
 - Corpus re-grep 2026-09-16 (slice 09160700-13): hit set unchanged（#21、#1220／#1221 年會手冊皆已引於上方、index）。SKIP — saturated，無回憶錄或干部/會員新材料。
 - Corpus re-grep 2026-09-16 (slice 09162138-9): hit set unchanged（TSA-STL／聖路易台灣學者協會 僅命中 #21 介紹文、#1220／#1221 年會手冊書目頁——書名僅為手冊標題本身，皆已引於上方——及 index）。SKIP — saturated，無干部/會員或回憶錄新材料可吸收。
+- Corpus re-grep 2026-09-16 (slice 09162200-7): hit set unchanged（#21 介紹文、#1220／#1221 年會手冊皆已引於上方、index）。SKIP — saturated，無干部/會員或回憶錄新材料。
