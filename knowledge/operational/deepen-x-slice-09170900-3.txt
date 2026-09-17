@@ -1,0 +1,4 @@
+people/powen-wang.md
+organizations/taiwan-hotel-motel-association-of-north-america.md
+people/li-ying-shang.md
+people/cheng-y-chuang.md

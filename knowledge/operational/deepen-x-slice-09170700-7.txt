@@ -1,0 +1,4 @@
+people/mark-thelin.md
+people/gary-lee.md
+people/clare-chien-lun-lee.md
+people/yi-ting-hsieh.md

@@ -1,6 +1,6 @@
 # Echopedia System Status
 
-*Generated: 2026-09-17 04:30 PDT*
+*Generated: 2026-09-17 04:52 PDT*
 
 ## Orientation
 - **Entry:** go <plain language> via go-router (auto-route) · **Control:** [CONTROL.md](CONTROL.md)
@@ -15,13 +15,13 @@
 - **L2 auto-publish on drift:** True
 - **L3 auto-push when green:** True
 - **Last good deploy:** `5cde2b2824`
-- **Last night (ledger):** analyzer scanned 2898 queued 20 suppressed 1868 · 🟡 QUEUE janitor HOLD leftover 39 · 🟡 QUEUE kanban blocked 12
+- **Last night (ledger):** analyzer scanned 2898 queued 21 suppressed 1869 · 🟡 QUEUE janitor HOLD leftover 38 · 🟡 QUEUE kanban blocked 29 · 🔴 NEED YOU cron fail: echopedia-nightly-audit
 - **Track SSOT:** `knowledge/operational/intelligence/autonomy-ledger.json`
 
 ## Content
 |- **Tier1 pages:** 2864 (people 2404 / orgs 429 / sources 31) · Tier2 archive: 29103
 |- **Janitor queue depth:** 61
-|- **Uncommitted files:** 31742
+|- **Uncommitted files:** 12160
 
 ## Self-improvement pipeline (Scout → Filter → Extract → Evaluate → Generate → Review)
 || Stage | Script | Last run | Output |
@@ -61,7 +61,7 @@ Load skill **echopedia-ops** first for any wiki work.
     Last run:  2026-09-16T07:00:26.579525-07:00  ok
     Name:      vllm-thermal-scaler
     Schedule:  every 1m
-    Last run:  2026-09-17T04:30:46.411406-07:00  ok
+    Last run:  2026-09-17T04:50:57.570807-07:00  ok
     Name:      Echopedia content analysis
     Schedule:  10 1 * * *
     Last run:  2026-09-17T01:11:36.537618-07:00  ok
@@ -73,7 +73,7 @@ Load skill **echopedia-ops** first for any wiki work.
     Last run:  2026-09-16T06:20:16.692219-07:00  ok
     Name:      memory-audit
     Schedule:  50 4 * * *
-    Last run:  2026-09-16T04:50:47.358342-07:00  ok
+    Last run:  2026-09-17T04:50:57.320191-07:00  ok
     Name:      echopedia-nightly-audit
     Schedule:  15 1 * * *
     Last run:  2026-09-17T02:16:06.531521-07:00  error: Script timed out after 3600s: /home/leedt/.hermes/profiles/pinto/scripts/echopedia-nightly-audit-wrapper.sh

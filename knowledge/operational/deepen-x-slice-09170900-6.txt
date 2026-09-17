@@ -1,0 +1,4 @@
+organizations/friends-of-taiwan.md
+people/george-tseng.md
+people/k-c-liao.md
+people/michael-fonte.md

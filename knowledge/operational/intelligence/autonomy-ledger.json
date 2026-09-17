@@ -23,7 +23,7 @@
       "n": 38
     },
     "kanban.blocked": {
-      "n": 29
+      "n": 30
     },
     "kanban.auto_go": {
       "enabled": false
@@ -43,7 +43,7 @@
   "telegram_auto_lines": [
     "✅ AUTO analyzer scanned 2898 queued 21 suppressed 1869",
     "🟡 QUEUE janitor HOLD leftover 38",
-    "🟡 QUEUE kanban blocked 29",
+    "🟡 QUEUE kanban blocked 30",
     "🔴 NEED YOU cron fail: echopedia-nightly-audit"
   ],
   "cron_fail_names": [

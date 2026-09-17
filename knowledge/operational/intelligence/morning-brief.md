@@ -46,6 +46,6 @@ TAHS · Echopedia morning brief — 2026-09-17
 ✅ AUTO (overnight — evidence)
 ✅ AUTO analyzer scanned 2898 queued 21 suppressed 1869
 🟡 QUEUE janitor HOLD leftover 38
-🟡 QUEUE kanban blocked 29
+🟡 QUEUE kanban blocked 30
 🔴 NEED YOU cron fail: echopedia-nightly-audit
 ℹ️  INFO  only 🔴 NEED YOU requires your reply

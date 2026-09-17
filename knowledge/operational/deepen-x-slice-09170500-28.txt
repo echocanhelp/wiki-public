@@ -1,0 +1,4 @@
+people/chin-cha-cheng.md
+people/steven-chou.md
+people/dean-liang.md
+people/kris-hsu.md

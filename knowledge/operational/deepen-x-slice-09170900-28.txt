@@ -1,0 +1,4 @@
+people/cheng-ming-chuong.md
+people/dr-thomas-yawting-ko.md
+organizations/taiwan-hotel-and-motel-association-of-southern-california.md
+organizations/brown-risd-taiwanese-graduate-student-association.md

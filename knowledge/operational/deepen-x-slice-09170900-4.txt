@@ -1,0 +1,4 @@
+people/peter-chen.md
+people/s-m-jacqueline-wang.md
+organizations/neo-art-league.md
+organizations/fri-philo.md

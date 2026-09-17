@@ -1,0 +1,4 @@
+people/prof-edith-chen.md
+people/prof-a-lien-lu-chang.md
+people/alex-hsuan-yu-lee.md
+people/h-f-josephine-huang.md

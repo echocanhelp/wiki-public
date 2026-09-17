@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-17
 ---
 # Stephen Lin (林俊提)
 
@@ -30,6 +30,13 @@ Accomplishment
 ## Employment
 - Electrical Engineer — (1972-) — Community — Taiwanese American Federation of Northern California (北加州台灣同鄉聯合會) — President — Taiwanese American Association of New York (大紐約區台灣同鄉會) — President — Taiwanese Association of America-Greater Baltimore Columbia (大巴爾地摩台灣同鄉會) — President
 <!-- tah-tables:end -->
+
+## Role in the Community
+- 1971 — founded International Material Research (IMR), a photo-mask manufacturer for semiconductor processing; later moved into real estate, at one point owning the Saint Clare Hilton in San Jose, and today the Bank of America Building and other downtown San Jose commercial properties — [[works/taiwaneseamericanhistory-org/ourjourneys19|Our Journeys 19]].
+- 1977 — as newly elected president of the Taiwanese American Association of New York (大紐約區台灣同鄉會), personally delivered a phone answering machine (and later a longer-record machine) to 沈富雄 so the association could launch its 「台灣之音」 phone-broadcast line (test broadcast 1977-04-01, official launch 1977-05-01, (212)726-3023) — 沈富雄's memoir [[works/taiwaneseamericanhistory-org/ourjourneys8|Our Journeys 8]].
+- Contributed materially (with 謝裡法) to the 北美 bimonthly 「台灣文化」, alongside社長 楊黃美幸 and總編輯 陳芳明 — a key vehicle for recording 228 Incident history — [[works/taiwaneseamericanhistory-org/ourjourneys8-eng|Our Journeys 8 (EN)]].
+- 2016 — after the TAC-WC Bay Area conference, with Daniel Ko (柯耀宗) and Ed Huang (黃東昇), convened regional leaders to create the TAC-WC Board and took the lead drafting its bylaws — [[works/taiwaneseamericanhistory-org/ourjourneys352|Our Journeys 352]].
+- Corpus Who's Who entry: [[works/taiwaneseamericanhistory-org/whos-who-1821-stephen-lin|1821. Stephen Lin 林俊提]] (published 2017-08-07).
 
 ## Family
 

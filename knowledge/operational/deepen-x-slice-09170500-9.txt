@@ -1,0 +1,4 @@
+organizations/taiwanese-evergreen-academy.md
+people/prof-chong-maw-chen.md
+people/chia-wei-lee.md
+people/prof-ruey-s-tsay.md
