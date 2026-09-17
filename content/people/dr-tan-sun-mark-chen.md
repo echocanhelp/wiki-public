@@ -55,6 +55,10 @@ Dr. Tan-Sun (Mark) Chen 陳唐山 – History of Taiwanese American (T.A. Archiv
 - [TAH #204 encyclopedia: 204. Dr. Tan-Sun (Mark) Chen 陳唐山博士](https://taiwaneseamericanhistory.org/204-dr-tan-sun-mark-chen/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-tan-sun-mark-chen/)
 
+## From the record
+
+- 2017-07-02 — 楊遠薰報導《2017年美東台灣人夏令會》：陳唐山以遠景基金會董事長身份代表蔡英文總統致辭，並發表演說「新政府的施政藍圖與展望」，呼籲海外鄉親對新政府持有信心與耐心；報導並追溯其回台前旅居華府 19 年、曾任世界台灣同鄉會會長與 FAPA 會長，回台後歷任立法委員、台南縣長、外交部長、總統府秘書長、國安會秘書長（同文另有 2024-05 存檔副本，無新事實）—— [[articles/taiwanjustice-net/2021/20211205054150_2017_07_10_2017年美東台灣人夏令會-_-楊遠薰-報導-2017-07-09_29faf54b8c9e2d10|楊遠薰報導（2017-07-09）]]。
+
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

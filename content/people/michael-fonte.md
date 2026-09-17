@@ -41,6 +41,10 @@ last_reviewed: 2026-08-17
 - [TAH #962 encyclopedia: 962. Michael Fonte 彭光理 / 2016/05](https://taiwaneseamericanhistory.org/whoswho962/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/michael-fonte/)
 
+## From the record
+
+- 2017-07 — 楊遠薰報導《2017年美東台灣人夏令會》：以民進黨華府代表處主任身份演講，用「不穩定」「不可預測」形容川普總統個性，並論述台灣應為因應川普政府變局、持續增進台美雙邊關係預作準備（同文另有 2024-05 存檔副本，無新事實）—— [[articles/taiwanjustice-net/2021/20211205054150_2017_07_10_2017年美東台灣人夏令會-_-楊遠薰-報導-2017-07-09_29faf54b8c9e2d10|楊遠薰報導（2017-07-09）]]。
+
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

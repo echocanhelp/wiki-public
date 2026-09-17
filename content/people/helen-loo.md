@@ -37,6 +37,10 @@ Accomplishment
 - [TAH #1733 encyclopedia: 1733. Helen Loo 翁進治](https://taiwaneseamericanhistory.org/whos-who-1733-helen-loo/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/helen-loo/)
 
+## From the record
+
+- 2017-07-04 — 楊遠薰報導《2017年美東台灣人夏令會》：7 月 4 日閉幕典禮上，由代理理事長周明宏與召集人簡明子將 TAC/EC 會旗交給**2018 年翁進治理事長**與召集人謝己，宣告交接成功（補充本頁僅載 2014 召集人之缺；同文另有 2024-05 存檔副本，無新事實）—— [[articles/taiwanjustice-net/2021/20211205054150_2017_07_10_2017年美東台灣人夏令會-_-楊遠薰-報導-2017-07-09_29faf54b8c9e2d10|楊遠薰報導（2017-07-09）]]。
+
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

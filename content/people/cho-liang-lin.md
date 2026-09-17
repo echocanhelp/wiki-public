@@ -73,6 +73,10 @@ Facts already present in vault pages citing Cho-Liang Lin (no new sources):
 - **Chamber collaboration** — Cited as a collaborator in pianist 王佩瑤's TAH biography ([[people/tah-p-0c2b755a64|王佩瑤]]).
 - The 2001-02-10 Akron performance was conducted by [[people/ya-hui-wang|Ya-Hui Wang (王雅惠)]].
 
+## From the record
+
+- 2016-12-12 — 台灣國家交響樂團（NSO）與小提琴家林昭亮在 Orange County Rennee and Henry Segaerstrom Concert Hall 演出，大洛杉磯台灣會館為共同主辦單位之一，由董事黃群雁領軍、19 個社團參與，售出 1,400 席一半門票（台灣會館會訊 #11，林榮松董事長報告 2016-12-17）—— [[articles/taiwanjustice-net/2024/20240721101942_root_04f32b14d8cf8f12|TJJ 轉載台灣會館會訊 #11（2016-12-17）]]。
+
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

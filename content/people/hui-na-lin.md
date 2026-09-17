@@ -37,6 +37,10 @@ _No filled family fields on the TAH profile._
 - [TAH #2320 encyclopedia: 2320. Hui Na Lin 賴慧娜](https://taiwaneseamericanhistory.org/whos-who-2320-hui-na-lin/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/hui-na-lin/)
 
+## From the record
+
+- 2016-12-17 — 大洛杉磯台灣會館董事長林榮松於會訊 #11 宣布：2017 年 228 七十週年系列活動由董事賴慧娜帶頭籌辦，傳統週則由年輕一代 Ken Wu 董事帶頭 —— [[articles/taiwanjustice-net/2024/20240721101942_root_04f32b14d8cf8f12|TJJ 轉載台灣會館會訊 #11（2016-12-17）]]。
+
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

@@ -54,6 +54,10 @@ _Compiled from this page's own Employment table — no new facts._
 - [TAH #1832 encyclopedia: 1832. Dr. Minze Chien 簡明子博士](https://taiwaneseamericanhistory.org/whos-who-1832-minze-chien/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-minze-chien/)
 
+## From the record
+
+- 2017-07 — 楊遠薰報導《2017年美東台灣人夏令會》：簡明子以召集人身份與代理理事長周明宏於 7/2 致歡迎詞揭幕，並於 7/4 閉幕典禮與周明宏將 TAC/EC 會旗交與 2018 年理事長翁進治、召集人謝己；報導並附「主辦團隊合影，右二為召集人簡明子博士」（同文另有 2024-05 存檔副本，無新事實）—— [[articles/taiwanjustice-net/2021/20211205054150_2017_07_10_2017年美東台灣人夏令會-_-楊遠薰-報導-2017-07-09_29faf54b8c9e2d10|楊遠薰報導（2017-07-09）]]。
+
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
