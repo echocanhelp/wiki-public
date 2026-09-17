@@ -34,6 +34,10 @@ last_reviewed: 2026-09-17
 
 _No filled family fields on the TAH profile._
 
+## Role in the Community
+- Entered the community record via the TAH Foundation Who's Who encyclopedia entry [[works/taiwaneseamericanhistory-org/whos-who-2273-kao-san-lan|2273. Kao San Lan 高山嵐]] (published 2020-05-28, value band B); the entry was written by a former student/fan who received 高山青's compiled 高山嵐畫冊 via 菊惠.
+- Corpus scan (content/works, content/articles): no further memoir or article mentions of 高山嵐 beyond the own-record page.
+
 ## Sources
 - [TAH #2273 encyclopedia: 2273. Kao San Lan 高山嵐](https://taiwaneseamericanhistory.org/whos-who-2273-kao-san-lan/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/kao-san-lan/)
