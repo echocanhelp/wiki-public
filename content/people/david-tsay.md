@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-17
 ---
 # Dr. David Tsay (蔡丁財博士)
 
@@ -38,6 +38,12 @@ last_reviewed: 2026-08-17
 - **Son:** Bing
 - **Son:** Andy
 
+
+## Role in the Community
+- **NATPA 教授協會 founding-era board:** Elected as a Regional Director at the founding meeting of the North American Taiwanese Professors Association, alongside 張旭成 (East), 張富美 (West), and 黃金來, 吳得民, 蔡嘉寅, 陳炳杞, 賴義雄 as general directors — see [[works/taiwaneseamericanhistory-org/ourjourneys69|69. 教授協會憶往]]. HOLD: conflict 中文版記南部區域理事 vs 英文版記 "Northern Region" for 蔡丁財.
+- **Houston TAA community-center charter team:** With 李雅彥 he completed the committee charter for the Houston Taiwanese community-center project; 謝貴分 and 楊朝諭 also served on the charter team, and his wife 蔡淑媛 (Susan Tsay) served on the secretarial team (文書組) — see [[works/taiwaneseamericanhistory-org/ourjourneys233|233. 休士頓建館紀事]] and its English counterpart [[works/taiwaneseamericanhistory-org/ourjourneys233-eng|233 (EN)]].
+- **Tahs profiles:** Also recorded in [[works/taiwaneseamericanhistory-org/whoswho2113|2113. David Tsay 蔡丁財 / 05/2018]] and [[works/taiwaneseamericanhistory-org/whos-who-2160-david-tsay|2160. Dr. David Tsay 蔡丁財博士]].
+- Consistent with his TAH Who's Who entry: Taiwanese Heritage Society of Houston founding member 1991, Chairperson 2002 and 2006.
 
 ## Sources
 - [TAH #2160 encyclopedia: 2160. Dr. David Tsay 蔡丁財博士](https://taiwaneseamericanhistory.org/whos-who-2160-david-tsay/)
