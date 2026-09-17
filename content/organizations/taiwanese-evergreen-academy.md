@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-16
+last_reviewed: 2026-09-17
 ---
 # Taiwanese Evergreen Academy (矽谷迦南長青學院)
 
@@ -25,6 +25,8 @@ The Taiwanese Evergreen Academy is a federally and state-registered nonprofit ed
 - Covered in the movement journal: [[works/taiwaneseamericanhistory-org/ourjourneys297|297. Taiwanese Evergreen Academy 北加州臺灣長青學院 (06/2017)]].
 - Corpus re-grep (迦南長青 / Evergreen Academy / 北加州臺灣長青, content/works + content/articles, 2026-09-16): hits are exactly the works already cited above (yearbook, #28 encyclopedia entry, Our Journeys 297 and 356) plus the harvest index — no new absorbable material.
 - Slice deepen-x-slice-09162138-21 re-verification (2026-09-16, late): same hit set; only new path is the English edition of an already-cited issue, [[works/taiwaneseamericanhistory-org/ourjourneys356-eng|Our Journeys 356 (EN)]] — the roster there lists the academy's peer senior-network orgs 紐澤西長春會 and FAPA/NJ. Nothing further absorbable; no conflict surfaced.
+
+- Corpus re-grep (slice deepen-x-slice-09170130-12, 2026-09-17): hit set unchanged — yearbook, #28 encyclopedia entry, Our Journeys 297 / 356 (+EN), and index only, all already cited above. Nothing new absorbable; no conflict surfaced.
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-evergreen-academy/)

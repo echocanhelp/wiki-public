@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-16
+last_reviewed: 2026-09-17
 ---
 # Prof. Ruey S. Tsay (蔡瑞胸教授)
 
@@ -54,3 +54,4 @@ _No filled family fields on the TAH profile._
 - 複核（deepen-x slice-22 2026-09-16）：re-grep 結果相同（#1793 + index only）— 維持 SKIP。
 - 複核（deepen-x slice-17 2026-09-16）：re-grep 結果相同（#1793 + index only）— 維持 SKIP。
 - 複核（deepen-x slice-15 2026-09-16）：re-grep 結果相同（#1793 + index only）— 維持 SKIP。
+- 複核（deepen-x slice-09170130-12 2026-09-17）：re-grep 蔡瑞胸 / Ruey S. Tsay 結果相同（#1793 + index only）— 維持 SKIP。
