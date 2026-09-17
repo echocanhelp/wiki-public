@@ -47,6 +47,7 @@ Chen is documented in the TAHS/TAH Foundation story corpus as a performer-compos
 
 Read together, the corpus places her career inside the community's own ensembles (名絃室內樂團, Brooklyn Neighborhood Chamber Orchestra) and in the archival record, not only in the Juilliard / New York City Ballet press record listed under Employment. Her parents [[people/wen-jer-chen|Wen Jer Chen]] and [[people/patsy-fang-chen|Patsy Fang Chen]] hold their own pages.
 - Corpus re-check log (2026-09-16; deepen-x slices 21, 23, 09160400-18, 09160500-20): re-grepped 陳潔思/Justine Fang Chen across content/works + content/articles each pass — hit set unchanged (own records #62, #66, #164, #208, #519 + works index; the whos1124 "Justine Ker" hit is a different person). No third-party memoir mentions; nothing new absorbable, no conflicts to HOLD. **SKIP-with-reason**. Re-grepped again 2026-09-16 (slices 09160600-16, 09160700-14): hit set unchanged（#62、#66、#164、#208、#519 + index）。SKIP.
+- Corpus re-grep 2026-09-16 (slice 09162138-12): hit set unchanged (#62, #66, #164, #208, #519 + works index) — all already wikilinked above. SKIP — saturated, nothing new absorbable.
 
 ## Sources
 - [TAH #208 encyclopedia: 208. Dr. Justine Fang Chen 陳潔思博士](https://taiwaneseamericanhistory.org/208/)
