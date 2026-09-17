@@ -36,8 +36,8 @@ Professor and Head of Dept. of Biological Sciences
 _No filled family fields on the TAH profile._
 
 ## Role in the Community
-- Hsieh (謝顯堂, 農化) appears in the roll of 國立台灣大學校友 in the Southern California UCLA-associated 台大校友 corpus record, confirming his NTU Agricultural Chemistry (農化) degree against the alumni roster — consistent with the TAH profile's "B.S., Agricultural Chemistry". ([[works/taiwaneseamericanhistory-org/whos-who-2094-dennis-hsieh|2094. Prof. Dennis Hsieh 謝顯堂教授]])
-- In July 2018 the 南加州台大校友會 (Southern California NTU Alumni Association) invited 管中閔 for a keynote at its annual meeting; the corpus press report lists 謝顯堂 among the NTU alumni associated with the association's activities in Southern California. ([[articles/taiwanjustice-net/2018/20180721091303_2018_07_20_抗議-南加州台大校友會邀管中閔來年會做專題演講_a428dcebbceacf38|南加州台大校友會邀管中閔年會專題演講／2018-07-20]])
+- In July 2018 the 南加州台大校友會 (Southern California NTU Alumni Association) invited 管中閔 to give a keynote at its annual meeting; the corpus press report carries the association's 國立台灣大學校友 roster, which lists 謝顯堂 (農化) — independently corroborating the TAH profile's NTU Agricultural Chemistry degree. ([[articles/taiwanjustice-net/2018/20180721091303_2018_07_20_抗議-南加州台大校友會邀管中閔來年會做專題演講_a428dcebbceacf38|南加州台大校友會邀管中閔年會專題演講／2018-07-20]])
+- His career record is preserved as encyclopedia entry #2094 in the TAH Who's Who collection (2018/04). ([[works/taiwaneseamericanhistory-org/whos-who-2094-dennis-hsieh|2094. Prof. Dennis Hsieh 謝顯堂教授]])
 
 ## Sources
 - [TAH #2094 encyclopedia: 2094. Prof. Dennis Hsieh 謝顯堂教授](https://taiwaneseamericanhistory.org/whos-who-2094-dennis-hsieh/)
