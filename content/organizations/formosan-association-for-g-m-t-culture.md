@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: reviewed
-last_reviewed: 2026-09-16
+last_reviewed: 2026-09-17
 ---
 # FORMOSAN ASSOCIATION FOR G.M.T. CULTURE (台灣人牛罵頭文史拹會)
 
@@ -21,6 +21,7 @@ The Formosan Association for G.M.T. Culture is a Los Angeles-based organization 
 ## Community Record
 
 - The association was profiled in the TAH Foundation story corpus less than a month after its founding (2016-05-20): [[works/taiwaneseamericanhistory-org/formosan-association-for-g-m-t-culture|36. FORMOSAN ASSOCIATION FOR G.M.T. CULTURE 台灣人牛罵頭文史拹會]], published 2016-06-15 (value band B).
+- Corpus grep (2026-09-17): no movement/community memoir coverage of the association beyond its own TAH record above. Other 牛罵頭 hits in articles/ are unrelated — 楊嘉猷's memoir (ancestor from 牛罵頭) and TJJ reports on 史前館's 牛罵頭文化 online exhibition — no community facts absorbed this pass (SKIP-content).
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/formosan-association-for-g-m-t-culture/)
