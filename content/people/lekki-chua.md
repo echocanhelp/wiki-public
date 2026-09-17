@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-17
 ---
 # Lekki Chua (蔡烈輝)
 
@@ -41,6 +41,12 @@ Accomplishment
 - [TAH #51 encyclopedia: 51. 蔡烈輝 Lekki Chua /2015/07](https://taiwaneseamericanhistory.org/artist51-lekki-chua/)
 - [TAH #485 encyclopedia: 485. Lekki Chua 蔡烈輝](https://taiwaneseamericanhistory.org/whos-who-lekki-chua/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/lekki-chua/)
+
+## Role in the Community
+- Community-record profile: [[works/taiwaneseamericanhistory-org/whos-who-lekki-chua|TAH Who's Who #485]].
+- [[works/taiwaneseamericanhistory-org/publications254|「攜手走過來的路」 biography/傳記, 2014]] — his own account of the life shared with wife 林美棗.
+- [[works/taiwaneseamericanhistory-org/33-lekki-now-then|「Lekki Now/Then」 82歲回顧展, 11/16/2018–01/11/2019]] — retrospective at age 82, consistent with the 1936 birth year on this page.
+- Memoir essays authored by Chua in the story corpus: [[works/taiwaneseamericanhistory-org/my-stories-691|「一小盆鮮花」08/2019]], [[works/taiwaneseamericanhistory-org/my-stories-675|「農婦Sonja」02/2019]], [[works/taiwaneseamericanhistory-org/my-stories-706|「一個沒意料到的電話」10/2019]].
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-17
 ---
 # Prof. Li-Hui Tsai (蔡立慧教授)
 
@@ -38,6 +38,14 @@ _No filled family fields on the TAH profile._
 ## Sources
 - [TAH #1783 encyclopedia: 1783. Prof. Li-Hui Tsai 蔡立慧教授](https://taiwaneseamericanhistory.org/whos-who-1783-li-hui-tsai/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-li-hui-tsai/)
+
+## Role in the Community
+- Community-record profile: [[works/taiwaneseamericanhistory-org/whos-who-1783-li-hui-tsai|TAH encyclopedia #1783, 2017]].
+- [[works/taiwaneseamericanhistory-org/outstanding-contributor-award-alzheimer-research-forum-li-huei-tsai|Outstanding Contributor Award, Alzheimer Research Forum, 2004]].
+- [[works/taiwaneseamericanhistory-org/ff350|中研院最年輕的女院士 (youngest female Academia Sinica academician), 2009]].
+- [[works/taiwaneseamericanhistory-org/mystories606|「蔡立慧教授的人生故事：尋找上億人的記憶」by 謝明玲, 11/2017]] — community essay on her memory/Alzheimer's research.
+- [[works/taiwaneseamericanhistory-org/my-stories-877|MIT學者、興大校友蔡立慧：發現阿茲海默症逆轉新法, 05/2023]].
+- HOLD: romanization conflict — this page "Li-Hui Tsai" vs the work corpus "Li-Huei Tsai"; not auto-merged.
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
