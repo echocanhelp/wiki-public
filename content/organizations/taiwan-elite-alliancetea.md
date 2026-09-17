@@ -20,7 +20,7 @@ Taiwan Elite Alliance (TEA) is a California-based nonprofit organization establi
 
 ## Role in the Community
 - TEA (優社) co-held the annual **2-28 "Spiritual Day of Taiwan" commemorative concerts** in Arcadia, CA with the Taiwanese United Fund (台灣人聯合基金會) — documented in the TAH concert archive for **2015, 2016 and 2017**, showing a recurring civic-cultural partnership rather than a one-off event. ([[works/taiwaneseamericanhistory-org/concerts3|3. The Spiritual Day of Taiwan 2-28 68th Commemorative Concert, Arcadia CA 02/28/2015]], [[works/taiwaneseamericanhistory-org/concerts68|68. 2-28 Commemorative Concert, Arcadia CA 2015/2016/2017]])
-- TEA also co-organized community service: the **Los Angeles River Clean Up (清掃洛杉磯河)** with 臺灣人聯合基金會 (TUF). ([[works/taiwaneseamericanhistory-org/5-los-angeles-river-clean-up-e6-b8-85-e6-8e-83-e6-b4-9b-e6-9d-89-e7-a3-af-e6-b2|5. Los Angeles River Clean Up by 臺灣優社 & TUF]])
+- TEA also co-organized community service: the **Los Angeles River Clean Up (清掃洛杉磯河)** with 臺灣人聯合基金會 (TUF). ([[works/taiwaneseamericanhistory-org/5-los-angeles-river-clean-up-e6-b8-85-e6-8e-83-e6-b4-9b-e6-9d-89-e7-a3-af-e6-b2-|5. Los Angeles River Clean Up by 臺灣優社 & TUF]])
 - The organization has its own profile entry (#20) in the TAH community record. ([[works/taiwaneseamericanhistory-org/taiwan-elite-alliancetea-e5-84-aa-e7-a4-be|20. Taiwan Elite Alliance(TEA)優社]])
 
 ## Sources
