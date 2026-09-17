@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-17
 ---
 # Prof. Wentai Liu (劉文泰教授)
 
@@ -30,6 +30,10 @@ last_reviewed: 2026-08-17
 ## Employment
 - UCLA — Professor, Department of Bioengineering — (2011-) — National Science Foundation (NSF) Bionic Microelectronic System Engineering Research — Director of UC Santa Cruz Branch — (2011-2011) — Univ. of California, Santa Cruz — Professor of Electronic Engineering — (2003-2011)
 <!-- tah-tables:end -->
+
+## Role in the Community
+
+Corpus scan (2026-09-17): the only holdings for 劉文泰 are his own TAH profile records — [[works/taiwaneseamericanhistory-org/ota-280|TAH encyclopedia entry #280, 2019]] and [[works/taiwaneseamericanhistory-org/whos-who-753-wentai-liu|TAH Who's Who #753, 2016]]. No memoir or movement-activity material beyond the press-kit bio; nothing absorbable, so no biography added.
 
 ## Family
 
