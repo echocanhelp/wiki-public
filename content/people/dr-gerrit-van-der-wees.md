@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-17
 ---
 # Dr. Gerrit Van Der Wees (韋傑理博士)
 
@@ -34,6 +34,12 @@ Dr. Gerrit Van Der Wees 韋傑理博士 – History of Taiwanese American (T.A. 
 
 - **Wife:** [[people/tah-p-2cc9076139||陳美津]]
 
+
+## Role in the Community
+- Founded and edited **Taiwan Commiqué** (台灣公報), serving as Chief Editor 1980–2016; the TAH oral-history memoir [[works/taiwaneseamericanhistory-org/mystories418|418. 台灣子婿退而不休 — 台灣公報創辦人韋傑理 / 陳美津 (03/2016)]] records him as a "台灣子婿" (son-in-law of Taiwan) who continued public work after retirement.
+- FAPA (Formosan Association for Public Affairs): Senate Liaison 2005–2016; his own account of leaving the role is preserved in [[works/taiwaneseamericanhistory-org/mystories419|419. Retirement from FAPA / Gerrit van der Wees (03/2016)]].
+- The couple's decades of human-rights advocacy are profiled in 民報, reposted at [[articles/taiwanjustice-net/2017/20171231185115_2017_11_29_鄭文龍律師-12-10-12-13-分別在洛杉磯台灣會館及爾灣場老_3e441b1f10db56a5|台灣會館/鄭文龍律師報導頁]]: 「跨洋書寫30餘載 韋傑理夫婦為台灣人權奔走」 (2017-12-30).
+- His own encyclopedia entry is archived at [[works/taiwaneseamericanhistory-org/whos-who-804-gerrit-van-der-wees|TAH Who's Who #804]].
 
 ## Sources
 - [TAH #804 encyclopedia: 804. Dr. Gerrit Van Der Wees 韋傑理博士](https://taiwaneseamericanhistory.org/whos-who-804-gerrit-van-der-wees/)

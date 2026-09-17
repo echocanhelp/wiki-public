@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-17
 ---
 # Margaretta Wan-Ling Lin
 
@@ -36,6 +36,10 @@ Director of Strategic Initiatives/Special Projects Director
 ## Family
 
 _No filled family fields on the TAH profile._
+
+## Role in the Community
+- Community profile held in the TAHS story corpus: [[works/taiwaneseamericanhistory-org/whos-who-2291-margaretta-wan-ling-lin|TAH Who's Who #2291]] (published 2020-11-04).
+- Corpus record corroborates the civic-career track already listed here (East Bay Community Law Center, Oakland City Hall under Mayor Dellums, The Dellums Institute, Just Cities). No further mentions in memoirs or articles as of 2026-09-17.
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/margaretta-wan-ling-lin/)

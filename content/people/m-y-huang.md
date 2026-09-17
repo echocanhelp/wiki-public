@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-17
 ---
 # M. Y. Huang (黃美雲)
 
@@ -32,6 +32,10 @@ last_reviewed: 2026-08-17
 ## Family
 
 _No filled family fields on the TAH profile._
+
+## Role in the Community
+- Three TAH records archived in the corpus: [[works/taiwaneseamericanhistory-org/whoswho1463|TAH Who's Who #1463]] (2017-01-18), [[works/taiwaneseamericanhistory-org/whoswho1773|TAH Who's Who #1773]] and [[works/taiwaneseamericanhistory-org/musician419|TAH Musician #419]] (both 2017-07-24); she sits in the same musician cohort as [[works/taiwaneseamericanhistory-org/musician-christina-long|隆愛真]] and [[works/taiwaneseamericanhistory-org/musician417|羅瑞蘭]].
+- HOLD: conflict — the musician entries (師大音樂系, Montclair State music M.A., teaching + original compositions covered in N.J. Star-Ledger and 世界日報) vs. the physician entry (台北醫學院 M.D., 聯邦政府醫院醫師). Either two careers of one person or two same-name individuals; not auto-merged.
 
 ## Sources
 - [TAH #419 encyclopedia: 419. 黃美雲,Musician / 07/2017](https://taiwaneseamericanhistory.org/musician419/)

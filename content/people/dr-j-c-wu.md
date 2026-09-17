@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-17
 ---
 # Dr. J. C. Wu (巫建嶔博士)
 
@@ -36,6 +36,10 @@ last_reviewed: 2026-08-17
 - **Wife:** 張麗珠
 - **Son:** 巫英雄
 
+
+## Role in the Community
+- Community profile held in the TAHS story corpus: [[works/taiwaneseamericanhistory-org/whos-who-1879-j-c-wu|TAH Who's Who #1879]] (published 2017-09-04), documenting his pharmaceutical R&D path — Wyeth, Dupont Merck, United Biomedical (聯亞生技) general manager, then chairman of Advanced International Pharmaceutical Nanotechnology (先進國際醫藥奈米技術).
+- No further mentions in memoirs or articles as of 2026-09-17.
 
 ## Sources
 - [TAH #1879 encyclopedia: 1879. Dr. J. C. Wu 巫建嶔博士](https://taiwaneseamericanhistory.org/whos-who-1879-j-c-wu/)
