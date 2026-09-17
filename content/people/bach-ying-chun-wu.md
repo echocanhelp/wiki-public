@@ -74,3 +74,7 @@ The preface quoted above was written by [[people/tyzen-hsiao||Tyzen Hsiao (蕭�
 - [[organizations/presbyterian-church-in-taiwan||PCT]] — TAH Who’s Who
 - [[people/tyzen-hsiao||Tyzen Hsiao (蕭泰然)]] — wrote the preface quoted above
 - [[works/taiwaneseamericanhistory-org/whoswho1476||TAH #1476]] / [[works/taiwaneseamericanhistory-org/musician383||TAH #383]] — published profile pages
+
+## From the record
+
+- 1994 — 名列「TUF 台灣文化之夜 1994」演出名單（同場：李喬、楊青矗、李慧珍、郭雋律、郭雋音、蕭泰然），紀錄由楊子清提供（[[articles/taiwanjustice-net/2021/20210117071954_tag_楊子清_11aa2dfa5f64d7e4|TJJ 楊子清 tag, 2020-09-30]]）。

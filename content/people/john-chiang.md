@@ -119,3 +119,7 @@ His childhood experience with racial discrimination shaped his worldview. He wit
 - [[people/yang-xin||楊信 (Yang Hsin) — organized fundraising]]
 - [[people/alan-thian||田詒鴻 (Alan Thian) — supported campaign]]
 - [[people/franklin-ping-cheng||Franklin Ping Cheng (程炳成) — TAHS president]]
+
+## From the record
+
+- 2020-06-26 — 其英文專欄「John Chiang: Hear what Californians have to say about our future」列於台灣正義網 English Pages 目錄頁（快照 2020-06-26）（[[articles/taiwanjustice-net/2020/20200626022615_category_english-pages_page_2_c351c962b4545bfa|TJJ English Pages, 2020-06-26]]）。

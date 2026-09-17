@@ -42,3 +42,7 @@ last_reviewed: 2026-08-17
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+## From the record
+
+- 2019-12-22 — 時任民進黨台北第三選區（中山、北松山）立委候選人，與副總統陳建仁、許淑華在民生社區開直播；民調與蔣萬安差距僅個位數百分點，宣布1月5日辦「你要的台灣你決定」活動並邀蔡英文參加（自由時報報導 via [[articles/taiwanjustice-net/2025/20251210214746_藍綠台北衝選情_陳建仁領軍-車隊掃街開直播_韓_1fbc7a8aff9cd26e|TJJ, 2019-12-22]]）。

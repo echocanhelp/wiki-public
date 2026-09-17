@@ -54,3 +54,7 @@ _No filled family fields on the TAH profile_ (see Family & Vault Connections bel
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+## From the record
+
+- 1994 — 名列「TUF 台灣文化之夜 1994」演出名單（同場：李喬、楊青矗、李慧珍、郭雋音、蕭泰然、吳英俊），紀錄由楊子清提供（[[articles/taiwanjustice-net/2021/20210117071954_tag_楊子清_11aa2dfa5f64d7e4|TJJ 楊子清 tag, 2020-09-30]]）。

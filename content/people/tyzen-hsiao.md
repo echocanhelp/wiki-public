@@ -148,6 +148,10 @@ TAH employment (unparsed string): Tainan Univ. of Technology assoc. prof.; Wenza
 - 鄭兒玉 (John Jyigiokk) — PCT pastor / 台南神學院; 〈台灣翠青〉 lyric. **No person page yet** — do not invent a slug
 - 許常惠 — NTNU composition steer. No person page yet
 
+## From the record
+
+- 2025-02-22 — At the 228追思紀念大會 hosted by the Greater Los Angeles Taiwan Center (co-hosted by 24 TA groups), the Taiwan Center choir performed his 《台灣》 and 《台灣百合》, and 許正龍 led the assembly in a Hakka/Hokkien bilingual sing-along of his 《台灣翠青》 ([[articles/taiwanjustice-net/2025/20250320212940_大洛杉磯台灣會館等24個台美社團舉舉行228追思紀念_c62f5c50846fe267|TJJ report, 2025-02-24]]).
+
 ## Sources
 1. [Wikipedia: Tyzen Hsiao](https://en.wikipedia.org/wiki/Tyzen_Hsiao)
 2. [維基百科：蕭泰然](https://zh.wikipedia.org/wiki/蕭泰然)

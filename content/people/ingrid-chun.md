@@ -59,3 +59,7 @@ _No filled family fields on the TAH profile._
 - Per vault page [[works/taiwaneseamericanhistory-org/ourjourneys301||Our Journeys #301]]: at the 1989 台灣文化之夜, Ingrid (violin) and Melody (piano) played in the 北美文協室內樂團 and gave the premiere performance of [[people/tyzen-hsiao||蕭泰然 (Tyzen Hsiao)]]'s violin concerto, to a standing ovation; at the 1994 event the sisters performed 夢幻的恆春小調 and Sarasate's 流浪者之歌.
 - Other profile facts: Juilliard Bachelor's and Master's as a scholarship student of Dorothy DeLay; chamber collaborations with The Taylor Quartet, Thomas Adès, Yuja Wang; Edinburgh International Festival chamber music; regular in the L.A. Phil Green Umbrella new-music and Chamber Music series; adjunct faculty at La Sierra University, string orchestra director at The Master's College, currently teaching at Azusa Pacific University; began violin at age five, born in Taipei to a family of musicians.
 - Note: the education table lists "B.A. Music" twice; the profile prose states a Bachelor's **and** Master's from Juilliard, so the second row is the master's degree.
+
+## From the record
+
+- 1994 — 名列「TUF 台灣文化之夜 1994」演出名單（同場：李喬、楊青矗、李慧珍、郭雋律、蕭泰然、吳英俊），紀錄由楊子清提供（[[articles/taiwanjustice-net/2021/20210117071954_tag_楊子清_11aa2dfa5f64d7e4|TJJ 楊子清 tag, 2020-09-30]]）。

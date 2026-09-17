@@ -50,3 +50,7 @@ Robert Chen (陳慕融; pinyin: Chén Mùróng) is a Taiwanese-born violinist wh
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+## From the record
+
+- 1994 — 「陳慕融小提琴獨奏會」入選「TUF 台灣名家演奏系列 1994」影音紀錄，由楊子清提供並存檔於台灣正義網（[[articles/taiwanjustice-net/2021/20210117071954_tag_楊子清_11aa2dfa5f64d7e4|TJJ 楊子清 tag, 2020-09-30]]）。

@@ -46,3 +46,7 @@ last_reviewed: 2026-08-17
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+## From the record
+
+- 2020-06-29 — 署名「Peter Chen 陳正義」的英文評論「Time to reaffirm Taiwan-US ties」（原刊 Taipei Times）列於台灣正義網 English Pages 目錄頁（快照 2020-06-29）（[[articles/taiwanjustice-net/2020/20200629063835_category_english-pages_page_3_c92664485ca4c1a7|TJJ English Pages, 2020-06-29]]）。
