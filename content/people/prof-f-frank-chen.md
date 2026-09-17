@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-16
+last_reviewed: 2026-09-17
 ---
 # Prof. F. Frank Chen (陳鳳山教授)
 
@@ -49,5 +49,6 @@ Timeline (from cited vault pages): 1980 B.S. Industrial Engineering, Tunghai Uni
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
-## Corpus re-grep (2026-09-16)
+## Corpus re-grep (2026-09-16, re-verified 2026-09-17 slice-20)
 - SKIP: 再grep僅見本身TAH出處頁 whos-who-1911、已吸收之獲獎記錄 winners49 及 works index，無新語料可吸收。
+- Disambiguation note: corpus hit in [[works/taiwaneseamerican-org/two-perspectives-on-late-life-the-chien-ming-wang-story]] refers to Taiwanese-Canadian documentary director Frank Chen (陳惟揚), a different person — do not merge.

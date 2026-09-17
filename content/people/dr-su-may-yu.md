@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-16
+last_reviewed: 2026-09-17
 ---
 # Dr. Su-May Yu (余淑美博士)
 
@@ -53,4 +53,4 @@ _No filled family fields on the TAH profile._
 - 2009 年获世界工業與科技研究組織「最佳創意女科學家獎」，为本页唯一记载之获奖记录。
 
 ## Corpus re-grep (2026-09-16)
-- SKIP: 再grep僅見本身TAH出處頁 whos-who-2045 及 works index，無新語料可吸收（2026-09-15、09-16 兩度複核、slice 09162138-23 再複核同結論）。
+- SKIP: 再grep僅見本身TAH出處頁 whos-who-2045 及 works index，無新語料可吸收（2026-09-15、09-16 兩度複核、slice 09162138-23、09170130-19 再複核同結論）。

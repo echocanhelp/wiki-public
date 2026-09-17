@@ -34,6 +34,8 @@ last_reviewed: 2026-08-17
 
 - 2021-05-13 — 南加州僑界48個社團（含台美人歷史協會、台美律師協會）於洛杉磯華僑文教服務中心開發布會，連署聯合聲明支持台灣以制度化管理參與WHA/WHO，為聲明共同發起人之一（[[articles/taiwanjustice-net/2021/20210616072940_2021_05_17_2021年南加州僑界支持台灣參與世界衛生大會wha聯合聲_b1d58af16c0a5e5b|TJJ 2021-06-16 轉載]]；[[articles/taiwanjustice-net/2025/20251108183438_2021年南加州僑界支持台灣參與世界衛生大會wha聯合聲_80c0a825a7a661b6|2025-11-08 快照]]）。
 
+- 2020-09-30 — 林宏容's memorial essay for 鄭寶鼎博士 (TJJ) records Huang as one of the chain of 柑縣台美公民協會 會長 (陳立明、黃河芬、許新民) under whom the 柑縣 TACS 台美人社區獎學金 was awarded annually each June to one Taiwanese-American graduate of each of ten nearby high schools, 2005–2014 — a scholarship funded almost entirely by the Chengs' anonymous donations ([[articles/taiwanjustice-net/2026/20260121010227_斯人已逝_其德可追-緬懷鄭寶鼎博士-_-林宏容_9907500dda4f33bb|林宏容 via TJJ, 2020-09-30]]).
+
 ## Sources
 - [TAH #1167 encyclopedia: 1167. H. F. Josephine Huang 黃河芬 / 2016/07](https://taiwaneseamericanhistory.org/whos-h-f-josephine-huang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/h-f-josephine-huang/)

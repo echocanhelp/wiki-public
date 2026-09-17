@@ -38,6 +38,10 @@ last_reviewed: 2026-08-17
 - **Daughter:** Danielle
 
 
+## From the record
+
+- 2020-09-30 — 林宏容's memorial essay for 鄭寶鼎博士 (TJJ) records Wang as one of the founding builders of 台美史料中心: he joined the first 籌備會議 at 陳立明博士's home in 2010, and took charge of the centre's audio and audiovisual equipment when Bob Cheng opened the Irvine site in 2014-02 ([[articles/taiwanjustice-net/2026/20260121010227_斯人已逝_其德可追-緬懷鄭寶鼎博士-_-林宏容_9907500dda4f33bb|林宏容 via TJJ, 2020-09-30]]).
+
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/hann-ping-wang/)
 

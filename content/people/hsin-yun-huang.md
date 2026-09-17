@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-16
+last_reviewed: 2026-09-17
 ---
 # HSIN-YUN HUANG (黃心芸)
 
@@ -53,4 +53,4 @@ _No filled family fields on the TAH profile._
 
 - Documented students at existing vault pages: [[people/i-ting-huang|I-Ting Huang]] studied under her at Mannes on an LCU Foundation–sponsored full scholarship (M.M. 2004, P.S.D. 2006); [[people/youming-chen|Youming Chen]] earned his Juilliard master's degree with her.
 - TAH encyclopedia #210's source URL is mislabeled to this entry — noted on [[people/chih-long-hu|Chih-Long Hu]]'s page.
-- 複核（deepen-x 2026-09-15、2026-09-16 兩度；再複核 slice 09162138-23）：corpus re-grep 僅見本人書目記錄 #439、#37（全文未入庫）與 index 條目，無可吸收之社群/回憶錄材料 — SKIP，以既有連結為準。
+- 複核（deepen-x 2026-09-15、2026-09-16 兩度；再複核 slice 09162138-23、09170130-19）：corpus re-grep 僅見本人書目記錄 #439、#37（全文未入庫）與 index 條目，無可吸收之社群/回憶錄材料 — SKIP，以既有連結為準。
