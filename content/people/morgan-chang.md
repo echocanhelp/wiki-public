@@ -64,3 +64,7 @@ Accomplishment
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+## From the record
+
+- 2024-06-08 — 慈林教育基金會舉辦「撕開黑幕的光：海內外人權救援暨北美台灣之音聯展」（至年底），其中「台灣之音—在縫隙裡聽見自由」單元向1977年由張富雄、楊宜宜夫妻在紐約以電話答錄系統創立的「台灣之音 The Voice of Taiwan」致敬（[[articles/taiwanjustice-net/2025/20250814164746_海內外人權救援聯展-慈林教育基金會登場_向北美_c082b03671e7c8ee|TJJ, 2024-06-08]]）。

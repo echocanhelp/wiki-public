@@ -69,3 +69,7 @@ Facts absorbed from the TAH encyclopedia entries already cited on this page:
 - The memoir [[works/taiwaneseamericanhistory-org/ourjourneys09|Our Journeys #9]] records that in 1983, then working in real estate as 張楊宜宜, she was entrusted with full planning of the purchase of the Taiwanese American House (台灣會館) and presented the purchase proposals at the fundraising dinner.
 - [[works/taiwaneseamericanhistory-org/ourjourneys2|Our Journeys #2]] cites the couple's founding of the New York 「台灣之音」 hot line and corrects its founding date relative to the 1978 US–Taiwan severance (the hotline had already been broadcasting a year and 8 months by then).
 - Bibliographic records held in the vault: [[works/taiwaneseamericanhistory-org/197-eileen-chang|TAH #197]], [[works/taiwaneseamericanhistory-org/whos-who-2202-eileen-chang|TAH #2202]], [[works/taiwaneseamericanhistory-org/218-voice-of-taiwan-e5-8f-b0-e7-81-a3-e4-b9-8b-e9-9f-b3-first-hot-line-1977|TAH #218: Voice of Taiwan first hot line, 1977]].
+
+## From the record
+
+- 2024-06-08 — 慈林教育基金會「撕開黑幕的光：海內外人權救援暨北美台灣之音聯展」設「台灣之音—在縫隙裡聽見自由」單元，向1977年由張富雄、楊宜宜夫妻在紐約以電話答錄系統創立的「台灣之音 The Voice of Taiwan」致敬（[[articles/taiwanjustice-net/2025/20250814164746_海內外人權救援聯展-慈林教育基金會登場_向北美_c082b03671e7c8ee|TJJ, 2024-06-08]]）。

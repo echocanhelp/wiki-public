@@ -47,3 +47,7 @@ M.S., Aerospace Engineering; Ph.D. Course Program
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+## From the record
+
+- 2021-02-28 — 台美史料中心3月通訊刊出柯金寅撰〈緬懷楊教授國雄兄〉：楊國雄2021年元旦逝世於紐澤西州蒙特克萊爾，享壽八十三；2月5日蒙特克萊爾州立大學舉辦線上追思會（[[articles/taiwanjustice-net/2021/20210419132127_2021_02_28_march-2021-newsletter-t-a-archives-台美史料中心_0832558e3b4e5ac7|TJJ, 2021-02-28]]；同文另存 [[articles/taiwanjustice-net/2026/20260208202549_march-2021-newsletter-t-a-archives-台美史料中心_b7327dcf888cee82|2026-02-08 快照]]）。
