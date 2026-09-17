@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-17
 ---
 # Kris Hsu (徐謙讓)
 
@@ -37,6 +37,10 @@ _No filled family fields on the TAH profile._
 - [TAH #2157 encyclopedia: 2157. Kris Hsu  徐謙讓](https://taiwaneseamericanhistory.org/whos-who-2157-kris-hsu/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/kris-hsu/)
 
+
+## From the record
+
+- 約2019 — 信雅伉儷之友人Kris徐謙讓來訪，見其五十年33轉唱片與CD收藏後允代探詢返台捐贈方案，促成全數捐贈台南市許石音樂圖書館（2021-10-15啟用）—— [[articles/taiwanjustice-net/2021/20211207112750_2021_10_16_週末漫談音樂-88_信雅古典音樂珍藏_啟用儀_77b0891ec24689f9|TJJ 週末漫談音樂(88), 2021-10-16]]。
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

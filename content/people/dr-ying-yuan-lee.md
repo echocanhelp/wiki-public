@@ -43,3 +43,5 @@ last_reviewed: 2026-09-17
 ## From the record
 
 - 2021-11 — Died after illness; per Taiwan Justice coverage his 家祭 was set for 11-30 with 植存 (Buddhist natural burial) at 法鼓山 on 12-02, and NATPA president 鄭麗伶 led a memorial 「哲人日已遠：敬弔李應元博士」 ([[articles/taiwanjustice-net/2022/20220701171700_tag_李應元_23924f7ad0d93713|TJJ tag page, archived 2022-07-01]]).
+
+- 2021 — 逝世後 NATPA 發表弔文〈哲人日已遠：敬弔李應元博士〉（鄭麗伶會長暨全體理事署名），見台灣公義報「台美人台加人」分類（2025-04-30 存檔）—— [[articles/taiwanjustice-net/2025/20250430202458_category_taiwaneseamerican_a75a6e8c12e18729|TJJ 台美人台加人存檔頁]]。

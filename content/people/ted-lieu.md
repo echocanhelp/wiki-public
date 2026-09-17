@@ -54,6 +54,10 @@ The corpus documents Lieu's standing within the Taiwanese American community in 
 - [TAH #156 encyclopedia: 156. Ted Lieu 劉雲平](https://taiwaneseamericanhistory.org/whos-who-156-ted-lieu/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/ted-lieu/)
 
+
+## From the record
+
+- 2016-06-15 — VOA 報導民主黨籍台裔眾議員劉雲平晉陞美空軍上校，收錄於台灣公義報「台美人台加人」分類（2024-02-21 存檔）—— [[articles/taiwanjustice-net/2024/20240221121052_root_c6f9dbff48b39366|TJJ 台美人台加人存檔頁]]。
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

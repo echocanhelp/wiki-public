@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-17
 ---
 # Bi-khim Hsiao (蕭美琴)
 
@@ -41,6 +41,10 @@ _No filled family fields on the TAH profile._
 - [TAH #757 encyclopedia: 757. Bi-khim Hsiao 蕭美琴/2016/01](https://taiwaneseamericanhistory.org/whos-who-757-bi-khim-hsiao/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/bi-khim-hsiao/)
 
+
+## From the record
+
+- 2020-11-05 — 美國大選膠著時表示「無論誰勝選，台美關係將持續深化」，見台灣公義報「台美人台加人」分類（2025-02-16 存檔）—— [[articles/taiwanjustice-net/2025/20250216000009_category_taiwaneseamerican_page_2_3be67f6e82d34da7|TJJ 台美人台加人存檔頁2]]。
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-14
+last_reviewed: 2026-09-17
 ---
 # Prof. Ming Liang Lee (李明亮)
 
@@ -77,6 +77,10 @@ TAH records held in this vault:
 - [TAH #656 encyclopedia: 656. Ming Liang Lee 李明亮 /2015/10](https://taiwaneseamericanhistory.org/656-ming-liang-lee-%e6%9d%8e%e6%98%8e%e4%ba%ae-201510/)
 - [TAH Who's Who](https://taiwaneseamericanhistory.org/person/ming-liang-lee/)
 
+
+## From the record
+
+- 2021-10-15 — 從台北專程赴台南，代表信雅、信惠伉儷出席台南市許石音樂圖書館「信雅古典音樂珍藏」啟用儀式（伉儷因COVID-19無法返台，以視訊連線參加；致詞全文刊於2021-10-16）—— [[articles/taiwanjustice-net/2021/20211207112750_2021_10_16_週末漫談音樂-88_信雅古典音樂珍藏_啟用儀_77b0891ec24689f9|TJJ 週末漫談音樂(88), 2021-10-16]]。
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[organizations/taiwanese-american-historical-society||TAH 台美史料協會]]

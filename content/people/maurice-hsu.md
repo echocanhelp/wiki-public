@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-17
 ---
 # Maurice Hsu (許盛男醫師)
 
@@ -39,6 +39,10 @@ last_reviewed: 2026-08-17
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/maurice-hsu/)
 
+
+## From the record
+
+- 2016-11-16 — 於長青教室演講「台灣話的源流」，聽眾心得報告見台灣公義報「台美人台加人」分類存檔紀錄（2024-02-21 存檔）—— [[articles/taiwanjustice-net/2024/20240221121052_root_c6f9dbff48b39366|TJJ 台美人台加人存檔頁]]。
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

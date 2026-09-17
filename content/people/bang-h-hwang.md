@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-16
+last_reviewed: 2026-09-17
 ---
 # Bang H. Hwang (黃邦雄)
 
@@ -59,6 +59,10 @@ _No filled family fields on the TAH profile._
 - [TAH #834 encyclopedia: 834. Bang H. Hwang 黃邦雄 / 02/2016](https://taiwaneseamericanhistory.org/whos-bang-h-hwang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/bang-h-hwang/)
 
+
+## From the record
+
+- 2021-10-09 — 黃邦雄醫師撰稿〈人類乳突病毒與疫苗的認識[影]〉刊於台灣公義報「台美人台加人」（2025-04-30 存檔分類頁）—— [[articles/taiwanjustice-net/2025/20250430202458_category_taiwaneseamerican_a75a6e8c12e18729|TJJ 台美人台加人存檔頁]]。
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
