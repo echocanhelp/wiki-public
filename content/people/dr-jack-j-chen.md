@@ -7,8 +7,8 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-16
-resweep: deepen-x-09160400-21
+last_reviewed: 2026-09-17
+resweep: deepen-x-09170130-1
 ---
 # Dr. Jack J. Chen (陳宏傑教授)
 
@@ -65,3 +65,6 @@ resweep: deepen-x-09160400-21
 - Corpus re-grep 2026-09-16 (slice 09160700-11): hit set against content/works + content/articles unchanged from prior passes — every hit is a page already linked/absorbed on this page (band B bibliography + memoir/community material above). Nothing new absorbable; no new conflicts. SKIP-no-new-material.
 - Corpus re-grep 2026-09-16 (slice 09162138-6): hit set again unchanged — only own bibliography pages [[works/taiwaneseamericanhistory-org/53015|#217]], [[works/taiwaneseamericanhistory-org/whos-who-642-jack-j-chen|#642]], [[works/taiwaneseamericanhistory-org/862-parkinsons-disease-jack-j-chen-199710life-e7-94-9f-e6-b4-bb|#862]] + works/index rows. SKIP-no-new-material; no conflicts to HOLD.
 - Corpus re-grep 2026-09-16 (slice 09162200-4): hit set unchanged — own bibliography pages #217/#642/#862 + works/index only, all already linked. SKIP — no new absorbable material.
+
+## Corpus re-grep (slice 09170130-1)
+- 2026-09-17: re-grep 陳宏傑 / Jack J. Chen — new bibliography hits beyond prior passes: [[works/taiwaneseamericanhistory-org/whos-who-2182-jack-chen|TAH #2182 Jack Chen (2019-05-04)]], [[works/taiwaneseamericanhistory-org/ota-272|TAH OTA-272 Jack Chen (2019-03-26)]], [[works/taiwaneseamericanhistory-org/678-team-sea-to-see-launch-day-jack-chen-03-2019|TAH #678 Team Sea to See – Launch Day/Jack Chen (2019-03-25)]]. All band B, bibliographic record only, no body text — plausibly the community-activity/OTA persona rather than the neurology professor, but no corpus text confirms identity. **HOLD: identity of the 2019 Jack Chen records (#2182/OTA-272/#678) vs the professor unresolved — recorded, not merged.** No memoir material; no new absorbable community facts.

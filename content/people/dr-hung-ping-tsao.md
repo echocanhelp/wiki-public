@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-16
+last_reviewed: 2026-09-17
 ---
 # Dr. Hung-ping Tsao (曹恆平博士)
 
@@ -62,3 +62,4 @@ Tsao is a recurring author in the TAH publications corpus — an applied-mathema
 - 語料庫再扫描（2026-09-16，deepen-x slice 09160700-9）：re-grep 命中集合再次相同（本人 5 部著作書目頁 + Who's Who #197 + works/index），無他人回憶錄提及；SKIP — 無新可吸收事實。
 - 語料庫再扫描（2026-09-16，deepen-x slice 09162138-4）：re-grep 命中集合再次相同（本人 5 部著作書目頁 + Who's Who #197），無他人回憶錄提及；SKIP — 無新可吸收事實。
 - Corpus re-grep 2026-09-16 (slice 09162200-4): hit set again identical — own 5 bibliography work pages + Whos-Who #197, all already wikilinked above. SKIP — no new absorbable material.
+- Corpus re-grep 2026-09-17 (slice 09170130-1): hit set again identical (own 5 bibliography pages + Whos-Who #197 + works/index), no memoir mentions by others. SKIP — 無新可吸收事實。

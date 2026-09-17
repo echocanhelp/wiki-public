@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-16
+last_reviewed: 2026-09-17
 ---
 # Dr. David Ho (何大一醫師)
 
@@ -65,3 +65,6 @@ Accomplishment
 
 ## Corpus re-grep (slice 09162138-5)
 - 2026-09-16: re-grep 何大一 / David Ho — hit set unchanged (#118、#196、#228、#32、#1892 HOLD、works/index), plus one false positive in a 2025-04 Taiwan Justice article about a Jeff Koons-class oil-painting auction: the substring "David Ho" matched *David Hockney*, not this person — no fact to absorb, no new HOLD. **SKIP-with-reason.**
+
+## Corpus re-grep (slice 09170130-1)
+- 2026-09-17: re-grep 何大一 / David Ho — hit set unchanged: own already-linked TAH records (#118、#196、#228、#32), the HOLD-flagged name-collision [[works/taiwaneseamericanhistory-org/whos-who-1892-david-hong|#1892 洪德生 (different person)]], works/index rows, and the known David Hockney false positive in the 2025-04 Taiwan Justice auction article. No new community/corpus facts absorbable. **SKIP-with-reason**; HOLD (David Hong collision) still stands.
