@@ -1,0 +1,4 @@
+organizations/taiwanese-american-science-and-technology-association-tasta.md
+people/fong-baatz.md
+people/chen-ho-wu.md
+people/bob-lin.md

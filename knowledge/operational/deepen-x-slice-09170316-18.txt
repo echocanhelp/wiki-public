@@ -1,0 +1,4 @@
+organizations/l-a-study-group.md
+organizations/tacl-toastmaster-club.md
+people/li-shan-chang.md
+people/dr-m-y-chou.md

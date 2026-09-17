@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "last_run": "self-heal-verify",
-  "last_run_date": "2026-09-16",
+  "last_run": "slug-audit",
+  "last_run_date": "2026-09-17",
   "pages_audited": 2864,
   "issues_found": 27483,
   "issue_history": [
@@ -1146,6 +1146,25 @@
       "cross_refs": 0,
       "prev_total": 27483,
       "delta": -15962
+    },
+    {
+      "run_date": "2026-09-17",
+      "total_issues": 8840,
+      "fixable": 8809,
+      "issue_types": {
+        "wikilink_md": 8808,
+        "missing_field": 20,
+        "missing_frontmatter": 10,
+        "redirect_missing_target": 1,
+        "chinese_name_mismatch": 1
+      }
+    },
+    {
+      "run_date": "2026-09-17",
+      "total_issues": 2,
+      "duplicates": 0,
+      "stale_redirects": 0,
+      "name_mismatches": 2
     }
   ],
   "resolved_issues": []

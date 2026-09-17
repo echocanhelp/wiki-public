@@ -1,11 +1,21 @@
 {
-  "at": "2026-09-15T14:00:17Z",
+  "at": "2026-09-17T11:45:47Z",
   "cutoff": "2026-08-21T19:22:14Z",
   "ok": true,
-  "visits_since_cutoff": 33,
-  "yesterday_pdt": "2026-09-14",
-  "yesterday_visits": 4,
+  "visits_since_cutoff": 46,
+  "yesterday_pdt": "2026-09-16",
+  "yesterday_visits": 7,
   "top": [
+    {
+      "count": 8,
+      "path": "/wiki-public/people/gwhyneth-chen",
+      "title": "Gwhyneth Chen (\u9673\u6bd3\u8944)"
+    },
+    {
+      "count": 8,
+      "path": "/wiki-public/people/albert-zh-sku-b-publisher-review",
+      "title": "Not Found"
+    },
     {
       "count": 5,
       "path": "/wiki-public/people/lester-tsai",
@@ -20,16 +30,6 @@
       "count": 4,
       "path": "/wiki-public",
       "title": "Echopedia"
-    },
-    {
-      "count": 3,
-      "path": "/wiki-public/people/gwhyneth-chen",
-      "title": "Gwhyneth Chen (\u9673\u6bd3\u8944)"
-    },
-    {
-      "count": 3,
-      "path": "/wiki-public/people/albert-zh-sku-b-publisher-review",
-      "title": "Not Found"
     }
   ],
   "error": null

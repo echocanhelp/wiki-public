@@ -1,54 +1,10 @@
 {
-  "date": "2026-09-16",
+  "date": "2026-09-17",
   "standards_version": 10,
   "total_pages_scanned": 2898,
-  "pages_with_findings": 53,
-  "auto_queued": 20,
+  "pages_with_findings": 57,
+  "auto_queued": 21,
   "queue": [
-    {
-      "path": "events/sc-taiwancenter-org-event-2026-membership.md",
-      "findings": [
-        "DESC_NO_TITLE_MENTION",
-        "LINKS_NO_RELATED"
-      ],
-      "priority": "medium",
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol",
-        "Fix ONLY listed findings — no inventing biography",
-        "Update last_reviewed after fixes",
-        "Commit only (no publish)"
-      ]
-    },
-    {
-      "path": "organizations/evergreen-class-by-irvine-taiwanese-presbyterian-church-laguna-hills-ca.md",
-      "findings": [
-        "STRUCT_NO_HISTORY",
-        "READABILITY_LONG_SENTENCES_32wps",
-        "READABILITY_MANY_LONG_SENTENCES_4"
-      ],
-      "priority": "medium",
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol",
-        "Fix ONLY listed findings — no inventing biography",
-        "Update last_reviewed after fixes",
-        "Commit only (no publish)"
-      ]
-    },
-    {
-      "path": "organizations/golden-eagle-institute.md",
-      "findings": [
-        "STRUCT_NO_HISTORY",
-        "READABILITY_LONG_SENTENCES_36wps",
-        "READABILITY_MANY_LONG_SENTENCES_4"
-      ],
-      "priority": "medium",
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol",
-        "Fix ONLY listed findings — no inventing biography",
-        "Update last_reviewed after fixes",
-        "Commit only (no publish)"
-      ]
-    },
     {
       "path": "organizations/north-america-pastel-artist-association.md",
       "findings": [
@@ -69,6 +25,21 @@
       "findings": [
         "STRUCT_NO_HISTORY",
         "READABILITY_LONG_SENTENCES_30wps",
+        "READABILITY_MANY_LONG_SENTENCES_4"
+      ],
+      "priority": "medium",
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol",
+        "Fix ONLY listed findings — no inventing biography",
+        "Update last_reviewed after fixes",
+        "Commit only (no publish)"
+      ]
+    },
+    {
+      "path": "organizations/taiwanese-american-religious-study-association-southern-california-tarsa-sc.md",
+      "findings": [
+        "STRUCT_NO_HISTORY",
+        "READABILITY_LONG_SENTENCES_40wps",
         "READABILITY_MANY_LONG_SENTENCES_4"
       ],
       "priority": "medium",
@@ -124,6 +95,20 @@
       ]
     },
     {
+      "path": "people/dr-evan-ling.md",
+      "findings": [
+        "DESC_NO_TITLE_MENTION",
+        "READABILITY_MANY_LONG_SENTENCES_6"
+      ],
+      "priority": "medium",
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol",
+        "Fix ONLY listed findings — no inventing biography",
+        "Update last_reviewed after fixes",
+        "Commit only (no publish)"
+      ]
+    },
+    {
       "path": "people/dr-peter-huang.md",
       "findings": [
         "DESC_NO_TITLE_MENTION",
@@ -143,6 +128,20 @@
         "LINKS_NO_RELATED",
         "STRUCT_NO_RELATED",
         "READABILITY_MANY_LONG_SENTENCES_11"
+      ],
+      "priority": "medium",
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol",
+        "Fix ONLY listed findings — no inventing biography",
+        "Update last_reviewed after fixes",
+        "Commit only (no publish)"
+      ]
+    },
+    {
+      "path": "people/jeffrey-tsung.md",
+      "findings": [
+        "DESC_NO_TITLE_MENTION",
+        "LINKS_HIGH_DENSITY"
       ],
       "priority": "medium",
       "instructions": [
@@ -199,6 +198,20 @@
       "findings": [
         "DESC_NO_TITLE_MENTION",
         "LINKS_HIGH_DENSITY"
+      ],
+      "priority": "medium",
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol",
+        "Fix ONLY listed findings — no inventing biography",
+        "Update last_reviewed after fixes",
+        "Commit only (no publish)"
+      ]
+    },
+    {
+      "path": "people/william-h-lee.md",
+      "findings": [
+        "DESC_NO_TITLE_MENTION",
+        "READABILITY_MANY_LONG_SENTENCES_5"
       ],
       "priority": "medium",
       "instructions": [
@@ -299,6 +312,6 @@
       ]
     }
   ],
-  "suppressed_findings": 1868,
-  "fp_history_entries": 2010
+  "suppressed_findings": 1869,
+  "fp_history_entries": 2019
 }

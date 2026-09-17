@@ -1,0 +1,4 @@
+organizations/lapc-music-foundation.md
+people/li-ying-chang.md
+organizations/north-shore-club.md
+people/debbie-carlson.md

@@ -1,4 +1,4 @@
-TAHS · Echopedia morning brief — 2026-09-15
+TAHS · Echopedia morning brief — 2026-09-17
 1 NEED YOU item(s) below; the rest is auto-handled.
 
 🔴 NEED YOU (your judgment only)
@@ -31,7 +31,7 @@ TAHS · Echopedia morning brief — 2026-09-15
 🟡 QUEUE 11 pages WIP/incomplete
 
 🟡 QUEUE / link suggestions (disk)
-ℹ️  INFO  top tips below · full pairs on disk (~10216 scored)
+ℹ️  INFO  top tips below · full pairs on disk (~10575 scored)
 
 🟡 QUEUE / optional link tips (≤5, not NEED YOU)
 🟡 QUEUE 1. Link tip: people/wei-ming-hwang.md ↔ people/zoe-huang.md
@@ -41,11 +41,11 @@ TAHS · Echopedia morning brief — 2026-09-15
 🟡 QUEUE 5. Link tip: organizations/aj-wang-foundation-scholarship-fund.md ↔ organizations/american-citizens-of-taiwan-origin-acto.md
 
 ℹ️ SITE (wiki visits; operator self-traffic excluded)
-ℹ️  INFO  wiki 33 visits since cutoff · yday 2026-09-14 = 4 · /people/lester-tsai 5, /people/albert-chapter1-zh-hsiaochen-full-review 4, / 4
+ℹ️  INFO  wiki 46 visits since cutoff · yday 2026-09-16 = 7 · /people/gwhyneth-chen 8, /people/albert-zh-sku-b-publisher-review 8, /people/lester-tsai 5
 
 ✅ AUTO (overnight — evidence)
-✅ AUTO related-pages 1
-✅ AUTO analyzer scanned 2898 queued 7 suppressed 1887
-🟡 QUEUE janitor HOLD leftover 40
-🟡 QUEUE kanban blocked 12
+✅ AUTO analyzer scanned 2898 queued 21 suppressed 1869
+🟡 QUEUE janitor HOLD leftover 38
+🟡 QUEUE kanban blocked 29
+🔴 NEED YOU cron fail: echopedia-nightly-audit
 ℹ️  INFO  only 🔴 NEED YOU requires your reply

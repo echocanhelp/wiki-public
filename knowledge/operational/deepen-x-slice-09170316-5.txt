@@ -1,0 +1,4 @@
+organizations/taiwanese-american-council.md
+organizations/friends-of-taiwan.md
+organizations/taiwan-hotel-motel-association-of-north-america.md
+people/ming-shing-lee.md

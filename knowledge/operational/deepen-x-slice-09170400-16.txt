@@ -1,0 +1,4 @@
+organizations/living-well-club-of-new-jersey.md
+organizations/aj-wang-foundation-scholarship-fund.md
+people/j-y-tsai.md
+people/gene-cho.md

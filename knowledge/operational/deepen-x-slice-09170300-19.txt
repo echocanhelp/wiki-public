@@ -1,0 +1,4 @@
+organizations/career-taiwan-usa-association.md
+people/rev-c-l-tong.md
+people/guo-dongxu.md
+people/chee-hway-tsai.md

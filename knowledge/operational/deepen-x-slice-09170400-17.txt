@@ -1,0 +1,4 @@
+people/chiung-hsiung-ou.md
+people/rev-thomas-h-chen.md
+people/prof-chung-cheng-hsieh.md
+people/scott-lee.md

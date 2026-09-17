@@ -1,0 +1,4 @@
+organizations/sogetsu-buxmont-study-group.md
+people/rev-prof-joseph-wang.md
+people/prof-harrison-cheng.md
+people/dr-jheng-yan.md

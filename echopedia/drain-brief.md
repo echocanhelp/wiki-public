@@ -1,4 +1,4 @@
-## Queue drain — 2026-09-16
+## Queue drain — 2026-09-17
 - Items: **40**
 
 - `people/chen-po-kong.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
@@ -22,7 +22,6 @@
 - `people/prof-yang-en-cheng.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 - `people/milo-thornberry.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 - `people/samuel-wu.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
-- `people/rev-james-chang.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 - `people/felix-liu.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 - `people/rev-h-d-chen.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 - `people/rong-hu-lu.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
@@ -40,6 +39,7 @@
 - `people/lin-baohua.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 - `people/yang-yueqing.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 - `people/guan-renjian.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
-- `events/ev-lunar-new-year-banquet.md`: add last_reviewed, WROTE
+- `events/ev-winter-reunion.md`: add last_reviewed, WROTE
+- `events/ev-s-30th-anniversary.md`: add last_reviewed, WROTE
 
 Fail-closed first-mention is AUTO (janitor). HOLD leftover ≠ human body-link batch.

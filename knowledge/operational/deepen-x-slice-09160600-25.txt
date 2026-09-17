@@ -1,0 +1,4 @@
+people/prof-ruey-s-tsay.md
+people/winnie-lan-in-yang.md
+people/prof-teresa-h-meng.md
+people/prof-bor-jang-chang.md

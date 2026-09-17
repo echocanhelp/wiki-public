@@ -1,0 +1,4 @@
+people/james-david-king.md
+organizations/taiwan-photography-association-in-greater-new-york-tpagny.md
+people/dr-jack-j-chen.md
+people/emily-muramoto.md

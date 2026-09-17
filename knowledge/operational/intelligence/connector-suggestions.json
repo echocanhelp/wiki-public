@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-15T04:45:37.578479",
+  "generated_at": "2026-09-17T04:45:46.285736",
   "pages_scanned": 2904,
   "capped": true,
   "cap_top_n": 80,
   "summary": {
-    "co_citation_count": 2372,
-    "co_mention_count": 7844,
+    "co_citation_count": 2602,
+    "co_mention_count": 7973,
     "shared_tags_count": 0,
     "orphan_folder_count": 3,
     "kept_co_citation": 80,
@@ -97,6 +97,24 @@
       },
       {
         "type": "CO-CITATION",
+        "page1": "organizations/asian-senior-concerns-foundation.md",
+        "page2": "organizations/taiwanese-american-industrial-technology-association-taita-east-coast.md",
+        "shared_target": "works/taiwaneseamericanhistory-org/happy-club-nnj",
+        "page1_title": "Asian Senior Concerns Foundation (亞裔銀髮族關懷基金會)",
+        "page2_title": "Taiwanese American Industrial Technology Association TAITA-East Coast (台美產業科技協會美東分會)",
+        "shared_targets_count": 3
+      },
+      {
+        "type": "CO-CITATION",
+        "page1": "organizations/bliss-wisdom-foundation-of-north-america.md",
+        "page2": "people/j-s-liu.md",
+        "shared_target": "works/taiwaneseamericanhistory-org/los-angeles-melody-chorus",
+        "page1_title": "Bliss & Wisdom Foundation of North America (北美福智基金會)",
+        "page2_title": "J. S. Liu (劉佳欣)",
+        "shared_targets_count": 2
+      },
+      {
+        "type": "CO-CITATION",
         "page1": "organizations/boston-taiwanese-christian-church.md",
         "page2": "organizations/elder-john-lai-archives.md",
         "shared_target": "people/john-lai",
@@ -148,6 +166,33 @@
         "page1_title": "Boston Taiwanese Christian Church (波士頓台灣基督教會)",
         "page2_title": "George Leslie Mackay (馬偕)",
         "shared_targets_count": 17
+      },
+      {
+        "type": "CO-CITATION",
+        "page1": "organizations/career-taiwan-usa-association.md",
+        "page2": "organizations/taiwanese-american-scholarship-fund.md",
+        "shared_target": "articles/taiwanjustice-net/2020/20201126153300_2020_06_23_大洛杉磯台灣會館_疫情擋不住人情_濟困扶危挺_c05e2d53013fcd15",
+        "page1_title": "Career Taiwan USA Association",
+        "page2_title": "Taiwanese American Scholarship Fund (台美獎學金基金會)",
+        "shared_targets_count": 6
+      },
+      {
+        "type": "CO-CITATION",
+        "page1": "organizations/career-taiwan-usa-association.md",
+        "page2": "people/alan-thian.md",
+        "shared_target": "articles/taiwanjustice-net/2020/20201126153300_2020_06_23_大洛杉磯台灣會館_疫情擋不住人情_濟困扶危挺_c05e2d53013fcd15",
+        "page1_title": "Career Taiwan USA Association",
+        "page2_title": "Alan Thian (田詒鴻)",
+        "shared_targets_count": 6
+      },
+      {
+        "type": "CO-CITATION",
+        "page1": "organizations/career-taiwan-usa-association.md",
+        "page2": "people/dr-long-song-simon-lin.md",
+        "shared_target": "articles/taiwanjustice-net/2020/20201126153300_2020_06_23_大洛杉磯台灣會館_疫情擋不住人情_濟困扶危挺_c05e2d53013fcd15",
+        "page1_title": "Career Taiwan USA Association",
+        "page2_title": "Dr. Long Song Simon Lin (林榮松醫師)",
+        "shared_targets_count": 6
       },
       {
         "type": "CO-CITATION",
@@ -238,6 +283,78 @@
         "page1_title": "Chunglun Presbyterian Church (中崙教會)",
         "page2_title": "Rev. Pinghsi Liu (劉炳熹)",
         "shared_targets_count": 13
+      },
+      {
+        "type": "CO-CITATION",
+        "page1": "organizations/coalition-of-taiwan-independences.md",
+        "page2": "people/dr-ching-c-shir.md",
+        "shared_target": "works/taiwaneseamericanhistory-org/ourjourneys37",
+        "page1_title": "Coalition of Taiwan Independence’s (台灣建國聯合陣線)",
+        "page2_title": "Dr. Ching C. Shir (石清正博士)",
+        "shared_targets_count": 9
+      },
+      {
+        "type": "CO-CITATION",
+        "page1": "organizations/coalition-of-taiwan-independences.md",
+        "page2": "people/dr-shinn-sheng-chang.md",
+        "shared_target": "works/taiwaneseamericanhistory-org/ourjourneys37",
+        "page1_title": "Coalition of Taiwan Independence’s (台灣建國聯合陣線)",
+        "page2_title": "Dr. Shinn-Sheng Chang (張信行醫師)",
+        "shared_targets_count": 9
+      },
+      {
+        "type": "CO-CITATION",
+        "page1": "organizations/coalition-of-taiwan-independences.md",
+        "page2": "people/dr-tu-chen.md",
+        "shared_target": "works/taiwaneseamericanhistory-org/ourjourneys37",
+        "page1_title": "Coalition of Taiwan Independence’s (台灣建國聯合陣線)",
+        "page2_title": "Dr. Tu Chen (陳都博士)",
+        "shared_targets_count": 9
+      },
+      {
+        "type": "CO-CITATION",
+        "page1": "organizations/coalition-of-taiwan-independences.md",
+        "page2": "people/david-weng.md",
+        "shared_target": "works/taiwaneseamericanhistory-org/ourjourneys38",
+        "page1_title": "Coalition of Taiwan Independence’s (台灣建國聯合陣線)",
+        "page2_title": "David Weng (翁嘉盛)",
+        "shared_targets_count": 11
+      },
+      {
+        "type": "CO-CITATION",
+        "page1": "organizations/coalition-of-taiwan-independences.md",
+        "page2": "people/dr-alex-yang.md",
+        "shared_target": "works/taiwaneseamericanhistory-org/ourjourneys38",
+        "page1_title": "Coalition of Taiwan Independence’s (台灣建國聯合陣線)",
+        "page2_title": "Dr. Alex Yang (楊青博士)",
+        "shared_targets_count": 11
+      },
+      {
+        "type": "CO-CITATION",
+        "page1": "organizations/coalition-of-taiwan-independences.md",
+        "page2": "people/ahhee-hsu.md",
+        "shared_target": "works/taiwaneseamericanhistory-org/ourjourneys2",
+        "page1_title": "Coalition of Taiwan Independence’s (台灣建國聯合陣線)",
+        "page2_title": "Ahhee Hsu (許丕龍)",
+        "shared_targets_count": 4
+      },
+      {
+        "type": "CO-CITATION",
+        "page1": "organizations/coalition-of-taiwan-independences.md",
+        "page2": "people/eileen-chang.md",
+        "shared_target": "works/taiwaneseamericanhistory-org/ourjourneys2",
+        "page1_title": "Coalition of Taiwan Independence’s (台灣建國聯合陣線)",
+        "page2_title": "Eileen Chang (楊宜宜)",
+        "shared_targets_count": 4
+      },
+      {
+        "type": "CO-CITATION",
+        "page1": "organizations/coalition-of-taiwan-independences.md",
+        "page2": "people/vera-hui-pin-hsu.md",
+        "shared_target": "works/taiwaneseamericanhistory-org/ourjourneys2",
+        "page1_title": "Coalition of Taiwan Independence’s (台灣建國聯合陣線)",
+        "page2_title": "Vera Hui-pin Hsu (許惠品)",
+        "shared_targets_count": 4
       },
       {
         "type": "CO-CITATION",
@@ -457,6 +574,24 @@
       },
       {
         "type": "CO-CITATION",
+        "page1": "organizations/east-bay-taiwanese-americans-community-service-center-ebtacsc.md",
+        "page2": "people/prof-tender-lin.md",
+        "shared_target": "works/taiwaneseamericanhistory-org/senior-ebtacsc",
+        "page1_title": "East Bay Taiwanese Americans Community Service Center EBTACSC (東灣台美人社區服務中心)",
+        "page2_title": "Prof. Tender Lin (林天德教授)",
+        "shared_targets_count": 2
+      },
+      {
+        "type": "CO-CITATION",
+        "page1": "organizations/east-bay-taiwanese-americans-community-service-center-ebtacsc.md",
+        "page2": "sources/taiwaneseamericanhistory-org.md",
+        "shared_target": "people/prof-tender-lin",
+        "page1_title": "East Bay Taiwanese Americans Community Service Center EBTACSC (東灣台美人社區服務中心)",
+        "page2_title": "taiwaneseamericanhistory.org (TAH Foundation)",
+        "shared_targets_count": 2
+      },
+      {
+        "type": "CO-CITATION",
         "page1": "organizations/elder-john-lai-archives.md",
         "page2": "organizations/good-shepherd-taiwanese-presbyterian-church.md",
         "shared_target": "people/james-laidlaw-maxwell",
@@ -529,209 +664,74 @@
       },
       {
         "type": "CO-CITATION",
-        "page1": "organizations/evergreen-senior-university-by-evangelical-formosa-church-of-irvine-esu.md",
-        "page2": "organizations/formosan-presbyterian-church-in-los-angeles.md",
-        "shared_target": "organizations/irvine-taiwanese-presbyterian-church",
-        "page1_title": "Evergreen Senior University by Evangelical Formosa Church of Irvine ESU (愛恩台福基督教會長春大學)",
-        "page2_title": "Formosan Presbyterian Church in Los Angeles (FPCLA)",
-        "shared_targets_count": 57
+        "page1": "organizations/evergreen-class-by-irvine-taiwanese-presbyterian-church-laguna-hills-ca.md",
+        "page2": "people/dr-john-hsu.md",
+        "shared_target": "works/taiwaneseamericanhistory-org/ourjourneys107",
+        "page1_title": "Evergreen Class by Irvine Taiwanese Presbyterian Church ，Laguna Hills, CA (長青教室)",
+        "page2_title": "Dr. John Hsu (徐新宏博士)",
+        "shared_targets_count": 7
       },
       {
         "type": "CO-CITATION",
-        "page1": "organizations/evergreen-senior-university-by-evangelical-formosa-church-of-irvine-esu.md",
-        "page2": "organizations/good-shepherd-taiwanese-presbyterian-church.md",
-        "shared_target": "organizations/irvine-taiwanese-presbyterian-church",
-        "page1_title": "Evergreen Senior University by Evangelical Formosa Church of Irvine ESU (愛恩台福基督教會長春大學)",
-        "page2_title": "Good Shepherd Taiwanese Presbyterian Church",
-        "shared_targets_count": 57
+        "page1": "organizations/evergreen-class-by-irvine-taiwanese-presbyterian-church-laguna-hills-ca.md",
+        "page2": "people/ken-lee.md",
+        "shared_target": "works/taiwaneseamericanhistory-org/ourjourneys107",
+        "page1_title": "Evergreen Class by Irvine Taiwanese Presbyterian Church ，Laguna Hills, CA (長青教室)",
+        "page2_title": "Ken Lee (李彥禎)",
+        "shared_targets_count": 7
       },
       {
         "type": "CO-CITATION",
-        "page1": "organizations/evergreen-senior-university-by-evangelical-formosa-church-of-irvine-esu.md",
-        "page2": "organizations/national-taiwanese-presbyterian-council.md",
-        "shared_target": "organizations/irvine-taiwanese-presbyterian-church",
-        "page1_title": "Evergreen Senior University by Evangelical Formosa Church of Irvine ESU (愛恩台福基督教會長春大學)",
-        "page2_title": "National Taiwanese Presbyterian Council (NTPC)",
-        "shared_targets_count": 57
+        "page1": "organizations/evergreen-class-by-irvine-taiwanese-presbyterian-church-laguna-hills-ca.md",
+        "page2": "people/prof-ju-shey-ho.md",
+        "shared_target": "works/taiwaneseamericanhistory-org/ourjourneys107",
+        "page1_title": "Evergreen Class by Irvine Taiwanese Presbyterian Church ，Laguna Hills, CA (長青教室)",
+        "page2_title": "Prof. Ju-Shey Ho (何汝諧教授)",
+        "shared_targets_count": 7
       },
       {
         "type": "CO-CITATION",
-        "page1": "organizations/evergreen-senior-university-by-evangelical-formosa-church-of-irvine-esu.md",
-        "page2": "sources/taiwaneseamericanhistory-org.md",
-        "shared_target": "organizations/houston-formosan-evergreen-association",
-        "page1_title": "Evergreen Senior University by Evangelical Formosa Church of Irvine ESU (愛恩台福基督教會長春大學)",
-        "page2_title": "taiwaneseamericanhistory.org (TAH Foundation)",
+        "page1": "organizations/evergreen-class-by-irvine-taiwanese-presbyterian-church-laguna-hills-ca.md",
+        "page2": "organizations/houston-formosan-evergreen-association.md",
+        "shared_target": "works/taiwaneseamericanhistory-org/2-houston-formosan-evergreen-association",
+        "page1_title": "Evergreen Class by Irvine Taiwanese Presbyterian Church ，Laguna Hills, CA (長青教室)",
+        "page2_title": "Houston Formosan Evergreen Association (休士頓台灣長春會)",
         "shared_targets_count": 2
       },
       {
         "type": "CO-CITATION",
-        "page1": "organizations/evergreen-senior-university-by-evangelical-formosa-church-of-irvine-esu.md",
-        "page2": "organizations/irvine-taiwanese-presbyterian-church.md",
-        "shared_target": "organizations/evergreen-class-by-irvine-taiwanese-presbyterian-church-laguna-hills-ca",
-        "page1_title": "Evergreen Senior University by Evangelical Formosa Church of Irvine ESU (愛恩台福基督教會長春大學)",
-        "page2_title": "Irvine Taiwanese Presbyterian Church (爾灣台灣基督長老教會 (ITPC))",
-        "shared_targets_count": 6
+        "page1": "organizations/evergreen-class-by-irvine-taiwanese-presbyterian-church-laguna-hills-ca.md",
+        "page2": "people/dr-mike-kuo.md",
+        "shared_target": "works/taiwaneseamericanhistory-org/ourjourneys233-eng",
+        "page1_title": "Evergreen Class by Irvine Taiwanese Presbyterian Church ，Laguna Hills, CA (長青教室)",
+        "page2_title": "Dr. Mike Kuo (郭正光博士)",
+        "shared_targets_count": 8
       },
       {
         "type": "CO-CITATION",
-        "page1": "organizations/evergreen-senior-university-by-evangelical-formosa-church-of-irvine-esu.md",
-        "page2": "people/dr-ching-k-lin.md",
-        "shared_target": "organizations/evergreen-class-by-irvine-taiwanese-presbyterian-church-laguna-hills-ca",
-        "page1_title": "Evergreen Senior University by Evangelical Formosa Church of Irvine ESU (愛恩台福基督教會長春大學)",
-        "page2_title": "Dr. Ching K. Lin (林清貴博士)",
-        "shared_targets_count": 6
+        "page1": "organizations/evergreen-class-by-irvine-taiwanese-presbyterian-church-laguna-hills-ca.md",
+        "page2": "people/dr-ming-cheng-liau.md",
+        "shared_target": "works/taiwaneseamericanhistory-org/ourjourneys233-eng",
+        "page1_title": "Evergreen Class by Irvine Taiwanese Presbyterian Church ，Laguna Hills, CA (長青教室)",
+        "page2_title": "Dr. Ming Cheng Liau (廖明徵博士)",
+        "shared_targets_count": 8
       },
       {
         "type": "CO-CITATION",
-        "page1": "organizations/evergreen-senior-university-by-evangelical-formosa-church-of-irvine-esu.md",
-        "page2": "organizations/taiwan-center.md",
-        "shared_target": "organizations/formosa-senior-association",
-        "page1_title": "Evergreen Senior University by Evangelical Formosa Church of Irvine ESU (愛恩台福基督教會長春大學)",
-        "page2_title": "Taiwan Center Foundation of the Greater Los Angeles (大洛杉磯台灣會館)",
-        "shared_targets_count": 4
-      },
-      {
-        "type": "CO-CITATION",
-        "page1": "organizations/evergreen-senior-university-by-evangelical-formosa-church-of-irvine-esu.md",
-        "page2": "people/zhou-wei-lin.md",
-        "shared_target": "organizations/formosa-senior-association",
-        "page1_title": "Evergreen Senior University by Evangelical Formosa Church of Irvine ESU (愛恩台福基督教會長春大學)",
-        "page2_title": "Zhou Weilin (周威霖)",
-        "shared_targets_count": 4
-      },
-      {
-        "type": "CO-CITATION",
-        "page1": "organizations/taiwan-center.md",
-        "page2": "people/zhou-wei-lin.md",
-        "shared_target": "organizations/formosa-senior-association",
-        "page1_title": "Taiwan Center Foundation of the Greater Los Angeles (大洛杉磯台灣會館)",
-        "page2_title": "Zhou Weilin (周威霖)",
-        "shared_targets_count": 4
-      },
-      {
-        "type": "CO-CITATION",
-        "page1": "organizations/evergreen-senior-university-by-evangelical-formosa-church-of-irvine-esu.md",
-        "page2": "people/dr-goodwin-hon-liu.md",
-        "shared_target": "works/taiwaneseamericanhistory-org/ourjourneys159",
-        "page1_title": "Evergreen Senior University by Evangelical Formosa Church of Irvine ESU (愛恩台福基督教會長春大學)",
-        "page2_title": "Dr. Goodwin Hon Liu (劉弘威博士)",
-        "shared_targets_count": 4
-      },
-      {
-        "type": "CO-CITATION",
-        "page1": "organizations/evergreen-senior-university-by-evangelical-formosa-church-of-irvine-esu.md",
-        "page2": "people/dr-jii-james-shieh.md",
-        "shared_target": "works/taiwaneseamericanhistory-org/ourjourneys159",
-        "page1_title": "Evergreen Senior University by Evangelical Formosa Church of Irvine ESU (愛恩台福基督教會長春大學)",
-        "page2_title": "Dr. Jii James Shieh (謝己博士)",
-        "shared_targets_count": 4
-      },
-      {
-        "type": "CO-CITATION",
-        "page1": "organizations/evergreen-senior-university-by-evangelical-formosa-church-of-irvine-esu.md",
-        "page2": "people/tsu-yi-jay-loo.md",
-        "shared_target": "works/taiwaneseamericanhistory-org/ourjourneys159",
-        "page1_title": "Evergreen Senior University by Evangelical Formosa Church of Irvine ESU (愛恩台福基督教會長春大學)",
-        "page2_title": "Tsu-Yi Jay Loo (盧主義)",
-        "shared_targets_count": 4
-      },
-      {
-        "type": "CO-CITATION",
-        "page1": "organizations/formosan-presbyterian-church-in-los-angeles.md",
-        "page2": "people/albert-s-lai.md",
-        "shared_target": "people/jonah-chang",
-        "page1_title": "Formosan Presbyterian Church in Los Angeles (FPCLA)",
-        "page2_title": "Dr. Albert S. Lai (賴信雄)",
-        "shared_targets_count": 18
-      },
-      {
-        "type": "CO-CITATION",
-        "page1": "organizations/formosan-presbyterian-church-in-los-angeles.md",
-        "page2": "people/c-c-chen.md",
-        "shared_target": "people/jonah-chang",
-        "page1_title": "Formosan Presbyterian Church in Los Angeles (FPCLA)",
-        "page2_title": "Dr. C.C. Chen (陳昭俊)",
-        "shared_targets_count": 18
-      },
-      {
-        "type": "CO-CITATION",
-        "page1": "organizations/formosan-presbyterian-church-in-los-angeles.md",
-        "page2": "people/chaolong-kao.md",
-        "shared_target": "people/jonah-chang",
-        "page1_title": "Formosan Presbyterian Church in Los Angeles (FPCLA)",
-        "page2_title": "Dr. Charles C.L. Kao / Chaolong Kao (高昭龍)",
-        "shared_targets_count": 18
-      },
-      {
-        "type": "CO-CITATION",
-        "page1": "organizations/formosan-presbyterian-church-in-los-angeles.md",
-        "page2": "people/ching-fang-chen.md",
-        "shared_target": "people/c-c-chen",
-        "page1_title": "Formosan Presbyterian Church in Los Angeles (FPCLA)",
-        "page2_title": "Rev. Ching Fang Chen (陳清芳)",
-        "shared_targets_count": 16
-      },
-      {
-        "type": "CO-CITATION",
-        "page1": "organizations/formosan-presbyterian-church-in-los-angeles.md",
-        "page2": "organizations/taiwanjustice-net.md",
-        "shared_target": "people/chen-maoxiong",
-        "page1_title": "Formosan Presbyterian Church in Los Angeles (FPCLA)",
-        "page2_title": "taiwanjustice.net (台灣公義網)",
-        "shared_targets_count": 12
-      },
-      {
-        "type": "CO-CITATION",
-        "page1": "organizations/formosan-presbyterian-church-in-los-angeles.md",
-        "page2": "people/chen-maoxiong.md",
-        "shared_target": "people/chen-maoxiong",
-        "page1_title": "Formosan Presbyterian Church in Los Angeles (FPCLA)",
-        "page2_title": "Chen Mao-xiong (陳茂雄)",
-        "shared_targets_count": 12
-      },
-      {
-        "type": "CO-CITATION",
-        "page1": "organizations/formosan-presbyterian-church-in-los-angeles.md",
-        "page2": "people/chen-po-kong.md",
-        "shared_target": "people/chen-maoxiong",
-        "page1_title": "Formosan Presbyterian Church in Los Angeles (FPCLA)",
-        "page2_title": "chen-po-kong",
-        "shared_targets_count": 12
-      },
-      {
-        "type": "CO-CITATION",
-        "page1": "organizations/formosan-presbyterian-church-in-los-angeles.md",
-        "page2": "people/daniel-kao.md",
-        "shared_target": "people/jang-yen-wu",
-        "page1_title": "Formosan Presbyterian Church in Los Angeles (FPCLA)",
-        "page2_title": "Dr. Daniel Kao (高光民)",
+        "page1": "organizations/evergreen-class-by-irvine-taiwanese-presbyterian-church-laguna-hills-ca.md",
+        "page2": "organizations/tah-org-65f548288a.md",
+        "shared_target": "works/taiwaneseamericanhistory-org/ourjourneys27-eng",
+        "page1_title": "Evergreen Class by Irvine Taiwanese Presbyterian Church ，Laguna Hills, CA (長青教室)",
+        "page2_title": "大紐約區台灣人基督徒長輩會",
         "shared_targets_count": 3
       },
       {
         "type": "CO-CITATION",
-        "page1": "organizations/formosan-presbyterian-church-in-los-angeles.md",
-        "page2": "sources/taiwaneseamericanhistory-org.md",
-        "shared_target": "people/jang-yen-wu",
-        "page1_title": "Formosan Presbyterian Church in Los Angeles (FPCLA)",
-        "page2_title": "taiwaneseamericanhistory.org (TAH Foundation)",
-        "shared_targets_count": 3
-      },
-      {
-        "type": "CO-CITATION",
-        "page1": "people/daniel-kao.md",
-        "page2": "sources/taiwaneseamericanhistory-org.md",
-        "shared_target": "people/jang-yen-wu",
-        "page1_title": "Dr. Daniel Kao (高光民)",
-        "page2_title": "taiwaneseamericanhistory.org (TAH Foundation)",
-        "shared_targets_count": 3
-      },
-      {
-        "type": "CO-CITATION",
-        "page1": "organizations/formosan-presbyterian-church-in-los-angeles.md",
-        "page2": "organizations/irvine-taiwanese-presbyterian-church.md",
-        "shared_target": "people/peter-chen",
-        "page1_title": "Formosan Presbyterian Church in Los Angeles (FPCLA)",
-        "page2_title": "Irvine Taiwanese Presbyterian Church (爾灣台灣基督長老教會 (ITPC))",
+        "page1": "organizations/evergreen-class-by-irvine-taiwanese-presbyterian-church-laguna-hills-ca.md",
+        "page2": "people/lin-jialong.md",
+        "shared_target": "works/taiwaneseamericanhistory-org/ourjourneys27-eng",
+        "page1_title": "Evergreen Class by Irvine Taiwanese Presbyterian Church ，Laguna Hills, CA (長青教室)",
+        "page2_title": "Lin Chia-lung / Lin Jia-long (林佳龍)",
         "shared_targets_count": 3
       }
     ],
@@ -1011,6 +1011,14 @@
       {
         "type": "CO-MENTION",
         "page1": "organizations/bliss-wisdom-foundation-of-north-america.md",
+        "page2": "sources/taiwaneseamericanhistory-org-story-corpus.md",
+        "page1_title": "Bliss & Wisdom Foundation of North America (北美福智基金會)",
+        "page2_title": "taiwaneseamericanhistory.org (TAH Foundation) — Story Corpus",
+        "mention_text": "taiwaneseamericanhistory.org (TAH Foundation) — Story Corpus"
+      },
+      {
+        "type": "CO-MENTION",
+        "page1": "organizations/bliss-wisdom-foundation-of-north-america.md",
         "page2": "sources/taiwaneseamericanhistory-org.md",
         "page1_title": "Bliss & Wisdom Foundation of North America (北美福智基金會)",
         "page2_title": "taiwaneseamericanhistory.org (TAH Foundation)",
@@ -1047,14 +1055,6 @@
         "page1_title": "Boston Taiwanese Biotechnology Association (波士頓台灣人生物科技協會)",
         "page2_title": "taiwaneseamericanhistory.org (TAH Foundation)",
         "mention_text": "taiwaneseamericanhistory.org (TAH Foundation)"
-      },
-      {
-        "type": "CO-MENTION",
-        "page1": "organizations/boston-taiwanese-christian-church.md",
-        "page2": "people/john-lai.md",
-        "page1_title": "Boston Taiwanese Christian Church (波士頓台灣基督教會)",
-        "page2_title": "Elder John Lai (賴永祥)",
-        "mention_text": "Elder John Lai (賴永祥)"
       }
     ],
     "shared_tags": []

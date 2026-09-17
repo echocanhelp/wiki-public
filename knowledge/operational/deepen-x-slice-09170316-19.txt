@@ -1,0 +1,4 @@
+people/dr-joseph-kho.md
+people/meng-chih-chiang.md
+organizations/chinese-christian-church-of-new-jersey.md
+people/prof-hsing-lih-chou.md
