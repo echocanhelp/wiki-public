@@ -29,7 +29,7 @@ Overseas Taiwanese for Democracy (海外台灣青年陣線) is a North American 
 ## Role in the Community
 
 - Per the corpus memoir [[works/taiwaneseamericanhistory-org/our-journeys-373|TAH #373 海外台灣學生運動與太陽花學運後政治]], OTD conferences were the networking hub that connected Taiwanese students studying across the U.S., with organising support from FAPA (Formosan Association for Public Affairs); the same first-hand account situates this student network alongside the New York Cafe Philo scene, hosted by software engineer [[people/hsin-cheng-hsiao|蕭新晟 Hsin-cheng Hsiao]].
-- 楊遠薰's column [[articles/taiwanjustice-net/2021/20211207123518_2017_07_24_海台青與黑客松-_-楊遠薰-2017-07-24_2c9cb76838702dd7|海台青與黑客松]] (taiwanjustice.net, 2017-07-24) is the community's primary account of the founding, based on an interview with member 林子堯 (University of Maryland economics Ph.D. student); 林子堯 currently has no vault page.
+- 楊遠薰's column [[articles/taiwanjustice-net/2021/20211207123518_2017_07_24_海台青與黑客松-_-楊遠薰-2017-07-24_2c9cb76838702dd7|海台青與黑客松]] (taiwanjustice.net, 2017-07-24; same column re-archived 2024: [[articles/taiwanjustice-net/2024/20240523010214_root_3260cd0bdf2f84d7|Wayback copy via TJJ]]) is the community's primary account of the founding, based on an interview with member 林子堯 (University of Maryland economics Ph.D. student); 林子堯 currently has no vault page.
 
 ## Standing activities
 
