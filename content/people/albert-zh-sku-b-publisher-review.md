@@ -7,7 +7,7 @@ tags:
   - review
   - zh-TW
 verification_status: pending
-last_reviewed: 2026-09-13
+last_reviewed: 2026-09-17
 echo: scratch
 ---
 
@@ -28,7 +28,8 @@ echo: scratch
 - Partner: [[organizations/taiwanese-american-historical-society||TAHS]]
 - Loudness: loudnorm target **−16 LUFS / −1.5 dBTP** (192k private masters)
 - Public MP3: 128 kb/s (GitHub size limit)
-- Total this package: **~212 min (~3.5 h)**
+- Core audio (Ch.I–VI + 結論): **~212 min (~3.5 h)** — **Albert accepted 2026-09**
+- Companion (front + back, no bibliography/CIP yet): **~185 min**
 
 ## What Albert already signed
 
@@ -101,6 +102,50 @@ Headphones. Preload is metadata-only.
 </audio>
 
 - [Download MP3](https://raw.githubusercontent.com/echocanhelp/wiki-public/gh-pages/public/media/albert-conclusion-zh-hsiaochen-publisher-v1-full-scratch.mp3)
+
+## Companion (Albert 2026-09: rest of the book)
+
+Still scratch. **Not yet:** 參考資料 (keep English; missing from Word) and CIP last page (missing from Word).
+
+### 2025 推薦序／原作者序／導讀 · ~56 min
+
+<audio controls preload="metadata" style="width:100%;max-width:40rem">
+  <source src="https://echocanhelp.github.io/wiki-public/public/media/albert-zh-2025-front-hsiaochen-publisher-v1-full-scratch.mp3" type="audio/mpeg">
+</audio>
+
+- [Download](https://raw.githubusercontent.com/echocanhelp/wiki-public/gh-pages/public/media/albert-zh-2025-front-hsiaochen-publisher-v1-full-scratch.mp3)
+
+### 1971 扉頁與前言 · ~5.1 min
+
+<audio controls preload="metadata" style="width:100%;max-width:40rem">
+  <source src="https://echocanhelp.github.io/wiki-public/public/media/albert-zh-1971-front-hsiaochen-publisher-v1-full-scratch.mp3" type="audio/mpeg">
+</audio>
+
+- [Download](https://raw.githubusercontent.com/echocanhelp/wiki-public/gh-pages/public/media/albert-zh-1971-front-hsiaochen-publisher-v1-full-scratch.mp3)
+
+### 回憶論文當年背後的故事 · ~55.6 min
+
+<audio controls preload="metadata" style="width:100%;max-width:40rem">
+  <source src="https://echocanhelp.github.io/wiki-public/public/media/albert-zh-back-recall-hsiaochen-publisher-v1-full-scratch.mp3" type="audio/mpeg">
+</audio>
+
+- [Download](https://raw.githubusercontent.com/echocanhelp/wiki-public/gh-pages/public/media/albert-zh-back-recall-hsiaochen-publisher-v1-full-scratch.mp3)
+
+### 失蹤了的五十年 · ~54.1 min
+
+<audio controls preload="metadata" style="width:100%;max-width:40rem">
+  <source src="https://echocanhelp.github.io/wiki-public/public/media/albert-zh-back-fifty-hsiaochen-publisher-v1-full-scratch.mp3" type="audio/mpeg">
+</audio>
+
+- [Download](https://raw.githubusercontent.com/echocanhelp/wiki-public/gh-pages/public/media/albert-zh-back-fifty-hsiaochen-publisher-v1-full-scratch.mp3)
+
+### 跋：歷史的迴聲，希望的社群 · ~14.5 min
+
+<audio controls preload="metadata" style="width:100%;max-width:40rem">
+  <source src="https://echocanhelp.github.io/wiki-public/public/media/albert-zh-back-epilogue-hsiaochen-publisher-v1-full-scratch.mp3" type="audio/mpeg">
+</audio>
+
+- [Download](https://raw.githubusercontent.com/echocanhelp/wiki-public/gh-pages/public/media/albert-zh-back-epilogue-hsiaochen-publisher-v1-full-scratch.mp3)
 
 ## Method lock
 
