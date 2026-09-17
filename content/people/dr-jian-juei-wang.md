@@ -52,6 +52,9 @@ Beyond his association leadership — president of the Orange County Taiwanese A
 - [[works/taiwaneseamericanhistory-org/my-stories-771|771. 世界尚好的漢堡 (2020/11)]]
 - [[works/taiwaneseamericanhistory-org/our-journeys-367|367. 民主病毒新希望 (2021/03, band A)]]
 - [[works/taiwaneseamericanhistory-org/our-journeys-368|368. 老中老外心掛礙 (2021/03, band A)]]
+- [[works/taiwaneseamericanhistory-org/7-e4-be-86-e8-87-aa-e6-b4-9b-e6-9d-89-e7-a3-af-e7-9a-84-e7-b4-b0-e8-81-b2-e8-a9-|7. 來自洛杉磯的細聲話 (2002/12, 文學)]] — earliest essay on re-grep 2026-09-16, moving the essayist record back to 2002
+- [[works/taiwaneseamericanhistory-org/mystories370|370. 大同電鍋感情線 (2015/11)]]
+- Co-signer of the 2018 NTU alumni protest letter against the Southern California NTU Alumni Association inviting 管中閔 as annual-meeting keynote — listed as 王健椎(土木) among ~170 alumni signatories ([[articles/taiwanjustice-net/2018/20180721091303_2018_07_20_抗議-南加州台大校友會邀管中閔來年會做專題演講_a428dcebbceacf38|抗議南加州台大校友會邀管中閔 (2018/07, Taiwan Justice)]]), placing him inside the alumni-side movement controversy of 2018
 
 His Golden Orange Club (金桔會)/OCTA project-management role recorded in the TAH profile ties the essayist persona to the same Orange County community infrastructure. The 2019 personal-collection record shows his papers entered the TAH archive as well.
 
