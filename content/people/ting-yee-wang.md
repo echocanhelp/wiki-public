@@ -60,6 +60,7 @@ _Corpus-absorbed 2026-09-14 (slice 09141300-17); primary material from our own m
 
 ## From the record
 
+- 2020-06-20／2022-06-25 — 慟於 2020-06-20 安詳辭世（武漢病毒肆虐期間家人未驚動友朋，長眠於 Rose Hill 玫瑰崗墓園）；友人在疫情趨緩後於 2022-06-25 在台灣會館相聚緬懷，Friends of TAIWAN 及相關社團聯合舉辦追思會，追思文記其畢生投入台灣人權及獨立建國運動、出力又出錢，晚年癌症纏身仍在海浜住處邀集志同道合朋友與洛杉磯台灣留學生聚餐傳承台灣建國志業，連絡人邱勝宗（[[articles/taiwanjustice-net/2025/20250719153120_王廷宜_-泰和-_先生追思會6-25舉行_c83c2315ab0b3e26|TJJ, 2022-06-24 預告]]）。
 - 2022-07-12 — 化作千風 memorial interview profile: born 王廷宜 on 1941-09-14 in 九曲堂, 大樹鄉, Kaohsiung; 建國中學 then 台北工專, then Kansas State University (master's) and NYU (Ed.D. in civil engineering); worked for the NYC Board of Education, Rockwell (B-1 bomber programme), then Southern California Edison before self-employing in real estate in LA. Movement roles: 台獨之聲 columnist (scripts read by 盧千惠 over a phone-tape line; his phone was FBI-wiretapped for three years), 台獨聯盟 and FAPA central committee member, vice-convener of the 台灣人黑名單處理小組, and president of the 全美台灣人人權會 who in 1997 founded 「台灣之友社」/ Friends of Taiwan. Married 1971, one son and one daughter ([[articles/taiwanjustice-net/2025/20250811013132_化作千風_懷念台美人的人權鬥士_台獨先鋒王泰_31b7081a5d37939f|TJJ, 2022-07-12]]).
 
 ## Sources

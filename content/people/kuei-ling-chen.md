@@ -36,6 +36,7 @@ _No filled family fields on the TAH profile._
 
 ## From the record
 
+- 2023-01-24 — FAHR（全美台灣人權協會）研討會公告：1/28 在洛杉磯台灣會館實體＋視訊舉行的「從2022年敗選檢討到如何迎戰2024大選」座上賓名單中，現任全美台灣同鄉會會長陳桂鈴與邱垂洸、周昭亮、陳堅四位來賓同台（[[articles/taiwanjustice-net/2023/20230202200749_2023_01_24_fahr研討會-從-2022年的敗選檢討-到如何迎戰-2024-的大選_63257725da30ee94|TJJ, 2023-01-24]]）。
 - 2021-02-28 — As 全美台灣同鄉會會長 she co-hosted the first North America joint online 228 commemoration (人權博物館/全美會/加台會/北美婦會; co-chairs also 陳建銘 of 加台會 and 張秀滿 of 北美婦會), chaired the programme, and closed by reminding attendees that commemorating 228 means ensuring the suffering never returns ([[articles/taiwanjustice-net/2026/20260210064123_2021北美洲海外台灣人二二八紀念活動-台灣國家人權_28b0cc4e52acece2|TJJ, 2021-03-03]]).
 
 ## Related Pages

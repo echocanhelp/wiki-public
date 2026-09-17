@@ -103,6 +103,10 @@ Use the shared intake process at Echopedia Community Contributions Hub and inclu
 
 - **Wife:** 陳美滿
 
+## From the record
+
+- 2016-05-08 — 大洛杉磯台灣會館台灣學校古典音樂欣賞課「台灣人音樂家」專場介紹「宋泉盛牧師千金」宋如音女士演奏 Bartók 作品 —— [[articles/taiwanjustice-net/2024/20240522054349_root_b4e27e98036e15d0|TJJ，2016-06-06 刊]]。
+
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/toward-a-community-of-hope|Toward a Community of Hope]]

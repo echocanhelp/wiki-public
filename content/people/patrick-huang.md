@@ -49,3 +49,4 @@ Accomplishment
 ## From the record
 
 - 1983 — 陳昭南's memoir records Huang as one of the WUFI members (with 洪哲勝、田台仁、康泰山) who quit the alliance over the disputed chair election and co-founded the 台灣革命黨, serving as 中央委員 ([[articles/taiwanjustice-net/2022/20220519131411_2022_05_09_籌謀台灣_不流血革命_的獻策高手原來是他-_-陳_e3440fec3eed8107|TJJ column, 2022-05-09]]).
+- 2014-08-07 — TJJ「梅心怡」標籤頁收錄〈台美人台加人：全美台灣人權協會（FAHR）為梅心怡募款〉，黃再添為報導作者 —— [[articles/taiwanjustice-net/2024/20240724005830_root_5b7741741c30e771|TJJ tag page，2024-07-24 快照]]。

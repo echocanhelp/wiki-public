@@ -75,3 +75,7 @@ father [[people/su-chun-huai||蘇春槐]]; mother 羅淑雅 (no page yet).
 - 2020 年獲半導體協會（SIA）Robert N. Noyce Award：[[works/taiwaneseamericanhistory-org/award-76||TAH #76（2020）]]；媒體跟進報導「張忠謀後華裔第 2 人」見 [[articles/taiwanjustice-net/2026/20260121003520_蘇姿丰獲美半導體協會大獎_張忠謀後華裔第2人_4779b4e7bc06941e|台灣時報_net 報導]]。
 - 父亲 [[people/su-chun-huai||蘇春槐]]（紐約台灣會館理事長）率團訪美東時，AIT 官員因她是 AMD 總裁而格外熱絡，並邀 Lisa 回台至 AIT 走走 —— 見社群回憶錄 [[works/taiwaneseamericanhistory-org/our-journeys-382|Our Journeys 382]]。此為本頁首要的社區第一手材料：她的成就在鄉親network中被直接視為家族與台灣會館的連結。
 - 2014 年升任 AMD 總裁兼執行長當時即被同儕記錄：[[works/taiwaneseamericanhistory-org/videos73-2|73. Dr. Lisa Su as AMD's new president and CEO!]]；台美人第二代視角專文見 [[works/taiwaneseamericanhistory-org/mystories84-dr-lisa-t-su|TAH mystories84（曾恆利）]]。
+
+## From the record
+
+- 2020-06-02 — 標普 500 企業 2019 年執行長年薪排行（Equilar/美聯社）蘇姿丰以 5,850 萬美元奪冠，為 2011 年調查以來首位女性榜首；報導小檔案記其台南出生、麻省理工電機學士、碩士及博士、曾任職 IBM 13 年、2014 年成為超微首位女性執行長、2018 年出任全球半導體聯盟理事會主席，並獲該聯盟張忠謀博士模範領袖獎（[[articles/taiwanjustice-net/2025/20250515085035_標普企業執行長年薪排行榜-超微蘇姿丰奪冠_e1e223aabe8b8751|TJJ, 2020-06-02]]）。

@@ -40,3 +40,7 @@ last_reviewed: 2026-08-17
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+## From the record
+
+- 2021-03-05 — 中央社記者華盛頓報導白宮宣布其子吳修銘（Tim Wu）出任拜登總統科技與競爭政策特別助理時，特別記載「父親吳明達來自台灣」（[[articles/taiwanjustice-net/2025/20250621234639_台裔吳修銘任拜登特助_預料將對抗科技巨頭_6e021ae439684a11|TJJ/CNA, 2021-03-05]]）。

@@ -99,6 +99,10 @@ In 2006, the party ended official recognition of factions, though they remain re
 - **Cross-references:** [[people/ken-wu||Ken Wu]] (DPP US West Chapter executive committee member), [[sources/toward-a-community-of-hope||Toward a Community of Hope]] (democratization history)
 - **Verification:** Pending — content derived from Wikipedia (CC BY-SA 3.0) and cross-referenced with existing Echopedia pages
 
+## From the record
+
+- 2016-04-11 — TJJ 轉載 Taipei Times 社論：26 名民進黨台北市議員聯署支持馬英九特赦陳水扁以促進藍綠和解 —— [[articles/taiwanjustice-net/2024/20240619171645_root_c0530664ab4c2948|TJJ 轉載 Taipei Times 社論，2016-04-11]]。
+
 ## Related Pages
 
 - [[sources/wikipedia-democratic-progressive-party||Wikipedia: Democratic Progressive Party]]

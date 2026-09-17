@@ -59,3 +59,7 @@ Accomplishment
 - 父親：[[people/dr-min-da-wu-m-d||吳明達]]（黑名單、地下刊物「望春風」背景見 [[works/taiwaneseamericanhistory-org/mystories274|274. 台獨父親身教 台裔吳修銘競選紐約副州長]]）。
 - TAH 紀錄：[[works/taiwaneseamericanhistory-org/tim-wu|9. Tim Wu 吳修銘 in New York]]、[[works/taiwaneseamericanhistory-org/whos-who-118-tim-wu|118. Tim Wu 吳修銘]]。
 - 2021 年白宮任命（國家經濟委員會科技與競爭政策特別助理）：[[works/taiwaneseamericanhistory-org/my-stories-788|788. Tim Wu's appointment to the National Economic Council]]；另見新聞報導 [[articles/taiwanjustice-net/2025/20250621234639_台裔吳修銘任拜登特助_預料將對抗科技巨頭_6e021ae439684a11|台裔吳修銘任拜登特助，預料將對抗科技巨頭]]。
+
+## From the record
+
+- 2021-03-05 — 白宮宣布哥倫比亞大學法學教授吳修銘出任國家經濟委員會總統科技與競爭政策特別助理；報導點出其反托拉斯法專長與對科技巨頭壟斷的鷹派立場、2011 年曾任 FTC 高階顧問，並記其推特宣布暫停了推文帳號（[[articles/taiwanjustice-net/2025/20250621234639_台裔吳修銘任拜登特助_預料將對抗科技巨頭_6e021ae439684a11|TJJ/CNA, 2021-03-05]]）。

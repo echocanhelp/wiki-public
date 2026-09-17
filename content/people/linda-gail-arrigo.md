@@ -35,6 +35,10 @@ _No filled family fields on the TAH profile._
 - [TAH #810 encyclopedia: 810. Linda Gail Arrigo 艾琳達/ 2016/02](https://taiwaneseamericanhistory.org/whos-who-810-linda-gail-arrigo/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/linda-gail-arrigo/)
 
+## From the record
+
+- 2014-07-08 — TJJ「梅心怡」標籤頁收錄報導：艾琳達（Linda Arrigo）過境洛杉磯，向台美人簡述梅心怡（Lynn Miles）病情、期盼社區伸援手 —— [[articles/taiwanjustice-net/2024/20240724005830_root_5b7741741c30e771|TJJ tag page，2024-07-24 快照]]。
+
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

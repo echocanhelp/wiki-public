@@ -73,6 +73,10 @@ See the source hub. Top mentions:
 5. [[articles/taiwanjustice-net/2023/20230205142855_2016_04_05_大洛杉磯台灣會館_古典音樂課_四月十日介紹韓_2a25cc1b37f01e00|大洛杉磯台灣會館「古典音樂課」四月十日介紹韓德爾]]
 
 
+## From the record
+
+- 2016-05-08 — 與夫人張信惠在大洛杉磯台灣會館台灣學校主講古典音樂欣賞課「台灣人音樂家」專場（响应台美人傳統周），介紹林昭亮、曾宇謙、呂泉生、李泰祥、宋如音、馬水龍、金希文，並播放呂泉生與李泰祥獨唱自己作品的錄音 —— [[articles/taiwanjustice-net/2024/20240522054349_root_b4e27e98036e15d0|TJJ，2016-06-06 刊]]。
+
 ## Timeline
 
 Chronological events for **葉思雅**:

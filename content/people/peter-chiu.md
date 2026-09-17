@@ -41,6 +41,7 @@ last_reviewed: 2026-09-17
 
 - 2018-07-20 — Signed as 邱勝宗(法律) among the ~170 台大校友 co-signatories of the open letter protesting 南加州台大校友會 inviting 管中閔 to speak at its 2018 annual meeting amid the disputed 校長遴選 case ([[articles/taiwanjustice-net/2018/20180721091303_2018_07_20_抗議-南加州台大校友會邀管中閔來年會做專題演講_a428dcebbceacf38|TJJ, 2018-07-20]]).
 - 2017-09-24 — 與夫人 Sadako 同講大洛杉磯台灣會館九月份園藝講座「EM酵素及製作」，由台灣公義電子報攝錄（[[articles/taiwanjustice-net/2017/20171109043038_category_gardenning_0c56e79f9989639c|TJJ 台灣公義網園藝類存檔, 2017-11-09 快照]]）。
+- 2022-06-25 — Friends of TAIWAN 及相關社團為王廷宜（泰和）先生舉辦追思會（15:00–17:00 在台灣會館），邱勝宗列名連絡人並附電話（[[articles/taiwanjustice-net/2025/20250719153120_王廷宜_-泰和-_先生追思會6-25舉行_c83c2315ab0b3e26|TJJ, 2022-06-24 預告]]）。
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
