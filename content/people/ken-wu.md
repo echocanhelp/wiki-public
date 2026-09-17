@@ -98,6 +98,10 @@ A business card shared during onboarding identifies Ken Wu (吳兆峯) as Secret
 - Wikipedia biography ingested with Ken’s agreement (LINE, 2026-07-22); Ken may request corrections or removals at any time.
 
 
+## From the record
+
+- 2022-09-25 — 以與談人（Ken Wu 吳兆峯）身份出席第53回世界台灣文化論壇「Tī美國點光台灣」，與主講人高龍榮（Long Rong (Mark) Kao, PhD）、主持人陳正義（Peter Chen）對談台灣對美國的地緣政治重要性、美國對台關鍵政策、「維持現狀」與「戰略模糊」的轉變、以及 FAPA 與 FAPR 為台灣發聲的角色（[[articles/taiwanjustice-net/2022/20221127045936_2022_09_25_第53回世界台灣文化論壇_ti美國點光台灣高龍榮-吳_e9faa17a0a7ea61c|TJJ, 2022-09-25]]）。
+
 ## Works
 
 **ken-wu** — **1** title hits, **28** body mentions in the taiwanjustice.net harvest. Listed: last 5 years, up to 8/year. Full index: [[sources/taiwanjustice-net|taiwanjustice.net]].
