@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-17
 ---
 # Chee-Hway Tsai (蔡啟輝)
 
@@ -43,3 +43,12 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+## Role in the Community
+
+- Community record: his TAH Who's Who profile is held in the corpus as a bibliographic work record, published 2017-11-14 ([[works/taiwaneseamericanhistory-org/whos-chee-hway-tsai|1942. Chee-Hway Tsai 蔡啟輝 /11/2017]]). Career arc per the TAH tables: NTU Agricultural Chemistry (1971) → Texas Tech MS Chemistry (1977) → Cornell PhD Food Science & Chemistry (1981), then a 26-year P&G research leadership track spanning US, Asia R&D, and Corporate R&D (1981–2007).
+- No other corpus mentions found in `content/works` / `content/articles` beyond the TAH profile record itself — community/movement activity beyond the press-kit biography is not yet documented in the vault.
+
+## Source Notes
+
+- SKIP-deepen note: only absorbable corpus material was the profile work record (absorbed above); no memoir/community text found, nothing invented.

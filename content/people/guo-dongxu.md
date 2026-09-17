@@ -4,7 +4,7 @@ type: person
 tags:
   - 
 verification_status: pending
-last_reviewed: 2026-07-08
+last_reviewed: 2026-09-17
 ---
 # Rev. Guo Dongxu (郭東緒牧師)
 
@@ -47,3 +47,7 @@ Use Echopedia Community Contributions Hub.
 ## Related Pages
 - [[organizations/good-shepherd-taiwanese-presbyterian-church||Good Shepherd Taiwanese Presbyterian Church (好牧者臺灣基督長老教會)]]
 - GSTPC Tier-A Person Wikification Queue
+
+## Deepen-x note (2026-09-17)
+
+- SKIP-deepen: no corpus hits in `content/works` / `content/articles` for 郭東緒 / Guo Dongxu beyond this page and the GSTPC org page; existing bulletin-derived material (10 pages, 2020–2021) is already reflected. No new absorbable material, nothing invented.
