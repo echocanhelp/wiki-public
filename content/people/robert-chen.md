@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-17
 ---
 # Robert Chen (陳慕融)
 
@@ -28,6 +28,12 @@ Robert Chen (陳慕融; pinyin: Chén Mùróng) is a Taiwanese-born violinist wh
 ## Employment
 - 芝加哥交響樂團 — 1999 — 首席小提琴手
 <!-- tah-tables:end -->
+
+## Role in the Community
+
+- Featured performer in the 「台灣名家演奏系列」concert series launched in 1992 with the sponsorship of 吳澧培, which opened with 胡乃元 and later hosted 林昭亮, 蘇顯達, 陳泰成, 陳毓襄, 葉綠娜 and others ([[works/taiwaneseamericanhistory-org/73-rober-chen-e9-99-b3-e6-85-95-e8-9e-8dviolinist|73. Robert Chen陳慕融, Violinist]]).
+- Per community records, performed 《陳慕融小提琴獨奏會》at the 日美劇場 in 1994 under promoter 黃韓淑貞; the record notes he was by then Concertmaster of the Chicago Symphony Orchestra ([[works/taiwaneseamericanhistory-org/98-robert-chen-e9-99-b3-e6-85-95-e8-9e-8d-violinist|98. Robert Chen 陳慕融]]).
+- His appearances are cited in TUF (南加州台灣人聯合基金會) memoirs as landmark moments of Taiwanese-American cultural life ([[organizations/taiwanese-united-fund|TUF]]).
 
 ## Family
 
