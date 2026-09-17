@@ -47,6 +47,7 @@ Adjunct Professor, Department of Engineering and System Science, National Tsing 
 - Re-verified (deepen-x slice 09160500-14, 2026-09-16): hit set identical (ourjourneys26, ourjourneys352, #397, 民富論 article, MANIFEST). SKIP: saturated.
 - Re-verified (deepen-x slice 09160600-11, 2026-09-16): hit set identical again (ourjourneys26, ourjourneys352, #397, 民富論 article, MANIFEST, works/index). SKIP: saturated; no new absorbable material, no conflicts to HOLD.
 - Re-verified (deepen-x slice 09160700-7, 2026-09-16): hit set identical (ourjourneys26, ourjourneys352, #397, 民富論 article, MANIFEST, works/index). SKIP: saturated; no new absorbable material, no conflicts to HOLD.
+- Re-verified (deepen-x slice 09162138-4, 2026-09-16): hit set identical again (ourjourneys26, ourjourneys352, #397, 民富論 article, MANIFEST, works/index). SKIP: saturated; no new absorbable material, no conflicts to HOLD.
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/james-j-y-hsu/)

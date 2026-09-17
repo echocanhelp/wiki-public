@@ -69,3 +69,6 @@ in Rowland Heights and directs/acompanies at 恩惠台灣基督長老敎會 — 
 
 ## Corpus re-grep (deepen-x slice 09160700-9)
 - 2026-09-16: hit set unchanged — own TAH #1117 / musician85 records + works/index catalog rows only. No memoir/community material to absorb. SKIP-with-reason; no conflicts to HOLD; last_reviewed already 2026-09-16.
+
+## Corpus re-grep (deepen-x slice 09162138-4)
+- 2026-09-16: hit set unchanged — own TAH #1117 / musician85 records + works/index catalog rows only. No memoir/community material to absorb. SKIP-with-reason; no conflicts to HOLD; last_reviewed already 2026-09-16.
