@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-17
 ---
 # Dr. Kuang Chi Liang (梁礦琪醫師)
 
@@ -36,6 +36,15 @@ Accomplishment
 - **Daughter:** Ma-Li
 - **Son:** Li‑Shiang, Li-Ting
 
+
+## Role in the Community
+Dr. Liang is memorialized three times in the TAH / TAHS story corpus, reflecting his standing as a Taiwanese physician of international renown (malaria control, WHO/PAHO):
+
+- [[works/taiwaneseamericanhistory-org/senior-taiwanese-american-8|8. Dr. Kuang Chi Liang (梁礦琪醫師)]] — senior Taiwanese American profile, 2019
+- [[works/taiwaneseamericanhistory-org/121-dr-kuang-chi-liang|121. Dr. Kuang Chi Liang 梁礦琪醫師]] — encyclopedia entry, 2018
+- [[works/taiwaneseamericanhistory-org/whos-who-1741-kuang-chi-liang|1741. Dr. Kuang Chi Liang 梁鑛琪醫師]] — Who's Who entry, 2017-07-04
+
+HOLD: conflict in Chinese name spelling — 梁礦琪 (this page, TAH #8/#121) vs 梁鑛琪 (TAH Who's Who #1741, 2017). Not auto-merged; both spellings appear in corpus titles.
 
 ## Sources
 - [TAH #8 encyclopedia: 8. Dr. Kuang Chi Liang (梁礦琪醫師)](https://taiwaneseamericanhistory.org/senior-taiwanese-american-8/)

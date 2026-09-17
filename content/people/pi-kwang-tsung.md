@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-17
 ---
 # Pi-Kwang Tsung (曾碧光)
 
@@ -43,6 +43,13 @@ Publication(Non-professional ones)
 - **Wife:** Rieko
 - **Son:** Ted
 
+
+## Role in the Community
+Tsung's community record in the TAH corpus is his encyclopedia entry:
+
+- [[works/taiwaneseamericanhistory-org/whos1260|1260. Pi-Kwang Tsung曾碧光 / 08/2016]] — Who's Who entry, 2016-08-25
+
+Beyond the directory entry, no memoir/article in the corpus currently names him; his non-professional Japanese publication 台湾総統への道程 (2001) remains his only community-facing authored record here.
 
 ## Sources
 - [TAH #1260 encyclopedia: 1260. Pi-Kwang Tsung曾碧光/ 08/2016](https://taiwaneseamericanhistory.org/whos1260/)

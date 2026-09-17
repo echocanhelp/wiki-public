@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-17
 ---
 # Chung H. Wu (吳忠修)
 
@@ -39,6 +39,14 @@ University of Pennsylvania
 
 - **Wife:** 吳陳芳容
 
+
+## Role in the Community
+Wu is remembered in the memoir corpus not for credentials but as a community benefactor:
+
+- [[works/taiwaneseamericanhistory-org/my-stories-833|833. A tribute to our 貴人（Benefactor） Chung-Hsiu Wu, M.D.（吳忠修）]] — my-stories tribute, 2022-05-11, written by community members honoring him as their 貴人
+- [[works/taiwaneseamericanhistory-org/whoswho1347|1347. Chung H. Wu 吳忠修 / 2016/10]] — Who's Who entry, 2016-10-27
+
+HOLD: conflict in romanization — Chung H. Wu (this page, TAH #1347) vs Chung-Hsiu Wu (my-stories #833 tribute title). His wife 吳陳芳容 has her own page: [[people/f-z-chen-wu|F. Z. Chen Wu 吳陳芳容]] (TAH #1348, same 2016/10 batch).
 
 ## Sources
 - [TAH #833 encyclopedia: 833. A tribute to our  “ 貴人（Benefactor）”  Chung-Hsiu Wu, M.D. （吳忠修） | 05/2022](https://taiwaneseamericanhistory.org/my-stories-833/)
