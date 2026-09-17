@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-17
 ---
 # Dr. Sheng-Yi Chuang (莊勝義博士)
 
@@ -28,6 +28,12 @@ last_reviewed: 2026-08-17
 ## Employment
 - Lummus — Senior Process Engineer — (1973-1980) — Bechtel — Chief Process Engineer — (1980-1999) — Texaco — Consultant — (2000-2000) — Technip — Senior Staff Technologist — (2001-2010) — Community — Texas Formosan Federal Credit Union — President (1981 & 1990) — Taiwanese Heritage Society of Houston — Chairman (1991 & 1992) — TAA Houston Chapter — President (2002)
 <!-- tah-tables:end -->
+
+## Role in the Community
+
+- **Houston community founder.** Named among the early Houston Taiwanese whom 林振榮, 陳淮崇 and 林榮長 convened in early 1970 to found the Formosan Club — deliberately non-political on paper under White Terror, renamed 台灣同鄉會 in 1975 — organized despite KMT consulate surveillance of community dinners ([[works/taiwaneseamericanhistory-org/ourjourneys-139|139. 回憶三十年前休士頓台灣同鄕會的成立 / 陳淮崇, 2015/05]]; cf. [[works/taiwaneseamericanhistory-org/ourjourneys308|308. 記休士頓台灣同鄉會起源 / 廖明徵, 2017/08]]).
+- **Taiwanese Community Center purchase, Houston.** Elected at the 1991-06-01 THSH general meeting to the seven-director committee authorized to negotiate the 5885 Point West building; the first committee resolution named 楊朝諭 president and Chuang vice-president, to swap after a few months; the closing date was set 1991-10-28 ([[works/taiwaneseamericanhistory-org/ourjourneys233|233. 回顧休士頓台灣人活動中心的成立 / 莊承業, 2016/07]]; Eng. [[works/taiwaneseamericanhistory-org/ourjourneys233-eng|ourjourneys233-eng]]) — consistent with his THSH chairmanship 1991–1992. HOLD: negotiation ceiling $200,000 (EN translation) vs 二十三萬元 (Chinese original) in the same memoir.
+- **Memorial.** 王泰澤 & 張喜久, 感謝—悼念好友莊勝義博士 (05/2020) ([[works/taiwaneseamericanhistory-org/my-stories-729|729. my-stories-729]]) — corroborates the 1942–2020 span and his place in the Houston circle.
 
 ## Family
 
