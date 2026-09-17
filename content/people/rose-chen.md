@@ -52,6 +52,10 @@ Corpus-absorbed (deepen-x slice 28, 2026-09-14) from 鍾澄文's column [[articl
 ## Vault records（deepen pass 2026-09-14）
 - New corpus link from this pass: 2020 Virtual Choir 指揮 activity in the taiwanjustice article above (first third-party community mention beyond her own TAH pages).
 
+## From the record
+
+- 2022-12-02 — 以立合唱團世界首演「希望之光」（黃令先作曲、指揮），10月1日洛杉磯 Pasadena、10月8日紐約卡內基贊克爾廳，陳慧如任鋼琴（[[articles/taiwanjustice-net/2024/20240228144919_root_a40b37bc03b2b9cb|TJJ, 2022-12-02]]）。
+
 ## Sources
 - [TAH #1094 encyclopedia: 1094. Hui-Ju Chen 陳慧如 / 2016/06](https://taiwaneseamericanhistory.org/whoswho1094/)
 - [TAH #338 encyclopedia: 338. Rose Chen 陳慧如 / 2015/03](https://taiwaneseamericanhistory.org/338-rose-chen-%e9%99%b3%e6%85%a7%e5%a6%82-201503/)
