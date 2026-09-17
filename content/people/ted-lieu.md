@@ -59,6 +59,7 @@ The corpus documents Lieu's standing within the Taiwanese American community in 
 
 - 2016-06-15 — VOA 報導民主黨籍台裔眾議員劉雲平晉陞美空軍上校，收錄於台灣公義報「台美人台加人」分類（2024-02-21 存檔）—— [[articles/taiwanjustice-net/2024/20240221121052_root_c6f9dbff48b39366|TJJ 台美人台加人存檔頁]]。
 - 2024-04-04 — 0403花蓮地震後，台灣公義報報導劉雲平（Ted Lieu）與跨黨派逾10位聯邦參眾議員即時表達對台灣的關懷、傳達與台灣人同在並為災民祈禱（[[articles/taiwanjustice-net/2024/20240527024358_root_097b5750fcf3091a|TJJ, 2024-04-04]]）。
+- 2021-05-28 — 中央社洛杉磯專電：劉雲平5月20日與聯邦眾院外交委員會成員共同致函國務卿布林肯，呼籲將台灣納入美國疫苗分配優先名單；隨台灣疫情升溫，5月24日再以個人名義致函布林肯及國際開發總署署長鮑爾，要求盡速將美國過剩的AZ疫苗賣給台灣，強調「時間至關重要」，並援引台灣2019年12月即向WHO警告人傳人風險（[[articles/taiwanjustice-net/2025/20251116053321_台裔國會議員劉雲平致函美國務卿_az疫苗盡快賣台_accbf8ee04e32de8|TJJ/CNA, 2021-05-28]]）。
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

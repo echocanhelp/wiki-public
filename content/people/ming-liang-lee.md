@@ -81,6 +81,7 @@ TAH records held in this vault:
 ## From the record
 
 - 2021-10-15 — 從台北專程赴台南，代表信雅、信惠伉儷出席台南市許石音樂圖書館「信雅古典音樂珍藏」啟用儀式（伉儷因COVID-19無法返台，以視訊連線參加；致詞全文刊於2021-10-16）—— [[articles/taiwanjustice-net/2021/20211207112750_2021_10_16_週末漫談音樂-88_信雅古典音樂珍藏_啟用儀_77b0891ec24689f9|TJJ 週末漫談音樂(88), 2021-10-16]]。
+- 2022-09-02 — 總統府晚間公布遴聘及新聘資政27人、國策顧問70人，李明亮列入資政名單，聘期自民國111年9月1日起至113年5月19日止；發言人張惇涵說明資政依總統府組織法不得逾30人（中央社記者賴于榛報導 via [[articles/taiwanjustice-net/2025/20251013095227_總統府公布遴聘及新聘資政27人國策顧問70人名單_fa7c957f552d76e9|TJJ, 2022-09-02]]）。
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[organizations/taiwanese-american-historical-society||TAH 台美史料協會]]

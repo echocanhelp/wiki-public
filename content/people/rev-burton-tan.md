@@ -40,3 +40,7 @@ last_reviewed: 2026-08-17
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+## From the record
+
+- 2021-07-03 — 以聰美基金會總幹事身分名列「台文通訊30週年慶祝會ONLINE」特別來賓名單（7/3 台灣時間夜間經 Webex 線上舉行，主題演講含林昶佐、陳柏惟；同场來賓含林皙陽牧師、周清玉等）（[[articles/taiwanjustice-net/2021/20210920145945_2021_06_29_台文通訊30週年慶祝會online_52a71221d3029866|TJJ, 2021-06-29 公告]]）。

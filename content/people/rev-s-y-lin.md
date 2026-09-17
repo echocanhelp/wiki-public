@@ -45,3 +45,7 @@ last_reviewed: 2026-08-17
 
 ## Network
 - [[organizations/presbyterian-church-in-taiwan||PCT]] — TAH Who’s Who
+
+## From the record
+
+- 2021-07-03 — 以李江卻台語文教基金會創辦人身分名列「台文通訊30週年慶祝會ONLINE」特別來賓名單；該線上慶祝會紀念台文通訊创刊30年（從8頁半地下刊物成為歷史最久、發行量最大的台文刊物）並討論台語斷種危機與網路世代台文運動2.0（[[articles/taiwanjustice-net/2021/20210920145945_2021_06_29_台文通訊30週年慶祝會online_52a71221d3029866|TJJ, 2021-06-29 公告]]）。

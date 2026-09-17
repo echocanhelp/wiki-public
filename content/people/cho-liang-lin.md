@@ -76,6 +76,7 @@ Facts already present in vault pages citing Cho-Liang Lin (no new sources):
 ## From the record
 
 - 2016-12-12 — 台灣國家交響樂團（NSO）與小提琴家林昭亮在 Orange County Rennee and Henry Segaerstrom Concert Hall 演出，大洛杉磯台灣會館為共同主辦單位之一，由董事黃群雁領軍、19 個社團參與，售出 1,400 席一半門票（台灣會館會訊 #11，林榮松董事長報告 2016-12-17）—— [[articles/taiwanjustice-net/2024/20240721101942_root_04f32b14d8cf8f12|TJJ 轉載台灣會館會訊 #11（2016-12-17）]]。
+- 2016-05-08 — 大洛杉磯台灣會館台灣學校古典音樂欣賞班「台灣人音樂家」專場以林昭亮為開場介紹對象（葉思雅、張信惠主講，同場並介紹呂泉生、李泰祥、宋如音、馬水龍、金希文、曾宇謙）—— [[articles/taiwanjustice-net/2024/20240522054349_root_b4e27e98036e15d0|TJJ，2016-06-06 刊]]。
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
