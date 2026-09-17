@@ -39,6 +39,7 @@ B.S. Dept. of Adult & Continuing Education(社教系)
 
 ## From the record
 
+- 2020-11-25 — FAHR 公告第44屆年會暨「鄭南榕紀念獎」頒獎典禮移師台北（12/5），邀歷屆得獎人回娘家，名列 1991 年得獎人（[[articles/taiwanjustice-net/2021/20210118235211_2020_11_25_全美台灣人權協會第44屆年會暨_鄭南榕紀念獎_頒_996879ac7a006acf|TJJ, 2020-11-25]]）。
 - 2022-07-12 — 王泰和's memorial interview lists her among 郭倍宏、李應元、張燦鍙、王康陸 as the blacklist-breakers who returned to Taiwan in 1993 during his presidency of the 全美台灣人人權會; the group enlisted Amnesty International to adopt and rescue those arrested, with statements drafted by 蔡武雄 of the DC 國關中心 ([[articles/taiwanjustice-net/2025/20250811013132_化作千風_懷念台美人的人權鬥士_台獨先鋒王泰_31b7081a5d37939f|TJJ, 2022-07-12]]).
 
 ## Sources

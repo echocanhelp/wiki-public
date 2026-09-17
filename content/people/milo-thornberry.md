@@ -34,6 +34,11 @@ last_reviewed: 2026-09-17
 - 亞特蘭大大學 — 教派際神學中心主任
 <!-- tah-tables:end -->
 
+## Role in the Community
+- His own memoir 《撲火飛蛾》is held in the TAH story corpus alongside his first-person account of the Peng Ming-min escape: [[works/taiwaneseamericanhistory-org/publications937|937. 撲火飛蛾 / Milo Thornberry / 2011/12]] and [[works/taiwaneseamericanhistory-org/ourjourneys194|194. 彭明敏教授逃離台灣的過程 – 倒數計時 / 作者 唐培禮 譯者 賴秀如 / 2011/12]].
+- Personal-side corpus record: [[works/taiwaneseamericanhistory-org/mystories396|396. 唐培禮夫婦最好的聖誕禮物 / 作者 唐培禮 譯者 賴秀如 / 2016/02]] — with wife Connie Meugniot Thornberry.
+- 2017 memorial coverage in the corpus: [[works/taiwaneseamericanhistory-org/mystories534|534. 撲火飛蛾：紀念為台灣民主犧牲奉獻的唐培禮牧師 / 阿圖賽 / 03/2017]]; his own TAH encyclopedia entry is [[works/taiwaneseamericanhistory-org/772-milo-thornberry-e5-94-90-e5-9f-b9-e7-a6-ae-201601|772. Milo Thornberry 唐培禮 / 2016/01]].
+
 ## Family
 
 - **Wife:** Connie Meugniot Thornberry
