@@ -33,6 +33,7 @@ Currently resides in New York City, Ying-Ying Chen is a native from Taiwan. She�
 ## Role in the Community
 - Recorded twice in the TAH Foundation encyclopedia in July 2016: as a musician story ([[works/taiwaneseamericanhistory-org/musician350|TAH #350, 07/2016]]) and as a Who's Who entry ([[works/taiwaneseamericanhistory-org/whoswho1178|TAH #1178, 07/2016]]).
 - Corpus records (both bibliography-only) confirm the press-kit biography (flute training at National Sun-Yet Sen University (Kaohsiung) and NYU, teaching in New York City, founder of Shoot That Note / YY Fun) but add no new community activity beyond the encyclopedia entries themselves.
+- Corpus re-grep (陳盈穎 / Ying-Ying Chen, 2026-09-16 slice-25 pass) returns only [[works/taiwaneseamericanhistory-org/musician350|#350]] and [[works/taiwaneseamericanhistory-org/whoswho1178|#1178]] — no memoir mentions; saturated.
 
 ## Family
 
