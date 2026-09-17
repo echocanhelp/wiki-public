@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-17
 ---
 # Rachel Liu Siu (劉廣然)
 
@@ -34,6 +34,10 @@ Accomplishment
 ## Family
 
 _No filled family fields on the TAH profile._
+
+## Role in the Community
+- Her TAH Who's Who entry is preserved in the corpus as [[works/taiwaneseamericanhistory-org/whos-who-2090-rachel-liu-siu|2090. Rachel Liu Siu 劉廣然]] (published 2018-04-17, band B).
+- No memoir/community-narrative corpus hits beyond the directory record; her APAHC presidency and Orlando civic roles remain documented only via the TAH Who's Who entry.
 
 ## Sources
 - [TAH #2090 encyclopedia: 2090. Rachel Liu Siu 劉廣然](https://taiwaneseamericanhistory.org/whos-who-2090-rachel-liu-siu/)

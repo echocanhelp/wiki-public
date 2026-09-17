@@ -19,7 +19,7 @@ last_reviewed: 2026-09-17
 - **Source:** TAH Foundation Who’s Who
 
 ## Role in the Community
-- **2004 會長 of 南加州台灣長輩會** (Southern California Taiwanese Senior Club): per the club's own history by 曾輝光, she united the board, ran the club frugally and prosperously, and handed over to the next president with savings of over 250,000 NTD — [[works/taiwaneseamericanhistory-org/ourjourneys50|50. 「南加州台灣長輩會」的成立/曾輝光/2014/10]].
+- **2004 會長 of 南加州台灣長輩會** (Southern California Taiwanese Senior Club): per the club's own history by 曾輝光, she united the board, ran the club frugally and prosperously, and handed over to the next president with savings of 25萬 yuan or more — [[works/taiwaneseamericanhistory-org/ourjourneys50|50. 「南加州台灣長輩會」的成立/曾輝光/2014/10]].
 - Remembered in the community memoir 「北港才女的故事」 by 林蓮華 (2015-11) — [[works/taiwaneseamericanhistory-org/mystories365|365. 黃蔡瑞雲 北港才女的故事 / 林蓮華 /11/2015]].
 - Recorded in TAH as **最年長的台美人** (1914–2020, 107 years old) — [[works/taiwaneseamericanhistory-org/ff338|338. 黃蔡瑞雲 / 最年長的台美人(1914 to 2020 ,107歲)]]; also profiled in [[works/taiwaneseamericanhistory-org/senior-taiwanese-american-32|32. Ray-Yun Huang Tsai (黃蔡瑞雲)]], [[works/taiwaneseamericanhistory-org/ota-277|277. Ray-Yun Huang Tsai 黃蔡瑞雲]], and [[works/taiwaneseamericanhistory-org/whos-who-698|698. 黃蔡瑞雲 /2015/11]].
 

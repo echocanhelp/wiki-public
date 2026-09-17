@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-17
 ---
 # Karen Shee (施卿柔)
 
@@ -34,6 +34,10 @@ Accomplishment
 ## Family
 
 _No filled family fields on the TAH profile._
+
+## Role in the Community
+- Her TAH Who's Who entry is preserved in the corpus as [[works/taiwaneseamericanhistory-org/whos-who-1934-karen-shee|1934. Karen Shee 施卿柔]] (published 2017-11-06, band B).
+- No memoir/community-narrative corpus hits beyond the directory record; calligraphic work remains documented only via the TAH Who's Who entry.
 
 ## Sources
 - [TAH #1934 encyclopedia: 1934. Karen Shee 施卿柔](https://taiwaneseamericanhistory.org/whos-who-1934-karen-shee/)
