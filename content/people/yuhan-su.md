@@ -54,3 +54,4 @@ Timeline (from cited vault pages): 2008 台北藝術大學 管絃與擊樂研究
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 ## Corpus re-check (2026-09-15, re-confirmed 2026-09-16 slices 27 & 28, re-run slices 09160500-28, 09160600-24 and 09160700-23)
 Re-grep 蘇郁涵|Yuhan Su against content/works + content/articles returned only the three already-cited bibliographic records (#108, #187, and the #49 jazz-band feature) plus the works index. All are wikilinked above; each is a band-B bibliographic stub (full text stays in the TAH vault), so no further community facts are absorbable. No conflicts to hold.
+- 複核（deepen-x slice-09162138-20, 2026-09-16）：re-grep 結果相同（#108／#187／#49 + index only）— SKIP：無回憶錄/社群材料可吸收。
