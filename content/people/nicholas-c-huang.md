@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-17
 ---
 # Nicholas C. Huang (黄文郁)
 
@@ -36,6 +36,12 @@ Accomplishment
 - **Father:** [[people/charles-huang||Charles Huang]]
 - **Mother:** Judy Chen
 
+
+## Role in the Community
+- Two TAH Foundation encyclopedia records document him: [[works/taiwaneseamericanhistory-org/whos-who-1940-nicholas-c-huang|1940. Nicholas C. Huang 黄文郁]] (2017-11-14) and [[works/taiwaneseamericanhistory-org/52924|214. Nicholas C. Huang 黃文郁]] (2019-01-05).
+- Serves the Taiwanese American institutional layer as General Counsel and Board Member of both the Taiwanese American Foundation and TaiwaneseAmerican.org (per TAH directory employment record), bridging the legal profession and the movement's org leadership.
+- Son of [[people/charles-huang|Charles Huang]], founder of the TaiwaneseAmerican.org / TAA network.
+- HOLD: a TaiwaneseAmerican.org record ("The Big Picture: A Snapshot of Photographer Anna Wu") describes a 2010 board-member wedding video (Erin & Nick, 09.18.10); whether this board member is the same Nicholas C. Huang is unconfirmed — not merged.
 
 ## Sources
 - [TAH #1940 encyclopedia: 1940. Nicholas C. Huang 黄文郁](https://taiwaneseamericanhistory.org/whos-who-1940-nicholas-c-huang/)

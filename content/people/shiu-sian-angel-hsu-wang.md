@@ -38,6 +38,11 @@ Shiu-Sian Angel Hsu Wang 許秀香 – History of Taiwanese American (T.A. Archi
 - **Son:** Dennis
 
 
+## Role in the Community
+- Recorded in the TAH story corpus as the first Ph.D. holder in Middle East Studies, Arabic Languages and Literature at the University of Utah (Salt Lake City, Utah, 1994) — a community milestone entry ([[works/taiwaneseamericanhistory-org/88-dr-shiu-sian-angel-hsu-e8-a8-b1-e7-a7-80-e9-a6-99-e5-8d-9a-e5-a3-ab-first-ph-|88. 許秀香博士 First Ph.D.]]).
+- Profiled in the TAH encyclopedia entry she is named for ([[works/taiwaneseamericanhistory-org/548-shiu-sian-angel-hsu-wang-201508|548. Shiu-Sian Angel Hsu Wang 許秀香]]).
+- Husband 王健椎 appears in the 2018 台大校友 (土木) co-signatory roster of the open letter on the 校長遴選 case, linking the family to the NTU alumni community record.
+
 ## Sources
 - [TAH #548 encyclopedia: 548. Shiu-Sian Angel Hsu Wang 許秀香 /2015/08](https://taiwaneseamericanhistory.org/548-shiu-sian-angel-hsu-wang-201508/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/shiu-sian-angel-hsu-wang/)
