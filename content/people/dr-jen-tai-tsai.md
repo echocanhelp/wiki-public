@@ -35,7 +35,7 @@ Accomplishment
 ## Role in the Community
 
 - Founding participant of FAPA: listed among the 15 attendees at the 1964-02-13 (as recounted in 蔡同榮's memoir) founding meeting in New York — alongside 丁昭昇, 王桂榮, 陳唐山, 郭雨新, 彭明敏, 羅福全 and others — where the organization's platform of democracy, overseas Taiwanese rights, and national diplomacy was formulated ([[works/taiwaneseamericanhistory-org/ourjourneys65|65. FAPA的誕生]] · [[works/taiwaneseamericanhistory-org/ourjourneys65-eng|65. The Birth of FAPA]]).
-- In 蔡同榮's 「二萬名移民額」memoir: on 1980-02-24 met Senator Kennedy in New York with 蔡同榮 and 陳伸夫 — recorded as the first contact between Taiwanese Americans and Kennedy — pressing the KMT crackdown after the 高雄事件; Kennedy's first Taiwan civil-rights statement followed on 1980-03-05 ([[works/taiwaneseamericanhistory-org/ourjourneys59|59. 二萬名移民額 / 蔡同榮]]).
+- In 蔡同榮's 「二萬名移民額」memoir: on 1980-02-24 met Senator Kennedy in New York with 蔡同榮 and 陳伸夫 — recorded as the first contact between Taiwanese Americans and Kennedy — pressing the KMT crackdown after the 高雄事件; Kennedy's first Taiwan civil-rights statement followed on 1980-03-05; the memoir record preserves the meeting photo captioned 左起：蔡仁泰、甘迺迪、蔡同榮、陳伸夫 (1980) ([[works/taiwaneseamericanhistory-org/ourjourneys59|59. 二萬名移民額 / 蔡同榮]]).
 - Community profile articles: [[works/taiwaneseamericanhistory-org/senior-taiwanese-american-29|29. Jen-Tai Tsai (蔡仁泰)]] · [[works/taiwaneseamericanhistory-org/184-jen-tai-tsai|184. Jen-Tai Tsai 蔡仁泰]] · [[organizations/taiwanese-association-of-america|TAA]].
 
 ## Family
