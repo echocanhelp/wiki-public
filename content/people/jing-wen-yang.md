@@ -51,5 +51,6 @@ _No filled family fields on the TAH profile._
 ## Corpus re-check (2026-09-16, slice 09160600-15)
 Re-grep 楊景文/JING-WEN YANG across works+articles: hit set unchanged (own #364 whos-c-w-yang, own literary works #148/#114/#113, Our Journeys #296 平原區秋令會緣起, works index) — all absorbed and wikilinked above. Nothing new absorbable; no conflicts; era-1924 HOLD stands. **SKIP：無新可吸收事實。**
 
-## Corpus re-grep (slice 09160700-10)
+## Corpus re-grep (slices 09160700-10, 09162138-6)
 - 2026-09-16: hit set again unchanged (#364, #148/#114/#113, Our Journeys #296, index). Nothing new absorbable; no conflicts; era-1924 HOLD stands. **SKIP-with-reason.**
+- 2026-09-16 (slice 09162138-6): hit set again unchanged (#364, #148/#114/#113, Our Journeys #296, index); OJ #296 緣起 passage already absorbed into Role in the Community. Nothing new absorbable; no conflicts; era-1924 HOLD stands. **SKIP-with-reason.**

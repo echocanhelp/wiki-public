@@ -59,3 +59,6 @@ _No filled family fields on the TAH profile._
 
 ## Corpus re-grep (deepen-x slices 09160600-12, 09160700-8)
 - 2026-09-16: hit set unchanged — own already-linked TAH records (ourjourneys157、publications144、ff312、whos1450) + works/index catalog rows only; the 王淑芬 announcement passage in ourjourneys157 is already absorbed above. No new community/corpus facts absorbable. SKIP-with-reason; no conflicts to HOLD; last_reviewed already 2026-09-16.
+
+## Corpus re-grep (slice 09162138-5)
+- 2026-09-16: re-grep Sibyl Chen / 陳世樸 — hit set unchanged (ourjourneys157、publications144、whos1450、ff312、works/index), all already absorbed and linked above. **SKIP-with-reason**; no conflicts to HOLD.
