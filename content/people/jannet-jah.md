@@ -35,6 +35,10 @@ Jennet Jah is the daughter of the noted composter, Professor Kenneth Lee. She gr
 - **Father:** 江奎然
 
 
+## From the record
+
+- 2024-10-12 — 洛杉磯以立合唱團演出輕歌劇「學生王子」（同日並演「森林王子」選曲），李俊玲任聲樂指導（非登台身份）（[[articles/taiwanjustice-net/2025/20250318101332_洛杉磯_以立合唱團_演出的輕歌劇_學生王子_2b2e0ebccd1c5edd|TJJ, 2025-01-27]]）。
+
 ## Sources
 - [TAH #245 encyclopedia: 245. Jannet Jah 李俊玲 / 2015/02](https://taiwaneseamericanhistory.org/245-jannet-jah-%e6%9d%8e%e4%bf%8a%e7%8e%b2-201502/)
 - [TAH #132 encyclopedia: 132. Jennet Jah李俊玲, Soprano / 2015/02](https://taiwaneseamericanhistory.org/132/)
