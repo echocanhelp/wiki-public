@@ -52,4 +52,4 @@ Dr. Ching-Hsing Liao 廖進興博士 – History of Taiwanese American (T.A. Arc
 
 複核（deepen-x 2026-09-15）：corpus re-grep（works+articles）僅見 ourjourneys126 盧主義回憶錄（已吸收至上方 Role in the Community）與 index 書目條目，無新增社群材料 — 維持現況。
 
-複核（deepen-x 2026-09-16）：corpus re-grep 僅再確認 ourjourneys126 盧主義回憶錄與 whos-who-1819 自身書目條目（+ index），無新增社群材料 — 維持現況。（slice 28 覆核：命中僅此三件，皆已連結。slice 26 覆核：命中集合相同，無可吸收新材料。slice 09160600-21 覆核：相同，SKIP-with-reason。slice 09160700-20 覆核：命中集合不變（ourjourneys126、whos-who-1819、index），無新材料。）
+複核（deepen-x 2026-09-16）：corpus re-grep 僅再確認 ourjourneys126 盧主義回憶錄與 whos-who-1819 自身書目條目（+ index），無新增社群材料 — 維持現況。（slice 28 覆核：命中僅此三件，皆已連結。slice 26 覆核：命中集合相同，無可吸收新材料。slice 09160600-21 覆核：相同，SKIP-with-reason。slice 09160700-20 覆核：命中集合不變（ourjourneys126、whos-who-1819、index），無新材料。slice 09162138-15 覆核：相同三件，ourjourneys126 已吸收，SKIP-with-reason：無新增社群語料。）
