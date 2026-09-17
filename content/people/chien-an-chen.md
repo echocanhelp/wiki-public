@@ -48,6 +48,10 @@ _No filled family fields on the TAH profile._
 - 1995-07-29 TUF 台灣名家演奏系列邀聲樂家黃瑞芬洛杉磯演唱會，同台：鋼琴葉綠娜、小提琴蘇顯達／黃維明、中提琴吳昭麗、大提琴**陳建安**，節目含呂泉生《搖嬰仔歌》、蕭泰然《嘸通嫌台灣》：[[articles/taiwanjustice-net/2022/20220519130616_2022_01_29_台灣女聲樂家_資深古典音樂節目主持人黃瑞芬過_bfc5f319a036a339|黃瑞芬過世報導（台灣公義報 2022-01-29）]]、[[articles/taiwanjustice-net/2024/20240225012121_root_64302d51d03b3c5f|2024 存檔copy]]
 - 社群定位：TAH 傳記為演奏生涯記載；vault 語料顯示其為 1990 年代南加州台裔音樂運動（TUF）的大提琴班底之一。
 
+## From the record
+
+- 1995-07-29 — 「台灣民謠之夜，民謠與詩的對話」（TUF 台灣名家演奏系列，Harriet and Charles Fine Arts Complex, Cal State Los Angeles）弦樂四重奏大提琴：陳建安（同台：小提琴蘇顯達、黃維明，中提琴吳昭麗；鋼琴葉綠娜；聲樂黃瑞芬）（[[articles/taiwanjustice-net/2024/20240520022857_root_e1412ed957f76e0d|TJJ 節目紀錄，2024-05-20 存檔]]）。
+
 ## Sources
 - [TAH #86 encyclopedia: 86. Chien-An Chen 陳建安, Cellist/2014/12](https://taiwaneseamericanhistory.org/musician86/)
 - [TAH #134 encyclopedia: 134. Chien-An Chen 陳建安  / 2014/12](https://taiwaneseamericanhistory.org/whoswho134/)

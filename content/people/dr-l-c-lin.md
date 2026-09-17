@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-17
 ---
 # Dr. L. C. Lin (林麗瓊博士)
 
@@ -30,9 +30,14 @@ last_reviewed: 2026-08-17
 - GE (美國奇異公司) — Material Science Researcher, R&D Center — (1989-1994) — Center for Condensed Matter Sciences, National Taiwan Univ. (國立臺灣大學凝態科學研究中心) — Associate Researcher, Researcher, Director — (1994-2018) — AI-MAT (國立臺灣大學新穎材料原子級科學研究中心) — Director — (2018-)
 <!-- tah-tables:end -->
 
+## Role in the Community
+
+- Entered into the TAH Foundation Who's Who as entry #1828, published 2017-08-09 ([[works/taiwaneseamericanhistory-org/whos-who-1828-l-c-lin|TAH #1828: Dr. L. C. Lin 林麗瓊博士]]).
+- Her career path — NTU Physics B.S. → Harvard Applied Physics Ph.D. → GE R&D → returning to NTU's Center for Condensed Matter Sciences — is representative of the post-1980s wave of Taiwanese American scientists who brought U.S. research training back to Taiwan.
+
 ## Family
 
-- **Husband:** 陳貴賢
+- **Husband:** 陳貴賢 — himself a TAH Who's Who entry as Dr. Kuei-Hsien Chen ([[works/taiwaneseamericanhistory-org/whos-who-1827-kuei-hsien-chen|TAH #1827: Dr. Kuei-Hsien Chen 陳貴賢博士]])
 
 
 ## Sources
