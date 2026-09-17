@@ -37,7 +37,7 @@ Tai appears in the TAH corpus as part of the cohort of young Taiwanese musicians
 - Profiled as a harpist in [[works/taiwaneseamericanhistory-org/219-szu-ning-tai-e6-88-b4-e6-80-9d-e5-af-a7-harpist-201506|TAH #219: Szu-Ning Tai 戴思寧, Harpist (2015/06)]], alongside fellow Taiwanese musicians such as 趙君婷 (soprano) and 蘇毓婷 (French horn) profiled the same month.
 - A companion profile is archived as [[works/taiwaneseamericanhistory-org/455-szu-ning-tai-e6-88-b4-e6-80-9d-e5-af-a7-201506|TAH #455: Szu-Ning Tai 戴思寧 (2015/06)]].
 
-No further community-activity records found in the corpus beyond these two profiles.
+No further community-activity records found in the corpus beyond these two profiles (re-grep 2026-09-17: identical hit set — #219, #455, index; cohort peers 趙君婷/蘇毓婷 already named above).
 
 ## Family
 

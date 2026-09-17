@@ -25,6 +25,7 @@ last_reviewed: 2026-09-17
 - 2021-02-01 入錄 TAH Foundation 名人錄百科第 2310 條；見 [[works/taiwaneseamericanhistory-org/whos-who-2310-jin-l-lin|2310. Dr. Jin L. Lin 林金龍博士]]。
 - 休士頓 Formosa Presbyterian Church 長老、執事會主席、建堂委員會秘書（見 Employment）。
 - HOLD: 台美人媒體 taiwanjustice.net 轉載蘋果日報專欄〈戳破(遠東集團總裁)徐旭東的謬誤論述〉署名「林金龍」（2017-06-21，見 [[articles/taiwanjustice-net/2024/20240716123826_root_362d48d50d132457|台美人網專欄彙編]]）——僅同名，無法確認是否即休士頓林金龍，暫不吸收為本人著作。
+- Corpus re-grep 2026-09-17: hit set unchanged (own band-B entry #2310, index, the same held taiwanjustice.net column); no new memoir/corpus material to absorb.
 
 <!-- tah-tables:start -->
 ## Education
