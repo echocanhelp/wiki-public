@@ -46,6 +46,7 @@ last_reviewed: 2026-09-16
 - （2026-09-16 deepen pass slice 09160500-16：re-grep 命中集再次不變（#1848、OJ #285、故事庫 #38、works/index），全部已吸收，**SKIP：無新可吸收事實。**）
 - （2026-09-16 deepen pass slice 09160600-13：re-grep 王振明 / James David King 命中集仍為 #1848、OJ #285、故事庫 #38、works/index，全部已吸收，**SKIP：無新可吸收事實；無衝突需 HOLD。**）
 - （2026-09-16 deepen pass slice 09160700-9：re-grep 命中集仍為 #1848、OJ #285、故事庫 #38、works/index，全部已吸收，**SKIP：無新可吸收事實；無衝突需 HOLD。**）
+- （2026-09-16 deepen pass slice 09162138-5：re-grep James David King 命中 #1848、works/index；頁面既有連結的故事庫 #38、OJ #285 內容早已吸收，命中集全為已吸收材料，**SKIP：無新可吸收事實；既有 HOLD（1909-1989 vs 系列號 1925）不變。**）
 
 ## Family
 

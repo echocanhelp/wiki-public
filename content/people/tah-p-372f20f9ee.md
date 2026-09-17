@@ -50,3 +50,4 @@ The corpus preserves him as a composer whose legacy was carried on by the commun
 - Corpus re-grep 2026-09-16 (slice 09160500-19 re-check): hit set again unchanged — same five work pages + index; no memoir material beyond what is already absorbed in Role in the Community; SKIP-no-new-material.
 - Corpus re-grep 2026-09-16 (slice 09160600-14 re-check): hit set unchanged — the five already-wikilinked work pages (#493, #238, #276, #650, #651) + index remain the complete footprint; no new memoir material, no conflicts. SKIP-no-new-material.
 - Corpus re-grep 2026-09-16 (slice 09160700-10): hit set again unchanged — same five work pages + index; no memoir material beyond what is already absorbed. SKIP-no-new-material.
+- Corpus re-grep 2026-09-16 (slice 09162138-7): hit set again unchanged — the five already-wikilinked work pages (#493, #238, #276, #650, #651) + index remain the complete footprint; nothing absorbable, no conflicts. SKIP-no-new-material.

@@ -58,3 +58,4 @@ Re-grepped 黃至成|Chi-Cheng Huang across works+articles: identical hit set (1
 
 - Corpus re-grep 2026-09-16 (slice 09160600-15): hit set unchanged (141/209 街童 essay, OJ 162/291, #236/#600, mystories-673) — all absorbed above; nothing new, Kaya naming HOLD stands. SKIP-no-new-material.
 - Corpus re-grep 2026-09-16 (slice 09160700-11): hit set against content/works + content/articles unchanged from prior passes — every hit is a page already linked/absorbed on this page (band B bibliography + memoir/community material above). Nothing new absorbable; no new conflicts. SKIP-no-new-material.
+- Corpus re-grep 2026-09-16 (slice 09162138-7): hit set unchanged (141/209 街童 essay, OJ 162/291, #236/#600, mystories-673) — all absorbed above; nothing new, Kaya naming HOLD stands. SKIP-no-new-material.
