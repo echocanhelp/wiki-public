@@ -33,6 +33,13 @@ last_reviewed: 2026-09-17
 
 _No filled family fields on the TAH profile._
 
+## Role in the Community
+
+- 1994-12 — 與林美里整理婦女相關資訊文章，每個月兩次插刊於《婦女信箱》至1996年初（[[works/taiwaneseamericanhistory-org/ourjourneys161|Our Journeys #161〈婦女信箱的歷史〉]]）。
+- 聖東生活座談會早期成員（該區婦女佔多數），投入北美州婦女會、陳文成基金會、同鄉會、FAPA、公民協會及生活座談會的推廣（[[works/taiwaneseamericanhistory-org/ourjourneys212|Our Journeys #212〈生活座談會簡史〉]]）。
+- 與黃東昇合著〈壘球風雲四十年——老壘球隊員在2013年美西夏令會首次聚會〉（2014-10，原刊太平洋時報）（[[works/taiwaneseamericanhistory-org/46-e5-a3-98-e7-90-83-e9-a2-a8-e9-9b-b2-e5-9b-9b-e5-8d-81-e5-b9-b4-e8-80-81-e5-a3|TAH #46]]；另見 [[works/taiwaneseamericanhistory-org/ourjourneys292|Our Journeys #292]] 對1972年匹茲堡台灣同鄉會壘球史的考證引用）。
+- 美西夏令會：加入後即答應負責台灣之夜節目的安排和演出（黃根深2011年美西夏令會回顧）（[[works/taiwaneseamericanhistory-org/ourjourneys265|Our Journeys #265]]）。
+
 ## Sources
 - [TAH #2320 encyclopedia: 2320. Hui Na Lin 賴慧娜](https://taiwaneseamericanhistory.org/whos-who-2320-hui-na-lin/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/hui-na-lin/)

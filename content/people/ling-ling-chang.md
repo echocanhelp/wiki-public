@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-17
 ---
 # Ling Ling Chang (張玲玲)
 
@@ -34,6 +34,13 @@ last_reviewed: 2026-08-17
 
 - **Husband:** Andrew Wong
 
+
+## Role in the Community
+
+- 2016-05 — profiled in the TAH Who's Who encyclopedia ([[works/taiwaneseamericanhistory-org/whoswho1016|1016. Ling Ling Chang 張玲玲 / 2016-05]]).
+- 2018-06-25 — sworn in for California's 29th Senate District, the first woman Taiwanese American state senator in California history (see From the record).
+- 2018-07-20 — featured in the TAH story corpus "Ling Ling Chang in California" ([[works/taiwaneseamericanhistory-org/ling-ling-chang-in-california|Ling Ling Chang 張齡玲 in California]]) — HOLD: that record's title spells 張齡玲 vs 張玲玲 elsewhere; name-spelling conflict, not auto-merged.
+- 2020-06-27 — re-featured in the corpus as "Ling Ling Chang 張玲玲 in S. CA" ([[works/taiwaneseamericanhistory-org/ling-ling-chang|Ling Ling Chang 張玲玲 in S. CA]]).
 
 ## Sources
 - [TAH #1016 encyclopedia: 1016. Ling Ling Chang 張玲玲 / 2016/05](https://taiwaneseamericanhistory.org/whoswho1016/)
