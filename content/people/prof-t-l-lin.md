@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-16
+last_reviewed: 2026-09-17
 ---
 # Prof. T. L. Lin (林子倫教授)
 
@@ -52,3 +52,5 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+複核（deepen-x slice 09170130-10, 2026-09-17）：corpus re-grep 命中僅 whos-who-1765、ourjourneys245（夏令會簡史，已吸收）、index、及兩筆 taiwanjustice-net 新聞（已列 HOLD）— 無新增回憶錄材料，SKIP-with-reason：語料已飽和。

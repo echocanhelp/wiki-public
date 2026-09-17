@@ -42,6 +42,10 @@ Dr. Bob Cheng (鄭寶鼎博士) was a Taiwanese American chemist, entrepreneur, 
 - **Son:** Cliff, George
 
 
+## From the record
+
+- 2020-09-30 — 林宏容's memorial essay (written 9/27/2020) reports Cheng died the evening of 2020-09-20; it recounts how he funded and founded 台美史料中心 (T.A. Archives) — 獨資租下爾灣 17155 Von Karman Ave. (~4,000 sq ft) in 2014-02, then 獨資買下爾灣 Corporate Park 兩層樓現址 (~19,000 sq ft) in 2016-07 — and that he and his wife anonymously donated nearly the entire 柑縣 TACS 台美人社區獎學金 for its full 10-year run (2005–2014), with the 2014 award ceremony held at the Archives; the first 籌備會議 (2010, at 陳立明's home) was convened by 林宏容 at Cheng's request ([[articles/taiwanjustice-net/2026/20260121010227_斯人已逝_其德可追-緬懷鄭寶鼎博士-_-林宏容_9907500dda4f33bb|林宏容 via TJJ, 2020-09-30]]).
+
 ## Sources
 - [TAH #35 encyclopedia: 35. Dr. Bob Cheng  鄭寶鼎博士 the Founder of T. A. Archives By Artist Susan Hsiu-fang](https://taiwaneseamericanhistory.org/footsteps-35/)
 - [TAH #34 encyclopedia: 34. Dr. Bob Cheng  鄭寶鼎博士By Artist Chao-Min Liu(劉兆民)](https://taiwaneseamericanhistory.org/footsteps-34/)

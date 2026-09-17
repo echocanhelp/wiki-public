@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-16
+last_reviewed: 2026-09-17
 ---
 # Formosan Society for Performing Arts Inc. FOSPA (福爾摩沙表演藝術協會)
 
@@ -34,3 +34,4 @@ Corpus re-grep (2026-09-16, slice deepen-x-09162200-12): identical hit set — o
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- Corpus re-grep 2026-09-17 (slice 09170130-9): identical hit set — own directory entry, concerts #126/#55, plus the TJJ 美西表藝年會 article (2022 duplicate of the 2025 clip already cited, no FOSPA mention). SKIP-no-new-material; page saturated.
