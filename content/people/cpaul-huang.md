@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-17
 ---
 # Paul Huang (黃俊文)
 
@@ -33,6 +33,14 @@ Recipient of the prestigious 2015 Avery Fisher Career Grant and 2017 Lincoln Cen
 ## Family
 
 _No filled family fields on the TAH profile._
+
+## Role in the Community
+- Celebrated Taiwanese-American violinist held up in the TAH record as an emblem of the movement's artistic achievement; the community archive documents his recognitions as individual works:
+  - [[works/taiwaneseamericanhistory-org/first-prize-at-the-international-violin-competition-sion-valais-in-switzerland-p|38. First Prize, International Violin Competition Sion-Valais, Switzerland (2009)]]
+  - [[works/taiwaneseamericanhistory-org/avery-fisher-career-grant-paul-huang-2015|39. Avery Fisher Career Grant / Paul Huang 黃俊文 (2015)]]
+  - [[works/taiwaneseamericanhistory-org/lincoln-center-awards-for-emerging-artists-paul-huang-2017|37. Lincoln Center Awards for Emerging Artists / Paul Huang (2017)]]
+  - [[works/taiwaneseamericanhistory-org/paul-huang-violinist|308. Paul Huang 黃俊文, Violinist (TAH, 2015/10)]] · [[works/taiwaneseamericanhistory-org/whos-paul-huang|681. Chun-Wen (Paul) Huang 黃俊文 (TAH, 2015/10)]]
+- HOLD: conflict — [[works/taiwaneseamericanhistory-org/ourjourneys19|Our Journeys 19 (Silicon Valley narrative)]] states "1982 – Paul Huang and three others founded ECAD" (merged 1988, later renamed Cadence) and wikilinks this page; a Taiwan-born violinist at Juilliard cannot plausibly be the 1982 EDA founder, so this is almost certainly a different Paul Huang. Not merged.
 
 ## Sources
 - [TAH #308 encyclopedia: 308. Paul Huang 黃俊文, Violinist / 2015/10](https://taiwaneseamericanhistory.org/paul-huang-violinist/)

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-17
 ---
 # Prof. Hung-Wen Ben Liu (劉鴻文教授)
 
@@ -33,6 +33,11 @@ Prof. Hung-Wen (Ben) Liu 劉鴻文教授 – History of Taiwanese American (T.A.
 ## Family
 
 _No filled family fields on the TAH profile._
+
+## Role in the Community
+- Steward of movement memory: keeper of the History of Taiwanese American (T.A. Archives) 台美史料中心 collection, per his TAH profile — a archives/records role within the community, alongside his academic career (Univ. of Minnesota, UT Austin Hitchings Regents Chair).
+- Documented in the community record: [[works/taiwaneseamericanhistory-org/whos-who-1784-hung-wen-liu|1784. Prof. Hung-Wen (Ben) Liu 劉鴻文教授 (TAH, 2017/07)]].
+- NOTE: other corpus matches for "Ben Liu" (e.g. [[works/taiwaneseamericanhistory-org/ota-288|288. Prof. Ben Liu 劉斌碩教授]], [[works/taiwaneseamericanhistory-org/whos-who-736-ben-liu|736. same]]) and the 2024 TJJ statement signer "Professor Ben Liu, President, Professor Chen Wen-Chen's Memorial Foundation" refer to a different person, 劉斌碩 ([[people/prof-ben-liu]]) — not absorbed here.
 
 ## Sources
 - [TAH #1784 encyclopedia: 1784. Prof. Hung-Wen (Ben) Liu 劉鴻文教授](https://taiwaneseamericanhistory.org/whos-who-1784-hung-wen-liu/)

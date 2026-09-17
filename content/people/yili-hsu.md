@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-17
 ---
 # Yili Hsu (許義莉)
 
@@ -36,6 +36,12 @@ Yili Hsu, a native of Taiwan, is a free-lance flutist around the Dallas metro ar
 - **Daughter:** Nina
 - **Daughter:** Inna
 
+
+## Role in the Community
+- Free-lance flutist and teacher in the Dallas metro (Plano studio); her students have won competitions and recognition awards at local music festivals.
+- Member and featured musician of 達拉斯台灣婦女會 (Dallas Taiwanese Women's Association) — part of the cultural life of the Dallas Taiwanese community.
+- Documented twice in the TAH community record: [[works/taiwaneseamericanhistory-org/musician148|148. Yili Hsu 許義莉, Flutist (TAH, 2015/02)]] · [[works/taiwaneseamericanhistory-org/whoswho1228|1228. Yili Hsu 許義莉 (TAH, 2016/08)]].
+- No further mentions found in the memoir/article corpus.
 
 ## Sources
 - [TAH #1228 encyclopedia: 1228. Yili Hsu 許義莉 / 2016/08](https://taiwaneseamericanhistory.org/whoswho1228/)
