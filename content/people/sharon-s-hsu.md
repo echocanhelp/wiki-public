@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-17
 ---
 # Sharon S. Hsu (許聖美)
 
@@ -34,6 +34,11 @@ last_reviewed: 2026-08-17
 
 - **Husband:** [[people/chung-chen-paul-hsu||許忠政]]
 
+
+## Role in the Community
+- Co-built with her husband [[people/chung-chen-paul-hsu|許忠政 (Paul Hsu)]] one of the earliest Taiwanese immigrant private enterprises: Hsu's Ginseng Enterprises, Inc. in Wausau, Wisconsin (1974) — recorded in the TAH encyclopedia as [[works/taiwaneseamericanhistory-org/ff42|42. Paul (Chung Chen) and Sharon Hsu 許忠政、許聖美 — The first private business enterprise 第一個民營企業, 1974]] and [[works/taiwaneseamericanhistory-org/36-chung-chen-paul-and-sharon-hsu|36. Chung Chen (Paul) and Sharon Hsu 許忠政、許聖美夫婦]].
+- Her ginseng-business story was profiled as [[works/taiwaneseamericanhistory-org/165-e8-a8-b1-e8-81-96-e7-be-8e-e5-8f-83-e5-8f-83-e4-b8-8d-e6-81-af-e7-9a-84-e7-b|165. 許聖美—參參不息的綠金傳奇 / 秋鄉 / 2010]], with a further record [[works/taiwaneseamericanhistory-org/263-sharon-s-hsu-e8-a8-b1-e8-81-96-e7-be-8e201502|263. Sharon S. Hsu 許聖美, 2015/02]].
+- Writer Ken Lee's community memoir [[works/taiwaneseamericanhistory-org/ourjourneys264|Our Journeys 264 (Ken Lee, 11/2016)]] names 許聖美 (alongside 廖國仲) among the outstanding Taiwanese Americans profiled by author 楊遠薰 — testimony to her standing in the movement's letters/memoir network.
 
 ## Sources
 - [TAH #42 encyclopedia: 42. Paul (Chung Chen) and Sharon Hsu 許忠政, 許聖美 / The first private business enter](https://taiwaneseamericanhistory.org/ff42/)
