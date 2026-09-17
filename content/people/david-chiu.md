@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-17
 ---
 # David Chiu (邱信福)
 
@@ -32,6 +32,11 @@ last_reviewed: 2026-08-17
 ## Family
 
 _No filled family fields on the TAH profile._
+
+## Role in the Community
+- **Second-generation political milestone:** First-generation movement elder 林靜竹 cited him (with judge 劉弘威) in [[works/taiwaneseamericanhistory-org/ourjourneys164|164. 我們這一代的台美人 / 林靜竹 / 2015-08]] as a leading example of 第二代台美人 taking over the community and entering politics, with the hope that the second generation would influence U.S. policy on Taiwan's future.
+- **TaiwanAmerican.org coverage:** Featured at the "Asian American Leaders in Government" panel in SF — see [[works/taiwaneseamerican-org/meet-david-chiu-at-asian-american-leaders-in-government-panel-in-sf|Meet David Chiu (2011)]], and interviewed on Asian Americans in politics — [[works/taiwaneseamerican-org/conversation-with-david-chiu-in-sf-asian-americans-in-politics|Conversation with David Chiu in SF (2012)]].
+- **Tahs profiles:** Recorded in [[works/taiwaneseamericanhistory-org/whos-who-2189-david-chiu|2189. David Chiu 邱信福]], [[works/taiwaneseamericanhistory-org/ota-230|230. David Chiu 邱信福]], and [[works/taiwaneseamericanhistory-org/david-chiu|David Chiu 邱信福 in California]].
 
 ## Sources
 - [TAH #2189 encyclopedia: 2189.  David Chiu 邱信福](https://taiwaneseamericanhistory.org/whos-who-2189-david-chiu/)

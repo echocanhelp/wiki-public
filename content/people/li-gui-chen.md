@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-17
 ---
 # Li Gui Chen (陳麗貴)
 
@@ -35,6 +35,11 @@ Accomplishment
 
 - **Husband:** 李泳泉
 
+
+## Role in the Community
+- **Documentary on human rights — 月舞玫瑰 (蔡瑞月 story):** Her documentary 《月舞玫瑰》 about dancer 蔡瑞月 was screened at the 2020-11-21 終止婦女受暴日 event (with 陳菊 attending), followed by a panel with 李敏勇, 魏德聖, and 蔡瑞月's daughter-in-law, dancer 蕭渥廷, on discrimination, oppression, and human rights — see [[articles/taiwanjustice-net/2020/20201205152325_2020_11_21_出席終止婦女受暴日活動_陳菊_人權永遠不夠_7a35abd32265d500|出席終止婦女受暴日活動 (2020-11-21)]].
+- **《好國好民》 Dear Taiwan (dir. & prod., 81 min):** Latest documentary on the rising Taiwanese identity of the middle generation, supported by the 全美台灣同鄉會 and the Washington Taiwanese Cultural Center; premiered in Taipei, Tainan, Boston, and North Carolina, then a US touring screening-tour (Chicago, Rhode Island, Cincinnati, Atlanta, NY, San Diego, Orange County, San Jose). US coordinators: 黃泰郎, 周明宏, 王振源 — see [[articles/taiwanjustice-net/2024/20240719002430_root_1f001897255f71a7|好國好民 US screening announcement (2024)]] and [[articles/taiwanjustice-net/2024/20240718223218_root_b5e568ec43e787f1|《好國好民》美國巡迴放映座談會]].
+- Consistent with her TAH Who's Who entry (Taiwan Production Coordinator for *Tug of War: The Story of Taiwan*, 1996-97); profile recorded in [[works/taiwaneseamericanhistory-org/whos-who-1835-li-gui-chen|1835. Li Gui Chen 陳麗貴]].
 
 ## Sources
 - [TAH #1835 encyclopedia: 1835. Li Gui Chen 陳麗貴](https://taiwaneseamericanhistory.org/whos-who-1835-li-gui-chen/)

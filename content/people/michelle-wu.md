@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-17
 ---
 # Michelle Wu (吳彌)
 
@@ -28,6 +28,14 @@ Michelle Wu was born in 1985 in Chicago, Illinois to Taiwanese immigrant parents
 ## Employment
 - Boston City Council — Member — (2014-2021) — Boston City Council — President — (2016-2018) — City of Boston — Mayor — (2021-)
 <!-- tah-tables:end -->
+
+## Role in the Community
+
+- TAH 台美歷史紀錄收錄兩筆她的傳記條目：[[works/taiwaneseamericanhistory-org/whos-who-2166-michelle-wu|2166. Michelle Wu 吳彌]] 與 [[works/taiwaneseamericanhistory-org/ota-220|220. Michelle Wu 吳弭]]。
+  - HOLD: conflict 漢名「吳彌」(TAH #2166、本人頁) vs「吳弭」(TAH #220) — 未自動合併。
+- profile 紀錄：[[works/taiwaneseamericanhistory-org/michelle-wu|Michelle Wu 吳彌 in Boston]]（2020-06-24）。
+- 社群口述史訪問：[[works/taiwaneseamerican-org/michelle-wu|Michelle Wu – On Campaigning, Boston, and Pig Ears]]（TAP，2013-12-07 前後），談輔選、波士頓與豬耳朵。
+- 台美裔世代的從政影響：社運組織者 Bonnie Jin 自述大學期間起在吳彌的市議員辦公室及市長競選團隊工作，2023 年 1 月起任市長室成員，並提及自己因太陽花學運與 Occupy 的對照而走向勞動組織。見 [[works/taiwaneseamerican-org/bonnie-jin-union-organizer|Bonnie Jin — 工會組織者口述]]。
 
 ## Family
 
