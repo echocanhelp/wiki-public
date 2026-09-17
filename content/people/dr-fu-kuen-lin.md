@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-17
 ---
 # Dr. Fu-Kuen Lin (林福坤博士)
 
@@ -20,6 +20,10 @@ last_reviewed: 2026-08-17
 - **Source:** TAH Foundation Who’s Who
 
 2. “Discoverers Award” of Pharmaceutical Research and Manufacturers of America 1995
+
+## Role in the Community
+- Remembered in the community essay 「生技巨人林福坤的故事」 by 楊文顯 (2015-05) — [[works/taiwaneseamericanhistory-org/mystories263|263. 生技巨人林福坤的故事/楊文顯/2015/05]].
+- Held a place in the TAH story corpus from its earliest entries: [[works/taiwaneseamericanhistory-org/8-fu-kuen-lin|8. Fu-Kuen Lin 林福坤]] (2017-01-04), plus profiles [[works/taiwaneseamericanhistory-org/109-dr-fu-kuen-lin|109. Dr. Fu-Kuen Lin 林福坤博士]] and [[works/taiwaneseamericanhistory-org/whos-who-1449-fu-kuen-lin|1449. Dr. Fu-Kuen Lin 林福坤博士]].
 
 <!-- tah-tables:start -->
 ## Education
