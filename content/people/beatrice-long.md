@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-16
 ---
 # Beatrice Long (隆信真)
 
@@ -29,6 +29,11 @@ Beatrice Long 隆信真 is a top prize winner in several international competiti
 ## Employment
 - Peabody Institute of the Johns Hopkins University — Teaching — Watchung Arts Center, NJ — Artistic Director — Naxos — Recording Artist — Community — Formosa Chamber Music Society of New York — Invited Performer
 <!-- tah-tables:end -->
+
+## Role in the Community
+- Corpus record holds her in the TAH story corpus as a Taiwanese American pianist: [[works/taiwaneseamericanhistory-org/musician420|420. Beatrice Long 隆信真, pianist / 07/2017]] and [[works/taiwaneseamericanhistory-org/whos-who-1774-beatrice-long|1774. Beatrice Long 隆信真]] (both published 2017-07-24, band B — bibliographic records only; full text stays in the vault).
+- Her formosa Chamber Music Society of New York engagement and Naxos recording career are documented only in the TAH Who's Who press-kit entry; no memoir/community-corpus narrative found in content/works or content/articles beyond the two records above.
+- Note: pianist Christina Long 隆愛真 ([[works/taiwaneseamericanhistory-org/whos-who-1772-christina-long|1772. Prof. Christina Long 隆愛真教授]], [[works/taiwaneseamericanhistory-org/musician-christina-long|418. Christina Long 隆愛真, pianist]]) shares the surname in the same corpus — HOLD: possible sibling relation, no source in corpus.
 
 ## Family
 

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-16
 ---
 # Joanna Yan (石正暖)
 
@@ -35,6 +35,11 @@ last_reviewed: 2026-08-17
 - **Son:** Robin Yan
 - **Daughter:** Rosa Yan
 
+
+## Role in the Community
+-  TAH 藝術家人物檔案收錄：[[works/taiwaneseamericanhistory-org/artist31-joanna-yan|TAH Artist #31 石正暖]]（2015-03-03）與 [[works/taiwaneseamericanhistory-org/whoswho1023|TAH Who's Who #1023 Joanna Yan 石正暖]]（2016-05-27）。
+- 2018-06-13 TAH 另有以她為主的肖像畫紀錄 [[works/taiwaneseamericanhistory-org/portrait-painting-of-joanna-yan|Portrait Painting of Joanna Yan]]。
+- _corpus hits are TAH bibliographic records only — no memoir/band-A community narrative found beyond the press-kit bio above._
 
 ## Sources
 - [TAH #1023 encyclopedia: 1023. Joanna Yan 	 石正暖 / 2016/05](https://taiwaneseamericanhistory.org/whoswho1023/)

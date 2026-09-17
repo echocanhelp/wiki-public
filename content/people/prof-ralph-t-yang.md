@@ -6,8 +6,8 @@ name_zh: "楊祖保教授"
 tags:
   - person
   - tah-whos-who
-verification_status: pending
-last_reviewed: 2026-09-15
+verification_status: reviewed
+last_reviewed: 2026-09-16
 ---
 # Prof. Ralph T. Yang (楊祖保教授)
 
