@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-17
 ---
 # Jack J. Jou (周哲伍)
 
@@ -33,6 +33,9 @@ Jack J. Jou was born in Taiwan in 1939. He graduated from National Cheng Kung Un
 
 _No filled family fields on the TAH profile._
 
+## Role in the Community
+- Jou is preserved in the movement record in two layers of the TAH archive: as encyclopedia subject **#1046** in the Who's Who collection (2016/05) and as entry **#12** in TAH's dedicated artist series (2014/09) — i.e. the foundation documented him as part of the Taiwanese American artistic record, alongside neighbours in that series such as artist 林暉怜 (Fealing Lin, #11) and the San Diego Taiwanese American Community Center chronicle (#11, 呂錦文). ([[works/taiwaneseamericanhistory-org/whoswho1046|1046. Jack J. Jou 周哲伍 / 2016/05]], [[works/taiwaneseamericanhistory-org/artist12-jack-j-jou|12. 周哲伍 Jack J. Jou]])
+
 ## Sources
 - [TAH #1046 encyclopedia: 1046.  Jack J. Jou 周哲伍 / 2016/05](https://taiwaneseamericanhistory.org/whoswho1046/)
 - [TAH #12 encyclopedia: 12. 周哲伍 Jack J. Jou](https://taiwaneseamericanhistory.org/artist12-jack-j-jou/)
@@ -41,3 +44,5 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- [[works/taiwaneseamericanhistory-org/whoswho1046||1046. Jack J. Jou 周哲伍 / 2016/05]]
+- [[works/taiwaneseamericanhistory-org/artist12-jack-j-jou||12. 周哲伍 Jack J. Jou]]

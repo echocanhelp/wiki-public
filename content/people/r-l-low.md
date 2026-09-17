@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-17
 ---
 # R. L. Low (羅瑞蘭)
 
@@ -29,6 +29,10 @@ last_reviewed: 2026-08-17
 ## Employment
 - 藝術生命音樂工作室 — Owner
 <!-- tah-tables:end -->
+
+## Role in the Community
+- **In the TAH musician archive, 07/2017.** She enters the community record through two TAH entries published 2017-07-24: a vocalist directory record as Rui-Lan Lo and a Who's Who profile — documenting a Philadelphia-area Taiwanese voice teacher trained via 呂泉生、翁綠萍, the Salzburg Mozarteum, and the Academy of Vocal Arts lineage ([[works/taiwaneseamericanhistory-org/musician417|TAH #417 vocal record]]) ([[works/taiwaneseamericanhistory-org/whoswho1771|TAH #1771 Who's Who]]).
+- No further memoir/corpus mentions found beyond these bibliographic records; press-kit biography held as-is pending community sources.
 
 ## Family
 

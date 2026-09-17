@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-17
 ---
 # Cheh-Jen Su (蘇哲仁)
 
@@ -38,6 +38,11 @@ Publication: Prevention of Deterioration in Various Physiological Functions (預
 ## Family
 
 _No filled family fields on the TAH profile._
+
+## Role in the Community
+
+- His 2013 book is itself corpus material: [[works/taiwaneseamericanhistory-org/publications292|292. Prevention of Deterioration in Various Physiological Functions 預防生理上各種功能的衰退 / Cheh Jen Su 蘇哲仁 / 07/2013]], and he contributed a first-person reflection on publishing it, [[works/taiwaneseamericanhistory-org/mystories5|5. 「預防生理上各種功能的衰退」出書的感想 / 蘇哲仁]] — matching the "Publication" line already on this page and confirming him as a TAH story contributor.
+- His TAH Who's Who encyclopedia entry is corpus work [[works/taiwaneseamericanhistory-org/5-su-cheh-jen-e8-98-87-e5-93-b2-e4-bb-81|5. Cheh-Jen Su 蘇哲仁 / 2014/10]]. Career track (Continental Can, Johnson & Johnson, American Can research scientist → 仁愛地產 broker 1985–2013) is per the TAH profile above; no conflicting dates found.
 
 ## Sources
 - [TAH #5 encyclopedia: 5. Cheh-Jen Su 蘇哲仁/2014/10](https://taiwaneseamericanhistory.org/5-su-cheh-jen-%e8%98%87%e5%93%b2%e4%bb%81/)
