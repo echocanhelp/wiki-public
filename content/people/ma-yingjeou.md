@@ -7,7 +7,7 @@ tags:
   - taiwanjustice-net
   - thin-page
 verification_status: pending
-last_reviewed: 2026-07-28
+last_reviewed: 2026-09-17
 ---
 # Ma Ying-jeou (馬英九)
 
@@ -27,6 +27,10 @@ last_reviewed: 2026-07-28
 - **Hub:** [[sources/taiwanjustice-net||taiwanjustice.net source hub]]
 - **Primary org:** [[organizations/taiwanjustice-net||taiwanjustice.net (台灣公義網)]]
 - **Do not invent:** No birth data, family, or private contact on this page
+
+## From the record
+
+- 2013-10-06 — The Economist, reprinted via TJJ, called Ma "possibly one of the most unpopular elected presidents in Taiwan's history" after the 馬王政爭 drove his approval to 9.2%, while crediting the 2013 ICAO invitation as a diplomatic breakthrough ([[articles/taiwanjustice-net/2024/20240530133623_root_becb39f917174438|The Economist via TJJ, 2013-10-06]]).
 
 ## Related Pages
 

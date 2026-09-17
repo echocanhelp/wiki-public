@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-17
 ---
 # Hsi-Min Lin (林希明)
 
@@ -38,6 +38,10 @@ _No filled family fields on the TAH profile._
 ## Sources
 - [TAH #1314 encyclopedia: 1314. Hsi-Min Lin 林希明 / 2016/10](https://taiwaneseamericanhistory.org/whoswho1314/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/hsi-min-lin/)
+
+## From the record
+
+- 2017-07-24 — As vice president of FAPA, Lin was invited to speak on winning support for Taiwan in American political circles at the TACEC × 海台青 (OTD) joint summer camp at West Chester University, PA ([[articles/taiwanjustice-net/2021/20211207123518_2017_07_24_海台青與黑客松-_-楊遠薰-2017-07-24_2c9cb76838702dd7|楊遠薰 column via TJJ, 2017-07-24]]).
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

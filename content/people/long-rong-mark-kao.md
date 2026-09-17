@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-17
 ---
 # Dr. Long-Rong Mark Kao (高龍榮)
 
@@ -41,6 +41,10 @@ Dr. Long-Rong (Mark) Kao 高龍榮 – History of Taiwanese American (T.A. Archi
 ## Sources
 - [TAH #1168 encyclopedia: 1168. Long-Rong (Mark) Kao 高龍榮 /2016/07](https://taiwaneseamericanhistory.org/whos1168/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/long-rong-mark-kao/)
+
+## From the record
+
+- 2017-07-24 — Quoted in 楊遠薰's column as a 海台青 (OTD) organizer and fundraiser and former FAPA president-general (前FAPA總會長), praising the energy of the OTD "Hackathon" workshop at the TACEC summer camp ([[articles/taiwanjustice-net/2021/20211207123518_2017_07_24_海台青與黑客松-_-楊遠薰-2017-07-24_2c9cb76838702dd7|楊遠薰 column via TJJ, 2017-07-24]]).
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
