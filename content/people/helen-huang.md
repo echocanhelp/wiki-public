@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-17
 ---
 # Helen Huang (黃海倫)
 
@@ -29,6 +29,11 @@ Huang was born in Japan, of Taiwanese parents, in 1982. Her family moved to the 
 ## Employment
 - Juilliard — 2008-Present — Teaching
 <!-- tah-tables:end -->
+
+## Role in the Community
+- 2025-06-16 洛杉磯郡高等法院法官就職：穿上法官袍，致詞用台語感謝父母「教我台灣的歷史和民主」；約25年前曾戴上「台美小姐」后冠 — [[articles/taiwanjustice-net/2025/20250624105056_台美小姐黃海倫當上洛杉磯法官-台語謝父母_教我_5ddc8a197acc9163|台美小姐黃海倫當上洛杉磯法官 台語謝父母：教我台灣歷史和民主]]（2025-06，中央社記者報導）；亦見 [[articles/taiwanjustice-net/2025/20250524194905_大洛杉磯台灣會館七月份會訊_74056a8f083d0a55|大洛杉磯台灣會館七月份會訊]]。
+- TAH encyclopedia entries: [[works/taiwaneseamericanhistory-org/232-helen-huang-e9-bb-83-e6-b5-b7-e5-80-ab-pianist-201507|232. Helen Huang 黃海倫, Pianist]] 及 [[works/taiwaneseamericanhistory-org/482-helen-huang-e9-bb-83-e6-b5-b7-e5-80-ab-201507|482. Helen Huang 黃海倫]] (2015-07)。
+- HOLD: conflict — TAH bio（鋼琴家，2004 Juilliard 畢業、2008 起任教 Juilliard）vs 2025 TJJ record（約1999年當選台美小姐、2025年任洛杉磯郡法官）。生涯路徑不相容，可能為兩位同名「黃海倫」，未自動合併。
 
 ## Family
 

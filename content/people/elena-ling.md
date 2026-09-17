@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-17
 ---
 # Elena Ling (黃美惠)
 
@@ -29,6 +29,13 @@ Vice President of International Federation of Business and Professional Women, T
 ## Employment
 - Insurance Agent — CLU, ChFC, CSA — (1984-) — Community — TAA/New Jersey Chapter — President — FAPA — Member — International Federation of Business and Professional Women, Taiwan — Vice President — NATWA — Founding Member and President — Shengdong Life Forum — Founding Member — NATWA — Honorary President — Dr. Chen Wen-chen Memorial Foundation — Director
 <!-- tah-tables:end -->
+
+## Role in the Community
+- 與吳秀惠合寫 NATWA 歷史〈咱的故事—NATWA的歷史〉（2014/11）— [[works/taiwaneseamericanhistory-org/ourjourneys60|60. 咱的故事—NATWA的歷史]]，與 TAH profile 所列 NATWA 創會會員／會長／名譽會長相互印證。
+- 陳文成「紀念專集」（遇害一週年出版）編委，以兩字代號「甘子」行之（同冊代號：林田＝林龍和、李樸＝曹永愷、石林＝夫林富文 [[people/dr-evan-ling|Dr. Evan Ling]]、許杰＝許永華）— [[works/taiwaneseamericanhistory-org/ourjourneys321|Our Journeys 321]]；英文版 [[works/taiwaneseamericanhistory-org/ourjourneys321-eng|Our Journeys 321 (English)]]。
+- 夫憶文：專集編印由夫婦二人負責，同鄉千里校稿（李素蓮、陳達文等）、許富淵印刷；1983年二週年紀念在美東夏令營演出話劇《補破網》，夫婦亦參與演出（導演陳明楷，康泰山演陳文成）— [[works/taiwaneseamericanhistory-org/ourjourneys8|Our Journeys 8]]。
+- 1985年與全美台灣同學會合辦夏令營：與陳芳明、林衡哲、謝里法同訪，為聚會注入文化氣息；憶文稱其時已是陳文成基金會要職、後任婦女會會長 — [[works/taiwaneseamericanhistory-org/our-journeys-379|Our Journeys 379]]。
+- 與陳文成紀念基金會董事一職（TAH profile）與上述紀念專集、紀念活動紀錄相符。
 
 ## Family
 

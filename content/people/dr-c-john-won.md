@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-17
 ---
 # Dr. C. John Won (翁錦鐘博士)
 
@@ -28,6 +28,10 @@ last_reviewed: 2026-08-17
 ## Employment
 - Orbital Science Co. — Principal Engineer — (1996-2000) — Nikon Research Co. — Sr. Control Engineer — (2000-2002) — ICF Technology — Sr. Mechanical Engineer — (2004-2007) — TAC Worldwide — Consultant of BAE System — (2007-2009) — Community — FAPA (台灣人公共事務會) — President — NATPA (北美洲台灣教授協會) — President — Silicon Valley Taiwanese Association (矽谷臺灣同鄉會) — President (2010-2011)
 <!-- tah-tables:end -->
+
+## Role in the Community
+- Community roles per TAH profile: FAPA (台灣人公共事務會) President; NATPA (北美洲台灣教授協會) President; Silicon Valley Taiwanese Association (矽谷臺灣同鄉會) President (2010-2011).
+- Corpus record: own encyclopedia entry [[works/taiwaneseamericanhistory-org/whos-who-1874-c-john-won|1874. Dr. C. John Won 翁錦鐘博士]] (2017-09-04). No other memoir/community hits in the corpus beyond this entry.
 
 ## Family
 
