@@ -56,6 +56,10 @@ Dr. Yvonne Yifang Wang, violinist born in Taoyuan, Taiwan, grew up in music as b
 
 _No filled family fields on the TAH profile._
 
+## From the record
+
+- 2020-12-13 — 與黃令先老師在楊子清老師音樂短講第13集「美聲唱法的技巧 (7) – 快速音 Agilita」提供特別講座「泛音」（[[articles/taiwanjustice-net/2021/20210128084700_2020_12_13_楊子清老師音樂短講第13集_美聲唱法的技巧-7-快速_426d2811d4065134|TJJ, 2020-12-13]]；詳見上方 Role in the Community）。
+
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/yvonne-yifang-wang/)
 
