@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-17
 ---
 # Dr. Tehming Liang (梁德明醫師)
 
@@ -31,6 +31,11 @@ Accomplishment
 ## Employment
 - Chicago — Dermatologist — Community — North American Taiwanese Medical Association / Chicago Chapter (北美臺灣人醫師協會芝加哥分會) — President — TAA/NJ (全美台灣同鄉會紐澤西分會) — President
 <!-- tah-tables:end -->
+
+## Role in the Community
+- Community leadership in the Taiwanese American association world: President, North American Taiwanese Medical Association — Chicago Chapter (北美臺灣人醫師協會芝加哥分會), 2010; President, TAA/NJ (全美台灣同鄉會紐澤西分會).
+- Corpus record: [[works/taiwaneseamericanhistory-org/whos-who-1867-tehming-liang|1867. Dr. Tehming Liang 梁德明醫師]] (TAH Who's Who, 2017-08-23).
+- HOLD: homonym disambiguation — the 梁德明 named in [[articles/taiwanjustice-net/2026/20260115091949_香港民主派新科區議員-呼籲台灣人返鄉投票影_b2e95db5f378e4bc|this 2026 TJJ article]] is a Hong Kong pro-democracy district councillor, not the Chicago physician; do not merge.
 
 ## Family
 

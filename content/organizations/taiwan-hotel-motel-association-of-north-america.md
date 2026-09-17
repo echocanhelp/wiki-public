@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-17
 ---
 # Taiwan Hotel & Motel Association of North America (北美洲台灣旅館公會聯合總會)
 
@@ -17,6 +17,15 @@ last_reviewed: 2026-08-17
 - **Core roles:** Community organization (TAH directory)
 
 The Taiwan Hotel & Motel Association of North America is a national umbrella organization uniting Taiwanese American hoteliers across the United States. It was founded on June 11, 2005, in Los Angeles, California, growing out of collaborative efforts between the Taiwan Hotel/Motel Association of Southern California and the Taiwan Innkeepers Association of Greater Houston. The Association’s goal is to unite the strength of Taiwanese hoteliers by facilitating the exchange of knowledge and operational experience. It currently encompasses member associations in California, Texas, Louisiana, Florida, and New Jersey.
+
+## Role in the Community
+
+From the community record:
+
+- The hoteliers' network predates the national umbrella: the 旅館公會 (hoteliers' association) was one of twelve Taiwanese American groups that jointly mailed the 1990 US census campaign letter to ~12,000 Taiwanese households on July 30, 1989, alongside TAA, TACL, FAPA, TCCCNA, the Human Rights Association, NATMA, NATPA, and NATWA ([[works/taiwaneseamericanhistory-org/ourjourneys253|Our Journeys #253]]).
+- The founding Southern California chapter runs community-facing programs documented in the corpus: a summer on-the-job training camp for Taiwan hotel/restaurant-management students ([[works/taiwaneseamericanhistory-org/12-63|63. 台灣餐旅系學員美國暑假在職訓練營]]) and a charity golf tournament / friendship match ([[works/taiwaneseamericanhistory-org/golf-thmasc|Charity Golf Tournament 慈善高爾夫球友誼賽]]); its own directory record is at [[works/taiwaneseamericanhistory-org/taiwan-hotel-motel-association-of-southern-california|TAH directory entry]].
+- The Association's own 2017 TAH directory record documents the national body ([[works/taiwaneseamericanhistory-org/taiwan-hotel-motel-association-of-north-america|directory entry]]).
+- Related existing pages: predecessor chapters [[organizations/taiwan-hotel-motel-association-of-southern-california||Taiwan Hotel & Motel Association of Southern California]] and [[organizations/taiwan-hotel-motel-association-of-greater-houston-thmagh||Taiwan Hotel Motel Association of Greater Houston]], the two bodies whose 2005 collaboration founded this umbrella.
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwan-hotel-motel-association-of-north-america/)

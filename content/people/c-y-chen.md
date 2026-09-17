@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-17
 ---
 # C. Y. Chen (陳黃群雁)
 
@@ -40,6 +40,11 @@ last_reviewed: 2026-08-17
 ## From the record
 
 - 2025-02-22 — Attended the 228追思紀念大會 at the Greater Los Angeles Taiwan Center listed as 副董事長 (with 蔡漢成) among the honored guests ([[articles/taiwanjustice-net/2025/20250320212940_大洛杉磯台灣會館等24個台美社團舉舉行228追思紀念_c62f5c50846fe267|TJJ report, 2025-02-24]]).
+
+## Role in the Community
+
+- Recorded in the TAH Foundation Who's Who encyclopedia entry [[works/taiwaneseamericanhistory-org/whoswho1141|1141. C. Y. Chen 陳黃群雁 / 2016/07]] — educator (NTU B.S. public administration; SUNY Albany M.S./Ph.D.) who served as 執行長 of the 亞太婦女中心 and senior budget analyst for New York State.
+- As 副董事長 of the Greater Los Angeles Taiwan Center, she was among the honored guests at the 2025-02-22 228追思紀念大會 (24 台美社團協辦; TAHS 會長楊嘉猷 also attended) ([[articles/taiwanjustice-net/2025/20250320212940_大洛杉磯台灣會館等24個台美社團舉舉行228追思紀念_c62f5c50846fe267|TJJ report]]), consistent with the existing "From the record" entry.
 
 ## Sources
 - [TAH #1141 encyclopedia: 1141. C. Y. Chen 陳黃群雁 / 2016/07](https://taiwaneseamericanhistory.org/whoswho1141/)

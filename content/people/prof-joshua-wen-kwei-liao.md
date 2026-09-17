@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-17
 ---
 # Prof. Joshua Wen-Kwei Liao (廖文奎教授)
 
@@ -29,6 +29,9 @@ Prof. Joshua Wen-Kwei Liao 廖文奎教授 – History of Taiwanese American (T.
 ## Employment
 - Univ. of Nanking (南京金陵大學) — Professor of Philosophy — Daesung Industrial Co., Ltd. (大承興業株式會社) — President — (1939-) — Hong Kong Univ. — Professor — (1948-)
 <!-- tah-tables:end -->
+
+## Role in the Community
+- SKIP (2026-09-17): no corpus mentions beyond his own bibliographic record [[works/taiwaneseamericanhistory-org/whos-who-1849-wen-kwei-liao|1849. Prof. Joshua Wen-Kwei Liao 廖文奎教授]]; his life (1905–1952, Nanking/Hong Kong philosophy career) predates the postwar Taiwanese American memoir corpus, so there is no community-record material to absorb. No facts invented.
 
 ## Family
 
