@@ -41,3 +41,7 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+## From the record
+
+- 2022-08-05 — CNA 專電（TJJ 轉載）引述：住在加州山景市的葉介庭就裴洛西訪台向《紐約時報》表示「每個人心中似乎都有個疑問：這構成了挑釁嗎？」，認為台裔美國人多數樂見裴洛西按計畫訪台，若被中國威脅嚇退反而更糟；其觀點與舊金山台裔市議員莊吳明芳相仿（[[articles/taiwanjustice-net/2022/20220810020737_2022_08_05_舊金山台裔市議員莊吳明芳_外國不能干預美國官_c692a70646f3af76|TJJ/CNA, 2022-08-05]]）。

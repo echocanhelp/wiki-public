@@ -45,6 +45,7 @@ Dr. Long-Rong (Mark) Kao 高龍榮 – History of Taiwanese American (T.A. Archi
 ## From the record
 
 - 2017-07-24 — Quoted in 楊遠薰's column as a 海台青 (OTD) organizer and fundraiser and former FAPA president-general (前FAPA總會長), praising the energy of the OTD "Hackathon" workshop at the TACEC summer camp ([[articles/taiwanjustice-net/2021/20211207123518_2017_07_24_海台青與黑客松-_-楊遠薰-2017-07-24_2c9cb76838702dd7|楊遠薰 column via TJJ, 2017-07-24]]; same column re-archived 2024: [[articles/taiwanjustice-net/2024/20240523010214_root_3260cd0bdf2f84d7|Wayback copy via TJJ]]).
+- 2015-03-27 — Writing as president of the Formosan Association for Public Affairs, Kao's Taipei Times column (republished on TJJ) charges that US pressure on Taiwan for "specific outcomes" on cross-strait policy is itself unjust, since the US officially insists only on a "peaceful process" ([[articles/taiwanjustice-net/2024/20240522053244_root_042939d886040651|TJJ (Taipei Times), 2015-03-27]]).
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

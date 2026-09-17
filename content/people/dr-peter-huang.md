@@ -66,3 +66,7 @@ last_reviewed: 2026-09-14
 
 ## Community Context（deepen pass 2026-09-14）
 履歷（皆本頁既有事實，僅補連結）：1967 年臺北醫學院醫學士；後赴約翰霍普金斯大學取得醫療政策與衛生政策兩個碩士 —— 與當地台美人學生圈子相連：[[organizations/johns-hopkins-university-taiwanese-student-association||JHU Taiwanese Student Association]]。1984–1996 年任 Delaware Medical Center 神經外科主任（德拉瓦州台美人社團：[[organizations/taiwanese-association-of-america-delaware||TAA Delaware]]）；1993–2015 年任門諾醫院（Mennonite Christian Hospital，花蓮）院長，為台美人醫界投入鄉土的典範 —— 同類組織：[[organizations/north-american-taiwanese-medical-association-foundation||NAMTA Foundation]]。
+
+## From the record
+
+- 2017-02-23 — 黃勝雄醫師演講「老人的記憶與記憶的神經科學」（含影像），由吳瑞惠撰文字紀錄、蕭慶和攝製，刊於台灣公義報（[[articles/taiwanjustice-net/2024/20240723023500_root_23a52af3dcf8a6ce|TJJ tag page, 2017-02-23]]）；全文存檔版見 [[articles/taiwanjustice-net/2024/20240613111529_root_be7ac05c58e6eab6|TJJ, 2017-02-23]]。
