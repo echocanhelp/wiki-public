@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-16
+last_reviewed: 2026-09-17
 ---
 # Dr. Lynn Y.S. Lin (林英祥博士)
 
@@ -38,7 +38,7 @@ _No filled family fields on the TAH profile._
 
 ## Role in the Community
 - Recorded in the TAH Foundation Who's Who archive; his entry is preserved at [[works/taiwaneseamericanhistory-org/whos-who-1972-lynn-ys-lin|TAH #1972 encyclopedia: 1972. Dr. Lynn Y.S. Lin 林英祥博士]].
-- Corpus grep (re-run 2026-09-16): coverage of him is limited to this TAH record and the works index — no memoir/club mentions found in `content/works` or `content/articles` beyond the encyclopedia entry. His BASES/Burke marketing-forecast career is documented only via the TAH profile.
+- Corpus grep (re-run 2026-09-17): coverage of him is limited to this TAH record and the works index — no memoir/club mentions found in `content/works` or `content/articles` beyond the encyclopedia entry. His BASES/Burke marketing-forecast career is documented only via the TAH profile.
 
 ## Sources
 - [TAH #1972 encyclopedia: 1972. Dr. Lynn Y.S. Lin 林英祥博士](https://taiwaneseamericanhistory.org/whos-who-1972-lynn-ys-lin/)
