@@ -6,7 +6,7 @@ tags:
   - columnist
   - taiwanjustice-net
 verification_status: pending
-last_reviewed: 2026-08-30
+last_reviewed: 2026-09-17
 ---
 # Chin Heng-wei (金恆煒)
 
@@ -11239,6 +11239,10 @@ Notable quotes and mentions of **金恆煒** in Taiwan Justice articles:
    — 'Tag: 新竹北埔' (2011-08-31)
 
 *...and 79 more quotes*
+
+## From the record
+
+- 2015-07-02 — 吳澧培's memoir preface: Chin Heng-wei issued the 「台灣獨立行動黨」 formation news to media on July 2, then attacked 蔡英文 and the DPP in his column despite being a party sponsor, nearly driving 吳澧培 out of the project; by 08-10-2015 金恆煒 announced the group would not form separately and would back 時代力量 instead ([[articles/taiwanjustice-net/2024/20240425080646_root_9a39a754d2a3b236|TJJ, 2015-10-12]]).
 
 ## Source Notes
 

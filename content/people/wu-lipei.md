@@ -8,7 +8,7 @@ tags:
   - taiwanjustice
   - publication-contributor
 verification_status: pending
-last_reviewed: 2026-08-30
+last_reviewed: 2026-09-17
 ---
 
 # Wu Li-pei / 吳澧培
@@ -240,6 +240,10 @@ Notable quotes and mentions of **吳澧培** in Taiwan Justice articles:
    — 我的人生︰一個堅持和無數的巧合 ◎吳澧培/吳澧培回憶錄前言 10-12-2015 (2015-10-12)
 
 *...and 33 more quotes*
+
+## From the record
+
+- 2015-10-12 — His own memoir preface (TJJ republication): in 2004, as he renounced US citizenship to settle back in Taiwan, House Judiciary Committee chair Howard Berman and two other representatives filed a 「向吳澧培致敬」(Tribute to Li Pei Wu) resolution entered into the Congressional Record — a rare honor; he also recalls that without his friendship with 謝聰敏 he would never have joined the island 台獨 movement ([[articles/taiwanjustice-net/2024/20240425080646_root_9a39a754d2a3b236|TJJ, 2015-10-12]]).
 
 ## Sources
 - [TAH #21 encyclopedia: 21. Li Pei Wu (吳澧培)](https://taiwaneseamericanhistory.org/senior-taiwanese-american-21/)
