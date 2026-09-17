@@ -32,6 +32,10 @@ last_reviewed: 2026-08-17
 
 _No filled family fields on the TAH profile._
 
+## From the record
+
+- 2024-02-28 — 在台灣人聯合基金會（TUF）與優社（TEA）合辦的第17屆「台灣介心靈日」228紀念音樂會（Arcadia Community Church）帶領會眾祈禱，祈禱文指每個國家都有黑暗歷史、必須為受害者發聲打破社會禁忌，否則毒化整個社會，並祈求台灣面對外來新威脅能建立健康自由的國家（[[articles/taiwanjustice-net/2024/20240522044953_root_47725345581e0f61|TJJ 影音報導, 2024-03-04]]）。
+
 ## Sources
 - [TAH #2133 encyclopedia: 2133. Rev. Thomas H. Chen 陳宏文牧師](https://taiwaneseamericanhistory.org/whos-who-2133-thomas-h-chen/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/rev-thomas-h-chen/)
