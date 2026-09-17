@@ -42,3 +42,7 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+## From the record
+
+- 1966 — The quiet 'third man': unlike roommates H and C who backed out, Kao stayed the whole night helping 廖清山 paste 台獨 posters in SF Chinatown, then left no contact info; fifty years on Liao traced him via 許村源/蘇松茂 and thanked him in person in Feb 2017 during Kao's visit to Southern California ([[articles/taiwanjustice-net/2024/20240301071009_root_cbf185d4e8137928|TJJ column, 2017-09-19]]).

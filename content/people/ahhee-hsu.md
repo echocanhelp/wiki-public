@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-16
+last_reviewed: 2026-09-17
 ---
 # Ahhee Hsu (許丕龍)
 
@@ -48,6 +48,11 @@ Accomplishment
 - **Wife:** 蔡瀛如
 - **Daughter:** [[people/hsu-ching-chun||許景淳]]
 
+
+## From the record
+
+- 2022-07-12 — In 王泰和's recollection of the 台獨之聲 phone-tape line in Los Angeles (scripts read by 盧千惠, wife of 許世楷, who was then on sabbatical in LA from teaching in Japan), 許丕龍 asked to meet the mysterious 'speaker' — which amused the circle, since the voice everyone admired was 盧千惠's ([[articles/taiwanjustice-net/2025/20250811013132_化作千風_懷念台美人的人權鬥士_台獨先鋒王泰_31b7081a5d37939f|TJJ, 2022-07-12]]).
+- 1980s — Named in 陳昭南's memoir as one of the local LA founding members of 美國美麗島週報社 ([[articles/taiwanjustice-net/2022/20220519131411_2022_05_09_籌謀台灣_不流血革命_的獻策高手原來是他-_-陳_e3440fec3eed8107|TJJ column, 2022-05-09]]).
 
 ## Sources
 - [TAH #2267 encyclopedia: 2267. Ahhee Hsu 許丕龍](https://taiwaneseamericanhistory.org/whos-who-2267-ahhee-hsu/)

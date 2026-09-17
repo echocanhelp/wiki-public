@@ -40,3 +40,7 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+## From the record
+
+- 1965 — 廖清山's memoir records Kerr giving him a signed copy of《被出賣的台灣》in San Francisco and asking him to gather Japanese/Chinese materials for a next book; they visited each other frequently in SF and Berkeley that year ([[articles/taiwanjustice-net/2024/20240301071009_root_cbf185d4e8137928|TJJ column, 2017-09-19]]).

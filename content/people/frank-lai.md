@@ -72,3 +72,7 @@ _No filled family fields on the TAH profile._
 - TAH #53 口述歷史（1966 橫貫美國之旅）另兩位受訪者：[[people/tsan-hung-george-chang||張燦鍙 (George Chang)]] 與 [[people/ron-chen||陳榮成 (Ron Chen / Long-Chen Chen)]]——陳榮成頁記載同一年、同一行程。
 - 出處頁發布日期（vault records）：#1014 — 2016-05-22；#1044 — 2016-05-28；#53 口述歷史 — 2015-12-04。
 - 發布機構：[[organizations/taiwanese-american-historical-society||TAHS]]；語料庫：[[sources/taiwaneseamericanhistory-org-story-corpus||TAH story corpus]]。
+
+## From the record
+
+- 1966 — 廖清山's memoir: Lai, with 張燦鍙, reached San Francisco on the 自由長征, left publicity including《台灣青年》for distribution, and began a fifty-year close friendship with Liao, who did grassroots legwork for him and consulted him on hard problems ([[articles/taiwanjustice-net/2024/20240301071009_root_cbf185d4e8137928|TJJ column, 2017-09-19]]).

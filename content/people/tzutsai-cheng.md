@@ -44,3 +44,7 @@ last_reviewed: 2026-08-17
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+## From the record
+
+- 1975 — In 田台仁's 2022-03-03 letter appended to 陳昭南's memoir, Cheng is named among the people he first met (with 彭明敏、張維嘉、趙有源) aboard the Rhine cruise at the 1975 歐台會 in Cologne ([[articles/articles/taiwanjustice-net/2022/20220519131411_2022_05_09_籌謀台灣_不流血革命_的獻策高手原來是他-_-陳_e3440fec3eed8107|TJJ column, 2022-05-09]]).

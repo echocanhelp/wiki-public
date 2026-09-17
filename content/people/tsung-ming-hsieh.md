@@ -45,6 +45,10 @@ _No filled family fields on the TAH profile._
 - [TAH #1642 encyclopedia: 1642. Tsung Ming Hsieh 謝聰敏](https://taiwaneseamericanhistory.org/whos-who-1642-tsung-ming-hsieh/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/tsung-ming-hsieh/)
 
+## From the record
+
+- 2017-09-10 — 獨傲村夫's essay on Chiang Kai-shek's 1960s "反攻大陸" plans cites 謝聰敏, with 彭明敏 and 魏廷朝, as co-author of the 1964-09-20「台灣人民自救宣言」, which denounced the regime's use of 反攻大陸 to extract US aid and asserted "一個中國，一個台灣" as fact ([[articles/taiwanjustice-net/2024/20240719213421_root_35d25fb4bdf39cd8|獨傲村夫 via TJJ, 2017-09-10]]).
+
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
