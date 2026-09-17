@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-17
 ---
 # Herng-Shinn Hwang (黃恆信)
 
@@ -40,6 +40,11 @@ last_reviewed: 2026-08-17
 
 - **Wife:** 李彩雲
 
+
+## Role in the Community
+- President, Taiwanese American Industrial Technology Association – AE Chapter (2007) — community leadership role in the engineering/TA-professional network.
+- Documented in the community record: [[works/taiwaneseamericanhistory-org/735-herng-shinn-hwang-e9-bb-83-e6-81-86-e4-bf-a1-201512|735. Herng-Shinn Hwang 黃恆信 (TAH, 2015/12)]].
+- No further mentions found in the memoir/article corpus; industrial career (Engelhard, INDER consultant, Songya Technology) stands as per the TAH profile.
 
 ## Sources
 - [TAH #735 encyclopedia: 735. Herng-Shinn Hwang 黃恆信 / 2015/12](https://taiwaneseamericanhistory.org/735-herng-shinn-hwang-%e9%bb%83%e6%81%86%e4%bf%a1-201512/)
