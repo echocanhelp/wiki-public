@@ -39,6 +39,10 @@ last_reviewed: 2026-08-17
 - [TAH #2071 encyclopedia: 2071. CHUNG-LIEN Chen 陳崇廉 / 03/2018](https://taiwaneseamericanhistory.org/whoswho2071/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/chung-lien-chen/)
 
+## From the record
+
+- 2021-07-11 — 子陳仁宜競選加州主計長接受中央社專訪，追述父親陳崇廉1970年代自台灣赴美留學、在北卡羅來納州接受醫學訓練、後舉家遷居加州羅蘭崗執業行醫，與留美化學教師出身的妻子謝雅美共同支持兒子的志業（[[articles/taiwanjustice-net/2021/20211205043357_2021_07_11_台裔學者陳仁宜角逐加州主計長_感恩父母支持_a1056cd694ea21cb|TJJ 轉載中央社專訪，2021-07-12]]）。
+
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

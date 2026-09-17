@@ -53,6 +53,10 @@ Accomplishment
 - [TAH #970 encyclopedia: 970. Dr. Rex Yu 余忠村博士](https://taiwaneseamericanhistory.org/whos-who-970-rex-yu/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-rex-yu/)
 
+## From the record
+
+- 2017-02-17 — 二二八十週年，台灣會館聘余忠村博士主持二二八國家紀念館特展「沉冤、真相、責任」文物抵美後的海外佈展（2017-02-25洛杉磯華僑文教中心揭幕、展出兩週），他表示盡量維持原策展人的創意與精神，讓參觀者思考反省、悲劇不再發生（[[articles/taiwanjustice-net/2024/20240530134421_root_23da543a315a1fa1|TJJ 轉載台灣會館會訊，2017-02-17]]）。
+
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

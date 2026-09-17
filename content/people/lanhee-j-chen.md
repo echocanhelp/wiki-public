@@ -48,6 +48,11 @@ last_reviewed: 2026-09-17
 - [TAH #2070 encyclopedia: 2070. Lanhee J. Chen 陳仁宜 / 03/2018](https://taiwaneseamericanhistory.org/whoswh2070/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/lanhee-j-chen/)
 
+## From the record
+
+- 2020-05-07 — 以胡佛研究所研究員暨國內政策研究主任身份，參與該所「台灣在印太地區研究計畫」主辦、史丹佛大學的陳建仁防疫線上研討會，獲邀為與談人之一（[[articles/taiwanjustice-net/2026/20260208193759_史丹佛論壇分享防疫-陳建仁_台灣模式貴在透明_d94cecddadd6f167|TJJ 轉載中央社，2020-05-08]]）。
+- 2021-07-11 — 宣布角逐2022年加州主計長（州府最高財政監督官），接受中央社專訪談台裔移民家庭背景、父母陳崇廉與謝雅美的犧牲支持，並期許啟發台裔亞裔年輕一輩參與政治（[[articles/taiwanjustice-net/2021/20211205043357_2021_07_11_台裔學者陳仁宜角逐加州主計長_感恩父母支持_a1056cd694ea21cb|TJJ 轉載中央社專訪，2021-07-12]]）。
+
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

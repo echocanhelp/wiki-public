@@ -41,6 +41,10 @@ _No filled family fields on the TAH profile._
 - [TAH #281 encyclopedia: 281. Dr. Jason Wang 王智弘/2015/02](https://taiwaneseamericanhistory.org/whos-who-281-jason-wang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-jason-wang/)
 
+## From the record
+
+- 2020-05-07 — 副總統陳建仁應胡佛研究所「台灣在印太地區研究計畫」之邀在史丹佛大學主辦的線上研討會分享台灣防疫模式，史丹佛醫學院台裔教授王智弘（Jason Wang）獲邀為與談人之一（[[articles/taiwanjustice-net/2026/20260208193759_史丹佛論壇分享防疫-陳建仁_台灣模式貴在透明_d94cecddadd6f167|TJJ 轉載中央社，2020-05-08]]）。
+
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
