@@ -42,6 +42,8 @@ Dr. Jii (James) Shieh 謝己博士 – History of Taiwanese American (T.A. Archi
 - Corpus re-grep 2026-09-16 (slice 09160700-10): hit set again unchanged (video-185, ourjourneys159, TAH #2101, index, taiwanjustice-net 2017 + 2024 copies of the same 楊遠薰 handover report). Nothing new absorbable; no conflicts. SKIP-with-reason.
 - Corpus re-grep 2026-09-16 (slice 09162138-7): wider regex surfaced only false positives — ourjourneys305's TPC member roster matches via 'James Huang Chen … J.J. & Christine Shen Shieh' (a different Shieh household: spouse Christine Shen, not Clara 黃小芳), and ourjourneys33 matches 'Jiin Lin' / 'Philip Shieh 謝伯芳'. Real hit set unchanged. Nothing new absorbable; no conflicts. SKIP-no-new-material.
 
+- Corpus re-grep 2026-09-16 (slice 09162200-3): real hit set unchanged (video-185, ourjourneys159, TAH #2101, index, taiwanjustice-net copies of 楊遠薰's 2017 夏令會 report); broader 'Jii' regex again matched ourjourneys33 only via 'Jiin Lin' / 'Philip Shieh' false positives. Nothing new absorbable; no conflicts. SKIP-with-reason.
+
 ## Family
 
 - **Wife:** Clara Shiao-Fang Shieh (黃小芳)

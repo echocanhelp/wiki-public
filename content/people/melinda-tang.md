@@ -44,6 +44,9 @@ and Claude Frank; accompanying with Davis, choral conducting with Robert Harris.
 in Rowland Heights and directs/acompanies at 恩惠台灣基督長老敎會 — in the Presbyterian tradition of Taiwan
 ([[organizations/presbyterian-church-in-taiwan||台灣基督長老教會]]).
 
+## Corpus re-grep (deepen-x slice 09162200-3)
+- 2026-09-16: hit set unchanged — own TAH #1117 / musician85 records + works/index catalog rows only. No memoir/community material to absorb. SKIP-with-reason; no conflicts to HOLD; last_reviewed already 2026-09-16.
+
 ## Sources
 - [TAH #1117 encyclopedia: 1117. Melinda Tang 陳方俐 / 2016/06](https://taiwaneseamericanhistory.org/whoswho1117/)
 - [TAH #85 encyclopedia: 85. Melinda Tang 陳方俐, Pianist/2014/12](https://taiwaneseamericanhistory.org/musician85/)

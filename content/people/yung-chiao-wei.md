@@ -62,6 +62,8 @@ _No filled family fields on the TAH profile._
 - SKIP 複核（deepen-x slice 09160700-7，2026-09-16）：再 grep 魏詠蕎／Yung-Chiao Wei，命中集合不變（#198、#422、works/index），社群/回憶錄材料零命中，維持 SKIP。
 - SKIP 複核（deepen-x slice 09162138-3，2026-09-16）：命中集合不變，維持 SKIP。
 
+- SKIP 複核（deepen-x slice 09162200-3，2026-09-16）：再 grep 魏詠蕎／Yung-Chiao Wei，命中集合不變（#198、#422、works/index），社群/回憶錄材料零命中，維持 SKIP-with-reason；無衝突需 HOLD。
+
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

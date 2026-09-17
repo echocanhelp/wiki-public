@@ -31,6 +31,9 @@ The association's own anniversary special issues are held in the corpus as commu
 ## Corpus Re-check (slice 19, 2026-09-15; re-run slice 09160109-15, 2026-09-16)
 - Re-grep of `content/works` + `content/articles` for 休士頓台灣長春會 / Formosan Evergreen returns only the association's own directory entry (#2), its anniversary issues #934/#935/#936, and [[works/taiwaneseamericanhistory-org/ourjourneys233-eng|Our Journeys #233]] — all already absorbed above (1992 TCC co-governance seat via Shou-chang Ou; anniversary special issues as published record). No new absorbable material; no conflicts to HOLD. Re-verified (deepen-x slices 09160316-13 and 09160400-13, 2026-09-16): hit set unchanged, page saturated. Re-verified again (deepen-x slice 09160500-15, 2026-09-16): hit set identical (#2、#934/#935/#936、Our Journeys #233、works/index) — SKIP-with-reason; no new absorbable material, no conflicts to HOLD. Re-verified again (deepen-x slice 09160600-10, 2026-09-16): hit set identical (#2、#934/#935/#936、Our Journeys #233、works/index) — SKIP-with-reason; page saturated. Re-verified again (deepen-x slice 09160700-8, 2026-09-16): hit set identical, Our Journeys #233 passage (1992 TCC management committee via Shou-chang Ou) already absorbed in Role in the Community — SKIP-with-reason; no new absorbable material, no conflicts to HOLD. Re-verified again (deepen-x slice 09162138-3, 2026-09-16): hit set identical — SKIP-with-reason; page saturated.
 
+## Corpus re-grep (deepen-x slice 09162200-3)
+- 2026-09-16: hit set identical (#2、#934/#935/#936、Our Journeys #233、works/index) — all already absorbed in Role in the Community / Published Record. SKIP-with-reason; page saturated; no conflicts to HOLD.
+
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/houston-formosan-evergreen-association/)
 

@@ -50,6 +50,7 @@ last_reviewed: 2026-09-16
 - Corpus re-verified 2026-09-16（deepen-x slice 09160600-11）：grep 命中集仍相同（#409、#1710、Our Journeys #268、works/index）。SKIP-with-reason；無新增社群事實，無衝突需 HOLD。
 - Corpus re-verified 2026-09-16（deepen-x slice 09160700-7）：grep 命中集仍相同（#409、#1710、Our Journeys #268、works/index）。SKIP-with-reason；社群事跡已全數吸收，無新增事實，無衝突需 HOLD。
 - Corpus re-verified 2026-09-16（deepen-x slice 09162138-4）：grep 命中集再次相同（#409、#1710、Our Journeys #268、works/index）。SKIP-with-reason；社群事跡已全數吸收，無新增事實，無衝突需 HOLD。
+- Corpus re-verified 2026-09-16（deepen-x slice 09162200-2）：grep 命中集仍相同（[[works/taiwaneseamericanhistory-org/musician409|#409]]、[[works/taiwaneseamericanhistory-org/whoswho1710|#1710]]、[[works/taiwaneseamericanhistory-org/ourjourneys268|Our Journeys #268]]、works/index）。SKIP-with-reason；社群事跡已全數吸收，無新增事實，無衝突需 HOLD。
 
 ## Sources
 - [TAH #409 encyclopedia: 409. R. F. Huang許黃瑞鳳, conductor / 07/2017](https://taiwaneseamericanhistory.org/musician409/)
