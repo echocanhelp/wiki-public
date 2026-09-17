@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-16
+last_reviewed: 2026-09-17
 ---
 # Peter Lee (李文智)
 
@@ -54,7 +54,7 @@ _No filled family fields on the TAH profile._
 - [TAH Who's Who](https://taiwaneseamericanhistory.org/person/peter-lee/)
 
 ## Vault note (deepen-x 2026-09-15 / re-check 2026-09-16, slices incl. 22, 24, 25, 26, 09160700-20)
-Corpus grep (works/articles, both 李文智 and "Peter Lee") hits only this page's own TAH record pages #445 / #213 (already wikilinked below) and index entries — no memoir/community material to absorb. SKIP this pass; hit set unchanged in slice 09160700-20 and slice 09162138-17 (re-check: #445 / #213 + index only). Re-check slice 09162200-15 (2026-09-16): same hit set — SKIP.
+Corpus grep (works/articles, both 李文智 and "Peter Lee") hits only this page's own TAH record pages #445 / #213 (already wikilinked below) and index entries — no memoir/community material to absorb. SKIP this pass; hit set unchanged in slice 09160700-20 and slice 09162138-17 (re-check: #445 / #213 + index only). Re-check slice 09162200-15 (2026-09-16): same hit set — SKIP. Re-check slice 09170130-13 (2026-09-17): same hit set — SKIP.
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
