@@ -31,6 +31,11 @@ Lyric Soprano Dr. Lu-Hsuan Lucy Chen 陳綠萱 is a native of Taiwan. She earned
 - St. Barnabas’ Episcopal Church — Present — music director/organist
 <!-- tah-tables:end -->
 
+## Role in the Community
+- Held twice in the TAH Foundation encyclopedia — as a musician entry and a Who's Who entry — documenting a Taiwanese American lyric soprano and church musician: [[works/taiwaneseamericanhistory-org/40-lu-hsuan-lucy-chen-e9-99-b3-e7-b6-a0-e8-90-b1-lyric-soprano|TAH #40: Lu-Hsuan Lucy Chen 陳綠萱, Soprano (2014-10)]] and [[works/taiwaneseamericanhistory-org/514-lu-hsuan-lucy-chen-e9-99-b3-e7-b6-a0-e8-90-b1-201507|TAH #514: Lu-Hsuan Lucy Chen 陳綠萱 (2015-07)]].
+- Service role recorded in the TAH profile: music director/organist at St. Barnabas' Episcopal Church.
+- Corpus check 2026-09-16: no memoir/community records beyond these two TAH entries (article matches for 露玄 are unrelated persons).
+
 ## Family
 
 _No filled family fields on the TAH profile._
