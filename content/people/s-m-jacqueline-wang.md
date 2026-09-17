@@ -46,3 +46,4 @@ S. M. (Jacqueline) Wang 王賽美 – History of Taiwanese American (T.A. Archiv
 ## From the record
 
 - 2022-09-13 — A TJJ notice for the 大洛杉磯台灣會館 24th-anniversary fundraising gala credits the 1998 donation of the Taiwan Center's land and building to permanent honorary chairman 王桂榮 and his wife 王賽美, the founding basis of the center ([[articles/taiwanjustice-net/2022/20220924222953_2022_09_13_10-22大洛杉磯台灣會館-24-週年募款年會_紀政擔任主講_2a543ddc9301b7b3|TJJ, 2022-09-13]]).
+- 2020-11-17 — The Taiwan Center's 22nd-anniversary fundraising notice again credits the center's founding property (land and building, 1998) to permanent honorary chairman 王桂榮 and his wife 王賽美 ([[articles/taiwanjustice-net/2020/20201126160218_2020_11_17_大洛杉磯台灣會館基金會22週年線上募款年會12-5舉行_c3e762826a7e42d2|TJJ, 2020-11-17]]).

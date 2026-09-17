@@ -39,6 +39,10 @@ Led FORMOSAT-1 (福衛一號) launch team as head of launch group at National Sc
 ## In the vault
 - TAH's story corpus holds a feature on him, "108. Ching Sze Hsieh 謝清志", published 2014-11-23 — see [[works/taiwaneseamericanhistory-org/108-e8-ac-9d-e6-b8-85-e5-bf-97-e5-8d-9a-e5-a3-ab-dr-ching-sze-hsieh|TAH story #108]].
 
+## From the record
+
+- 2020-09-30 — 林宏容's memorial essay for 鄭寶鼎博士 (TJJ) recalls that in 2010, at Bob Cheng's request, Hsieh joined the first 台美史料中心籌備會議 at 陳立明博士's home (with 郭清江, 王漢平, 林宏容), and later co-ordinated and, together with Bob, interviewed and recruited the centre's full-time staff and volunteers ([[articles/taiwanjustice-net/2026/20260121010227_斯人已逝_其德可追-緬懷鄭寶鼎博士-_-林宏容_9907500dda4f33bb|林宏容 via TJJ, 2020-09-30]]).
+
 ## Sources
 - [TAH Who's Who](https://taiwaneseamericanhistory.org/person/ching-sze-hsieh/)
 

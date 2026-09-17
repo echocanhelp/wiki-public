@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-17
 ---
 # Global Taiwan Institute (全球台灣研究中心)
 
@@ -20,6 +20,10 @@ The Global Taiwan Institute (GTI) is a think tank dedicated to strengthening US-
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/global-taiwan-institute/)
+
+## From the record
+
+- 2017-02-17 — AIT Taipei director Stephen Young (楊甦棣) spoke at GTI in Washington, per 宋娣's column: the US would send Marines to guard AIT's new Neihu compound (「Marine House⋯⋯台北也會有」), Taiwan needs new fighters to match China's air-defense capability, and the US should aid Taiwan's submarine program — cited as evidence US-Taiwan ties were approaching quasi-state level ([[articles/taiwanjustice-net/2024/20240522232536_root_064fe05a08d0aecf|TJJ, 2017-02-17]]).
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

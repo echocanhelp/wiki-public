@@ -45,6 +45,9 @@ _No filled family fields on the TAH profile._
 ## From the record
 
 - 2020-11-05 — 美國大選膠著時表示「無論誰勝選，台美關係將持續深化」，見台灣公義報「台美人台加人」分類（2025-02-16 存檔）—— [[articles/taiwanjustice-net/2025/20250216000009_category_taiwaneseamerican_page_2_3be67f6e82d34da7|TJJ 台美人台加人存檔頁2]]。
+- 2017-02 — Led an 8-lawmaker legislative delegation to the US (王定宇, 林俊憲, 邱議瑩, 尤美女, 江啟臣, 許毓仁, 高路·以用), meeting House/Senate members, administration units, and think tanks including the Global Taiwan Institute; 宋娣's column cites the trip as proof the US-Taiwan relationship is approaching quasi-state status ([[articles/taiwanjustice-net/2024/20240522232536_root_064fe05a08d0aecf|TJJ, 2017-02-17]]).
+- 2020-11-17 — Announced by 大洛杉磯台灣會館 as guest speaker of its 22nd online fundraising annual meeting (2020-12-05) on 「台美攜手 眾志成城 TAIWAN-U.S.A. STRONGER TOGETHER」; the notice recounts her four DPP legislative terms and her status as one of two people ever to serve as both 僑選 and 區域立委 ([[articles/taiwanjustice-net/2020/20201126160218_2020_11_17_大洛杉磯台灣會館基金會22週年線上募款年會12-5舉行_c3e762826a7e42d2|TJJ, 2020-11-17]]).
+- 2021-02-28 — As 駐美代表 told the first North America joint online 228 commemoration that democracy is fragile (citing Burma, Hong Kong, China's tech/misinformation/disinfo leverage) and that both US parties have set up offices in Taiwan to learn its experience; she and TECO officials stayed for the entire programme; her father 蕭清芬牧師 led the opening prayer ([[articles/taiwanjustice-net/2026/20260210064123_2021北美洲海外台灣人二二八紀念活動-台灣國家人權_28b0cc4e52acece2|TJJ, 2021-03-03]]).
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
