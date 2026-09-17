@@ -38,7 +38,9 @@ _No filled family fields on the TAH profile._
 ## Role in the Community
 - Carried in the community record by two TAH Foundation encyclopedia entries: [[works/taiwaneseamericanhistory-org/142-prof-maw-kuen-wu|142. Prof. Maw-Kuen Wu 吳茂昆教授]] (published 2018-10-14) and [[works/taiwaneseamericanhistory-org/whos-who-646-wu-maw-kuen|646. Prof. Wu Maw-Kuen 吳茂昆教授]] (published 2015-10-03), both value band B.
 - HOLD: conflict in source tenure data — the accomplishment line gives Academia Sinica Institute of Physics directorship as "2002-2004, 2016-2012" (second range reversed/implausible) while the employment table gives "Director (2002-)". Not auto-merged.
-- Corpus scan (content/works, content/articles): no memoir or article mentions of 吳茂昆 beyond the two own-record pages.
+- 2018-04-19 — As incoming 教育部長, named in a 東華 professor's suit alleging corruption (「提告人」東華教授起底吳茂昆黑歷史嗆告貪汙, 54新觀點 record): [[articles/taiwanjustice-net/2023/20230322155952_tag_貪汙_e509e1f4141f5c8a|TJJ 貪汙 tag archive]].
+- 2025-05-18 — Cited in a KMT press conference on academic-misconduct and research-funding issues: allegation that, as 國科會主委, he allocated NT$500M in research funds to his own institute ([[articles/taiwanjustice-net/2025/20250518215329_論文案-陳其邁_3分鐘可解決為何要拖著_民進黨批_99294ec7acb0fca8|TJJ, 2025-05-18]]; opposition allegation, not adjudicated).
+- No memoir mentions of 吳茂昆 in content/works beyond the two own-record pages.
 
 ## Sources
 - [TAH #142 encyclopedia: 142. Prof. Maw-Kuen Wu 吳茂昆教授](https://taiwaneseamericanhistory.org/142-prof-maw-kuen-wu/)

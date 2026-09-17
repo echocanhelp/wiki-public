@@ -150,6 +150,7 @@ TAH employment (unparsed string): Tainan Univ. of Technology assoc. prof.; Wenza
 
 ## From the record
 
+- 2015-03-14 — 南加州蕭泰然教授追思會「許丕龍憶故人」影音報導（半音合唱團唱念大師，蘇希宗建築師攝）列於台美人新聞相關影音欄（[[articles/taiwanjustice-net/2017/20171107225317_2017_11_05_2001年7月2日半音合唱團受邀演唱於國家音樂廳實況錄_de11e29571f3dc86|TJJ 相關影音欄, 2017-11-05 快照]]）。
 - 2020-11-25 — FAHR（全美台灣人權協會）公告第44屆年會暨「鄭南榕紀念獎」頒獎典禮移師台北（12/5，台北市立圖書館總館）：會中有台派台灣芭蕾舞團配合蕭泰然樂曲的表演（[[articles/taiwanjustice-net/2021/20210118235211_2020_11_25_全美台灣人權協會第44屆年會暨_鄭南榕紀念獎_頒_996879ac7a006acf|TJJ, 2020-11-25]]）。
 - 2025-02-22 — At the 228追思紀念大會 hosted by the Greater Los Angeles Taiwan Center (co-hosted by 24 TA groups), the Taiwan Center choir sang 《台灣》 and 《台灣百合》, and 許正龍 led the assembly in a Hakka/Hokkien bilingual sing-along of his 《台灣翠青》 (lyrics by 鄭兒玉), "singing out the spirit and vision of the Taiwanese people" ([[articles/taiwanjustice-net/2025/20250320212940_大洛杉磯台灣會館等24個台美社團舉舉行228追思紀念_c62f5c50846fe267|TJJ report, 2025-02-24]]).
 - 1994 — 名列「TUF 台灣文化之夜 1994」演出名單（同場：李喬、楊青矗、李慧珍、郭雋律、郭雋音、吳英俊），楊子清提供紀錄；同系列 1993 曾道雄/陳麗蟬/蕭泰然演唱會影音紀錄亦經楊子清存檔（[[articles/taiwanjustice-net/2021/20210117071954_tag_楊子清_11aa2dfa5f64d7e4|TJJ 楊子清 tag, 2020-09-30]]）。

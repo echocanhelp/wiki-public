@@ -35,6 +35,14 @@ last_reviewed: 2026-09-17
 
 _No filled family fields on the TAH profile._
 
+## Role in the Community
+
+- Co-founder of 台灣人的自由台灣 (Formosans' Free Formosa, 3F), Philadelphia 1956, with 楊東傑, 陳以德, 林錫湖 and 盧主義. A corpus memoir recalls the group's origin in weekend discussions where John Lin first asked 「How can Taiwan become independent? Aren't we all Chinese?」 before being persuaded into independence advocacy: [[works/taiwaneseamericanhistory-org/my-stories-897|My Stories #897 — 3F founding memoir]].
+- Memoir detail: Lin grew up in a Taipei physician family; in 1949 he was president of the NTU student council (台大學生自治會會長), was seized by secret police during a campus raid, and was released only after President 傅斯年 intervened — an experience that turned him against the KMT's reign of terror; he later read international relations at the University of Pennsylvania with 陳以德: [[works/taiwaneseamericanhistory-org/ourjourneys85|Our Journeys #85]].
+- Encyclopedia entry honoring him as an enlightenment figure of the independence movement: [[works/taiwaneseamericanhistory-org/275-e6-9e-97-e6-a6-ae-e5-8b-b3-e5-8d-9a-e5-a3-ab-e7-8d-a8-e7-ab-8b-e9-81-8b-e5-8|275. 林榮勳博士 / 獨立運動的啟蒙者 / 1950年代]].
+- HOLD: conflict in the reorganisation date of 3F into 台灣獨立聯盟 (UFI) — 1958 per [[works/taiwaneseamericanhistory-org/ourjourneys33|Our Journeys #33]] vs 1959 per the TJJ essay below. Not auto-merged.
+- Note: [[works/taiwaneseamericanhistory-org/whoswho1069|TAH #1070 "John Lin" 林釗永]] is a different person, not linked here.
+
 ## From the record
 
 - 2023-06-02 — Essay 「從二戰後全球去殖民化，到台灣國家正常化（下）」 recalls that Lin, with 陳以德 and 盧主義 — all NTU graduates — founded the 3F (Free Formosa for Formosans) independence group in Philadelphia in 1956 — the earliest US-based 台獨 organisation — renamed 「台灣獨立聯盟」/ United Formosans for Independence in 1959 ([[articles/taiwanjustice-net/2024/20240225024511_root_2d725102f4e64118|TJJ, 2023-06-02]]; [[articles/taiwanjustice-net/2023/20230923051922_2023_06_02_從二戰後全球去殖民化_到台灣國家正常化-_下_c251f8fc65ac83e0|2023 archive]]; [[articles/taiwanjustice-net/2025/20250328131429_從二戰後全球去殖民化_到台灣國家正常化-_下_c03323d28f95e9ea|2025 archive]]).

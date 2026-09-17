@@ -34,6 +34,9 @@ last_reviewed: 2026-09-17
 - **Mother:** 林惠英
 
 
+## Role in the Community
+- Carried in the TAH story corpus by his 2020 legislator campaign record: [[works/taiwaneseamericanhistory-org/videos-158|158. 吳怡農參選立委 / 02-2020]], [[works/taiwaneseamericanhistory-org/my-stories-719|719. 吳怡農的生涯簡介 / 02-2020]] and [[works/taiwaneseamericanhistory-org/my-stories-720|720. 吳怡農參選4個月創造高聲量 / 02-2020]]; campaign artifacts at [[works/taiwaneseamericanhistory-org/artifacts-82|TAH #82 競選文宣品與贈品]]; TIME 100 Next coverage at [[works/taiwaneseamericanhistory-org/my-stories-858|858. 吳怡農推動緊急應變訓練 入選2022時代雜誌次世代百大人物]]. All band B bibliographic records — full text stays in the vault.
+
 ## Sources
 - [TAH #82 encyclopedia: 82. Enoch Wu Campaign Materials and Gifts for 2020 Legislator 吳怡農2020立法委員競選文宣品與贈](https://taiwaneseamericanhistory.org/artifacts-82/)
 - [TAH #2244 encyclopedia: 2244. Enoch Wu 吳怡農](https://taiwaneseamericanhistory.org/whos-who-2244-enoch-wu/)

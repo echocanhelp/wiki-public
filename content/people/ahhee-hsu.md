@@ -53,6 +53,7 @@ Accomplishment
 
 - 2022-07-12 — In 王泰和's recollection of the 台獨之聲 phone-tape line in Los Angeles (scripts read by 盧千惠, wife of 許世楷, who was then on sabbatical in LA from teaching in Japan), 許丕龍 asked to meet the mysterious 'speaker' — which amused the circle, since the voice everyone admired was 盧千惠's ([[articles/taiwanjustice-net/2025/20250811013132_化作千風_懷念台美人的人權鬥士_台獨先鋒王泰_31b7081a5d37939f|TJJ, 2022-07-12]]).
 - 1980s — Named in 陳昭南's memoir as one of the local LA founding members of 美國美麗島週報社 ([[articles/taiwanjustice-net/2022/20220519131411_2022_05_09_籌謀台灣_不流血革命_的獻策高手原來是他-_-陳_e3440fec3eed8107|TJJ column, 2022-05-09]]).
+- 2015-03-14 — 在南加州蕭泰然教授追思會「憶故人」發言追忆故人，影音報導（半音合唱團唱念大師）刊於台美人新聞（蘇希宗建築師攝）（[[articles/taiwanjustice-net/2017/20171107225317_2017_11_05_2001年7月2日半音合唱團受邀演唱於國家音樂廳實況錄_de11e29571f3dc86|TJJ, 2017-11-05 快照]]）。
 
 ## Sources
 - [TAH #2267 encyclopedia: 2267. Ahhee Hsu 許丕龍](https://taiwaneseamericanhistory.org/whos-who-2267-ahhee-hsu/)
