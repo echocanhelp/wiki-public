@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-17
+last_reviewed: 2026-09-18
 ---
 # Hsiu-Chine Yeh Wang (葉秀卿)
 
@@ -31,6 +31,11 @@ last_reviewed: 2026-09-17
 - **Son:** 王而正 Earl Wang
 - **Daughter:** 王而廷 Lauren Wang
 
+
+## Role in the Community
+
+- TAH Who's Who 收錄為第 697 條（2015-11 刊），與其夫王敏昌的第 696 條同日並列發表 — [[works/taiwaneseamericanhistory-org/697-hsiu-chine-yeh-wang-e8-91-89-e7-a7-80-e5-8d-bf-201511|TAH #697: Hsiu-Chine Yeh Wang 葉秀卿]]、[[works/taiwaneseamericanhistory-org/696-ming-chang-wang-e7-8e-8b-e6-95-8f-e6-98-8c-201511|TAH #696: Ming Chang Wang 王敏昌]]。
+- 以南大外文系校友身分參與南加州台大校友事務：2018-07 台大校長遴選爭議中，她以「葉秀卿(外文)」署名於約170位台大校友連署公開信，抗議南加州台大校友會邀管中閔年會演講（見下方 From the record）；連署署名系別與台大外文系學歷相互印證。
 
 ## Sources
 - [TAH #697 encyclopedia: 697. Hsiu-Chine Yeh Wang 葉秀卿 /2015/11](https://taiwaneseamericanhistory.org/697-hsiu-chine-yeh-wang-%e8%91%89%e7%a7%80%e5%8d%bf-201511/)

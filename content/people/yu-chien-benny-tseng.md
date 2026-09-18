@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-18
 ---
 # Yu-Chien Benny Tseng (曾宇謙)
 
@@ -43,6 +43,12 @@ _No filled family fields on the TAH profile._
 
 - 2016-05-08 — 大洛杉磯台灣會館台灣學校古典音樂欣賞課以「最近受國際樂壇著目」的曾宇謙壓軸，播放其得獎演奏現場錄影；葉思雅、張信惠主講 —— [[articles/taiwanjustice-net/2024/20240522054349_root_b4e27e98036e15d0|TJJ，2016-06-06 刊]]。
 - 2016-06-06 — 同文另存 Wayback 2023-01-29 存檔副本：專場以曾宇謙得獎演奏現場錄影壓軸（「即將來美演奏」），並宣布 6/12 課程介紹海頓 —— [[articles/taiwanjustice-net/2023/20230129123134_2016_06_06_大洛杉磯台灣會館台灣學校_古典音樂欣賞_-六月_a244776e9eb57979|TJJ，2016-06-06 刊・2023-01-29 存檔]]。
+
+## Role in the Community
+
+- Featured artist in the 「台灣名家演奏系列」 of [[organizations/taiwanese-united-fund|台灣人聯合基金會 (TUF)]]: at TUF's 30th anniversary in 2016 the 「曾宇謙小提琴獨奏會」 drew an especially enthusiastic response, recorded by TUF as one of the series' highlights alongside 胡乃元、林昭亮、陳慕融、蘇顯達 and others ([[works/taiwaneseamericanhistory-org/ourjourneys294|TUF 台美文藝工作紀錄, TAH ourjourneys 294]]).
+- Educational reach in the community: the 大洛杉磯台灣會館台灣學校 classical-music appreciation class (2016-05-08) used his award-winning concert recording as its finale feature (see From the record).
+- Own TAH encyclopedia entries: [[works/taiwaneseamericanhistory-org/whoswho1408|TAH #1408]], [[works/taiwaneseamericanhistory-org/musician374|TAH #374]], and interview video [[works/taiwaneseamericanhistory-org/videos111|【台灣演義】小提琴家 曾宇謙, TAH #111]].
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

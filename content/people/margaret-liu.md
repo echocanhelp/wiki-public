@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-17
+last_reviewed: 2026-09-18
 ---
 # Margaret Liu (林美華)
 
@@ -33,6 +33,11 @@ last_reviewed: 2026-09-17
 
 - **Husband:** 劉瑞祥
 
+
+## Role in the Community
+
+- Her life story is held in the TAH Foundation Who's Who corpus as its own work: [[works/taiwaneseamericanhistory-org/whoswho1497|1497. Margaret Liu 林美華 / 2017/02]] (published 2017-02-05).
+- Active in the 台大校友 community in Southern California: co-signed the 2018-07-20 open letter of ~170 台大校友 protesting 南加州台大校友會 inviting 管中閔 amid the disputed 校長遴選 case ([[articles/taiwanjustice-net/2018/20180721091303_2018_07_20_抗議-南加州台大校友會邀管中閔來年會做專題演講_a428dcebbceacf38|TJJ, 2018-07-20]]), listed under her 商學 department.
 
 ## Sources
 - [TAH #1497 encyclopedia: 1497. Margaret Liu 林美華 / 2017/02](https://taiwaneseamericanhistory.org/whoswho1497/)
