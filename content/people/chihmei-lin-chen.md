@@ -44,6 +44,9 @@ last_reviewed: 2026-09-18
 
 - She carried her mother's legacy into the movement record: she co-translated (with 張良澤) 楊千鶴's memoir, published by TAH as [[works/taiwaneseamericanhistory-org/publications-111|111. 人生的三稜鏡/楊千鶴 著，張良澤、林智美 譯/1995/03]] — making her both subject-family and contributor to the corpus.
 - Listed as a contributor in [[works/taiwaneseamericanhistory-org/ourjourneys79|Our Journeys 79]] with the blurb 「心理學博士，大學敎授」; that record also wikilinks back to her person page.
+
+## From the record
+
 - 2018-07-20 — Signed as 林智美(心理) among the ~170 台大校友 co-signatories of the open letter protesting 南加州台大校友會 inviting 管中閔 to speak at its 2018 annual meeting amid the disputed 校長遴選 case ([[articles/taiwanjustice-net/2018/20180721091303_2018_07_20_抗議-南加州台大校友會邀管中閔來年會做專題演講_a428dcebbceacf38|TJJ, 2018-07-20]]).
 
 ## Related Pages

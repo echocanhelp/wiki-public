@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-17
+last_reviewed: 2026-09-18
 ---
 # Jackson Kuo (郭敏俊)
 
@@ -41,6 +41,7 @@ HERMIT Jackson Kuo is born in Taiwan in 1950. He is not a real hermit but in spi
 - **2016-07** — published 《Hermit Jackson Kuo's Sketch Book 郭敏俊の寫生帖》: [[works/taiwaneseamericanhistory-org/publications1007|TAH #1007]] (2016-07-26).
 - **2016-08** — "Car for Taiwan": donated the proceeds from the sale of his sketch book to 繁華教會 in 屏東, his hometown — community story co-credited to [[people/prof-helen-lee|Prof. Helen Lee]] at [[works/taiwaneseamericanhistory-org/mystories453|TAH mystories 453]] (2016-08-05). Confirms 番仔寮/屏東 roots as an active church-giving act, not just birthplace.
 - **2017** — two art collections recorded in the corpus: [[works/taiwaneseamericanhistory-org/publications1159|TAH #1159 郭敏俊畫集 第一輯]] (2017-10) and [[works/taiwaneseamericanhistory-org/publications1160|TAH #1160 郭敏俊畫集 第二輯]] (2017-11). HOLD: #1159's byline reads 郭俊敏 (name characters transposed vs 郭敏俊 everywhere else) — treated as a source typo, not merged.
+- Re-check (deepen-x 2026-09-18): corpus re-grep 郭敏俊 / Jackson Kuo returns the same work pages already linked in this section (publications 1007/1159/1160, mystories 453, whos 1125, #94 collection) — saturated, nothing new to absorb.
 - **2016-07 / 2020-04** — Who's Who and collection records: [[works/taiwaneseamericanhistory-org/whos1125-jackson-kuo|TAH #1125 Jackson Kuo 郭敏俊]] and [[works/taiwaneseamericanhistory-org/94-collection-of-mr-jackson-kuo|TAH #94 郭敏俊先生的收藏]] documenting his collecting practice.
 
 ## Sources

@@ -7,7 +7,7 @@ tags:
   - taiwanjustice-net
   - thin-page
 verification_status: pending
-last_reviewed: 2026-09-17
+last_reviewed: 2026-09-18
 name_en: "Lai Ching-te"
 ---
 # Lai Ching-te (賴清德)
@@ -27,6 +27,7 @@ name_en: "Lai Ching-te"
 - **Quoted on diaspora vote-banking:** in [[works/taiwaneseamericanhistory-org/ourjourneys192|192. Americans from Taiwan return home to vote and boost democracy / 01/2016]] he is quoted urging Taiwanese Americans who "do well in the U.S. or Canada" to return and support candidates — the community as opinion leaders and donation source.
 - **As VP hosting FCA:** at the 2022 全美會 (Federation for A Free Taiwan) return visit, Vice President Lai joined the 10/24 banquet hosted by FCA founding chairman [[people/yi-ho-cheng|鄭義和]] — see [[works/taiwaneseamericanhistory-org/our-journeys-382|382. 2022年全美會回台參訪記(上) | 11/2022]].
 - **In sovereignty commentary:** cited as "president-to-be" planning closer US ties in [[works/taiwaneseamerican-org/a-republic-of-taiwan-chloe-shih|A Republic of Taiwan: Breaking the Chains]].
+- **As VP on Ukraine, 2022-02-27:** in the taiwanjustice.net archive, his statement 「卑躬屈膝無法停止侵略，全民一心守護國家」 frames Taiwan alongside Ukraine — defending the democratic way of life, standing with the democratic camp on sanctions ("自己的國家自己救") — [[articles/taiwanjustice-net/2026/20260211101404_賴清德_卑躬屈膝無法停止侵略_全民一心守護國_6eb558bd5ea47dfe|TJJ archive, posted 2022-02-27]]; publisher [[people/freeman-huang|Freeman Huang]].
 - **HOLD:** president-term and policy labels remain from taiwanjustice.net coverage only; expand with primary sources, not press knowledge.
 
 ## Source Notes
