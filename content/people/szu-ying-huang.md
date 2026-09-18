@@ -30,6 +30,10 @@ last_reviewed: 2026-09-18
 - Chicago Summer Opera, University of North Texas
 <!-- tah-tables:end -->
 
+## Role in the Community
+
+Her entry is preserved in the TAH encyclopedia as [[works/taiwaneseamericanhistory-org/1210-szu-ying-huang-e9-bb-83-e6-80-9d-e7-a9-8e-201608|1210. Szu-Ying Huang 黃思穎 / 2016/08]] (catalogued 2016-08-06). Corpus memoirs carry no further independent material on her; biography rests on the TAH Who's Who record above.
+
 ## Family
 
 _No filled family fields on the TAH profile._

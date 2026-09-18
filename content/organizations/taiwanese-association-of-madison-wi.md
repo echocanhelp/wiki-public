@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-18
 ---
 # Taiwanese Association of Madison-WI (威斯康星州麥城台灣同鄉會)
 
