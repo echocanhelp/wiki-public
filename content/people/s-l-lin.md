@@ -38,7 +38,7 @@ last_reviewed: 2026-09-17
 
 ## From the record
 
-- 2016-08-28 — 以大洛杉磯台灣會館園藝講座講師「田土伯」名義主講「果樹培育密訣」（蔬果園藝交流在美洲），見台灣公義報「台美人台加人」分類存檔紀錄（2024-02-21 存檔）—— [[articles/taiwanjustice-net/2024/20240221121052_root_c6f9dbff48b39366|TJJ 台美人台加人存檔頁]]。
+- 2016-08-28 — 以大洛杉磯台灣會館園藝講座講師「田土伯」名義主講「果樹培育密訣」（蔬果園藝交流在美洲），見台灣公義報「台美人台加人」分類存檔紀錄（2024-02-21 存檔）—— [[articles/taiwanjustice-net/2024/20240221121052_root_c6f9dbff48b39366|TJJ 台美人台加人存檔頁]]；同一紀錄另見園藝分類 [[articles/taiwanjustice-net/2024/20240225031504_root_f454eda084b7ca99|2024-02-24 快照]]。
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
