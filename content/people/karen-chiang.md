@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-17
+last_reviewed: 2026-09-18
 ---
 # Karen Chiang
 
@@ -36,6 +36,7 @@ _No filled family fields on the TAH profile._
 ## From the record
 
 - 2016-07-23 — entered into the TAH community record as a Bay Area pianist in two same-day records: feature [[works/taiwaneseamericanhistory-org/musician346|346. Karen Chiang, Pianist]] and Who's Who entry [[works/taiwaneseamericanhistory-org/whoswho1169|1169. Karen Chiang]]. Both are held as bibliographic records only (full text stays in the TAH vault), so no further community facts are absorbable from the corpus yet.
+- Corpus scan 2026-09-18 (deepen-x slice 09171000-6): works/ and articles/ re-scanned for Karen Chiang — hits are only her own two TAH records above plus the works index; no memoir text. SKIP-deepen.
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/karen-chiang/)
