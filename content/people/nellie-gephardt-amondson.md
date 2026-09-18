@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-18
 ---
 # Nellie Gephardt Amondson ‧ (納莉)
 
@@ -32,6 +32,10 @@ Nellie Gephardt Amondson 納莉‧艾默森 – History of Taiwanese American (T
 - **Daughter:** [[people/linda-gail-arrigo||Linda Gail Arrigo]]
 - **Daughter:** Sue
 
+
+## Role in the Community
+- Her TA Archives profile is held in the corpus as [[works/taiwaneseamericanhistory-org/whos-nellie-gephardt-amondson|1614. Nellie Gephardt Amondson 納莉‧艾默森]] (published 2017-04-21).
+- Disambiguation: other corpus hits for 納莉 (e.g. [[works/taiwaneseamericanhistory-org/ourjourneys123|Our Journeys 123]], 2001 typhoon relief) refer to Typhoon Nashi/納莉, not this person.
 
 ## Sources
 - [TAH #1614 encyclopedia: 1614. Nellie Gephardt Amondson 納莉‧艾默森](https://taiwaneseamericanhistory.org/whos-nellie-gephardt-amondson/)
