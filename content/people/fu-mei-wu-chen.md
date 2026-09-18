@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-18
 ---
 # Fu-Mei Wu Chen (陳吳富美)
 
@@ -35,6 +35,15 @@ last_reviewed: 2026-08-17
 - **Daughter:** Sonya,Tonya, Patricia
 - **Son:** Oliver
 
+
+## Role in the Community
+- Memoir/essay contributor to the TAH story corpus, writing as 陳吳富美 (self-described 府城石舂臼人, i.e. from Tainan):
+  - [[works/taiwaneseamericanhistory-org/mystories27|27. 遲來的心想事成 / 陳吳富美]]
+  - [[works/taiwaneseamericanhistory-org/mystories157|157. 意外的收獲 / 陳吳富美 / 2014/12]]
+  - [[works/taiwaneseamericanhistory-org/mystories190|190. 擺攤子 / 陳吳富美 / 2014/12]]
+  - [[works/taiwaneseamericanhistory-org/mystories498|498. My Grandson / 陳吳富美 / 12/2016]]
+  - [[works/taiwaneseamericanhistory-org/publications1154|1154. 關懷雜集 / 陳吳富美 (府城石舂臼人) / 10/2017]]
+- Her TAH Who's Who record: [[works/taiwaneseamericanhistory-org/whos-who-327-fu-mei-wu-chen|327. Fu-Mei Wu Chen 陳吳富美 / 2015/03]].
 
 ## Sources
 - [TAH #327 encyclopedia: 327. Fu-Mei Wu Chen 陳吳富美/2015/03](https://taiwaneseamericanhistory.org/whos-who-327-fu-mei-wu-chen/)

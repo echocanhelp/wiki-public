@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-18
 ---
 # Chin-Hui Lee (李錦輝)
 
@@ -33,6 +33,9 @@ Professor
 ## Employment
 - School of Electrical and Computer Engineering, Georgia Institute of Technology. — 2015 — Professor
 <!-- tah-tables:end -->
+
+## Role in the Community
+Corpus check (2026-09-18): the only corpus material naming him is his own TAH Who's Who entry, [[works/taiwaneseamericanhistory-org/744-chin-hui-lee-e6-9d-8e-e9-8c-a6-e8-bc-9d201512|744. Chin-Hui Lee 李錦輝 (2015/12)]]. No memoir or movement-record hits — community role beyond the TAH profile is not yet documented in the corpus.
 
 ## Family
 

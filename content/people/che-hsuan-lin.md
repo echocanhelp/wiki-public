@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-18
 ---
 # Che-Hsuan Lin (林哲瑄)
 
@@ -29,6 +29,9 @@ Accomplishment
 ## Employment
 - Boston Red Sox — Baseball Player — (2012-2012) — Houston Astros — Baseball Player — (2013-2013) — Texas Rangers — Baseball Player — (2014-2015) — EDA Rhinos — Baseball Player — (2015-2016) — Fubon Guardians — Baseball Player — (2016-)
 <!-- tah-tables:end -->
+
+## Role in the Community
+Corpus check (2026-09-18): the only corpus material naming him is his own TAH Who's Who entry, [[works/taiwaneseamericanhistory-org/whos-who-1747-che-hsuan-lin|1747. Che-Hsuan Lin 林哲瑄]]. No memoir or movement-record hits — he appears in the corpus only as a TAH Who's Who subject (baseball career), not as a movement actor.
 
 ## Family
 
