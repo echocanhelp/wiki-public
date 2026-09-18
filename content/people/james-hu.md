@@ -40,6 +40,10 @@ last_reviewed: 2026-08-17
 - [TAH #887 encyclopedia: 887.  James Hu 胡宏仁 / 2016/03](https://taiwaneseamericanhistory.org/887-james-hu-%e8%83%a1%e5%ae%8f%e4%bb%81-201603/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/james-hu/)
 
+## From the record
+
+- 2017-11-29 — 應邀於長青教室演講「建造健康奇蹟的食用好油」，聽眾心得報告刊於台灣公義報「台美人台加人」分類（2017-12-03 刊登）（[[articles/taiwanjustice-net/2024/20240719125457_root_c691e327b9133c1a|TJJ tag 心得報告, 2024-07-19 存檔]]）。
+
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

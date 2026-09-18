@@ -61,3 +61,4 @@ Re-check 2026-09-16 (slice 09160700-12): hit set again unchanged (#16/#159/#1089
 Re-check 2026-09-16 (slice 09162138-8): hit set again unchanged (#16/#159/#1089 + works index; #520 linked above). **SKIP：無新可吸收事實。**
 Re-check 2026-09-16 (slice 09162200-7): hit set again unchanged (#16/#159/#1089 + works index; #520 linked above). **SKIP：無新可吸收事實。**
 Re-check 2026-09-17 (slice 09170130-4): hit set again unchanged (#16/#159/#1089 + works index; #520 linked above). **SKIP：無新可吸收事實。**
+Re-check 2026-09-17 (slice 09170500-3): hit set again unchanged (own #16/#159/#1089 records + works index; #520 linked above). SKIP: no new absorbable facts.

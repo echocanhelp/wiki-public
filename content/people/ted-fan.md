@@ -56,3 +56,4 @@ _No filled family fields on the TAH profile._
 - Re-grep re-run in deepen-x slice 09162138-13 (2026-09-16): hit set unchanged except that the second own-record [[works/taiwaneseamericanhistory-org/whos-who-1220-sao-tah-fan|TAH #1220: Dr. Sao-Tah (Ted) Fan 范少達博士]] (already cited in Sources) is now also wikilinked here. No new community material; SKIP-no-new-material.
 - Re-grep re-run in deepen-x slice 09162200-9 (2026-09-16): hit set unchanged — ourjourneys162 中/EN (absorbed above), own #111/#1220 records (wikilinked above), works index. SKIP-no-new-material.
 - Re-grep re-run in deepen-x slice 09170130-5 (2026-09-17): hit set unchanged — ourjourneys162 中/EN (absorbed above), own #111/#1220 records (wikilinked above), works index. SKIP-no-new-material.
+- Re-grep re-run in deepen-x slice 09170500-3 (2026-09-17): hit set unchanged — ourjourneys162 ZH/EN (absorbed above), own #111/#1220 records (wikilinked above), works index. SKIP-no-new-material.

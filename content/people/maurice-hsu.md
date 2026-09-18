@@ -43,6 +43,8 @@ last_reviewed: 2026-09-17
 ## From the record
 
 - 2016-11-16 — 於長青教室演講「台灣話的源流」，聽眾心得報告見台灣公義報「台美人台加人」分類存檔紀錄（2024-02-21 存檔）—— [[articles/taiwanjustice-net/2024/20240221121052_root_c6f9dbff48b39366|TJJ 台美人台加人存檔頁]]。
+- 2016-11-16 — 於長青教室演講「台灣話的源流」之心得報告另見台灣公義報「心得報告」標籤彙整頁（2024-07-19 存檔），與陳正義、陳東榮、胡宏仁等長青教室講席並列（[[articles/taiwanjustice-net/2024/20240719125457_root_c691e327b9133c1a|TJJ tag 心得報告, 2024-07-19 存檔]]）。
+
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
