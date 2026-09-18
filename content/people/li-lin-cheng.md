@@ -39,6 +39,7 @@ BVM (Bachelor of Veterinary Medicine)
 - 曾任北美洲台灣人教授協會（NATPA）副會長兼秘書長，後任會長：駐 Madison, Wisconsin，與夫婿在当地台灣社團及 FAPA 活躍；文筆佳，以筆名 Tottoro 在《民報》《綠逗》設專欄，並參與夏令會後公開聲明起稿、閉幕典禮主持朗誦該聲明（[[works/taiwaneseamericanhistory-org/ourjourneys287|Our Journeys 287]]）。
 - 父親鄭昭明為戰後台南善友管弦樂團指揮及主要幹部；她與石青如、陳純寶同屬善友第二代（[[works/taiwaneseamericanhistory-org/ourjourneys287|Our Journeys 287]]）。
 - 撰寫「242. 戰鬥番薯奧運夢」（2016-08）（[[works/taiwaneseamericanhistory-org/ourjourneys242|Our Journeys 242]]）。
+- 2015-11-13 於《自由時報》自由開講發表「拜拜中華民國」；劉兆民在回憶錄中引用她此文的記載——UW 中國同學會已於 2006 年與 UW 台灣同學會合併為「台灣同學會」（[[works/taiwaneseamericanhistory-org/ourjourneys205|Our Journeys 205 / 劉兆民, 2016-03]]）。
 
 ## Family
 

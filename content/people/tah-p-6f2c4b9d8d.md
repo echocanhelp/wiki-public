@@ -6,7 +6,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-17
+last_reviewed: 2026-09-18
 ---
 # 黃美菁
 
@@ -56,3 +56,4 @@ Re-grep re-run in deepen-x slice 09160500-24 (2026-09-16): hit set unchanged (#4
 - Re-grep 2026-09-16 (deepen-x slice 09162200-11): hit set unchanged — own records #477/#229 + works index only. SKIP-no-new-material.
 - Re-grep 2026-09-17 (slice 09170130-8): hit set unchanged — own #477/#229 records + works index only, already wikilinked. SKIP-no-new-material; page saturated.
 - Re-grep 2026-09-17 (deepen-x slice 09170500-6): hit set unchanged — own #477/#229 records + works index only, already wikilinked. SKIP-no-new-material; page saturated.
+- Re-grep 2026-09-18 (deepen-x slice 09180131-6): hit set unchanged — own #477/#229 records + works index only. Broader 美菁 sweep hits only 「台美菁英協會」(TAP) titles, false positives. SKIP-no-new-material; page saturated.
