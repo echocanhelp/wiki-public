@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-18
 ---
 # Dr. Chun Hsiang Lu (盧俊雄醫師)
 
@@ -33,6 +33,10 @@ last_reviewed: 2026-08-17
 - **Wife:** Su-Hui Lu
 - **Daughter:** Susan, Linda
 
+
+## Role in the Community
+- His TAH Foundation Who's Who encyclopedia entry was published 2019-11-08, within his era 1938–2019 (entry postdates his death that year): [[works/taiwaneseamericanhistory-org/whos-who-2225-chun-hsiang-lu|2225. Dr. Chun Hsiang Lu 盧俊雄醫師]]. The entry itself is community historical record held in the corpus.
+- Corpus check (works/articles) found no further movement records naming him beyond the encyclopedia entry and index listings.
 
 ## Sources
 - [TAH #2225 encyclopedia: 2225. Dr. Chun Hsiang Lu 盧俊雄醫師](https://taiwaneseamericanhistory.org/whos-who-2225-chun-hsiang-lu/)
