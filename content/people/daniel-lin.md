@@ -38,8 +38,7 @@ last_reviewed: 2026-09-18
   (2009-09-20) among the founding group, and on 2010-10-09 joined the Summer Assembly delegation
   (許輕甫, 許和子, 王泰和, 洪珠美) to the joint meeting with 台灣教授會 Southern California chapter at
   LAX La Quinta Inn that led to the 2011 joint summer assembly:
-  [[works/taiwaneseamericanhistory-org/ourjourneys265|Our Journeys 265 (夏令會起源)]] /
-  [[works/taiwaneseamericanhistory-org/ourjourneys265-eng|English copy]].
+  [[works/taiwaneseamericanhistory-org/ourjourneys265|Our Journeys 265 (夏令會起源)]].
 - TAH encyclopedia entry: [[works/taiwaneseamericanhistory-org/whos-daniel-lin|1978. Daniel Lin 林嘉仁 /12/2017]].
 
 ## Family
