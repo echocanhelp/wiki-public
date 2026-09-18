@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-17
+last_reviewed: 2026-09-18
 ---
 # Chih-Ming Ho (何志明)
 
@@ -43,7 +43,7 @@ Assistant Professor to Professor
 _No filled family fields on the TAH profile._
 
 ## Role in the Community
-His TAH Foundation Who's Who entry is held in the corpus as [[works/taiwaneseamericanhistory-org/whoswho1475|1475. Chih-Ming Ho 何志明 (2017/01)]]. A grep of works/ and articles/ (re-run 2026-09-17, slice 09170200-9: hit set unchanged — own directory copy + works index only) found no other community mentions — the USC/UCLA professorship, Center for Micro Systems directorship, and cell-control research facts rest solely on the TAH directory profile. SKIP-for-deepening: nothing community-side absorbable.
+His TAH Foundation Who's Who entry is held in the corpus as [[works/taiwaneseamericanhistory-org/whoswho1475|1475. Chih-Ming Ho 何志明 (2017/01)]]. A grep of works/ and articles/ (re-run 2026-09-18, slice 09170600-22: hit set unchanged — own directory copy + works index only) found no other community mentions — the USC/UCLA professorship, Center for Micro Systems directorship, and cell-control research facts rest solely on the TAH directory profile. SKIP-for-deepening: nothing community-side absorbable.
 
 ## Sources
 - [TAH #1475 encyclopedia: 1475. Chih-Ming Ho 何志明 / 2017/01](https://taiwaneseamericanhistory.org/whoswho1475/)
