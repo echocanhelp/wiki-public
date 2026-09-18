@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-18
 ---
 # Rev. Dave Alexander (亞大偉牧師)
 
@@ -35,6 +35,12 @@ last_reviewed: 2026-08-17
 - **Daughter:** Kate
 - **Son:** Grant
 
+
+## Role in the Community
+- Featured in the TAH Foundation Who's Who encyclopedia record [[works/taiwaneseamericanhistory-org/whos-who-2149-dave-alexander|2149. Rev. Dave Alexander 亞大偉牧師]] (published 2018-07-12).
+- Subject of the community news video record [[works/taiwaneseamericanhistory-org/videos107|107. 奉獻36年青春 美籍牧師亞大偉樂當台灣人－民視新聞]] (published 2018-07-02): framed as an American missionary who devoted his career to the Taiwanese church and identified with Taiwan ("樂當台灣人").
+- Received Taiwan Ministry of Interior recognition for long-term service, 2007 (per TAH profile above).
+- HOLD: video title "奉獻36年青春" vs employment span 1976–2018 (42 years) on the TAH profile — not merged.
 
 ## Sources
 - [TAH #2149 encyclopedia: 2149. Rev. Dave Alexander 亞大偉牧師](https://taiwaneseamericanhistory.org/whos-who-2149-dave-alexander/)

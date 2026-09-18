@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-18
 ---
 # Paul Porwen Hung (洪伯文)
 
@@ -38,6 +38,10 @@ Abbott Labs 分子與病毒研究室
 ## Family
 
 _No filled family fields on the TAH profile._
+
+## Role in the Community
+- Featured in the TAH Foundation Who's Who encyclopedia record [[works/taiwaneseamericanhistory-org/752-paul-porwen-hung-e6-b4-aa-e4-bc-af-e6-96-87-201512|752. Paul Porwen Hung 洪伯文 / 2015/12]] (published 2015-12-27).
+- Corpus check 2026-09-18: no community/movement activity beyond this bibliographic record in works+articles; no additional facts absorbable, no conflicts.
 
 ## Sources
 - [TAH #752 encyclopedia: 752. Paul Porwen Hung 洪伯文/ 2015/12](https://taiwaneseamericanhistory.org/752-paul-porwen-hung-%e6%b4%aa%e4%bc%af%e6%96%87-201512/)
