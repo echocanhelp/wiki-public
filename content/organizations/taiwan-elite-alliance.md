@@ -6,7 +6,7 @@ tags:
   - Taiwanese-American
   - Taiwan-Center-group-member
 verification_status: published
-last_reviewed: 2026-07-16
+last_reviewed: 2026-09-18
 ---
 # Taiwan Elite Alliance
 
@@ -28,6 +28,12 @@ last_reviewed: 2026-07-16
 ## From the record
 
 - 2021-02-28 — 與台灣人聯合基金會合辦「2-28台灣介心靈日74週年紀念音樂會」線上節目（tufusa.org），為2021大洛杉磯二二八線上系列活動之一，與大洛杉磯台灣會館紀念會、FAPA洛杉磯分會與全美台灣人權協會研討會同期並列（[[articles/taiwanjustice-net/2026/20260210173508_2021大洛杉磯台灣會館228事件線上追思紀念會與系列活_ac0c255ef64908a5|TJJ/台灣會館消息, 2021-02-24]]）。
+
+## Role in the Community
+
+- 優社（TEA）自 2015 年起與台灣人聯合基金會（TUF）合辦「2-28台灣介心靈日」紀念音樂會（Arcadia, CA；2015 首屆見 [[works/taiwaneseamericanhistory-org/concerts3|TAH concerts #3]]，2015–2017 歷屆見 [[works/taiwaneseamericanhistory-org/concerts68|TAH concerts #68]]）。
+- 與 TUF 合辦「清掃洛杉磯河」Los Angeles River Clean Up 社區服務（[[works/taiwaneseamericanhistory-org/5-los-angeles-river-clean-up-e6-b8-85-e6-8e-83-e6-b4-9b-e6-9d-89-e7-a3-af-e6-b2-|TAH work #5]]）。
+- 機構檔案頁見 [[works/taiwaneseamericanhistory-org/taiwan-elite-alliancetea-e5-84-aa-e7-a4-be|TAH #20 Taiwan Elite Alliance(TEA)優社]]。
 
 ## Related Pages
 
