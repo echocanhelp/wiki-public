@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-17
 ---
 # Taiwanese American Student Association at Penn State
 
@@ -20,6 +20,10 @@ The Taiwanese American Student Association at Penn State (TASA) is a student org
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-american-student-association-at-penn-state/)
+
+## Corpus Status (deepen-x 09171100-15, 2026-09-17)
+
+SKIP-with-reason: no direct corpus hits. Greps of content/works and content/articles for TASA / 賓州州立大學台灣同學會 / Penn State returned no page mentioning this club; the only Pennsylvania-campus mentions in the corpus (e.g. [[works/taiwaneseamericanhistory-org/ourjourneys260|TAH Our Journeys #260]]) refer to an unrelated UFTA camp venue, and the ITASA records ([[works/taiwaneseamericanhistory-org/history-of-itasa|History of ITASA]]) do not name a Penn State chapter. Nothing absorbable; no facts invented.
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
