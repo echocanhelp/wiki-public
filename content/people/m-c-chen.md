@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-18
 ---
 # M. C. Chen (陳玫琪)
 
@@ -30,6 +30,11 @@ last_reviewed: 2026-08-17
 - 輔仁大學 — 副教授
 - 國家音樂廳/戲劇院 — 企劃組組長
 <!-- tah-tables:end -->
+
+## Role in the Community
+Corpus records place Chen in the Taiwanese music community record in two archived TAH encyclopedia entries from 2016/10: [[works/taiwaneseamericanhistory-org/musician370|TAH #370 — Mei-Ci Chen 陳玫琪, Composer]] (musician series) and [[works/taiwaneseamericanhistory-org/whoswho1315|TAH #1315 — M. C. Chen 陳玫琪]] (Who's Who series). Both are held in the vault as bibliographic records; no memoir, interview, or independent community account naming her was found in the corpus.
+
+HOLD: corpus carries two romanizations (Mei-Ci Chen vs M. C. Chen) for the same 陳玫琪 — treated as one person per TAH source numbering, not merged with any other 陳玫琪.
 
 ## Family
 

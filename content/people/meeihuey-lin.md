@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-18
 ---
 # Meeihuey Lin (林許美惠)
 
@@ -33,6 +33,10 @@ Accomplishment
 ## Family
 
 _No filled family fields on the TAH profile._
+
+## Role in the Community
+- Recorded in the TAH Foundation community corpus: encyclopedia entry [[works/taiwaneseamericanhistory-org/whos-who-1686-meeihuey-lin|1686. Meeihuey Lin 林許美惠]], published 2017-05-27 (band B).
+- Entered in the same 2017-05-27 corpus batch as fellow TA community figures [[works/taiwaneseamericanhistory-org/whos-who-1685-fu-kai-hsieh|1685. Dr. Fu-Kai Hsieh 謝富凱博士]] and [[works/taiwaneseamericanhistory-org/whos-who-1684-su-mei-kao|1684. Dr. Su-Mei Kao 林素梅博士]]. No other corpus mentions, so the horticultural-therapy award and Temple Univ. profile above stand uncorroborated by memoirs — no conflicts found.
 
 ## Sources
 - [TAH #1686 encyclopedia: 1686. Meeihuey Lin 林許美惠](https://taiwaneseamericanhistory.org/whos-who-1686-meeihuey-lin/)
