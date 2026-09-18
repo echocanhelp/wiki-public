@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-17
+last_reviewed: 2026-09-18
 ---
 # Elena Ling (黃美惠)
 
@@ -37,6 +37,7 @@ Vice President of International Federation of Business and Professional Women, T
 - 1985年與全美台灣同學會合辦夏令營：與陳芳明、林衡哲、謝里法同訪，為聚會注入文化氣息；憶文稱其時已是陳文成基金會要職、後任婦女會會長 — [[works/taiwaneseamericanhistory-org/our-journeys-379|Our Journeys 379]]。
 - 1960年代末旅居 Kansas（Manhattan）期間參與編印並銷售第一本《全美台灣同鄉通訊錄》：陳希寬回憶錄名列該地 18 位工作人員之一（同列者有陳希寬、張郁彬、林淑貞、莊秋雄、黃靜枝、黃信一、康勝夫等；至 1968/03/08 共售出 1,158 本、收入 2,069 美元）— [[works/taiwaneseamericanhistory-org/ourjourneys58|58. 回憶編印第一本《全美台灣同鄉通訊錄》的甘苦經過]]，與其 NTU 園藝、Kansas State 食品科學求学经历相符。
 - 與陳文成紀念基金會董事一職（TAH profile）與上述紀念專集、紀念活動紀錄相符。
+- 複核（deepen-x slice 09180131-13，2026-09-18）：re-grep 黃美惠|Elena Ling 命中 ourjourneys321、60、321-eng、8、our-journeys-379、58 — 六頁全部已於上列吸收（含英文版代號對照 Kan Tzu = Elena Ling）；無新增材料。SKIP-no-new-material。
 
 ## Family
 

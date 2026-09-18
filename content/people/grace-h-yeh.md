@@ -38,6 +38,7 @@ TAH lists her as the first appointed organist of [[organizations/formosan-presby
 - 2016-06-06 — 同文另存 Wayback 2023-01-29 存檔副本：「台灣人音樂家」專場記張信惠（音樂專科出身）曾為李泰祥伴奏、使作曲家生平解說更具真實感，課程由夫婿葉思雅醫師主持 —— [[articles/taiwanjustice-net/2023/20230129123134_2016_06_06_大洛杉磯台灣會館台灣學校_古典音樂欣賞_-六月_a244776e9eb57979|TJJ，2016-06-06 刊・2023-01-29 存檔]]。
 - 2024-04-25 — 台灣公義報「台美人台加人」分類存檔列有「四月份台灣學校音樂欣賞課於4月9日舉行 ◎葉思雅、張信惠主持」，與其在大洛杉磯台灣會館台灣學校合開音樂欣賞課的紀錄相印證（[[articles/taiwanjustice-net/2024/20240425083432_root_99aaa4abcb78ff6d|TJJ 存檔頁, 2024-04-25 快照]]）。
 - 2022-01-09 — 台美人筆會會友拜訪張信惠、葉思雅伉儷，慶賀二人自2020-02-01起為台灣公義報撰寫的「週末漫談音樂」專欄滿100期（張信惠為音樂科班出身，是專欄知識底蘊的來源之一；二人2015年8月起另在大洛杉磯台灣會館開「古典音樂欣賞」課至2020年2月疫情停開）（[[articles/taiwanjustice-net/2022/20220127025846_2022_01_10_圓滿的100-慶賀葉思雅_張信惠_週末漫談音樂_專_a1be6b822ac7cdcd|TJJ, 2022-01-10]]）。
+- Corpus 覆核（deepen-x slice 09180131-10, 2026-09-18）：re-grep 張信惠 / Grace H. Yeh 命中集不變（#448、#146、#144、Our Journeys 231 ±EN、index），全部已吸收於上列——SKIP-with-reason：無新增可吸收社群語料。Our Journeys 231 英文對應頁：[[works/taiwaneseamericanhistory-org/ourjourneys231-eng|Our Journeys 231 (EN)]]。
 
 ## Related Pages
 
