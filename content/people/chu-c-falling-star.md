@@ -36,6 +36,12 @@ last_reviewed: 2026-09-18
 - **Husband:** Blaise Falling-Star
 
 
+## Role in the Community
+
+- Corpus 紀錄確認其歷史性突破：**首位台裔郵局局長及郵政署經理**（TAH #319 紀錄標題記載，見 [[works/taiwaneseamericanhistory-org/ff319|319. Chu C. Falling-Star 黃初娟 / 首位台裔郵局局長及郵政署經理 / 2012]]）。
+- 職涯軌跡（tah-tables・與上述紀錄相符）：1993 Hebron、1997 Simsbury、1999 North Haven、2002 Hartford 郵局局长；2006 Cincinnati 郵局局长、2008 Cincinnati 區域經理；2012 起任美國郵政署大費城地區經理。
+- TAH 於 2012 及 2017/03 兩度收錄其傳記紀錄：[[works/taiwaneseamericanhistory-org/ff319|319]]、[[works/taiwaneseamericanhistory-org/whoswho1569|1569. Chu C. Falling-Star 黃初娟 / 2017/03]]。
+
 ## Sources
 - [TAH #1569 encyclopedia: 1569.  Chu C. Falling-Star 黃初娟 / 2017/03](https://taiwaneseamericanhistory.org/whoswho1569/)
 - [TAH #319 encyclopedia: 319. Chu C. Falling-Star 黃初娟 / 首位台裔郵局局長及郵政署經理 / 2012](https://taiwaneseamericanhistory.org/ff319/)
