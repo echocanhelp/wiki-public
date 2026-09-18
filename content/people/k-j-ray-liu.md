@@ -31,6 +31,9 @@ last_reviewed: 2026-09-18
 - 馬里蘭大學電機系 — 2008- — 副系主任
 <!-- tah-tables:end -->
 
+## Role in the Community
+- Recorded in the TAHS corpus as TAH Foundation Who's Who #948 (published 2016-04-24): [[works/taiwaneseamericanhistory-org/whoswho947|TAH #948 — K. J. Ray Liu 劉國瑞]]. The corpus record matches the TAH press-kit table (NTU 電機 1983, U-Michigan M.S., UCLA Ph.D. 1990, University of Maryland ECE professor, 電機系副系主任 from 2008); no additional community-organizing roles appear in the corpus.
+
 ## Family
 
 _No filled family fields on the TAH profile._

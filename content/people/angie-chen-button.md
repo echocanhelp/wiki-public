@@ -30,6 +30,9 @@ last_reviewed: 2026-09-18
 - Texas instrumentsfromGarland,Texas — marketing manager
 <!-- tah-tables:end -->
 
+## Role in the Community
+- Recorded in the TAHS corpus as TAH Foundation Who's Who #1567 (published 2017-03-20): [[works/taiwaneseamericanhistory-org/whoswho1567|TAH #1567 — Angie Chen Button 陳筱玲]]. The corpus record matches the TAH press-kit table (UT B.S. Finance, TI marketing manager, Texas House District 112 from 2009); no additional community-organizing roles appear in the corpus.
+
 ## Family
 
 - **Husband:** Darcy Glen Button
