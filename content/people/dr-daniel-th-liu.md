@@ -34,6 +34,12 @@ last_reviewed: 2026-09-18
 - **Wife:** 楊幼雲
 - **Son:** Stanley
 
+## Role in the Community
+
+- Left two memoirs in the TAH story corpus: 劉鼎秀回憶錄 ([[works/taiwaneseamericanhistory-org/mystories22|TAH mystories22]], published 2014-09-05) and 自傳 ([[works/taiwaneseamericanhistory-org/252-e5-8a-89-e9-bc-8e-e7-a7-80-e5-9b-9e-e6-86-b6-e9-8c-84-e5-8a-89-e9-bc-8e-e7-a|TAH #252 自傳]], published 2014-11-03) — primary material alongside the Who's Who entry [[works/taiwaneseamericanhistory-org/142-dr-daniel-th-liu-e5-8a-89-e9-bc-8e-e7-a7-80-e5-8d-9a-e5-a3-ab|TAH #142]].
+- Listed among SVTA 矽谷台灣同鄉會 organization members in 2010 (per TAH record above).
+- [[works/taiwaneseamericanhistory-org/ourjourneys53|Our Journeys #53]] records 劉鼎秀夫婦 as 會館 sponsors (贊助請專業室內設計師美化會館) — community institution building.
+
 
 ## Sources
 - [TAH #142 encyclopedia: 142. Dr. Daniel TH Liu 劉鼎秀博士](https://taiwaneseamericanhistory.org/142-dr-daniel-th-liu-%e5%8a%89%e9%bc%8e%e7%a7%80%e5%8d%9a%e5%a3%ab/)

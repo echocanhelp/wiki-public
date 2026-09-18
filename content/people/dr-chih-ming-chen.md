@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-18
 ---
 # Dr. Chih-Ming Chen (陳志明博士)
 
@@ -35,6 +35,11 @@ Accomplishment
 
 - **Wife:** Virginia Chen
 - **Daughter:** Angelina Chen
+
+## Role in the Community
+
+- Recorded in the TAH Foundation Who's Who as entry #1938 ([[works/taiwaneseamericanhistory-org/whos-who-1938-chih-ming-chen|TAH #1938]], published 2017-11-09, band B), which echoes his status as the donor of the largest gift in Ohio State Univ. history (2013) — his Ohio ties trace back to his 1981 Ph.D. there.
+- No memoir or other community record found in works/ or articles/ beyond the bibliographic record; the taiwanjustice-net article hits were name-collision noise, not this person.
 
 
 ## Sources
