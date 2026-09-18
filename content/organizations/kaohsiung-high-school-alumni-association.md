@@ -6,7 +6,7 @@ tags:
   - Taiwanese-American
   - Taiwan-Center-group-member
 verification_status: published
-last_reviewed: 2026-07-16
+last_reviewed: 2026-09-18
 ---
 # Kaohsiung High School Alumni Association (KHSAA)
 
@@ -18,6 +18,12 @@ last_reviewed: 2026-07-16
 - **English (as listed):** Kaohsiung High School Alumni Association (KHSAA)
 - **Relation:** Taiwan Center group member (official listing)
 - **Source:** https://www.taiwancenter.org/group-members · `taiwancenter-org-group-members.md`
+
+## Role in the Community
+
+- Listed as a group member of the [[organizations/taiwan-center||Taiwan Center Foundation of the Greater Los Angeles]] (official group-members listing).
+- TAHS holds two community records of the alumni body: the 2014 record [[works/taiwaneseamericanhistory-org/us-kshs|旅美高雄中學校友會]] (2014-10-12) and the 2018 e-newsletter record [[works/taiwaneseamericanhistory-org/enewsletters-khsaa|KHSAA (雄中雄女聯合校友會)]] (2018-02-20).
+- HOLD: naming variant — Taiwan Center listing uses 北美洲高雄中學高雄女中聯合校友會; the 2014 TAHS record titles the body 旅美高雄中學校友會. Never auto-merged; both names recorded as attested.
 
 ## Source Notes
 
