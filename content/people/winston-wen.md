@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-18
 ---
 # Winston Wen (溫隆志)
 
@@ -28,6 +28,12 @@ last_reviewed: 2026-08-17
 - 亞特蘭大台灣長老教會 — 牧師
 - 陸城台灣長老教會 — -2010 — 主任牧師
 <!-- tah-tables:end -->
+
+## Role in the Community
+
+- Presbyterian minister serving Taiwanese American congregations in the U.S. Southeast: pastor of 亞特蘭大台灣長老教會 and senior pastor (主任牧師) of 陸城台灣長老教會 through 2010, per his TAH profile.
+- Admitted to the TAH Foundation Who's Who record in 2017/01: [[works/taiwaneseamericanhistory-org/whoswho1488|1488. Winston Wen 溫隆志 / 2017/01]].
+- No memoir/corpus narrative beyond the TAH profile itself; education and employment above left as recorded.
 
 ## Family
 
