@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-18
 ---
 # Peter Kuo (郭博資)
 
@@ -37,6 +37,10 @@ last_reviewed: 2026-08-17
 - **Daughter:** Myna郭幼芬
 - **Son:** Tony 郭東明
 
+
+## Role in the Community
+- 2005 — the TAH corpus holds his art work 旅途、旅圖 (Art/藝術), documenting the painter side alongside his sports-industry career: [[works/taiwaneseamericanhistory-org/568-e6-97-85-e9-80-94-e3-80-81-e6-97-85-e5-9c-96-e9-83-ad-e5-8d-9a-e4-bf-ae2005-|旅途、旅圖 (2005)]].
+- 2015-02 — recorded twice in the TAH story corpus, as artist [[works/taiwaneseamericanhistory-org/artist30-peter-kuo|TAH record #30]] and as entrepreneur [[works/taiwaneseamericanhistory-org/whos315-peter-kuo|TAH record #315]]; the pair corroborates the directory's dual artist/entrepreneur role (Kennex 1976, Supro Sports 1981, 105 Meridien 1991).
 
 ## Sources
 - [TAH #315 encyclopedia: 315. Peter Kuo 郭博資/2015/02](https://taiwaneseamericanhistory.org/whos315-peter-kuo/)
