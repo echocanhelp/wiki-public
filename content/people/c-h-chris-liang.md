@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-18
 ---
 # C.H. Chris Liang (梁志宏)
 
@@ -34,6 +34,9 @@ Accomplishment
 
 - **Wife:** Amy (江秀葉)
 
+
+## Role in the Community
+- His own TAH encyclopedia profile is held in the corpus as [[works/taiwaneseamericanhistory-org/whos-who-2055-c-h-liang|2055. C.H. (Chris) Liang 梁志宏]] (published 2018-03-06); the record corroborates the TACPA presidency (1996–1998) already listed above. No further community facts absorbable — corpus entry is bibliographic only.
 
 ## Sources
 - [TAH #2055 encyclopedia: 2055.  C.H. (Chris) Liang 梁志宏](https://taiwaneseamericanhistory.org/whos-who-2055-c-h-liang/)

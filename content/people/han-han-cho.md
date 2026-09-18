@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-18
 ---
 # Han Han Cho (卓涵涵博士)
 
@@ -37,6 +37,10 @@ last_reviewed: 2026-08-17
 ## Family
 
 _No filled family fields on the TAH profile._
+
+## Role in the Community
+- Profiled twice in the TAH Foundation story corpus, both published 2017-01-15: [[works/taiwaneseamericanhistory-org/whoswho1453|1453. Han Han Cho 卓涵涵]] and the musician entry [[works/taiwaneseamericanhistory-org/musician382|382. Han Han Cho 卓涵涵, Cellist]].
+- HOLD: conflict in instrument label — the TAH Who's Who profile and this page list 低音提琴 (double bass), while corpus work 382 titles her "Cellist." Not merged; awaiting verification.
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/han-han-cho/)
