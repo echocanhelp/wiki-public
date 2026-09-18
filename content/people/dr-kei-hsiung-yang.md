@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-17
+last_reviewed: 2026-09-18
 ---
 # Dr. Kei-Hsiung Yang (楊界雄博士)
 
@@ -36,6 +36,7 @@ Accomplishment
 - Display-industry pioneer from Yunlin: GE researcher (1973–1979), IBM senior researcher (1979–2000), Deputy GM of Hannstar Display (瀚宇彩晶, 2000–2008); Fellow of the Society for Information Display (國際資訊顯示學會院士), 2001.
 - Family carries a parallel TAH community record: son [[people/andrew-yang||楊安澤]] is documented at [[works/taiwaneseamericanhistory-org/whos-who-2058-andrew-yang|2058. Andrew Yang 楊安澤]] (published the same day, 2018-03-10).
 - Corpus record: [[works/taiwaneseamericanhistory-org/whos-who-2059-kei-hsiung-yang|2059. Dr. Kei-Hsiung Yang 楊界雄博士]] (TAH Who's Who, 2018-03-10).
+- Corpus grep found no memoir or article mentions beyond his own Who's Who record — SKIP: no absorbable community material.
 
 ## Family
 
