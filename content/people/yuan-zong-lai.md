@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-18
 ---
 # Yuan Zong Lai (賴元榮)
 
@@ -31,6 +31,9 @@ last_reviewed: 2026-08-17
 ## Family
 
 _No filled family fields on the TAH profile._
+
+## From the corpus
+- TAH 人物檔案存於 corpus：[[works/taiwaneseamericanhistory-org/411-yuan-zong-lai-e8-b3-b4-e5-85-83-e6-a6-ae-201505|TAH #411「Yuan Zong Lai 賴元榮」, 2015-05-10]]。除本人檔案著錄外，回憶錄與報刊語料中暫無其他可吸收的社區記錄。
 
 ## Sources
 - [TAH #411 encyclopedia: 411. Yuan Zong Lai 賴元榮 / 2015/05](https://taiwaneseamericanhistory.org/411-yuan-zong-lai-%e8%b3%b4%e5%85%83%e6%a6%ae-201505/)

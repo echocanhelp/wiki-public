@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-18
 ---
 # S. L. Chen (陳世霖)
 
@@ -33,6 +33,11 @@ last_reviewed: 2026-08-17
 ## Family
 
 _No filled family fields on the TAH profile._
+
+## Role in the Community
+- Cellist (大提琴家) of the Borealis String Quartet and of a university-in-residence string quartet in British Columbia, Canada; recorded in the TAH music encyclopedia as a Taiwanese American musician (TAH #372).
+- Corpus records: [[works/taiwaneseamericanhistory-org/whoswho1390|TAH #1390 encyclopedia entry, 2016-11]] and [[works/taiwaneseamericanhistory-org/musician372|TAH #372「S. L. Chen 陳世霖, Cellist」, 2016-11]].
+- HOLD: name collision — TAH #1477「S. L. Chen」refers to 陳晳憐 ([[works/taiwaneseamericanhistory-org/whoswho1477]], 2017-01), a different person from 陳世霖; do not merge the two records.
 
 ## Sources
 - [TAH #1390 encyclopedia: 1390. S. L. Chen 陳世霖 / 2016/11](https://taiwaneseamericanhistory.org/whoswho1390/)

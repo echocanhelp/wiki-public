@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-18
 ---
 # Juliar Wang (謝綉緞)
 
@@ -39,6 +39,11 @@ Source from 美洲台灣日報http://taiwandaily.net/gp2.aspx?_p=kSF1c9zU9HS21FC
 ## From the record
 
 - 2021-05-06 — 台灣公義報「園藝」分類存檔收錄「多肉植物 succulent–謝秀緞 (Juliar Wang) 主講[影]」，記錄其在大洛杉磯台灣會館園藝講座讲授多肉植物栽培（[[articles/taiwanjustice-net/2024/20240225031504_root_f454eda084b7ca99|TJJ 園藝分類存檔, 2024-02-24 快照]]）。
+
+- 2021-05 — 以「謝秀緞」名列「2021年南加州僑界支持台灣參與世界衛生大會（WHA）聯合聲明」共同發起人，與南加州台美人團體共同連署（[[articles/taiwanjustice-net/2021/20210616072940_2021_05_17_2021年南加州僑界支持台灣參與世界衛生大會wha聯合聲_b1d58af16c0a5e5b|TJJ 存檔, 2021-06-16 快照]]）。
+- 2024-10-26 — 以「謝秀緞」執筆〈16位臺美音樂學者回國訪問僑委會，賓主盡歡〉刊於台灣公義報「台美人台加人」專欄，與其音樂背景（臺中師範音樂、USC 碩士）及 Brico King 創業身分相互印證（[[articles/taiwanjustice-net/2025/20250215221604_category_taiwaneseamerican_page_3_98bf76da5c3ac86d|TJJ 台美人分類存檔]]）。
+- TAH 人物檔案存於 corpus：[[works/taiwaneseamericanhistory-org/whos-who-2043-juliar-wang|TAH #2043「Juliar Wang 謝綉緞」]]。
+- 異寫記錄：本頁漢名記「謝綉緞」，台灣公義報存檔一律作「謝秀緞」（綉/秀異體），指同一人。
 
 ## Sources
 - [TAH #2043 encyclopedia: 2043. Juliar Wang 謝綉緞](https://taiwaneseamericanhistory.org/whos-who-2043-juliar-wang/)
