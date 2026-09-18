@@ -49,6 +49,7 @@ _No filled family fields on the TAH profile._
 - 2023-09-24 — 與彭明敏、魏廷朝共同起草之「台灣人民自救宣言」屆滿59週年，彭明敏文教基金會與台大研究生協會、台大學生會舉行彭明敏教授紀念研討會，肯定自救宣言世代對台灣自由民主的追求並促進跨世代對談（[[articles/taiwanjustice-net/2025/20250213033828_彭明敏研討會促跨世代對談-共同探討民主價值_a1b5696539a4d641|TJJ/CNA, 2023-09-24]]；同報導另快照 [[articles/taiwanjustice-net/2024/20240221121609_root_92ff3ef6b0b74b9c|TJJ/CNA]]）。
 
 ## Sources
+- [TAH #1642 encyclopedia: 1642. Tsung Ming Hsieh 謝聰敏](https://taiwaneseamericanhistory.org/whos-who-1642-tsung-ming-hsieh/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/tsung-ming-hsieh/)
 
 ## Related Pages

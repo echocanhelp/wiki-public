@@ -34,6 +34,8 @@ Michelle Wu was born in 1985 in Chicago, Illinois to Taiwanese immigrant parents
 - TAH 台美歷史紀錄收錄兩筆她的傳記條目：[[works/taiwaneseamericanhistory-org/whos-who-2166-michelle-wu|2166. Michelle Wu 吳彌]] 與 [[works/taiwaneseamericanhistory-org/ota-220|220. Michelle Wu 吳弭]]。
   - HOLD: conflict 漢名「吳彌」(TAH #2166、本人頁) vs「吳弭」(TAH #220) — 未自動合併。
 - profile 紀錄：[[works/taiwaneseamericanhistory-org/michelle-wu|Michelle Wu 吳彌 in Boston]]（2020-06-24）。
+- 市長選舉報導：[[works/taiwaneseamericanhistory-org/my-stories-809|809. 台裔吳弭角逐波士頓市長 家庭劇變母親患病讓她意外踏入政壇]]（10/2021）——報導其因母親患病而踏入政壇。
+- 市長任期報導：[[works/taiwaneseamericanhistory-org/my-stories-876|876. 台裔市長吳弭琴藝精湛 與波士頓交響樂團同台演奏驚豔全場]]（05/2023）。
 - 社群口述史訪問：[[works/taiwaneseamerican-org/michelle-wu|Michelle Wu – On Campaigning, Boston, and Pig Ears]]（TAP，2013-12-07 前後），談輔選、波士頓與豬耳朵。
 - 台美裔世代的從政影響：社運組織者 Bonnie Jin 自述大學期間起在吳彌的市議員辦公室及市長競選團隊工作，2023 年 1 月起任市長室成員，並提及自己因太陽花學運與 Occupy 的對照而走向勞動組織。見 [[works/taiwaneseamerican-org/bonnie-jin-union-organizer|Bonnie Jin — 工會組織者口述]]。
 
