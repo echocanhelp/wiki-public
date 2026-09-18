@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-17
 ---
 # Remii Huang (黃婕妤)
 
@@ -33,6 +33,11 @@ Accomplishment
 ## Family
 
 _No filled family fields on the TAH profile._
+
+## Role in the Community
+
+- **NATWA 2018 convention panel:** Featured at the NATWA convention panel "Tainamese & Taiwanese-American Filmmakers: Sharing Stories of Parent-Daughter Relationships" alongside Jessie Lee and Mian Mian Lu, joining via Skype as director of the short film "Color Positive." The panel presented three short films by women filmmakers featured at the inaugural Taiwanese American Film Festival (2017). ([[works/taiwaneseamerican-org/natwa2con|NATWA 2018 convention program]])
+- The TAH Who's Who press-kit note "Won the Best Female Director Award at the American Independent Film Festival" is not corroborated in the corpus; filmography details above are community-record primary material.
 
 ## Sources
 - [TAH #2078 encyclopedia: 2078. Remii Huang 	黃婕妤](https://taiwaneseamericanhistory.org/whos-who-2078-remii-huang/)

@@ -106,6 +106,7 @@ Use the shared intake process at Echopedia Community Contributions Hub and inclu
 ## From the record
 
 - 2016-05-08 — 大洛杉磯台灣會館台灣學校古典音樂欣賞課「台灣人音樂家」專場介紹「宋泉盛牧師千金」宋如音女士演奏 Bartók 作品 —— [[articles/taiwanjustice-net/2024/20240522054349_root_b4e27e98036e15d0|TJJ，2016-06-06 刊]]。
+- 2016-06-06 — 同文另存 Wayback 2023-01-29 存檔副本：同場介紹宋泉盛牧師千金宋如音演奏 Bartók 作品 —— [[articles/taiwanjustice-net/2023/20230129123134_2016_06_06_大洛杉磯台灣會館台灣學校_古典音樂欣賞_-六月_a244776e9eb57979|TJJ，2016-06-06 刊・2023-01-29 存檔]]。
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
