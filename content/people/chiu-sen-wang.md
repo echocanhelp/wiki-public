@@ -51,12 +51,8 @@ last_reviewed: 2026-09-18
 
 ## From the record
 
-- 2024-02-24 — 應邀在大洛杉磯台灣會館「2024年二二八追思紀念大會」（二二八事件77週年，2024-02-24舉辦）主講「二七部隊」，介紹這群以反抗陳儀貪污政府為號召的民兵部隊在二二八事件中與國民黨軍隊交戰、最終戰敗解散的歷史（[[articles/taiwanjustice-net/2024/20240412192704_root_95fd81860bafb5bf|TJJ, 2024-02-25]]）。
+- 2024-02-24 — 應邀在大洛杉磯台灣會館「2024年二二八追思紀念大會」（二二八事件77週年，2024-02-24舉辦）主講「二七部隊」，介紹這群以反抗陳儀貪污政府為號召的民兵部隊在二二八事件中與國民黨軍隊交戰、最終戰敗解散的歷史；大會主題「二二八的反抗」（[[articles/taiwanjustice-net/2024/20240412192704_root_95fd81860bafb5bf|TJJ, 2024-02-25]]；[[articles/taiwanjustice-net/2025/20250213041753_二二八事件77周年-大洛杉磯台灣會館舉辦追思紀念_f4bc88a293a5ec0d|同事件另篇報導]]）。
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
-
-## From the record
-
-- 2024-02-24 — 主講「二七部隊」專題演講，於大洛杉磯台灣會館 2024 年二二八追思紀念大會（77 周年），介紹這支以反抗陳儀政府為號召的民兵部隊（[[articles/taiwanjustice-net/2025/20250213041753_二二八事件77周年-大洛杉磯台灣會館舉辦追思紀念_f4bc88a293a5ec0d|TJJ, 2024-02-25]]）。

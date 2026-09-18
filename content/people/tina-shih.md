@@ -39,6 +39,10 @@ last_reviewed: 2026-09-16
 
 _No filled family fields on the TAH profile._
 
+## From the record
+
+- 2016-06-14 — 大洛杉磯台灣會館2016台美小姐選拔開訓首日，施雅婷老師以「身、心、靈俱美」主張為十二位決選佳麗講解選美須知，以其多年選美評審與美姿美儀教學經驗引導參選佳麗（[[articles/taiwanjustice-net/2024/20240522043642_root_cc3bbdbfc662fe66|TJJ, 2016-06-14]]；同稿另存 [[articles/taiwanjustice-net/2023/20230204022253_2016_06_14_2016台美小姐選拔-開訓記者會大洛杉磯台灣會館06122016-_735744492226b90c|2023 存檔copy]]）。
+
 ## Sources
 - [TAH #1137 encyclopedia: 1137. Tina Shih 施雅婷 / 2016/07](https://taiwaneseamericanhistory.org/whoswho1137/)
 - [TAH #173 encyclopedia: 173. Tina Shih 施雅婷 / First model School: 施雅婷國際美儀模特學苑 TINA MODELING](https://taiwaneseamericanhistory.org/173-tina-shih-%e6%96%bd%e9%9b%85%e5%a9%b7-first-model-school-%e6%96%bd%e9%9b%85%e5%a9%b7%e5%9c%8b%e9%9a%9b%e7%be%8e%e5%84%80%e6%a8%a1%e7%89%b9%e5%ad%b8%e8%8b%91-tina-modeling/)
