@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-17
+last_reviewed: 2026-09-18
 ---
 # Ching-Fen Hsiao (蕭清芬)
 
@@ -56,3 +56,11 @@ last_reviewed: 2026-09-17
 
 ## Network
 - [[organizations/presbyterian-church-in-taiwan||PCT]] — TAH Who’s Who
+
+## Role in the Community
+
+- Part of the Princeton-connected circle of Taiwanese seminarians and pastors (駱維仁、謝穎男、王成章、郭得烈、鄭學仁、許錦銘 等) recalled in 徐頌鵬's memoir of the first US-East Taiwanese Summer Conference; the group went on to supply major speakers for later 夏令會 ([[works/taiwaneseamericanhistory-org/ourjourneys268|268. 回憶第一屆美東台灣人夏令會 / 徐頌鵬]]).
+  - HOLD: conflict — 徐頌鵬's memoir places him four years at 普林斯頓神學院 (Princeton); the TAH Who's Who education table lists his doctorate from 林斯頓神學院. Not merged.
+- His own essay 「我的女兒美琴」 is held in the vault as [[works/taiwaneseamericanhistory-org/mystories434|434. 我的女兒美琴 / 蕭清芬]] (2016-05-09), the TAH-repository companion to the taiwanjustice.net excerpt already cited above.
+- Obituary record: [[works/taiwaneseamericanhistory-org/my-stories-816|816. 蕭清芬在美辭世 蕭美琴悼父親：一生守護台灣本土意識 12-2021]] (2021-12-16) — 蕭美琴's memorial framing his life as a lifelong defense of Taiwanese local consciousness.
+- Who's Who entry in corpus: [[works/taiwaneseamericanhistory-org/whoswho1433|1433. Ching-Fen Hsiao 蕭清芬 / 2016/12]].

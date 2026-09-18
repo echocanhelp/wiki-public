@@ -6,7 +6,7 @@ tags:
   - Taiwanese-American
   - Taiwan-Center-group-member
 verification_status: published
-last_reviewed: 2026-09-17
+last_reviewed: 2026-09-18
 ---
 # TUF(Taiwanese United Fund)
 
@@ -37,3 +37,11 @@ last_reviewed: 2026-09-17
 ## From the record
 
 - 2024-12-21 — Co-supported the 第161回世界台灣文化論壇 online symposium 「台灣現代舞團 Huang Yi & Kuka 北美巡演迴響」 (moderated by 鄭良光 of the 美國台灣人聯合基金會) alongside host Caltech and sponsors 台灣書院 and the 台灣人基金會 ([[articles/taiwanjustice-net/2025/20250425112924_huangyi-kuka-第161回世界台灣文化論壇_7dfa96523779391d|TJJ, 2024-12-17]]).
+
+## Role in the Community
+
+- Southern California organizing record: 吳西面 (Sei-Mi Wu) is memorialized as the **first 南加州台灣人聯合基金會會長 in 1985** ([[works/taiwaneseamericanhistory-org/270-e5-90-b3-e8-a5-bf-e9-9d-a2-sei-mi-wu-e7-ac-ac-e4-b8-80-e4-bb-bb-e5-8d-97-e5-|270. 吳西面 Sei-Mi Wu / 第一任南加州台灣人聯合基金會會長 / 1985]]).
+  - HOLD: conflict on founding year — the 1985 first-president record vs the 2017 "30 Anniversary" issue (implying 1987). Not merged.
+- Flagship event 台灣文化之夜: annual program books held as [[works/taiwaneseamericanhistory-org/photo-albums-activities-80|80. 台灣人聯合基金會-台灣文化之夜年刊]]; 30th-anniversary issue [[works/taiwaneseamericanhistory-org/publications1134|1134. 30 Anniversary 2017 Cultural Night / Taiwanese United Fund]] (2017-09).
+- 228 commemorative work: held the 228 68th-commemorative "Spiritual Day of Taiwan" concert with 優社 (Taiwan Elite Alliance) in Arcadia, CA on 2015-02-28 ([[works/taiwaneseamericanhistory-org/concerts3|3. The Spiritual Day of Taiwan 2-28 68th Commemorative Concert]]).
+- Also appears in corpus records as 美國台灣人聯合基金會 (co-host credit, 第161回世界台灣文化論壇 2024-12, already cited above).
