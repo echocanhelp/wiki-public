@@ -7,9 +7,12 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-18
 ---
 # Fan Rong K Chung Graham (金芳蓉)
+
+## Corpus pass (deepen-x 2026-09-18): SKIP
+No absorbable corpus material found in works/ or articles/ beyond the bibliographic record [[works/taiwaneseamericanhistory-org/1554-fan-rong-k-chung-graham-e9-87-91-e8-8a-b3-e8-93-89-201703|TAH #1554 (2017-03)]] — it is bibliography-only (full text stays in the vault), no memoir or community-organizing facts to absorb. No new biography invented.
 
 ## Identity Snapshot
 - **English:** Fan Rong K Chung Graham

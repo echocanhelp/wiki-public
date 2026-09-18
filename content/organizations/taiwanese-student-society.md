@@ -5,9 +5,12 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-18
 ---
 # Taiwanese Student Society
+
+## Corpus pass (deepen-x 2026-09-18): SKIP
+Corpus grep for 台灣學生會 / TUSA / 明尼蘇達 returned only incidental Minnesota-context records that do not mention this org: [[works/taiwaneseamericanhistory-org/31-minnesota-chapter-fapa|TAH #31 FAPA 明尼蘇達州中部分會]], [[works/taiwaneseamericanhistory-org/outstanding-achievement-award-umn-tu-chen|UMN 傑出校友 Dr. Tu Chen 陳都 (2015)]], [[works/taiwaneseamericanhistory-org/footsteps-2|萬國節-明尼蘇達 (2012)]], and memoirs about other campuses' 台灣學生會/同學會 ([[works/taiwaneseamericanhistory-org/ourjourneys277|Our Journey #277, UW-M]], [[works/taiwaneseamericanhistory-org/our-journeys-381|Our Journey #381, 北卡]]). Nothing absorbable about TSS (UMTC, founded 2012) itself — no facts invented.
 
 ## Identity Snapshot
 - **English:** Taiwanese Student Society

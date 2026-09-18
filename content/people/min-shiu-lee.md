@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-18
 ---
 # Min-Shiu Lee (李敏修博士)
 
@@ -41,8 +41,12 @@ last_reviewed: 2026-08-17
 - **Son:** David M. Lee 李達偉
 
 
+## Role in the Community
+- Entered the community record through the TAH story corpus: [[works/taiwaneseamericanhistory-org/237-min-shiu-lee-e6-9d-8e-e6-95-8f-e4-bf-ae|237. Min-Shiu Lee 李敏修]], published 2015-01-27 (value band B — essay/feature; bibliographic record held in the vault).
+
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/min-shiu-lee/)
+- [[works/taiwaneseamericanhistory-org/237-min-shiu-lee-e6-9d-8e-e6-95-8f-e4-bf-ae|TAH story #237: Min-Shiu Lee 李敏修]] (2015-01-27)
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-18
 ---
 # Wenlan Chia (賈雯蘭)
 
@@ -36,6 +36,10 @@ last_reviewed: 2026-08-17
 ## Family
 
 _No filled family fields on the TAH profile._
+
+## Role in the Community
+
+- Profiled in the TAH Foundation story encyclopedia as record #181: [[works/taiwaneseamericanhistory-org/181-wenlan-chia-e8-b3-88-e9-9b-af-e8-98-ad|181. Wenlan Chia 賈雯蘭]] (published 2014-12-30, band B essay/feature record). No further biographical detail is held in the corpus copy — the record is bibliographic only.
 
 ## Sources
 - [TAH #181 encyclopedia: 181. Wenlan Chia 賈雯蘭](https://taiwaneseamericanhistory.org/181-wenlan-chia-%e8%b3%88%e9%9b%af%e8%98%ad/)
