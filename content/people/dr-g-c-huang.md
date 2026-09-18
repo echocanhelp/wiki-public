@@ -40,7 +40,7 @@ _No filled family fields on the TAH profile._
 - **2007** — Listed as president (會長) of the Greater Washington Taiwanese American Association (華府台灣同鄉會) in the association's forty-year presidents roster (華府台灣同鄉會歷屆會長芳名錄), recorded under the romanization "Kuan-tsae Huang 黃光彩". [[works/taiwaneseamericanhistory-org/ourjourneys-138|138. 華府與巴城TAA的誕生 / 陳淮崇]]
 - Community directory profile: [[works/taiwaneseamericanhistory-org/whos-who-1869-g-c-huang|1869. Dr. G. C. Huang 黃光彩博士 / 2017-08]].
 - HOLD: conflict — the 2007 TAA-DC presidency places him in Washington DC, while the TAH profile lists Singapore-based roles (NUS/SingaLab from 1992, NTNU principal 2004–2005). Sequence not resolved; not auto-merged.
-- Re-verified 2026-09-17: corpus re-grep (works/articles) matches only the presidents roster (2007 entry, romanization "Kuan-tsae Huang 黃光彩") and the TAH #1869 directory profile above — no memoir or event mention beyond these; nothing further absorbable.
+- Re-verified 2026-09-17 (slice-18 pass): corpus re-grep (works/articles) matches only the presidents roster (2007 entry, romanization "Kuan-tsae Huang 黃光彩") and the TAH #1869 directory profile above — no memoir or event mention beyond these; nothing further absorbable.
 
 ## Sources
 - [TAH #1869 encyclopedia: 1869. Dr. G. C. Huang 黃光彩博士](https://taiwaneseamericanhistory.org/whos-who-1869-g-c-huang/)
