@@ -67,6 +67,10 @@ Laijohn TOC v2 — bodies not archived:
 - Listed with [[people/thomas-barclay||巴克禮]] as southern-mission origin figures on [[people/c-y-hsu||C. Y. Hsu]] (太平境 / 南神 / 〈聖堂〉) and on [[people/george-leslie-mackay||馬偕]] (north/south distinction).
 - A 《台灣演義》 broadcast record 「開台西醫 世紀傳愛—馬雅各」 (2021-03-07) is preserved in the [[organizations/taiwanjustice-net||taiwanjustice-net]] article archive (category listings, 2025).
 
+## From the record
+
+- 2021-03-07 — 民視《台灣演義》「開台西醫 世紀傳愛—馬雅各」專集介紹其開台醫療宣教事蹟，該集收錄於台灣公義報「台灣演義」分類存檔頁（[[articles/taiwanjustice-net/2025/20250514014154_category_taiwan_history_page_5_e041055e6555c89e|TJJ 台灣演義存檔頁5, 2025-05-14 存檔]]）。
+
 ## Related Pages
 - [[people/george-leslie-mackay||馬偕]]
 - [[people/thomas-barclay||巴克禮]]

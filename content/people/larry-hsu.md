@@ -40,3 +40,5 @@ last_reviewed: 2026-08-17
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+> SKIP (deepen-x 09171100-24, 2026-09-17): corpus grep found only this person's own TAH bibliographic record [[works/taiwaneseamericanhistory-org/whoswho1365|1365. Larry Hsu 許中強 / 2016/11]] — no community/movement material to absorb.
