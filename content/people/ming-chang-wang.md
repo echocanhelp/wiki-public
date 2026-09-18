@@ -34,6 +34,8 @@ last_reviewed: 2026-09-18
 - **Remembered by the community as the PSA inventor:** the story corpus carries a 2021 memorial essay titled 悼PSA發明者王敏昌 (2021-08-17), identifying him as the inventor of PSA and marking him as deceased by that date — [[works/taiwaneseamericanhistory-org/my-stories-798|798. 悼PSA發明者王敏昌 / 2021/08]].
 - **Self-deposition in the record:** he wrote his own autobiography for the corpus — [[works/taiwaneseamericanhistory-org/mystories390|390. 王敏昌自傳 / 2016/01]] — and a memoir on his wife 葉秀卿 (with English version "A Fated Relationship: Until We Meet Again in Heaven") — [[works/taiwaneseamericanhistory-org/mystories42|42. 生生世世緣 天國再相見 / 2014/09]].
 - **TAH Who's Who record:** bibliographic profile #696 (2015-11) — [[works/taiwaneseamericanhistory-org/696-ming-chang-wang-e7-8e-8b-e6-95-8f-e6-98-8c-201511|696. Ming Chang Wang 王敏昌 / 2015/11]].
+- **Community memorial record:** the corpus preserves 陳隆在王敏昌追思禮拜的訪談 (2012/8/12) — an interview with 陳隆 at his memorial worship service (published 2016-01-14) — [[works/taiwaneseamericanhistory-org/31-e9-99-b3-e9-9a-86-e5-9c-a8-e7-8e-8b-e6-95-8f-e6-98-8c-e8-bf-bd-e6-80-9d-e7-a6|31. 陳隆在王敏昌追思禮拜的訪談 / 2012/08]].
+- HOLD: conflict on death date — memorial-service interview dated 2012/08/12 vs memorial essay 悼PSA發明者王敏昌 dated 2021/08; corpus holds no corroborating date, never auto-merged.
 - HOLD: the PSA-inventor attribution exists only in the memorial essay's title; the corpus holds these as bibliographic records only (full text stays in the vault), so no further detail was absorbable and the claim is not independently corroborated here.
 
 ## Family

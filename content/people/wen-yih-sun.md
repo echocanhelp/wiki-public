@@ -34,7 +34,7 @@ last_reviewed: 2026-09-18
 
 ## Role in the Community
 
-- **Founding participant of NATPA (北美台灣人教授協會)** — one of the sixteen professors at the first preparatory meeting, 1980-02-16, at the University of Chicago international dorm (alongside Chin-che Chang, Parris Hsu-Cheng Chang, Kim Lai Huang, Robert Y. Lai, Kenneth K. Wu and others). The meeting resolved that the association should hold meetings in Taiwan and give research back to Taiwan and the countrymen: [[works/taiwaneseamericanhistory-org/ourjourneys69-eng|Our Journeys 69 (EN)]] / [[works/taiwaneseamericanhistory-org/ourjourneys69|Our Journeys 69]].
+- **Founding participant of NATPA (北美台灣人教授協會)** — one of the sixteen professors at the first preparatory meeting, 1980-02-16, at the University of Chicago international dorm. The memoir's full roster: 張錦哲、張旭成、陳炳杞、黃員成、黃金來、賴義雄、林靜竹、孫錦德、商文義、陳黃義敏、蔡嘉寅、吳得民、伍焜玉、楊勝亮、嚴文亮, plus the narrator (臨時會長). The meeting adopted draft bylaws and resolved that the association should hold meetings in Taiwan and give research back to Taiwan and the countrymen: [[works/taiwaneseamericanhistory-org/ourjourneys69-eng|Our Journeys 69 (EN)]] / [[works/taiwaneseamericanhistory-org/ourjourneys69|Our Journeys 69]].
 - **NATPA President, 14th term (1994)** — led the association's 14th annual conference held in Taiwan, one of only two NATPA annuals held on the island (the 20th, 2000, under 吳和甫, coincided with President Chen Shui-bian's inauguration). Cited as the model for overseas Taiwanese associations returning to Taiwan for annual meetings: [[works/taiwaneseamericanhistory-org/ourjourneys47|Our Journeys 47]].
 - **Own TAH encyclopedia entry** — 1579. Wen-Yih Sun 商文義 (2017/03): [[works/taiwaneseamericanhistory-org/1579-wen-yih-sun-e5-95-86-e6-96-87-e7-be-a9-201703|TAH #1579]].
 
