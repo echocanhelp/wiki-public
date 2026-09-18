@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-18
 ---
 # Tzu-Wei Lin (林子偉)
 
@@ -29,6 +29,13 @@ last_reviewed: 2026-08-17
 ## Employment
 - Boston Red Sox — Baseball Player — (2012-2020) — Minnesota Twins — Baseball Player — (2021-)
 <!-- tah-tables:end -->
+
+## Role in the Community
+- Recorded in the TAH Foundation Who's Who archive: [[works/taiwaneseamericanhistory-org/whos-who-1750-tzu-wei-lin|1750. Tzu-Wei Lin 林子偉]] (published 2017-07-09, band B; POB Kaohsiung City).
+- Featured in the Taiwanese American athlete profile roundup: [[works/taiwaneseamerican-org/taiwan-zhiguang-taiwanese-taiwanese-american-athletes-to-root-for|台灣之光 — Taiwanese / Taiwanese American athletes to root for]].
+- Per the 2017 community write-ups: signed with the Boston Red Sox in 2012 for a $2.05M bonus (largest for a Taiwanese-born position player); called up to the majors in 2017 as a utility player; holds the record for most hits by a Taiwanese player in MLB and is the second Taiwanese player to win a World Series ring (after Chien-Ming Wang, 2009).
+- Youth career: first place at the 2010 Junior League World Series and 2010 World Junior Baseball Championship (MVP, 打點王, 得分王, 最佳防守 in the World Youth League Championships, 2010).
+  HOLD: conflict in the 2010 award wording — TAH profile lists MVP/打點王/得分王/最佳防守 for the World Youth League Championships; the 2017 community article cites the Junior League World Series and World Junior Baseball Championship titles instead. Both kept, not merged.
 
 ## Family
 
