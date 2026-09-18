@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-17
+last_reviewed: 2026-09-18
 ---
 # Chuan-Kwang Yang (楊傳廣)
 
@@ -55,3 +55,5 @@ last_reviewed: 2026-09-17
 ## From the record
 
 - 2022-09-13 — A TJJ notice for the 大洛杉磯台灣會館 24th-anniversary gala profiles keynote guest 紀政 (「飛躍的羚羊」, Mexico City 1968 women's 80m hurdles bronze) and notes she was the second Taiwanese athlete to win an Olympic medal after 楊傳廣 ([[articles/taiwanjustice-net/2022/20220924222953_2022_09_13_10-22大洛杉磯台灣會館-24-週年募款年會_紀政擔任主講_2a543ddc9301b7b3|TJJ, 2022-09-13]]).
+
+複核（deepen-x 2026-09-18）：corpus re-grep（works+articles）命中集合與前次相同，全數已吸收並 wikilink，無新增社群材料。
