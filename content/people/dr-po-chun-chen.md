@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-17
 ---
 # Dr. Po-Chun Chen (陳柏均博士)
 
@@ -28,6 +28,11 @@ last_reviewed: 2026-08-17
 ## Employment
 - CA Technologies — Software Engineer — (2010-2012) — Amazon Web Services — Senior Software Engineer — (2012-)
 <!-- tah-tables:end -->
+
+## Role in the Community
+
+- His own community record is the TAH Who's Who encyclopedia entry [[works/taiwaneseamericanhistory-org/whos-who-2146-po-chun-chen|TAH #2146]], the only corpus work attributable to this page.
+- HOLD: name collision — corpus articles covering the 第11屆總統文化獎 laureate 陳柏均 (founder of HRC舞蹈工作室, dance field; see the 總統文化獎 coverage in articles/taiwanjustice-net/) describe a different person from this computer-science engineer; not merged pending disambiguation.
 
 ## Family
 

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-17
 ---
 # B. H. Chen (陳炳煌)
 
@@ -37,6 +37,15 @@ last_reviewed: 2026-08-17
 - **Daughter:** 陳彬、陳霞
 - **Son:** 陳毅、陳衡原
 
+
+## Role in the Community
+- Recorded in the corpus as **台灣第一位出書的漫畫家** (the first Taiwanese manga/cartoon artist to publish a book), per 林義勇's 2019 community-history essay — this extends the press-kit role "journalist, artist" with a specific art-historical first:
+  - [[works/taiwaneseamericanhistory-org/my-stories-690|690. 台灣第一位出書的漫畫家陳炳煌的傳奇 / 林義勇 / 2019]] (2019-08-20)
+- Held two TAH encyclopedia entries: the founding-profile slot (#1, published 2019-08-14) and a later Who's Who entry (#1292, published 2016-09-25):
+  - [[works/taiwaneseamericanhistory-org/b-h-chen|1. Bing-Huang Chen (陳炳煌)]]
+  - [[works/taiwaneseamericanhistory-org/whoswho1292|1292. B. H. Chen 陳炳煌]]
+- Career record already on file (1931 台灣新民報上海支局長; 1951–1963 豐年雜誌編輯/副社長; 台灣旅行社總經理) is consistent with the corpus framing of a journalist–artist–publisher figure across the pre- and early post-war period.
+- HOLD: conflict — snapshot role line "journalist, artist" vs corpus "第一位出書的漫畫家" (cartoonist); both kept, not merged.
 
 ## Sources
 - [TAH #1 encyclopedia: 1. Bing-Huang Chen (陳炳煌)](https://taiwaneseamericanhistory.org/b-h-chen/)

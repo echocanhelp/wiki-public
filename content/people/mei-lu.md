@@ -36,7 +36,7 @@ _No filled family fields on the TAH profile._
 
 ## Role in the Community
 
-- 2003 年與黃雪香共同擔任《台灣公論報》「點心擔專欄」（北美洲臺灣婦女會專欄，1999 年创设）主編負責人，為婦女會十位歷任主編之一 ([[works/taiwaneseamericanhistory-org/ourjourneys154|154. 完美的句點 / 陳桂蘭]])
+- 2003 年與黃雪香共同擔任《台灣公論報》「點心擔專欄」（北美洲臺灣婦女會專欄，1999 年創設）主編負責人，為婦女會十位歷任主編之一 ([[works/taiwaneseamericanhistory-org/ourjourneys154|154. 完美的句點 / 陳桂蘭]])
 
 HOLD: TAF（台灣人協進會）會史紀念照中的 "Mei Lu"（MFCF 1990 前後共同成員合影）另見同名 "Matthias & Mei Lu (盧志華/美惠)"，照片人物是否為陳香梅本人無法從文獻確認，不併入。
 

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-17
 ---
 # Chun-Nan Hsu (許鈞南)
 
@@ -29,6 +29,10 @@ last_reviewed: 2026-08-17
 ## Employment
 - 加州大學聖地牙哥分校 — Present — Associate Professor of Medicine
 <!-- tah-tables:end -->
+
+## Role in the Community
+
+- His community record is the TAH Who's Who encyclopedia entry [[works/taiwaneseamericanhistory-org/whoswho1191|TAH #1191, 2016/07]] — a bibliographic record only; no memoir, letter, or other first-person corpus material exists for him. Community facts beyond the press-kit profile: none absorbable.
 
 ## Family
 

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-17
 ---
 # Chin-Feng Chen (陳金鋒)
 
@@ -39,6 +39,9 @@ last_reviewed: 2026-08-17
 ## Sources
 - [TAH #1745 encyclopedia: 1745. Chin-Feng Chen 陳金鋒](https://taiwaneseamericanhistory.org/whos-who-1745-chin-feng-chen/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/chin-feng-chen/)
+
+## Corpus note (deepen-x 09171100-25)
+SKIP: only corpus hit is the bibliographic stub of his own Who's Who entry ([[works/taiwaneseamericanhistory-org/whos-who-1745-chin-feng-chen|1745. Chin-Feng Chen 陳金鋒]], published 2017-07-06) — no additional community/corpus facts to absorb.
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
