@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-18
 ---
 # ASU Taiwanese International Student Association
 
@@ -20,6 +20,11 @@ The ASU Taiwanese International Student Association (TISA), known in Chinese as 
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/asu-taiwanese-international-student-association/)
+
+## Role in the Community
+
+- No corpus (works/articles) mentions found for TISA or 亞利桑那州立大學台灣國際學生會 — the only apparent "TISA" hits in the corpus are base32 archive digests, not mentions. Nothing absorbable; the page holds the TAH directory facts as-sourced.
+- Distinct from the broader [[organizations/taiwanese-student-association-at-arizona-state-university|TSA at ASU]]; both document the ASU/Tempe Taiwanese student presence alongside [[organizations/taiwanese-american-association-of-arizona|TAA of Arizona]].
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
