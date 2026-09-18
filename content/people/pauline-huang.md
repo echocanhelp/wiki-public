@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-18
 ---
 # Pauline Huang (黃百齡)
 
@@ -32,6 +32,10 @@ last_reviewed: 2026-08-17
 ## Family
 
 _No filled family fields on the TAH profile._
+
+## Working notes
+
+- SKIP (2026-09-18, deepen-x slice 09171500-32): corpus grep for 黃百齡/Pauline Huang returns only her own TAH encyclopedia record [[works/taiwaneseamericanhistory-org/whos-who-2162-pauline-huang|2162. Pauline Huang 黃百齡 / 2018-10]] (bibliographic record only, no article text) — no community/corpus facts absorbable beyond the existing press-kit snapshot. No new claims added.
 
 ## Sources
 - [TAH #2162 encyclopedia: 2162. Pauline Huang 黃百齡](https://taiwaneseamericanhistory.org/whos-who-2162-pauline-huang/)
