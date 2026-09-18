@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-18
 ---
 # Prof. Jessica Y. Ho
 
@@ -36,6 +36,14 @@ B.A., Economics, health and societies (major)/English (minor)
 - **Father:** Teh-Yuan Ho
 - **Mother:** Yu-Tieh Ho
 
+
+## Role in the Community
+
+Corpus check 2026-09-18: the only record in `content/works` and `content/articles` is her own TAH Who's Who bibliographic entry, so nothing new is absorbable beyond the link-through.
+
+- [[works/taiwaneseamericanhistory-org/whos-who-1926-jessica-y-ho|TAH #1926 — Prof. Jessica Y. Ho]] (2017-11-03, band B) — bibliographic record only; no memoir or community material in the vault, and no Chinese name or geography recorded on the source profile.
+
+No community/memoir material found → no biography added (no invented biography).
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-jessica-y-ho/)

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-18
 ---
 # Ian Lin (林毅安)
 
@@ -31,6 +31,10 @@ last_reviewed: 2026-08-17
 - Bongo Labs Inc. — 2014-present — Co-founder & ceo
 - Mirosoft — 2012-2014 — Principal program manager lead
 <!-- tah-tables:end -->
+
+## Role in the Community
+
+- **TAH Who's Who record:** his presence in the movement corpus is limited to his own bibliographic profile #1546 (2017-03) — [[works/taiwaneseamericanhistory-org/whoswho1546|1546. Ian Lin 林毅安 / 2017/03]]. The corpus record holds bibliographic metadata only; no memoir, organizational membership, or event participation by 林毅安 appears anywhere in the story corpus, so no community-role facts were absorbable beyond the Employment table already extracted from the profile.
 
 ## Family
 

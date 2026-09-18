@@ -6,7 +6,7 @@ tags:
   - Taiwanese-American
   - Taiwan-Center-group-member
 verification_status: published
-last_reviewed: 2026-07-16
+last_reviewed: 2026-09-18
 ---
 # North America Taiwanese Engineering & Science Association(NATEA)
 
@@ -18,6 +18,15 @@ last_reviewed: 2026-07-16
 - **English (as listed):** North America Taiwanese Engineering & Science Association(NATEA)
 - **Relation:** Taiwan Center group member (official listing)
 - **Source:** https://www.taiwancenter.org/group-members · `taiwancenter-org-group-members.md`
+
+## Role in the Community
+
+Corpus check 2026-09-18 (NATEA material in the vault concerns the parent association, not the Southern California chapter specifically — kept as org-level context):
+
+- **Association activity record.** A dedicated TAH record documents NATEA's activities (北美台灣工程師協會的活動) ([[works/taiwaneseamericanhistory-org/activities-of-natea|Activities of NATEA]]); a parallel record covers the Illinois chapter, confirming NATEA was a multi-chapter North American organization of which this LA chapter is one branch ([[works/taiwaneseamericanhistory-org/natea-illinois-chapter|NATEA Illinois Chapter]]).
+- **Taiwan Center co-sponsor.** NATEA is listed among the sponsoring/attending associations in Taiwan Center of Greater Los Angeles event records — the Asian Choral Festival video, concert records, and photo albums ([[works/taiwaneseamericanhistory-org/video-asian-choral-festival|Asian Choral Festival video]], [[works/taiwaneseamericanhistory-org/concerts26|concerts26]], [[works/taiwaneseamericanhistory-org/photo-albums-activities-19|photo albums: activities 19]]) — consistent with its group-member listing above.
+
+HOLD: this page (南加分會 chapter) vs the corpus records (parent association / other chapters) — chapter-level history remains unexpanded; no independent SoCal-chapter founding facts found in the vault.
 
 ## Source Notes
 
