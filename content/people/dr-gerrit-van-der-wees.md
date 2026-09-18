@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-17
+last_reviewed: 2026-09-18
 ---
 # Dr. Gerrit Van Der Wees (韋傑理博士)
 
@@ -40,6 +40,8 @@ Dr. Gerrit Van Der Wees 韋傑理博士 – History of Taiwanese American (T.A. 
 - FAPA (Formosan Association for Public Affairs): Senate Liaison 2005–2016; his own account of leaving the role is preserved in [[works/taiwaneseamericanhistory-org/mystories419|419. Retirement from FAPA / Gerrit van der Wees (03/2016)]].
 - The couple's decades of human-rights advocacy are profiled in 民報 「跨洋書寫30餘載 韋傑理夫婦為台灣人權奔走」 (2017-12-30), cross-referenced from the 台灣會館 coverage at [[articles/taiwanjustice-net/2017/20171231185115_2017_11_29_鄭文龍律師-12-10-12-13-分別在洛杉磯台灣會館及爾灣場老_3e441b1f10db56a5|鄭文龍律師 洛杉磯/爾灣場報導（台灣justice.net）]].
 - His own encyclopedia entry is archived at [[works/taiwaneseamericanhistory-org/whos-who-804-gerrit-van-der-wees|TAH Who's Who #804]].
+- Wife [[people/tah-p-2cc9076139|陳美津 (Mei-Chin van der Wees)]] served as 2006 會長 of the 華府台灣同鄉會 (TAA Greater Washington/Baltimore), per the 歷屆會長芳名錄 in [[works/taiwaneseamericanhistory-org/ourjourneys-138|Our Journeys 138（華府與巴城TAA的誕生）]] — the couple's community leadership spanned both advocacy and local association life.
+- Photographed in 2012 with President 蔡英文 at FAPA headquarters (Washington DC) during her US visit, in the roster picture captioned in [[works/taiwaneseamericanhistory-org/ourjourneys228|Our Journeys 228（昆布勞與FAPA的故事）]].
 
 ## Sources
 - [TAH #804 encyclopedia: 804. Dr. Gerrit Van Der Wees 韋傑理博士](https://taiwaneseamericanhistory.org/whos-who-804-gerrit-van-der-wees/)
