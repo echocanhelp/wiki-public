@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-18
 ---
 # Dr. Hsing-Hua Sylvia Lin (林杏樺博士)
 
@@ -30,6 +30,9 @@ Dr. Hsing-Hua (Sylvia) Lin 林杏樺博士 – History of Taiwanese American (T.
 ## Employment
 - Univ. of Pittsburgh — Data Scientist — (2017-)
 <!-- tah-tables:end -->
+
+## Role in the Community
+Corpus check (2026-09-18): the only corpus material naming her is her own TAH Who's Who entry, [[works/taiwaneseamericanhistory-org/whos-who-2276-hsing-hua-lin|2276. Dr. Hsing-Hua (Sylvia) Lin 林杏樺博士]] (published 2020-06-10, band B). No memoir or movement-record hits — community role beyond the TAH profile is not yet documented in the corpus.
 
 ## Family
 

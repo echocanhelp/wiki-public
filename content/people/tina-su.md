@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-18
 ---
 # Tina Su (蘇毓婷博士)
 
@@ -34,6 +34,13 @@ last_reviewed: 2026-08-17
 ## Family
 
 _No filled family fields on the TAH profile._
+
+## Role in the Community
+- Documented in the TAH story corpus as a community-classical musician (French horn), consistent with her French-horn competition and performance record: a profile published 2015-06-21 ([[works/taiwaneseamericanhistory-org/453-tina-su-e8-98-87-e6-af-93-e5-a9-b7-201506|453. Tina Su 蘇毓婷 / 2015-06]]) and an artist feature published under "Frenceh Horn" (source's spelling of "French Horn") 2016-05 ([[works/taiwaneseamericanhistory-org/217-tina-su-e8-98-87-e6-af-93-e5-a9-b7-frenceh-horn-201605|217. Tina Su 蘇毓婷, Frenceh Horn / 2016-05]]).
+
+## Timeline
+- 2015-06-21 — TAH story-corpus profile #453 published
+- 2016-05 — TAH story-corpus artist feature #217 (French horn) published
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/tina-su/)

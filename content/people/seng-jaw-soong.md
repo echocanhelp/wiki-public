@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-18
 ---
 # Seng-Jaw Soong (宋盛照)
 
@@ -36,6 +36,12 @@ Senior Leader
 ## Family
 
 _No filled family fields on the TAH profile._
+
+## Role in the Community
+- Recorded in the community record as TAH story-corpus encyclopedia entry #1482, published 2017-01-24 ([[works/taiwaneseamericanhistory-org/whoswho1482|1482. Seng-Jaw Soong 宋盛照 / 2017-01]]); the entry postdates the directory's listed lifespan 1943–2012, so it is a retrospective community memorial of his career rather than a contradiction.
+
+## Timeline
+- 2017-01-24 — TAH story-corpus encyclopedia entry #1482 published
 
 ## Sources
 - [TAH #1482 encyclopedia: 1482. Seng-Jaw Soong 宋盛照 / 2017/01](https://taiwaneseamericanhistory.org/whoswho1482/)
