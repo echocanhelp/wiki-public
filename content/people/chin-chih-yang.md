@@ -7,9 +7,13 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-18
 ---
 # Chin Chih Yang (楊金池)
+
+<!-- deepen-x 09172104-1: SKIP — corpus grep (楊金池|Chin Chih Yang) only hits the bibliographic record
+     [[works/taiwaneseamericanhistory-org/whoswho1591|1591. Chin Chih Yang 楊金池 / 2017/03]]
+     (B-band, no article text) and the works index. No community/memoir facts absorbable. -->
 
 ## Identity Snapshot
 - **English:** Chin Chih Yang

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-18
 ---
 # B. Michael Yeun (楊明昊)
 
@@ -33,6 +33,10 @@ last_reviewed: 2026-08-17
 
 - **Daughter:** Christina
 
+
+## Role in the Community
+
+- Vice-President (副會長) of the [[organizations/formosan-association-for-human-rights|Formosan Association for Human Rights (FAHR)]] in 2014, under President H. L. Hung (洪榮隆); also listed among the directors that year. Recorded in the corpus memoir [[works/taiwaneseamericanhistory-org/ourjourneys75-eng|Our Journeys #75 (EN)]] and its Chinese counterpart [[works/taiwaneseamericanhistory-org/ourjourneys75|Our Journeys #75]], sourced from 張丁蘭的故事 (Tina Chang's Story, 2000); TAH encyclopedia entry: [[works/taiwaneseamericanhistory-org/902-b-michael-yeun-e6-a5-8a-e6-98-8e-e6-98-8a-201603|902. B. (Michael) Yeun 楊明昊 / 2016/03]].
 
 ## Sources
 - [TAH #902 encyclopedia: 902. B. (Michael) Yeun 楊明昊 / 2016/03](https://taiwaneseamericanhistory.org/902-b-michael-yeun-%e6%a5%8a%e6%98%8e%e6%98%8a-201603/)
