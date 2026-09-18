@@ -41,6 +41,7 @@ Professor and Head of Department, Department of Physics
 ## Role in the Community
 - As Academia Sinica 副院長 she chaired the 數理科學組 candidate review at the 34th academicians' meeting (2025-07), alongside 院士沈元壤, during the first election in which 院士 nationality disclosure was required ([[articles/taiwanjustice-net/2025/20250718101729_台灣中研院首度明確要求院士須具中華民國國籍_185130c9fda2ac2f|台灣justice:e-News 2025-07-18]]).
 - Appeared with 衛福部長陳時中 and 中研院長廖俊智 in the 中研院「預祝30零確診」紅豆餅 photo (2020-05), announcing 疾管署研檢中心's temporary入驻 at Academia Sinica ([[articles/taiwanjustice-net/2025/20251210195733_台灣連續29天沒有武漢肺炎本土病例_將鬆綁相關集_ea9864b0323438d1|台灣justice:e-News 2020-05-11]]).
+- Herself an elected 院士 (academician) of Academia Sinica — press coverage of the 34th academicians' meeting identifies her as 「副院長、院士周美吟」, the 數理科學組 review chair ([[articles/taiwanjustice-net/2025/20250718101729_台灣中研院首度明確要求院士須具中華民國國籍_185130c9fda2ac2f|台灣justice:e-News 2025-07-18]]).
 - Own TAH encyclopedia record: [[works/taiwaneseamericanhistory-org/whos-who-1829-m-y-chou|TAH #1829]].
 
 ## Timeline

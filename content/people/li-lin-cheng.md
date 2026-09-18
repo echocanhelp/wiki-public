@@ -33,9 +33,18 @@ BVM (Bachelor of Veterinary Medicine)
 - University of Wisconsin–Madison — 1998-2005 — Post Doc Researcher — University of Wisconsin–Madison — 2009- — 2014 — Scientist
 <!-- tah-tables:end -->
 
+## Role in the Community
+
+- UW-Madison 台灣布袋戲團第一任團長：2000 年正式出團，赴美城西（麥城）中小學演出「虎姑婆」，先以投介紹台灣地理、歷史、風土；她收集團員課表分組排練，並與學建築的夫婿小林博仁反覆改良舞台（木製→鐵管→PVC 水管五代），沿用至今（[[works/taiwaneseamericanhistory-org/ourjourneys277|Our Journeys 277]]）。
+- 曾任北美洲台灣人教授協會（NATPA）副會長兼秘書長，後任會長：駐 Madison, Wisconsin，與夫婿在当地台灣社團及 FAPA 活躍；文筆佳，以筆名 Tottoro 在《民報》《綠逗》設專欄，並參與夏令會後公開聲明起稿、閉幕典禮主持朗誦該聲明（[[works/taiwaneseamericanhistory-org/ourjourneys287|Our Journeys 287]]）。
+- 父親鄭昭明為戰後台南善友管弦樂團指揮及主要幹部；她與石青如、陳純寶同屬善友第二代（[[works/taiwaneseamericanhistory-org/ourjourneys287|Our Journeys 287]]）。
+- 撰寫「242. 戰鬥番薯奧運夢」（2016-08）（[[works/taiwaneseamericanhistory-org/ourjourneys242|Our Journeys 242]]）。
+
 ## Family
 
-_No filled family fields on the TAH profile._
+- **Husband:** 小林博仁（台日混血，學建築；UW-Madison 布袋戲團舞台設計者）（[[works/taiwaneseamericanhistory-org/ourjourneys277|Our Journeys 277]]）。
+- **Father:** 鄭昭明（善友管弦樂團指揮）。
+- TAH 個人檔案欄位原無家人資料；上述取自 Our Journeys 回憶錄。
 
 ## Sources
 - [TAH #1609 encyclopedia: 1609. Li-Lin Cheng 鄭麗伶](https://taiwaneseamericanhistory.org/whos-li-lin-cheng/)

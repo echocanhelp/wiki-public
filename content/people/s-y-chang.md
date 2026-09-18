@@ -44,6 +44,8 @@ _No filled family fields on the TAH profile._
 - 1983–1985 — Second president of TAF (per the memoir's president list: 莊明哲 1980–1982, 張信義 1983–1985, 鄭天助 1986–1988, 卓甫良 1989–1991) ([[works/taiwaneseamericanhistory-org/our-journeys-377|Our Journeys #377]]).
 - 1984-07-14 — Among the ~40 founders at the formal establishment of NATMA at Western Michigan University, Ypsilanti, listed in the Chicago group with 蔡俊晴 and 林洪謙 ([[works/taiwaneseamericanhistory-org/ourjourneys74|Our Journeys #74]]; English account [[works/taiwaneseamericanhistory-org/ourjourneys74-eng|#74-eng]]).
 - Described in an Our Journeys roster as 哈佛大學副教授、精神科醫師 ([[works/taiwaneseamericanhistory-org/ourjourneys79|Our Journeys #79]]).
+- 1980-10-18 — As a first TAF Board of Directors member, passed the by-law renaming MFCF to TAF, alongside 莊明哲、陳植哲、洪宏謨、楊忠正、卓甫良; as second president he stressed Youth Works (Junior, JH, and High School youths) ([[works/taiwaneseamericanhistory-org/ourjourneys33-eng|Our Journeys #33-eng]]).
+- HOLD: English-name conflict — TAH press-kit page "S. Y. Chang" vs memoir corpus "Sidney Chang"; not auto-merged.
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

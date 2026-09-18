@@ -40,7 +40,7 @@ last_reviewed: 2026-09-17
 
 ## Role in the Community
 
-- **Memoirist:** authored 「來美國追夢半世紀」 ([[works/taiwaneseamericanhistory-org/mystories124|mystories 124]], 2014-10) and 「台美人移民史的首座里程碑」 on Flamingo Garden Senior Apartments ([[works/taiwaneseamericanhistory-org/ourjourneys173-eng|Our Journeys 173]]). Personal papers archived: [[works/taiwaneseamericanhistory-org/collection-of-dr-fei-kuang-tseng|49. Collection of Dr. Fei-Kuang Tseng 曾輝光博士的收藏]].
+- **Memoirist:** authored 「來美國追夢半世紀」 ([[works/taiwaneseamericanhistory-org/mystories124|mystories 124]], 2014-10) and 「台美人移民史的首座里程碑」 on Flamingo Garden Senior Apartments ([[works/taiwaneseamericanhistory-org/ourjourneys173-eng|Our Journeys 173]]; also [[works/taiwaneseamericanhistory-org/ourjourneys173|173 中文版]]). Additional autobiography in the corpus: 「飮水思源感恩心 七十歲感恩回憶錄」 ([[works/taiwaneseamericanhistory-org/publications898|Publications 898]], 2008-03) and 「苦學」 ([[works/taiwaneseamericanhistory-org/379-e8-8b-a6-e5-ad-b8-e6-9b-be-e8-bc-9d-e5-85-89-201512|379 苦學]], 2015-12). Personal papers archived: [[works/taiwaneseamericanhistory-org/collection-of-dr-fei-kuang-tseng|49. Collection of Dr. Fei-Kuang Tseng 曾輝光博士的收藏]].
 - **Credit-union founding:** per 周實's memoir 「曇花一現的南加信用合作社」 ([[works/taiwaneseamericanhistory-org/ourjourneys244|Our Journeys 244]]), 曾輝光 attended the first SCTFCU (南加州台灣人聯邦信用合作社) organizing meeting (~14 同鄉 present) and served as **secretary (秘書)** on its founding board.
 - **TASA:** president of the Taiwanese-America Seniors Association of Southern California, 1995 and 1997. [[organizations/taiwanese-america-seniors-association-of-southern-california-tasa|TASA]]
 

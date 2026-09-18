@@ -18,6 +18,12 @@ last_reviewed: 2026-09-17
 
 The Global Taiwan Institute (GTI) is a think tank dedicated to strengthening US-Taiwan relations through policy research, public outreach, and community building. GTI builds a platform connecting policymakers, academics, and media in both the United States and Taiwan for information, analysis, and events. The organization incubates progressive ideas informed by Taiwan’s political, economic, and cultural developments. GTI pursues three core programs: the weekly Global Taiwan Brief newsletter, a bi-weekly Public Seminar Series, and an Annual Symposium paired with an Annual Report.
 
+## Role in the Community
+
+- 2016-09-14 GTI 在華府（DC）創立，TAH 檔案庫以「9. The beginning of GTI (Global Taiwan Institute 全球台灣研究中心) in DC, Sept. 14, 2016.」留檔（[[works/taiwaneseamericanhistory-org/important2016-9|TAH 檔案庫 #9]]）。
+- 組織简介與通訊均入藏 TAH：「47. History of GTI (Global Taiwan Institute)全球台灣研究中心簡介」（[[works/taiwaneseamericanhistory-org/history-of-gti-global-taiwan-institute|TAH 檔案庫 #47]]）、GTI 通訊（[[works/taiwaneseamericanhistory-org/newsletter-of-global-taiwan-institute|GTI Newsletter]]）、GTI 條目（[[works/taiwaneseamericanhistory-org/global-taiwan-institute|TAH 檔案庫 GTI 頁]]）。
+- 台美人學習資源網收錄其委託 Thomas J. Shattuck 撰寫的轉型正義專文〈Transitional Justice in Taiwan: A Belated Reckoning with the White Terror〉，論白色恐怖時期真相調查不足與檔案開放法制改革（[[works/taiwaneseamerican-org/remembrance-resources-learning-about-228|228 紀念學習資源頁]]）。
+
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/global-taiwan-institute/)
 
