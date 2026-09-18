@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-17
+last_reviewed: 2026-09-18
 ---
 # Jau-Ching Lai (賴昭晴)
 
@@ -54,3 +54,5 @@ _No filled family fields on the TAH profile._
 複核（deepen-x slice 09170130-10, 2026-09-17）：corpus re-grep 命中僅自身書目 #254、#10221、ourjourneys29（會館《台灣人的歌》製作名單）與 index — 全部已連結，無新材料可吸收，SKIP-with-reason：語料已飽和。
 
 複核（deepen-x slice 09170500-7, 2026-09-17）：corpus re-grep 命中僅自身書目 #254、#10221、ourjourneys29（會館《台灣人的歌》製作名單）與 index — 全部已連結，無新材料，SKIP-with-reason：語料已飽和；USC 學位 HOLD 維持。
+
+複核（deepen-x slice 09180131-7, 2026-09-18）：corpus re-grep 命中集合不變（#254、#10221、ourjourneys29、index）— 全部已吸收，SKIP-with-reason：語料已飽和；USC 學位 HOLD 維持。

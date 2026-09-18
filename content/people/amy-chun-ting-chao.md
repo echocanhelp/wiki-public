@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-17
+last_reviewed: 2026-09-18
 ---
 # Amy Chun-Ting Chao (趙君婷)
 
@@ -58,3 +58,4 @@ Re-grepped 趙君婷 / Amy Chun-Ting Chao across content/works + content/article
 - Re-grep 2026-09-16 (deepen-x slice 09162200-11): hit set unchanged — own #218/#454 records + works index only. SKIP-no-new-material.
 - Re-grep 2026-09-17 (slice 09170130-8): hit set unchanged — own #218/#454 records + works index only, already wikilinked. SKIP-no-new-material; page saturated.
 - Re-grep 2026-09-17 (deepen-x slice 09170500-6): hit set unchanged — own #218/#454 records + works index only, already wikilinked. SKIP-no-new-material; page saturated.
+- Re-grep 2026-09-18 (deepen-x slice 09180131-6): hit set unchanged — own #218/#454 records + works index only, already wikilinked. SKIP-no-new-material; page saturated.

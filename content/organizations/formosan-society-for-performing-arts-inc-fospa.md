@@ -36,3 +36,4 @@ Corpus re-grep (2026-09-16, slice deepen-x-09162200-12): identical hit set — o
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - Corpus re-grep 2026-09-17 (slice 09170130-9): identical hit set — own directory entry, concerts #126/#55, plus the TJJ 美西表藝年會 article (2022 duplicate of the 2025 clip already cited, no FOSPA mention). SKIP-no-new-material; page saturated.
 - Corpus re-grep 2026-09-17 (slice 09170500-7): identical hit set — own directory entry, concerts #55 and #126, plus harvest index. SKIP-no-new-material; page saturated, recommend dropping from future slices.
+- Corpus re-grep 2026-09-18 (slice 09180131-7): identical hit set — own directory entry, concerts #55 and #126, plus harvest index. SKIP-with-reason: page saturated, no new absorbable material.
