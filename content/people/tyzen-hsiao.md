@@ -11,7 +11,7 @@ tags:
   - tah-whos-who
   - Taiwanese-American
 verification_status: pending
-last_reviewed: 2026-08-18
+last_reviewed: 2026-09-18
 ---
 # Tyzen Hsiao (蕭泰然)
 
