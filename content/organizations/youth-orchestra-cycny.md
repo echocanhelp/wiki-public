@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-17
+last_reviewed: 2026-09-18
 ---
 # Youth Orchestra, CYCNY (紐約幼獅青少年管弦樂團)
 
@@ -20,6 +20,7 @@ The CYCNY Youth Orchestra is a Queens-based youth orchestra founded in 1996 and 
 
 ## Role in the Community
 - Recorded in the TAH Foundation encyclopedia as directory entry [[works/taiwaneseamericanhistory-org/youth-orchestra-cycny|13. Youth Orchestra, CYCNY 紐約幼獅青少年管弦樂團]].
+- The orchestra's own concert archive is held in the corpus, including a tape recording of its April/May 2015 performances: [[works/taiwaneseamericanhistory-org/publications657|657. 紐約幼獅青少年管弦樂團, 2015/04,05, Music/TAPE]].
 - The orchestra's own community performances are documented across the TAH corpus: faculty concerts 琴韻飄香音樂會 in Flushing ([[works/taiwaneseamericanhistory-org/concerts9|9. Annual Faculty Concert, 11/29/2002 & 02/27/2004]]), a concert at the Taiwan Center 台灣會館音樂會, Flushing ([[works/taiwaneseamericanhistory-org/concerts8|8. Concert at Taiwan Center, 04/18/2015]]), the annual concert ([[works/taiwaneseamericanhistory-org/photo-albums-activities-87|87. 紐約幼獅青少年管弦樂團年度音樂會, 2015/06]]) and the holiday concert in Bayside ([[works/taiwaneseamericanhistory-org/18-holiday-concert-2018-by-youth-orchstra-cycny-e7-b4-90-e7-b4-84-e5-b9-bc-e7-8d|18. Holiday Concert 2018, Bayside/NY, 12/16/2018]]).
 - The concert records show the orchestra anchored in the Flushing/Bayside Taiwanese American community (Taiwan Center, Middle School 158) and feeding the next generation of the movement's cultural life.
 
