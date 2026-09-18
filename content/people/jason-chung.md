@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-18
 ---
 # Jason Chung (莊建雄)
 
@@ -33,6 +33,9 @@ last_reviewed: 2026-08-17
 ## Family
 
 _No filled family fields on the TAH profile._
+
+## Role in the Community
+- His TAH encyclopedia entry is held in the corpus: [[works/taiwaneseamericanhistory-org/whoswho1481|1481. Jason Chung 莊建雄 / 2017/01]] (2017-01-24). No other corpus records found — the only mention matching his name is his own encyclopedia record; press-kit biography retained as-is, nothing community-side absorbable.
 
 ## Sources
 - [TAH #1481 encyclopedia: 1481. Jason Chung 莊建雄 / 2017/01](https://taiwaneseamericanhistory.org/whoswho1481/)
