@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-18
 ---
 # Tzann T. Fang (方贊棠)
 
@@ -35,6 +35,10 @@ Assistant Professor of Medicine
 ## Family
 
 _No filled family fields on the TAH profile._
+
+## Role in the Community
+
+- Own TAH Who’s Who entry preserved in the corpus: [[works/taiwaneseamericanhistory-org/whoswho1307|1307. Tzann T. Fang 方贊棠]] (published 2016-10-09). Bibliographic record only — no memoir or article material about him exists in the corpus beyond this entry.
 
 ## Sources
 - [TAH #1307 encyclopedia: 1307. Tzann T. Fang 方贊棠 / 2016/10](https://taiwaneseamericanhistory.org/whoswho1307/)
