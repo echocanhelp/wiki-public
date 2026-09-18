@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-18
 ---
 # James Hu (胡宏仁)
 
@@ -39,6 +39,14 @@ last_reviewed: 2026-08-17
 ## Sources
 - [TAH #887 encyclopedia: 887.  James Hu 胡宏仁 / 2016/03](https://taiwaneseamericanhistory.org/887-james-hu-%e8%83%a1%e5%ae%8f%e4%bb%81-201603/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/james-hu/)
+
+## Role in the Community
+
+- 2015 — 於愛臨市台灣長老教會（ITPC）主辦的「長青教室」擔任生活技能課程講師，授「重要電腦技巧」23堂課之一（[[works/taiwaneseamericanhistory-org/ourjourneys107|107. 長青教室 / 2015-02]]，band A 社區一手紀錄）。
+- 2016-03-13 — 列入 TAH Foundation Who's Who 故事紀錄 #887（[[works/taiwaneseamericanhistory-org/887-james-hu-e8-83-a1-e5-ae-8f-e4-bb-81-201603|887. James Hu 胡宏仁]]）。
+- 2017-11-29 — 應邀於長青教室演講「建造健康奇蹟的食用好油」（見下方 From the record，與 2015 電腦技巧課程同屬長青教室講師群）。
+
+HOLD: 「Liyen James Hu」在 [[works/taiwaneseamerican-org/lunchbox-anne-hu-release|Lunchbox 短片新聞稿]] 中掛名攝影，是否即本頁胡宏仁不明（該片Anne Hu之母為 Chinluen Judy Hu，與本頁配偶鍾瑞美不一致）；同一連結亦見 [[works/taiwaneseamerican-org/james-huang-is-a-gleek-are-you|James Huang is a Gleek!]]（James Huang 醫師，應為另一人）。未經確認不併档。
 
 ## From the record
 
