@@ -35,6 +35,10 @@ last_reviewed: 2026-09-18
 
 _No filled family fields on the TAH profile._
 
+## Role in the Community
+
+The sole corpus record is his own TAH encyclopedia entry, [[works/taiwaneseamericanhistory-org/whoswho1516||TAH #1516: Dennis Lin 林博淵 (2017/02)]], which holds the profile this page mirrors; no memoir or event record mentions him, so no additional community facts were absorbable.
+
 ## Sources
 - [TAH #1516 encyclopedia: 1516. Dennis Lin 林博淵/ 2017/02](https://taiwaneseamericanhistory.org/whoswho1516/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dennis-lin/)
