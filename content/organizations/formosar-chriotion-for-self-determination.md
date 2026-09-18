@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-17
+last_reviewed: 2026-09-18
 ---
 # Formosar Chriotion for Self Determination (臺灣人民自決運動)
 
@@ -24,6 +24,8 @@ Formosan Christians for Self Determination was a movement founded in 1973 to mob
 - In 1973 the Palo Alto 協志會 (TAA-WC) held a founding-meeting野餐 where Prof. 林宗義 lectured on the 臺灣人民自決運動; the self-determination movement's ideas circulated widely through Bay Area church circles ([[works/taiwaneseamericanhistory-org/our-journeys-357|Our Journeys 357]]).
 - In Aug 1973 the North American Formosan Association coordinated with the NY 台灣人民自決會 (Rev. 宋泉盛) and 方菊雄 to expose KMT violence at the Williamsport Little League giant-team final ([[works/taiwaneseamericanhistory-org/ourjourneys76|Our Journeys 76 — 全美會 history]]).
 - The movement's source documents were later edited by Rev. 宋泉盛 into 《出頭天：台灣人民自決運動史料》(人光出版社, 1988) ([[works/taiwaneseamericanhistory-org/our-journeys-350|Our Journeys 350 — Bay Area church history]]).
+- Co-initiator Rev. 黃彰輝 remained a front-rank movement voice for the next decade: he was a headline speaker at the first 美南台灣人夏令會 (1984-06-08–10, Sam Houston State University, theme 台灣人應有的信仰與使命, 300–400 attendees), evidence of the self-determination generation's reach through regional TAA networks ([[works/taiwaneseamericanhistory-org/ourjourneys318|Our Journeys 318 — 美南同鄉會與夏令會史]]).
+- The directory's own record page is held in our corpus at [[works/taiwaneseamericanhistory-org/formosar-chriotion-for-self-determination|Formosar Chriotion for Self Determination 臺灣人民自決運動]].
 - **HOLD: founding-date conflict across sources** — this page (TAH directory): convened 1973-03-19 in Washington D.C. with a 1973-03-20 National Press Club conference; Our Journeys 350: launched 1972-03-19, expanded worldwide 1973-03-20; Our Journeys 357: launched 1972-12-25 in Washington; Our Journeys 76: initiated 1973-03-20; TAH Milestones #17: started 1971 ([[works/taiwaneseamericanhistory-org/milestones17|TAH Milestone #17]]). Never auto-merged.
 
 ## Sources
