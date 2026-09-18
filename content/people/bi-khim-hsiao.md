@@ -44,8 +44,10 @@ _No filled family fields on the TAH profile._
 
 ## From the record
 
+- 2024-02-10 — 台灣公義報「新聞觀測站」專欄頁收錄該節目「準副總統蕭美琴選後專訪」（20240210 集），顯示其選後受媒體高度關注（[[articles/taiwanjustice-net/2024/20240425143015_root_da0360a9116a4006|TJJ 新聞觀測站標籤頁, 2024-04-25 存檔]]）。
 - 2024-05-20 — 宣誓就任副總統；其母蕭邱碧玉與妹妹專程從美國返台觀禮，父親過去服務的台南神學院教授牧師及台南親友組團北上參加520慶祝大會，人數超過上百人（[[articles/taiwanjustice-net/2024/20240613095611_root_4c65a9afe4934086|TJJ 轉載中央社, 2024-05-19]]）。
 - 2021-02-25 — 駐美代表任內因美國汽車晶片短缺獲悉多達國會議員求助；她向議員說明缺貨起因為中間供應商去年砍單、屬民間商業行為，台灣廠商正努力增產；斯塔貝諾參議員證實曾就此與她會晤並感謝其關注（[[articles/taiwanjustice-net/2021/20210419115654_2021_02_25_汽車晶片短缺_美國會議員向蕭美琴求助_10e3a027ce22991c|TJJ 轉載中央社, 2021-02-25]]）。
+- 2023-12-03 — 台灣公義報「導讀台灣」系列以「蕭美琴的從政之路！」為題專題介紹其從政經歷（[[articles/taiwanjustice-net/2025/20250525051634_tag_導讀台灣_page_2_073ea211088c8fae|TJJ 導讀台灣標籤頁, 2025-05-25 存檔]]）。
 - 2020-11-05 — 美國大選膠著時表示「無論誰勝選，台美關係將持續深化」，見台灣公義報「台美人台加人」分類（2025-02-16 存檔）—— [[articles/taiwanjustice-net/2025/20250216000009_category_taiwaneseamerican_page_2_3be67f6e82d34da7|TJJ 台美人台加人存檔頁2]]。
 - 2017-02 — Led an 8-lawmaker legislative delegation to the US (王定宇, 林俊憲, 邱議瑩, 尤美女, 江啟臣, 許毓仁, 高路·以用), meeting House/Senate members, administration units, and think tanks including the Global Taiwan Institute; 宋娣's column cites the trip as proof the US-Taiwan relationship is approaching quasi-state status ([[articles/taiwanjustice-net/2024/20240522232536_root_064fe05a08d0aecf|TJJ, 2017-02-17]]).
 - 2020-11-17 — Announced by 大洛杉磯台灣會館 as guest speaker of its 22nd online fundraising annual meeting (2020-12-05) on 「台美攜手 眾志成城 TAIWAN-U.S.A. STRONGER TOGETHER」; the notice recounts her four DPP legislative terms and her status as one of two people ever to serve as both 僑選 and 區域立委 ([[articles/taiwanjustice-net/2020/20201126160218_2020_11_17_大洛杉磯台灣會館基金會22週年線上募款年會12-5舉行_c3e762826a7e42d2|TJJ, 2020-11-17]]).
@@ -64,6 +66,8 @@ _No filled family fields on the TAH profile._
 - 2020-08-13 — 赴美履新後與國務院政軍局助理國務卿古柏（R. Clarke Cooper）公開會面，兩人以「互擊手肘」打招呼；古柏推文稱將合作維繫區域和平穩定並標註 #ReliablePartner，會面前適逢美衛生部長艾薩訪台、共軍軍機暫踰海峽中線（[[articles/taiwanjustice-net/2026/20260211100244_220747_1f4cb66d6b8b6051|TJJ 轉載中央社記者報導, 2020-08-13]]）。
 - 2023-11-11 — 返台投入選舉傳聞甚囂塵上之際，原定與 AIT 主席羅森柏格一同出席華府台灣同鄉會馬里蘭感恩節餐會，臨時以剛打完 COVID 追加劑不適為由缺席、改由駐美副代表鄭榮俊代打；羅森柏格被問是否歡送她時笑而不答（[[articles/taiwanjustice-net/2023/20231201224837_root_c1e603063718b409|TJJ 轉載中央社記者報導, 2023-11-11]]）。
 - 2021-04（2021-05-28 報導披露）— 聯邦眾議員劉雲平在致國務卿布林肯的信函中透露，4月曾與駐美代表蕭美琴會面，蕭美琴向他表明台灣願意購買美國擁有的AZ疫苗；劉雲平隨後兩度致函敦促美方盡速將過剩AZ疫苗賣台，因應台灣疫情升溫（中央社洛杉磯專電 via [[articles/taiwanjustice-net/2025/20251116053321_台裔國會議員劉雲平致函美國務卿_az疫苗盡快賣台_accbf8ee04e32de8|TJJ/CNA, 2021-05-28]]）。
+- 2023-12-03 — 台灣公義報「導讀台灣」專欄以「蕭美琴的從政之路!」為主題專集介紹其從政歷程（Tag: 導讀台灣 彙整頁 2024-06-20 存檔）（[[articles/taiwanjustice-net/2024/20240620183909_root_c30596cc1ea6e337|TJJ tag 導讀台灣, 2024-06-20 存檔]]）。
+
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

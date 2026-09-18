@@ -34,6 +34,12 @@ Artworks include: Breakfast Stand (22″ x 30″ Watercolor), Koi Pond (22″ x 
 
 _No filled family fields on the TAH profile._
 
+## Role in the Community
+
+- 1996-05 — solo exhibition (個展) during his Glendale University years in Phoenix, Arizona — [[works/taiwaneseamericanhistory-org/497-paul-kuo-1996-e9-83-ad-e5-8d-9a-e4-bf-ae-e5-80-8b-e5-b1-95-e9-83-ad-e5-8d-9a|497. PAUL KUO 1996 郭博修 個展]].
+- 1998-03 — solo art show in Alhambra, CA, in the heart of the LA Taiwanese American community — [[works/taiwaneseamericanhistory-org/art-show-13|13. 郭博修個人畫展, Alhambra, CA in 03/1998]].
+- Held as both an artist file (#27) and a Who's Who encyclopedia entry (#276, 2015-02) in the TAH corpus — [[works/taiwaneseamericanhistory-org/artist27-paul-kuo|27. 郭博修 Paul Kuo]], [[works/taiwaneseamericanhistory-org/whos276-paul-kuo|276. Paul Kuo 郭博修, 2015/02]].
+
 ## Sources
 - [TAH #276 encyclopedia: 276. Paul Kuo 郭博修, 2015/02](https://taiwaneseamericanhistory.org/whos276-paul-kuo/)
 - [TAH #27 encyclopedia: 27. 郭博修 Paul Kuo](https://taiwaneseamericanhistory.org/artist27-paul-kuo/)
