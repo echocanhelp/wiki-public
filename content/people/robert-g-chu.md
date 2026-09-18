@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-18
 ---
 # Robert G. Chu (朱靜懷)
 
@@ -42,3 +42,5 @@ last_reviewed: 2026-08-17
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+<!-- DEEPEN-X SKIP 2026-09-18: corpus grep (朱靜懷 / Robert G. Chu over content/works + content/articles) returned only this person's own TAH Who's Who record [[works/taiwaneseamericanhistory-org/whos-who-2144-robert-g-chu|TAH #2144]] (band B, bibliographic only) and its index entry. No memoir/community records mention him; nothing absorbable beyond the existing TAH press-kit record. No bio invented. -->

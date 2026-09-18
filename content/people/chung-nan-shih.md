@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-18
 ---
 # Chung Nan Shih (施忠男)
 
@@ -33,6 +33,11 @@ last_reviewed: 2026-08-17
 ## Family
 
 _No filled family fields on the TAH profile._
+
+## Role in the Community
+
+- Resided in Columbus, Ohio (Ohio, USA) in the Taiwanese American community record. 吳木盛's memoir essay [[works/taiwaneseamericanhistory-org/ourjourneys222|222. 秀才造反 / 吳木盛 / 05/2016]] remembers him as 「哥倫布斯的施忠男」 and credits him with a line that "變成了名言" among overseas Taiwanese: 「有一日台灣人會呼（被）雜誌壓(teh)死」 — a wry remark on the flood of 台灣運動雜誌 in the US. In the same essay the Columbus 鄉訊 (published since 1972, by then over 200 issues) is singled out as one of the longest-lived community publications, situating him within that Columbus 同鄉會 circle.
+- His own TAH Who's Who record is preserved in the corpus at [[works/taiwaneseamericanhistory-org/957-chung-nan-shih|957. Chung Nan Shih 施忠男 / 2016/04]]; his personal video-documentation channel is recorded at [[works/taiwaneseamericanhistory-org/videos-chung-shih|86. Videos of Chung Nan Shih 施忠男的影音紀錄頻道]] (2017-11-21) — community history preserved by him, not just about him.
 
 ## Sources
 - [TAH #957 encyclopedia: 957.  Chung Nan Shih 施忠男 / 2016/04](https://taiwaneseamericanhistory.org/957-chung-nan-shih/)
