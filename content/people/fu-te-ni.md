@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-18
 ---
 # Fu-Te Ni (倪福德)
 
@@ -33,6 +33,14 @@ last_reviewed: 2026-08-17
 
 - **Wife:** 岩元理惠
 
+
+## Role in the Community
+
+The corpus preserves his TAH encyclopedia entry [[works/taiwaneseamericanhistory-org/whos-who-1752-fu-te-ni|1752. Fu-Te Ni 倪福德]] (published 2017-07-09). His entry sits in a deliberate cluster of Taiwanese professional-ballplayer records in the TAH Who's Who — [[works/taiwaneseamericanhistory-org/whos-who-1753-chin-hui-tsao|1753. Chin-Hui Tsao 曹錦輝]], [[works/taiwaneseamericanhistory-org/whos-who-1751-chia-jen-lo|1751. Chia-Jen Lo 羅嘉仁]], [[works/taiwaneseamericanhistory-org/whos-who-1750-tzu-wei-lin|1750. Tzu-Wei Lin 林子偉]], and [[works/taiwaneseamericanhistory-org/whos-who-1749-chen-chang-lee|1749. Chen Chang Lee 李振昌]] — documenting the movement's sports wing: athletes who carried Taiwanese identity onto US and international fields.
+
+His corpus-confirmed distinction is the first Taiwanese player to successfully transition from the Chinese Professional Baseball League (中華職棒) to Major League Baseball (Detroit Tigers, 2009–2010).
+
+HOLD: no community/corpus material beyond the press-kit biography; no oral history or memoir mentions of 倪福德 found in works/ or articles/.
 
 ## Sources
 - [TAH #1752 encyclopedia: 1752. Fu-Te Ni 倪福德](https://taiwaneseamericanhistory.org/whos-who-1752-fu-te-ni/)
