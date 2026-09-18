@@ -10,7 +10,7 @@ tags:
   - PCT
   - Taipei
 verification_status: pending
-last_reviewed: 2026-09-17
+last_reviewed: 2026-09-18
 website: https://chunglun.church/
 ---
 # Chunglun Presbyterian Church (中崙教會)
@@ -27,7 +27,7 @@ A [[organizations/presbyterian-church-in-taiwan||PCT]] congregation in **七星�
 
 ## Corpus Scan Note
 
-SKIP-with-reason (deepen-x 2026-09-17): grep for 中崙教會/中仑教会/Chunglun across `content/works` + `content/articles` returned zero hits — no memoir or movement material in our corpus to absorb; page retained as-is with existing web-sourced facts.
+SKIP-with-reason (deepen-x 2026-09-17, re-verified 2026-09-18): grep for 中崙教會/中仑教会/Chunglun across `content/works` + `content/articles` returned zero hits — no memoir or movement material in our corpus to absorb; page retained as-is with existing web-sourced facts.
 
 ## Polity
 PCT / 七星中會. Taiwan congregation, not U.S. TPC.
