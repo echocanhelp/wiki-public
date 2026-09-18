@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-17
+last_reviewed: 2026-09-18
 ---
 # Ivy Yang (楊靜芬)
 
@@ -40,6 +40,7 @@ _No filled family fields on the TAH profile._
 ## From the record
 
 - 2017-03-14 — 「台灣之美‧亞洲之心」國際巡迴展 LA stop (4/1–2/2017, 橋二中心, hosted by TUF, curated by 蘇奐豪): the exhibition piece 「花飛碟舞」 is credited to 楊靜芬, described as taking up painting from 2001 and attending 東京藝大 as a short-term researcher in 2016, working in Japanese lacquer (漆藝) as an artistic medium ([[articles/taiwanjustice-net/2024/20240724234326_root_cd2062fe6528223c|TJJ exhibition report, 2017-03-14]]). HOLD: identity conflict — the exhibition blurb is a painter's biography; the TAH #1716 profile above is a CFP/financial planner (Oglethorpe/USF). Same-name match not confirmed; not merged into Identity Snapshot.
+- Corpus re-grep 2026-09-18: hits remain confined to [[works/taiwaneseamericanhistory-org/whoswho1716|TAH #1716, 07/2017]], the works index, and the TJJ exhibition report already cited above. No new community facts absorbable — SKIP-content this pass; the painter-vs-CFP HOLD above stands.
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

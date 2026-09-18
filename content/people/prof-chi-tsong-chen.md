@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-17
+last_reviewed: 2026-09-18
 ---
 # Prof. Chi-Tsong Chen (陳啓宗教授)
 
@@ -36,7 +36,7 @@ Prof. Chi-Tsong Chen 陳啓宗教授 – History of Taiwanese American (T.A. Arc
 _No filled family fields on the TAH profile._
 
 ## Role in the Community
-- Corpus presence is limited to his own TAH Who's Who record: [[works/taiwaneseamericanhistory-org/whos-who-2173-chi-tsong-chen|TAH #2173. Prof. Chi-Tsong Chen 陳啓宗教授]] (published 2019-01-28). No memoir or community-record mentions found in content/works or content/articles beyond this bibliographic record — no additional community facts absorbed this pass.
+- Corpus presence is limited to his own TAH Who's Who record: [[works/taiwaneseamericanhistory-org/whos-who-2173-chi-tsong-chen|TAH #2173. Prof. Chi-Tsong Chen 陳啓宗教授]] (published 2019-01-28). No memoir or community-record mentions found in content/works or content/articles beyond this bibliographic record (re-grep 2026-09-18) — no additional community facts absorbed this pass.
 
 ## Sources
 - [TAH #2173 encyclopedia: 2173. Prof. Chi-Tsong Chen 陳啓宗教授](https://taiwaneseamericanhistory.org/whos-who-2173-chi-tsong-chen/)

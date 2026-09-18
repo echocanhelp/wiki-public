@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-17
+last_reviewed: 2026-09-18
 ---
 # Esther Chou Lu (周慧香)
 
@@ -36,7 +36,7 @@ last_reviewed: 2026-09-17
 
 ## Role in the Community
 - Recorded twice in the TAH Foundation encyclopedia in July 2017: as a pianist/conductor story ([[works/taiwaneseamericanhistory-org/musician411|TAH #411, 07/2017]]) and as a Who's Who entry ([[works/taiwaneseamericanhistory-org/whoswho1731|TAH #1731, 07/2017]]).
-- Corpus re-grep 2026-09-17: no memoir mentions in works/articles; only the two band-B encyclopedia records above exist. Corpus records confirm the press-kit biography (piano studies at TNUA and UGA, teaching piano in Pennsylvania) but add no new community activity beyond the encyclopedia entries themselves.
+- Corpus re-grep 2026-09-17 and 2026-09-18: no memoir mentions in works/articles; only the two band-B encyclopedia records above exist (already wikilinked here). Corpus records confirm the press-kit biography (piano studies at TNUA and UGA, teaching piano in Pennsylvania) but add no new community activity beyond the encyclopedia entries themselves — SKIP-content this pass.
 
 ## Family
 
