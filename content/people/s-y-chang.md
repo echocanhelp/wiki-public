@@ -39,6 +39,8 @@ _No filled family fields on the TAH profile._
 
 ## From the record
 
+- Bibliographic record: [[works/taiwaneseamericanhistory-org/whoswho1651|TAH #1651 — S. Y. Chang 張信義 (2017-05-11)]] — band-B story record in the TAH story corpus; full text stays in the vault.
+
 - 2025-03-23 — TJJ reprint of 楊遠薰's TAF history again names 張信義 as TAF's second president (from 1983, theme 認同) ([[articles/taiwanjustice-net/2025/20250323083207_卓甫良與taf的故事-_-楊遠薰_e7aad53f3e593fde|TJJ reprint 2025-03-23]]).
 - 2024-03-02 — Repost of 楊遠薰's TAF history on TJJ reiterates 張信義 as TAF's second president (from 1983), under whom the 1983–1984 camps took Taiwanese history and culture with the theme 認同 ([[articles/taiwanjustice-net/2024/20240302042859_root_b4206bcf0ec508d6|楊遠薰《卓甫良與TAF的故事》, TJJ 2024-03-02 repost]]).
 
