@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-18
 ---
 # Fan S. Lai (賴芳雄)
 
@@ -29,6 +29,11 @@ last_reviewed: 2026-08-17
 ## Employment
 - University of Massachusetts Lowell — Present — Professor of Plastics Engineering
 <!-- tah-tables:end -->
+
+## Role in the Community
+
+- **TAH Who's Who record:** profile #719 (2015-12-05) held in the story corpus — the only corpus record for 賴芳雄; no memoir/community material beyond the profile itself — [[works/taiwaneseamericanhistory-org/719-fan-s-lai-e8-b3-b4-e8-8a-b3-e9-9b-84-201512|719. Fan S. Lai 賴芳雄 / 2015/12]].
+- HOLD: Identity Snapshot fields are template placeholders leaked from the source form (Era "Birth Place", Geography "First year, first city and state arrived in the U.S."); they are not biography and were left uncorrected.
 
 ## Family
 

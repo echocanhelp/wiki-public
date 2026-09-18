@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-18
 ---
 # C.Y. Huang (黃清燕)
 
@@ -32,6 +32,12 @@ last_reviewed: 2026-08-17
 ## Family
 
 _No filled family fields on the TAH profile._
+
+## Role in the Community
+
+- TAH published her Who's Who profile as community record [[works/taiwaneseamericanhistory-org/whos-who-2314-c-y-huang|TAH #2314, 2021-02-17]] — the only corpus record naming 黃清燕.
+- Community roles recorded in the TAH table: President of FAPA NY-M chapter; co-founder of GTI; member of the Innovator Group in NYC (Democrat); member of the Pen Club Board (see Employment above).
+- HOLD: identity collision in the corpus — [[works/taiwaneseamericanhistory-org/whos-who-1855-c-y-huang|TAH #1855 "Rev. C. Y. Huang 黃主義牧師"]] (2017) shares the English initials but is a different person (黃主義, a minister, held at [[people/rev-c-y-huang]]). Do not merge records between the two pages.
 
 ## Sources
 - [TAH #2314 encyclopedia: 2314. C.Y. Huang 黃清燕](https://taiwaneseamericanhistory.org/whos-who-2314-c-y-huang/)

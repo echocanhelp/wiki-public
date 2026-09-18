@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-18
 ---
 # Dr. Christopher Shih (石慶愷醫師)
 
@@ -29,6 +29,10 @@ Dr. Christopher Shih 石慶愷醫師 – History of Taiwanese American (T.A. Arc
 ## Employment
 - Hospital of the University of Pennsylvania — Residency — Johns Hopkins Hospital — Gastroenterology Fellowship
 <!-- tah-tables:end -->
+
+## Role in the Community
+
+- **TAH Who's Who record:** profile #1709 (2017-07-01) held in the story corpus — the only corpus record for 石慶愷; no memoir/community material beyond the profile itself — [[works/taiwaneseamericanhistory-org/whos-who-1709-christopher-shih|1709. Dr. Christopher Shih 石慶愷醫師]].
 
 ## Family
 

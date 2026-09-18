@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-18
 ---
 # Frances Y. Wang (王怡芳)
 
@@ -31,6 +31,10 @@ Principal Court Attorney
 ## Employment
 - Criminal Term of the Bronx County Supreme Court — Principal Court Attorney — (2010-2017) — New York City Civil Court — Judge — (2017-)
 <!-- tah-tables:end -->
+
+## Role in the Community
+
+- **TAH Who's Who record:** bibliographic profile #1989 (2018-01-08) held in the story corpus — the only corpus record for 王怡芳; no memoir/community material beyond the profile itself — [[works/taiwaneseamericanhistory-org/whoswho1989|1989. Frances Y. Wang 王怡芳]]. Career facts (Bronx Supreme Court Criminal Term principal court attorney 2010–2017; NYC Civil Court judge from 2017) derive solely from the TAH profile.
 
 ## Family
 
