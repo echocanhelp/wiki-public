@@ -21,8 +21,8 @@ The Taiwan Student Association (TWSA) at the University of Michigan is an underg
 ## Role in the Community
 
 - Campus Taiwanese student organizing at U-M is documented in the TAH record predating today's TWSA: 密西根大學台灣同鄉會 (Formosan Club of the Univ. of Michigan) maintained its own newsletters — [[works/taiwaneseamericanhistory-org/newsletters-of-formosan-club-univ-of-michigan|密西根大學台灣同鄉會通訊]].
-- 台灣同學會 at Michigan and 安雅堡台灣同鄉會 co-planned 《台風眼》, a 陳文成紀念專刊 published at the 12th anniversary of 陳文成's death, recounting the events around his case — [[works/taiwaneseamericanhistory-org/ourjourneys321|Our Journeys #321]].
-- The Midwest Taiwan community held 陳文成博士's 追悼會 at Ann Arbor and founded the 陳文成紀念基金會 (Chen Wen-CHEN Memorial Fund) there immediately after — [[works/taiwaneseamericanhistory-org/ourjourneys74|Our Journeys #74]].
+- 台灣同學會 at Michigan and 安雅堡台灣同鄉會 co-planned 《台風眼》, the 陳文成紀念專刊; in the founding story, the 陳文成紀念基金會 (Chen Wen-Chen Memorial Fund) was established on the spot at Ann Arbor right after the Midwest 同鄉會's 追悼會 for Dr. Chen — [[works/taiwaneseamericanhistory-org/ourjourneys321|Our Journeys #321, 許永華 由陳文成紀念基金會的創立談起, 2017-11]].
+- Michigan Taiwanese physicians were part of the founding network of 北美洲台灣人醫師協會 (e.g. 大紐約地區的楊次雄、密西根的黃昭) — [[works/taiwaneseamericanhistory-org/ourjourneys74|Our Journeys #74, 周烒明, 2014-12]].
 - Regional adult community body in the same area: 密西根台灣人協進會 — [[works/taiwaneseamericanhistory-org/michigan-ta|密西根台灣人協進會]].
 - HOLD: whether today's TWSA (self-described 不涉政治) is a continuation of, or distinct from, the historical Formosan Club / 台灣同學會 on the same campus is unresolved in the corpus; no dates merged.
 

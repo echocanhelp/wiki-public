@@ -38,6 +38,9 @@ last_reviewed: 2026-09-17
 - **Son:** 吳台偉
 
 
+## Role in the Community
+- Listed in the TAH Foundation Who's Who encyclopedia as entry #954, published 2016-04-24: [[works/taiwaneseamericanhistory-org/whoswho954|954. C. W. Wu 吳成文 / 2016/04]]. No other corpus mentions found in works/articles.
+
 ## Sources
 - [TAH #954 encyclopedia: 954.  C. W. Wu 吳成文 / 2016/04](https://taiwaneseamericanhistory.org/whoswho954/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/c-w-wu/)

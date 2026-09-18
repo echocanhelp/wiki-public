@@ -4,7 +4,7 @@ type: person
 tags:
   - 
 verification_status: pending
-last_reviewed: 2026-07-08
+last_reviewed: 2026-09-17
 ---
 # Albert Chapter 1 Audiobook（第一章有聲版）
 
