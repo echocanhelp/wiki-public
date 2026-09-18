@@ -36,7 +36,8 @@ _No filled family fields on the TAH profile._
 
 ## Role in the Community
 
-_SKIP-with-reason (deepen-x 0917-25): the only corpus mention is her own bibliographic record [[works/taiwaneseamericanhistory-org/whos-who-1986-ke-hsin-chi|TAH #1986 — Prof. Ke-Hsin Jenny Chi 紀可欣教授]]; no memoir/community narrative exists to absorb._
+_SKIP-with-reason (deepen-x 0917-25, re-grepped slice 09171100-11): the only corpus mention is her own bibliographic record [[works/taiwaneseamericanhistory-org/whos-who-1986-ke-hsin-chi|TAH #1986 — Prof. Ke-Hsin Jenny Chi 紀可欣教授]]; no memoir/community narrative exists to absorb._
+- Disambiguation: corpus hit [[works/taiwaneseamericanhistory-org/whos-who-1801-jenny-chiu|TAH #1801 — Jenny Chiu 邱正鵑]] matched on "Jenny Chi" but is a different person — see [[people/jenny-chiu|Jenny Chiu 邱正鵑]]. Not this subject.
 
 ## Sources
 - [TAH #1986 encyclopedia: 1986. Prof. Ke-Hsin Jenny Chi 紀可欣教授](https://taiwaneseamericanhistory.org/whos-who-1986-ke-hsin-chi/)
