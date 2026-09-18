@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-18
 ---
 # Harvard Griffin GSAS Taiwan Student Association
 
@@ -17,6 +17,9 @@ last_reviewed: 2026-08-17
 - **Core roles:** Community organization (TAH directory)
 
 The Harvard Griffin GSAS Taiwan Student Association (HTSA), known in Chinese as 哈佛臺灣學生會, is a graduate student organization at Harvard’s Kenneth C. Griffin Graduate School of Arts and Sciences (GSAS). It is registered in the GSAS student organization directory (engage.gsas.harvard.edu) and maintains an active web presence including a GitHub-hosted website and Instagram account (@harvard.taiwan). The organization has also operated under a Weebly site (harvardtsa.weebly.com), where recent events such as a 2023 Sports Day and Lunar New Year celebration with MIT’s Taiwan Student Association (ROCSA) are documented.
+
+## Corpus check (2026-09-18)
+SKIP: no genuine hits in the works/articles corpus (grep matches were unrelated NHTSA news copy); no community-corpus facts to absorb. Page retains TAH directory facts only.
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/harvard-griffin-gsas-taiwan-student-association/)
