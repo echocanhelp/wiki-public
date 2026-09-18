@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-17
+last_reviewed: 2026-09-18
 ---
 # Irvin Lin (林斐強)
 
@@ -39,7 +39,7 @@ Accomplishment
 ## Role in the Community
 - Profiled in the TAH encyclopedia entries 234. Irvin Lin 林斐強 ([[works/taiwaneseamericanhistory-org/ota-234|234. Irvin Lin 林斐強]]) and 1431 ([[works/taiwaneseamericanhistory-org/whos-who-1431-irvin-lin|1431. Irvin Lin 林斐強]]).
 - Contributor to the TAH story corpus with his own baking essay Marbled, Swirled, and Layered ([[works/taiwaneseamericanhistory-org/publications1052|1052. Marbled, Swirled, and Layered]], 11/2016), written around the New York Times recognition of his cookbook.
-- Corpus re-grep (林斐強 / Irvin Lin, slice-25、09170130-19、09170500-18 passes): beyond #234/#1431/#1052/#493 above, works/articles matches are false positives (unrelated LIEN/IRVIN strings in ourjourneys memoirs); no new memoir material.
+- Corpus re-grep (林斐強 / Irvin Lin, slice-25、09170130-19、09170500-18、09180131-27 passes): beyond #234/#1431/#1052/#493 above, works/articles matches are false positives (unrelated LIEN/IRVIN strings in ourjourneys memoirs); no new memoir material.
 - A family-side account of his career switch appears in 我兒 林斐強(Irvin Lin) 走上「烘焙」之路 ([[works/taiwaneseamericanhistory-org/mystories493|493. 我兒林斐強走上「烘焙」之路]], 12/2016, by Loretta Lin — HOLD: attribution as mother 熊乙杏 not confirmed) — a rare second-generation + parent dual record in the archive.
 
 ## Sources

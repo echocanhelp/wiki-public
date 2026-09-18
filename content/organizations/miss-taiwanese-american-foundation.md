@@ -21,10 +21,13 @@ The Miss Taiwanese American (MTA) Pageant is an annual competition held by the T
 ## Timeline
 
 - 2010-08 — pageant documented in the 大洛杉磯台灣會館 magazine as 台美親善小姐 (name variant vs current 台美小姐選拔 — not merged) — [[works/taiwaneseamericanhistory-org/744-2010-e5-8f-b0-e7-be-8e-e8-a6-aa-e5-96-84-e5-b0-8f-e5-a7-90-miss-taiwanese-am|744. 2010 台美親善小姐 Miss Taiwanese American Pageant]].
+- 2012-08 — pageant again documented in the 大洛杉磯台灣會館 magazine as 台美親善小姐 (name variant not merged) — [[works/taiwaneseamericanhistory-org/745-2012-e5-8f-b0-e7-be-8e-e8-a6-aa-e5-96-84-e5-b0-8f-e5-a7-90-miss-taiwanese-am|745. 2012 台美親善小姐 Miss Taiwanese American Pageant]].
 - 2014-10-12 — listed in the TAH organization directory — [[works/taiwaneseamericanhistory-org/miss-taiwanese-american-foundation|2. Miss Taiwanese American Foundation 台美小姐選拔基金會]].
 - 2016-08-07 — pageant held by the Taiwan Center Foundation of Greater Los Angeles (大洛杉磯台灣會館基金會), confirming the operator named in this page's summary — [[works/taiwaneseamericanhistory-org/7-08072016-miss-taiwanese-american-pageant|7. 08/07/2016 Miss Taiwanese American Pageant]].
 - 2018-12 — program promoted via a Miss Taiwanese American 2019 calendar — [[works/taiwaneseamericanhistory-org/1256-miss-taiwanese-american-2019-calendar|1256. Miss Taiwanese American 2019 /Calendar]].
 - 2023-11 — an MTA queen, 張芳瑜, went on to win the 美國亞裔小姐 (Miss Asian America) crown — [[works/taiwaneseamericanhistory-org/my-stories-889|889. 台美小姐皇后 張芳瑜摘美國亞裔小姐后冠]].
+
+Corpus re-grep (台美小姐 / Miss Taiwanese American, slice 09180131-27, 2026-09-18): hit set = directory record #2 + magazine pageant records 744 (2010)、745 (2012) + 2016 pageant #7 + calendar #1256 + story #889, all now linked above; no other corpus material.
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/miss-taiwanese-american-foundation/)
