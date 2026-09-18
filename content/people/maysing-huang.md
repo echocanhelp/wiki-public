@@ -45,3 +45,10 @@ last_reviewed: 2026-09-18
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+## Role in the Community
+- President of the Taiwanese Association of America (全美台灣同鄉會) 1987-01-01 to 1988-12-31, per the TAA president roster in the association memoir ([[works/taiwaneseamericanhistory-org/ourjourneys76-eng|76. 全美台灣同鄉會/TAA]]); the Bay Area alumni chronicle likewise lists her among 全美台灣同鄉會 presidents alongside 陳都 ([[works/taiwaneseamericanhistory-org/ourjourneys37|37. 台灣協志會成立與大事記]]).
+- As TAA president she proposed adding a women's department to TAA and invited 呂秀蓮 — newly out of prison and in the US — to spearhead it; the resulting 1988-03-13 founding meeting in Los Angeles produced the independent NATWA ([[works/taiwaneseamericanhistory-org/ourjourneys60|60. 咱的故事—NATWA的歷史]]).
+- Her presidency is credited (with Editor-in-Chief 陳芳明) for the quality of the bimonthly Taiwan Culture, which recorded 228 Incident history, in the Chen Wen-Chen Foundation founding memoir ([[works/taiwaneseamericanhistory-org/ourjourneys8-eng|8. 陳文成教授紀念基金會成立經過]]).
+- 1983: as 紐約台灣同鄉會會長 she led ~20–30 members in formally applying to revisit Taiwan, challenging the blacklist; the KMT downgraded the application to individual status and refused it — only she and husband and 美國小姐 Mai Shanley were ultimately permitted entry, a trip the KMT press reframed around the beauty-queen angle ([[works/taiwaneseamericanhistory-org/ourjourneys66|66. 南加州同鄉會組團回台–1984突破黑名單]]).
+- Chair of the Chen Wen-Chen Memorial Foundation — see the TJJ-dated entries under "From the record" (廣場募款 2019, 40週年座談 2021, 紀念廣場啟用 2021-02 per [[works/taiwaneseamericanhistory-org/our-journeys-366|366. 陳文成紀念廣場啟用]]).
