@@ -75,6 +75,10 @@ Pages that link to **su-chun-huai** (su-chun-huai):
 
 1. [[sources/2017-tahs-publication||2017-tahs-publication]]
 
+## From the record
+
+- 2021-04-07 — 中央社報導：蘇春槐於4月7日紐約台灣會館理事長交接典禮自方秀蓉手中接任理事長，期盼新成立的永續經營基金讓這座1986年創立、號稱「天下第一館」的法拉盛社區中心更大更好；報導記其生於台南、2008年加入會館理事會、任汽車零件公司英格爾（Engross）總裁及大紐約區台灣大專院校校友會聯合會董事長，致詞表示「台灣是我們的故鄉」；新一屆理事會將成立基金會開放現金、股票、退休金捐贈，作為未來改建大樓財源（[[articles/taiwanjustice-net/2021/20210415111016_2021_04_07_紐約台灣會館-蘇春槐接理事長盼永續經營_483521594640641a|TJJ/CNA, 2021-04-07]]）。
+
 ## Source Notes and Confidence
 
 - **Content priority A:** 2017 TAHS Publication (profile Part 2, ~97 lines), written by 賴慧娜

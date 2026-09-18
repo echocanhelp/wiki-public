@@ -24,6 +24,10 @@ last_reviewed: 2026-09-14
 
 - **228 追思紀念大會主持人** — at the 2025 追思紀念大會 hosted by 大洛杉磯台灣會館 with 24 台美社團 (2025-02-24, Taiwan Justice Net report preserved in the quote archive of [[people/roger-tsai||Roger Tsai (蔡漢成)]]), 董事潘掬慧 and 228系列活動召集人 [[people/tony-lee||Tony Lee (李賢群)]] presided over the ceremony.
 
+## From the record
+
+- 2024-02-24 — 以大洛杉磯台灣會館董事身份主持該館「2024年二二八追思紀念大會」（二二八事件77週年）；大會包含國史館館長陳儀深視訊演講、王秋森主講「二七部隊」、李賢群董事主講「陳篡地-斗六治安維持會」、南加州客家會合唱團表演及為228犧牲者燃燭默哀（[[articles/taiwanjustice-net/2024/20240412192704_root_95fd81860bafb5bf|TJJ, 2024-02-25]]）。
+
 ## Source Notes and Confidence
 
 - **Content priority A:** Name and role on https://www.taiwancenter.org/board (archived `taiwancenter-org-board.md`)

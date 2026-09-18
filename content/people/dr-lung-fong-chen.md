@@ -53,6 +53,10 @@ Publication(Non-professional)
 - [TAH #58 encyclopedia: 58. Dr. Lung-Fong Chen 陳隆豐博士](https://taiwaneseamericanhistory.org/whos-who-58-lung-fong-chen/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-lung-fong-chen/)
 
+## From the record
+
+- 2021-04-07 — 以紐約台灣會館創館董事長身份出席該館理事長暨幹部交接典禮（新任理事長蘇春槐自方秀蓉接任）；報導稱該館1986年創立於法拉盛，是在美台灣人自資設立的首座社區中心（[[articles/taiwanjustice-net/2021/20210415111016_2021_04_07_紐約台灣會館-蘇春槐接理事長盼永續經營_483521594640641a|TJJ/CNA, 2021-04-07]]）。
+
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

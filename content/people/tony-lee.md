@@ -25,6 +25,10 @@ last_reviewed: 2026-09-14
 - **228系列活動召集人** — at the 2025 追思紀念大會 hosted by 大洛杉磯台灣會館 together with 24 台美社團 (2025-02-24, Taiwan Justice Net report preserved in the quote archive of [[people/roger-tsai||Roger Tsai (蔡漢成)]]), 李賢群 served as convener of the 228 series events and, with 董事 [[people/josephine-pan||Josephine Pan (潘掬慧)]], presided over the memorial ceremony.
 - **WHA 聯合聲明的共同發起人** — named among the 共同發起人 of the 2021 南加州僑界支持台灣參與世界衛生大會 (WHA) 聯合聲明 (Taiwan Justice Net, 2021-05-17, preserved in the vault article archive).
 
+## From the record
+
+- 2024-02-24 — 以大洛杉磯台灣會館董事身份在該館「2024年二二八追思紀念大會」主講「陳篡地-斗六治安維持會」，介紹陳篡地——日治時代赴日留學的醫師——在二二八事件後領導組成斗六治安維持會反抗國民政府統治的事蹟（[[articles/taiwanjustice-net/2024/20240412192704_root_95fd81860bafb5bf|TJJ, 2024-02-25]]）。
+
 ## Source Notes and Confidence
 
 - **Content priority A:** Name and role on https://www.taiwancenter.org/board (archived `taiwancenter-org-board.md`)
