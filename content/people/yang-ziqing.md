@@ -6,7 +6,7 @@ tags:
   - columnist
   - taiwanjustice-net
 verification_status: pending
-last_reviewed: 2026-08-30
+last_reviewed: 2026-09-18
 ---
 # Yang Zi-qing (楊子清)
 
@@ -28,6 +28,7 @@ last_reviewed: 2026-08-30
 
 ## From the record
 
+- 2017-09-15／09-07 — 其所屬「楊子清 Cliff Yang 音樂教室」提供之紀錄（以立合唱團與 LAKMA 於迪士尼音樂廳演唱莫札特 C 小調彌撒曲；2017-08-19 指揮合唱團與管弦樂團於同廳演唱「卡門」選曲）列於 TJJ「楊子清」標籤頁（[[articles/taiwanjustice-net/2021/20210117071954_tag_楊子清_11aa2dfa5f64d7e4|TJJ 楊子清 tag, 2020-09-30]]）。
 - 2022-10-01／10-08 — 以立合唱團於洛杉磯 Pasadena（10/1）及紐約卡內基贊克爾廳（10/8）演唱威爾第《安魂曲》「拯救我」Libera me（戴安娜王妃葬禮版本），楊子清指揮、黃令先鋼琴、女高音獨唱李俊玲、廖健榮剪輯（[[articles/taiwanjustice-net/2025/20250209214700_以立合唱團_演唱_拯救我_-選自威爾第的_7214b273dfcb59ce|TJJ 存檔重刊]]；原稿 [[articles/taiwanjustice-net/2023/20230202203511_2022_12_16_以立合唱團_演唱_拯救我_-選自威爾第的_526ee7d662ebe432|2022-12-16]]）。
 - 2020-12-13 — 「楊子清老師音樂短講」第13集講解美聲唱法的「快速音」（agilita）及其種類（legato、flautata、martellata、spezzata、sillabica），並與黃令先、王亦凡博士合講特別講座「泛音」（[[articles/taiwanjustice-net/2025/20250327205857_楊子清老師音樂短講第13集_美聲唱法的技巧-7-快速_4119cffe264101c6|TJJ 存檔重刊]]；原稿 [[articles/taiwanjustice-net/2021/20210128084700_2020_12_13_楊子清老師音樂短講第13集_美聲唱法的技巧-7-快速_426d2811d4065134|2021-01-28 存檔]]）。
 
