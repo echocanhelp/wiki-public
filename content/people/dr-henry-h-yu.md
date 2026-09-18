@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-18
 ---
 # Dr. Henry H. Yu (游宏仁醫師)
 
@@ -36,7 +36,19 @@ Accomplishment
 
 _No filled family fields on the TAH profile._
 
+## Role in the Community
+
+Dr. Yu has been a central institution-builder in the Greater Washington DC Taiwanese American community. He served as president of the North American Taiwanese Medical Association (NATMA) Washington D.C. Chapter and of the Taiwanese American Senior Society (TASS) of Greater Washington DC. In his 2014 community essay 「介紹一個成功的社團—大華府台美人長樂會(TASS)」 he documented TASS's history as a model club. Chen Huaichong's (陳淮崇) 2008 memoir on the birth of the Washington DC and Baltimore Taiwanese American Association (TAA) lists him among the chapter's presidents in 1986–1987, alongside Shien S. Perng 彭賢森 and Edward H. Lee 李賢淇.
+
+## Timeline
+- 1986–1987 — listed among TAA Washington D.C./Baltimore leadership (per 陳淮崇's TAA history)
+- 2014-10 — authored 「介紹一個成功的社團—大華府台美人長樂會(TASS)」, archived in the TAH encyclopedia
+- — — President, NATMA Washington D.C. Chapter; President, TASS of Greater Washington DC
+
 ## Sources
+- [[works/taiwaneseamericanhistory-org/41-e4-bb-8b-e7-bb-8d-e4-b8-80-e5-80-8b-e6-88-90-e5-8a-9f-e7-9a-84-e7-a4-be-e5-9c|41. 介紹一個成功的社團—大華府台美人長樂會(TASS) / 游宏仁 (2014/10)]]
+- [[works/taiwaneseamericanhistory-org/ourjourneys-138|138. 華府與巴城TAA的誕生 / 陳淮崇 (2015/05)]]
+- [[works/taiwaneseamericanhistory-org/whos-who-1646-henry-h-yu|1646. Dr. Henry H. Yu 游宏仁醫師 (TAH encyclopedia)]]
 - [TAH #1646 encyclopedia: 1646. Dr. Henry H. Yu 游宏仁醫師](https://taiwaneseamericanhistory.org/whos-who-1646-henry-h-yu/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-henry-h-yu/)
 

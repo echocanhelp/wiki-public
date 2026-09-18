@@ -41,6 +41,7 @@ Led FORMOSAT-1 (福衛一號) launch team as head of launch group at National Sc
 
 ## From the record
 
+- 2024-09-07 — 於大洛杉磯台灣會館耆老講座「返台任職的心路歷程」與郭清江、許清煌同台分享返台任職經歷（[[articles/taiwanjustice-net/2025/20250216032153_tag_大洛杉磯台灣會館耆老講座_20053f0a17b89c07|TJJ 耆老講座標籤頁，2024-08-18 刊]]）。
 - 2021-09-10 — 「司法不公，國耻之最」聲援翁啟惠連署再度發起，呼應其抗議監院未審先判、投書自由時報的號召；浩鼎案 2018-12 已判翁無罪，彈劾案卻仍纏訟（[[articles/taiwanjustice-net/2023/20230530145556_2021_09_10_司法不公_國耻之最_海內外台灣人聲援翁啟惠連_59a68b9cd855c1bf|TJJ，2021-09-10]]）。
 - 2020-09-30 — 林宏容's memorial essay for 鄭寶鼎博士 (TJJ) recalls that in 2010, at Bob Cheng's request, Hsieh joined the first 台美史料中心籌備會議 at 陳立明博士's home (with 郭清江, 王漢平, 林宏容), and later co-ordinated and, together with Bob, interviewed and recruited the centre's full-time staff and volunteers ([[articles/taiwanjustice-net/2026/20260121010227_斯人已逝_其德可追-緬懷鄭寶鼎博士-_-林宏容_9907500dda4f33bb|林宏容 via TJJ, 2020-09-30]]).
 
