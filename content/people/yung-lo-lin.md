@@ -35,6 +35,10 @@ last_reviewed: 2026-09-18
 
 - **Wife:** 劉富子
 
+## Role in the Community
+
+- **1982 — 第四屆台灣人夏令會召集人 (East Tennessee):** Lin was the convener (召集人) of the 4th Taiwanese Summer Camp, held July 9, 1982 at Tusculum College near Johnson City, Tennessee, hosted by the East Tennessee Taiwanese Association and co-organized with the North American Taiwanese Professors Association (北美洲台灣人教授協會). The camp made history as the first overseas Taiwanese Summer Camp with open collective participation by 黨外 figures — the "黨外四人行" 尤清、康寧祥、張德銘、黃煌雄 — with the Southeast region as their first stop; KMT-dispatched 沈君山 and 紀政 and a large press contingent also attended. Buildings on campus were renamed in movement spirit (「美麗島大樓」「明德大樓」「秀蓮大樓」, the gymnasium 「文成館」 in memory of 陳文成, and a dormitory "台灣村"). Over 400 people attended, many sleeping on floors. Source: [[works/taiwaneseamericanhistory-org/ourjourneys245|Our Journeys #245, 美東南區夏令會回憶]].
+- By 1982 the Southeast region had become one of the six regional divisions of the 全美會 (formalized at the 3rd camp in 1981, which 全美會會長 陳唐山 also attended), placing Lin's convenership within the institutional growth of the overseas Taiwanese community movement.
 
 ## Sources
 - [TAH #1282 encyclopedia: 1282. Yung-Lo Lin 林永樂 / 2016/09](https://taiwaneseamericanhistory.org/whos1282-y-l-lin/)

@@ -24,6 +24,7 @@ last_reviewed: 2026-07-16
 - **Content priority A:** Name on Taiwan Center group-members page  
 - **Hub:** [[sources/taiwancenter-org||taiwancenter.org]]  
 - **Content priority C:** Independent history not expanded from listing alone  
+- **SKIP (deepen-x 2026-09-18):** no corpus hits in works/ or articles/ for 全僑民主和平聯盟 / GADP; the only 全僑 matches are unrelated Sydney/Philippines 僑界 CPTPP news in taiwanjustice-net. Nothing absorbable; stays listing-only.
 
 ## Related Pages
 

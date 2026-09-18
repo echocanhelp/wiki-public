@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-18
 ---
 # Yang Yang (楊陽)
 
@@ -33,6 +33,10 @@ last_reviewed: 2026-08-17
 ## Family
 
 _No filled family fields on the TAH profile._
+
+## Role in the Community
+
+- **2012 — Subject of a Taiwanese American documentary:** Yang's UCLA solar-energy research was featured in the documentary *Catching the Invisible Light* (dir. Ho Chie), which reached the Focus Forward semi-finalist / Audience Award track at Sundance. In the accompanying community interview, the filmmaker — also Taiwanese American — described discovering Professor Yang's Taiwanese heritage while prepping the shoot: "He was very supportive of the documentary... it really shows how diverse we are as a community. I feel that it is important to support members of our community, especially when there are so few." Source: [[works/taiwaneseamerican-org/catching-the-invisible-light|Catching the Invisible Light (TAO interview, 2012)]].
 
 ## Sources
 - [TAH #1568 encyclopedia: 1568. Yang Yang 楊陽 / 2017/03](https://taiwaneseamericanhistory.org/whoswho1568/)
