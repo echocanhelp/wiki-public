@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-18
 ---
 # Dr. Charles Tu (杜武青博士)
 
@@ -37,6 +37,12 @@ last_reviewed: 2026-08-17
 ## Family
 
 - **Wife:** Linda Tu
+
+## Role in the Community
+
+- President of the Taiwanese American Foundation of San Diego (聖地牙哥台灣基金會董事長) 2017-2018; UCSD 卓越教授 who, per 遠見雜誌 2019-04 profile, returned to Taiwan after half a century in the US and donated 80% of his salary to higher education ([[works/taiwaneseamericanhistory-org/680-global-monthly-news-prof-charles-w-tu|TAH #680]]).
+- Held in the TAH corpus as a community figure across three records: profile ([[works/taiwaneseamericanhistory-org/whos-charles-tu|TAH #601]], 2015-09-19) and Who's Who entry ([[works/taiwaneseamericanhistory-org/ota-247|TAH #247]], 2019-02-15).
+- Co-initiator (共同發起人) of the 2021 南加州僑界 joint statement supporting Taiwan's participation in WHA, alongside TAHS among the initiating organizations.
 
 
 ## Sources
