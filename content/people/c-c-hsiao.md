@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-18
 ---
 # C. C. Hsiao (蕭忠正)
 
@@ -29,6 +29,10 @@ last_reviewed: 2026-08-17
 - 蜀湘園 — Funder
 - Einstein Medical Center
 <!-- tah-tables:end -->
+
+## Role in the Community
+
+- His story is recorded in the TAHS community archive: "1498. C. C. Hsiao 蕭忠正" was published 2017-02-05 ([[works/taiwaneseamericanhistory-org/1498-c-c-hsiao-e8-95-ad-e5-bf-a0-e6-ad-a3-201702|TAHS #1498]]). The local record is bibliographic only; no additional community detail to reconcile.
 
 ## Family
 
