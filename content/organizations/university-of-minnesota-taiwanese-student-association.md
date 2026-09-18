@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-17
+last_reviewed: 2026-09-18
 ---
 # University of Minnesota Taiwanese Student Association
 
@@ -21,6 +21,9 @@ The University of Minnesota Taiwanese Student Association (UMNTSA), also referre
 ## Role in the Community
 - Minnesota Taiwanese-organization ecosystem in the TAH corpus (sibling campus/community chapters the TSS overlapped with): FAPA Minnesota Chapter 「台灣人公共事務會明尼蘇達州中部分會」 ([[works/taiwaneseamericanhistory-org/31-minnesota-chapter-fapa|TAH #31]]) and the Taiwanese Association of America–Minnesota Chapter 「明州台灣同鄉會」 ([[works/taiwaneseamericanhistory-org/minnesota-chapter-taa|TAA Minnesota]]).
 - Campus activism at the University of Minnesota is also documented in memoir [[works/taiwaneseamericanhistory-org/ourjourneys85-eng|Our Journeys #85 (Tsu-Yi)]]: while an undergrad (from 1956–57) he drafted the 3F petition to the UN for Thomas Liao overnight, showing student-era independence organizing predating the TSS lineage. HOLD: no corpus source states when the TSS itself was founded or its relationship to TSS/UMNTSA naming.
+- Earliest documented Taiwanese student gathering on the Minneapolis campus: 謝伯芳's memoir [[works/taiwaneseamericanhistory-org/ourjourneys-369|369. 懷憶六十年代前期的明市]] records the 「Mpls 台灣人祈禱查經會」, started autumn 1960 by five students (殷宗舜、李春美、陳秉虔、蘇惠美、謝伯芳) with Friday-night worship and fellowship, growing from ~10 to 20+ attendees — the prayer/Bible-study circle predates and overlaps the student-association layer of the campus community.
+- Minnesota Taiwanese-organization lineage per 曾紀明 (Chi-Ming Tseng), [[works/taiwaneseamericanhistory-org/ourjourneys123-eng|123. 明州台美人百年大事]]: 明尼蘇達同鄉會 representative 賴金德 attended the 1965 Madison convention and the 1966 Philadelphia talks that founded UFAI, placing Minnesota student/hometown organizing inside the national independence-network formation.
+- Community continuity: the successor TAA Minnesota Chapter's Taiwanese booth at Festival of Nations/MN won three Awards of Excellence in 2018 — its 25th consecutive year of participation ([[works/taiwaneseamericanhistory-org/2018-4|TAH #4, 2018]]).
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/university-of-minnesota-taiwanese-student-association/)
