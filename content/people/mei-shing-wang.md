@@ -51,3 +51,4 @@ _No filled family fields on the TAH profile._
 ## Vault records（deepen-x 2026-09-16, slice 15）
 - re-grep 王美幸 / Mei Shing Wang：新增吸收本人回憶錄 mystories #535、#537 與聯展畫冊 publications #1089（皆書目記錄，全文未入庫）→ 已記入 Role in the Community。
 - 再核（deepen-x slice-09170130-16, 2026-09-17）：hit 集與上述完全相同（#535、#537、#1592、profile 66、collection 25、#1089），全數已連結，無新可吸收事實。
+- 再核（deepen-x slice-09170500-14, 2026-09-17）：re-grep 王美幸 / Mei Shing Wang 對 content/works + content/articles — hit 集不變，全數已連結於 Role in the Community，無新可吸收事實。SKIP-with-reason。
