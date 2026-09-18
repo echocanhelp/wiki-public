@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-18
 ---
 # Chih-Wei Logan Hsu
 
@@ -34,6 +34,10 @@ Imaging Specialist
 ## Family
 
 _No filled family fields on the TAH profile._
+
+## Role in the Community
+
+SKIP-with-reason (deepen-x 2026-09-18): no corpus hits — grep for "Chih-Wei Logan Hsu" / "Logan Hsu" in content/works and content/articles returns nothing; the only 志偉 matches in press articles are unrelated Taiwan-based politicians. The TAH Who's Who profile is the sole record held; nothing absorbable beyond the tah-tables above.
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/chih-wei-logan-hsu/)
