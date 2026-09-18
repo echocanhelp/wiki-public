@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-18
 ---
 # James Cheng (鄭乃榮)
 
@@ -34,6 +34,11 @@ last_reviewed: 2026-08-17
 
 - **Wife:** Sumi
 
+
+## Role in the Community
+- Contributor of political commentary to the TAH community encyclopedia: essay 「看芬蘭 想台灣」 (written 2013/11, published 2014-11-27), reflecting on Taiwan's future through the Finnish model — [[works/taiwaneseamericanhistory-org/310-e7-9c-8b-e8-8a-ac-e8-98-ad-e6-83-b3-e5-8f-b0-e7-81-a3-e9-84-ad-e4-b9-83-e6-a|310. 看芬蘭 想台灣]]
+- Personal story recorded in the TAH encyclopedia as entry #37 (2014-10-04) — [[works/taiwaneseamericanhistory-org/37-james-cheng-e9-84-ad-e4-b9-83-e6-a6-ae|37. James Cheng 鄭乃榮]]
+- Disambiguation: record #37 also names [[people/rev-james-i-cheng|Rev. James I. Cheng]] as a subject — a different person, do not conflate.
 
 ## Sources
 - [TAH #37 encyclopedia: 37. James Cheng 鄭乃榮](https://taiwaneseamericanhistory.org/37-james-cheng-%e9%84%ad%e4%b9%83%e6%a6%ae/)
