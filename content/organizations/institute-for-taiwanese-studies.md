@@ -25,6 +25,12 @@ last_reviewed: 2026-09-18
 - **Hub:** [[sources/taiwancenter-org||taiwancenter.org]]  
 - **Content priority C:** Independent history not expanded from listing alone  
 
+## Role in the Community
+
+- The TAHS story corpus holds a community record of the institute dated **2014-10-12** — see [[works/taiwaneseamericanhistory-org/institute-for-taiwanese-studies|Institute for Taiwanese Studies record (TAHS corpus)]].
+- Per the 台美人物誌 interview with Dr. [[people/wang-kexiong|王克雄]] (Taiwan Justice profile, archived 2024-09-05): he co-founded 美國台灣研究院 and serves as a current board director; the institute's main work is supplying Taiwan perspectives and data to US think tanks, and it once arranged a seminar between Dr. 蔡英文 and US think-tank figures — [[articles/taiwanjustice-net/2024/20240905070707_root_a4f51e89fe5a4080|王克雄博士專訪]].
+- HOLD: a separate corpus record exists for 南加州台灣研究院 / Institute for Taiwanese Studies (S. California) — [[works/taiwaneseamericanhistory-org/institute-for-taiwanese-studies-s-california|record]]; parent/affiliate relationship not established, not merged.
+
 ## Sources
 - [TAH directory](https://taiwaneseamericanhistory.org/organization/institute-for-taiwanese-studies/)
 
