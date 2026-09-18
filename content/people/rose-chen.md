@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-15
+last_reviewed: 2026-09-18
 ---
 # Rose Chen (陳慧如)
 
@@ -54,7 +54,7 @@ Corpus-absorbed (deepen-x slice 28, 2026-09-14) from 鍾澄文's column [[articl
 
 ## From the record
 
-- 2022-12-02 — 以立合唱團世界首演「希望之光」（黃令先作曲、指揮），10月1日洛杉磯 Pasadena、10月8日紐約卡內基贊克爾廳，陳慧如任鋼琴（[[articles/taiwanjustice-net/2024/20240228144919_root_a40b37bc03b2b9cb|TJJ, 2022-12-02]]）。
+- 2022-12-02 — 以立合唱團世界首演「希望之光」（黃令先作曲、指揮），10月1日洛杉磯 Pasadena、10月8日紐約卡內基贊克爾廳，陳慧如任鋼琴（[[articles/taiwanjustice-net/2024/20240228144919_root_a40b37bc03b2b9cb|TJJ, 2022-12-02]]；同稿存檔副本 [[articles/taiwanjustice-net/2023/20230202214624_2022_12_02_以立合唱團世界首演_希望之光_影音_e7e2a1e1a71524ce|2023-02 存檔]]、[[articles/taiwanjustice-net/2025/20250524200224_以立合唱團世界首演_希望之光_影音_025f6ed990dc9e2c|2025-05 存檔]]）。
 
 ## Sources
 - [TAH #1094 encyclopedia: 1094. Hui-Ju Chen 陳慧如 / 2016/06](https://taiwaneseamericanhistory.org/whoswho1094/)
