@@ -7,9 +7,11 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-18
 ---
 # Dr. Chang-Yang Wang (王昌洋醫師)
+
+<!-- deepen-x 09170700-18: SKIP — only corpus hit is his own TAH press-kit record whos-who-1967-chang-yang-wang (bibliographic stub, no community/corpus facts to absorb). No memoir/article mentions found in works+articles. -->
 
 ## Identity Snapshot
 - **English:** Dr. Chang-Yang Wang
