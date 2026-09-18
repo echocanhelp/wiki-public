@@ -37,6 +37,7 @@ Prof. Shih-Wen Huang 黃碩文教授 – History of Taiwanese American (T.A. Arc
 - Received the Life Time Achievement Award from the College of Medicine, University of Florida, Gainesville (2018); his own memoir recalls receiving it at age 81 — [[works/taiwaneseamericanhistory-org/winners-shih-wen-huang|65. Life Time Achievement Award (2018)]] · [[works/taiwaneseamericanhistory-org/653-2|653. 八十一歲的驚喜：得了佛羅里達大學終身成就獎的回憶 (07/2018)]].
 - Double-profiled in the archives — [[works/taiwaneseamericanhistory-org/136-prof-shih-wen-huang|136. Prof. Shih-Wen Huang 黃碩文教授]] · [[works/taiwaneseamericanhistory-org/whos-who-2062-shih-wen-huang|2062. Prof. Shih-Wen Huang 黃碩文教授]].
 - HOLD: conflict birth-era 1936 (TAH profile) vs 81 years old in 2018 memoir (implies 1936/1937 depending on age reckoning) — not merged.
+- Re-verified 2026-09-18: corpus re-grep (works/articles) returns only the records already linked/absorbed above plus index listings — no new mention; SKIP-with-reason (saturated).
 
 ## Family
 

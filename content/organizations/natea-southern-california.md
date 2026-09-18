@@ -25,6 +25,7 @@ Corpus check 2026-09-18 (NATEA material in the vault concerns the parent associa
 
 - **Association activity record.** A dedicated TAH record documents NATEA's activities (北美台灣工程師協會的活動) ([[works/taiwaneseamericanhistory-org/activities-of-natea|Activities of NATEA]]); a parallel record covers the Illinois chapter, confirming NATEA was a multi-chapter North American organization of which this LA chapter is one branch ([[works/taiwaneseamericanhistory-org/natea-illinois-chapter|NATEA Illinois Chapter]]).
 - **Taiwan Center co-sponsor.** NATEA is listed among the sponsoring/attending associations in Taiwan Center of Greater Los Angeles event records — the Asian Choral Festival video, concert records, and photo albums ([[works/taiwaneseamericanhistory-org/video-asian-choral-festival|Asian Choral Festival video]], [[works/taiwaneseamericanhistory-org/concerts26|concerts26]], [[works/taiwaneseamericanhistory-org/photo-albums-activities-19|photo albums: activities 19]]) — consistent with its group-member listing above.
+- **Movement directory entry (re-check 2026-09-18).** NATEA appears under "Professional Organizations" in the community movement record [[works/taiwaneseamericanhistory-org/ourjourneys247|Our Journeys, record 247]], listed alongside NATPA — another instance of org-level (not chapter-level) recognition in the corpus.
 
 HOLD: this page (南加分會 chapter) vs the corpus records (parent association / other chapters) — chapter-level history remains unexpanded; no independent SoCal-chapter founding facts found in the vault.
 
