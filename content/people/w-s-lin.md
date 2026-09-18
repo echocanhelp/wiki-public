@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-18
 ---
 # W. S. Lin (林維熊)
 
@@ -36,6 +36,9 @@ _No filled family fields on the TAH profile._
 ## Sources
 - [TAH #1199 encyclopedia: 1199. W. S. Lin 林維熊 / 2016/07](https://taiwaneseamericanhistory.org/whoswho1199/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/w-s-lin/)
+
+## Role in the Community
+- Recorded in the TAH story corpus: [[works/taiwaneseamericanhistory-org/whoswho1199|1199. W. S. Lin 林維熊 / 2016/07]] (published 2016-07-30, band B; bibliographic record — full text held in the vault).
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
