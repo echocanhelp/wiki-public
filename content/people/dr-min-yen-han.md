@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-18
 ---
 # Dr. Min-Yen Han (韓明元醫師)
 
@@ -29,6 +29,9 @@ Accomplishment
 ## Employment
 - French Polyclinic Hospital — Residency — Vernon, NJ — Internist — Community — Tzu Chi International Medical Association (TIMA) 國際慈濟人醫會 — Member
 <!-- tah-tables:end -->
+
+## Role in the Community
+- TIMA（國際慈濟人醫會）成員，為台美社區醫療服務志工； TAH Who's Who 將其記錄為 2010 年人物檔案（[[works/taiwaneseamericanhistory-org/whos-who-2010-min-yen-han|TAH Who's Who #2010 韓明元醫師]], published 2018-02-06）。Corpus holds the bibliographic record only; no memoir or community narrative found beyond the TAH profile.
 
 ## Family
 

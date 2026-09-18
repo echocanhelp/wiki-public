@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-18
 ---
 # Chien-Feng Jeffrey Wang (王劍峯博士)
 
@@ -30,6 +30,9 @@ Chien-Feng (Jeffrey) Wang 王劍峯 – History of Taiwanese American (T.A. Arch
 ## Employment
 - 西北，環球，達美航空，PARS，Worldspan，Travelport — 1989-present — 航空飛航作業和電腦訂位系統領導系統程式設計工程師
 <!-- tah-tables:end -->
+
+## Role in the Community
+- 投入台美史料保存：TAH Who's Who 記錄其與台美史料中心（T.A. Archives）的關聯（[[works/taiwaneseamericanhistory-org/whoswho1321|1321. Chien-Feng (Jeffrey) Wang 王劍峯 / 2016/10]], published 2016-10-22）。Corpus holds the bibliographic record only; no memoir or further community narrative found.
 
 ## Family
 
