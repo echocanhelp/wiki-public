@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-18
 ---
 # Joseph Y.T. Hung
 
@@ -45,3 +45,4 @@ Accomplishment
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- [[works/taiwaneseamericanhistory-org/whoswho919|919. Joseph Y.T. Hung / 2016/04]] — own TAH encyclopedia record (corpus scan 2026-09-18: bibliographic record only, no absorbable community facts; SKIP-deepened, link only)

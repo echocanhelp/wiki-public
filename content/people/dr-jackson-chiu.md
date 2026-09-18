@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-18
 ---
 # Dr. Jackson Chiu (邱坤勝博士)
 
@@ -35,6 +35,12 @@ last_reviewed: 2026-08-17
 - **Daughter:** Theresa
 - **Son:** Theodore
 
+
+## Role in the Community
+- Served the 全美台灣獨立聯盟 (United Formosans for Independence) in its formative years, per the memoir [[works/taiwaneseamericanhistory-org/ourjourneys81|81. 早期威大台灣學生在台灣建國運動所扮演的角色/周烒明起稿/2014]] (EN: [[works/taiwaneseamericanhistory-org/ourjourneys81-eng|English transcript]]):
+  - Third member congress (1969-07-04, Gary, Indiana): 財務 (Treasurer) under Chairman 蔡同榮, with 張燦鍙, 陳隆志, 鄭自才, 賴文雄, 羅福全.
+  - Listed on the organization portfolio alongside 賴文雄 (Frank Lai), 王秋森 (Chiu-Sen Wang), 范良信 (Liang-Shing Fan).
+- TAH encyclopedia record: [[works/taiwaneseamericanhistory-org/whos-who-2219|2219. Dr. Jackson Chiu 邱坤勝博士/11/2019]].
 
 ## Sources
 - [TAH #2219 encyclopedia: 2219. Dr. Jackson Chiu 邱坤勝博士/11/2019](https://taiwaneseamericanhistory.org/whos-who-2219/)

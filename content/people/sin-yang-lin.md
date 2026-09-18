@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-18
 ---
 # Sin-Yang Lin (林欣陽)
 
@@ -39,3 +39,4 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- [[works/taiwaneseamericanhistory-org/whos-who-2289-sin-yang-lin|2289. Sin-Yang Lin 林欣陽]] — own TAH encyclopedia record (corpus scan 2026-09-18: no other corpus material found; SKIP-deepened, link only)
