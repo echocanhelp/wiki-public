@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-18
 ---
 # Daniel Ko (柯耀宗博士)
 
@@ -31,6 +31,12 @@ last_reviewed: 2026-08-17
 - 新光合纖 — 2001- — 總經理
 - 新光合纖 — 2001- — 總經理
 <!-- tah-tables:end -->
+
+## Role in the Community
+- 1969 — Co-founded the Pittsburgh Taiwanese Association with Edward Huang (黃東昇), Fu-Chen Lo, and Chiung-hui Ko; the young families looked after Taiwanese students in Pittsburgh, hosting Mid-Autumn and Lunar New Year parties, symposia, and softball games. See [[works/taiwaneseamericanhistory-org/ourjourneys292-eng|Our Journeys 292 — Pittsburgh Taiwanese Association]].
+- Long-time East Coast resident, active in the Taiwanese American Conference – East Coast (TAC-EC), held annually since 1970.
+- After retiring to the San Francisco Bay area in 2013, pushed TAC-WC to establish a standing Board like TAC-EC's; following the joint TAC-WC/NATPA 2016 Bay Area conference (500 participants), he, Steve Lin (林俊提) and Ed Huang convened regional leaders at the Taiwan Night to create the TAC-WC Board and served as its appointed advisor. See [[works/taiwaneseamericanhistory-org/ourjourneys352|Our Journeys 352 — TAC-WC Board]].
+- Who's Who entry: [[works/taiwaneseamericanhistory-org/whoswho1187|1187. Daniel Ko 柯耀宗 / 2016/07]].
 
 ## Family
 
