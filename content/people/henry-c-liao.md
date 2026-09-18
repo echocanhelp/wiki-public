@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-18
 ---
 # Henry C Liao (廖政森)
 
@@ -33,6 +33,10 @@ last_reviewed: 2026-08-17
 
 - **Daughter:** Martha Liao
 
+## Corpus footprint
+
+- [[works/taiwaneseamericanhistory-org/whoswho905|995. Henry C Liao 廖政森 / 2016/05]] — TAH Who's Who profile record (bibliographic only; no additional community facts in the corpus).
+- SKIP note (2026-09-18): corpus grep found no memoir/article material beyond this own-profile record; nothing absorbable beyond the existing TAH snapshot.
 
 ## Sources
 - [TAH #995 encyclopedia: 995.  Henry C Liao 廖政森 / 2016/05](https://taiwaneseamericanhistory.org/whoswho905/)

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-18
 ---
 # Yih-Fu Shiau (蕭逸夫)
 
@@ -33,6 +33,11 @@ last_reviewed: 2026-08-17
 ## Family
 
 _No filled family fields on the TAH profile._
+
+## Corpus footprint
+
+- [[works/taiwaneseamericanhistory-org/whoswho1341|1341. Yih-Fu Shiau 蕭逸夫 / 2016/10]] — TAH Who's Who profile record (bibliographic only; no additional community facts in the corpus).
+- SKIP note (2026-09-18): corpus grep found no memoir/article material beyond this own-profile record; nothing absorbable beyond the existing TAH snapshot.
 
 ## Sources
 - [TAH #1341 encyclopedia: 1341. Yih-Fu Shiau 蕭逸夫 / 2016/10](https://taiwaneseamericanhistory.org/whoswho1341/)
