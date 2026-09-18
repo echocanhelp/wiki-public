@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-18
 ---
 # Marian Miaw-ju Chen (陳林妙珠)
 
@@ -27,6 +27,11 @@ last_reviewed: 2026-08-17
 ## Employment
 - 護理助產
 <!-- tah-tables:end -->
+
+## Role in the Community
+
+- Profiled in the TAH encyclopedia: [[works/taiwaneseamericanhistory-org/whoswho1032|1032. Marian Miaw-ju Chen 陳林妙珠 / 2016/05]] (2016-05-28).
+- Corpus record is bibliographic only (band B); no memoir text beyond the TAH profile, so nothing further absorbable from works/articles.
 
 ## Family
 

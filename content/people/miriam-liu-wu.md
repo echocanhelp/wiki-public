@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-18
 ---
 # Miriam Liu Wu (劉逸青)
 
@@ -28,6 +28,11 @@ last_reviewed: 2026-08-17
 ## Employment
 - LPW A Law Corporation — Lawyer
 <!-- tah-tables:end -->
+
+## Role in the Community
+
+- Recorded in the TAH Foundation encyclopedia as entry #1214 (2016-08-06): [[works/taiwaneseamericanhistory-org/1214-miriam-liu-wu-e5-8a-89-e9-80-b8-e9-9d-92-201608|1214. Miriam Liu Wu 劉逸青 / 2016/08]] — the community-historical record of her profile in the TAHS story corpus.
+- Corpus record is bibliographic only (band B); no memoir text available for further absorb.
 
 ## Family
 
