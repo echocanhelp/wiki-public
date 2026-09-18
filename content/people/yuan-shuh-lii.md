@@ -36,6 +36,10 @@ Source from http://www.taiwancenter.com/sdtca/articles/2-04/7.html(美國加州�
 
 _No filled family fields on the TAH profile._
 
+## Role in the Community
+- Profiled in the TAH Who's Who encyclopedia record [[works/taiwaneseamericanhistory-org/whoswho1441|1441. Yuan-Shuh Lii 李元恕 / 2016/12]] (published 2016-12-26; bibliographic record only, full text stays in the TAH vault).
+- No memoir or community-activity record beyond the TAH profile found in corpus (no SDTCA/聖地牙哥台灣同鄉會 activity beyond the cited article link).
+
 ## Sources
 - [TAH #1441 encyclopedia: 1441. Yuan-Shuh Lii 李元恕 / 2016/12](https://taiwaneseamericanhistory.org/whoswho1441/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/yuan-shuh-lii/)

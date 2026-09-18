@@ -66,5 +66,9 @@ Visiting Professor of World Religion
 - **Still active in 2017:** 台美人信仰與人文研習會 (TARSA) December 2017 seminar featured him on 宗教 ([[articles/taiwanjustice-net/2017/20171220125053_2017_11_29_全美台灣人權協會年會暨鄭南榕紀念獎_王康陸人_c4d413fd5efb8a9c||台灣公義報 2017-12-20]]).
 - **台大校友 record:** he appears as 林天民(哲學) among signatories in the 南加州台大校友會 2018 statement re 管中閔 ([[articles/taiwanjustice-net/2018/20180721091303_2018_07_20_抗議-南加州台大校友會邀管中閔來年會做專題演講_a428dcebbceacf38||台灣公義報 2018-07-20]]).
 
+## From the record
+
+- 2017-12-14 — 台美人信仰與人文研習會（TARSA）12月研討會邀林天民教授主講宗教新聞，活動見於台灣公義報「台美人台加人」版相關報導（[[articles/taiwanjustice-net/2017/20171220125053_2017_11_29_全美台灣人權協會年會暨鄭南榕紀念獎_王康陸人_c4d413fd5efb8a9c|TJJ, 2017-11-29 存檔]]）。
+
 ## Corpus re-sweep — 2026-09-14 (slice 09141500-2)
 - 全庫 grep（林天民／Tian-Min Lin）命中之作品（TAH #189、#183、#462、#463、#464、Our Journeys #268、#107）皆已連結並吸收於上文 Role in the Community（slice 09141213-32）。無新增社群事實，SKIP-with-reason（已飽和）。

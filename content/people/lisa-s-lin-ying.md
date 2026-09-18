@@ -35,6 +35,10 @@ last_reviewed: 2026-09-17
 
 _No filled family fields on the TAH profile._
 
+## Role in the Community
+- Profiled in the TAH Who's Who encyclopedia record [[works/taiwaneseamericanhistory-org/305-lisa-s-lin-ying-e5-8d-b0-e6-9e-97-e7-a7-80-e7-8e-b2201502|305. Lisa S. Lin Ying 印林秀玲 / 2015/02]] (published 2015-02-19; bibliographic record only, full text stays in the TAH vault).
+- Corpus records her primarily as founder/leader of Our Planet Management Institute (OPMI); no memoir or movement-activity record found in corpus.
+
 ## Sources
 - [TAH #305 encyclopedia: 305. Lisa S. Lin Ying 印林秀玲/2015/02](https://taiwaneseamericanhistory.org/305-lisa-s-lin-ying-%e5%8d%b0%e6%9e%97%e7%a7%80%e7%8e%b2201502/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/lisa-s-lin-ying/)
