@@ -6,7 +6,7 @@ tags:
   - disambiguation
   - NTPC
 verification_status: published
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-18
 ---
 # NTPC — National Taiwanese Presbyterian Council (not New Taipei City)
 
@@ -23,6 +23,17 @@ This slug used to say “North Taiwan Presbyterian Church (NTPC)” and pointed 
 ## Identity Snapshot
 - **Type:** disambiguation
 - **Do not flatten:** US council ≠ 新北市 ≠ PCT 北部大會
+
+## Corpus records
+
+The story corpus carries two tahs.org records for the church council (not the city):
+
+- [[works/taiwaneseamericanhistory-org/national-taiwanese-presbyterian-council|National Taiwanese Presbyterian Council 全美台灣人教會聯合會]] (2017-02-20, band B)
+- [[works/taiwaneseamericanhistory-org/national-taiwanese-presbyterian-council-presbyterian-church-u-s-a|NTPC, Presbyterian Church (U.S.A.) 美國基督長老教會全國台灣人教會聯合會]] (2016-05-12, band B)
+
+HOLD: the two corpus records render the Chinese name differently (全美台灣人教會聯合會 vs 美國基督長老教會全國台灣人教會聯合會); the bylaw-sanctioned form is on the council page.
+
+Full page: [[organizations/national-taiwanese-presbyterian-council||National Taiwanese Presbyterian Council]].
 
 ## Related Pages
 - [[organizations/national-taiwanese-presbyterian-council||National Taiwanese Presbyterian Council]]
