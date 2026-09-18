@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-18
 ---
 # Julin Tang (湯竹林)
 
@@ -33,6 +33,10 @@ last_reviewed: 2026-08-17
 ## Family
 
 _No filled family fields on the TAH profile._
+
+## Role in the Community
+- **TAH community record.** His TAH Who's Who encyclopedia entry (#1309) is held in the vault as [[works/taiwaneseamericanhistory-org/whoswho1309|TAH #1309, published 2016-10-09]]; the vault copy is a bibliographic record only — the full biography text stays in the source archive, so no further corpus facts are absorbable in-vault at this time.
+- 2026-09-18 deepen-x pass found no other corpus mentions in works/ or articles/.
 
 ## Sources
 - [TAH #1309 encyclopedia: 1309. Julin Tang 湯竹林 / 2016/10](https://taiwaneseamericanhistory.org/whoswho1309/)
