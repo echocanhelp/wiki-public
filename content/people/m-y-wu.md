@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-18
 ---
 # M. Y. Wu (吳美雲)
 
@@ -32,6 +32,10 @@ last_reviewed: 2026-08-17
 ## Family
 
 _No filled family fields on the TAH profile._
+
+## Role in the Community
+- Her profile is held in the TAHS story corpus as [[works/taiwaneseamericanhistory-org/whoswho1435|1435. M. Y. Wu 吳美雲]] (record published 2016-12-18), the same record already cited under Sources — the corpus copy is bibliographic only, no memoir narrative.
+- Consistent with the profile's 台灣神學院 training, her network link to [[organizations/presbyterian-church-in-taiwan|PCT]] stands; no additional corpus activity found.
 
 ## Sources
 - [TAH #1435 encyclopedia: 1435. M. Y. Wu 吳美雲/ 2016/12](https://taiwaneseamericanhistory.org/whoswho1435/)
