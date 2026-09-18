@@ -41,6 +41,7 @@ Accomplishment
 
 ## From the record
 
+- **TAH Who's Who record**: his directory profile is archived in the corpus as [[works/taiwaneseamericanhistory-org/whos-who-1047-charles-c-hsu|1047. Dr. Charles C. Hsu 許宗邦醫師]].
 - Author of 讓我們一起去義診 (01/2017), a first-person account of international medical missions ([[works/taiwaneseamericanhistory-org/ourjourneys274|TAH #274]]; profiled again as Prof. Charles Hsu 許宗邦教授 in [[works/taiwaneseamericanhistory-org/49-prof-charles-hsu|TAH #49]]).
 - 2016 — Photographed at the 美西夏令會 in his capacity as 北美洲台灣人教授協會 (NAPTA) 會長, alongside past presidents 黃東昇 and 黃介清 ([[works/taiwaneseamericanhistory-org/ourjourneys287|Our Journeys #287]]); consistent with the TAH profile's 2014–2015 NAPTA presidency.
 - 2023-12 — Led NATMA's cross-ethnic physician team for international volunteer clinics serving third-world communities ([[works/taiwaneseamericanhistory-org/my-stories-894|TAH #894]]).

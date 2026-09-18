@@ -43,6 +43,8 @@ Corpus records show Pan's debut novel entered the Taiwanese American community r
 - The community magazine published a first-person interview with her: [[works/taiwaneseamerican-org/an-interview-with-emily-x-r-pan-the-astonishing-color-of-after|An Interview with Emily X.R. Pan (2018-09-25)]]. In it she describes the novel's origin in her grandmother's life in colonial Taiwan, research trips to Taiwan (family interviews, temple visits during Ghost Month), and her hope that Taiwanese American readers "might feel less alone." She also discusses mental-health stigma in Asian immigrant communities, noting Mandarin's only common term for suicide, 自殺 ("self kill").
 - Career pivot per the interview: after NYU business school she quit a salaried job she called miserable to enroll in an MFA, later left her publishing job to write full-time — consistent with the Employment table above.
 
+- Re-verified 2026-09-18: corpus re-grep returns the same hit set (TAH #2107, TAH #1242, the 2018-09-25 interview, index) — all three already absorbed above; no memoir or event mention beyond them; nothing further absorbable.
+
 美国書商協會(ABA)評為2018年優良讀物 (American Booksellers Association named as a top read of 2018) — matches the TAH #1242/Literature record.
 
 ## Sources

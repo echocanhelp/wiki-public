@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-17
+last_reviewed: 2026-09-18
 ---
 # Rev. C. L. Tong (董俊蘭牧師)
 
@@ -49,5 +49,6 @@ _No filled family fields on the TAH profile._
 
 - 2007-01-21 — Installed as the **third pastor** of the New Jersey Taiwanese-American Fellowship Presbyterian Church (TAFPC 纽澤西台美團契長老教會), succeeding founding-era pastor Rev. Ben M. C. Hsieh (謝敏川牧師), who retired in 2005 after 19 years at the church and 45 years of ministry and was named honorary pastor ([[works/taiwaneseamericanhistory-org/ourjourneys14|紐澤西台美團契基督長老教會歷史, 林茂清/2014]]). The church had moved to New Brunswick Presbyterian Church in 2002 amid growth.
 - Guest preacher at Sheng'en Presbyterian Church (聖恩長老敎會) in its early days, which was planted for unchurched Taiwanese compatriots with an informal program; Rev. Tong is named among the invited itinerant preachers who supported the small church alongside 謝敏川, 蔡其芳 (蔡清波), 王成章, 陳尚仁, 康進順, 那赫莫, 廖學銘, 洪健棣, 蔡慈倫, 胡志疆 and 鄭連德 ([[works/taiwaneseamericanhistory-org/ourjourneys43|聖恩長老敎會設敎經過, 劉照男/2014]]).
+- **TAH Who's Who record**: his own directory profile entered the TAH corpus archive on 2017-06-28 as [[works/taiwaneseamericanhistory-org/whos-who-1698-c-l-tong|1698. Rev. C. L. Tong 董俊蘭牧師]] (bibliographic record; full text in the vault).
 
-last_reviewed note: corpus-absorbed 2026-09-17 (deepen-x).
+last_reviewed note: corpus-absorbed 2026-09-17; re-verified 2026-09-18 (deepen-x) — corpus re-grep returns only ourjourneys14, ourjourneys43 and the #1698 profile, all already linked above; nothing further absorbable.
