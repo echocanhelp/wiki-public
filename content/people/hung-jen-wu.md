@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-18
 ---
 # Hung-Jen Wu (吳泓仁)
 
@@ -35,6 +35,9 @@ Outstanding Performance Presentation of 2013 Annual Symposium-the Society of Chi
 ## Family
 
 _No filled family fields on the TAH profile._
+
+## Role in the Community
+- Corpus record: his TAH Who's Who encyclopedia entry is held at [[works/taiwaneseamericanhistory-org/1578-hung-jen-wu-e5-90-b3-e6-b3-93-e4-bb-81-201703|1578. Hung-Jen Wu 吳泓仁 / 2017-03]] (published 2017-03-23). No memoir or community-activity mentions beyond the press-kit entry were found in the corpus.
 
 ## Sources
 - [TAH #1578 encyclopedia: 1578. Hung-Jen Wu 吳泓仁/ 2017/03](https://taiwaneseamericanhistory.org/1578-hung-jen-wu-%e5%90%b3%e6%b3%93%e4%bb%81-201703/)
