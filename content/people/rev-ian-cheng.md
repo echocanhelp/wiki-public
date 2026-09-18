@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-18
 ---
 # Rev. Ian Cheng (鄭溢恩牧師)
 
@@ -33,6 +33,9 @@ last_reviewed: 2026-08-17
 
 - **Wife:** 王蕊芬
 
+
+## Role in the Community
+- Listed in the TAH Who's Who encyclopedia as record [[works/taiwaneseamericanhistory-org/whos-who-1727-ian-cheng|1727. Rev. Ian Cheng 鄭溢恩牧師]] (published 2017-07-02, value band B). The corpus copy is a bibliographic record only — full text stays in the TAH vault, so no further community facts are absorbable from the local corpus at this time.
 
 ## Sources
 - [TAH #1727 encyclopedia: 1727. Rev. Ian Cheng 鄭溢恩牧師](https://taiwaneseamericanhistory.org/whos-who-1727-ian-cheng/)
