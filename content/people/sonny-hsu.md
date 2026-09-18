@@ -34,6 +34,10 @@ B.S. Economics and Computer Science and Engineering
 - Fitch Ratings — 2005-2010 — Director
 <!-- tah-tables:end -->
 
+## Role in the Community
+- Recorded in the TAH Foundation Who's Who community archive: [[works/taiwaneseamericanhistory-org/whos-who-1630-sonny-hsu|TAH #1630 (2017-05-07)]], documenting a Taiwanese American finance career — Fitch Ratings Director (2005–2010), then Moody's Investors Service Vice President/Senior Analyst (2010–present per the record).
+- Record is bibliographic (band B); full text stays in the TAH vault.
+
 ## Family
 
 _No filled family fields on the TAH profile._

@@ -30,6 +30,10 @@ Ph.D., Statistics and Epidemiology
 - Texas University — Professor — Shell Oil Company — Epidemiologist
 <!-- tah-tables:end -->
 
+## Role in the Community
+- Recorded in the TAH Foundation Who's Who community archive: [[works/taiwaneseamericanhistory-org/whos-who-2097-shan-p-tsai|TAH #2097 (2018-04-18)]], documenting a Taiwanese American scientist/educator (b. 1946, Taiwan) — Ph.D. in statistics and epidemiology from the Univ. of Texas Health Science Center at Houston, professor and Shell Oil Company epidemiologist.
+- Record is bibliographic (band B); full text stays in the TAH vault.
+
 ## Family
 
 _No filled family fields on the TAH profile._
