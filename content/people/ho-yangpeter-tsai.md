@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-18
 ---
 # Ho-Yang Peter Tsai (蔡和陽)
 
@@ -36,6 +36,10 @@ last_reviewed: 2026-08-17
 - **Daughter:** Melyssa Tsai O’Brien
 - **Daughter:** Whitney Tsai
 
+
+## Role in the Community
+
+SKIP-with-reason (2026-09-18): the only corpus record for this person, TAH story #1656 ([[works/taiwaneseamericanhistory-org/whoswho1656|1656. Ho-Yang(Peter) Tsai 蔡和陽 / 05/2017]]), is held as a bibliographic record only (full text stays in the vault) — no absorbable community facts. HOLD / disambiguation: other corpus "Peter Tsai" matches ([[works/taiwaneseamericanhistory-org/whos-who-2252-peter-tsai|TAH #2252]], [[works/taiwaneseamerican-org/peter-tsai-n95-inventor|N95 inventor]]) are **Dr. Peter Tsai 蔡秉燚**, a different person — never merge.
 
 ## Sources
 - [TAH #1656 encyclopedia: 1656. Ho-Yang(Peter) Tsai 蔡和陽 / 05/2017](https://taiwaneseamericanhistory.org/whoswho1656/)

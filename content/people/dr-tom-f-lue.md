@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-18
 ---
 # Dr. Tom F. Lue (呂福泰教授)
 
@@ -35,6 +35,9 @@ last_reviewed: 2026-08-17
 ## Family
 
 _No filled family fields on the TAH profile._
+
+## Role in the Community
+- Recorded in the TAH corpus profile series alongside other Taiwanese American professionals of the 2015-09 cohort: [[works/taiwaneseamericanhistory-org/578-dr-tom-f-lue-e5-91-82-e7-a6-8f-e6-b3-b0-201509|TAH #578, Dr. Tom F. Lue 呂福泰 / 2015-09]] (bibliographic stub, band B — full text stays in the vault). No other corpus mentions found in works/articles; no community facts absorbable beyond the record itself.
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-tom-f-lue/)

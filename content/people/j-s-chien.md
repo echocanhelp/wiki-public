@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-18
 ---
 # J. S. Chien (簡忠松)
 
@@ -33,6 +33,9 @@ last_reviewed: 2026-08-17
 - **Son:** 簡志榮
 - **Son:** 簡志輝
 
+
+## Role in the Community
+Community memoirs in the corpus describe 簡忠松 as a civil engineer who ran his own engineering consulting firm (自擁一工程顧問公司) and served as president of the Twin Cities (雙城) Taiwanese hometown association in Minnesota. His support of the Taiwan independence movement drew KMT retaliation for decades: he was blacklisted from returning to Taiwan — several years before the memoir was written even a family funeral trip was denied — and his wife 吳明珠 was likewise barred (連座), unable to return even for her own mother's funeral until a single-entry permit was granted in the memoir's year ([[works/taiwaneseamericanhistory-org/ourjourneys106|Our Journeys 106]]). In Houston, when the Taiwanese Heritage Society of Houston converted its purchased building into the Taiwanese Cultural Center (fundraising committee formed August 1991), 簡忠松 donated the filling-in of the property's swimming pool (游泳池填平：簡忠松) ([[works/taiwaneseamericanhistory-org/ourjourneys233|Our Journeys 233]], [[works/taiwaneseamericanhistory-org/ourjourneys233-eng|English]]). He also contributed life writing to the community record, including the essay 愛河 ([[works/taiwaneseamericanhistory-org/mystories121|121. 愛河 / 簡忠松]], [[works/taiwaneseamericanhistory-org/479-e6-84-9b-e6-b2-b3-e7-b0-a1-e5-bf-a0-e6-9d-be-e8-aa-9e-e8-a8-80200005|479. 愛河/簡忠松/Life/2000/05]]), and his autobiography collection 宜中耆老憶往述今–簡忠松專輯 was published in February 2022 ([[works/taiwaneseamericanhistory-org/publications-1364|TAH #1364]]).
 
 ## Sources
 - [TAH #1364 encyclopedia: 1364. 宜中耆老憶往述今–簡忠松專輯 | 簡忠松 /02/2022/ Autobiography/自傳](https://taiwaneseamericanhistory.org/publications-1364/)

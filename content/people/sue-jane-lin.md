@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-18
 ---
 # Sue-Jane Lin (林素貞)
 
@@ -35,6 +35,9 @@ last_reviewed: 2026-08-17
 ## Family
 
 _No filled family fields on the TAH profile._
+
+## Corpus Check — 2026-09-18
+SKIP-with-reason: the only corpus hit is the work page for this same TAH Who's Who entry ([[works/taiwaneseamericanhistory-org/whoswho1595|1595. Sue-Jane Lin 林素貞 / 2017/04]]), a bibliographic record already cited in Sources below. No memoir, yearbook, or community-corpus material mentions 林素貞 — nothing absorbable beyond the existing TAH profile fields.
 
 ## Sources
 - [TAH #1595 encyclopedia: 1595. Sue-Jane Lin  林素貞 / 2017/04](https://taiwaneseamericanhistory.org/whoswho1595/)
