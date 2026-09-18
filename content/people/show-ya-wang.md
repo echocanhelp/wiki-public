@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-18
 ---
 # Show-Ya Wang (邱綉雅)
 
@@ -28,9 +28,15 @@ last_reviewed: 2026-08-17
 - Hanson Foods Mfg., Co — Owner — Community — NATWA St. Louis Chapter (北美洲台灣婦女會聖路易分會) — President
 <!-- tah-tables:end -->
 
+## Role in the Community
+
+- Her TAH Who's Who entry is held in the corpus: [[works/taiwaneseamericanhistory-org/whos-who-1659-show-ya-wang|1659. Show-Ya Wang 邱綉雅]] (recorded 2017-05-15).
+- Church community: the St. Louis church history memoir lists the couple 王俊傑邱綉雅夫婦 ("Samson & Show-Ya Wang") among the remaining older-generation members still active in service at the Taiwanese Presbyterian Church of Greater St. Louis: [[works/taiwaneseamericanhistory-org/ourjourneys305|Our Journeys 305 — TPC Greater St. Louis history]]. Spouse: [[people/gene-jack-wang|Gene-Jack Wang (王俊傑)]].
+- Organizational role (TAH table): President, [[organizations/north-america-taiwanese-womens-association-st-louis-chapter|NATWA St. Louis Chapter (北美洲台灣婦女會聖路易分會)]].
+
 ## Family
 
-_No filled family fields on the TAH profile._
+- Spouse: [[people/gene-jack-wang|王俊傑 (Gene-Jack / "Samson") Wang]] (per the TPC St. Louis memoir, which names the couple together).
 
 ## Sources
 - [TAH #1659 encyclopedia: 1659. Show-Ya Wang 邱綉雅](https://taiwaneseamericanhistory.org/whos-who-1659-show-ya-wang/)
