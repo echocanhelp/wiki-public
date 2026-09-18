@@ -51,3 +51,4 @@ _No filled family fields on the TAH profile._
 - 複核（deepen-x 2026-09-16）：re-grep 結果相同（#1702 + index only）— SKIP：無回憶錄/社群材料可吸收，維持既有連結。
 - 複核（deepen-x slice-25, slice-09162138-20, 都 2026-09-16）：re-grep 張博增 / Bor Jang Chang 僅見本人書目記錄 #1702 與 harvest index — SKIP, 無回憶錄/社群材料可吸收。注意：ourjourneys47／ourjourneys203／our-journeys-389 及 taiwanjustice 文章之命中為另一人張博雅（前監察院長），非張博增，勿誤配。
 - 複核（deepen-x slice-09170130-14, 2026-09-17）：re-grep 張博增|Bor Jang Chang 僅見 #1702 + harvest index — SKIP：無可吸收材料；張博雅（ourjourneys/taiwanjustice 命中）為另一人，勿誤配。
+- 複核（deepen-x slice-09170500-12, 2026-09-17）：re-grep 結果相同（#1702 + index only）— SKIP：無回憶錄/社群材料可吸收。

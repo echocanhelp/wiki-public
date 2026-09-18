@@ -32,6 +32,10 @@ last_reviewed: 2026-08-17
 - 波音公司衛星研發中心 — 通訊衛生研製顧問
 <!-- tah-tables:end -->
 
+## From the record
+
+- 2024-09-07 — 於大洛杉磯台灣會館耆老講座「返台任職的心路歷程」與謝清志、郭清江同台分享返台任職經歷（[[articles/taiwanjustice-net/2025/20250216032153_tag_大洛杉磯台灣會館耆老講座_20053f0a17b89c07|TJJ 耆老講座標籤頁，2024-08-18 刊]]）。
+
 ## Family
 
 _No filled family fields on the TAH profile._

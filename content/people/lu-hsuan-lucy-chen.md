@@ -54,3 +54,4 @@ _No filled family fields on the TAH profile._
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - 複核（deepen-x slice-09170130-14, 2026-09-17）：re-grep 陳綠萱|Lu-Hsuan Lucy Chen 僅見自有書目記錄 #40／#514 + index — SKIP：無可吸收之回憶錄/社群段落。
+- 複核（deepen-x slice-09170500-12, 2026-09-17）：re-grep 結果相同（#40／#514 + index only）— SKIP：無可吸收材料。

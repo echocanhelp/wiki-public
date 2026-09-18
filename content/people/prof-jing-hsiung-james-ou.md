@@ -55,3 +55,4 @@ _No filled family fields on the TAH profile._
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - Slice deepen-x-slice-09170130-15 覆核（2026-09-17）：再檢 works+articles 結果相同，僅書目記錄 [[works/taiwaneseamericanhistory-org/whos-who-2018-jing-hsiung-ou|TAH #2018]] 一筆及索引行，無回憶錄／社團提及。SKIP。
+- Slice deepen-x-slice-09170500-12 覆核（2026-09-17）：再檢結果相同（#2018 + index only）— SKIP：無可吸收之社群事證。
