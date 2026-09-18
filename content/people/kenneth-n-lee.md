@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-18
 ---
 # Kenneth N. Lee (李乃恭)
 
@@ -32,6 +32,12 @@ last_reviewed: 2026-08-17
 - Columbia University — Clinical Instructor
 - Bellevue醫院 — 口腔外科醫師
 <!-- tah-tables:end -->
+
+## Role in the Community
+
+- Named in the TAH Foundation Who's Who record #1884 (09/2017), held in the corpus as [[works/taiwaneseamericanhistory-org/whoswho1884|1884. Kenneth N. Lee 李乃恭 / 09/2017]] (published 2017-09-07, band B).
+- Community-recorded distinction: awarded for **Excellence in Orthodontics** by Columbia University College of Dental Medicine; in private dental practice in Flushing, New York, with teaching appointments at NYU College (Clinical Assistant Professor), Columbia (Clinical Instructor), and oral surgery at Bellevue Hospital.
+- No memoir or community-activity material beyond the TAH press-kit profile was found in the corpus at review time.
 
 ## Family
 

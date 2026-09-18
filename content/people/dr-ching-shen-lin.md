@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-18
 ---
 # Dr. Ching-Shen Lin (林清森醫師)
 
@@ -27,6 +27,12 @@ last_reviewed: 2026-08-17
 ## Employment
 - Mount Sinai School of Medicine — Associate Professor of Pathology — (1989-1999) — Mount Sinai Medical Center at NYC — Director of Autopsy Services — (1989-1999) — Lin Pathology Publishing Company — Retired Physician
 <!-- tah-tables:end -->
+
+## Role in the Community
+
+- Named in the TAH Foundation Who's Who record for 2012 ([#2012](https://taiwaneseamericanhistory.org/whos-who-2012-ching-shen-lin/)), held in the corpus as [[works/taiwaneseamericanhistory-org/whos-who-2012-ching-shen-lin|2012. Dr. Ching-Shen Lin 林清森醫師]] (published 2018-02-06, band B).
+- Career record preserved by TAH: National Taiwan Univ. College of Medicine M.D. (1953–1960); Associate Professor of Pathology and Director of Autopsy Services at Mount Sinai School of Medicine / Mount Sinai Medical Center at NYC (1989–1999); later Lin Pathology Publishing Company, retired physician.
+- No memoir or community-activity material beyond the TAH press-kit profile was found in the corpus at review time.
 
 ## Family
 
