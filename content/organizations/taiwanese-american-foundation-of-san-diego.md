@@ -25,6 +25,11 @@ last_reviewed: 2026-09-18
 - **Hub:** [[sources/taiwancenter-org||taiwancenter.org]]  
 - **Content priority C:** Independent history not expanded from listing alone  
 
+## Role in the Community
+- In the TAH record the foundation appears under Chinese name 聖地牙哥台美基金會: [[works/taiwaneseamericanhistory-org/72-taiwanese-american-foundation-of-san-diego-the-first-library-that-has-the-cat|72. TA Foundation of San Diego / first library with a category for publications by Taiwanese Americans / 2008]] — credited with hosting the first library category collecting Taiwanese American publications, feeding the 台美人著作資料庫 ([[works/taiwaneseamericanhistory-org/163-e5-8f-b0-e7-be-8e-e4-ba-ba-e8-91-97-e4-bd-9c-e8-b3-87-e6-96-99-e5-ba-ab-e8-8|163. 台美人著作資料庫 / San Diego / 2015/08]]).
+- Related San Diego center records: [[works/taiwaneseamericanhistory-org/ourjourneys162-eng|162. 聖地牙哥台灣中心開幕典禮與慶祝音樂會]] (grand opening, 2015).
+- HOLD: naming conflict — this page lists 聖地牙哥台灣中心 as the Chinese name; the TAH directory work 72 lists 聖地牙哥台美基金會. Not auto-merged (may be related but distinct entities).
+
 ## Sources
 - [TAH directory](https://taiwaneseamericanhistory.org/organization/taiwanese-american-foundation-of-san-diego/)
 
