@@ -39,7 +39,7 @@ last_reviewed: 2026-09-18
 
 ## Role in the Community
 - 台美史料中心（T.A. Archives）存檔記錄了他的返台服務：1994 年返台任教台灣大學應用力學研究所 — [[works/taiwaneseamericanhistory-org/15-e6-9d-8e-e4-b8-96-e5-85-89-e6-95-99-e6-8e-88-e8-bf-94-e5-8f-b0-e4-bb-bb-e6-95|15. 李世光教授返台任教台灣大學應用力學研究所 / 1994]]。
-- 新澤西州台美人社區回憶錄把他列入從美國返台歷任政府職務的台美人博士群（同列者有黃大洲、陳保基、蔡丁貴、潘世偉、吳政忠等），屬於以世台會/同鄉會網絡（如前會長高龍榮 [[people/long-rong-mark-kao|高龍榮]]）為核心的新澤西台美人社群 — [[works/taiwaneseamericanhistory-org/ourjourneys310|Our Journeys 310（新澤西同鄉會回憶）]]。
+- 新澤西州台美人社區回憶錄把他列入從美國返台歷任政府職務的台美人博士群（同列者有黃大洲、陳保基、蔡丁貴、潘世偉、吳政忠等），屬於以世台會/同鄉會網絡（如前會長高龍榮 [[people/long-rong-mark-kao|高龍榮]]）為核心的新澤西台美人社群 — [[works/taiwaneseamericanhistory-org/ourjourneys310|Our Journeys 310（新澤西同鄉會回憶）]]；該回憶錄另記同鄉會曾不定期出版「鄉訊」、由鄭昭夫博士（在伊城 1976–2015）主摧。
 - TAH 百科本人条目：[[works/taiwaneseamericanhistory-org/783-prof-c-k-lee-e6-9d-8e-e4-b8-96-e5-85-89-201601|783. C. K. Lee 李世光 / 2016/01]]。
 
 ## Family
