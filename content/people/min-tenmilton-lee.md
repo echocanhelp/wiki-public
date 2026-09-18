@@ -40,6 +40,7 @@ last_reviewed: 2026-09-18
 - Contributor to the TAH archive's history collection: 蔣渭水和他的時代 / 李明典 / 2016/History/歷史/DVD ([[works/taiwaneseamericanhistory-org/publications999|publications999]]).
 - Filmed appearance, DC community, 2017 年度獨立紀念日大遊行, again credited as Dr. Ming Lee 李明典 ([[works/taiwaneseamericanhistory-org/videos71|videos71]]) — same filming credit pattern as the 2007 record, consistent with the HOLD note below.
 - Personal archive donated to the TAH collection: 84. 李明典博士的收藏 / Collection of the Dr. Min-Ten (Milton) Lee ([[works/taiwaneseamericanhistory-org/private-collections-84|private-collections-84]], era 2019) — his own papers are primary material in the corpus.
+- His own TAH encyclopedia record is held in the corpus: 972. Min Ten(Milton) Lee 李明典 / 2016/05 ([[works/taiwaneseamericanhistory-org/whoswho972|whoswho972]]).
 - HOLD: video72 credits him as "Dr. Ming Lee" while other records use "Min-Ten (Milton) Lee" — same wikilink target, name spelling not auto-merged.
 
 ## Family
