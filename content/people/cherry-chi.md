@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-18
 ---
 # Cherry Chi (紀江蒨)
 
@@ -30,6 +30,10 @@ Accomplishment
 ## Family
 
 _No filled family fields on the TAH profile._
+
+## Role in the Community
+
+- SKIP-with-reason: corpus presence is limited to her own TAH Who's Who encyclopedia record, [[works/taiwaneseamericanhistory-org/whos-who-1822-cherry-chi|1822. Cherry Chi 紀江蒨]] (published 2017-08-07, band B). No memoir or other community material in works/ or articles/ mentions 紀江蒨 / Cherry Chi, so there is nothing absorbable beyond the TAH press-kit roles already recorded above.
 
 ## Sources
 - [TAH #1822 encyclopedia: 1822. Cherry Chi 紀江蒨](https://taiwaneseamericanhistory.org/whos-who-1822-cherry-chi/)

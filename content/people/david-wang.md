@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-18
 ---
 # David Wang (王思眾)
 
@@ -34,6 +34,10 @@ Accomplishment
 ## Family
 
 _No filled family fields on the TAH profile._
+
+## Role in the Community
+
+- Corpus presence is limited to his own TAH Who's Who encyclopedia record, [[works/taiwaneseamericanhistory-org/whos-who-2282-david-wang|2282. David Wang 王思眾]] (published 2020-07-28, band B). No memoir or community-activity material found in the corpus; SKIP-no-absorbable-facts beyond the press-kit bio already recorded above.
 
 ## Sources
 - [TAH #2282 encyclopedia: 2282. David Wang 王思眾](https://taiwaneseamericanhistory.org/whos-who-2282-david-wang/)
