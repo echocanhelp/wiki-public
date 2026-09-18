@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-18
 ---
 # Stephen S. Chu (朱石象)
 
@@ -34,6 +34,12 @@ last_reviewed: 2026-08-17
 ## Family
 
 _No filled family fields on the TAH profile._
+
+## Role in the Community
+- Entered the community record through the TAH Foundation Who's Who encyclopedia entry **1295. Stephen S. Chu 朱石象**, published 2016-10-02.
+- The corpus holds this as a bibliographic record only (band B); the full biography stays in the TAH vault, so no further community facts are absorbed here.
+
+**Corpus records:** [[works/taiwaneseamericanhistory-org/whoswho1295|1295. Stephen S. Chu 朱石象 / 2016/10]]
 
 ## Sources
 - [TAH #1295 encyclopedia: 1295. Stephen S. Chu 朱石象 / 2016/10](https://taiwaneseamericanhistory.org/whoswho1295/)

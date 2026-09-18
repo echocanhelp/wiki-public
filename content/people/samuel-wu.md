@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-18
 ---
 # Samuel Wu (吳德聖牧師)
 
@@ -36,6 +36,14 @@ last_reviewed: 2026-08-17
 
 - **Wife:** 周淑慧
 
+
+## Role in the Community
+- Entered the community record through the TAH Foundation Who's Who encyclopedia entry **978. Samuel Wu 吳德聖**, published 2016-05-08 (band B; bibliographic record only).
+- His 台福 ministry is attested in the corpus only at the denomination level, not as a named subject: the [[works/taiwaneseamericanhistory-org/logos-evangelical-seminary|Logos Evangelical Seminary 正道福音神學院（原美國台福神學院)]] record documents the seminary line of the 台福 church he served (the TAH profile labels it 福神學院).
+- HOLD: whether the TAH profile's 福神學院 is the institution now named Logos Evangelical Seminary is an inference, not a corpus-stated equivalence — held, not merged.
+- No corpus record names him as a subject at any individual 台福 congregation page (Arcadia / Orlando / Phoenix / Philadelphia); no pastorate added.
+
+**Corpus records:** [[works/taiwaneseamericanhistory-org/whoswho978|978. Samuel Wu 吳德聖 / 2016/05]]
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/samuel-wu/)

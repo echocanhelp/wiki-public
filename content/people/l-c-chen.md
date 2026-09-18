@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-18
 ---
 # L. C. Chen (陳麗村)
 
@@ -33,6 +33,12 @@ last_reviewed: 2026-08-17
 ## Family
 
 _No filled family fields on the TAH profile._
+
+## Role in the Community
+- Entered the community record through the TAH Foundation Who's Who encyclopedia entry **1459. L. C. Chen 陳麗村**, published 2017-01-15 (band B; bibliographic record only, full text in the TAH vault).
+- HOLD: name collision. The corpus also carries [[works/taiwaneseamericanhistory-org/whos-who-1769-l-c-chen|1769. Prof. L. C. Chen 陳立川教授]] (2017-07-19) under the same English initials, but the Chinese name is 陳立川, not 陳麗村. These are treated as two different people; no merging.
+
+**Corpus records:** [[works/taiwaneseamericanhistory-org/whoswho1459|1459. L. C. Chen 陳麗村 / 2017/01]]
 
 ## Sources
 - [TAH #1459 encyclopedia: 1459. L. C. Chen 陳麗村 / 2017/01](https://taiwaneseamericanhistory.org/whoswho1459/)
