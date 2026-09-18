@@ -30,6 +30,10 @@ name_en: "Lai Ching-te"
 - **As VP on Ukraine, 2022-02-27:** in the taiwanjustice.net archive, his statement 「卑躬屈膝無法停止侵略，全民一心守護國家」 frames Taiwan alongside Ukraine — defending the democratic way of life, standing with the democratic camp on sanctions ("自己的國家自己救") — [[articles/taiwanjustice-net/2026/20260211101404_賴清德_卑躬屈膝無法停止侵略_全民一心守護國_6eb558bd5ea47dfe|TJJ archive, posted 2022-02-27]]; publisher [[people/freeman-huang|Freeman Huang]].
 - **HOLD:** president-term and policy labels remain from taiwanjustice.net coverage only; expand with primary sources, not press knowledge.
 
+## From the record
+
+- 2025-01-16 — 接見韓國瑜團長的跨黨派立委赴美就職觀禮團就總預算協商，聽韓國瑜盼「柯總召不要那麼硬」後笑稱「院長與柯總召也要多喝咖啡」緩頰；並稱美國眾院通過台美避免雙重課稅法案是跨黨派支持台灣的展現（[[articles/taiwanjustice-net/2025/20250719114825_韓國瑜提預算協商盼柯建銘不要那麼硬-總統緩頰_8fc11ca0c5dbaebe|TJJ 轉載中央社記者, 2025-01-16]]）。
+
 ## Source Notes
 
 - **Content priority A:** Article hit count (211) from `knowledge/research/taiwanjustice-net-entities.md` (title extraction)
