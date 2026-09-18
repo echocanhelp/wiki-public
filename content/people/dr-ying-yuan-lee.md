@@ -37,7 +37,10 @@ last_reviewed: 2026-09-18
 - 2021 年逝世後 TAH 專輯以「813. 李應元爽朗笑容成追憶 活躍政壇30年以高EQ、好人緣著稱」記錄之（[[works/taiwaneseamericanhistory-org/my-stories-813|My Stories #813]]）。
 - 《台灣學生》主幹時期：與郭倍宏、張信堂、葉宏岳等人定期募款（每月需美金 1,500 元維持全美發行）、每週出刊開會（[[works/taiwaneseamericanhistory-org/ourjourneys238|Our Journeys 238 台灣學生報]]）；傳記見陳銘城・邱國禎《李應元的挑戰》1990-11（[[works/taiwaneseamericanhistory-org/448-e6-9d-8e-e6-87-89-e5-85-83-e7-9a-84-e6-8c-91-e6-88-b0-e9-99-b3-e9-8a-98-e5-9|448. 李應元的挑戰]]）；本人回憶文章「36. 帶尿布的學運領袖」（[[works/taiwaneseamericanhistory-org/mystories36|My Stories #36]]）。
 - 台獨聯盟幹部 records：1989-05-27 Dallas 盟員代表大會選出郭倍宏為主席、李應元為副主席（[[works/taiwaneseamericanhistory-org/ourjourneys234|Our Journeys 234 台獨聯盟美國本部]]）；1993-07 第十五屆大會與台灣學生社合辦夏令會（Athens, GA）擔任講者（[[works/taiwaneseamericanhistory-org/ourjourneys245|Our Journeys 245 美東南區台灣人夏令會簡史]]）。
-- 1990 年 NATPA 第十屆年會回台：黑名單未全解，乃有「李應元翻牆潛入台灣」插曲，該年會為 NATPA 十年來最盛大（會員及眷屬 150 人）（[[works/taiwaneseamericanhistory-org/ourjourneys164|Our Journeys 164「我們這一代的台美人」]]）。
+- 1990 年 NATPA 第十屆年會回台：黑名單未全解，乃有「李應元翻牆潛入台灣」插曲，該年會為 NATPA 十年來最盛大（會員及眷屬 150 人）（[[works/taiwaneseamericanhistory-org/ourjourneys164|Our Journeys 164「我們這一代的台美人」]]）。年會側記另存黑名單談判全程：由十八名減至十三名、最後僅留吳明基與李應元兩位講員（日本郭榮桔返台受阻），李應元屬「按兵不動」之吳明基外的另一極——隨軍翻牆入台；其事引發郝柏村下令阻挠年會開幕貴賓（吳伯雄、黃大洲等臨時退出）（[[works/taiwaneseamericanhistory-org/ourjourneys47|Our Journeys 47 NATPA 回台年會記]]）。
+- 黑名單闖關與土城繫獄：1988–1991 海外黑名單闖關回台潮中，李應元與郭倍宏、陳翠玉、羅益世、陳婉真、王康陸、張燦鍙等陸續返台；1991 年以刑法一百條「預備顛覆」被逮禁見，台大恩師李鎮源院士親赴土城看守所探視，並催生「100行動聯盟」反閱兵運動（[[works/taiwaneseamericanhistory-org/ourjourneys230|Our Journeys 230]]）。狱中書簡見林又新〈永遠的戰士（郭倍宏，李應元土城書簡）〉1993-10（[[works/taiwaneseamericanhistory-org/306-e6-b0-b8-e9-81-a0-e7-9a-84-e6-88-b0-e5-a3-ab-e9-83-ad-e5-80-8d-e5-ae-8f-e6-9|306. 永遠的戰士]]）。
+- 本人筆錄：自傳〈人生的驚嘆號〉（2002-09，[[works/taiwaneseamericanhistory-org/publications277|277. 人生的驚嘆號]]）、回憶〈牽手一生共苦同甘〉（[[works/taiwaneseamericanhistory-org/mystories35-2|My Stories #35]]），與已連結之〈帶尿布的學運領袖〉並列為第一手材料；TAH 百科書目另見 [[works/taiwaneseamericanhistory-org/116-dr-ying-yuan-lee-e6-9d-8e-e6-87-89-e5-85-83-e5-8d-9a-e5-a3-ab|116. Dr. Ying-Yuan Lee 李應元]]。
+- 逝世報導直檔：「李應元辭世 11-30 家祭、12-2 植存法鼓山」（台灣公義報 2021-11-17，[[articles/taiwanjustice-net/2022/20220521160334_2021_11_17_李應元辭世11-30家祭-12-2植存法鼓山_701d4ef787e2e410|TJJ 2021-11-17]]）。
 
 ## Family
 
