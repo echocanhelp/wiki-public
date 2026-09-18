@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-18
 ---
 # Chin-Lung Hu (胡金龍)
 
@@ -27,6 +27,10 @@ last_reviewed: 2026-08-17
 ## Employment
 - Los Angeles Dodgers — Baseball Player — (2007-2010) — New York Mets — Baseball Player — (2011-2011) — Adelaide Giant — Baseball Player — (2011-2011) — Cleveland Indians — Baseball Player — (2012-2012) — EDA Rhinos — Baseball Player — (2013-2016) — Fubon Guardians — Baseball Player — (2017-)
 <!-- tah-tables:end -->
+
+## Role in the Community
+
+- Corpus material is limited to his own TAH Who's Who encyclopedia entry: [[works/taiwaneseamericanhistory-org/whos-who-1748-chin-lung-hu|1748. Chin-Lung Hu 胡金龍]]（2017-07-07）. Listed alongside fellow Taiwanese ballplayers 林哲瑄（#1747）、胡智為（#1746）in the same batch, reflecting TAH's 2017 sports-figure cohort rather than movement organizing.
 
 ## Family
 

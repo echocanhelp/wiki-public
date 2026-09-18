@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-18
 ---
 # Laura G. Ling (凌志美)
 
@@ -29,6 +29,10 @@ Co-author, Somewhere Inside: One Sister's Captivity in North Korea and the Other
 - Journalist and writer — Current TV — Correspondent and vice president of the Vanguard Journalism Unit
 - E! Investigates — host and reporter — Discovery Digital Networks — Director of Development
 <!-- tah-tables:end -->
+
+## Role in the Community
+
+- Her TAH Who's Who encyclopedia entry sits adjacent to her sister 凌志慧's: [[works/taiwaneseamericanhistory-org/133-laura-g-ling-e5-87-8c-e5-bf-97-e7-be-8e|133. Laura G. Ling 凌志美]] vs. [[works/taiwaneseamericanhistory-org/132-lisa-j-ling-e5-87-8c-e5-bf-97-e6-85-a7|132. Lisa J. Ling 凌志慧]]（both 2014-12-03）— the pair documented in the corpus around the 凌 sisters' captivity/family story ([[works/taiwaneseamericanhistory-org/133-laura-g-ling-e5-87-8c-e5-bf-97-e7-be-8e|bibliographic record; full text in vault]]).
 
 ## Family
 
