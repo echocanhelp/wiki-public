@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-17
+last_reviewed: 2026-09-18
 ---
 # Constance Wu (吳恬敏)
 
@@ -51,3 +51,6 @@ Corpus material is bibliographic only (full text stays in the vault); no communi
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+## Corpus check (2026-09-18)
+- SKIP (no new absorbable facts): corpus hits remain the two TAH encyclopedia records already linked above (OTA #240, Who's Who #2183); no community memoir beyond the TAH record itself.

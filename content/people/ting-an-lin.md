@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-17
+last_reviewed: 2026-09-18
 ---
 # Ting-An Lin (林庭安)
 
@@ -45,5 +45,5 @@ _No filled family fields on the TAH profile._
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
-## Corpus check (2026-09-17)
+## Corpus check (2026-09-18)
 - SKIP: no absorbable community facts. Only corpus hit is 司法院釋字第791號（通姦除罪）一文中的「聲請人六 林庭安」— plain-text note in that article already flags it as an unconfirmed name-only match, not linked.
