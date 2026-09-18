@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-18
 ---
 # Kenneth J. Kao (高永仁)
 
@@ -34,6 +34,9 @@ last_reviewed: 2026-08-17
 
 - **Father:** Daniel Kao Mother:Lily Kao
 
+
+## Role in the Community
+- TAH Foundation Who's Who record **#2077** (published 2018-03-25): [[works/taiwaneseamericanhistory-org/whoswho2077|2077. Kenneth J. Kao 高永仁 / 03/2018]] — bibliographic record only; full biographical text stays in the TAH vault.
 
 ## Sources
 - [TAH #2077 encyclopedia: 2077. Kenneth J. Kao 高永仁 / 03/2018](https://taiwaneseamericanhistory.org/whoswho2077/)
