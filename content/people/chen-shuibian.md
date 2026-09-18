@@ -36,6 +36,7 @@ last_reviewed: 2026-09-17
 - 2015-01-07 — A TJJ reprinted examination (Micheal Richardson, examiner.com) reports Chen's 2015-01-05 one-month medical parole — granted, it argues, only after 呂秀蓮's hunger strike forced the ROC Ministry of Justice's hand — and notes all but one of his corruption charges had been dismissed on appeal, with the remaining case's chief witness admitting perjury ([[articles/taiwanjustice-net/2024/20240425074240_root_795e52aadf3797a0|TJJ, 2015-01-07]]).
 - 2013-06-05 — 陳順盛醫師發布第三次台中監獄探訪後的專訪報導（Michael Richardson 譯述）：陳自述兩個月內兩度自縊的動機——對台灣獨立的執念、對民進黨及總統候選人全數迴避台獨的失望、對自身處境無望而陷入重度憂鬱；並自述其三步中國policy（「台灣就是中華民國」→「台灣不是中國」→「中台兩國論」）及廢除國統綱領、以台灣名義申請聯合國與WTO導致被囚 —— [[articles/taiwanjustice-net/2024/20240425071249_root_69b4f44f9c019bd5|TJJ, 2013-06-10]]。
 - 2016-04-11 — TJJ 轉載 Taipei Times 社論：扁案審判與偵查被指程序瑕疵處處；社論認為特赦等於承認有罪，應由新政府設特別委員會重查審判程序瑕疵與政治介入 —— [[articles/taiwanjustice-net/2024/20240619171645_root_c0530664ab4c2948|TJJ 轉載 Taipei Times 社論，2016-04-11]]。
+- 2012-04-27 — TJJ「Ed Royce」標籤頁存檔（2024-06-13 快照）收錄 2012-04-27 新聞：與馬英九友好的美國國會議員（Ed Royce 系統）籲請中華民國釋放陳水扁 —— [[articles/taiwanjustice-net/2024/20240613111437_root_432e1fca739d02b8|TJJ Ed Royce 標籤頁，2024-06-13 存檔]]。
 
 ## Role in the Community
 

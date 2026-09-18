@@ -6,7 +6,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-17
 ---
 # 蕭樂善
 
@@ -30,6 +30,11 @@ last_reviewed: 2026-08-17
 - 大同中學 — 1946-1950 — 英文教師
 - 駐台美軍第七艦隊 — 1952-1959 — 牧師(以英語主持禮拜)
 <!-- tah-tables:end -->
+
+## Role in the Community
+- First pastor of the Washington-area Taiwanese Christian fellowship that became 華府基督長老教會 (per the church's 三十年特刊 11/2003, cited in [[works/taiwaneseamericanhistory-org/whos866|866. 蕭樂善 / 2016/03]]).
+- His daughter's memoir [[works/taiwaneseamericanhistory-org/ourjourneys215|215. The Beginning of Our Church / En Chin Chen / 04/2016]] (band A) records that in 1973–74 he presided over the first Bible studies and weekly Sunday services at the Chen home in Camp Springs, MD (~20 attendees) — the nucleus of the church now in Derwood, MD (built 2012).
+- The memoir recalls his 1940s interim ministry at Sin-Tiam (新店教會), hosting members who walked four-hour mountain trails for lunch after service — consistent with the 1940–1946 新店教會 pastor entry above. Author En Chin Chen is daughter [[people/enchin-shaw-chen|蕭永真]].
 
 ## Family
 

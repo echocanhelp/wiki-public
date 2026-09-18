@@ -7,7 +7,8 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-17
+skip_note: "deepen-x 2026-09-17: corpus hits are own band-B TAH bibliographic records only; no absorbable community facts"
 ---
 # Lin Chang-Chien Chu (林張簡菊)
 
@@ -38,5 +39,7 @@ last_reviewed: 2026-08-17
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/lin-chang-chien-chu/)
 
 ## Related Pages
+- [[works/taiwaneseamericanhistory-org/whos-who-2239-lin-chang-chien-chu|2239. Lin Chang-Chien Chu 林張簡菊]]
+- [[works/taiwaneseamericanhistory-org/senior-taiwanese-american-36|36. Lin Chang-Chien Chu (林張簡菊)]]
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

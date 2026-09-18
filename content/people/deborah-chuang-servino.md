@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-17
 ---
 # Deborah Chuang Servino
 
@@ -20,6 +20,10 @@ last_reviewed: 2026-08-17
 - **Source:** TAH Foundation Who’s Who
 
 Appointed as Orange County Superior Court Judge by Governor Arnold Schwarzenegger in 2009
+
+## Role in the Community
+
+SKIP-with-reason (2026-09-17 deepen-x): corpus grep found only bibliographic stubs — [[works/taiwaneseamericanhistory-org/91-tyzen-hsiao-e8-95-ad-e6-b3-b0-e7-84-b6|TAH record 91 (2014-11-15)]] lists her as a mentioned subject (full text in vault, copyright) and taiwanjustice.net has a bare author/tag page. No absorbable community/memoir facts beyond the TAH Who's Who snapshot already on this page.
 
 <!-- tah-tables:start -->
 ## Education

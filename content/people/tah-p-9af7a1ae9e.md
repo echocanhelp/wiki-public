@@ -6,7 +6,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-17
 ---
 # 陳金松
 
@@ -34,6 +34,13 @@ last_reviewed: 2026-08-17
 ## Family
 
 _No filled family fields on the TAH profile._
+
+## Role in the Community
+- Held two TAH encyclopedia entries: a profile (463) and a performing-arts entry explicitly styled "Tenor, Conductor" (223), both published 2015-06-28 — the corpus record frames him primarily as a vocalist/conductor rather than only an artist-educator.
+  - [[works/taiwaneseamericanhistory-org/223-e9-99-b3-e9-87-91-e6-9d-betenorconductor-201506|223. Jin Song Chen 陳金松, Tenor, Conductor]]
+  - [[works/taiwaneseamericanhistory-org/463-e9-99-b3-e9-87-91-e6-9d-be-201506|463. 陳金松]]
+- Consistent with the Peabody Conservatory 聲樂 (voice) degree and teaching posts at Peabody Prep, Antioch, Baltimore and Catonsville colleges.
+- HOLD: conflict — snapshot "Core roles: artist, educator" vs corpus title "Tenor, Conductor"; not merged pending owner confirmation.
 
 ## Sources
 - [TAH #463 encyclopedia: 463. 陳金松 / 2015/06](https://taiwaneseamericanhistory.org/463-%e9%99%b3%e9%87%91%e6%9d%be-201506/)

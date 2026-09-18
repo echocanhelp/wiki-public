@@ -7,7 +7,8 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-17
+skip_note: "deepen-x 2026-09-17: corpus hit is own band-B TAH bibliographic record only; no absorbable community facts"
 ---
 # Ssu-Yu Huang (黃思瑜)
 
@@ -41,5 +42,6 @@ _No filled family fields on the TAH profile._
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/ssu-yu-huang/)
 
 ## Related Pages
+- [[works/taiwaneseamericanhistory-org/whos-who-2177-ssu-yu-huang|2177. Ssu-Yu Huang 黃思瑜]]
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
