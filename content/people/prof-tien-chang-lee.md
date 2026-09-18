@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-18
 ---
 # Prof. Tien-Chang Lee (李典常)
 
@@ -31,6 +31,11 @@ Prof. Tien-Chang Lee 李典常教授 – History of Taiwanese American (T.A. Arc
 ## Employment
 - Year
 <!-- tah-tables:end -->
+
+## Role in the Community
+
+- Corpus grep (works/articles) returns only his own TAH record page; no memoir or community-corpus mentions found beyond the Who's Who entry — nothing further absorbable this pass.
+- His own TAH story record: [[works/taiwaneseamericanhistory-org/2301-prof-tien-chang-lee|2301. Prof. Tien-Chang Lee 李典常教授]]（2020-12-25 刊，value band B；書目紀錄，全文在 vault）.
 
 ## Family
 

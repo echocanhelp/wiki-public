@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-18
 ---
 # Dr. Ming Liang Pan (潘銘梁博士)
 
@@ -28,6 +28,11 @@ last_reviewed: 2026-08-17
 ## Employment
 - University of California, Irvine — Assistant Project Scientist
 <!-- tah-tables:end -->
+
+## Role in the Community
+
+- Corpus grep (works/articles) returns only his own TAH record page; no memoir or community-corpus mentions found beyond the Who's Who entry — nothing further absorbable this pass. (Note: index entry 4153 「22. Prof. Ming Liang Lee 李明亮教授」 is a different person — 李明亮, not 潘銘梁.)
+- His own TAH encyclopedia record: [[works/taiwaneseamericanhistory-org/whos-who-2060-ming-liang-pan|2060. Dr. Ming Liang Pan 潘銘梁博士]]（2018-03-10 刊，value band B；書目紀錄，全文在 vault）.
 
 ## Family
 
