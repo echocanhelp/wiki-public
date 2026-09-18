@@ -22,6 +22,8 @@ The Global Taiwan Institute (GTI) is a think tank dedicated to strengthening US-
 
 - 2016-09-14 GTI 在華府（DC）創立，TAH 檔案庫以「9. The beginning of GTI (Global Taiwan Institute 全球台灣研究中心) in DC, Sept. 14, 2016.」留檔（[[works/taiwaneseamericanhistory-org/important2016-9|TAH 檔案庫 #9]]）。
 - 組織简介與通訊均入藏 TAH：「47. History of GTI (Global Taiwan Institute)全球台灣研究中心簡介」（[[works/taiwaneseamericanhistory-org/history-of-gti-global-taiwan-institute|TAH 檔案庫 #47]]）、GTI 通訊（[[works/taiwaneseamericanhistory-org/newsletter-of-global-taiwan-institute|GTI Newsletter]]）、GTI 條目（[[works/taiwaneseamericanhistory-org/global-taiwan-institute|TAH 檔案庫 GTI 頁]]）。
+- 2016年由駐紐西蘭前代表葉介庭（Chieh-Ting Yeh）與其他几位前大使共同創辦，定位為「public policy incubator」，以增進台灣與各國（尤其美國）之關係——此為 Formosa Foundation 回顧文所載之第一手社群記錄（[[works/taiwaneseamerican-org/farewell-formosa-foundation|Farewell, Formosa Foundation]]），與本页「From the record」2022-08-05 CNA 報導（葉介庭任職 GTI）互相印證。
+- 2020-10 GTI 主辦「GTI Taiwanese Film Week」，台美人電影節指南將放映活動註記「hosted by Global Taiwan Institute」（[[works/taiwaneseamerican-org/ta-film-festival-guide-2020|TA Film Festival Guide 2020]]）。
 - 台美人學習資源網收錄其委託 Thomas J. Shattuck 撰寫的轉型正義專文〈Transitional Justice in Taiwan: A Belated Reckoning with the White Terror〉，論白色恐怖時期真相調查不足與檔案開放法制改革（[[works/taiwaneseamerican-org/remembrance-resources-learning-about-228|228 紀念學習資源頁]]）。
 
 ## Sources
