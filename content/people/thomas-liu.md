@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-18
 ---
 # Thomas Liu (劉天良)
 
@@ -31,6 +31,11 @@ last_reviewed: 2026-08-17
 - Northrop — 1981-85 — Programmer
 - Douglas Aircraft Company — 1985-91 — Section Manager
 <!-- tah-tables:end -->
+
+## Role in the Community
+- 1985 — Listed as a consultant (顧問) of the 台美公民協會 (Taiwanese American Citizens League) Preparatory Committee, per the committee's own introduction published in 台灣公論報 369 (1985-04-15), preserved in [[works/taiwaneseamericanhistory-org/ourjourneys186|TAH story #186]] (English: [[works/taiwaneseamericanhistory-org/ourjourneys186-eng|#186-eng]]).
+- 2016-03 — Authored a personal essay "My X-Ray" for the TAH story collection: [[works/taiwaneseamericanhistory-org/mystories421-my-x-ray|TAH story #421]].
+- 2016-04 — Donated his personal archive to TAH: "Collection of Mr. Thomas Liu 劉天良先生的收藏", [[works/taiwaneseamericanhistory-org/collection-of-mr-thomas-liu|TAH story #27]].
 
 ## Family
 

@@ -6,7 +6,7 @@ tags:
   - Taiwanese-American
   - Taiwan-Center-group-member
 verification_status: published
-last_reviewed: 2026-07-16
+last_reviewed: 2026-09-18
 ---
 # Formosan Association for Public Affairs Orange County (FAPA- OC)
 
@@ -18,6 +18,9 @@ last_reviewed: 2026-07-16
 - **English (as listed):** Formosan Association for Public Affairs Orange County (FAPA- OC)
 - **Relation:** Taiwan Center group member (official listing)
 - **Source:** https://www.taiwancenter.org/group-members · `taiwancenter-org-group-members.md`
+
+## Role in the Community
+- TAH holds a dedicated community record of the chapter's activities: "台灣人公共事務會柑縣分會的活動", published 2019-03-24 — [[works/taiwaneseamericanhistory-org/activities-of-fapa-oc|TAH story: activities of FAPA-OC]]. The chapter's presence in the movement record therefore extends beyond the Taiwan Center group-member listing.
 
 ## Source Notes
 

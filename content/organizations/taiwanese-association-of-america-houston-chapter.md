@@ -30,7 +30,5 @@ The Taiwanese Association of America – Houston Chapter (TAA-HC, 休士頓台�
 
 ## Related Pages
 - [[organizations/taiwanese-association-of-america|Taiwanese Association of America]]
-
-## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

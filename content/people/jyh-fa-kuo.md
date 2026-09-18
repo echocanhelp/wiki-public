@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-18
 ---
 # Jyh-Fa Kuo (郭智化)
 
@@ -37,6 +37,10 @@ last_reviewed: 2026-08-17
 - **Son:** Calvin Kuo
 - **Daughter:** Frances Kuo
 
+
+## Role in the Community
+
+SKIP-with-reason (2026-09-18): the sole corpus record is his own TAH encyclopedia entry, story #1322 ([[works/taiwaneseamericanhistory-org/whoswho1322|1322. Jyh – Fa Kuo 郭智化 / 2016/10]]), held as a bibliographic record only (full text stays in the vault) — no absorbable community facts beyond the existing Who's Who snapshot. No other memoir or article in content/works or content/articles names him, his wife Alexandra W.H. Lou, or his children.
 
 ## Sources
 - [TAH #1322 encyclopedia: 1322. Jyh – Fa Kuo 郭智化 / 2016/10](https://taiwaneseamericanhistory.org/whoswho1322/)
