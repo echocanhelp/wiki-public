@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-18
 ---
 # Hung-Yi Shau (蕭鴻宜博士)
 
@@ -37,6 +37,10 @@ Scientific Review Officer
 ## Family
 
 _No filled family fields on the TAH profile._
+
+## Role in the Community
+- Recorded in the TAH encyclopedia as record 1562: [[works/taiwaneseamericanhistory-org/whoswho1562|1562. Hung-Yi Shau 蕭鴻宜]] (published 2017-03-19, value band B).
+- No memoir/corpus narrative beyond the Who's Who entry itself — nothing community-absorbable found; page deepened with the corpus work link only.
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/hung-yi-shau/)

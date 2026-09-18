@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-18
 ---
 # David Chu (朱欽騏)
 
@@ -34,6 +34,10 @@ last_reviewed: 2026-08-17
 ## Family
 
 _No filled family fields on the TAH profile._
+
+## Role in the Community
+- Recorded in the TAH encyclopedia as record 177: [[works/taiwaneseamericanhistory-org/177-david-chu-e6-9c-b1-e6-ac-bd-e9-a8-8f|177. David Chu 朱欽騏]] (published 2014-12-28, value band B), catalogued in the [[works/index|TAH story index]].
+- Otherwise absent from memoir/corpus narrative — the only other corpus match ("David Chun-Ming Lai", [[works/taiwaneseamericanhistory-org/ourjourneys305|Our Journeys 305]]) is a different person (牧師 David Chun-Ming Lai 賴), not this David Chu; no community-activity facts absorbed.
 
 ## Sources
 - [TAH #177 encyclopedia: 177. David Chu 朱欽騏](https://taiwaneseamericanhistory.org/177-david-chu-%e6%9c%b1%e6%ac%bd%e9%a8%8f/)
