@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-18
 ---
 # Chi Shih Huang (黃及時)
 
@@ -36,6 +36,11 @@ last_reviewed: 2026-08-17
 - **Son:** Gary黃文瑜
 - **Daughter:** Gloria黃文慈
 
+
+## Role in the Community
+- 2014-08 — At a Los Angeles forum on the Kaohsiung gas explosion (高雄氣爆) hosted by legislator 管碧玲, 黃及時 joined other overseas Taiwanese residents (僑民) urging the Kaohsiung city government to hold firm on relocating petrochemical industry out of the city, to press the central government for Kaohsiung's rights, and to legislate oversight of underground pipelines — recorded in [[articles/taiwanjustice-net/2022/20221204220110_2014_08_19_管碧玲立委高雄氣爆災變專題報告上-08172014大洛杉磯_ccbce02a3dc917ff|管碧玲立委高雄氣爆災變專題報告（大洛杉磯僑民座談）]].
+- Featured in the TAH Foundation Who's Who encyclopedia entry [[works/taiwaneseamericanhistory-org/whoswho1129|1129. Chi Shih Huang 黃及時 / 2016/07]] (2016-07-10).
+- Oral-history/video interview as 董事長: [[works/taiwaneseamericanhistory-org/videos52|52. 專訪黃及時董事長]] (2017-02-27).
 
 ## Sources
 - [TAH #1129 encyclopedia: 1129. Chi Shih Huang 黃及時 / 2016/07](https://taiwaneseamericanhistory.org/whoswho1129/)
