@@ -1,13 +1,13 @@
 ---
 title: "Dr. Justina Hwang (黃貞琪博士)"
 type: person
-name_en: "Dr. Justina Hwang"
 name_zh: "黃貞琪博士"
+name_en: "Dr. Justina Hwang"
 tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-18
 ---
 # Dr. Justina Hwang (黃貞琪博士)
 
@@ -16,7 +16,7 @@ last_reviewed: 2026-08-17
 - **Chinese:** 黃貞琪博士
 - **Era:** 1988
 - **Geography:** Monterey Park, CA
-- **Core roles:** Taiwanese American (TAH Who’s Who)
+- **Core roles:** historian (TAH Who’s Who)
 - **Source:** TAH Foundation Who’s Who
 
 Accomplishment
@@ -31,6 +31,10 @@ Accomplishment
 - Brown University — Teaching Assistant — (2012-2014) — Codementor — Content Marketing Specialist — (2017-)
 <!-- tah-tables:end -->
 
+## Role in the Community
+
+The TAH story corpus carries her Who's Who entry 「2042. Dr. Justina Hwang 黃貞琪博士」, published 2018-02-23 ([[works/taiwaneseamericanhistory-org/whos-who-2042-justina-hwang|TAH #2042]]; bibliographic record only, full text in the live archive). Her documented field — a Brown Ph.D. in History with a Latin American and Caribbean Studies dissertation fellowship — is historiography itself, matching the community-record mission that hosts this entry. No further corpus narrative was found to absorb; no biography invented.
+
 ## Family
 
 - **Father:** Tony Hwang
@@ -44,3 +48,4 @@ Accomplishment
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- [[works/taiwaneseamericanhistory-org/whos-who-2042-justina-hwang|TAH #2042 — Who's Who entry]]
