@@ -39,6 +39,10 @@ _No filled family fields on the TAH profile._
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
+## Role in the Community
+- Encyclopedia record: [[works/taiwaneseamericanhistory-org/whoswho921|921. 李彥秀 / 2016/04]] (TAH Who's Who, Illinois physician).
+- HOLD (identity): the "From the record" TJJ entries below describe the KMT legislator 李彥秀 (Taipei 4th district / 國民黨文傳會主委), while this page's TAH profile is a practicing internist/pulmonologist in Bolingbrook, Illinois. The TJJ 2020當選名單 record itself flags this as a coincidental name match, not the TAH physician — entries kept for review, never auto-merged (deepen-x re-grep 2026-09-18).
+
 ## From the record
 
 - 2019-12-18 — 台北市區域立委候選人號次抽籤：李彥秀（國民黨）在第四選區（內湖、南港）抽得2號，同區對手含抽得5號的民進黨高嘉瑜；國民黨陪同參選人造勢高喊八仙過海、八席全上（[[articles/taiwanjustice-net/2025/20251115143423_北市區域立委號次_蔣萬安4吳怡農2_藍綠造勢互有_d4a7f9e55282396a|TJJ/中央社記者報導, 2019-12-18]]）。
