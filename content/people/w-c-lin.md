@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-18
 ---
 # W.C. Lin (林文釗)
 
@@ -32,6 +32,15 @@ last_reviewed: 2026-08-17
 - 成立EGW國際公司 — 1980-1981 — 房地產經紀
 - 成立EGW出版公司 — 1982 — 發行人
 <!-- tah-tables:end -->
+
+## Role in the Community
+- 石清正's community memoir 「在矽谷創業臺美人」 (2014-09-05, band A — primary material) names 林文釗 among the Taiwanese entrepreneurs who built Silicon Valley: 「1979年 林文釗創立EGW Publishing Company，出版多種英文雜誌及書籍。台灣人辦英文雜誌是很特殊的創業，可見他有過人的才氣。」 — the memoir frames a Taiwanese running an English-language magazine house as an exceptional venture. See [[works/taiwaneseamericanhistory-org/ourjourneys19|19. 在矽谷創業臺美人/石清正/2014/09]].
+- HOLD: conflict on EGW Publishing Company founding year — 1979 (石清正 memoir, ourjourneys19) vs 1982 (TAH Who's Who employment table). Not merged.
+- His own encyclopedia entry is held as [[works/taiwaneseamericanhistory-org/898-w-c-lin-e6-9e-97-e6-96-87-e9-87-97-201603|898. W.C. Lin 林文釗 / 2016/03]] (published 2016-03-20).
+
+### Timeline
+- 1979 — founded EGW Publishing Company per 石清正's memoir (HOLD vs 1982 in TAH profile).
+- 2016-03-20 — recorded in the TAH Foundation encyclopedia (#898).
 
 ## Family
 
