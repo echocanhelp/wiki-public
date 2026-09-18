@@ -36,6 +36,11 @@ last_reviewed: 2026-08-17
 - **Son:** King Han Yao
 
 
+## Role in the Community
+
+- Community record held in the corpus as [[works/taiwaneseamericanhistory-org/304-ho-chu-yao-e5-a7-9a-e5-bc-b5-e5-92-8c-e7-8f-a0201502|TAH encyclopedia record #304 (2015-02-19)]] — bibliographic record only; no memoir text in the vault names her further.
+- Corpus connects her to her husband [[people/ching-jang-yao|姚慶章]]'s own TAH records: [[works/taiwaneseamericanhistory-org/41-e5-a7-9a-e6-85-b6-e7-ab-a0-ching-jang-yao201504|TAH record #41 (2015-04)]] and [[works/taiwaneseamericanhistory-org/whoswho907|TAH encyclopedia record #997 (2016-05-20)]] — a documented couple pair in the Taiwanese American community record.
+
 ## Sources
 - [TAH #304 encyclopedia: 304. Ho Chu Yao 姚張和珠/2015/02](https://taiwaneseamericanhistory.org/304-ho-chu-yao-%e5%a7%9a%e5%bc%b5%e5%92%8c%e7%8f%a0201502/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/ho-chu-yao/)
