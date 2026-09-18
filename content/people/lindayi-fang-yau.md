@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-18
 ---
 # Linda Yi-Fang Yau (劉義芳)
 
@@ -32,6 +32,16 @@ last_reviewed: 2026-08-17
 
 - **Husband:** [[people/william-yau||姚火草]]
 - **Son:** 2
+
+## Role in the Community
+
+Beyond the press-kit bio, the corpus documents 劉義芳 as an active institutional figure in the Taiwanese American community, based in Colorado:
+
+- **HAPA-NA 理事:** listed in the 2016 board roster of the 北美臺灣客家公共事務協會 (Taiwan Hakka Association for Public Affairs in North America) as 理事 劉義芳 (Linda Y. Yau, Colorado phone) — [[works/taiwaneseamericanhistory-org/ourjourneys290|TAH #290 北美臺灣客家公共事務協會, 徐民忠, 2017-05]]; organization page [[organizations/taiwan-hakka-association-for-public-affairs-in-north-america|HAPA-NA]].
+- **TAA 僑委 / 2022 回台參訪團:** identified as 「全美會的劉義芳僑委」 photographed before the 雄三飛彈 model during the Taiwanese Association of America's October 2022 delegation to Taiwan ([[works/taiwaneseamericanhistory-org/our-journeys-383|TAH #383 2022年全美會回台參訪記(下)]]), and seated at the banquet with 賴清德副總統 in the group photo back row ([[works/taiwaneseamericanhistory-org/our-journeys-382|TAH #382 (上)]]) — organization page [[organizations/taiwanese-association-of-america|TAA]].
+- Her own TAH profile record is held at [[works/taiwaneseamericanhistory-org/whos-lindayi-fang-yau|TAH #1566, 2017-03]].
+
+These civic roles (Hakka public-affairs board member, TAA 僑委) sit alongside her TAH-table career as a restaurant owner (中餐館、日本料理店, 1976–2002) — complementary, not conflicting.
 
 
 ## Sources
