@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-17
+last_reviewed: 2026-09-18
 ---
 # Prof. Gwo Jaw Wang (王國照教授)
 
@@ -37,6 +37,8 @@ Community memoirs document his standing in the Taiwanese American medical commun
 - His autobiographical essay 《重披白袍》 (2010) is in the corpus: [[works/taiwaneseamericanhistory-org/865-dr-wang-autobiography|865. 重披白袍 / 王國照 / 2010/01 / Autobiography自傳]].
 - He also wrote on the pioneering generation: 《台灣醫生在美國的初期情況》 ([[works/taiwaneseamericanhistory-org/ourjourneys176|176. 台灣醫生在美國的初期情況 / 王國照 / 2015/10]]).
 - A fellow physician's memoir on the 台灣人醫師協會 (NATMA) records him hosting the Virginia branch program at which English presentation was enforced for CME accreditation ([[works/taiwaneseamericanhistory-org/ourjourneys201|台灣人醫師協會回憶（Our Journeys 201）]]) — evidence of leadership roles within NATMA beyond his university posts.
+
+- His own TAH encyclopedia entry is archived in the corpus: [[works/taiwaneseamericanhistory-org/whos-who-599-gwo-jaw-wang|599. Prof. Gwo Jaw Wang 王國照教授]].
 
 ## Family
 

@@ -21,6 +21,10 @@ last_reviewed: 2026-08-30
 
 
 
+## From the record
+
+- 2024-05-13 — 撰文稿報導以立合唱團赴 Pasadena Mayfield Junior High School 全校早禱會介紹台灣、演唱「天烏烏」的文化交流活動，並留下影音紀錄，自稱此應為台美人團體第一次到美國學校向美國小孩介紹台灣唱台灣民謠（[[articles/taiwanjustice-net/2024/20240622135632_root_54dd66fe454bf899|TJJ, 2024-05-29]]；同稿另見 [[articles/taiwanjustice-net/2025/20250617205127_一場獲滿堂彩的文化交流-以立合唱團為美國中學生_9412105875987041|2025 存檔]]）。
+
 ## TJ Citations
 
 Top 10 articles from taiwanjustice.net mentioning gong-sun-le:
