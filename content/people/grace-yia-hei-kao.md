@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-18
 ---
 # Grace Yia-Hei Kao
 
@@ -31,6 +31,13 @@ last_reviewed: 2026-08-17
 - Claremont School of Theology — 2009-Present — Associate Professor of Ethics
 - Center of Sexuality, Gender, and Religion — Present — Co-Director
 <!-- tah-tables:end -->
+
+## Role in the Community
+
+- Raised in a Taiwanese American church — she names this directly in her essay «Passing" for White to Get Into Harvard? ([[works/taiwaneseamerican-org/guest-post-e2-80-9cpassing-e2-80-9d-for-white-to-get-into-harvard|Guest Post: "Passing" for White to Get Into Harvard?]], taiwaneseamerican.org, 2012-02-17), where she wrote as a guest author on Asian American admissions and identity.
+- In that same essay she is identified as Associate Professor of Ethics at Claremont School of Theology (Claremont Lincoln University Consortium) and author of *Grounding Human Rights in a Pluralist World* (Georgetown University Press, 2011), then working on a second book on Asian American Christian ethics — consistent with the TAH Employment table above.
+- Held in the TAH story corpus as a community record: [[works/taiwaneseamericanhistory-org/802-grace-yia-hei-kao-201602|802. Grace Yia-Hei Kao / 2016/02]] (published 2016-02-06).
+- Per the TAH profile, first Asian American woman awarded tenure at Claremont School of Theology.
 
 ## Family
 
