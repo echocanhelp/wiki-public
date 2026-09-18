@@ -33,6 +33,12 @@ Senior Staff Engineer to Engineering Consultant
 - Houston Offshore Engineering, etc. — 2001- 2014 — Senior Staff Engineer to Engineering consultant
 <!-- tah-tables:end -->
 
+## Role in the Community
+
+- **1970年前休士頓台灣人社群核心成員**：陳淮崇回憶錄記載，呂理順夫婦為1969年前即定居休士頓、促成休士頓台灣人同鄉會成立的一代鄉親 [[works/taiwaneseamericanhistory-org/ourjourneys-139||139. 回憶三十年前休士頓台灣同鄕會的成立／陳淮崇]]。
+- **自身回憶錄兩篇**：休城生涯五十多年 [[works/taiwaneseamericanhistory-org/mystories444||444. 回顧休城生涯五十多年（2016-06）]]；一九七零年前休城台灣人狀況（A級社區史料）[[works/taiwaneseamericanhistory-org/our-journeys-359||359. 一九七零年前休城臺灣人的狀況（2020-09）]]。
+- TAH encyclopedia record: [[works/taiwaneseamericanhistory-org/whos1080-li-shun-lu||1080. Li-Shun Lu 呂理順]]（2016-06）。
+
 ## Family
 
 - **Wife:** 謝清實
