@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-18
 ---
 # Taiwanese American Professionals Washington D.C.
 
@@ -17,6 +17,12 @@ last_reviewed: 2026-08-17
 - **Core roles:** Community organization (TAH directory)
 
 Taiwanese American Professionals Washington D.C. (TAP-DC) is a chapter of the Taiwanese American Citizens League (TACL), a 501(c)(3) nonprofit run entirely by volunteers. TAP-DC serves the Taiwanese American community in the greater Washington D.C., Maryland, and Virginia area. The chapter is 100% volunteer-run and community-fueled, with programming that includes TAPpy Hours, cultural events, community service, career panels, and advocacy-oriented events in collaboration with the Taiwanese American Lawyers Committee. TAP-DC hosted the 2024 TACL National Convention.
+
+## Role in the Community
+
+- The corpus holds the historical record of the parent name 台美菁英協會 (Taiwanese American Professionals): [[works/taiwaneseamericanhistory-org/taiwanese-american-professionals-tap|1. Taiwanese American Professionals (TAP) 台美菁英協會]] (published 2014-10-12).
+- HOLD: lineage conflict — this page's directory description lists TAP-DC as a TACL chapter, while the corpus places the TAP (台美菁英協會) name in a separate chapter family: [[works/taiwaneseamericanhistory-org/activities-of-orange-county-chapter-tap|TAP-OC 橙縣分會]], [[works/taiwaneseamericanhistory-org/taiwanese-american-professionals-tap|TAP general]], [[works/taiwaneseamericanhistory-org/35-taiwanese-american-professionals-of-seattle-scholarship-award|TAP Seattle 獎學金]], [[works/taiwaneseamericanhistory-org/24-taiwanese-american-professionals-san-francisco-chapter-tap-sf-scholarship|TAP-SF 獎學金]]. Never merged the two lineages; both claims kept.
+- No corpus record mentions a D.C./DMV chapter by name.
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-american-professionals-washington-d-c/)

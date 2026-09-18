@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-18
 ---
 # Dr. Kuen-Shii Tsay (蔡坤喜醫師)
 
@@ -30,6 +30,10 @@ Accomplishment
 ## Employment
 - C.P.W. Whole Health Center — Physician — Community — Taiwan Chamber of Commerce of New England — President — TCCNA (北美洲台商總會) — Chairman
 <!-- tah-tables:end -->
+
+## Role in the Community
+
+- Own TAH encyclopedia record preserved in the corpus: [[works/taiwaneseamericanhistory-org/whos-who-2098-kuen-shii-tsay|2098. Dr. Kuen-Shii Tsay 蔡坤喜醫師]] (published 2018-04-21). This is the sole corpus mention — no memoir or article material beyond the Who's Who entry.
 
 ## Family
 
