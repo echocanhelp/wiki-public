@@ -36,6 +36,7 @@ Jacqueline Whang-Peng 彭汪嘉康 – History of Taiwanese American (T.A. Archi
 - **First female scientist at the U.S. National Institutes of Health (1976)** — recorded in the T.A. Archives work [[works/taiwaneseamericanhistory-org/ff316|316. Jacqueline Whang-Peng 彭汪嘉康 / The first female Scientist in National Institutes of Health / 1976]].
 - **Arthur S. Flemming Award (1971)** — federal-government recognition of outstanding public service, recorded in the T.A. Archives work [[works/taiwaneseamericanhistory-org/arthur-s-flemming-award-jacqueline-whang-peng-1971|33. Arthur S. Flemming Award / Jacqueline Whang-Peng 彭汪嘉康 / 1971]].
 - **「台灣癌症醫學之母」** — Her cancer-medicine career was profiled in the 台灣演義 episode of 2021-08-22, preserved in the corpus record [[articles/taiwanjustice-net/2025/20250420101657_category_taiwan-culture_page_87_1156c9442b53f466|台灣演義 20210822 台灣癌症醫學之母 彭汪嘉康]].
+- Her encyclopedia biography is preserved in the corpus as [[works/taiwaneseamericanhistory-org/whoswho1522|TAH #1522 — Jacqueline Whang-Peng 彭汪嘉康 (2017-02)]] (band B).
 
 ## Family
 
