@@ -34,6 +34,8 @@ Ms. Mei-Shing Wang was born in Taipei in 1944 and graduated from The Art Departm
 - Featured in the TAH encyclopedia twice: card [[works/taiwaneseamericanhistory-org/whoswho1592|1592. Mei Shing Wang 王美幸 / 2017/03]] and profile 66.
 - First-person contributor to the TAH story corpus: memoir essays [[works/taiwaneseamericanhistory-org/mystories535|535. 感恩．祝福 / 王美幸 / 2017/03]] and [[works/taiwaneseamericanhistory-org/mystories537|537. 王美幸的繪畫生涯 / 王美幸 / 2017/03]] — her own account of her painting life, primary source for this page.
 - Co-authored the 2006/06 art catalogue [[works/taiwaneseamericanhistory-org/publications1089|1089. 生命愛土地 (with 汪壽寧、周月秀、孫明煌)]] — group exhibition publication; co-exhibitors have no vault person pages yet.
+- Solo exhibition record: [[works/taiwaneseamericanhistory-org/artshow15|15. Meishing Wang's Art Show of Oil Paintings and Glass Artworks 王美幸油畫/琉璃展—彩虹般的光與色, San Diego, CA, 05/03–05/23, 2017]] — documents her move into glass artworks alongside oil painting, exhibited in San Diego (absorbed deepen-x slice 09180131-14).
+- Own art catalogue [[works/taiwaneseamericanhistory-org/publications1088|1088. 燦爛時光 / 王美幸 / Art 畫冊]] (era 2017) — solo publication, companion to the exhibition record.
 
 ## Family
 

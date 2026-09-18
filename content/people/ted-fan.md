@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-17
+last_reviewed: 2026-09-18
 ---
 # Dr. Ted Fan (范少達博士)
 
@@ -57,3 +57,4 @@ _No filled family fields on the TAH profile._
 - Re-grep re-run in deepen-x slice 09162200-9 (2026-09-16): hit set unchanged — ourjourneys162 中/EN (absorbed above), own #111/#1220 records (wikilinked above), works index. SKIP-no-new-material.
 - Re-grep re-run in deepen-x slice 09170130-5 (2026-09-17): hit set unchanged — ourjourneys162 中/EN (absorbed above), own #111/#1220 records (wikilinked above), works index. SKIP-no-new-material.
 - Re-grep re-run in deepen-x slice 09170500-3 (2026-09-17): hit set unchanged — ourjourneys162 ZH/EN (absorbed above), own #111/#1220 records (wikilinked above), works index. SKIP-no-new-material.
+- Re-grep re-run in deepen-x slice 09180131-3 (2026-09-18): hit set unchanged — ourjourneys162 ZH/EN (absorbed above), own #111/#1220 records, works index. SKIP-no-new-material; page saturated.

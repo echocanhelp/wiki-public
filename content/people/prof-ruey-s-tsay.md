@@ -56,3 +56,4 @@ _No filled family fields on the TAH profile._
 - 複核（deepen-x slice-15 2026-09-16）：re-grep 結果相同（#1793 + index only）— 維持 SKIP。
 - 複核（deepen-x slice-09170130-12 2026-09-17）：re-grep 蔡瑞胸 / Ruey S. Tsay 結果相同（#1793 + index only）— 維持 SKIP。
 - 複核（deepen-x slice-09170500-9 2026-09-17）：re-grep 蔡瑞胸 / Ruey S. Tsay 結果相同（#1793 only）— 維持 SKIP。
+- 複核（deepen-x slice-09180131-10 2026-09-18）：re-grep 蔡瑞胸 / Ruey S. Tsay 結果相同（#1793 + index only）— 維持 SKIP。
