@@ -34,7 +34,7 @@ _No filled family fields on the TAH profile._
 
 ## From the record
 
-- 2024-02-28 — 在台灣人聯合基金會（TUF）與優社（TEA）合辦的第17屆「台灣介心靈日」228紀念音樂會（Arcadia Community Church）帶領會眾祈禱，祈禱文指每個國家都有黑暗歷史、必須為受害者發聲打破社會禁忌，否則毒化整個社會，並祈求台灣面對外來新威脅能建立健康自由的國家（[[articles/taiwanjustice-net/2024/20240522044953_root_47725345581e0f61|TJJ 影音報導, 2024-03-04]]）。
+- 2024-02-28 — 在台灣人聯合基金會（TUF）與優社（TEA）合辦的第17屆「台灣介心靈日」228紀念音樂會（Arcadia Community Church）帶領會眾祈禱，祈禱文指每個國家都有黑暗歷史、必須為受害者發聲打破社會禁忌，否則統治者越發猖狂、社會將被毒化；並祈求歷史完全顯露、受害者得到公平對待，台灣面對外來新威脅能建立健康自由的國家（[[articles/taiwanjustice-net/2024/20240522044953_root_47725345581e0f61|TJJ 影音報導, 2024-03-04]]；同報導影音全集頁 [[articles/taiwanjustice-net/2025/20250517150428_台灣介心靈日-2-28-77週年紀念音樂會20240228影音全集_ff4731d4f51b100d|TJJ, 2024-03-04]]）。
 
 ## Sources
 - [TAH #2133 encyclopedia: 2133. Rev. Thomas H. Chen 陳宏文牧師](https://taiwaneseamericanhistory.org/whos-who-2133-thomas-h-chen/)
@@ -46,7 +46,3 @@ _No filled family fields on the TAH profile._
 
 ## Network
 - [[organizations/presbyterian-church-in-taiwan||PCT]] — TAH Who’s Who
-
-## From the record
-
-- 2024-02-28 — 在優社（TEA）與台灣人聯合基金會（TUF）合辦的「台灣介心靈日」228 77週年紀念音樂會（Arcadia Community Church）帶領會眾祈禱，祈禱文指出每個國家都有黑暗的歷史，必須為受害者發聲、打破社會禁忌，否則統治者越發猖狂；並祈求歷史完全顯露、受害者得到公平對待，台灣面對外來新威脅能建立健康自由的國家（[[articles/taiwanjustice-net/2025/20250517150428_台灣介心靈日-2-28-77週年紀念音樂會20240228影音全集_ff4731d4f51b100d|TJJ, 2024-03-04]]）。
