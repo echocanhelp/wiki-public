@@ -33,6 +33,9 @@ last_reviewed: 2026-09-18
 
 _No filled family fields on the TAH profile._
 
+## Corpus review (2026-09-18)
+SKIP: corpus check found no community material beyond the person's own TAH encyclopedia bibliographic record [[works/taiwaneseamericanhistory-org/whos-who-2226|TAH #2226]]. Nothing absorbable; biography left as-is.
+
 ## Sources
 - [TAH #2226 encyclopedia: 2226. Jong-Tseng Yen PhD 顏榮增博士/11/2019](https://taiwaneseamericanhistory.org/whos-who-2226/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/jong-tseng-yen-phd/)

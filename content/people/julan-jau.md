@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-18
 ---
 # Julan Jau (趙珠蘭)
 
@@ -32,6 +32,11 @@ last_reviewed: 2026-08-17
 - McDonnell Dou-glas — 1986-90 — 工程師
 - TIAS(桃園航勤) — 2000-01 — vice president
 <!-- tah-tables:end -->
+
+## Role in the Community
+- Community writer: her essay 《不知道我不知道》(11/1999, Literature) is held as [[works/taiwaneseamericanhistory-org/publications121|121. 不知道我不知道 / 趙珠蘭 / 11/1999]] and her memoir 《半生速描》(02/2017) as [[works/taiwaneseamericanhistory-org/mystories511|511. 半生速描 / 趙珠蘭 / 02/2017]].
+- Women's-column host: per the band-A history [[works/taiwaneseamericanhistory-org/ourjourneys161|161. 婦女信箱的歷史 / 吳美芬 / 2015/08]], she hosted the 台灣公論報「婦女信箱」column in 1996–1997, listed as "底特律分會、趙珠蘭" in the host roster.
+- Who's Who record: [[works/taiwaneseamericanhistory-org/whos143|143. Julan Jau 趙珠蘭]] matches the engineering / ITRI / McDonnell Douglas / TIAS career lines above; no conflicts.
 
 ## Family
 

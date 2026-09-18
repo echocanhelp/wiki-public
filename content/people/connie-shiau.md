@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-18
 ---
 # Connie Shiau (蕭潔恒)
 
@@ -30,6 +30,13 @@ Accomplishment
 ## Employment
 - Kyle Abraham/Abraham.In.Motion — Dancer — (2012-2017) — Hubbard Street Dance Chicago — Dancer — (2018-)
 <!-- tah-tables:end -->
+
+## Role in the Community
+
+TAH corpus holds her own Who's Who story record, published 2017-12-26 (value band B):
+- [[works/taiwaneseamericanhistory-org/whos-who-1982-connie-shiau|1982. Connie Shiau 蕭潔恒]] — TAH encyclopedia entry #1982; her New York Reverb Dance Festival Outstanding Dancer award and dance career (Taipei National Univ. of the Arts → SUNY Purchase → Kyle Abraham/Abraham.In.Motion 2012–2017 → Hubbard Street Dance Chicago 2018–) are documented there as community record.
+
+No other corpus mentions found (works/articles grep, 2026-09-18).
 
 ## Family
 

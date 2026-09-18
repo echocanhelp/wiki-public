@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-18
 ---
 # Joseph Chang (張玉明牧師)
 
@@ -32,6 +32,10 @@ last_reviewed: 2026-08-17
 - 洛杉磯的美國台福神學院 — 博士班主任
 - 台福爾灣基督教會 — Present — 主任牧師
 <!-- tah-tables:end -->
+
+## Role in the Community
+- Held in the Taiwanese American historical record as a TAH Foundation encyclopedia entry: [[works/taiwaneseamericanhistory-org/942-joseph-chang-e5-bc-b5-e7-8e-89-e6-98-8e-201604|942. Joseph Chang 張玉明 / 2016/04]] (published 2016-04-17), cross-referencing [[organizations/tah-foundation|TAH Foundation]].
+- Corpus record is consistent with the church-planting and theological-education lines above (布蘭諾華人宣道會 founder, 美國台福神學院博士班主任, 台福爾灣基督教會主任牧師); no conflicts.
 
 ## Family
 

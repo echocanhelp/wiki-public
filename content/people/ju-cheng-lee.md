@@ -35,6 +35,11 @@ last_reviewed: 2026-09-18
 - **Son:** 李興國,李元宏
 
 
+## Role in the Community
+- Daughter 李碧娥 authored a community memoir of his life, 594. 李汝成先生生平略歷 (10/2017) — see [[works/taiwaneseamericanhistory-org/mystories594|李汝成先生生平略歷]].
+- Profiled in the TAH Who's Who encyclopedia record [[works/taiwaneseamericanhistory-org/whos-who-1916-ju-cheng-lee|1916. Ju Cheng Lee 李汝成]] (published 2017-10-18), which also links him to [[people/m-c-cheng-lee|M. C. Cheng Lee]].
+- HOLD: era "1921-2017" (tah-tables snapshot) vs memoir published 2017-10 — dates not auto-merged pending full-text verification.
+
 ## Sources
 - [TAH #1916 encyclopedia: 1916. Ju Cheng Lee 李汝成](https://taiwaneseamericanhistory.org/whos-who-1916-ju-cheng-lee/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/ju-cheng-lee/)

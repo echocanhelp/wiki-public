@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-18
 ---
 # Mei Chiang Su (江美惠)
 
@@ -29,6 +29,11 @@ Accomplishment
 ## Employment
 - U.S. Navy E.M. Club — Chef — Rockville Biomedical Research Institute — Research Assistant
 <!-- tah-tables:end -->
+
+## Role in the Community
+- Held in the Taiwanese American historical record as a TAH Foundation Who's Who entry (TAH #1754, 2017/07): a Tainan-connected community-service volunteer recognized with the Taiwanese Youth Arts Foundation Outstanding Service Award (2005–2006).
+- Community archival record: [[works/taiwaneseamericanhistory-org/whos-who-1754-mei-chiang-su|1754. Mei Chiang Su 江美惠]] (published 2017-07-09), cross-referencing [[organizations/tah-foundation|TAH Foundation]].
+- Corpus record matches the Shih Chien University education and U.S. Navy E.M. Club / Rockville Biomedical Research Institute employment lines above; no conflicts.
 
 ## Family
 
