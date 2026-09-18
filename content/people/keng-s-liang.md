@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-18
 ---
 # Keng S. Liang (梁耕三)
 
@@ -30,6 +30,11 @@ last_reviewed: 2026-08-17
 - Exxon石油公司
 - 交通大學 — present — 國家同步輻射中心主任
 <!-- tah-tables:end -->
+
+## Role in the Community
+- Encyclopedia entry in the TAH story corpus: [[works/taiwaneseamericanhistory-org/whoswho1520|1520. Keng S. Liang 梁耕三 / 2017-02]] (published 2017-02-19; band B bibliographic record — full text stays in the vault).
+- 黃東昇's 善友樂團 memoir links him into the Tainan 善友樂團 family network: his wife 陳純寶 is the daughter of the band's clarinetist 陳朝呈, and the memoir records that Liang retired from the U.S. in 1997 and then took a post at 國家同步輻射研究中心 in Hsinchu Science Park; 純寶 attended the 2016美西夏令會 reunion where 善友 second-generation members first gathered ([[works/taiwaneseamericanhistory-org/ourjourneys287|287. 台南善友樂團之後代首次在夏令會聚會 / 黃東昇 / 05-2017]], published 2017-05; band B).
+- Community-initiative record: founded the Bridgewater (NJ) 查經班 in 1990 (see From the record — 楊遠薰 memoir).
 
 ## Family
 
