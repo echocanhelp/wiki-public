@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-18
 ---
 # Tiencheng Arthur Chang
 
@@ -35,6 +35,10 @@ Associate Professor & Director
 ## Family
 
 _No filled family fields on the TAH profile._
+
+## Role in the Community
+- Held in the TAH Foundation encyclopedia as a Taiwanese American reproductive-science record: [[works/taiwaneseamericanhistory-org/whoswho1367|1367. Tiencheng Arthur Chang / 2016-11]] (published 2016-11-03, band B bibliographic record).
+- Corpus scan (works/, articles/) found no community/movement narrative mentioning him beyond this own-record entry; career facts remain as sourced from the TAH Who's Who table above.
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/tiencheng-arthur-chang/)
