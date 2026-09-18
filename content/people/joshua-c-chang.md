@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-18
 ---
 # Joshua C. Chang (張嘉熙)
 
@@ -31,6 +31,11 @@ Ph.D. neuroscience and embryonic development
 ## Employment
 - Genentech — 2014-present — Researcher in Molecular Biology
 <!-- tah-tables:end -->
+
+## Role in the Community
+
+- **TAH Who's Who record:** bibliographic profile #1369 (2016-11-03) — [[works/taiwaneseamericanhistory-org/whoswho1369|1369. Joshua C. Chang 張嘉熙 / 2016/11]]; no other corpus mentions found.
+- Note: a "Joshua" appearing in the 1982 TAA founding memoir ([[works/taiwaneseamericanhistory-org/ourjourneys65-eng|76/65 founding memoir, EN]]) is **Joshua Yapp**, a different person — not absorbed.
 
 ## Family
 
