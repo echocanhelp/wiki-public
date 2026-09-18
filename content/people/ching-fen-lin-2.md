@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-18
 ---
 # Ching Fen Lin (林青棻)
 
@@ -27,9 +27,13 @@ Accomplishment
 - Michigan State Univ. — MBA
 <!-- tah-tables:end -->
 
+## Role in the Community
+- Profiled in the TAH Foundation Who's Who story corpus: [[works/taiwaneseamericanhistory-org/whos-who-1737-ching-fen-lin|1737. Ching Fen Lin 林青棻]] (published 2017-07-04).
+- Received the Outstanding Service Award from the Taiwanese Youth Arts Foundation, 1996–1997.
+
 ## Family
 
-- **Husband:** 高健元
+- **Husband:** [[people/dr-chien-yuan-kao|高健元]] (Dr. Chien Yuan Kao; also profiled: [[works/taiwaneseamericanhistory-org/whos-who-1736-chien-yuan-kao|1736. Dr. Chien Yuan Kao 高健元博士]])
 - **Son:** Eric, Jesse
 
 

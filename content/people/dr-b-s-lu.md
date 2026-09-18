@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-18
 ---
 # Dr. B. S. Lu (呂邦雄醫師)
 
@@ -27,6 +27,9 @@ last_reviewed: 2026-08-17
 ## Employment
 - National Taiwan Univ. Hospital — Resident of Dept. of Surgery — Chicago area — Physician
 <!-- tah-tables:end -->
+
+## Role in the Community
+- Profiled in the TAH Foundation Who's Who story corpus: [[works/taiwaneseamericanhistory-org/whos-who-2014-b-s-lu|2014. Dr. B. S. Lu 呂邦雄醫師]] (published 2018-04-26). No further narrative facts available in the corpus beyond the bibliographic record.
 
 ## Family
 

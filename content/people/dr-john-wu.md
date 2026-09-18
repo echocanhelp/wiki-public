@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-18
 ---
 # Dr. John Wu (吳正義醫師)
 
@@ -27,6 +27,10 @@ last_reviewed: 2026-08-17
 ## Employment
 - Bridgeport Hospital — Resident — (1967-1972) — Physician — (1973-2000)
 <!-- tah-tables:end -->
+
+## Role in the Community
+- Profiled in the TAH Foundation Who's Who story corpus: [[works/taiwaneseamericanhistory-org/whos-who-1647-john-wu|1647. Dr. John Wu 吳正義醫師]] (published 2017-05-11).
+- Note: the corpus also holds [[works/taiwaneseamericanhistory-org/whoswho1155|1155. John Wuo 鄂志超]] — a different person (鄂志超) sharing the English name "John Wu/o"; do not conflate.
 
 ## Family
 
