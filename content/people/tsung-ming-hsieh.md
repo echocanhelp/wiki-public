@@ -55,7 +55,3 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
-
-## From the record
-
-- 2023-09-24 — Commemorations of the 59th anniversary of the 「台灣人民自救宣言」, which Hsieh co-drafted with 彭明敏 and 魏廷朝 in 1964, included a memorial seminar for Peng Ming-min held by the Peng Ming-min Cultural and Educational Foundation with the NTU Graduate Student Association and NTU Student Union ([[articles/taiwanjustice-net/2024/20240221121609_root_92ff3ef6b0b74b9c|TJJ/CNA, 2023-09-24]]).
