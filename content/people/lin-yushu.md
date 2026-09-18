@@ -7,7 +7,7 @@ tags:
   - exec-member
   - Taiwanese-American
 verification_status: published
-last_reviewed: 2026-08-19
+last_reviewed: 2026-09-18
 ---
 # Lin Yu-Shu (林育武)
 
@@ -28,6 +28,10 @@ Per the 2025/26 執委 letter on ntpc-usa.org:
 > **委 員： 林育武長老(西北區) 2026 年屆滿**
 
 He is one of the eight voting members of the NTPC Executive Committee, representing the Northwest District.
+
+## Corpus Check
+
+- 2026-09-18 deepen-x: no corpus hits in works/articles for 林育武 / Lin Yu-Shu / Yushu Lin beyond the NTPC 2025/26 執委 letter already reflected above — nothing absorbable from memoir/corpus material (SKIP).
 
 ## Related Pages
 

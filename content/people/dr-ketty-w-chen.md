@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-18
 ---
 # Dr. Ketty W. Chen (陳婉宜)
 
@@ -30,6 +30,11 @@ last_reviewed: 2026-08-17
 - Collin College in Plano, Texas — Teach American Politics and international relations
 - Austin College in Sherman, Texas — Teach US-China relations
 <!-- tah-tables:end -->
+
+## Role in the Community
+
+- **2021-04** — As 副執行長 of the 台灣民主基金會 (Taiwan Foundation for Democracy), invited to the Raisina Dialogue (India, held online) to discuss global supply-chain restructuring and China's penetration of UN/WHO international organizations, alongside 遠景基金會執行長 賴怡忠 — [[articles/taiwanjustice-net/2021/20210621194740_2021_04_13_台兩專家受邀參加瑞辛納對話_談供應鏈重組和中_f1c73a6230f30d66|台派媒體: 台兩專家受邀參加瑞辛納對話]].
+- Own TAH encyclopedia record — [[works/taiwaneseamericanhistory-org/745-dr-ketty-w-chen-e9-99-b3-e5-a9-89-e5-ae-9c-201601|755. Dr. Ketty W. Chen 陳婉宜 /2016/01]].
 
 ## Family
 
