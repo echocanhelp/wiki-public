@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-18
 ---
 # Joanna Chen Cham (陳怡玲)
 
@@ -35,6 +35,12 @@ last_reviewed: 2026-08-17
 ## Family
 
 _No filled family fields on the TAH profile._
+
+## Role in the Community
+- Spearheaded the **USC Taiwanese American Digital Archive**, a community archive hosted by USC Special Collections and Archives and the East Asian Library to collect Taiwanese American history "before it is lost"; announced with TaiwaneseAmerican.org's support: [[works/taiwaneseamerican-org/taiwanese-american-digital-archive|Taiwanese American Digital Archive]].
+- The initiative began as her 2015–2016 documentation-and-outreach strategy as USC "Los Angeles as Subject" Resident Archivist, under USC University Librarian and East Asian Library Head Kenneth Klein; her survey of existing collections found Taiwanese American records largely overlooked, with a large gap in the historical record for Los Angeles and the nation — USC positioned to capture it.
+- A second-generation Taiwanese American, described in the community announcement as "passionate about community archives and history."
+- TAH Who's Who record: [[works/taiwaneseamericanhistory-org/who837-joanna-chen-cham|TAH #837]] (2016-02).
 
 ## Sources
 - [TAH #837 encyclopedia: 837. Joanna Chen Cham 陳怡玲 / 02/2016](https://taiwaneseamericanhistory.org/who837-joanna-chen-cham/)

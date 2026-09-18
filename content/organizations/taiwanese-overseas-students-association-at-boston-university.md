@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-18
 ---
 # Taiwanese Overseas Students Association at Boston University
 
@@ -20,6 +20,9 @@ The Taiwanese Overseas Students Association at Boston University (TOSA, 波士�
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-overseas-students-association-at-boston-university/)
+
+## Worklog
+- 2026-09-18 deepen-x slice 09170700-31: SKIP — no corpus hits for TOSA itself. Boston University appears in memoirs only as an alma mater of individuals (e.g. 張啟典 in [[works/taiwaneseamericanhistory-org/ourjourneys338|338. 張啟典醫師的回憶]], 林天民 in [[works/taiwaneseamericanhistory-org/ourjourneys61|61. 創設 TARSA 的心路歷程]]); none names the student association, so nothing absorbable without inventing history.
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

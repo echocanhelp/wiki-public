@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-18
 ---
 # University of North Carolina at Chapel Hill Taiwanese Student Association
 
@@ -20,6 +20,9 @@ The University of North Carolina at Chapel Hill Taiwanese Student Association (U
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/university-of-north-carolina-at-chapel-hill-taiwanese-student-association/)
+
+## Worklog
+- 2026-09-18 deepen-x slice 09170700-31: SKIP — no corpus hits for the organization itself in content/works or content/articles. Campus-level memoir material exists (e.g. UNC involvement in the 海報事件 and 「台灣學生」 per the NCTA 50-year回顾) but none names UNC TSA, and community facts about the wider North Carolina movement belong on their own pages; nothing absorbable without inventing biography.
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
