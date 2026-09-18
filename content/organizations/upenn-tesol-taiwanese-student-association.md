@@ -5,9 +5,11 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-18
 ---
 # UPenn TESOL Taiwanese Student Association
+
+**SKIP note (deepen-x slice 09170800-27, 2026-09-18):** corpus grep (`TESOL` / `UTTSA` in works + articles) returned no hits beyond this page's own index row — no memoir or community record to absorb; page stays at directory-listing depth.
 
 ## Identity Snapshot
 - **English:** UPenn TESOL Taiwanese Student Association

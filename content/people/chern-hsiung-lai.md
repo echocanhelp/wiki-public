@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-18
 ---
 # Chern-Hsiung Lai (賴辰雄)
 
@@ -35,6 +35,11 @@ President of the Taiwanese American Physicians Association, Greater Philadelphia
 ## Family
 
 _No filled family fields on the TAH profile._
+
+## Role in the Community
+
+- Corpus footprint at this pass is limited to the author's own TAH Who's Who record: [[works/taiwaneseamericanhistory-org/whoswho1340|1340. Chern-Hsiung Lai 賴辰雄 / 2016/10]] (published 2016-10-25). No memoirs naming 賴辰雄 / Chern-Hsiung Lai were found in `content/works` or `content/articles`; the TAPA Greater Philadelphia presidency and Penn dental faculty roles above remain sourced solely to the TAH profile.
+- HOLD: birth year 1940 in Kyoto (Era field) is unverified in the corpus; no corpus material gives an alternate date to reconcile against.
 
 ## Sources
 - [TAH #1340 encyclopedia: 1340. Chern-Hsiung Lai 賴辰雄 / 2016/10](https://taiwaneseamericanhistory.org/whoswho1340/)
