@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-18
 ---
 # Jen Chan (詹純甄)
 
@@ -34,6 +34,9 @@ By very well-known clarinetists- Prof. Ronald DeKant, Jonathan Cohler, and Phili
 
 - **Son:** ???
 
+
+## Role in the Community
+- Two TAH Foundation encyclopedia records document her career: [[works/taiwaneseamericanhistory-org/17-jen-chan-e8-a9-b9-e7-b4-94-e7-94-84-clarinet|17. Jen Chan 詹純甄, Clarinet]] (published 2014-10-11) and [[works/taiwaneseamericanhistory-org/489-jen-chan-e8-a9-b9-e7-b4-94-e7-94-84-201507|489. Jen Chan 詹純甄]] (published 2015-07-11). Both are bibliographic records; full text stays in the TAH vault.
 
 ## Sources
 - [TAH #489 encyclopedia: 489. Jen Chan 詹純甄 / 2015/07](https://taiwaneseamericanhistory.org/489-jen-chan-%e8%a9%b9%e7%b4%94%e7%94%84-201507/)
