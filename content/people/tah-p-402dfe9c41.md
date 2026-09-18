@@ -6,7 +6,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-18
 ---
 # 張妙華
 
@@ -27,6 +27,10 @@ last_reviewed: 2026-08-17
 ## Employment
 - 南橙縣婦女合唱團 — 專任伴奏 — Community — 教會(多所) — 司琴
 <!-- tah-tables:end -->
+
+## Role in the Community
+
+- SKIP-with-reason: the only corpus hits are her own TAH Who's Who bibliographic record ([[works/taiwaneseamericanhistory-org/179-e5-bc-b5-e5-a6-99-e8-8f-af-pianist-201503|179. 張妙華, Pianist / 2015/03]]) and the works index — no memoir or community text adds facts beyond the TAH profile already transcribed above. Nothing absorbable; no new biography invented.
 
 ## Family
 

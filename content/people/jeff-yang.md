@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-18
 ---
 # Jeff Yang (楊致和)
 
@@ -29,6 +29,13 @@ Accomplishment
 ## Employment
 - San Francisco Chronicle — "Asian Pop" Columnist — The Wall Street Journal — "Tao Jones" Columnist — A Magazine — Publisher — (1989-)
 <!-- tah-tables:end -->
+
+## Role in the Community
+
+- Founder/publisher of **A Magazine** (1989–), a landmark Asian American media venture; profiled in the community memoir [[works/taiwaneseamericanhistory-org/my-stories-694|694. 楊致和與A雜誌/黃春英/09/2019]].
+- In Michelle Young's memoir, Jeff Yang is her cousin; she began her journalism career interning at A Magazine at his office ([[works/taiwaneseamerican-org/michelle-young-the-art-spy|Michelle Young — The Art Spy]]).
+- Interviewed among Taiwanese American / Asian American artists on stereotypes and racism for the 2009 Taiwanese American Foundation Summer Conference ([[works/taiwaneseamerican-org/apa-artists-on-overcoming-racism-stereotypes|APA Artists on Overcoming Racism & Stereotypes]]).
+- Father of Hudson Yang; father and son were profiled together during Hudson's childhood TV work in San Francisco ([[works/taiwaneseamerican-org/hudson-yang|Hudson Yang]]).
 
 ## Family
 
