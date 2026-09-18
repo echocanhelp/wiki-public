@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-18
 ---
 # William Shu (許子祥)
 
@@ -32,6 +32,11 @@ last_reviewed: 2026-08-17
 ## Family
 
 _No filled family fields on the TAH profile._
+
+## Role in the Community
+- Profiled in the TAH community encyclopedia: [[works/taiwaneseamericanhistory-org/whos-who-2292-william-shu|2292. William Shu 許子祥]] (published 2020-11-18, band B).
+- Corpus carries no memoir coverage; his movement record rests on the TAH directory profile (finance → Deliveroo co-founder).
+- No conflicts to hold.
 
 ## Sources
 - [TAH #2292 encyclopedia: 2292. William Shu 許子祥](https://taiwaneseamericanhistory.org/whos-who-2292-william-shu/)
