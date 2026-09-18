@@ -36,6 +36,10 @@ last_reviewed: 2026-09-18
 
 _No filled family fields on the TAH profile._
 
+## Role in the Community
+- His TAH Who's Who encyclopedia entry is preserved in the corpus as [[works/taiwaneseamericanhistory-org/whoswho1552|1552. Horng-Tzer Yau 姚鴻澤 (TAH record, 2017-03-17)]].
+- No memoir or community text in works/ or articles/ mentions him beyond the bibliographic record; the mathematician's career facts stay in the tah-tables above.
+
 ## Sources
 - [TAH #1552 encyclopedia: 1552. Horng-Tzer Yau 姚鴻澤 / 2017/03](https://taiwaneseamericanhistory.org/whoswho1552/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/horng-tzer-yau/)
