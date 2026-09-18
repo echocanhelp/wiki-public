@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-18
 ---
 # Chia-Lin Charles Liu (劉家麟)
 
@@ -32,6 +32,9 @@ Chia-Lin (Charles) Liu 劉家麟 – History of Taiwanese American (T.A. Archive
 ## Family
 
 _No filled family fields on the TAH profile._
+
+## Role in the Community
+Liu is documented in the TAH community record through his own Who's Who contribution, archived as a historical work: [[works/taiwaneseamericanhistory-org/whoswho1223|1223. Chia-Lin (Charles) Liu 劉家麟 / 2016/08]] (published 2016-08-06; bibliographic record only — full text stays in the vault). No other corpus mentions found; no community activity beyond the directory record is absorbable, so biography is deliberately not extended here.
 
 ## Sources
 - [TAH #1223 encyclopedia: 1223. Chia-Lin (Charles) Liu 劉家麟 / 2016/08](https://taiwaneseamericanhistory.org/whoswho1223/)
