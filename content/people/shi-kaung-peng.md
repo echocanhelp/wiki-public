@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-18
 ---
 # Shi-Kaung Peng (彭旭光)
 
@@ -36,6 +36,11 @@ last_reviewed: 2026-08-17
 - **Daughter:** 彭詠芝
 - **Son:** 彭詠哲
 
+
+## Role in the Community
+
+- Recorded in the TAH story corpus as encyclopedia entry 1038 (published 2016-05-28). [[works/taiwaneseamericanhistory-org/whoswho1038|1038. Shi-Kaung Peng 彭旭光 / 2016/05]]
+- No memoir/community narrative beyond the Who's Who record found in the corpus at review time.
 
 ## Sources
 - [TAH #1038 encyclopedia: 1038. Shi-Kaung Peng 彭旭光  / 2016/05](https://taiwaneseamericanhistory.org/whoswho1038/)
