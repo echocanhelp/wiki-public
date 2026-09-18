@@ -84,3 +84,8 @@ True vault facts only. We add no biography the page does not hold.
 
 On the album we show a single tag line as a natural sentence —
 "Taiwanese folk / acoustic / male vocal" — never the raw comma list.
+
+## Related Pages
+
+- [[people/tyzen-hsiao]]
+- [[people/hsu-ching-chun]]

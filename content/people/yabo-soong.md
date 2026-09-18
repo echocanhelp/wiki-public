@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-18
 ---
 # Yabo Soong (宋亞伯)
 
@@ -34,6 +34,12 @@ Accomplishment
 ## Family
 
 _No filled family fields on the TAH profile._
+
+## Role in the Community
+
+- Community record held in the corpus as [[works/taiwaneseamericanhistory-org/whos-who-1662-yabo-soong|TAH encyclopedia record #1662 (2017-05-17)]]. The encyclopedia title records his alternate Chinese name 宋冀康 alongside 宋亞伯 — a corpus-sourced alias not present in the press-kit snapshot.
+- Career span recorded in TAH: editor at National Evening News (民族晚報) in Taiwan, then producer at Voice of America (1989–2013) in New York — a journalist serving the Chinese-language and Taiwanese diaspora readership/listenership; 2001 Golden Bell Award 「Best International Chinese Program」.
+- No memoir text in the vault names him beyond the bibliographic record.
 
 ## Sources
 - [TAH #1662 encyclopedia: 1662. Yabo Soong 宋亞伯(宋冀康)](https://taiwaneseamericanhistory.org/whos-who-1662-yabo-soong/)

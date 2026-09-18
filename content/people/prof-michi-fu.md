@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-18
 ---
 # Prof. Michi Fu
 
@@ -35,6 +35,12 @@ Accomplishment
 ## Family
 
 _No filled family fields on the TAH profile._
+
+## Role in the Community
+
+- Her TAH Who's Who entry is preserved as [[works/taiwaneseamericanhistory-org/whos-who-2151-michi-fu|TAH #2151, Prof. Michi Fu]] (2018).
+- On the 75th anniversary of the 228 Incident she joined the Talking Taiwan podcast two-part special 「The 228 Massacre: Taboos, Scars, Stigmas and an Essential Lesson in Taiwan History」 (Ep 171), representing one of several generations of Taiwanese women; in the follow-up episode she and Tsuann Kuo discussed their work with 228 survivors and their families through the Transitional Justice Commission — see [[works/taiwaneseamerican-org/remembering-the-228-massacre-readings-resources-on-taiwans-white-terror-era|Remembering the 228 Massacre]].
+- A NATWA II intern memoir recalls her leading a widely praised workshop on communication (misinterpretation, timing and delivery) at the annual NATWA conference in Toronto, drawing full-room silence and respect from first- and second-generation women alike — [[works/taiwaneseamerican-org/letter-of-advice|Letter of Advice]].
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-michi-fu/)

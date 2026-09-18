@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-18
 ---
 # Eric Cheng (鄭晧)
 
@@ -38,6 +38,12 @@ last_reviewed: 2026-08-17
 - **Father:** 鄭德昌 Edward
 - **Mother:** 賴淑卿 Shu
 
+
+## Role in the Community
+Corpus records for 鄭晧 are limited to his own TAH encyclopedia entry, so no independent community/corpus facts could be absorbed this pass.
+
+- Listed in the TAH Foundation Who's Who / encyclopedia corpus as a 2015 profile: [[works/taiwaneseamericanhistory-org/272-eric-cheng-e9-84-ad-e6-99-a7201502|272. Eric Cheng 鄭晧/2015/02]] (published 2015-02-06, value band B, bibliographic record only — full text stays in the vault).
+- He appears there solely as the subject; no memoir, letter, or organizational record in `content/works` or `content/articles` names him, so his roles beyond the press-kit bio above remain unverified.
 
 ## Sources
 - [TAH #272 encyclopedia: 272. Eric Cheng 鄭晧/2015/02](https://taiwaneseamericanhistory.org/272-eric-cheng-%e9%84%ad%e6%99%a7201502/)
