@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-18
 ---
 # Chang-Yong Tsao (曹昌榮)
 
@@ -33,6 +33,10 @@ last_reviewed: 2026-08-17
 ## Family
 
 _No filled family fields on the TAH profile._
+
+## Role in the Community
+- 2017-02-12 — entered into the Taiwanese American historical record when his profile was preserved as encyclopedia entry #1502 on taiwaneseamericanhistory.org: [[works/taiwaneseamericanhistory-org/whoswho1502|1502. Chang-Yong Tsao 曹昌榮 / 2017/02]]. The corpus holds this as a bibliographic (band B) record; full biography stays in the vault.
+- Corpus grep found no other memoir/community activity beyond the TAH profile itself; his documented presence in the community is professional (pediatric neurology, Ohio State University).
 
 ## Sources
 - [TAH #1502 encyclopedia: 1502. Chang-Yong Tsao 曹昌榮 / 2017/02](https://taiwaneseamericanhistory.org/whoswho1502/)

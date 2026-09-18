@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-18
 ---
 # Yu-Ming Huang (黃昱銘)
 
@@ -32,6 +32,10 @@ last_reviewed: 2026-08-17
 ## Family
 
 _No filled family fields on the TAH profile._
+
+## Role in the Community
+- 2017-01-22 — entered into the Taiwanese American historical record when his profile was preserved as encyclopedia entry #1474 on taiwaneseamericanhistory.org: [[works/taiwaneseamericanhistory-org/whoswho1474|1474. Yu-Ming Huang 黃昱銘 / 2017/01]]. The corpus holds this as a bibliographic (band B) record; full biography stays in the vault.
+- Corpus grep found no memoir or community-organizing material beyond the TAH profile; his documented community presence is as a Taiwanese-born (台北) illustrator/visual designer in the US, notably a signed illustrator for Billboard Magazine.
 
 ## Sources
 - [TAH #1474 encyclopedia: 1474. Yu-Ming Huang  黃昱銘 / 2017/01](https://taiwaneseamericanhistory.org/whoswho1474/)
