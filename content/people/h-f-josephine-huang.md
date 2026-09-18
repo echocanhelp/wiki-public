@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-17
 ---
 # H. F. Josephine Huang (黃河芬)
 
@@ -36,6 +36,10 @@ last_reviewed: 2026-08-17
 - 2020-08-08 — As 台灣人公共事務會柑縣分會會長 praised 蕭美琴's 駐美代表 appointment (2020-07-24 履新):萧 was formerly a TACS intern, her father a seminary president; urged strengthening 臺美經貿, investment-trade talks and high-level exchanges so President 蔡英文 could visit the US as president ([[articles/taiwanjustice-net/2020/20200823091444_2020_08_08_大洛杉磯台灣會館等台美人團體和領袖祝賀蕭美琴_bff4c7110803d864|TJJ, 2020-08-08]]).
 
 - 2020-09-30 — 林宏容's memorial essay for 鄭寶鼎博士 (TJJ) records Huang as one of the chain of 柑縣台美公民協會 會長 (陳立明、黃河芬、許新民) under whom the 柑縣 TACS 台美人社區獎學金 was awarded annually each June to one Taiwanese-American graduate of each of ten nearby high schools, 2005–2014 — a scholarship funded almost entirely by the Chengs' anonymous donations ([[articles/taiwanjustice-net/2026/20260121010227_斯人已逝_其德可追-緬懷鄭寶鼎博士-_-林宏容_9907500dda4f33bb|林宏容 via TJJ, 2020-09-30]]).
+
+- Undated (community memoir) — co-chaired a cross-organization Taiwanese community conference in rotation with [[people/gin-ru-yeh|葉錦如]] and 陳立明: round-table format, each group proposing two topics, 43 issues drawn by lot and debated over a day and a half, with all seven Taiwan Centers in the US represented — recalled in [[works/taiwaneseamericanhistory-org/ourjourneys112|TAH ourjourneys112 community memoir]].
+- Listed among signatories as Josephine Huang in [[works/taiwaneseamerican-org/pew-research-center-taiwanese-american-statement|TA.org Pew Research Center Taiwanese American statement]].
+- Corpus re-grep 2026-09-17: beyond the above, the only other works/articles hits are her own TAH directory record [[works/taiwaneseamericanhistory-org/whos-h-f-josephine-huang|TAH 1167]] and the TJJ WHA/scholarship articles already recorded above — no further absorbable material.
 
 ## Sources
 - [TAH #1167 encyclopedia: 1167. H. F. Josephine Huang 黃河芬 / 2016/07](https://taiwaneseamericanhistory.org/whos-h-f-josephine-huang/)
