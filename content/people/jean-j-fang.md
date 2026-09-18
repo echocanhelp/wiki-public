@@ -54,3 +54,5 @@ Accomplishment
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+Corpus re-grep 2026-09-17 (slice 09170500-7): identical hit set — ourjourneys8-eng, ourjourneys58, ourjourneys60-eng, ourjourneys79, own #163/#827 records, works index — all already linked above. SKIP-no-new-material; page saturated.
