@@ -40,6 +40,7 @@ Accomplishment
 
 - Recorded in the TAH Foundation Who's Who as entry #1938 ([[works/taiwaneseamericanhistory-org/whos-who-1938-chih-ming-chen|TAH #1938]], published 2017-11-09, band B), which echoes his status as the donor of the largest gift in Ohio State Univ. history (2013) — his Ohio ties trace back to his 1981 Ph.D. there.
 - No memoir or other community record found in works/ or articles/ beyond the bibliographic record; the taiwanjustice-net article hits were name-collision noise, not this person.
+- HOLD: possible name collision — [[works/taiwaneseamericanhistory-org/ourjourneys219|Our Journeys #219]] records a 陳志明 speaking on tech careers at a北澤西同鄉會 student job seminar (NJIT/NYU) as 副總栽 of DoubleBridge Technologies; identity with the Anchen Pharmaceuticals founder is unconfirmed, not merged.
 
 
 ## Sources
