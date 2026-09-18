@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-17
+last_reviewed: 2026-09-18
 ---
 # Yi-Ting Hsieh
 
@@ -35,6 +35,7 @@ _No filled family fields on the TAH profile._
 
 ## Role in the Community
 - Held in the TAH musician corpus: profiled as pianist and clarinetist in the story-corpus entry 430. Yi-Ting Hsieh, Pianist and Clarinetist (2018-06-30), the community record of her dual-instrument performance career ([[works/taiwaneseamericanhistory-org/musician430|430. Yi-Ting Hsieh, Pianist and Clarinetist]]).
+- Also held as a second TAH encyclopedia record: [[works/taiwaneseamericanhistory-org/whos-who-2141-yi-ting-hsieh|2141. Yi-Ting (Christine) Hsieh]] (2018-06-30, band B bibliographic record) — the only other corpus trace; 'Yi-Ting Chang' and 'Yi-Ting Chung' elsewhere in the corpus are different people.
 - Chinese name not recorded in the corpus (no 漢名 hits in works/articles); left blank rather than invented.
 
 ## Sources
