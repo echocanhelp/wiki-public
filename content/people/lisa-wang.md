@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-17
 ---
 # Lisa Wang
 
@@ -32,6 +32,13 @@ last_reviewed: 2026-08-17
 ## Family
 
 _No filled family fields on the TAH profile._
+
+## Role in the Community
+
+- 醫師，長年以王麗貝（Lipei Lisa Wang）之名參與大洛杉磯台灣會館社區活動，是會館「園藝講座」系列自 2016-06-26 首講起的開辦講師之一（與黃啟源、陳正宏老師依序主講；「蔬果園藝交流在美洲」團隊運作）——[[articles/taiwanjustice-net/2023/20230129125151_2016_06_21_大洛杉磯台灣會館增設_園藝講座_六月二十六_015db4be49f64c83|TJJ 存檔：會館增設園藝講座]]。
+- 2016 年九月會館園藝講座主講「秋天自家蔬果加工」（DIY GROWERS 主辦，存檔條目標 09252016）——[[articles/taiwanjustice-net/2020/20200628195937_category_gardenning_page_3_8a8334f20018f1de|TJJ 園藝類存檔]]。
+- 2017-07-23 主講「植物界的茶飲文化與饗宴」（見下方 From the record）。
+- TAH 名人錄書目記錄：[[works/taiwaneseamericanhistory-org/whoswho901|TAH #991 Lisa Wang]]（2016-05-16）。
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/lisa-wang/)
