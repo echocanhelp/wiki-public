@@ -29,6 +29,13 @@ last_reviewed: 2026-09-17
 - Sanyco Automotive — President — (1983-) — Community — Taiwanese United Fund (南加州台灣人聯合基金會) — President — Taiwanese Writing Forum-Tai-bun Thong-Sin (台文通訊) — Co-Founder
 <!-- tah-tables:end -->
 
+## Role in the Community
+
+- 南灣生活座談會會友：該座談會創會員為陳惠亭、黃森元等人，鄭良光為後來加入者；會友在台灣人社會的奉獻涵蓋同鄉會、台美學校、公民協會、醫師協會、報紙（[[works/taiwaneseamericanhistory-org/ourjourneys294|Our Journeys 294]]）。
+- 其個人收藏以「29. Collection of Mr. Simon Cheng 鄭良光先生的收藏」入藏 TAH 檔案庫（2017）（[[works/taiwaneseamericanhistory-org/collection-of-mr-simon-cheng|TAH 收藏 #29]]）。
+- 撰寫「565. 台灣人的文化遺產」（2017-08），論述台美人文化遺產傳承（[[works/taiwaneseamericanhistory-org/mystories565|My Stories #565]]）。
+- 以台灣人聯合基金會（TUF）資源身分，其相關紀錄（含林昭亮、曾宇謙、劉孟捷等音樂文化事項）見於 Our Journeys 專輯（[[works/taiwaneseamericanhistory-org/ourjourneys212|Our Journeys 212]]）。
+
 ## Family
 
 - **Wife:** Christine (鄭何如璋)
