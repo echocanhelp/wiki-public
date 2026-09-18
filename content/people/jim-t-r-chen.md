@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-17
 ---
 # Jim T. R. Chen (鄭昭任)
 
@@ -35,6 +35,11 @@ last_reviewed: 2026-08-17
 ## Family
 
 _No filled family fields on the TAH profile._
+
+## Role in the Community
+
+- Profiled in the TAH Foundation Who's Who encyclopedia as record [[works/taiwaneseamericanhistory-org/811-jim-t-r-chen-e9-84-ad-e6-98-ad-e4-bb-bb-201602|811. Jim T. R. Chen 鄭昭任 / 2016-02]] (value band B, published 2016-02-14).
+- Named among the subjects of the Our Journeys volume [[works/taiwaneseamericanhistory-org/ourjourneys33-eng|Our Journeys #33 (EN)]], alongside [[people/s-y-chang|張信義]] and the [[organizations/taiwan-american-foundation|Taiwanese American Foundation]] — community-network mention, no biographical detail in the corpus slice.
 
 ## Sources
 - [TAH #811 encyclopedia: 811. Jim T. R. Chen 鄭昭任/ 2016/02](https://taiwaneseamericanhistory.org/811-jim-t-r-chen-%e9%84%ad%e6%98%ad%e4%bb%bb-201602/)

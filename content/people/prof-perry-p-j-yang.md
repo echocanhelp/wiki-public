@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-17
 ---
 # Prof. Perry P.J. Yang (楊沛儒教授)
 
@@ -33,6 +33,12 @@ Prof. Perry P.J. Yang 楊沛儒教授 – History of Taiwanese American (T.A. Ar
 ## Family
 
 _No filled family fields on the TAH profile._
+
+## Role in the Community
+- Credited on his TAH profile with the History of Taiwanese American / T.A. Archives (台美史料中心) — the community archives whose newsletters are preserved in the corpus as [[works/taiwaneseamericanhistory-org/9-newsletter-of-t-a-archives-january-2016|9. Newsletter of T.A. Archives, 2016-01]] and [[works/taiwaneseamericanhistory-org/26-newsletter-of-t-a-archives-february-2017|26. Newsletter of T.A. Archives, 2017-02]].
+- His own TAH profile is preserved in the corpus as [[works/taiwaneseamericanhistory-org/whos-who-2002-perry-p-j-yang|2002. Prof. Perry P.J. Yang 楊沛儒教授, TAH, 2018-01-31]].
+
+Corpus re-grep 2026-09-17 (slice 09171100-12): grep 楊沛儒 / Perry Yang across content/works + content/articles returns his own stub plus the T.A. Archives newsletter records (which do not name him — linked as context for the archives credited on his profile). No memoir adds biographical facts; no conflicts to hold.
 
 ## Sources
 - [TAH #2002 encyclopedia: 2002. Prof. Perry P.J. Yang 楊沛儒教授](https://taiwaneseamericanhistory.org/whos-who-2002-perry-p-j-yang/)

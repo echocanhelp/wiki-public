@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-17
 ---
 # Christina Lai (賴李煦煦)
 
@@ -35,6 +35,13 @@ Teaching Assistant of Music Dept.
 - **Husband:** 賴懿文
 - **Daughter:** 賴愷甯
 
+
+## Role in the Community
+- Music Director of the New York Formosa Chorus (紐約福爾摩沙合唱團), the chorus promoted by the Formosan Society for Performing Arts (FOSPA); the chorus's own TAH directory record is catalogued as [[works/taiwaneseamericanhistory-org/14-new-york-formosa-chorus|14. New York Formosa Chorus 紐約福爾摩沙合唱團, TAH, 2014-12]].
+- FOSPA's directory entry [[organizations/formosan-society-for-performing-arts-inc-fospa]] documents the chorus's activity context: weekly rehearsals at Union Church in Queens, a Lincoln Center Alice Tully Hall performance for the Glory Star celebration ([[works/taiwaneseamericanhistory-org/concerts126|全球榮星樂展, 2009]]), and the 10th-anniversary "CIRCLE OF LIFE 聲聲不息" concert ([[works/taiwaneseamericanhistory-org/concerts55|concerts #55, 2016-07-16]]). Note: FOSPA's directory names Chiyi Chen (陳智義) as conductor while Christina Lai's TAH profile lists her as Music Director — complementary roles, no date conflict.
+- Her own TAH profile is preserved in the corpus as [[works/taiwaneseamericanhistory-org/whos-who-1895-christina-lai|1895. Christina Lai 賴李煦煦, TAH, 2017-09-20]].
+
+Corpus re-grep 2026-09-17 (slice 09171100-12): grep 賴李煦煦 / Christina Lai / 紐約福爾摩沙合唱團 across content/works + content/articles returns her own stub, the NYFC record #14, concerts #55/#126, and the FOSPA directory entry — absorbed above; no memoir mentions beyond these.
 
 ## Sources
 - [TAH #1895 encyclopedia: 1895. Christina Lai 賴李煦煦](https://taiwaneseamericanhistory.org/whos-who-1895-christina-lai/)
