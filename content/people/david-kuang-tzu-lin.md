@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-18
 ---
 # David Kuang-Tzu Lin (李光治博士)
 
@@ -36,6 +36,9 @@ last_reviewed: 2026-08-17
 ## Family
 
 _No filled family fields on the TAH profile._
+
+## Role in the Community
+- Profiled in the TAH Who's Who record: [[works/taiwaneseamericanhistory-org/whoswho1487|1487. David Kuang-Tzu Lin 李光治 / 2017/01]] (2017-01). No independent corpus memoirs found beyond the press-kit profile; honors and career fields above remain as listed (verification pending).
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/david-kuang-tzu-lin/)

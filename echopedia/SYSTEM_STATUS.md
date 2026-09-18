@@ -1,6 +1,6 @@
 # Echopedia System Status
 
-*Generated: 2026-09-18 04:30 PDT*
+*Generated: 2026-09-18 04:53 PDT*
 
 ## Orientation
 - **Entry:** go <plain language> via go-router (auto-route) · **Control:** [CONTROL.md](CONTROL.md)
@@ -15,13 +15,13 @@
 - **L2 auto-publish on drift:** True
 - **L3 auto-push when green:** True
 - **Last good deploy:** `5cde2b2824`
-- **Last night (ledger):** analyzer scanned 2898 queued 21 suppressed 1869 · 🟡 QUEUE janitor HOLD leftover 38 · 🟡 QUEUE kanban blocked 30 · 🔴 NEED YOU cron fail: echopedia-nightly-audit
+- **Last night (ledger):** related-pages 1 · analyzer scanned 2898 queued 7 suppressed 1945 · 🟡 QUEUE janitor HOLD leftover 40 · 🟡 QUEUE kanban blocked 117
 - **Track SSOT:** `knowledge/operational/intelligence/autonomy-ledger.json`
 
 ## Content
 |- **Tier1 pages:** 2865 (people 2405 / orgs 429 / sources 31) · Tier2 archive: 29103
 |- **Janitor queue depth:** 47
-|- **Uncommitted files:** 31680
+|- **Uncommitted files:** 12159
 
 ## Self-improvement pipeline (Scout → Filter → Extract → Evaluate → Generate → Review)
 || Stage | Script | Last run | Output |
@@ -61,19 +61,19 @@ Load skill **echopedia-ops** first for any wiki work.
     Last run:  2026-09-17T07:01:03.912491-07:00  ok
     Name:      vllm-thermal-scaler
     Schedule:  every 1m
-    Last run:  2026-09-18T04:30:45.891934-07:00  ok
+    Last run:  2026-09-18T04:52:57.294106-07:00  ok
     Name:      Echopedia content analysis
     Schedule:  10 1 * * *
     Last run:  2026-09-18T01:11:27.149905-07:00  ok
     Name:      unified-watchdog
     Schedule:  every 30m
-    Last run:  2026-09-18T04:22:12.124083-07:00  ok
+    Last run:  2026-09-18T04:53:13.232641-07:00  ok
     Name:      echopedia-digest
     Schedule:  20 6 * * *
     Last run:  2026-09-17T06:20:42.523229-07:00  ok
     Name:      memory-audit
     Schedule:  50 4 * * *
-    Last run:  2026-09-17T04:50:57.320191-07:00  ok
+    Last run:  2026-09-18T04:50:56.219476-07:00  ok
     Name:      echopedia-nightly-audit
     Schedule:  15 1 * * *
     Last run:  2026-09-18T01:50:50.275549-07:00  ok

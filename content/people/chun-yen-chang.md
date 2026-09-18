@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-18
 ---
 # Chun-Yen Chang (張俊彥)
 
@@ -42,6 +42,11 @@ _No filled family fields on the TAH profile._
 - [TAH #952 encyclopedia: 952. Chun-Yen Chang 張俊彥 / 2016/04](https://taiwaneseamericanhistory.org/whoswho952/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/chun-yen-chang/)
 
+## Corpus Check (deepen-x 09170900-21)
+
+SKIP-with-reason: corpus scan of `works/` and `articles/` found no primary community material beyond this person's own TAH encyclopedia record — nothing absorbable without inventing biography. Linked the encyclopedia work page below.
+
 ## Related Pages
+- [[works/taiwaneseamericanhistory-org/whoswho952|TAH encyclopedia record #952: Chun-Yen Chang 張俊彥]]
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

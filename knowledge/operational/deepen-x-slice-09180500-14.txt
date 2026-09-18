@@ -1,0 +1,4 @@
+organizations/taiwanese-student-society.md
+people/rev-dave-alexander.md
+people/chu-c-falling-star.md
+people/prof-lily-yeh-ja.md

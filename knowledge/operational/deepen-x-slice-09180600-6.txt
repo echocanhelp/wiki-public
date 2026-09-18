@@ -1,0 +1,4 @@
+people/ted-anderson.md
+people/peggy-cooley.md
+people/beatrice-long.md
+organizations/taiwanese-american-scholarship-fund.md

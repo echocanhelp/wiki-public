@@ -1,0 +1,4 @@
+people/steve-wei.md
+people/jensin-w-sommer.md
+organizations/north-america-taiwanese-medical-association-southern-california-chapte.md
+organizations/taiwan-watch-taiwan-affairs-in-u-s-congress.md

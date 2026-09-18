@@ -1,0 +1,4 @@
+people/min-kao.md
+people/rev-burton-tan.md
+people/chun-chiu.md
+people/jennie-wang.md

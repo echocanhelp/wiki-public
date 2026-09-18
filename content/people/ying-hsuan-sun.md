@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-18
 ---
 # Ying-Hsuan Sun (孫英玄)
 
@@ -40,6 +40,11 @@ _No filled family fields on the TAH profile._
 - [TAH #1325 encyclopedia: 1325. Ying-Hsuan Sun 孫英玄 2016/10](https://taiwaneseamericanhistory.org/whoswho1325/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/ying-hsuan-sun/)
 
+## Corpus Check (deepen-x 09170900-21)
+
+SKIP-with-reason: corpus scan of `works/` and `articles/` found no primary community material beyond this person's own TAH encyclopedia record — nothing absorbable without inventing biography. Linked the encyclopedia work page below.
+
 ## Related Pages
+- [[works/taiwaneseamericanhistory-org/whoswho1325|TAH encyclopedia record #1325: Ying-Hsuan Sun 孫英玄]]
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
