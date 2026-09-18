@@ -6,7 +6,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-17
+last_reviewed: 2026-09-18
 ---
 # 毛清芬
 
@@ -47,6 +47,7 @@ last_reviewed: 2026-09-17
 - 撰文悼念台灣人運動同志張丁蘭 ([[works/taiwaneseamericanhistory-org/329-e7-82-ba-e5-8f-b0-e7-81-a3-e7-84-a1-e6-80-a8-e7-84-a1-e6-82-94-e7-9a-84-e5-b|329. 為台灣無怨無悔的張丁蘭 / 毛清芬]])
 - 美麗島事件後海外台灣人覺醒經驗接受口述訪問（黑名單專題）([[works/taiwaneseamericanhistory-org/black-list-032018|黑名單離鄉半世紀 毛清芬：美麗島事件海外台灣人紛覺醒]])
 - 自傳式傳記頁見 TAH 百科 619 號 ([[works/taiwaneseamericanhistory-org/618-e6-af-9b-e6-b8-85-e8-8a-ac-201509|619. 毛清芬 / 2015/09]])
+- 2002 年與夫羅福全同盧主義夫婦合影於東京，影像刊於盧主義回憶錄《自覺與認同——1950〜1990年海外台灣人運動專輯》([[works/taiwaneseamericanhistory-org/ourjourneys126|126. 台獨聯盟UFI / 盧主義 / 2015-04]])
 
 HOLD: Employment 表載 台灣公論報 財務 1981-87；回憶錄指帳務由毛清芬管理、公論報 1981 年 7 月開始運作，起訖细节以表內年份為準但未經第二來源核實。
 
