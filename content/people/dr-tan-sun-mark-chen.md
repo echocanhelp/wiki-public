@@ -39,8 +39,8 @@ Dr. Tan-Sun (Mark) Chen 陳唐山 – History of Taiwanese American (T.A. Archiv
 ## Role in the Community（海外台灣民主運動紀錄）
 - **全美台灣同鄉會（NATCA）第五屆會長**，会长任期 1979-01-01 至 1980-12-30（[[works/taiwaneseamericanhistory-org/ourjourneys8-eng|Our Journeys 8（EN）]] 历届會長名錄）。1979 年美麗島事件爆發時正值其在任，同鄉會在其領導下積極投入救援工作 — [[works/taiwaneseamericanhistory-org/ourjourneys-138|Our Journeys 138（全美會成立與發展）]]。
 - **世台會（世界台灣同鄉會聯合會）會長**：1982 年世台會年會由其決定在休士頓舉行（Sam Houston State University，約 300 人參加）— [[works/taiwaneseamericanhistory-org/ourjourneys318|Our Journeys 318（美南台美人運動回憶）]]。
-- **國會遊說**：與 Cheng Long Tsai、Chen Su-jen 一同在國會作證，證詞列入國會永久紀錄；兩次國會聽證累積的遊說信心直接催生 FAPA（台灣人公共事務會）— [[works/taiwaneseamericanhistory-org/ourjourneys8-eng|Our Journeys 8（EN）]]。曾出席 15 人發起討論（討論後转向成立專責外交事務組織，即 FAPA 前身），本人列席 — [[works/taiwaneseamericanhistory-org/ourjourneys65-eng|Our Journeys 65（EN）]]。
-- **社區媒體**：任全美會、世台會會長期間主動向《鄉訊》提供訊息，被該刊定期報導 — [[works/taiwaneseamericanhistory-org/ourjourneys49|Our Journeys 49（鄉訊編輯回憶）]]。
+- **國會遊說**：與 Cheng Long Tsai、Chen Su-jen 一同在國會作證，證詞列入國會永久紀錄；兩次國會聽證累積的遊說信心直接催生 FAPA（台灣人公共事務會）— [[works/taiwaneseamericanhistory-org/ourjourneys8-eng|Our Journeys 8（EN）]]。曾出席 15 人發起討論（2 月 13 日舉行，與會者含 Charles Ting、Kenjohn Wang、Philip Chen、Tu Chen 等；會中先討論設廣播台向島內宣傳，多數意見認為島內反國民黨刊物已多、且國民黨必將干擾而搁置，轉而討論成立專責外交事務組織，即 FAPA 前身），本人列席 — [[works/taiwaneseamericanhistory-org/ourjourneys65-eng|Our Journeys 65（EN）]]。
+- **社區媒體**：任全美會、世台會會長期間主動向《鄉訊》提供訊息，被該刊定期報導（主編：「差不多一個星期就要提到他一次」）；FAPA 成立後報導重心轉向蔡同榮 — [[works/taiwaneseamericanhistory-org/ourjourneys49|Our Journeys 49（鄉訊編輯回憶）]]。
 - **「回不了家」的經典故事**：留美期間因投入海外台灣民主化運動被列黑名單回不了台灣，因此在華盛頓成家立業；解嚴後返鄉，又因任外交部長而無法回華府探望兒孫——20 餘年兩頭「回不了家」，被視為台美人處境的寫照 — [[works/taiwaneseamericanhistory-org/ourjourneys320|Our Journeys 320（台灣旅行法與台美人故事）]]。
 - 本人回憶錄為上述社群文獻所引用：陳唐山，2016，《黑名單與外交部長 陳唐山回憶錄》（台北：前衛出版社）。
 

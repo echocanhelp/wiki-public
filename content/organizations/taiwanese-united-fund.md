@@ -36,7 +36,7 @@ last_reviewed: 2026-09-18
 
 ## From the record
 
-- 2024-02-28 — TUF（台灣人聯合基金會）與優社（TEA）聯合主辦第17屆「台灣介靈日」二二八77週年紀念音樂會（Arcadia Community Church），前會長潘掬慧表示自二二八60周年起堅持228當晚以音樂會悼念已17屆；陳宏文牧師帶領祈禱，壓軸全體合唱王明哲詞曲《台灣》（[[articles/taiwanjustice-net/2024/20240522044953_root_47725345581e0f61|TJJ 影音報導, 2024-03-04]]）。
+- 2024-02-28 — TUF（台灣人聯合基金會）與優社（TEA）聯合主辦第17屆「台灣介心靈日」二二八77週年紀念音樂會（Arcadia Community Church），前會長潘掬慧表示自二二八60周年起堅持228當晚以音樂會悼念已17屆；陳宏文牧師帶領祈禱，壓軸全體合唱王明哲詞曲《台灣》（[[articles/taiwanjustice-net/2024/20240522044953_root_47725345581e0f61|TJJ 影音報導, 2024-03-04]]）。
 - 2024-12-21 — Co-supported the 第161回世界台灣文化論壇 online symposium 「台灣現代舞團 Huang Yi & Kuka 北美巡演迴響」 (moderated by 鄭良光 of the 美國台灣人聯合基金會) alongside host Caltech and sponsors 台灣書院 and the 台灣人基金會 ([[articles/taiwanjustice-net/2025/20250425112924_huangyi-kuka-第161回世界台灣文化論壇_7dfa96523779391d|TJJ, 2024-12-17]]).
 
 ## Role in the Community
