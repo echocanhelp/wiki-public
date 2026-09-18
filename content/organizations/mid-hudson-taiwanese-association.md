@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-18
 ---
 # Mid-Hudson Taiwanese Association (哈德遜中區臺灣同鄉會)
 
@@ -17,6 +17,9 @@ last_reviewed: 2026-08-17
 - **Core roles:** Community organization (TAH directory)
 
 The Mid-Hudson Taiwanese Association (MHTA) is a regional chapter of the Taiwanese Association of America (全美台灣同鄉會), serving the Taiwanese American community in the Mid-Hudson Valley area of New York State. It is listed under the TAA’s East Northern (美東北) regional grouping alongside other New York and mid-Atlantic chapters.
+
+## Role in the Community
+- SKIP-with-reason (2026-09-18): corpus grep over `content/works` / `content/articles` for 「Mid-Hudson」/「哈德遜中區」 returned zero hits — no memoir or community material to absorb beyond the TAH directory listing already reflected above.
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/mid-hudson-taiwanese-association/)
