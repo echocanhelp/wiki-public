@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-18
 ---
 # Monica Su (蘇千芳)
 
@@ -33,6 +33,11 @@ last_reviewed: 2026-08-17
 ## Family
 
 _No filled family fields on the TAH profile._
+
+## Role in the Community
+
+- **2016-09-11** — Profiled twice in the TAH story corpus on the same day, documenting her as a Taiwanese American cellist in the musician series and the Who's Who encyclopedia: [[works/taiwaneseamericanhistory-org/musician360|360. Monica Su 蘇千芳, Cellist]] and [[works/taiwaneseamericanhistory-org/whoswho1266|1266. Monica Su 蘇千芳 / 09/2016]]. She appears in the same 2016-09-11 batch as fellow Taiwanese American musicians [[works/taiwaneseamericanhistory-org/musician361|鄭希暉 (violist)]] and [[works/taiwaneseamericanhistory-org/musician359|吳開智 (pianist)]].
+- No memoir or first-person account by her is in the corpus; the record is bibliographic only.
 
 ## Sources
 - [TAH #1266 encyclopedia: 1266. Monica Su 蘇千芳 / 09/2016](https://taiwaneseamericanhistory.org/whoswho1266/)

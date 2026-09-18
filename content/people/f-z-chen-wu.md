@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-18
 ---
 # F. Z. Chen Wu (吳陳芳容醫師)
 
@@ -35,6 +35,11 @@ last_reviewed: 2026-08-17
 
 - **Husband:** [[people/chung-h-wu||吳忠修]]
 
+
+## Role in the Community
+
+- **2016-10-27** — Who's Who encyclopedia entry archived in the TAH story corpus as [[works/taiwaneseamericanhistory-org/whoswho1348|1348. F. Z. Chen Wu 吳陳芳容 / 2016/10]] (bibliographic record only; no memoir in the corpus).
+- Note: other corpus hits for "Chen Wu" (吳貞貞 Chen-Chen Wu, 吳紀禛 Chi-Chen Wu — pianists, daughters of 楊碧珠 Pearl Wu) are different people; no biography absorbed from them.
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/f-z-chen-wu/)
