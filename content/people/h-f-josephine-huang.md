@@ -40,6 +40,7 @@ last_reviewed: 2026-09-18
 - Undated (community memoir) — co-chaired a cross-organization Taiwanese community conference in rotation with [[people/gin-ru-yeh|葉錦如]] and 陳立明: round-table format, each group proposing two topics, 43 issues drawn by lot and debated over a day and a half, with all seven Taiwan Centers in the US represented — recalled in [[works/taiwaneseamericanhistory-org/ourjourneys112|TAH ourjourneys112 community memoir]].
 - Listed among signatories as Josephine Huang in [[works/taiwaneseamerican-org/pew-research-center-taiwanese-american-statement|TA.org Pew Research Center Taiwanese American statement]].
 - Corpus re-grep 2026-09-17: beyond the above, the only other works/articles hits are her own TAH directory record [[works/taiwaneseamericanhistory-org/whos-h-f-josephine-huang|TAH 1167]] and the TJJ WHA/scholarship articles already recorded above — no further absorbable material.
+- 複核（deepen-x slice-09180131-12, 2026-09-18）：re-grep 黃河芬|Josephine Huang 命中集相同（ourjourneys112、本人書目 #1167、TA.org Pew 聲明、TJJ WHA＋鄭寶鼎悼念文、index）— SKIP：全部已 wikilink，無新回憶錄/社群材料可吸收。
 
 ## Sources
 - [TAH #1167 encyclopedia: 1167. H. F. Josephine Huang 黃河芬 / 2016/07](https://taiwaneseamericanhistory.org/whos-h-f-josephine-huang/)

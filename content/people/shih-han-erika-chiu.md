@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-17
+last_reviewed: 2026-09-18
 ---
 # Shih-han Erika Chiu (邱詩涵)
 
@@ -53,4 +53,4 @@ _No filled family fields on the TAH profile._
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 ## Corpus re-grep log
-- 每輪以 邱詩涵 / Shih-han (Erika) Chiu 重搜 content/works + content/articles（2026-09-15；slices 09160109-20、09160316-17、09160400-18、09160600-21）：命中集不變——僅本人 TAH 書目頁 [[works/taiwaneseamericanhistory-org/245-shih-han-erika-chiu-e9-82-b1-e8-a9-a9-e6-b6-b5-basson-201507|TAH #245, Bassoon · band B]]／[[works/taiwaneseamericanhistory-org/502-shih-han-erika-chiu-e9-82-b1-e8-a9-a9-e6-b6-b5-201507|TAH #502 · band B]]（皆已列於 Vault Holdings）與 works/index 彙整行。頁面首行雖提及台美史料中心（T.A. Archives），但本庫尚無其檔案材料，無回憶錄／社群事蹟可吸收，亦無衝突需 HOLD。SKIP-with-reason。（slice 09160700-20 覆核：命中僅 #245、#502、index，集合不變，無新材料。slice 09162138-16 覆核：命中集同前，無新材料。slice 09162200-14 覆核（2026-09-16）：命中僅 #245、#502、index，命中集不變，SKIP-with-reason。slice 09170130-11 覆核（2026-09-17）：命中僅 #245、#502、index，命中集不變，SKIP-with-reason。slice 09170500-10 覆核（2026-09-17）：命中僅 #245、#502、index，無新材料，SKIP-with-reason。）
+- 每輪以 邱詩涵 / Shih-han (Erika) Chiu 重搜 content/works + content/articles（2026-09-15；slices 09160109-20、09160316-17、09160400-18、09160600-21）：命中集不變——僅本人 TAH 書目頁 [[works/taiwaneseamericanhistory-org/245-shih-han-erika-chiu-e9-82-b1-e8-a9-a9-e6-b6-b5-basson-201507|TAH #245, Bassoon · band B]]／[[works/taiwaneseamericanhistory-org/502-shih-han-erika-chiu-e9-82-b1-e8-a9-a9-e6-b6-b5-201507|TAH #502 · band B]]（皆已列於 Vault Holdings）與 works/index 彙整行。頁面首行雖提及台美史料中心（T.A. Archives），但本庫尚無其檔案材料，無回憶錄／社群事蹟可吸收，亦無衝突需 HOLD。SKIP-with-reason。（slice 09160700-20 覆核：命中僅 #245、#502、index，集合不變，無新材料。slice 09162138-16 覆核：命中集同前，無新材料。slice 09162200-14 覆核（2026-09-16）：命中僅 #245、#502、index，命中集不變，SKIP-with-reason。slice 09170130-11 覆核（2026-09-17）：命中僅 #245、#502、index，命中集不變，SKIP-with-reason。slice 09170500-10 覆核（2026-09-17）：命中僅 #245、#502、index，無新材料，SKIP-with-reason。slice 09180131-11 覆核（2026-09-18）：命中僅 #245、#502、index，命中集不變，無回憶錄/社群材料可吸收，SKIP-with-reason。）
