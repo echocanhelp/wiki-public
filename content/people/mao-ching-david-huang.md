@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-17
+last_reviewed: 2026-09-18
 ---
 # Mao-ching David Huang (黃茂清)
 
@@ -38,7 +38,7 @@ Mao-ching (David) Huang 黃茂清 – History of Taiwanese American (T.A. Archiv
 - **Community writer:** authored 「生前信託」, a piece on living trusts published 1998/03 in the community Life/生活 column — [[works/taiwaneseamericanhistory-org/life88|88. 生前信託/黃茂清/1998/03/Life/生活]].
 - **Subject of a family memoir:** his life story was written up by 黃樹人 — [[works/taiwaneseamericanhistory-org/mystories523|523. 黃茂清的人生故事 / 黃樹人 /02/2017]].
 - **First-generation Taiwanese American lawyer records:** his own TAH encyclopedia entries are preserved in-corpus at [[works/taiwaneseamericanhistory-org/ff318|318. Mao-ching (David) Huang 黃茂清 / First President of Taiwanese American Lawyers]], [[works/taiwaneseamericanhistory-org/ff369|369. Mao-ching (David) Huang 黃茂清 / First Male Lawyers / 1975]], and [[works/taiwaneseamericanhistory-org/whoswho1415|1415. Mao-ching (David) Huang 黃茂清 / 2016/12]].
-- Corpus re-grep 2026-09-17: English Flamingo Garden account ([[works/taiwaneseamericanhistory-org/ourjourneys173-eng|ourjourneys173-eng]]) confirms "three lawyers, Mao-ching (David) Huang, Chung-yuan Liao, and R. S. Wu as legal advisers" — consistent with the held count discrepancy above; no new facts beyond those recorded.
+- Corpus re-grep 2026-09-18: hit set unchanged from 2026-09-17 (ourjourneys173, ourjourneys173-eng, life88, mystories523, whoswho1415, ff318/ff369) — English Flamingo Garden account ([[works/taiwaneseamericanhistory-org/ourjourneys173-eng|ourjourneys173-eng]]) still the only corroborating source for "three lawyers, Mao-ching (David) Huang, Chung-yuan Liao, and R. S. Wu as legal advisers"; count discrepancy remains held, no new facts.
 - CAUTION: [[works/taiwaneseamericanhistory-org/whos-who-2132-david-huang|2132. Rev. David Huang 黃德利牧師]] is a different person despite the shared English name — not linked as a subject.
 
 ## Family

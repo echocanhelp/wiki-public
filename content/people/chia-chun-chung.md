@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-17
+last_reviewed: 2026-09-18
 ---
 # Chia-Chun Chung (鍾佳君)
 
@@ -32,7 +32,7 @@ Laboratory Technician; Manufacturing Engineer; Lean Operations Manager; Senior M
 
 ## Role in the Community
 
-- FAPA Massachusetts Chapter President (per TAH profile), alongside her manufacturing-engineering career.
+- FAPA Massachusetts Chapter President (per TAH profile), alongside her manufacturing-engineering career; profile recorded in [[works/taiwaneseamericanhistory-org/whos-who-1721-chia-chun-chung|1721. Chia-Chun Chung 鍾佳君]].
 - English translator of the documentary Dear Taiwan《好國好民》(dir. 陳麗貴, supported by 全美台灣同鄉會 and 華府台灣文化中心); together with 張皓博 she hosted the post-screening discussions on the film's U.S. tour and served as its public contact [[articles/taiwanjustice-net/2024/20240719002430_root_1f001897255f71a7|Dear Taiwan screening tour notice]].
 - Listed as public contact for the Taiwanese-American youths' statement on Taiwan's right to self-determination during the Hu Jintao visit [[works/taiwaneseamerican-org/taiwanese-american-youths-voice-taiwans-right-to-self-determination-during-hu-ji|TA youths' voice]].
 - Signatory of the Pew-research-sourced Taiwanese American statement [[works/taiwaneseamerican-org/pew-research-center-taiwanese-american-statement|Pew TA statement]].

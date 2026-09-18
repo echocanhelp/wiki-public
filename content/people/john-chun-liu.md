@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-17
+last_reviewed: 2026-09-18
 ---
 # John Chun Liu (劉醇逸)
 
@@ -45,7 +45,7 @@ Accomplishment
 - **Summer camp lineage:** Appeared by video at the 2022 post-pandemic 美東台灣人夏令會, noting he had attended the camp every year since childhood as elders watched him grow up — per [[articles/taiwanjustice-net/2022/20220813063444_2022_06_29_美東台灣人夏令會疫後回歸_童振源感謝僑界貢獻_40aafe4c9e048251|taiwanjustice.net coverage, 2022-06-29]].
 - **First Taiwanese American NYC Comptroller (2010–2013)**; NYC Council Member 2002–2009; later NY State Senator (as covered in 2022 reporting).
 - **Directory record:** his own TAH Who's Who entry exists in-corpus at [[works/taiwaneseamericanhistory-org/whos-who-50-john-chun-liu|50. John Chun Liu 劉醇逸]] and his New York profile at [[works/taiwaneseamericanhistory-org/john-c-liu|2. John C. Liu 劉醇逸 in New York]].
-- Corpus re-grep 2026-09-17: hit set unchanged (ota-148, ourjourneys5-9-11-donations-2002, john-c-liu, whos-who-50, index, 2022 taiwanjustice.net article) — all coverage already absorbed above; no new community facts.
+- Corpus re-grep 2026-09-18: hit set unchanged (ota-148, ourjourneys5-9-11-donations-2002, john-c-liu, whos-who-50, index, 2022 taiwanjustice.net article) — all coverage already absorbed above; no new community facts.
 
 ## Sources
 - [TAH #148 encyclopedia: 148. Chun John Liu 劉醇逸](https://taiwaneseamericanhistory.org/ota-148/)
