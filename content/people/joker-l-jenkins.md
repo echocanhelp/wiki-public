@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-18
 ---
 # Joker L. Jenkins (簡傑克)
 
@@ -35,6 +35,11 @@ last_reviewed: 2026-08-17
 ## Family
 
 _No filled family fields on the TAH profile._
+
+## Role in the Community
+- Sole corpus presence is his own TAH Who's Who encyclopedia record, published 2015-11-14: [[works/taiwaneseamericanhistory-org/704-joker-l-jenkins-e7-b0-a1-e5-82-91-e5-85-8b-201511|704. Joker L. Jenkins 簡傑克 / 2015/11]] (bibliographic record only). No memoir or article in the corpus narrates community activity — nothing further absorbable without inventing biography.
+- HOLD: name-collision note — the only other corpus mentions of "Jenkins" are different people (韓戰越界美兵 Charles Jenkins and 明州議員 Andrea Jenkins in Taiwan Justice articles); do not conflate with Joker L. Jenkins.
+- Record's community significance: a Taiwanese American reaching captain-of-the-ship rank in the US Navy (USS Gary 2006, USS Essex 2012), which is why TAH recorded him.
 
 ## Sources
 - [TAH #704 encyclopedia: 704. Joker L. Jenkins 簡傑克 / 2015/11](https://taiwaneseamericanhistory.org/704-joker-l-jenkins-%e7%b0%a1%e5%82%91%e5%85%8b-201511/)

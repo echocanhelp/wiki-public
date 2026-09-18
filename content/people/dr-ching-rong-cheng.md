@@ -34,6 +34,10 @@ Dr. Ching-Rong Cheng 鄭清榮醫師 – History of Taiwanese American (T.A. Arc
 
 _No filled family fields on the TAH profile._
 
+## Role in the Community
+- Corpus presence is limited to his own TAH Who's Who encyclopedia record, published 2017-05-25: [[works/taiwaneseamericanhistory-org/whos-who-1678-ching-rong-cheng|1678. Dr. Ching-Rong Cheng 鄭清榮醫師]]. No memoir or article in `works/`/`articles/` narrates community activity beyond this record — nothing further absorbable without inventing biography.
+- Community roles per that record: anesthesiologist and associate professor at UC San Diego Health System; earlier Director of Anesthesiology at Mackay Memorial Hospital (台北醫學大學 M.D.).
+
 ## Sources
 - [TAH #1678 encyclopedia: 1678. Dr. Ching-Rong Cheng 鄭清榮醫師](https://taiwaneseamericanhistory.org/whos-who-1678-ching-rong-cheng/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-ching-rong-cheng/)
