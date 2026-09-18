@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-18
 ---
 # Annie Lee (李大妮)
 
@@ -33,6 +33,10 @@ last_reviewed: 2026-08-17
 ## Family
 
 _No filled family fields on the TAH profile._
+
+## Role in the Community
+
+Anesthesiologist in the Hacienda Heights/Los Angeles area. The corpus's only record naming her is her own TAH Who's Who profile ([[works/taiwaneseamericanhistory-org/whoswho1256|1256. Annie Lee 李大妮]], published 2016-08-21); no community memoir or event records mention her beyond that bibliographic entry.
 
 ## Sources
 - [TAH #1256 encyclopedia: 1256.  Annie Lee 李大妮 / 2016/08](https://taiwaneseamericanhistory.org/whoswho1256/)
