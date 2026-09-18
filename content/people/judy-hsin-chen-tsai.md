@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-18
 ---
 # Judy Hsin-Chen Tsai (蔡幸珍)
 
@@ -26,6 +26,12 @@ last_reviewed: 2026-08-17
 - **Husband:** Frank Muramoto
 - **Daughter:** Emily Muramoto蔡蕙宇
 
+
+## Role in the Community
+
+- Profiled in the TAH Who's Who encyclopedia ([[works/taiwaneseamericanhistory-org/845-judy-hsin-chen-tsai-201602|TAH #845, Judy Hsin-Chen Tsai 蔡幸珍 / 2016/02]])
+- 2015 — President, Northern America Taiwanese Women's Association, Southern California Chapter (北美洲台灣婦女會南加州分會)
+- 2018 — Elected individual director (個人董事), 11th board, 大洛杉磯台灣會館 (see From the record below)
 
 ## From the record
 

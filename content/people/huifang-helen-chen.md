@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-18
 ---
 # Huifang Helen Chen
 
@@ -32,6 +32,10 @@ Huifang Chen, a native of Taiwan, earned her Bachelor of Music Degree from the C
 ## Family
 
 _No filled family fields on the TAH profile._
+
+## Role in the Community
+- Her community record is held in the TA.org story corpus as part of the March 2015 Taiwanese-American musicians series: [[works/taiwaneseamericanhistory-org/184-huifang-helen-chen-violinist-201503|184. Huifang Helen Chen, Violinist / 2015/03]] (published 2015-03-29), catalogued alongside contemporaries [[works/taiwaneseamericanhistory-org/185-ming-feng-hsin-e8-be-9b-e6-98-8e-e5-b3-b0-violinist-conductor-201503|185. Ming Feng Hsin 辛明峰, Violinist & Conductor]] and [[works/taiwaneseamericanhistory-org/183-susan-shu-ai-tsai-e8-94-a1-e6-b7-91-e6-84-9b-pianist-201503|183. Susan Shu-Ai Tsai 蔡淑愛, Pianist]].
+- No Chinese name appears in any corpus record (the TAH profile's 漢名 field is empty); no 漢名 backfill possible — pending owner/community input.
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/huifang-helen-chen/)
