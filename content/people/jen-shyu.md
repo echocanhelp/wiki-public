@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-17
 ---
 # Jen Shyu (徐雁秋)
 
@@ -32,6 +32,13 @@ Experimental vocalist, composer,multi-instrumentalist, dancer, andproducer, 2014
 ## Employment
 - Experimental vocalist, composer,multi-instrumentalist, dancer, andproducer, 2014 Doris DukeImpactAward recipient and Fulbright Scholar
 <!-- tah-tables:end -->
+
+## Role in the Community
+- HOLD: name conflict — this page carries 徐雁秋 but every corpus record names her 徐秋雁; not auto-merged.
+- Documented in the TAH story corpus as a recording artist with three music-CD records: [[works/taiwaneseamericanhistory-org/534-synastry-e5-be-90-e7-a7-8b-e9-9b-81-jen-shyu-music-e9-9f-b3-e6-a8-82cd||534. Synastry]] (2015-02-15), [[works/taiwaneseamericanhistory-org/535-jade-tongue-e5-be-90-e7-a7-8b-e9-9b-81-jen-shyu2008-music-e9-9f-b3-e6-a8-82c||535. Jade Tongue]] (2008, catalogued 2015-02-15), and [[works/taiwaneseamericanhistory-org/536-for-now-e5-be-90-e7-a7-8b-e9-9b-81-jen-shyu-music-e9-9f-b3-e6-a8-82cd||536. For Now]] (2015-02-15).
+- Profiled in the 依妙黃 (黃怡妙) series: [[works/taiwaneseamericanhistory-org/72-yi-miao-huang-e9-bb-83-e6-80-a1-e5-a6-99-2||72. Jen Shyu 徐秋雁]] (2014-10-28), and as vocalist/composer: [[works/taiwaneseamericanhistory-org/83-jen-shyu-e5-be-90-e9-9b-81-e7-a7-8b-vocalist-and-composer||83. Jen Shyu 徐秋雁, Vocalist and Composer]] (2014-11-26).
+- Performance video record: [[works/taiwaneseamericanhistory-org/videos-jen-shyus-nine-doors||87. Jen Shyu's NINE DOORS]] (2017-12-06).
+- Corpus records are bibliographic (band B); they corroborate the multi-instrumentalist/vocalist profile and add no conflicting dates.
 
 ## Family
 

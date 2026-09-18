@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-17
 ---
 # Sally Tsai (蔡淑理)
 
@@ -20,6 +20,11 @@ last_reviewed: 2026-08-17
 - **Source:** TAH Foundation Who’s Who
 
 1. 1996年受邀New York’s Carnegie Hal I與Shiao-Ya Chamber Orchestra演出，並在美國與台灣各 大城市文化中心巡迴演出
+
+## Role in the Community
+
+- 2018年泰然音樂節（蘇泰然紀念合唱交響曲演出）期間，蔡淑理在南灣帶領「百合花」合唱團練唱，為五區分區練唱之一（東區由許恂恂指揮，Irvine台美人團由賴美芬及王淑女負責）。見 [[works/taiwaneseamericanhistory-org/ourjourneys340|340. 寫在泰然音樂節前夕 / 許丕龍 / 2018]]。
+- TAH 紀錄庫有其個人專輯頁：[[works/taiwaneseamericanhistory-org/345-sally-tsai-e8-94-a1-e6-b7-91-e7-90-86-201503|345. Sally Tsai 蔡淑理 2015/03]]、[[works/taiwaneseamericanhistory-org/181-sally-tsai-e8-94-a1-e6-b7-91-e7-90-86-soprano-201503|181. Sally Tsai 蔡淑理, Soprano 2015/03]]。
 
 <!-- tah-tables:start -->
 ## Education

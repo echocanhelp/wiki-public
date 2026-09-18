@@ -4,7 +4,7 @@ type: person
 tags:
   - 
 verification_status: pending
-last_reviewed: 2026-07-08
+last_reviewed: 2026-09-17
 ---
 # San Francisco Theological Seminary
 
@@ -22,6 +22,10 @@ Through leaders trained there, the seminary is connected to early theological in
 - Type: Theological seminary
 - Geography: San Francisco, California
 - Core roles: theological education, research, ecclesial training
+
+## Role in the Community
+
+SKIP-with-reason (2026-09-17 deepen-x): corpus grep of `content/works` + `content/articles` for "San Francisco Theological Seminary"/SFTS found no substantive hits (only unrelated tag pages in taiwanjustice-net). No new absorbable community facts beyond the existing Albert S. Lai dissertation record.
 
 ## Related Pages
 
