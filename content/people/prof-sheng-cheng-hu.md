@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-17
+last_reviewed: 2026-09-18
 ---
 # Prof. Sheng-cheng Hu (胡勝正教授)
 
@@ -61,3 +61,4 @@ _No filled family fields on the TAH profile._
 - Corpus re-grep 2026-09-16 (slice 09162200-7): hit set unchanged (#150、#2150、ourjourneys47 NATPA 籌備記述已吸收、index). SKIP — saturated, no new community facts, no conflicts to HOLD.
 - Corpus re-grep 2026-09-17 (slice 09170130-4): hit set unchanged (#150、#2150、ourjourneys47 NATPA 籌備記述已吸收於 Role in the Community、index). SKIP — saturated, no new community facts, no conflicts to HOLD.
 - Corpus re-grep 2026-09-17 (slice 09170500-3): hit set unchanged (#150, #2150, ourjourneys47 NATPA prep note already absorbed in Role in the Community, works index). SKIP — saturated, no new community facts, no conflicts to HOLD.
+- Corpus re-grep 2026-09-18 (slice 09180131-2): hit set unchanged (#150, #2150, ourjourneys47 NATPA 籌備記述已吸收, index). SKIP — saturated, no new community facts, no conflicts to HOLD.

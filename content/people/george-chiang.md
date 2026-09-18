@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-17
+last_reviewed: 2026-09-18
 ---
 # George Chiang (江正吉)
 
@@ -29,7 +29,8 @@ Accomplishment
 
 ## Role in the Community
 Corpus shows Chiang as an active contributor to the TAH story corpus and to the community's material record, not just a press-kit bio:
-- Essayist for the TA Archives "My Stories" series: [[works/taiwaneseamericanhistory-org/mystories-747|747. 緬懷鄭寶鼎先生之餘 (2020/09)]], [[works/taiwaneseamericanhistory-org/mystories648|648. 參加北加州百人大合唱 (2018/08)]], [[works/taiwaneseamericanhistory-org/mystories7|7. 友西將(チヤン)]], [[works/taiwaneseamericanhistory-org/mystories499|499. 恐怖分子 (2017/01)]].
+- Essayist for the TA Archives "My Stories" series: [[works/taiwaneseamericanhistory-org/mystories-747|747. 緬懷鄭寶鼎先生之餘 (2020/09)]], [[works/taiwaneseamericanhistory-org/mystories648|648. 參加北加州百人大合唱 (2018/08)]], [[works/taiwaneseamericanhistory-org/mystories7|7. 友西將(チヤン)]], [[works/taiwaneseamericanhistory-org/mystories499|499. 恐怖分子 (2017/01)]], [[works/taiwaneseamericanhistory-org/mystories6|6. 回顧「九一一」慘劇 (2014/08)]].
+- Essayist for Taiwan Justice (台灣正义論壇): 寫作的樂趣 (2021-12-26, archived in corpus) — Chiang's own account of how a junior-high 國文 teacher's advice turned a diary habit into six decades of writing, the origin story behind his essays above.
 - Self-written memoir: [[works/taiwaneseamericanhistory-org/publications1123|1123. 走過必留下痕跡 (2017/07, Autobiography/自傳)]] — Chiang authored his own life record for the corpus, the primary community-source biography for this page.
 - Co-author of the collective autobiography [[works/taiwaneseamericanhistory-org/publications1046|1046. 台美人生命腳跡 (2016/11, Autobiography/自傳)]] with 黃東昇、林靜竹、劉光道、陳天令、劉惠麗、劉宗憲、柯耀宗 — one of the multi-author life-writing volumes the movement archived, placing Chiang within a cohort of seven Taiwanese American autobiographers.
 - Artifact donor: TA Archives artifact record [[works/taiwaneseamericanhistory-org/66-t-shirts-hats-and-other-artifacts-donated-by-george-chiang|66. T-shirts, Hats and other Artifacts donated by George Chiang]] (2018) — movement memorabilia he contributed to the archive itself — and the larger donation record [[works/taiwaneseamericanhistory-org/collection-of-mr-george-chiang|53. Collection of Mr. George Chiang 江正吉先生的收藏]] (2017-12-22), his personal collection deposited with the archive.

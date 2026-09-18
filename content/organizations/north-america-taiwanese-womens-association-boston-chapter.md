@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-18
 ---
 # North America Taiwanese Women’s Association – Boston Chapter (北美洲台灣婦女會波士頓分會)
 

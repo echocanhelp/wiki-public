@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-17
+last_reviewed: 2026-09-18
 ---
 # Taiwanese Scholar Association in St. Louis TSA-STL (聖路易台灣學者協會)
 
@@ -44,3 +44,4 @@ Text above is absorbed solely from vault pages of the cited TAH records; no exte
 - Corpus re-grep 2026-09-16 (slice 09162200-7): hit set unchanged（#21 介紹文、#1220／#1221 年會手冊皆已引於上方、index）。SKIP — saturated，無干部/會員或回憶錄新材料。
 - Corpus re-grep 2026-09-17 (slice 09170130-4): hit set unchanged（#21、#1220／#1221 年會手冊皆已引於上方、index）。SKIP — saturated，無干部/會員或回憶錄新材料可吸收。
 - Corpus re-grep 2026-09-17 (slice 09170500-2): hit set unchanged（#21 介紹文、#1220／#1221 年會手冊皆已引於上方、works/index）。SKIP — saturated，無新材料可吸收。
+- Corpus re-grep 2026-09-18 (slice 09180131-1): 精確名（TSA-STL／聖路易台灣學者協會）命中集不變（#21、#1220／#1221、index，皆已引於上方）。地緣廣搜（St. Louis）僅見其他聖路易社團書目頁（TAA-STL、NATWA-STL、青年國樂團、客屬會、教會通讯），無本會干部/會員或回憶錄材料。SKIP — saturated，無新材料可吸收。

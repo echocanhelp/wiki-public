@@ -71,3 +71,6 @@ _No filled family fields on the TAH profile._
 
 ## Corpus re-grep (deepen-x slices 09170130-4, 09170500-1)
 - 2026-09-17: hit set unchanged — Emily Muramoto／蔡蕙宇 matches only her own TAH bibliography page [[works/taiwaneseamericanhistory-org/331-emily-muramoto-vocalist-201602|#331]] (band B, fully absorbed) and works/index catalog rows. No memoir/community material to absorb. SKIP-with-reason; no conflicts to HOLD.
+
+## Corpus re-grep (deepen-x slice 09180131-1)
+- 2026-09-18: hit set again unchanged (own #331 bibliography page + works/index rows only). No memoir/community material. SKIP-with-reason; no conflicts to HOLD.
