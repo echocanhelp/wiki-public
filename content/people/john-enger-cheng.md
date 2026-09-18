@@ -38,6 +38,7 @@ Accomplishment
 
 ## Role in the Community
 - Documented across three TAH encyclopedia records spanning 2015–2019: [[works/taiwaneseamericanhistory-org/artist36-john-cheng|TAH #36 — 鄭榮得 John Cheng, artist (2015-03)]], [[works/taiwaneseamericanhistory-org/whos-who-1019-john-enger-cheng|TAH #1019 (2016-05-26)]], and [[works/taiwaneseamericanhistory-org/ota-227|TAH #227 (2019-01-20)]] — each a bibliographic record.
+- Interviewed for the TAH story corpus in 閃亮的第二代—訪鄭榮得 (2015-04-14, by 李淑櫻), a second-generation profile in the My Stories series: [[works/taiwaneseamericanhistory-org/mystories231|TAH #231 — 閃亮的第二代 訪鄭榮得 (2015-04)]]. The interview frames him as part of the 閃亮的第二代 ("shining second generation") cohort — children of the movement generation who carried the community's cultural work into the arts.
 - Appears in the corpus as an artist/designer second-generation profile (USC Roski School; Winnow+Glean co-founder); son of [[people/simon-cheng|Simon Cheng 鄭良光]]. No movement-organizational roles recorded in the vault corpus.
 
 ## Sources
