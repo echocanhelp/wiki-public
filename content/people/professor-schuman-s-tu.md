@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-17
+last_reviewed: 2026-09-18
 ---
 # Professor Schuman S. Tu (杜新茂教授)
 
@@ -37,6 +37,8 @@ Professor Schuman S. Tu 杜新茂 – History of Taiwanese American (T.A. Archiv
 - With 許子津, co-conceived the 「台灣經濟研究所」 from 1975 (prompted by 大同公司's US tech scouting); drafted the 籌設綱領, gained 李國鼎's endorsement, and pitched industrial leaders incl. 吳三連 (台泥/環球水泥 pledge of US$1 per exported ton), 王永慶 (land donation offer), 林挺生, 辜振甫, 吳金川 — [[works/taiwaneseamericanhistory-org/ourjourneys282|282. 台美人籌設「台灣經濟研究所」軼事 (04/2017)]].
 - Contributed to the 台美人顧台灣 series with the Elite Project 伯樂計畫 essay — [[works/taiwaneseamericanhistory-org/97-care-for-taiwan-by-taiwanese-americans-5-elite-project-e5-8f-b0-e7-be-8e-e4-b|97. Care for Taiwan by Taiwanese American: 5. Elite Project 伯樂計畫 (2015/02)]].
 - Subject profile in the archives — [[works/taiwaneseamericanhistory-org/162-professor-schuman-s-tu-e6-9d-9c-e6-96-b0-e8-8c-82|162. Professor Schuman S. Tu 杜新茂]].
+
+- Corpus check 2026-09-18 (slice 09180131-21): re-grepped content/works + content/articles — hit set identical to the records already wikilinked above (the #520 match was Schumann piano records, unrelated); no new absorbable community/memoir material.
 
 ## Family
 
