@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-17
+last_reviewed: 2026-09-18
 ---
 # Jimenez Lai (賴彥吉)
 
@@ -33,7 +33,7 @@ last_reviewed: 2026-09-17
 
 ## Role in the Community
 
-- TAH 台美歷史紀錄以他為傳記條目收錄兩次：[[works/taiwaneseamericanhistory-org/110-jimenez-lai-e8-b3-b4-e5-bd-a5-e5-90-89|110. Jimenez Lai 賴彥吉]]（2014-11-24）與 [[works/taiwaneseamericanhistory-org/588-jimenez-lai-e8-b3-b4-e5-bd-a5-e5-90-89-201509|588. Jimenez Lai 賴彥吉 /2015/09]]。語料僅存書目紀錄，無其他社群敘事可吸收。
+- TAH 台美歷史紀錄以他為傳記條目收錄兩次：[[works/taiwaneseamericanhistory-org/110-jimenez-lai-e8-b3-b4-e5-bd-a5-e5-90-89|110. Jimenez Lai 賴彥吉]]（2014-11-24）與 [[works/taiwaneseamericanhistory-org/588-jimenez-lai-e8-b3-b4-e5-bd-a5-e5-90-89-201509|588. Jimenez Lai 賴彥吉 /2015/09]]。語料僅存書目紀錄，無其他社群敘事可吸收（2026-09-18 slice 09170600-29 再查確認）。
 
 ## Family
 
