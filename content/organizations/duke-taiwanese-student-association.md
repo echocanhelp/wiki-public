@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-18
 ---
 # Duke Taiwanese Student Association
 
@@ -17,6 +17,8 @@ last_reviewed: 2026-08-17
 - **Core roles:** Community organization (TAH directory)
 
 The Duke Taiwanese Student Association (DTSA) is a graduate and professional student organization at Duke University serving students and scholars from Taiwan. It is registered through Duke’s official CampusGroups platform and is listed by Duke Student Affairs as a graduate/professional-level organization within the university’s Asian American and Pacific Islander community.
+
+> SKIP (deepen-x 09172104-7, 2026-09-18): no corpus hits in content/works or content/articles for "Duke Taiwanese" / DTSA — nothing absorbable beyond the TAH directory listing.
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/duke-taiwanese-student-association/)
