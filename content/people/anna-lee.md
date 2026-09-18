@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-18
 ---
 # Anna Lee (李宛蓉)
 
@@ -34,6 +34,14 @@ Accomplishment
 ## Family
 
 _No filled family fields on the TAH profile._
+
+## Role in the Community
+
+The community record preserves Anna Lee's role behind the camera of the Taiwanese American film *Lunchbox*: director Anne Hu's release interview describes hiring her as the production's Taiwanese food stylist even though the production could not pay her normal TV-show rate — "she loved that we were telling this Taiwanese American story, showing foods from her country." She is credited with the film's culinary authenticity: she flagged that the planned hand-pulled noodles were "not very Taiwanese" and proposed the household-realistic hand-cut noodles instead, forcing a script rewrite in the week of shooting, and she prepared the turnip-cake (菜頭粿) scene.
+
+Work pages touched:
+- [[works/taiwaneseamerican-org/lunchbox-anne-hu-release|Lunchbox — Anne Hu release interview]]
+- [[works/taiwaneseamericanhistory-org/whos-who-2295-anna-lee|TAH #2295. Anna Lee 李宛蓉]]
 
 ## Sources
 - [TAH #2295 encyclopedia: 2295. Anna Lee 李宛蓉](https://taiwaneseamericanhistory.org/whos-who-2295-anna-lee/)
