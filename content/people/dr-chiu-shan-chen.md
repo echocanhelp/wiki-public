@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-17
+last_reviewed: 2026-09-18
 ---
 # Dr. Chiu-Shan Chen (陳秋山博士)
 
@@ -38,6 +38,7 @@ Accomplishment
 - **UCSD 台灣研究中心捐助人**：UCSD 校友（物理博士），2021 年 11 月致電廖炳惠教授，表示願捐 500 萬美元於母校設立台灣研究中心；UCSD 後正式成立「台灣研究中心」。見 [[works/taiwaneseamericanhistory-org/our-journeys-386|UCSD 台灣研究中心創設紀事]]、[[works/taiwaneseamericanhistory-org/my-stories-793|793. 校友陳秋山捐母校500萬創建台灣中心]]。
   - HOLD: my-stories-793 標題標 05/2021，內文稱捐贈緣起於 2021 年 11 月電話 — 日期兩說，未合併。
 - 語料並稱其為「太平洋生物科技公司創辦人」； tah-tables 職涯欄記為 Importer（自僱）。HOLD: conflict「Importer 自僱」vs「太平洋生物科技公司創辦人」，未自動合併。
+- **台美基金會董事紀事**：中心memoir（作者Judy）recall早期董事名單中陳秋山最年輕（「名單上除了陳秋山，尚無人有白髮」）；僑務委員長焦仁和來訪時他穿短褲球鞋來當主人接待——寫出早期台灣中心志工以館為家的日常（見 [[works/taiwaneseamericanhistory-org/ourjourneys337|Our Journeys #337]]）。
 
 ## Family
 

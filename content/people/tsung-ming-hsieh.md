@@ -46,7 +46,7 @@ _No filled family fields on the TAH profile._
 - 2017-03-12 — Second TJJ copy of the Thornberry memorial (with 鄭世璋's 新使者 essay): the 1965 「預備顛覆政府」 verdicts are given here as 10 years for 謝聰敏 and 8 each for 彭明敏、魏廷朝, and the essay details the channel by which prison notes smuggled out via 謝聰敏、魏廷朝 reached Amnesty International through the Thornberry couple ([[articles/taiwanjustice-net/2022/20220517051352_2017_03_12_撲火飛蛾_fireproof-moth作者美國宣教師唐培禮_milo-thornberry_5d471dbe6e4efbde|TJJ, 2017-03-12]]).
 - 2015-10-12 — 吳澧培's memoir preface credits his close friendship with 謝聰敏 as the reason he first joined the island-wide 台獨 movement, which brought KMT secret-police surveillance and pushed him to leave Taiwan ([[articles/taiwanjustice-net/2024/20240425080646_root_9a39a754d2a3b236|TJJ, 2015-10-12]]).
 - 2023-09-24 — 「台灣人民自救宣言案」59週年國史館新書發表座談會（同一報導另 snapshot）：國史館助修林本原引述新書揭露，檔案管理局2022-12-30公布之「培明專案」檔案顯示國大代表顏艮昌為調查局內線、向官方舉報導致謝聰敏與魏廷朝兩度入獄；館長陳儀深預告將出版《宗像隆幸與彭明敏往來書信集》記錄1968–1971年逃亡計畫（[[articles/taiwanjustice-net/2024/20240224194255_root_92917d4c9a88eba2|TJJ/中央社記者報導, 2023-09-24]]）。
-- 2023-09-24 — 與彭明敏、魏廷朝共同起草之「台灣人民自救宣言」屆滿59週年，彭明敏文教基金會與台大研究生協會、台大學生會舉行彭明敏教授紀念研討會，肯定自救宣言世代對台灣自由民主的追求並促進跨世代對談（[[articles/taiwanjustice-net/2025/20250213033828_彭明敏研討會促跨世代對談-共同探討民主價值_a1b5696539a4d641|TJJ/CNA, 2023-09-24]]）。
+- 2023-09-24 — 與彭明敏、魏廷朝共同起草之「台灣人民自救宣言」屆滿59週年，彭明敏文教基金會與台大研究生協會、台大學生會舉行彭明敏教授紀念研討會，肯定自救宣言世代對台灣自由民主的追求並促進跨世代對談（[[articles/taiwanjustice-net/2025/20250213033828_彭明敏研討會促跨世代對談-共同探討民主價值_a1b5696539a4d641|TJJ/CNA, 2023-09-24]]；同報導另快照 [[articles/taiwanjustice-net/2024/20240221121609_root_92ff3ef6b0b74b9c|TJJ/CNA]]）。
 
 ## Sources
 - [TAH #1642 encyclopedia: 1642. Tsung Ming Hsieh 謝聰敏](https://taiwaneseamericanhistory.org/whos-who-1642-tsung-ming-hsieh/)
