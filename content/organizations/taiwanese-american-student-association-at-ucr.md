@@ -21,6 +21,10 @@ The Taiwanese American Student Association at UCR (TASA @ UCR) is a student cult
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-american-student-association-at-ucr/)
 
+## Disambiguation (corpus)
+- The corpus's "TASA" records refer to the **Taiwanese American Seniors Association of Southern California** (est. 1979; built Flamingo Garden Apartments, 1984–1988), not this student group — see [[works/taiwaneseamericanhistory-org/ourjourneys173-eng|Our Journeys #173]].
+- The campus-level Taiwanese student movement in the corpus is documented via **ITASA** (Intercollegiate Taiwanese American Student Association) — see [[works/taiwaneseamericanhistory-org/history-of-itasa|History of ITASA]] and [[works/taiwaneseamericanhistory-org/578-the-intercollegiate-taiwanese-american-student-association-1998-1999-2005ita|ITASA magazines 1998–2005]]. No UCR-specific TASA record found in corpus.
+
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

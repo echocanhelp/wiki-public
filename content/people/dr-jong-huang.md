@@ -41,6 +41,10 @@ Accomplishment
 
 _No filled family fields on the TAH profile._
 
+## From the record
+
+- 2020-01-31 — 台灣公義報「大洛杉磯台灣會館」標籤頁存檔收錄：黃重德醫師2月1日在橙僑中心、2月2日在大洛杉磯台灣會館主講健康講座「認識武漢肺炎」，是疫情初期南台社群的衛教宣導者之一（[[articles/taiwanjustice-net/2021/20210117065936_tag_大洛杉磯台灣會館_fa11a6eb346678c2|TJJ 大洛杉磯台灣會館標籤頁, 2021-01-16 快照]]）。
+
 ## Sources
 - [TAH #2240 encyclopedia: 2240. Dr. Jong Huang 黃重德醫師](https://taiwaneseamericanhistory.org/whos-who-2240-jong-huang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-jong-huang/)

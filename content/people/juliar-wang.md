@@ -36,6 +36,10 @@ Source from 美洲台灣日報http://taiwandaily.net/gp2.aspx?_p=kSF1c9zU9HS21FC
 - **Son:** Wilson (王唯昇)
 
 
+## From the record
+
+- 2021-05-06 — 台灣公義報「園藝」分類存檔收錄「多肉植物 succulent–謝秀緞 (Juliar Wang) 主講[影]」，記錄其在大洛杉磯台灣會館園藝講座讲授多肉植物栽培（[[articles/taiwanjustice-net/2024/20240225031504_root_f454eda084b7ca99|TJJ 園藝分類存檔, 2024-02-24 快照]]）。
+
 ## Sources
 - [TAH #2043 encyclopedia: 2043. Juliar Wang 謝綉緞](https://taiwaneseamericanhistory.org/whos-who-2043-juliar-wang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/juliar-wang/)

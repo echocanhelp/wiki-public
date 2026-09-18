@@ -34,6 +34,10 @@ Prof. Leona Yi-Fan Su 蘇怡帆教授 – History of Taiwanese American (T.A. Ar
 - **Husband:** [[people/yi-cheng-wang||Yi-Cheng Wang]]
 
 
+## Role in the Community
+
+- Profiled in the TAH Foundation Who's Who encyclopedia as record [[works/taiwaneseamericanhistory-org/whos-who-1950-yi-fan-su|1950. Prof. Leona Yi-Fan Su 蘇怡帆教授]] (value band B, published 2017-11-16), published the same day as her husband's record [[works/taiwaneseamericanhistory-org/whos-who-1949-yi-cheng-wang|1949. Yi-Cheng Wang 王奕程]]. Her TAH entry notes her role with the History of Taiwanese American (T.A. Archives) 台美史料中心 — a media/scholarship link to the movement's archival record rather than an organizational-roles record. No other corpus mentions found.
+
 ## Sources
 - [TAH #1950 encyclopedia: 1950. Prof. Leona Yi-Fan Su 蘇怡帆教授](https://taiwaneseamericanhistory.org/whos-who-1950-yi-fan-su/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-leona-yi-fan-su/)

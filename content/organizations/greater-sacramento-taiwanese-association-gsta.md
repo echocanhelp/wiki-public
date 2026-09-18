@@ -21,6 +21,9 @@ The Greater Sacramento Taiwanese Association (GSTA, 大沙加緬度台灣同鄉�
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/greater-sacramento-taiwanese-association-gsta/)
 
+## Corpus note
+SKIP-with-reason (2026-09-17): no corpus record names GSTA/大沙加偭度台灣同鄉會. Sacramento-area corpus material concerns sibling organizations — [[works/taiwaneseamericanhistory-org/sacramento-area-formosan-association-safa|SAFA 沙加緬度地區台灣同鄉會]], [[works/taiwaneseamericanhistory-org/9-california-sacramento-chapter-fapa|FAPA Sacramento]], and [[works/taiwaneseamericanhistory-org/sacramento-taiwanese-culture-foundation|Sacramento Taiwanese Culture Foundation]]. These are distinct organizations; do not merge with GSTA.
+
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

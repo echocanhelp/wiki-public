@@ -32,6 +32,10 @@ last_reviewed: 2026-08-17
 - **Son:** 鄭日傑
 
 
+## From the record
+
+- 2018-02-02 — 台灣公義報「台美人台加人」分類存檔收錄張文隆新頭殼投稿〈敬悼！咱台灣人最偉大的女性之–黃晴美女士—刺蔣案背後 一位堅強女性的殞落〉，纪念其在刺蔣案後堅強面對丈夫遭遇的公義形象（[[articles/taiwanjustice-net/2024/20240425083432_root_99aaa4abcb78ff6d|TJJ 台美人台加人存檔, 2024-04-25 快照]]）。
+
 ## Sources
 - [TAH #2114 encyclopedia: 2114.  C. M. (Cecilia) Huang 黃晴美](https://taiwaneseamericanhistory.org/whos-who-2114-c-m-huang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/c-m-cecilia-huang/)

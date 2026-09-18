@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-17
 ---
 # Hong-Chih Kuo (郭泓志)
 
@@ -29,6 +29,11 @@ Accomplishment
 ## Employment
 - Los Angeles Dodgers — Pitcher — (2005-2011) — Seattle Mariners — Pitcher — (2012-2012) — Uni Lions — Pitcher — (2014-2016) — Fubon Guardians — Pitcher — (2017-2018)
 <!-- tah-tables:end -->
+
+## Role in the Community
+
+- **Community rallying figure in the LA Taiwanese American community** — the Taiwanese American community organized an outing to support him at the Dodgers vs. Reds game in LA (2011-06-14), an example of the diaspora turning a homegrown ballplayer's MLB career into a community gathering: [[works/taiwaneseamerican-org/support-hong-chih-kuo-at-dodgers-vs-reds-game-in-la|Support Hong-Chih Kuo at Dodgers vs. Reds Game in LA]].
+- **Own TAH encyclopedia entry** — 1743. Hong-Chih Kuo 郭泓志: [[works/taiwaneseamericanhistory-org/whos-who-1743-hong-chih-kuo|TAH #1743]].
 
 ## Family
 
