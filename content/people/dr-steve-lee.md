@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-17
+last_reviewed: 2026-09-18
 ---
 # Dr. Steve Lee (李致一醫師)
 
@@ -37,7 +37,7 @@ _No filled family fields on the TAH profile._
 
 ## Role in the Community
 
-SKIP-with-reason: no community memoirs, movement records, or articles in the corpus mention 李致一 / Steve Lee beyond his own TAH encyclopedia record, preserved at [[works/taiwaneseamericanhistory-org/whos-who-1991-steve-lee|1991. Dr. Steve Lee 李致一醫師]]. Nothing absorbable; no biography invented.
+SKIP-with-reason (re-verified 2026-09-18): corpus grep over works/ and articles/ returns only his own TAH encyclopedia record [[works/taiwaneseamericanhistory-org/whos-who-1991-steve-lee|1991. Dr. Steve Lee 李致一醫師]] and the index. No community memoirs, movement records, or articles mention 李致一 / Steve Lee. Nothing absorbable; no biography invented.
 
 ## Sources
 - [TAH #1991 encyclopedia: 1991. Dr. Steve Lee 李致一醫師](https://taiwaneseamericanhistory.org/whos-who-1991-steve-lee/)

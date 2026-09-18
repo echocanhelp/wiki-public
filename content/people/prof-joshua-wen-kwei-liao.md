@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-17
+last_reviewed: 2026-09-18
 ---
 # Prof. Joshua Wen-Kwei Liao (廖文奎教授)
 
@@ -31,7 +31,7 @@ Prof. Joshua Wen-Kwei Liao 廖文奎教授 – History of Taiwanese American (T.
 <!-- tah-tables:end -->
 
 ## Role in the Community
-- SKIP (2026-09-17): no corpus mentions beyond his own bibliographic record [[works/taiwaneseamericanhistory-org/whos-who-1849-wen-kwei-liao|1849. Prof. Joshua Wen-Kwei Liao 廖文奎教授]]; his life (1905–1952, Nanking/Hong Kong philosophy career) predates the postwar Taiwanese American memoir corpus, so there is no community-record material to absorb. No facts invented.
+- SKIP (2026-09-17, re-verified 2026-09-18): no corpus mentions beyond his own bibliographic record [[works/taiwaneseamericanhistory-org/whos-who-1849-wen-kwei-liao|1849. Prof. Joshua Wen-Kwei Liao 廖文奎教授]]; his life (1905–1952, Nanking/Hong Kong philosophy career) predates the postwar Taiwanese American memoir corpus, so there is no community-record material to absorb. No facts invented.
 
 ## Family
 

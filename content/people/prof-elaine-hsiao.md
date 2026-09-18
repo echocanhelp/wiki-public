@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-18
 ---
 # Prof. Elaine Hsiao (蕭夷年教授)
 
@@ -33,6 +33,10 @@ last_reviewed: 2026-08-17
 ## Family
 
 _No filled family fields on the TAH profile._
+
+## Role in the Community
+
+SKIP-with-reason (corpus check 2026-09-18): 蕭夷年 / Elaine Hsiao appears in the corpus only via her own TAH encyclopedia records [[works/taiwaneseamericanhistory-org/whos-who-840-elaine-hsiao|840. Prof. Elaine Hsiao 蕭夷年教授]] and [[works/taiwaneseamericanhistory-org/ota-264|264. Prof. Elaine Hsiao 蕭夷年教授]] (two TAH entries for the same person, both preserved as sources below), plus the works index. No memoirs or movement records mention her. Nothing absorbable; no biography invented.
 
 ## Sources
 - [TAH #264 encyclopedia: 264. Prof. Elaine Hsiao 蕭夷年教授](https://taiwaneseamericanhistory.org/ota-264/)

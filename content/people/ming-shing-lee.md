@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-18
 ---
 # Ming-Shing Lee (李明星)
 
@@ -35,6 +35,10 @@ Accomplishment
 
 - **Wife:** 劉艾倫
 
+
+## Role in the Community
+
+SKIP-with-reason (corpus check 2026-09-18): the only corpus mentions of 李明星 / Ming-Shing Lee are his own TAH encyclopedia record [[works/taiwaneseamericanhistory-org/whos-who-1893-ming-shing-lee|1893. Ming-Shing Lee 李明星]] and the works index. No memoirs or movement records mention him. Note: his TAH record lists KMT 17th Central Committee membership, which sits awkwardly beside the pro-deep-green orientation of most TAH Who's Who entries — flagged for awareness only, no conflict in the corpus to HOLD. Nothing absorbable; no biography invented.
 
 ## Sources
 - [TAH #1893 encyclopedia: 1893. Ming-Shing Lee 李明星](https://taiwaneseamericanhistory.org/whos-who-1893-ming-shing-lee/)
