@@ -32,6 +32,11 @@ last_reviewed: 2026-09-18
 
 _No filled family fields on the TAH profile._
 
+## Role in the Community
+
+- Founding committee member of the Taiwanese American Citizens League (台美公民協會, TACL). The TACL preparatory committee memoir ([[works/taiwaneseamericanhistory-org/ourjourneys186|186. 台美公民協會簡介]]) lists 蔡長宗 among the committee members added to expand the original five-member preparatory committee ("大家出錢、出力、出時間").
+- Elected to TACL's first 15-member Board of Directors at the founding convention by written ballot, per Frank Chou's memoir ([[works/taiwaneseamericanhistory-org/ourjourneys272|272. 台美公民協會的成長：從孕育到發芽]]) — the board included 吳彩惠, 高光明, 許和瑞, 吳澧培, 周實, and Tsai. TACL's charter goals: participate in US politics for Taiwanese American citizens' rights, inter-ethnic coalition building, civic engagement, and promoting Taiwanese American culture.
+
 ## Sources
 - [TAH #2248 encyclopedia: 2248. Dr. Jeffrey Tsai 蔡長宗醫師](https://taiwaneseamericanhistory.org/whos-who-2248-jeffrey-tsai/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-jeffrey-tsai/)
