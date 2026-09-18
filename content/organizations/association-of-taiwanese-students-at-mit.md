@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-18
 ---
 # Association of Taiwanese Students at MIT
 
@@ -20,6 +20,8 @@ The Association of Taiwanese Students (ATS) at MIT is an undergraduate student o
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/association-of-taiwanese-students-at-mit/)
+
+<!-- deepen-x 09171000-11: SKIP — no corpus hits for 'Association of Taiwanese Students' / 'mitats'; generic MIT matches (Lisa Su, NATSA, masks, Christie Park) are unrelated organizations/people. Nothing absorbable. -->
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

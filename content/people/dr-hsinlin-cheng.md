@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-18
 ---
 # Dr. Hsinlin Cheng (鄭新霖醫師)
 
@@ -43,3 +43,6 @@ Assistant Professor of Neurology
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- [[works/taiwaneseamericanhistory-org/whos-who-2223-hsinlin-cheng|2223. Dr. Hsinlin Cheng 鄭新霖醫師 (TAH encyclopedia record)]]
+
+<!-- deepen-x 09171000-11: SKIP — only corpus hit is this person's own TAH Who's Who bibliographic record; no memoir/community facts absorbable beyond the press-kit bio already on the page. -->
