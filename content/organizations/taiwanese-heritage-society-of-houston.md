@@ -25,6 +25,7 @@ The Taiwanese Heritage Society of Houston (THSH) is an IRS 501(c)(3) non-profit 
 - THSH's founding is inseparable from the Taiwanese Community Center (TCC): without THSH "it's hard to say how long it would have taken to open a community center" ([[works/taiwaneseamericanhistory-org/ourjourneys233-eng|233. 回顧休士頓台灣人活動中心的成立 / Cheng Y. Eddie Chuang]]).
 - The TCC complex has co-housed the Taiwanese American Federal Credit Union, the Houston Chapter of the Taiwanese Association of America, and the Taiwanese Language School; THSH's community-service role is documented in [[works/taiwaneseamericanhistory-org/ourjourneys328|328. 休士頓台灣人傳統基金會對大休士頓地區社區服務的參與 / 蕭文源 / 12/2017]].
 - **2018-11-03** — THSH celebrated its 30th anniversary with an annual fund-raising dinner, corroborating a 1988 founding ([[works/taiwaneseamericanhistory-org/16-taiwanese-heritage-society-of-houston-celebrated-30th-year-anniversary-and-an|16. THSH Celebrated 30th Year Anniversary and Annual Fund Raising 11/3/2018]]).
+- SKIP note (deepen-x slice 09180131-20, 2026-09-18): re-grep of content/works + content/articles found additional 台灣人社團 hits (our-journeys-350, mystories24, ourjourneys253, joint-bulletin) but all matched only the generic term 台灣人社團, not THSH itself — no new absorbable corpus facts.
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-heritage-society-of-houston/)
