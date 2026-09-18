@@ -50,7 +50,7 @@ _No filled family fields on the TAH profile._
 
 ## From the record
 
-- 1995-07-29 — 「台灣民謠之夜，民謠與詩的對話」（TUF 台灣名家演奏系列，Harriet and Charles Fine Arts Complex, Cal State Los Angeles）弦樂四重奏大提琴：陳建安（同台：小提琴蘇顯達、黃維明，中提琴吳昭麗；鋼琴葉綠娜；聲樂黃瑞芬）（[[articles/taiwanjustice-net/2024/20240520022857_root_e1412ed957f76e0d|TJJ 節目紀錄，2024-05-20 存檔]]）。
+- 1995-07-29 — 「台灣民謠之夜，民謠與詩的對話」（TUF 台灣名家演奏系列，Harriet and Charles Fine Arts Complex, Cal State Los Angeles）弦樂四重奏大提琴：陳建安（同台：小提琴蘇顯達、黃維明，中提琴吳昭麗；鋼琴葉綠娜；聲樂黃瑞芬）（[[articles/taiwanjustice-net/2024/20240520022857_root_e1412ed957f76e0d|TJJ 節目紀錄，2024-05-20 存檔]]；另見訃聞回憶同場演出 [[articles/taiwanjustice-net/2024/20240225012121_root_64302d51d03b3c5f|TJJ，2024-02-25 存檔]]）。
 
 ## Sources
 - [TAH #86 encyclopedia: 86. Chien-An Chen 陳建安, Cellist/2014/12](https://taiwaneseamericanhistory.org/musician86/)
