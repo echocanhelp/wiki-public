@@ -35,6 +35,9 @@ last_reviewed: 2026-09-18
 - 1990 年北美洲台灣人教授協會（NATPA）首次在台北召開年會，84 位申請回國會員中 18 位有「簽證技術性問題」，經近半年交涉後黑名單縮至三位——吳明基、李應元、郭榮桔，理由定型為「現任暴力型革命組織的中央委員」（[[works/taiwaneseamericanhistory-org/ourjourneys259|Our Journeys 259]]）。
 - 台獨聯盟遷台後，國民黨與陳婉眞對決時，郭倍宏、李應元毅然現身公開登場（[[works/taiwaneseamericanhistory-org/ourjourneys280|Our Journeys 280]]）。
 - 2021 年逝世後 TAH 專輯以「813. 李應元爽朗笑容成追憶 活躍政壇30年以高EQ、好人緣著稱」記錄之（[[works/taiwaneseamericanhistory-org/my-stories-813|My Stories #813]]）。
+- 《台灣學生》主幹時期：與郭倍宏、張信堂、葉宏岳等人定期募款（每月需美金 1,500 元維持全美發行）、每週出刊開會（[[works/taiwaneseamericanhistory-org/448-e6-9d-8e-e6-87-89-e5-85-83-e7-9a-84-e6-8c-91-e6-88-b0-e9-99-b3-e9-8a-98-e5-9|陳銘城・邱國禎《李應元的挑戰》傳記, 1990-11]]）；本人回憶文章「36. 帶尿布的學運領袖」（[[works/taiwaneseamericanhistory-org/mystories36|My Stories #36]]）。
+- 台獨聯盟幹部 records：1989-05-27 Dallas 盟員代表大會選出郭倍宏為主席、李應元為副主席（[[works/taiwaneseamericanhistory-org/ourjourneys238|Our Journeys 238]]）；1993-07 第十五屆大會與台灣學生社合辦夏令會（Athens, GA）擔任講者（[[works/taiwaneseamericanhistory-org/ourjourneys245|Our Journeys 245]]）。
+- 1990 年 NATPA 第十屆年會回台：黑名單未全解，乃有「李應元翻牆潛入台灣」插曲，該年會為 NATPA 十年來最盛大（會員及眷屬 150 人）（[[works/taiwaneseamericanhistory-org/ourjourneys234|Our Journeys 234]]）。
 
 ## Family
 

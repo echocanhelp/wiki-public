@@ -25,7 +25,9 @@ The Taiwanese Association of America East Tennessee (東田納西 台灣同鄉�
 - **Newsletter:** the chapter published the community newsletter 大煙山麓 (Big Smokies) from at least 1994 — [[works/taiwaneseamericanhistory-org/newsletter-taa-east-tennessee|大煙山麓 record]].
 - **Southeast camp host:** the chapter hosted the first 美東南區台灣人夏令會 on 1979-06-08 at Harrison Bay State Park, Chattanooga (120 attendees from Atlanta/Athens/Knoxville; organizer 李豐隆; the chapter won the softball tournament), again in 1982 at Tusculum College, Johnson City (convener 林永樂; site of the 黨外四人行's first overseas collective appearance at an overseas camp), and in 1986 (convener 呂錦文) — [[works/taiwaneseamericanhistory-org/ourjourneys245|245. 美東南區台灣人夏令會簡史 / 劉格正]].
 - English brief history: [[works/taiwaneseamericanhistory-org/history-of-taa-east-tennessee|21. Brief History of TAA / East Tennessee Chapter]]; English 30th-anniversary account: [[works/taiwaneseamericanhistory-org/ourjourneys313-eng|313 (EN). Brief Introduction of TAA, East Tennessee Chapter / Hui-hsiung Chang]].
+- **Directory record:** the chapter's own TAH directory entry is preserved as a work record: [[works/taiwaneseamericanhistory-org/east-tennessee-chapter-taa|東田納西台灣同鄉會(諾城台灣同鄉會) 紀錄頁, 2015-12-13]].
 - HOLD: founding-history author 張惠雄 (Hui-hsiung Chang) has no person page in the vault yet; not wikilinked.
+- Corpus re-grep (slice deepen-x-slice-09180131-9, 2026-09-18): hit set = OJ 313 (+EN)、314、大煙山麓 record、Brief History、directory record — all now linked; no new absorbable material.
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-association-of-america-east-tennessee/)
