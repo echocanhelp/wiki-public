@@ -38,6 +38,7 @@ _No filled family fields on the TAH profile._
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/ping-wang/)
 
 ## Related Pages
+- [[works/taiwaneseamericanhistory-org/whoswho1194|TAH #1194 王秉訓 百科 entry (2016/07)]]
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 

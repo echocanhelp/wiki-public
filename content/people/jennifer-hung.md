@@ -33,6 +33,11 @@ last_reviewed: 2026-09-18
 
 _No filled family fields on the TAH profile._
 
+## Role in the Community
+
+- 2009-08-16 — 出席在洛杉磯會舘內民進黨辦公室舉行的美西夏令會籌備第一次會議（出席者尚有鄭瑞源、王泰和、洪珠美、許輕甫、鄧昇東、呂眾英、余文貴等），該籌備會後續催生 2011 年美西夏令會（[[works/taiwaneseamericanhistory-org/ourjourneys265|TAH #265〈2011年美西夏令會的回顧〉黃根深]]）。
+- 長青教室（Irvine 台灣長老教會主辦）植牙 topic 講者，與下文 2012-11-07「植牙與口腔的再春」演講互為印證（[[works/taiwaneseamericanhistory-org/ourjourneys107|TAH #107 長青教室專輯]]）。
+
 ## Sources
 - [TAH #1485 encyclopedia: 1485. Jennifer Hung 洪錦鈺  / 2017/01](https://taiwaneseamericanhistory.org/whoswho1485/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/jennifer-hung/)

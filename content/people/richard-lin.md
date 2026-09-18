@@ -37,6 +37,7 @@ _No filled family fields on the TAH profile._
 - Documented twice in the TAH Foundation encyclopedia as a flagship of the new generation of Taiwanese American classical musicians: [[works/taiwaneseamericanhistory-org/306-richard-lin-e6-9e-97-e5-93-81-e4-bb-bb-violinist-201510|306. Richard Lin 林品任, Violinist, 2015/10]] and [[works/taiwaneseamericanhistory-org/678-richard-lin-e6-9e-97-e5-93-81-e4-bb-bb-201510|678. Richard Lin 林品任, 2015/10]].
 - He appears in the same 2015-10-31 batch of TAH records as pianist [[works/taiwaneseamericanhistory-org/311-chi-chen-wu-pianist-201510|311. Chi-Chen Wu 吳紀禛, Pianist]] — part of a deliberate corpus effort to document the movement's classical performers.
 - HOLD (name collision, not merged): [[works/taiwaneseamericanhistory-org/firstfamous-393|393. Dr. Richard Lin – The First Taiwanese American to Start His own Hedge Fund, 2011]] is a different Richard Lin (hedge-fund founder; no 林品任 in the record) — do not conflate.
+- Re-grepped 2026-09-18 (deepen-x slice 09170700-3): no corpus facts beyond the above — all remaining 林品任/Richard Lin hits are the same #306/#678 records, the #393 name-collision record, plus the index.
 
 ## Sources
 - [TAH #306 encyclopedia: 306. Richard Lin 林品任, Violinist / 2015/10](https://taiwaneseamericanhistory.org/306-richard-lin-%e6%9e%97%e5%93%81%e4%bb%bb-violinist-201510/)

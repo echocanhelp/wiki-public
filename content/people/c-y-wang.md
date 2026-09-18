@@ -23,7 +23,7 @@ C. Y. Wang (王振源) is listed in the TAH Foundation Who’s Who Taiwanese Ame
 
 ## Role in the Community
 
-- 2011 — Co-producer (with director 陳麗貴) of the documentary《好國好民》Dear Taiwan —完整版 81 分鐘、剪短版 43 分鐘，記錄范姜、魚仔林、林昶佐、大支等各领域台灣青年世代 — and US coordinator (with 黃泰郎、周明宏) for its nationwide eight-city screening-and-talk circuit（[[works/taiwaneseamericanhistory-org/whoswho1577|TAH #1577]]）.
+- 2011 — Co-producer (with director 陳麗貴) of the documentary《好國好民》Dear Taiwan —完整版 81 分鐘、剪短版 43 分鐘，記錄范姜、魚仔林、林昶佐、大支等各領域台灣青年世代 — and US coordinator (with 黃泰郎、周明宏) for its nationwide eight-city screening-and-talk circuit（[[works/taiwaneseamericanhistory-org/whoswho1577|TAH #1577]]）.
 
 ## Family
 
