@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-18
 ---
 # Felix Fan (范雅志)
 
@@ -28,6 +28,10 @@ Felix Fan is a celebrated young cellist whose eclectic music-making and leadersh
 ## Employment
 - Cellist
 <!-- tah-tables:end -->
+
+## Role in the Community
+- Performed at TUF (台灣人聯合基金會)「台灣名家演奏系列」as the series' cellist, alongside 林昭亮、陳慕融、蘇顯達、陳泰成、陳毓襄、葉綠娜、楊文信、陳建安 etc. — the series, started 1992 with 吳澧培's sponsorship, opened with 胡乃元's violin recital. See [[works/taiwaneseamericanhistory-org/ourjourneys294|TUF 藝文系列 record]].
+- Held two TAH Foundation story-corpus records: [[works/taiwaneseamericanhistory-org/50-felix-fan-e8-8c-83-e9-9b-85-e5-bf-97-cellist|TAH #50, Cellist profile (2014)]] and [[works/taiwaneseamericanhistory-org/291-felix-fan-e8-8c-83-e9-9b-85-e5-bf-97201502|TAH #291 (2015)]].
 
 ## Family
 

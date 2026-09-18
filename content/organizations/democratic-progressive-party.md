@@ -102,6 +102,7 @@ In 2006, the party ended official recognition of factions, though they remain re
 ## From the record
 
 - 2016-04-11 — TJJ 轉載 Taipei Times 社論：26 名民進黨台北市議員聯署支持馬英九特赦陳水扁以促進藍綠和解 —— [[articles/taiwanjustice-net/2024/20240619171645_root_c0530664ab4c2948|TJJ 轉載 Taipei Times 社論，2016-04-11]]。
+- 2015-01-07 — A TJJ reprinted examination (Micheal Richardson, examiner.com) on Chen Shui-bian's 2015-01-05 medical parole argued the KMT grip was weakening and that, contrary to the South China Morning Post's hope that parole would splinter the DPP by creating factions, the release evidenced a peaceful revolution replacing the ROC ([[articles/taiwanjustice-net/2024/20240425074240_root_795e52aadf3797a0|TJJ, 2015-01-07]]).
 
 ## Related Pages
 
