@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-18
 ---
 # Ian Chen (陳彥竹)
 
@@ -21,6 +21,12 @@ last_reviewed: 2026-08-17
 
 Accomplishment
 1. This Land won him nominations at several film and music festivals across the globe
+
+## Role in the Community
+
+- His TAH Who's Who entry is held in the corpus as record [[works/taiwaneseamericanhistory-org/whos-who-2232-ian-chen|2232. Ian Chen 陳彥竹]] (published 2019-12-10), consistent with the Education/Employment tables above.
+
+HOLD: name collision — [[works/taiwaneseamerican-org/13639|a TaiwaneseAmerican.org article]] mentions an "Ian Chen" who is a child actor on Fresh Off the Boat / Dr. Ken (ABC); no corpus evidence this is the Kaohsiung-born composer 陳彥竹, and [[works/taiwaneseamericanhistory-org/whos-who-1727-ian-cheng|Rev. Ian Cheng 鄭溢恩]] is likewise a distinct near-name. No merge performed.
 
 <!-- tah-tables:start -->
 ## Education
