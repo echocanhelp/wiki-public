@@ -7,9 +7,11 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-18
 ---
 # Melody Ko (柯頌恩)
+
+<!-- deepen-x 2026-09-18: SKIP — corpus scan found no community/memoir material beyond her own TAH Who's Who bibliographic record; nothing absorbable, no content invented. -->
 
 ## Identity Snapshot
 - **English:** Melody Ko

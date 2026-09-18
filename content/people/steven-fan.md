@@ -7,9 +7,11 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-18
 ---
 # Steven Fan (范盛裕)
+
+<!-- deepen-x 2026-09-18: SKIP — corpus scan found no community/memoir material beyond his own TAH Who's Who bibliographic record; nothing absorbable, no content invented. -->
 
 ## Identity Snapshot
 - **English:** Steven Fan
