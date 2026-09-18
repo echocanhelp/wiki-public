@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-18
 ---
 # Dr. Richard R. Hwang (黃瑞煊醫師)
 
@@ -28,6 +28,10 @@ Dr. Richard R. Hwang 黃瑞煊醫師 – History of Taiwanese American (T.A. Arc
 ## Employment
 - Bronx-Lebanon Hospital Center — Residency — St. Barnabas Hospital — Pathologist — CUNY School of Medicine — Professor
 <!-- tah-tables:end -->
+
+## Role in the Community
+
+- Corpus scan (works/articles) found only his own TAH directory record ([[works/taiwaneseamericanhistory-org/whos-who-1998-richard-r-hwang|TAH #1998]], published 2018-01-31) — no memoir or community coverage to absorb yet. SKIP content-deepen; retain as verified thin page pending future corpus hits.
 
 ## Family
 
