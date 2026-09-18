@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-17
+last_reviewed: 2026-09-18
 ---
 # Dean Liang (梁基典)
 
@@ -33,6 +33,12 @@ ________________________________________________________________________________
 ## Family
 
 _No filled family fields on the TAH profile._
+
+## Role in the Community
+
+- Memoir author in the TAH collection: [[works/taiwaneseamericanhistory-org/mystories16|16. 來美國第一年的辛酸事 / 梁基典]] — his first-year-in-America account is part of the community's primary memoir record.
+- Listed among the 19 熱心捐助同鄕 (with 洪宏謨、黃悅源、張燦鍙 and others) who funded 19 copies / US$171 of the first 《全美台灣同鄉通訊錄》, per 陳希寬's recollection of the compilation effort: [[works/taiwaneseamericanhistory-org/ourjourneys58|58. 回憶編印第一本《全美台灣同鄉通訊錄》的甘苦經過 / 陳希寬]].
+- His own TAH Foundation encyclopedia entry is archived in the corpus: [[works/taiwaneseamericanhistory-org/whoswho2206-dean-liang|2206. Dean Liang 梁基典 / 06/2019]].
 
 ## Sources
 - [TAH #2206 encyclopedia: 2206. Dean Liang 梁基典 / 06/2019](https://taiwaneseamericanhistory.org/whoswho2206-dean-liang/)

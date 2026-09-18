@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-17
+last_reviewed: 2026-09-18
 ---
 # Chin-Cha Cheng (鄭錦家)
 
@@ -32,6 +32,11 @@ last_reviewed: 2026-09-17
 ## Family
 
 _No filled family fields on the TAH profile._
+
+## Role in the Community
+
+- His own TAH Foundation encyclopedia entry is archived in the corpus: [[works/taiwaneseamericanhistory-org/whos958-chin-cha-cheng|958. Chin-Cha Cheng 鄭錦家 /2016/04]].
+- Community profile: interviewed by 美洲台灣日報 about his recovery from terminal cancer — [[works/taiwaneseamericanhistory-org/33-e5-be-9e-e7-99-8c-e6-9c-ab-e9-87-8d-e7-94-9f-e9-84-ad-e9-8c-a6-e5-ae-b6-e9-86|33. 從癌末重生-鄭錦家醫師專訪 /美洲台灣日報 /2016/01]] — circulated in the TA community as a story of faith and medical service.
 
 ## Sources
 - [TAH #958 encyclopedia: 958. Chin-Cha Cheng 鄭錦家 /2016/04](https://taiwaneseamericanhistory.org/whos958-chin-cha-cheng/)

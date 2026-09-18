@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-18
 ---
 # Chin H. Liao (廖俊惠醫師)
 
@@ -37,6 +37,10 @@ last_reviewed: 2026-08-17
 ## Family
 
 _No filled family fields on the TAH profile._
+
+## Role in the Community
+
+Community records identify him as 廖俊惠 (also romanized **Chinhuei Liao**), **President of the Taiwanese American Center of Northern California (TACNC) 2024–2025**. His leadership journey is preserved in the TAH Taiwanese Americans Oral History Project interview [[works/taiwaneseamericanhistory-org/video-181|TAH oral history #181]] (2025-07-31), in which he discusses his dedication to the Taiwanese American community and his vision for empowering future generations. An earlier community profile is archived as [[works/taiwaneseamericanhistory-org/whoswho902|TAH #992]] (2016-05-16).
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/chin-h-liao/)

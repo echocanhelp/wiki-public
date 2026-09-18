@@ -6,7 +6,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-18
 ---
 # 陳玲玉博士
 
@@ -33,6 +33,11 @@ last_reviewed: 2026-08-17
 ## Family
 
 _No filled family fields on the TAH profile._
+
+## Role in the Community
+
+- Held in the TAH Foundation encyclopedia as musician-records in their own right: [[works/taiwaneseamericanhistory-org/257-e9-99-b3-e7-8e-b2-e7-8e-89-pianist-201508|TAH #257 陳玲玉, Pianist (2015/08)]] and [[works/taiwaneseamericanhistory-org/526-e9-99-b3-e7-8e-b2-e7-8e-89-201508|TAH #526 陳玲玉 (2015/08)]].
+- Featured (with 洪三雄) in the 【台灣演義】 episode 「學運神鵰俠侶 洪三雄與陳玲玉」, 2020-12-06, preserved in the TJJ 台灣史頁 category archive ([[articles/taiwanjustice-net/2025/20250428220054_category_taiwan_history_page_28_c45304c56cdae731|TJJ 台灣史頁存檔, 2025-04-28 快照]]; 同文另見 [[articles/taiwanjustice-net/2024/20240425075155_root_ea3320f0f5a08573|TJJ 存檔, 2024-04-25 快照]]). The episode frames her and 洪三雄 as a student-movement (學運) couple — community-movement biography, not just a press-kit music bio.
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/%e9%99%b3%e7%8e%b2%e7%8e%89/)

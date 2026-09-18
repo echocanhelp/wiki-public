@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-18
 ---
 # Yilien Hsu
 
@@ -32,6 +32,10 @@ A native of Taiwan, Dr. Hsu holds a Doctoral of Musical Arts degree in flute per
 ## Family
 
 _No filled family fields on the TAH profile._
+
+## Role in the Community
+
+The TAH collection preserves her Who's Who profile [[works/taiwaneseamericanhistory-org/whoswho981|TAH #981]] (2016-05-08) and a contributed flute performance recording, [[works/taiwaneseamericanhistory-org/340-yilien-hsu-flute-201605|TAH #340「Yilien Hsu, Flute」]] (2016-05-08) — her artistry itself entered the Taiwanese American community archive alongside her orchestral careers listed above. Chinese name not recorded in the corpus.
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/yilien-hsu/)
