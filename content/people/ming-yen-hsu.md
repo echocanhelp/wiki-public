@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-18
 ---
 # Ming-Yen Hsu (許明彥醫師)
 
@@ -35,6 +35,11 @@ last_reviewed: 2026-08-17
 
 - **Wife:** 蕭素珠
 
+
+## Role in the Community
+
+- Counted among the **physician-artists** of the Taiwanese American community: 林衡哲's community-history essay [[works/taiwaneseamericanhistory-org/ourjourneys291|Our Journeys 291]] records that 許明彥 was both a physician and a painter — 「許明彥也是醫師畫家，可惜病魔纏身，無法發揮潛能」 — placing him alongside 施哲三, 陳家榮, 鄭瑞雄, and 吳永吉.
+- TAH encyclopedia record: [[works/taiwaneseamericanhistory-org/484-ming-yen-hsu-e8-a8-b1-e6-98-8e-e5-bd-a5201507|484. Ming-Yen Hsu/許明彥/2015/07]].
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/ming-yen-hsu/)
