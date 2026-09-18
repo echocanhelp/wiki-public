@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-18
 ---
 # Fong Ling (峰怜)
 
@@ -32,6 +32,7 @@ last_reviewed: 2026-08-17
 - **Daughter:** Jane, Susan
 - **Son:** Hanry
 
+<!-- deepen-x slice 09172104-31: SKIP — only corpus hits are this page's own TAH bibliographic records (#459, #48), no absorbable facts beyond them. -->
 
 ## Sources
 - [TAH #459 encyclopedia: 459. Fong Ling 峰怜 /2015/06](https://taiwaneseamericanhistory.org/whos459-fong-ling/)
