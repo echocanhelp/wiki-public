@@ -35,6 +35,9 @@ last_reviewed: 2026-09-18
 
 _No filled family fields on the TAH profile._
 
+## Timeline
+- 2017-02-19 — TAHS/TAH Foundation 公開其百科條目：[[works/taiwaneseamericanhistory-org/whoswho1514|1514. Ron Shieh 謝榮峻]]（參考記錄；條目僅存書目，暫無可吸收的社群敘述）
+
 ## Sources
 - [TAH #1514 encyclopedia: 1514. Ron Shieh 謝榮峻 / 2017/02](https://taiwaneseamericanhistory.org/whoswho1514/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/ron-shieh/)

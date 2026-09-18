@@ -37,6 +37,9 @@ Publication(Non-professional)
 - **Daughter:** Eileen, Sue-Lynn
 
 
+## Timeline
+- 2020-06-12 — TAHS/TAH Foundation 公開其百科條目：[[works/taiwaneseamericanhistory-org/whos-who-2278-chuan-chang|2278. Dr. Chuan Chang 張仲權博士]]（參考記錄；條目僅存書目，暫無可吸收的社群敘述）
+
 ## Sources
 - [TAH #2278 encyclopedia: 2278. Dr. Chuan Chang 張仲權博士](https://taiwaneseamericanhistory.org/whos-who-2278-chuan-chang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-chuan-chang/)

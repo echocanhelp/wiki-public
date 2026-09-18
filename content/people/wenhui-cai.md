@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-18
 ---
 # Wenhui Cai (蔡文輝)
 
@@ -33,6 +33,10 @@ last_reviewed: 2026-08-17
 ## Family
 
 _No filled family fields on the TAH profile._
+
+## Role in the Community
+
+- Community record held in the corpus as [[works/taiwaneseamericanhistory-org/1443-wenhui-cai-e8-94-a1-e6-96-87-e8-bc-9d-201612|TAH encyclopedia record #1443 (2016-12-26)]] — bibliographic record only; no memoir or community-activity text in the vault names him beyond the press-kit profile.
 
 ## Sources
 - [TAH #1443 encyclopedia: 1443. Wenhui Cai  蔡文輝 / 2016/12](https://taiwaneseamericanhistory.org/1443-wenhui-cai-%e8%94%a1%e6%96%87%e8%bc%9d-201612/)

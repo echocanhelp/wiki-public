@@ -38,6 +38,9 @@ last_reviewed: 2026-09-18
 
 _No filled family fields on the TAH profile._
 
+## Timeline
+- 2016-09-14 — TAHS/TAH Foundation 公開其百科條目：[[works/taiwaneseamericanhistory-org/whos1277|1277. Jason Su 蘇子榮]]（參考記錄；條目僅存書目，暫無可吸收的社群敘述）
+
 ## Sources
 - [TAH #1277 encyclopedia: 1277. Jason Su 蘇子榮 /09/2016](https://taiwaneseamericanhistory.org/whos1277/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/jason-su/)

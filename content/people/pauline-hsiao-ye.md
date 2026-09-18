@@ -34,6 +34,9 @@ last_reviewed: 2026-09-18
 
 _No filled family fields on the TAH profile._
 
+## Timeline
+- 2016-01-31 — TAHS/TAH Foundation 公開其百科條目：[[works/taiwaneseamericanhistory-org/791-pauline-hsiao-ye-e8-95-ad-e7-99-be-e5-bf-8d-201601|791. Pauline Hsiao Ye 蕭百忍]]（參考記錄；條目僅存書目，暫無可吸收的社群敘述）
+
 ## Sources
 - [TAH #791 encyclopedia: 791. Pauline Hsiao Ye 蕭百忍/ 2016/01](https://taiwaneseamericanhistory.org/791-pauline-hsiao-ye-%e8%95%ad%e7%99%be%e5%bf%8d-201601/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/pauline-hsiao-ye/)
