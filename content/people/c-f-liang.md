@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-18
 ---
 # C.F. Liang (梁昌夫)
 
@@ -32,6 +32,9 @@ last_reviewed: 2026-08-17
 - Heraeus
 - American Technical Ceramics (ATC) — 工程部門及市場開發部門高級主管
 <!-- tah-tables:end -->
+
+## Role in the Community
+- His TAH Who's Who profile is itself preserved in the story corpus as record **1492** (published 2017-01-30, value band B) — [[works/taiwaneseamericanhistory-org/whoswho1492|1492. C.F. Liang 梁昌夫 / 2017/01]]. This is the only corpus footprint found; no memoir or event records name him.
 
 ## Family
 
