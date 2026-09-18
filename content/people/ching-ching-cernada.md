@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-18
 ---
 # Ching Ching Cernada (陳清清)
 
@@ -41,6 +41,12 @@ Accomplishment
 ## Sources
 - [TAH #80 encyclopedia: 80. Ching Ching Cernada 陳清清](https://taiwaneseamericanhistory.org/whos-who-80-ching-ching-cernada/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/ching-ching-cernada/)
+
+## Role in the Community
+
+- 著作人：《For whom these tales toll》（2011，外文），TAH 百科 #465 收錄其書（[[works/taiwaneseamericanhistory-org/465-for-whom-these-tales-toll-c-c-cernada-e5-a4-96-e4-ba-a4-2011|465. For whom these tales toll / C. C. Cernada / 外文 / 2011]]）。
+- TAH 百科個人條目存檔於語料庫（[[works/taiwaneseamericanhistory-org/whos-who-80-ching-ching-cernada|80. Ching Ching Cernada 陳清清]]）。
+- HOLD: conflict — 百科 #465 書頁作者署「陳晴晴」，與本頁「陳清清」用字不同，是否同名變體未確認，不併檔。
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
