@@ -44,6 +44,8 @@ Professor and Head of Department, Department of Physics
 - Herself an elected 院士 (academician) of Academia Sinica — press coverage of the 34th academicians' meeting identifies her as 「副院長、院士周美吟」, the 數理科學組 review chair ([[articles/taiwanjustice-net/2025/20250718101729_台灣中研院首度明確要求院士須具中華民國國籍_185130c9fda2ac2f|台灣justice:e-News 2025-07-18]]).
 - Own TAH encyclopedia record: [[works/taiwaneseamericanhistory-org/whos-who-1829-m-y-chou|TAH #1829]].
 
+Corpus re-grep 2026-09-18 (slice 09180131-22): hits remain her own TAH #1829 record, the works index, and the two 台灣justice e-News articles already absorbed above — nothing new.
+
 ## Timeline
 - 2020-05-11 — 中研院防疫報導: 副院長周美吟出席研檢中心進駐宣布
 - 2025-07-07 — 主持第34屆院士選舉數理科學組審查（院士國籍揭露首屆）

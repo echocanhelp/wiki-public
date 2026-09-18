@@ -43,6 +43,8 @@ _No filled family fields on the TAH profile._
 - Note: a different 陳昭俊 (a Taiwanese obstetrician practicing in Tokyo) appears in a 2026 memoir [[articles/taiwanjustice-net/2026/20260209111911_咱的故鄉-咱的故事-台美人追尋自我identity的人生-_-楊_b7a181b116206c11|咱的故鄉, 咱的故事]] — do not conflate.
 - Appears as 陳昭俊(電機) in the 台大校友名冊 reproduced in [[articles/taiwanjustice-net/2018/20180721091303_2018_07_20_抗議-南加州台大校友會邀管中閔來年會做專題演講_a428dcebbceacf38|2018 南加州台大校友會聲明報導]] — consistent with the 台大電機 1958 degree.
 
+- Corpus check 2026-09-18 (slice 09180131-21): re-grepped content/works + content/articles — hit set identical to the records already cited above (374, ourjourneys231 ±EN, the two taiwanjustice articles); works/index.md hits are catalog rows only. No new absorbable material.
+
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/%e9%99%b3%e6%98%ad%e4%bf%8a/)
 
