@@ -20,7 +20,7 @@ The Taiwanese American Association New York (TAANY, 大紐約區 台灣同鄉會
 
 ## Role in the Community
 Per the chapter's own history [[works/taiwaneseamericanhistory-org/ourjourneys300|大紐約區台灣同鄕會沿革 (2017)]]:
-- **1960s roots:** East-coat Taiwan students gathered as the "East Coast Formosan Club," meeting each Christmas season at International House (I House) near Columbia and Riverside Church in Manhattan; many community marriages trace to these gatherings.
+- **1960s roots:** East-coast Taiwan students gathered as the "East Coast Formosan Club," meeting each Christmas season at International House (I House) near Columbia and Riverside Church in Manhattan; many community marriages trace to these gatherings.
 - **1970-06-01:** 美東台灣同鄕會, 芝加哥台灣同鄕會 and 洛杉磯台灣同鄕會 founded 全美台灣同鄉會 (TAA), registered in Washington DC as "Formosan Club of America, Inc." 美東同鄕會 reorganized as the TAA 大紐約分會; its former satellites (波士頓、康州、綺色佳、費城、巴爾的摩、華府) joined TAA directly.
 - **Movement stage:** 1971 民衆大會 in NYC (~2,000 attendees); a follow-up event in Washington DC in 1972; hosted the 世界台灣同鄕會聯合會 second annual conference in 1975.
 - **Venues:** I House → Hunter College High School (~1973–74) → Senator Robert Wagner High School (1975) → Queens/Flushing as immigration patterns shifted; 台灣人會館 later became the hub for TAANY and other groups.
