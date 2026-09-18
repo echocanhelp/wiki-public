@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-17
+last_reviewed: 2026-09-18
 ---
 # Prof. Wen Chan (詹文聲教授)
 
@@ -42,7 +42,9 @@ The corpus preserves the organization he is documented with — the North Americ
 - [[works/taiwaneseamericanhistory-org/activities-of-natea|NATEA — activities of the association (北美台灣工程師協會的活動)]]
 - [[works/taiwaneseamericanhistory-org/natea-illinois-chapter|7. Illinois Chapter / NATEA 北美台灣工程師協會伊利諾分會]]
 
-No other corpus memoirs or articles mention 詹文聲 by name; his encyclopedia entry itself is preserved at [[works/taiwaneseamericanhistory-org/whos-who-1834-wen-chan|1834. Prof. Wen Chan 詹文聲教授]].
+- He speaks directly in the movement record at the 台美人檔案座談會 held at the 2007 美南夏令會 (Dallas), reported in TAH's Our Journeys series: he recounted joining 台灣同鄉會 activities from his student years, and proposed that 同鄉會 follow the 台灣教授協會 practice of producing a ten-year Summary of each decade's events and records — noting the movement's character in 1980 was very different from the present. ([[works/taiwaneseamericanhistory-org/ourjourneys155|155. 台美人檔案座談會 in 2007美南夏令會]])
+
+His encyclopedia entry itself is preserved at [[works/taiwaneseamericanhistory-org/whos-who-1834-wen-chan|1834. Prof. Wen Chan 詹文聲教授]].
 
 ## Sources
 - [TAH #1834 encyclopedia: 1834. Prof. Wen Chan 詹文聲教授](https://taiwaneseamericanhistory.org/whos-who-1834-wen-chan/)
