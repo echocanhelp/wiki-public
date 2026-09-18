@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-17
+last_reviewed: 2026-09-18
 ---
 # Stephen Lin (林俊提)
 
@@ -38,6 +38,7 @@ Accomplishment
 - 2016 — after the TAC-WC Bay Area conference, with Daniel Ko (柯耀宗) and Ed Huang (黃東昇), convened regional leaders to create the TAC-WC Board and took the lead drafting its bylaws — [[works/taiwaneseamericanhistory-org/ourjourneys352|Our Journeys 352]].
 - The 「台灣之音」 1977 episode is also recorded in the corpus memoir 《台灣之音》的回顧 (2014-09) — HOLD: conflict on memoir attribution, this page credits 沈富雄 (Our Journeys 8) but the corpus copy is titled 張富雄 — [[works/taiwaneseamericanhistory-org/ourjourneys2|Our Journeys 2]].
 - Corpus Who's Who entry: [[works/taiwaneseamericanhistory-org/whos-who-1821-stephen-lin|1821. Stephen Lin 林俊提]] (published 2017-08-07).
+- Corpus re-check (slice deepen-x-slice-09180131-16, 2026-09-18): re-grep 林俊提 / Stephen Lin — hit set identical to the records already linked above (Our Journeys 2/8/8-eng/19/352, Who's Who #1821); no new memoir material. SKIP-no-new-material.
 
 ## Family
 
