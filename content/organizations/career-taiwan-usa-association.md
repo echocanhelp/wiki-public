@@ -6,7 +6,7 @@ tags:
   - Taiwanese-American
   - Taiwan-Center-group-member
 verification_status: published
-last_reviewed: 2026-09-17
+last_reviewed: 2026-09-18
 ---
 # Career Taiwan USA Association
 

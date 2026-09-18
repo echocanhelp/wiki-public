@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-18
 ---
 # Thomas Chen (陳秋貴)
 
@@ -17,7 +17,7 @@ last_reviewed: 2026-08-17
 - **Era:** 1955
 - **Geography:** 台灣 屏東 滿州
 - **Core roles:** entrepreneur
-- **Source:** TAH Foundation Who’s Who
+- **Source:** TAH Foundation Who's Who
 
 2. National Minority Supplier Development Council Minority Business Leadership Award
 
@@ -34,11 +34,16 @@ last_reviewed: 2026-08-17
 
 - **Son:** Steve Chen
 
+## Role in the Community
+
+- 紐約門窗企業家，楊遠薰為其立傳〈129. 紐約門窗企業家陳秋貴的故事〉（2014），記錄其從鐵窗生意到創辦協和門窗（Crystal Window & Door Systems）的創業历程（[[works/taiwaneseamericanhistory-org/mystories129|129. 紐約門窗企業家陳秋貴的故事]]）。
+- TAH 本人傳記條目：[[works/taiwaneseamericanhistory-org/ota-275|275. Thomas Chen 陳秋貴]]（2019）、[[works/taiwaneseamericanhistory-org/307-thomas-chen-e9-99-b3-e7-a7-8b-e8-b2-b4201502|307. Thomas Chen 陳秋貴/2015/02]]。
+- 世台聯合基金會（STUF United Fund）董事長（見下方 2022 紀錄）：以台商為主體的世台基金會自 2009 年成立以來在 33 國推展慈善公益，2016 年獲聯合國經社理事會特殊諮詢地位。
 
 ## Sources
 - [TAH #275 encyclopedia: 275. Thomas Chen 陳秋貴](https://taiwaneseamericanhistory.org/ota-275/)
 - [TAH #307 encyclopedia: 307. Thomas Chen 陳秋貴/2015/02](https://taiwaneseamericanhistory.org/307-thomas-chen-%e9%99%b3%e7%a7%8b%e8%b2%b4201502/)
-- [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/thomas-chen/)
+- [TAH Who's Who](https://taiwaneseamericanhistory.org/person/thomas-chen/)
 
 ## From the record
 

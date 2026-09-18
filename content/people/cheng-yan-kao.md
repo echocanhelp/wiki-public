@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-18
 ---
 # Cheng-yan Kao (高成炎)
 
@@ -17,7 +17,7 @@ last_reviewed: 2026-08-17
 - **Era:** 1948
 - **Geography:** Taiwan/Taipei
 - **Core roles:** engineer, professor, educator
-- **Source:** TAH Foundation Who’s Who
+- **Source:** TAH Foundation Who's Who
 
 
 <!-- tah-tables:start -->
@@ -39,10 +39,16 @@ last_reviewed: 2026-08-17
 - **Daughter:** Michelle Kao
 - **Daughter:** Sophia Kao
 
+## Role in the Community
+
+- 黑名單時期紀錄將他列名：出身台大數學系、威斯康辛大學麥迪遜分校電腦博士，因在台大時期參與高雄事件而得罪國民黨，並波及太太陳麗貞（時任職詹森太空總署）（[[works/taiwaneseamericanhistory-org/ourjourneys106|Our Journeys 106]]）。
+- HOLD: conflict — TAH 工作紀錄為 NASA 1981–1990 後回台大任教；Our Journeys 106 紀錄則稱其「現任職奇異公司（GE）」。未自動合併。
+- 以創黨召集人身分主講「台灣綠色產業的展望」於台美人遊輪夏令會（[[works/taiwaneseamericanhistory-org/ourjourneys101|Our Journeys 101]]）；另遊輪紀錄稱之為「台灣的環保聯盟副會長高成炎敎授」，述及 1974 年俄亥俄州哥倫巴斯初識（[[works/taiwaneseamericanhistory-org/ourjourneys96|Our Journeys 96]]）。
+- 本人著作：617.〈福島核災啟示錄〉（2012/04，Politics）（[[works/taiwaneseamericanhistory-org/e7-a6-8f-e5-b3-b6-e6-a0-b8-e7-81-bd-e5-95-9f-e7-a4-ba-e9-8c-84-e9-ab-98-e6-88-90|617. 福島核災啟示錄]]）。
 
 ## Sources
 - [TAH #415 encyclopedia: 415. Cheng-yan Kao 高成炎/2015/05](https://taiwaneseamericanhistory.org/415-cheng-yan-kao/)
-- [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/cheng-yan-kao/)
+- [TAH Who's Who](https://taiwaneseamericanhistory.org/person/cheng-yan-kao/)
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
