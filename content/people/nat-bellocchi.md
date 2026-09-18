@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-18
 ---
 # Nat Bellocchi (白樂崎)
 
@@ -35,6 +35,10 @@ last_reviewed: 2026-08-17
 - **Daughter:** 賈桂林
 - **Son:** Luke
 
+
+## Role in the Community
+
+SKIP (2026-09-18): corpus grep for 白樂崎 / Bellocchi across content/works and content/articles hit only his own TAH Who's Who record ([[works/taiwaneseamericanhistory-org/who839-nat-bellocchi|839. Nat Bellocchi 白樂崎 / 02/2016]]) and index listings — no memoir or community-corpus material to absorb. Existing facts (State Dept. diplomat 1955–1995, AIT 理事主席 1990–1995) rest solely on the TAH source already cited.
 
 ## Sources
 - [TAH #839 encyclopedia: 839. Nat Bellocchi 白樂崎 / 02/2016](https://taiwaneseamericanhistory.org/who839-nat-bellocchi/)

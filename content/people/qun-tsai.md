@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-18
 ---
 # Qun Tsai (蔡昆)
 
@@ -27,6 +27,11 @@ last_reviewed: 2026-08-17
 ## Employment
 - 翠月樓餐館 — 1980 - 2003 — Owner of 3 Resturants
 <!-- tah-tables:end -->
+
+## Role in the Community
+- Preserved family history first-hand: 蔡昆 gathered the whole family and used a Video camera to record his own oral account of his experiences in Japan, including WWII Allied air raids; the family turned the recording into DVDs distributed to each household for preservation. His son 蔡靜輝教授 reported this family method at the 台美人檔案座談會 at the 2015 US-South Summer Camp in Dallas ([[works/taiwaneseamericanhistory-org/ourjourneys155|155. 台美人檔案座談會/2015美南夏令會]]).
+- His own TAH oral-history records exist in the corpus: [[works/taiwaneseamericanhistory-org/senior-taiwanese-american-33|33. Qun Tsai (蔡昆)]] (2019) and [[works/taiwaneseamericanhistory-org/whos-who-2121|2121. Qun Tsai 蔡昆/06/2018]].
+- HOLD: the press-kit snapshot lists "Era: 1919" with no corroborating corpus source; treat birth year as unverified.
 
 ## Family
 

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-18
 ---
 # Rui Mu Lee (李瑞木)
 
@@ -35,6 +35,12 @@ last_reviewed: 2026-08-17
 
 - **Daughter:** 純玲
 - **Son:** Wayne李煒鈞
+
+
+## Role in the Community
+
+- **1992 (Oct):** Gave a speech and fundraised for the 台灣建國研究院 (Taiwan Nation-Building Research Institute), recorded in the movement memoir chronicle [[works/taiwaneseamericanhistory-org/ourjourneys123|Our Journeys 123 (chronicle)]] and its English counterpart [[works/taiwaneseamericanhistory-org/ourjourneys123-eng|Our Journeys 123 (EN)]] — placing him in the organized nation-building movement in the US, beyond his academic record.
+- Listed in the TAH Foundation Who's Who encyclopedia: [[works/taiwaneseamericanhistory-org/whoswho1564|1564. Rui Mu Lee 李瑞木 / 2017-03]].
 
 
 ## Sources

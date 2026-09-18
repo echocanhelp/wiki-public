@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-18
 ---
 # Milton M. Chen (程孟郎教授)
 
@@ -39,6 +39,9 @@ last_reviewed: 2026-08-17
 - **Daughter:** Connie程康寧
 - **Daughter:** Irene程愛倫
 
+
+## Role in the Community
+SKIP-with-reason (deepen-x 09171500-12, 2026-09-18): corpus grep (程孟郎 / Milton M. Chen in content/works + content/articles) hit only his own TAH record [[works/taiwaneseamericanhistory-org/742-milton-m-chen-e7-a8-8b-e5-ad-9f-e9-83-8e-201512|742. Milton M. Chen 程孟郎 2015/12]] — a band-B bibliographic entry (full text stays in the vault), no memoir or community material to absorb. No facts added beyond the TAH press-kit record above.
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/milton-m-chen/)
