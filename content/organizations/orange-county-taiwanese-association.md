@@ -40,6 +40,17 @@ OCTA（柑縣台灣同鄉會，南加州）是橙縣歷史悠久的台美人同�
 - 史料文物：早期活動相簿（[[works/taiwaneseamericanhistory-org/photo-albums-activities-59|TAH #59 相簿]]）、會徽 T 恤（[[works/taiwaneseamericanhistory-org/67-t-shirt-of-orange-county-taiwanese-association-octa|TAH #67]]）。
 - 相關組織：Orange County Taiwanese Club（OCTW 橙縣台灣人俱樂部，另一組織；[[works/taiwaneseamericanhistory-org/orange-county-taiwanese-club-octw|OCTW 記錄]]）。
 - HOLD: 中文社名本頁與 TAH 語料標題皆作「柑縣台灣同鄉會」；「橙縣」為 OCTW 俱乐部名稱用字，兩者勿混。
+- **1992–1995** — 壘球隊活動文物（手套、球棒、壘球）藏於 TAH（[[works/taiwaneseamericanhistory-org/21-softball-gears-octa|TAH #21 壘球隊文物]]）。
+- **2015** — TAH 社團記錄頁（[[works/taiwaneseamericanhistory-org/orange-county-taiwanese-association-octa|OCTA 組織記錄]]）。
+- **2020-06** — 疫情期間團購台灣製造醫療口罩供應社區（taiwanjustice.net 報導 2020-06-13，[[articles/taiwanjustice-net/2020/20200623032920_2020_06_13_柑縣台灣同鄉會團購台灣製造的醫療囗罩_b5111be5a91c7d0d|報導存檔]]）。
+- **2021-05** — 副會長黃而明代表出席南加州僑胞車隊遊行聲援台灣參與 WHA（taiwanjustice.net 報導 2021-05-13）。
+- **2022-09-24** — 自辦「萬人挺台灣參與聯合國及世界衛生組織」健行活動（taiwanjustice.net 記錄 2022-09）。
+- **2024** — 大洛杉磯 228 追思紀念會聯合社團清單內社团之一（taiwanjustice.net 2025-03 刊）。
+- 社團場地：金桔會、合唱團、舞蹈社定期於 TAH 台美史料中心活動；歷任會長見語料：廖光男（創會）、王健椎（紀念文稱「前加州柑縣台灣同鄉會會長王健椎博士」）（[[articles/taiwanjustice-net/2026/20260121010227_斯人已逝_其德可追-緬懷鄭寶鼎博士-_-林宏容_9907500dda4f33bb|緬懷鄭寶鼎博士文]]）。
+- HOLD: 社區獎學金主办方用字 — TAH #5 記錄作「TACL 共同辦理」；鄭寶鼎紀念文作「台美公民協會（TACS）主辦、柑縣台灣同鄉會協辦，2005–2014 共 10 年，歷經陳立明、黃河芬、許新民等會長」。兩缩写未確認為同一組織，勿逕行合併。
+
+## Corpus re-grep note (2026-09-18, slice 09180131-19)
+- Deepened: 新增 TAH #21 壘球文物、OCTA 組織記錄頁、taiwanjustice 語料（2020 口罩團購、2021 WHA 車隊遊行、2022 健行、2024 228 聯合社團、鄭寶鼎紀念文之內會史）；既有 TAH 連結全數保留。
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
