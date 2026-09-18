@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-18
 ---
 # Taiwanese Student Association at UC Santa Barbara
 
@@ -17,6 +17,9 @@ last_reviewed: 2026-08-17
 - **Core roles:** Community organization (TAH directory)
 
 The Taiwanese Student Association (TSA) at UC Santa Barbara is a non-profit, non-political, student-led organization dedicated to promoting and celebrating Taiwanese culture on campus. The organization is listed among Asian Pacific Islander student organizations by both UCSB’s Office of Undergraduate Admissions and the Educational Opportunity Program’s Asian Resource Center, and maintains an active presence on Shoreline, the university’s official student engagement platform. Its mission, as stated on its website, is to enrich students’ social and cultural collegiate experience among those who share a common interest in Taiwan.
+
+## Role in the Community
+- Co-sponsor (listed as "UCSB Taiwanese Student Assoc.", alongside the Center for Taiwan Studies, the Dept. of East Asian Languages and Cultural Studies, and TECO-LA) of the May 8, 2014 UCSB screening-and-talk of Anita Chang's documentary *Tongues of Heaven* — attested in the community coverage [[works/taiwaneseamerican-org/a-chat-with-documentary-filmmaker-anita-chang|A Chat with Documentary Filmmaker Anita Chang]] (TA, 2014-05-07).
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-student-association-at-uc-santa-barbara/)
