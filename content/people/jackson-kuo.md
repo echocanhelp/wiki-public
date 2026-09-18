@@ -37,6 +37,7 @@ HERMIT Jackson Kuo is born in Taiwan in 1950. He is not a real hermit but in spi
 
 
 ## Role in the Community
+- **2012-09-09** — 台灣公義報台美人台加人欄發表「中國外交官在美國丟人現眼/郭敏俊/9-9-2012」投書（[[articles/taiwanjustice-net/2024/20240620184257_root_c595d332038f73bb|TJJ Taiwan標籤頁, 2024-06-20 存檔]]）。
 - **2016-07** — published 《Hermit Jackson Kuo's Sketch Book 郭敏俊の寫生帖》: [[works/taiwaneseamericanhistory-org/publications1007|TAH #1007]] (2016-07-26).
 - **2016-08** — "Car for Taiwan": donated the proceeds from the sale of his sketch book to 繁華教會 in 屏東, his hometown — community story co-credited to [[people/prof-helen-lee|Prof. Helen Lee]] at [[works/taiwaneseamericanhistory-org/mystories453|TAH mystories 453]] (2016-08-05). Confirms 番仔寮/屏東 roots as an active church-giving act, not just birthplace.
 - **2017** — two art collections recorded in the corpus: [[works/taiwaneseamericanhistory-org/publications1159|TAH #1159 郭敏俊畫集 第一輯]] (2017-10) and [[works/taiwaneseamericanhistory-org/publications1160|TAH #1160 郭敏俊畫集 第二輯]] (2017-11). HOLD: #1159's byline reads 郭俊敏 (name characters transposed vs 郭敏俊 everywhere else) — treated as a source typo, not merged.

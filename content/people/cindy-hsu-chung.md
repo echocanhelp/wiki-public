@@ -60,3 +60,4 @@ _No filled family fields on the TAH profile._
 - [[organizations/taiwanese-american-historical-society||TAHS]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - [[sources/taiwaneseamericanhistory-org-story-corpus||TAH story corpus]]
+- 複核（deepen-x slice-09170500-11, 2026-09-17）：re-grep 相同命中集（僅本人書目記錄＋index）— SKIP：已飽和，無新回憶錄/社群材料可吸收。
