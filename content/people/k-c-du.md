@@ -34,7 +34,7 @@ last_reviewed: 2026-09-18
 
 ## Role in the Community
 - His essay 臺灣文學 is held in the archive as an early TAH publication: [[works/taiwaneseamericanhistory-org/27-e8-87-ba-e7-81-a3-e6-96-87-e5-ad-b8-e6-9d-9c-e5-9c-8b-e6-b8-85tu-kuo-ching-19|27. 臺灣文學 – 杜國清 Tu Kuo-Ching]] (dated 1996.01 in the original, logged 2014-10-12).
-- Co-editor (with Backus Robert) of the Taiwan Literature 台灣文學英譯叢刊 translation series, central to bringing Taiwanese literature into English: [[works/taiwaneseamericanhistory-org/135-taiwan-literature-e5-8f-b0-e7-81-a3-e6-96-87-e5-ad-b8-e8-8b-b1-e8-ad-af-e5-8|135. Taiwan Literature 台灣文學英譯叢刊 2006.01]] and [[works/taiwaneseamericanhistory-org/137-taiwan-literature-e5-8f-b0-e7-81-a3-e6-96-87-e5-ad-b8-e8-8b-b1-e8-ad-af-e5-8|137. Taiwan Literature 台灣文學英譯叢刊 2008.01]].
+- Co-editor (with Backus Robert) of the Taiwan Literature 台灣文學英譯叢刊 translation series, central to bringing Taiwanese literature into English: [[works/taiwaneseamericanhistory-org/135-taiwan-literature-e5-8f-b0-e7-81-a3-e6-96-87-e5-ad-b8-e8-8b-b1-e8-ad-af-e5-8|135. Taiwan Literature 台灣文學英譯叢刊 2006.01]], [[works/taiwaneseamericanhistory-org/136-taiwan-literature-e5-8f-b0-e7-81-a3-e6-96-87-e5-ad-b8-e8-8b-b1-e8-ad-af-e5-8|136. 同叢刊 2007.01]] and [[works/taiwaneseamericanhistory-org/137-taiwan-literature-e5-8f-b0-e7-81-a3-e6-96-87-e5-ad-b8-e8-8b-b1-e8-ad-af-e5-8|137. Taiwan Literature 台灣文學英譯叢刊 2008.01]].
 - With Backus Robert also credited on the biography [[works/taiwaneseamericanhistory-org/131-e8-ac-9d-e6-b8-85-e5-bf-97-e7-9a-84-e7-94-9f-e5-91-bd-e6-8c-af-e5-8b-95-e8-a|131. 謝清志的生命振動]] (2008.10).
 - Who's Who entry: [[works/taiwaneseamericanhistory-org/whoswho1145|1145. K. C. Du 杜國清]] (logged 2016-07-15).
 

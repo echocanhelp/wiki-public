@@ -36,7 +36,7 @@ last_reviewed: 2026-09-18
 
 - **Wife:** [[people/mei-chiang-su||江美惠]]
 
-HOLD: conflict — spouse page linked as 江美惠 vs corpus work page listing 「Matthias & Mei Lu (盧志華/美惠)」（見 [[works/taiwaneseamericanhistory-org/whoswho1077|TAH #1077]]）；姓氏 江 vs 盧 未自動合併。
+HOLD: conflict — spouse page linked as 江美惠 vs corpus work page listing 「Matthias & Mei Lu (盧志華/美惠)」（見 [[works/taiwaneseamericanhistory-org/whoswho1077|TAH #1077]]）；姓氏 江 vs 盧 未自動合併。另有第三人頁 [[people/mei-lu|Mei Lu（陳香梅）]] 亦以 Mei Lu 為名，三種登錄（江美惠／盧美惠／陳香梅）未自動合併。
 
 
 ## Sources
@@ -51,6 +51,7 @@ HOLD: conflict — spouse page linked as 江美惠 vs corpus work page listing �
 
 - TAF（台美協進會）：第六任會長（1991年接任），因1989年評鑑指出TAF的關鍵在第二代接班，他是第一位把林志文（Bob Lin）等新一代帶進夏令營事工的會長（詳見 From the record 楊遠薰TAF史兩篇報導）。
 - 台美協進會會史紀錄：TAF早期夏令營，盧志華與妻美惠（Mei Lu）曾與卓甫良Bill & Carol Cho等新秀一道合影，名列新進campers（[[works/taiwaneseamericanhistory-org/ourjourneys33-eng|Our Journeys #33〈台美協進會的歷史〉]]；自傳頁 [[works/taiwaneseamericanhistory-org/whoswho1077|TAH #1077, 2016/6]]）。
+- 楊遠薰《卓甫良與TAF的故事》多年持續轉載（TJJ 2024-03-02、2025-03-23），持續記錄他1991年接任第六任會長後啟用林志文（Bob Lin）等第二代、以義工媽媽支撐夏令營的會史（[[articles/taiwanjustice-net/2024/20240302042859_root_b4206bcf0ec508d6|TJJ 2024-03-02]]、[[articles/taiwanjustice-net/2025/20250323083207_卓甫良與taf的故事-_-楊遠薰_e7aad53f3e593fde|TJJ 2025-03-23]]）。
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
