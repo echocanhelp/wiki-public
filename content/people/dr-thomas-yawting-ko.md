@@ -40,5 +40,6 @@ Dr. Thomas Yawting Ko 柯耀庭醫師 – History of Taiwanese American (T.A. Ar
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-thomas-yawting-ko/)
 
 ## Related Pages
+- [[works/taiwaneseamericanhistory-org/whos-who-1889-thomas-yawting-ko|1889. Dr. Thomas Yawting Ko 柯耀庭醫師]] — own record in the TAH story corpus (bibliographic; NATMA D.C. Chapter president per TAH bio, no memoir hits in corpus)
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-18
 ---
 # Brown/RISD Taiwanese Graduate Student Association
 
@@ -17,6 +17,10 @@ last_reviewed: 2026-08-17
 - **Core roles:** Community organization (TAH directory)
 
 The Brown/RISD Taiwanese Graduate Student Association is a student group serving Taiwanese graduate students across both Brown University and the Rhode Island School of Design. The organization maintains a Facebook group, which was active at least as of 2015 when it was used to organize a new-student orientation event for incoming Taiwanese students at both institutions. The group’s Facebook page is the only first-party online presence identified; no dedicated website, Instagram, or official university directory listing was found in available sources.
+
+## Deepen-x note (2026-09-18)
+
+SKIP: no corpus hits. Corpus grep for Brown/RISD found nothing in works/ or articles/ (only substring false positives inside "jurisdiction"). No memoir or community record to absorb beyond the TAH directory listing already reflected above.
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/brown-risd-taiwanese-graduate-student-association/)

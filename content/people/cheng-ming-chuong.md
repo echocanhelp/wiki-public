@@ -42,5 +42,6 @@ last_reviewed: 2026-09-18
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/cheng-ming-chuong/)
 
 ## Related Pages
+- [[works/taiwaneseamericanhistory-org/whoswho606|606. Cheng-Ming Chuong 鍾正明 / 2015/09]] — own record in the TAH story corpus (bibliographic; no memoir hits in corpus)
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

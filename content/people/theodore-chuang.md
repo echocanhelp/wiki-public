@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-18
 ---
 # Theodore Chuang ．莊 (西奧多)
 
@@ -37,6 +37,10 @@ United States District Judge
 ## Family
 
 _No filled family fields on the TAH profile._
+
+## Role in the Community
+- Profiled in the TAH Who's Who record: [[works/taiwaneseamericanhistory-org/whoswho1556|1556. Theodore Chuang 西奧多．莊 / 2017/03]] (2017-03).
+- Several Taiwan Justice articles carry auto-inserted Subjects links to this page, but on inspection the surrounding text refers to 西奧多·羅斯福 / Theodor Herzl, not this person — treated as spurious mentions, not absorbed (see e.g. [[articles/taiwanjustice-net/2025/20250318114024_川普再度入主白宮-就職演說全文翻譯影_3f31972ffd8f3eec|川普就職演說全文翻譯]]).
 
 ## Sources
 - [TAH #1556 encyclopedia: 1556. Theodore Chuang 西奧多．莊 / 2017/03](https://taiwaneseamericanhistory.org/whoswho1556/)
