@@ -254,6 +254,10 @@ Notable quotes and mentions of **楊嘉猷** in Taiwan Justice articles:
 - **Hub:** 2017 TAHS Publication (public URL historically under sources/2017-tahs-publication; MD restore pending if missing locally)
 - **Note:** Full 2017 text may include further family/education detail for future depth pass
 
+## From the record
+
+- 2024-08-17 — 應大洛杉磯台灣會館耆老講座邀約，與洪茂澤對談「返台參選經驗」（[[articles/taiwanjustice-net/2025/20250216032153_tag_大洛杉磯台灣會館耆老講座_20053f0a17b89c07|TJJ 耆老講座標籤頁，2024-07-24 刊前導]]）。
+
 ## Taiwan Justice (台灣公義網) Citations
 
 - **2025-09-05** — *台美人歷史協會新任會長許景鴻接椽 開啟世代傳承新紀元* (score 490)

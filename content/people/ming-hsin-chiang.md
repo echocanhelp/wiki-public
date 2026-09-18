@@ -35,6 +35,10 @@ Accomplishment
 - **Father:** 江建一
 
 
+## From the record
+
+- 2021-07-18 — 立委陳柏惟公開記述：曾任紐約台灣商會會長、現任世界台灣商會聯合總會理事的江明信印製 HELLO TAIWAN T恤、帶著台灣製 HELLO TAIWAN 口罩與文宣四處拜訪美國國會議員，協助台灣國際發聲（含台美疫苗捐贈期間聯繫美國議員與 HHS 部長）；並以其中英雙「台灣」領帶為台僑發聲象徵（[[articles/taiwanjustice-net/2021/20210724183958_2021_07_18_ait處長孫曉雅口罩亮眼_陳柏惟曝台僑暖心故事_d0d03097ac759900|TJJ，2021-07-18 刊]]）。
+
 ## Sources
 - [TAH #2017 encyclopedia: 2017. Ming Hsin Chiang 江明信](https://taiwaneseamericanhistory.org/whos-who-2017-ming-hsin-chiang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/ming-hsin-chiang/)
