@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-17
+last_reviewed: 2026-09-18
 ---
 # TYZEN HSIAO MUSIC WORKS (蕭泰然音樂基金會)
 
