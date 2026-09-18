@@ -51,5 +51,5 @@ _No filled family fields on the TAH profile._
 ## Vault records（deepen pass 2026-09-14）
 - 複核：出處 TAH #1839 為書目記錄，無可再吸收之新事实；本页以既有連結為準。
 
-## Corpus re-grep (2026-09-16, re-verified 2026-09-17 slice-20)
+## Corpus re-grep (2026-09-16, re-verified 2026-09-17 slice-20、slice-17)
 - SKIP: 再grep僅見本身TAH出處頁 whos-who-1839 及 works index，無回憶錄語料可吸收；維持2026-09-14複核結論。
