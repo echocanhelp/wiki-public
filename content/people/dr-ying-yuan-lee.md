@@ -28,6 +28,14 @@ last_reviewed: 2026-09-17
 - 第三屆立法委員 — 1995 — 立法委員 — 第四屆立法委員 — 1998 — 立法委員 — 駐美副代表 — 2000 — 駐美副代表 — 行政院 — 2002 — 行政院秘書長
 <!-- tah-tables:end -->
 
+## Role in the Community
+
+- 北卡留學時期（UNC 博士班）是《台灣學生》發行 4000 多份的第一任發行人；同儕回憶其「親和與協調能力是一流的」（[[works/taiwaneseamericanhistory-org/our-journeys-381|Our Journeys 381]]）。
+- 籌劃 228「牽手護台灣」世界記錄（Our Journeys 北卡專輯追述）（[[works/taiwaneseamericanhistory-org/our-journeys-381|Our Journeys 381]]）。
+- 1990 年北美洲台灣人教授協會（NATPA）首次在台北召開年會，84 位申請回國會員中 18 位有「簽證技術性問題」，經近半年交涉後黑名單縮至三位——吳明基、李應元、郭榮桔，理由定型為「現任暴力型革命組織的中央委員」（[[works/taiwaneseamericanhistory-org/ourjourneys259|Our Journeys 259]]）。
+- 台獨聯盟遷台後，國民黨與陳婉眞對決時，郭倍宏、李應元毅然現身公開登場（[[works/taiwaneseamericanhistory-org/ourjourneys280|Our Journeys 280]]）。
+- 2021 年逝世後 TAH 專輯以「813. 李應元爽朗笑容成追憶 活躍政壇30年以高EQ、好人緣著稱」記錄之（[[works/taiwaneseamericanhistory-org/my-stories-813|My Stories #813]]）。
+
 ## Family
 
 - **Wife:** [[people/laura-huang||黃月桂]]
