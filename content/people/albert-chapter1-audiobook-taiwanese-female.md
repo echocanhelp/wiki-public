@@ -23,6 +23,10 @@ This page hosts the full audiobook narration for Chapter I of *Toward A Communit
 
 [Play / Download Chapter 1 Audio](/media/albert-chapter1-taiwanese-female-full.mp3)
 
+> SKIP note (2026-09-17 deepen-x): corpus grep in works/articles returned no
+> community facts about this audio production — all hits were idiom false
+> positives on 有聲. This page is an audio artifact, not a biographical entry.
+
 
 ## Network
 

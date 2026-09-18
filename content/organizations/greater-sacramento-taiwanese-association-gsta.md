@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-17
 ---
 # Greater Sacramento Taiwanese Association GSTA (大沙加偭度台灣同鄉會)
 
