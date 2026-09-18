@@ -54,3 +54,4 @@ _No filled family fields on the TAH profile._
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 複核（deepen-x slice 09170130-10, 2026-09-17）：corpus re-grep 命中僅 whos-who-1765、ourjourneys245（夏令會簡史，已吸收）、index、及兩筆 taiwanjustice-net 新聞（已列 HOLD）— 無新增回憶錄材料，SKIP-with-reason：語料已飽和。
+複核（deepen-x slice 09170500-8, 2026-09-17）：re-grep 命中集合不變（whos-who-1765、ourjourneys245、index、taiwanjustice-net 兩則新聞 HOLD）— SKIP-with-reason：語料已飽和，無可吸收新材料。

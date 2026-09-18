@@ -51,3 +51,4 @@ Hui-Mei Lin, pianist, received her Master’s degree from the Juilliard School a
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - Corpus re-grep 2026-09-16 (slice 09162200-10): SKIP — hit set unchanged (#188, ourjourneys268, ourjourneys123); Amy Lin 林惠美 collision re-confirmed a different person. Minnesota HOLD stands.
 - Corpus re-grep 2026-09-17 (slice 09170130-7): SKIP — hit set unchanged (#188, ourjourneys268, ourjourneys123, works index); Amy Lin 林惠美 collision re-confirmed a different person; Minnesota HOLD stands.
+- Corpus re-grep 2026-09-17 (slice 09170500-5): SKIP — hit set unchanged (#188, ourjourneys268, ourjourneys123, works index). Page saturated; recommend dropping from future slices. Minnesota HOLD stands.
