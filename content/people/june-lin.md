@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-18
 ---
 # June Lin (林倢)
 
@@ -31,6 +31,11 @@ last_reviewed: 2026-08-17
 ## Family
 
 _No filled family fields on the TAH profile._
+
+## Role in the Community
+- Contributed the community essay 從《台灣旅行法》，看見台美人的草根外交 (10/2017), held in the TAH story corpus as a Band-A (community history) record ([[works/taiwaneseamericanhistory-org/ourjourneys320|record 320]]) — documents her grassroots-advocacy voice on the Taiwan Travel Act.
+- Her own TAH Who's Who encyclopedia entry is also a corpus record ([[works/taiwaneseamericanhistory-org/whos-who-1925-june-lin|TAH #1925]]) and corroborates the tah-tables roles above (李登輝基金會研究員、蘇治芬立委助理、FAPA Policy Fellow).
+- Consistent with the FAPA Policy Fellow role, sister FAPA chapters appear in the corpus-adjacent org pages ([[organizations/fapa-los-angeles|FAPA Los Angeles]], [[organizations/fapa-orange-county|FAPA Orange County]]).
 
 ## Sources
 - [TAH #1925 encyclopedia: 1925. June Lin 林倢](https://taiwaneseamericanhistory.org/whos-who-1925-june-lin/)
