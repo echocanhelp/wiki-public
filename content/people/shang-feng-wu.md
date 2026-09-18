@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-18
 ---
 # Shang-Feng Wu (吳上峯)
 
@@ -29,6 +29,10 @@ last_reviewed: 2026-08-17
 ## Family
 
 _No filled family fields on the TAH profile._
+
+## Role in the Community
+- Double-recorded in the TAH encyclopedia — as a musician at [[works/taiwaneseamericanhistory-org/musician-335|TAH #335 Shang-Feng Wu 吳上峯, Musician (2016/04)]] and as a Who's Who entry at [[works/taiwaneseamericanhistory-org/whoswho922|TAH #922 Shang-Feng Wu 吳上峯 (2016/04)]]; both are bibliographic records (full text stays at the source), so the choral-teacher detail rests on the TAH table above until the record texts are absorbed.
+- Corpus records frame the YMCA children's choir and church hymn choir teaching as music work inside the Taiwanese/Presbyterian community, consistent with the 台灣 geography on the TAH profile.
 
 ## Sources
 - [TAH #335 encyclopedia: 335. Shang-Feng Wu吳上峯,Musician / 2016/04](https://taiwaneseamericanhistory.org/musician-335/)
