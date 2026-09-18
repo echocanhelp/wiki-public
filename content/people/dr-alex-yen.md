@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-18
 ---
 # Dr. Alex Yen (顏俊醫師)
 
@@ -32,6 +32,10 @@ last_reviewed: 2026-08-17
 ## Family
 
 _No filled family fields on the TAH profile._
+
+## Community records
+
+_SKIP (2026-09-18 deepen-x): corpus search found only his own TAH Who's Who record [[works/taiwaneseamericanhistory-org/whos-who-1984-alex-yen|TAH #1984]] (bibliographic record only, no memoir content) — no community/memoir material to absorb._
 
 ## Sources
 - [TAH #1984 encyclopedia: 1984. Dr. Alex Yen 顏俊醫師](https://taiwaneseamericanhistory.org/whos-who-1984-alex-yen/)

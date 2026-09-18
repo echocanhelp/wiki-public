@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-18
 ---
 # Danny Sheu
 
@@ -29,6 +29,14 @@ Violist Danny Sheu, a native of San Jose, was born and raised in a musical famil
 ## Employment
 - Private studio — Teaching violin
 <!-- tah-tables:end -->
+
+## Role in the Community
+
+TAH Foundation's story corpus carries two feature records on Danny Sheu, both published 2015-03-22:
+[[works/taiwaneseamericanhistory-org/343-danny-sheu-201503|343. Danny Sheu / 2015/03]] and
+[[works/taiwaneseamericanhistory-org/13027|176. Danny Sheu, Violist / 2015/03]] — community-side
+recognition of his concert work (Royce Hall, Walt Disney Concert Hall, tours in Europe and Asia).
+The records are bibliographic (band B); full text stays in the TAH vault.
 
 ## Family
 

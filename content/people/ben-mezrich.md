@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-18
 ---
 # Ben Mezrich (賓梅立克)
 
@@ -27,9 +27,18 @@ Accomplishment
 - Harvard Univ. — 1991 — B.A., Social Studies
 <!-- tah-tables:end -->
 
+## Role in the Community
+
+TAH holds two encyclopedia entries on Mezrich as a Taiwanese American community figure:
+[[works/taiwaneseamericanhistory-org/ota-273|273. Ben Mezrich 賓梅立克]] (2019-03-26) and
+[[works/taiwaneseamericanhistory-org/whos-who-2181-ben-mezrich|2181. Ben Mezrich 賓梅立克]] (2019-04-28).
+Both are bibliographic records (band B); the community corpus adds no further biography beyond the
+press-kit accomplishment above.
+
 ## Family
 
-- **Wife:** Tonya Chen Mezrich (陳糖亞)
+- **Wife:** [[people/tonya-c-mezrich|Tonya C Mezrich 陳糖亞]] — herself in the TAH corpus
+  ([[works/taiwaneseamericanhistory-org/whos-who-2180-tonya-c-mezrich|2180. Tonya C Mezrich 陳糖亞]], 2019-04-28).
 
 
 ## Sources
