@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-18
 ---
 # Dr. K. P. Fu (傅康平博士)
 
@@ -30,6 +30,10 @@ last_reviewed: 2026-08-17
 ## Employment
 - Columbia Univ. — Research Associate — American Home — Johnson & Johnson — Acting Director of Pi
 <!-- tah-tables:end -->
+
+## Role in the Community
+- 傅康平紀念獎學金（Dr. K. P. Fu memorial scholarship Award）以他命名，2015-07-22 與北美台灣婦女會（NATWA）社區獎學金、單親母親學生獎學金同批刊出表彰記錄（[[works/taiwaneseamericanhistory-org/16-dr-k-p-fu-memorial-scholarship|傅康平紀念獎學金]]）。
+- TAH Who's Who #2299（2020-12-24）為其人物記錄（[[works/taiwaneseamericanhistory-org/whos-who-2299-k-p-fu|TAH #2299]]）；配偶林郁子另有平行記錄 [[works/taiwaneseamericanhistory-org/whos-who-2298-y-g-fu|TAH #2298 Vivian Y.G. Fu 林郁子]]。
 
 ## Family
 
