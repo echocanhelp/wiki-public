@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-18
 ---
 # Chen Chang Lee (李振昌)
 
@@ -29,6 +29,9 @@ Accomplishment
 ## Employment
 - Cleveland Indians — Pitcher — (2013-2015) — Saitama Seibu Lions — Pitcher — (2016-2016) — Colorado Rockies — Pitcher — (2017-2017) — Los Angeles Dodgers — Pitcher — (2018-2018) — CTBC Brothers — Pitcher — (2018-)
 <!-- tah-tables:end -->
+
+## Role in the Community
+- 2017-07-09 — profiled in the TAH encyclopedia corpus: [[works/taiwaneseamericanhistory-org/whos-who-1749-chen-chang-lee|1749. Chen Chang Lee 李振昌]]. Bibliographic record only (full text stays in the vault); no additional community/corpus facts absorbable beyond the press-kit career facts already above — no invented biography added.
 
 ## Family
 
