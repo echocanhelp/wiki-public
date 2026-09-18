@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-17
+last_reviewed: 2026-09-18
 ---
 # Maurice Hsu (許盛男醫師)
 
@@ -49,6 +49,7 @@ last_reviewed: 2026-09-17
 
 - 1981 — 台灣人公共事務協會（FAPA）紐約分會創會會長（first president）—— [[works/taiwaneseamericanhistory-org/174-dr-maurice-hsu-e8-a8-b1-e7-9b-9b-e7-94-b7-first-president-of-fapanew-york-ch|TAH 檔案 174, 1981]]。
 - 1982 — FAPA 紐澤西分會會長；分會涵蓋紐約市以西的北紐澤西地區—— [[works/taiwaneseamericanhistory-org/176-dr-maurice-hsu-e8-a8-b1-e7-9b-9b-e7-94-b7-president-of-fapanew-jersey-chapte|TAH 檔案 176, 1982]]、[[works/taiwaneseamericanhistory-org/308-maurice-hsu-e8-a8-b1-e7-9b-9b-e7-94-b7201502|TAH 檔案 308, 2015-02]]。
+- Our Journeys #356 記載：FAPA 紐澤西分會「由許盛男（創會會長）等人於 1981 年設立」—— [[works/taiwaneseamericanhistory-org/ourjourneys356-eng|Our Journeys #356 ENG]]。HOLD: conflict — TAH 檔案 176 標 1982 會長，Our Journeys #356 稱 1981 創會會長；兩說未併合。
 - 倡組「紐約紐澤西台灣人社團聯合會」（Taiwanese Community Council, NY/NJ）並公推為創會會長。成員社團包括大紐約區台灣同鄉會、紐澤西台灣同鄉會、陳文成教授紀念基金會、台灣人権協會紐約分會、FAPA 紐約分會、台灣研究會。聯合會被視為台灣會館催生過程中的重要分水嶺—— [[works/taiwaneseamericanhistory-org/ourjourneys09|Our Journeys #09（回忆紐約台灣會館）]]、[[works/taiwaneseamericanhistory-org/ourjourneys9-eng|Our Journeys #09 ENG]]。
 
 ## Related Pages

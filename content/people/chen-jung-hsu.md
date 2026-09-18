@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-17
+last_reviewed: 2026-09-18
 ---
 # Chen-Jung Hsu (許振榮)
 
@@ -46,6 +46,7 @@ last_reviewed: 2026-09-17
 - Memorialized by named endowments at Academia Sinica: the 許振榮講座 ([[works/taiwaneseamericanhistory-org/12-36|36. 許振榮講座]]) and the 許振榮教授紀念清寒獎學金 ([[works/taiwaneseamericanhistory-org/12-37|37. 許振榮教授紀念清寒獎學金]]) — evidence the community sustained his legacy after his death in 1988.
 - Appears in an NTU Mathematics Department oral history: in 謝伯芳's recollection of the mid-1950s (a cohort of only four students), 許振榮 was one of two Taiwanese 副教授 in a department of five 正教授 — 東京帝大畢業的系主任沈璿、京都帝大畢業的施拱星、and 東北帝大畢業的許振榮 — 「兩個人後來都有來美取得博士」 ([[articles/taiwanjustice-net/2024/20240523001702_root_d717aa524a3911af|TJJ 台大數學系回憶]]). Corroborates the 東北帝大 education record and the later US career (Kansas State 1965–83).
 - TAH encyclopedia biography: [[works/taiwaneseamericanhistory-org/807-chen-jung-hsu-201602|807. Chen-Jung Hsu 許振榮 /2016/02]].
+- SKIP note (deepen-x 09180131-24, re-grep): corpus hit set (mystories398, 12-36, 12-37, 807, TJJ 台大數學系回憶) identical to links already absorbed above — page saturated, nothing new absorbable.
 
 ## Family — legacy
 - Endowed chair and need-based scholarship named jointly in his memory (see Role in the Community above).

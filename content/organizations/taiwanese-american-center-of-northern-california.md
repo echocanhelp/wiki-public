@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-17
+last_reviewed: 2026-09-18
 ---
 # Taiwanese American Center of Northern California (北加州台灣會館)
 
@@ -23,6 +23,8 @@ The Taiwanese American Center of Northern California (北加州台灣會館, TAC
 Primary community memoir [[works/taiwaneseamericanhistory-org/ourjourneys53-eng|53. 台灣會館美夢成真 / N. CA Taiwanese American Center Dream Comes True (May-Sing Chang)]] records the founding: after moving to the Bay Area in 1988, May-Sing Chang and her husband gathered like-minded friends — Te-hui Chen, Chun Chiu, Tien-mo Lin, David Weng, Ching C. Shir, Tien-tun Shih, Kuang-po Chen, Hwalin Lee, and Davis Chang — and founded Northern California's first public Taiwanese American Center in **Fremont in March 2003** (2,800 sq ft), later outgrown by the current larger center. The building gave the community a fixed place for meetings, cultural programs, and consolidation of community force.
 
 HOLD: founding place — the TAH directory entry describes the San Jose / Silicon Valley facility, while the founder memoir places the 2003 founding in Fremont (likely a later relocation; not merged).
+
+2026-09-18 re-grep: corpus hit set unchanged — the 年刊 records (2005 / 2007 / 2010), the TAC-DRF donation-account record, the founder memoir, and the Liao oral history are all already linked below; no new material to absorb.
 
 ## Timeline
 - 2003-03 — founded in Fremont as the first public Taiwanese American Center in Northern California (founder memoir, band A)

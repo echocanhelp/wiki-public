@@ -39,6 +39,8 @@ Corpus record:
 - [[works/taiwaneseamericanhistory-org/whoswho1071|1072. Ho Rui Hsu 許和瑞 / 2016/06]] — her father 許和瑞's Who's Who entry, from the same 2016-06-12 batch.
 - [[articles/taiwanjustice-net/2024/20240621165306_root_44a6bd5ce6bfd54b|TAJS 台加人 Martha VanDriel 上校的西點軍校之路 (TAHS 專訪, 2015-12-21)]] — TAHS interview feature listed in the Taiwan Justice Network index, covering her West Point path as a distinguished second-generation Taiwanese American.
 
+SKIP note (deepen-x 09180131-24, re-grep): corpus hit set (first-137, whoswho1070, TAJS index article) identical to links already absorbed above — page saturated, nothing new absorbable.
+
 HOLD: this page appears to duplicate [[people/martha-vandriel|Martha VanDriel]] (née Hsu 許秀聰, West Point 1991, daughter of 許和瑞). Corpus links diverge: first-137 links here (people/martha-hsu), the TAJS index links people/martha-vandriel. Also note conflict: this page lists M.S. 政治學 at 北卡羅來納州立大學, martha-vandriel lists M.A. National Security Studies at UNC-Chapel Hill (2000); and this page lists 美軍駐南韓第八軍團 策略計畫師 as present while martha-vandriel records retirement Sept 2017. Not auto-merged pending owner review.
 
 ## Family
