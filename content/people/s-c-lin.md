@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-18
 ---
 # S. C. Lin (林淑珠)
 
@@ -33,6 +33,10 @@ last_reviewed: 2026-08-17
 ## Family
 
 _No filled family fields on the TAH profile._
+
+## Role in the Community
+
+Listed in the TAH Foundation Who's Who encyclopedia record [[works/taiwaneseamericanhistory-org/whoswho1204|1204. S. C. Lin 林淑珠 / 2016/07]] (2016). No other corpus (memoir/article) mentions found beyond the source record itself; radiology career facts remain as recorded in the TAH profile.
 
 ## Sources
 - [TAH #1204 encyclopedia: 1204. S. C. Lin 林淑珠 / 2016/07](https://taiwaneseamericanhistory.org/whoswho1204/)

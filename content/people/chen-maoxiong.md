@@ -11835,6 +11835,10 @@ Notable quotes and mentions of **陳茂雄** in Taiwan Justice articles:
 - **Hub:** [[sources/taiwanjustice-net||taiwanjustice.net source hub]]
 - **Archive:** [Column articles](https://github.com/echocanhelp/wiki-public/tree/gh-pages/knowledge/web-archives/taiwanjustice-net/tier2/)
 
+## From the record
+
+- 2026-07-28 — taiwanjustice.net 文章存檔索引（29,103 篇）將陳茂雄列為專欄作者之首（「陳茂雄專欄」475 篇），為該報最高產量專欄作者（[[articles/taiwanjustice-net/index||TJJ 文章存檔索引]]）。
+
 ## Related Pages
 
 - [[sources/taiwanjustice-net||taiwanjustice.net source hub]]

@@ -11244,6 +11244,10 @@ Notable quotes and mentions of **廖清山** in Taiwan Justice articles:
 - [TAH #2056 encyclopedia: 2056. B. S. Jiang 江百顯(廖清山)](https://taiwaneseamericanhistory.org/whos-who-2056-b-s-jiang/)
 - [TAH #120 encyclopedia: 120. 年輪邊緣 – 廖清山 – 1997.09 – 文學](https://taiwaneseamericanhistory.org/120-%e5%b9%b4%e8%bc%aa%e9%82%8a%e7%b7%a3-%e5%bb%96%e6%b8%85%e5%b1%b1-1997-09-%e6%96%87%e5%ad%b8/)
 
+## From the record
+
+- 2026-07-28 — taiwanjustice.net 文章存檔索引（29,103 篇）將廖清山列為專欄作者之一（37 篇專欄），屬台美人專欄群（[[articles/taiwanjustice-net/index||TJJ 文章存檔索引]]）。
+
 ## Related Pages
 
 - [[sources/taiwanjustice-net||taiwanjustice.net source hub]]

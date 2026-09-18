@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-18
 ---
 # UF Taiwanese Student Association
 
@@ -17,6 +17,9 @@ last_reviewed: 2026-08-17
 - **Core roles:** Community organization (TAH directory)
 
 The UF Taiwanese Student Association (TWSA) is a student organization at the University of Florida in Gainesville, Florida. Operating under the abbreviation TWSA to distinguish itself from other student associations, it serves Taiwanese students and those interested in Taiwanese culture within the UF community. The organization maintains an active Instagram presence under the handle @uftwsa and a Facebook group, both of which serve as its primary channels for announcements and event promotion.
+
+## Corpus Status
+- SKIP (deepen-x 09171300-8, 2026-09-18): no corpus memoir/article mentions of this organization (grep for "TWSA", "UF Taiwanese Student", "uftwsa" in works/ and articles/ returned no hits). Only tangential University of Florida mentions exist (e.g. [[works/taiwaneseamericanhistory-org/winners-shih-wen-huang|黃碩文 UF College of Medicine award]]) — unrelated to the student association, not absorbed. No facts invented.
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/uf-taiwanese-student-association/)

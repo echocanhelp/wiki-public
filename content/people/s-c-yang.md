@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-18
 ---
 # S. C. Yang (楊淑卿)
 
@@ -35,6 +35,11 @@ last_reviewed: 2026-08-17
 
 - **Husband:** [[people/patrick-huang||黃再添]]
 
+
+## Role in the Community
+- Community memoir in the TAH corpus covers her and her husband directly: 楊遠薰, 「堅守理念的人生－紐約黃再添與楊淑卿的故事」 — [[works/taiwaneseamericanhistory-org/mystories267|Our Journeys 267]] (2014-12, band B). Memoir is primary material for the couple's New York community life; full text stays in the vault.
+- Her own directory record: [[works/taiwaneseamericanhistory-org/whos-s-c-yang|885. S. C. Yang 楊淑卿]] (published 2016-03-13); husband's paired record: [[works/taiwaneseamericanhistory-org/whos-who-884-patrick-huang|884. Patrick Huang 黃再添]]. His record documents NY-area Taiwan House fundraising alongside 陳隆豐, 樊豐美, 賴弘典 — the civic circle the household moved in.
+- No date/age conflicts found; existing tah-tables bio unchanged.
 
 ## Sources
 - [TAH #885 encyclopedia: 885. S. C. Yang 楊淑卿 / 2016/03](https://taiwaneseamericanhistory.org/whos-s-c-yang/)

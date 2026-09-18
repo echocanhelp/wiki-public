@@ -38,6 +38,8 @@ name_en: "Tsai Ing-wen"
 
 ## From the record
 
+
+- 2026-07-28 — taiwanjustice.net 文章存檔索引（29,103 篇・2011–2026）以本人為關鍵人物條目收錄（[[articles/taiwanjustice-net/index||TJJ 文章存檔索引]]）。
 - 2016-12-09 — Novelist Shawna Yang Ryan's Washington Post op-ed, republished on TJJ, laments that coverage of President-elect Trump's phone call with President Tsai discussed Taiwan only as an irritant in US–China relations ("bargaining chip"), and argues for reckoning with Taiwan's own history from 1895 through the 228 massacre and martial law ([[articles/taiwanjustice-net/2024/20240721112815_root_15fc4a3e5664504e|TJJ republication of WaPo op-ed, 2016-12-09]]).
 - 2016-11-23 — TAH video record: Dr. Tsai Ing-wen warmly welcomed by members of the U.S. Congress during her US transits ([[works/taiwaneseamericanhistory-org/videos47|47. videos47]]).
 - 2024-02-24 — 大洛杉磯台灣會館二二八77週年追思紀念大會上，國史館館長陳儀深視訊演講指出蔡英文總統自上任以來致力於推動轉型正義，透過檔案清查、解密及開放揭露二二八受難者及白色恐怖受害者的歷史，為國家認同塑造提供堅實基礎（[[articles/taiwanjustice-net/2024/20240412192704_root_95fd81860bafb5bf|TJJ, 2024-02-25]]）。

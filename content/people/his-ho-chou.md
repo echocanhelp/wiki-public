@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-18
 ---
 # His-Ho Chou (周錫和)
 
@@ -38,6 +38,10 @@ last_reviewed: 2026-08-17
 - **Daughter:** Jody Chou
 - **Son:** Billy Chou
 
+
+## Role in the Community
+
+Corpus coverage is limited to his own TAH Who's Who encyclopedia record [[works/taiwaneseamericanhistory-org/10958|299. His-Ho Chou 周錫和 / 2015/02]] (2015). No memoir or article mentions were found, so no community-role facts beyond the profile's own engine-room and plant-management career (長榮海運, 新紀海運, 大千瀝青廠) are absorbed.
 
 ## Sources
 - [TAH #299 encyclopedia: 299. His-Ho Chou 周錫和 / 2015/02](https://taiwaneseamericanhistory.org/299/)

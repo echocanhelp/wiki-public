@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-18
 ---
 # Amelia Wu (吳姍姍)
 
@@ -31,9 +31,14 @@ last_reviewed: 2026-08-17
 - The Global Fund for Women — 2009-present — Director of Philanthropic Partnerships
 <!-- tah-tables:end -->
 
+## Role in the Community
+
+- Subject of her own TAH story-corpus record [[works/taiwaneseamericanhistory-org/whoswho1274|1274. Amelia Wu 吳姍姍 / 1 09/2016]] (2016-09-11, band B).
+
 ## Family
 
 - **Father:** 吳明雄
+  - Corpus note: 許永華's memoir [[works/taiwaneseamericanhistory-org/ourjourneys321|321. 由陳文成紀念基金會的創立談起 / 許永華 /11/2017]] records 吳明雄牧師 as officiating the 1976-07-18 陳文成追悼會 in Ann Arbor. Same-name match with the father listed in TAH Who's Who — not independently confirmed; treat as probable family connection, not established fact.
 
 
 ## Sources

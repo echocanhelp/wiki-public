@@ -40,6 +40,10 @@ Top 6 articles from taiwanjustice.net mentioning zhang-xinhui:
    - *大洛杉磯台灣會館台灣學校古典音樂欣賞班，六月「如何欣賞古典音樂」課（6月12日下午一點到三點）將繼續「德奧國音樂家系列」介紹海頓 (Franz Joseph Haydn) (見圖)。...*
    - Score: 155
 
+## From the record
+
+- 2016-05-08 — 與葉思雅在大洛杉磯台灣會館台灣學校古典音樂欣賞班「台灣人音樂家」專場（響應台美人傳統周）共同主講，張信惠以音樂專科背景介紹李泰祥（曾為其伴奏）並參與編選教材，同場介紹林昭亮、曾宇謙、呂泉生、宋如音、馬水龍、金希文 —— [[articles/taiwanjustice-net/2024/20240522054349_root_b4e27e98036e15d0|TJJ，2016-06-06 刊]]。
+
 ## Works
 
 **張信惠** — **2** title hits, **4** body mentions in the taiwanjustice.net harvest. Listed: last 5 years, up to 8/year. Full index: [[sources/taiwanjustice-net|taiwanjustice.net]].

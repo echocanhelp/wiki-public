@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-18
 ---
 # Wei-Chiang Chen
 
@@ -35,6 +35,10 @@ last_reviewed: 2026-08-17
 ## Family
 
 _No filled family fields on the TAH profile._
+
+## Role in the Community
+- Listed in the TAH Who's Who corpus at record [[works/taiwaneseamericanhistory-org/whoswho1371|1371. Wei-Chiang Chen]] (published 2016-11-05, band B). The record is bibliographic only — no memoir/community narrative in the corpus beyond the directory entry; press-kit bio stands as-is.
+- Recognition noted on the TAH profile: 3rd prize, APEC Entrepreneurship Competition, 2004.
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/wei-chiang-chen/)

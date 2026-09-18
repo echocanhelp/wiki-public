@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-18
 ---
 # Julia Chenzu Tsai (蔡茜如)
 
@@ -34,6 +34,10 @@ last_reviewed: 2026-08-17
 ## Family
 
 _No filled family fields on the TAH profile._
+
+## Role in the Community
+- Listed in the TAH Foundation Who's Who record [[works/taiwaneseamericanhistory-org/whosho1606|1606. Julia Chenzu Tsai 蔡茜如 / 2017/04]] (2017-04-14) — the only corpus trace of 蔡茜如; no memoir or article coverage found in works/ or articles/.
+- SKIP-with-reason: no independent community/corpus material to absorb beyond the press-kit profile; biography facts above are TAH-sourced only, nothing deepened.
 
 ## Sources
 - [TAH #1606 encyclopedia: 1606. Julia Chenzu Tsai 蔡茜如 / 2017/04](https://taiwaneseamericanhistory.org/whosho1606/)

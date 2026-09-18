@@ -11749,7 +11749,12 @@ Notable quotes and mentions of **陳昭南** in Taiwan Justice articles:
 - [TAH #1185 encyclopedia: 1185.  Chao-Nan Chen 陳昭南 / 2016/07](https://taiwaneseamericanhistory.org/whoswho1185/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/chao-nan-chen/)
 
+## From the record
+
+- 2026-07-28 — taiwanjustice.net 文章存檔索引（29,103 篇）將陳昭南列為專欄作者之一（「陳昭南觀點」398 篇），為該報最高產量專欄群之一（[[articles/taiwanjustice-net/index||TJJ 文章存檔索引]]）。
+
 ## Related Pages
+
 - [[organizations/tah-foundation||TAH Foundation]]
 
 - [[sources/taiwanjustice-net||taiwanjustice.net source hub]]
