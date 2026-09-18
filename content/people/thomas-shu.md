@@ -36,6 +36,9 @@ Founding member and board member of the American Premium Tea Institute (now merg
 
 ## From the record
 
+- 2022-02-19 — 以台灣茶葉大使身分主講第21回世界台灣文化論壇「台灣茶e故事—奉一杯台灣」，談台灣茶產業歷史、烏龍茶分類、台灣茶新文化與食安生態科技；自述新竹關西出生的客家人，建中、台大經濟系，家開茶工廠，退伍後25歲赴美洛杉磯成立加州第一間茶加工廠，2007年起受台灣製茶公會、農委會委託協助推廣台灣烏龍茶（[[articles/taiwanjustice-net/2022/20221002084528_2022_02_12_第21回世界台灣文化論壇_台灣茶e故事-奉一杯台灣_4b3dbc0ec673dc45|TJJ 論壇邀請，2022-02-12]]）。
+- 2019-06-29 — 主講「知性·品味·喜悅·台灣烏龍」慶祝台灣烏龍茶銷美150週年講座（[[articles/taiwanjustice-net/2019/20190722185234_category_culture_97c86307e14a96f8|TJJ 文化類記錄]]）。
+
 - 2025-02-22 — As 優社會長 he soloed the Hakka/Hokkien bilingual 《台灣翠青》 at the 228追思紀念大會 at the Greater Los Angeles Taiwan Center and later led the whole assembly in the chorus, moving the audience ([[articles/taiwanjustice-net/2025/20250320212940_大洛杉磯台灣會館等24個台美社團舉舉行228追思紀念_c62f5c50846fe267|TJJ report, 2025-02-24]]).
 
 - 2023-08-06 — A TJJ report on the 28th 台美小姐選拔賽 (2023-08-05, San Gabriel Hilton) lists Shu, as 台灣茶葉大使, among the final-round judges alongside 僑務委員何巧玲, 前台美小姐總召余佳霓, 華裔舞蹈協會會長賴泱璇, 托倫斯市長陳光豪 and 聖馬利諾市議員黃文谷 ([[articles/taiwanjustice-net/2025/20250614233935_2023台美小姐選拔賽_盛大舉行-宋依珊_mimiq-soong_奪后_79b5f26fdef89d22|TJJ, 2023-08-06]]).

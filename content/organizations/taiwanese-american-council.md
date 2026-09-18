@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-17
+last_reviewed: 2026-09-18
 ---
 # Taiwanese American Council (紐約紐澤西台灣人社團聯合會)
 
@@ -28,6 +28,7 @@ From the community record (member memoirs):
 - **November 12, 1983** — a $10-per-head dinner at East Garden Restaurant, Manhattan (organized by Jong-Guan Lin, who covered the shortfall) established the **Taiwan Center Building Committee**: 42 founding members including Dr. Hong-Tien Lai, with a 21-member Executive Committee including Lung-Fong Chen; Rev. Wu-Dong Huang and World Federation of Taiwanese Associations president Dr. Tu Chen spoke. All at the Council's initiative as the umbrella body of NY/NJ Taiwanese groups ([[works/taiwaneseamericanhistory-org/ourjourneys9-eng|Our Journeys #9]]; [[works/taiwaneseamericanhistory-org/ourjourneys09|ourjourneys09, Chinese version]]).
 - The Council's successor umbrella, 大紐約區台灣人社團聯合會 (Taiwanese American Council of Greater New York), appears in the 2017 TAH directory record ([[works/taiwaneseamericanhistory-org/taiwanese-american-council-of-greater-new-york|directory entry]]).
 - The Council and its member associations (incl. NATMA, NATPA, NATWA, the hoteliers' association) later coordinated on the 1990 census campaign ([[works/taiwaneseamericanhistory-org/ourjourneys253|Our Journeys #253]]).
+- The Council appears as #38 (紐約紐澤西台灣人社團聯合會) in the SETAA 夏令會 member-group roster record ([[works/taiwaneseamericanhistory-org/ourjourneys356|Our Journeys #356]]; [[works/taiwaneseamericanhistory-org/ourjourneys356-eng|English ed.]]), and its own TAH directory story page is archived in-corpus ([[works/taiwaneseamericanhistory-org/taiwanese-american-council|TAH directory work]]).
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-american-council/)

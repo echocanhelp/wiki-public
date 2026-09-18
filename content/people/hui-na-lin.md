@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-17
+last_reviewed: 2026-09-18
 ---
 # Hui Na Lin (賴慧娜)
 
@@ -45,6 +45,8 @@ _No filled family fields on the TAH profile._
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/hui-na-lin/)
 
 ## From the record
+
+- 2021-12-21 — 台美人筆會會長交接：賴慧娜兩年任期屆滿交棒亞特蘭大王淑芬（北美洲台灣婦女會前總會長，筆名「辣媽」）；卸任報告指疫情隔離中全美會員賴群組創作不懈、筆會會員穩定成長、財務健全，兩年一刊《台美文藝》即將出版（[[articles/taiwanjustice-net/2022/20220517053449_2021_12_26_台美人筆會會長交接_賴慧娜交棒王淑芬_70a8a32d4cc3ca7a|TJJ, 2021-12-26]]）。
 
 - 2021-05-13 — 南加州僑界48個社團（含台美人歷史協會、台美律師協會）於洛杉磯華僑文教服務中心開發布會，連署聯合聲明支持台灣以制度化管理參與WHA/WHO，為聲明共同發起人之一（[[articles/taiwanjustice-net/2021/20210616072940_2021_05_17_2021年南加州僑界支持台灣參與世界衛生大會wha聯合聲_b1d58af16c0a5e5b|TJJ 2021-06-16 轉載]]；[[articles/taiwanjustice-net/2025/20251108183438_2021年南加州僑界支持台灣參與世界衛生大會wha聯合聲_80c0a825a7a661b6|2025-11-08 快照]]）。
 - 2016-12-17 — 大洛杉磯台灣會館董事長林榮松於會訊 #11 宣布：2017 年 228 七十週年系列活動由董事賴慧娜帶頭籌辦，傳統週則由年輕一代 Ken Wu 董事帶頭 —— [[articles/taiwanjustice-net/2024/20240721101942_root_04f32b14d8cf8f12|TJJ 轉載台灣會館會訊 #11（2016-12-17）]]。

@@ -44,6 +44,9 @@ Dr. Long-Rong (Mark) Kao 高龍榮 – History of Taiwanese American (T.A. Archi
 
 ## Role in the Community
 
+- **美東文成杯網球賽主辦人（近十年）** — 邱義昌的美東文成杯網球史回憶：千禧年後網球老將退休他遷、年輕二代流失、室內球場費用高漲，比賽重回美東夏令會，近十年均由陳文成基金會理事高龍榮博士負責，利用夏令會晨操時段舉行，使文成杯網球賽得以延續不斷（[[works/taiwaneseamericanhistory-org/ourjourneys329|Our Journeys #329]]）。
+- **台美生技協會會長（2021）** — 表示美國若與台灣簽署雙邊貿易協定可對其他國家起帶頭作用、避免中國阻撓，並有助台灣減少對中國的依賴（[[articles/taiwanjustice-net/2021/20210415100030_2021_02_27_美台商業協會促與台灣談判雙邊貿易協定_解決市_d3186a5c5ab189e1|TJJ 轉載中央社記者洛杉磯報導, 2021-02-27]]）。
+- **SETAA 夏令會專題講者（1998 第20屆）** — 南卡 Furman University 夏令會「咱的台灣、咱的夢」專題介紹〈陳文成事件的回顧與展望〉（[[works/taiwaneseamericanhistory-org/ourjourneys245|Our Journeys #245 SETAA 20年回顧]]）。
 - **NCSU 台灣學生會第一任社長** — the North Carolina movement memoir recalls Kao as the first president of the NCSU Taiwanese Student Group during his doctoral studies, in the same circle as 林國慶, 郭倍宏 and 李應元 ([[works/taiwaneseamericanhistory-org/our-journeys-381|Our Journeys — 北卡運動紀事]]).
 - **FAPA 總會長 (2015)** — FAPA's 27-year staff veteran 昆布勞 (Coen Blaauw) counts Kao among the nine FAPA presidents he served under, recalling how each "sacrificed weekends and vacations" lobbying Congress and touring chapters; Kao appears as that year's 總會長 in the 2015 FAPA youth-camp photo ([[works/taiwaneseamericanhistory-org/ourjourneys228|Our Journeys — FAPA 紀事]]). Consistent with his 2015 Taipei Times column written as FAPA president (see From the record).
 - **新澤西台美同鄉會前會長** — the New Jersey community memoir lists Kao, president "back then," as "now New Jersey's most dedicated contributor to Taiwan" ([[works/taiwaneseamericanhistory-org/ourjourneys310|Our Journeys — 新澤西篇]] · [[works/taiwaneseamericanhistory-org/ourjourneys310-eng|English ed.]]); his own TAH encyclopedia record is also archived in-corpus ([[works/taiwaneseamericanhistory-org/whos1168|TAH #1168 profile]]).
