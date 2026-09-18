@@ -44,6 +44,10 @@ last_reviewed: 2026-09-18
 
 ## From the record
 
+- 2024-03-02 — Repost of 楊遠薰's TAF history adds that Carol and her two sisters were among the first 天韻 singers trained by missionary 彭蒙惠, that she married 卓甫良 in Chicago three weeks after arriving in late 1960, and quotes her on the volunteer mothers who staffed the TAF youth camps ([[articles/taiwanjustice-net/2024/20240302042859_root_b4206bcf0ec508d6|楊遠薰《卓甫良與TAF的故事》, TJJ 2024-03-02 repost]]).
+
+- 2025-03-23 — 楊遠薰's TAF history reprinted on TJJ (same text as the 2021-06-22 article below) re-confirms her lineage (grandfather 林燕臣, uncle 林茂生, father 林安生), her training among 彭蒙惠's first 天韻 singers, and her own account of the camp years as one of the long-term volunteer mothers who staffed TAF ([[articles/taiwanjustice-net/2025/20250323083207_卓甫良與taf的故事-_-楊遠薰_e7aad53f3e593fde|TJJ reprint 2025-03-23]]).
+
 - 2021-06-22 — 楊遠薰's TAF history records Carol (林秋菊) as a daughter of Hualien physician 林安生 (grandfather 林燕臣, uncle 林茂生), trained among 彭蒙惠's first 天韻 singers, married 卓甫良 in Chicago in late 1960, worked as church music director (Hyde Park, then a North Shore Chinese church from 1967), and served as one of the long-term TAF volunteer mothers who staffed the youth camps ([[articles/taiwanjustice-net/2021/20211205041636_2021_06_22_卓甫良與taf的故事-_-楊遠薰_f06677a469620539|楊遠薰 TAF history, TJJ 2021-06-22]]).
 
 ## Role in the Community

@@ -45,6 +45,10 @@ HOLD: conflict — spouse page linked as 江美惠 vs corpus work page listing �
 
 ## From the record
 
+- 2024-03-02 — Repost of 楊遠薰's TAF history on TJJ reiterates 盧志華 as TAF's sixth president (from 1991) who, after the 1989 Brad Smith evaluation that the camp's future hinged on second-generation succession, first staffed the camp work with second-generation leaders such as [[people/bob-lin|林志文 Bob Lin]] ([[articles/taiwanjustice-net/2024/20240302042859_root_b4206bcf0ec508d6|楊遠薰《卓甫良與TAF的故事》, TJJ 2024-03-02 repost]]).
+
+- 2025-03-23 — 楊遠薰's TAF history reprinted on TJJ re-confirms 盧志華 as TAF's sixth president (from 1991), the first to put second-generation leaders like [[people/bob-lin|Bob Lin]] on camp staff after the 1989 Brad Smith evaluation ([[articles/taiwanjustice-net/2025/20250323083207_卓甫良與taf的故事-_-楊遠薰_e7aad53f3e593fde|TJJ reprint 2025-03-23]]).
+
 - 2021-06-22 — 楊遠薰's TAF history names 盧志華 as TAF's sixth president (from 1991); following the 1989 Brad Smith evaluation that the key to TAF was second-generation succession, he was the president who first brought second-generation leaders such as [[people/bob-lin|林志文 Bob Lin]] onto the camp staff ([[articles/taiwanjustice-net/2021/20211205041636_2021_06_22_卓甫良與taf的故事-_-楊遠薰_f06677a469620539|楊遠薰 TAF history, TJJ 2021-06-22]]).
 
 ## Role in the Community
