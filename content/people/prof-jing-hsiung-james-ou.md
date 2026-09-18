@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-17
+last_reviewed: 2026-09-18
 ---
 # Prof. Jing-Hsiung James Ou (歐競雄教授)
 
@@ -56,3 +56,4 @@ _No filled family fields on the TAH profile._
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - Slice deepen-x-slice-09170130-15 覆核（2026-09-17）：再檢 works+articles 結果相同，僅書目記錄 [[works/taiwaneseamericanhistory-org/whos-who-2018-jing-hsiung-ou|TAH #2018]] 一筆及索引行，無回憶錄／社團提及。SKIP。
 - Slice deepen-x-slice-09170500-12 覆核（2026-09-17）：再檢結果相同（#2018 + index only）— SKIP：無可吸收之社群事證。
+- Slice deepen-x-slice-09180131-14 覆核（2026-09-18）：再檢結果相同（僅 #2018 書目記錄 + index），無回憶錄／社團提及。SKIP-with-reason。
