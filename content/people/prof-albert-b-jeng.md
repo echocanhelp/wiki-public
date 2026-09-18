@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-17
+last_reviewed: 2026-09-18
 ---
 # Prof. Albert B. Jeng (鄭博仁教授)
 
@@ -35,7 +35,7 @@ Prof. Albert B. Jeng 鄭博仁教授 – History of Taiwanese American (T.A. Arc
 - Co-editor (主編), with 陳瑞超 and 陳宏炫, of 《灣區台灣基督教會設教十五週年紀念特刊》 (1990). This festschrift is preserved in our corpus as a founding source for Bay Area Formosan church history — see [[works/taiwaneseamericanhistory-org/our-journeys-350|Our Journeys 350: 灣區台灣教會的設立與擴展]].
 - Invited lecturer, 「智能社會與你」 at the 長青教室 of ITPC Irvine 台灣基督長老教會 (posted 2018-09-29, 攝錄 Peter Yang) — recorded in [[articles/taiwanjustice-net/2024/20240523001759_root_23e163f71d3f2ba5|台加風 TJJ 檔案]].
 - Own TAH encyclopedia record: [[works/taiwaneseamericanhistory-org/whos-who-2156-albert-b-jeng|TAH #2156 — Prof. Albert B. Jeng 鄭博仁教授]].
-- Corpus check 2026-09-17: re-grep of content/works + content/articles hits only the pages linked above plus works/index — no new unabsorbed corpus facts.
+- Corpus check 2026-09-18: re-grep of content/works + content/articles hits only the pages linked above plus works/index — no new unabsorbed corpus facts.
 
 ## Family
 

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-17
+last_reviewed: 2026-09-18
 ---
 # Jen Shyu (徐雁秋)
 
@@ -39,6 +39,7 @@ Experimental vocalist, composer,multi-instrumentalist, dancer, andproducer, 2014
 - Profiled in the 依妙黃 (黃怡妙) series: [[works/taiwaneseamericanhistory-org/72-yi-miao-huang-e9-bb-83-e6-80-a1-e5-a6-99-2||72. Jen Shyu 徐秋雁]] (2014-10-28), and as vocalist/composer: [[works/taiwaneseamericanhistory-org/83-jen-shyu-e5-be-90-e9-9b-81-e7-a7-8b-vocalist-and-composer||83. Jen Shyu 徐秋雁, Vocalist and Composer]] (2014-11-26).
 - Performance video record: [[works/taiwaneseamericanhistory-org/videos-jen-shyus-nine-doors||87. Jen Shyu's NINE DOORS]] (2017-12-06).
 - Corpus records are bibliographic (band B); they corroborate the multi-instrumentalist/vocalist profile and add no conflicting dates.
+- SKIP (deepen-x 09180200-2): corpus re-grep returned only the six records already absorbed above — no new absorbable facts.
 
 ## Family
 

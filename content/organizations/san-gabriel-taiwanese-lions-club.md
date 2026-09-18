@@ -27,6 +27,8 @@ last_reviewed: 2026-09-18
 
 ## Role in the Community
 
+Founded 1993-10-21 as the first international service club organized under a Taiwanese name (第一个以台湾人名义加入国际性的服务社团), per the TAH community record ([[works/taiwaneseamericanhistory-org/265-e7-be-8e-e5-9c-8b-e5-8f-b0-e7-81-a3-e4-ba-ba-e7-8d-85-e5-ad-90-e6-9c-83-san-gabriel-taiwanese-lions-club-e7-ac-ac-e5-80-8b-e4-bba5-e5-8f-b0-e7-81-a3-e4-ba-ba-e5-90-8d-e7-be-a9|265. 美國台灣人獅子會 / 1993-10-21]]).
+
 The club has published its own 年刊 (annual) through TAH's archive, evidencing an organized, long-running club life in the LA Taiwanese American community:
 
 - [[works/taiwaneseamericanhistory-org/872-e7-be-8e-e5-9c-8b-e5-8f-b0-e7-81-a3-e4-ba-ba-e7-8d-85-e5-ad-90-e6-9c-831997-|美國台灣人獅子會1997年刊]]
