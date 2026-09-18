@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-17
 ---
 # Pauline Choiu (邱曼怡)
 
@@ -31,6 +31,11 @@ CNN國際新聞網路駐香港亞太區總部的獲獎主播及記者 (Award-win
 - CBS — 主播
 - CNN Internation — 2009-present — anchor
 <!-- tah-tables:end -->
+
+## Role in the Community
+- Held in the Taiwanese American historical record as a TAH Foundation Who's Who entry (TAH #1599, 2017/04): a Taiwan-origin journalist who reached anchor/reporter roles at NBC, CBS, and CNN International's Asia-Pacific headquarters in Hong Kong.
+- Community archival record: [[works/taiwaneseamericanhistory-org/whoswho1599|1599. Pauline Choiu 邱曼怡 / 2017/04]] (published 2017-04-09), cross-referencing [[organizations/tah-foundation|TAH Foundation]].
+- Corpus record matches the Yale / Northwestern education and NBC/CBS/CNN employment lines above; no conflicts. Era field remains '-' in the TAH profile.
 
 ## Family
 

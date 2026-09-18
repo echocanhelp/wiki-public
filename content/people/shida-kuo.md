@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-17
 ---
 # Shida Kuo (郭旭達)
 
@@ -30,6 +30,11 @@ Accomplishment
 ## Employment
 - New York University — Adjunct Professor, Department of Arts and Art Professions — (1993-) — New York — Artist
 <!-- tah-tables:end -->
+
+## Role in the Community
+- Held in the Taiwanese American historical record as a TAH Foundation Who's Who entry (TAH #1817), documented in the movement's own archive rather than press material.
+- Community archival record: [[works/taiwaneseamericanhistory-org/whos-who-1817-shida-kuo|1817. Shida Kuo 郭旭達]] (published 2017-08-06), cross-referencing [[organizations/tah-foundation|TAH Foundation]].
+- Corpus record corroborates the NTNU 1982 / NYU 1992 ceramics-training path and the NYU adjunct appointment above; no corpus facts contradict the existing text.
 
 ## Family
 
