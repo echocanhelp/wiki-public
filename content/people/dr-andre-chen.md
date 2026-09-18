@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-18
 ---
 # Dr. Andre Chen (陳安哲醫師)
 
@@ -29,6 +29,11 @@ last_reviewed: 2026-08-17
 ## Employment
 - Austin Diagnostic Clinic — Physician — (1995-)
 <!-- tah-tables:end -->
+
+## Role in the Community
+- 2016-03-06 — profiled in the TAH encyclopedia corpus: [[works/taiwaneseamericanhistory-org/whos-who-869-andre-chen|869. Dr. Andre Chen 陳安哲醫師]].
+- 2019-01-05 — second, later encyclopedia entry: [[works/taiwaneseamericanhistory-org/215-2|215. Dr. Andre Chen 陳安哲醫師]] (bibliographic records; full text in vault).
+- HOLD: the corpus holds two encyclopedia entries (#869, #215) for the same person; entries differ in date, content not comparable from bibliographic records alone. Not merged.
 
 ## Family
 

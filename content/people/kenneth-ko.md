@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-18
 ---
 # Kenneth Ko (柯吉文)
 
@@ -32,9 +32,12 @@ last_reviewed: 2026-08-17
 ## Family
 
 - **Wife:** Irene (王瑞玲)
-- **Daughter:** Melody (柯頌恩)
+- **Daughter:** Melody (柯頌恩) — also in the TAH record: [[people/melody-ko|Melody Ko 柯頌恩]], entry [[works/taiwaneseamericanhistory-org/whos-who-1831-melody-ko|1831. Melody Ko 柯頌恩]] (2017-08-09)
 - **Son:** Wesley (柯惟恩)
 
+## Role in the Community
+- Corpus record: his TAH encyclopedia entry is held as [[works/taiwaneseamericanhistory-org/whos-who-1830-kenneth-ko|1830. Kenneth Ko 柯吉文]] (published 2017-08-09). No memoir or movement-activity material found elsewhere in the corpus.
+- A second TAH Who's Who page for his daughter [[works/taiwaneseamericanhistory-org/whos-who-1831-melody-ko|1831. Melody Ko 柯頌恩]] was published the same day, documenting the family's continuing presence in the community record.
 
 ## Sources
 - [TAH #1830 encyclopedia: 1830. Kenneth Ko 柯吉文](https://taiwaneseamericanhistory.org/whos-who-1830-kenneth-ko/)

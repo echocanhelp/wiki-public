@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-18
 ---
 # Ariel Wei
 
@@ -33,6 +33,10 @@ Ariel Wei, a native of Taichung, Taiwan, began studying the piano and zheng at a
 ## Family
 
 _No filled family fields on the TAH profile._
+
+## Role in the Community
+- Corpus record: her TAH Who's Who entry is held as [[works/taiwaneseamericanhistory-org/whoswho1170|1170. Ariel Wei / 2016/07]] (published 2016-07-23). No memoir or community-activity material found elsewhere in the corpus.
+- HOLD: conflict in degree designations — narrative bio says B.F.A. (NTNU) and M.A. (Eastern Washington University); the TAH harvest tables record B.S. and M.S. Not merged.
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/ariel-wei/)

@@ -39,6 +39,8 @@ _No filled family fields on the TAH profile._
 ## From the record
 
 - 2020-05-15 — CNA (via TJJ) reports that Lin, a 40-year-old Taiwanese-American missionary pilot and qualified flight instructor for MAF (MIT CS BS/MS, Gordon-Conwell seminary; ex-USAF officer and IT technical director; US Air Force service noted in a NATPA letter), died on 2020-05-12 when her Kodiak 100 crashed into Lake Sentani minutes after takeoff while delivering COVID-19 rapid-test kits and school supplies to a remote Papuan village — MAF's first fatal accident in 23 years ([[articles/taiwanjustice-net/2025/20250614200802_為印尼偏鄉運送防疫物資_航空宣教使團_台裔_039ccce4163c57a9|TJJ, 2020-05-15]]).
+- 2020-05-18 — the community memorialized her in the TAH record: [[works/taiwaneseamericanhistory-org/videos-162|162. Remembering Joyce Lin / 05-2020]]; her Who's Who encyclopedia entry is [[works/taiwaneseamericanhistory-org/whos-who-2270-joyce-lin|2270. Joyce Lin 林才欣]].
+- Corpus scan note (2026-09-18): HOLD — the "Joyce Lin" in the St. Louis church memoir [[works/taiwaneseamericanhistory-org/ourjourneys305|Our Journeys 305]] is "Dr. & Mrs. Yi-Ming & Loon-Mei Joyce Chen Lin", a founding family of Formosan Christian Fellowship of St. Louis (1972) and newsletter writer 1978–84; a different person with the same English name (this page's subject was MIT-educated and based in Columbus/Ohio). Not absorbed.
 
 ## Sources
 - [TAH #2270 encyclopedia: 2270. Joyce Lin 林才欣](https://taiwaneseamericanhistory.org/whos-who-2270-joyce-lin/)

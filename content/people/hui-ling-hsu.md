@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-18
 ---
 # Hui-Ling Hsu
 
@@ -29,6 +29,10 @@ Hui-Ling Hsu is a Taiwanese violist. Ms. Hsu earned her B.A. from Soochow Univer
 ## Employment
 - San Diego State University Symphony Orchestra — Principal Violist
 <!-- tah-tables:end -->
+
+## Role in the Community
+- 2015-08-29 — TAH story corpus carries two records of her: [[works/taiwaneseamericanhistory-org/280-hui-ling-hsu-violinist-201508|280. Hui-Ling Hsu, Violinist]] and [[works/taiwaneseamericanhistory-org/553-hui-ling-hsu-201508|553. Hui-Ling Hsu]] (bibliographic records; full text in vault).
+- HOLD: conflict — TAH #280 byline calls her "Violinist"; the TAH Who's Who bio above describes her as a violist / principal violist. Not merged.
 
 ## Family
 
