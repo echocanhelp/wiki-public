@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-18
 ---
 # Paul Hsu (徐紹欽)
 
@@ -29,6 +29,9 @@ last_reviewed: 2026-08-17
 - 「製造科技公司」（MTI） — present — President
 - Harris Corporatio — 工程師
 <!-- tah-tables:end -->
+
+## Role in the Community
+- Listed in the TAH Foundation Who's Who encyclopedia; the corpus holds his profile as bibliographic record [[works/taiwaneseamericanhistory-org/whoswho1320|1320. Paul Hsu 徐紹欽 / 2016/10]] (published 2016-10-17). No memoir or community-activity material found in works/articles beyond this profile record.
 
 ## Family
 
