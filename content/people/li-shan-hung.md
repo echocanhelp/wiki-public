@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-17
+last_reviewed: 2026-09-18
 ---
 # Li-Shan Hung (洪儷珊)
 
@@ -32,7 +32,7 @@ last_reviewed: 2026-09-17
 <!-- tah-tables:end -->
 
 ## Role in the Community
-- Corpus coverage consists of two TAH Foundation Who's Who records from February 2016 — [[works/taiwaneseamericanhistory-org/328-li-shan-hung-e6-b4-aa-e5-84-b7-e7-8f-8apianist-201602|TAH #328 (pianist profile)]] and [[works/taiwaneseamericanhistory-org/819-li-shan-hung-e6-b4-aa-e5-84-b7-e7-8f-8a-201602|TAH #819]] — both held as bibliographic records in the vault; no memoir/community text beyond the press-kit profile was found, so nothing further was absorbed (SKIP-deepen: no community-record facts in corpus hits).
+- Corpus coverage consists of two TAH Foundation Who's Who records from February 2016 — [[works/taiwaneseamericanhistory-org/328-li-shan-hung-e6-b4-aa-e5-84-b7-e7-8f-8apianist-201602|TAH #328 (pianist profile)]] and [[works/taiwaneseamericanhistory-org/819-li-shan-hung-e6-b4-aa-e5-84-b7-e7-8f-8a-201602|TAH #819]] — both held as bibliographic records in the vault; re-check 2026-09-18 confirms her name appears nowhere in works/articles outside those two own-name records (and works/index.md), so no memoir/community text exists beyond the press-kit profile — nothing further was absorbed (SKIP-deepen: no community-record facts in corpus hits).
 
 ## Family
 

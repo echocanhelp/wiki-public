@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-17
+last_reviewed: 2026-09-18
 ---
 # A. N. Liu (劉安諾)
 
@@ -38,7 +38,7 @@ Accomplishment
 
 ## Role in the Community
 - 2017-08-22 — recorded in the TAH Foundation Who's Who encyclopedia as entry #1865: [[works/taiwaneseamericanhistory-org/whos-who-1865-a-n-liu|TAH #1865 劉安諾 / 2017-08]].
-- Corpus check 2026-09-17: the vault holds no memoir/article mentions beyond her own TAH record; her journalism-teaching career (NTU Law → Missouri Journalism; Iowa State, Tennessee State) and awards (大華晚報散文獎, 梁實秋文學翻譯獎, 愛州新聞婦女寫作協會特寫首獎) rest solely on the TAH profile. Spouse of [[people/s-b-liu|劉西北]].
+- Corpus checks 2026-09-17 and 2026-09-18: the vault holds no memoir/article mentions beyond her own TAH record ([[works/taiwaneseamericanhistory-org/whos-who-1865-a-n-liu|index entry only]]); her journalism-teaching career (NTU Law → Missouri Journalism; Iowa State, Tennessee State) and awards (大華晚報散文獎, 梁實秋文學翻譯獎, 愛州新聞婦女寫作協會特寫首獎) rest solely on the TAH profile — nothing absorbable from community memoirs (SKIP-deepen: no corpus facts beyond the TAH record). Spouse of [[people/s-b-liu|劉西北]].
 
 ## Sources
 - [TAH #1865 encyclopedia: 1865. A. N. Liu 劉安諾](https://taiwaneseamericanhistory.org/whos-who-1865-a-n-liu/)
