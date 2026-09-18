@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-17
+last_reviewed: 2026-09-18
 ---
 # Neo Art League (加州新藝畫會)
 
@@ -23,6 +23,7 @@ Neo Art League is a professional artists association founded in 2006 by Taiwanes
 - Documented in the TAH story corpus as its own directory record ([[works/taiwaneseamericanhistory-org/neo-art-league|Neo Art League 加州新藝畫會]], 2018-05-07) and in coverage of its shows: [[works/taiwaneseamericanhistory-org/art-show-by-neo-art-league-2009|Art Show by Neo Art League, Whittier, CA, 02/2009]] and [[works/taiwaneseamericanhistory-org/38-art-show-of-neo-art-league|38. Art Show of Neo Art League at La Artcore Brewery Annex, Los Angeles, May 2019]].
 - From the memoir [[works/taiwaneseamericanhistory-org/our-journeys-371|Our Journeys #371]]: through the California ties of painter 楊平猷, the association was invited by the Taiwanese Traditional Week Committee to hold a joint commemorative art show for the 2020 Taiwanese American Heritage Week; the pandemic closed the 華僑文教中心 and 台灣會館 and the plan was suspended. In 2021 the relationship reversed — the memoirist's association invited Neo Art League (and the related 台美畫會 circle) into the 後藝情國際交流展 at the Harbor City Cultural Center, alongside La Artcore, the West Coast Drawing Association, and artists from Australia and Japan.
 - 李淑櫻 (NTNU grad, in the U.S. since 1976) served as 會長 of 新藝畫會, in addition to NATWA Southern California chapter president, NATWA Southwest Region director, and TUF director ([[articles/taiwanjustice-net/2025/20250420103335_第118回世界台灣文化論壇_話畫時間_c004d6b7000bd1cc|台灣正義新聞網, 話畫時間 feature]]).
+- 2017-04 — members 李淑櫻、洪逸凡、劉白、蔡蕙香、陳文石 were invited into the TUF-hosted 「台灣之美‧亞洲之心」 international touring show in Los Angeles, curated by 新藝畫會理事 蘇奐豪 (MFA Utah, museum curator in Utah since 1997), alongside Taiwan-based painters including 楊靜芬 and 林耀煌 ([[articles/taiwanjustice-net/2024/20240724234326_root_cd2062fe6528223c|台灣之美‧亞洲之心國際巡迴展, TJJ archive]]).
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/neo-art-league/)

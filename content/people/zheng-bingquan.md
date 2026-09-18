@@ -8,7 +8,7 @@ tags:
   - taiwanjustice
   - publication-contributor
 verification_status: pending
-last_reviewed: 2026-08-30
+last_reviewed: 2026-09-18
 ---
 
 # Zheng Bing-quan / 鄭炳全
@@ -10824,3 +10824,7 @@ Notable quotes and mentions of **鄭炳全** in Taiwan Justice articles:
 ## Related Pages
 
 - [[people/albert-s-lai||Dr. Albert S. Lai]]
+
+## From the record
+
+- 2017-06-11 — Listed by TJJ on the editorial committee of 《2017臺美文藝》 published by 台美人筆會 (67 works by 40+ authors, alongside 李彥禎、陳東榮、李芬芬、秦雪華、林文政); new-book launch 2017-06-17 at 大洛杉磯台灣會館, Rosemead ([[articles/taiwanjustice-net/2022/20221127052725_2017_06_11_2017台美文藝出版-台美人筆會六月十七日舉辦發表會_c76f11ecd2598ecb|TJJ, 2017-06-11]]).

@@ -43,6 +43,7 @@ last_reviewed: 2026-09-18
 
 - 2016 — serving as FAPA 總會長: photographed 2016-05-21 with FAPA executive staff Coen Blaauw, TAAA Dallas chapter's 謝慶鏘 and 黃泰國 at a FAPA fundraising dinner in Taipei ([[works/taiwaneseamericanhistory-org/ourjourneys228|228. 昆布勞與FAPA的故事, 楊遠薰, 2016-05]]); Blaauw's memoir lists him as the ninth of the nine FAPA 會長 he served under in 27 years at FAPA.
 - 2016-08 — authored 「Taiwanese-Americans want to be counted」 on the 2020 census Taiwanese-American checkbox campaign ([[works/taiwaneseamericanhistory-org/ourjourneys235|Our Journeys 235, 2016-08]]).
+- 2017-04 — as FAPA 會長, issued the association's public response to Secretary of State nominee Rex Tillerson's Taiwan remarks, welcoming that 台灣關係法與六項保證 were supplanting 三個公報與一中政策 and thanking Reps. Chabot and Royce and Sen. Rubio for the reaffirming bills ([[articles/taiwanjustice-net/2024/20240425071831_root_7d84196639007124|FAPA press release re Tillerson, TJJ 2017-04 archive]]).
 - Signatory listed in the Taiwanese American statement archived with the Pew Research Taiwanese-American survey record ([[works/taiwaneseamerican-org/pew-research-center-taiwanese-american-statement|Pew Research Taiwanese American statement]]).
 - Note: distinct from [[people/pin-shan-peter-chen|Pin-Shan Peter Chen]]; HOLD: possible cross-listing of 「Peter Chen」 signatories in the Pew statement record vs this profile — not merged.
 

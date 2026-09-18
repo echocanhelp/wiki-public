@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-17
+last_reviewed: 2026-09-18
 ---
 # Fri. Philo (哲學星期五)
 
@@ -20,6 +20,7 @@ Café Philo (哲學星期五, literally ‘Philosophy Friday’) is a civic foru
 
 ## Role in the Community
 - The U.S. Cafe Philo chapters grew directly out of the networks built organising Sunflower Movement (2014) solidarity rallies among overseas Taiwanese graduate students; the corpus record additionally names **Seattle** among the U.S. locations alongside New York and Boston (no date conflict — directory and memoir simply list different chapter sets). ([[works/taiwaneseamericanhistory-org/fri-philo|Fri. Philo 哲學星期五]])
+- The New York chapter was the movement's busiest U.S. node: per the New Bloom memoir it held events **weekly near Times Square**, using offices software engineer 蕭新晟 (Hsiao Hsin-cheng) used for his company, and the memoir names the U.S. Cafe Philo — alongside the Chicago Round Table and London's Formosa Salon — as a direct product of post-Sunflower overseas student organising ([[works/taiwaneseamericanhistory-org/our-journeys-373|373. The Overseas Taiwanese Student Movement And Its Impact on Post-Sunflower Movement Politics, 06/2021]]).
 - New York chapter organiser **劉彥廷** (Café Philo NYC) co-presented a session on influencing U.S. media coverage of Taiwan with FAPA's new generation (杜荷州) at the 海台青 (Overseas Taiwanese Youth) conference in 2017, which trained community organisers via g0v-style workshops. ([[articles/taiwanjustice-net/2021/20211207123518_2017_07_24_海台青與黑客松-_-楊遠薰-2017-07-24_2c9cb76838702dd7|海台青與黑客松／楊遠薰 2017-07-24]])
 - **Boston Café Philo (波士頓哲學星期五)** was a co-organiser (協辦) of the 2021 online 二二八 commemoration series run by 全美台灣同鄉會 (TAA) with 國家人權博物館 and others — two weeks of exhibitions, films and forums drawing 1,000+ in-person/online participants across four U.S. time zones. ([[articles/taiwanjustice-net/2025/20250430013325_全美台灣同鄉會2021-年二二八紀念系列活動圓滿落幕_f6213c1937fa956d|全美台灣同鄉會2021年二二八紀念系列活動]])
 
