@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-18
 ---
 # Prof. Shumei S. Sun
 
@@ -36,6 +36,10 @@ Professor and Chair, Dept. of Biostatistics
 ## Family
 
 _No filled family fields on the TAH profile._
+
+## Role in the Community
+
+- Community record held in the corpus as [[works/taiwaneseamericanhistory-org/whos-who-2003-shumei-s-sun|TAH encyclopedia record #2003 (2018-01-31)]] — bibliographic record only; no memoir or community-activity text in the vault names her beyond the press-kit profile.
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-shumei-s-sun/)
