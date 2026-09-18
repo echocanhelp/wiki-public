@@ -6,7 +6,7 @@ tags:
   - Taiwanese-American
   - Taiwan-Center-group-member
 verification_status: published
-last_reviewed: 2026-07-16
+last_reviewed: 2026-09-18
 ---
 # Global Alliance for Democracy and Peace (GADP)
 
@@ -24,6 +24,9 @@ last_reviewed: 2026-07-16
 - **Content priority A:** Name on Taiwan Center group-members page  
 - **Hub:** [[sources/taiwancenter-org||taiwancenter.org]]  
 - **Content priority C:** Independent history not expanded from listing alone  
+
+## Role in the Community
+- Co-hosted the Friendship Concert 連誼音樂會 with NATMA in Glenside (Philadelphia), PA on 2008-05-03 — bibliographic record held in the corpus: [[works/taiwaneseamericanhistory-org/concerts127|TAH Concerts #127]]. Shows GADP active in the mid-2000s Pennsylvania Taiwanese community, aligned with the democracy-and-peace coalition circles that also back Taiwan Center.
 
 ## Related Pages
 
