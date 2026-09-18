@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-18
 ---
 # Shin Tson Wu (吳詩聰博士)
 
@@ -36,6 +36,9 @@ last_reviewed: 2026-08-17
 - **Daughter:** 吳睿真
 - **Son:** 吳秉真
 
+
+## Role in the Community
+- Profiled in the TAHS community encyclopedia: his entry [[works/taiwaneseamericanhistory-org/220-shin-tson-wu-e5-90-b3-e8-a9-a9-e8-81-b0201501|220. Shin Tson Wu 吳詩聰 / 2015-01]] was published 2015-01-19 and is held in the corpus as community historical record (laser physicist by training, research at Hughes Research Laboratories, long-serving professor at University of Central Florida).
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/shin-tson-wu/)
