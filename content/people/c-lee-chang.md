@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-18
 ---
 # C. Lee Chang (李長堅博士)
 
@@ -36,6 +36,10 @@ last_reviewed: 2026-08-17
 
 - **Wife:** 陳秀美
 
+
+## Role in the Community
+- Held in the TAH story corpus as a community record: [[works/taiwaneseamericanhistory-org/584-c-lee-chang-e6-9d-8e-e9-95-b7-e5-a0-85-201509|584. C. Lee Chang 李長堅 (2015-09-07)]] — bibliographic record; full text in the vault.
+- The corpus record names him 李長堅 (without the honorific 博士 used on the directory snapshot); same person, title difference only.
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/c-lee-chang/)
