@@ -50,6 +50,10 @@ His material culture of the diaspora is itself a historical source: TAH encyclop
 - Career trail absorbed from the TAH Who's Who tables above: Kaohsiung Medical University M.D. 1968 → surgical training Taipei Veterans General Hospital (1969), Lloyd Noland Hospital Alabama (1972), University of Rochester (1973) → Temple University 1974-1978 → Presbyterian Anesthesia Associates and chair of anesthesia, Presbyterian Matthews Hospital, Charlotte 1978-2008.
 - He appears in the in-vault lecture/contributor roster of [[organizations/irvine-taiwanese-presbyterian-church||Irvine Taiwanese Presbyterian Church]] (Dr. 陳東榮, including a talk titled 瀕死經驗); treat as a name match pending confirmation of identity.
 
+## From the record
+
+- 2018-03-14 — 於長青教室演講「摘下口罩，談麻醉醫師的角色」，心得報告（含影片）刊於台灣公義報「台美人台加人」分類（2018-03-21 刊登）（[[articles/taiwanjustice-net/2024/20240719125457_root_c691e327b9133c1a|TJJ tag 心得報告, 2024-07-19 存檔]]）。
+
 ## Sources
 - [TAH #255 encyclopedia: 255. Dr. Tong Y. Chen 陳東榮醫師](https://taiwaneseamericanhistory.org/ota-255/)
 - [TAH #303 encyclopedia: 303. Dr. Tong Y. Chen 陳東榮醫師](https://taiwaneseamericanhistory.org/whos-who-303-tong-y-chen/)

@@ -58,3 +58,4 @@ Re-grep 楊閔貴|Min-Kuei Yang returned only the two already-cited catalog reco
 - Re-grep 2026-09-16 (deepen-x slice 09162138-12): hit set unchanged (#24, #1091 + index), both already wikilinked. SKIP — saturated.
 - Re-grep 2026-09-16 (slice 09162200-10): hit set unchanged (#24, #1091 + index), both already wikilinked. SKIP — saturated.
 - Re-grep 2026-09-17 (slice 09170130-8): hit set unchanged — own #24/#1091 records + works index only, already wikilinked. SKIP-no-new-material; page saturated.
+- Re-grep 2026-09-17 (deepen-x slice 09170500-6): hit set unchanged (#24, #1091 + works index), both already wikilinked. SKIP-no-new-material; page saturated.

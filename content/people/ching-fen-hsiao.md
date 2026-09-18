@@ -47,6 +47,8 @@ last_reviewed: 2026-09-17
 
 - 2020-07-26 — His essay 「我的女兒美琴」 (excerpted from 蕭美琴's 2004 book 《一個人也可以》) ran on taiwanjustice.net: Hsiao recounts being introduced in Taiwan and among TA communities as 「蕭立委的爸爸」, describes his own origin from an 無名氏 lineage ('有唐山公，無唐山嬷' class), his overseas study (出國進修) in the UK with the family, and his service as a 機關主管 ([[articles/taiwanjustice-net/2025/20250324133829_我的女兒美琴-_-蕭清芬_9d523cc5290c997b|TJJ, 2020-07-26]]).
 
+- 2021-11-27 — 在台灣公義報頭條證實於美過世，享壽86歲（「蕭美琴父親蕭清芬牧師在美過世」標籤彙整頁 2022-05-21 存檔）（[[articles/taiwanjustice-net/2022/20220521151716_tag_蕭美琴父親蕭清芬牧師在美過世_8216e7ca508266e9|TJJ tag, 2021-11-27]]）。
+
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

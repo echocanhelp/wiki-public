@@ -92,6 +92,10 @@ See the source hub. Top mentions:
 - **Hub:** [[sources/taiwanjustice-net||taiwanjustice.net source hub]]
 - **Archive:** [Column articles](https://github.com/echocanhelp/wiki-public/tree/gh-pages/knowledge/web-archives/taiwanjustice-net/tier2/)
 
+## From the record
+
+- 2016-10-13 — VOA 報導（TJJ 轉載）：易思安（美國 2049 項目研究所研究員）在 GTI 華盛頓美台海洋合作研討會主張台灣應恢復在太平島（伊圖阿巴島）派駐海軍陸戰隊以發出戰略信號，認為海巡署駐守缺乏威懾作用（[[articles/taiwanjustice-net/2024/20240520030041_root_7226a5c64ba2f713|TJJ/VOA, 2016-10-13]]）。
+
 ## Related Pages
 
 - [[sources/taiwanjustice-net||taiwanjustice.net source hub]]

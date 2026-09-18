@@ -46,3 +46,4 @@ _No filled family fields on the TAH profile._
 ## From the record
 
 - 2024-07-06 — Father 游銘泉 recalls in a TJJ/CNA interview that his first-ever interview was prompted by Kelvin winning the Emmy for best animation; both brothers chose creative careers against immigrant-parent expectations ([[articles/taiwanjustice-net/2024/20240715085116_root_9c6973783db0011a|TJJ/CNA, 2024-07-06]]).
+- 2020-11-19 — TJJ 報導其兄游朝凱（Charles Yu）獲美國國家圖書獎最佳小說獎，文中記錄游朝敏為演員兼電視劇作家、所製作的《開心漢堡店》獲美國電視艾美獎最佳動畫節目獎項（[[articles/taiwanjustice-net/2020/20201205142348_2020_11_19_台美人之光-游朝凱_charles-yu_榮獲美國最高榮譽的國_040657477c37c6cf|TJJ, 2020-11-19]]）。

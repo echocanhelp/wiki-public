@@ -58,3 +58,4 @@ last_reviewed: 2026-09-17
 
 - 2024-07-06 — Video interview with 中央社記者黃淑芳 alongside son Charles Yu: emigrated to the US around 1965, engineer; laments the language gap across three generations (grandfather Qing-era, father Japanese-era education, his own Mandarin schooling) and says not taking his sons back to Taiwan often enough was his regret; has spent 10+ years returning to Taiwan to coach SME upgrading ([[articles/taiwanjustice-net/2024/20240715085116_root_9c6973783db0011a|TJJ/CNA, 2024-07-06]]).
 - 2021-02-11 — 與其妻游玲娟獲兒子游朝凱以兩人命名設立創意寫作獎，表彰兩人創設 TACL LID 青年營、共同創辦南灣台美學校、成立 NATEA-SC 等服務台裔社區的貢獻（[[articles/taiwanjustice-net/2026/20260211084131_全國圖書獎得主游朝凱charles-yu為台美人青年創意作家_5b6cede86851b2ba|TJJ, 2021-02-14]]）。
+- 2020-11-19 — TJJ 報導其子游朝凱（Charles Yu）以《唐人街內部》獲美國國家圖書獎最佳小說獎，文中記游銘泉與妻林玲娟均來自台灣（[[articles/taiwanjustice-net/2020/20201205142348_2020_11_19_台美人之光-游朝凱_charles-yu_榮獲美國最高榮譽的國_040657477c37c6cf|TJJ, 2020-11-19]]）。

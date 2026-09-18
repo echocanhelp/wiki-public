@@ -55,3 +55,4 @@ Re-grep re-run in deepen-x slice 09160500-24 (2026-09-16): hit set unchanged (#4
 - Re-grep 2026-09-16 (deepen-x slice 09162138-13): hit set unchanged — own records #477/#229 + works index only. SKIP-no-new-material; page saturated.
 - Re-grep 2026-09-16 (deepen-x slice 09162200-11): hit set unchanged — own records #477/#229 + works index only. SKIP-no-new-material.
 - Re-grep 2026-09-17 (slice 09170130-8): hit set unchanged — own #477/#229 records + works index only, already wikilinked. SKIP-no-new-material; page saturated.
+- Re-grep 2026-09-17 (deepen-x slice 09170500-6): hit set unchanged — own #477/#229 records + works index only, already wikilinked. SKIP-no-new-material; page saturated.
