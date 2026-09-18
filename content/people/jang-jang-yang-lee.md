@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-18
 ---
 # Jang Jang Yang Lee (李楊娟娟)
 
@@ -36,6 +36,12 @@ Accomplishment
 - **Daughter:** 李碧娥,李瑞鳳
 - **Son:** 李興國,李元宏
 
+
+## Role in the Community
+
+- **Community memoir (primary material):** her daughter 李碧娥 (Debbie Lee) wrote the memorial essay 「595. 想念您，媽媽李楊娟娟女士」 (2017-10, TAHS 我的故事 corpus) — [[works/taiwaneseamericanhistory-org/mystories595|想念您，媽媽李楊娟娟女士]] — holding her life in the community record; its companion piece 「594. 李汝成先生生平略歷」 covers her husband [[people/ju-cheng-lee|李汝成]] — [[works/taiwaneseamericanhistory-org/mystories594|李汝成先生生平略歷]].
+- The memoir's authorship corroborates the Family section's daughter entry 李碧娥 (verification by community record).
+- 李碧娥 also appears as a new member in the 2011 美西夏令會 revival report — [[works/taiwaneseamericanhistory-org/ourjourneys265|2011年美西夏令會的回顧]] — evidence of the family's continuing community involvement.
 
 ## Sources
 - [TAH #1917 encyclopedia: 1917. Jang Jang Yang Lee 李楊娟娟](https://taiwaneseamericanhistory.org/whos-who-1917-jang-jang-yang-lee/)

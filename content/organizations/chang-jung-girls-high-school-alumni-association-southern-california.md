@@ -6,7 +6,7 @@ tags:
   - Taiwanese-American
   - Taiwan-Center-group-member
 verification_status: published
-last_reviewed: 2026-07-16
+last_reviewed: 2026-09-18
 ---
 # Chang Jung Girls’ High School Alumni Association Southern California
 
@@ -18,6 +18,11 @@ last_reviewed: 2026-07-16
 - **English (as listed):** Chang Jung Girls’ High School Alumni Association Southern California
 - **Relation:** Taiwan Center group member (official listing)
 - **Source:** https://www.taiwancenter.org/group-members · `taiwancenter-org-group-members.md`
+
+## Role in the Community
+
+- The alumni association has its own TAH Foundation directory record: the 2014-10-12 entry 「台南長榮女中南加州校友會」 ([[works/taiwaneseamericanhistory-org/chang-jung-girls-high-school|Chang Jung Girls' High School 台南長榮女中南加州校友會]]), confirming the SoCal alumni group was registered in the TAH organization corpus as of October 2014.
+- Its sibling alumni body, the [[works/taiwaneseamericanhistory-org/chang-jung-high-school|Chang Jung High School 台南長榮中學南加州校友會]] (the boys' school, also founded in Tainan by the Presbyterian Church), appears in the same 2014-10-12 TAH record — the two Chang Jung schools' SoCal alumni associations were documented together within the same Southern California Taiwanese community network.
 
 ## Source Notes
 

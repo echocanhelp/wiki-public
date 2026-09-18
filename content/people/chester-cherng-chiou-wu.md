@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-18
 ---
 # Chester Cherng Chiou Wu (吳澄秋博士)
 
@@ -36,6 +36,11 @@ Chester Cherng Chiou Wu 吳澄秋博士 – History of Taiwanese American (T.A. 
 - **Daughter:** Flora
 - **Son:** Eric
 
+
+## Role in the Community
+
+- Held in the TAHS community record as Who's Who encyclopedia entry #1959 (published 2017-12-03) — [[works/taiwaneseamericanhistory-org/whos-who-1959-cherng-chiou-wu|1959. Chester Cherng Chiou Wu 吳澄秋博士]].
+- Corpus hit is the bibliographic record only; no further movement/community-role facts absorbable from the memoir corpus.
 
 ## Sources
 - [TAH #1959 encyclopedia: 1959. Chester Cherng Chiou Wu 吳澄秋博士](https://taiwaneseamericanhistory.org/whos-who-1959-cherng-chiou-wu/)

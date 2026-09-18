@@ -37,6 +37,9 @@ last_reviewed: 2026-09-18
 - **Son:** Bill
 
 
+## Role in the Community
+SKIP (deepen-x 2026-09-18): corpus grep found only his own bibliographic record ([[works/taiwaneseamericanhistory-org/whos-who-2302-henry-chuang|2302. Prof. Henry Chuang 莊英煌教授]] — cited-from, full text stays in vault). No memoir/community facts in works/ or articles/ to absorb; no new facts invented.
+
 ## Sources
 - [TAH #2302 encyclopedia: 2302. Prof. Henry Chuang 莊英煌教授](https://taiwaneseamericanhistory.org/whos-who-2302-henry-chuang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-henry-chuang/)
