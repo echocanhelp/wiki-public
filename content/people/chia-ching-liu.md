@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-18
 ---
 # Chia-Ching Liu (劉嘉慶)
 
@@ -28,6 +28,12 @@ last_reviewed: 2026-08-17
 - 台大外科 — 住院醫師 — 2 Orthopedic Surgery, Brookline Jewish Hospital NY — 1963- — Residency
 - Washington Hospital Center — 1968-2002 — Doctor
 <!-- tah-tables:end -->
+
+## Role in the Community
+TAH's Who's Who corpus holds a single bibliographic record for Dr. Liu (台大醫學院 1957 M.D., orthopedic residency, Washington Hospital Center 1968–2002):
+- [[works/taiwaneseamericanhistory-org/whoswho1654|1654. Chia-Ching Liu 劉嘉慶 / 05-2017]] — published 2017-05-11
+
+HOLD: record is bibliographic only (band B); no community/memoir narrative in the corpus to absorb beyond the TAH profile.
 
 ## Family
 

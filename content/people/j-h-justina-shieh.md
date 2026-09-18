@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-18
 ---
 # J. H. Justina Shieh (謝節惠)
 
@@ -21,6 +21,14 @@ last_reviewed: 2026-08-17
 
 Accomplishment
 1. President of Taiwanese American Foundation of San Diego (聖地牙哥台美基金會董事長) 2011-1012
+
+## Role in the Community
+- President of the Taiwanese American Foundation of San Diego (聖地牙哥台美基金會董事長) — recorded tenure on the TAH profile reads "2011-1012"; HOLD: likely typo for 2011–2012, not auto-corrected. See [[organizations/taiwanese-american-foundation-of-san-diego|TA Taiwanese American Foundation of San Diego]].
+- TAH's encyclopedia corpus carries two Who's Who records for her, both bibliographic (band B):
+  - [[works/taiwaneseamericanhistory-org/106-j-h-justina-shieh|106. J. H. Justina Shieh 謝節惠]] — published 2018-09-21
+  - [[works/taiwaneseamericanhistory-org/whos-who-1217-j-h-shieh|1217. J. H. (Justina) Shieh 謝節惠]] — published 2016-08-06
+
+HOLD: no memoir text in the corpus; the two encyclopedia entries have not been compared for content conflicts.
 
 ## Family
 
