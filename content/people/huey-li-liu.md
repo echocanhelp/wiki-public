@@ -40,6 +40,12 @@ last_reviewed: 2026-09-17
 - **Son:** 李智晃Tracy Lee
 
 
+## Role in the Community
+
+- Liu is a published memoirist in the TAH corpus: her autobiographical essay 「片段的生活記趣與回顧」(01/2017) is held at [[works/taiwaneseamericanhistory-org/mystories503|TAH My Stories #503]], and her later reflection 「Amazing Life after 80」(2020/10) at [[works/taiwaneseamericanhistory-org/mystories-761|TAH My Stories #761]].
+- She is one of eight co-authors of the 2016 collective autobiography 台美人生命腳跡 (with 黃東昇、林靜竹、劉光道、陳天令、江正吉、劉宗憲、柯耀宗): [[works/taiwaneseamericanhistory-org/publications1046|TAH Publications #1046, 11/2016]].
+- 2020-09 — Wrote 「感念台美史料中心創辦人鄭寶鼎先生」, a memorial essay for 台美史料中心 founder Bob Cheng 鄭寶鼎, held as [[works/taiwaneseamericanhistory-org/mystories-745|TAH My Stories #745, 2020/09]] — placing her among the community figures commemorating the centre's founder in the same period as [[people/hong-zong-lin|林宏容]]'s essay.
+
 ## Sources
 - [TAH #77 encyclopedia: 77. Collection of Huey Li Liu 劉惠麗](https://taiwaneseamericanhistory.org/77-collection-of-huey-li-liu/)
 - [TAH #1479 encyclopedia: 1479. Huey Li Liu 劉惠麗 /01/2017](https://taiwaneseamericanhistory.org/whos-huey-li-liu/)
