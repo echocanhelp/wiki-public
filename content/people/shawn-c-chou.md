@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-18
 ---
 # Shawn C. Chou (周正烜)
 
@@ -29,6 +29,9 @@ last_reviewed: 2026-08-17
 - 聯邦法律援助所
 - 周正烜律師事務所 — 2004-Present — President
 <!-- tah-tables:end -->
+
+## Role in the Community
+- Two TAH Foundation story-corpus records document his community profile: [[works/taiwaneseamericanhistory-org/328-e5-91-a8-e6-ad-a3-e7-83-9c-e4-b8-80-e8-b7-af-e8-b5-b0-e4-be-86-e6-94-af-e6-8|TAH #328「一路走來支持弱勢」(朱乙真, 2015)]] — a first-person account of his legal-aid advocacy — and [[works/taiwaneseamericanhistory-org/577-shawn-c-chou-e5-91-a8-e6-ad-a3-e7-83-9c-201509|TAH #577 (2015)]]. Both corroborate the Who's Who employment line (聯邦法律援助所 → own practice serving the underprivileged).
 
 ## Family
 
