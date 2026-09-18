@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-18
 ---
 # L. H. Chen (陳隆旭)
 
@@ -35,6 +35,11 @@ last_reviewed: 2026-08-17
 ## Family
 
 _No filled family fields on the TAH profile._
+
+## Role in the Community
+
+- Community record: his TAH Who's Who encyclopedia entry is held in the story corpus as [[works/taiwaneseamericanhistory-org/whoswho1898|1898. L. H. Chen 陳隆旭]] (published 2017-09-20, value band B).
+- Corpus scan (works/articles) found no memoir or article mentions beyond the encyclopedia record itself; pharmaceutical-research roles above remain press-kit sourced.
 
 ## Sources
 - [TAH #1898 encyclopedia: 1898. L. H. Chen 陳隆旭 / 09/2017](https://taiwaneseamericanhistory.org/whoswho1898/)

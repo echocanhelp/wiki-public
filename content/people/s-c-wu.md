@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-18
 ---
 # S. C. Wu (吳西謙)
 
@@ -36,6 +36,11 @@ last_reviewed: 2026-08-17
 - **Son:** 吳適中
 - **Daughter:** 吳瑋玲
 
+
+## Role in the Community
+
+- Community record: his TAH Who's Who encyclopedia entry is held in the story corpus as [[works/taiwaneseamericanhistory-org/whoswho1472|1472. S. C. Wu 吳西謙]] (published 2017-01-22, value band B).
+- Corpus scan (works/articles) found no memoir or article mentions beyond the encyclopedia record itself; travel-industry roles above remain press-kit sourced.
 
 ## Sources
 - [TAH #1472 encyclopedia: 1472.  S. C. Wu 吳西謙/ 2017/01](https://taiwaneseamericanhistory.org/whoswho1472/)
