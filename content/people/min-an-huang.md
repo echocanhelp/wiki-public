@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-18
 ---
 # Min-An Huang (黃民安)
 
@@ -34,6 +34,9 @@ last_reviewed: 2026-08-17
 - **Wife:** [[people/chue-jen-huang||楊純貞]]
 - **Son:** Jason
 
+
+## Role in the Community
+- Contributed his personal story to the TAH encyclopedia story collection, published 2015-09-02 (bibliographic record; full text stays in the vault): [[works/taiwaneseamericanhistory-org/565-min-an-huang-e9-bb-83-e6-b0-91-e5-ae-89-201509||565. Min-An Huang 黃民安 / 2015/09]].
 
 ## Sources
 - [TAH #565 encyclopedia: 565. Min-An Huang 黃民安 /2015/09](https://taiwaneseamericanhistory.org/565-min-an-huang-%e9%bb%83%e6%b0%91%e5%ae%89-201509/)
