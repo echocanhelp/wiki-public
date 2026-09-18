@@ -37,7 +37,7 @@ _No filled family fields on the TAH profile._
 
 ## Role in the Community
 - Community record: [[works/taiwaneseamericanhistory-org/whos-who-2067-chia-fu-chou|TAH Who's Who #2067, published 2018-03-22]] — corpus copy of the profile behind this page.
-- Corpus grep (re-run 2026-09-17): coverage limited to his own encyclopedia record and the works index — no memoir, club, or article mentions in `content/works` / `content/articles`. The topic-only candidates (醫學奇蹟 / UCLA professors) remain under HOLD below; his recorded posts are ASU / Academia Sinica, not UCLA.
+- Corpus grep (re-run 2026-09-18, SKIP — nothing absorbable): coverage limited to his own encyclopedia record and the works index — no memoir, club, or article mentions in `content/works` / `content/articles`. The topic-only candidates (醫學奇蹟 / UCLA professors) remain under HOLD below; his recorded posts are ASU / Academia Sinica, not UCLA.
 
 ## Sources
 - [TAH #2067 encyclopedia: 2067. Dr. Chia-Fu Chou 周家復博士](https://taiwaneseamericanhistory.org/whos-who-2067-chia-fu-chou/)

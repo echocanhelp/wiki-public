@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-17
+last_reviewed: 2026-09-18
 ---
 # Prof. Je-Chin Han (黃界清教授)
 
@@ -46,7 +46,8 @@ _No filled family fields on the TAH profile._
 - Coordinator (召集人) of the first NATPA Professor Liao Shutsung Memorial Award announcement in the Our Journeys collection ([[works/taiwaneseamericanhistory-org/ourjourneys129|Our Journeys 129]]); listed contact: jechin.han@gmail.com.
 - Named recipient of the ASME Honorary Member Award, 2020 ([[works/taiwaneseamericanhistory-org/award-77|77. ASME Honorary Member Award / 黃界清教授 / 2020]]).
 - Commentated on Taiwan politics in the community press: 《2012 台灣最寒冷的冬天—公平正義沒有降臨台灣》(台灣正義網 taiwanjustice.net, archived in the tier2 corpus).
-- Corpus links: [[works/taiwaneseamericanhistory-org/52-prof-je-chin-han|52. Prof. Je-Chin Han 黃界清教授]], [[works/taiwaneseamericanhistory-org/whos-who-604-je-chin-han|604. Prof. Je-Chin Han 黃界清教授]].
+- Corpus links: [[works/taiwaneseamericanhistory-org/52-prof-je-chin-han|52. Prof. Je-Chin Han 黃界清教授]] (published 2018-08-27), [[works/taiwaneseamericanhistory-org/whos-who-604-je-chin-han|604. Prof. Je-Chin Han 黃界清教授]] (published 2015-09-19).
+- Corpus grep (re-run 2026-09-18): corpus coverage is the records linked above plus the taiwanjustice.net tier2 archive copy of his 2012-01-30 op-ed — no further memoir mentions found.
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
