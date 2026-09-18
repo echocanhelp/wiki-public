@@ -41,6 +41,14 @@ last_reviewed: 2026-09-18
 - 2013-06-10 — TJJ 轉載 Michael Richardson 報導（陳水扁台中監獄自縊風波）：報導指馬英九拒絕考慮陳水扁醫療釋放，使其在隔離牢房中健康與精神持續惡化 —— [[articles/taiwanjustice-net/2024/20240425071249_root_69b4f44f9c019bd5|TJJ, 2013-06-10]]。
 - 2016-04-11 — TJJ 轉載 Taipei Times 社論：馬英九第二任期末，卸任前是否特赦陳水扁成為爭議，高雄、台南市議會及26名民進黨台北市議員先後呼籲特赦，總統府以扁案多案未定為由拒絕 —— [[articles/taiwanjustice-net/2024/20240619171645_root_c0530664ab4c2948|TJJ 轉載 Taipei Times 社論，2016-04-11]]。
 
+## Role in the Community（台美人社群記錄中的馬英九）
+
+- 海外台灣人對其總統當選反應冷冽：紀錄「自台灣人選出中國人馬英九為總統之後，海外臺灣人皆大失所望，許多臺美人幾乎放棄台灣」，连带使一年一度的台灣人夏令會出席低迷 — [[works/taiwaneseamericanhistory-org/ourjourneys260|Our Journeys 260（費城夏令會回憶）]]。同题材的中西部同鄉會回憶亦把組織衰落部分歸因於「2008 年馬英九為中國黨奪回政權」後的政治疲乏 — [[works/taiwaneseamericanhistory-org/our-journeys-376|Our Journeys 376]]。
+- 2013-12 — 馬英九特別擴大舉辦「開羅宣言七十週年記念會」，被 corpus 政論批評為掩飾歷史、誤導視聽 — [[works/taiwaneseamericanhistory-org/ourjourneys104|Our Journeys 104]]。
+- 2014 太陽花學運：corpus 紀錄指學生佔據立法院反對馬英九政府主推的海峽兩岸服務貿易協議 — [[works/taiwaneseamerican-org/the-228-inheritance-taiwans-revolution-is-here|The 228 Inheritance（TA 雜誌）]]。
+- FAPA「六項保證」案即因美方對馬英九親中政策的憂慮與對蔡英文的期待而順勢推出（2015-10），並在蔡英文就職總統前夕獲眾議院全體無異議通過 — [[works/taiwaneseamericanhistory-org/ourjourneys228|Our Journeys 228（FAPA 與六項保證）]]。
+- 社運藝術紀錄：太陽花藝展作品中出現「頭長鹿角的馬英九」圖像，以「Illuminating Darkness」刻畫佔領期的黑暗 — [[works/taiwaneseamerican-org/art-for-advocacy-2|Art for Advocacy（TA 雜誌）]]。
+
 ## Related Pages
 
 - [[sources/taiwanjustice-net||taiwanjustice.net source hub]]

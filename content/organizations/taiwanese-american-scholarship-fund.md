@@ -21,6 +21,13 @@ The Taiwanese American Scholarship Fund (TASF) was created in 2014 to support ec
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-american-scholarship-fund/)
 
+## Timeline
+
+- 2015 — first campaign covered by TaiwaneseAmerican.org and the TAH directory; TASF ran as a project of the Asian Pacific Community Fund ([[works/taiwaneseamerican-org/the-2015-taiwanese-american-scholarship-fund|TA.org 2015 drive]]; [[works/taiwaneseamericanhistory-org/taiwanese-american-scholarship-fund|TAH #15]]).
+- 2016 — drive of $50,000: twenty $2,500 scholarships for high-school seniors and 1st-year students who are U.S. citizens of direct Taiwanese descent, deadline 2016-02-29 ([[works/taiwaneseamerican-org/the-2016-taiwanese-american-scholarship-fund|TA.org 2016 drive]]).
+- 2017-01-04 — scholarship awards notice ([[works/taiwaneseamericanhistory-org/awards-taiwanese-american-scholarship-fund|TAH #73]]).
+- 2020-03-07 — TASF Scholarship record ([[works/taiwaneseamericanhistory-org/50-tasf-scholarship-2020|TAH #50]]).
+
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

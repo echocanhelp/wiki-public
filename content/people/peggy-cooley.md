@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-18
 ---
 # Peggy Cooley (邱碧玉)
 
@@ -42,6 +42,12 @@ last_reviewed: 2026-08-17
 ## Sources
 - [TAH #2161 encyclopedia: 2161. Peggy Cooley 邱碧玉](https://taiwaneseamericanhistory.org/whos-who-2161-peggy-cooley/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/peggy-cooley/)
+
+## Role in the Community
+
+- Her TAH Foundation encyclopedia entry is preserved as a work page: [[works/taiwaneseamericanhistory-org/whos-who-2161-peggy-cooley|2161. Peggy Cooley 邱碧玉]] (TAH Who's Who, 2018-10-07).
+- Married into the family of [[people/ching-fen-hsiao|蕭清芬]], the PCT pastor/educator who served at Tainan Theological College and Seminary; the family lived in Tainan during her husband's service there, tying her to the PCT elder-pastor community of southern Taiwan.
+- At daughter [[people/bi-khim-hsiao|蕭美琴]]'s 2024-05-20 就職典禮, reporting noted that although she is a U.S. citizen, she speaks fluent 台語 and was described by relatives as 「比台灣人更像台灣人」— a marker of deep insertion into the local church-and-community milieu ([[articles/taiwanjustice-net/2025/20250213214800_520就職典禮賴清德家人將出席-蕭美琴母親返台觀禮_0258611f5f824a5d|TJJ 轉載中央社]]).
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

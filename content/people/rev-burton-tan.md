@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-18
 ---
 # Rev. Burton Tan (陳柏壽牧師)
 
@@ -32,6 +32,12 @@ last_reviewed: 2026-08-17
 
 - **Wife:** Shinobu
 
+
+## Role in the Community
+
+- His TAH Foundation encyclopedia entry is preserved as a work page: [[works/taiwaneseamericanhistory-org/whos-who-1663-burton-tan|1663. Rev. Burton Tan 陳柏壽牧師]] (TAH Who's Who, 2017-05-17).
+- Religion-track speaker at the 16th 世界台灣人大会 (1994-07-08–10, University of Georgia, Athens GA; hosted by the North Carolina Taiwanese community, theme 「台灣文化與教育的展望」), alongside 李喬、楊青矗、林衡哲、陳明仁、鄭邦鎮 and others — early movement religious representation ([[works/taiwaneseamericanhistory-org/ourjourneys245|Our Journeys #245]]).
+- Listed among signatories as "Burton Tan, Taiwanese Christian Church" in the Taiwanese American statement corpus ([[works/taiwaneseamerican-org/pew-research-center-taiwanese-american-statement|TA statement record]]), consistent with his pastoral identity across the NY-area Taiwanese church community.
 
 ## Sources
 - [TAH #1663 encyclopedia: 1663. Rev. Burton Tan 陳柏壽牧師](https://taiwaneseamericanhistory.org/whos-who-1663-burton-tan/)
