@@ -36,7 +36,7 @@ Gail Hsiu-Wen Lee’s passion to bring live classical music to Central New Jerse
 - Her founding of Sinfonietta Nova (2008, West Windsor NJ) brought live classical symphony music to Central New Jersey's Taiwanese American community; later recorded in the TAH Who's Who corpus as [[works/taiwaneseamericanhistory-org/whoswho1115-2|1115. Gail Lee 李秀文 / 2016/06]].
 - Note: not to be confused with vocalist 李秀麗 (Elizabeth S. Chen), a different musician-series subject.
 - HOLD: conflict in degree field — press-kit table lists "Northwestern University — M.S." while the conductor bio narrative implies a music degree (M.M.); TAH corpus records are bibliographic stubs only and cannot resolve it.
-- Corpus check 2026-09-16, re-run slice 09170130-18 on 2026-09-17: the two TAH records above are the only mentions in content/works + content/articles (a Taiwan-justice-press hit on 蓋爾 was 蓋爾足球/Gaelic football, unrelated); no memoir/community text adds further facts.
+- Corpus check 2026-09-16, re-run slices 09170130-18 and 09170500-16 on 2026-09-17: the two TAH records above are the only mentions in content/works + content/articles (a Taiwan-justice-press hit on 蓋爾 was 蓋爾足球/Gaelic football, unrelated); no memoir/community text adds further facts.
 
 ## Family
 
