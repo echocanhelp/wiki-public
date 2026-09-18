@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-18
 ---
 # T. C. Cheng (鄭天佐)
 
@@ -34,6 +34,15 @@ last_reviewed: 2026-08-17
 ## Family
 
 _No filled family fields on the TAH profile._
+
+## Role in the Community
+
+- Corpus 僅見 TAH Who's Who 傳記紀錄兩則，尚無社運/回憶錄材料可吸收。
+- HOLD: conflict 名字漢字 — TAH #953 作「鄭天佐」、TAH #1232 作「鄭天助」（同為 T. C. Cheng），未自動合併，待業主確認。
+
+## Corpus Links
+- [[works/taiwaneseamericanhistory-org/whowswho953|953. T. C. Cheng 鄭天佐 / 2016/04]] — TAH Who's Who 傳記紀錄
+- [[works/taiwaneseamericanhistory-org/whoswho1232|1232. T. C. Cheng 鄭天助 / 2016/08]] — TAH Who's Who 傳記紀錄（漢名異寫）
 
 ## Sources
 - [TAH #953 encyclopedia: 953. T. C. Cheng 鄭天佐 / 2016/04](https://taiwaneseamericanhistory.org/whowswho953/)

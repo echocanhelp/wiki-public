@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-18
 ---
 # Liang-Shing Fan (范良信)
 
@@ -35,6 +35,13 @@ last_reviewed: 2026-08-17
 
 - **Wife:** 范李春美
 
+
+## Role in the Community
+
+- 留美期間與楊宗昌、陳希寬、莊秋雄在堪薩斯州立大學曼哈頓校區分發《台灣青年》、《台灣通訊》，進行台獨啟蒙工作（見 [[works/taiwaneseamericanhistory-org/ourjourneys234|台獨聯盟美國本部史]]）。
+- 1966-06-18 — 以堪薩斯代表身分應邀參加費城「台灣獨立聯盟UFI」與「台灣問題硏究會FASG」結盟會談（辜寬敏居間協調），決議 1966-07-04 成立「全美台灣獨立聯盟」UFAI（見 [[works/taiwaneseamericanhistory-org/ourjourneys81|周烒明起稿：早期威大台灣學生在台灣建國運動所扮演的角色]]）。
+- UFAI 首屆幹部：執行委員會委員（兼組織，與賴文雄、王秋森、邱坤勝同任），並任中央委員會委員（委員長周烒明）。
+- 1991-06 — 應明州台美人同鄉會邀講《經濟與統獨》（見 [[works/taiwaneseamericanhistory-org/ourjourneys123|曾啟明：明州台美人百年大事]]）。
 
 ## Sources
 - [TAH #657 encyclopedia: 657. Liang-Shing Fan 范良信/ 2015/10](https://taiwaneseamericanhistory.org/whos657-liang-shing-fan/)

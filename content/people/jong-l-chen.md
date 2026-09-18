@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-18
 ---
 # Jong L. Chen (陳榮良醫師)
 
@@ -37,6 +37,14 @@ last_reviewed: 2026-08-17
 ## Family
 
 _No filled family fields on the TAH profile._
+
+## Role in the Community
+
+- 沙加緬度中華會館主席（兼任醫師）。
+- 2021-05 — 北加州醫界聲援台灣參與世衛活動中，以中華會館主席身分強調海內外台灣人需「團結一心，未來還有長路要走」（見 [[articles/taiwanjustice-net/2025/20251117005939_北加州醫界挺台參與世衛_聲援台灣再創抗疫典範_b2f3f6b2128a0c34|台灣justice報導：北加州醫界挺台參與世衛]]，原報導 2021-05-23）。
+
+## Corpus Links
+- [[works/taiwaneseamericanhistory-org/whoswho1197|1197. Jong L. Chen 陳榮良 / 2016/07]] — TAH Who's Who 傳記紀錄
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/jong-l-chen/)
