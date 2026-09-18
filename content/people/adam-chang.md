@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-18
 ---
 # Adam Chang (張耀元博士)
 
@@ -35,6 +35,10 @@ last_reviewed: 2026-08-17
 ## Family
 
 _No filled family fields on the TAH profile._
+
+## Role in the Community
+
+- Corpus check (slice 09171400-27): the only corpus appearance is his own TAH Who's Who encyclopedia record [[works/taiwaneseamericanhistory-org/whoswho1338|1338. Adam Chang 張耀元 / 2016/10]] — no memoir, committee role, or event record found beyond the press-kit profile. No community facts absorbable beyond the existing Employment/Education tables.
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/adam-chang/)
