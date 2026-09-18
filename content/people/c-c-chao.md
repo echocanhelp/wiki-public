@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-18
 ---
 # C. C. Chao (趙誌諄)
 
@@ -28,6 +28,10 @@ last_reviewed: 2026-08-17
 - 北卡台語教會 — 主任牧師
 - 維加斯基督教會 — 2016- — 主任牧師
 <!-- tah-tables:end -->
+
+## Role in the Community
+
+- Profiled in the TAH Foundation Who's Who encyclopedia: entry #1714, published 2017-07-02 — [[works/taiwaneseamericanhistory-org/whoswho1714|1714. C. C. Chao 趙誌諄 / 07/2017]].
 
 ## Family
 

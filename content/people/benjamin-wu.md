@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-18
 ---
 # Benjamin Wu (吳旭淳博士)
 
@@ -30,6 +30,10 @@ last_reviewed: 2026-08-17
 - 美國聯邦政府商務部 — 2004 — 助理部長
 - 馬里蘭州商業與經濟發展廳 — 2015 — 副廳長
 <!-- tah-tables:end -->
+
+## Role in the Community
+
+- Featured in the TAH Foundation story/Who's Who corpus: entry 301, published 2015-02-15 — [[works/taiwaneseamericanhistory-org/11028|301. Benjamin Wu 吳旭淳 / 2015/02]].
 
 ## Family
 
