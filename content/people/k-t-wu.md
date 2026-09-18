@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-17
 ---
 # K. T. Wu (吳告祖)
 
@@ -33,6 +33,14 @@ last_reviewed: 2026-08-17
 
 - **Wife:** [[people/s-m-lin||林素敏]]
 
+
+## Role in the Community
+Two corpus records document him and his wife directly:
+
+- [[works/taiwaneseamericanhistory-org/whoswho1135|TAH #1135 — K. T. Wu 吳告祖 (2016/07)]] — his own encyclopedia entry (bibliographic record; full text in vault).
+- [[works/taiwaneseamericanhistory-org/368-e5-90-b3-e5-91-8a-e7-a5-96-e3-80-81-e6-9e-97-e7-b4-a0-e6-95-8f-e5-a4-ab-e5-a|TAH #368 — 吳告祖、林素敏夫婦的故事 / 黃樹人 (2015/11)]] — a community-written couple's story, corroborating the marriage to [[people/s-m-lin|林素敏]] already listed under Family.
+
+No narrative memoir text beyond these bibliographic records; no community-role facts absorbable beyond the directory biography already on this page.
 
 ## Sources
 - [TAH #1135 encyclopedia: 1135. K. T. Wu 吳告祖 / 2016/07](https://taiwaneseamericanhistory.org/whoswho1135/)

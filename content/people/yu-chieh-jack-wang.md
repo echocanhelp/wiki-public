@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-17
 ---
 # Yu-Chieh Jack Wang
 
@@ -34,6 +34,11 @@ last_reviewed: 2026-08-17
 ## Family
 
 _No filled family fields on the TAH profile._
+
+## Role in the Community
+His own encyclopedia entry is held in the corpus as [[works/taiwaneseamericanhistory-org/whoswho1368|TAH #1368 — Yu-Chieh (Jack) Wang (2016/11)]] (bibliographic record; full text in vault).
+
+HOLD: name collision — [[works/taiwaneseamericanhistory-org/581-gene-jack-wang-e7-8e-8b-e4-bf-8a-e5-82-91-201509|TAH #581 Gene-Jack Wang 王俊傑]] is a different "Jack Wang"; not merged with this scientist.
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/yu-chieh-jack-wang/)
