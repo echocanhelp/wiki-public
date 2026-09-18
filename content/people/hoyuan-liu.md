@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-18
 ---
 # Hoyuan Liu (劉和元)
 
@@ -28,6 +28,14 @@ last_reviewed: 2026-08-17
 ## Employment
 - JCRR (農復會) — Pest Specialist — (1959-1973) — National Taiwan Univ. — Professor — (1969-1973) — Univ. of Illinois-Urbana Champaign — Research Associate — (1973-1986)
 <!-- tah-tables:end -->
+
+## Role in the Community
+- Plant-pathology scientist who moved from Taiwan's agricultural reconstruction apparatus — JCRR (農復會) pest specialist, 1959 onward — into academia: National Taiwan University professor (1969–1973), then University of Illinois-Urbana-Champaign research associate (1973–1986).
+- Represents the 1950s–60s generation of Taiwanese agricultural scientists trained at NTU who carried that expertise into U.S. universities.
+- **Corpus footprint:** the community record of his life is his own TAH Who's Who entry, [[works/taiwaneseamericanhistory-org/whos-who-2221-hoyuan-liu|2221. Hoyuan Liu 劉和元]], published 2019-11-05 in the TAHS story corpus. No memoir or third-party community writings mentioning 劉和元 were found in the corpus.
+
+## Timeline
+- 2019-11-05 — TAH Who's Who record published: [[works/taiwaneseamericanhistory-org/whos-who-2221-hoyuan-liu|2221. Hoyuan Liu 劉和元]]
 
 ## Family
 
