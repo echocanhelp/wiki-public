@@ -44,3 +44,4 @@ last_reviewed: 2026-08-17
 
 - 2017-02-23 — 吳瑞惠撰寫文字紀錄（蕭慶和攝製），報導黃勝雄醫師演講「老人的記憶與記憶的神經科學」，刊於台灣公義報（[[articles/taiwanjustice-net/2024/20240723023500_root_23a52af3dcf8a6ce|TJJ tag page, 2017-02-23]]）；同一報導另有全文存檔版（[[articles/taiwanjustice-net/2024/20240613111529_root_be7ac05c58e6eab6|TJJ, 2017-02-23]]），並見「黃勝雄醫師」標籤彙整頁（[[articles/taiwanjustice-net/2024/20240530132621_root_cc3dcc87b0a9ed2f|TJJ tag page, 2024-05-30 快照]]）。
 - 2019-10-31 — 吳瑞惠撰寫王秉訓教授「糖尿病與你」演講記錄（2019-10-30 記錄），刊於台灣公義網（[[articles/taiwanjustice-net/2024/20240522045150_root_26f763595b5ce4fb|TJJ, 2019-10-31]]）。
+- 2012-10-24 — 為林水波教授長青教室演講「郝龍斌倡導阿扁保外就醫論評」撰寫記錄（文末「記錄: 吳瑞惠」），全文刊於台灣公義報（2012-10-26 刊登）（[[articles/taiwanjustice-net/2024/20240719221902_root_dc44b297e6225e64|TJJ 心得報告全文, 2012-10-26]]）。
