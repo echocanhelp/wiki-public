@@ -1,0 +1,4 @@
+people/jay-chen.md
+organizations/rice-taiwanese-association.md
+people/michael-c-lu.md
+organizations/taiwanese-association-of-oklahoma.md

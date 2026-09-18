@@ -1,0 +1,4 @@
+people/rev-james-chang.md
+people/sue-chiu.md
+people/paul-pai-shih-lee.md
+people/meiyin-wang.md

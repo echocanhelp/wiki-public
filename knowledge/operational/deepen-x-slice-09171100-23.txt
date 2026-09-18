@@ -1,0 +1,4 @@
+people/san-francisco-theological-seminary.md
+people/sally-tsai.md
+people/deborah-chuang-servino.md
+organizations/taiwanese-american-student-association-at-emory-university.md

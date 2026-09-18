@@ -1,0 +1,4 @@
+organizations/san-gabriel-taiwanese-lions-club.md
+organizations/taiwanese-american-association-of-arizona.md
+people/szu-ying-huang.md
+people/raymond-wu.md

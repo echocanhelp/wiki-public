@@ -1,48 +1,48 @@
-## Echopedia Janitor — 2026-09-17
+## Echopedia Janitor — 2026-09-18
 - Standards v10
-- Pages with findings: **203**
+- Pages with findings: **225**
 - Queued tonight (max 40): **40**
 - Queue:
-  - `people/chen-po-kong.md` age≈12.0d · NO_TYPE, NO_IDENTITY_SNAPSHOT, NO_LAST_REVIEWED
-  - `people/du-ao-cunfu.md` age≈12.0d · NO_TYPE, NO_IDENTITY_SNAPSHOT, NO_LAST_REVIEWED
-  - `people/yuan-zhihui.md` age≈11.9d · NO_TYPE, NO_IDENTITY_SNAPSHOT, NO_LAST_REVIEWED
-  - `people/chao-sile.md` age≈11.9d · NO_TYPE, NO_IDENTITY_SNAPSHOT, NO_LAST_REVIEWED
-  - `organizations/tyzen-hsiao-foundation.md` age≈31.4d · LINK_BODY_SPARSE
-  - `organizations/tyzen-hsiao-music-works.md` age≈31.4d · LINK_BODY_SPARSE
-  - `people/rev-martin-c-wang.md` age≈31.4d · LINK_BODY_SPARSE
-  - `people/john-chin-jung-cheng.md` age≈31.4d · LINK_BODY_SPARSE
-  - `people/zai-xing-wang.md` age≈31.4d · LINK_BODY_SPARSE
-  - `people/rev-sheng-to-shih.md` age≈31.4d · LINK_BODY_SPARSE
-  - `people/h-j-chen.md` age≈31.4d · LINK_BODY_SPARSE
-  - `people/susan-chou.md` age≈31.4d · LINK_BODY_SPARSE
-  - `people/dr-joseph-kho.md` age≈31.4d · LINK_BODY_SPARSE
-  - `people/c-l-hong.md` age≈31.4d · LINK_BODY_SPARSE
-  - `people/j-m-chiang.md` age≈31.4d · LINK_BODY_SPARSE
-  - `people/leona-chen.md` age≈31.4d · LINK_BODY_SPARSE
-  - `people/jolan-hsieh.md` age≈31.4d · LINK_BODY_SPARSE
-  - `people/ralph-su.md` age≈31.4d · LINK_BODY_SPARSE
-  - `people/prof-yang-en-cheng.md` age≈31.4d · LINK_BODY_SPARSE
-  - `people/milo-thornberry.md` age≈31.4d · LINK_BODY_SPARSE
-  - `people/samuel-wu.md` age≈31.4d · LINK_BODY_SPARSE
-  - `people/felix-liu.md` age≈31.4d · LINK_BODY_SPARSE
-  - `people/rev-h-d-chen.md` age≈31.4d · LINK_BODY_SPARSE
-  - `people/rong-hu-lu.md` age≈31.4d · LINK_BODY_SPARSE
-  - `people/john-chang.md` age≈31.4d · LINK_BODY_SPARSE
-  - `people/mark-thelin.md` age≈31.4d · LINK_BODY_SPARSE
-  - `people/harrison-lin.md` age≈31.4d · LINK_BODY_SPARSE
-  - `people/m-y-wu.md` age≈31.4d · LINK_BODY_SPARSE
-  - `people/christina-lai.md` age≈31.4d · LINK_BODY_SPARSE
-  - `people/rev-s-y-lin.md` age≈31.4d · LINK_BODY_SPARSE
-  - `people/rev-c-l-tong.md` age≈31.4d · LINK_BODY_SPARSE
-  - `people/rev-thomas-h-chen.md` age≈31.4d · LINK_BODY_SPARSE
-  - `people/fan-jiang-ti-ang.md` age≈11.0d · NO_TYPE, NO_IDENTITY_SNAPSHOT, NO_LAST_REVIEWED
-  - `people/huang-diyin.md` age≈11.0d · NO_TYPE, NO_IDENTITY_SNAPSHOT, NO_LAST_REVIEWED
-  - `people/li-jian.md` age≈11.0d · NO_TYPE, NO_IDENTITY_SNAPSHOT, NO_LAST_REVIEWED
-  - `people/lin-baohua.md` age≈10.0d · NO_TYPE, NO_IDENTITY_SNAPSHOT, NO_LAST_REVIEWED
-  - `people/yang-yueqing.md` age≈9.9d · NO_TYPE, NO_IDENTITY_SNAPSHOT, NO_LAST_REVIEWED
-  - `people/guan-renjian.md` age≈9.9d · NO_TYPE, NO_IDENTITY_SNAPSHOT, NO_LAST_REVIEWED
-  - `events/ev-winter-reunion.md` age≈17.3d · NO_LAST_REVIEWED, LINK_BODY_SPARSE
-  - `events/ev-s-30th-anniversary.md` age≈17.3d · NO_LAST_REVIEWED, LINK_BODY_SPARSE
-- Log: `knowledge/operational/janitor-log/2026-09-17.jsonl`
+  - `people/chen-po-kong.md` age≈13.0d · NO_TYPE, NO_IDENTITY_SNAPSHOT, NO_LAST_REVIEWED
+  - `people/du-ao-cunfu.md` age≈13.0d · NO_TYPE, NO_IDENTITY_SNAPSHOT, NO_LAST_REVIEWED
+  - `people/yuan-zhihui.md` age≈12.9d · NO_TYPE, NO_IDENTITY_SNAPSHOT, NO_LAST_REVIEWED
+  - `people/chao-sile.md` age≈12.9d · NO_TYPE, NO_IDENTITY_SNAPSHOT, NO_LAST_REVIEWED
+  - `organizations/tyzen-hsiao-foundation.md` age≈32.4d · LINK_BODY_SPARSE
+  - `people/rev-martin-c-wang.md` age≈32.4d · LINK_BODY_SPARSE
+  - `people/john-chin-jung-cheng.md` age≈32.4d · LINK_BODY_SPARSE
+  - `people/zai-xing-wang.md` age≈32.4d · LINK_BODY_SPARSE
+  - `people/rev-sheng-to-shih.md` age≈32.4d · LINK_BODY_SPARSE
+  - `people/h-j-chen.md` age≈32.4d · LINK_BODY_SPARSE
+  - `people/susan-chou.md` age≈32.4d · LINK_BODY_SPARSE
+  - `people/c-l-hong.md` age≈32.4d · LINK_BODY_SPARSE
+  - `people/j-m-chiang.md` age≈32.4d · LINK_BODY_SPARSE
+  - `people/jolan-hsieh.md` age≈32.4d · LINK_BODY_SPARSE
+  - `people/ralph-su.md` age≈32.4d · LINK_BODY_SPARSE
+  - `people/samuel-wu.md` age≈32.4d · LINK_BODY_SPARSE
+  - `people/felix-liu.md` age≈32.4d · LINK_BODY_SPARSE
+  - `people/rev-h-d-chen.md` age≈32.4d · LINK_BODY_SPARSE
+  - `people/rong-hu-lu.md` age≈32.4d · LINK_BODY_SPARSE
+  - `people/john-chang.md` age≈32.4d · LINK_BODY_SPARSE
+  - `people/harrison-lin.md` age≈32.4d · LINK_BODY_SPARSE
+  - `people/m-y-wu.md` age≈32.4d · LINK_BODY_SPARSE
+  - `people/chien-ting-yeh.md` age≈32.4d · LINK_BODY_SPARSE
+  - `people/tah-p-d0f36c77d3.md` age≈32.4d · LINK_BODY_SPARSE
+  - `people/kin-ko.md` age≈32.4d · LINK_BODY_SPARSE
+  - `people/adrian-lin.md` age≈32.4d · LINK_BODY_SPARSE
+  - `people/ping-wang.md` age≈32.4d · LINK_BODY_SPARSE
+  - `people/rev-burton-tan.md` age≈32.4d · LINK_BODY_SPARSE
+  - `people/chun-chiu.md` age≈32.4d · LINK_BODY_SPARSE
+  - `people/rev-s-y-lin.md` age≈32.4d · LINK_BODY_SPARSE
+  - `people/dr-min-da-wu-m-d.md` age≈32.4d · LINK_BODY_SPARSE
+  - `people/carol-ou-lin.md` age≈32.4d · LINK_BODY_SPARSE
+  - `people/kelvin-yu.md` age≈32.4d · LINK_BODY_SPARSE
+  - `people/fan-jiang-ti-ang.md` age≈12.0d · NO_TYPE, NO_IDENTITY_SNAPSHOT, NO_LAST_REVIEWED
+  - `people/li-jian.md` age≈12.0d · NO_TYPE, NO_IDENTITY_SNAPSHOT, NO_LAST_REVIEWED
+  - `people/lin-baohua.md` age≈11.0d · NO_TYPE, NO_IDENTITY_SNAPSHOT, NO_LAST_REVIEWED
+  - `people/yang-yueqing.md` age≈10.9d · NO_TYPE, NO_IDENTITY_SNAPSHOT, NO_LAST_REVIEWED
+  - `people/guan-renjian.md` age≈10.9d · NO_TYPE, NO_IDENTITY_SNAPSHOT, NO_LAST_REVIEWED
+  - `media/creation-guide.md` age≈23.4d · 
+  - `people/huang-diyin.md` age≈0.7d · NO_TYPE, NO_IDENTITY_SNAPSHOT, NO_LAST_REVIEWED
+- Log: `knowledge/operational/janitor-log/2026-09-18.jsonl`
 - Agent auto-apply: **False** (local pin only if enabled)
 - First-mention AUTO: **0**

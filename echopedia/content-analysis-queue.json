@@ -1,40 +1,10 @@
 {
-  "date": "2026-09-17",
+  "date": "2026-09-18",
   "standards_version": 10,
   "total_pages_scanned": 2898,
-  "pages_with_findings": 57,
-  "auto_queued": 21,
+  "pages_with_findings": 35,
+  "auto_queued": 7,
   "queue": [
-    {
-      "path": "organizations/north-america-pastel-artist-association.md",
-      "findings": [
-        "LINKS_HIGH_DENSITY",
-        "STRUCT_NO_HISTORY",
-        "READABILITY_LONG_SENTENCES_32wps"
-      ],
-      "priority": "medium",
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol",
-        "Fix ONLY listed findings — no inventing biography",
-        "Update last_reviewed after fixes",
-        "Commit only (no publish)"
-      ]
-    },
-    {
-      "path": "organizations/taiwanese-american-association-mid-peninsula-taiwanese.md",
-      "findings": [
-        "STRUCT_NO_HISTORY",
-        "READABILITY_LONG_SENTENCES_30wps",
-        "READABILITY_MANY_LONG_SENTENCES_4"
-      ],
-      "priority": "medium",
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol",
-        "Fix ONLY listed findings — no inventing biography",
-        "Update last_reviewed after fixes",
-        "Commit only (no publish)"
-      ]
-    },
     {
       "path": "organizations/taiwanese-american-religious-study-association-southern-california-tarsa-sc.md",
       "findings": [
@@ -51,40 +21,10 @@
       ]
     },
     {
-      "path": "organizations/taiwanese-american-senior-society-tass-of-greater-washington-dc.md",
-      "findings": [
-        "STRUCT_NO_HISTORY",
-        "READABILITY_LONG_SENTENCES_36wps",
-        "READABILITY_MANY_LONG_SENTENCES_4"
-      ],
-      "priority": "medium",
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol",
-        "Fix ONLY listed findings — no inventing biography",
-        "Update last_reviewed after fixes",
-        "Commit only (no publish)"
-      ]
-    },
-    {
-      "path": "people/ching-sze-hsieh.md",
+      "path": "people/ahhee-hsu.md",
       "findings": [
         "DESC_NO_TITLE_MENTION",
-        "READABILITY_LONG_SENTENCES_45wps",
-        "READABILITY_MANY_LONG_SENTENCES_4"
-      ],
-      "priority": "medium",
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol",
-        "Fix ONLY listed findings — no inventing biography",
-        "Update last_reviewed after fixes",
-        "Commit only (no publish)"
-      ]
-    },
-    {
-      "path": "people/dr-ching-c-shir.md",
-      "findings": [
-        "DESC_NO_TITLE_MENTION",
-        "LINKS_HIGH_DENSITY"
+        "READABILITY_MANY_LONG_SENTENCES_7"
       ],
       "priority": "medium",
       "instructions": [
@@ -109,25 +49,10 @@
       ]
     },
     {
-      "path": "people/dr-peter-huang.md",
+      "path": "people/dr-ming-cheng-liau.md",
       "findings": [
         "DESC_NO_TITLE_MENTION",
-        "LINKS_HIGH_DENSITY"
-      ],
-      "priority": "medium",
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol",
-        "Fix ONLY listed findings — no inventing biography",
-        "Update last_reviewed after fixes",
-        "Commit only (no publish)"
-      ]
-    },
-    {
-      "path": "people/gwhyneth-chen.md",
-      "findings": [
-        "LINKS_NO_RELATED",
-        "STRUCT_NO_RELATED",
-        "READABILITY_MANY_LONG_SENTENCES_11"
+        "READABILITY_MANY_LONG_SENTENCES_4"
       ],
       "priority": "medium",
       "instructions": [
@@ -152,52 +77,10 @@
       ]
     },
     {
-      "path": "people/martin-tsai.md",
+      "path": "people/peggy-huang.md",
       "findings": [
         "DESC_NO_TITLE_MENTION",
         "READABILITY_MANY_LONG_SENTENCES_4"
-      ],
-      "priority": "medium",
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol",
-        "Fix ONLY listed findings — no inventing biography",
-        "Update last_reviewed after fixes",
-        "Commit only (no publish)"
-      ]
-    },
-    {
-      "path": "people/prof-mingchi-wu.md",
-      "findings": [
-        "DESC_NO_TITLE_MENTION",
-        "READABILITY_MANY_LONG_SENTENCES_4"
-      ],
-      "priority": "medium",
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol",
-        "Fix ONLY listed findings — no inventing biography",
-        "Update last_reviewed after fixes",
-        "Commit only (no publish)"
-      ]
-    },
-    {
-      "path": "people/rue-lin-hung.md",
-      "findings": [
-        "DESC_NO_TITLE_MENTION",
-        "LINKS_HIGH_DENSITY"
-      ],
-      "priority": "medium",
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol",
-        "Fix ONLY listed findings — no inventing biography",
-        "Update last_reviewed after fixes",
-        "Commit only (no publish)"
-      ]
-    },
-    {
-      "path": "people/symeon-woo.md",
-      "findings": [
-        "DESC_NO_TITLE_MENTION",
-        "LINKS_HIGH_DENSITY"
       ],
       "priority": "medium",
       "instructions": [
@@ -220,98 +103,8 @@
         "Update last_reviewed after fixes",
         "Commit only (no publish)"
       ]
-    },
-    {
-      "path": "sources/conbrio-board-bio.md",
-      "findings": [
-        "LINKS_LOW_DENSITY",
-        "LINKS_NO_RELATED",
-        "STRUCT_NO_STATS"
-      ],
-      "priority": "medium",
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol",
-        "Fix ONLY listed findings — no inventing biography",
-        "Update last_reviewed after fixes",
-        "Commit only (no publish)"
-      ]
-    },
-    {
-      "path": "sources/morenews-interview.md",
-      "findings": [
-        "DESC_NO_TITLE_MENTION",
-        "LINKS_NO_RELATED",
-        "STRUCT_NO_STATS"
-      ],
-      "priority": "medium",
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol",
-        "Fix ONLY listed findings — no inventing biography",
-        "Update last_reviewed after fixes",
-        "Commit only (no publish)"
-      ]
-    },
-    {
-      "path": "sources/ntch-lib-recordings.md",
-      "findings": [
-        "DESC_NO_TITLE_MENTION",
-        "LINKS_NO_RELATED",
-        "STRUCT_NO_STATS"
-      ],
-      "priority": "medium",
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol",
-        "Fix ONLY listed findings — no inventing biography",
-        "Update last_reviewed after fixes",
-        "Commit only (no publish)"
-      ]
-    },
-    {
-      "path": "sources/ntcpetv-ptsi-bio.md",
-      "findings": [
-        "DESC_NO_TITLE_MENTION",
-        "LINKS_NO_RELATED",
-        "STRUCT_NO_STATS"
-      ],
-      "priority": "medium",
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol",
-        "Fix ONLY listed findings — no inventing biography",
-        "Update last_reviewed after fixes",
-        "Commit only (no publish)"
-      ]
-    },
-    {
-      "path": "sources/patch-elcerrito-2011.md",
-      "findings": [
-        "DESC_NO_TITLE_MENTION",
-        "LINKS_NO_RELATED",
-        "STRUCT_NO_STATS"
-      ],
-      "priority": "medium",
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol",
-        "Fix ONLY listed findings — no inventing biography",
-        "Update last_reviewed after fixes",
-        "Commit only (no publish)"
-      ]
-    },
-    {
-      "path": "sources/servicespace-awakin-chen.md",
-      "findings": [
-        "DESC_NO_TITLE_MENTION",
-        "LINKS_NO_RELATED",
-        "STRUCT_NO_STATS"
-      ],
-      "priority": "medium",
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol",
-        "Fix ONLY listed findings — no inventing biography",
-        "Update last_reviewed after fixes",
-        "Commit only (no publish)"
-      ]
     }
   ],
-  "suppressed_findings": 1869,
-  "fp_history_entries": 2019
+  "suppressed_findings": 1945,
+  "fp_history_entries": 2036
 }

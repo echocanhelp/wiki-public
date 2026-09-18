@@ -1,0 +1,4 @@
+people/emily-x-r-pan.md
+people/juliar-wang.md
+organizations/natea-southern-california.md
+people/i-ling-chen.md

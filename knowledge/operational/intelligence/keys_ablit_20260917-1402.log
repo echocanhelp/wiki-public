@@ -1,0 +1,9 @@
+=== keys-ablit gate watch start 2026-09-17T14:02:44-07:00 ===
+2026-09-17T14:02:45-07:00 GATE OPEN (probe 200)
+2026-09-17T14:02:45-07:00 downloading drowzeys/keys-Qwen3.8-flash-next-ablit-Mia-Single-Spark-only
+path=/home/leedt/models/qwen38-flash-next-keys-ablit
+99G	/home/leedt/models/qwen38-flash-next-keys-ablit
+quant groups: []
+2026-09-17T14:02:45-07:00 download complete
+curl: (56) Recv failure: Connection reset by peer
+2026-09-17T14:02:45-07:00 GATED (util=0% inflight=?); retry 10min

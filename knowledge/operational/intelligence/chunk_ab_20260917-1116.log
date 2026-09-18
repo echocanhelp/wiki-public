@@ -1,0 +1,26 @@
+=== chunk A/B start 2026-09-17T11:16:13-07:00 ===
+restarted with CHUNK=2048 2026-09-17T11:16:17-07:00
+num_spec_tokens=3
+OK   enable-sleep-mode
+OK   sleep-routes DEV_MODE = 1
+verify_worker_flags: FAIL (worker/flash)
+"content":"chunk2048 ok"
+--- mixed probe: 2 streams decoding while a 60k prompt prefills ---
+s0: chunk-gap p50 966 ms | p95 1262 ms | max 1411 ms | n 161
+s1: chunk-gap p50 972 ms | p95 1263 ms | max 1411 ms | n 154
+--- single-stream bench ---
+short2: temp 50->54C | prefill 66 tok 214 ms (308 tok/s) | decode 1013 tok 42.3 s (23.9 tok/s) | acc 1.08 tok/round (36% draft accept)
+seed1k2: temp 50->54C | prefill 2676 tok 1508 ms (1775 tok/s) | decode 512 tok 22.4 s (22.8 tok/s) | acc 1.05 tok/round (35% draft accept)
+short3: temp 50->54C | prefill 66 tok 220 ms (301 tok/s) | decode 1005 tok 42.7 s (23.6 tok/s) | acc 1.07 tok/round (36% draft accept)
+seed1k3: temp 50->54C | prefill 2676 tok 1533 ms (1746 tok/s) | decode 512 tok 21.5 s (23.8 tok/s) | acc 1.09 tok/round (36% draft accept)
+
+=== SUMMARY (mean ± CV) ===
+short-prompt decode: prefill 179 tok/s (CV 58.2%) | decode 23.7 tok/s (CV 0.9%) | accept 1.08 tok/round (CV 1.2%)
+1k-seed track-like: prefill 1534 tok/s (CV 18.2%) | decode 23.6 tok/s (CV 2.5%) | accept 1.09 tok/round (CV 2.6%)
+--- swarm bench ---
+c= 1: aggregate 22.2 tok/s | per-stream 22.2 (min 22.2 max 22.2) | TTFT med 216 ms max 216 ms | acc 1.00 tok/round | temp 50C
+c= 4: aggregate 60.8 tok/s | per-stream 15.7 (min 15.0 max 16.6) | TTFT med 1096 ms max 1097 ms | acc 1.08 tok/round | temp 50C
+c= 8: aggregate 68.5 tok/s | per-stream 9.9 (min 8.7 max 11.2) | TTFT med 445 ms max 446 ms | acc 1.01 tok/round | temp 49C
+c=10: aggregate 116.1 tok/s | per-stream 12.9 (min 12.5 max 13.5) | TTFT med 496 ms max 498 ms | acc 1.01 tok/round | temp 50C
+=== chunk A/B done 2026-09-17T11:44:40-07:00 — compare vs baseline in bench_mtp_sweep_2026-09-13.json ===
+KEEP: drop-in stays. REVERT: rm /home/leedt/.config/systemd/user/qwen38-vllm-longctx.service.d/30-chunk-ab.conf && systemctl --user daemon-reload && systemctl --user restart qwen38-vllm-longctx.service

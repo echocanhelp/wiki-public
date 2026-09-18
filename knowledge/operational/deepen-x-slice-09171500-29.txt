@@ -1,0 +1,4 @@
+people/daniel-lu.md
+people/c-lee-chang.md
+organizations/taiwan-human-rights-and-culture-association.md
+organizations/hakka-foundation.md

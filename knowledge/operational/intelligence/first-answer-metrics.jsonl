@@ -680,3 +680,4 @@
 {"ts": "2026-09-14T19:56:59Z", "status": "miss", "query": "Morning", "slug": null, "source": "brain", "kind": null}
 {"ts": "2026-09-14T19:59:22Z", "status": "miss", "query": "Yes thats me", "slug": null, "source": "brain", "kind": null}
 {"ts": "2026-09-14T19:59:32Z", "status": "miss", "query": "/sethome", "slug": null, "source": "brain", "kind": null}
+{"ts": "2026-09-17T21:55:29Z", "status": "hit", "query": "[Hsuperman] what is the nemotron for", "slug": "american-citizens-for-taiwan", "source": "brain", "kind": "organization"}

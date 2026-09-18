@@ -1,0 +1,4 @@
+people/richard-j-shih.md
+people/kenneth-j-kao.md
+organizations/taiwanese-american-of-dayton.md
+organizations/cornell-taiwanese-american-society.md

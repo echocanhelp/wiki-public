@@ -1,0 +1,4 @@
+organizations/chunglun-presbyterian-church.md
+people/jen-chan.md
+people/prof-andre-lee.md
+people/lisa-c-williamson.md

@@ -1,0 +1,4 @@
+people/i-chun-catherine-chang.md
+people/dr-min-hsiung-liang.md
+people/shun-dar-lin.md
+organizations/l-a-study-group.md

@@ -1,0 +1,4 @@
+people/s-w-yang.md
+people/rev-jim-huang.md
+people/rev-chung-hsin-cho.md
+people/dr-jeffrey-tsai.md

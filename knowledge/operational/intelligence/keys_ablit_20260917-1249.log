@@ -1,0 +1,7 @@
+=== keys-ablit gate watch start 2026-09-17T12:49:56-07:00 ===
+2026-09-17T12:49:56-07:00 GATE OPEN (probe 200)
+2026-09-17T12:49:56-07:00 downloading drowzeys/keys-Qwen3.8-flash-next-ablit-Mia-Single-Spark-only
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+Error: Access denied. This repository requires approval.
+Hint: set HF_DEBUG=1 as environment variable for full traceback.
+2026-09-17T12:49:57-07:00 download interrupted, retry 5min

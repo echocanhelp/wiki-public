@@ -1,0 +1,4 @@
+organizations/taiwanese-american-outreach-association.md
+people/chun-chieh-chiu.md
+people/ing-hui-lai.md
+people/david-yang.md

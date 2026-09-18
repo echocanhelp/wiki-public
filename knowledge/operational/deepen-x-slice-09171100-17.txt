@@ -1,0 +1,4 @@
+organizations/taiwanese-american-student-association-at-ucr.md
+organizations/greater-sacramento-taiwanese-association-gsta.md
+people/yuan-shuh-lii.md
+people/lisa-s-lin-ying.md

@@ -1,0 +1,180 @@
+{
+  "date": "2026-09-18",
+  "total_cards": 15,
+  "evaluated_file": "/home/leedt/echo-system/knowledge/operational/evaluated/2026-09-18.json",
+  "priority_counts": {
+    "high": 3,
+    "medium": 10,
+    "low": 2
+  },
+  "playbook_counts": {
+    "P8": 15
+  },
+  "cards": [
+    {
+      "card_id": "echo-gen-2026-09-18-0001",
+      "title": "[HIGH] ahhee-hsu: Ensure the first paragraph mentions the page subject",
+      "body": "## Task: [HIGH] ahhee-hsu: Ensure the first paragraph mentions the page subject\n\n**Priority:** high\n**Playbook:** P8\n**Page:** `people/ahhee-hsu.md`\n**Finding:** `DESC_NO_TITLE_MENTION`\n**Score:** 31.5 (inbound links: 21)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/people/ahhee-hsu.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-09-18 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Ensure the first paragraph mentions the page subject\n**Detail:** The first paragraph should reference the person/organization this page is about.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: DESC_NO_TITLE_MENTION\nPage type: people\nType weight: 1.5\nFinding weight: 1.0",
+      "priority": "high",
+      "playbook": "P8",
+      "page": "people/ahhee-hsu.md",
+      "finding": "DESC_NO_TITLE_MENTION",
+      "score": 31.5,
+      "target_path": "/home/leedt/echo-system/content/people/ahhee-hsu.md"
+    },
+    {
+      "card_id": "echo-gen-2026-09-18-0002",
+      "title": "[HIGH] taiwanese-american-religious-study-association-southern-california-tarsa-sc: Add ## History section",
+      "body": "## Task: [HIGH] taiwanese-american-religious-study-association-southern-california-tarsa-sc: Add ## History section\n\n**Priority:** high\n**Playbook:** P8\n**Page:** `organizations/taiwanese-american-religious-study-association-southern-california-tarsa-sc.md`\n**Finding:** `STRUCT_NO_HISTORY`\n**Score:** 19.5 (inbound links: 6)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/organizations/taiwanese-american-religious-study-association-southern-california-tarsa-sc.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-09-18 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Add ## History section\n**Detail:** Add a History section with key dates, milestones, and events. Include dates and brief descriptions.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: STRUCT_NO_HISTORY\nPage type: organizations\nType weight: 1.3\nFinding weight: 2.5",
+      "priority": "high",
+      "playbook": "P8",
+      "page": "organizations/taiwanese-american-religious-study-association-southern-california-tarsa-sc.md",
+      "finding": "STRUCT_NO_HISTORY",
+      "score": 19.5,
+      "target_path": "/home/leedt/echo-system/content/organizations/taiwanese-american-religious-study-association-southern-california-tarsa-sc.md"
+    },
+    {
+      "card_id": "echo-gen-2026-09-18-0003",
+      "title": "[HIGH] ahhee-hsu: Break up long sentences",
+      "body": "## Task: [HIGH] ahhee-hsu: Break up long sentences\n\n**Priority:** high\n**Playbook:** P8\n**Page:** `people/ahhee-hsu.md`\n**Finding:** `READABILITY_MANY_LONG_SENTENCES_7`\n**Score:** 15.75 (inbound links: 21)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/people/ahhee-hsu.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-09-18 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Break up long sentences\n**Detail:** Multiple sentences exceed 50 words. Break them up for readability.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: READABILITY_MANY_LONG_SENTENCES\nPage type: people\nType weight: 1.5\nFinding weight: 0.5",
+      "priority": "high",
+      "playbook": "P8",
+      "page": "people/ahhee-hsu.md",
+      "finding": "READABILITY_MANY_LONG_SENTENCES_7",
+      "score": 15.75,
+      "target_path": "/home/leedt/echo-system/content/people/ahhee-hsu.md"
+    },
+    {
+      "card_id": "echo-gen-2026-09-18-0004",
+      "title": "[MEDIUM] dr-ming-cheng-liau: Ensure the first paragraph mentions the page subject",
+      "body": "## Task: [MEDIUM] dr-ming-cheng-liau: Ensure the first paragraph mentions the page subject\n\n**Priority:** medium\n**Playbook:** P8\n**Page:** `people/dr-ming-cheng-liau.md`\n**Finding:** `DESC_NO_TITLE_MENTION`\n**Score:** 6.0 (inbound links: 4)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/people/dr-ming-cheng-liau.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-09-18 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Ensure the first paragraph mentions the page subject\n**Detail:** The first paragraph should reference the person/organization this page is about.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: DESC_NO_TITLE_MENTION\nPage type: people\nType weight: 1.5\nFinding weight: 1.0",
+      "priority": "medium",
+      "playbook": "P8",
+      "page": "people/dr-ming-cheng-liau.md",
+      "finding": "DESC_NO_TITLE_MENTION",
+      "score": 6.0,
+      "target_path": "/home/leedt/echo-system/content/people/dr-ming-cheng-liau.md"
+    },
+    {
+      "card_id": "echo-gen-2026-09-18-0005",
+      "title": "[MEDIUM] william-h-lee: Ensure the first paragraph mentions the page subject",
+      "body": "## Task: [MEDIUM] william-h-lee: Ensure the first paragraph mentions the page subject\n\n**Priority:** medium\n**Playbook:** P8\n**Page:** `people/william-h-lee.md`\n**Finding:** `DESC_NO_TITLE_MENTION`\n**Score:** 6.0 (inbound links: 4)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/people/william-h-lee.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-09-18 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Ensure the first paragraph mentions the page subject\n**Detail:** The first paragraph should reference the person/organization this page is about.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: DESC_NO_TITLE_MENTION\nPage type: people\nType weight: 1.5\nFinding weight: 1.0",
+      "priority": "medium",
+      "playbook": "P8",
+      "page": "people/william-h-lee.md",
+      "finding": "DESC_NO_TITLE_MENTION",
+      "score": 6.0,
+      "target_path": "/home/leedt/echo-system/content/people/william-h-lee.md"
+    },
+    {
+      "card_id": "echo-gen-2026-09-18-0006",
+      "title": "[MEDIUM] dr-evan-ling: Ensure the first paragraph mentions the page subject",
+      "body": "## Task: [MEDIUM] dr-evan-ling: Ensure the first paragraph mentions the page subject\n\n**Priority:** medium\n**Playbook:** P8\n**Page:** `people/dr-evan-ling.md`\n**Finding:** `DESC_NO_TITLE_MENTION`\n**Score:** 4.5 (inbound links: 3)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/people/dr-evan-ling.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-09-18 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Ensure the first paragraph mentions the page subject\n**Detail:** The first paragraph should reference the person/organization this page is about.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: DESC_NO_TITLE_MENTION\nPage type: people\nType weight: 1.5\nFinding weight: 1.0",
+      "priority": "medium",
+      "playbook": "P8",
+      "page": "people/dr-evan-ling.md",
+      "finding": "DESC_NO_TITLE_MENTION",
+      "score": 4.5,
+      "target_path": "/home/leedt/echo-system/content/people/dr-evan-ling.md"
+    },
+    {
+      "card_id": "echo-gen-2026-09-18-0007",
+      "title": "[MEDIUM] jeffrey-tsung: Ensure the first paragraph mentions the page subject",
+      "body": "## Task: [MEDIUM] jeffrey-tsung: Ensure the first paragraph mentions the page subject\n\n**Priority:** medium\n**Playbook:** P8\n**Page:** `people/jeffrey-tsung.md`\n**Finding:** `DESC_NO_TITLE_MENTION`\n**Score:** 4.5 (inbound links: 3)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/people/jeffrey-tsung.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-09-18 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Ensure the first paragraph mentions the page subject\n**Detail:** The first paragraph should reference the person/organization this page is about.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: DESC_NO_TITLE_MENTION\nPage type: people\nType weight: 1.5\nFinding weight: 1.0",
+      "priority": "medium",
+      "playbook": "P8",
+      "page": "people/jeffrey-tsung.md",
+      "finding": "DESC_NO_TITLE_MENTION",
+      "score": 4.5,
+      "target_path": "/home/leedt/echo-system/content/people/jeffrey-tsung.md"
+    },
+    {
+      "card_id": "echo-gen-2026-09-18-0008",
+      "title": "[MEDIUM] jeffrey-tsung: UNKNOWN_FINDING_TYPE",
+      "body": "## Task: [MEDIUM] jeffrey-tsung: UNKNOWN_FINDING_TYPE\n\n**Priority:** medium\n**Playbook:** P8\n**Page:** `people/jeffrey-tsung.md`\n**Finding:** `LINKS_HIGH_DENSITY`\n**Score:** 4.5 (inbound links: 3)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/people/jeffrey-tsung.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-09-18 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** UNKNOWN_FINDING_TYPE\n**Detail:** No action mapping for finding: LINKS_HIGH_DENSITY\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: LINKS_HIGH_DENSITY\nPage type: people\nType weight: 1.5\nFinding weight: 1.0",
+      "priority": "medium",
+      "playbook": "P8",
+      "page": "people/jeffrey-tsung.md",
+      "finding": "LINKS_HIGH_DENSITY",
+      "score": 4.5,
+      "target_path": "/home/leedt/echo-system/content/people/jeffrey-tsung.md"
+    },
+    {
+      "card_id": "echo-gen-2026-09-18-0009",
+      "title": "[MEDIUM] peggy-huang: Ensure the first paragraph mentions the page subject",
+      "body": "## Task: [MEDIUM] peggy-huang: Ensure the first paragraph mentions the page subject\n\n**Priority:** medium\n**Playbook:** P8\n**Page:** `people/peggy-huang.md`\n**Finding:** `DESC_NO_TITLE_MENTION`\n**Score:** 4.5 (inbound links: 3)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/people/peggy-huang.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-09-18 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Ensure the first paragraph mentions the page subject\n**Detail:** The first paragraph should reference the person/organization this page is about.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: DESC_NO_TITLE_MENTION\nPage type: people\nType weight: 1.5\nFinding weight: 1.0",
+      "priority": "medium",
+      "playbook": "P8",
+      "page": "people/peggy-huang.md",
+      "finding": "DESC_NO_TITLE_MENTION",
+      "score": 4.5,
+      "target_path": "/home/leedt/echo-system/content/people/peggy-huang.md"
+    },
+    {
+      "card_id": "echo-gen-2026-09-18-0010",
+      "title": "[MEDIUM] taiwanese-american-religious-study-association-southern-california-tarsa-sc: Break up long sentences",
+      "body": "## Task: [MEDIUM] taiwanese-american-religious-study-association-southern-california-tarsa-sc: Break up long sentences\n\n**Priority:** medium\n**Playbook:** P8\n**Page:** `organizations/taiwanese-american-religious-study-association-southern-california-tarsa-sc.md`\n**Finding:** `READABILITY_LONG_SENTENCES_40wps`\n**Score:** 3.9 (inbound links: 6)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/organizations/taiwanese-american-religious-study-association-southern-california-tarsa-sc.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-09-18 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Break up long sentences\n**Detail:** Average words per sentence exceeds 30. Break up long sentences for readability.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: READABILITY_LONG_SENTENCES\nPage type: organizations\nType weight: 1.3\nFinding weight: 0.5",
+      "priority": "medium",
+      "playbook": "P8",
+      "page": "organizations/taiwanese-american-religious-study-association-southern-california-tarsa-sc.md",
+      "finding": "READABILITY_LONG_SENTENCES_40wps",
+      "score": 3.9,
+      "target_path": "/home/leedt/echo-system/content/organizations/taiwanese-american-religious-study-association-southern-california-tarsa-sc.md"
+    },
+    {
+      "card_id": "echo-gen-2026-09-18-0011",
+      "title": "[MEDIUM] taiwanese-american-religious-study-association-southern-california-tarsa-sc: Break up long sentences",
+      "body": "## Task: [MEDIUM] taiwanese-american-religious-study-association-southern-california-tarsa-sc: Break up long sentences\n\n**Priority:** medium\n**Playbook:** P8\n**Page:** `organizations/taiwanese-american-religious-study-association-southern-california-tarsa-sc.md`\n**Finding:** `READABILITY_MANY_LONG_SENTENCES_4`\n**Score:** 3.9 (inbound links: 6)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/organizations/taiwanese-american-religious-study-association-southern-california-tarsa-sc.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-09-18 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Break up long sentences\n**Detail:** Multiple sentences exceed 50 words. Break them up for readability.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: READABILITY_MANY_LONG_SENTENCES\nPage type: organizations\nType weight: 1.3\nFinding weight: 0.5",
+      "priority": "medium",
+      "playbook": "P8",
+      "page": "organizations/taiwanese-american-religious-study-association-southern-california-tarsa-sc.md",
+      "finding": "READABILITY_MANY_LONG_SENTENCES_4",
+      "score": 3.9,
+      "target_path": "/home/leedt/echo-system/content/organizations/taiwanese-american-religious-study-association-southern-california-tarsa-sc.md"
+    },
+    {
+      "card_id": "echo-gen-2026-09-18-0012",
+      "title": "[MEDIUM] dr-ming-cheng-liau: Break up long sentences",
+      "body": "## Task: [MEDIUM] dr-ming-cheng-liau: Break up long sentences\n\n**Priority:** medium\n**Playbook:** P8\n**Page:** `people/dr-ming-cheng-liau.md`\n**Finding:** `READABILITY_MANY_LONG_SENTENCES_4`\n**Score:** 3.0 (inbound links: 4)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/people/dr-ming-cheng-liau.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-09-18 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Break up long sentences\n**Detail:** Multiple sentences exceed 50 words. Break them up for readability.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: READABILITY_MANY_LONG_SENTENCES\nPage type: people\nType weight: 1.5\nFinding weight: 0.5",
+      "priority": "medium",
+      "playbook": "P8",
+      "page": "people/dr-ming-cheng-liau.md",
+      "finding": "READABILITY_MANY_LONG_SENTENCES_4",
+      "score": 3.0,
+      "target_path": "/home/leedt/echo-system/content/people/dr-ming-cheng-liau.md"
+    },
+    {
+      "card_id": "echo-gen-2026-09-18-0013",
+      "title": "[MEDIUM] william-h-lee: Break up long sentences",
+      "body": "## Task: [MEDIUM] william-h-lee: Break up long sentences\n\n**Priority:** medium\n**Playbook:** P8\n**Page:** `people/william-h-lee.md`\n**Finding:** `READABILITY_MANY_LONG_SENTENCES_5`\n**Score:** 3.0 (inbound links: 4)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/people/william-h-lee.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-09-18 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Break up long sentences\n**Detail:** Multiple sentences exceed 50 words. Break them up for readability.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: READABILITY_MANY_LONG_SENTENCES\nPage type: people\nType weight: 1.5\nFinding weight: 0.5",
+      "priority": "medium",
+      "playbook": "P8",
+      "page": "people/william-h-lee.md",
+      "finding": "READABILITY_MANY_LONG_SENTENCES_5",
+      "score": 3.0,
+      "target_path": "/home/leedt/echo-system/content/people/william-h-lee.md"
+    },
+    {
+      "card_id": "echo-gen-2026-09-18-0014",
+      "title": "[LOW] dr-evan-ling: Break up long sentences",
+      "body": "## Task: [LOW] dr-evan-ling: Break up long sentences\n\n**Priority:** low\n**Playbook:** P8\n**Page:** `people/dr-evan-ling.md`\n**Finding:** `READABILITY_MANY_LONG_SENTENCES_6`\n**Score:** 2.25 (inbound links: 3)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/people/dr-evan-ling.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-09-18 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Break up long sentences\n**Detail:** Multiple sentences exceed 50 words. Break them up for readability.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: READABILITY_MANY_LONG_SENTENCES\nPage type: people\nType weight: 1.5\nFinding weight: 0.5",
+      "priority": "low",
+      "playbook": "P8",
+      "page": "people/dr-evan-ling.md",
+      "finding": "READABILITY_MANY_LONG_SENTENCES_6",
+      "score": 2.25,
+      "target_path": "/home/leedt/echo-system/content/people/dr-evan-ling.md"
+    },
+    {
+      "card_id": "echo-gen-2026-09-18-0015",
+      "title": "[LOW] peggy-huang: Break up long sentences",
+      "body": "## Task: [LOW] peggy-huang: Break up long sentences\n\n**Priority:** low\n**Playbook:** P8\n**Page:** `people/peggy-huang.md`\n**Finding:** `READABILITY_MANY_LONG_SENTENCES_4`\n**Score:** 2.25 (inbound links: 3)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/people/peggy-huang.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-09-18 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Break up long sentences\n**Detail:** Multiple sentences exceed 50 words. Break them up for readability.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: READABILITY_MANY_LONG_SENTENCES\nPage type: people\nType weight: 1.5\nFinding weight: 0.5",
+      "priority": "low",
+      "playbook": "P8",
+      "page": "people/peggy-huang.md",
+      "finding": "READABILITY_MANY_LONG_SENTENCES_4",
+      "score": 2.25,
+      "target_path": "/home/leedt/echo-system/content/people/peggy-huang.md"
+    }
+  ]
+}

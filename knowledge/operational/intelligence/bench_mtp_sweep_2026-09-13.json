@@ -1,22 +1,90 @@
 {
   "run": "2026-09-13 MTP depth sweep, idle+thermal-gated (GPU <=50C, <=3% util before each leg)",
   "worker": "vLLM qwen38-flash-next-unc-nvfp4, fp8 KV, thinking off, temp 0, seqs 16, GPU_MEM 0.80",
-  "scripts": ["scripts/worker-mtp-bench.py (single-stream short+1k-seed)", "scripts/worker-mtp-swarm-bench.py (c=1/4/8/10)"],
+  "scripts": [
+    "scripts/worker-mtp-bench.py (single-stream short+1k-seed)",
+    "scripts/worker-mtp-swarm-bench.py (c=1/4/8/10)"
+  ],
   "depths": {
-    "2": {"decode_c1_tps": 24.9, "prefill_2k7_tps": 1998, "accept_tok_round": 1.0,
-          "swarm": {"c1": 19.4, "c4": 62.7, "c8": 95.2, "c10": 107.4},
-          "ttft_med_ms": {"c4": 1227, "c8": 1930, "c10": 652},
-          "note": "neutral single-stream, production accept fell 1.13->1.00, TTFT regress at width"},
-    "3": {"decode_c1_tps": 24.9, "prefill_2k7_tps": 1979, "accept_tok_round": 1.13,
-          "swarm": {"c1": 21.8, "c4": 58.9, "c8": 88.9, "c10": 118.6},
-          "ttft_med_ms": {"c4": 431, "c8": 1426, "c10": 565},
-          "per_pos_accept_pct": {"pos0": 69.0, "pos1": 47.1, "pos2": 32.7},
-          "note": "KEEPER. Prefix-cache hit 89.7%. Verified revert: num_spec_tokens=3, verify_worker_flags PASS, chat smoke OK"},
-    "4": {"decode_c1_tps": 20.3, "prefill_2k7_tps": 1971, "accept_tok_round": 1.14,
-          "swarm": {"c1": 17.8, "c4": 48.1, "c8": 85.3, "c10": 103.4},
-          "ttft_med_ms": {"c4": 1132, "c8": 492, "c10": 506},
-          "note": "no acceptance gain from slot4, pays verify cost -> -18% decode, worst aggregate at every width"}
+    "2": {
+      "decode_c1_tps": 24.9,
+      "prefill_2k7_tps": 1998,
+      "accept_tok_round": 1.0,
+      "swarm": {
+        "c1": 19.4,
+        "c4": 62.7,
+        "c8": 95.2,
+        "c10": 107.4
+      },
+      "ttft_med_ms": {
+        "c4": 1227,
+        "c8": 1930,
+        "c10": 652
+      },
+      "note": "neutral single-stream, production accept fell 1.13->1.00, TTFT regress at width"
+    },
+    "3": {
+      "decode_c1_tps": 24.9,
+      "prefill_2k7_tps": 1979,
+      "accept_tok_round": 1.13,
+      "swarm": {
+        "c1": 21.8,
+        "c4": 58.9,
+        "c8": 88.9,
+        "c10": 118.6
+      },
+      "ttft_med_ms": {
+        "c4": 431,
+        "c8": 1426,
+        "c10": 565
+      },
+      "per_pos_accept_pct": {
+        "pos0": 69.0,
+        "pos1": 47.1,
+        "pos2": 32.7
+      },
+      "note": "KEEPER. Prefix-cache hit 89.7%. Verified revert: num_spec_tokens=3, verify_worker_flags PASS, chat smoke OK"
+    },
+    "4": {
+      "decode_c1_tps": 20.3,
+      "prefill_2k7_tps": 1971,
+      "accept_tok_round": 1.14,
+      "swarm": {
+        "c1": 17.8,
+        "c4": 48.1,
+        "c8": 85.3,
+        "c10": 103.4
+      },
+      "ttft_med_ms": {
+        "c4": 1132,
+        "c8": 492,
+        "c10": 506
+      },
+      "note": "no acceptance gain from slot4, pays verify cost -> -18% decode, worst aggregate at every width"
+    }
   },
   "verdict": "Depth 3 stays. Acceptance ceiling is drafter/kernel-bound (cuda.fast board: 1.6 tok-round, 33.8 dec on ds4 GGUF), not depth-tunable.",
-  "caveats": "c1 short-prompt prefill legs show high CV (tiny prompt, startup jitter) - use 1k-seed legs for comparisons. First c=1 swarm samples run warmup-JIT-cheap; use c>=4 legs for A/B."
+  "caveats": "c1 short-prompt prefill legs show high CV (tiny prompt, startup jitter) - use 1k-seed legs for comparisons. First c=1 swarm samples run warmup-JIT-cheap; use c>=4 legs for A/B.",
+  "chunk_ab_2026-09-17": {
+    "test": "max-num-batched-tokens 8192 -> 2048 (drop-in CHUNK=2048)",
+    "hypothesis": "MiaAI mixed-traffic data: narrower chunks halve decode stalls under concurrent prefill, -5.5% prefill",
+    "result": "REVERT. c=8 agg 68.5 vs 88.9 (-23%, target metric WORSE); prefill 1530-1775 vs 1979 (-15%); decode 23.7 vs 24.9 (-5%). Mixed probe p95 1262ms showed no improvement over baseline behavior.",
+    "attribution": "Their win was measured at MAX_NUM_SEQS 4-8, short-context, chunk 2048 base. Our SEQS=16 long-prefix agent traffic pays scheduler/prefill overhead per chunk boundary at 1/4 width.",
+    "verdict": "8192 stays. Recorded so chunk width is not re-tested blind."
+  },
+  "keys_ablit_2026-09-17": {
+    "result": "ROLLBACK \u2014 worker never came up",
+    "crash": "ValueError: no module or parameter named ngram_embedding.shard_0 in Qwen3_8FlashNextNGramEmbedding; available params of ngram_embedding (_MmapNgramEmbedding) are set()",
+    "meaning": "drowzeys/keys-ablit (Mia PLE-in-weights layout) is incompatible with our PLE mmap overlay. Our image mmap-offloads the n-gram table; keys-ablit still carries packed ngram_embedding.shard_* tensors. Same incompatibility would hit a raw Mia checkpoint.",
+    "fix_class": "image/overlay: packed-table builder (Mia start.sh ~27GiB packed PLE) OR disable mmap overlay for that MODEL_DIR. Not a MODEL_DIR-only flip.",
+    "weights_staged": "~/models/qwen38-flash-next-keys-ablit (~99G) kept on disk",
+    "rollback": "rm 40-keys-ablit.conf; docker rm -f; stop+start orcarouter",
+    "retry": {
+      "plan": "hybrid: MODEL_DIR=keys-ablit transformer + VLLM_PLE_MMAP_DIR=orca BF16 table",
+      "why": "keys PLE is U8[2500012,80]+F8 scale[2500012,10] NVFP4; overlay only mmaps BF16/FP8 dense. Crash was AutoWeightsLoader on shard_N.weight_scale.",
+      "code": "vllm_ple_mmap.py skips all ngram_embedding.shard_* and weight_scale_*; serve.sh forwards VLLM_PLE_MMAP_DIR",
+      "result": "FAILED boot 2: PLE hybrid OK, then ValueError: Problem size is not supported for mm_mxfp8 (flashinfer modelopt MXFP8 GEMM). Image cannot run keys/Mia modelopt_mixed on this SM121 shape. ROLLED BACK to orca."
+    },
+    "verdict": "keys-ablit is incompatible with qwen38-flash-dgx:656cdb0 \u2014 PLE layout AND mxfp8 kernel. Do not MODEL_DIR-flip again on this image."
+  }
 }

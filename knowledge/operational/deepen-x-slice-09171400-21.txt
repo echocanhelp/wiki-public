@@ -1,0 +1,4 @@
+people/hanna-huang.md
+people/chi-tien-chang.md
+organizations/student-association-of-taiwan-uw-madison.md
+organizations/global-alliance-for-democracy-and-peace.md

@@ -1,0 +1,4 @@
+people/james-jean.md
+people/hwei-mei-amyhuang.md
+people/dr-tom-f-lue.md
+organizations/taiwanese-association-of-greater-kansas-city-takc.md

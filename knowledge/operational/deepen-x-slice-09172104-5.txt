@@ -1,0 +1,4 @@
+people/f-y-anthony-shaw.md
+organizations/the-yinchin-foundation.md
+organizations/taiwanese-hakka-association-of-the-world.md
+organizations/taiwanese-american-organization-at-uc-irvine.md

@@ -1,0 +1,4 @@
+people/dr-hsinlin-cheng.md
+people/clara-chen.md
+organizations/taiwanese-american-photographers-association.md
+organizations/association-of-taiwanese-students-at-mit.md

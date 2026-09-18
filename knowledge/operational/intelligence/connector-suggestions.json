@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-17T04:45:46.285736",
-  "pages_scanned": 2904,
+  "generated_at": "2026-09-18T04:45:50.723536",
+  "pages_scanned": 2905,
   "capped": true,
   "cap_top_n": 80,
   "summary": {
-    "co_citation_count": 2602,
-    "co_mention_count": 7973,
+    "co_citation_count": 3165,
+    "co_mention_count": 8393,
     "shared_tags_count": 0,
     "orphan_folder_count": 3,
     "kept_co_citation": 80,
@@ -14,24 +14,6 @@
   },
   "suggestions": {
     "co_citation": [
-      {
-        "type": "CO-CITATION",
-        "page1": "people/wei-ming-hwang.md",
-        "page2": "people/zoe-huang.md",
-        "shared_target": "articles/taiwanjustice-net/2022/20220519130616_2022_01_29_台灣女聲樂家_資深古典音樂節目主持人黃瑞芬過_bfc5f319a036a339",
-        "page1_title": "Wei Ming Hwang (黃維明)",
-        "page2_title": "Zoe Huang (黃瑞芬)",
-        "shared_targets_count": 4
-      },
-      {
-        "type": "CO-CITATION",
-        "page1": "people/chien-an-chen.md",
-        "page2": "people/joli-wu.md",
-        "shared_target": "articles/taiwanjustice-net/2024/20240225012121_root_64302d51d03b3c5f",
-        "page1_title": "Chien-An Chen (陳建安)",
-        "page2_title": "Joli Wu (吳昭麗)",
-        "shared_targets_count": 3
-      },
       {
         "type": "CO-CITATION",
         "page1": "organizations/taiwanese-american-association-of-los-angeles-east-san-gabriel-valley.md",
@@ -43,12 +25,21 @@
       },
       {
         "type": "CO-CITATION",
+        "page1": "people/rev-thomas-h-chen.md",
+        "page2": "people/thomas-shu.md",
+        "shared_target": "articles/taiwanjustice-net/2024/20240522044953_root_47725345581e0f61",
+        "page1_title": "Rev. Thomas H. Chen (陳宏文牧師)",
+        "page2_title": "Thomas Shu (許正龍)",
+        "shared_targets_count": 3
+      },
+      {
+        "type": "CO-CITATION",
         "page1": "organizations/aj-wang-foundation-scholarship-fund.md",
         "page2": "organizations/american-citizens-for-taiwan.md",
         "shared_target": "organizations/tah-foundation",
         "page1_title": "AJ WANG FOUNDATION – SCHOLARSHIP FUND",
         "page2_title": "American Citizens for Taiwan (西雅圖美台會)",
-        "shared_targets_count": 2609
+        "shared_targets_count": 2615
       },
       {
         "type": "CO-CITATION",
@@ -57,7 +48,7 @@
         "shared_target": "organizations/tah-foundation",
         "page1_title": "AJ WANG FOUNDATION – SCHOLARSHIP FUND",
         "page2_title": "American Citizens of Taiwan Origin ACTO (美台公民協會)",
-        "shared_targets_count": 2609
+        "shared_targets_count": 2615
       },
       {
         "type": "CO-CITATION",
@@ -66,7 +57,7 @@
         "shared_target": "organizations/tah-foundation",
         "page1_title": "AJ WANG FOUNDATION – SCHOLARSHIP FUND",
         "page2_title": "Ann Arbor Taiwanese Association (安雅堡)",
-        "shared_targets_count": 2609
+        "shared_targets_count": 2615
       },
       {
         "type": "CO-CITATION",
@@ -75,7 +66,7 @@
         "shared_target": "organizations/laguna-woods-village-taiwanese-club",
         "page1_title": "Alumni Association of Chia Yi High School Worldwide (AACHW)",
         "page2_title": "Chang Jung Girls’ High School Alumni Association Southern California",
-        "shared_targets_count": 17
+        "shared_targets_count": 15
       },
       {
         "type": "CO-CITATION",
@@ -84,16 +75,16 @@
         "shared_target": "organizations/laguna-woods-village-taiwanese-club",
         "page1_title": "Alumni Association of Chia Yi High School Worldwide (AACHW)",
         "page2_title": "Formosa Senior Association",
-        "shared_targets_count": 17
+        "shared_targets_count": 15
       },
       {
         "type": "CO-CITATION",
         "page1": "organizations/alumni-association-of-chia-yi-high-school-worldwide.md",
-        "page2": "organizations/joint-alumni-association-of-taiwan-teachers-college-and-normal-univers.md",
+        "page2": "organizations/joint-chinese-university-alumni-association-of-southern-california.md",
         "shared_target": "organizations/laguna-woods-village-taiwanese-club",
         "page1_title": "Alumni Association of Chia Yi High School Worldwide (AACHW)",
-        "page2_title": "Joint Alumni Association of Taiwan Teachers College and Normal University(JTTAA)",
-        "shared_targets_count": 17
+        "page2_title": "Joint Chinese University Alumni Association of Southern California",
+        "shared_targets_count": 15
       },
       {
         "type": "CO-CITATION",
@@ -196,6 +187,33 @@
       },
       {
         "type": "CO-CITATION",
+        "page1": "organizations/center-for-taiwan-international-relations-ctir.md",
+        "page2": "people/de-min-wu.md",
+        "shared_target": "works/taiwaneseamericanhistory-org/ourjourneys47",
+        "page1_title": "Center for Taiwan International Relations, CTIR (台灣國際關係中心)",
+        "page2_title": "Prof. De-Min Wu (吳得民教授)",
+        "shared_targets_count": 16
+      },
+      {
+        "type": "CO-CITATION",
+        "page1": "organizations/center-for-taiwan-international-relations-ctir.md",
+        "page2": "people/dr-robert-y-lai.md",
+        "shared_target": "works/taiwaneseamericanhistory-org/ourjourneys47",
+        "page1_title": "Center for Taiwan International Relations, CTIR (台灣國際關係中心)",
+        "page2_title": "Dr. Robert Y. Lai (賴義雄博士)",
+        "shared_targets_count": 16
+      },
+      {
+        "type": "CO-CITATION",
+        "page1": "organizations/center-for-taiwan-international-relations-ctir.md",
+        "page2": "people/fu-mei-chang.md",
+        "shared_target": "works/taiwaneseamericanhistory-org/ourjourneys47",
+        "page1_title": "Center for Taiwan International Relations, CTIR (台灣國際關係中心)",
+        "page2_title": "Dr. Fu-Mei Chang (張富美博士)",
+        "shared_targets_count": 16
+      },
+      {
+        "type": "CO-CITATION",
         "page1": "organizations/chhong-bi-memorial-fund.md",
         "page2": "organizations/westchester-taiwanese-womens-associationwtwa.md",
         "shared_target": "works/taiwaneseamericanhistory-org/ito-chhong-bi-memorial-fund",
@@ -210,7 +228,25 @@
         "shared_target": "articles/taiwanjustice-net/2021/20210920145945_2021_06_29_台文通訊30週年慶祝會online_52a71221d3029866",
         "page1_title": "Chhong-bi Memorial Fund (聰美姐紀念基會)",
         "page2_title": "Prof. Chin-An Li (李勤岸教授)",
-        "shared_targets_count": 2
+        "shared_targets_count": 6
+      },
+      {
+        "type": "CO-CITATION",
+        "page1": "organizations/chhong-bi-memorial-fund.md",
+        "page2": "people/rev-burton-tan.md",
+        "shared_target": "articles/taiwanjustice-net/2021/20210920145945_2021_06_29_台文通訊30週年慶祝會online_52a71221d3029866",
+        "page1_title": "Chhong-bi Memorial Fund (聰美姐紀念基會)",
+        "page2_title": "Rev. Burton Tan (陳柏壽牧師)",
+        "shared_targets_count": 6
+      },
+      {
+        "type": "CO-CITATION",
+        "page1": "organizations/chhong-bi-memorial-fund.md",
+        "page2": "people/rev-s-y-lin.md",
+        "shared_target": "articles/taiwanjustice-net/2021/20210920145945_2021_06_29_台文通訊30週年慶祝會online_52a71221d3029866",
+        "page1_title": "Chhong-bi Memorial Fund (聰美姐紀念基會)",
+        "page2_title": "Rev. S. Y. Lin (林皙陽牧師)",
+        "shared_targets_count": 6
       },
       {
         "type": "CO-CITATION",
@@ -287,11 +323,20 @@
       {
         "type": "CO-CITATION",
         "page1": "organizations/coalition-of-taiwan-independences.md",
+        "page2": "people/choan-guo-huei.md",
+        "shared_target": "works/taiwaneseamericanhistory-org/ourjourneys37",
+        "page1_title": "Coalition of Taiwan Independence’s (台灣建國聯合陣線)",
+        "page2_title": "郭清江 (Chuan-jiang Kuo)",
+        "shared_targets_count": 13
+      },
+      {
+        "type": "CO-CITATION",
+        "page1": "organizations/coalition-of-taiwan-independences.md",
         "page2": "people/dr-ching-c-shir.md",
         "shared_target": "works/taiwaneseamericanhistory-org/ourjourneys37",
         "page1_title": "Coalition of Taiwan Independence’s (台灣建國聯合陣線)",
         "page2_title": "Dr. Ching C. Shir (石清正博士)",
-        "shared_targets_count": 9
+        "shared_targets_count": 13
       },
       {
         "type": "CO-CITATION",
@@ -300,16 +345,25 @@
         "shared_target": "works/taiwaneseamericanhistory-org/ourjourneys37",
         "page1_title": "Coalition of Taiwan Independence’s (台灣建國聯合陣線)",
         "page2_title": "Dr. Shinn-Sheng Chang (張信行醫師)",
-        "shared_targets_count": 9
+        "shared_targets_count": 13
       },
       {
         "type": "CO-CITATION",
         "page1": "organizations/coalition-of-taiwan-independences.md",
-        "page2": "people/dr-tu-chen.md",
-        "shared_target": "works/taiwaneseamericanhistory-org/ourjourneys37",
+        "page2": "organizations/taiwanese-graduate-student-association-at-uc-davis.md",
+        "shared_target": "works/taiwaneseamericanhistory-org/ourjourneys38",
         "page1_title": "Coalition of Taiwan Independence’s (台灣建國聯合陣線)",
-        "page2_title": "Dr. Tu Chen (陳都博士)",
-        "shared_targets_count": 9
+        "page2_title": "Taiwanese Graduate Student Association at UC Davis",
+        "shared_targets_count": 14
+      },
+      {
+        "type": "CO-CITATION",
+        "page1": "organizations/coalition-of-taiwan-independences.md",
+        "page2": "organizations/taiwanese-student-association-at-uc-davis.md",
+        "shared_target": "works/taiwaneseamericanhistory-org/ourjourneys38",
+        "page1_title": "Coalition of Taiwan Independence’s (台灣建國聯合陣線)",
+        "page2_title": "Taiwanese Student Association at UC Davis",
+        "shared_targets_count": 14
       },
       {
         "type": "CO-CITATION",
@@ -318,16 +372,7 @@
         "shared_target": "works/taiwaneseamericanhistory-org/ourjourneys38",
         "page1_title": "Coalition of Taiwan Independence’s (台灣建國聯合陣線)",
         "page2_title": "David Weng (翁嘉盛)",
-        "shared_targets_count": 11
-      },
-      {
-        "type": "CO-CITATION",
-        "page1": "organizations/coalition-of-taiwan-independences.md",
-        "page2": "people/dr-alex-yang.md",
-        "shared_target": "works/taiwaneseamericanhistory-org/ourjourneys38",
-        "page1_title": "Coalition of Taiwan Independence’s (台灣建國聯合陣線)",
-        "page2_title": "Dr. Alex Yang (楊青博士)",
-        "shared_targets_count": 11
+        "shared_targets_count": 14
       },
       {
         "type": "CO-CITATION",
@@ -336,7 +381,16 @@
         "shared_target": "works/taiwaneseamericanhistory-org/ourjourneys2",
         "page1_title": "Coalition of Taiwan Independence’s (台灣建國聯合陣線)",
         "page2_title": "Ahhee Hsu (許丕龍)",
-        "shared_targets_count": 4
+        "shared_targets_count": 8
+      },
+      {
+        "type": "CO-CITATION",
+        "page1": "organizations/coalition-of-taiwan-independences.md",
+        "page2": "people/dr-teng-lung-hsu.md",
+        "shared_target": "works/taiwaneseamericanhistory-org/ourjourneys2",
+        "page1_title": "Coalition of Taiwan Independence’s (台灣建國聯合陣線)",
+        "page2_title": "Dr. Teng Lung Hsu (許登龍醫師)",
+        "shared_targets_count": 8
       },
       {
         "type": "CO-CITATION",
@@ -345,16 +399,7 @@
         "shared_target": "works/taiwaneseamericanhistory-org/ourjourneys2",
         "page1_title": "Coalition of Taiwan Independence’s (台灣建國聯合陣線)",
         "page2_title": "Eileen Chang (楊宜宜)",
-        "shared_targets_count": 4
-      },
-      {
-        "type": "CO-CITATION",
-        "page1": "organizations/coalition-of-taiwan-independences.md",
-        "page2": "people/vera-hui-pin-hsu.md",
-        "shared_target": "works/taiwaneseamericanhistory-org/ourjourneys2",
-        "page1_title": "Coalition of Taiwan Independence’s (台灣建國聯合陣線)",
-        "page2_title": "Vera Hui-pin Hsu (許惠品)",
-        "shared_targets_count": 4
+        "shared_targets_count": 8
       },
       {
         "type": "CO-CITATION",
@@ -525,7 +570,7 @@
         "shared_target": "organizations/formosan-presbyterian-church-in-los-angeles",
         "page1_title": "Democratic Progressive Party (民主進步黨)",
         "page2_title": "Good Shepherd Taiwanese Presbyterian Church",
-        "shared_targets_count": 76
+        "shared_targets_count": 75
       },
       {
         "type": "CO-CITATION",
@@ -534,7 +579,7 @@
         "shared_target": "organizations/formosan-presbyterian-church-in-los-angeles",
         "page1_title": "Democratic Progressive Party (民主進步黨)",
         "page2_title": "Irvine Taiwanese Presbyterian Church (爾灣台灣基督長老教會 (ITPC))",
-        "shared_targets_count": 76
+        "shared_targets_count": 75
       },
       {
         "type": "CO-CITATION",
@@ -574,6 +619,42 @@
       },
       {
         "type": "CO-CITATION",
+        "page1": "organizations/democratic-progressive-party.md",
+        "page2": "people/chen-shuibian.md",
+        "shared_target": "articles/taiwanjustice-net/2024/20240619171645_root_c0530664ab4c2948",
+        "page1_title": "Democratic Progressive Party (民主進步黨)",
+        "page2_title": "Chen Shui-bian (陳水扁)",
+        "shared_targets_count": 4
+      },
+      {
+        "type": "CO-CITATION",
+        "page1": "organizations/democratic-progressive-party.md",
+        "page2": "people/ma-yingjeou.md",
+        "shared_target": "articles/taiwanjustice-net/2024/20240619171645_root_c0530664ab4c2948",
+        "page1_title": "Democratic Progressive Party (民主進步黨)",
+        "page2_title": "Ma Ying-jeou (馬英九)",
+        "shared_targets_count": 4
+      },
+      {
+        "type": "CO-CITATION",
+        "page1": "organizations/democratic-progressive-party.md",
+        "page2": "people/tsai-ing-wen.md",
+        "shared_target": "articles/taiwanjustice-net/2024/20240619171645_root_c0530664ab4c2948",
+        "page1_title": "Democratic Progressive Party (民主進步黨)",
+        "page2_title": "Tsai Ing-wen (蔡英文)",
+        "shared_targets_count": 4
+      },
+      {
+        "type": "CO-CITATION",
+        "page1": "people/chen-shuibian.md",
+        "page2": "people/ma-yingjeou.md",
+        "shared_target": "articles/taiwanjustice-net/2024/20240425074240_root_795e52aadf3797a0",
+        "page1_title": "Chen Shui-bian (陳水扁)",
+        "page2_title": "Ma Ying-jeou (馬英九)",
+        "shared_targets_count": 3
+      },
+      {
+        "type": "CO-CITATION",
         "page1": "organizations/east-bay-taiwanese-americans-community-service-center-ebtacsc.md",
         "page2": "people/prof-tender-lin.md",
         "shared_target": "works/taiwaneseamericanhistory-org/senior-ebtacsc",
@@ -589,6 +670,33 @@
         "page1_title": "East Bay Taiwanese Americans Community Service Center EBTACSC (東灣台美人社區服務中心)",
         "page2_title": "taiwaneseamericanhistory.org (TAH Foundation)",
         "shared_targets_count": 2
+      },
+      {
+        "type": "CO-CITATION",
+        "page1": "organizations/east-bay-taiwanese-americans-community-service-center-ebtacsc.md",
+        "page2": "organizations/nyu-taiwanese-american-student-society.md",
+        "shared_target": "works/taiwaneseamericanhistory-org/tass-eb",
+        "page1_title": "East Bay Taiwanese Americans Community Service Center EBTACSC (東灣台美人社區服務中心)",
+        "page2_title": "NYU Taiwanese American Student Society",
+        "shared_targets_count": 3
+      },
+      {
+        "type": "CO-CITATION",
+        "page1": "organizations/east-bay-taiwanese-americans-community-service-center-ebtacsc.md",
+        "page2": "organizations/tass-eb.md",
+        "shared_target": "works/taiwaneseamericanhistory-org/tass-eb",
+        "page1_title": "East Bay Taiwanese Americans Community Service Center EBTACSC (東灣台美人社區服務中心)",
+        "page2_title": "〈TASS-EB〉 (北加州東灣台美人長樂會)",
+        "shared_targets_count": 3
+      },
+      {
+        "type": "CO-CITATION",
+        "page1": "organizations/nyu-taiwanese-american-student-society.md",
+        "page2": "organizations/tass-eb.md",
+        "shared_target": "works/taiwaneseamericanhistory-org/tass-eb",
+        "page1_title": "NYU Taiwanese American Student Society",
+        "page2_title": "〈TASS-EB〉 (北加州東灣台美人長樂會)",
+        "shared_targets_count": 3
       },
       {
         "type": "CO-CITATION",
@@ -625,114 +733,6 @@
         "page1_title": "Elder John Lai's Archives (賴永祥長老史料庫)",
         "page2_title": "Hsu Ling-yun Xiucai Memorial Hall (許凌雲秀才紀念館)",
         "shared_targets_count": 18
-      },
-      {
-        "type": "CO-CITATION",
-        "page1": "organizations/elder-john-lai-archives.md",
-        "page2": "organizations/penghu-info.md",
-        "shared_target": "people/hsu-ling-yun",
-        "page1_title": "Elder John Lai's Archives (賴永祥長老史料庫)",
-        "page2_title": "Penghu.info 平台（澎湖知識服務／澎湖記憶庫）",
-        "shared_targets_count": 18
-      },
-      {
-        "type": "CO-CITATION",
-        "page1": "organizations/elder-john-lai-archives.md",
-        "page2": "people/alexander-macdonald.md",
-        "shared_target": "people/george-leslie-mackay",
-        "page1_title": "Elder John Lai's Archives (賴永祥長老史料庫)",
-        "page2_title": "Redirect → George Leslie Mackay (馬偕)",
-        "shared_targets_count": 16
-      },
-      {
-        "type": "CO-CITATION",
-        "page1": "organizations/elder-john-lai-archives.md",
-        "page2": "people/john-lai.md",
-        "shared_target": "organizations/boston-taiwanese-christian-church",
-        "page1_title": "Elder John Lai's Archives (賴永祥長老史料庫)",
-        "page2_title": "Elder John Lai (賴永祥)",
-        "shared_targets_count": 5
-      },
-      {
-        "type": "CO-CITATION",
-        "page1": "organizations/evergreen-class-by-irvine-taiwanese-presbyterian-church-laguna-hills-ca.md",
-        "page2": "organizations/evergreen-senior-university-by-evangelical-formosa-church-of-irvine-esu.md",
-        "shared_target": "works/taiwaneseamericanhistory-org/5-evergreen-by-irvine-taiwanese-presbyterian-church",
-        "page1_title": "Evergreen Class by Irvine Taiwanese Presbyterian Church ，Laguna Hills, CA (長青教室)",
-        "page2_title": "Evergreen Senior University by Evangelical Formosa Church of Irvine ESU (愛恩台福基督教會長春大學)",
-        "shared_targets_count": 2
-      },
-      {
-        "type": "CO-CITATION",
-        "page1": "organizations/evergreen-class-by-irvine-taiwanese-presbyterian-church-laguna-hills-ca.md",
-        "page2": "people/dr-john-hsu.md",
-        "shared_target": "works/taiwaneseamericanhistory-org/ourjourneys107",
-        "page1_title": "Evergreen Class by Irvine Taiwanese Presbyterian Church ，Laguna Hills, CA (長青教室)",
-        "page2_title": "Dr. John Hsu (徐新宏博士)",
-        "shared_targets_count": 7
-      },
-      {
-        "type": "CO-CITATION",
-        "page1": "organizations/evergreen-class-by-irvine-taiwanese-presbyterian-church-laguna-hills-ca.md",
-        "page2": "people/ken-lee.md",
-        "shared_target": "works/taiwaneseamericanhistory-org/ourjourneys107",
-        "page1_title": "Evergreen Class by Irvine Taiwanese Presbyterian Church ，Laguna Hills, CA (長青教室)",
-        "page2_title": "Ken Lee (李彥禎)",
-        "shared_targets_count": 7
-      },
-      {
-        "type": "CO-CITATION",
-        "page1": "organizations/evergreen-class-by-irvine-taiwanese-presbyterian-church-laguna-hills-ca.md",
-        "page2": "people/prof-ju-shey-ho.md",
-        "shared_target": "works/taiwaneseamericanhistory-org/ourjourneys107",
-        "page1_title": "Evergreen Class by Irvine Taiwanese Presbyterian Church ，Laguna Hills, CA (長青教室)",
-        "page2_title": "Prof. Ju-Shey Ho (何汝諧教授)",
-        "shared_targets_count": 7
-      },
-      {
-        "type": "CO-CITATION",
-        "page1": "organizations/evergreen-class-by-irvine-taiwanese-presbyterian-church-laguna-hills-ca.md",
-        "page2": "organizations/houston-formosan-evergreen-association.md",
-        "shared_target": "works/taiwaneseamericanhistory-org/2-houston-formosan-evergreen-association",
-        "page1_title": "Evergreen Class by Irvine Taiwanese Presbyterian Church ，Laguna Hills, CA (長青教室)",
-        "page2_title": "Houston Formosan Evergreen Association (休士頓台灣長春會)",
-        "shared_targets_count": 2
-      },
-      {
-        "type": "CO-CITATION",
-        "page1": "organizations/evergreen-class-by-irvine-taiwanese-presbyterian-church-laguna-hills-ca.md",
-        "page2": "people/dr-mike-kuo.md",
-        "shared_target": "works/taiwaneseamericanhistory-org/ourjourneys233-eng",
-        "page1_title": "Evergreen Class by Irvine Taiwanese Presbyterian Church ，Laguna Hills, CA (長青教室)",
-        "page2_title": "Dr. Mike Kuo (郭正光博士)",
-        "shared_targets_count": 8
-      },
-      {
-        "type": "CO-CITATION",
-        "page1": "organizations/evergreen-class-by-irvine-taiwanese-presbyterian-church-laguna-hills-ca.md",
-        "page2": "people/dr-ming-cheng-liau.md",
-        "shared_target": "works/taiwaneseamericanhistory-org/ourjourneys233-eng",
-        "page1_title": "Evergreen Class by Irvine Taiwanese Presbyterian Church ，Laguna Hills, CA (長青教室)",
-        "page2_title": "Dr. Ming Cheng Liau (廖明徵博士)",
-        "shared_targets_count": 8
-      },
-      {
-        "type": "CO-CITATION",
-        "page1": "organizations/evergreen-class-by-irvine-taiwanese-presbyterian-church-laguna-hills-ca.md",
-        "page2": "organizations/tah-org-65f548288a.md",
-        "shared_target": "works/taiwaneseamericanhistory-org/ourjourneys27-eng",
-        "page1_title": "Evergreen Class by Irvine Taiwanese Presbyterian Church ，Laguna Hills, CA (長青教室)",
-        "page2_title": "大紐約區台灣人基督徒長輩會",
-        "shared_targets_count": 3
-      },
-      {
-        "type": "CO-CITATION",
-        "page1": "organizations/evergreen-class-by-irvine-taiwanese-presbyterian-church-laguna-hills-ca.md",
-        "page2": "people/lin-jialong.md",
-        "shared_target": "works/taiwaneseamericanhistory-org/ourjourneys27-eng",
-        "page1_title": "Evergreen Class by Irvine Taiwanese Presbyterian Church ，Laguna Hills, CA (長青教室)",
-        "page2_title": "Lin Chia-lung / Lin Jia-long (林佳龍)",
-        "shared_targets_count": 3
       }
     ],
     "co_mention": [
@@ -1003,6 +1003,14 @@
       {
         "type": "CO-MENTION",
         "page1": "organizations/bald-eagle-society.md",
+        "page2": "sources/taiwaneseamericanhistory-org-story-corpus.md",
+        "page1_title": "Bald Eagle Society (白首老鷹社)",
+        "page2_title": "taiwaneseamericanhistory.org (TAH Foundation) — Story Corpus",
+        "mention_text": "taiwaneseamericanhistory.org (TAH Foundation) — Story Corpus"
+      },
+      {
+        "type": "CO-MENTION",
+        "page1": "organizations/bald-eagle-society.md",
         "page2": "sources/taiwaneseamericanhistory-org.md",
         "page1_title": "Bald Eagle Society (白首老鷹社)",
         "page2_title": "taiwaneseamericanhistory.org (TAH Foundation)",
@@ -1047,14 +1055,6 @@
         "page1_title": "Boston Taiwanese Biotechnology Association (波士頓台灣人生物科技協會)",
         "page2_title": "Taiwanese Students Association",
         "mention_text": "Taiwanese Students Association"
-      },
-      {
-        "type": "CO-MENTION",
-        "page1": "organizations/boston-taiwanese-biotechnology-association.md",
-        "page2": "sources/taiwaneseamericanhistory-org.md",
-        "page1_title": "Boston Taiwanese Biotechnology Association (波士頓台灣人生物科技協會)",
-        "page2_title": "taiwaneseamericanhistory.org (TAH Foundation)",
-        "mention_text": "taiwaneseamericanhistory.org (TAH Foundation)"
       }
     ],
     "shared_tags": []

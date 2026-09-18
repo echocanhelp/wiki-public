@@ -1,0 +1,10 @@
+=== keys-ablit gate watch start 2026-09-17T12:50:50-07:00 ===
+2026-09-17T12:50:50-07:00 GATE OPEN (probe 200)
+2026-09-17T12:50:50-07:00 downloading drowzeys/keys-Qwen3.8-flash-next-ablit-Mia-Single-Spark-only
+path=/home/leedt/models/qwen38-flash-next-keys-ablit
+99G	/home/leedt/models/qwen38-flash-next-keys-ablit
+quant groups: []
+2026-09-17T13:23:43-07:00 download complete
+2026-09-17T13:23:43-07:00 quiesce gate PASSED
+2026-09-17T13:23:46-07:00 restarted on keys-ablit
+FAIL: worker not up in 16 min — CHECK ROLLBACK

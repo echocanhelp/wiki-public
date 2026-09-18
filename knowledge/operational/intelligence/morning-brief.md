@@ -1,4 +1,4 @@
-TAHS · Echopedia morning brief — 2026-09-17
+TAHS · Echopedia morning brief — 2026-09-18
 1 NEED YOU item(s) below; the rest is auto-handled.
 
 🔴 NEED YOU (your judgment only)
@@ -31,21 +31,21 @@ TAHS · Echopedia morning brief — 2026-09-17
 🟡 QUEUE 11 pages WIP/incomplete
 
 🟡 QUEUE / link suggestions (disk)
-ℹ️  INFO  top tips below · full pairs on disk (~10575 scored)
+ℹ️  INFO  top tips below · full pairs on disk (~11558 scored)
 
 🟡 QUEUE / optional link tips (≤5, not NEED YOU)
-🟡 QUEUE 1. Link tip: people/wei-ming-hwang.md ↔ people/zoe-huang.md
-🟡 QUEUE 2. Link tip: people/chien-an-chen.md ↔ people/joli-wu.md
-🟡 QUEUE 3. Link tip: organizations/taiwanese-american-association-of-los-angeles-east-san-gabriel-valley.md ↔ sources/taiwaneseamericanhistory-org.md
-🟡 QUEUE 4. Link tip: organizations/aj-wang-foundation-scholarship-fund.md ↔ organizations/american-citizens-for-taiwan.md
-🟡 QUEUE 5. Link tip: organizations/aj-wang-foundation-scholarship-fund.md ↔ organizations/american-citizens-of-taiwan-origin-acto.md
+🟡 QUEUE 1. Link tip: organizations/taiwanese-american-association-of-los-angeles-east-san-gabriel-valley.md ↔ sources/taiwaneseamericanhistory-org.md
+🟡 QUEUE 2. Link tip: people/rev-thomas-h-chen.md ↔ people/thomas-shu.md
+🟡 QUEUE 3. Link tip: organizations/aj-wang-foundation-scholarship-fund.md ↔ organizations/american-citizens-for-taiwan.md
+🟡 QUEUE 4. Link tip: organizations/aj-wang-foundation-scholarship-fund.md ↔ organizations/american-citizens-of-taiwan-origin-acto.md
+🟡 QUEUE 5. Link tip: organizations/aj-wang-foundation-scholarship-fund.md ↔ organizations/ann-arbor-taiwanese-association.md
 
 ℹ️ SITE (wiki visits; operator self-traffic excluded)
-ℹ️  INFO  wiki 46 visits since cutoff · yday 2026-09-16 = 7 · /people/gwhyneth-chen 8, /people/albert-zh-sku-b-publisher-review 8, /people/lester-tsai 5
+ℹ️  INFO  wiki 56 visits since cutoff · yday 2026-09-17 = 12 · /people/gwhyneth-chen 12, /people/albert-zh-sku-b-publisher-review 9, /people/lester-tsai 5
 
 ✅ AUTO (overnight — evidence)
-✅ AUTO analyzer scanned 2898 queued 21 suppressed 1869
-🟡 QUEUE janitor HOLD leftover 38
-🟡 QUEUE kanban blocked 30
-🔴 NEED YOU cron fail: echopedia-nightly-audit
+✅ AUTO related-pages 1
+✅ AUTO analyzer scanned 2898 queued 7 suppressed 1945
+🟡 QUEUE janitor HOLD leftover 40
+🟡 QUEUE kanban blocked 117
 ℹ️  INFO  only 🔴 NEED YOU requires your reply
