@@ -38,6 +38,7 @@ last_reviewed: 2026-09-18
 
 ## From the record
 
+- 2025-03-23 — TJJ reprint of 楊遠薰's TAF history again records Bob Lin as the youth representative for the 1986 code-of-conduct negotiation and a second-generation leader brought on under president 盧志華 from 1991 ([[articles/taiwanjustice-net/2025/20250323083207_卓甫良與taf的故事-_-楊遠薰_e7aad53f3e593fde|TJJ reprint 2025-03-23]]).
 - 2024-03-02 — Repost of 楊遠薰's TAF history on TJJ reiterates Bob Lin as the youth representative chosen to negotiate the 1986 code of conduct that saved the camp, and as a second-generation leader brought onto camp staff under president 盧志華 from 1991 ([[articles/taiwanjustice-net/2024/20240302042859_root_b4206bcf0ec508d6|楊遠薰《卓甫良與TAF的故事》, TJJ 2024-03-02 repost]]).
 
 - 2021-06-22 — 楊遠薰's TAF history records Bob Lin (林志文) as a TAF camper who, during the 1986 discipline crisis over campers' drinking, was chosen by the youths to negotiate the code of conduct that saved the camp, and was among the second generation recruited onto camp work under president 盧志華 from 1991 ([[articles/taiwanjustice-net/2021/20211205041636_2021_06_22_卓甫良與taf的故事-_-楊遠薰_f06677a469620539|楊遠薰 TAF history, TJJ 2021-06-22]]).
