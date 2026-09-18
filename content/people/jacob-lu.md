@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-18
 ---
 # Jacob Lu (盧能榮)
 
@@ -31,6 +31,11 @@ last_reviewed: 2026-08-17
 ## Family
 
 _No filled family fields on the TAH profile._
+
+## Role in the Community
+
+- The TAH encyclopedia carries two of his own records, both from 2015-11: [[works/taiwaneseamericanhistory-org/691-jacob-lu-e7-9b-a7-e8-83-bd-e6-a6-ae-201511|691. Jacob Lu 盧能榮]] and [[works/taiwaneseamericanhistory-org/314-jacob-lu-e7-9b-a7-e8-83-bd-e6-a6-ae-composer-pianist-201511|314. Jacob Lu 盧能榮, Composer, Pianist]] — corroborating the composer/pianist identity behind the 美國泉音音樂中心 role in his employment table.
+- No other corpus mentions found (memoirs/articles); his community record currently rests on these two first-person encyclopedia entries.
 
 ## Sources
 - [TAH #691 encyclopedia: 691. Jacob Lu 盧能榮 / 2015/11](https://taiwaneseamericanhistory.org/691-jacob-lu-%e7%9b%a7%e8%83%bd%e6%a6%ae-201511/)
