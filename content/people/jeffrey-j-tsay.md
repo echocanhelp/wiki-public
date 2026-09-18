@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-18
 ---
 # Prof. Jeffrey J. Tsay
 
@@ -32,6 +32,23 @@ last_reviewed: 2026-08-17
 ## Family
 
 _No filled family fields on the TAH profile._
+
+## Role in the Community
+- Signed the 2024 TaiwanJustice.net diaspora declaration rejecting China's "one country, two
+  systems" framework in support of the Hong Kong protesters, listed as "Professor Jeffrey J.
+  Tsay, President, North America Taiwanese Profess' Association" — corroborates the NATPA
+  presidency (2019-) in the TAH Employment table:
+  [[articles/taiwanjustice-net/2024/20240221122756_root_53455d7e13136092|Hong Kong support declaration (TaiwanJustice.net, 2024-02)]]
+  Co-signers in that record include FAPA president Dr. Mike Kuo, WUFI-USA chair Prof. Ming Chi
+  Wu, and WFTA president Dr. Ming Hong Chow.
+- TAH Who's Who bibliographic record:
+  [[works/taiwaneseamericanhistory-org/whos-who-1763-jeffrey-j-tsay|1763. Jeffrey J. Tsay]]
+  (band B — full text stays in the vault).
+- Community posts in the Employment table (NATPA-Texas chapter president 2017, TAA-DFW
+  president, TAA South Region director, TAA-DFW 2-28 commemoration chair 2017) connect him to
+  [[organizations/taiwanese-association-of-america-dallas-fort-worth|TAA Dallas-Fort Worth]] and
+  [[organizations/taiwanese-association-of-america|Taiwanese Association of America]]; no
+  memoir corpus text about him was found.
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/jeffrey-j-tsay/)
