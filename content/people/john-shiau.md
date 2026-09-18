@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-18
 ---
 # John Shiau
 
@@ -30,6 +30,9 @@ last_reviewed: 2026-08-17
 ## Employment
 - Minimally Invasive Spine Surgery Institute — 2013- — Founder
 <!-- tah-tables:end -->
+
+## Role in the Community
+- Profiled in the TAH Foundation community record: [[works/taiwaneseamericanhistory-org/111-dr-john-shiau|111. Dr. John Shiau]] (published 2014-11-24), part of the TAH Who's Who story corpus. The record places him in the Taiwanese American physician/entrepreneur cohort (University of Michigan → Minimally Invasive Spine Surgery Institute founder).
 
 ## Family
 
