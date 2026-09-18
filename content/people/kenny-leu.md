@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-18
 ---
 # Kenny Leu (呂蔡嶸)
 
@@ -33,6 +33,14 @@ Accomplishment
 ## Family
 
 _No filled family fields on the TAH profile._
+
+## Role in the Community
+
+Corpus scan (2026-09-18) found no memoir/community-history material mentioning him; the only match is his own encyclopedia record:
+
+- [[works/taiwaneseamericanhistory-org/whos-who-1985-kenny-leu|1985. Kenny Leu 呂蔡嶸]] (2017-12-28) — his TAH Who's Who entry
+
+Rejected match: the "Dr. & Mrs. Fei-Tung & Shiu-Jen Chiu Leu" family of TPC-St. Louis ([[works/taiwaneseamericanhistory-org/ourjourneys305|Our Journeys 305]]) is a different Leu family — not absorbed.
 
 ## Sources
 - [TAH #1985 encyclopedia: 1985. Kenny Leu 呂蔡嶸](https://taiwaneseamericanhistory.org/whos-who-1985-kenny-leu/)
