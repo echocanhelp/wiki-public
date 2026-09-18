@@ -59,3 +59,4 @@ _No filled family fields on the TAH profile._
 - slice 09162200-8 覆核（2026-09-16）：命中集合不變（#124、#1416、ourjourneys-138、winners30、conrad award 頁、index），無新社群材料；HOLD（林明璋 vs 林明彰）維持。SKIP-no-new-material。
 - slice 09170130-5 覆核（2026-09-17）：命中集合不變（#124、#1416、ourjourneys-138、winners30、conrad award 頁、index），全數已吸收並連結；HOLD（林明璋 vs 林明彰）維持。SKIP-no-new-material。
 - slice 09170500-3 recheck (2026-09-17): hit set unchanged (#124, #1416, ourjourneys-138, winners30, conrad award page, works index), all already absorbed and linked; HOLD (林明璋 vs 林明彰) maintained. SKIP-no-new-material.
+- slice 09180131-2 recheck (2026-09-18): hit set unchanged (#124, #1416, ourjourneys-138, winners30, conrad award page, works index), all already absorbed and linked; HOLD (林明璋 vs 林明彰) maintained. SKIP-no-new-material.
