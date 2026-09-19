@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-19
 ---
 # Dr. Jenta Shen (沈仁達醫師)
 
@@ -32,6 +32,10 @@ last_reviewed: 2026-08-17
 ## Family
 
 _No filled family fields on the TAH profile._
+
+## Role in the Community
+
+Corpus review (2026-09-19): the only corpus hit is the subject's own TAH encyclopedia entry — [[works/taiwaneseamericanhistory-org/whos-who-2001-jenta-shen|2001. Dr. Jenta Shen 沈仁達醫師]] (bibliographic record; full text in vault). No memoir/article mentions found in content/works or content/articles beyond this self-record; no additional community facts absorbable this wave.
 
 ## Sources
 - [TAH #2001 encyclopedia: 2001. Dr. Jenta Shen 沈仁達醫師](https://taiwaneseamericanhistory.org/whos-who-2001-jenta-shen/)
