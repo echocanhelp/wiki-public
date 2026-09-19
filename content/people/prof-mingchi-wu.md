@@ -45,7 +45,10 @@ last_reviewed: 2026-09-14
 
 ## Vault cross-checks (absorbed 2026-09-10)
 - 1973 — co-organized the first 美東台灣人夏令會 (July 19–22, 1973, Camp Taconic, NY) as the Pittsburgh 同鄉會 representative, per the TAA founding account [[works/taiwaneseamericanhistory-org/ourjourneys76|TAH #76: Our Journeys 美東夏令會起源]].
-- 2024-02 — signed the Taiwan-justice HK-support statement as 主席 of 臺灣獨立建國聯盟美國本部 (TAUEC US Headquarters), alongside NATPA and FAPA officers: [[articles/taiwanjustice-net/2024/20240221122756_root_53455d7e13136092|taiwanjustice.net statement (2024-02-21)]].
+
+## From the record
+
+- 2019-09-03 — Signed the overseas Taiwanese organizations' joint statement 「拒一國兩制！海外台灣人社團：支持香港反對中國暴政」 as 「臺灣獨立建國聯盟美國本部 主席吳明基教授」 / "Professor Ming Chi Wu, Chair, World United Formosans for Independence-USA", alongside NATPA, FAPA, WTC, WFTA, TAA, NATWA and two memorial foundation officers ([[articles/taiwanjustice-net/2024/20240221122756_root_53455d7e13136092|TJJ record, 2024-02-21 archive of the 2019-09-04 posting]]).
 
 ## Family
 
