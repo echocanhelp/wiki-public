@@ -38,6 +38,10 @@ last_reviewed: 2026-09-18
 - **Daughter:** 黃淑英
 
 
+## From the record
+
+- 2015-10-26 — 台美歷史協會會長鄭炳全博士專訪黃蔡瑞雲女士（「耳聰目明聲如洪鐘，她，黃蔡瑞雲才102歲」），專訪記錄收錄於台灣公義報台美人台加人頻道（[[articles/taiwanjustice-net/2024/20240520034013_root_6f2b431c9cb0cca9|TJJ 台美人台加人索引, 2024-05-20 存檔]]）。
+
 ## Sources
 - [TAH #32 encyclopedia: 32. Ray-Yun Huang Tsai (黃蔡瑞雲)](https://taiwaneseamericanhistory.org/senior-taiwanese-american-32/)
 - [TAH #277 encyclopedia: 277. Ray-Yun Huang Tsai  黃蔡瑞雲](https://taiwaneseamericanhistory.org/ota-277/)
