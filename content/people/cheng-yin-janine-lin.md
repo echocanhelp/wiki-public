@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-17
+last_reviewed: 2026-09-19
 ---
 # Dr. Cheng-Yin Janine Lin (林政穎博士)
 
@@ -34,7 +34,7 @@ Dr. Cheng-Yin (Janine) Lin 林政穎博士 – History of Taiwanese American (T.
 ## Role in the Community
 - Entered the TAH community record in 2018 as a violin/piano musician profiled in the TAH musician series (record 427, published 2018-03-17, bibliographic band B) [[works/taiwaneseamericanhistory-org/musician427|427. Cheng-Yin (Janine) Lin, violin, piano]].
 - Community profile: [[works/taiwaneseamericanhistory-org/whos-who2063-cheng-yin-lin|TAH Who's Who 2063]].
-- Corpus re-grep 2026-09-17: hit set identical to prior absorption — her two TAH records (musician427, Who's Who 2063) and the works index only; no memoir/club mentions in `content/works` or `content/articles` beyond the encyclopedia entry. The Identity Snapshot line citing the T.A. Archives (台美史料中心) reflects her TAH profile's stated role.
+- Corpus re-greps 2026-09-17 and 2026-09-19: hit set identical to prior absorption — her two TAH records (musician427, Who's Who 2063) and the works index only; no memoir/club mentions in `content/works` or `content/articles` beyond the encyclopedia entries. The Identity Snapshot line citing the T.A. Archives (台美史料中心) reflects her TAH profile's stated role.
 
 ## Family
 

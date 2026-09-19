@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-17
+last_reviewed: 2026-09-19
 ---
 # Dr. Kuang Chi Liang (梁礦琪醫師)
 
@@ -45,6 +45,8 @@ Dr. Liang is memorialized three times in the TAH / TAHS story corpus, reflecting
 - [[works/taiwaneseamericanhistory-org/whos-who-1741-kuang-chi-liang|1741. Dr. Kuang Chi Liang 梁鑛琪醫師]] — Who's Who entry, 2017-07-04
 
 HOLD: conflict in Chinese name spelling — 梁礦琪 (this page, TAH #8/#121) vs 梁鑛琪 (TAH Who's Who #1741, 2017). Not auto-merged; both spellings appear in corpus titles.
+
+Corpus re-grep 2026-09-19 (both spellings + English name): hit set in `content/works` / `content/articles` identical to the three records above plus the works index — no new absorbable facts; all hit pages are bibliographic-only records.
 
 ## Sources
 - [TAH #8 encyclopedia: 8. Dr. Kuang Chi Liang (梁礦琪醫師)](https://taiwaneseamericanhistory.org/senior-taiwanese-american-8/)
