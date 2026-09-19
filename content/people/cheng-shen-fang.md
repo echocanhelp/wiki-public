@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-19
 ---
 # Cheng-Shen Fang (范振聲教授)
 
@@ -35,8 +35,8 @@ _No filled family fields on the TAH profile._
 
 ## Role in the Community
 - TAA 會刊主編: at the founding convention of the Taiwanese Association of America (全美台灣同鄉會, 28 founding chapters), elected under president 鄭義和 / vice-president 許和瑞, 范振聲 was put in charge of the association journal (會刊則申范振聲負責) — see [[works/taiwaneseamericanhistory-org/ourjourneys76|Our Journeys 76]] and its English account [[works/taiwaneseamericanhistory-org/ourjourneys76-eng|Our Journeys 76 (EN)]].
-- Part of the early Houston Taiwanese circle that organized 休士頓台灣同鄉會 against KMT consulate control ( memoir lists 范振聲 among the Houston Taiwanese of that era) — see [[works/taiwaneseamericanhistory-org/our-journeys-379|Our Journeys 379]].
-- Author of [[works/taiwaneseamericanhistory-org/135-e5-85-a8-e7-be-8e-e5-8f-b0-e7-81-a3-e5-90-8c-e9-84-8b-e6-9c-83-e7-b0-a1-e4-b|135. 全美台灣同鄉會簡介]] (2015/05) for TAH.
+- Part of the early Houston Taiwanese circle that organized 休士頓台灣同鄉會 against KMT consulate control ("豬寮" memoir era) — listed among the Houston Taiwanese in 陳淮崇's memoir [[works/taiwaneseamericanhistory-org/ourjourneys-139|139. 回憶三十年前休士頓台灣同鄉會的成立]].
+- TAH encyclopedia entry: [[works/taiwaneseamericanhistory-org/286-cheng-shen-fang-e8-8c-83-e6-8c-af-e8-81-b2-201502|286. Cheng-Shen Fang 范振聲 / 2015/02]]; he also authored [[works/taiwaneseamericanhistory-org/135-e5-85-a8-e7-be-8e-e5-8f-b0-e7-81-a3-e5-90-8c-e9-84-8b-e6-9c-83-e7-b0-a1-e4-b|135. 全美台灣同鄉會簡介]] (2015/05).
 - Speaker on 台灣環保問題 at the 台裔夏令會 (Southeast regional session, 第十三屆 1991, Spartanburg SC, hosted by 北卡同鄉會) — see [[works/taiwaneseamericanhistory-org/ourjourneys245|Our Journeys 245]].
 
 ## Sources

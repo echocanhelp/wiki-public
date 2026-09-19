@@ -33,10 +33,16 @@ last_reviewed: 2026-09-19
 
 _No filled family fields on the TAH profile._
 
+## Role in the Community
+
+- Named as a consultant to the **台美公民協會籌備委員會** (TAC League Preparatory Committee) alongside other Bay-area physicians and movement figures (TAH Our Journeys 記錄 #186, 台美公民協會簡介, 2015/11).
+
 ## Sources
 - [TAH #1244 encyclopedia: 1244. Y. C. Hsu 許耀慶 / 2016/08](https://taiwaneseamericanhistory.org/whoswho1244/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/y-c-hsu/)
 
 ## Related Pages
+- [[works/taiwaneseamericanhistory-org/ourjourneys186|186. 台美公民協會簡介 / 台美公民協會籌備委員會]] — consultant listing
+- [[works/taiwaneseamericanhistory-org/whoswho1244|1244. Y. C. Hsu 許耀慶 / 2016/08]]
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

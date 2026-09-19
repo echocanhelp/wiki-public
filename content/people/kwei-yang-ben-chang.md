@@ -21,6 +21,11 @@ last_reviewed: 2026-09-19
 
 Kwei-Yang Ben Chang (張貴洋) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
 
+## Role in the Community
+
+- Served as **秘書長 (Secretary-General)** of 北美臺灣客家公共事務協會 (Taiwan Hakka Association for Public Affairs in North America), under 會長 徐寶乾 (TAH Our Journeys 記錄 #290, 徐民忠, 2017/05).
+- Listed in the 2008 華府台灣同鄉會理事會 roster (TAH Our Journeys 記錄 #138, 陳淮崇, 華府與巴城TAA的誕生, 2015/05).
+
 ## Family
 
 _No filled family fields on the TAH profile._
