@@ -22,6 +22,9 @@ last_reviewed: 2026-09-19
 
 Thin A-tier from [[sources/laijohn-com||laijohn.com]] biog + TAH John Lai card. No official site archived in v1.
 
+## Timeline
+- 2016-05-16 — organization chronicle published in the TAH story corpus: [[works/taiwaneseamericanhistory-org/boston-taiwanese-christian-church|Boston Taiwanese Christian Church 波士頓台灣基督教會]] (bibliographic record only; no memoir prose to absorb).
+
 ## Related Pages
 - [[people/john-lai||Elder John Lai 賴永祥]]
 - [[organizations/elder-john-lai-archives||賴永祥長老史料庫]]

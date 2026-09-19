@@ -33,6 +33,9 @@ last_reviewed: 2026-09-19
 
 _No filled family fields on the TAH profile._
 
+## Role in the Community
+- Profiled in the TAH encyclopedia story corpus: [[works/taiwaneseamericanhistory-org/whoswho1411|1411. Robert Chung 鐘博盈]] (published 2016-11-20). Corpus record is bibliographic only; no memoir prose beyond the existing tah-tables to absorb.
+
 ## Sources
 - [TAH #1411 encyclopedia: 1411. Robert Chung 鐘博盈 / 2016/11](https://taiwaneseamericanhistory.org/whoswho1411/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/robert-chung/)
