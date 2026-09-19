@@ -6,7 +6,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-19
 ---
 # Dr. Paul Chen
 
@@ -36,6 +36,7 @@ TAH Foundation Who’s Who slug `paul-chen`. **No 漢名** on the TAH profile. *
 
 ## Disambiguation
 - [[people/paul-chen||Paul Chen / Paul Y. Chen (陳柏宇)]] — TAHS officer and CPA (TAH #1788). Different person.
+- HOLD: corpus record [[works/taiwaneseamericanhistory-org/whoswho1484|1484. Paul Chen / 2017-01]]（書目記錄のみ）lists BOTH this page and [[people/paul-chen|Paul Chen (陳柏宇)]] as subjects; no text to attribute it to either — not merged.
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/paul-chen/)
