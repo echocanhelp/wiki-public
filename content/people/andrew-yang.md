@@ -77,6 +77,10 @@ Coverage in the taiwanjustice-net corpus harvested into this vault extends his p
 - [[articles/taiwanjustice-net/2021/20210419114512_tag_楊安澤參選紐約市長_898feccf514da586|楊安澤參選紐約市長 (2021/04/19)]]
 - [[articles/taiwanjustice-net/2021/20211023205300_tag_楊安澤宣布敗選_210f393ee83d17b2|楊安澤宣布敗選 (2021/10/23)]] — campaign ended in the Democratic primary.
 
+## From the record
+
+- 2021-01-25 — TJJ's 台美人台加人 channel index carries 「台裔楊安澤新書批美國制度失靈，擬下月組新政黨」 — coverage of his post-campaign book launch and the announced plan to form a new party (the Forward Party), the first Taiwan-media record of his third-party project ([[articles/taiwanjustice-net/2025/20250426142458_category_taiwaneseamerican_page_3_1a2bdc08b6c7bf6c|TJJ 台美人 category 索引, 2025-04-26 存檔]]).
+
 ## Vault deepening note (2026-09-14, vault-only, slice 09140107-11)
 - Father entry now wikilinked to [[people/dr-kei-hsiung-yang||Dr. Kei-Hsiung Yang (楊界雄)]] — his page's Son entry verified on disk (reciprocal).
 - No vault pages exist for Evelyn Yang, Brown University, Columbia Law School, Venture for America, or the Forward Party; tah-tables content is already mirrored in the Timeline. No other existing-slug links apply.

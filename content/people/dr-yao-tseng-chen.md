@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-18
+last_reviewed: 2026-09-19
 ---
 # Dr. Yao-Tseng Chen (陳耀楨醫師)
 
@@ -43,7 +43,7 @@ _No filled family fields on the TAH profile._
 ## Role in the Community
 
 - Corpus presence is his own TAH Who's Who record: [[works/taiwaneseamericanhistory-org/whos-who-2005-yao-tseng-chen|TAH Who's Who #2005 — Dr. Yao-Tseng Chen 陳耀楨醫師]], published 2018-02-01, held as community historical record (value band B).
-- No other memoir/article mentions in the corpus as of 2026-09-18 re-grep; nothing merged beyond the existing TAH profile fields.
+- No other memoir/article mentions in the corpus as of 2026-09-19 re-grep; nothing merged beyond the existing TAH profile fields.
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
