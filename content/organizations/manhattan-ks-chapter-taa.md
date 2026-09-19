@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-18
+last_reviewed: 2026-09-19
 ---
 # Manhattan, KS Chapter / TAA (全美台灣同鄉會曼哈頓分會)
 
