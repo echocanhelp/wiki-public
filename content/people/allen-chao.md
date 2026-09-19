@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-19
 ---
 # Allen Chao (趙宇天博士)
 
@@ -35,6 +35,10 @@ Accomplishment
 - **Wife:** Lee Hwa-Chao
 - **Son:** Michael Chao
 
+
+## Role in the Community
+- Profiled in the TAHS story corpus: [[works/taiwaneseamericanhistory-org/624-allen-chao-e8-b6-99-e5-ae-87-e5-a4-a9-201509|624. Allen Chao 趙宇天 / 2015/09]] (published 2015-09-19, value band B — essay/feature). The community record treats him as a documented figure of the Taiwanese American community in the Inland Empire, California.
+- Corpus match is limited to this bibliographic record; no memoir passages name additional community roles, so the press-kit biography above stands uncorroborated but unchallenged. No date/age conflicts found.
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/allen-chao/)

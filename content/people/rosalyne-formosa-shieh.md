@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-19
 ---
 # Rosalyne Formosa Shieh (謝泊欣)
 
@@ -36,6 +36,11 @@ Rosalyne Formosa Shieh 謝泊欣 – History of Taiwanese American (T.A. Archive
 - **Father:** [[people/ching-sze-hsieh||謝清志博士]]
 - **Mother:** 蔡淑敏
 
+
+## Role in the Community
+- Co-signed the 2021-05-01 Taiwanese American community statement to the Pew Research Center over the merging of Taiwanese data into "Chinese" ("We made it count. Now tell our stories."), listed as **Rosalyne Shieh** among the signatories alongside TACL / Write in Taiwanese Census Campaign leaders — a civic-advocacy record independent of her press-kit biography. See [[works/taiwaneseamerican-org/pew-research-center-taiwanese-american-statement|2021 Pew Research statement]].
+- Personal entry in the TAH Foundation Who's Who encyclopedia, record #124 (2014-12-01): [[works/taiwaneseamericanhistory-org/124-rosalyne-formosa-shieh-e8-ac-9d-e6-b3-8a-e6-ac-a3|124. Rosalyne Formosa Shieh 謝泊欣]]. Bibliographic record only — full text stays in the vault; no biography beyond the tah-tables above was absorbable.
+- Father is [[people/ching-sze-hsieh|謝清志博士 (Dr. Ching-Sze Hsieh)]], who has his own TAH record ([[works/taiwaneseamericanhistory-org/108-e8-ac-9d-e6-b8-85-e5-bf-97-e5-8d-9a-e5-a3-ab-dr-ching-sze-hsieh|TAH #108]]); family connection corroborated by the corpus.
 
 ## Sources
 - [TAH #124 encyclopedia: 124. Rosalyne Formosa Shieh 謝泊欣](https://taiwaneseamericanhistory.org/124-rosalyne-formosa-shieh-%e8%ac%9d%e6%b3%8a%e6%ac%a3/)
