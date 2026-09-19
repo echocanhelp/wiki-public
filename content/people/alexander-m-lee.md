@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-17
+last_reviewed: 2026-09-19
 ---
 # ALEXANDER M. LEE (李豪台)
 
@@ -37,6 +37,7 @@ _No filled family fields on the TAH profile._
 ## Role in the Community
 - Per the TAH corpus record [[works/taiwaneseamericanhistory-org/46-alex-lee-the-first-second-generation-to-be-the-president-of-a-taiwanese-ameri|TAH #46]], Lee was the **first second-generation president of a Taiwanese American association** — the Taiwanese American Association of New Jersey (2013).
 - Also carried in [[works/taiwaneseamericanhistory-org/611-david-ti-e6-88-b4-e9-87-91-e6-98-9f-201509|TAH #611 (2015-09-19)]] — HOLD: conflict, this entry's title names ALEXANDER M. LEE 李豪台 while its original URL/slug refers to David Ti 戴金星; not merged.
+- Disambiguation: the corpus article [[articles/taiwanjustice-net/2022/20220815032000_2022_06_26_政治是性平戰場_-加州跨世代lgbt議員揚起彩虹旗_07e4b6df3357ad1e|臺灣Justice 2022-08-15 政治是性平戰場]] mentions an "Alex Lee 李天明" — a California state assemblyperson, **not** this NJ lawyer; not absorbed.
 
 ## Sources
 - [TAH #46 encyclopedia: 46. ALEXANDER M. LEE 李豪台 /	The first second generation to be the president of a ](https://taiwaneseamericanhistory.org/46-alex-lee-the-first-second-generation-to-be-the-president-of-a-taiwanese-american-association-new-jersey-2013/)

@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-18
+last_reviewed: 2026-09-19
 ---
 # Taiwanese American Association of Arizona (亞歷桑那州)
 
@@ -20,7 +20,7 @@ The Taiwanese American Association of Arizona (TAAA) is a regional chapter of th
 
 ## Role in the Community
 
-The TAH encyclopedia holds a dedicated directory record for the chapter: [[works/taiwaneseamericanhistory-org/arizona-chapter-taa|Taiwanese American Association of Arizona 亞利桑那州台灣同鄉會]] (catalogued 2015-12-30). Arizona's Taiwanese associational life also includes a neighboring FAPA presence, [[works/taiwaneseamericanhistory-org/3-arizona-chapter-fapa|Arizona Chapter / FAPA 台灣人公共事務會亞利桑那州分會]].
+The TAH encyclopedia holds a dedicated directory record for the chapter: [[works/taiwaneseamericanhistory-org/arizona-chapter-taa|Taiwanese American Association of Arizona 亞利桑那州台灣同鄉會]] (catalogued 2015-12-30). The chapter is also credited in the corpus record [[works/taiwaneseamericanhistory-org/taiwanese-american-heritage-week-of-arizona|Taiwanese American Heritage Week of Arizona 亞利桑那州台灣同鄉會]] (2018-03-16) — civic-recognition activity under the chapter name. Arizona's Taiwanese associational life also includes a neighboring FAPA presence, [[works/taiwaneseamericanhistory-org/3-arizona-chapter-fapa|Arizona Chapter / FAPA 台灣人公共事務會亞利桑那州分會]].
 
 HOLD: Chinese name rendered 亞歷桑那州 on this page vs 亞利桑那州台灣同鄉會 in the TAH work record — two transliterations of "Arizona", not merged.
 

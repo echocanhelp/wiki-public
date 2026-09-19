@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-18
+last_reviewed: 2026-09-19
 ---
 # Shaw Fang Jeng (鄭劭方)
 
@@ -38,7 +38,7 @@ last_reviewed: 2026-09-18
 
 ## Role in the Community
 
-- 全美台灣同鄉會會長 (president of the All-U.S. Taiwanese Association). In 2017-11 he led a delegation to Washington DC to call on the Taiwan office in the US (駐美代表高碩); the meeting's stated purpose was 正名 (name change), and the office's post-meeting press release drew protest from participants for not mentioning 正名 — per自由時報 report preserved in the TJJ corpus: [[articles/taiwanjustice-net/2022/20221202051843_2017_11_18_代表台灣_-代表台北經文_-陳如媜-自由時報_2017-11_35774415401ef736|代表台灣、代表台北經文 (2017-11)]].
+- 全美台灣同鄉會會長 (president of the All-U.S. Taiwanese Association). On 2017-11-15 he led a delegation to Washington DC to call on the Taiwan office in the US (駐美代表高碩); the meeting's stated purpose was 正名 (name change), the visit refused media access and ran over an hour, and the office's post-meeting press release drew protest from participants for not mentioning 正名 — per自由時報 report preserved in the TJJ corpus: [[articles/taiwanjustice-net/2022/20221202051843_2017_11_18_代表台灣_-代表台北經文_-陳如媜-自由時報_2017-11_35774415401ef736|代表台灣、代表台北經文 (2017-11)]].
 - TAH encyclopedia profile: [[works/taiwaneseamericanhistory-org/585-shaw-fang-jeng-e9-84-ad-e5-8a-ad-e6-96-b9-201509|TAH #585, Shaw Fang Jeng 鄭劭方, 2015/09]].
 - HOLD: conflict — page Era lists 1961 while the page snapshot gives Geography 台灣/新竹/竹北 and no confirming date in the corpus; era year left unmerged pending source.
 
