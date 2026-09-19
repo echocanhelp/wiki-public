@@ -7,9 +7,12 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-19
 ---
 # Frank Ju-Feng Liu (劉如峰)
+
+## Corpus pass (deepen-x slice 09180400-23, 2026-09-19): SKIP
+Corpus grep of content/works + content/articles for 劉如峰 / Frank Ju-Feng Liu returned 0 hits; no work page exists for TAH #775 either. Nothing absorbable beyond the TAH Who's Who record already on this page. No biography invented, nothing published.
 
 ## Identity Snapshot
 - **English:** Frank Ju-Feng Liu

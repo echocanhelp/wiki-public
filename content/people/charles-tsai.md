@@ -7,9 +7,12 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-19
 ---
 # Charles Tsai (蔡其芳)
+
+## Corpus pass (deepen-x slice 09180400-23, 2026-09-19): SKIP
+Corpus grep of content/works + content/articles for 蔡其芳 / Charles Tsai returned 0 hits; no work page exists for TAH #961 either. Nothing absorbable beyond the TAH Who's Who record already on this page. No biography invented, nothing published.
 
 ## Identity Snapshot
 - **English:** Charles Tsai
