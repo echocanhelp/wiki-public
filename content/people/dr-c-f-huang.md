@@ -29,6 +29,10 @@ last_reviewed: 2026-09-19
 - Dentist — Community — FAPA — President — Taiwanese Association of America, Greater Philadelphia Chapter — President — North American Taiwanese Medical Association, Greater Philadelphia Chapter — President — Florida Emergency Assistance Association (FEAA) (中佛州地區僑界關懷救助協會) — Secretary General
 <!-- tah-tables:end -->
 
+## Role in the Community
+
+HOLD: no substantive corpus hits beyond his own bibliographic record — [[works/taiwaneseamericanhistory-org/whos-who-1885-c-f-huang|1885. Dr. C. F. Huang 黃崇福醫師]] (2017-09-07, held in corpus). Community roles already captured in the employment table (FAPA president; TAAA Greater Philadelphia Chapter president; NATTMA/Greater Philadelphia chapter president; FEAA secretary-general) — nothing absorbable from memoirs; biography not invented here.
+
 ## Family
 
 - **Wife:** 吳雪仔

@@ -30,6 +30,10 @@ Prof. Tien-Cheng Chang 張典正教授 – History of Taiwanese American (T.A. A
 - Univ. of Texas Health Science Center — Assistant Professor, Associate Professor
 <!-- tah-tables:end -->
 
+## Role in the Community
+
+HOLD: no substantive corpus hits beyond his own bibliographic record — [[works/taiwaneseamericanhistory-org/whos-who-1948-tien-cheng-chang|1948. Prof. Tien-Cheng Chang 張典正教授]] (2017-11-16, held in corpus). Note his listed affiliation with the T.A. Archives 台美史料中心 in the snapshot above; no memoir material in works/articles to absorb, biography not invented here.
+
 ## Family
 
 _No filled family fields on the TAH profile._

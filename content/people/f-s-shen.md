@@ -42,7 +42,7 @@ Corpus memoirs place 沈富雄 in the Taiwan independence / blacklist-era moveme
 - **Blacklist-era arrest:** Lin Fu-wen's memoir of the Chen Wen-Chen Memorial Foundation records that, as the essay was being written (~a decade after 陳文成's 1985 death), "our friend Lawyer F.S. Shen (沈富雄) was arrested at the airport — another case of political persecution," amid the wave of blacklisted Taiwanese unable to return home — [[works/taiwaneseamericanhistory-org/ourjourneys8|8. 陳文成教授紀念基金會成立經過 / 林富文]] (EN: [[works/taiwaneseamericanhistory-org/ourjourneys8-eng|ourjourneys8-eng]]).
 - **Return wave, legislative stage:** 朱耀源's account of the three stages of Taiwanese returning after the blacklist loosened lists 沈富雄 among the pro-democracy lawmakers returned to Taiwan's political stage alongside 陳唐山、張富美、蔡同榮、許添財、廖大林 — [[works/taiwaneseamericanhistory-org/ourjourneys259|259. 台灣人回國的三個階段 / 朱耀源 / 10/2016]]. This matches the existing employment record of three Legislative Yuan terms (1993–2005).
 - **Inspiration for study groups:** 劉天良's history of the discussion-group movement notes the 聖東生活座談會 (Oct 1992) was founded partly stimulated by 沈富雄立委's oratory — [[works/taiwaneseamericanhistory-org/ourjourneys212|212. 生活座談會簡史 / 劉天良 / 03/2016]].
-- His own TAH encyclopedia record is held in the corpus: [[works/taiwaneseamericanhistory-org/whos-who-0000-f-s-shen|(no corpus record page — see external TAH #785 source below)]].
+- His own TAH #785 encyclopedia record (2016-01) is cited in Sources below but is not held as a corpus work page.
 
 ## Family
 
