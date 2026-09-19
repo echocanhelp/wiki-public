@@ -36,6 +36,7 @@ Accomplishment
 - Her father, physician 翁義雄, wrote about her choice of a military life in the family memoir 「吾家幼女當軍人」 (01/2018): [[works/taiwaneseamericanhistory-org/mystories616|616. 吾家幼女當軍人]].
 - A community record celebrates the family's four-year Naval Academy legacy: Jensin and her husband John both graduated from the U.S. Naval Academy and retired from the Navy, and daughter Lael and son Peyton both subsequently entered the Academy (一家父母及兒女皆進入美國海軍官校): [[works/taiwaneseamericanhistory-org/ff366|366. John & Jensin Sommer family]].
 - Her TAH encyclopedia entries themselves are in the corpus: [[works/taiwaneseamericanhistory-org/ota-228|228. Jensin W. Sommer 翁正欣]] and [[works/taiwaneseamericanhistory-org/whos-who-559-jensin-w-sommer|559. Jensin W. Sommer 翁正欣]].
+- A further community record places her in Maryland (2020/06) in the TAH story corpus: [[works/taiwaneseamericanhistory-org/jensin-w-sommer|Jensin W. Sommer 翁正欣 in Maryland]].
 
 ## Family
 
