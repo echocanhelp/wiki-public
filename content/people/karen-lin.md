@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-19
 ---
 # Karen Lin (林璇雯)
 
@@ -33,6 +33,11 @@ last_reviewed: 2026-08-17
 ## Family
 
 _No filled family fields on the TAH profile._
+
+## Role in the Community
+- Per the concert review [[works/taiwaneseamericanhistory-org/ourjourneys128|128. 明州「台灣之愛：鄉愁與四季」音樂會 / 陳曼玲 / 2015-04]]: at the "台灣之愛：鄉愁與四季" concert (TAolib, Minnesota), the Minnesota–educated 英華學校 (Yinghua Academy) music director performed first violin in Vivaldi's "Spring" and played Vivaldi's "Summer," part of a program contrasting Taiwanese and Minnesotan seasons; the concert featured a roster of Taiwanese-American musicians organized by music director 鄭光生.
+- Per the Minnesota chronicle [[works/taiwaneseamericanhistory-org/ourjourneys123|123. 明州台美人百年大事 / 曾啟明 / 2015-03]]: in May 2015 she performed (violin) at the online-library Mother's Day lecture-concert on composer 蕭泰然, alongside University of Minnesota music department students and alumni.
+- Own TAH records: [[works/taiwaneseamericanhistory-org/155-karen-lin-e6-9e-97-e7-92-87-e9-9b-af-violinist201502|155. Karen Lin 林璇雯, Violinist / 2015-02]] and [[works/taiwaneseamericanhistory-org/333-karen-lin-e6-9e-97-e7-92-87-e9-9b-af|333. Karen Lin 林璇雯 / 2015-03]].
 
 ## Sources
 - [TAH #333 encyclopedia: 333. Karen Lin 林璇雯 / 2015/03](https://taiwaneseamericanhistory.org/333-karen-lin-%e6%9e%97%e7%92%87%e9%9b%af/)
