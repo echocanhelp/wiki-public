@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-19
 ---
 # David Hsieh (謝漢強)
 
@@ -20,6 +20,10 @@ last_reviewed: 2026-08-17
 - **Source:** TAH Foundation Who’s Who
 
 2. 獲帕克德基金會（David and Lucile Packard Foundation Fellowship for Science and Engineering）87萬5000元科研獎金, 2015
+
+## Role in the Community
+- Received the Presidential Early Career Award for Scientists and Engineers (PECASE, 青年科學家與工程師總統獎) in 2017 — recorded in the TAH award corpus at [[works/taiwaneseamericanhistory-org/35-presidential-early-career-award-for-scientists-and-engineers-david-hsieh|35. PECASE / David Hsieh 謝漢強 / 2017]].
+- Encyclopedia profile record: [[works/taiwaneseamericanhistory-org/whoswho1491|1491. David Hsieh 謝漢強 / 2017/01]].
 
 <!-- tah-tables:start -->
 ## Education

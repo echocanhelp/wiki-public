@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-17
+last_reviewed: 2026-09-19
 ---
 # Dr. Keith Wang (王振濃博士)
 
@@ -32,6 +32,11 @@ last_reviewed: 2026-09-17
 ## Family
 
 _No filled family fields on the TAH profile._
+
+## Role in the Community
+
+ Corpus scan (2026-09-19): the only corpus trace is his own TAH profile record [[works/taiwaneseamericanhistory-org/whos-who-2029-keith-wang|TAH #2029（2018-02-14）]] — a bibliographic capture of the same press-kit source as this page. No memoir, activity report, or community record mentions 王振濃/Keith Wang.
+ SKIP-with-reason: nothing absorbable beyond the press-kit snapshot; no community role documented in the corpus.
 
 ## Sources
 - [TAH #2029 encyclopedia: 2029. Dr. Keith Wang 王振濃博士](https://taiwaneseamericanhistory.org/whos-who-2029-keith-wang/)

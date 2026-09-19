@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-19
 ---
 # Taiwanese Student Association at UIUC
 
@@ -17,6 +17,10 @@ last_reviewed: 2026-08-17
 - **Core roles:** Community organization (TAH directory)
 
 The Taiwanese Student Association at UIUC (UIUC TSA) is a registered student organization at the University of Illinois Urbana-Champaign. It is also registered through the university’s official club platform at one.illinois.edu. The organization’s Chinese name, 台灣學生會, appears on its Instagram profile. Its stated purpose is to serve and connect the Taiwanese community in the Champaign-Urbana region, with particular focus on Taiwanese students and faculty at UIUC.
+
+## Role in the Community
+- Corpus material documents Taiwanese student-club activity at UIUC in 2013 under the name TASC (Taiwanese American Students Club): a family introduction for students (2013-09, [[works/taiwaneseamerican-org/tasc-family-introduction-at-uiuc-for-students|TASC Family Introduction at UIUC]]) and a night market (2013-10, [[works/taiwaneseamerican-org/taiwanese-american-students-club-night-market-at-uiuc|TASC Night Market at UIUC]]).
+- HOLD: conflict — corpus 2013 material names the UIUC Taiwanese student group "TASC"; the TAH directory names it "Taiwanese Student Association (台灣學生會)". Whether these are the same, renamed, or parallel organizations is unverified; not merged.
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-student-association-at-uiuc/)

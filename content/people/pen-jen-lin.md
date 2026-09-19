@@ -7,9 +7,12 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-19
 ---
 # Pen-Jen Lin (林本仁)
+
+## Role in the Community
+- Corpus record: [[works/taiwaneseamericanhistory-org/whoswho1051|TAH #1051（2016-06）]]（bibliographic record only，全文在 vault）。Corpus grep over works/articles found no memoir or article material beyond this record — nothing absorbable; page left as TAH Who's Who baseline.
 
 ## Identity Snapshot
 - **English:** Pen-Jen Lin

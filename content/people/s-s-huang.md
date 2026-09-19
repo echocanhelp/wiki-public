@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-19
 ---
 # S.S. Huang (黃申生)
 
@@ -38,6 +38,12 @@ last_reviewed: 2026-08-17
 - **Daughter:** Kathy溟銘
 - **Daughter:** Helen溟美
 - **Daughter:** Mary溟俐
+
+## Role in the Community
+
+- Wife 楊詠絮 was an editor/主筆 of the 北美洲台灣婦女會 (NATWA) 婦女信箱. In her thanks in the NATWA 千禧年專刊 (2001/04) she credits 黃申生 as one of the "好先生們" of NATWA: during the rushed pre-conference editing he stayed home alone, ran errands in a sudden April snowstorm, and drove with her at midnight to pick up the printed manuscripts ([[works/taiwaneseamericanhistory-org/ourjourneys79|79. 婦女信箱 / 吳美芬 和 楊詠絮]]).
+- Memorial memoir by his wife: [[works/taiwaneseamericanhistory-org/mystories636|636. 紀念先夫黃申生醫師 / 楊詠絮 / 05/2018]] — primary community record of his life; full text stays in the vault.
+- TAH encyclopedia profile: [[works/taiwaneseamericanhistory-org/whoswho2109|2109. S.S. Huang 黃申生 / 05/2018]].
 
 
 ## Sources

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-19
 ---
 # Marina Lin (林淨媺)
 
@@ -29,6 +29,10 @@ last_reviewed: 2026-08-17
 - 紐約瓜地亞藝術高中音樂特殊教育 — 指導老師
 - 華府台語學校 — 音樂老師
 <!-- tah-tables:end -->
+
+## Role in the Community
+- 女高音。林衡哲回憶：他在美東台灣人夏令營聽到林淨媺與小提琴家吳上峰（[[people/shang-feng-wu|吳上峰]]）演出後，立刻邀請兩人到西部演出。她以西方咏嘆調方式唱台灣民謠，「使台灣民謠聽起來像世界名曲」，吳上峰伴奏相得益彰。該場台灣文化之夜約 500 人出席，地點在 La Mirada 的假日旅館，同場有台北基督教聯合兒童合唱團客串（TUF 總幹事王古勳帶病居功）。出自 [[works/taiwaneseamericanhistory-org/ourjourneys301|南加州台灣人聯合基金會（TUF）誔生、回顧與展望（林衡哲，1986-1996）]]。
+- Corpus records: [[works/taiwaneseamericanhistory-org/whoswho1624|TAH #1624]]、[[works/taiwaneseamericanhistory-org/musician394|TAH #394（musician）]]（bibliographic records）。
 
 ## Family
 

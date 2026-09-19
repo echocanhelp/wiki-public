@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-19
 ---
 # Raymond Jeng (鄭英松)
 
@@ -29,6 +29,10 @@ last_reviewed: 2026-08-17
 ## Employment
 - 加州州立大學洛杉磯分校 — 1968-2003 — 系主任
 <!-- tah-tables:end -->
+
+## Role in the Community
+- 台大農學院農工系水利組 1962 級。2018-07 以南加州台大校友身分（署名「鄭英松(農工)」）連署抗議南加州台大校友會邀管中閔來年會做專題演講，見 [[articles/taiwanjustice-net/2018/20180721091303_2018_07_20_抗議-南加州台大校友會邀管中閔來年會做專題演講_a428dcebbceacf38|台灣社會正義連線 2018-07-20 抗議聲明]]（連署逾百人）。
+- Corpus record: [[works/taiwaneseamericanhistory-org/769-raymond-jeng-e9-84-ad-e8-8b-b1-e6-9d-be-201601|TAH #769（2016-01）]]（bibliographic record only，全文在 vault）。
 
 ## Family
 
