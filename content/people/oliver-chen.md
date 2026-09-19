@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-19
 ---
 # Oliver Chen (陳奧利佛)
 
@@ -36,6 +36,10 @@ Accomplishment
 - **Father:** Ram Chen
 - **Mother:** Fu-Me Wu Chen
 
+
+## Role in the Community
+- Corpus sweep 2026-09-19: the vault holds only Oliver Chen's own TAH encyclopedia records — no memoir or community-body mentions found in content/works or content/articles.
+- His records: [[works/taiwaneseamericanhistory-org/ota-239|TAH #239 Oliver Chen 陳奧利佛]] (published 2019-01-29) and [[works/taiwaneseamericanhistory-org/whos-who-676-oliver-chen|TAH #676 Oliver Chen 陳奧利佛]] (published 2015-10-28).
 
 ## Sources
 - [TAH #239 encyclopedia: 239. Oliver Chen 陳奧利佛](https://taiwaneseamericanhistory.org/ota-239/)

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-19
 ---
 # Chih-Yi Chen (陳志毅)
 
@@ -33,6 +33,11 @@ Taiwanese pianist Chih-Yi Chen’s versatile qualities as a collaborative pianis
 ## Family
 
 _No filled family fields on the TAH profile._
+
+## Role in the Community
+- Corpus sweep 2026-09-19: the vault holds only Chih-Yi Chen's own TAH encyclopedia records — no memoir or community-body mentions found in content/works or content/articles.
+- Her records: [[works/taiwaneseamericanhistory-org/305-chih-yi-chen-e9-99-b3-e5-bf-97-e6-af-85-pianist-201510|TAH #305 Chih-Yi Chen 陳志毅, Pianist]] and [[works/taiwaneseamericanhistory-org/675-h-yi-chen-e9-99-b3-e5-bf-97-e6-af-85-201510|TAH #675 Chih-Yi Chen 陳志毅]] (both published 2015-10-24).
+- HOLD: source-site title of record #675 reads "H-Yi Chen 陳志毅" (initial truncated); hanzi matches, treated as the same person per the TAH source.
 
 ## Sources
 - [TAH #305 encyclopedia: 305. Chih-Yi Chen 陳志毅, Pianist / 2015/10](https://taiwaneseamericanhistory.org/305-chih-yi-chen-%e9%99%b3%e5%bf%97%e6%af%85-pianist-201510/)
