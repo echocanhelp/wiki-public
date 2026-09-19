@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-18
+last_reviewed: 2026-09-19
 ---
 # Taiwanese American Citizens League
 
@@ -29,6 +29,7 @@ HOLD: conflict in name — the corpus record titles the organization "Taiwanese 
 
 ## From the record
 
+- 2020-06-16 — A TASF/TJJ press release names TACL (then 35 years old) as co-launcher and issuing body of the Student Covid-19 Relief Scholarship Program, responsible for students outside Greater Los Angeles; the release also catalogues TACL's standing programs — the summer Political Internship Program, high-school community scholarships, journalism internships, 台美人夏令營 and the summer leadership training camp ([[articles/taiwanjustice-net/2020/20200622034426_2020_06_16_給台美人學生的-tasf-covid-19-疫情紓困獎學金接受申請_162effa713237818|TJJ, 2020-06-16]]).
 - 2021-09-26 — 皮尤研究中心修正人口報告將台裔獨立於中國裔統計後，TACL 公民參與事務主任胡若涵（Christina Hu）向 NBC Asian America 回應「要有發言權的第一步，就是我們的存在要獲得承認」；報導並記載 TACL 自 1990 年起推動草根運動，鼓勵台裔美人在歷次人口調查中主張台灣人身分（[[articles/taiwanjustice-net/2021/20211020142022_2021_09_26_美皮尤人口調查報告修正_區隔台裔與華裔分別統_81e80ba38969bf88|TJJ 轉載中央社, 2021-09-26]]）。
 
 ## Sources
