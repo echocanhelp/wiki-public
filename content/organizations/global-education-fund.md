@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-18
+last_reviewed: 2026-09-19
 ---
 # Global Education Fund (美國環球教育基金會)
 
