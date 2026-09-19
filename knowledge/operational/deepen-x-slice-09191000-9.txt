@@ -1,0 +1,4 @@
+people/rev-ai-chih-tsai.md
+people/syaru-shirley-lin.md
+people/david-tsay.md
+people/min-tenmilton-lee.md

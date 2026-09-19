@@ -1,0 +1,4 @@
+people/san-francisco-theological-seminary.md
+people/thomas-liu.md
+people/dr-john-tsuang.md
+people/roger-chen.md

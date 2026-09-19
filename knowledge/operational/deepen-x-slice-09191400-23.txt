@@ -1,0 +1,4 @@
+people/i-s-chen.md
+organizations/global-education-fund.md
+organizations/harvard-griffin-gsas-taiwan-student-association.md
+people/c-h-chiang.md

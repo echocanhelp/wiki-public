@@ -1,0 +1,4 @@
+organizations/kaohsiung-hotel-association.md
+people/dr-poshing-lee.md
+people/c-n-chen.md
+people/allen-chao.md
