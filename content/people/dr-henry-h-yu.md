@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-18
+last_reviewed: 2026-09-19
 ---
 # Dr. Henry H. Yu (游宏仁醫師)
 
@@ -43,6 +43,7 @@ Dr. Yu has been a central institution-builder in the Greater Washington DC Taiwa
 ## Timeline
 - 1986–1987 — listed among TAA Washington D.C./Baltimore leadership (per 陳淮崇's TAA history)
 - 2014-10 — authored 「介紹一個成功的社團—大華府台美人長樂會(TASS)」, archived in the TAH encyclopedia
+- 2018-07 — named among NTU alumni signatories of the TJJ open letter protesting 南加州台大校友會's invitation of 管中閔 as annual-meeting keynote ([[articles/taiwanjustice-net/2018/20180721091303_2018_07_20_抗議-南加州台大校友會邀管中閔來年會做專題演講_a428dcebbceacf38|抗議南加州台大校友會邀管中閔來年會做專題演講, 2018-07-19]])
 - — — President, NATMA Washington D.C. Chapter; President, TASS of Greater Washington DC
 
 ## Sources
