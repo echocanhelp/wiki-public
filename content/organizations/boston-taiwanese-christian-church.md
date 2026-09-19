@@ -8,7 +8,7 @@ tags:
   - church
   - Boston
 verification_status: pending
-last_reviewed: 2026-08-18
+last_reviewed: 2026-09-19
 ---
 # Boston Taiwanese Christian Church (波士頓台灣基督教會)
 

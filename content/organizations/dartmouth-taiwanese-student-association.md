@@ -5,9 +5,11 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-17
+last_reviewed: 2026-09-19
 ---
 # Dartmouth Taiwanese Student Association
+
+<!-- deepen-x 09180400-18: SKIP — corpus 'Dartmouth' hits are not about this org: a FASCA-LA talk by Dartmouth student Nathaniel Chen (陳彥浩), a Jeremy Lin Harvard-vs-Dartmouth game mention, and a Dartmouth Tuck Taiwan study trip. No memoir material names the TSA; nothing absorbable. -->
 
 ## Identity Snapshot
 - **English:** Dartmouth Taiwanese Student Association
