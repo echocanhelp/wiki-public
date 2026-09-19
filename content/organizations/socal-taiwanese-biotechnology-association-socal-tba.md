@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-18
+last_reviewed: 2026-09-19
 ---
 # SoCal Taiwanese Biotechnology Association SoCal TBA (南加台灣生物科技協會)
 

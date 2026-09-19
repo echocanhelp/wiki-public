@@ -38,6 +38,7 @@ _No filled family fields on the TAH profile._
 
 - 2009-06 — 南灣台灣基督長老教會出版「設教二十周年暨陳宏文牧師榮退感恩禮拜紀念」專輯，與其南灣長老教會1989–2009牧養任期吻合（[[works/taiwaneseamericanhistory-org/610-e5-8d-97-e7-81-a3-e5-8f-b0-e7-81-a3-e5-9f-ba-e7-9d-a3-e9-95-b7-e8-80-81-e6-9|TAH #610]]）。
 - 2016-02 — 具名「陳宏文」之〈堅韌的愛－王幸男夫人〉人生紀錄（[[works/taiwaneseamericanhistory-org/mystories407|TAH #407]]）。HOLD: 該文作者是否即本頁牧師，僅具名相符，未確認。
+- 灣區協志會／蓬萊歌劇團紀錄：「陳宏文會長」在蓬萊歌劇團排演「火燒法統記」期間擔憂劇本來不及完成、私下問編導能否如期上演，顯示其時任協志會會長並關注團務（[[works/taiwaneseamericanhistory-org/ourjourneys39|Our Journeys 39]]）。HOLD: 此任會長與本頁明州／南灣牧者是否同一人未確認，不自動合併。
 - 1979-12-28 — 灣區紀錄：施明德太太艾琳達被驅逐出境抵達舊金山機場、百餘同鄉迎接並扭送監視之女特務，女特務控訴在場同鄉後撤回；被指名者含陳宏文（[[works/taiwaneseamericanhistory-org/ourjourneys38|Our Journeys 38]]）。陳宏文亦列名歷任灣區協志會會長中的黑名單人物（[[works/taiwaneseamericanhistory-org/ourjourneys106|Our Journeys 106]]）。HOLD: 此1979灣區時期的陳宏文與本頁明州／南灣牧者是否同一人未確認，不自動合併。
 
 ## Sources

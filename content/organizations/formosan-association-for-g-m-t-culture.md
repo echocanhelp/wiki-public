@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: reviewed
-last_reviewed: 2026-09-18
+last_reviewed: 2026-09-19
 ---
 # FORMOSAN ASSOCIATION FOR G.M.T. CULTURE (台灣人牛罵頭文史拹會)
 
