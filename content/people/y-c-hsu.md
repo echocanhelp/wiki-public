@@ -36,6 +36,7 @@ _No filled family fields on the TAH profile._
 ## Role in the Community
 
 - Named as a consultant to the **台美公民協會籌備委員會** (TAC League Preparatory Committee) alongside other Bay-area physicians and movement figures (TAH Our Journeys 記錄 #186, 台美公民協會簡介, 2015/11).
+- 1982/01/21 — as then-Vice President of the Southern California Taiwanese Association for Interculture (SCTAI), convened a meeting of sixteen Taiwanese community members in Southern California to discuss founding a citizens' league modeled on JACL; the meeting chose the name TACL (Taiwanese American Citizens League) and nominated him to the preparatory team. He stepped down from leading preparations when he took over as President of SCTAI, recommending another colleague to lead the team ([[works/taiwaneseamericanhistory-org/ourjourneys272|Our Journeys 記錄 #272「Dropping Seeds」]]).
 
 ## Sources
 - [TAH #1244 encyclopedia: 1244. Y. C. Hsu 許耀慶 / 2016/08](https://taiwaneseamericanhistory.org/whoswho1244/)
