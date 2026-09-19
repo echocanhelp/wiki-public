@@ -244,6 +244,7 @@ Notable quotes and mentions of **吳澧培** in Taiwan Justice articles:
 ## From the record
 
 - 2015-10-12 — His own memoir preface (TJJ republication): in 2004, as he renounced US citizenship to settle back in Taiwan, House Judiciary Committee chair Howard Berman and two other representatives filed a 「向吳澧培致敬」(Tribute to Li Pei Wu) resolution entered into the Congressional Record — a rare honor; he also recalls that without his friendship with 謝聰敏 he would never have joined the island 台獨 movement ([[articles/taiwanjustice-net/2024/20240425080646_root_9a39a754d2a3b236|TJJ, 2015-10-12]]).
+- 2022-09-13 — A TJJ notice for the 大洛杉磯台灣會館 24th-anniversary fundraising gala credits the center's founding to "吳前董事長澧培的領導" alongside the 1998 land-and-building donation by 王桂榮, recalling his chairmanship during the Center's formative years ([[articles/taiwanjustice-net/2022/20220924222953_2022_09_13_10-22大洛杉磯台灣會館-24-週年募款年會_紀政擔任主講_2a543ddc9301b7b3|TJJ, 2022-09-13]]).
 
 ## Sources
 - [TAH #21 encyclopedia: 21. Li Pei Wu (吳澧培)](https://taiwaneseamericanhistory.org/senior-taiwanese-american-21/)
