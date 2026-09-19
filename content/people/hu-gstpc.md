@@ -7,7 +7,7 @@ tags:
 provisional: true
 verification_status: provisional
 needs_source: true
-last_reviewed: 2026-07-20
+last_reviewed: 2026-09-19
 ---
 # Brother Hu (GSTPC)
 
@@ -27,6 +27,7 @@ Brother Hu appears in GSTPC bulletin records. This is a provisional stub pending
 ## Source Notes and Confidence
 - **Provisional stub**: No source identified that confirms identity or full name
 - Low confidence: Limited source material available
+- 2026-09-19 deepen-x sweep: no corpus hits in works/ or articles/ (only the GSTPC bibliographic record exists, no named-member text). SKIP — nothing absorbable.
 
 ## Name Variants / Disambiguation
 - Chinese: 未知
