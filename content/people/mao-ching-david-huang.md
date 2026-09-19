@@ -53,6 +53,10 @@ Mao-ching (David) Huang 黃茂清 – History of Taiwanese American (T.A. Archiv
 - [TAH #1415 encyclopedia: 1415. Mao-ching (David) Huang 黃茂清 / 2016/12](https://taiwaneseamericanhistory.org/whoswho1415/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/mao-ching-david-huang/)
 
+## From the record
+
+- 2016-11-30 — 「台美人物誌」人物訪談「謙卑、博愛、勇往直前——黃茂清律師專訪」由美洲台灣日報社長李木通主持，刊於 taiwanjustice.net「台美人台加人」專欄（2016-12-01 發布；專欄隨機頁 2024-04-21 快照仍收錄）—— [[articles/taiwanjustice-net/2024/20240421184918_root_9a66943e68f1e0ef|TJJ 台美人台加人頁，2024-04-21 存档]]。
+
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
