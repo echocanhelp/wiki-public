@@ -46,7 +46,7 @@ last_reviewed: 2026-09-19
   - [[works/taiwaneseamericanhistory-org/whoswho1292|1292. B. H. Chen 陳炳煌]]
 - Career record already on file (1931 台灣新民報上海支局長; 1951–1963 豐年雜誌編輯/副社長; 台灣旅行社總經理) is consistent with the corpus framing of a journalist–artist–publisher figure across the pre- and early post-war period.
 - HOLD: conflict — snapshot role line "journalist, artist" vs corpus "第一位出書的漫畫家" (cartoonist); both kept, not merged.
-- Corpus check 2026-09-18: re-grep hit set identical to the records already linked above (my-stories-690, #1, #1292); no new unabsorbed corpus facts.
+- Corpus check 2026-09-19: re-grep hit set identical to the records already linked above (my-stories-690, #1, #1292); no new unabsorbed corpus facts.
 
 ## Sources
 - [TAH #1 encyclopedia: 1. Bing-Huang Chen (陳炳煌)](https://taiwaneseamericanhistory.org/b-h-chen/)

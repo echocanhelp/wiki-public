@@ -22,7 +22,7 @@ The Houston Taiwanese Golden Club is a nonprofit, nonpolitical, and nonreligious
 - The club contributed its own historical record to the TAH story corpus: [[works/taiwaneseamericanhistory-org/houston-taiwanese-golden-club|11. Houston Taiwanese Golden Club 休士頓台灣清閒俱樂部]] (published 2015-03-02, band B).
 - The club appears as a named subject in the community memoir [[works/taiwaneseamericanhistory-org/ourjourneys185|185. 早期台灣人在北美洲的壘球賽 (呂俊廷, 2015-11-20)]], linking it to early Taiwanese-American softball history in North America.
 - Note: the club's own TAH directory entry uses the name form 休士頓台灣清閒俱 (truncated), while its corpus record uses 休士頓台灣清閒俱樂部 — HOLD: name form A vs B, likely truncation rather than a real conflict.
-- Corpus check 2026-09-17: re-grep hits only its own work record, the ourjourneys185 memoir mention, and works/index — no new unabsorbed corpus facts; the name-form HOLD above stands. Re-verified 2026-09-18: hit set unchanged.
+- Corpus check 2026-09-17: re-grep hits only its own work record, the ourjourneys185 memoir mention, and works/index — no new unabsorbed corpus facts; the name-form HOLD above stands. Re-verified 2026-09-19: hit set unchanged.
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/houston-taiwanese-golden-club/)
