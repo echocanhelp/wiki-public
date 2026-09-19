@@ -31,7 +31,9 @@ Best known for completing the molecular selection of potassium channels (完成�
 <!-- tah-tables:end -->
 
 ## Role in the Community
-Documented in the TAH Who's Who encyclopedia record [[works/taiwaneseamericanhistory-org/whos-who-1907-lily-yeh-ja|1907. Prof. Lily Yeh Ja 葉公杼教授]] (published 2017-09-24), which preserves her as a scientist in the Taiwanese American community record — an NTU physics graduate who moved to Caltech (M.S. Physics 1968, Ph.D. Biophysics 1974) and joined UCSF in 1979, rising through assistant, associate, and full professor. Her entry appears in the encyclopedia alongside other Taiwanese American scholars of her generation. No further movement/corpus material found in the vault beyond the TAH record; the vault holds the entry as a bibliographic record with full text in the TAH source.
+Documented in the TAH Who's Who encyclopedia record [[works/taiwaneseamericanhistory-org/whos-who-1907-lily-yeh-ja|1907. Prof. Lily Yeh Ja 葉公杼教授]] (published 2017-09-24), which preserves her as a scientist in the Taiwanese American community record — an NTU physics graduate who moved to Caltech (M.S. Physics 1968, Ph.D. Biophysics 1974) and joined UCSF in 1979, rising through assistant, associate, and full professor. Her entry appears in the encyclopedia alongside other Taiwanese American scholars of her generation.
+
+Corpus absorption (deepen-x 2026-09-19): the community record preserves her highest public honor — with husband Yuh-Nung Jan (詹裕農) she was the **first married couple to win the Vilcek Prize in Biomedical Science** (2017): [[works/taiwaneseamericanhistory-org/33-vilcek-prize-honoring-contributions-of-immigrants-lily-jan-yuh-nung-jan-2017|TAH #33 Vilcek Prize honoring contributions of immigrants (2017)]] and [[works/taiwaneseamericanhistory-org/ff315|TAH #315 Prof. Lily Jan, Prof. Yuh-Nung Jan / First couple to be the winner of Vilcek Prize in Biomedical Science (2017)]]. The corpus names her "Lily Jan"; the Who's Who page name is "Lily Yeh Ja" — HOLD: name-variant (Ja vs Jan) not merged.
 
 ## Family
 
