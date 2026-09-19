@@ -34,7 +34,7 @@ Mree is a Portland based experimental folk artist whose music has drawn the atte
 - Sync placements: original "Santa Catcher" in a Target commercial; cover of "Fame" on ABC's Grey's Anatomy; tracks on Beauty and the Beast (CW), Bones (FOX), Degrassi: The Next Generation.
 - Attended Chinese school as a child — a shared touchpoint with the TaiwaneseAmerican.org interviewers.
 - Featured twice in the TAH story corpus: [[works/taiwaneseamericanhistory-org/334-marie-hsiao-mree-indie-folk-singer-song-writer-201603|334. Marie Hsiao (Mree), Indie folk Singer & Song-writer]] and [[works/taiwaneseamericanhistory-org/910-marie-mree-hsiao-201503|910. Marie (Mree) Hsiao]] (both 2016-03-27, bibliographic records).
-- Re-check (deepen-x 2026-09-18): corpus re-grep (Mree / Marie Hsiao) returns only the three linked records above plus the harvest index — no memoir or community material beyond them; section remains current.
+- Re-check (deepen-x 2026-09-19): corpus re-grep (Mree / Marie Hsiao) returns only the three linked records above plus the harvest index — no memoir or community material beyond them; section remains current.
 
 ## Family
 
