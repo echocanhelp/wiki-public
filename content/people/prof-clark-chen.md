@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-19
 ---
 # Prof. Clark Chen (陳經宗教授)
 
@@ -34,6 +34,10 @@ Associate Professor of Neurosurgery, Vice Chair of Research and Academic Develop
 ## Family
 
 _No filled family fields on the TAH profile._
+
+## From the record
+
+- 2017-09-07 — TAH encyclopedia entry #1883 for Prof. Clark Chen 陳經宗教授 is held in the corpus as a community historical record ([[works/taiwaneseamericanhistory-org/whos-who-1883-clark-chen|TAH #1883, 2017-09-07]]); bibliographic record only — no additional community/corpus facts beyond the press-kit-style TAH profile are absorbable.
 
 ## Sources
 - [TAH #1883 encyclopedia: 1883. Prof. Clark Chen 陳經宗教授](https://taiwaneseamericanhistory.org/whos-who-1883-clark-chen/)

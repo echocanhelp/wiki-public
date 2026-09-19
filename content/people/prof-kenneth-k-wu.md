@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-19
 ---
 # Prof. Kenneth K. Wu (伍焜玉教授)
 
@@ -38,6 +38,12 @@ Prof. Kenneth K. Wu 伍焜玉 教授 – History of Taiwanese American (T.A. Arc
 ## Family
 
 _No filled family fields on the TAH profile._
+
+## Role in the Community
+
+- 1980-02-16 — One of the sixteen professors at the first NATPA (台美教授協會) preparatory meeting at the University of Chicago International House; the meeting drafted the constitution/bylaws and resolved that the association should hold meetings in Taiwan and give research findings back to Taiwan and the community (roster in the 林衡哲 memoir 『Our Journeys』: 張錦哲、張旭成、陳炳杞、黃員成、黃金來、賴義雄、林靜竹、孫錦德、商文義、陳黃義敏、蔡嘉寅、吳得民、伍焜玉、楊勝亮、嚴文亮) ([[works/taiwaneseamericanhistory-org/ourjourneys69|Our Journeys ch.69]]).
+- 1997-12-09 — Houston Mayor Lanier proclaimed December 9, 1997 as 「伍焜玉醫師日」 (Dr. Kenneth K. Wu Day) ([[works/taiwaneseamericanhistory-org/251-e4-bc-8d-e7-84-9c-e7-8e-89-e9-86-ab-e5-b8-ab-e4-bc-91-e5-a3-ab-e9-a0-93-e5-b|TAH #251, 1997-12-09]]).
+- Memoir/feature coverage in the movement record: 林秀美's 「台美人的榮耀：伍焜玉醫師」 ([[works/taiwaneseamericanhistory-org/mystories320|TAH #320, 2015/08]]), [[works/taiwaneseamericanhistory-org/659-kenneth-k-wu-e4-bc-8d-e7-84-9c-e7-8e-89-201510|TAH #659, 2015/10]], and [[works/taiwaneseamericanhistory-org/112-prof-kenneth-k-wu|TAH #112 encyclopedia, 2018-09-26]] — the first of which corroborates the TAH table (Academia Sinica 院士-level international hematology scholar; NHRI 院長 in 2006, consistent with the employment table's 2006 entry).
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-kenneth-k-wu/)
