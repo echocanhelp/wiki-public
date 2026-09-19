@@ -35,6 +35,10 @@ last_reviewed: 2026-09-19
 
 _No filled family fields on the TAH profile._
 
+## Role in the Community
+- Corpus records place Lin as a **FAPA (台灣人公共事務會) vice president** doing movement-facing advocacy in the U.S.: at the 2017-07-24 TACEC × 海台青 (OTD) joint summer camp at West Chester University, PA he and GTI CEO Russell Hsiao were the invited speakers on winning American political-circle support for Taiwan ([[articles/taiwanjustice-net/2021/20211207123518_2017_07_24_海台青與黑客松-_-楊遠薰-2017-07-24_2c9cb76838702dd7|楊遠薰 column via TJJ, 2017-07-24]]).
+- Corpus cross-references confirming the same record: [[organizations/global-taiwan-institute|GTI]] org timeline entry and [[people/russell-hsiao|Russell Hsiao]]'s page. No memoir or other community article names him; nothing else absorbable (no invented biography).
+
 ## Sources
 - [TAH #1314 encyclopedia: 1314. Hsi-Min Lin 林希明 / 2016/10](https://taiwaneseamericanhistory.org/whoswho1314/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/hsi-min-lin/)

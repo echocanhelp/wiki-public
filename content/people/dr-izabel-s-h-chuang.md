@@ -39,6 +39,9 @@ _No filled family fields on the TAH profile._
 - [TAH #2233 encyclopedia: 2233. Dr. Izabel S. H. Chuang 莊捷筠博士](https://taiwaneseamericanhistory.org/whos-who-2233-izabel-s-h-chuang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-izabel-s-h-chuang/)
 
+## Role in the Community
+- Corpus footprint is limited to her own TAH encyclopedia record "2233. Dr. Izabel S. H. Chuang 莊捷筠博士" (2019-12-13, band B, bibliographic only): [[works/taiwaneseamericanhistory-org/whos-who-2233-izabel-s-h-chuang|TAH #2233]]. No memoirs or community articles mention her; nothing else absorbable (no movement-role claims invented).
+
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
