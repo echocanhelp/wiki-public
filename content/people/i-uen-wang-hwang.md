@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-18
+last_reviewed: 2026-09-19
 ---
 # I-Uen Wang Hwang (王怡雯)
 
@@ -34,7 +34,7 @@ Hwang was profiled twice in the TAH Foundation encyclopedia, documenting her as 
 - [[works/taiwaneseamericanhistory-org/232-i-uen-wang-hwang-e7-8e-8b-e6-80-a1-e9-9b-af-201501|232. I-Uen Wang Hwang 王怡雯]] (2015-01-26) — a second encyclopedia entry.
 
 No further community/corpus material found in the memoir corpus beyond these records.
-- Corpus check 2026-09-18: re-grep of content/works + content/articles hits only the two TAH encyclopedia pages above plus works/index — already linked; nothing new absorbable.
+- Corpus re-grep 2026-09-19: re-grep of content/works + content/articles hits only the two TAH encyclopedia pages above plus works/index — already linked; nothing new absorbable.
 
 ## Family
 
