@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-17
+last_reviewed: 2026-09-18
 ---
 # Prof. Li-Hui Tsai (蔡立慧教授)
 
@@ -46,6 +46,7 @@ _No filled family fields on the TAH profile._
 - [[works/taiwaneseamericanhistory-org/mystories606|「蔡立慧教授的人生故事：尋找上億人的記憶」by 謝明玲, 11/2017]] — community essay on her memory/Alzheimer's research.
 - [[works/taiwaneseamericanhistory-org/my-stories-877|MIT學者、興大校友蔡立慧：發現阿茲海默症逆轉新法, 05/2023]].
 - HOLD: romanization conflict — this page "Li-Hui Tsai" vs the work corpus "Li-Huei Tsai"; not auto-merged.
+- Corpus check 2026-09-18: re-grep hit set identical to the records already linked above (whos-who-1783, award, ff350, mystories606, my-stories-877); no new unabsorbed corpus facts.
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

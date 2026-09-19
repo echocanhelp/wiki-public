@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-19
 ---
 # Gary Marvin Davison
 
@@ -34,6 +34,10 @@ Eight published books on Taiwanese history and culture; on and African American 
 - **Wife:** Barbara E. Reed
 - **Son:** Ryan Davison-Reed
 
+
+## Role in the Community
+- Listed in the TAH Foundation Who's Who story corpus as record 1594 (published 2017-04-06): [[works/taiwaneseamericanhistory-org/whos-gary-marvin-davison|1594. Gary Marvin Davison /2017/04]] — community historical record of his eight published books on Taiwanese history and culture and his K-12 education reform efforts.
+- Corpus note: grep also surfaced a taiwanjustice.net article on US Indo-Pacific commander "Davidson/戴文森" (2025-06) — that is Admiral Philip Davidson, NOT this person; not absorbed.
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/gary-marvin-davison/)

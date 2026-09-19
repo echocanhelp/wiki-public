@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-17
+last_reviewed: 2026-09-18
 ---
 # Paul Kuo (郭博修)
 
@@ -39,6 +39,7 @@ _No filled family fields on the TAH profile._
 - 1996-05 — solo exhibition (個展) during his Glendale University years in Phoenix, Arizona — [[works/taiwaneseamericanhistory-org/497-paul-kuo-1996-e9-83-ad-e5-8d-9a-e4-bf-ae-e5-80-8b-e5-b1-95-e9-83-ad-e5-8d-9a|497. PAUL KUO 1996 郭博修 個展]].
 - 1998-03 — solo art show in Alhambra, CA, in the heart of the LA Taiwanese American community — [[works/taiwaneseamericanhistory-org/art-show-13|13. 郭博修個人畫展, Alhambra, CA in 03/1998]].
 - Held as both an artist file (#27) and a Who's Who encyclopedia entry (#276, 2015-02) in the TAH corpus — [[works/taiwaneseamericanhistory-org/artist27-paul-kuo|27. 郭博修 Paul Kuo]], [[works/taiwaneseamericanhistory-org/whos276-paul-kuo|276. Paul Kuo 郭博修, 2015/02]].
+- 2021-05 — signatory of the community response to Pew Research reports hiding Taiwanese identity ("We made it count. Now tell our stories."), listed among the movement figures endorsing the statement — [[works/taiwaneseamerican-org/pew-research-center-taiwanese-american-statement|Response to Pew Research Reports Hiding Taiwanese Identity]].
 
 ## Sources
 - [TAH #276 encyclopedia: 276. Paul Kuo 郭博修, 2015/02](https://taiwaneseamericanhistory.org/whos276-paul-kuo/)
