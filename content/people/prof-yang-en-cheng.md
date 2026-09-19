@@ -45,6 +45,7 @@ _No filled family fields on the TAH profile._
 ## Role in the Community
 - Appears in the corpus record of Yu Jie's (余杰) 2015 Taiwan lecture tour as one of the scholars, pastors, and public intellectuals who engaged him in dialogue across universities, churches, indie bookstores, and indigenous communities — alongside 鴻鴻, 吳明益, 王丹, 李筱峰, 盧俊義, 王昭文, 王貞文 and others ([[articles/taiwanjustice-net/2024/20240715153720_root_40c5e0b2f638b4cc|我在這個像蒸籠一樣的島國自由地言說 ◎余杰／台灣教會公報 2015-03-10]]).
 - Encyclopedia record: [[works/taiwaneseamericanhistory-org/whos-who-1896-yang-en-cheng|TAH #1896, Prof. Yang-En Cheng 鄭仰恩教授]] (2017-09-20). No other memoir in the corpus names him.
+- 2026-09-19 語料複核（slice 09180400-6）：grep（鄭仰恩／Yang-En Cheng）命中僅本身出處頁 TAH #1896、已連結的余杰2015台灣講學紀錄文章、works index。SKIP-with-reason：無可吸收新事實，無衝突須 HOLD。
 
 ## Network
 - [[organizations/presbyterian-church-in-taiwan||PCT]] — TAH Who’s Who

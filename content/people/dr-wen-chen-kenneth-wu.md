@@ -38,6 +38,7 @@ _No filled family fields on the TAH profile._
 - Held in the TAH Who's Who record: [[works/taiwaneseamericanhistory-org/whos-who-1697-wen-chen-wu|1697. Dr. Wen-Chen (Kenneth) Wu 吳文振博士]], where he is linked to the History of Taiwanese American (T.A. Archives) 台美史料中心 documentation effort.
 - Disambiguation: broader corpus hits for "Wen-Chen" refer to 陳文成教授 (Prof. Chen Wen-Chen, d. 1981) — a different person; no merge.
 - 2026-09-18 語料複核（slice 09170700-8）：grep（吳文振／Wen-Chen Kenneth Wu，works+articles）命中僅本身出處頁 [[works/taiwaneseamericanhistory-org/whos-who-1697-wen-chen-wu|TAH #1697]] 與 works index；無回憶錄或文章提及。SKIP-with-reason：無可吸收新事實，無衝突須 HOLD。
+- 2026-09-19 語料複核（slice 09180400-6）：再 grep（吳文振／Wen-Chen Kenneth Wu）命中仍僅 [[works/taiwaneseamericanhistory-org/whos-who-1697-wen-chen-wu|TAH #1697]] 與 works index。SKIP-with-reason：無可吸收新事實。
 
 ## Sources
 - [TAH #1697 encyclopedia: 1697. Dr. Wen-Chen (Kenneth) Wu 吳文振博士](https://taiwaneseamericanhistory.org/whos-who-1697-wen-chen-wu/)
