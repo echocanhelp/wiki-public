@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-19
 ---
 # Shuin-Lin Yang (楊勳琳)
 
@@ -34,6 +34,10 @@ last_reviewed: 2026-08-17
 ## Family
 
 _No filled family fields on the TAH profile._
+
+## Role in the Community (deepened 2026-09-19, corpus)
+- Own encyclopedia record: [[works/taiwaneseamericanhistory-org/whoswho1351|1351. Shuin-Lin Yang 楊勳琳 / 2016/10]] (published 2016-10-27).
+- Corpus material is limited to this profile (transplant-surgery career, Pittsburgh/Philadelphia); no additional community roles found in works/articles.
 
 ## Sources
 - [TAH #1351 encyclopedia: 1351. Shuin-Lin Yang 楊勳琳 / 2016/10](https://taiwaneseamericanhistory.org/whoswho1351/)

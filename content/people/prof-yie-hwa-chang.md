@@ -33,6 +33,11 @@ last_reviewed: 2026-09-19
 
 _No filled family fields on the TAH profile._
 
+## Role in the Community
+
+- His TAH Who's Who profile #2123 is held in the corpus as community historical record: [[works/taiwaneseamericanhistory-org/whos-who-2123-yie-hwa-chang|2123. Prof. Yie-Hwa Chang 張義華教授]] (published 2018-06-07).
+- Corpus-wide grep of memoirs and articles returns no other mention of him — nothing further absorbable; TAH profile facts (NTU 化學 → Caltech 生化博士 → Saint Louis University / Mediomics, LLC) stand as-is, no conflicts found.
+
 ## Sources
 - [TAH #2123 encyclopedia: 2123. Prof. Yie-Hwa Chang  張義華教授](https://taiwaneseamericanhistory.org/whos-who-2123-yie-hwa-chang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-yie-hwa-chang/)

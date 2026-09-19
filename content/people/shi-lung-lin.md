@@ -35,6 +35,11 @@ last_reviewed: 2026-09-19
 
 _No filled family fields on the TAH profile._
 
+## Role in the Community
+
+- His TAH Who's Who profile #945 is held in the corpus as community historical record: [[works/taiwaneseamericanhistory-org/945-shi-lung-lin-e6-9e-97-e5-b8-8c-e9-be-8d-201604|945. Shi-Lung Lin 林希龍 / 2016/04]] (published 2016-04-24).
+- Corpus-wide grep of memoirs and articles returns no other mention of him — nothing further absorbable; TAH profile facts (中山醫學 1989 → USC 生化 M.S./Ph.D. → USC 醫學院助教席 2002–2008 → W&L Stem Cell Research director) stand as-is, no conflicts found.
+
 ## Sources
 - [TAH #945 encyclopedia: 945. Shi-Lung Lin 林希龍 / 2016/04](https://taiwaneseamericanhistory.org/945-shi-lung-lin-%e6%9e%97%e5%b8%8c%e9%be%8d-201604/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/shi-lung-lin/)

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-19
 ---
 # Ya-hui Chiu (邱雅惠博士)
 
@@ -39,6 +39,10 @@ last_reviewed: 2026-08-17
 - **Daughter:** Robin邱如敏
 - **Daughter:** Candice邱如珍
 
+
+## Role in the Community (deepened 2026-09-19, corpus)
+- Own encyclopedia record in the TAH Who's Who corpus: [[works/taiwaneseamericanhistory-org/whoswho71|70. Ya-hui Chiu 邱雅惠]] (published 2014-10-23).
+- Community/corpus record is confined to this profile entry (physics training at Yale, Bell Labs / Western Union engineering, then Asia Satellite Telecommunications CEO 1989–2011); no other movement activity found in works/articles.
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/ya-hui-chiu/)
