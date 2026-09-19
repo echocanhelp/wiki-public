@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-18
+last_reviewed: 2026-09-19
 ---
 # Peter Su (蘇國雄)
 
@@ -45,6 +45,7 @@ last_reviewed: 2026-09-18
 - 1981年前後加入南加信用合作社工作人員行列（與楊嘉猷、黃三榮、蔡奮鬥等同批加入）；周實回憶指出此後合作社人事頻繁變動、面臨台資銀行（萬國銀行）競爭，存廢因而受質疑 — [[works/taiwaneseamericanhistory-org/ourjourneys244|TAH Our Journeys #244: 曇花一現的南加信用合作社 / 周實]]。
 - 1985-04-15 台灣公論報第369期刊「台美公民協會簡介」，蘇國雄列名台美公民協會（Taiwanese American Citizens League）籌備委員會顧問（Consultants）名單 — [[works/taiwaneseamericanhistory-org/ourjourneys186|TAH Our Journeys #186: 台美公民協會簡介（中文版）]]、[[works/taiwaneseamericanhistory-org/ourjourneys186-eng|#186 英文版]]。
 - 世台會第二、三屆年會報告（吳木盛）回憶在年會會場與「常在通信而未見過面」的蘇國雄等人相識 — [[works/taiwaneseamericanhistory-org/ourjourneys283|TAH Our Journeys #283: 世台會第二、三屆年會報告]]。
+- 1969年夏，與洪哲勝、林銘德、梁文盛、林資深、洪博學等六位留學生在 Colorado State University 共同策劃發行一份小通訊——即後來風靡全美、1973年正式成為全美台灣同鄉會刊物的《望春風》月刊（1980-12-15 第136期完成階段性使命停刊） — [[works/taiwaneseamericanhistory-org/ourjourneys307|TAH Our Journeys #307: 休士頓地區的台美人及團體發行的刊物簡介 / 莊承業]]。
 - 2021-05 南加州僑界支持台灣參與WHA/WHO聯合聲明共同發起人之一（見下方 From the record）。
 
 ## Sources

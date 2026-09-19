@@ -7,7 +7,7 @@ tags:
   - taiwanjustice-net
   - thin-page
 verification_status: pending
-last_reviewed: 2026-09-18
+last_reviewed: 2026-09-19
 name_en: "Lai Ching-te"
 ---
 # Lai Ching-te (賴清德)
@@ -29,6 +29,7 @@ name_en: "Lai Ching-te"
 - **In sovereignty commentary:** cited as "president-to-be" planning closer US ties in [[works/taiwaneseamerican-org/a-republic-of-taiwan-chloe-shih|A Republic of Taiwan: Breaking the Chains]].
 - **As VP on Ukraine, 2022-02-27:** in the taiwanjustice.net archive, his statement 「卑躬屈膝無法停止侵略，全民一心守護國家」 frames Taiwan alongside Ukraine — defending the democratic way of life, standing with the democratic camp on sanctions ("自己的國家自己救") — [[articles/taiwanjustice-net/2026/20260211101404_賴清德_卑躬屈膝無法停止侵略_全民一心守護國_6eb558bd5ea47dfe|TJJ archive, posted 2022-02-27]]; publisher [[people/freeman-huang|Freeman Huang]].
 - **HOLD:** president-term and policy labels remain from taiwanjustice.net coverage only; expand with primary sources, not press knowledge.
+- **Corpus re-grep 2026-09-19:** content/works hits are exactly ourjourneys181 and our-journeys-382, both already wikilinked above — all absorbable diaspora-memoir material is in; remaining coverage is TJJ press reposts.
 
 ## From the record
 

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-18
+last_reviewed: 2026-09-19
 ---
 # Kenneth Wang (王克雄博士)
 
@@ -56,4 +56,5 @@ last_reviewed: 2026-09-18
 - Family 228 story in the LA Times–sourced movement record: secret police came for his father in 1947 when he was not yet 3 ([[works/taiwaneseamericanhistory-org/ourjourneys192|192. Friends of Tsai overseas rally record]]).
 - Church-building memoir 「一起建造聖殿」 on the 聖地雅歌台灣基督教會 building fund — the 1986 Del Mar Heights land purchase and 1999 sale ([[works/taiwaneseamericanhistory-org/ourjourneys213|213. 一起建造聖殿 / 王克雄]], 2016-04).
 - Corpus profiles: [[works/taiwaneseamericanhistory-org/whos-dr-kenneth-wang|Who's: Dr. Kenneth Wang]] (2016-07-10) and the 228 essay collection entry [[works/taiwaneseamericanhistory-org/mystories409|409. 228辛酸血淚… –王克雄博士 / 黃樹人]].
-- Note: [[works/taiwaneseamericanhistory-org/whos-who-1694-kenneth-wang|1694. Kenneth Wang 王文宏]] is a different Kenneth Wang (王文宏) — do not merge.
+- Note: [[works/taiwaneseamericanhistory-org/whos-who-1694-kenneth-wang|1694. Kenneth Wang 王文宏]] is a different Kenneth Wang (王文宏) — do not merge. The 2016-07 傳記頁 hit surfaced by corpus grep is [[works/taiwaneseamericanhistory-org/whos-dr-kenneth-wang|1127. Kenneth Wang 王克雄 / 2016/07]] — already covered above.
+- Corpus grep (re-run 2026-09-19): hit-set unchanged vs prior absorption; no new community facts found.

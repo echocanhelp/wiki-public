@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-18
+last_reviewed: 2026-09-19
 ---
 # Paul Pai-Shih Lee (李百仕)
 
@@ -36,7 +36,7 @@ Violinist Paul Pai-Shih Lee, a Taiwan born Taiwanese-American, started his music
 
 
 ## Role in the Community
-Three TAH Who's Who records are held in the corpus: [[works/taiwaneseamericanhistory-org/189-paul-pai-shih-lee-e6-9d-8e-e7-99-be-e4-bb-95-violinist201504|189. Paul Pai-Shih Lee 李百仕, Violinist (2015/04)]], [[works/taiwaneseamericanhistory-org/205-paul-pai-shih-lee-e6-9d-8e-e7-99-be-e4-bb-95201501|206. Paul Pai-Shih Lee 李百仕 (2015/01)]], and [[works/taiwaneseamericanhistory-org/121-paul-pai-shih-lee-e6-9d-8e-e7-99-be-e4-bb-95|121. Paul Pai-Shih Lee 李百仕 (2014/12)]]. The 2015/01 record's page number (206) disagrees with its archive slug (205); HOLD: slug-vs-title numbering conflict. The 2014/12 record's archive slug names Paul Pai-Shih Lee but the corpus copy is titled "121. Kelvin Yu 游朝敏" and lists [[people/kelvin-yu|Kelvin Yu 游朝敏]] as its subject; HOLD: source-side slug-vs-title mismatch, attribution uncertain. No memoir or article mentions found beyond these records (re-grepped 2026-09-17: works/ + articles/ hits are these three records plus the corpus index only).
+Three TAH Who's Who records are held in the corpus: [[works/taiwaneseamericanhistory-org/189-paul-pai-shih-lee-e6-9d-8e-e7-99-be-e4-bb-95-violinist201504|189. Paul Pai-Shih Lee 李百仕, Violinist (2015/04)]], [[works/taiwaneseamericanhistory-org/205-paul-pai-shih-lee-e6-9d-8e-e7-99-be-e4-bb-95201501|206. Paul Pai-Shih Lee 李百仕 (2015/01)]], and [[works/taiwaneseamericanhistory-org/121-paul-pai-shih-lee-e6-9d-8e-e7-99-be-e4-bb-95|121. Paul Pai-Shih Lee 李百仕 (2014/12)]]. The 2015/01 record's page number (206) disagrees with its archive slug (205); HOLD: slug-vs-title numbering conflict. The 2014/12 record's archive slug names Paul Pai-Shih Lee but the corpus copy is titled "121. Kelvin Yu 游朝敏" and lists [[people/kelvin-yu|Kelvin Yu 游朝敏]] as its subject; HOLD: source-side slug-vs-title mismatch, attribution uncertain. Re-grepped 2026-09-17 and again 2026-09-19 (李百仕/Pai-Shih): works/ + articles/ hits are his own records plus the corpus index only — no memoir or article mentions found.
 
 ## Sources
 - [TAH #189 encyclopedia: 189. Paul Pai-Shih Lee 李百仕, Violinist/2015/04](https://taiwaneseamericanhistory.org/189-paul-pai-shih-lee-%e6%9d%8e%e7%99%be%e4%bb%95-violinist201504/)

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-18
+last_reviewed: 2026-09-19
 ---
 # Ching Ih Wang (王進益)
 
@@ -25,7 +25,7 @@ last_reviewed: 2026-09-18
 - 本人自述小記存檔於 TAHS 故事庫：[[works/taiwaneseamericanhistory-org/50065|652. 王進益小記 Mr. Ching Ih Wang's Story（2017-01）]]；另有夫婦合照記錄 [[works/taiwaneseamericanhistory-org/42-mr-and-mrs-ching-ih-wang|42. Mr. and Mrs. Ching Ih Wang 王進益夫婦]]。
 - 2018 入錄 TAH Foundation 名人錄百科第 2135 條；見 [[works/taiwaneseamericanhistory-org/whos-who-2135-ching-ih-wang|2135. Ching Ih Wang 王進益]]。
 - 堪薩斯大學台灣人同學會活躍成員與贊助者（見 Employment；與 1964–1971 留學期相符）。
-- Re-verified 2026-09-18: 王進益小記 (#652) is held as a bibliographic record (full text stays in the vault); corpus re-grep (works/articles) found no further mention of 王進益 outside the records linked above — no new facts absorbable, no conflicts to hold.
+- Re-verified 2026-09-19: 王進益小記 (#652) is held as a bibliographic record (full text stays in the vault); corpus re-grep (works/articles) found no further mention of 王進益 outside the records linked above — no new facts absorbable, no conflicts to hold.
 
 <!-- tah-tables:start -->
 ## Education

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-18
+last_reviewed: 2026-09-19
 ---
 # Rev. James Chang (張拯民牧師)
 
@@ -54,6 +54,6 @@ Accomplishment
 
 ## Role in the Community
 
-The pastor's own TAH Foundation encyclopedia record is held in the corpus as [[works/taiwaneseamericanhistory-org/whos-who-1812-james-chang|1812. Rev. James Chang 張拯民牧師]] (2017-08-06). Beyond that entry the corpus records his ministry path — NTNU industrial education (1966), TTCS M.Div. (1986), pastorate at PCT Hoping Church (台北和平基督長老教會) from 1986 and later Formosan Presbyterian Church in Greater Houston — with no memoir mentions of his own. Re-verified 2026-09-18: corpus re-grep (works/articles) still returns only the #1812 encyclopedia record and index listings — no additional community facts absorbable.
+The pastor's own TAH Foundation encyclopedia record is held in the corpus as [[works/taiwaneseamericanhistory-org/whos-who-1812-james-chang|1812. Rev. James Chang 張拯民牧師]] (2017-08-06). Beyond that entry the corpus records his ministry path — NTNU industrial education (1966), TTCS M.Div. (1986), pastorate at PCT Hoping Church (台北和平基督長老教會) from 1986 and later Formosan Presbyterian Church in Greater Houston — with no memoir mentions of his own. Re-verified 2026-09-18 and again 2026-09-19: corpus re-grep (works/articles) still returns only the #1812 encyclopedia record, the works index, and the unrelated Pop-Up Chef entry — no additional community facts absorbable.
 
 HOLD: name collision — the corpus also contains [[works/taiwaneseamerican-org/chef-james-chang|Pop-Up Chef James Chang (Kansas City, 2024)]], a different James Chang (chef, not the pastor). Do not merge.

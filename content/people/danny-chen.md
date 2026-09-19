@@ -45,6 +45,10 @@ The TJ archives already cited on this page are in-corpus works — linked here s
 - **HOLD:** [[articles/taiwanjustice-net/2025/20250328021626_世台基金會邀陳建仁赴紐約-推動台灣學子un實習_570323c249fb15ba|世台基金會邀陳建仁赴紐約 推動台灣學子UN實習 (2025)]] names a 陳啟耕 as **世台聯合基金會副執行長兼發言人** (HQ New York, founded 2009). Same name; an LA-based lawyer vs a NY-based foundation spokesman — identity **not confirmed**, no merge.
 - **HOLD (likely different person):** [[works/taiwaneseamerican-org/census-2020-fundraiser|Census 2020 'Write in Taiwanese' fundraiser]] and [[works/taiwaneseamerican-org/pew-research-center-taiwanese-american-statement|Pew Research statement]] name a "Danny Chen" as **President, Southeast Bay Taiwanese Association** / community organizer with TaiwaneseAmerican.org (Bay Area). No 漢名 given; Bay Area ≠ SoCal lawyer. Not linked as this person.
 
+## From the record
+
+- 2020-04-25 — 會館關閉期間，陳啟耕律師與台灣青年美國職涯發展協會（Career Taiwan USA Association）協辦移民講座，為大洛杉磯台灣會館首場線上活動，逾百人線上參加（TJJ 會館疫情紀錄 via [[articles/taiwanjustice-net/2020/20201126153300_2020_06_23_大洛杉磯台灣會館_疫情擋不住人情_濟困扶危挺_c05e2d53013fcd15|TJJ, 2020-06-23]]）。
+
 ## Timeline（自上方 Board record 既有日期彙整，deepen 2026-09-10）
 - **2018-06** — 第11屆董事會以台美律師會名義出任團體董事
 - **2020-04-25** — 主講會館首場線上活動（移民講座，與 Career Taiwan USA Association 合辦，逾百人參加）

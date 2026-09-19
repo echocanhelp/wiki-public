@@ -7,7 +7,7 @@ tags:
   - taiwanjustice-net
   - thin-page
 verification_status: pending
-last_reviewed: 2026-09-18
+last_reviewed: 2026-09-19
 name_en: "Hou Yu-ih"
 ---
 # Hou Yu-ih (侯友宜)
@@ -35,7 +35,7 @@ name_en: "Hou Yu-ih"
 - [[articles/taiwanjustice-net/2026/20260112183103_六都市長就任週年-柯文哲韓國瑜滿意度慘墊底_9d012680da3b03d6|六都市長就任週年 — 柯文哲韓國瑜滿意度慘墊底]] — repost of the 2019-12-24 自由時報 report on the six-mayor one-year performance survey: Hou ranked first on施政滿意度 (79.4% satisfied vs 7.7% dissatisfied) and future confidence (77.0%).
 - [[articles/taiwanjustice-net/2026/20260118105617_中央流行疫情指揮中心調升一級開設_指揮官仍是_b3a0e7127c8d0141|中央流行疫情指揮中心調升一級開設 指揮官仍是…]] — 2021-05 coverage: New Taipei Mayor Hou joined the KMT legislature caucus call to raise pandemic response to level one; Executive Yuan deferred to expert review.
 - [[articles/taiwanjustice-net/2026/20260121001750_江啟臣挺過風暴_國民黨路線仍待檢驗洪秀柱挑戰_8d8722c6912a3996|江啟臣挺過風暴 — 國民黨路線仍待檢驗]] — post-election KMT party-congress report: Hou attended alongside 馬英九、吳敦義、吳伯雄、盧秀燕, staged as party-unity imagery.
-- Corpus re-grep (2026-09-18): all hits remain taiwanjustice.net press coverage — no diaspora community/corpus facts — HOLD any biographical expansion until a primary source enters the vault.
+- Corpus re-grep (2026-09-19): all works/articles hits remain taiwanjustice.net press coverage — zero hits in content/works (diaspora memoirs); no community/corpus facts to absorb. SKIP further expansion: HOLD until a primary source enters the vault.
 
 ## Related Pages
 

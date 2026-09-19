@@ -101,6 +101,10 @@ Wang Gui-rong died on 2012-02-11 at Taipei Medical University Hospital in Taipei
 He left behind two books, including his memoirs published in 1999. His three sons — Kenneth, John, and Michael — now manage the Kenjohn Group, which includes his hotel businesses, real estate investments, and trade operations in both America and Taiwan.
 
 
+## From the record
+
+- 2022-09-13 — A TJJ notice for the 大洛杉磯台灣會館 24th-anniversary fundraising gala records that 洛杉磯台美人 built the Taiwan Center thanks to permanent honorary chairman 王桂榮 and his wife 王賽美 generously donating the center's land and building in 1998 — the founding basis of the organization's 2018 rebuilding-fund campaign ([[articles/taiwanjustice-net/2022/20220924222953_2022_09_13_10-22大洛杉磯台灣會館-24-週年募款年會_紀政擔任主講_2a543ddc9301b7b3|TJJ, 2022-09-13]]).
+
 ## Network
 
 Pages that link to **wang-gui-rong** (wang-gui-rong):
