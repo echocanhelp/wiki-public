@@ -257,6 +257,7 @@ Notable quotes and mentions of **楊嘉猷** in Taiwan Justice articles:
 ## From the record
 
 - 2024-08-17 — 應大洛杉磯台灣會館耆老講座邀約，與洪茂澤對談「返台參選經驗」（[[articles/taiwanjustice-net/2025/20250216032153_tag_大洛杉磯台灣會館耆老講座_20053f0a17b89c07|TJJ 耆老講座標籤頁，2024-07-24 刊前導]]）。
+- 2025-02-22 — 以台美人歷史協會會長身分出席台館「228追思紀念大會」（今年主題「不義遺址的保存」，24個台美社團協辦，國史館館長陳儀深、228國膜館館長藍士博視訊演講），與許多長輩同台觀禮（[[articles/taiwanjustice-net/2025/20250320212940_大洛杉磯台灣會館等24個台美社團舉舉行228追思紀念_c62f5c50846fe267|TJJ report, 2025-02-24]]）。
 
 ## Taiwan Justice (台灣公義網) Citations
 
