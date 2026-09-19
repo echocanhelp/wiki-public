@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-19
 ---
 # I-Chuun Lee
 
@@ -35,6 +35,10 @@ last_reviewed: 2026-08-17
 ## Family
 
 _No filled family fields on the TAH profile._
+
+## Role in the Community
+
+TAH encyclopedia entry #533 (2015-08) documents her profile: [[works/taiwaneseamericanhistory-org/533-i-chuun-lee-201508|533. I-Chuun Lee / 2015-08]]. No further community-corpus material found beyond the TAH press-kit record.
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/i-chuun-lee/)

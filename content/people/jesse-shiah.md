@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-19
 ---
 # Jesse Shiah
 
@@ -34,6 +34,12 @@ last_reviewed: 2026-08-17
 ## Family
 
 _No filled family fields on the TAH profile._
+
+## Role in the Community
+
+TAH encyclopedia entry #1359 (2016-11) documents his profile: [[works/taiwaneseamericanhistory-org/whoswho1359|1359. Jesse Shiah / 2016-11]]. No further community-corpus material found beyond the TAH press-kit record.
+
+HOLD: possible relation to community organiser SueAnn Shiah 夏叔安 ([[works/taiwaneseamericanhistory-org/whos-sueann-shiah|1613. SueAnn Shiah 夏叔安]]) — surname match only, never asserted.
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/jesse-shiah/)

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-19
 ---
 # Jen Sheen (沈正韻)
 
@@ -32,6 +32,10 @@ last_reviewed: 2026-08-17
 ## Family
 
 _No filled family fields on the TAH profile._
+
+## Role in the Community
+
+Her TAH encyclopedia record is already cited on this page: [[works/taiwaneseamericanhistory-org/whoswho1553|1553. Jen Sheen 沈正韻 / 2017-03]]. Corpus re-grep found no additional memoir mentions beyond the index entry.
 
 ## Sources
 - [TAH #1553 encyclopedia: 1553. Jen Sheen 沈正韻 / 2017/03](https://taiwaneseamericanhistory.org/whoswho1553/)

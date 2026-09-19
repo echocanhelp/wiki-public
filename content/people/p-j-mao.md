@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-19
 ---
 # P. J. Mao (毛平吉博士)
 
@@ -35,6 +35,12 @@ last_reviewed: 2026-08-17
 ## Family
 
 _No filled family fields on the TAH profile._
+
+## Role in the Community
+
+TAH encyclopedia entry #1131 (2016-07) documents his profile: [[works/taiwaneseamericanhistory-org/whoswho1131|1131. P. J. Mao / 2016-07]]. No further community-corpus material found beyond the TAH press-kit record.
+
+HOLD: name_zh conflict — this page records 毛平吉博士; the TAH encyclopedia record 1131 gives 毛治平. Not merged.
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/p-j-mao/)
