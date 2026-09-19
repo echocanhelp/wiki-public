@@ -45,3 +45,8 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+## Role in the Community
+- As Executive Director of STUF United Fund she was the community contact (info@stufunited.org) endorsing Taiwanese American students for the International Leadership Foundation Civic Fellowship — a DC federal-agency internship program — per the 2015-02-06 announcement ([[works/taiwaneseamerican-org/applications-available-ilf-civic-fellowship-program|Applications Available for the ILF Civic Fellowship Program]]), and helped connect TJCCNA/WTCC-JC members to ILF programs.
+- Her own TAH encyclopedia record: [[works/taiwaneseamericanhistory-org/22-welly-yang|22. Yi-Miao Huang 黃怡妙]] (2014-10-04).
+- HOLD: conflict — the 2015 corpus record titles her Executive Director of STUF United Fund, while the TAH profile lists Starside Community Services Executive Director 2009–2012; org relationship and tenure not auto-merged.

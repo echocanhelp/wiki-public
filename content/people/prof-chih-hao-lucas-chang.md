@@ -41,3 +41,7 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+## Role in the Community
+- Documented in the TAH story corpus as encyclopedia record #2125 ([[works/taiwaneseamericanhistory-org/whos-who-2125-chih-hao-chang|2125. Prof. Chih-Hao (Lucas) Chang 張志豪教授]], published 2018-06-07) — his community-record footprint is the TAH Who's Who profile itself; no memoir or event material found in the corpus.
+- Disambiguation: the 張志豪 appearing in TJJ/CNA coverage of DPP 中評會 disciplinary votes and 新北市議員 elections (2021–2023) is a homonymous Taiwan-based politician, NOT this US-based researcher. Do not absorb those articles here.
