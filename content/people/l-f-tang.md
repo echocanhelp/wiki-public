@@ -33,6 +33,10 @@ last_reviewed: 2026-09-19
 
 _No filled family fields on the TAH profile._
 
+## Role in the Community
+- Her TAH Who's Who encyclopedia entry is held in the corpus as [[works/taiwaneseamericanhistory-org/whoswho1136|1136. L. F. Tang 唐麗芳 / 2016/07]] (published 2016-07-14) — the bibliographic record behind this page.
+- Corpus memoirs/articles contain no further community mentions beyond the index listing; nothing absorbable.
+
 ## Sources
 - [TAH #1136 encyclopedia: 1136. L. F. Tang 唐麗芳 / 2016/07](https://taiwaneseamericanhistory.org/whoswho1136/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/l-f-tang/)

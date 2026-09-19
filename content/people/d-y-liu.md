@@ -29,6 +29,10 @@ last_reviewed: 2026-09-19
 - Maryland — 高級資深研究員 — 中央研究院生物化學研究所 — 1995-1999 — 所長
 <!-- tah-tables:end -->
 
+## Role in the Community
+
+- 劉德勇 appears as a named subject in two Band-A memoir records: [[works/taiwaneseamericanhistory-org/ourjourneys270|270. 早期留學北美的台灣女士–戰後初期 (朱真一)]] — among early post-war Taiwanese women who studied in North America — and [[works/taiwaneseamericanhistory-org/ourjourneys217|217. 我參與了華府教會的建堂 (陳明賢)]] — linked to the founding of the Washington D.C. Taiwanese church community alongside 陳建南 and 凌光雄.
+
 ## Family
 
 - **Wife:** 陳淑貞
