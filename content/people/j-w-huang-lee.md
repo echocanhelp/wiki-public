@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-17
+last_reviewed: 2026-09-19
 ---
 # J. W. Huang Lee (李黃貞文)
 
@@ -40,6 +40,8 @@ Vice President of The National Taiwan University Alumni Association in the Washi
 ## Role in the Community
 - Her TAH Who's Who entry is preserved in the corpus as [[works/taiwaneseamericanhistory-org/whos-who-1808-j-w-huang-lee|1808. J. W. Huang Lee 李黃貞文]] (band B).
 - Through her husband Dr. Wu-Lang Lee (李五郎), she is connected to three community memoir records in the TAH corpus: [[works/taiwaneseamericanhistory-org/228-wu-lang-lee-e6-9d-8e-e4-ba-94-e9-83-8e201501|228. Wu-Lang Lee 李五郎 (2015-01)]], [[works/taiwaneseamericanhistory-org/180-wisdom-words-from-dr-wu-lang-lee-e6-9d-8e-e4-ba-94-e9-83-8e201501|179. Wisdom words from Dr. Wu-Lang Lee 李五郎 (2015-01)]], and [[works/taiwaneseamericanhistory-org/photo-albums-activities-48|48. In memory of Wu-Lang Lee, Ph.D. 李五郎博士的生命禮讚 (2015-01)]].
+- Her husband's full self-written memoir is also held in the corpus — [[works/taiwaneseamericanhistory-org/486-from-a-taiwan-country-boy-to-u-s-treasury-manager-the-life-journey-of-wu-lan|486. The Life Journey of Wu-Lang Lee, Ph.D. (2012-07 傳記)]] — written explicitly for his US-born children; no further first-hand record of 李黃貞文 herself appears in it within the corpus text.
+- NTUAA-DC vice presidency (2004) sits within a documented network of regional 台大校友會 records in the corpus, e.g. [[works/taiwaneseamericanhistory-org/photo-albums-activities-89|89. 大費城台大校友會]], [[works/taiwaneseamericanhistory-org/sd-ntu|聖地牙哥台大校友會]], and [[works/taiwaneseamericanhistory-org/uyntu|紐約台大校友會]] (peer chapters; no direct NTUAA-DC roster found in the corpus).
 
 ## Sources
 - [TAH #1808 encyclopedia: 1808. J. W. Huang Lee 李黃貞文](https://taiwaneseamericanhistory.org/whos-who-1808-j-w-huang-lee/)
