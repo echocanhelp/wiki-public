@@ -54,3 +54,4 @@ last_reviewed: 2026-09-18
 
 - 2018-06-25 — TJJ 英文專欄報導張玲玲宣誓就任加州第29選區參議員，為加州史上首位女性台美人州參議員；該文見於 English Pages 目錄頁快照（2020-06-26 / 2020-06-29）（[[articles/taiwanjustice-net/2020/20200626022615_category_english-pages_page_2_c351c962b4545bfa|TJJ, 2020-06-26]]、[[articles/taiwanjustice-net/2020/20200629063835_category_english-pages_page_3_c92664485ca4c1a7|TJJ, 2020-06-29]]）。
 - 2018-06-25 (re-corroborated) — the same swearing-in headline 「加州史上首位女性台美人州參議員張玲玲宣誓就職 / Ling Ling Chang Takes Oath to Become the 29th Senate District's Next Senator」 appears in a later TJJ English Pages snapshot（2023-12-08）（[[articles/taiwanjustice-net/2023/20231208134214_root_ffb98bbe7c5f7dc7|TJJ, 2023-12-08]]）.
+- 2018-06-25 (third snapshot) — the headline again appears in the TJJ English Pages 分類頁快照（2024-05-21）—— [[articles/taiwanjustice-net/2024/20240522044125_root_f51d2ebb674cbdd3|TJJ English Pages 存檔頁]]。
