@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_run": "2026-09-18T04:30:39",
+  "last_run": "2026-09-19T04:30:09",
   "status": "WARN",
   "stats": {
     "md": 15058,
@@ -32,53 +32,28 @@
     {
       "id": "B1",
       "sev": "INFO",
-      "msg": "person/org touched \u22647d (rely on recency featured window): 1334",
+      "msg": "person/org touched \u22647d (rely on recency featured window): 2027",
       "examples": [
         "people/a-n-liu.md",
+        "people/adam-chang.md",
         "people/adrian-lin.md",
+        "people/agnes-hsiao.md",
         "people/agnes-hsu.md",
+        "people/agnes-wu.md",
         "people/ahhee-hsu.md",
+        "people/ai-jen-poo.md",
+        "people/alan-t-chen.md",
         "people/alan-thian.md",
+        "people/alan-yang.md",
         "people/albert-chapter1-audiobook-taiwanese-female.md",
+        "people/albert-g-chang.md",
         "people/albert-zh-sku-b-publisher-review.md",
-        "people/alex-hsuan-yu-lee.md",
-        "people/alexander-m-lee.md",
-        "people/alice-chen.md",
-        "people/alice-yu.md",
-        "people/amanda-hsu.md",
-        "people/amanda-shumin-yang.md",
-        "people/amanda-wu.md",
-        "people/amy-chun-ting-chao.md"
+        "people/alex-hsuan-yu-lee.md"
       ]
-    },
-    {
-      "id": "C1",
-      "sev": "LOW",
-      "msg": "spelling signals (sample): 1",
-      "examples": [
-        "david-s-chen.md: ?pastoring"
-      ],
-      "agent": true
     }
   ],
   "heals": [],
   "history": [
-    {
-      "at": "2026-09-10T04:30:08",
-      "status": "WARN",
-      "critical": 0,
-      "high": 0,
-      "medium": 1,
-      "finding_count": 4
-    },
-    {
-      "at": "2026-09-10T04:45:19",
-      "status": "WARN",
-      "critical": 0,
-      "high": 0,
-      "medium": 1,
-      "finding_count": 4
-    },
     {
       "at": "2026-09-11T04:29:03",
       "status": "WARN",
@@ -302,6 +277,22 @@
       "high": 0,
       "medium": 1,
       "finding_count": 4
+    },
+    {
+      "at": "2026-09-19T04:26:59",
+      "status": "WARN",
+      "critical": 0,
+      "high": 0,
+      "medium": 1,
+      "finding_count": 3
+    },
+    {
+      "at": "2026-09-19T04:30:09",
+      "status": "WARN",
+      "critical": 0,
+      "high": 0,
+      "medium": 1,
+      "finding_count": 3
     }
   ]
 }

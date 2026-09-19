@@ -1,0 +1,4 @@
+people/han-guoyu.md
+organizations/north-shore-club.md
+people/rev-martin-c-wang.md
+people/h-r-hsu.md

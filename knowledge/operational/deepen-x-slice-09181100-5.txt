@@ -1,0 +1,4 @@
+organizations/taiwanese-american-professionals-austin.md
+organizations/ann-arbor-taiwanese-association.md
+organizations/silicon-valley-taiwanese-american-association.md
+organizations/taiwanese-american-lawyers-association-tala.md

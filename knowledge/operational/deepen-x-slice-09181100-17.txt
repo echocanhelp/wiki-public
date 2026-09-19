@@ -1,0 +1,4 @@
+people/prof-tien-chang-lee.md
+people/dr-shin-s-chen.md
+people/hsinkuang-chen.md
+organizations/global-alliance-for-democracy-and-peace.md

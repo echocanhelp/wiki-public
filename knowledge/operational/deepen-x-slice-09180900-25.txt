@@ -1,0 +1,4 @@
+organizations/asu-taiwanese-international-student-association.md
+people/richard-pan.md
+people/jawshing-arthur-liou.md
+people/dr-kung-ming-jan.md

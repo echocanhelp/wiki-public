@@ -1,0 +1,4 @@
+organizations/taiwanese-international-student-association.md
+people/cherry-chi.md
+people/prof-hsu-te-cheng.md
+people/dr-yao-chung-tsao.md

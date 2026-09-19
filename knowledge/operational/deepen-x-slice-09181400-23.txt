@@ -1,0 +1,4 @@
+people/doris-lu-anderson.md
+people/yensan-simon-wang.md
+people/su-hsun-sue-hsiao.md
+organizations/taiwanese-student-association-at-cu.md

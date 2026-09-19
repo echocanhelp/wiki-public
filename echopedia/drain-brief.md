@@ -1,4 +1,4 @@
-## Queue drain — 2026-09-18
+## Queue drain — 2026-09-19
 - Items: **40**
 
 - `people/chen-po-kong.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
@@ -6,32 +6,13 @@
 - `people/yuan-zhihui.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 - `people/chao-sile.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 - `organizations/tyzen-hsiao-foundation.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
-- `people/rev-martin-c-wang.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
-- `people/john-chin-jung-cheng.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 - `people/zai-xing-wang.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 - `people/rev-sheng-to-shih.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
-- `people/h-j-chen.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
-- `people/susan-chou.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
-- `people/c-l-hong.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
-- `people/j-m-chiang.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 - `people/jolan-hsieh.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 - `people/ralph-su.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
-- `people/samuel-wu.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
-- `people/felix-liu.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 - `people/rev-h-d-chen.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
-- `people/rong-hu-lu.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
-- `people/john-chang.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
-- `people/harrison-lin.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
-- `people/m-y-wu.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
-- `people/chien-ting-yeh.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
-- `people/tah-p-d0f36c77d3.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 - `people/kin-ko.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
-- `people/adrian-lin.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
-- `people/ping-wang.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
-- `people/rev-burton-tan.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
-- `people/chun-chiu.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 - `people/rev-s-y-lin.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
-- `people/dr-min-da-wu-m-d.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 - `people/carol-ou-lin.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 - `people/kelvin-yu.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 - `people/fan-jiang-ti-ang.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
@@ -39,7 +20,26 @@
 - `people/lin-baohua.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 - `people/yang-yueqing.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 - `people/guan-renjian.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
-- `media/creation-guide.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 - `people/huang-diyin.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
+- `events/sc-taiwancenter-org-event-2026-tai-wan-hui-guan-nian-hui.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
+- `people/nanfang-shuo.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
+- `people/sang-pu.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
+- `people/wang-qiaoling.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
+- `people/zou-jingwen.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
+- `people/wang-shufen.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
+- `people/xia-ming.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
+- `people/yang-yuanxun.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
+- `people/bai-peiyu.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
+- `people/tang-peili.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
+- `people/li-xiaofeng.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
+- `people/zheng-wenlong.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
+- `people/ye-siya.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
+- `people/zhang-xinhui.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
+- `events/ev-4de195c6a5.md`: add last_reviewed, WROTE
+- `events/ev-91e8cdad65.md`: add last_reviewed, WROTE
+- `events/ev-c3e523ceea.md`: add last_reviewed, WROTE
+- `events/ev-d6e9be681e.md`: add last_reviewed, WROTE
+- `events/ev-c3f5d15344.md`: add last_reviewed, WROTE
+- `events/ev-77317ce689.md`: add last_reviewed, WROTE
 
 Fail-closed first-mention is AUTO (janitor). HOLD leftover ≠ human body-link batch.

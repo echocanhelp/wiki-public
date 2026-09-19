@@ -1,0 +1,4 @@
+organizations/taiwan-hotel-and-motel-association-of-southern-california.md
+people/prof-edward-h-lee.md
+people/dr-seifu-ryu.md
+people/prof-yao-yuan-yeh.md

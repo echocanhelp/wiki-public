@@ -1,4 +1,4 @@
-## Site design audit — 2026-09-18 04:30
+## Site design audit — 2026-09-19 04:30
 
 - pages_md=15058
 - critical=0 high=0 medium=1
@@ -10,10 +10,6 @@
 ### MEDIUM (1)
 - **F4** people/index.html is 1500410 bytes — heavy on mobile. Do NOT hand-edit content/people/index.md. Search-first is the IA; regen script only if links break.
 
-### LOW (1)
-- **C1** spelling signals (sample): 1 `[AGENT_SUGGESTED]`
-  - `david-s-chen.md: ?pastoring`
-
 ### INFO (2)
 - **B2** pinned featured pages: 6 (cap 6 people + 3 orgs; overflow hides recency)
   - `people/albert-s-lai.md`
@@ -22,15 +18,15 @@
   - `people/lin-yuan-ching.md`
   - `people/yang-jia-you.md`
   - `people/yang-xin.md`
-- **B1** person/org touched ≤7d (rely on recency featured window): 1334
+- **B1** person/org touched ≤7d (rely on recency featured window): 2027
   - `people/a-n-liu.md`
+  - `people/adam-chang.md`
   - `people/adrian-lin.md`
+  - `people/agnes-hsiao.md`
   - `people/agnes-hsu.md`
+  - `people/agnes-wu.md`
   - `people/ahhee-hsu.md`
-  - `people/alan-thian.md`
-  - `people/albert-chapter1-audiobook-taiwanese-female.md`
-  - `people/albert-zh-sku-b-publisher-review.md`
-  - `people/alex-hsuan-yu-lee.md`
+  - `people/ai-jen-poo.md`
 
 ### Programmable heals
 - (none)

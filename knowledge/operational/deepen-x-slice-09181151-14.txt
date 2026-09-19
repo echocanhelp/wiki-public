@@ -1,0 +1,4 @@
+people/alexander-macdonald.md
+organizations/taiwan-center-foundation-of-greater-los-angeles.md
+people/stone-chen.md
+people/yee-phong-alan-thian.md

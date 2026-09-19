@@ -1,0 +1,4 @@
+people/david-wang.md
+organizations/georgetown-taiwanese-student-association.md
+organizations/penn-taiwanese-society.md
+organizations/columbia-university-taiwanese-graduate-student-association.md

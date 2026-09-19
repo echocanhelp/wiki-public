@@ -1,0 +1,4 @@
+people/gloria-chang.md
+people/tsai-ingwen.md
+organizations/taiwan-formosa.md
+people/paul-y-chen.md
