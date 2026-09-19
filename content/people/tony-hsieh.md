@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-18
+last_reviewed: 2026-09-19
 ---
 # Tony Hsieh (謝家華)
 
@@ -36,6 +36,7 @@ last_reviewed: 2026-09-18
 - TAH Who's Who keeps two entries for him: [[works/taiwaneseamericanhistory-org/whos261-tony-hsieh|261. Tony Hsieh 謝家華 / 2015/02]] and [[works/taiwaneseamericanhistory-org/ff288-tony-hsieh-king-of-shoes|288. Tony Hsieh 謝家華 (CEO of Zappos IP, Inc.) / King of Shoes]] (2016-05-27) — i.e. the community record documents him as a Taiwanese American business figure before/while he was mainstream-famous
 - Community obituary record: [[works/taiwaneseamericanhistory-org/my-stories-772|772. Tony Hsieh, Iconic Las Vegas Tech Entrepreneur, Dies Aged 46 / Ingrid Lunden / 11/2020]] (published 2020-11-28) — the corpus-side death notice; the frontmatter Era 1973–2020 matches "aged 46" in 2020, no conflict
 - Cross-community link: [[works/taiwaneseamerican-org/maggie-hsu-mochimag|interview with Maggie Hsu (Mochi Magazine)]] records her as Chief of Staff to Tony Hsieh at Downtown Project (Las Vegas), documenting his role as an employer/anchor for young Taiwanese Americans
+- Death-circumstances record in the community press: 2021-01-28 translated CNA report on the New London (CT) fire investigation — cause undetermined, accidental/self-inflicted or deliberate arson both left open; died 2020-11-27 of inhalation-injury complications at the Connecticut Burn Center: [[articles/taiwanjustice-net/2026/20260210063910_爭執_門鎖與火災_台裔鞋王謝家華之死疑雲未解_cdae42be20e74690|爭執、門鎖與火災，台裔鞋王謝家華之死疑雲未解]] (台灣正義通訊). Consistent with Era 1973–2020, no conflict.
 - HOLD: [[works/taiwaneseamericanhistory-org/our-journeys-384|Our Journeys 384 / UCSD Center for Taiwan Studies year-end note / 2022-12-23]] thanks a "Tony Hsieh" on its archives transition team — after the 2020 death date, so this is almost certainly a different person of the same name; the work page's link to this page should be disambiguated, not merged
 
 ## Family

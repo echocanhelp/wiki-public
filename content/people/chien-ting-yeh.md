@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-18
+last_reviewed: 2026-09-19
 ---
 # Chien-Ting Yeh (葉介庭)
 
@@ -53,3 +53,4 @@ _No filled family fields on the TAH profile._
 ## From the record
 
 - 2022-08-05 — CNA 專電（TJJ 轉載）引述：住在加州山景市的葉介庭就裴洛西訪台向《紐約時報》表示「每個人心中似乎都有個疑問：這構成了挑釁嗎？」，認為台裔美國人多數樂見裴洛西按計畫訪台，若被中國威脅嚇退反而更糟；其觀點與舊金山台裔市議員莊吳明芳相仿（[[articles/taiwanjustice-net/2022/20220810020737_2022_08_05_舊金山台裔市議員莊吳明芳_外國不能干預美國官_c692a70646f3af76|TJJ/CNA, 2022-08-05]]）。
+- 2025-04-18 — CNA（TJJ 轉載）就川普「交易式」外交重塑美中台關係報導引述智庫「美國台灣觀測站」（US Taiwan Watch）董事葉介庭：「川普就職之後，他的對話重點已經從民主、人權等共享價值觀，轉向談判能力。」（[[articles/taiwanjustice-net/2025/20250418063539_洛時_川普交易式外交-正重塑美中台關係_233e8d1ba6658bf5|TJJ/CNA, 2025-04-18]]）。
