@@ -36,6 +36,10 @@ last_reviewed: 2026-09-19
 
 _No filled family fields on the TAH profile._
 
+## Role in the Community
+- Profiled in the TAH Foundation Who's Who as community historical record [[works/taiwaneseamericanhistory-org/whoswho1364|1364. Diane D-S. Tang-Liu 湯丹霞 / 2016/11]] (published 2016-11-03, value band B).
+- Corpus scan found no memoir/letter material naming her; her biotech entrepreneurship path (NTU Pharmacy → UCSF Ph.D. → Allgenesis / DTL BioPharma Consulting / AiViva BioPharma) is recorded in the vault only through the TAH profile.
+
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/diane-d-s-tang-liu/)
 

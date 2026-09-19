@@ -34,6 +34,11 @@ last_reviewed: 2026-09-19
 - **Son:** 2
 
 
+## Role in the Community
+- Profiled in the TAH Foundation Who's Who as community historical record [[works/taiwaneseamericanhistory-org/whos-william-yau|1565. William Yau 姚火草 /03/2017]] (published 2017-03-20, value band B).
+- Spouse [[people/lindayi-fang-yau|Linda Yi-Fang Yau 劉義芳]] holds her own TAH Who's Who page; the couple are part of the Tainan-origin engineer cohort in the Taiwanese American community.
+- Corpus scan found no memoir/letter material beyond the bibliographic record; engineering career facts stand as sourced from the TAH table.
+
 ## Sources
 - [TAH #1565 encyclopedia: 1565. William Yau 姚火草 /03/2017](https://taiwaneseamericanhistory.org/whos-william-yau/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/william-yau/)

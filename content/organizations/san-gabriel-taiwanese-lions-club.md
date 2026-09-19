@@ -6,7 +6,7 @@ tags:
   - Taiwanese-American
   - Taiwan-Center-group-member
 verification_status: published
-last_reviewed: 2026-09-18
+last_reviewed: 2026-09-19
 ---
 # San Gabriel Taiwanese Lions Club
 
@@ -41,6 +41,8 @@ The club has published its own 年刊 (annual) through TAH's archive, evidencing
 - [[works/taiwaneseamericanhistory-org/publications1139|美國台灣人獅子會2016年刊]]
 
 The annual issues span at least 1997–2016, all catalogued as Magazines/雜誌 in the TAH encyclopedia.
+
+Beyond service-club social life, the club ran community-education work: the 洛杉磯台灣語言文化班 (LA Taiwanese language & culture class) was organized by the 台灣人獅子會, recorded as a TAH story-corpus item ([[works/taiwaneseamericanhistory-org/language16|16. 洛杉磯台灣語言文化班 by 台灣人獅子會]]) — evidence the club invested in language/culture transmission to the next generation in the LA Taiwanese American community.
 
 ## Sources
 - [TAH directory](https://taiwaneseamericanhistory.org/organization/san-gabriel-taiwanese-lions-club/)
