@@ -36,6 +36,13 @@ last_reviewed: 2026-09-19
 - **Wife:** 謝淑卿
 
 
+## Role in the Community
+- 1970年代參與陳文成紀念基金會募款（安雅堡、蘭辛、底特律同鄉義舉之一），見許永華回憶錄 [[works/taiwaneseamericanhistory-org/ourjourneys321|321. 由陳文成紀念基金會的創立談起 / 許永華 /11/2017]]。
+- 1979年與密西根同鄉林宜雄二人親赴匯款，以安雅堡台灣同鄉會名義匯至台北第一銀行指定給施明德（款項令施明德受國民黨干擾，見同文；郭雨新《台灣民主通訊》曾報導）。
+- 本人檔案收藏入庫 TAH：[[works/taiwaneseamericanhistory-org/collection-of-dr-bernie-huang|20. Collection of Dr. Bernie Huang 黃邦男博士的收藏]]。
+- TAH Who's Who 紀錄：[[works/taiwaneseamericanhistory-org/whoswho1035|1035. B. N. Huang 黃邦男 / 2016/05]]。
+- HOLD: 收藏頁署名「Bernie Huang」與 Who's Who「B. N. Huang」是否同一人，未經本人資料確認，不自動合併。
+
 ## Sources
 - [TAH #1035 encyclopedia: 1035. B. N. Huang 黃邦男 / 2016/05](https://taiwaneseamericanhistory.org/whoswho1035/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/b-n-huang/)
