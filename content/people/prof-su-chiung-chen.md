@@ -32,7 +32,7 @@ Prof. Su-Chiung Chen 陳素瓊教授 – History of Taiwanese American (T.A. Arc
 
 ## Family
 
-- **Husband:** Hsiu-San Lin (林秀三)
+- **Husband:** [[people/prof-hsiu-san-lin|Hsiu-San Lin 林秀三]] — reciprocal spouse link on his page
 - **Daughter:** Elizabeth Lin
 - **Son:** Kenneth Lin, Michael Lin
 

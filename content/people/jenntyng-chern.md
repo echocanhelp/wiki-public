@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-19
 ---
 # Jenntyng Chern (陳振庭)
 
@@ -35,6 +35,10 @@ last_reviewed: 2026-08-17
 ## Family
 
 _No filled family fields on the TAH profile._
+
+## Role in the Community
+
+- Community record held in the corpus as [[works/taiwaneseamericanhistory-org/whoswho1174|TAH encyclopedia record #1174 (2016-07-23)]]. The record is bibliographic only (value band B); no memoir text in the vault names him, so no community activity beyond the TAH Who's Who entry itself is absorbable.
 
 ## Sources
 - [TAH #1174 encyclopedia: 1174. Jenntyng Chern 陳振庭 / 2016/07](https://taiwaneseamericanhistory.org/whoswho1174/)
