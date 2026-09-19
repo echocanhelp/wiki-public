@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-18
+last_reviewed: 2026-09-19
 ---
 # Whe-Lan Wu Detrick (迪惠蘭)
 
@@ -36,10 +36,11 @@ last_reviewed: 2026-09-18
 
 ## Role in the Community
 
-- She contributed a personal story 「那一年」 (2015/07) to the TAH My Stories collection — recorded as [[works/taiwaneseamericanhistory-org/mystories296|296. 那一年/迪惠蘭]] with an English version [[works/taiwaneseamericanhistory-org/mystories-296-eng|THAT YEAR / Whelan Detrick]].
-- TAH holds a dedicated papers entry for her: [[works/taiwaneseamericanhistory-org/78-collection-of-whenlan-detrick|78. Collection of Whenlan Detrick 迪惠蘭]] (2018).
+- She contributed a personal story 「那一年」 (2015/07) to the TAH My Stories collection — recorded as [[works/taiwaneseamericanhistory-org/mystories296|296. 那一年/迪惠蘭, 2015/07]] with an English version [[works/taiwaneseamericanhistory-org/mystories-296-eng|THAT YEAR / Whelan Detrick]] (English record dated 2020/11).
+- TAH holds a dedicated papers entry for her: [[works/taiwaneseamericanhistory-org/78-collection-of-whenlan-detrick|78. Collection of Whenlan Detrick 迪惠蘭]] (record 2018-12-06).
 - She and her husband John Detrick are listed as signatories representing the East Bay Taiwanese Association (東灣台灣同鄉會) in the Pew Research Center Taiwanese American statement — [[works/taiwaneseamerican-org/pew-research-center-taiwanese-american-statement|Pew Research Center Taiwanese American statement]].
-- Her Who's Who entry itself is archived as [[works/taiwaneseamericanhistory-org/whoswho-whelan-wu-detrick|TAH #1535, Whe-Lan Wu Detrick 迪惠蘭]] (2017/02).
+- Her Who's Who entry itself is archived as [[works/taiwaneseamericanhistory-org/whoswho-whelan-wu-detrick|TAH #1535, Whe-Lan Wu Detrick 迪惠蘭]] (2017/02, record 2017-02-26), in the same 2017/02 batch as #1534 John Yu 游正博 and #1533 Alice Yu 游陳鈴津.
+- HOLD: TAH's own records spell her given name three ways across entries — Whe-Lan / Whelan / Whenlan; left unmerged pending owner-confirmed spelling.
 
 ## Sources
 - [TAH #78 encyclopedia: 78. Collection of Whenlan Detrick 迪惠蘭](https://taiwaneseamericanhistory.org/78-collection-of-whenlan-detrick/)
