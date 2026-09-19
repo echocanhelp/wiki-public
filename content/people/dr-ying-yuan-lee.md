@@ -60,6 +60,7 @@ last_reviewed: 2026-09-19
 
 ## From the record
 
+- 2021-11-22 — NATPA 會長鄭麗伶暨全體理事弔文〈哲人日已遠：敬弔李應元博士〉列於 TJJ「我的肥皂箱」人氣存檔頁（2024-02-28 存檔）（[[articles/taiwanjustice-net/2024/20240228160808_root_f1972734edb3c446|TJJ 我的肥皂箱分類頁，2024-02-28 存檔]]）。
 - 2021-11-22 — NATPA 會長鄭麗伶暨全體理事發敬弔文悼之，回顧其加入台獨聯盟、參與創立台灣學生社，2000 年出任駐美副代表、2002 年參選台北市長、2004 年籌辦百萬人民牽手護台灣，生命最後仍出使泰國任內盡瘁（[[articles/taiwanjustice-net/2021/20211207111000_2021_11_22_哲人日已遠_敬弔李應元博士-_natpa鄭麗伶會長暨全_efea1ad2d8cb4d11|TJJ，2021-11-22]]）。
 - 2021-11 — Died after illness; per Taiwan Justice coverage his 家祭 was set for 11-30 with 植存 (Buddhist natural burial) at 法鼓山 on 12-02, and NATPA president 鄭麗伶 led a memorial 「哲人日已遠：敬弔李應元博士」 ([[articles/taiwanjustice-net/2022/20220701171700_tag_李應元_23924f7ad0d93713|TJJ tag page, archived 2022-07-01]]).
 

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-18
+last_reviewed: 2026-09-19
 ---
 # Li-Lin Cheng (鄭麗伶)
 
@@ -57,6 +57,7 @@ BVM (Bachelor of Veterinary Medicine)
 
 ## From the record
 
+- 2021-11-22 — 以 NATPA 會長暨全體理事名義署名之弔文〈哲人日已遠：敬弔李應元博士〉列於 TJJ「我的肥皂箱」人氣存檔頁（2024-02-28 存檔）（[[articles/taiwanjustice-net/2024/20240228160808_root_f1972734edb3c446|TJJ 我的肥皂箱分類頁，2024-02-28 存檔]]）。
 - 2021-11-22 — 弔文〈哲人日已遠：敬弔李應元博士〉原文（◎NATPA鄭麗伶會長暨全體理事）存檔於台灣公義報「意見評論」類（[[articles/taiwanjustice-net/2021/20211207111000_2021_11_22_哲人日已遠_敬弔李應元博士-_natpa鄭麗伶會長暨全_efea1ad2d8cb4d11|TJJ，2021-11-22]]）。
 - 2021-11-22 — As president of NATPA (北美洲台灣人教授協會), issued with all board directors the memorial 「哲人日已遠：敬弔李應元博士」 on Taiwan Justice ([[articles/taiwanjustice-net/2022/20220701171700_tag_李應元_23924f7ad0d93713|TJJ tag page, archived 2022-07-01]]).
 
