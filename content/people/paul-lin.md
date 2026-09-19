@@ -45,6 +45,7 @@ last_reviewed: 2026-09-18
 
 - 2012-10-24 — Lectured at the 長青教室 on 郝龍斌倡導阿扁保外就醫論評 (mayor Hau Lung-bin's advocacy of former president Chen Shui-bian's medical parole) (心得報告 posted 2012-10-26) ([[articles/taiwanjustice-net/2024/20240621163532_root_e9ec20fd58bf6b1c|TJJ tag page, archived 2024-06-21]]).
 - 2012-10-24 — 全文存檔版同見台灣公義報「心得報告」標籤彙整頁（2024-07-19 存檔）（[[articles/taiwanjustice-net/2024/20240719221902_root_dc44b297e6225e64|TJJ 心得報告全文, 2012-10-26 刊登]]）。
+- 2017-10-18 — 於長青教室主講「政黨輪替的優勢, 劣勢, 機會與威脅」（附影音）；台灣公義報「台美人台加人」分類頁（2024-04-25 存檔）收錄該講題報導（2017-10-19 刊登）（[[articles/taiwanjustice-net/2024/20240425074022_root_63717cb2b99ce3c3|TJJ 台美人台加人存檔頁]]）。
 
 ## Role in the Community
 

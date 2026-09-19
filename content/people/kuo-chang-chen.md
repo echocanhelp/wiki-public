@@ -58,6 +58,10 @@ Accomplishment
 - [TAH #1138 encyclopedia: 1138. Kuo Chang Chen 陳國昌](https://taiwaneseamericanhistory.org/whos-who-1138-kuo-chang-chen/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/kuo-chang-chen/)
 
+## From the record
+
+- 2013-12-15 — 以會計師身分撰寫「(美國)2013年終稅法新知」专栏（12/15/2013），台灣公義報「台美人台加人」分類存檔（2024-04-25 快照）收錄該篇（[[articles/taiwanjustice-net/2024/20240425074022_root_63717cb2b99ce3c3|TJJ 台美人台加人存檔頁]]）。
+
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
