@@ -117,6 +117,10 @@ Notable quotes and mentions of **黃根深** in Taiwan Justice articles:
 1. "VID-19新冠仇恨犯罪法》 ：美國不會給仇恨留下空間 台美人台加人 May 20, 2021 台美人物誌-半世紀前UCLA的那些日子-與談人︰李木通、劉天良、黃根深@03092016 ◎美洲台灣日報 台美人台加人 August 22, 2017 大洛杉磯台灣會館2016 年會暨募款晚會特別來賓黃國昌立委會前記者會@10/2"
    — 台美人台加人 (2016-05-17)
 
+## From the record
+
+- 2016-03-09 — 與李木通、劉天良同為「台美人物誌—半世紀前 UCLA 的那些日子」座談與談人（美洲台灣日報記錄），見台灣公義報「台美人台加人」分類存檔（2024-05-20 快照）—— [[articles/taiwanjustice-net/2024/20240520023218_root_89e6683c93156205|TJJ 台美人台加人存檔頁]]。
+
 ## Source Notes and Confidence
 - **Content priority A:** 2017 TAHS Publication profile "用畫筆搞台獨的黃根深教授" (Part 2, L667–843), by 陳婉真
 - **Hub:** [[sources/2017-tahs-publication||2017 TAHS Publication]]

@@ -66,6 +66,10 @@ last_reviewed: 2026-08-17
 2. He argued that Taiwan's geographic advantages — the Taiwan Strait as a natural barrier and its high-tech industry — make its defense more feasible than Ukraine's.
 3. Advocated for mandatory military service extension in Taiwan, citing Israel as a model for full societal mobilization.
 
+## From the record
+
+- 2016-03-09 — 與[[people/thomas-liu||劉天良]]、黃根深同為「台美人物誌—半世紀前 UCLA 的那些日子」座談與談人（美洲台灣日報記錄），見台灣公義報「台美人台加人」分類存檔（2024-05-20 快照）—— [[articles/taiwanjustice-net/2024/20240520023218_root_89e6683c93156205|TJJ 台美人台加人存檔頁]]。
+
 ## Source Notes and Confidence
 - **Content priority A:** 2023 TAHS Publication (profile, "奠基‧傳承" section, ~2720 lines)
 - **Hub:** [[sources/2023-tahs-publication||2023 TAHS Publication]]
