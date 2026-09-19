@@ -34,6 +34,10 @@ last_reviewed: 2026-09-19
 
 _No filled family fields on the TAH profile._
 
+## Role in the Community
+- Her TAH Who's Who encyclopedia entry is held in the corpus as [[works/taiwaneseamericanhistory-org/whoswho1308|1308. Fan-Ming Lin 林芳敏 / 2016/10]] (published 2016-10-09) — the bibliographic record behind this page.
+- Corpus memoirs/articles carry no further mentions beyond the index listing; the NAPAM New York Chapter presidency currently rests only on the TAH profile.
+
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/fan-ming-lin/)
 

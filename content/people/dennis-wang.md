@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-19
 ---
 # Dennis Wang (王梓仁)
 
@@ -30,6 +30,10 @@ last_reviewed: 2026-08-17
 
 - **Father:** 王健椎 Mother: 許秀香
 
+
+## Role in the Community
+- His TAH Who's Who encyclopedia entry is held in the corpus as [[works/taiwaneseamericanhistory-org/537-dennis-wang-e7-8e-8b-e6-a2-93-e4-bb-81-201508|537. Dennis Wang 王梓仁 / 2015/08]] (published 2015-08-18) — the bibliographic record behind this page.
+- No other community mentions in corpus memoirs/articles.
 
 ## Sources
 - [TAH #537 encyclopedia: 537. Dennis Wang 王梓仁 / 2015/08](https://taiwaneseamericanhistory.org/537-dennis-wang-%e7%8e%8b%e6%a2%93%e4%bb%81-201508/)

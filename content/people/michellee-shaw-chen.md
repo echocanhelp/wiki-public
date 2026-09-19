@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-19
 ---
 # Michellee Shaw Chen (陳美真理)
 
@@ -38,6 +38,10 @@ last_reviewed: 2026-08-17
 - **Son:** Lucas
 - **Father:** 陳哲仁 Mother:蕭永真
 
+
+## Role in the Community
+- Corpus material is limited to her own TAH Who's Who entry ([[works/taiwaneseamericanhistory-org/whos871-michellee-shaw-chen|TAH #871 Michellee Shaw Chen 陳美真理 / 2016-03]]); no memoir/community activity found in works/articles beyond the press-kit bio.
+- Family link absorbed from the Who's Who entity graph: father 陳哲仁 is Dr. Donald C.J. Chen ([[people/donald-c-j-chen]]), whose entry [[works/taiwaneseamericanhistory-org/ff309|TAH #309]] records the first private medical practice by a Taiwanese American in the area (ENT specialist, Camp Spring, Maryland). Siblings also documented: [[people/angellee-shaw-chen|陳安仁理]] ([[works/taiwaneseamericanhistory-org/whos872-angellee-shaw-chen|TAH #872]]), 陳善哲 ([[works/taiwaneseamericanhistory-org/whos-who-870-shante-shaw-chen|TAH #870]]), 陳安哲醫師 ([[works/taiwaneseamericanhistory-org/whos-who-869-andre-chen|TAH #869]]).
 
 ## Sources
 - [TAH #871 encyclopedia: 871. Michellee Shaw Chen 陳美真理/ 2016/03](https://taiwaneseamericanhistory.org/whos871-michellee-shaw-chen/)
