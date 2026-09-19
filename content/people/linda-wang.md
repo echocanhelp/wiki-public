@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-18
+last_reviewed: 2026-09-19
 ---
 # Linda Wang (王琳琦)
 
@@ -34,7 +34,7 @@ last_reviewed: 2026-09-18
 ## Role in the Community
 - Per Lin Heng-cheh's (林衡哲) memoir of the Southern California Taiwanese United Fund (TUF), around 1986 TUF's founding act in SoCal — organized under 許丕龍 — was a concert to raise a Juilliard scholarship for violinist Linda Wang and her sister (Linda Wang姊妹) after their father's sudden death left them facing having to drop out; the TUF scholarship carried them through. Linda later won the Geneva International Violin Competition while studying at USC (HOLD: TAH profile education lists 南加大 B.S. without dates; memoir ties the Geneva win to her USC years) ([[works/taiwaneseamericanhistory-org/ourjourneys301|301. 南加州臺灣人聯合基金會的誔生、回顧與展望（1986-1996）／林衡哲]]).
 - Encyclopedia/musician records: [[works/taiwaneseamericanhistory-org/musician362|TAH #362, Linda Wang 王琳琦, Violinist]] and [[works/taiwaneseamericanhistory-org/whoswho1278|TAH #1278, Linda Wang 王琳琦]] (both 2016-09).
-- Re-grepped 2026-09-18 (deepen-x slice 09170700-3): no corpus facts beyond the above — all remaining hits are the same #362/#1278 records plus the index.
+- Re-grepped 2026-09-19 (deepen-x slice 09180500-5): no corpus facts beyond the above — all remaining hits are the same #362/#1278 records plus the index.
 
 ## Family
 

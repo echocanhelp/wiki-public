@@ -1,0 +1,17 @@
+import re, pathlib, os
+os.chdir(os.path.dirname(os.path.abspath(__file__)))
+files = [
+ "articles/taiwanjustice-net/2021/20211205043357_2021_07_11_台裔學者陳仁宜角逐加州主計長_感恩父母支持_a1056cd694ea21cb.md",
+ "articles/taiwanjustice-net/2024/20240530134421_root_23da543a315a1fa1.md",
+ "articles/taiwanjustice-net/2024/20240522053244_root_042939d886040651.md",
+ "articles/taiwanjustice-net/2026/20260115091334_吳斯懷_粉身碎骨_說-吳怡農_聽聽就好_下架_8559790a51be8817.md",
+]
+for f in files:
+    p = pathlib.Path(f)
+    t = p.read_text()
+    t2 = re.sub(r'\[\[(people|organizations|works|sources)/([^\]|\n]+?)\.md([\]|\n])', r'[[\1/\2\3', t)
+    if t2 != t:
+        p.write_text(t2)
+        print("fixed", f)
+    else:
+        print("clean", f)

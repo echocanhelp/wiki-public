@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-18
+last_reviewed: 2026-09-19
 ---
 # New York Taiwan Center (紐約台灣會館)
 
@@ -23,6 +23,8 @@ New York Taiwan Center (紐約台灣會館) is a non-profit 501(c)(3) organizati
 - Runs a senior center: [[works/taiwaneseamericanhistory-org/ny-taiwan-center-senior-center|30. 紐約台灣會館老人中心]] (2017-06-26).
 - Hosts community performances: [[works/taiwaneseamericanhistory-org/concerts117|117. Hello Taiwan 喂台灣]], at the Center in Flushing, NY on 2017-11-05, co-listed with the [[organizations/taiwanese-american-council|Taiwanese American Council]]; the record also names Dr. Tu Chen, Morisan Lu, Maurice Hsu, Patrick Huang, and Martin Tsai.
 - Leadership is in the TAH oral history record: [[works/taiwaneseamericanhistory-org/video-183|183. President of NYTC – 蘇春槐 Chun-Hwai Su's Journey]] (band A, 2025-08-01) — 蘇春槐 served as NYTC president 2024–2025; see [[people/su-chun-huai|蘇春槐]].
+- The Center's own community organ is held in the corpus: [[works/taiwaneseamericanhistory-org/newslettertaiwan-centernew-york|紐約台灣會館通訊 / Taiwanese American Community Newsletter]] (2015-07-28).
+- The movement memoir record includes institutional histories of the Center: Chia-lung Cheng's "紐約台灣會館: 在困境中更新 / Rebirth in the Midst of Hardship" (band A, 2014-09-05), [[works/taiwaneseamericanhistory-org/ourjourneys27-eng|Our Journeys 27]], and the 社團篇 excerpt "紐約台灣會館" from 咱要出頭天, [[works/taiwaneseamericanhistory-org/ourjourneys181|Our Journeys 181]] (2015-10-19), which names 劉蘇多惠 and 賴清德 in connection with the Center. See also the directory record [[works/taiwaneseamericanhistory-org/new-york-taiwan-center|New York Taiwan Center 紐約台灣會館]].
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/new-york-taiwan-center/)

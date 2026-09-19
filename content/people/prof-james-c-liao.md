@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-18
+last_reviewed: 2026-09-19
 ---
 # Prof. James C. Liao (廖俊智教授)
 
@@ -40,7 +40,7 @@ last_reviewed: 2026-09-18
 - 2016 — named President of Academia Sinica, recorded in TAH's notable-events series: [[works/taiwaneseamericanhistory-org/important2016-22|22. New President of Academia Sinica, Taiwan / Prof. James C. Liao (廖俊智) / 06/21/2016]] (matches Employment 2016–2018)
 - 2023 — received an international award and urged metabolic engineering to address global warming: [[works/taiwaneseamericanhistory-org/my-stories-879|879. 廖俊智獲頒國際獎項 籲利用代謝工程因應全球暖化]] (2023-06-14)
 - Held in the TAH Who's Who records: [[works/taiwaneseamericanhistory-org/107-prof-james-c-liao|107]] and [[works/taiwaneseamericanhistory-org/whos-who-1081-james-c-liao|1081]].
-- Re-grepped 2026-09-18 (deepen-x slice 09170700-3): corpus hits are confined to the already-linked records (107, 1081, mystories239, important2016-22, my-stories-879) plus the index — no new absorbable facts.
+- Re-grepped 2026-09-19 (deepen-x slice 09180500-4): corpus hits still confined to the already-linked records (107, 1081, mystories239, important2016-22, my-stories-879) plus the index — no new absorbable facts.
 
 ## Sources
 - [TAH #107 encyclopedia: 107. Prof. James C. Liao 廖俊智教授](https://taiwaneseamericanhistory.org/107-prof-james-c-liao/)

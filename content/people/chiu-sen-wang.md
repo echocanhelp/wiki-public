@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-18
+last_reviewed: 2026-09-19
 ---
 # Chiu-Sen Wang (王秋森教授)
 
@@ -45,6 +45,8 @@ last_reviewed: 2026-09-18
 - 1966 — 作為洛杉磯地區台獨團體代表參與 UFI（台灣獨立聯盟）與 FASG（台灣問題研究會）協調談判及 6-18 費城會談，並出席 7-4 成立的「全美台灣獨立聯盟」UFAI 創會；獲選為中央委員會委員（後辭職，與张文祺同為辭職二人；主席陳以德、中央委員長周烒明）（[[works/taiwaneseamericanhistory-org/ourjourneys81|TAH #81〈早期威大台灣學生在台灣建國運動所扮演的角色〉周烒明起稿]]）。
 - 2015 — 撰寫追思文〈憶許永華兄〉刊於 TAH（[[works/taiwaneseamericanhistory-org/235-e6-86-b6-e8-a8-b1-e6-b0-b8-e8-8f-af-e5-85-84-e7-8e-8b-e7-a7-8b-e6-a3-ae20150|TAH #235]]）。
 - 1987 — 編有《台灣公共政策研討會論文集》（[[works/taiwaneseamericanhistory-org/publications1092|TAH #1092]]）。
+- 1973–1974 — 時任 Syracuse 同鄉會負責人，於 1973 年美東基督徒第四屆暨美東台灣同鄉會第一屆夏令會（Camp Taconic, NY）後答應負責籌辦 1974 年美東夏令會，自此美東夏令會年年延續，並帶動美西、美南、中西部相繼成立夏令會，成為全美會區域性主要活動之一（[[works/taiwaneseamericanhistory-org/ourjourneys76|TAH #76]]；英文版 [[works/taiwaneseamericanhistory-org/ourjourneys76-eng]]）。
+- 2015-04 — TAH 收錄其個人紀錄「377. Chiu-Sen Wang 王秋森/2015/04」（[[works/taiwaneseamericanhistory-org/377-chiu-sen-wang|TAH #377]]）。
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/chiu-sen-wang/)
