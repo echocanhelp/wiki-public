@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-17
+last_reviewed: 2026-09-19
 ---
 # Taiwanese Association of America Dallas-Fort Worth (達拉斯台灣同鄉會)
 
@@ -23,6 +23,7 @@ The Taiwanese Association of America Dallas-Fort Worth (TAA-DFW, 達拉斯台灣
 - Also known as 達福台灣同鄉會 (Dallas/Fort Worth Chapter, TAA). TAH Foundation holds a dedicated chapter record (2015-12-18) — [[works/taiwaneseamericanhistory-org/dallasfort-worth-chapter-taa|TAH chapter record, 達福台灣同鄉會]].
 - 1994-11-26 — hosted 感恩節音樂晚會 in Dallas, TX — [[works/taiwaneseamericanhistory-org/concerts79|TAH 檔案 79, 感恩節音樂晚會]].
 - Peer DFW community institutions in the record include 達拉斯台灣基督長老教會, 達拉斯台心合唱團 (Formosa Chorus of Dallas/TaiHsin), 達拉斯台灣基督教會, and 新台灣基金會(達拉斯) — see [[works/taiwaneseamericanhistory-org/taiwanese-presbyterian-church-of-dallas|RPC Dallas]], [[works/taiwaneseamericanhistory-org/formosa-chorus-of-dallas-taihsin|台心合唱團]], [[works/taiwaneseamericanhistory-org/formosan-christian-church-of-dallas|Formosan Christian Church]], [[works/taiwaneseamericanhistory-org/ntf-dallas|新台灣基金會(達拉斯)]].
+- Parallel DFW Taiwanese civic life in the record also includes the Taiwanese Chamber of Commerce in Dallas-Fort Worth, whose New Year Gala is documented at [[works/taiwaneseamerican-org/new-year-gala-hosted-by-taiwanese-chamber-of-commerce-in-dallas-fort-worth|TCC DFW New Year Gala]] — a separate organization from the chapter.
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-association-of-america-dallas-fort-worth/)

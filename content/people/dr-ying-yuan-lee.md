@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-18
+last_reviewed: 2026-09-19
 ---
 # Dr. Ying-Yuan Lee (李應元博士)
 
@@ -40,6 +40,10 @@ last_reviewed: 2026-09-18
 - 1990 年 NATPA 第十屆年會回台：黑名單未全解，乃有「李應元翻牆潛入台灣」插曲，該年會為 NATPA 十年來最盛大（會員及眷屬 150 人）（[[works/taiwaneseamericanhistory-org/ourjourneys164|Our Journeys 164「我們這一代的台美人」]]）。年會側記另存黑名單談判全程：由十八名減至十三名、最後僅留吳明基與李應元兩位講員（日本郭榮桔返台受阻），李應元屬「按兵不動」之吳明基外的另一極——隨軍翻牆入台；其事引發郝柏村下令阻挠年會開幕貴賓（吳伯雄、黃大洲等臨時退出）（[[works/taiwaneseamericanhistory-org/ourjourneys47|Our Journeys 47 NATPA 回台年會記]]）。
 - 黑名單闖關與土城繫獄：1988–1991 海外黑名單闖關回台潮中，李應元與郭倍宏、陳翠玉、羅益世、陳婉真、王康陸、張燦鍙等陸續返台；1991 年以刑法一百條「預備顛覆」被逮禁見，台大恩師李鎮源院士親赴土城看守所探視，並催生「100行動聯盟」反閱兵運動（[[works/taiwaneseamericanhistory-org/ourjourneys230|Our Journeys 230]]）。狱中書簡見林又新〈永遠的戰士（郭倍宏，李應元土城書簡）〉1993-10（[[works/taiwaneseamericanhistory-org/306-e6-b0-b8-e9-81-a0-e7-9a-84-e6-88-b0-e5-a3-ab-e9-83-ad-e5-80-8d-e5-ae-8f-e6-9|306. 永遠的戰士]]）。
 - 本人筆錄：自傳〈人生的驚嘆號〉（2002-09，[[works/taiwaneseamericanhistory-org/publications277|277. 人生的驚嘆號]]）、回憶〈牽手一生共苦同甘〉（[[works/taiwaneseamericanhistory-org/mystories35-2|My Stories #35]]），與已連結之〈帶尿布的學運領袖〉並列為第一手材料；TAH 百科書目另見 [[works/taiwaneseamericanhistory-org/116-dr-ying-yuan-lee-e6-9d-8e-e6-87-89-e5-85-83-e5-8d-9a-e5-a3-ab|116. Dr. Ying-Yuan Lee 李應元]]。
+- 駐泰任內：2020-06-10 總統府公告特任李應元為駐泰國大使（同令特任李南陽駐斯洛伐克）；報導追述其以第2名成績考進台大公共衛生研究所、赴美期間因海外獨立運動列黑名單、解嚴後闖關回台、因違反刑法100條入獄（[[articles/taiwanjustice-net/2026/20260208194910_總統府公告李應元駐泰國_李南陽出使斯洛伐克_ea5697e63486f5e7|TJJ 總統府公告駐泰，原 2020-06-10]]）。
+- 駐美副代表任內應邀在 FAPA 年表所記某年 7 月演講《對美外交及其他》（[[works/taiwaneseamericanhistory-org/ourjourneys123|Our Journeys 123 FAPA 簡史]]）；2014 年大會中與王定宇、范雲、李惠仁等分享街頭抗爭經驗（[[works/taiwaneseamericanhistory-org/ourjourneys153|Our Journeys 153]]）。
+- 逝世後文化界追思：2021-11-15 李登輝基金會「誠實自然：2021年李登輝紀念音樂會」（國家音樂廳，八角塔男聲合唱團演出、吳念真導聆串場）以《黃昏的故鄉》一曲致敬李應元，吳念真在曲终特別向已逝的李應元致意（[[articles/taiwanjustice-net/2021/20211207121721_2021_11_15_李登輝紀念音樂會邀總統出席-歌曲致敬李應元_9085a6972ae2b014|TJJ 2021-11-15]]）。
+- 黑名單運動旁證：1993 年全美台灣人權會會長王泰和任內，正值郭倍宏、李應元、張燦鍙、王康陸、陳婉真等陸續闖關返台，人權會向國際特赦協會求助、各地組織認領被捕者營救（[[articles/taiwanjustice-net/2025/20250811013132_化作千風_懷念台美人的人權鬥士_台獨先鋒王泰_31b7081a5d37939f|TJJ 紀念王泰，2025-08]]）。
 - 逝世報導直檔：「李應元辭世 11-30 家祭、12-2 植存法鼓山」（台灣公義報 2021-11-17，[[articles/taiwanjustice-net/2022/20220521160334_2021_11_17_李應元辭世11-30家祭-12-2植存法鼓山_701d4ef787e2e410|TJJ 2021-11-17]]）。
 
 ## Family
