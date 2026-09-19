@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-19
 ---
 # Dr. Cheng-Hung Yeh (葉澄鴻博士)
 
@@ -41,5 +41,6 @@ _No filled family fields on the TAH profile._
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-cheng-hung-yeh/)
 
 ## Related Pages
+- [[works/taiwaneseamericanhistory-org/whos-who-2124-cheng-hung-yeh|2124. Dr. Cheng-Hung Yeh 葉澄鴻博士]] — TAH Who's Who record (2018-06-07)
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

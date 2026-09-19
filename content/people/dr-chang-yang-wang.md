@@ -7,11 +7,12 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-18
+last_reviewed: 2026-09-19
 ---
 # Dr. Chang-Yang Wang (王昌洋醫師)
 
 <!-- deepen-x 09170700-18: SKIP — only corpus hit is his own TAH press-kit record whos-who-1967-chang-yang-wang (bibliographic stub, no community/corpus facts to absorb). No memoir/article mentions found in works+articles. -->
+<!-- deepen-x 09180500-21: re-verified 2026-09-19 — corpus hits remain limited to his own TAH record + works/index listing; no community/corpus facts to absorb. Corpus work page now wikilinked below. -->
 
 ## Identity Snapshot
 - **English:** Dr. Chang-Yang Wang
@@ -41,5 +42,6 @@ _No filled family fields on the TAH profile._
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-chang-yang-wang/)
 
 ## Related Pages
+- [[works/taiwaneseamericanhistory-org/whos-who-1967-chang-yang-wang|TAH #1967 王昌洋 百科 entry (2017-12-03)]]
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

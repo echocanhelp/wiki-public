@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-19
 ---
 # Eric Wu (吳爾融)
 
@@ -34,6 +34,9 @@ last_reviewed: 2026-08-17
 ## Family
 
 _No filled family fields on the TAH profile._
+
+## Role in the Community
+- 南灣生活座談會 later-joining member (創會後加入). The chapter's members' community service spans 同鄉會、台美學校、公民協會、醫師協會、報紙 (from [[works/taiwaneseamericanhistory-org/ourjourneys212|Our Journeys 212]]).
 
 ## Sources
 - [TAH #1385 encyclopedia: 1385.  Eric Wu 吳爾融/ 2016/11](https://taiwaneseamericanhistory.org/whoswho1385/)

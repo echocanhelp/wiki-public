@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-19
 ---
 # Theodore Ted Wing (溫庭宇)
 
@@ -27,6 +27,10 @@ last_reviewed: 2026-08-17
 ## Employment
 - Gradalis Inc. — present — Surgical Training Specialist
 <!-- tah-tables:end -->
+
+## Role in the Community
+
+- Profiled in the TAH Foundation Who's Who encyclopedia record [[works/taiwaneseamericanhistory-org/whoswho1375|1375. Theodore (Ted) Wing 溫庭宇]] (2016-11-05, band B). Corpus holds the bibliographic record only; no memoir/narrative corpus material beyond the TAH profile.
 
 ## Family
 

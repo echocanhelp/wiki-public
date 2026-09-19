@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-19
 ---
 # Castor Yu (尤中正)
 
@@ -28,6 +28,10 @@ last_reviewed: 2026-08-17
 ## Employment
 - 保險業 — 1986 — Owner
 <!-- tah-tables:end -->
+
+## Role in the Community
+- TAH 名錄紀錄見 [[works/taiwaneseamericanhistory-org/68-castor-yu-e5-b0-a4-e4-b8-ad-e6-ad-a3|68. Castor Yu 尤中正]]（2014-10-19 建檔）。
+- 投稿文章〈財產轉移〉刊於 Life/生活 版（2006/05），紀錄見 [[works/taiwaneseamericanhistory-org/1-e8-b2-a1-e7-94-a2-e8-bd-89-e7-a7-bb-e5-b0-a4-e4-b8-ad-e6-ad-a3|1. 財產轉移 / 尤中正 / 2006-05]]。
 
 ## Family
 

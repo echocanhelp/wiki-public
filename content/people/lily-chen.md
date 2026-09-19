@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-19
 ---
 # Lily Chen (陳佳俐)
 
@@ -27,6 +27,10 @@ last_reviewed: 2026-08-17
 ## Employment
 - Keller Williams Valley Realty — Agent
 <!-- tah-tables:end -->
+
+## Role in the Community
+
+- Profiled in the TAH Foundation Who's Who encyclopedia record [[works/taiwaneseamericanhistory-org/404-lily-chen-e9-99-b3-e4-bd-b3-e4-bf-90-201505|404. Lily Chen 陳佳俐]] (2015-05-10, band B). Corpus holds the bibliographic record only; no further community/memoir material found.
 
 ## Family
 
