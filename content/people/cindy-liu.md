@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-19
 ---
 # Cindy Liu (劉杏芳)
 
@@ -34,6 +34,10 @@ last_reviewed: 2026-08-17
 ## Family
 
 _No filled family fields on the TAH profile._
+
+## Role in the Community
+
+- Two records document her dual role as conductor and woodwind educator, both published 2016-07-30: the musician profile ([[works/taiwaneseamericanhistory-org/musician352|TAH #352, Cindy Liu 劉杏芳, Conductor, 2016-07-30]]) and the Who's Who entry ([[works/taiwaneseamericanhistory-org/whos-hsingfang-cindy-liu|TAH #1200, Hsingfang Cindy Liu 劉杏芳, 2016-07-30]]). Both are bibliographic records (full text stays in the TAH vault) and corroborate the 台心合唱團 conducting and Plano/Frisco ISD clarinet-teaching record.
 
 ## Sources
 - [TAH #352 encyclopedia: 352. Cindy Liu劉杏芳, Conductor / 2016/07](https://taiwaneseamericanhistory.org/musician352/)

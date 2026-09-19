@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-19
 ---
 # Rachel Ku
 
@@ -33,6 +33,10 @@ Violist Rachel Ku joined The Philadelphia Orchestra as the youngest member of th
 ## Family
 
 _No filled family fields on the TAH profile._
+
+## Role in the Community
+
+- Two records document her as a violist, both published 2015-05-03: ([[works/taiwaneseamericanhistory-org/192-rachel-ku-violist-201505|TAH #192, Rachel Ku, Violist, 2015-05-03]]) and ([[works/taiwaneseamericanhistory-org/394-rachel-ku-201504|TAH #394, Rachel Ku, 2015-05-03]]). Both are bibliographic records (full text stays in the TAH vault) and corroborate the Philadelphia Orchestra membership from September 2004 documented on this page.
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/rachel-ku/)

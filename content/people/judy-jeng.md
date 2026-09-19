@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-19
 ---
 # Judy Jeng (洪秀芬)
 
@@ -37,6 +37,10 @@ last_reviewed: 2026-08-17
 - **Daughter:** Amanda & Jessica
 - **Son:** Perry
 
+
+## Role in the Community
+
+- Own encyclopedia entry held in the movement record: TAH #104 profile, published 2014-11-20 ([[works/taiwaneseamericanhistory-org/104-e6-b4-aa-e7-a7-80-e8-8a-ac-judy-jeng|TAH #104, 2014-11-20]]) — bibliographic record (full text stays in the TAH vault); the earliest corpus footprint of her library-science and Taiwan-studies teaching career (Rutgers Ph.D. 2006, UIUC adjunct from 2011).
 
 ## Sources
 - [TAH #104 encyclopedia: 104. Judy Jeng 洪秀芬](https://taiwaneseamericanhistory.org/104-%e6%b4%aa%e7%a7%80%e8%8a%ac-judy-jeng/)

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-19
 ---
 # Rev. William J. Burke Jr.
 
@@ -36,6 +36,11 @@ Student work, teaching Western literature, Greek, Roman Literature & Drama
 - **Wife:** Diana Hsiu-Hsia Lai
 - **Daughter:** Cáitlin/Christine
 
+
+## Role in the Community
+The corpus holds one record of Rev. Burke: his own TAH Who's Who encyclopedia entry, published 2020-05-05 — see [[works/taiwaneseamericanhistory-org/whos-who-2269-william-j-burke-jr|2269. Rev. William J. Burke Jr.]]. No memoir or article text names him beyond this bibliographic record; the "Burke" hits in taiwanjustice-net articles refer to Arleigh Burke-class destroyers, not this person.
+
+- Ordained minister of the Reformed Church in America (1964–), chaplain at Tunghai Univ., pastor at Passaic Reformed Church, and servant of Taiwanese fellowships at the Presbyterian Church in Royal Oak / Taiwanese Presbyterian Church at Ann Arbor (per TAH profile tables).
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/rev-william-j-burke-jr/)
