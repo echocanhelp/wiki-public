@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-18
+last_reviewed: 2026-09-19
 ---
 # Eric Cheng (鄭晧)
 
@@ -45,6 +45,7 @@ Corpus records for 鄭晧 are limited to his own TAH encyclopedia entry, so no i
 - Listed in the TAH Foundation Who's Who / encyclopedia corpus as a 2015 profile: [[works/taiwaneseamericanhistory-org/272-eric-cheng-e9-84-ad-e6-99-a7201502|272. Eric Cheng 鄭晧/2015/02]] (published 2015-02-06, value band B, bibliographic record only — full text stays in the vault).
 - He appears there solely as the subject; no memoir, letter, or organizational record in `content/works` or `content/articles` names him, so his roles beyond the press-kit bio above remain unverified.
 
+- Corpus re-grep 2026-09-19: hits unchanged (own TAH record only); no new community facts absorbed.
 ## Sources
 - [TAH #272 encyclopedia: 272. Eric Cheng 鄭晧/2015/02](https://taiwaneseamericanhistory.org/272-eric-cheng-%e9%84%ad%e6%99%a7201502/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/eric-cheng/)

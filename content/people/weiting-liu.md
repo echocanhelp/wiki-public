@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-18
+last_reviewed: 2026-09-19
 ---
 # Weiting Liu (劉威廷)
 
@@ -39,6 +39,7 @@ TAH corpus holds his own Who's Who story record, published 2017-03-14 (value ban
 
 No other corpus mentions found (works/articles grep, 2026-09-18).
 
+- Corpus re-grep 2026-09-19: hits unchanged (own TAH record only); no new community facts absorbed.
 ## Family
 
 _No filled family fields on the TAH profile._
