@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-17
+last_reviewed: 2026-09-19
 ---
 # Maan-Huei Huang (黃滿惠)
 
@@ -32,6 +32,7 @@ last_reviewed: 2026-09-17
 - Recognized in the community record as the **first female attorney from Taiwan practicing law in California** — per the TAH encyclopedia feature [[works/taiwaneseamericanhistory-org/ff353||353. Maan-Huei Huang 黃滿惠 / First Female Attorney from Taiwan Practicing Law in California]] (published 2017-12-01).
 - TAH Who's Who encyclopedia record: [[works/taiwaneseamericanhistory-org/whos-maan-huei-huang||1977. Maan-Huei Huang 黃滿惠]] (published 2017-12-03).
 - Corpus records are bibliographic (band B, full text stays in the vault); they corroborate the TAH Who's Who snapshot above and add no conflicting biographical detail.
+- **Deepen status:** SKIP-with-reason (re-checked 2026-09-19): corpus re-grep for 黃滿惠/Maan-Huei returns only her own two encyclopedia pages and the works index — no memoir or third-party narrative beyond what is already absorbed above.
 
 ## Family
 
