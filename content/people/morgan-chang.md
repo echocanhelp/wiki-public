@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-14
+last_reviewed: 2026-09-19
 ---
 # Morgan Chang (張富雄)
 
