@@ -33,6 +33,12 @@ last_reviewed: 2026-09-19
 - **Wife:** 魏妙奎
 
 
+## Role in the Community
+- Dr. 鄭信傳 and his wife 魏妙圭 lent the [[organizations/taiwanese-association-of-cincinnati|辛城台灣同鄉會 (Cincinnati Taiwanese Association)]] their premises rent-free, enabling the 1990 opening of what its founders celebrated as the first fully Taiwanese-association-owned 台灣會館 in North America; the 會館 fund's December 1989 preparatory meeting was hosted at the couple's home. See the founders' memoirs [[works/taiwaneseamericanhistory-org/ourjourneys293|第一個台灣同鄉會的會館：辛城台灣同鄉會]] and its [[works/taiwaneseamericanhistory-org/ourjourneys293-eng|English version]].
+- The couple were profiled in the 台美人物誌 interview series by 台灣日報: [[works/taiwaneseamericanhistory-org/videos40|很古典的姻緣 很現代的夫妻 — 鄭信傳魏妙圭夫婦專訪]].
+- His TAH Who's Who profile is preserved as [[works/taiwaneseamericanhistory-org/whos-who-2158-s-t-cheng|TAH #2158: Dr. S. T. Cheng 鄭信傳醫師]].
+- HOLD: conflict — wife's name on this page (魏妙奎) vs. the Cincinnati memoir and interview title (魏妙圭); not auto-merged.
+
 ## Sources
 - [TAH #2158 encyclopedia: 2158. Dr. S. T. Cheng 鄭信傳醫師](https://taiwaneseamericanhistory.org/whos-who-2158-s-t-cheng/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-s-t-cheng/)

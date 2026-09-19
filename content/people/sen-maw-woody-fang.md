@@ -37,6 +37,10 @@ last_reviewed: 2026-09-19
 - **Wife:** 林淑美
 
 
+## Role in the Community
+- A 2016 community memoir on the 美西台灣同鄉夏令會 (West Coast Taiwanese summer camp) credits 方森茂 — one of two low-profile 大企業家 the author praises as 「低調、不出鋒頭」 — with a US$10,000 donation that helped fund the event, alongside 顏永財; the camp's preparation committee was jointly formed by the West Coast association, the professors' association, and the engineers' association. See [[works/taiwaneseamericanhistory-org/ourjourneys239|從參加美西台灣同鄉夏令會說起 (李彥禎, 2016)]].
+- His TAH Who's Who profile is preserved as [[works/taiwaneseamericanhistory-org/whos-sen-maw-woody-fang|TAH #367: Sen Maw (Woody) Fang 方森茂 (2015/04)]].
+
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/sen-maw-woody-fang/)
 
