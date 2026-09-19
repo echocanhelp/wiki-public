@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-18
+last_reviewed: 2026-09-19
 ---
 # Bi-khim Hsiao (蕭美琴)
 
@@ -43,6 +43,14 @@ _No filled family fields on the TAH profile._
 
 
 ## From the record
+
+### TAH story corpus
+
+- Her own autobiography 《一個人也可以》 (09/2004, self-described 自傳) is held in the corpus ([[works/taiwaneseamericanhistory-org/publications990|TAH #990]]) — primary first-person material on her upbringing and career.
+- Profile narrative 「蕭美琴的故事」 recorded in the corpus (2016/01) ([[works/taiwaneseamericanhistory-org/mystories391|TAH #391]]); her TAH encyclopedia entry is likewise held ([[works/taiwaneseamericanhistory-org/whos-who-757-bi-khim-hsiao|TAH #757, 2016/01]]).
+- 2021-01 — coverage of her attendance at Biden's inauguration as the first formal invitation to Taiwan's top envoy since 1979 ([[works/taiwaneseamericanhistory-org/events2021-2|TAH events 2021 #2]]) — consistent with the JCCIC-invited record already noted below.
+- 2021-12 — obituary coverage of her father 蕭清芬's passing: 「蕭清芬在美辭世 蕭美琴悼父親：一生守護台灣本土意識」 ([[works/taiwaneseamericanhistory-org/my-stories-816|TAH #816, 12/2021]]).
+- 2023-01 — 「《紐時》讚蕭美琴：華府最具影響力的大使」 ([[works/taiwaneseamericanhistory-org/my-stories-866|TAH #866, 01/2023]]).
 
 - 2025-01-16 — 副總統蕭美琴在總統府與韓國瑜立委赴美就職觀禮團的閉門會議中分享4年前（2021）參與美國總統就職大典的經驗，提醒代表團戶外在低溫與維安等候下「總統送的暖暖包一定要帶」（[[articles/taiwanjustice-net/2025/20250719114825_韓國瑜提預算協商盼柯建銘不要那麼硬-總統緩頰_8fc11ca0c5dbaebe|TJJ 轉載中央社記者, 2025-01-16]]）。
 - 2022-05-16 — 駐洛杉磯辦事處長黃敏境就南加州台裔教會槍擊案接受中央社專訪，代表政府、外交部長吳釗燮及駐美代表蕭美琴向中彈身亡的醫師鄭達志家屬表達哀悼；報導並查證凶嫌周文偉為1953年在台出生之移民（[[articles/taiwanjustice-net/2022/20220705131026_2022_05_16_南加州教會槍殺案_駐處查證_凶嫌為台灣移民_8c20569762592915|TJJ 轉載中央社, 2022-05-16]]）。
