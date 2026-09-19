@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-19
 ---
 # Po Hu (胡博文教授)
 
@@ -36,6 +36,9 @@ last_reviewed: 2026-08-17
 - **Wife:** 張鳳燕Anne
 - **Son:** 胡鈞植James
 
+
+## Role in the Community
+- SKIP-with-reason (2026-09-19 pass): the only corpus match is his own TAH encyclopedia bibliographic stub, [[works/taiwaneseamericanhistory-org/329-po-hu-e8-83-a1-e5-8d-9a-e6-96-87201503|329. Po Hu 胡博文 / 2015/03]] — no memoir or community-record content to absorb.
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/po-hu/)

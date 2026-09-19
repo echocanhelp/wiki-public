@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-19
 ---
 # Cleo Chiang (江詩怡)
 
@@ -33,6 +33,10 @@ last_reviewed: 2026-08-17
 - **Husband:** Dale Chen
 - **Daughter:** Leona Chen, Joyce Chen
 
+
+## Role in the Community
+- Served as **President of the Taiwanese American Federation of Northern California** ([[organizations/taiwanese-american-federation-of-n-california|TAFNC]]), per the community signatories of [[works/taiwaneseamerican-org/pew-research-center-taiwanese-american-statement|the Pew Research Center Taiwanese American statement]] — a movement-record role that outranks the press-kit employment entries above.
+- Her own TAH Who's Who encyclopedia entry is held in the corpus as [[works/taiwaneseamericanhistory-org/78-cleo-chiang-e6-b1-9f-e8-a9-a9-e6-80-a1|78. Cleo Chiang 江詩怡]] (2014-11-05, band B).
 
 ## Sources
 - [TAH #78 encyclopedia: 78. Cleo Chiang 江詩怡](https://taiwaneseamericanhistory.org/78-cleo-chiang-%e6%b1%9f%e8%a9%a9%e6%80%a1/)

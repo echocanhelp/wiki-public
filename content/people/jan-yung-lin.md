@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-19
 ---
 # Jan-Yung Lin (林政原博士)
 
@@ -42,7 +42,7 @@ _No filled family fields on the TAH profile._
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/jan-yung-lin/)
-- [TAH #1186 encyclopedia: Jan-Yung Lin 林政原/2016/07](https://taiwaneseamericanhistory.org/person/jan-yung-lin/)
+- [TAH #1186 encyclopedia: Jan-Yung Lin 林政原/2016/07](https://taiwaneseamericanhistory.org/whoswho1186/)
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

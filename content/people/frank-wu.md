@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-19
 ---
 # Frank Wu (吳登鈐博士)
 
@@ -36,6 +36,10 @@ last_reviewed: 2026-08-17
 - **Daughter:** Eugenia
 - **Daughter:** Frances
 
+
+## Role in the Community
+- Corpus footprint is his own TAH encyclopedia record, 2015/05: [[works/taiwaneseamericanhistory-org/whos-frank-wu|428. Frank Wu 吳登鈐]]. No other memoir/press mentions found in content/works or content/articles.
+- HOLD: conflict in name space — TAH #846 "Frank Wu" is 吳哲民 ([[works/taiwaneseamericanhistory-org/whos-who-846-frank-wu|846. Frank Wu 吳哲民]]), a different person from this page's 吳登鈐. Never merge the two records on the English name alone.
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/frank-wu/)
