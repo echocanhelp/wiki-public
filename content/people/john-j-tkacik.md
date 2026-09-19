@@ -6,7 +6,7 @@ tags:
   - columnist
   - taiwanjustice-net
 verification_status: pending
-last_reviewed: 2026-09-09
+last_reviewed: 2026-09-19
 ---
 # John J. Tkacik (譚慎格)
 
