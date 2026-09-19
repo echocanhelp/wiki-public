@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-19
 ---
 # Liang-Ping How
 
@@ -32,6 +32,10 @@ Liang-Ping How has been a member of the Orpheus Chamber Orchestra since 1980. He
 ## Family
 
 _No filled family fields on the TAH profile._
+
+## Role in the Community
+
+Corpus review 2026-09-19: the vault holds two TAH records naming him — [[works/taiwaneseamericanhistory-org/musician428|TAH #428, 428. Liang-Ping How, violinist / 04/2018]] and [[works/taiwaneseamericanhistory-org/whos-who-2103-liang-ping-how|TAH #2103, 2103. Liang-Ping How]] (both 2018-04-26; bibliographic records only, full text stays in the vault). These corroborate the TAH Who's Who profile above (Orpheus Chamber Orchestra soloist/chamber musician since 1980; Curtis Institute of Music; Santa Fe Opera Orchestra second principal violinist) as a community-recognized Taiwanese American musician. No memoir or organizational record in content/works or content/articles adds further facts — none invented.
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/liang-ping-how/)

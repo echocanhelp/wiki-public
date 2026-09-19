@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-19
 ---
 # Tun-Hou Lee (李敦厚)
 
@@ -34,6 +34,10 @@ Member of Ad Hoc Grant Review Committee, National Institute of Health
 ## Family
 
 _No filled family fields on the TAH profile._
+
+## Role in the Community
+
+Corpus review 2026-09-19: the only vault mention is the subject's own TAH encyclopedia record, [[works/taiwaneseamericanhistory-org/773-tun-hou-lee-e6-9d-8e-e6-95-a6-e5-8e-9a-201601|TAH #773, 773. Tun-Hou Lee 李敦厚 /2016/01]] (bibliographic record only; full text stays in the vault). No memoir, article, or organizational record in content/works or content/articles names 李敦厚 beyond this profile — no community facts absorbable, no biography invented.
 
 ## Sources
 - [TAH #773 encyclopedia: 773. Tun-Hou Lee 李敦厚 /2016/01](https://taiwaneseamericanhistory.org/773-tun-hou-lee-%e6%9d%8e%e6%95%a6%e5%8e%9a-201601/)

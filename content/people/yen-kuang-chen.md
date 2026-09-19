@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-19
 ---
 # Yen-Kuang Chen
 
@@ -37,6 +37,10 @@ Editor-in-Chief
 ## Family
 
 _No filled family fields on the TAH profile._
+
+## Role in the Community
+
+Corpus review 2026-09-19: the only vault mention is the subject's own TAH encyclopedia record, [[works/taiwaneseamericanhistory-org/whoswho1363|TAH #1363, 1363. Yen-Kuang Chen / 2016/11]] (bibliographic record only; full text stays in the vault). No memoir, article, or organizational record in content/works or content/articles names him beyond this profile — no community facts absorbable, no biography invented.
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/yen-kuang-chen/)
