@@ -21,6 +21,7 @@ last_reviewed: 2026-09-19
 
 ## Role in the Community
 - TAH holds a dedicated community record of the chapter's activities: "台灣人公共事務會柑縣分會的活動", published 2019-03-24 — [[works/taiwaneseamericanhistory-org/activities-of-fapa-oc|TAH story: activities of FAPA-OC]]. The chapter's presence in the movement record therefore extends beyond the Taiwan Center group-member listing.
+- An earlier TAH directory record documents the chapter as "台灣人公共事務會加州柑縣分會" (2015-12-26) — [[works/taiwaneseamericanhistory-org/7-california-orange-county-chapter-fapa|7. California Orange County Chapter / FAPA]], pushing the chapter's documented footprint back to 2015.
 
 ## Source Notes
 
