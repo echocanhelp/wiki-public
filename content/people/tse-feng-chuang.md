@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-19
 ---
 # Tse feng Chuang (莊澤豐)
 
@@ -36,6 +36,11 @@ last_reviewed: 2026-08-17
 - **Daughter:** 惠鈞
 - **Daughter:** 惠琪
 
+## Role in the Community
+
+Corpus presence is limited to his TAH encyclopedia bibliographic record — no memoir or article mentions found in content/works or content/articles beyond it:
+
+- [[works/taiwaneseamericanhistory-org/979-tse-feng-chuang-e8-8e-8a-e6-be-a4-e8-b1-90-201605|TAH #979 encyclopedia record 莊澤豐]] (2016/05)
 
 ## Sources
 - [TAH #979 encyclopedia: 979. Tse feng Chuang 莊澤豐 / 2016/05](https://taiwaneseamericanhistory.org/979-tse-feng-chuang-%e8%8e%8a%e6%be%a4%e8%b1%90-201605/)
