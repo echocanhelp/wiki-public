@@ -41,6 +41,7 @@ last_reviewed: 2026-09-19
 
 - 1978 — 出任全美台灣同鄉會（TAA）明尼蘇達（雙城）同鄉會會長（[[works/taiwaneseamericanhistory-org/ourjourneys123|TAH #123〈明州台美人百年大事〉曾啟明]]）。
 - 1980 — 與密西根同鄉會合辦於 Grand Rapids 舉行的中西部台灣人夏令會，負責議題安排與講員邀請（同上詞料；组织关联 [[organizations/taiwanese-association-of-america|全美台灣同鄉會 TAA]]）。
+- 同鄉會會長逐年名單（1978 林宣緒、1979 林文騫、1980 鄭慶平）見於雙城同鄉會百年大事詞料（[[works/taiwaneseamericanhistory-org/ourjourneys123-eng|ourjourneys123 英文版]]）；其本人百科條目亦存於詞料（[[works/taiwaneseamericanhistory-org/whoswho918|918. Adrian Lin 林宣緒 / 2016/04]]）。
 
 ## Sources
 - [TAH #918 encyclopedia: 918. Adrian Lin 林宣緒 / 2016/04](https://taiwaneseamericanhistory.org/whoswho918/)
