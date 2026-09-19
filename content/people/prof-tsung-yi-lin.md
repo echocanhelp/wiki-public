@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-18
+last_reviewed: 2026-09-19
 ---
 # Prof. Tsung-Yi Lin (林宗義教授)
 
@@ -45,7 +45,7 @@ last_reviewed: 2026-09-18
 - Paper presenter at a 台灣協志會 學術討論會 (at Syntek Hall Center, Palo Alto; convened by 陳芳明) alongside 彭明敏, 林宗光, 張旭成, 蕭欽義, 簡烟仁, 謝善元, 林衡哲, 陳芳明, 張富美 ([[works/taiwaneseamericanhistory-org/ourjourneys37|37. 台灣協志會成立與大事記]]).
 - Addressed the founding assembly of the 北美洲台灣人醫師協會 (1983–1990 era), citing his experience chairing the American Psychiatric Association's 「外國精神科醫師小組」 to argue for a national Taiwanese-American physicians' association as a shield against discrimination, and urged 「上醫醫國」 — active participation in US medical societies and internationalising the Taiwan question ([[works/taiwaneseamericanhistory-org/ourjourneys74|74. 1983至1990的北美洲台灣人醫師協會 / 周烒明]]).
 - Listed as a supporter of the 自決運動 in the 全美台灣同鄉會 record: 支持1973年3月20日黃彰輝、黃武東、林宗義與宋泉盛發起的台灣人民自決運動 ([[works/taiwaneseamericanhistory-org/ourjourneys76|76. 全美台灣同鄉會 / 吳木盛]]).
-- Corpus re-grep 2026-09-18: hit set unchanged (our-journeys-350, our-journeys-357, ourjourneys37, ourjourneys74, ourjourneys76, whos-who-1974-tsung-yi-lin) — every community fact in the memoir corpus is already absorbed above; the 1972 launch-date HOLD stands, no new material.
+- Corpus re-grep 2026-09-19: hit set unchanged (our-journeys-350, our-journeys-357, ourjourneys37, ourjourneys74, ourjourneys76, whos-who-1974-tsung-yi-lin) — every community fact in the memoir corpus is already absorbed above; the 1972 launch-date HOLD stands, no new material.
 
 ## Sources
 - [TAH #1974 encyclopedia: 1974. Prof. Tsung-Yi Lin 林宗義教授](https://taiwaneseamericanhistory.org/whos-who-1974-tsung-yi-lin/)

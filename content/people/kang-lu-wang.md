@@ -46,6 +46,10 @@ last_reviewed: 2026-09-19
 - **《台灣公論報》 editorial stance.** In the 張月英 oral history of the paper's founding, when 洪哲勝 replied to critics under the «本報» name, 王康陸 objected («這個不要登») — evidence of his stance on editorial accountability — [[works/taiwaneseamericanhistory-org/ourjourneys49|49. 《台灣公論報》創刊 / 口述:張月英]].
 - HOLD: death circumstances — TAH source snippet says «died in a car accident»; corpus farewell record is dated 2018/06 while a 2014 memorial album exists (album may honor life/anniversary rather than death year). Not merged.
 
+## From the record
+
+- 2019-09-03 — The 王康陸紀念基金會 (Kang-Lu Wang Memorial Foundation), named for him and chaired by his brother 王康厚, was a signatory of the overseas Taiwanese organizations' joint statement 「拒一國兩制！海外台灣人社團：支持香港反對中國暴政」 ([[articles/taiwanjustice-net/2024/20240221122756_root_53455d7e13136092|TJJ record, 2024-02-21 archive of the 2019-09-04 posting]]).
+
 ## Sources
 - [TAH #589 encyclopedia: 589. 台灣獨立運動鬥士－－王康陸博士 / 林茗顯 /10/2017](https://taiwaneseamericanhistory.org/mystories589/)
 - [TAH #54 encyclopedia: 54. Dr. Kang Lu Wang 王康陸博士 / A Taiwan independence fighter, died in a car accide](https://taiwaneseamericanhistory.org/ff54-dr-kang-lu-wang/)

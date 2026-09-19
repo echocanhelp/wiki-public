@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-17
+last_reviewed: 2026-09-19
 ---
 # Yen-Ching Chiu (邱彥菁)
 
@@ -35,7 +35,7 @@ Soprano Yen-Ching Chiu邱彥菁, originally from Kaohsiung, Taiwan, received her
 _No filled family fields on the TAH profile._
 
 ## Community Record
-- Corpus re-grep 2026-09-17: her two TAH encyclopedia records are the only community-side material — [[works/taiwaneseamericanhistory-org/musician342|342. Yen-Ching Chiu 邱彥菁, Soprano (2016-05)]] and [[works/taiwaneseamericanhistory-org/whoswho1057|1057. Yen-Ching Chiu 邱彥菁 (2016-06)]]. Both are band-B bibliographic records (full text stays in the vault), so no new facts absorbable beyond the two-entry record of her as both a musician feature and a Who's Who subject; no memoir mentions in works/articles.
+- Corpus re-grep 2026-09-17 and 2026-09-19 (deepen-x-09170600-23 slice, SKIP-with-reason): her two TAH encyclopedia records remain the only community-side material — [[works/taiwaneseamericanhistory-org/musician342|342. Yen-Ching Chiu 邱彥菁, Soprano (2016-05)]] and [[works/taiwaneseamericanhistory-org/whoswho1057|1057. Yen-Ching Chiu 邱彥菁 (2016-06)]]. Both are band-B bibliographic records (full text stays in the vault), so no new facts absorbable beyond the two-entry record of her as both a musician feature and a Who's Who subject; no memoir mentions in works/articles.
 
 ## Sources
 - [TAH #342 encyclopedia: 342. Yen-Ching Chiu邱彥菁, Soprano / 2016/05](https://taiwaneseamericanhistory.org/musician342/)

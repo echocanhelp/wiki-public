@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-18
+last_reviewed: 2026-09-19
 ---
 # Taiwanese American Professional Society TAPS (西雅圖台美專業協會)
 
@@ -29,7 +29,8 @@ The Seattle chapter's activity is documented in the taiwaneseamerican-org event 
 - [[works/taiwaneseamerican-org/community-service-opportunity-with-taps-in-seattle|Community Service Opportunity with TAPS in Seattle]] (2013-07-28) — 8 volunteer slots to prepare meals at FareStart (700 Virginia St, Seattle), a culinary job-training program for homeless and disadvantaged individuals; 10 a.m.–3 p.m. commitment, coordinated via ker.chang@gmail.com — earliest dated charitable action in the corpus
 - Directory entry: [[works/taiwaneseamericanhistory-org/taiwanese-american-professional-society-taps|14. TAPS 西雅圖台美專業協會 (2015/12)]]
 HOLD: the corpus also lists TAPS events in NY, LA, and Chicago (e.g. celebrate-taps-6th-annual-lunar-new-year-banquet-in-ny, celebrate-taps-annual-lunar-new-year-dinner-in-la, taps-linsane-game-watch-at-mother-hubbards-in-chicago) — possibly chapters of a different TAPS (Taiwanese American Public Affairs Society); not attributed to this Seattle professional organization.
-- Corpus re-grep 2026-09-18: hits limited to the 2015/12 directory record ([[works/taiwaneseamericanhistory-org/taiwanese-american-professional-society-taps|14. TAPS 西雅圖台美專業協會]], bibliographic only), the works index, and the FareStart community-service event already recorded above — no new dated activity in the corpus.
+- Additional Seattle-area event records in the corpus (same JiaBum/LimJiu/outdoor program pattern, 2011 onward): [[works/taiwaneseamerican-org/bowling-pool-happy-hour-with-taps-in-seattle|Bowling & pool happy hour]] · [[works/taiwaneseamerican-org/creative-arts-with-taps-in-seattle|Creative arts]] · [[works/taiwaneseamerican-org/ghost-month-party-with-taps-in-seattle|Ghost Month party]] · [[works/taiwaneseamerican-org/join-a-july-4th-bbq-with-taps-in-seattle|July 4th BBQ]] · [[works/taiwaneseamerican-org/join-taps-in-seattle-for-a-pre-movie-dinner|Pre-movie dinner]] · [[works/taiwaneseamerican-org/taps-karaoke-sing-off-in-seattle|Karaoke sing-off]] · [[works/taiwaneseamerican-org/taps-jiabun-family-dinner|JiaBun family dinner]] · [[works/taiwaneseamerican-org/wine-party-with-taps-in-seattle|Wine party]] · [[works/taiwaneseamerican-org/yacht-party-with-taps-in-seattle|Yacht party]] · [[works/taiwaneseamerican-org/lunar-new-year-dinner-with-taps-in-seattle|Lunar New Year dinner]] · [[works/taiwaneseamerican-org/taps-lim-jiu-happy-hour-in-bellevue-wa|LimJiu happy hour, Bellevue]] (Bellevue reach beyond Seattle proper)
+- Corpus re-grep 2026-09-19: no new biographical or organizational facts beyond the event records above; the directory record ([[works/taiwaneseamericanhistory-org/taiwanese-american-professional-society-taps|14. TAPS 西雅圖台美專業協會]], bibliographic only) and the NY/LA/Chicago HOLD stand.
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-american-professional-society-taps/)

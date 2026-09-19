@@ -46,6 +46,10 @@ last_reviewed: 2026-09-18
 - **Symbol of White Terror risk.** Student-memoirs cite his fate («可能像陳文成一樣，突然暴斃») as the fear confronting founders of independent 台灣同鄉會 in the 1970s ([[works/taiwaneseamericanhistory-org/ourjourneys313|Our Journeys 313 — 東田納西台灣同鄉會 30週年 memoir]]).
 - Family reconciliation: corpus byline romanization 陳素貞 = Chen Su-jen matches the existing wife field 陳素貞.
 
+## From the record
+
+- 2019-09-03 — The Professor Chen Wen-chen Memorial Foundation, in his name, was a signatory of the overseas Taiwanese organizations' joint statement 「拒一國兩制！海外台灣人社團：支持香港反對中國暴政」, signed by 「陳文成教授紀念基金會 會長劉斌碩 教授」 ([[articles/taiwanjustice-net/2024/20240221122756_root_53455d7e13136092|TJJ record, 2024-02-21 archive of the 2019-09-04 posting]]).
+
 ## Sources
 - [TAH #55 encyclopedia: 55. Professor Wen-Chen Chen 陳文成教授 / The first Taiwanese American die without rea](https://taiwaneseamericanhistory.org/55-professor-wen-chen-chen-the-first-taiwanese-american-die-without-reason-in-taiwan-198107/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/wen_chen-chen/)

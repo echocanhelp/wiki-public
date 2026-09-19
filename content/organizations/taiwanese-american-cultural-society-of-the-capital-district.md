@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-18
+last_reviewed: 2026-09-19
 ---
 # Taiwanese American Cultural Society of the Capital District (紐約州首府區台美文化促進會)
 
@@ -19,6 +19,8 @@ last_reviewed: 2026-09-18
 The Taiwanese American Cultural Society of the Capital District, Inc. (TACS) is a 501(c)(3) not-for-profit charitable corporation established in 2004 (the TAH directory says May 2004; the founding memoir records the first general assembly on August 4, 2004 — see HOLD below). Its mission is to promote Taiwanese arts, history, and culture through exhibits, lectures, musical and theatrical performances, and youth scholarships. Among its signature annual events is the Taiwanese American Heritage Week Celebration, a performing arts extravaganza typically held at The Egg in the Empire State Plaza each May.
 
 ## Role in the Community
+
+Event records in the TAH story corpus corroborate the society's performing-arts programming: [[works/taiwaneseamericanhistory-org/concert11|11. The Passion of Taiwan (台灣心台灣情音樂會) by TACS of the Capital District, 2014]] — a bibliographic record of the 2014 concert. The corpus also holds a TACSR series (tacsr-1988, -1993, -1995, -2001, -2018) whose titles carry the TACS-R initials but whose briefs are bibliographic stubs with era 2019; they do not document this society's own activities and are not absorbed as TACS events.
 
 Per the community memoir by Chungchin Chen 陳仲欽, TACS grew directly out of the Taiwanese American Association of the Capital District (TAA-CDNY, founded 1970 as the New York State Capital District Formosan Fellowship). After the association's 1974 and 1984 attempts at 501(c)(3) status were denied, its board decided in 2003 to incorporate under the new name. 36 member families each donated $200 as founding capital, and Chungchin Chen — then a director of the New York Council of Nonprofits — recommended a professional lawyer who drafted the certificate of incorporation and by-laws and handled the IRS application, which was approved quickly. The first general assembly on August 4, 2004 elected nine directors; the four officers were 會長李錫洋 (William C. Lee), 副會長陳仲欽 (Chungchin Chen), 秘書楊偉實 (Wei-shih Yang), and 財務陳麗玲 (Li-ling Chen).
 
