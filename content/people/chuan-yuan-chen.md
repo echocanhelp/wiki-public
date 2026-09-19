@@ -45,6 +45,8 @@ _No filled family fields on the TAH profile._
 
 - Re-grepped corpus 2026-09-19: hits are only Our Journeys 138 (already absorbed above) and his own TAH record; nothing further absorbable (SKIP).
 
+- Re-grepped corpus 2026-09-19: hits are only Our Journeys 138 (already absorbed above) and his own TAH record; nothing further absorbable (SKIP).
+
 ## Sources
 - [TAH #1054 encyclopedia: 1054. Chuan Yuan Chen 陳泉淵 / 2016/06](https://taiwaneseamericanhistory.org/whoswho1054/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/chuan-yuan-chen/)
