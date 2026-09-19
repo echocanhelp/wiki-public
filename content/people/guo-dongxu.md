@@ -48,6 +48,6 @@ Use Echopedia Community Contributions Hub.
 - [[organizations/good-shepherd-taiwanese-presbyterian-church||Good Shepherd Taiwanese Presbyterian Church (好牧者臺灣基督長老教會)]]
 - GSTPC Tier-A Person Wikification Queue
 
-## Deepen-x note (2026-09-17)
+## Deepen-x note (2026-09-17, re-verified 2026-09-19)
 
 - SKIP-deepen: no corpus hits in `content/works` / `content/articles` for 郭東緒 / Guo Dongxu beyond this page and the GSTPC org page; existing bulletin-derived material (10 pages, 2020–2021) is already reflected. No new absorbable material, nothing invented.

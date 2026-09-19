@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-19
 ---
 # Rev. Prof. Joseph Wang (王守仁牧師)
 
@@ -35,6 +35,9 @@ Rev. Prof. Joseph Wang 王守仁牧師 教授 – History of Taiwanese American 
 ## Family
 
 _No filled family fields on the TAH profile._
+
+## Role in the Community
+His own TAH encyclopedia entry is held in the vault at [[works/taiwaneseamericanhistory-org/whos-who-1668-joseph-wang|1668. Rev. & Prof. Joseph Wang 王守仁牧師/教授 (TAH Who's Who, 2017-05-21)]], filed in the Who's Who layer of the story corpus. The corpus contains no memoir or article narrative about him beyond this bibliographic record — the other corpus mentions of "Joseph Wang" in Taiwan Justice articles refer to unrelated individuals.
 
 ## Sources
 - [TAH #1668 encyclopedia: 1668. Rev. & Prof. Joseph Wang 王守仁牧師/教授](https://taiwaneseamericanhistory.org/whos-who-1668-joseph-wang/)
