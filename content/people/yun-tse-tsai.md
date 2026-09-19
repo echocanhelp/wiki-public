@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-19
 ---
 # Yun-Tse Tsai
 
@@ -34,6 +34,9 @@ last_reviewed: 2026-08-17
 
 _No filled family fields on the TAH profile._
 
+## Role in the Community
+- Held in the TAH Foundation Who's Who community record as encyclopedia entry #2207 ([[works/taiwaneseamericanhistory-org/whos-who-2207-yun-tse-tsai|TAH #2207: Yun-Tse Tsai, 2019-07-04]]).
+- The 2018 line above (award for outstanding experimentalists on Fermilab neutrino experiments) is the corpus-side citation recorded in the TAH #2207 bibliographic entry; no absorbable memoir material.
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/yun-tse-tsai/)
 

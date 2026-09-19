@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-19
 ---
 # Chenming Hu (胡正明)
 
@@ -36,6 +36,9 @@ last_reviewed: 2026-08-17
 
 _No filled family fields on the TAH profile._
 
+## Role in the Community
+- Held in the TAH Foundation community record as encyclopedia entry #1157 ([[works/taiwaneseamericanhistory-org/whoswho1157|TAH #1157: Chenming Hu 胡正明, 2016/07]]).
+- His National Medal of Technology and Innovation was celebrated in the TAH "pride" community series ([[works/taiwaneseamericanhistory-org/pride4|TAH Pride #4: 國家科技創新獎章 / Chenming Hu, 2016]]); corpus records are band B bibliographic entries — no memoir material beyond the directory biography.
 ## Sources
 - [TAH #1157 encyclopedia: 1157. Chenming Hu 胡正明 / 2016/07](https://taiwaneseamericanhistory.org/whoswho1157/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/chenming-hu/)
