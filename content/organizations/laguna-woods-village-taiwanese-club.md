@@ -23,8 +23,10 @@ The Laguna Woods Village Taiwanese Club (拉古拿木屋台灣同鄉會) is a ch
 Beyond its TAH directory entry, the club appears repeatedly in the TAH Foundation corpus:
 
 - It publishes its own newsletter: [[works/taiwaneseamericanhistory-org/newsletter-of-taiwanese-club-laguna-woods-village|LWV台灣同鄉會會刊]] (recorded 2019).
-- A 2015 community record covers the club directly: [[works/taiwaneseamericanhistory-org/24-laguna-woods-village-e5-8f-b0-e7-81-a3-e5-90-8c-e9-84-89-e6-9c-83|24. Laguna Woods Village 台灣同鄉會]].
+- A 2015 community record covers the club directly: [[works/taiwaneseamericanhistory-org/24-laguna-woods-village-e5-8f-b0-e7-81-a3-e5-90-8c-e9-84-89-e6-9c-83|24. Laguna Woods Village 台灣同鄉會]]; the club's own 2015 magazine is separately catalogued at [[works/taiwaneseamericanhistory-org/589-laguna-woods-village-e5-8f-b0-e7-81-a3-e5-90-8c-e9-84-89-e6-9c-83-2015laguna|589. LWV台灣同鄉會 2015 (雜誌)]].
+- Club social life is documented in the event corpus: the 02/19/2019 同鄉會年會 at [[works/taiwaneseamericanhistory-org/136-the-annual-party-of-laguna-woods-village-taiwanese-club-e5-8f-b0-e7-81-a3-e5|136. Annual Party (2019 Laguna Woods Village/CA)]], and general activity records at [[works/taiwaneseamericanhistory-org/act-org-lwv|LWV台灣同鄉會的活動]] and [[works/taiwaneseamericanhistory-org/senior-activities-1|1. Activities of Taiwanese Club Laguna Woods Village]].
 - The club runs a Taiwanese chorale (台灣合唱團): [[works/taiwaneseamericanhistory-org/photo-albums-activities-19|Laguna Woods Village Taiwanese Chorale]] (2014) and its 06/30/2013 concert 「抱著咱的夢」 ([[works/taiwaneseamericanhistory-org/concerts26|concert record]]).
+- Context for the club's membership milieu: retired 台美人 moving to Laguna Woods Village gathered for Taiwan-mother-tongue learning at the nearby ITPC 長青教室 (Geneva Church, 2009-, ~200 classes, ~100 attendees per session per the corpus record) — the same community circuit the club draws on.
 
 A memoir in [[works/taiwaneseamericanhistory-org/ourjourneys239|Our Journeys 239]] recalls ~20 Laguna Woods Village residents joining the 美西台灣同鄉夏令會 (~400 attendees), noting the club as a significant feeder to 「蕃薯藤」-generation events.
 
