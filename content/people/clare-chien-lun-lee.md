@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-18
+last_reviewed: 2026-09-19
 ---
 # Clare Chien-Lun Lee (李阡綸)
 
@@ -37,7 +37,7 @@ _No filled family fields on the TAH profile._
 ## Role in the Community
 - The corpus holds two TAH records for her: [[works/taiwaneseamericanhistory-org/whoswho1289|1289. Clare, Chien-Lun Lee 李阡綸 / 2016/09]] and [[works/taiwaneseamericanhistory-org/musician366|366. Clare, Chien-Lun Lee 李阡綸, Vocalist / 2016/09]] (both 2016-09, band B — bibliographic records; full text stays in the vault).
 - No community-authored memoir text naming her found in the corpus beyond these records; nothing further absorbable this pass.
-- Re-grepped corpus 2026-09-18: remaining 'Clare' hits are false positives (Saint Clare Hilton, Clarence Lee, Clarence House); 李阡綸 appears nowhere else (SKIP).
+- Re-grepped corpus 2026-09-19: remaining 'Clare' hits are false positives (Saint Clare Hilton, Clarence Lee, Clarence House); 李阡綸 appears nowhere else (SKIP).
 
 ## Sources
 - [TAH #1289 encyclopedia: 1289. Clare, Chien-Lun Lee 李阡綸 / 2016/09](https://taiwaneseamericanhistory.org/whoswho1289/)
