@@ -7,8 +7,8 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-17
-skip_note: "deepen-x 2026-09-17: corpus hit is own band-B TAH bibliographic record only; no absorbable community facts"
+last_reviewed: 2026-09-19
+skip_note: "deepen-x 2026-09-19 recheck: corpus hits are own band-B TAH bibliographic record (whos-who-2177) and works index only; no absorbable community facts"
 ---
 # Ssu-Yu Huang (黃思瑜)
 

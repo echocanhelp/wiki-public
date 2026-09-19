@@ -24,7 +24,7 @@ last_reviewed: 2026-07-16
 - **Content priority A:** Name on Taiwan Center group-members page  
 - **Hub:** [[sources/taiwancenter-org||taiwancenter.org]]  
 - **Content priority C:** Independent history not expanded from listing alone  
-- **SKIP (deepen-x 2026-09-18):** no corpus hits in works/ or articles/ for 全僑民主和平聯盟 / GADP; the only 全僑 matches are unrelated Sydney/Philippines 僑界 CPTPP news in taiwanjustice-net. Nothing absorbable; stays listing-only.
+- **deepen-x recheck 2026-09-19:** acronym 全僑民主和平聯盟 / GADP still has no corpus hits (only unrelated Sydney/Philippines 僑界 news in taiwanjustice-net), but the alliance's full English name appears in the TAH concert archive: [[works/taiwaneseamericanhistory-org/concerts127|127. Friendship Concert 連誼音樂會 by Global Alliance For Democracy and Peace & NATMA]] (Philadelphia, Glenside, PA, 2008-05-03). HOLD: that record documents the parent alliance's East-Coast activity, not the LA支盟 — no LA-branch-specific facts absorbable yet.
 
 ## Related Pages
 
