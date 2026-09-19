@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-18
+last_reviewed: 2026-09-19
 ---
 # Stella Chen (陳婉真)
 
@@ -45,7 +45,7 @@ B.S. Dept. of Adult & Continuing Education(社教系)
 ## Role in the Community
 
 - 1979-12-15 — 在美麗島事件後大逮捕之際，「臺灣建國聯合陣線」於紐約成立，參加團體含「潮流雜誌社」陳婉真（與「臺灣獨立聯盟」張燦鍙、「臺灣民主運動海外同盟」郭雨新等並列），是她海外從事政治運動的紀錄佐證（[[works/taiwaneseamericanhistory-org/our-journeys-357|Our Journeys #357]]）。
-- TAH 出版物留存她的三篇文字：《啊!黑名單》（1991-03，政治）（[[works/taiwaneseamericanhistory-org/publications311|TAH #311]]）、《建國路上死與生》（1992-01，政治）（[[works/taiwaneseamericanhistory-org/publications513|TAH #513]]）、悼念畫家黃根深的〈用畫筆搞台獨的黃根深〉（2017-04）（[[works/taiwaneseamericanhistory-org/mystories545|TAH #545]]）——與 TAH 人物傳記頁（[[works/taiwaneseamericanhistory-org/whos-who-173-stella-chen|TAH #173]]）互為表裏。
+- TAH 出版物留存她的四篇文字：《啊!黑名單》（1991-03，政治）（[[works/taiwaneseamericanhistory-org/publications311|TAH #311]]）、《建國路上死與生》（1992-01，政治）（[[works/taiwaneseamericanhistory-org/publications513|TAH #513]]）、悼念畫家黃根深的〈用畫筆搞台獨的黃根深〉（2017-04）（[[works/taiwaneseamericanhistory-org/mystories545|TAH #545]]）、以及寫鄭自才的〈刺客 畫家 建築師──鄭自才的繽紛人生〉（2016-07）（[[works/taiwaneseamericanhistory-org/mystories448|TAH #448]]）——與 TAH 人物傳記頁（[[works/taiwaneseamericanhistory-org/whos-who-173-stella-chen|TAH #173]]）互為表裏。
 
 ## Sources
 - [TAH #173 encyclopedia: 173. Stella Chen 陳婉真, 2014/12](https://taiwaneseamericanhistory.org/whos-who-173-stella-chen/)

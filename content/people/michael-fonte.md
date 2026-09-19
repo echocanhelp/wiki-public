@@ -1,3 +1,4 @@
+<!-- SKIP 2026-09-19 (deepen-x slice 09170900-6 p4): corpus grep 彭光理|Michael Fonte over content/works + content/articles returned only mystories432, ourjourneys123, ourjourneys123-eng, whoswho962, works/index, and the TJJ archive already absorbed in Role in the Community / From the record. No new absorbable corpus facts. -->
 ---
 title: "Michael Fonte (彭光理)"
 type: person
@@ -42,6 +43,7 @@ last_reviewed: 2026-09-19
 - 2004-04 — FAPA 主辦「台灣大選選後分析座談」（明尼蘇達），彭光理（Michael Fonte）主講（[[works/taiwaneseamericanhistory-org/ourjourneys123|Our Journeys #123 明州台灣人活動年表]]; the 2004 entry in the same record lists him as the FAPA post-election analysis speaker）。
 - 2016-05 — 楊遠薰為其撰寫專文《432. 彭光理與台灣的半生緣》，收入 TAH「My Stories」社區檔案（[[works/taiwaneseamericanhistory-org/mystories432|My Stories #432]]）。
 - 2016 — 楊遠薰《第四十五屆美東夏令會備忘錄&聲明》以其為紀錄主角之一（[[works/taiwaneseamericanhistory-org/ourjourneys260|Our Journeys #260]]）。
+- 2004-04 座談紀錄另存英文版（[[works/taiwaneseamericanhistory-org/ourjourneys123-eng|Our Journeys #123 英文版]]）；人物條目見百科頁（[[works/taiwaneseamericanhistory-org/whoswho962|TAH Who's Who #962]]）。
 
 ## Sources
 - [TAH #962 encyclopedia: 962. Michael Fonte 彭光理 / 2016/05](https://taiwaneseamericanhistory.org/whoswho962/)
@@ -53,6 +55,7 @@ last_reviewed: 2026-09-19
 - 2023-11-11 — 以民進黨駐美代表處辦公室主任（Michael Fonte）身份在華府台灣同鄉會感恩節餐會表示「現在是美台最好的時刻，也是台灣最危險的時刻」，點名羅森柏格與AIT執行理事藍鶯（Ingrid Larson）確保台灣安全，並有信心賴清德「凍蒜」（[[articles/taiwanjustice-net/2023/20231201224837_root_c1e603063718b409|TJJ 轉載中央社記者報導, 2023-11-11]]）。
 - 2024-05-26 — 台灣公義報楊遠薰專欄存檔頁（Wayback 2024-05-27 快照）收錄其 2016 年報導系列「彭光理與台灣的半生緣(上)(下) ─ Michael Fonte 的故事」（2016-04-30）與「亂世奇緣」（2016-04-20）（[[articles/taiwanjustice-net/2024/20240527043739_root_e38ae3f755e47f77|TJJ tag archive, 2024-05-26]]）。
 - 2016-04-30 — 楊遠薰「彭光理與台灣的半生緣(上)(下) ─ Michael Fonte 的故事」兩篇並列於台灣公義報「楊遠薰」標籤彙整頁第2頁（Wayback 2021-12-07 快照），為該人物系列報導之另一時點存檔（[[articles/taiwanjustice-net/2021/20211207121400_tag_楊遠薰_page_2_23197ebf177d0b6a|TJJ 楊遠薰標籤頁2, 2021-12-07 快照]]）。
+- 2024-01-24 — 中央社記者報導（TJJ 存檔）：黨主席賴清德於中常會頒贈即將退休的駐美代表處主任彭光理（Michael J. Fonte）終身貢獻獎章；報導梳理其生平——1967 年以天主教傳教士身份來台，於台中、彰化、苗栗鄉間傳教並推廣社會公義與人權；1986 年民進黨創黨之初在華府與 FAPA 穿針引線、接待美麗島事件受刑人家屬；2002 年起擔任民進黨華盛頓聯繫人，2013 年起掌管民進黨駐美辦公室，2024 年 5 月退休，被賴清德稱為民進黨在華府「最重要的代言人」與台美關係史上最佳時刻的推手之一（[[articles/taiwanjustice-net/2024/20240225154559_root_e68ffc76518812af|TJJ 轉載中央社記者報導, 2024-01-24]]）。HOLD: frontmatter Employment 記「民進黨駐美代表處 — Present — 主任」，報導則明載其 2024-05 退休榮退——現職狀態待更新，未自動改寫。
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

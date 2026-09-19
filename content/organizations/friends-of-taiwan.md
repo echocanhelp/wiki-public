@@ -6,7 +6,7 @@ tags:
   - Taiwanese-American
   - Taiwan-Center-group-member
 verification_status: published
-last_reviewed: 2026-09-18
+last_reviewed: 2026-09-19
 ---
 # Friends of Taiwan
 
@@ -32,6 +32,8 @@ last_reviewed: 2026-09-18
 - **2014-03-01** — 美洲台灣日報 interview "仗義為台灣" profiles president Ted Anderson ([[works/taiwaneseamericanhistory-org/video57|video57]]), corroborating the memorial-interview account of his long presidency; Anderson is also profiled in the TAH Who's Who record as "a very strong supporter to the T.A. community" ([[works/taiwaneseamericanhistory-org/ff322|TAH #322]]).
 - A local chapter, Friends of Taiwan—Greater St. Louis 聖路易台灣之友會, is recorded in the 2017 TAH directory ([[works/taiwaneseamericanhistory-org/friends-of-taiwan-greater-st-louis|directory entry]]), showing the group extended beyond Los Angeles.
 - Note: the corpus renders the Chinese name both 台灣之友社 (memorial interview) and 台灣之友會 (TAH directory records). HOLD: spelling 社 vs 會 unreconciled.
+- **2010** — The LA group was active as a cultural presenter: Friends of Taiwan in LA presented the Bird & Water Dance Ensemble ([[works/taiwaneseamerican-org/friends-of-taiwan-in-la-presents-bird-water-dance-ensemble|event record]], era 2010), alongside its advocacy work.
+- **2022-03-13** — 台灣之友會's 「感恩迎新春聯歡之夜」drew President 蔡英文 (with 沈榮津, 徐國勇, 鄭文燦); media figure 鄭弘儀 auctioned 蔡總統簽名的烏克蘭色口罩 for NT$52萬 donated to Ukraine, attendees chanting 「支持烏克蘭、台灣加油」([[articles/taiwanjustice-net/2026/20260209110102_台灣之友會晚宴_蔡總統簽名口罩義賣52萬捐烏克蘭_f720e8e1ae449c02|TJJ report]]). Shows the organization active in Taiwan itself in 2022; the Taiwan-side event is not documented as run by the LA chapter — HOLD: chapter attribution unclear.
 
 ## Related Pages
 

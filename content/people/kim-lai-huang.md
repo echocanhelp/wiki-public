@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-18
+last_reviewed: 2026-09-19
 ---
 # Kim Lai Huang (黃金來)
 
@@ -40,6 +40,7 @@ _No filled family fields on the TAH profile._
 - 陳文成獎學金 — the first scholarship for Taiwanese people in North America: the single largest contributor, he arranged the selection criteria and convened the review committee ([[works/taiwaneseamericanhistory-org/ourjourneys8|8. 陳文成教授紀念基金會成立經過 / 林富文]] · [[works/taiwaneseamericanhistory-org/ourjourneys8-eng|English version]]).
 - 1980-02-16 — one of sixteen professors at the first 北美洲台灣人教授協會籌備會議 at the University of Chicago; later elected 首屆一般理事 ([[works/taiwaneseamericanhistory-org/ourjourneys69|69. 北美洲台灣人教授協會 / 廖述宗]] · [[works/taiwaneseamericanhistory-org/ourjourneys69-eng|English version]]).
 - 2015-12 — memorialized by 賴其萬 as 「一位永遠不放棄希望的長者」 ([[works/taiwaneseamericanhistory-org/mystories372|372. 懷念黃金來教授]]).
+- 平原區台灣人秋令會 — in 1983 the idea for a Great Plains Taiwanese camp meeting was conceived in Manhattan, Kansas by 林啓東 together with local 同鄉 professors 范良正、楊景文、刁明華 and 黃金來; the first session was held in 1985 at Rock Spring (4-H Club grounds, Manhattan, KS) ([[works/taiwaneseamericanhistory-org/our-journeys-351|平原區秋令會沿革]] · [[works/taiwaneseamericanhistory-org/ourjourneys296|296. 平原區秋令會]]).
 - HOLD: conflict in university affiliation — 王泰和's memorial interview places him at the University of Kansas ([[articles/taiwanjustice-net/2025/20250811013132_化作千風_懷念台美人的人權鬥士_台獨先鋒王泰_31b7081a5d37939f|TJJ, 2022-07-12]]) vs TAH Who's Who employment record 堪薩斯州立大學; not auto-merged.
 
 ## Sources

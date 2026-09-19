@@ -41,6 +41,7 @@ No memoir names 蕭東賢 directly, but corpus records around his wife 黃美琇
 - She is recorded among new members of the US West summer-conference organizing circle (with 李碧娥, 陳堅) in 黃根深's retrospective: [[works/taiwaneseamericanhistory-org/ourjourneys265|265. 2011年美西夏令會的回顧 / 黃根深 /11/2016]].
 - Her own community writings and profile exist in the corpus: [[works/taiwaneseamericanhistory-org/mystoreis459|459. 失與得 / 黃美琇 /09/2016]] and [[works/taiwaneseamericanhistory-org/whos796-agnes-hsiao|796. Agnes Hsiao 黃美琇 / 2016/02]].
 - His own encyclopedia record: [[works/taiwaneseamericanhistory-org/whos-who-2254-stanley-hsiao|2254. Stanley Hsiao 蕭東賢]].
+- His own opinion writing survives in the community press: [[articles/taiwanjustice-net/2025/20251210210523_能寄望台灣司法嗎_-_-蕭東賢_11ccff28ddb21436|〈能寄望台灣司法嗎？〉蕭東賢／2020-01-04  signed 南加，2020-01-06 刊於 TaiwanJustice.NET]] — a lawyer's intervention in Taiwan's judicial-reform debate, criticizing the judges (司法院長許宗力 included) who joined the 大法官連署; the site's 義論 editorial column carries the piece, showing a sustained columnist presence rather than a one-off letter.
 
 ## Sources
 - [TAH #2254 encyclopedia: 2254. Stanley Hsiao 蕭東賢](https://taiwaneseamericanhistory.org/whos-who-2254-stanley-hsiao/)

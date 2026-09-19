@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-17
+last_reviewed: 2026-09-19
 ---
 # Karen Chen (陳楷雯)
 
@@ -34,6 +34,7 @@ Track of her coverage in the TAH community archive:
 - **2017-01** — gold at the U.S. Figure Skating Championships at age 17 (Fremont, CA), celebrated in the community record ([[works/taiwaneseamericanhistory-org/2017-2|TAH #2]]) ([[works/taiwaneseamericanhistory-org/whoswho1486|TAH #1486]]).
 - **2017-11** — autobiography *Finding the Edge: My Life on the Ice* catalogued in the TAH publications record ([[works/taiwaneseamericanhistory-org/publications1204|TAH #1204]]).
 - **2022-02** — at the Beijing Winter Olympics she performed 梁祝 (The Butterfly Lovers) and helped the U.S. team take silver in the team event; the community record highlights the Taiwanese-identity reading of the program ([[works/taiwaneseamericanhistory-org/my-stories-823|TAH #823]]).
+- TAH's encyclopedia carries a consolidated entry for her in the community record ([[works/taiwaneseamericanhistory-org/whos-who-1988-karen-chen|TAH #1988]]); the entry number is an ID, not a year.
 - **HOLD: era "1999" in snapshot vs TAH #1486/#2 dated 2017/01 describing her as 17-year-old** — consistent (born 1999), kept as-is; no dates merged.
 
 ## Family

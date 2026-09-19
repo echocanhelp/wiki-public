@@ -6,7 +6,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-18
+last_reviewed: 2026-09-19
 ---
 # 李彥秀
 
@@ -50,3 +50,4 @@ _No filled family fields on the TAH profile._
 - 2019-12-22 — 韓國瑜輔選期間報導：作為國民黨台北第四選區（內湖、南港）立委候選人，李彥秀找前台東縣長黃健庭陪同市場掃街拜票，被解讀為與拜訪郭台銘的對手高嘉瑜較勁（[[articles/taiwanjustice-net/2025/20251210214746_藍綠台北衝選情_陳建仁領軍-車隊掃街開直播_韓_1fbc7a8aff9cd26e|TJJ 選情報導, 2019-12-22]]）。
 - 2025-01-16 — 作為國民黨立委隨韓國瑜團長赴總統府與賴清德咖啡閉門會議，表示國民黨團當日將開8小時會議濃縮所提3000多案，並盼未來多進總統府喝咖啡，總統回應相當歡迎（[[articles/taiwanjustice-net/2025/20250719114825_韓國瑜提預算協商盼柯建銘不要那麼硬-總統緩頰_8fc11ca0c5dbaebe|TJJ 中央社記者報導, 2025-01-16]]）。
 - 2019-12-20 — 2020大選選戰：國民黨副主席郝龍斌陪同黨台北第四選區立委候選人李彥秀掃街拜票，回應民進黨「下架吳斯懷」攻勢，批綠以仇中、恐中恐嚇選民（自由時報報導 via [[articles/taiwanjustice-net/2026/20260115091334_吳斯懷_粉身碎骨_說-吳怡農_聽聽就好_下架_8559790a51be8817|TJJ, 2019-12-20]]）。
+- 2026-01 — 國民黨文傳會主委李彥秀表示傅崐萁率立委訪中行程係傅個人規畫安排，黨中央隨後澄清訪中將聚焦兩岸民生經濟議題；報導並述及同團投票舞弊風波（上報／藍營報導 via [[articles/taiwanjustice-net/2026/20260112183035_5-20前-國民黨立委去中國表善意_但遭質疑拆賴_454f1c39904c9f85|TJJ record, 2026-01]]）。Same KMT-legislator identity as the HOLD note above — not the Illinois physician.

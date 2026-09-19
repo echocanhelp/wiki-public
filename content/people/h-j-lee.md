@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-17
+last_reviewed: 2026-09-19
 ---
 # H. J. Lee (李慧珍)
 
@@ -37,7 +37,7 @@ _No filled family fields on the TAH profile._
 
 ## Role in the Community
 
-- 南加州台灣人社區的活躍女高音／指揮。林衡哲追憶南加州台灣人聯合基金會（TUF）的回憶錄記載：1994「台灣文化之夜」中，女高音李慧珍在兩場文化講座後以華麗音色唱出台灣民謠《白牡丹》《望春風》、浦契尼歌劇選曲二首，及蕭泰然藝術歌曲《愛與希望》《嘸通嫌臺灣》，獲熱烈掌聲（[[works/taiwaneseamericanhistory-org/ourjourneys301|301. 南加州臺灣人聯合基金會（Taiwanese United Fund）的誔生、回顧與展望（1986-1996） / 林衡哲 /07/2017]]，2017-07，band A）。此為「From the record」所記 1994 TUF 演出的會館第一手旁證。
+- 南加州台灣人社區的活躍女高音／指揮。林衡哲追憶南加州台灣人聯合基金會（TUF）的回憶錄記載：1994「台灣文化之夜」中，女高音李慧珍在兩場文化講座後以華麗音色、生動表情與穩健台風唱出台灣民謠《白牡丹》《望春風》、浦契尼歌劇選曲二首《當我走在街上》（Quando m'ho vo'）、《我親愛的爸爸》（O mio babbino caro），及蕭泰然藝術歌曲《愛與希望》《嘸通嫌臺灣》，獲熱烈掌聲；同場蕭泰然鋼琴演奏《台灣翠青》，由 TUF 會長楊子清帶領全場合唱（[[works/taiwaneseamericanhistory-org/ourjourneys301|301. 南加州臺灣人聯合基金會（Taiwanese United Fund）的誔生、回顧與展望（1986-1996） / 林衡哲 /07/2017]]，2017-07，band A）。此為「From the record」所記 1994 TUF 演出的會館第一手旁證。
 - TAH 百科音樂家條目 [[works/taiwaneseamericanhistory-org/musician387|387. 李慧珍, Conductor / 2017/03]]（2017-03）；Who's Who 條目 [[works/taiwaneseamericanhistory-org/whoswho1542|1542. H. J. Lee 李慧珍 / 2017/03]]（2017-03）。
 - 長期投入台灣音樂推廣：樂音合唱團指揮兼音樂總監（2004–present）、樂音基金會執行長、心悅合唱團指揮兼音樂總監（TAH harvest table）。
 
