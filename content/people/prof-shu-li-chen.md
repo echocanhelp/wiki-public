@@ -38,5 +38,6 @@ _No filled family fields on the TAH profile._
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-shu-li-chen/)
 
 ## Related Pages
+- [[works/taiwaneseamericanhistory-org/whos-who-1961-shu-li-chen|1961. Prof. Shu-li Chen 陳淑麗教授]] — TAH Who's Who record (2017-12-03)
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

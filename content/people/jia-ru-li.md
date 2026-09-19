@@ -33,6 +33,9 @@ last_reviewed: 2026-09-19
 
 _No filled family fields on the TAH profile._
 
+## Role in the Community
+- Listed in the TAH Foundation Who's Who record [[works/taiwaneseamericanhistory-org/whoswho1181|TAH #1181: Jia-Ru Li 李佳儒 (2016/07)]].
+
 ## Sources
 - [TAH #1181 encyclopedia: 1181.  Jia-Ru Li 李佳儒 / 2016/07](https://taiwaneseamericanhistory.org/whoswho1181/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/jia-ru-li/)

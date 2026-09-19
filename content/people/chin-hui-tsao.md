@@ -40,5 +40,6 @@ _No filled family fields on the TAH profile._
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/chin-hui-tsao/)
 
 ## Related Pages
+- [[works/taiwaneseamericanhistory-org/whos-who-1753-chin-hui-tsao|1753. Chin-Hui Tsao 曹錦輝]] — TAH Who's Who record (2017-07-09)
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
