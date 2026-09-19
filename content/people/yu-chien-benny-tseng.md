@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-18
+last_reviewed: 2026-09-19
 ---
 # Yu-Chien Benny Tseng (曾宇謙)
 
@@ -49,6 +49,7 @@ _No filled family fields on the TAH profile._
 - Featured artist in the 「台灣名家演奏系列」 of [[organizations/taiwanese-united-fund|台灣人聯合基金會 (TUF)]]: at TUF's 30th anniversary in 2016 the 「曾宇謙小提琴獨奏會」 drew an especially enthusiastic response, recorded by TUF as one of the series' highlights alongside 胡乃元、林昭亮、陳慕融、蘇顯達 and others ([[works/taiwaneseamericanhistory-org/ourjourneys294|TUF 台美文藝工作紀錄, TAH ourjourneys 294]]).
 - Educational reach in the community: the 大洛杉磯台灣會館台灣學校 classical-music appreciation class (2016-05-08) used his award-winning concert recording as its finale feature (see From the record).
 - Own TAH encyclopedia entries: [[works/taiwaneseamericanhistory-org/whoswho1408|TAH #1408]], [[works/taiwaneseamericanhistory-org/musician374|TAH #374]], and interview video [[works/taiwaneseamericanhistory-org/videos111|【台灣演義】小提琴家 曾宇謙, TAH #111]].
+- Instrument lineage in the Taiwanese community: he began borrowing fine violins from 許文龍's 奇美博物館 collection at age 11, the loan TJJ's 許文龍 obituary singles out as the best-known story of 奇美 lending its 17th–18th-century instruments to Taiwanese violinists; he won silver at the 2015 International Tchaikovsky Competition ([[articles/taiwanjustice-net/2024/20240225153403_root_82368e853191a106|TJJ「不要為我造墓」許文龍專輯, 2024-02-25]]).
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

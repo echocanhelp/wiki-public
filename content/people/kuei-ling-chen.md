@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-18
+last_reviewed: 2026-09-19
 ---
 # Kuei-Ling Chen (陳桂鈴)
 
@@ -39,6 +39,7 @@ _No filled family fields on the TAH profile._
 - Her own TAH encyclopedia entry is [[works/taiwaneseamericanhistory-org/whoswho1378|1378. Kuei-Ling Chen 陳桂鈴/2016/11]].
 - 2021-11-23 — As 全美台灣同鄉會會長 she convened a press conference with the heads of multiple Taiwanese-American groups and read aloud the joint statement of 57 groups urging a 不同意 vote on the 反萊豬 referendum, arguing the FDA-standard issue had been distorted and used "替中國破壞台美關係" ([[articles/taiwanjustice-net/2021/20211207123436_2021_11_23_57台美人團體籲不同意反萊豬_勿替中國破壞台美關_1d2b795d3f1ad9a0|TJJ via 中央社記者, 2021-11-23]]).
 - 2022-10 — In the 全美會's 51st-anniversary year, as 會長 she initiated the 「全美台灣同鄉會返台參訪團」 (10/24–28); the delegation dined with 副總統賴清德 on 10/24 in Taipei and was received by 桃園市長鄭文燦's team — fitting for a 桃園 native — and visited 彰化台灣語文園區 with 姚嘉文資政 and 周清玉 ([[works/taiwaneseamericanhistory-org/our-journeys-382|全美會回台參訪記(上)]], [[works/taiwaneseamericanhistory-org/our-journeys-383|回台參訪記(下)]]).
+- The visit memoir records further details of 陳桂鈴's hosting role: group photo at 總統府 with 僑委會委員長童振源; an AIT officials meeting at 內湖; a planned 立法院康園 lunch with 王定宇 (who had to return south, substituted by 林昶佐 and 羅致政 of the 国防外交委員會); a 龍潭 stop at 鍾肇政文學生活園區 and 新龍潭圖書館; companions in photos include 創會長鄭義和, 陳逸玲, 宋明麗, 吳玟瑞, 楊黃美幸, 蘇春槐 ([[works/taiwaneseamericanhistory-org/our-journeys-383|回台參訪記(下)]], photo captions by 楊遠薰)).
 
 ## From the record
 

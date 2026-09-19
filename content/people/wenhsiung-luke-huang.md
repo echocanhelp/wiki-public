@@ -56,6 +56,7 @@ _No filled family fields on the TAH profile._
 
 ## From the record
 
+- 2017-03-15 — 主講長青教室「人際關係」（YouTube Video），見台灣公義報「台美人台加人」分類 長青教室 標籤彙整頁（2017-03-29 刊）—— [[articles/taiwanjustice-net/2024/20240620173328_root_2777c88877eee2c5|TJJ tag 長青教室, 2024-06-20 存檔]]。
 - 2020-11-25 — FAHR 公告第44屆年會（12/5 台北）邀歷屆「鄭南榕紀念獎」得獎人回娘家，名列 1997 年得獎人（本頁 TAH #142/#19/#89 即以其為424刺蔣案主角記錄，故連結成立；[[articles/taiwanjustice-net/2021/20210118235211_2020_11_25_全美台灣人權協會第44屆年會暨_鄭南榕紀念獎_頒_996879ac7a006acf|TJJ, 2020-11-25]]）。
 - 2020-04-24 — 中央社記者刺蔣案 50 週年報導：1970-04-24 康乃爾大學博士生黃文雄與妹夫鄭自才策劃刺殺蔣經國未果被捕，棄保逃亡後浪跡世界 26 年（報導中刺蔣主角黃文雄是否即本頁 TAH 醫師 profile 仍未驗證，詳見 Notes on sources；[[articles/taiwanjustice-net/2025/20251115150231_鄭自才談424刺蔣案意義_台灣人追求獨立建國_24119694dbb384c9|TJJ，2020-04-24]]）。
 - 2022-07-12 — Recounted in 王泰和's memorial interview on the 424刺蔣案: on 1970-04-24, as Chiang Ching-kuo entered the Plaza Hotel in New York, 黃文雄 fired but was restrained by US security personnel and his shot went wide; 蔡同榮 led the demonstration and later fronted network news interviews ([[articles/taiwanjustice-net/2025/20250811013132_化作千風_懷念台美人的人權鬥士_台獨先鋒王泰_31b7081a5d37939f|TJJ, 2022-07-12]]).
