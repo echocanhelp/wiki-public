@@ -51,3 +51,5 @@ HOLD: 通訊錄將他列於 Utah，Who's Who 傳記頁與現職（USDA、IDDS �
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+> SKIP-note (deepen-x slice 09180200-11, 2026-09-19): corpus re-grep found no new absorbable material — only bibliographic work-page records already wikilinked above.
