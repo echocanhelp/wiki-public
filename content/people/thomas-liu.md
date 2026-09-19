@@ -36,7 +36,7 @@ last_reviewed: 2026-09-19
 - 1985 — Listed as a consultant (顧問) of the 台美公民協會 (Taiwanese American Citizens League) Preparatory Committee, per the committee's own introduction published in 台灣公論報 369 (1985-04-15), preserved in [[works/taiwaneseamericanhistory-org/ourjourneys186|TAH story #186]] (English: [[works/taiwaneseamericanhistory-org/ourjourneys186-eng|#186-eng]]).
 - 2016-03 — Authored a personal essay "My X-Ray" for the TAH story collection: [[works/taiwaneseamericanhistory-org/mystories421-my-x-ray|TAH story #421]].
 - 2016-04 — Donated his personal archive to TAH: "Collection of Mr. Thomas Liu 劉天良先生的收藏", [[works/taiwaneseamericanhistory-org/collection-of-mr-thomas-liu|TAH story #27]].
-- 2016-03 — Contributed a source document (照片文件) to TAH story #206 「多彩多姿的社團活動」(台灣公論報 2016/03, Taiwanese American Perspectives): [[works/taiwaneseamericanhistory-org/ourjourneys206|TAH story #206]].
+- 2016-04 — Provided/supplied the TAH record "It Was the Wind / Angel Chen" (TAH story #214, "Source from Thomas Liu / 04/2016"): [[works/taiwaneseamericanhistory-org/ourjourneys214|TAH story #214]] — active as a corpus contributor, not just a subject.
 - 1985-04 — The English translation of the TACL Preparatory Committee consultant roster (same record as #186) lists him as "Thomas Liu" among ~60 顧問: [[works/taiwaneseamericanhistory-org/ourjourneys186-eng|#186-eng]] — cross-confirms the ZH roster entry.
 
 ## Family
