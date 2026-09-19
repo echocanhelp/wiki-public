@@ -7,8 +7,8 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-17
-skip_note: "deepen-x 2026-09-17: corpus hits are own band-B TAH bibliographic records only; no absorbable community facts"
+last_reviewed: 2026-09-19
+skip_note: "deepen-x 2026-09-19: corpus hits re-verified — own band-B TAH bibliographic records (whos-who-2239, senior-taiwanese-american-36) only, no full text in vault; no absorbable community facts"
 ---
 # Lin Chang-Chien Chu (林張簡菊)
 
