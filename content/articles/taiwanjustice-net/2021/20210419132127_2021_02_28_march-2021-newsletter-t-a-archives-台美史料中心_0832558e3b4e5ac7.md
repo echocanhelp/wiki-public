@@ -27,7 +27,7 @@ Progress in February2021
 There are 31 new subjects collected in February and the total posts are 9521.
 
 ## Subjects
-- [[people/yung-hwa-hsu.md|Yung Hwa Hsu]] — mentioned in this record
-- [[people/adrian-lin.md|Adrian Lin]] — mentioned in this record
-- [[people/kin-ko.md|柯金寅]] — mentioned in this record
+- [[people/yung-hwa-hsu|Yung Hwa Hsu]] — mentioned in this record
+- [[people/adrian-lin|Adrian Lin]] — mentioned in this record
+- [[people/kin-ko|柯金寅]] — mentioned in this record
 
