@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-18
+last_reviewed: 2026-09-19
 ---
 # Cossette Sun (吳春紅)
 
@@ -45,6 +45,7 @@ last_reviewed: 2026-09-18
 - Profiled in the TAH encyclopedia entry she is named for ([[works/taiwaneseamericanhistory-org/471-cossette-sun-201506|471. Cossette Sun 吳春紅]]).
 - 2008-12-11 — recognized as a Castro Valley local hero by CA Assembly Majority Leader Alberto Torrico (Assembly District 20, Resolution No. 38), consistent with the library-community record above.
 - Countersigned the 2018 台大校友 open letter as 吳春紅(法律) — see From the record.
+- 2026-09-19 re-grep: SKIP — no corpus hits beyond the works index and her own already-linked records; no new absorbable material.
 
 ## Sources
 - [TAH #471 encyclopedia: 471. Cossette Sun 吳春紅/2015/06](https://taiwaneseamericanhistory.org/471-cossette-sun-201506/)

@@ -44,6 +44,7 @@ last_reviewed: 2026-09-19
 
 - 2021-08-15 — 以僑務委員身分與李漢文、李文雄等列席聖克拉拉郡北加州國際童玩節，同場政要含金山灣區僑教中心主任閻樹榮、古柏迪諾副市長趙良方、佛利蒙特市長高敘加等（[[articles/taiwanjustice-net/2025/20250916200848_戴口罩參與北加州國際童玩節_台灣味解思鄉情_29a438200ec222e0|TJJ/CNA, 2021-08-15]]）。
 - 2022-10-02 — 以世台聯合基金會（STUF United Fund）副董事長身份與董事長陳秋貴、執行長林鋕銘等同赴該會公益合作晚宴，與會者含前副總統陳建仁、勞動部長許銘春及多國駐台使節—— [[articles/taiwanjustice-net/2022/20221127053109_2022_10_02_出席世台基金會公益晚宴-陳建仁_國民外交最好見_43b81b6b892fea96|TJJ/CNA, 2022-10-02]]。
+- Corpus re-grep 2026-09-19 (slice -5): hits are own TAH #1729 entry, index, and the two TJJ articles already absorbed under「From the record」; no new memoir material — SKIP-with-reason.
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

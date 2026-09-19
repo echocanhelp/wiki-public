@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-18
+last_reviewed: 2026-09-19
 ---
 # Dr. R. Palmer Beasley (畢思理博士)
 
@@ -41,7 +41,7 @@ Dr. R. Palmer Beasley 畢思理博士 – History of Taiwanese American (T.A. Ar
 - 台美人社區將畢思理博士視為台灣 B 型肝炎防治及根除的關鍵貢獻者：TAH 檔案庫收有林壽英撰文〈畢思理博士為台灣防治及根除B型肝炎的奉獻〉（2018-12，見 [[works/taiwaneseamericanhistory-org/52646|662. 畢思理博士為台灣防治及根除B型肝炎的奉獻]]）。
 - 盧俊義〈這些人這些事：畢思理博士對台灣B肝疫苗的貢獻〉（2021-10-15）在台灣Justice網轉載，延續社區對其貢獻的紀念（見 [[articles/taiwanjustice-net/2025/20250209214240_tag_這些人這些事_1935dc59b8252b3c|這些人這些事轉載頁]]）。
 - TAH 檔案庫傳記頁：[[works/taiwaneseamericanhistory-org/whos-who-2188-r-palmer-beasley|2188. Dr. R. Palmer Beasley 畢思理博士]]（2019-05-15）及 [[works/taiwaneseamericanhistory-org/ota-245|245. Dr. R. Palmer Beasley 畢思理博士]]（2019-02-09）。
-- Corpus re-grep 2026-09-18 (slice 09170600-14): hit set unchanged (own #245/#2188 entries, 林壽英 tribute #662, taiwanjustice 這些人這些事 repost). One false positive screened out: 2025 VOAA article's 「大衛·比斯利」 is UN WFP chief David Beasley, a different person — not absorbed.
+- Corpus re-grep 2026-09-18 (slice 09170600-14): hit set unchanged (own #245/#2188 entries, 林壽英 tribute #662, taiwanjustice 這些人這些事 repost). One false positive screened out: 2025 VOAA article's 「大衛·比斯利」 is UN WFP chief David Beasley, a different person — not absorbed. Re-confirmed 2026-09-19 (slice 09180400-4): hit set again unchanged (same files plus works index and a TJJ root tag archive); nothing new to absorb.
 
 ## Sources
 - [TAH #2188 encyclopedia: 2188. Dr. R. Palmer Beasley 畢思理博士](https://taiwaneseamericanhistory.org/whos-who-2188-r-palmer-beasley/)

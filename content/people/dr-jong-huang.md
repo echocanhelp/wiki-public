@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-18
+last_reviewed: 2026-09-19
 ---
 # Dr. Jong Huang (黃重德醫師)
 
@@ -36,6 +36,7 @@ Accomplishment
 
 - **NATMA 健康講座主講人**：獲北美洲台灣人醫師協會（NATMA）邀請，於大洛杉磯台灣會館健康講座主講（2020-02-02 下午 2:00–5:00）。見 [[articles/taiwanjustice-net/2025/20250615092403_大洛杉磯台灣會館健康講座-natma邀請黃重德醫師2-2主講_876ab7fb44a291e0|大洛杉磯台灣會館健康講座：NATMA 邀請黃重德醫師主講]]（2020-02-05 亦有 [[works/taiwaneseamericanhistory-org/whos-who-2240-jong-huang|2240. Dr. Jong Huang 黃重德醫師]] 傳記條目）。
   - 同一講座另收錄於 [[articles/taiwanjustice-net/2021/20211023213419_2020_01_31_大洛杉磯台灣會館健康講座-natma邀請黃重德醫師2-2主講_2215cc69fdfbdca4|tw justice 網 2021 存檔]]；兩檔日期標註不一（2021-10-23 存檔 vs 2025-06-15），主講內容一致。
+- Corpus re-grep 2026-09-19 (slice 09180400-4): hit set unchanged — own #2240 biblio entry, works index, MANIFEST.jsonl, and the already-linked TJJ lecture/tag article archives; no memoir narrative beyond them, nothing new to absorb.
 
 ## Family
 
