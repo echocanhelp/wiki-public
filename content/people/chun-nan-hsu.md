@@ -7,7 +7,8 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-17
+last_reviewed: 2026-09-19
+skip_note: "deepen-x 2026-09-19: corpus re-verified — sole hit is own band-B TAH bibliographic record whoswho1191; no absorbable community facts"
 ---
 # Chun-Nan Hsu (許鈞南)
 
