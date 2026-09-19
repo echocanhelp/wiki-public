@@ -35,6 +35,9 @@ President of the North America Taiwanese Engineers' Association (北美台灣工
 
 _No filled family fields on the TAH profile._
 
+## Role in the Community
+- Held in the community record via TAH Who's Who encyclopedia [[works/taiwaneseamericanhistory-org/whoswho1887|1887. Jimmy Li 李正明 / 09/2017]]; already-documented community role: 北美台灣工程師協會會長 (2003). Only other corpus hit — a "Jimmy Liu" in [[works/taiwaneseamerican-org/american-born-chinese-disney|american-born-chinese-disney]] — is a different person, not absorbed.
+
 ## Sources
 - [TAH #1887 encyclopedia: 1887.  Jimmy Li 李正明 / 09/2017](https://taiwaneseamericanhistory.org/whoswho1887/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/jimmy-li/)

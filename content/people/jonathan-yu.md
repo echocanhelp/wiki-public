@@ -34,6 +34,9 @@ last_reviewed: 2026-09-19
 
 _No filled family fields on the TAH profile._
 
+## Role in the Community
+- Held in the community record via TAH Who's Who encyclopedia [[works/taiwaneseamericanhistory-org/whoswho1331|1331. Jonathan Yu 余裕義 / 2016/10]]. No other corpus mention found — nothing further absorbable (no invented copy).
+
 ## Sources
 - [TAH #1331 encyclopedia: 1331. Jonathan Yu 余裕義 / 2016/10](https://taiwaneseamericanhistory.org/whoswho1331/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/jonathan-yu/)

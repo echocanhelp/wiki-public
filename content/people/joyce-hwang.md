@@ -39,6 +39,10 @@ Associate Professor
 - **Husband:** Sergio
 
 
+## Role in the Community
+- Recognized by the Taiwanese American community as a "Creative MVP 2016": TAH published a feature honoring her [[works/taiwaneseamericanhistory-org/26-creative-mvp-2016-prof-joyce-hwang|26. Creative MVP 2016 / Prof. Joyce Hwang]] (2016-11-07).
+- Profiled in the TAH Who's Who encyclopedia [[works/taiwaneseamericanhistory-org/whoswho1388|1388. Joyce Hwang / 2016/11]].
+
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/joyce-hwang/)
 
