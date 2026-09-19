@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-19
 ---
 # North America Taiwanese Women’s Association – New Jersey Chapter (北美洲台灣婦女會紐澤西分會)
 
