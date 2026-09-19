@@ -8,7 +8,7 @@ tags:
   - taiwanjustice
   - publication-contributor
 verification_status: pending
-last_reviewed: 2026-08-30
+last_reviewed: 2026-09-19
 ---
 
 # Yang Yuan-xun / 楊遠薰
@@ -10892,6 +10892,10 @@ Notable quotes and mentions of **楊遠薰** in Taiwan Justice articles:
    — 'Tag: 楊遠薰' (2016-08-19)
 
 *...and 114 more quotes*
+
+## From the record
+
+- 2021-09-23 — Her memoir 懷念彭昕醫師 (reprinted on TJJ 2025-03-23) records that at the invitation of Living Well Club 會長 [[people/mou-chinlin|林茂清]] she gave five online lectures for the New Jersey Taiwanese community during COVID-19 (2020-07 through 2021-07, topics incl. 提倡台美文化, 認識華府, 形成台美人的崎嶇路), hosted each time by anesthesiologist 彭昕, whose sudden death in Taipei it memorializes ([[articles/taiwanjustice-net/2021/20211020131319_2021_09_23_懷念彭昕醫師-_-楊遠薰_6763e8f4ad9bcb7c|TJJ, 2021-09-23]]).
 
 ## Sources
 - [TAH #279 encyclopedia: 279. 楊遠薰 Carole Hsu / 著名的台美人故事的作家](https://taiwaneseamericanhistory.org/279-carole-hsu-famous-author/)
