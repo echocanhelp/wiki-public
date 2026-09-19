@@ -7,7 +7,7 @@ tags:
   - taiwanjustice-net
   - thin-page
 verification_status: pending
-last_reviewed: 2026-09-18
+last_reviewed: 2026-09-19
 ---
 # Chen Shui-bian (陳水扁)
 
@@ -30,6 +30,7 @@ last_reviewed: 2026-09-18
 
 ## From the record
 
+- 2015-03-10 — 范姜提昂〈當直選的統派總統發飆〉（Taipei Times「Torn apart by presidential power」中英文版）論及：直選前後的李登輝、陳水扁兩任總統均屬獨派，執政共二十年；與首位直選統派總統馬英九對照，論實權總統無法成為國家團結象徵（TJJ 上傳 2015-03-11，2024-04-23 存檔）（[[articles/taiwanjustice-net/2024/20240423102035_root_ae7271322e42897b|TJJ，2024-04-23 存檔]]）。
 - 2013-04-22 — TJJ 存檔原文：人權行動中心（Human Rights Action Center）創辦人 Jack Healey 就陳水扁醫療權發表聲明，指其醫療照護遭系統性拖延或不足、已造成永久傷病，凌晨突襲式移監違反十人國際人權專家小組建議，譴責馬政府「以系統性怠忽謀殺前總統」，呼籲國際社會為扁及其他受刑人的醫療權發聲 —— [[articles/taiwanjustice-net/2024/20240520030447_root_9e7164ea03c1512b|TJJ：The Madness of Ma（2013-04-22）]]。
 - 2013-07-30 — TJJ English Pages 目錄頁收錄其英文報導「不准病假 北院提訊陳水扁」（涂醒哲醫師，蘋果日報），快照顯示該頁已上線。（[[articles/taiwanjustice-net/2024/20240224194137_root_b1e144ecc18e460f|TJJ, 2013-07-30]]）。
 - 2013-04-24 — 台灣公義報「Taiwan」標籤頁收錄其獄中自縊未遂新聞（醫療團隊證實）；同年2月13日該頁另收錄深藍人士對其總統任內施政的評述（[[articles/taiwanjustice-net/2024/20240620184257_root_c595d332038f73bb|TJJ Taiwan標籤頁, 2024-06-20 存檔]]）。

@@ -7,7 +7,7 @@ tags:
   - taiwanjustice-net
   - thin-page
 verification_status: pending
-last_reviewed: 2026-09-18
+last_reviewed: 2026-09-19
 ---
 # Ma Ying-jeou (馬英九)
 
@@ -30,7 +30,7 @@ last_reviewed: 2026-09-18
 
 ## From the record
 
-
+- 2015-03-10 — 范姜提昂〈當直選的統派總統發飆〉（Taipei Times 中英文版）批評其缺乏術（statecraft）：2013 年九月風潮帶頭逐王金平、令國人被迫看著總統為害而無可如何，現行體制無處理性格缺陷的機制，實權總統無法成為國家團結象徵（TJJ 上傳 2015-03-11，2024-04-23 存檔）（[[articles/taiwanjustice-net/2024/20240423102035_root_ae7271322e42897b|TJJ，2024-04-23 存檔]]）。
 - 2026-07-28 — taiwanjustice.net 文章存檔索引（29,103 篇・2011–2026）以本人為關鍵人物條目收錄（[[articles/taiwanjustice-net/index||TJJ 文章存檔索引]]）。
 - 2013-04-22 — TJJ 存檔原文：Jack Healey（Human Rights Action Center）聲明直指馬英九——「Do not let Ma Ying-jeou murder Chen Shui-bian」：指其政府涉入司法、受復仇政治驅動，在支持度仅約11%、無競選壓力下仍將扁自可應變多重病情的醫療機構移回僅有監獄診所的監所，等同選擇「慢動作謀殺」；聲明並批評反對黨忙於操弄選票而忽略扁醫療權本身 —— [[articles/taiwanjustice-net/2024/20240520030447_root_9e7164ea03c1512b|TJJ：The Madness of Ma（2013-04-22）]]。
 - 2013-09-15 — TJJ English Pages 目錄頁收錄 Jerome F. Keating 評論「Will Ma Ying-jeou's Disappearing Legacy be that of Richard III?」。（[[articles/taiwanjustice-net/2024/20240224194137_root_b1e144ecc18e460f|TJJ, 2013-07-30 快照]]）。
@@ -43,6 +43,7 @@ last_reviewed: 2026-09-18
 - 2015-01-07 — A TJJ reprinted examination (Micheal Richardson, examiner.com) argues Chen Shui-bian's 2015-01-05 medical parole was forced on the Ma administration by 呂秀蓮's hunger strike, notes the hand-picked judge who convicted Chen had cleared Ma himself in his own corruption investigation, recalls Ma as Chiang Ching-kuo's personal translator under martial law, and attributes both the Sunflower Movement and 柯文哲's entry into politics to Ma's handling of Chen and the cross-strait agreements, with Ma's support by then in single digits ([[articles/taiwanjustice-net/2024/20240425074240_root_795e52aadf3797a0|TJJ, 2015-01-07]]).
 - 2013-06-10 — TJJ 轉載 Michael Richardson 報導（陳水扁台中監獄自縊風波）：報導指馬英九拒絕考慮陳水扁醫療釋放，使其在隔離牢房中健康與精神持續惡化 —— [[articles/taiwanjustice-net/2024/20240425071249_root_69b4f44f9c019bd5|TJJ, 2013-06-10]]。
 - 2016-04-11 — TJJ 轉載 Taipei Times 社論：馬英九第二任期末，卸任前是否特赦陳水扁成為爭議，高雄、台南市議會及26名民進黨台北市議員先後呼籲特赦，總統府以扁案多案未定為由拒絕 —— [[articles/taiwanjustice-net/2024/20240619171645_root_c0530664ab4c2948|TJJ 轉載 Taipei Times 社論，2016-04-11]]。
+- 2013-08-03 — TJJ「English Pages」分類存檔（2024-07-18 快照）收錄「250,000 people demonstrated in front of Ma's office」一則（轉發 BATA 電郵：25萬公民靜坐寫歷史），記錄反服運後公民社會對馬辦公廳前大規模抗爭的報導 —— [[articles/taiwanjustice-net/2024/20240718230535_root_d2d01925bc6bbba3|TJJ English Pages 存檔頁, 2024-07-18 快照]]。
 
 ## Role in the Community（台美人社群記錄中的馬英九）
 
