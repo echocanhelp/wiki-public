@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-18
+last_reviewed: 2026-09-19
 ---
 # Hui Na Lin (賴慧娜)
 
@@ -46,6 +46,7 @@ _No filled family fields on the TAH profile._
 
 ## From the record
 
+- 2020-10-22 / 2020-10-24 — 其疫情随笔「天已轉涼」（10-22）與「建構疫後新世界」（10-24）列於「Covid-19 浩劫餘生錄」分類頁（2020-11-20 存檔）（[[articles/taiwanjustice-net/2020/20201120161617_category_covid-19_c48e08c7f2c3bf8d|TJJ Covid-19 分類頁，2020-11-20 存檔]]）。
 - 2020-10-22 — 其疫情随笔「天已轉涼」列为 taiwanjustice.net「Covid-19 浩劫餘生錄」专栏精选文章（该页 2021-11-28 快照）—— [[articles/taiwanjustice-net/2021/20211129024830_category_covid-19_c9dd9fb782cc99b8|TJJ Covid-19 专栏页，2021-11-28 存档]]。
 - 2021-12-21 — 台美人筆會會長交接：賴慧娜兩年任期屆滿交棒亞特蘭大王淑芬（北美洲台灣婦女會前總會長，筆名「辣媽」）；卸任報告指疫情隔離中全美會員賴群組創作不懈、筆會會員穩定成長、財務健全，兩年一刊《台美文藝》即將出版（[[articles/taiwanjustice-net/2022/20220517053449_2021_12_26_台美人筆會會長交接_賴慧娜交棒王淑芬_70a8a32d4cc3ca7a|TJJ, 2021-12-26]]）。
 
