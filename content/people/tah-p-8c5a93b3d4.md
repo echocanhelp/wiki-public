@@ -35,6 +35,10 @@ last_reviewed: 2026-09-18
 - **Son:** Jimmy
 
 
+## From the record
+
+- 2019-09-03 — Signed the overseas Taiwanese organizations' joint statement 「拒一國兩制！海外台灣人社團：支持香港反對中國暴政」 as 「王康陸紀念基金會 會長王康厚」 (President, Kang-Lu Wang Memorial Foundation) — a first-person dated record of his chairmanship ([[articles/taiwanjustice-net/2024/20240221122756_root_53455d7e13136092|TJJ record, 2024-02-21 archive of the 2019-09-04 posting]]).
+
 ## Sources
 - [TAH #1372 encyclopedia: 1372. 王永宗家族敘事：王康厚、王康德口述訪談紀錄 | 08/2023/Life](https://taiwaneseamericanhistory.org/publications-1372/)
 - [TAH #375 encyclopedia: 375. 王康厚 / 2015/04](https://taiwaneseamericanhistory.org/375-%e7%8e%8b%e5%ba%b7%e5%8e%9a/)

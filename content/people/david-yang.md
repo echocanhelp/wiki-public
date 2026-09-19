@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-18
+last_reviewed: 2026-09-19
 ---
 # David Yang (楊熾勳)
 
@@ -54,3 +54,5 @@ _No filled family fields on the TAH profile._
 - Listed among the consultants of the 台美公民協會 (Taiwanese American Citizens League) Preparatory Committee, 1985, in the founding-committee roster reproduced from 台灣公論報 第369期 (1985-04-15) ([[works/taiwaneseamericanhistory-org/ourjourneys186|186. 台美公民協會簡介 / 台美公民協會籌備委員會]]; English roster in [[works/taiwaneseamericanhistory-org/ourjourneys186-eng|ourjourneys186-eng]]).
 - Memoir 「鮭魚回歸—台灣在呼喚我」 in the vault ([[works/taiwaneseamericanhistory-org/338-e9-ae-ad-e9-ad-9a-e5-9b-9e-e6-ad-b8-e5-8f-b0-e7-81-a3-e5-9c-a8-e5-91-bc-e5-9|338. 鮭魚回歸-台灣在呼喚我 / 楊熾勳]], 2015-09) on returning to Taiwan to serve.
 - [[works/taiwaneseamericanhistory-org/10-e6-a5-8a-e7-86-be-e5-8b-b3-e8-bf-94-e5-8f-b0-e4-bb-bb-e8-81-b7-e7-be-85-e6-9d|10. 楊熾勳返台任職羅東聖母醫院]] (2012) corroborates the 羅東聖母醫院 physician role in the TAH profile.
+- TAH Who's Who 收錄為第 1539 條（2017-02 刊），corpus 內有獨立紀錄：[[works/taiwaneseamericanhistory-org/whoswho1539|TAH #1539: David Yang 楊熾勳 / 2017/02]]。
+- NATMA（北美洲台灣人醫師協會）前南加州分會會長：2021-05 「台灣入WHO論壇」即以該身分與三位前總會長同場（見上方 From the record）。
