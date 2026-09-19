@@ -60,6 +60,10 @@ TAH records held in this vault:
 ## Corpus recheck（deepen-x slice 09142319-6, 2026-09-15）
 - SKIP-with-reason：重掃（李柏毅／Leland Lee）命中不變——本人三筆 TAH 記錄（#14、#267、#172，均已 wikilink 載入）、同名異人 HOLD 條目 [[works/taiwaneseamericanhistory-org/our-journeys-373|#373]]、index 目錄行與 MANIFEST 書目行。無新社群事實可吸收。
 
+## From the record
+
+- HOLD: conflict — [[articles/taiwanjustice-net/2025/20250328070350_北市議員選舉缺額多-藍拚年輕世代接棒備戰2026-民進_93c0627d12678fca|TJJ 轉載中央社 2025-02-01（北市議員選舉缺額報導）]] 之「李柏毅」為國民黨台北市議員（藍二代，列名拚連任者），與本頁 1989 年生洛杉磯自閉症藝術家同名異人，連結已自該文 Subjects 移除。
+
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

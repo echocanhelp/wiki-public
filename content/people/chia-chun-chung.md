@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-18
+last_reviewed: 2026-09-19
 ---
 # Chia-Chun Chung (鍾佳君)
 
@@ -38,6 +38,7 @@ Laboratory Technician; Manufacturing Engineer; Lean Operations Manager; Senior M
 - Signatory of the Pew-research-sourced Taiwanese American statement [[works/taiwaneseamerican-org/pew-research-center-taiwanese-american-statement|Pew TA statement]].
 - In a 228 memory interview she described researching White-Terror family history and recording her grandmother's oral-history videos (Mandarin/Taiwanese/Hakka) as a way to "properly handle the aftermath, the emotional trauma" of 2-28 [[articles/taiwanjustice-net/2024/20240425121604_root_196d81510a023d94|228 memory interview]].
 - HOLD: conflict — the interview ages her as 34 with the family leaving Taiwan in 1996, which does not reconcile with the TAH education dates (JHU B.S. 2001–2005).
+- Corpus re-grep 2026-09-19: hit set unchanged (whos-who-1721, Pew TA statement, TA youths' self-determination statement, the two TJJ Dear Taiwan tour notices, the 228 memory interview) — all linked above; no memoir or club records beyond the FAPA Massachusetts presidency, nothing further absorbable.
 
 ## Family
 

@@ -10895,7 +10895,7 @@ Notable quotes and mentions of **楊遠薰** in Taiwan Justice articles:
 
 ## From the record
 
-- 2016-08-19 — 其「楊遠薰」標籤彙整頁第2頁（Wayback 2024-05-27 快照）收录其 2016 年专栏：「台美社區的形成(上)(下)」（08-19）、「台灣人的移美潮」（08-08）、「美國對台六項保證決議案的推手 ─昆布勞與FAPA的故事」（05-21/23）、「彭光理與台灣的半生緣(上)(下)」（04-30）、「亂世奇緣」（04-20），共 8 篇（[[articles/taiwanjustice-net/2024/20240527043739_root_e38ae3f755e47f77|TJJ 楊遠薰標籤頁2, 2024-05-27 快照]]）。
+- 2016-08-19 — 其「楊遠薰」標籤彙整頁第2頁（Wayback 2024-05-27 快照）收錄其 2016 年專欄：「台美社區的形成(上)(下)」（08-19）、「台灣人的移美潮」（08-08）、「美國對台六項保證決議案的推手 ─昆布勞與FAPA的故事」（05-21/23）、「彭光理與台灣的半生緣(上)(下)」（04-30）、「亂世奇緣」（04-20），共 8 篇（[[articles/taiwanjustice-net/2024/20240527043739_root_e38ae3f755e47f77|TJJ 楊遠薰標籤頁2, 2024-05-27 快照]]）。
 - 2021-09-23 — Her memoir 懷念彭昕醫師 (reprinted on TJJ 2025-03-23) records that at the invitation of Living Well Club 會長 [[people/mou-chinlin|林茂清]] she gave five online lectures for the New Jersey Taiwanese community during COVID-19 (2020-07 through 2021-07, topics incl. 提倡台美文化, 認識華府, 形成台美人的崎嶇路), hosted each time by anesthesiologist 彭昕, whose sudden death in Taipei it memorializes ([[articles/taiwanjustice-net/2021/20211020131319_2021_09_23_懷念彭昕醫師-_-楊遠薰_6763e8f4ad9bcb7c|TJJ, 2021-09-23]]).
 - 2016-08-19 — 「楊遠薰」標籤彙整頁第2頁（Wayback 2021-12-07 快照）收錄其 2016 年台美人社區系列：「台美社區的形成(上)(下)」（08-19）、「台灣人的移美潮」（08-08）、「美國對台六項保證決議案的推手 ─昆布勞與FAPA的故事」（05-21/23）、「彭光理與台灣的半生緣(上)(下)」（04-30）、「亂世奇緣」（04-20），顯示其專欄在僑媒的系統性留存（[[articles/taiwanjustice-net/2021/20211207121400_tag_楊遠薰_page_2_23197ebf177d0b6a|TJJ 楊遠薰標籤頁2, 2021-12-07 快照]]）。
 

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-18
+last_reviewed: 2026-09-19
 ---
 # Dr. Lung-Fong Chen (陳隆豐博士)
 
@@ -42,6 +42,7 @@ Publication(Non-professional)
 - As Taiwan Center chairman (理事長) he steered the Center through its 1991–1992 financial crisis: one of four volunteers — with 樊豐美, 黃再添 (Patrick Huang), and 賴弘典 (Hong-Tien Lai) — who kept fundraising for the failing Center and recruited the memoir's author as Center Director in 1992 [[works/taiwaneseamericanhistory-org/ourjourneys76|Our Journeys #76]].
 - Authored the essay 台灣與國際組織 (2004-02, 政治) [[works/taiwaneseamericanhistory-org/308-e5-8f-b0-e7-81-a3-e8-88-87-e5-9c-8b-e9-9a-9b-e7-b5-84-e7-b9-94-e9-99-b3-e9-9|308. 台灣與國際組織]].
 - HOLD: conflict — the 全美會 history in Our Journeys #27 lists 陳隆豐 as secretary and as a director at the 1971 Washington D.C. incorporation of The Formosan Club of America, Inc.; attribution to this person is not yet confirmed against his later New York roles.
+- Corpus re-grep 2026-09-19: hit set unchanged (ourjourneys9 / ourjourneys9-eng, ourjourneys27 / ourjourneys27-eng, ourjourneys76, ourjourneys283, essay 308, own encyclopedia page 151) — the English counterpart [[works/taiwaneseamericanhistory-org/ourjourneys27-eng|Our Journeys #27 (English)]] carries the same 全美會 committee record as #27, no new facts; all material above remains the full absorbable set.
 
 ## Family
 
