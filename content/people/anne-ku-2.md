@@ -21,6 +21,13 @@ last_reviewed: 2026-09-19
 
 Violinist Anne Ku is an up and coming orchestral and chamber musician, as well as a dedicated teacher. A graduate of The Juilliard School, Anne’s goal in music is to inspire the next generation of classical musicians.
 
+## Role in the Community
+- Featured in the TAH Foundation encyclopedia (Who's Who story corpus) twice in May 2015:
+  - [[works/taiwaneseamericanhistory-org/193-anne-ku-violist-201505|193. Anne Ku, Violist / 2015/05]] — profile record, published 2015-05-03
+  - [[works/taiwaneseamericanhistory-org/395-anne-ku-201505|395. Anne Ku / 2015/05]] — second encyclopedia entry, published 2015-05-03
+- Corpus adjacency note: the story index places her alongside [[works/taiwaneseamericanhistory-org/192-rachel-ku-violist-201505|192. Rachel Ku, Violist]] and [[works/taiwaneseamericanhistory-org/394-rachel-ku-201504|394. Rachel Ku]] — HOLD: relationship between Anne Ku and Rachel Ku (sisters?) not stated in the corpus records, not auto-merged.
+- HOLD: corpus records link subject to `people/anne-ku` while this TAH profile lives at slug `anne-ku-2`; two Anne Ku person pages exist — identity reconciliation pending.
+
 <!-- tah-tables:start -->
 ## Education
 - The Juilliard School — Temple University Preparatory Division
