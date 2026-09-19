@@ -34,6 +34,8 @@ Per 童海南's memoir excerpt from 平原區台灣人夏令會 1996 ([[works/ta
 ### Blacklist note (HOLD)
 - 何文亮's ROC blacklist essay ([[works/taiwaneseamericanhistory-org/ourjourneys106|Our Journeys 106, 中華民國的黑名單]]) records 曾昆聯博士 (台大化工 → KSU Manhattan 化工博士) as blacklisted 「大概是任職八九年同鄉會會長之故」. HOLD: the essay's context is the 北加州 blacklist roster and 「八九年」 is ambiguous (8–9 years vs 1988–89) — his Manhattan chapter membership is not established; not linked as a chapter officer.
 
+- Corpus re-grep 2026-09-19 (slice 09180400-1): corpus hits (history-of-taa-manhattan-ks, manhattan-ks-chapter-taa, 36-new-york-manhattan-chapter-fapa) all already absorbed above — no new material.
+
 Not to be confused with the New York chapter: [[works/taiwaneseamericanhistory-org/36-new-york-manhattan-chapter-fapa|36. New York Manhattan Chapter / FAPA 台灣人公共事務會紐約州曼哈頓分會]] is a different organization (FAPA, NYC).
 
 ## Sources

@@ -20,6 +20,7 @@ The Chicago Taiwanese Architecture Institute (CTAI) is an Illinois 501(c)(3) non
 
 ## Role in the Community
 - Held in the TAH (taiwaneseamericanhistory.org) story corpus as a community organizational record, published 2017-02-06: [[works/taiwaneseamericanhistory-org/chicago-taiwanese-architecture-institute|Chicago Taiwanese Architecture Institute, CTAI 芝加哥台灣建築學會]]. The record is bibliographic only (band B); no memoir narrative mentioning CTAI was found in the corpus.
+- Re-verified 2026-09-19 (deepen-x slice 24): remaining grep hits are false positives — "CTAI" matched only as a substring of SCTAI (南加州台灣同鄉會) in the TACL memoir [[works/taiwaneseamericanhistory-org/ourjourneys272|Our Journeys 272]], and one taiwanjustice hit is a hash-string match. No new absorbable material.
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/chicago-taiwanese-architecture-institute-ctai/)

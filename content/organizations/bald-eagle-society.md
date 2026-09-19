@@ -21,6 +21,7 @@ Bald Eagle Society is a community organization founded in 2014 in Southern Calif
 ## Role in the Community
 - Recorded in the TAH Foundation community story corpus: [[works/taiwaneseamericanhistory-org/bald-eagle-society|10. Bald Eagle Society 白首老鷹社]], published 2015-02-23 (band B) — i.e. the society entered the Taiwanese American community record within a year of its 2014 founding.
 - The corpus record is bibliographic only (full text stays with the source), so no further named members or activities are absorbable. No conflicts found.
+- Re-verified 2026-09-19 (deepen-x slice 24): corpus grep returns only this page's own work record and index lines — no additional absorbable material.
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/bald-eagle-society/)

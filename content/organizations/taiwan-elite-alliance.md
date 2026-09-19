@@ -6,7 +6,7 @@ tags:
   - Taiwanese-American
   - Taiwan-Center-group-member
 verification_status: published
-last_reviewed: 2026-09-18
+last_reviewed: 2026-09-19
 ---
 # Taiwan Elite Alliance
 
@@ -34,6 +34,7 @@ last_reviewed: 2026-09-18
 - 優社（TEA）自 2015 年起與台灣人聯合基金會（TUF）合辦「2-28台灣介心靈日」紀念音樂會（Arcadia, CA；2015 首屆見 [[works/taiwaneseamericanhistory-org/concerts3|TAH concerts #3]]，2015–2017 歷屆見 [[works/taiwaneseamericanhistory-org/concerts68|TAH concerts #68]]）。
 - 與 TUF 合辦「清掃洛杉磯河」Los Angeles River Clean Up 社區服務（[[works/taiwaneseamericanhistory-org/5-los-angeles-river-clean-up-e6-b8-85-e6-8e-83-e6-b4-9b-e6-9d-89-e7-a3-af-e6-b2-|TAH work #5]]）。
 - 機構檔案頁見 [[works/taiwaneseamericanhistory-org/taiwan-elite-alliancetea-e5-84-aa-e7-a4-be|TAH #20 Taiwan Elite Alliance(TEA)優社]]。
+- 2026-09-19 語料複核（slice 09180400-6）：新增連帶紀錄 — 優社代表 Josephine Pan 連署台灣人聯合聲明，見 [[works/taiwaneseamerican-org/pew-research-center-taiwanese-american-statement|Taiwanese American statement（台美人連署聲明）]]；此為優社首度以個人代表名義出現在連署文獻中。
 
 ## Related Pages
 
