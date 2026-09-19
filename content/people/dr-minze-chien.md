@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-14
+last_reviewed: 2026-09-19
 ---
 # Dr. Minze Chien (簡明子博士)
 
@@ -56,7 +56,7 @@ _Compiled from this page's own Employment table — no new facts._
 
 ## From the record
 
-- 2017-07 — 楊遠薰報導《2017年美東台灣人夏令會》：簡明子以召集人身份與代理理事長周明宏於 7/2 致歡迎詞揭幕，並於 7/4 閉幕典禮與周明宏將 TAC/EC 會旗交與 2018 年理事長翁進治、召集人謝己；報導並附「主辦團隊合影，右二為召集人簡明子博士」（同文另有 2024-05 存檔副本，無新事實）—— [[articles/taiwanjustice-net/2021/20211205054150_2017_07_10_2017年美東台灣人夏令會-_-楊遠薰-報導-2017-07-09_29faf54b8c9e2d10|楊遠薰報導（2017-07-09）]]。
+- 2017-07 — 楊遠薰報導《2017年美東台灣人夏令會》：簡明子以召集人身份與代理理事長周明宏於 7/2 致歡迎詞揭幕，並於 7/4 閉幕典禮與周明宏將 TAC/EC 會旗交與 2018 年理事長翁進治、召集人謝己；報導並附「主辦團隊合影，右二為召集人簡明子博士」（同文另有 2024-05 存檔副本，無新事實）—— [[articles/taiwanjustice-net/2021/20211205054150_2017_07_10_2017年美東台灣人夏令會-_-楊遠薰-報導-2017-07-09_29faf54b8c9e2d10|楊遠薰報導（2017-07-09）]]、存檔副本 [[articles/taiwanjustice-net/2024/20240522235843_root_d2dbfe220e437602|同文再存（2024-05）]]。
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

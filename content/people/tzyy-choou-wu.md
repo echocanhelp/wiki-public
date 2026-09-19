@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-15
+last_reviewed: 2026-09-19
 ---
 # Tzyy-Choou Wu (吳子丑)
 
@@ -64,6 +64,10 @@ _No filled family fields on the TAH profile._
 - [[organizations/taiwanese-american-historical-society||TAH 台美史料協會]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - 求學與任教均在 Johns Hopkins 體系：Hopkins 台美學人社團脈絡見下方 vault 社團頁（[[organizations/johns-hopkins-university-taiwanese-student-association|JHU TSA]]、[[organizations/taiwanese-american-students-association-at-johns-hopkins-university|JHU TASA]]）。
+
+## From the record
+
+- 2017-07 — 楊遠薰報導《2017年美東台灣人夏令會》：以新科中央研究院院士、約翰霍普金斯大學醫學教授暨巴爾的摩台灣同鄉會鄉親身份出席第四十八屆美東台灣人夏令會作專題演講，自述自屏東潮州苦瓜寮出發、經高雄中學與台大醫科、再到 JHU 從事 HPV 疫苗研究的歷程（詳上「Role in the Community」；同文 2024-05 存檔副本同）—— [[articles/taiwanjustice-net/2021/20211205054150_2017_07_10_2017年美東台灣人夏令會-_-楊遠薰-報導-2017-07-09_29faf54b8c9e2d10|楊遠薰報導（2017-07-09）]]。
 
 ## Vault records (deepen pass 2026-09-10)
 - 本人 TAH 百科條目的 vault 工作頁：[[works/taiwaneseamericanhistory-org/622-tzyy-choou-wu-e5-90-b3-e5-ad-90-e4-b8-91-201509|TAH #622 條目（2015/09）]]。
