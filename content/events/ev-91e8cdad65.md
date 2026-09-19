@@ -4,6 +4,7 @@ type: event
 tags:
   - event
 verification_status: pending
+last_reviewed: 2026-09-19
 ---
 # 洛杉磯聖東台灣同鄉會
 
