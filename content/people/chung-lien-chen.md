@@ -33,7 +33,7 @@ last_reviewed: 2026-09-19
 
 - **Father:** 陳世榮 (大法官，曾參與制定破產法 — per son's 2021 memoir)
 - **Wife:** 謝雅美 (留美化學教師出身)
-- **Son:** Lanhee J. Chen陳仁宜
+- **Son:** [[people/lanhee-j-chen|Lanhee J. Chen 陳仁宜]]
 
 
 ## Sources

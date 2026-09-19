@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-18
+last_reviewed: 2026-09-19
 ---
 # Dr. Tom Chiu (邱崇德博士)
 
@@ -39,7 +39,7 @@ last_reviewed: 2026-09-18
 ## Role in the Community
 - The corpus holds two TAH records for him: [[works/taiwaneseamericanhistory-org/whos-who-1618-tom-chiu|1618. Dr. Tom Chiu 邱崇德博士]] and [[works/taiwaneseamericanhistory-org/musician393|393. Tom Chiu 邱崇德, Violinist & Composer / 2017/04]] (2017-04, band B — bibliographic records; full text stays in the vault).
 - Fellow violinist Cho-Liang Lin 林昭亮 (named in his press bio above) has his own corpus record [[works/taiwaneseamericanhistory-org/90-cho-liang-lin-e6-9e-97-e6-98-ad-e4-ba-ae-famous-violinist|90. Cho-Liang Lin 林昭亮]], corroborating the performance-collaboration claim.
-- No community-authored memoir text naming him found; nothing further absorbable this pass.
+- Sweep 2026-09-19 across works/ and articles/ returns only those two bibliographic records plus the works index: no memoir, club newsletter, or event report names him, so his Flux Quartet / Carnegie narrative remains press-kit biography, not community-authored evidence. Nothing absorbable this pass.
 
 ## Sources
 - [TAH #1618 encyclopedia: 1618. Dr. Tom Chiu 邱崇德博士](https://taiwaneseamericanhistory.org/whos-who-1618-tom-chiu/)

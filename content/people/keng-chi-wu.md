@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-18
+last_reviewed: 2026-09-19
 ---
 # Keng Chi Wu (吳耿志)
 
@@ -38,7 +38,7 @@ Accomplishment
 
 
 ## Role in the Community
-- President, North America Taiwanese Professors' Association (NATPA) New York/New Jersey chapter (see [[works/taiwaneseamericanhistory-org/whos-who-39-keng-chi-wu|39. Keng Chi Wu 吳耿志]]).
+- President, [[organizations/north-america-taiwanese-professors-sc|North America Taiwanese Professors' Association (NATPA)]] New York/New Jersey chapter (see [[works/taiwaneseamericanhistory-org/whos-who-39-keng-chi-wu|39. Keng Chi Wu 吳耿志]]).
 - 2000: delivered the lecture 『漫談台灣國防』 at Grace Taiwanese Presbyterian Church (聖恩長老教會), Lawrenceville, NJ; the church-plant memoir [[works/taiwaneseamericanhistory-org/ourjourneys43|Our Journeys 43]] records the talk drawing a large 同鄉 audience and lists him among those supporting the church plant's community program.
 - Corpus preserves his award record [[works/taiwaneseamericanhistory-org/lockheed-martin-kingchi-wu-2006|64. Lockheed Martin Maritime Systems & Sensors 洛克希德馬丁公司年度作家獎 / KingChi Wu 吳耿志 / 2006]], corroborating the 2006 "Author of the Year".
 - Name note: the award work page romanizes his name "KingChi Wu"; TAH Who's Who uses "Keng Chi Wu" (same person, spelling variant — not a date/age conflict).
