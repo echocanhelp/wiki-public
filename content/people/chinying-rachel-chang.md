@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-19
 ---
 # Chinying Rachel Chang (張金鶯)
 
@@ -44,3 +44,6 @@ Chinying (Rachel) Chang 張金鶯 – History of Taiwanese American (T.A. Archiv
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+## Corpus check (deepen-x 09170400-23, 2026-09-19)
+SKIP — no absorbable corpus facts. Only hit in works/articles is her own bibliographic record [[works/taiwaneseamericanhistory-org/129-chinying-rachel-chang-e5-bc-b5-e9-87-91-e9-b6-af|TAH #129]] (no full text in vault); no memoir or community-record mentions found.
