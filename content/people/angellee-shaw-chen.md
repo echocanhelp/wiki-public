@@ -36,6 +36,11 @@ last_reviewed: 2026-09-19
 
 - **Father:** 陳哲仁 Mother:蕭永真
 
+## Role in the Community
+
+Corpus presence is limited to her TAH Who's Who bibliographic record — no memoir or article mentions found in content/works or content/articles beyond it:
+
+- [[works/taiwaneseamericanhistory-org/whos872-angellee-shaw-chen|TAH #872 Who's Who record 陳安仁理]] (2016/03)
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/angellee-shaw-chen/)
