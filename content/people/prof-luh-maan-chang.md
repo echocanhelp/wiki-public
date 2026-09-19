@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-18
+last_reviewed: 2026-09-19
 ---
 # Prof. Luh-Maan Chang (張陸滿教授)
 
@@ -41,7 +41,7 @@ _No filled family fields on the TAH profile._
 ## Role in the Community
 
 - Steward of the History of Taiwanese American (T.A. Archives) 台美史料中心, per the TAH encyclopedia profile.
-- Corpus check (works + articles): only his own profile page [[works/taiwaneseamericanhistory-org/whos-who-2203-luh-maan-chang|2203. Prof. Luh-Maan Chang 張陸滿教授]]; no additional memoir/corpus activity facts found (re-grep 2026-09-18).
+- Corpus check (works + articles): only his own profile page [[works/taiwaneseamericanhistory-org/whos-who-2203-luh-maan-chang|2203. Prof. Luh-Maan Chang 張陸滿教授]]; no additional memoir/corpus activity facts found (re-grep 2026-09-18; re-verified 2026-09-19 slice 09180400-11).
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

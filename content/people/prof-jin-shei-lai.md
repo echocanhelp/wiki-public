@@ -7,11 +7,11 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-18
+last_reviewed: 2026-09-19
 ---
 # Prof. Jin-Shei Lai (賴金雪教授)
 
-> **SKIP note (deepen-x 09170200-25; re-verified 2026-09-18, slice 09170600-31 — re-grep 賴金雪/Jin-Shei Lai/金雪 again returned only own record + index):** corpus grep found only the archived copy of her own TAH profile ([[works/taiwaneseamericanhistory-org/whos-who-1997-jin-shei-lai|1997. Prof. Jin-Shei Lai 賴金雪教授]]) and the works index. No memoir/community material to absorb — page remains press-kit sourced.
+> **SKIP note (deepen-x 09170200-25; re-verified 2026-09-18 slice 09170600-31 and 2026-09-19 slice 09180400-11 — re-grep 賴金雪/Jin-Shei Lai again returned only own record + index):** corpus grep found only the archived copy of her own TAH profile ([[works/taiwaneseamericanhistory-org/whos-who-1997-jin-shei-lai|1997. Prof. Jin-Shei Lai 賴金雪教授]]) and the works index. No memoir/community material to absorb — page remains press-kit sourced.
 
 ## Identity Snapshot
 - **English:** Prof. Jin-Shei Lai
