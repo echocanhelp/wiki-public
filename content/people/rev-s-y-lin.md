@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-19
 ---
 # Rev. S. Y. Lin (林皙陽牧師)
 
@@ -34,6 +34,11 @@ last_reviewed: 2026-08-17
 - **Wife:** 李秀卿
 - **Daughter:** 林珊宇
 
+
+## Role in the Community
+
+- Own encyclopedia entry held in the movement record: TAH #1696 profile, published 2017-06-28 ([[works/taiwaneseamericanhistory-org/whos-who-1696-s-y-lin|TAH #1696, 2017-06-28]]) — corroborates the pastoral career in the employment table (波士頓台灣基督教會 2004–, 長島台灣教會 2010–).
+- Identified in the corpus as 李江卻台語文教基金會創辦人 (founder of the Lee, Chiang-chueh Taiwanese Language and Culture Education Foundation), the capacity in which he appeared as a special guest at the 台文通訊30週年慶祝會ONLINE in 2021 ([[articles/taiwanjustice-net/2021/20210920145945_2021_06_29_台文通訊30週年慶祝會online_52a71221d3029866|TJJ, 2021-06-29 公告]]) — placing him in the Taiwanese-language movement network alongside the pastoral record.
 
 ## Sources
 - [TAH #1696 encyclopedia: 1696. Rev. S. Y. Lin 林皙陽牧師](https://taiwaneseamericanhistory.org/whos-who-1696-s-y-lin/)

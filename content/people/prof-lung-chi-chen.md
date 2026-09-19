@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-19
 ---
 # Prof. Lung-Chi Chen (陳隆志教授)
 
@@ -34,6 +34,15 @@ last_reviewed: 2026-08-17
 ## Family
 
 _No filled family fields on the TAH profile._
+
+## Role in the Community
+Prof. Lung-Chi Chen (陳隆志, b. 1935, Tainan) was a central legal voice of the overseas Taiwanese independence movement and later a state-building theorist.
+
+- **Formosan League for Self-Determination (全美台灣獨立聯盟):** recruited at Yale during the 1960s "Freedom March" (自由長征) campus tours that integrated Taiwanese student organizations; later served as executive-committee vice chairman (foreign affairs) under chairman 蔡同榮, alongside 鄭自才 (secretary) and 羅福全 (propaganda) — see [[works/taiwaneseamericanhistory-org/ourjourneys81|81. 早期威大台灣學生在台灣建國運動所扮演的角色]].
+- **Author:** 《臺灣的獨立與建國》 published in 1971, the year the ROC was expelled from the UN (10.25), per the Bay Area chronology — see [[works/taiwaneseamericanhistory-org/our-journeys-357|357. 舊金山灣區臺灣人的社團活動與家國意識之形成]].
+- **Movement speaker:** travelled repeatedly to the US East Coast to lecture on Taiwanese freedom and independence (with 史明, 陳唐山, 蔡同榮 et al.); North Carolina audiences often met in private living rooms for fear of KMT informants — see [[works/taiwaneseamericanhistory-org/our-journeys-381|381. 我的青春在北卡：北卡台灣同鄉會50年回顧]].
+- **1992:** co-delivered speeches (with 李亨熙 and others) at the Midwest Taiwanese Summer Conference — see [[works/taiwaneseamericanhistory-org/ourjourneys123-eng|123. 明州台美人百年大事]].
+- **Chairman, Taiwan New Century Foundation** (台灣新世紀社造協會), per his TAH profile.
 
 ## Sources
 - [TAH #108 encyclopedia: 108. Prof. Lung-Chi Chen 陳隆志教授](https://taiwaneseamericanhistory.org/108-prof-lung-chi-chen/)

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-19
 ---
 # Kjell N. Lindgren (林其兒)
 
@@ -32,6 +32,10 @@ last_reviewed: 2026-08-17
 ## Employment
 - NASA at the Johnson Space Center — Astronaut — (2007-)
 <!-- tah-tables:end -->
+
+## Role in the Community
+- The TAH story corpus preserves two community records of him, both published 2020-12-14: his encyclopedia entry [[works/taiwaneseamericanhistory-org/whos-who-2297-kjell-n-lindgren|TAH #2297 Kjell N. Lindgren 林其兒]] and a video record [[works/taiwaneseamericanhistory-org/videos-168|TAH videos-168: NASA Astronaut Kjell N. Lindgren — was born in Taipei, Taiwan]], which the community cited specifically for his Taipei birth as a point of Taiwanese American pride.
+- No other movement-organization activity appears in the corpus; his public record to date is as a documented honor figure rather than an organizing actor.
 
 ## Family
 

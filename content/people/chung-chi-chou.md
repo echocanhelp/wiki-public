@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-19
 ---
 # Chung Chi Chou (周重吉)
 
@@ -36,6 +36,12 @@ last_reviewed: 2026-08-17
 ## Family
 
 _No filled family fields on the TAH profile._
+
+## Role in the Community
+
+- Left a first-person memoir in the movement record: 「留美50年的奮鬥經歷–來自台灣的周重吉博士分享」, his own account of fifty years in the United States, published in the TAH story corpus on 2016-11-22 ([[works/taiwaneseamericanhistory-org/mystories485|TAH My Stories #485, 2016-11-22]]). The memoir's "50 years in the US" framing (≈1966 arrival) is broadly consistent with the 1968 Baylor Ph.D. date in the employment table, but the exact arrival year is not pinned — HOLD: memoir framing (留美50年 as of 2016) vs no recorded arrival date.
+- His philanthropy has its own record layer: the foundation he founded in 1989, 「美國美溪慈善基金會」 (Wellbrook Foundation), is documented as a subject in the TAH story corpus ([[works/taiwaneseamericanhistory-org/wellbrook-foundation|TAH #44, Wellbrook Foundation, 2016-11-22]]; [[organizations/wellbrook-foundation|Wellbrook Foundation]]).
+- Own encyclopedia record in the movement archive: TAH #1406 profile (2016-11) ([[works/taiwaneseamericanhistory-org/whoswho1406|TAH #1406, 2016-11]]).
 
 ## Sources
 - [TAH #1406 encyclopedia: 1406. Chung Chi Chou 周重吉 / 2016/11](https://taiwaneseamericanhistory.org/whoswho1406/)
