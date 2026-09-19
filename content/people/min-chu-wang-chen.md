@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-17
+last_reviewed: 2026-09-19
 ---
 # Min-Chu Wang Chen (王陳明珠)
 
@@ -37,6 +37,7 @@ Accomplishment
 
 ## Community Record
 
+- **Community Record status:** SKIP-with-reason (re-checked 2026-09-19): corpus re-grep for 王陳明珠/Min-Chu Wang Chen returns only her own directory page ([[works/taiwaneseamericanhistory-org/whos-who-1928-min-chu-wang-chen|whos-who-1928]]) and the works index — no memoir or activity narrative; nothing absorbable.
 - Her biography is held in the TAHS corpus as [[works/taiwaneseamericanhistory-org/whos-who-1928-min-chu-wang-chen|1928. Min-Chu Wang Chen 王陳明珠]] (published 2017-11-06); no memoir or activity narrative beyond this directory entry was found.
 - **Name collision note:** corpus hits for 陳明珠 in taiwanjustice.net 台灣啟示錄 tag pages (e.g. 2016-06-26「客家妹陳明珠，總統就職嬌點」) refer to the TV host 陳明珠, **not** 王陳明珠 — do not absorb those facts here.
 - The 1970s Taipei beauty-salon entrepreneurship and the Audrey Hepburn mushroom-cut introduction recorded in the TAH entry remain the core of this record.
