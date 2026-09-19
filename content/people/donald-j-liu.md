@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-19
 ---
 # Donald J. Liu (劉瑞義牧師)
 
@@ -27,6 +27,11 @@ God and art have always been a huge part of my life. I have been a pastor for ov
 - 愛恩（Irvine）台福教會 — -r — 主任牧師
 - 台福總會 — 總幹事
 <!-- tah-tables:end -->
+
+## Role in the Community
+- movement record: listed on the 北加州黑名單 (Northern California blacklist) of Taiwanese-American figures whose visas were denied or harassed (「簽証曾被拒絕刁難，或現仍受刁難者」), alongside 洪環美、戴幸雄、郭華、許雅正、林武男 and others — see [[works/taiwaneseamericanhistory-org/ourjourneys106|Our Journeys #106 blacklist roster]].
+- TAH encyclopedia profile as pastor-artist: [[works/taiwaneseamericanhistory-org/21-donald-j-liu-suigii|21. 劉瑞義牧師 Donald J. Liu (Suigii)]] (2014-10-18); later Who's Who entry [[works/taiwaneseamericanhistory-org/whoswho1049|1049. Donald J. Liu 劉瑞義 / 2016/05]].
+- Pastor of over 30 years; 主任牧師 of 愛恩（Irvine）台福教會 and 總幹事 of 台福總會 (per TAH employment table); paints biblical themes as an expression of ministry.
 
 ## Family
 

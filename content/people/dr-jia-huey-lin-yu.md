@@ -34,6 +34,11 @@ First President of Taiwanese American Seniors Society of Greater Washington, DC�
 - **Daughter:** Deborah Yu
 - **Son:** Tyson Yu
 
+## Role in the Community
+- Founding (first) President of 大華府台美人長樂會 — see [[organizations/taiwanese-american-senior-society-tass-of-greater-washington-dc|TASS of Greater Washington, DC]]. HOLD: naming conflict — this page reads "Taiwanese American Seniors Society of Greater Washington, DC" vs the existing org page slug "senior-society" (TASS); never auto-merged.
+- Corpus record: her own TAH Who's Who encyclopedia entry is held in the vault as [[works/taiwaneseamericanhistory-org/whos-who-152-jia-huey-lin|152. Dr. Jia-Huey Lin Yu 林佳惠博士]] (2014-12-13, band B) — bibliographic record only; full text stays in the vault.
+- Career record (from TAH table): D.D.S. National Taiwan Univ. 1966 → Ph.D. Pharmacology, Univ. of Michigan 1973 → Assistant Professor Univ. of Alabama 1978–1983 → Associate Professor Georgetown Univ. 1983–1996.
+
 
 ## Sources
 - [TAH #152 encyclopedia: 152. Dr. Jia-Huey Lin Yu 林佳惠博士](https://taiwaneseamericanhistory.org/whos-who-152-jia-huey-lin/)
