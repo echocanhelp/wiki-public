@@ -185,7 +185,7 @@ Do not write her as a Taiwanese American biography. The U.S. nodes are **(1) TAH
 
 ## From the record
 
-- 2011-10-30 — 「許丕龍與許景淳父女」傳陽雜誌30週年（abt. 2008）演唱會片段刊於 TJJ「台美人台加人」專欄（該分類頁 2024-05-27 存檔）—— [[articles/taiwanjustice-net/2024/20240527024815_root_98a26ee3b1ad82ac|TJJ 台美人台加人分類頁，2024-05-27 存檔]]。
+- 2011-10-30 — 「許丕龍與許景淳父女」傳陽雜誌30週年（abt. 2008）演唱會片段刊於 TJJ「台美人台加人」專欄（該分類頁 2024-05-27 存檔）—— [[articles/taiwanjustice-net/2024/20240527024815_root_98a26ee3b1ad82ac|TJJ 台美人台加人分類頁，2024-05-27 存檔]]；同一條目另見該分類第358頁快照 [[articles/taiwanjustice-net/2024/20240619181806_root_00354cf6ba9cf607|2024-06-19]]。
 
 ## Related Pages
 

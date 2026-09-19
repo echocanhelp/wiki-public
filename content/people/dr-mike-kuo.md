@@ -49,6 +49,10 @@ Per his TAH Who's Who profile, Dr. Kuo led both the community and advocacy sides
 - **Son:** Allen
 
 
+## From the record
+
+- 2019-09-03 — Signed the overseas Taiwanese organizations' joint statement 「拒一國兩制！海外台灣人社團：支持香港反對中國暴政」 as 「台灣人公共事務會 會長郭正光博士」 (Dr. Mike Kuo, President, FAPA), corroborating his FAPA national presidency in the Employment table above ([[articles/taiwanjustice-net/2024/20240221122756_root_53455d7e13136092|TJJ record, 2024-02-21 archive of the 2019-09-04 posting]]).
+
 ## Sources
 - [TAH #157 encyclopedia: 157. Dr. Mike Kuo 郭正光博士](https://taiwaneseamericanhistory.org/157-dr-mike-kuo/)
 - [TAH #250 encyclopedia: 250. 郭正光博士 Dr. Mike Kuo / 第一位經歷無重力狀態飄浮空中的滋味](https://taiwaneseamericanhistory.org/250-%e9%83%ad%e6%ad%a3%e5%85%89%e5%8d%9a%e5%a3%ab-dr-mike-kuo-%e7%ac%ac%e4%b8%80%e4%bd%8d%e7%b6%93%e6%ad%b7%e7%84%a1%e9%87%8d%e5%8a%9b%e7%8b%80%e6%85%8b%e9%a3%84%e6%b5%ae%e7%a9%ba%e4%b8%ad/)

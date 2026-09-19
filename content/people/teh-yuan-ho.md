@@ -43,6 +43,10 @@ Research/Teaching Specialist
 - The lecture series is run by [[organizations/irvine-taiwanese-presbyterian-church|ITPC Irvine]].
 - Encyclopedia record: [[works/taiwaneseamericanhistory-org/whos-teh-yuan-ho|TAH #1337 Teh Yuan Ho 何德淵 / 2016-10]].
 
+## From the record
+
+- 2018-09-26 — 於 ITPC Irvine 長青教室主講「漫談記憶的奧祕與阿茲海默症」，心得報告刊於台灣公義報（2018-09-29 刊登）（[[articles/taiwanjustice-net/2024/20240523001759_root_23e163f71d3f2ba5|TJJ 長青教室標籤頁, 2024-05-23 快照]]）。
+
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/teh-yuan-ho/)
 
