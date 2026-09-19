@@ -48,6 +48,10 @@ Corpus records place Alan Yang as a touchstone for the Taiwanese American creati
 - [TAH #2253 encyclopedia: 2253. Alan Yang 楊維榕](https://taiwaneseamericanhistory.org/whos-who-2253-alan-yang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/alan-yang/)
 
+## From the record
+
+- 2020-04-10 — taiwanjustice.net「台灣鄉情與文化」專欄報導「『虎尾』登上Netflix，台裔導演楊維榕新片談移民艱辛」，記其電影《虎尾》登上Netflix、影片述及台裔移民的艱辛（專欄第3頁 2020-06-28 快照）—— [[articles/taiwanjustice-net/2020/20200628125826_category_culture_page_3_2ac7d75679fda7fe|TJJ 台灣鄉情與文化頁，2020-06-28 存档]]。
+
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

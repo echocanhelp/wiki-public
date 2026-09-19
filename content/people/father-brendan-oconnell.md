@@ -49,6 +49,10 @@ _No filled family fields on the TAH profile._
 - [TAH #2255 encyclopedia: 2255. Father Brendan O’Connell 甘惠忠神父](https://taiwaneseamericanhistory.org/whos-who-2255-father-brendan-oconnell/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/father-brendan-oconnell/)
 
+## From the record
+
+- 2020-04-16 — taiwanjustice.net「台灣鄉情與文化」專欄報導「甘惠忠神父奉獻台灣半世紀 紐約過世享壽84歲」，記其奉獻台灣半世紀於NYCU服務腦性麻痺孩童、於紐約辭世（專欄第3頁 2020-06-28 快照）—— [[articles/taiwanjustice-net/2020/20200628125826_category_culture_page_3_2ac7d75679fda7fe|TJJ 台灣鄉情與文化頁，2020-06-28 存档]]。
+
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
