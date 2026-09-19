@@ -39,6 +39,8 @@ _No filled family fields on the TAH profile._
 - Held in the TAH art corpus with two 2013 installation works documented as community artistic record: Homestead ([[works/taiwaneseamericanhistory-org/622-homesteadflora-kao2013-art-e8-97-9d-e8-a1-93|622. Homestead / Flora Kao / 2013]]) and Palimpsest ([[works/taiwaneseamericanhistory-org/621-palimpsestflora-kao2013-art-e8-97-9d-e8-a1-93|621. Palimpsest / Flora Kao / 2013]]).
 - Profiled in two TAH encyclopedia entries: the artist-series entry ([[works/taiwaneseamericanhistory-org/artist35-flora-kao|35. 高微婷 Flora Kao]]) and the Who's Who entry ([[works/taiwaneseamericanhistory-org/whos319-flora-kao|319. Flora Kao 高微婷]]).
 
+- Re-grepped corpus 2026-09-19: only hits are her own four TAH bibliography pages and the source index; no community memoir text beyond the records above (SKIP).
+
 ## Sources
 - [TAH #319 encyclopedia: 319.  Flora Kao  高微婷 /2015/03](https://taiwaneseamericanhistory.org/whos319-flora-kao/)
 - [TAH #35 encyclopedia: 35. 高微婷 Flora Kao  /2015/03](https://taiwaneseamericanhistory.org/artist35-flora-kao/)

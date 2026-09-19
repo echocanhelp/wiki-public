@@ -39,6 +39,8 @@ _No filled family fields on the TAH profile._
 - No community-authored memoir text naming her found in the corpus beyond these records; nothing further absorbable this pass.
 - Re-grepped corpus 2026-09-19: remaining 'Clare' hits are false positives (Saint Clare Hilton, Clarence Lee, Clarence House); 李阡綸 appears nowhere else (SKIP).
 
+- Re-grepped corpus 2026-09-19: hits confined to her two own TAH records plus the source index; no memoir text naming her (SKIP).
+
 ## Sources
 - [TAH #1289 encyclopedia: 1289. Clare, Chien-Lun Lee 李阡綸 / 2016/09](https://taiwaneseamericanhistory.org/whoswho1289/)
 - [TAH #366 encyclopedia: 366. Clare, Chien-Lun Lee 李阡綸, Vocalist / 2016/09](https://taiwaneseamericanhistory.org/musician366/)

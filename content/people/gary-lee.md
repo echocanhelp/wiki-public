@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-18
+last_reviewed: 2026-09-19
 ---
 # Gary Lee (李桂銳)
 
@@ -43,7 +43,7 @@ _No filled family fields on the TAH profile._
 ## Role in the Community
 - Founding chairman/CEO of LIGHTMED Corporation 承賢科技, recorded as its own item in the TAH corpus: [[works/taiwaneseamericanhistory-org/3-lightmed-corporation|LIGHTMED Corporation 承賢科技]] (2016-03-17) — the Taiwanese-American medical-laser venture spanning his HGM Far-East role and the later LightMed USA / Lightmed Dental Technology entities listed above.
 - Held in the TAH Who's Who record: [[works/taiwaneseamericanhistory-org/whos892-gary-lee|892. Gary Lee 李桂銳 / 2016/03]].
-- Re-grepped corpus for 李桂銳/Gary Lee 2026-09-18: no memoir or article mentions beyond his own records above; nothing further absorbable this pass (SKIP).
+- Re-grepped corpus for 李桂銳/Gary Lee 2026-09-19: no memoir or article mentions beyond his own records above; nothing further absorbable this pass (SKIP).
 
 ## Sources
 - [TAH #892 encyclopedia: 892. Gary Lee 李桂銳 /2016/03](https://taiwaneseamericanhistory.org/whos892-gary-lee/)

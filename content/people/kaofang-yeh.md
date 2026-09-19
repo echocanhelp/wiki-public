@@ -47,6 +47,7 @@ last_reviewed: 2026-09-19
 - Held by the TAH story corpus as its own record: [[works/taiwaneseamericanhistory-org/417-kaofang-yeh-e8-91-89-e9-ab-98-e8-8a-b3201505|417. Kaofang Yeh 葉高芳/2015/05]] (2015-05, band B — bibliographic record; full text stays in the vault).
 - His organization 國際真愛家庭協會 (Family Keepers International) is itself recorded in the corpus: [[works/taiwaneseamericanhistory-org/7-family-keepers-international|7. Family Keepers International]] (2014-10) — consistent with his 會長 role from 2001 in the TAH tables above.
 - His eLink/e線牽 matchmaking website (noted above) is the community-facing legacy recorded by TAH.
+- Re-grepped corpus for 葉高芳/Kaofang Yeh 2026-09-19: hits limited to his own record 417 above (plus index listings); no memoir or article mentions beyond the existing links — nothing further absorbable this pass (SKIP).
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/kaofang-yeh/)
