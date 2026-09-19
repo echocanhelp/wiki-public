@@ -35,6 +35,12 @@ Accomplishment
 
 _No filled family fields on the TAH profile._
 
+## Role in the Community
+- Founding of the Taiwan Hotel & Motel Association of Southern California ([[organizations/taiwan-hotel-motel-association-of-southern-california]]): per the association's 30th-anniversary memoir (2005) preserved in the corpus, the founding meeting was held 1974-08-17 at the Los Angeles Taiwanese Presbyterian Church, prompted by Rev. 許錦鉻 and brokered by [[people/c-j-chen|陳銓仁]]; ~30–40 (aspiring) hoteliers attended and elected the experienced motel operator 蔡金裕 as convening chair of the meeting — the first commercial professional guild of Taiwanese Americans in the US ([[works/taiwaneseamericanhistory-org/ourjourneys295|Our Journeys 295]]).
+- Portrait record: [[works/taiwaneseamericanhistory-org/mystories552|552. 蔡金裕經營旅館業當開路先鋒 (06/2017)]] — "pioneer of the Taiwanese hotel business".
+- Directory record: [[works/taiwaneseamericanhistory-org/whos-who-2061-j-y-tsai|TAH #2061]] and [[works/taiwaneseamericanhistory-org/ff262|TAH #262: 蔡金裕 / 南加州台灣旅館業同業公會創會會長 / 1974]].
+- HOLD: founding year conflict — page's accomplishment line says 1973; corpus records #262 and the 30th-anniversary memoir both say 1974-08-17. Not auto-merged.
+
 ## Sources
 - [TAH #2061 encyclopedia: 2061. J. Y. Tsai 蔡金裕](https://taiwaneseamericanhistory.org/whos-who-2061-j-y-tsai/)
 - [TAH #262 encyclopedia: 262. 蔡金裕 / 南加州台灣旅館業同業公會創會會長 / 1974](https://taiwaneseamericanhistory.org/ff262/)

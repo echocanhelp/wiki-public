@@ -5,9 +5,11 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-19
 ---
 # Taiwanese Student Association at Arizona State University
+
+<!-- deepen-x slice 09170400-19 (2026-09-19): SKIP-with-reason — corpus grep of content/works + content/articles returned only false positives ("ASUS" the computer brand in Our Journeys 218; "ECAASU", a different org, in the DC food-drive record). No corpus record references this club itself; nothing absorbable without inventing biography. -->
 
 ## Identity Snapshot
 - **English:** Taiwanese Student Association at Arizona State University

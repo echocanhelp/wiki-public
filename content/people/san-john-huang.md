@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-19
 ---
 # San John Huang (黃三榮)
 
@@ -42,3 +42,10 @@ President and Chairman, Formosan Chamber of Commerce, Orange County
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+## Role in the Community
+
+- Founding board member of the Taiwanese American Citizens League (台美公民協會): elected to its first 15-member board at the founding convention at the Biltmore Hotel, Los Angeles, 1985-07-13 ([[works/taiwaneseamericanhistory-org/ourjourneys272|TACL 成立回憶（第一屆理事名單）]]) — he also sits on the page for the league ([[organizations/taiwanese-american-citizens-league|TACL]]).
+- Member of the TACL preparation committee under convener 吳澧培, part of the group expanded beyond the original five members ([[works/taiwaneseamericanhistory-org/ourjourneys186|台美公民協會籌備委員會名單]]); see also [[people/wu-lipei|吳澧培]].
+- Convener of the Taiwan Center Foundation fundraising committee (百万美元募款召集人), writing on the campaign and the Wang family donation that secured the Taiwan Center venue ([[works/taiwaneseamericanhistory-org/ourjourneys29-eng|Thoughts and Hopes for the Taiwan Center Foundation Fundraising Effort]]).
+- Early-1980s staff member of the Formosan credit cooperative (合作社) during its final years before the 1981 liquidation vote ([[works/taiwaneseamericanhistory-org/ourjourneys244|合作社結業記]]).

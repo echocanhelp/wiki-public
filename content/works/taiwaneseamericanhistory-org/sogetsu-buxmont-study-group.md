@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-07-31 — published
 
 ## Subjects
-- [[organizations/sogetsu-buxmont-study-group.md|Sogetsu BuxMont Study Group]] — mentioned in this record
+- [[organizations/sogetsu-buxmont-study-group|Sogetsu BuxMont Study Group]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages
