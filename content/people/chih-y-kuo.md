@@ -50,4 +50,4 @@ Ph.D. Hydrology, Hydraulics and Water Resources Engineering
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 ## Corpus check (deepen-x 09170400-23, 2026-09-19)
-SKIP — zero corpus hits for 郭欽義 / Chih Y. Kuo in works/ or articles/; nothing absorbable, no content invented.
+SKIP — only corpus hit is his own bibliographic record [[works/taiwaneseamericanhistory-org/whoswho1532|TAH #1532 Chih Y Kuo /2017-02]] (record only, no full text in vault); no memoir or community-record mentions in works/ or articles/ — nothing absorbable, no content invented.
