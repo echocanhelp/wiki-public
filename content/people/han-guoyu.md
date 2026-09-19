@@ -31,6 +31,7 @@ last_reviewed: 2026-09-18
 ## From the Record
 
 - In the local taiwanjustice.net archive, **韓國瑜 appears in 1,005 article files** — coverage is dominated by the 2019–2020 election/recall period and later KMT-line disputes.
+- 2019-12-22 — 作為國民黨總統候選人馬不停蹄為北市立委候選人汪志冰、孫大千、林郁方輔選；在霞海城隍廟批民進黨執政以來民意反映為「苦、茫、翻、亂」四字，表態與汪志冰共同主張恢復特偵組（自由時報報導 via [[articles/taiwanjustice-net/2025/20251210214746_藍綠台北衝選情_陳建仁領軍-車隊掃街開直播_韓_1fbc7a8aff9cd26e|TJJ, 2019-12-22]]）。
 - 2025-01-16 — 以立法院長身分率跨黨派立委代表團赴華見總統賴清德討論總預算，承諾與民進黨團總召柯建銘一起努力推動協商，盼「柯總召不要那麼硬」；代表團赴美出席1月20日美國總統就職典禮（[[articles/taiwanjustice-net/2025/20250719114825_韓國瑜提預算協商盼柯建銘不要那麼硬-總統緩頰_8fc11ca0c5dbaebe|TJJ 轉載中央社記者洛杉磯報導, 2025-01-16]]）。
 - 2019-12-30 — 台灣向前行 clip: Han criticized for cursing at media and mocking Ma Ying-jeou as weak ([[articles/taiwanjustice-net/2026/20260113120625_tag_爆粗口_4d347025353705f1|TJJ tag 爆粗口]]).
 - 2019-12-30 — 年代晚報: Han cursed at the media as 「可憐」 during campaign season; the 記協 (Journalists Association) urged candidates to face media supervision rationally ([[articles/taiwanjustice-net/2026/20260124103510_tag_嗆媒體_5109f9634801061e|TJJ tag 嗆媒體]]).

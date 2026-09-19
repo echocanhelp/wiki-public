@@ -49,6 +49,9 @@ Note: the on-page narrative ("25 years" at Tamkang) and the employment table (19
 
 - **Wife:** 劉淡梅
 
+## From the record
+
+- 2024-11-07 — 第155回世界台灣文化論壇以「台灣音樂家陳泗治校長」為題紀念其生平與音樂貢獻，活動訊息刊於台灣公義報「台美人台加人」分類（[[articles/taiwanjustice-net/2025/20250215221604_category_taiwaneseamerican_page_3_98bf76da5c3ac86d|TJJ 台美人台加人存檔頁3, 2025-02-15 快照]]）。
 
 ## Sources
 - [TAH #357 encyclopedia: 357. Si Zhi Chen 陳泗治, Composer & Educator / 2016/08](https://taiwaneseamericanhistory.org/musician357/)

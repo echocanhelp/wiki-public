@@ -1,0 +1,4 @@
+people/rev-chung-hsin-cho.md
+people/alexander-m-lee.md
+people/jiunn-yann-genetang.md
+organizations/taiwanese-association-of-america-boston.md

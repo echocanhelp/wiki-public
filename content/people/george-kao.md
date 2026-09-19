@@ -38,7 +38,9 @@ _No filled family fields on the TAH profile._
 ## Role in the Community
 
 - 1971 — Per his TAH encyclopedia record [[works/taiwaneseamericanhistory-org/whoswho-2241|2241. George Kao 高銘益/02/2020]], one of the Taiwanese activists who chained himself to the railing at the United Nations rally.
-- 1966-era activism recalled in a 廖清山 memoir (corpus check 2026-09-18: the only memoir mention of 高銘益 outside his own record): the quiet "third man" who stayed the whole night helping paste 台獨 posters in SF Chinatown while roommates backed out, then vanished without leaving contact info. Liao traced him fifty years on via 許村源/蘇松茂 and thanked him in person in Feb 2017 during Kao's visit to Southern California ([[articles/taiwanjustice-net/2024/20240301071009_root_cbf185d4e8137928|TJJ column, 2017-09-19]]).
+## From the record
+
+- 2017-09-19 — 廖清山's memoir recalls the quiet "third man" of the 1966 SF Chinatown 台獨 poster night (corpus check 2026-09-18: the only memoir mention of 高銘益 outside his own record): Kao stayed the whole night pasting slogans while roommates backed out, then vanished without leaving contact info; Liao traced him fifty years on via 許村源/蘇松茂 and thanked him in person in Feb 2017 during Kao's visit to Southern California ([[articles/taiwanjustice-net/2024/20240301071009_root_cbf185d4e8137928|TJJ column, 2017-09-19]]).
 
 ## Sources
 - [TAH #2241 encyclopedia: 2241. George Kao 高銘益/02/2020](https://taiwaneseamericanhistory.org/whoswho-2241/)

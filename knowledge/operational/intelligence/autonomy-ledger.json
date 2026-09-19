@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-18",
+  "date": "2026-09-19",
   "standards_version": 10,
   "auto_apply_agent": false,
   "nodes": {
@@ -11,19 +11,19 @@
       "n": 1
     },
     "analyzer": {
-      "scanned": 2898,
-      "queued": 7,
-      "suppressed": 1945
+      "scanned": 2899,
+      "queued": 9,
+      "suppressed": 1947
     },
     "enrichment_writes": {
       "n": 0,
       "enabled": false
     },
     "janitor.hold": {
-      "n": 40
+      "n": 34
     },
     "kanban.blocked": {
-      "n": 117
+      "n": 67
     },
     "kanban.auto_go": {
       "enabled": false
@@ -36,13 +36,20 @@
       "auto_apply_agent": false,
       "first_mention_apply": true
     },
-    "cron.fail": []
+    "cron.fail": [
+      "echopedia-nightly-audit",
+      "echopedia-ci-heal"
+    ]
   },
   "telegram_auto_lines": [
     "✅ AUTO related-pages 1",
-    "✅ AUTO analyzer scanned 2898 queued 7 suppressed 1945",
-    "🟡 QUEUE janitor HOLD leftover 40",
-    "🟡 QUEUE kanban blocked 117"
+    "✅ AUTO analyzer scanned 2899 queued 9 suppressed 1947",
+    "🟡 QUEUE janitor HOLD leftover 34",
+    "🟡 QUEUE kanban blocked 67",
+    "🔴 NEED YOU cron fail: echopedia-nightly-audit, echopedia-ci-heal"
   ],
-  "cron_fail_names": []
+  "cron_fail_names": [
+    "echopedia-nightly-audit",
+    "echopedia-ci-heal"
+  ]
 }

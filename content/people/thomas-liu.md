@@ -42,6 +42,10 @@ last_reviewed: 2026-09-18
 - **Wife:** [[people/elaine-liu||黃久香]]
 
 
+## From the record
+
+- 2016-03-09 — 與李木通、黃根深同為「台美人物誌—半世紀前 UCLA 的那些日子」座談與談人，美洲台灣日報記錄，見台灣公義報「台美人台加人」分類存檔（2024-05-20 快照）—— [[articles/taiwanjustice-net/2024/20240520023218_root_89e6683c93156205|TJJ 台美人台加人存檔頁]]。
+
 ## Sources
 - [TAH #929 encyclopedia: 929. Thomas Liu 劉天良](https://taiwaneseamericanhistory.org/whos929-thomas-liu/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/thomas-liu/)

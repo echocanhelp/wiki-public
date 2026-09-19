@@ -40,6 +40,7 @@ last_reviewed: 2026-09-19
 - 2016-04-11 — TJJ 轉載 Taipei Times 社論：扁案審判與偵查被指程序瑕疵處處；社論認為特赦等於承認有罪，應由新政府設特別委員會重查審判程序瑕疵與政治介入 —— [[articles/taiwanjustice-net/2024/20240619171645_root_c0530664ab4c2948|TJJ 轉載 Taipei Times 社論，2016-04-11]]。
 - 2013-03-07 — TJJ English Pages 隨機頁（2024-05-30 快照）收錄多篇扁案英語報導，包括自由時報社論「Chen Shui-bian's return to prison」（2013-04-22）及「A Plea from a doctor for President Chen」（2013-03-03，Jay Tu 譯）（[[articles/taiwanjustice-net/2024/20240530133335_root_86312fe2a2feb73e|TJJ English Pages, 2024-05-30 存檔]]）。
 - 2012-04-27 — TJJ「Ed Royce」標籤頁存檔（2024-06-13 快照）收錄 2012-04-27 新聞：與馬英九友好的美國國會議員（Ed Royce 系統）籲請中華民國釋放陳水扁 —— [[articles/taiwanjustice-net/2024/20240613111437_root_432e1fca739d02b8|TJJ Ed Royce 標籤頁，2024-06-13 存檔]]。
+- 2015-04-16 — TJJ 轉載 LA Times 報導蔡英文參選：文中指出陳水扁任內曾主張台獨、部分民進黨老党员仍持相同立場，但該黨當時表明對中「維持現狀」；扁作為前總統被作為蔡英文路線的對照引述（[[articles/taiwanjustice-net/2024/20240616133139_root_b63290424caedcf7|TJJ 轉載 LA Times, 2015-04-16]]）。
 
 ## Role in the Community
 

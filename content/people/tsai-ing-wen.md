@@ -7,7 +7,7 @@ tags:
   - taiwanjustice-net
   - thin-page
 verification_status: pending
-last_reviewed: 2026-09-18
+last_reviewed: 2026-09-19
 name_en: "Tsai Ing-wen"
 ---
 # Tsai Ing-wen (蔡英文)
@@ -54,3 +54,4 @@ name_en: "Tsai Ing-wen"
 - 2020-09-30 — 第75屆聯大期間美國駐聯合國大使克拉夫特（Kelly Craft）公開力挺台灣參與聯合國體系、稱沒有台灣參與的聯合國是「欺騙世界」；蔡總統轉推感謝肯定台灣公共衛生與經濟貢獻，並回文指台灣若能進一步參與國際社會可為世界做更多貢獻（[[articles/taiwanjustice-net/2020/20201113184851_2020_09_30_美駐聯合國大使挺台_蔡總統蕭美琴謝-台灣黑熊也_fd270f41202454d7|TJJ/中央社記者報導, 2020-09-30]]）。
 - 2020-08-08 — TJJ relay of a 大紀元 report on 蕭美琴's 駐美代表 appointment: 台灣人公共事務會柑縣分會會長黃河芬 publicly urged her, on the basis of 台灣旅行法 and 台灣關係法, to push trade, investment and national-security cooperation and high-level exchanges so that President 蔡英文 could visit the US as president ([[articles/taiwanjustice-net/2020/20200823091444_2020_08_08_大洛杉磯台灣會館等台美人團體和領袖祝賀蕭美琴_bff4c7110803d864|TJJ/大紀元, 2020-08-08]]).
 - 2015-04-16 — TJJ「English Pages」分類存檔（2024-07-18 快照）收錄報導「Taiwan Opposition's Presidential Nominee Tsai Ing-wen Says Won't Change China Ties...」：2015年參選總統期間即對外表態兩岸政策不變，反映其競選路線獲英文僑媒跟蹤（[[articles/taiwanjustice-net/2024/20240718230535_root_d2d01925bc6bbba3|TJJ English Pages 存檔頁, 2024-07-18 快照]]）。
+- 2015-04-16 — TJJ 轉載 LA Times（Ralph Jennings, 2015-04-15）：民進黨於週三提名58歲的法律學者蔡英文參選2016年1月總統選舉，民調領先至少10個百分點，有望成為台灣首位女性總統；Cornell Law 與 LSE 背景，主張與北京對話但要求兩岸對等會談，並引述台灣智庫副執行長賴怡忠評其不會以台獨為優先（[[articles/taiwanjustice-net/2024/20240616133139_root_b63290424caedcf7|TJJ 轉載 LA Times, 2015-04-16]]）。

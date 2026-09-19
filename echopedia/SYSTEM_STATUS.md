@@ -1,6 +1,6 @@
 # Echopedia System Status
 
-*Generated: 2026-09-19 04:27 PDT*
+*Generated: 2026-09-19 04:36 PDT*
 
 ## Orientation
 - **Entry:** go <plain language> via go-router (auto-route) · **Control:** [CONTROL.md](CONTROL.md)
@@ -21,7 +21,7 @@
 ## Content
 |- **Tier1 pages:** 2865 (people 2405 / orgs 429 / sources 31) · Tier2 archive: 29103
 |- **Janitor queue depth:** 49
-|- **Uncommitted files:** 333
+|- **Uncommitted files:** 0
 
 ## Self-improvement pipeline (Scout → Filter → Extract → Evaluate → Generate → Review)
 || Stage | Script | Last run | Output |
@@ -61,7 +61,7 @@ Load skill **echopedia-ops** first for any wiki work.
     Last run:  2026-09-18T07:01:04.533484-07:00  ok
     Name:      vllm-thermal-scaler
     Schedule:  every 1m
-    Last run:  2026-09-19T04:26:41.772239-07:00  ok
+    Last run:  2026-09-19T04:36:09.531410-07:00  ok
     Name:      Echopedia content analysis
     Schedule:  10 1 * * *
     Last run:  2026-09-19T01:11:25.930001-07:00  ok
@@ -88,7 +88,7 @@ Load skill **echopedia-ops** first for any wiki work.
     Last run:  2026-09-18T04:53:58.085172-07:00  ok
     Name:      echopedia-site-design
     Schedule:  30 4 * * *
-    Last run:  2026-09-18T04:30:45.641911-07:00  ok
+    Last run:  2026-09-19T04:30:42.413424-07:00  ok
     Name:      vault-search-index-rebuild
     Schedule:  0 5 * * 0
     Last run:  2026-09-13T05:00:07.173032-07:00  ok
@@ -119,7 +119,7 @@ Load skill **echopedia-ops** first for any wiki work.
 | 15 3 * * * | `echopedia-quote-extractor` | no_agent | on | ok | `echopedia-quote-extractor-cron.sh` |
 | 20 2 * * * | `echopedia-evaluate-actions` | no_agent | on | ok | `echopedia-evaluate-actions.py` |
 | 20 6 * * * | `echopedia-digest` | no_agent | on | ok | `echopedia-digest.sh` |
-| 25 4 * * * | `echopedia-ci-heal` | no_agent | on | ok | `echopedia-ci-heal-wrapper.sh` |
+| 25 4 * * * | `echopedia-ci-heal` | no_agent | on | error | `echopedia-ci-heal-wrapper.sh` |
 | 30 1 * * * | `echopedia-janitor` | no_agent | on | ok | `echopedia-janitor-wrapper.sh` |
 | 30 3 * * * | `echopedia-timeline-builder` | no_agent | on | ok | `echopedia-timeline-builder-cron.sh` |
 | 30 4 * * * | `echopedia-site-design` | no_agent | on | ok | `echopedia-site-design-wrapper.sh` |

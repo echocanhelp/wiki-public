@@ -1,0 +1,4 @@
+people/dr-khang-loon-ho.md
+organizations/taiwanese-association-of-west-michigan.md
+people/rev-shirley-lin.md
+organizations/san-francisco-taiwanese-association.md
