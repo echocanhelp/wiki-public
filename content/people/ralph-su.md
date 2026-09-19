@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-19
 ---
 # Ralph Su (蘇惠智牧師)
 
@@ -25,6 +25,12 @@ last_reviewed: 2026-08-17
 - Canaan Taiwanese — Christian Church — 主任牧師
 - 新澤西中部聖恩長老教會 — 組織牧師
 <!-- tah-tables:end -->
+
+## Role in the Community
+
+Per the church memoir in [[works/taiwaneseamericanhistory-org/ourjourneys43|Our Journeys 43]], Rev. Ralph Su served 新澤西中部聖恩長老教會 (Grace Taiwanese Presbyterian Church) from **August 2004 to December 2007**, arriving in 2004 to help the congregation achieve **charter status** — consistent with the TAH listing of him as the church's 組織牧師.
+
+His own TAH Who's Who entry is itself in the corpus: [[works/taiwaneseamericanhistory-org/whoswho1724|1724. Ralph Su 蘇惠智 / 07/2017]].
 
 ## Family
 
