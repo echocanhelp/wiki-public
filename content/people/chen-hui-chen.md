@@ -7,7 +7,7 @@ tags:
   - vice-chair
   - Taiwanese-American
 verification_status: published
-last_reviewed: 2026-09-17
+last_reviewed: 2026-09-19
 ---
 # Chen Hui-Chen (陳慧貞)
 
@@ -30,7 +30,7 @@ Per the 2025/26 執委 letter on ntpc-usa.org:
 She is the Treasurer for the NTPC Historical Committee's 2025 republication of *[[sources/toward-a-community-of-hope||Toward A Community of Hope]]*. The 2026 invitation states: "敬請各教會將今年度 NTPC 年費(禮拜人數 50人以下$100，禮拜人數 100 人以上$300，較大教會請增加。)請寄支票給會計陳慧貞長老 1429 Wembley CT. NE., Atlanta, GA 30329。"
 
 ## Community Record
-- Corpus re-grep 2026-09-17 (slice 09170200-11) for 陳慧貞 / Hui-Chen Chen across works and articles: no hits beyond the NTPC source material already absorbed above. SKIP — nothing new absorbable; the NTPC Vice-Chair 2025/26 (中原區, 2028 屆滿) and Historical Committee Treasurer record stands as written.
+- Corpus re-grep 2026-09-19 (slice 09170600-27; earlier 2026-09-17 slice 09170200-11) for 陳慧貞 / Hui-Chen Chen across works and articles: no hits beyond the NTPC source material already absorbed above. SKIP — nothing new absorbable; the NTPC Vice-Chair 2025/26 (中原區, 2028 屆滿) and Historical Committee Treasurer record stands as written.
 
 ## Related Pages
 

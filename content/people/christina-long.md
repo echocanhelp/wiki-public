@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-17
+last_reviewed: 2026-09-19
 ---
 # Prof. Christina Long (隆愛真教授)
 
@@ -30,7 +30,7 @@ Prof. Christina Long 隆愛真教授 – History of Taiwanese American (T.A. Arc
 <!-- tah-tables:end -->
 
 ## Role in the Community
-- Portrait record in the TAH community archive as a pianist: 418. Christina Long 隆愛真, pianist / 2017-07 ([[works/taiwaneseamericanhistory-org/musician-christina-long|musician-christina-long]]); Who's Who profile record 1772 ([[works/taiwaneseamericanhistory-org/whos-who-1772-christina-long|whos-who-1772-christina-long]], 2017-07-24). No memoir/community-narrative hits beyond these archive records (re-grep 2026-09-17, slice 09170200-9: hit set unchanged). SKIP-for-deepening: nothing community-side absorbable.
+- Portrait record in the TAH community archive as a pianist: 418. Christina Long 隆愛真, pianist / 2017-07 ([[works/taiwaneseamericanhistory-org/musician-christina-long|musician-christina-long]]); Who's Who profile record 1772 ([[works/taiwaneseamericanhistory-org/whos-who-1772-christina-long|whos-who-1772-christina-long]], 2017-07-24). No memoir/community-narrative hits beyond these archive records (re-grep 2026-09-17 slice 09170200-9 and 2026-09-19 slice 09170600-24: hit set unchanged). SKIP-for-deepening: nothing community-side absorbable.
 
 ## Family
 

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-17
+last_reviewed: 2026-09-19
 ---
 # H. W. Huang (黃鴻偉)
 
@@ -38,7 +38,7 @@ last_reviewed: 2026-09-17
 _No filled family fields on the TAH profile._
 
 ## Role in the Community
-- Corpus footprint is his own TAH encyclopedia entries: [[works/taiwaneseamericanhistory-org/musician371|371. W. Huang黃鴻偉, Violinist]] and [[works/taiwaneseamericanhistory-org/whoswho1389|1389. H. W. Huang 黃鴻偉]] (both 2016-11); no mention found in community memoirs.
+- Corpus footprint is his own TAH encyclopedia entries: [[works/taiwaneseamericanhistory-org/musician371|371. W. Huang黃鴻偉, Violinist]] and [[works/taiwaneseamericanhistory-org/whoswho1389|1389. H. W. Huang 黃鴻偉]] (both 2016-11); corpus re-grep 2026-09-19 (slice 09170600-27) found no new mentions in community memoirs — SKIP, nothing new absorbable.
 - HOLD: conflict — the #371 entry is titled "Violinist" while the biography and employment table list him as a violist (中提琴首席 posts); never merged.
 
 ## Sources

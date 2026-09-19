@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-17
+last_reviewed: 2026-09-19
 ---
 # Margaretta Wan-Ling Lin
 
@@ -47,3 +47,5 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+- Re-grep 2026-09-19 (slice 09170600-28): corpus scan of works/articles again returns only this person's own TAH bibliographic record — no memoir or movement-activity material to absorb; existing links above stand, no conflicts found.
