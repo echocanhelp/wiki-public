@@ -43,6 +43,10 @@ For more bio information, please click link in Who’s Who: 971. Cheng-I (Jim) Y
 - **Son:** Connie
 
 
+## From the record
+
+- 2017-05-08 — 主講長青教室「楊正義博士講『攝影的藝術』（2 videos）」，見台灣公義報「台美人台加人」分類 長青教室 標籤彙整頁（2017-05-08 刊）—— [[articles/taiwanjustice-net/2024/20240620173328_root_2777c88877eee2c5|TJJ tag 長青教室, 2024-06-20 存檔]]。
+
 ## Sources
 - [TAH #62 encyclopedia: 62. 楊正義 Cheng-I (Jim) Young](https://taiwaneseamericanhistory.org/atists62-cheng-i-jim-young/)
 - [TAH #971 encyclopedia: 971. Cheng-I (Jim) Young 楊正義 / 2016/05](https://taiwaneseamericanhistory.org/whoswho971/)

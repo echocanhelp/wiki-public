@@ -42,7 +42,7 @@ last_reviewed: 2026-09-19
 
 ## Role in the Community
 
-- Fifth president of TUF (台灣人公共事務會南加州分會, 1995): per the first-hand memoir [[works/taiwaneseamericanhistory-org/ourjourneys301|Our Journeys #301]], she took over from 楊子清 in 1995, replaced 《台灣文化之夜》 with 《台灣民謠之夜》, and in 1996 co-organized 《台灣文化之夜》 with NATPA — personally flying to Seattle to invite 立委沈富雄 (the event drew 李遠哲 and a 王金平-led legislative delegation).
+- Fifth president of TUF (台灣人公共事務會南加州分會, 1995): per the first-hand memoir [[works/taiwaneseamericanhistory-org/ourjourneys301|Our Journeys #301]], she took over from 楊子清 in 1995, replaced 《台灣文化之夜》 with 《台灣民謠之夜》, and in 1996 co-organized 《台灣文化之夜》 with NATPA — personally flying to Seattle to invite 立委沈富雄 (the event drew 李遠哲 and a 王金平-led legislative delegation). Same memoir fixes the TUF SoCal presidency sequence for its first decade — 吳西面、林衡哲、吳澧培、楊子清、賴英慧 — confirming her as fifth president.
 - Former president of 台灣人聯合基金會: served as 與談人 at the 第166回世界台灣文化論壇 (see From the record).
 - 2021: co-initiator (共同發起人) of the 南加州僑界 joint statement supporting Taiwan's participation in the WHO World Health Assembly ([[articles/taiwanjustice-net/2021/20210616072940_2021_05_17_2021年南加州僑界支持台灣參與世界衛生大會wha聯合聲_b1d58af16c0a5e5b|TJJ, 2021-05-17]]).
 - Her Who's Who life story is held as its own record: [[works/taiwaneseamericanhistory-org/701-ing-hui-lai-e8-b3-b4-e8-8b-b1-e6-85-a7-201511|701. Ing-Hui Lai 賴英慧 / 2015/11]].

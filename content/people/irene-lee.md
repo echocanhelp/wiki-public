@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-18
+last_reviewed: 2026-09-19
 ---
 # Irene Lee (李智惠)
 
@@ -39,6 +39,7 @@ Irene Lee, is a composer, soprano, performer, and voice teacher. She attended Ma
 - **2015-08** — headline recital (李智惠演唱會) at the grand opening of the San Diego Taiwanese community center 台灣中心: traveled from New Jersey and performed a program entirely of her own compositions reflecting Taiwanese / Taiwanese-American life — 台灣—我心愛的國家、台灣太太、醒起來765!、阿財之歌、希望的光芒(連加恩醫生的故事)、孩子們(黃至成醫生的故事)、牽手走向幸福、野草莓、台灣向前行、台灣之王(王建民棒球的故事)、華爾茲，恰怡洽！、蝴蝶的命運, encore 媽媽的祈禱 — per [[works/taiwaneseamericanhistory-org/ourjourneys162|Our Journeys 162（聖地牙哥台灣中心開幕）]] and [[works/taiwaneseamericanhistory-org/ourjourneys162-eng|EN edition]]. She appeared alongside pianist [[people/julie-wong|Julie Wong 翁致理]]; accompanist Helena Chi; center deputy director 歐春美 presented opening-commemorative wine to both performers.
 - TAH Who's Who encyclopedia records: [[works/taiwaneseamericanhistory-org/whoswho1110|1110. Irene Lee 李智惠 / 2016-06]] and [[works/taiwaneseamericanhistory-org/musician47|47. Irene Lee 李智惠, Soprano / 2014-10]].
 - HOLD: TAH education field reads "Marines College of Music" / "Marines College", evidently a mangling of Mannes College of Music, NYC — the page's own text names Mannes teachers; not auto-merged.
+- Corpus re-grep 2026-09-19: hit set unchanged (ourjourneys43, ourjourneys162 + EN edition, whoswho1110, musician47) — all coverage already absorbed above; no new community facts.
 
 ## Sources
 - [TAH #1110 encyclopedia: 1110.   Irene Lee 李智惠 / 2016/06](https://taiwaneseamericanhistory.org/whoswho1110/)

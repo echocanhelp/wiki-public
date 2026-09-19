@@ -55,3 +55,4 @@ Robert Chen (陳慕融; pinyin: Chén Mùróng) is a Taiwanese-born violinist wh
 ## From the record
 
 - 1994 — 「陳慕融小提琴獨奏會」入選「TUF 台灣名家演奏系列 1994」影音紀錄，由楊子清提供並存檔於台灣正義網（[[articles/taiwanjustice-net/2021/20210117071954_tag_楊子清_11aa2dfa5f64d7e4|TJJ 楊子清 tag, 2020-09-30]]）；同一紀錄亦見TJJ「台美人台加人」存檔列表頁（[[articles/taiwanjustice-net/2024/20240715153222_root_131a1c8ea05f85ea|TJJ 存檔頁, 2024-07-15 快照]]）。
+- Corpus re-grep 2026-09-19: hit set unchanged (73-rober-chen、98-robert-chen、ourjourneys294、ourjourneys301) — all absorbed above. The Pew 台美人聲明 work page also lists a 「Dr. Robert Chen, FAPA」 — a physician credential, held as same-name-different-person; not absorbed into this violinist's record.

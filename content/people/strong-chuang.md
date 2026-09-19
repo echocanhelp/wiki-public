@@ -38,6 +38,10 @@ last_reviewed: 2026-09-18
 - **Son:** Tim
 
 
+## From the record
+
+- 2021-02-28 — 獨派前輩莊秋雄之孫莊淵威受邀在「2021北美洲海外台灣人二二八紀念活動」中擔任「返校」線上遊戲實況主，以遊戲帶領觀者重現白色恐怖遭遇、吸引台美第二代認識台灣歷史（全美會官方完滿報導 [[articles/taiwanjustice-net/2025/20250430013325_全美台灣同鄉會2021-年二二八紀念系列活動圓滿落幕_f6213c1937fa956d|TJJ/全美會, 2021-03-14]]）。
+
 ## Role in the Community
 - 1966: attended the Philadelphia merger talks as a Kansas representative and co-founded 全美台灣獨立聯盟 (UFAI, 1966-07-04) as a secret 盟員 — see his memoir account in [[works/taiwaneseamericanhistory-org/ourjourneys81|Our Journeys #81]]
 - Co-author (with 黃根生/黃根深、王廷宜) of 台灣人權協會1970-1990年代的故事 — [[works/taiwaneseamericanhistory-org/publications1040|TAHS #1040]]

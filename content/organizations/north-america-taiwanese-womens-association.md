@@ -41,3 +41,7 @@ NATWA's chapter-and-project record is held in the Echopedia work corpus:
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+## From the record
+
+- 2019-09-03 — President 陳彩雲博士 signed the overseas Taiwanese organizations' joint statement 「拒一國兩制！海外台灣人社團：支持香港反對中國暴政」 as head of NATWA, alongside NATPA, WUFI-USA, FAPA, WTC, WFTA, TAA and two memorial foundations ([[articles/taiwanjustice-net/2024/20240221122756_root_53455d7e13136092|TJJ record, 2024-02-21 archive of the 2019-09-04 posting]]).
