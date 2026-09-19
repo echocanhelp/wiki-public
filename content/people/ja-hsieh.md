@@ -35,6 +35,9 @@ Ja Hsieh received his Doctor of Musical Arts degree at the University of Washing
 
 _No filled family fields on the TAH profile._
 
+## Role in the Community
+- Held in the TAH story corpus as encyclopedia records [[works/taiwaneseamericanhistory-org/298-ja-hsieh-e8-ac-9d-e5-ae-b6-e8-b1-aa-percussionist-201510|298. Ja Hsieh謝家豪, Percussionist]] and [[works/taiwaneseamericanhistory-org/649-ja-hsieh-e8-ac-9d-e5-ae-b6-e8-b1-aa-201510|649. Ja Hsieh 謝家豪]], both published 2015-10-03 — community documentation of him as a Taiwanese American percussionist, catalogued alongside peers such as Joseph Lin 林以信 and Jonathan Jou 周政忠.
+
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/ja-hsieh/)
 

@@ -32,9 +32,12 @@ last_reviewed: 2026-09-19
 - Gilbert /Commonwealth Inc., Reading, PA — 1977-95 — Chemical Eng./Consultant
 <!-- tah-tables:end -->
 
+## Role in the Community
+- **1960s Minneapolis Taiwanese Christian circle.** In the memoir 懷憶六十年代前期的明市 (謝伯芳, 2021-03): his wife Maki (吳真希) was 蘇惠美's 師大音樂系 classmate; after her MM at University of Georgia she served as organist at Otani 牧師's church in Minneapolis (~4-5 years) and met 陳志青 at the weekly Friday prayer/Bible-study meeting; they married October 1963 with Otani 牧師 giving the bride away — [[works/taiwaneseamericanhistory-org/ourjourneys-369|369. 懷憶六十年代前期的明市 / 謝伯芳]].
+
 ## Family
 
-- **Wife:** Maki Chen
+- **Wife:** Maki Chen — per the memoir, 吳真希/Maki, 師大音樂系 classmate of 蘇惠美, MM University of Georgia, church organist in Minneapolis; married 陳志青 1963-10 ([[works/taiwaneseamericanhistory-org/ourjourneys-369|369. 懷憶六十年代前期的明市]])
 - **Daughter:** Eirene Chen
 - **Son:** Eugene Chen
 

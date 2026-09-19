@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-19
 ---
 # Dr. Jheng Yan (嚴正博士)
 
@@ -34,6 +34,9 @@ Accomplishment
 ## Family
 
 _No filled family fields on the TAH profile._
+
+## Role in the Community
+His own TAH encyclopedia entry is held in the vault at [[works/taiwaneseamericanhistory-org/whos-who-2317-jheng-yan|2317. Dr. Jheng Yan 嚴正博士 (TAH Who's Who, 2021-02-22)]], documenting his participation in the driving plans of NASA's Spirit, Opportunity, and Curiosity rover missions — a standout JPL record in the Taiwanese American scientific cohort. The other corpus hit for "Jheng" is a false positive (「中正」Jhong Jheng Sports Center in [[works/taiwaneseamerican-org/summer-language-camps-in-taiwan-five-firsthand-accounts-2|Summer language camps in Taiwan]]), not this person.
 
 ## Sources
 - [TAH #2317 encyclopedia: 2317. Dr. Jheng Yan 嚴正博士](https://taiwaneseamericanhistory.org/whos-who-2317-jheng-yan/)

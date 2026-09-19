@@ -35,6 +35,9 @@ Prof. Harrison Cheng 鄭學成教授 – History of Taiwanese American (T.A. Arc
 
 _No filled family fields on the TAH profile._
 
+## Role in the Community
+His own TAH encyclopedia entry is held in the vault at [[works/taiwaneseamericanhistory-org/whos-who-1912-harrison-cheng|1912. Prof. Harrison Cheng 鄭學成教授 (TAH Who's Who, 2017-10-08)]]. The only other corpus mention of a "鄭教授" is in [[works/taiwaneseamericanhistory-org/ourjourneys277|277. 他們這樣愛台灣：威斯康辛大學「台灣布袋戲團」的故事 / 朱靜女 /02/2017]], where a Milwaukee "鄭良福教授" donates puppets to the UW-Milwaukee Taiwan puppet troupe — HOLD: conflict, corpus name 鄭良福 (Milwaukee) vs page 鄭學成 (USC/UCSD); not merged.
+
 ## Sources
 - [TAH #1912 encyclopedia: 1912. Prof. Harrison Cheng 鄭學成教授](https://taiwaneseamericanhistory.org/whos-who-1912-harrison-cheng/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-harrison-cheng/)
