@@ -38,6 +38,12 @@ last_reviewed: 2026-09-19
 - **Daughter:** Jessica Huang
 
 
+## Role in the Community
+
+- Authored the TAH story-corpus literary piece 草與露 (2013/03, Literature), held as community historical record: [[works/taiwaneseamericanhistory-org/257-e8-8d-89-e8-88-87-e9-9c-b2-e5-bb-96-e7-a2-a7-e7-8e-89-2013-03-e6-96-87-e5-ad|257. 草與露 / 廖碧玉]] — she appears in the corpus as a TA community writer, not only a banking professional.
+- Her TAH Who's Who profile #79 is itself held as a community record: [[works/taiwaneseamericanhistory-org/79-peggy-liao-e5-bb-96-e7-a2-a7-e7-8e-89|79. Peggy Liao 廖碧玉]] (published 2014-11-05).
+- No memoir or community text in the corpus conflicts with the TAH profile fields (NTNU 國文 1972 → Toronto 東亞研究所 1985 → Canadian banking career).
+
 ## Sources
 - [TAH #79 encyclopedia: 79. Peggy Liao 廖碧玉](https://taiwaneseamericanhistory.org/79-peggy-liao-%e5%bb%96%e7%a2%a7%e7%8e%89/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/peggy-liao/)

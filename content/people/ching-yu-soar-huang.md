@@ -28,7 +28,6 @@ last_reviewed: 2026-09-19
 <!-- tah-tables:end -->
 
 ## Employment
-- California School of Professional Psychology, Alliant International University — 2015-present
 <!-- tah-tables:end -->
 
 ## Role in the Community
