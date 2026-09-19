@@ -30,6 +30,7 @@ last_reviewed: 2026-09-18
 
 ## From the record
 
+- 2013-04-22 — TJJ 存檔原文：人權行動中心（Human Rights Action Center）創辦人 Jack Healey 就陳水扁醫療權發表聲明，指其醫療照護遭系統性拖延或不足、已造成永久傷病，凌晨突襲式移監違反十人國際人權專家小組建議，譴責馬政府「以系統性怠忽謀殺前總統」，呼籲國際社會為扁及其他受刑人的醫療權發聲 —— [[articles/taiwanjustice-net/2024/20240520030447_root_9e7164ea03c1512b|TJJ：The Madness of Ma（2013-04-22）]]。
 - 2013-07-30 — TJJ English Pages 目錄頁收錄其英文報導「不准病假 北院提訊陳水扁」（涂醒哲醫師，蘋果日報），快照顯示該頁已上線。（[[articles/taiwanjustice-net/2024/20240224194137_root_b1e144ecc18e460f|TJJ, 2013-07-30]]）。
 - 2013-04-24 — 台灣公義報「Taiwan」標籤頁收錄其獄中自縊未遂新聞（醫療團隊證實）；同年2月13日該頁另收錄深藍人士對其總統任內施政的評述（[[articles/taiwanjustice-net/2024/20240620184257_root_c595d332038f73bb|TJJ Taiwan標籤頁, 2024-06-20 存檔]]）。
 - 2013-04 — TJJ 轉載 Michael Richardson 報導：陳水扁獲悉從台北榮總精神科病房移回台中監獄附設佩德診所後，以長袖內衣繫門把在浴室試圖自縊，院方阻止但移送照舊執行；主治醫師周紋華（Chou Yuan-hua）4/1 立院聽證時已警告送回台北監獄必成自殺風險，並診斷其有重度憂鬱症、嚴重睡眠呼吸中止、非典型帕金森氏症等，建議回家休養；Washington D.C. 人權行動中心（Human Rights Action Center）4/22 譴責此舉為「slow-motion murder」 —— [[articles/taiwanjustice-net/2024/20240425113156_root_f19de8f9d3b53071|TJJ：Chen Shui-bian's return to prison（2013-04-22）]]。

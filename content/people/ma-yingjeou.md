@@ -32,6 +32,7 @@ last_reviewed: 2026-09-18
 
 
 - 2026-07-28 — taiwanjustice.net 文章存檔索引（29,103 篇・2011–2026）以本人為關鍵人物條目收錄（[[articles/taiwanjustice-net/index||TJJ 文章存檔索引]]）。
+- 2013-04-22 — TJJ 存檔原文：Jack Healey（Human Rights Action Center）聲明直指馬英九——「Do not let Ma Ying-jeou murder Chen Shui-bian」：指其政府涉入司法、受復仇政治驅動，在支持度仅約11%、無競選壓力下仍將扁自可應變多重病情的醫療機構移回僅有監獄診所的監所，等同選擇「慢動作謀殺」；聲明並批評反對黨忙於操弄選票而忽略扁醫療權本身 —— [[articles/taiwanjustice-net/2024/20240520030447_root_9e7164ea03c1512b|TJJ：The Madness of Ma（2013-04-22）]]。
 - 2013-09-15 — TJJ English Pages 目錄頁收錄 Jerome F. Keating 評論「Will Ma Ying-jeou's Disappearing Legacy be that of Richard III?」。（[[articles/taiwanjustice-net/2024/20240224194137_root_b1e144ecc18e460f|TJJ, 2013-07-30 快照]]）。
 - 2013-04-22 — TJJ 轉載 Michael Richardson 報導（陳水扁移送風波）：Human Rights Action Center 的 Jack Healey 指馬英九政府「涉入司法程序、受復仇政治驅動」並公開呼籲「莫讓馬英九謀殺陳水扁而無人發聲」；同文稱民調顯示馬支持度跌至历史新低，多數台灣民意主張准陳水扁醫療釋放 —— [[articles/taiwanjustice-net/2024/20240425113156_root_f19de8f9d3b53071|TJJ：Chen Shui-bian's return to prison（2013-04-22）]]。
 
