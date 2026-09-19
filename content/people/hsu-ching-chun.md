@@ -15,7 +15,7 @@ tags:
   - radio
   - tahs-archive
 verification_status: verified
-last_reviewed: 2026-09-04
+last_reviewed: 2026-09-19
 ---
 
 # Hsu Ching-chun (許景淳)
@@ -182,6 +182,10 @@ TAH #196 (not in the Wikipedia table): 金鼎獎最佳演唱 **1987, 1992, 1993*
 | San Diego film-song award | TAH #196/#258 + wiki infobox (award, not residence) |
 
 Do not write her as a Taiwanese American biography. The U.S. nodes are **(1) TAH’s own archive pages**, **(2) the father’s later life and SoCal church-music offices**, plus one oral “雅琴姑婆 / 紐約” sentence on her own post.
+
+## From the record
+
+- 2011-10-30 — 「許丕龍與許景淳父女」傳陽雜誌30週年（abt. 2008）演唱會片段刊於 TJJ「台美人台加人」專欄（該分類頁 2024-05-27 存檔）—— [[articles/taiwanjustice-net/2024/20240527024815_root_98a26ee3b1ad82ac|TJJ 台美人台加人分類頁，2024-05-27 存檔]]。
 
 ## Related Pages
 
