@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-19
 ---
 # Rev. Sheng-To Shih (施聖導牧師)
 
@@ -32,6 +32,11 @@ last_reviewed: 2026-08-17
 ## Family
 
 _No filled family fields on the TAH profile._
+
+## Role in the Community
+- Listed among the PCT/Presbyterian-network pastors documented in the movement record (peer entries include [[people/rev-s-y-lin|Rev. S. Y. Lin]] and [[people/rev-thomas-h-chen|Rev. Thomas H. Chen]]) — see [[organizations/presbyterian-church-in-taiwan|PCT]], where this page is already linked as a network member.
+- Own encyclopedia record held in the corpus: TAH #1640 profile — see [[works/taiwaneseamericanhistory-org/whos-who-1640-sheng-to-shih|TAH #1640, Rev. Sheng-To Shih 施聖導牧師]]; the record is bibliographic only (full text in the TAH vault), so no additional narrative facts are absorbable.
+- SKIP-remainder: no memoir/corpus mentions of 施聖導 found in content/works or content/articles beyond the record above and index files — nothing else to absorb.
 
 ## Sources
 - [TAH #1640 encyclopedia: 1640. Rev. Sheng-To Shih 施聖導牧師](https://taiwaneseamericanhistory.org/whos-who-1640-sheng-to-shih/)

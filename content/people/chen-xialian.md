@@ -4,7 +4,7 @@ type: person
 tags:
   - 
 verification_status: pending
-last_reviewed: 2026-09-17
+last_reviewed: 2026-09-19
 ---
 # Elder Chen Xialian (陳夏蓮長老)
 
@@ -37,7 +37,7 @@ Her continued visibility in bulletin records reflects stable elder leadership co
 - Chinese: 陳夏蓮長老
 - Romanized: Chen Xialian
 - HOLD: corpus sweeps 2026-09-15, 2026-09-16, and 2026-09-17 found no 陳夏蓮 material in works/articles. The only 夏蓮 hits ([[works/taiwaneseamericanhistory-org/625-helen-allen-e8-b6-99-e5-a4-8f-e8-93-ae-201509|625. Helen Allen 趙夏蓮]], ff310, ourjourneys-138) are 趙夏蓮/Helen Allen — a different person, not merged.
-- Corpus note: SKIP — no absorbable corpus material; bulletin-derived evidence above is the sole source.
+- Corpus note: SKIP — re-grep 2026-09-19 (slice 09170600-26) still finds no 陳夏蓮 material in works/articles; bulletin-derived evidence above is the sole source.
 
 ## Contribution Invitation
 Use Echopedia Community Contributions Hub.
