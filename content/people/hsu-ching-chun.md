@@ -198,6 +198,10 @@ Do not write her as a Taiwanese American biography. The U.S. nodes are **(1) TAH
 - [[people/tsai-ing-wen||Tsai Ing-wen (蔡英文)]] — father’s later sister-in-law (sourced; not 許景淳’s own office)
 - [[organizations/taiwanese-american-historical-society||TAHS]] — TAH #196 / #258
 
+## From the record
+
+- 2011-10-30 — TJJ「台美人台加人」存檔列表頁載有影音上傳「許丕龍與許景淳父女_傳陽雜誌30週年(abt.2008)演唱會片段」，獨立佐证 Faith / Church 欄所引台福《傳揚》30週年父女同台獻詩一事（[[articles/taiwanjustice-net/2024/20240718233434_root_2fa1c26a7ca674e2|TJJ 存檔頁, 2024-07-18 快照]]）。
+
 ## Sources
 - [TAH #196 encyclopedia: 196. Christine Hsu許景淳, Singer/2015/05](https://taiwaneseamericanhistory.org/196-christine-hsu%e8%a8%b1%e6%99%af%e6%b7%b3-singer201505/)
 

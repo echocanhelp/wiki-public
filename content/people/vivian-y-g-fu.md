@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-18
+last_reviewed: 2026-09-19
 ---
 # Vivian Y.G. Fu (林郁子)
 
@@ -45,6 +45,10 @@ last_reviewed: 2026-09-18
 - **Husband:** 傅康平 (passed in1995)
 - **Daughter:** Marilyn, Irene
 
+
+## From the record
+
+- 2018-02-28 — 林郁子女士應長青教室邀請主講「漫談美滿的退休生活中的種種障礙（財經及身心的健康）及防護措施」，見TJJ「長青教室」標籤存檔頁（2018-03-02 刊登）（[[articles/taiwanjustice-net/2024/20240621184031_root_49d912cc449367f0|TJJ tag 長青教室存檔, 2024-06-21 快照]]）。
 
 ## Sources
 - [TAH #2298 encyclopedia: 2298. Vivian Y.G. Fu 林郁子](https://taiwaneseamericanhistory.org/whos-who-2298-y-g-fu/)
