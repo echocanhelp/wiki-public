@@ -39,6 +39,7 @@ Clinical Professor; Director of the Dual Diagnosis Treatment Program
 
 ## Role in the Community
 - Record so far rests on the TAH Who's Who encyclopedia entry [[works/taiwaneseamericanhistory-org/whos-who-1924-john-tsuang|TAH #1924, Dr. John Tsuang 莊文宗醫師]] (2017-11-03). No memoir, article, or other community record in the corpus names him.
+- Corpus re-grep (2026-09-19): all 莊文宗/Tsuang hits in content/works are either his own TAH #1924 entry or records about his father [[people/ming-tsuang|Prof. Ming T. Tsuang 莊明哲教授]] — see [[works/taiwaneseamericanhistory-org/pride-prof-ming-t-tsuang|TAH #14]], [[works/taiwaneseamericanhistory-org/82-prof-ming-tsuang|TAH #82]], [[works/taiwaneseamericanhistory-org/whos-ming-tsuang|TAH #398]], [[works/taiwaneseamericanhistory-org/senior-taiwanese-american-16|TAH #16]], and the memoir [[works/taiwaneseamericanhistory-org/our-journeys-384|Our Journeys #384]] (2022: Ming and wife Snow's contributions to Taiwan events and Taiwan Studies at UCSD/Harvard). No new first-person material on John himself — nothing absorbable into his own community role.
 
 ## Sources
 - [TAH #1924 encyclopedia: 1924. Dr. John Tsuang 莊文宗醫師](https://taiwaneseamericanhistory.org/whos-who-1924-john-tsuang/)
