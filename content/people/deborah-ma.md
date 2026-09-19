@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-19
 ---
 # Deborah Ma (馬佳美醫師)
 
@@ -28,6 +28,11 @@ last_reviewed: 2026-08-17
 ## Employment
 - Norwegian Cruise Line — Acupuncturist — (2012-2014) — Jensin Chinese Medical Clinic — Attending Physician — (2014-)
 <!-- tah-tables:end -->
+
+## Role in the Community
+
+- Profiled in the TAH Foundation Who's Who encyclopedia as record #2099: [[works/taiwaneseamericanhistory-org/whos-who-2099-deborah-ma|2099. Deborah Ma 馬佳美醫師]].
+- No other corpus mentions; the corpus "Deborah" hit in a 2025 taiwanjustice.net article refers to a UK drug dealer (Deborah Mason), not this person — not absorbed.
 
 ## Family
 

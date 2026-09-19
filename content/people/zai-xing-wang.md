@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-19
 ---
 # Zai-Xing Wang (王再興)
 
@@ -29,6 +29,11 @@ last_reviewed: 2026-08-17
 - 台南神學院 — 董事
 - Chicago Taiwanese Presbyterian Church — 1982- — Pastor
 <!-- tah-tables:end -->
+
+## Role in the Community
+
+- Profiled in the TAH Foundation Who's Who encyclopedia as record #2230, published 2019-11-12: [[works/taiwaneseamericanhistory-org/whos-who-2230|2230. Zai-Xing Wang 王再興 / 11-2019]].
+- Listed among PCT figures on [[organizations/presbyterian-church-in-taiwan|PCT]] — consistent with the Pastor (Chicago Taiwanese Presbyterian Church, 1982–) and 總會議長 roles in his profile.
 
 ## Family
 

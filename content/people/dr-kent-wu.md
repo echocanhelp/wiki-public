@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-18
+last_reviewed: 2026-09-19
 ---
 # Dr. Kent Wu (吳英資博士)
 
@@ -37,6 +37,10 @@ last_reviewed: 2026-09-18
 - **Wife:** 黃和惠
 - **Son:** 名祥
 
+
+## Role in the Community
+- Recorded in the TAH Foundation Who's Who corpus as [[works/taiwaneseamericanhistory-org/whos-who-2073|2073. Dr. Kent Wu 吳英資博士 / 03/2018]] (published 2018-03-24, band B — bibliographic record; full text stays in the vault). No memoir or movement-activity material in the corpus beyond the press-kit tables above.
+- Era given as 1936–2003 in the snapshot while the record itself is dated 2018 (posthumous profile) — no conflict, publication date ≠ lifespan.
 
 ## Sources
 - [TAH #2073 encyclopedia: 2073. Dr. Kent Wu 吳英資博士/ 03/2018](https://taiwaneseamericanhistory.org/whos-who-2073/)

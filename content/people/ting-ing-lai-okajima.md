@@ -31,6 +31,11 @@ Ting-ing Lai (Okajima) 賴騰英 – History of Taiwanese American (T.A. Archive
 - Chemical Abstract Services
 <!-- tah-tables:end -->
 
+## Role in the Community
+
+- Profiled in the TAH Foundation Who's Who encyclopedia as record #1505, published 2017-02: [[works/taiwaneseamericanhistory-org/whoswho1505|1505. Ting-ing Lai (Okajima) 賴騰英 / 2017-02]].
+- Community record is scientist (chemistry → physical chemistry, Wayne State) with the corpus documenting only the bibliographic entry; no movement-activity facts in the vault corpus beyond the profile itself.
+
 ## Family
 
 _No filled family fields on the TAH profile._
