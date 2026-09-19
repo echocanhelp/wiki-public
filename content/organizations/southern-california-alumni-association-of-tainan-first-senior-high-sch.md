@@ -29,6 +29,8 @@ The association maintains an active annual **年刊 (yearbook)** program; three 
 
 Wider corpus context: Tainan First Senior High (台南一中) alumni appear throughout the movement memoirs — e.g. the 3F founding story in [[works/taiwaneseamericanhistory-org/ourjourneys85|Our Journeys #85]] records five founders, most of them 台南一中 graduates active in Presbyterian and Taiwanese-American circles in the US from the 1950s. The corpus also holds a founding-generation record of 台南一中 alumni organizing: [[works/taiwaneseamericanhistory-org/263-e9-99-b3-e5-93-b2-e5-a4-ab-e5-8f-b0-e5-8d-97-e4-b8-80-e4-b8-ad-e6-a0-a1-e5-8|263. 陳哲夫 / 台南一中校友會創會會長 / 1987]] (held as a bibliographic record; affiliation with this specific Southern California association not established — HOLD).
 
+Re-grep (deepen-x 2026-09-19): new contextual hit [[works/taiwaneseamericanhistory-org/ourjourneys202|Our Journeys #202]] — a 台南一中-educated contributor recalls being challenged at 北醫 by a classmate over who counts as a "台灣人", and weighs in on the language debate at a 台醫協會 annual meeting; generation/milieu color for the 台南一中 alumni cohort, no direct link to this association established. Yearbook trio #1375/#1376/#1383 remains the association's only direct corpus footprint.
+
 ## Source Notes
 
 - **Content priority A:** Name on Taiwan Center group-members page  

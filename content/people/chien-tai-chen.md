@@ -55,3 +55,5 @@ _No filled family fields on the TAH profile._
 複核（deepen-x 2026-09-17）：re-grep（陳建台 / Chien-Tai Chen，works+articles）仍僅 #654/#302 本人書目與 index 條目 — SKIP，無新增社群材料。
 
 複核（deepen-x 2026-09-18）：corpus re-grep（works+articles）命中集合與前次相同，全數已吸收並 wikilink，無新增社群材料。
+
+複核（deepen-x 2026-09-19）：re-grep（陳建台 / Chien-Tai Chen，works+articles）命中集合仍僅本人書目 #654/#302 與 index 條目 — SKIP，無新增社群材料。

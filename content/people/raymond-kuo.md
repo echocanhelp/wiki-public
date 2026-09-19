@@ -39,6 +39,8 @@ B.A., College of Social Studies (politics, economics, and history), summa cum la
 - At a 2021 National Bureau of Asian Research panel he concluded China's "brute force" pressure on Taiwan had backfired, pushing regional states to weigh Taiwan in their own security strategies [[articles/taiwanjustice-net/2021/20210803023853_2021_08_02_北京威脅台灣引起國際強烈反彈_台灣問題越來越_2476978ca6ae5677|2021 NBR panel]].
 - Profiled in TAH Who's Who #1820 [[works/taiwaneseamericanhistory-org/whos-who-1820-raymond-kuo|TAH #1820]].
 
+Re-check (deepen-x 2026-09-19): corpus re-grep (郭泓均 / Raymond Kuo) hit set unchanged — TAH #1820 + harvest index + the three Taiwan Justice republications, all already wikilinked above; no new community material.
+
 ## Family
 
 _No filled family fields on the TAH profile._
