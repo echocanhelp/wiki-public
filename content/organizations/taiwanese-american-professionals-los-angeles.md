@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-18
+last_reviewed: 2026-09-19
 ---
 # Taiwanese American Professionals Los Angeles (洛杉磯台美菁英協會)
 
@@ -24,6 +24,7 @@ TAP-LA anchors the TAP (台美菁英協會) network documented in the TAH story 
 - Parent record: [[works/taiwaneseamericanhistory-org/taiwanese-american-professionals-tap|1. Taiwanese American Professionals (TAP) 台美菁英協會]] (published 2014-10-12).
 - Sibling chapters in the corpus: [[works/taiwaneseamericanhistory-org/austin-chapter-tap|3. Austin Chapter 奧斯丁(德州)分會]], [[works/taiwaneseamericanhistory-org/d-c-chapter-tap|5. D.C. Chapter 華府分會]], [[works/taiwaneseamericanhistory-org/boston-chapter-tap|4. Boston Chapter 波士頓分會]], [[works/taiwaneseamericanhistory-org/activities-of-orange-county-chapter-tap|TAP-OC 橙縣分會的活動]], [[works/taiwaneseamericanhistory-org/35-taiwanese-american-professionals-of-seattle-scholarship-award|35. 西雅圖台美菁英協會獎學金]].
 - As the 1991 founding chapter under TACL, TAP-LA predates every corpus-documented chapter; the corpus records the network's spread across U.S. metros and its youth-facing scholarship programming in Seattle.
+- 2021: 洛杉磯台美菁英協會 is listed as a co-initiating organization (共同發起單位) of the Southern California 僑界 joint statement supporting Taiwan's participation in the WHO/WHA — the chapter's earliest community-coalition record in our corpus: [[articles/taiwanjustice-net/2021/20210616072940_2021_05_17_2021年南加州僑界支持台灣參與世界衛生大會wha聯合聲_b1d58af16c0a5e5b|2021年南加州僑界支持台灣參與WHA聯合聲明]]
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-american-professionals-los-angeles/)
