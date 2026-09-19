@@ -43,6 +43,10 @@ Accomplishment
 
 _No filled family fields on the TAH profile._
 
+## From the record
+
+- 2018-03-21 — 陳東榮醫師在台灣公義報演講心得中專段舉他為「普世醫學」實踐者：針對全球 20 億人口缺乏基本醫療照顧，他以「更好、更便宜、更便捷、更環保」為原則研發醫療技術與用品，「帶著滿滿的愛心走天涯」（[[articles/taiwanjustice-net/2024/20240614152841_root_14114a89e393f958|TJJ 文章頁, 2024-06-14 存檔]]）。
+
 ## Sources
 - [TAH #126 encyclopedia: 126. Dr. Yeongchi Wu 吳永吉醫師](https://taiwaneseamericanhistory.org/126-dr-yeongchi-wu/)
 - [TAH #122 encyclopedia: 122. Dr. Yeongchi Wu 吳永吉醫師](https://taiwaneseamericanhistory.org/whos-who-122-yeongchi-wu/)

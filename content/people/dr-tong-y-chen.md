@@ -53,6 +53,7 @@ His material culture of the diaspora is itself a historical source: TAH encyclop
 ## From the record
 
 - 2018-03-14 — 於長青教室演講「摘下口罩，談麻醉醫師的角色」，心得報告（含影片）刊於台灣公義報「台美人台加人」分類（2018-03-21 刊登）（[[articles/taiwanjustice-net/2024/20240719125457_root_c691e327b9133c1a|TJJ tag 心得報告, 2024-07-19 存檔]]）。
+- 2018-03-21 — 該演講心得報告之文章頁存檔（2024-06-14 快照）另記其於文中舉吳永吉醫師為「普世醫學」典範，並附其「宅男手記部落格」linksound.wordpress.com 作為一手資料來源（[[articles/taiwanjustice-net/2024/20240614152841_root_14114a89e393f958|TJJ 文章頁, 2024-06-14 存檔]]）。
 
 ## Sources
 - [TAH #255 encyclopedia: 255. Dr. Tong Y. Chen 陳東榮醫師](https://taiwaneseamericanhistory.org/ota-255/)
