@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-18
+last_reviewed: 2026-09-19
 ---
 # Prof. Tao-Shih Shieh (謝道時教授)
 
@@ -38,7 +38,7 @@ Prof. Tao-Shih Shieh 謝道時教授 – History of Taiwanese American (T.A. Arc
 
 - Recorded in the TAH Foundation Who's Who as entry #1838 ([[works/taiwaneseamericanhistory-org/whos-who-1838-tao-shih-shieh|TAH #1838]], published 2017-08-13, band B essay/feature).
 - HOLD: conflict — Identity Snapshot era "1948-2016" implies death in 2016, but the Who's Who record [[works/taiwaneseamericanhistory-org/whos-who-1838-tao-shih-shieh|TAH #1838]] was published 2017-08-13; entry may be posthumous or the death year wrong. Not merged.
-- No other corpus hits in works/ or articles/ beyond the bibliographic record itself.
+- No other corpus hits in works/ or articles/ beyond the bibliographic record itself (re-checked 2026-09-19).
 
 
 ## Sources
