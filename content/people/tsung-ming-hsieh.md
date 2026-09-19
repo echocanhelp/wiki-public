@@ -35,6 +35,7 @@ _No filled family fields on the TAH profile._
 
 ## From the record
 
+- 2023-09-24 — 「台灣人民自救宣言」59週年，彭明敏文教基金會與台大研究生協會、台大學生會舉辦彭明敏教授紀念研討會；台大研究生協會會長黃種賢評謝聰敏等人当年的主張仍是當代台灣社會需共同面對的課題（[[articles/taiwanjustice-net/2024/20240221121609_root_92ff3ef6b0b74b9c|TJJ/CNA, 2023-09-24]]）。
 - 2011-11-18 — VOA interview report: missionary Milo Thornberry recalled that when he and wife 唐秋詩 arrived in Taiwan in 1965, 謝聰敏 — co-drafter with 彭明敏、魏廷朝 of the 台灣自救運動宣言 — was already imprisoned; via notes 謝聰敏 and 魏廷朝 smuggled out of prison the Thornberrys relayed the fate of disappeared political prisoners to their families and to Amnesty International ([[articles/taiwanjustice-net/2024/20240302035134_root_8842b0e0aad8032f|VOA via TJJ, 2011-11-23]]).
 - 2023-06-02 — An essay on post-war decolonization and Taiwan normalization recalls that on 1964-09-20 Hsieh, with 彭明敏 and 魏廷朝, issued the 「台灣人民自救宣言」 and was sentenced to eight years by the KMT government ([[articles/taiwanjustice-net/2024/20240225024511_root_2d725102f4e64118|TJJ, 2023-06-02]]).
 - 2023-06-02 — essay 「從二戰後全球去殖民化，到台灣國家正常化（下）」 records that on 1964-09-20 he and 魏廷朝 joined 彭明敏 in issuing the 「台灣人民自救宣言」, for which the Chiang government sentenced them to eight years; international pressure (incl. his McGill connection Dean Cohen) led to a presidential pardon though he remained under surveillance ([[articles/taiwanjustice-net/2023/20230923051922_2023_06_02_從二戰後全球去殖民化_到台灣國家正常化-_下_c251f8fc65ac83e0|TJJ, 2023-06-02]]; [[articles/taiwanjustice-net/2025/20250328131429_從二戰後全球去殖民化_到台灣國家正常化-_下_c03323d28f95e9ea|2025 archive]]).
