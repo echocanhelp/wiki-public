@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-18
+last_reviewed: 2026-09-19
 ---
 # Grace Lin (吳瑞惠)
 
@@ -31,6 +31,11 @@ last_reviewed: 2026-09-18
 - **Daughter:** 林致欣
 - **Son:** 林致真
 
+
+## Role in the Community
+
+- 2016-12 — 洛杉磯福爾摩沙聖樂團（Los Angeles Formosan Master Chorale）2016 聖誕音樂饗宴（12/04/2016，愛恩台福基督教會，Irvine, CA）三位聯絡人之一（與李勝年、張華美並列），刊載電話 949-783-6009、地址 17422 Armstrong Ave., Irvine, CA 92614（[[works/taiwaneseamericanhistory-org/concerts81|TAH concerts81, 2016-11-16]]）。此紀錄顯示其活動地為南加州 Irvine，與 Identity Snapshot 所載「台灣 台北」並存（HOLD: 未自動改寫，僅註記）。
+- Corpus disambiguation：同名的 Prof. Yuh-Huey Grace Lin 林玉惠（[[works/taiwaneseamericanhistory-org/whoswho1756|TAH #1756]]）、Chi-Ching Grace Lin 林季靜（[[works/taiwaneseamericanhistory-org/93-chi-ching-grace-lin-e6-9e-97-e5-ad-a3-e9-9d-9c-percussionist|TAH #93]]）、Grace Lin 林珮思（[[works/taiwaneseamericanhistory-org/whoswho987|TAH #987]]）及童靜梓(Grace Lin)（[[works/taiwaneseamericanhistory-org/ourjourneys85|TAH ourjourneys85]]）皆為不同人，非本頁。
 
 ## Sources
 - [TAH #613 encyclopedia: 613. Grace Lin 吳瑞惠 / 2015/09](https://taiwaneseamericanhistory.org/613-grace-lin-%e5%90%b3%e7%91%9e%e6%83%a0-201509/)

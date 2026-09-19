@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-17
+last_reviewed: 2026-09-19
 ---
 # Dr. John Tsuang (莊文宗醫師)
 
@@ -33,7 +33,7 @@ Clinical Professor; Director of the Dual Diagnosis Treatment Program
 
 ## Family
 
-- **Father:** 莊明哲
+- **Father:** 莊明哲 — [[people/ming-tsuang|Prof. Ming T. Tsuang 莊明哲教授]] (TAH #14 [[works/taiwaneseamericanhistory-org/pride-prof-ming-t-tsuang|TAH #14]], #82, #398, #16)
 - **Mother:** 柯惠香
 
 

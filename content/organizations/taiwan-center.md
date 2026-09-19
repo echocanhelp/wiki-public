@@ -65,6 +65,11 @@ From our own TAH corpus — the Center's footprint in the movement record:
 
 Official events: [[events/tc-event-groundbreaking-ceremony||動土典禮]] **3 May 2025**; [[events/tc-event-construction-progress-of-the-building||新館建館工程進度]] **5 Feb 2026**. Intro page lists 建館委員會 / 硬體規畫 / 募款 / 室內設計 committees. Do not invent budget, architect, or opening date.
 
+### TJJ corpus records
+
+- **2020-06-23 — 疫情期間服務紀錄.** Center closed but kept serving: first online event (2020-04-25 移民講座 with Career Taiwan USA Association, 董事 陳啟耕 lawyer speaker, >100 attendees), ~6,600 donated masks redistributed to 1,100+ 鄉親, face-shield donation to Whittier Hospital, and the 「會館文獻寶藏數位化方案」 archive-digitization program run by 執行長 林榮松 and 副董事長 蔡漢成 ([[articles/taiwanjustice-net/2020/20201126153300_2020_06_23_大洛杉磯台灣會館_疫情擋不住人情_濟困扶危挺_c05e2d53013fcd15|TJJ, 2020-06-23]]).
+- **2022-09-13 — 24週年募款年會預告.** Gala 2022-10-22 at Hilton San Gabriel, speaker 國策顧問 紀政; rebuilding-fund timeline (feasibility study 2019 → Ridgeway city approval 2021-07 → construction-bid stage 2022-09), >US$10M-equivalent 1,000萬 raised since 2018 with 60% received; founding credited to 王桂榮/王賽美's 1998 land-and-building donation and 吳澧培's chairmanship ([[articles/taiwanjustice-net/2022/20220924222953_2022_09_13_10-22大洛杉磯台灣會館-24-週年募款年會_紀政擔任主講_2a543ddc9301b7b3|TJJ, 2022-09-13]]).
+
 ## Mission (official four)
 
 From the same 簡介:
