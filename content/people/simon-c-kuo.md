@@ -30,6 +30,10 @@ last_reviewed: 2026-08-17
 - 聯合技術公司 — 1969-1983 — 熱工程經理兼輕量發動機研究負責人
 <!-- tah-tables:end -->
 
+## Role in the Community
+- Documented in the TAH Foundation Who's Who encyclopedia record [[works/taiwaneseamericanhistory-org/655-simon-c-kuo-e9-83-ad-e6-9c-9d-e5-85-83-201510|655. Simon C. Kuo 郭朝元 / 2015/10]] (published 2015-10-10).
+- Engineer/scientist from 台灣: 台大 B.S., 卡內基理工大學 Ph.D.（機械工程）; 技術董事兼總工程師 at CEMCOM Corporation; 熱工程經理兼輕量發動機研究負責人 at 聯合技術公司 (1969–1983).
+
 ## Family
 
 _No filled family fields on the TAH profile._

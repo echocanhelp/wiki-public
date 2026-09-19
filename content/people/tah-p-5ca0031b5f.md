@@ -27,6 +27,10 @@ last_reviewed: 2026-09-19
 - ABC Jewlry — Funder
 <!-- tah-tables:end -->
 
+## Role in the Community
+- Documented in the TAH Foundation Who's Who encyclopedia record [[works/taiwaneseamericanhistory-org/whoswho596|596. 莊林素芳 / 2015/09]] (published 2015-09-08).
+- Entrepreneur from 台南麻豆: founder of ABC Jewelry; educated at 台南第二高女.
+
 ## Family
 
 - **Husband:** 莊剛健

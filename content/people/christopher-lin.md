@@ -28,6 +28,10 @@ last_reviewed: 2026-09-19
 - 台灣人公共事務會華府總部 — 2012-present
 <!-- tah-tables:end -->
 
+## Role in the Community
+- Documented in the TAH Foundation Who's Who encyclopedia record [[works/taiwaneseamericanhistory-org/whoswho1436|1436. Christopher Lin 林楷夫 / 2016/12]] (published 2016-12-18).
+- Community service record: 台灣人公共事務會華府總部 (NATLA Washington DC headquarters) member since 2012; B.S. 應用外語, 元智大學.
+
 ## Family
 
 _No filled family fields on the TAH profile._
