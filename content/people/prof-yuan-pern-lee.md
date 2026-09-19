@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-18
+last_reviewed: 2026-09-19
 ---
 # Prof. Yuan-Pern Lee (李遠鵬教授)
 
@@ -40,7 +40,7 @@ _No filled family fields on the TAH profile._
 
 ## Role in the Community
 - Encyclopedia record: [[works/taiwaneseamericanhistory-org/whos-who-1859-yuan-pern-lee|TAH #1859, 08/2017]] — the only corpus mention in works/articles besides index listings.
-- Corpus re-grep 2026-09-18: no memoir or community-activity mentions beyond the record above; nothing absorbable this pass — SKIP-content, no conflicts found.
+- Corpus re-grep 2026-09-19: no memoir or community-activity mentions beyond the record above; nothing absorbable this pass — SKIP-content, no conflicts found.
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

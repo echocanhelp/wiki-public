@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-18
+last_reviewed: 2026-09-19
 ---
 # Prof. W.S. Winston Ho (何文壽教授)
 
@@ -36,7 +36,7 @@ _No filled family fields on the TAH profile._
 
 ## Deepen note
 
-SKIP (2026-09-17, re-verified 2026-09-18): corpus re-grep returns only his own TAH encyclopedia record [[works/taiwaneseamericanhistory-org/whos-who-2036-w-s-ho|2036. Prof. W.S. (Winston) Ho 何文壽教授]] and the works index — no memoir/community material to absorb beyond the press-kit bio already carried here.
+SKIP (2026-09-17, re-verified 2026-09-19): corpus re-grep returns only his own TAH encyclopedia record [[works/taiwaneseamericanhistory-org/whos-who-2036-w-s-ho|2036. Prof. W.S. (Winston) Ho 何文壽教授]] and the works index — no memoir/community material to absorb beyond the press-kit bio already carried here.
 
 ## Sources
 - [TAH #2036 encyclopedia: 2036. Prof. W.S. (Winston) Ho 何文壽教授](https://taiwaneseamericanhistory.org/whos-who-2036-w-s-ho/)
