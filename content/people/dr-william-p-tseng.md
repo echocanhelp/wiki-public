@@ -38,6 +38,7 @@ Dr. William P. Tseng 曾伯聰醫師 – History of Taiwanese American (T.A. Arc
 ## Corpus review（slice 09170200-32）
 
 - 2026-09-17 語料複核：grep（曾伯聰／William P. Tseng，works+articles）命中僅本身出處頁 [[works/taiwaneseamericanhistory-org/whos-who-1862-william-p-tseng|TAH #1862]] 與 works index；無回憶錄或文章提及。SKIP-with-reason：無可吸收新事實，無衝突須 HOLD。
+- 2026-09-19 再grep：命中仍僅 [[works/taiwaneseamericanhistory-org/whos-who-1862-william-p-tseng|TAH #1862]] 與 works index，無回憶錄或文章提及，無可吸收新事實。SKIP-content。
 - 辨析備註：[[works/taiwaneseamericanhistory-org/ourjourneys-138|Our Journeys 138]] 巴爾的摩回憶錄中的「曾伯元」（醫師）與本頁「曾伯聰」漢字不同，非同一人，不予吸收。
 
 ## Sources
