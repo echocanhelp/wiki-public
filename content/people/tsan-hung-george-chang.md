@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-14
+last_reviewed: 2026-09-19
 ---
 # Tsan-hung George Chang (張燦鍙教授)
 
@@ -68,6 +68,10 @@ Tsan-hung George Chang 張燦鍙 – History of Taiwanese American (T.A. Archive
 - 《台灣公論報》founding era: in 張月英's oral history he quipped that even he was told 《台獨月刊》「拿去廁所看還看不下去」, prompting the movement to publish an easier-to-read paper, and he proposed a 「三日刊」 cadence for it: [[works/taiwaneseamericanhistory-org/ourjourneys49|Our Journeys #49 — 《台灣公論報》創刊]].
 - The KMT prosecution in the 美麗島/Kaohsiung Incident named him a 「暴力分子」 whose alleged work-funds ($5,000 carried by Rev. 張瑞雄 to 姚嘉文) were branded WUFI donations — regime-side evidence of his WUFI fundraising reach: [[works/taiwaneseamericanhistory-org/our-journeys-350|Our Journeys #350 — 舊金山灣區台灣基督教會史料]].
 - Memorialized alongside 林永生 and 王康陸 in the community's remembrance of 王康陸: [[works/taiwaneseamericanhistory-org/ourjourneys302|Our Journeys #302 — 台美人沒有忘記王康陸]].
+
+## From the record
+
+- 2017-09-19 — 廖清山's memoir「一顆難以忘懷的台灣心」recalls 張燦鍙 and 賴文雄 coming to him in San Francisco during their 自由長征 cross-country activity, leaving promotional materials (《台灣青年》等) and recruiting him into the work — the start of a fifty-year 莫逆 friendship in which 廖 handled the grassroots chores and 張 brought him hard problems to discuss; the column also records the movement's outreach to figures like Senator Edward Kennedy and Rep. Solarz ([[articles/taiwanjustice-net/2024/20240301071009_root_cbf185d4e8137928|TJJ column, 2017-09-19]]).
 
 ## Sources
 - [TAH #56 encyclopedia: 56. Professor George Chang 張燦鍙教授 / The longest president of World United Formosa](https://taiwaneseamericanhistory.org/56-professor-george-chang-the-longest-president-of-world-united-formosans/)
