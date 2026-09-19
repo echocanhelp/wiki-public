@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-19
 ---
 # Tien-Chen Lin (林天成)
 
@@ -31,6 +31,9 @@ last_reviewed: 2026-08-17
 ## Family
 
 _No filled family fields on the TAH profile._
+
+## Role in the Community
+The corpus holds his dedicated TAH encyclopedia record #1944 (published 2017-11-14) as the primary community record: [[works/taiwaneseamericanhistory-org/tien-chen-lin|1944. Tien-Chen Lin 林天成 /11/2017]]. His documented community role in the corpus is pastoral leadership of the Taiwanese Christian Church of Columbus, Ohio (2007–present). The corpus record is bibliographic (full text stays at TAH); no additional movement-activity appearances were found.
 
 ## Sources
 - [TAH #1944 encyclopedia: 1944. Tien-Chen Lin 林天成 /11/2017](https://taiwaneseamericanhistory.org/tien-chen-lin/)

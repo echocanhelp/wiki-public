@@ -28,6 +28,10 @@ last_reviewed: 2026-09-19
 - MacKay Memorial Hospital — Physician — Framingham Union Hospital — Physician — Boston University Medical Center — Physician
 <!-- tah-tables:end -->
 
+## Role in the Community
+
+- 記錄於 TAH Foundation 故事庫人物檔案：[[works/taiwaneseamericanhistory-org/whos-who-1628-s-h-lee|TAH #1628 Dr. S. H. Lee 李舜豪醫師 (2017/05)]]。除此之外，語料庫（works/articles）中暫無其他記載其社區活動的紀錄。
+
 ## Family
 
 _No filled family fields on the TAH profile._

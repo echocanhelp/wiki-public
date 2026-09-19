@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-19
 ---
 # Howard Shu (舒之顥)
 
@@ -32,6 +32,10 @@ last_reviewed: 2026-08-17
 
 - **Father:** 舒快 Mother : 徐秀艷
 
+
+## Role in the Community
+- Recognized by the community as the first Taiwanese American to compete on the U.S. Olympic team — badminton, Rio 2016 — recorded in the TAH encyclopedia [[works/taiwaneseamericanhistory-org/ff301|301. Howard Shu / First T.A. in U.S. Olympic Team]] and [[works/taiwaneseamericanhistory-org/whos1248-howard-shu|1248. Howard Shu 舒之顥 / 2016-08]].
+- Family note in the corpus: son of 舒快 and 徐秀艷 (already reflected above; no conflict).
 
 ## Sources
 - [TAH #301 encyclopedia: 301. Howard Shu 舒之顥 / First T.A. in U.S. Olympic Team / Badminton, Rio, Brazil  ](https://taiwaneseamericanhistory.org/ff301/)

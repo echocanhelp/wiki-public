@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-19
 ---
 # Ching-Nan Ou (歐清南)
 
@@ -34,6 +34,16 @@ last_reviewed: 2026-08-17
 
 - **Wife:** 曾素雲
 
+
+## Role in the Community
+
+From the Houston movement record ([[works/taiwaneseamericanhistory-org/ourjourneys233|Our Journeys 233 — 台灣人傳統基金會建館史]]):
+
+- 活動組成員 of the 台灣人傳統基金會 (Taiwanese Heritage Society of Houston) building campaign.
+- 1988-02-13 同鄉會年會：義賣建館彩券收入一萬二千元，歐清南大力推銷。
+- 會館（7250 Harwin）大廳音響設備由林秋成、歐清南、葉國勢負責。
+
+His own memoir/record is held at [[works/taiwaneseamericanhistory-org/816-ching-nan-ou-201602|816. Ching-Nan Ou 歐清南 / 2016-02]] (English version: [[works/taiwaneseamericanhistory-org/ourjourneys233-eng|Our Journeys 233 (EN)]]).
 
 ## Sources
 - [TAH #816 encyclopedia: 816. Ching-Nan Ou 歐清南 / 2016/02](https://taiwaneseamericanhistory.org/816-ching-nan-ou-201602/)
