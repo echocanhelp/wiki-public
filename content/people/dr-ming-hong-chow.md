@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-15
+last_reviewed: 2026-09-19
 ---
 # Dr. Ming Hong Chow (周明宏博士)
 
@@ -44,6 +44,10 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+## From the record
+
+- 2017-07 — 楊遠薰報導《2017年美東台灣人夏令會》：以 TAC/EC 代理理事長身份與召集人簡明子於 7/2 致歡迎詞揭幕、7/4 將會旗交與 2018 年理事長翁進治與召集人謝己（全文詳上「Role in the Community」；同文 2024-05 存檔副本同）—— [[articles/taiwanjustice-net/2021/20211205054150_2017_07_10_2017年美東台灣人夏令會-_-楊遠薰-報導-2017-07-09_29faf54b8c9e2d10|楊遠薰報導（2017-07-09）]]。
 
 ## Vault records（deepen pass 2026-09-11）
 - 本页传记之 TAH 出处页：[[works/taiwaneseamericanhistory-org/140-2||TAH #140 Dr. Ming Hong Chow 周明宏博士]]、[[works/taiwaneseamericanhistory-org/whos-who-589-ming-hong-chow||TAH #589 Dr. Ming Hong Chow 周明宏博士]]。
