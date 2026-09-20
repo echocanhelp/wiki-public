@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-19
+last_reviewed: 2026-09-20
 ---
 # Prof. Chao Yuan Huang (黃昭淵教授)
 
@@ -44,6 +44,7 @@ _No filled family fields on the TAH profile._
 From the community corpus (memoirs outrank the press-kit profile):
 
 - **NATPA 克城分會 co-founder (1986-10-01):** When the DPP was founded, 周烒明 — having just stepped down as NATMA 總會會長 — discussed with 洪明勳 and 黃昭淵 how overseas Taiwanese associations should coordinate to push Taiwan's democratization. Taking the occasion of Prof. 林宗光's visit, they founded the NATPA State College (克城) chapter at 周烒明's home on 1986-10-01; of the 15 founding professors, 5 were physicians interested in basic medicine or medical research. Source: [[works/taiwaneseamericanhistory-org/ourjourneys74|Our Journeys 74]].
+- **1988-07-16 medical seminar:** With 周烒明 as convenor, NATMA and NATPA co-hosted 「現代醫學的尖鋒」(The Cutting Edge of Modern Medicine) at Michigan State University, East Lansing — 8 professors on basic-medicine topics (bone-marrow transplant, blood cell growth factors, prostanoids, colon-cancer experiments, molecular/electronic biomedicine, STD molecular diagnostics, AIDS), followed by discussion of bringing high-tech diagnostics back to Taiwan. Source: [[works/taiwaneseamericanhistory-org/ourjourneys74|Our Journeys 74]] / [[works/taiwaneseamericanhistory-org/ourjourneys74-eng|EN]].
 - **NATPA 會長:** Listed among the leadership talent produced by the North California Taiwanese American community: 北美台灣人教授會會長 — 黃昭淵、林武男 (North American Taiwanese Professors' Association president). Source: [[works/taiwaneseamericanhistory-org/ourjourneys37|Our Journeys 37]].
 - Community profile record: [[works/taiwaneseamericanhistory-org/623-e9-bb-83-e6-98-ad-e6-b7-b5-201509|623. Prof. Chao Yuan Huang / 2015-09]].
 
