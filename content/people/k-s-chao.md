@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-20
 ---
 # K. S. Chao (趙坤山)
 
@@ -41,5 +41,6 @@ _No filled family fields on the TAH profile._
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/k-s-chao/)
 
 ## Related Pages
+- [[works/taiwaneseamericanhistory-org/whoswho1195|1195. K. S. Chao 趙坤山 / 2016/07]] — own record in the TAH story corpus (deepen-x 09180900-30: only corpus hit; bibliographic, no memoir facts to absorb)
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

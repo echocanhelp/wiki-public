@@ -41,6 +41,8 @@ last_reviewed: 2026-09-18
 - [TAH #606 encyclopedia: 606. Cheng-Ming Chuong 鍾正明 / 2015/09](https://taiwaneseamericanhistory.org/whoswho606/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/cheng-ming-chuong/)
 
+<!-- deepen-x 09180900-30: SKIP — corpus grep '鍾正明'/'Cheng-Ming Chuong' hits only own record [[works/taiwaneseamericanhistory-org/whoswho606|TAH #606]] (bibliographic, already linked). No memoir/community facts to absorb. -->
+
 ## Related Pages
 - [[works/taiwaneseamericanhistory-org/whoswho606|606. Cheng-Ming Chuong 鍾正明 / 2015/09]] — own record in the TAH story corpus (bibliographic; no memoir hits in corpus)
 - [[organizations/tah-foundation||TAH Foundation]]
