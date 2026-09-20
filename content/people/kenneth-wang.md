@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-19
+last_reviewed: 2026-09-20
 ---
 # Kenneth Wang (王克雄博士)
 
@@ -58,3 +58,4 @@ last_reviewed: 2026-09-19
 - Corpus profiles: [[works/taiwaneseamericanhistory-org/whos-dr-kenneth-wang|Who's: Dr. Kenneth Wang]] (2016-07-10) and the 228 essay collection entry [[works/taiwaneseamericanhistory-org/mystories409|409. 228辛酸血淚… –王克雄博士 / 黃樹人]].
 - Note: [[works/taiwaneseamericanhistory-org/whos-who-1694-kenneth-wang|1694. Kenneth Wang 王文宏]] is a different Kenneth Wang (王文宏) — do not merge. The 2016-07 傳記頁 hit surfaced by corpus grep is [[works/taiwaneseamericanhistory-org/whos-dr-kenneth-wang|1127. Kenneth Wang 王克雄 / 2016/07]] — already covered above.
 - Corpus grep (re-run 2026-09-19): hit-set unchanged vs prior absorption; no new community facts found.
+- Corpus grep (re-run 2026-09-20): 王克雄 / Kenneth Wang hit set unchanged (publications1095, mystories409, ourjourneys213, ourjourneys192, whos-dr-kenneth-wang; whos-who-1694 remains a different Kenneth Wang 王文宏) — all already absorbed; SKIP new material.
