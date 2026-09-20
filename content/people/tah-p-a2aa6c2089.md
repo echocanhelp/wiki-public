@@ -6,7 +6,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-20
 ---
 # 李泰雄筆名
 
@@ -28,6 +28,12 @@ last_reviewed: 2026-08-17
 - Univ. of Kentucky College of Medicine — Professor
 - UCLA — Professor
 <!-- tah-tables:end -->
+
+## Role in the Community
+
+- Wrote political commentary under the pen name **南鄉泰**. The TAH publications corpus preserves his essay 《李登輝，我受不了》 (1997/09, Politics/政治) attributed to 「南鄉泰 (李泰雄)」 ([[works/taiwaneseamericanhistory-org/publications65|65. 李登輝，我受不了 / 南鄉泰 (李泰雄) / 1997/09]]).
+- His own TAH record is archived in the corpus at [[works/taiwaneseamericanhistory-org/362-e6-9d-8e-e6-b3-b0-e9-9b-84-201504|362. 李泰雄 / 2015/04]].
+- HOLD: this page's title field reads 「李泰雄筆名」 while the corpus attributes 南鄉泰 as the pen name of 李泰雄 (i.e. 李泰雄 appears to be the real name) — relationship of the name forms held for owner confirmation, not auto-merged.
 
 ## Family
 
