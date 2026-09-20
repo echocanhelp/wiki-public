@@ -30,10 +30,14 @@ last_reviewed: 2026-09-20
 - **Wife:** 陳美智
 
 
+## Role in the Community
+- Profiled in the TAH Foundation Who's Who story corpus: [[works/taiwaneseamericanhistory-org/whoswho1139|1139. Lucas Chen 陳薰洋／2016/07]]. The corpus record is bibliographic only — full text stays in the TAH vault, so no further biography is absorbed.
+
 ## Sources
 - [TAH #1139 encyclopedia: 1139. Lucas Chen 陳薰洋／2016/07](https://taiwaneseamericanhistory.org/whoswho1139/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/lucas-chen/)
 
 ## Related Pages
+- [[works/taiwaneseamericanhistory-org/whoswho1139|1139. Lucas Chen 陳薰洋／2016/07]]
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
