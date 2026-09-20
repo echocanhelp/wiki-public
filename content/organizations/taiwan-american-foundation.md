@@ -7,7 +7,7 @@ tags:
   - philanthropy
   - awards
 verification_status: published
-last_reviewed: 2026-09-18
+last_reviewed: 2026-09-20
 
 ---
 # Taiwanese American Foundation (TAF)
@@ -31,6 +31,8 @@ In 1982, Wang Gui-rong donated $1 million to establish the TAF. From 1983 onward
 ## Name collision
 
 A different organization of the same English name — Taiwanese American Foundation 台灣人協進會 (通稱 TAF), formed in 1980 from the Midwest Formosan Christian Foundation (MFCF, est. 1973) to run Taiwanese-American youth camps — appears in the corpus (楊遠薰 TAF history: [[articles/taiwanjustice-net/2021/20211205041636_2021_06_22_卓甫良與taf的故事-_-楊遠薰_f06677a469620539|TJJ 2021-06-22]]); its founding officers include [[people/ming-tsuang|莊明哲]] (founding president) and [[people/william-cho|卓甫良]]. This awards foundation (王桂榮, 1982) is a separate body.
+
+Further "TAF" acronyms in the corpus are also distinct bodies: **TAFNC** 北加州臺灣同鄉聯合會 — the Northern California federation of Taiwanese associations, whose English name became "Taiwanese American Federation of Northern California" in 2003 ([[works/taiwaneseamericanhistory-org/our-journeys-350|TAH #350]]); it held a 228 Memorial Concert in 2019 ([[works/taiwaneseamericanhistory-org/tafnc228-2019|北加州臺灣同鄉聯合會TAFNC 二二八紀念音樂會/2019]]). **TAFSD** is the corresponding San Diego body — its president Prof. Kun-Mu Chen co-hosted the grand opening of the Taiwanese American Community Center of San Diego ([[works/taiwaneseamericanhistory-org/ourjourneys162-eng|Our Journeys 162 (EN)]]).
 
 HOLD: corpus records titled "台美協進會" — [[works/taiwaneseamericanhistory-org/taf-summer-conference|7. Taiwanese American Foundation Summer Camp 台美協進會 家庭、青少年夏令營]] (2015) and [[works/taiwaneseamericanhistory-org/miss-taiwanese-american-foundation|2. Miss Taiwanese American Foundation 台美小姐選拔基金會]] (2014) — link this page as a subject, but their 台美協進會 usage may denote the youth-camp body rather than this awards foundation; attribution unreconciled.
 
