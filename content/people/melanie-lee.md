@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-18
+last_reviewed: 2026-09-20
 ---
 # Melanie Lee (李玫蘭)
 
@@ -44,6 +44,7 @@ Accomplishment
 - 再複核（slices 09160600-24、09160700-19、09162138-16、09162200-14，2026-09-16）：命中同前（#211／#1880／#337／person record + works index），全部已連結；均為 band-B 書目紀錄，無可吸收之新社區事實。SKIP-with-reason。
 - 再複核（slices 09170130-13、09170500-10，2026-09-17）：命中同前（#211／#1880／#337／person record + works index），全部已連結；均為 band-B 書目紀錄，無可吸收之新社區事實。SKIP。
 - 再複核（slice 09180131-13，2026-09-18）：命中同前（52913／#1880／person record／#337 + works index），全部已連結，無新增材料。SKIP。
+- 再複核（slice 09181500-11，2026-09-20）：命中同前（52913／#1880／person record／#337 + works index），全部已連結，均為 band-B 書目紀錄，無新增可吸收材料。SKIP。
 
 ## Sources
 - [TAH #211 encyclopedia: 211. Melanie Lynn Lee 李玫蘭](https://taiwaneseamericanhistory.org/211/)
