@@ -35,6 +35,8 @@ From TAH community records and memoirs (primary material):
 - **1985 movement roster.** Named among overseas Taiwanese community figures in a 台灣公論報 list of 1985-04-15 (record compiled from 台灣公論報 #369) ([[works/taiwaneseamericanhistory-org/ourjourneys186|Our Journeys 186]]).
 - **Posthumous memoir.** A community biographical sketch 故人歷略 – 蔡銘祿先生 was written by 蔡宗立 and published 2015/11 ([[works/taiwaneseamericanhistory-org/363-e6-95-85-e4-ba-ba-e6-ad-b7-e7-95-a5-e8-94-a1-e9-8a-98-e7-a5-bf-e5-85-88-e7-9|TAH #363]]).
 
+- Corpus check 2026-09-20 (slice 09181500-15): re-grepped content/works + content/articles — hit set identical to the records already wikilinked above; no new absorbable material.
+
 ## Family
 
 - **Wife:** 張金庚
