@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-18
+last_reviewed: 2026-09-20
 ---
 # Sheng-Yuan Kuan (官聖媛)
 
@@ -32,6 +32,7 @@ _No filled family fields on the TAH profile._
 
 ## Role in the Community
 - Featured in the TAH story corpus twice as a concert pianist: [[works/taiwaneseamericanhistory-org/31-sheng-yuan-kuan-e5-ae-98-e8-81-96-e5-aa-9b-piano|31. Sheng-Yuan Kuan 官聖媛, Pianist]] (2014-10-11) and [[works/taiwaneseamericanhistory-org/15125|446. Sheng-Yuan Kuan 官聖媛 / 2015-06]].
+- Featured again on 2015-06-14 in the same TAH encyclopedia batch as [[works/taiwaneseamericanhistory-org/445-peter-lee-e6-9d-8e-e6-96-87-e6-99-ba-201506|445. Peter Lee 李文智]] and [[works/taiwaneseamericanhistory-org/15109|444. Chih-Long Hu 胡志龍]].
 - Records are bibliographic in the vault; no further community-record detail to absorb, no conflicts found.
 
 ## Sources

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-18
+last_reviewed: 2026-09-20
 ---
 # George Hsu (許啟勇)
 
@@ -37,7 +37,7 @@ _No filled family fields on the TAH profile._
 
 ## Role in the Community
 - **TAH community record.** His TAH Who's Who encyclopedia entry (#1201, 2016-07-30) is held in the story corpus as [[works/taiwaneseamericanhistory-org/whoswho1201|1201. George Hsu 許啟勇 /2016/07]] — a band B bibliographic record; the full biography text stays in the source archive, so no further corpus facts are absorbable in-vault at this time.
-- 2026-09-18 deepen-x pass found no other corpus mentions in works/ or articles/ (no memoir, no organizational roles recorded in the corpus).
+- 2026-09-18 deepen-x pass and the 2026-09-20 re-scan both found no other corpus mentions in works/ or articles/ beyond the auto-generated index listing (no memoir, no organizational roles recorded in the corpus). SKIP: nothing absorbable in-vault beyond the band B record above.
 
 ## Sources
 - [TAH #1201 encyclopedia: 1201. George Hsu 許啟勇 /2016/07](https://taiwaneseamericanhistory.org/whoswho1201/)

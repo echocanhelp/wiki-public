@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-18
+last_reviewed: 2026-09-20
 ---
 # Taiwanese Association of America Delaware (德拉瓦州)
 
@@ -20,6 +20,7 @@ The Taiwanese Association of America Delaware (德拉瓦州 台灣同鄉會) is 
 
 ## Role in the Community
 
+- **Early scale of the community:** the first 《全美台灣同鄉通訊錄》 (compiled by 陳希寬's recollection) recorded only 8 Taiwanese students in Delaware — among the thinnest contingents in the survey (most states had dozens to hundreds) — which mirrors the chapter's modest size — [[works/taiwaneseamericanhistory-org/ourjourneys58|58. 回憶編印第一本《全美台灣同鄉通訊錄》的甘苦經過 / 陳希寬]].
 - The chapter is held as a community historical record in the TAH story corpus: [[works/taiwaneseamericanhistory-org/delaware-chapter-taa|Delaware Chapter / TAA 全美台灣同鄉會德拉瓦分會]] (record dated 2015-12-16).
 - The Delaware Taiwanese American community it sits in also supports mother-tongue education: the Taiwanese School in Delaware is documented at [[works/taiwaneseamericanhistory-org/10-taiwanese-school-in-delaware|10. 德拉瓦台灣學校 Taiwanese School in Delaware]] (2016-04-04).
 - A parallel civic-advocacy chapter exists in the same state: FAPA Delaware ([[works/taiwaneseamericanhistory-org/13-delaware-chapter-fapa|13. Delaware Chapter / FAPA 台灣人公共事務會德拉瓦分會]], 2015-12-20).
