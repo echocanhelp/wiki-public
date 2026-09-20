@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-20
 ---
 # Joe Chou (周景聲)
 
@@ -34,8 +34,12 @@ last_reviewed: 2026-08-17
 - **Wife:** 陳秀娥
 
 
+## Community Record
+Corpus sweep (2026-09-20): appears in the TA.org Who's Who corpus twice — [[works/taiwaneseamericanhistory-org/whoswho1020-2|1020. Joe Chou 周景聲 / 2016/05]] and a second 2016/11 entry [[works/taiwaneseamericanhistory-org/whoswho1360|1360. Joe Chou / 2016/11]]. Both are bibliographic records; no memoir/letter mentions found in works/articles beyond his own entries, so no biographical deepening this pass.
+
 ## Sources
 - [TAH #1020 encyclopedia: 1020. Joe Chou 周景聲 / 2016/05](https://taiwaneseamericanhistory.org/whoswho1020-2/)
+- [TAH Who's Who 2016/11 entry: 1360. Joe Chou](https://taiwaneseamericanhistory.org/whoswho1360/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/joe-chou/)
 
 ## Related Pages
