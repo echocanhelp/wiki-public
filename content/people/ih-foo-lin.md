@@ -45,6 +45,7 @@ Staff Psychiatrist, Director
 - Consistent with his TAH profile roles: 會長 of the Cleveland Taiwanese Physicians Association, 秘書 of the FAPA Cleveland chapter, and 會長 of the Chicago Taiwanese Association — his 1983 chairmanship is confirmed in the successive-presidents roster (歷屆芝加哥台灣同鄉會會長: 1981 許辰昭, 1982 林宣繼, 1983 林毅夫, 1984 周茂寅, 1985 鄭天助) in [[works/taiwaneseamericanhistory-org/our-journeys-378|Our Journeys #378]].
 - Author of community writings preserved in the corpus: [[works/taiwaneseamericanhistory-org/203-dr-ih-foo-lin|TAH #203 — 台灣人受虐性格的心理分析 (2003-08)]] (a psychiatrist's self-examination of Taiwanese identity) and [[works/taiwaneseamericanhistory-org/307-e9-b4-a8-e6-af-8d-e7-8e-8b-e5-8f-b0-e7-81-a3-e4-ba-ba-e7-bf-bb-e8-ba-ab-e8-8|TAH #307 — 鴨母王：台灣人翻身自主的願力與掙扎]].
 - Bibliographic record: [[works/taiwaneseamericanhistory-org/35-0|TAH #35 — Ih Foo Lin 林毅夫 (2014-10-04)]].
+- Appears in a photograph in the community photo-remembrance [[works/taiwaneseamericanhistory-org/ourjourneys33-eng|Our Journeys #33 (ENG)]] (captioned "Dr. Geh-fu LIN and his wife") among early-TAF-era Cleveland Taiwanese American community figures (Dr. Sidney Chang, Dr. Tien C. Cheng 鄭天助, May Cheng 鄭美津) — corroborating his presence in the same Midwest movement circle that founded the Cleveland Taiwanese Medical Association and the North American Taiwanese Medical Association.
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/ih-foo-lin/)

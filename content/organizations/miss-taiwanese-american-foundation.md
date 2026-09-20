@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-18
+last_reviewed: 2026-09-20
 ---
 # Miss Taiwanese American Foundation (台美小姐選拔基金會)
 
@@ -28,6 +28,8 @@ The Miss Taiwanese American (MTA) Pageant is an annual competition held by the T
 - 2023-11 — an MTA queen, 張芳瑜, went on to win the 美國亞裔小姐 (Miss Asian America) crown — [[works/taiwaneseamericanhistory-org/my-stories-889|889. 台美小姐皇后 張芳瑜摘美國亞裔小姐后冠]].
 
 Corpus re-grep (台美小姐 / Miss Taiwanese American, slice 09180131-27, 2026-09-18): hit set = directory record #2 + magazine pageant records 744 (2010)、745 (2012) + 2016 pageant #7 + calendar #1256 + story #889, all now linked above; no other corpus material.
+
+Corpus re-grep (台美小姐 / Miss Taiwanese American, slice 09190130-4, 2026-09-20): hit set unchanged (directory #2, magazine 744/745, pageant #7, calendar #1256, story #889) — SKIP, 無新材料。
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/miss-taiwanese-american-foundation/)

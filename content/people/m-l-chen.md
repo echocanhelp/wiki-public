@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-18
+last_reviewed: 2026-09-20
 ---
 # M. L. Chen (陳夢蘭)
 
@@ -49,6 +49,8 @@ HOLD: TAH #1031 profile lists wife 陳石溫愛; memoirs identify sons 陳銓仁
 - **Daughter:** 陳松美
 - **Daughter:** 陳悰美
 
+
+複核（deepen-x slice-09190130-4, 2026-09-20）：re-grep 陳夢蘭（content/works + content/articles）hit set identical to the records already absorbed above (ourjourneys50, our-journeys-350, ourjourneys244, ourjourneys54, whoswho1031, harvest index) — SKIP, 無新回憶錄/社群材料可吸收。
 
 ## Sources
 - [TAH #1031 encyclopedia: 1031. M. L. Chen 陳夢蘭 / 2016/05](https://taiwaneseamericanhistory.org/whoswho1031/)
