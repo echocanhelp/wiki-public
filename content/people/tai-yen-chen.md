@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-20
 ---
 # Tai-Yen Chen
 
@@ -28,6 +28,12 @@ last_reviewed: 2026-08-17
 ## Employment
 - Univ. of Houston — Assistant Professor of Chemistry — (2016-)
 <!-- tah-tables:end -->
+
+## Role in the Community
+
+Corpus sweep of works/articles found only his own TAH Who's Who entry — no memoir or movement material in the community record beyond the press-kit profile. Physical chemistry researcher (NTHU B.S./M.S. → Texas A&M Ph.D. 2010), University of Houston chemistry faculty from 2016.
+
+- [[works/taiwaneseamericanhistory-org/whos-who-2209-tai-yen-chen|2209. Tai-Yen Chen]] — TAH Who's Who record, 2019-07-04 (band B)
 
 ## Family
 

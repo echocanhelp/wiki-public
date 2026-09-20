@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-20
 ---
 # Eric Wei (魏安仁)
 
@@ -27,6 +27,10 @@ last_reviewed: 2026-08-17
 ## Employment
 - USA — Programmer — Taiwan — Teaching English
 <!-- tah-tables:end -->
+
+## Role in the Community
+
+- Own TAH encyclopedia record preserved in the corpus: [[works/taiwaneseamericanhistory-org/whos-who-1882-eric-wei|1882. Eric Wei 魏安仁]] (published 2017-09-07). This is the sole corpus mention — a bibliographic record only, with no memoir or article material beyond the Who's Who entry.
 
 ## Family
 

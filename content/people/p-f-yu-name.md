@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-20
 ---
 # P. F. Yu Name (喻鵬飛)
 
@@ -25,6 +25,10 @@ last_reviewed: 2026-08-17
 - 台灣大學 — B.S. 電機
 - 加州大學洛杉磯分校 — M.S. 電機
 <!-- tah-tables:end -->
+
+## Role in the Community
+
+- Own TAH encyclopedia record preserved in the corpus: [[works/taiwaneseamericanhistory-org/whoswho948|949. P. F. Yu Name 喻鵬飛]] (published 2016-04-24). This is the sole corpus mention — no memoir or article material beyond the Who's Who entry.
 
 ## Family
 

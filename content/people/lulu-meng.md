@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-20
 ---
 # Lulu Meng (孟祥璐)
 
@@ -28,6 +28,10 @@ last_reviewed: 2026-08-17
 ## Employment
 - artist
 <!-- tah-tables:end -->
+
+## Role in the Community
+
+- Two TAH encyclopedia records preserved in the corpus: [[works/taiwaneseamericanhistory-org/whos-who-1816-lulu-meng|1816. LuLu Meng 孟祥璐]] (published 2017-08-06) and the earlier entry [[works/taiwaneseamericanhistory-org/whoswho1589|1589. Lulu Meng]] (published 2017-03-29). Both are bibliographic records only — no memoir or article material beyond the Who's Who entries.
 
 ## Family
 
