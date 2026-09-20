@@ -34,6 +34,12 @@ last_reviewed: 2026-09-20
 
 _No filled family fields on the TAH profile._
 
+## Role in the Community
+- 2014-09-05 —profiled in the Taiwanese American story corpus as a傑出律師 Super Lawyer: [[works/taiwaneseamericanhistory-org/mystories53|53. 傑出律師 Super Lawyer Patricia Chen]](byline 林慧).
+- 2014-10-04 —her own biography entered into the TAH Who's Who corpus: [[works/taiwaneseamericanhistory-org/40-patricia-j-chen|40. Patricia J. Chen]].
+- Career record on this page: lawyer; CA State Bar Environmental Section Executive Committee Member (2004-2007) & Adviser (2007-2014).
+- HOLD: possible name collision — [[works/taiwaneseamericanhistory-org/615-self-help-acu-hematite-therapypatricia-chen-fu-mei-wu2014-literature-e6-96-8|615. Self-Help Acu-Hematite Therapy]] lists author "Patricia Chen" (with Fu-mei Wu); no evidence yet that this is the same Patricia J. Chen. Not merged.
+
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/patricia-j-chen/)
 

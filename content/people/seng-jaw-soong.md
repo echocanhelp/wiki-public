@@ -43,6 +43,9 @@ _No filled family fields on the TAH profile._
 ## Timeline
 - 2017-01-24 — TAH story-corpus encyclopedia entry #1482 published
 
+## Worklog
+- 2026-09-20 deepen-x slice 09180600-12: re-verified — corpus grep for 宋盛照/Seng-Jaw returns only his own TAH record #1482 (already wikilinked above) plus the works index. No memoir or article mentions found; nothing further absorbable without inventing biography.
+
 ## Sources
 - [TAH #1482 encyclopedia: 1482. Seng-Jaw Soong 宋盛照 / 2017/01](https://taiwaneseamericanhistory.org/whoswho1482/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/seng-jaw-soong/)

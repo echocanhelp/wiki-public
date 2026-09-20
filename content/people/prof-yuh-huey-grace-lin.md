@@ -35,6 +35,9 @@ _No filled family fields on the TAH profile._
 - 2017-07 — two TAH encyclopedia records document her dual role: educator / TA-Archives contributor [[works/taiwaneseamericanhistory-org/whoswho1756|TAH record #1756]] and guzheng musician [[works/taiwaneseamericanhistory-org/musician413|TAH record #413]]. The corpus matches the directory: guzheng teaching at the Washington DC Taiwanese School alongside the NOVA professorship.
 - HOLD: conflict — corpus records list [[people/grace-lin]] as a distinct subject alongside her; treated as a possible name collision, not merged.
 
+## Worklog
+- 2026-09-20 deepen-x slice 09180600-12: re-verified — corpus grep for 林玉惠/Yuh-Huey returns only her own TAH records (#1756, #413, both already wikilinked above) plus the works index. No new absorbable material; section stands.
+
 ## Sources
 - [TAH #1756 encyclopedia: 1756. Prof. Yuh-Huey Grace Lin 林玉惠 / 07/2017](https://taiwaneseamericanhistory.org/whoswho1756/)
 - [TAH #413 encyclopedia: 413. Yuh-Huey Grace Lin 林玉惠,Guzheng/ 07/2017](https://taiwaneseamericanhistory.org/musician413/)

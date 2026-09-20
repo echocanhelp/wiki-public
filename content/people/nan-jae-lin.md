@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-20
 ---
 # Nan-Jae Lin (林能傑)
 
@@ -32,6 +32,9 @@ last_reviewed: 2026-08-17
 ## Family
 
 _No filled family fields on the TAH profile._
+
+## Role in the Community
+- Corpus presence is limited to his own TAH encyclopedia entry, held locally as [[works/taiwaneseamericanhistory-org/whowho1318|1318. Nan-Jae Lin 林能傑 / 2016/10]]; no other memoir or community record names him (verified by corpus grep, 2026-09-20).
 
 ## Sources
 - [TAH #1318 encyclopedia: 1318. Nan-Jae Lin 林能傑/ 2016/10](https://taiwaneseamericanhistory.org/whowho1318/)
