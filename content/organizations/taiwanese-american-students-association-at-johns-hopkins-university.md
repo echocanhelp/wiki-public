@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-18
+last_reviewed: 2026-09-20
 ---
 # Taiwanese American Students Association at Johns Hopkins University
 
@@ -24,6 +24,8 @@ The Taiwanese American Students Association at Johns Hopkins University (jhuTASA
 - 2011-04-23 — TA.org 檔案記錄約翰霍普金斯大學辦台灣夜市活動（見 [[works/taiwaneseamerican-org/taiwanese-night-market-at-johns-hopkins-university|Taiwanese Night Market at JHU]]）；活動主辦歸屬未註明，顯示2019年吉祥物之前校園已有台裔學生活動。
 - 2013-04-20 — TA.org 再記錄 JHU 台灣夜市（見 [[works/taiwaneseamerican-org/night-market-at-johns-hopkins-university-in-md|Night Market at JHU in MD]]）。
 - 2019 — 官方吉祥物 Tubs（台灣黑熊）創立。
+- 2022-06-07 — TaiwaneseAmerican.org「New Creatives」專欄記載 Alyssa Lee 曾任 JHU TASA 會長（president），時任內轉任該專欄主持人，就讀 Molecular and Cellular Biology 與 Art History（見 [[works/taiwaneseamerican-org/new-creatives-eric-lin-music|New Creatives: Eric Lin]]，专栏按语）；此為社團負責人層級的首見第一手記錄。
+- 2023-07-31 — 台裔第二代學生 Taliyah Huang（JHU 生物醫學工程二年級，加州出生）以台語翻譯工具 BobaWay 登上 TaiwaneseAmerican.org 專訪，反映同期 JHU 台裔學生圈的文化連結活動（見 [[works/taiwaneseamerican-org/taliyah-huang-interview-bobaway|Taliyah Huang 專訪]]）；专访未註明其與 TASA 之關係，僅作社區背景。
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-american-students-association-at-johns-hopkins-university/)
