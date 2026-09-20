@@ -4,7 +4,7 @@ type: person
 tags:
   - 
 verification_status: pending
-last_reviewed: 2026-09-19
+last_reviewed: 2026-09-20
 ---
 # Rev. Guo Dongxu (郭東緒牧師)
 
@@ -51,3 +51,4 @@ Use Echopedia Community Contributions Hub.
 ## Deepen-x note (2026-09-17, re-verified 2026-09-19)
 
 - SKIP-deepen: no corpus hits in `content/works` / `content/articles` for 郭東緒 / Guo Dongxu beyond this page and the GSTPC org page; existing bulletin-derived material (10 pages, 2020–2021) is already reflected. No new absorbable material, nothing invented.
+- Re-grepped 2026-09-20 (slice 09190300-10): still zero hits in `content/works` / `content/articles` for 郭東緒 / Guo Dongxu. SKIP stands.

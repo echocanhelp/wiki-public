@@ -37,7 +37,7 @@ Dr. Richard Yu-Tsang Lin 林譽蒼 – History of Taiwanese American (T.A. Archi
 
 
 ## Role in the Community
-- Corpus footprint is limited to his own TAH encyclopedia record "2300. Dr. Richard Yu-Tsang Lin 林譽蒼": [[works/taiwaneseamericanhistory-org/whos-who-2300-richard-yu-tsang-lin|TAH #2300]]. No memoirs or community articles mention him; nothing else absorbable (no movement-role claims invented).
+- Corpus footprint is limited to his own TAH encyclopedia record "2300. Dr. Richard Yu-Tsang Lin 林譽蒼" (2020-12-24, band B, bibliographic only): [[works/taiwaneseamericanhistory-org/whos-who-2300-richard-yu-tsang-lin|TAH #2300]]. No memoirs or community articles mention him; nothing else absorbable (no movement-role claims invented).
 
 ## Sources
 - [TAH #2300 encyclopedia: 2300. Dr. Richard Yu-Tsang Lin 林譽蒼](https://taiwaneseamericanhistory.org/whos-who-2300-richard-yu-tsang-lin/)

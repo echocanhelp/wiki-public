@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-19
+last_reviewed: 2026-09-20
 ---
 # Taiwanese Student Association at Arizona State University
 
@@ -26,3 +26,5 @@ The Taiwanese Student Association at Arizona State University (TSA @ ASU) is a s
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+<!-- deepen-x slice 09190300-10 (2026-09-20): SKIP re-verified — 'ASU/亞利桑那州立' hits are false positives again (ASUS computer brand in Our Journeys 218, ECAASU in the DC food-drive record, plus Taiwan Justice news articles citing ASU professors on unrelated topics: Mars rovers, Belt-and-Road, self-driving cars). No corpus record references the club itself. -->
