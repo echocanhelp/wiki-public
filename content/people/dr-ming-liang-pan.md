@@ -31,7 +31,7 @@ last_reviewed: 2026-09-20
 
 ## Role in the Community
 
-- Corpus grep (works/articles) returns only his own TAH record page; no memoir or community-corpus mentions found beyond the Who's Who entry — nothing further absorbable this pass. (Note: index entry 4153 「22. Prof. Ming Liang Lee 李明亮教授」 is a different person — 李明亮, not 潘銘梁.)
+- Corpus grep (works/articles) returns only his own TAH record page; no memoir or community-corpus mentions found beyond the Who's Who entry — nothing further absorbable this pass. Re-verified 2026-09-20: grep still returns only this record and the story index. (Note: index entry 4153 「22. Prof. Ming Liang Lee 李明亮教授」 is a different person — 李明亮, not 潘銘梁.)
 - His own TAH encyclopedia record: [[works/taiwaneseamericanhistory-org/whos-who-2060-ming-liang-pan|2060. Dr. Ming Liang Pan 潘銘梁博士]]（2018-03-10 刊，value band B；書目紀錄，全文在 vault）.
 
 ## Family

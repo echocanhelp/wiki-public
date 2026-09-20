@@ -37,6 +37,7 @@ _No filled family fields on the TAH profile._
 ## Role in the Community
 - 2017-02-12 — entered into the Taiwanese American historical record when his profile was preserved as encyclopedia entry #1502 on taiwaneseamericanhistory.org: [[works/taiwaneseamericanhistory-org/whoswho1502|1502. Chang-Yong Tsao 曹昌榮 / 2017/02]]. The corpus holds this as a bibliographic (band B) record; full biography stays in the vault.
 - Corpus grep found no other memoir/community activity beyond the TAH profile itself; his documented presence in the community is professional (pediatric neurology, Ohio State University).
+- 2026-09-20 re-verified: corpus grep still returns only this record and the story index — no new material to absorb.
 
 ## Sources
 - [TAH #1502 encyclopedia: 1502. Chang-Yong Tsao 曹昌榮 / 2017/02](https://taiwaneseamericanhistory.org/whoswho1502/)
