@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-18
+last_reviewed: 2026-09-20
 ---
 # Shu-Ting Yao (姚舒婷博士)
 
@@ -32,7 +32,7 @@ Praised in Black Forest Messenger of Germany “Thrilled Violin Playing!” and 
 <!-- tah-tables:end -->
 
 ## Role in the Community
-- Corpus record places her in the TAH musician story series twice: [[works/taiwaneseamericanhistory-org/38-shu-ting-yao-e5-a7-9a-e8-88-92-e5-a9-b7-violin|38. Shu-Ting Yao 姚舒婷, Violinist / 2014-10]] (published 2014-10-11) and [[works/taiwaneseamericanhistory-org/15075|442. Shu-Ting Yao 姚淑婷 / 2015-06]] (published 2015-06-14). Both are band-B bibliographic records; full text stays in the vault.
+- Corpus record places her in the TAH musician story series twice: [[works/taiwaneseamericanhistory-org/38-shu-ting-yao-e5-a7-9a-e8-88-92-e5-a9-b7-violin|38. Shu-Ting Yao 姚舒婷, Violinist / 2014-10]] (published 2014-10-11) and [[works/taiwaneseamericanhistory-org/15075|442. Shu-Ting Yao 姚淑婷 / 2015-06]] (published 2015-06-14); a parallel 2015-06 bibliographic record likewise renders 姚淑婷 ([[works/taiwaneseamericanhistory-org/212-shu-ting-yao-e5-a7-9a-e6-b7-91-e5-a9-b7-violinist-201506|212. Shu-Ting Yao 姚淑婷, Violinist]]), reinforcing the 淑/舒 variant noted below. Both are band-B bibliographic records; full text stays in the vault.
 - HOLD: hanzi conflict — corpus record 442 renders the name 姚淑婷 while the 2014 record and this page use 姚舒婷 (same romanization Shu-Ting Yao). Not auto-merged; needs owner confirmation.
 
 ## Family
