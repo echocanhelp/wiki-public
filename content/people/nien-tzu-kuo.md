@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-20
 ---
 # Nien-Tzu Kuo (郭念慈)
 
@@ -30,6 +30,10 @@ last_reviewed: 2026-08-17
 - 丹尼爾法律事務所
 - TLA LAW
 <!-- tah-tables:end -->
+
+## Role in the Community
+- 2015 — Featured in the TAH Foundation Who's Who encyclopedia record [[works/taiwaneseamericanhistory-org/405-nien-tzu-kuo-e9-83-ad-e5-bf-b5-e6-85-88-201505|405. Nien-Tzu Kuo 郭念慈 / 2015/05]].
+- Spoke on the legal/immigration track at a New Jersey employment-and-entrepreneurship seminar for Taiwan/China students organized with the 北澤西同鄉會 (TAANA North NJ): covered OPT (including the STEM 17→24-month extension effective May 10 that year), H-1B caps, and alternatives (E-2, L-1, J-1/H-3, O-1, green-card routes) to 40+ Taiwanese student attendees. Panel: 魏桂女 (accountancy), 陳志明 (tech), 柯金寅 (engineering); 紐約經文處 and 文教中心 supported the event. See [[works/taiwaneseamericanhistory-org/ourjourneys219|Our Journeys #219]].
 
 ## Family
 

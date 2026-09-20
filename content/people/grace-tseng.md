@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-20
 ---
 # Grace Tseng (李雲玉)
 
@@ -34,6 +34,10 @@ last_reviewed: 2026-08-17
 
 - **Husband:** 鄭良福
 
+
+## Role in the Community
+- Her TAH Who's Who profile is held in the corpus as [[works/taiwaneseamericanhistory-org/whoswho986|986. Grace Tseng 李雲玉 / 2016/05]] (published 2016-05-14, band B bibliographic record).
+- No other community/memoir corpus hits found beyond the Who's Who record itself; teaching and CPA career per TAH profile only.
 
 ## Sources
 - [TAH #986 encyclopedia: 986. Grace Tseng 李雲玉 / 2016/05](https://taiwaneseamericanhistory.org/whoswho986/)

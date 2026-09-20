@@ -30,6 +30,12 @@ last_reviewed: 2026-09-20
 
 _No filled family fields on the TAH profile._
 
+## Role in the Community
+
+- Recorded in the TAH Foundation Who's Who encyclopedia entry for her, 2017-07-04 ([[works/taiwaneseamericanhistory-org/whoswho1738|1738. Tina Chen 吳富子 / 07/2017]]).
+
+_Disambiguation: the only other corpus mention of "Tina Chen" is the actress credited in the 2011 film Almost Perfect ([[works/taiwaneseamerican-org/interview-with-bertha-bay-sa-pan-director-of-e2-80-9calmost-perfect-e2-80-9d|Interview with Bertha Bay-Sa Pan]]), a different person. No community/movement material absorbable — recorded as no-new-facts._
+
 ## Sources
 - [TAH #1738 encyclopedia: 1738. Tina Chen 吳富子 / 07/2017](https://taiwaneseamericanhistory.org/whoswho1738/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/tina-chen/)

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-20
 ---
 # S. D. Chen (陳士東)
 
@@ -20,6 +20,11 @@ last_reviewed: 2026-08-17
 - **Source:** TAH Foundation Who’s Who
 
 S. D. Chen (陳士東) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+
+## Role in the Community
+
+- Recorded in the TAH Foundation Who's Who; the personal record is held in the vault as [[works/taiwaneseamericanhistory-org/whoswho923|923. S. D. Chen 陳士東 / 2016/04]] (published 2016-04-03, value band B — bibliographic record, full text stays in the vault).
+- Corpus sweep 2026-09-20: no mentions in memoirs/articles beyond this record; biography is limited to the Who's Who entry and the family list below. No facts absorbed, no conflicts.
 
 ## Family
 

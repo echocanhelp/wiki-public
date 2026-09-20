@@ -34,6 +34,13 @@ last_reviewed: 2026-09-20
 - **Son:** Connie黃康玲
 
 
+## Role in the Community
+
+- **2016 — 華府台美人獨立紀念日遊行 (TAIDP Parade):** credited as a 籌備工作者 providing 後勤支援 (logistics support) for the Greater Washington contingent's float in the July 4th parade ([[works/taiwaneseamericanhistory-org/ourjourneys232|232. 華府台美人參加2016年度獨立紀念日遊行記 / 謝榮春]]) alongside 蔡碧珠、張懷德、王能祥、陳明賢, with 華府台灣同鄉會 ([[organizations/taiwanese-association-of-america-greater-washington|TAA-Greater Washington]]) assisting recruitment.
+- TAH Who's Who encyclopedia entry, 2016/08 ([[works/taiwaneseamericanhistory-org/whoswho1240|1240. Sam Huang 黃興貫 / 2016/08]]).
+
+_Disambiguation: TAH Who's Who #2251 "Dr. Sam Huang" is 黃森茂, a different person ([[works/taiwaneseamericanhistory-org/whos-who-2251-sam-huang|2251]]). HOLD: do not merge the two Sam Huang records._
+
 ## Sources
 - [TAH #1240 encyclopedia: 1240. Sam Huang 黃興貫 / 2016/08](https://taiwaneseamericanhistory.org/whoswho1240/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/sam-huang/)
