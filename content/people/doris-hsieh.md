@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-20
 ---
 # Doris Hsieh (謝必行)
 
@@ -29,6 +29,11 @@ last_reviewed: 2026-08-17
 
 - **Husband:** 林武男
 
+
+## Role in the Community
+- Named in the North California (北加州) blacklist of Taiwanese Americans whose visa applications were refused or obstructed — see [[works/taiwaneseamericanhistory-org/ourjourneys106|106. Our Journeys]]. Her husband 林武男 appears on the same list.
+- Remembered in a community memoir by 楊惠喬: [[works/taiwaneseamericanhistory-org/mystories521|521. 懷念好友 Doris-謝必行博士 / 楊惠喬 / 2017/02]].
+- Own encyclopedia record: [[works/taiwaneseamericanhistory-org/whoswho1517|1517. Doris Hsieh 謝必行 / 2017/02]].
 
 ## Sources
 - [TAH #1517 encyclopedia: 1517.  Doris Hsieh 謝必行/ 2017/02](https://taiwaneseamericanhistory.org/whoswho1517/)

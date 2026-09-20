@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-20
 ---
 # Richard Wang
 
@@ -33,6 +33,10 @@ last_reviewed: 2026-08-17
 ## Family
 
 _No filled family fields on the TAH profile._
+
+## Role in the Community
+- Second-generation TACL leader — named among the past second-generation leaders of the [[organizations/taiwanese-american-citizens-league|Taiwanese American Citizens League]] (with Peter Chang, Teddy Liaw, Rob Liu, Victoria Tseng, Elsa Chen) credited in [[works/taiwaneseamerican-org/reflecting-on-the-taiwanese-american-citizens-leagues-25-year-history-and-legacy|Reflecting on TACL's 25-Year History and Legacy]] with shaping TACL's programs and ensuring the organization's transition to second-generation leadership.
+- 2017-04 — profiled in the TAH Foundation Who's Who record [[works/taiwaneseamericanhistory-org/whoswho1605|1605. Richard Wang / 2017/04]].
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/richard-wang/)

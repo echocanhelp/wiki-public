@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-20
 ---
 # Sam Hung (洪南山)
 
@@ -25,6 +25,9 @@ Sam Hung (洪南山) is listed in the TAH Foundation Who’s Who Taiwanese Ameri
 
 - **Father:** [[people/rue-lin-hung||洪瑞麟]]
 
+
+## Role in the Community
+- SKIP: the only corpus mentions are his own encyclopedia record [[works/taiwaneseamericanhistory-org/867-sam-hung-e6-b4-aa-e5-8d-97-e5-b1-b1-201603|867. Sam Hung 洪南山 / 2016/03]] and the adjacent entry for his father [[works/taiwaneseamericanhistory-org/whos868-rue-lin-hung|868. Rue-Lin Hung 洪瑞麟 / 2016/03]]; no memoir or movement material (2026-09-20 sweep).
 
 ## Sources
 - [TAH #867 encyclopedia: 867. Sam Hung 洪南山/ 2016/03](https://taiwaneseamericanhistory.org/867-sam-hung-%e6%b4%aa%e5%8d%97%e5%b1%b1-201603/)
