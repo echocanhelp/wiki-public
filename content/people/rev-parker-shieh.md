@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-18
+last_reviewed: 2026-09-20
 ---
 # Rev. Parker Shieh (謝貫明牧師)
 
@@ -33,7 +33,7 @@ last_reviewed: 2026-09-18
 ## Role in the Community
 - Dual-career figure: a Ph.D. analytical chemist who turned to ordained ministry, serving the Taiwanese diaspora church in Vancouver — part-time pastor at St. Andrew's Hall (UBC) from 2007, pastor of 溫哥華台灣基督長老教會 (Vancouver Taiwanese Presbyterian Church) from 2009, and pastor of 救世軍新生命基督教會 (Salvation Army New Life Christian Church).
 - Presbyterian Studies training ties his ministry to the PCT tradition abroad in the Canadian Taiwanese community.
-- **Corpus footprint:** the community record of his life is his own TAH Who's Who entry, [[works/taiwaneseamericanhistory-org/whos-who-1811-parker-shieh|1811. Rev. Parker Shieh 謝貫明牧師]], published 2017-08-06 in the TAHS story corpus. No memoir or third-party community writings mentioning 謝貫明 were found in the corpus.
+- **Corpus footprint:** the community record of his life is his own TAH Who's Who entry, [[works/taiwaneseamericanhistory-org/whos-who-1811-parker-shieh|1811. Rev. Parker Shieh 謝貫明牧師]], published 2017-08-06 in the TAHS story corpus. No memoir or third-party community writings mentioning 謝貫明 were found in the corpus. Corpus re-check 2026-09-20: hits remain only the own-name entry and the works index — SKIP-deepen, nothing further absorbable.
 
 ## Timeline
 - 2017-08-06 — TAH Who's Who record published: [[works/taiwaneseamericanhistory-org/whos-who-1811-parker-shieh|1811. Rev. Parker Shieh 謝貫明牧師]]
