@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-18
+last_reviewed: 2026-09-20
 ---
 # Taiwanese Student Association at UC Berkeley
 
@@ -21,6 +21,7 @@ The Taiwanese Student Association (TSA) at the University of California, Berkele
 ## Role in the Community
 
 - 2012年2月在校內辦理 WorldVision Taiwan 救濟募款活動，顯示社團活動從校園文化延伸到台灣 humanitarian relief（[[works/taiwaneseamerican-org/worldvision-taiwan-fundraiser-by-tsa-at-uc-berkeley|WorldVision Taiwan Fundraiser by TSA at UC Berkeley]]，taiwaneseamerican.org，2012-02-14）。
+- 2012–2013年與 taiwaneseamerican.org 合辦卡拉歌比賽（KARAOKE Song Contest），把台灣校園社團文化帶入全台美青年網絡：2012-11-16（[[works/taiwaneseamerican-org/karaoke-contest-with-uc-berkeleys-taiwanese-student-association|Karaoke Contest with UC Berkeley's TSA]]）、2013-04-12（[[works/taiwaneseamerican-org/tsa-karaoke-contest-in-berkeley|TSA Karaoke Contest in Berkeley]]）、2013-11-22（[[works/taiwaneseamerican-org/karaoke-competition-with-tsa-at-berkeley|Karaoke Competition with TSA at Berkeley]]）。
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-student-association-at-uc-berkeley/)
