@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2021-11-04 — published
 
 ## Subjects
+- [[people/mei-xinyi.md|梅心怡]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

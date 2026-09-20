@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-18
+last_reviewed: 2026-09-20
 ---
 # Wen_Chen Chen (陳文成教授)
 
@@ -44,6 +44,7 @@ last_reviewed: 2026-09-18
 - **Press response.** The first issue of 《台灣公論報》 (1981-07-31) was built around the case, front page 「警總約談後橫尸圖書館樓底陳文成暴斃台大校園」; the founding editors' memoir of that night — including 張燦鍙 working at the office — is in [[works/taiwaneseamericanhistory-org/ourjourneys49|Our Journeys 49]].
 - **Memorial foundation.** After the murder, a nationwide donation campaign was organized chiefly by 許永華 (Yung Hwa Hsu, Ann Arbor) and 賴金德 (Chin-teh Lai, Pittsburgh); his wife 陳素貞 directed most of the US$50,000 raised into a permanent 陳文成獎學金, and 林富文 (Evan Ling) incorporated the foundation in New Jersey as its first president ([[works/taiwaneseamericanhistory-org/ourjourneys8-eng|Our Journeys 8 — 陳文成教授紀念基金會成立經過]]); see [[organizations/professor-chen-wen-chen-memorial-foundation|陈文成教授纪念基金会]].
 - **Symbol of White Terror risk.** Student-memoirs cite his fate («可能像陳文成一樣，突然暴斃») as the fear confronting founders of independent 台灣同鄉會 in the 1970s ([[works/taiwaneseamericanhistory-org/ourjourneys313|Our Journeys 313 — 東田納西台灣同鄉會 30週年 memoir]]).
+- **Continuing legacy in the corpus.** A 2020 essay by 李木通, 從陳文成命案談起, revisits the case for a new generation ([[works/taiwaneseamericanhistory-org/my-stories-730|Our Journeys 730 — 從陳文成命案談起, 2020-05]]); FAPA's own movement memoir frames most of its founding members as 美麗島/高雄事件政治犯 and 陳文成博士的同窗好友, placing his death at the center of the organization's founding generation ([[works/taiwaneseamericanhistory-org/ourjourneys320|Our Journeys 320 — FAPA history]]).
 - Family reconciliation: corpus byline romanization 陳素貞 = Chen Su-jen matches the existing wife field 陳素貞.
 
 ## From the record
