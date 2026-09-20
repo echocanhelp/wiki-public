@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-19
+last_reviewed: 2026-09-20
 ---
 # Prof. Jeffrey J. Tsay
 
@@ -42,6 +42,15 @@ _No filled family fields on the TAH profile._
   [[organizations/taiwanese-association-of-america-dallas-fort-worth|TAA Dallas-Fort Worth]] and
   [[organizations/taiwanese-association-of-america|Taiwanese Association of America]]; no
   memoir corpus text about him was found.
+- Corpus re-grep 2026-09-20 (slice 09190130-18): grep "Jeffrey J. Tsay" / "Jeffrey Tsay" across
+  content/works + content/articles returns only his own TAH bibliographic record
+  [[works/taiwaneseamericanhistory-org/whos-who-1763-jeffrey-j-tsay|1763. Prof. Jeffrey J. Tsay]].
+  Broader "Tsay" hits are different people (other TAH profiles [[works/taiwaneseamericanhistory-org/whos-who-2175-andy-tsay|2175. Andy Tsay]],
+  [[works/taiwaneseamericanhistory-org/whos-who-1793-ruey-s-tsay|1793. Ruey S. Tsay]],
+  [[works/taiwaneseamericanhistory-org/whos-who-2098-kuen-shii-tsay|2098. Kuen-Shii Tsay]], and a
+  Houston TCC founding-committee note in
+  [[works/taiwaneseamericanhistory-org/ourjourneys233-eng|Our Journeys 233]] naming David/Susan Tsay —
+  no given-name match, so no facts absorbed (not treated as the same person). No conflicts to hold.
 
 ## From the record
 
