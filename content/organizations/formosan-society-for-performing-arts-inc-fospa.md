@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-18
+last_reviewed: 2026-09-20
 ---
 # Formosan Society for Performing Arts Inc. FOSPA (福爾摩沙表演藝術協會)
 
