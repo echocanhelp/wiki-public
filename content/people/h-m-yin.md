@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-20
 ---
 # H. M. Yin (殷惠敏)
 
@@ -33,6 +33,10 @@ last_reviewed: 2026-08-17
 ## Family
 
 _No filled family fields on the TAH profile._
+
+## Role in the Community
+- 專欄作者：〈論特務頭子變民主推手之謬誤〉，民報專欄，2014-03-07，存檔於臺灣正義網統戰主題彙編：[[articles/taiwanjustice-net/2023/20230607064251_tag_統戰_page_4_ce55608137df02ef|統戰主題彙編（含殷惠敏专栏）]]
+- TAH 基金會百科 own profile 存檔：[[works/taiwaneseamericanhistory-org/whoswho1079|TAH #1079 H. M. Yin 殷惠敏]]
 
 ## Sources
 - [TAH #1079 encyclopedia: 1079.  H. M. Yin 殷惠敏 / 2016/06](https://taiwaneseamericanhistory.org/whoswho1079/)
