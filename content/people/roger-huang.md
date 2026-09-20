@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-20
 ---
 # Roger Huang (黃瑞宗)
 
@@ -32,6 +32,9 @@ last_reviewed: 2026-08-17
 
 - **Wife:** 曾淑璧
 
+
+## Role in the Community
+- Corpus presence is bibliography-only ([[works/taiwaneseamericanhistory-org/whoswho1150|1150. Roger Huang 黃瑞宗 / 2016/07]]); no memoir narrative absorbable beyond the TAH profile (無敵字典 president, 苗栗).
 
 ## Sources
 - [TAH #1150 encyclopedia: 1150. Roger Huang 黃瑞宗 / 2016/07](https://taiwaneseamericanhistory.org/whoswho1150/)

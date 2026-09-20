@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-20
 ---
 # Diana Y Huang (黃玉桂)
 
@@ -25,6 +25,9 @@ Diana Y Huang (黃玉桂) is listed in the TAH Foundation Who’s Who Taiwanese 
 
 - **Wife:** [[people/philip-s-chen||陳伸夫]]
 
+
+## Role in the Community
+- Corpus presence is bibliography-only ([[works/taiwaneseamericanhistory-org/whoswho1042|1042. Diana Y Huang 黃玉桂 2016/05]]); no memoir narrative found. Marriage to [[people/philip-s-chen|陳伸夫]] per TAH profile above.
 
 ## Sources
 - [TAH #1042 encyclopedia: 1042. Diana Y Huang 黃玉桂 2016/05](https://taiwaneseamericanhistory.org/whoswho1042/)

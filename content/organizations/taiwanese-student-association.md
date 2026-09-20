@@ -25,6 +25,7 @@ The Taiwanese Student Association (TSA) at Texas A&M University is a registered 
 - [[works/taiwaneseamericanhistory-org/ourjourneys277|277. 他們這樣愛台灣：威斯康辛大學「台灣布袋戲團」的故事 / 朱靜女 / 2017-02]] — by 1997 the UW-M 台灣同學會 staged its first 布袋戲（虎姑婆, conceived with the late 陳清風教授）at a Moon Festival, later spinning off a formal puppetry troupe touring local schools.
 - [[works/taiwaneseamericanhistory-org/dumplings-usctsa|燒肉粽 by USC Taiwanese Student Association 南加大台灣同學會]] — USC chapter's cultural performance record (2017-05-12).
 - [[works/taiwaneseamericanhistory-org/ourjourneys219|219. 留美台灣青年就業座談會 / 柯金寅 / 2016-04]] — NJIT, Stevens, and NYU 台灣同學會 chapters volunteered at the North-Jersey career seminar.
+- [[works/taiwaneseamericanhistory-org/ourjourneys321|321. 陳文成紀念基金會的成立 (追述)]] — the 密西根大學台灣同學會 (with the Ann Arbor 台灣同鄕會) co-organized a 陳文成 memorial special issue on the 12th anniversary of his death, an early activity record of a Michigan chapter.
 
 HOLD: this page describes the Texas A&M University chapter (德州農工大學台灣同學會, contemporary); the corpus predates it (KU 1961 recorded as the first TSA). Treat the page as chapter-specific — the lineage above is shared movement context, not this chapter's own founding.
 
