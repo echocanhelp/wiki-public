@@ -43,6 +43,8 @@ _No filled family fields on the TAH profile._
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/stephanie-syd-yang/)
 
+<!-- corpus sweep 2026-09-20: all corpus hits (whos-who-2080, natwa2con, 2019 releases record, Taiwanese-American film record) already absorbed above — no new absorbable facts -->
+
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

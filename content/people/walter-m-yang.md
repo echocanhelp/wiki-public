@@ -42,6 +42,7 @@ last_reviewed: 2026-09-20
 - With his wife he established the **Walter M. Yang and Christine L. Yang Endowed Fund** (2020) supporting the TAH historical record: [[works/taiwaneseamericanhistory-org/awards-92||92. Walter M. Yang and Christine L. Yang Endowed Fund]].
 - His own TAH story record: [[works/taiwaneseamericanhistory-org/401-walter-m-yang-e6-a5-8a-e8-8c-82-e5-98-89-e5-8d-9a-e5-a3-ab-201505||401. Walter M. Yang 楊茂嘉 博士 / 2015/05]].
 - Listed among the 台大機械系 alumni signatories in the corpus record of the 2018 protest over the Southern California NTU Alumni Association's invitation of 管中閔: [[articles/taiwanjustice-net/2018/20180721091303_2018_07_20_抗議-南加州台大校友會邀管中閔來年會做專題演講_a428dcebbceacf38|taiwanjustice.net 2018-07-21 report]].
+- Signed the Taiwanese-American community statement recorded by the Pew Research Center as a representative of the East Bay Taiwanese American Senior Society: [[works/taiwaneseamerican-org/pew-research-center-taiwanese-american-statement|Pew Research Center: Taiwanese-American statement]].
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/walter-m-yang/)

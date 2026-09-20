@@ -37,6 +37,7 @@ _No filled family fields on the TAH profile._
 - Wrote a personal essay for the TAH "Our Journeys" series on Taiwanese Americans — [[works/taiwaneseamericanhistory-org/our-journeys-373|Our Journeys #373]]
 - Reported on the Laguna Woods Taiwanese church shooting for New Bloom — [[works/taiwaneseamerican-org/laguna-woods-taiwanese-church-shooting|Laguna Woods Taiwanese Church Shooting]]
 - Commented on Taiwanese identity polling trends in a 2025 VOA email interview (as New Bloom founding editor and non-resident researcher, University of Nottingham Centre for Taiwan Studies) — [[articles/taiwanjustice-net/2025/20250419182452_台灣最新民調_僅2-4自認_中國人_創調查紀錄_84a3fbcfb693b6da|台灣最新民調：僅2.4%自認中國人]]
+- Quoted in corpus-translated CNN reporting on Pelosi's planned 2022 visit to Taiwan (as founder of 破土雜誌/New Bloom): 丘琦欣 observed that Chinese threats had become "background noise" (背景雜音) for Taiwanese people, so the public largely did not weigh dire consequences of the visit — [[articles/taiwanjustice-net/2025/20251010052413_cnn_裴洛西擬到訪_台灣低調應對_8b958abebb2e10c6|CNN：裴洛西擬到訪，台灣低調應對]]
 - TAH encyclopedia entry — [[works/taiwaneseamericanhistory-org/whos-brian-hioe|1612. Brian Hioe 丘琦欣]]
 
 ## Sources

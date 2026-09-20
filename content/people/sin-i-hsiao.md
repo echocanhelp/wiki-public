@@ -37,6 +37,7 @@ last_reviewed: 2026-09-20
 - 1966-06-18 — again the Boston delegate at the Philadelphia talks where 「台灣獨立聯盟UFI」 and 「台灣問題硏究會FASG」 agreed to merge; this resolved into the 1966-07-04 founding of 全美台灣獨立聯盟 (UFAI) (same record, [[works/taiwaneseamericanhistory-org/ourjourneys81|周烒明起稿 memoir]]).
 - Listed under Massachusetts in the first 《全美台灣同鄉通訊錄》 ([[works/taiwaneseamericanhistory-org/ourjourneys58|58. 回憶編印第一本《全美台灣同鄉通訊錄》的甘苦經過 / 陳希寬]]).
 - 1990 — among the 18 applicants named by the authorities as having visa「技術性問題」(blacklisted) for the first NAIT (台灣人教授協會) homecoming annual meeting in Taipei; after months of negotiation the blacklist shrank to three and Hsiao was among the first members able to return to Taiwan that year ([[works/taiwaneseamericanhistory-org/ourjourneys259|259. 台灣人回國的三個階段 / 朱耀源]]).
+- 1992-07 — delivered the keynote「台灣的轉機」at the 14th 美東南區台灣人夏令會 (Methodist College, Spartanburg, SC), per the summer-camp history ([[works/taiwaneseamericanhistory-org/ourjourneys245|245. 美東南區台灣人夏令會簡史 / 劉格正 / 09/2016]]).
 
 ## Family
 
@@ -47,5 +48,6 @@ _No filled family fields on the TAH profile._
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/sin-i-hsiao/)
 
 ## Related Pages
+- [[works/taiwaneseamericanhistory-org/whoswho1013|1013. Sin-I Hsiao 蕭欣義 / 2016/05]] — TAH encyclopedia entry
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
