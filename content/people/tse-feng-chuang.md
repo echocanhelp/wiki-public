@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-19
+last_reviewed: 2026-09-20
 ---
 # Tse feng Chuang (莊澤豐)
 
@@ -37,6 +37,8 @@ last_reviewed: 2026-09-19
 - **Daughter:** 惠琪
 
 ## Role in the Community
+
+Fresh grep 2026-09-20 (莊澤豐 / Tse feng Chuang) over content/works + content/articles again returned no hits beyond the TAH bibliographic record — confirmed SKIP: nothing corpus-absorbable.
 
 Corpus presence is limited to his TAH encyclopedia bibliographic record — no memoir or article mentions found in content/works or content/articles beyond it:
 

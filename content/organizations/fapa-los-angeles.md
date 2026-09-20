@@ -32,6 +32,9 @@ last_reviewed: 2026-09-20
 - LA community mobilization: the 1987–1990 US-Census campaign was coordinated in Los Angeles out of the TACL office after the 1987-01-02 Southern California Taiwanese-group coordination meeting, with FAPA among the groups that jointly funded and staffed the effort ([[works/taiwaneseamericanhistory-org/ourjourneys253|Our Journeys 253]]).
 - FAPA lobbying record held as movement primary material: the 1983 public statement claiming credit for Taiwan's 20,000 immigration quota ([[works/taiwaneseamericanhistory-org/ourjourneys59|Our Journeys 59]]) and the FAPA NEWS 通訊 newsletter ([[works/taiwaneseamericanhistory-org/14-fapa-news-by-formosan-association-for-public-affairs|FAPA NEWS 通訊]]).
 - Sister chapter page: [[organizations/fapa-orange-county|FAPA Orange County]].
+- Chapter activity in the taiwanjustice.net community-news corpus: FAPA 洛杉磯分會 co-organized the 2022 第六屆跨族裔「二二八防止政府暴行研討會」with 全美台灣人權協會 (FAHR), with community representatives from Taiwan, Hong Kong, Burma, Thailand, Uyghur, Rohingya, Cuba, Dominican and Puerto Rico ([[articles/taiwanjustice-net/2026/20260211101504_fapa_fahr共同主辦_二二八防止政府暴行線上研討會_3cd01fab6a392130|FAPA、FAHR共同主辦：二二八防止政府暴行線上研討會]]); the chapter is also listed as 主辦單位 for the 2-28 台灣介心靈日 74週年紀念音樂會 in the 大洛杉磯台灣會館 228 series ([[articles/taiwanjustice-net/2026/20260210173508_2021大洛杉磯台灣會館228事件線上追思紀念會與系列活_ac0c255ef64908a5|大洛杉磯台灣會館 228 追思系列活動]]).
+- Coalition footprint in LA: FAPA 洛杉磯分會 jointly hosted 郭建國 at the 大洛杉磯台灣會館 (2018-01-27) with 台獨建國聯盟 (WUFI) 洛杉磯支部, FAHR, and 自由台灣黨美國後援會 ([[articles/taiwanjustice-net/2021/20210210233043_2018_01_23_郭建國1-27在大洛杉磯台灣會館分享發起大旗隊和台_5420bd6332e8fd82|郭建國在大洛杉磯台灣會館分享]]).
+- Corpus re-check (2026-09-20, deepen-x slice 09190445-1, vault-only): grep of works + articles for FAPA-LA/洛杉磯 hits are the LA TAA/TAP/WUFI chapter records plus the taiwanjustice.net items absorbed above; chapter founding date still unknown (HOLD above).
 
 ## Related Pages
 

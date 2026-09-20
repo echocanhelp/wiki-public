@@ -37,6 +37,7 @@ _No filled family fields on the TAH profile._
 ## Role in the Community
 - 2014-10-11 — profiled in the TAH story corpus as "26. Yung-Chin Hsieh 謝永芹, Pianist", under her maiden name Hsieh 謝: [[works/taiwaneseamericanhistory-org/26-yung-chin-hsieh-e8-ac-9d-e6-b0-b8-e8-8a-b9-piano|TAH story #26]].
 - 2016-06-05 — encyclopedia entry under her married name Mollard: [[works/taiwaneseamericanhistory-org/whoswho1058|TAH #1058]]. The corpus therefore documents both name forms (Yung-Chin Hsieh 2014 / Christina Mollard 2016), matching the choral-accompaniment work listed in the Employment table.
+- Corpus re-grep 2026-09-20 (slice 09190445-5): full-text hits limited to these two records plus the works index — no memoir passages add facts beyond the profile entries; nothing new absorbable.
 
 ## Sources
 - [TAH #1058 encyclopedia: 1058. Christina (Yung-Chin) Mollard 謝永芹 /2016/06](https://taiwaneseamericanhistory.org/whoswho1058/)
