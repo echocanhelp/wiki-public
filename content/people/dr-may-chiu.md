@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-20
 ---
 # Dr. May Chiu (邱鈺琳醫師)
 
@@ -33,6 +33,11 @@ last_reviewed: 2026-08-17
 
 - **Husband:** Jim Lin (林存欣)
 
+## Role in the Community
+
+- 本人紀錄：[[works/taiwaneseamericanhistory-org/whos-who-2139-may-chiu|2139. Dr. May Chiu 邱鈺琳醫師]]（2018-06-30）。
+- 夫君林存欣醫師有同批並列紀錄：[[works/taiwaneseamericanhistory-org/whos-who-2138-jim-lin|2138. Dr. Jim Lin 林存欣醫師]]（2018-06-30）。
+- SKIP注記：corpus 內無其他社群活動史料可吸收。
 
 ## Sources
 - [TAH #2139 encyclopedia: 2139. Dr. May Chiu 邱鈺琳醫師](https://taiwaneseamericanhistory.org/whos-who-2139-may-chiu/)

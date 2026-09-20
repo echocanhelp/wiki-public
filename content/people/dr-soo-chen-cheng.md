@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-18
+last_reviewed: 2026-09-20
 ---
 # Dr. Soo-Chen Cheng (鄭淑珍博士)
 
@@ -53,3 +53,4 @@ Degree Program (2013–). Profiled in TAH Who's Who encyclopedia #1840
 
 ## Corpus re-grep (2026-09-15, re-confirmed 2026-09-16/09-17/09-18 incl. slices 22, 23, 27, 19, 09170130-16, 09170500-15, 09180131-19)
 - SKIP: 再grep content/works + content/articles，僅見本身TAH出處頁 [[works/taiwaneseamericanhistory-org/whos-who-1840-soo-chen-cheng|TAH #1840]]（2017-08-13 · band B）及 works index 目次條目，無回憶錄/社運語料可吸收；鄭淑珍為科學界人物，TAH語料僅收其Who's Who傳記。既有連結以 TAH #1840 為準。
+- 複核（deepen-x slice-09190130-7, 2026-09-20）：re-grep 鄭淑珍 / Soo-Chen Cheng 僅見 TAH #1840 及 works index — SKIP，無回憶錄/社運語料可吸收。

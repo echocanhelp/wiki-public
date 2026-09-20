@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-20
 ---
 # Kenneth C. Liao
 
@@ -38,6 +38,11 @@ M.D.
 ## Family
 
 _No filled family fields on the TAH profile._
+
+## Role in the Community
+
+- 本人於 corpus 的唯一紀錄為 TAH 百科書目：[[works/taiwaneseamericanhistory-org/whoswho1897|1897. Kenneth C. Liao]]（2017-09-20）；無其他社群運動史料可吸收。
+- 同姓旁證排除：corpus 中廖坤塗醫師（#165、#672）、廖光男（OCTA 創會會長，#253）、Our Journeys 69 所載 Kenneth K. Wu 皆為不同人士，與本頁無關。
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/kenneth-c-liao/)

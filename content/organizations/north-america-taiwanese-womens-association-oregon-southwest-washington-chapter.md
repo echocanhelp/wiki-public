@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-18
+last_reviewed: 2026-09-20
 ---
 # North America Taiwanese Women’s Association – Oregon/Southwest Washington Chapter (北美洲台灣婦女會俄勒岡)
 
@@ -25,6 +25,7 @@ North America Taiwanese Women’s Association – Oregon/Southwest Washington Ch
 - NATWA chapters are sibling records, e.g. [[works/taiwaneseamericanhistory-org/natwa-san-diego-chapter|5. Greater San Diego Chapter / NATWA 聖地牙哥分會, 2015-12-28]].
 - Band A community memoir [[works/taiwaneseamericanhistory-org/ourjourneys328|328. 休士頓台灣人傳統基金會對大休士頓地區社區服務的參與 / 蕭文源, 2017-12]] records NATWA (national body) co-donating US$21,090 to Houston's Hurricane Harvey Relief Fund in 2017 alongside the TAH Foundation, LA/SD 台灣會館 and 休士頓台聲合唱團 — evidence of the association's disaster-relief role that Oregon/SW Washington chapter activity sits within.
 - Sister chapter page: [[organizations/natwa-southern-california|NATWA Southern California]].
+- Oregon Taiwanese organizational ecosystem the chapter sits in, per the corpus: [[works/taiwaneseamericanhistory-org/taiwanese-chamber-of-commerce-of-oregon|24. Taiwanese Chamber of Commerce of Oregon 奧勒岡台灣工商會, 2016]], and early student-era Oregon records such as 許希哲, president of the Foreign Students Association at University of Oregon 1963–64 ([[works/taiwaneseamericanhistory-org/ff341|341. ff341, 2017]]) and 劉怡明, first soccer player on a University team at U. of Oregon, 1964 ([[works/taiwaneseamericanhistory-org/ff342|342. ff342, 2017]]).
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/north-america-taiwanese-womens-association-oregon-southwest-washington-chapter/)
