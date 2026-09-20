@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-18
+last_reviewed: 2026-09-20
 ---
 # Chin-Hui Lee (李錦輝)
 
@@ -35,7 +35,7 @@ Professor
 <!-- tah-tables:end -->
 
 ## Role in the Community
-Corpus check (2026-09-18): the only corpus material naming him is his own TAH Who's Who entry, [[works/taiwaneseamericanhistory-org/744-chin-hui-lee-e6-9d-8e-e9-8c-a6-e8-bc-9d201512|744. Chin-Hui Lee 李錦輝 (2015/12)]]. No memoir or movement-record hits — community role beyond the TAH profile is not yet documented in the corpus.
+Corpus check (2026-09-20 re-verify): the only corpus material naming him is his own TAH Who's Who entry, [[works/taiwaneseamericanhistory-org/744-chin-hui-lee-e6-9d-8e-e9-8c-a6-e8-bc-9d201512|744. Chin-Hui Lee 李錦輝 (2015/12)]]. No memoir or movement-record hits — community role beyond the TAH profile is not yet documented in the corpus.
 
 ## Family
 
