@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-20
 ---
 # Nick Wu (吳仲輝)
 
@@ -31,6 +31,10 @@ last_reviewed: 2026-08-17
 - **Wife:** 宋素心
 - **Son:** ???
 
+## Role in the Community
+
+- 吳仲輝 joined the 西區生活座談會 (Los Angeles West-side life-seminar circle, founded 1978-01 at 阮厝) as a later member, per 劉天良's organizational history of the LA 生活座談會 network（[[works/taiwaneseamericanhistory-org/ourjourneys212|212. 生活座談會簡史 / 劉天良 / 2016-03]]）. The circle's members went on to serve in the 商會, 旅館公會, FAPA, 公民協會, and 醫師公會.
+- His own TAH encyclopedia entry（[[works/taiwaneseamericanhistory-org/whoswho1128|1128. Nick Wu 吳仲輝 / 2016-07]]）is preserved in the archive.
 
 ## Sources
 - [TAH #1128 encyclopedia: 1128. Nick Wu 吳仲輝 / 2016/07](https://taiwaneseamericanhistory.org/whoswho1128/)

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-20
 ---
 # Fong Chung Fan (樊豐忠)
 
@@ -30,6 +30,11 @@ last_reviewed: 2026-08-17
 - **Wife:** 李文玲
 - **Daughter:** Nancy
 
+
+## Role in the Community
+- Served as president (會長) of FAPA (台灣人公共事務會) — named in the sequence of nine FAPA presidents recalled by long-time FAPA staffer Ku Bun-lau (昆布勞) in 楊遠薰's memoir [[works/taiwaneseamericanhistory-org/ourjourneys228|228. 美國對台六項保證決議案的推手 — 昆布勞與FAPA的故事]].
+- 2023-03: served as 總召集人 of the New York Chinese-community "海外信賴後援會" supporting 賴清德 for president, founded at the New York Taiwanese House (紐約台灣會館); his speech argued Taiwan's strategic value to the US and the free world — per taiwanjustice.net report [挺賴清德選總統-紐約僑界成立海外後援會](https://taiwanjustice.net).
+- Related org pages: [[organizations/fapa-los-angeles|FAPA Los Angeles]], [[organizations/fapa-orange-county|FAPA Orange County]].
 
 ## Sources
 - [TAH #878 encyclopedia: 878. Fong Chung Fan 樊豐忠 / 2016/03](https://taiwaneseamericanhistory.org/whos-fong-chung-fan/)

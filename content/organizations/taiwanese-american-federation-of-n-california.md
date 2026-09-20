@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-18
+last_reviewed: 2026-09-20
 ---
 # Taiwanese American Federation of N. California (北加州)
 
@@ -24,7 +24,7 @@ The Taiwanese American Federation of N. California (TAFNC, 北加州台灣同鄉
 - **1978-04 —** together with Bay Area churches and 協志會 formed the "Joint Committee of Taiwanese American for 1980 U.S. Census", urging Taiwanese to write in "Taiwanese American" on the census — a milestone in identity formation; committee members included [[people/fu-mei-chang|張富美]], 張瑞雄, 黃介山, 黃景生, 張村樑, [[people/lung-chen|陳隆]], 謝鐐暲.
 - **1997 onward —** after Rev. [[people/choan-seng-song|宋泉盛 (Samuel Song)]] became Bay Area church pastor, church–community solidarity deepened; he spoke at the federation's 30th-anniversary event (2003-01-25), "台灣人民面臨抉擇的時刻".
 - **2003 —** English name changed to *Taiwanese American Federation of Northern California* (TAFNC) after the 30th anniversary; 30th-anniversary memoir in the federation's own festschrift 《三十而立》 (石清正, 〈聯合會三十年回顧〉).
-- **Publications in the corpus:** [[works/taiwaneseamericanhistory-org/771-e5-8c-97-e5-8a-a0-e5-b7-9e-e5-8f-b0-e7-81-a3-e7-a4-be-e5-8d-80-e8-81-af-e5-9|771. 北加州台灣社區聯合通訊 4(1), 1992-04]] and [[works/taiwaneseamericanhistory-org/publications778|778. 2005 台灣文化節特刊]].
+- **Publications in the corpus:** [[works/taiwaneseamericanhistory-org/771-e5-8c-97-e5-8a-a0-e5-b7-9e-e5-8f-b0-e7-81-a3-e7-a4-be-e5-8d-80-e8-81-af-e5-9|771. 北加州台灣社區聯合通訊 4(1), 1992-04]], [[works/taiwaneseamericanhistory-org/publications778|778. 2005 台灣文化節特刊]], and the federation's own 30th-anniversary festschrift [[works/taiwaneseamericanhistory-org/357-e4-b8-89-e5-8d-81-e8-80-8c-e7-ab-8b-e5-8c-97-e5-8a-a0-e5-b7-9e-e5-8f-b0-e7-8|357. 三十而立：北加州台灣同鄉聯合會成立三十週年特刊, 2003-09]].
 - **Recent activity:** [[works/taiwaneseamericanhistory-org/tafnc228-2019|TAFNC 二二八紀念音樂會, 2019]] and [[works/taiwaneseamericanhistory-org/videos-145|145. TAFNC July 4th Fremont parade, 2019]].
 - HOLD: source footnote 23 writes the post-2003 acronym as "NAFNC" while the main text says "TAFNC" — not auto-corrected.
 
