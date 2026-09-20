@@ -35,6 +35,11 @@ last_reviewed: 2026-09-20
 - **Wife:** 洪錦華
 
 
+## Role in the Community
+- Community encyclopedia entry in the corpus: [[works/taiwaneseamericanhistory-org/who-778|778. 王光智 David K. Wang / 2016/01]] — TAHS recorded his ministry and music work.
+- His own worship-music compositions are held as community works: [[works/taiwaneseamericanhistory-org/925-e5-b0-8f-e7-b5-84-e9-80-b2-e8-a1-8c-e6-9b-b2-e7-8e-8b-e5-85-89-e6-99-ba20141|925. 小組進行曲 / 王光智 / 2014/12 / 宗教]] and [[works/taiwaneseamericanhistory-org/publications926|926. 趁早得福氣 / 王光智 / 2014/12 / 音樂 CDs]] — small-group hymns used in the Taiwanese American church community.
+- HOLD: corpus also carries [[works/taiwaneseamericanhistory-org/whos-who-2282-david-wang|2282. David Wang 王思眾]] — a different David Wang; some corpus Subjects tags conflate the two, never merge.
+
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/david-k-wang/)
 
