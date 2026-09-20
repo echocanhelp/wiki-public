@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-19
+last_reviewed: 2026-09-20
 ---
 # Taiwanese Student Association – All-University
 
@@ -20,6 +20,8 @@ The Taiwanese Student Association – All-University (NYU TSA) is a student orga
 
 ## Role in the Community
 No corpus memoir names this specific student association (紐約大學台灣同學會). The closest community record is 北澤西同鄉會's annual 留美台灣青年就業座談會 (2016-04-16, Jersey City), where 「紐約大學(NYU)的學生志工們」 served as volunteers alongside the NJIT and Stevens IT 台灣同學會 chapters — a plausible venue for NYU Taiwanese student organizing, though the record names NYU students, not this association — see [[works/taiwaneseamericanhistory-org/ourjourneys219|219. 留美台灣青年就業座談會]].
+
+Fresh re-grep 2026-09-20 (slice 09190400-12): 紐約大學台灣同學會 / "All-University" appears nowhere in works/ or articles/. Corpus-wide 台灣同學會 hits are other chapters — UW-M 台灣同學會布袋戲團 ([[works/taiwaneseamericanhistory-org/ourjourneys81|81]]), 密西根大學台灣同學會 台風眼/陳文成專刊 ([[works/taiwaneseamericanhistory-org/ourjourneys321|321]]), 威大台灣同學會 1963 登記案 ([[works/taiwaneseamericanhistory-org/ourjourneys277|277]]); the only NYU-named records are the 219 學生志工 note above and NYU Langone-Brooklyn as a mask-donation recipient (unrelated institution). SKIP-for-deepening: no NYU chapter record exists in the corpus.
 
 HOLD: the TAH directory entry "Taiwanese Student Association – All-University" and the current @nyu.tsa Instagram presence may or may not be the same continuous organization; no corpus evidence bridges the two.
 
