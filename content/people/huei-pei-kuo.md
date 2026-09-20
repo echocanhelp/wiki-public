@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-20
 ---
 # Huei Pei Kuo (郭惠沛博士)
 
@@ -27,6 +27,10 @@ last_reviewed: 2026-08-17
 ## Employment
 - HP Labs — 1978-2013 — Scientist ,Principal Scientist
 <!-- tah-tables:end -->
+
+## Role in the Community
+- Profiled in the TAH Foundation Who's Who community encyclopedia, record 1361, published 2016-11-02 — [[works/taiwaneseamericanhistory-org/whoswho1361|1361. Huei Pei Kuo 郭惠沛 / 2016/11]].
+- Corpus records to date are limited to this bibliographic profile; her HP Labs research career (1978–2013, from the TAH table) is the only employment detail held in the vault.
 
 ## Family
 

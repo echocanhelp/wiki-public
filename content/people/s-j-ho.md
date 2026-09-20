@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-20
 ---
 # S. J. Ho (何世杰)
 
@@ -20,6 +20,10 @@ last_reviewed: 2026-08-17
 - **Source:** TAH Foundation Who’s Who
 
 2. President of Taiwanese Association of America Houston Chapter (休士頓台灣同鄉會會長), 2018
+
+## Role in the Community
+- President of the Taiwanese Association of America Houston Chapter (休士頓台灣同鄉會會長), 2018 — community leadership role in the TAA chapter network.
+- Profiled in the TAH Foundation Who's Who, record 2116, published 2018-05-27 — [[works/taiwaneseamericanhistory-org/whos-who-2116-s-j-ho|2116. S. J. Ho 何世杰]].
 
 ## Family
 
