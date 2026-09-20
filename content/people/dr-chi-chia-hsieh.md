@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-20
 ---
 # Dr. Chi-chia Hsieh (謝其嘉博士)
 
@@ -31,6 +31,16 @@ Co-Founder, Vice Chairman, Chairman
 ## Employment
 - Harris Company — Technology R&D in Microwave and satellite communications — Jupiter Technology (Wuxi) Co., Ltd — Chairman — Microelectronics Technology Inc. (台揚科技) — Co-Founder, Vice Chairman, Chairman — (1983-)
 <!-- tah-tables:end -->
+
+## Role in the Community
+- Recorded in the TAH Foundation Who's Who corpus as record #2066, published 2018-03-18 — [[works/taiwaneseamericanhistory-org/whos-who-2066-chi-chia-hsieh|2066. Dr. Chi-chia Hsieh 謝其嘉博士]].
+- Community record notes his career from Harris Company microwave/satellite R&D to co-founding (1983) and later chairing Microelectronics Technology Inc. 台揚科技, plus chairmanship of Jupiter Technology (Wuxi).
+
+## Timeline
+- 1965 — B.S. Electrical Engineering, National Taiwan Univ.
+- 1974 — Ph.D. Electrical Engineering, Santa Clara Univ.
+- 1983 — co-founded Microelectronics Technology Inc. 台揚科技
+- 2018-03-18 — Who's Who record #2066 published in the TA Archives corpus
 
 ## Family
 

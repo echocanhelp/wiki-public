@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-20
 ---
 # Prof. Wen-Yaw Chan (詹文耀教授)
 
@@ -30,6 +30,17 @@ Accomplishment
 ## Employment
 - Case Western Reserve Univ. — Assistant Professor — (1984-1988) — UT Health Science Center, Houston — Assistant Professor — (1989-1997) — UT Health Science Center, Houston — Professor — (1997-)
 <!-- tah-tables:end -->
+
+## Role in the Community
+- Recorded in the TAH Foundation Who's Who corpus as record #2115, published 2018-05-27 — [[works/taiwaneseamericanhistory-org/whos-who-2115-wen-yaw-chan|2115. Prof. Wen-Yaw Chan 詹文耀教授]].
+- Elected Academy Member of the ASPH/Pfizer Public Health Academy of Distinguished Teachers (2012-2017) — a national teaching honor noted in the community record.
+
+## Timeline
+- 1974 — B.S. Mathematics, National Central Univ.
+- 1978 / 1984 — M.S. Mathematics / Ph.D. Statistics, Ohio State Univ.
+- 1984-1988 — Case Western Reserve Univ., assistant professor
+- 1989 — UT Health Science Center, Houston (assistant prof. → professor 1997)
+- 2018-05-27 — Who's Who record #2115 published in the TA Archives corpus
 
 ## Family
 
