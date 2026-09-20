@@ -21,6 +21,11 @@ last_reviewed: 2026-09-20
 
 H. L. Hung (洪榮隆) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
 
+## Role in the Community
+- **2014 President of the Formosan Association for Human Rights (全美台灣人權協會)**, with Vice-President 楊明昊 (Michael Yeun), Secretary-General 蔡靜煌 (Ching-huang Tsai), and Finance 李賢群 (Tony Lee); he also served on the board of directors the same year ([[works/taiwaneseamericanhistory-org/ourjourneys75|75. 台灣人權協會的開始與現況 / 張丁蘭 / 2014-12]], EN: [[works/taiwaneseamericanhistory-org/ourjourneys75-eng|record]]).
+- The FAHR leadership roster appears in Tina Chang's founding history of the association (1976 NYC founding, 張丁蘭 organizer), placing Hung in the line of the oldest overseas Taiwanese human-rights organization; sister org page [[organizations/formosan-association-for-human-rights|FAHR]].
+- His own TAH encyclopedia profile: [[works/taiwaneseamericanhistory-org/whoswho1239|1239. H. L. Hung 洪榮隆 / 2016-08]].
+
 ## Family
 
 _No filled family fields on the TAH profile._
