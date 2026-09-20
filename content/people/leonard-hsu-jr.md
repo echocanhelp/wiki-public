@@ -30,6 +30,9 @@ last_reviewed: 2026-08-30
 
 - **Spouse**: Phoenix
 - **Children**: Two sons - Lennix and Leon
+- **Parents**: **NEED YOU** — see open question below
+  - *Open question (owner 2026-09-20)*: the suffix **Jr.** states the father's English name is also **Leonard Hsu**. Open-web hit (inferred, not yet attributed): LA Times 1985-06-06 & 1985-07-21 profile a **Leonard Hsu** of Monterey Park — "poet, musician, conductor, entrepreneur and Taiwanese patriot," owner of **Good Shine Kitchen (故鄉)** + bakery + food shop; a prominent figure in the LA Taiwanese community. The family's recorded anchor (grandmother 孫榮基 d. 1995 Monterey Park) is the same city. Owner has stated the 五龍 candidates are all incorrect, so the 贊育-line assumption for the FATHER edge is suspended pending owner confirmation.
+  - [LA Times 1985-06-06](https://www.latimes.com/archives/la-xpm-1985-06-06-fo-7155-story.html) · [LA Times 1985-07-21](https://www.latimes.com/archives/la-xpm-1985-07-21-mn-6906-story.html)
 
 ## Summary
 
