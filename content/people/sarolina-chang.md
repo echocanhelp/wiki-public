@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-19
+last_reviewed: 2026-09-20
 ---
 # Sarolina Chang (沈麗華)
 
@@ -44,6 +44,8 @@ Writer (pen name 思理) publishing essays and poetry in the TAH 文學/Literatu
 - [[works/taiwaneseamericanhistory-org/literature-1338|1338. 往日情懷]] (2020/03)
 
 HOLD: byline variants Sarolina Chang vs Sarlina Shen Chang vs pen name 思理 across records — not auto-merged.
+
+Corpus re-grep 2026-09-20: hit set unchanged (own works + the two 畢思理博士/Beasley records, where 思理 is a false-positive substring of his Chinese name — not her pen name). No new memoir material — SKIP deepening.
 
 ## Sources
 - [TAH #105 encyclopedia: 105. Sarolina Chang 沈麗華](https://taiwaneseamericanhistory.org/104-%e6%b2%88%e9%ba%97%e8%8f%af-sarolina-chang/)
