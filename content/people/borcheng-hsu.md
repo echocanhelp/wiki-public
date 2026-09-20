@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-18
+last_reviewed: 2026-09-20
 ---
 # BorCheng Hsu (許伯丞)
 
@@ -24,6 +24,7 @@ BorCheng Hsu (許伯丞) is listed in the TAH Foundation Who’s Who Taiwanese A
 ## Role in the Community
 - Co-founder of TaiwanFest New York: in 2022 he told 中央社 he had participated in founding the event 20 years earlier (i.e. around 2002), and that he wants the festival to encourage a new generation of Taiwanese entrepreneurs in New York — see [[articles/taiwanjustice-net/2022/20220705123945_2022_06_19_睽違3年-紐約重現台灣市集人潮絡繹不絕_d7b960d1fafbdf9e|睽違3年 紐約重現台灣市集人潮絡繹不絕 (2022-06-19)]].
 - Profiled twice in the TAH Who's Who corpus: [[works/taiwaneseamericanhistory-org/whos-who-1175-borcheng-hsu|1175. BorCheng Hsu 許伯丞]] (2016-07-23) and [[works/taiwaneseamericanhistory-org/117-bro-cheng-hsu|117. BorCheng Hsu 許伯丞]] (2018-09-26).
+- In 2016 he personally paid to register and rent a float for Taiwan in the New York Pride March (June 26), saying his years of community work had brought him many queer Taiwanese friends and their stories about LGBT struggles; he ran a GoFundMe (TaiwanPrideNYC) to cover the float expenses — per the community announcement [[works/taiwaneseamerican-org/2016-taiwan-gay-pride-parade-in-ny|2016 Taiwan Gay Pride Parade in NY]].
 
 ## Timeline
 - 2002 (approx., per his own 2022 statement "20年前") — co-founded TaiwanFest New York.
