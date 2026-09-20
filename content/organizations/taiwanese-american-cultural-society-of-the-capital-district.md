@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-19
+last_reviewed: 2026-09-20
 ---
 # Taiwanese American Cultural Society of the Capital District (紐約州首府區台美文化促進會)
 
@@ -20,7 +20,9 @@ The Taiwanese American Cultural Society of the Capital District, Inc. (TACS) is 
 
 ## Role in the Community
 
-Event records in the TAH story corpus corroborate the society's performing-arts programming: [[works/taiwaneseamericanhistory-org/concert11|11. The Passion of Taiwan (台灣心台灣情音樂會) by TACS of the Capital District, 2014]] — a bibliographic record of the 2014 concert. The corpus also holds a TACSR series (tacsr-1988, -1993, -1995, -2001, -2018) whose titles carry the TACS-R initials but whose briefs are bibliographic stubs with era 2019; they do not document this society's own activities and are not absorbed as TACS events.
+Event records in the TAH story corpus corroborate the society's performing-arts programming: [[works/taiwaneseamericanhistory-org/concert11|11. The Passion of Taiwan (台灣心台灣情音樂會) by TACS of the Capital District, 2014]] — a bibliographic record of the 2014 concert. The corpus also holds a TACSR series (tacsr-1988, -1993, -1995, [[works/taiwaneseamericanhistory-org/tacs-2001|TACSR 2001]], -2018) whose titles carry the TACS-R initials but whose briefs are bibliographic stubs with era 2019; they do not document this society's own activities and are not absorbed as TACS events.
+
+The society carries its own directory-style records in the corpus: [[works/taiwaneseamericanhistory-org/taiwanese-american-cultural-society-of-the-capital-district|Taiwanese American Cultural Society of the Capital District 紐約州首府區台美文化促進會 (2015-07-28)]] and [[works/taiwaneseamericanhistory-org/taiwanese-american-cultural-society-of-the-capital-district-2|a second entry (2017-09-15)]] — both bibliographic records of the organization's own corpus page. The joint predecessor history is additionally held at [[works/taiwaneseamericanhistory-org/project-3-18|18. Brief History of Taiwanese American Association of the Capital District and TACS, 紐約首府區台灣同鄉會及台美文化促進會簡介 (2017-10-27)]], an earlier English-language companion to the 2024 二十週年回顧; it corroborates the TAA-CDNY→TACS lineage narrated above and adds no new dates.
 
 Per the community memoir by Chungchin Chen 陳仲欽, TACS grew directly out of the Taiwanese American Association of the Capital District (TAA-CDNY, founded 1970 as the New York State Capital District Formosan Fellowship). After the association's 1974 and 1984 attempts at 501(c)(3) status were denied, its board decided in 2003 to incorporate under the new name. 36 member families each donated $200 as founding capital, and Chungchin Chen — then a director of the New York Council of Nonprofits — recommended a professional lawyer who drafted the certificate of incorporation and by-laws and handled the IRS application, which was approved quickly. The first general assembly on August 4, 2004 elected nine directors; the four officers were 會長李錫洋 (William C. Lee), 副會長陳仲欽 (Chungchin Chen), 秘書楊偉實 (Wei-shih Yang), and 財務陳麗玲 (Li-ling Chen).
 
