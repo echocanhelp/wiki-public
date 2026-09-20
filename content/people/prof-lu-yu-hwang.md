@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-20
 ---
 # Prof. Lu-Yu Hwang (黃綠玉教授)
 
@@ -33,6 +33,10 @@ last_reviewed: 2026-08-17
 
 - **Husband:** R. Palmer Beasley
 
+
+## Role in the Community
+
+- Community records held in the corpus as [[works/taiwaneseamericanhistory-org/whos-who-2184-lu-yu-hwang|TAH encyclopedia record #2184 (2019-05-04)]] and [[works/taiwaneseamericanhistory-org/ota-253|TAH record #253 (2019-02-23)]]. Corpus-wide grep for 黃綠玉 / Lu-Yu Hwang returns only these two own-records and the works index — both bibliographic only (value band B); no memoir text in the vault names her, so no community activity beyond the TAH Who's Who entries themselves is absorbable (deepen-x 2026-09-20: SKIP-with-reason).
 
 ## Sources
 - [TAH #2184 encyclopedia: 2184. Prof. Lu-Yu Hwang 黃綠玉教授](https://taiwaneseamericanhistory.org/whos-who-2184-lu-yu-hwang/)
