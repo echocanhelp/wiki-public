@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-20
 ---
 # Chun-Yung Lin (林純容)
 
@@ -28,6 +28,10 @@ last_reviewed: 2026-08-17
 ## Family
 
 _No filled family fields on the TAH profile._
+
+## Role in the Community
+- **2014** — 理事（director）of 全美台灣人權協會 (FAHRR) under 會長洪榮隆 (H. L. Hung), per the 2014 board roster preserved in 張丁蘭's memoir — sourced from 張丁蘭's story, 2000 ([[works/taiwaneseamericanhistory-org/ourjourneys75|75. 台灣人權協會的開始與現況 / 張丁蘭]]; EN copy [[works/taiwaneseamericanhistory-org/ourjourneys75-eng|ourjourneys75-eng]]).
+- TAH profile also lists 美國台灣研究院 研究員 (see Employment).
 
 ## Sources
 - [TAH #1732 encyclopedia: 1732.  Chun-Yung Lin 林純容 / 07/2017](https://taiwaneseamericanhistory.org/whoswho1732/)
