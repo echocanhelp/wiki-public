@@ -33,6 +33,9 @@ last_reviewed: 2026-08-17
 - **Father:** 沈永俊
 
 
+## Role in the Community
+- His TAH Who's Who profile is preserved in our story corpus as community historical record (entry 1272, published 2016-09-11): [[works/taiwaneseamericanhistory-org/whoswho1272|1272. Hyden Shen 沈尚哲 / 09/2016]]. No further community/corpus material found beyond the bibliographic record.
+
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/hyden-shen/)
 

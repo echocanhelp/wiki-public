@@ -33,6 +33,9 @@ last_reviewed: 2026-08-17
 - **Husband:** Hsinlin Cheng
 
 
+## Role in the Community
+- Her TAH Who's Who profile is preserved in our story corpus as community historical record (entry 2224, published 2019-11-06): [[works/taiwaneseamericanhistory-org/whos-who-2224-jennifer-rorie-cheng|2224. Jennifer Rorie Cheng]]. No further community/corpus material found beyond the bibliographic record.
+
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/jennifer-rorie-cheng/)
 
