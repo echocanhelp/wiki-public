@@ -29,6 +29,9 @@ last_reviewed: 2026-09-20
 - Fashion designer of jewelry line and clothing line
 <!-- tah-tables:end -->
 
+## Role in the Community
+- Corpus scan 2026-09-20: the only corpus records naming her are her own TAH directory entries ([[works/taiwaneseamericanhistory-org/whos-who-2180-tonya-c-mezrich|TAH #2180]], [[works/taiwaneseamericanhistory-org/ota-263|TAH #263]], both bibliographic records already cited below). No memoir or community-history material found — nothing absorbable.
+
 ## Family
 
 - **Husband:** [[people/ben-mezrich||Ben Mezrich]]

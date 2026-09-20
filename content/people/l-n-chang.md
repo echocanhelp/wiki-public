@@ -28,6 +28,9 @@ last_reviewed: 2026-09-20
 - Western Dental — 1992-1996 — General Dentist — University of Mississippi School of Dentistry — 1996-2001 — Clinical Instructor — Mississippi Department of Corrections — 2001-2004 — General Dentist — Cincinnati VA Medical Center — 2004-Present — General Dentist
 <!-- tah-tables:end -->
 
+## Role in the Community
+- Corpus scan 2026-09-20: the only corpus record naming her is her own TAH directory entry ([[works/taiwaneseamericanhistory-org/whos-ln-chang|TAH #1941]], a bibliographic record already cited below). No memoir or community-history material found — nothing absorbable.
+
 ## Family
 
 _No filled family fields on the TAH profile._

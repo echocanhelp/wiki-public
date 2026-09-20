@@ -33,6 +33,9 @@ Political Officer
 - Bureau of Intelligence and Research — Watch Officer
 <!-- tah-tables:end -->
 
+## Role in the Community
+- Corpus scan 2026-09-20: the only corpus record naming him is his own TAH directory entry ([[works/taiwaneseamericanhistory-org/whoswo1786|TAH #1786]], a bibliographic record already cited below). No memoir or community-history material found — nothing absorbable.
+
 ## Family
 
 _No filled family fields on the TAH profile._
