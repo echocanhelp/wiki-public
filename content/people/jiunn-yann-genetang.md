@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-19
+last_reviewed: 2026-09-20
 ---
 # Jiunn-yann Gene Tang (湯俊彥博士)
 
@@ -37,6 +37,7 @@ last_reviewed: 2026-09-19
 - Per [[works/taiwaneseamericanhistory-org/our-journeys-378|芝加哥台灣同鄉會50年的歳月]], Tang served as **1998 會長 of the Chicago Taiwanese Association (芝加哥台灣同鄉會)** (歷屆會長 list).
 - Listed among donors who bought artwork to support the TAH effort in 黃根深's foreword [[works/taiwaneseamericanhistory-org/ourjourneys256|寫在畫展之前]] — recorded as 達拉斯的湯俊彥 (Dallas).
 - His own TAH memoir record: [[works/taiwaneseamericanhistory-org/762-jiunn-yann-genetang-e6-b9-af-e4-bf-8a-e5-bd-a5-201601|762. Jiunn-yann (Gene) Tang 湯俊彥 /2016/01]].
+- The corpus also holds his donated archive as a dedicated collection page: [[works/taiwaneseamericanhistory-org/private-collections-86|86. Collection of the Dr. Jiunn Yann (Gene) Tang 湯俊彥博士的收藏]] — he is a primary-source contributor to the movement record, not only a participant.
 - HOLD: corps list places him in Madison, WI (early 1970s) and Dallas (2016 fund-drive) while the TAH profile lists no geography — no auto-merge of residence timeline.
 
 ## Family
