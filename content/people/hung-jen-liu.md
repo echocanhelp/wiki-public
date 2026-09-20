@@ -34,6 +34,7 @@ tags:
 
 ## Network
 - In a 2024-12-25 Taiwan Church News memorial for the theologian **[[people/choan-seng-song|Rev. Dr. Choan-Seng Song (宋泉盛)]]** (d. 2024-11-26), the author (Rev. Yang-I Hsieh 謝陽一, Atlanta) recalls lunching with Song in San Francisco together with **Rev. Liu Hung-jen** — the conversation covered the neglected Guanziling camp (關子嶺營地) and the Tainan Theological College affair (南神事件), placing Liu inside the elder statesman circle of the Taiwanese Presbyterian church. Source: [tcnn.org.tw/archives/226932](https://tcnn.org.tw/archives/226932).
+- Photographed with the family of Leonard Hsu Jr. (許景鴻, TAHS) at a Southern California JACL (Japanese American Citizens League) community event, September 2026 — the Rev. Hong/Hung-Jen wears a JACL-SoCal lanyard; the event spelling "Hong" matches the pinyin-influenced rendering of 弘仁 (see Name Variants). Photo in corpus custody: `knowledge/interactions/photos/2026-09-20-hsu-parents-with-rev-hung-jen-liu.jpg` (publication pending owner consent).
 
 ## Possible identity (unmerged leads)
 - A **劉弘仁** appears in the general-affairs roster (總務組) of the Taiwanese Club of Laguna Woods Village newsletter, 2017-07-18 — SoCal laymember roster; same person is plausible (near ITPC) but unconfirmed. Archived in corpus: `knowledge/web-archives/taiwaneseamericanhistory-org/posts/newsletter-of-taiwanese-club-laguna-woods-village.md`.
