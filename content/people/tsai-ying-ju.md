@@ -10,7 +10,7 @@ last_reviewed: 2026-09-20
 # Tsai Ying-ju (蔡瀛如)
 
 ## Identity Snapshot
-- **漢名:** 蔡瀛如 · **English (per public business record, unconfirmed as her handle):** Judy Hsu
+- **漢名:** 蔡瀛如
 - **Era:** Contemporary
 - **Geography:** Taiwan → Monterey Park / Southern California
 - **Core roles:** music tutor; spouse of [[people/ahhee-hsu||許丕龍 (Ahhee Hsu)]]
@@ -22,7 +22,8 @@ last_reviewed: 2026-09-20
 - **Sibling:** [[people/tsai-ing-wen||蔡英文 (Tsai Ing-wen)]] — sister (per 民報/費邊社 reporting cited on 景淳 page)
 
 ## From the record
-- Business record: registered agent of **The Rainbow Group** LP, 940 E. Garvey Ave, Monterey Park (CA SoS, filed 1984-07-25), as "Judy Hsu" — relationship unverified (see [[people/leonard-hsu-jr]] Family note)
+- **Name-collision guard:** "Judy Hsu" appearing as Rainbow Group agent (CA SoS 1984) is **NOT** her — owner-confirmed 2026-09-20: James & Judy Hsu were her husband's business partners, family name coincidental. Do not merge.
+- Family business history: [[organizations/good-shine-kitchen]] (sold to Jiping Sun, no family relation).
 
 ## NEED YOU
-- Birth date/place; marriage date; whether "Judy Hsu" business records are hers
+- Birth date/place; marriage date
