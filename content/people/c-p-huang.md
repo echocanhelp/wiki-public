@@ -29,6 +29,9 @@ _No filled family fields on the TAH profile._
 - [TAH #2100 encyclopedia: 2100. C. P. Huang  黃澄波](https://taiwaneseamericanhistory.org/whoswho2100/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/c-p-huang/)
 
+## Role in the Community
+- Corpus record: [[works/taiwaneseamericanhistory-org/whoswho2100|2100. C. P. Huang 黃澄波]] (TAH Who’s Who entry, published 2018-04-21). Bibliographic record only — no memoir/corpus narrative beyond the profile itself was found.
+
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
