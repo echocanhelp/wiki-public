@@ -39,6 +39,7 @@ http://blog.xuite.net/ysyang0102/twblog/145974084-%E7%9F%BD%E8%B0%B7%E4%B9%8B%E5
 - NATPA 會員：1990 年北美洲台灣人教授協會首度回台年會募款中捐出一萬美元（[[works/taiwaneseamericanhistory-org/ourjourneys47|47. NATPA 首度回台召開年會的經緯和歷史意義]]）。
 - 美西台灣同鄉會、教授協會、工程師協會聯合籌備會中，與方森茂（低調不出鋒頭的兩位大企業家）各捐一萬美元（[[works/taiwaneseamericanhistory-org/ourjourneys239|239. 從參加美西台灣同鄉夏令會說起]]）。
 - 楊遠薰〈台灣人的移美潮〉以「八十年代在矽谷創業成功的顏永財與莊和子夫婦」為代表事例（[[works/taiwaneseamericanhistory-org/ourjourneys236|236. 台灣人的移美潮]]）。
+- 石清正〈在矽谷創業臺美人〉（2014/09）獨立記述：「1981年顏永財、莊和子夫婦創辦 Micro Lithography Inc.，專門製造保護光罩的 Pellicle 護膜，現為這類產品最大的製造公司」，並記夫婦「很熱心支持臺灣文化及社區活動」（[[works/taiwaneseamericanhistory-org/ourjourneys19|19. 在矽谷創業臺美人]]）。此為 1981 創辦年之第二獨立來源；HOLD 維持不併 TAH 檔案表之 1982。
 - 本人為題的故事記錄：[[works/taiwaneseamericanhistory-org/794-yung-tsai-yen-e9-a1-8f-e6-b0-b8-e8-b2-a1-201601|794. Yung-Tsai Yen 顏永財 / 2016/01]]。
 
 ## Family
