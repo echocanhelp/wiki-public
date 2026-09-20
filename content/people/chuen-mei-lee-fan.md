@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-18
+last_reviewed: 2026-09-20
 ---
 # Chuen-Mei Lee Fan (范李春美教授)
 
@@ -33,6 +33,7 @@ last_reviewed: 2026-09-18
 ## Family
 
 - **Husband:** [[people/liang-shing-fan||范良信]]
+- HOLD: conflict — the TAH directory lists her husband as 范良信, but 謝伯芳's 2021 memoir [[works/taiwaneseamericanhistory-org/ourjourneys-369|369. 懷憶六十年代前期的明市]] records her as 殷宗舜's betrothed (訂婚 in Taiwan, reunited in Minneapolis 1959). Sequence/unresolved; not auto-merged.
 
 
 ## Role in the Community
