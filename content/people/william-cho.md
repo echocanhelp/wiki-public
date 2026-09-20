@@ -38,6 +38,7 @@ last_reviewed: 2026-09-20
 
 - The corpus history of the Taiwanese American Foundation ([[works/taiwaneseamericanhistory-org/ourjourneys33-2|33. 台美協進會的歷史]]; English version [[works/taiwaneseamericanhistory-org/ourjourneys33-eng|33. History of TAF]]) names Cho a founding member of the Midwest Formosan Christian Foundation (photo of MFCF founders incl. Carol Cho and Bill Cho, circa 1990) and one of the six first-board directors who passed the by-law renaming MFCF to TAF in Chicago on October 18, 1980 — alongside 莊明哲, 張信義, 陳植哲, 洪宏謨, and 楊忠正 — after which TAF launched its first youth programs.
 - In retirement he gave back as a teacher in the community's lifelong-learning programs: the Irvine 台灣長老教會 (ITPC) 長青教室 curriculum lists Cho as the lecturer for 「人生下半場」 ([[works/taiwaneseamericanhistory-org/ourjourneys107|107. 長青教室 sponsored by Irvine台灣長老教會(ITPC) / 2015/02]]).
+- He also wrote from inside the movement: his own memoir of the 1994 TAF youth summer camp, 「意外的收獲」, is preserved in the corpus ([[works/taiwaneseamericanhistory-org/ourjourneys262|262. 意外的收獲 記1994年TAF青少年夏令營活動 / 卓甫良 /10/2016]]), complementing the 1981 camp memoir written by a camper's parent.
 
 ## Family
 

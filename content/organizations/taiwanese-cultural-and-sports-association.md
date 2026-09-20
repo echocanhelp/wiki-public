@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-19
+last_reviewed: 2026-09-20
 ---
 # Taiwanese Cultural and Sports Association (台灣文化體育協會)
 
@@ -24,7 +24,7 @@ TCSA (also styled 北加州台灣文化體育協會, Taiwanese Cultural & Sports
 ## From the record
 - **2016-08-13** — Organized the 2016 Kid's Fun Festival 國際童玩節 at Cupertino, CA, documented in the TAH collection: [[works/taiwaneseamericanhistory-org/8-kids-fun-festival-by-tcsa|8. 2016 Kid's Fun Festival 國際童玩節 by TCSA at Cupertino]].
 - **2016-08-18** — Listed in the TAH directory collection as entry 37, representing the Northern California chapter: [[works/taiwaneseamericanhistory-org/37-taiwanese-cultural-and-sports-association|37. Taiwanese Cultural and Sports Association 台灣文化體育協會(北加州)]].
-- **2016-12-28** — Association annual meeting in San Jose 聖荷西 was covered by 臺灣宏觀電視 (per the taiwanjustice.net archive record "北加州【聖荷西】台灣文化體育協會年會"; underlying tier2 capture, tag page itself shows no posts).
+- **2016-12-28** — Association annual meeting in San Jose 聖荷西 was covered by 臺灣宏觀電視 (per the taiwanjustice.net archive record "北加州【聖荷西】台灣文化體育協會年會/臺灣宏觀電視 2016-12-28"; underlying tier2 capture — the 台灣文化體育協會年會 tag page on the live site shows "No posts to display", so the tier2 capture is the only surviving layer of this event).
 
 Naming note: the directory uses both "Taiwanese Cultural and Sports Association" and "Taiwanese Cultural & Sports Association 北加州台灣文化體育協會" — treated as the same org (Northern California), no date/age conflicts found.
 
