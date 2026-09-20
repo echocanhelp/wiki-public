@@ -681,3 +681,7 @@
 {"ts": "2026-09-14T19:59:22Z", "status": "miss", "query": "Yes thats me", "slug": null, "source": "brain", "kind": null}
 {"ts": "2026-09-14T19:59:32Z", "status": "miss", "query": "/sethome", "slug": null, "source": "brain", "kind": null}
 {"ts": "2026-09-17T21:55:29Z", "status": "hit", "query": "[Hsuperman] what is the nemotron for", "slug": "american-citizens-for-taiwan", "source": "brain", "kind": "organization"}
+{"ts": "2026-09-20T03:17:08Z", "status": "miss", "query": "[Hsuperman] Tell me about 劉弘仁牧师", "slug": null, "source": "brain", "kind": null}
+{"ts": "2026-09-20T04:58:33Z", "status": "hit", "query": "[Hsuperman] What are lessons learned from this exercise that can be broadly applied to echopedia person linking logic", "slug": "taiwanese-american-citizens-league-la", "source": "brain", "kind": "organization"}
+{"ts": "2026-09-20T05:07:08Z", "status": "hit", "query": "[Hsuperman] There should never be any invented fillers for echopedia, do you understand why and whats the best way to enforce this", "slug": "tiffany-huang", "source": "brain", "kind": "person"}
+{"ts": "2026-09-20T05:18:32Z", "status": "hit", "query": "[Hsuperman] now tell me about leonard hsu jr and who my parents could be, list your assumptions for audit purposes", "slug": "leonard-hsu-jr", "source": "brain", "kind": "person"}

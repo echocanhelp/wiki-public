@@ -1461,11 +1461,11 @@ On a phone, **use header search** (漢名 or English). This page is an A–Z lis
 [[people/michael-c-lu|Michael C. Lu]]
 [[people/michael-chong|Michael Chong]]
 [[people/michael-deng-fong-liau|Michael Deng Fong Liau (廖登豐博士)]]
-[[people/michael-fonte|Michael Fonte (彭光理)]]
 [[people/michael-k-yu|Michael K. Yu (游貴森醫師)]]
 [[people/michael-luo|Michael Luo (羅明瀚)]]
 [[people/michael-s-k-chen|Michael S. K. Chen (陳希寬博士)]]
 [[people/michael-yeh|Michael Yeh (葉明青)]]
+[[people/michael-fonte|michael-fonte]]
 [[people/michele-cheng|Michele Cheng]]
 [[people/michelle-kuo|Michelle Kuo (郭怡慧)]]
 [[people/michelle-wu|Michelle Wu (吳彌)]]
@@ -1854,6 +1854,7 @@ On a phone, **use header search** (漢名 or English). This page is an A–Z lis
 [[people/en-sheng-pan|Rev. En Sheng Pan (潘恩盛)]]
 [[people/guo-dongxu|Rev. Guo Dongxu (郭東緒牧師)]]
 [[people/rev-h-d-chen|Rev. H. D. Chen (陳浩德牧師)]]
+[[people/hung-jen-liu|Rev. Hung-Jen Liu (劉弘仁)]]
 [[people/rev-ian-cheng|Rev. Ian Cheng (鄭溢恩牧師)]]
 [[people/rev-j-c-cheng|Rev. J. C. Cheng (鄭紀昭牧師)]]
 [[people/rev-j-m-hsu|Rev. J. M. Hsu (許錦銘)]]
@@ -2490,34 +2491,3 @@ On a phone, **use header search** (漢名 or English). This page is an A–Z lis
 [[people/tah-p-b5dfddaa1e|黃蔡瑞雲]]
 [[people/tah-p-73e6156ed8|黃邱淑惠]]
 [[people/tah-p-aed84f7112|黃開榮]]
-
-## Network
-
-Pages that link to **index** (index):
-
-
-### People (17)
-
-1. [[people/alexander-macdonald|alexander-macdonald]]
-2. [[people/hu-gstpc|hu-gstpc]]
-3. [[people/ku-gstpc|ku-gstpc]]
-4. [[people/leonard-hsu-jr|leonard-hsu-jr]]
-5. [[people/qiu-yunen|qiu-yunen]]
-6. [[people/shoki-coe|shoki-coe]]
-7. [[people/wang-gstpc|wang-gstpc]]
-8. [[people/wang-xinxin|wang-xinxin]]
-9. [[people/willy-pan|willy-pan]]
-10. [[people/xiao-xien|xiao-xien]]
-11. [[people/xie-dali|xie-dali]]
-12. [[people/xie-xinguang|xie-xinguang]]
-13. [[people/xie-xinzhong|xie-xinzhong]]
-14. [[people/xu-wenkai|xu-wenkai]]
-15. [[people/zhang-xuanxin|zhang-xuanxin]]
-16. [[people/zheng-quansheng|zheng-quansheng]]
-17. [[people/zhuang-xinde|zhuang-xinde]]
-
-### Organizations (3)
-
-1. [[organizations/ntpc|ntpc]]
-2. [[organizations/presbyterian-church-in-taiwan|presbyterian-church-in-taiwan]]
-3. [[organizations/taiwan-formosa|taiwan-formosa]]
