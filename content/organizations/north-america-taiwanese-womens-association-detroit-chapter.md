@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-18
+last_reviewed: 2026-09-20
 ---
 # North America Taiwanese Women’s Association – Detroit Chapter (北美洲台灣婦女會底特律分會)
 
@@ -22,7 +22,9 @@ North America Taiwanese Women’s Association – Detroit Chapter is a local cha
 The Detroit Chapter is one of the regional chapters documented in TAH's NATWA corpus, alongside the [[organizations/north-america-taiwanese-womens-association-greater-san-diego-chapter|Greater San Diego Chapter]], [[organizations/north-america-taiwanese-womens-association-oregon-southwest-washington-chapter|Oregon/Southwest Washington Chapter]], [[organizations/north-america-taiwanese-womens-association-kansas-chapter|Kansas Chapter]], [[organizations/north-america-taiwanese-womens-association-arizona-chapter|Arizona Chapter]], [[organizations/north-america-taiwanese-womens-association-st-louis-chapter|St. Louis Chapter]] and others under [[organizations/north-america-taiwanese-womens-association|NATWA]] headquarters.
 Chapter-level activity in the Detroit area appears in the Our Journeys / community-records sweep, e.g. Detroit-area Taiwanese community organizing documented in [[works/taiwaneseamericanhistory-org/taiwanese-association-of-america-detroit-chapter-activity|Taiwanese Association of America – Detroit Chapter activity]] and [[works/taiwaneseamericanhistory-org/taiwanese-chambers-of-commerce-of-greater-detroit|Taiwanese Chambers of Commerce of Greater Detroit]]. NATWA-wide organizing is recorded in [[works/taiwaneseamericanhistory-org/663-e5-8c-97-e7-be-8e-e6-b4-b2-e5-8f-b0-e7-81-a3-e5-a9-a6-e5-a5-b3-e6-9c-83-e8-8|663. 北美洲台灣婦女會聯誼通訊 第七期 (1992-06)]].
 
-HOLD: no Detroit-specific NATWA memoir text in the corpus yet; chapter founding date and officers unknown.
+Chapter records in the TAH corpus: the chapter itself is documented in [[works/taiwaneseamericanhistory-org/natwa-detroit-chapter|4. Detroit Chapter / NATWA 北美洲台灣婦女會底特律分會]] (2015-12-28). Its community-facing activity centers on Taiwanese food fairs — [[works/taiwaneseamericanhistory-org/photo-albums-activities-24|底特律婦女會2014年台灣美食小吃盛會]] (2014-11-24), [[works/taiwaneseamericanhistory-org/important2016-17|台灣小吃會 by NATWA-Detroit in Royal Oak, MI]] (11/12/2016), and [[works/taiwaneseamericanhistory-org/social-activities-55|台灣美食小吃點心擔 by NATWA Detroit(車城)]] (2016-12-02). Officer history appears in the memoir [[works/taiwaneseamericanhistory-org/ourjourneys33|33. 一家人做伙來打拼 (張炎憲, 2014-09)]]: 月英 (of the 張伯寬 family) served as 底特律婦女會會長 from 1999 and as 北美洲台灣婦女會 secretary from 2002, handling annual-convention registration.
+
+HOLD: chapter founding date unknown; 1999 底特律婦女會 vs later NATWA-Detroit naming not auto-reconciled.
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/north-america-taiwanese-womens-association-detroit-chapter/)

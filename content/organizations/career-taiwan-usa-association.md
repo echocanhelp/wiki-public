@@ -6,7 +6,7 @@ tags:
   - Taiwanese-American
   - Taiwan-Center-group-member
 verification_status: published
-last_reviewed: 2026-09-18
+last_reviewed: 2026-09-20
 ---
 # Career Taiwan USA Association
 
@@ -21,6 +21,15 @@ last_reviewed: 2026-09-18
 - **Relation:** Taiwan Center group member (official listing)
 - **Source:** https://www.taiwancenter.org/group-members · `taiwancenter-org-group-members.md`
 
+## Role in the Community
+
+- 2014-12-20 — First corpus footprint: the association (as 台灣青年美國職涯發展協會) has its own entry in the TAHS taiwaneseamericanhistory.org story corpus, professional category record #8 ([[works/taiwaneseamericanhistory-org/professional8|8. 台灣青年美國職涯發展協會]]) — the org existed and was community-documented at least 6 years before its Taiwan Center membership listing.
+- 2016-12-09 — A second corpus record, a dedicated story page for the association ([[works/taiwaneseamericanhistory-org/career-taiwan-usa-association|Career Taiwan Usa Association 台灣青年美國職涯發展協會]]) — both records carry the 發展 name variant, corroborating the variant noted above.
+- 2020-04-25 — Co-organized the Taiwan Center's first virtual event, attorney-director 陳啟耕's online immigration webinar (100+ participants), in the early pandemic when US immigration-policy shifts confused many overseas Taiwanese ([[articles/taiwanjustice-net/2020/20201126153300_2020_06_23_大洛杉磯台灣會館_疫情擋不住人情_濟困扶危挺_c05e2d53013fcd15|TJJ, 2020-06-23]]).
+- 2021-05-07 — Co-hosted the center's 生活座談六 on studying and job-hunting in the US with 顧宗浩 (ex-Facebook/Slack SWE) and 林沅融 (Lam Research process engineer), moderated by president Michael C.Y. Lin (USC PhD, Milken Institute urban economist) ([[articles/taiwanjustice-net/2021/20210616075349_2021_05_07_大洛杉磯台灣會館生活座談六-美國留學及求職經_e1fdfc4988f0e46e|TJJ, 2021-05-07]]).
+
+Community role: a career/professional-development association for young Taiwanese Americans in the US, active within the Taiwan Center Foundation of Greater Los Angeles orbit from at least 2014, providing practical services (immigration guidance, study/job-hunting mentorship) to the LA-area community.
+
 ## Source Notes
 
 - **Content priority A:** Name on Taiwan Center group-members page  
@@ -31,8 +40,5 @@ last_reviewed: 2026-09-18
 
 - [[organizations/taiwan-center||Taiwan Center]]
 - [[sources/taiwancenter-org||taiwancenter.org]]
-
-## From the record
-
-- 2020-06-23 — A TJJ report on the Taiwan Center's pandemic relief names Career Taiwan USA Association as co-organizer (with the center) of attorney-director 陳啟耕's April 25 online immigration webinar — the center's first virtual event, drawing over 100 participants ([[articles/taiwanjustice-net/2020/20201126153300_2020_06_23_大洛杉磯台灣會館_疫情擋不住人情_濟困扶危挺_c05e2d53013fcd15|TJJ, 2020-06-23]]).
-- 2021-05-07 — Co-hosted (with the Taiwan Center) the center's 生活座談六 seminar on studying and job-hunting in the US, speakers 顧宗浩 (ex-Facebook/Slack software engineer) and 林沅融 (Lam Research process engineer), moderated by president Michael C.Y. Lin ([[articles/taiwanjustice-net/2021/20210616075349_2021_05_07_大洛杉磯台灣會館生活座談六-美國留學及求職經_e1fdfc4988f0e46e|TJJ, 2021-05-07]]).
+- [[works/taiwaneseamericanhistory-org/professional8|8. 台灣青年美國職涯發展協會]]
+- [[works/taiwaneseamericanhistory-org/career-taiwan-usa-association|Career Taiwan Usa Association 台灣青年美國職涯發展協會]]
