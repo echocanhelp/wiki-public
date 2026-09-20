@@ -7,7 +7,7 @@ tags:
   - taiwanjustice-net
   - thin-page
 verification_status: pending
-last_reviewed: 2026-09-19
+last_reviewed: 2026-09-20
 ---
 # Han Kuo-yu (韓國瑜)
 
@@ -23,6 +23,7 @@ last_reviewed: 2026-09-19
 ## Source Notes
 
 - **Content priority A:** Article hit count (124) from `knowledge/research/taiwanjustice-net-entities.md` (title extraction)
+- **Recheck 2026-09-20:** corpus grep of `content/works` / `content/articles` returned only the taiwanjustice.net archive articles already absorbed below — no Our Journeys / memoir (diaspora) material on Han; SKIP for further deepening.
 - **Content priority B:** Public office / role labels from secondary knowledge used only for disambiguation — expand only with primary sources
 - **Hub:** [[sources/taiwanjustice-net||taiwanjustice.net source hub]]
 - **Primary org:** [[organizations/taiwanjustice-net||taiwanjustice.net (台灣公義網)]]
