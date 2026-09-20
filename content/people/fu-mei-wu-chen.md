@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-18
+last_reviewed: 2026-09-20
 ---
 # Fu-Mei Wu Chen (陳吳富美)
 
@@ -44,6 +44,7 @@ last_reviewed: 2026-09-18
   - [[works/taiwaneseamericanhistory-org/mystories498|498. My Grandson / 陳吳富美 / 12/2016]]
   - [[works/taiwaneseamericanhistory-org/publications1154|1154. 關懷雜集 / 陳吳富美 (府城石舂臼人) / 10/2017]]
 - Her TAH Who's Who record: [[works/taiwaneseamericanhistory-org/whos-who-327-fu-mei-wu-chen|327. Fu-Mei Wu Chen 陳吳富美 / 2015/03]].
+- **Archivist/donor to the community record:** her own historical collection was accessioned by the TAH archive as [[works/taiwaneseamericanhistory-org/collection-of-mrs-fu-mei-wu-chen|50. Collection of Mrs. Fu-Mei Wu Chen 陳吳富美女士的收藏]] (recorded 2017-12-22, Band B) — she is documented not only as a memoir contributor but as a collector who preserved Taiwanese American materials for the community record.
 
 ## Sources
 - [TAH #327 encyclopedia: 327. Fu-Mei Wu Chen 陳吳富美/2015/03](https://taiwaneseamericanhistory.org/whos-who-327-fu-mei-wu-chen/)
