@@ -34,6 +34,12 @@ last_reviewed: 2026-09-20
 - **Wife:** 麗榮
 
 
+## Role in the Community
+- Listed among the New York 同鄉会 representatives (with 楊黃美幸、吳太太) acknowledged in the 世界台灣人美術展覽專刊 preface, per [[works/taiwaneseamericanhistory-org/ourjourneys256|256. 寫在畫展之前 / 黃根深]] — indicating participation in the world Taiwanese art-exhibition network in New York.
+- Employment match with existing text: the same record sits alongside his 台獨聯盟辦公室 role already listed above; no conflict.
+- NOTE: 'Kristin C. C. Lin' (Shung Ye Museum chair, mentioned in a taiwaneseamerican.org art article) is a different person — not absorbed here.
+- His own encyclopedia record: [[works/taiwaneseamericanhistory-org/whoswho1267|TAH #1267]].
+
 ## Sources
 - [TAH #1267 encyclopedia: 1267. C. C. Lin 林振昌 / 09/2016](https://taiwaneseamericanhistory.org/whoswho1267/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/c-c-lin/)

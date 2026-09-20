@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2015-06-09 — published
 
 ## Subjects
+- [[people/mei-xinyi.md|Lynn Alan Miles]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages
