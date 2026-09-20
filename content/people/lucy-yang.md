@@ -28,6 +28,10 @@ last_reviewed: 2026-09-20
 - Eyewitness News on Channel 7 WABC – TV New York — Reporter
 <!-- tah-tables:end -->
 
+## Role in the Community
+
+- Corpus 記錄僅見本人 TAH Who's Who 條目：[[works/taiwaneseamericanhistory-org/whos1095-lucy-yang|1095. Lucy Yang 楊淑詠]]（2016/06）。回憶錄與社運文本中暫無其他獨立事跡可吸收。
+
 ## Family
 
 - **Father:** 楊冠傑 Mother:楊雪鳳
