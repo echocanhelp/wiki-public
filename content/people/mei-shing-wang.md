@@ -55,3 +55,4 @@ _No filled family fields on the TAH profile._
 - 再核（deepen-x slice-09170130-16, 2026-09-17）：hit 集與上述完全相同（#535、#537、#1592、profile 66、collection 25、#1089），全數已連結，無新可吸收事實。
 - 再核（deepen-x slice-09170500-14, 2026-09-17）：re-grep 王美幸 / Mei Shing Wang 對 content/works + content/articles — hit 集不變，全數已連結於 Role in the Community，無新可吸收事實。SKIP-with-reason。
 - 再核（deepen-x slice-09180131-14, 2026-09-18）：hit 集新增 artshow15（2017 聖地牙哥油畫/琉璃展）與 publications1088（《燦爛時光》畫冊）→ 已吸收記入 Role in the Community。DEEPENED。
+- 再核（deepen-x slice-09181500-7, 2026-09-20）：re-grep 王美幸 / Mei Shing Wang — hit 集不變（#535、#537、#1592、profile 66、collection 25、#1089），全數已連結。SKIP-with-reason：語料已飽和。

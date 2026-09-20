@@ -29,6 +29,7 @@ The Taiwanese Evergreen Academy is a federally and state-registered nonprofit ed
 - Corpus re-grep (slice deepen-x-slice-09170130-12, 2026-09-17): hit set unchanged — yearbook, #28 encyclopedia entry, Our Journeys 297 / 356 (+EN), and index only, all already cited above. Nothing new absorbable; no conflict surfaced.
 - Corpus re-grep (slice deepen-x-slice-09170500-9, 2026-09-17): hit set unchanged — yearbook, #28 encyclopedia entry, Our Journeys 297 / 356 (+EN), all already cited above. Nothing new absorbable; no conflict surfaced.
 - Corpus re-grep (slice deepen-x-slice-09180131-9, 2026-09-18): hit set unchanged — yearbook, #28 encyclopedia entry, Our Journeys 297 / 356 (+EN), index. SKIP-with-reason: 語料已飽和.
+- Corpus re-grep (slice deepen-x-slice-09181500-7, 2026-09-20): hit set unchanged — yearbook, #28 encyclopedia entry, Our Journeys 297 / 356 (+EN), index. SKIP-with-reason: 語料已飽和.
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-evergreen-academy/)
