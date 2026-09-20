@@ -37,6 +37,7 @@ Corpus records place Alan Yang as a touchstone for the Taiwanese American creati
 - Michelle Kuo's TA.org interview names him alongside Jeremy Lin, Vienna Teng, and Julie Wu as TAs who "graduated from prestigious universities with technical degrees and pivoted onto creative/unconventional paths" — [[works/taiwaneseamerican-org/interview-michellekuo|TA.org: Michelle Kuo interview]].
 - Credited as co-creator/producer of Aziz Ansari's *Master of None* in the community profile of fellow TA actor Kelvin Yu, who played the show's Taiwanese American lead — [[works/taiwaneseamerican-org/kelvin-yu|TA.org: Kelvin Yu]].
 - His 2020 Netflix film *Tigertail* (虎尾), an immigrant-suffering story, was covered in TAH's own record — [[works/taiwaneseamericanhistory-org/our-journeys-353|353. 「虎尾」登上Netflix，台裔導演楊維榕新片談移民艱辛]] — and made Rolling Stone's Best 20 Movies of 2020 in TA.org's film roundup — [[works/taiwaneseamerican-org/best-of-the-best-2020-lists-taiwan|TA.org: Best of the Best 2020]].
+- Co-wrote the first episode of *Master of None* with Kelvin Yu and novelist Charles Yu; the episode is dedicated to Betty L. Yu and Jin C. Yu for their service to the Taiwanese American community (TACL LID Youth Camp, South Bay Taiwanese-American School, NATEA-SC) — [[works/taiwaneseamerican-org/american-born-chinese-disney|TA.org: American-born Chinese at Disney]].
 - Own TAH encyclopedia record — [[works/taiwaneseamericanhistory-org/whos-who-2253-alan-yang|2253. Alan Yang 楊維榕]].
 
 ## Family
