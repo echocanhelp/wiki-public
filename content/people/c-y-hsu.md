@@ -68,7 +68,7 @@ TAH #49 / person card: 許贊育先生，字化功，一九一〇年生於台灣
 
 ## Family
 
-- **Wife:** 孫榮基 / 許孫榮基（TAH: 許孫榮）— **1913-01-21** 台南，清水寺牙醫**孫加再**次女；太平境幼稚園教師 at marriage; **1995-01-20** Monterey Park，享壽 83（[生平](http://www.laijohn.com/archives/pc/khou/Khou,Ciok/wife/brief/family.htm) · [訃音](http://www.laijohn.com/archives/pc/khou/Khou,Ciok/brief/wife/obituary.htm)）
+- **Wife:** 孫榮基 / 許孫榮基（TAH: 許孫榮）— **1913-01-21** 台南，清水寺牙醫**孫加再**次女；太平境幼稚園教師 at marriage; **1995-01-20** Monterey Park，享壽 83（[生平](http://www.laijohn.com/archives/pc/khou/Khou,Ciok/wife/brief/family.htm) · [訃音](http://www.laijohn.com/archives/pc/khou/Khou,Ciok/brief/wife/obituary.htm) · 本庫存檔：`knowledge/web-archives/laijohn-com/khou-ciok/`）
 - **Sons 五龍:** 登龍（台大醫 · 長島內分泌 · **長子**）、左龍（高醫 · 法拉盛牙醫 · **四子**）、[[people/ahhee-hsu||許丕龍]]、右龍、田龍（中國醫藥）
   - 出生序: 「東岸長子登龍四子左龍」（〈父親許贊育睡了〉）
   - 地理兩源相左: 638 文（1988 紐約個展報導）稱 丕龍、右龍、田龍 在洛杉磯營商；子女訃文稱 丕龍、右龍 定洛城、登龍/左龍 在紐約、田龍學醫（中國醫藥）。右龍=LA 為兩源共證；田龍居處待核
