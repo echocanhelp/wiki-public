@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-20
 ---
 # Wen Shean Young (楊文顯博士)
 
@@ -34,6 +34,10 @@ last_reviewed: 2026-08-17
 ## Family
 
 _No filled family fields on the TAH profile._
+
+## Role in the Community
+- His own life story is held in our corpus: [[works/taiwaneseamericanhistory-org/351-wen-shean-young-e6-a5-8a-e6-96-87-e9-a1-af201503|351. Wen Shean Young 楊文顯 / 2015/03]] (published 2015-03-24, band B).
+- He also contributed community history as an author: his story of biotech entrepreneur 林福坤, [[works/taiwaneseamericanhistory-org/mystories263|263. 生技巨人林福坤的故事 / 楊文顯 / 2015/05]] (published 2015-05-27) — documenting another Taiwanese American life in the TAH story corpus.
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/wen-shean-young/)

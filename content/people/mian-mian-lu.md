@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-20
 ---
 # Mian Mian Lu (陸慧綿)
 
@@ -31,6 +31,10 @@ last_reviewed: 2026-08-17
 ## Family
 
 _No filled family fields on the TAH profile._
+
+## Role in the Community
+- Her TAH encyclopedia record is in our corpus: [[works/taiwaneseamericanhistory-org/whos-who-2082-mian-mian-lu|2082. Mian Mian Lu 陸慧綿]] (2018-03-28).
+- At the 2nd Taiwanese American Film Festival convention she was featured on the panel "Taiwanese and Taiwanese-American Filmmakers: Sharing Stories of Parent-Daughter Relationships" (with Jessie Lee and Remii Huang); her film **"My Mom's Wedding"** was an audience-award winner at the inaugural 2017 festival, and she contributed her story by video as a Taiwan-based director: [[works/taiwaneseamerican-org/natwa2con|NATWA 2nd convention program]].
 
 ## Sources
 - [TAH #2082 encyclopedia: 2082. Mian Mian Lu 陸慧綿](https://taiwaneseamericanhistory.org/whos-who-2082-mian-mian-lu/)
