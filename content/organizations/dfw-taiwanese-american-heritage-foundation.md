@@ -23,7 +23,8 @@ The Taiwanese American Heritage Foundation (TAHF) is a community organization ba
 - Own TAH encyclopedia record preserved in the corpus: [[works/taiwaneseamericanhistory-org/dfw-taiwanese-american-heritage-foundation|DFW Taiwanese American Heritage Foundation 達福台美人傳統文化基金會]] (published 2018-05-02).
 - Sibling 達福 cultural-advocacy record: [[works/taiwaneseamericanhistory-org/dfw-taiwanese-american-heritage-promotion-committee-e9-81-94-e7-a6-8f-e5-8f-b0-e|DFW Taiwanese American Heritage Promotion Committee 達福台美人傳統文化推廣委員會]] (published 2018-03-27). HOLD: 基金會 vs 推廣委員會 relationship (successor? parallel?) not stated in either record — not merged.
 - Adjacent 達福 community organizations in the corpus: [[works/taiwaneseamericanhistory-org/dallasfort-worth-chapter-taa|TAA 達福台灣同鄉會]], [[works/taiwaneseamericanhistory-org/greater-dallas-taiwanese-chamber-of-commerce|7. Greater Dallas Taiwanese Chamber of Commerce 達福地區臺灣商會]].
-- No corpus material about the Mayfest Taiwan Exhibit itself.
+- Adjacent 達福 heritage-activity record: [[works/taiwaneseamericanhistory-org/taiwanese-heritage-golf-tournament|62. Taiwanese Heritage Golf Tournament 達拉斯台灣杯高爾夫球賽 / 2018-01]] — bibliographic record only; the record does not name its organizer, so no attribution to TAHF is made.
+- No corpus material about the Mayfest Taiwan Exhibit itself (corpus re-scan 2026-09-20 confirms).
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/dfw-taiwanese-american-heritage-foundation/)
