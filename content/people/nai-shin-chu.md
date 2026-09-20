@@ -40,6 +40,8 @@ _No filled family fields on the TAH profile._
 - Served as a volunteer lecturer (講員) for 長青教室 (Evergreen Classroom), the free senior-education program run by Irvine台灣長老教會 (ITPC) near Laguna Woods Village for retired Taiwanese Americans. Dr. Chu presented the talks 「優雅的銀髮歲月」 and 「醫學人文」, sharing his medical expertise in the Taiwanese mother tongue alongside other physician-academic lecturers. Recorded in the community memoir [[works/taiwaneseamericanhistory-org/ourjourneys107|107. 長青教室 sponsored by Irvine台灣長老教會(ITPC) / 2015-02]].
 - Community profile preserved as [[works/taiwaneseamericanhistory-org/626-nai-shin-chu-e6-9c-b1-e8-bf-ba-e6-ac-a3-201509|TAH encyclopedia record #626 (2015-09)]].
 
+- Corpus re-grep 2026-09-20 (slice 09190400-13): hit set unchanged — the ITPC 長青教室 lecture records (優雅的銀髮歲月、醫學人文 in [[works/taiwaneseamericanhistory-org/ourjourneys107|ourjourneys107]]) and TAH #626 remain the only corpus coverage; no new memoir material.
+
 Related: [[organizations/irvine-taiwanese-presbyterian-church|Irvine台灣長老教會 (ITPC)]], [[organizations/evergreen-class-by-irvine-taiwanese-presbyterian-church-laguna-hills-ca|長青教室 Evergreen Classroom]]
 
 ## Sources

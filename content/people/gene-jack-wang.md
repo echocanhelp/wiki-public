@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-19
+last_reviewed: 2026-09-20
 ---
 # Gene-Jack Wang (王俊傑)
 
@@ -51,3 +51,4 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- Re-grep 2026-09-20 (slice 09190400-10): corpus hits = his own TAH #581 record + ourjourneys305 (St. Louis church history, 王俊傑邱綉雅夫婦) — both already absorbed above; no new material, no conflicts.
