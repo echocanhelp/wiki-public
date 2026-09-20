@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-18
+last_reviewed: 2026-09-20
 ---
 # Dr. Chih-Chien Adam Chou (周志謙博士)
 
@@ -37,7 +37,7 @@ _No filled family fields on the TAH profile._
 
 ## From the record
 
-- 2019-12-04 — carried in the TAH community record [[works/taiwaneseamericanhistory-org/whos-who-2231-chih-chien-chou|2231. Dr. Chih-Chien (Adam) Chou 周志謙博士]] for his T.A. Archives (台美史料中心) historical-work. The record is bibliographic only; the corpus holds T.A. Archives newsletters ([[works/taiwaneseamericanhistory-org/9-newsletter-of-t-a-archives-january-2016|2016-01]], [[works/taiwaneseamericanhistory-org/26-newsletter-of-t-a-archives-february-2017|2017-02]]) that do not name him, so no further community facts are absorbable yet.
+- 2019-12-04 — carried in the TAH community record [[works/taiwaneseamericanhistory-org/whos-who-2231-chih-chien-chou|2231. Dr. Chih-Chien (Adam) Chou 周志謙博士]] for his T.A. Archives (台美史料中心) historical-work. The record is bibliographic only; the corpus holds T.A. Archives newsletters ([[works/taiwaneseamericanhistory-org/9-newsletter-of-t-a-archives-january-2016|2016-01]], [[works/taiwaneseamericanhistory-org/26-newsletter-of-t-a-archives-february-2017|2017-02]]) that do not name him, so no further community facts are absorbable yet. Corpus re-check 2026-09-20: loose-name grep hits in the Our Journeys volumes were romanization-substring false positives (e.g. "Chih-ying Chen, Yao-chou Cheng"), not this person — SKIP, nothing new absorbable.
 
 ## Sources
 - [TAH #2231 encyclopedia: 2231. Dr. Chih-Chien (Adam) Chou 周志謙博士](https://taiwaneseamericanhistory.org/whos-who-2231-chih-chien-chou/)
