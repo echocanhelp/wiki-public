@@ -5,13 +5,14 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-17
+last_reviewed: 2026-09-20
 ---
 # L.A. Study Group (大洛杉磯台灣讀書會)
 
 ## Identity Snapshot
 - **English:** L.A. Study Group
 - **Chinese:** 大洛杉磯台灣讀書會
+- **Also known as:** LA Taiwan Buzz (as listed in the 2016-02-10 救災募款 co-organizer roster)
 - **Era:** Contemporary
 - **Geography:** Taiwanese American community
 - **Core roles:** Community organization (TAH directory)
