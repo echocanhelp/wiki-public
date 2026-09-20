@@ -29,7 +29,7 @@ last_reviewed: 2026-09-20
 <!-- tah-tables:end -->
 
 ## Role in the Community
-- Corpus sweep (2026-09-20): the only corpus record for 林美玲 is her own TAH encyclopedia entry [[works/taiwaneseamericanhistory-org/717-e6-9e-97-e7-be-8e-e7-8e-b2|TAH #717 林美玲 / 2015-12]] (bibliographic record only). No memoir or community-record trace elsewhere in works/articles; page held at its TAH press-kit facts (SKIP-with-reason: no community corpus material). Note: 林美玲 is a common name — treat any future 林美玲 hit as unverified until the Chinese-name + context match.
+- Corpus sweep (2026-09-20): the only corpus record for 林美玲 is her own TAH encyclopedia entry [[works/taiwaneseamericanhistory-org/717-e6-9e-97-e7-be-8e-e7-8e-b2||TAH #717 林美玲 / 2015-12]] (bibliographic record only). No memoir or community-record trace elsewhere in works/articles; page held at its TAH press-kit facts (SKIP-with-reason: no community corpus material). Note: 林美玲 is a common name — treat any future 林美玲 hit as unverified until the Chinese-name + context match.
 
 ## Family
 

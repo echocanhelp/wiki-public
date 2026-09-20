@@ -26,7 +26,7 @@ last_reviewed: 2026-09-20
 <!-- tah-tables:end -->
 
 ## Role in the Community
-- Corpus sweep (2026-09-20): the only records matching 陳英惠/Jessica Chen are her own TAH encyclopedia entry [[works/taiwaneseamericanhistory-org/328-jessica-chen-e9-99-b3-e8-8b-b1-e6-83-a0201503|TAH #328 Jessica Chen 陳英惠 / 2015-03]] (bibliographic record only) and a different person, [[works/taiwaneseamericanhistory-org/whoswho1257|TAH #1257 Jessica Chen 陳品蓁 / 2016-08]] — same English name, different Chinese name: not this person. The taiwaneseamerican-org guest contributors named "Jessica Cheng" are also distinct. No memoir/community trace to absorb; page held at its TAH press-kit facts (SKIP-with-reason: no community corpus material).
+- Corpus sweep (2026-09-20): the only records matching 陳英惠/Jessica Chen are her own TAH encyclopedia entry [[works/taiwaneseamericanhistory-org/328-jessica-chen-e9-99-b3-e8-8b-b1-e6-83-a0201503||TAH #328 Jessica Chen 陳英惠 / 2015-03]] (bibliographic record only) and a different person, [[works/taiwaneseamericanhistory-org/whoswho1257||TAH #1257 Jessica Chen 陳品蓁 / 2016-08]] — same English name, different Chinese name: not this person. The taiwaneseamerican-org guest contributors named "Jessica Cheng" are also distinct. No memoir/community trace to absorb; page held at its TAH press-kit facts (SKIP-with-reason: no community corpus material).
 
 ## Family
 
