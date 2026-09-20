@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-20
 ---
 # Shang Fa Yang
 
@@ -33,6 +33,9 @@ last_reviewed: 2026-08-17
 ## Family
 
 _No filled family fields on the TAH profile._
+
+## Role in the Community
+- His own TAH encyclopedia entry is preserved in the corpus as [[works/taiwaneseamericanhistory-org/743-shang-fa-yang201512|743. Shang Fa Yang 2015/12]] (published 2015-12-20, value band B). This is the only corpus record; no memoir or article material mentions him.
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/shang-fa-yang/)

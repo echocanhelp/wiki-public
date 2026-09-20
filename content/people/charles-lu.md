@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-20
 ---
 # Charles Lu (盧常吉)
 
@@ -26,6 +26,7 @@ Charles Lu (盧常吉) is listed in the TAH Foundation Who’s Who Taiwanese Ame
 _No filled family fields on the TAH profile._
 
 ## Sources
+- Vault record: [[works/taiwaneseamericanhistory-org/48-charles-lu-e7-9b-a7-e5-b8-b8-e5-90-89|TAH #48 百科条目 (2014-10-04)]]
 - [TAH #48 encyclopedia: 48. Charles Lu 盧常吉](https://taiwaneseamericanhistory.org/48-charles-lu-%e7%9b%a7%e5%b8%b8%e5%90%89/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/charles-lu/)
 

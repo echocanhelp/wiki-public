@@ -32,6 +32,12 @@ last_reviewed: 2026-09-20
 
 _No filled family fields on the TAH profile._
 
+## Role in the Community
+
+- 2017: received the Presidential Early Career Award for Scientists and Engineers (PECASE 青年科學家與工程師總統獎) — recorded in the TAH corpus as [[works/taiwaneseamericanhistory-org/34-presidential-early-career-award-for-scientists-and-engineers-jenny-yang|34. PECASE / Jenny Yang 楊又芳 / 2017]].
+- Own TAH Who's Who record: [[works/taiwaneseamericanhistory-org/whpswho1490|1490. Jenny Y Yang 楊又芳 / 2017/01]].
+- HOLD: the stand-up comedian "Jenny Yang" mentioned in [[works/taiwaneseamerican-org/on-two-decades-of-blacklava-and-celebrating-the-other|Blacklava / Celebrating the Other]] and the Vickie Wang essays appears to be a different person; those works' Subjects links to this page are likely mislinks (scientist vs comedian). Never auto-merged.
+
 ## Sources
 - [TAH #1490 encyclopedia: 1490. Jenny Y Yang 楊又芳 / 2017/01](https://taiwaneseamericanhistory.org/whpswho1490/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/jenny-y-yang/)
