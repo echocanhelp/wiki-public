@@ -30,6 +30,11 @@ last_reviewed: 2026-09-20
 - **Wife:** [[people/h-m-jiang||江蕙美]]
 
 
+## Role in the Community
+
+- Commemorated in the Greater NY Overseas Taiwanese Pen Club (大紐約區海外台灣人筆會) tenth-anniversary memoir: as 社長 of 美東自由時報, he and his wife 惠美 ([[people/h-m-jiang|江蕙美]]) kept the paper running for fourteen years, 「幾乎傾家蕩產，為宣揚台灣理念以及服務台美人社區，犧牲與奉獻之巨，無可倫比」 — per [[works/taiwaneseamericanhistory-org/ourjourneys12|12. 大紐約區海外台灣人筆會十週年 / 柯金寅 / 2014/09]] (author [[people/kin-ko|柯金寅]]).
+- His own TAH story is held at [[works/taiwaneseamericanhistory-org/whoswho1768|1768. J. Y. Jackson Ko 柯哲洋 / 2017]].
+
 ## Sources
 - [TAH #1768 encyclopedia: 1768.  J. Y. Jackson Ko 柯哲洋 / 2017](https://taiwaneseamericanhistory.org/whoswho1768/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/j-y-jackson-ko/)

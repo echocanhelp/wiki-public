@@ -34,8 +34,9 @@ Interviews, oral history, and named-subject features absorbed as Echopedia **wor
 
 ### taiwaneseamerican-org
 
-A 555 · B 1781 · C 80 · total 2416 — full list, never truncated.
+A 555 · B 1782 · C 80 · total 2417 — full list, never truncated.
 
+- [[works/taiwaneseamerican-org/jess-eng-taitung-eats-book|From Tea to Millet: Writer Jess Eng’s book “Taitung Eats” uncovers a fast growing slow food movement in Southeastern Taiwan]] — 2026-09-19 · B
 - [[works/taiwaneseamerican-org/vultures-medical-conspiracy-thriller|Now Streaming on Instagram: “Vultures,” a Medical Conspiracy Thriller]] — 2026-09-07 · A
 - [[works/taiwaneseamerican-org/eric-sze-taiwanese-cookbook|Taiwanese Chef Eric Sze Brings Honesty & “Intentional Fusion” to His First Cookbook]] — 2026-09-03 · A
 - [[works/taiwaneseamerican-org/beneath-the-same-round-moon-jasmine-fang|“Beneath the Same Round Moon”: Q&A with Debut Author Jasmine Fang]] — 2026-08-20 · A

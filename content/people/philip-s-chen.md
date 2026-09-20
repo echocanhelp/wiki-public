@@ -30,6 +30,13 @@ last_reviewed: 2026-09-20
 - **Wife:** [[people/diana-y-huang||黃玉桂]]
 
 
+## Role in the Community
+- A core cadre of the Taiwanese independence movement in the US: after the Formosan Unity League of America (台獨聯盟美國本部) moved its headquarters from Philadelphia to New York in 1968, 陳伸夫 — along with 張燦鍙, 羅福全, 蔡同榮, 鄭自才, 王康陸 and others — reported to the NY headquarters after completing his studies (per [[works/taiwaneseamericanhistory-org/ourjourneys234|234. 台獨聯盟美國本部]]).
+- On 1980-02-24 he met Senator Ted Kennedy in New York together with 蔡仁泰 and 蔡同榮 — the first contact between Taiwanese Americans and Kennedy — pressing him over the Kaohsiung Incident; Kennedy's first Taiwan human-rights statement followed on 1980-03-05. A 1980 group photo (蔡仁泰, Kennedy, 蔡同榮, 陳伸夫) appears in [[works/taiwaneseamericanhistory-org/ourjourneys59|59. 二萬名移民額 / 蔡同榮]].
+- In 1981 he interviewed Kennedy for 台灣公論報 (Taiwan Tribune), pressing on the Taiwan immigration-quota issue, per the same memoir.
+- Took part in the founding discussions of FAPA recorded in [[works/taiwaneseamericanhistory-org/ourjourneys65|65. FAPA的誕生 / 蔡同榮]] — the Feb 13 meeting of 15 (陳伸夫, 陳唐山, 彭明敏, 郭雨新, 羅福全 et al.) that drafted the charter and chose the name.
+- His own encyclopedia record: [[works/taiwaneseamericanhistory-org/whoswho1043|TAH #1043]].
+
 ## Sources
 - [TAH #1043 encyclopedia: 1043. Philip S. Chen 陳伸夫 / 2016/05](https://taiwaneseamericanhistory.org/whoswho1043/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/philip-s-chen/)

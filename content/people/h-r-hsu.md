@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-18
+last_reviewed: 2026-09-20
 ---
 # H. R. Hsu (許惠茹)
 
@@ -38,6 +38,8 @@ TAH movement memoirs (romanized "Ho Rui Hsu" / "Ho Ru Hsu") place this figure am
 - **TACL founding (1982–1985)** — attended the 1982-01-21 SCTAI-vice-president Y. C. Hsu meeting that first proposed a Taiwanese American Citizens League; on 1984-12-01 joined the five-member revived preparatory committee; handled contact with lawyer Chung-yuan Liao for state incorporation and was assigned preparation of the founding general assembly (division of labor, 1985-01-29). [[works/taiwaneseamericanhistory-org/ourjourneys272-eng|Our Journeys 272 — TACL founding memoir]]
 
 HOLD: conflict — TAH press-kit profile places H. R. Hsu in Georgia (TAA Atlanta chapter President, TAA Southeast Region Coordinator), while the TAA/TACL memoirs place Ho Rui Hsu in the Los Angeles / Southern California circle (Taiwanese Association of Los Angeles, LA-area TACL organizing). Whether these are the same person or two people cannot be resolved from the corpus; not auto-merged.
+
+HOLD: identity disambiguation — the romanization "Ho Rui Hsu" in the TAA/TACL memoirs matches a *different* TAH Who's Who entry, [[works/taiwaneseamericanhistory-org/whoswho1071|TAH #1072 Ho Rui Hsu 許和瑞]] (2016/06), not this page's 許惠茹 (TAH #1931, 2017-11). The 1970 letter, first TAA vice-presidency, TAA presidency, and TACL preparatory-committee roles attributed above may belong to 許和瑞 rather than 許惠茹; the two TAH profiles have not been merged and the memoir attributions here rest on the shared romanization only. Additionally [[works/taiwaneseamericanhistory-org/ourjourneys81-eng|Our Journeys 81 (UFAI memoir)]] lists "Powen Wang, Ho Rui Hsu, and Fu Yuan Hsu" as active UFAI members — same-romanization attribution, subject to the same hold.
 
 ## Family
 

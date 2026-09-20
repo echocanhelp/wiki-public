@@ -30,6 +30,10 @@ last_reviewed: 2026-09-20
 
 _No filled family fields on the TAH profile._
 
+## Role in the Community
+
+No memoir/corpus mentions beyond his own TAH Who's Who record ([[works/taiwaneseamericanhistory-org/whoswho1149|1149. P. D. Chen 陳培德 / 2017/07]]); nothing further absorbable — community roles remain as recorded in Employment above (太平洋時報 發行經理, 中華之聲電台 主持人).
+
 ## Sources
 - [TAH #1149 encyclopedia: 1149. P. D. Chen 陳培德  / 2017/07](https://taiwaneseamericanhistory.org/whoswho1149/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/p-d-chen/)
