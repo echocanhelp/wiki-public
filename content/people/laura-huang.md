@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-18
+last_reviewed: 2026-09-20
 ---
 # Laura Huang (黃月桂)
 
@@ -36,6 +36,12 @@ last_reviewed: 2026-09-18
 
 - **Husband:** 李應元
 
+
+## Role in the Community
+
+- 本人为北美洲台灣人教授協會（NATPA）会员：该会2021年敬弔文点名向其「牵手（也是本会会员）」黄月桂博士致哀（[[articles/taiwanjustice-net/2021/20211207111000_2021_11_22_哲人日已遠_敬弔李應元博士-_natpa鄭麗伶會長暨全_efea1ad2d8cb4d11|TJJ，2021-11-22]]）。
+- 与李应元夫妇曾同期在美国南达科达大学任教（NATPA 敬弔文述「应元兄夫妻即同在南达科他大学担任教授」，与本人1989–1991该校教职纪录相符）。
+- 本人 TAH 传记条目：[[works/taiwaneseamericanhistory-org/767-laura-huang-e9-bb-83-e6-9c-88-e6-a1-82-201601|767. Laura Huang 黄月桂 /2016/01]]。
 
 ## From the record
 
