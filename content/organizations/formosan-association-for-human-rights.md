@@ -27,6 +27,10 @@ last_reviewed: 2026-09-18
 - **Anniversary record:** 40th anniversary celebration in Rosemead, CA on 2016-12-10 — [[works/taiwaneseamericanhistory-org/important2016-33|33. 40th Anniversary of FAHR in Rosemead, CA]].
 - **Chapter record:** 南加州台灣人權協會 (FAHR S. California), era 2014 — [[works/taiwaneseamericanhistory-org/formosan-association-for-human-rights-s-california|3. FAHR (S. California) 南加州台灣人權協會]]; Michigan chapter listed at [[works/taiwaneseamericanhistory-org/michigan-taiwanese-association-for-human-rights|Michigan Taiwanese Association for Human Rights]].
 
+## From the record
+
+- 2014-08-07 — TJJ「梅心怡」標籤頁收錄〈台美人台加人：全美台灣人權協會（FAHR）為梅心怡募款〉，報導 FAHR 為罹患間皮癌的人權學者梅心怡（Lynn Miles）募款（[[articles/taiwanjustice-net/2024/20240724005830_root_5b7741741c30e771|TJJ tag page，2024-07-24 快照]]；報導者 [[people/patrick-huang||黃再添]]）。
+
 ## Source Notes
 
 - **Content priority A:** Name on Taiwan Center group-members page  

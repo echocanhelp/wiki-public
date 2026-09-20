@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-20
 ---
 # Shih-Chen Hsu (許世真)
 
@@ -24,6 +24,12 @@ last_reviewed: 2026-08-17
 ## Education
 - National Taiwan Normal Univ. — B.S., Music
 <!-- tah-tables:end -->
+
+## Role in the Community
+
+- 為紐約 Westchester 台美婦女協會（WTWA）創會召集人：該會 1974 年秋由陳芳玉發起、林許世真召集，為非營利、非政治性婦女團體，至 2014 年已走過 40 年（見 [[works/taiwaneseamericanhistory-org/ourjourneys18|Our Journeys 18]]、英文版 [[works/taiwaneseamericanhistory-org/ourjourneys18-eng|Our Journeys 18 (EN)]]）。
+- 2011 年逝世後，夫林靜竹撰文悼念：[[works/taiwaneseamericanhistory-org/my-stories-654|654. 懷念許世真]]（2018/10）。
+- 本人 TAH 記錄：[[works/taiwaneseamericanhistory-org/whos-who-2140-shih-chen-hsu|2140. Shih-Chen Hsu 許世真]]。
 
 ## Family
 

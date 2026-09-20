@@ -29,6 +29,14 @@ last_reviewed: 2026-09-20
 - 台灣公論報 — 編輯
 <!-- tah-tables:end -->
 
+## Role in the Community
+- After graduating from the Geology Department at National Taiwan University, went to Irving University in Dallas, Texas; while abroad he frequently submitted contributions to《台灣公論報」— see [[works/taiwaneseamericanhistory-org/ourjourneys33|Our Journeys #33（張月英回憶）]].
+- Joined the editorial/translation staff of《台灣公論報》in March–April 1982 (publisher 羅福全 era; the paper's first issue 1981-07-31 covered the Chen Wen-incident). Continued as editor after marriage, often working late on the paper's distribution.
+- Wrote the article〈一個會說台灣話的四腳仔台灣人〉criticising 高資敏 in《台灣公論報》; 高資敏 sued the paper for defamation on 1984-10-17 demanding USD 4.15 million (the "四腳仔官司"); the US court ruled in favour of《台灣公論報》, and the suit raised the paper's profile and donations — see [[works/taiwaneseamericanhistory-org/ourjourneys63|Our Journeys #63]].
+- Our Journeys #63 refers to him as「已過世的同事張伯寬先生」— the memoir record indicates he passed away before that memoir was written.
+- Met his wife 張月英 (輔仁大學哲學系, former teacher, then editor/reporter at《台灣公論報》) through work at the paper; married September 1982. Consistent with the Family section (Anna 張月英).
+- His TAH Who's Who encyclopedia entry is held as a work page: [[works/taiwaneseamericanhistory-org/whos-allen-chang|TAH #2053 Allen Chang 張伯寬 / 03/2018]].
+
 ## Family
 
 - **Wife:** Anna張月英

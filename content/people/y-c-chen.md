@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-20
 ---
 # Y. C. Chen (陳英燦)
 
@@ -29,6 +29,10 @@ last_reviewed: 2026-08-17
 - New York Insurance Co. — Manager
 - 資深媒體人
 <!-- tah-tables:end -->
+
+## Role in the Community
+
+Corpus sweep found no community-action material beyond his own encyclopedia profile, preserved in the corpus as [[works/taiwaneseamericanhistory-org/whoswho924|TAH #924: Y. C. Chen 陳英燦 / 2016-04]]. The "資深媒體人" (senior media figure) role in the TAH snapshot is the only movement-adjacent fact on record; no Our Journeys memoir narrative found.
 
 ## Family
 

@@ -30,6 +30,12 @@ last_reviewed: 2026-09-20
 - ABC TV — Crew
 <!-- tah-tables:end -->
 
+## Role in the Community
+
+- Tagged as a subject in the Taiwanese Alliance for Interculture (TAI) movement record ([[works/taiwaneseamericanhistory-org/ourjourneys37-eng|Our Journeys #37]]), placing him within the Southern California Taiwanese community-organizing network.
+- His own encyclopedia profile is preserved in the corpus as [[works/taiwaneseamericanhistory-org/916-yu-tsai-e8-94-a1-e7-be-bd-201603|TAH #916: Yu Tsai 蔡羽 / 2016-03]].
+- No further narrative material in the memoir corpus beyond the TAH press-kit snapshot above (no community-actions recorded in Our Journeys body text).
+
 ## Family
 
 _No filled family fields on the TAH profile._

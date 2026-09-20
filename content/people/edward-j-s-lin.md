@@ -21,6 +21,12 @@ last_reviewed: 2026-09-20
 
 Edward J. S. Lin (林敬賢) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
 
+## Role in the Community
+- 1979 年美丽岛事件后，芝加哥台灣同鄉會理事會指派林敬賢在芝加哥成立《台灣之音》，委請莊智惠、李秀雄编辑广播台湾最新消息，突破国民党媒体封锁。见 [[works/taiwaneseamericanhistory-org/our-journeys-378|Our Journeys #378（芝加哥台灣同鄉會史）]]。
+- 2012／2013 年任美洲台灣客家聯合會會長，因同时担任世界台灣客家聯合會會長，该年恳亲会以「全球台灣客家懇親會」之名于芝加哥举办（会长/主持：林敬賢／張瑞玲）。见 [[works/taiwaneseamericanhistory-org/ourjourneys252|Our Journeys #252]]。
+- 2014 年任台湾人权促进会（FAHR）理监事名录中的董事。见 [[works/taiwaneseamericanhistory-org/ourjourneys75-eng|Our Journeys #75 (eng)]]。
+- 本人收藏档：[[works/taiwaneseamericanhistory-org/private-collections-98|98. Edward J. S. Lin 林敬賢的收藏]]；口述影像：[[works/taiwaneseamericanhistory-org/videos100|100. 從台灣屏東泗溝水到美國芝加哥——林敬賢先生的人生故事]]；另见 [[works/taiwaneseamericanhistory-org/whoswho1513|Who's Who #1513]]。
+
 ## Family
 
 _No filled family fields on the TAH profile._

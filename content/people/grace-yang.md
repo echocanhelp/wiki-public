@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-20
 ---
 # Grace Yang (楊蕙安)
 
@@ -28,6 +28,9 @@ last_reviewed: 2026-08-17
 ## Employment
 - Gray Robinson Attorneys at Law — present — shareholder
 <!-- tah-tables:end -->
+
+## Role in the Community
+- Corpus sweep (works/articles) found no community narrative material beyond her own TAH Who's Who record: [[works/taiwaneseamericanhistory-org/whoswho1300|1300. Grace Yang 楊蕙安 / 2016/10]]（bibliographic record only, band B; already cross-linked from that record's Subjects). Nothing absorbable; no biography invented.
 
 ## Family
 

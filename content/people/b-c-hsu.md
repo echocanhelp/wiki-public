@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-20
 ---
 # B. C. Hsu (許炳堅博士)
 
@@ -30,6 +30,9 @@ last_reviewed: 2026-08-17
 - Synopsys Corporation — 研發處處長
 - USC — 1985-1998 — Professor
 <!-- tah-tables:end -->
+
+## Role in the Community
+- Corpus sweep (works/articles) found no community narrative material beyond his own TAH Who's Who record: [[works/taiwaneseamericanhistory-org/whoswho1404|1404. B. C. Hsu 許炳堅 / 2016/11]]（bibliographic record only, band B）. Nothing absorbable; no biography invented.
 
 ## Family
 
