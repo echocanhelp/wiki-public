@@ -43,7 +43,7 @@ last_reviewed: 2026-09-20
 ## Role in the Community
 - Author of the memoir [[works/taiwaneseamericanhistory-org/mystories386|386. 我經過三個朝代的故事 / 劉光道 /2016/01]] (TAH 故事, 2016) — life story spanning three regimes, primary material for his 1932 Chiayi origins.
 - Co-author of the collective autobiography [[works/taiwaneseamericanhistory-org/publications1046|1046. 台美人生命腳跡 / 11/2016]], alongside 黃東昇、林靜竹、陳天令、劉惠麗、江正吉、劉宗憲、柯耀宗.
-- Church community: the New Jersey Taiwanese Presbyterian church history [[works/taiwaneseamericanhistory-org/ourjourneys14|14. 紐澤西台美團契基督長老教會歷史]] records a "Kenneth Liu" serving as 英語部主任 in the late 1990s. HOLD: no evidence yet in the corpus linking this to the engineer 劉光道 (PG&E/Bechtel, CA-based) — may be a different Kenneth Liu.
+- Church community: the New Jersey Taiwanese Presbyterian church history [[works/taiwaneseamericanhistory-org/ourjourneys14|14. 紐澤西台美團契基督長老教會歷史]] records a "Kenneth Liu" serving as 英語部主任 in the late 1990s. HOLD: conflict engineer vs clergy — the English passage styles him "Rev. Kenneth Liu ... Director of the English Ministry", inconsistent with the 劉光道 engineering career (Bechtel/PG&E/Parsons Brinckerhoff, CA); likely a different Kenneth Liu.
 - Profiled in TAH Who's Who encyclopedia [[works/taiwaneseamericanhistory-org/whoswho1456|1456. Kenneth Liu 劉光道 / 2017/01]].
 
 ## Sources

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-19
+last_reviewed: 2026-09-20
 ---
 # Joyce Hwang
 
@@ -42,6 +42,7 @@ Associate Professor
 ## Role in the Community
 - Recognized by the Taiwanese American community as a "Creative MVP 2016": TAH published a feature honoring her [[works/taiwaneseamericanhistory-org/26-creative-mvp-2016-prof-joyce-hwang|26. Creative MVP 2016 / Prof. Joyce Hwang]] (2016-11-07).
 - Profiled in the TAH Who's Who encyclopedia [[works/taiwaneseamericanhistory-org/whoswho1388|1388. Joyce Hwang / 2016/11]].
+- Re-verified 2026-09-20: fresh corpus grep returns only her two TAH feature/encyclopedia records and the works index — no memoir or community mentions beyond the TAH profile; nothing further absorbable.
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/joyce-hwang/)
