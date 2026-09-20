@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-20
 ---
 # M. K. Lin (林明昆醫師)
 
@@ -39,5 +39,6 @@ last_reviewed: 2026-08-17
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/m-k-lin/)
 
 ## Related Pages
+- [[works/taiwaneseamericanhistory-org/whoswho1538|1538. M. K. Lin 林明昆 / 2017/02]] — corpus record of this profile (published 2017-02-27)
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

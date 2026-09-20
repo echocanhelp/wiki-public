@@ -29,6 +29,11 @@ last_reviewed: 2026-08-17
 - 基督教浸信會仁愛堂 — 牧師
 <!-- tah-tables:end -->
 
+## Role in the Community
+
+- 台灣人社區牧者：TAH Who's Who 1717（2017/07）收錄其事奉紀錄，見 [[works/taiwaneseamericanhistory-org/whoswho1717|1717. Andrew Lin 林昇彬]]。
+- 於佛州Orlando台福教會及基督教浸信會仁愛堂任牧師（見上方 Employment，出自 TAH 檔案）。
+
 ## Family
 
 _No filled family fields on the TAH profile._

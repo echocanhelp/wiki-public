@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-20
 ---
 # John Wuo (鄂志超)
 
@@ -34,5 +34,6 @@ _No filled family fields on the TAH profile._
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/john-wuo/)
 
 ## Related Pages
+- [[works/taiwaneseamericanhistory-org/whoswho1155|1155. John Wuo 鄂志超 / 2016/07]] — corpus record of this profile (published 2016-07-17)
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

@@ -34,6 +34,12 @@ last_reviewed: 2026-09-20
 - **Wife:** 林慧玲
 
 
+## Role in the Community
+
+- Honored in the Pen Club community record [[works/taiwaneseamericanhistory-org/ourjourneys12|12. 大紐約區海外台灣人筆會十週年／柯金寅／2014-09]] as the 幽默大師 who brought laughter and joy to every annual meeting of the Greater New York Region Overseas Taiwanese Pen Club (大紐約區海外台灣人筆會).
+- [[works/taiwaneseamericanhistory-org/ourjourneys153|153. 美東夏令會的返鄉之夢／劉照男／2015-07]] records a 李惠仁 sharing street-protest experience at the 美東台灣人社區夏令會 alongside 李應元、王定宇、范雲. HOLD: conflict — the note carries no 醫師 title and may refer to a different 李惠仁 (journalist of the same name); not merged.
+- Own TAH encyclopedia record: [[works/taiwaneseamericanhistory-org/900-huey-j-lee-e6-9d-8e-e6-83-a0-e4-bb-81-201603|900. Huey J. Lee 李惠仁 / 2016-03]].
+
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/huey-j-lee/)
 

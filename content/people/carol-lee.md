@@ -29,6 +29,11 @@ last_reviewed: 2026-09-20
 
 _No filled family fields on the TAH profile._
 
+## Role in the Community
+
+- A "Carol Lee" appears among the signers of the 2021 community response to the Pew Research report hiding Taiwanese identity, [[works/taiwaneseamerican-org/pew-research-center-taiwanese-american-statement|Response to Pew Research Reports Hiding Taiwanese Identity: "We made it count. Now tell our stories."]]. HOLD: the signatory list gives no Chinese name, so identity is unconfirmed.
+- Own TAH encyclopedia record: [[works/taiwaneseamericanhistory-org/whos1250|1250. Carol Lee 李欣蔓 / 2016-08]].
+
 ## Sources
 - [TAH #1250 encyclopedia: 1250. Carol Lee 李欣蔓 /2016/08](https://taiwaneseamericanhistory.org/whos1250/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/carol-lee/)

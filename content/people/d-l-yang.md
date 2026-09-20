@@ -21,9 +21,13 @@ last_reviewed: 2026-09-20
 
 D. L. Yang (楊東龍) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
 
+## Role in the Community
+
+- TAH Who's Who 1166（2016/07）收錄其紀錄，見 [[works/taiwaneseamericanhistory-org/whoswho1166|1166. D. L. Yang 楊東龍]]；Corpus 中暫無其他記述，本節僅存檔該傳記頁。
+
 ## Family
 
-- **Wife:** [[people/h-f-josephine-huang||黃河芬]]
+- **Wife:** [[people/h-f-josephine-huang||黃河芬]]（同批收錄，見 [[works/taiwaneseamericanhistory-org/whos-h-f-josephine-huang|1167. H. F. Josephine Huang 黃河芬]]）
 
 
 ## Sources

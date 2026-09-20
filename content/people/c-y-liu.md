@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-20
 ---
 # C. Y. Liu (劉晴吟)
 
@@ -35,5 +35,6 @@ last_reviewed: 2026-08-17
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/c-y-liu/)
 
 ## Related Pages
+- [[works/taiwaneseamericanhistory-org/whoswho1160|1160. C. Y. Liu 劉晴吟 / 2016/07]] — corpus record of this profile (published 2016-07-20)
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
