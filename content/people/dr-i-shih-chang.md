@@ -34,6 +34,13 @@ last_reviewed: 2026-09-20
 - **Son:** Brandon
 
 
+## Timeline
+- 1998 — 獲伊利諾大學香檳分校機械與工業工程系傑出校友獎（Distinguished Alumnus Award）及美國航太公司（The Aerospace Corporation）最高榮譽 Distinguished Achievement Award — [[works/taiwaneseamericanhistory-org/winners28|伊利諾大學傑出校友獎 / 張倚石博士 / 1998]]
+- 2014-12-19 — 收錄於 TAH Who's Who 人物紀錄 — [[works/taiwaneseamericanhistory-org/158-dr-i-shih-chang-e5-bc-b5-e5-80-9a-e7-9f-b3|158. Dr. I-Shih Chang 張倚石]]
+
+## Role in the Community
+Corpus check (2026-09-20): the vault holds two TAH records for Chang — his Who's Who entry and the 1998 award record above. The award is the community-documented honor corroborating his Aerospace Corp. solid-fuel role; no memoir narrative beyond these records.
+
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-i-shih-chang/)
 

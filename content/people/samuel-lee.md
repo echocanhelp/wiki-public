@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-20
 ---
 # Samuel Lee (李茂玄)
 
@@ -33,6 +33,9 @@ last_reviewed: 2026-08-17
 
 - **Wife:** 張冰茹
 
+
+## Role in the Community
+Corpus check (2026-09-20): the only corpus record naming 李茂玄 is his own TAH Who's Who entry ([[works/taiwaneseamericanhistory-org/whoswho1143|1143. Samuel Lee 李茂玄 / 2017/06]]); no memoir or movement material found in content/works or content/articles beyond this bibliographic record. SKIP-with-reason: nothing absorbable.
 
 ## Sources
 - [TAH #1143 encyclopedia: 1143. Samuel Lee 李茂玄 / 2017/06](https://taiwaneseamericanhistory.org/whoswho1143/)
