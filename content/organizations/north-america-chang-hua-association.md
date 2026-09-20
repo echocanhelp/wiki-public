@@ -6,7 +6,7 @@ tags:
   - Taiwanese-American
   - Taiwan-Center-group-member
 verification_status: published
-last_reviewed: 2026-09-18
+last_reviewed: 2026-09-20
 ---
 # North America Chang Hua Association
 
@@ -24,6 +24,7 @@ last_reviewed: 2026-09-18
 NACHA (北美彰化同鄉會) is a Taiwanese-American hometown association (彰化 = Changhua) with an active record in the TAH Foundation story corpus:
 
 - 2014 會刊 (club magazine) held in the TAH archive — [[works/taiwaneseamericanhistory-org/570-e5-8c-97-e7-be-8e-e5-bd-b0-e5-8c-96-e5-90-8c-e9-84-89-e6-9c-832014-e6-9c-83-|北美彰化同鄉會2014會刊]]
+- 2012 會刊 — [[works/taiwaneseamericanhistory-org/572-e5-8c-97-e7-be-8e-e5-bd-b0-e5-8c-96-e5-90-8c-e9-84-89-e6-9c-832012-e6-9c-83-|北美彰化同鄉會2012會刊]]
 - Community history of the association itself, published 2015-02-15 — [[works/taiwaneseamericanhistory-org/north-america-chang-hua-association|North America Chang Hua Association 北美彰化同鄉會]]
 - Record of association activities, published 2019-03-01 — [[works/taiwaneseamericanhistory-org/activities-of-nacha|北美彰化同鄉會的活動 (NACHA)]]
 - Runs the 楊信獎學金 scholarship — [[works/taiwaneseamericanhistory-org/21-e5-8c-97-e7-be-8e-e5-bd-b0-e5-8c-96-e5-90-8c-e9-84-89-e6-9c-83-e6-a5-8a-e4-bf|北美彰化同鄉會-楊信獎學金]]
