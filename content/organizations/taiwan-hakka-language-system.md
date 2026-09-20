@@ -24,6 +24,7 @@ last_reviewed: 2026-09-20
 - **Content priority A:** Name on Taiwan Center group-members page  
 - **Hub:** [[sources/taiwancenter-org||taiwancenter.org]]  
 - **Content priority C:** Independent history not expanded from listing alone  
+- 2026-09-20 corpus sweep (works/articles): no hits for 台客語文系統 or "Taiwan Hakka Language System" — SKIP-deepen (nothing absorbable in our memoirs). Do not confuse with 北美臺灣客家公共事務協會 (a separate North-America Hakka org).
 
 ## Related Pages
 
