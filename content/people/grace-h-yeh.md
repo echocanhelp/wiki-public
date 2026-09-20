@@ -9,7 +9,7 @@ tags:
   - presbyterian
   - FPCLA
 verification_status: pending
-last_reviewed: 2026-09-18
+last_reviewed: 2026-09-20
 ---
 # Grace H. Yeh (張信惠)
 
@@ -50,3 +50,4 @@ TAH lists her as the first appointed organist of [[organizations/formosan-presby
 ## Sources
 - [Grace H. Yeh 張信惠](https://taiwaneseamericanhistory.org/person/grace-h-yeh/)
 - [[sources/taiwaneseamericanhistory-org||TAH Foundation Who’s Who]]
+- Corpus re-grep 2026-09-20 (slice 09181500-4): hit set unchanged (#448, #146, #144, Our Journeys 231 ±EN, index) — all absorbed above. SKIP-with-reason: no new corpus material.

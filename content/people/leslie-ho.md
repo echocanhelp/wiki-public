@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-18
+last_reviewed: 2026-09-20
 ---
 # Leslie Ho (何炳宏)
 
@@ -69,3 +69,4 @@ _No filled family fields on the TAH profile._
 - Corpus re-grep 2026-09-17 (slice 09170130-7): hit set unchanged (#123, #9872, index, formosa-betrayed Leslie Hope 同名误配). SKIP — saturated.
 - Corpus re-grep 2026-09-17 (slice 09170500-5): hit set unchanged (#123, #9872, index, formosa-betrayed Leslie Hope 同名误配). SKIP — saturated; recommend dropping from future slices.
 - Corpus re-grep 2026-09-18 (slice 09180131-5): hit set unchanged (#123, #9872, index, formosa-betrayed Leslie Hope 同名误配). SKIP — saturated.
+- Corpus re-grep 2026-09-20 (slice 09181500-4): hit set unchanged (#123, #9872, index, formosa-betrayed Leslie Hope 同名误配). SKIP — saturated.
