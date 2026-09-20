@@ -6,7 +6,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-20
 ---
 # 陳建賓
 
@@ -31,6 +31,10 @@ last_reviewed: 2026-08-17
 ## Family
 
 _No filled family fields on the TAH profile._
+
+## Role in the Community
+- Participated in a 全美會 (Taiwanese Association of America) delegation visit to Taiwan: photographed with Vice President 賴清德 at a 10/24 dinner hosted by 全美會創會長鄭義和, and separately with 監察院長陳菊 — see [[works/taiwaneseamericanhistory-org/our-journeys-382|Our Journeys #382]] (全美會參訪團返台活動). The record places him among 全美會's younger-generation membership.
+- Own TAH encyclopedia entry: [[works/taiwaneseamericanhistory-org/430-e9-99-b3-e5-bb-ba-e8-b3-93-201505|430. 陳建賓 / 2015/05]].
 
 ## Sources
 - [TAH #430 encyclopedia: 430. 陳建賓 / 2015/05](https://taiwaneseamericanhistory.org/430-%e9%99%b3%e5%bb%ba%e8%b3%93-201505/)

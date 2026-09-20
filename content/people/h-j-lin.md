@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-20
 ---
 # H. J. Lin (林宏哲博士)
 
@@ -33,6 +33,9 @@ last_reviewed: 2026-08-17
 ## Family
 
 _No filled family fields on the TAH profile._
+
+## Role in the Community
+- Profiled in the TAH Foundation encyclopedia entry [[works/taiwaneseamericanhistory-org/whoswho947-2|947. H. J. Lin 林宏哲 / 2016/04]] (published 2016-04-24, value band B) — his Who's Who record within the TAH story corpus.
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/h-j-lin/)

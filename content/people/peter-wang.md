@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-20
 ---
 # Peter Wang (王武聰牧師)
 
@@ -33,6 +33,11 @@ last_reviewed: 2026-08-17
 ## Family
 
 _No filled family fields on the TAH profile._
+
+## Role in the Community
+- Recorded in the TAH Foundation Who's Who; the community-record entry [[works/taiwaneseamericanhistory-org/whoswho1330|1330. Peter Wang 王武聰 (2016/10)]] was published 2016-10-22 and holds his profile in the movement record.
+- Pastoral track from the directory entry: 主任牧師 of 美南台福教會 in Houston, Texas since 1988, and 部長 of 台福總會海外宣道部 — diaspora church leadership in the Taiwanese American community.
+- Corpus check (2026-09-20): this Who's Who record is the only corpus appearance; no memoir or article mentions found in works/articles.
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/peter-wang/)

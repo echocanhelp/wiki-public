@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-20
 ---
 # Y. S. Chen (陳雨辛)
 
@@ -32,6 +32,9 @@ last_reviewed: 2026-08-17
 ## Family
 
 _No filled family fields on the TAH profile._
+
+## Role in the Community
+- Profiled in the TAH Foundation encyclopedia entry [[works/taiwaneseamericanhistory-org/whoswho989|989. Y. S. Chen 陳雨辛 / 2016/05]] (published 2016-05-14, value band B) — his Who's Who record within the TAH story corpus. No further community-activity records found in the corpus beyond this bibliographic entry.
 
 ## Sources
 - [TAH #989 encyclopedia: 989. Y. S. Chen 陳雨辛 / 2016/05](https://taiwaneseamericanhistory.org/whoswho989/)
