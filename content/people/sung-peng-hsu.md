@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-18
+last_reviewed: 2026-09-20
 ---
 # Sung-Peng Hsu (徐頌鵬博士)
 
@@ -42,6 +42,7 @@ More information please click in my story: 486. The life Story of Prof. Sung-Pen
 
 
 ## Role in the Community
+- 1970 — co-organizer of the FIRST 美東台灣人夏令會 (Aug 14–16, 1970, Downingtown YMCA camp, theme「在愛內生長」): 歐炯雄 was 總幹事 and 徐頌鵬 (then a Princeton Seminary grad student at Penn) and 莊文生 arranged the religious program; his own memoir, reconstructed from photos and letters from ~12 veteran attendees, is the surviving record of the founding — [[works/taiwaneseamericanhistory-org/ourjourneys268|268. 回憶第一屆美東台灣人夏令會 / 徐頌鵬 / 11/2016]] (band A).
 - 1984 — 會長 of the Minnesota Taiwanese association (明州同鄉會): hosted author 柏楊's talk on《醜陋的中國人》and 黨外 figure 謝聰敏 that year, per the Minnesota centennial chronicle ([[works/taiwaneseamericanhistory-org/ourjourneys123|123. 明州台美人百年大事 / 曾啟明 / 2015/03]]; EN roster in [[works/taiwaneseamericanhistory-org/ourjourneys123-eng|123 (EN)]]).
 - 1992 — spoke at the Midwest Taiwanese Summer Conference on "Divine Nature, Buddha Nature, and Human Nature" ([[works/taiwaneseamericanhistory-org/ourjourneys123-eng|123 (EN)]]).
 - Long-term supporter ("心繫『娘家』") of the Minnesota cultural-exhibition artifact-collection effort ([[works/taiwaneseamericanhistory-org/ourjourneys15|15. 點滴回顧明州文化展 / 吳朱實 / 2014/09]]).
