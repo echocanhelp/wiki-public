@@ -6,7 +6,7 @@ tags:
   - Taiwanese-American
   - Taiwan-Center-group-member
 verification_status: published
-last_reviewed: 2026-09-18
+last_reviewed: 2026-09-20
 ---
 # Taiwanese American Religious Study Association
 
@@ -20,6 +20,9 @@ last_reviewed: 2026-09-18
 - **Source:** https://www.taiwancenter.org/group-members · `taiwancenter-org-group-members.md`
 
 ## Timeline (from TAH archive records)
+- 2012 — earliest corpus trace: yearbook deposited as [[works/taiwaneseamericanhistory-org/831-e5-8f-b0-e7-be-8e-e4-ba-ba-e5-ae-97-e6-95-99-e7-a0-94-e7-bf-92-e6-9c-832012-|831. 台美人宗教研習會2012年刊]] (recorded under the shorter earlier name 台美人宗教研習會)
+- 2013 — second yearbook: [[works/taiwaneseamericanhistory-org/832-e5-8f-b0-e7-be-8e-e4-ba-ba-e5-ae-97-e6-95-99-e7-a0-94-e7-bf-92-e6-9c-832013-|832. 台美人宗教研習會2013年刊]]
+- 2014 — third yearbook ([[works/taiwaneseamericanhistory-org/833-e5-8f-b0-e7-be-8e-e4-ba-ba-e5-ae-97-e6-95-99-e7-a0-94-e7-bf-92-e6-9c-832014-|833. 台美人宗教研習會2014年刊]]) plus a special issue the same year ([[works/taiwaneseamericanhistory-org/834-e5-8f-b0-e7-be-8e-e4-ba-ba-e5-ae-97-e6-95-99-e7-a0-94-e7-bf-92-e6-9c-832014-|834. 台美人宗教研習會2014特刊]], dated 2014/10) — two publications in one year indicates an intensive publishing phase
 - 2014-11-10 — organization record enters the Taiwanese American digital archive: [[works/taiwaneseamericanhistory-org/taiwanese-american-religious-study-association-southern-californiatarsa-sc|4. TARSA-SC 台美人信仰與人文研習會]]
 - 2015-01-04 — activity photo album: [[works/taiwaneseamericanhistory-org/photo-albums-activities-36|36. TARSA-SC activities / 台美人宗教研習會]] (shorter name variant on file)
 - 2015-12-20 — the association's 2015 yearbook ([[works/taiwaneseamericanhistory-org/923-e5-8f-b0-e7-be-8e-e4-ba-ba-e4-bf-a1-e4-bb-b0-e8-88-87-e4-ba-ba-e6-96-87-e7-a|923. 2015年刊]]) and lecture recording vol. 5 ([[works/taiwaneseamericanhistory-org/924-e5-8f-b0-e7-be-8e-e4-ba-ba-e4-bf-a1-e4-bb-b0-e8-88-87-e4-ba-ba-e6-96-87-e7-a|924. 演講錄影第五集]]) deposited as magazines/DVD
