@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-18
+last_reviewed: 2026-09-20
 ---
 # Taiwanese Student Association at Syracuse University
 
@@ -21,7 +21,8 @@ Taiwan Student Association at Syracuse University is a cultural organization of 
 ## Role in the Community
 - The Syracuse campus group entered the national movement record through the [[organizations/taiwanese-association-of-america|Taiwanese Association of America]]'s own history: during the term of TAA's second president 許和瑞 (Ho Rui Hsu), Syracuse (founding contact 郭勝義, Sheng-I Kuo) was one of nine new chapters added, bringing TAA to 43 chapters nationwide — [[works/taiwaneseamericanhistory-org/ourjourneys76|Our Journeys 76: TAA early history]] (EN: [[works/taiwaneseamericanhistory-org/ourjourneys76-eng|ourjourneys76-eng]]).
 - After the first East Coast Summer Conference (July 1973, Camp Taconic, New York), chapter delegates voted to continue it, and 王秋森 (Chiu-Sen Wang) of the Syracuse Taiwanese Association agreed to organize the **1974 East Coast Summer Conference** — the start of the unbroken annual regional summer-conference tradition that then spread to the West Coast, South, and Midwest ([[works/taiwaneseamericanhistory-org/ourjourneys76|Our Journeys 76]]).
-- Community chapter records in the corpus: [[works/taiwaneseamericanhistory-org/syracuse-chapter-taa|Syracuse Chapter / TAA 雪城台灣同鄉會]] and [[works/taiwaneseamericanhistory-org/history-of-taiwanese-association-of-americasyracuse|9. Brief History of TAA / Syracuse 雪城台灣同鄕會簡介]].
+- Community chapter records in the corpus: [[works/taiwaneseamericanhistory-org/syracuse-chapter-taa|Syracuse Chapter / TAA 雪城台灣同鄉會]], [[works/taiwaneseamericanhistory-org/history-of-taiwanese-association-of-americasyracuse|9. Brief History of TAA / Syracuse 雪城台灣同鄕會簡介]], and a chapter newsletter held in the vault: [[works/taiwaneseamericanhistory-org/newsletter-by-syracuse-taiwanese-association|Newsletter 鄉訊 by Syracuse Taiwanese Association 雪城台灣同鄉會]]（2017-01-05，書目紀錄）.
+- Later regional footprint: the Ithaca alumni record credits 李俊廷 of Syracuse with supporting 美東夏令營 and 北美壘球、高爾夫球比賽 events ([[works/taiwaneseamericanhistory-org/ourjourneys310|310. 伊薩卡臺灣同鄉會的簡介 / 程美希 /08/2017]]).
 - HOLD: corpus records name the campus group as the Syracuse Taiwanese Association / TAA Syracuse chapter; the student association's own founding date is not in the corpus, so no founding year is asserted here.
 
 ## Sources
