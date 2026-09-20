@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-18
+last_reviewed: 2026-09-20
 ---
 # SueAnn Shiah (夏叔安)
 
@@ -15,7 +15,7 @@ last_reviewed: 2026-09-18
 
 Taiwanese-American filmmaker and community organiser pursuing ordination in the Presbyterian Church; her own corpus writing is primary material on Taiwanese identity:
 
-- Her own first-person essay on Taiwanese identity and the Israel-Palestine analogy (author byline SueAnn Shiah, June 2023 Jerusalem trip) — [[works/taiwaneseamerican-org/understanding-the-jewish-struggle-for-palestine-taiwanese-american-perspective|Understanding the Jewish Struggle for Palestine: A Taiwanese American Perspective]]
+- Her own first-person essay on Taiwanese identity and the Israel-Palestine analogy (author byline SueAnn Shiah, June 2023 Jerusalem trip) — [[works/taiwaneseamerican-org/understanding-the-jewish-struggle-for-palestine-taiwanese-american-perspective|Understanding the Jewish Struggle for Palestine: A Taiwanese American Perspective]]. From the essay itself (primary material): her paternal family lived stateless in Burma ("No Country, No Land" papers) after fleeing Yunnan during the Chinese Civil War; her grandfather was murdered by local Burmese when her father was nine; the family relocated to Taiwan under the ROC repatriation program for ethnically Chinese diaspora, and her grandmother later helped about half of her thirteen surviving siblings immigrate too. Her parents met as counselors on the OCAC Youth Study Tour (community nickname "Love Boat"), the analogue of Birthright Israel; SueAnn participated as a teenager in 2006. Her documentary *HuanDao* (~2013) records her father's interview; she revisited Myanmar with him in 2019, his first return in almost 50 years. She describes herself as "the literal offspring of the ROC's nationalist identity program."
 - Quoted on the response to the Irvine Taiwanese Presbyterian Church shooting — [[works/taiwaneseamerican-org/laguna-woods-taiwanese-church-shooting|Laguna Woods Taiwanese Church shooting]]
 - Her own TAH encyclopedia record #1613, published 2017-04-19 — [[works/taiwaneseamericanhistory-org/whos-sueann-shiah|1613. SueAnn Shiah 夏叔安]]
 

@@ -41,6 +41,9 @@ last_reviewed: 2026-09-20
 
 - 1977 年郭雨新赴美，隔年（1978）與黃彰輝牧師等成立「台灣民主運動海外同盟」，此後「海外台灣人自決運動」大致與海外同盟匯流（[[works/taiwaneseamericanhistory-org/our-journeys-350|Our Journeys #350]]）。
 - 據 [[works/taiwaneseamericanhistory-org/ourjourneys65|Our Journeys #65]]（FAPA 籌組紀事）：二月十三日十五人會議（陳唐山、彭明敏、羅福全等與會）商討成立國民外交機構；後 FAPA 聘請「已故的台灣民主運動海外同盟主席、前台灣省議員郭雨新」為顧問——即郭雨新為海外同盟首任主席，逝世後獲 FAPA 顧問聘銜。
+- 1978 年已有紀實文獻《台灣民意的領航者郭雨新先生》流傳於社群（[[works/taiwaneseamericanhistory-org/publication1298|TAH #1298, 1978]]）。
+- 1979-12-15，為抗議美麗島事件後大逮捕，「台灣建國聯合陣線」在紐約成立，郭雨新以「台灣民主運動海外同盟」名義代表與會（同場尚有台灣獨立聯盟張燦鍙、台美協會彭明敏、台灣人民自覺運動黃彰輝、歐洲同盟陳重任、史明、許信良、陳婉真等）（[[works/taiwaneseamericanhistory-org/our-journeys-357|Our Journeys #357]]）。
+- 1979 年郭雨新在美國印行的《台灣民主通訊》曾報導安雅堡台灣同鄉會為施明德募款匯款一事（[[works/taiwaneseamericanhistory-org/ourjourneys321|Our Journeys #321，陳文成事件回憶]]）——顯示其海外運動期間主持運動刊物。
 - TAH 人物百科收邱萬興撰傳：[[works/taiwaneseamericanhistory-org/mystories579|579. 牛背上的民主騎士——郭雨新]]（2017/09）。
 
 ## Sources
