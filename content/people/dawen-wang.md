@@ -32,6 +32,11 @@ last_reviewed: 2026-08-17
 
 _No filled family fields on the TAH profile._
 
+## Role in the Community
+- Held in the corpus as [[works/taiwaneseamericanhistory-org/whoswho1305|1305. Dawen Wang 王大文 / 2016/10]] (TAH Who's Who, era 1981 Boston/MA, classical music & English lit at 西北大學, ICRT 節目主持人).
+- TA.org music coverage in the corpus: [[works/taiwaneseamerican-org/checking-dawen|Checking in with Dawen (王大文)]] (2016-09), [[works/taiwaneseamerican-org/dawen-in-taiwan|Dawen in Taiwan]], [[works/taiwaneseamerican-org/the-dawen-e2-80-9camerican-me-e2-80-9d-tour|The Dawen 'American Me' Tour]], [[works/taiwaneseamerican-org/dawen-speaks-about-pursuing-a-music-career-as-an-asian-american|Dawen on pursuing a music career as an Asian American]].
+- HOLD: conflict — the TA.org profile describes a singer-songwriter who debuted his first Mandarin album on Christmas Eve 2013 via Universal Music, while the TAH Who's Who record places this 王大文 as era-1981 Boston/MA. Same-name identity (1980s Dawen Wang vs. later-generation artist) unresolved; do not merge biographies.
+
 ## Sources
 - [TAH #1305 encyclopedia: 1305.  Dawen Wang 王大文 / 2016/10](https://taiwaneseamericanhistory.org/whoswho1305/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dawen-wang/)
