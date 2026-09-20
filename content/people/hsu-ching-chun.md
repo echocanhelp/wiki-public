@@ -75,6 +75,7 @@ Younger years: after her father left, she helped her mother raise three younger 
 | Father’s later spouse | Tsai Ying-ju 蔡瀛如 | Sister of [[people/tsai-ing-wen||Tsai Ing-wen (蔡英文)]]. Met in church choir. |
 | 許景淳 on the split | — | Has said publicly she was “abandoned” at **age 11**; later the two households “因故脫離關係,” years without contact (民報 summarizing her TV remarks). TAH #258 independently: he left for the U.S. when she was 11. |
 | Sister | Lin Ching-ying 林景瀅 | Former singer |
+| **Half-brother** (father × 蔡瀛如) | [[people/leonard-hsu-jr\|\|Leonard Hsu Jr. (許景鴻)]] | Owner-confirmed 2026-09-20; SoCal household; ~20 yrs younger |
 | Son | Lin Tzu-hsuan 林子軒 | Married dancer Wang Chien-yi (王芊懿); daughter born Aug 2022 — Hsu became a grandmother |
 
 **Watong / 許凌雲:** [蔡光庭〈瓦硐許姓〉](https://penghu.info/OB9B088F09F89D8B7F9E) — 許景淳 = 靖樂 11 世. Her own Facebook “家族記憶行走” at [[organizations/hsu-ling-yun-xiucai-memorial-hall||許凌雲秀才紀念館]] walks the lane with **雅琴姑婆** (oral: back from New York). That is **her** kinship claim; gazetteer does not print 許凌雲 → 許景淳.

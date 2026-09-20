@@ -76,7 +76,8 @@ TAH #49 / person card: 許贊育先生，字化功，一九一〇年生於台灣
 - 子女 2006：內外孫、曾孫約 **50**
 - **叔祖父:** [[people/hsu-ling-yun||許凌雲]]
 - **Granddaughter (via 丕龍):** [[people/hsu-ching-chun||許景淳]]
-- **Grandson:** [[people/leonard-hsu-jr||Leonard Hsu Jr. (許景鴻)]] — 景 generation; via which son is **open** (owner-confirmed grandfather edge 2026-09-20; father = one of 五龍, English name per "Jr." suffix = Leonard)
+- **Grandson:** [[people/leonard-hsu-jr||Leonard Hsu Jr. (許景鴻)]] — via son [[people/ahhee-hsu||許丕龍]] × 蔡瀛如 (owner-confirmed 2026-09-20; 丕龍's English name Leonard)
+- **Daughter-in-law (via 丕龍):** [[people/tsai-ying-ju||蔡瀛如]]
 
 ## Quotes
 
