@@ -33,7 +33,7 @@ last_reviewed: 2026-09-19
 ## Role in the Community
 
 - **Commemorated by his mentor:** the NYU School of Medicine community's loss was recorded by his mentor Prof. Claude Sansaricq in a eulogy held in the TAH corpus as story 484 (published 2016-11-21) — [[works/taiwaneseamericanhistory-org/mystories484|484. An eulogy on Dr. Wen Jer Chen by his mentor, Prof. Claude Sansaricq]]. The record corroborates the 2016 death year on this page.
-- **Profile record:** TAH Who's Who #1402, 2016-11 ([[works/taiwaneseamericanhistory-org/whos1402|1402. Wen Jer Chen 陳文哲]]) — compiled the year of his death, alongside the Silver (25th) Anniversary NYU faculty record noted above. Remaining corpus hits on 文哲 are 2026 news-tag files unrelated to this person (substring noise, excluded). Corpus grep 2026-09-19, slice 09171100-28.
+- **Profile record:** TAH Who's Who #1402, 2016-11 ([[works/taiwaneseamericanhistory-org/whos1402|1402. Wen Jer Chen 陳文哲]]) — compiled the year of his death, alongside the Silver (25th) Anniversary NYU faculty record noted above. Remaining corpus hits on 文哲 are 2026 news-tag files unrelated to this person (substring noise, excluded). Corpus grep 2026-09-19, slice 09171100-28; re-grep 2026-09-20 (slice 09190445-5) confirms the hit set is unchanged — only whos1402, the eulogy mystories484, and the works index — nothing new absorbable.
 
 ## Family
 

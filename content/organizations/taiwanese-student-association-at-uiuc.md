@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-19
+last_reviewed: 2026-09-20
 ---
 # Taiwanese Student Association at UIUC
 
@@ -20,6 +20,7 @@ The Taiwanese Student Association at UIUC (UIUC TSA) is a registered student org
 
 ## Role in the Community
 - Corpus material documents Taiwanese student-club activity at UIUC in 2013 under the name TASC (Taiwanese American Students Club): a family introduction for students (2013-09, [[works/taiwaneseamerican-org/tasc-family-introduction-at-uiuc-for-students|TASC Family Introduction at UIUC]]) and a night market (2013-10, [[works/taiwaneseamerican-org/taiwanese-american-students-club-night-market-at-uiuc|TASC Night Market at UIUC]]).
+- The club by then had history: a 20-year alumni weekend was held for UIUC-TASC in 2012-04 ([[works/taiwaneseamerican-org/20-year-anniversary-alumni-weekend-for-uiuc-tasc|20 Year Anniversary Alumni Weekend for UIUC-TASC]]), implying a founding around 1992 — predating the directory's "Contemporary" snapshot (absorbed 2026-09-20, corpus).
 - HOLD: conflict — corpus 2013 material names the UIUC Taiwanese student group "TASC"; the TAH directory names it "Taiwanese Student Association (台灣學生會)". Whether these are the same, renamed, or parallel organizations is unverified; not merged.
 
 ## Sources

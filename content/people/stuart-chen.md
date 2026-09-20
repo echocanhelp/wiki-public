@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-19
+last_reviewed: 2026-09-20
 ---
 # Stuart Chen (陳照雄)
 
@@ -39,6 +39,7 @@ _No filled family fields on the TAH profile._
 ## Role in the Community (deepened 2026-09-19, corpus)
 - 總會會長 (President) of 北美洲台灣人醫師協會 (NATMA). The association's charitable entity, [[organizations/north-american-taiwanese-medical-association-foundation|NATMA Foundation]] (est. 1995), organises International Medical Missions to Central/South America; regional chapters include [[organizations/natma-southern-california|NATMA Southern California]] and [[organizations/northern-california-taiwanese-medical-association-nctma|NCTMA]].
 - Own encyclopedia record: [[works/taiwaneseamericanhistory-org/whoswho2028|2028. Stuart Chen 陳照雄 / 02/2018]] (published 2018-02-14).
+- Corpus re-check 2026-09-20: the only works/articles hits for 陳照雄 / Stuart Chen are his own encyclopedia record and the works index — no memoir mentions beyond the above.
 
 ## Sources
 - [TAH #2028 encyclopedia: 2028. Stuart Chen 陳照雄 / 02/2018](https://taiwaneseamericanhistory.org/whoswho2028/)
