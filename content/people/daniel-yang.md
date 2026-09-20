@@ -33,6 +33,10 @@ last_reviewed: 2026-09-20
 
 _No filled family fields on the TAH profile._
 
+## Role in the Community
+- Listed in the TAH Foundation Who's Who community record; the corpus holds a bibliographic entry for his profile, [[works/taiwaneseamericanhistory-org/whos-who-2143-daniel-yang|2143. Daniel Yang]] (published 2018-07-04, value band B). The work page notes no named co-subjects pending absorb, so no further community links are recorded here yet.
+- Practising in Tallahassee, FL as a nuclear medicine / nuclear radiology physician per the TAH profile; no memoir or article in the local corpus (content/works, content/articles) names him beyond the Who's Who record itself.
+
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/daniel-yang/)
 
