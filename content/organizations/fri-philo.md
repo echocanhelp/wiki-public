@@ -24,6 +24,9 @@ Café Philo (哲學星期五, literally ‘Philosophy Friday’) is a civic foru
 - New York chapter organiser **劉彥廷** (Café Philo NYC) co-presented a session on influencing U.S. media coverage of Taiwan with FAPA's new generation (杜荷州) at the 海台青 (Overseas Taiwanese Youth) conference in 2017, which trained community organisers via g0v-style workshops. ([[articles/taiwanjustice-net/2021/20211207123518_2017_07_24_海台青與黑客松-_-楊遠薰-2017-07-24_2c9cb76838702dd7|海台青與黑客松／楊遠薰 2017-07-24]])
 - **Boston Café Philo (波士頓哲學星期五)** was a co-organiser (協辦) of the 2021 online 二二八 commemoration series run by 全美台灣同鄉會 (TAA) with 國家人權博物館 and others — two weeks of exhibitions, films and forums drawing 1,000+ in-person/online participants across four U.S. time zones. ([[articles/taiwanjustice-net/2025/20250430013325_全美台灣同鄉會2021-年二二八紀念系列活動圓滿落幕_f6213c1937fa956d|全美台灣同鄉會2021年二二八紀念系列活動]])
 
+- New York Cafe Philo also served as the organising hub for **g0v hackathons in New York City** ("organised by the New York Cafe Philo crowd"), and the post-Sunflower chapters practised deliberate intergenerational collaboration — students worked with elders of the overseas movement, including former political-blacklist figures, and with institutions such as the Taiwan Center (Flushing) and The Base (Brooklyn). The New Bloom memoir frames this sociality ("the fun social aspect") as what kept organisers engaged. ([[works/taiwaneseamericanhistory-org/our-journeys-373|373. The Overseas Taiwanese Student Movement…, 06/2021]])
+- The TAH directory entry itself is a band-B bibliographic record published **2016-04-04**, an early snapshot of the forum series while it was still expanding to U.S. cities. ([[works/taiwaneseamericanhistory-org/fri-philo|Fri. Philo 哲學星期五, TAH record 2016-04-04]])
+
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/fri-philo/)
 
