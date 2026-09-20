@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-19
+last_reviewed: 2026-09-20
 ---
 # Yea-Hwang Uang (汪雅煌博士)
 
@@ -26,6 +26,7 @@ Founding Member and President of East Tennessee Taiwanese American Association (
 - His own oral-history memoir is in the corpus: [[works/taiwaneseamericanhistory-org/ourjourneys102|102. 諾誠回憶 / 汪雅煌 /2015/02]] (value band A — oral history, 2015-02).
 - Encyclopedia profile record: [[works/taiwaneseamericanhistory-org/293-yea-hwang-uang-e6-b1-aa-e9-9b-85-e7-85-8c201502|293. Yea-Hwang Uang 汪雅煌 / 2015/02]].
 - Org page: [[organizations/taiwanese-association-of-america-east-tennessee|TAA East Tennessee]].
+- Corpus grep re-verified 2026-09-20 (slice 09190445-2): hit set unchanged (ourjourneys313/-eng, encyclopedia record 293, own memoir 102). SKIP-for-deepening: page already carries the full community record.
 
 <!-- tah-tables:start -->
 ## Education
