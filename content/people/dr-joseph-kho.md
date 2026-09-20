@@ -42,6 +42,7 @@ last_reviewed: 2026-09-18
 - Author of the religion essay 《幸福人生的鑰匙》 (2001/01), preserved in the TAH story corpus as [[works/taiwaneseamericanhistory-org/351-e5-b9-b8-e7-a6-8f-e4-ba-ba-e7-94-9f-e7-9a-84-e9-91-b0-e5-8c-99-e8-a8-b1-e9-9|351. 幸福人生的鑰匙]] (recorded 2014-11-27).
 - TAH encyclopedia entry #175 published 2014-12-28: [[works/taiwaneseamericanhistory-org/175-e8-a8-b1-e9-9a-bc-e5-a4-ab|175. Dr. Joseph Kho 許隼夫]].
 - Community record: served as 總幹事 of 北美教會協會 (1978–81, 86–88) and as 主任牧師 of the Washington, Houston, and Orange County 台灣基督長老教會 congregations — a backbone figure in the PCT diaspora church network in North America.
+- Re-grepped 2026-09-20: corpus hits limited to his own encyclopedia entry #175 and essay #351, both already cited; no additional memoir material.
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-joseph-kho/)

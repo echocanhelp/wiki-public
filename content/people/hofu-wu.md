@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-18
+last_reviewed: 2026-09-20
 ---
 # Dr. Hofu Wu (吳和甫博士)
 
@@ -36,6 +36,8 @@ last_reviewed: 2026-09-18
 ## Role in the Community
 - As NATPA 總會長 (2000), led the association's 第二十屆年會 back in Taiwan — the second time NATPA held its annual meeting on the island — timed right after President Chen Shui-bian's inauguration, with a visit to the president at the Presidential Office (source: [[works/taiwaneseamericanhistory-org/ourjourneys47|Our Journeys 47, NATPA 回台年會]]). This continued the precedent NATPA set in 1990, when its first Taiwan-based annual meeting helped break the blacklist and prompted other overseas Taiwanese associations to follow.
 - Profiled in the community record: [[works/taiwaneseamericanhistory-org/143-dr-hofu-wu|143. Dr. Hofu Wu 吳和甫博士]] and [[works/taiwaneseamericanhistory-org/749-hofu-wu-e5-90-b3-e5-92-8c-e7-94-ab-201512|749. Hofu Wu 吳和甫 / 2015/12]].
+- NATPA under his presidency was a nationwide association with regional chapters across the U.S. (recorded per chapter, e.g. [[works/taiwaneseamericanhistory-org/natpa-michigan-chapter|NATPA Michigan chapter]], [[works/taiwaneseamericanhistory-org/natpa-new-england-chapter|New England]], [[works/taiwaneseamericanhistory-org/north-american-taiwanese-professors-association-napta-south-ca-chapter|South CA]]); the association itself is recorded at [[works/taiwaneseamericanhistory-org/natpa|NATPA 總會]] and [[works/taiwaneseamericanhistory-org/brief-history-of-natpa|A brief history of NATPA]].
+- Per [[works/taiwaneseamericanhistory-org/ourjourneys47|Our Journeys 47]], the 2000 回台年會 he led became the model (典範) for overseas Taiwanese associations returning to Taiwan for their annual meetings — 世台會、公共事務會、台灣人商會、醫師協會 all subsequently organized return meetings.
 
 ## Family
 
