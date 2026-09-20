@@ -34,6 +34,10 @@ last_reviewed: 2026-09-20
 - **Son:** Jack, Steve, Mike, Jimmy
 
 
+## Role in the Community
+- Community encyclopedia entry preserved in the corpus: [[works/taiwaneseamericanhistory-org/461-henty-chen-e9-99-b3-e8-8f-af-e5-b1-b1201506|461. Henty Chen 陳華山 / 2015/06]] (2015-06-25) — TAHS recorded his story as part of the Taiwanese American physician cohort from 台南.
+- Physician, 台北醫學院 M.D.; self-employed practice per TAH profile.
+
 ## Sources
 - [TAH #461 encyclopedia: 461. Henty Chen 陳華山/2015/06](https://taiwaneseamericanhistory.org/461-henty-chen-%e9%99%b3%e8%8f%af%e5%b1%b1201506/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/henty-chen/)

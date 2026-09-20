@@ -23,6 +23,7 @@ The University of North Carolina at Chapel Hill Taiwanese Student Association (U
 
 ## Worklog
 - 2026-09-18 deepen-x slice 09170700-31: SKIP — no corpus hits for the organization itself in content/works or content/articles. Campus-level memoir material exists (e.g. UNC involvement in the 海報事件 and 「台灣學生」 per the NCTA 50-year回顾) but none names UNC TSA, and community facts about the wider North Carolina movement belong on their own pages; nothing absorbable without inventing biography.
+- 2026-09-20 deepen-x slice 09180600-13: SKIP — re-grep (UNC / Chapel Hill / 教堂山 / 北卡…同學會) still finds no material naming this organization. Nearest community context is the NC movement record [[works/taiwaneseamericanhistory-org/40-north-carolina-chapter-fapa|40. FAPA北卡分會]] (北卡卅大海報事件, UNC/NCSU/Duke 三角區), which belongs on the NC-movement pages; nothing absorbable here.
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

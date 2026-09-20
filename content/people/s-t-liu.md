@@ -34,6 +34,11 @@ last_reviewed: 2026-09-20
 - **Wife:** 張麗珠
 
 
+## Role in the Community
+
+- Two TAH Who's Who encyclopedia entries exist in the corpus: [[works/taiwaneseamericanhistory-org/whoswho1152|1152. S. T. Liu 劉曉亭]] (2016-07-17) and [[works/taiwaneseamericanhistory-org/whos1611|1611. 劉曉亭]] (2017-04-19), both band B; the corpus copies are bibliographic only, full text stays in the TAH vault.
+- The 2021-12 forum program sheet preserved in the TJJ archive credits him as 好消息電視台「劉三講古」主持人 and San Diego 台灣教會主任牧師（see From the record below）— his public role combined church leadership with Taigu-language media commentary.
+
 ## Sources
 - [TAH #1611 encyclopedia: 1611. 劉曉亭](https://taiwaneseamericanhistory.org/whos1611/)
 - [TAH #1152 encyclopedia: 1152. S. T. Liu 劉曉亭  / 2016/07](https://taiwaneseamericanhistory.org/whoswho1152/)
