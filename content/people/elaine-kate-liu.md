@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-20
 ---
 # Elaine Kate Liu
 
@@ -33,6 +33,9 @@ last_reviewed: 2026-08-17
 - **Father:** 劉協同
 - **Mother:** 李惠美
 
+## Role in the Community
+- Profiled in the TAH Foundation story corpus: [[works/taiwaneseamericanhistory-org/whos-who-1980-elaine-kate-liu|1980. Elaine Kate Liu]] (published 2017-12-26, band B) — the corpus record post-dates her listed lifespan 1975–2017, consistent with a memorial-era profile of a young Taiwanese American engineer; held as community historical record.
+- Note: the corpus "Elaine Liu Memorial Scholarships" record ([[works/taiwaneseamericanhistory-org/elaine-liu-memorial-scholarships|82. Elaine Liu 紀念獎學金]]) concerns Elaine Liu 黃久香 ([[people/elaine-liu]]), a different person — no link asserted.
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/elaine-kate-liu/)

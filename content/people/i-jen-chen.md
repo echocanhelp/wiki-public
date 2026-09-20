@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-20
 ---
 # I-Jen Chen (陳一仁醫師)
 
@@ -17,8 +17,11 @@ last_reviewed: 2026-08-17
 - **Era:** -
 - **Geography:** 台灣
 - **Core roles:** physician
-- **Source:** TAH Foundation Who’s Who
+- **Source:** TAH Foundation Who's Who
 
+## Role in the Community
+- Author of the memoir essay [[works/taiwaneseamericanhistory-org/ourjourneys281|281. 如是，我為：自己的老年狄斯耐樂園自己建造！]] (陳一仁, 2017/04) in our own journeys — band-A community history writing about building his own old-age life on his own terms.
+- TAH Who's Who profile record: [[works/taiwaneseamericanhistory-org/whoswho1452|whoswho1452]]. Education (M.S. 公共衛生, 中國醫藥學院) per the TAH table below; no corpus material contradicts it.
 
 <!-- tah-tables:start -->
 ## Education
