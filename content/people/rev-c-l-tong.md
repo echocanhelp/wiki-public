@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-18
+last_reviewed: 2026-09-20
 ---
 # Rev. C. L. Tong (董俊蘭牧師)
 
@@ -52,3 +52,5 @@ _No filled family fields on the TAH profile._
 - **TAH Who's Who record**: his own directory profile entered the TAH corpus archive on 2017-06-28 as [[works/taiwaneseamericanhistory-org/whos-who-1698-c-l-tong|1698. Rev. C. L. Tong 董俊蘭牧師]] (bibliographic record; full text in the vault).
 
 last_reviewed note: corpus-absorbed 2026-09-17; re-verified 2026-09-18 (deepen-x) — corpus re-grep returns only ourjourneys14, ourjourneys43 and the #1698 profile, all already linked above; nothing further absorbable.
+
+slice 09190130-8 re-grep (2026-09-20): corpus hit set identical to links already absorbed above — no new absorbable facts.

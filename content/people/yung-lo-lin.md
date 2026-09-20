@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-18
+last_reviewed: 2026-09-20
 ---
 # Yung-Lo Lin (林永樂)
 
@@ -48,3 +48,5 @@ last_reviewed: 2026-09-18
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+slice 09190130-8 re-grep (2026-09-20): corpus hit set identical to links already absorbed above — no new absorbable facts.

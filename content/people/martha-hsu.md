@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-18
+last_reviewed: 2026-09-20
 ---
 # Martha Hsu (許秀聰)
 
@@ -56,3 +56,5 @@ HOLD: this page appears to duplicate [[people/martha-vandriel|Martha VanDriel]] 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+slice 09190130-8 re-grep (2026-09-20): corpus hit set identical to links already absorbed above — no new absorbable facts.
