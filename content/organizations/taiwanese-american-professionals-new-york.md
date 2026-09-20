@@ -21,8 +21,10 @@ Taiwanese American Professionals New York (TAP-NY) is a chapter of the Taiwanese
 ## Role in the Community
 
 - The corpus holds a dedicated chapter record: [[works/taiwaneseamericanhistory-org/new-york-chapter-tap|7. New York Chapter / TAP 台美菁英協會紐約分會]] (published 2014-10-12), filed among the TAP chapter records alongside Austin, D.C., Boston, and Orange County chapters — see the umbrella record [[works/taiwaneseamericanhistory-org/taiwanese-american-professionals-tap|Taiwanese American Professionals 台美菁英協會]].
+- Chapter-family breadth in the corpus: TAP's network also left a scholarship record in Seattle — [[works/taiwaneseamericanhistory-org/35-taiwanese-american-professionals-of-seattle-scholarship-award|35. 西雅圖台美菁英協會獎學金 / TAP of Seattle Scholarship Award]] — showing chapter activity (NY, Austin, D.C., Boston, OC, Seattle) recorded chapter-by-chapter in the story corpus.
 - The chapter's founding-era activities are documented only bibliographically in the corpus (full text stays in the TAH vault); no memoir passages name TAP-NY members.
 - HOLD: conflict on parent org — the TAH directory/press-kit bio frames TAP-NY as a TACL chapter, while the corpus files it under the independent 台美菁英協會 (TAP) chapter family. Never auto-merged; both framings retained.
+- Corpus re-grep 2026-09-20 (slice 09190445-5): no new TAP-NY-specific memoir material beyond the chapter record above.
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-american-professionals-new-york/)

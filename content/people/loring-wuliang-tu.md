@@ -40,7 +40,8 @@ _No filled family fields on the TAH profile._
 
 - Contributed a first-person autobiography to the TAH story corpus (2017/10): [[works/taiwaneseamericanhistory-org/mystories593|593. 杜武亮自傳 / 杜武亮 / 10/2017]] — primary self-authored record; full text stays in the vault.
 - TAH encyclopedia profile: [[works/taiwaneseamericanhistory-org/whos-loring-wuliang-tu|580. Loring Wuliang Tu 杜武亮 / 2015/09]].
-- No other community-organization activity found in the corpus beyond his own memoir — press-kit roles (Tufts math professor, Princeton/McGill/Harvard) remain the only biography on record.
+- Co-signed the 2021-05-01 Taiwanese American community statement to Pew Research Center demanding Taiwanese Americans be reported as a separate category, as "Loring Tu" (署名無組織附註）, see [[works/taiwaneseamerican-org/pew-research-center-taiwanese-american-statement|Pew 回應聲明連署名單（2021-05）]]. HOLD: 連署名單僅列英文名，未標組織 — 身份推定為本人，未經本人紀錄確認。
+- Otherwise no other community-organization activity found in the corpus beyond his own memoir — press-kit roles (Tufts math professor, Princeton/McGill/Harvard) remain the only biography on record.
 
 ## Sources
 - [TAH #580 encyclopedia: 580. Loring Wuliang Tu 杜武亮 / 2015/09](https://taiwaneseamericanhistory.org/whos-loring-wuliang-tu/)

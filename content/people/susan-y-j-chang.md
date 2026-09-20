@@ -26,6 +26,7 @@ Accomplishment
 - Took over the NATWA 月曆 (calendar) project from 林郁子 after 郁子 was elected vice-president in 1996 (per the NATWA history memoir [[works/taiwaneseamericanhistory-org/ourjourneys60|60. 咱的故事—NATWA的歷史 / 吳秀惠、黃美惠合寫 /2014/11]]).
 - Led the 1998 calendar 「未完成的夢」 with 楊美麗: 3,000 copies printed, sold out by Thanksgiving 1997 (per the calendar memoir [[works/taiwaneseamericanhistory-org/ourjourneys160|160. NATWA 月曆 / 林郁子 / 2015/08]]).
 - As a NATWA leader she co-founded the Foreign Organization of Taiwanese Women Association (FOTWA, 國外臺灣婦女聯合會) with women's associations in other regions of the world (per the NATWA history memoir).
+- **2015 Iguazu bus accident survivor:** a fellow survivor's memoir records her on the same tour bus in Brazil when the crash killed five Taiwanese compatriots; press reports wrongly listed her as dead («報上登說我死了»), and she helped doctors explain patients' conditions to families in hospital. Written from inside the tragedy by Chang herself in her own memoir 《巴西復活記》 (2015-07) — [[works/taiwaneseamericanhistory-org/298-e5-b7-b4-e8-a5-bf-e5-be-a9-e6-b4-bb-e8-a8-98-e7-a8-8b-e9-9f-bb-e5-a6-8220150|298. 巴西復活記 / 程韻如 / 2015-07]]; the episode is also recounted in [[works/taiwaneseamericanhistory-org/ourjourneys249|Our Journeys #249]]. HOLD: the #249/#298 memoirs call her 北美婦女會會長 during the 2015 trip, while the TAH table lists her NATWA presidency as 2001-2002 — possible later office or retrospective title, not merged.
 - Org page: [[organizations/north-america-taiwanese-womens-association|NATWA]].
 
 <!-- tah-tables:start -->
