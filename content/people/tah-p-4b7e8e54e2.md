@@ -6,7 +6,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-18
+last_reviewed: 2026-09-20
 ---
 # 陳昭俊博士
 
@@ -51,3 +51,4 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+ Slice deepen-x-slice-09181500-14 (2026-09-20): re-grep 陳昭俊 — hit set unchanged (374, ourjourneys231 ±EN, two taiwanjustice articles, index catalog rows); nothing new absorbable.
