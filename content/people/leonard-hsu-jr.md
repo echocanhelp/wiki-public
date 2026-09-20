@@ -33,7 +33,6 @@ last_reviewed: 2026-08-30
 - **Parents**: **NEED YOU** — see open question below
   - **Grandfather (owner-confirmed 2026-09-20):** [[people/c-y-hsu||許贊育]] — i.e. father is one of 五龍 (登龍/左龍/丕龍/右龍/田龍). Owner has rejected all intermediate narrowings; no further pruning legitimate on current evidence.
   - *Open question*: the suffix **Jr.** states the father's English name is also **Leonard Hsu**. Open-web lead (inferred, unattributed): LA Times 1985-06-06 & 1985-07-21 profile a **Leonard Hsu** of Monterey Park — "poet, musician, conductor, entrepreneur and Taiwanese patriot," owner of **Good Shine Kitchen (故鄉)** + bakery + food shop; prominent in the LA Taiwanese community; grandmother 孫榮基's 1995 death is recorded in the same city. Which 龍 brother this is remains open.
-  - [LA Times 1985-06-06](https://www.latimes.com/archives/la-xpm-1985-06-06-fo-7155-story.html) · [LA Times 1985-07-21](https://www.latimes.com/archives/la-xpm-1985-07-21-mn-6906-story.html)
 
 ## Summary
 
