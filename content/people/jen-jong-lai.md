@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-20
 ---
 # Jen-Jong Lai (賴振榮)
 
@@ -29,6 +29,10 @@ last_reviewed: 2026-08-17
 - Fluor engineering and construction — 1980-1983 — Mech. Engineer PE
 - Sanitation Districts of Los Angeles County — 1983-2015 — Senior Mech. Engineer PE
 <!-- tah-tables:end -->
+
+## Role in the Community
+
+- Community record held in the corpus as TAH encyclopedia entry #349, published 2015-03-24: [[works/taiwaneseamericanhistory-org/349-jen-jong-lai-e8-b3-b4-e6-8c-af-e6-a6-ae201503|349. Jen-Jong Lai 賴振榮/2015/03]]. Corpus grep found no memoir/feature mentions beyond this bibliographic record — no further community facts absorbable yet.
 
 ## Family
 

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-18
+last_reviewed: 2026-09-20
 ---
 # Swing Chuang (莊宗勳)
 
@@ -29,6 +29,10 @@ Accomplishment
 ## Employment
 - Costco Taiwan — Staff — Kao-Yuan Vocational High School Basketball Team (高苑工商籃球隊) — Physical Trainer — Kaohsiung American School (高雄美國學校) — Lecturer
 <!-- tah-tables:end -->
+
+## Role in the Community
+
+- His community record is held in the corpus as TAH encyclopedia entry #1776, published 2017-07-24: [[works/taiwaneseamericanhistory-org/whos-who-1776-swing-chuang|1776. Swing Chuang 莊宗勳]]. Corpus grep found no memoir/feature mentions beyond this bibliographic record — no community facts absorbable yet.
 
 ## Family
 
