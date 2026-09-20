@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-18
+last_reviewed: 2026-09-20
 ---
 # HsinKuang Chen (陳信光)
 
@@ -33,7 +33,8 @@ President of Chicago Taiwanese Architecture Institute, CTAI (芝加哥台灣建�
 
 ## Role in the Community
 
-- Corpus grep (works/articles) returns only his own TAH record page; no memoir or community-corpus mentions found beyond the Who's Who entry — nothing further absorbable this pass.
+- Corpus grep (works/articles) returns only his own TAH record page; no memoir narrative mentioning him was found beyond the Who's Who entry.
+- His 2017 presidency is corroborated by the CTAI organizational record held in the corpus: [[organizations/chicago-taiwanese-architecture-institute-ctai|Chicago Taiwanese Architecture Institute, CTAI 芝加哥台灣建築學會]] ([[works/taiwaneseamericanhistory-org/chicago-taiwanese-architecture-institute|TAH directory record]], band B). Added cross-link 2026-09-20 (deepen-x slice 17).
 - His own TAH encyclopedia record: [[works/taiwaneseamericanhistory-org/whoswho1494|1494. HsinKuang Chen 陳信光 / 2017/02]]（2017-02-05 刊，value band B；書目紀錄，全文在 vault）.
 
 ## Family

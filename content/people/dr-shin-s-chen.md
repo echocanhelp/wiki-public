@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-18
+last_reviewed: 2026-09-20
 ---
 # Dr. Shin S. Chen (陳幸世醫師)
 
@@ -30,7 +30,7 @@ last_reviewed: 2026-09-18
 
 ## Role in the Community
 
-- Listed in the TAH Who's Who **1969 edition**; the community record is archived as [[works/taiwaneseamericanhistory-org/whos-who-1969-shin-s-chen|1969. Dr. Shin S. Chen 陳幸世醫師]] (record published 2017-12-03). The corpus holds the bibliographic record only — no memoir or article mentions were found — so biography stays limited to the TAH-sourced fields above.
+- Listed in the TAH Who's Who **1969 edition**; the community record is archived as [[works/taiwaneseamericanhistory-org/whos-who-1969-shin-s-chen|1969. Dr. Shin S. Chen 陳幸世醫師]] (record published 2017-12-03). The corpus holds the bibliographic record only — no memoir or article mentions were found — so biography stays limited to the TAH-sourced fields above. Re-verified 2026-09-20 (deepen-x slice 17): corpus hits remain his own record + the works index only.
 
 ## Family
 
