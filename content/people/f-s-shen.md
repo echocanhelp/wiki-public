@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-19
+last_reviewed: 2026-09-20
 ---
 # F.S. Shen (沈富雄)
 
@@ -42,7 +42,8 @@ Corpus memoirs place 沈富雄 in the Taiwan independence / blacklist-era moveme
 - **Blacklist-era arrest:** Lin Fu-wen's memoir of the Chen Wen-Chen Memorial Foundation records that, as the essay was being written (~a decade after 陳文成's 1985 death), "our friend Lawyer F.S. Shen (沈富雄) was arrested at the airport — another case of political persecution," amid the wave of blacklisted Taiwanese unable to return home — [[works/taiwaneseamericanhistory-org/ourjourneys8|8. 陳文成教授紀念基金會成立經過 / 林富文]] (EN: [[works/taiwaneseamericanhistory-org/ourjourneys8-eng|ourjourneys8-eng]]).
 - **Return wave, legislative stage:** 朱耀源's account of the three stages of Taiwanese returning after the blacklist loosened lists 沈富雄 among the pro-democracy lawmakers returned to Taiwan's political stage alongside 陳唐山、張富美、蔡同榮、許添財、廖大林 — [[works/taiwaneseamericanhistory-org/ourjourneys259|259. 台灣人回國的三個階段 / 朱耀源 / 10/2016]]. This matches the existing employment record of three Legislative Yuan terms (1993–2005).
 - **Inspiration for study groups:** 劉天良's history of the discussion-group movement notes the 聖東生活座談會 (Oct 1992) was founded partly stimulated by 沈富雄立委's oratory — [[works/taiwaneseamericanhistory-org/ourjourneys212|212. 生活座談會簡史 / 劉天良 / 03/2016]].
-- His own TAH #785 encyclopedia record (2016-01) is cited in Sources below but is not held as a corpus work page.
+- **1996 台灣文化之夜, Los Angeles:** TUF president 賴英慧 personally traveled to Seattle to invite 沈富雄立委 as a speaker for the 1996 《台灣文化之夜》 co-hosted with 北美洲台灣人教授協會 (the other speaker: 李遠哲); the author's recollection notes 沈富雄's lecture was 幽默風趣但比較沒有實質的內涵 ([[works/taiwaneseamericanhistory-org/ourjourneys301|Our Journeys #301]]).
+- His own TAH #785 encyclopedia record (2016-01) is held as a corpus work page: [[works/taiwaneseamericanhistory-org/785-f-s-shen-e6-b2-88-e5-af-8c-e9-9b-84-201601|785. F.S. Shen 沈富雄 / 2016/01]].
 
 ## Family
 

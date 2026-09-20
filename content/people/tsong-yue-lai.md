@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-17
+last_reviewed: 2026-09-20
 ---
 # Tsong-Yue Lai (賴聰域教授)
 
@@ -39,7 +39,8 @@ last_reviewed: 2026-09-17
 
 ## Role in the Community
 - 台大1971數學系學歷與台大校友名錄「賴聰域（數學）」相符；名錄同列「賴淑遠（商學）」，與妻 [[people/shu-lai|賴淑遠]] 相互印證 — [[articles/taiwanjustice-net/2018/20180721091303_2018_07_20_抗議-南加州台大校友會邀管中閔來年會做專題演講_a428dcebbceacf38|2018-07-20 南加州台大校友會邀管中閔專題演講引發校友連署抗議]]。
-- TAH encyclopedia entry: [[works/taiwaneseamericanhistory-org/390-tsong-yue-lai-201505|390. Tsong-Yue Lai 賴聰域 / 2015/05]]。
+- TAH encyclopedia entry: [[works/taiwaneseamericanhistory-org/390-tsong-yue-lai-201505|390. Tsong-Yue Lai 賴聰域 / 2015/05]].
+- Spouse-side community record (facts about wife [[people/shu-lai|賴淑遠]], not himself): she co-founded 聖東生活座談會 in 1992-10 per [[works/taiwaneseamericanhistory-org/ourjourneys212|Our Journeys #212]], and co-initiated the 2021 南加州僑界支持台灣參與WHa聯合聲明 ([[articles/taiwanjustice-net/2021/20210616072940_2021_05_17_2021年南加州僑界支持台灣參與世界衛生大會wha聯合聲_b1d58af16c0a5e5b|2021 WHA 聯合聲明]]) alongside TAHS — the couple's LA Taiwan-community organizing footprint. His own corpus footprint stays limited to the entry above plus wife's entries [[works/taiwaneseamericanhistory-org/159-shu-yuan-lai|159]] / [[works/taiwaneseamericanhistory-org/whos-who-389-shu-yuan-lai|389]]; no new first-person memoir material found on re-grep 2026-09-20.
 
 ## Family
 
