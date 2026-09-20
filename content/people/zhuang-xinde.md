@@ -4,7 +4,7 @@ type: person
 tags:
   - 
 verification_status: pending
-last_reviewed: 2026-07-08
+last_reviewed: 2026-09-20
 ---
 # Rev. Zhuang Xinde (莊信德)
 
@@ -25,6 +25,7 @@ Rev. Zhuang is recognized as an ordained minister within the Taiwanese Presbyter
 ## Source Notes and Confidence
 - Needs verification: expanded biographical details
 - Moderate confidence: named in church records
+- SKIP (deepen-x 2026-09-20): no corpus hits in works/articles for 莊信德/Zhuang Xinde — no absorbable community material beyond this page itself.
 
 ## Name Variants / Disambiguation
 - Chinese: 莊信德

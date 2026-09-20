@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-20
 ---
 # Priska Priscilla Liang
 
@@ -25,6 +25,17 @@ Priska (born Priscilla Liang) is a Taiwanese-American singer/songwriter living i
 ## Employment
 - singer/songwriter
 <!-- tah-tables:end -->
+
+## Role in the Community
+
+Priska appears throughout the TAHS-preserved Taiwanese American music scene record (TA.org / Akufuncture), independent of the TAH press-kit bio:
+
+- 2010 — placed 2nd among US competitors in a Taiwanese music competition (per Ho Chie's introduction).
+- 2012 — joined the Akufuncture family; performed in the OSMOSIS showcase series at Factory Tea Bar, Alhambra — [[works/taiwaneseamerican-org/introducing-singer-songwriter-priska|Introducing Singer-songwriter Priska]] (2012-05-08, band A), [[works/taiwaneseamerican-org/kevin-lien-and-priska-perform-at-osmosis|Kevin Lien and Priska Perform at Osmosis Spotlight]] (2012-05-04).
+- 2013 — SoCal singer-songwriter performances — [[works/taiwaneseamerican-org/singer-songwriter-priska-performs-in-socal|Singer-Songwriter Priska Performs in SoCal]] (2013-10-09).
+- 2016 — working on debut EP — [[works/taiwaneseamerican-org/priska-working-on-debut-ep|Priska Working on Debut EP]] (2016-08-25); TAH encyclopedia entries [[works/taiwaneseamericanhistory-org/whoswho1306|1306. Priska(Priscilla Liang)]] and [[works/taiwaneseamericanhistory-org/musician368|368. Priska, singer/songwriter]] (2016-10).
+- 2020 — co-host (with Roxy Shih) of the *Two Horny Goats* podcast, Asian Podcast Awards finalist for Best Host of 2020 — [[works/taiwaneseamerican-org/best-of-the-best-2020-lists-taiwan|Best of the Best 2020 Lists Taiwan]] (2020-12-21).
+- 2nd-generation Taiwanese American, grew up in and around the LA area; proud of her heritage (per the 2012 band-A interview).
 
 ## Family
 

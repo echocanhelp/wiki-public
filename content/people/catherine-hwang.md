@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-20
 ---
 # Catherine Hwang (黃李彩雲)
 
@@ -30,6 +30,10 @@ last_reviewed: 2026-08-17
 - **Husband:** 黃恒信
 
 
+## Corpus records
+
+Corpus sweep (works/articles) found only the TAH encyclopedia entry itself — [[works/taiwaneseamericanhistory-org/who833-catherine-hwang|835. Catherine Hwang 黃李彩雲 /02/2016]] (2016-02-24, band B). No independent community/memoir mentions in the TAHS corpus; nothing absorbable beyond the TAH profile.
+
 ## Sources
 - [TAH #835 encyclopedia: 835. Catherine Hwang 黃李彩雲 /02/2016](https://taiwaneseamericanhistory.org/who833-catherine-hwang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/catherine-hwang/)
@@ -37,3 +41,4 @@ last_reviewed: 2026-08-17
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- [[works/taiwaneseamericanhistory-org/who833-catherine-hwang|835. Catherine Hwang 黃李彩雲 /02/2016]]

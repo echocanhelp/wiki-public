@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-20
 ---
 # C. C. Tsai (蔡清枝)
 
@@ -29,6 +29,9 @@ last_reviewed: 2026-08-17
 
 - **Husband:** 蔡維清
 
+
+## Role in the Community
+- Profiled in the TAH Foundation Who's Who encyclopedia; her entry ([[works/taiwaneseamericanhistory-org/whswho1152|1153. C. C. Tsai 蔡清枝 / 2016/07]]) was published 2016-07-17. This is the only record held in the corpus — no memoir text or other community appearances found. From 大甲, 台中; 實踐大學 (前身實踐家專) B.S.
 
 ## Sources
 - [TAH #1153 encyclopedia: 1153. C. C. Tsai 蔡清枝 / 2016/07](https://taiwaneseamericanhistory.org/whswho1152/)

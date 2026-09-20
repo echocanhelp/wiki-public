@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-20
 ---
 # Rockwell Hsu (徐名璋)
 
@@ -29,6 +29,10 @@ last_reviewed: 2026-08-17
 
 _No filled family fields on the TAH profile._
 
+## Corpus records
+
+Corpus sweep (works/articles) found only the TAH encyclopedia entry itself — [[works/taiwaneseamericanhistory-org/whoswho1334|1334. Rockwell Hsu 徐名璋 2016/10]] (2016-10-22, band B). No independent community/memoir mentions in the TAHS corpus; nothing absorbable beyond the TAH profile.
+
 ## Sources
 - [TAH #1334 encyclopedia: 1334. Rockwell Hsu 徐名璋 2016/10](https://taiwaneseamericanhistory.org/whoswho1334/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/rockwell-hsu/)
@@ -36,3 +40,4 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- [[works/taiwaneseamericanhistory-org/whoswho1334|1334. Rockwell Hsu 徐名璋 2016/10]]

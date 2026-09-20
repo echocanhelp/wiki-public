@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-20
 ---
 # F. M. Yang (楊豐明)
 
@@ -25,6 +25,10 @@ F. M. Yang (楊豐明) is listed in the TAH Foundation Who’s Who Taiwanese Ame
 
 - **Daughter:** [[people/r-r-yang||楊蓉蓉]]
 
+
+## Role in the Community
+- Profiled in the TAH Foundation Who's Who encyclopedia; his entry ([[works/taiwaneseamericanhistory-org/whoswho2074|2074. F. M. Yang 楊豐明 / 03/2018]]) was published 2018-03-24. This is the only record held in the corpus — no memoir text or other community appearances found.
+- Daughter: [[people/r-r-yang|楊蓉蓉]].
 
 ## Sources
 - [TAH #2074 encyclopedia: 2074. F. M. Yang 楊豐明 / 03/2018](https://taiwaneseamericanhistory.org/whoswho2074/)

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-20
 ---
 # M. R. Tsai (蔡滿榮)
 
@@ -29,6 +29,10 @@ last_reviewed: 2026-08-17
 
 _No filled family fields on the TAH profile._
 
+## Corpus records
+
+Corpus sweep (works/articles) found only the TAH encyclopedia entry itself — [[works/taiwaneseamericanhistory-org/whoswho1715|1715. M. R. Tsai 蔡滿榮 / 07/2017]] (2017-07-02, band B). No independent community/memoir mentions in the TAHS corpus; nothing absorbable beyond the TAH profile.
+
 ## Sources
 - [TAH #1715 encyclopedia: 1715. M. R. Tsai 蔡滿榮 / 07/2017](https://taiwaneseamericanhistory.org/whoswho1715/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/m-r-tsai/)
@@ -36,3 +40,4 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- [[works/taiwaneseamericanhistory-org/whoswho1715|1715. M. R. Tsai 蔡滿榮 / 07/2017]]
