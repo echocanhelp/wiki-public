@@ -41,6 +41,8 @@ last_reviewed: 2026-09-18
 - Authored [[works/taiwaneseamericanhistory-org/mystories-758|758. 女兒的台語經歷]] (2020-10-08) — a family language-history essay on her daughter's Taiwanese (台語) experience.
 - Her community memorabilia are archived as [[works/taiwaneseamericanhistory-org/collection-of-mrs-pearl-wu|6. Collection of Mrs. Pearl Wu 楊碧珠女士的收藏]] (2016-09-22).
 - She is a named source in a record connected to the [[organizations/north-america-taiwanese-womens-association|North America Taiwanese Women's Association]] (NATWA), per corpus subject links.
+- Authored [[works/taiwaneseamericanhistory-org/ourjourneys355|355. NATWA月曆 最後的國民外交– 致謝Congressman Michael McCaul / 楊碧珠 / 06/2020]] (2020-06-07, band A) — her own account of the 30-year NATWA calendar fundraising program ("最後的國民外交"): the October 2019 DC board meeting proposed ending print production and the April 2020 videoconference annual meeting (moved online due to the pandemic) voted it out; she thanks every sister who handled production, printing, shipping, sales, and sponsorship over three decades.
+- Her own Who's Who entry is preserved in the corpus as [[works/taiwaneseamericanhistory-org/whos-who-1742-pi-chu-yang-wu|1742. Pearl Pi-Chu Yang Wu 楊碧珠]] (2017-07-04).
 - HOLD: conflict on husband's Chinese name — TAH Who's Who page lists 吳宗憲, while corpus record [[works/taiwaneseamericanhistory-org/whos-who-2268-peter-wu|2268. Dr. Peter Wu 吳平原博士]] (2020-05-04) lists 吳平原; both refer to Peter Wu, UT Austin pharmacy Ph.D. and president of the Austin Taiwanese Association 1991–1993 per the Austin memoir.
 
 ## Sources

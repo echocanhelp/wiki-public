@@ -24,6 +24,7 @@ The Taiwanese Student Association (TSA) at UC Santa Cruz — known in Chinese as
   - [[works/taiwaneseamericanhistory-org/dumplings-usctsa|燒肉粽 by USC Taiwanese Student Association 南加大台灣同學會]] — USC chapter's cultural performance record
   - [[works/taiwaneseamericanhistory-org/osu-taiwanese-student-association|Newsletter 會訊 by OSU Taiwanese Student Association 哥城台灣同學會]] — Stillwater/Oklahoma chapter newsletter
   - [[works/taiwaneseamericanhistory-org/tsa-taiwanese-student-association-at-the-university-of-washington|TSA — Taiwanese Student Association at the University of Washington]] — Seattle chapter
+  - [[works/taiwaneseamericanhistory-org/tsapa-taiwanese-student-association-for-public-affairs|16. Taiwanese Student Association for Public Affairs 台灣公共事務學生會華大分會]] (2014) — TSAPA, the University of Washington chapter oriented to public affairs, showing the TSA lineage extending into advocacy-focused student orgs
 - Context from the movement-history essay [[works/taiwaneseamericanhistory-org/our-journeys-357|Our Journeys 357]]: campus 臺灣同學會 grew out of late-1960s Berkeley/Stanford student gatherings; because chapters bearing "臺灣" in their names carried explicit Taiwanese consciousness, the KMT government pressured them and organized rival groups to split the overseas community — student associations were among the most common organs of community life alongside 同鄉會 and 臺灣教會.
 
 ## Sources
