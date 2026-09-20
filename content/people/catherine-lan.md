@@ -7,9 +7,13 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-20
 ---
 # Catherine Lan (藍巧茹)
+
+## Role in the Community
+- Self-submitted her profile to the TAH Foundation Who's Who encyclopedia; the community record is held at [[works/taiwaneseamericanhistory-org/whswho1590|1590. Catherine Lan 藍巧茹 (2017/03)]] (band B story record, published 2017-03-29).
+- Corpus record positions her as a Taipei-born artist and teaching artist documenting the Taiwanese American art-education community; no further memoir/essay text in the corpus (bibliographic record only — full text stays in the TAH vault).
 
 ## Identity Snapshot
 - **English:** Catherine Lan

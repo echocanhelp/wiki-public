@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-20
 ---
 # Edward Liu (劉俊宏)
 
@@ -35,6 +35,11 @@ last_reviewed: 2026-08-17
 - **Daughter:** Jenny
 - **Son:** Jasper
 
+
+## Role in the Community
+- 1986 — as Columbus 同鄉會夏令會召集人, proposed establishing the 中西部夏令會基金 so part of each summer camp's surplus would be set aside as a standing fund; accountant [[people/jeffrey-lee|李友禮]] managed it pro bono with annual reports at the 夏令會會長會議, a practice that continued for decades (per [[works/taiwaneseamericanhistory-org/our-journeys-376|Our Journeys 376]], which also notes surplus funds were typically donated to 台獨聯盟、公論報、台灣人權會 and the 教授會).
+- His own TAH encyclopedia record: [[works/taiwaneseamericanhistory-org/whos-who-2237|2237. Edward Liu 劉俊宏/01/2020]].
+- A memorial golf tournament, the [[works/taiwaneseamericanhistory-org/liu-memorial-golf|劉俊宏紀念杯高爾夫球比賽]] (record dated 2018-03-05), is held in his name — implying he died before 2018. HOLD: no death date in corpus; Era "1940" from TAH Who's Who unverified against memorial timing.
 
 ## Sources
 - [TAH #2237 encyclopedia: 2237. Edward Liu 劉俊宏/01/2020](https://taiwaneseamericanhistory.org/whos-who-2237/)
