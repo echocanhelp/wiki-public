@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-20
 ---
 # J. S. Chung (鍾俊賢)
 
@@ -29,6 +29,10 @@ last_reviewed: 2026-08-17
 ## Family
 
 _No filled family fields on the TAH profile._
+
+## Role in the Community
+- Named subject of TAH community record #40, 「全美最佳產品獎 / 鍾俊賢 /1997」 — a 1997 national best-product award tied to his SDRC career (record title is the only detail held in the corpus; full text stays in the vault) — [[works/taiwaneseamericanhistory-org/winners40|TAH #40]].
+- Own Who's Who encyclopedia record: [[works/taiwaneseamericanhistory-org/whoswho-1555|TAH #1555, 2017/03]].
 
 ## Sources
 - [TAH #1555 encyclopedia: 1555. J. S. Chung 鍾俊賢 / 2017/03](https://taiwaneseamericanhistory.org/whoswho-1555/)

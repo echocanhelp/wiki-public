@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-20
 ---
 # Kevin Lin (林士斌)
 
@@ -32,6 +32,13 @@ last_reviewed: 2026-08-17
 
 - **Father:** 林辰吉 Mother:鄭麗卿
 
+
+## Role in the Community
+- Listed among the Taiwanese American mentors of SPARK Accel, the volunteer-run virtual accelerator for Taiwanese American entrepreneurs, described there as co-founder of Twitch and Gold House — [[works/taiwaneseamerican-org/spark-accel-a-virtual-accelerator-for-taiwanese-american-entrepreneurs|SPARK Accel (TA.org)]].
+- Offered as a one-on-one mentor (COO at Twitch.tv) at Stephanie Chuang's 2015 Palace of Fine Arts fundraising event — [[works/taiwaneseamerican-org/stephanie-lin-champions-womens-empowerment|TA.org coverage]].
+- Own Who's Who record in the corpus: [[works/taiwaneseamericanhistory-org/whoswho1065-2|TAH #1065]].
+- HOLD: conflict — TAH profile lists role "COO"; TA.org corpus records him as "co-founder" of Twitch.
+- HOLD: the "Mr. and Mrs. Kevin Lin (林發祥,許錦屏)" of the 1984 Austin Taiwanese church founding families in [[works/taiwaneseamericanhistory-org/ourjourney-343|Our Journey #343]] is a different Kevin Lin (林發祥), not 林士斌 — not merged.
 
 ## Sources
 - [TAH #1065 encyclopedia: 1065. Kevin Lin 林士斌 / 2016/06](https://taiwaneseamericanhistory.org/whoswho1065-2/)
