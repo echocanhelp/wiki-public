@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-18
+last_reviewed: 2026-09-20
 ---
 # Felix Liu (劉富理牧師)
 
@@ -43,6 +43,7 @@ Per the church's own history in the TAHS *Our Journeys* corpus ([[works/taiwanes
 
 The corpus record is consistent with the TAH Who's Who entry ([[works/taiwaneseamericanhistory-org/214-felix-liu-e5-8a-89-e5-af-8c-e7-90-86201501|TAH Who's Who #214]]) — Pasadena/El Monte 台福 ministry — and adds the primary-source pastorate timeline above.
 
+Corpus re-grep 2026-09-20 (slice 09181500-17, 劉富理 / Felix Liu): hits are exactly the already-cited records (Our Journeys #257 church history, Who's Who #214, feature #268, harvest index) — no new primary material.
 ## Family
 
 - **Wife:** 王仁美

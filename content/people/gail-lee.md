@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-18
+last_reviewed: 2026-09-20
 ---
 # Gail Lee (李秀文)
 
@@ -38,6 +38,7 @@ Gail Hsiu-Wen Lee’s passion to bring live classical music to Central New Jerse
 - HOLD: conflict in degree field — press-kit table lists "Northwestern University — M.S." while the conductor bio narrative implies a music degree (M.M.); TAH corpus records are bibliographic stubs only and cannot resolve it.
 - Corpus check 2026-09-16, re-run slices 09170130-18, 09170500-16, and 09180131-21 on 2026-09-18: the two TAH records above are the only mentions in content/works + content/articles (a Taiwan-justice-press hit on 蓋爾 was 蓋爾足球/Gaelic football, unrelated); no memoir/community text adds further facts.
 
+Corpus re-grep 2026-09-20 (slice 09181500-17, 李秀文 / Gail Lee): hit set unchanged — musician63 and whoswho1115-2 remain the only corpus mentions; no new facts; HOLD on degree field stands.
 ## Family
 
 _No filled family fields on the TAH profile._
