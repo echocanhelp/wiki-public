@@ -24,6 +24,8 @@ The vault's community record documents the musical legacy this foundation exists
 - 1995 — "台灣人音樂—蕭泰然作品演奏會", a tribute concert organized by TAC/EC (美東台灣人夏令會) in Ithaca, NY: [[works/taiwaneseamericanhistory-org/concerts14|14. A Musical Tribute to Tyzen Hsiao, Ithaca NY 07/02/1995]].
 - Hsiao's own 2016 open letter to Taiwanese expatriates in Minnesota, with the reply by 蔡友仁 — [[works/taiwaneseamericanhistory-org/mystories456|456. 蕭泰然給所思念的明州同鄉的一封信 /08/2016]].
 - Broadcast biography feature — [[works/taiwaneseamericanhistory-org/videos112|112. 【台灣演義】台灣音樂家 蕭泰然傳 03/01/2015]]; the 2018 US Tyzen Hsiao Music Festival — [[works/taiwaneseamericanhistory-org/videos-152|152. 2018美國蕭泰然音樂節舞台現場最後彩排]]; a ticketed community-organized Formosan Melodies concert — [[works/taiwaneseamericanhistory-org/ourjourneys327|327. 台灣音樂之夜 (Formosan Melodies) / 台美史料中心 /12/2017]].
+- 2018-06-11 — the vault holds a directory record for the foundation itself: [[works/taiwaneseamericanhistory-org/tyzen-hsiao-foundation|Tyzen Hsiao Foundation 蕭泰然基金會]].
+- 2018 《蕭泰然音樂節》at Disney Concert Hall, LA: the foundation (美國蕭泰然基金會) was the 邀請單位 for 國立台灣交響樂團; 林衡哲's account names 蕭傑文夫婦 as the couple responsible for the foundation, alongside召集人田詒鴻、陳文石、許丕龍 and the 南加州教會合唱團 — [[works/taiwaneseamericanhistory-org/ourjourneys339|339. 聆迪士尼音樂廳《蕭泰然音樂節》有感 / 林衡哲 /08/2018]].
 - HOLD: the foundation's own founding date and charter activities are not documented in the vault corpus; the TAH directory also lists a separate [[organizations/tyzen-hsiao-music-works|TYZEN HSIAO MUSIC WORKS]] entity — relationship unresolved, not merged.
 
 ## Sources
