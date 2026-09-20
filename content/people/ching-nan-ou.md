@@ -41,7 +41,7 @@ From the Houston movement record ([[works/taiwaneseamericanhistory-org/ourjourne
 
 - 活動組成員 of the 台灣人傳統基金會 (Taiwanese Heritage Society of Houston) building campaign; the corpus names the committee roster as 林秋成、歐清南、李席舟 (per [[works/taiwaneseamericanhistory-org/ourjourneys233|Our Journeys 233]]).
 - 1988-02-13 同鄉會年會：義賣建館彩券收入一萬二千元，歐清南大力推銷。
-- 會館（7250 Harwin）大廳音響設備由林秋成、歐清南、葉國勢負責。
+- 會館（7250 Harwin）大廳音響設備由林秋成、歐清南、[[people/dr-kuo-shih-yeh|葉國勢]]負責。
 
 His own memoir/record is held at [[works/taiwaneseamericanhistory-org/816-ching-nan-ou-201602|816. Ching-Nan Ou 歐清南 / 2016-02]] (English version: [[works/taiwaneseamericanhistory-org/ourjourneys233-eng|Our Journeys 233 (EN)]]).
 
