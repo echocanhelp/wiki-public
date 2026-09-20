@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-19
+last_reviewed: 2026-09-20
 ---
 # Robert Lee (李席舟)
 
@@ -31,6 +31,7 @@ Accomplishment
 <!-- tah-tables:end -->
 
 ## Role in the Community
+- Corpus re-grep 2026-09-20: hit set identical to the absorbed set (own TAH #1868 record, ourjourneys233 籌備會名單, works index, and the unrelated Robert E. Lee 雕像報導 under Disambiguation below) — no new community facts this pass. SKIP-with-reason.
 - 1987-09 台灣會館籌備會（休士頓，李雅彥籌組，見 [[works/taiwaneseamericanhistory-org/ourjourneys233|233. 回顧休士頓台灣人活動中心的成立／莊承業]]，引 1987–88《聯合鄉訊》）：任 **活動組**（同組：林秋成、歐清南）及 **募款組**（同組：楊朝諄、林明德、莊峻華、王敦正）
 - 1988-04-16 謝里法油畫義賣：與楊朝諄、李雅彥合购，得九千元，一半歸會館（同上記錄）
 - 現任組織記錄：休士頓台灣人傳統基金會副主席 → [[organizations/taiwanese-heritage-society-of-houston|Taiwanese Heritage Society of Houston]]；本人 TAH 檔案 [[works/taiwaneseamericanhistory-org/whos-who-1868-robert-lee|1868. Robert Lee 李席舟]]
