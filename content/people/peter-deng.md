@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-20
 ---
 # Peter Deng (鄧培德)
 
@@ -24,6 +24,10 @@ last_reviewed: 2026-08-17
 ## Employment
 - present — Medical Specialties Distributors (MSD)
 <!-- tah-tables:end -->
+
+## Role in the Community
+- 2013–2014 — 會長, 芝加哥台灣同鄉會 (Formosan Club Association of Chicago), per the association's own presidential roster in [[works/taiwaneseamericanhistory-org/our-journeys-378|Our Journeys #378 芝加哥台灣同鄉會]] — the record lists him between 黃慶鍾 (2011–2012) and 沈耀初 (2015–2018).
+- 2016-08 — profiled in the TAH Foundation Who's Who record [[works/taiwaneseamericanhistory-org/whoswho1231|1231. Peter Deng 鄧培德 / 2016/08]].
 
 ## Family
 

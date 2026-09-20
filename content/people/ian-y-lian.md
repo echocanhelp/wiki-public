@@ -7,7 +7,8 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-20
+# deepen-x 09180800-22: SKIP — corpus grep matched only his own TAH record 1370 (bibliographic stub) plus index listings; no absorbable community material
 ---
 # Ian Y. Lian
 
