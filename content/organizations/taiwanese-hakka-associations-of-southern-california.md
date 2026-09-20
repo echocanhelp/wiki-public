@@ -6,7 +6,7 @@ tags:
   - Taiwanese-American
   - Taiwan-Center-group-member
 verification_status: published
-last_reviewed: 2026-09-18
+last_reviewed: 2026-09-20
 ---
 # Taiwanese Hakka Associations of Southern California
 
@@ -28,6 +28,8 @@ last_reviewed: 2026-09-18
 - **228 追思紀念會**: Listed as co-hosting 台美社團 of the 2024 大洛杉磯 228事件追思紀念會 — [[articles/taiwanjustice-net/2025/20250328132115_2024大洛杉磯228事件追思紀念會暨聯合社團系列活動邀_c41dfa01b8f3bcbb|taiwanjustice.net record]]. The Association fielded a **合唱團** that sang at the 2024 memorial program (alongside 吉他演奏 of 228-related songs and the traditional 點燭默哀 rite) — [[articles/taiwanjustice-net/2024/20240412171101_root_fb99d20a9d9e397a|taiwanjustice.net 邀請稿, 2024-04]].
 - **Corpus re-grep 2026-09-18** (slice 09180131-18): 南加州台灣客家會 / 美西南加台灣客家會 / Taiwanese Hakka Association across content/works + content/articles — hit set otherwise identical to records already linked above (TAH 目錄記錄, 956 會刊, WHA 2021, 228 2024, 2025 年會); the WHA 聯合聲明 also re-posted at [[articles/taiwanjustice-net/2025/20251108183438_2021年南加州僑界支持台灣參與世界衛生大會wha聯合聲_80c0a825a7a661b6|2025 repost]]. Generic 客家 memoir mentions (ourjourneys250/253/378) do not name this Association.
 - **2025 年會**: Held its 2025 annual meeting dinner on 6/21 — [[articles/taiwanjustice-net/2025/20250624111210_南加州台灣客家會6-21舉辦2025年會聚餐_c30c038d395fbd62|taiwanjustice.net record]].
+
+- **Umbrella-body context (corpus re-grep 2026-09-20, slice 09190130-2)**: the Association sits inside the US Hakka umbrella lineage documented in the corpus — 「全美臺灣客家會」(THA-USA), founded in Los Angeles in September 1988 by 10+ like-minded Hakka organizers with 楊貴雲 (Guei-Yun Yang) as first president, renamed 美洲台灣客家聯合會 in 2007 — [[works/taiwaneseamericanhistory-org/taiwanese-hakka-associations-of-america|Taiwanese Hakka Associations of America 美洲台灣客家聯合會]] and its 2016 年會暨懇親大會 record [[works/taiwaneseamericanhistory-org/30-taiwanese-hakka-associations-of-america-conference|#30]]. 王興富's 2010 multi-city introduction of the 聯合會 (elected 會長 2008; hosted the 2009 Toronto 懇親大會) confirms the network's founding-era history — [[works/taiwaneseamericanhistory-org/ourjourneys252|Our Journeys #252]]. No conflicting dates found.
 
 Pattern: an active pro-Taiwan 會館界 Hakka group in greater Los Angeles, continuously active in movement activities from at least 1992 (會刊) through 2025 (年會).
 

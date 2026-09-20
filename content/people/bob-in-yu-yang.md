@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-18
+last_reviewed: 2026-09-20
 ---
 # Bob In-Yu Yang (楊英育)
 
@@ -42,6 +42,8 @@ _No filled family fields on the TAH profile._
 - **台獨聯盟美國本部副主席**: Elected by the Central Committee on 1999-09-03 after 鄭智雄 resigned as vice-chairman of the 18th盟員代表大會 — [[works/taiwaneseamericanhistory-org/ourjourneys234|234. 台獨聯盟美國本部]].
 - **平原區台灣人秋令會 host**: Hosted the Plains Region Fall Camp at Metro Kansas City in 1986 and at Overland Park, Kansas in 1993 — [[works/taiwaneseamericanhistory-org/ourjourneys296|296. 平原區台灣人秋令會的介紹 / 童海南]] and [[works/taiwaneseamericanhistory-org/our-journeys-351|351. Brief note of The Plains Region Fall Camp / 張錫清]].
 - **TAH Who's Who record**: [[works/taiwaneseamericanhistory-org/660-bob-in-yu-yang-e6-a5-8a-e8-8b-b1-e8-82-b2-201510|660. Bob In-Yu Yang 楊英育 / 2015/10]].
+
+- **Corpus re-grep 2026-09-20** (slice 09190130-2): 楊英育 / In-Yu Yang across content/works + content/articles — hit set identical to records already linked above (#660 Who's Who record, OJ #228/#234/#296/#351); no new absorbable material.
 
 Note: TAH bio lists NAPTKA Kansas Chapter president 1993-95, 2006-07; the community records above add FAPA and 台獨聯盟 leadership roles that the press-kit bio omits. No date conflicts found.
 

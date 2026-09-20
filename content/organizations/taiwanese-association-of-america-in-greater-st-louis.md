@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-18
+last_reviewed: 2026-09-20
 ---
 # Taiwanese Association of America in Greater St. Louis (聖路易)
 
@@ -26,6 +26,8 @@ The Taiwanese Association of America in Greater St. Louis (TAA-STL; 聖路易 �
 - From Mu-Sheng Wu's TAA memoir ([[works/taiwaneseamericanhistory-org/ourjourneys76-eng|76. 全美台灣同鄉會 / Mu-Sheng Wu]], band A — primary material): St. Louis (聖路易) was one of the eight founding chapters of the National TACL (全國台美公民協會, alongside Houston, Kansas, Los Angeles, NYC, San Diego, San Francisco, Seattle) under 總會長 吳澧培, which threw full manpower and financial support (人力和財力) behind the Taiwanese-American census (人口普查) project; the campaign opened with a joint letter from twelve groups including TAA, TACL, FAPA, 人權會, NATMA, NATPA and NATWA. Note: TACL is a distinct organization from the TAA chapter, recorded here as adjacent community history.
 - The wider St. Louis chapter ecosystem is documented in the same corpus: NATWA ([[works/taiwaneseamericanhistory-org/natwa-st-louis-chapter|St. Louis NATWA]]), NATMA ([[works/taiwaneseamericanhistory-org/natma-st-louis-chapter|St. Louis NATMA]]), NATPA ([[works/taiwaneseamericanhistory-org/natpa-st-louis-chapter|St. Louis NATPA]]), NATEA ([[works/taiwaneseamericanhistory-org/natea-st-louis-chapter|St. Louis NATEA]]), the [[works/taiwaneseamericanhistory-org/st-louis-hakka-association|St. Louis Hakka Association 聖路易客家台灣同鄉會]] and [[works/taiwaneseamericanhistory-org/taiwanese-scholar-association-in-st-louis-tsa-stl|TSA-STL 聖路易台灣學者協會]].
 - Chapter-adjacent community records in the corpus: [[works/taiwaneseamericanhistory-org/28-st-louis-taiwanese-youth-chamber-orchestra|28. St. Louis Taiwanese Youth Chamber Orchestra]] (2015-11-16) and the [[works/taiwaneseamericanhistory-org/newsletter-of-taiwanese-presbyterian-church-of-greater-st-louis|Newsletter of Taiwanese Presbyterian Church of Greater St. Louis]] (2016-08-25).
+
+- **Corpus re-grep 2026-09-20** (slice 09190130-2): fresh grep of 聖路易 / St. Louis across content/works + content/articles returned the same chapter-linked records already cited above, plus two chapter-adjacent St. Louis community records newly linked here: the 高銘憲醫師 physician interview recorded in St. Louis ([[works/taiwaneseamericanhistory-org/my-stories-902|902. 醫生中的醫生 — 聖路易高銘憲醫師]], 04/2024), and 張瑞雄's account of the 1980-04-24 高俊明牧師 arrest — learned at a 衛理公會 quadrennial 總會 then meeting in St. Louis, where he successfully moved the assembly's condemnation cable to 蔣經國 ([[works/taiwaneseamericanhistory-org/our-journeys-350|Our Journeys #350]]) — evidence of the city's religious-wing movement history adjacent to the chapter. No conflicts.
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-association-of-america-in-greater-st-louis/)
