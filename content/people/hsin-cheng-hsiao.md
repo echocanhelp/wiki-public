@@ -86,3 +86,6 @@ _No filled family fields on the TAH profile._
 - [[works/taiwaneseamericanhistory-org/whos-who-1927-hsin-cheng-hsiao|TAH Who's Who #1927]] — own entry
 - [[articles/taiwanjustice-net/2024/20240425143841_root_d563b095f72513c7|TWJ：國家寶藏計畫報導]] — mentioned in this record
 - [[articles/taiwanjustice-net/2023/20230930223545_2023_09_18_北市議員林亮君申請加入民進黨-推薦人為賴清德_1aaf45127a1ddb3e|TWJ：林亮君入黨報導]] — mentioned in this record
+
+## Corpus re-grep (2026-09-20, slice 09181500-1)
+- Re-grep 蕭新晟/Hsin-Cheng Hsiao against content/works + content/articles: hits = our-journeys-373, own TAH #1927 record, works index, and the two TWJ articles (國家寶藏報導, 林亮君入黨報導) — all already absorbed in Role in the Community and wikilinked above. Re-read the #373 Cafe Philo passage and the 自由時報 國家寶藏計畫 passage: no facts beyond those already absorbed; both HOLD notes maintained. SKIP-no-new-material.

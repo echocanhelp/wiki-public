@@ -58,3 +58,4 @@ _No filled family fields on the TAH profile._
 - Re-grep re-run in deepen-x slice 09170130-5 (2026-09-17): hit set unchanged — ourjourneys162 中/EN (absorbed above), own #111/#1220 records (wikilinked above), works index. SKIP-no-new-material.
 - Re-grep re-run in deepen-x slice 09170500-3 (2026-09-17): hit set unchanged — ourjourneys162 ZH/EN (absorbed above), own #111/#1220 records (wikilinked above), works index. SKIP-no-new-material.
 - Re-grep re-run in deepen-x slice 09180131-3 (2026-09-18): hit set unchanged — ourjourneys162 ZH/EN (absorbed above), own #111/#1220 records, works index. SKIP-no-new-material; page saturated.
+- Re-grep re-run in deepen-x slice 09181500-1 (2026-09-20): hit set unchanged — ourjourneys162 ZH/EN (re-read, facts already absorbed in Role in the Community), own #111/#1220 records, works index. SKIP-no-new-material; page saturated.

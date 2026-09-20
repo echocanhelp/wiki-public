@@ -56,3 +56,5 @@ last_reviewed: 2026-09-20
 - Pre-1970 — Working as an engineer in the Washington DC area with other Taiwanese professionals (林再進、楊友垣、黃文興、陳松竹 and others) before the 刺蔣 case ([[works/taiwaneseamericanhistory-org/ourjourneys-138|Our Journeys #138]]).
 - 2023-09-18 — 中選會公告第16任總統、副總統選舉被連署人名單，台澎黨主席鄭自才與副手黃聖峰搭檔正式登記連署參選「中華民國流亡政權總統」，表明要取得比郭台銘更多的連署書；報導並回顧1970-04-24刺蔣案與1991年翻牆回台判徒刑1年（[[articles/taiwanjustice-net/2023/20230930222522_2023_09_18_刺蔣案_策劃者鄭自才登記總統連署-拚超越郭台_a20fb275b89c3fb7|TJJ 轉載中央社, 2023-09-18]]）。
 - His own writings are in the corpus: 刺蔣：鄭自才回憶錄 (鄭自才、張文隆, 01/2018, autobiography — [[works/taiwaneseamericanhistory-org/publications1201|TAH #1201]]) and 晴美與我 (03/2018 — [[works/taiwaneseamericanhistory-org/mystories632|TAH #632]]). HOLD: conflict — the TAH family field lists his wife as 吳清桂, while the memoir title 晴美與我 points to 晴美; not auto-merged.
+
+複核（deepen-x slice 09181500-3, 2026-09-20）：re-grep 命中 publications1201、mystories632、ourjourneys-138、our-journeys-357、ourjourneys81、ourjourneys62-eng——全部已吸收進上方「From the record」並 wikilink；語料飽和，無新材料。wife-vs-晴美 HOLD 仍有效。
