@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-19
+last_reviewed: 2026-09-20
 ---
 # North America Taiwanese Women’s Association – St. Louis Chapter (北美洲台灣婦女會聖路易分會)
 

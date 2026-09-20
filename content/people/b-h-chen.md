@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-19
+last_reviewed: 2026-09-20
 ---
 # B. H. Chen (陳炳煌)
 
@@ -56,3 +56,5 @@ last_reviewed: 2026-09-19
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+> Corpus check (deepen-x slice 09190700-5, 2026-09-20): fresh re-grep of works/ + articles/ hit set identical to the records already linked above (my-stories-690, #1, #1292); no new unabsorbed corpus facts.
