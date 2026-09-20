@@ -420,6 +420,7 @@ From I-5, take the El Toro exit west (towards Laguna Hills). Continue about 3 mi
 - [[organizations/presbyterian-church-in-taiwan||Presbyterian Church in Taiwan (PCT)]]
 - [[people/chen-meihui||Chen Meihui (陳美蕙)]]
 - [[people/zhang-xuanxin||Zhang Xuanxin (張宣信)]]
+- [[people/hung-jen-liu||Rev. Hung-Jen Liu (劉弘仁)]] — guest preacher (「悔改與救恩」 2021-07-18; 「祂的星」)
 - [[Geneva Presbyterian Church||Geneva Presbyterian Church]]
 - [[Laguna Woods||Laguna Woods Village]]
 - [[Laguna Hills||Laguna Hills, California]]
