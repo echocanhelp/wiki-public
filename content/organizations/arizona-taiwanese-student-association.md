@@ -18,6 +18,9 @@ last_reviewed: 2026-09-20
 
 The Arizona Taiwanese Student Association (ATSA) is a registered student organization at the University of Arizona in Tucson. According to its official campus directory listing, ATSA is a voluntary society devoted to discussions of culture and society in Taiwan, with a stated goal of engaging and educating the broader university community about Taiwan and Taiwanese culture.
 
+## Role in the Community
+- SKIP note (2026-09-20): corpus grep returned only substring false positives (NATSA/CAATSA contain "ATSA"); no memoir/article material about this org beyond the existing TAH directory + campus-directory snapshot.
+
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/arizona-taiwanese-student-association/)
 

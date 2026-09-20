@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-20
 ---
 # L. M. Chen (陳麗美)
 
@@ -41,3 +41,7 @@ last_reviewed: 2026-08-17
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+## Corpus note
+- Corpus grep (works/, articles/) found only this person's own TAH Who's Who bibliographic record [[works/taiwaneseamericanhistory-org/whos-who-1881-l-m-chen|1881. L. M. Chen 陳麗美]] — no memoir or community-history text carrying additional facts.
+- SKIP-deepened 2026-09-20: nothing absorbable beyond the TAH press-kit fields already on this page; no community-record material in the vault corpus.
