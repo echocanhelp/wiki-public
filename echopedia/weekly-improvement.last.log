@@ -1,1 +1,28 @@
 === weekly improvement 2026-09-20 ===
+=== INTAKE OPPORTUNITIES ===
+Traceback (most recent call last):
+  File "/home/leedt/.hermes/scripts/echopedia-intake-opportunities.py", line 127, in <module>
+    raise SystemExit(main())
+                     ^^^^^^
+  File "/home/leedt/.hermes/scripts/echopedia-intake-opportunities.py", line 85, in main
+    r = subprocess.run(
+        ^^^^^^^^^^^^^^^
+  File "/home/leedt/.local/share/uv/python/cpython-3.11.15-linux-aarch64-gnu/lib/python3.11/subprocess.py", line 550, in run
+    stdout, stderr = process.communicate(input, timeout=timeout)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/leedt/.local/share/uv/python/cpython-3.11.15-linux-aarch64-gnu/lib/python3.11/subprocess.py", line 1209, in communicate
+    stdout, stderr = self._communicate(input, endtime, timeout)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/leedt/.local/share/uv/python/cpython-3.11.15-linux-aarch64-gnu/lib/python3.11/subprocess.py", line 2116, in _communicate
+    self._check_timeout(endtime, orig_timeout, stdout, stderr)
+  File "/home/leedt/.local/share/uv/python/cpython-3.11.15-linux-aarch64-gnu/lib/python3.11/subprocess.py", line 1253, in _check_timeout
+    raise TimeoutExpired(
+subprocess.TimeoutExpired: Command '['python3', '/home/leedt/.hermes/scripts/echopedia-missing-pages.py', '--threshold', '3']' timed out after 120 seconds
+IMPROVE_BRIEF: /home/leedt/echo-system/echopedia/improvement-brief.md
+IMPROVE_STATUS: OK
+CI: ops-check WARN
+CI: queue-drain done
+CI: publishing to heal drift
+INCIDENT_LOGGED: /home/leedt/echo-system/knowledge/operational/incidents/2026-09-20.md
+CI: site-design ACTION
+CI: smoke OK

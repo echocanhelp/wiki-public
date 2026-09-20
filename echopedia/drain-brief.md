@@ -23,9 +23,9 @@
 - `people/zheng-wenlong.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 - `people/ye-siya.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 - `people/zhang-xinhui.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
-- `events/ev-87fe1881b2.md`: add last_reviewed, WROTE
-- `events/ev-824a2204ea.md`: add last_reviewed, WROTE
-- `events/ev-3265d6f262.md`: add last_reviewed, WROTE
+- `events/ev-87fe1881b2.md`: refresh last_reviewed
+- `events/ev-824a2204ea.md`: refresh last_reviewed
+- `events/ev-3265d6f262.md`: refresh last_reviewed
 - `events/sc-taiwancenter-org-event-2025-annual-gala-fundraising-dinner.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 - `events/sc-taiwancenter-org-event-2025-miss-taiwan-usa-news.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 - `events/sc-taiwancenter-org-event-2025-traditional-week.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)

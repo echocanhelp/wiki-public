@@ -1,6 +1,6 @@
 # Echopedia System Status
 
-*Generated: 2026-09-20 04:27 PDT*
+*Generated: 2026-09-20 06:07 PDT*
 
 ## Orientation
 - **Entry:** go <plain language> via go-router (auto-route) · **Control:** [CONTROL.md](CONTROL.md)
@@ -15,13 +15,13 @@
 - **L2 auto-publish on drift:** True
 - **L3 auto-push when green:** True
 - **Last good deploy:** `5cde2b2824`
-- **Last night (ledger):** related-pages 1 · analyzer scanned 2899 queued 9 suppressed 1947 · 🟡 QUEUE janitor HOLD leftover 34 · 🟡 QUEUE kanban blocked 67 · 🔴 NEED YOU cron fail: echopedia-nightly-audit, echopedia-ci-heal
+- **Last night (ledger):** related-pages 13 · analyzer scanned 2905 queued 18 suppressed 1922 · 🟡 QUEUE janitor HOLD leftover 37 · 🟡 QUEUE kanban blocked 65 · 🔴 NEED YOU cron fail: echopedia-nightly-audit, echopedia-ci-heal
 - **Track SSOT:** `knowledge/operational/intelligence/autonomy-ledger.json`
 
 ## Content
-|- **Tier1 pages:** 2871 (people 2407 / orgs 430 / sources 34) · Tier2 archive: 29103
+|- **Tier1 pages:** 2872 (people 2408 / orgs 430 / sources 34) · Tier2 archive: 29103
 |- **Janitor queue depth:** 57
-|- **Uncommitted files:** 78
+|- **Uncommitted files:** 93
 
 ## Self-improvement pipeline (Scout → Filter → Extract → Evaluate → Generate → Review)
 || Stage | Script | Last run | Output |
@@ -61,19 +61,19 @@ Load skill **echopedia-ops** first for any wiki work.
     Last run:  2026-09-19T07:00:53.756976-07:00  ok
     Name:      vllm-thermal-scaler
     Schedule:  every 1m
-    Last run:  2026-09-20T04:25:39.745376-07:00  ok
+    Last run:  2026-09-20T06:06:32.777133-07:00  ok
     Name:      Echopedia content analysis
     Schedule:  10 1 * * *
     Last run:  2026-09-20T01:11:00.726201-07:00  ok
     Name:      unified-watchdog
     Schedule:  every 30m
-    Last run:  2026-09-20T04:24:08.103509-07:00  ok
+    Last run:  2026-09-20T05:56:10.666016-07:00  ok
     Name:      echopedia-digest
     Schedule:  20 6 * * *
     Last run:  2026-09-19T06:20:28.943165-07:00  ok
     Name:      memory-audit
     Schedule:  50 4 * * *
-    Last run:  2026-09-19T04:50:45.774419-07:00  ok
+    Last run:  2026-09-20T04:50:54.288261-07:00  ok
     Name:      echopedia-nightly-audit
     Schedule:  15 1 * * *
     Last run:  2026-09-20T01:50:15.516177-07:00  error: Script execution failed: 'utf-8' codec can't decode bytes in position 3727-3728: invalid continuation byte  (2 failures in a row)
@@ -85,13 +85,13 @@ Load skill **echopedia-ops** first for any wiki work.
     Last run:  2026-09-13T06:16:19.976482-07:00  ok
     Name:      echopedia-ci-heal
     Schedule:  25 4 * * *
-    Last run:  2026-09-19T04:37:43.313883-07:00  error: Interrupted by shutdown before terminal completion.
+    Last run:  2026-09-20T04:50:53.951755-07:00  error: Interrupted by shutdown before terminal completion.  (2 failures in a row)
     Name:      echopedia-site-design
     Schedule:  30 4 * * *
-    Last run:  2026-09-19T04:30:42.413424-07:00  ok
+    Last run:  2026-09-20T04:30:42.843376-07:00  ok
     Name:      vault-search-index-rebuild
     Schedule:  0 5 * * 0
-    Last run:  2026-09-13T05:00:07.173032-07:00  ok
+    Last run:  2026-09-20T05:00:10.309659-07:00  ok
     Name:      echopedia-scout-live
 ```
 

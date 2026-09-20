@@ -38,3 +38,83 @@
 {"path": "people/albert-zh-sku-b-publisher-review.md", "findings": ["NO_IDENTITY_SNAPSHOT"], "acts": ["NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)"]}
 {"path": "people/george-lee.md", "findings": ["LINK_BODY_SPARSE"], "acts": ["NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)"]}
 {"path": "people/prof-sze-ya-yeh.md", "findings": ["LINK_BODY_SPARSE"], "acts": ["NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)"]}
+{"path": "people/chen-po-kong.md", "findings": ["NO_TYPE", "NO_IDENTITY_SNAPSHOT", "NO_LAST_REVIEWED"], "acts": ["NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)"]}
+{"path": "people/du-ao-cunfu.md", "findings": ["NO_TYPE", "NO_IDENTITY_SNAPSHOT", "NO_LAST_REVIEWED"], "acts": ["NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)"]}
+{"path": "people/yuan-zhihui.md", "findings": ["NO_TYPE", "NO_IDENTITY_SNAPSHOT", "NO_LAST_REVIEWED"], "acts": ["NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)"]}
+{"path": "people/chao-sile.md", "findings": ["NO_TYPE", "NO_IDENTITY_SNAPSHOT", "NO_LAST_REVIEWED"], "acts": ["NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)"]}
+{"path": "people/fan-jiang-ti-ang.md", "findings": ["NO_TYPE", "NO_IDENTITY_SNAPSHOT", "NO_LAST_REVIEWED"], "acts": ["NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)"]}
+{"path": "people/li-jian.md", "findings": ["NO_TYPE", "NO_IDENTITY_SNAPSHOT", "NO_LAST_REVIEWED"], "acts": ["NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)"]}
+{"path": "people/lin-baohua.md", "findings": ["NO_TYPE", "NO_IDENTITY_SNAPSHOT", "NO_LAST_REVIEWED"], "acts": ["NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)"]}
+{"path": "people/yang-yueqing.md", "findings": ["NO_TYPE", "NO_IDENTITY_SNAPSHOT", "NO_LAST_REVIEWED"], "acts": ["NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)"]}
+{"path": "people/guan-renjian.md", "findings": ["NO_TYPE", "NO_IDENTITY_SNAPSHOT", "NO_LAST_REVIEWED"], "acts": ["NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)"]}
+{"path": "people/huang-diyin.md", "findings": ["NO_TYPE", "NO_IDENTITY_SNAPSHOT", "NO_LAST_REVIEWED"], "acts": ["NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)"]}
+{"path": "people/nanfang-shuo.md", "findings": ["NO_IDENTITY_SNAPSHOT"], "acts": ["NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)"]}
+{"path": "people/sang-pu.md", "findings": ["NO_IDENTITY_SNAPSHOT"], "acts": ["NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)"]}
+{"path": "people/wang-qiaoling.md", "findings": ["NO_IDENTITY_SNAPSHOT"], "acts": ["NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)"]}
+{"path": "people/zou-jingwen.md", "findings": ["NO_IDENTITY_SNAPSHOT"], "acts": ["NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)"]}
+{"path": "people/wang-shufen.md", "findings": ["NO_IDENTITY_SNAPSHOT"], "acts": ["NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)"]}
+{"path": "people/xia-ming.md", "findings": ["NO_IDENTITY_SNAPSHOT"], "acts": ["NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)"]}
+{"path": "people/bai-peiyu.md", "findings": ["NO_IDENTITY_SNAPSHOT"], "acts": ["NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)"]}
+{"path": "people/tang-peili.md", "findings": ["NO_IDENTITY_SNAPSHOT"], "acts": ["NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)"]}
+{"path": "people/li-xiaofeng.md", "findings": ["NO_IDENTITY_SNAPSHOT"], "acts": ["NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)"]}
+{"path": "people/zheng-wenlong.md", "findings": ["NO_IDENTITY_SNAPSHOT"], "acts": ["NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)"]}
+{"path": "people/ye-siya.md", "findings": ["NO_IDENTITY_SNAPSHOT"], "acts": ["NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)"]}
+{"path": "people/zhang-xinhui.md", "findings": ["NO_IDENTITY_SNAPSHOT"], "acts": ["NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)"]}
+{"path": "events/ev-87fe1881b2.md", "findings": ["NO_LAST_REVIEWED"], "acts": ["refresh last_reviewed"]}
+{"path": "events/ev-824a2204ea.md", "findings": ["NO_LAST_REVIEWED"], "acts": ["refresh last_reviewed"]}
+{"path": "events/ev-3265d6f262.md", "findings": ["NO_LAST_REVIEWED"], "acts": ["refresh last_reviewed"]}
+{"path": "events/sc-taiwancenter-org-event-2025-annual-gala-fundraising-dinner.md", "findings": [], "acts": ["NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)"]}
+{"path": "events/sc-taiwancenter-org-event-2025-miss-taiwan-usa-news.md", "findings": [], "acts": ["NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)"]}
+{"path": "events/sc-taiwancenter-org-event-2025-traditional-week.md", "findings": [], "acts": ["NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)"]}
+{"path": "events/sc-taiwancenter-org-event-2026-luo-shan-ji-tai-mei-ren-chuan-tong-zhou.md", "findings": [], "acts": ["NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)"]}
+{"path": "events/sc-taiwancenter-org-event-228-memorial-commemoration-ceremony.md", "findings": [], "acts": ["NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)"]}
+{"path": "events/sc-taiwancenter-org-event-calendar.md", "findings": [], "acts": ["NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)"]}
+{"path": "events/sc-taiwancenter-org-event-construction-progress-of-the-building.md", "findings": [], "acts": ["NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)"]}
+{"path": "events/sc-taiwancenter-org-event-groundbreaking-ceremony.md", "findings": [], "acts": ["NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)"]}
+{"path": "events/sc-taiwancenter-org-event-she-li-guo-cheng-zhao-pian.md", "findings": [], "acts": ["NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)"]}
+{"path": "events/sc-taiwancenter-org-event-taiwan-joining-who.md", "findings": [], "acts": ["NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)"]}
+{"path": "events/sc-taiwancenter-org-event-thanksgiving-dinner.md", "findings": [], "acts": ["NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)"]}
+{"path": "events/sc-taiwancenter-org-event-xin-guan-shi-nei-she-ji-kong-jian-yu-gui-hua.md", "findings": [], "acts": ["NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)"]}
+{"path": "people/albert-zh-sku-b-publisher-review.md", "findings": ["NO_IDENTITY_SNAPSHOT"], "acts": ["NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)"]}
+{"path": "people/george-lee.md", "findings": ["LINK_BODY_SPARSE"], "acts": ["NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)"]}
+{"path": "people/prof-sze-ya-yeh.md", "findings": ["LINK_BODY_SPARSE"], "acts": ["NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)"]}
+{"path": "people/chen-po-kong.md", "findings": ["NO_TYPE", "NO_IDENTITY_SNAPSHOT", "NO_LAST_REVIEWED"], "acts": ["NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)"]}
+{"path": "people/du-ao-cunfu.md", "findings": ["NO_TYPE", "NO_IDENTITY_SNAPSHOT", "NO_LAST_REVIEWED"], "acts": ["NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)"]}
+{"path": "people/yuan-zhihui.md", "findings": ["NO_TYPE", "NO_IDENTITY_SNAPSHOT", "NO_LAST_REVIEWED"], "acts": ["NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)"]}
+{"path": "people/chao-sile.md", "findings": ["NO_TYPE", "NO_IDENTITY_SNAPSHOT", "NO_LAST_REVIEWED"], "acts": ["NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)"]}
+{"path": "people/fan-jiang-ti-ang.md", "findings": ["NO_TYPE", "NO_IDENTITY_SNAPSHOT", "NO_LAST_REVIEWED"], "acts": ["NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)"]}
+{"path": "people/li-jian.md", "findings": ["NO_TYPE", "NO_IDENTITY_SNAPSHOT", "NO_LAST_REVIEWED"], "acts": ["NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)"]}
+{"path": "people/lin-baohua.md", "findings": ["NO_TYPE", "NO_IDENTITY_SNAPSHOT", "NO_LAST_REVIEWED"], "acts": ["NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)"]}
+{"path": "people/yang-yueqing.md", "findings": ["NO_TYPE", "NO_IDENTITY_SNAPSHOT", "NO_LAST_REVIEWED"], "acts": ["NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)"]}
+{"path": "people/guan-renjian.md", "findings": ["NO_TYPE", "NO_IDENTITY_SNAPSHOT", "NO_LAST_REVIEWED"], "acts": ["NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)"]}
+{"path": "people/huang-diyin.md", "findings": ["NO_TYPE", "NO_IDENTITY_SNAPSHOT", "NO_LAST_REVIEWED"], "acts": ["NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)"]}
+{"path": "people/nanfang-shuo.md", "findings": ["NO_IDENTITY_SNAPSHOT"], "acts": ["NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)"]}
+{"path": "people/sang-pu.md", "findings": ["NO_IDENTITY_SNAPSHOT"], "acts": ["NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)"]}
+{"path": "people/wang-qiaoling.md", "findings": ["NO_IDENTITY_SNAPSHOT"], "acts": ["NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)"]}
+{"path": "people/zou-jingwen.md", "findings": ["NO_IDENTITY_SNAPSHOT"], "acts": ["NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)"]}
+{"path": "people/wang-shufen.md", "findings": ["NO_IDENTITY_SNAPSHOT"], "acts": ["NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)"]}
+{"path": "people/xia-ming.md", "findings": ["NO_IDENTITY_SNAPSHOT"], "acts": ["NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)"]}
+{"path": "people/bai-peiyu.md", "findings": ["NO_IDENTITY_SNAPSHOT"], "acts": ["NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)"]}
+{"path": "people/tang-peili.md", "findings": ["NO_IDENTITY_SNAPSHOT"], "acts": ["NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)"]}
+{"path": "people/li-xiaofeng.md", "findings": ["NO_IDENTITY_SNAPSHOT"], "acts": ["NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)"]}
+{"path": "people/zheng-wenlong.md", "findings": ["NO_IDENTITY_SNAPSHOT"], "acts": ["NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)"]}
+{"path": "people/ye-siya.md", "findings": ["NO_IDENTITY_SNAPSHOT"], "acts": ["NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)"]}
+{"path": "people/zhang-xinhui.md", "findings": ["NO_IDENTITY_SNAPSHOT"], "acts": ["NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)"]}
+{"path": "events/ev-87fe1881b2.md", "findings": ["NO_LAST_REVIEWED"], "acts": ["refresh last_reviewed"]}
+{"path": "events/ev-824a2204ea.md", "findings": ["NO_LAST_REVIEWED"], "acts": ["refresh last_reviewed"]}
+{"path": "events/ev-3265d6f262.md", "findings": ["NO_LAST_REVIEWED"], "acts": ["refresh last_reviewed"]}
+{"path": "events/sc-taiwancenter-org-event-2025-annual-gala-fundraising-dinner.md", "findings": [], "acts": ["NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)"]}
+{"path": "events/sc-taiwancenter-org-event-2025-miss-taiwan-usa-news.md", "findings": [], "acts": ["NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)"]}
+{"path": "events/sc-taiwancenter-org-event-2025-traditional-week.md", "findings": [], "acts": ["NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)"]}
+{"path": "events/sc-taiwancenter-org-event-2026-luo-shan-ji-tai-mei-ren-chuan-tong-zhou.md", "findings": [], "acts": ["NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)"]}
+{"path": "events/sc-taiwancenter-org-event-228-memorial-commemoration-ceremony.md", "findings": [], "acts": ["NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)"]}
+{"path": "events/sc-taiwancenter-org-event-calendar.md", "findings": [], "acts": ["NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)"]}
+{"path": "events/sc-taiwancenter-org-event-construction-progress-of-the-building.md", "findings": [], "acts": ["NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)"]}
+{"path": "events/sc-taiwancenter-org-event-groundbreaking-ceremony.md", "findings": [], "acts": ["NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)"]}
+{"path": "events/sc-taiwancenter-org-event-she-li-guo-cheng-zhao-pian.md", "findings": [], "acts": ["NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)"]}
+{"path": "events/sc-taiwancenter-org-event-taiwan-joining-who.md", "findings": [], "acts": ["NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)"]}
+{"path": "events/sc-taiwancenter-org-event-thanksgiving-dinner.md", "findings": [], "acts": ["NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)"]}
+{"path": "events/sc-taiwancenter-org-event-xin-guan-shi-nei-she-ji-kong-jian-yu-gui-hua.md", "findings": [], "acts": ["NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)"]}
+{"path": "people/albert-zh-sku-b-publisher-review.md", "findings": ["NO_IDENTITY_SNAPSHOT"], "acts": ["NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)"]}
+{"path": "people/george-lee.md", "findings": ["LINK_BODY_SPARSE"], "acts": ["NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)"]}
+{"path": "people/prof-sze-ya-yeh.md", "findings": ["LINK_BODY_SPARSE"], "acts": ["NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)"]}

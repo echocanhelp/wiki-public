@@ -1,0 +1,4 @@
+people/janice-ger.md
+people/mian-mian-lu.md
+people/judy-huang.md
+people/peter-wang.md

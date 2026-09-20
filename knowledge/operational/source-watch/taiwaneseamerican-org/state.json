@@ -138,8 +138,14 @@
       "len": 69959,
       "code": 200,
       "baseline": false
+    },
+    "https://www.taiwaneseamerican.org/2026/09/jess-eng-taitung-eats-book/": {
+      "hash": "8914caef036b9691a603ed6224e3e7d3",
+      "len": 73139,
+      "code": 200,
+      "baseline": false
     }
   },
-  "last_poll": "2026-09-13T12:34:23Z",
+  "last_poll": "2026-09-20T12:34:56Z",
   "baseline_at": "2026-08-21T01:37:21Z"
 }

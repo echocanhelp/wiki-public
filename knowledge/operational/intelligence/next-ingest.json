@@ -1,27 +1,27 @@
 {
-  "at": "2026-09-13T12:36:55Z",
+  "at": "2026-09-20T12:37:26Z",
   "suggestions": [
     {
       "kind": "website",
-      "host": "healthy.kaiserpermanente.org",
-      "mentions": 3,
-      "score": 17,
-      "why": "external host on 3 Tier1 pages; not watched",
-      "action": "go Echopedia website https://healthy.kaiserpermanente.org/"
+      "host": "latimes.com",
+      "mentions": 6,
+      "score": 18,
+      "why": "external host on 6 Tier1 pages; not watched",
+      "action": "go Echopedia website https://latimes.com/"
     },
     {
       "kind": "website",
-      "host": "ntumcaa-na.org",
-      "mentions": 3,
-      "score": 17,
-      "why": "external host on 3 Tier1 pages; not watched",
-      "action": "go Echopedia website https://ntumcaa-na.org/"
+      "host": "tcnn.org.tw",
+      "mentions": 6,
+      "score": 18,
+      "why": "external host on 6 Tier1 pages; not watched",
+      "action": "go Echopedia website https://tcnn.org.tw/"
     }
   ],
-  "candidates_considered": 17,
+  "candidates_considered": 31,
   "pools": {
-    "website_like": 11,
-    "densify": 1,
-    "total": 17
+    "website_like": 23,
+    "densify": 0,
+    "total": 31
   }
 }

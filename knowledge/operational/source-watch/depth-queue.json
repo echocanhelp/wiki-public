@@ -1,34 +1,34 @@
 {
-  "at": "2026-09-13T12:36:55Z",
+  "at": "2026-09-20T12:37:26Z",
   "items": [
     {
       "id": "taiwancenter-org",
       "page": "content/organizations/taiwan-center.md",
-      "bytes": 19971,
+      "bytes": 22862,
       "tier": "THICK"
     },
     {
       "id": "good-shepherd-taiwanese-presbyterian-church",
       "page": "content/organizations/good-shepherd-taiwanese-presbyterian-church.md",
-      "bytes": 12812,
+      "bytes": 13634,
       "tier": "THICK"
     },
     {
       "id": "irvine-taiwanese-presbyterian-church",
       "page": "content/organizations/irvine-taiwanese-presbyterian-church.md",
-      "bytes": 29017,
+      "bytes": 29145,
       "tier": "THICK"
     },
     {
       "id": "presbyterian-church-in-taiwan",
       "page": "content/organizations/presbyterian-church-in-taiwan.md",
-      "bytes": 23152,
+      "bytes": 24413,
       "tier": "THICK"
     },
     {
       "id": "laijohn-com",
       "page": "content/organizations/elder-john-lai-archives.md",
-      "bytes": 5620,
+      "bytes": 6399,
       "tier": "MEDIUM"
     },
     {
@@ -52,14 +52,14 @@
     {
       "id": "eastgatebarclay-org",
       "page": "content/organizations/tainan-east-gate-barclay-memorial-church.md",
-      "bytes": 3551,
+      "bytes": 5044,
       "tier": "MEDIUM"
     },
     {
       "id": "penghu-info",
       "page": "content/organizations/penghu-info.md",
-      "bytes": 2607,
-      "tier": "THIN"
+      "bytes": 5069,
+      "tier": "MEDIUM"
     }
   ]
 }

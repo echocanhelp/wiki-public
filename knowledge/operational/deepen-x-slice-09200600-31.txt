@@ -1,0 +1,4 @@
+people/vincent-c-lai.md
+people/m-s-chen.md
+people/l-j-chen.md
+people/s-h-chang.md
