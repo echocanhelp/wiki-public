@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-20
 ---
 # Yih-Nan Chiou (邱義男)
 
@@ -28,6 +28,10 @@ last_reviewed: 2026-08-17
 ## Family
 
 _No filled family fields on the TAH profile._
+
+## Role in the Community
+- His story is held in the community record as TAH Foundation Who's Who entry 1229, published 2016-08-10: [[works/taiwaneseamericanhistory-org/whoswho1229|1229. Yih-Nan Chiou 邱義男 / 2016/08]] (band B, story).
+- Corpus grep (works/ + articles/) found no further mentions beyond this own-record; physician trained at 台大醫學院 per the TAH profile tables.
 
 ## Sources
 - [TAH #1229 encyclopedia: 1229. Yih-Nan Chiou 邱義男 / 2016/08](https://taiwaneseamericanhistory.org/whoswho1229/)

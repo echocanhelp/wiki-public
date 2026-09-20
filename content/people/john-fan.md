@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-20
 ---
 # John Fan (樊立勳博士)
 
@@ -33,6 +33,12 @@ last_reviewed: 2026-08-17
 
 - **Father:** 樊豐忠 Mother:李文玲
 
+
+## Role in the Community
+- Co-founder and CEO of Cardinal Blue, the startup behind PicCollage — a free-form photo-collage app with over 70 million users, headquartered in San Francisco with a Taipei branch, backed by Floodgate Fund, Freestyle Capital, Quest Venture Partners and 500 Startups.
+- Featured in a TaiwaneseAmerican.org community interview (band A): [[works/taiwaneseamerican-org/inside-piccollage|Inside the Taipei Office of PicCollage]] (2014-10-07, by Ho Chie Tsai) — Tsai visited the 16-person Taipei office and spoke with Fan about the startup and entrepreneurial scene in Taiwan during an all-office Hackathon.
+- His story is also held in the TAH Foundation Who's Who entry 1269, published 2016-09-11: [[works/taiwaneseamericanhistory-org/whoswho1269|1269. John Fan 樊立勳 / 09/2016]] (band B, story).
+- Note: a 2025 taiwanjustice.net article mention of "John Fanestil" (約翰·法內斯蒂爾牧師, Friends of Friendship Park) is a different person and was not absorbed.
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/john-fan/)
