@@ -2157,6 +2157,7 @@ On a phone, **use header search** (漢名 or English). This page is an A–Z lis
 [[people/tonya-c-mezrich|Tonya C Mezrich (陳糖亞)]]
 [[people/treya-lam|Treya Lam]]
 [[people/tsai-ing-wen|Tsai Ing-wen (蔡英文)]]
+[[people/tsai-ying-ju|Tsai Ying-ju (蔡瀛如)]]
 [[people/tsaiyuan-terry-hsu|Tsaiyuan Terry Hsu (許財源)]]
 [[people/c-y-hsu|Tsan Yu Hsu (許贊育)]]
 [[people/tsan-hung-george-chang|Tsan-hung George Chang (張燦鍙教授)]]

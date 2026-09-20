@@ -114,6 +114,7 @@ On a phone, **use header search** (漢名 or English). This page is an A–Z lis
 [[organizations/global-taiwan-institute|Global Taiwan Institute (全球台灣研究中心)]]
 [[organizations/golden-eagle-institute|Golden Eagle Institute (金鷹學院)]]
 [[organizations/good-shepherd-taiwanese-presbyterian-church|Good Shepherd Taiwanese Presbyterian Church]]
+[[organizations/good-shine-kitchen|Good Shine Kitchen (故鄉台灣料理)]]
 [[organizations/greater-los-angeles-hotel-motel-association|Greater Los Angeles Hotel/Motel Association]]
 [[organizations/greater-sacramento-taiwanese-association-gsta|Greater Sacramento Taiwanese Association GSTA (大沙加偭度台灣同鄉會)]]
 [[organizations/greater-washington-taiwan-culture-center|Greater Washington Taiwan Culture Center (華府台灣文化中心)]]
