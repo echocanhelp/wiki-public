@@ -23,7 +23,7 @@ last_reviewed: 2026-09-20
 
 - Listed as a group member of the [[organizations/taiwan-center||Taiwan Center Foundation of the Greater Los Angeles]] (official group-members listing).
 - TAHS holds three community records of the alumni body: the 2014 record [[works/taiwaneseamericanhistory-org/us-kshs|旅美高雄中學校友會]] (2014-10-12), the 2015 Southern California record [[works/taiwaneseamericanhistory-org/sc-kh|南加州雄中雄女聯合校友會]] (2015-02-15), and the 2018 e-newsletter record [[works/taiwaneseamericanhistory-org/enewsletters-khsaa|KHSAA (雄中雄女聯合校友會)]] (2018-02-20).
-- Corpus memoir [[works/taiwaneseamericanhistory-org/ourjourneys283|ourjourneys283]] places a 高雄中學 alumnus (吳瑞信) among the LA hosts for the 全美會-arranged 1980s US speaking tour of 黃春明 — an alumni-network anecdote; individual chapter membership not asserted.
+- Corpus memoir [[works/taiwaneseamericanhistory-org/ourjourneys283|ourjourneys283]] places a 高雄中學 alumnus (吳瑞信) among the LA hosts for the blacklist-era US speaking tour of 黃春明 (arranged via 全美會) — an alumni-network anecdote; individual chapter membership not asserted.
 - HOLD: naming variant — Taiwan Center listing uses 北美洲高雄中學高雄女中聯合校友會; the 2014 TAHS record titles the body 旅美高雄中學校友會. Never auto-merged; both names recorded as attested.
 
 ## Source Notes
