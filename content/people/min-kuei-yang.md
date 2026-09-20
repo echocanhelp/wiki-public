@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-18
+last_reviewed: 2026-09-20
 ---
 # Min-Kuei Yang (楊閔貴)
 
@@ -60,3 +60,4 @@ Re-grep 楊閔貴|Min-Kuei Yang returned only the two already-cited catalog reco
 - Re-grep 2026-09-17 (slice 09170130-8): hit set unchanged — own #24/#1091 records + works index only, already wikilinked. SKIP-no-new-material; page saturated.
 - Re-grep 2026-09-17 (deepen-x slice 09170500-6): hit set unchanged (#24, #1091 + works index), both already wikilinked. SKIP-no-new-material; page saturated.
 - Re-grep 2026-09-18 (deepen-x slice 09180131-6): hit set unchanged (#24, #1091 + works index), both already wikilinked. SKIP-no-new-material; page saturated.
+- Re-grep 2026-09-20 (deepen-x slice 09181500-5): hit set unchanged (#24, #1091 + works index), both already wikilinked. SKIP-no-new-material; page saturated.

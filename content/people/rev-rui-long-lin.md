@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-18
+last_reviewed: 2026-09-20
 ---
 # Rev. Rui-Long Lin (林瑞隆牧師)
 
@@ -78,3 +78,6 @@ Tenth pass: identical hit set — own record [[works/taiwaneseamericanhistory-or
 
 ## Corpus re-grep (2026-09-18, deepen-x slice 09180131-4)
 Eleventh pass: identical hit set — own record [[works/taiwaneseamericanhistory-org/whos-who-1674-rui-long-lin|TAH #1674]] + works index only. SKIP-no-new-material; page saturated.
+
+## Corpus re-grep (2026-09-20, deepen-x slice 09181500-2)
+Twelfth pass: identical hit set — own record [[works/taiwaneseamericanhistory-org/whos-who-1674-rui-long-lin|TAH #1674]] + works index only. SKIP-no-new-material; page saturated.

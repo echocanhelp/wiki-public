@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-18
+last_reviewed: 2026-09-20
 ---
 # Prof. Tsan-Iang Chuang (莊燦陽教授)
 
@@ -60,3 +60,4 @@ Also recorded in TAH's own encyclopedia entry: [[works/taiwaneseamericanhistory-
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+Re-grep (slice 09181500-5, 2026-09-20): hit set unchanged (#152, #2153, index); #152 narrative fully absorbed above. SKIP-no-new-material.

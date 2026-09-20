@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-18
+last_reviewed: 2026-09-20
 ---
 # Jean J. Fang (黃靜枝)
 
@@ -57,3 +57,5 @@ Accomplishment
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 Corpus re-grep 2026-09-17 (slice 09170500-7): identical hit set — ourjourneys8-eng, ourjourneys58, ourjourneys60-eng, ourjourneys79, own #163/#827 records, works index — all already linked above. SKIP-no-new-material; page saturated.
+
+Corpus re-grep 2026-09-20 (slice 09181500-2): identical hit set — ourjourneys8-eng, ourjourneys58, ourjourneys60-eng, ourjourneys79, own #163/#827 records, Marilyn Fu interview, works index — all already linked above. SKIP-no-new-material; page saturated.
