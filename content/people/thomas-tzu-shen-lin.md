@@ -56,3 +56,5 @@ Research Associate
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+複核（deepen-x 2026-09-20）：corpus re-grep（林資深/Tzu-Shen Lin）命中集合與前次相同（ourjourneys12、ourjourneys307、mystories-114、mystories114-eng、176、115），全數已吸收並 wikilink，無新增社群材料。

@@ -188,21 +188,6 @@ Do not write her as a Taiwanese American biography. The U.S. nodes are **(1) TAH
 
 - 2011-10-30 — 「許丕龍與許景淳父女」傳陽雜誌30週年（abt. 2008）演唱會片段刊於 TJJ「台美人台加人」專欄（該分類頁 2024-05-27 存檔）—— [[articles/taiwanjustice-net/2024/20240527024815_root_98a26ee3b1ad82ac|TJJ 台美人台加人分類頁，2024-05-27 存檔]]；同一條目另見該分類第358頁快照 [[articles/taiwanjustice-net/2024/20240619181806_root_00354cf6ba9cf607|2024-06-19]] 及該分類第359頁快照 [[articles/taiwanjustice-net/2024/20240718233434_root_2fa1c26a7ca674e2|2024-07-18 快照]]（後者獨立佐证 Faith / Church 欄所引台福《傳揚》30週年父女同台獻詩一事）。
 
-## Related Pages
-
-- [[people/hsu-ling-yun||Hsu Ling-yun (許凌雲)]] — same Watong Hsu clan (靖樂 line); not proven direct descent
-- [[organizations/hsu-ling-yun-xiucai-memorial-hall||Hsu Ling-yun Xiucai Memorial Hall]]
-- [[organizations/presbyterian-church-in-taiwan||Presbyterian Church in Taiwan]] — household denomination; gospel-CD circulation (斗南)
-- [[people/kao-chun-ming||Rev. Kao Chun-ming (高俊明)]] — father’s post-sermon hymn with 蕭泰然 (not her office)
-- [[people/yang-jia-you||Charles Yang (楊嘉猷)]] — named with 許丕龍 in TAH #258 南加幫 list
-- [[people/chen-zhaonan||Chen Chao-nan (陳昭南)]] — same list
-- [[people/tsai-ing-wen||Tsai Ing-wen (蔡英文)]] — father’s later sister-in-law (sourced; not 許景淳’s own office)
-- [[organizations/taiwanese-american-historical-society||TAHS]] — TAH #196 / #258
-
-## From the record
-
-- 2011-10-30 — TJJ「台美人台加人」存檔列表頁載有影音上傳「許丕龍與許景淳父女_傳陽雜誌30週年(abt.2008)演唱會片段」，獨立佐证 Faith / Church 欄所引台福《傳揚》30週年父女同台獻詩一事（[[articles/taiwanjustice-net/2024/20240718233434_root_2fa1c26a7ca674e2|TJJ 存檔頁, 2024-07-18 快照]]）。
-
 ## Sources
 - [TAH #196 encyclopedia: 196. Christine Hsu許景淳, Singer/2015/05](https://taiwaneseamericanhistory.org/196-christine-hsu%e8%a8%b1%e6%99%af%e6%b7%b3-singer201505/)
 

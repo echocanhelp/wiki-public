@@ -52,3 +52,5 @@ last_reviewed: 2026-09-20
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+複核（deepen-x 2026-09-20）：corpus re-grep（王泰澤/Taitzer）命中集合與前次相同（150、ourjourneys293、my-stories-161/162、private-collections-95、our-journeys-359），全數已吸收並 wikilink，無新增社群材料。
