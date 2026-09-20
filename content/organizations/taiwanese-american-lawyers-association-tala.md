@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-18
+last_reviewed: 2026-09-20
 ---
 # Taiwanese American Lawyers Association TALA (台美律師協會)
 
@@ -23,7 +23,7 @@ The Taiwanese American Lawyers Association (TALA) is a community-service based l
 - Community-activity record: the 2019 TAH story [[works/taiwaneseamericanhistory-org/activities-of-taiwanese-american-lawyers-association|台美律師協會的活動]] documents TALA's community activities.
 - Taiwan Center Foundation: corpus records state that TALA lawyers drafted the charter for the tax-exempt Taiwan Center Foundation, which would hold sovereignty over the Taiwan Center and steer its development — positioning TALA as legal backbone for the Taiwan Center project.
 - Named members appearing in the TALA directory record [[works/taiwaneseamericanhistory-org/taiwanese-american-lawyers-association|Taiwanese American Lawyers Association]]: [[people/san-john-huang|San John Huang]], [[people/simon-lin|Simon Lin]].
-- Also profiled in the community journeys anthology [[works/taiwaneseamericanhistory-org/ourjourneys29-eng|Our Journeys 29 (EN)]].
+- Also profiled in the community journeys anthology [[works/taiwaneseamericanhistory-org/ourjourneys29-eng|Our Journeys 29 (EN)]] and its Chinese counterpart [[works/taiwaneseamericanhistory-org/ourjourneys29|Our Journeys 29 中文版]]; the directory/bibliographic record itself is [[works/taiwaneseamericanhistory-org/taiwanese-american-lawyers-association|1. Taiwanese American Lawyers Association (TALA) 台美律師協會]].
 - NOTE: a parallel page [[organizations/taiwanese-american-lawyers-association]] covers the same organization; HOLD: two directory entries not yet merged.
 
 ## Sources

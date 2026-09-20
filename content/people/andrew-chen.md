@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-20
 ---
 # Andrew Chen (陳威光博士)
 
@@ -33,6 +33,10 @@ last_reviewed: 2026-08-17
 ## Family
 
 _No filled family fields on the TAH profile._
+
+## Role in the Community
+- His own TAH corpus record: [[works/taiwaneseamericanhistory-org/whoswho946|946. Andrew Chen 陳威光 / 2016/04]] (Who's Who encyclopedia entry, 2016-04-24).
+- HOLD: a bare "Andrew Chen" appears in the signatory list of [[works/taiwaneseamerican-org/pew-research-center-taiwanese-american-statement|Response to Pew Research Reports Hiding Taiwanese Identity]] (2021) — common name, identity not confirmed against this person's NY/NASA profile; not absorbed.
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/andrew-chen/)
