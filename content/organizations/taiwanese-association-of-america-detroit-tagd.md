@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-18
+last_reviewed: 2026-09-20
 ---
 # Taiwanese Association Of America – Detroit TAGD (底特律台灣同鄉會)
 
@@ -24,6 +24,8 @@ The TAH story corpus holds primary records of Detroit-area Taiwanese community a
 - [[works/taiwaneseamericanhistory-org/taiwanese-association-of-america-detroit-chapter-activity|Taiwanese Association of America Detroit Chapter (底特律台灣同鄉會的活動)]] — a 2019 community record of Detroit chapter activity (published 2019-01-21), the corpus's direct documentation of TAGD.
 - [[works/taiwaneseamericanhistory-org/9291970-prof-peng-ming-min-arrived-at-detroit-mi|9/29/1970 — Prof. Peng Ming-Min arrived at Detroit, MI]] — photographic record of Peng Ming-min's 1970 arrival in Detroit, early Detroit Taiwanese community history (TAGD's involvement in this event is not stated in the record).
 - [[works/taiwaneseamericanhistory-org/taiwanese-chambers-of-commerce-of-greater-detroit|9. Taiwanese Chambers of Commerce of Greater Detroit 底特律台灣商會]] — companion Detroit-area Taiwanese organization record.
+- [[works/taiwaneseamericanhistory-org/enews-taiwanese-association-of-america-detroit-chapter|TAA/Detroit Chapter (底特律台灣同鄉會)]] — 2019-10-15 e-news bibliographic record of the chapter (published later than the January 2019 activity record above).
+- [[works/taiwaneseamericanhistory-org/ourjourneys33|33. 一家人做伙來打拼 (張炎憲, 2014/09)]] — band-A family memoir naming Detroit chapter leadership: 張月英 (Zhang family fifth daughter, Soochow/Fu-Jen philosophy grad, former teacher in Keelung) served as **vice president of 底特律台灣同鄉會 in 1997** after taking over (and eventually closing, 1997) the family business left by her husband 張伯寬; she then chaired 底特律婦女會 (1999), served as secretary of the North America Taiwanese Women's Association (2002), and as secretary-general of 全美台灣同鄉聯合會 (2005–2006). Primary memoir documentation of TAGD officer activity.
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-association-of-america-detroit-tagd/)

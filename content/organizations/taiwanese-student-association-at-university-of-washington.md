@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-18
+last_reviewed: 2026-09-20
 ---
 # Taiwanese Student Association at University of Washington
 
@@ -19,6 +19,7 @@ The Taiwanese Student Association at the University of Washington (TSAUW), also 
 
 ## Role in the Community
 
+- The TAHS story corpus holds a dedicated record of the organization itself — "Taiwanese Student Association at the University of Washington (TSA) 華大台灣學生會," published 2014-10-12 ([[works/taiwaneseamericanhistory-org/tsa-taiwanese-student-association-at-the-university-of-washington|TSA 華大台灣學生會 corpus record]]) — placing TSAUW in the documented roster of Taiwanese student groups across U.S. campuses (cf. the 1961 University of Kansas TSA, USC, OSU, and UW–Madison clubs in the same corpus).
 - Community memoir record: David Chen (David Lip-Ui Tan), a Seattle-raised Taiwanese American who majored in Civil Engineering at UW, credits the **University of Washington Taiwanese Student Association** — alongside the Taiwanese Association of Greater Seattle and Seattle Formosan Christian Church — as the organizations that shaped his Taiwanese identity and growth before he moved to Orange County. [[works/taiwaneseamerican-org/david-chen-taiwanese-handbook|David Chen — Taiwanese Handbook interview]]
 - Disambiguation: the corpus memoir by 劉兆民 describing a "UW Formosan Students Club" chartered in 1963 (周烒明; the 黃啟明 detention affair) concerns the **University of Wisconsin–Madison**, not UW Seattle — that 1963 Madison club is remembered as the first Taiwanese student club in the U.S., and its record should not be attributed to TSAUW. [[works/taiwaneseamericanhistory-org/ourjourneys205|Our Journeys 205 — 劉兆民 memoir]]
 

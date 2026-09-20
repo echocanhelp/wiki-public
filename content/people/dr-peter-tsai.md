@@ -40,6 +40,11 @@ _No filled family fields on the TAH profile._
 - 1995 Knoxville, Tenn. — profiled in the TAH first-famous series as the N95 inventor — [[works/taiwaneseamericanhistory-org/firstfamous-390|TAH #390]]
 - Community life recorded by his daughters: weekly group tennis in the Taiwanese 同鄉會, Sunday Mandarin school for his kids (he at one point served as principal of the teaching group), 7-day work weeks at his University of Tennessee research-center lab through retirement — [[works/taiwaneseamericanhistory-org/my-stories-728|My Stories #728]]
 - Came to the US in the 1980s for further education — consistent with the page's UT research faculty tenure (1984–2019); no conflicts found.
+- Press coverage preserved in our own clippings corpus shows his credit as the N95 inventor stayed a community story for years after 2020: 「發明N95口罩 蔡秉燚寧救1億人不要1億美元」 (台灣頭條, preserved in [[articles/taiwanjustice-net/2025/20250210093207_category_taiwan_page_1589_4a4a310a3a841353|TJJ 台灣頭條 feed 2025-02]]), the retracing piece 「N95口罩捍衛醫護生命，不為人知的發明者竟是台灣人」 — which reproduces the 不織布同業公會's 2020-04-06 自由時報 article (記者黃佩君) introducing him as 「優秀而低調的台灣工程師」 — [[articles/taiwanjustice-net/2025/20250615032501_n95口罩捍衛醫護生命_不為人知的發明者竟是台灣_e5d7d0035b851da4|TJJ 2025-06]], and 「呼籲戴口罩！N95之父認證『類台式乾蒸法』消毒有效」 crediting his mask-reuse disinfection method: [[articles/taiwanjustice-net/2025/20250618181403_呼籲戴口罩_n95之父認證-類台式_乾蒸法_消毒有_d1e4a98f0cfad178|TJJ 2025-06]].
+
+### Timeline
+- 2020-04-13 — TAH encyclopedia record #2252 and daughters' memoir My Stories #728 deposited.
+- 2025 — still cited in Taiwanese-community press (TJJ clippings above) as the N95's inventor and a source of mask-disinfection guidance.
 
 ## Sources
 - [TAH #2252 encyclopedia: 2252. Dr. Peter Tsai 蔡秉燚博士](https://taiwaneseamericanhistory.org/whos-who-2252-peter-tsai/)
