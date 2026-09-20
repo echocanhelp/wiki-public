@@ -41,6 +41,7 @@ Accomplishment
 - **《好國好民》 Dear Taiwan (dir. & prod., 81 min):** Latest documentary on the rising Taiwanese identity of the middle generation, supported by the 全美台灣同鄉會 and the Washington Taiwanese Cultural Center; premiered in Taipei, Tainan, Boston, and North Carolina, then a US touring screening-tour (Chicago, Rhode Island, Cincinnati, Atlanta, NY, San Diego, Orange County, San Jose). US coordinators: 黃泰郎, 周明宏, 王振源 — see [[articles/taiwanjustice-net/2024/20240719002430_root_1f001897255f71a7|好國好民 US screening announcement (2024)]] and [[articles/taiwanjustice-net/2024/20240718223218_root_b5e568ec43e787f1|《好國好民》美國巡迴放映座談會]].
 - Consistent with her TAH Who's Who entry (Taiwan Production Coordinator for *Tug of War: The Story of Taiwan*, 1996-97); profile recorded in [[works/taiwaneseamericanhistory-org/whos-who-1835-li-gui-chen|1835. Li Gui Chen 陳麗貴]].
 - Community leadership roles (per TAH profile): director of 國家電影及視聽文化中心 and 海洋台灣文教基金會, lecturer at 世新大學廣播電視學系 and 實踐大學, director of 台灣女性影像學會, and convener (召集人) of 核四公投促進會.
+- Corpus re-grep 2026-09-20: hit set unchanged (whos-who-1835, the 月舞玫瑰 screening report, the two 《好國好民》 tour notices) — all linked above; no memoir or club records beyond the film-credits material, nothing further absorbable.
 
 ## Sources
 - [TAH #1835 encyclopedia: 1835. Li Gui Chen 陳麗貴](https://taiwaneseamericanhistory.org/whos-who-1835-li-gui-chen/)

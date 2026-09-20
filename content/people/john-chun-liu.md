@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-19
+last_reviewed: 2026-09-20
 ---
 # John Chun Liu (劉醇逸)
 
@@ -46,6 +46,7 @@ Accomplishment
 - **First Taiwanese American NYC Comptroller (2010–2013)**; NYC Council Member 2002–2009; later NY State Senator (as covered in 2022 reporting).
 - **Directory record:** his own TAH Who's Who entry exists in-corpus at [[works/taiwaneseamericanhistory-org/whos-who-50-john-chun-liu|50. John Chun Liu 劉醇逸]] and his New York profile at [[works/taiwaneseamericanhistory-org/john-c-liu|2. John C. Liu 劉醇逸 in New York]].
 - Corpus re-grep 2026-09-19: hit set unchanged (ota-148, ourjourneys5-9-11-donations-2002, john-c-liu, whos-who-50, index, 2022 taiwanjustice.net article) — all coverage already absorbed above; no new community facts.
+- Corpus re-grep 2026-09-20: two new raw hits are name collisions, not this person — [[works/taiwaneseamericanhistory-org/whoswho1458|1458. John Liu 劉宗憲]] is a different John Liu, and the "John, Jerry Liu" attendees in [[works/taiwaneseamericanhistory-org/ourjourneys265|265. 2011年美西夏令會的回顧]] are unlinked first names. No absorbable facts.
 
 ## Sources
 - [TAH #148 encyclopedia: 148. Chun John Liu 劉醇逸](https://taiwaneseamericanhistory.org/ota-148/)
