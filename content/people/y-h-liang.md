@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-20
 ---
 # Y. H. Liang (梁琰華)
 
@@ -32,7 +32,7 @@ last_reviewed: 2026-08-17
 
 ## Family
 
-- **Husband:** James J.y. Hsu
+- **Husband:** [[people/james-j-y-hsu|James J. Y. Hsu 許正餘]]
 
 
 ## Sources
@@ -42,3 +42,4 @@ last_reviewed: 2026-08-17
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- [[works/taiwaneseamericanhistory-org/whoswho1471|1471. Y. H. Liang 梁琰華 / 2017/01]] — TAH 百科紀錄

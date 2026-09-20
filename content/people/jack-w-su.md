@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-20
 ---
 # Jack W. Su (蘇文杰)
 
@@ -40,3 +40,4 @@ last_reviewed: 2026-08-17
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- [[works/taiwaneseamericanhistory-org/330-jack-w-su-e8-98-87-e6-96-87-e6-9d-b0|330. Jack W. Su 蘇文杰 / 2015/03]] — TAH 百科紀錄
