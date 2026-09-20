@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-19
+last_reviewed: 2026-09-20
 ---
 # Chih Y Kuo (郭欽義教授)
 
@@ -51,3 +51,6 @@ Ph.D. Hydrology, Hydraulics and Water Resources Engineering
 
 ## Corpus check (deepen-x 09170400-23, 2026-09-19)
 SKIP — only corpus hit is his own bibliographic record [[works/taiwaneseamericanhistory-org/whoswho1532|TAH #1532 Chih Y Kuo /2017-02]] (record only, no full text in vault); no memoir or community-record mentions in works/ or articles/ — nothing absorbable, no content invented.
+
+## Corpus check (deepen-x 09190400-20, 2026-09-20)
+SKIP (re-confirmed) — fresh grep of works/ + articles/ returns only his own bibliographic record [[works/taiwaneseamericanhistory-org/whoswho1532|TAH #1532 Chih Y Kuo /2017-02]] (record only, no full text in vault); no memoir or community-record mentions — nothing absorbable.
