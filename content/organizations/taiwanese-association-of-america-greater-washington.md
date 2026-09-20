@@ -24,6 +24,10 @@ The Taiwanese Association of America Greater Washington Chapter (TAAGWC, 華府�
 - 2008 — Chapter council (理事會) recorded in 華府台灣同鄉會歷屆會長芳名錄 in [[works/taiwaneseamericanhistory-org/ourjourneys-138|Our Journeys 138]]: 會長 Kwei-Yang Chang 張貴洋, 秘書 Janice Wu 吳玉琴, 財務 Ted Chang 張懷德, 鄉訊 Stephen Hung 洪啟峰.
 - 2015 — Chapter record of community advocacy: 華府亞太裔傳統週 Asian-Pacific American Heritage Week, in [[works/taiwaneseamericanhistory-org/8-asian-pacific-american-heritage-week-washington-d-c|8. Asian-Pacific American Heritage Week, Washington, D.C.]] (HOLD: author "潘昭治" vs the 1973 chapter president of the same name — likely the same person, not merged).
 
+## Greater Washington community context
+- Corpus records for sibling Greater Washington Taiwanese organizations exist but are distinct bodies, not this chapter: 華府台灣文化中心 (Taiwan Culture Center of Greater Washington D.C., founded by Tai Huang — oral history [[works/taiwaneseamericanhistory-org/video-188|TAH video #188]]) ran the Taiwan Night Concert series in Rockville, MD 2007–2018 ([[works/taiwaneseamericanhistory-org/concerts5|concerts #5]]) and the 2017 Award Ceremony / Music Concert ([[works/taiwaneseamericanhistory-org/ourjourneys303|Our Journeys 303]]); FAPA 大華盛頓分會 is a separate advocacy chapter ([[works/taiwaneseamericanhistory-org/20-greate-washington-dc-chapter-chapter-fapa|20. Greater Washington DC Chapter / FAPA]]).
+- Re-verified 2026-09-20: fresh grep for 華府台灣同鄉會/Greater Washington returns only the already-absorbed 歷屆會長芳名錄 in Our Journeys 138 plus the sibling-org records above — no new chapter-level facts absorbable; page saturated.
+
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-association-of-america-greater-washington/)
 

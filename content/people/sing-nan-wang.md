@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-19
+last_reviewed: 2026-09-20
 ---
 # Sing-Nan Wang (王幸男)
 
@@ -34,6 +34,7 @@ last_reviewed: 2026-09-19
 - 海外黑名單人士返鄉安排者：陳榮芳的回憶錄記載，多位黑名單人士自美返鄉的香港接應、船運安排，全靠「王幸男兄和他的好友鄭先生」在綠島監獄時期結下的信任網絡（[[works/taiwaneseamericanhistory-org/ourjourneys315|315. 我要回家－黑名單人士的返鄉之行, 陳榮芳, 2017/10]]）。
 - 台美社運講者：曾於明州台灣同鄉會（TAA Minnesota）活動演講《台灣政情》（[[works/taiwaneseamericanhistory-org/ourjourneys123|123. 明州台美人百年大事, 曾啟明]]）；當選台南縣立法委員的紀錄亦見該文。
 - 台灣文化在海外推廣的支持者：夫人陳美霞與他從台灣為明州台灣文化展收集猴子燈籠等民俗展示品（[[works/taiwaneseamericanhistory-org/mystories407|407. 堅韌的愛－王幸男夫人, 陳宏文, 2016/02]]）。
+- 明州十二生肖文化展的台灣後援：該展中央大油畫所用的十二生肖圓形木刻，是他兒子Leon十幾年前為台灣文化展覽所做；桌上展示的猴子燈籠等亦由在台灣的王幸男、美霞夫婦代為收集（[[works/taiwaneseamericanhistory-org/ourjourneys223|223. 明州台灣文化展, 陳秀芳]]）。
 - HOLD: conflict — press-kit Who's Who 列 Core roles 為 entrepreneur，但社群回憶材料顯示其公開身影以黑名單運動、立委及文化支持為主；保留兩說不自動合併。
 
 ## Family
