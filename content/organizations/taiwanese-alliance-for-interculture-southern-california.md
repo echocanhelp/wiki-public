@@ -26,8 +26,10 @@ Yang Jia-you essay: [海外台灣人民主運動史話(二)南加州台灣協志
 
 ## Role in the Community
 
-Corpus-linked records (absorbed 2026-09-18):
+Corpus-linked records (absorbed 2026-09-20):
 
+- The TAH story corpus carries a dedicated record for the society itself: [[works/taiwaneseamericanhistory-org/taiwanese-alliance-for-interculture-s-california|Taiwanese Alliance for Inter culture (S.California) 台灣協志社(南加州)]] (catalogued 2014-10-12, band B, bibliographic record only) — confirming the society is catalogued as its own entity, distinct from the Bay-Area 協志會 records filed under this page below.
+- 黃武東's survey of the movement ([[works/taiwaneseamericanhistory-org/ourjourneys266|266. 台灣人在北美洲]], 2016-11, band A) lists 台灣協志社 as one of the distinct 同鄉社团 categories in North America as of end-1982 — i.e. the society (or its parent network) was already established in the early-1980s corpus census, consistent with the page's 1980s– era framing.
 - 2015-08-24 — record of the 南加州協志杯壘球賽 ([[works/taiwaneseamericanhistory-org/17-e5-8d-97-e5-8a-a0-e5-b7-9e-e5-8d-94-e5-bf-97-e6-9d-af-e5-a3-98-e7-90-83-e8-b3|17. 南加州協志杯壘球賽]]) shows the society running its own softball cup tournament in Southern California — community/聯誼 activity still active in the 2010s.
 - The TAHS story corpus also files two records under this page that read as Bay-Area material: 番薯-台灣協志會會刊 ([[works/taiwaneseamericanhistory-org/journals-of-taiwanese-alliance-for-interculture|Journals of Taiwanese Alliance for Interculture]], 2017-03-10) and the 獎學金 record ([[works/taiwaneseamericanhistory-org/taiwanese-alliance-for-interculture-scholarship|58. 灣區協志會獎學金]], 2015-10-13), whose own title says 灣區. HOLD: conflict — corpus subject-tagging vs geography; the 1973 北加州「台灣協志會」(TAI) is a distinct body.
 - Background for the distinction, from 何義麟's study ([[works/taiwaneseamericanhistory-org/our-journeys-357|357. 舊金山灣區臺灣人的社團活動與家國意識之形成]], 2020-08-25, band A): TAI was organised in 1973 out of Palo Alto reading groups, issued the journal 《蕃薯》, formed the 蓬萊歌劇團, and after the 高雄事件 was blacklisted by the ROC government as a 叛亂團體 — i.e. the press-kit founding narrative for the *northern* alliance, kept here only as the "Not:" anchor.
