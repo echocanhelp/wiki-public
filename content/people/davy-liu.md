@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-18
+last_reviewed: 2026-09-20
 ---
 # Davy Liu (劉大偉)
 
@@ -37,7 +37,7 @@ last_reviewed: 2026-09-18
 _No filled family fields on the TAH profile._
 
 ## Role in the Community
-- Corpus record: his TAH Who's Who encyclopedia entry is held at [[works/taiwaneseamericanhistory-org/whoswho1523|1523. Davy Liu 劉大偉 / 2017-02]] (published 2017-02-22). No memoir or community-activity mentions beyond the press-kit entry were found in the corpus.
+- Corpus record: his TAH Who's Who encyclopedia entry is held at [[works/taiwaneseamericanhistory-org/whoswho1523|1523. Davy Liu 劉大偉 / 2017-02]] (published 2017-02-22). SKIP-with-reason (re-verified 2026-09-20): corpus grep over works/ and articles/ found only this own-record entry; no memoir or community-activity mentions. Nothing absorbable; no biography invented.
 - HOLD: snapshot era lists 1968 (birth year) with no corroborating corpus source; not merged into a timeline date.
 
 ## Sources
