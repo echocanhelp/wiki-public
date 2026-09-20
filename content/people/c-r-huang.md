@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-18
+last_reviewed: 2026-09-20
 ---
 # C. R. Huang (黃朝榮)
 
@@ -34,6 +34,9 @@ last_reviewed: 2026-09-18
 ## Family
 
 _No filled family fields on the TAH profile._
+
+## Role in the Community
+SKIP-with-reason (deepen-x slice 09171500-8, re-verified 2026-09-20 slice 09181500-21): corpus grep 黃朝榮 / "C. R. Huang" across content/works + content/articles hit only his own TAH record [[works/taiwaneseamericanhistory-org/whoswho1417|1417. C. R. Huang 黃朝榮 / 2016/12]] and its index row — no memoir/community material to absorb.
 
 ## Sources
 - [TAH #1417 encyclopedia: 1417. C. R. Huang 黃朝榮 / 2016/12](https://taiwaneseamericanhistory.org/whoswho1417/)

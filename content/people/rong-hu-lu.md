@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-18
+last_reviewed: 2026-09-20
 ---
 # Rong-hu Lu (盧榮富)
 
@@ -36,7 +36,7 @@ _No filled family fields on the TAH profile._
 
 ## Role in the Community
 
-SKIP-with-reason (deepen-x slice 09171400-8, 2026-09-18): corpus grep over `works/` + `articles/` for 盧榮富 / Rong-hu Lu found only this person's own TAH Who's Who mirror ([[works/taiwaneseamericanhistory-org/whoswho1316|1316. Rong-hu Lu 盧榮富 / 2016/10]]) and its index row — no independent memoir/community mentions to absorb. Nothing invented; biography stays at press-kit facts above.
+SKIP-with-reason (deepen-x slice 09171400-8, 2026-09-18): corpus grep over `works/` + `articles/` for 盧榮富 / Rong-hu Lu found only this person's own TAH Who's Who mirror ([[works/taiwaneseamericanhistory-org/whoswho1316|1316. Rong-hu Lu 盧榮富 / 2016/10]]) and its index row — no independent memoir/community mentions to absorb. Nothing invented; biography stays at press-kit facts above. Re-verified 2026-09-20 (deepen-x slice 09181500-21): hit set unchanged (own TAH record + index row only); SKIP-with-reason stands.
 
 ## Sources
 - [TAH #1316 encyclopedia: 1316. Rong-hu Lu 盧榮富 / 2016/10](https://taiwaneseamericanhistory.org/whoswho1316/)
