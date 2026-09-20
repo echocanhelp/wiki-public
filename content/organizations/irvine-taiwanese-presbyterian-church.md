@@ -11,7 +11,7 @@ tags:
   - Long-term Care
   - Senior Education
 verification_status: published
-last_reviewed: 2026-07-15
+last_reviewed: 2026-09-20
 ---
 # Irvine Taiwanese Presbyterian Church (爾灣台灣基督長老教會 / ITPC)
 
