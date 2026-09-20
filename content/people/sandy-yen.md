@@ -11,6 +11,11 @@ last_reviewed: 2026-09-20
 ---
 # Sandy Yen (莊和子)
 
+## Role in the Community
+
+- Corpus record (2026-09-20): 1981年與夫婿顏永財在矽谷創辦 Micro Lithography Inc.，製造 pellicle（光罩護膜），後為該產品全球最大製造商；夫婦「很熱心支持臺灣文化及社區活動」，莊和子為現任僑務委員（原載「橋務委員」，疑排版誤字）。見 [[works/taiwaneseamericanhistory-org/ourjourneys19|Our Journeys 19（矽谷篇）]]、[[works/taiwaneseamericanhistory-org/ourjourneys236|Our Journeys 236（八十年代矽谷創業夫婦）]]。
+- 2022年 TAHS「我的故事」專欄專文記述夫婦二人创业與社區參與：[[works/taiwaneseamericanhistory-org/my-stories-852|矽谷之夢（上）]]、[[works/taiwaneseamericanhistory-org/my-stories-853|矽谷之夢（下）]]。
+
 ## Identity Snapshot
 - **English:** Sandy Yen
 - **Chinese:** 莊和子

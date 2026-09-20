@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-19
+last_reviewed: 2026-09-20
 ---
 # Christopher Lin (林楷夫)
 
@@ -34,7 +34,7 @@ last_reviewed: 2026-09-19
 
 ## Family
 
-_No filled family fields on the TAH profile._
+- **Father:** [[people/rev-rui-long-lin|Rev. Rui-Long Lin 林瑞隆牧師]] — his community record lists sons 林楷夫 and 林毅夫 ([[works/taiwaneseamericanhistory-org/whoswho1436|TAH #1436]] cross-checked against [[works/taiwaneseamericanhistory-org/whoswho1674|TAH #1674 林瑞隆牧師]]). HOLD: relationship inferred from the father's Who's Who family listing; the father's page carries no English name to confirm identity against Christopher Lin's profile.
 
 ## Sources
 - [TAH #1436 encyclopedia: 1436. Christopher Lin 林楷夫 / 2016/12](https://taiwaneseamericanhistory.org/whoswho1436/)

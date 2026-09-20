@@ -4,7 +4,7 @@ type: person
 tags:
   - 
 verification_status: pending
-last_reviewed: 2026-07-08
+last_reviewed: 2026-09-20
 ---
 # Elder Wang Xinxin (王信心)
 
@@ -25,6 +25,7 @@ Elder Wang appears in GSTPC bulletin records and is recognized as a community el
 ## Source Notes and Confidence
 - Needs verification: expanded biographical details
 - Moderate confidence: named in bulletin records
+- 2026-09-20 SKIP (deepen-x slice 09180500-32): no corpus hits in content/works or content/articles for 王信心 / Wang Xinxin — nothing absorbable beyond existing GSTPC bulletin attribution.
 
 ## Name Variants / Disambiguation
 - Chinese: 王信心
