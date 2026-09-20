@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-18
+last_reviewed: 2026-09-20
 ---
 # Joseph Y.T. Hung
 
@@ -41,6 +41,9 @@ Accomplishment
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/joseph-y-t-hung/)
+
+## Work log
+- SKIP (deepen-x slice 09181300-26, 2026-09-20): full-name scan matches only own record [[works/taiwaneseamericanhistory-org/whoswho919|TAH #919]] (bibliographic only). Broader 洪-surname corpus hits are different people — 洪文鳳 ([[works/taiwaneseamericanhistory-org/317-rizia-h-lin-e6-b4-aa-e6-96-87-e9-b3-b3-conductor-201511|TAH #317]]), 洪秀芬 ([[works/taiwaneseamericanhistory-org/104-e6-b4-aa-e7-a7-80-e8-8a-ac-judy-jeng|TAH #104]]), 洪莉玲 ([[works/taiwaneseamericanhistory-org/406-e6-b4-aa-e8-8e-82-e7-8e-b2-201505|TAH #406]]) — not this Joseph Hung; nothing absorbable.
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

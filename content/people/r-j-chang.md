@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-18
+last_reviewed: 2026-09-20
 ---
 # R. J. Chang (張榮吉)
 
@@ -36,7 +36,7 @@ last_reviewed: 2026-09-18
 _No filled family fields on the TAH profile._
 
 ## Role in the Community
-- 个人资料存档于 TAHS 故事语料库；语料库目前无其他署名纪录可吸收，待后续深度素材：[[works/taiwaneseamericanhistory-org/whoswho1650|TAH #1650（2017/05）]]
+- 个人资料存档于 TAHS 故事语料库；语料库目前无其他署名纪录可吸收（deepen-x 09181300-27 于 2026-09-20 复查 works/articles：除本身纪录外零命中），待后续深度素材：[[works/taiwaneseamericanhistory-org/whoswho1650|TAH #1650（2017/05）]]
 
 ## Sources
 - [TAH #1650 encyclopedia: 1650. R. J. Chang 張榮吉 / 05/2017](https://taiwaneseamericanhistory.org/whoswho1650/)

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-18
+last_reviewed: 2026-09-20
 ---
 # Theresa L. Chung (鍾林瑛娟)
 
@@ -35,6 +35,7 @@ last_reviewed: 2026-09-18
 _No filled family fields on the TAH profile._
 
 ## Work log
+- SKIP (deepen-x slice 09181300-26, 2026-09-20): corpus rescan of content/works + content/articles — hits are only the works index and her own press-kit record [[works/taiwaneseamericanhistory-org/whoswho1349|TAH #1349]]; no memoir/community material to absorb.
 - SKIP (deepen-x slice 09172104-4, 2026-09-18): corpus grep of content/works + content/articles returned only her own TAH press-kit entry ([[works/taiwaneseamericanhistory-org/whoswho1349|TAH #1349]]) and the works index — no memoir/community material to absorb; not padded.
 
 ## Sources
