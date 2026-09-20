@@ -25,7 +25,8 @@ The Taiwan Student Association (TWSA) at the University of Michigan is an underg
 - Michigan Taiwanese physicians were part of the founding network of 北美洲台灣人醫師協會 (e.g. 大紐約地區的楊次雄、密西根的黃昭) — [[works/taiwaneseamericanhistory-org/ourjourneys74|Our Journeys #74, 周烒明, 2014-12]].
 - Regional adult community body in the same area: 密西根台灣人協進會 — [[works/taiwaneseamericanhistory-org/michigan-ta|密西根台灣人協進會]].
 - HOLD: whether today's TWSA (self-described 不涉政治) is a continuation of, or distinct from, the historical Formosan Club / 台灣同學會 on the same campus is unresolved in the corpus; no dates merged.
-- SKIP note 2026-09-18: re-grep (TWSA / Taiwan Student Association / 密西根大學台灣同鄉會 / 台風眼 / 密西根台灣人協進會) surfaced no new Michigan-specific hits beyond the records already linked above (other Our Journeys matches are Houston/Chicago 同鄉會 histories) — page saturated.
+- Deepen pass 2026-09-20: the movement-era campus body 密西根台灣同學會 was still contributing to the record in the 2010s — 224. 斷情書 (2016-05-12) is bylined 「密西根台灣同學會會員」, an A-band community-history submission — [[works/taiwaneseamericanhistory-org/ourjourneys224|224. 斷情書 / 密西根台灣同學會會員 / 2016/05]]. The 台風眼 community newspaper of the Ann Arbor/Detroit/Lansing TAA chapters is held as its own work record — [[works/taiwaneseamericanhistory-org/taiwan-monitor|Taiwan Monitor 台風眼 (TAA Ann Arbor, Detroit, Lansing)]].
+- SKIP note 2026-09-20: re-grep (TWSA / 密西根大學台灣同鄉會 / 台風眼 / Formosan Club / 台灣同學會+密西根) surfaced no further Michigan student-association facts beyond those linked above — page saturated.
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwan-student-association-at-the-university-of-michigan/)
