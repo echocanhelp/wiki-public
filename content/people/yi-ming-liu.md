@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-19
+last_reviewed: 2026-09-20
 ---
 # Yi-Ming Liu (劉怡明)
 
@@ -35,6 +35,9 @@ Documented across the TAH Foundation story corpus as a community memoirist and l
 - Profiled in [[works/taiwaneseamericanhistory-org/whos-yi-ming-liu|TAH #1778 Yi-Ming Liu 劉怡明 (2017/07)]].
 - Recollected being the first soccer player on the University of Oregon team (1964) in [[works/taiwaneseamericanhistory-org/ff342|TAH #342 (2017/10)]], consistent with his M.S. at the University of Oregon.
 - First-person escape memoir of the 9/11 World Trade Center attack — corroborating New York residence alongside his Empire Blue Cross Blue Shield employment — in [[works/taiwaneseamericanhistory-org/mystories331|TAH #331 911世貿大樓浩劫逃生記 (2015/09)]].
+- Led the New York team to the North American Formosa Cup softball tournament in Toronto (1974) as 領隊 (team manager), recalled in [[works/taiwaneseamericanhistory-org/349-our-journeys|TAH #349 Our Journeys (Formosa Cup Toronto 1974)]] — flying from New York to play, the early movement's sports network.
+- Recollected a 1960s-era night spent in a Michigan police station in [[works/taiwaneseamericanhistory-org/mystories572|TAH #572 五十年前我在美國密州一警察局過了一夜 (2017/09)]].
+- Wrote about being told 「東方佬，滾回你的國家」 in [[works/taiwaneseamericanhistory-org/ourjourneys289|TAH #289 我被嗆"東方佬，滾回你的國家" (2017/05)]] — a first-hand account of anti-Asian racism experienced by the Taiwanese American community.
 - His personal collections were featured in [[works/taiwaneseamericanhistory-org/collection-of-mr-yi-ming-liu|TAH #43 劉怡明先生的收藏 (2017/09)]].
 - Contributed a faith column, 線上查經, in [[works/taiwaneseamericanhistory-org/ourjourneys-364|TAH #364 (2020/12)]].
 

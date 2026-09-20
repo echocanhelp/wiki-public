@@ -26,6 +26,7 @@ The Georgia Tech campus appears in the Taiwanese American movement record as a v
 
 - 2012-02-16 — the ITASA (Intercollegiate Taiwanese Student Association) East Coast Conference was held at Georgia Tech in Atlanta: [[works/taiwaneseamerican-org/itasa-east-coast-conference-at-georgia-tech-in-atlanta||ITASA East Coast Conference at Georgia Tech]].
 - 2014-04-11 — a Taiwanese Night Market was held at Georgia Tech: [[works/taiwaneseamerican-org/taiwanese-night-market-at-georgia-tech||Taiwanese Night Market at Georgia Tech]].
+- The campus also hosted a solo art exhibition by painter 黃根深 Huang Gen-Shen, listed among his twenty-odd show venues: [[works/taiwaneseamericanhistory-org/ourjourneys256||寫在畫展之前 (黃根深, 2016)]].
 
 HOLD: the corpus records do not name GT TASA as organizer of these events; the link between the club and these specific events is unconfirmed and not merged.
 
