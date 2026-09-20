@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-20
 ---
 # Emory TSA
 
@@ -17,6 +17,8 @@ last_reviewed: 2026-08-17
 - **Core roles:** Community organization (TAH directory)
 
 Emory TSA (台灣學生會, Taiwanese Student Association) is a student organization at Emory University’s Atlanta campus. The organization maintains an active Instagram presence under the handle @emory.tsa, where it identifies itself as “Emory TSA 台灣學生會 .” No dedicated website, Facebook page, or Linktree was located through available first-party sources. No founding year could be confirmed.
+
+No corpus material found (grep for 'Emory TSA' / '@emory.tsa' in works/ and articles/ returned zero hits) — SKIP deepen with reason: TAH directory record is the sole source; no founding year or activity detail absorbable.
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/emory-tsa/)

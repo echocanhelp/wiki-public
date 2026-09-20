@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-20
 ---
 # Abby Hong
 
@@ -33,6 +33,9 @@ Accomplishment
 ## Family
 
 _No filled family fields on the TAH profile._
+
+## Role in the Community
+- Corpus records are TAH Who's Who bibliographic entries only: [[works/taiwaneseamericanhistory-org/whos-who-2048-abby-hong|2048. Abby Hong]] (2018-02-28) and [[works/taiwaneseamericanhistory-org/ff359|359. Abby Hong / Daily Pennsylvania player of the week – Distance Queen / 02/2018]]. No memoir or community-activity material in the corpus beyond these — SKIP deepen with reason: no primary community material found in works/articles.
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/abby-hong/)
