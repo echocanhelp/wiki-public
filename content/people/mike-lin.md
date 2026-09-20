@@ -38,6 +38,10 @@ last_reviewed: 2026-09-20
 - **Son:** Paul林寶慶
 
 
+## Role in the Community
+- Named among the founding members of the Midwest Formosan Christian Foundation (MFCF, circa 1990 photo caption: Jim Chen, Sue Chen, Carol Cho, Bill Cho, David Lin, Mei Lu, Pamela Lin, Jiin Lin, Mike Lin) — the Chicago organization that rebranded as the Taiwanese American Foundation (TAF) in 1980; see [[works/taiwaneseamericanhistory-org/ourjourneys33-eng|Our Journeys #33 (TAF history, EN)]] and its Chinese counterpart [[works/taiwaneseamericanhistory-org/ourjourneys33-2|Our Journeys #33]]. HOLD: MFCF founding-member photo captioned "circa 1990" vs. the same record's narrative that MFCF became TAF in 1980 — caption date may refer to when the photo of founding members was taken, not the founding itself.
+- Profiled in the TAHS/TAH story corpus: [[works/taiwaneseamericanhistory-org/mystories206|206. TAF的傳承故事(2)─林健華的故事 / 楊遠薰 / 2015/02]] and his TAH encyclopedia entry [[works/taiwaneseamericanhistory-org/whoswho1134|1134. Mike Lin 林健華 / 2016/07]].
+
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/mike-lin/)
 
