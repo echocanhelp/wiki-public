@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-20
 ---
 # Michael K. Yu (游貴森醫師)
 
@@ -37,5 +37,6 @@ _No filled family fields on the TAH profile._
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/michael-k-yu/)
 
 ## Related Pages
+- [[works/taiwaneseamericanhistory-org/whoswho1329|1329. Michael K. Yu 游貴森 / 2016/10]]
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

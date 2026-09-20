@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-20
 ---
 # Pi-Pai Wang (黃碧白)
 
@@ -32,5 +32,6 @@ Pi-Pai Wang (黃碧白) is listed in the TAH Foundation Who’s Who Taiwanese Am
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/pi-pai-wang/)
 
 ## Related Pages
+- [[works/taiwaneseamericanhistory-org/whoswho2106|2106. Pi-Pai Wang 黃碧白 / 05/2018]]
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
