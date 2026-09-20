@@ -47,6 +47,7 @@ last_reviewed: 2026-09-18
 - 1967 年 12 月 9 日出版《全美台灣同鄉通訊錄》，為第一本台美出版的漢文书（[[works/taiwaneseamericanhistory-org/ff184|TAH 記錄 184]]）
 - 其與張郁彬的故事由孫女 Catelyn Spielman 描繪，收入《Surging Tides: A Journey for Independence》（[[works/taiwaneseamericanhistory-org/publications-1354|TAH publications 1354]]）
 - TAH Who's Who 記錄（2016/05）：[[works/taiwaneseamericanhistory-org/whos-michael-s-k-chen|Whos Michael S. K. Chen]]；press-kit 記載的 Shinkong 副總裁、Air Products、NATEA Austin 會長等經歷未見於回忆錄，維持 pending
+- Corpus re-grep（陳希寬 / Michael S. K. Chen，2026-09-20，slice 09181500-16）：新增命中 [[works/taiwaneseamericanhistory-org/our-journeys-370|Our Journeys 370：FAPA TX-C 中德州分會記事 2018-（Pearl Wu）]]，其中 2019-02-20 Austin 草根外交一行記「Mike Chen」與 Eddie Chuang、Pearl Wu 同赴 Senator Cornyn 事務所遞連署信。HOLD: 此人是否即陳希寬（時任 NATEA Austin 會長，亦居 Austin）無法自文本確認，未併入。其餘命中均為已吸收之記錄。
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/michael-s-k-chen/)
