@@ -6,7 +6,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-18
+last_reviewed: 2026-09-20
 ---
 # 毛清芬
 
@@ -50,6 +50,7 @@ last_reviewed: 2026-09-18
 - 2002 年與夫羅福全同盧主義夫婦合影於東京，影像刊於盧主義回憶錄《自覺與認同——1950〜1990年海外台灣人運動專輯》([[works/taiwaneseamericanhistory-org/ourjourneys126|126. 台獨聯盟UFI / 盧主義 / 2015-04]])
 
 HOLD: Employment 表載 台灣公論報 財務 1981-87；回憶錄指帳務由毛清芬管理、公論報 1981 年 7 月開始運作，起訖细节以表內年份為準但未經第二來源核實。
+- Re-verified 2026-09-20: corpus re-grep (works/articles) returns only the records already linked/absorbed above (ourjourneys49 / 283 / 292 / 126、#329、黑名單口述、TAH #619) — no new mention; SKIP-with-reason (saturated).
 
 ## Sources
 - [TAH #619 encyclopedia: 619. 毛清芬 / 2015/09](https://taiwaneseamericanhistory.org/618-%e6%af%9b%e6%b8%85%e8%8a%ac-201509/)
