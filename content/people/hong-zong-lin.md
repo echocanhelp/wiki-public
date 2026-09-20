@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-18
+last_reviewed: 2026-09-20
 ---
 # Hong Zong Lin (林宏容)
 
@@ -40,6 +40,9 @@ _No filled family fields on the TAH profile._
 
 - 2018-07-20 — Signed as 林宏容(土木) among the ~170 台大校友 co-signatories of the open letter protesting 南加州台大校友會 inviting 管中閔 to speak at its 2018 annual meeting amid the disputed 校長遴選 case ([[articles/taiwanjustice-net/2018/20180721091303_2018_07_20_抗議-南加州台大校友會邀管中閔來年會做專題演講_a428dcebbceacf38|TJJ, 2018-07-20]]).
 - The 鄭寶鼎 memorial essay above is also held in the vault as its own work record: [[works/taiwaneseamericanhistory-org/mystories-748|TAH My Stories #748 斯人已逝，其德可追 / 林宏容 / 2020/09]].
+
+## Corpus re-grep (2026-09-20, slice 09190130-19)
+- SKIP: re-grep 林宏容 / Hong Zong Lin（content/works + content/articles）命中集與前次相同 — 本人回忆錄 [[works/taiwaneseamericanhistory-org/mystories-748|TAH My Stories #748]]、TAH 檔案 [[works/taiwaneseamericanhistory-org/whoswho1302|TAH #1302]]、works index 目次、及兩篇已吸收於上方 From the record 的 TJJ 文章（鄭寶鼎紀念文、2018 台大校友連署信）；無其他可吸收語料。
 
 ## Sources
 - [TAH #1302 encyclopedia: 1302. Hong Zong Lin 林宏容 / 2016/10](https://taiwaneseamericanhistory.org/whoswho1302/)
