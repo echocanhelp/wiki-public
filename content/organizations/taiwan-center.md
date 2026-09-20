@@ -55,6 +55,8 @@ Middle years are **not** filled from memory.
 
 From our own TAH corpus — the Center's footprint in the movement record:
 
+- **TAH #9 — 台灣會館建館委員會的誕生 / The Birth of the Taiwan Center Building Committee** (Patrick Huang) — first-hand account of how the building committee that produced the Center came together ([[works/taiwaneseamericanhistory-org/ourjourneys9-eng|TAH #9]]).
+- **TAH #29 — 南加州台灣會館開創的史料 / The Opening of the S. CA Taiwan Center** — documentary record of the Center's opening era ([[works/taiwaneseamericanhistory-org/ourjourneys29-eng|TAH #29]]).
 - **TAH #1255 — 回顧與展望：二十周年紀念特刊** (洛杉磯台灣會館, 2018/11) — the Center's own 20th-anniversary commemorative volume ([[works/taiwaneseamericanhistory-org/1255-20|TAH #1255]])
 - **TAH record — 大洛杉磯台灣會館的活動** (2019-02-14) — published record of the Center's community activities ([[works/taiwaneseamericanhistory-org/activities-of-tcgla|TAH activities record]])
 - **TAH record — 洛杉磯台灣會館二二八紀念活動** (2018-02-13) — the Center's 228 commemoration programming ([[works/taiwaneseamericanhistory-org/la228|TAH 228 record]])

@@ -5,10 +5,12 @@ redirect_to: alan-thian
 tags:
   - redirect
 verification_status: redirect
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-20
 ---
 
 # Moved
+
+Corpus review 2026-09-20: all corpus records (TAH OTA #274, Who's Who #1939, 蕭泰然音樂節 #339/#340) absorbed at the canonical page.
 
 Canonical page: **[[people/alan-thian||Alan Thian (田詒鴻)]]**.
 

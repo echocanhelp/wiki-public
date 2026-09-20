@@ -5,10 +5,12 @@ redirect_to: taiwan-center
 tags:
   - redirect
 verification_status: redirect
-last_reviewed: 2026-08-18
+last_reviewed: 2026-09-20
 ---
 
 # Moved
+
+Corpus review 2026-09-20: founding-committee and opening-era corpus records (TAH #9, #29) absorbed at the canonical page.
 
 Canonical page: **[[organizations/taiwan-center||Taiwan Center Foundation of the Greater Los Angeles (大洛杉磯台灣會館)]]**.
 

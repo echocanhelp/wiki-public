@@ -7,10 +7,12 @@ redirect_to: chen-wenshi
 tags:
   - redirect
 verification_status: redirect
-last_reviewed: 2026-08-18
+last_reviewed: 2026-09-20
 ---
 
 # Moved
+
+Corpus review 2026-09-20: all corpus records (TAH #114, #70, #1002, #727, 蕭泰然音樂節 records) absorbed at the canonical page.
 
 Canonical page: **[[people/chen-wenshi||Stone Chen (陳文石)]]**.
 

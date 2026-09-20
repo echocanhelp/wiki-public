@@ -62,6 +62,12 @@ Source: [Yee Phong (Alan) Thian 田詒鴻](https://taiwaneseamericanhistory.org/
 
 TAH also notes immigration from Singapore and marriage to a Taiwanese American (spouse name not given).
 
+## Role in the Community (corpus records)
+
+- **TAH Who's Who #1939** — Yee Phong (Alan) Thian 田詒鴻 directory record ([[works/taiwaneseamericanhistory-org/whos-who-1939-yee-phong-thian|TAH #1939]]).
+- **2019-03 — Outstanding Taiwanese American**, elected by T.A. Archives; corpus record entry with ceremony date 2019-03-26 ([[works/taiwaneseamericanhistory-org/ota-274|TAH OTA #274]]).
+- **2018-08 — 蕭泰然音樂節 (LA).** Credited as one of the three 召集人 (田詒鴻、陳文石、許丕龍) behind the festival in both 林衡哲's afterword and co-convener 許丕龍's pre-event note ([[works/taiwaneseamericanhistory-org/ourjourneys339|TAH #339]], [[works/taiwaneseamericanhistory-org/ourjourneys340|TAH #340]]).
+
 ## Taiwan Justice (台灣公義網) Citations
 
 - **2024-10-04** — *2024大洛杉磮台灣會館第26周年年會晚宴暨募款活動11月2日舉行* (score 690)
