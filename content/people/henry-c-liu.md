@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-20
 ---
 # Henry C. Liu
 
@@ -32,6 +32,10 @@ last_reviewed: 2026-08-17
 ## Family
 
 _No filled family fields on the TAH profile._
+
+## Role in the Community
+- His TAH Who's Who encyclopedia entry: [[works/taiwaneseamericanhistory-org/whoswho1374|1374. Henry C. Liu / 2016/11]].
+- HOLD (identity): every "Henry Liu" in the corpus — the 1984 Daly City murder, the TAFNC/TAI memoir blacklist passages, the *Formosa Betrayed* pieces — refers to the writer 江南/劉敏, a different person. Not absorbable into this bioengineering engineer's (UC Berkeley B.S., UCSD Ph.D., Lihpao Life Corp) record. No community-corpus facts beyond his own entry.
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/henry-c-liu/)

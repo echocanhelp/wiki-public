@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-20
 ---
 # Francie Lin
 
@@ -32,6 +32,12 @@ last_reviewed: 2026-08-17
 ## Family
 
 _No filled family fields on the TAH profile._
+
+## Role in the Community
+- Novelist at the center of a documented community milestone: her debut [[works/taiwaneseamericanhistory-org/21-edgar-allan-poe-awards-for-best-first-novel-by-an-american-author-the-foreign|The Foreigner (2008) won the Edgar Allan Poe Award for Best First Novel by an American Author]] — recorded as community news in the TAH story corpus; also a June 2008 Book Sense pick.
+- Band-A community interview via [[organizations/taiwaneseamerican-org|TaiwaneseAmerican.org]]: [[works/taiwaneseamerican-org/literary-author-francie-lin-talks-about-a-different-kind-of-foreigner|Literary author Francie Lin talks about a different kind of Foreigner (2008-07-11)]] — Harvard graduate, Fulbright Fellow to Taiwan (2001), former editor at The Threepenny Review, Berkeley (1998–2004 per TAH profile); the novel follows Taiwanese-American protagonist Emerson Chang into Taipei's criminal underworld; she appeared at the Asian American Writers' Workshop NYC on 2008-07-24.
+- Her TAH Who's Who encyclopedia entry: [[works/taiwaneseamericanhistory-org/whoswho1158|1158. Francie Lin / 2017/06]].
+- HOLD: conflict in geography — TAH profile says Salt Lake City/Utah; the 2008 interview says she lives with her family in Greenfield, Massachusetts. Not merged.
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/francie-lin/)
