@@ -38,6 +38,7 @@ _No filled family fields on the TAH profile._
 - Chairman of the Chicago Taiwanese Alumni Association (芝加哥台灣同鄉會), 1972, per the retrospective [[works/taiwaneseamericanhistory-org/our-journeys-378|378. 芝加哥台灣人回顧]] (list of past chairmen: 1970 林錦弘, 1972 李友禮, 1974 林明哲).
 - CPA (MBA, accounting/tax). Wrote the 稅務信箱 tax-advice column for 台灣公論報 — see [[works/taiwaneseamericanhistory-org/columns3|3. 稅務信箱(台灣公論報) by 李友禮]].
 - From 1986 he managed the 中西部台灣人夏令會基金 finances on a volunteer basis, reporting yearly at the summer-camp presidents' meeting; around 2010 he handed fund management to the 理事長, per [[works/taiwaneseamericanhistory-org/our-journeys-376|376. 中西部台灣人夏令會簡史]].
+- Listed in the 芝加哥台灣人 community roster as 「MBA會計師，税務專家」: [[works/taiwaneseamericanhistory-org/ourjourneys79|79. 芝加哥台灣人名錄]] — corroborates the TAH profile's accounting/tax career.
 - Wrote the memoir [[works/taiwaneseamericanhistory-org/my-stories-406|406. 憶亡兄 / 李友禮 / 02/2016]].
 - 中西部夏令會簡史 records he passed away in 2017 — TAH profile lists only Era 1940 with no death date. HOLD: conflict TAH profile (living-era only) vs 376 (d. 2017).
 
