@@ -1,15 +1,31 @@
 {
-  "date": "2026-09-19",
+  "date": "2026-09-20",
   "standards_version": 10,
-  "total_pages_scanned": 2899,
-  "pages_with_findings": 69,
-  "auto_queued": 9,
+  "total_pages_scanned": 2905,
+  "pages_with_findings": 77,
+  "auto_queued": 18,
   "queue": [
     {
-      "path": "people/ahhee-hsu.md",
+      "path": "organizations/good-shine-kitchen.md",
       "findings": [
-        "DESC_NO_TITLE_MENTION",
-        "READABILITY_MANY_LONG_SENTENCES_7"
+        "LINKS_LOW_DENSITY",
+        "LINKS_NO_RELATED",
+        "STRUCT_NO_RELATED"
+      ],
+      "priority": "medium",
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol",
+        "Fix ONLY listed findings — no inventing biography",
+        "Update last_reviewed after fixes",
+        "Commit only (no publish)"
+      ]
+    },
+    {
+      "path": "organizations/north-america-taiwanese-womens-association.md",
+      "findings": [
+        "STRUCT_NO_HISTORY",
+        "READABILITY_LONG_SENTENCES_31wps",
+        "READABILITY_MANY_LONG_SENTENCES_4"
       ],
       "priority": "medium",
       "instructions": [
@@ -49,6 +65,20 @@
       ]
     },
     {
+      "path": "people/carol-cho.md",
+      "findings": [
+        "DESC_NO_TITLE_MENTION",
+        "READABILITY_LONG_SENTENCES_34wps"
+      ],
+      "priority": "medium",
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol",
+        "Fix ONLY listed findings — no inventing biography",
+        "Update last_reviewed after fixes",
+        "Commit only (no publish)"
+      ]
+    },
+    {
       "path": "people/choan-guo-huei.md",
       "findings": [
         "DESC_NO_TITLE_MENTION",
@@ -63,7 +93,21 @@
       ]
     },
     {
-      "path": "people/dr-ming-cheng-liau.md",
+      "path": "people/dew-chin-ghi-chang.md",
+      "findings": [
+        "DESC_TOO_SHORT",
+        "DESC_NO_TITLE_MENTION"
+      ],
+      "priority": "medium",
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol",
+        "Fix ONLY listed findings — no inventing biography",
+        "Update last_reviewed after fixes",
+        "Commit only (no publish)"
+      ]
+    },
+    {
+      "path": "people/john-lin.md",
       "findings": [
         "DESC_NO_TITLE_MENTION",
         "READABILITY_MANY_LONG_SENTENCES_4"
@@ -77,7 +121,22 @@
       ]
     },
     {
-      "path": "people/peggy-huang.md",
+      "path": "people/michael-fonte.md",
+      "findings": [
+        "FRESHNESS_NO_REVIEW_DATE",
+        "STRUCT_NO_TYPE",
+        "STRUCT_NO_REVIEW_DATE"
+      ],
+      "priority": "medium",
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol",
+        "Fix ONLY listed findings — no inventing biography",
+        "Update last_reviewed after fixes",
+        "Commit only (no publish)"
+      ]
+    },
+    {
+      "path": "people/ming-tsuang.md",
       "findings": [
         "DESC_NO_TITLE_MENTION",
         "READABILITY_MANY_LONG_SENTENCES_4"
@@ -95,6 +154,49 @@
       "findings": [
         "DESC_NO_TITLE_MENTION",
         "LINKS_HIGH_DENSITY"
+      ],
+      "priority": "medium",
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol",
+        "Fix ONLY listed findings — no inventing biography",
+        "Update last_reviewed after fixes",
+        "Commit only (no publish)"
+      ]
+    },
+    {
+      "path": "people/shin-ruh-liu.md",
+      "findings": [
+        "DESC_TOO_SHORT",
+        "DESC_NO_TITLE_MENTION"
+      ],
+      "priority": "medium",
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol",
+        "Fix ONLY listed findings — no inventing biography",
+        "Update last_reviewed after fixes",
+        "Commit only (no publish)"
+      ]
+    },
+    {
+      "path": "people/susan-chou.md",
+      "findings": [
+        "DESC_NO_TITLE_MENTION",
+        "READABILITY_LONG_SENTENCES_30wps"
+      ],
+      "priority": "medium",
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol",
+        "Fix ONLY listed findings — no inventing biography",
+        "Update last_reviewed after fixes",
+        "Commit only (no publish)"
+      ]
+    },
+    {
+      "path": "people/tsai-ying-ju.md",
+      "findings": [
+        "LINKS_NO_RELATED",
+        "STRUCT_NO_RELATED",
+        "READABILITY_LONG_SENTENCES_33wps"
       ],
       "priority": "medium",
       "instructions": [
@@ -131,8 +233,38 @@
         "Update last_reviewed after fixes",
         "Commit only (no publish)"
       ]
+    },
+    {
+      "path": "sources/tcccna-pcusadir-2009.md",
+      "findings": [
+        "DESC_NO_TITLE_MENTION",
+        "LINKS_NO_RELATED",
+        "STRUCT_NO_STATS"
+      ],
+      "priority": "medium",
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol",
+        "Fix ONLY listed findings — no inventing biography",
+        "Update last_reviewed after fixes",
+        "Commit only (no publish)"
+      ]
+    },
+    {
+      "path": "sources/tcnn-song-memorial-2024.md",
+      "findings": [
+        "DESC_NO_TITLE_MENTION",
+        "LINKS_NO_RELATED",
+        "STRUCT_NO_STATS"
+      ],
+      "priority": "medium",
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol",
+        "Fix ONLY listed findings — no inventing biography",
+        "Update last_reviewed after fixes",
+        "Commit only (no publish)"
+      ]
     }
   ],
-  "suppressed_findings": 1947,
-  "fp_history_entries": 2080
+  "suppressed_findings": 1922,
+  "fp_history_entries": 2109
 }

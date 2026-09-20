@@ -46,7 +46,7 @@ Accomplishment
 ## Family
 
 - **First household:** mother of 許景淳 not named in public sources (**NEED YOU**); household left Taiwan when 景淳 was 11 (民報 2020; her own account)
-- **Wife (later spouse):** [[people/tsai-ying-ju||蔡瀛如]] — couple went to the United States (民報 2020 via [[people/hsu-ching-chun|景淳 page]])
+- **Wife (later spouse):** 蔡瀛如 (Tsai Ying-ju) — *private page* — couple went to the United States (民報 2020 via [[people/hsu-ching-chun|景淳 page]])
 - **Daughter (first household):** [[people/hsu-ching-chun||許景淳]]
 - **Son (with 蔡瀛如):** [[people/leonard-hsu-jr||Leonard Hsu Jr. (許景鴻)]] — English name Leonard; TAHS president (owner-confirmed 2026-09-20)
 - **Father:** [[people/c-y-hsu||許贊育]] · **Nephew-by-brother:** [[people/dr-teng-lung-hsu||許登龍]]'s son Henry = 景鴻's cousin
