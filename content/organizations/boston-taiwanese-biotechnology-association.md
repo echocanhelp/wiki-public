@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-17
+last_reviewed: 2026-09-20
 ---
 # Boston Taiwanese Biotechnology Association (波士頓台灣人生物科技協會)
 
@@ -20,6 +20,8 @@ The Boston Taiwanese Biotechnology Association (BTBA) is an organization founded
 
 ## Role in the Community
 BTBA joined the TAH Foundation organization directory record set: the society's directory entry for the association is held in our corpus as [[works/taiwaneseamericanhistory-org/boston-taiwanese-biotechnology-association|Boston Taiwanese Biotechnology Association 波士頓台灣人生物科技協會]] (published 2017-09-26, value band B). The association's own account — founded 2012 by Taiwanese graduate students, postdocs, and young professionals in greater Boston, with annual symposiums drawing 350+ young Taiwanese bioscience professionals — is the community self-description preserved in that record; it documents the newer, professional-generation wave of Taiwanese American organizing in the Boston corridor.
+
+Corpus re-grep 2026-09-20 (slice 09190130-18): grep 波士頓台灣人生物科技協會 / "Boston Taiwanese Biotechnology" / BTBA across content/works + content/articles returns only its own directory record, index listings, and one false positive (a "BTBA" substring inside an unrelated taiwanjustice-net archive digest hash). No memoir adds facts; nothing new absorbable; no conflicts to hold.
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/boston-taiwanese-biotechnology-association/)
