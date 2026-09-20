@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-18
+last_reviewed: 2026-09-20
 ---
 # Dr. Ching-Shen Lin (林清森醫師)
 
@@ -45,3 +45,5 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+> Corpus re-scan 2026-09-20 (deepen-x slice 09180900-19): re-scanned works/ and articles/ for 林清森 / Ching-Shen Lin — no corpus hits beyond the Who's Who 2012 work page already linked. SKIP-deepen; nothing absorbable.

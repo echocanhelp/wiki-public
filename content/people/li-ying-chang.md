@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-18
+last_reviewed: 2026-09-20
 ---
 # Li-Ying Chang (張理盈)
 
@@ -45,3 +45,5 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+> Corpus re-scan 2026-09-20 (deepen-x slice 09180900-19): re-scanned works/ and articles/ for 張理盈 / Li-Ying Chang — no new corpus hits beyond the two TAH records already wikilinked in Role in the Community. SKIP-deepen; nothing absorbable; HOLD on degree-level conflict stands.
