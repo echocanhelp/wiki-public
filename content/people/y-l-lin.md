@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-20
 ---
 # Y. L. Lin (林玉郎)
 
@@ -32,6 +32,12 @@ last_reviewed: 2026-08-17
 ## Family
 
 _No filled family fields on the TAH profile._
+
+## Role in the Community
+
+- 1991/07 — served as **總召集人** (general convener) of the 13th 美東南區台灣人夏令會 (Southeastern US Taiwanese Summer Camp) at Methodist College, Spartanburg, S.C., hosted by the 北卡同鄉會, theme 「轉變中的台灣」with 林義雄 as keynote speaker ([[works/taiwaneseamericanhistory-org/ourjourneys245|Our Journeys 記錄 #245「美東南區台灣人夏令會簡史」]]).
+- 1995/07 — spoke on 科技 (science & technology) at the 17th 美東南區台灣人夏令會 at Converse College, S.C. (same record, 第十七屆 speaker listing).
+- Note: other TAH "Y. L. Lin" profiles (林雅玲 #1711, 林豔齡 #1432) are different people — same initials, do not conflate.
 
 ## Sources
 - [TAH #1326 encyclopedia: 1326. Y. L. Lin 林玉郎 / 2016/10](https://taiwaneseamericanhistory.org/whoswho1326/)
