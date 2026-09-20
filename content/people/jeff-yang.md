@@ -36,6 +36,7 @@ Accomplishment
 - In Michelle Young's memoir, Jeff Yang is her cousin; she began her journalism career interning at A Magazine at his office ([[works/taiwaneseamerican-org/michelle-young-the-art-spy|Michelle Young — The Art Spy]]).
 - Interviewed among Taiwanese American / Asian American artists on stereotypes and racism for the 2009 Taiwanese American Foundation Summer Conference ([[works/taiwaneseamerican-org/apa-artists-on-overcoming-racism-stereotypes|APA Artists on Overcoming Racism & Stereotypes]]).
 - Father of Hudson Yang; father and son were profiled together during Hudson's childhood TV work in San Francisco ([[works/taiwaneseamerican-org/hudson-yang|Hudson Yang]]).
+- Held in the community record as one of the "godfathers" of Asian America: the Hudson Yang profile describes him as well-known within the Asian American community as the Wall Street Journal "Tao Jones" columnist ([[works/taiwaneseamerican-org/hudson-yang|Hudson Yang]]).
 
 ## Family
 
