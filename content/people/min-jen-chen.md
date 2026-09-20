@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-20
 ---
 # Min-Jen Chen (陳明真)
 
@@ -35,6 +35,9 @@ last_reviewed: 2026-08-17
 
 _No filled family fields on the TAH profile._
 
+## Role in the Community
+- TAHS TAH Who's Who corpus record: [[works/taiwaneseamericanhistory-org/639-min-jen-chen-e9-99-b3-e6-98-8e-e7-9c-9f-201509|639. Min-Jen Chen 陳明真 (TAH Who's Who, 2015/09)]]. Corpus scan 2026-09-20: this is the only vault record naming this subject and it is band-B bibliographic (full text stays in the source); no memoir or community-organizing facts in the vault to absorb.
+
 ## Sources
 - [TAH #639 encyclopedia: 639. Min-Jen Chen 陳明真 / 2015/09](https://taiwaneseamericanhistory.org/639-min-jen-chen-%e9%99%b3%e6%98%8e%e7%9c%9f-201509/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/min-jen-chen/)
@@ -42,3 +45,4 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- [[works/taiwaneseamericanhistory-org/639-min-jen-chen-e9-99-b3-e6-98-8e-e7-9c-9f-201509|639. Min-Jen Chen 陳明真 (TAH Who's Who, 2015/09)]]

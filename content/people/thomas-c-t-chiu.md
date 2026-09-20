@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-20
 ---
 # Thomas C.T. Chiu (邱智正)
 
@@ -36,6 +36,9 @@ last_reviewed: 2026-08-17
 - **Daughter:** Alice Chiu
 
 
+## Role in the Community
+- TAHS TAH Who's Who corpus record: [[works/taiwaneseamericanhistory-org/whoswho1078|1078. Thomas C.T. Chiu 邱智正 (TAH Who's Who, 2016/06)]]. Corpus scan 2026-09-20: this is the only vault record naming this subject and it is band-B bibliographic (full text stays in the source); no memoir or community-organizing facts in the vault to absorb.
+
 ## Sources
 - [TAH #1078 encyclopedia: 1078. Thomas C.T. Chiu 邱智正 / 2016/06](https://taiwaneseamericanhistory.org/whoswho1078/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/thomas-c-t-chiu/)
@@ -43,3 +46,4 @@ last_reviewed: 2026-08-17
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- [[works/taiwaneseamericanhistory-org/whoswho1078|1078. Thomas C.T. Chiu 邱智正 (TAH Who's Who, 2016/06)]]
