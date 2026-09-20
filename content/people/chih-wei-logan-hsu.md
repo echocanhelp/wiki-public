@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-18
+last_reviewed: 2026-09-20
 ---
 # Chih-Wei Logan Hsu
 
@@ -37,7 +37,8 @@ _No filled family fields on the TAH profile._
 
 ## Role in the Community
 
-SKIP-with-reason (deepen-x 2026-09-18): no corpus hits — grep for "Chih-Wei Logan Hsu" / "Logan Hsu" in content/works and content/articles returns nothing; the only 志偉 matches in press articles are unrelated Taiwan-based politicians. The TAH Who's Who profile is the sole record held; nothing absorbable beyond the tah-tables above.
+- Recorded in the TAH Foundation encyclopedia as entry #1373 (2016-11-05): [[works/taiwaneseamericanhistory-org/whoswho1373|1373. Chih-Wei (Logan) Hsu / 2016/11]] — the community-historical record of his profile in the TAHS story corpus (corrected 2026-09-20: an earlier pass marked this page SKIP-for-no-hits, but the corpus record exists under the whoswho1373 slug).
+- Corpus record is bibliographic only (band B); no memoir text available for further absorb.
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/chih-wei-logan-hsu/)
