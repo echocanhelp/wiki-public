@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-20
 ---
 # Taiwanese Graduate and Professional Student Association
 
@@ -17,6 +17,8 @@ last_reviewed: 2026-08-17
 - **Core roles:** Community organization (TAH directory)
 
 The Taiwanese Graduate and Professional Student Association (TGAPSA), also referred to as UPenn TSA, is a graduate-level Taiwanese student organization at the University of Pennsylvania. It is listed on both the Penn Clubs platform and the PAACH Student Communities directory. The organization explicitly distinguishes itself from the undergraduate Penn Taiwanese Society, noting that it serves “graduate and professional students university-wide.”
+
+> SKIP (deepen-x 09181400-21, 2026-09-20): no corpus hits in content/works or content/articles for "TGAPSA" / "UPenn TSA" / "Taiwanese Graduate and Professional" — nothing absorbable beyond the TAH directory listing.
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-graduate-and-professional-student-association/)

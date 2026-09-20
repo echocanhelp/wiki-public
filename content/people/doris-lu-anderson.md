@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-20
 ---
 # Doris Lu-Anderson (呂佳霙博士)
 
@@ -29,6 +29,9 @@ last_reviewed: 2026-08-17
 ## Employment
 - 美國健康體育休閒舞蹈學院(AAHPERD)Physical Best — 體適能指導
 <!-- tah-tables:end -->
+
+## Role in the Community
+- Her own TAH Who's Who entry is held in the corpus as community historical record: [[works/taiwaneseamericanhistory-org/whoswho1469|1469. Doris Lu-Anderson 呂佳霙 / 2017-01]]. No other memoir/article mentions found in works/ or articles/ — body above remains TAH directory-sourced only.
 
 ## Family
 
