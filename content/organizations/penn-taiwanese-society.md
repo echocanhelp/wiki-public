@@ -22,7 +22,7 @@ Penn Taiwanese Society (PTS) is the undergraduate Taiwanese student organization
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/penn-taiwanese-society/)
 
 ## Corpus Review Note
-- SKIP (2026-09-18 deepen-x): no hits for "Penn Taiwanese Society"/PAACH in content/works or content/articles — the org is absent from the memoir corpus, so no community facts were absorbable without web research.
+- SKIP (2026-09-18 deepen-x): no hits for "Penn Taiwanese Society"/PAACH in content/works or content/articles — the org is absent from the memoir corpus, so no community facts were absorbable without web research. Re-scan 2026-09-20: still zero hits.
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

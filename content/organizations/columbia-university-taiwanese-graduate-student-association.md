@@ -19,7 +19,7 @@ last_reviewed: 2026-09-20
 The Columbia University Taiwanese Graduate Student Association (TGSA) is a registered student organization at Columbia University, listed in the university's official LionLink student organization directory under the abbreviation TGSA. The organization's Facebook page uses the Chinese name 哥倫比亞大學台灣學生會 and the handle @columbiatgsa.
 
 ## Corpus scan note
-- 2026-09-18 deepen-x pass: no substantive corpus hits in works/ or articles/ (only archive-digest hash false positives). Nothing community-record material absorbable beyond the TAH directory entry; page retained as-is.
+- 2026-09-18 deepen-x pass: no substantive corpus hits in works/ or articles/ (only archive-digest hash false positives). Nothing community-record material absorbable beyond the TAH directory entry; page retained as-is. Re-scan 2026-09-20 (TGSA / 哥倫比亞大學台灣學生會 / columbiatgsa): still zero substantive hits.
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/columbia-university-taiwanese-graduate-student-association/)

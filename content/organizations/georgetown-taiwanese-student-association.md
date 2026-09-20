@@ -18,7 +18,7 @@ last_reviewed: 2026-09-20
 
 The Georgetown Taiwanese Student Association (GUTSA) was a student organization at Georgetown University that served students from Taiwan. A former vice president’s personal website (dated April 2012) documents the organization as active during the 2011–2012 academic year, describing its purpose as advocating for Taiwanese culture through educational, social, and cultural activities within the Georgetown community. GUTSA also aimed to maintain connections with alumni worldwide and to build relationships with other Taiwanese student organizations.
 
-<!-- deepen-x 2026-09-18: SKIP-with-reason — zero corpus hits for GUTSA / Georgetown Taiwanese in content/works or content/articles; nothing absorbable beyond the existing press-kit directory text. No content invented. -->
+<!-- deepen-x 2026-09-18: SKIP-with-reason — zero corpus hits for GUTSA / Georgetown Taiwanese in content/works or content/articles; nothing absorbable beyond the existing press-kit directory text. No content invented. Re-scan 2026-09-20: still zero hits for GUTSA/Georgetown Taiwanese. -->
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/georgetown-taiwanese-student-association/)
