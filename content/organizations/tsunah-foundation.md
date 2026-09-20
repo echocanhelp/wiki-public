@@ -28,6 +28,8 @@ Corpus record (memoirs are primary material):
 - [[works/taiwaneseamericanhistory-org/our-journeys-379|379. 十年東南夏令憶感 | 01/2022]] — memoir (band A). Records Lin I-hsiung presenting 《慈林文教基金會》's "台灣社會運動史料中心" (Taiwan social-movement archives center) at an overseas community lecture, with attendees donating on the spot — showing the foundation's archives mission active in the diaspora community.
 - [[works/taiwaneseamerican-org/tsunah-foundations-youth-culture-tour-of-taiwan|Tsunah Foundation's Youth Culture Tour of Taiwan]] — TA.org report (2011-10-31) of the foundation's Youth Culture Tour of Taiwan, corroborating its programs for younger generations of Taiwanese Americans.
 
+- [[works/taiwaneseamericanhistory-org/ourjourneys301|301. 南加州臺灣人聯合基金會（1986-1996）/ 林衡哲]] additionally records that the 《慈林之夜》 events Lin I-hsiung later held in Taiwan were the extension of the overseas 《台灣文化之夜》 series run with the United Fund's sponsorship — the cultural-program milieu out of which the foundation's culture mission grew (re-grepped slice 09190130-5, 2026-09-20).
+
 HOLD: name variants in corpus — 慈林教育基金會 (this page / TAH directory) vs 慈林文教基金會 (our-journeys-379 memoir) vs 慈林基金會 (ourjourneys301 memoir); treated as the same Lin I-hsiung-affiliated foundation, not merged in metadata.
 
 ## Sources

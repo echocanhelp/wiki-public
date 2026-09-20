@@ -36,6 +36,7 @@ I-Ling Chen, Annual Distinguished Young Artist of Taiwan in 1999, received her D
 - Re-verified 2026-09-16: corpus re-grep (works/articles) matches only the two TAH profiles above plus index listings — no memoir or event mention of 陳奕伶 found; nothing further absorbable.
 - Re-verified again 2026-09-17: same hit set (works #3, #748, index) — still no memoir or event mention; nothing further absorbable.
 - Re-verified 2026-09-18 (slice 09180131-32): SKIP-with-reason — corpus re-grep (works/articles) again matches only TAH #3, #748, and index listings; no new memoir or event mention of 陳奕伶; nothing further absorbable.
+- Re-verified 2026-09-20 (slice 09190130-12): SKIP-with-reason — re-grep hit set unchanged (TAH #3, #748 only); saturated.
 - Note: corpus also has records for similarly named but distinct individuals (e.g. 陳婉伶 Wei-Ling Chen, TAH #517/#22; Hui-Ling Chen, Who's Who #2147) — not merged with this page.
 
 ## Family
