@@ -7,11 +7,11 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-18
+last_reviewed: 2026-09-20
 ---
 # Melody Ko (柯頌恩)
 
-<!-- deepen-x 2026-09-18: SKIP — corpus scan found no community/memoir material beyond her own TAH Who's Who bibliographic record; nothing absorbable, no content invented. -->
+<!-- deepen-x 2026-09-18: SKIP — corpus scan found no community/memoir material beyond her own TAH Who's Who bibliographic record; nothing absorbable, no content invented. Re-verified 2026-09-20: corpus hits limited to her own record [[works/taiwaneseamericanhistory-org/whos-who-1831-melody-ko|1831. Melody Ko 柯頌恩]] and the works index. -->
 
 ## Identity Snapshot
 - **English:** Melody Ko

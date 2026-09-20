@@ -7,9 +7,11 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-18
+last_reviewed: 2026-09-20
 ---
 # Charles Hsiao (蕭俊雄)
+
+<!-- deepen-x 2026-09-20: SKIP — corpus scan found no community/memoir material beyond his own TAH Who's Who record [[works/taiwaneseamericanhistory-org/whos-charles-hsiao|1937. Charles Hsiao 蕭俊雄 /11/2017]] (band B) and the works index; nothing absorbable, no content invented. -->
 
 ## Identity Snapshot
 - **English:** Charles Hsiao
