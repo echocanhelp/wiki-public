@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-19
+last_reviewed: 2026-09-20
 ---
 # S. C. Yang (楊淑卿)
 
@@ -39,6 +39,7 @@ last_reviewed: 2026-09-19
 ## Role in the Community
 - Community memoir in the TAH corpus covers her and her husband directly: 楊遠薰, 「堅守理念的人生－紐約黃再添與楊淑卿的故事」 — [[works/taiwaneseamericanhistory-org/mystories267|Our Journeys 267]] (2014-12, band B). Memoir is primary material for the couple's New York community life; full text stays in the vault.
 - Her own directory record: [[works/taiwaneseamericanhistory-org/whos-s-c-yang|885. S. C. Yang 楊淑卿]] (published 2016-03-13); husband's paired record: [[works/taiwaneseamericanhistory-org/whos-who-884-patrick-huang|884. Patrick Huang 黃再添]]. His record documents NY-area Taiwan House fundraising alongside 陳隆豐, 樊豐美, 賴弘典 — the civic circle the household moved in.
+- The corpus also preserves her husband's own first-person writings: [[works/taiwaneseamericanhistory-org/ff52|52. Patrick Huang 黃再添 — the first motorcycle ride across the U.S.A. with his son]] (2007) and [[works/taiwaneseamericanhistory-org/mystories48|48. Motorcycle Trip 摩托車萬里行雜記]] — primary memoir material from the household, family life in New York alongside 楊淑卿's own story record.
 - No date/age conflicts found; existing tah-tables bio unchanged.
 
 ## Sources

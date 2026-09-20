@@ -6,7 +6,7 @@ tags:
   - Taiwanese-American
   - Taiwan-Center-group-member
 verification_status: published
-last_reviewed: 2026-09-19
+last_reviewed: 2026-09-20
 ---
 # Taiwanese American Aeronautics and Space Association
 
@@ -21,6 +21,7 @@ last_reviewed: 2026-09-19
 
 ## Role in the Community
 - The TAH story corpus holds a founding-context piece: [[works/taiwaneseamericanhistory-org/2-taiwanese-american-aeronautics-and-space-association|2. 台美航太協會]] (2014-10-12, band B). It traces the association's origins to the 1965 U.S. immigration law that let Taiwanese STEM doctoral graduates stay and enter government labs, universities, and industry — the professional pool from which TASSA formed.
+- TASSA was an active user of the 台美史料中心 (Taiwan American History Museum/archives, Irvine): per 林宏容's memoir of founder Bob Cheng 鄭寶鼎博士 (articles/taiwanjustice-net 2026-01-21, 「斯人已逝，其德可追」), after the center opened in Feb 2014 Bob made its meeting/exhibition hall free for Taiwanese community groups on weekends — TASSA, 柑縣台灣同鄉會金桔會, choirs and dance troupes held regular activities and meetings there, and 林宏容 organized three 「正念學」Zen-lecture events at the center under TASSA's name.
 - The broader corpus shows the movement-era aerospace cohort TASSA draws from: Dr. William Ko 柯威霖, the NASA scientist with the longest employment record there, forty years 1978–2018 — [[works/taiwaneseamericanhistory-org/383-dr-william-kuo|TAH record 383: Dr. William Ko]]. The corpus also preserves the 謝清志 / 台翔 aerospace-return episode (works/taiwaneseamericanhistory-org/ourjourneys253.md, ourjourneys261.md) from the same professional milieu.
 
 ## Source Notes
