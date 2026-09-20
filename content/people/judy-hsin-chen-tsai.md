@@ -32,6 +32,7 @@ last_reviewed: 2026-09-20
 - Profiled in the TAH Who's Who encyclopedia ([[works/taiwaneseamericanhistory-org/845-judy-hsin-chen-tsai-201602|TAH #845, Judy Hsin-Chen Tsai 蔡幸珍 / 2016/02]])
 - 2015 — President, Northern America Taiwanese Women's Association, Southern California Chapter (北美洲台灣婦女會南加州分會)
 - 2018 — Elected individual director (個人董事), 11th board, 大洛杉磯台灣會館 (see From the record below)
+- Daughter Emily Muramoto 蔡蕙宇 is herself profiled in the TAH corpus as a vocalist: [[works/taiwaneseamericanhistory-org/331-emily-muramoto-vocalist-201602|TAH #331, Emily Muramoto 蔡蕙宇, Vocalist / 2016/02]]
 
 ## From the record
 

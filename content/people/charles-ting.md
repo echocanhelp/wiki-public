@@ -28,6 +28,14 @@ last_reviewed: 2026-09-20
 - 實業家
 <!-- tah-tables:end -->
 
+## Role in the Community
+
+Our own memoir corpus (Our Journeys) records Charles Ting (丁昭昇) as a Southern California movement organizer and institution-builder:
+
+- **Founding of the national-diplomacy organization (Formosa I.D.A.)** — one of the 15 attendees at the Feb 13 founding meeting (with Kenjohn Wang, Ming-che Lin, Philip Chen, Tan-Sun Chen, Tu Chen, Yu-hsin Kuo, Ming Min Peng, Jen-Tai Tsai, Chia-yu Yang, C.C. Yang, Fu-Chen Lo) that drafted the three objectives: promote Taiwan's democracy with island democratic forces, publicize self-determination internationally, and protect overseas Taiwanese rights ([[works/taiwaneseamericanhistory-org/ourjourneys65|Our Journeys #65]], [[works/taiwaneseamericanhistory-org/ourjourneys65-eng|EN]]).
+- **Flamingo Garden Senior Apartments / TASA-SC** — among the community leaders (with An-Su Gao Lai, Kenjohn Wang, Ming-chung Zhuo, Hong-yen Hsu, Cheng-tsung Chang, Chia-yu Yang, Symeon Woo) who built the El Monte senior apartments and Taiwanese Senior Center (1984–1988); he and Cheng-tsung Chang helped buy up the remaining shares when fundraising stalled ([[works/taiwaneseamericanhistory-org/ourjourneys173|Our Journeys #173]], [[works/taiwaneseamericanhistory-org/ourjourneys54|Our Journeys #54]]).
+- **Taiwanese American Citizens League preparatory committee** — listed among the consultants in 台灣公論報 #269 (1985-04-15) ([[works/taiwaneseamericanhistory-org/ourjourneys186|Our Journeys #186]]).
+
 ## Family
 
 _No filled family fields on the TAH profile._
