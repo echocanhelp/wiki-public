@@ -38,7 +38,7 @@ last_reviewed: 2026-09-20
 ## Role in the Community
 
 - With her husband 陳淮崇, compiled the "Greater Baltimore/Washington 台灣人名錄" in 1965 — working through the local phone book for plausible Chinese surnames and calling each household to ask whether they were Taiwanese — the organizing baseline for the Baltimore/Washington Taiwanese community.
-- Took part in the first Baltimore Taiwanese gathering at the lunar new year in 1966 (meal, Taiwanese folk songs, and a satirical skit directed by Mrs. William Crowley mocking the Chiang regime's campus surveillance), the聚会 that led to the 1967 Baltimore/Washington 台灣同鄉會, in which 陳淮崇 was the first president.
+- Took part in the first Baltimore Taiwanese gathering at the lunar new year in 1966 (meal, Taiwanese folk songs, and a satirical skit directed by Mrs. William Crowley mocking the Chiang regime's campus surveillance), the gathering that led to the 1967 Baltimore/Washington 台灣同鄉會, in which 陳淮崇 was the first president.
 - The family later lived in Houston and Princeton (where 陳淮崇 helped found the 1970 Houston and 1973 New Jersey 同鄉會) before retiring to Reno, Nevada.
 
 Corpus source: husband 陳淮崇's memoir [[works/taiwaneseamericanhistory-org/ourjourneys-138|Our Journeys 138 — 陳淮崇]]; profile record [[works/taiwaneseamericanhistory-org/595-fumi-chen-e4-bd-95-e6-96-87-e8-8b-b1-201509|595. Fumi Chen 何文英 / 2015/09]].
