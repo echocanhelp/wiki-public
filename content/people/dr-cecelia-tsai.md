@@ -42,6 +42,7 @@ last_reviewed: 2026-09-20
 - **Katrina relief:** After Hurricane Katrina hit New Orleans in 2005, she traveled in person to visit affected NATWA sisters. ([[works/taiwaneseamericanhistory-org/ourjourneys60|Our Journeys #60]])
 - **Blacklist returnee:** Listed on the KMT blacklist, she smuggled herself back to Taiwan in the 1988 homecoming wave using a passport under a changed name, alongside 張丁蘭、羅清芬、吳信志、莊秋雄. ([[works/taiwaneseamericanhistory-org/ourjourneys230|Our Journeys #230 — 返鄉運動]])
 - **Pittsburgh community:** Her wedding to 蔡正隆 (Cheng Long Tsai) was held with the reception at the home of 羅福全 (Penn Avenue, Pittsburgh), a hub for early Taiwanese student community activity there. ([[works/taiwaneseamericanhistory-org/ourjourneys292|Our Journeys #292 — 匹茲堡台灣同鄉會考證]])
+- Re-verified 2026-09-20: fresh grep hit set unchanged (whos-who-1963, ourjourneys60/-eng, ourjourneys230, ourjourneys292/-eng) — all already absorbed above; no new corpus facts; page saturated.
 
 ## Sources
 - [TAH #1963 encyclopedia: 1963. Dr. Cecelia Tsai 葉明霞博士](https://taiwaneseamericanhistory.org/whos-who-1963-cecelia-tsai/)
