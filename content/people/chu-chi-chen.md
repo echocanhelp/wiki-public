@@ -28,6 +28,10 @@ last_reviewed: 2026-09-20
 - Kansas — 泌尿外科醫師
 <!-- tah-tables:end -->
 
+## Role in the Community
+- Profiled in the TA.org story corpus (band B, community historical record): [[works/taiwaneseamericanhistory-org/whoswho1294|1294. Chu-Chi Chen 陳珠琦 / 2016/09]] (published 2016-09-30).
+- No narrative memoir text in the corpus beyond this bibliographic record; full text stays in the vault.
+
 ## Family
 
 _No filled family fields on the TAH profile._

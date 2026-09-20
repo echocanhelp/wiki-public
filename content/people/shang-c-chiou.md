@@ -28,6 +28,10 @@ last_reviewed: 2026-09-20
 - Retiree
 <!-- tah-tables:end -->
 
+## Role in the Community
+- Profiled in the TA.org story corpus (band B, community historical record): [[works/taiwaneseamericanhistory-org/529-shang-c-chiou|529. Shang C. Chiou 邱祥竹 /2015/08]] (published 2015-08-13) and [[works/taiwaneseamericanhistory-org/621-shang-c-chiou-e9-82-b1-e7-a5-a5-e7-ab-b9-201509|621. Shang C. Chiou 邱祥竹 /2015/09]] (published 2015-09-19).
+- No narrative memoir text in the corpus beyond these bibliographic records; full text stays in the vault.
+
 ## Family
 
 - **Wife:** Kimi 陳淑卿

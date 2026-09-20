@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-20
 ---
 # W. D. Lee 李 (李武達)
 
@@ -31,6 +31,10 @@ last_reviewed: 2026-08-17
 ## Family
 
 _No filled family fields on the TAH profile._
+
+## Role in the Community
+- Served as president of the 5th Global Hakka Cultural Summer Conference (Dallas, TX, Jul. 2006), alongside Po-shih Chung, per the conference roster preserved in the corpus record [[works/taiwaneseamericanhistory-org/ourjourneys110-eng|ourjourneys110]] — the Hakka-Taiwanese conference lineage documented there lists each year's THA leadership.
+- His own TAH Who's Who entry (1403, 2016-11-19) is held as community historical record: [[works/taiwaneseamericanhistory-org/whoswho1403|1403. W. D. Lee 李武達]].
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/w-d-lee/)

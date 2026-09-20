@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-20
 ---
 # Shawn Lu (呂紹翔)
 
@@ -16,10 +16,14 @@ last_reviewed: 2026-08-17
 - **Chinese:** 呂紹翔
 - **Era:** 2000
 - **Geography:** -/Hawaii
-- **Core roles:** Taiwanese American (TAH Who’s Who)
-- **Source:** TAH Foundation Who’s Who
+- **Core roles:** Taiwanese American (TAH Who's Who)
+- **Source:** TAH Foundation Who's Who
 
-Shawn Lu (呂紹翔) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+Shawn Lu (呂紹翔) is listed in the TAH Foundation Who's Who Taiwanese American profiles.
+
+## Role in the Community
+
+- Listed in the TAH Foundation Who's Who; the corpus record is the bibliographic entry [[works/taiwaneseamericanhistory-org/whoswho940|940. Shawn Lu 呂紹翔 / 2016/04]] (published 2016-04-17, band B — full text stays in the vault). No further absorbable community facts in the corpus; deepening awaits the encyclopedia entry's full text.
 
 ## Family
 
@@ -28,7 +32,7 @@ Shawn Lu (呂紹翔) is listed in the TAH Foundation Who’s Who Taiwanese Ameri
 
 ## Sources
 - [TAH #940 encyclopedia: 940. Shawn Lu 呂紹翔 / 2016/04](https://taiwaneseamericanhistory.org/whoswho940/)
-- [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/shawn-lu/)
+- [TAH Who's Who](https://taiwaneseamericanhistory.org/person/shawn-lu/)
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

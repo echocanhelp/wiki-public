@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-20
 ---
 # Matthew Lin (林元清博士)
 
@@ -28,6 +28,10 @@ last_reviewed: 2026-08-17
 - 聖瑪利諾 — 市長
 - 信安醫院 — 院長
 <!-- tah-tables:end -->
+
+## Role in the Community
+- Profiled in the TA.org story corpus (band B, community historical record): [[works/taiwaneseamericanhistory-org/467-matthew-lin-e6-9e-97-e5-85-83-e6-b8-85-201506|467. Matthew Lin 林元清 / 2015/06]] (published 2015-06-28).
+- No narrative memoir text in the corpus beyond this bibliographic record; full text stays in the vault.
 
 ## Family
 

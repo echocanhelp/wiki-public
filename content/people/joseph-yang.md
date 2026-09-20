@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-20
 ---
 # Joseph Yang (楊澤修博士)
 
@@ -27,6 +27,10 @@ last_reviewed: 2026-08-17
 ## Employment
 - Shell Development Research Center — 研究科學家
 <!-- tah-tables:end -->
+
+## Role in the Community
+- Profiled in the TA.org story corpus (band B, community historical record): [[works/taiwaneseamericanhistory-org/whoswho1273|1273. Joseph Yang 楊澤修 / 09/2016]] (published 2016-09-11).
+- No narrative memoir text in the corpus beyond this bibliographic record; full text stays in the vault.
 
 ## Family
 
