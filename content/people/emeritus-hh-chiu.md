@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-20
 ---
 # Emeritus HH Chiu (邱輝煌)
 
@@ -38,6 +38,10 @@ last_reviewed: 2026-08-17
 ## Family
 
 _No filled family fields on the TAH profile._
+
+## Role in the Community
+- Entered the community record via the TAH Foundation Who's Who profile, held in our corpus as [[works/taiwaneseamericanhistory-org/whoswho1526|1526. Emeritus HH Chiu 邱輝煌]] (published 2017-02-24, value band B).
+- Note: corpus grep found no memoir/article mentions beyond this own-record; nothing further absorbable.
 
 ## Sources
 - [TAH #1526 encyclopedia: 1526.  Emeritus HH Chiu 邱輝煌 / 2017/02](https://taiwaneseamericanhistory.org/whoswho1526/)
