@@ -33,7 +33,9 @@ Accomplishment
 
 ## Role in the Community
 
-- Editor (編者) of the NATWA (北美洲台灣婦女會) 婦女信箱 column; her joint column with 楊詠絮 in the 千禧年專刊 (2001/04) thanks the column's writers and the "好先生們" who supported the rushed pre-conference publishing effort ([[works/taiwaneseamericanhistory-org/ourjourneys79|79. 婦女信箱 / 吳美芬 和 楊詠絮]]).
+- Creator and host of NATWA's "婦女信箱" column under the pen name 阿香: launched 1991-03-25 in 臺灣公論報 (later also 自立周報), advising overseas Taiwanese on relationships and daily-life troubles; she handed over after eye strain, the column ran until 2001 and was replaced by "點心擔" ([[works/taiwaneseamericanhistory-org/ourjourneys60|60. 咱的故事—NATWA的歷史]]; her own history of the column: [[works/taiwaneseamericanhistory-org/ourjourneys161|161. 婦女信箱的歷史 / 阿香(吳美芬)]]).
+- Editor-in-chief of the 婦女信箱 column book 北美婦女信箱, published 1993/06 on 陳麗英's commission ([[works/taiwaneseamericanhistory-org/publications64|64. 北美婦女信箱/阿香 主編(吳美芬)]]).
+- As NATWA president (1997-1998): passed the 選罷法 for president/vice-president/regional-director elections and founded the 獎學金組 issuing NATWA scholarships ([[works/taiwaneseamericanhistory-org/ourjourneys60|60. 咱的故事—NATWA的歷史]]).
 - Historical recorder for the physician community: organized 周烒明's memoir of the early North American Taiwanese Medical Association into publishable form — 周烒明撰・吳美芬整理, covering 1983–1990 ([[works/taiwaneseamericanhistory-org/ourjourneys74|74. 1983至1990的北美洲台灣人醫師協會]]).
 - Personal archive held by the community: her collection is preserved as a TAH record ([[works/taiwaneseamericanhistory-org/collection-of-mrs-mei-fun-tsai|61. Collection of Mrs. Mei Fun Tsai 吳美芬女士的收藏]]).
 - Naming note: corpus records carry her as 吳美芬 while the English name uses the married surname Tsai (husband [[people/s-i-tom-tsai|蔡式宜]]) — consistent, no conflict.
