@@ -40,6 +40,8 @@ last_reviewed: 2026-09-20
 
 - **Husband:** George Young
 
+- Re-verified 2026-09-20: corpus re-grep (works/articles) matches only her own TAH #915 record, the two TaiwaneseAmerican.org features, and the 2025 TJJ 零日攻擊 record — all already absorbed and wikilinked above; no memoir or event mention of 謝怡芬 elsewhere. SKIP: nothing further absorbable.
+
 
 ## Sources
 - [TAH #915 encyclopedia: 915. Janet Hsieh 謝怡芬 / 2016/03](https://taiwaneseamericanhistory.org/915-janet-hsieh-%e8%ac%9d%e6%80%a1%e8%8a%ac-201603/)
