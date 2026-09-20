@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-19
+last_reviewed: 2026-09-20
 ---
 # Dr. Peter Wu (吳平原博士)
 
@@ -35,6 +35,8 @@ Recorded in the TAH Foundation story corpus as an entrepreneur figure of the Tai
 - Profiled in the encyclopedia record [[works/taiwaneseamericanhistory-org/whos-who-2268-peter-wu|TAH #2268 Dr. Peter Wu 吳平原博士 (2020/05)]].
 
 HOLD: the corpus also lists a "Peter Wu" in FAPA community material — [[works/taiwaneseamericanhistory-org/our-journeys-370|FAPA TX-C中徳州分會記事]] (photo caption at the 2018/10/28 Congressman Carter petition meeting in Austin) and as a signatory of [[works/taiwaneseamerican-org/pew-research-center-taiwanese-american-statement|the Pew Research Taiwanese American statement]] — but those match the English name only (no 吳平原), so identity with this page's subject is unconfirmed and not merged.
+
+HOLD: [[works/taiwaneseamericanhistory-org/ourjourney-343|343. Taiwanese Americans in Austin, Texas]] names a "Peter Wu (吳宗憲, b. Tainan 1947)" — UT Austin Ph.D. in pharmaceutical science, Austin Taiwanese Association president 1991–1993 — Han name 吳宗憲 conflicts with this page's 吳平原 (NTU math, banking), so the Austin memoir's Peter Wu is not merged here.
 
 ## Family
 
