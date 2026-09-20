@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-20
 ---
 # Norman Chen
 
@@ -35,6 +35,15 @@ last_reviewed: 2026-08-17
 
 - **Father:** 陳唐山
 
+
+## Role in the Community
+Norman Chen's community record in our corpus runs through his father, 陳唐山 (Tan S. Chen), the movement leader:
+- 陳唐山 served as **第五屆會長 of 全美臺灣同鄉會** during the 美麗島事件 (1979), leading the association's rescue efforts — [[works/taiwaneseamericanhistory-org/our-journeys-357|Our Journeys 357]].
+- He was also **世台會（世界臺灣同鄉會聯合會）會長**; the 1982 世台會 annual meeting drew ~300 people to Sam Houston State University — [[works/taiwaneseamericanhistory-org/ourjourneys-138|Our Journeys 138]].
+- He testified before Congress (testimony entered in permanent record), a step that fed the founding of FAPA — [[works/taiwaneseamericanhistory-org/ourjourneys8-eng|Our Journeys 8 (EN)]].
+- He appears in the Our Journeys movement roster of 1977 — [[works/taiwaneseamericanhistory-org/ourjourneys49|Our Journeys 49]]; also referenced in [[works/taiwaneseamericanhistory-org/ourjourneys318|Our Journeys 318]] and [[works/taiwaneseamericanhistory-org/ourjourneys320|Our Journeys 320]].
+- The corpus preserves the widely-told family story: 陳唐山, blacklisted by the ROC government, made his home and family in Washington D.C.; after 解嚴 and the first DPP government he could finally return to Taiwan — but as 外交部長 he could no longer visit Washington to see his 兒孫 — over 20 years of "回不了家" on multiple levels ([[works/taiwaneseamericanhistory-org/ourjourneys320|Our Journeys 320]]). Norman Chen's D.C.-family background sits inside this arc.
+- No first-person material from Norman himself in the corpus; his medical career rests on the TAH profile alone.
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/norman-chen/)

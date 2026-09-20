@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-20
 ---
 # M. Wang (陳美霞)
 
@@ -24,6 +24,11 @@ last_reviewed: 2026-08-17
 ## Employment
 - 電腦操作員
 <!-- tah-tables:end -->
+
+## Role in the Community
+- Subject of the TAHS memoir 「407. 堅韌的愛－王幸男夫人」 by 陳宏文 ([[works/taiwaneseamericanhistory-org/mystories407|mystories407]], published 2016-02-29); her own TAH encyclopedia entry [[works/taiwaneseamericanhistory-org/whos-m-wang|852. M. Wang 陳美霞]] (2016-02-28) points back to it.
+- Together with her husband [[people/sing-nan-wang||王幸男]] she supported the promotion of Taiwanese culture abroad: the two collected monkey lanterns (猴子燈籠) and other folk exhibit pieces from Taiwan for Taiwanese culture exhibitions in Minnesota (per mystories407, as cross-recorded on 王幸男's page).
+- TAH record lists her occupation as 電腦操作員 (computer operator); no further occupational detail in the corpus.
 
 ## Family
 

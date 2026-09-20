@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-20
 ---
 # S. Y. Wong (翁水元)
 
@@ -25,6 +25,10 @@ last_reviewed: 2026-08-17
 - 日本上智大學 — B.S.
 - The Cleveland Institute of Art — M.S.
 <!-- tah-tables:end -->
+
+## Role in the Community
+- Profiled in the TAHS-maintained Taiwanese American encyclopedia: [[works/taiwaneseamericanhistory-org/932-s-y-wong-e7-bf-81-e6-b0-b4-e5-85-83-201604|932. S. Y. Wong 翁水元]] (published 2016-04-17, band B — bibliographic record only; full text stays in the vault).
+- Corpus sweep found no memoir/community records beyond this own-entry citation; no further facts absorbed.
 
 ## Family
 
