@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-20
 ---
 # Jate H. Pan (潘暉暋)
 
@@ -31,6 +31,10 @@ last_reviewed: 2026-08-17
 ## Family
 
 _No filled family fields on the TAH profile._
+
+## Role in the Community
+
+SKIP (2026-09-20): corpus grep found only the TAH profile record itself ([[works/taiwaneseamericanhistory-org/whoswho1626|1626. Jate H. Pan 潘暉暋 / 2017/04]]) and the works index — no memoir/community material to absorb beyond the TAH profile already reflected above.
 
 ## Sources
 - [TAH #1626 encyclopedia: 1626. Jate H. Pan 潘暉暋 / 2017/04](https://taiwaneseamericanhistory.org/whoswho1626/)
