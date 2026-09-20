@@ -32,6 +32,7 @@ HOLD: name conflict — the 2005 handbook and Our Journeys list render the group
 - 2005 — listed in the 台美大學生跨校際協會 handbook as an active Rutgers chapter
 - 2018-04-04 — 藍白拖武士 cultural program recorded
 - 2020 — forum 從 SARS 到 COVID-19 (published 2020-12-04)
+- 2022-12-10 — co-panelist (with 雙向影藝會社) at the 64th 世界台灣文化論壇, an interview forum with 林佑恩 director of Golden Horse 2021 best short documentary 《度日》 ([[articles/taiwanjustice-net/2023/20230202214257_2022_12_05_第64回世界台灣文化論壇_訪問2021金馬獎最佳紀錄短_60c8a6f23c1191d1|TJJ 第64回世界台灣文化論壇, published 2022-12-05]])
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/rutgers-taiwan-study-association/)

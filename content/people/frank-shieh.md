@@ -25,6 +25,11 @@ Frank Shieh (沈培志) is listed in the TAH Foundation Who’s Who Taiwanese Am
 
 _No filled family fields on the TAH profile._
 
+## Role in the Community
+
+- Author of a community history piece on 洛杉磯聖東台灣同鄉會 winning overall champion at the 2003 July 4th parade in the Hacienda Heights area — a first-hand account published in the Our Journeys archive ([[works/taiwaneseamericanhistory-org/125-e6-b4-9b-e6-9d-89-e7-a3-af-e8-81-96-e6-9d-b1-e5-8f-b0-e7-81-a3-e5-90-8c-e9-8|125. 洛杉磯聖東台灣同鄉會榮獲2003年美國獨立紀念日哈崗地區遊行總冠軍 / 2015/04]]).
+- His own TAH encyclopedia record #1211 (2016/08) is archived as [[works/taiwaneseamericanhistory-org/whoswho1211|1211. Frank Shieh 沈培志 / 2016/08]].
+
 ## Sources
 - [TAH #1211 encyclopedia: 1211. Frank Shieh 沈培志 / 2016/08](https://taiwaneseamericanhistory.org/whoswho1211/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/frank-shieh/)

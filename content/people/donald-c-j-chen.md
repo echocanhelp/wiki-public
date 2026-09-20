@@ -33,7 +33,7 @@ Organized D.C. Area Taiwanese Association (同鄉會) in 1972, independent from 
 
 ## Family
 
-- **Wife:** [[people/enchin-shaw-chen||蕭永真]]
+- **Wife:** [[people/enchin-shaw-chen||蕭永真]] — per 蕭牧師 family-history memoir: born 1930, graduated 淡江英專 1952, went to the US 1953, B.A. psychology San Diego State College 1957, M.S. social work University of Pennsylvania 1960; married 陳哲仁醫師 in 1965 ([[works/taiwaneseamericanhistory-org/ourjourneys270|Our Journeys 270 — memoir]]). The 1965 marriage year is consistent with his private-clinic start the same year ([[works/taiwaneseamericanhistory-org/58-first-private-clinic|58]]).
 - **Son:** 陳安哲
 - **Son:** [[people/shante-shawsean-chen||陳善哲]]
 - **Daughter:** [[people/michellee-shaw-chen||陳美真理]]
