@@ -5,13 +5,14 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-17
+last_reviewed: 2026-09-20
 ---
 # TACL Toastmaster Club (議會學社)
 
 ## Identity Snapshot
 - **English:** TACL Toastmaster Club
 - **Chinese:** 議會學社
+- **Also known as:** 乾杯俱樂部 (per the club's own community record title)
 - **Era:** Contemporary
 - **Geography:** Taiwanese American community
 - **Core roles:** Community organization (TAH directory)

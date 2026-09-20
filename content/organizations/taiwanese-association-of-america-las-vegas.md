@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-18
+last_reviewed: 2026-09-20
 ---
 # Taiwanese Association of America Las Vegas (拉斯維加斯)
 
@@ -24,6 +24,8 @@ The Taiwanese Association of America Las Vegas (TAALV, 拉斯維加斯 台灣同
 - Neighboring community institution in Las Vegas: [[works/taiwaneseamericanhistory-org/taiwanese-american-chamber-of-commerce-of-las-vegas|TAH #14 拉斯維加斯台灣商會 (Taiwanese American Chamber of Commerce of Las Vegas)]].
 - In the TAC-WC (Taiwanese American Conference – West Coast) regional structure formed 2017, Las Vegas is grouped with Salt Lake City as one of the five regions; its board director was Jim Wang (王進賢), and the 2019 TAC-WC rotated through Salt Lake City–Las Vegas (per 黃東昇's memoir [[works/taiwaneseamericanhistory-org/ourjourneys352|TAH #352]], 2020).
 - Wider Vegas-area community activity: the North American Taiwanese Medical Association held its 2016 annual convention in Las Vegas, 10/21–23 ([[works/taiwaneseamericanhistory-org/important2016-25|TAH #25]]).
+
+- In December 2016 the Vegas chapter's community scene hosted the TPC (南加州台灣人基督長老教會聯合會) "The Voices of Christmas 聖誕之聲" concert, whose tour included a Las Vegas, NV performance on 12/17/2016 ([[works/taiwaneseamericanhistory-org/concerts83|TAH #83 聖誕之聲 Las Vegas]]), alongside the NATMA annual convention earlier that October — evidence of an active broader Taiwanese-heritage community in the area.
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-association-of-america-las-vegas/)
