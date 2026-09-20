@@ -34,6 +34,9 @@ last_reviewed: 2026-09-20
 - **Daughter:** Angel Tseng
 
 
+## Role in the Community
+- SKIP-with-reason: corpus grep 僅見於本人傳記書目頁 [[works/taiwaneseamericanhistory-org/whos-y-s-victor-tseng|TAH #1007 曾元勝 / 2016-05]] 及 works/index，回憶錄/社運文本無可吸收之社群事實。
+
 ## Sources
 - [TAH #1007 encyclopedia: 1007.   Y. S. Tseng  曾元勝 / 2016/05](https://taiwaneseamericanhistory.org/whos-y-s-victor-tseng/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/y-s-tseng/)
