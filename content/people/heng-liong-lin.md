@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-18
+last_reviewed: 2026-09-20
 ---
 # Heng-Liong Lin (林興隆)
 
@@ -42,6 +42,7 @@ last_reviewed: 2026-09-18
 - Named among 紐澤西同鄉会 supporters in a fundraising acknowledgement in the TAH story corpus ([[works/taiwaneseamericanhistory-org/ourjourneys256|256. 寫在畫展之前 / 黃根深]]).
 - TAH encyclopedia record: [[works/taiwaneseamericanhistory-org/897-heng-liong-lin-e6-9e-97-e8-88-88-e9-9a-86-201603|897. Heng-Liong Lin 林興隆 / 2016/03]].
 - HOLD: pen-club memoir gives his presidency as starting 2008 (第二任); his term end year is unrecorded.
+- 2026-09-20 re-check: corpus re-grep (林興隆 / Heng-Liong Lin) returned only the four records already cited above — no new absorbable facts.
 
 ## Sources
 - [TAH #897 encyclopedia: 897. Heng-Liong Lin 林興隆/ 2016/03](https://taiwaneseamericanhistory.org/897-heng-liong-lin-%e6%9e%97%e8%88%88%e9%9a%86-201603/)

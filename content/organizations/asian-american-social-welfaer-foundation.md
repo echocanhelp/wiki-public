@@ -28,6 +28,8 @@ last_reviewed: 2026-09-20
 
 定位：南加州台美人社區的長者照護與健康教育機構。HOLD: 英文名稱衝突 — Taiwan Center 列名 "Asian American Social Welfaer Foundation"（Welfaer 疑為 mistype）vs TAH 紀錄 "Asia American Social Benefit Foundation"，未經確認不併档改名。
 
+2026-09-20 corpus sweep: all corpus hits（asia-america-fund、TAH eNews、台灣公義報三篇、二二八研討會協辦名單）均已連結於上；無新事實可吸收。
+
 ## Source Notes
 
 - **Content priority A:** Name on Taiwan Center group-members page  

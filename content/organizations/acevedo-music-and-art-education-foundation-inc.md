@@ -6,7 +6,7 @@ tags:
   - Taiwanese-American
   - Taiwan-Center-group-member
 verification_status: published
-last_reviewed: 2026-09-18
+last_reviewed: 2026-09-20
 ---
 # Acevedo Music & Art Education Foundation Inc
 
@@ -28,6 +28,8 @@ The foundation is named for pianist **Yin Yin Huang 黃煐媖** and appears in t
 - Community coverage of the 2-28 77th-anniversary memorial concert (2024-02-28, 南加州台灣人影音頻道, archived in `articles/taiwanjustice-net/2025/20250517150428_…紀念音樂會…_ff4731d4f51b100d.md`) lists pianist 黃煐媖 performing 《龍舞》 and appearing in the 和諧三重奏 premiere of 《心路歷程》 and 《毫無畏懼》.
 
 HOLD: the same concert write-up names the trio's pianist once as 「黃煐煐」 vs. 「黃煐媖」 elsewhere — likely a typo but held, not auto-merged. Note also the unrelated Paraguayan foreign minister 阿塞維多 (Acevedo) appearing in news articles; not the foundation's namesake.
+
+2026-09-20 re-check: corpus re-grep (黃煐媖 / Acevedo Music) returned only the records already cited above (the 2024 concert piece appears twice, as a 2024 and a 2025 repost of the same write-up) — no new absorbable facts.
 
 ## Source Notes
 
