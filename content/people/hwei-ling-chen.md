@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-20
 ---
 # Hwei-Ling Chen (涂惠鈴)
 
@@ -32,6 +32,11 @@ last_reviewed: 2026-08-17
 ## Family
 
 _No filled family fields on the TAH profile._
+
+## Role in the Community
+
+- Her TAH Who's Who entry is held in the corpus as [[works/taiwaneseamericanhistory-org/whoswho1510|1510. Hwei-Ling Chen 洪惠鈴 / 2017/02]] (published 2017-02-12). No further community/memoir material found in works or articles.
+- HOLD: conflict in 漢名 surname — person page has 涂惠鈴, work record title has 洪惠鈴 (same English name, same TAH source). Never auto-merged.
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/hwei-ling-chen/)
