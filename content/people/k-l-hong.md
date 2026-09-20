@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-20
 ---
 # K. L. Hong (洪桂林博士)
 
@@ -37,8 +37,13 @@ last_reviewed: 2026-08-17
 - **Daughter:** Irene/ Geraldine
 
 
+## Role in the Community
+
+- Profiled in the TAH community encyclopedia: [[works/taiwaneseamericanhistory-org/784-k-l-hong-e6-b4-aa-e6-a1-82-e6-9e-97-201601|784. K. L. Hong 洪桂林]] (2016-01-31, value band B) — era 1935–2016, 台北, chemical engineer (NTU BS, UTokyo MS/PhD) turned import-export entrepreneur.
+- Corpus scan 2026-09-20: no memoir/corpus mentions beyond the encyclopedia record.
+
 ## Sources
-- [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/k-l-hong/)
+- [TAH Who's Who](https://taiwaneseamericanhistory.org/person/k-l-hong/)
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
