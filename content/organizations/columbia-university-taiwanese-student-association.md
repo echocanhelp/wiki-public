@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-20
 ---
 # Columbia University Taiwanese Student Association
 
@@ -17,6 +17,16 @@ last_reviewed: 2026-08-17
 - **Core roles:** Community organization (TAH directory)
 
 The Columbia University Taiwanese Student Association (CUTSA / 哥倫比亞大學臺灣同學會) is a non-profit, student-run organization at Columbia University composed of Taiwanese students currently enrolled at the university. It operates as a non-political, non-religious organization open to graduate students, faculty, and alumni, with a focus on supporting students from Taiwan who are studying in the greater New York area.
+
+## Role in the Community
+
+Fresh corpus grep (2026-09-20, Columbia.*Taiwanese / CUTSA / 哥倫比亞大學臺灣同學會) returned no memoir or article material about this club. The apparent hits are disambiguations, not mentions of CUTSA:
+
+- [[works/taiwaneseamericanhistory-org/baltimore-columbia-chapter-taa|Baltimore-Columbia (MD) chapter of the TAA]] — "Columbia" here is Columbia, Maryland
+- [[works/taiwaneseamericanhistory-org/evangelical-formosan-church-of-baltimore-columbia|Evangelical Formosan Church of Baltimore-Columbia]] — same Columbia, Maryland
+- [[works/taiwaneseamericanhistory-org/ncutsa|NCUTSA record]] — a different (NC) Taiwanese student association
+
+Nothing absorbable beyond the TAH directory record; page kept at directory-level depth.
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/columbia-university-taiwanese-student-association/)
