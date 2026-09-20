@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-18
+last_reviewed: 2026-09-20
 ---
 # Taiwanese American Professionals San Francisco
 
@@ -25,6 +25,7 @@ Corpus records place TAP-SF inside the documented TAP (台美菁英協會) chapt
 - The parent TAP network is itself recorded in the corpus as 「1. Taiwanese American Professionals (TAP) 台美菁英協會」, 2014-10-12 ([[works/taiwaneseamericanhistory-org/taiwanese-american-professionals-tap|TAH TAP overview]]; bibliographic record only).
 - 2015-07-24 — the chapter's own community-investment record 「24. 舊金山台美菁英協會獎學金 TAP-SF Scholarship Award」 documents its scholarship program for the next generation ([[works/taiwaneseamericanhistory-org/24-taiwanese-american-professionals-san-francisco-chapter-tap-sf-scholarship|TAH #24]]; bibliographic record only).
 - Sibling chapters appear in the same corpus — Seattle ([[works/taiwaneseamericanhistory-org/35-taiwanese-american-professionals-of-seattle-scholarship-award|TAH #35, Seattle TAP scholarship]]) and Orange County ([[works/taiwaneseamericanhistory-org/activities-of-orange-county-chapter-tap|OC TAP activities]]) — situating TAP-SF as one node of a national professional-chapter movement.
+- The Bay Area community-press corpus documents its recurring service and social programming: a Community Service Series (Hayes Valley Farm gardening builds), holiday volunteering with Meals on Wheels of San Francisco (1,100 gift bags stuffed the prior year), and member socials like the TAPpy Hour and the Academy of Sciences "NightLife" event ([[works/taiwaneseamerican-org/tap-sfs-tappy-hour-a-night-of-fashion|TAPpy Hour]], [[works/taiwaneseamerican-org/bahtzang-workshop-hosted-by-tap-sf|Bahtzang workshop hosted by TAP-SF]], [[works/taiwaneseamerican-org/tap-sf-supports-macys-shop-for-a-cause-benefiting-apa-students-2|TAP-SF × Macy's Shop for a Cause for APA students]]), 2011–2012.
 
 Parent organization documented at [[organizations/taiwanese-american-citizens-league|TACL]].
 

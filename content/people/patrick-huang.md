@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-18
+last_reviewed: 2026-09-20
 ---
 # Patrick Huang (黃再添)
 
@@ -40,6 +40,7 @@ Accomplishment
 - Recorded in 鄭家隆's institutional memoir of the New York Taiwan House (紐約台灣會館) as one of four volunteers — with 陳隆豐, 樊豐美, 賴弘典 — who kept fundraising for the House when it faced closure, and whose report to the incoming director helped launch its 1992 turnaround ([[works/taiwaneseamericanhistory-org/ourjourneys27|27. 紐約台灣會館：在困境中更新 / 鄭家隆 / 2014-09]], value band A).
 - Author in the community record: his own memoir essay 摩托車萬里行雜記 is held as [[works/taiwaneseamericanhistory-org/mystories48|48. Motorcycle Trip 摩托車萬里行雜記 / 黃再添 / 2014-09]] (band B bibliographic record) — companion to the TAH #52 record of the first cross-U.S.A. motorcycle ride with his son.
 - Active in the 台灣筆會 community: the pen-association's longtime chronicler 柯哲洋 (Kin Ko) recalls 黃再添 emailing congratulations after a successful annual conference ([[works/taiwaneseamericanhistory-org/ourjourneys12|Our Journeys #12 筆會 memoir]]).
+- He is also the author of the Taiwan House institutional memoir 台灣會館建館委員會的誕生, an English account of how the building committee that secured the New York Taiwan Center came into being ([[works/taiwaneseamericanhistory-org/ourjourneys9-eng|9. The Birth of the Taiwan Center Building Committee / Patrick Huang]], value band A).
 
 ## Sources
 - [TAH #193 encyclopedia: 193. Patrick Huang 黃再添](https://taiwaneseamericanhistory.org/193-patrick-huang/)
