@@ -6,7 +6,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-20
 ---
 # 須藤正子
 
@@ -31,6 +31,10 @@ last_reviewed: 2026-08-17
 
 - **Husband:** [[people/long-lee||李隆吉]]
 
+
+## Role in the Community
+
+- Corpus sweep 2026-09-20: no community/corpus records beyond her own TAH encyclopedia entry — [[works/taiwaneseamericanhistory-org/whoswho1425|1425. 須藤正子（2016/12）]]. Husband 李隆吉 has an adjacent entry — [[works/taiwaneseamericanhistory-org/whoswho1424|1424. Long Lee 李隆吉（2016/12）]]. Nothing absorbable; page left at bibliographic baseline.
 
 ## Sources
 - [TAH #1425 encyclopedia: 1425. 須藤正子 / 1216/12](https://taiwaneseamericanhistory.org/whoswho1425/)

@@ -29,7 +29,7 @@ last_reviewed: 2026-09-18
 
 ## From the record
 
-- 2014-08-07 — TJJ「梅心怡」標籤頁收錄〈台美人台加人：全美台灣人權協會（FAHR）為梅心怡募款〉，報導 FAHR 為罹患間皮癌的人權學者梅心怡（Lynn Miles）募款（[[articles/taiwanjustice-net/2024/20240724005830_root_5b7741741c30e771|TJJ tag page，2024-07-24 快照]]；報導者 [[people/patrick-huang||黃再添]]）。
+- 2014-08-07 — TJJ「梅心怡」標籤頁收錄〈台美人台加人：全美台灣人權協會（FAHR）為梅心怡募款〉，報導 FAHR 為罹患間皮癌的人權學者[[people/mei-xinyi||梅心怡（Lynn Miles）]]募款（[[articles/taiwanjustice-net/2024/20240724005830_root_5b7741741c30e771|TJJ tag page，2024-07-24 快照]]；報導者 [[people/patrick-huang||黃再添]]）。
 
 ## Source Notes
 

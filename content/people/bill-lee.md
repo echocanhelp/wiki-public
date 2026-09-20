@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-20
 ---
 # Bill Lee (李君偉)
 
@@ -31,6 +31,11 @@ last_reviewed: 2026-08-17
 - **Wife:** SarahGore Lee(daughter of US former Vice President Al Gore
 - **Father:** 李清木 Mother:簡文禧
 
+
+## Role in the Community
+- Father **李清木 (Chingmhu Lee)** has his own TAH Who's Who record — [[works/taiwaneseamericanhistory-org/whoswho1600|1600. Chingmhu Lee 李清木 / 2017/04]] — see also [[people/chingmhu-lee|李清木]].
+- Bill Lee's own TAH encyclopedia entry is held in the corpus as [[works/taiwaneseamericanhistory-org/whoswho1601|1601. Bill Lee 李君偉 / 2017/04]] (published 2017-04-09, value band B).
+- No memoir/first-person corpus material beyond the TAH record itself; the family marriage note (Sarah Gore Lee, daughter of US Vice President Al Gore) comes from the TAH profile and is unverified elsewhere in the corpus — HOLD: press-kit claim, no community-corpus corroboration.
 
 ## Sources
 - [TAH #1601 encyclopedia: 1601. Bill Lee 李君偉 / 2017/04](https://taiwaneseamericanhistory.org/whoswho1601/)
