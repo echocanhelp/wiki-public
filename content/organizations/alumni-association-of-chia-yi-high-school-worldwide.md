@@ -27,6 +27,8 @@ The corpus holds the SoCal branch (南加嘉中校友會) as an active organizat
 - [[works/taiwaneseamericanhistory-org/592-e5-8d-97-e5-8a-a0-e5-b7-9e-e5-98-89-e4-b8-ad-e6-a0-a1-e5-8f-8b-e6-9c-83-e5-b|南加州嘉中校友會年刊 2008]] — the association published an annual yearbook (2008 edition held in the archive), evidence of an established, dues-paying membership structure
 - [[works/taiwaneseamericanhistory-org/12-62|台灣青年培訓 by 南加州嘉中校友會]] — the association ran 台灣青年培訓 (Taiwan youth training) programs, i.e. its activity extended beyond alumni socials into next-generation Taiwan-focused education
 
+- [[articles/taiwanjustice-net/2025/20250209211009_旅美五十周年-_-鄭炳全_438dc69b91722b16|旅美五十周年 — 鄭炳全 memoir]] (taiwanjustice.net, 2025-02) — a SoCal community leader's memoir records「北醫校友會和嘉中校友會有餐會則盡量出席」: the 嘉中校友會 dinner circuit sat inside the wider SoCal Taiwanese organizational calendar (同鄉會、NATPA南加分會、台美人歷史協會), corroborating active community presence beyond the Taiwan Center group-member listing.
+
 Related alumni memoir: [[works/taiwaneseamericanhistory-org/my-stories-687|殖民統治下台灣的堅韌－從1940年嘉義中學入學談起]] (李勝和, 2019) — a Chiayi High School admission-1940 memoir held in the corpus; it documents the school generation the alumni association draws from, but does not name AACHW itself.
 
 HOLD: the page title lists "Worldwide (AACHW)" while corpus records name the SoCal branch 南加州嘉中校友會; the relationship between the worldwide body and the SoCal branch is not stated in any corpus source — no auto-merge.

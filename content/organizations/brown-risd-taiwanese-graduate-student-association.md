@@ -20,7 +20,7 @@ The Brown/RISD Taiwanese Graduate Student Association is a student group serving
 
 ## Deepen-x note (2026-09-18)
 
-SKIP: no corpus hits. Corpus grep for Brown/RISD found nothing in works/ or articles/ (only substring false positives inside "jurisdiction"). No memoir or community record to absorb beyond the TAH directory listing already reflected above.
+SKIP: no corpus hits. Corpus grep for Brown/RISD found nothing in works/ or articles/ (only substring false positives inside "jurisdiction"). No memoir or community record to absorb beyond the TAH directory listing already reflected above. Re-verified 2026-09-20 (deepen-x slice 29): still zero corpus hits.
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/brown-risd-taiwanese-graduate-student-association/)
