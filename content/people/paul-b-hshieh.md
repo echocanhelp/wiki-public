@@ -32,7 +32,7 @@ last_reviewed: 2026-09-20
 
 ## Role in the Community
 
-- **1995 — TAA Greater Washington leadership:** listed in the 華府台灣同鄉會歷屆會長芳名録 (president/vice-president roster of the Taiwanese Association of America Greater Washington Chapter, appended to 陳淮崇's memoir) as Vice-President in 1995 under President Ming H. Chow 周明宏. Source: [[works/taiwaneseamericanhistory-org/ourjourneys-138|138. 華府與巴城TAA的誕生/陳淮崇/2015/05]]. See also [[organizations/taiwanese-association-of-america-greater-washington|TAA Greater Washington]].
+- **1995 — TAA Greater Washington roster:** appears in the 華府台灣同鄉會歷屆會長芳名録 (president/vice-president roster of the TAA Greater Washington chapter, appended to 陳淮崇's memoir) for 1995, listed after President Ming H. Chow 周明宏 (roster column title not reproduced in our copy — HOLD: exact role beyond president line unverified). Source: [[works/taiwaneseamericanhistory-org/ourjourneys-138|138. 華府與巴城TAA的誕生/陳淮崇/2015/05]]. See also [[organizations/taiwanese-association-of-america-greater-washington|TAA Greater Washington]].
 - His own TAH encyclopedia record (1237, 2016/08) is held at [[works/taiwaneseamericanhistory-org/whoswho1237|1237. Paul B. Hshieh 謝博六]].
 - A 2018 community profile feature about him — 659. 圓轉如意，穩紮故土—謝博六博士 (李宜軒、蔡佑晨, 11/2018) — is recorded at [[works/taiwaneseamericanhistory-org/50948|659. 圓轉如意，穩紮故土—謝博六博士]].
 
