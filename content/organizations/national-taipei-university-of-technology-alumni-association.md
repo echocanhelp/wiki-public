@@ -6,7 +6,7 @@ tags:
   - Taiwanese-American
   - Taiwan-Center-group-member
 verification_status: published
-last_reviewed: 2026-09-18
+last_reviewed: 2026-09-20
 ---
 # National Taipei University of Technology Alumni Association
 
@@ -22,7 +22,7 @@ last_reviewed: 2026-09-18
 ## Role in the Community
 
 - The association (台北工專／台北科技大學美國南加州區校友會) has its own record in the TAH Foundation story corpus: [[works/taiwaneseamericanhistory-org/taipei-tech-alumni-sca|National Taipei University of Technology Alumni Association – S. California 台北工專/台北科技大學美國南加州區校友會]] (2017-03-30, band B). This corroborates the Taiwan Center group-members listing with an independent community-held record.
-- Context from movement memoirs: 台北工專 appears as a formative institution in Taiwanese American movement lives — e.g. 楊宗昌 (Taipei工專土木工程科, later 29-year central committee member of the UFAI 台灣獨立聯盟) studied there before moving to the U.S. in 1962; see [[works/taiwaneseamericanhistory-org/ourjourneys33|33. 一家人做伙來打拼／張炎憲]]. (Alumni-association membership of such individuals is not asserted by the corpus.)
+- Context from movement memoirs: 台北工專 appears as a formative institution in Taiwanese American movement lives — e.g. 楊宗昌 (Taipei工專土木工程科, later 29-year central committee member of the UFAI 台灣獨立聯盟) studied there before moving to the U.S. in 1962; see [[works/taiwaneseamericanhistory-org/ourjourneys33|33. 一家人做伙來打拼／張炎憲]]. A second corpus memoir names 王文隆 (b. 1944, 宜蘭), 台北工專五年制畢業 then MIT 核子工程博士, then Bell Labs in Chicago — see [[works/taiwaneseamericanhistory-org/ourjourneys256|256. 寫在畫展之前／黃根深, 2016-10-10]]. (Alumni-association membership of such individuals is not asserted by the corpus.)
 
 ## Source Notes
 

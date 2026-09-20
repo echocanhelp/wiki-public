@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-18
+last_reviewed: 2026-09-20
 ---
 # Jim Young (楊正義)
 
@@ -35,6 +35,7 @@ For more bio information, please click link in Who’s Who: 971. Cheng-I (Jim) Y
 
 - One of ten Taiwanese students at the University of Texas at Austin whom **Wu Mu-sheng (吳木盛)** hand-picked in 1969 to begin Taiwanese student organizing in the Kuomintang's "strong point" of the US south-central region; the gatherings at Wu's apartment led to the founding of the Austin Taiwanese association in March 1970 ([[works/taiwaneseamericanhistory-org/ourjourneys76|76. 全美台灣同鄉會/吳木盛/12/2014]], English: [[works/taiwaneseamericanhistory-org/ourjourneys76-eng|Our Journeys 76, English]]).
 - Listed as a recipient of an honor from the Chicago Taiwanese American Association in 1997 in its 50-year history's list of award years ([[works/taiwaneseamericanhistory-org/our-journeys-378|378. 芝加哥台灣同鄉會50年的歳月]]). HOLD: the 378 list's header reads 歷屆會長 (past presidents); whether this entry names him as president or honoree, and whether it is the same 楊正義 as the Austin activist/DuPont engineer, needs confirmation — do not merge.
+- His artist-side record — the TAH encyclopedia entry for his work as an engineer-artist — is held in the corpus as [[works/taiwaneseamericanhistory-org/atists62-cheng-i-jim-young|62. 楊正義 Cheng-I (Jim) Young]], alongside his Who's Who deposit [[works/taiwaneseamericanhistory-org/whoswho971|971. Cheng-I (Jim) Young 楊正義, 2016-05]].
 
 ## Family
 
