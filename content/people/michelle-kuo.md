@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-18
+last_reviewed: 2026-09-20
 ---
 # Michelle Kuo (郭怡慧)
 
@@ -40,6 +40,8 @@ Accomplishment
 
 - Author of *Reading with Patrick* (2017), discussed in the Taiwanese American community record as a work on class, race, and mentorship: [[works/taiwaneseamerican-org/interview-michellekuo|A Canon of Our Own: Q&A with Michelle Kuo]] (2017-07-19) and [[works/taiwaneseamericanhistory-org/my-stories-763|763. Michelle Kuo and Her "Reading with Patrick"]] (2020-10-30).
 - Co-author (with Albert Wang) of the Substack newsletter *A Broad and Ample Road*, listed in community resources as being about history, politics, justice, and law, with an ambition to build a Mandarin-language section serving as the "Village Voice of Taipei" and to bridge local and diasporic peoples: [[works/taiwaneseamerican-org/community-resources-for-taiwanese-american-parents-families|Community Resources for Taiwanese American Parents & Families]].
+- Her writing on memory, justice, and detention is cited approvingly in the TAHS Jing-Mei memorial essay as a voice on "moral imagination" and what repair is possible without cages: [[works/taiwaneseamerican-org/taiwanese-american-jing-mei-memorial-park|Taiwanese American Jing-Mei Memorial Park]].
+- Interviewed in the community conversation on anti-Blackness in the Taiwanese American community: [[works/taiwaneseamerican-org/addressing-anti-blackness-within-the-taiwanese-american-community|Addressing Anti-Blackness within the Taiwanese American Community]].
 - Profiled in the TAH encyclopedia: [[works/taiwaneseamericanhistory-org/whos-who-2031-michelle-kuo|2031. Michelle Kuo 郭怡慧]] (2018-02-14).
 - Husband Albert Wu co-authors the newsletter above; the couple appear together in community records.
 
