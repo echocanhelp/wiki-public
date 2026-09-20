@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-20
 ---
 # Eva Hsia (夏敬安)
 
@@ -24,6 +24,10 @@ last_reviewed: 2026-08-17
 ## Education
 - University of California Irvine — B.S. film and media studies
 <!-- tah-tables:end -->
+
+## Corpus absorb note (2026-09-20)
+
+SKIP: corpus grep (works/ + articles/) found only this person's own TAH Who's Who bibliographic record ([[works/taiwaneseamericanhistory-org/whoswho1255]]); no memoir or community-history material mentioning Eva Hsia 夏敬安 exists in the vault yet — nothing absorbable.
 
 ## Family
 

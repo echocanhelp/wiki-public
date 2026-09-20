@@ -6,7 +6,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-20
 ---
 # 賴江椿
 
@@ -27,6 +27,17 @@ last_reviewed: 2026-08-17
 ## Employment
 - Amoco石油公司 — 深海石油建造工程 — 2.
 <!-- tah-tables:end -->
+
+## Role in the Community
+
+- **會長 (Chair), 北美臺灣客家公共事務協會 (北美客協 / HAPA-NA), 2007–2008** — named in the association's own leadership roster in the TAH story corpus ([[works/taiwaneseamericanhistory-org/ourjourneys290|Our Journeys 290]], [[works/taiwaneseamericanhistory-org/ourjourneys252|Our Journeys 252]]). 歷任會長記載：… 2005–2006 魏武雄；**2007–2008 賴江椿**；2009–2012 李常吉 …
+- **顧問 (Advisor), HAPA-NA 2016 理事會** — listed as 顧問 as of the 2016 board roster, reachable in the Houston, TX area (Tel. 281 area code; email davidcclai@aol.com) per [[works/taiwaneseamericanhistory-org/ourjourneys290|Our Journeys 290]].
+- See also: [[organizations/taiwan-hakka-association-for-public-affairs-in-north-america||北美臺灣客家公共事務協會]]
+
+## Timeline
+
+- 2007–2008 — 會長 of 北美客協 (HAPA-NA)
+- 2016 — listed as 顧問 on the HAPA-NA 理事會 roster
 
 ## Family
 

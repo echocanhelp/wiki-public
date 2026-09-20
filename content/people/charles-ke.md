@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-20
 ---
 # Charles Ke (柯烱輝)
 
@@ -25,6 +25,10 @@ last_reviewed: 2026-08-17
 - 美國運輸部 — 資深專家
 - 聯合國危險品運輸專家委員會 — 資深委員
 <!-- tah-tables:end -->
+
+## Corpus absorb note (2026-09-20)
+
+SKIP: corpus grep (works/ + articles/) found only this person's own TAH Who's Who bibliographic record ([[works/taiwaneseamericanhistory-org/whoswho1779]]); no memoir or community-history material mentioning Charles Ke 柯烱輝 exists in the vault yet — nothing absorbable.
 
 ## Family
 
