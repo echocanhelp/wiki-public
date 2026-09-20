@@ -36,7 +36,11 @@ last_reviewed: 2026-09-18
 
 
 ## Role in the Community
-- SKIP-with-reason (2026-09-18): corpus grep found only her own TAH Who's Who entry [[works/taiwaneseamericanhistory-org/478-shuching-liao-e5-bb-96-e9-83-ad-e6-b7-91-e5-8d-bf-201507|478. Shuching Liao 廖郭淑卿 / 2015/07]] and its index listing — no memoir/community material to absorb. Existing press-kit facts stand: 東京神學院 B.S.、芝加哥大學神學院 M.S.；夫廖述宗，女廖慈瑛、廖慈芬、廖慈明、廖慈卿。
+- Her own TAH encyclopedia record is bibliographic: [[works/taiwaneseamericanhistory-org/478-shuching-liao-e5-bb-96-e9-83-ad-e6-b7-91-e5-8d-bf-201507|478. Shuching Liao 廖郭淑卿 / 2015/07]].
+- Community record enters the vault mainly through the family: husband [[people/prof-shutsung-liao|廖述宗 Shutsung Liao]] was the founding president of NATPA (北美洲台灣人教授協會). NATPA honors him with a research award: [[works/taiwaneseamericanhistory-org/natpa-professor-liao-shutsung-research-award|13. NATPA Professor Liao Shutsung Research Award 廖述宗教授研究獎金]] (2015).
+- A Chicago memoir records that before the Chicago chapter had a hall, the family's University of Chicago home served as the meeting place for 台灣人同鄉會 activities and for the founding of NATPA — the household itself was community infrastructure ([[works/taiwaneseamericanhistory-org/collection-of-prof-shutsung-liao|Collection of Prof. Shutsung Liao]]).
+- 張瑞雄's memoir places the family in the 台中/豐原 gentry network: 廖述宗's mother was geology professor 林朝棨's sister, and 廖五湖 (豐原三傑) belongs to the same kin circle ([[works/taiwaneseamericanhistory-org/our-journeys-350|Our Journeys #350]]).
+- Faith formation (東京神學院、芝加哥大學神學院) fits the memoir record of the couple's role in 芝加哥台灣基督長老教會 circles; no dates conflict found.
 
 ## Sources
 - [TAH #478 encyclopedia: 478. Shuching Liao 廖郭淑卿 / 2015/07](https://taiwaneseamericanhistory.org/478-shuching-liao-%e5%bb%96%e9%83%ad%e6%b7%91%e5%8d%bf-201507/)
