@@ -41,6 +41,7 @@ Research/Teaching Specialist
 ## Role in the Community
 - Lectured at the ITPC Irvine 長青教室 (Evergreen Classroom) community senior-lecture series: 「漫談記憶的奧祕與阿茲海默症——長青教室心得報告」, delivered 2018-09-26, preserved in the TaiwanJustice archives [[articles/taiwanjustice-net/2024/20240523001759_root_23e163f71d3f2ba5|TaiwanJustice root 2024-05-23]] and [[articles/taiwanjustice-net/2024/20240721092528_root_e918947ff234901f|TaiwanJustice root 2024-07-21]].
 - The lecture series is run by [[organizations/irvine-taiwanese-presbyterian-church|ITPC Irvine]].
+- Corpus re-grep 2026-09-20 (slice 09190400-15): works/articles hits are only the records already cited above (TAH #1337 entry + the two TaiwanJustice 長青教室 pages) — no new community material absorbable.
 - Encyclopedia record: [[works/taiwaneseamericanhistory-org/whos-teh-yuan-ho|TAH #1337 Teh Yuan Ho 何德淵 / 2016-10]].
 
 ## From the record
