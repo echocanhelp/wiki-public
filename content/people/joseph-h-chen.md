@@ -30,6 +30,12 @@ last_reviewed: 2026-09-20
 - **Wife:** 程美希 Mei-Hsi Chen
 
 
+## Role in the Community
+- Came to Ithaca, NY in 1965 for doctoral study at Cornell University; served as **president of the Ithaca/Cornell Taiwanese community organization** (伊薩卡同鄉會, later 康大臺灣同鄉同學會), which under his generation grew to nearly 300 members including families.
+- Per his wife 程美希 Mei-Hsi Chen's memoir of the association's history, the group's work centered on 同鄉互愛、互助: easing homesickness, cooking Taiwanese food, welcoming new students and sending off graduates, and handling weddings and celebrations. In the 1960s–70s the association conducted itself in Taiwanese.
+- Married 程美希 in 1967, the same community circle the memoir documents.
+- Corpus record: [[works/taiwaneseamericanhistory-org/ourjourneys310|310. 伊薩卡台灣同鄉會歷史 (中英) / 程美希 / 2015]] — his own TAH encyclopedia entry [[works/taiwaneseamericanhistory-org/whos-joseph-h-chen|410. Joseph H. Chen 陳河田 / 2015/05]].
+
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/joseph-h-chen/)
 

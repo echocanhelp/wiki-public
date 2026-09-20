@@ -5,7 +5,7 @@ redirect_to: sunu-tsai
 tags:
   - redirect
 verification_status: redirect
-last_reviewed: 2026-08-30
+last_reviewed: 2026-09-20
 ---
 
 # Moved
@@ -13,6 +13,8 @@ last_reviewed: 2026-08-30
 Canonical page: **[[people/sunu-tsai||Sunu Tsai (蔡淑女)]]**.
 
 Former provisional slug: `cai-shunyu`.
+
+Corpus check 2026-09-20: 唯一語料命中（2025-09-05 台美人歷史協會就職理事會報導，出席名單含蔡淑女）已由正規頁吸收，詳見 [[people/sunu-tsai|Sunu Tsai]] 的「Board activity (2025)」。本頁作重導用，不再重複吸收。
 
 ## Works
 

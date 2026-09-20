@@ -5,7 +5,7 @@ redirect_to: tzetsai-eric-shen
 tags:
   - redirect
 verification_status: redirect
-last_reviewed: 2026-08-30
+last_reviewed: 2026-09-20
 ---
 
 # Moved
@@ -13,6 +13,8 @@ last_reviewed: 2026-08-30
 Canonical page: **[[people/tzetsai-eric-shen||Eric Shen (沈梓在)]]**.
 
 Former provisional slug: `shen-zizai`.
+
+Corpus check 2026-09-20: 唯一語料命中（2025-09-05 台美人歷史協會就職理事會報導）已由正規頁吸收，詳見 [[people/tzetsai-eric-shen|Eric Shen]] 的「2025 board meeting attendance」。本頁作重導用，不再重複吸收。
 
 ## Works
 
