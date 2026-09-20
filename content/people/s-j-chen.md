@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-18
+last_reviewed: 2026-09-20
 ---
 # S. J. Chen (陳松楨)
 
@@ -39,6 +39,7 @@ _No filled family fields on the TAH profile._
 - 1960年代 UCLA 台灣留學生讀書會成員，與劉天良、黃根深、李木通、陳嶄新、王秋森等輪流報告讀書心得；該讀書會後來促成生活座談會，並與大洛杉磯台灣同鄉會的形成有直接淵源。見 [[works/taiwaneseamericanhistory-org/ourjourneys240|UCLA台灣同學會與生活座談會回憶（Our Journeys 240）]]。
 - 1991年8月 TCC 建館募款委員會委員之一（召集人 Chao-Yuh Yang），委員會決議万元以上捐贈者設紀念牌、千元以上合刻銅板。見 [[works/taiwaneseamericanhistory-org/ourjourneys233-eng|THSH建館募款回憶（Our Journeys 233 EN）]]。
 - 本人 TAH 條目：[[works/taiwaneseamericanhistory-org/whoswho1268|TAH #1268]]。
+- 同名消歧義：本協會庫另藏「1625. Dr. S. J. Chen 陳舜哲博士」（2017-04），與本條目陳松楨英文縮寫相同、漢名不同，為不同人物，勿混併。見 [[works/taiwaneseamericanhistory-org/whos-who-1625-s-j-chen|TAH #1625（陳舜哲）]]。
 
 ## Sources
 - [TAH #1268 encyclopedia: 1268. S. J. Chen 陳松楨](https://taiwaneseamericanhistory.org/whoswho1268/)

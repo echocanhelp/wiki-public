@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-18
+last_reviewed: 2026-09-20
 ---
 # Treya Lam
 
@@ -30,8 +30,7 @@ For the past few years, Brooklyn resident Treya Lam’s presence on stage has be
  TAH's story corpus holds two 2015/08 feature records on Treya Lam's performing career in the Taiwanese American community — as a Brooklyn-based stage artist known as 'Vulpes' and as a musician profiled alongside fellow Taiwanese American artists Janice Wong 王正怡 and Jun-Ching Lin:
 - [[works/taiwaneseamericanhistory-org/273-treya-lam-musician-201508|273. Treya Lam, Musician / 2015-08]] — published 2015-08-22
 - [[works/taiwaneseamericanhistory-org/19093|544. Treya Lam / 2015-08]] — published 2015-08-22
-
-HOLD: corpus records are bibliographic only (band B); no memoir text available to reconcile against the press-kit bio.
+- [[works/taiwaneseamerican-org/introducing-treya|Introducing Treya (interview by Ho Chie Tsai, taiwaneseamerican.org, 2015-06-21)]] — first-person account: born in Taiwan, raised in New York suburbs, Brooklyn resident; worked in hospitality before being discovered by Amazing Artists USA; signed by CEO Paul Campbell as the very first "Amazing Artist"; first major show at Taiwan Music Night, SXSW 2015 alongside Dwagie, OVDS, and Toffee; childhood piano from age ~3, later violin/viola with the Children's Orchestra Society, guitar from high school.
 
 ## Family
 

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-18
+last_reviewed: 2026-09-20
 ---
 # Sue Chen (陳禹辛)
 
@@ -33,6 +33,7 @@ last_reviewed: 2026-09-18
 ## Role in the Community
 
 - Her own TAH encyclopedia entry is held as a work record — [[works/taiwaneseamericanhistory-org/426-sue-chen-e9-99-b3-e7-a6-b9-e8-be-9b-201505|427. Sue Chen 陳禹辛 / 2015-05]].
+- Signed the Pew-recorded North American Taiwanese Women's Association (北台美人婦女會) community statement as "Sue Chen, North America Taiwanese Women's Association" — one of the named organization representatives on the statement. See [[works/taiwaneseamerican-org/pew-research-center-taiwanese-american-statement|Pew 台美人團體聲明]]. (The same statement also lists a "Sue Cheng" among individual signers — surname romanization differs; not merged.)
 - HOLD: conflict 陳禹辛 vs 廖淑清 — the TAF/MFCF founding-history memoirs ([[works/taiwaneseamericanhistory-org/ourjourneys33-eng|33. TAF history (EN)]], [[works/taiwaneseamericanhistory-org/ourjourneys33-2|33. TAF history (中)]]) name a "Sue Chen (廖淑清)" among MFCF founding members (circa-1990 photo front row; credited with junior arts/music programs alongside Carol Cho 林秋菊). The corpus glosses that Sue Chen as 廖淑清, not 陳禹辛 — likely a different person; not auto-merged pending verification.
 
 ## Family
