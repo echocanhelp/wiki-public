@@ -6,7 +6,7 @@ tags:
   - Taiwanese-American
   - Taiwan-Center-group-member
 verification_status: published
-last_reviewed: 2026-09-19
+last_reviewed: 2026-09-20
 ---
 # Taiwanese-American Foundation
 
@@ -32,7 +32,14 @@ Regional chapters appear in the record:
 - **大西雅圖區台美基金會** — 501(c)(3) founded with 蕭勝雄 as first 理事長; operates the Seattle 台灣會館 (opened 2004-02-28, housed in space rented for US$1/yr from the 陳、林 families; 33-member board; see [[works/taiwaneseamericanhistory-org/ourjourneys30|Our Journeys 30]] and [[works/taiwaneseamericanhistory-org/547-e8-a5-bf-e9-9b-85-e5-9c-96-e5-8f-b0-e7-81-a3-e6-9c-83-e9-a4-a8-e5-89-b5-e5-8|547. 西雅圖台灣會館創刊號 2005]])
 - **聖地牙哥台美基金會** — [[works/taiwaneseamericanhistory-org/taiwanese-american-foundation-of-san-diego|7. Taiwanese American Foundation of San Diego]]
 
-HOLD: whether the LA Taiwan Center group member 台美基金會 is the same national body as the 台美基金會 behind the 1986–1999 publications, or a separate/related entity — not merged.
+Founding account preserved in the Taiwan Center opening memoir ([[works/taiwaneseamericanhistory-org/ourjourneys29-eng|29. 南加州台灣會館開創的史料]]): **王桂榮 Kenjohn Wang donated US$1,000,000 to establish the Foundation**, which "awards yearly scholarships to extraordinary talents both in the US and overseas"; the Wang family subsequently donated its 20,000+ sq ft Rosemead estate to the Taiwan Center. **李培吾 Li Pei Wu** — also general convener of the Taiwan Center preparatory committee — was elected **Chairman of the Foundation** and worked with Wang on the Taiwan Center (see also [[works/taiwaneseamericanhistory-org/153-kenjohn-wang|153. Kenjohn Wang 王桂榮]]).
+
+Further corpus records:
+
+- [[works/taiwaneseamericanhistory-org/taf-summer-conference|7. Taiwanese American Foundation Summer Camp]] (2015-07-16) — family/youth summer camp; filed in that record under the style 台美協進會 / [[organizations/taiwan-american-foundation|Taiwan American Foundation]]
+- [[works/taiwaneseamericanhistory-org/miss-taiwanese-american-foundation|2. Miss Taiwanese American Foundation 台美小姐選拔基金會]] — pageant foundation bearing the name
+
+HOLD: whether the LA Taiwan Center group member 台美基金會 is the same national body as the 台美基金會 behind the 1986–1999 publications, or a separate/related entity — not merged. HOLD: naming drift 台美基金會 vs 台美協進會 vs 台美小姐選拔基金會 across these records — treated as distinct style/entity threads, not merged.
 
 ## Source Notes
 

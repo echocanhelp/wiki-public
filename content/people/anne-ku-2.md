@@ -27,6 +27,7 @@ Violinist Anne Ku is an up and coming orchestral and chamber musician, as well a
   - [[works/taiwaneseamericanhistory-org/395-anne-ku-201505|395. Anne Ku / 2015/05]] — second encyclopedia entry, published 2015-05-03
 - Corpus adjacency note: the story index places her alongside [[works/taiwaneseamericanhistory-org/192-rachel-ku-violist-201505|192. Rachel Ku, Violist]] and [[works/taiwaneseamericanhistory-org/394-rachel-ku-201504|394. Rachel Ku]] — HOLD: relationship between Anne Ku and Rachel Ku (sisters?) not stated in the corpus records, not auto-merged.
 - HOLD: corpus records link subject to `people/anne-ku` while this TAH profile lives at slug `anne-ku-2`; two Anne Ku person pages exist — identity reconciliation pending.
+- Corpus re-grep 2026-09-20 (slice 09190445-5): "Anne Ku" appears in works text only in the two profile records above; broader hits (ourjourneys, 台獨共論報 series) are 顧-substring noise — no memoir material, nothing new absorbable.
 
 <!-- tah-tables:start -->
 ## Education
