@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-19
+last_reviewed: 2026-09-20
 ---
 # Prof. Wilson Ho (何文程教授)
 
@@ -36,6 +36,8 @@ _No filled family fields on the TAH profile._
 
 ## Role in the Community
 The movement record holds his own TAH encyclopedia entry [[works/taiwaneseamericanhistory-org/whos-who-2037-wilson-ho|2037. Prof. Wilson Ho 何文程教授 / 2018-02-19]], held as a bibliographic record only — no memoir or event material is absorbable from the corpus. Adjacent in the same 2018-02-19 batch is a likely relative: [[works/taiwaneseamericanhistory-org/whos-who-2036-w-s-ho|2036. Prof. W.S. (Winston) Ho 何文壽教授]]. HOLD: relationship between 何文程 and 何文壽 (brothers?) unverified in the corpus, not merged.
+
+- Re-grep 2026-09-20 (slice 09190400-11): corpus scan of content/works + content/articles again returns only own TAH #2037 record and index entries — no memoir material to absorb; SKIP, 何文程/何文壽 relationship still unverified (HOLD stands).
 
 ## Sources
 - [TAH #2037 encyclopedia: 2037. Prof. Wilson Ho 何文程教授](https://taiwaneseamericanhistory.org/whos-who-2037-wilson-ho/)

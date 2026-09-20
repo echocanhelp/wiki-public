@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-19
+last_reviewed: 2026-09-20
 ---
 # Rev. Sheng-To Shih (施聖導牧師)
 
@@ -48,3 +48,5 @@ _No filled family fields on the TAH profile._
 
 ## Network
 - [[organizations/presbyterian-church-in-taiwan||PCT]] — TAH Who’s Who
+
+- Re-grep 2026-09-20 (slice 09190400-11): corpus scan of content/works + content/articles again returns only own TAH #1640 record and index entries — no memoir material to absorb; SKIP, no conflicts found.

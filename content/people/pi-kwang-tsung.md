@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-19
+last_reviewed: 2026-09-20
 ---
 # Pi-Kwang Tsung (曾碧光)
 
@@ -60,3 +60,4 @@ Beyond the directory entry, no memoir/article in the corpus currently names him;
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 - Re-grep 2026-09-19 (slice 09170600-28): corpus scan of works/articles again returns only this person's own TAH bibliographic record — no memoir or movement-activity material to absorb; existing links above stand, no conflicts found.
+- Re-grep 2026-09-20 (slice 09190400-11): re-confirmed — works/articles hits limited to own TAH #1260 record + index; SKIP, nothing absorbable.
