@@ -38,6 +38,7 @@ _No filled family fields on the TAH profile._
 ## Role in the Community
 - Entered the community record through the TAH Foundation Who's Who encyclopedia entry **1295. Stephen S. Chu 朱石象**, published 2016-10-02.
 - The corpus holds this as a bibliographic record only (band B); the full biography stays in the TAH vault, so no further community facts are absorbed here.
+- SKIP (2026-09-20, deepen-x slice 09181300-21): corpus re-grep for 朱石象/Stephen S. Chu returns only this entry's own index line (works/index.md) — no memoir or article mentions; nothing further absorbable.
 
 **Corpus records:** [[works/taiwaneseamericanhistory-org/whoswho1295|1295. Stephen S. Chu 朱石象 / 2016/10]]
 
