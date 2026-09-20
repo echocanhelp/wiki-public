@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-19
+last_reviewed: 2026-09-20
 ---
 # Min Ten Milton Lee (李明典)
 
@@ -54,3 +54,5 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+複核（deepen-x 2026-09-20）：corpus re-grep（works+articles）命中集合不變（dr-minten-lee、private-collections-84、whoswho972、videos71/72、publications999），全數已吸收並 wikilink，Dr. Ming Lee / Min-Ten (Milton) Lee 拼寫 HOLD 維持不合併，無新增社群材料。

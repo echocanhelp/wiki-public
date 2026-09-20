@@ -54,3 +54,5 @@ last_reviewed: 2026-09-20
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+複核（deepen-x 2026-09-20）：corpus re-grep（works+articles）命中 whoswho1344 及四篇 TJJ 引述（2021 雙十演說評述、陳昭南專欄兩版本、2025 晶片與鳳梨），全數已吸收並 wikilink；TAH 名錄記錄與 Rev. Shirley Lin 並列屬不同人，維持不合併。無新增社群材料。
