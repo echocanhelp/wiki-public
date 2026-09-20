@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-20
 ---
 # Polly Chang (何佩宜)
 
@@ -40,6 +40,10 @@ Heartland Institute Financial Education, CPP-College Planning Program
 ## Sources
 - [TAH #1172 encyclopedia: 1172. Polly Chang 何佩宜 / 2016/07](https://taiwaneseamericanhistory.org/whoswho1172/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/polly-chang/)
+
+## Related Pages
+- ## Corpus records
+- [[works/taiwaneseamericanhistory-org/whoswho1172|1172. Polly Chang 何佩宜 / 2016/07]] — her own TAH Who's Who record (2016-07-23). SKIP: no other corpus mentions; no independent community material to absorb.
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

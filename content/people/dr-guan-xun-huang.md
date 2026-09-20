@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-20
 ---
 # Dr. Guan-Xun Huang (黃冠勳博士)
 
@@ -38,6 +38,10 @@ _No filled family fields on the TAH profile._
 ## Sources
 - [TAH #2285 encyclopedia: 2285. Dr. Guan-Xun Huang 黃冠勳博士](https://taiwaneseamericanhistory.org/whos-who-2285-guan-xun-huang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-guan-xun-huang/)
+
+## Related Pages
+- ## Corpus records
+- [[works/taiwaneseamericanhistory-org/whos-who-2285-guan-xun-huang|2285. Dr. Guan-Xun Huang 黃冠勳博士]] — his own TAH Who's Who record (2020-10-12). SKIP: no other corpus mentions; no independent community material to absorb.
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
