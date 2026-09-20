@@ -33,6 +33,9 @@ last_reviewed: 2026-09-20
 
 - **Wife:** 王寶蓮
 
+## Role in the Community
+- Who's Who profile record in the TAH story corpus: [[works/taiwaneseamericanhistory-org/280-david-t-k-chen-e9-99-b3-e5-bb-b7-e6-a5-b7-e5-8d-9a-e5-a3-ab-201502|280. David T. K. Chen 陳廷楷 (2015)]].
+- HOLD: the two TaiwaneseAmerican.org film articles ([[works/taiwaneseamerican-org/sisterhood-of-night-catherine-huang|The Sisterhood of Night]], [[works/taiwaneseamerican-org/marilyn-fu|Marilyn Fu interview]]) mention an actor "David Chen" (grandpa role) and auto-link to this page, but give no surname-initial or other evidence identifying him as 陳廷楷 — likely a different person; attribution held, not absorbed.
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/david-t-k-chen/)

@@ -25,6 +25,10 @@ David Taka Yo (楊兆隆) is listed in the TAH Foundation Who’s Who Taiwanese 
 
 _No filled family fields on the TAH profile._
 
+## Role in the Community
+- Invited speaker at the Taiwanese American Cultural Society of the Capital District's annual activities (New York State Traditional Week lecture series), talk: 「台灣自古對世界的貢獻」 — recalled alongside 徐福棟, 林文政, 陳仲欽, 黃娟, 楊遠薰, 劉永斌 in the society's memoir history. See [[works/taiwaneseamericanhistory-org/ourjourneys311|首府區台美人運動回憶(中)]] and [[works/taiwaneseamericanhistory-org/our-journeys-391|Our Journeys #391 (EN)]].
+- Personal profile held in the TAH story corpus: [[works/taiwaneseamericanhistory-org/28-david-taka-yo-e6-a5-8a-e5-85-86-e9-9a-86|28. David Taka Yo 楊兆隆 (2014)]].
+
 ## Sources
 - [TAH #28 encyclopedia: 28. David Taka Yo 楊兆隆](https://taiwaneseamericanhistory.org/28-david-taka-yo-%e6%a5%8a%e5%85%86%e9%9a%86/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/david-taka-yo/)

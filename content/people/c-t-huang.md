@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-20
 ---
 # C. T. Huang (黃昭騰)
 
@@ -33,6 +33,10 @@ last_reviewed: 2026-08-17
 ## Family
 
 - **Wife:** 紀素月
+
+
+## Role in the Community
+- Carried in the TAH Who's Who corpus as [[works/taiwaneseamericanhistory-org/whoswho1512|1512. C. T. Huang 黃昭騰 / 2017/02]] (published 2017-02-19, bibliographic record). No other corpus trace found in works/articles; nothing further absorbable.
 
 
 ## Sources

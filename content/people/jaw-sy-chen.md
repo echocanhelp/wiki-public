@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-20
 ---
 # Jaw Sy Chen (陳昭司)
 
@@ -32,6 +32,11 @@ last_reviewed: 2026-08-17
 ## Family
 
 _No filled family fields on the TAH profile._
+
+## Role in the Community
+- Served as 會長 of the New York State Capital District Taiwanese Club (紐約首府區台灣同鄉會, later Taiwanese American Association of the Capital District) from 1982.5, per the club's own history of its officer line in [[works/taiwaneseamericanhistory-org/ourjourneys311|311. 紐約首府區台灣同鄉會及台美文化促進會簡介 / 陳仲欽 /09/2017]] (band A).
+- Own TAH biographical record: [[works/taiwaneseamericanhistory-org/whoswho1661|1661. Jaw Sy Chen 陳昭司 / 05/2017]].
+
 
 ## Sources
 - [TAH #1661 encyclopedia: 1661. Jaw Sy Chen 陳昭司 / 05/ 2017](https://taiwaneseamericanhistory.org/whoswho1661/)

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-20
 ---
 # Austin Ko
 
@@ -28,6 +28,10 @@ last_reviewed: 2026-08-17
 ## Employment
 - Oscar Insurance — 2016- — network contractor
 <!-- tah-tables:end -->
+
+## Role in the Community
+- National Programs Director, ITASA, 2014–2015 (TAH encyclopedia record [[works/taiwaneseamericanhistory-org/whoswho1603|1603. Austin Ko / 2017-04]]).
+- 2021-05 — signed the Taiwanese American community statement responding to Pew Research reports on Taiwanese identity ([[works/taiwaneseamerican-org/pew-research-center-taiwanese-american-statement|Pew response statement]]), listed alongside Mei-Shi Chu (NATWA), Barney Cheng, and others.
 
 ## Family
 
