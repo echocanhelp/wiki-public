@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-19
+last_reviewed: 2026-09-20
 ---
 # Taiwanese American Pen Club LA (台美人筆會)
 
@@ -24,6 +24,7 @@ The Taiwanese American Pen Club (TAPC) is a literary organization founded in 199
 - HOLD: work-page snapshots for #80/#82 carry Era 2014 in Identity Snapshot while titles give 2005/2007 — bibliographic metadata noise, not merged.
 - Disambiguation: the acronym "TAPC" also denotes 聖荷西台美基督長老教會 (Taiwanese American Presbyterian Church of San Jose) in corpus church writings, e.g. [[works/taiwaneseamericanhistory-org/our-journeys-350|Our Journeys #350]] — a separate organization, not the Pen Club.
 - The TAH directory entry itself is archived in-corpus: [[works/taiwaneseamericanhistory-org/taiwanese-american-pen-club-la|TAH organization archive: TAPC LA]].
+- 複核（deepen-x 2026-09-20）：corpus re-grep（台美人筆會 / Taiwanese American Pen Club，works+articles）命中集合不變（台美文藝系列 #80/#82/#333/#1365、#216 首任會長、目录存檔頁），全數已吸收並 wikilink — 無新增社群材料。
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-american-pen-club-la/)

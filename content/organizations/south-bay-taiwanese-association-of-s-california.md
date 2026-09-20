@@ -6,7 +6,7 @@ tags:
   - Taiwanese-American
   - Taiwan-Center-group-member
 verification_status: published
-last_reviewed: 2026-09-19
+last_reviewed: 2026-09-20
 ---
 # South Bay Taiwanese Association of S. California.
 
@@ -32,6 +32,8 @@ The corpus holds a run of community records for 南灣台灣同鄉會:
 - [[works/taiwaneseamericanhistory-org/585-e5-8c-97-e5-8a-a9-e5-b7-9e-e5-8d-97-e7-81-a3-e5-8f-b0-e7-81-a3-e5-90-8c-e9-8|585. 北加州南灣台灣同鄉會1993年刊]] (1993-12, 雜誌)
 - [[works/taiwaneseamericanhistory-org/11851|586. 北加州南灣台灣同鄉會1994會員名錄]] (1995-01, 雜誌)
 - [[works/taiwaneseamericanhistory-org/enews-northern-california-south-bay-taiwanese-association|TAH eNews: Northern California South Bay Taiwanese Association]] (2019-03-15)
+
+Corpus context for the 北加州 lineage: [[works/taiwaneseamericanhistory-org/our-journeys-350|350. 美國舊金山灣區台灣基督教會史料簡介 (何義麟, 2019)]] records that 協志會 created the youth group **South Bay Taiwanese Youth (SBTY)** in 1978-05, and that Bay Area hometown groups and churches federated into the **北加州台灣同鄉聯合會 (NCFF)** founded 1973-09 — the umbrella under which Northern California "South Bay" organizations operated. A sibling Bay Area body is separately recorded in the corpus: [[works/taiwaneseamericanhistory-org/south-east-bay-taiwanese-association-sebta|South East Bay Taiwanese Association (SEBTA)]].
 
 HOLD: conflict — this page lists the association as "of S. California" (Taiwan Center LA group-member listing), but all corpus records title it 北加州南灣台灣同鄉會 (Northern California). Whether these are the same body or two regional associations with the same Chinese name is unresolved; not merged.
 
