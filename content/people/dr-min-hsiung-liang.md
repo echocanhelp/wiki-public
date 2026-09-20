@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-17
+last_reviewed: 2026-09-20
 ---
 # Dr. Min Hsiung Liang (梁敏雄博士)
 
@@ -35,6 +35,7 @@ Dr. Min Hsiung Liang 梁敏雄博士 – History of Taiwanese American (T.A. Arc
 - The TAH profile additionally records him as President of the Taiwanese Association of America Houston Chapter, Secretary-General of WUFI-USA, and Vice Chairman of the Taiwanese Heritage Society of Houston; his own TAH encyclopedia entry is [[works/taiwaneseamericanhistory-org/whos-who-2088-min-hsiung-liang|TAH #2088 — Dr. Min Hsiung Liang 梁敏雄博士]].
 - HOLD: conflict on M.S. institution — TAH profile "Texas Univ., M.S. Physics" vs memoir "奥克拉荷馬大學物理碩士" (Univ. of Oklahoma). Not auto-merged.
 - HOLD: conflict on TAA role — memoir lists 理事 (board member) vs TAH table "Houston Chapter — President". Not auto-merged.
+- Corpus sweep 2026-09-20: grep of content/works + content/articles for 梁敏雄 / Min Hsiung Liang returned only [[works/taiwaneseamericanhistory-org/ourjourneys106|Our Journeys 106]], his own TAH entry [[works/taiwaneseamericanhistory-org/whos-who-2088-min-hsiung-liang|TAH #2088]], and the site index — all already absorbed above. No new community facts to absorb.
 
 ## Family
 
