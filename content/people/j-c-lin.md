@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-20
 ---
 # J. C. Lin (林震泉)
 
@@ -35,6 +35,23 @@ last_reviewed: 2026-08-17
 ## Family
 
 _No filled family fields on the TAH profile._
+
+## Role in the Community
+
+Corpus sweep (2026-09-20) found a single record: his own TAH Who's Who entry,
+[[works/taiwaneseamericanhistory-org/whoswho1671|1671. J. C. Lin 林震泉 / 05/2017]]
+(band B, self-submitted profile, 2017-05-21). No memoir, letter, or third-party
+mention in works/ or articles/.
+
+What the record supports: a Taiwanese engineer who settled in North Carolina —
+state-government engineer, then small-business owner (Glen Way Motel, Kenamy
+Apartment, 榮慶食品) — i.e. documented via the movement's own community
+directory rather than press material. No community-activity claims beyond that
+can be made from the corpus.
+
+## Timeline
+- 2017-05: profiled in the TAH Foundation Who's Who record
+  [[works/taiwaneseamericanhistory-org/whoswho1671|1671. J. C. Lin 林震泉 / 05/2017]].
 
 ## Sources
 - [TAH #1671 encyclopedia: 1671.  J. C. Lin 林震泉 / 05/2017](https://taiwaneseamericanhistory.org/whoswho1671/)

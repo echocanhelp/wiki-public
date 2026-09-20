@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-20
 ---
 # Kenneth P. Chen (陳秉虔博士)
 
@@ -35,6 +35,9 @@ last_reviewed: 2026-08-17
 - **Daughter:** Melinda
 - **Son:** Theodore
 
+## Role in the Community
+- While pursuing his Ph.D. at the University of Minnesota, he was one of five organizers (with 殷宗舜, 李春美, 蘇惠美, 謝伯芳) of the「Mpls 台灣人祈禱查經會」— a weekly Friday prayer/Bible-study and fellowship gathering for Taiwanese students in Minneapolis that began in autumn 1960 with about ten participants and grew to over twenty. Early Taiwanese student church fellowship in the Midwest ([[works/taiwaneseamericanhistory-org/ourjourneys-369|Our Journeys 369, community memoir]]).
+- Own TAH encyclopedia entry: [[works/taiwaneseamericanhistory-org/whos906-kenneth-p-chen|906. Kenneth P. Chen 陳秉虔]] (published 2016-03-25).
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/kenneth-p-chen/)

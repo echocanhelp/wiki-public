@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-20
 ---
 # C. H. Sun (孫曲回牧師)
 
@@ -36,6 +36,9 @@ last_reviewed: 2026-08-17
 
 - **Wife:** 康賽珠
 
+## Role in the Community
+- Ordained minister serving Taiwanese congregations in the U.S.: 基督衛理教會, Canaan Taiwanese Christian Church, and 北卡台福教會 (from 2016) — church leadership within the Taiwanese American community in North Carolina.
+- Own TAH encyclopedia entry: [[works/taiwaneseamericanhistory-org/whoswho1720|1720. C. H. Sun 孫曲回]] (published 2017-07-02). No further narrative detail in our corpus beyond this bibliographic record.
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/c-h-sun/)
