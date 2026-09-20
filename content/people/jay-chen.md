@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-19
+last_reviewed: 2026-09-20
 ---
 # Jay Chen (陳介飛)
 
@@ -42,6 +42,7 @@ Mt. SAC Board Chen2-Jay Chen of the Mt. SAC Board of Trustees January 13, 2016.
 - **公職參選的community紀錄**：TAHS（taiwaneseamerican.org）報導他參選聯邦眾議員的競選起跑 ([[works/taiwaneseamerican-org/jay-chen-kicks-off-run-for-congress|Jay Chen Kicks Off Run for Congress]]，2012-03-31) 與連任募款起跑 ([[works/taiwaneseamerican-org/re-election-kick-off-fundraiser-for-jay-chen|Re-election Kick-off Fundraiser for Jay Chen]]，2011-06-22)。
 - **學務參與**：社區媒體曾專文祝賀他當選學區委員 ([[works/taiwaneseamerican-org/celebrate-school-board-member-jay-chen|Celebrate School Board Member Jay Chen!]]，2010-02-23)。
 - 個人條目：[[works/taiwaneseamericanhistory-org/whoswho2079|TAH #2079 Jay Chen 陳介飛 / 03/2018]]。
+- 複核 2026-09-20：再 grep 全庫（陳介飛 / Jay Chen），命中僅上述四個 work 頁、其個人 TAH 條目與 works index — 以上已全數吸收，無新事實可加。
 
 ## Sources
 - [TAH #2079 encyclopedia: 2079. Jay Chen 陳介飛 / 03/2018](https://taiwaneseamericanhistory.org/whoswho2079/)
