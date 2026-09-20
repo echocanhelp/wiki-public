@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-20
 ---
 # S. Y. Liu (劉淑媛)
 
@@ -32,6 +32,9 @@ last_reviewed: 2026-08-17
 - **Daughter:** Lilian (溫俐玲)
 - **Son:** Alvin (溫宏明)
 
+
+## Role in the Community
+- Her TAH Foundation Who's Who encyclopedia record is held in the corpus as [[works/taiwaneseamericanhistory-org/whos-who-1846-s-y-liu|1846. S. Y. Liu 劉淑媛]] (published 2017-08-15, band B). Other corpus "Shu-Yuan" hits (159/389 賴淑媛, 蔡淑媛 private collections) are different people — not merged. No community-activity facts absorbable beyond the encyclopedia record.
 
 ## Sources
 - [TAH #1846 encyclopedia: 1846. S. Y. Liu 劉淑媛](https://taiwaneseamericanhistory.org/whos-who-1846-s-y-liu/)

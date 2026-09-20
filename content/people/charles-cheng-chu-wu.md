@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-20
 ---
 # Charles Cheng-Chu Wu (吳政智)
 
@@ -31,6 +31,9 @@ last_reviewed: 2026-08-17
 ## Family
 
 _No filled family fields on the TAH profile._
+
+## Role in the Community
+- His TAH Foundation Who's Who encyclopedia record is held in the corpus as [[works/taiwaneseamericanhistory-org/whoswho1802|1802. Charles Cheng-Chu Wu 吳政智 / 07/2017]] (published 2017-07-30, band B). No mention found in the memoir/article corpus (checked 吳政智 / Charles Cheng-Chu Wu / Cheng-Chu) — the record stays at the encyclopedia entry; no invented biography.
 
 ## Sources
 - [TAH #1802 encyclopedia: 1802. Charles Cheng-Chu Wu 吳政智 / 07/2017](https://taiwaneseamericanhistory.org/whoswho1802/)

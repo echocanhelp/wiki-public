@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-20
 ---
 # S. H. Shang (商夏會)
 
@@ -31,6 +31,9 @@ last_reviewed: 2026-08-17
 
 - **Husband:** [[people/peter-su||蘇國雄]]
 
+
+## Role in the Community
+- SKIP-with-reason: corpus grep 僅見於本人傳記書目頁 [[works/taiwaneseamericanhistory-org/1162-s-h-shang-e5-95-86-e5-a4-8f-e6-9c-83-201607|TAH #1162 商夏會 / 2016-07]] 及 works/index，回憶錄/社運文本無可吸收之社群事實。
 
 ## Sources
 - [TAH #1162 encyclopedia: 1162. S. H. Shang 商夏會 / 2016/07](https://taiwaneseamericanhistory.org/1162-s-h-shang-%e5%95%86%e5%a4%8f%e6%9c%83-201607/)
