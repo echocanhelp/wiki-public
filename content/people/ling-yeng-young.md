@@ -40,9 +40,9 @@ last_reviewed: 2026-09-18
 
 ## Role in the Community
 
-- Held in the TAH corpus under both identities — as a Who's Who subject [[works/taiwaneseamericanhistory-org/whos65-ling-yeng-young|65. Ling-Yeng Young 陳玲瑛]] (2014-10-19), and as a community artist [[works/taiwaneseamericanhistory-org/artist26ling-yeng-chen|26. 陳玲瑛 Ling Yeng Chen]] (artist entry, 2015-01-10).
-- Creative work documented in the corpus: her 書畫集 (calligraphy and painting collection, 2007-02) is held as [[works/taiwaneseamericanhistory-org/publications354|354. 陳玲瑛書畫集 / Art 藝術]] — corroborates the artist role on this page.
-- No memoir or article material about her exists in the corpus beyond these TAH records.
+- Held in the TAH corpus under both identities — as a Who's Who subject [[works/taiwaneseamericanhistory-org/whos65-ling-yeng-young|65. Ling-Yeng Young 陳玲瑛]] (record dated 2014-10-19), and as a community artist [[works/taiwaneseamericanhistory-org/artist26ling-yeng-chen|26. 陳玲瑛 Ling Yeng Chen]] (artist entry, record dated 2015-01-10).
+- Creative work documented in the corpus: her 書畫集 (calligraphy and painting collection) is held as [[works/taiwaneseamericanhistory-org/publications354|354. 陳玲瑛書畫集 / Art 藝術]] (record dated 2014-11-27; TAH listing gives the collection itself as 2007-02 — HOLD: catalog date 2014-11-27 vs work date 2007-02) — corroborates the artist role on this page.
+- No memoir or article material about her exists in the corpus beyond these TAH records (all three are bibliographic records only).
 
 ## Sources
 - [TAH #26 encyclopedia: 26. 陳玲瑛 Ling Yeng Chen](https://taiwaneseamericanhistory.org/artist26ling-yeng-chen/)

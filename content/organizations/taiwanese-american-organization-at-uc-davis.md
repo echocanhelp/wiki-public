@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-18
+last_reviewed: 2026-09-20
 ---
 # Taiwanese American Organization at UC Davis
 
@@ -21,6 +21,10 @@ The Taiwanese American Organization (TAO) at UC Davis is a cultural and social s
 ## Corpus Check (deepen-x 09170900-21)
 
 SKIP-with-reason: corpus scan found only incidental UC Davis mentions predating this club (e.g. the 10th WFTA annual meeting hosted at UC Davis in 1983 by TAFNC — a different, older event unrelated to TAO, founded ~2011). No primary material about TAO itself; nothing absorbable without inventing history. The page's own claim that "TASA" was already taken links to the existing Davis campus pages below.
+
+## Role in the Community (deepen-x 09180900-24)
+
+- Absorbed: the community newsletter records an event run by the club — "Shaved Ice Night" at UC Davis, 2013-03-13, published in taiwaneseamerican.org: [[works/taiwaneseamerican-org/shaved-ice-night-with-tao-at-uc-davis|Shaved Ice Night with TAO at UC Davis]]. This corroborates that TAO was active on the Davis campus by March 2013, consistent with the ~2011 founding claim on this page (no conflict to HOLD).
 
 ## Related Pages
 - [[organizations/taiwanese-student-association-at-uc-davis|Taiwanese Student Association at UC Davis]]

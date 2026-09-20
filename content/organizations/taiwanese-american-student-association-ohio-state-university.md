@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-18
+last_reviewed: 2026-09-20
 ---
 # Taiwanese American Student Association @ Ohio State University
 
@@ -20,6 +20,8 @@ The Taiwanese American Student Association (TASA) at The Ohio State University i
 
 ## Role in the Community
 - Community memoirs in the archive recall the **Ohio State University Taiwanese Association** as one of "the two most typical examples" (with the University of Texas at Austin Taiwanese Association) of the ~1970 campus Taiwanese-association wave: students broke away from Chinese Student Associations they saw as controlled by the consulate and the Kuomintang. See [[works/taiwaneseamericanhistory-org/ourjourneys76-eng|Our Journeys 76 (EN)]].
+- An OSU team competed in the first Midwest Taiwanese softball tournament (1973-06-16/17, Purdue), among 11 teams — evidence of an organized OSU Taiwanese student community by 1973. See [[works/taiwaneseamericanhistory-org/our-journeys-376|Our Journeys 376]].
+- The archive also holds a 2016 newsletter record (會訊) by **OSU Taiwanese Student Association 哥城台灣同學會**, showing the group active under that name in the mid-2010s — see [[works/taiwaneseamericanhistory-org/osu-taiwanese-student-association|OSU Taiwanese Student Association 會訊]].
 - HOLD: whether today's registered TASA continues that 1970-era organization is not established on first-party sources; the founding year remains unstated.
 
 ## Sources
