@@ -43,6 +43,8 @@ Work pages touched:
 - [[works/taiwaneseamerican-org/lunchbox-anne-hu-release|Lunchbox — Anne Hu release interview]]
 - [[works/taiwaneseamericanhistory-org/whos-who-2295-anna-lee|TAH #2295. Anna Lee 李宛蓉]]
 
+Corpus sweep 2026-09-20: the only works mentioning her are the two above, already absorbed — no additional community facts to add.
+
 ## Sources
 - [TAH #2295 encyclopedia: 2295. Anna Lee 李宛蓉](https://taiwaneseamericanhistory.org/whos-who-2295-anna-lee/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/anna-lee/)
