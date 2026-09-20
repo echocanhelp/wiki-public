@@ -33,6 +33,7 @@ last_reviewed: 2026-09-19
 <!-- tah-tables:end -->
 
 ## Role in the Community
+- 明州「台灣攤」核心義工：自1990年起與陳秀芳、曾啟明、張麗惠夫婦、王明基等陸續加入萬國節（Festival of Nations）台灣攤團隊（團隊自稱「死黨」），十數年年年自告奮勇向萬國節觀眾行銷台灣名字；2012-05-06 台灣攤得獎，賴瑞宏親自電話報喜。見 [[works/taiwaneseamericanhistory-org/ourjourneys15|15. 點滴回顧明州文化展／吳朱實／2014/09]]。
 - Per the Minnesota chapter memoir [[works/taiwaneseamericanhistory-org/ourjourneys123|明州台美人百年大事（曾啟明）]], Lai served as **會長 of the Minnesota Taiwanese Association (台美人同鄉會) in 1998**.
 - 1998-02: the chapter's 同鄉會 co-hosted the reception for 林懷民's 雲門舞集 performance of《流浪者之歌》at the University of Minnesota Northrop Auditorium.
 - 1998-12: at a family gathering Lai introduced the memorial essay collection《懷念張麗惠》(twenty illustrated tribute articles) to Taiwanese and American friends.

@@ -27,7 +27,9 @@ NATPA Southern California sits within the wider NATPA network documented in the 
 - The association's annual meeting has been held jointly with the 美南台灣人夏令會, recorded in the 2012 joint special issue [[works/taiwaneseamericanhistory-org/919-e7-be-8e-e5-8d-97-e5-8f-b0-e7-81-a3-e4-ba-ba-e5-a4-8f-e4-bb-a4-e6-9c-83-e6-9||919. 美南台灣人夏令會暨北美洲台灣人教授協會年會特刊 2012]] — the Southern California chapter operates in this 美南 community milieu.
 - NATPA publishes its own newsletter, [[works/taiwaneseamericanhistory-org/natpa-forum-by-north-america-taiwanese-professors-association-natpa||NATPA FORUM]].
 
-HOLD: no corpus record names the Southern California (南加分會) chapter itself; chapter-specific founding date and officers remain unconfirmed. Corpus mentions of a 南加分會 (e.g. the 2007 年會特刊 [[works/taiwaneseamericanhistory-org/849-e5-8c-97-e7-be-8e-e6-b4-b2-e5-8f-b0-e7-81-a3-e4-ba-ba-e9-86-ab-e5-b8-ab-e5-8|849. NATMA 南加分會暨總會年會特刊 2007]] and the 2017 傳統月 牙科義診/CPR 記者會 record [[works/taiwaneseamericanhistory-org/videos59|大洛杉磯台美人傳統月 NATMA 南加分會記者會 20170503]]) belong to the sibling physicians' association NATMA (北美洲台灣人醫師協會), not NATPA — do not conflate the two 南加分會.
+- 2019 — the TAH story corpus holds a dedicated activity record for the chapter: [[works/taiwaneseamericanhistory-org/north-american-taiwanese-professors-association-napta-south-ca-chapter|北美洲台灣人教授協會南加州分會的活動 (NATPA S CAL, 2019-02-26)]] — bibliographic record only; full text remains in the vault.
+
+HOLD: chapter-specific founding date and officers remain unconfirmed; the 2019 record above documents activity but not charter. Corpus mentions of a 南加分會 (e.g. the 2007 年會特刊 [[works/taiwaneseamericanhistory-org/849-e5-8c-97-e7-be-8e-e6-b4-b2-e5-8f-b0-e7-81-a3-e4-ba-ba-e9-86-ab-e5-b8-ab-e5-8|849. NATMA 南加分會暨總會年會特刊 2007]] and the 2017 傳統月 牙科義診/CPR 記者會 record [[works/taiwaneseamericanhistory-org/videos59|大洛杉磯台美人傳統月 NATMA 南加分會記者會 20170503]]) belong to the sibling physicians' association NATMA (北美洲台灣人醫師協會), not NATPA — do not conflate the two 南加分會.
 
 ## Source Notes
 
