@@ -1,45 +1,45 @@
-## Queue drain — 2026-09-19
+## Queue drain — 2026-09-20
 - Items: **40**
 
 - `people/chen-po-kong.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 - `people/du-ao-cunfu.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 - `people/yuan-zhihui.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 - `people/chao-sile.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
-- `organizations/tyzen-hsiao-foundation.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
-- `people/zai-xing-wang.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
-- `people/rev-sheng-to-shih.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
-- `people/jolan-hsieh.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
-- `people/ralph-su.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
-- `people/rev-h-d-chen.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
-- `people/kin-ko.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
-- `people/rev-s-y-lin.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
-- `people/carol-ou-lin.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
-- `people/kelvin-yu.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 - `people/fan-jiang-ti-ang.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 - `people/li-jian.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 - `people/lin-baohua.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 - `people/yang-yueqing.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 - `people/guan-renjian.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 - `people/huang-diyin.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
-- `events/sc-taiwancenter-org-event-2026-tai-wan-hui-guan-nian-hui.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 - `people/nanfang-shuo.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 - `people/sang-pu.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 - `people/wang-qiaoling.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 - `people/zou-jingwen.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 - `people/wang-shufen.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 - `people/xia-ming.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
-- `people/yang-yuanxun.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 - `people/bai-peiyu.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 - `people/tang-peili.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 - `people/li-xiaofeng.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 - `people/zheng-wenlong.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 - `people/ye-siya.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 - `people/zhang-xinhui.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
-- `events/ev-4de195c6a5.md`: add last_reviewed, WROTE
-- `events/ev-91e8cdad65.md`: add last_reviewed, WROTE
-- `events/ev-c3e523ceea.md`: add last_reviewed, WROTE
-- `events/ev-d6e9be681e.md`: add last_reviewed, WROTE
-- `events/ev-c3f5d15344.md`: add last_reviewed, WROTE
-- `events/ev-77317ce689.md`: add last_reviewed, WROTE
+- `events/ev-87fe1881b2.md`: add last_reviewed, WROTE
+- `events/ev-824a2204ea.md`: add last_reviewed, WROTE
+- `events/ev-3265d6f262.md`: add last_reviewed, WROTE
+- `events/sc-taiwancenter-org-event-2025-annual-gala-fundraising-dinner.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
+- `events/sc-taiwancenter-org-event-2025-miss-taiwan-usa-news.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
+- `events/sc-taiwancenter-org-event-2025-traditional-week.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
+- `events/sc-taiwancenter-org-event-2026-luo-shan-ji-tai-mei-ren-chuan-tong-zhou.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
+- `events/sc-taiwancenter-org-event-228-memorial-commemoration-ceremony.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
+- `events/sc-taiwancenter-org-event-calendar.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
+- `events/sc-taiwancenter-org-event-construction-progress-of-the-building.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
+- `events/sc-taiwancenter-org-event-groundbreaking-ceremony.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
+- `events/sc-taiwancenter-org-event-she-li-guo-cheng-zhao-pian.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
+- `events/sc-taiwancenter-org-event-taiwan-joining-who.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
+- `events/sc-taiwancenter-org-event-thanksgiving-dinner.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
+- `events/sc-taiwancenter-org-event-xin-guan-shi-nei-she-ji-kong-jian-yu-gui-hua.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
+- `people/albert-zh-sku-b-publisher-review.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
+- `people/george-lee.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
+- `people/prof-sze-ya-yeh.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 
 Fail-closed first-mention is AUTO (janitor). HOLD leftover ≠ human body-link batch.

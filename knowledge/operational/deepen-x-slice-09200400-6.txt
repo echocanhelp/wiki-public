@@ -1,0 +1,4 @@
+people/peggy-cooley.md
+people/beatrice-long.md
+people/rev-burton-tan.md
+people/chun-chiu.md

@@ -1,12 +1,17 @@
 ### Review gate: generated cards
-- Generated cards: 6 (from /home/leedt/echo-system/knowledge/operational/evaluated/2026-09-13.json)
-- Priorities: {'high': 1, 'medium': 4, 'low': 1}
-- Playbooks: {'P8': 6}
+- Generated cards: 40 (from /home/leedt/echo-system/knowledge/operational/evaluated/2026-09-20.json)
+- Priorities: {'high': 14, 'medium': 26}
+- Playbooks: {'P8': 31, 'P3': 9}
 
-  [HIGH] [HIGH] chungchin-chen: Ensure the first paragraph mentions the page subject
-  [MEDIUM] [MEDIUM] chungchin-chen: Break up long sentences
-  [MEDIUM] [MEDIUM] dr-chi-wan-lai: Ensure the first paragraph mentions the page subject
-  [MEDIUM] [MEDIUM] dr-chi-wan-lai: UNKNOWN_FINDING_TYPE
-  [MEDIUM] [MEDIUM] dr-mike-kuo: Ensure the first paragraph mentions the page subject
-  [LOW] [LOW] dr-mike-kuo: Break up long sentences
+  [HIGH] [HIGH] north-america-taiwanese-womens-association: Add ## History section
+  [HIGH] [HIGH] north-america-taiwanese-womens-association: Break up long sentences
+  [HIGH] [HIGH] north-america-taiwanese-womens-association: Break up long sentences
+  [HIGH] [HIGH] tsung-ming-hsieh: Ensure the first paragraph mentions the page subject
+  [HIGH] [HIGH] tzutsai-cheng: Ensure the first paragraph mentions the page subject
+  [HIGH] [HIGH] tzutsai-cheng: UNKNOWN_FINDING_TYPE
+  [HIGH] [HIGH] michael-fonte: Add type: to frontmatter
+  [HIGH] [HIGH] bi-khim-hsiao: Ensure the first paragraph mentions the page subject
+  [HIGH] [HIGH] john-lin: Ensure the first paragraph mentions the page subject
+  [HIGH] [HIGH] ming-tsuang: Ensure the first paragraph mentions the page subject
+  ... and 30 more
 

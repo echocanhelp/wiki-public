@@ -1,4 +1,4 @@
-TAHS · Echopedia morning brief — 2026-09-19
+TAHS · Echopedia morning brief — 2026-09-20
 1 NEED YOU item(s) below; the rest is auto-handled.
 
 🔴 NEED YOU (your judgment only)
@@ -31,7 +31,7 @@ TAHS · Echopedia morning brief — 2026-09-19
 🟡 QUEUE 11 pages WIP/incomplete
 
 🟡 QUEUE / link suggestions (disk)
-ℹ️  INFO  top tips below · full pairs on disk (~12831 scored)
+ℹ️  INFO  top tips below · full pairs on disk (~13372 scored)
 
 🟡 QUEUE / optional link tips (≤5, not NEED YOU)
 🟡 QUEUE 1. Link tip: organizations/taiwanese-american-council-of-greater-new-york.md ↔ people/dr-pofu-hsieh.md
@@ -41,12 +41,12 @@ TAHS · Echopedia morning brief — 2026-09-19
 🟡 QUEUE 5. Link tip: people/rev-thomas-h-chen.md ↔ people/thomas-shu.md
 
 ℹ️ SITE (wiki visits; operator self-traffic excluded)
-ℹ️  INFO  wiki 56 visits since cutoff · yday 2026-09-18 = 0 · /people/gwhyneth-chen 12, /people/albert-zh-sku-b-publisher-review 9, /people/lester-tsai 5
+ℹ️  INFO  wiki 59 visits since cutoff · yday 2026-09-19 = 3 · /people/gwhyneth-chen 12, /people/albert-zh-sku-b-publisher-review 9, /people/lester-tsai 5
 
 ✅ AUTO (overnight — evidence)
-✅ AUTO related-pages 1
-✅ AUTO analyzer scanned 2899 queued 9 suppressed 1947
-🟡 QUEUE janitor HOLD leftover 34
-🟡 QUEUE kanban blocked 67
+✅ AUTO related-pages 13
+✅ AUTO analyzer scanned 2905 queued 18 suppressed 1922
+🟡 QUEUE janitor HOLD leftover 37
+🟡 QUEUE kanban blocked 65
 🔴 NEED YOU cron fail: echopedia-nightly-audit, echopedia-ci-heal
 ℹ️  INFO  only 🔴 NEED YOU requires your reply

@@ -1,6 +1,6 @@
 # Echopedia System Status
 
-*Generated: 2026-09-19 04:36 PDT*
+*Generated: 2026-09-20 04:27 PDT*
 
 ## Orientation
 - **Entry:** go <plain language> via go-router (auto-route) · **Control:** [CONTROL.md](CONTROL.md)
@@ -15,22 +15,22 @@
 - **L2 auto-publish on drift:** True
 - **L3 auto-push when green:** True
 - **Last good deploy:** `5cde2b2824`
-- **Last night (ledger):** related-pages 1 · analyzer scanned 2898 queued 7 suppressed 1945 · 🟡 QUEUE janitor HOLD leftover 40 · 🟡 QUEUE kanban blocked 117
+- **Last night (ledger):** related-pages 1 · analyzer scanned 2899 queued 9 suppressed 1947 · 🟡 QUEUE janitor HOLD leftover 34 · 🟡 QUEUE kanban blocked 67 · 🔴 NEED YOU cron fail: echopedia-nightly-audit, echopedia-ci-heal
 - **Track SSOT:** `knowledge/operational/intelligence/autonomy-ledger.json`
 
 ## Content
-|- **Tier1 pages:** 2865 (people 2405 / orgs 429 / sources 31) · Tier2 archive: 29103
-|- **Janitor queue depth:** 49
-|- **Uncommitted files:** 0
+|- **Tier1 pages:** 2871 (people 2407 / orgs 430 / sources 34) · Tier2 archive: 29103
+|- **Janitor queue depth:** 57
+|- **Uncommitted files:** 78
 
 ## Self-improvement pipeline (Scout → Filter → Extract → Evaluate → Generate → Review)
 || Stage | Script | Last run | Output |
 ||-------|--------|----------|--------|
 || Scout | echopedia-scout-live | 04:05 local | 44 checked, 0 broken, 0 slow |
-|| Filter | echopedia-content-analysis | 03:05 local | 2899 scanned, 9 queued |
+|| Filter | echopedia-content-analysis | 03:05 local | 2905 scanned, 18 queued |
 || Extract | echopedia-extract-actions | 04:15 local | knowledge/operational/extracted/ |
 || Evaluate | echopedia-evaluate-actions | 04:20 local | knowledge/operational/evaluated/ |
-|| Generate | echopedia-generate-cards | 04:25 local | 19 cards |
+|| Generate | echopedia-generate-cards | 04:25 local | 40 cards |
 || Review | weekly-improvement | Sun 07:05 local | improvement-brief.md |
 || Human | vault-morning-brief | 07:55 local | NEED YOU ≤5 |
 
@@ -55,37 +55,37 @@ Load skill **echopedia-ops** first for any wiki work.
 ```
     Name:      cron-output-rotate
     Schedule:  15 3 * * *
-    Last run:  2026-09-19T03:15:07.003665-07:00  ok
+    Last run:  2026-09-20T03:15:07.059434-07:00  ok
     Name:      vault-morning-brief
     Schedule:  0 7 * * *
-    Last run:  2026-09-18T07:01:04.533484-07:00  ok
+    Last run:  2026-09-19T07:00:53.756976-07:00  ok
     Name:      vllm-thermal-scaler
     Schedule:  every 1m
-    Last run:  2026-09-19T04:36:09.531410-07:00  ok
+    Last run:  2026-09-20T04:25:39.745376-07:00  ok
     Name:      Echopedia content analysis
     Schedule:  10 1 * * *
-    Last run:  2026-09-19T01:11:25.930001-07:00  ok
+    Last run:  2026-09-20T01:11:00.726201-07:00  ok
     Name:      unified-watchdog
     Schedule:  every 30m
-    Last run:  2026-09-19T04:09:07.602613-07:00  ok
+    Last run:  2026-09-20T04:24:08.103509-07:00  ok
     Name:      echopedia-digest
     Schedule:  20 6 * * *
-    Last run:  2026-09-18T06:20:44.101522-07:00  ok
+    Last run:  2026-09-19T06:20:28.943165-07:00  ok
     Name:      memory-audit
     Schedule:  50 4 * * *
-    Last run:  2026-09-18T04:50:56.219476-07:00  ok
+    Last run:  2026-09-19T04:50:45.774419-07:00  ok
     Name:      echopedia-nightly-audit
     Schedule:  15 1 * * *
-    Last run:  2026-09-19T01:49:30.882351-07:00  error: Interrupted by shutdown before terminal completion.
+    Last run:  2026-09-20T01:50:15.516177-07:00  error: Script execution failed: 'utf-8' codec can't decode bytes in position 3727-3728: invalid continuation byte  (2 failures in a row)
     Name:      echopedia-janitor
     Schedule:  30 1 * * *
-    Last run:  2026-09-19T01:41:29.744149-07:00  ok
+    Last run:  2026-09-20T01:41:09.068292-07:00  ok
     Name:      echopedia-weekly-improvement
     Schedule:  0 6 * * 0
     Last run:  2026-09-13T06:16:19.976482-07:00  ok
     Name:      echopedia-ci-heal
     Schedule:  25 4 * * *
-    Last run:  2026-09-18T04:53:58.085172-07:00  ok
+    Last run:  2026-09-19T04:37:43.313883-07:00  error: Interrupted by shutdown before terminal completion.
     Name:      echopedia-site-design
     Schedule:  30 4 * * *
     Last run:  2026-09-19T04:30:42.413424-07:00  ok

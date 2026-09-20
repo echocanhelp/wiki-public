@@ -1,0 +1,4 @@
+organizations/hsu-shih-memorial-foundation.md
+people/david-k-wang.md
+people/christopher-lin.md
+people/patrick-wang.md

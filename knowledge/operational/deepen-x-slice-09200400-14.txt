@@ -1,0 +1,4 @@
+organizations/los-angeles-life-forum.md
+people/y-l-lin.md
+people/s-i-tom-tsai.md
+people/simon-c-kuo.md
