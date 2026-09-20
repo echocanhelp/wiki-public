@@ -53,6 +53,7 @@ M.S., Aerospace Engineering; Ph.D. Course Program
 - Longtime documentarian/editor of the Greater New York Taiwanese community: photographed and edited the Oversea Taiwanese Pen Club (海外台灣人筆會) record for the region ([[works/taiwaneseamericanhistory-org/photo-albums-activities-35|大紐約區海外台灣人筆會攝影專輯, 2015-01]]) and wrote its 10th-anniversary piece ([[works/taiwaneseamericanhistory-org/ourjourneys12|大紐約區海外台灣人筆會十週年, 2014-09]]).
 - His personal holdings are archived in the TAH corpus as a private collection ([[works/taiwaneseamericanhistory-org/private-collections-31|31. Collection of Prof. Kin Ko 柯金寅教授的收藏]]).
 - Wrote on community affairs: employment guidance for Taiwanese students staying in the US ([[works/taiwaneseamericanhistory-org/ourjourneys219|留美台灣青年就業座談會, 2016-04]]) and a memorial for Dr. Ting Pao-ting ([[works/taiwaneseamericanhistory-org/mystories-744|悼念鄭寶鼎博士, 2020-09]]).
+- 報導紐澤西台語教師研習會（2014-08-30~09-01，北澤西佳壇台語教會，僑務委員蔡榮聰醫師主辦，台語專家鄭安住主講〈台語文之美妙〉，八十多位鄉親參與，協辦含北澤西台灣同鄉會與大紐約區海外台灣人筆會）— [[works/taiwaneseamericanhistory-org/ourjourneys42|42. 《台語文之美妙》紐澤西台灣人社團舉辦台語教師研習會, 2014-10]]。
 
 ## From the record
 
