@@ -7,9 +7,9 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-19
+last_reviewed: 2026-09-20
 ---
-<!-- deepen-x slice 09170400-20: SKIP — corpus grep hits only the person's own TAH Who's Who bibliographic record (works/taiwaneseamericanhistory-org/whoswho1180.md); no memoir/community material to absorb. -->
+<!-- deepen-x slice 09190300-11: SKIP — re-grepped works+articles for 謝若蘭/Jolan Hsieh: hits are only the own TAH Who's Who record (works/taiwaneseamericanhistory-org/whoswho1180.md), a PCT network listing, and index pages; no memoir/community material to absorb. -->
 # Jolan Hsieh (謝若蘭)
 
 ## Identity Snapshot

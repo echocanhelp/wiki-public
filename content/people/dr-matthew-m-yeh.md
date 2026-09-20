@@ -7,8 +7,9 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-19
+last_reviewed: 2026-09-20
 ---
+<!-- deepen-x slice 09190300-11: SKIP — corpus grep for 葉孟哲/Matthew M. Yeh (works+articles) hits only the own TAH Who's Who record (works/taiwaneseamericanhistory-org/whos-who-2000-matthew-m-yeh.md) and index pages; no memoir/community material to absorb. -->
 # Dr. Matthew M. Yeh (葉孟哲醫師)
 
 ## Identity Snapshot

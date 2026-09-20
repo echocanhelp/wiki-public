@@ -7,8 +7,9 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-19
+last_reviewed: 2026-09-20
 ---
+<!-- deepen-x slice 09190300-11: SKIP — corpus grep for 黃慶安/Andy Hwang (works+articles) hits only the own TAH Who's Who record (works/taiwaneseamericanhistory-org/whos-who-2286-andy-hwang.md) and index pages; no memoir/community material to absorb. -->
 # Dr. Andy Hwang (黃慶安博士)
 
 ## Identity Snapshot
