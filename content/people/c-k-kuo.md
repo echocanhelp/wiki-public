@@ -30,6 +30,11 @@ last_reviewed: 2026-09-20
 
 _No filled family fields on the TAH profile._
 
+## Role in the Community
+- Speaker on political topics at the 美東南區台灣人夏令會 (Southern US Taiwanese Conference) in 1996 (18th, Chattanooga, theme 「台美連心，踏入國際舞台」) and 1997 (19th, University of Georgia, theme 「九七後台灣的處境與展望」), per the conference history by 劉格正: [[works/taiwaneseamericanhistory-org/ourjourneys245|245. 美東南區台灣人夏令會簡史]].
+- Who's Who profile recorded by TAH (2017/01): [[works/taiwaneseamericanhistory-org/whos-who-1480-c-k-kuo|1480. C. K. Kuo 郭重國]].
+- Corpus sweep note: remaining grep hits (Kuo-Ming-Tang, 偏重國防, 重創) are false positives; no further memoir material found.
+
 ## Sources
 - [TAH #1480 encyclopedia: 1480.  C. K. Kuo 郭重國](https://taiwaneseamericanhistory.org/whos-who-1480-c-k-kuo/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/c-k-kuo/)

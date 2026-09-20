@@ -6,9 +6,11 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-20
 ---
 # 陳國明
+
+<!-- deepen-x: SKIP 2026-09-20 — corpus sweep (works/articles) found only the TAH bibliographic record and unrelated namesakes (a 北京 resident in a 2025 news article, Kuo-Ming-Tang false positive); no memoir/community material to absorb. -->
 
 ## Identity Snapshot
 - **English:** —
