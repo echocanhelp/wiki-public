@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-18
+last_reviewed: 2026-09-20
 ---
 # Dr. Chen-Ho Wu (吳振和博士)
 
@@ -39,7 +39,7 @@ _No filled family fields on the TAH profile._
 
 ## Role in the Community
 
-- Co-founder of the Taiwanese American Center of Northern California (TACNC): named among the twelve preparation-committee organizers (with 陳德輝, 張信行, 邱俊邦, 翁嘉盛, 石清正, 施天墩, 陳光博, 李華林, 張祿生 and others) recruited to stand up the first Bay Area 台灣會館, opened May 2003 in Fremont ([[works/taiwaneseamericanhistory-org/ourjourneys24-eng|Our Journeys #24 — TACNC founding memoir (EN)]]); the Chinese account lists 吳振和 among the directors who joined from 2008 onward and "gave money and labor without seeking return" ([[works/taiwaneseamericanhistory-org/ourjourneys53|Our Journeys #53 — 台灣會館 memoir]]).
+- Co-founder of the Taiwanese American Center of Northern California (TACNC): named among the twelve preparation-committee organizers (with 陳德輝, 張信行, 邱俊邦, 翁嘉盛, 石清正, 施天墩, 陳光博, 李華林, 張祿生 and others) recruited to stand up the first Bay Area 台灣會館, opened May 2003 in Fremont ([[works/taiwaneseamericanhistory-org/ourjourneys24-eng|Our Journeys #24 — TACNC founding memoir (EN)]]); founder 高淑貞's account names him among the like-minded friends — those "who had contributed money and effort all year round" — she convened onto the preparation committee after announcing the Center at the Federation's 30th-anniversary celebration; the Chinese account lists 吳振和 among the directors who joined from 2008 onward and "gave money and labor without seeking return" ([[works/taiwaneseamericanhistory-org/ourjourneys53|Our Journeys #53 — 台灣會館 memoir]]).
 - The founding memoir's English account names him among the board members who "gradually joined us over the years" after TACNC's first Fremont building opened in 2003 — listed with 林金塘, 吳業明, Henry Wu, 李信宏 and others as giving "their money and time without expecting any rewards" ([[works/taiwaneseamericanhistory-org/ourjourneys53-eng|Our Journeys #53 — TACNC memoir (EN)]]). HOLD: conflict on when 吳振和 joined the board — the Chinese account frames post-2008 directors, the English memoir says "gradually over the years" without a date.
 - Entrepreneurial record in Silicon Valley: his company 光林電子 (Leotek Electronics) began manufacturing LED traffic lights in 1998 and reached ~20% market share, ranked third, per the Silicon Valley Taiwanese entrepreneurs chapter ([[works/taiwaneseamericanhistory-org/ourjourneys19|Our Journeys #19]]).
 - His own life sketch is preserved in the TAH collection ([[works/taiwaneseamericanhistory-org/mystories82|TAH #82 — 吳振和人生簡述, 2014]]) and a 2008/09 interview recorded by 國史馆 ([[works/taiwaneseamericanhistory-org/publications761|TAH #761 — 吳振和訪談錄, 國史館 2008/09]]).

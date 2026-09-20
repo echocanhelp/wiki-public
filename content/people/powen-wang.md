@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-18
+last_reviewed: 2026-09-20
 ---
 # Powen Wang (王博文)
 
@@ -23,7 +23,7 @@ Accomplishment
 1. President of Taiwanese Association of America, Greater Philadelphia Chapter (大費城台灣同鄉會會長) 1988-1989, 2004
 
 ## Role in the Community
-- **UFAI founding member, 1966.** The movement memoirs place 王博文 among the 台灣獨立聯盟 (UFI) delegates — with 陳以德、羅福全、蘇金春 — at the 1966-06-18 Philadelphia talks that merged UFI and the 台灣問題研究会 (FASG) and resolved to found the 全美台灣獨立聯盟 (UFAI) on 1966-07-04; most members, 王博文 included, served as secret members (秘密盟員) ([[works/taiwaneseamericanhistory-org/ourjourneys81|TAH #81 周烒明, UW–Madison 台灣學生史]]).
+- **UFAI founding member, 1966.** The movement memoirs place 王博文 among the 台灣獨立聯盟 (UFI) delegates — with 陳以德、羅福全、蘇金春 — at the 1966-06-18 Philadelphia talks that merged UFI and the 台灣問題研究会 (FASG) and resolved to found the 全美台灣獨立聯盟 (UFAI) on 1966-07-04. The merger had been brokered via 「台灣青年社」's 辜寬敏 during his U.S. tour; the talks drew delegates from nine regions, among them 蔡同榮、王秋森、賴文雄 (Los Angeles), 莊秋雄 (Kansas), 陳唐山 (Oklahoma), 張燦鍙 (Houston), and 鄭自才 (Baltimore), and the alliance elected 陳以德 chairman and 周烒明 central chairman with twin grassroots chapter-building and enlightenment missions. Most members, 王博文 included, served as secret members (秘密盟員) ([[works/taiwaneseamericanhistory-org/ourjourneys81|TAH #81 周烒明, UW–Madison 台灣學生史]]).
 - **East-coast movement networker.** The memoirs record him as a very active participant (「王博文、許和瑞、許富淵等人亦非常積極參與活動」) in the early 台獨 movement circles around Philadelphia ([[works/taiwaneseamericanhistory-org/ourjourneys81|TAH #81]]).
 - **Patron of community employment.** 周烒明 memoir: after three years at a private university, 范希寬 entered Air Products in 1972 through 王博文's introduction ([[works/taiwaneseamericanhistory-org/ourjourneys33|TAH #33]]).
 - **Encyclopedia record.** His own TAH Who's Who entries are archived at [[works/taiwaneseamericanhistory-org/123-powen-wang|123. Powen Wang 王博文]] and [[works/taiwaneseamericanhistory-org/whos-who-1675-powen-wang|1675. Powen Wang 王博文]].
