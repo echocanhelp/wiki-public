@@ -20,6 +20,8 @@ American Citizens for Taiwan (ACT) is a U.S. nonprofit organization composed of 
 
 ## Role in the Community
 
+- 2012 — Founding record in the community press: Ho Chie's interview-feature introduces ACT as a new advocacy organization created by Brock and Julie Freeman in Seattle, launched from a University of Washington cafe conversation as an online social-media tool to mobilize the broader American community in support of Taiwan's democracy ([[works/taiwaneseamerican-org/heart-and-soul-introducing-american-citizens-for-taiwan|Heart and Soul: Introducing ACT, 2012-07-09]]).
+- 2013-02-06 — ACT amplified the Taiwan Policy Act 2013 introduction for the Taiwanese American constituency ([[works/taiwaneseamerican-org/american-citizens-for-taiwan-taiwan-policy-act-2013-introduced|ACT: Taiwan Policy Act 2013 Introduced]]).
 - 2015 — TaiwaneseAmerican.org's top-10 Facebook posts of 2015 credited ACT ("h/t American Citizens for Taiwan") for the Taiwanese-food mapping post of 2015-07-23 ([[works/taiwaneseamerican-org/taiwaneseamerican-org-top-10-facebook-posts-2015|top-10 FB posts 2015]]).
 - 2014 Sunflower movement coverage — TaiwaneseAmerican.org's curated resource list carried ACT's "policy-oriented updates" and its "Sunflower Roots" piece among the movement's English-language sources ([[works/taiwaneseamerican-org/taiwans-sunflower-student-movement|Sunflower student movement]]).
 - Karen Lin, ACT Engagement Director and former executive director of the Taiwanese American Foundation, spoke on an SF 228-events discussion panel ([[works/taiwaneseamerican-org/a-personal-discussion-panel-in-sf-on-the-events-of-228-taiwanese-american-perspe|SF 228 panel]]).

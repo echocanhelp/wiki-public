@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-17
+last_reviewed: 2026-09-20
 ---
 # Taiwanese-American Foundation of Boston (波士頓台美基金會)
 
@@ -21,6 +21,8 @@ The Taiwanese-American Foundation of Boston is a non-profit organization establi
 ## Role in the Community
 - Recorded in the TAH Foundation organization directory as record #17 (published 2015-07-24): [[works/taiwaneseamericanhistory-org/taiwanese-american-foundation-of-boston|TAH #17: Taiwanese-American Foundation of Boston 波士頓台美基金會]].
 - The foundation's scholarship program is documented as its own TAH encyclopedia record (published 2015-07-24): [[works/taiwaneseamericanhistory-org/taiwanese-american-foundation-of-boston-scholarship-award|TAH #26: 波士頓台美基金會獎學金 / TAF Boston Scholarship Award]], corroborating the scholarship/fellowship mission for Taiwan-related study.
+
+Corpus re-grep 2026-09-20 (slice 09190130-18): grep 波士頓台美基金會 / "Taiwanese-American Foundation of Boston" / "TAF Boston" across content/works + content/articles returns only its own two TAH directory records (already linked above) and index listings. No memoir or article adds facts; nothing new absorbable; no conflicts to hold.
 
 ### Timeline
 - 2015-07-24 — organization directory record #17 and scholarship award record #26 published in the TAH encyclopedia
