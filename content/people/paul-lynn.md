@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-20
 ---
 # Paul Lynn (林保山博士)
 
@@ -35,6 +35,11 @@ last_reviewed: 2026-08-17
 
 - **Wife:** 林周月澄
 
+
+## Role in the Community
+- Listed as the **Colorado contact** in the first《全美台灣同鄉通訊錄》(first nationwide Taiwanese-American directory), compiled by 陳希寬 in 1966–67 to connect Taiwanese students and independence-movement activists across the US — recorded in his memoir [[works/taiwaneseamericanhistory-org/ourjourneys58|回憶編印第一本《全美台灣同鄉通訊錄》的甘苦經過 / 陳希寬]].
+- Featured profile in the TAHS story corpus: [[works/taiwaneseamericanhistory-org/whos-paul-lynn|352. Paul Lynn 林保山 /2015/03]].
+- Art record: joint exhibition with 劉兆民 — [[works/taiwaneseamericanhistory-org/art-exhibitions-8|8. 林保山、劉兆民雙個展 04/2010]].
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/paul-lynn/)

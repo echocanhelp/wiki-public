@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-20
 ---
 # Y. F. Yang (楊雲鳳)
 
@@ -33,6 +33,9 @@ last_reviewed: 2026-08-17
 - **Daughter:** Lucy露茜
 - **Son:** Ben賓
 
+
+## Corpus Sweep (deepen-x 09180700-31)
+SKIP-with-reason: corpus grep (works/articles) found only this person's own TAH Who's Who bibliographic record ([[works/taiwaneseamericanhistory-org/whoswho2142|2142. Y. F. Yang 楊雲鳳 / 07/2018]]) — no memoir or community-organization material beyond the press-kit profile (the 04/2018 宏都拉斯義診 work appears in the index alongside it but does not name her). No new facts absorbable without web research.
 
 ## Sources
 - [TAH #2142 encyclopedia: 2142. Y. F. Yang 楊雲鳳 / 07/2018](https://taiwaneseamericanhistory.org/whoswho2142/)

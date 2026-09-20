@@ -6,7 +6,7 @@ tags:
   - Taiwanese-American
   - Taiwan-Center-group-member
 verification_status: published
-last_reviewed: 2026-07-16
+last_reviewed: 2026-09-20
 ---
 # Cord Blood Bank
 
@@ -24,6 +24,9 @@ last_reviewed: 2026-07-16
 - **Content priority A:** Name on Taiwan Center group-members page  
 - **Hub:** [[sources/taiwancenter-org||taiwancenter.org]]  
 - **Content priority C:** Independent history not expanded from listing alone  
+
+## Corpus Sweep (deepen-x 09180700-31)
+SKIP-with-reason: no corpus hits in works/ or articles/ for 臍帶血 or "Cord Blood" — the Taiwan Center group-members listing is the only known source; independent history not expandable from the corpus.
 
 ## Related Pages
 
