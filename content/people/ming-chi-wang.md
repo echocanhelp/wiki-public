@@ -20,6 +20,10 @@ last_reviewed: 2026-09-20
 - **Source:** TAH Foundation Who’s Who
 
 
+## Role in the Community
+- Recorded in the TAH Foundation Who's Who; his entry was published as community historical record on 2016-04-17 ([[works/taiwaneseamericanhistory-org/whoswho939|939. Ming Chi Wang / 2016/04]]).
+- Corpus material so far is limited to the Who's Who bibliographic record; no memoir passages naming Ming Chi Wang are present in works/articles.
+
 <!-- tah-tables:start -->
 ## Education
 - University of Minnesota — year — M.S. Architecture

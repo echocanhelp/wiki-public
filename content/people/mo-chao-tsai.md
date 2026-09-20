@@ -20,6 +20,10 @@ last_reviewed: 2026-09-20
 - **Source:** TAH Foundation Who’s Who
 
 
+## Role in the Community
+- Recorded in the TAH Foundation Who's Who encyclopedia; his entry was published as community historical record on 2016-12-11 ([[works/taiwaneseamericanhistory-org/whoswho1428|1428. Mo Chao Tsai 蔡謀昭 / 2016/12]]).
+- Corpus material so far is limited to the Who's Who bibliographic record; no memoir or bulletin passages naming 蔡謀昭 are present in works/articles.
+
 <!-- tah-tables:start -->
 ## Education
 - 台灣大學 — B.S.化工 — Stevens Institute of Technolog — Ph.D.
