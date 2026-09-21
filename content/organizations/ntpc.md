@@ -6,7 +6,7 @@ tags:
   - disambiguation
   - NTPC
 verification_status: published
-last_reviewed: 2026-09-20
+last_reviewed: 2026-09-21
 ---
 # NTPC — National Taiwanese Presbyterian Council (not New Taipei City)
 

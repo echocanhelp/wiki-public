@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-20
+last_reviewed: 2026-09-21
 ---
 # Chio-Zong Frank Chen (陳秋榮)
 
@@ -33,7 +33,7 @@ Chio-Zong (Frank) Chen 陳秋榮 – History of Taiwanese American (T.A. Archive
 
 ## Role in the Community
 - His biographical record is held in the Taiwanese American digital archive: [[works/taiwaneseamericanhistory-org/764-chio-zong-frank-chen-e9-99-b3-e7-a7-8b-e6-a6-ae-201601|764. Chio-Zong (Frank) Chen 陳秋榮]] (published 2016-01-17, band B), where he is the named subject.
-- Corpus re-scan 2026-09-20 (deepen-x slice 09180900-21): no mentions of 陳秋榮/Chio-Zong outside his own #764 record and the works index — SKIP-deepen, nothing new absorbable.
+- Corpus re-scan 2026-09-21 (deepen-x slice 09200700-27): no mentions of 陳秋榮/Chio-Zong outside his own #764 record and the works index — SKIP-deepen, nothing new absorbable.
 - Disambiguation: the corpus separately records **Prof. F. Frank Chen 陳鳳山** ([[works/taiwaneseamericanhistory-org/whos-who-1911-f-frank-chen|1911. Prof. F. Frank Chen 陳鳳山教授]]; 1996 Presidential Faculty Fellows Award) and Taiwanese-Canadian filmmaker **Frank Chen 陳惟揚** (director of the Chien-Ming Wang documentary). HOLD: neither is 陳秋榮 — do not merge.
 
 ## Family

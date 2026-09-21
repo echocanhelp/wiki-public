@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-20
+last_reviewed: 2026-09-21
 ---
 # Yih-Loong Lai (賴義隆博士)
 
@@ -29,6 +29,8 @@ last_reviewed: 2026-09-20
 - [[works/taiwaneseamericanhistory-org/274-yih-loong-lai-201502|274. Yih-Loong Lai 賴義隆 (2015/02)]] — profile entry
 - [[works/taiwaneseamericanhistory-org/mystories210|210. 我的高中甜心 / 賴義隆 (2015/03)]] — memoir essay
 - [[works/taiwaneseamericanhistory-org/mystories570|570. 我在台大醫學院的教學及研究 / 賴義隆 (2017/08)]] — memoir of teaching and research at NTU College of Medicine, corroborating the 1994 NTU professorship in the Employment table
+
+All four are bibliographic records in the corpus; corpus re-check 2026-09-21 found no additional 賴義隆 / Yih-Loong Lai material in works/ or articles/ — SKIP, nothing new absorbable.
 
 <!-- tah-tables:start -->
 ## Education

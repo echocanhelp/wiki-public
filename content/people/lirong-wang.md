@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-20
+last_reviewed: 2026-09-21
 ---
 # Lirong Wang (黃麗蓉)
 
@@ -42,6 +42,7 @@ last_reviewed: 2026-09-20
 - **TAH community record.** Her own TAH Who's Who encyclopedia entry (#431) is held in the vault as [[works/taiwaneseamericanhistory-org/431-lirong-wang-e9-bb-83-e9-ba-97-e8-93-89201506|TAH #431, published 2015-06-03]]; the vault copy is a bibliographic record — full text stays in the source archive.
 - **Family link in the corpus.** She is recorded as the wife of 王進賢 (Prof. Chin-Hsien "Jim" Wang), himself documented in TAH #244/#418 and noted as a TAC-WC coordinator ([[people/prof-chin-hsien-jim-wang|Prof. Chin-Hsien (Jim) Wang 王進賢]]; see also [[works/taiwaneseamericanhistory-org/whos-who-418-chin-hsien-wang|TAH #418]] and [[works/taiwaneseamericanhistory-org/ourjourneys352|TAH #352 TAC-WC 會史]]). Children listed in both records agree: Nancy, Jeanny, Elaine, Wilson — no conflict.
 - **Pre-immigration service.** Taught at 嘉義女中 from 1962 after her NTU law degree (per TAH table above) — early teaching career in Chiayi before her engineering/entrepreneurial path.
+- Corpus re-scan 2026-09-21 (deepen-x slice 09200700-27): no mentions of 黃麗蓉/Lirong Wang outside her own #431 record and the works index — SKIP-deepen, nothing new absorbable.
 
 ## Sources
 - [TAH #431 encyclopedia: 431. Lirong Wang 黃麗蓉/2015/06](https://taiwaneseamericanhistory.org/431-lirong-wang-%e9%bb%83%e9%ba%97%e8%93%89201506/)
