@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-19
+last_reviewed: 2026-09-21
 ---
 # Dr. Priscilla Peilan Chiu (邱佩蘭醫師)
 
@@ -46,5 +46,6 @@ _No filled family fields on the TAH profile._
 ## Corpus review (slices 09171100-27, 09180317-19)
 
 - Re-check 2026-09-19: identical result — grep 邱佩蘭/Peilan Chiu across content/works + content/articles returns only the TAH #1692 bibliographic record. SKIP-with-reason confirmed.
+- Re-check 2026-09-21 (slice 09191100-21): identical result — fresh grep returns only the [[works/taiwaneseamericanhistory-org/whos-who-1692-priscilla-peilan-chiu|TAH #1692]] record plus index adjacency. SKIP persists.
 
 - SKIP-with-reason: grep 邱佩蘭/Peilan Chiu across content/works + content/articles returned only the [[works/taiwaneseamericanhistory-org/whos-who-1692-priscilla-peilan-chiu|TAH #1692]] bibliographic record of this same TAH profile plus index adjacency — no memoir/community facts absorbable beyond the tables above.
