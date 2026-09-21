@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-20
+last_reviewed: 2026-09-21
 ---
 # Sharon S. Hsu (許聖美)
 
@@ -41,6 +41,7 @@ last_reviewed: 2026-09-20
 - Writer Ken Lee's community memoir [[works/taiwaneseamericanhistory-org/ourjourneys264|Our Journeys 264 (Ken Lee, 11/2016)]] names 許聖美 (alongside 廖國仲) among the outstanding Taiwanese Americans profiled by author 楊遠薰 — testimony to her standing in the movement's letters/memoir network.
 - Corpus re-grep 2026-09-19 (slice 09180400-4): hit set unchanged — own TAH #36/#42/#165/#263 entries, Our Journeys 264, and the works index, all already linked above; nothing new to absorb.
 - Corpus re-grep 2026-09-20 (slice 09191100-5): SKIP — hit set unchanged (own TAH #36/#42/#165/#263, Our Journeys 264, works index), all already linked; nothing new to absorb.
+- Corpus re-grep 2026-09-21 (slice 09191100-5 retry): SKIP — hit set again unchanged; nothing new to absorb.
 
 ## Sources
 - [TAH #42 encyclopedia: 42. Paul (Chung Chen) and Sharon Hsu 許忠政, 許聖美 / The first private business enter](https://taiwaneseamericanhistory.org/ff42/)

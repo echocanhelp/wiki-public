@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-19
+last_reviewed: 2026-09-21
 ---
 # Kai-Chin Chan (詹凱臣)
 
@@ -43,6 +43,10 @@ last_reviewed: 2026-09-19
 - TAH Who's Who 收錄為第 1154 條（2016-07 刊）— [[works/taiwaneseamericanhistory-org/whoswho1154|TAH #1154: Kai-Chin Chan 詹凱臣]]。
 - 2021-05 南加州僑界支持台灣參與WHA/WHO聯合聲明共同發起人之一，與林榮松、許正雄、邱俊杰、楊熾勳、蘇國雄等僑界人士連署（見下方 From the record 兩筆轉載）。
 - 2013-04-12 立法院「立即停建核四」提案第二次表決反對名單列有詹凱臣（見下方 From the record）。
+
+## Corpus review
+
+- 本頁 corpus 檢索（2026-09-21）：content/works + content/articles 命中均為本人 own page（TAH #1154）、works index 或已收錄之 TJJ 兩筆紀錄（2021 WHA 聯合聲明共同發起人名單、2013-04-12 核四表決反對名單），無新可吸收社群事實 — SKIP。
 
 ## Sources
 - [TAH #1154 encyclopedia: 1154. Kai-Chin Chan  詹凱臣 / 2016/07](https://taiwaneseamericanhistory.org/whoswho1154/)

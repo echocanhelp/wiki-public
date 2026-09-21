@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-20
+last_reviewed: 2026-09-21
 ---
 # Christina Hu (胡若涵)
 
@@ -42,7 +42,10 @@ _No filled family fields on the TAH profile._
 - TACL Campaign Director for the #CounTA / Write in Taiwanese 2020 census campaign; pictured sharing the campaign graphics and media kit with President Tsai in New York City ([[works/taiwaneseamerican-org/census-2020-fundraiser|Census 2020 fundraiser record]]).
 - Credited as "Director, Write in Taiwanese Census Campaign" in TACL's public statement on the Pew Research Center Taiwanese-American separation report ([[works/taiwaneseamerican-org/pew-research-center-taiwanese-american-statement|Pew statement]]), consistent with her 2021 quote as TACL 公民參與事務主任 below.
 - TAH archive holds a film entry credited to Christina Hu: *Blacklist* ([[works/taiwaneseamerican-org/blacklistfilm|Blacklist: A Film by Christina Hu]], 2017-02-27; also [[works/taiwaneseamericanhistory-org/videos-blacklist-by-christina-hu|56. Blacklist by Christina Hu]]). HOLD: conflict — filmmaker credit (2017) vs corporate career timeline (JPMorgan/SS&C, 2012–present) not reconciled by the corpus; no evidence yet they are the same Christina Hu.
+- Her own first-person account of the campaign: 「My name is Christina Hu, and I am a Taiwanese American. In 2019, I signed on to lead the Write In Taiwanese campaign for the 2020 Census [on behalf of] the Taiwanese American Citizens League.」 ([[works/taiwaneseamerican-org/my-signature-represents-me-writing-in-taiwanese-on-the-united-states-census|My Signature Represents Me — Writing in Taiwanese on the U.S. Census, 2020-05]]) — primary testimony placing her at the head of the campaign from 2019.
+- She is again credited as 「Director, Write in Taiwanese Census Campaign」 in TACL's statement on the Pew report reissue ([[works/taiwaneseamerican-org/pew-research-reissues-report-on-asian-americans-after-misrepresenting-taiwanese-|Pew reissue statement record]]).
 - Her own TAH Who's Who record: [[works/taiwaneseamericanhistory-org/whoswho1586|1586. Christina Hu 胡若涵]].
+- Corpus re-grep 2026-09-21 (slice 09191100-5 re-run): two previously unlinked corpus records absorbed (first-person census essay, Pew reissue statement); Blacklist-vs-corporate-career HOLD stands, no new evidence either way.
 - Corpus re-grep 2026-09-20 (slice 09191100-5): SKIP — hit set unchanged (own #1586, Blacklist film records, census/Pew TACL records, works index), all already linked; the Blacklist-vs-corporate-career HOLD stands, no new evidence either way.
 
 ## From the record
