@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-20
+last_reviewed: 2026-09-21
 ---
 # Prof. Margaret Shih (施華維教授)
 
@@ -48,7 +48,7 @@ Accomplishment
 - 2019-02-24 — TAH OTA #261 profile
 - 2023-07-14 — TAH #881: assumed Department Chair role at UCLA Anderson School of Management
 
-Re-grep 2026-09-20 (slice 09181500-17): hit set again identical (#507, OTA #261, #881, harvest index) — no new absorbable material.
+Re-grep 2026-09-20 (slice 09181500-17): hit set again identical (#507, OTA #261, #881, harvest index) — no new absorbable material. Re-grep 2026-09-21 (slice 09201400-21): hit set unchanged — SKIP, page saturated.
 ## Sources
 - [TAH #261 encyclopedia: 261. Prof. Margaret Shih 施華維教授](https://taiwaneseamericanhistory.org/ota-261/)
 - [TAH #507 encyclopedia: 507. Prof. Margaret Shih 施華維教授](https://taiwaneseamericanhistory.org/whos-who-507-margaret-shih/)

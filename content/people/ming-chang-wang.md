@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-20
+last_reviewed: 2026-09-21
 ---
 # Ming Chang Wang (王敏昌)
 
@@ -37,6 +37,7 @@ last_reviewed: 2026-09-20
 - **Community memorial record:** the corpus preserves 陳隆在王敏昌追思禮拜的訪談 (2012/8/12) — an interview with 陳隆 at his memorial worship service (published 2016-01-14) — [[works/taiwaneseamericanhistory-org/31-e9-99-b3-e9-9a-86-e5-9c-a8-e7-8e-8b-e6-95-8f-e6-98-8c-e8-bf-bd-e6-80-9d-e7-a6|31. 陳隆在王敏昌追思禮拜的訪談 / 2012/08]].
 - HOLD: conflict on death date — memorial-service interview dated 2012/08/12 vs memorial essay 悼PSA發明者王敏昌 dated 2021/08; corpus holds no corroborating date, never auto-merged.
 - HOLD: the PSA-inventor attribution exists only in the memorial essay's title; the corpus holds these as bibliographic records only (full text stays in the vault), so no further detail was absorbable and the claim is not independently corroborated here.
+- Corpus re-grep (王敏昌 / Ming Chang Wang, content/works + content/articles, 2026-09-21, slice 09201400-21): hit set identical to the records already absorbed above (#798, #390, #42 + English version mystories42-eng, #696, #31) — SKIP, page saturated.
 
 ## Family
 
