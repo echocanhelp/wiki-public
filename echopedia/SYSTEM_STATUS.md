@@ -1,6 +1,6 @@
 # Echopedia System Status
 
-*Generated: 2026-09-20 06:29 PDT*
+*Generated: 2026-09-20 22:22 PDT*
 
 ## Orientation
 - **Entry:** go <plain language> via go-router (auto-route) · **Control:** [CONTROL.md](CONTROL.md)
@@ -19,15 +19,15 @@
 - **Track SSOT:** `knowledge/operational/intelligence/autonomy-ledger.json`
 
 ## Content
-|- **Tier1 pages:** 2872 (people 2408 / orgs 430 / sources 34) · Tier2 archive: 29103
-|- **Janitor queue depth:** 57
-|- **Uncommitted files:** 1
+|- **Tier1 pages:** 2875 (people 2408 / orgs 433 / sources 34) · Tier2 archive: 29103
+|- **Janitor queue depth:** 59
+|- **Uncommitted files:** 58
 
 ## Self-improvement pipeline (Scout → Filter → Extract → Evaluate → Generate → Review)
 || Stage | Script | Last run | Output |
 ||-------|--------|----------|--------|
 || Scout | echopedia-scout-live | 04:05 local | 44 checked, 0 broken, 0 slow |
-|| Filter | echopedia-content-analysis | 03:05 local | 2905 scanned, 18 queued |
+|| Filter | echopedia-content-analysis | 03:05 local | 2906 scanned, 19 queued |
 || Extract | echopedia-extract-actions | 04:15 local | knowledge/operational/extracted/ |
 || Evaluate | echopedia-evaluate-actions | 04:20 local | knowledge/operational/evaluated/ |
 || Generate | echopedia-generate-cards | 04:25 local | 40 cards |
@@ -54,45 +54,45 @@ Load skill **echopedia-ops** first for any wiki work.
 ## Cron snapshot
 ```
     Name:      cron-output-rotate
-    Schedule:  15 3 * * *
-    Last run:  2026-09-20T03:15:07.059434-07:00  ok
+    Schedule:  5 21 * * *
+    Last run:  2026-09-20T21:06:08.928601-07:00  ok
     Name:      vault-morning-brief
     Schedule:  0 7 * * *
-    Last run:  2026-09-19T07:00:53.756976-07:00  ok
+    Last run:  2026-09-20T07:01:02.205037-07:00  ok
     Name:      vllm-thermal-scaler
     Schedule:  every 1m
-    Last run:  2026-09-20T06:28:45.110666-07:00  ok
+    Last run:  2026-09-20T22:20:43.664981-07:00  ok
     Name:      Echopedia content analysis
-    Schedule:  10 1 * * *
-    Last run:  2026-09-20T01:11:00.726201-07:00  ok
+    Schedule:  10 21 * * *
+    Last run:  2026-09-20T21:11:10.749053-07:00  ok
     Name:      unified-watchdog
     Schedule:  every 30m
-    Last run:  2026-09-20T06:26:11.770745-07:00  ok
-    Name:      echopedia-digest
-    Schedule:  20 6 * * *
-    Last run:  2026-09-20T06:20:40.011944-07:00  ok
+    Last run:  2026-09-20T22:09:44.087949-07:00  ok
     Name:      memory-audit
-    Schedule:  50 4 * * *
+    Schedule:  50 0 * * *
     Last run:  2026-09-20T04:50:54.288261-07:00  ok
     Name:      echopedia-nightly-audit
-    Schedule:  15 1 * * *
-    Last run:  2026-09-20T01:50:15.516177-07:00  error: Script execution failed: 'utf-8' codec can't decode bytes in position 3727-3728: invalid continuation byte  (2 failures in a row)
+    Schedule:  15 21 * * *
+    Last run:  2026-09-20T21:49:16.422604-07:00  ok
     Name:      echopedia-janitor
-    Schedule:  30 1 * * *
-    Last run:  2026-09-20T01:41:09.068292-07:00  ok
+    Schedule:  30 21 * * *
+    Last run:  2026-09-20T22:03:38.615337-07:00  error: Interrupted by shutdown before terminal completion.
     Name:      echopedia-weekly-improvement
-    Schedule:  0 6 * * 0
-    Last run:  2026-09-13T06:16:19.976482-07:00  ok
+    Schedule:  15 22 * * 0
+    Last run:  2026-09-20T06:29:45.878139-07:00  ok
     Name:      echopedia-ci-heal
-    Schedule:  25 4 * * *
+    Schedule:  25 0 * * *
     Last run:  2026-09-20T04:50:53.951755-07:00  error: Interrupted by shutdown before terminal completion.  (2 failures in a row)
     Name:      echopedia-site-design
-    Schedule:  30 4 * * *
+    Schedule:  30 0 * * *
     Last run:  2026-09-20T04:30:42.843376-07:00  ok
     Name:      vault-search-index-rebuild
-    Schedule:  0 5 * * 0
-    Last run:  2026-09-20T05:00:10.309659-07:00  ok
+    Schedule:  0 21 * * 0
+    Last run:  2026-09-20T21:00:44.250517-07:00  ok
     Name:      echopedia-scout-live
+    Schedule:  40 21 * * *
+    Last run:  2026-09-20T21:41:14.030300-07:00  ok
+    Name:      echopedia-extract-actions
 ```
 
 ## Briefs
@@ -112,14 +112,14 @@ Load skill **echopedia-ops** first for any wiki work.
 | 0 7 * * * | `vault-morning-brief` | no_agent | on | ok | `vault-morning-brief.py` |
 | 10 1 * * * | `echopedia-docs-sync` | no_agent | on | ok | `echopedia-docs-sync-cron.sh` |
 | 10 21 * * * | `Echopedia content analysis` | no_agent | on | ok | `echopedia-content-analysis-cron.sh` |
-| 15 21 * * * | `echopedia-nightly-audit` | no_agent | on | error | `echopedia-nightly-audit-wrapper.sh` |
+| 15 21 * * * | `echopedia-nightly-audit` | no_agent | on | ok | `echopedia-nightly-audit-wrapper.sh` |
 | 15 22 * * 0 | `echopedia-weekly-improvement` | no_agent | on | ok | `echopedia-weekly-improvement.sh` |
 | 15 23 * * * | `echopedia-quote-extractor` | no_agent | on | ok | `echopedia-quote-extractor-cron.sh` |
 | 20 22 * * * | `echopedia-evaluate-actions` | no_agent | on | ok | `echopedia-evaluate-actions.py` |
 | 20 6 * * * | `echopedia-digest` | no_agent | OFF | ok | `echopedia-digest.sh` |
 | 25 0 * * * | `echopedia-ci-heal` | no_agent | on | error | `echopedia-ci-heal-wrapper.sh` |
 | 30 0 * * * | `echopedia-site-design` | no_agent | on | ok | `echopedia-site-design-wrapper.sh` |
-| 30 21 * * * | `echopedia-janitor` | no_agent | on | ok | `echopedia-janitor-wrapper.sh` |
+| 30 21 * * * | `echopedia-janitor` | no_agent | on | error | `echopedia-janitor-wrapper.sh` |
 | 30 22 1 * * | `go-router-monthly-audit` | AGENT | on | ok | `go-router` |
 | 30 23 * * * | `echopedia-timeline-builder` | no_agent | on | ok | `echopedia-timeline-builder-cron.sh` |
 | 40 0 * * * | `echopedia-tier1-sweep` | no_agent | on | ok | `echopedia-tier1-sweep.sh` |

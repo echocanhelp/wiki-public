@@ -1,0 +1,4 @@
+people/tom-lee.md
+people/michelle-wu.md
+organizations/san-gabriel-taiwanese-lions-club.md
+people/irene-lee.md
