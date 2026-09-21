@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-20
+last_reviewed: 2026-09-21
 ---
 # Shang C. Chiou (邱祥竹醫師)
 
