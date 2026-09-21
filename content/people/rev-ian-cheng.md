@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-20
+last_reviewed: 2026-09-21
 ---
 # Rev. Ian Cheng (鄭溢恩牧師)
 
@@ -36,6 +36,7 @@ last_reviewed: 2026-09-20
 
 ## Role in the Community
 - Listed in the TAH Who's Who encyclopedia as record [[works/taiwaneseamericanhistory-org/whos-who-1727-ian-cheng|1727. Rev. Ian Cheng 鄭溢恩牧師]] (published 2017-07-02, value band B). The corpus copy is a bibliographic record only — full text stays in the TAH vault, so no further community facts are absorbable from the local corpus at this time.
+- Corpus re-scan 2026-09-21 (deepen-x slice 20): only match remains the works-index digest line pointing at the same record — no new material.
 
 ## Sources
 - [TAH #1727 encyclopedia: 1727. Rev. Ian Cheng 鄭溢恩牧師](https://taiwaneseamericanhistory.org/whos-who-1727-ian-cheng/)
