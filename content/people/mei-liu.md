@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-20
+last_reviewed: 2026-09-21
 ---
 # Mei Liu (洪梅)
 
@@ -35,6 +35,7 @@ last_reviewed: 2026-09-20
 - Her husband's memoir in the same article ([[articles/taiwanjustice-net/2024/20240523001702_root_d717aa524a3911af|劉和源, 1951–1955]]) notes their accounts of Japanese-era schooling and language use align: during the Japanese period middle-schoolers all used Japanese, but Taiwanese was not banned.
 - Appears on the 2018 NTU alumni protest statement against the invitation of 管中閔 to the Southern California NTU Alumni Association annual meeting: [[articles/taiwanjustice-net/2018/20180721091303_2018_07_20_抗議-南加州台大校友會邀管中閔來年會做專題演講_a428dcebbceacf38|抗議 南加州台大校友會邀管中閔來年會做專題演講 (2018-07-19)]], listed among NTU alumni signatories as Mei Liu (化學).
 - Her own TAH Who's Who encyclopedia record: [[works/taiwaneseamericanhistory-org/whos-who-2222-mei-liu|2222. Mei Liu 洪梅 (2019-11-05)]].
+- Corpus re-check (slice deepen-x-slice-09201300-10, 2026-09-21): the only additional text hit for 洪梅 in the corpus — 龐洪梅（音）quoted in [[articles/taiwanjustice-net/2025/20250419233916_美國亞裔恐因武漢肺炎遭排外_43159077375b9055|美國亞裔恐因武漢肺炎遭排外 (2025-04)]] — is a different person (spokesperson for a Chinese-American civil-rights group, name rendered 龐洪梅), NOT this 洪梅; no new absorbable material.
 
 ## Family
 
