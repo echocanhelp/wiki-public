@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-20
+last_reviewed: 2026-09-21
 ---
 # C. C. Hsiao (蕭忠正)
 
@@ -32,7 +32,7 @@ last_reviewed: 2026-09-20
 
 ## Role in the Community
 
-- His story is recorded in the TAHS community archive: "1498. C. C. Hsiao 蕭忠正" was published 2017-02-05 ([[works/taiwaneseamericanhistory-org/1498-c-c-hsiao-e8-95-ad-e5-bf-a0-e6-ad-a3-201702|TAHS #1498]]). The local record is bibliographic only; no additional community detail to reconcile.
+- His story is recorded in the TAHS community archive: "1498. C. C. Hsiao 蕭忠正" was published 2017-02-05 ([[works/taiwaneseamericanhistory-org/1498-c-c-hsiao-e8-95-ad-e5-bf-a0-e6-ad-a3-201702|TAHS #1498]]). The local record is bibliographic only; no additional community detail to reconcile. deepen-x 09210051-13 于 2026-09-21 複查 works/articles：僅本身條目與 index 收錄行命中，無獨立語料可吸收（SKIP-with-reason）。
 
 ## Family
 
