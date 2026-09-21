@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-20
+last_reviewed: 2026-09-21
 ---
 # Taiwanese Student Association at UC Davis
 
@@ -26,7 +26,7 @@ The Taiwanese Student Association (TSA) at UC Davis — known in Chinese as 台�
 - **2013 — campus activity record:** UC Davis hosted an ITASA (台美學生社) mixer on 2013-04-27, catalogued in the taiwaneseamerican.org corpus ([[works/taiwaneseamerican-org/itasa-mixer-at-uc-davis|ITASA Mixer at UC Davis, 2013-04-27]]) — a contemporary record of the campus Taiwanese student circle in the chapter's own era.
 - **Sibling TSA chapters in the corpus:** USC 南加大台灣同學會 — [[works/taiwaneseamericanhistory-org/dumplings-usctsa|燒肉粽 by USC Taiwanese Student Association]]; OSU 哥城台灣同學會 — [[works/taiwaneseamericanhistory-org/osu-taiwanese-student-association|Newsletter 會訊 by OSU Taiwanese Student Association]].
 
-- Corpus check 2026-09-20 (slice 09181500-15): re-grepped content/works + content/articles — hit set identical to the records already wikilinked above (the extra ourjourneys85 match was the transliteration 愛蒙戴維斯/"Davis" in a literary quote, unrelated); no new absorbable material.
+- Corpus check 2026-09-20 (slice 09181500-15): re-grepped content/works + content/articles — hit set identical to the records already wikilinked above (the extra ourjourneys85 match was the transliteration 愛蒙戴維斯/"Davis" in a literary quote, unrelated); no new absorbable material. Re-confirmed 2026-09-21 (slice 09201400-12): remaining "Davis" hits are the person Davis Chang / Prof. Davis L. S. Chang in TACNC memoirs — unrelated to the campus; no new absorbable material.
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-student-association-at-uc-davis/)

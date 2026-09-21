@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-20
+last_reviewed: 2026-09-21
 ---
 # Chen-Jung Hsu (許振榮)
 
@@ -60,3 +60,4 @@ last_reviewed: 2026-09-20
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - SKIP note（deepen-x slice-09190130-7, re-grep 2026-09-20）：corpus hit set（mystories398、12-36、12-37、807、TJJ 台大數學系回憶、works index）與已吸收連結完全一致 — 頁面包和，無新可吸收材料。
+- SKIP note（deepen-x slice-09201400-14, re-grep 2026-09-21）：corpus hit set（mystories398、12-36、12-37、807、works/index、TJJ 台大數學系回憶）與已吸收連結完全一致 — 頁面包和，無新可吸收材料。
