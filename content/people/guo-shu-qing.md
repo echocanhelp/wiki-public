@@ -25,6 +25,13 @@ last_reviewed: 2026-09-20
 
 Guo Shu-qing married 廖述宗 in 1960 after her mother-in-law 林瓊仙 (Lin Qiong-xian) arranged the match through a fellow townsman's daughter. The couple raised four daughters in Chicago while 廖述宗 pursued his academic career at the University of Chicago's Ben May Department of Molecular Biology.
 
+## Role in the Community
+
+- Married into the 廖繼春—林瓊仙 family network that our own memoir corpus records: [[works/taiwaneseamericanhistory-org/our-journeys-350|Our Journeys 350 (張瑞雄牧師 memoir)]] states that painter 廖繼春's wife was the sister of 台大 geology professor 林朝棨, and that their son 廖述宗 — her husband — was the founding chair of NATPA (北美洲台灣人教授協會). Through this marriage she sits inside the 「豐原三傑」 (張炳松、廖五湖、林朝棨) regional network described in the same memoir.
+- Her husband's NATPA founding is commemorated in the corpus by [[works/taiwaneseamericanhistory-org/natpa-professor-liao-shutsung-research-award|13. NATPA Professor Liao Shutsung Research Award 廖述宗教授研究獎金]] — a community institution her family name is attached to.
+- HOLD (identity, carried from TAH Archive Note): [[people/shuching-liao|Shuching Liao 廖郭淑卿]] (TAH Who's Who, Era 1934–2015, 台中) appears to be this same person in her married-name form; romanization/era fields differ — not auto-merged.
+- Corpus grep 2026-09-21 (slice 09210051-7): her own archive entry remains [[works/taiwaneseamericanhistory-org/478-shuching-liao-e5-bb-96-e9-83-ad-e6-b7-91-e5-8d-bf-201507|TAH #478 Shuching Liao 廖郭淑卿/2015-07]]; narrative 淑卿 hits again belong to other individuals (賴淑卿 / 張淑卿 / 楊淑卿 — see below).
+
 ## Source Notes and Confidence
 
 - **Content priority A:** 2017 TAHS Publication 生命的執著 (The Persistence of Life) — Liao Shu-zong profile, Part 2
