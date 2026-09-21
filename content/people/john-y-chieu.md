@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-20
+last_reviewed: 2026-09-21
 ---
 # John Y. Chieu
 
@@ -42,6 +42,7 @@ last_reviewed: 2026-09-20
 ## Role in the Community
 - His TAH Who's Who profile is preserved as [[works/taiwaneseamericanhistory-org/whos-who-2213|TAH #2213: John Y. Chieu (2019/09)]].
 - The corpus black-list record — [[works/taiwaneseamericanhistory-org/ourjourneys106|106. Political Activities of Taiwanese Americans: 2, 中華民國的黑名單 (2015/02)]] — names a "John Chieu 邱忠男博士" as an employee of Bechtel (貝特工程公司), president of the Houston/Austin Taiwanese Association (1980 term) whose Taiwan re-entry applications were repeatedly refused for supporting the Taiwan independence movement. The shared Bechtel employer deepens — but does not resolve — the HOLD below.
+- The Austin chapter memoir [[works/taiwaneseamericanhistory-org/ourjourney-343|Our Journey #343 (Austin)]] repeats the blacklist record: Dr. John Chieu (邱忠男) was blacklisted in the early 1970s for serving as president of the Austin and Houston Taiwanese Association and speaking out for Taiwanese democratic freedom; the entry also notes that blacklist bans were only lifted after President Tung-Hui Lee, allowing family visits. HOLD: same ambiguity as above — the memoir's Dr. John Chieu is the movement activist [[people/dr-john-chieu|邱忠男]]; this page's engineer track (Bechtel → S&W → Puma) is not merged with him.
 - A founding memoir of the Houston Taiwanese Community Center ([[works/taiwaneseamericanhistory-org/ourjourneys233-eng|回顧休士頓台灣人活動中心的成立 (Chuang, 2016)]]) records a fellow association member "John Chieu" joining building-site inspections with the Community Center Building Fund chair, the Taiwanese Language School, and the Taiwanese American Federal Credit Union during the purchase campaign that won a $30,000 no-interest loan from the [[organizations/taiwanese-association-of-america-houston-chapter|Taiwanese Association of America Houston chapter]]. HOLD: conflict — the memoir's "John Chieu" may be this Houston engineer or the blacklisted movement activist [[people/dr-john-chieu|Dr. John Chieu 邱忠男]] (see [[works/taiwaneseamericanhistory-org/whos-who-2258-john-chieu|TAH #2258]]); identities not auto-merged.
 
 ## Sources

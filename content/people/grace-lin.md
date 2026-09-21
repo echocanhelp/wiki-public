@@ -37,6 +37,10 @@ last_reviewed: 2026-09-21
 - 2016-12 — 洛杉磯福爾摩沙聖樂團（Los Angeles Formosan Master Chorale）2016 聖誕音樂饗宴（12/04/2016，愛恩台福基督教會，Irvine, CA）三位聯絡人之一（與李勝年、張華美並列），刊載電話 949-783-6009、地址 17422 Armstrong Ave., Irvine, CA 92614（[[works/taiwaneseamericanhistory-org/concerts81|TAH concerts81, 2016-11-16]]）。此紀錄顯示其活動地為南加州 Irvine，與 Identity Snapshot 所載「台灣 台北」並存（HOLD: 未自動改寫，僅註記）。
 - Corpus disambiguation：同名的 Prof. Yuh-Huey Grace Lin 林玉惠（[[works/taiwaneseamericanhistory-org/whoswho1756|TAH #1756]]）、Chi-Ching Grace Lin 林季靜（[[works/taiwaneseamericanhistory-org/93-chi-ching-grace-lin-e6-9e-97-e5-ad-a3-e9-9d-9c-percussionist|TAH #93]]）、Grace Lin 林珮思（[[works/taiwaneseamericanhistory-org/whoswho987|TAH #987]]）及童靜梓(Grace Lin)（[[works/taiwaneseamericanhistory-org/ourjourneys85|TAH ourjourneys85]]）皆為不同人，非本頁。
 
+- 2015-06-14 — 以「長青教室心得報告：前瞻未來，專欄寫作」名義發表於 TAH（[[works/taiwaneseamericanhistory-org/284-e9-95-b7-e9-9d-92-e6-95-99-e5-ae-a4-e5-bf-83-e5-be-97-e5-a0-b1-e5-91-8a-e5-8|TAH #284，朱耀源博士－前瞻未來，專欄寫作]]），與同為社區演講記錄者的 [[people/irwin-chu|朱耀源博士]] 同場脈絡；顯示其長期為台美社區活動撰寫心得／演講記錄。
+- 2014-10-20 — TAH「我的故事」專欄代筆／記錄〈想念大哥_吳西面〉（[[works/taiwaneseamericanhistory-org/mystories132|TAH mystories132]]，掛名 吳西面／吳瑞惠），為追念台美人先辈 [[people/symeon-woo|吳西面]] 的社區悼文（HOLD: 掛名「吳西面 / 吳瑞惠」未辨作者與記錄者之分，僅註記）。
+- Corpus re-grep 2026-09-21 (slice 09210051-2)：hit set = 本人 #613 檔、concerts81、上列 mystories132 / #284 兩筆新作（本次已收入）、works index、TJJ MANIFEST；無其他回憶錄敘事。
+
 ## Sources
 - 本人 TAH profile 存檔：[[works/taiwaneseamericanhistory-org/613-grace-lin-e5-90-b3-e7-91-9e-e6-83-a0-201509|TAH #613（Grace Lin 吳瑞惠 / 2015/09）]]
 - [TAH #613 encyclopedia: 613. Grace Lin 吳瑞惠 / 2015/09](https://taiwaneseamericanhistory.org/613-grace-lin-%e5%90%b3%e7%91%9e%e6%83%a0-201509/)
