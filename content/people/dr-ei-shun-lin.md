@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-20
+last_reviewed: 2026-09-21
 ---
 # Dr. Ei-Shun Lin (林益顯醫師)
 
@@ -38,7 +38,7 @@ Accomplishment
 
 From the community corpus (memoirs outrank the press-kit profile):
 
-- **1988 NATMA Taiwan delegation:** Ei-Shun Lin was on the delegation organized by NATMA's third president Dr. Kun T. Liao for the second visit to Taiwan (departing 1988-11-02) to attend the Taiwan Medical Association's 81st annual meeting. The delegation visited the Ministry of Foreign Affairs, the Department of Health, the Legislative Yuan, the DPP and KMT headquarters, Chung Shan Medical University, and Kaohsiung Medical University, and went to Tucheng Detention Center to visit political prisoners Tsai Yu-chuan, Hsu Tsao-te, Hsiao Yu-chen, Lin Kuo-hua, Lin Huei-ju, and Chiu Huang-sheng, plus Tri-Service General Hospital to visit the hunger-striking Shih Ming-teh. Source: [[works/taiwaneseamericanhistory-org/ourjourneys74-eng|Our Journeys 74 (EN)]].
+- **1988 NATMA Taiwan delegation:** Ei-Shun Lin was on the delegation organized by NATMA's third president Dr. Kun T. Liao for the second visit to Taiwan (departing 1988-11-02) to attend the Taiwan Medical Association's 81st annual meeting. The delegation visited the Ministry of Foreign Affairs, the Department of Health, the Legislative Yuan, the DPP and KMT headquarters, Chung Shan Medical University, and Kaohsiung Medical University, and went to Tucheng Detention Center to visit political prisoners Tsai Yu-chuan, Hsu Tsao-te, Hsiao Yu-chen, Lin Kuo-hua, Lin Huei-ju, and Chiu Huang-sheng, plus Tri-Service General Hospital to visit the hunger-striking Shih Ming-teh. Source: [[works/taiwaneseamericanhistory-org/ourjourneys74|Our Journeys 74 (中)]] / [[works/taiwaneseamericanhistory-org/ourjourneys74-eng|Our Journeys 74 (EN)]].
 - Later served NATMA president 2004–2006 per the TAH profile (see Employment above; consistent with the memoir's earlier involvement).
 - Encyclopedia record: [[works/taiwaneseamericanhistory-org/whos-who-2027-ei-shun-lin|2027. Dr. Ei-Shun Lin 林益顯醫師]].
 
@@ -49,3 +49,5 @@ From the community corpus (memoirs outrank the press-kit profile):
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+> Saturate-note (deepen-x slice 09201500-14, 2026-09-21): corpus re-grep hit set = whos-who-2027 + ourjourneys74 中/EN, all linked above; no new absorbable corpus facts.

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-20
+last_reviewed: 2026-09-21
 ---
 # Jiunn-yann Gene Tang (湯俊彥博士)
 
@@ -39,6 +39,7 @@ last_reviewed: 2026-09-20
 - His own TAH memoir record: [[works/taiwaneseamericanhistory-org/762-jiunn-yann-genetang-e6-b9-af-e4-bf-8a-e5-bd-a5-201601|762. Jiunn-yann (Gene) Tang 湯俊彥 /2016/01]].
 - The corpus also holds his donated archive as a dedicated collection page: [[works/taiwaneseamericanhistory-org/private-collections-86|86. Collection of the Dr. Jiunn Yann (Gene) Tang 湯俊彥博士的收藏]] — he is a primary-source contributor to the movement record, not only a participant.
 - HOLD: corps list places him in Madison, WI (early 1970s) and Dallas (2016 fund-drive) while the TAH profile lists no geography — no auto-merge of residence timeline.
+- Re-grep 2026-09-21 (slice 09201500-9): hit set unchanged (our-journeys-378, ourjourneys307, ourjourneys256, private-collections-86, own record 762, works/index) — all already absorbed above. Note: the 1998 會長 list in our-journeys-378 reads 「1997 楊正義 1998 湯俊彥 2000 駱惠孑」 confirming the single-term tenure; no new facts. Page saturated.
 
 ## Family
 
