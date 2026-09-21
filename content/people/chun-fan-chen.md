@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-19
+last_reviewed: 2026-09-21
 ---
 # Prof. Chun-fan Chen (陳春帆博士)
 
@@ -54,3 +54,4 @@ Accomplishment
   - [[works/taiwaneseamericanhistory-org/676-03-2019|676. 吾妻吳明美/陳春帆教授/03/2019]] — memoir on his wife, corroborating the 吳明美 ([[people/min-mei-chen|吳明美]]) family entry
   - [[works/taiwaneseamericanhistory-org/28-prof-chun-fan-chen|28. Prof. Chun-fan Chen 陳春帆教授]] (2018-08-13) — his TAH encyclopedia record
 - Corpus dates (NTU B.S. 1959, Michigan Ph.D. 1971, FIU professor from 1973) match the existing tah-tables; no conflicts found.
+- Re-verified 2026-09-21: corpus re-grep (works/articles) returns exactly the six records already linked above (memoirs #189, #198, #588, #676, collection #46, encyclopedia #28) — no additional mention anywhere in the corpus; nothing further absorbable (saturated).
