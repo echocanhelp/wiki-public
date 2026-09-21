@@ -33,7 +33,7 @@ last_reviewed: 2026-09-21
 _No filled family fields on the TAH profile._
 
 ## Role in the Community
-- Served as president of the 5th Global Hakka Cultural Summer Conference (Dallas, TX, Jul. 2006), alongside Po-shih Chung, per the conference roster preserved in the corpus record [[works/taiwaneseamericanhistory-org/ourjourneys110-eng|ourjourneys110]] — the Hakka-Taiwanese conference lineage documented there lists each year's THA leadership.
+- Served as president of the 5th Global Hakka Cultural Summer Conference (Dallas, TX, Jul. 2006), alongside Po-shih Chung, per the conference roster preserved in the corpus record [[works/taiwaneseamericanhistory-org/ourjourneys110-eng|ourjourneys110]] — the Hakka-Taiwanese conference lineage documented there lists each year's THA leadership. The same roster is preserved in Chinese as [[works/taiwaneseamericanhistory-org/ourjourneys110|ourjourneys110（中文版）]]: 「2006年7月 全美台灣客家會第五屆文化夏令會 李武達會長／鍾博史 德州達拉斯 客家人的夢」 (checked again 2026-09-21 — no other memoir mentions).
 - His own TAH Who's Who entry (1403, 2016-11-19) is held as community historical record: [[works/taiwaneseamericanhistory-org/whoswho1403|1403. W. D. Lee 李武達]].
 
 ## Sources
