@@ -45,3 +45,5 @@ Eight published books on Taiwanese history and culture; on and African American 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+Corpus re-check (deepen-x 09201503-13, 2026-09-21): verified-saturated — fresh grep of works/ + articles/ returns only own TAH bibliographic records, the works index, or already-excluded mentions; no absorbable memoir text.
