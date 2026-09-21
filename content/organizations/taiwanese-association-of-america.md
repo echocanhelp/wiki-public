@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-20
+last_reviewed: 2026-09-21
 ---
 # Taiwanese Association of America (全美台灣同鄉會)
 
@@ -26,7 +26,7 @@ The Taiwanese Association of America (TAA, 全美台灣同鄉會) is a national 
 - National convention documented in [[works/taiwaneseamericanhistory-org/conferences31|TAHS #31 全美台灣同鄉會代表大會]]
 - Chapter records in the corpus: [[works/taiwaneseamericanhistory-org/sc-south-bay-chapter-taa|TAA 南加州南灣分會]], [[works/taiwaneseamericanhistory-org/e-newsletter-taa-atlanta|TAA Atlanta eNewsletter]], and a chapter-published history [[works/taiwaneseamericanhistory-org/history-of-taa-manhattan-ks|TAH #10 Brief History of TAA / Manhattan, KS 曼哈頓台灣同鄉會簡介]]; further chapter directory records: [[works/taiwaneseamericanhistory-org/iowa-city-iowa-chapter-taa|愛荷華分會 Iowa City]], [[works/taiwaneseamericanhistory-org/pittsburgh-chapter-taa|匹玆堡分會 Pittsburgh]], [[works/taiwaneseamericanhistory-org/wichita-chapter-taa|威奇塔市分會 Wichita]].
 - 1979–2021 — Chicago: 芝加哥台灣同鄉會 operated as an underground organization through the 1970s (its first presidents deliberately anonymous under martial law), held its first democratic election in 1979 under 王圭雄, and later became the TAA Chicago Chapter — [[works/taiwaneseamericanhistory-org/our-journeys-378|378. 芝加哥台灣同鄉會50年的歲月 /10/2021]].
-- Pre-1982 — the 台獨聯盟 and 全美台灣同鄉會 jointly won the two-thousand-times-ten (20,000) Taiwan immigrant quota, the first time the US treated Taiwan separately from China — 張月英's oral history — [[works/taiwaneseamericanhistory-org/ourjourneys49|49. 《台灣公論報》創刊 / 口述:張月英 /2014/10]].
+- Pre-1982 — the 台獨聯盟 and 全美台灣同鄉會 jointly won the 20,000-person Taiwan immigrant quota, the first time the US treated Taiwan separately from China — 張月英's oral history — [[works/taiwaneseamericanhistory-org/ourjourneys49|49. 《台灣公論報》創刊 / 口述:張月英 /2014/10]].
 - 1982 — in 蔡同榮's account of FAPA's founding, the sitting TAA president 杜哲 (Tu Chen) served as FAPA's organizer in its first committee, alongside WFTA and other movement bodies — [[works/taiwaneseamericanhistory-org/ourjourneys65-eng|65. FAPA的誕生 / The Birth of FAPA / 蔡同榮]].
 - 1990 — TAA president 蔡銘祿 (Los Angeles) hosted the census-campaign joint meetings (2/25 & 3/11) and TAA distributed the campaign videotapes nationwide; TAA was one of the twelve organizations in the joint 1990 census project — [[works/taiwaneseamericanhistory-org/ourjourneys253|TAH Our Journeys #253 (1990人口普查運動)]]
 - Oral history: 王博文 Powen Wang, advisor of the TAA Greater Philadelphia Chapter — [[works/taiwaneseamericanhistory-org/video-187|187. Advisor of TAAGPC – 王博文 Powen Wang's Journey | TAH Oral History Project]]
