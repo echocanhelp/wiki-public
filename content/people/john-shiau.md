@@ -33,6 +33,7 @@ last_reviewed: 2026-09-21
 
 ## Role in the Community
 - Profiled in the TAH Foundation community record: [[works/taiwaneseamericanhistory-org/111-dr-john-shiau|111. Dr. John Shiau]] (published 2014-11-24), part of the TAH Who's Who story corpus. The record places him in the Taiwanese American physician/entrepreneur cohort (University of Michigan → Minimally Invasive Spine Surgery Institute founder).
+- SKIP注記（2026-09-21 複核）：corpus 再grep（含 Shiau 變體）無此紀錄外之社群史料；驗證飽和。
 
 ## Family
 

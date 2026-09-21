@@ -37,6 +37,7 @@ _No filled family fields on the TAH profile._
 ## Role in the Community
 
 Listed in the TAH Foundation Who's Who encyclopedia record [[works/taiwaneseamericanhistory-org/whoswho1204|1204. S. C. Lin 林淑珠 / 2016/07]] (2016). No other corpus (memoir/article) mentions found beyond the source record itself; radiology career facts remain as recorded in the TAH profile.
+- SKIP注記（2026-09-21 複核）：再grep works/articles（含羅馬拼音 Shuzhu / Shu-chiu Lin 變體）無其他社群史料；頁面无待吸收事項，驗證飽和。
 
 ## Sources
 - [TAH #1204 encyclopedia: 1204. S. C. Lin 林淑珠 / 2016/07](https://taiwaneseamericanhistory.org/whoswho1204/)
