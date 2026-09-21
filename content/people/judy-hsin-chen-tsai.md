@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-20
+last_reviewed: 2026-09-21
 ---
 # Judy Hsin-Chen Tsai (蔡幸珍)
 
@@ -31,7 +31,7 @@ last_reviewed: 2026-09-20
 
 - Profiled in the TAH Who's Who encyclopedia ([[works/taiwaneseamericanhistory-org/845-judy-hsin-chen-tsai-201602|TAH #845, Judy Hsin-Chen Tsai 蔡幸珍 / 2016/02]])
 - 2015 — President, Northern America Taiwanese Women's Association, Southern California Chapter (北美洲台灣婦女會南加州分會)
-- 2018 — Elected individual director (個人董事), 11th board, 大洛杉磯台灣會館 (see From the record below)
+- 2018 — Elected individual director (個人董事), 11th board, 大洛杉磯台灣會館. Per the 會館會訊 she was one of 20 individual directors chosen at the 會員大會 (7 newly appointed, among them her); the 11th board totaled 30 directors with 13 new — the largest turnover in the 會館's history (老幹新枝), with 田詒鴻 unanimously elected 董事長. See From the record below.
 - Daughter Emily Muramoto 蔡蕙宇 is herself profiled in the TAH corpus as a vocalist: [[works/taiwaneseamericanhistory-org/331-emily-muramoto-vocalist-201602|TAH #331, Emily Muramoto 蔡蕙宇, Vocalist / 2016/02]]
 
 ## From the record
