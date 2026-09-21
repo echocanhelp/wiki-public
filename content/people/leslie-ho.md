@@ -70,3 +70,4 @@ _No filled family fields on the TAH profile._
 - Corpus re-grep 2026-09-17 (slice 09170500-5): hit set unchanged (#123, #9872, index, formosa-betrayed Leslie Hope 同名误配). SKIP — saturated; recommend dropping from future slices.
 - Corpus re-grep 2026-09-18 (slice 09180131-5): hit set unchanged (#123, #9872, index, formosa-betrayed Leslie Hope 同名误配). SKIP — saturated.
 - Corpus re-grep 2026-09-20 (slice 09181500-4): hit set unchanged (#123, #9872, index, formosa-betrayed Leslie Hope 同名误配). SKIP — saturated.
+- Corpus re-grep 2026-09-21 (deepen-x slice 09201300-4): hit set unchanged — own TAH records + works index only (already wikilinked); Leslie Ho slice also re-hit formosa-betrayed = Leslie Hope 同名误配. SKIP — saturated.
