@@ -35,6 +35,7 @@ _No filled family fields on the TAH profile._
 ## Role in the Community
 - Contributed the community essay 從《台灣旅行法》，看見台美人的草根外交 (10/2017), held in the TAH story corpus as a Band-A (community history) record ([[works/taiwaneseamericanhistory-org/ourjourneys320|record 320]]) — documents her grassroots-advocacy voice on the Taiwan Travel Act.
 - Her own TAH Who's Who encyclopedia entry is also a corpus record ([[works/taiwaneseamericanhistory-org/whos-who-1925-june-lin|TAH #1925]]) and corroborates the tah-tables roles above (李登輝基金會研究員、蘇治芬立委助理、FAPA Policy Fellow).
+- Signed the 2021 community statement [[works/taiwaneseamerican-org/pew-research-center-taiwanese-american-statement|Response to Pew Research Reports Hiding Taiwanese Identity]] (2021-05-01) listed as "June Lin, Formosan Association for Public Affairs" — her advocacy role in the identity-classification statement, corroborating the FAPA Policy Fellow record.
 - Consistent with the FAPA Policy Fellow role, sister FAPA chapters appear in the corpus-adjacent org pages ([[organizations/fapa-los-angeles|FAPA Los Angeles]], [[organizations/fapa-orange-county|FAPA Orange County]]).
 
 ## Sources
