@@ -37,6 +37,8 @@ _No filled family fields on the TAH profile._
 ## Role in the Community
 
 - **NATWA 2018 convention panel:** Featured at the NATWA convention panel "Tainamese & Taiwanese-American Filmmakers: Sharing Stories of Parent-Daughter Relationships" alongside Jessie Lee and Mian Mian Lu, joining via Skype as director of the short film "Color Positive." The panel presented three short films by women filmmakers featured at the inaugural Taiwanese American Film Festival (2017). ([[works/taiwaneseamerican-org/natwa2con|NATWA 2018 convention program]])
+- **Program bio detail (NATWA 2018):** the convention program describes her as a Taiwanese American director involved in over a dozen music videos and commercials, joining the panel by Skype; her site is listed as https://www.remiihuang.com/ ([[works/taiwaneseamerican-org/natwa2con|NATWA 2018 convention program]]).
+- **HOLD: conflict in source** — the same program text elsewhere attributes the festival-screened short "Never Let You Go" to Jessie Lee, while Remii Huang's own bio names her festival film "Color Positive"; do not merge the two attributions ([[works/taiwaneseamerican-org/natwa2con|NATWA 2018 convention program]]).
 - The TAH Who's Who press-kit note "Won the Best Female Director Award at the American Independent Film Festival" is not corroborated in the corpus; filmography details above are community-record primary material.
 
 ## Sources
