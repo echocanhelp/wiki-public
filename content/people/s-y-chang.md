@@ -51,6 +51,7 @@ _No filled family fields on the TAH profile._
 - Described in an Our Journeys roster as 哈佛大學副教授、精神科醫師 ([[works/taiwaneseamericanhistory-org/ourjourneys79|Our Journeys #79]]).
 - 1980-10-18 — As a first TAF Board of Directors member, passed the by-law renaming MFCF to TAF, alongside 莊明哲、陳植哲、洪宏謨、楊忠正、卓甫良; as second president he stressed Youth Works (Junior, JH, and High School youths) ([[works/taiwaneseamericanhistory-org/ourjourneys33-eng|Our Journeys #33-eng]]).
 - Corpus re-grep 2026-09-20 (slice 09190130-2): 張信義 / S. Y. Chang / Sidney Chang across content/works + content/articles — hit set identical to records already linked above (whoswho1651, OJ #33-eng/#74/#74-eng/#79/#377, TJJ 楊遠薰 TAF-history reprints 2021/2024/2025); no new absorbable material. HOLD on the English-name conflict stands.
+- Corpus re-check (slice deepen-x-slice-09201400-4, 2026-09-21): re-grep 張信義 — hit set unchanged (whoswho1651, OJ #33-eng/#74/#79/#377, index); all already linked. SKIP-no-new-material; HOLD stands.
 - HOLD: English-name conflict — TAH press-kit page "S. Y. Chang" vs memoir corpus "Sidney Chang"; not auto-merged.
 
 ## Related Pages
