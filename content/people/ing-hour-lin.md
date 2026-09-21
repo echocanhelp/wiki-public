@@ -29,7 +29,7 @@ last_reviewed: 2026-09-20
 
 ## From the record
 
-- 2020-05-15 — A NATPA letter to members on the death of his daughter Joyce Lin records that Lin served as President of the North America Taiwanese Professors' Association from 2009 to 2010 ([[articles/taiwanjustice-net/2025/20250614200802_為印尼偏鄉運送防疫物資_航空宣教使團_台裔_039ccce4163c57a9|TJJ, 2020-05-15]]).
+- 2020-05-15 — A NATPA letter to members on the death of his daughter Joyce Lin records that Lin served as President of the North America Taiwanese Professors' Association from 2009 to 2010. The letter adds that Joyce was a missionary pilot and IT specialist with Mission Aviation Fellowship (MAF) in Papua, Indonesia — a U.S. Air Force officer and MIT double-degree computer scientist who studied at Gordon-Conwell Theological Seminary — and died on 2020-05-12 in a plane crash while delivering COVID-19 test kits and supplies to a remote Papuan village ([[articles/taiwanjustice-net/2025/20250614200802_為印尼偏鄉運送防疫物資_航空宣教使團_台裔_039ccce4163c57a9|TJJ, 2020-05-15]]).
 
 ## Role in the Community
 
