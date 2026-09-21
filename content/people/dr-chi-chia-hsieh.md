@@ -53,3 +53,5 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+<!-- deepen-x slice 09201503-6 (2026-09-21): SKIP re-verified — corpus grep for 謝其嘉/Chi-chia Hsieh returns only his own record whos-who-2066 plus index listings; no memoir or community-body mentions. Page already saturated with the available corpus facts. -->

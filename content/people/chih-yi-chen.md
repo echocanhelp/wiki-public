@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-20
+last_reviewed: 2026-09-21
 ---
 # Chih-Yi Chen (陳志毅)
 
@@ -47,3 +47,5 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+<!-- deepen-x slice 09201503-6 (2026-09-21): SKIP re-verified — corpus grep for 陳志毅/Chih-Yi Chen returns only her own TAH #305/#675 records plus index listings; no third-party corpus mentions. -->
