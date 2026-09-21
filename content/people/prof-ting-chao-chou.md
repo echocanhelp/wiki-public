@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-20
+last_reviewed: 2026-09-21
 ---
 # Prof. Ting-Chao Chou (周廷潮教授)
 
@@ -37,7 +37,7 @@ _No filled family fields on the TAH profile._
 
 ## Role in the Community
 - Entered the community record via the TAH Foundation Who's Who profile, held in our corpus as [[works/taiwaneseamericanhistory-org/whos-who-1844-ting-chao-chou|1844. Prof. Ting-Chao Chou 周廷潮教授]] (published 2017-08-14, value band B).
-- Note: corpus grep found no memoir/article mentions beyond this own-record; nothing further absorbable.
+- Re-grepped 2026-09-21 (slice 09201503-20): no memoir/article mentions beyond this own-record and the works index; nothing further absorbable.
 
 ## Sources
 - [TAH #1844 encyclopedia: 1844. Prof. Ting-Chao Chou 周廷潮教授](https://taiwaneseamericanhistory.org/whos-who-1844-ting-chao-chou/)

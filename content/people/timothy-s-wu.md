@@ -38,6 +38,7 @@ _No filled family fields on the TAH profile._
 
 ## Role in the Community
 - Recorded in the TAH Foundation Who's Who corpus as [[works/taiwaneseamericanhistory-org/whoswho1332|1332. Timothy S. Wu 吳獻章 / 2016/10]] (published 2016-10-22, band B — bibliographic record; full text stays in the vault). No memoir or movement-activity material in the corpus beyond the press-kit tables above; the 'Timothy' matches in [[works/taiwaneseamericanhistory-org/464-the-life-thought-of-soren-kierkegaard-timothy-tian-min-lin-e5-a4-96-e6-96-87|464]] and the taiwaneseamerican-org records refer to other people (Timothy Tian-Min Lin, Timothy Tau) and are not him.
+- 語料複核（deepen-x 09201503-21, 2026-09-21）：再檢 content/works + content/articles，僅命中自身條目 whoswho1332 與 index，無任何回忆錄/運動材料提及吳獻章，無可吸收新材料。
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/timothy-s-wu/)

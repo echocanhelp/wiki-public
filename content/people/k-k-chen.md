@@ -36,7 +36,7 @@ _No filled family fields on the TAH profile._
 ## Role in the Community
 - **紐約筆會學術活動講者**：筆會 2004-05-23 舉辦第一次學術研討會，邀請自由時報主編陳國坤及太平洋時報專欄作家林資深博士主講寫作經驗；該場亦為筆會回忆文作者涉入筆會活動之始。見 [[works/taiwaneseamericanhistory-org/ourjourneys12|Our Journeys 12 — 紐約筆會十年]]。
 - 個人條目：[[works/taiwaneseamericanhistory-org/whoswho1350|TAH #1350 K. K. Chen 陳國坤 / 2016-10]]。
-- 語料複核（deepen-x 09190600-1, 2026-09-20）：再檢 content/works + content/articles，僅命中 ourjourneys12（已吸收）與自身條目 whoswho1350，無新增可吸收材料。
+- 語料複核（deepen-x 09190600-1 及 09201503-21, 2026-09-21）：再檢 content/works + content/articles，僅命中 ourjourneys12（已吸收：筆會首場學術研討會講者一節）與自身條目 whoswho1350，無新增可吸收材料。
 
 ## Sources
 - [TAH #1350 encyclopedia: 1350.  K. K. Chen 陳國坤 / 2016/10](https://taiwaneseamericanhistory.org/whoswho1350/)

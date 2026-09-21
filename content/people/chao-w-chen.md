@@ -33,6 +33,7 @@ _No filled family fields on the TAH profile._
 ## Role in the Community
 - Profiled in the TAH Foundation Who's Who corpus record [[works/taiwaneseamericanhistory-org/whoswho2091|2091. Chao W Chen 陳昭文 / 04/2018]] (band B — bibliographic record; full text stays in the vault). The record corroborates the Employment entry 美國聯邦政府環境保護署 資深科學家; no memoir or movement-activity material in the corpus beyond the tables above.
 - Named as a subject in the movement memoir record [[works/taiwaneseamericanhistory-org/ourjourneys233-eng|Our Journeys #233 (English)]], placing him within the TAH community-contributor network alongside other scientist/professional profilees.
+- 語料複核（deepen-x 09201503-21, 2026-09-21）：再檢 content/works + content/articles，僅命中 whoswho2091（自身條目）與 ourjourneys233-eng（已吸收）及 index，無新增可吸收材料。
 
 ## Sources
 - [TAH #2091 encyclopedia: 2091. Chao W Chen 陳昭文 / 04/2018](https://taiwaneseamericanhistory.org/whoswho2091/)

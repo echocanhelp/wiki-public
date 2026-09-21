@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-20
+last_reviewed: 2026-09-21
 ---
 # Prof. Chung-Cheng Hsieh (謝中誠教授)
 
@@ -36,7 +36,7 @@ _No filled family fields on the TAH profile._
 
 ## Role in the Community
 - Entered the community record via the TAH Foundation Who's Who profile, held in our corpus as [[works/taiwaneseamericanhistory-org/whos-who-2004-chung-cheng-hsieh|2004. Prof. Chung-Cheng Hsieh 謝中誠教授]] (published 2018-01-31, value band B).
-- Note: corpus grep found no memoir/article mentions beyond this own-record; nothing further absorbable.
+- Re-grepped 2026-09-21 (slice 09201503-20): no memoir/article mentions beyond this own-record and the works index; nothing further absorbable.
 
 ## Sources
 - [TAH #2004 encyclopedia: 2004. Prof. Chung-Cheng Hsieh 謝中誠教授](https://taiwaneseamericanhistory.org/whos-who-2004-chung-cheng-hsieh/)
