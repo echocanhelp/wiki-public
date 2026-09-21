@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-20
+last_reviewed: 2026-09-21
 ---
 # East Bay Taiwanese Americans Community Service Center EBTACSC (東灣台美人社區服務中心)
 
