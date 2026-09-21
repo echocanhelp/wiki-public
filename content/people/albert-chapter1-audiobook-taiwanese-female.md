@@ -4,7 +4,7 @@ type: person
 tags:
   - 
 verification_status: pending
-last_reviewed: 2026-09-19
+last_reviewed: 2026-09-21
 ---
 # Albert Chapter 1 Audiobook（第一章有聲版）
 
@@ -45,3 +45,5 @@ Pages that link to **albert-chapter1-audiobook-taiwanese-female** (albert-chapte
 - Chapter I: Formosan in Formosa Yesterday
 - Toward A Community of Hope
 - [[people/albert-s-lai||Dr. Albert S. Lai (賴信雄)]]
+
+<!-- deepen-x slice 09191200-28 recheck 2026-09-21: SKIP — fresh grep of works/+articles matched only own TAH whos-who work page and works/index; no independent memoir/article material. -->

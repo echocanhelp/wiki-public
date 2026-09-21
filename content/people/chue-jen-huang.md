@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-19
+last_reviewed: 2026-09-21
 ---
 # Chue-Jen Huang (楊純貞)
 
@@ -42,3 +42,5 @@ last_reviewed: 2026-09-19
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+<!-- deepen-x slice 09191200-28 recheck 2026-09-21: SKIP — fresh grep of works/+articles matched only own TAH whos-who work page and works/index; no independent memoir/article material. -->
