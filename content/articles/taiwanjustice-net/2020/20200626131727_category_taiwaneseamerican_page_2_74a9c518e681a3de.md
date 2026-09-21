@@ -297,6 +297,6 @@ May 26, 2020
 Load more
 
 ## Subjects
-- [[people/alan-thian.md|田詒鴻]] — mentioned in this record
-- [[people/bi-khim-hsiao.md|蕭美琴]] — mentioned in this record
+- [[people/alan-thian|田詒鴻]] — mentioned in this record
+- [[people/bi-khim-hsiao|蕭美琴]] — mentioned in this record
 
