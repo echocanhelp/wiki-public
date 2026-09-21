@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-19
+last_reviewed: 2026-09-21
 ---
 # Alexander Yeh (葉怡平)
 
@@ -38,7 +38,7 @@ _No filled family fields on the TAH profile._
 
 ## Role in the Community
 
-Corpus review 2026-09-19: the only corpus mentions are the subject's own TAH Who's Who record — [[works/taiwaneseamericanhistory-org/whoswho1392|1392. Alexander Yeh 葉怡平 / 2016/11]] (published 2016-11-13, band B). No third-party mentions found in memoirs or community works; no new facts absorbable beyond the TAH press-kit record above.
+Corpus review 2026-09-21: the only corpus mentions are the subject's own TAH Who's Who record — [[works/taiwaneseamericanhistory-org/whoswho1392|1392. Alexander Yeh 葉怡平 / 2016/11]] (published 2016-11-13, band B). No third-party mentions found in memoirs or community works; no new facts absorbable beyond the TAH press-kit record above.
 
 ## Sources
 - [TAH #1392 encyclopedia: 1392. Alexander Yeh 葉怡平 / 2016/11](https://taiwaneseamericanhistory.org/whoswho1392/)

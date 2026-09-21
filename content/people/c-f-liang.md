@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-19
+last_reviewed: 2026-09-21
 ---
 # C.F. Liang (梁昌夫)
 
@@ -34,6 +34,7 @@ last_reviewed: 2026-09-19
 <!-- tah-tables:end -->
 
 ## Role in the Community
+Corpus review 2026-09-21: fresh grep found no mentions beyond his own record below.
 - His TAH Who's Who profile is itself preserved in the story corpus as record **1492** (published 2017-01-30, value band B) — [[works/taiwaneseamericanhistory-org/whoswho1492|1492. C.F. Liang 梁昌夫 / 2017/01]]. This is the only corpus footprint found; no memoir or event records name him.
 
 ## Family
