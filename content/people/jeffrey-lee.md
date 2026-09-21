@@ -40,6 +40,7 @@ _No filled family fields on the TAH profile._
 - From 1986 he managed the 中西部台灣人夏令會基金 finances on a volunteer basis, reporting yearly at the summer-camp presidents' meeting; around 2010 he handed fund management to the 理事長, per [[works/taiwaneseamericanhistory-org/our-journeys-376|376. 中西部台灣人夏令會簡史]].
 - Listed in the 芝加哥台灣人 community roster as 「MBA會計師，税務專家」: [[works/taiwaneseamericanhistory-org/ourjourneys79|79. 芝加哥台灣人名錄]] — corroborates the TAH profile's accounting/tax career.
 - Wrote the memoir [[works/taiwaneseamericanhistory-org/my-stories-406|406. 憶亡兄 / 李友禮 / 02/2016]].
+- His own TAH encyclopedia record is held in-corpus as a work page: [[works/taiwaneseamericanhistory-org/831-jeffrey-lee-e6-9d-8e-e5-8f-8b-e7-a6-ae-022016|831. Jeffrey Lee 李友禮 / 02/2016]] (published 2016-02-22, value band B) and lists him as a named subject.
 - 中西部夏令會簡史 records he passed away in 2017 — TAH profile lists only Era 1940 with no death date. HOLD: conflict TAH profile (living-era only) vs 376 (d. 2017).
 
 ## Sources
