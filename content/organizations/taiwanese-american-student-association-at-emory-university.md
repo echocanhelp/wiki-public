@@ -25,6 +25,7 @@ The Taiwanese American Student Association at Emory University (Emory TASA) is a
 
 ## Corpus note
 - 2026-09-19 re-grep: corpus hits remain the two work pages already linked in Role in the Community; unrelated TaiwanJustice news mentions of Emory carry no TASA facts. No new material.
+- 2026-09-21 re-grep (slice 09191100-19): no new Emory-TASA hits in works/articles beyond the two work pages already linked. No new material.
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-american-student-association-at-emory-university/)
