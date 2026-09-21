@@ -25,6 +25,7 @@ last_reviewed: 2026-09-21
 - TAHS holds a run of the chamber's own yearbook publications, evidencing continuous activity from at least 1999 through 2007: [[works/taiwaneseamericanhistory-org/813-e5-8f-b0-e7-be-8e-e5-95-86-e6-9c-831999-e5-b9-b4-e5-88-8a-e6-b4-9b-e6-9d-89-|台美商會1999年刊]], [[works/taiwaneseamericanhistory-org/818-e5-8f-b0-e7-be-8e-e5-95-86-e6-9c-832004-e5-b9-b4-e5-88-8a-e6-b4-9b-e6-9d-89-|台美商會2004年刊]], and [[works/taiwaneseamericanhistory-org/821-e5-8f-b0-e7-be-8e-e5-95-86-e6-9c-832007-e5-b9-b4-e5-88-8a-e6-b4-9b-e6-9d-89-|台美商會2007年刊]] (magazine/雜誌 band).
 - **TAHS encyclopedia record:** [[works/taiwaneseamericanhistory-org/23-e6-b4-9b-e6-9d-89-e7-a3-af-e5-8f-b0-e7-be-8e-e5-95-86-e6-9c-83|23. 洛杉磯台美商會/2014/09]] (2014-09).
 - Sibling bodies in the vault (distinct orgs, not this chapter): [[works/taiwaneseamericanhistory-org/taiwanese-american-chamber-of-commerce-of-oklahoma|奧克拉荷馬台灣商會]] and [[works/taiwaneseamericanhistory-org/taccnc|北加州台灣工商會]].
+- Co-initiating organization (共同發起單位) of the 2021-05-13 Southern California Chinese-community joint statement supporting Taiwan's participation in the World Health Assembly, press conference at 洛杉磯華僑文教服務中心 — corpus record [[articles/taiwanjustice-net/2021/20210616072940_2021_05_17_2021年南加州僑界支持台灣參與世界衛生大會wha聯合聲_b1d58af16c0a5e5b|2021年南加州僑界支持台灣參與WHA聯合聲明]]. Listed alongside [[organizations/taiwanese-american-historical-society|台美人歷史協會]] among the 40+ initiating groups.
 
 ## Source Notes
 

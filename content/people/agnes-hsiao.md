@@ -40,7 +40,7 @@ last_reviewed: 2026-09-21
 ## Role in the Community
 
 - **西雅圖台灣會館副館長 / Assistant Director, Seattle Taiwan Center** — per the Foundation's own organizational record, the Taiwan Center committee is run by Center Director 劉真真 (Clara Chen) with two Assistant Directors, 李素琴 (Su-chin Li) and 黃美琇 (Agnes Hsiao), plus four rotating staff and a volunteer team. See [[works/taiwaneseamericanhistory-org/ourjourneys30-eng|Our Journeys 30 (EN)]] and [[works/taiwaneseamericanhistory-org/ourjourneys30|Our Journeys 30]].
-- **會館營運** — under this committee structure the Center sustained itself on student rent offsetting the mortgage interest, volunteer 芋圓/粽子 sale fundraisers, and a few donations — the operating reality she co-managed as 副館長 per the same record: [[works/taiwaneseamericanhistory-org/ourjourneys30-eng|Our Journeys 30 (EN)]].
+- **會館營運** — under this committee structure the Center sustained itself on student rent offsetting the mortgage interest, volunteer 粽子（glutinous rice dumpling）sale fundraisers, and a few donations — the operating reality she co-managed as 副館長 per the same record: [[works/taiwaneseamericanhistory-org/ourjourneys30-eng|Our Journeys 30 (EN)]].
 - **TAH 台美人回憶錄作者** — her memoir essay 「失與得」 appeared in 2016/09: [[works/taiwaneseamericanhistory-org/mystoreis459|459. 失與得 / 黃美琇 / 09/2016]]; her Who's Who entry is [[works/taiwaneseamericanhistory-org/whos796-agnes-hsiao|796. Agnes Hsiao 黃美琇 / 2016/02]].
 - **美東台美人社團** — recorded as a newly joined member alongside 李碧娥、陳堅 during East Coast community discussions that also covered 美東夏令會 formats (see [[works/taiwaneseamericanhistory-org/ourjourneys265|Our Journeys 265]]).
 
