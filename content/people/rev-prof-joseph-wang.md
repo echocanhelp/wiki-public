@@ -46,3 +46,5 @@ His own TAH encyclopedia entry is held in the vault at [[works/taiwaneseamerican
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+<!-- deepen-x slice 09201503-17 (2026-09-21): SKIP re-verified — corpus re-grep (王守仁/Joseph Wang) hits only own TAH #1668 record + works index; Taiwan Justice "Joseph Wang" mentions are unrelated individuals. -->
