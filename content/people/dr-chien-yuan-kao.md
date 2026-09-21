@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-20
+last_reviewed: 2026-09-21
 ---
 # Dr. Chien Yuan Kao (高健元博士)
 
@@ -40,4 +40,4 @@ Accomplishment
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
-<!-- DEEPEN-X SKIP 2026-09-20: corpus grep (高健元 / Chien Yuan Kao, works+articles) returned only own TAH #1736 Who's Who record (band B, bibliographic) + index entry. No memoir/community records; nothing absorbable. No bio invented. -->
+<!-- DEEPEN-X SKIP 2026-09-20; re-verified SKIP 2026-09-21 (slice 09210051-14): corpus grep (高健元 / Chien Yuan Kao / Chien-Yuan Kao, works+articles) returned only own TAH #1736 Who's Who record (band B, bibliographic) + index entry. No memoir/community records; nothing absorbable. No bio invented. -->

@@ -7,13 +7,14 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-20
+last_reviewed: 2026-09-21
 ---
 # George Ho (何震輝)
 
 <!-- deepen-x 09172104-1: SKIP — corpus grep (何震輝|George Ho) only hits the bibliographic record
      [[works/taiwaneseamericanhistory-org/whoswho1503|1503. George Ho 何震輝 / 2017/02]]
-     (B-band, no article text) and the works index. No community/memoir facts absorbable. -->
+     (B-band, no article text) and the works index. No community/memoir facts absorbable.
+     Re-verified SKIP 2026-09-21 (slice 09210051-14): same result, still only own record + index. -->
 
 ## Identity Snapshot
 - **English:** George Ho

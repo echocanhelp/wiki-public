@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-20
+last_reviewed: 2026-09-21
 ---
 # Dr. Jer-Yuan Tsai (蔡哲元醫師)
 
@@ -40,4 +40,4 @@ last_reviewed: 2026-09-20
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
-<!-- DEEPEN-X SKIP 2026-09-20: corpus grep (蔡哲元 / Jer-Yuan Tsai, works+articles) returned only own TAH #1809 Who's Who record (band B, bibliographic) + index entry. No memoir/community records; nothing absorbable. No bio invented. -->
+<!-- DEEPEN-X SKIP 2026-09-20; re-verified SKIP 2026-09-21 (slice 09210051-14): corpus grep (蔡哲元 / Jer-Yuan Tsai / Jer Yuan Tsai, works+articles) returned only own TAH #1809 Who's Who record (band B, bibliographic) + index entry. No memoir/community records; nothing absorbable. No bio invented. -->

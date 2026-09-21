@@ -6,7 +6,7 @@ tags:
   - Taiwanese-American
   - Taiwan-Center-group-member
 verification_status: published
-last_reviewed: 2026-09-20
+last_reviewed: 2026-09-21
 ---
 # Ching Ying Cultural and Educational Foundation
 
@@ -24,7 +24,7 @@ last_reviewed: 2026-09-20
 - **Content priority A:** Name on Taiwan Center group-members page  
 - **Hub:** [[sources/taiwancenter-org||taiwancenter.org]]  
 - **Content priority C:** Independent history not expanded from listing alone  
-- **Deepen-x 2026-09-18 / re-check 2026-09-20 (slice 09181300-27):** SKIP-with-reason — no corpus hits in works/articles beyond the Taiwan Center listing itself (grep 慶瑛文教基金會 / Ching-Ying / 陳金銀: 0 hits); nothing absorbable, no biography invented.
+- **Deepen-x 2026-09-18 / re-check 2026-09-20 (slice 09181300-27):** SKIP-with-reason — no corpus hits in works/articles beyond the Taiwan Center listing itself (grep 慶瑛文教基金會 / Ching-Ying / 陳金銀: 0 hits); nothing absorbable, no biography invented. Re-verified 2026-09-21 (slice 09210051-14): grep 慶瑛文教 / Ching Ying / Ching-Ying across works+articles — still 0 hits.
 
 ## Related Pages
 
