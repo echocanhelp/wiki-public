@@ -235,6 +235,9 @@ On a phone, **use header search** (漢名 or English). This page is an A–Z lis
 
 ### R {#r}
 
+[[organizations/north-america-taiwanese-medical-association-foundation|Redirect → North American Taiwanese Medical Association Foundation]]
+[[organizations/taiwanese-american-student-association-at-ohio-state-university|Redirect → Taiwanese American Student Association Ohio State University]]
+[[organizations/taiwaneseamericanhistory-org|Redirect → Taiwaneseamerican Org]]
 [[organizations/taiwan-center-foundation-of-greater-los-angeles|Redirect → 大洛杉磯台灣會館]]
 [[organizations/rice-taiwanese-association|Rice Taiwanese Association]]
 [[organizations/rice-taiwanese-graduate-student-association|Rice Taiwanese Graduate Student Association]]

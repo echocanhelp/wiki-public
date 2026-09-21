@@ -12,6 +12,10 @@ last_reviewed: 2026-09-11
 # Tai Lin (林泰)
 
 ## Identity Snapshot
+
+> **Primary work page:** [[sources/toward-a-community-of-hope|Toward A Community of Hope (work & sources)]]  
+> **Full text (GitHub):** [complete extract](https://github.com/echocanhelp/wiki-public/blob/gh-pages/knowledge/web-archives/albert-lai-toward-community-of-hope.md)
+
 - **English:** Tai Lin
 - **Chinese:** 林泰
 - **Era:** Birth Place
@@ -44,6 +48,8 @@ Dr. Tai Lin was born in Taipei, Taiwan and graduated from Taiwan National Tsing 
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/tai-lin/)
 
 ## Related Pages
+
+- [[sources/toward-a-community-of-hope|Toward A Community of Hope]]
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - [[works/taiwaneseamericanhistory-org/552-tai-lin-e6-9e-97-e6-b3-b0-conductor-201508||TAH encyclopedia: Tai Lin 林泰, Conductor (2015/08)]]

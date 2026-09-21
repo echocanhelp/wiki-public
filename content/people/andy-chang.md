@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-19
+last_reviewed: 2026-09-20
 ---
 # Andy Chang (張繼昭博士)
 
@@ -38,7 +38,7 @@ _No filled family fields on the TAH profile._
 
 ## Role in the Community
 
-- Political commentator in the Taiwanese American movement: the TAH publications corpus preserves three of his essays on Taiwan's sovereignty question — [[works/taiwaneseamericanhistory-org/publications174|174. 台灣號 會沉沒? (2002/04)]], [[works/taiwaneseamericanhistory-org/publications1050|1050. 拉法葉弊案的研究 (2006/06)]], and [[works/taiwaneseamericanhistory-org/publications1051|1051. 台灣號的航向 (2010)]].
+- Political commentator in the Taiwanese American movement: the TAH publications corpus preserves four of his essays on Taiwan's sovereignty question — [[works/taiwaneseamericanhistory-org/publications174|174. 台灣號 會沉沒? (2002/04)]], [[works/taiwaneseamericanhistory-org/publications205|205. 台灣號加油]], [[works/taiwaneseamericanhistory-org/publications1050|1050. 拉法葉弊案的研究 (2006/06)]], and [[works/taiwaneseamericanhistory-org/publications1051|1051. 台灣號的航向 (2010)]]. The recurring 「台灣號」 title motif frames his sovereignty commentary across the 2000s–2010s.
 - His Who's Who entry is held as its own record: [[works/taiwaneseamericanhistory-org/whoswho1442|1442. Andy Chang 張繼昭 / 2016/12]].
 - Recognized as a movement speaker: listed among the 台美人著名學者 (with 郭正昭 and 王文隆) invited to the UFAI 台灣人大會 in [[works/taiwaneseamericanhistory-org/ourjourneys260|Our Journeys #260]], and later lecturer on 台灣國際外交突破 at the 長青教室 ([[works/taiwaneseamericanhistory-org/ourjourneys107|Our Journeys #107]]).
 
