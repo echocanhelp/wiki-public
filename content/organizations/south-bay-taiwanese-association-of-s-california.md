@@ -7,7 +7,6 @@ tags:
   - Taiwan-Center-group-member
 verification_status: published
 last_reviewed: 2026-09-21
-published: true
 ---
 # South Bay Taiwanese Association of S. California.
 
