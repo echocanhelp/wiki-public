@@ -48,3 +48,5 @@ last_reviewed: 2026-09-21
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+<!-- DEEPEN-X SKIP 2026-09-21: corpus re-grep (李永杰 / Benny Lee, works+articles) returned only own TAHS #1327 Who's Who record (band B, bibliographic) + index entry. No memoir/community records beyond existing Role section; nothing absorbable. -->

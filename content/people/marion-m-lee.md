@@ -48,3 +48,5 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+<!-- DEEPEN-X SKIP 2026-09-21: corpus re-grep (李明瑱 / Marion M Lee, works+articles) returned only own TAHS #1017 Who's Who record (band B, bibliographic) + index entry. No memoir/community records beyond existing Role section; nothing absorbable. -->
