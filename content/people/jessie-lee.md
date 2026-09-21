@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-20
+last_reviewed: 2026-09-21
 ---
 # Jessie Lee (李潔晞)
 
@@ -39,6 +39,7 @@ _No filled family fields on the TAH profile._
 - Director of **"Never Let You Go,"** audience-award winner at the first Taiwanese American Film Festival (2017). [[works/taiwaneseamericanhistory-org/whos-who-2083-jessie-lee|TAH encyclopedia profile 2083]]
 - Featured (in person) at the **NATWA Taiwanese American Women's Convention & Filmmaker Panel** (2018-03-16), a panel of three Taiwanese/TA women filmmakers (with Remii Huang and Mian Mian Lu) sharing parent-daughter stories. [[works/taiwaneseamerican-org/natwa2con|NATWA Convention Filmmaker Panel program]] · [[organizations/natwa-southern-california|NATWA Southern California]]
 - HOLD: the NATWA program text is internally inconsistent — one passage names Jessie Lee as director of "Never Let You Go," another attributes that film to Remii Huang (whose own film is listed as "Color Positive"); not resolved, audience-award attribution kept per TAH #2083.
+- Corpus re-grep 2026-09-21 (slice 09201500-26): hits limited to her own TAH #2083 record and the NATWA2con panel program, both already absorbed above; no new memoir/article coverage. Verified-saturated.
 
 ## Sources
 - [TAH #2083 encyclopedia: 2083. Jessie Lee 李潔晞](https://taiwaneseamericanhistory.org/whos-who-2083-jessie-lee/)

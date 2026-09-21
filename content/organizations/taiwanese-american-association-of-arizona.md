@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-20
+last_reviewed: 2026-09-21
 ---
 # Taiwanese American Association of Arizona (亞歷桑那州)
 
@@ -25,6 +25,7 @@ The TAH encyclopedia holds a dedicated directory record for the chapter: [[works
 HOLD: Chinese name rendered 亞歷桑那州 on this page vs 亞利桑那州台灣同鄉會 in the TAH work record — two transliterations of "Arizona", not merged.
 
 Note: the acronym TAAA also belongs to a different org, [[works/taiwaneseamericanhistory-org/taiwanese-american-arts-association-taaa|台美藝術協會 (Taiwanese American Arts Association)]] — not this chapter.
+- Corpus re-grep 2026-09-21 (slice 09201500-26): the only other Arizona mentions (ourjourneys58 / ourjourneys338 — 1977 TAC/EC yearbook statistics and a Greyhound travel anecdote) reference the state, not the chapter; no absorbable chapter facts. Verified-saturated.
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-american-association-of-arizona/)
