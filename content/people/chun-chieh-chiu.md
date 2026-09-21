@@ -39,6 +39,7 @@ _No filled family fields on the TAH profile._
 - 2021-05-06 — TJJ「林榮松」標籤頁（2023-05-30 存檔）亦獨立收錄該場五人論壇影音條目，為邱俊杰與林榮松、許正雄同場談世衛參與的第二處存檔佐證（[[articles/taiwanjustice-net/2023/20230530153327_tag_林榮松_9de57bf0b60501a7|TJJ tag 林榮松, 2023-05-30 存檔]]）。
 - 2021-05-02 — 因曾帶隊親赴日內瓦參與WHO宣導活動，獲邀以前總會長身分（與林榮松、許正雄並列）出席「台灣入WHO論壇」（NATMA 主辦、大洛杉磯台灣會館協辦之線上講座），討論「台灣加入世衛組織的歷程與展望」（[[articles/taiwanjustice-net/2021/20210509160827_2021_04_18_大洛杉磯台灣會館生活講座_五_-台灣入who論壇5_6d9cd937dedb11f7|TJJ, 2021-04-18 公告]]）。
 - 2020-11-18 — 以北美洲台灣人醫師協會總會基金會董事長身分，赴駐洛杉磯經文處出席林榮松獲聘行政院政務顧問致頒聘書儀式觀禮（[[articles/taiwanjustice-net/2020/20201126144045_2020_11_19_南加州林榮松僑務諮詢委員獲聘行政院政務顧問_06510e79e7a07f48|TJJ 洛僑中心, 2020-11-19]]）。
+- Corpus re-grep 2026-09-21: hit set unchanged (whoswho1540、works index、四筆 TJJ WHA/世衛論壇存檔頁) — all absorbed above; verified saturated.
 
 ## Role in the Community
 

@@ -27,6 +27,7 @@ Primary source: 李昭鋐's chapter memoir [[works/taiwaneseamericanhistory-org/
 - Sister-city/province ties the chapter helped activate: Taipei–Indianapolis 1978-09-11, Indiana–台灣省 1979-11-06,彰化–Muncie 1985, 蘆州–Bloomington 1989 (memoir notes the last two faded).
 - Advocacy pipeline: from the 1990s 莊振戊, 吳群也, 吳良也, 楊水森, 黃邦雄, 吳義雄, 何源泉, 吳錦鍠 and 蕭玉川 worked through **FAPA 印第安納州分會** [[works/taiwaneseamericanhistory-org/23-indiana-chapter-fapa|23. Indiana Chapter / FAPA 台灣人公共事務會印第安納州分會]] to move Indiana's delegation (Sen. Richard Lugar, Rep. Lee Hamilton) on Taiwan democratization and Taiwan Strait security.
 - Noted members: 陳敏佑 (Albert Chen, Telamon Corporation — 2023-11-02 Indiana Sachem Award, long-time chapter sponsor) and 莊振戊 (first Taiwanese Olympian in judo).
+- Corpus re-grep 2026-09-21: hits are the chapter's own memoir [[works/taiwaneseamericanhistory-org/our-journeys-389|Our Journeys 389]] plus an index listing in the Our Journeys table of contents — no other corpus material beyond what is already absorbed above; page verified saturated.
 - **2023-04-17**: IRS approved the rename to 印州台灣同鄉會 / Taiwanese Association of Indiana (members spread from South Bend to Vincennes made the old Indianapolis name inaccurate) — the name on this page's title is the post-2023 name.
 - HOLD: conflict — the TAH directory lists the chapter under the TAA (全美台灣同鄉會) national chapter directory, while the 2023 memoir describes a standalone incorporated association (founded for NCI membership, advocacy via FAPA); no auto-merge of the TAA-chapter status.
 

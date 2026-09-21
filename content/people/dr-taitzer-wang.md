@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-20
+last_reviewed: 2026-09-21
 ---
 # Dr. Taitzer Wang (王泰澤博士)
 
@@ -54,3 +54,5 @@ last_reviewed: 2026-09-20
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 複核（deepen-x 2026-09-20）：corpus re-grep（王泰澤/Taitzer）命中集合與前次相同（150、ourjourneys293、my-stories-161/162、private-collections-95、our-journeys-359），全數已吸收並 wikilink，無新增社群材料。
+
+複核（deepen-x 2026-09-21）：corpus re-grep（王泰澤/Taitzer）命中集合不變（150、ourjourneys293、my-stories-161/162、private-collections-95、our-journeys-359），全數已吸收，無新增材料。

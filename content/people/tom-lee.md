@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-20
+last_reviewed: 2026-09-21
 ---
 # Dr. Tom Lee (李木通博士)
 
@@ -40,6 +40,10 @@ last_reviewed: 2026-09-20
 - **Still active in community endorsements (2025):** Listed among 台美人社區領袖 attending Michelle 朴銀珠's congressional campaign gathering in 柑縣 as 台灣會館前董事長. ([[articles/taiwanjustice-net/2025/20250808005844_台美人社區領袖力挺柑縣國會眾議員朴銀珠競選連_2fc3294ed01f2d2a|taiwanjustice 2025-08-08]])
 - **Community media host:** As 社長 of 美洲台灣日報 he hosted the 台美人物誌 video interview series, e.g. the 黃茂清律師專訪 (2016-11-30). ([[works/taiwaneseamericanhistory-org/videos48|TAHS video #48]])
 - **Essayist:** Published 730. 從陳文成命案談起 in the TAHS story corpus (2020/05). ([[works/taiwaneseamericanhistory-org/my-stories-730|TAHS story #730]])
+- **Interviewer of movement elders:** Conducted the 台美人物誌 video interview of 人權鬥士、台獨先鋒 王泰 (with 攝錄：黃樹人、文字整理：Edda Huang), preserved in the community article record 化作千風—懷念台美人的人權鬥士 台獨先鋒王泰. ([[articles/taiwanjustice-net/2025/20250811013132_化作千風_懷念台美人的人權鬥士_台獨先鋒王泰_31b7081a5d37939f|taiwanjustice article]])
+- **台美人物誌 series organizer:** The 台美人物誌 video/text interview series ran as a joint 大洛杉磯台灣會館、美洲台灣日報、美國鷹社 sponsored project, 李木通策劃 / 黃樹人文字整理 — e.g. the 王克雄夫婦專訪 and the 半世紀前UCLA的那些日子 座談 (與談人 李木通、[[people/thomas-liu|劉天良]]、[[people/huang-gen-shen|黃根深]]). ([[articles/taiwanjustice-net/2024/20240905070707_root_a4f51e89fe5a4080|王克雄 memoir article]], [[articles/taiwanjustice-net/2024/20240520023218_root_89e6683c93156205|UCLA座談 article]])
+- **Fundraising convenor:** As convener (召集人) with 陳文石, delivered remarks at the 洛杉磯信賴之友會募款餐會大進場. ([[articles/taiwanjustice-net/2024/20240520024652_root_4536db9927402596|taiwanjustice event record]])
+- Corpus re-grep 2026-09-21（李木通／Dr. Tom Lee）: beyond already-absorbed memoir/encyclopedia hits, new community records (王泰專訪、王克雄專訪、信賴之友會募款餐會、UCLA座談報導) absorbed above; remaining hits are index/manifest files only.
 
 ## Family
 
