@@ -31,6 +31,8 @@ The chapter appears repeatedly in the TAH corpus record:
 - Sister fellowship group in the same district: the 聖東生活座談會 (East San Gabriel Valley life-seminar circle), founded **October 1992** by 林富文夫婦 (inspired by the 輕鬆生活座談會 and 沈富雄's oratory) together with 孫嘉璘、郭漢甫、賴淑遠、許貞華, later joined by 陳秀真、林碧玉、許寬正、林文政、賴慧娜、黃瑞祥 — noted as women-majority, with members' community service directed to 北美州婦女會、陳文成基金會、同鄉會、FAPA、公民協會 per the movement-wide 生活座談會 memoir ([[works/taiwaneseamericanhistory-org/ourjourneys212|Our Journeys 212, 生活座談會史]]); a 2016 bibliographic record of the circle: [[works/taiwaneseamericanhistory-org/es-shingwa-society|聖東生活座談會 (2016)]].
 - Runs community gardening outreach of its own: 園藝分享會 (e.g. 3/12) and hosting the 蔬果秋收嘉年華會 on 9/9, as reported under TJJ's 園藝 coverage ([[articles/taiwanjustice-net/2023/20231208120554_root_46c96aaab38ad7f2|TJJ, 園藝]]).
 
+Corpus re-grep 2026-09-20 (slice 09191100-2): all 聖東 / East San Gabriel Valley hits reviewed — year specials 1998/2001, parade works 18/125, and the TAA directory entry were already absorbed; the only new absorbable material was the 聖東生活座談會 founding note, added above.
+
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-american-association-east-san-gabriel-valley/)
 
