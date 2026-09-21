@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-20
+last_reviewed: 2026-09-21
 ---
 # Tony Chen (陳國洸)
 
@@ -41,6 +41,7 @@ last_reviewed: 2026-09-20
 - TAHS-published writer: [[works/taiwaneseamericanhistory-org/83-e5-8f-b0-e7-81-a3-e6-83-85-e6-bc-82-e6-b3-8a-e5-bf-83-e9-99-b3-e5-9c-8b-e6-b4|83. 台灣情 漂泊心 / 2003-01 文學]] and [[works/taiwaneseamericanhistory-org/publications1000|1000. 相思情曲‧夢 / 2016-03 生活]].
 - His memoir piece [[works/taiwaneseamericanhistory-org/80-e9-99-b3-e5-9c-8b-e6-b4-b8-e5-bc-94-e5-bf-b5-e4-ba-a1-e5-a6-bb-ef-bc-9a-e6-80|80. 弔念亡妻李文枝：思念妳]] corroborates the Family entry 李文枝 (deceased) and documents him as a TAHS contributor.
 - Who's Who bibliographic record: [[works/taiwaneseamericanhistory-org/whos145|145. Tony Chen 陳國洸 / 2014/12]] (band B).
+- Corpus re-grep 2026-09-21 (slice 09201500-11): hit set unchanged (ourjourneys76 + -eng, works 83/80/1000, whos145) — the -eng memoir copy carries the same Austin roster (Tony Chen among 吳木盛's ten picks) with no extra facts. SKIP-for-deepening: page already carries the full community record.
 
 ## Sources
 - [TAH #145 encyclopedia: 145. Tony Chen 陳國洸 / 2014/12](https://taiwaneseamericanhistory.org/whos145/)

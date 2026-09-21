@@ -26,6 +26,8 @@ The TA.org story corpus documents campus activity at Georgia Tech within the int
 
 HOLD: the corpus records place events at Georgia Tech but does not name the organizing chapter; attribution of these events specifically to GT TSA (vs. ad-hoc student groups) is inferred, not stated. Kept as campus activity evidence only.
 
+Re-grep 2026-09-21 (slice 09201500-12): corpus hits unchanged (the two Georgia Tech event records above, plus an unrelated gallery-venue list in [[works/taiwaneseamericanhistory-org/ourjourneys256|236-series artist bio ourjourneys256]] where Georgia Tech appears only as an exhibition venue). Nothing absorbable beyond what is already recorded — SKIP-for-deepening, page is corpus-saturated.
+
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-student-association-at-georgia-tech/)
 

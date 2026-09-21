@@ -52,4 +52,4 @@ HOLD: 通訊錄將他列於 Utah，Who's Who 傳記頁與現職（USDA、IDDS �
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
-> SKIP-note (deepen-x slice 09190700-5, 2026-09-20): corpus re-grep hit set identical to records already linked above; no new absorbable corpus facts.
+> Saturate-note (deepen-x slices 09190700-5 / 09201500-14, 2026-09-21): corpus re-grep hit set identical to records already linked above; no new absorbable corpus facts.

@@ -46,3 +46,5 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+> Saturate-note (deepen-x slice 09201500-14, 2026-09-21): corpus re-grep hit set = whos-who-1923 + mystories597 + 台積研發六騎士 article, all linked above; no new absorbable corpus facts.

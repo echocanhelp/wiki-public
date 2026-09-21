@@ -26,7 +26,7 @@ Founding Member and President of East Tennessee Taiwanese American Association (
 - His own oral-history memoir is in the corpus: [[works/taiwaneseamericanhistory-org/ourjourneys102|102. 諾誠回憶 / 汪雅煌 /2015/02]] (value band A — oral history, 2015-02).
 - Encyclopedia profile record: [[works/taiwaneseamericanhistory-org/293-yea-hwang-uang-e6-b1-aa-e9-9b-85-e7-85-8c201502|293. Yea-Hwang Uang 汪雅煌 / 2015/02]].
 - Org page: [[organizations/taiwanese-association-of-america-east-tennessee|TAA East Tennessee]].
-- Corpus grep re-verified 2026-09-20 (slice 09190445-2): hit set unchanged (ourjourneys313/-eng, encyclopedia record 293, own memoir 102). SKIP-for-deepening: page already carries the full community record.
+- Corpus grep re-verified 2026-09-21 (slice 09201500-12): hit set unchanged (ourjourneys313/-eng, encyclopedia record 293, own memoir 102). One detail newly absorbed from 張輝雄's founding memoir: during the 1974–75 organizing phase, it was either 高民環 or 汪雅煌 (the author could not recall which) who first approached 張輝雄 to serve as founding president — evidence Uang was in the innermost organizing circle. The chapter was originally founded as 「諾誠台灣同鄉會」 (Knoxville Taiwanese Association) and only later renamed 東田納西台灣同鄉會 at the request of nearby chapters.
 
 <!-- tah-tables:start -->
 ## Education
