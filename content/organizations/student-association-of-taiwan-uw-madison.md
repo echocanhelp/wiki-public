@@ -21,6 +21,8 @@ The Student Association of Taiwan (SAT) at the University of Wisconsin–Madison
 ## Role in the Community
 - Community memoir 他們這樣愛台灣：威斯康辛大學「台灣布袋戲團」的故事 (朱靜女, [[works/taiwaneseamericanhistory-org/ourjourneys277|Our Journeys #277]]) records the UW-M 台灣同學會 (Taiwan student association) as founded in 1996 "為了宣揚台灣意識而成立" — by 1997 it had a first president (謝良瑜) and partnered with the late 陳清風教授 (no page yet) to found the UW-M 台灣布袋戲團, whose debut was 虎姑婆 at the Milwaukee Moon Festival in 1997; the troupe ran 20+ years via "卡拉OK布袋戲" (pre-recorded narration) as turnover cycled through members.
 - Note (not merged): the memoir's named founding president 謝良瑜 and ~1996 founding predate/precede the WIN-directory registration evidence; both kept side by side. Related local body: [[organizations/taiwanese-association-of-madison-wi|Taiwanese Association of Madison, WI]].
+- An earlier UW-M 台灣同學會 lineage is recorded in 劉兆民's memoir [[works/taiwaneseamericanhistory-org/ourjourneys205|Our Journeys #205 (劉兆民)]]: 周烒明 physician organized the 台灣同學會 on the UW campus — described as the first Taiwanese student association founded in the U.S. — and the Kuomintang government retaliated by revoking his ROC passport, rendering him stateless in America. HOLD: this earlier (1960s–70s era) 台灣同學會 vs the memoir #277's 1996 founding — the page does not merge the two lineages.
+- Per the same memoir (citing 鄭麗伶, 自由時報 2015-11-13): UW-M's pre-existing 中國同學會 merged with the UW 台灣同學會 in 2006, taking the present name 「台灣同學會」 — the only dated institutional change in the corpus.
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/student-association-of-taiwan-uw-madison/)
