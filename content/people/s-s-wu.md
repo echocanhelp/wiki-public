@@ -28,6 +28,9 @@ last_reviewed: 2026-09-21
 - 畫家,雕塑家
 <!-- tah-tables:end -->
 
+## Role in the Community
+Artist (畫家、雕塑家), from 羅東, 宜蘭; NTNU B.S. 美術. Recorded in the TAH Foundation Who's Who encyclopedia as entry 1549, published 2017-03-15: [[works/taiwaneseamericanhistory-org/whoswho1549|1549. S. S. Wu 吳炫三 / 2017/03]] — the vault holds the bibliographic record only (full text stays in the TAH archive), so no further community facts are absorbable from the corpus.
+
 ## Family
 
 _No filled family fields on the TAH profile._

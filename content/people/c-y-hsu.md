@@ -9,7 +9,7 @@ tags:
   - calligrapher
   - educator
 verification_status: pending
-last_reviewed: 2026-08-18
+last_reviewed: 2026-09-21
 ---
 # Tsan Yu Hsu (許贊育)
 

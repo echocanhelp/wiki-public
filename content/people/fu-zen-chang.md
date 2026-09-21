@@ -25,6 +25,9 @@ last_reviewed: 2026-09-21
 - National Taiwan University — 1971 — M.D.
 <!-- tah-tables:end -->
 
+## Role in the Community
+Physician (NTU M.D. 1971). Recorded in the TAH Foundation Who's Who encyclopedia as entry 1339, published 2016-10-25: [[works/taiwaneseamericanhistory-org/whoswho1339|1339. Fu-Zen Chang 張輔仁 / 2016/10]] — bibliographic record only in the vault. A same-day entry records 張耀元 (Adam Chang) at [[works/taiwaneseamericanhistory-org/whoswho1338|1338. Adam Chang 張耀元 / 2016/10]]; no family relation is stated in the corpus — unknown (HOLD: no stated relation).
+
 ## Family
 
 _No filled family fields on the TAH profile._
