@@ -6,7 +6,7 @@ tags:
   - taiwanese-american
   - tahs-publication-2017
 verification_status: pending
-last_reviewed: 2026-09-20
+last_reviewed: 2026-09-21
 ---
 # Guo Shu-qing (郭淑卿)
 
