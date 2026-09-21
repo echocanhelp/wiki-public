@@ -7,9 +7,12 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-19
+last_reviewed: 2026-09-21
 ---
 # Dennis Wang (王梓仁)
+
+## Corpus pass (deepen-x slice 09191219-1, 2026-09-21): SKIP
+Re-checked corpus: the only hits for 王梓仁 / Dennis Wang in works+articles are his own TAH #537 bibliographic record, already wikilinked in ## Role in the Community below. No memoir/article mentions to absorb; nothing invented, nothing published.
 
 ## Identity Snapshot
 - **English:** Dennis Wang

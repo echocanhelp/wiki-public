@@ -6,7 +6,7 @@ tags:
   - Taiwanese-American
   - Taiwan-Center-group-member
 verification_status: published
-last_reviewed: 2026-09-19
+last_reviewed: 2026-09-21
 ---
 # North American Taiwanese Medical Association - Southern California Chapter（NATMA-SCC）
 
