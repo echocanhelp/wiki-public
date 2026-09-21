@@ -7,7 +7,7 @@ tags:
   - philanthropy
   - awards
 verification_status: published
-last_reviewed: 2026-09-20
+last_reviewed: 2026-09-21
 
 ---
 # Taiwanese American Foundation (TAF)
