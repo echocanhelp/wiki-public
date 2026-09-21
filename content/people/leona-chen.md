@@ -54,4 +54,4 @@ last_reviewed: 2026-09-20
 - [[organizations/taiwaneseamerican-org||TaiwaneseAmerican.org]]
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
-- [[sources/taiwaneseamerican-org]]]]
+- [[sources/taiwaneseamerican-org|TaiwaneseAmerican.org]]
