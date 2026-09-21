@@ -27,6 +27,7 @@ American Citizens for Taiwan (ACT) is a U.S. nonprofit organization composed of 
 - Karen Lin, ACT Engagement Director and former executive director of the Taiwanese American Foundation, spoke on an SF 228-events discussion panel ([[works/taiwaneseamerican-org/a-personal-discussion-panel-in-sf-on-the-events-of-228-taiwanese-american-perspe|SF 228 panel]]).
 - Chieni McCullough signed the Pew-era Taiwanese American community statement listed as "Chieni McCullough, American Citizens for Taiwan" ([[works/taiwaneseamerican-org/pew-research-center-taiwanese-american-statement|Pew-era community statement]]).
 - Directory record held in the corpus: [[works/taiwaneseamericanhistory-org/american-citizens-for-taiwan|ACT 西雅圖美台會 (TAH directory, 2018-06-26)]].
+- Corpus check 2026-09-21 (slice 09201400-13): re-grepped content/works + content/articles — hit set identical to the records already wikilinked above; no new absorbable material.
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/american-citizens-for-taiwan/)

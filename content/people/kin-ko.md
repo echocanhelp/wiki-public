@@ -55,6 +55,8 @@ M.S., Aerospace Engineering; Ph.D. Course Program
 - Wrote on community affairs: employment guidance for Taiwanese students staying in the US ([[works/taiwaneseamericanhistory-org/ourjourneys219|留美台灣青年就業座談會, 2016-04]]) and a memorial for Dr. Ting Pao-ting ([[works/taiwaneseamericanhistory-org/mystories-744|悼念鄭寶鼎博士, 2020-09]]).
 - 報導紐澤西台語教師研習會（2014-08-30~09-01，北澤西佳壇台語教會，僑務委員蔡榮聰醫師主辦，台語專家鄭安住主講〈台語文之美妙〉，八十多位鄉親參與，協辦含北澤西台灣同鄉會與大紐約區海外台灣人筆會）— [[works/taiwaneseamericanhistory-org/ourjourneys42|42. 《台語文之美妙》紐澤西台灣人社團舉辦台語教師研習會, 2014-10]]。
 
+- Corpus check 2026-09-21 (slice 09201400-13): re-grepped content/works + content/articles — hit set identical to the records already wikilinked above; no new absorbable material.
+
 ## From the record
 
 - 2021-02-28 — 台美史料中心3月通訊刊出柯金寅撰〈緬懷楊教授國雄兄〉：楊國雄2021年元旦逝世於紐澤西州蒙特克萊爾，享壽八十三；2月5日蒙特克萊爾州立大學舉辦線上追思會（[[articles/taiwanjustice-net/2021/20210419132127_2021_02_28_march-2021-newsletter-t-a-archives-台美史料中心_0832558e3b4e5ac7|TJJ, 2021-02-28]]；同文另存 [[articles/taiwanjustice-net/2026/20260208202549_march-2021-newsletter-t-a-archives-台美史料中心_b7327dcf888cee82|2026-02-08 快照]]）。
