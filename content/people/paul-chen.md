@@ -59,6 +59,13 @@ Owner 2026-08-17: this is the same person as the TAHS officer (CPA), **not** the
 - Overseas Chinese Affairs Consultant (僑務顧問)
 <!-- tah-tables:end -->
 
+## Corpus record (taiwanjustice-net)
+
+- 2021-01-12: signed as 大洛杉磯台灣會館董事長 in the five-city 台灣會館 joint statement opposing politicisation of the 萊豬 issue — [[articles/taiwanjustice-net/2021/20210121172817_2021_01_12_美國五大台灣會館評萊豬_反對科學議題政治化_1251d9ed43ef6e32|五大台灣會館萊豬聲明]].
+- 2021-05-17: 共同發起人 of the 南加州僑界 joint statement supporting Taiwan's WHA participation — [[articles/taiwanjustice-net/2021/20210616072940_2021_05_17_2021年南加州僑界支持台灣參與世界衛生大會wha聯合聲_b1d58af16c0a5e5b|2021 WHA 聯合聲明]].
+- 2020-08-04: first 僑胞 to pay respects at the 洛僑中心 Lee Teng-hui 追思中心, praising his democratisation record — [[articles/taiwanjustice-net/2021/20210126001847_2020_08_04_洛僑中心橙僑中心設立追思中心供僑眾緬懷李登輝_243529fc5970581a|洛僑中心李登輝追思]].
+- HOLD (unchanged): the 2021-01 濟困 record titles him 副董事長 while TAH #1788 lists 董事長 2020–2022 — never auto-merged.
+
 ## Taiwan Justice (台灣公義網) Citations
 
 - **2024-10-04** — *2024大洛杉磮台灣會館第26周年年會晚宴暨募款活動11月2日舉行* (score 690)
