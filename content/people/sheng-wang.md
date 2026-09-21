@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-20
+last_reviewed: 2026-09-21
 ---
 # Sheng Wang
 
@@ -38,7 +38,10 @@ Covered repeatedly by Taiwanese-American press as a stand-up comedian and commun
 - 2010-02-05 — hosted a Go!Style community event: [[works/taiwaneseamerican-org/a-proud-sponsor-of-gostyle-hosted-by-comedian-sheng-wang|Go!Style, hosted by Sheng Wang]].
 - 2010-02-14 — feature profile on his material about everyday Taiwanese-American experience: [[works/taiwaneseamerican-org/comedian-sheng-wang-and-the-surreality-of-everyday-mundane-experiences|The Surreality of Everyday Mundane Experiences]].
 - 2010-10-15 — appearance taping for Comedy Central Presents in New York City: [[works/taiwaneseamerican-org/comedian-sheng-wang-at-comedy-central-presents-in-new-york-city|Comedy Central Presents, NYC]].
+- 2011-01-28 — the taping aired on Comedy Central: [[works/taiwaneseamerican-org/comedian-sheng-wang-on-comedy-central-january-28|On Comedy Central, January 28]].
 - 2012-01-27 — performed at SF Sketchfest Dozen: [[works/taiwaneseamerican-org/comedian-sheng-wang-performs-at-sf-sketchfest-dozen|SF Sketchfest Dozen]].
+- 2012-04-29 — weekend show at Punchline, Sacramento: [[works/taiwaneseamerican-org/ta-comedian-sheng-wang-performs-at-sacramento-punchline-this-weekend|Sacramento Punchline]].
+- 2014-02-21 — stand-up performance in San Francisco: [[works/taiwaneseamerican-org/standup-comedy-performance-with-sheng-wang-in-sf|Standup in SF]].
 - 2014-04-13 — stand-up performance in Texas, his hometown region: [[works/taiwaneseamerican-org/standup-comedy-performance-with-sheng-wang-in-texas|Standup in Texas]].
 
 ## Sources
