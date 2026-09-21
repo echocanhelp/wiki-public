@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-20
+last_reviewed: 2026-09-21
 ---
 # G. N. Liao (廖光男)
 
@@ -36,7 +36,7 @@ _No filled family fields on the TAH profile._
 
 The TAH community record documents 廖光男 as the **first president** (創會會長) of the [[organizations/orange-county-taiwanese-association|Orange County Taiwanese Association (OCTA, 柑縣台灣同鄉會-南加州)]], taking office in 1987 — the founding year recorded in the encyclopedia entry. His directory record pairs the OCTA founding leadership with his business as owner of the Wakiki Motel in Orange County.
 
-Work pages touching his OCTA leadership:
+Work pages touching his OCTA leadership (語料庫目錄日期：#253 收錄於 2016-02-10、#2256 收錄於 2020-04-20):
 - [[works/taiwaneseamericanhistory-org/253-e5-bb-96-e5-85-89-e7-94-b7-the-first-president-of-orange-county-taiwanese-as|TAH #253. 廖光男 — The first president of OCTA, 1987]]
 - [[works/taiwaneseamericanhistory-org/orange-county-taiwanese-association-octa|OCTA 柑縣台灣同鄉會(南加州) record]]
 - [[works/taiwaneseamericanhistory-org/activities-of-octa|OCTA 的活動]]
