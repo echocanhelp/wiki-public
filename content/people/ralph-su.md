@@ -28,7 +28,7 @@ last_reviewed: 2026-09-20
 
 ## Role in the Community
 
-Per the church memoir in [[works/taiwaneseamericanhistory-org/ourjourneys43|Our Journeys 43]], Rev. Ralph Su served 新澤西中部聖恩長老教會 (Grace Taiwanese Presbyterian Church) from **August 2004 to December 2007**, arriving in 2004 to help the congregation achieve **charter status** — consistent with the TAH listing of him as the church's 組織牧師.
+Per the church memoir in [[works/taiwaneseamericanhistory-org/ourjourneys43|Our Journeys 43]], Rev. Ralph Su served 新澤西中部聖恩長老教會 (Grace Taiwanese Presbyterian Church) from **August 2004 to December 2007**, arriving in 2004 to help the congregation achieve **charter status** — consistent with the TAH listing of him as the church's 組織牧師. The memoir places him third in the church's early pastoral line: after 組織牧師 Rev. Paul Tsai (1999–2002) and temporary supply Rev. Shang-Ren Chen (2003–2004, later president of Taiwan Theological Seminary), and before Rev. Peter Chao (from March 2010).
 
 His own TAH Who's Who entry is itself in the corpus: [[works/taiwaneseamericanhistory-org/whoswho1724|1724. Ralph Su 蘇惠智 / 07/2017]].
 
