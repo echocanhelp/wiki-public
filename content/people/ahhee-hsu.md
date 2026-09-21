@@ -79,3 +79,6 @@ Accomplishment
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - [[sources/laijohn-com||laijohn.com]] — 書法家許贊育 (2012)
+
+## Revision History
+- 2026-09-21 (DEEPEN-HSU-PARENTS): person page confirmed (created 2026-09-20 from owner-supplied names); Desert Springs 2026-09 photo custody record added to From the record; wife [[people/tsai-ying-ju|蔡瀛如]] and Family cross-links verified on leonard-hsu-jr.md and hung-jen-liu.md caption.
