@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-20
+last_reviewed: 2026-09-21
 ---
 # Freeman Lin (林日榮)
 
@@ -31,6 +31,9 @@ last_reviewed: 2026-09-20
 ## Family
 
 _No filled family fields on the TAH profile._
+
+## Role in the Community
+- Corpus record: [[works/taiwaneseamericanhistory-org/whoswho1034|1034. Freeman Lin 林日榮 / 2016-05]] — the person's own TAH Foundation encyclopedia entry in our corpus. Fresh 2026-09-21 ZH+EN greps of content/works and content/articles found no further memoir mentions beyond this own record.
 
 ## Sources
 - [TAH #1034 encyclopedia: 1034. Freeman Lin 林日榮/ 2016/05](https://taiwaneseamericanhistory.org/whoswho1034/)

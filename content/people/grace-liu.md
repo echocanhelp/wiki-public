@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-21
 ---
 # Grace Liu
 
@@ -33,6 +33,11 @@ last_reviewed: 2026-08-17
 ## Family
 
 _No filled family fields on the TAH profile._
+
+## Role in the Community
+
+- TAHS 故事檔案庫收有本人的紀錄: [[works/taiwaneseamericanhistory-org/whoswho982|982. Grace Liu（TAH故事記錄, 2016-05-08）]]。
+- 語料庫檢索（2026-09-21, 中英名雙查）僅命中此條 TAH Who's Who 書目紀錄, 無其他回憶錄或社運文本可吸收。
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/grace-liu/)

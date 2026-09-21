@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-20
+last_reviewed: 2026-09-21
 ---
 # Cady Tsai (蔡暉玲)
 
@@ -36,6 +36,9 @@ last_reviewed: 2026-09-20
 - **Husband:** Jeff Cancilla
 - **Son:** Daniel Cancilla, Maxwill Cancilla
 
+
+## Role in the Community
+- Corpus record: [[works/taiwaneseamericanhistory-org/72-cady-tsai|71. Cady Tsai / 2014-10]] — the person's own TAH Foundation encyclopedia entry in our corpus. Fresh 2026-09-21 ZH+EN greps of content/works and content/articles found no further memoir mentions beyond this own record.
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/cady-tsai/)
