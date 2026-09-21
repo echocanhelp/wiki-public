@@ -28,8 +28,6 @@ last_reviewed: 2026-09-21
 ## From the record
 - **Name-collision guard:** "Judy Hsu" appearing as Rainbow Group agent (CA SoS 1984) is **NOT** her — owner-confirmed 2026-09-20: James & Judy Hsu were her husband's business partners, family name coincidental. Do not merge.
 - Family business history: [[organizations/good-shine-kitchen]] (sold to Jiping Sun, no family relation).
-
-## From the record
 - **2026-09-19/20** — Photographed with her husband [[people/ahhee-hsu||許丕龍]] and Rev. Hung-Jen Liu (劉弘仁, PC(USA) Presbytery of San Francisco) at the PC(USA) Desert Springs weekend retreat, Southern California (~400 attendees). Photo in corpus custody: `knowledge/interactions/photos/2026-09-desert-springs-retreat-hsu-parents-with-rev-hung-jen-liu.jpg` (publication pending owner consent; page itself gated `publish: false` until owner GO).
 
 ## NEED YOU
