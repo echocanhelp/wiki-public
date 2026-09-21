@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-20
+last_reviewed: 2026-09-21
 ---
 # Taiwanese Association of Syracuse (雪城台灣同鄉會)
 
@@ -26,6 +26,7 @@ The Taiwanese Association of Syracuse (雪城台灣同鄉會) is a local chapter
 - Regional mutual aid: 李俊廷 of Syracuse supported the neighboring Elmira (伊城) chapter's eastern summer camps and North American softball/golf tournaments: [[works/taiwaneseamericanhistory-org/ourjourneys310|Our Journeys 310 — 伊城同鄉會史]].
 - The chapter published its own newsletter, 鄉訊: [[works/taiwaneseamericanhistory-org/newsletter-by-syracuse-taiwanese-association|Newsletter 鄉訊 by Syracuse Taiwanese Association 雪城台灣同鄉會]] (recorded 2017-01-05).
 - A chapter history was contributed to the corpus: [[works/taiwaneseamericanhistory-org/history-of-taiwanese-association-of-americasyracuse|History of Taiwanese Association of America — Syracuse]] (recorded 2017-10-04; also held as「雪城台灣同鄕會簡介」).
+- Early sport organizing: the corpus history of North American softball records Syracuse (with Ann Arbor, East Lansing, Detroit) as an early campus where Taiwanese students played baseball/softball — the practice that grew into the 福爾摩莎杯 (F.C.) tournament series: [[works/taiwaneseamericanhistory-org/ourjourneys185|185. 早期台灣人在北美洲的壘球賽 / 呂俊廷 /2015/11]]. Syracuse also hosted visiting delegations in the Pittsburgh association's road-games circuit (picnic/BBQ + softball meet-ups): same memoir.
 - Sibling Syracuse-area community record: the FAPA New York Syracuse chapter, [[works/taiwaneseamericanhistory-org/39-new-york-syracuse-chapter-fapa|39. New York Syracuse Chapter / FAPA]] (2015-11-24).
 
 Parent organization: [[organizations/taiwanese-association-of-america|Taiwanese Association of America]].
