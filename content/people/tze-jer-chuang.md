@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-20
+last_reviewed: 2026-09-21
 ---
 # Tze-jer Chuang (莊子哲)
 
@@ -34,6 +34,9 @@ Mechanical Engineer
 - National Institute of Standards and Technology — 2003 — Mechanical Engineer
 - Nuclear Regulatory Commission — 2004~ — Structural Engineer
 <!-- tah-tables:end -->
+
+## Role in the Community
+- 本庫唯一紀錄為自身 TAH Who's Who 檔案 741（2015/12，書目紀錄）。2026-09-21 覆核（deepen-x 09200900-26）：works/、articles/ 再查僅見此紀錄，無回憶錄或社群事蹟可吸收。
 
 ## Family
 
