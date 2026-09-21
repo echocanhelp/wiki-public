@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-20
+last_reviewed: 2026-09-21
 ---
 # Dr. Stephen Chen (陳貞華博士)
 
@@ -22,7 +22,7 @@ last_reviewed: 2026-09-20
 2. Chairman of the US East Party Dept. of the Taiwan Solidarity Alliance (台灣團結聯盟美東黨部主委)
 
 ## Role in the Community
-- Corpus re-grep 2026-09-20: hit set identical to the absorbed set (own TAH #1690 record, ourjourneys260 講員 mention, works index, and the 陳欽明醫師 same-name works under HOLD below) — no new community facts this pass. SKIP-with-reason.
+- Corpus re-grep 2026-09-21 (deepen-x 09201500-10): hit set identical to the absorbed set (own TAH #1690 record, ourjourneys260 講員 mention, works index, and the 陳欽明醫師 same-name works under HOLD below) — no new community facts this pass. SKIP-with-reason.
 - 企業家兼臺灣團結聯盟美東主委：受邀在第四十五屆美東夏令會擔任講員（企業家兼臺灣團結聯盟美東主委陳貞華，見翁進治大會備忘錄，2016-10）。見 [[works/taiwaneseamericanhistory-org/ourjourneys260|260. 第四十五屆美東夏令會備忘錄＆聲明]]
 - 本人 TAH 檔案記錄：[[works/taiwaneseamericanhistory-org/whos-who-1690-stephen-chen|1690. Dr. Stephen Chen 陳貞華博士]]
 - HOLD（姓名衝突，未合併）：corpus 另有 **Dr. Stephen Chen = 陳欽明醫師**（醫師、文物收藏家、影音紀錄頻道），漢名與本頁 陳貞華博士（工程師）不同，極可能為同名另一人：[[works/taiwaneseamericanhistory-org/102-dr-chin-ming-stephen-chen|102. Dr. Chin-Ming Stephen Chen 陳欽明醫師]] · [[works/taiwaneseamericanhistory-org/collection-of-dr-stephen-chen|14. 陳欽明醫師的收藏]] · [[works/taiwaneseamericanhistory-org/videos17|17. 陳欽明醫師影音紀錄頻道]]
