@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-19
+last_reviewed: 2026-09-21
 ---
 # Tsuey-Tang Wang (王萃堂)
 
@@ -37,7 +37,7 @@ _No filled family fields on the TAH profile._
 
 ## Role in the Community
 
-- Profiled in the TAH Foundation Who's Who encyclopedia as record [[works/taiwaneseamericanhistory-org/795-tsuey-tang-wang-e7-8e-8b-e8-90-83-e5-a0-82-201601|795. Tsuey-Tang Wang 王萃堂 / 2016-01]] (value band B, published 2016-01-31). This is the only corpus record found — no memoir or community-organization mentions elsewhere in the vault, so no further movement activity can be absorbed without new sources.
+- Profiled in the TAH Foundation Who's Who encyclopedia as record [[works/taiwaneseamericanhistory-org/795-tsuey-tang-wang-e7-8e-8b-e8-90-83-e5-a0-82-201601|795. Tsuey-Tang Wang 王萃堂 / 2016-01]] (value band B, published 2016-01-31). This is the only corpus record found — no memoir or community-organization mentions elsewhere in the vault, so no further movement activity can be absorbed without new sources. Re-grepped 2026-09-21 (王萃堂 / Tsuey): no additional absorbable mentions → SKIP.
 
 ## Sources
 - [TAH #795 encyclopedia: 795. Tsuey-Tang Wang 王萃堂 /2016/01](https://taiwaneseamericanhistory.org/795-tsuey-tang-wang-%e7%8e%8b%e8%90%83%e5%a0%82-201601/)

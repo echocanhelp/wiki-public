@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-19
+last_reviewed: 2026-09-21
 ---
 # Prof. Tien-Her Wang (王天合教授)
 
@@ -35,7 +35,7 @@ last_reviewed: 2026-09-19
 
 ## Role in the Community
 - His own TAH Who's Who encyclopedia entry is preserved in the corpus as [[works/taiwaneseamericanhistory-org/whos-who-2261-tien-her-wang|2261. Prof. Tien-Her Wang 王天合教授 (TAH record, 2020-04-27)]].
-- The tah-tables above (WUFI 台獨聯盟 central committee member; TAA 巴頓路奇 chapter president) are the movement-side record available for this page; no memoir text in works/ or articles/ adds further community activity, so no additional claims absorbed.
+- The tah-tables above (WUFI 台獨聯盟 central committee member; TAA 巴頓路奇 chapter president) are the movement-side record available for this page; no memoir text in works/ or articles/ adds further community activity, so no additional claims absorbed. Re-grepped 2026-09-21 (王天合 / Tien-Her): only the own TAH entry and `works/index` hit → SKIP.
 
 ## Sources
 - [TAH #2261 encyclopedia: 2261. Prof. Tien-Her Wang 王天合教授/04/2020](https://taiwaneseamericanhistory.org/whos-who-2261-tien-her-wang/)

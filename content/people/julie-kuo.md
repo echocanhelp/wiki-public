@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-19
+last_reviewed: 2026-09-21
 ---
 # Julie Kuo (郭瑞筠)
 
@@ -25,6 +25,8 @@ Source from 美洲台灣日報http://taiwandaily.net/gp2.aspx?_p=kSF1c9zU9HSCNp9
 ## Education
 - Hawaii University — B.S.
 <!-- tah-tables:end -->
+
+- deepen-x recheck 2026-09-21 (slice-09191200-22): fresh grep of content/works + content/articles for both name forms matched only this person's own TAH bibliographic work record and the works index — no memoir/community text to absorb. SKIP-with-reason; existing corpus links verified resolving.
 
 ## Family
 

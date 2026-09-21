@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-19
+last_reviewed: 2026-09-21
 ---
 # Prof. Shumei S. Sun
 
@@ -32,6 +32,8 @@ Professor and Chair, Dept. of Biostatistics
 ## Employment
 - Virginia Commonwealth Univ. — Professor and Chair, Dept. of Biostatistics
 <!-- tah-tables:end -->
+
+- deepen-x recheck 2026-09-21 (slice-09191200-22): fresh grep of content/works + content/articles for both name forms matched only this person's own TAH bibliographic work record and the works index — no memoir/community text to absorb. SKIP-with-reason; existing corpus links verified resolving.
 
 ## Family
 

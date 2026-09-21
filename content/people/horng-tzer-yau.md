@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-18
+last_reviewed: 2026-09-21
 ---
 # Horng-Tzer Yau (姚鴻澤)
 
@@ -31,6 +31,8 @@ last_reviewed: 2026-09-18
 - Stanford University — 2003 — professor
 - Harvard University — 2005 — professor
 <!-- tah-tables:end -->
+
+- deepen-x recheck 2026-09-21 (slice-09191200-22): fresh grep of content/works + content/articles for both name forms matched only this person's own TAH bibliographic work record and the works index — no memoir/community text to absorb. SKIP-with-reason; existing corpus links verified resolving.
 
 ## Family
 

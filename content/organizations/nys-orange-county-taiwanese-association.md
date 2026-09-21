@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-19
+last_reviewed: 2026-09-21
 ---
 # NYS Orange County Taiwanese Association (紐約橙縣台灣同鄉會)
 
@@ -23,7 +23,7 @@ The NYS Orange County Taiwanese Association (紐約橙縣台灣同鄉會) is a r
 
 ## Review Note (2026-09-18)
 
-SKIP (no absorbable corpus material; re-confirmed 2026-09-19): zero hits in `content/works` / `content/articles` for 紐約橙縣台灣同鄉會 / "NYS Orange County". HOLD: near-duplicate page [[organizations/orange-county-taiwanese-association|Orange County Taiwanese Association]] (title jaccard 0.80, nightly P1 audit) — identity (NY-state vs California chapter) unresolved; manual merge decision needed, no corpus evidence to settle it.
+SKIP (no absorbable corpus material; re-confirmed 2026-09-21): zero hits in `content/works` / `content/articles` for 紐約橙縣台灣同鄉會 / "NYS Orange County"; the only Orange County corpus records (OCTA/OCATCA club, newsletter, albums) are the California association, not this NY chapter. HOLD: near-duplicate page [[organizations/orange-county-taiwanese-association|Orange County Taiwanese Association]] (title jaccard 0.80, nightly P1 audit) — identity (NY-state vs California chapter) unresolved; manual merge decision needed, no corpus evidence to settle it.
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
