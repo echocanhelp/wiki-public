@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-20
+last_reviewed: 2026-09-21
 ---
 # C. L. Hong (洪健棣牧師)
 
@@ -41,6 +41,7 @@ _No filled family fields on the TAH profile._
 
 ## Timeline
 - 2002 — 牧師, Atlanta Taiwanese Presbyterian Church (ongoing per TAH profile)
+- 2011-11-27 — His congregation, the Atlanta Taiwanese Presbyterian Church (Stone Mountain, GA), hosted a screening/symposium of the documentary 《好國好民》Dear Taiwan (dir. 陳麗貴, supported by 全美台灣同鄉會 and 華府台灣文化中心) as part of its US tour — [[articles/taiwanjustice-net/2024/20240719002430_root_1f001897255f71a7|《好國好民》美國各地放映座談會 (Taiwan Justice Net, 2011-11)]]
 - 2017-01 — Profiled in TAH Who's Who ([[works/taiwaneseamericanhistory-org/whoswho1483|#1483 C. L. Hong 洪健棣]])
 
 ## Sources
