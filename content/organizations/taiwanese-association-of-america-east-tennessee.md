@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-20
+last_reviewed: 2026-09-21
 ---
 # Taiwanese Association of America East Tennessee (東田納西)
 
@@ -29,6 +29,7 @@ The Taiwanese Association of America East Tennessee (東田納西 台灣同鄉�
 - HOLD: founding-history author 張惠雄 (Hui-hsiung Chang) has no person page in the vault yet; not wikilinked.
 - Corpus re-grep (slice deepen-x-slice-09180131-9, 2026-09-18): hit set = OJ 313 (+EN)、314、大煙山麓 record、Brief History、directory record — all now linked; no new absorbable material.
 - Corpus re-grep (slice deepen-x-09181500-6, 2026-09-20): hit set = OJ 313 (+EN)、314、大煙山麓 record、Brief History、directory、OJ 245 — all linked; 1982 Tusculum camp building-namings absorbed from OJ 245 above.
+- **Newsletter continuity (re-grep 2026-09-21, slice 09201400-2).** The chapter's later community bulletin is preserved as a bibliographic record — 2017-10-12 ([[works/taiwaneseamericanhistory-org/east-tennessee-taiwanese-news|East Tennessee Taiwanese News 東田納西台灣同鄉會鄉訊]]) — extending the chapter's self-documentation record from 大煙山麓 (1994–95) into the 2010s. Bibliographic record only; no new narrative detail.
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-association-of-america-east-tennessee/)

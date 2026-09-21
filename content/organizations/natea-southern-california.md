@@ -6,7 +6,7 @@ tags:
   - Taiwanese-American
   - Taiwan-Center-group-member
 verification_status: published
-last_reviewed: 2026-09-20
+last_reviewed: 2026-09-21
 ---
 # North America Taiwanese Engineering & Science Association(NATEA)
 
@@ -30,6 +30,8 @@ Corpus check 2026-09-18 (NATEA material in the vault concerns the parent associa
 - **Dedicated chapter record (re-check 2026-09-20).** The corpus carries a dedicated bibliographic record for this chapter — record 11, published 2015-12-22 ([[works/taiwaneseamericanhistory-org/natea-southern-california-chapter|11. Southern California Chapter / NATEA 北美台灣工程師協會南加分會]]); bibliographic record only (full text stays in the TAH vault), so it confirms the chapter's existence and dating but adds no narrative detail.
 - **Chapter network.** Parallel dedicated records exist for sibling chapters — Illinois, Florida, Silicon Valley, Dallas, Seattle, Greater New York, Chicago, St. Louis, Austin, North Carolina, Upper State New York (e.g. [[works/taiwaneseamericanhistory-org/florida-chapter-natea|Florida chapter]], [[works/taiwaneseamericanhistory-org/natea-silicon-valley-chapter|Silicon Valley chapter]], [[works/taiwaneseamericanhistory-org/business-by-natea-dallas|Dallas]], [[works/taiwaneseamericanhistory-org/natea-seattle-chapter|Seattle]]) — plus parent-association records: the yearbook ([[works/taiwaneseamericanhistory-org/annual-yearbook-of-natea|NATEA Annual Yearbook]]), an e-newsletter ([[works/taiwaneseamericanhistory-org/natea-enewsletter|NATEA eNewsletter]]), and a Taiwan homecoming delegation ([[works/taiwaneseamericanhistory-org/natea-tw|北美台灣工程師協會回國訪問團]]).
 - **Movement circuit.** A Bay Area community memoir counts NATEA among the associations its alumni led, naming 余金榜 and 施天墩 as NATEA 會長 within the wider movement network ([[works/taiwaneseamericanhistory-org/ourjourneys37|Our Journeys, record 37]]); a New Jersey community profile likewise notes NATEA chapters holding professional activities and annual meetings alongside NATMA and NATPA ([[works/taiwaneseamericanhistory-org/ourjourneys356-eng|Our Journeys, record 356]]).
+
+- **Corpus re-grep 2026-09-21 (slice 09201400-2).** Fresh grep of NATEA / 台灣工程師協會 across content/works + content/articles returned only the parent-association and sibling-chapter records already linked above (plus concert/photo-album sponsorship records consistent with the Taiwan Center co-sponsor bullet). No new SoCal-chapter-level material; chapter HOLD stands.
 
 HOLD: this page (南加分會 chapter) vs the corpus records (parent association / other chapters) — chapter-level history remains unexpanded; no independent SoCal-chapter founding facts found in the vault.
 
