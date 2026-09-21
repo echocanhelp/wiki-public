@@ -31,6 +31,7 @@ last_reviewed: 2026-09-21
 ## Role in the Community
 - Documented in the TAH Foundation Who's Who encyclopedia record [[works/taiwaneseamericanhistory-org/whoswho1436|1436. Christopher Lin 林楷夫 / 2016/12]] (published 2016-12-18).
 - Community service record: 台灣人公共事務會華府總部 (NATLA Washington DC headquarters) member since 2012; B.S. 應用外語, 元智大學.
+- Disambiguation: fresh corpus grep for the romanization "Christopher Lin" also hits taiwanjustice.net press coverage of 林榮基 (Causeway Books HK bookseller in Taiwan) — different person, hanzi does not match; not absorbable here.
 
 ## Family
 
