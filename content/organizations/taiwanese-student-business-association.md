@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-20
+last_reviewed: 2026-09-21
 ---
 # Taiwanese Student Business Association
 
@@ -20,7 +20,7 @@ The Taiwanese Student Business Association (TSBA) is a student organization at t
 
 ## Role in the Community
 
-_SKIP (deepen-x 2026-09-19): no corpus mentions of TSBA in content/works or content/articles — the org is documented only via its TAH directory listing (press-kit description above); nothing community-corpus to absorb._
+_SKIP (deepen-x 2026-09-19, re-confirmed 2026-09-21): no corpus mentions of TSBA in content/works or content/articles — the org is documented only via its TAH directory listing (press-kit description above); nothing community-corpus to absorb._
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-student-business-association/)

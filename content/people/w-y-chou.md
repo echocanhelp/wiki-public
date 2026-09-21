@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-20
+last_reviewed: 2026-09-21
 ---
 # W. Y. Chou (周婉窈)
 
@@ -35,6 +35,11 @@ last_reviewed: 2026-09-20
 
 - **Husband:** 陳弱水
 
+
+## Role in the Community
+
+- 台美人社區紀錄中的周婉窈，核心身影是**台灣史教育與轉型正義的倡論者**：從 2015 年陳文成紀念廣場命名之爭（[[works/taiwaneseamericanhistory-org/ourjourneys120|TAHS Our Journey #120]]）、2017 年批判黨國教育令台灣人「不認識自己」（見 From the record），到 2019 年陳文成案史料發表會與 2020 年刺蔣案 50 週年線上對談，皆以台大歷史系教授身分為運動案件定調歷史意義；本人 TAH 傳記條目見 [[works/taiwaneseamericanhistory-org/whoswho1198|TAH #1198]]。
+- Corpus re-grep 2026-09-21 (slice 09210051-2)：hit set = 本人 #1198 檔、ourjourneys120、works index、及已收錄之 TJJ 報導存檔（2017/2019/2020/2026 各筆）；無新的回憶錄敘事可吸收。
 
 ## Sources
 - 本人 TAH profile 存檔：[[works/taiwaneseamericanhistory-org/whoswho1198|TAH #1198（W. Y. Chou 周婉窈 / 2016/07）]]

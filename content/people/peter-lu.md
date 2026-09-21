@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-20
+last_reviewed: 2026-09-21
 ---
 # Peter Lu (盧信義)
 
@@ -36,7 +36,7 @@ _No filled family fields on the TAH profile._
 
 ## Role in the Community
 - His TAH Foundation Who's Who encyclopedia entry was published 2016-07-30: [[works/taiwaneseamericanhistory-org/whoswho1193|1193. Peter Lu 盧信義 / 2016/07]]. The entry itself is community historical record held in the corpus.
-- Corpus check (works/articles) found no further movement records naming him beyond the encyclopedia entry and index listings.
+- Corpus check (works/articles) found no further movement records naming him beyond the encyclopedia entry and index listings (re-confirmed deepen-x 2026-09-21).
 
 ## Sources
 - [TAH #1193 encyclopedia: 1193. Peter Lu 盧信義 / 2016/07](https://taiwaneseamericanhistory.org/whoswho1193/)
