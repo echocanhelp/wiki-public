@@ -38,6 +38,7 @@ last_reviewed: 2026-09-20
 - **TAH community record.** Her TAH Who's Who encyclopedia entry (#1298, 2016-10-02) is held in the story corpus as [[works/taiwaneseamericanhistory-org/whoswho1298|1298. Hui-Chi Connally 徐慧姬/ 2016/10]] — a band B bibliographic record; the full biography (including the detail of her being the first Taiwanese recipient of the national outstanding-foreign-language-teacher award) stays in the source archive.
 - 2026-09-18 deepen-x pass found no other corpus mentions in works/ or articles/ — no memoir, and husband 康威廉 does not appear elsewhere in the corpus.
 - 2026-09-20 re-verified: corpus grep still returns only this record and the story index — no new material to absorb.
+- 2026-09-21 re-verified again (slice -21): grep returns the same [[works/taiwaneseamericanhistory-org/whoswho1298|1298. Hui-Chi Connally 徐慧姬/ 2016/10]] record and the index batch entry only — nothing absorbable beyond what is above.
 
 ## Sources
 - [TAH #1298 encyclopedia: 1298. Hui-Chi Connally 徐慧姬/ 2016/10](https://taiwaneseamericanhistory.org/whoswho1298/)
