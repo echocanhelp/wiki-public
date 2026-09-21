@@ -6,7 +6,7 @@ tags:
   - Taiwanese-American
   - Taiwan-Center-group-member
 verification_status: published
-last_reviewed: 2026-09-20
+last_reviewed: 2026-09-21
 ---
 # Taiwanese American Lawyers Association (TALA)
 
@@ -42,3 +42,5 @@ HOLD: this page and [[organizations/taiwanese-american-lawyers-association-tala|
 
 - [[organizations/taiwan-center||Taiwan Center]]
 - [[sources/taiwancenter-org||taiwancenter.org]]
+
+- Re-verified 2026-09-21 (slice 09201400-24): corpus re-grep 台美律師協會 / TALA matches the same record set (ourjourneys29 + English copy, both TAHS bibliographic records, TAH #318) plus the works index — no new absorbable facts; saturated.

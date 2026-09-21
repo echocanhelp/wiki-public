@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-20
+last_reviewed: 2026-09-21
 ---
 # Dr. Jason Wang (王智弘)
 
@@ -54,3 +54,5 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+- Corpus re-grep 2026-09-21 (slice 09201400-24): grep 王智弘 / Jason Wang across content/works + content/articles returns exactly the records already linked above (publications13, whos-who-281, 1281, the 王凱傑 disambiguation, the Pew statement) plus the works index. No new absorbable community facts; saturated.
