@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: reviewed
-last_reviewed: 2026-09-19
+last_reviewed: 2026-09-20
 ---
 # Prof. Liang-Shih Fan (范良士教授)
 
@@ -38,6 +38,7 @@ _No filled family fields on the TAH profile._
 ## Role in the Community
 - HOLD: possible confusion with 范良信 (Liang-Shing Fan), a Kansas-state UFAI-era activist recorded in [[works/taiwaneseamericanhistory-org/ourjourneys81|Our Journeys 81]] and [[works/taiwaneseamericanhistory-org/ourjourneys234|Our Journeys 234]] and profiled at [[works/taiwaneseamericanhistory-org/whos657-liang-shing-fan|TAH #657]]; different hanzi (信 vs 士) and different TAH page — not merged.
 - Corpus grep (2026-09-16, re-verified 09-17, 09-18, 09-19 slice -5): 范良士/Liang-Shih coverage limited to his own record [[works/taiwaneseamericanhistory-org/whos-who-1799-liang-shih-fan|TAH #1799]] and the works index; no movement/community memoir mentions, so no community facts absorbed (SKIP-content).
+- Corpus re-grep (slice 09191100-9, 2026-09-20): 范良士/Liang-Shih hits remain only his own record [[works/taiwaneseamericanhistory-org/whos-who-1799-liang-shih-fan|TAH #1799]]; still no movement/community memoir mentions — SKIP-content.
 
 ## Sources
 - [TAH #1799 encyclopedia: 1799. Prof. Liang-Shih Fan 范良士教授](https://taiwaneseamericanhistory.org/whos-who-1799-liang-shih-fan/)

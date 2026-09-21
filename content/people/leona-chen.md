@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-19
+last_reviewed: 2026-09-20
 ---
 # Leona Chen (陳文羿)
 
@@ -41,6 +41,7 @@ last_reviewed: 2026-09-19
 - 2015 年為 Washington University in St. Louis 新生：Economics & Strategy 與 Leadership & Strategic Management 雙主修、Writing 副修、pre-law（與上方 tah-tables 欄位「U. of Washington- St. Louis, MO」指向同一學校，欄位名稱係 tah-tables 簡寫）。
 - 任 TaiwaneseAmerican.org 總編輯期間兼任 Write in Taiwanese Census Campaign 創意總監（[[works/taiwaneseamerican-org/pew-research-center-taiwanese-american-statement|Pew Research Center Taiwanese American Statement]]）。
 - 2020 人口普查倡議：TACL Campaign 創意總監，與 Campaign Director Christina Hu 一同向蔡英文總統展示 #CounTA 視覺與媒体套件（[[works/taiwaneseamerican-org/census-2020-fundraiser|Census 2020 Fundraiser]]）。
+- 任職 TA.org 期間並參與社区感恩專題撰稿：Grateful for Family & Friends #TaiwaneseThanksgiving（2017-11-26，見其作品清單 [[works/taiwaneseamericanhistory-org/whos-leona-chen|TAH #2075]]）。
 - 與 Joyce Chen 合撰 228 紀念資源專文，介紹 1947-02-28 事件的背景與學習資源（[[works/taiwaneseamerican-org/remembrance-resources-learning-about-228|Remembrance: Resources for Learning about 228]]）。
 - 本人訪談紀錄：[[works/taiwaneseamerican-org/interview-leona-chen|For the (Re)Cord: An Interview with Leona Chen, 2018-01-28]]；TAH 名人錄條目：[[works/taiwaneseamericanhistory-org/whos-leona-chen|2075. Leona Chen 陳文羿 / 03/2018]]。
 

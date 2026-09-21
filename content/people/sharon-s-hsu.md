@@ -40,6 +40,7 @@ last_reviewed: 2026-09-19
 - Her ginseng-business story was profiled as [[works/taiwaneseamericanhistory-org/165-e8-a8-b1-e8-81-96-e7-be-8e-e5-8f-83-e5-8f-83-e4-b8-8d-e6-81-af-e7-9a-84-e7-b|165. 許聖美—參參不息的綠金傳奇 / 秋鄉 / 2010]], with a further record [[works/taiwaneseamericanhistory-org/263-sharon-s-hsu-e8-a8-b1-e8-81-96-e7-be-8e201502|263. Sharon S. Hsu 許聖美, 2015/02]].
 - Writer Ken Lee's community memoir [[works/taiwaneseamericanhistory-org/ourjourneys264|Our Journeys 264 (Ken Lee, 11/2016)]] names 許聖美 (alongside 廖國仲) among the outstanding Taiwanese Americans profiled by author 楊遠薰 — testimony to her standing in the movement's letters/memoir network.
 - Corpus re-grep 2026-09-19 (slice 09180400-4): hit set unchanged — own TAH #36/#42/#165/#263 entries, Our Journeys 264, and the works index, all already linked above; nothing new to absorb.
+- Corpus re-grep 2026-09-20 (slice 09191100-5): SKIP — hit set unchanged (own TAH #36/#42/#165/#263, Our Journeys 264, works index), all already linked; nothing new to absorb.
 
 ## Sources
 - [TAH #42 encyclopedia: 42. Paul (Chung Chen) and Sharon Hsu 許忠政, 許聖美 / The first private business enter](https://taiwaneseamericanhistory.org/ff42/)

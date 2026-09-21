@@ -37,6 +37,7 @@ last_reviewed: 2026-09-20
 
 
 ## Sources
+- 本人 TAH profile 存檔：[[works/taiwaneseamericanhistory-org/whoswho1198|TAH #1198（W. Y. Chou 周婉窈 / 2016/07）]]
 - [TAH #1198 encyclopedia: 1198. W. Y. Chou 	 周婉窈 / 2016/07](https://taiwaneseamericanhistory.org/whoswho1198/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/w-y-chou/)
 

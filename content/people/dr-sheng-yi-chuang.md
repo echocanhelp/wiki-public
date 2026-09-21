@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-19
+last_reviewed: 2026-09-20
 ---
 # Dr. Sheng-Yi Chuang (莊勝義博士)
 
@@ -42,6 +42,7 @@ last_reviewed: 2026-09-19
 
 
 ## Sources
+- 本人 TAH profile 存檔：[[works/taiwaneseamericanhistory-org/whos-who-2272-sheng-yi-chuang|TAH #2272（Dr. Sheng-Yi Chuang 莊勝義博士）]]
 - [TAH #2272 encyclopedia: 2272. Dr. Sheng-Yi Chuang 莊勝義博士](https://taiwaneseamericanhistory.org/whos-who-2272-sheng-yi-chuang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-sheng-yi-chuang/)
 

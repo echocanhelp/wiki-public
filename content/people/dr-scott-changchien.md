@@ -36,6 +36,7 @@ Dr. Scott ChangChien 張簡吉誠醫師 – History of Taiwanese American (T.A. 
 - **Lay preacher in the diaspora church.** 卓甫良 recalls that at the 1994 TAF youth summer camp it was Dr. ChangChien (from Cleveland) — "a devout layman, not a pastor" — who explained the theme "Get Yourself Connected" in fluent, easy English, urging attendees to anchor existence in faith ([[works/taiwaneseamericanhistory-org/ourjourneys262|262. 意外的收獲 記1994年TAF青少年夏令營 / 卓甫良, 2016/10]]) — matches the EFCLA voluntary missionary-preacher role.
 - Own TAH profile record: [[works/taiwaneseamericanhistory-org/whos-who-1943-scott-changchien|1943. Dr. Scott ChangChien 張簡吉誠醫師, 2017-11-14]].
 - 2026-09-19 re-grep: SKIP — no corpus hits beyond the works index and his own already-linked records; no new absorbable material.
+- 2026-09-20 re-grep (slice 09191100-5): SKIP — hit set unchanged (own #1943, ourjourneys74, ourjourneys262, works index), all already linked; no new absorbable material.
 
 ## Family
 
