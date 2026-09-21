@@ -22,6 +22,7 @@ The Taiwanese Association of America Hawaii (夏威夷台灣同鄉會) is the Ha
 - Publishes its own community newsletter: Formosan Quarterly 《台僑》, documented in the TAH story corpus ([[works/taiwaneseamericanhistory-org/formosan-quarterly-by-taahawaii-chapter|Formosan Quarterly 台僑 by TAA Hawaii Chapter]]).
 - Operates a seniors' group, 夏威夷台灣同鄉會長青會 ([[works/taiwaneseamericanhistory-org/taa-hawaii-senior|16. 夏威夷台灣同鄉會長青會]]).
 - Took part in the Honolulu Festival as the organized Taiwanese American presence in Hawaii ([[works/taiwaneseamericanhistory-org/honolulu-festival|41. Honolulu Festival / TAA Hawaii Chapter]]).
+- Hosts the Taiwanese American Community Scholarship Awards in Hawaii, documented in the TAH story corpus ([[works/taiwaneseamericanhistory-org/6-taiwanese-american-community-scholarship-awards-taahawaii|6. 台美人社區獎學金 / TAA-Hawaii, 2015-07-21]]).
 - Chapter profile held in the TAH record ([[works/taiwaneseamericanhistory-org/hawaii-chapter-taa|Taiwanese Association of America Hawaii Chapter 美國台灣同鄉會夏威夷分會]]).
 
 ## Timeline

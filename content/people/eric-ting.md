@@ -38,6 +38,9 @@ last_reviewed: 2026-09-21
 - [TAH #2119 encyclopedia: 2119. Eric Ting 丁維均](https://taiwaneseamericanhistory.org/whos-who-2119-eric-ting/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/eric-ting/)
 
+## Role in the Community
+- SKIP-with-reason: corpus re-scan (2026-09-21) found no memoir/article material beyond his own bibliographic Who's Who record [[works/taiwaneseamericanhistory-org/whos-who-2119-eric-ting|TAH #2119, 2018/05]] — no absorbable community facts beyond the press-kit profile already on this page.
+
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
