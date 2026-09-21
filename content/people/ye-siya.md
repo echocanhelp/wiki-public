@@ -8,7 +8,7 @@ tags:
   - taiwanjustice
   - publication-contributor
 verification_status: pending
-last_reviewed: 2026-08-30
+last_reviewed: 2026-09-21
 ---
 
 # Yeh Ssu-ya / 葉思雅
