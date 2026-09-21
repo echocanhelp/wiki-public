@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-20
+last_reviewed: 2026-09-21
 ---
 # Frank M. Hsu (徐民忠)
 
@@ -29,6 +29,7 @@ last_reviewed: 2026-09-20
 - 2013–2016 — 會長, 北美臺灣客家公共事務協會 (Taiwan Hakka Association for Public Affairs in North America, HAPA-NA) — named in the association's own presidential roster in [[works/taiwaneseamericanhistory-org/ourjourneys252-eng|Our Journeys #252 (HAPA-NA, William Wei)]]; the association's member-written account is authored by him: [[works/taiwaneseamericanhistory-org/ourjourneys290|290. 北美臺灣客家公共事務協會 / 徐民忠 / 05/2017]] (band A community history).
 - 2015-09 — profiled in the TAH Foundation Who's Who record [[works/taiwaneseamericanhistory-org/whos-frank-m-hsu|640. Frank M. Hsu 徐民忠 / 2015/09]].
 - HOLD: name collision — [[works/taiwaneseamericanhistory-org/ff335|335. Frank Hsu (許子津)]], first president of the Formosan Club Association of Chicago, is a different Frank Hsu; do not merge.
+- HOLD: second name collision — [[works/taiwaneseamericanhistory-org/whos-who-1701-frank-hsu|1701. Prof. Frank Hsu 許德標教授 / 2017-06-28]] is 許德標, a different Frank Hsu; the work page's subject link to this person is a false entity match; do not merge. (2026-09-21 corpus check.)
 
 ## Family
 

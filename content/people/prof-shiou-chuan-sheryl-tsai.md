@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-20
+last_reviewed: 2026-09-21
 ---
 # Prof. Shiou-Chuan Sheryl Tsai (蔡秀娟)
 
@@ -35,6 +35,7 @@ Prof. Shiou-Chuan Sheryl Tsai 蔡秀娟 – History of Taiwanese American (T.A. 
 - Recorded in the TAH Foundation Who's Who archive: [[works/taiwaneseamericanhistory-org/whoswho1439|1439. Prof. Shiou-chuan Sheryl Tsai 蔡秀娟 / 2016/12]] (published 2016-12-23, band B).
 - Corpus scan of memoirs/articles found no further community-authored mentions beyond this bibliographic record; biography remains sourced from the TAH profile only.
 - 2026-09-20 deepen-x re-check: corpus hits remain only this record and the works index — no memoir prose to absorb (SKIP).
+- 2026-09-21 deepen-x re-check: corpus hits unchanged (own record + index only) — SKIP again.
 
 ## Family
 

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-20
+last_reviewed: 2026-09-21
 ---
 # Fong Chung Fan (樊豐忠)
 
@@ -43,3 +43,4 @@ last_reviewed: 2026-09-20
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+<!-- deepen-x 09200800-27: SKIP — corpus re-scan found only own TAH Who's Who record + works index; FAPA/後援會 facts already absorbed, no new memoir prose. -->
