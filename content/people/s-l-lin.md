@@ -45,6 +45,7 @@ last_reviewed: 2026-09-20
 
 - 以筆名「田土伯」活躍於台美社群園藝與活動場域：台灣公義報以「田土伯」與「林幸隆」分別建立標籤存檔頁 [[articles/taiwanjustice-net/2023/20230607064329_tag_田土伯_908dd51002bc1c75|Tag: 田土伯]]、[[articles/taiwanjustice-net/2023/20230607043846_tag_林幸隆_0688e75d04601bf6|Tag: 林幸隆]]，均收錄大洛杉磯台灣會館園藝講座紀錄。
 - 自身 TAH 百科條目見 [[works/taiwaneseamericanhistory-org/whoswho1130|1130. S. L. Lin 林幸隆 / 2016/07]]。
+- 2016-08-28 會館園藝講座「果樹培育密訣」另見台灣公義報果樹培育標籤存檔頁（紀錄日期 2016-08-30）[[articles/taiwanjustice-net/2023/20230601044626_tag_果樹培育_e2953f3ae1f0eb7c|Tag: 果樹培育]]，同樣記為「田土伯(林幸隆)」主講。
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
