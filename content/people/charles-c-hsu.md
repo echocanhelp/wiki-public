@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-20
+last_reviewed: 2026-09-21
 ---
 # Dr. Charles C. Hsu (許宗邦醫師)
 
@@ -47,7 +47,7 @@ Accomplishment
 - 2023-12 — Led NATMA's cross-ethnic physician team for international volunteer clinics serving third-world communities ([[works/taiwaneseamericanhistory-org/my-stories-894|TAH #894]]).
 - ~20 years by 2024 — Nearly two decades participating in Taiwanese-physician medical missions, with 13 trips to Belize (邦交國); in October 2024 (民國113年) he captained a 75-doctor NATMA team to Belize, receiving the team flag from TETO-LA director 紀欽耀 ([[works/taiwaneseamericanhistory-org/our-journeys-393|Our Journeys #393]]).
 
-- Re-verified 2026-09-20 (slice-11): corpus re-grep (許宗邦|Charles C. Hsu) returns the same 6-hit set (#274, #894, #1047, #49, Our Journeys #287, Our Journeys #393) — all absorbed above; #287's caption dates his NAPTA presidency to 2015, consistent with the profile's 2014–2015 term (no conflict).
+- Re-verified 2026-09-20 / 2026-09-21 (slice-11, slice 09201400-18): corpus re-grep (許宗邦|Charles C. Hsu) returns the same 6-hit set (#274, #894, #1047, #49, Our Journeys #287, Our Journeys #393) — all absorbed above; #287's caption dates his NAPTA presidency to 2015, consistent with the profile's 2014–2015 term (no conflict). SKIP (saturated).
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

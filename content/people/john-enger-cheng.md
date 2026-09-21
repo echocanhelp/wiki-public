@@ -41,6 +41,7 @@ Accomplishment
 - Interviewed for the TAH story corpus in 閃亮的第二代—訪鄭榮得 (2015-04-14, by 李淑櫻), a second-generation profile in the My Stories series: [[works/taiwaneseamericanhistory-org/mystories231|TAH #231 — 閃亮的第二代 訪鄭榮得 (2015-04)]]. The interview frames him as part of the 閃亮的第二代 ("shining second generation") cohort — children of the movement generation who carried the community's cultural work into the arts.
 - Appears in the corpus as an artist/designer second-generation profile (USC Roski School; Winnow+Glean co-founder); son of [[people/simon-cheng|Simon Cheng 鄭良光]]. No movement-organizational roles recorded in the vault corpus.
 - SKIP (deepen-x 09180200-2): the remaining corpus hits matching "John Cheng" are a DIFFERENT person — Dr. John Cheng, the physician killed shielding worshippers in the 2022-05-15 Irvine PCT church shooting ([[works/taiwaneseamericanhistory-org/our-journeys-380|Our Journeys #380]]) and honored by the Carnegie Hero Fund Commission ([[works/taiwaneseamericanhistory-org/910-carnegie-hero-fund-commission-john-cheng-and-billy-chang-09-2024|TAH #910, 2024-09]]); that Dr. Cheng's father was the late 鄭俊曉醫師, not this artist's father 鄭良光. Not merged.
+- Corpus re-grep 2026-09-21 (slice 09201400-20): hit set unchanged (own TAH records #36/#227/#1019, mystories231 interview, plus the unrelated Dr. John Cheng shooting records) — SKIP: already saturated, no new facts for this person.
 
 ## Sources
 - [TAH #227 encyclopedia: 227. John Enger Cheng 鄭榮得](https://taiwaneseamericanhistory.org/ota-227/)

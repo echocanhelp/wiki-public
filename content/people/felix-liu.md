@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-20
+last_reviewed: 2026-09-21
 ---
 # Felix Liu (劉富理牧師)
 
@@ -43,7 +43,9 @@ Per the church's own history in the TAHS *Our Journeys* corpus ([[works/taiwanes
 
 The corpus record is consistent with the TAH Who's Who entry ([[works/taiwaneseamericanhistory-org/214-felix-liu-e5-8a-89-e5-af-8c-e7-90-86201501|TAH Who's Who #214]]) — Pasadena/El Monte 台福 ministry — and adds the primary-source pastorate timeline above.
 
-Corpus re-grep 2026-09-20 (slice 09181500-17, 劉富理 / Felix Liu): hits are exactly the already-cited records (Our Journeys #257 church history, Who's Who #214, feature #268, harvest index) — no new primary material.
+- English-ministry lineage within the same church (English account, Our Journeys #257): English-speaking ministry started **1978** for the second generation; the English congregation was formally formed **1981**; in **1996** it adopted the name **"Harvest Los Angeles — a ministry of EFC"** to reach beyond Taiwanese-Americans; first Asian-American EFC church Harvest San Gabriel Valley planted 1997.
+
+Corpus re-grep 2026-09-20 / 2026-09-21 (slice 09181500-17, 09201400-18; 劉富理 / Felix Liu): hits are exactly the already-cited records (Our Journeys #257 church history, Who's Who #214, feature #268, harvest index); the English-ministry 1978/1981/1996 lineage from #257 is newly absorbed above.
 ## Family
 
 - **Wife:** 王仁美

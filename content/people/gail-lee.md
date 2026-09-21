@@ -39,6 +39,8 @@ Gail Hsiu-Wen Lee’s passion to bring live classical music to Central New Jerse
 - Corpus check 2026-09-16, re-run slices 09170130-18, 09170500-16, and 09180131-21 on 2026-09-18: the two TAH records above are the only mentions in content/works + content/articles (a Taiwan-justice-press hit on 蓋爾 was 蓋爾足球/Gaelic football, unrelated); no memoir/community text adds further facts.
 
 Corpus re-grep 2026-09-20 (slice 09181500-17, 李秀文 / Gail Lee): hit set unchanged — musician63 and whoswho1115-2 remain the only corpus mentions; no new facts; HOLD on degree field stands.
+
+Corpus re-grep 2026-09-21 (slice 09201400-20): hit set unchanged (musician63, whoswho1115-2, works index only) — SKIP: no absorbable memoir/community text beyond what is already recorded.
 ## Family
 
 _No filled family fields on the TAH profile._
