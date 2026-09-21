@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-20
+last_reviewed: 2026-09-21
 ---
 # Lina Huang (張廖莉娜)
 
@@ -45,3 +45,4 @@ Two TAH Who's Who records for her are held in the corpus: [[works/taiwaneseameri
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- Re-grep 2026-09-21 (slice 09201500-25): hit set unchanged (two directory copies + index; taiwanjustice hits are Svitolina/莉娜 substring noise) — verified-saturated, nothing community-side absorbable.

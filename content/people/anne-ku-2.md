@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-20
+last_reviewed: 2026-09-21
 ---
 # Anne Ku
 
@@ -47,3 +47,5 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- Sibling person page exists at [[people/anne-ku|Anne Ku]] (verified slug) — HOLD on identity reconciliation still open.
+- Re-grep 2026-09-21 (slice 09201500-25): works hits remain the two 2015 profile records + index; taiwanjustice hits are substring noise — verified-saturated.
