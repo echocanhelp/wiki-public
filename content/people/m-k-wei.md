@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-20
+last_reviewed: 2026-09-21
 ---
 # M. K. Wei (魏妙圭)
 
@@ -35,6 +35,7 @@ last_reviewed: 2026-09-20
 - The couple's story was profiled in the 台美人物誌 interview series: 「很古典的姻緣 很現代的夫妻」— 鄭信傳、魏妙圭夫婦專訪 (台灣日報), corpus: [[works/taiwaneseamericanhistory-org/videos40|40. 台美人物誌專訪 — 鄭信傳魏妙圭夫婦]].
 - TAH encyclopedia entry: [[works/taiwaneseamericanhistory-org/whoswho1065|1066. M. K. Wei 魏妙圭 / 2016/06]].
 
+- Corpus check re-run 2026-09-21: hit set = own records 293 / 293-eng / videos40 / whoswho1065 only, all already absorbed above — nothing new absorbable.
 - HOLD: conflict — co-author of record 293 is 鄭憲章; TAH profile lists her husband as 鄭信傳 (also the 夫婦專訪 subject). Never merged; identity relation unverified.
 
 ## Sources
