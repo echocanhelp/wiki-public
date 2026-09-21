@@ -22,7 +22,7 @@ last_reviewed: 2026-09-21
 ## Role in the Community
 - **台灣民主黨 (1986).** When overseas supporters announced the party's founding in New York in March 1986, 梅心怡 — then in the U.S. — served as its English press secretary ([[works/taiwaneseamericanhistory-org/our-journeys-363|TAH #363, Our Journey]]).
 - **FAHR fundraiser (2014).** Diagnosed with mesothelioma mid-2014; 全美台灣人權協會 (FAHR) ran a fundraiser, reported by [[people/patrick-huang||黃再添]] and 艾琳達 ([[articles/taiwanjustice-net/2024/20240724005830_root_5b7741741c30e771|TJJ「梅心怡」標籤頁, 2024-07-24 快照]]).
-- **Community memorials.** TAH holds a feature [[works/taiwaneseamericanhistory-org/228-prof-lynn-alan-miles-e6-a2-85-e5-bf-83-e6-80-a1-e6-95-99-e6-8e-88-e6-9c-89-e|228. Prof. Lynn Alan Miles 梅心怡教授 / 有名的人權鬥士 (2016-02-10)]], a 2015/06 memorial photo album [[works/taiwaneseamericanhistory-org/photo-albums-activities-81|81. In memory of Prof. Lynn Alan Miles 生命的禮讚]], and a friend's memoir [[works/taiwaneseamericanhistory-org/my-stories-810|810. 良知不死–紀念好友梅心怡 (2021-11-04)]].
+- **Community memorials.** TAH holds a feature [[works/taiwaneseamericanhistory-org/228-prof-lynn-alan-miles-e6-a2-85-e5-bf-83-e6-80-a1-e6-95-99-e6-8e-88-e6-9c-89-e|228. Prof. Lynn Alan Miles 梅心怡教授 / 有名的人權鬥士 (2016-02-10)]], a 2015/06 memorial photo album [[works/taiwaneseamericanhistory-org/photo-albums-activities-81|81. In memory of Prof. Lynn Alan Miles 生命的禮讚]], a friend's memoir [[works/taiwaneseamericanhistory-org/my-stories-810|810. 良知不死–紀念好友梅心怡 (2021-11-04)]], and 林冠妙's tribute [[works/taiwaneseamericanhistory-org/my-stories-378|378. 守護台灣民主血脈　梅心怡比台灣人還愛台灣 (2015-12-16)]], which remembers him as a defender of Taiwan's democratic lineage who「比台灣人還愛台灣」.
 
 ## From the record
 
