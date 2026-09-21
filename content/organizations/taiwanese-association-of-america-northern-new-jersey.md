@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-20
+last_reviewed: 2026-09-21
 ---
 # Taiwanese Association of America Northern New Jersey (北澤西)
 
@@ -20,7 +20,7 @@ The Taiwanese Association of America Northern New Jersey (TAA-NNJ, 北澤西台�
 
 ## Role in the Community
 
-The corpus holds four TAA/NNJ community records:
+The corpus holds these TAA/NNJ community records:
 
 - Chapter history: [[works/taiwaneseamericanhistory-org/history-taannj|43. 北澤西台灣同鄉會簡史]] (2018-02-05) — the chapter's own concise history, held as community historical record.
 - Activity record: [[works/taiwaneseamericanhistory-org/activities-of-taannj|北澤西台灣同鄉會的活動]] (2019-01-14).
