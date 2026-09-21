@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-20
+last_reviewed: 2026-09-21
 ---
 # Prof. Chawnshang Chang (張傳祥教授)
 
@@ -40,6 +40,7 @@ Prof. Chawnshang Chang 張傳祥教授 – History of Taiwanese American (T.A. A
 
 - Profiled three times in the TAH Foundation Who's Who / story corpus — an unusually heavy presence indicating sustained community engagement with TAH: [[works/taiwaneseamericanhistory-org/prof-chawnshang-chang|22. Prof. Chawnshang Chang 張傳祥教授]] (2018-03-02), [[works/taiwaneseamericanhistory-org/77-prof-chawnshang-chang|77. Prof. Chawnshang Chang 張傳祥教授]] (2018-09-06), and [[works/taiwaneseamericanhistory-org/whos-who-2047-chawnshang-chang|2047. Prof. Chawnshang Chang 張傳祥教授]] (all bibliographic records; full text stays in the vault).
 - The page header itself carries the T.A. Archives (台美史料中心) attribution, tying the entry to the movement's own archival record rather than a generic press profile.
+- Re-check deepen-x 2026-09-21: re-grep 張傳祥 / Chawnshang Chang against works/ + articles/ still returns only the three TAH entries (#22, #77, #2047) and the harvest index — all already cited above; no additional material to absorb.
 - HOLD: three overlapping TAH entries (#22, #77, #2047) for one person — entry numbering/dates not reconciled; no auto-merge.
 - No memoir or article corpus mentions beyond the TAH entries themselves — no additional community-activity facts to absorb.
 

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-20
+last_reviewed: 2026-09-21
 ---
 # Wen-Jei Yang (楊文偕教授)
 
@@ -42,6 +42,7 @@ Honorary Professor of the Dept. of Mechanical Engineering and Dept. of Biomedica
 - 2008 — received the Mark Jacob紀念獎, recorded in the TAH story corpus — [[works/taiwaneseamericanhistory-org/mark-jacob-2008|65. Mark Jacob紀念獎 / 楊文偕 / 2008]].
 - 2018-10-07 — TAH Who's Who encyclopedia entry #2163 — [[works/taiwaneseamericanhistory-org/whos-who-2163-wen-jei-yang|2163. Prof. Wen-Jei Yang 楊文偕教授]].
 - HOLD: identity conflict — TAH Who's Who #2296 (2020-12-03) carries the same English name with a different 漢名 (楊文傑 vs 楊文偕); record linked to this page but never auto-merged — [[works/taiwaneseamericanhistory-org/whos-who-2296-wen-jei-yang|2296. Wen-Jei Yang 楊文傑]].
+- Re-check deepen-x 2026-09-21: re-grep 楊文偕 / Wen-Jei Yang against works/ + articles/ still returns only mark-jacob-2008, TAH #2163, TAH #2296 and the harvest index — all already cited above; the 楊文偕 vs 楊文傑 HOLD stands; no new material to absorb.
 - The corpus also preserves a memorial complex under the matching English name: the Yang Foundation 楊文傑紀念基金會 (recorded 2018-01-04) — [[works/taiwaneseamericanhistory-org/yang-foundation|Yang Foundation 楊文傑紀念基金會]] — its scholarship — [[works/taiwaneseamericanhistory-org/yang-foundation-scholarship|86. Yang Foundation Scholarship 楊文傑紀念基金會獎學金]] — and a memorial ping-pong tournament — [[works/taiwaneseamericanhistory-org/wen-yang-memorial-ping-pong-tournament|Wen Yang Memorial Ping Pong Tournament 楊文傑紀念基金會乒乓球賽]]. HOLD: a memorial foundation implies the 楊文傑 honouree is a different (deceased) person from the still-listed Professor 楊文偕; not auto-merged.
 
 ## Sources
