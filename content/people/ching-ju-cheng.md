@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-20
+last_reviewed: 2026-09-21
 ---
 # Ching-Ju Cheng (鄭靜如)
 
@@ -37,7 +37,7 @@ _No filled family fields on the TAH profile._
 
 ## Role in the Community
 - 2017-05-07 — recorded in the TAH Foundation encyclopedia twice: as musician entry #395 (Harpist & Pianist) [[works/taiwaneseamericanhistory-org/musician395|TAH #395 鄭靜如 / 2017/05]] and as Who's Who entry #1634 [[works/taiwaneseamericanhistory-org/whoswho1634|TAH #1634 鄭靜如 / 2017/05]].
-- Corpus check 2026-09-18: no mentions in TAHS memoirs/articles beyond her own TAH encyclopedia records — community activity beyond the press-kit profile (Kaohsiung birth, TNUA → Peabody → Univ. of Maryland, private harp & piano studio) is not documented in the vault. Corpus re-check 2026-09-20: the sole other 靜如 hit is 吳靜如 — 紀俊傑長老夫人, a St. Louis 華語青年團契 supporter ([[works/taiwaneseamericanhistory-org/ourjourneys305|Our Journeys #305]]) — a different person (surname 吳), nothing absorbable — SKIP.
+- Corpus check 2026-09-18: no mentions in TAHS memoirs/articles beyond her own TAH encyclopedia records — community activity beyond the press-kit profile (Kaohsiung birth, TNUA → Peabody → Univ. of Maryland, private harp & piano studio) is not documented in the vault. Corpus re-check 2026-09-20: the sole other 靜如 hit is 吳靜如 — 紀俊傑長老夫人, a St. Louis 華語青年團契 supporter ([[works/taiwaneseamericanhistory-org/ourjourneys305|Our Journeys #305]]) — a different person (surname 吳), nothing absorbable — SKIP. Corpus re-check 2026-09-21: same result, own-name records only.
 
 ## Sources
 - [TAH #395 encyclopedia: 395.  Ching-Ju Cheng 鄭靜如, Harpist & Pianist / 2017/05](https://taiwaneseamericanhistory.org/musician395/)
