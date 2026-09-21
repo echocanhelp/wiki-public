@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-20
+last_reviewed: 2026-09-21
 ---
 # Jimmy Li (李正明)
 
@@ -37,7 +37,7 @@ _No filled family fields on the TAH profile._
 
 ## Role in the Community
 - Held in the community record via TAH Who's Who encyclopedia [[works/taiwaneseamericanhistory-org/whoswho1887|1887. Jimmy Li 李正明 / 09/2017]]; already-documented community role: 北美台灣工程師協會會長 (2003). Only other corpus hit — a "Jimmy Liu" in [[works/taiwaneseamerican-org/american-born-chinese-disney|american-born-chinese-disney]] — is a different person, not absorbed.
-- Re-verified 2026-09-20: fresh corpus grep returns only his encyclopedia record, the works index, and the Jimmy Liu false positive — no memoir material to absorb.
+- Re-verified 2026-09-21 (deepen-x slice 09201503-24): fresh corpus grep returns only his encyclopedia record, the works index, and the Jimmy Liu false positive — no memoir material to absorb.
 
 ## Sources
 - [TAH #1887 encyclopedia: 1887.  Jimmy Li 李正明 / 09/2017](https://taiwaneseamericanhistory.org/whoswho1887/)

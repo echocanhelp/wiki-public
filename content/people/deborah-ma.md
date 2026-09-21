@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-20
+last_reviewed: 2026-09-21
 ---
 # Deborah Ma (馬佳美醫師)
 
@@ -33,7 +33,7 @@ last_reviewed: 2026-09-20
 
 - Profiled in the TAH Foundation Who's Who encyclopedia as record #2099: [[works/taiwaneseamericanhistory-org/whos-who-2099-deborah-ma|2099. Deborah Ma 馬佳美醫師]].
 - No other corpus mentions; the corpus "Deborah" hit in a 2025 taiwanjustice.net article refers to a UK drug dealer (Deborah Mason), not this person — not absorbed.
-- Re-verified 2026-09-20: fresh corpus grep returns only her encyclopedia record, the works index, and the Deborah Mason false positive — no memoir material to absorb.
+- Re-verified 2026-09-21 (deepen-x slice 09201503-24): fresh corpus grep returns only her encyclopedia record, the works index, and the Deborah Mason false positive — no memoir material to absorb.
 
 ## Family
 
