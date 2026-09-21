@@ -7,7 +7,8 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-20
+last_reviewed: 2026-09-21
+# deepen-x 09200939-12: SKIP — fresh 2026-09-21 ZH+EN grep matched only own TAH #48 stub (already wikilinked below) + works/index; no absorbable memoir material
 ---
 # Charles Lu (盧常吉)
 

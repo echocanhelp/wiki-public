@@ -7,7 +7,8 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-20
+last_reviewed: 2026-09-21
+# deepen-x 09200939-12: SKIP — fresh 2026-09-21 ZH+EN grep matched only own TAH #1585 stub (already wikilinked below) + works/index; no absorbable memoir material
 ---
 # Ehin-Lin Guo (郭青齡博士)
 
