@@ -65,4 +65,4 @@ last_reviewed: 2026-09-21
 - His own essay 「我的女兒美琴」 is held in the vault as [[works/taiwaneseamericanhistory-org/mystories434|434. 我的女兒美琴 / 蕭清芬]] (2016-05-09), the TAH-repository companion to the taiwanjustice.net excerpt already cited above.
 - Obituary record: [[works/taiwaneseamericanhistory-org/my-stories-816|816. 蕭清芬在美辭世 蕭美琴悼父親：一生守護台灣本土意識 12-2021]] (2021-12-16) — 蕭美琴's memorial framing his life as a lifelong defense of Taiwanese local consciousness.
 - Who's Who entry in corpus: [[works/taiwaneseamericanhistory-org/whoswho1433|1433. Ching-Fen Hsiao 蕭清芬 / 2016/12]].
-- Corpus re-grep 2026-09-20: hit set unchanged (mystories434, my-stories-816, ourjourneys268, whoswho1433, plus index/MANIFEST bookkeeping) — all linked above; no additional memoir or church material in works/ or articles/, nothing further absorbable.
+- Corpus re-grep 2026-09-21: hit set unchanged (mystories434, my-stories-816, ourjourneys268, whoswho1433, plus the three taiwanjustice.net pieces already cited under "From the record" and a duplicate tag-page snapshot of 「我的女兒美琴」) — all substantive hits linked above; nothing further absorbable (verified-saturated).

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-20
+last_reviewed: 2026-09-21
 ---
 # Prof. Tsung-Yi Lin (林宗義教授)
 
@@ -45,7 +45,9 @@ last_reviewed: 2026-09-20
 - Paper presenter at a 台灣協志會 學術討論會 (at Syntek Hall Center, Palo Alto; convened by 陳芳明) alongside 彭明敏, 林宗光, 張旭成, 蕭欽義, 簡烟仁, 謝善元, 林衡哲, 陳芳明, 張富美 ([[works/taiwaneseamericanhistory-org/ourjourneys37|37. 台灣協志會成立與大事記]]).
 - Addressed the founding assembly of the 北美洲台灣人醫師協會 (1983–1990 era), citing his experience chairing the American Psychiatric Association's 「外國精神科醫師小組」 to argue for a national Taiwanese-American physicians' association as a shield against discrimination, and urged 「上醫醫國」 — active participation in US medical societies and internationalising the Taiwan question ([[works/taiwaneseamericanhistory-org/ourjourneys74|74. 1983至1990的北美洲台灣人醫師協會 / 周烒明]]).
 - Listed as a supporter of the 自決運動 in the 全美台灣同鄉會 record: 支持1973年3月20日黃彰輝、黃武東、林宗義與宋泉盛發起的台灣人民自決運動 ([[works/taiwaneseamericanhistory-org/ourjourneys76|76. 全美台灣同鄉會 / 吳木盛]]).
-- Corpus re-grep 2026-09-20: hit set unchanged (our-journeys-350, our-journeys-357, ourjourneys37, ourjourneys74, ourjourneys76, whos-who-1974-tsung-yi-lin) — every community fact in the memoir corpus is already absorbed above; the 1972 launch-date HOLD stands, no new material.
+- **WHO mental-health veteran in the Taiwan-WHO campaign:** 林榮松's NATMA record of the 1997–2007 台灣叩關WHO effort lists him (with 謝獻臣, 許子秋) among the Taiwanese physicians who had served as WHO consultants, whose Geneva-network contacts became the backbone of the 台灣醫界宣達團 from 1997 ([[works/taiwaneseamericanhistory-org/ourjourneys100|100. WHO for Taiwan by NATMA / 林榮松 / 2015-02]]).
+- **Televised profile:** the 【台灣演義】 documentary 「台灣精神科先驅 林宗義」 (2018-09-09) is held in-corpus at [[works/taiwaneseamericanhistory-org/50013|122. Prof. Tsung-yi Lin【台灣演義】台灣精神科先驅 林宗義]].
+- Corpus re-grep 2026-09-21: hit set unchanged (our-journeys-350, our-journeys-357, ourjourneys37, ourjourneys74, ourjourneys76, whos-who-1974-tsung-yi-lin, 50013, ourjourneys100) — new links above absorb the last two; the 1972 launch-date HOLD stands, no other new material.
 
 ## Sources
 - [TAH #1974 encyclopedia: 1974. Prof. Tsung-Yi Lin 林宗義教授](https://taiwaneseamericanhistory.org/whos-who-1974-tsung-yi-lin/)
