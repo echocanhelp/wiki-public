@@ -23,7 +23,7 @@ last_reviewed: 2026-09-21
 ## Role in the Community
 - 會長 of the 王康陸紀念基金會 (Kang-Lu Wang Memorial Foundation), named for [[people/kang-lu-wang|Kang-Lu Wang]]; the foundation is cited in the Taiwan Justice International News obituary record for 吳明基教授. See [[articles/taiwanjustice-net/2024/20240221122756_root_53455d7e13136092|TJJ record, 2024-02-21]].
 - Oral-history subject, with 王康德, of the 王永宗家族敘事 family narrative recorded 2023-08. See [[works/taiwaneseamericanhistory-org/publications-1372|1372. 王永宗家族敘事：王康厚、王康德口述訪談紀錄]].
-- Who's Who entry: [[works/taiwaneseamericanhistory-org/375-e7-8e-8b-e5-ba-b7-e5-8e-9a|375. 王康厚 / 2015/04]].
+- Who's Who entry: [[works/taiwaneseamericanhistory-org/375-e7-8e-8b-e5-ba-b7-e5-8e-9a|375. 王康厚 / 2015/04]]. His foundation has its own encyclopedia record: [[works/taiwaneseamericanhistory-org/dr-kang-lu-wang-memorial-foundation|3. Dr. Kang-Lu Wang Memorial Foundation 王康陸博士紀念基金會]], and the foundation appears in the 2019 joint statement's organizing-body list ([[works/taiwaneseamericanhistory-org/ourjourneys356-eng|Our Journeys 356 (EN)]]).
 - HOLD: conflict in the Who's Who snapshot Era 1932 (彰化鹿港 origin year) vs. the corpus's earliest record dated 2015/04 — birth year not corroborated by any memoir text; do not merge.
 
 ## Family
