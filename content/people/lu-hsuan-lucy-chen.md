@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-20
+last_reviewed: 2026-09-21
 ---
 # Lu-Hsuan Lucy Chen (陳綠萱)
 
@@ -57,3 +57,4 @@ _No filled family fields on the TAH profile._
 - 複核（deepen-x slice-09170500-12, 2026-09-17）：re-grep 結果相同（#40／#514 + index only）— SKIP：無可吸收材料。
 - 複核（deepen-x slice-09180131-13, 2026-09-18）：re-grep 結果相同（#40／#514 + index only）— SKIP：無新增回憶錄/社群段落。
 - 複核（deepen-x slice-09181500-12, 2026-09-20）：re-grep 陳綠萱|Lu-Hsuan Lucy Chen 命中集不變（#40／#514 + index only）— SKIP：無可吸收之回憶錄/社群段落。
+- 複核（deepen-x slice-09201400-7, 2026-09-21）：re-grep 陳綠萱|Lu-Hsuan 命中集不變（#40／#514 + index only）— SKIP：無可吸收之回憶錄/社群段落。

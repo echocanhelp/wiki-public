@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-20
+last_reviewed: 2026-09-21
 ---
 # Bob In-Yu Yang (楊英育)
 
@@ -54,3 +54,5 @@ Note: TAH bio lists NAPTKA Kansas Chapter president 1993-95, 2006-07; the commun
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+- **Corpus re-grep 2026-09-21** (slice 09201400-7): 楊英育 / In-Yu Yang across content/works + content/articles — hit set identical to records already linked above (#660, OJ #228/#234/#296/#351); no new absorbable material. SKIP.
