@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-20
+last_reviewed: 2026-09-21
 ---
 # Shui-Lian Fang (方廖水蓮)
 
@@ -42,6 +42,8 @@ last_reviewed: 2026-09-20
 - [[works/taiwaneseamericanhistory-org/whos-who-2167-shui-lian-fang|2167. TAH Who's Who entry (2018-10-30)]] — the source of the Education/Employment snapshot above (Kindai Univ. B.S. Law 1972–1976; Vice Chairman, Fukuju Construction; President, Kindai Univ. Alumni Associations; Vice President, Taiwan-Japan Cultural and Economic Association).
 
 No other corpus memoirs/records mention her or 方國炤; biography beyond the above is held pending the vault autobiography text.
+
+- Re-verified 2026-09-21: corpus re-grep (方廖水蓮 / Shui-Lian Fang) returns only the autobiography #1251 and Who's Who #2167 already absorbed above; no additional memoirs.
 
 ## Sources
 - [TAH #2167 encyclopedia: 2167. Shui-Lian Fang 方廖水蓮](https://taiwaneseamericanhistory.org/whos-who-2167-shui-lian-fang/)
