@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-20
+last_reviewed: 2026-09-21
 ---
 # Taiwan Hotel-Motel Association of Greater Houston THMAGH (休士頓美南台灣旅館公會)
 
@@ -39,3 +39,4 @@ Re-grep '休士頓美南台灣旅館公會 / THMAGH / Taiwan Hotel-Motel Associa
 複核（deepen-x slice 09170500-8, 2026-09-17）：命中集合＝上方已引記錄，另有同日發布的北美洲聯合總會書目（已新增連結）；無其他可吸收材料。
 複核（deepen-x slice 09180131-7, 2026-09-18）：re-grep 命中僅自身directory記錄、ourjourneys29（Kenjohn Wang 沿革段，已吸收）與 index。SKIP-with-reason：語料已飽和，無新材料；Kaohsiung/Taipei 姊妹公會仍為未經證實的press-kit宣稱。
 複核（deepen-x slice 09181500-3, 2026-09-20）：re-grep 命中僅 ourjourneys29、自身directory記錄與 index，全部已連結；語料飽和，SKIP-no-new-material。
+複核（deepen-x slice 09201300-3, 2026-09-21）：re-grep '休士頓美南台灣旅館公會/THMAGH' 命中僅自身 directory 記錄與 works index，均已連結；語料飽和，SKIP-no-new-material；Kaohsiung/Taipei 姊妹公會宣稱仍未獲語料佐證。
