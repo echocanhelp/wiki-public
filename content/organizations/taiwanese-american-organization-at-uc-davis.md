@@ -26,6 +26,8 @@ SKIP-with-reason: corpus scan found only incidental UC Davis mentions predating 
 
 - Absorbed: the community newsletter records an event run by the club — "Shaved Ice Night" at UC Davis, 2013-03-13, published in taiwaneseamerican.org: [[works/taiwaneseamerican-org/shaved-ice-night-with-tao-at-uc-davis|Shaved Ice Night with TAO at UC Davis]]. This corroborates that TAO was active on the Davis campus by March 2013, consistent with the ~2011 founding claim on this page (no conflict to HOLD).
 
+> Corpus re-scan 2026-09-21 (deepen-x slice 09200700-23): re-scanned works/ and articles/ — remaining "taiwanese-american-organization" hits are generic TAH bibliography records (TA O t-shirt listings, TAAMN, 2015 community news roundup, newsletter summary table), none about this Davis club. SKIP-deepen; nothing new absorbable.
+
 ## Related Pages
 - [[organizations/taiwanese-student-association-at-uc-davis|Taiwanese Student Association at UC Davis]]
 - [[organizations/taiwanese-graduate-student-association-at-uc-davis|Taiwanese Graduate Student Association at UC Davis]]

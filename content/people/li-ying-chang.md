@@ -46,4 +46,4 @@ _No filled family fields on the TAH profile._
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
-> Corpus re-scan 2026-09-20 (deepen-x slice 09180900-19): re-scanned works/ and articles/ for 張理盈 / Li-Ying Chang — no new corpus hits beyond the two TAH records already wikilinked in Role in the Community. SKIP-deepen; nothing absorbable; HOLD on degree-level conflict stands.
+> Corpus re-scan 2026-09-21 (deepen-x slice 09200700-23): re-scanned works/ and articles/ for 張理盈 / Li-Ying Chang — only the works index and the two TAH records already wikilinked above. SKIP-deepen; nothing absorbable; HOLD on degree-level conflict stands.

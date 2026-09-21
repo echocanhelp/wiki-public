@@ -47,4 +47,4 @@ _No filled family fields on the TAH profile._
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
-> Corpus re-scan 2026-09-20 (deepen-x slice 09180900-19): re-scanned works/ and articles/ for Debbie Carlson — only her own already-linked TAH records (whoswho1026, 37-debbie-carlson201504) and the works index. SKIP-deepen; nothing absorbable; HOLD on degree-designation conflict stands.
+> Corpus re-scan 2026-09-21 (deepen-x slice 09200700-23): re-scanned works/ and articles/ for Debbie Carlson — only her own already-linked TAH records (whoswho1026, 37-debbie-carlson201504) and the works index. SKIP-deepen; nothing absorbable; HOLD on degree-designation conflict stands.
