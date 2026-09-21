@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-20
+last_reviewed: 2026-09-21
 ---
 # Taiwanese Association of the Greater Salt Lake (大鹽湖)
 
@@ -25,6 +25,10 @@ Absorbed from the TAH story corpus (salt-lake/utah re-grep 2026-09-18). The chap
 - **Salt Lake Taiwanese institutional ecosystem:** the chapter sits within a wider Salt Lake community record held by TAH — [[works/taiwaneseamericanhistory-org/taiwanese-chamber-of-commerce-of-salt-lake-city|鹽湖城台灣商會 (2016)]] and [[works/taiwaneseamericanhistory-org/50-utah-chapter-chapter-fapa|FAPA 台灣人公共事務會猶他州分會 (2015)]].
 - **Public presence:** the community's visibility in Utah civic life is documented in [[works/taiwaneseamericanhistory-org/days-of-47-parade-of-salt-lake-city|Days of '47 Parade of Salt Lake City (2019)]]; Salt Lake City/Utah hosted the 2019 West Coast Taiwanese American Conference — [[works/taiwaneseamericanhistory-org/77-hand-bag-of-2019-taiwanese-american-conference-west-coast|美西台灣人夏令會 2019, Salt Lake City, July 19–20/2019]].
 - HOLD: chapter founding date and exact TAA regional assignment are not in the corpus; directory listing only.
+
+## Corpus Check
+
+- Re-verified 2026-09-21 (slice 09201400-22): re-grep of content/works + content/articles returns only the records already linked/absorbed above — no new corpus mention; SKIP-with-reason (verify-saturated). The TAGSL work page is a bibliographic record only (no named subjects to absorb); president/ecosystem facts above unchanged.
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-association-of-the-greater-salt-lake/)
