@@ -38,6 +38,7 @@ last_reviewed: 2026-09-20
 - Corpus disambiguation：同名的 Prof. Yuh-Huey Grace Lin 林玉惠（[[works/taiwaneseamericanhistory-org/whoswho1756|TAH #1756]]）、Chi-Ching Grace Lin 林季靜（[[works/taiwaneseamericanhistory-org/93-chi-ching-grace-lin-e6-9e-97-e5-ad-a3-e9-9d-9c-percussionist|TAH #93]]）、Grace Lin 林珮思（[[works/taiwaneseamericanhistory-org/whoswho987|TAH #987]]）及童靜梓(Grace Lin)（[[works/taiwaneseamericanhistory-org/ourjourneys85|TAH ourjourneys85]]）皆為不同人，非本頁。
 
 ## Sources
+- 本人 TAH profile 存檔：[[works/taiwaneseamericanhistory-org/613-grace-lin-e5-90-b3-e7-91-9e-e6-83-a0-201509|TAH #613（Grace Lin 吳瑞惠 / 2015/09）]]
 - [TAH #613 encyclopedia: 613. Grace Lin 吳瑞惠 / 2015/09](https://taiwaneseamericanhistory.org/613-grace-lin-%e5%90%b3%e7%91%9e%e6%83%a0-201509/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/grace-lin/)
 

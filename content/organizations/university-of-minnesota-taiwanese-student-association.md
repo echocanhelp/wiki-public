@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-19
+last_reviewed: 2026-09-20
 ---
 # University of Minnesota Taiwanese Student Association
 
@@ -35,3 +35,4 @@ The University of Minnesota Taiwanese Student Association (UMNTSA), also referre
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - Corpus re-grep 2026-09-19 (slice 09180400-1): no further record names the TSS/UMNTSA itself; the Minnesota cluster above remains the full absorbable corpus material.
+- Corpus re-grep 2026-09-20 (slice 09191100-1): fresh grep across works/ + articles/ for the association's names still returns zero records naming TSS/UMNTSA — no new material; HOLD on founding date and UMNTSA-vs-TSS naming stands.

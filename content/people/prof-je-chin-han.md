@@ -47,7 +47,9 @@ _No filled family fields on the TAH profile._
 - Named recipient of the ASME Honorary Member Award, 2020 ([[works/taiwaneseamericanhistory-org/award-77|77. ASME Honorary Member Award / 黃界清教授 / 2020]]).
 - Commentated on Taiwan politics in the community press: 《2012 台灣最寒冷的冬天—公平正義沒有降臨台灣》(台灣正義網 taiwanjustice.net, archived in the tier2 corpus).
 - Corpus links: [[works/taiwaneseamericanhistory-org/52-prof-je-chin-han|52. Prof. Je-Chin Han 黃界清教授]] (published 2018-08-27), [[works/taiwaneseamericanhistory-org/whos-who-604-je-chin-han|604. Prof. Je-Chin Han 黃界清教授]] (published 2015-09-19).
-- Corpus grep (re-run 2026-09-19 and 2026-09-20): corpus coverage is the records linked above plus the taiwanjustice.net tier2 archive copy of his 2012-01-30 op-ed — no further memoir mentions found.
+- Continued as convener (召集人, jechin.han@gmail.com) of the NATPA 廖述宗教授紀念獎 committee across its editions per the taiwanjustice.net archive: the first-award press conference on 2015-02-28 ([[articles/taiwanjustice-net/20240528135924_root_357eb029de9402e8|2015年第一屆「NATPA 廖述宗教授紀念獎」記者會]]) and the 6th-cycle call for nominations (2020, single US$20,000 prize, 7-member panel) ([[articles/taiwanjustice-net/20250328063830_2020年第6屆_natpa-廖述宗教授紀念獎_接受推薦_c74aa78d01af7084|2020年第6屆「NATPA 廖述宗教授紀念獎」接受推薦]]); by the 2020 cycle the award had split into 長期貢獻獎 and 青年貢獻獎 (US$10,000 each).
+- HOLD: prize structure conflict — the 2015-era notice describes one US$20,000 prize vs the 2020-era notice's two US$10,000 categories; both are his own committee's notices at different dates, not merged.
+- Corpus grep (re-run 2026-09-19, 2026-09-20 twice): corpus coverage is the records linked above plus the taiwanjustice.net tier2 archive copies of his 2012-01-30 op-ed and the NATPA award notices — no further memoir mentions found.
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

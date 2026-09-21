@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-19
+last_reviewed: 2026-09-20
 ---
 # Lanhee J. Chen (陳仁宜)
 
@@ -44,7 +44,9 @@ last_reviewed: 2026-09-19
 - 2021 — ran for California State Controller (加州主計長); TAH community coverage notes his parents' support: [[works/taiwaneseamericanhistory-org/my-stories-815|815. 台裔學者陳仁宜角逐加州主計長 感恩父母支持]] (2021-12-10)
 - Held in the TAH Who's Who record: [[works/taiwaneseamericanhistory-org/whoswh2070|2070. Lanhee J. Chen 陳仁宜 / 03/2018]]; his father 陳崇廉 has his own entry [[works/taiwaneseamericanhistory-org/whoswho2071|2071. CHUNG-LIEN Chen 陳崇廉 / 03/2018]], corroborating the Family section (父陳崇廉、母謝雅美).
 
+- 2020-04-17 — 其透過福斯新聞（Fox News）對世界衛生組織提出的「三問」（WHO 為何無視台灣衛生官員 12 月底關於人傳人的警示email等）獲川普總統在推特上連發兩則推文援引重複，使台裔學者對世衛的質疑進入美國總統層級的公開論述（中央社華盛頓專電，TJJ 存檔 [[articles/taiwanjustice-net/2025/20251209234331_中國忽大幅上調疫情死亡人數_川普總統說實際數_fb6f0e7b78c3b4a5|2020-04-18]]；其同期「台灣不應被拒於 WHO 門外」之談話另見 [[articles/taiwanjustice-net/2026/20260115090128_武漢肺炎蔓延_舊金山灣區出現第一例確診病例_d2090dea95942b51|中央社 2020-01-31 存檔]]）。
 - Corpus re-grep 2026-09-19 (slice 09180400-1): corpus hits (my-stories-815, whoswh2070, whoswho2071, TJJ 存檔 articles) all already absorbed above and in From the record — no new material.
+- Corpus re-grep 2026-09-20 (slice 09191100-1): 12 corpus files match 陳仁宜/Lanhee; the 2025-dated TJJ snapshots (CNN 投書存檔、川普推文援引「三問」) are 2020-original records re-crawled — the Trump/WHO「三問」absorption above is the only new material; rest already covered.
 
 ## Sources
 - [TAH #2070 encyclopedia: 2070. Lanhee J. Chen 陳仁宜 / 03/2018](https://taiwaneseamericanhistory.org/whoswh2070/)
