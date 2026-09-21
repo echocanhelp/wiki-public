@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-20
+last_reviewed: 2026-09-21
 ---
 # Lucy Yang (楊淑詠)
 
@@ -30,7 +30,7 @@ last_reviewed: 2026-09-20
 
 ## Role in the Community
 
-- Corpus 記錄僅見本人 TAH Who's Who 條目：[[works/taiwaneseamericanhistory-org/whos1095-lucy-yang|1095. Lucy Yang 楊淑詠]]（2016/06）。回憶錄與社運文本中暫無其他獨立事跡可吸收。
+- Corpus 記錄僅見本人 TAH Who's Who 條目：[[works/taiwaneseamericanhistory-org/whos1095-lucy-yang|1095. Lucy Yang 楊淑詠]]（2016/06）。回憶錄與社運文本中暫無其他獨立事跡可吸收（2026-09-21 再次檢索確認）。
 
 ## Family
 
