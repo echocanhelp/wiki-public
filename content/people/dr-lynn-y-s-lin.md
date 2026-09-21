@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-19
+last_reviewed: 2026-09-20
 ---
 # Dr. Lynn Y.S. Lin (林英祥博士)
 

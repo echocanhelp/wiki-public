@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-19
+last_reviewed: 2026-09-20
 ---
 # Taiwanese American Association East San Gabriel Valley (洛杉磯聖東台灣同鄉會)
 
@@ -28,6 +28,7 @@ The chapter appears repeatedly in the TAH corpus record:
 - Listed in the TAA directory as the Los Angeles East San Gabriel Valley chapter (全美台灣同鄉會洛杉磯聖東分會): [[works/taiwaneseamericanhistory-org/los-angeles-east-san-gabriel-valley-taa|Los Angeles – East San Gabriel Valley / TAA]].
 - Co-initiator (共同發起單位) of the 2021 大洛杉磯台灣會館 228事件線上追思紀念會與系列活動 — the chapter stood with the LA Taiwan Center and ~50 other Southern California groups for the online 228 memorial ([[articles/taiwanjustice-net/2026/20260210173508_2021大洛杉磯台灣會館228事件線上追思紀念會與系列活_ac0c255ef64908a5|TJJ, 2021 228紀念會]]).
 - Co-signatory of the 2021-05-17 南加州僑界支持台灣參與世界衛生大會(WHA)聯合聲明, listed among the sponsoring SoCal community organizations ([[articles/taiwanjustice-net/2021/20210616072940_2021_05_17_2021年南加州僑界支持台灣參與世界衛生大會wha聯合聲_b1d58af16c0a5e5b|TJJ, WHA聯合聲明]]).
+- Sister fellowship group in the same district: the 聖東生活座談會 (East San Gabriel Valley life-seminar circle), founded **October 1992** by 林富文夫婦 (inspired by the 輕鬆生活座談會 and 沈富雄's oratory) together with 孫嘉璘、郭漢甫、賴淑遠、許貞華, later joined by 陳秀真、林碧玉、許寬正、林文政、賴慧娜、黃瑞祥 — noted as women-majority, with members' community service directed to 北美州婦女會、陳文成基金會、同鄉會、FAPA、公民協會 per the movement-wide 生活座談會 memoir ([[works/taiwaneseamericanhistory-org/ourjourneys212|Our Journeys 212, 生活座談會史]]); a 2016 bibliographic record of the circle: [[works/taiwaneseamericanhistory-org/es-shingwa-society|聖東生活座談會 (2016)]].
 - Runs community gardening outreach of its own: 園藝分享會 (e.g. 3/12) and hosting the 蔬果秋收嘉年華會 on 9/9, as reported under TJJ's 園藝 coverage ([[articles/taiwanjustice-net/2023/20231208120554_root_46c96aaab38ad7f2|TJJ, 園藝]]).
 
 ## Sources

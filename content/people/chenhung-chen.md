@@ -34,7 +34,7 @@ Chenhung Chen is an artist living and working in Los Angeles. She was born in Be
 
 ## Role in the Community
 - 2019-09-14 — two-person exhibition “Time. Timeless” with Echo Lew at OCCCA, recorded in the TAH story corpus: [[works/taiwaneseamericanhistory-org/art-exhibitions-42|42. “Time. Timeless”/Echo Lew & Chenhung Chen, at OCCCA/2019]]. Community-side activity beyond the press-kit profile.
-- Corpus record pages: [[works/taiwaneseamericanhistory-org/whos387-chenhung-chen|TAH #387 Who's Who profile]] and [[works/taiwaneseamericanhistory-org/artist39-chenhung-chen|TAH #39 artist profile]]. Corpus grep (2026-09-18): no memoir/bulletin narrative coverage beyond these records.
+- Corpus record pages: [[works/taiwaneseamericanhistory-org/whos387-chenhung-chen|TAH #387 Who's Who profile]] and [[works/taiwaneseamericanhistory-org/artist39-chenhung-chen|TAH #39 artist profile]]. Corpus re-greps 2026-09-18 and 2026-09-20 (DEEPEN-X slice 09191000-18): only hit beyond her own records is the OCCCA exhibition record [[works/taiwaneseamericanhistory-org/art-exhibitions-42|TAH #42 "Time. Timeless"]] already cited above — no memoir/bulletin narrative coverage.
 
 ## Sources
 - [TAH #387 encyclopedia: 387. Chenhung Chen 陳貞宏/2015/04](https://taiwaneseamericanhistory.org/whos387-chenhung-chen/)
