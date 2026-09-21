@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-20
+last_reviewed: 2026-09-21
 ---
 # Jeffrey L. Chen (陳大立)
 
@@ -42,7 +42,7 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - ## Corpus records
 - [[works/taiwaneseamericanhistory-org/whsosho1355|1355. Jeffrey L. Chen 陳大立 / 2016/11]] — TAH Who's Who encyclopedia record (2016-11).
-- HOLD: false attribution. [[articles/taiwanjustice-net/2025/20251108033858_陳昭南專欄_美國兩黨立法_台灣不屬於中國_74c1a2d39a364c7b|陳昭南專欄 2025-11]] and a 2026-02 taiwanjustice-net article entity-link 陳大立 here, but both discuss 立委陳以信 (KMT legislator), not this UCSD physician — no community activity for this person in the corpus.
+- HOLD: false attribution. [[articles/taiwanjustice-net/2025/20251108033858_陳昭南專欄_美國兩黨立法_台灣不屬於中國_74c1a2d39a364c7b|陳昭南專欄 2025-11]] and [[articles/taiwanjustice-net/2026/20260211101947_習維尼不敢賭_只要敢犯台_中共必定會倒台-_b157f5743d371903|習維尼不敢賭 2026-02]] entity-link 陳大立 here, but both articles only contain the substring "陳大立委" inside "陳大立委" = a typo/segmentation of 立委陳以信 (KMT legislator) — e.g. "如果陳大立委這話…可惜,陳以信的話…" — not this UCSD physician; no community activity for this person in the corpus. (re-confirmed 2026-09-21.)
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

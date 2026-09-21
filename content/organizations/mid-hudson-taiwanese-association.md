@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-20
+last_reviewed: 2026-09-21
 ---
 # Mid-Hudson Taiwanese Association (哈德遜中區臺灣同鄉會)
 
