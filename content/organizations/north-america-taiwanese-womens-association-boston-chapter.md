@@ -25,6 +25,8 @@ The chapter sits within the NATWA (北美洲台灣婦女會) network ([[organiza
 
 HOLD: no chapter-specific founding date, officers, or activity details are present in the corpus beyond the 2015 profile; the parent-body records above date from 1992 onward but do not name the Boston chapter individually.
 
+Corpus re-grep 2026-09-21 (slice 09201500-19): hit set unchanged — the chapter's own profile record [[works/taiwaneseamericanhistory-org/natwa-boston-chapter|natwa-boston-chapter]] plus index entries remain the only coverage; the only other NATWA-named item in the corpus, [[works/taiwaneseamerican-org/relationships-workshop-with-natwa-and-tap-in-sd|Relationships Workshop with NATWA and TAP in SD]] (2014-08-03), concerns the San Diego chapter, not Boston. Verify-saturated, no new absorbable material.
+
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/north-america-taiwanese-womens-association-boston-chapter/)
 

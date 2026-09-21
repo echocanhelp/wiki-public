@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-20
+last_reviewed: 2026-09-21
 ---
 # Prof. Edith Chen (陳怡迪教授)
 
@@ -53,3 +53,4 @@ Accomplishment
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- Re-grep 2026-09-21 (slice 09201500-24): re-confirmed — works/articles hits limited to own TAH records (award TAH 62, encyclopedia TAH 212/2176) + index; SKIP, nothing absorbable.
