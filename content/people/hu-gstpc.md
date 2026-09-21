@@ -28,6 +28,7 @@ Brother Hu appears in GSTPC bulletin records. This is a provisional stub pending
 - **Provisional stub**: No source identified that confirms identity or full name
 - Low confidence: Limited source material available
 - 2026-09-19 deepen-x sweep: no corpus hits in works/ or articles/ (only the GSTPC bibliographic record exists, no named-member text). SKIP — nothing absorbable.
+- 2026-09-21 re-sweep: fresh grep finds 許兄 mentions in [[works/taiwaneseamericanhistory-org/ourjourneys8|OJ #8]] / [[works/taiwaneseamericanhistory-org/ourjourneys39|OJ #39]] but those are Chen Wen-chen Foundation / 協志會 contexts, not GSTPC bulletin membership — no identity link. HOLD, still SKIP.
 
 ## Name Variants / Disambiguation
 - Chinese: 未知

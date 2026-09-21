@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-19
+last_reviewed: 2026-09-21
 ---
 # Taiwanese Association of America Dallas-Fort Worth (達拉斯台灣同鄉會)
 
