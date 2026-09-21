@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-20
+last_reviewed: 2026-09-21
 ---
 # Chu-Chi Chen (陳珠琦醫師)
 
@@ -31,6 +31,7 @@ last_reviewed: 2026-09-20
 ## Role in the Community
 - Profiled in the TA.org story corpus (band B, community historical record): [[works/taiwaneseamericanhistory-org/whoswho1294|1294. Chu-Chi Chen 陳珠琦 / 2016/09]] (published 2016-09-30).
 - No narrative memoir text in the corpus beyond this bibliographic record; full text stays in the vault.
+- SKIP (re-verified 2026-09-21, slice 09200939-6): fresh ZH+EN grep found only this record and index co-listings; nothing absorbable.
 
 ## Family
 
