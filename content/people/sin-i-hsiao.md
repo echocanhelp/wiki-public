@@ -39,6 +39,7 @@ last_reviewed: 2026-09-21
 - Listed under Massachusetts in the first 《全美台灣同鄉通訊錄》 ([[works/taiwaneseamericanhistory-org/ourjourneys58|58. 回憶編印第一本《全美台灣同鄉通訊錄》的甘苦經過 / 陳希寬]]).
 - 1990 — among the 18 applicants named by the authorities as having visa「技術性問題」(blacklisted) for the first NAIT (台灣人教授協會) homecoming annual meeting in Taipei; after months of negotiation the blacklist shrank to three and Hsiao was among the first members able to return to Taiwan that year ([[works/taiwaneseamericanhistory-org/ourjourneys259|259. 台灣人回國的三個階段 / 朱耀源]]).
 - 1992-07 — delivered the keynote「台灣的轉機」at the 14th 美東南區台灣人夏令會 (Methodist College, Spartanburg, SC), per the summer-camp history ([[works/taiwaneseamericanhistory-org/ourjourneys245|245. 美東南區台灣人夏令會簡史 / 劉格正 / 09/2016]]).
+- 1990-08 — during the first NATPA (台灣人教授協會) homecoming annual meeting's five-day southbound tour (07/30–08/03), he gave an evening talk in Tainan at the banquet hosted by 鄭楓木醫師, per the meeting memoir ([[works/taiwaneseamericanhistory-org/ourjourneys47|47. 北美洲台灣人敎授協會首度回台召開年會的經緯和歷史意義 / 林靜竹 / 2014-10]]).
 
 ## Family
 
