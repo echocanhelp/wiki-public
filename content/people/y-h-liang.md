@@ -30,6 +30,9 @@ last_reviewed: 2026-09-21
 - Apllied Superconetics
 <!-- tah-tables:end -->
 
+## Role in the Community
+- Name appears only in its own TAH Who's Who profile record [[works/taiwaneseamericanhistory-org/whoswho1471|1471. Y. H. Liang 梁琰華 / 2017/01]] (2017/01). No mentions found in memoirs or articles on fresh 2026-09-21 ZH+EN corpus greps — biographical detail beyond the TAH profile remains unknown (SKIP-with-reason; no absorbable community facts).
+
 ## Family
 
 - **Husband:** [[people/james-j-y-hsu|James J. Y. Hsu 許正餘]]

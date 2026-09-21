@@ -25,6 +25,9 @@ last_reviewed: 2026-09-21
 - Eastman School of Music
 <!-- tah-tables:end -->
 
+## Role in the Community
+- Name appears only in its own TAH Who's Who profile record [[works/taiwaneseamericanhistory-org/whos-katherine-jui-chang|1970. Katherine Jui Chang 張瑞佩 /12/2017]] (2017/12). No mentions found in memoirs or articles on fresh 2026-09-21 ZH+EN corpus greps — biographical detail beyond the TAH profile remains unknown (SKIP-with-reason; no absorbable community facts).
+
 ## Family
 
 _No filled family fields on the TAH profile._

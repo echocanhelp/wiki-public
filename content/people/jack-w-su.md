@@ -28,6 +28,9 @@ last_reviewed: 2026-09-21
 - E.M.S. Trading Co. — 1985 — Secretary
 <!-- tah-tables:end -->
 
+## Role in the Community
+- Name appears only in its own TAH Who's Who profile record [[works/taiwaneseamericanhistory-org/330-jack-w-su-e8-98-87-e6-96-87-e6-9d-b0|330. Jack W. Su 蘇文杰 / 2015/03]] (2015/03). No mentions found in memoirs or articles on fresh 2026-09-21 ZH+EN corpus greps — biographical detail beyond the TAH profile remains unknown (SKIP-with-reason; no absorbable community facts).
+
 ## Family
 
 - **Son:** 2
