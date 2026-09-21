@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-19
+last_reviewed: 2026-09-21
 ---
 # Po Hu (胡博文教授)
 
@@ -38,7 +38,8 @@ last_reviewed: 2026-09-19
 
 
 ## Role in the Community
-- SKIP-with-reason (2026-09-19 pass): the only corpus match is his own TAH encyclopedia bibliographic stub, [[works/taiwaneseamericanhistory-org/329-po-hu-e8-83-a1-e5-8d-9a-e6-96-87201503|329. Po Hu 胡博文 / 2015/03]] — no memoir or community-record content to absorb.
+- Co-signatory of the 2021 Taiwanese American community response to Pew Research Center reports that merged "Taiwanese" data into "Chinese": [[works/taiwaneseamerican-org/pew-research-center-taiwanese-american-statement|Response to Pew Research Reports Hiding Taiwanese Identity]] (2021-05-01) — his name appears in the statement's signatory list.
+- Own TAH encyclopedia record: [[works/taiwaneseamericanhistory-org/329-po-hu-e8-83-a1-e5-8d-9a-e6-96-87201503|329. Po Hu 胡博文 / 2015/03]] — bibliographic only; no memoir prose there to absorb (per 2026-09-19 pass).
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/po-hu/)

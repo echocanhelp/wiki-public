@@ -170,6 +170,10 @@ Pages that link to **yang-xin** (yang-xin):
 
 1. [[sources/2017-tahs-publication|2017-tahs-publication]]
 
+## From the record
+
+- 2022-07-02 — 以台美人社區領袖身分（率楊信夫婦）於柑縣為國會眾議員 Michelle Steel（朴銀珠）第45區連任舉辦募款餐會，公開呼籲台美人投票支持其連任，稱其親切、關心選民心聲、持續為中小企業主發聲（[[articles/taiwanjustice-net/2022/20220813052744_2022_07_02_台美人社區領袖力挺柑縣國會眾議員朴銀珠競選連_8c5d12035d4e1a54|TJJ, 2022-07-02]]；另見 [[articles/taiwanjustice-net/2025/20250808005844_台美人社區領袖力挺柑縣國會眾議員朴銀珠競選連_2fc3294ed01f2d2a|2025-08-08 快照]]）。
+
 ## Source Notes and Confidence
 
 - **Content priority A:** 2017 TAHS Publication 行政院政務顧問楊信的創業故事 (The Entrepreneurship Story of State Advisor Yang Hsin), Part 1, L290–884 (~594 lines), written by 黃樹人

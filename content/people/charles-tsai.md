@@ -7,12 +7,18 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-19
+last_reviewed: 2026-09-21
 ---
 # Charles Tsai (蔡其芳)
 
-## Corpus pass (deepen-x slice 09180400-23, 2026-09-19): SKIP
-Corpus grep of content/works + content/articles for 蔡其芳 / Charles Tsai returned 0 hits; no work page exists for TAH #961 either. Nothing absorbable beyond the TAH Who's Who record already on this page. No biography invented, nothing published.
+## Corpus pass (deepen-x slice 09191219-1, 2026-09-21): DEEPENED
+Earlier SKIP note (slice 09180400-23) is superseded: a work page for TAH #961 now exists in the corpus (whoswho961) and three Our Journeys memoirs mention 蔡其芳 by name.
+
+## Role in the Community
+- 1975 美東台灣人夏令會: his mother (同鄉蔡其芳的母親), together with 蔡明憲, rushed onto the closing-program stage and urged the assembled 同鄉 to return to Taiwan and fight for it, speaking through tears — an episode recalled by 總召集人王成章牧師 in his interview [[works/taiwaneseamericanhistory-org/our-journeys-392|392. 王成章牧師專訪 / 07/2024]].
+- 聖恩長老敎會 (NJ) planting team, 1998–1999: took part in the 植堂籌備 work — church-site surveys (Jan 1999), the Slackwood連席會議 preparations, and at the 創會感恩禮拜 (1999-04-04 復活節) he served as 接待 and 司獻 — per [[works/taiwaneseamericanhistory-org/ourjourneys43|43. 聖恩長老敎會設敎經過 / 劉照男 / 2014-10]].
+- HOLD: identity conflict — [[works/taiwaneseamericanhistory-org/ourjourneys305|305. 聖路易台灣人基督長老教會歷史 / 張理美 / 07/2017]] names "Cheng-Chang Charles Tsai" (with Dr. L. M. Beverly Chang) among the Formosan Christian Fellowship founders in St. Louis (~1978). English name matches; 漢名 differs from this page's 蔡其芳 (TAH #961). Do not merge until confirmed same person.
+- His TAH Who's Who bibliographic record is held as [[works/taiwaneseamericanhistory-org/whoswho961|961. Charles Tsai 蔡其芳 / 2016-05]].
 
 ## Identity Snapshot
 - **English:** Charles Tsai
