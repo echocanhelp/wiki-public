@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-20
+last_reviewed: 2026-09-21
 ---
 # C. B. Chien (簡錦標)
 
@@ -41,6 +41,7 @@ _No filled family fields on the TAH profile._
 - **1978** — 會長 of the 紐約首府區台灣同鄉會 (New York Capital District Taiwanese Residents Association), per the association's own presidents' roster in [[works/taiwaneseamericanhistory-org/ourjourneys311|311. 紐約首府區台灣同鄉會及台美文化促進會簡介]].
 - **1985** — 委員 of the 台美公民協會 (TACL) 籌備委員會 under 召集人 吳澧培, per [[works/taiwaneseamericanhistory-org/ourjourneys186|186. 台美公民協會簡介]] (from 台灣公論報 #369, 1985-04-15).
 - **1985-07-13** — Elected to TACL's 第一屆理事會 (founding board, 15 members) at the founding convention at the Biltmore Hotel, Los Angeles, per 周實's memoir [[works/taiwaneseamericanhistory-org/ourjourneys272|272. 台美公民協會的成長：從孕育到發芽]]; the expanded preparatory committee (adding 簡錦標 among others) is credited there as having contributed money, labor, and time.
+- The English editions of the same memoirs corroborate every entry above — as “C. B. Chien”: 1978 會長 in the association roster [[works/taiwaneseamericanhistory-org/ourjourneys311|ourjourneys311]], TACL 籌備委 委員 in [[works/taiwaneseamericanhistory-org/ourjourneys186-eng|186 (EN)]], and the expanded preparatory committee / 15-member first board in [[works/taiwaneseamericanhistory-org/ourjourneys272-eng|272 (EN)]]. No conflicting dates; corpus otherwise saturated.
 
 ## Sources
 - [TAH #1405 encyclopedia: 1405. C. B. Chien 簡錦標 / 2016/11](https://taiwaneseamericanhistory.org/whoswho1405/)
