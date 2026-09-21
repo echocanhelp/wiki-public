@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-19
+last_reviewed: 2026-09-21
 ---
 # Taiwanese Association of Alabama Birmingham (伯明罕臺灣同鄉會)
 
@@ -33,3 +33,7 @@ The Taiwanese Association of Alabama Birmingham (伯明罕臺灣同鄉會) is a 
 ## Corpus review (slice 09180317-18)
 
 - SKIP-with-reason (re-checked 2026-09-19): grep 伯明罕臺灣同鄉會 / "Taiwanese Association of Alabama" across works/ + articles/ again returned no memoir/activity hits — only index pages, this org page, and the existing geography-context note on [[people/yen-sen-chen||陳彥升]]. Nothing new absorbable.
+
+## Corpus review (slice 09191100-17)
+
+- SKIP-with-reason (re-checked 2026-09-21): grep 伯明罕臺灣同鄉會 / "Taiwanese Association of Alabama" across content/works + content/articles returned zero hits — no chapter activity, roster, or founding facts absorbable.
