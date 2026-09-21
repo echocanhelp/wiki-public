@@ -26,6 +26,7 @@ Absorbed from the chapter's 50-year retrospective by 謝金朱 — [[works/taiwa
 - **Advocacy:** hosted touring Taiwan-movement speakers (陳隆志, 史明, 洪哲勝, 許榮淑, 陳唐山, 蔡同榮 and others); the chapter's early years include the Triangle-poster incident, in which FBI interviewed member 劉格正 about Nationalist surveillance of students.
 - **Publications:** issued the newsletter 台訊 roughly monthly, more than 100 issues; in the 1980s 李宗敬 ran a daily call-in tape line of Taiwan news.
 - **Community calendar:** lunar New Year gatherings once drew 300+; 肉粽節, 中秋節 and Southeast-region summer conferences; a 2019 pilot Taiwan Night market drew 400–500; in 2020 the chapter raised funds and donated masks, and gave to a domestic-violence center and food bank. Membership today is around 100 as student numbers have shrunk.
+- **Leadership succession:** the chapter once nearly dissolved over a leadership gap; the 2007-02-17 lunar New Year party (200+ attendees, Green Hope High School, Wake County) doubled as the handover from president 王怡彬 to 黃淑娟, with service plaques to outgoing directors 林欣慕, 劉格正, 王志萍, 謝蕙如 — the memoir notes the recurring pattern of couples, siblings and returning officers volunteering "撩下去" to keep the chapter alive: [[works/taiwaneseamericanhistory-org/ourjourneys241|Our Journeys 241 (memoir, 2007-02)]].
 - **Notable early members:** 林國慶 (NCSU), 郭倍宏, 李應元 (UNC, first publisher of 《台灣學生》), 高龍榮, 吳焜裕.
 
 ## Timeline (chapter records in the corpus)

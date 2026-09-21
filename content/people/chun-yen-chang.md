@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-20
+last_reviewed: 2026-09-21
 ---
 # Chun-Yen Chang (張俊彥)
 
@@ -50,3 +50,5 @@ SKIP-with-reason: corpus scan of `works/` and `articles/` found no primary commu
 - [[works/taiwaneseamericanhistory-org/whoswho952|TAH encyclopedia record #952: Chun-Yen Chang 張俊彥]]
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+<!-- deepen-x 09200900-15: re-verified 2026-09-21 — corpus grep (ZH+EN) hits only own TAH record(s) in content/works; no new memoir/community material to absorb. -->
