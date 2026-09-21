@@ -40,3 +40,6 @@ She is the Treasurer for the NTPC Historical Committee's 2025 republication of *
 - [[people/zhang-aihui||Zhang Ai-Hui (張愛惠)]]
 - [[people/lin-yushu||Lin Yu-Shu (林育武)]]
 - [[sources/ntpc-usa-org||NTPC USA source hub]]
+
+## Corpus check (deepen-x 09201503-9, 2026-09-21)
+SKIP (re-confirmed) — fresh grep of works/ + articles/ for 陳慧貞 / Hui-Chen Chen returns zero hits; the NTPC source material on this page remains the only record — nothing absorbable.

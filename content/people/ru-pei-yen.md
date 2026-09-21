@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-20
+last_reviewed: 2026-09-21
 ---
 # Ru-Pei Yen (葉儒沛)
 
@@ -39,6 +39,7 @@ _No filled family fields on the TAH profile._
 
 - Held in the TAH record as a Taiwanese classical-music figure appearing twice in the encyclopedia: #481 and #231 ("Ru-Pei Yeh 葉儒沛, Cellist") — see [[works/taiwaneseamericanhistory-org/481-ru-pei-yen-e8-91-89-e5-84-92-e6-b2-9b-201507|TAH #481]] and [[works/taiwaneseamericanhistory-org/231-ru-pei-yeh-e8-91-89-e5-84-92-e6-b2-9b-cellist-201507|TAH #231]].
 - HOLD: romanization conflict Yen (page/TAH #481) vs Yeh (TAH #231, biography text) — not merged.
+- Corpus sweep 2026-09-21 (deepen-x slice 09201503-12): grep for 'Ru-Pei Yen / Ru-Pei Yeh / 葉儒沛' in content/works + content/articles returns only her own two encyclopedia records (#481, #231) and their works/index entries — no memoir text; verified saturated.
 
 ## Sources
 - [TAH #481 encyclopedia: 481. Ru-Pei Yen 葉儒沛 / 2015/07](https://taiwaneseamericanhistory.org/481-ru-pei-yen-%e8%91%89%e5%84%92%e6%b2%9b-201507/)

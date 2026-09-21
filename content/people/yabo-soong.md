@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-19
+last_reviewed: 2026-09-21
 ---
 # Yabo Soong (宋亞伯)
 
@@ -44,6 +44,8 @@ _No filled family fields on the TAH profile._
 ## Sources
 - [TAH #1662 encyclopedia: 1662. Yabo Soong 宋亞伯(宋冀康)](https://taiwaneseamericanhistory.org/whos-who-1662-yabo-soong/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/yabo-soong/)
+
+- Corpus re-verified 2026-09-21 (deepen-x slice 09201503-16): grep across works/ + articles/ still returns only the own TAH record and index row — no memoir material; page remains saturated.
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

@@ -50,3 +50,6 @@ SKIP — no absorbable corpus facts. Only hit in works/articles is her own bibli
 
 ## Corpus check (deepen-x 09190400-20, 2026-09-20)
 SKIP (re-confirmed) — fresh grep returns only her own bibliographic record [[works/taiwaneseamericanhistory-org/129-chinying-rachel-chang-e5-bc-b5-e9-87-91-e9-b6-af|TAH #129]] (no full text in vault); no memoir or community-record mentions — nothing absorbable.
+
+## Corpus check (deepen-x 09201503-9, 2026-09-21)
+SKIP (re-confirmed) — fresh grep returns only her own bibliographic record [[works/taiwaneseamericanhistory-org/129-chinying-rachel-chang-e5-bc-b5-e9-87-91-e9-b6-af|TAH #129]] plus the works index; no memoir or community-record mentions — nothing absorbable.

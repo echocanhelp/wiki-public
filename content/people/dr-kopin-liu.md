@@ -38,6 +38,9 @@ _No filled family fields on the TAH profile._
 
 _Corpus scans 2026-09-17, 2026-09-19, and 2026-09-20 (slice 09190400-17): the only matches for 劉國平 / Kopin Liu in content/works and content/articles are his own TAH encyclopedia record [[works/taiwaneseamericanhistory-org/whos-who-2130-kopin-liu|2130. Dr. Kopin Liu 劉國平博士]] (bibliographic record only, 2018-06-13) and the works index. No memoir or community-text passages to absorb — SKIP deepening; cross-link added only._
 
+## Corpus check (deepen-x 09201503-9, 2026-09-21)
+SKIP (re-confirmed) — fresh grep of works/ + articles/ returns only his own TAH record [[works/taiwaneseamericanhistory-org/whos-who-2130-kopin-liu|TAH #2130 Dr. Kopin Liu 劉國平博士]] plus the works index; no memoir or community-record mentions — nothing absorbable.
+
 ## Sources
 - [TAH #2130 encyclopedia: 2130. Dr. Kopin Liu 劉國平博士](https://taiwaneseamericanhistory.org/whos-who-2130-kopin-liu/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-kopin-liu/)
