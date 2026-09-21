@@ -26,3 +26,41 @@ CI: publishing to heal drift
 INCIDENT_LOGGED: /home/leedt/echo-system/knowledge/operational/incidents/2026-09-20.md
 CI: site-design ACTION
 CI: smoke OK
+[gh-pages fcaf7c2f870] ci-heal: L2 auto-heal (2026-09-20)
+ 45 files changed, 2338 insertions(+), 458 deletions(-)
+ create mode 100644 knowledge/operational/deepen-x-slice-09202214-1.txt
+ create mode 100644 knowledge/operational/deepen-x-slice-09202214-10.txt
+ create mode 100644 knowledge/operational/deepen-x-slice-09202214-11.txt
+ create mode 100644 knowledge/operational/deepen-x-slice-09202214-12.txt
+ create mode 100644 knowledge/operational/deepen-x-slice-09202214-13.txt
+ create mode 100644 knowledge/operational/deepen-x-slice-09202214-14.txt
+ create mode 100644 knowledge/operational/deepen-x-slice-09202214-15.txt
+ create mode 100644 knowledge/operational/deepen-x-slice-09202214-16.txt
+ create mode 100644 knowledge/operational/deepen-x-slice-09202214-17.txt
+ create mode 100644 knowledge/operational/deepen-x-slice-09202214-18.txt
+ create mode 100644 knowledge/operational/deepen-x-slice-09202214-19.txt
+ create mode 100644 knowledge/operational/deepen-x-slice-09202214-2.txt
+ create mode 100644 knowledge/operational/deepen-x-slice-09202214-20.txt
+ create mode 100644 knowledge/operational/deepen-x-slice-09202214-21.txt
+ create mode 100644 knowledge/operational/deepen-x-slice-09202214-22.txt
+ create mode 100644 knowledge/operational/deepen-x-slice-09202214-23.txt
+ create mode 100644 knowledge/operational/deepen-x-slice-09202214-24.txt
+ create mode 100644 knowledge/operational/deepen-x-slice-09202214-25.txt
+ create mode 100644 knowledge/operational/deepen-x-slice-09202214-26.txt
+ create mode 100644 knowledge/operational/deepen-x-slice-09202214-27.txt
+ create mode 100644 knowledge/operational/deepen-x-slice-09202214-28.txt
+ create mode 100644 knowledge/operational/deepen-x-slice-09202214-29.txt
+ create mode 100644 knowledge/operational/deepen-x-slice-09202214-3.txt
+ create mode 100644 knowledge/operational/deepen-x-slice-09202214-30.txt
+ create mode 100644 knowledge/operational/deepen-x-slice-09202214-31.txt
+ create mode 100644 knowledge/operational/deepen-x-slice-09202214-32.txt
+ create mode 100644 knowledge/operational/deepen-x-slice-09202214-4.txt
+ create mode 100644 knowledge/operational/deepen-x-slice-09202214-5.txt
+ create mode 100644 knowledge/operational/deepen-x-slice-09202214-6.txt
+ create mode 100644 knowledge/operational/deepen-x-slice-09202214-7.txt
+ create mode 100644 knowledge/operational/deepen-x-slice-09202214-8.txt
+ create mode 100644 knowledge/operational/deepen-x-slice-09202214-9.txt
+CI: committed heal
+CI: not green — no L3 push
+CI_SUMMARY: green=0 ops=WARN drift=ACTION smoke=OK
+CI_STATUS: HEALED_OR_WARN

@@ -3,299 +3,299 @@
   "total_cards": 40,
   "evaluated_file": "/home/leedt/echo-system/knowledge/operational/evaluated/2026-09-20.json",
   "priority_counts": {
-    "high": 14,
-    "medium": 26
+    "high": 20,
+    "medium": 20
   },
   "playbook_counts": {
-    "P8": 31,
-    "P3": 9
+    "P8": 33,
+    "P3": 7
   },
   "cards": [
     {
       "card_id": "echo-gen-2026-09-20-0001",
       "title": "[HIGH] north-america-taiwanese-womens-association: Add ## History section",
-      "body": "## Task: [HIGH] north-america-taiwanese-womens-association: Add ## History section\n\n**Priority:** high\n**Playbook:** P8\n**Page:** `organizations/north-america-taiwanese-womens-association.md`\n**Finding:** `STRUCT_NO_HISTORY`\n**Score:** 152.75 (inbound links: 47)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/organizations/north-america-taiwanese-womens-association.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-09-20 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Add ## History section\n**Detail:** Add a History section with key dates, milestones, and events. Include dates and brief descriptions.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: STRUCT_NO_HISTORY\nPage type: organizations\nType weight: 1.3\nFinding weight: 2.5",
+      "body": "## Task: [HIGH] north-america-taiwanese-womens-association: Add ## History section\n\n**Priority:** high\n**Playbook:** P8\n**Page:** `organizations/north-america-taiwanese-womens-association.md`\n**Finding:** `STRUCT_NO_HISTORY`\n**Score:** 266.5 (inbound links: 82)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/organizations/north-america-taiwanese-womens-association.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-09-20 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Add ## History section\n**Detail:** Add a History section with key dates, milestones, and events. Include dates and brief descriptions.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: STRUCT_NO_HISTORY\nPage type: organizations\nType weight: 1.3\nFinding weight: 2.5",
       "priority": "high",
       "playbook": "P8",
       "page": "organizations/north-america-taiwanese-womens-association.md",
       "finding": "STRUCT_NO_HISTORY",
-      "score": 152.75,
+      "score": 266.5,
       "target_path": "/home/leedt/echo-system/content/organizations/north-america-taiwanese-womens-association.md"
     },
     {
       "card_id": "echo-gen-2026-09-20-0002",
       "title": "[HIGH] north-america-taiwanese-womens-association: Break up long sentences",
-      "body": "## Task: [HIGH] north-america-taiwanese-womens-association: Break up long sentences\n\n**Priority:** high\n**Playbook:** P8\n**Page:** `organizations/north-america-taiwanese-womens-association.md`\n**Finding:** `READABILITY_LONG_SENTENCES_31wps`\n**Score:** 30.55 (inbound links: 47)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/organizations/north-america-taiwanese-womens-association.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-09-20 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Break up long sentences\n**Detail:** Average words per sentence exceeds 30. Break up long sentences for readability.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: READABILITY_LONG_SENTENCES\nPage type: organizations\nType weight: 1.3\nFinding weight: 0.5",
+      "body": "## Task: [HIGH] north-america-taiwanese-womens-association: Break up long sentences\n\n**Priority:** high\n**Playbook:** P8\n**Page:** `organizations/north-america-taiwanese-womens-association.md`\n**Finding:** `READABILITY_LONG_SENTENCES_31wps`\n**Score:** 53.3 (inbound links: 82)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/organizations/north-america-taiwanese-womens-association.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-09-20 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Break up long sentences\n**Detail:** Average words per sentence exceeds 30. Break up long sentences for readability.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: READABILITY_LONG_SENTENCES\nPage type: organizations\nType weight: 1.3\nFinding weight: 0.5",
       "priority": "high",
       "playbook": "P8",
       "page": "organizations/north-america-taiwanese-womens-association.md",
       "finding": "READABILITY_LONG_SENTENCES_31wps",
-      "score": 30.55,
+      "score": 53.3,
       "target_path": "/home/leedt/echo-system/content/organizations/north-america-taiwanese-womens-association.md"
     },
     {
       "card_id": "echo-gen-2026-09-20-0003",
       "title": "[HIGH] north-america-taiwanese-womens-association: Break up long sentences",
-      "body": "## Task: [HIGH] north-america-taiwanese-womens-association: Break up long sentences\n\n**Priority:** high\n**Playbook:** P8\n**Page:** `organizations/north-america-taiwanese-womens-association.md`\n**Finding:** `READABILITY_MANY_LONG_SENTENCES_4`\n**Score:** 30.55 (inbound links: 47)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/organizations/north-america-taiwanese-womens-association.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-09-20 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Break up long sentences\n**Detail:** Multiple sentences exceed 50 words. Break them up for readability.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: READABILITY_MANY_LONG_SENTENCES\nPage type: organizations\nType weight: 1.3\nFinding weight: 0.5",
+      "body": "## Task: [HIGH] north-america-taiwanese-womens-association: Break up long sentences\n\n**Priority:** high\n**Playbook:** P8\n**Page:** `organizations/north-america-taiwanese-womens-association.md`\n**Finding:** `READABILITY_MANY_LONG_SENTENCES_4`\n**Score:** 53.3 (inbound links: 82)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/organizations/north-america-taiwanese-womens-association.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-09-20 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Break up long sentences\n**Detail:** Multiple sentences exceed 50 words. Break them up for readability.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: READABILITY_MANY_LONG_SENTENCES\nPage type: organizations\nType weight: 1.3\nFinding weight: 0.5",
       "priority": "high",
       "playbook": "P8",
       "page": "organizations/north-america-taiwanese-womens-association.md",
       "finding": "READABILITY_MANY_LONG_SENTENCES_4",
-      "score": 30.55,
+      "score": 53.3,
       "target_path": "/home/leedt/echo-system/content/organizations/north-america-taiwanese-womens-association.md"
     },
     {
       "card_id": "echo-gen-2026-09-20-0004",
-      "title": "[HIGH] tsung-ming-hsieh: Ensure the first paragraph mentions the page subject",
-      "body": "## Task: [HIGH] tsung-ming-hsieh: Ensure the first paragraph mentions the page subject\n\n**Priority:** high\n**Playbook:** P8\n**Page:** `people/tsung-ming-hsieh.md`\n**Finding:** `DESC_NO_TITLE_MENTION`\n**Score:** 25.5 (inbound links: 17)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/people/tsung-ming-hsieh.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-09-20 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Ensure the first paragraph mentions the page subject\n**Detail:** The first paragraph should reference the person/organization this page is about.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: DESC_NO_TITLE_MENTION\nPage type: people\nType weight: 1.5\nFinding weight: 1.0",
-      "priority": "high",
-      "playbook": "P8",
-      "page": "people/tsung-ming-hsieh.md",
-      "finding": "DESC_NO_TITLE_MENTION",
-      "score": 25.5,
-      "target_path": "/home/leedt/echo-system/content/people/tsung-ming-hsieh.md"
-    },
-    {
-      "card_id": "echo-gen-2026-09-20-0005",
-      "title": "[HIGH] tzutsai-cheng: Ensure the first paragraph mentions the page subject",
-      "body": "## Task: [HIGH] tzutsai-cheng: Ensure the first paragraph mentions the page subject\n\n**Priority:** high\n**Playbook:** P8\n**Page:** `people/tzutsai-cheng.md`\n**Finding:** `DESC_NO_TITLE_MENTION`\n**Score:** 19.5 (inbound links: 13)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/people/tzutsai-cheng.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-09-20 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Ensure the first paragraph mentions the page subject\n**Detail:** The first paragraph should reference the person/organization this page is about.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: DESC_NO_TITLE_MENTION\nPage type: people\nType weight: 1.5\nFinding weight: 1.0",
-      "priority": "high",
-      "playbook": "P8",
-      "page": "people/tzutsai-cheng.md",
-      "finding": "DESC_NO_TITLE_MENTION",
-      "score": 19.5,
-      "target_path": "/home/leedt/echo-system/content/people/tzutsai-cheng.md"
-    },
-    {
-      "card_id": "echo-gen-2026-09-20-0006",
-      "title": "[HIGH] tzutsai-cheng: UNKNOWN_FINDING_TYPE",
-      "body": "## Task: [HIGH] tzutsai-cheng: UNKNOWN_FINDING_TYPE\n\n**Priority:** high\n**Playbook:** P8\n**Page:** `people/tzutsai-cheng.md`\n**Finding:** `LINKS_HIGH_DENSITY`\n**Score:** 19.5 (inbound links: 13)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/people/tzutsai-cheng.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-09-20 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** UNKNOWN_FINDING_TYPE\n**Detail:** No action mapping for finding: LINKS_HIGH_DENSITY\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: LINKS_HIGH_DENSITY\nPage type: people\nType weight: 1.5\nFinding weight: 1.0",
-      "priority": "high",
-      "playbook": "P8",
-      "page": "people/tzutsai-cheng.md",
-      "finding": "LINKS_HIGH_DENSITY",
-      "score": 19.5,
-      "target_path": "/home/leedt/echo-system/content/people/tzutsai-cheng.md"
-    },
-    {
-      "card_id": "echo-gen-2026-09-20-0007",
       "title": "[HIGH] michael-fonte: Add type: to frontmatter",
-      "body": "## Task: [HIGH] michael-fonte: Add type: to frontmatter\n\n**Priority:** high\n**Playbook:** P8\n**Page:** `people/michael-fonte.md`\n**Finding:** `STRUCT_NO_TYPE`\n**Score:** 18.75 (inbound links: 5)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/people/michael-fonte.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-09-20 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Add type: to frontmatter\n**Detail:** Add type: person, type: organization, or type: source to the page frontmatter.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: STRUCT_NO_TYPE\nPage type: people\nType weight: 1.5\nFinding weight: 2.5",
+      "body": "## Task: [HIGH] michael-fonte: Add type: to frontmatter\n\n**Priority:** high\n**Playbook:** P8\n**Page:** `people/michael-fonte.md`\n**Finding:** `STRUCT_NO_TYPE`\n**Score:** 33.75 (inbound links: 9)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/people/michael-fonte.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-09-20 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Add type: to frontmatter\n**Detail:** Add type: person, type: organization, or type: source to the page frontmatter.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: STRUCT_NO_TYPE\nPage type: people\nType weight: 1.5\nFinding weight: 2.5",
       "priority": "high",
       "playbook": "P8",
       "page": "people/michael-fonte.md",
       "finding": "STRUCT_NO_TYPE",
-      "score": 18.75,
+      "score": 33.75,
       "target_path": "/home/leedt/echo-system/content/people/michael-fonte.md"
+    },
+    {
+      "card_id": "echo-gen-2026-09-20-0005",
+      "title": "[HIGH] john-lin: Ensure the first paragraph mentions the page subject",
+      "body": "## Task: [HIGH] john-lin: Ensure the first paragraph mentions the page subject\n\n**Priority:** high\n**Playbook:** P8\n**Page:** `people/john-lin.md`\n**Finding:** `DESC_NO_TITLE_MENTION`\n**Score:** 28.5 (inbound links: 19)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/people/john-lin.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-09-20 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Ensure the first paragraph mentions the page subject\n**Detail:** The first paragraph should reference the person/organization this page is about.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: DESC_NO_TITLE_MENTION\nPage type: people\nType weight: 1.5\nFinding weight: 1.0",
+      "priority": "high",
+      "playbook": "P8",
+      "page": "people/john-lin.md",
+      "finding": "DESC_NO_TITLE_MENTION",
+      "score": 28.5,
+      "target_path": "/home/leedt/echo-system/content/people/john-lin.md"
+    },
+    {
+      "card_id": "echo-gen-2026-09-20-0006",
+      "title": "[HIGH] north-america-taiwanese-womens-association-kansas-chapter: Add ## History section",
+      "body": "## Task: [HIGH] north-america-taiwanese-womens-association-kansas-chapter: Add ## History section\n\n**Priority:** high\n**Playbook:** P8\n**Page:** `organizations/north-america-taiwanese-womens-association-kansas-chapter.md`\n**Finding:** `STRUCT_NO_HISTORY`\n**Score:** 26.0 (inbound links: 8)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/organizations/north-america-taiwanese-womens-association-kansas-chapter.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-09-20 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Add ## History section\n**Detail:** Add a History section with key dates, milestones, and events. Include dates and brief descriptions.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: STRUCT_NO_HISTORY\nPage type: organizations\nType weight: 1.3\nFinding weight: 2.5",
+      "priority": "high",
+      "playbook": "P8",
+      "page": "organizations/north-america-taiwanese-womens-association-kansas-chapter.md",
+      "finding": "STRUCT_NO_HISTORY",
+      "score": 26.0,
+      "target_path": "/home/leedt/echo-system/content/organizations/north-america-taiwanese-womens-association-kansas-chapter.md"
+    },
+    {
+      "card_id": "echo-gen-2026-09-20-0007",
+      "title": "[HIGH] ming-tsuang: Ensure the first paragraph mentions the page subject",
+      "body": "## Task: [HIGH] ming-tsuang: Ensure the first paragraph mentions the page subject\n\n**Priority:** high\n**Playbook:** P8\n**Page:** `people/ming-tsuang.md`\n**Finding:** `DESC_NO_TITLE_MENTION`\n**Score:** 24.0 (inbound links: 16)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/people/ming-tsuang.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-09-20 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Ensure the first paragraph mentions the page subject\n**Detail:** The first paragraph should reference the person/organization this page is about.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: DESC_NO_TITLE_MENTION\nPage type: people\nType weight: 1.5\nFinding weight: 1.0",
+      "priority": "high",
+      "playbook": "P8",
+      "page": "people/ming-tsuang.md",
+      "finding": "DESC_NO_TITLE_MENTION",
+      "score": 24.0,
+      "target_path": "/home/leedt/echo-system/content/people/ming-tsuang.md"
     },
     {
       "card_id": "echo-gen-2026-09-20-0008",
-      "title": "[HIGH] bi-khim-hsiao: Ensure the first paragraph mentions the page subject",
-      "body": "## Task: [HIGH] bi-khim-hsiao: Ensure the first paragraph mentions the page subject\n\n**Priority:** high\n**Playbook:** P8\n**Page:** `people/bi-khim-hsiao.md`\n**Finding:** `DESC_NO_TITLE_MENTION`\n**Score:** 15.0 (inbound links: 10)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/people/bi-khim-hsiao.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-09-20 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Ensure the first paragraph mentions the page subject\n**Detail:** The first paragraph should reference the person/organization this page is about.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: DESC_NO_TITLE_MENTION\nPage type: people\nType weight: 1.5\nFinding weight: 1.0",
+      "title": "[HIGH] shin-ruh-liu: Expand the first paragraph to provide a meaningful summary of the page",
+      "body": "## Task: [HIGH] shin-ruh-liu: Expand the first paragraph to provide a meaningful summary of the page\n\n**Priority:** high\n**Playbook:** P8\n**Page:** `people/shin-ruh-liu.md`\n**Finding:** `DESC_TOO_SHORT`\n**Score:** 20.25 (inbound links: 9)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/people/shin-ruh-liu.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-09-20 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Expand the first paragraph to provide a meaningful summary of the page\n**Detail:** First paragraph should be 50+ characters and mention the page subject. Add 1-2 sentences summarizing who/what this page is about.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: DESC_TOO_SHORT\nPage type: people\nType weight: 1.5\nFinding weight: 1.5",
       "priority": "high",
       "playbook": "P8",
-      "page": "people/bi-khim-hsiao.md",
-      "finding": "DESC_NO_TITLE_MENTION",
-      "score": 15.0,
-      "target_path": "/home/leedt/echo-system/content/people/bi-khim-hsiao.md"
+      "page": "people/shin-ruh-liu.md",
+      "finding": "DESC_TOO_SHORT",
+      "score": 20.25,
+      "target_path": "/home/leedt/echo-system/content/people/shin-ruh-liu.md"
     },
     {
       "card_id": "echo-gen-2026-09-20-0009",
-      "title": "[HIGH] john-lin: Ensure the first paragraph mentions the page subject",
-      "body": "## Task: [HIGH] john-lin: Ensure the first paragraph mentions the page subject\n\n**Priority:** high\n**Playbook:** P8\n**Page:** `people/john-lin.md`\n**Finding:** `DESC_NO_TITLE_MENTION`\n**Score:** 13.5 (inbound links: 9)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/people/john-lin.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-09-20 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Ensure the first paragraph mentions the page subject\n**Detail:** The first paragraph should reference the person/organization this page is about.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: DESC_NO_TITLE_MENTION\nPage type: people\nType weight: 1.5\nFinding weight: 1.0",
+      "title": "[HIGH] taiwanese-student-association-at-arizona-state-university: Add ## History section",
+      "body": "## Task: [HIGH] taiwanese-student-association-at-arizona-state-university: Add ## History section\n\n**Priority:** high\n**Playbook:** P8\n**Page:** `organizations/taiwanese-student-association-at-arizona-state-university.md`\n**Finding:** `STRUCT_NO_HISTORY`\n**Score:** 19.5 (inbound links: 6)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/organizations/taiwanese-student-association-at-arizona-state-university.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-09-20 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Add ## History section\n**Detail:** Add a History section with key dates, milestones, and events. Include dates and brief descriptions.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: STRUCT_NO_HISTORY\nPage type: organizations\nType weight: 1.3\nFinding weight: 2.5",
       "priority": "high",
       "playbook": "P8",
-      "page": "people/john-lin.md",
-      "finding": "DESC_NO_TITLE_MENTION",
-      "score": 13.5,
-      "target_path": "/home/leedt/echo-system/content/people/john-lin.md"
+      "page": "organizations/taiwanese-student-association-at-arizona-state-university.md",
+      "finding": "STRUCT_NO_HISTORY",
+      "score": 19.5,
+      "target_path": "/home/leedt/echo-system/content/organizations/taiwanese-student-association-at-arizona-state-university.md"
     },
     {
       "card_id": "echo-gen-2026-09-20-0010",
-      "title": "[HIGH] ming-tsuang: Ensure the first paragraph mentions the page subject",
-      "body": "## Task: [HIGH] ming-tsuang: Ensure the first paragraph mentions the page subject\n\n**Priority:** high\n**Playbook:** P8\n**Page:** `people/ming-tsuang.md`\n**Finding:** `DESC_NO_TITLE_MENTION`\n**Score:** 13.5 (inbound links: 9)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/people/ming-tsuang.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-09-20 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Ensure the first paragraph mentions the page subject\n**Detail:** The first paragraph should reference the person/organization this page is about.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: DESC_NO_TITLE_MENTION\nPage type: people\nType weight: 1.5\nFinding weight: 1.0",
+      "title": "[HIGH] dr-lung-fong-chen: Ensure the first paragraph mentions the page subject",
+      "body": "## Task: [HIGH] dr-lung-fong-chen: Ensure the first paragraph mentions the page subject\n\n**Priority:** high\n**Playbook:** P8\n**Page:** `people/dr-lung-fong-chen.md`\n**Finding:** `DESC_NO_TITLE_MENTION`\n**Score:** 18.0 (inbound links: 12)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/people/dr-lung-fong-chen.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-09-20 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Ensure the first paragraph mentions the page subject\n**Detail:** The first paragraph should reference the person/organization this page is about.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: DESC_NO_TITLE_MENTION\nPage type: people\nType weight: 1.5\nFinding weight: 1.0",
       "priority": "high",
       "playbook": "P8",
-      "page": "people/ming-tsuang.md",
+      "page": "people/dr-lung-fong-chen.md",
       "finding": "DESC_NO_TITLE_MENTION",
-      "score": 13.5,
-      "target_path": "/home/leedt/echo-system/content/people/ming-tsuang.md"
+      "score": 18.0,
+      "target_path": "/home/leedt/echo-system/content/people/dr-lung-fong-chen.md"
     },
     {
       "card_id": "echo-gen-2026-09-20-0011",
-      "title": "[HIGH] tsung-ming-hsieh: Break up long sentences",
-      "body": "## Task: [HIGH] tsung-ming-hsieh: Break up long sentences\n\n**Priority:** high\n**Playbook:** P8\n**Page:** `people/tsung-ming-hsieh.md`\n**Finding:** `READABILITY_MANY_LONG_SENTENCES_4`\n**Score:** 12.75 (inbound links: 17)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/people/tsung-ming-hsieh.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-09-20 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Break up long sentences\n**Detail:** Multiple sentences exceed 50 words. Break them up for readability.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: READABILITY_MANY_LONG_SENTENCES\nPage type: people\nType weight: 1.5\nFinding weight: 0.5",
+      "title": "[HIGH] dew-chin-ghi-chang: Expand the first paragraph to provide a meaningful summary of the page",
+      "body": "## Task: [HIGH] dew-chin-ghi-chang: Expand the first paragraph to provide a meaningful summary of the page\n\n**Priority:** high\n**Playbook:** P8\n**Page:** `people/dew-chin-ghi-chang.md`\n**Finding:** `DESC_TOO_SHORT`\n**Score:** 15.75 (inbound links: 7)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/people/dew-chin-ghi-chang.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-09-20 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Expand the first paragraph to provide a meaningful summary of the page\n**Detail:** First paragraph should be 50+ characters and mention the page subject. Add 1-2 sentences summarizing who/what this page is about.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: DESC_TOO_SHORT\nPage type: people\nType weight: 1.5\nFinding weight: 1.5",
       "priority": "high",
       "playbook": "P8",
-      "page": "people/tsung-ming-hsieh.md",
-      "finding": "READABILITY_MANY_LONG_SENTENCES_4",
-      "score": 12.75,
-      "target_path": "/home/leedt/echo-system/content/people/tsung-ming-hsieh.md"
+      "page": "people/dew-chin-ghi-chang.md",
+      "finding": "DESC_TOO_SHORT",
+      "score": 15.75,
+      "target_path": "/home/leedt/echo-system/content/people/dew-chin-ghi-chang.md"
     },
     {
       "card_id": "echo-gen-2026-09-20-0012",
-      "title": "[HIGH] shin-ruh-liu: Expand the first paragraph to provide a meaningful summary of the page",
-      "body": "## Task: [HIGH] shin-ruh-liu: Expand the first paragraph to provide a meaningful summary of the page\n\n**Priority:** high\n**Playbook:** P8\n**Page:** `people/shin-ruh-liu.md`\n**Finding:** `DESC_TOO_SHORT`\n**Score:** 11.25 (inbound links: 5)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/people/shin-ruh-liu.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-09-20 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Expand the first paragraph to provide a meaningful summary of the page\n**Detail:** First paragraph should be 50+ characters and mention the page subject. Add 1-2 sentences summarizing who/what this page is about.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: DESC_TOO_SHORT\nPage type: people\nType weight: 1.5\nFinding weight: 1.5",
+      "title": "[HIGH] john-lin: Break up long sentences",
+      "body": "## Task: [HIGH] john-lin: Break up long sentences\n\n**Priority:** high\n**Playbook:** P8\n**Page:** `people/john-lin.md`\n**Finding:** `READABILITY_MANY_LONG_SENTENCES_4`\n**Score:** 14.25 (inbound links: 19)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/people/john-lin.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-09-20 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Break up long sentences\n**Detail:** Multiple sentences exceed 50 words. Break them up for readability.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: READABILITY_MANY_LONG_SENTENCES\nPage type: people\nType weight: 1.5\nFinding weight: 0.5",
       "priority": "high",
-      "playbook": "P8",
-      "page": "people/shin-ruh-liu.md",
-      "finding": "DESC_TOO_SHORT",
-      "score": 11.25,
-      "target_path": "/home/leedt/echo-system/content/people/shin-ruh-liu.md"
-    },
-    {
-      "card_id": "echo-gen-2026-09-20-0013",
-      "title": "[HIGH] philip-lin: Ensure the first paragraph mentions the page subject",
-      "body": "## Task: [HIGH] philip-lin: Ensure the first paragraph mentions the page subject\n\n**Priority:** high\n**Playbook:** P8\n**Page:** `people/philip-lin.md`\n**Finding:** `DESC_NO_TITLE_MENTION`\n**Score:** 10.5 (inbound links: 7)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/people/philip-lin.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-09-20 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Ensure the first paragraph mentions the page subject\n**Detail:** The first paragraph should reference the person/organization this page is about.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: DESC_NO_TITLE_MENTION\nPage type: people\nType weight: 1.5\nFinding weight: 1.0",
-      "priority": "high",
-      "playbook": "P8",
-      "page": "people/philip-lin.md",
-      "finding": "DESC_NO_TITLE_MENTION",
-      "score": 10.5,
-      "target_path": "/home/leedt/echo-system/content/people/philip-lin.md"
-    },
-    {
-      "card_id": "echo-gen-2026-09-20-0014",
-      "title": "[HIGH] philip-lin: UNKNOWN_FINDING_TYPE",
-      "body": "## Task: [HIGH] philip-lin: UNKNOWN_FINDING_TYPE\n\n**Priority:** high\n**Playbook:** P8\n**Page:** `people/philip-lin.md`\n**Finding:** `LINKS_HIGH_DENSITY`\n**Score:** 10.5 (inbound links: 7)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/people/philip-lin.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-09-20 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** UNKNOWN_FINDING_TYPE\n**Detail:** No action mapping for finding: LINKS_HIGH_DENSITY\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: LINKS_HIGH_DENSITY\nPage type: people\nType weight: 1.5\nFinding weight: 1.0",
-      "priority": "high",
-      "playbook": "P8",
-      "page": "people/philip-lin.md",
-      "finding": "LINKS_HIGH_DENSITY",
-      "score": 10.5,
-      "target_path": "/home/leedt/echo-system/content/people/philip-lin.md"
-    },
-    {
-      "card_id": "echo-gen-2026-09-20-0015",
-      "title": "[MEDIUM] albert-zh-sku-b-publisher-review: Add ## Identity Snapshot section",
-      "body": "## Task: [MEDIUM] albert-zh-sku-b-publisher-review: Add ## Identity Snapshot section\n\n**Priority:** medium\n**Playbook:** P8\n**Page:** `people/albert-zh-sku-b-publisher-review.md`\n**Finding:** `STRUCT_NO_IDENTITY`\n**Score:** 9.0 (inbound links: 2)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/people/albert-zh-sku-b-publisher-review.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-09-20 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Add ## Identity Snapshot section\n**Detail:** Add an Identity Snapshot section with English name, Chinese name, core roles, and content priority. See standards.json for format.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: STRUCT_NO_IDENTITY\nPage type: people\nType weight: 1.5\nFinding weight: 3.0",
-      "priority": "medium",
-      "playbook": "P8",
-      "page": "people/albert-zh-sku-b-publisher-review.md",
-      "finding": "STRUCT_NO_IDENTITY",
-      "score": 9.0,
-      "target_path": "/home/leedt/echo-system/content/people/albert-zh-sku-b-publisher-review.md"
-    },
-    {
-      "card_id": "echo-gen-2026-09-20-0016",
-      "title": "[MEDIUM] dew-chin-ghi-chang: Expand the first paragraph to provide a meaningful summary of the page",
-      "body": "## Task: [MEDIUM] dew-chin-ghi-chang: Expand the first paragraph to provide a meaningful summary of the page\n\n**Priority:** medium\n**Playbook:** P8\n**Page:** `people/dew-chin-ghi-chang.md`\n**Finding:** `DESC_TOO_SHORT`\n**Score:** 9.0 (inbound links: 4)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/people/dew-chin-ghi-chang.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-09-20 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Expand the first paragraph to provide a meaningful summary of the page\n**Detail:** First paragraph should be 50+ characters and mention the page subject. Add 1-2 sentences summarizing who/what this page is about.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: DESC_TOO_SHORT\nPage type: people\nType weight: 1.5\nFinding weight: 1.5",
-      "priority": "medium",
-      "playbook": "P8",
-      "page": "people/dew-chin-ghi-chang.md",
-      "finding": "DESC_TOO_SHORT",
-      "score": 9.0,
-      "target_path": "/home/leedt/echo-system/content/people/dew-chin-ghi-chang.md"
-    },
-    {
-      "card_id": "echo-gen-2026-09-20-0017",
-      "title": "[MEDIUM] bi-khim-hsiao: Break up long sentences",
-      "body": "## Task: [MEDIUM] bi-khim-hsiao: Break up long sentences\n\n**Priority:** medium\n**Playbook:** P8\n**Page:** `people/bi-khim-hsiao.md`\n**Finding:** `READABILITY_MANY_LONG_SENTENCES_4`\n**Score:** 7.5 (inbound links: 10)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/people/bi-khim-hsiao.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-09-20 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Break up long sentences\n**Detail:** Multiple sentences exceed 50 words. Break them up for readability.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: READABILITY_MANY_LONG_SENTENCES\nPage type: people\nType weight: 1.5\nFinding weight: 0.5",
-      "priority": "medium",
-      "playbook": "P8",
-      "page": "people/bi-khim-hsiao.md",
-      "finding": "READABILITY_MANY_LONG_SENTENCES_4",
-      "score": 7.5,
-      "target_path": "/home/leedt/echo-system/content/people/bi-khim-hsiao.md"
-    },
-    {
-      "card_id": "echo-gen-2026-09-20-0018",
-      "title": "[MEDIUM] carol-cho: Ensure the first paragraph mentions the page subject",
-      "body": "## Task: [MEDIUM] carol-cho: Ensure the first paragraph mentions the page subject\n\n**Priority:** medium\n**Playbook:** P8\n**Page:** `people/carol-cho.md`\n**Finding:** `DESC_NO_TITLE_MENTION`\n**Score:** 7.5 (inbound links: 5)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/people/carol-cho.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-09-20 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Ensure the first paragraph mentions the page subject\n**Detail:** The first paragraph should reference the person/organization this page is about.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: DESC_NO_TITLE_MENTION\nPage type: people\nType weight: 1.5\nFinding weight: 1.0",
-      "priority": "medium",
-      "playbook": "P8",
-      "page": "people/carol-cho.md",
-      "finding": "DESC_NO_TITLE_MENTION",
-      "score": 7.5,
-      "target_path": "/home/leedt/echo-system/content/people/carol-cho.md"
-    },
-    {
-      "card_id": "echo-gen-2026-09-20-0019",
-      "title": "[MEDIUM] michael-fonte: Add last_reviewed: YYYY-MM-DD to frontmatter",
-      "body": "## Task: [MEDIUM] michael-fonte: Add last_reviewed: YYYY-MM-DD to frontmatter\n\n**Priority:** medium\n**Playbook:** P8\n**Page:** `people/michael-fonte.md`\n**Finding:** `FRESHNESS_NO_REVIEW_DATE`\n**Score:** 7.5 (inbound links: 5)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/people/michael-fonte.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-09-20 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Add last_reviewed: YYYY-MM-DD to frontmatter\n**Detail:** Add a last_reviewed date to the page frontmatter.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: FRESHNESS_NO_REVIEW_DATE\nPage type: people\nType weight: 1.5\nFinding weight: 1.0",
-      "priority": "medium",
-      "playbook": "P8",
-      "page": "people/michael-fonte.md",
-      "finding": "FRESHNESS_NO_REVIEW_DATE",
-      "score": 7.5,
-      "target_path": "/home/leedt/echo-system/content/people/michael-fonte.md"
-    },
-    {
-      "card_id": "echo-gen-2026-09-20-0020",
-      "title": "[MEDIUM] michael-fonte: Add last_reviewed: YYYY-MM-DD to frontmatter",
-      "body": "## Task: [MEDIUM] michael-fonte: Add last_reviewed: YYYY-MM-DD to frontmatter\n\n**Priority:** medium\n**Playbook:** P8\n**Page:** `people/michael-fonte.md`\n**Finding:** `STRUCT_NO_REVIEW_DATE`\n**Score:** 7.5 (inbound links: 5)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/people/michael-fonte.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-09-20 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Add last_reviewed: YYYY-MM-DD to frontmatter\n**Detail:** Add a last_reviewed date to the page frontmatter so the freshness checker can track it.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: STRUCT_NO_REVIEW_DATE\nPage type: people\nType weight: 1.5\nFinding weight: 1.0",
-      "priority": "medium",
-      "playbook": "P8",
-      "page": "people/michael-fonte.md",
-      "finding": "STRUCT_NO_REVIEW_DATE",
-      "score": 7.5,
-      "target_path": "/home/leedt/echo-system/content/people/michael-fonte.md"
-    },
-    {
-      "card_id": "echo-gen-2026-09-20-0021",
-      "title": "[MEDIUM] shin-ruh-liu: Ensure the first paragraph mentions the page subject",
-      "body": "## Task: [MEDIUM] shin-ruh-liu: Ensure the first paragraph mentions the page subject\n\n**Priority:** medium\n**Playbook:** P8\n**Page:** `people/shin-ruh-liu.md`\n**Finding:** `DESC_NO_TITLE_MENTION`\n**Score:** 7.5 (inbound links: 5)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/people/shin-ruh-liu.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-09-20 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Ensure the first paragraph mentions the page subject\n**Detail:** The first paragraph should reference the person/organization this page is about.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: DESC_NO_TITLE_MENTION\nPage type: people\nType weight: 1.5\nFinding weight: 1.0",
-      "priority": "medium",
-      "playbook": "P8",
-      "page": "people/shin-ruh-liu.md",
-      "finding": "DESC_NO_TITLE_MENTION",
-      "score": 7.5,
-      "target_path": "/home/leedt/echo-system/content/people/shin-ruh-liu.md"
-    },
-    {
-      "card_id": "echo-gen-2026-09-20-0022",
-      "title": "[MEDIUM] john-lin: Break up long sentences",
-      "body": "## Task: [MEDIUM] john-lin: Break up long sentences\n\n**Priority:** medium\n**Playbook:** P8\n**Page:** `people/john-lin.md`\n**Finding:** `READABILITY_MANY_LONG_SENTENCES_4`\n**Score:** 6.75 (inbound links: 9)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/people/john-lin.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-09-20 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Break up long sentences\n**Detail:** Multiple sentences exceed 50 words. Break them up for readability.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: READABILITY_MANY_LONG_SENTENCES\nPage type: people\nType weight: 1.5\nFinding weight: 0.5",
-      "priority": "medium",
       "playbook": "P8",
       "page": "people/john-lin.md",
       "finding": "READABILITY_MANY_LONG_SENTENCES_4",
-      "score": 6.75,
+      "score": 14.25,
       "target_path": "/home/leedt/echo-system/content/people/john-lin.md"
     },
     {
-      "card_id": "echo-gen-2026-09-20-0023",
-      "title": "[MEDIUM] ming-tsuang: Break up long sentences",
-      "body": "## Task: [MEDIUM] ming-tsuang: Break up long sentences\n\n**Priority:** medium\n**Playbook:** P8\n**Page:** `people/ming-tsuang.md`\n**Finding:** `READABILITY_MANY_LONG_SENTENCES_4`\n**Score:** 6.75 (inbound links: 9)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/people/ming-tsuang.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-09-20 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Break up long sentences\n**Detail:** Multiple sentences exceed 50 words. Break them up for readability.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: READABILITY_MANY_LONG_SENTENCES\nPage type: people\nType weight: 1.5\nFinding weight: 0.5",
-      "priority": "medium",
+      "card_id": "echo-gen-2026-09-20-0013",
+      "title": "[HIGH] carol-cho: Ensure the first paragraph mentions the page subject",
+      "body": "## Task: [HIGH] carol-cho: Ensure the first paragraph mentions the page subject\n\n**Priority:** high\n**Playbook:** P8\n**Page:** `people/carol-cho.md`\n**Finding:** `DESC_NO_TITLE_MENTION`\n**Score:** 13.5 (inbound links: 9)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/people/carol-cho.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-09-20 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Ensure the first paragraph mentions the page subject\n**Detail:** The first paragraph should reference the person/organization this page is about.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: DESC_NO_TITLE_MENTION\nPage type: people\nType weight: 1.5\nFinding weight: 1.0",
+      "priority": "high",
+      "playbook": "P8",
+      "page": "people/carol-cho.md",
+      "finding": "DESC_NO_TITLE_MENTION",
+      "score": 13.5,
+      "target_path": "/home/leedt/echo-system/content/people/carol-cho.md"
+    },
+    {
+      "card_id": "echo-gen-2026-09-20-0014",
+      "title": "[HIGH] michael-fonte: Add last_reviewed: YYYY-MM-DD to frontmatter",
+      "body": "## Task: [HIGH] michael-fonte: Add last_reviewed: YYYY-MM-DD to frontmatter\n\n**Priority:** high\n**Playbook:** P8\n**Page:** `people/michael-fonte.md`\n**Finding:** `FRESHNESS_NO_REVIEW_DATE`\n**Score:** 13.5 (inbound links: 9)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/people/michael-fonte.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-09-20 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Add last_reviewed: YYYY-MM-DD to frontmatter\n**Detail:** Add a last_reviewed date to the page frontmatter.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: FRESHNESS_NO_REVIEW_DATE\nPage type: people\nType weight: 1.5\nFinding weight: 1.0",
+      "priority": "high",
+      "playbook": "P8",
+      "page": "people/michael-fonte.md",
+      "finding": "FRESHNESS_NO_REVIEW_DATE",
+      "score": 13.5,
+      "target_path": "/home/leedt/echo-system/content/people/michael-fonte.md"
+    },
+    {
+      "card_id": "echo-gen-2026-09-20-0015",
+      "title": "[HIGH] michael-fonte: Add last_reviewed: YYYY-MM-DD to frontmatter",
+      "body": "## Task: [HIGH] michael-fonte: Add last_reviewed: YYYY-MM-DD to frontmatter\n\n**Priority:** high\n**Playbook:** P8\n**Page:** `people/michael-fonte.md`\n**Finding:** `STRUCT_NO_REVIEW_DATE`\n**Score:** 13.5 (inbound links: 9)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/people/michael-fonte.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-09-20 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Add last_reviewed: YYYY-MM-DD to frontmatter\n**Detail:** Add a last_reviewed date to the page frontmatter so the freshness checker can track it.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: STRUCT_NO_REVIEW_DATE\nPage type: people\nType weight: 1.5\nFinding weight: 1.0",
+      "priority": "high",
+      "playbook": "P8",
+      "page": "people/michael-fonte.md",
+      "finding": "STRUCT_NO_REVIEW_DATE",
+      "score": 13.5,
+      "target_path": "/home/leedt/echo-system/content/people/michael-fonte.md"
+    },
+    {
+      "card_id": "echo-gen-2026-09-20-0016",
+      "title": "[HIGH] shin-ruh-liu: Ensure the first paragraph mentions the page subject",
+      "body": "## Task: [HIGH] shin-ruh-liu: Ensure the first paragraph mentions the page subject\n\n**Priority:** high\n**Playbook:** P8\n**Page:** `people/shin-ruh-liu.md`\n**Finding:** `DESC_NO_TITLE_MENTION`\n**Score:** 13.5 (inbound links: 9)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/people/shin-ruh-liu.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-09-20 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Ensure the first paragraph mentions the page subject\n**Detail:** The first paragraph should reference the person/organization this page is about.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: DESC_NO_TITLE_MENTION\nPage type: people\nType weight: 1.5\nFinding weight: 1.0",
+      "priority": "high",
+      "playbook": "P8",
+      "page": "people/shin-ruh-liu.md",
+      "finding": "DESC_NO_TITLE_MENTION",
+      "score": 13.5,
+      "target_path": "/home/leedt/echo-system/content/people/shin-ruh-liu.md"
+    },
+    {
+      "card_id": "echo-gen-2026-09-20-0017",
+      "title": "[HIGH] taiwanese-association-of-wisconsin: Add ## History section",
+      "body": "## Task: [HIGH] taiwanese-association-of-wisconsin: Add ## History section\n\n**Priority:** high\n**Playbook:** P8\n**Page:** `organizations/taiwanese-association-of-wisconsin.md`\n**Finding:** `STRUCT_NO_HISTORY`\n**Score:** 13.0 (inbound links: 4)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/organizations/taiwanese-association-of-wisconsin.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-09-20 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Add ## History section\n**Detail:** Add a History section with key dates, milestones, and events. Include dates and brief descriptions.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: STRUCT_NO_HISTORY\nPage type: organizations\nType weight: 1.3\nFinding weight: 2.5",
+      "priority": "high",
+      "playbook": "P8",
+      "page": "organizations/taiwanese-association-of-wisconsin.md",
+      "finding": "STRUCT_NO_HISTORY",
+      "score": 13.0,
+      "target_path": "/home/leedt/echo-system/content/organizations/taiwanese-association-of-wisconsin.md"
+    },
+    {
+      "card_id": "echo-gen-2026-09-20-0018",
+      "title": "[HIGH] ming-tsuang: Break up long sentences",
+      "body": "## Task: [HIGH] ming-tsuang: Break up long sentences\n\n**Priority:** high\n**Playbook:** P8\n**Page:** `people/ming-tsuang.md`\n**Finding:** `READABILITY_MANY_LONG_SENTENCES_4`\n**Score:** 12.0 (inbound links: 16)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/people/ming-tsuang.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-09-20 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Break up long sentences\n**Detail:** Multiple sentences exceed 50 words. Break them up for readability.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: READABILITY_MANY_LONG_SENTENCES\nPage type: people\nType weight: 1.5\nFinding weight: 0.5",
+      "priority": "high",
       "playbook": "P8",
       "page": "people/ming-tsuang.md",
       "finding": "READABILITY_MANY_LONG_SENTENCES_4",
-      "score": 6.75,
+      "score": 12.0,
       "target_path": "/home/leedt/echo-system/content/people/ming-tsuang.md"
     },
     {
-      "card_id": "echo-gen-2026-09-20-0024",
-      "title": "[MEDIUM] albert-zh-sku-b-publisher-review: Add ## Related Pages section",
-      "body": "## Task: [MEDIUM] albert-zh-sku-b-publisher-review: Add ## Related Pages section\n\n**Priority:** medium\n**Playbook:** P3\n**Page:** `people/albert-zh-sku-b-publisher-review.md`\n**Finding:** `LINKS_NO_RELATED`\n**Score:** 6.0 (inbound links: 2)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/people/albert-zh-sku-b-publisher-review.md\n3. Find broken wikilinks and repair or redirect\n4. Commit only (no publish)\n\n### Specific Fix\n**Action:** Add ## Related Pages section\n**Detail:** Add a Related Pages section with wikilinks to connected people, organizations, and sources.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: LINKS_NO_RELATED\nPage type: people\nType weight: 1.5\nFinding weight: 2.0",
-      "priority": "medium",
-      "playbook": "P3",
-      "page": "people/albert-zh-sku-b-publisher-review.md",
-      "finding": "LINKS_NO_RELATED",
-      "score": 6.0,
-      "target_path": "/home/leedt/echo-system/content/people/albert-zh-sku-b-publisher-review.md"
-    },
-    {
-      "card_id": "echo-gen-2026-09-20-0025",
-      "title": "[MEDIUM] albert-zh-sku-b-publisher-review: Add ## Related Pages section",
-      "body": "## Task: [MEDIUM] albert-zh-sku-b-publisher-review: Add ## Related Pages section\n\n**Priority:** medium\n**Playbook:** P3\n**Page:** `people/albert-zh-sku-b-publisher-review.md`\n**Finding:** `STRUCT_NO_RELATED`\n**Score:** 6.0 (inbound links: 2)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/people/albert-zh-sku-b-publisher-review.md\n3. Find broken wikilinks and repair or redirect\n4. Commit only (no publish)\n\n### Specific Fix\n**Action:** Add ## Related Pages section\n**Detail:** Add a Related Pages section with wikilinks ([[people/name|Name]]) to connected pages. Use first-mention convention.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: STRUCT_NO_RELATED\nPage type: people\nType weight: 1.5\nFinding weight: 2.0",
-      "priority": "medium",
-      "playbook": "P3",
-      "page": "people/albert-zh-sku-b-publisher-review.md",
-      "finding": "STRUCT_NO_RELATED",
-      "score": 6.0,
-      "target_path": "/home/leedt/echo-system/content/people/albert-zh-sku-b-publisher-review.md"
-    },
-    {
-      "card_id": "echo-gen-2026-09-20-0026",
-      "title": "[MEDIUM] dew-chin-ghi-chang: Ensure the first paragraph mentions the page subject",
-      "body": "## Task: [MEDIUM] dew-chin-ghi-chang: Ensure the first paragraph mentions the page subject\n\n**Priority:** medium\n**Playbook:** P8\n**Page:** `people/dew-chin-ghi-chang.md`\n**Finding:** `DESC_NO_TITLE_MENTION`\n**Score:** 6.0 (inbound links: 4)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/people/dew-chin-ghi-chang.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-09-20 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Ensure the first paragraph mentions the page subject\n**Detail:** The first paragraph should reference the person/organization this page is about.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: DESC_NO_TITLE_MENTION\nPage type: people\nType weight: 1.5\nFinding weight: 1.0",
-      "priority": "medium",
+      "card_id": "echo-gen-2026-09-20-0019",
+      "title": "[HIGH] dew-chin-ghi-chang: Ensure the first paragraph mentions the page subject",
+      "body": "## Task: [HIGH] dew-chin-ghi-chang: Ensure the first paragraph mentions the page subject\n\n**Priority:** high\n**Playbook:** P8\n**Page:** `people/dew-chin-ghi-chang.md`\n**Finding:** `DESC_NO_TITLE_MENTION`\n**Score:** 10.5 (inbound links: 7)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/people/dew-chin-ghi-chang.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-09-20 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Ensure the first paragraph mentions the page subject\n**Detail:** The first paragraph should reference the person/organization this page is about.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: DESC_NO_TITLE_MENTION\nPage type: people\nType weight: 1.5\nFinding weight: 1.0",
+      "priority": "high",
       "playbook": "P8",
       "page": "people/dew-chin-ghi-chang.md",
       "finding": "DESC_NO_TITLE_MENTION",
-      "score": 6.0,
+      "score": 10.5,
       "target_path": "/home/leedt/echo-system/content/people/dew-chin-ghi-chang.md"
+    },
+    {
+      "card_id": "echo-gen-2026-09-20-0020",
+      "title": "[HIGH] kuei-ling-chen: Ensure the first paragraph mentions the page subject",
+      "body": "## Task: [HIGH] kuei-ling-chen: Ensure the first paragraph mentions the page subject\n\n**Priority:** high\n**Playbook:** P8\n**Page:** `people/kuei-ling-chen.md`\n**Finding:** `DESC_NO_TITLE_MENTION`\n**Score:** 10.5 (inbound links: 7)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/people/kuei-ling-chen.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-09-20 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Ensure the first paragraph mentions the page subject\n**Detail:** The first paragraph should reference the person/organization this page is about.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: DESC_NO_TITLE_MENTION\nPage type: people\nType weight: 1.5\nFinding weight: 1.0",
+      "priority": "high",
+      "playbook": "P8",
+      "page": "people/kuei-ling-chen.md",
+      "finding": "DESC_NO_TITLE_MENTION",
+      "score": 10.5,
+      "target_path": "/home/leedt/echo-system/content/people/kuei-ling-chen.md"
+    },
+    {
+      "card_id": "echo-gen-2026-09-20-0021",
+      "title": "[MEDIUM] dr-lung-fong-chen: Break up long sentences",
+      "body": "## Task: [MEDIUM] dr-lung-fong-chen: Break up long sentences\n\n**Priority:** medium\n**Playbook:** P8\n**Page:** `people/dr-lung-fong-chen.md`\n**Finding:** `READABILITY_MANY_LONG_SENTENCES_4`\n**Score:** 9.0 (inbound links: 12)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/people/dr-lung-fong-chen.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-09-20 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Break up long sentences\n**Detail:** Multiple sentences exceed 50 words. Break them up for readability.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: READABILITY_MANY_LONG_SENTENCES\nPage type: people\nType weight: 1.5\nFinding weight: 0.5",
+      "priority": "medium",
+      "playbook": "P8",
+      "page": "people/dr-lung-fong-chen.md",
+      "finding": "READABILITY_MANY_LONG_SENTENCES_4",
+      "score": 9.0,
+      "target_path": "/home/leedt/echo-system/content/people/dr-lung-fong-chen.md"
+    },
+    {
+      "card_id": "echo-gen-2026-09-20-0022",
+      "title": "[MEDIUM] taiwanese-student-association-at-arizona-state-university: Ensure the first paragraph mentions the page subject",
+      "body": "## Task: [MEDIUM] taiwanese-student-association-at-arizona-state-university: Ensure the first paragraph mentions the page subject\n\n**Priority:** medium\n**Playbook:** P8\n**Page:** `organizations/taiwanese-student-association-at-arizona-state-university.md`\n**Finding:** `DESC_NO_TITLE_MENTION`\n**Score:** 7.8 (inbound links: 6)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/organizations/taiwanese-student-association-at-arizona-state-university.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-09-20 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Ensure the first paragraph mentions the page subject\n**Detail:** The first paragraph should reference the person/organization this page is about.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: DESC_NO_TITLE_MENTION\nPage type: organizations\nType weight: 1.3\nFinding weight: 1.0",
+      "priority": "medium",
+      "playbook": "P8",
+      "page": "organizations/taiwanese-student-association-at-arizona-state-university.md",
+      "finding": "DESC_NO_TITLE_MENTION",
+      "score": 7.8,
+      "target_path": "/home/leedt/echo-system/content/organizations/taiwanese-student-association-at-arizona-state-university.md"
+    },
+    {
+      "card_id": "echo-gen-2026-09-20-0023",
+      "title": "[MEDIUM] carol-cho: Break up long sentences",
+      "body": "## Task: [MEDIUM] carol-cho: Break up long sentences\n\n**Priority:** medium\n**Playbook:** P8\n**Page:** `people/carol-cho.md`\n**Finding:** `READABILITY_LONG_SENTENCES_34wps`\n**Score:** 6.75 (inbound links: 9)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/people/carol-cho.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-09-20 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Break up long sentences\n**Detail:** Average words per sentence exceeds 30. Break up long sentences for readability.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: READABILITY_LONG_SENTENCES\nPage type: people\nType weight: 1.5\nFinding weight: 0.5",
+      "priority": "medium",
+      "playbook": "P8",
+      "page": "people/carol-cho.md",
+      "finding": "READABILITY_LONG_SENTENCES_34wps",
+      "score": 6.75,
+      "target_path": "/home/leedt/echo-system/content/people/carol-cho.md"
+    },
+    {
+      "card_id": "echo-gen-2026-09-20-0024",
+      "title": "[MEDIUM] dr-ming-hong-chow: Ensure the first paragraph mentions the page subject",
+      "body": "## Task: [MEDIUM] dr-ming-hong-chow: Ensure the first paragraph mentions the page subject\n\n**Priority:** medium\n**Playbook:** P8\n**Page:** `people/dr-ming-hong-chow.md`\n**Finding:** `DESC_NO_TITLE_MENTION`\n**Score:** 6.0 (inbound links: 4)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/people/dr-ming-hong-chow.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-09-20 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Ensure the first paragraph mentions the page subject\n**Detail:** The first paragraph should reference the person/organization this page is about.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: DESC_NO_TITLE_MENTION\nPage type: people\nType weight: 1.5\nFinding weight: 1.0",
+      "priority": "medium",
+      "playbook": "P8",
+      "page": "people/dr-ming-hong-chow.md",
+      "finding": "DESC_NO_TITLE_MENTION",
+      "score": 6.0,
+      "target_path": "/home/leedt/echo-system/content/people/dr-ming-hong-chow.md"
+    },
+    {
+      "card_id": "echo-gen-2026-09-20-0025",
+      "title": "[MEDIUM] dr-ming-hong-chow: UNKNOWN_FINDING_TYPE",
+      "body": "## Task: [MEDIUM] dr-ming-hong-chow: UNKNOWN_FINDING_TYPE\n\n**Priority:** medium\n**Playbook:** P8\n**Page:** `people/dr-ming-hong-chow.md`\n**Finding:** `LINKS_HIGH_DENSITY`\n**Score:** 6.0 (inbound links: 4)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/people/dr-ming-hong-chow.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-09-20 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** UNKNOWN_FINDING_TYPE\n**Detail:** No action mapping for finding: LINKS_HIGH_DENSITY\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: LINKS_HIGH_DENSITY\nPage type: people\nType weight: 1.5\nFinding weight: 1.0",
+      "priority": "medium",
+      "playbook": "P8",
+      "page": "people/dr-ming-hong-chow.md",
+      "finding": "LINKS_HIGH_DENSITY",
+      "score": 6.0,
+      "target_path": "/home/leedt/echo-system/content/people/dr-ming-hong-chow.md"
+    },
+    {
+      "card_id": "echo-gen-2026-09-20-0026",
+      "title": "[MEDIUM] susan-chou: Ensure the first paragraph mentions the page subject",
+      "body": "## Task: [MEDIUM] susan-chou: Ensure the first paragraph mentions the page subject\n\n**Priority:** medium\n**Playbook:** P8\n**Page:** `people/susan-chou.md`\n**Finding:** `DESC_NO_TITLE_MENTION`\n**Score:** 6.0 (inbound links: 4)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/people/susan-chou.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-09-20 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Ensure the first paragraph mentions the page subject\n**Detail:** The first paragraph should reference the person/organization this page is about.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: DESC_NO_TITLE_MENTION\nPage type: people\nType weight: 1.5\nFinding weight: 1.0",
+      "priority": "medium",
+      "playbook": "P8",
+      "page": "people/susan-chou.md",
+      "finding": "DESC_NO_TITLE_MENTION",
+      "score": 6.0,
+      "target_path": "/home/leedt/echo-system/content/people/susan-chou.md"
     },
     {
       "card_id": "echo-gen-2026-09-20-0027",
@@ -321,6 +321,17 @@
     },
     {
       "card_id": "echo-gen-2026-09-20-0029",
+      "title": "[MEDIUM] kuei-ling-chen: Break up long sentences",
+      "body": "## Task: [MEDIUM] kuei-ling-chen: Break up long sentences\n\n**Priority:** medium\n**Playbook:** P8\n**Page:** `people/kuei-ling-chen.md`\n**Finding:** `READABILITY_MANY_LONG_SENTENCES_4`\n**Score:** 5.25 (inbound links: 7)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/people/kuei-ling-chen.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-09-20 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Break up long sentences\n**Detail:** Multiple sentences exceed 50 words. Break them up for readability.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: READABILITY_MANY_LONG_SENTENCES\nPage type: people\nType weight: 1.5\nFinding weight: 0.5",
+      "priority": "medium",
+      "playbook": "P8",
+      "page": "people/kuei-ling-chen.md",
+      "finding": "READABILITY_MANY_LONG_SENTENCES_4",
+      "score": 5.25,
+      "target_path": "/home/leedt/echo-system/content/people/kuei-ling-chen.md"
+    },
+    {
+      "card_id": "echo-gen-2026-09-20-0030",
       "title": "[MEDIUM] good-shine-kitchen: Add ## Related Pages section",
       "body": "## Task: [MEDIUM] good-shine-kitchen: Add ## Related Pages section\n\n**Priority:** medium\n**Playbook:** P3\n**Page:** `organizations/good-shine-kitchen.md`\n**Finding:** `LINKS_NO_RELATED`\n**Score:** 5.2 (inbound links: 2)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/organizations/good-shine-kitchen.md\n3. Find broken wikilinks and repair or redirect\n4. Commit only (no publish)\n\n### Specific Fix\n**Action:** Add ## Related Pages section\n**Detail:** Add a Related Pages section with wikilinks to connected people, organizations, and sources.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: LINKS_NO_RELATED\nPage type: organizations\nType weight: 1.3\nFinding weight: 2.0",
       "priority": "medium",
@@ -331,7 +342,7 @@
       "target_path": "/home/leedt/echo-system/content/organizations/good-shine-kitchen.md"
     },
     {
-      "card_id": "echo-gen-2026-09-20-0030",
+      "card_id": "echo-gen-2026-09-20-0031",
       "title": "[MEDIUM] good-shine-kitchen: Add ## Related Pages section",
       "body": "## Task: [MEDIUM] good-shine-kitchen: Add ## Related Pages section\n\n**Priority:** medium\n**Playbook:** P3\n**Page:** `organizations/good-shine-kitchen.md`\n**Finding:** `STRUCT_NO_RELATED`\n**Score:** 5.2 (inbound links: 2)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/organizations/good-shine-kitchen.md\n3. Find broken wikilinks and repair or redirect\n4. Commit only (no publish)\n\n### Specific Fix\n**Action:** Add ## Related Pages section\n**Detail:** Add a Related Pages section with wikilinks ([[people/name|Name]]) to connected pages. Use first-mention convention.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: STRUCT_NO_RELATED\nPage type: organizations\nType weight: 1.3\nFinding weight: 2.0",
       "priority": "medium",
@@ -342,7 +353,29 @@
       "target_path": "/home/leedt/echo-system/content/organizations/good-shine-kitchen.md"
     },
     {
-      "card_id": "echo-gen-2026-09-20-0031",
+      "card_id": "echo-gen-2026-09-20-0032",
+      "title": "[MEDIUM] north-america-taiwanese-womens-association-kansas-chapter: Break up long sentences",
+      "body": "## Task: [MEDIUM] north-america-taiwanese-womens-association-kansas-chapter: Break up long sentences\n\n**Priority:** medium\n**Playbook:** P8\n**Page:** `organizations/north-america-taiwanese-womens-association-kansas-chapter.md`\n**Finding:** `READABILITY_LONG_SENTENCES_32wps`\n**Score:** 5.2 (inbound links: 8)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/organizations/north-america-taiwanese-womens-association-kansas-chapter.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-09-20 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Break up long sentences\n**Detail:** Average words per sentence exceeds 30. Break up long sentences for readability.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: READABILITY_LONG_SENTENCES\nPage type: organizations\nType weight: 1.3\nFinding weight: 0.5",
+      "priority": "medium",
+      "playbook": "P8",
+      "page": "organizations/north-america-taiwanese-womens-association-kansas-chapter.md",
+      "finding": "READABILITY_LONG_SENTENCES_32wps",
+      "score": 5.2,
+      "target_path": "/home/leedt/echo-system/content/organizations/north-america-taiwanese-womens-association-kansas-chapter.md"
+    },
+    {
+      "card_id": "echo-gen-2026-09-20-0033",
+      "title": "[MEDIUM] north-america-taiwanese-womens-association-kansas-chapter: Break up long sentences",
+      "body": "## Task: [MEDIUM] north-america-taiwanese-womens-association-kansas-chapter: Break up long sentences\n\n**Priority:** medium\n**Playbook:** P8\n**Page:** `organizations/north-america-taiwanese-womens-association-kansas-chapter.md`\n**Finding:** `READABILITY_MANY_LONG_SENTENCES_4`\n**Score:** 5.2 (inbound links: 8)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/organizations/north-america-taiwanese-womens-association-kansas-chapter.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-09-20 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Break up long sentences\n**Detail:** Multiple sentences exceed 50 words. Break them up for readability.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: READABILITY_MANY_LONG_SENTENCES\nPage type: organizations\nType weight: 1.3\nFinding weight: 0.5",
+      "priority": "medium",
+      "playbook": "P8",
+      "page": "organizations/north-america-taiwanese-womens-association-kansas-chapter.md",
+      "finding": "READABILITY_MANY_LONG_SENTENCES_4",
+      "score": 5.2,
+      "target_path": "/home/leedt/echo-system/content/organizations/north-america-taiwanese-womens-association-kansas-chapter.md"
+    },
+    {
+      "card_id": "echo-gen-2026-09-20-0034",
       "title": "[MEDIUM] choan-guo-huei: Add ## Identity Snapshot section",
       "body": "## Task: [MEDIUM] choan-guo-huei: Add ## Identity Snapshot section\n\n**Priority:** medium\n**Playbook:** P8\n**Page:** `people/choan-guo-huei.md`\n**Finding:** `STRUCT_NO_IDENTITY`\n**Score:** 4.5 (inbound links: 1)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/people/choan-guo-huei.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-09-20 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Add ## Identity Snapshot section\n**Detail:** Add an Identity Snapshot section with English name, Chinese name, core roles, and content priority. See standards.json for format.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: STRUCT_NO_IDENTITY\nPage type: people\nType weight: 1.5\nFinding weight: 3.0",
       "priority": "medium",
@@ -353,18 +386,7 @@
       "target_path": "/home/leedt/echo-system/content/people/choan-guo-huei.md"
     },
     {
-      "card_id": "echo-gen-2026-09-20-0032",
-      "title": "[MEDIUM] susan-chou: Ensure the first paragraph mentions the page subject",
-      "body": "## Task: [MEDIUM] susan-chou: Ensure the first paragraph mentions the page subject\n\n**Priority:** medium\n**Playbook:** P8\n**Page:** `people/susan-chou.md`\n**Finding:** `DESC_NO_TITLE_MENTION`\n**Score:** 4.5 (inbound links: 3)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/people/susan-chou.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-09-20 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Ensure the first paragraph mentions the page subject\n**Detail:** The first paragraph should reference the person/organization this page is about.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: DESC_NO_TITLE_MENTION\nPage type: people\nType weight: 1.5\nFinding weight: 1.0",
-      "priority": "medium",
-      "playbook": "P8",
-      "page": "people/susan-chou.md",
-      "finding": "DESC_NO_TITLE_MENTION",
-      "score": 4.5,
-      "target_path": "/home/leedt/echo-system/content/people/susan-chou.md"
-    },
-    {
-      "card_id": "echo-gen-2026-09-20-0033",
+      "card_id": "echo-gen-2026-09-20-0035",
       "title": "[MEDIUM] good-shine-kitchen: Add more wikilinks to related pages",
       "body": "## Task: [MEDIUM] good-shine-kitchen: Add more wikilinks to related pages\n\n**Priority:** medium\n**Playbook:** P3\n**Page:** `organizations/good-shine-kitchen.md`\n**Finding:** `LINKS_LOW_DENSITY`\n**Score:** 3.9 (inbound links: 2)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/organizations/good-shine-kitchen.md\n3. Find broken wikilinks and repair or redirect\n4. Commit only (no publish)\n\n### Specific Fix\n**Action:** Add more wikilinks to related pages\n**Detail:** This page has low wikilink density. Add [[wikilinks]] to people, organizations, and sources mentioned in the text.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: LINKS_LOW_DENSITY\nPage type: organizations\nType weight: 1.3\nFinding weight: 1.5",
       "priority": "medium",
@@ -375,18 +397,18 @@
       "target_path": "/home/leedt/echo-system/content/organizations/good-shine-kitchen.md"
     },
     {
-      "card_id": "echo-gen-2026-09-20-0034",
-      "title": "[MEDIUM] carol-cho: Break up long sentences",
-      "body": "## Task: [MEDIUM] carol-cho: Break up long sentences\n\n**Priority:** medium\n**Playbook:** P8\n**Page:** `people/carol-cho.md`\n**Finding:** `READABILITY_LONG_SENTENCES_34wps`\n**Score:** 3.75 (inbound links: 5)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/people/carol-cho.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-09-20 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Break up long sentences\n**Detail:** Average words per sentence exceeds 30. Break up long sentences for readability.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: READABILITY_LONG_SENTENCES\nPage type: people\nType weight: 1.5\nFinding weight: 0.5",
+      "card_id": "echo-gen-2026-09-20-0036",
+      "title": "[MEDIUM] susan-chou: Break up long sentences",
+      "body": "## Task: [MEDIUM] susan-chou: Break up long sentences\n\n**Priority:** medium\n**Playbook:** P8\n**Page:** `people/susan-chou.md`\n**Finding:** `READABILITY_LONG_SENTENCES_30wps`\n**Score:** 3.0 (inbound links: 4)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/people/susan-chou.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-09-20 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Break up long sentences\n**Detail:** Average words per sentence exceeds 30. Break up long sentences for readability.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: READABILITY_LONG_SENTENCES\nPage type: people\nType weight: 1.5\nFinding weight: 0.5",
       "priority": "medium",
       "playbook": "P8",
-      "page": "people/carol-cho.md",
-      "finding": "READABILITY_LONG_SENTENCES_34wps",
-      "score": 3.75,
-      "target_path": "/home/leedt/echo-system/content/people/carol-cho.md"
+      "page": "people/susan-chou.md",
+      "finding": "READABILITY_LONG_SENTENCES_30wps",
+      "score": 3.0,
+      "target_path": "/home/leedt/echo-system/content/people/susan-chou.md"
     },
     {
-      "card_id": "echo-gen-2026-09-20-0035",
+      "card_id": "echo-gen-2026-09-20-0037",
       "title": "[MEDIUM] tsai-ying-ju: Add ## Related Pages section",
       "body": "## Task: [MEDIUM] tsai-ying-ju: Add ## Related Pages section\n\n**Priority:** medium\n**Playbook:** P3\n**Page:** `people/tsai-ying-ju.md`\n**Finding:** `LINKS_NO_RELATED`\n**Score:** 3.0 (inbound links: 1)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/people/tsai-ying-ju.md\n3. Find broken wikilinks and repair or redirect\n4. Commit only (no publish)\n\n### Specific Fix\n**Action:** Add ## Related Pages section\n**Detail:** Add a Related Pages section with wikilinks to connected people, organizations, and sources.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: LINKS_NO_RELATED\nPage type: people\nType weight: 1.5\nFinding weight: 2.0",
       "priority": "medium",
@@ -397,7 +419,7 @@
       "target_path": "/home/leedt/echo-system/content/people/tsai-ying-ju.md"
     },
     {
-      "card_id": "echo-gen-2026-09-20-0036",
+      "card_id": "echo-gen-2026-09-20-0038",
       "title": "[MEDIUM] tsai-ying-ju: Add ## Related Pages section",
       "body": "## Task: [MEDIUM] tsai-ying-ju: Add ## Related Pages section\n\n**Priority:** medium\n**Playbook:** P3\n**Page:** `people/tsai-ying-ju.md`\n**Finding:** `STRUCT_NO_RELATED`\n**Score:** 3.0 (inbound links: 1)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/people/tsai-ying-ju.md\n3. Find broken wikilinks and repair or redirect\n4. Commit only (no publish)\n\n### Specific Fix\n**Action:** Add ## Related Pages section\n**Detail:** Add a Related Pages section with wikilinks ([[people/name|Name]]) to connected pages. Use first-mention convention.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: STRUCT_NO_RELATED\nPage type: people\nType weight: 1.5\nFinding weight: 2.0",
       "priority": "medium",
@@ -408,7 +430,7 @@
       "target_path": "/home/leedt/echo-system/content/people/tsai-ying-ju.md"
     },
     {
-      "card_id": "echo-gen-2026-09-20-0037",
+      "card_id": "echo-gen-2026-09-20-0039",
       "title": "[MEDIUM] tcccna-pcusadir-2009: Ensure the first paragraph mentions the page subject",
       "body": "## Task: [MEDIUM] tcccna-pcusadir-2009: Ensure the first paragraph mentions the page subject\n\n**Priority:** medium\n**Playbook:** P8\n**Page:** `sources/tcccna-pcusadir-2009.md`\n**Finding:** `DESC_NO_TITLE_MENTION`\n**Score:** 3.0 (inbound links: 3)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/sources/tcccna-pcusadir-2009.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-09-20 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Ensure the first paragraph mentions the page subject\n**Detail:** The first paragraph should reference the person/organization this page is about.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: DESC_NO_TITLE_MENTION\nPage type: sources\nType weight: 1.0\nFinding weight: 1.0",
       "priority": "medium",
@@ -419,7 +441,7 @@
       "target_path": "/home/leedt/echo-system/content/sources/tcccna-pcusadir-2009.md"
     },
     {
-      "card_id": "echo-gen-2026-09-20-0038",
+      "card_id": "echo-gen-2026-09-20-0040",
       "title": "[MEDIUM] tcccna-pcusadir-2009: Add ## Archive Statistics or ## Content section",
       "body": "## Task: [MEDIUM] tcccna-pcusadir-2009: Add ## Archive Statistics or ## Content section\n\n**Priority:** medium\n**Playbook:** P8\n**Page:** `sources/tcccna-pcusadir-2009.md`\n**Finding:** `STRUCT_NO_STATS`\n**Score:** 3.0 (inbound links: 3)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/sources/tcccna-pcusadir-2009.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-09-20 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Add ## Archive Statistics or ## Content section\n**Detail:** Add archive statistics (URL count, size, date) or content summary for this source page.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: STRUCT_NO_STATS\nPage type: sources\nType weight: 1.0\nFinding weight: 1.0",
       "priority": "medium",
@@ -428,28 +450,6 @@
       "finding": "STRUCT_NO_STATS",
       "score": 3.0,
       "target_path": "/home/leedt/echo-system/content/sources/tcccna-pcusadir-2009.md"
-    },
-    {
-      "card_id": "echo-gen-2026-09-20-0039",
-      "title": "[MEDIUM] tcnn-song-memorial-2024: Ensure the first paragraph mentions the page subject",
-      "body": "## Task: [MEDIUM] tcnn-song-memorial-2024: Ensure the first paragraph mentions the page subject\n\n**Priority:** medium\n**Playbook:** P8\n**Page:** `sources/tcnn-song-memorial-2024.md`\n**Finding:** `DESC_NO_TITLE_MENTION`\n**Score:** 3.0 (inbound links: 3)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/sources/tcnn-song-memorial-2024.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-09-20 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Ensure the first paragraph mentions the page subject\n**Detail:** The first paragraph should reference the person/organization this page is about.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: DESC_NO_TITLE_MENTION\nPage type: sources\nType weight: 1.0\nFinding weight: 1.0",
-      "priority": "medium",
-      "playbook": "P8",
-      "page": "sources/tcnn-song-memorial-2024.md",
-      "finding": "DESC_NO_TITLE_MENTION",
-      "score": 3.0,
-      "target_path": "/home/leedt/echo-system/content/sources/tcnn-song-memorial-2024.md"
-    },
-    {
-      "card_id": "echo-gen-2026-09-20-0040",
-      "title": "[MEDIUM] tcnn-song-memorial-2024: Add ## Archive Statistics or ## Content section",
-      "body": "## Task: [MEDIUM] tcnn-song-memorial-2024: Add ## Archive Statistics or ## Content section\n\n**Priority:** medium\n**Playbook:** P8\n**Page:** `sources/tcnn-song-memorial-2024.md`\n**Finding:** `STRUCT_NO_STATS`\n**Score:** 3.0 (inbound links: 3)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/sources/tcnn-song-memorial-2024.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-09-20 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Add ## Archive Statistics or ## Content section\n**Detail:** Add archive statistics (URL count, size, date) or content summary for this source page.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: STRUCT_NO_STATS\nPage type: sources\nType weight: 1.0\nFinding weight: 1.0",
-      "priority": "medium",
-      "playbook": "P8",
-      "page": "sources/tcnn-song-memorial-2024.md",
-      "finding": "STRUCT_NO_STATS",
-      "score": 3.0,
-      "target_path": "/home/leedt/echo-system/content/sources/tcnn-song-memorial-2024.md"
     }
   ]
 }

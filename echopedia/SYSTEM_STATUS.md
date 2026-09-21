@@ -1,6 +1,6 @@
 # Echopedia System Status
 
-*Generated: 2026-09-20 22:22 PDT*
+*Generated: 2026-09-21 00:28 PDT*
 
 ## Orientation
 - **Entry:** go <plain language> via go-router (auto-route) · **Control:** [CONTROL.md](CONTROL.md)
@@ -21,7 +21,7 @@
 ## Content
 |- **Tier1 pages:** 2875 (people 2408 / orgs 433 / sources 34) · Tier2 archive: 29103
 |- **Janitor queue depth:** 59
-|- **Uncommitted files:** 58
+|- **Uncommitted files:** 66
 
 ## Self-improvement pipeline (Scout → Filter → Extract → Evaluate → Generate → Review)
 || Stage | Script | Last run | Output |
@@ -30,7 +30,7 @@
 || Filter | echopedia-content-analysis | 03:05 local | 2906 scanned, 19 queued |
 || Extract | echopedia-extract-actions | 04:15 local | knowledge/operational/extracted/ |
 || Evaluate | echopedia-evaluate-actions | 04:20 local | knowledge/operational/evaluated/ |
-|| Generate | echopedia-generate-cards | 04:25 local | 40 cards |
+|| Generate | echopedia-generate-cards | 04:25 local | no data |
 || Review | weekly-improvement | Sun 07:05 local | improvement-brief.md |
 || Human | vault-morning-brief | 07:55 local | NEED YOU ≤5 |
 
@@ -61,13 +61,13 @@ Load skill **echopedia-ops** first for any wiki work.
     Last run:  2026-09-20T07:01:02.205037-07:00  ok
     Name:      vllm-thermal-scaler
     Schedule:  every 1m
-    Last run:  2026-09-20T22:20:43.664981-07:00  ok
+    Last run:  2026-09-21T00:27:49.842068-07:00  ok
     Name:      Echopedia content analysis
     Schedule:  10 21 * * *
     Last run:  2026-09-20T21:11:10.749053-07:00  ok
     Name:      unified-watchdog
     Schedule:  every 30m
-    Last run:  2026-09-20T22:09:44.087949-07:00  ok
+    Last run:  2026-09-21T00:12:47.845338-07:00  ok
     Name:      memory-audit
     Schedule:  50 0 * * *
     Last run:  2026-09-20T04:50:54.288261-07:00  ok
@@ -79,7 +79,7 @@ Load skill **echopedia-ops** first for any wiki work.
     Last run:  2026-09-20T22:03:38.615337-07:00  error: Interrupted by shutdown before terminal completion.
     Name:      echopedia-weekly-improvement
     Schedule:  15 22 * * 0
-    Last run:  2026-09-20T06:29:45.878139-07:00  ok
+    Last run:  2026-09-20T22:24:46.922623-07:00  ok
     Name:      echopedia-ci-heal
     Schedule:  25 0 * * *
     Last run:  2026-09-20T04:50:53.951755-07:00  error: Interrupted by shutdown before terminal completion.  (2 failures in a row)
@@ -130,7 +130,7 @@ Load skill **echopedia-ops** first for any wiki work.
 | 5 21 * * * | `cron-output-rotate` | no_agent | on | ok | `cron-output-rotate.sh` |
 | 50 0 * * * | `memory-audit` | no_agent | on | ok | `memory-audit.sh` |
 | 50 21 * * * | `echopedia-backlink-auditor` | no_agent | on | ok | `echopedia-backlink-auditor-cron.sh` |
-| 50 22 * * * | `echopedia-interaction-absorb` | no_agent | on | — | `echopedia-interaction-absorb.py` |
+| 50 22 * * * | `echopedia-interaction-absorb` | no_agent | on | ok | `echopedia-interaction-absorb.py` |
 | every 1m | `vllm-thermal-scaler` | no_agent | on | ok | `vllm-thermal-scaler.sh` |
 | every 30m | `unified-watchdog` | no_agent | on | ok | `unified-watchdog.sh` |
 

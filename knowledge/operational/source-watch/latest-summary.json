@@ -1,5 +1,5 @@
 {
-  "at": "2026-09-20T12:37:26Z",
+  "at": "2026-09-21T06:52:15Z",
   "dry_run": false,
   "sources": [
     {
@@ -16,19 +16,13 @@
     {
       "id": "good-shepherd-taiwanese-presbyterian-church",
       "new": [],
-      "changed": [
-        "https://gstpc.org/home/09-06-2026-sunday-bulletin/"
-      ],
+      "changed": [],
       "gone_sample": [],
       "errors": [
         "https://gstpc.org/home/xmlrpc.php HTTP 405",
         "https://gstpc.org/home/wprhe_qrcode_style.css  HTTP 404"
       ],
-      "applied": [
-        "tier2:good-shepherd-taiwanese-presbyterian-church-delta-2026-09-20-home-09-06-2026-sunday-bulletin.md",
-        "last_reviewed:hub",
-        "last_reviewed:good-shepherd-taiwanese-presbyterian-church.md"
-      ],
+      "applied": [],
       "parked": false,
       "a_band": [],
       "advisory": []
@@ -36,29 +30,19 @@
     {
       "id": "irvine-taiwanese-presbyterian-church",
       "new": [],
-      "changed": [
-        "https://www.irvinetpc.org/Media/Sermons/Sermons.html"
-      ],
+      "changed": [],
       "gone_sample": [],
       "errors": [
         "https://www.irvine-tpc.org/"
       ],
-      "applied": [
-        "tier2:irvine-taiwanese-presbyterian-church-delta-2026-09-20-media-sermons-sermons.html.md",
-        "last_reviewed:hub",
-        "last_reviewed:irvine-taiwanese-presbyterian-church.md"
-      ],
+      "applied": [],
       "parked": false,
       "a_band": [],
       "advisory": []
     },
     {
       "id": "presbyterian-church-in-taiwan",
-      "new": [
-        "https://www.pct.org.tw/news_focus.aspx?strSiteID=S001&amp;strContentid=C2026090700002",
-        "https://www.pct.org.tw/news_pct.aspx?strBlockID=B00006&amp;strContentID=C2026091800001&amp;strDesc=Y",
-        "https://www.pct.org.tw/news_pct.aspx?strBlockID=B00006&amp;strContentID=C2026090700002&amp;strDesc=Y"
-      ],
+      "new": [],
       "changed": [
         "https://www.pct.org.tw/news_focus.aspx"
       ],
@@ -66,9 +50,6 @@
       "errors": [],
       "applied": [
         "tier2:presbyterian-church-in-taiwan-delta-2026-09-20-news_focus.aspx.md",
-        "tier2:presbyterian-church-in-taiwan-delta-2026-09-20-news_focus.aspx.md",
-        "tier2:presbyterian-church-in-taiwan-delta-2026-09-20-news_pct.aspx.md",
-        "tier2:presbyterian-church-in-taiwan-delta-2026-09-20-news_pct.aspx.md",
         "last_reviewed:hub",
         "last_reviewed:presbyterian-church-in-taiwan.md"
       ],
@@ -89,18 +70,11 @@
     },
     {
       "id": "taiwaneseamerican-org",
-      "new": [
-        "https://www.taiwaneseamerican.org/2026/09/jess-eng-taitung-eats-book/"
-      ],
+      "new": [],
       "changed": [],
       "gone_sample": [],
       "errors": [],
-      "applied": [
-        "tier2:taiwaneseamerican-org-delta-2026-09-20-2026-09-jess-eng-taitung-eats-book.md",
-        "work:jess-eng-taitung-eats-book.md",
-        "last_reviewed:hub",
-        "last_reviewed:taiwaneseamerican-org.md"
-      ],
+      "applied": [],
       "parked": false,
       "a_band": [],
       "advisory": []
@@ -172,10 +146,7 @@
   ],
   "need_you": [],
   "auto_lines": [
-    "good-shepherd-taiwanese-presbyterian-church: +0 new / 1 changed; applied 3",
-    "irvine-taiwanese-presbyterian-church: +0 new / 1 changed; applied 3",
-    "presbyterian-church-in-taiwan: +3 new / 1 changed; applied 6",
-    "taiwaneseamerican-org: +1 new / 0 changed; applied 4"
+    "presbyterian-church-in-taiwan: +0 new / 1 changed; applied 3"
   ],
   "queue_lines": [],
   "a_band": []
