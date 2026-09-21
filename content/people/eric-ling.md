@@ -34,6 +34,9 @@ last_reviewed: 2026-09-21
 
 _No filled family fields on the TAH profile._
 
+## Role in the Community
+- Recorded in the TAH Foundation Who's Who corpus as record 1604 (Eric Ling, UCSD 學士、Loyola Law School JD, 影視商務法務), published 2017-04-14: [[works/taiwaneseamericanhistory-org/whoswho1604|1604. Eric Ling / 2017/04]]. No other corpus mentions found — no memoir/journal material to absorb; TAH profile fields above are the sole sourced facts.
+
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/eric-ling/)
 
