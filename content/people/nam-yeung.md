@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-19
+last_reviewed: 2026-09-21
 ---
 # Nam Yeung (楊楠)
 
@@ -32,6 +32,7 @@ Nam Yeung, Piano Professor of Tainan University of Technology, Taiwan. Chairman 
 
 ## Role in the Community
 Preserved twice in the TAH community archive — first in the musician series profile [[works/taiwaneseamericanhistory-org/musician57|57. Nam Yeung 楊楠, Pianist (2014/10)]], later in the Who's Who encyclopedia entry [[works/taiwaneseamericanhistory-org/whoswho1113|1113. Nam Yeung 楊楠 (2016/06)]], documenting him as part of the Taiwanese American musical community record. The vault holds both as bibliographic records; full biographical text stays in the TAH source.
+- Corpus check 2026-09-21: works+articles grep returns only the two records above; no additional memoir or community-organizing facts absorbable, no conflicts.
 
 ## Family
 

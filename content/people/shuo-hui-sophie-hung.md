@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-19
+last_reviewed: 2026-09-21
 ---
 # Shuo-Hui Sophie Hung (洪碩徽)
 
@@ -38,6 +38,7 @@ _No filled family fields on the TAH profile._
 ## Role in the Community
 - Held in the TAH community record as a musician-directory entry [[works/taiwaneseamericanhistory-org/musician145|145. Shuo-Hui (Sophie) Hung 洪碩徽, Pianist]] (2015-02-03) and a Who's Who profile [[works/taiwaneseamericanhistory-org/whoswho1226|1226. Shuo-Hui (Sophie) Hung 洪碩徽]] (2016-08-06).
 - Her own profile connects her to the history of the Taiwanese American movement and 台美史料中心 (T.A. Archives); her studies span 台北藝術大學 and 北德州立大學 (piano performance).
+- Corpus check 2026-09-21: works+articles grep returns only the two records above; no additional memoir or community-organizing facts absorbable, no conflicts.
 
 ## Sources
 - [TAH #1226 encyclopedia: 1226. Shuo-Hui (Sophie) Hung  洪碩徽 / 2016/08](https://taiwaneseamericanhistory.org/whoswho1226/)

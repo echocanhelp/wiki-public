@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-19
+last_reviewed: 2026-09-21
 ---
 # Kim Wang-Neal (王劭文律師)
 
@@ -40,6 +40,7 @@ Accomplishment
 ## Role in the Community
 - **Author:** contributed the essay 我認識的楊安澤 — 首位亞裔美國總統參選人 (02/2019) to the TAH My Story collection — a first-hand account of Andrew Yang's presidential run from the Taiwanese community: [[works/taiwaneseamericanhistory-org/my-story-674|674. 我認識的楊安澤 — 首位亞裔美國總統參選人/王劭文/02/2019]].
 - Her Who's Who profile is held as record [[works/taiwaneseamericanhistory-org/whos-who-988-kim-wang-neal|988. Kim Wang-Neal 王劭文律師]] (2016-05-14).
+- Corpus check 2026-09-21: works+articles grep returns only the two records above; no additional memoir or community-organizing facts absorbable, no conflicts.
 
 ## Sources
 - [TAH #988 encyclopedia: 988. Kim Wang-Neal 王劭文律師](https://taiwaneseamericanhistory.org/whos-who-988-kim-wang-neal/)
