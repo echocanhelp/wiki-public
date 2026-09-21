@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-19
+last_reviewed: 2026-09-21
 ---
 # Chuan Yuan Chen (陳泉淵)
 
@@ -38,7 +38,7 @@ last_reviewed: 2026-09-19
 
 - 1960年代初期，陳泉淵為巴爾的摩／華盛頓特區台灣人早期社區的工程師專業成員之一，與林再進、楊友垣、黃文興、凌瑤池、鄭敏雄、尤達雄、陳松竹、鄭自才等人同期在當地公司任職（據当地台灣人回憶錄 [[works/taiwaneseamericanhistory-org/ourjourneys-138|Our Journeys 138]]，該文 Subjects 已互列本頁）。此紀錄與 TAH #1054 所載 1967 年起匹茲堡 Michel Baker 公司任職之前後年表相符，無衝突須 HOLD。
 - 出處工作頁：[[works/taiwaneseamericanhistory-org/whoswho1054|TAH #1054（2016-06）]]。
-- Re-grepped corpus 2026-09-19: hits are only Our Journeys 138 (already absorbed above) and his own TAH record; nothing further absorbable (SKIP).
+- Re-grepped corpus 2026-09-19 and again 2026-09-21 (slice 09191100-11): hits are only Our Journeys 138 (already absorbed above) and his own TAH record; nothing further absorbable (SKIP).
 
 ## Family
 
