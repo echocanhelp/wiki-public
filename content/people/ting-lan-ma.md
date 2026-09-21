@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-20
+last_reviewed: 2026-09-21
 ---
 # Ting-Lan Ma (馬鼎嵐)
 
@@ -36,7 +36,7 @@ _No filled family fields on the TAH profile._
 
 ## Role in the Community
 
-- **SKIP note (deepen-x slice 09170800-27, 2026-09-18):** corpus grep found only her own TAH Who's Who record ([[works/taiwaneseamericanhistory-org/whos-who-2210-ting-lan-ma|2210. Ting-Lan Ma 馬鼎嵐]], 2019-07-04, Band B, bibliographic record only) — no memoir or community activity in the corpus to absorb beyond the press-kit profile; no new facts merged.
+- **SKIP note (deepen-x slice 09170800-27, 2026-09-18; re-verified slice 09200500-24, 2026-09-21):** corpus grep found only her own TAH Who's Who record ([[works/taiwaneseamericanhistory-org/whos-who-2210-ting-lan-ma|2210. Ting-Lan Ma 馬鼎嵐]], 2019-07-04, Band B, bibliographic record only) — no memoir or community activity in the corpus to absorb beyond the press-kit profile; no new facts merged.
 
 ## Sources
 - [TAH #2210 encyclopedia: 2210. Ting-Lan Ma 馬鼎嵐](https://taiwaneseamericanhistory.org/whos-who-2210-ting-lan-ma/)

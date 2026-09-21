@@ -39,7 +39,8 @@ HOLD: corpus records titled "台美協進會" — [[works/taiwaneseamericanhisto
 ## Role in the Community
 
 - [[works/taiwaneseamericanhistory-org/ourjourneys29-eng|Our Journeys 29 (EN)]] records the founding act of this foundation: [[people/wang-gui-rong|Kenjohn Wang (王桂榮)]], after donating one million dollars, established the Taiwanese American Foundation, which awards yearly scholarships to extraordinary talents in the US and overseas; the Wang family later donated its over-20,000-square-foot Rosemead estate to the Taiwan Center. The same memoir records 李培吾 (Li Pei Wu) — a $1M donor to the Taiwanese United Fund and Chilin Foundation — being elected Chairman of the Foundation and general convener of the Taiwan Center preparatory committee.
-- The foundation's own publication is held in the corpus: [[works/taiwaneseamericanhistory-org/573-taiwanese-american-foundation-2005-2006tafmagazines-e9-9b-9c-e8-aa-8c|573. Taiwanese American Foundation 2005-2006 / TAF Magazines 雜誌]].
+- The foundation's own publications are held in the corpus: [[works/taiwaneseamericanhistory-org/573-taiwanese-american-foundation-2005-2006tafmagazines-e9-9b-9c-e8-aa-8c|573. Taiwanese American Foundation 2005-2006 / TAF Magazines 雜誌]] and an earlier [[works/taiwaneseamericanhistory-org/785-e5-8f-b0-e7-be-8e-e5-9f-ba-e9-87-91-e6-9c-831995-e9-a0-92-e7-8d-8e-e7-89-b9-|785. 台美基金會1995頒獎特刊 / 1995/11]] — the foundation's own 1995 awards special issue, evidence the award ceremony ran continuously into the mid-1990s.
+- 王桂榮's wider movement record appears in the corpus as [[works/taiwaneseamericanhistory-org/344-e7-ac-ac-e4-ba-8c-e4-bb-bb-e6-9c-83-e9-95-b7-e7-8e-8b-e6-a1-82-e6-a6-ae-e5-b|344. 第二任會長王桂榮 將公會會務發揚光大 / 2015/10]] (bibliographic record; which 公會 is unreconciled).
 
 ## Related Pages
 
