@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-19
+last_reviewed: 2026-09-21
 ---
 # S. W. Yang (楊筱薇)
 
@@ -41,7 +41,7 @@ _No filled family fields on the TAH profile._
 ## Role in the Community
 
 - The TAH encyclopedia holds her record: [[works/taiwaneseamericanhistory-org/whos-who-1713-s-w-yang|1713. S. W. Yang 楊筱薇]] (published 2017-07-02), a bibliographic record only.
-- Corpus re-grep 2026-09-19 (楊筱薇 / S. W. Yang): hits confined to her own encyclopedia record above and the works index; no memoir or article mentions — nothing new absorbable this pass (SKIP).
+- Corpus re-grep 2026-09-19 and again 2026-09-21 (楊筱薇 / S. W. Yang): hits confined to her own encyclopedia record above and the works index; no memoir or article mentions — nothing new absorbable this pass (SKIP).
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

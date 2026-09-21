@@ -30,7 +30,10 @@ last_reviewed: 2026-09-20
 
 ## Role in the Community
 - Profiled in the TAH community record [[works/taiwaneseamericanhistory-org/whoswho1597|1597. H. J. Chen 陳小娟]] (published 2017-04-06).
-- Community education activity: served as 華語 lecturer (with 曾凡鋼教授) on 聽力測試問答 at the 長青教室 session of 2017-03-29, co-listed with 林貞棟醫師 — recorded in [[articles/taiwanjustice-net/2024/20240620173328_root_2777c88877eee2c5|台美人台加人 activity log (taiwanjustice.net)]].
+
+## From the record
+
+- 2017-03-29 — 與曾凡鋼教授搭檔以華語主持長青教室「聽力測試問答」環節（林貞棟醫師英語主講聽力損失同場），見台灣公義報 長青教室 標籤彙整頁存檔 —— [[articles/taiwanjustice-net/2024/20240620173328_root_2777c88877eee2c5|TJJ tag 長青教室, 2024-06-20 存檔]]。
 
 ## Family
 

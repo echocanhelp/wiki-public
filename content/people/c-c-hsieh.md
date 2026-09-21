@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-19
+last_reviewed: 2026-09-21
 ---
 # C. C. Hsieh (謝正忠)
 
@@ -31,8 +31,7 @@ last_reviewed: 2026-09-19
 <!-- tah-tables:end -->
 
 ## Family
-
-_No filled family fields on the TAH profile._
+- **Spouse:** 沈香園 — the St. Louis church history [[works/taiwaneseamericanhistory-org/ourjourneys305|305. 美國聖路易台灣人基督長老教會的歷史簡略 / 張理美 / 07/2017]] lists 謝正忠沈香園夫婦 among the older Taiwanese-American members who stayed and supported the younger generation.
 
 ## Role in the Community
 - Named in the St. Louis Taiwanese Presbyterian church history [[works/taiwaneseamericanhistory-org/ourjourneys305|305. 美國聖路易台灣人基督長老教會的歷史簡略 / 張理美 / 07/2017]]: 謝正忠與沈香園夫婦 are listed among the faithful Taiwanese-American members who remained in the area and supported the younger generation of the congregation.
