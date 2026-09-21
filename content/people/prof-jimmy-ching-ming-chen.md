@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-20
+last_reviewed: 2026-09-21
 ---
 # Prof. Jimmy Ching-Ming Chen
 
@@ -34,6 +34,8 @@ Prof. Jimmy Ching-Ming Chen – History of Taiwanese American (T.A. Archives) �
 
 - Own TAH encyclopedia record preserved in the corpus: [[works/taiwaneseamericanhistory-org/whos-who-1764-jimmy-ching-ming-chen|1764. Prof. Jimmy Ching-Ming Chen]] (published 2017-07-19). Sole corpus mention.
 - HOLD: name collision — corpus records [[works/taiwaneseamericanhistory-org/85-ching-ming-cheng-e9-84-ad-e9-9d-9c-e6-97-bb|85. Ching-Ming Cheng 鄭靜旻]] and [[works/taiwaneseamericanhistory-org/49-ching-ming-cheng-e9-84-ad-e9-9d-9c-e6-97-bb-piano|49. Ching-Ming Cheng 鄭靜旻, Pianist]] are a different person (鄭, pianist), romanization near-identical. Kept separate.
+
+- Re-verified 2026-09-21: fresh corpus grep returns only record 1764 and the two 鄭靜旻 near-name works — still no additional material for this Jimmy Chen.
 
 ## Family
 
