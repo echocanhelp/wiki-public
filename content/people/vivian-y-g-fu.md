@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-20
+last_reviewed: 2026-09-21
 ---
 # Vivian Y.G. Fu (林郁子)
 
@@ -40,6 +40,7 @@ last_reviewed: 2026-09-20
 - HOLD: Employment row already lists "Community — NATWA — President", but the NATWA memoir places her as 統籌策劃 of the 月曆 then 副會長 (from 1996) with no presidency attributed; presidency claim not corroborated by corpus.
 - Corpus re-check (slice deepen-x-slice-09180131-16, 2026-09-18): re-grep 林郁子 / Vivian — hits identical to records already absorbed above (Our Journeys 60/60-eng/160/352, Who's Who #2298); extra index/Pew/chinglish hits are generic 'Vivian' name matches, not about her. Nothing new absorbable; both HOLDs stand. SKIP-no-new-material.
 - Corpus re-check (slice deepen-x-slice-09181500-11, 2026-09-20): re-grep 林郁子 / Vivian — 命中集不變（Our Journeys 60/60-eng/160/352、Who's Who #2298），全部已吸收；兩項 HOLD（傅 vs 林 姓氏、NATWA 會長頭銜）維持。SKIP-no-new-material.
+- Corpus re-check (slice deepen-x-slice-09201400-4, 2026-09-21): re-grep identical hit set (Our Journeys 60/60-eng/160/352, Who's Who #2298) — all already absorbed; both HOLDs stand. SKIP-no-new-material.
 
 ## Family
 

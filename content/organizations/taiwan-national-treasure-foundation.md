@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-20
+last_reviewed: 2026-09-21
 ---
 # Taiwan National Treasure Foundation (國家寶藏基金會)
 
@@ -27,6 +27,7 @@ The Taiwan National Treasure Foundation is a US 501(c)(3) public charity nonprof
 - Scale of the archive effort as stated at launch: NARA holds ~60,000,000 (六千萬筆) Taiwan-related records, of which only ~16,000 had been processed by 2017-09; founders planned to extend to Japanese and Dutch colonial-era archives ([[articles/taiwanjustice-net/2024/20240425143841_root_d563b095f72513c7|自由時報報導 / 2017-09-19]]).
 - Companion community coverage: "86. 台青年探索台灣史 美國國家檔案局挖寶" ([[works/taiwaneseamericanhistory-org/relate-tw-86|TAH story #86]], 2017-09-21).
 - Directory entry work page: [[works/taiwaneseamericanhistory-org/taiwan-national-treasure-foundation|Taiwan National Treasure Foundation 國家寶藏基金會]] (TAH directory, era 2017).
+- Community memoir engagement: a first-person account of how the project shaped a younger Taiwanese American's own identity recovery — [[works/taiwaneseamerican-org/national-treasure-taiwanese-identity|Finding the Treasure: How National Treasure Helped Me Rediscover My Taiwanese American Story / 2026-02-03]] (taiwaneseamerican.org).
 - HOLD: conflict on project start — 自由時報 2017-09-19 report says the project "起始於去年暑假" (summer 2016); 林倢's Our Journeys account ([[works/taiwaneseamericanhistory-org/ourjourneys320|TAH #320]]) dates the related hackathon-era advocacy wave to 2017. Never merged.
 
 ## Sources

@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-20
+last_reviewed: 2026-09-21
 ---
 # North America Taiwanese Women’s Association – Kansas Chapter (北美洲台灣婦女會堪薩斯分會)
 
@@ -28,7 +28,10 @@ Chapter-specific records exist in the TAH corpus (re-grep 2026-09-20; supersedes
 - **Chapter record in the TAH story collection:** [[works/taiwaneseamericanhistory-org/natwa-kansas-chapter|7. Kansas Chapter / NATWA 北美洲台灣婦女會堪薩斯分會 (2015-12-25)]].
 - Sister chapters and parent-level context: regional chapter of [[organizations/north-america-taiwanese-womens-association|北美洲台灣婦女會 (NATWA)]], alongside [[organizations/north-america-taiwanese-womens-association-greater-san-diego-chapter|Greater San Diego]] and [[organizations/north-america-taiwanese-womens-association-oregon-southwest-washington-chapter|Oregon/Southwest Washington]]; parent newsletter records [[works/taiwaneseamericanhistory-org/663-e5-8c-97-e7-be-8e-e6-b4-b2-e5-8f-b0-e7-81-a3-e5-a9-a6-e5-a5-b3-e6-9c-83-e8-8|聯誼通訊第七期 (1992-06)]] / [[works/taiwaneseamericanhistory-org/679-e5-8c-97-e7-be-8e-e6-b4-b2-e5-8f-b0-e7-81-a3-e5-a9-a6-e5-a5-b3-e6-9c-83-e8-8|第二十三期 (2000-08)]]; parent-level relief culture in [[works/taiwaneseamericanhistory-org/ourjourneys328|Our Journeys 328]] (NATWA + TFN Foundation Hurricane Harvey donation $21,090).
 - Kansas civic footprint of the wider community: Kansas City, Kansas declared Taiwanese American Heritage Week ([[works/taiwaneseamericanhistory-org/43taiwanese-american-heritage-week-a-proclamation-of-kansas-city-mi|proclamation record]]); TAAKC ran the Taiwan Cup table-tennis/badminton tournament ([[works/taiwaneseamericanhistory-org/6-taiwan-cup-table-tennis-tournament-by-taiwanese-association-of-kansas-city-tak|2015 record]]).
+- **Scholarship proposal, 2017-07:** the chapter proposed a community scholarship for local high-school students — [[works/taiwaneseamericanhistory-org/ourjourneys303|303. 台美社區高中生獎學金方案的簡介 (2017-07)]] — extending its program portfolio beyond soldier/veteran care to youth education.
+- **Care-for-soldiers account by 黃幼馨, 2014-11:** [[works/taiwaneseamericanhistory-org/ourjourneys64|64. 愛在年終時 Care for Soldiers and Veterans by NATWA / Kansas Chapter (2014-11)]] — earliest first-person account of the Christmas-season care program in the corpus, predating the 2015 works above.
 - HOLD: chapter founding year and officer names are not in the corpus; the 2015 corpus works describe activities, not officers.
+- Corpus re-grep 2026-09-21 (slice 09201400-3): hit set = previously linked records plus [[works/taiwaneseamericanhistory-org/ourjourneys303|ourjourneys303]] and [[works/taiwaneseamericanhistory-org/ourjourneys64|ourjourneys64]] (now absorbed above) and the TAAKC newsletter page (同鄉會 record, not this chapter).
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/north-america-taiwanese-womens-association-kansas-chapter/)
