@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-20
+last_reviewed: 2026-09-21
 ---
 # Huntsville Taiwanese American Association (亨城)
 
@@ -22,7 +22,7 @@ The Huntsville Taiwanese American Association (HTAA) is a local chapter of the T
 - The chapter's own history is held in the community record: its brief history was preserved in the TAH story corpus as Project 3 entry #13, in both Chinese and English editions ([[works/taiwaneseamericanhistory-org/project-3-13|13. 亨城(蕃薯味)台灣同鄉會簡介]], [[works/taiwaneseamericanhistory-org/project-3-13-eng|13. HTAA brief history, English edition]]; published 2017-10-09).
 - A separate association record was published in the corpus on 2015-11-20 ([[works/taiwaneseamericanhistory-org/huntsville-taiwanese-american-association-htaa|(亨茲維爾)蕃薯味台灣同鄉會 HTAA record]]).
 - Name variant: the directory layer writes 亨城 番薯味 while the corpus records write 蕃薯味 (番/蕃 orthographic variant; not treated as a conflict).
-- The chapter (written 蕃薯味(Huntsville)同鄉會 in the memoir) hosted the 18th 美南台灣人夏令會, 1996-07-12–14 at Covenant College, Chattanooga, TN, convener 蔣政宏, theme 「台美連心，踏入國際舞台」 ([[works/taiwaneseamericanhistory-org/ourjourneys245|ourjourneys245]]). Earlier camp-related gatherings in the Houston-area memoir note Huntsville-area activity at Sam Houston State University in 1980–82 ([[works/taiwaneseamericanhistory-org/ourjourneys318|ourjourneys318]]).
+- The chapter (written 蕃薯味(Huntsville)同鄉會 in the memoir) hosted the 18th 美南台灣人夏令會, 1996-07-12–14 at Covenant College, Chattanooga, TN, convener 蔣政宏, theme 「台美連心，踏入國際舞台」 ([[works/taiwaneseamericanhistory-org/ourjourneys245|ourjourneys245]]). The Houston-area memoir places the 世界台灣同鄉會聯合會 annual conferences of 1980 (會長郭榮桔) and 1982 (會長陳唐山, ~300 attendees) at Sam Houston State University — located in Huntsville, *Texas*; the memoir's Huntsville references are to that venue, not to the Alabama chapter ([[works/taiwaneseamericanhistory-org/ourjourneys318|ourjourneys318]]).
 
 ## Timeline
 - 1996-07-12–14 — hosts the 18th 美南台灣人夏令會 (Covenant College, Chattanooga; convener 蔣政宏)

@@ -1,0 +1,4 @@
+organizations/paramitas-foundation.md
+organizations/modern-taiwanese-language-association.md
+people/richard-lin.md
+people/charles-tu.md

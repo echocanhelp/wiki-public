@@ -1,0 +1,4 @@
+people/stanley-hsiao.md
+people/k-c-liao.md
+people/h-j-lee.md
+organizations/taiwanese-student-association-at-ohio-state-university.md

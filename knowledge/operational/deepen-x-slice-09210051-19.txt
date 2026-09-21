@@ -1,0 +1,4 @@
+people/yensan-simon-wang.md
+people/su-hsun-sue-hsiao.md
+organizations/north-america-taiwanese-medical-association-foundation.md
+organizations/taiwanese-student-association-at-cu.md

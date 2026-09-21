@@ -1,0 +1,4 @@
+organizations/taiwanese-undergraduate-student-organization.md
+people/dr-william-p-tseng.md
+people/dr-kuei-hsien-chen.md
+organizations/kaohsiung-hotel-association.md

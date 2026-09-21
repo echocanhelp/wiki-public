@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-20
+last_reviewed: 2026-09-21
 ---
 # Edward Chen (陳以德博士)
 
@@ -39,6 +39,8 @@ Corpus (memoirs and TAH encyclopedia records) documents 陳以德 as a central o
 - Credited with launching the first historic demonstration by North Americans Taiwanese against the Taiwan government in front of the UN headquarters in New York ([[works/taiwaneseamericanhistory-org/ff278|TAH #278, record dated 1961-08-03]]).
 - 1965-10-29~30: attended the overseas independence congress as 美國「台灣獨立聯盟」主席. He co-chaired the session on forming a new Taiwanese political organization (the other theme, internationalizing the Taiwan question, was chaired by 黃義明). His bodyguard 柯文程 was later found to be an undercover KMT agent ([[works/taiwaneseamericanhistory-org/ourjourneys58|Our Journeys 58]], [[works/taiwaneseamericanhistory-org/ourjourneys81|Our Journeys 81]]).
 - 1983: invited speaker (with 周清玉, 許榮淑, 張旭成) at the Midwest Taiwanese Summer Conference at Oberlin College, hosted by the 克城 community — an unusually large, successful gathering ([[works/taiwaneseamericanhistory-org/ourjourneys74|Our Journeys 74]]).
+
+- 3F founding corroborated by the 楊宗昌 memoir lineage: 陳以德、盧主義、林榮勳、楊東傑、林錫湖 founded 3F in Philadelphia 1956; this account dates the reorganisation into 台灣獨立聯盟（UFI）to **1958** — the 1958 side of the UFI-date conflict noted on [[people/john-lin|John Lin]]'s page — [[works/taiwaneseamericanhistory-org/ourjourneys33|Our Journeys 33]].
 
 HOLD: conflict — TAH encyclopedia #276 frames him as 「獨立運動的經營者 / 1950年代」 while the Who's Who snapshot dates him from 1930/1952; the corpus activities cluster in the 1960s–1980s. Not auto-merged.
 
