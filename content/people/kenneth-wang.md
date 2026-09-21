@@ -57,5 +57,7 @@ last_reviewed: 2026-09-21
 - Church-building memoir 「一起建造聖殿」 on the 聖地雅歌台灣基督教會 building fund — the 1986 Del Mar Heights land purchase and 1999 sale ([[works/taiwaneseamericanhistory-org/ourjourneys213|213. 一起建造聖殿 / 王克雄]], 2016-04).
 - Corpus profiles: [[works/taiwaneseamericanhistory-org/whos-dr-kenneth-wang|Who's: Dr. Kenneth Wang]] (2016-07-10) and the 228 essay collection entry [[works/taiwaneseamericanhistory-org/mystories409|409. 228辛酸血淚… –王克雄博士 / 黃樹人]].
 - Note: [[works/taiwaneseamericanhistory-org/whos-who-1694-kenneth-wang|1694. Kenneth Wang 王文宏]] is a different Kenneth Wang (王文宏) — do not merge. The 2016-07 傳記頁 hit surfaced by corpus grep is [[works/taiwaneseamericanhistory-org/whos-dr-kenneth-wang|1127. Kenneth Wang 王克雄 / 2016/07]] — already covered above.
+- **TAC-WC 創辦董事會首任董事長**：台美人會議西岸區（TAC-WC）籌備時劃定五區（洛杉磯、賭城-鹽湖城、西雅圖、聖地牙哥、舊金山-沙加緬度）各出一董事，其代表聖地牙哥區（Ken Wang 王克雄）；2017-05 TAC-WC 董事會正式成立，任首任董事長，並確定聖地牙哥(2017)→西雅圖(2018)→鹽湖城-賭城(2019)→洛杉磯(2020)→舊金山-沙加緬度(2021)五年輪辦 — 見 [[works/taiwaneseamericanhistory-org/ourjourneys352|352. History of TAC-WC / 黃東昇 / 03/2020]]。
 - Corpus grep (re-run 2026-09-19): hit-set unchanged vs prior absorption; no new community facts found.
 - Corpus grep (re-run 2026-09-20): 王克雄 / Kenneth Wang hit set unchanged (publications1095, mystories409, ourjourneys213, ourjourneys192, whos-dr-kenneth-wang; whos-who-1694 remains a different Kenneth Wang 王文宏) — all already absorbed; SKIP new material.
+- Corpus grep (re-run 2026-09-21): 新增命中 ourjourneys352（TAC-WC 會史 / 黃東昇）— 已吸收為 TAC-WC 首任董事長紀事；其餘命中集合不變。
