@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-21
 ---
 # Pei Lin (林伯修)
 
@@ -29,6 +29,10 @@ last_reviewed: 2026-08-17
 
 - **Wife:** 蕭秀美
 
+
+## Role in the Community
+
+- Own TAH Who's Who encyclopedia record is in the corpus: [[works/taiwaneseamericanhistory-org/whoswho963|963. Pei Lin 林伯修 / 2016/05]] (published 2016-05-01). This is the only corpus appearance; no narrative community record beyond the bibliographic entry — nothing further absorbable.
 
 ## Sources
 - [TAH #963 encyclopedia: 963.  Pei Lin 林伯修/ 2016/05](https://taiwaneseamericanhistory.org/whoswho963/)
