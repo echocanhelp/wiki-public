@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-20
+last_reviewed: 2026-09-21
 ---
 # Kenneth Kuo (郭虔哲)
 
@@ -40,6 +40,7 @@ Kuo appears twice in the TAH encyclopedia corpus as a Taiwanese American classic
 - Re-verified 2026-09-17: corpus re-grep (works/articles) matches only the two TAH records above (#319, #699) plus index listings — no memoir or event mention of 郭虔哲 found; nothing further absorbable.
 - SKIP 2026-09-18: re-grep hit set identical (#319, #699, index) — still saturated, no new corpus facts.
 - SKIP 2026-09-20 (slice 09190130-12): re-grep hit set again identical (#319, #699) — saturated.
+- SKIP 2026-09-21 (slice 09201400-26): re-grep hit set again identical (#319, #699, index) — saturated.
 
 ## Sources
 - [TAH #319 encyclopedia: 319. Kennth Kuo郭虔哲, cellist / 2015/11](https://taiwaneseamericanhistory.org/319-kennth-kuo%e9%83%ad%e8%99%94%e5%93%b2-cellist-201511/)

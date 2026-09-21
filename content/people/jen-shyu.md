@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-20
+last_reviewed: 2026-09-21
 ---
 # Jen Shyu (徐雁秋)
 
@@ -40,6 +40,8 @@ Experimental vocalist, composer,multi-instrumentalist, dancer, andproducer, 2014
 - Performance video record: [[works/taiwaneseamericanhistory-org/videos-jen-shyus-nine-doors||87. Jen Shyu's NINE DOORS]] (2017-12-06).
 - Corpus records are bibliographic (band B); they corroborate the multi-instrumentalist/vocalist profile and add no conflicting dates.
 - Re-verified 2026-09-20 (deepen-x 09190130-14): corpus re-grep returned only the six records already absorbed above — no new absorbable facts; 徐雁秋 vs 徐秋雁 name conflict still on HOLD.
+- **TAHS story-site performance records (2011, NYC):** solo concert listings documenting her live performances in the Taiwanese American community — [[works/taiwaneseamerican-org/jen-shyu-solo-inner-chapters|Jen Shyu Solo: INNER CHAPTERS]] (2011-03-08) and [[works/taiwaneseamerican-org/jen-shyu-solo-performance-with-jade-tongue|Jen Shyu Solo Performance with Jade Tongue]] (2011-05-30). Bibliographic (band B); corroborate the Jade Tongue repertoire already recorded in TAH #535.
+- Re-verified 2026-09-21 (deepen-x 09201400-28).
 
 ## Family
 
