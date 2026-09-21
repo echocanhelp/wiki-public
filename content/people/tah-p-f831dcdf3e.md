@@ -6,7 +6,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-20
+last_reviewed: 2026-09-21
 ---
 # 陳國雄
 
@@ -36,6 +36,7 @@ _No filled family fields on the TAH profile._
 ## Role in the Community
 - Community encyclopedia entry preserved in the corpus: [[works/taiwaneseamericanhistory-org/728-e9-99-b3-e5-9c-8b-e9-9b-84-201512|728. 陳國雄 / 2015/12]] — TAHS recorded his banking career path: 台大經濟 → 休士頓大學會計碩士 → 日本興業銀行 LA → 美國第一銀行 LA VP & Controller.
 - From 苗栗南莊; entrepreneur/banker in the LA Taiwanese American community.
+- Corpus scan 2026-09-21: fresh grep across works/ and articles/ — sole hit is its own encyclopedia record above; no memoir mentions to absorb.
 
 ## Sources
 - [TAH #728 encyclopedia: 728. 陳國雄/ 2015/12](https://taiwaneseamericanhistory.org/728-%e9%99%b3%e5%9c%8b%e9%9b%84-201512/)

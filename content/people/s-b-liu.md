@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-20
+last_reviewed: 2026-09-21
 ---
 # S. B. Liu (劉西北)
 
@@ -38,7 +38,8 @@ last_reviewed: 2026-09-20
 
 ## Role in the Community
 
-- Corpus record: the TAH Foundation story corpus holds his own encyclopedia entry as a work page — [[works/taiwaneseamericanhistory-org/whoswho1866|1866. S. B. Liu 劉西北]] (published 2017-08-22). His wife's parallel entry sits at [[works/taiwaneseamericanhistory-org/whos-who-1865-a-n-liu|1865. A. N. Liu 劉安諾]]. No further memoir/news mentions found in the corpus beyond this record.
+- Corpus record: the TAH Foundation story corpus holds his own encyclopedia entry as a work page — [[works/taiwaneseamericanhistory-org/whoswho1866|1866. S. B. Liu 劉西北]] (published 2017-08-22). His wife's parallel entry sits at [[works/taiwaneseamericanhistory-org/whos-who-1865-a-n-liu|1865. A. N. Liu 劉安諾]].
+- Corpus scan 2026-09-21: fresh grep across works/ and articles/ — no further memoir/news mentions beyond this record.
 
 ## Sources
 - [TAH #1866 encyclopedia: 1866. S. B. Liu 劉西北](https://taiwaneseamericanhistory.org/whoswho1866/)
