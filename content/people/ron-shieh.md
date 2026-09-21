@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-19
+last_reviewed: 2026-09-21
 ---
 # Ron Shieh (謝榮峻)
 
@@ -41,6 +41,7 @@ _No filled family fields on the TAH profile._
 ## Role in the Community
 - SKIP (deepen-x slice 09180400-16, 2026-09-19): corpus re-grep returned only the subject's own TAH entry [[works/taiwaneseamericanhistory-org/whoswho1514|1514. Ron Shieh 謝榮峻]] and the works index — no community-authored narrative to absorb.
 
+- Corpus re-grep 2026-09-21 (deepen-x slice 09191200-19): works/ and articles/ returned no mentions beyond the subject's own TAH record — no community-authored material to absorb (SKIP).
 ## Sources
 - [TAH #1514 encyclopedia: 1514. Ron Shieh 謝榮峻 / 2017/02](https://taiwaneseamericanhistory.org/whoswho1514/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/ron-shieh/)

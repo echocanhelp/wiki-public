@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-19
+last_reviewed: 2026-09-21
 ---
 # Dr. Sing-San Yang (楊省三醫師)
 
@@ -42,6 +42,7 @@ _No filled family fields on the TAH profile._
 - The TAH encyclopedia holds his record: [[works/taiwaneseamericanhistory-org/whos-who-2015-sing-san-yang|2015. Dr. Sing-San Yang 楊省三醫師]] (published 2018-02-06), a bibliographic record only.
 - Corpus re-grep 2026-09-19 (楊省三 / Sing-San Yang): hits confined to his own encyclopedia record above and the works index; no memoir or article mentions — nothing new absorbable this pass (SKIP).
 
+- Corpus re-grep 2026-09-21 (deepen-x slice 09191200-19): works/ and articles/ returned no mentions beyond the subject's own TAH record — no community-authored material to absorb (SKIP).
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
