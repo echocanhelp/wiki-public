@@ -6,7 +6,7 @@ tags:
   - Taiwanese-American
   - Taiwan-Center-group-member
 verification_status: published
-last_reviewed: 2026-09-20
+last_reviewed: 2026-09-21
 ---
 # TUF(Taiwanese United Fund)
 
@@ -49,4 +49,4 @@ last_reviewed: 2026-09-20
 - Philanthropic standing: the Taiwan Center opening memoir records 吳佩利 (Li Pei Wu) donating one million dollars to the Taiwanese United Fund and the Chilin Foundation before taking the Taiwan Center preparatory-committee convener role ([[works/taiwaneseamericanhistory-org/ourjourneys29-eng|29. 南加州台灣會館開創的史料 / The Opening of the S. CA Taiwan Center]]).
 - Also appears in corpus records as 美國台灣人聯合基金會 (co-host credit, 第161回世界台灣文化論壇 2024-12, already cited above).
 - Wider concert-programme corpus: TUF also presented 楊呈偉「尋找心家園 / Finding Home」 in Los Angeles on 2005-07-09 ([[works/taiwaneseamericanhistory-org/concerts24|24. Welly Yang: Finding Home by TUF, 07/09/2005]]) and placed a Culture Night advertisement in San Gabriel on 2017-09-09 ([[works/taiwaneseamericanhistory-org/an-advertisement-in-culture-night-by-taiwanese-united-fund-in-san-gabriel-on-090|36. Culture Night advertisement, San Gabriel 09/09/2017]]) — both bibliographic records, no narrative detail.
-- Re-check (deepen-x 2026-09-19 / 2026-09-20): corpus re-grep hit set adds only the two thin bibliographic records above (concerts24, culture-night ad); the earlier new records were already absorbed; remaining hits (270 吳西面, 1134, concerts3, concerts1, 80 年刊, ourjourneys29-eng) were already cited. 1985-vs-1987 founding-year HOLD stands.
+- Re-check (deepen-x 2026-09-19 / 2026-09-20 / 2026-09-21): corpus re-grep hit set adds only the two thin bibliographic records above (concerts24, culture-night ad); the earlier new records were already absorbed; remaining hits (270 吳西面, 1134, concerts3, concerts1, 80 年刊, ourjourneys29-eng) were already cited. 1985-vs-1987 founding-year HOLD stands.

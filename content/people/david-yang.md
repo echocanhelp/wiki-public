@@ -56,4 +56,4 @@ _No filled family fields on the TAH profile._
 - [[works/taiwaneseamericanhistory-org/10-e6-a5-8a-e7-86-be-e5-8b-b3-e8-bf-94-e5-8f-b0-e4-bb-bb-e8-81-b7-e7-be-85-e6-9d|10. 楊熾勳返台任職羅東聖母醫院]] (2012) corroborates the 羅東聖母醫院 physician role in the TAH profile.
 - TAH Who's Who 收錄為第 1539 條（2017-02 刊），corpus 內有獨立紀錄：[[works/taiwaneseamericanhistory-org/whoswho1539|TAH #1539: David Yang 楊熾勳 / 2017/02]]。
 - NATMA（北美洲台灣人醫師協會）前南加州分會會長：2021-05 「台灣入WHO論壇」即以該身分與三位前總會長同場（見上方 From the record）。
-- Corpus re-grep 2026-09-20: hit set unchanged (whoswho1539, ourjourneys186/-eng, 338 鮭魚回歸, 10 返台任職羅東聖母醫院) — all corpus facts already absorbed above; no new material.
+- Corpus re-grep 2026-09-20 / 2026-09-21: hit set unchanged (whoswho1539, ourjourneys186/-eng, 338 鮭魚回歸, 10 返台任職羅東聖母醫院) — all corpus facts already absorbed above; no new material.
