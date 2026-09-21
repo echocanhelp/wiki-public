@@ -35,7 +35,8 @@ _No filled family fields on the TAH profile._
 
 ## Role in the Community
 
-- **2003 — 北加州台灣會館 (Taiwanese American Center of Northern California):** In the spring of 2003, during the search for the Federation's first center, Dr. Henry Y. Wu introduced organizer May-Sing Chang (黃美星) to fellow community member Dr. Ye-Ming Wu (吳怡明), who offered the first floor of his clinic (~3,000 sq ft, nine rooms) at a sponsoring price; that site let the center open on May 1, 2003. Recorded in the memoirs [[works/taiwaneseamericanhistory-org/ourjourneys24|北加州台灣會館的誕生 (黃美星)]] and [[works/taiwaneseamericanhistory-org/ourjourneys53-eng|台灣會館美夢成真 / N. CA Taiwanese American Center Dream Comes True]].
+- **2003 — 北加州台灣會館 (Taiwanese American Center of Northern California):** In the spring of 2003, during the search for the Federation's first center, Dr. Henry Y. Wu introduced organizer May-Sing Chang (黃美星) to fellow community member Dr. Ye-Ming Wu (吳怡明), who offered the first floor of his clinic (~3,000 sq ft, nine rooms) at a sponsoring price; the lease ran two years from 2003-04-01 and the center opened on May 1, 2003. The introduction happened in early March 2003, after a three-month deadline had organizer 黃美星 driving out daily to view candidate sites. Recorded in the memoirs [[works/taiwaneseamericanhistory-org/ourjourneys24|北加州台灣會館的誕生 (黃美星)]] ([[works/taiwaneseamericanhistory-org/ourjourneys24-eng|EN]]) and [[works/taiwaneseamericanhistory-org/ourjourneys53-eng|台灣會館美夢成真 / N. CA Taiwanese American Center Dream Comes True]].
+- TAH encyclopedia entry on file: [[works/taiwaneseamericanhistory-org/whos-who-1875-henry-y-wu|1875. Dr. Henry Y. Wu 吳銀鏤醫師]] (published 2017-09-04, band B).
 - See also [[people/ye-ming-wu|吳怡明]] and [[organizations/taiwanese-american-center-of-northern-california|北加州台灣會館]].
 
 ## Sources
