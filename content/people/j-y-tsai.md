@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-20
+last_reviewed: 2026-09-21
 ---
 # J. Y. Tsai (蔡金裕)
 
@@ -40,6 +40,8 @@ _No filled family fields on the TAH profile._
 - Portrait record: [[works/taiwaneseamericanhistory-org/mystories552|552. 蔡金裕經營旅館業當開路先鋒 (06/2017)]] — "pioneer of the Taiwanese hotel business".
 - Directory record: [[works/taiwaneseamericanhistory-org/whos-who-2061-j-y-tsai|TAH #2061]] and [[works/taiwaneseamericanhistory-org/ff262|TAH #262: 蔡金裕 / 南加州台灣旅館業同業公會創會會長 / 1974]].
 - HOLD: founding year conflict — page's accomplishment line says 1973; corpus records #262 and the 30th-anniversary memoir both say 1974-08-17. Not auto-merged.
+
+- Re-verified 2026-09-21: corpus re-grep returns only #2061, #262, mystories552, ourjourneys295 already linked above; the 1974-08-17 founding account is unchanged. SKIP: verified-saturated (HOLD 1973 vs 1974 stands).
 
 ## Sources
 - [TAH #2061 encyclopedia: 2061. J. Y. Tsai 蔡金裕](https://taiwaneseamericanhistory.org/whos-who-2061-j-y-tsai/)

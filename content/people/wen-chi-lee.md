@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-19
+last_reviewed: 2026-09-21
 ---
 # Wen Chi Lee (李文枝)
 
@@ -47,6 +47,8 @@ last_reviewed: 2026-09-19
 - The music-themed titles (愛樂之旅、彈琴說樂、大師的軌跡) corroborate the Music half of her "Eight Hanji Books on Architecture and Music."
 - Encyclopedia record: [[works/taiwaneseamericanhistory-org/138-wen-chi-lee|TAH #138 Wen Chi Lee 李文枝]].
 - Her husband 陳國洸 wrote a memorial essay after her passing, [[works/taiwaneseamericanhistory-org/80-e9-99-b3-e5-9c-8b-e6-b4-b8-e5-bc-94-e5-bf-b5-e4-ba-a1-e5-a6-bb-ef-bc-9a-e6-80|弔念亡妻李文枝：思念妳 / 陳國洸]] (2014-09-05), corroborating the Family field.
+
+- Re-verified 2026-09-21: corpus re-grep returns only the six work records already linked above (四篇文学、#138、#144 對應、弔念文) — no further mention of 李文枝 in memoirs. SKIP: verified-saturated.
 
 ## Sources
 - [TAH #138 encyclopedia: 138. Wen Chi Lee 李文枝](https://taiwaneseamericanhistory.org/138-wen-chi-lee/)
