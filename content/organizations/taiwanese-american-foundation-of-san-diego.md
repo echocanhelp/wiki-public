@@ -6,7 +6,7 @@ tags:
   - Taiwanese-American
   - Taiwan-Center-group-member
 verification_status: published
-last_reviewed: 2026-09-20
+last_reviewed: 2026-09-21
 ---
 # [[organizations/taiwan-american-foundation||Taiwanese American Foundation]] of San Diego
 
@@ -31,7 +31,11 @@ last_reviewed: 2026-09-20
 - [[works/taiwaneseamericanhistory-org/taiwanese-american-foundation-of-san-diego|7. Taiwanese American Foundation of San Diego 聖地牙哥台美基金會]] — dedicated 2014-10-12 corpus record for the foundation (bibliographic record).
 - [[works/taiwaneseamericanhistory-org/tcsd-summer-camp|38. 聖地牙哥台灣中心夏令營]] — 2017-11-15 record of the center's summer camp, community-education activity under the 聖地牙哥台灣中心 name.
 - [[works/taiwaneseamericanhistory-org/video-184|TAH Oral History Series — video interview, 歐春美 (Chunmei Ou Lin)]] (posted 2025-08-01): Chunmei Ou Lin — see [[people/carol-ou-lin|歐春美]] — is named as **CEO of San Diego Taiwan Center and of the Taiwanese American Foundation of San Diego, 2024–2025**; first-person account of her leadership in the community.
-- HOLD: naming conflict — this page lists 聖地牙哥台灣中心 as the Chinese name; the TAH directory work 72 lists 聖地牙哥台美基金會. Not auto-merged (may be related but distinct entities). The video-184 record treats San Diego Taiwan Center and the TA Foundation of San Diego as a joint leadership role, consistent with the two names operating as one institution.
+- First chairman: 陳秋山博士 (Pacific Biotech / 太平洋生技 founder), per his UCSD Taiwan Studies Center donation record — see [[works/taiwaneseamericanhistory-org/our-journeys-386|386. UCSD台灣研究中心]] — described there as 「聖地牙哥台美基金會第一任董事長」and a longtime supporter of Taiwanese American activities.
+- Center history memoir: 黃正源, 「聖地牙哥台灣中心的前半生與轉型」(2014-09) — [[works/taiwaneseamericanhistory-org/ourjourneys26|26. 聖地牙哥台灣中心的前半生與轉型 / 黃正源]].
+- 21st anniversary & fundraising dinner 2018-03-10 at San Diego Taiwan Center with ~200 attendants, under the joint name 「聖地牙哥台美基金會/台灣中心」 — [[works/taiwaneseamericanhistory-org/52714|TAH record: 21st Anniversary Fund-Raising Dinner]].
+- Publishes the 「YAM 季刊」 jointly as 聖地牙哥台美基金會及台灣中心 — [[works/taiwaneseamericanhistory-org/9-newslettertaiwanese-american-centersan-diego|YAM 季刊]].
+- HOLD: naming conflict — this page lists 聖地牙哥台灣中心 as the Chinese name; the TAH directory work 72 lists 聖地牙哥台美基金會. Not auto-merged (may be related but distinct entities). The video-184 record treats San Diego Taiwan Center and the TA Foundation of San Diego as a joint leadership role, consistent with the two names operating as one institution; the 2018 anniversary record and YAM 季刊 likewise carry both names jointly.
 
 ## Sources
 - [TAH directory](https://taiwaneseamericanhistory.org/organization/taiwanese-american-foundation-of-san-diego/)
