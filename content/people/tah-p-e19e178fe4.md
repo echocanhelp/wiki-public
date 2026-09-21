@@ -6,7 +6,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-19
+last_reviewed: 2026-09-21
 ---
 # 鄭許梅
 
@@ -43,5 +43,8 @@ last_reviewed: 2026-09-19
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/%e9%84%ad%e8%a8%b1%e6%a2%85/)
 
 ## Related Pages
+## Role in the Community
+- 2026-09-21 deepen-x pass: corpus check found the person's own story record in the TAHS corpus; no other works/articles mentions, no new absorbable facts, no conflicts.
+- Personal record in corpus: [[works/taiwaneseamericanhistory-org/586-e9-84-ad-e8-a8-b1-e6-a2-85-201509|586. 鄭許梅 / 2015/09]] (published bibliographic record, band B).
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

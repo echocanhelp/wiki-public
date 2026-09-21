@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-19
+last_reviewed: 2026-09-21
 ---
 # Jamy R.M. Liu (尤瑞美)
 
@@ -39,5 +39,8 @@ last_reviewed: 2026-09-19
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/jamy-r-m-liu/)
 
 ## Related Pages
+## Role in the Community
+- 2026-09-21 deepen-x pass: corpus check found the person's own story record in the TAHS corpus; no other works/articles mentions, no new absorbable facts, no conflicts.
+- Personal record in corpus: [[works/taiwaneseamericanhistory-org/73-jamy-r-m-liu-e5-b0-a4-e7-91-9e-e7-be-8e|73. Jamy R.M. Liu 尤瑞美]] (published bibliographic record, band B).
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

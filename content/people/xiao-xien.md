@@ -4,7 +4,7 @@ type: person
 tags:
   - 
 verification_status: pending
-last_reviewed: 2026-09-19
+last_reviewed: 2026-09-21
 ---
 # Elder Xiao Xien (蕭錫恩)
 
@@ -25,6 +25,7 @@ Elder Xiao appears in church bulletin records and is recognized as a community e
 ## Source Notes and Confidence
 - Needs verification: expanded biographical details
 - Moderate confidence: named in bulletin records
+- 2026-09-21 deepen-x re-check: still no corpus hits in works/articles; SKIP stands.
 - 2026-09-19 deepen-x pass: SKIP — no corpus hits in works/articles beyond this page; nothing absorbable.
 
 ## Name Variants / Disambiguation
