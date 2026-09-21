@@ -10,7 +10,7 @@ tags:
   - community-leader
 verification_status: pending
 featured: true
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-21
 ---
 # Yang Hsin (楊信)
 
