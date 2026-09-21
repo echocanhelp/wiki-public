@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-20
+last_reviewed: 2026-09-21
 ---
 # Rachel Lin
 
@@ -41,6 +41,7 @@ Rachel Lin began her violin lessons when she was 8 years old with Dr. Lee Tai Hs
 - Re-verified 2026-09-18: corpus re-grep (works/articles) hits only the two TAH encyclopedia records #164/#321 above (bibliographic; full text stays in the vault) plus index listings — no additional community facts absorbable.
 - Re-verified 2026-09-19 (DEEPEN-X slice 09180300-18): English-name grep across works/articles again returns only #164/#321 and index listings — SKIP-content, no new memoir material.
 - Re-verified 2026-09-20 (DEEPEN-X slice 09191000-16): grep re-run — only [[works/index|works index]] remains as a hit; SKIP-content, hit-set unchanged.
+- Re-verified 2026-09-21 (DEEPEN-X slice 09210051-4): grep re-run — hits remain #164/#321 plus index listings; SKIP-content, no new absorbable community facts.
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/rachel-lin/)

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-20
+last_reviewed: 2026-09-21
 ---
 # Prof. Chin-Teh Sun (孫錦德教授)
 
@@ -43,6 +43,7 @@ From the NATPA founding memoir (創會首十年紀事) preserved in our corpus a
 - **1981-07-02–05** — elected **NATPA Midwestern Regional Director** at the annual meeting held jointly with the Taiwanese American Conference–East Coast summer camp; the new board elected 蔡嘉寅 as the second president.
 - His TAH encyclopedia profiles are in-corpus at [[works/taiwaneseamericanhistory-org/40-prof-chin-teh-sun|TAH #40]] and [[works/taiwaneseamericanhistory-org/whos-who-737-chin-teh-sun|TAH #737]].
 - Organization: [[organizations/north-america-taiwanese-professors-sc|NATPA 北美洲台灣人教授協會]] — the tah-tables list him as NATPA President; the memoir documents founding member and 1981 regional director (presidency term not stated there; no conflict, term pending).
+- Corpus re-grep 2026-09-21 (DEEPEN-X slice 09210051-4): hits = ourjourneys69 (+EN), TAH #40/#737, index listings only; memoir text confirms the 1980 founding-16 and 1981 中西區區域理事 facts already absorbed above — nothing new, no conflicts.
 
 ## Sources
 - [TAH #40 encyclopedia: 40. Prof. Chin-Teh Sun 孫錦德教授](https://taiwaneseamericanhistory.org/40-prof-chin-teh-sun/)

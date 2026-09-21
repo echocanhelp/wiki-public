@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-20
+last_reviewed: 2026-09-21
 ---
 # Sue Chiu (黃雪香)
 
@@ -41,7 +41,7 @@ Being always enjoying various forms of artistic expression, I took my first cera
 - **北美洲台灣人婦女會 editor:** Took over editing the 「點心擔專欄」 column in 公論報 in **2003**, one of ten successive volunteer editors since 柯翠園 launched the column in 1999-05 as the women's association "婦女習作園地" (replacing the earlier 婦女信箱) — see [[works/taiwaneseamericanhistory-org/ourjourneys154|154. 完美的句點 / 陳桂蘭]] (full column history per that memoir: 邱良媛 1999-2000, 王麗華 2001, 林瑞美/李素蓮 2002, 黃雪香/陳香梅 2003, 王麗華 2004-2005, 白珠麗 2006-2007, 陳美麗 2008, 陳桂蘭 2009-2011).
 - **Tahs profiles:** Ceramic-artist profile in [[works/taiwaneseamericanhistory-org/artist-sue-chiu|65. 黃雪香 Sue Chiu]] and Who's Who entry [[works/taiwaneseamericanhistory-org/whos-sue-chiu|853. Sue Chiu 黃雪香 / 2016-02]].
 
-- Corpus re-grep (2026-09-19 / re-run 2026-09-20): hits confined to her own memoir #529, artist profile #65, Who's Who #853, and the 點心擔 column-history memoir already cited above (plus the works index) — nothing new absorbable this pass.
+- Corpus re-grep (2026-09-19 / 2026-09-20 / re-run 2026-09-21): hits confined to her own memoir #529, artist profile #65, Who's Who #853, the 點心擔 column-history memoir #154 already cited above (plus the works index) — nothing new absorbable this pass.
 
 ## Sources
 - [TAH #65 encyclopedia: 65. 黃雪香 Sue Chiu](https://taiwaneseamericanhistory.org/artist-sue-chiu/)
