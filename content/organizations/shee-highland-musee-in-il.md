@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-20
+last_reviewed: 2026-09-21
 ---
 # Shee Highland Musée in IL (施哲三海嵐美術舘)
 
@@ -25,6 +25,7 @@ Shee Highland Musée is the artistic institution associated with international a
 - 黃哲陽's 2017 community overview of physician-artists records 施哲三 as a pathologist who was self-taught in painting (無師自通) and left medicine for art (棄醫從畫), becoming a successful painter — the memoir framing behind the musée's artist-physician identity ([[works/taiwaneseamericanhistory-org/ourjourneys291|TAH #291, 台美人醫師 overview / 黃哲陽 / 05/2017]]).
 - First oil-painting collection in the corpus predates the page's other records: [[works/taiwaneseamericanhistory-org/158-e6-96-bd-e5-93-b2-e4-b8-89-e6-b2-b9-e7-95-ab-e9-81-b8-e9-9b-86-e4-b8-80-e6-9|158. 施哲三油畫選集一 (1996/07)]].
 - The musée itself appears by name in the 2021 corpus exhibition record [[works/taiwaneseamericanhistory-org/publications-1353|1353. 施哲三 油畫、雕塑、瓷品及織錦 / 施哲三海嵐美術館 / 05/2021]], confirming it exhibited oil painting, sculpture, porcelain, and tapestry by 2021/05.
+- The musée holds its own entry in the TAH story corpus: [[works/taiwaneseamericanhistory-org/shee-highland-musee-in-il|28. Shee Highland Musée in IL 施哲三海嵐美術舘 / 02/2016]], an institutional profile predating the 2021 exhibition record; the artist-side profile [[works/taiwaneseamericanhistory-org/artist9-sam-shee|9. 施哲三 Sam Shee / 09/2014]] is the corpus's artist feature on the founder.
 - HOLD: page title uses 美術舘 while the 2021 work record writes 美術館 (舘 vs 館 variant spellings) — not normalized.
 
 ## Sources

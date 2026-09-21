@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-20
+last_reviewed: 2026-09-21
 ---
 # Prof. Yuh-Huey Grace Lin (林玉惠)
 
@@ -37,6 +37,7 @@ _No filled family fields on the TAH profile._
 
 ## Worklog
 - 2026-09-20 deepen-x slice 09180600-12: re-verified — corpus grep for 林玉惠/Yuh-Huey returns only her own TAH records (#1756, #413, both already wikilinked above) plus the works index. No new absorbable material; section stands.
+- 2026-09-21 deepen-x slice 09200500-13: re-verified again — same hit set (whoswho1756, musician413, works index). No new corpus material; HOLD on [[people/grace-lin]] stands.
 
 ## Sources
 - [TAH #1756 encyclopedia: 1756. Prof. Yuh-Huey Grace Lin 林玉惠 / 07/2017](https://taiwaneseamericanhistory.org/whoswho1756/)
