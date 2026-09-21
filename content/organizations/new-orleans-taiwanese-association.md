@@ -24,6 +24,7 @@ The New Orleans Taiwanese Association (紐奧良 台灣同鄉會) is a regional 
 - The national TAA (全美會) donated consolation funds (慰問金) specifically to New Orleans Taiwanese families affected by Katrina — the chapter's community appears in the record as disaster recipients of the nationwide network's relief drive. See [[works/taiwaneseamericanhistory-org/katrina-taa|全美會捐贈慰問金給紐奧良台灣同鄉卡翠娜受災戶]].
 - Chapter members reach into neighboring-community records: at the 2002 Houston Taiwanese Activity Center inauguration, a New Orleans group led by 施利雄 (十餘人) performed an indigenous-form dance (山地舞) in the variety program. See [[works/taiwaneseamericanhistory-org/ourjourneys233|Our Journeys 233 — 休士頓台灣人活動中心]].
 - Dedicated community record: [[works/taiwaneseamericanhistory-org/taiwanese-association-of-new-orleans|Taiwanese Association of New Orleans 紐奧良台灣同鄉會]] (2015-11-18).
+- The Katrina relief drive for New Orleans families was nationwide: other chapters' memoirs record it among the disasters their own associations raised funds for — e.g. the NY-Capital district record [[works/taiwaneseamericanhistory-org/our-journeys-391|391. 紐約州首府區台美文化促進會二十週年回顧 (06/2024)]] and [[works/taiwaneseamericanhistory-org/ourjourneys311|311. 紐約首府區台灣同鄉會及台美文化促進會簡介 (陳仲欽, 09/2017)]] both list Katrina/紐奧良 first among their disaster-relief campaigns, confirming the chapter's recipient role within the national network.
 - HOLD: the corpus does not record a founding date or officer roster for the chapter; the 2015 work page is bibliographic only (full text stays in the vault).
 
 ## Sources
