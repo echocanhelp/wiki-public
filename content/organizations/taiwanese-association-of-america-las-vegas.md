@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-20
+last_reviewed: 2026-09-21
 ---
 # Taiwanese Association of America Las Vegas (拉斯維加斯)
 
@@ -27,6 +27,8 @@ The Taiwanese Association of America Las Vegas (TAALV, 拉斯維加斯 台灣同
 
 - Founding-era record: TAH #321 documents the chapter as of 06/2007 as "The youngest Taiwanese American association" (全美台灣同鄉會拉斯維加斯分會) ([[works/taiwaneseamericanhistory-org/ff321|TAH #321]], 2007-06) — placing the chapter's founding among the newest wave of TAA chapters.
 - In December 2016 the Vegas chapter's community scene hosted the TPC (南加州台灣人基督長老教會聯合會) "The Voices of Christmas 聖誕之聲" concert, whose tour included a Las Vegas, NV performance on 12/17/2016 ([[works/taiwaneseamericanhistory-org/concerts83|TAH #83 聖誕之聲 Las Vegas]]), alongside the NATMA annual convention earlier that October — evidence of an active broader Taiwanese-heritage community in the area.
+
+- Community-pressure episode recorded in the 世台會 corpus: after the 世台會 third annual convention, a dissenting group of attendees reportedly left before it ended, going to Chinatown and then on a 「建功宴」 trip to Las Vegas, paid with membership dues — a grievance documented in the convention report ([[works/taiwaneseamericanhistory-org/ourjourneys283|283. 世台會第二、三屆年會報告 / 吳木盛 / 04/2017]]).
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-association-of-america-las-vegas/)
