@@ -41,7 +41,7 @@ last_reviewed: 2026-09-20
 - 1964年在費城與羅福全構想透過美國發行量最大的報紙刊登廣告，表達台灣人「追求自由、民主和獨立」的心聲；此構想在「全美台灣獨立聯盟」成立後落實為《紐約時報》半頁巨幅廣告（[[works/taiwaneseamericanhistory-org/ourjourneys81|81. 早期威大台灣學生在台灣建國運動所扮演的角色 / 周烒明起稿 /2014/12]]）。
 - 以「台灣獨立聯盟（UFI）」代表身份出席1966年6月18日費城會議，UFI與「台灣問題研究会（FASG）」雙方合併，決議於1966年7月4日成立「全美台灣獨立聯盟（UFAI）」（[[works/taiwaneseamericanhistory-org/ourjourneys81|同前]]）。
 - 為華府地區 College Park 早期台灣人留學生群之一，與陳炳耀、黃淑貞（後回台大心理系任教授）同列，屬華府與巴城TAA誕生前的人物（[[works/taiwaneseamericanhistory-org/ourjourneys-138|138. 華府與巴城TAA的誕生 / 陳淮崇 /2015/05]]）。
-- TAH本人記錄：[[works/taiwaneseamericanhistory-org/670-james-chin-chun-su-e8-98-87-e9-87-91-e6-98-a5-201510|670. James Chin-Chun Su 蘇金春 /2015/10]]。
+- TAH本人記錄：[[works/taiwaneseamericanhistory-org/670-james-chin-chun-su-e8-98-87-e9-87-91-e6-98-a5-201510|670. James Chin-Chun Su 蘇金春 /2015/10]]；上述兩篇回憶文的英文版另存於 corpus：[[works/taiwaneseamericanhistory-org/ourjourneys57-eng|57. Bringing Bananas to America / Fu-chen Lo (EN)]]、[[works/taiwaneseamericanhistory-org/ourjourneys81-eng|81. Early Years of the UW Taiwanese Independence Movement / Suy-Ming Sam Chou (EN)]]。
 
 ## Family
 
