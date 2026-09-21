@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-15
+last_reviewed: 2026-09-21
 ---
 # Overseas Taiwanese for Democracy (海外台灣青年陣線)
 
