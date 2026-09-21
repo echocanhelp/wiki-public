@@ -23,6 +23,7 @@ The Taiwanese International Student Association (TiSA) at the University of Texa
 
 ## Deepen pass (2026-09-18)
 - SKIP-with-reason: corpus grep for `TiSA` / `Taiwanese International Student Association` / `台灣國際學生會` in `content/works` + `content/articles` returned zero hits — no memoir or community material to absorb; existing UT Austin directory text left as-is, nothing invented.
+- Re-verified 2026-09-21: same grep returned zero corpus hits; SKIP stands.
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

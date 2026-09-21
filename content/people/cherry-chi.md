@@ -33,6 +33,7 @@ _No filled family fields on the TAH profile._
 
 ## Role in the Community
 
+- Corpus re-scan 2026-09-21: still zero new hits beyond the record below (works/index.md bibliographic row only).
 - SKIP-with-reason: corpus presence is limited to her own TAH Who's Who encyclopedia record, [[works/taiwaneseamericanhistory-org/whos-who-1822-cherry-chi|1822. Cherry Chi 紀江蒨]] (published 2017-08-07, band B). No memoir or other community material in works/ or articles/ mentions 紀江蒨 / Cherry Chi, so there is nothing absorbable beyond the TAH press-kit roles already recorded above.
 
 ## Sources
