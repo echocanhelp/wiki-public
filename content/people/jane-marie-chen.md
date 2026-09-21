@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-20
+last_reviewed: 2026-09-21
 ---
 # Jane Marie Chen
 
@@ -38,6 +38,7 @@ _No filled family fields on the TAH profile._
 ## Role in the Community
 - Recognized in the TAHS/TAH community record: [[works/taiwaneseamericanhistory-org/whoswho1182|1182. Jane Marie Chen / 2016/7]] (2016-07-28) — her Who's Who entry is held in the corpus as community historical record.
 - Schwab Social Entrepreneur of the Year, World Economic Forum 2013 (per TAH profile above).
+- Corpus scan 2026-09-21: no memoir/article mentions (also searched Embrace Innovations) beyond the encyclopedia record; nothing further absorbable (SKIP).
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/jane-marie-chen/)

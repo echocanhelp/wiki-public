@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-20
+last_reviewed: 2026-09-21
 ---
 # Y. C. Hsu (許耀慶)
 
@@ -36,7 +36,10 @@ _No filled family fields on the TAH profile._
 ## Role in the Community
 
 - Named as a consultant to the **台美公民協會籌備委員會** (TAC League Preparatory Committee) alongside other Bay-area physicians and movement figures (TAH Our Journeys 記錄 #186, 台美公民協會簡介, 2015/11).
-- 1982/01/21 — as then-Vice President of the Southern California Taiwanese Association for Interculture (SCTAI), convened a meeting of sixteen Taiwanese community members in Southern California to discuss founding a citizens' league modeled on JACL; the meeting chose the name TACL (Taiwanese American Citizens League) and nominated him to the preparatory team. He stepped down from leading preparations when he took over as President of SCTAI, recommending another colleague to lead the team ([[works/taiwaneseamericanhistory-org/ourjourneys272|Our Journeys 記錄 #272「Dropping Seeds」]]).
+- 1982-01-21 — as then-Vice President of the Southern California Taiwanese Association for Interculture (SCTAI), convened a meeting of sixteen Taiwanese community members in Southern California to discuss founding a citizens' league modeled on JACL; the meeting chose the name TACL (Taiwanese American Citizens League) and nominated him to the preparatory team. He stepped down from leading preparations when he took over as President of SCTAI, recommending another colleague to lead the team ([[works/taiwaneseamericanhistory-org/ourjourneys272|Our Journeys 記錄 #272「Dropping Seeds」]]). English transcript of the same memoir: [[works/taiwaneseamericanhistory-org/ourjourneys272-eng|Our Journeys #272 (EN)]].
+- The #186 consultant roster also exists in English: [[works/taiwaneseamericanhistory-org/ourjourneys186-eng|台美公民協會簡介 (EN)]]; the record notes it was sourced from Taiwan Tribune 《台灣公論》.
+- HOLD: conflict in the #272 memoir itself — the narrative dates the founding convening meeting 1982-01-21, but the same memoir later refers to "the first meeting (1/21/81)". Not auto-merged; both dates preserved pending confirmation (possibly a ROC-year conversion slip, 民國71 = 1982).
+- HOLD: name-abbreviation collision — TAH Who's Who #1560 「Y.C. Hsu 許英智」 (2017/03, [[works/taiwaneseamericanhistory-org/whoswho1560|whoswho1560]]) is a *different* person with the same English initials; do not merge their records.
 
 ## Sources
 - [TAH #1244 encyclopedia: 1244. Y. C. Hsu 許耀慶 / 2016/08](https://taiwaneseamericanhistory.org/whoswho1244/)

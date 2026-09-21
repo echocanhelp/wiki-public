@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-20
+last_reviewed: 2026-09-21
 ---
 # Monty Wang (王興山)
 
@@ -35,7 +35,7 @@ _No filled family fields on the TAH profile._
 ## Role in the Community
 
 - Profiled in the TAH community encyclopedia: [[works/taiwaneseamericanhistory-org/whoswho1356|1356. Monty Wang 王興山]] (2016-11-01, value band B).
-- Corpus scan 2026-09-20: no memoir/corpus mentions beyond the encyclopedia record; service record (anesthesiology, Robert Wood Johnson University Hospital) rests solely on the TAH profile.
+- Corpus scan 2026-09-21: no memoir/corpus mentions beyond the encyclopedia record; service record (anesthesiology, Robert Wood Johnson University Hospital) rests solely on the TAH profile.
 
 ## Sources
 - [TAH #1356 encyclopedia: 1356.  Monty Wang 王興山 / 2016/11](https://taiwaneseamericanhistory.org/whoswho1356/)
