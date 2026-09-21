@@ -25,6 +25,7 @@ K. D. Wang (王康德) is listed in the TAH Foundation Who’s Who Taiwanese Ame
 
 - 口述訪談紀錄：王永宗家族敘事由王康厚、王康德口述（2023-08），存於 TAH 故事庫 — [[works/taiwaneseamericanhistory-org/publications-1372|1372. 王永宗家族敘事：王康厚、王康德口述訪談紀錄]]
 - 義工老師：紐約台灣會館老人中心（TASC）義工老師芳名錄收录，教授水墨畫等美術課程（據 2017-10 林炎誠記述）— [[works/taiwaneseamericanhistory-org/ourjourneys316|316. 紐約台灣會館老人中心]]
+- 自有 Who's Who 條目存於故事庫：[[works/taiwaneseamericanhistory-org/whos-who-1726-k-d-wang|1726. K. D. Wang 王康德]]（2017-07，書目性紀錄）
 
 ## Family
 
