@@ -30,6 +30,10 @@ last_reviewed: 2026-09-21
 - Argonne National Laboratory in Darien, Illinois. — civil and mechanical engineer
 <!-- tah-tables:end -->
 
+## Corpus absorb note (2026-09-21)
+
+SKIP: corpus grep (works/ + articles/) found only this person's own TAH Who's Who bibliographic record ([[works/taiwaneseamericanhistory-org/750-shoei-sheng-chen-e9-99-b3-e6-b0-b4-e7-94-9f-201512|750. Shoei-Sheng Chen 陳水生 / 2015/12]]) and index listings; no memoir or community-history material mentioning Shoei-Sheng Chen 陳水生 exists in the vault yet — nothing absorbable.
+
 ## Family
 
 _No filled family fields on the TAH profile._
