@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-20
+last_reviewed: 2026-09-21
 ---
 # Tony Tung-Ying Huang (黃東瀛)
 
@@ -50,3 +50,4 @@ _No filled family fields on the TAH profile._
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - Corpus re-grep (slice deepen-x-slice-09181500-12, 2026-09-20): hit set unchanged (#153, #383, Our Journeys 306, index) — all already absorbed above. SKIP-with-reason.
+- Corpus re-grep (slice deepen-x-slice-09201400-8, 2026-09-21): hit set unchanged (#153, #383, Our Journeys 306, index) — saturated, SKIP-with-reason.
