@@ -7,11 +7,11 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-20
+last_reviewed: 2026-09-21
 ---
 # George Lai (賴忠智)
 
-<!-- deepen-x: SKIP 2026-09-20 — corpus sweep found only the TAH Who's Who bibliographic record (works/815…) and the works index; no memoir/community mentions elsewhere in works/articles to absorb. -->
+<!-- deepen-x: SKIP 2026-09-21 (re-verified: fresh grep hits only works/815 bibliography + index) — corpus sweep found only the TAH Who's Who bibliographic record (works/815…) and the works index; no memoir/community mentions elsewhere in works/articles to absorb. -->
 
 ## Identity Snapshot
 - **English:** George Lai

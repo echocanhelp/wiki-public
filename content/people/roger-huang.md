@@ -7,9 +7,11 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-20
+last_reviewed: 2026-09-21
 ---
 # Roger Huang (黃瑞宗)
+
+<!-- deepen-x: SKIP 2026-09-21 — corpus sweep (fresh grep 2026-09-21) hits only its own bibliography page works/taiwaneseamericanhistory-org/whoswho1150 + works index; no memoir mentions to absorb. -->
 
 ## Identity Snapshot
 - **English:** Roger Huang

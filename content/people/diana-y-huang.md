@@ -7,9 +7,11 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-20
+last_reviewed: 2026-09-21
 ---
 # Diana Y Huang (黃玉桂)
+
+<!-- deepen-x: SKIP 2026-09-21 — corpus sweep (fresh grep 2026-09-21) hits only its own bibliography page works/taiwaneseamericanhistory-org/whoswho1042 + works index; Role section already reflects this. -->
 
 ## Identity Snapshot
 - **English:** Diana Y Huang
