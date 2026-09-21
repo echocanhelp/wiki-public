@@ -58,3 +58,5 @@ _No filled family fields on the TAH profile._
 複核（deepen-x slice 09180131-7, 2026-09-18）：corpus re-grep 命中集合不變（#254、#10221、ourjourneys29、index）— 全部已吸收，SKIP-with-reason：語料已飽和；USC 學位 HOLD 維持。
 
 複核（deepen-x slice 09181500-6, 2026-09-20）：corpus re-grep 命中集合不變（#254、#10221、ourjourneys29、index）— 全部已吸收，SKIP-with-reason：語料已飽和；USC 學位 HOLD 維持。
+
+複核（deepen-x slice 09201400-3, 2026-09-21）：corpus re-grep 命中集合不變（#254、#10221、ourjourneys29、index）— 全部已吸收，SKIP-with-reason：語料已飽和；USC 學位 HOLD 維持。

@@ -41,3 +41,5 @@ HOLD: founding place — the TAH directory entry describes the San Jose / Silico
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+Corpus re-grep 2026-09-21 (slice 09201400-3): hit set = 2005/2007/2010 年刊 records, tac-drf, ourjourneys53-eng, video-181 — all already linked above; SKIP-with-reason: no new absorbable material beyond the 2026-09-20 pass. Fremont-vs-San Jose founding-place HOLD maintained.
