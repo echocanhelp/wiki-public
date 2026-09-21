@@ -44,7 +44,12 @@ last_reviewed: 2026-09-20
 - 1978 年已有紀實文獻《台灣民意的領航者郭雨新先生》流傳於社群（[[works/taiwaneseamericanhistory-org/publication1298|TAH #1298, 1978]]）。
 - 1979-12-15，為抗議美麗島事件後大逮捕，「台灣建國聯合陣線」在紐約成立，郭雨新以「台灣民主運動海外同盟」名義代表與會（同場尚有台灣獨立聯盟張燦鍙、台美協會彭明敏、台灣人民自覺運動黃彰輝、歐洲同盟陳重任、史明、許信良、陳婉真等）（[[works/taiwaneseamericanhistory-org/our-journeys-357|Our Journeys #357]]）。
 - 1979 年郭雨新在美國印行的《台灣民主通訊》曾報導安雅堡台灣同鄉會為施明德募款匯款一事（[[works/taiwaneseamericanhistory-org/ourjourneys321|Our Journeys #321，陳文成事件回憶]]）——顯示其海外運動期間主持運動刊物。
-- TAH 人物百科收邱萬興撰傳：[[works/taiwaneseamericanhistory-org/mystories579|579. 牛背上的民主騎士——郭雨新]]（2017/09）。
+- TAH 人物百科收邱萬興撰傳：[[works/taiwaneseamericanhistory-org/mystories579|579. 牛背上的民主騎士——郭雨新]]（2017/09）；另收 [[works/taiwaneseamericanhistory-org/715-e9-83-ad-e9-9b-a8-e6-96-b0|715. 郭雨新]]（2015/11）。
+- 1975 年參選（國民黨作票下高票落選，為其在台最後一戰）：遊錫堃即於 1975 年 12 月為其助選而踏入政治（[[articles/taiwanjustice-net/2025/20250915162534_從政40年_游錫堃9月出書記錄創黨關鍵10日_c9d1a91d6fac4966|TJJ 轉中央社記者報導, 2025-09-15]]；回述見 [[articles/taiwanjustice-net/2021/20210129232013_2012_02_02_鬼怪的2245票投開票所_雜念所在部落格-02-02-2012_180d5ad208b709e0|雜念所在部落格, 2012-02-02]]）。HOLD: conflict 「1969 年省議員選舉遭打壓落選」（TJJ 導讀台灣專欄）vs 「1975 年底高票落選為其在台最後一戰」（部落格回述）——應為兩次不同選舉，待考。
+- 其助選班底載於國民黨黑名單：蕭昇文 1977 年上台為其助講遭忌、呂俊雄為其競選英語發言人（[[works/taiwaneseamericanhistory-org/ourjourneys106|Our Journeys #106 中華民國的黑名單, 何文亮、莊峻華 2015/02]]）。
+- 陳菊 18/19 歲起任其秘書，為其聯絡全台反國民黨人士並串連海外人權團體，1978 年因自宅排印「選舉萬歲」遭警總逮捕——此即美麗島世代之前史（[[articles/taiwanjustice-net/2026/20260210185236_書摘_蔣經國日記評陳菊許信良等黨外人士_把美_8992ada1e7a6c5a0|書摘：蔣經國日記評黨外人士, 2026-02-10]]；[[articles/taiwanjustice-net/2020/20200622121454_2019_12_01_美麗島40年歷史峰迴路轉-陳菊_改革比革命更困難_b5484092edd8f2f3|美麗島40年——陳菊, 2019-12-01]]；[[articles/taiwanjustice-net/2025/20250615095821_陳菊請辭總統府秘書長_獲提名監察院長呼聲高_5b9b8f6676a76cdb|陳菊請辭報導, 2025-06-15]]）。
+- 身後紀念：TAH 設「郭雨新紀念獎」（[[works/taiwaneseamericanhistory-org/50-e9-83-ad-e9-9b-a8-e6-96-b0-e7-b4-80-e5-bf-b5-e7-8d-8e|TAH #50 郭雨新紀念獎]]）；1988/09 由郭會娜、林衡哲編《郭雨新紀念文集》（[[works/taiwaneseamericanhistory-org/404-e9-83-ad-e9-9b-a8-e6-96-b0-e7-b4-80-e5-bf-b5-e6-96-87-e9-9b-86-e9-83-ad-e6-9|TAH #404]]）。
+- 傳言出其口的「番薯不驚落土爛」，遊錫堃澄清實出謝三升之詞，兩人曾討論用字（同上遊錫堃出書報導）——宜於词条中更正歸屬。
 
 ## Sources
 - [TAH #579 encyclopedia: 579. 牛背上的民主騎士——郭雨新 / 邱萬興 /09/2017](https://taiwaneseamericanhistory.org/mystories579/)
