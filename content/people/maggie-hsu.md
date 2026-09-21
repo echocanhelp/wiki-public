@@ -51,3 +51,5 @@ HOLD: conflict in Mochi founding date — her interview says the concept origina
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+slice 09201400-19 re-grep (2026-09-21): corpus hit set identical to links already absorbed above — no new absorbable facts.

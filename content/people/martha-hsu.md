@@ -58,3 +58,5 @@ HOLD: this page appears to duplicate [[people/martha-vandriel|Martha VanDriel]] 
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 slice 09190130-8 re-grep (2026-09-20): corpus hit set identical to links already absorbed above — no new absorbable facts.
+
+slice 09201400-19 re-grep (2026-09-21): corpus hit set identical to links already absorbed above — no new absorbable facts.
