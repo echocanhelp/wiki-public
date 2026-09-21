@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-19
+last_reviewed: 2026-09-21
 ---
 # Chin-Hui Tsao (曹錦輝)
 
@@ -30,6 +30,10 @@ Accomplishment
 ## Employment
 - Colorado Rockies — Pitcher — (2003-2005) — Los Angeles Dodgers — Pitcher — (2007-2007) — Los Angeles Dodgers — Pitcher — (2015-2016) — Brothers Baseball Club — Pitcher — (2009-2009) — Long Island Ducks — Pitcher — (2017-2017)
 <!-- tah-tables:end -->
+
+## Role in the Community
+
+_Corpus check 2026-09-21: the only text hit in the works/articles corpus is this page's own TAH bibliographic record [[works/taiwaneseamericanhistory-org/whos-who-1753-chin-hui-tsao|TAH #1753 (2017-07)]]; no memoir or movement material mentions 曹錦輝, so no community facts are absorbable. SKIP-with-reason recorded._
 
 ## Family
 

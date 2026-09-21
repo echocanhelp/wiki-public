@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-19
+last_reviewed: 2026-09-21
 ---
 # Prof. Shu-li Chen (陳淑麗教授)
 
@@ -28,6 +28,10 @@ last_reviewed: 2026-09-19
 ## Employment
 - Univ. of Tennessee — Assistant Professor/Associate Professor — (1999-2010) — Lincoln Memorial Univ. — Professor/Chair of Graduate Nursing — (2010-2011) — South Univ. — Professor/Associate Dean/Acting Dean/Dean — (2012-2017)
 <!-- tah-tables:end -->
+
+## Role in the Community
+
+_Corpus check 2026-09-21: the only text hit in the works/articles corpus is this page's own TAH bibliographic record [[works/taiwaneseamericanhistory-org/whos-who-1961-shu-li-chen|TAH #1961 (2017-12)]]; no memoir or movement material mentions 陳淑麗, so no community facts are absorbable. SKIP-with-reason recorded._
 
 ## Family
 

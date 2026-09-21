@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-19
+last_reviewed: 2026-09-21
 ---
 # Dr. Cheng-Hung Yeh (葉澄鴻博士)
 
@@ -19,10 +19,6 @@ last_reviewed: 2026-09-19
 - **Core roles:** engineer, scientist
 - **Source:** TAH Foundation Who’s Who
 
-Honda Research Institute USA, Inc.
-Software Engineer, computer vision
-(2017-2018)
-
 <!-- tah-tables:start -->
 ## Education
 - National Taiwan Univ. — B.S.
@@ -31,6 +27,10 @@ Software Engineer, computer vision
 ## Employment
 - Monsanto Company — Imaging/Software Engineer, Lidar — (2016-2017) — Honda Research Institute USA, Inc. — Software Engineer, computer vision — (2017-2018) — Apple Inc. — Senior Research Scientist — (2018-)
 <!-- tah-tables:end -->
+
+## Role in the Community
+
+_Corpus check 2026-09-21: the only text hit in the works/articles corpus is this page's own TAH bibliographic record [[works/taiwaneseamericanhistory-org/whos-who-2124-cheng-hung-yeh|TAH #2124 (2018-06)]]; no memoir or movement material mentions 葉澄鴻, so no community facts are absorbable. SKIP-with-reason recorded._
 
 ## Family
 

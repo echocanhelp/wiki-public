@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-19
+last_reviewed: 2026-09-21
 ---
 # Chou-Long Huang (黃朝龍)
 
@@ -19,8 +19,6 @@ last_reviewed: 2026-09-19
 - **Core roles:** scientist, physician, professor, educator
 - **Source:** TAH Foundation Who’s Who
 
-2. Jacob Lemann of Internal Medicine at University of Texas Southwestern Medical Center
-
 <!-- tah-tables:start -->
 ## Education
 - Taipei Medical University — 1981 — M.S.
@@ -31,6 +29,10 @@ last_reviewed: 2026-09-19
 - Jacob Lemann of Internal Medicine at University of Texas Southwestern Medical Center — present — Professor
 - UT Southwestern — 1996- — assistant professor
 <!-- tah-tables:end -->
+
+## Role in the Community
+
+_Corpus check 2026-09-21: the only text hit in the works/articles corpus is this page's own TAH bibliographic record [[works/taiwaneseamericanhistory-org/1366-chou-long-huang-e9-bb-83-e6-9c-9d-e9-be-8d-201611|TAH #1366 (2016-11)]]; no memoir or movement material mentions 黃朝龍, so no community facts are absorbable. SKIP-with-reason recorded._
 
 ## Family
 
