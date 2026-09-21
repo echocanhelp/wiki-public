@@ -51,3 +51,5 @@ last_reviewed: 2026-09-21
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 複核（deepen-x 2026-09-20）：corpus re-grep（works+articles）命中 our-journeys-350、whos-who-1652、ourjourneys266，全數已吸收並 wikilink（張瑞雄教會回憶錄證詞、黃武東《台灣人在北美洲》筆友證詞、同志社大學→芝加哥神學院→西雅圖日本組合教會脈絡），無新增社群材料。
+
+複核（deepen-x 2026-09-21）：corpus re-grep（works+articles）命中 our-journeys-350、whos-who-1652、ourjourneys266、index，全數已吸收並 wikilink（張瑞雄教會回憶錄、黃武東《台灣人在北美洲》筆友證詞脈絡），無新增社群材料。
