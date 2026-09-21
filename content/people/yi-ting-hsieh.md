@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-19
+last_reviewed: 2026-09-20
 ---
 # Yi-Ting Hsieh
 
@@ -38,6 +38,7 @@ _No filled family fields on the TAH profile._
 - Also held as a second TAH encyclopedia record: [[works/taiwaneseamericanhistory-org/whos-who-2141-yi-ting-hsieh|2141. Yi-Ting (Christine) Hsieh]] (2018-06-30, band B bibliographic record) — the only other corpus trace; 'Yi-Ting Chang' and 'Yi-Ting Chung' elsewhere in the corpus are different people.
 - Chinese name not recorded in the corpus (no 漢名 hits in works/articles); left blank rather than invented.
 - 2026-09-19 語料複核（slice 09180400-6）：grep（Yi-Ting Hsieh，works+articles）命中僅本身出處頁 [[works/taiwaneseamericanhistory-org/musician430|TAH musician #430]]、[[works/taiwaneseamericanhistory-org/whos-who-2141-yi-ting-hsieh|TAH #2141]] 與 works index；無回憶錄或文章提及。SKIP-with-reason：無可吸收新事實，無衝突須 HOLD。
+- 2026-09-20 語料複核（slice 09191100-7）：fresh grep（'Yi-Ting Hsieh'／'Yi-Ting (Christine)'）命中仍僅上述兩出處頁與 works index；無回憶錄或文章提及。SKIP-with-reason：無語料可吸收。
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/yi-ting-hsieh/)
