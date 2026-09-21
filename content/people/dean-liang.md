@@ -40,6 +40,8 @@ _No filled family fields on the TAH profile._
 - Listed among the 19 熱心捐助同鄕 (with 洪宏謨、黃悅源、張燦鍙 and others) who funded 19 copies / US$171 of the first 《全美台灣同鄉通訊錄》, per 陳希寬's recollection of the compilation effort: [[works/taiwaneseamericanhistory-org/ourjourneys58|58. 回憶編印第一本《全美台灣同鄉通訊錄》的甘苦經過 / 陳希寬]].
 - His own TAH Foundation encyclopedia entry is archived in the corpus: [[works/taiwaneseamericanhistory-org/whoswho2206-dean-liang|2206. Dean Liang 梁基典 / 06/2019]].
 
+Corpus re-grep 2026-09-21 (slice 09210051-10): the only works/articles hits — his own TAH entry [[works/taiwaneseamericanhistory-org/whoswho2206-dean-liang|TAH #2206]], memoir [[works/taiwaneseamericanhistory-org/mystories16|mystories16]], the 通訊錄 donation recollection [[works/taiwaneseamericanhistory-org/ourjourneys58|ourjourneys58]], and the 2018 TJJ co-sign letter — are all already linked above; no new community facts to absorb. No conflicts to hold.
+
 ## Sources
 - [TAH #2206 encyclopedia: 2206. Dean Liang 梁基典 / 06/2019](https://taiwaneseamericanhistory.org/whoswho2206-dean-liang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dean-liang/)
