@@ -6,7 +6,7 @@ tags:
   - Taiwanese-American
   - Taiwan-Center-group-member
 verification_status: published
-last_reviewed: 2026-09-20
+last_reviewed: 2026-09-21
 ---
 # Formosan Association for Public Affairs Los Angeles(FAPA-LA)
 
@@ -34,7 +34,8 @@ last_reviewed: 2026-09-20
 - Sister chapter page: [[organizations/fapa-orange-county|FAPA Orange County]].
 - Chapter activity in the taiwanjustice.net community-news corpus: FAPA 洛杉磯分會 co-organized the 2022 第六屆跨族裔「二二八防止政府暴行研討會」with 全美台灣人權協會 (FAHR), with community representatives from Taiwan, Hong Kong, Burma, Thailand, Uyghur, Rohingya, Cuba, Dominican and Puerto Rico ([[articles/taiwanjustice-net/2026/20260211101504_fapa_fahr共同主辦_二二八防止政府暴行線上研討會_3cd01fab6a392130|FAPA、FAHR共同主辦：二二八防止政府暴行線上研討會]]); the chapter is also listed as 主辦單位 for the 2-28 台灣介心靈日 74週年紀念音樂會 in the 大洛杉磯台灣會館 228 series ([[articles/taiwanjustice-net/2026/20260210173508_2021大洛杉磯台灣會館228事件線上追思紀念會與系列活_ac0c255ef64908a5|大洛杉磯台灣會館 228 追思系列活動]]).
 - Coalition footprint in LA: FAPA 洛杉磯分會 jointly hosted 郭建國 at the 大洛杉磯台灣會館 (2018-01-27) with 台獨建國聯盟 (WUFI) 洛杉磯支部, FAHR, and 自由台灣黨美國後援會 ([[articles/taiwanjustice-net/2021/20210210233043_2018_01_23_郭建國1-27在大洛杉磯台灣會館分享發起大旗隊和台_5420bd6332e8fd82|郭建國在大洛杉磯台灣會館分享]]).
-- Corpus re-check (2026-09-20, deepen-x slice 09190445-1, vault-only): grep of works + articles for FAPA-LA/洛杉磯 hits are the LA TAA/TAP/WUFI chapter records plus the taiwanjustice.net items absorbed above; chapter founding date still unknown (HOLD above).
+- Corpus re-check (2026-09-21, deepen-x slice 09201500-1, vault-only): grep of works + articles for FAPA-LA/洛杉磯 hits are the LA TAA/TAP/WUFI chapter records plus the taiwanjustice.net items absorbed above; chapter founding date still unknown (HOLD above).
+- 2021-05 — the chapter's named public presence in the Pew-identity response: 「Ken Wu, FAPA Los Angeles」 appears among the signatories of the community statement 「Response to Pew Research Reports Hiding Taiwanese Identity: We made it count. Now tell our stories.」 ([[works/taiwaneseamerican-org/pew-research-center-taiwanese-american-statement|Pew response statement]], 2021-05) — the chapter's first named-representative record in the corpus after the 2018/2022 event items above.
 
 ## Related Pages
 

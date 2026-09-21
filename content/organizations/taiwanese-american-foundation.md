@@ -6,7 +6,7 @@ tags:
   - Taiwanese-American
   - Taiwan-Center-group-member
 verification_status: published
-last_reviewed: 2026-09-20
+last_reviewed: 2026-09-21
 ---
 # Taiwanese-American Foundation
 
@@ -35,6 +35,9 @@ Regional chapters appear in the record:
 Founding account preserved in the Taiwan Center opening memoir ([[works/taiwaneseamericanhistory-org/ourjourneys29-eng|29. 南加州台灣會館開創的史料]]): **王桂榮 Kenjohn Wang donated US$1,000,000 to establish the Foundation**, which "awards yearly scholarships to extraordinary talents both in the US and overseas"; the Wang family subsequently donated its 20,000+ sq ft Rosemead estate to the Taiwan Center. **李培吾 Li Pei Wu** — also general convener of the Taiwan Center preparatory committee — was elected **Chairman of the Foundation** and worked with Wang on the Taiwan Center (see also [[works/taiwaneseamericanhistory-org/153-kenjohn-wang|153. Kenjohn Wang 王桂榮]]).
 
 Further corpus records:
+
+- [[works/taiwaneseamericanhistory-org/573-taiwanese-american-foundation-2005-2006tafmagazines-e9-9b-9c-e8-aa-8c|573. Taiwanese American Foundation 2005-2006 TAF雜誌]] — magazine run 2005–2006, extending the publication series 1986季刊 → 1995頒獎特刊 → 1999年刊 → 2005–2006.
+- [[works/taiwaneseamericanhistory-org/ourjourneys162-eng|Our Journeys 162 (EN)]] — grand-opening report excerpted from the *San Diego Taiwanese American Foundation and Taiwan Center YAM Quarterly* (Vol. 11, Issue 3, Autumn): remodeling plaques presented to Dr. Ming Wu and Dr. Winston Lue, opening concert by pianist Julie Wong 翁致理 and soprano Irene Lee 李智惠 (Chinese names per the corpus record's subject links) — the San Diego foundation's own quarterly is corpus primary material.
 
 - [[works/taiwaneseamericanhistory-org/taf-summer-conference|7. Taiwanese American Foundation Summer Camp]] (2015-07-16) — family/youth summer camp; filed in that record under the style 台美協進會 / [[organizations/taiwan-american-foundation|Taiwan American Foundation]]
 - [[works/taiwaneseamericanhistory-org/miss-taiwanese-american-foundation|2. Miss Taiwanese American Foundation 台美小姐選拔基金會]] — pageant foundation bearing the name

@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-20
+last_reviewed: 2026-09-21
 ---
 # Taiwanese American Students Club at UIUC
 
@@ -28,6 +28,7 @@ The Taiwanese American Students Club (TASC) at UIUC is a registered student orga
 - Later campus record: 伊大台灣同鄉會鄉訊 "Newsletter of Formosan Student Club at University of Illinois at Champaign – Urbana" (2018-08-02, bibliographic record) — [[works/taiwaneseamericanhistory-org/newsletter-of-formosan-student-club-at-university-of-illinois-at-champaign-urban|Formosan Student Club newsletter]].
 - Related Illinois movement honors: 張倚石博士 Dr. I-Shih Chang, UIUC Dept. of MIE 傑出校友 (1998) — [[works/taiwaneseamericanhistory-org/winners28|TAH winners 28]].
 - HOLD: acronym collision — the corpus also uses "TASC" for 紐約台灣會館老人中心 (Taiwanese American Senior Center, NYC; [[works/taiwaneseamericanhistory-org/ourjourneys316|Our Journeys 316]]) — unrelated to this student club; no conflation.
+- Corpus re-check (2026-09-21, deepen-x slice 09201500-3, vault-only): grep for TASC/UIUC/Formosan Student Club returns the work pages already linked above plus [[works/taiwaneseamericanhistory-org/ourjourneys81|Our Journeys #81]] (周烒明 memoir) — its "Formosan Student Club" is the 1963 **University of Wisconsin** registration (UW Formosan Student Club 威大台灣同學會, the 利騰俊 Student Senate debate), a different campus; its 伊利諾 mentions are only 陳清池's letter and a 自由長征 stop, not this club. Nothing new absorbable; verify-saturated.
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-american-students-club-at-uiuc/)
