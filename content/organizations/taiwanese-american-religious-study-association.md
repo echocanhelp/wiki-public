@@ -6,7 +6,7 @@ tags:
   - Taiwanese-American
   - Taiwan-Center-group-member
 verification_status: published
-last_reviewed: 2026-09-20
+last_reviewed: 2026-09-21
 ---
 # Taiwanese American Religious Study Association
 
@@ -30,6 +30,8 @@ last_reviewed: 2026-09-20
 - 2020-05-04 — video documentation of talks and activities: [[works/taiwaneseamericanhistory-org/videos161|161. Videos of TARSA-SC]]
 
 The continuous 2014–2020 deposit trail shows an active lecture/publication program, not a dormant listing. See also [[organizations/taiwanese-american-religious-study-association-southern-california-tarsa-sc|TARSA-SC]].
+
+*Re-grep 2026-09-21: corpus hits (records 831/832/833/834, 923/924, the TARSA-SC org record) are all already linked above; the 923 title confirms the 2015 name transition to 台美人信仰與人文研習會 already recorded here. No new absorbable material.*
 
 ## Source Notes
 

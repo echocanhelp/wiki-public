@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-20
+last_reviewed: 2026-09-21
 ---
 # Rev. Martin C. Wang (王成章牧師)
 
@@ -44,6 +44,7 @@ last_reviewed: 2026-09-20
 - HOLD: conflict on birth year — Identity Snapshot era 1953 vs #392 interview 1935, born in Yilan to a Christian family (grandfather 王春生傳道師, a student of Dr. Mackay; father 王兼優, elder of Yilan Church).
 - HOLD: conflict on undergraduate college — page lists 台灣神學院 B.Th vs #392 says 台南神學院 after 宜蘭高中.
 - HOLD: M.Th year — page lists Union Theological Seminary in Virginia 1964 vs #392 says he left for the US in 1964 and earned the degree three years later (~1967).
+- Re-grep 2026-09-21: corpus hits (#392 interview, #338 張啟典, #268 徐頌鵬, #43 劉照男, #1429 Who's Who) are all already absorbed above. #338 adds color to the 1977 Brown University assembly where Wang preached: 張啟典 records a suspected 國民黨 spy (flat haircut, mainland accent, fake NY phone number) disrupting that year's assembly, and the 1977 program mixed pastors (吳明雄、鄭義勇、郭榮敏、王成章、林興隆) with speakers 陳錦芳、洪哲勝、李豐明, plus a 張金策 human-rights report — [[works/taiwaneseamericanhistory-org/ourjourneys338|#338]]. HOLDs above remain unresolved.
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/rev-martin-c-wang/)
