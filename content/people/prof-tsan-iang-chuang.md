@@ -61,3 +61,4 @@ Also recorded in TAH's own encyclopedia entry: [[works/taiwaneseamericanhistory-
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 Re-grep (slice 09181500-5, 2026-09-20): hit set unchanged (#152, #2153, index); #152 narrative fully absorbed above. SKIP-no-new-material.
+複核（deepen-x slice 09201300-5, 2026-09-21）：re-grep 命中集不變（#152、#2153、index）；#152 記述已全數吸收 — SKIP-with-reason：語料已飽和。
