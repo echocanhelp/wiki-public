@@ -36,6 +36,10 @@ last_reviewed: 2026-09-21
 - **Son:** Calvin
 
 
+## Role in the Community
+- Recorded in the TAH Foundation encyclopedia: [[works/taiwaneseamericanhistory-org/whoswho1500|1500. Shan-Tai Yeh]], published 2017-02-05 (band B — community historical record).
+- Practice-based community profile: Yeh & Associates (President / Chief Engineering Geologist, from 1999), civil engineering training at 中央大學 and Colorado University.
+
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/shan-tai-yeh/)
 

@@ -35,6 +35,9 @@ last_reviewed: 2026-09-21
 - **Mother:** Chiu-Hsiang Chen
 
 
+## Role in the Community
+- 2015-03-13 — appears in the TAH story corpus: [[works/taiwaneseamericanhistory-org/325-ken-chen201503|325. KEN CHEN (2015/03)]], a bibliographic record (band B) in the taiwaneseamericanhistory.org story corpus. Full text remains in the vault; no biographical detail beyond the directory entry is derivable from the corpus.
+
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/ken-chen/)
 

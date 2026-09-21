@@ -30,6 +30,10 @@ last_reviewed: 2026-09-21
 - **Wife:** 怡靜
 
 
+## Role in the Community
+- Long service at 紐約台灣會館 as maintenance staff, 2001–2016 — sustained the physical hub of the NY Taiwanese American community.
+- Recorded in the TAH Foundation encyclopedia: [[works/taiwaneseamericanhistory-org/whoswho1377|1377. M. J. Wang 王明皆]], published 2016-11-06 (band B — community historical record).
+
 ## Sources
 - [TAH #1377 encyclopedia: 1377. M. J. Wang 王明皆 / 2016/11](https://taiwaneseamericanhistory.org/whoswho1377/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/m-j-wang/)

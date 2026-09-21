@@ -30,6 +30,10 @@ last_reviewed: 2026-09-21
 - **Wife:** [[people/josephine-lu||沈雲冰]]
 
 
+## Role in the Community
+- Recorded in the TAH Foundation encyclopedia: [[works/taiwaneseamericanhistory-org/whoswho1142|1142. J. C. Lu 盧健治]], published 2016-07-14 (band B — community historical record).
+- Pharmacy training at 高雄醫學院 (B.S. 藥劑); spouse [[people/josephine-lu||沈雲冰]] also carried in the community record.
+
 ## Sources
 - [TAH #1142 encyclopedia: 1142. J. C. Lu 盧健治 / 2016/07](https://taiwaneseamericanhistory.org/whoswho1142/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/j-c-lu/)

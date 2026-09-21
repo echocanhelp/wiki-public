@@ -30,6 +30,10 @@ last_reviewed: 2026-09-21
 - **Husband:** 方仁楠
 
 
+## Role in the Community
+- Recorded in the TAH Foundation encyclopedia: [[works/taiwaneseamericanhistory-org/whoswho968|968. Jennifer Fan 方碧霞]], published 2016-05-01 (band B — community historical record).
+- Community record names 太平洋貸款公司 as her place of work (present); family: husband 方仁楠.
+
 ## Sources
 - [TAH #968 encyclopedia: 968. Jennifer Fan 方碧霞 / 2016/05](https://taiwaneseamericanhistory.org/whoswho968/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/jennifer-fan/)
