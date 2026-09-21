@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-20
+last_reviewed: 2026-09-21
 ---
 # Dr. Jheng Yan (嚴正博士)
 
@@ -37,6 +37,7 @@ _No filled family fields on the TAH profile._
 
 ## Role in the Community
 His own TAH encyclopedia entry is held in the vault at [[works/taiwaneseamericanhistory-org/whos-who-2317-jheng-yan|2317. Dr. Jheng Yan 嚴正博士 (TAH Who's Who, 2021-02-22)]], documenting his participation in the driving plans of NASA's Spirit, Opportunity, and Curiosity rover missions — a standout JPL record in the Taiwanese American scientific cohort. The corpus also holds his own first-person account: [[works/taiwaneseamericanhistory-org/my-stories-786|786. NASA科學家嚴正：每天克服挑戰才有滿足感 (02/2021)]] — his telling of the JPL work, filed in the My Stories memoir series. The other corpus hits are false positives: the「中正」Jhong Jheng Sports Center in [[works/taiwaneseamerican-org/summer-language-camps-in-taiwan-five-firsthand-accounts-2|Summer language camps in Taiwan]], and the phrase 嚴正聲明/嚴正的抗議 (adjective "solemn") in [[works/taiwaneseamericanhistory-org/ourjourneys317|Our Journeys #317]] and [[works/taiwaneseamericanhistory-org/ourjourneys205|Our Journeys #205]] — not this person.
+- Corpus re-grep 2026-09-21 (slice 09201500-17): hit set unchanged — own TAH #2317 record, own My Stories #786 memoir, plus「中正」/嚴正聲明 false positives already annotated above; no new memoir material absorbable. SKIP: page saturated.
 
 ## Sources
 - [TAH #2317 encyclopedia: 2317. Dr. Jheng Yan 嚴正博士](https://taiwaneseamericanhistory.org/whos-who-2317-jheng-yan/)

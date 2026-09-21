@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-20
+last_reviewed: 2026-09-21
 ---
 # North America Taiwanese Women’s Association – St. Louis Chapter (北美洲台灣婦女會聖路易分會)
 
@@ -27,6 +27,8 @@ The chapter's own activities are documented first-hand in the TAH story corpus (
 - 2015-12-28 — served a Christmas dinner (聖誕晚餐) at HavenHouse, a St. Louis shelter for homeless mothers and children — [[works/taiwaneseamericanhistory-org/natwa-serves-havenhouse|北美洲台灣婦女會聖路易分會 Serves HavenHouse 聖誕晚餐]]
 
 Context note: St. Louis's older Taiwanese professional organizing (NATMA's St. Louis chapter, per the 周烒明 memoir) predates this women's chapter; the NATWA chapter continues that civic tradition focused on service and cultural presence.
+
+Corpus re-grep 2026-09-21: additional NATWA-wide records only (1992 聯誼通訊第七期, the 2017 Hurricane Harvey relief co-donation of $21,090, other chapters' profiles) — organization-level, not St. Louis chapter first-hand material. No new chapter-specific material; SKIP deepening.
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/north-america-taiwanese-womens-association-st-louis-chapter/)

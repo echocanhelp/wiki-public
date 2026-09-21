@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-20
+last_reviewed: 2026-09-21
 ---
 # Chiu-Ling Lin (林巧琳)
 
@@ -38,6 +38,7 @@ _No filled family fields on the TAH profile._
 ## Role in the Community
 - Held in the TAH Foundation encyclopedia both as a musician entry and as a Who's Who entry, documenting an internationally active concert pianist in the Taiwanese American community record: [[works/taiwaneseamericanhistory-org/musician364|TAH #364: Chiu-Ling Lin 林巧琳, Pianist]] and [[works/taiwaneseamericanhistory-org/whoswho1286|TAH #1286: Chiu-Ling Lin 林巧琳]] (both published 2016-09-22).
 - Corpus material corroborates the press-kit biography (world performer; critic quotes preserved in the TAH profile); no additional memoir/community records found in works/ or articles/. Re-verified 2026-09-20: re-grep hit set unchanged (musician364, whoswho1286) — page saturated.
+- Corpus re-grep 2026-09-21 (slice 09201500-17): hit set unchanged (musician364, whoswho1286 + index) — SKIP, page saturated.
 
 ### Timeline
 - 2016-09-22 — profiled in the TAH Foundation encyclopedia (musician #364 and Who's Who #1286)

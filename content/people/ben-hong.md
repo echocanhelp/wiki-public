@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-18
+last_reviewed: 2026-09-21
 ---
 # Ben Hong (洪本倫)
 
@@ -37,6 +37,7 @@ _No filled family fields on the TAH profile._
 ## Role in the Community
 The movement record holds two TAH encyclopedia entries on him — [[works/taiwaneseamericanhistory-org/609-ben-hong-e6-b4-aa-e6-9c-ac-e5-80-ab-201510|683. Ben Hong 洪本倫 / 2015-10-31]] and [[works/taiwaneseamericanhistory-org/309-ben-hong-e6-b4-aa-e6-9c-ac-e5-80-ab-cellist-201510|309. Ben Hong 洪本倫, Cellist / 2015-10-31]] — both held as bibliographic records only, so no further community detail is absorbable from the corpus. His corpus footprint is confined to these profiles: no memoir, letter, or event mention of 洪本倫 appears elsewhere in the works/articles corpus.
 - Re-verified 2026-09-16, 2026-09-18 and 2026-09-20: corpus re-grep (works/articles) matches only the two TAH entries above plus index listings — no memoir, letter, or event mention surfaced. SKIP: no new material absorbable.
+- Re-verified 2026-09-21 (slice 09201500-17): re-grep matches only the same two TAH entries plus index — SKIP, no new absorbable material.
 
 ## Sources
 - [TAH #309 encyclopedia: 309. Ben Hong 洪本倫, Cellist  / 2015/10](https://taiwaneseamericanhistory.org/309-ben-hong-%e6%b4%aa%e6%9c%ac%e5%80%ab-cellist-201510/)
