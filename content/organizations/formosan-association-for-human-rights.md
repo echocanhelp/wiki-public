@@ -6,7 +6,7 @@ tags:
   - Taiwanese-American
   - Taiwan-Center-group-member
 verification_status: published
-last_reviewed: 2026-09-20
+last_reviewed: 2026-09-21
 ---
 # Formosan Association for Human Rights
 
@@ -27,6 +27,8 @@ last_reviewed: 2026-09-20
 - **Bay Area branch (灣區人權會):** because the cultural group 協志會 could not headline political assemblies, Bay Area activists formed a 灣區人權會 so demonstrations could run under a human-rights name. In Feb 1977 the 人權會 sponsored the first Taiwanese-American demonstration in San Francisco (protesting the shutdown of 《臺灣政論》 and the 白雅燦 case); for nearly two decades afterwards — most intensely around the 美麗島事件 — rallies in the Bay Area were held under the 人權會 banner, largely organised by 協志會 cadres. Source memoir: [[works/taiwaneseamericanhistory-org/our-journeys-357|357. 舊金山灣區臺灣人的社團活動與家國意識之形成 (何義麟)]].
 - **Publications:** 人權通訊, published by Formosan Association for Human Rights 全美台灣人權協會, era 2017 — [[works/taiwaneseamericanhistory-org/newsletter-fahr|人權通訊]].
 - **Anniversary record:** 40th anniversary celebration in Rosemead, CA on 2016-12-10 — [[works/taiwaneseamericanhistory-org/important2016-33|33. 40th Anniversary of FAHR in Rosemead, CA]].
+- **Chen Wen-cheng fund (許永華's memoir):** on 1976-08-12 the first public fund-drive issued under the name 「陳文成敎授紀念基金會」 was launched through the 台灣人權協會 chapters in 匹茲堡 (Pittsburgh), 安雅堡 (Ann Arbor), 蘭莘 (Lansing) and 底特律 (Detroit), answering dispersed Taiwanese demands to support the Chen Wen-cheng family; the appeal ran in the 世台會 journal 「台灣通訊」 and was reprinted in 美麗島週刊 and 台灣公論報, with all proceeds earmarked for the living and education costs of 陳文成's wife 陳素貞 and their young son — [[works/taiwaneseamericanhistory-org/ourjourneys321|321. 由陳文成紀念基金會的創立談起 (許永華, 2017-11)]].
+- **Publication record:** 新聞通訊 by 台灣人權協會, era 2017 — [[works/taiwaneseamericanhistory-org/news-fahr|新聞通訊]]; 張丁蘭's founding account also exists in English — [[works/taiwaneseamericanhistory-org/ourjourneys75-eng|75 (EN)]].
 - **Chapter record:** 南加州台灣人權協會 (FAHR S. California), era 2014 — [[works/taiwaneseamericanhistory-org/formosan-association-for-human-rights-s-california|3. FAHR (S. California) 南加州台灣人權協會]]; Michigan chapter listed at [[works/taiwaneseamericanhistory-org/michigan-taiwanese-association-for-human-rights|Michigan Taiwanese Association for Human Rights]].
 
 ## From the record
