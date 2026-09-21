@@ -20,7 +20,7 @@ The AJ Wang Foundation is a 501(c)(3) non-profit organization established in Nov
 
 ## Role in the Community
 - Corpus records held for the Foundation: [[works/taiwaneseamericanhistory-org/aj-wang-foundation-scholarship-fund|13. AJ WANG FOUNDATION – SCHOLARSHIP FUND]] and [[works/taiwaneseamericanhistory-org/90-aj-wang-foundation-scholarship-fund-aj-wang|90. AJ Wang Foundation Scholarship Fund (AJ Wang基金會獎學金, 2019-03-05)]] — the latter confirms the Chinese name 「AJ Wang基金會獎學金」 absent from the directory snapshot.
-- Situated in the corpus alongside the broader [[works/taiwaneseamericanhistory-org/taiwanese-american-scholarship-fund|Taiwanese American Scholarship Fund]] record, i.e. part of the community scholarship ecosystem; no biographical detail on the founder(s) is present in the corpus (HOLD: founder identity not recorded).
+- Situated in the corpus alongside the broader [[works/taiwaneseamericanhistory-org/taiwanese-american-scholarship-fund|Taiwanese American Scholarship Fund]] record, i.e. part of the community scholarship ecosystem; no biographical detail on the founder(s) is present in the corpus (HOLD: founder identity not recorded). Corpus re-grep 2026-09-21 (slice 09201500-32): hits are only the two own-records plus the works index — verified saturated.
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/aj-wang-foundation-scholarship-fund/)

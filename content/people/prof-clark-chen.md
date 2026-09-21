@@ -50,3 +50,7 @@ _No filled family fields on the TAH profile._
 ## Deepen-x note (2026-09-20, slice 09190300-10)
 
 - SKIP-deepen: corpus re-grep for 陳經宗 / Clark Chen returns only the works index row and this page's own bibliographic record ([[works/taiwaneseamericanhistory-org/whos-who-1883-clark-chen|TAH #1883]]); no memoir/community material to absorb beyond the TAH press-kit profile already reflected.
+
+## Deepen-x note (2026-09-21, slice 09201503-5)
+
+- Re-grep for 陳經宗 / Clark Chen (after slice 09190300-10 note above) returns only the own-record [[works/taiwaneseamericanhistory-org/whos-who-1883-clark-chen|TAH #1883]] and the works index. No community material; SKIP.

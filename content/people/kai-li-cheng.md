@@ -32,7 +32,7 @@ Praised by World Journal, Minneapolis, for her “mature technique, a full range
 <!-- tah-tables:end -->
 
 ## Role in the Community
-Two 2017 TAH records document Cheng in the community archive: [[works/taiwaneseamericanhistory-org/whoswho1451|1451. Kai-Li Cheng 鄭凱莉]] (Who's Who, published 2017-01-10) and [[works/taiwaneseamericanhistory-org/musician380|380. Kai-Li Cheng 鄭凱莉, Cellinist]] (published 2017-01-10). HOLD: conflict in instrument — the musician380 record titles her a cellist while this page's press-kit biography describes violin performance (violin sonata repertoire, orchestral playing); not auto-merged. Corpus re-grep 2026-09-20: no memoir mentions of 鄭凱莉 / Kai-Li Cheng beyond these two own-records — nothing further absorbable.
+Two 2017 TAH records document Cheng in the community archive: [[works/taiwaneseamericanhistory-org/whoswho1451|1451. Kai-Li Cheng 鄭凱莉]] (Who's Who, published 2017-01-10) and [[works/taiwaneseamericanhistory-org/musician380|380. Kai-Li Cheng 鄭凱莉, Cellinist]] (published 2017-01-10). HOLD: conflict in instrument — the musician380 record titles her a cellist while this page's press-kit biography describes violin performance (violin sonata repertoire, orchestral playing); not auto-merged. Corpus re-grep 2026-09-20: no memoir mentions of 鄭凱莉 / Kai-Li Cheng beyond these two own-records — nothing further absorbable. Re-grep 2026-09-21 (slice 09201500-32): hit set unchanged (whoswho1451, musician380, works index) — verified saturated; instrument HOLD (cellist title vs violin biography) stands.
 
 ## Family
 

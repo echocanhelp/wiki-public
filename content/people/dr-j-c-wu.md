@@ -48,3 +48,7 @@ last_reviewed: 2026-09-21
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+## Deepen-x note (2026-09-21, slice 09201503-5)
+
+- Verified-saturated: re-grep for 巫建嶔 / J. C. Wu returns only the own-record [[works/taiwaneseamericanhistory-org/whos-who-1879-j-c-wu|TAH #1879]] and the works index. No memoir mentions; SKIP.

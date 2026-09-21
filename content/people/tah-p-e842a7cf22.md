@@ -49,3 +49,7 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+## Deepen-x note (2026-09-21, slice 09201503-5)
+
+- Verified-saturated: re-grep of content/works + content/articles for 楊金文 returns only the own TAH #754 record, [[works/taiwaneseamericanhistory-org/ourjourneys155|OurJourneys 155]] (2007美南夏令會 台美人檔案座談會 — already absorbed above), and the works index. No new community material.
