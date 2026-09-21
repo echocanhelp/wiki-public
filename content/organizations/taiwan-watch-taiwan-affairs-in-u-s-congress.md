@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-19
+last_reviewed: 2026-09-21
 ---
 # Taiwan Watch – Taiwan Affairs in U. S. Congress (美國國會台灣觀測站)
 
