@@ -46,6 +46,7 @@ last_reviewed: 2026-09-21
 - Former president of 台灣人聯合基金會: served as 與談人 at the 第166回世界台灣文化論壇 (see From the record).
 - 2021: co-initiator (共同發起人) of the 南加州僑界 joint statement supporting Taiwan's participation in the WHO World Health Assembly ([[articles/taiwanjustice-net/2021/20210616072940_2021_05_17_2021年南加州僑界支持台灣參與世界衛生大會wha聯合聲_b1d58af16c0a5e5b|TJJ, 2021-05-17]]).
 - Her Who's Who life story is held as its own record: [[works/taiwaneseamericanhistory-org/701-ing-hui-lai-e8-b3-b4-e8-8b-b1-e6-85-a7-201511|701. Ing-Hui Lai 賴英慧 / 2015/11]].
+- Corpus re-grep (deepen-x 2026-09-21): hit set unchanged — works/articles hits remain TAH #701 (own record), Our Journeys #301 (TUF memoir), and the three taiwanjustice.net articles already cited above; zero new absorbable material. Verified saturated.
 
 ## Sources
 - [TAH #701 encyclopedia: 701. Ing-Hui Lai 賴英慧 / 2015/11](https://taiwaneseamericanhistory.org/701-ing-hui-lai-%e8%b3%b4%e8%8b%b1%e6%85%a7-201511/)

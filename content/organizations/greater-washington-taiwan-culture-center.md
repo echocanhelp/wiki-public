@@ -27,6 +27,8 @@ The Greater Washington Taiwan Culture Center (TCC) is a non-profit 501(c)(3) org
 
 HOLD: "台灣之夜" is an ambiguous event name in the corpus — the center's Rockville concert series (above) is distinct from the 台灣人夏令會 evening gala of the same name recorded in [[works/taiwaneseamericanhistory-org/ourjourneys318|318. 漫談美南台灣人夏令會的濫觴]] and [[works/taiwaneseamericanhistory-org/ourjourneys265|265. 2011年美西夏令會的回顧]]. Not conflated.
 
+複核（deepen-x 2026-09-21）：corpus re-grep（華府台灣文化中心 / Taiwan Culture Center, works+articles）命中集合與頁面已連結之 work 頁完全相同（concerts5、364/363/362 历年programme、publications1222、ourjourneys303、video-188），全數已吸收 — 飽和，無新增社群材料。
+
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/greater-washington-taiwan-culture-center/)
 

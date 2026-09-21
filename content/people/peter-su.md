@@ -48,6 +48,8 @@ last_reviewed: 2026-09-21
 - 1969年夏，與洪哲勝、林銘德、梁文盛、林資深、洪博學等六位留學生在 Colorado State University 共同策劃發行一份小通訊——即後來風靡全美、1973年正式成為全美台灣同鄉會刊物的《望春風》月刊（1980-12-15 第136期完成階段性使命停刊） — [[works/taiwaneseamericanhistory-org/ourjourneys307|TAH Our Journeys #307: 休士頓地區的台美人及團體發行的刊物簡介 / 莊承業]]。
 - 2021-05 南加州僑界支持台灣參與WHA/WHO聯合聲明共同發起人之一（見下方 From the record）。
 
+複核（deepen-x 2026-09-21）：corpus re-grep（蘇國雄 / Peter Su, works+articles）命中集合與頁面已連結之 work 頁完全相同（ourjourneys244/186/186-eng/283/307、whoswho1029、TJJ WHA聲明），全數已吸收 — 飽和，無新增社群材料。
+
 ## Sources
 - [TAH #1029 encyclopedia: 1029. Peter Su 蘇國雄 / 2016/05](https://taiwaneseamericanhistory.org/whoswho1029/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/peter-su/)
