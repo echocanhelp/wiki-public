@@ -37,6 +37,8 @@ last_reviewed: 2026-09-21
 - FAPA 同工昆布劳回顾廿七年经历的九位 FAPA 会长中包括陈文彥，评会长任内牺牲周末假期为台湾奔波。见 [[works/taiwaneseamericanhistory-org/ourjourneys228|Our Journeys #228]]。
 - 另有个人回忆录条目：[[works/taiwaneseamericanhistory-org/372-e9-99-b3-e6-96-87-e5-bd-a5-201504|372. Wen Yen Chen 陳文彥 /2015/04]]。
 
+_Corpus re-scan 2026-09-21: same hits (#47, #235, #123/eng, #228, memoir #372) already absorbed; #47 confirms 陳文彥 was NATPA 第九屆會長 succeeded by 蔡嘉寅 (第十屆), and names the 1989 华府筹备会 attendees 賴義雄、蔡嘉寅、胡勝正、吳漢南、賴淳彥、李賢淇、林靜竹 — context already reflected above._
+
 ## Family
 
 - **Wife:** [[people/chihmei-lin-chen||林智美]]
