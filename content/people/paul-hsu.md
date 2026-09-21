@@ -37,6 +37,9 @@ last_reviewed: 2026-09-21
 
 _No filled family fields on the TAH profile._
 
+## Work log
+- SKIP (deepen-x slice 09202214-32, 2026-09-21): re-grepped 徐紹欽 / Paul Hsu against content/works + content/articles — hit set unchanged (own record whoswho1320 + index only). No memoir/community material beyond the profile record already cited; page saturated.
+
 ## Sources
 - [TAH #1320 encyclopedia: 1320. Paul Hsu 徐紹欽 / 2016/10](https://taiwaneseamericanhistory.org/whoswho1320/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/paul-hsu/)
