@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-21
 ---
 # Eric Lee (李英毅)
 
@@ -30,11 +30,18 @@ last_reviewed: 2026-08-17
 - GM/EDS
 <!-- tah-tables:end -->
 
+## Role in the Community
+
+From 台灣高雄旗山 (era 1956); B.S. 化工 台灣大學, M.S. Computer Tech. New Mexico Tech; senior computer engineer at Cingular Wireless, also GM/EDS; engineer and journalist.
+
+Corpus sweep (2026-09-21): the only hits in content/works / content/articles are the own Who's Who record [[works/taiwaneseamericanhistory-org/whoswho1515|TAH #1515 Eric Lee 李英毅]] (bibliographic stub; full text stays in the vault) and the index. No memoir, article, or community-activity mention found — nothing further absorbable.
+
 ## Family
 
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [[works/taiwaneseamericanhistory-org/whoswho1515|TAH #1515 Eric Lee 李英毅]] — mentioned in this record
 - [TAH #1515 encyclopedia: 1515. Eric Lee 李英毅 / 2017/02](https://taiwaneseamericanhistory.org/whoswho1515/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/eric-lee/)
 

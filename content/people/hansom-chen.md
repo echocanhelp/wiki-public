@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-21
 ---
 # Hansom Chen (陳翰申)
 
@@ -32,11 +32,18 @@ last_reviewed: 2026-08-17
 - Leaf Your Life
 <!-- tah-tables:end -->
 
+## Role in the Community
+
+Entrepreneur; B.S. 建築系 淡江大學 (2011), M.S. Rhode Island School of Design; worked at IBM Watson, R/GA, DigitasLBi, Leaf Your Life.
+
+Corpus sweep (2026-09-21): the only hits in content/works / content/articles are the own Who's Who record [[works/taiwaneseamericanhistory-org/whoswho1547|TAH #1547 Hansom Chen 陳翰申]] (bibliographic stub; full text stays in the vault) and the index. No memoir, article, or community-activity mention found — nothing further absorbable.
+
 ## Family
 
 _No filled family fields on the TAH profile._
 
 ## Sources
+- [[works/taiwaneseamericanhistory-org/whoswho1547|TAH #1547 Hansom Chen 陳翰申]] — mentioned in this record
 - [TAH #1547 encyclopedia: 1547. Hansom Chen 陳翰申 / 2017/03](https://taiwaneseamericanhistory.org/whoswho1547/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/hansom-chen/)
 
