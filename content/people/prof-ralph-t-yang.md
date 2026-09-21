@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: reviewed
-last_reviewed: 2026-09-20
+last_reviewed: 2026-09-21
 ---
 # Prof. Ralph T. Yang (楊祖保教授)
 
