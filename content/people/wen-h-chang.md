@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-20
+last_reviewed: 2026-09-21
 ---
 # Wen. H. Chang (張文旭)
 
@@ -36,6 +36,7 @@ Our own memoir corpus records 張文旭 as a founding pillar of the Taiwanese Am
 - **新教會發展委員會 (1999)** — when the presbytery formed the New Church Development Committee (chaired by Rev. Fletcher, members including David Luck, Ray Olson, 蔡清波牧師, 張文旭, 李梓義, 周恩輝, 劉照男) to draft church bylaws, call a pastor, and secure a five-year development grant from the PCSA, he served as a committee member acting in lieu of a session.
 - **Whole-family commitment** — the founding memoir notes 張文旭 attended every meeting, with his whole family participating, through heat and cold, until the church was granted independence in December 2005. Presbytery general secretary Joyce Emery praised the Taiwanese Americans' unity and sacrifice: "Korean churches should learn from you." ([[works/taiwaneseamericanhistory-org/ourjourneys43|Our Journeys #43: 聖恩長老敎會設敎經過 / 劉照男 / 2014-10]])
 - His own encyclopedia profile is preserved in the corpus as [[works/taiwaneseamericanhistory-org/whos-wen-h-chang|TAH #1643: Wen. H. Chang 張文旭 / 2017-05]].
+- 2026-09-21 re-check: corpus greps for 張文旭 / Wen. H. Chang hit only [[works/taiwaneseamericanhistory-org/ourjourneys43|Our Journeys #43]] and his own TAH #1643 record — all facts above already absorbed; no new material.
 
 ## Family
 

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-20
+last_reviewed: 2026-09-21
 ---
 # Ting-An Lin (林庭安)
 
@@ -47,3 +47,4 @@ _No filled family fields on the TAH profile._
 
 ## Corpus check (2026-09-18, re-verified 2026-09-20)
 - SKIP: no absorbable community facts. Only corpus hit is 司法院釋字第791號（通姦除罪）一文中的「聲請人六 林庭安」— plain-text note in that article already flags it as an unconfirmed name-only match, not linked.
+- Re-verified 2026-09-21: the 釋字第791號 petitioner record (from [[articles/taiwanjustice-net/2025/20250518224919_通姦除罪_通姦罪違憲失效-司法院釋字第791號解釋_24272103f945bf93|the archived interpretation text]]) shows 聲請人六 was charged with 相姦, acquitted at 高雄地院 106年度易字第855號, reversed to guilty on appeal (高雄分院 107年度上易字第427號), and had his final appeal dismissed at 最高法院 108年度台上字第2772號. Still no evidence connecting him to the TANG/OTD advocate — name-only, not linked, HOLD.
