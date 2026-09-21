@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-20
+last_reviewed: 2026-09-21
 ---
 # Taiwanese Association of South Florida (南佛州台灣同鄉會)
 
@@ -21,6 +21,7 @@ The Taiwanese Association of South Florida (南佛州台灣同鄉會) is a regio
 ## Role in the Community
 
 - **Chapter's own record:** the TAH corpus holds the chapter's newsletter record — [[works/taiwaneseamericanhistory-org/newsletter-by-taiwanese-association-of-america-south-florida-chapter|Taiwanese Association of South Florida Chapter 南佛州台灣同鄉會 (newsletter), 2017-01-05]].
+- **Chapter history and directory records:** the corpus also holds a dedicated chapter history — [[works/taiwaneseamericanhistory-org/55-brief-history-of-taa-south-florida-chapter|55. Brief history of TAA/South Florida Chapter, 2019-03-14]] — and the chapter's directory entry [[works/taiwaneseamericanhistory-org/south-florida-chapter-taa|South Florida Chapter / TAA 全美台灣同鄉會南佛州分會, 2015-11-04]].
 - **Civic recognition activity:** in 2018 the chapter honored Congresswoman Ileana — the record is held at [[works/taiwaneseamericanhistory-org/honor-congresswoman-ileana|Honor Congresswoman Ileana – TAA South Florida]] (2018-10-02).
 - **Regional community institutions:** the South Florida Taiwanese community around the chapter includes [[works/taiwaneseamericanhistory-org/evangelical-formosan-church-of-south-florida|Evangelical Formosan Church of South Florida 聖光台福基督教會]] (record, 2016).
 - **Community history:** the chapter's region is documented from the early 1970s wave of Taiwanese students and community organizing in [[works/taiwaneseamericanhistory-org/345-taiwanese-american-in-south-florida-in-early-period-1970s|345. Taiwanese American in South Florida in Early Period 1970's]].

@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-20
+last_reviewed: 2026-09-21
 ---
 # Taiwanese American Lawyers Association TALA (台美律師協會)
 
@@ -21,7 +21,7 @@ The Taiwanese American Lawyers Association (TALA) is a community-service based l
 ## Role in the Community
 - Founding and first presidency (1994): [[people/mao-ching-david-huang|Mao-ching (David) Huang 黃茂清]] — documented in the TAH photo record [[works/taiwaneseamericanhistory-org/ff318|318. Mao-ching (David) Huang / First President of TALA / 1994]].
 - Community-activity record: the 2019 TAH story [[works/taiwaneseamericanhistory-org/activities-of-taiwanese-american-lawyers-association|台美律師協會的活動]] documents TALA's community activities.
-- Taiwan Center Foundation: corpus records state that TALA lawyers drafted the charter for the tax-exempt Taiwan Center Foundation, which would hold sovereignty over the Taiwan Center and steer its development — positioning TALA as legal backbone for the Taiwan Center project.
+- Taiwan Center Foundation: corpus records state that TALA lawyers drafted the charter for the tax-exempt Taiwan Center Foundation, which would hold sovereignty over the Taiwan Center and steer its development — positioning TALA as legal backbone for the Taiwan Center project. Per the same record ([[works/taiwaneseamericanhistory-org/activities-of-taiwanese-american-lawyers-association|台美律師協會的活動]], 2019), the foundation was to serve as a coordination center for Taiwan community groups and an activity venue for the community; TALA ran a founding-member (創會會員) drive with donations from US$1,000 up to US$100,000 per person, installments allowed, equal rights and duties per member, alongside patron firms (贊助公司行號) and volunteer roles.
 - Named members appearing in the TALA directory record [[works/taiwaneseamericanhistory-org/taiwanese-american-lawyers-association|Taiwanese American Lawyers Association]]: [[people/san-john-huang|San John Huang]], [[people/simon-lin|Simon Lin]].
 - Also profiled in the community journeys anthology [[works/taiwaneseamericanhistory-org/ourjourneys29-eng|Our Journeys 29 (EN)]] and its Chinese counterpart [[works/taiwaneseamericanhistory-org/ourjourneys29|Our Journeys 29 中文版]]; the directory/bibliographic record itself is [[works/taiwaneseamericanhistory-org/taiwanese-american-lawyers-association|1. Taiwanese American Lawyers Association (TALA) 台美律師協會]].
 - NOTE: a parallel page [[organizations/taiwanese-american-lawyers-association]] covers the same organization; HOLD: two directory entries not yet merged.
