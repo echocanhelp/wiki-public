@@ -65,3 +65,5 @@ BVM (Bachelor of Veterinary Medicine)
 - 2021-11-22 — 弔文登上台灣公義報「北美洲台灣人教授協會」標籤頁（同頁並列 2020-02-26 NATPA 武漢肺炎聲明、2020-04-13 TAPA/NATMA/NATPA 致 WHO 聯合公開信）（[[articles/taiwanjustice-net/2025/20250914125309_tag_北美洲台灣人教授協會_912bedafc3ae02b4|TJJ NATPA tag, 存檔 2025-09-14]]）。
 
 複核（deepen-x slice 09181500-6, 2026-09-20）：corpus re-grep 命中 OJ 277、287、242、205、自身 TAH #1609 條目與 index — 全部已吸收於上方 Role in the Community／Family／From the record 各節，無新增社群材料，SKIP-with-reason：語料已飽和。
+
+再核（deepen-x slice 09201400-1, 2026-09-21）：re-grep 命中集與前次相同（OJ 277/287/242/205、自身條目、index）— 無新增材料，維持飽和判定。
