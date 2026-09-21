@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-20
+last_reviewed: 2026-09-21
 ---
 # Matthew Lin (林元清博士)
 
@@ -30,7 +30,7 @@ last_reviewed: 2026-09-20
 <!-- tah-tables:end -->
 
 ## Role in the Community
-- Profiled in the TA.org story corpus (band B, community historical record): [[works/taiwaneseamericanhistory-org/467-matthew-lin-e6-9e-97-e5-85-83-e6-b8-85-201506|467. Matthew Lin 林元清 / 2015/06]] (published 2015-06-28).
+- Profiled in the TA.org story corpus (band B, community historical record): [[works/taiwaneseamericanhistory-org/467-matthew-lin-e6-9e-97-e5-85-83-e6-b8-85-201506|467. Matthew Lin 林元清 / 2015/06]] (published 2015-06-28). Re-verified 2026-09-21: fresh ZH+EN sweep, no new corpus material.
 - No narrative memoir text in the corpus beyond this bibliographic record; full text stays in the vault.
 
 ## Family
