@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-20
+last_reviewed: 2026-09-21
 ---
 # Victor Hung (洪家棟)
 
@@ -44,7 +44,7 @@ Victor Hung is active in the Los Angeles Taiwanese American community both as pr
 - 2024-06 — as 美國六桂宗親會 president, hosted 台灣攝影經典展—龍躍台南400年 at the LA Korean Cultural Center during Taiwanese American Heritage Week (corroborated: 6月1-2日, 洛僑中心 — [[articles/taiwanjustice-net/2025/20250617113511_2024年大洛杉磯台美人傳統週系列活動4-20登場_5-18園遊_b5215d0aa05ace35|TJJ, 2024傳統週系列活動]])
 
 ## Corpus re-check
-- Re-check (deepen-x 2026-09-20): re-grep（洪家棟 / Victor Hung）hit set unchanged (TAH #521, #522, #104, #60, works index, TJJ 傳統週 record) — every hit already absorbed above; no new community material.
+- Re-check (deepen-x 2026-09-21): re-grep（洪家棟 / Victor Hung）hit set unchanged (TAH #521, #522, #104, #60, works index, TJJ 傳統週 record) — every hit already absorbed above; no new community material.
 
 ## Sources
 - [[works/taiwaneseamericanhistory-org/522-e6-b4-aa-e5-ae-b6-e6-a3-9f-e5-90-89-e4-bb-96-e4-bb-8b-e7-b4-b9-e7-89-87-e6-b|522. 洪家棟 吉他介紹片 (2003, 音樂CD)]]
