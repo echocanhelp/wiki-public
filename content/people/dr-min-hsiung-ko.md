@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-20
+last_reviewed: 2026-09-21
 ---
 # Dr. Min-Hsiung Ko (柯敏雄醫師)
 
@@ -42,6 +42,10 @@ Corpus-linked (absorbed 2026-09-18):
 - **Daughter:** Gloria (佩利)
 - **Son:** 傑議,傑仁
 
+
+## Worklog
+
+- 2026-09-21 deepen-x slice 09200500-15: re-verified — corpus grep returns the same hit set already absorbed and wikilinked above (own TAH record; for 何文英 also husband 陳淮崇 memoir Our Journeys 138); no new memoir/article mentions, nothing further absorbable.
 
 ## Sources
 - [TAH #1914 encyclopedia: 1914. Dr. Min-Hsiung Ko 柯敏雄醫師](https://taiwaneseamericanhistory.org/whos-who-1914-min-hsiung-ko/)

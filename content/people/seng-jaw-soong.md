@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-20
+last_reviewed: 2026-09-21
 ---
 # Seng-Jaw Soong (宋盛照)
 
@@ -45,6 +45,8 @@ _No filled family fields on the TAH profile._
 
 ## Worklog
 - 2026-09-20 deepen-x slice 09180600-12: re-verified — corpus grep for 宋盛照/Seng-Jaw returns only his own TAH record #1482 (already wikilinked above) plus the works index. No memoir or article mentions found; nothing further absorbable without inventing biography.
+
+- 2026-09-21 deepen-x slice 09200500-15: re-verified — corpus grep returns the same hit set already absorbed and wikilinked above (own TAH record; for 何文英 also husband 陳淮崇 memoir Our Journeys 138); no new memoir/article mentions, nothing further absorbable.
 
 ## Sources
 - [TAH #1482 encyclopedia: 1482. Seng-Jaw Soong 宋盛照 / 2017/01](https://taiwaneseamericanhistory.org/whoswho1482/)

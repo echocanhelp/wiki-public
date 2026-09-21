@@ -48,6 +48,7 @@ Corpus record of Dr. Wong's standing in the Taiwanese American community, held o
 - 2021-09 — 台灣第一人，獲頒威爾許化學獎 (Welsh Prize in Chemistry) ([[works/taiwaneseamericanhistory-org/my-stories-802|TAH #802]])
 - 2022-07 — 獲頒化學界四面體獎, 表揚醣科學開創研究 (Tetrahedron Prize for glycoscience) ([[works/taiwaneseamericanhistory-org/my-stories-846|TAH #846]])
 - 2021-08/09 — Press coverage archived in the corpus covers both his Welsh Prize win ([[articles/taiwanjustice-net/2021/20210927013814_2021_09_08_翁啟惠革命性成就獲威爾許化學獎肯定_感謝合作_64b1e979ca17cf09|TJJ 2021-09-08, 威爾許化學獎肯定]]) and the contemporaneous 翁啟惠案 legal opinion-letter dispute ([[articles/taiwanjustice-net/2021/20210814031824_2021_08_13_翁啟惠案意見書鬧雙胞_王美玉蔡崇義各自表述_2964a974bf3fb0b1|TJJ 2021-08-13, 意見書鬧雙胞]]).
+- Case aftermath archived in the corpus: the 監察院's third investigation report (2021-03) found 翁啟惠 made no false asset declarations and violated no conflict-of-interest law, with 監委王美玉 filing a dissent ([[articles/taiwanjustice-net/2025/20250621224606_監院三查翁啟惠案_認無不實申報_王美玉提不同_c1f56ce912d35fbb|TJJ archive, 監院三查翁啟惠案]]); later corpus press also records him being honored as 台大傑出校友 (2022-11) ([[articles/taiwanjustice-net/2022/20221205042705_2022_11_14_黃春明施崇棠獲台大名譽博士-翁啟惠獲傑出校友_6463ca4f49f172e9|TJJ 2022-11-14]]).
 
 HOLD: conflict in source Era metadata — #47 (2014 Wolf Prize) work page carries Era 2017; prize year 2014 kept per title, not merged.
 

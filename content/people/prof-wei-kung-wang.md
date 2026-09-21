@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-20
+last_reviewed: 2026-09-21
 ---
 # Prof. Wei-Kung Wang (王維恭教授)
 
@@ -39,6 +39,10 @@ _No filled family fields on the TAH profile._
 
 - The sole corpus trace is his TAH Who's Who encyclopedia record: [[works/taiwaneseamericanhistory-org/whoswho1995|1995. Prof. Wei-Kung Wang 王維恭教授]] (published into the story corpus 2018-01-31, value band B — bibliographic record only, full text stays in the vault). He appears there as one of the TAH-recognized Taiwanese American scientists alongside peers such as [[works/taiwaneseamericanhistory-org/whos-who-1994-lan-bo-chen|1994. Prof. Lan-Bo Chen 陳良博教授]].
 - No memoir, letter, or community-activity record naming him was found in `content/works` / `content/articles`; his flavivirus blood-test accomplishment remains sourced only from the TAH press-kit profile.
+
+## Worklog
+
+- 2026-09-21 deepen-x slice 09200500-15: re-verified — corpus grep returns the same hit set already absorbed and wikilinked above (own TAH record; for 何文英 also husband 陳淮崇 memoir Our Journeys 138); no new memoir/article mentions, nothing further absorbable.
 
 ## Sources
 - [TAH #1995 encyclopedia: 1995. Prof. Wei-Kung Wang 王維恭教授](https://taiwaneseamericanhistory.org/whoswho1995/)
