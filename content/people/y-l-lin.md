@@ -35,9 +35,10 @@ _No filled family fields on the TAH profile._
 
 ## Role in the Community
 
-- 1991/07 — served as **總召集人** (general convener) of the 13th 美東南區台灣人夏令會 (Southeastern US Taiwanese Summer Camp) at Methodist College, Spartanburg, S.C., hosted by the 北卡同鄉會, theme 「轉變中的台灣」with 林義雄 as keynote speaker ([[works/taiwaneseamericanhistory-org/ourjourneys245|Our Journeys 記錄 #245「美東南區台灣人夏令會簡史」]]).
+- 1991/07 — served as **總召集人** (general convener) of the 13th 美東南區台灣人夏令會 (Southeastern US Taiwanese Summer Camp) at Methodist College, Spartanburg, S.C., hosted by the 北卡同鄉會, theme 「轉變中的台灣」with 林義雄 as keynote speaker delivering 「台灣人的新境界」; other guests included 李憲榮、李永熾、江蓋世、陳明章、張秀美、張致遠、李麗貞、簡雁齡、范振聲、魚夫 ([[works/taiwaneseamericanhistory-org/ourjourneys245|Our Journeys 記錄 #245「美東南區台灣人夏令會簡史」]]).
 - 1995/07 — spoke on 科技 (science & technology) at the 17th 美東南區台灣人夏令會 at Converse College, S.C. (same record, 第十七屆 speaker listing).
-- Note: other TAH "Y. L. Lin" profiles (林雅玲 #1711, 林豔齡 #1432) are different people — same initials, do not conflate.
+- His own Who's Who encyclopedia record is in the corpus as [[works/taiwaneseamericanhistory-org/whoswho1326|1326. Y. L. Lin 林玉郎 / 2016/10]] (2016-10).
+- Note: other TAH "Y. L. Lin" profiles are different people — same initials, do not conflate: [[works/taiwaneseamericanhistory-org/whoswho1711|1711. Y. L. Lin 林雅玲 / 07/2017]] and [[works/taiwaneseamericanhistory-org/whoswho1432|1432. Y. L. Lin 林豔齡 / 2016/12]].
 
 ## Sources
 - [TAH #1326 encyclopedia: 1326. Y. L. Lin 林玉郎 / 2016/10](https://taiwaneseamericanhistory.org/whoswho1326/)
