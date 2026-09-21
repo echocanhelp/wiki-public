@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-20
+last_reviewed: 2026-09-21
 ---
 # Min-An Huang (黃民安)
 
@@ -37,6 +37,7 @@ last_reviewed: 2026-09-20
 
 ## Role in the Community
 - Contributed his personal story to the TAH encyclopedia story collection, published 2015-09-02 (bibliographic record; full text stays in the vault): [[works/taiwaneseamericanhistory-org/565-min-an-huang-e9-bb-83-e6-b0-91-e5-ae-89-201509||565. Min-An Huang 黃民安 / 2015/09]].
+- Corpus grep (2026-09-21, SKIP-with-reason): only hit is his own TAH encyclopedia record and the works index — self-referential directory entry; no memoir/community material in `content/works` or `content/articles` beyond it.
 
 ## Sources
 - [TAH #565 encyclopedia: 565. Min-An Huang 黃民安 /2015/09](https://taiwaneseamericanhistory.org/565-min-an-huang-%e9%bb%83%e6%b0%91%e5%ae%89-201509/)

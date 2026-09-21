@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-20
+last_reviewed: 2026-09-21
 ---
 # Shu Hua Wai (韋黃淑華)
 
@@ -40,7 +40,7 @@ last_reviewed: 2026-09-20
 - [TAH #593 encyclopedia: 593. Shu Hua Wai 韋黃淑華](https://taiwaneseamericanhistory.org/593-shu-hua-wai-%e9%9f%8b%e9%bb%83%e6%b7%91%e8%8f%af/) — corpus mirror: [[works/taiwaneseamericanhistory-org/593-shu-hua-wai-e9-9f-8b-e9-bb-83-e6-b7-91-e8-8f-af|593. Shu Hua Wai 韋黃淑華]]
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/shu-hua-wai/)
 
-> SKIP (deepen-x 09172104-7, 2026-09-18): only corpus hit is her own TAH encyclopedia entry (self-referential directory record); no memoir/community material — nothing absorbable.
+> SKIP (deepen-x 09172104-7, 2026-09-18; re-grepped deepen-x 09210051-11, 2026-09-21): only corpus hit is her own TAH encyclopedia entry (self-referential directory record) plus the works index; no memoir/community material — nothing absorbable.
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
