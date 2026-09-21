@@ -12,6 +12,7 @@ last_reviewed: 2026-09-19
 # Prof. Robert Yien (顏善邦教授)
 
 <!-- deepen-x 09180500-21: corpus check 2026-09-19 — only hits are his own TAH press-kit record whos-who-2120-robert-yien + works/index listing; no memoir/article mentions, no community facts to absorb. Corpus work page wikilinked below. -->
+<!-- deepen-x 09191400-21: re-checked 2026-09-21 — grep works+articles for 顏善邦 / Robert Yien: same single self-record hit; SKIP stands, no conflicts. -->
 
 ## Identity Snapshot
 - **English:** Prof. Robert Yien
