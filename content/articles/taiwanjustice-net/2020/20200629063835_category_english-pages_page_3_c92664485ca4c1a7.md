@@ -297,6 +297,6 @@ March 16, 2017
 Load more
 
 ## Subjects
-- [[people/peter-chen.md|Peter Chen]] — mentioned in this record
-- [[people/ling-ling-chang.md|Ling Ling Chang]] — mentioned in this record
+- [[people/peter-chen|Peter Chen]] — mentioned in this record
+- [[people/ling-ling-chang|Ling Ling Chang]] — mentioned in this record
 
