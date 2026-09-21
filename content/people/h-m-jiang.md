@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-20
+last_reviewed: 2026-09-21
 ---
 # H. M. Jiang (江蕙美)
 
@@ -32,6 +32,13 @@ last_reviewed: 2026-09-20
 
 - **Husband:** [[people/j-y-jackson-ko||柯哲洋]]
 
+
+## Role in the Community
+- Profiled in the TAH Who's Who record [[works/taiwaneseamericanhistory-org/whoswho1766|1766. H. M. Jiang 江蕙美]] (published 2017-07-19).
+- Corpus scan (works/articles) found no memoir or essay mentions beyond her own Who's Who record; recorded roles: entrepreneur, journalist, owner of the 美東自由時報 Taipei agency (NTU 外文).
+
+## Timeline
+- 2017-07-19 — TAH Who's Who record published
 
 ## Sources
 - [TAH #1766 encyclopedia: 1766.  H. M. Jiang 	 江蕙美 / 07/2017](https://taiwaneseamericanhistory.org/whoswho1766/)

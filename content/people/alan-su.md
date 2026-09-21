@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-21
 ---
 # Alan Su (蘇德源)
 
@@ -33,6 +33,13 @@ last_reviewed: 2026-08-17
 
 - **Wife:** 林綉娟
 
+
+## Role in the Community
+- Profiled in the TAH Who's Who record [[works/taiwaneseamericanhistory-org/whoswho1529|1529. Alan Su 蘇德源]] (published 2017-02-26).
+- Corpus scan (works/articles) found no memoir or essay mentions beyond his own Who's Who record; recorded roles: engineer (NYU, Stevens; Bankers Trust), educator, from 嘉義, spouse 林綉娟.
+
+## Timeline
+- 2017-02-26 — TAH Who's Who record published
 
 ## Sources
 - [TAH #1529 encyclopedia: 1529. Alan Su 蘇德源 / 2017/02](https://taiwaneseamericanhistory.org/whoswho1529/)

@@ -29,6 +29,8 @@ The Taiwanese Association of Greater Seattle (TAGS, 大西雅圖台灣同鄉會)
 
 HOLD: page body uses both 大西雅圖區台灣同鄉會 (frontmatter/title) and 大西雅圖台灣同鄉會 (body first sentence) as the Chinese name; recorded, not merged.
 
+複核（deepen-x slice-09201300-8, 2026-09-21）：re-grep 大西雅圖|TAGS|Taiwanese Association of Greater Seattle 命中集與既有 Role in the Community 連結完全相同（greater-seattle-chapter-taa、history-of-tags、松年會、ourjourneys30、547、#7 獎學金、婦女會、TAGSL）— SKIP：已飽和，無新社群材料可吸收；HOLD（雙中文名）維持。
+
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-association-of-greater-seattle-tags/)
 

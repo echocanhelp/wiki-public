@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-20
+last_reviewed: 2026-09-21
 ---
 # Susan Chuang (莊士晟)
 
@@ -32,6 +32,13 @@ last_reviewed: 2026-09-20
 ## Family
 
 _No filled family fields on the TAH profile._
+
+## Role in the Community
+- Profiled in the TAH Who's Who record [[works/taiwaneseamericanhistory-org/whos-who-2271-susan-chuang|2271. Susan Chuang 莊士晟]] (published 2020-05-18).
+- Corpus scan (works/articles) found no memoir or essay mentions beyond her own Who's Who record; community roles rest on the TAH profile only (Columbia MSW, attorney).
+
+## Timeline
+- 2020-05-18 — TAH Who's Who record published
 
 ## Sources
 - [TAH #2271 encyclopedia: 2271. Susan Chuang 莊士晟](https://taiwaneseamericanhistory.org/whos-who-2271-susan-chuang/)
