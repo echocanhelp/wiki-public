@@ -31,7 +31,7 @@ last_reviewed: 2026-09-20
 _No filled family fields on the TAH profile._
 
 ## Role in the Community
-- Speaker on political topics at the 美東南區台灣人夏令會 (Southern US Taiwanese Conference) in 1996 (18th, Chattanooga, theme 「台美連心，踏入國際舞台」) and 1997 (19th, University of Georgia, theme 「九七後台灣的處境與展望」), per the conference history by 劉格正: [[works/taiwaneseamericanhistory-org/ourjourneys245|245. 美東南區台灣人夏令會簡史]].
+- Speaker on political topics at the 美東南區台灣人夏令會 (Southern US Taiwanese Conference) in 1996 (18th, Chattanooga Covenant College, hosted by 蕃薯味 Huntsville 同鄉會, convener 蔣政宏, theme 「台美連心，踏入國際舞台」; fellow political speakers 蔡明華、張燦鍙、林又新) and 1997 (19th, University of Georgia, hosted by Atlanta 同鄉會, convener 許蕙茹, theme 「九七後台灣的處境與展望」; fellow speakers 黃昭堂、陳茂雄、林山田), per the conference history by 劉格正: [[works/taiwaneseamericanhistory-org/ourjourneys245|245. 美東南區台灣人夏令會簡史]].
 - Who's Who profile recorded by TAH (2017/01): [[works/taiwaneseamericanhistory-org/whos-who-1480-c-k-kuo|1480. C. K. Kuo 郭重國]].
 - Corpus sweep note: remaining grep hits (Kuo-Ming-Tang, 偏重國防, 重創) are false positives; no further memoir material found.
 
