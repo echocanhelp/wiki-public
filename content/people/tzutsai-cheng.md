@@ -58,3 +58,5 @@ last_reviewed: 2026-09-21
 - His own writings are in the corpus: 刺蔣：鄭自才回憶錄 (鄭自才、張文隆, 01/2018, autobiography — [[works/taiwaneseamericanhistory-org/publications1201|TAH #1201]]) and 晴美與我 (03/2018 — [[works/taiwaneseamericanhistory-org/mystories632|TAH #632]]). HOLD: conflict — the TAH family field lists his wife as 吳清桂, while the memoir title 晴美與我 points to 晴美; not auto-merged.
 
 複核（deepen-x slice 09181500-3, 2026-09-20）：re-grep 命中 publications1201、mystories632、ourjourneys-138、our-journeys-357、ourjourneys81、ourjourneys62-eng——全部已吸收進上方「From the record」並 wikilink；語料飽和，無新材料。wife-vs-晴美 HOLD 仍有效。
+
+複核（deepen-x slice 09201300-1, 2026-09-21）：re-grep 命中集合不變（publications1201、mystories632、ourjourneys-138、our-journeys-357、ourjourneys81、ourjourneys62-eng）——全部已吸收並 wikilink；語料飽和，無新材料。wife-vs-晴美 HOLD 仍有效。
