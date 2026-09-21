@@ -296,7 +296,7 @@ April 10, 2020
 Load more
 
 ## Subjects
-- [[people/father-brendan-oconnell.md|甘惠忠神父]] — mentioned in this record
-- [[people/alan-yang.md|楊維榕]] — mentioned in this record
-- [[people/bi-khim-hsiao.md|蕭美琴]] — mentioned in this record
+- [[people/father-brendan-oconnell|甘惠忠神父]] — mentioned in this record
+- [[people/alan-yang|楊維榕]] — mentioned in this record
+- [[people/bi-khim-hsiao|蕭美琴]] — mentioned in this record
 
