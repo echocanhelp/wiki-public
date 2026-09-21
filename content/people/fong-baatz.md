@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-20
+last_reviewed: 2026-09-21
 ---
 # Fong Baatz
 
@@ -46,5 +46,5 @@ _No filled family fields on the TAH profile._
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
-## Corpus check (2026-09-20)
+## Corpus check (2026-09-21)
 - SKIP (no new absorbable facts): only corpus hits are the two TAH records already linked above (#24 oil painting, #1027 Who's Who); no memoir or article mentions in works/ or articles/.

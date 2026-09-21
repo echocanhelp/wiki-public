@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-20
+last_reviewed: 2026-09-21
 ---
 # Dr. Kei-Hsiung Yang (楊界雄博士)
 
@@ -51,3 +51,6 @@ Accomplishment
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+## Corpus check (2026-09-21)
+- SKIP (no new absorbable facts): recheck confirms the sole corpus hits are his own Who's Who record [[works/taiwaneseamericanhistory-org/whos-who-2059-kei-hsiung-yang|TAH #2059]] and index listings; no memoir or article mentions.
