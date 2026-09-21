@@ -42,3 +42,5 @@ last_reviewed: 2026-09-21
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 > SKIP (deepen-x 09171100-24, 2026-09-17): corpus grep found only this person's own TAH bibliographic record [[works/taiwaneseamericanhistory-org/whoswho1365|1365. Larry Hsu 許中強 / 2016/11]] — no community/movement material to absorb.
+
+> SKIP re-check (deepen-x 09191200-29, 2026-09-21): fresh grep of content/works + content/articles returned only this person own TAH bibliographic record — no community/memoir material to absorb.

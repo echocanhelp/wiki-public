@@ -43,3 +43,5 @@ SKIP: corpus check found no community material beyond the person's own TAH encyc
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+> SKIP re-check (deepen-x 09191200-29, 2026-09-21): fresh grep of content/works + content/articles returned only this person own TAH bibliographic record — no community/memoir material to absorb.
