@@ -36,6 +36,8 @@ last_reviewed: 2026-09-21
 - **返台服務（2001）** — Returned to Taiwan in 2001 as Vice President of National Cheng Kung University and Dean of its Medical College: [[works/taiwaneseamericanhistory-org/9-e5-ae-8b-e7-91-9e-e7-8f-8d-e8-bf-94-e5-8f-b0-e6-93-94-e4-bb-bb-e6-88-90-e5-8a-|9. 宋瑞珍返台擔任成功大學副校長暨醫學院院長 2001]].
 - **TA Archives 紀錄（2024）** — The TA Archives newsletter record [[articles/taiwanjustice-net/2024/20240527043145_root_be93ba8c8bbbbb41|台美史料中心 2024-04 近期刊文]] adds: arrived in the US from Taiwan in 1969; tenured (終身) professor at Stanford from 1991; NCKU Medical College dean 2001–2007; Chair Professor of Life Science at National Central University for five years; one of the founders of the Heart Rhythm Society; fellow of ACP (FACP), ACC (FACC), AHA (FAHA) and HRS (FHRS).
 
+- 複核（deepen-x slice 09201400-6，2026-09-21）：re-grep 宋瑞珍 / Ruey-Jen Sung 命中集不變（Our Journeys 142、#1755、#9 返台記錄、TA Archives 2024-04 刊文、works index）— 全數已吸收於上列條目，saturated，SKIP，無新社群材料可吸收。
+
 ## Family
 
 _No filled family fields on the TAH profile._
