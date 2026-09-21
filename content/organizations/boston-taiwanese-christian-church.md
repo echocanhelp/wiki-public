@@ -23,7 +23,7 @@ last_reviewed: 2026-09-21
 Thin A-tier from [[sources/laijohn-com||laijohn.com]] biog + TAH John Lai card. No official site archived in v1.
 
 ## Timeline
-- 1969 — founded in Boston by [[people/chi-tien-chang|張啟典 (Chi-Tien Chang)]], a UCLA-trained... **per corpus**: 張啟典, who grew up in 艋舺長老教會 and was in his third year of graduate study in the U.S., initiated the founding of 「波士頓台灣基督教會」. Source: band-A memoir [[works/taiwaneseamericanhistory-org/ourjourneys338|338. 張啟典醫師的回憶—1977年TAC/EC / 楊遠薰 /07/2018]].
+- 1969 — founded in Boston, initiated by [[people/chi-tien-chang|張啟典 (Chi-Tien Chang)]]: per band-A memoir [[works/taiwaneseamericanhistory-org/ourjourneys338|338. 張啟典醫師的回憶—1977年TAC/EC / 楊遠薰 /07/2018]], 張啟典 grew up in 艋舺長老教會 and, in his third year of graduate study in the U.S., 發起創立「波士頓台灣基督教會」.
 - 1970 — 張啟典 travelled to Downington, Pennsylvania for the 第1屆美東基督徒台語夏令會 initiated by 歐炯雄 in Philadelphia, becoming one of the founding members of the 美東台灣人夏令會 lineage.
 - 1973 — the summer meeting (then 美東基督徒台語夏令會) opened to non-Christians when 波士頓's 黃賢理 served as 召集人; renamed 1974 (美東台灣基督徒第5屆暨同鄉會第2屆夏令會) and finalised as 「美東台灣人夏令會」 in 1976.
 - 1977 — 張啟典, then president of the 波士頓台灣同鄉會, hosted the 第8屆美東台灣人夏令會 at Brown University (~400+ attendees) — the first summer meeting held on a US university campus.
