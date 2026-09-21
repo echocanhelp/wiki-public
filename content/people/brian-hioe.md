@@ -47,3 +47,5 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+<!-- corpus sweep 2026-09-21: re-verified — corpus hits (our-journeys-373, whos-brian-hioe, the-228-inheritance, laguna-woods shooting record, taiwanjustice articles) all already absorbed above; no new absorbable facts -->
