@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-18
+last_reviewed: 2026-09-21
 ---
 # UCR United Taiwanese Student Association
 
@@ -20,7 +20,7 @@ The UCR United Taiwanese Student Association (UTSA) is a student organization at
 
 ## Corpus absorb note
 
-SKIP: no corpus hits. Grep across `works/` and `articles/` for "UTSA", "UCR … United Taiwanese Student Association" found no memoir, newsletter, or event record naming this chapter (a broader "UCR" grep returned pages about other subjects), so there was nothing absorbable beyond the TAH directory snapshot already above.
+SKIP: no corpus hits (re-verified 2026-09-21). Grep across `works/` and `articles/` for "UTSA", "United Taiwanese Student Association" found no memoir, newsletter, or event record naming this chapter (a broader "UCR" grep returned pages about other subjects), so there was nothing absorbable beyond the TAH directory snapshot already above.
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/ucr-united-taiwanese-student-association/)
