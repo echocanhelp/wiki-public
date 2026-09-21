@@ -37,6 +37,7 @@ Accomplishment
 - Interviewed among Taiwanese American / Asian American artists on stereotypes and racism for the 2009 Taiwanese American Foundation Summer Conference ([[works/taiwaneseamerican-org/apa-artists-on-overcoming-racism-stereotypes|APA Artists on Overcoming Racism & Stereotypes]]).
 - Father of Hudson Yang; father and son were profiled together during Hudson's childhood TV work in San Francisco ([[works/taiwaneseamerican-org/hudson-yang|Hudson Yang]]).
 - Held in the community record as one of the "godfathers" of Asian America: the Hudson Yang profile describes him as well-known within the Asian American community as the Wall Street Journal "Tao Jones" columnist ([[works/taiwaneseamerican-org/hudson-yang|Hudson Yang]]).
+- His own TAH Who's Who entry is held in the corpus as [[works/taiwaneseamericanhistory-org/whos-who-2266-jeff-yang|2266. Jeff Yang 楊致和]] (published 2020-05-04). Corpus re-check 2026-09-21: all five work-page hits (own record, my-stories-694, michelle-young-the-art-spy, hudson-yang, apa-artists-on-overcoming-racism-stereotypes) are now linked above; no unabsorbed memoir detail remains.
 
 ## Family
 
