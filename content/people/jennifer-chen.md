@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-19
+last_reviewed: 2026-09-21
 ---
 # Jennifer Chen
 
@@ -37,6 +37,7 @@ _No filled family fields on the TAH profile._
 ## Role in the Community
 
 - **Corpus presence:** Recorded twice in the taiwaneseamericanhistory.org story corpus — Who's Who entry [[works/taiwaneseamericanhistory-org/whoswho1735|#1735 Jennifer Chen]] (published 2017-07-04) and feature [[works/taiwaneseamericanhistory-org/musician412|#412 Jennifer Chen, pianist]] (2017-07-04). Both pages are held as bibliographic records only; no memoir or community-history text beyond the TAH press-kit bio above has been absorbed.
+- Re-grepped corpus 2026-09-21: only hit is her own bibliographic record in works/index.md; nothing further absorbable (SKIP).
 - Scope note: Delaware-based pianist and piano faculty, The Music School of Delaware; no diaspora-movement organizational activity recorded in the corpus so far.
 
 ## Sources
