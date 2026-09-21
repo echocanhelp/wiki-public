@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-20
+last_reviewed: 2026-09-21
 ---
 # Chin H. Liao (廖俊惠醫師)
 
@@ -48,3 +48,4 @@ Community records identify him as 廖俊惠 (also romanized **Chinhuei Liao**), 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+<!-- deepen-x 09200800-28: SKIP — corpus re-scan (works/articles) fresh 2026-09-21: only own TAH records / already-absorbed coverage; no new community material. -->
