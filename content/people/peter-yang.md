@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-20
+last_reviewed: 2026-09-21
 ---
 # Peter Yang (楊秉彝)
 
@@ -37,8 +37,8 @@ Accomplishment
 
 
 ## Role in the Community
-- Community archive in the corpus: 楊秉彝's Taiwanese-American association footage collection is held as [[works/taiwaneseamericanhistory-org/9-e6-a5-8a-e7-a7-89-e5-bd-9d-e7-9a-84-e5-bd-b1-e7-89-87-e9-9b-86-peter-yangs-vid|9. 楊秉彝的台美人社團影片集 Peter Yang's Video files]] (2015-03-17); his TAH profiles are [[works/taiwaneseamericanhistory-org/senior-taiwanese-american-35|35. Peter Yang (楊秉彝)]] and [[works/taiwaneseamericanhistory-org/whos-who-2215-peter-yang|2215. Peter Yang 楊秉彝]].
-- He served as a community documentarian for ITPC Irvine 台灣基督長老教會長青教室 lectures: taiwanjustice.net records his coverage of 陳春仁醫師 (Dr. Carl Chen)'s hand-surgery talk (攝影, 2012-04-11, [[articles/taiwanjustice-net/2023/20230326050802_author_josephc_page_12603_269d7b2877b6dec4|taiwanjustice.net news digest]]) and his videorecording of 鄭博仁教授「智能社會與你」 (2018-09-26, [[articles/taiwanjustice-net/2024/20240523001759_root_23e163f71d3f2ba5|taiwanjustice.net news digest]]).
+- Community archive in the corpus: 楊秉彝's Taiwanese-American association footage collection is held as [[works/taiwaneseamericanhistory-org/9-e6-a5-8a-e7-a7-89-e5-bd-9d-e7-9a-84-e5-bd-b1-e7-89-87-e9-9b-86-peter-yangs-vid|9. 楊秉彝的台美人社團影片集 Peter Yang's Video files]] (2015-03-17); his TAH profiles are [[works/taiwaneseamericanhistory-org/senior-taiwanese-american-35|35. Peter Yang (楊秉彝)]] (語料庫目錄日期 2019-10-30) and [[works/taiwaneseamericanhistory-org/whos-who-2215-peter-yang|2215. Peter Yang 楊秉彝]] (語料庫目錄日期 2019-10-23)。
+- 語料庫並留存他為《台灣公義電子報》台美人台加人欄目的攝影/攝錄紀錄：陳春仁醫師〈漫談手外科〉標注「◎攝影:Peter Yang在長青教室/2012-4-11」（[[articles/taiwanjustice-net/2023/20230326050802_author_josephc_page_12603_269d7b2877b6dec4|taiwanjustice.net 彙編]]）、鄭博仁教授「智能社會與你」標注「◎ Peter Yang攝錄/ ITPC Irvine 台灣基督長老教會 長青教室」（[[articles/taiwanjustice-net/2024/20240523001759_root_23e163f71d3f2ba5|taiwanjustice.net 彙編]]），與上列 ITPC Irvine 攝影紀錄相互印證。
 
 ## Sources
 - [TAH #35 encyclopedia: 35. Peter Yang (楊秉彝)](https://taiwaneseamericanhistory.org/senior-taiwanese-american-35/)
