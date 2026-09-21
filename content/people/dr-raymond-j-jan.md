@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-20
+last_reviewed: 2026-09-21
 ---
 # Dr. Raymond J. Jan (詹正治博士)
 
@@ -49,3 +49,5 @@ Jan's movement service is recorded in the TAH encyclopedia corpus: his account [
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 > SKIP-note (deepen-x slice 09190700-5, 2026-09-20): corpus re-grep hit set identical to records already linked above; no new absorbable corpus facts.
+
+> SKIP-note (deepen-x slice 09201500-15, 2026-09-21): corpus re-grep hit set identical to records already linked above; no new absorbable corpus facts.

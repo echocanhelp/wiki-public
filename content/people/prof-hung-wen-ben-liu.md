@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-20
+last_reviewed: 2026-09-21
 ---
 # Prof. Hung-Wen Ben Liu (劉鴻文教授)
 
@@ -48,3 +48,5 @@ _No filled family fields on the TAH profile._
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 > SKIP-note (deepen-x slice 09190700-5, 2026-09-20): corpus re-grep hit set identical to records already linked above; no new absorbable corpus facts.
+
+> SKIP-note (deepen-x slice 09201500-15, 2026-09-21): corpus re-grep hit set identical to records already linked above; no new absorbable corpus facts.

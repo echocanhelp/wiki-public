@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-20
+last_reviewed: 2026-09-21
 ---
 # Houston Taiwanese Golden Club 樂部 (休士頓台灣清閒俱)
 
@@ -30,3 +30,5 @@ The Houston Taiwanese Golden Club is a nonprofit, nonpolitical, and nonreligious
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+> SKIP-note (deepen-x slice 09201500-15, 2026-09-21): corpus re-grep hit set identical to records already linked above; no new absorbable corpus facts.
