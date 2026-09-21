@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-20
+last_reviewed: 2026-09-21
 ---
 # Dr. Cherng Jia Huang (黃呈嘉博士)
 
@@ -36,7 +36,7 @@ last_reviewed: 2026-09-20
 - 協志會（Bay Area）成員。1974 年康寧祥第二次訪美、自西雅圖入境時，黃呈嘉與黃介山等協志會成員經西雅圖鄭紹良聯絡，從舊金山連夜輪流開車北上西雅圖，只為與康寧祥會面——海外臺美人聲援島內黨外運動的代表事證（[[works/taiwaneseamericanhistory-org/our-journeys-357|Our Journeys #357]]）。
 - 1976 年 1 月 15 日《臺灣政論》遭停刊後，與陳都、黃介山、謝鐐暲、石清正等十二位同鄉前往舊金山領事館會見總領事李裕生，要求復刊（[[works/taiwaneseamericanhistory-org/ourjourneys38|Our Journeys #38]]）。
 - 協志會董事幹事聯席會議孕育的創業潮中，與史博文、黃介山、歐文斌、蘇建政等合創 Pan Clair（[[works/taiwaneseamericanhistory-org/ourjourneys37|Our Journeys #37]]）。
-- 其tah-whos-who專條存於目錄_corpus_：[[works/taiwaneseamericanhistory-org/whoswho1140|1140. Cherng Jia Huang 黃呈嘉 / 2016-07]]；獲獎記錄另存專文 [[works/taiwaneseamericanhistory-org/42-university-of-washingtons-college-of-engineering-diamond-awards-entrepreneuri|42. UW College of Engineering Diamond Awards — Entrepreneurial Excellence / 2017]]。
+- 其tah-whos-who專條存於目錄_corpus_：[[works/taiwaneseamericanhistory-org/whoswho1140|1140. Cherng Jia Huang 黃呈嘉 / 2016-07]]；TAH百科專條另存 [[works/taiwaneseamericanhistory-org/60-dr-cherng-jia-hwang|60. Dr. Cherng Jia Hwang 黃呈嘉博士]]；獲獎記錄另存專文 [[works/taiwaneseamericanhistory-org/42-university-of-washingtons-college-of-engineering-diamond-awards-entrepreneuri|42. UW College of Engineering Diamond Awards — Entrepreneurial Excellence / 2017]]。
 - HOLD: conflict 姓名拼寫 Hwang（TAH #60 標題、#42 Diamond Awards 標題）vs Huang（TAH Who's Who / #1140），未合併。
 
 ## Family
