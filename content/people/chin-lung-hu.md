@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-20
+last_reviewed: 2026-09-21
 ---
 # Chin-Lung Hu (胡金龍)
 
@@ -30,7 +30,7 @@ last_reviewed: 2026-09-20
 
 ## Role in the Community
 
-- Corpus material is limited to his own TAH Who's Who encyclopedia entry: [[works/taiwaneseamericanhistory-org/whos-who-1748-chin-lung-hu|1748. Chin-Lung Hu 胡金龍]]（2017-07-07）. Listed alongside fellow Taiwanese ballplayers 林哲瑄（#1747）、胡智為（#1746）in the same batch, reflecting TAH's 2017 sports-figure cohort rather than movement organizing.
+- Corpus material is limited to his own TAH Who's Who encyclopedia entry: [[works/taiwaneseamericanhistory-org/whos-who-1748-chin-lung-hu|1748. Chin-Lung Hu 胡金龍]]（2017-07-07）. Listed alongside fellow Taiwanese ballplayers 林哲瑄（#1747）、胡智為（#1746）in the same batch, reflecting TAH's 2017 sports-figure cohort rather than movement organizing (corpus re-swept 2026-09-21; no further mentions).
 
 ## Family
 

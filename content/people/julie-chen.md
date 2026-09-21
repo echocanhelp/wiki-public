@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-20
+last_reviewed: 2026-09-21
 ---
 # Julie Chen (許春惠)
 
@@ -40,6 +40,8 @@ last_reviewed: 2026-09-20
 - The couple 陳哲夫、許春惠 are the subject of TAH community record #264, noted for remotely operating large hotels out-of-state (以遙控經營外州大型旅館出名) — [[works/taiwaneseamericanhistory-org/ff264|TAH #264]].
 - Own Who's Who encyclopedia record: [[works/taiwaneseamericanhistory-org/630-julie-chen-e8-a8-b1-e6-98-a5-e6-83-a0-201509|TAH #630, 2015/09]].
 - Named subject of an Our Journeys community memoir alongside 丁昭昇, 林嘉仁, 楊熾勳, 林惠洲 and others — [[works/taiwaneseamericanhistory-org/ourjourneys186|Our Journeys #186]].
+- The couple's signature remote-control hotel-management story is the subject of an Our Stories community memoir: [[works/taiwaneseamericanhistory-org/mystories343|343. 陳哲夫遙控式經營 獨到成功令人懷念 / 2015/09]] (bibliographic record; full text stays in the vault).
+- A "Julie Chen" appears on the supporter name list of the Pew Research Taiwanese American statement [[works/taiwaneseamerican-org/pew-research-center-taiwanese-american-statement|Pew statement]] — HOLD: no disambiguating context, identity unconfirmed.
 - Husband and wife appear as a joint entry too: [[people/chen-zhefu-xu-chunhui|陳哲夫、許春惠]] (same couple; HOLD — not merged, joint page retains its own record).
 
 ## Sources

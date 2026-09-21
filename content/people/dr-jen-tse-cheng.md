@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-20
+last_reviewed: 2026-09-21
 ---
 # Dr. Jen-Tse Cheng (鄭仁澤醫師)
 
@@ -34,7 +34,7 @@ Source from北美台大醫學院校友會http://ntumcaa-na.org/Web_pages/program
 _No filled family fields on the TAH profile._
 
 ## Role in the Community
-- TAHS Who's Who record #2009 (2018-02-06): [[works/taiwaneseamericanhistory-org/whos-who-2009-jen-tse-cheng|2009. Dr. Jen-Tse Cheng 鄭仁澤醫師]] — profile sourced from 北美台大醫學院校友會 (NTUMCAA) annual-meeting program; nephrologist in Bronx, NY after residencies at Bronx-Lebanon Hospital Center and Bronx VA. Corpus scan found no memoir mentions beyond this directory record.
+- TAHS Who's Who record #2009 (2018-02-06): [[works/taiwaneseamericanhistory-org/whos-who-2009-jen-tse-cheng|2009. Dr. Jen-Tse Cheng 鄭仁澤醫師]] — profile sourced from 北美台大醫學院校友會 (NTUMCAA) annual-meeting program; nephrologist in Bronx, NY after residencies at Bronx-Lebanon Hospital Center and Bronx VA. Corpus scan found no memoir mentions beyond this directory record (corpus re-swept 2026-09-21).
 
 ## Sources
 - [TAH #2009 encyclopedia: 2009. Dr. Jen-Tse Cheng 鄭仁澤醫師](https://taiwaneseamericanhistory.org/whos-who-2009-jen-tse-cheng/)
