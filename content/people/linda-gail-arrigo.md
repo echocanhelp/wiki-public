@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-20
+last_reviewed: 2026-09-21
 ---
 # Linda Gail Arrigo (艾琳達)
 
@@ -38,6 +38,9 @@ _No filled family fields on the TAH profile._
 - 1979-12-28 歡迎艾琳達機場事件：她因被台灣當局驅逐出境抵達灣區，一百多位同鄉在舊金山機場迎接；當場女特務監視拍照，被同鄉扭送警察局查辦，後特務撤回控訴，事件不了了之（[[works/taiwaneseamericanhistory-org/ourjourneys38|Our Journeys 38]]）。
 - 社團往來：1974年康寧祥訪美期間在舊金山結識、日後長期往來（[[works/taiwaneseamericanhistory-org/our-journeys-357|Our Journeys 357]]）；曾赴北卡台灣同鄉會聚會演講（[[works/taiwaneseamericanhistory-org/our-journeys-381|Our Journeys 381]]）；與張富美、陳芳明同受邀出席灣區聯合會鄉情座談（[[works/taiwaneseamericanhistory-org/ourjourneys142|Our Journeys 142]]）。
 - TAH 百科個人條目存檔於語料庫（[[works/taiwaneseamericanhistory-org/whos-who-810-linda-gail-arrigo|810. Linda Gail Arrigo 艾琳達]]）。
+- 個人檔案典藏：她本人的收藏已由 TAH 建檔保存為語料庫條目（[[works/taiwaneseamericanhistory-org/collection-of-dr-linda-gail-arrigo|19. Collection of Dr. Linda Gail Arrigo 艾琳達博士的收藏]]）。
+- 本人著作存檔：自述台灣人權戒嚴時期國際力量的文章（[[works/taiwaneseamericanhistory-org/our-journeys-363|363. 戒嚴時期關注台灣人權的國際力量／艾琳達／12/2020]]，value band A）與回顧回台觀感的〈Reflections on Returning to Taiwan〉（[[works/taiwaneseamericanhistory-org/mystories524|524. REFLECTIONS ON RETURNING TO TAIWAN／Linda Gail Arrigo／03/2017]]）；林倖妃為她寫的側寫〈始終左言左行的艾琳達〉亦存檔（[[works/taiwaneseamericanhistory-org/mystories622|622／林倖妃／01/2018]]）。
+- 同鄉大會講者紀錄：1988 年第十屆台灣人台灣同鄉聯合會年會（南卡 Converse College，主題「台灣社會改革與婦女運動」）以婦女運動來賓身分與張富美、黃美惠、鄭至慧同台；1995 年第十七屆年會再以環保主題發表演說（[[works/taiwaneseamericanhistory-org/ourjourneys245|Our Journeys 245]]）。
 
 ## Sources
 - [TAH #810 encyclopedia: 810. Linda Gail Arrigo 艾琳達/ 2016/02](https://taiwaneseamericanhistory.org/whos-who-810-linda-gail-arrigo/)
