@@ -20,8 +20,9 @@ The Wellbrook Foundation is a charitable foundation established in the United St
 
 ## Role in the Community
 - Listed in the TAH Foundation organization directory; the community-record entry [[works/taiwaneseamericanhistory-org/wellbrook-foundation|44. Wellbrook Foundation 美國美溪慈善基金會]] was published 2016-11-22 and holds the foundation in the movement record.
-- Founded 1989 by Dr. Chung-Chi Chou (president), supporting education and talent cultivation in developing nations.
-- Corpus check (2026-09-20): this directory record is the only corpus appearance; no memoir or article mentions found in works/articles.
+- Founded 1989 by Dr. Chung-Chi Chou (周重吉, president), supporting education and talent cultivation in developing nations.
+- Founder's own memoir in the corpus — [[works/taiwaneseamericanhistory-org/mystories485|485. 留美50年的奮鬥經歷–來自台灣的周重吉博士分享 / 周重吉 / 11/2016]] — was published the same day as the directory record (2016-11-22); the founder page is [[people/chung-chi-chou|周重吉]].
+- Corpus check (2026-09-21): beyond the directory record and the founder's memoir, no further mentions in works/articles.
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/wellbrook-foundation/)
