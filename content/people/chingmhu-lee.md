@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-19
+last_reviewed: 2026-09-21
 ---
 # Chingmhu Lee (李清木)
 
@@ -37,8 +37,8 @@ last_reviewed: 2026-09-19
 
 
 ## Role in the Community
-- TAH Who's Who 紀錄：[[works/taiwaneseamericanhistory-org/whoswho1600|1600. Chingmhu Lee 李清木 / 2017/04]] — UCLA 醫學院麻醉科主任。
-- 台語文化推廣：以台大醫學背景投入台語文運動，2023 年主講第 91 回世界台灣文化論壇「台語語音之美」（見 [[articles/taiwanjustice-net/2023/20231201222012_root_cec50e2f693eeb53|台語文天地（台灣Justice網）]]）。
+- TAH Who's Who 紀錄：[[works/taiwaneseamericanhistory-org/whoswho1600|1600. Chingmhu Lee 李清木 / 2017/04]]（2017-04-09 建檔，band B）— UCLA 醫學院麻醉科主任。
+- 台語文化推廣：以台大醫學背景投入台語文運動，主講第 91 回世界台灣文化論壇「台語語音之美」， corpus 紀錄見 [[articles/taiwanjustice-net/2023/20231201222012_root_cec50e2f693eeb53|台語文天地（台灣Justice網，2023-12-01）]]（原文署 2023-06-04）。
 
 ## Sources
 - [TAH #1600 encyclopedia: 1600. Chingmhu Lee 李清木 / 2017/04](https://taiwaneseamericanhistory.org/whoswho1600/)
