@@ -7,8 +7,9 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-20
+last_reviewed: 2026-09-21
 ---
+<!-- deepen-x slice 09201503-26: verified-saturated 2026-09-21 — re-grepped works+articles for 胡正明/Chenming Hu: hits are only own band-B records (whoswho1157, pride4) + index page; already absorbed in 'Role in the Community', no memoir material. -->
 # Chenming Hu (胡正明)
 
 ## Identity Snapshot
