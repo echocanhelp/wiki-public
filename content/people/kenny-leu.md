@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-20
+last_reviewed: 2026-09-21
 ---
 # Kenny Leu (呂蔡嶸)
 
@@ -36,7 +36,7 @@ _No filled family fields on the TAH profile._
 
 ## Role in the Community
 
-Corpus scans (2026-09-18, re-verified 2026-09-20) found no memoir/community-history material mentioning him; the only match is his own encyclopedia record plus the auto-generated works/index listing. SKIP: nothing absorbable in-vault:
+Corpus scans (2026-09-18, re-verified 2026-09-20 and 2026-09-21) found no memoir/community-history material mentioning him; the only match is his own encyclopedia record plus the auto-generated works/index listing. SKIP: nothing absorbable in-vault:
 
 - [[works/taiwaneseamericanhistory-org/whos-who-1985-kenny-leu|1985. Kenny Leu 呂蔡嶸]] (2017-12-28) — his TAH Who's Who entry
 

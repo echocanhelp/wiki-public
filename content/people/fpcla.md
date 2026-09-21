@@ -25,7 +25,7 @@ This file is a **redirect stub** (legacy path `people/fpcla`). All content lives
 - [[works/taiwaneseamericanhistory-org/ourjourneys231|231. The Path of Grace – FPCLA 五十週年 (中文)]]
 - [[works/taiwaneseamericanhistory-org/presbyterian-church-la|Formosan Presbyterian Church in Los Angeles 洛杉磯台灣基督長老教會 (教會史)]]
 - [[works/taiwaneseamericanhistory-org/2-formosan-presbyterian-church-in-los-angeles|2. FPCLA 退修會]]
-- [[works/taiwaneseamericanhistory-org/ourjourneys61|61. 創設 TARSA 的心路歷程 / 葉思雅]] — founding-era memoir: the narrator joined the Taigi worship group that became FPCLA and was elected its **first elder (第一任長老)** when the church was accepted as a正式 member of the Pacific Presbytery (PCUSA).
+- [[works/taiwaneseamericanhistory-org/ourjourneys61|61. 創設 TARSA 的心路歷程 / 葉思雅]] — founding-era memoir by founding member 葉思雅 (Sze-ya Yeh): after moving to LA in 1969 she helped organize the Taigi worship group that became FPCLA, and was elected its **first elder (第一任長老)** when the church was accepted by the Presbytery (PCUSA).
 - [[works/taiwaneseamericanhistory-org/ourjourneys253|253. 1990年美國人口普查 — TACL的角色 / 周實]] — the Jan 1987 follow-up organizing meeting for the 1990 Census Joint Committee (40+ SoCal 社團 endorsing TACL's lead) was held **at FPCLA** with 20+ attendees, evidencing the church as a movement organizing space.
 - [[works/taiwaneseamericanhistory-org/182-e6-b4-9b-e6-9d-89-e7-a3-af-e5-8f-b0-e7-81-a3-e5-9f-ba-e7-9d-a3-e9-95-b7-e8-8|182. 洛杉磯台灣基督長老教會三十週年紀念特刊 (2000/09)]]
 - [[works/taiwaneseamericanhistory-org/379-e6-b4-9b-e6-9d-89-e7-a3-af-e5-8f-b0-e7-81-a3-e5-9f-ba-e7-9d-a3-e9-95-b7-e8-8|379. 洛杉磯台灣基督長老教會設教二十五・三十・三十五週年紀念特刊 (2000/09)]]
