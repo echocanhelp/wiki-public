@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-20
+last_reviewed: 2026-09-21
 ---
 # Justine Ker
 
@@ -36,6 +36,7 @@ last_reviewed: 2026-09-20
 - Crowned **Miss Louisiana 2016**, top 15 at Miss America 2017 — the first Taiwanese or Asian American to represent Louisiana on the national stage (oral/band-A record: [[works/taiwaneseamerican-org/justineker|An Interview with Justine Ker: A Taiwanese American Journey to Miss Louisiana]], 2017-05).
 - In the interview she describes herself as a proud 2nd-generation Taiwanese American from Choudrant, Louisiana (pop. 845); platform: "A Beautiful Mind: Promoting Positive Mental Health," with mental-health outreach rooted in her Vanderbilt years.
 - Took part in TaiwaneseAmerican.org's impromptu roundtable on Asian American representation with cousin Crystal Lee and Boba Guys co-founders Bin Chen & Andrew Chau: [[works/taiwaneseamerican-org/representation-apa|Representation in the Asian American Community]], 2017-06 (band A).
+- Corpus check re-run 2026-09-21: hit set = whos1124, justineker interview, representation-apa, works/index only — all already absorbed above; nothing new absorbable.
 - TAH Who's Who entry recorded 2016-07: [[works/taiwaneseamericanhistory-org/whos1124-justine-ker|1124. Justine Ker /2016/07]].
 
 ## Sources
