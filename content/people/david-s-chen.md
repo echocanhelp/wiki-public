@@ -56,6 +56,7 @@ HOLD: corpus gives the middle-initial form "David S. **C.** Chen" vs the page's 
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/david-s-chen/)
 
 ## Related Pages
+- [[works/taiwaneseamericanhistory-org/whos876-david-s-chen|TAH #876 David S. Chen 陳皙宗 百科 entry]]
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
