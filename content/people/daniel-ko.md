@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-20
+last_reviewed: 2026-09-21
 ---
 # Daniel Ko (柯耀宗博士)
 
@@ -33,7 +33,7 @@ last_reviewed: 2026-09-20
 <!-- tah-tables:end -->
 
 ## Role in the Community
-- 1969 — Co-founded the Pittsburgh Taiwanese Association with Edward Huang (黃東昇), Fu-Chen Lo, and Chiung-hui Ko; the young families looked after Taiwanese students in Pittsburgh, hosting Mid-Autumn and Lunar New Year parties, symposia, and softball games. See [[works/taiwaneseamericanhistory-org/ourjourneys292-eng|Our Journeys 292 — Pittsburgh Taiwanese Association]].
+- 1969 — Co-founded the Pittsburgh Taiwanese Association with 羅福全 (Fu-Chen Lo), Edward Huang (黃東昇), and Chiung-hui Ko (柯炯輝) as young families looking after Taiwanese students in Pittsburgh. 羅福全's house on Penn Avenue — until he left for a UN post in early 1973 — served as the association's operating hub, even hosting student weddings; the group later borrowed university, church, and park venues for Mid-Autumn welcome parties, Lunar New Year dinners, dumpling parties, table-tennis and bridge tournaments, autumn foliage trips, softball games, and life symposia, plus lectures by visiting figures from Taiwan including 黃信介, 呂秀蓮, 李喬, 楊青矗, 黃春明, and 高俊明. After the 美麗島事件 (1979-12-10) the association held a packed symposium at the University of Pittsburgh's Lawrence Hall on 12-15; 18 months later, when 陳文成 — affiliated with Carnegie Mellon — was found dead at his alma mater NTU after a 警總 interview in which police played his symposium remarks, the association joined the demonstrations in Pittsburgh's Oakland campus district. See [[works/taiwaneseamericanhistory-org/ourjourneys292-eng|Our Journeys 292 — Pittsburgh Taiwanese Association]] (EN) and [[works/taiwaneseamericanhistory-org/ourjourneys292|Our Journeys 292]] (中文原稿).
 - Long-time East Coast resident, active in the Taiwanese American Conference – East Coast (TAC-EC), held annually since 1970.
 - After retiring to the San Francisco Bay area in 2013, pushed TAC-WC to establish a standing Board like TAC-EC's; following the joint TAC-WC/NATPA 2016 Bay Area conference (500 participants), he, Steve Lin (林俊提) and Ed Huang convened regional leaders at the Taiwan Night to create the TAC-WC Board and served as its appointed advisor. See [[works/taiwaneseamericanhistory-org/ourjourneys352|Our Journeys 352 — TAC-WC Board]].
 - Who's Who entry: [[works/taiwaneseamericanhistory-org/whoswho1187|1187. Daniel Ko 柯耀宗 / 2016/07]].

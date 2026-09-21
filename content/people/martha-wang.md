@@ -40,6 +40,7 @@ last_reviewed: 2026-09-21
 - **Published letter:** authored [[works/taiwaneseamericanhistory-org/mystories641|641. 給李登輝總統的信]] (06/2018), held in the TAHS story corpus.
 - **TAHS encyclopedia record:** [[works/taiwaneseamericanhistory-org/64-mrs-martha-wang-e9-84-9e-e7-be-8e-e7-8f-a0-e5-a5-b3-e5-a3-ab|64. Martha Wang 鄞美珠]] (2014-10-19).
 - **Husband's memorial record:** [[works/taiwaneseamericanhistory-org/ourjourneys334|334. 故王康陸秘書長告別式及骨灰佈撒行程記事]] (陳宏達, 06/2018) documents the farewell of her husband 王康陸, identified in the record by the title 秘書長.
+- **Annual memorial concert:** since 王康陸's sudden death, the 美東台灣人夏令會 has held a 「王康陸紀念音樂會」 each early July; 遺孀Martha或兒子常出席追溯他的事蹟, and the concert closes with his favorite 「流浪者之歌」 ([[works/taiwaneseamericanhistory-org/ourjourneys302|302. 王康陸紀念音樂會記事]])。
 
 ## Sources
 - [TAH #64 encyclopedia: 64. Martha Wang 鄞美珠](https://taiwaneseamericanhistory.org/64-mrs-martha-wang-%e9%84%9e%e7%be%8e%e7%8f%a0%e5%a5%b3%e5%a3%ab/)
