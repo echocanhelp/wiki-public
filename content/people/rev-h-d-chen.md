@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-20
+last_reviewed: 2026-09-21
 ---
 # Rev. H. D. Chen (陳浩德牧師)
 
@@ -47,6 +47,7 @@ last_reviewed: 2026-09-20
 - Served as Chair (中原區) of the [[organizations/national-taiwanese-presbyterian-council|National Taiwanese Presbyterian Council]] in 2020, per the council's Past Chairs roster.
 - Listed among PCT-related Taiwanese American clergy in [[organizations/presbyterian-church-in-taiwan|Presbyterian Church in Taiwan]] network roster.
 - His own TAH encyclopedia entry ([[works/taiwaneseamericanhistory-org/whos-who-1824-h-d-chen|TAH #1824]]) is bibliographic only — no additional corpus biography found.
+- SKIP-deepen (slice 09201503-14, 2026-09-21): re-grepped `content/works` / `content/articles` for 陳浩德 / H. D. Chen — only hit is the own-entry row in works/index.md. Verified-saturated.
 
 ## Network
 - [[organizations/presbyterian-church-in-taiwan||PCT]] — TAH Who’s Who

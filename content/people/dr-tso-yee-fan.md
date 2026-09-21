@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-20
+last_reviewed: 2026-09-21
 ---
 # Dr. Tso-Yee Fan (范佐怡博士)
 
@@ -41,7 +41,7 @@ last_reviewed: 2026-09-20
 
 ## Role in the Community
 - Recorded in the TAHS/TAH Who's Who corpus as a Taiwanese-American engineer/scientist (MIT Lincoln Laboratory): [[works/taiwaneseamericanhistory-org/whos-who-2287-tso-yee-fan|2287. Dr. Tso-Yee Fan 范佐怡博士]] (published 2020-10-21).
-- Corpus check (2026-09-18): grep of `content/works` + `content/articles` for 范佐怡 / Tso-Yee Fan returned only this own Who's Who record and the works index — no memoir or community-activity mentions found, so no community facts beyond the TAH press-kit record are absorbable. Nothing invented.
+- Corpus check (2026-09-18): grep of `content/works` + `content/articles` for 范佐怡 / Tso-Yee Fan returned only this own Who's Who record and the works index — re-grep 2026-09-21 same result — no memoir or community-activity mentions found, so no community facts beyond the TAH press-kit record are absorbable. Nothing invented.
 
 ## Related Pages
 - [[works/taiwaneseamericanhistory-org/whos-who-2287-tso-yee-fan|2287. Dr. Tso-Yee Fan 范佐怡博士]]
