@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-20
+last_reviewed: 2026-09-21
 ---
 # Dr. B. S. Lu (呂邦雄醫師)
 
@@ -30,6 +30,7 @@ last_reviewed: 2026-09-20
 
 ## Role in the Community
 - Profiled in the TAH Foundation Who's Who story corpus: [[works/taiwaneseamericanhistory-org/whos-who-2014-b-s-lu|2014. Dr. B. S. Lu 呂邦雄醫師]] (published 2018-04-26). No further narrative facts available in the corpus beyond the bibliographic record.
+- Corpus re-grep 2026-09-21: the only hit across works/ and articles/ remains this page's own TAH encyclopedia record — no memoir/community narrative to absorb (SKIP-deepened this pass).
 
 ## Family
 

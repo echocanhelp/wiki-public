@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-20
+last_reviewed: 2026-09-21
 ---
 # Richard J. Shih (石正岡醫師)
 
@@ -36,6 +36,7 @@ _No filled family fields on the TAH profile._
 
 ## Role in the Community
 - TAH Foundation Who's Who record **#1221** (published 2016-08-06): [[works/taiwaneseamericanhistory-org/whoswho1221|1221. Richard J. Shih 石正岡 / 2016/08]] — bibliographic record only; full biographical text stays in the TAH vault.
+- Corpus re-grep 2026-09-21: the only hit across works/ and articles/ remains this page's own TAH encyclopedia record — no memoir/community narrative to absorb (SKIP-deepened this pass).
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/richard-j-shih/)

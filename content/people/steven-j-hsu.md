@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-20
+last_reviewed: 2026-09-21
 ---
 # Steven J. Hsu (許中人醫師)
 
@@ -40,6 +40,8 @@ _No filled family fields on the TAH profile._
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/steven-j-hsu/)
 
+## Working notes
+- 2026-09-21 deepen-x slice 09210051-17: SKIP — corpus grep for 許中人 / Steven J. Hsu returns only his own band-B bibliographic record [[works/taiwaneseamericanhistory-org/whsoswho1354|1354. Steven J. Hsu 許中人 / 2016-11]] (full text in vault) plus index listings; no community/corpus facts absorbable.
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
