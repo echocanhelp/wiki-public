@@ -38,9 +38,14 @@ last_reviewed: 2026-09-21
 
 ## Role in the Community
 
-Corpus presence is limited to her TAH Who's Who bibliographic record — re-grepped 2026-09-20 (angellee / 安仁理) against content/works and content/articles: no memoir or article mentions found beyond it:
+Corpus presence is limited to her TAH Who's Who bibliographic record — re-grepped 2026-09-21 (angellee / 安仁理) against content/works and content/articles: no memoir or article mentions found beyond it:
 
 - [[works/taiwaneseamericanhistory-org/whos872-angellee-shaw-chen|TAH #872 Who's Who record 陳安仁理]] (2016/03)
+
+Family-layer corpus context (absorbed 2026-09-21): she is part of the Shaw Chen 兄弟姐妹 cluster documented in the TAH corpus, consistent with the existing "Father: 陳哲仁 Mother: 蕭永真" field:
+
+- Mother 蕭永真 has her own records: [[works/taiwaneseamericanhistory-org/whos-who-473-enchin-shaw-chen|TAH #473 Enchin Shaw Chen 蕭永真]] and [[works/taiwaneseamericanhistory-org/collection-of-mrs-enchin-shaw-chen|#8 Collection of Mrs. Enchin Shaw Chen 蕭永真女士的收藏]]; see also [[people/enchin-shaw-chen|蕭永真]].
+- Siblings in adjacent Who's Who records: [[people/michellee-shaw-chen|Michellee Shaw Chen 陳美真理]] ([[works/taiwaneseamericanhistory-org/whos871-michellee-shaw-chen|TAH #871]]) and [[people/shante-shawsean-chen|Shante Shaw (Sean) Chen 陳善哲]] ([[works/taiwaneseamericanhistory-org/whos-who-870-shante-shaw-chen|TAH #870]]).
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/angellee-shaw-chen/)
