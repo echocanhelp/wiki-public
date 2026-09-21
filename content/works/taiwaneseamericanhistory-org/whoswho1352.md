@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-10-27 — published
 
 ## Subjects
-- [[people/hung-ya-chao.md|Hung Ya Chao]] — mentioned in this record
+- [[people/hung-ya-chao|Hung Ya Chao]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

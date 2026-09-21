@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2021-01-02 — published
 
 ## Subjects
-- [[people/leon-chang.md|Leon Chang]] — mentioned in this record
+- [[people/leon-chang|Leon Chang]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

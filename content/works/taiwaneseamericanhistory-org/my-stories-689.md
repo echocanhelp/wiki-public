@@ -62,8 +62,8 @@ Posted in 08/2019
 
 ## Subjects
 - [[people/christine-l-yang|林壽英]]
-- [[people/christine-l-yang.md|Christine L. Yang]] — mentioned in this record
-- [[people/jackson-kuo.md|郭敏俊]] — mentioned in this record
+- [[people/christine-l-yang|Christine L. Yang]] — mentioned in this record
+- [[people/jackson-kuo|郭敏俊]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

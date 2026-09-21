@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2018-09-19 — published
 
 ## Subjects
-- [[people/prof-wen-hsiung-ko.md|Prof. Wen-Hsiung Ko]] — mentioned in this record
+- [[people/prof-wen-hsiung-ko|Prof. Wen-Hsiung Ko]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

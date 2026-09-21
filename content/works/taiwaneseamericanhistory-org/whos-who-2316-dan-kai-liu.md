@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2021-02-22 — published
 
 ## Subjects
-- [[people/dr-dan-kai-liu.md|劉登凱博士]] — mentioned in this record
+- [[people/dr-dan-kai-liu|劉登凱博士]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

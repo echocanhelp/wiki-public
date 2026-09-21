@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2014-11-15 — published
 
 ## Subjects
-- [[people/roland-p-brown.md|Roland P. Brown]] — mentioned in this record
+- [[people/roland-p-brown|Roland P. Brown]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

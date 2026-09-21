@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2014-12-21 — published
 
 ## Subjects
-- [[people/dr-hong-chien-lin.md|Dr. Hong-Chien Lin]] — mentioned in this record
+- [[people/dr-hong-chien-lin|Dr. Hong-Chien Lin]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

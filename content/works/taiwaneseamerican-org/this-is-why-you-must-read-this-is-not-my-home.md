@@ -167,8 +167,8 @@ Ian Tseng was the 2022 Betty L. Yu and Jin C. Yu Creative Writing Prizes Grand P
 - Community
 - Featured
 - Interviews
-- [[people/alvina-ling.md|Alvina Ling]] — mentioned in this record
-- [[people/grace-lin.md|Grace Lin]] — mentioned in this record
+- [[people/alvina-ling|Alvina Ling]] — mentioned in this record
+- [[people/grace-lin|Grace Lin]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

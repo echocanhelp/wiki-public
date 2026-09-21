@@ -152,15 +152,15 @@ Posted in 07/2017
 - [[people/ming-shian-kao]]
 - [[people/show-ya-wang]]
 - [[people/tina-chang]]
-- [[people/charles-tsai.md|Charles Tsai]] — mentioned in this record
-- [[people/show-ya-wang.md|Show-Ya Wang]] — mentioned in this record
-- [[people/joyce-lin.md|Joyce Lin]] — mentioned in this record
-- [[people/tina-chang.md|Tina Chang]] — mentioned in this record
-- [[organizations/presbyterian-church-in-taiwan.md|Presbyterian Church in Taiwan]] — mentioned in this record
-- [[people/gene-jack-wang.md|王俊傑]] — mentioned in this record
-- [[people/dr-lii-mei-beverly-chang.md|張理美醫師]] — mentioned in this record
-- [[people/c-c-hsieh.md|謝正忠]] — mentioned in this record
-- [[people/wudong-huang.md|黃武東牧師]] — mentioned in this record
+- [[people/charles-tsai|Charles Tsai]] — mentioned in this record
+- [[people/show-ya-wang|Show-Ya Wang]] — mentioned in this record
+- [[people/joyce-lin|Joyce Lin]] — mentioned in this record
+- [[people/tina-chang|Tina Chang]] — mentioned in this record
+- [[organizations/presbyterian-church-in-taiwan|Presbyterian Church in Taiwan]] — mentioned in this record
+- [[people/gene-jack-wang|王俊傑]] — mentioned in this record
+- [[people/dr-lii-mei-beverly-chang|張理美醫師]] — mentioned in this record
+- [[people/c-c-hsieh|謝正忠]] — mentioned in this record
+- [[people/wudong-huang|黃武東牧師]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

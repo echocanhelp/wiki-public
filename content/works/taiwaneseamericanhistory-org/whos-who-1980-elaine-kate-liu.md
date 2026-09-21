@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-12-26 — published
 
 ## Subjects
-- [[people/elaine-kate-liu.md|Elaine Kate Liu]] — mentioned in this record
+- [[people/elaine-kate-liu|Elaine Kate Liu]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

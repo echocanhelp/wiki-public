@@ -32,8 +32,8 @@ _Bibliographic record only. Full text stays in the vault._
 - 2015-12-27 — published
 
 ## Subjects
-- [[organizations/taiwanese-association-of-america.md|Taiwanese Association of America]] — mentioned in this record
-- [[organizations/taiwanese-association-of-america-boston.md|Taiwanese Association of America Boston]] — mentioned in this record
+- [[organizations/taiwanese-association-of-america|Taiwanese Association of America]] — mentioned in this record
+- [[organizations/taiwanese-association-of-america-boston|Taiwanese Association of America Boston]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

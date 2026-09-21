@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2018-07-31 — published
 
 ## Subjects
-- [[people/fang-yuh-rita-chen.md|Fang-Yuh Rita Chen]] — mentioned in this record
+- [[people/fang-yuh-rita-chen|Fang-Yuh Rita Chen]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

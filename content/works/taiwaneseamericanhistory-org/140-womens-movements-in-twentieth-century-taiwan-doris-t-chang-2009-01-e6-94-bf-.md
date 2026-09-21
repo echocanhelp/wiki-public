@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2014-10-16 — published
 
 ## Subjects
-- [[people/doris-t-chang.md|Doris T. Chang]] — mentioned in this record
+- [[people/doris-t-chang|Doris T. Chang]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

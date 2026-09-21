@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-03-26 — published
 
 ## Subjects
-- [[people/yvonne-lin.md|Yvonne lin]] — mentioned in this record
+- [[people/yvonne-lin|Yvonne lin]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

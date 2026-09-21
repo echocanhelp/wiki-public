@@ -134,18 +134,18 @@ Posted in 09/2016
 - [[people/y-l-lin]]
 - [[people/y-t-lin]]
 - [[people/yung-hwa-hsu]]
-- [[people/kocheng-kent-liu.md|劉格正]] — mentioned in this record
-- [[people/julie-wong.md|翁致理]] — mentioned in this record
-- [[people/yung-lo-lin.md|林永樂]] — mentioned in this record
-- [[people/sin-i-hsiao.md|蕭欣義]] — mentioned in this record
-- [[people/c-k-kuo.md|郭重國]] — mentioned in this record
-- [[people/tah-p-bcf3a35e0a.md|劉文章]] — mentioned in this record
-- [[people/patrick-huang.md|黃再添]] — mentioned in this record
-- [[people/elena-ling.md|黃美惠]] — mentioned in this record
-- [[people/tsung-ming-hsieh.md|謝聰敏]] — mentioned in this record
-- [[people/yung-hwa-hsu.md|許永華]] — mentioned in this record
-- [[people/t-y-ko.md|柯翠園]] — mentioned in this record
-- [[people/henry-lee.md|李豐隆]] — mentioned in this record
+- [[people/kocheng-kent-liu|劉格正]] — mentioned in this record
+- [[people/julie-wong|翁致理]] — mentioned in this record
+- [[people/yung-lo-lin|林永樂]] — mentioned in this record
+- [[people/sin-i-hsiao|蕭欣義]] — mentioned in this record
+- [[people/c-k-kuo|郭重國]] — mentioned in this record
+- [[people/tah-p-bcf3a35e0a|劉文章]] — mentioned in this record
+- [[people/patrick-huang|黃再添]] — mentioned in this record
+- [[people/elena-ling|黃美惠]] — mentioned in this record
+- [[people/tsung-ming-hsieh|謝聰敏]] — mentioned in this record
+- [[people/yung-hwa-hsu|許永華]] — mentioned in this record
+- [[people/t-y-ko|柯翠園]] — mentioned in this record
+- [[people/henry-lee|李豐隆]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

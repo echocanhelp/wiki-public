@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2015-10-30 — published
 
 ## Subjects
-- [[organizations/world-taiwan-foundation.md|World Taiwan Foundation]] — mentioned in this record
+- [[organizations/world-taiwan-foundation|World Taiwan Foundation]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

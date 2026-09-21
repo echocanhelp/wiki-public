@@ -161,16 +161,16 @@ Posted in 12/2016
 - [[people/j-z-lee]]
 - [[people/s-y-liu]]
 - [[people/stella-landauer]]
-- [[people/enchin-shaw-chen.md|Enchin Shaw Chen]] — mentioned in this record
-- [[people/stella-landauer.md|陳翠玉]] — mentioned in this record
-- [[people/d-y-liu.md|劉德勇]] — mentioned in this record
-- [[people/donald-c-j-chen.md|陳哲仁醫師]] — mentioned in this record
-- [[people/j-z-lee.md|李錦容]] — mentioned in this record
-- [[people/david-s-chen.md|陳皙宗牧師]] — mentioned in this record
-- [[people/s-y-liu.md|劉淑媛]] — mentioned in this record
-- [[people/dr-seifu-ryu.md|劉清風醫師]] — mentioned in this record
-- [[people/dr-or-hsieh.md|謝娥醫師]] — mentioned in this record
-- [[people/rev-c-y-huang.md|黃主義牧師]] — mentioned in this record
+- [[people/enchin-shaw-chen|Enchin Shaw Chen]] — mentioned in this record
+- [[people/stella-landauer|陳翠玉]] — mentioned in this record
+- [[people/d-y-liu|劉德勇]] — mentioned in this record
+- [[people/donald-c-j-chen|陳哲仁醫師]] — mentioned in this record
+- [[people/j-z-lee|李錦容]] — mentioned in this record
+- [[people/david-s-chen|陳皙宗牧師]] — mentioned in this record
+- [[people/s-y-liu|劉淑媛]] — mentioned in this record
+- [[people/dr-seifu-ryu|劉清風醫師]] — mentioned in this record
+- [[people/dr-or-hsieh|謝娥醫師]] — mentioned in this record
+- [[people/rev-c-y-huang|黃主義牧師]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2014-12-28 — published
 
 ## Subjects
-- [[people/steven-shih-chen.md|Steven Shih Chen]] — mentioned in this record
+- [[people/steven-shih-chen|Steven Shih Chen]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

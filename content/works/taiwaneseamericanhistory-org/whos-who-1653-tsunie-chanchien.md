@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-05-11 — published
 
 ## Subjects
-- [[people/dr-tsunie-chanchien.md|Dr. Tsunie Chanchien]] — mentioned in this record
+- [[people/dr-tsunie-chanchien|Dr. Tsunie Chanchien]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2018-02-01 — published
 
 ## Subjects
-- [[people/dr-yao-tseng-chen.md|Dr. Yao-Tseng Chen]] — mentioned in this record
+- [[people/dr-yao-tseng-chen|Dr. Yao-Tseng Chen]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

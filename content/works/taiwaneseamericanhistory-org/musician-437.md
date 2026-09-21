@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2019-10-18 — published
 
 ## Subjects
-- [[people/joey-chang.md|Joey Chang]] — mentioned in this record
+- [[people/joey-chang|Joey Chang]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

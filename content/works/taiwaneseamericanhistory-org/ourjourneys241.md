@@ -73,8 +73,8 @@ Posted in 08/2016
 ## Subjects
 - [[people/ken-lee]]
 - [[people/kocheng-kent-liu]]
-- [[people/kocheng-kent-liu.md|劉格正]] — mentioned in this record
-- [[people/ken-lee.md|李彥禎]] — mentioned in this record
+- [[people/kocheng-kent-liu|劉格正]] — mentioned in this record
+- [[people/ken-lee|李彥禎]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

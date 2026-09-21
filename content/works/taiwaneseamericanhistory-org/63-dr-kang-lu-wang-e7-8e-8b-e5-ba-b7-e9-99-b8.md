@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2014-10-19 — published
 
 ## Subjects
-- [[people/kang-lu-wang.md|Kang-Lu Wang]] — mentioned in this record
+- [[people/kang-lu-wang|Kang-Lu Wang]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

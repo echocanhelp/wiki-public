@@ -70,7 +70,7 @@ Intercollegiate Taiwanese American Students Association (ITASA) is a non-profit 
 
 ## Subjects
 - Community
-- [[organizations/taiwanese-american-students-association.md|Taiwanese American Students Association]] — mentioned in this record
+- [[organizations/taiwanese-american-students-association|Taiwanese American Students Association]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

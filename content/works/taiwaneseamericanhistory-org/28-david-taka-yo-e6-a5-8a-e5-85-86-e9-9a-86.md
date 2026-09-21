@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2014-10-04 — published
 
 ## Subjects
-- [[people/david-taka-yo.md|David Taka Yo]] — mentioned in this record
+- [[people/david-taka-yo|David Taka Yo]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2021-04-28 — published
 
 ## Subjects
-- [[people/hui-na-lin.md|賴慧娜]] — mentioned in this record
+- [[people/hui-na-lin|賴慧娜]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

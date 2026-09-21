@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2014-10-19 — published
 
 ## Subjects
-- [[people/cheng-long-tsai.md|Cheng Long Tsai]] — mentioned in this record
+- [[people/cheng-long-tsai|Cheng Long Tsai]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

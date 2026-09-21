@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2018-10-14 — published
 
 ## Subjects
-- [[people/maw-kuen-wu.md|Prof. Maw-Kuen Wu]] — mentioned in this record
+- [[people/maw-kuen-wu|Prof. Maw-Kuen Wu]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

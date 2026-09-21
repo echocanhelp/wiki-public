@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2015-03-08 — published
 
 ## Subjects
-- [[people/cindy-hsu-chung.md|許弘琪]] — mentioned in this record
+- [[people/cindy-hsu-chung|許弘琪]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

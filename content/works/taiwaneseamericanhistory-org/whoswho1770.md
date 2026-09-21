@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-07-19 — published
 
 ## Subjects
-- [[people/c-n-chen.md|C. N. Chen]] — mentioned in this record
+- [[people/c-n-chen|C. N. Chen]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

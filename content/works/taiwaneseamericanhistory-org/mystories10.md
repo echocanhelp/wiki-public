@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2014-08-25 — published
 
 ## Subjects
-- [[people/jason-chang.md|張哲雄]] — mentioned in this record
+- [[people/jason-chang|張哲雄]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

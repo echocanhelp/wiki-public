@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-01-18 — published
 
 ## Subjects
-- [[people/jane-h-hsiao.md|Dr. Jane H. Hsiao]] — mentioned in this record
+- [[people/jane-h-hsiao|Dr. Jane H. Hsiao]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

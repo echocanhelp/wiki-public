@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-03-23 — published
 
 ## Subjects
-- [[people/c-y-wang.md|C. Y. Wang]] — mentioned in this record
+- [[people/c-y-wang|C. Y. Wang]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

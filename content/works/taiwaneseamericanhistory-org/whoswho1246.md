@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-08-15 — published
 
 ## Subjects
-- [[people/s-j-chou.md|S. J. Chou]] — mentioned in this record
+- [[people/s-j-chou|S. J. Chou]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-06-05 — published
 
 ## Subjects
-- [[people/yen-ching-chiu.md|Yen-Ching Chiu]] — mentioned in this record
+- [[people/yen-ching-chiu|Yen-Ching Chiu]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

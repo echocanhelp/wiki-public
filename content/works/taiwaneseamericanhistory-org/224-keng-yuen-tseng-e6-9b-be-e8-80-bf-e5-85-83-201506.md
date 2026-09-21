@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2015-06-28 — published
 
 ## Subjects
-- [[people/keng-yuen-tseng.md|Keng-Yuen Tseng]] — mentioned in this record
+- [[people/keng-yuen-tseng|Keng-Yuen Tseng]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-06-15 — published
 
 ## Subjects
-- [[people/h-m-yin.md|殷惠敏]] — mentioned in this record
+- [[people/h-m-yin|殷惠敏]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

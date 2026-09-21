@@ -1,0 +1,4 @@
+people/jean-j-fang.md
+people/rev-rui-long-lin.md
+organizations/formosan-association-for-human-rights.md
+organizations/taiwanese-association-of-wisconsin.md

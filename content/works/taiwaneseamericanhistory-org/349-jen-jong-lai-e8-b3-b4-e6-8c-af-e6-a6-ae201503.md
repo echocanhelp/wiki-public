@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2015-03-24 — published
 
 ## Subjects
-- [[people/jen-jong-lai.md|Jen-Jong Lai]] — mentioned in this record
+- [[people/jen-jong-lai|Jen-Jong Lai]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

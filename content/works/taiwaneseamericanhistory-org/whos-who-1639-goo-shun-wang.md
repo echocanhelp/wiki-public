@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-05-10 — published
 
 ## Subjects
-- [[people/goo-shun-wang.md|Goo-Shun Wang]] — mentioned in this record
+- [[people/goo-shun-wang|Goo-Shun Wang]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

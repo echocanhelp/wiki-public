@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-07-02 — published
 
 ## Subjects
-- [[people/john-chen.md|John Chen]] — mentioned in this record
+- [[people/john-chen|John Chen]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

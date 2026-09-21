@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-09-20 — published
 
 ## Subjects
-- [[people/l-h-chen.md|L. H. Chen]] — mentioned in this record
+- [[people/l-h-chen|L. H. Chen]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

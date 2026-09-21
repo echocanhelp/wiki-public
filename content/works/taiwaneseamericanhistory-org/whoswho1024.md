@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-05-27 — published
 
 ## Subjects
-- [[people/maw-lin.md|林茂雄]] — mentioned in this record
+- [[people/maw-lin|林茂雄]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

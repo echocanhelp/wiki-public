@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-02-16 — published
 
 ## Subjects
-- [[people/tony-chen.md|Tony Chen]] — mentioned in this record
+- [[people/tony-chen|Tony Chen]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2014-10-04 — published
 
 ## Subjects
-- [[people/prof-trong-rong-tsai.md|Prof. Trong-Rong Tsai]] — mentioned in this record
+- [[people/prof-trong-rong-tsai|Prof. Trong-Rong Tsai]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

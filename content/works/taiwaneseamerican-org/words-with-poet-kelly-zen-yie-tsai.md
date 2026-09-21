@@ -39,8 +39,8 @@ To learn more about Kelly, or to see her upcoming performance schedule, visit: h
 ## Subjects
 - Arts &amp; Culture
 - Interviews
-- [[people/ho-chie-tsai.md|Ho Chie Tsai]] — mentioned in this record
-- [[people/karen-lin.md|Karen Lin]] — mentioned in this record
+- [[people/ho-chie-tsai|Ho Chie Tsai]] — mentioned in this record
+- [[people/karen-lin|Karen Lin]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-03-13 — published
 
 ## Subjects
-- [[people/patrick-huang.md|Patrick Huang]] — mentioned in this record
+- [[people/patrick-huang|Patrick Huang]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2018-04-18 — published
 
 ## Subjects
-- [[people/dr-vincent-chuang.md|Dr. Vincent Chuang]] — mentioned in this record
+- [[people/dr-vincent-chuang|Dr. Vincent Chuang]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

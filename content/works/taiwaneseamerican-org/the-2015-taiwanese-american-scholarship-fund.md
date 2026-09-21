@@ -67,7 +67,7 @@ http://tascholarshipfund.org/2015-scholarships/
 ## Subjects
 - Community
 - Featured
-- [[organizations/taiwanese-american-scholarship-fund.md|Taiwanese American Scholarship Fund]] — mentioned in this record
+- [[organizations/taiwanese-american-scholarship-fund|Taiwanese American Scholarship Fund]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

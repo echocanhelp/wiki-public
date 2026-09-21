@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-06-25 — published
 
 ## Subjects
-- [[people/samuel-s-cheung.md|Samuel S. Cheung]] — mentioned in this record
+- [[people/samuel-s-cheung|Samuel S. Cheung]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

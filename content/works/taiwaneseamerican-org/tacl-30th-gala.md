@@ -49,7 +49,7 @@ Formed in 1985, TACL oversees a multitude of programs to build an understanding 
 ## Subjects
 - Community
 - Featured
-- [[organizations/taiwanese-american-citizens-league.md|Taiwanese American Citizens League]] — mentioned in this record
+- [[organizations/taiwanese-american-citizens-league|Taiwanese American Citizens League]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

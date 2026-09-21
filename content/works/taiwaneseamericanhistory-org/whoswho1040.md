@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-05-28 — published
 
 ## Subjects
-- [[people/f-m-huang.md|黃富美]] — mentioned in this record
+- [[people/f-m-huang|黃富美]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

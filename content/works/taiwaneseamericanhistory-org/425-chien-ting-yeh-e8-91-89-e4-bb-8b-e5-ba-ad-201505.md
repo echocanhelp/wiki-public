@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2015-05-24 — published
 
 ## Subjects
-- [[people/chien-ting-yeh.md|Chien-Ting Yeh]] — mentioned in this record
+- [[people/chien-ting-yeh|Chien-Ting Yeh]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

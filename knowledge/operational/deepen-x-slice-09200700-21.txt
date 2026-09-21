@@ -1,0 +1,4 @@
+people/tom-thomas-shih.md
+organizations/taiwanese-american-student-association-at-uc-santa-barbara.md
+organizations/taiwanese-sporting-association-new-jersey.md
+people/chi-yuan-chen.md

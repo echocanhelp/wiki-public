@@ -123,7 +123,7 @@ Email: taiwaneseromanization@gmail.com
 ## Subjects
 - Arts &amp; Culture
 - Interviews
-- [[organizations/taiwanese-student-association.md|Taiwanese Student Association]] — mentioned in this record
+- [[organizations/taiwanese-student-association|Taiwanese Student Association]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

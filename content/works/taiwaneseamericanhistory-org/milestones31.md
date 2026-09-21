@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-02-03 — published
 
 ## Subjects
-- [[people/yuan-tseh-lee.md|Dr. Yuan-Tseh Lee]] — mentioned in this record
+- [[people/yuan-tseh-lee|Dr. Yuan-Tseh Lee]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

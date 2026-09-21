@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-07-09 — published
 
 ## Subjects
-- [[people/mei-chiang-su.md|Mei Chiang Su]] — mentioned in this record
+- [[people/mei-chiang-su|Mei Chiang Su]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

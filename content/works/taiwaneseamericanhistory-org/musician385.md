@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-02-19 — published
 
 ## Subjects
-- [[people/simon-shiao.md|Simon Shiao]] — mentioned in this record
+- [[people/simon-shiao|Simon Shiao]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

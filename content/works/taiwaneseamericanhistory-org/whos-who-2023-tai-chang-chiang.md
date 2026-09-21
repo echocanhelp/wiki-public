@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2018-02-12 — published
 
 ## Subjects
-- [[people/prof-tai-chang-chiang.md|Prof. Tai Chang Chiang]] — mentioned in this record
+- [[people/prof-tai-chang-chiang|Prof. Tai Chang Chiang]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

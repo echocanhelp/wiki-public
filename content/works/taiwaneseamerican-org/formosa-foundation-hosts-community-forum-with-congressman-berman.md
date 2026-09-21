@@ -48,7 +48,7 @@ We are fortunate that Congressman Berman has taken the time out of his busy sche
 
 ## Subjects
 - West Coast
-- [[organizations/formosa-foundation.md|Formosa Foundation]] — mentioned in this record
+- [[organizations/formosa-foundation|Formosa Foundation]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

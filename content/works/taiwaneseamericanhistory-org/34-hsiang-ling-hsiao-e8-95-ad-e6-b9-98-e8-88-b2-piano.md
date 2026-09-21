@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2014-10-11 — published
 
 ## Subjects
-- [[people/hsiang-ling-hsiao.md|Hsiang-Ling Hsiao]] — mentioned in this record
+- [[people/hsiang-ling-hsiao|Hsiang-Ling Hsiao]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

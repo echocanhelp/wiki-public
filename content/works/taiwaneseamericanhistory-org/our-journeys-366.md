@@ -55,7 +55,7 @@ Posted in 02/2021
 - 2021-02-05 — published
 
 ## Subjects
-- [[people/maysing-huang.md|楊黃美幸]] — mentioned in this record
+- [[people/maysing-huang|楊黃美幸]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

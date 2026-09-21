@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2018-03-06 — published
 
 ## Subjects
-- [[people/judith-sullivan.md|Judith Sullivan]] — mentioned in this record
+- [[people/judith-sullivan|Judith Sullivan]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

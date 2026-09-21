@@ -85,8 +85,8 @@ More from Brian: Director’s Picks: Ten Films from Taiwan to Watch
 ## Subjects
 - Arts &amp; Culture
 - Community
-- [[people/fang-yi-sheu.md|Fang-Yi Sheu]] — mentioned in this record
-- [[people/richard-chen.md|Richard Chen]] — mentioned in this record
+- [[people/fang-yi-sheu|Fang-Yi Sheu]] — mentioned in this record
+- [[people/richard-chen|Richard Chen]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

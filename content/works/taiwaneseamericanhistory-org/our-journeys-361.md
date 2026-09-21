@@ -55,7 +55,7 @@ posted on 11/30/2020
 - 2020-11-30 — published
 
 ## Subjects
-- [[people/steven-shih-chen.md|陳士駿]] — mentioned in this record
+- [[people/steven-shih-chen|陳士駿]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2018-04-26 — published
 
 ## Subjects
-- [[people/dr-b-s-lu.md|呂邦雄醫師]] — mentioned in this record
+- [[people/dr-b-s-lu|呂邦雄醫師]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

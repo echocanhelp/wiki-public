@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2014-12-19 — published
 
 ## Subjects
-- [[people/dr-jen-tzaw-huang.md|Dr. Jen-Tzaw Huang]] — mentioned in this record
+- [[people/dr-jen-tzaw-huang|Dr. Jen-Tzaw Huang]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

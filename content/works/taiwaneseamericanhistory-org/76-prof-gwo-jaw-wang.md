@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2018-09-06 — published
 
 ## Subjects
-- [[people/prof-gwo-jaw-wang.md|Prof. Gwo Jaw Wang]] — mentioned in this record
+- [[people/prof-gwo-jaw-wang|Prof. Gwo Jaw Wang]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

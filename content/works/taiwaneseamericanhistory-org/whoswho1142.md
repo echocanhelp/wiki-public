@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-07-14 — published
 
 ## Subjects
-- [[people/j-c-lu.md|盧健治]] — mentioned in this record
+- [[people/j-c-lu|盧健治]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

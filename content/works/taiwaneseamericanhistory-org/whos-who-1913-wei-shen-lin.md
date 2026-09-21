@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-10-08 — published
 
 ## Subjects
-- [[people/dr-wei-shen-w-lin.md|Dr. Wei-Shen W. Lin]] — mentioned in this record
+- [[people/dr-wei-shen-w-lin|Dr. Wei-Shen W. Lin]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

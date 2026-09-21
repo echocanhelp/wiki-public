@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2018-11-17 — published
 
 ## Subjects
-- [[people/alice-chen.md|Alice Chen]] — mentioned in this record
+- [[people/alice-chen|Alice Chen]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

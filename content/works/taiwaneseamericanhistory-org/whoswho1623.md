@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-04-23 — published
 
 ## Subjects
-- [[people/yang-jia-you.md|Charles Yang]] — mentioned in this record
+- [[people/yang-jia-you|Charles Yang]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

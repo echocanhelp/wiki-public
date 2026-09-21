@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2015-12-10 — published
 
 ## Subjects
-- [[people/david-j-lu.md|David J. Lu]] — mentioned in this record
+- [[people/david-j-lu|David J. Lu]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-03-11 — published
 
 ## Subjects
-- [[people/john-chin-jung-cheng.md|John Chin-Jung Cheng]] — mentioned in this record
+- [[people/john-chin-jung-cheng|John Chin-Jung Cheng]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-09-18 — published
 
 ## Subjects
-- [[people/linda-wang.md|Linda Wang]] — mentioned in this record
+- [[people/linda-wang|Linda Wang]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

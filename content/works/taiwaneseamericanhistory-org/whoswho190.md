@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2015-01-03 — published
 
 ## Subjects
-- [[people/fang-ming-chen.md|Fang-Ming Chen]] — mentioned in this record
+- [[people/fang-ming-chen|Fang-Ming Chen]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

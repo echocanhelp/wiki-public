@@ -1,0 +1,4 @@
+people/shin-ruh-liu.md
+organizations/hakka-foundation.md
+people/samuel-wu.md
+people/chi-shih-huang.md

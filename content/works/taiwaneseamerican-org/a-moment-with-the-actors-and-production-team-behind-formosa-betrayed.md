@@ -38,7 +38,7 @@ The movie opens on the weekend of Feb 26-28 in major cities nationwide. With you
 
 ## Subjects
 - Interviews
-- [[people/ho-chie-tsai.md|Ho Chie Tsai]] — mentioned in this record
+- [[people/ho-chie-tsai|Ho Chie Tsai]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

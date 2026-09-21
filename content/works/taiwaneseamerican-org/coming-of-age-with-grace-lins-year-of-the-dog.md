@@ -61,7 +61,7 @@ Jenna Wu-Cardona (she-they) is a third-generation mixed and queer Taiwanese Amer
 - Community
 - Featured
 - Perspectives
-- [[people/grace-lin.md|Grace Lin]] — mentioned in this record
+- [[people/grace-lin|Grace Lin]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

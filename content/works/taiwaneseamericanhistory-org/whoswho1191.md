@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-07-30 — published
 
 ## Subjects
-- [[people/chun-nan-hsu.md|Chun-Nan Hsu]] — mentioned in this record
+- [[people/chun-nan-hsu|Chun-Nan Hsu]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

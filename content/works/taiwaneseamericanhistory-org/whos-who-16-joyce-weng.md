@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2014-10-04 — published
 
 ## Subjects
-- [[people/joyce-weng.md|Joyce Weng]] — mentioned in this record
+- [[people/joyce-weng|Joyce Weng]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

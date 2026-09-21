@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2014-10-18 — published
 
 ## Subjects
-- [[people/amber-liao.md|廖幼萱]] — mentioned in this record
+- [[people/amber-liao|廖幼萱]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

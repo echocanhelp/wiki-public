@@ -1,0 +1,4 @@
+people/rev-shirley-lin.md
+people/scott-lee.md
+people/b-h-chen.md
+people/paul-kuo.md

@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2019-02-04 — published
 
 ## Subjects
-- [[people/andrew-yang.md|楊安澤]] — mentioned in this record
+- [[people/andrew-yang|楊安澤]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

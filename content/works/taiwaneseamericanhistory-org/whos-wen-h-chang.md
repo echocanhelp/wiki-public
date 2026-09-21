@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-05-10 — published
 
 ## Subjects
-- [[people/wen-h-chang.md|Wen. H. Chang]] — mentioned in this record
+- [[people/wen-h-chang|Wen. H. Chang]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

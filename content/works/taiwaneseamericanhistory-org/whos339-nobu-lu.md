@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2015-03-22 — published
 
 ## Subjects
-- [[people/nobu-lu.md|Nobu Lu]] — mentioned in this record
+- [[people/nobu-lu|Nobu Lu]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

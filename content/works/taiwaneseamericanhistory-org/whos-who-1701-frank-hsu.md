@@ -32,8 +32,8 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-06-28 — published
 
 ## Subjects
-- [[people/prof-frank-hsu.md|Prof. Frank Hsu]] — mentioned in this record
-- [[people/frank-m-hsu.md|Frank M. Hsu]] — mentioned in this record
+- [[people/prof-frank-hsu|Prof. Frank Hsu]] — mentioned in this record
+- [[people/frank-m-hsu|Frank M. Hsu]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

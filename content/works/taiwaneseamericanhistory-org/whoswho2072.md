@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2018-03-23 — published
 
 ## Subjects
-- [[people/tiffany-ma.md|Tiffany Ma]] — mentioned in this record
+- [[people/tiffany-ma|Tiffany Ma]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2015-11-07 — published
 
 ## Subjects
-- [[people/hui-ting-yang.md|Hui-Ting Yang]] — mentioned in this record
+- [[people/hui-ting-yang|Hui-Ting Yang]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

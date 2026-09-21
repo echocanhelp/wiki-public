@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-02-28 — published
 
 ## Subjects
-- [[people/m-wang.md|M. Wang]] — mentioned in this record
+- [[people/m-wang|M. Wang]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2014-10-11 — published
 
 ## Subjects
-- [[people/ke-chia-chen.md|陳可嘉]] — mentioned in this record
+- [[people/ke-chia-chen|陳可嘉]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

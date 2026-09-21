@@ -1,0 +1,4 @@
+organizations/taiwanese-association-of-america-east-tennessee.md
+organizations/taiwanese-association-of-america-in-greater-st-louis.md
+organizations/taiwanese-american-citizens-league.md
+organizations/natea-southern-california.md

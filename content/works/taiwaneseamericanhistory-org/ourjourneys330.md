@@ -50,8 +50,8 @@ Posted in 02/2018
 
 ## Subjects
 - [[people/tzutsai-cheng|鄭自才]]
-- [[people/tzutsai-cheng.md|鄭自才]] — mentioned in this record
-- [[people/wenhsiung-luke-huang.md|黃文雄]] — mentioned in this record
+- [[people/tzutsai-cheng|鄭自才]] — mentioned in this record
+- [[people/wenhsiung-luke-huang|黃文雄]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

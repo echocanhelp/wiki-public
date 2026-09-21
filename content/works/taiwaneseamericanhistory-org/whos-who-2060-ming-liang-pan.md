@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2018-03-10 — published
 
 ## Subjects
-- [[people/dr-ming-liang-pan.md|Dr. Ming Liang Pan]] — mentioned in this record
+- [[people/dr-ming-liang-pan|Dr. Ming Liang Pan]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

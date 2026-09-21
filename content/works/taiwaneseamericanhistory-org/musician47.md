@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2014-10-11 — published
 
 ## Subjects
-- [[people/irene-lee.md|Irene Lee]] — mentioned in this record
+- [[people/irene-lee|Irene Lee]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

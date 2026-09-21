@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-01-21 — published
 
 ## Subjects
-- [[people/y-h-liang.md|Y. H. Liang]] — mentioned in this record
+- [[people/y-h-liang|Y. H. Liang]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

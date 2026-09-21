@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-05-14 — published
 
 ## Subjects
-- [[people/kim-wang-neal.md|Kim Wang-Neal]] — mentioned in this record
+- [[people/kim-wang-neal|Kim Wang-Neal]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

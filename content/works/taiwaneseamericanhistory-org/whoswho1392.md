@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-11-13 — published
 
 ## Subjects
-- [[people/alexander-yeh.md|Alexander Yeh]] — mentioned in this record
+- [[people/alexander-yeh|Alexander Yeh]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

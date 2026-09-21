@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2014-11-26 — published
 
 ## Subjects
-- [[people/cheh-jen-su.md|蘇哲仁]] — mentioned in this record
+- [[people/cheh-jen-su|蘇哲仁]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

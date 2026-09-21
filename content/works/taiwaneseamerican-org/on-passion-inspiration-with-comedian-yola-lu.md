@@ -47,7 +47,7 @@ Follow her on Twitter @yolajlucomedy
 ## Subjects
 - Arts &amp; Culture
 - Interviews
-- [[people/ho-chie-tsai.md|Ho Chie Tsai]] — mentioned in this record
+- [[people/ho-chie-tsai|Ho Chie Tsai]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

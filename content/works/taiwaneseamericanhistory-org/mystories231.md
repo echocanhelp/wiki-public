@@ -32,8 +32,8 @@ _Bibliographic record only. Full text stays in the vault._
 - 2015-04-14 — published
 
 ## Subjects
-- [[people/nami-yang.md|李淑櫻]] — mentioned in this record
-- [[people/john-enger-cheng.md|鄭榮得]] — mentioned in this record
+- [[people/nami-yang|李淑櫻]] — mentioned in this record
+- [[people/john-enger-cheng|鄭榮得]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

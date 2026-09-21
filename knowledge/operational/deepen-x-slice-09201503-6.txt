@@ -1,0 +1,4 @@
+organizations/taiwanese-student-association-at-arizona-state-university.md
+people/dr-chi-chia-hsieh.md
+people/chih-yi-chen.md
+people/rizia-h-lin.md

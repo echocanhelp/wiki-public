@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2018-03-24 — published
 
 ## Subjects
-- [[people/dr-kent-wu.md|Dr. Kent Wu]] — mentioned in this record
+- [[people/dr-kent-wu|Dr. Kent Wu]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

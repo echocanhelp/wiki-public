@@ -75,8 +75,8 @@ Posted in 02/2017
 - 2017-02-03 — published
 
 ## Subjects
-- [[people/alan-t-chen.md|陳清風]] — mentioned in this record
-- [[people/li-lin-cheng.md|鄭麗伶]] — mentioned in this record
+- [[people/alan-t-chen|陳清風]] — mentioned in this record
+- [[people/li-lin-cheng|鄭麗伶]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

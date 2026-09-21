@@ -172,11 +172,11 @@ Anna hopes to move to the Bay Area in August but is currently jobless. If you ha
 
 ## Subjects
 - Interviews
-- [[people/justin-lin.md|Justin Lin]] — mentioned in this record
-- [[people/karen-lin.md|Karen Lin]] — mentioned in this record
-- [[people/wendy-cheng.md|Wendy Cheng]] — mentioned in this record
-- [[people/anita-wen-shin-chang.md|Anita Wen-Shin Chang]] — mentioned in this record
-- [[people/jean-cheng.md|Jean Cheng]] — mentioned in this record
+- [[people/justin-lin|Justin Lin]] — mentioned in this record
+- [[people/karen-lin|Karen Lin]] — mentioned in this record
+- [[people/wendy-cheng|Wendy Cheng]] — mentioned in this record
+- [[people/anita-wen-shin-chang|Anita Wen-Shin Chang]] — mentioned in this record
+- [[people/jean-cheng|Jean Cheng]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

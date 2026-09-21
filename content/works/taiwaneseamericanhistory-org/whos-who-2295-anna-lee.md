@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2020-11-30 — published
 
 ## Subjects
-- [[people/anna-lee.md|Anna Lee]] — mentioned in this record
+- [[people/anna-lee|Anna Lee]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

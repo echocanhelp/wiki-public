@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-06-05 — published
 
 ## Subjects
-- [[people/eric-teng-kuan-huang.md|黃騰寬]] — mentioned in this record
+- [[people/eric-teng-kuan-huang|黃騰寬]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

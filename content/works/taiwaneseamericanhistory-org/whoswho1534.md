@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-02-26 — published
 
 ## Subjects
-- [[people/john-yu.md|John Yu]] — mentioned in this record
+- [[people/john-yu|John Yu]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

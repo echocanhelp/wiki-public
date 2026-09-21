@@ -71,7 +71,7 @@ Photo credits: Shu-Jon Mao
 ## Subjects
 - Community
 - Interviews
-- [[people/hanna-huang.md|Hanna Huang]] — mentioned in this record
+- [[people/hanna-huang|Hanna Huang]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

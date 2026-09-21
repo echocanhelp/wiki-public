@@ -69,7 +69,7 @@ Twitter: @JenJChow
 ## Subjects
 - Arts &amp; Culture
 - Interviews
-- [[people/jennifer-j-chow.md|Jennifer J. Chow]] — mentioned in this record
+- [[people/jennifer-j-chow|Jennifer J. Chow]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

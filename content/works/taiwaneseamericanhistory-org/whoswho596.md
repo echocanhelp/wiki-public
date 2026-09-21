@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2015-09-08 — published
 
 ## Subjects
-- [[people/tah-p-5ca0031b5f.md|莊林素芳]] — mentioned in this record
+- [[people/tah-p-5ca0031b5f|莊林素芳]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

@@ -150,10 +150,10 @@ Calif. church shooting and how to make sense of nationality-based potential hate
 ## Subjects
 - Community
 - Featured
-- [[people/ho-chie-tsai.md|Ho Chie Tsai]] — mentioned in this record
-- [[people/leona-chen.md|Leona Chen]] — mentioned in this record
-- [[people/brian-hioe.md|Brian Hioe]] — mentioned in this record
-- [[people/sueann-shiah.md|SueAnn Shiah]] — mentioned in this record
+- [[people/ho-chie-tsai|Ho Chie Tsai]] — mentioned in this record
+- [[people/leona-chen|Leona Chen]] — mentioned in this record
+- [[people/brian-hioe|Brian Hioe]] — mentioned in this record
+- [[people/sueann-shiah|SueAnn Shiah]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

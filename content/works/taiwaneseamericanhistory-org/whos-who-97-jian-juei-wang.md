@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2014-11-17 — published
 
 ## Subjects
-- [[people/dr-jian-juei-wang.md|Dr. Jian-Juei Wang]] — mentioned in this record
+- [[people/dr-jian-juei-wang|Dr. Jian-Juei Wang]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

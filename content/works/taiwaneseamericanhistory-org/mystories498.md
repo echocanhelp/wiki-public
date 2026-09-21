@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-12-30 — published
 
 ## Subjects
-- [[people/fu-mei-wu-chen.md|陳吳富美]] — mentioned in this record
+- [[people/fu-mei-wu-chen|陳吳富美]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

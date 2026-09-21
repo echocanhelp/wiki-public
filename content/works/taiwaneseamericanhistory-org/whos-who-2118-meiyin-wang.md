@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2018-05-27 — published
 
 ## Subjects
-- [[people/meiyin-wang.md|Meiyin Wang]] — mentioned in this record
+- [[people/meiyin-wang|Meiyin Wang]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

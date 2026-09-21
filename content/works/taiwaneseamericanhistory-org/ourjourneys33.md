@@ -156,18 +156,18 @@ Cited from the original ([source](https://taiwaneseamericanhistory.org/ourjourne
 - [[people/tsung-ming-hsieh||謝聰敏]]
 - [[people/ron-chen||陳榮成]]
 - [[people/wenhsiung-luke-huang||黃文雄]]
-- [[people/george-h-kerr.md|George H. Kerr]] — mentioned in this record
-- [[organizations/north-america-taiwanese-womens-association.md|North America Taiwanese Women’s Association]] — mentioned in this record
-- [[people/dew-chin-ghi-chang.md|張清祺]] — mentioned in this record
-- [[people/tah-p-6d8ba3d584.md|王人紀]] — mentioned in this record
-- [[people/strong-chuang.md|莊秋雄]] — mentioned in this record
-- [[people/powen-wang.md|王博文]] — mentioned in this record
-- [[people/ron-chen.md|陳榮成]] — mentioned in this record
-- [[people/john-lin.md|林榮勳]] — mentioned in this record
-- [[people/tom-yang.md|楊東傑]] — mentioned in this record
-- [[people/tsung-ming-hsieh.md|謝聰敏]] — mentioned in this record
-- [[people/prof-liang-tseng-fan.md|范良政教授]] — mentioned in this record
-- [[people/anna-chang.md|張月英]] — mentioned in this record
+- [[people/george-h-kerr|George H. Kerr]] — mentioned in this record
+- [[organizations/north-america-taiwanese-womens-association|North America Taiwanese Women’s Association]] — mentioned in this record
+- [[people/dew-chin-ghi-chang|張清祺]] — mentioned in this record
+- [[people/tah-p-6d8ba3d584|王人紀]] — mentioned in this record
+- [[people/strong-chuang|莊秋雄]] — mentioned in this record
+- [[people/powen-wang|王博文]] — mentioned in this record
+- [[people/ron-chen|陳榮成]] — mentioned in this record
+- [[people/john-lin|林榮勳]] — mentioned in this record
+- [[people/tom-yang|楊東傑]] — mentioned in this record
+- [[people/tsung-ming-hsieh|謝聰敏]] — mentioned in this record
+- [[people/prof-liang-tseng-fan|范良政教授]] — mentioned in this record
+- [[people/anna-chang|張月英]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

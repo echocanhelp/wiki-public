@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-12-27 — published
 
 ## Subjects
-- [[people/cho-liang-lin.md|Cho-Liang Lin]] — mentioned in this record
+- [[people/cho-liang-lin|Cho-Liang Lin]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

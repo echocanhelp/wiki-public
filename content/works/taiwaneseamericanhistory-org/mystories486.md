@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-11-27 — published
 
 ## Subjects
-- [[people/sung-peng-hsu.md|Sung-Peng Hsu]] — mentioned in this record
+- [[people/sung-peng-hsu|Sung-Peng Hsu]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

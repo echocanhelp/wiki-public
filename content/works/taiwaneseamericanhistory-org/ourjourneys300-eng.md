@@ -70,7 +70,7 @@ Translated from 300. 大紐約區台灣同鄕會沿革 / 大紐約區台灣同�
 
 ## Subjects
 - [[organizations/taiwanese-association-of-america]]
-- [[organizations/taiwanese-association-of-america.md|Taiwanese Association of America]] — mentioned in this record
+- [[organizations/taiwanese-association-of-america|Taiwanese Association of America]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

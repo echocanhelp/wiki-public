@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2020-10-09 — published
 
 ## Subjects
-- [[people/k-h-huang.md|黃國雄]] — mentioned in this record
+- [[people/k-h-huang|黃國雄]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

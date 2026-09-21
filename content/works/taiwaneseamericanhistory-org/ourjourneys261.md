@@ -53,7 +53,7 @@ Posted in 10/2016
 ## Subjects
 - [[people/chen-wenshi]]
 - [[people/stone-chen]]
-- [[people/charles-chiang.md|江昭儀]] — mentioned in this record
+- [[people/charles-chiang|江昭儀]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

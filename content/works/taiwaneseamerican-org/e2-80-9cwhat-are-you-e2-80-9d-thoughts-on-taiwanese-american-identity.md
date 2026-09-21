@@ -68,8 +68,8 @@ For those in the San Francisco Bay area, join this talented novelist at an upcom
 
 ## Subjects
 - Interviews
-- [[people/shawna-yang-ryan.md|Shawna Yang Ryan]] — mentioned in this record
-- [[people/eric-liu.md|Eric Liu]] — mentioned in this record
+- [[people/shawna-yang-ryan|Shawna Yang Ryan]] — mentioned in this record
+- [[people/eric-liu|Eric Liu]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

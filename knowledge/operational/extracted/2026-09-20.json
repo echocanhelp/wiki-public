@@ -1,8 +1,8 @@
 {
   "date": "2026-09-20",
   "standards_version": 10,
-  "total_findings": 43,
-  "total_pages": 18,
+  "total_findings": 46,
+  "total_pages": 19,
   "actions": [
     {
       "page": "organizations/good-shine-kitchen.md",
@@ -31,6 +31,36 @@
       "action": "Add ## Related Pages section",
       "detail": "Add a Related Pages section with wikilinks ([[people/name|Name]]) to connected pages. Use first-mention convention.",
       "playbook": "P3",
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "organizations/north-america-taiwanese-womens-association-kansas-chapter.md",
+      "finding": "STRUCT_NO_HISTORY",
+      "finding_prefix": "STRUCT_NO_HISTORY",
+      "action": "Add ## History section",
+      "detail": "Add a History section with key dates, milestones, and events. Include dates and brief descriptions.",
+      "playbook": "P8",
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "organizations/north-america-taiwanese-womens-association-kansas-chapter.md",
+      "finding": "READABILITY_LONG_SENTENCES_32wps",
+      "finding_prefix": "READABILITY_LONG_SENTENCES",
+      "action": "Break up long sentences",
+      "detail": "Average words per sentence exceeds 30. Break up long sentences for readability.",
+      "playbook": "P8",
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "organizations/north-america-taiwanese-womens-association-kansas-chapter.md",
+      "finding": "READABILITY_MANY_LONG_SENTENCES_4",
+      "finding_prefix": "READABILITY_MANY_LONG_SENTENCES",
+      "action": "Break up long sentences",
+      "detail": "Multiple sentences exceed 50 words. Break them up for readability.",
+      "playbook": "P8",
       "priority": "medium",
       "source": "content-analysis-queue"
     },
@@ -65,37 +95,37 @@
       "source": "content-analysis-queue"
     },
     {
-      "page": "people/albert-zh-sku-b-publisher-review.md",
-      "finding": "LINKS_NO_RELATED",
-      "finding_prefix": "LINKS_NO_RELATED",
-      "action": "Add ## Related Pages section",
-      "detail": "Add a Related Pages section with wikilinks to connected people, organizations, and sources.",
-      "playbook": "P3",
-      "priority": "medium",
-      "source": "content-analysis-queue"
-    },
-    {
-      "page": "people/albert-zh-sku-b-publisher-review.md",
-      "finding": "STRUCT_NO_IDENTITY",
-      "finding_prefix": "STRUCT_NO_IDENTITY",
-      "action": "Add ## Identity Snapshot section",
-      "detail": "Add an Identity Snapshot section with English name, Chinese name, core roles, and content priority. See standards.json for format.",
+      "page": "organizations/taiwanese-association-of-wisconsin.md",
+      "finding": "STRUCT_NO_HISTORY",
+      "finding_prefix": "STRUCT_NO_HISTORY",
+      "action": "Add ## History section",
+      "detail": "Add a History section with key dates, milestones, and events. Include dates and brief descriptions.",
       "playbook": "P8",
       "priority": "medium",
       "source": "content-analysis-queue"
     },
     {
-      "page": "people/albert-zh-sku-b-publisher-review.md",
-      "finding": "STRUCT_NO_RELATED",
-      "finding_prefix": "STRUCT_NO_RELATED",
-      "action": "Add ## Related Pages section",
-      "detail": "Add a Related Pages section with wikilinks ([[people/name|Name]]) to connected pages. Use first-mention convention.",
-      "playbook": "P3",
+      "page": "organizations/taiwanese-association-of-wisconsin.md",
+      "finding": "READABILITY_LONG_SENTENCES_32wps",
+      "finding_prefix": "READABILITY_LONG_SENTENCES",
+      "action": "Break up long sentences",
+      "detail": "Average words per sentence exceeds 30. Break up long sentences for readability.",
+      "playbook": "P8",
       "priority": "medium",
       "source": "content-analysis-queue"
     },
     {
-      "page": "people/bi-khim-hsiao.md",
+      "page": "organizations/taiwanese-association-of-wisconsin.md",
+      "finding": "READABILITY_MANY_LONG_SENTENCES_5",
+      "finding_prefix": "READABILITY_MANY_LONG_SENTENCES",
+      "action": "Break up long sentences",
+      "detail": "Multiple sentences exceed 50 words. Break them up for readability.",
+      "playbook": "P8",
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "organizations/taiwanese-student-association-at-arizona-state-university.md",
       "finding": "DESC_NO_TITLE_MENTION",
       "finding_prefix": "DESC_NO_TITLE_MENTION",
       "action": "Ensure the first paragraph mentions the page subject",
@@ -105,11 +135,11 @@
       "source": "content-analysis-queue"
     },
     {
-      "page": "people/bi-khim-hsiao.md",
-      "finding": "READABILITY_MANY_LONG_SENTENCES_4",
-      "finding_prefix": "READABILITY_MANY_LONG_SENTENCES",
-      "action": "Break up long sentences",
-      "detail": "Multiple sentences exceed 50 words. Break them up for readability.",
+      "page": "organizations/taiwanese-student-association-at-arizona-state-university.md",
+      "finding": "STRUCT_NO_HISTORY",
+      "finding_prefix": "STRUCT_NO_HISTORY",
+      "action": "Add ## History section",
+      "detail": "Add a History section with key dates, milestones, and events. Include dates and brief descriptions.",
       "playbook": "P8",
       "priority": "medium",
       "source": "content-analysis-queue"
@@ -175,6 +205,46 @@
       "source": "content-analysis-queue"
     },
     {
+      "page": "people/dr-lung-fong-chen.md",
+      "finding": "DESC_NO_TITLE_MENTION",
+      "finding_prefix": "DESC_NO_TITLE_MENTION",
+      "action": "Ensure the first paragraph mentions the page subject",
+      "detail": "The first paragraph should reference the person/organization this page is about.",
+      "playbook": "P8",
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "people/dr-lung-fong-chen.md",
+      "finding": "READABILITY_MANY_LONG_SENTENCES_4",
+      "finding_prefix": "READABILITY_MANY_LONG_SENTENCES",
+      "action": "Break up long sentences",
+      "detail": "Multiple sentences exceed 50 words. Break them up for readability.",
+      "playbook": "P8",
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "people/dr-ming-hong-chow.md",
+      "finding": "DESC_NO_TITLE_MENTION",
+      "finding_prefix": "DESC_NO_TITLE_MENTION",
+      "action": "Ensure the first paragraph mentions the page subject",
+      "detail": "The first paragraph should reference the person/organization this page is about.",
+      "playbook": "P8",
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "people/dr-ming-hong-chow.md",
+      "finding": "LINKS_HIGH_DENSITY",
+      "finding_prefix": "LINKS_HIGH_DENSITY",
+      "action": "UNKNOWN_FINDING_TYPE",
+      "detail": "No action mapping for finding: LINKS_HIGH_DENSITY",
+      "playbook": "P8",
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    },
+    {
       "page": "people/john-lin.md",
       "finding": "DESC_NO_TITLE_MENTION",
       "finding_prefix": "DESC_NO_TITLE_MENTION",
@@ -186,6 +256,26 @@
     },
     {
       "page": "people/john-lin.md",
+      "finding": "READABILITY_MANY_LONG_SENTENCES_4",
+      "finding_prefix": "READABILITY_MANY_LONG_SENTENCES",
+      "action": "Break up long sentences",
+      "detail": "Multiple sentences exceed 50 words. Break them up for readability.",
+      "playbook": "P8",
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "people/kuei-ling-chen.md",
+      "finding": "DESC_NO_TITLE_MENTION",
+      "finding_prefix": "DESC_NO_TITLE_MENTION",
+      "action": "Ensure the first paragraph mentions the page subject",
+      "detail": "The first paragraph should reference the person/organization this page is about.",
+      "playbook": "P8",
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "people/kuei-ling-chen.md",
       "finding": "READABILITY_MANY_LONG_SENTENCES_4",
       "finding_prefix": "READABILITY_MANY_LONG_SENTENCES",
       "action": "Break up long sentences",
@@ -240,26 +330,6 @@
       "finding_prefix": "READABILITY_MANY_LONG_SENTENCES",
       "action": "Break up long sentences",
       "detail": "Multiple sentences exceed 50 words. Break them up for readability.",
-      "playbook": "P8",
-      "priority": "medium",
-      "source": "content-analysis-queue"
-    },
-    {
-      "page": "people/philip-lin.md",
-      "finding": "DESC_NO_TITLE_MENTION",
-      "finding_prefix": "DESC_NO_TITLE_MENTION",
-      "action": "Ensure the first paragraph mentions the page subject",
-      "detail": "The first paragraph should reference the person/organization this page is about.",
-      "playbook": "P8",
-      "priority": "medium",
-      "source": "content-analysis-queue"
-    },
-    {
-      "page": "people/philip-lin.md",
-      "finding": "LINKS_HIGH_DENSITY",
-      "finding_prefix": "LINKS_HIGH_DENSITY",
-      "action": "UNKNOWN_FINDING_TYPE",
-      "detail": "No action mapping for finding: LINKS_HIGH_DENSITY",
       "playbook": "P8",
       "priority": "medium",
       "source": "content-analysis-queue"
@@ -330,46 +400,6 @@
       "finding_prefix": "READABILITY_LONG_SENTENCES",
       "action": "Break up long sentences",
       "detail": "Average words per sentence exceeds 30. Break up long sentences for readability.",
-      "playbook": "P8",
-      "priority": "medium",
-      "source": "content-analysis-queue"
-    },
-    {
-      "page": "people/tsung-ming-hsieh.md",
-      "finding": "DESC_NO_TITLE_MENTION",
-      "finding_prefix": "DESC_NO_TITLE_MENTION",
-      "action": "Ensure the first paragraph mentions the page subject",
-      "detail": "The first paragraph should reference the person/organization this page is about.",
-      "playbook": "P8",
-      "priority": "medium",
-      "source": "content-analysis-queue"
-    },
-    {
-      "page": "people/tsung-ming-hsieh.md",
-      "finding": "READABILITY_MANY_LONG_SENTENCES_4",
-      "finding_prefix": "READABILITY_MANY_LONG_SENTENCES",
-      "action": "Break up long sentences",
-      "detail": "Multiple sentences exceed 50 words. Break them up for readability.",
-      "playbook": "P8",
-      "priority": "medium",
-      "source": "content-analysis-queue"
-    },
-    {
-      "page": "people/tzutsai-cheng.md",
-      "finding": "DESC_NO_TITLE_MENTION",
-      "finding_prefix": "DESC_NO_TITLE_MENTION",
-      "action": "Ensure the first paragraph mentions the page subject",
-      "detail": "The first paragraph should reference the person/organization this page is about.",
-      "playbook": "P8",
-      "priority": "medium",
-      "source": "content-analysis-queue"
-    },
-    {
-      "page": "people/tzutsai-cheng.md",
-      "finding": "LINKS_HIGH_DENSITY",
-      "finding_prefix": "LINKS_HIGH_DENSITY",
-      "action": "UNKNOWN_FINDING_TYPE",
-      "detail": "No action mapping for finding: LINKS_HIGH_DENSITY",
       "playbook": "P8",
       "priority": "medium",
       "source": "content-analysis-queue"

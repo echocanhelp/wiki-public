@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-12-05 — published
 
 ## Subjects
-- [[people/prof-ming-chiang-lin.md|Prof. Ming Chiang Lin]] — mentioned in this record
+- [[people/prof-ming-chiang-lin|Prof. Ming Chiang Lin]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-02-10 — published
 
 ## Subjects
-- [[people/maurice-hsu.md|Maurice Hsu]] — mentioned in this record
+- [[people/maurice-hsu|Maurice Hsu]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

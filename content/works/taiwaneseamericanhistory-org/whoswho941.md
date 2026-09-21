@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-04-17 — published
 
 ## Subjects
-- [[people/john-m-yeh.md|John M. Yeh]] — mentioned in this record
+- [[people/john-m-yeh|John M. Yeh]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

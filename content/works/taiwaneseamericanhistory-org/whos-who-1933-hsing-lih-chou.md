@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-11-06 — published
 
 ## Subjects
-- [[people/prof-hsing-lih-chou.md|Prof. Hsing-Lih Chou]] — mentioned in this record
+- [[people/prof-hsing-lih-chou|Prof. Hsing-Lih Chou]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

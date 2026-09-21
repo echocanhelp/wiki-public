@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-04-17 — published
 
 ## Subjects
-- [[people/m-c-cheng-lee.md|M. C. Cheng Lee]] — mentioned in this record
+- [[people/m-c-cheng-lee|M. C. Cheng Lee]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

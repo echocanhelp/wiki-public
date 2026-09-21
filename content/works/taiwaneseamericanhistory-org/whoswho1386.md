@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-11-06 — published
 
 ## Subjects
-- [[people/leroy-chiao.md|Leroy Chiao]] — mentioned in this record
+- [[people/leroy-chiao|Leroy Chiao]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-09-07 — published
 
 ## Subjects
-- [[people/h-y-chencheng.md|H. Y. ChenCheng]] — mentioned in this record
+- [[people/h-y-chencheng|H. Y. ChenCheng]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

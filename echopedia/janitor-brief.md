@@ -1,48 +1,48 @@
 ## Echopedia Janitor — 2026-09-20
 - Standards v10
-- Pages with findings: **218**
+- Pages with findings: **216**
 - Queued tonight (max 40): **40**
 - Queue:
-  - `people/chen-po-kong.md` age≈15.0d · NO_TYPE, NO_IDENTITY_SNAPSHOT, NO_LAST_REVIEWED
-  - `people/du-ao-cunfu.md` age≈15.0d · NO_TYPE, NO_IDENTITY_SNAPSHOT, NO_LAST_REVIEWED
-  - `people/yuan-zhihui.md` age≈14.9d · NO_TYPE, NO_IDENTITY_SNAPSHOT, NO_LAST_REVIEWED
-  - `people/chao-sile.md` age≈14.9d · NO_TYPE, NO_IDENTITY_SNAPSHOT, NO_LAST_REVIEWED
-  - `people/fan-jiang-ti-ang.md` age≈14.0d · NO_TYPE, NO_IDENTITY_SNAPSHOT, NO_LAST_REVIEWED
-  - `people/li-jian.md` age≈14.0d · NO_TYPE, NO_IDENTITY_SNAPSHOT, NO_LAST_REVIEWED
-  - `people/lin-baohua.md` age≈13.0d · NO_TYPE, NO_IDENTITY_SNAPSHOT, NO_LAST_REVIEWED
-  - `people/yang-yueqing.md` age≈12.9d · NO_TYPE, NO_IDENTITY_SNAPSHOT, NO_LAST_REVIEWED
-  - `people/guan-renjian.md` age≈12.9d · NO_TYPE, NO_IDENTITY_SNAPSHOT, NO_LAST_REVIEWED
-  - `people/huang-diyin.md` age≈2.7d · NO_TYPE, NO_IDENTITY_SNAPSHOT, NO_LAST_REVIEWED
-  - `people/nanfang-shuo.md` age≈21.4d · NO_IDENTITY_SNAPSHOT
-  - `people/sang-pu.md` age≈21.4d · NO_IDENTITY_SNAPSHOT
-  - `people/wang-qiaoling.md` age≈21.4d · NO_IDENTITY_SNAPSHOT
-  - `people/zou-jingwen.md` age≈21.4d · NO_IDENTITY_SNAPSHOT
-  - `people/wang-shufen.md` age≈21.4d · NO_IDENTITY_SNAPSHOT
-  - `people/xia-ming.md` age≈21.4d · NO_IDENTITY_SNAPSHOT
-  - `people/bai-peiyu.md` age≈21.4d · NO_IDENTITY_SNAPSHOT
-  - `people/tang-peili.md` age≈21.4d · NO_IDENTITY_SNAPSHOT
-  - `people/li-xiaofeng.md` age≈21.4d · NO_IDENTITY_SNAPSHOT
-  - `people/zheng-wenlong.md` age≈21.4d · NO_IDENTITY_SNAPSHOT
-  - `people/ye-siya.md` age≈21.4d · NO_IDENTITY_SNAPSHOT
-  - `people/zhang-xinhui.md` age≈21.4d · NO_IDENTITY_SNAPSHOT
-  - `events/ev-87fe1881b2.md` age≈20.3d · NO_LAST_REVIEWED
-  - `events/ev-824a2204ea.md` age≈20.3d · NO_LAST_REVIEWED
-  - `events/ev-3265d6f262.md` age≈20.3d · NO_LAST_REVIEWED
-  - `events/sc-taiwancenter-org-event-2025-annual-gala-fundraising-dinner.md` age≈14.4d · 
-  - `events/sc-taiwancenter-org-event-2025-miss-taiwan-usa-news.md` age≈14.4d · 
-  - `events/sc-taiwancenter-org-event-2025-traditional-week.md` age≈14.4d · 
-  - `events/sc-taiwancenter-org-event-2026-luo-shan-ji-tai-mei-ren-chuan-tong-zhou.md` age≈14.4d · 
-  - `events/sc-taiwancenter-org-event-228-memorial-commemoration-ceremony.md` age≈14.4d · 
-  - `events/sc-taiwancenter-org-event-calendar.md` age≈14.4d · 
-  - `events/sc-taiwancenter-org-event-construction-progress-of-the-building.md` age≈14.4d · 
-  - `events/sc-taiwancenter-org-event-groundbreaking-ceremony.md` age≈14.4d · 
-  - `events/sc-taiwancenter-org-event-she-li-guo-cheng-zhao-pian.md` age≈14.4d · 
-  - `events/sc-taiwancenter-org-event-taiwan-joining-who.md` age≈14.4d · 
-  - `events/sc-taiwancenter-org-event-thanksgiving-dinner.md` age≈14.4d · 
-  - `events/sc-taiwancenter-org-event-xin-guan-shi-nei-she-ji-kong-jian-yu-gui-hua.md` age≈14.4d · 
-  - `people/albert-zh-sku-b-publisher-review.md` age≈3.4d · NO_IDENTITY_SNAPSHOT
-  - `people/george-lee.md` age≈10.4d · LINK_BODY_SPARSE
-  - `people/prof-sze-ya-yeh.md` age≈10.4d · LINK_BODY_SPARSE
+  - `people/chen-po-kong.md` age≈15.8d · NO_TYPE, NO_IDENTITY_SNAPSHOT, NO_LAST_REVIEWED
+  - `people/du-ao-cunfu.md` age≈15.8d · NO_TYPE, NO_IDENTITY_SNAPSHOT, NO_LAST_REVIEWED
+  - `people/yuan-zhihui.md` age≈15.8d · NO_TYPE, NO_IDENTITY_SNAPSHOT, NO_LAST_REVIEWED
+  - `people/chao-sile.md` age≈15.8d · NO_TYPE, NO_IDENTITY_SNAPSHOT, NO_LAST_REVIEWED
+  - `people/fan-jiang-ti-ang.md` age≈14.8d · NO_TYPE, NO_IDENTITY_SNAPSHOT, NO_LAST_REVIEWED
+  - `people/li-jian.md` age≈14.8d · NO_TYPE, NO_IDENTITY_SNAPSHOT, NO_LAST_REVIEWED
+  - `people/lin-baohua.md` age≈13.8d · NO_TYPE, NO_IDENTITY_SNAPSHOT, NO_LAST_REVIEWED
+  - `people/yang-yueqing.md` age≈13.8d · NO_TYPE, NO_IDENTITY_SNAPSHOT, NO_LAST_REVIEWED
+  - `people/guan-renjian.md` age≈13.8d · NO_TYPE, NO_IDENTITY_SNAPSHOT, NO_LAST_REVIEWED
+  - `people/huang-diyin.md` age≈3.6d · NO_TYPE, NO_IDENTITY_SNAPSHOT, NO_LAST_REVIEWED
+  - `people/nanfang-shuo.md` age≈22.2d · NO_IDENTITY_SNAPSHOT
+  - `people/sang-pu.md` age≈22.2d · NO_IDENTITY_SNAPSHOT
+  - `people/wang-qiaoling.md` age≈22.2d · NO_IDENTITY_SNAPSHOT
+  - `people/zou-jingwen.md` age≈22.2d · NO_IDENTITY_SNAPSHOT
+  - `people/wang-shufen.md` age≈22.2d · NO_IDENTITY_SNAPSHOT
+  - `people/xia-ming.md` age≈22.2d · NO_IDENTITY_SNAPSHOT
+  - `people/bai-peiyu.md` age≈22.2d · NO_IDENTITY_SNAPSHOT
+  - `people/tang-peili.md` age≈22.2d · NO_IDENTITY_SNAPSHOT
+  - `people/li-xiaofeng.md` age≈22.2d · NO_IDENTITY_SNAPSHOT
+  - `people/zheng-wenlong.md` age≈22.2d · NO_IDENTITY_SNAPSHOT
+  - `people/zhang-xinhui.md` age≈22.2d · NO_IDENTITY_SNAPSHOT
+  - `people/ye-siya.md` age≈22.2d · NO_IDENTITY_SNAPSHOT
+  - `people/george-lee.md` age≈11.2d · LINK_BODY_SPARSE
+  - `people/prof-sze-ya-yeh.md` age≈11.2d · LINK_BODY_SPARSE
+  - `people/dr-hsing-chi-chuck-chang.md` age≈11.2d · LINK_BODY_SPARSE
+  - `people/huang-yongcheng.md` age≈11.2d · NO_IDENTITY_SNAPSHOT
+  - `people/po-wei-lai.md` age≈10.2d · LINK_BODY_SPARSE
+  - `people/dr-wei-yang-andy-lin.md` age≈10.2d · LINK_BODY_SPARSE
+  - `people/kuan-cheng-lu.md` age≈10.2d · LINK_BODY_SPARSE
+  - `people/tai-lin.md` age≈10.2d · LINK_BODY_SPARSE
+  - `people/deng-shuzhen.md` age≈9.2d · LINK_BODY_SPARSE
+  - `events/sc-taiwancenter-org-event-2026-membership.md` age≈8.2d · 
+  - `events/sc-taiwancenter-org-event-2026tai-wan-xue-xiao.md` age≈8.2d · 
+  - `events/sc-taiwancenter-org-event-da-luo-shan-ji-tai-mei-ren-chuan-tong-zhou.md` age≈8.2d · 
+  - `events/sc-taiwancenter-org-event-tai-wan-zhang-hua-guang-xing-ge-zhang-zhong-ju-tuan-10.md` age≈8.2d · 
+  - `sources/penghu-info.md` age≈8.2d · 
+  - `people/karen-chia-ling-ho.md` age≈8.2d · LINK_BODY_SPARSE
+  - `people/feng-hsu-lee.md` age≈7.2d · LINK_BODY_SPARSE
+  - `people/dr-min-chin-mary-lee.md` age≈7.2d · LINK_BODY_SPARSE
+  - `people/rev-james-i-cheng.md` age≈7.2d · LINK_BODY_SPARSE
 - Log: `knowledge/operational/janitor-log/2026-09-20.jsonl`
 - Agent auto-apply: **False** (local pin only if enabled)
 - First-mention AUTO: **0**

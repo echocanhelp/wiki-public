@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2018-08-09 — published
 
 ## Subjects
-- [[people/prof-tsan-iang-chuang.md|Prof. Tsan-Iang Chuang]] — mentioned in this record
+- [[people/prof-tsan-iang-chuang|Prof. Tsan-Iang Chuang]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

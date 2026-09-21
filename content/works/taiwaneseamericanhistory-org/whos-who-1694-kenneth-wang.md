@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-06-07 — published
 
 ## Subjects
-- [[people/kenneth-wang.md|Kenneth Wang]] — mentioned in this record
+- [[people/kenneth-wang|Kenneth Wang]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

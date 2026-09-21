@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-07-28 — published
 
 ## Subjects
-- [[people/jolan-hsieh.md|Jolan Hsieh]] — mentioned in this record
+- [[people/jolan-hsieh|Jolan Hsieh]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

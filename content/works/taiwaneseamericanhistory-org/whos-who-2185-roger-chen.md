@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2019-05-04 — published
 
 ## Subjects
-- [[people/roger-chen.md|Roger Chen]] — mentioned in this record
+- [[people/roger-chen|Roger Chen]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

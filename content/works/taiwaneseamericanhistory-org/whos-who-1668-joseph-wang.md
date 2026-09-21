@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-05-21 — published
 
 ## Subjects
-- [[people/rev-prof-joseph-wang.md|Rev. Prof. Joseph Wang]] — mentioned in this record
+- [[people/rev-prof-joseph-wang|Rev. Prof. Joseph Wang]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

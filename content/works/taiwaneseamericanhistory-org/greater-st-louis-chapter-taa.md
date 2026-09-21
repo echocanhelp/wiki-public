@@ -32,8 +32,8 @@ _Bibliographic record only. Full text stays in the vault._
 - 2015-12-08 — published
 
 ## Subjects
-- [[organizations/taiwanese-association-of-america-in-greater-st-louis.md|Taiwanese Association of America in Greater St. Louis]] — mentioned in this record
-- [[organizations/taiwanese-association-of-america.md|Taiwanese Association of America]] — mentioned in this record
+- [[organizations/taiwanese-association-of-america-in-greater-st-louis|Taiwanese Association of America in Greater St. Louis]] — mentioned in this record
+- [[organizations/taiwanese-association-of-america|Taiwanese Association of America]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

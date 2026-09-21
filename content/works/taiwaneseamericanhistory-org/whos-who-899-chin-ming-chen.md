@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-03-20 — published
 
 ## Subjects
-- [[people/chin-ming-chen.md|Dr. Chin-Ming Chen]] — mentioned in this record
+- [[people/chin-ming-chen|Dr. Chin-Ming Chen]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

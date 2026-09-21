@@ -1,0 +1,4 @@
+people/rev-william-j-burke-jr.md
+people/prof-chih-hao-lucas-chang.md
+people/dr-amy-h-kuo.md
+people/y-s-huang.md

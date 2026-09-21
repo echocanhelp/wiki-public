@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-08-17 — published
 
 ## Subjects
-- [[people/simon-cheng.md|鄭良光]] — mentioned in this record
+- [[people/simon-cheng|鄭良光]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

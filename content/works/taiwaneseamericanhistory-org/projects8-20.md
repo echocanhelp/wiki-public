@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-06-06 — published
 
 ## Subjects
-- [[people/raymond-wu.md|吳瑞信]] — mentioned in this record
+- [[people/raymond-wu|吳瑞信]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

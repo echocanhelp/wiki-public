@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-02-19 — published
 
 ## Subjects
-- [[people/c-t-huang.md|C. T. Huang]] — mentioned in this record
+- [[people/c-t-huang|C. T. Huang]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

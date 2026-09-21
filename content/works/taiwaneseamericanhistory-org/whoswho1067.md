@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-06-12 — published
 
 ## Subjects
-- [[people/s-w-hung.md|S. W. Hung]] — mentioned in this record
+- [[people/s-w-hung|S. W. Hung]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

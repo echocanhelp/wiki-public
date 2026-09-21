@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2014-12-28 — published
 
 ## Subjects
-- [[people/eric-liu.md|Eric Liu]] — mentioned in this record
+- [[people/eric-liu|Eric Liu]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

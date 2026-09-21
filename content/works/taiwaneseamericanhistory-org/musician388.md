@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-03-04 — published
 
 ## Subjects
-- [[people/w-c-jen.md|任雯娟]] — mentioned in this record
+- [[people/w-c-jen|任雯娟]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

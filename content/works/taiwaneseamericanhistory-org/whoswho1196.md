@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-07-30 — published
 
 ## Subjects
-- [[people/c-c-chang.md|C. C. Chang]] — mentioned in this record
+- [[people/c-c-chang|C. C. Chang]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

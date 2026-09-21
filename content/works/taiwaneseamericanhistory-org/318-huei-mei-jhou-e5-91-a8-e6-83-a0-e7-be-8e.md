@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2015-03-06 — published
 
 ## Subjects
-- [[people/huei-mei-jhou.md|Huei-mei Jhou]] — mentioned in this record
+- [[people/huei-mei-jhou|Huei-mei Jhou]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

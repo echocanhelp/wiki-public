@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-01-24 — published
 
 ## Subjects
-- [[people/dr-sebo-koh.md|Dr. Sebo Koh]] — mentioned in this record
+- [[people/dr-sebo-koh|Dr. Sebo Koh]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

@@ -106,7 +106,7 @@ And read Shawna’s spotlight article on identity.
 
 ## Subjects
 - Interviews
-- [[people/shawna-yang-ryan.md|Shawna Yang Ryan]] — mentioned in this record
+- [[people/shawna-yang-ryan|Shawna Yang Ryan]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

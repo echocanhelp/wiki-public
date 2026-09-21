@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2015-08-15 — published
 
 ## Subjects
-- [[people/valentina-wen-ting-huang.md|Valentina Wen-Ting Huang]] — mentioned in this record
+- [[people/valentina-wen-ting-huang|Valentina Wen-Ting Huang]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

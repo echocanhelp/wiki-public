@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-08-22 — published
 
 ## Subjects
-- [[people/a-n-liu.md|劉安諾]] — mentioned in this record
+- [[people/a-n-liu|劉安諾]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

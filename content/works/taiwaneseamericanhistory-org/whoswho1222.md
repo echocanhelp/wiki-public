@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-08-06 — published
 
 ## Subjects
-- [[people/marina-lu.md|Marina Lu]] — mentioned in this record
+- [[people/marina-lu|Marina Lu]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

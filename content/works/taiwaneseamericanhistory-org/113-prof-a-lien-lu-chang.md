@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2018-09-26 — published
 
 ## Subjects
-- [[people/prof-a-lien-lu-chang.md|Prof. A-Lien Lu-Chang]] — mentioned in this record
+- [[people/prof-a-lien-lu-chang|Prof. A-Lien Lu-Chang]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

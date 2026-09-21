@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2014-11-20 — published
 
 ## Subjects
-- [[people/meng-chieh-liu.md|Meng-Chieh Liu]] — mentioned in this record
+- [[people/meng-chieh-liu|Meng-Chieh Liu]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

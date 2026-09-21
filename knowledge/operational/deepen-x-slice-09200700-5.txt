@@ -1,0 +1,4 @@
+people/ho-rui-hsu.md
+people/alvina-ling.md
+people/alan-yang.md
+organizations/taiwanese-american-foundation-of-san-diego.md

@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2018-02-19 — published
 
 ## Subjects
-- [[people/prof-edith-chen.md|Prof. Edith Chen]] — mentioned in this record
+- [[people/prof-edith-chen|Prof. Edith Chen]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

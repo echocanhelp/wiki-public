@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-06-10 — published
 
 ## Subjects
-- [[people/shwu-lih-lin.md|Shwu Lih Lin]] — mentioned in this record
+- [[people/shwu-lih-lin|Shwu Lih Lin]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

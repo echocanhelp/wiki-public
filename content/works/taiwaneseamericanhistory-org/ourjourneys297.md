@@ -50,7 +50,7 @@ Posted in 06/2017
 
 ## Subjects
 - [[organizations/taiwanese-evergreen-academy]]
-- [[organizations/taiwanese-evergreen-academy.md|Taiwanese Evergreen Academy]] — mentioned in this record
+- [[organizations/taiwanese-evergreen-academy|Taiwanese Evergreen Academy]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

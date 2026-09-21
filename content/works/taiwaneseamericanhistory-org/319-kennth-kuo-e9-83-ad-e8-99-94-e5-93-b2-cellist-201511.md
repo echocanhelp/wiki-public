@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2015-11-14 — published
 
 ## Subjects
-- [[people/kenneth-kuo.md|郭虔哲]] — mentioned in this record
+- [[people/kenneth-kuo|郭虔哲]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

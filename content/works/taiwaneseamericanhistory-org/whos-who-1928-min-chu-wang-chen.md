@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-11-06 — published
 
 ## Subjects
-- [[people/min-chu-wang-chen.md|Min-Chu Wang Chen]] — mentioned in this record
+- [[people/min-chu-wang-chen|Min-Chu Wang Chen]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

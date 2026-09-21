@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-04-09 — published
 
 ## Subjects
-- [[people/pauline-choiu.md|Pauline Choiu]] — mentioned in this record
+- [[people/pauline-choiu|Pauline Choiu]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

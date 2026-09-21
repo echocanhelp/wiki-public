@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-07-06 — published
 
 ## Subjects
-- [[people/hong-chih-kuo.md|Hong-Chih Kuo]] — mentioned in this record
+- [[people/hong-chih-kuo|Hong-Chih Kuo]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

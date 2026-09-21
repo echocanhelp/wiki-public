@@ -58,8 +58,8 @@ thedailybeast.com
 
 ## Subjects
 - Interviews
-- [[people/shawna-yang-ryan.md|Shawna Yang Ryan]] — mentioned in this record
-- [[people/charles-yu.md|Charles Yu]] — mentioned in this record
+- [[people/shawna-yang-ryan|Shawna Yang Ryan]] — mentioned in this record
+- [[people/charles-yu|Charles Yu]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

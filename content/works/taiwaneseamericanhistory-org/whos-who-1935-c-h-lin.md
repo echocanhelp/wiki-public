@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-11-06 — published
 
 ## Subjects
-- [[people/c-h-lin.md|林建宏]] — mentioned in this record
+- [[people/c-h-lin|林建宏]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

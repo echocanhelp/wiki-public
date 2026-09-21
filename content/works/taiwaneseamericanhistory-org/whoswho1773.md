@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-07-24 — published
 
 ## Subjects
-- [[people/m-y-huang.md|M. Y. Huang]] — mentioned in this record
+- [[people/m-y-huang|M. Y. Huang]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

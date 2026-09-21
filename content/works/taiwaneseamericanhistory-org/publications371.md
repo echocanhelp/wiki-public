@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2014-11-27 — published
 
 ## Subjects
-- [[people/si-zhi-chen.md|陳泗治]] — mentioned in this record
+- [[people/si-zhi-chen|陳泗治]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

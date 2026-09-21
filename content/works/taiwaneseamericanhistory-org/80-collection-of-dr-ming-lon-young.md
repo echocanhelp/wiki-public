@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2019-04-12 — published
 
 ## Subjects
-- [[people/dr-ming-lon-young.md|Dr. Ming-Lon Young]] — mentioned in this record
+- [[people/dr-ming-lon-young|Dr. Ming-Lon Young]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

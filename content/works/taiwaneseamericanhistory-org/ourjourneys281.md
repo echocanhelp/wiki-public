@@ -63,7 +63,7 @@ Posted in 04/2017
 ## Subjects
 - [[organizations/asian-senior-concerns-foundation]]
 - [[people/i-jen-chen]]
-- [[people/i-jen-chen.md|陳一仁醫師]] — mentioned in this record
+- [[people/i-jen-chen|陳一仁醫師]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

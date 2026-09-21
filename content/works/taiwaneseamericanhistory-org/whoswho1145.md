@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-07-15 — published
 
 ## Subjects
-- [[people/k-c-du.md|杜國清]] — mentioned in this record
+- [[people/k-c-du|杜國清]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

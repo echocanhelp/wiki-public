@@ -1,0 +1,4 @@
+people/sim-ti-lim.md
+organizations/asian-american-social-welfaer-foundation.md
+organizations/taiwanese-american-cultural-association.md
+organizations/acevedo-music-and-art-education-foundation-inc.md

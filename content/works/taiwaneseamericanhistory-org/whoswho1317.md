@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-10-15 — published
 
 ## Subjects
-- [[people/arnold-j-lee.md|Arnold J. Lee]] — mentioned in this record
+- [[people/arnold-j-lee|Arnold J. Lee]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

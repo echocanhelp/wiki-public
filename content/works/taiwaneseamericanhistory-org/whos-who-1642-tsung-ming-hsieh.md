@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-05-10 — published
 
 ## Subjects
-- [[people/tsung-ming-hsieh.md|Tsung Ming Hsieh]] — mentioned in this record
+- [[people/tsung-ming-hsieh|Tsung Ming Hsieh]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

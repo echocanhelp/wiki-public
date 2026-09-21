@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-10-20 — published
 
 ## Subjects
-- [[people/joseph-hong.md|洪茂澤]] — mentioned in this record
+- [[people/joseph-hong|洪茂澤]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

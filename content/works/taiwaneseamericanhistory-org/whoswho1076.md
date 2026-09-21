@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-06-12 — published
 
 ## Subjects
-- [[people/andre-yang.md|Andre Yang]] — mentioned in this record
+- [[people/andre-yang|Andre Yang]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

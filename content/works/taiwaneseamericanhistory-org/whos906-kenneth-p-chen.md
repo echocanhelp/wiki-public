@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-03-25 — published
 
 ## Subjects
-- [[people/kenneth-p-chen.md|Kenneth P. Chen]] — mentioned in this record
+- [[people/kenneth-p-chen|Kenneth P. Chen]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

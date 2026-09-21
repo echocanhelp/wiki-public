@@ -55,7 +55,7 @@ Posted in 09/2017
 ## Subjects
 - [[people/min-kao]]
 - [[people/yea-hwang-uang]]
-- [[people/jinwun-winston-lue.md|呂錦文]] — mentioned in this record
+- [[people/jinwun-winston-lue|呂錦文]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

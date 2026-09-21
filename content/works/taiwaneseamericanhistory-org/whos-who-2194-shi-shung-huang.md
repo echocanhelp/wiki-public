@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2019-05-28 — published
 
 ## Subjects
-- [[people/prof-shi-shung-huang.md|Prof. Shi-Shung Huang]] — mentioned in this record
+- [[people/prof-shi-shung-huang|Prof. Shi-Shung Huang]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

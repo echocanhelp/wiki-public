@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-05-28 — published
 
 ## Subjects
-- [[people/minlu-chai.md|Minlu Chai]] — mentioned in this record
+- [[people/minlu-chai|Minlu Chai]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2015-10-31 — published
 
 ## Subjects
-- [[people/chi-chen-wu.md|Chi-Chen Wu]] — mentioned in this record
+- [[people/chi-chen-wu|Chi-Chen Wu]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

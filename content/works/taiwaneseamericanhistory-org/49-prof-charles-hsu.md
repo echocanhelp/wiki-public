@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2018-08-27 — published
 
 ## Subjects
-- [[people/charles-c-hsu.md|Dr. Charles C. Hsu]] — mentioned in this record
+- [[people/charles-c-hsu|Dr. Charles C. Hsu]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

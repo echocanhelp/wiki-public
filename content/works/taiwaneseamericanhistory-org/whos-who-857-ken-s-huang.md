@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-02-28 — published
 
 ## Subjects
-- [[people/prof-ken-s-huang.md|Prof. Ken S. Huang]] — mentioned in this record
+- [[people/prof-ken-s-huang|Prof. Ken S. Huang]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

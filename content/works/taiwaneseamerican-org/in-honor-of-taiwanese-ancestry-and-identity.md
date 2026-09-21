@@ -48,7 +48,7 @@ I am Taiwanese American. Any questions?
 - Featured
 - Perspectives
 - Social/Politics
-- [[people/leona-chen.md|Leona Chen]] — mentioned in this record
+- [[people/leona-chen|Leona Chen]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

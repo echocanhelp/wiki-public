@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2015-02-02 — published
 
 ## Subjects
-- [[people/samuel-lin.md|Samuel Lin]] — mentioned in this record
+- [[people/samuel-lin|Samuel Lin]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

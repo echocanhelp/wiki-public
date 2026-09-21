@@ -1,0 +1,4 @@
+people/rev-ian-cheng.md
+organizations/brown-risd-taiwanese-graduate-student-association.md
+people/goo-shun-wang.md
+people/david-wang.md

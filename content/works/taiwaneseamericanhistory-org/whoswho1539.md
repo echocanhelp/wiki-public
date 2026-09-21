@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-02-27 — published
 
 ## Subjects
-- [[people/david-yang.md|David Yang]] — mentioned in this record
+- [[people/david-yang|David Yang]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

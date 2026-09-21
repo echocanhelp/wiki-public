@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2018-01-31 — published
 
 ## Subjects
-- [[people/dr-jenta-shen.md|Dr. Jenta Shen]] — mentioned in this record
+- [[people/dr-jenta-shen|Dr. Jenta Shen]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

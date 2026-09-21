@@ -54,7 +54,7 @@ Then, I really started the waiting.
 ## Subjects
 - Featured
 - Perspectives
-- [[people/shawna-yang-ryan.md|Shawna Yang Ryan]] — mentioned in this record
+- [[people/shawna-yang-ryan|Shawna Yang Ryan]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

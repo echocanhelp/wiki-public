@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-02-10 — published
 
 ## Subjects
-- [[people/tsuann-kuo.md|Tsuann Kuo]] — mentioned in this record
+- [[people/tsuann-kuo|Tsuann Kuo]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

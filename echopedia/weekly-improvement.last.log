@@ -26,3 +26,76 @@ CI: publishing to heal drift
 INCIDENT_LOGGED: /home/leedt/echo-system/knowledge/operational/incidents/2026-09-20.md
 CI: site-design ACTION
 CI: smoke OK
+[gh-pages c926d3d3856] ci-heal: L2 auto-heal (2026-09-20)
+ 93 files changed, 1323 insertions(+), 291 deletions(-)
+ create mode 100644 knowledge/operational/deepen-x-slice-09200500-1.txt
+ create mode 100644 knowledge/operational/deepen-x-slice-09200500-10.txt
+ create mode 100644 knowledge/operational/deepen-x-slice-09200500-11.txt
+ create mode 100644 knowledge/operational/deepen-x-slice-09200500-12.txt
+ create mode 100644 knowledge/operational/deepen-x-slice-09200500-13.txt
+ create mode 100644 knowledge/operational/deepen-x-slice-09200500-14.txt
+ create mode 100644 knowledge/operational/deepen-x-slice-09200500-15.txt
+ create mode 100644 knowledge/operational/deepen-x-slice-09200500-16.txt
+ create mode 100644 knowledge/operational/deepen-x-slice-09200500-17.txt
+ create mode 100644 knowledge/operational/deepen-x-slice-09200500-18.txt
+ create mode 100644 knowledge/operational/deepen-x-slice-09200500-19.txt
+ create mode 100644 knowledge/operational/deepen-x-slice-09200500-2.txt
+ create mode 100644 knowledge/operational/deepen-x-slice-09200500-20.txt
+ create mode 100644 knowledge/operational/deepen-x-slice-09200500-21.txt
+ create mode 100644 knowledge/operational/deepen-x-slice-09200500-22.txt
+ create mode 100644 knowledge/operational/deepen-x-slice-09200500-23.txt
+ create mode 100644 knowledge/operational/deepen-x-slice-09200500-24.txt
+ create mode 100644 knowledge/operational/deepen-x-slice-09200500-25.txt
+ create mode 100644 knowledge/operational/deepen-x-slice-09200500-26.txt
+ create mode 100644 knowledge/operational/deepen-x-slice-09200500-27.txt
+ create mode 100644 knowledge/operational/deepen-x-slice-09200500-28.txt
+ create mode 100644 knowledge/operational/deepen-x-slice-09200500-29.txt
+ create mode 100644 knowledge/operational/deepen-x-slice-09200500-3.txt
+ create mode 100644 knowledge/operational/deepen-x-slice-09200500-30.txt
+ create mode 100644 knowledge/operational/deepen-x-slice-09200500-31.txt
+ create mode 100644 knowledge/operational/deepen-x-slice-09200500-32.txt
+ create mode 100644 knowledge/operational/deepen-x-slice-09200500-4.txt
+ create mode 100644 knowledge/operational/deepen-x-slice-09200500-5.txt
+ create mode 100644 knowledge/operational/deepen-x-slice-09200500-6.txt
+ create mode 100644 knowledge/operational/deepen-x-slice-09200500-7.txt
+ create mode 100644 knowledge/operational/deepen-x-slice-09200500-8.txt
+ create mode 100644 knowledge/operational/deepen-x-slice-09200500-9.txt
+ create mode 100644 knowledge/operational/deepen-x-slice-09200600-1.txt
+ create mode 100644 knowledge/operational/deepen-x-slice-09200600-10.txt
+ create mode 100644 knowledge/operational/deepen-x-slice-09200600-11.txt
+ create mode 100644 knowledge/operational/deepen-x-slice-09200600-12.txt
+ create mode 100644 knowledge/operational/deepen-x-slice-09200600-13.txt
+ create mode 100644 knowledge/operational/deepen-x-slice-09200600-14.txt
+ create mode 100644 knowledge/operational/deepen-x-slice-09200600-15.txt
+ create mode 100644 knowledge/operational/deepen-x-slice-09200600-16.txt
+ create mode 100644 knowledge/operational/deepen-x-slice-09200600-17.txt
+ create mode 100644 knowledge/operational/deepen-x-slice-09200600-18.txt
+ create mode 100644 knowledge/operational/deepen-x-slice-09200600-19.txt
+ create mode 100644 knowledge/operational/deepen-x-slice-09200600-2.txt
+ create mode 100644 knowledge/operational/deepen-x-slice-09200600-20.txt
+ create mode 100644 knowledge/operational/deepen-x-slice-09200600-21.txt
+ create mode 100644 knowledge/operational/deepen-x-slice-09200600-22.txt
+ create mode 100644 knowledge/operational/deepen-x-slice-09200600-23.txt
+ create mode 100644 knowledge/operational/deepen-x-slice-09200600-24.txt
+ create mode 100644 knowledge/operational/deepen-x-slice-09200600-25.txt
+ create mode 100644 knowledge/operational/deepen-x-slice-09200600-26.txt
+ create mode 100644 knowledge/operational/deepen-x-slice-09200600-27.txt
+ create mode 100644 knowledge/operational/deepen-x-slice-09200600-28.txt
+ create mode 100644 knowledge/operational/deepen-x-slice-09200600-29.txt
+ create mode 100644 knowledge/operational/deepen-x-slice-09200600-3.txt
+ create mode 100644 knowledge/operational/deepen-x-slice-09200600-30.txt
+ create mode 100644 knowledge/operational/deepen-x-slice-09200600-31.txt
+ create mode 100644 knowledge/operational/deepen-x-slice-09200600-32.txt
+ create mode 100644 knowledge/operational/deepen-x-slice-09200600-4.txt
+ create mode 100644 knowledge/operational/deepen-x-slice-09200600-5.txt
+ create mode 100644 knowledge/operational/deepen-x-slice-09200600-6.txt
+ create mode 100644 knowledge/operational/deepen-x-slice-09200600-7.txt
+ create mode 100644 knowledge/operational/deepen-x-slice-09200600-8.txt
+ create mode 100644 knowledge/operational/deepen-x-slice-09200600-9.txt
+ create mode 100644 knowledge/operational/tjj-a-slice-09200500-1.txt
+ create mode 100644 knowledge/operational/tjj-a-slice-09200500-2.txt
+ create mode 100644 knowledge/operational/tjj-a-slice-09200600-1.txt
+CI: committed heal
+CI: not green — no L3 push
+CI_SUMMARY: green=0 ops=WARN drift=ACTION smoke=OK
+CI_STATUS: HEALED_OR_WARN

@@ -412,8 +412,8 @@ EXPLORE
 - [[organizations/north-america-taiwanese-womens-association]]
 - [[organizations/tah-foundation]]
 - [[people/kocheng-kent-liu]]
-- [[organizations/north-america-taiwanese-womens-association.md|North America Taiwanese Women’s Association]] — mentioned in this record
-- [[people/kocheng-kent-liu.md|劉格正]] — mentioned in this record
+- [[organizations/north-america-taiwanese-womens-association|North America Taiwanese Women’s Association]] — mentioned in this record
+- [[people/kocheng-kent-liu|劉格正]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

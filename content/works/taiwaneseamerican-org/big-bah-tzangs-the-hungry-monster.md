@@ -56,8 +56,8 @@ This article will be printed in the upcoming edition of NATWA’s annual newsmag
 - Arts &amp; Culture
 - Food &amp; Travel
 - Interviews
-- [[people/karen-lin.md|Karen Lin]] — mentioned in this record
-- [[organizations/taiwanese-heritage-society-of-houston.md|Taiwanese Heritage Society of Houston]] — mentioned in this record
+- [[people/karen-lin|Karen Lin]] — mentioned in this record
+- [[organizations/taiwanese-heritage-society-of-houston|Taiwanese Heritage Society of Houston]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2020-10-30 — published
 
 ## Subjects
-- [[people/michelle-kuo.md|Michelle Kuo]] — mentioned in this record
+- [[people/michelle-kuo|Michelle Kuo]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

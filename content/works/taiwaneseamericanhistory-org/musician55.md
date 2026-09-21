@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2014-10-11 — published
 
 ## Subjects
-- [[people/tina-shao.md|Tina Shao]] — mentioned in this record
+- [[people/tina-shao|Tina Shao]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2018-12-02 — published
 
 ## Subjects
-- [[people/dr-shinn-sheng-chang.md|Dr. Shinn-Sheng Chang]] — mentioned in this record
+- [[people/dr-shinn-sheng-chang|Dr. Shinn-Sheng Chang]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

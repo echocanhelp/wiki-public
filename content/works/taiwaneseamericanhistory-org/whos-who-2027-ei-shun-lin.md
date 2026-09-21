@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2018-02-14 — published
 
 ## Subjects
-- [[people/dr-ei-shun-lin.md|Dr. Ei-Shun Lin]] — mentioned in this record
+- [[people/dr-ei-shun-lin|Dr. Ei-Shun Lin]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

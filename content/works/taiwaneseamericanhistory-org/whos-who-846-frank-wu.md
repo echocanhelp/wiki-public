@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-02-28 — published
 
 ## Subjects
-- [[people/frank-wu.md|Frank Wu]] — mentioned in this record
+- [[people/frank-wu|Frank Wu]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

@@ -104,7 +104,7 @@ Joanne: For me, when I got into the cooking industry, it was not like what it is
 
 ## Subjects
 - Interviews
-- [[people/joanne-chang.md|Joanne Chang]] — mentioned in this record
+- [[people/joanne-chang|Joanne Chang]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

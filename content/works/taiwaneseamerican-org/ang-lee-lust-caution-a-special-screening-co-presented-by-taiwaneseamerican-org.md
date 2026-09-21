@@ -62,7 +62,7 @@ And of course, don’t forget to join TaiwaneseAmerican.org on Facebook too!
 
 ## Subjects
 - Interviews
-- [[people/shawna-yang-ryan.md|Shawna Yang Ryan]] — mentioned in this record
+- [[people/shawna-yang-ryan|Shawna Yang Ryan]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

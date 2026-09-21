@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2019-06-25 — published
 
 ## Subjects
-- [[people/ron-chen.md|陳榮成]] — mentioned in this record
+- [[people/ron-chen|陳榮成]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

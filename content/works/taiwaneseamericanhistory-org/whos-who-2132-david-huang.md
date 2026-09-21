@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2018-06-14 — published
 
 ## Subjects
-- [[people/david-huang.md|Rev. David Huang]] — mentioned in this record
+- [[people/david-huang|Rev. David Huang]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

@@ -1,0 +1,4 @@
+people/s-m-lin.md
+people/mien-chien.md
+people/justin-lai.md
+organizations/georgetown-taiwanese-student-association.md

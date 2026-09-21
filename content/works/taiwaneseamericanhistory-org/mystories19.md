@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2014-09-03 — published
 
 ## Subjects
-- [[people/lian-huo-wu.md|吳連火]] — mentioned in this record
+- [[people/lian-huo-wu|吳連火]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

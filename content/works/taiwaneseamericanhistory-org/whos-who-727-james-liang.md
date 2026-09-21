@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2015-12-13 — published
 
 ## Subjects
-- [[people/james-liang.md|James Liang]] — mentioned in this record
+- [[people/james-liang|James Liang]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

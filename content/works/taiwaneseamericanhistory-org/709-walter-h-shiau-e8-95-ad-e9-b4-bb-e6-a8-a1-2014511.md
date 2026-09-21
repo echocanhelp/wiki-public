@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2015-11-21 — published
 
 ## Subjects
-- [[people/walter-h-shiau.md|Walter H Shiau]] — mentioned in this record
+- [[people/walter-h-shiau|Walter H Shiau]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

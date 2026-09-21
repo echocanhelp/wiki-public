@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "last_run": "self-heal-verify",
+  "last_run": "slug-redirect-bot",
   "last_run_date": "2026-09-20",
-  "pages_audited": 2871,
-  "issues_found": 35554,
+  "pages_audited": 2872,
+  "issues_found": 34805,
   "issue_history": [
     {
       "run_date": "2026-07-13",
@@ -1222,30 +1222,63 @@
     },
     {
       "run_date": "2026-09-20",
-      "total_issues": 35554,
-      "broken_links": 26321,
-      "missing_sections": 107,
-      "stale_content": 5396,
+      "total_issues": 34805,
+      "broken_links": 26328,
+      "missing_sections": 91,
+      "stale_content": 4585,
       "orphans": 30,
       "cross_references": 263,
-      "missing_pages": 3437,
+      "missing_pages": 3507,
       "index_sync": 0,
-      "web_issues": 0,
+      "web_issues": 1,
       "structural": 44,
       "full_log": "/home/leedt/echo-system/echopedia/logs/nightly-audit-2026-09-20.txt"
     },
     {
       "run_date": "2026-09-20",
-      "total_issues": 18506,
-      "broken_links": 16582,
-      "missing_pages": 1787,
-      "structural": 107,
+      "total_issues": 18525,
+      "broken_links": 16588,
+      "missing_pages": 1816,
+      "structural": 91,
       "stale": 0,
       "missing_sections": 0,
       "orphans": 30,
       "cross_refs": 0,
-      "prev_total": 35554,
-      "delta": -17048
+      "prev_total": 34805,
+      "delta": -16280
+    },
+    {
+      "run_date": "2026-09-20",
+      "total_broken": 26321,
+      "type_a_md": 6819,
+      "type_b_mismatch": 0,
+      "type_c_missing": 10,
+      "type_d_typo": 19492,
+      "type_e_index": 0
+    },
+    {
+      "run_date": "2026-09-20",
+      "md_fixes": 6823,
+      "redirect_stubs": 16,
+      "skipped": 13,
+      "redirect_targets": [
+        "works/taiwaneseamericanhistory-org/379-first-international-medical-mission",
+        "works/taiwaneseamericanhistory-org/679-e5-8c-97-e7-be-8e-e6-b4-b2-e5-8f-b0-e7-81-a3-e5-a9-a6-e5-a5-b3-e6-9c-83-e8-8",
+        "works/taiwaneseamericanhistory-org/7-e5-a0-aa-e8-96-a9-e6-96-af-e6-b5-b7-e6-96-af-e5-a0-a1-e5-b7-9e-e7-ab-8b-e5-a4-",
+        "works/taiwaneseamericanhistory-org/585-e5-8c-97-e5-8a-a0-e5-b7-9e-e5-8d-97-e7-81-a3-e5-8f-b0-e7-81-a3-e5-90-8c-e9-8",
+        "organizations/taiwaneseamerican-org",
+        "works/taiwaneseamericanhistory-org/135-e5-85-a8-e7-be-8e-e5-8f-b0-e7-81-a3-e5-90-8c-e9-84-89-e6-9c-83-e7-b0-a1-e4-b",
+        "works/taiwaneseamericanhistory-org/406-e6-b4-aa-e8-8e-89-e7-8e-b2-201505",
+        "works/taiwaneseamericanhistory-org/305-e9-96-b1-e8-ae-80-e5-8f-b0-e7-81-a3-e4-ba-ba-e6-96-87100-e7-89-b9-e5-b1-95-e",
+        "organizations/taiwanese-american-student-association-ohio-state-university",
+        "works/taiwaneseamericanhistory-org/299-e8-bf-bd-e6-80-9d-e9-84-ad-e5-be-b7-e6-98-8c-e5-85-84-e9-99-b3-e6-ad-a3-e8-8",
+        "organizations/north-american-taiwanese-medical-association-foundation",
+        "works/taiwaneseamericanhistory-org/53-george-chang-long-chen-chen-wen-hsong-lai-e5-bc-b5-e7-87-a6-e9-8d-99-e9-99-b3",
+        "works/taiwaneseamericanhistory-org/108-e8-ac-9d-e6-b8-85-e5-bf-97-e5-8d-9a-e5-a3-ab-dr-ching-sze-hsieh",
+        "works/taiwaneseamericanhistory-org/299-e8-bf-bd-e6-80-9d-e9-84-ad-e5-be-b7-e6-98-8c-e5-85-84-e9-99-b3-e6-ad-a3-e8-8",
+        "works/taiwaneseamericanhistory-org/416-e9-98-bf-e6-af-8d-e6-88-91-e6-83-b3-e5-bf-b5-e6-82-a8-e6-9d-8e-e7-a7-80-e9-b",
+        "works/taiwaneseamericanhistory-org/610-e5-8d-97-e7-81-a3-e5-8f-b0-e7-81-a3-e5-9f-ba-e7-9d-a3-e9-95-b7-e8-80-81-e6-9"
+      ]
     }
   ],
   "resolved_issues": []

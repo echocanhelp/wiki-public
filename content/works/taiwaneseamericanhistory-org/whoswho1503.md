@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-02-12 — published
 
 ## Subjects
-- [[people/george-ho.md|George Ho]] — mentioned in this record
+- [[people/george-ho|George Ho]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

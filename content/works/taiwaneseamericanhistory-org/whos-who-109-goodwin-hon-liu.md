@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2014-11-23 — published
 
 ## Subjects
-- [[people/dr-goodwin-hon-liu.md|Dr. Goodwin Hon Liu]] — mentioned in this record
+- [[people/dr-goodwin-hon-liu|Dr. Goodwin Hon Liu]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

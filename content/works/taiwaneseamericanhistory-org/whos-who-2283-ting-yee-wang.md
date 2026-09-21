@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2020-07-30 — published
 
 ## Subjects
-- [[people/ting-yee-wang.md|Ting Yee Wang]] — mentioned in this record
+- [[people/ting-yee-wang|Ting Yee Wang]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

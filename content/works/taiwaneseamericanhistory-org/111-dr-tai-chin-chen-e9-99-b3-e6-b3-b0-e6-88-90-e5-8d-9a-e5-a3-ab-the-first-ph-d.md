@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2015-12-10 — published
 
 ## Subjects
-- [[people/tai-cheng-chen.md|陳泰成博士]] — mentioned in this record
+- [[people/tai-cheng-chen|陳泰成博士]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2014-11-24 — published
 
 ## Subjects
-- [[people/may-fang.md|May Fang]] — mentioned in this record
+- [[people/may-fang|May Fang]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

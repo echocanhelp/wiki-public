@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-07-04 — published
 
 ## Subjects
-- [[people/esther-chou-lu.md|Esther Chou Lu]] — mentioned in this record
+- [[people/esther-chou-lu|Esther Chou Lu]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

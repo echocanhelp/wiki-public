@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2020-05-11 — published
 
 ## Subjects
-- [[people/dr-taitzer-wang.md|Dr. Taitzer Wang]] — mentioned in this record
+- [[people/dr-taitzer-wang|Dr. Taitzer Wang]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

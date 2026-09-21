@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2018-09-26 — published
 
 ## Subjects
-- [[people/martin-tsai.md|Martin Tsai]] — mentioned in this record
+- [[people/martin-tsai|Martin Tsai]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

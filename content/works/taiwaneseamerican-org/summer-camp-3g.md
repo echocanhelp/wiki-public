@@ -79,7 +79,7 @@ Raised in Michigan and a graduate of The Wharton School of the University of Pen
 ## Subjects
 - Community
 - Perspectives
-- [[organizations/taiwan-american-foundation.md|Taiwanese American Foundation]] — mentioned in this record
+- [[organizations/taiwan-american-foundation|Taiwanese American Foundation]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

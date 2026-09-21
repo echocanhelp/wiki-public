@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-07-30 — published
 
 ## Subjects
-- [[people/dr-bernard-tsai.md|Dr. Bernard Tsai]] — mentioned in this record
+- [[people/dr-bernard-tsai|Dr. Bernard Tsai]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-01-22 — published
 
 ## Subjects
-- [[people/chih-ming-ho.md|Chih-Ming Ho]] — mentioned in this record
+- [[people/chih-ming-ho|Chih-Ming Ho]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

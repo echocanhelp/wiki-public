@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2018-08-24 — published
 
 ## Subjects
-- [[people/prof-shiou-ping-liao.md|Prof. Shiou-Ping Liao]] — mentioned in this record
+- [[people/prof-shiou-ping-liao|Prof. Shiou-Ping Liao]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

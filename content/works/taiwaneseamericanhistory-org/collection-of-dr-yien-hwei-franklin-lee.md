@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-09-22 — published
 
 ## Subjects
-- [[people/yien-hwei-franklin-lee.md|李彥輝醫師]] — mentioned in this record
+- [[people/yien-hwei-franklin-lee|李彥輝醫師]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

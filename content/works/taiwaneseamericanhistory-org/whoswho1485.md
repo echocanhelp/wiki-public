@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-01-25 — published
 
 ## Subjects
-- [[people/jennifer-hung.md|Jennifer Hung]] — mentioned in this record
+- [[people/jennifer-hung|Jennifer Hung]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

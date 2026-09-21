@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-02-20 — published
 
 ## Subjects
-- [[people/hsing-i-chen.md|Hsing-I Chen]] — mentioned in this record
+- [[people/hsing-i-chen|Hsing-I Chen]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2014-10-12 — published
 
 ## Subjects
-- [[organizations/tsunah-foundation.md|TSUNAH FOUNDATION]] — mentioned in this record
+- [[organizations/tsunah-foundation|TSUNAH FOUNDATION]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

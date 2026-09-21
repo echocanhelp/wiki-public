@@ -81,16 +81,16 @@ Translated from 65. FAPA的誕生 / 蔡同榮/2014/11
 - [[people/ming-che-lin||Ming-Che Lin]]
 - [[people/tsan-hung-george-chang||Tsan-Hung George Chang]]
 - [[organizations/taiwanese-association-of-america||Taiwanese Association Of America]]
-- [[people/charles-ting.md|Charles Ting]] — mentioned in this record
-- [[people/philip-s-chen.md|Philip S. Chen]] — mentioned in this record
-- [[people/dr-tu-chen.md|Dr. Tu Chen]] — mentioned in this record
-- [[people/prof-ming-min-peng.md|Prof. Ming Min Peng]] — mentioned in this record
-- [[people/prof-trong-rong-tsai.md|Prof. Trong-Rong Tsai]] — mentioned in this record
-- [[people/tsan-hung-george-chang.md|Tsan-hung George Chang]] — mentioned in this record
-- [[people/dr-fu-chen-lo.md|Dr. Fu-Chen Lo]] — mentioned in this record
-- [[people/ming-che-lin.md|Ming-che Lin]] — mentioned in this record
-- [[people/dr-jen-tai-tsai.md|Dr. Jen-Tai Tsai]] — mentioned in this record
-- [[organizations/taiwanese-association-of-america.md|Taiwanese Association of America]] — mentioned in this record
+- [[people/charles-ting|Charles Ting]] — mentioned in this record
+- [[people/philip-s-chen|Philip S. Chen]] — mentioned in this record
+- [[people/dr-tu-chen|Dr. Tu Chen]] — mentioned in this record
+- [[people/prof-ming-min-peng|Prof. Ming Min Peng]] — mentioned in this record
+- [[people/prof-trong-rong-tsai|Prof. Trong-Rong Tsai]] — mentioned in this record
+- [[people/tsan-hung-george-chang|Tsan-hung George Chang]] — mentioned in this record
+- [[people/dr-fu-chen-lo|Dr. Fu-Chen Lo]] — mentioned in this record
+- [[people/ming-che-lin|Ming-che Lin]] — mentioned in this record
+- [[people/dr-jen-tai-tsai|Dr. Jen-Tai Tsai]] — mentioned in this record
+- [[organizations/taiwanese-association-of-america|Taiwanese Association of America]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

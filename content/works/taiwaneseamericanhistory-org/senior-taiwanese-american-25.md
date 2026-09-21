@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2019-08-30 — published
 
 ## Subjects
-- [[people/dr-guei-yun-yang.md|Dr. Guei-Yun Yang]] — mentioned in this record
+- [[people/dr-guei-yun-yang|Dr. Guei-Yun Yang]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

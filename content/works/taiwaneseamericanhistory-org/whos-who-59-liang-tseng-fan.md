@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2014-10-04 — published
 
 ## Subjects
-- [[people/prof-liang-tseng-fan.md|Prof. Liang-Tseng Fan]] — mentioned in this record
+- [[people/prof-liang-tseng-fan|Prof. Liang-Tseng Fan]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

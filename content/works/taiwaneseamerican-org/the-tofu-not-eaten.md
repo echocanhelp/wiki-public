@@ -84,7 +84,7 @@ Also add our Stinky Tofu mascot as a friend on Facebook!
 
 ## Subjects
 - Perspectives
-- [[people/kelly-lin.md|Kelly Lin]] — mentioned in this record
+- [[people/kelly-lin|Kelly Lin]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

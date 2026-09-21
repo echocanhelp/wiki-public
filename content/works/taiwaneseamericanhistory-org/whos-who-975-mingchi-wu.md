@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-05-08 — published
 
 ## Subjects
-- [[people/prof-mingchi-wu.md|Prof. Mingchi Wu]] — mentioned in this record
+- [[people/prof-mingchi-wu|Prof. Mingchi Wu]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

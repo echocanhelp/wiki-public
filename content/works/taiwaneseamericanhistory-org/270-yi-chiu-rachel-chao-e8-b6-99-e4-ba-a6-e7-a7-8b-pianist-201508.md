@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2015-08-22 — published
 
 ## Subjects
-- [[people/rachel-chao.md|Rachel Chao]] — mentioned in this record
+- [[people/rachel-chao|Rachel Chao]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-01-15 — published
 
 ## Subjects
-- [[people/wen-chi-chang.md|Wen Chi Chang]] — mentioned in this record
+- [[people/wen-chi-chang|Wen Chi Chang]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

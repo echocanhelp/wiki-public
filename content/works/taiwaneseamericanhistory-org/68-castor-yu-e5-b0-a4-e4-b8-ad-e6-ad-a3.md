@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2014-10-19 — published
 
 ## Subjects
-- [[people/castor-yu.md|Castor Yu]] — mentioned in this record
+- [[people/castor-yu|Castor Yu]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

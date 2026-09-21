@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-02-12 — published
 
 ## Subjects
-- [[people/chang-yong-tsao.md|Chang-Yong Tsao]] — mentioned in this record
+- [[people/chang-yong-tsao|Chang-Yong Tsao]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

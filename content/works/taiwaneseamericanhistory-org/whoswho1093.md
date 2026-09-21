@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-06-18 — published
 
 ## Subjects
-- [[people/hui-chuan-chen.md|Hui-Chuan Chen]] — mentioned in this record
+- [[people/hui-chuan-chen|Hui-Chuan Chen]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

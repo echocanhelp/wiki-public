@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-05-22 — published
 
 ## Subjects
-- [[people/sin-i-hsiao.md|Sin-I Hsiao]] — mentioned in this record
+- [[people/sin-i-hsiao|Sin-I Hsiao]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

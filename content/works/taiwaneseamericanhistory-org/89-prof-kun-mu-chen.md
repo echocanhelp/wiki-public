@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2018-09-12 — published
 
 ## Subjects
-- [[people/kun-mu-chen.md|Prof. Kun-Mu Chen]] — mentioned in this record
+- [[people/kun-mu-chen|Prof. Kun-Mu Chen]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

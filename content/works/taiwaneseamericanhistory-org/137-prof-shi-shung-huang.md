@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2018-10-09 — published
 
 ## Subjects
-- [[people/prof-shi-shung-huang.md|黃錫勳教授]] — mentioned in this record
+- [[people/prof-shi-shung-huang|黃錫勳教授]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

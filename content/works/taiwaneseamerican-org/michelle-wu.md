@@ -89,7 +89,7 @@ Twitter: @wutrain
 ## Subjects
 - Interviews
 - Social/Politics
-- [[people/michelle-wu.md|Michelle Wu]] — mentioned in this record
+- [[people/michelle-wu|Michelle Wu]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

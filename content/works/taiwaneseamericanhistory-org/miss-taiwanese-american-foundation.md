@@ -32,8 +32,8 @@ _Bibliographic record only. Full text stays in the vault._
 - 2014-10-12 — published
 
 ## Subjects
-- [[organizations/miss-taiwanese-american-foundation.md|Miss Taiwanese American Foundation]] — mentioned in this record
-- [[organizations/taiwan-american-foundation.md|Taiwanese American Foundation]] — mentioned in this record
+- [[organizations/miss-taiwanese-american-foundation|Miss Taiwanese American Foundation]] — mentioned in this record
+- [[organizations/taiwan-american-foundation|Taiwanese American Foundation]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

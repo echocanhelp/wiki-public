@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2015-12-05 — published
 
 ## Subjects
-- [[people/shitien-yang.md|Shitien Yang]] — mentioned in this record
+- [[people/shitien-yang|Shitien Yang]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

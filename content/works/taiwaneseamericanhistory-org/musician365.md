@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-09-25 — published
 
 ## Subjects
-- [[people/joy-chi-wang.md|Joy Chi Wang]] — mentioned in this record
+- [[people/joy-chi-wang|Joy Chi Wang]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

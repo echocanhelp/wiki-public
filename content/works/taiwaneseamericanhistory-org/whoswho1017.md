@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-05-26 — published
 
 ## Subjects
-- [[people/marion-m-lee.md|Marion M Lee]] — mentioned in this record
+- [[people/marion-m-lee|Marion M Lee]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

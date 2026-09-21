@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2014-10-04 — published
 
 ## Subjects
-- [[people/john-chun-liu.md|John Chun Liu]] — mentioned in this record
+- [[people/john-chun-liu|John Chun Liu]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

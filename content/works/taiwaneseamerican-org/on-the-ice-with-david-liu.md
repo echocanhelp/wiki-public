@@ -80,7 +80,7 @@ Margaret Chen is a staff member of TaiwaneseAmerican.org and currently lives in 
 
 ## Subjects
 - Interviews
-- [[people/prof-david-liu.md|Prof. David Liu]] — mentioned in this record
+- [[people/prof-david-liu|Prof. David Liu]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

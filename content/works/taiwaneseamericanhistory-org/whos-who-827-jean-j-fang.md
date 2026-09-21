@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-02-20 — published
 
 ## Subjects
-- [[people/jean-j-fang.md|Jean J. Fang]] — mentioned in this record
+- [[people/jean-j-fang|Jean J. Fang]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

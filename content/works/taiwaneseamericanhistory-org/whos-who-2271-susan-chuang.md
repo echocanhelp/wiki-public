@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2020-05-18 — published
 
 ## Subjects
-- [[people/susan-chuang.md|Susan Chuang]] — mentioned in this record
+- [[people/susan-chuang|Susan Chuang]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

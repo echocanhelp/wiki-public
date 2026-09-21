@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2015-09-19 — published
 
 ## Subjects
-- [[people/cheng-ming-chuong.md|Cheng-Ming Chuong]] — mentioned in this record
+- [[people/cheng-ming-chuong|Cheng-Ming Chuong]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

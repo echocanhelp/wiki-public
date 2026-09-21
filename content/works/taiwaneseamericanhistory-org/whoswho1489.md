@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-01-30 — published
 
 ## Subjects
-- [[people/frank-lin.md|Frank Lin]] — mentioned in this record
+- [[people/frank-lin|Frank Lin]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

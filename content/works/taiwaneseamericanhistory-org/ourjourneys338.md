@@ -65,9 +65,9 @@ Posted in 07/2018
 - 2018-07-25 — published
 
 ## Subjects
-- [[people/heng-liong-lin.md|林興隆]] — mentioned in this record
-- [[people/chiung-hsiung-ou.md|歐炯雄]] — mentioned in this record
-- [[organizations/boston-taiwanese-christian-church.md|波士頓台灣基督教會]] — mentioned in this record
+- [[people/heng-liong-lin|林興隆]] — mentioned in this record
+- [[people/chiung-hsiung-ou|歐炯雄]] — mentioned in this record
+- [[organizations/boston-taiwanese-christian-church|波士頓台灣基督教會]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

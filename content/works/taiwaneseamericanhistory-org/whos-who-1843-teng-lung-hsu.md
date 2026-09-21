@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-08-14 — published
 
 ## Subjects
-- [[people/dr-teng-lung-hsu.md|Dr. Teng Lung Hsu]] — mentioned in this record
+- [[people/dr-teng-lung-hsu|Dr. Teng Lung Hsu]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

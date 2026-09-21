@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2018-03-26 — published
 
 ## Subjects
-- [[people/remii-huang.md|Remii Huang]] — mentioned in this record
+- [[people/remii-huang|Remii Huang]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

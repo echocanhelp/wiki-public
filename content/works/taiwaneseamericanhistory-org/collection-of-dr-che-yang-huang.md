@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-09-07 — published
 
 ## Subjects
-- [[people/dr-che-yang-huang.md|Dr. Che-Yang Huang]] — mentioned in this record
+- [[people/dr-che-yang-huang|Dr. Che-Yang Huang]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2020-05-22 — published
 
 ## Subjects
-- [[people/dr-sheng-yi-chuang.md|Dr. Sheng-Yi Chuang]] — mentioned in this record
+- [[people/dr-sheng-yi-chuang|Dr. Sheng-Yi Chuang]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

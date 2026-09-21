@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-11-13 — published
 
 ## Subjects
-- [[people/h-w-huang.md|H. W. Huang]] — mentioned in this record
+- [[people/h-w-huang|H. W. Huang]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

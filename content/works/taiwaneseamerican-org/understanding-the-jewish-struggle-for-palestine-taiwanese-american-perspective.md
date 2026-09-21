@@ -192,7 +192,7 @@ SueAnn Shiah (@sueannshiah) is a Taiwanese American musician, filmmaker, communi
 - Community
 - Perspectives
 - Social/Politics
-- [[people/sueann-shiah.md|SueAnn Shiah]] — mentioned in this record
+- [[people/sueann-shiah|SueAnn Shiah]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

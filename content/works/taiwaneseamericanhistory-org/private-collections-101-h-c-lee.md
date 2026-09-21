@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2020-07-24 — published
 
 ## Subjects
-- [[people/prof-h-c-lee.md|Prof. H. C. Lee]] — mentioned in this record
+- [[people/prof-h-c-lee|Prof. H. C. Lee]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

@@ -48,8 +48,8 @@ Nikki DePaola grew up in Kansas, as a part of a tight-knit group of active Taiwa
 - Community
 - Featured
 - Perspectives
-- [[organizations/formosa-foundation.md|Formosa Foundation]] — mentioned in this record
-- [[organizations/taiwan-center-choir.md|Taiwan Center Choir]] — mentioned in this record
+- [[organizations/formosa-foundation|Formosa Foundation]] — mentioned in this record
+- [[organizations/taiwan-center-choir|Taiwan Center Choir]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

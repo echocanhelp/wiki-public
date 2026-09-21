@@ -32,8 +32,8 @@ _Bibliographic record only. Full text stays in the vault._
 - 2018-07-11 — published
 
 ## Subjects
-- [[people/yi-ho-cheng.md|Yi-Ho Cheng]] — mentioned in this record
-- [[organizations/taiwanese-association-of-america.md|Taiwanese Association of America]] — mentioned in this record
+- [[people/yi-ho-cheng|Yi-Ho Cheng]] — mentioned in this record
+- [[organizations/taiwanese-association-of-america|Taiwanese Association of America]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

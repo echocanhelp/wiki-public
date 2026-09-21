@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-03-15 — published
 
 ## Subjects
-- [[people/russell-hsiao.md|Russell Hsiao]] — mentioned in this record
+- [[people/russell-hsiao|Russell Hsiao]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

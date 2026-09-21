@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2018-05-14 — published
 
 ## Subjects
-- [[people/chen-ming-wang.md|王建民]] — mentioned in this record
+- [[people/chen-ming-wang|王建民]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

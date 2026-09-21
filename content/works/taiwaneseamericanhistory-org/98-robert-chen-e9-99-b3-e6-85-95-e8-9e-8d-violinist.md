@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2014-11-17 — published
 
 ## Subjects
-- [[people/robert-chen.md|Robert Chen]] — mentioned in this record
+- [[people/robert-chen|Robert Chen]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

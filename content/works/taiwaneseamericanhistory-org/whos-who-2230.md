@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2019-11-12 — published
 
 ## Subjects
-- [[people/zai-xing-wang.md|Zai-Xing Wang]] — mentioned in this record
+- [[people/zai-xing-wang|Zai-Xing Wang]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

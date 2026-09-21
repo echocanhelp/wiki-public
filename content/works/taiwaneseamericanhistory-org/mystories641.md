@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2018-06-19 — published
 
 ## Subjects
-- [[people/martha-wang.md|鄞美珠]] — mentioned in this record
+- [[people/martha-wang|鄞美珠]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

@@ -74,8 +74,8 @@ This blog is cross-posted at Feminism and Religion and an earlier version appear
 
 ## Subjects
 - Perspectives
-- [[people/grace-yia-hei-kao.md|Grace Yia-Hei Kao]] — mentioned in this record
-- [[people/jeremy-lin.md|Jeremy Lin]] — mentioned in this record
+- [[people/grace-yia-hei-kao|Grace Yia-Hei Kao]] — mentioned in this record
+- [[people/jeremy-lin|Jeremy Lin]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

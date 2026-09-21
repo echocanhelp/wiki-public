@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2014-12-31 — published
 
 ## Subjects
-- [[people/doug-chiang.md|Doug Chiang]] — mentioned in this record
+- [[people/doug-chiang|Doug Chiang]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

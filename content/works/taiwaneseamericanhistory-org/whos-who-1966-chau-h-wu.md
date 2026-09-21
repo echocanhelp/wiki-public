@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-12-03 — published
 
 ## Subjects
-- [[people/dr-chau-h-wu.md|Dr. Chau H. Wu]] — mentioned in this record
+- [[people/dr-chau-h-wu|Dr. Chau H. Wu]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

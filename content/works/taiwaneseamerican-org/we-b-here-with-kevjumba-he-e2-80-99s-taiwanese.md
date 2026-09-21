@@ -92,7 +92,7 @@ Elizabeth and Grace are TaiwaneseAmerican.org staff members based in Atlanta, GA
 
 ## Subjects
 - Interviews
-- [[organizations/taiwan-american-foundation.md|Taiwanese American Foundation]] — mentioned in this record
+- [[organizations/taiwan-american-foundation|Taiwanese American Foundation]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

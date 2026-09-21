@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2018-11-19 — published
 
 ## Subjects
-- [[people/gloria-h-shaw.md|Gloria H. Shaw]] — mentioned in this record
+- [[people/gloria-h-shaw|Gloria H. Shaw]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

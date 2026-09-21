@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-06-23 — published
 
 ## Subjects
-- [[people/tiffany-huang.md|Tiffany Huang]] — mentioned in this record
+- [[people/tiffany-huang|Tiffany Huang]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

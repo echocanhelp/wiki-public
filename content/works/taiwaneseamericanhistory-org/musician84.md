@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2014-12-01 — published
 
 ## Subjects
-- [[people/mei-hua-huang.md|Mei-Hua Huang]] — mentioned in this record
+- [[people/mei-hua-huang|Mei-Hua Huang]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

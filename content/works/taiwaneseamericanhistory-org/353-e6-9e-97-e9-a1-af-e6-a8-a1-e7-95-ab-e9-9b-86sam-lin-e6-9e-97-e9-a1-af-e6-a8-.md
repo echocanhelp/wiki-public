@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2014-11-27 — published
 
 ## Subjects
-- [[people/sien-mo-lin.md|林顯模]] — mentioned in this record
+- [[people/sien-mo-lin|林顯模]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

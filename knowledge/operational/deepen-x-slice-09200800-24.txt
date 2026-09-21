@@ -1,0 +1,4 @@
+people/mien-chie-hung.md
+people/chih-cheng-wang.md
+organizations/global-alliance-for-democracy-and-peace.md
+organizations/formosa-senior-association.md

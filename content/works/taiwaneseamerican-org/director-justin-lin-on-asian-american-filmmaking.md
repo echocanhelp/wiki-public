@@ -54,8 +54,8 @@ As a Taiwanese American who values the stories told by our Asian American filmma
 
 ## Subjects
 - Perspectives
-- [[people/justin-lin.md|Justin Lin]] — mentioned in this record
-- [[people/will-tiao.md|Will Tiao]] — mentioned in this record
+- [[people/justin-lin|Justin Lin]] — mentioned in this record
+- [[people/will-tiao|Will Tiao]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

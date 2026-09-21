@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2015-01-20 — published
 
 ## Subjects
-- [[people/ingrid-chun.md|Ingrid Chun]] — mentioned in this record
+- [[people/ingrid-chun|Ingrid Chun]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

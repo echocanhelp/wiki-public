@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2018-11-06 — published
 
 ## Subjects
-- [[people/prof-frank-chiang.md|Prof. Frank Chiang]] — mentioned in this record
+- [[people/prof-frank-chiang|Prof. Frank Chiang]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

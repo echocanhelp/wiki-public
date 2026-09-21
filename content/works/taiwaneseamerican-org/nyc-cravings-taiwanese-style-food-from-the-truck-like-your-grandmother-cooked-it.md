@@ -79,7 +79,7 @@ Follow Cravings on Twitter and Facebook! It’s fun.
 ## Subjects
 - Food &amp; Travel
 - Interviews
-- [[people/eric-yang.md|Eric Yang]] — mentioned in this record
+- [[people/eric-yang|Eric Yang]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

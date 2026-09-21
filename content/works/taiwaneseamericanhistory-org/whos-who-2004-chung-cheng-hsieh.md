@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2018-01-31 — published
 
 ## Subjects
-- [[people/prof-chung-cheng-hsieh.md|Prof. Chung-Cheng Hsieh]] — mentioned in this record
+- [[people/prof-chung-cheng-hsieh|Prof. Chung-Cheng Hsieh]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

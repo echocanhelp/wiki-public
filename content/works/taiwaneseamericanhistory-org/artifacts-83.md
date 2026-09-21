@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2021-08-21 — published
 
 ## Subjects
-- [[people/tsai-ing-wen.md|Tsai Ing-wen]] — mentioned in this record
+- [[people/tsai-ing-wen|Tsai Ing-wen]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

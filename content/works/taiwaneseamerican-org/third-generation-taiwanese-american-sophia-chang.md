@@ -70,8 +70,8 @@ Sophia Chang is a current Fulbright English Teaching Assistant in New Taipei Cit
 - Featured
 - Perspectives
 - Spotlight
-- [[people/tsai-ing-wen.md|Tsai Ing-wen]] — mentioned in this record
-- [[organizations/taiwanese-american-students-association.md|Taiwanese American Students Association]] — mentioned in this record
+- [[people/tsai-ing-wen|Tsai Ing-wen]] — mentioned in this record
+- [[organizations/taiwanese-american-students-association|Taiwanese American Students Association]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

@@ -73,7 +73,7 @@ Linkroll from this post:
 ## Subjects
 - East Coast
 - Interviews
-- [[people/jeremy-lin.md|Jeremy Lin]] — mentioned in this record
+- [[people/jeremy-lin|Jeremy Lin]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

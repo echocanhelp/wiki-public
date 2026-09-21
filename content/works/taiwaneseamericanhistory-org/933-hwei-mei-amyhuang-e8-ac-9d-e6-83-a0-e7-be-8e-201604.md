@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-04-17 — published
 
 ## Subjects
-- [[people/hwei-mei-amyhuang.md|謝惠美]] — mentioned in this record
+- [[people/hwei-mei-amyhuang|謝惠美]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

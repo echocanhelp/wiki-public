@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-08-21 — published
 
 ## Subjects
-- [[people/connie-lu.md|Connie Lu]] — mentioned in this record
+- [[people/connie-lu|Connie Lu]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

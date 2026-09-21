@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-04-04 — published
 
 ## Subjects
-- [[organizations/fri-philo.md|Fri. Philo]] — mentioned in this record
+- [[organizations/fri-philo|Fri. Philo]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

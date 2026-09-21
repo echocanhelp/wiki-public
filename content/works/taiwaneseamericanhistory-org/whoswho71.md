@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2014-10-23 — published
 
 ## Subjects
-- [[people/ya-hui-chiu.md|Ya-hui Chiu]] — mentioned in this record
+- [[people/ya-hui-chiu|Ya-hui Chiu]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

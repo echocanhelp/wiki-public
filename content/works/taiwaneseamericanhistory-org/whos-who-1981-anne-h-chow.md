@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-12-26 — published
 
 ## Subjects
-- [[people/anne-h-chow.md|Anne H. Chow]] — mentioned in this record
+- [[people/anne-h-chow|Anne H. Chow]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

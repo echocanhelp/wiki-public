@@ -32,8 +32,8 @@ _Bibliographic record only. Full text stays in the vault._
 - 2019-02-03 — published
 
 ## Subjects
-- [[people/prof-ming-min-peng.md|Prof. Ming Min Peng]] — mentioned in this record
-- [[people/hsiu-fang-susan-liu.md|陳秀芳]] — mentioned in this record
+- [[people/prof-ming-min-peng|Prof. Ming Min Peng]] — mentioned in this record
+- [[people/hsiu-fang-susan-liu|陳秀芳]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2014-10-11 — published
 
 ## Subjects
-- [[people/huai-en-tsai.md|Huai-En Tsai]] — mentioned in this record
+- [[people/huai-en-tsai|Huai-En Tsai]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

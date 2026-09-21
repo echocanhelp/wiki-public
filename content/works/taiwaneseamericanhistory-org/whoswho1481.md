@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-01-24 — published
 
 ## Subjects
-- [[people/jason-chung.md|Jason Chung]] — mentioned in this record
+- [[people/jason-chung|Jason Chung]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-06-18 — published
 
 ## Subjects
-- [[people/kuei-i-wu.md|Kuei-I Wu]] — mentioned in this record
+- [[people/kuei-i-wu|Kuei-I Wu]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

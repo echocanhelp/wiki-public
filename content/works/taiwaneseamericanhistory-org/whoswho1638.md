@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-05-07 — published
 
 ## Subjects
-- [[people/feng-jen-lu.md|Feng-Jen Lu]] — mentioned in this record
+- [[people/feng-jen-lu|Feng-Jen Lu]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

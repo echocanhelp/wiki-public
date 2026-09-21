@@ -68,8 +68,8 @@ Posted in 11/2016
 
 ## Subjects
 - [[people/grace-lin]]
-- [[people/li-ying-shang.md|商麗鶯]] — mentioned in this record
-- [[people/grace-lin.md|吳瑞惠]] — mentioned in this record
+- [[people/li-ying-shang|商麗鶯]] — mentioned in this record
+- [[people/grace-lin|吳瑞惠]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-02-28 — published
 
 ## Subjects
-- [[people/prof-elaine-hsiao.md|Prof. Elaine Hsiao]] — mentioned in this record
+- [[people/prof-elaine-hsiao|Prof. Elaine Hsiao]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-03-07 — published
 
 ## Subjects
-- [[people/dr-kun-t-liao.md|廖坤塗醫師]] — mentioned in this record
+- [[people/dr-kun-t-liao|廖坤塗醫師]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

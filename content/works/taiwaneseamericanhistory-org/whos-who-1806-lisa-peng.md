@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-07-30 — published
 
 ## Subjects
-- [[people/lisa-peng.md|Lisa Peng]] — mentioned in this record
+- [[people/lisa-peng|Lisa Peng]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

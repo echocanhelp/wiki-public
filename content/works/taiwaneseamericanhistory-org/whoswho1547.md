@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-03-14 — published
 
 ## Subjects
-- [[people/hansom-chen.md|Hansom Chen]] — mentioned in this record
+- [[people/hansom-chen|Hansom Chen]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

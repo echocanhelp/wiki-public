@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2019-01-24 — published
 
 ## Subjects
-- [[organizations/taiwanese-american-professionals-orange-county.md|Taiwanese American Professionals Orange County]] — mentioned in this record
+- [[organizations/taiwanese-american-professionals-orange-county|Taiwanese American Professionals Orange County]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

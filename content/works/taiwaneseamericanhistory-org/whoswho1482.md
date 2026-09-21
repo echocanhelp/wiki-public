@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-01-24 — published
 
 ## Subjects
-- [[people/seng-jaw-soong.md|Seng-Jaw Soong]] — mentioned in this record
+- [[people/seng-jaw-soong|Seng-Jaw Soong]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

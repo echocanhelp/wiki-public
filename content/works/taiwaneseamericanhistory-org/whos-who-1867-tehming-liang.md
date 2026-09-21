@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-08-23 — published
 
 ## Subjects
-- [[people/dr-tehming-liang.md|Dr. Tehming Liang]] — mentioned in this record
+- [[people/dr-tehming-liang|Dr. Tehming Liang]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2014-11-05 — published
 
 ## Subjects
-- [[people/peggy-liao.md|Peggy Liao]] — mentioned in this record
+- [[people/peggy-liao|Peggy Liao]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

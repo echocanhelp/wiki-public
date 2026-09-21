@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2021-03-02 — published
 
 ## Subjects
-- [[people/ted-lieu.md|劉雲平]] — mentioned in this record
+- [[people/ted-lieu|劉雲平]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

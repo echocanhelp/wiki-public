@@ -102,16 +102,16 @@ Posted in 01/2017
 - [[people/yang-huiqiao]]
 - [[people/yang-jia-you]]
 - [[people/yang-ziqing]]
-- [[organizations/taiwanese-american-citizens-league.md|Taiwanese American Citizens League]] — mentioned in this record
-- [[people/ho-rui-hsu.md|許和瑞]] — mentioned in this record
-- [[people/c-b-chien.md|簡錦標]] — mentioned in this record
-- [[people/san-john-huang.md|黃三榮]] — mentioned in this record
-- [[people/jin-sheng-jian.md|簡金生]] — mentioned in this record
-- [[people/y-c-hsu-2.md|許英智]] — mentioned in this record
-- [[people/mao-ching-david-huang.md|黃茂清]] — mentioned in this record
-- [[people/tah-p-d699884bcd.md|鄭德和]] — mentioned in this record
-- [[people/symeon-woo.md|吳西面]] — mentioned in this record
-- [[people/ahhee-hsu.md|許丕龍]] — mentioned in this record
+- [[organizations/taiwanese-american-citizens-league|Taiwanese American Citizens League]] — mentioned in this record
+- [[people/ho-rui-hsu|許和瑞]] — mentioned in this record
+- [[people/c-b-chien|簡錦標]] — mentioned in this record
+- [[people/san-john-huang|黃三榮]] — mentioned in this record
+- [[people/jin-sheng-jian|簡金生]] — mentioned in this record
+- [[people/y-c-hsu-2|許英智]] — mentioned in this record
+- [[people/mao-ching-david-huang|黃茂清]] — mentioned in this record
+- [[people/tah-p-d699884bcd|鄭德和]] — mentioned in this record
+- [[people/symeon-woo|吳西面]] — mentioned in this record
+- [[people/ahhee-hsu|許丕龍]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society|TAHS]]

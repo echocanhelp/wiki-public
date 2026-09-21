@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2018-06-07 — published
 
 ## Subjects
-- [[people/dr-cheng-hung-yeh.md|Dr. Cheng-Hung Yeh]] — mentioned in this record
+- [[people/dr-cheng-hung-yeh|Dr. Cheng-Hung Yeh]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

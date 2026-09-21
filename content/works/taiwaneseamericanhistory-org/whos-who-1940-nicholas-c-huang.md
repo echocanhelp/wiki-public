@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-11-14 — published
 
 ## Subjects
-- [[people/nicholas-c-huang.md|Nicholas C. Huang]] — mentioned in this record
+- [[people/nicholas-c-huang|Nicholas C. Huang]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

@@ -1,0 +1,4 @@
+people/jenntyng-chern.md
+people/yuan-tsong-chen.md
+people/his-ho-chou.md
+organizations/cwru-taiwanese-student-association.md

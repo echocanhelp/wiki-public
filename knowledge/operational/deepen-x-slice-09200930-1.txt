@@ -1,0 +1,4 @@
+organizations/taiwanese-hakka-association-of-the-world.md
+organizations/austin-taiwanese-association.md
+people/c-c-yang.md
+organizations/taiwanese-association-of-syracuse.md

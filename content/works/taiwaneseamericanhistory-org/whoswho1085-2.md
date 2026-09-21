@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-06-18 — published
 
 ## Subjects
-- [[people/paul-lin.md|Paul Lin]] — mentioned in this record
+- [[people/paul-lin|Paul Lin]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

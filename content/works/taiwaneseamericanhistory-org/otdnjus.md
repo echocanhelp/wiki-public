@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2018-05-23 — published
 
 ## Subjects
-- [[organizations/overseas-taiwanese-for-democracy.md|Overseas Taiwanese for Democracy]] — mentioned in this record
+- [[organizations/overseas-taiwanese-for-democracy|Overseas Taiwanese for Democracy]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

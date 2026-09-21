@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2014-11-16 — published
 
 ## Subjects
-- [[people/shiao-uen-ding.md|丁曉雯]] — mentioned in this record
+- [[people/shiao-uen-ding|丁曉雯]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

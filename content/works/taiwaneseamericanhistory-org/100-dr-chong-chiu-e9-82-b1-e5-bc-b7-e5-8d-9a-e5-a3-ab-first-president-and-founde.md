@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2015-12-10 — published
 
 ## Subjects
-- [[people/dr-chung-chiu.md|邱強博士]] — mentioned in this record
+- [[people/dr-chung-chiu|邱強博士]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

@@ -39,6 +39,12 @@ last_reviewed: 2026-09-13
 - **Historical anchors cited on Tier1:** 許凌雲 (秀才, 1862–1944), 凌雲秀才紀念館 / 存養軒書房, 瓦硐 (白沙島), 許凌雲秀才 紀念建築 (2022 澎湖縣), 靖樂 lineage.
 - **No REST.** The watch loop must discover URLs via `seed_urls` + same-site href crawl, not `discover_wp_posts`.
 
+## Related Pages
+
+- [[people/hsu-ling-yun]]
+- [[people/hsu-ching-chun]]
+- [[organizations/hsu-ling-yun-xiucai-memorial-hall]]
+
 ## Sources
 1. [凌雲秀才紀念館](https://penghu.info/OB08DF845E664F47451E)
 2. [許凌雲](https://penghu.info/OB8D7D9C164FCF102ED7)

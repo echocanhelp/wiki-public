@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-03-16 — published
 
 ## Subjects
-- [[people/jen-hsin-lin.md|JEN HSIN LIN]] — mentioned in this record
+- [[people/jen-hsin-lin|JEN HSIN LIN]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

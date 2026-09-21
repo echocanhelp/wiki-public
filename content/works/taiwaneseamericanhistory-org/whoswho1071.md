@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-06-12 — published
 
 ## Subjects
-- [[people/ho-rui-hsu.md|許和瑞]] — mentioned in this record
+- [[people/ho-rui-hsu|許和瑞]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

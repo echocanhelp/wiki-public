@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-06-02 — published
 
 ## Subjects
-- [[organizations/lapc-music-foundation.md|LAPC Music Foundation]] — mentioned in this record
+- [[organizations/lapc-music-foundation|LAPC Music Foundation]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

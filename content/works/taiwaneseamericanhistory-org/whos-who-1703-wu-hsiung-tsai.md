@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-06-29 — published
 
 ## Subjects
-- [[people/dr-wu-hsiung-tsai.md|Dr. Wu Hsiung Tsai]] — mentioned in this record
+- [[people/dr-wu-hsiung-tsai|Dr. Wu Hsiung Tsai]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

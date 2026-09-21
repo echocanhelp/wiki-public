@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2018-10-31 — published
 
 ## Subjects
-- [[people/chi-tien-chang.md|張啟典教授]] — mentioned in this record
+- [[people/chi-tien-chang|張啟典教授]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

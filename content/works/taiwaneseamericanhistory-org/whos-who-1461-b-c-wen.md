@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-01-18 — published
 
 ## Subjects
-- [[people/dr-b-c-wen.md|溫碧謙醫師]] — mentioned in this record
+- [[people/dr-b-c-wen|溫碧謙醫師]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

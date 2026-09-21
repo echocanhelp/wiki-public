@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2018-11-19 — published
 
 ## Subjects
-- [[people/may-sing-chang.md|May-Sing Chang]] — mentioned in this record
+- [[people/may-sing-chang|May-Sing Chang]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

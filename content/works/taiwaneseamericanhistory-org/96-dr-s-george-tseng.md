@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2018-09-16 — published
 
 ## Subjects
-- [[people/george-tseng.md|曾水福博士]] — mentioned in this record
+- [[people/george-tseng|曾水福博士]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

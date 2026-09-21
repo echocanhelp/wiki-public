@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2015-08-22 — published
 
 ## Subjects
-- [[people/janice-wong.md|Janice Wong]] — mentioned in this record
+- [[people/janice-wong|Janice Wong]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

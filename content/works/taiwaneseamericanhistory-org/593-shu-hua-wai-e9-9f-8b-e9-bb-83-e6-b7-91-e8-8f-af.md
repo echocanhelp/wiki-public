@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2015-09-08 — published
 
 ## Subjects
-- [[people/shu-hua-wai.md|韋黃淑華]] — mentioned in this record
+- [[people/shu-hua-wai|韋黃淑華]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

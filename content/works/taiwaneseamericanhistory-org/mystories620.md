@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2018-01-19 — published
 
 ## Subjects
-- [[people/peggy-kuo.md|Peggy Kuo]] — mentioned in this record
+- [[people/peggy-kuo|Peggy Kuo]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-09-11 — published
 
 ## Subjects
-- [[people/amelia-wu.md|Amelia Wu]] — mentioned in this record
+- [[people/amelia-wu|Amelia Wu]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

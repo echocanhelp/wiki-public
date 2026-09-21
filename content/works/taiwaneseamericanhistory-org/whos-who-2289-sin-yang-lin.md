@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2020-10-22 — published
 
 ## Subjects
-- [[people/sin-yang-lin.md|Sin-Yang Lin]] — mentioned in this record
+- [[people/sin-yang-lin|Sin-Yang Lin]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

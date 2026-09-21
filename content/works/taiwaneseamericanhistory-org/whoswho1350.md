@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-10-27 — published
 
 ## Subjects
-- [[people/k-k-chen.md|K. K. Chen]] — mentioned in this record
+- [[people/k-k-chen|K. K. Chen]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

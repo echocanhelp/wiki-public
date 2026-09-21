@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-05-11 — published
 
 ## Subjects
-- [[people/s-y-chang.md|S. Y. Chang]] — mentioned in this record
+- [[people/s-y-chang|S. Y. Chang]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

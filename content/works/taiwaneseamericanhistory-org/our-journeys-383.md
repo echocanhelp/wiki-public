@@ -188,8 +188,8 @@ Posted on 11/28/2022
 - 2022-11-29 — published
 
 ## Subjects
-- [[people/lindayi-fang-yau.md|劉義芳]] — mentioned in this record
-- [[people/kuei-ling-chen.md|陳桂鈴]] — mentioned in this record
+- [[people/lindayi-fang-yau|劉義芳]] — mentioned in this record
+- [[people/kuei-ling-chen|陳桂鈴]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

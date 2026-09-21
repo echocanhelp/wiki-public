@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-05-01 — published
 
 ## Subjects
-- [[people/ju-ying-song.md|Ju-Ying Song]] — mentioned in this record
+- [[people/ju-ying-song|Ju-Ying Song]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

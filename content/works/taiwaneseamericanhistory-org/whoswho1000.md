@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-05-20 — published
 
 ## Subjects
-- [[people/j-c-chen.md|J. C. Chen]] — mentioned in this record
+- [[people/j-c-chen|J. C. Chen]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

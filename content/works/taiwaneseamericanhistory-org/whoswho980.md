@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-05-08 — published
 
 ## Subjects
-- [[people/caleb-tsai.md|Caleb Tsai]] — mentioned in this record
+- [[people/caleb-tsai|Caleb Tsai]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

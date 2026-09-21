@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2014-12-03 — published
 
 ## Subjects
-- [[people/chien-an-chen.md|Chien-An Chen]] — mentioned in this record
+- [[people/chien-an-chen|Chien-An Chen]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

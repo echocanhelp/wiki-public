@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-05-10 — published
 
 ## Subjects
-- [[people/rev-sheng-to-shih.md|Rev. Sheng-To Shih]] — mentioned in this record
+- [[people/rev-sheng-to-shih|Rev. Sheng-To Shih]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

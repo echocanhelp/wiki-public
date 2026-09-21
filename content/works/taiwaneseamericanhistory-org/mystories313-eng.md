@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2015-07-30 — published
 
 ## Subjects
-- [[people/agnes-wu.md|Agnes Wu]] — mentioned in this record
+- [[people/agnes-wu|Agnes Wu]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

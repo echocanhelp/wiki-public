@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2016-11-06 — published
 
 ## Subjects
-- [[people/ying-ming-huang.md|Ying-ming Huang]] — mentioned in this record
+- [[people/ying-ming-huang|Ying-ming Huang]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

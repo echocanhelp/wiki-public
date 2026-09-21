@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2018-10-05 — published
 
 ## Subjects
-- [[people/wudong-huang.md|Rev. Wudong Huang]] — mentioned in this record
+- [[people/wudong-huang|Rev. Wudong Huang]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

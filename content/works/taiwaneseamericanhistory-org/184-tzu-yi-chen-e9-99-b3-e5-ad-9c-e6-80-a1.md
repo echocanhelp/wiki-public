@@ -32,7 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2014-12-31 — published
 
 ## Subjects
-- [[people/tzu-yi-chen.md|Tzu-Yi Chen]] — mentioned in this record
+- [[people/tzu-yi-chen|Tzu-Yi Chen]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

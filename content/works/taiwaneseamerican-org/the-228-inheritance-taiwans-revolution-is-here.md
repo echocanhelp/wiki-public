@@ -108,9 +108,9 @@ Footnotes
 - Featured
 - Perspectives
 - Social/Politics
-- [[people/ma-yingjeou.md|Ma Ying-jeou]] — mentioned in this record
-- [[people/tsai-ing-wen.md|Tsai Ing-wen]] — mentioned in this record
-- [[people/brian-hioe.md|Brian Hioe]] — mentioned in this record
+- [[people/ma-yingjeou|Ma Ying-jeou]] — mentioned in this record
+- [[people/tsai-ing-wen|Tsai Ing-wen]] — mentioned in this record
+- [[people/brian-hioe|Brian Hioe]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

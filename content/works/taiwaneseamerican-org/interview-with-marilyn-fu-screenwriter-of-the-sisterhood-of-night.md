@@ -83,12 +83,12 @@ Hanna Huang is a book nerd with a passion for finding the works of Asian America
 ## Subjects
 - Arts &amp; Culture
 - Interviews
-- [[people/jeremy-lin.md|Jeremy Lin]] — mentioned in this record
-- [[people/jean-j-fang.md|Jean J. Fang]] — mentioned in this record
-- [[people/hanna-huang.md|Hanna Huang]] — mentioned in this record
-- [[people/marilyn-fu.md|Marilyn Fu]] — mentioned in this record
-- [[organizations/north-america-taiwanese-womens-association.md|North America Taiwanese Women’s Association]] — mentioned in this record
-- [[organizations/taiwanese-american-students-association.md|Taiwanese American Students Association]] — mentioned in this record
+- [[people/jeremy-lin|Jeremy Lin]] — mentioned in this record
+- [[people/jean-j-fang|Jean J. Fang]] — mentioned in this record
+- [[people/hanna-huang|Hanna Huang]] — mentioned in this record
+- [[people/marilyn-fu|Marilyn Fu]] — mentioned in this record
+- [[organizations/north-america-taiwanese-womens-association|North America Taiwanese Women’s Association]] — mentioned in this record
+- [[organizations/taiwanese-american-students-association|Taiwanese American Students Association]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]
