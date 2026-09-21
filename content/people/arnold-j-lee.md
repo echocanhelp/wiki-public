@@ -37,7 +37,7 @@ last_reviewed: 2026-09-21
 
 
 ## Role in the Community
-- TAHS TAH Who's Who corpus record: [[works/taiwaneseamericanhistory-org/whoswho1317|1317. Arnold J. Lee 李仁旭 (TAH Who's Who, 2016/10)]]. Corpus scan 2026-09-20: this is the only vault record naming this subject and it is band-B bibliographic (full text stays in the source); no memoir or community-organizing facts in the vault to absorb.
+- TAHS TAH Who's Who corpus record: [[works/taiwaneseamericanhistory-org/whoswho1317|1317. Arnold J. Lee 李仁旭 (TAH Who's Who, 2016/10)]]. Corpus scan 2026-09-21 (deepen-x slice 24): re-verified — only hit is this band-B bibliographic record plus the works index; no memoir or community-organizing facts in the vault to absorb.
 
 ## Sources
 - [TAH #1317 encyclopedia: 1317. Arnold J. Lee 李仁旭 2016/10](https://taiwaneseamericanhistory.org/whoswho1317/)

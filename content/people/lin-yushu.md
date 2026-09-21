@@ -33,6 +33,7 @@ He is one of the eight voting members of the NTPC Executive Committee, represent
 
 - 2026-09-18 deepen-x: no corpus hits in works/articles for 林育武 / Lin Yu-Shu / Yushu Lin beyond the NTPC 2025/26 執委 letter already reflected above — nothing absorbable from memoir/corpus material (SKIP).
 - Re-verified 2026-09-20 (deepen-x slice 29): still zero corpus hits.
+- Re-verified 2026-09-21 (deepen-x slice 24): zero corpus hits in works/articles — SKIP again, nothing absorbable.
 
 ## Related Pages
 

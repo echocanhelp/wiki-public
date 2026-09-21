@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-20
+last_reviewed: 2026-09-21
 ---
 # C. H. Lin (林建宏)
 
@@ -29,6 +29,7 @@ last_reviewed: 2026-09-20
 
 - 本名在本庫的唯一紀錄為自己的 TAH Who's Who 檔案（[[works/taiwaneseamericanhistory-org/whos-who-1935-c-h-lin|1935. C. H. Lin 林建宏]]，2017-11-06，書目紀錄）。
 - **同名消歧：** 本庫已判定司法院釋字第791號通姦罪釋憲案（[[articles/taiwanjustice-net/2025/20250518224919_通姦除罪_通姦罪違憲失效-司法院釋字第791號解釋_24272103f945bf93|釋字第791號解釋]]）中的「聲請人三 林建宏」為巧合同名——該案當事人涉高雄通姦罪訴訟，與这位宜蘭出身、新澤西開北港台菜館的美國餐飲業人士不是同一人，勿合併。
+- 2026-09-21 覆核（deepen-x 09200900-26）：works/、articles/ 全庫再查，僅見自身 TAH 檔案與上列同名消歧紀錄，無新社群事蹟可吸收。
 
 ## Family
 
