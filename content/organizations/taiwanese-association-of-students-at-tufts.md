@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-20
+last_reviewed: 2026-09-21
 ---
 # Taiwanese Association of Students at Tufts
 
@@ -17,6 +17,10 @@ last_reviewed: 2026-09-20
 - **Core roles:** Community organization (TAH directory)
 
 The Taiwanese Association of Students at Tufts (TAST) is a culture-oriented student organization at Tufts University founded in 1996. According to its JumboLife profile, TAST was established to spread the culture, language, and history of Taiwan through fun and creative events open to the Tufts community each semester. The organization is recognized and funded by the Tufts Community Union (TCU) Senate and participates in the Pan Asian Council (PAC), a collaborative body of Asian and Asian American interest and culture clubs on campus.
+
+## Role in the Community
+
+- 2026-09-21 corpus 檢核：corpus 中的 Tufts 記述皆與本社團無關（Will Tiao、Anita Chang 的校友政歷見 [[works/taiwaneseamerican-org/introducing-will-tiao|Will Tiao]]、[[works/taiwaneseamerican-org/a-chat-with-documentary-filmmaker-anita-chang|Anita Chang 訪談]]；其餘為新聞轉述）。SKIP — no TAST-specific corpus material; page rests on the TAH directory entry and JumboLife profile.
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-association-of-students-at-tufts/)
