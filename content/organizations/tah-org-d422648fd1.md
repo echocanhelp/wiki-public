@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-20
+last_reviewed: 2026-09-21
 ---
 # 北美洲臺灣文學研究會
 
@@ -24,6 +24,7 @@ The North American Taiwan Literature Research Association was founded on October
 - 1989 — under the hosting of 張良澤 and 黃娟, the association organized the first-ever "國際台灣文學會議" at the University of Tsukuba, Japan — the association's highest-profile achievement in 林衡哲's account: [[works/taiwaneseamericanhistory-org/ourjourneys70|林衡哲 memoir]].
 - Founding member [[people/fang-ming-chen|陳芳明]] is independently held in the vault; the other directory names (許達然、杜國清、陳若曦、謝里法) have corpus mentions but no person pages yet.
 - 2018-05-11 — the TAH Foundation story corpus holds a dedicated record of the association (slug `natls`): [[works/taiwaneseamericanhistory-org/natls|北美洲臺灣文學研究會 / 2018-05]]. The record is bibliographic (band B); founding narrative above is from the TAH directory entry.
+- Corpus check 2026-09-21: re-grep found one additional bibliographic record (band B, 2015-10-10): [[works/taiwaneseamericanhistory-org/institute-of-taiwan-literature|26. 台灣文學研究會]] — same 2015 activity cluster as the Chicago annual-meeting record above; no new founding-era facts. All other hits already absorbed.
 - Corpus check 2026-09-18: the directory's 14-founding-member list is corroborated only in part (許達然、陳芳明、林衡哲、洪銘水 named as contributors in the 林衡哲 memoir; 杜國清、陳若曦、謝里法 appear in unrelated records). HOLD: directory's exact founding date 1982-10-30 at the LA Hilton has no memoir corroboration beyond "1982年10月" in 林衡哲's account.
 - Press recognition in the community's own newspaper, 2016 retrospective: 台灣公論報's survey 「多彩多姿的社團活動」 (band A) lists "台灣文學研究會" among the literary/cultural associations newly founded that year among overseas Taiwanese, alongside 北美洲台灣人文藝協會、南加州台灣音樂社、華府台灣研究社 — framed as the cultural root-seeking (尋根認同) current of the overseas movement: [[works/taiwaneseamericanhistory-org/ourjourneys206|206. 多彩多姿的社團活動 / 台灣公論報 (2016-03-16)]]. HOLD: the article is a period retrospective whose year of founding is not explicit; not merged with the 1982 founding date.
 - Later activity record: a bibliographic record exists for 台灣文學研究會 holding its annual meeting in Chicago (band B, published 2015-11-21): [[works/taiwaneseamericanhistory-org/taiwan-literature-research-association-annual-meeting-in-chicago|28. 台灣文學研究會芝加哥召開年會]]. HOLD: 林衡哲's memoir says the association lasted eleven years (1982–1993); whether the 2015 meeting is a revival or a successor group is unresolved in the corpus — not merged.

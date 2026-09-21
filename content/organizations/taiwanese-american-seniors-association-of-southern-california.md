@@ -6,7 +6,7 @@ tags:
   - Taiwanese-American
   - Taiwan-Center-group-member
 verification_status: published
-last_reviewed: 2026-09-20
+last_reviewed: 2026-09-21
 ---
 # Taiwanese American Seniors Association of Southern California
 
@@ -29,7 +29,8 @@ The corpus records this organization (as 南加州台灣人長輩會, English va
 - **1988** — The 300-person fundraising dinner for Rep. Norman 戴謀利 Mineta, organized by TACL to press for a separate "Taiwanese" census code, was held at the 長輩會 apartments. Source: [[works/taiwaneseamericanhistory-org/ourjourneys253|Our Journeys #253 — 1990年美國人口普查TACL的角色 / 周實]].
 - **2015** — 35th-anniversary special issue published under president 蔡漢成. Source: [[works/taiwaneseamericanhistory-org/ourjourneys173|Our Journeys #173]].
 - 陳夢蘭 was also a founding consultant of the Southern California Taiwanese FCU. Source: [[works/taiwaneseamericanhistory-org/ourjourneys244|Our Journeys #244 / 周實]]; his Who's Who record: [[works/taiwaneseamericanhistory-org/whoswho1031|TAH #1031 M. L. Chen 陳夢蘭]].
-- The association's own activities record: [[works/taiwaneseamericanhistory-org/2-activities-of-taiwanese-america-seniors-association-of-southern-california|TAH #2 南加州台灣人長輩會各式活動]].
+- The association's own activities record: [[works/taiwaneseamericanhistory-org/2-activities-of-taiwanese-america-seniors-association-of-southern-california|TAH #2 南加州台灣人長輩會各式活動]]; its community-program record includes a 台美式民俗成年禮 ([[works/taiwaneseamericanhistory-org/taiwan-american-folk-rite|TAH 台美式民俗成年禮]]).
+- **2015-11-21** — 臨時會員大會 combined with the 百歲人瑞 卓許招治 celebration ([[works/taiwaneseamericanhistory-org/photo-albums-activities-104|TAH #104, 2015-11-21]]); the 35th-anniversary year also produced its own special issue ([[works/taiwaneseamericanhistory-org/860-e5-8d-97-e5-8a-a0-e5-b7-9e-e5-8f-b0-e7-81-a3-e4-ba-ba-e9-95-b7-e8-bc-a9-e6-9|TAH #860 35週年年會特刊, 2015-03]]).
 
 HOLD: founding 1978 vs 1979 (TAH story #75 dates it 1978; Our Journeys #54 says 1979-05-05) — carried unresolved, same hold as the sibling TASA page.
 
