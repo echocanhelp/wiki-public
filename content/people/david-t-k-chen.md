@@ -35,7 +35,7 @@ last_reviewed: 2026-09-21
 
 ## Role in the Community
 - Who's Who profile record in the TAH story corpus: [[works/taiwaneseamericanhistory-org/280-david-t-k-chen-e9-99-b3-e5-bb-b7-e6-a5-b7-e5-8d-9a-e5-a3-ab-201502|280. David T. K. Chen 陳廷楷 (2015)]].
-- HOLD: the two TaiwaneseAmerican.org film articles ([[works/taiwaneseamerican-org/sisterhood-of-night-catherine-huang|The Sisterhood of Night]], [[works/taiwaneseamerican-org/marilyn-fu|Marilyn Fu interview]]) mention an actor "David Chen" (grandpa role) and auto-link to this page, but give no surname-initial or other evidence identifying him as 陳廷楷 — likely a different person; attribution held, not absorbed.
+- HOLD: the two TaiwaneseAmerican.org film articles ([[works/taiwaneseamerican-org/sisterhood-of-night-catherine-huang|The Sisterhood of Night]], [[works/taiwaneseamerican-org/marilyn-fu|Marilyn Fu interview]]) mention an actor "David Chen" (grandpa role) and auto-link to this page, but give no surname-initial or other evidence identifying him as 陳廷楷 — likely a different person; attribution held, not absorbed. 2026-09-21 re-grep: the only other corpus "David Chen" is [[works/taiwaneseamericanhistory-org/376-david-chen-e9-99-b3-e7-ab-8b-e5-81-89-201504|376. David Chen 陳立偉]], a different person (陳立偉 ≠ 陳廷楷); no new material for this page.
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/david-t-k-chen/)
