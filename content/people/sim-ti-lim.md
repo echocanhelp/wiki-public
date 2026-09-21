@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-20
+last_reviewed: 2026-09-21
 ---
 # Sim Ti Lim (林心智博士)
 
@@ -31,6 +31,7 @@ last_reviewed: 2026-09-20
 _No filled family fields on the TAH profile._
 
 ## Role in the Community
+- **TAH encyclopedia record**: his own bibliographic record in the TAHS story corpus: [[works/taiwaneseamericanhistory-org/whos-sim-ti-lim|587. Sim Ti Lim 林心智 /2015/09]].
 - **Chapter founder in the North American Taiwanese community**: founded the **Athens (Georgia) chapter of the North American Taiwanese Community Association / 全美台灣同鄉會** during president 許和瑞's term, one of 9 new chapters that brought the association to 43 chapters nationwide — corpus: [[works/taiwaneseamericanhistory-org/ourjourneys76|76. 全美台灣同鄉會 / 吳木盛 / 2014-12]].
 - **1984 blacklist-breaking return to Taiwan**: one of 9 members of the 「南加州台灣同鄉會回台訪問團」(with 謝清志, 江昭儀, 蔡明憲, 歐煌坤, 李英男, 張雲彥, 許英智, 蔡淑敏) — the first hometown-association delegation to return to Taiwan after the blacklist era. At the airport the KMT demanded each traveler sign a pledge (no public statements, no anti-government speech, no participation in tang-wai activities); **only 林心智 refused to sign**, holding out while the rest deplaned until the pledge issue was settled — corpus: [[works/taiwaneseamericanhistory-org/ourjourneys66|66. 南加州同鄉會組團回台 — 1984突破黑名單 / 謝清志 / 2014-11]].
 - **Family tie documented in the corpus**: brother of 林弘宣, one of the 美麗島事件八大受刑人 — the corpus notes the KMT deliberately feared his return and had tried to bar him from boarding because of that family tie. HOLD: corpus says brother of 林弘宣; no sibling field on the TAH profile to reconcile.
@@ -38,6 +39,9 @@ _No filled family fields on the TAH profile._
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/sim-ti-lim/)
+- Corpus record: [[works/taiwaneseamericanhistory-org/whos-sim-ti-lim|587. Sim Ti Lim 林心智 /2015/09]]
+
+2026-09-21 corpus sweep: grep (林心智 / Sim Ti Lim) returned only records already linked above; added the wikilink to his own encyclopedia record 587. No new facts.
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

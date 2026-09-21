@@ -6,7 +6,7 @@ tags:
   - Taiwanese-American
   - Taiwan-Center-group-member
 verification_status: published
-last_reviewed: 2026-09-20
+last_reviewed: 2026-09-21
 ---
 # Acevedo Music & Art Education Foundation Inc
 
@@ -30,6 +30,8 @@ The foundation is named for pianist **Yin Yin Huang 黃煐媖** and appears in t
 HOLD: the same concert write-up names the trio's pianist once as 「黃煐煐」 vs. 「黃煐媖」 elsewhere — likely a typo but held, not auto-merged. Note also the unrelated Paraguayan foreign minister 阿塞維多 (Acevedo) appearing in news articles; not the foundation's namesake.
 
 2026-09-20 re-check: corpus re-grep (黃煐媖 / Acevedo Music) returned only the records already cited above (the 2024 concert piece appears twice, as a 2024 and a 2025 repost of the same write-up) — no new absorbable facts.
+
+2026-09-21 re-grep (黃煐媖 / Acevedo): same hit set (the 2024 concert write-up appears twice, as 2024 and 2025 reposts, both cited) — nothing new absorbable.
 
 ## Source Notes
 
