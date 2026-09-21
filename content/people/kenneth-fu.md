@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-20
+last_reviewed: 2026-09-21
 ---
 # Kenneth Fu
 
@@ -37,6 +37,9 @@ _No filled family fields on the TAH profile._
 ## Sources
 - His own TAH Who's Who entry is archived in the corpus at [[works/taiwaneseamericanhistory-org/whoswho1219|1219. Kenneth Fu / 2016/08]].
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/kenneth-fu/)
+
+## Source Notes and Confidence
+- SKIP (deepen-x re-verified 2026-09-21): only corpus hit for Kenneth Fu is his own TAH entry [[works/taiwaneseamericanhistory-org/whoswho1219|1219. Kenneth Fu / 2016/08]] (already cited above) — no community/memoir material to absorb.
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
