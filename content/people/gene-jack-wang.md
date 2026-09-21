@@ -51,4 +51,4 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
-- Re-grep 2026-09-20 (slice 09190400-10): corpus hits = his own TAH #581 record + ourjourneys305 (St. Louis church history, 王俊傑邱綉雅夫婦) — both already absorbed above; no new material, no conflicts.
+- Re-grep 2026-09-21 (slice 09201500-20): corpus hits re-confirmed = his own TAH #581 record + ourjourneys305 only (earlier re-grep slice 09190400-10); both absorbed above; no new material, no conflicts.
