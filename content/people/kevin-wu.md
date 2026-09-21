@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-20
+last_reviewed: 2026-09-21
 ---
 # Kevin Wu (吳凱文)
 
@@ -43,6 +43,7 @@ Accomplishment
 - **2010-10 — 主流能見度 :** Covered by TaiwaneseAmerican.org when he and his father Michael Wu appeared on CBS's Amazing Race.
 - **2010 — Kollaboration SF :** Kevin Wu's orbit appears in the community's own event record at Kollaboration SF alongside John Hi-Fi's Eric Hsu and NBA player Jeremy Lin — [[works/taiwaneseamerican-org/johnny-hi-fis-eric-hsu-and-nba-player-jeremy-lin-at-kollaboration-sf|John Hi-Fi's Eric Hsu and NBA player Jeremy Lin at Kollaboration SF]] (the community's Blacklava-anniversary essay likewise cheers "Go KevJumba!").
 - **2012 — 「other」論述中的台美人 :** Cited alongside Jeremy Lin and Justin Lin in the TaiwaneseAmerican.org Blacklava-20th-anniversary essay as visible Taiwanese Americans who counter the model-minority stereotype.
+- **Later legacy in the community's creative pipeline :** In the community's oral record of the Taipei Music Academy & Festival, filmmaker Jordan Hwang names Wong Fu Productions and KevJumba as the YouTube-era Asian American creators who showed her "I had the ability to go out and create" and pushed her into filmmaking — Kevin Wu as a reference point for the next generation — [[works/taiwaneseamerican-org/between-the-notes-jordan-hwang-brings-the-taipei-music-academy-festival-to-austi|Between the Notes: Jordan Hwang (Taipei Music Academy & Festival)]]
 
 Corpus: [[works/taiwaneseamerican-org/we-b-here-with-kevjumba-he-e2-80-99s-taiwanese|We B HERE with KevJumba! He's Taiwanese! (2009)]] · [[works/taiwaneseamerican-org/kevin-wu-aka-kevjumba-and-dad-on-amazing-race|Kevin Wu (aka KevJumba) and Dad on Amazing Race (2010)]] · [[works/taiwaneseamerican-org/on-two-decades-of-blacklava-and-celebrating-the-other|On Two Decades of Blacklava and Celebrating the "Other" (2012)]] · [[works/taiwaneseamericanhistory-org/whos-who-1775-kevin-wu|1775. Kevin Wu 吳凱文]]
 
