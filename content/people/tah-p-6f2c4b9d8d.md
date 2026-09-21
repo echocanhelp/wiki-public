@@ -58,3 +58,4 @@ Re-grep re-run in deepen-x slice 09160500-24 (2026-09-16): hit set unchanged (#4
 - Re-grep 2026-09-17 (deepen-x slice 09170500-6): hit set unchanged — own #477/#229 records + works index only, already wikilinked. SKIP-no-new-material; page saturated.
 - Re-grep 2026-09-18 (deepen-x slice 09180131-6): hit set unchanged — own #477/#229 records + works index only. Broader 美菁 sweep hits only 「台美菁英協會」(TAP) titles, false positives. SKIP-no-new-material; page saturated.
 - Re-grep 2026-09-20 (slice 09181500-3): hit set unchanged — own records #477/#229 + works index only, already wikilinked. SKIP-no-new-material; page saturated.
+- Re-grep 2026-09-21 (slice 09201300-3): hit set unchanged — own records #477/#229 + works index only, already wikilinked. SKIP-no-new-material; page saturated.

@@ -64,3 +64,4 @@ Re-check 2026-09-17 (slice 09170130-4): hit set again unchanged (#16/#159/#1089 
 Re-check 2026-09-17 (slice 09170500-3): hit set again unchanged (own #16/#159/#1089 records + works index; #520 linked above). SKIP: no new absorbable facts.
 Re-check 2026-09-18 (slice 09180131-2): hit set again unchanged (own #16/#159/#1089 records + works index; #520 linked above). SKIP: no new absorbable facts.
 Re-check 2026-09-20 (slice 09181500-1): hit set again unchanged (own #16/#159/#1089 records + works index; #520 linked above). SKIP: no new absorbable facts.
+Re-check 2026-09-21 (slice 09201300-1): hit set again unchanged (own #16/#159/#1089 records + works index; #520 linked above). SKIP: no new absorbable facts.

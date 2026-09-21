@@ -61,3 +61,4 @@ Read together, the corpus places her career inside the community's own ensembles
 - Corpus re-grep 2026-09-17 (slice 09170130-6): hit set unchanged (#62, #66, #164, #208, #519 + works index) — all already wikilinked above. SKIP — saturated, nothing new absorbable, no conflicts.
 - Corpus re-grep 2026-09-18 (slice 09180131-5): hit set unchanged (#62, #66, #164, #208, #519 + works index) — all already wikilinked above. SKIP — saturated.
 - Corpus re-grep 2026-09-20 (slice 09181500-4): hit set unchanged (#62, #66, #164, #208, #519 + works index) — all already wikilinked above. SKIP — saturated.
+- Corpus re-grep 2026-09-21 (slice 09201300-3): hit set unchanged (#62, #66, #164, #208, #519 + works index) — all already wikilinked above. SKIP — saturated; no third-party memoir mentions, nothing new absorbable, no conflicts.
