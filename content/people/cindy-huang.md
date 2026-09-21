@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-21
 ---
 # Cindy Huang (黃心怡)
 
@@ -28,6 +28,10 @@ last_reviewed: 2026-08-17
 - 美國陸軍 — -2012 — 上尉指揮官(Captain)
 - 聯邦環保署空氣與放射辦公室計畫 — 分析師
 <!-- tah-tables:end -->
+
+## Role in the Community
+
+- Profiled in the TAH Foundation Who's Who encyclopedia record [[works/taiwaneseamericanhistory-org/whoswho1241|1241. Cindy Huang 黃心怡]] (2016-08-14, band B). Corpus holds the bibliographic record only; no memoir/narrative corpus material beyond the TAH profile. Father 黃興貫 has his own profile [[works/taiwaneseamericanhistory-org/whoswho1240|1240. Sam Huang 黃興貫]].
 
 ## Family
 
