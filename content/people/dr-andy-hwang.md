@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-20
+last_reviewed: 2026-09-21
 ---
 <!-- deepen-x slice 09190300-11: SKIP — corpus grep for 黃慶安/Andy Hwang (works+articles) hits only the own TAH Who's Who record (works/taiwaneseamericanhistory-org/whos-who-2286-andy-hwang.md) and index pages; no memoir/community material to absorb. -->
 # Dr. Andy Hwang (黃慶安博士)
@@ -31,6 +31,10 @@ Food Technology Researcher
 ## Employment
 - Univ. of Georgia — Postdoc in Dept. of Food Science & Technology — Eastern Regional Research Center Wyndmoor, PA (美國費城農業部農業研究服務局東部研究中心) — Food Technology Researcher
 <!-- tah-tables:end -->
+
+## Role in the Community
+
+SKIP-with-reason (deepen-x slice 09201503-25, 2026-09-21): fresh grep for 黃慶安 / Andy Hwang over `works/` + `articles/` returns only this person's own TAH Who's Who mirror ([[works/taiwaneseamericanhistory-org/whos-who-2286-andy-hwang|TAH #2286: Dr. Andy Hwang 黃慶安博士]]) and `works/index.md` — no memoir or community-corpus material to absorb. Biography stays at the TAH directory facts above.
 
 ## Family
 
