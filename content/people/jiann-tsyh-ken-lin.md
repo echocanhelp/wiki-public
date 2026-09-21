@@ -44,6 +44,7 @@ President, North American Taiwanese Professors Association, Northern California 
 - HOLD: financial-commentary articles on the 兆豐案 attributed to 「林健次」(民報 2016-11-28) in taiwanjustice.net articles — same-name identity with this USDA research chemist unverified; do not merge biography.
 - TAH encyclopedia profile: [[works/taiwaneseamericanhistory-org/449-jiann-tsyh-ken-lin-e6-9e-97-e5-81-a5-e6-ac-a1201506|449. Jiann-Tsyh (Ken) Lin 林健次 / 2015/06]].
 - Corpus re-check (2026-09-20, deepen-x slice 09190445-1, vault-only): fresh grep hit set = #142 memoir + #449 profile + the taiwanjustice.net 兆豐案 tag/category index pages (the 「林健次」民報 byline, HOLD above) + the 鄭文龍灣區拜訪 roster (925-736-2304, same contact as already noted). Nothing new absorbable; SKIP-with-no-new-facts.
+- Corpus re-check (2026-09-21, deepen-x slice 09201500-4, vault-only): hit set unchanged (#142 memoir, #449 profile, taiwanjustice 兆豐案 byline pages, 灣區拜訪 roster). Verified-saturated; SKIP.
 
 
 ## Sources

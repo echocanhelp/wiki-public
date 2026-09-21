@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-20
+last_reviewed: 2026-09-21
 ---
 # Rev. Thomas H. Chen (陳宏文牧師)
 
@@ -54,5 +54,6 @@ _No filled family fields on the TAH profile._
 
 ## From the corpus (work pages)
 - Own encyclopedia record held as a corpus work page: [[works/taiwaneseamericanhistory-org/whos-who-2133-thomas-h-chen|2133. Rev. Thomas H. Chen 陳宏文牧師]], 2018-06-14.
+- Corpus re-check (2026-09-21, deepen-x slice 09201500-1, vault-only): grep of works + articles for 陳宏文 / Thomas H. Chen returns the same set already absorbed above (#610 retirement album, #407 堅韌的愛, Our Journeys 38/106 灣區協志會 records, #2133 encyclopedia, #307 陳秋貴 disambig) — no new absorbable material; both湾區-person HOLDs stand. Verify-saturated.
 - Retirement commemorative album record: [[works/taiwaneseamericanhistory-org/610-e5-8d-97-e7-81-a3-e5-8f-b0-e7-81-ba-e7-9d-a3-e9-95-b7-e8-80-81-e6-9|TAH #610 設教二十周年暨陳宏文牧師榮退感恩禮拜紀念]], 2009-06 — matches the 1989–2009 南灣長老教會 tenure in the employment table.
 - Disambiguation: corpus record [[works/taiwaneseamericanhistory-org/307-thomas-chen-e9-99-b3-e7-a7-8b-e8-b2-b4201502|TAH #307 Thomas Chen 陳秋貴]] is a different Thomas Chen (陳秋貴); not merged.
