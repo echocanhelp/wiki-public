@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-20
+last_reviewed: 2026-09-21
 ---
 # Mark Jong (鍾茂萃)
 
@@ -50,3 +50,5 @@ last_reviewed: 2026-09-20
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+> Corpus re-scan 2026-09-21 (deepen-x slice 09200700-25): re-scanned works/ and articles/ for 鍾茂萃 / Mark Jong — hits are our-journeys-351, ourjourneys296, and the #740 encyclopedia page, all already linked above with facts absorbed. SKIP-deepen; nothing new absorbable.

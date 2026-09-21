@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-20
+last_reviewed: 2026-09-21
 ---
 # Taiwanese Association of America – South Jersey Chapter (南澤西台灣同鄉會)
 
@@ -30,3 +30,5 @@ The Taiwanese Association of America – South Jersey Chapter (南澤西台灣�
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+Corpus re-check 2026-09-21 (deepen-x slice 09200700-24): fresh grep for 南澤西 / South Jersey — hits are the chapter's own records (South Jersey Chapter / TAA, Our Journeys 356 EN/ZH) already absorbed above; no additional memoir material. SKIP-deepen.

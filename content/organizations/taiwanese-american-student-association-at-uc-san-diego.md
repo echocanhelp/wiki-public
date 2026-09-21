@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-20
+last_reviewed: 2026-09-21
 ---
 # Taiwanese American Student Association at UC San Diego
 
@@ -27,3 +27,5 @@ No corpus record documents this chapter's own founding or activities (none absor
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+Corpus re-check 2026-09-21 (deepen-x slice 09200700-24): fresh grep for TASA / UCSD / UC San Diego — corpus TASA hits are the Taiwanese-America Seniors Association of Southern California and ITASA (different organizations, not this chapter); the UCSD institutional anchors already cited are the only campus material. Nothing new absorbable. SKIP-deepen.

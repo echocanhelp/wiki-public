@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-20
+last_reviewed: 2026-09-21
 ---
 # Dr. Jane H. Hsiao (許照惠博士)
 
@@ -46,3 +46,5 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+> Corpus re-scan 2026-09-21 (deepen-x slice 09200700-25): re-scanned works/ and articles/ for 許照惠 / Jane H. Hsiao — hits are #85, #1465, ff346, mystories600, and #684, all already linked above with facts absorbed. Duplicate-person HOLD against [[people/jane-h-hsiao]] stands. SKIP-deepen; nothing new absorbable.
