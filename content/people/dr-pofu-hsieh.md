@@ -41,6 +41,8 @@ _No filled family fields on the TAH profile._
 
 HOLD: he is documented as a dentist (NYU D.D.S., NYU dental faculty) serving as president of the Taiwanese *Medical* Association — the corpus does not explain the dental/medical distinction; recorded as-is, no reinterpretation.
 
+SKIP-with-reason (re-verified 2026-09-21): a fresh corpus grep returns only the 2021 WHO forum record and TAH #1904 entry already absorbed above plus the works index — no additional memoir or community text, so no new facts added.
+
 ## Sources
 - [TAH #1904 encyclopedia: 1904.  Dr. Pofu Hsieh 謝博夫醫師](https://taiwaneseamericanhistory.org/whos-who-1904-pofu-hsieh/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-pofu-hsieh/)

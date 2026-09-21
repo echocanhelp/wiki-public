@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-18
+last_reviewed: 2026-09-21
 ---
 # Taiwanese American Student Association at UC Santa Barbara
 
@@ -25,8 +25,9 @@ UCSB has been a recurring host site for Taiwanese American community activity, o
 - The 2012 Taiwanese American Conference – West Coast (TAC-WC) was held at UC Santa Barbara, organized by Ken Huang (黃根深) and Darice Lee (洪珠美) after no other host came forward — see [[works/taiwaneseamericanhistory-org/ourjourneys352|Our Journeys 352 (TAC-WC history)]].
 - A night market event at UC Santa Barbara was covered by TaiwaneseAmerican.org on 2012-05-04 — see [[works/taiwaneseamerican-org/night-market-event-at-uc-santa-barbara|Night Market Event at UC Santa Barbara]].
 - The university hosts the Chuan Lyu Endowed Chair in Taiwan Studies (川流台灣研究傑出基金) — see [[works/taiwaneseamericanhistory-org/chuan-lyu-endowed-chair-in-taiwan-studies-uc-santa-barbara|Chuan Lyu Endowed Chair record]].
+- 2014-05-08 — a "UCSB Taiwanese Student Assoc." is credited as a co-sponsor (with the Center for Taiwan Studies, Dept. of East Asian Languages and Cultural Studies, and TECO-LA) of the "Tongues of Heaven: Indigenous Articulations from Taiwan to Hawai'i" screening and talk at UCSB's Social Science & Media Studies building — the corpus's direct organizing credit for the student association, recorded in the promotional listing inside [[works/taiwaneseamerican-org/a-chat-with-documentary-filmmaker-anita-chang|A Chat with Documentary Filmmaker Anita Chang (2014-05-07)]].
 
-HOLD: the corpus records document Taiwanese American activity at UCSB but do not state that TASA itself organized these events; no direct organizational link asserted.
+HOLD: apart from the 2014 sponsorship credit (which names the group as "UCSB Taiwanese Student Assoc.", a variant of the page's TASA name — treated as the same body, variant wording noted), the corpus records document Taiwanese American activity at UCSB but do not state that TASA itself organized those events; no further direct organizational link asserted.
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-american-student-association-at-uc-santa-barbara/)

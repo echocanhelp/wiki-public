@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-20
+last_reviewed: 2026-09-21
 ---
 # Chi-Yuan Chen (陳麒元)
 
@@ -41,7 +41,7 @@ _No filled family fields on the TAH profile._
 ## Role in the Community
 
 - violist active in the San Diego Taiwanese American community (San Diego Symphony 中提琴 since 2005; see Employment).
-- 2017-03 — two profiles in the TAH story corpus: the musician entry and the Who's Who encyclopedia entry ([[works/taiwaneseamericanhistory-org/musician390|390. Chi-Yuan Chen 陳麒元, Viola / 2017-03]] · [[works/taiwaneseamericanhistory-org/whoswho-1571|1571. Chi-Yuan Chen 陳麒元 / 2017-03]]). No movement/memoir material in the corpus beyond these press-kit records. Corpus re-check 2026-09-20: the only other 麒元 hit is the unrelated 財經作家盧麒元 quoted in a taiwanjustice.net op-ed ([[articles/taiwanjustice-net/2024/20240725002127_root_d6e6a1924b94ccbb|2024 op-ed]]) — different person, nothing absorbable.
+- 2017-03 — two profiles in the TAH story corpus: the musician entry and the Who's Who encyclopedia entry ([[works/taiwaneseamericanhistory-org/musician390|390. Chi-Yuan Chen 陳麒元, Viola / 2017-03]] · [[works/taiwaneseamericanhistory-org/whoswho-1571|1571. Chi-Yuan Chen 陳麒元 / 2017-03]]). No movement/memoir material in the corpus beyond these press-kit records. Corpus re-check 2026-09-21: the only other 麒元 hit is the unrelated 財經作家盧麒元 quoted in a taiwanjustice.net op-ed ([[articles/taiwanjustice-net/2024/20240725002127_root_d6e6a1924b94ccbb|2024 op-ed]]) — different person, nothing absorbable.
 
 ## Sources
 - [TAH #390 encyclopedia: 390. Chi-Yuan Chen陳麒元, Viola / 2017/03](https://taiwaneseamericanhistory.org/musician390/)
