@@ -45,3 +45,4 @@ last_reviewed: 2026-09-21
 
 <!-- DEEPEN-X SKIP 2026-09-18: corpus grep (朱靜懷 / Robert G. Chu over content/works + content/articles) returned only this person's own TAH Who's Who record [[works/taiwaneseamericanhistory-org/whos-who-2144-robert-g-chu|TAH #2144]] (band B, bibliographic only) and its index entry. No memoir/community records mention him; nothing absorbable beyond the existing TAH press-kit record. No bio invented. -->
 <!-- DEEPEN-X RECHECK 2026-09-20: corpus grep re-run (朱靜懷 / Robert G. Chu, works+articles) — hit set identical to 09-18 pass: own TAH #2144 record + index entry only. SKIP stands. -->
+<!-- DEEPEN-X RECHECK 2026-09-21: corpus grep re-run (朱靜懷 / Robert G. Chu / 朱明威 / 蔡珠美, works+articles) — hit set unchanged: own TAH #2144 record only. SKIP stands. -->
