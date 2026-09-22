@@ -32,7 +32,7 @@ last_reviewed: 2026-09-22
 
 
 ## Role in the Community
-- Served as president (會長) of FAPA (台灣人公共事務會) — named in the sequence of nine FAPA presidents recalled by long-time FAPA staffer Ku Bun-lau (昆布勞) in 楊遠薰's memoir [[works/taiwaneseamericanhistory-org/ourjourneys228|228. 美國對台六項保證決議案的推手 — 昆布勞與FAPA的故事]].
+- Served as president (會長) of FAPA (台灣人公共事務會) — named third in the sequence of nine FAPA presidents recalled by long-time FAPA staffer Ku Bun-lau (昆布勞), after 王桂榮 and 陳榮儒, in 楊遠薰's memoir [[works/taiwaneseamericanhistory-org/ourjourneys228|228. 美國對台六項保證決議案的推手 — 昆布勞與FAPA的故事]]; 昆布勞 notes every president sacrificed weekends and holidays travelling between DC HQ and chapters.
 - 2023-03: served as 總召集人 of the New York Chinese-community "海外信賴後援會" supporting 賴清德 for president, founded at the New York Taiwanese House (紐約台灣會館); his speech argued Taiwan's strategic value to the US and the free world — per taiwanjustice.net report [挺賴清德選總統-紐約僑界成立海外後援會](https://taiwanjustice.net).
 - Related org pages: [[organizations/fapa-los-angeles|FAPA Los Angeles]], [[organizations/fapa-orange-county|FAPA Orange County]].
 
