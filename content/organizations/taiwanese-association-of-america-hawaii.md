@@ -27,6 +27,10 @@ The Taiwanese Association of America Hawaii (夏威夷台灣同鄉會) is the Ha
 
 ## Timeline
 - 1990–1997 — published 《台僑》 for 28 issues ([[works/taiwaneseamericanhistory-org/582-e5-8f-b0-e5-83-91-e5-85-b128-e6-9c-9f-e5-a4-8f-e5-a8-81-e5-a4-b7-e5-8f-b0-e7|582. 台僑 共28期 / 夏威夷台灣同鄉會 / 1990-1997]])
+- 2015-07-21 — documented hosting the Taiwanese American Community Scholarship Awards in Hawaii ([[works/taiwaneseamericanhistory-org/6-taiwanese-american-community-scholarship-awards-taahawaii|6. 台美人社區獎學金 / TAA-Hawaii]])
+- 2015-07-28 — chapter seniors' group 長青會 recorded in the TAH story corpus ([[works/taiwaneseamericanhistory-org/taa-hawaii-senior|16. 夏威夷台灣同鄉會長青會]])
+- 2016-11-15 — chapter newsletter Formosan Quarterly 《台僑》 preserved as a record in the TAH story corpus ([[works/taiwaneseamericanhistory-org/formosan-quarterly-by-taahawaii-chapter|Formosan Quarterly 台僑 by TAA Hawaii Chapter]])
+- Re-verified 2026-09-22 (slice 09220600-8): fresh grep of works/+articles returns only the five records already wikilinked above — timeline dates absorbed from those records; no other community-authored material.
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-association-of-america-hawaii/)
