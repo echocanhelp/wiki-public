@@ -32,6 +32,8 @@ last_reviewed: 2026-09-22
 
 - Corpus material is limited to his own TAH Who's Who encyclopedia entry: [[works/taiwaneseamericanhistory-org/whos-who-1748-chin-lung-hu|1748. Chin-Lung Hu 胡金龍]]（2017-07-07）. Listed alongside fellow Taiwanese ballplayers 林哲瑄（#1747）、胡智為（#1746）in the same batch, reflecting TAH's 2017 sports-figure cohort rather than movement organizing (corpus re-swept 2026-09-21; no further mentions).
 
+- 2026-09-22 覆核（deepen-x 09210900-8）：works/、articles/ 全庫再查，僅見自身 TAH 檔案與 index，無新社群事蹟可吸收。
+
 ## Family
 
 _No filled family fields on the TAH profile._

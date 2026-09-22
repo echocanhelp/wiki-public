@@ -30,6 +30,8 @@ last_reviewed: 2026-09-22
 - Together with her husband [[people/sing-nan-wang||王幸男]] she supported the promotion of Taiwanese culture abroad: the two collected monkey lanterns (猴子燈籠) and other folk exhibit pieces from Taiwan for Taiwanese culture exhibitions in Minnesota (per mystories407, as cross-recorded on 王幸男's page).
 - TAH record lists her occupation as 電腦操作員 (computer operator); no further occupational detail in the corpus.
 
+- 2026-09-22 覆核（deepen-x 09210900-8）：taiwanjustice-net 文章中的「Mr Wang」為王金平（Wang Jin-pyng），字串誤配非本頁人物，勿合併；無新社群事蹟。
+
 ## Family
 
 - **Wife:** [[people/sing-nan-wang||王幸男]]
