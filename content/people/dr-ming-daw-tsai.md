@@ -53,6 +53,7 @@ _No filled family fields on the TAH profile._
 
 ## Corpus re-grep (2026-09-21, slice 09201400-26)
 - SKIP: 再grep僅見本身TAH出處頁 whos-who-1839 及 works index，無回憶錄語料可吸收；維持饱和結論。
+- SKIP 2026-09-22 (slice 09211400-19): re-grep (蔡明道 / Ming-Daw Tsai) hit set again identical — own source record + works index only; nothing absorbable.
 
 ## Corpus re-grep (2026-09-16, re-verified 2026-09-17 slice-20、slice-17、2026-09-18 slice-26、2026-09-20 slice-11)
 - SKIP: 再grep僅見本身TAH出處頁 whos-who-1839 及 works index，無回憶錄語料可吸收；維持2026-09-14複核結論。
