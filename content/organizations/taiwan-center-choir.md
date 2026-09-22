@@ -28,6 +28,8 @@ The choir (also listed as **大洛杉磯台灣會館合唱團 / Taiwan Center Ch
 - 台灣歌曲音樂劇-人生歌路, Arcadia, CA, 2017-04-08: [[works/taiwaneseamericanhistory-org/concerts95|concerts #95]]
 - 花想四季, 2019: [[works/taiwaneseamericanhistory-org/musical-concerts-151|musical concerts #151]]
 
+- 2026-09-22 corpus re-check: grep for 台灣會館合唱團 / Taiwan Center Choir / Taiwan Center Chorus returns only the concert records already linked above (concerts #72–#74, #95, musical concerts #151) and the New York record #4. No new corpus facts.
+
 Note: the New York group 紐約台灣會館合唱團 ([[works/taiwaneseamericanhistory-org/4-e7-b4-90-e7-b4-84-e5-8f-b0-e7-81-a3-e6-9c-83-e9-a4-a8-e5-90-88-e5-94-b1-e5-9c-|record #4, 2014/10]]) is a distinct New York choir; HOLD: not merged with the Los Angeles choir.
 
 ## Source Notes

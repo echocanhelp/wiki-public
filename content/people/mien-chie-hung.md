@@ -42,6 +42,7 @@ _No filled family fields on the TAH profile._
 - **Disambiguation:** [[works/taiwaneseamericanhistory-org/313-mien-chien-e7-b0-a1-e5-8b-89201502|313. Mien Chien 簡勉 / 2015/02]] is a *different* person (簡勉); corpus substring match only, not merged.
 - **Re-verified 2026-09-21** (deepen-x slice 24): corpus hits are limited to his own TAH records (own encyclopedia entry, winners41 award record) already linked above — nothing new absorbable.
 - **Re-verified 2026-09-22** (deepen-x slice 32): fresh grep of works/ + articles/ returns only the same three files (own TAH entry, winners41 award record, works/index) — all already linked; SKIP-no-new-facts.
+- **Re-verified 2026-09-22** (deepen-x slice 09220600-26): fresh grep re-confirms the same hit set plus the 313 substring match, which remains a different person (簡勉, verified via its own title line) — verified saturated, SKIP-no-new-facts.
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/mien-chie-hung/)

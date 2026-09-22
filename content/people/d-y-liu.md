@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # D. Y. Liu (劉德勇)
 
@@ -35,6 +35,7 @@ last_reviewed: 2026-09-21
 - He also supported the community's historical record: per [[works/taiwaneseamericanhistory-org/ourjourneys270|270. 早期留學北美的台灣女士–戰後初期 (朱真一)]], 柯大闢博士、劉德勇博士及劉克全先生 donated reference works to the project — 《蕭安居牧師-生平及其家譜》《春風化雨》《永遠的劉瑞山》.
 - Linked in the church memoir alongside 陳建南 and 凌光雄 as part of the early D.C. Taiwanese church network.
 - Corpus re-grep 2026-09-21 (slice 09210317-27): hits unchanged (ourjourneys217, ourjourneys270, own record whoswho1854, index); no new community material beyond the facts above.
+- Corpus re-grep 2026-09-22 (slice 09220600-26): fresh grep of works/ + articles/ returns the same four files — verified saturated, SKIP-no-new-facts.
 
 ## Family
 
