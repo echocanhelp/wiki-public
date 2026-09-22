@@ -1,0 +1,4 @@
+people/ting-kuei-tsay.md
+people/kevin-wu.md
+organizations/taiwanese-american-pen-club.md
+organizations/asian-senior-concerns-foundation.md

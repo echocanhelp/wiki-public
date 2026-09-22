@@ -1,0 +1,4 @@
+organizations/greater-los-angeles-hotel-motel-association.md
+organizations/taiwanese-american-professionals-san-diego.md
+people/anna-chang.md
+people/li-fa-xie.md

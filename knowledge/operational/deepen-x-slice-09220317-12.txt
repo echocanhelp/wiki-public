@@ -1,0 +1,4 @@
+organizations/north-shore-club.md
+organizations/taiwanese-american-religious-study-association.md
+organizations/taiwanese-american-lawyers-association-tala.md
+organizations/taiwanese-student-association-at-uc-irvine.md
