@@ -42,6 +42,7 @@ last_reviewed: 2026-09-22
 - Corpus re-check (slice deepen-x-slice-09181500-11, 2026-09-20): re-grep 林郁子 / Vivian — 命中集不變（Our Journeys 60/60-eng/160/352、Who's Who #2298），全部已吸收；兩項 HOLD（傅 vs 林 姓氏、NATWA 會長頭銜）維持。SKIP-no-new-material.
 - Corpus re-check (slice deepen-x-slice-09201400-4, 2026-09-21): re-grep identical hit set (Our Journeys 60/60-eng/160/352, Who's Who #2298) — all already absorbed; both HOLDs stand. SKIP-no-new-material.
 - Corpus re-check (slice deepen-x-slice-09211300-4, 2026-09-22): re-grep 林郁子 / 傅郁子 / Vivian — hit set unchanged (Our Journeys 60/60-eng/160/352, Who's Who #2298, TJJ 長青教室存檔); 傅郁子 variant confirmed only in ourjourneys352; all absorbed; both HOLDs (傅 vs 林 姓氏、NATWA 會長頭銜) stand. SKIP-no-new-material.
+- Corpus re-check (slice deepen-x-slice-09220800-2, 2026-09-22): fresh grep 林郁子 across works+articles returns exactly the three absorbed files (Our Journeys 60, 160, Who's Who #2298); the broader Vivian/傅 grep returns only same-surname/unrelated matches (傅康平-family pages, generic Vivian indexes). Nothing new absorbable; both HOLDs stand. SKIP-no-new-material.
 
 ## Family
 

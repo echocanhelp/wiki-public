@@ -33,6 +33,8 @@ The presence continued after the TAC/EC 2015–2017 records above: 楊遠薰's T
 
 Re-check (slice deepen-x-slice-09211300-11, 2026-09-22): re-grep Sogetsu / 草月 / 林美惠 / Meei-huey — remaining hits are the records already linked above plus [[works/taiwaneseamericanhistory-org/ourjourneys298|Our Journeys #298]], whose 草月 mention is HTISC Houston's ikebana curriculum (副院長 LaVerl Daily 執教; 池坊/草月/小原流 teachers 陳由美、張淑貞) — a different region and unrelated teachers, not this Bucks/Montgomery group. No further absorbable material.
 
+Re-check (slice deepen-x-slice-09220800-2, 2026-09-22): fresh grep Sogetsu / 草月 / buxmont across works+articles returns the same hit set (the group's own record, #159/#260, #298 HTISC false-positive, index) — all already absorbed or excluded above. Nothing new absorbable. SKIP-no-new-material.
+
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/sogetsu-buxmont-study-group/)
 
