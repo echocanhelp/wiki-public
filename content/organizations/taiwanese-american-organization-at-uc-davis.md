@@ -32,6 +32,7 @@ SKIP-with-reason: corpus scan found only incidental UC Davis mentions predating 
   - [[works/taiwaneseamerican-org/taos-got-talent-performance-at-uc-davis|TAO's Got Talent Performance at UC Davis]] (2014-05-06; duplicate record [[works/taiwaneseamerican-org/taos-got-talent-performance-at-uc-davis-2|here]] — duplicate listing in source, no conflict to HOLD).
 
 > Corpus re-scan 2026-09-21 (deepen-x slice 09200700-23): re-scanned works/ and articles/ — remaining "taiwanese-american-organization" hits are generic TAH bibliography records (TA O t-shirt listings, TAAMN, 2015 community news roundup, newsletter summary table), none about this Davis club. SKIP-deepen; nothing new absorbable.
+> Corpus re-scan 2026-09-22 (deepen-x slice 09220400-3): fresh grep — only new candidate hits (video-asian-choral-festival, concerts26, ourjourneys247, photo-albums-activities 19/96) contain no Davis/TAO context; hit set saturated. SKIP-deepen.
 
 ## Related Pages
 - [[organizations/taiwanese-student-association-at-uc-davis|Taiwanese Student Association at UC Davis]]

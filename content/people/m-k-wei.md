@@ -38,7 +38,7 @@ last_reviewed: 2026-09-22
 
 - Corpus check re-run 2026-09-21: hit set = own records 293 / 293-eng / videos40 / whoswho1065 only, all already absorbed above — nothing new absorbable.
 - HOLD: conflict — co-author of record 293 is 鄭憲章; TAH profile lists her husband as 鄭信傳 (also the 夫婦專訪 subject). The memoir text carries both names (speech by 鄭信傳醫師、魏妙圭夫婦; photo credit 鄭憲章提供 10/2017), so the two-name discrepancy is inside the primary record itself. Never merged; identity relation unverified.
-- Corpus re-check 2026-09-22 (deepen-x slice 09210800-18): fresh grep of works/ + articles/ — hit set unchanged (own records 293 / 293-eng / videos40 / whoswho1065); memoir-text facts above newly absorbed from 293.
+- Corpus re-check 2026-09-22 (deepen-x slices 09210800-18, 09220400-3): fresh grep of works/ + articles/ — hit set unchanged (own records 293 / 293-eng / videos40 / whoswho1065); memoir-text facts above newly absorbed from 293. SKIP-deepen; saturated.
 
 ## Sources
 - [TAH #1066 encyclopedia: 1066. M. K. Wei 魏妙圭 / 2016/06](https://taiwaneseamericanhistory.org/whoswho1065/)
