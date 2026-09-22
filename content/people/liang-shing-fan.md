@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # Liang-Shing Fan (范良信)
 
@@ -42,7 +42,7 @@ last_reviewed: 2026-09-21
 - 1966-06-18 — 以堪薩斯代表身分應邀參加費城「台灣獨立聯盟UFI」與「台灣問題硏究會FASG」結盟會談（辜寬敏居間協調），決議 1966-07-04 成立「全美台灣獨立聯盟」UFAI（見 [[works/taiwaneseamericanhistory-org/ourjourneys81|周烒明起稿：早期威大台灣學生在台灣建國運動所扮演的角色]]）。
 - UFAI 首屆幹部：執行委員會委員（兼組織，與賴文雄、王秋森、邱坤勝同任），並任中央委員會委員（委員長周烒明）。
 - 1991-06 — 應明州台美人同鄉會邀講《經濟與統獨》（見 [[works/taiwaneseamericanhistory-org/ourjourneys123|曾啟明：明州台美人百年大事]]）。
-- Corpus re-scan 2026-09-21 (deepen-x slice 09200700-27): corpus hits (ourjourneys234 / ourjourneys81 / ourjourneys123 / whos657) all already absorbed above — UFAI 執委兼組織與中委名單、1966-06-18 費城會談代表名單、1991 明州演講均與頁面一致，nothing new absorbable.
+- Corpus re-scan 2026-09-21 (deepen-x slice 09200700-27) and 2026-09-22 (slice 09210700-32): corpus hits (ourjourneys234 / ourjourneys81 / ourjourneys123 / whos657) all already absorbed above — UFAI 執委兼組織與中委名單、1966-06-18 費城會談代表名單、1991 明州演講均與頁面一致，nothing new absorbable.
 
 ## Sources
 - [TAH #657 encyclopedia: 657. Liang-Shing Fan 范良信/ 2015/10](https://taiwaneseamericanhistory.org/whos657-liang-shing-fan/)
