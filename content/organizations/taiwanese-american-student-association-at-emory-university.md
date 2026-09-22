@@ -22,8 +22,10 @@ The Taiwanese American Student Association at Emory University (Emory TASA) is a
 
 - 2010-04-22 — 演員Will Tiao（吊）在Emory大學演講，亞特蘭大台美社群記錄在案：[[works/taiwaneseamerican-org/will-tiao-speaking-at-emory-university-422|Will Tiao Speaking at Emory University 4/22]]。HOLD: 該記錄未指名主辦單位是否為Emory TASA，僅為同校同期活動。
 - 2011-04-08 — Emory大學與喬治亞理工（GA Tech）TASA合辦年度夜市（Annual Night Market）：[[works/taiwaneseamerican-org/emory-university-ga-tech-tasa-annual-night-market|Emory University & GA Tech TASA Annual Night Market]]。
+- 2010-11-20 — Emory 與 GATech 共同主辦「Taste of Taiwan 2010」：[[works/taiwaneseamerican-org/taste-of-taiwan-2010-hosted-by-emory-gatech|Taste of Taiwan 2010, hosted by Emory & GATech]]。HOLD: 紀錄僅寫「hosted by Emory & GATech」，未指名是否由兩校 TASA 承辦。
 
 ## Corpus note
+- 2026-09-21 re-grep (slice 09210317-24): 新增一条 Emory/GATech 合辦活動紀錄（Taste of Taiwan 2010）已收入上方；其餘命中（index、TaiwanJustice 新聞）無 TASA 事實。
 - 2026-09-19 re-grep: corpus hits remain the two work pages already linked in Role in the Community; unrelated TaiwanJustice news mentions of Emory carry no TASA facts. No new material.
 - 2026-09-21 re-grep (slice 09191100-19): no new Emory-TASA hits in works/articles beyond the two work pages already linked. No new material.
 

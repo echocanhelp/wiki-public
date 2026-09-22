@@ -24,6 +24,10 @@ TUSO itself is not named in our memoir corpus, but it stands on a documented UW�
 - Early (1960s–70s) UW Taiwanese students played a leading role in the Taiwanese independence movement, including the "UW Taiwanese independence movement" — [[works/taiwaneseamericanhistory-org/ourjourneys81-eng|Early Years of the UW Taiwanese Independence Movement / Suy-Ming Sam Chou]].
 - The UW-M 台灣布袋戲團 (founded 1997 out of the UW-M 台灣同學會, with professor 陳清風's scripts and puppets) performed 虎姑婆 at Milwaukee's Moon Festival and annually at the Celebrate Madison International Festival from 2003 — [[works/taiwaneseamericanhistory-org/ourjourneys277|威斯康辛大學「台灣布袋戲團」的故事 / 朱靜女]].
 
+## Corpus review（slice 09210317-17）
+
+- 2026-09-22 語料複核：grep（TUSO／Taiwanese Undergraduate Student Organization，works+articles）零命中，無回憶錄或文章提及本組織。SKIP-with-reason：無可吸收新事實；既有 UW–Madison 學生運動系譜（TAA 創會分支、UW 獨立運動、台灣布袋戲團）維持原載。
+
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-undergraduate-student-organization/)
 

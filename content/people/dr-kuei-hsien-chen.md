@@ -39,6 +39,8 @@ last_reviewed: 2026-09-22
 - Community record: [[works/taiwaneseamericanhistory-org/whos-who-1827-kuei-hsien-chen|TAH Who's Who #1827, published 2017-08-09]] — corpus copy of the profile behind this page.
 - Corpus grep (re-run 2026-09-19 and 2026-09-20, slice 09191100-12): no memoir or article coverage beyond the Who's Who record and the adjacent #1828 record for his wife 林麗瓊; Academia Sinica 原子與分子科學研究所 / 臺大凝態科學研究中心 roles stand as recorded in the TAH table.
 
+- 2026-09-22（slice 09210317-17）再grep（陳貴賢／Kuei-Hsien Chen）：命中仍僅 [[works/taiwaneseamericanhistory-org/whos-who-1827-kuei-hsien-chen|TAH #1827]] 與 works/index.md；夫人林麗瓊 #1828 紀錄為唯一相鄰語料。SKIP-content：無可吸收新事實。
+
 ## Sources
 - [TAH #1827 encyclopedia: 1827. Dr. Kuei-Hsien Chen 陳貴賢博士](https://taiwaneseamericanhistory.org/whos-who-1827-kuei-hsien-chen/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-kuei-hsien-chen/)
