@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # Dr. Jen-Tai Tsai (蔡仁泰博士)
 
@@ -51,4 +51,4 @@ Accomplishment
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
-複核（deepen-x 2026-09-21）：corpus re-grep（蔡仁泰 / Jen-Tai Tsai，works+articles）命中集合與前次相同，全數已吸收並 wikilink，無新增社群材料。
+複核（deepen-x 2026-09-22）：corpus re-grep（蔡仁泰 / Jen-Tai Tsai，works+articles）命中集合與前次相同（ourjourneys59/65/65-eng、senior-taiwanese-american-29、184、whos-who-2033、harvest index），全數已吸收並 wikilink，無新增社群材料。
