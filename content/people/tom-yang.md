@@ -50,6 +50,7 @@ Primary material from fellow founders' memoirs in the TAHS corpus positions Yang
 - Subject of 李正三's essay on the "費城四傑" who first sounded the call for Taiwanese independence in North America ([[works/taiwaneseamericanhistory-org/10-e5-90-b9-e9-9f-bf-e5-8c-97-e7-be-8e-e5-8f-b0-e7-8d-a8-e8-99-9f-e8-a7-92-e7-9a|10. 吹響北美台獨號角的「費城四傑」/李正三]]).
 - From 盧主義's memoir: eldest son of 楊雲龍, an ophthalmologist in 台南; 台南一中 graduate; returned to Taiwan from 東京慈惠 in January 1947, just before the 228 incident; sailed for the US in 1953 and entered the University of Pennsylvania Graduate School of Medicine in 1954 to study radiology; shared a house near Penn with 林榮勳 and 陳以德, and worked as a church and textile-factory caretaker to cover living costs. Also mentioned in 張炎憲's family memoir ([[works/taiwaneseamericanhistory-org/ourjourneys33|33. 一家人做伙來打拼/張炎憲]]).
 - Profiled in TAH Who's Who #913 (2016/05) ([[works/taiwaneseamericanhistory-org/whoswho913|913. Tom Yang 楊東傑]]).
+- Corpus re-pass 2026-09-21 (deepen-x slice 09210400-3): fresh grep returns the same 3F/UFI memoir cluster already documented above; 盧主義's founding account is now also held in English ([[works/taiwaneseamericanhistory-org/ourjourneys85-eng|85 (EN). The 3F founding account / Tsu-Yi Jay Loo]]) — same account, no new facts, no conflicts.
 
 ## Sources
 - [TAH #913 encyclopedia: 913. Tom Yang  楊東傑/ 2016/05](https://taiwaneseamericanhistory.org/whoswho913/)
