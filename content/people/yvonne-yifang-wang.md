@@ -58,6 +58,7 @@ _No filled family fields on the TAH profile._
 
 ## From the record
 
+- 複核（TJJ-A09220500-4, 2026-09-22）：音樂短講第13集稿 subject link（特別講座「泛音」）經原文正文再驗證為真實對應，引用条目已在库（无错链、无虚链）— SKIP，无新材料。
 - 2020-12-13 — 與黃令先老師在楊子清老師音樂短講第13集「美聲唱法的技巧 (7) – 快速音 Agilita」提供特別講座「泛音」（[[articles/taiwanjustice-net/2021/20210128084700_2020_12_13_楊子清老師音樂短講第13集_美聲唱法的技巧-7-快速_426d2811d4065134|TJJ, 2020-12-13]]；同稿 2025-03-27 存檔重刊 [[articles/taiwanjustice-net/2025/20250327205857_楊子清老師音樂短講第13集_美聲唱法的技巧-7-快速_4119cffe264101c6|2025 存檔]]；詳見上方 Role in the Community）。
 
 ## Sources
