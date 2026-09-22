@@ -45,3 +45,4 @@ last_reviewed: 2026-09-22
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+<!-- deepen-x 09220700-24: verified-saturated. Corpus re-scan (works/ + articles/) fresh 2026-09-22: hits limited to whos-who-1846 and ourjourneys270, both already wikilinked above; no new community material. -->
