@@ -25,7 +25,7 @@ The Taiwanese American Students Association at Johns Hopkins University (jhuTASA
 - 2011-11 — jhuTASA 與 IAC（International Academy of Cultural... 社團合辦）共同主辦「Taste of Taiwan」活動，為社團名稱首次以主辦身分出現在 TA.org 檔案（見 [[works/taiwaneseamerican-org/jhutasa-and-iac-present-taste-of-taiwan|jhuTASA and IAC Present: Taste of Taiwan]]），將組織可考活動史由2013年夜市提前至2011年。
 - 2013-04-20 — TA.org 再記錄 JHU 台灣夜市（見 [[works/taiwaneseamerican-org/night-market-at-johns-hopkins-university-in-md|Night Market at JHU in MD]]）。
 - 2019 — 官方吉祥物 Tubs（台灣黑熊）創立。
-- 2022-06-07 — TaiwaneseAmerican.org「New Creatives」專欄記載 Alyssa Lee 曾任 JHU TASA 會長（president），時任內轉任該專欄主持人，就讀 Molecular and Cellular Biology 與 Art History（見 [[works/taiwaneseamerican-org/new-creatives-eric-lin-music|New Creatives: Eric Lin]]，专栏按语）；此為社團負責人層級的首見第一手記錄。
+- 2022-06-07 — TaiwaneseAmerican.org「New Creatives」專欄記載 Alyssa Lee 曾任 JHU TASA 會長（president），時任內轉任該專欄主持人，就讀 Molecular and Cellular Biology 與 Art History（見 [[works/taiwaneseamerican-org/new-creatives-eric-lin-music|New Creatives: Eric Lin]]，专栏按语）；此為社團負責人層級的首見第一手記錄。同日系「New Creatives」專欄之 Rosalie Chiang 專訪（2022-07-17 刊出）按語重複記載「Alyssa Lee served as Johns Hopkins TASA president」，為同一负责人记录的第二处独立 corroborating 刊载（见 [[works/taiwaneseamerican-org/rosalie-chiang-turning-red-interview|Rosalie Chiang 專訪]]）。
 - 2023-07-31 — 台裔第二代學生 Taliyah Huang（JHU 生物醫學工程二年級，加州出生）以台語翻譯工具 BobaWay 登上 TaiwaneseAmerican.org 專訪，反映同期 JHU 台裔學生圈的文化連結活動（見 [[works/taiwaneseamerican-org/taliyah-huang-interview-bobaway|Taliyah Huang 專訪]]）；专访未註明其與 TASA 之關係，僅作社區背景。
 
 ## Sources
