@@ -1,3 +1,17 @@
+=== SITE DESIGN HEAL — 2026-09-22 dry=0 audit_only=1 ===
+flags: heal=True featured=True publish=True
+SITE_DESIGN_STATUS: ACTION
+SITE_DESIGN_SUMMARY: critical=0 high=2 medium=1 md=15082 heals=publish
+HIGH: [A3] MD without HTML: 18 (recent≤7d: 18)
+HIGH: [B3] new/changed MD missing HTML (≤7d)
+SITE_DESIGN_BRIEF: /home/leedt/echo-system/echopedia/site-design-brief.md
+SITE_DESIGN_HEAL: audit-only status=ACTION
+=== SITE DESIGN AUDIT ===
+SITE_DESIGN_STATUS: ACTION
+SITE_DESIGN_SUMMARY: critical=0 high=2 medium=1 md=15082 heals=publish
+HIGH: [A3] MD without HTML: 18 (recent≤7d: 18)
+HIGH: [B3] new/changed MD missing HTML (≤7d)
+SITE_DESIGN_BRIEF: /home/leedt/echo-system/echopedia/site-design-brief.md
 ## Site design audit — 2026-09-22 00:30
 
 - pages_md=15082

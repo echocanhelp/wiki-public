@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # Dr. Cheng-Hung Yeh (葉澄鴻博士)
 
@@ -30,7 +30,7 @@ last_reviewed: 2026-09-21
 
 ## Role in the Community
 
-_Corpus check 2026-09-21: the only text hit in the works/articles corpus is this page's own TAH bibliographic record [[works/taiwaneseamericanhistory-org/whos-who-2124-cheng-hung-yeh|TAH #2124 (2018-06)]]; no memoir or movement material mentions 葉澄鴻, so no community facts are absorbable. SKIP-with-reason recorded._
+_Corpus checks 2026-09-21 and 2026-09-22 (slice 09210500-27): the only text hits in the works/articles corpus are this page's own TAH bibliographic record [[works/taiwaneseamericanhistory-org/whos-who-2124-cheng-hung-yeh|TAH #2124 (2018-06)]] and its `works/index` listing; no memoir or movement material mentions 葉澄鴻, so no community facts are absorbable. SKIP-with-reason recorded._
 
 ## Family
 
