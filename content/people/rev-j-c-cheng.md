@@ -41,6 +41,8 @@ last_reviewed: 2026-09-22
 - Chaired the church's second 建堂委員會 (first chaired by 林逸民) — the campaign that acquired a 5-acre Presbytery lot in 波溫市, broke ground 1990-09-16, and dedicated the '台'-shaped church (per 張理美's design) at 542 Res Road, St. Louis, MO on 1991-08-17; within three years the church paid back its original land value to the Presbytery's new-church fund (same memoir).
 - His own encyclopedia record: [[works/taiwaneseamericanhistory-org/whos-who-2105-j-c-cheng|2105. Rev. J. C. Cheng 鄭紀昭牧師]] (published 2018-04-26).
 
+- Corpus re-check 2026-09-22: fresh grep returns only his own directory record [[works/taiwaneseamericanhistory-org/whos-who-2105-j-c-cheng|2105. Rev. J. C. Cheng 鄭紀昭牧師]], 張理美's church memoir [[works/taiwaneseamericanhistory-org/ourjourneys305|305. 美國聖路易台灣人長老基督教會的歷史簡略]] (already fully absorbed above), and the works index. Nothing new absorbable this pass.
+
 ## Sources
 - [TAH #2105 encyclopedia: 2105. Rev. J. C. Cheng 鄭紀昭牧師](https://taiwaneseamericanhistory.org/whos-who-2105-j-c-cheng/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/rev-j-c-cheng/)
