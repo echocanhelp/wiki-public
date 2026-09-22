@@ -39,6 +39,7 @@ last_reviewed: 2026-09-22
 - HOLD: corpus mentions matching "Cheng Lee" in the memoirs [[works/taiwaneseamericanhistory-org/ourjourneys74-eng|Our Journeys 74]] and [[works/taiwaneseamericanhistory-org/ourjourneys304-eng|Our Journeys 304]] refer to Dr. Ju-Cheng Lee (New York; NATMA chapter president, Taitower Inc. shareholder) — a different person; not merged.
 - Re-verified 2026-09-20: fresh corpus grep (李鄭美昭/美昭/Cheng-Lee) returned only band-B bibliographic record 937 plus further Ju-Cheng Lee (李汝城/李汝成) hits in mystories594 and ourjourneys202 — disambiguation HOLD confirmed, no absorbable memoir text for this person.
 - Re-verified 2026-09-22: fresh grep (李鄭美昭/M. C. Cheng Lee/Cheng Lee) again returned only record 937 plus Ju-Cheng Lee (李汝城) hits in NATMA/Taitower memoir passages — HOLD confirmed, nothing new absorbable.
+- Corpus re-grep 2026-09-22 (deepen-x slice-12): same hit set (whoswho937 bibliographic record + [[works/taiwaneseamericanhistory-org/whos-who-1916-ju-cheng-lee|1916. Ju-Cheng Lee]] — the distinct New York person); disambiguation HOLD stands, no absorbable memoir text.
 
 ## Sources
 - [TAH #937 encyclopedia: 937. M. C. Cheng Lee 李鄭美昭 / 2016/04](https://taiwaneseamericanhistory.org/whoswho937/)
