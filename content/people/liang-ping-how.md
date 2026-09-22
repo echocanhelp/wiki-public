@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # Liang-Ping How
 
@@ -35,7 +35,7 @@ _No filled family fields on the TAH profile._
 
 ## Role in the Community
 
-Corpus reviews 2026-09-19 and 2026-09-21 (deepen-x 09191200-6): fresh grep again returned only the same two records; the vault holds two TAH records naming him — [[works/taiwaneseamericanhistory-org/musician428|TAH #428, 428. Liang-Ping How, violinist / 04/2018]] and [[works/taiwaneseamericanhistory-org/whos-who-2103-liang-ping-how|TAH #2103, 2103. Liang-Ping How]] (both 2018-04-26; bibliographic records only, full text stays in the vault). These corroborate the TAH Who's Who profile above (Orpheus Chamber Orchestra soloist/chamber musician since 1980; Curtis Institute of Music; Santa Fe Opera Orchestra second principal violinist) as a community-recognized Taiwanese American musician. No memoir or organizational record in content/works or content/articles adds further facts — none invented. Re-grep 2026-09-21 (deepen-x slice 09210317-28): identical result, same two bibliographic records only — SKIP this pass.
+Corpus reviews 2026-09-19 and 2026-09-21 (deepen-x 09191200-6): fresh grep again returned only the same two records; the vault holds two TAH records naming him — [[works/taiwaneseamericanhistory-org/musician428|TAH #428, 428. Liang-Ping How, violinist / 04/2018]] and [[works/taiwaneseamericanhistory-org/whos-who-2103-liang-ping-how|TAH #2103, 2103. Liang-Ping How]] (both 2018-04-26; bibliographic records only, full text stays in the vault). These corroborate the TAH Who's Who profile above (Orpheus Chamber Orchestra soloist/chamber musician since 1980; Curtis Institute of Music; Santa Fe Opera Orchestra second principal violinist) as a community-recognized Taiwanese American musician. No memoir or organizational record in content/works or content/articles adds further facts — none invented. Re-grep 2026-09-21 (deepen-x slice 09210317-28) and 2026-09-22 (deepen-x slice 09220700-31): identical result, same two bibliographic records only — SKIP this pass.
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/liang-ping-how/)

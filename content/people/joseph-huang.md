@@ -41,6 +41,7 @@ _No filled family fields on the TAH profile._
 ## Role in the Community
 - Sole corpus presence is his own TAH Who's Who encyclopedia record, submitted via FAPA-Illinois and published 2017-02-05: [[works/taiwaneseamericanhistory-org/whoswho1493|1493. Joseph Huang 黃春輝 / 2017/02]] (bibliographic record only). The FAPA-IL provenance implies Taiwanese-community public-affairs ties — see [[organizations/fapa-los-angeles|FAPA]] chapters for the org layer, though no Illinois chapter page exists yet; no further activity is documented in memoirs, so nothing more is absorbed here.
 - Community-adjacent roles per the record: architect (CTAI), senior BIM manager at MWH/Stantec, senior digital-design architect at SOM, designer at SERA Architects; 台北實踐大學 B.A. 空間設計, Oregon M.S. and Illinois Institute of Technology Ph.D. (Architecture).
+- Re-grep 2026-09-22 (deepen-x slice 09220700-31): fresh ZH+EN grep of content/works and content/articles returned only his own bibliographic record (plus the works index) — SKIP this pass; no new corpus facts, none invented.
 
 ## Sources
 - [TAH #1493 encyclopedia: 1493. Joseph Huang 黃春輝 / 2017/02](https://taiwaneseamericanhistory.org/whoswho1493/)
