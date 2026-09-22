@@ -51,7 +51,7 @@ _No filled family fields on the TAH profile._
   Houston TCC founding-committee note in
   [[works/taiwaneseamericanhistory-org/ourjourneys233-eng|Our Journeys 233]] naming David/Susan Tsay —
   no given-name match, so no facts absorbed (not treated as the same person). No conflicts to hold.
-- 複核（deepen-x slice-09201400-15, 2026-09-21）：re-grep Jeffrey J. Tsay / Jeffrey Tsay（works + articles）hit set identical — 僅本人書目記錄 #1763、harvest index 與已引用的 TJJ 2019 聯署記錄（「From the record」）；其餘 Tsay 命中皆為他人。SKIP, verified-saturated.
+- 複核（deepen-x slice-09211400-6, 2026-09-22）：re-grep Jeffrey J. Tsay（works + articles）hit set identical — 僅本人書目記錄 #1763、works/index、已引用的 TJJ 2019 聯署記錄；其餘 Tsay 命中皆為他人。SKIP, verified-saturated.
 
 ## From the record
 
