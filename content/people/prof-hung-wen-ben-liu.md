@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # Prof. Hung-Wen Ben Liu (劉鴻文教授)
 
@@ -50,3 +50,5 @@ _No filled family fields on the TAH profile._
 > SKIP-note (deepen-x slice 09190700-5, 2026-09-20): corpus re-grep hit set identical to records already linked above; no new absorbable corpus facts.
 
 > SKIP-note (deepen-x slice 09201500-15, 2026-09-21): corpus re-grep hit set identical to records already linked above; no new absorbable corpus facts.
+
+> SKIP-note (deepen-x slice 09211400-31, 2026-09-22): corpus re-grep hit set identical to records already linked above (own TAH #1784 record + index); no new absorbable corpus facts.

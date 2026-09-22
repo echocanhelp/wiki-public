@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # Dr. Doug Chen-Hua Yu (余振華博士)
 
@@ -17,7 +17,7 @@ last_reviewed: 2026-09-21
 - **Era:** 1955
 - **Geography:** Keelung, Taiwan
 - **Core roles:** engineer, scientist
-- **Source:** TAH Foundation Who’s Who
+- **Source:** TAH Foundation Who's Who
 
 Dr. Doug (Chen-Hua) Yu 余振華博士 – History of Taiwanese American (T.A. Archives) 台美史料中心
 
@@ -41,10 +41,10 @@ _No filled family fields on the TAH profile._
 
 ## Sources
 - [TAH #1923 encyclopedia: 1923. Dr. Doug (Chen-Hua) Yu 余振華博士](https://taiwaneseamericanhistory.org/whos-who-1923-chen-hua-yu/)
-- [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-doug-chen-hua-yu/)
+- [TAH Who's Who](https://taiwaneseamericanhistory.org/person/dr-doug-chen-hua-yu/)
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
-> Saturate-note (deepen-x slice 09201500-14, 2026-09-21): corpus re-grep hit set = whos-who-1923 + mystories597 + 台積研發六騎士 article, all linked above; no new absorbable corpus facts.
+> Saturate-note (deepen-x slice 09211400-30, 2026-09-22): idempotent re-verify — corpus re-grep (ZH 余振華 + EN Chen-Hua Yu) hit set unchanged (whos-who-1923 + mystories597 + 台積研發六騎士 article, all already linked above); no new absorbable corpus facts.

@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # Taiwanese American Association Milwaukee (密爾瓦基台灣同鄉會)
 
@@ -31,3 +31,5 @@ The Taiwanese American Association Milwaukee (TAAM, 密爾瓦基台灣同鄉會)
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+> SKIP-note (deepen-x slice 09211400-31, 2026-09-22): corpus re-grep ZH+EN — hits are the chapter's own bibliographic record and the already-disambiguated TAAMN (Minnesota) records plus the works index; no Milwaukee chapter activity, nothing new absorbable. Verified saturated.

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # Dr. Stephen Chen (陳貞華博士)
 
@@ -47,3 +47,5 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+> SKIP-note (deepen-x slice 09211400-31, 2026-09-22): corpus re-grep hit set identical to the absorbed/HOLD set (own TAH #1690, ourjourneys260 speaker mention, 陳欽明醫師 same-name works); no new community facts this pass. Verified saturated.

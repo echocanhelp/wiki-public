@@ -50,6 +50,8 @@ Further corpus records:
 - [[works/taiwaneseamericanhistory-org/taf-summer-conference|7. Taiwanese American Foundation Summer Camp]] (2015-07-16) — family/youth summer camp; filed in that record under the style 台美協進會 / [[organizations/taiwan-american-foundation|Taiwan American Foundation]]
 - [[works/taiwaneseamericanhistory-org/miss-taiwanese-american-foundation|2. Miss Taiwanese American Foundation 台美小姐選拔基金會]] — pageant foundation bearing the name
 
+Corpus re-check (2026-09-22, deepen-x slice 09211400-1, vault-only): grep of works + articles for 台美基金會 / Taiwan(ese)-American Foundation returns the identical hit set already absorbed above (taf-summer-conference, ourjourneys162-eng, ourjourneys30, 785 頒獎特刊, miss-taiwanese-american-foundation, ourjourneys29-eng); no new absorbable material; both HOLDs below stand. Verify-saturated.
+
 HOLD: whether the LA Taiwan Center group member 台美基金會 is the same national body as the 台美基金會 behind the 1986–1999 publications, or a separate/related entity — not merged. HOLD: naming drift 台美基金會 vs 台美協進會 vs 台美小姐選拔基金會 across these records — treated as distinct style/entity threads, not merged.
 
 ## Source Notes
