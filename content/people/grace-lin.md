@@ -41,10 +41,6 @@ last_reviewed: 2026-09-21
 - 2014-10-20 — TAH「我的故事」專欄代筆／記錄〈想念大哥_吳西面〉（[[works/taiwaneseamericanhistory-org/mystories132|TAH mystories132]]，掛名 吳西面／吳瑞惠），為追念台美人先辈 [[people/symeon-woo|吳西面]] 的社區悼文（HOLD: 掛名「吳西面 / 吳瑞惠」未辨作者與記錄者之分，僅註記）。
 - Corpus re-grep 2026-09-21 (slice 09210051-2)：hit set = 本人 #613 檔、concerts81、上列 mystories132 / #284 兩筆新作（本次已收入）、works index、TJJ MANIFEST；無其他回憶錄敘事。
 
-## From the record
-
-- 2019-10-31 — 吳瑞惠撰寫王秉訓教授「糖尿病與你」演講記錄（2019-10-30 記錄），刊於台灣公義網（[[articles/taiwanjustice-net/2024/20240522045150_root_26f763595b5ce4fb|TJJ, 2019-10-31]]）。
-
 ## Sources
 - 本人 TAH profile 存檔：[[works/taiwaneseamericanhistory-org/613-grace-lin-e5-90-b3-e7-91-9e-e6-83-a0-201509|TAH #613（Grace Lin 吳瑞惠 / 2015/09）]]
 - [TAH #613 encyclopedia: 613. Grace Lin 吳瑞惠 / 2015/09](https://taiwaneseamericanhistory.org/613-grace-lin-%e5%90%b3%e7%91%9e%e6%83%a0-201509/)
