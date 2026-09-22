@@ -24,6 +24,7 @@ last_reviewed: 2026-09-22
 - **Content priority A:** Name on Taiwan Center group-members page  
 - **Hub:** [[sources/taiwancenter-org||taiwancenter.org]]  
 - **Content priority C:** Independent history not expanded from listing alone  
+- Corpus grep (2026-09-22): the 228平反運動 appears in our news corpus (e.g. 鄭南榕基金會「自由紋理」巡展 coverage of his role in the 228平反運動; President Lai's 2025 reception of the overseas 228 bereaved-family delegation noting decades of overseas 228 redress work) but no passage names this Southern California association specifically — history not expanded from listing alone.
 
 ## Related Pages
 

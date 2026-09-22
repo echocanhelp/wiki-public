@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-22
 ---
 # Samuel Kao (高榮彬)
 
@@ -37,6 +37,10 @@ _No filled family fields on the TAH profile._
 - [TAH #2076 encyclopedia: 2076. Samuel Kao 高榮彬 / 03/2018](https://taiwaneseamericanhistory.org/whoswho2076/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/samuel-kao/)
 
+## Role in the Community
+- _record link: TAH encyclopedia entry 2076 (published 2018-03-25) is held in the corpus as community historical record; no memoir/article text beyond it._
+
 ## Related Pages
+- [[works/taiwaneseamericanhistory-org/whoswho2076|2076. Samuel Kao 高榮彬 / 03/2018]]
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

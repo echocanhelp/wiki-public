@@ -35,6 +35,7 @@ last_reviewed: 2026-09-22
 
 ## Role in the Community
 - Her TAH Who's Who profile is preserved in our story corpus as community historical record (entry 2224, published 2019-11-06): [[works/taiwaneseamericanhistory-org/whos-who-2224-jennifer-rorie-cheng|2224. Jennifer Rorie Cheng]]. No further community/corpus material found beyond the bibliographic record.
+- Her husband's adjacent TAH Who's Who entry exists in the corpus (entry 2223, same publication date): [[works/taiwaneseamericanhistory-org/whos-who-2223-hsinlin-cheng|2223. Dr. Hsinlin Cheng 鄭新霖醫師]].
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/jennifer-rorie-cheng/)
