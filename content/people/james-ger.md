@@ -44,7 +44,7 @@ Ger and his wife 吳瑩瑛 (Janice Ger) contributed memoir writing to the TA.org
 
 The corpus holds these as band-B community records (full text stays in the vault); no third-party memoir mentions of Ger were found beyond his own bylines this pass.
 
-Re-verified 2026-09-21: fresh corpus grep returns only these own-bylines works plus the index — still no third-party memoir mentions.
+Re-verified 2026-09-22 (also 2026-09-21): fresh corpus grep returns only these own-bylines works plus the index — still no third-party memoir mentions.
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/james-ger/)

@@ -36,7 +36,7 @@ last_reviewed: 2026-09-21
 - His own TAH encyclopedia record (1237, 2016/08) is held at [[works/taiwaneseamericanhistory-org/whoswho1237|1237. Paul B. Hshieh 謝博六]].
 - A 2018 community profile feature about him — 659. 圓轉如意，穩紮故土—謝博六博士 (李宜軒、蔡佑晨, 11/2018) — is recorded at [[works/taiwaneseamericanhistory-org/50948|659. 圓轉如意，穩紮故土—謝博六博士]].
 
-- Re-verified 2026-09-21: fresh corpus grep returns only the three works already cited above (ourjourneys-138 roster, whoswho1237, 50948) — no new third-party memoir material this pass.
+- Re-verified 2026-09-21 and 2026-09-22: fresh corpus grep returns only the three works already cited above (ourjourneys-138 roster, whoswho1237, 50948) — no new third-party memoir material this pass.
 
 ## Family
 

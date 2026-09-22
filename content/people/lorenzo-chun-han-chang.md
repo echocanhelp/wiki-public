@@ -37,7 +37,7 @@ _No filled family fields on the TAH profile._
 
 ## Role in the Community
 - Documented in the History of Taiwanese American (T.A. Archives) 台美史料中心 encyclopedia twice on the same day (2015-03-08), as a baritone/vocal artist: [[works/taiwaneseamericanhistory-org/324-lorenzo-chun-han-chang-e5-bc-b5-e6-b7-b3-e8-8f-a1|324. Lorenzo Chun-Han Chang 張淳菡 / 2015-03]] and [[works/taiwaneseamericanhistory-org/12161|167. Lorenzo Chun-Han Chang 張淳菡, Baritone / 2015-03]] (parallel encyclopedia series; same person, no conflict).
-- Other corpus "Lorenzo" matches (Mozart/Salieri essay's Lorenzo Da Ponte, 2025 吳立勝行賄案 coverage's Francis Lorenzo, Italian minister Lorenzo Guerini) are different people — not absorbed. Re-verified 2026-09-21: fresh grep returns no new mentions of 張淳菡 beyond his two TAH records.
+- Other corpus "Lorenzo" matches (Mozart/Salieri essay's Lorenzo Da Ponte, 2025 吳立勝行賄案 coverage's Francis Lorenzo, Italian minister Lorenzo Guerini) are different people — not absorbed. Re-verified 2026-09-21 and 2026-09-22: fresh grep returns no new mentions of 張淳菡 beyond his two TAH records.
 
 ## Sources
 - [TAH #324 encyclopedia: 324. Lorenzo Chun-Han Chang  張淳菡 /2015/03](https://taiwaneseamericanhistory.org/324-lorenzo-chun-han-chang-%e5%bc%b5%e6%b7%b3%e8%8f%a1/)
