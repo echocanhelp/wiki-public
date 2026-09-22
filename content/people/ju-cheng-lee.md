@@ -40,7 +40,7 @@ last_reviewed: 2026-09-21
 - Profiled in the TAH Who's Who encyclopedia record [[works/taiwaneseamericanhistory-org/whos-who-1916-ju-cheng-lee|1916. Ju Cheng Lee 李汝成]] (published 2017-10-18), which also links him to [[people/m-c-cheng-lee|M. C. Cheng Lee]].
 - HOLD: era "1921-2017" (tah-tables snapshot) vs memoir published 2017-10 — dates not auto-merged pending full-text verification.
 
-- Corpus re-grep 2026-09-19 / 2026-09-21: hits unchanged ([[works/taiwaneseamericanhistory-org/mystories594|李汝成先生生平略歷]] + own TAH record #1916 + index); facts above already absorbed, no new community material.
+- Corpus re-grep 2026-09-19 / 2026-09-21 (incl. slice 09210317-27): hits unchanged ([[works/taiwaneseamericanhistory-org/mystories594|李汝成先生生平略歷]] + own TAH record #1916 + index); facts above already absorbed, no new community material.
 ## Sources
 - [TAH #1916 encyclopedia: 1916. Ju Cheng Lee 李汝成](https://taiwaneseamericanhistory.org/whos-who-1916-ju-cheng-lee/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/ju-cheng-lee/)
