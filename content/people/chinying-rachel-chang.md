@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # Chinying Rachel Chang (張金鶯)
 
@@ -53,3 +53,6 @@ SKIP (re-confirmed) — fresh grep returns only her own bibliographic record [[w
 
 ## Corpus check (deepen-x 09201503-9, 2026-09-21)
 SKIP (re-confirmed) — fresh grep returns only her own bibliographic record [[works/taiwaneseamericanhistory-org/129-chinying-rachel-chang-e5-bc-b5-e9-87-91-e9-b6-af|TAH #129]] plus the works index; no memoir or community-record mentions — nothing absorbable.
+
+## Corpus check (deepen-x 09211507-1, 2026-09-22)
+SKIP (re-confirmed) — fresh grep (ZH 張金鶯 + EN Chinying/Rachel Chang) returns only her own bibliographic record [[works/taiwaneseamericanhistory-org/129-chinying-rachel-chang-e5-bc-b5-e9-87-91-e9-b6-af|TAH #129]] plus the works index; no memoir or community-record mentions — nothing absorbable.

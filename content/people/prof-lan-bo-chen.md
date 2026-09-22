@@ -40,6 +40,8 @@ _No filled family fields on the TAH profile._
 - Community record also notes him as a key figure in the 蔡英文宇昌案 controversy (per the same memoir; press-account detail, pending independent verification).
 - Biographical record held at [[works/taiwaneseamericanhistory-org/whos-who-1994-lan-bo-chen|1994. Prof. Lan-Bo Chen 陳良博教授]].
 
+- Corpus records are bibliographic (band B): beyond the memoir detail above, the works index carries only his own Who's Who record. Re-grep 2026-09-22 (slice 09211507-5): no new corpus material — verified saturated.
+
 ## Sources
 - [TAH #1994 encyclopedia: 1994. Prof. Lan-Bo Chen 陳良博教授](https://taiwaneseamericanhistory.org/whos-who-1994-lan-bo-chen/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-lan-bo-chen/)

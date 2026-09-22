@@ -42,6 +42,7 @@ _No filled family fields on the TAH profile._
 - Entered the community record via the TAH Foundation Who's Who profile, held in our corpus as [[works/taiwaneseamericanhistory-org/whos-who-1913-wei-shen-lin|1913. Dr. Wei-Shen W. Lin 林威伸醫師]] (published 2017-10-08, value band B).
 - Community service on record: President of the Taiwanese Medical Association of Greater Philadelphia, 2017.
 - Re-verified 2026-09-21 (deepen-x slice 09201503-22): re-grep for 林威伸/Wei-Shen across content/works + content/articles — hit set unchanged (own TAH record + index row only); no memoir material, verified-saturated.
+- Re-verified 2026-09-22 (deepen-x slice 09211507-2): re-grep 林威伸/Wei-Shen W. Lin — hit set unchanged (own record whos-who-1913 + works index only). SKIP-for-deepening: nothing community-side absorbable.
 
 ## Sources
 - [TAH #1913 encyclopedia: 1913. Dr. Wei-Shen W. Lin 林威伸醫師](https://taiwaneseamericanhistory.org/whos-who-1913-wei-shen-lin/)
