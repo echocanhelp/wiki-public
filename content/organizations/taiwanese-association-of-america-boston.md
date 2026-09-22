@@ -25,6 +25,8 @@ The Taiwanese Association of America Boston (波士頓台灣同鄉會) is the Bo
 - 二二八紀念推動：2021年「北美洲海外台灣人二二八紀念活動」線上系列（約1000多人次參與）共同主辦方之一，閉幕式由會長蔡幸君與全美台灣同鄉會會長陳桂鈴共同總結（[[articles/taiwanjustice-net/2025/20250430013325_全美台灣同鄉會2021-年二二八紀念系列活動圓滿落幕_f6213c1937fa956d|台灣正義網 2025/04/30]]）。
 - 二二八75周年（2025）「二二八人權影展」總策畫單位（[[articles/taiwanjustice-net/2026/20260211100532_北美洲海外台灣人二二八_-75周年紀念活動_00e7e48e27b24291|台灣正義網活動紀錄]]）。
 
+_Corpus re-grep 2026-09-22 (slice 09211500-32): hit set unchanged (Our Journeys #338、2015年會、2019會訊、2021二二八系列、2025二二八75周年影展) — all hits already absorbed in the entries above; verified saturated._
+
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-association-of-america-boston/)
 

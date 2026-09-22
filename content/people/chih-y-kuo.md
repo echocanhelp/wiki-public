@@ -57,3 +57,6 @@ SKIP (re-confirmed) — fresh grep of works/ + articles/ returns only his own bi
 
 ## Corpus check (deepen-x 09201503-9, 2026-09-21)
 SKIP (re-confirmed) — fresh grep returns only his own bibliographic record [[works/taiwaneseamericanhistory-org/whoswho1532|TAH #1532 Chih Y Kuo /2017-02]] plus the works index; no memoir or community-record mentions — nothing absorbable.
+
+## Corpus check (deepen-x 09211500-32, 2026-09-22)
+SKIP (re-confirmed) — fresh grep returns only his own bibliographic record [[works/taiwaneseamericanhistory-org/whoswho1532|TAH #1532]] plus the works index; no memoir or community-record mentions — nothing absorbable.

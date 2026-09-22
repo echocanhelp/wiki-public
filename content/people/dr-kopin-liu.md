@@ -41,6 +41,9 @@ _Corpus scans 2026-09-17, 2026-09-19, and 2026-09-20 (slice 09190400-17): the on
 ## Corpus check (deepen-x 09201503-9, 2026-09-21)
 SKIP (re-confirmed) — fresh grep of works/ + articles/ returns only his own TAH record [[works/taiwaneseamericanhistory-org/whos-who-2130-kopin-liu|TAH #2130 Dr. Kopin Liu 劉國平博士]] plus the works index; no memoir or community-record mentions — nothing absorbable.
 
+## Corpus check (deepen-x 09211500-32, 2026-09-22)
+SKIP (re-confirmed) — fresh grep returns only his own TAH record [[works/taiwaneseamericanhistory-org/whos-who-2130-kopin-liu|TAH #2130]] plus the works index; no memoir or community-record mentions — nothing absorbable.
+
 ## Sources
 - [TAH #2130 encyclopedia: 2130. Dr. Kopin Liu 劉國平博士](https://taiwaneseamericanhistory.org/whos-who-2130-kopin-liu/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-kopin-liu/)
