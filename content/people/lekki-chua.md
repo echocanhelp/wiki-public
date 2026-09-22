@@ -51,6 +51,10 @@ Accomplishment
 - [[works/taiwaneseamericanhistory-org/mystories45|「過五關斬六將 —— 奮戰不懈抵禦VA伏擊」/ 2014-09-05]] — his first-hand account of a protracted struggle with the Veterans Affairs system, adding a civic-advocacy dimension to the photographer story.
 - [[works/taiwaneseamericanhistory-org/collection-of-mr-lekki-chua|「79. Collection of Mr. Lekki Chua 蔡烈輝先生的收藏」/ 2018-12-22]] — the community record of his personal collection, documenting him as a collector as well as photographer/painter.
 - Movement-side artwork: [[works/taiwaneseamericanhistory-org/footsteps-15|「15. UN for Taiwan (台灣加入聯合國)」 by artist Liehue Chua 蔡烈輝 with Wayne L. Wang 王文隆 / 2014-12-07]] — his art in service of the UN-for-Taiwan campaign.
+- [[works/taiwaneseamericanhistory-org/ourfootstapes-24|「24. Dean Chang (張怡仁) Presenting the West Point Yearbook to President Reagan」/ 2018]] — a second movement-side artwork by him in the corpus.
+- His own short biography in his hand: [[works/taiwaneseamericanhistory-org/mystories663|「663. 蔡烈輝小傳」/ 12/2018]]; pioneer memoir [[works/taiwaneseamericanhistory-org/mystories9|「9. 我的西部開拓史」]].
+- [[works/taiwaneseamericanhistory-org/publications1258|「1258. 欣賞蔡烈輝的文采」/ 2012]] — a 2012 notice of his literary writing, alongside the photographer/painter record.
+- Artist directory record as corpus page: [[works/taiwaneseamericanhistory-org/artist51-lekki-chua|51. 蔡烈輝 Lekki Chua / 2015-07]].
 - Cited in the physician-community overview 黃哲陽's [[works/taiwaneseamericanhistory-org/ourjourneys291|「291. 台美人醫師 overview」/ 2017-05-19]], whose reading list includes his own 傳記《攜手走過來時路》 — evidence his memoir circulated in the Taiwanese-American medical community.
 
 ## Related Pages
