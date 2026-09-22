@@ -41,6 +41,8 @@ last_reviewed: 2026-09-22
 - Featured profile in the TAHS story corpus: [[works/taiwaneseamericanhistory-org/whos-paul-lynn|352. Paul Lynn 林保山 /2015/03]].
 - Art record: joint exhibition with 劉兆民 — [[works/taiwaneseamericanhistory-org/art-exhibitions-8|8. 林保山、劉兆民雙個展 04/2010]].
 
+_Re-verified 2026-09-22 (deepen-x slice 15): corpus grep for 林保山/Paul Lynn in works+articles returns only the three records already wikilinked above (whos-paul-lynn, ourjourneys58, art-exhibitions-8). Nothing new absorbable in-vault; no web per protocol._
+
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/paul-lynn/)
 

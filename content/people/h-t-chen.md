@@ -40,6 +40,8 @@ last_reviewed: 2026-09-22
 - 舞蹈教育工作者：台灣文化大學（1971, B.S.）→ 紐約大學教育研究所（M.S. 舞蹈教育）。任教於納瓦候社區學院、林肯中心訓練班、紐約大學舞蹈系及舞蹈教育系，並任喇媽媽(LaMaMa E.T.C)劇場編舞。
 - Corpus material is limited to his own TAH Who's Who entry [[works/taiwaneseamericanhistory-org/whoswho967|967. H. T. Chen 陳學同 / 2016/05]]; no memoir/community-corpus mentions found beyond the auto-generated index listing (re-verified 2026-09-21). SKIP: nothing absorbable in-vault.
 
+_Re-grepped 2026-09-22 (slice 15): still zero corpus hits for 陳學同/H. T. Chen. SKIP: nothing absorbable in-vault._
+
 ## Sources
 - [TAH #967 encyclopedia: 967. H. T. Chen 陳學同 / 2016/05](https://taiwaneseamericanhistory.org/whoswho967/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/h-t-chen/)
