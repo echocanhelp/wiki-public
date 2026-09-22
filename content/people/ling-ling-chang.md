@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # Ling Ling Chang (張玲玲)
 
@@ -41,6 +41,8 @@ last_reviewed: 2026-09-21
 - 2018-06-25 — sworn in for California's 29th Senate District, the first woman Taiwanese American state senator in California history (see From the record).
 - 2018-07-20 — featured in the TAH story corpus "Ling Ling Chang in California" ([[works/taiwaneseamericanhistory-org/ling-ling-chang-in-california|Ling Ling Chang 張齡玲 in California]]) — HOLD: that record's title spells 張齡玲 vs 張玲玲 elsewhere; name-spelling conflict, not auto-merged.
 - 2020-06-27 — re-featured in the corpus as "Ling Ling Chang 張玲玲 in S. CA" ([[works/taiwaneseamericanhistory-org/ling-ling-chang|Ling Ling Chang 張玲玲 in S. CA]]).
+
+_Corpus re-grep 2026-09-22: same hits (Who's Who #1016, both in-CA/CA work records, TJJ English-Pages snapshots incl. 2023-12-08 tag page); 張齡玲 vs 張玲玲 HOLD stands, nothing new._
 
 ## Sources
 - [TAH #1016 encyclopedia: 1016. Ling Ling Chang 張玲玲 / 2016/05](https://taiwaneseamericanhistory.org/whoswho1016/)

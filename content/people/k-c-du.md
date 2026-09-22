@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # K. C. Du (杜國清)
 
@@ -38,6 +38,8 @@ last_reviewed: 2026-09-21
 - With Backus Robert also credited on the biography [[works/taiwaneseamericanhistory-org/131-e8-ac-9d-e6-b8-85-e5-bf-97-e7-9a-84-e7-94-9f-e5-91-bd-e6-8c-af-e5-8b-95-e8-a|131. 謝清志的生命振動]] (2008.10).
 - 英譯叢刊 series continues through at least 2011: [[works/taiwaneseamericanhistory-org/142-taiwanese-literature-english-translation-series-kuo-ching-tu-2011-01-e6-96-8|142. Taiwanese Literature English Translation Series 2011.01]] (corpus re-grep 2026-09-20).
 - Who's Who entry: [[works/taiwaneseamericanhistory-org/whoswho1145|1145. K. C. Du 杜國清]] (logged 2016-07-15).
+
+_Corpus re-grep 2026-09-22: same work hits (#27, #131, #135, #136, #137, Who's Who #1145); all facts already absorbed, nothing new._
 
 ## Family
 

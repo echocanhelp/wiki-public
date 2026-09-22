@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # Jin-Sheng Jian (簡金生)
 
@@ -37,7 +37,7 @@ last_reviewed: 2026-09-21
 - Also named as the 1978 entry in a year-by-year leadership roster in memoir #378 (1976 李明雄 / 1979 王圭雄; organization context not stated in excerpt) — [[works/taiwaneseamericanhistory-org/our-journeys-378|Our Journeys #378]]
 - TAH Who's Who record, 2019-11 — [[works/taiwaneseamericanhistory-org/whos-who-2229|2229. Jin-Sheng Jian 簡金生/11/2019]]
 
-_Corpus re-scan 2026-09-21: same six work hits (#81, #234, #59, #272, #378, Who's Who #2229); all facts above already absorbed, nothing new._
+_Corpus re-scan 2026-09-21, re-verified 2026-09-22: same six work hits (#81, #234, #59, #272, #378, Who's Who #2229); all facts above already absorbed, nothing new._
 
 ## Family
 

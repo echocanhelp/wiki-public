@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # Sung-Peng Hsu (徐頌鵬博士)
 
@@ -48,6 +48,8 @@ More information please click in my story: 486. The life Story of Prof. Sung-Pen
 - Long-term supporter ("心繫『娘家』") of the Minnesota cultural-exhibition artifact-collection effort ([[works/taiwaneseamericanhistory-org/ourjourneys15|15. 點滴回顧明州文化展 / 吳朱實 / 2014/09]]).
 - Authored a memoir of the first East Coast Taiwanese Summer Conference ([[works/taiwaneseamericanhistory-org/ourjourneys268|268. 回憶第一屆美東台灣人夏令會 / 徐頌鵬 / 11/2016]]).
 - His life story and Who's Who records: [[works/taiwaneseamericanhistory-org/mystories486|486. The life Story of Prof. Sung-Peng Hsu / 2016-11-27]], [[works/taiwaneseamericanhistory-org/whoswho18|18. Sung-Peng Hsu 徐頌鵬]].
+
+_Corpus re-scan 2026-09-22: fresh grep works/articles returns the same hits (#123/eng, #268, #15, mystories486, whoswho18); all absorbed above. #123 (EN) places his 1984 chapter presidency in the TAA–Minnesota chronicle between 1983 (Chin-shan Wang、Cheng-Cher Huang) and 1985 (Chin-Hsin Jason Liu), and his 1992 Midwest summer-conference lecture in the 1992 program slot._
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/sung-peng-hsu/)

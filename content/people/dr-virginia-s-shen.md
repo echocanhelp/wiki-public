@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # Dr. Virginia S. Shen (李香蘭教授)
 
@@ -22,6 +22,7 @@ last_reviewed: 2026-09-21
 Dr. Virginia S. Shen 李香蘭教授 – History of Taiwanese American (T.A. Archives) 台美史料中心
 
 ## Role in the Community
+- Her own TAH encyclopedia record is held as a corpus work: [[works/taiwaneseamericanhistory-org/whos-who-1947-virginia-s-shen|1947. Dr. Virginia S. Shen 李香蘭教授]] (logged in the works index 2017-11-15). The only other corpus hit on 李香蘭 (film 「李香蘭的世界」 in [[works/taiwaneseamericanhistory-org/ourjourneys279|Our Journeys #279]]) is about the WWII-era singer, not her — see disambiguation below.
 - The TAH profile itself ties her to the community's archival effort — T.A. Archives / 台美史料中心, whose newsletter and event record is held in the corpus (e.g. [[works/taiwaneseamericanhistory-org/26-newsletter-of-t-a-archives-february-2017|T.A. Archives Newsletter, Feb 2017]]).
 - Family/community: her husband Eric Chen (沈耀初) appears in the Chicago community record — [[works/taiwaneseamericanhistory-org/our-journeys-378|Our Journeys #378, 芝加哥台灣同鄉會 history]] lists 沈耀初 as chairman of the Chicago Taiwanese Association 2015–2018.
 - The husband 沈耀初 has his own community record: TAH encyclopedia entry [[works/taiwaneseamericanhistory-org/whos-who-1825-y-c-shen|1825. Prof. Y. C. (Eric) Shen 沈耀初教授]] (published 2017-08-07) and wiki page [[people/prof-y-c-eric-shen|Prof. Y. C. (Eric) Shen]] — the "Eric" + 沈耀初 pairing matches, but see HOLD below.
