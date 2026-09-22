@@ -56,4 +56,4 @@ Dr. Jen-Yih Chu (Albert Chu, chuj@slu.edu) is a prominent historian of the Taiwa
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
-- SKIP note（deepen-x slice-09211400-5, re-grep 2026-09-22）：corpus hit set（99 客家台灣文化的推手、ourjourneys285、ourjourneys290、ourjourneys252、publications1146、mystories610）與已吸收連結完全一致 — 頁面包和，無新可吸收材料。
+- Re-verify note（deepen-x slice-09220800-15, 2026-09-22）：fresh grep 新增 TAH 檔案 8（本人百科頁）與 TAH 檔案 11（朱真一教授的收藏）— 已吸收至上；其餘 hit set 與已吸收一致。

@@ -45,3 +45,6 @@ HOLD: this page and [[organizations/taiwanese-american-lawyers-association-tala|
 
 - Re-verified 2026-09-21 (slice 09201400-24): corpus re-grep 台美律師協會 / TALA matches the same record set (ourjourneys29 + English copy, both TAHS bibliographic records, TAH #318) plus the works index — no new absorbable facts; saturated.
 - Re-verified 2026-09-22 (slice 09211400-14): corpus re-grep (ZH+EN) hit set unchanged — ourjourneys29 (ZH+EN), the two TAHS bibliographic records, TAH #318, works index — all already absorbed and wikilinked above; verify-saturated.
+
+
+- Re-verified 2026-09-22 (slice 09220800-20): corpus re-grep (ZH+EN) hit set unchanged — all records already absorbed and wikilinked above; saturated.

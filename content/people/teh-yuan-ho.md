@@ -46,6 +46,8 @@ Research/Teaching Specialist
 
 ## From the record
 
+- Re-verify 2026-09-22 (TJJ-A09220700-9): subject-link check against slice article 23e163f71d3f2ba5（標籤「長青教室」頁）—「漫談記憶的奧祕與阿茲海默症 -長青教室心得報告◎何德淵博士 9/26/2018」確認見於正文，連結為真（該文 Subjects 的 .md 後綴連結已修正為慣例格式）；上方日期事實已引該快照，無新材料。
+
 - 2018-09-26 — 於 ITPC Irvine 長青教室主講「漫談記憶的奧祕與阿茲海默症」，心得報告刊於台灣公義報（2018-09-29 刊登）（[[articles/taiwanjustice-net/2024/20240523001759_root_23e163f71d3f2ba5|TJJ 長青教室標籤頁, 2024-05-23 快照]]）。
 
 ## Sources

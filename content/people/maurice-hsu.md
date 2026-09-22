@@ -57,4 +57,4 @@ last_reviewed: 2026-09-22
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
-- SKIP note（deepen-x slice-09211400-5, re-grep 2026-09-22）：corpus hit set（174、176、308、ourjourneys09、ourjourneys9-eng、ourjourneys356-eng）與已吸收連結完全一致（TJJ 三筆已在 From the record）— 頁面包和，無新可吸收材料；FAPA 創會年份 1981 vs 1982 冲突已 HOLD。
+- Re-verify note（deepen-x slice-09220800-15, 2026-09-22）：fresh grep 新增 TAH 檔案 175（TAA/North Jersey 創會會長, 1981）及 ourjourneys356 中文版 — 已吸收至上；FAPA 創會年份 1981 vs 1982 冲突仍 HOLD。

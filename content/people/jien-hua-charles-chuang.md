@@ -44,6 +44,7 @@ Jien-Hua (Charles) Chuang 莊峻華 – History of Taiwanese American (T.A. Arch
 - Own encyclopedia record in the movement archive: TAH #2257 profile (04/2020) ([[works/taiwaneseamericanhistory-org/whos-who-2257-jien-hua-chuang|TAH #2257, 04/2020]]).
 - Corpus re-check (2026-09-21, deepen-x slice 09201500-4, vault-only): hits = #106 blacklist essay, #233/#233 EN center-founding history, TAH #2257 profile, works/index backlinks — every hit already absorbed above. Verified-saturated; SKIP.
 - Corpus re-check (2026-09-22, deepen-x slice 09211400-8, vault-only): hit set unchanged — #106 blacklist essay (self listed as entry #39), #233/#233 EN 募款組 fundraising-team record, TAH #2257 profile, works/index backlinks. All already absorbed. SKIP.
+- Corpus re-check (2026-09-22, deepen-x slice 09220800-15, vault-only): hit set identical (#106, #233/#233 EN, #2257, index backlinks) — verified-saturated, no new absorbable material.
 - Community ties recorded alongside [[organizations/taiwanese-heritage-society-of-houston|Taiwanese Heritage Society of Houston]] in the same story-corpus records.
 
 ## Sources

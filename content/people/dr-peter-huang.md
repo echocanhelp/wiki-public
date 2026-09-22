@@ -69,6 +69,8 @@ last_reviewed: 2026-09-22
 
 ## From the record
 
+- Re-verify 2026-09-22 (TJJ-A09220700-9): subject-link check against slice article 23e163f71d3f2ba5（標籤「長青教室」頁）—「5/16 長青教室 從基因學看老人的健康與長壽 ◎黃勝雄醫師」確認見於正文，連結為真（該文 Subjects 的 .md 後綴連結已修正為慣例格式）；無新材料。
+
 - 再核（TJJ-A09220700-10, 2026-09-22）：本 slice 文章 be7ac05c58e6eab6 全文再驗證——其腦神經外科背景、雷根總統指定醫師、1993年起門諾醫院服務，及本場記憶力講座論點（睡眠與記憶鞏固、地中海型飲食等）確認，連結為真；2017-02-23 條目已在庫，無新材料。
 
 - 2017-02-23 — 黃勝雄醫師演講「老人的記憶與記憶的神經科學」（含影像），由吳瑞惠撰文字紀錄、蕭慶和攝製，刊於台灣公義報（[[articles/taiwanjustice-net/2024/20240723023500_root_23a52af3dcf8a6ce|TJJ tag page, 2017-02-23]]）；全文存檔版見 [[articles/taiwanjustice-net/2024/20240613111529_root_be7ac05c58e6eab6|TJJ, 2017-02-23]]。

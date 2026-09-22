@@ -59,3 +59,4 @@ From the community record (memoirs outrank the TAH press-kit bio):
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - SKIP note（deepen-x slice-09211400-5, re-grep 2026-09-22）：corpus hit set（ourjourneys280、our-journeys-350、ourjourneys253、our-journeys-357；108-prof-lung-chi-chen 陳隆志、whoswho1898 陳隆旭為同名近似不同人，已 HOLD）與已吸收連結完全一致 — 頁面包和，無新可吸收材料。
+- Re-verify（deepen-x slice-09220800-15, 2026-09-22）：fresh grep 新增 hit ourjourneys27、our-journeys-381，內文實為「陳隆豐律師」（不同人士）及既有 backlink，非本人事跡；其餘 hit set 與已吸收一致 — 維持飽和。
