@@ -58,3 +58,4 @@ last_reviewed: 2026-09-22
 - Photographed in the front row (林水泉，許信良，謝聰敏，艾琳達，許國泰) of the overseas democracy-movement group portrait in [[works/taiwaneseamericanhistory-org/our-journeys-363|Our Journeys #363]].
 - Corpus re-grep 2026-09-21 (slice 09210317-4): SKIP-new-facts — hit set unchanged (Our Journeys #74 桃園機場事件, #363, ff303/whos1287 encyclopedia entries, 陳昭南 TJJ memoir); all already absorbed above.
 - Corpus re-grep 2026-09-22 (slice 09212352-7): SKIP-new-facts — ZH+EN re-grep returns the same saturated hit set (ourjourneys74 + eng, our-journeys-363, ff303, whos1287, 謝清志林水泉回台被毆 record); no new absorbable material.
+- Re-verify 2026-09-22 (TJJ-A09220400-7): link-check against slice article 3be67f6e82d34da7 body — mention confirmed real, dated fact above stands; no new material.
