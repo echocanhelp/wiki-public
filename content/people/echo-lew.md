@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # Echo Lew (劉白)
 
@@ -53,3 +53,5 @@ Exhibition at SCA Gallery (Southern California Art Project Gallery), Pomona, Cal
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+> Saturate-note (deepen-x slice 09211400-26, 2026-09-22): corpus re-grep (劉白 / Echo Lew) hit set = whos223 + artist7 + 496 catalogue + art-exhibitions-42 + art-show-11 + our-journeys-371, all already linked in Role in the Community. Verified saturated, no conflicts.

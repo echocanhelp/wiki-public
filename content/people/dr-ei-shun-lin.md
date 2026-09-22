@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # Dr. Ei-Shun Lin (林益顯醫師)
 
@@ -51,3 +51,5 @@ From the community corpus (memoirs outrank the press-kit profile):
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 > Saturate-note (deepen-x slice 09201500-14, 2026-09-21): corpus re-grep hit set = whos-who-2027 + ourjourneys74 中/EN, all linked above; no new absorbable corpus facts.
+
+> Saturate-note (deepen-x slice 09211400-26, 2026-09-22): corpus re-grep (林益顯 / Ei-Shun Lin) hit set unchanged — whos-who-2027 + ourjourneys74 中/EN, all already linked in Role in the Community. Verified saturated, no conflicts.

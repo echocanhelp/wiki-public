@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # Rev. Chung Hsin Cho (卓忠信牧師)
 
@@ -48,3 +48,5 @@ _No filled family fields on the TAH profile._
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 - Re-grep 2026-09-21 (slice 09201500-21): hit set unchanged — ourjourneys268 memoir passage, ourjourneys33-eng TAF history, and own whos-who-1620 record are all already absorbed in Role in the Community; verified saturated, no conflicts. (ourjourneys33-eng also names Carol Cho 林秋菊 among TAF program volunteers; the record does not state a family relation to Cho — not merged.)
+
+- Re-grep 2026-09-22 (slice 09211400-26): hit set unchanged — ourjourneys268, ourjourneys33-eng, whos-who-1620 all absorbed; verified saturated.

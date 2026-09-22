@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # North America Taiwanese Women’s Association – Boston Chapter (北美洲台灣婦女會波士頓分會)
 
@@ -25,7 +25,7 @@ The chapter sits within the NATWA (北美洲台灣婦女會) network ([[organiza
 
 HOLD: no chapter-specific founding date, officers, or activity details are present in the corpus beyond the 2015 profile; the parent-body records above date from 1992 onward but do not name the Boston chapter individually.
 
-Corpus re-grep 2026-09-21 (slice 09201500-19): hit set unchanged — the chapter's own profile record [[works/taiwaneseamericanhistory-org/natwa-boston-chapter|natwa-boston-chapter]] plus index entries remain the only coverage; the only other NATWA-named item in the corpus, [[works/taiwaneseamerican-org/relationships-workshop-with-natwa-and-tap-in-sd|Relationships Workshop with NATWA and TAP in SD]] (2014-08-03), concerns the San Diego chapter, not Boston. Verify-saturated, no new absorbable material.
+Corpus re-grep 2026-09-21 (slice 09201500-19): hit set unchanged — the chapter's own profile record [[works/taiwaneseamericanhistory-org/natwa-boston-chapter|natwa-boston-chapter]] plus index entries remain the only coverage; the only other NATWA-named item in the corpus, [[works/taiwaneseamerican-org/relationships-workshop-with-natwa-and-tap-in-sd|Relationships Workshop with NATWA and TAP in SD]] (2014-08-03), concerns the San Diego chapter, not Boston. Verify-saturated, no new absorbable material. Re-grep 2026-09-22 (slice 09211400-20): hit set unchanged — the chapter profile plus index entries remain the only chapter-specific coverage; the TJJ NATWA articles (228百合胸花, 2024-04/2025-02) concern NATWA generally, not Boston. SKIP-with-reason (saturated).
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/north-america-taiwanese-womens-association-boston-chapter/)

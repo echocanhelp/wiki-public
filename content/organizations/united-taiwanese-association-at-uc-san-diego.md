@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # United Taiwanese Association at UC San Diego
 
@@ -30,3 +30,5 @@ The United Taiwanese Association (UTA) at UC San Diego — known in Chinese as �
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+> Saturate-note (deepen-x slice 09211400-26, 2026-09-22): corpus re-grep (UTA / 台灣學友會 / United Taiwanese) hit set = own work record ucsd-united-taiwanese-association (bibliographic only) + index + incidental 'UTA' substring matches in unrelated taiwanjustice news articles; no new absorbable community facts. Verified saturated.
