@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # C. K. Kuo (郭重國)
 
@@ -42,3 +42,4 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+<!-- deepen-x 09210831-19: re-verify — hit set (ourjourneys245, whos-who-1480) already absorbed; false-positive greps (Kuo-Ming-Tang etc.) reconfirmed. -->

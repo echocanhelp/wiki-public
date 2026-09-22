@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # Oxford Taiwanese American Student Association
 
@@ -23,6 +23,8 @@ The Oxford Taiwanese American Student Association (Oxford TASA) is a student org
 > Re-verified 2026-09-20 (slice 09180700-16): SKIP again — grep across works/articles (Oxford TASA / 牛津 / Oxford College) still returns zero hits.
 >
 > Re-verified 2026-09-21 (slice 09200600-25): SKIP again — grep for Oxford TASA / Oxford Taiwanese returns zero; the only 牛津 hits are taiwanjustice news articles about Oxford/UK pandemic policy, unrelated to this student org.
+>
+> Re-verified 2026-09-22 (slice 09210831-18): SKIP again — fresh grep for Oxford.*TASA / Oxford Taiwanese in works+articles returns zero hits.
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/oxford-taiwanese-american-student-association/)

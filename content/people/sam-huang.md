@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # Sam Huang (黃興貫)
 
@@ -48,3 +48,4 @@ _Disambiguation: TAH Who's Who #2251 "Dr. Sam Huang" is 黃森茂, a different p
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+<!-- deepen-x 09210831-19: re-verify — hit set (whoswho1240, ourjourneys232, whos-who-2251 disambig) already absorbed in Role in the Community; no new facts. -->
