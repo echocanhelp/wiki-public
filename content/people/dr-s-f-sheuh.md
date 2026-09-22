@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # Dr. S. F. Sheuh (薛信夫博士)
 
@@ -37,10 +37,10 @@ _No filled family fields on the TAH profile._
 
 ## Role in the Community
 
-- Shareholder in the Shogun (將軍) restaurant group run by Cheng S. Lee (李正三) in New Jersey's Taiwanese American community. When the group expanded to Shogun 18 (opened 12/17/1985), 薛信夫 was among the 14 shareholders who joined as the business grew from Shogun 22.
+- Shareholder in the Shogun (將軍) restaurant group run by Cheng S. Lee (李正三) in New Jersey's Taiwanese American community. When the group expanded to Shogun 18 (opened 12/17/1985), 薛信夫 was among the 14 shareholders who joined as the business grew from Shogun 22; the memoir's full roster names him alongside 李汝城、謝孟勳、張秋南、林忠勝、林長富、戴榮、徐福棟、鄭再榮、林為裕、彭永煜、沈新欽、板倉健二 and founder 李正三.
 - Remembered in the group's own memoir for a blunt diagnosis of its governance problems: at a shareholders' meeting, West Windsor Mayor 薛信夫 remarked that with too many shareholders arguing, 「十嘴九尻川，做嘸代誌」 — a line the author called a piercing, to-the-point observation.
 - Corpus source: [[works/taiwaneseamericanhistory-org/ourjourneys17|李正三回憶錄：將軍餐廳 (Our Journeys 17)]]; TAH profile record [[works/taiwaneseamericanhistory-org/whos-who-1899-s-f-sheuh|TAH #1899 Dr. S. F. Sheuh 薛信夫博士]].
-- Re-verified 2026-09-21: corpus re-grep matches only the two records above plus index listings — the Our Journeys 17 memoir mentions (14 shareholder roster, 「十嘴九尻川」 remark) are already absorbed here. SKIP: nothing further absorbable.
+- Saturate-note (deepen-x slice 09211400-30, 2026-09-22): corpus re-grep (ZH 薛信夫 + EN Sheuh) matches only the two records above plus index listings; the 14-shareholder name roster from the Our Journeys 17 memoir is newly absorbed into the first bullet. Nothing further absorbable.
 
 ## Sources
 - [TAH #1899 encyclopedia: 1899. Dr. S. F. Sheuh 薛信夫博士](https://taiwaneseamericanhistory.org/whos-who-1899-s-f-sheuh/)

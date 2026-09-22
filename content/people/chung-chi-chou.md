@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # Chung Chi Chou (周重吉)
 
@@ -52,3 +52,4 @@ _No filled family fields on the TAH profile._
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 > SKIP-note (deepen-x slice 09201500-15, 2026-09-21): corpus re-grep hit set identical to records already linked above; no new absorbable corpus facts.
+> Re-verified 2026-09-22 (deepen-x slice 09211400-32): corpus re-grep ZH+EN against works/articles — hit set unchanged (own mystories485 memoir, whoswho1406 record, works index), all already linked above. No new absorbable corpus facts.
