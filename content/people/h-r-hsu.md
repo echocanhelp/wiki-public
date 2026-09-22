@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # H. R. Hsu (許惠茹)
 
@@ -17,7 +17,7 @@ last_reviewed: 2026-09-21
 - **Era:** --
 - **Geography:** Taipei, Taiwan
 - **Core roles:** Taiwanese American (TAH Who's Who)
-- **Source:** TAH Foundation Who's Who
+- **Source:** TAH Foundation Who's Who — profile record held in the corpus at [[works/taiwaneseamericanhistory-org/whos-who-1931-h-r-hsu|1931. H. R. Hsu 許惠茹 (record, 2017-11-06)]]
 
 
 <!-- tah-tables:start -->
