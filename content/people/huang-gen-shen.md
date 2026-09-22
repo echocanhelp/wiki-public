@@ -10,7 +10,7 @@ tags:
   - political-activist
   - 228
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # Huang Gen-shen (黃根深)
 

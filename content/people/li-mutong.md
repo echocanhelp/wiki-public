@@ -9,7 +9,7 @@ tags:
   - publisher
   - community-leader
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # 李木通 (Li Mutong)
 

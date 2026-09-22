@@ -9,7 +9,7 @@ tags:
   - california
   - state-controller
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # John Chiang (江俊輝)
 
