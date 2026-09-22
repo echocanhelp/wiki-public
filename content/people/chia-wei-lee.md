@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # Chia Wei Lee (李佳蔚)
 
@@ -57,3 +57,4 @@ _No filled family fields on the TAH profile._
 - Corpus re-greps 2026-09-16 (slices 20 / 22 / 23 / 26 / 18 / 09162138-15 re-checks): hit set unchanged — only this person's own TAH #527／#258 百科／書目 records plus works-index listings; no memoir or community material, nothing absorbable, no conflicts. SKIP-no-new-material. Slice 09162200-13 re-grep: hit set unchanged（#527、#258、index only）— SKIP-with-reason：無可吸收社群語料。Slice 09170130-11 re-grep（2026-09-17）：命中僅 #527、#258、index，命中集不變——SKIP-with-reason：無可吸收社群語料。Slice 09170500-9 re-grep（2026-09-17）：命中僅 #527、#258，命中集不變——SKIP-with-reason：無可吸收社群語料。Slice 09180131-10 re-grep（2026-09-18）：命中僅 #527、#258、index，命中集不變——SKIP-with-reason：無可吸收社群語料。
 - 複核（deepen-x slice-09181500-8, 2026-09-20）：re-grep 命中集不變（僅本人 TAH 書目記錄＋index）— SKIP-with-reason：無可吸收之回憶錄/社群語料，既有連結與 HOLD 維持。
 - 複核（deepen-x slice-09201300-6, 2026-09-21）：re-grep 命中集不變（僅本人 TAH #527／#258 書目記錄＋index）— SKIP-with-reason：無可吸收之回憶錄/社群語料。
+- 複核（deepen-x slice-09211300-6, 2026-09-22）：re-grep 命中集不變（僅 #527、#258、index）— SKIP-with-reason：無可吸收之回憶錄/社群語料。

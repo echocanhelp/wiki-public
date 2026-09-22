@@ -10,7 +10,7 @@ tags:
 name_en: "Yi Sen Lee"
 name_zh_hanzi: "李意盛"
 verification_status: pending
-last_reviewed: 2026-09-08
+last_reviewed: 2026-09-22
 source_note: "TAHS 2025 org chart + LINE display Yi Lee + handwritten Yi-Sen Lee on chart (owner 2026-08-03)"
 ---
 # Yi Sen Lee (李意盛)
@@ -67,6 +67,8 @@ Per the cited Taiwan Justice report (2025-09-05), 李意盛 attended the first b
 See the source hub. Top mentions:
 
 1. [[articles/taiwanjustice-net/2025/20251107004331_台美人歷史協會新任會長許景鴻接椽-開啟世代傳承_11575c718bbd4c74|台美人歷史協會新任會長許景鴻接椽 開啟世代傳承新紀元]]
+
+Corpus re-grep (2026-09-22, slice 09211123-3): the only real corpus hit is the 2025-09-05 board-meeting article already cited above; the two `content/works` matches (musician25, whoswho1092) are false positives — they are 李琹怡 (Chin-Yi Lee) pianist records, not this person. No new community facts to absorb; SKIP expansion, HOLD.
 
 
 ## Timeline

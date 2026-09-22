@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # Taiwanese American Center of Northern California (北加州台灣會館)
 
@@ -43,3 +43,4 @@ HOLD: founding place — the TAH directory entry describes the San Jose / Silico
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 Corpus re-grep 2026-09-21 (slice 09201400-3): hit set = 2005/2007/2010 年刊 records, tac-drf, ourjourneys53-eng, video-181 — all already linked above; SKIP-with-reason: no new absorbable material beyond the 2026-09-20 pass. Fremont-vs-San Jose founding-place HOLD maintained.
+Corpus re-grep 2026-09-22 (slice 09211300-2): hit set = 年刊 723/380/383, tac-drf, ourjourneys53 (TC twin of the linked -eng), ourjourneys24-eng, video-181 — all already linked above. SKIP-with-reason: no new absorbable material; founding-place HOLD maintained.

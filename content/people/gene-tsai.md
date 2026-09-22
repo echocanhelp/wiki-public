@@ -9,7 +9,7 @@ tags:
 name_en: "Gene Tsai"
 name_zh_hanzi: "蔡錦榮"
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 source_note: "TAHS 2025 organization chart (roles only; no private contacts)"
 ---
 # Gene Tsai (蔡錦榮)
@@ -94,3 +94,5 @@ Articles from taiwanjustice.net mentioning **Gene Tsai (蔡錦榮)**:
    - Source: https://www.taiwanjustice.net/2023/03/20/%E5%8F%B0%E7%BE%8E%E4%BA%BA%E6%AD%B7%E5%8F%B2%E5%8D%94%E6%9C%833-25%E8%88%89%E8%BE%A6%E3%80%8C%E5%A6%82%E4%BD%95%E5%AF%AB%E5%9B%9E%E6%86%B6%E9%8C%84%E8%87%AA%E5%82%B3%E5%BA%A7%E8%AB%87%E6%9C%83/
    - Match: alias='蔡錦榮' where=body pts=40
    - Score: 165
+
+Corpus re-grep (2026-09-22, slice 09211123-3): the sole corpus hit is the 2023-03-20 回憶錄座談會 notice already cited above and quoted in ## Quotes — entrepreneur (企業家), TAHS advisor, author of autobiography 「我的奮鬥人生及美國夢」 (entrepreneurship in America). Zero hits in content/works (diaspora memoirs); no new material to absorb. SKIP expansion, HOLD.

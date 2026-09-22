@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # Kang-Lu Wang (王康陸博士)
 
@@ -45,6 +45,7 @@ last_reviewed: 2026-09-21
 - **1992 fishing-boat return to Taiwan.** 陳榮芳's memoir: autumn 1992 the two flew via Hong Kong, wrote wills with a lawyer, evaded China Airlines staff spotted at their hotel, and crossed by fishing boat to attend the 臺灣獨立聯盟臺灣本部成立大會 (1992-10-18, 海霸王餐廳, 中山北路, 臺北); Wang was badly seasick on the two-day crossing — [[works/taiwaneseamericanhistory-org/ourjourneys315|315. 我要回家-黑名單人士的返鄉之行 / 陳榮芳]].
 - **《台灣公論報》 editorial stance.** In the 張月英 oral history of the paper's founding, when 洪哲勝 replied to critics under the «本報» name, 王康陸 objected («這個不要登») — evidence of his stance on editorial accountability — [[works/taiwaneseamericanhistory-org/ourjourneys49|49. 《台灣公論報》創刊 / 口述:張月英]].
 - 複核（deepen-x slice 09201400-6，2026-09-21）：re-grep 王康陸 / Kang-Lu Wang 命中集不變（#76-eng、#302、#315、#334、#49、album-26）— 全數已吸收於上列條目，saturated，SKIP，無新社群材料可吸收。
+- 複核（deepen-x slice-09211300-6，2026-09-22）：re-grep 命中集不變（album-26、#302、#334、#49、#76-eng、#315）— 全數已吸收，saturated，SKIP-no-new-material。
 - HOLD: death circumstances — TAH source snippet says «died in a car accident»; corpus farewell record is dated 2018/06 while a 2014 memorial album exists (album may honor life/anniversary rather than death year). Not merged.
 
 ## From the record

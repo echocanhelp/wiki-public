@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # Taiwanese Heritage Society of Houston (台灣人傳統基金會)
 
@@ -27,8 +27,11 @@ The Taiwanese Heritage Society of Houston (THSH) is an IRS 501(c)(3) non-profit 
 - The TCC complex has co-housed the Taiwanese American Federal Credit Union, the Houston Chapter of the Taiwanese Association of America, and the Taiwanese Language School; THSH's community-service role is documented in [[works/taiwaneseamericanhistory-org/ourjourneys328|328. 休士頓台灣人傳統基金會對大休士頓地區社區服務的參與 / 蕭文源 / 12/2017]].
 - **Scholarship grantor** — THSH is recorded as a host of the Taiwanese American Community Scholarship award ceremony for high-school students, the nationwide program (2003–2017, ~1,000 recipients across 14 regions) documented in [[works/taiwaneseamericanhistory-org/ourjourneys303|303. 台美社區高中生獎學金方案的簡介 / T.A. Archives / 2017/07]].
 - **Library fund steward** — THSH manages the Taiwanese American Fund in the Professor Ya Yen Lee Memorial Library, per [[works/taiwaneseamericanhistory-org/8-taiwanese-american-fund-in-professor-ya-yen-lee-memorial-library-managed-by-ta|8. Taiwanese American Fund in Professor Ya Yen Lee Memorial Library, 2016-02-25]].
+- **Food-bank giving** — THSH's 2007 donation to the Houston food bank is recorded as [[works/taiwaneseamericanhistory-org/thsh-food-bank-2007|31. 休士頓台灣人傳統基金會捐款Food Bank 2007]] (archived 2018-04-11) — charitable community service alongside the center's programs.
+- The award ceremony THSH hosted for the nationwide scholarship program is catalogued as [[works/taiwaneseamericanhistory-org/9-taiwanese-american-community-scholarship-awards-taf-houston-tx-e5-8f-b0-e7-be-|9. Taiwanese American Community Scholarship Awards / THSH Houston, TX, 2015-07-21]].
 - **2018-11-03** — THSH celebrated its 30th anniversary with an annual fund-raising dinner, corroborating a 1988 founding ([[works/taiwaneseamericanhistory-org/16-taiwanese-heritage-society-of-houston-celebrated-30th-year-anniversary-and-an|16. THSH Celebrated 30th Year Anniversary and Annual Fund Raising 11/3/2018]]).
 - SKIP note (deepen-x slice 09180131-20, 2026-09-18): re-grep of content/works + content/articles found additional 台灣人社團 hits (our-journeys-350, mystories24, ourjourneys253, joint-bulletin) but all matched only the generic term 台灣人社團, not THSH itself — no new absorbable corpus facts.
+- Corpus re-grep 2026-09-22 (slice 09211300-2): NEW links absorbed — food-bank record 31 (thsh-food-bank-2007) and scholarship award record 9 (both above); remaining hits (ourjourneys263, ourjourneys233-eng, ourjourneys303, ourjourneys328, anniversary #16, library fund #8) already linked.
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-heritage-society-of-houston/)

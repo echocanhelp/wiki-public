@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # Edwyn Charles Eddie Huang (黄颐銘)
 
@@ -38,6 +38,7 @@ Edwyn Charles (Eddie) Huang 黄颐銘 – History of Taiwanese American (T.A. Ar
 - He is recorded as an opener of doors for the next generation of Taiwanese food entrepreneurs: a TaiwaneseAmerican.org profile of chef Erik of Toki Underground credits Huang's Baohaus (opened New York, 2009) as part of what inspired him, notes the two became friends with Huang doing a pop-up at Toki, and quotes Erik: "He's definitely a guy who paved the way and he's not afraid to speak his mind and have an opinion. It's not the path our parents wanted us to take, so it's nice to see people take the leap." — [[works/taiwaneseamerican-org/rediscovering-ramen-toki-underground|Rediscovering Ramen: Toki Underground (TA online)]].
 - HOLD: birth year — TAH snapshot says 1982 but the 2013 interview describes him as "thirty-year-old" (implying 1982-83); not merged.
 - Corpus re-grep 2026-09-21 (slice 09201400-16, both hanzi spellings + English names): hit set = the records above plus the two newly absorbed 2015 records (hudson-yang, rediscovering-ramen-toki-underground); no further absorbable facts.
+- Corpus re-grep 2026-09-22 (slice 09211300-4, both hanzi spellings + English name): hit set unchanged (TAH #97, #160, OTA-231, sf-interview, hudson-yang, fashion-trending, rediscovering-ramen); no further absorbable facts; HOLD on birth year stands. SKIP-no-new-material.
 
 ## Family
 

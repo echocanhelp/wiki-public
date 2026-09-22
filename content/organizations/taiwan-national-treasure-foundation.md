@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # Taiwan National Treasure Foundation (國家寶藏基金會)
 
@@ -29,6 +29,8 @@ The Taiwan National Treasure Foundation is a US 501(c)(3) public charity nonprof
 - Directory entry work page: [[works/taiwaneseamericanhistory-org/taiwan-national-treasure-foundation|Taiwan National Treasure Foundation 國家寶藏基金會]] (TAH directory, era 2017).
 - Community memoir engagement: a first-person account of how the project shaped a younger Taiwanese American's own identity recovery — [[works/taiwaneseamerican-org/national-treasure-taiwanese-identity|Finding the Treasure: How National Treasure Helped Me Rediscover My Taiwanese American Story / 2026-02-03]] (taiwaneseamerican.org).
 - HOLD: conflict on project start — 自由時報 2017-09-19 report says the project "起始於去年暑假" (summer 2016); 林倢's Our Journeys account ([[works/taiwaneseamericanhistory-org/ourjourneys320|TAH #320]]) dates the related hackathon-era advocacy wave to 2017. Never merged.
+
+- Corpus re-grep 2026-09-22 (slice 09211300-4): hit set unchanged (ourjourneys320, tw-85, directory work page, relate-tw-86, national-treasure-taiwanese-identity, TJJ 轉載報導); all already absorbed above; HOLD on 2016-vs-2017 project start stands. SKIP-no-new-material.
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwan-national-treasure-foundation/)
