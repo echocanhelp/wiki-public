@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-20
+last_reviewed: 2026-09-21
 ---
 # ‧‧沈 Sandra Wright Shen (仙杜拉)
 
@@ -44,6 +44,8 @@ _No filled family fields on the TAH profile._
 Corpus re-grep (2026-09-19): the only third-party material is the 仙杜拉琴韻心聲 feature above; no memoir adds biographical dates or roles, so biography stays as sourced. Note [[works/taiwaneseamericanhistory-org/mystories112]] already lists her as a named subject alongside [[people/nami-yang|李淑櫻]] (author).
 
 Corpus re-grep (slice 09191100-9, 2026-09-20): hits unchanged — own records [[works/taiwaneseamericanhistory-org/70-sandra-wright-shen-piano|TAH #70]], [[works/taiwaneseamericanhistory-org/688-e4-bb-99-e6-9d-9c-e6-8b-89-e2-80-a7-e8-b3-b4-e7-89-b9-e2-80-a7-e6-b2-88-sand|TAH #688]] and the 仙杜拉琴韻心聲 feature; no memoir adds biographical dates or roles — SKIP-content.
+
+Corpus re-grep (slice 09210317-9, 2026-09-21): hits unchanged — same own records (TAH #70, #688) plus [[works/taiwaneseamericanhistory-org/mystories112|仙杜拉琴韻心聲]] and index listings; no new memoir material — SKIP-content.
 
 ## Sources
 - [TAH #688 encyclopedia: 688. 仙杜拉‧賴特‧沈 Sandra Wright Shen / 2015/11](https://taiwaneseamericanhistory.org/688-%e4%bb%99%e6%9d%9c%e6%8b%89%e2%80%a7%e8%b3%b4%e7%89%b9%e2%80%a7%e6%b2%88-sandra-wright-shen-201511/)
