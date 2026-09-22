@@ -39,6 +39,8 @@ last_reviewed: 2026-09-22
 
 _No filled family fields on the TAH profile._
 
+> Corpus re-scan 2026-09-22 (deepen-x slice 09220500-21): fresh grep works/+articles/ for 王人紀 — hit set identical to prior absorption (ourjourneys33/58/81/234 + TAH #777, all already wikilinked above). SKIP-deepen; nothing new absorbable.
+
 ## Sources
 - [TAH #777 encyclopedia: 777. 王人紀 /2016/01](https://taiwaneseamericanhistory.org/777-%e7%8e%8b%e4%ba%ba%e7%b4%80-201601/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/%e7%8e%8b%e4%ba%ba%e7%b4%80/)

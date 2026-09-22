@@ -42,6 +42,7 @@ _No filled family fields on the TAH profile._
 - The TAH story corpus carries two primary records about him, treating him as community historical record: [[works/taiwaneseamericanhistory-org/whos-who-2281-raymond-t-chen|2281. Raymond T. Chen]] (Who's Who entry, 2020-07-13) and [[works/taiwaneseamericanhistory-org/raymond-t-chen|Raymond T. Chen in Washington D.C.]] (2020-07-10). Both are bibliographic records; no memoir narrative available. Corpus re-check 2026-09-21 and 2026-09-22 (slice 09210700-32): same two own-name records only — SKIP-deepen: no additional community facts in corpus.
 - Career path documented in the directory: UCLA B.S. Electrical Engineering (1990) → NYU J.D. (1994) — engineer-turned-lawyer, IP/patent law track.
 - HOLD: employment firm name in TAH-sourced table reads "Knobby, Martens, Olson & Bear"; no corpus source corroborates the spelling — left as-sourced, not corrected.
+- Corpus re-check 2026-09-22 (slice 09220500-25): fresh grep of works/ and articles/ returned only the two own-name records already wikilinked above plus index rows — verified-saturated, SKIP-deepen.
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/raymond-t-chen/)
