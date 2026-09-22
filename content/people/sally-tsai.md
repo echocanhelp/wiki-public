@@ -26,6 +26,7 @@ last_reviewed: 2026-09-21
 - 2018年泰然音樂節（蘇泰然紀念合唱交響曲演出）期間，蔡淑理在南灣帶領「百合花」合唱團練唱，為五區分區練唱之一（東區由許恂恂指揮，Irvine台美人團由賴美芬及王淑女負責）。見 [[works/taiwaneseamericanhistory-org/ourjourneys340|340. 寫在泰然音樂節前夕 / 許丕龍 / 2018]]。
 - TAH 紀錄庫有其個人專輯頁：[[works/taiwaneseamericanhistory-org/345-sally-tsai-e8-94-a1-e6-b7-91-e7-90-86-201503|345. Sally Tsai 蔡淑理 2015/03]]、[[works/taiwaneseamericanhistory-org/181-sally-tsai-e8-94-a1-e6-b7-91-e7-90-86-soprano-201503|181. Sally Tsai 蔡淑理, Soprano 2015/03]]。
 - Corpus re-grep 2026-09-21: hits unchanged (own records #345/#181, [[works/taiwaneseamericanhistory-org/ourjourneys340|ourjourneys340]], index); community facts above already absorbed — no new material.
+- Corpus re-grep 2026-09-21 (slice 09210317-24): same three hits; ourjourneys340 全文確認五區分區練唱細節與現有敘述一致，無衝突、無新增事實。
 
 <!-- tah-tables:start -->
 ## Education
