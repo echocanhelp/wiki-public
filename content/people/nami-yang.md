@@ -49,6 +49,8 @@ last_reviewed: 2026-09-22
 
 ## From the record
 
+- Re-verify 2026-09-22 (TJJ-A09220600-2): link-check against slice article c48e08c7f2c3bf8d（Covid-19 浩劫餘生錄分類頁）—「人生的海嘯 ◎李淑櫻」確認見於正文文章清單，連結為真；上方日期事實成立，無新材料。
+
 - 2020-10-22 — 其疫情随笔「人生的海嘯」列於「Covid-19 浩劫餘生錄」分類頁（2020-11-20 存檔，為該分類最早期收錄之一）（[[articles/taiwanjustice-net/2020/20201120161617_category_covid-19_c48e08c7f2c3bf8d|TJJ Covid-19 分類頁，2020-11-20 存檔]]）。
 - 2021-11-28 — 其疫情随笔「人生的海嘯」列为 taiwanjustice.net「Covid-19 浩劫餘生錄」专栏精选文章（该页 2021-11-28 快照，同页辑有林梓秧、王健椎、劉文義、李建漢、王文隆等乡亲疫中随笔）—— [[articles/taiwanjustice-net/2021/20211129024830_category_covid-19_c9dd9fb782cc99b8|TJJ Covid-19 专栏页，2021-11-28 存档]]。
 - 2017-03-14 — Authored 「台灣之美–亞洲之心」, the account of the 台灣之美繪畫巡迴展 LA stop (4/1–2/2017, 橋二中心/洛僑中心, hosted by TUF, curated by 蘇奐豪): she is a sitting TUF board member and 藝展組 member and reports the interview with the curator; 新藝畫會 members 李淑櫻、洪逸凡、劉白、蔡蕙香、陳文石 were invited to exhibit ([[articles/taiwanjustice-net/2024/20240724234326_root_cd2062fe6528223c|TJJ report, article dated 2017-03-14]]).
