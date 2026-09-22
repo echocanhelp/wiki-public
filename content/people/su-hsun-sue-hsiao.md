@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-20
+last_reviewed: 2026-09-21
 ---
 # Su-Hsun Sue Hsiao (蕭素薰)
 
@@ -30,6 +30,9 @@ Accomplishment
 ## Family
 
 _No filled family fields on the TAH profile._
+
+## Role in the Community
+- Documented in the TAH Foundation Who's Who encyclopedia record [[works/taiwaneseamericanhistory-org/whos-who-2288-su-hsun-hsiao|2288. Su-Hsun (Sue) Hsiao 蕭素薰]] (published 2020-10-22, value band B). The vault copy is a bibliographic record only; no memoir-corpus mentions of 蕭素薰 or Crown Mark, Inc. were found beyond this record.
 
 ## Sources
 - [TAH #2288 encyclopedia: 2288. Su-Hsun (Sue) Hsiao 蕭素薰](https://taiwaneseamericanhistory.org/whos-who-2288-su-hsun-hsiao/)

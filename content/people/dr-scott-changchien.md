@@ -38,6 +38,7 @@ Dr. Scott ChangChien 張簡吉誠醫師 – History of Taiwanese American (T.A. 
 - 2026-09-19 re-grep: SKIP — no corpus hits beyond the works index and his own already-linked records; no new absorbable material.
 - 2026-09-20 re-grep (slice 09191100-5): SKIP — hit set unchanged (own #1943, ourjourneys74, ourjourneys262, works index), all already linked; no new absorbable material.
 - 2026-09-21 re-grep (slice 09191100-5 retry): SKIP — hit set again unchanged; no new absorbable material.
+- 2026-09-21 re-grep (slice 09210317-6): SKIP — hit set again unchanged (own #1943, ourjourneys74, ourjourneys262, works index), all already linked; no new absorbable material.
 
 ## Family
 
