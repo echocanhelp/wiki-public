@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # Jason Jung (莊吉生)
 
@@ -43,6 +43,7 @@ Accomplishment
 - Self-described strong Taiwanese identity: "I've always wanted to help Taiwan in any way I could and using tennis was a great way." Path: started tennis at 5, serious from ~10, University of Michigan tennis scholarship (4 years), brief oil-industry job in Torrance after graduation, then turned professional (~6 years pro as of the 2017 interview).
 - Mentioned in Taiwanese community-press coverage of the 2024 民視異言堂 program "網球戰士莊吉生" (2024-01-28), archived in the Taiwan Justice corpus ([[articles/taiwanjustice-net/2024/20240221122501_root_b1704373a6fecad3|台灣新聞彙編]]; also carried in [[articles/taiwanjustice-net/2024/20240412190101_root_46bd6fdaf50f6dcd|台灣新聞彙編 2024-04-12]] and [[articles/taiwanjustice-net/2024/20240425071741_root_61848268d582748b|台灣新聞彙編 2024-04-25]]).
 - Own Who's Who encyclopedia record preserved in the corpus: [[works/taiwaneseamericanhistory-org/whos-who-1936-jason-jung|TAH #1936, 莊吉生, 2017-11-06]] (bibliographic record; full text stays in the vault).
+- Corpus re-grep 2026-09-22 (slice 09211400-28): hit set unchanged — own TAH #1936 record, the TaiwaneseAmerican.org interview, and the taiwanjustice press roundups, all linked above; no new community-corpus material. SKIP deepening.
 
 ## Sources
 - [TAH #1936 encyclopedia: 1936. Jason Jung 莊吉生](https://taiwaneseamericanhistory.org/whos-who-1936-jason-jung/)

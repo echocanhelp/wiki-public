@@ -57,3 +57,4 @@ last_reviewed: 2026-09-21
 複核（deepen-x 2026-09-19）：corpus re-grep（works+articles）命中集合與前次相同（ourjourneys69/-eng、ourjourneys233/-eng、whoswho2113、whos-who-2160），全數已吸收並 wikilink（含 Northern/南部 HOLD），無新增社群材料。
 複核（deepen-x 2026-09-20）：corpus re-grep 命中集合不變，本次補上 ourjourneys69-eng 英文版直接 wikilink（HOLD 雙邊錨定），無新增社群材料。
 複核（deepen-x 2026-09-21）：corpus re-grep（蔡丁財 / David Tsay，works+articles）命中集合不變（ourjourneys69/-eng、ourjourneys233/-eng、whoswho2113、whos-who-2160、86-dr-david-tsay、index）— 全數已吸收，verified-saturated，無新增社群材料。
+複核（deepen-x 2026-09-22, slice 09211500-8）：corpus re-grep 命中集合不變，verified-saturated，無新增社群材料。

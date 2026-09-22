@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # Scott Lee (李捷琦)
 
@@ -39,6 +39,7 @@ _No filled family fields on the TAH profile._
 - **Family／連帶**：pathology memoir《從基礎醫學到病理，留美四十年回顧》（2016-02，[[works/taiwaneseamericanhistory-org/mystories397|TAH #397]]）作者、病理學家李慶榮（[[people/ching-yung-lee|Ching Yung Lee 李慶榮]]）記載其為李慶榮之子。
 - TAH 語料庫另有兩筆本人演奏紀錄，皆為書目性紀錄、正文存於 TAH vault：[[works/taiwaneseamericanhistory-org/568-scott-lee-e6-9d-8e-e6-8d-b7-e7-90-a6-201509|TAH #568 Scott Lee 李捷琦 / 2015-09]]、[[works/taiwaneseamericanhistory-org/285-scott-lee-e6-9d-8e-e6-8d-b7-e7-90-a6-ef-bc-8c-viola-201509|TAH #285 Scott Lee 李捷琦, Viola / 2015-09]]。
 - Re-grep 2026-09-20 (slice 09190400-9): corpus scan of works/articles returns only the works index plus his own two bibliographic records (now wikilinked with corrected existing slugs); no memoir or movement-activity material to absorb. Existing Role-in-the-Community facts stand, no conflicts found.
+- Re-grep 2026-09-22 (slice 09211400-28): hit set identical (works index + own two bibliographic records, both already linked). No new corpus material — SKIP deepening.
 
 ## Sources
 - [TAH #568 encyclopedia: 568. Scott Lee 李捷琦 / 2015/09](https://taiwaneseamericanhistory.org/568-scott-lee-%e6%9d%8e%e6%8d%b7%e7%90%a6-201509/)

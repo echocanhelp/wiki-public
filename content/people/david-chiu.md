@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # David Chiu (邱信福)
 
@@ -48,3 +48,4 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+複核（deepen-x 2026-09-22 slice-12）：再次 re-grep（ZH+EN, works+articles）命中集合與前次完全相同，全部已 wikilink 吸收 — 飽和，無新增社群材料。

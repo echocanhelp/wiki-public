@@ -38,6 +38,9 @@ name_en: "Hou Yu-ih"
 - [[articles/taiwanjustice-net/2026/20260211093804_李眉蓁論文被指涉抄襲_中山大學_將成立審定委_d1bf9b011e2c9ae1|李眉蓁論文被指涉抄襲（TJJ 轉載中央社, 2020-07-20）]] — 2020 高雄補選期間的輔選記錄：李眉蓁陣營表示侯友宜「大概8月多」將南下輔選、「對方很積極想幫忙」，韓國瑜部分仍在聯繫——archive 中侯的另一則地方選舉互動記錄。
 - Corpus re-grep (2026-09-20): hit set unchanged — all works/articles hits remain taiwanjustice.net press coverage; zero hits in content/works (diaspora memoirs). SKIP further expansion: HOLD until a primary source enters the vault.
 - Corpus re-grep (2026-09-22, slice 09211123-3): hit set unchanged again — same 5 taiwanjustice.net articles above, 0 hits in content/works. Nothing absorbable from diaspora memoirs; SKIP expansion, HOLD.
+- [[articles/taiwanjustice-net/2021/20210415104811_2021_02_27_時力衝刺藻礁公投_籲侯友宜對台北港方案表態-政_f88a1393d0113362|時力衝刺藻礁公投，籲侯友宜對台北港方案表態（2021-02-27）]] — 時代力量主席陳椒華 pushes the 珍愛藻礁 second-stage referendum (target 350,000 signatures by 2021-03-10) and publicly calls on New Taipei Mayor Hou to take a position on the 台北港 alternative to the 觀塘 third LNG terminal; the archive records Hou being pressed on the 藻礁 issue.
+- [[articles/taiwanjustice-net/2021/20211028195114_2021_09_25_朱立倫回鍋國民黨主席_學者_親中標籤難撕恐走_7e44fb0bbad7a9f6|朱立倫回鍋國民黨主席 — 學者：親中標籤難撕（2021-09-25）]] — 東海大學 邱師儀's analysis in the TJJ corpus: Hou is 國民黨內目前最有實力的總統候選人 for 2024, and 朱立倫 would need to weaken 侯友宜's 戰力 first; frames Hou within the party's 親中-label problem.
+- Corpus re-grep (2026-09-22, slice 09211500-8): 362 taiwanjustice.net article files mention 侯友宜 — all press coverage, 0 hits in content/works (diaspora memoirs). Two previously unlinked articles absorbed above; page remains HOLD for biography expansion.
 
 ## Related Pages
 

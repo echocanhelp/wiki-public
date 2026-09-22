@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # North America Taiwanese Women’s Association – St. Louis Chapter (北美洲台灣婦女會聖路易分會)
 
@@ -29,6 +29,8 @@ The chapter's own activities are documented first-hand in the TAH story corpus (
 Context note: St. Louis's older Taiwanese professional organizing (NATMA's St. Louis chapter, per the 周烒明 memoir) predates this women's chapter; the NATWA chapter continues that civic tradition focused on service and cultural presence.
 
 Corpus re-grep 2026-09-21: additional NATWA-wide records only (1992 聯誼通訊第七期, the 2017 Hurricane Harvey relief co-donation of $21,090, other chapters' profiles) — organization-level, not St. Louis chapter first-hand material. No new chapter-specific material; SKIP deepening.
+
+Re-grep 2026-09-22 (slice 09211400-28): same hit set — the chapter's own four records (all linked above) plus NATMA St. Louis / Our Journeys context records already covered by the context note. SKIP deepening.
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/north-america-taiwanese-womens-association-st-louis-chapter/)

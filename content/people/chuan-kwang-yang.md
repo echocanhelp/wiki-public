@@ -58,3 +58,4 @@ last_reviewed: 2026-09-22
 
 複核（deepen-x 2026-09-19）：corpus re-grep（works+articles）命中集合與前次相同（ff374、videos115、whos-who-2152、TJJ 紀政告），全數已吸收並 wikilink，無新增社群材料。
 複核（deepen-x 2026-09-21）：再 grep（楊傳廣 / Chuan-Kwang Yang / C.K. Yang, works+articles）命中集合不變（ff374、videos115、whos-who-2152、works index 行、TJJ 紀政告），全數已吸收 — 飽和，無新材料。
+複核（deepen-x 2026-09-22 slice-12）：再次 re-grep（ZH+EN, works+articles）命中集合與前次完全相同，全部已 wikilink 吸收 — 飽和，無新增社群材料。
