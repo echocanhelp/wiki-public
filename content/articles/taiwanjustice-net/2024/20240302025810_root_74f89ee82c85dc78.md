@@ -95,7 +95,7 @@ Katy Thornberry McNulty
 飛蛾，為何撲火？因為，光，在哪裡。
 
 ## Subjects
-- [[people/milo-thornberry.md|Milo Thornberry]] — mentioned in this record
-- [[people/prof-ming-min-peng.md|彭明敏教授]] — mentioned in this record
-- [[people/tsung-ming-hsieh.md|謝聰敏]] — mentioned in this record
+- [[people/milo-thornberry|Milo Thornberry]] — mentioned in this record
+- [[people/prof-ming-min-peng|彭明敏教授]] — mentioned in this record
+- [[people/tsung-ming-hsieh|謝聰敏]] — mentioned in this record
 

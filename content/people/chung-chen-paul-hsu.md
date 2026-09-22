@@ -56,3 +56,4 @@ last_reviewed: 2026-09-22
 - Slice deepen-x-slice-09180131-14 覆核（2026-09-18）：再檢結果相同 — 僅已引用之 ff42、whos-who-262、36、ourjourneys123 及索引行，無新增回憶錄材料。SKIP-with-reason。Slice deepen-x-slice-09181500-10 覆核（2026-09-20）：再檢結果相同（ff42、whos-who-262、36、ourjourneys123 皆已引用）— SKIP。
 - Slice deepen-x-slice-09201300-9 覆核（2026-09-21）：再檢 works+articles，命中僅已引用之 ff42、36、whos-who-262、ourjourneys123、whoswho1320（同名 HOLD）及索引行，無新增回憶錄材料。SKIP-with-reason（飽和）。
 - Slice deepen-x-slice-09211300-8 覆核（2026-09-22）：再檢 works+articles，命中僅已引用之 ff42、36、whos-who-262、ourjourneys123 及索引行，無新增回憶錄材料。SKIP-with-reason（飽和；同名 HOLD 維持）。
+- Slice deepen-x-slice-09220800-5 覆核（2026-09-22）：re-grep 許忠政 / Chung Chen 命中僅已引用之 ff42、36、whos-who-262、ourjourneys123 及索引行，無新增回憶錄材料。SKIP-with-reason（飽和；Paul Hsu 同名 HOLD 維持）。

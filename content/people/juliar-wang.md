@@ -48,6 +48,7 @@ Source from 美洲台灣日報http://taiwandaily.net/gp2.aspx?_p=kSF1c9zU9HS21FC
 - 異寫記錄：本頁漢名記「謝綉緞」，台灣公義報存檔一律作「謝秀緞」（綉/秀異體），指同一人。
 - 多肉植物講座另見兩份台灣公義報「園藝」分類存檔快照（[[articles/taiwanjustice-net/2023/20231208120554_root_46c96aaab38ad7f2|TJJ 園藝存檔, 2023-12-08 快照]]、[[articles/taiwanjustice-net/2025/20250419184950_category_gardenning_538a0cc060a27a5c|TJJ 園藝存檔, 2025-04-19 快照]]），兩份均將「多肉植物 succulent–謝秀緞 (Juliar Wang) 主講[影]」列於 2021-07-18 項下。HOLD: 本頁上方依 2024-02-24 快照記為 2021-05-06，較新快照一律作 2021-07-18（May 6, 2021 該列實為另一篇「全球暖化危及物種」），講座日期衝突，未自動合併。
 - Re-verify 2026-09-22 (TJJ-A09220600-1): link-check against slice article f454eda084b7ca99（園藝分類 2024-02-24 快照）body — 「多肉植物 succulent–謝秀緞 (Juliar Wang) 主講」mention confirmed real, dated fact with article wikilink already in place above; no new material.
+- 複核（deepen-x slice 09220800-5，2026-09-22）：re-grep 謝綉緞/謝秀緞 / Juliar Wang 命中集不變（whos-who-2043、works index、WHA 聯合聲明 2021/2025 快照、園藝分類 2023/2024/2025 快照、台美人專欄存檔）— 全數已吸收，講座日期 HOLD（2021-05-06 vs 2021-07-18）維持，saturated，SKIP-with-reason。
 
 ## Sources
 - [TAH #2043 encyclopedia: 2043. Juliar Wang 謝綉緞](https://taiwaneseamericanhistory.org/whos-who-2043-juliar-wang/)
