@@ -32,3 +32,4 @@ The Taiwanese American Student Association (TASA) at the University of Californi
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 Corpus re-check 2026-09-22 (deepen-x slice 09210700-26): fresh grep found a direct UCSD TASA record (Mr. & Ms. Formosa Culture Pageant, 2012) — absorbed above; other corpus TASA hits remain the Taiwanese-America Seniors Association of Southern California and ITASA (different organizations).
+Corpus re-check 2026-09-22 (deepen-x slice 09220400-5): fresh grep surfaced the band-A Ho Chie interview (Girl Power…, 2010-03-19) with first-person UCSD TASA growth testimony — absorbed above.

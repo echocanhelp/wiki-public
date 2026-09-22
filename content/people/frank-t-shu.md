@@ -33,6 +33,7 @@ last_reviewed: 2026-09-22
 - **Corporate career:** management science and industrial research; 23 years at Mobil Oil Company (美浮石油) in the US, described in his own memoir as Long Term Planning Manager (operations research) in HQ planning. HOLD: TAH Who's Who table lists 美浮石油公司 副總經理 vs the memoir's 企劃部經理.
 - Corpus Who's Who record: [[works/taiwaneseamericanhistory-org/whos-frank-t-shu|TAH #782 Frank T. Shu 許子津 / 01/2016]].
 - Disambiguation: distinct from [[works/taiwaneseamericanhistory-org/whos-who-1701-frank-hsu|TAH #1701 Prof. Frank Hsu 許德標]].
+- 2026-09-22 re-grep (許子津 / Frank T. Shu / Frank Hsu, slice 09220400-5): same hit set (ff335, ourjourneys255, ourjourneys282, whos-frank-t-shu, whos-who-1701) — all already absorbed above; verified-saturated.
 
 ## Family
 

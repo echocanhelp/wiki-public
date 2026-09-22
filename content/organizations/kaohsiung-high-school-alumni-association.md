@@ -26,7 +26,7 @@ last_reviewed: 2026-09-22
 - Corpus memoir [[works/taiwaneseamericanhistory-org/ourjourneys283|ourjourneys283]] places a 高雄中學 alumnus (吳瑞信) among the LA hosts for the blacklist-era US speaking tour of 黃春明 (arranged via 全美會) — an alumni-network anecdote; individual chapter membership not asserted.
 - HOLD: naming variant — Taiwan Center listing uses 北美洲高雄中學高雄女中聯合校友會; the 2014 TAHS record titles the body 旅美高雄中學校友會. Never auto-merged; both names recorded as attested.
 - Co-initiating organization (共同發起單位) of the 2021-05-13 Southern California Chinese-community joint statement supporting Taiwan's participation in the WHA, listed as 南加州雄中雄女校友會 — corpus record [[articles/taiwanjustice-net/2021/20210616072940_2021_05_17_2021年南加州僑界支持台灣參與世界衛生大會wha聯合聲_b1d58af16c0a5e5b|2021年南加州僑界支持台灣參與WHA聯合聲明]]. Event-level SoCal chapter activity, consistent with the 2015 南加州 record above. The statement also circulates as a 2025 repost of the same write-up (`articles/taiwanjustice-net/2025/20251108183438_…_80c0a825a7a661b6.md`) — same record, no new facts.
-- 2026-09-22 re-grep (高雄中學校友 / 雄中雄女): same hit set (us-kshs, sc-kh, enewsletters-khsaa, index, 2021 WHA statement + 2025 repost) — nothing new absorbable.
+- 2026-09-22 re-grep ×2 (高雄中學校友 / 雄中雄女 / KHSAA, slices 09210700 and 09220400-5): same hit set (us-kshs, sc-kh, enewsletters-khsaa, index, 2021 WHA statement + 2025 repost) — nothing new absorbable; verified-saturated.
 
 ## Source Notes
 

@@ -41,6 +41,8 @@ _No filled family fields on the TAH profile._
 - HOLD: conflict in the #272 memoir itself — the narrative dates the founding convening meeting 1982-01-21, but the same memoir later refers to "the first meeting (1/21/81)". Not auto-merged; both dates preserved pending confirmation (possibly a ROC-year conversion slip, 民國71 = 1982).
 - HOLD: name-abbreviation collision — TAH Who's Who #1560 「Y.C. Hsu 許英智」 (2017/03, [[works/taiwaneseamericanhistory-org/whoswho1560|whoswho1560]]) is a *different* person with the same English initials; do not merge their records.
 
+> Corpus re-verify (deepen-x 09220400-10): fresh grep of works/ + articles/ for 許耀慶 / Y. C. Hsu returned only records already cited above (ourjourneys186/-eng, ourjourneys272/-eng, whoswho1244, whoswho1560 collision note). SKIP-deepen; nothing new absorbable.
+
 ## Sources
 - [TAH #1244 encyclopedia: 1244. Y. C. Hsu 許耀慶 / 2016/08](https://taiwaneseamericanhistory.org/whoswho1244/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/y-c-hsu/)
