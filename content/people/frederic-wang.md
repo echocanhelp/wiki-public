@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # Frederic Wang (王穎裕)
 
@@ -42,7 +42,7 @@ Corpus-linked (absorbed 2026-09-18), outranking the press-kit bio:
 - His own TAH encyclopedia entry is held in the corpus as [[works/taiwaneseamericanhistory-org/whoswho1379|1379. Frederic Wang 王穎裕]] (2016-11-06).
 
 Note: the press-kit Snapshot says "Era: 1932" but lists a 1960 Ph.D.; no corpus record fixes a birth year, so the era stays as recorded.
-Corpus sweeps 2026-09-20 and 2026-09-21: the only works naming him are OJ#138 and his own encyclopedia entry #1379, both already absorbed above — no new community facts.
+Corpus sweeps 2026-09-20, 2026-09-21 and 2026-09-22: the only works naming him are OJ#138 and his own encyclopedia entry #1379, both already absorbed above — no new community facts.
 
 ## Family
 
