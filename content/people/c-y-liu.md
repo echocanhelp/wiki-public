@@ -25,6 +25,9 @@ last_reviewed: 2026-09-22
 - 台灣大學 — B.S.法律
 <!-- tah-tables:end -->
 
+## Role in the Community
+- Listed in the TAH Foundation Who's Who profile record [[works/taiwaneseamericanhistory-org/whoswho1160|1160. C. Y. Liu 劉晴吟 / 2016/07]] (published 2016-07-20): 台大法律系畢業, 台北出身, 嫁 Joel Doughten. Fresh grep (ZH+EN) against works/ and articles/ found no further corpus mentions in memoirs — biographical detail beyond the TAH profile remains unknown.
+
 ## Family
 
 - **Husband:** Joel Doughten

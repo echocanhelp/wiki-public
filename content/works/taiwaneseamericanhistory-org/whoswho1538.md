@@ -32,6 +32,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2017-02-27 — published
 
 ## Subjects
+- [[people/m-k-lin|M. K. Lin 林明昆]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages
