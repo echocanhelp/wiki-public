@@ -46,6 +46,7 @@ _No filled family fields on the TAH profile._
 ## From the record
 
 - 約2019 — 信雅伉儷之友人Kris徐謙讓來訪，見其五十年33轉唱片與CD收藏後允代探詢返台捐贈方案，促成全數捐贈台南市許石音樂圖書館（2021-10-15啟用）—— [[articles/taiwanjustice-net/2021/20211207112750_2021_10_16_週末漫談音樂-88_信雅古典音樂珍藏_啟用儀_77b0891ec24689f9|TJJ 週末漫談音樂(88), 2021-10-16]]。
+- Re-check 2026-09-21 (slice 09210317-23): fresh grep 徐謙讓/Kris Hsu returns the same corpus set — own [[works/taiwaneseamericanhistory-org/whos-who-2157-kris-hsu|TAH #2157]] record plus the two 信雅 donation memoirs (TJJ 週末漫談音樂 38 & 88), already fully absorbed above; no new community facts.
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
