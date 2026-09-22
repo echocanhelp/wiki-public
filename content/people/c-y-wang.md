@@ -25,6 +25,7 @@ C. Y. Wang (王振源) is listed in the TAH Foundation Who’s Who Taiwanese Ame
 
 - 2011-10 → 11 — The TJJ movement record preserves two 《好國好民》Dear Taiwan notices naming 王振源 as co-producer (with director 陳麗貴) and US coordinator (with 黃泰郎、周明宏): the 2011-10-15 announcement of the 波士頓 (10/22) and 北卡 (11/5) premieres ([[articles/taiwanjustice-net/2024/20240718223218_root_b5e568ec43e787f1|TJJ 2011-10-15]]) and the 2011-11-08 full US screening schedule — 羅德島 Brown、芝加哥 Northwestern、亞特蘭大、紐約、聖地牙哥、橘縣、聖荷西 等地 ([[articles/taiwanjustice-net/2024/20240719002430_root_1f001897255f71a7|TJJ 2011-11-08]]); screenings were hosted by the film's English translators 張皓博 and 鍾佳君.
 - 2011 — Co-producer (with director 陳麗貴) of the documentary《好國好民》Dear Taiwan —完整版 81 分鐘、剪短版 43 分鐘，記錄范姜、魚仔林、林昶佐、大支等各領域台灣青年世代 — and US coordinator (with 黃泰郎、周明宏) for its nationwide eight-city screening-and-talk circuit（[[works/taiwaneseamericanhistory-org/whoswho1577|TAH #1577]]）.
+- 2026-09-22（slice 09220500-10）再grep（王振源／C. Y. Wang）：命中仍僅 [[works/taiwaneseamericanhistory-org/whoswho1577|TAH #1577]]、works/index.md 與《好國好民》兩篇 TJJ 放映紀錄；全部語料事實已吸收於上。verified-saturated。
 
 ## Family
 

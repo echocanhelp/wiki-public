@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # I-Chun Catherine Chang (張儀君教授)
 
@@ -38,6 +38,10 @@ I-Chun (Catherine) Chang 張儀君教授 – History of Taiwanese American (T.A.
 
 - **Husband:** Aspen Chen
 
+
+## Corpus review
+
+- Corpus check 2026-09-22 (deepen-x slice 14): re-grepped works+articles for 張儀君 / Catherine Chang / I-Chun — hits are own profile record whos-who-2129 (already linked), works/index, and false positives (267-i-chunn-lee-pianist 李玉娟, ourjourneys 英譯頁命中泛詞 I-Chun); no new absorbable community facts beyond the Our Journeys 218 exhibit already absorbed above.
 
 ## Sources
 - [TAH #2129 encyclopedia: 2129. I-Chun (Catherine) Chang 張儀君教授](https://taiwaneseamericanhistory.org/whos-who-2129-i-chun-chang/)

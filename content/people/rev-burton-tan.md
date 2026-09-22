@@ -39,6 +39,10 @@ last_reviewed: 2026-09-22
 - Religion-track speaker at the 16th 世界台灣人大会 (1994-07-08–10, University of Georgia, Athens GA; hosted by the North Carolina Taiwanese community, theme 「台灣文化與教育的展望」), alongside 李喬、楊青矗、林衡哲、陳明仁、鄭邦鎮 and others — early movement religious representation ([[works/taiwaneseamericanhistory-org/ourjourneys245|Our Journeys #245]]).
 - Listed among signatories as "Burton Tan, Taiwanese Christian Church" in the Taiwanese American statement corpus ([[works/taiwaneseamerican-org/pew-research-center-taiwanese-american-statement|TA statement record]]), consistent with his pastoral identity across the NY-area Taiwanese church community.
 
+## Corpus review
+
+- Corpus check 2026-09-22 (deepen-x slice 14): re-grepped works+articles for Burton Tan / 陳柏壽 — hits are whos-who-1663, ourjourneys245, pew-research-center-taiwanese-american-statement, works/index, and the 2021-06-29 TJJ 台文通訊30週年 article — all already absorbed into Role in the Community / From the record above; no new absorbable facts.
+
 ## Sources
 - [TAH #1663 encyclopedia: 1663. Rev. Burton Tan 陳柏壽牧師](https://taiwaneseamericanhistory.org/whos-who-1663-burton-tan/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/rev-burton-tan/)

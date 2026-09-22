@@ -44,6 +44,10 @@ last_reviewed: 2026-09-22
 - **TAH 台美人回憶錄作者** — her memoir essay 「失與得」 appeared in 2016/09: [[works/taiwaneseamericanhistory-org/mystoreis459|459. 失與得 / 黃美琇 / 09/2016]]; her Who's Who entry is [[works/taiwaneseamericanhistory-org/whos796-agnes-hsiao|796. Agnes Hsiao 黃美琇 / 2016/02]].
 - **美東台美人社團** — recorded as a newly joined member alongside 李碧娥、陳堅 during East Coast community discussions that also covered 美東夏令會 formats (see [[works/taiwaneseamericanhistory-org/ourjourneys265|Our Journeys 265]]).
 
+## Corpus review
+
+- 本頁 corpus 檢索（2026-09-22, DEEPEN-X slice 09220500-13）：works/articles 檢索 黃美琇／Agnes Hsiao 無命中（已收錄的 Our Journeys 30／265、memoir #459、Who's Who #796 均為書目記錄，全文留在 vault）— 已飽和，無新可吸收社群事實，無衝突需 HOLD。
+
 ## Sources
 - [TAH #796 encyclopedia: 796. Agnes Hsiao 黃美琇 / 2016/02](https://taiwaneseamericanhistory.org/whos796-agnes-hsiao/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/agnes-hsiao/)

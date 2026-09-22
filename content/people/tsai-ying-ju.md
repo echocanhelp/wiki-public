@@ -30,5 +30,9 @@ last_reviewed: 2026-09-22
 - Family business history: [[organizations/good-shine-kitchen]] (sold to Jiping Sun, no family relation).
 - **2026-09-19/20** — Photographed with her husband [[people/ahhee-hsu||許丕龍]] and Rev. Hung-Jen Liu (劉弘仁, PC(USA) Presbytery of San Francisco) at the PC(USA) Desert Springs weekend retreat, Southern California (~400 attendees). Photo in corpus custody: `knowledge/interactions/photos/2026-09-desert-springs-retreat-hsu-parents-with-rev-hung-jen-liu.jpg` (publication pending owner consent; page itself gated `publish: false` until owner GO).
 
+## Corpus review
+
+- 本頁 corpus 檢索（2026-09-22, DEEPEN-X slice 09220500-13）：works/articles 檢索 蔡瀛如／Tsai Ying-ju 無新增命中；既有社群事實均已吸收自上列引用（ourjourneys340、民報 via 景淳頁）— SKIP：無新可吸收事實，無衝突需 HOLD。
+
 ## NEED YOU
 - Birth date/place; marriage date

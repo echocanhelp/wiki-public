@@ -39,7 +39,7 @@ last_reviewed: 2026-09-22
 
 ## Corpus review
 
-- 本頁 corpus 檢索（2026-09-21）：命中僅本人 own page（TAH #697）、works index 及已收錄之 2018-07-20 台大校友連署公開信（署名葉秀卿(外文)，與外文系學歷互證），無新可吸收社群事實 — SKIP。
+- 本頁 corpus 檢索（2026-09-21、2026-09-22 覆核）：命中僅本人 own page（TAH #697）、works index 及已收錄之 2018-07-20 台大校友連署公開信（署名葉秀卿(外文)，與外文系學歷互證），無新可吸收社群事實 — SKIP。
 
 ## Sources
 - [TAH #697 encyclopedia: 697. Hsiu-Chine Yeh Wang 葉秀卿 /2015/11](https://taiwaneseamericanhistory.org/697-hsiu-chine-yeh-wang-%e8%91%89%e7%a7%80%e5%8d%bf-201511/)
