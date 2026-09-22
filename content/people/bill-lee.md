@@ -37,7 +37,7 @@ last_reviewed: 2026-09-22
 - Bill Lee's own TAH encyclopedia entry is held in the corpus as [[works/taiwaneseamericanhistory-org/whoswho1601|1601. Bill Lee 李君偉 / 2017/04]] (published 2017-04-09, value band B).
 - No memoir/first-person corpus material beyond the TAH record itself; the family marriage note (Sarah Gore Lee, daughter of US Vice President Al Gore) comes from the TAH profile and is unverified elsewhere in the corpus — HOLD: press-kit claim, no community-corpus corroboration.
 
-> Re-verified 2026-09-21 (slice 09200600-25): SKIP — fresh grep of works/articles hits only [[works/taiwaneseamericanhistory-org/whoswho1601|TAH #1601]] and index rows; no memoir material to absorb.
+> Re-verified 2026-09-21 (slice 09200600-25); re-verified again 2026-09-22 (slice 09210831-22): SKIP — fresh grep of works/articles hits only [[works/taiwaneseamericanhistory-org/whoswho1601|TAH #1601]] and index rows; no memoir material to absorb.
 
 ## Sources
 - [TAH #1601 encyclopedia: 1601. Bill Lee 李君偉 / 2017/04](https://taiwaneseamericanhistory.org/whoswho1601/)

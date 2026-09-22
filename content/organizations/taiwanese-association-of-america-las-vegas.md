@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # Taiwanese Association of America Las Vegas (拉斯維加斯)
 
@@ -29,6 +29,9 @@ The Taiwanese Association of America Las Vegas (TAALV, 拉斯維加斯 台灣同
 - In December 2016 the Vegas chapter's community scene hosted the TPC (南加州台灣人基督長老教會聯合會) "The Voices of Christmas 聖誕之聲" concert, whose tour included a Las Vegas, NV performance on 12/17/2016 ([[works/taiwaneseamericanhistory-org/concerts83|TAH #83 聖誕之聲 Las Vegas]]), alongside the NATMA annual convention earlier that October — evidence of an active broader Taiwanese-heritage community in the area.
 
 - Community-pressure episode recorded in the 世台會 corpus: after the 世台會 third annual convention, a dissenting group of attendees reportedly left before it ended, going to Chinatown and then on a 「建功宴」 trip to Las Vegas, paid with membership dues — a grievance documented in the convention report ([[works/taiwaneseamericanhistory-org/ourjourneys283|283. 世台會第二、三屆年會報告 / 吳木盛 / 04/2017]]).
+- Taiwanese-heritage institutional footprint in Vegas: the corpus holds a record of the Taiwanese American Presbyterian Church of Las Vegas 台美基督長老教會 ([[works/taiwaneseamericanhistory-org/taiwanese-american-presbyterian-church-of-las-vegas|Taiwanese American Presbyterian Church of Las Vegas]], 2016-05-12) — a second Vegas-area Taiwanese community institution alongside the chamber and the TAA chapter.
+- Demographic context for the Vegas Taiwanese community: 中西部台灣人夏令會's own history attributes the Midwest movement's decline partly to retirees relocating to warmer regions including Nevada (Las Vegas) ([[works/taiwaneseamericanhistory-org/our-journeys-376|376. 中西部台灣人夏令會簡史 / 08/2021]], 2021) — i.e. the Vegas-area population partially grew from older movement veterans.
+- 2022 note recorded in the corpus: the shooter in the Irvine 台灣基督長老教會 attack (1死5傷, Dr. John Cheng killed) was reported as coming from Las Vegas — David Chou, described as politically motivated and hostile to the Taiwanese community ([[works/taiwaneseamericanhistory-org/our-journeys-380|380. Irvine台灣基督長老教會槍擊案 / 05/2022]], 2022; coverage also in [[works/taiwanjustice-net/2022/20220516_南加州教會槍殺案_駐處查證_凶嫌為台灣移民_8c20569762592915|台灣公義日報 coverage]]). Recorded as external fact affecting how the Vegas community was perceived; no organizational link to the chapter is claimed.
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-association-of-america-las-vegas/)
