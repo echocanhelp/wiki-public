@@ -42,3 +42,7 @@ The Taiwanese Association of Alabama Birmingham (伯明罕臺灣同鄉會) is a 
 
 - SKIP-with-reason (re-checked 2026-09-21): grep 伯明罕臺灣同鄉會 / "Taiwanese Association of Alabama" / Birmingham across content/works + content/articles again zero chapter-specific hits — still no memoir/activity material.
 - Sister-organization context (vault-internal, directory records only): TAH holds parallel Alabama directory records [[works/taiwaneseamericanhistory-org/alabama-central-taa|TAA-Alabama Central 台灣同鄉會阿拉巴馬中部分會]] and [[works/taiwaneseamericanhistory-org/2-alabama-chapter-fapa|2. Alabama Chapter / FAPA 台灣人公共事務會阿拉巴馬州分會]] — places the Birmingham chapter within a documented multi-org Alabama scene, but neither names the Birmingham chapter itself.
+
+## Corpus review (slice 09212352-14)
+
+- SKIP-with-reason (re-checked 2026-09-22): grep 伯明罕 / "Taiwanese Association of Alabama" / Birmingham across works/ + articles/ — no chapter-specific memoir hits. The one memoir match ([[works/taiwaneseamerican-org/belonging-immigration-hsin-i-cheng|Belonging & Immigration, Hsin-I Cheng]]) is a quotation of Dr. King's "Letter from Birmingham Jail", not the 同鄉會; remaining hits are unrelated taiwanjustice.net news items mentioning Birmingham as geography. Nothing absorbable.
