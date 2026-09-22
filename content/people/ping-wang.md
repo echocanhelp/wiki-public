@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # Ping Wang (王秉訓)
 
@@ -32,6 +32,11 @@ last_reviewed: 2026-09-21
 ## Family
 
 _No filled family fields on the TAH profile._
+
+## Role in the Community
+- Community-facing footprint in the corpus is his popular medical writing: the 糖尿病與你 lecture record (2019-10-30, 吳瑞惠撰) published on 台灣公義網 ([[articles/taiwanjustice-net/2024/20240522045150_root_26f763595b5ce4fb|TJJ, 2019-10-31]]) and archived under the 保健 category page alongside 鄭炳全、李堅、楊遠薰、唐培理 ([[articles/taiwanjustice-net/2024/20240421172838_root_f74e3a075f079fdb|TJJ 保健類目, 2024-04-21 存檔]]) — he brought diabetes and 數據醫學 education to the TA community audience.
+- Directory/biographic record: TAH #1194 encyclopedia entry ([[works/taiwaneseamericanhistory-org/whoswho1194|1194. Ping Wang 王秉訓 / 2016/07]]).
+- Re-grep 2026-09-22 (slice 09210500-26): the only other works-layer hit, [[works/taiwaneseamericanhistory-org/200-hann-ping-wang-e7-8e-8b-e6-bc-a2-e5-b9-b3201501|200. Hann-Ping Wang 王漢平 / 2015/01]], is a different person (王漢平, matched on the romanization "Ping Wang" only) — not absorbed. No memoir authoring his community role is in the vault yet.
 
 ## Sources
 - [TAH #1194 encyclopedia: 1194. Ping Wang 王秉訓 / 2016/07](https://taiwaneseamericanhistory.org/whoswho1194/)
