@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # Sun Ten Museum (順天美術館)
 
@@ -26,7 +26,7 @@ Sun Ten Museum is a nonprofit fine arts museum located in Irvine, California, fo
 - 2019 — the same donation covered by community record [[works/taiwaneseamericanhistory-org/videos143|143. 順天美術館藏橫跨一世紀 慨贈逾600件畫作「回家」]].
 - 2019 — collection shown in the 告別鄉親美東巡迴展, documented at [[works/taiwaneseamericanhistory-org/art-exhibitions37|37. 順天美術館藏品展—告別鄉親美東巡廻展]].
 
-Re-verified 2026-09-21 (slice 09201400-23): corpus re-grep (works/articles) returns exactly the six records already documented in the Timeline above (art-exhibitions-2, ourjourneys107, history-of-sun-ten-museum, 13-shun-tien-art-museum-donates, videos143, art-exhibitions37) — no new memoir or event mention of 順天美術館; verify-saturated.
+Re-verified 2026-09-22 (slice 09211400-10): corpus re-grep (works/articles) returns exactly the six records already documented in the Timeline above (art-exhibitions-2, ourjourneys107, history-of-sun-ten-museum, 13-shun-tien-art-museum-donates, videos143, art-exhibitions37) — no new memoir or event mention of 順天美術館; verify-saturated.
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/sun-ten-museum/)

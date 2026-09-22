@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # Taiwanese Association of the Greater Salt Lake (大鹽湖)
 
@@ -28,7 +28,7 @@ Absorbed from the TAH story corpus (salt-lake/utah re-grep 2026-09-18). The chap
 
 ## Corpus Check
 
-- Re-verified 2026-09-21 (slice 09201400-22): re-grep of content/works + content/articles returns only the records already linked/absorbed above — no new corpus mention; SKIP-with-reason (verify-saturated). The TAGSL work page is a bibliographic record only (no named subjects to absorb); president/ecosystem facts above unchanged.
+- Re-verified 2026-09-22 (slice 09211400-10): re-grep of content/works + content/articles returns only the records already linked/absorbed above — no new corpus mention; SKIP-with-reason (verify-saturated). The TAGSL work page is a bibliographic record only (no named subjects to absorb); president/ecosystem facts above unchanged.
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-association-of-the-greater-salt-lake/)

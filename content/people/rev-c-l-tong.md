@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # Rev. C. L. Tong (董俊蘭牧師)
 
@@ -53,4 +53,4 @@ _No filled family fields on the TAH profile._
 
 last_reviewed note: corpus-absorbed 2026-09-17; re-verified 2026-09-18 (deepen-x) — corpus re-grep returns only ourjourneys14, ourjourneys43 and the #1698 profile, all already linked above; nothing further absorbable.
 
-slice 09190130-8 / 09201400-18 re-grep (2026-09-20, 2026-09-21): corpus hit set identical to links already absorbed above (ourjourneys14, ourjourneys43, #1698) — no new absorbable facts. SKIP (saturated).
+slice 09190130-8 / 09201400-18 / 09211400-10 re-grep (through 2026-09-22): corpus hit set identical to links already absorbed above (ourjourneys14, ourjourneys43, #1698) — no new absorbable facts. SKIP (saturated).

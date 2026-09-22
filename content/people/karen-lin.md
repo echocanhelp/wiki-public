@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # Karen Lin (林璇雯)
 
@@ -48,3 +48,4 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- Corpus re-grep 2026-09-22 (slice 09211400-12): grep 林璇雯 / Karen Lin across works + articles returns exactly the records already linked above (own TAH records, #128 concert review, #123 chronicle, #243 memoir caption). No new absorbable community facts; saturated.
