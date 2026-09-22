@@ -52,3 +52,4 @@ _No filled family fields on the TAH profile._
 - Corpus re-grep (slice deepen-x-slice-09181500-12, 2026-09-20): hit set unchanged (#153, #383, Our Journeys 306, index) — all already absorbed above. SKIP-with-reason.
 - Corpus re-grep (slice deepen-x-slice-09201400-8, 2026-09-21): hit set unchanged (#153, #383, Our Journeys 306, index) — saturated, SKIP-with-reason.
 - Corpus re-grep (slice deepen-x-slice-09211300-10, 2026-09-22): hit set unchanged (#153, #383, Our Journeys 306, index) — saturated, SKIP-with-reason.
+- Corpus re-grep (slice deepen-x-slice-09220700-7, 2026-09-22): hit set unchanged (#153, #383, Our Journeys 306, index) — saturated, SKIP-with-reason.

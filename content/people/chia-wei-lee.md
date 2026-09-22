@@ -58,3 +58,4 @@ _No filled family fields on the TAH profile._
 - 複核（deepen-x slice-09181500-8, 2026-09-20）：re-grep 命中集不變（僅本人 TAH 書目記錄＋index）— SKIP-with-reason：無可吸收之回憶錄/社群語料，既有連結與 HOLD 維持。
 - 複核（deepen-x slice-09201300-6, 2026-09-21）：re-grep 命中集不變（僅本人 TAH #527／#258 書目記錄＋index）— SKIP-with-reason：無可吸收之回憶錄/社群語料。
 - 複核（deepen-x slice-09211300-6, 2026-09-22）：re-grep 命中集不變（僅 #527、#258、index）— SKIP-with-reason：無可吸收之回憶錄/社群語料。
+- 複核（deepen-x slice-09220700-3, 2026-09-22）：re-grep 命中集不變（僅本人 TAH #527／#258 書目記錄＋index）— SKIP-with-reason：無可吸收之回憶錄/社群語料，無衝突需 HOLD。

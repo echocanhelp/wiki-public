@@ -50,3 +50,4 @@ _No filled family fields on the TAH profile._
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - Corpus re-check (deepen-x slice-09211200-3, 2026-09-22): fresh grep 夏叔安|SueAnn Shiah returns only the three already-cited records (TAH #1613, her own taiwaneseamerican-org essay, Laguna Woods church-shooting piece) — all wikilinked and absorbed above; no new community/memoir material, no new conflicts to hold.
+- Corpus re-check (deepen-x slice-09220700-7, 2026-09-22): fresh grep 夏叔安|SueAnn Shiah returns the same four files (TAH #1613, her own taiwaneseamerican-org essay, Laguna Woods church-shooting piece, index) — all absorbed above; saturated, SKIP-with-reason.
