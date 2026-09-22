@@ -40,3 +40,4 @@ Corpus re-grep (2026-09-16, slice deepen-x-09162200-12): identical hit set — o
 - Corpus re-grep 2026-09-20 (slice 09181500-6): identical hit set — own directory entry, concerts #55 and #126, plus harvest index. SKIP-with-reason: page saturated, no new absorbable material; recommend dropping from future slices.
 - Corpus re-grep 2026-09-21 (slice 09201400-3): identical hit set — concerts55, own directory entry, concerts126, harvest index. SKIP-with-reason: page saturated, all hits already linked above.
 - Corpus re-grep 2026-09-22 (slice 09211300-2): identical hit set — own directory entry, concerts #55/#126, harvest index. SKIP-with-reason; page saturated.
+- Corpus re-grep 2026-09-22 (slice 09220800-1): identical hit set — own directory entry, concerts #55/#126, harvest index. SKIP-with-reason; saturated.
