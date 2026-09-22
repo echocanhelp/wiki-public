@@ -39,6 +39,8 @@ last_reviewed: 2026-09-22
 - TAHS Who's Who record #1806 (2017-07-30): [[works/taiwaneseamericanhistory-org/whos-who-1806-lisa-peng|1806. Lisa Peng 彭郁靜]] — served as President of the Taipei Medical University Alumni Association (北醫校友會) and as programmer at NIDCR; corpus scan found no other memoir mentions of her.
 - Widowed by the 2023-12 UNLV campus shooting: husband [[people/c-j-chang|張家禎]] (Who's Who #1807, [[works/taiwaneseamericanhistory-org/whoswho1807|record]]) was among the faculty/staff killed; covered in [[articles/taiwanjustice-net/2025/20250422120345_tag_內華達大學拉斯維加斯分校槍擊案_a428e4f9f5120894|taiwanjustice-net coverage]].
 
+> Re-verified 2026-09-22 (slice 09210831-11): fresh grep of works/articles returns only whos-who-1806 plus index rows — no new absorbable corpus material.
+
 ## Sources
 - [TAH #1806 encyclopedia: 1806. Lisa Peng 彭郁靜](https://taiwaneseamericanhistory.org/whos-who-1806-lisa-peng/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/lisa-peng/)
