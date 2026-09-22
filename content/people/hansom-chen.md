@@ -36,7 +36,7 @@ last_reviewed: 2026-09-22
 
 Entrepreneur; B.S. 建築系 淡江大學 (2011), M.S. Rhode Island School of Design; worked at IBM Watson, R/GA, DigitasLBi, Leaf Your Life.
 
-Corpus sweep (2026-09-21): the only hits in content/works / content/articles are the own Who's Who record [[works/taiwaneseamericanhistory-org/whoswho1547|TAH #1547 Hansom Chen 陳翰申]] (bibliographic stub; full text stays in the vault) and the index. No memoir, article, or community-activity mention found — nothing further absorbable.
+Corpus sweep (2026-09-21): the only hits in content/works / content/articles are the own Who's Who record [[works/taiwaneseamericanhistory-org/whoswho1547|TAH #1547 Hansom Chen 陳翰申]] (bibliographic stub; full text stays in the vault) and the index. No memoir, article, or community-activity mention found — nothing further absorbable. Re-verified 2026-09-22 (slice 28): extra article hits are for 陳冠榮 (罷韓領銜人), a different hanzi name — not matched to this page; no new facts.
 
 ## Family
 

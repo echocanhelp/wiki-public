@@ -32,7 +32,7 @@ Accomplishment
 
 ## Role in the Community
 
-- His community record is held in the corpus as TAH encyclopedia entry #1776, published 2017-07-24: [[works/taiwaneseamericanhistory-org/whos-who-1776-swing-chuang|1776. Swing Chuang 莊宗勳]]. Corpus grep found no memoir/feature mentions beyond this bibliographic record — no community facts absorbable yet.
+- His community record is held in the corpus as TAH encyclopedia entry #1776, published 2017-07-24: [[works/taiwaneseamericanhistory-org/whos-who-1776-swing-chuang|1776. Swing Chuang 莊宗勳]]. Corpus grep found no memoir/feature mentions beyond this bibliographic record — no community facts absorbable yet. Re-verified 2026-09-22 (slice 28): corpus hits remain his own record + the works index only.
 
 ## Family
 
