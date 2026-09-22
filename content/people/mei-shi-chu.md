@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # Mei-Shi Chu (徐梅熙)
 
@@ -31,6 +31,7 @@ last_reviewed: 2026-09-21
 
 
 ## Role in the Community
+- Corpus check 2026-09-22: corpus hits are her TAH #1537 record — bibliographic-only (published 2017-02-26) — and the Pew statement below. No new community facts; nothing absorbable.
 - Identified with NATWA in the Taiwanese American community's signed statement to the Pew Research Center: [[works/taiwaneseamerican-org/pew-research-center-taiwanese-american-statement|Pew Research Center Taiwanese American statement]] — listed as "Mei-Shi Chu, NATWA", i.e. acting for [[organizations/north-america-taiwanese-womens-association|北美台灣婦女會]] (chapter affiliation not recorded — HOLD).
 - Her own TAH Who's Who encyclopedia entry: [[works/taiwaneseamericanhistory-org/whoswho1537|1537. Mei-Shi Chu 徐梅熙 / 2017/02]].
 - Entrepreneur in computer retail (per TAH profile).

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # Simon C. Kuo (郭朝元博士)
 
@@ -31,6 +31,7 @@ last_reviewed: 2026-09-21
 <!-- tah-tables:end -->
 
 ## Role in the Community
+- Corpus check 2026-09-22: the sole corpus hit is TAH #655, a bibliographic-only record (published 2015-10-10) with no narrative text. No new community facts; nothing absorbable.
 - Documented in the TAH Foundation Who's Who encyclopedia record [[works/taiwaneseamericanhistory-org/655-simon-c-kuo-e9-83-ad-e6-9c-9d-e5-85-83-201510|655. Simon C. Kuo 郭朝元 / 2015/10]] (published 2015-10-10).
 - Engineer/scientist from 台灣: 台大 B.S., 卡內基理工大學 Ph.D.（機械工程）; 技術董事兼總工程師 at CEMCOM Corporation; 熱工程經理兼輕量發動機研究負責人 at 聯合技術公司 (1969–1983).
 

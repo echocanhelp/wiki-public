@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # H. Wu (吳換博士)
 
@@ -31,7 +31,8 @@ last_reviewed: 2026-09-21
 
 ## Role in the Community
 
-- Listed in the TAH Foundation Who's Who; the corpus record is the bibliographic entry [[works/taiwaneseamericanhistory-org/whowho1333|1333. H. Wu 吳換 / 2016/10]] (published 2016-10-22, band B — full text stays in the vault). No further absorbable community facts in the corpus.
+- Listed in the TAH Foundation Who's Who; the corpus record is the bibliographic entry [[works/taiwaneseamericanhistory-org/whowho1333|1333. H. Wu 吳換 / 2016/10]] (published 2016-10-22, band B — full text stays in the vault).
+- Per the corpus record [[works/taiwaneseamericanhistory-org/ff305|305. 吳換 / 最年長的台美人獲得哲學博士學位, 80歲 / 1994]]: in 1994 he was noted as the oldest Taiwanese American to receive a PhD, at age 80 — consistent with the 1994 St. Charles University doctorate in the Employment table.
 - **Name-collision note:** corpus greps for "H. Wu" also return [[works/taiwaneseamericanhistory-org/712-arthur-h-wu-e5-90-b3-e6-bc-a2-e5-8d-97-201511|712. Arthur H. Wu 吳漢南]] and Dr. Chau H. Wu 吳照雄 — these are different people and their records were NOT absorbed here.
 
 ## Family

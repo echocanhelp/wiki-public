@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-20
+last_reviewed: 2026-09-22
 ---
 # Hung-Yi Shau (蕭鴻宜博士)
 
@@ -40,7 +40,7 @@ _No filled family fields on the TAH profile._
 
 ## Role in the Community
 - Recorded in the TAH encyclopedia as record 1562: [[works/taiwaneseamericanhistory-org/whoswho1562|1562. Hung-Yi Shau 蕭鴻宜]] (published 2017-03-19, value band B).
-- No memoir/corpus narrative beyond the Who's Who entry itself — nothing community-absorbable found; page deepened with the corpus work link only.
+- No memoir/corpus narrative beyond the Who's Who entry itself — nothing community-absorbable found; page deepened with the corpus work link only. Re-verified 2026-09-22: the only corpus appearance remains [[works/taiwaneseamericanhistory-org/whoswho1562|1562. Hung-Yi Shau 蕭鴻宜 / 2017/03]].
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/hung-yi-shau/)
