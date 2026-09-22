@@ -39,6 +39,8 @@ last_reviewed: 2026-09-22
 
 ## From the record
 
+- 複核（TJJ-A09220500-6, 2026-09-22）：王廷宜追思會稿 subject link（連絡人邱勝宗）經原文正文再驗證為真實對應，引用条目已在库（无错链、无虚链）— SKIP，无新材料。
+
 - 2018-07-20 — Signed as 邱勝宗(法律) among the ~170 台大校友 co-signatories of the open letter protesting 南加州台大校友會 inviting 管中閔 to speak at its 2018 annual meeting amid the disputed 校長遴選 case ([[articles/taiwanjustice-net/2018/20180721091303_2018_07_20_抗議-南加州台大校友會邀管中閔來年會做專題演講_a428dcebbceacf38|TJJ, 2018-07-20]]).
 - 2017-09-24 — 與夫人 Sadako 同講大洛杉磯台灣會館九月份園藝講座「EM酵素及製作」，由台灣公義電子報攝錄（[[articles/taiwanjustice-net/2017/20171109043038_category_gardenning_0c56e79f9989639c|TJJ 台灣公義網園藝類存檔, 2017-11-09 快照]]；同一紀錄另見 [[articles/taiwanjustice-net/2024/20240225031504_root_f454eda084b7ca99|園藝分類 2024-02-24 快照]]、園藝分類頁 [[articles/taiwanjustice-net/2024/20240225023227_root_bb7f9d54ae93bbef|2024-02-25 快照]]、大洛杉磯台灣會館分類頁 [[articles/taiwanjustice-net/2024/20240221114044_root_8bf4798dd2771f38|2024-02-21 快照]]）。
 - 2016-07-08 — 台美人歷史協會人物專訪探訪邱勝宗和邱貞夫婦的百草園，影音報導「探訪邱勝宗和邱貞夫婦的百草園-台美人歷史協會人物專訪」刊於台美人台加人分類（2016-07-14 刊登）（[[articles/taiwanjustice-net/2024/20240225023227_root_bb7f9d54ae93bbef|TJJ 園藝分類, 2024-02-25 快照]]）。

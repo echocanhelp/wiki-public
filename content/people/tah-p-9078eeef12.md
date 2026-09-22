@@ -6,7 +6,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # 王惠津
 
@@ -39,6 +39,7 @@ _No filled family fields on the TAH profile._
 - 該紀錄（value band A・社區史）記述：紐約台灣會館老人中心（Taiwanese American Senior Center, TASC）義工老師群芳名中列有**王惠津**，中心每天上午十點至下午三點開課，會員多為愛台灣的台美人耆老，並赴社區活動登台表演。
 -  tah-tables 既存記載：合唱團指揮、音樂學會會長，與上述社區教學角色相互印證。
 - TAH 收錄其兩筆傳記紀錄：[[works/taiwaneseamericanhistory-org/whoswho927|927. 王惠津 / 2016/04]]、[[works/taiwaneseamericanhistory-org/338-e7-8e-8b-e6-83-a0-e6-b4-a5voval-201604|338. Hui-Jin Wang 王惠津, Voval / 2016/04]]。
+- （再查 slice 09220600-19 2026-09-22：語料庫再查僅既存書目／已吸收紀錄，無新增可吸收社群敘事）
 
 ## Sources
 - [TAH #338 encyclopedia: 338. Hui-Jin Wang王惠津,Voval / 2016/04](https://taiwaneseamericanhistory.org/338-%e7%8e%8b%e6%83%a0%e6%b4%a5voval-201604/)

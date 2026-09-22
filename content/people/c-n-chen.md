@@ -38,7 +38,7 @@ _No filled family fields on the TAH profile._
 - Deacon (執事) of the DC Taiwanese Presbyterian Church who co-led its church-building fundraising with 李東壁; he organized the「走 Bethesda 古道」walk that drew hundreds, per the building memoir [[works/taiwaneseamericanhistory-org/ourjourneys217|217. 我參與了華府教會的建堂 / 陳明賢 / 04/2016]].
 - Gave the health lecture「延年益壽的策略」in the Irvine Taiwanese Presbyterian Church 長青教室 program, [[works/taiwaneseamericanhistory-org/ourjourneys107|107. 長青教室 / ITPC / 2015/02]].
 - Record [[works/taiwaneseamericanhistory-org/whoswho1770|1770. C. N. Chen 陳建南 / 07/2017]] — TAH Who's Who encyclopedia entry, the primary holdings record for this person.
-- **deepen-x re-grep 2026-09-21 (slice 28):** fresh grep of content/works + content/articles returns only the four records already linked above; the 募款小組（與李東壁負責）and 走Bethesda古道 details were re-verified verbatim against the building memoir. No unabsorbed corpus facts — SKIP this pass.
+- **deepen-x re-grep 2026-09-21/22 (slices 28, 09220600-18):** fresh grep of content/works + content/articles returns only the four records already linked above; the 募款小組（與李東壁負責）and 走Bethesda古道 details were re-verified verbatim against the building memoir. No unabsorbed corpus facts — SKIP this pass.
 
 ## Sources
 - [TAH #1770 encyclopedia: 1770. C. N. Chen 陳建南 / 07/2017](https://taiwaneseamericanhistory.org/whoswho1770/)
