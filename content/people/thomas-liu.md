@@ -55,5 +55,6 @@ last_reviewed: 2026-09-21
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/thomas-liu/)
 
 ## Related Pages
+- [[works/taiwaneseamericanhistory-org/whos929-thomas-liu||929. Thomas Liu 劉天良 (TAH encyclopedia record, 2016-04-06)]]
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
