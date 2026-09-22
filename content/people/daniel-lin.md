@@ -42,6 +42,7 @@ last_reviewed: 2026-09-22
   summer assembly:
   [[works/taiwaneseamericanhistory-org/ourjourneys265|Our Journeys 265 (夏令會起源)]].
 - TAH encyclopedia entry: [[works/taiwaneseamericanhistory-org/whos-daniel-lin|1978. Daniel Lin 林嘉仁 /12/2017]].
+- 複核 2026-09-22：再 grep 全庫（林嘉仁 / Daniel Lin），命中僅 ourjourneys186（及其英文版、index）、ourjourneys265、個人 TAH 條目 — 以上已全數吸收，無新事實可加。
 
 ## Family
 
