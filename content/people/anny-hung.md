@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # Anny Hung (洪磊螢)
 
@@ -33,7 +33,7 @@ Won First Place for City Song Composition Competition in Kaohsiung, Taiwan and P
 
 - Held twice in the TAH story corpus, under two name forms: as a Who's Who entry [[works/taiwaneseamericanhistory-org/whoswho1227|TAH #1227 Anny Hung 洪磊螢 / 2016-08]], and in TAH's musician series [[works/taiwaneseamericanhistory-org/musician149|TAH #149 Anne Hung 洪磊螢, Pianist / 2015-02]]. HOLD: name form Anny vs Anne — the 漢名 洪磊螢 matches across both, so treated as one person, but the English first name was not merged.
 - The musician-series record (2015-02) documents her as a pianist in the Taiwanese-American music community alongside other young performers (flutist 許義莉, violinist 李軒宇) recorded in the same series.
-- 2026-09-21 corpus re-check: fresh grep for 洪磊螢 / Anny Hung / Anne Hung in works+articles returns no pages beyond the two TAH records already wikilinked above. No new corpus facts absorbable.
+- 2026-09-22 corpus re-check (slice 30): fresh grep for 洪磊螢 / Anny Hung / Anne Hung in works+articles returns no pages beyond the two TAH records already wikilinked above. No new corpus facts absorbable.
 
 ## Family
 

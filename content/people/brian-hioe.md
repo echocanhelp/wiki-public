@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # Brian Hioe (丘琦欣)
 
@@ -49,3 +49,5 @@ _No filled family fields on the TAH profile._
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 <!-- corpus sweep 2026-09-21: re-verified — corpus hits (our-journeys-373, whos-brian-hioe, the-228-inheritance, laguna-woods shooting record, taiwanjustice articles) all already absorbed above; no new absorbable facts -->
+
+<!-- deepen-x slice 09210831-3 re-verify 2026-09-22: fresh grep of content/works + content/articles — all corpus hits already absorbed in Role in the Community; no new absorbable facts -->

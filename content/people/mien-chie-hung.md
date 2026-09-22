@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # Mien-Chie Hung (洪明奇博士)
 
@@ -41,6 +41,7 @@ _No filled family fields on the TAH profile._
 - **Award:** the corpus records him as recipient of the Award for Outstanding Achievement in Basic Science 傑出基礎科學研究獎, 1998 — [[works/taiwaneseamericanhistory-org/winners41|41. Award for Outstanding Achievement in Basic Science / 洪明奇 / 1998]].
 - **Disambiguation:** [[works/taiwaneseamericanhistory-org/313-mien-chien-e7-b0-a1-e5-8b-89201502|313. Mien Chien 簡勉 / 2015/02]] is a *different* person (簡勉); corpus substring match only, not merged.
 - **Re-verified 2026-09-21** (deepen-x slice 24): corpus hits are limited to his own TAH records (own encyclopedia entry, winners41 award record) already linked above — nothing new absorbable.
+- **Re-verified 2026-09-22** (deepen-x slice 32): fresh grep of works/ + articles/ returns only the same three files (own TAH entry, winners41 award record, works/index) — all already linked; SKIP-no-new-facts.
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/mien-chie-hung/)

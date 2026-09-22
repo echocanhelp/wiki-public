@@ -5,7 +5,7 @@ redirect_to: paul-chen
 tags:
   - redirect
 verification_status: redirect
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 
 # Moved
@@ -25,3 +25,5 @@ Corpus footprint: 26 records in `content/works` + `content/articles` mention 陳
 - [[people/paul-chen||Paul Chen (陳柏宇)]]
 - [[people/dr-paul-chen||Dr. Paul Chen]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+<!-- deepen-x slice 09210831-3 re-verify 2026-09-22: fresh grep of content/works + content/articles — all corpus hits already absorbed in Role in the Community; no new absorbable facts -->
