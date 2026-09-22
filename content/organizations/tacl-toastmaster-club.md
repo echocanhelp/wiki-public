@@ -25,6 +25,7 @@ The club's own community record is held in our corpus: [[works/taiwaneseamerican
 ## Timeline
 - 1992-09 — founded by TACL board members and members
 - 2014-10-12 — community history record published to the TAH corpus ([[works/taiwaneseamericanhistory-org/tacl-toastmaster-club|record]])
+- Corpus re-check 2026-09-22: fresh grep of works/articles returns only the club's own record page (already absorbed) — no new community facts.
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/tacl-toastmaster-club/)
