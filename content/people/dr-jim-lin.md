@@ -52,3 +52,4 @@ No memoir or movement-activity records for 林存欣 were found in the corpus.
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 <!-- deepen-x 09210831-14: re-verify 2026-09-22 — fresh grep (works/articles): own TAH record whos-who-2138 + index digests only; existing Role in the Community already absorbs all corpus material. No new memoir material. -->
+<!-- deepen-x 09220700-20: re-verify 2026-09-22 — fresh grep (林存欣/Jim Lin, works+articles): same hits (own record + works/index digest). SKIP-with-reason: no memoir/community material beyond the absorbed Who's Who pair. -->

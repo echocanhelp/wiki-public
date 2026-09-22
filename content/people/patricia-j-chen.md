@@ -41,6 +41,7 @@ _No filled family fields on the TAH profile._
 - HOLD: possible name collision — [[works/taiwaneseamericanhistory-org/615-self-help-acu-hematite-therapypatricia-chen-fu-mei-wu2014-literature-e6-96-8|615. Self-Help Acu-Hematite Therapy]] lists author "Patricia Chen" (with Fu-mei Wu); no evidence yet that this is the same Patricia J. Chen. Not merged.
 
 > Deepen pass 2026-09-22 (slice 09210831-30): idempotent re-verify — corpus hits remain [[works/taiwaneseamericanhistory-org/mystories53|53. 傑出律師 Super Lawyer Patricia Chen]], [[works/taiwaneseamericanhistory-org/40-patricia-j-chen|40. Patricia J. Chen]], and the unresolved 615 author-name overlap (HOLD above); nothing new absorbable.
+> Re-verified 2026-09-22 (slice 09220700-17): fresh grep Patricia J. Chen / Patricia Chen across works/ + articles/ returns the same three records (mystories53, 40-patricia-j-chen, 615) plus index adjacency; no new community-activity material; 615 HOLD stands.
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/patricia-j-chen/)

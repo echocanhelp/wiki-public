@@ -32,7 +32,7 @@ last_reviewed: 2026-09-22
 <!-- tah-tables:end -->
 
 ## Role in the Community
-- Corpus coverage consists of two TAH Foundation Who's Who records from February 2016 — [[works/taiwaneseamericanhistory-org/328-li-shan-hung-e6-b4-aa-e5-84-b7-e7-8f-8apianist-201602|TAH #328 (pianist profile)]] and [[works/taiwaneseamericanhistory-org/819-li-shan-hung-e6-b4-aa-e5-84-b7-e7-8f-8a-201602|TAH #819]] — both held as bibliographic records in the vault; re-check 2026-09-22 (deepen-x slice 09210800-24) confirms her name appears nowhere in works/articles outside those two own-name records (and works/index.md), so no memoir/community text exists beyond the press-kit profile — nothing further was absorbed (SKIP-deepen: no community-record facts in corpus hits).
+- Corpus coverage consists of two TAH Foundation Who's Who records from February 2016 — [[works/taiwaneseamericanhistory-org/328-li-shan-hung-e6-b4-aa-e5-84-b7-e7-8f-8apianist-201602|TAH #328 (pianist profile)]] and [[works/taiwaneseamericanhistory-org/819-li-shan-hung-e6-b4-aa-e5-84-b7-e7-8f-8a-201602|TAH #819]] — both held as bibliographic records in the vault; re-check 2026-09-22 (deepen-x slice 09210800-24) confirms her name appears nowhere in works/articles outside those two own-name records (and works/index.md), so no memoir/community text exists beyond the press-kit profile — nothing further was absorbed (SKIP-deepen: no community-record facts in corpus hits). Re-grep 2026-09-22 (slice 19) adds one false-positive hit — [[works/taiwaneseamericanhistory-org/whos-who-1818-li-shan-chang|TAH #1818, Li-Shan Chang]] is a different person (Chang, not Hung) matched on the romanized given name only; not absorbed.
 
 ## Family
 

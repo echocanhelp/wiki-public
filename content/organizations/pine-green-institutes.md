@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # Pine Green Institutes (松青學院)
 
@@ -21,7 +21,7 @@ Pine Green Institute (松青學院) is a Taiwanese American community learning p
 ## Role in the Community
 - Enter the community record via the TAH story corpus: [[works/taiwaneseamericanhistory-org/pine-green-institutes|25. Pine Green Institutes 松青學院 (北澤西)]], published 2016-03-14 — a bibliographic record of the program's feature in the TAH community-history collection.
 - The work record places the program in northern New Jersey (北澤西) by 2016, consistent with the directory description of operations at Fair Lawn Community Church.
-- Corpus re-checked 2026-09-21 (deepen-x slice 19): grep across works+articles for 松青學院/Pine Green returns only this work record and works/index — no new absorbable material; page stands.
+- Corpus re-checked 2026-09-21, re-verified 2026-09-22 (deepen-x slice 19): grep across works+articles for 松青學院/Pine Green returns only this work record and works/index — no new absorbable material; page stands.
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/pine-green-institutes/)
