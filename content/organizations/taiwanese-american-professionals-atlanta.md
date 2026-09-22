@@ -32,6 +32,8 @@ Corpus event records trace the chapter's activity before and after its formal ch
 
 The monthly TAPpy Hours described in the TAH directory listing are corroborated by these contemporaneous event records; the Mandarin Dinner Series shows the chapter also ran cultural-education programming, not only social networking.
 
+Corpus re-grep 2026-09-22: no additional mentions of TAP-ATL / 台美菁英協會亞特蘭大分會 in works or articles beyond the chapter record and event records wikilinked above (only the corpus index matches); no further facts absorbable.
+
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-american-professionals-atlanta/)
 

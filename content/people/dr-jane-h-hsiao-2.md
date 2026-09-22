@@ -49,3 +49,4 @@ _No filled family fields on the TAH profile._
 
 > Corpus re-scan 2026-09-21 (deepen-x slice 09200700-25): re-scanned works/ and articles/ for 許照惠 / Jane H. Hsiao — hits are #85, #1465, ff346, mystories600, and #684, all already linked above with facts absorbed. Duplicate-person HOLD against [[people/jane-h-hsiao]] stands. SKIP-deepen; nothing new absorbable.
 > Corpus re-scan 2026-09-22 (deepen-x slice 09210700-28): fresh grep confirms the same hit set (#85, #1465, ff346, mystories600, #684) — all linked; duplicate-person HOLD vs [[people/jane-h-hsiao]] stands.
+> Corpus re-scan 2026-09-22 (deepen-x slice 09220400-22): fresh grep 許照惠 / Jane H. Hsiao — same five works, all already linked. SKIP-deepen; duplicate-person HOLD stands.

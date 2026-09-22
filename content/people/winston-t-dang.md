@@ -44,6 +44,8 @@ _No filled family fields on the TAH profile._
 - The campaign's own victory memo — CTIR's account in 台灣公論報 1250 (1994-04-23), preserved as [[works/taiwaneseamericanhistory-org/ourjourneys254|Our Journeys #254]] — names 陳重信 alongside 蔡武雄 and 王羨茹 as the CTIR officers whose White House and congressional lobbying (alongside FAPA's 佩爾 amendment track) led to the 1994-04-19 Senate–House Foreign Affairs joint conference adopting the passport place-of-birth "台灣" amendment without challenge.
 - His own TAH Foundation biography record is held at [[works/taiwaneseamericanhistory-org/661-winston-t-dang-e9-99-b3-e9-87-8d-e4-bf-a1-201510|661. Winston T. Dang 陳重信 / 2015/10]].
 
+> Corpus re-verify (deepen-x 09220400-22): fresh grep works/ + articles/ for 陳重信 / Winston T. Dang — hits are exactly the four already-linked records (publications1056, 349-our-journeys, ourjourneys254, 661 bio); re-read the ourjourneys254 CTIR victory memo — the 1993-07 FAPA 佩爾 amendment / CTIR executive-branch split of labour and 2/17 letter detail is already reflected above. SKIP-deepen; nothing new absorbable.
+
 ## Sources
 - [TAH #661 encyclopedia: 661. Winston T. Dang 陳重信 / 2015/10](https://taiwaneseamericanhistory.org/661-winston-t-dang-%e9%99%b3%e9%87%8d%e4%bf%a1-201510/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/winston-t-dang/)
