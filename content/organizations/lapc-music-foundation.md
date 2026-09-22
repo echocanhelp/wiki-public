@@ -24,6 +24,8 @@ LAPC Music Foundation is an arts and cultural organization based in Garden Grove
 - An earlier ensemble record, 洛杉磯樂音合唱團 / 2015/01 ([[works/taiwaneseamericanhistory-org/19-e6-a8-82-e9-9f-b3-e5-90-88-e5-94-b1-e5-9c-98-201501|TAH record 19]]), documents the chorus that preceded the 2006 foundation.
 - The foundation's programming extended to other community choruses: TAH record 53 documents the Los Angeles Melody Chorus 洛杉磯心悅合唱團 itself ([[works/taiwaneseamericanhistory-org/los-angeles-melody-chorus|TAH record 53]]), the ensemble whose 10/22/2016 Baldwin Park concert the foundation presented.
 
+> Corpus re-verify (deepen-x 09220400-10): fresh grep for 樂音音樂基金會 / LAPC Music / 樂音合唱團 returned only the page's own records (TAH 19, LAPC directory record, concerts86, index listings) — same as the 09210700-30 re-verify. SKIP-deepen; nothing new absorbable.
+
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/lapc-music-foundation/)
 
