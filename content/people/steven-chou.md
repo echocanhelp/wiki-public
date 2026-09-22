@@ -36,6 +36,8 @@ Steven Chou (周清耀) is listed in the TAH Foundation Who’s Who Taiwanese Am
 - Active in the Los Angeles overseas-Taiwanese communal network: personal director of 大洛杉磯台灣會館 (11th term, 2018) and co-initiator of the 2021 南加州僑界 48-社團 WHA/WHO joint statement (see From the record) — regularly acting alongside 台美人歷史協會 in coalition statements.
 - His own TAH Foundation encyclopedia entry is archived in the corpus: [[works/taiwaneseamericanhistory-org/whoswho1147|1147. Steven Chou 周清耀 / 2016/07]].
 
+- Corpus re-check (2026-09-21, slice 09210317-18): fresh grep across works + articles returns only the records already absorbed above (own entry #1147, 會館會訊 2018-06-27 當選第11屆個人董事, WHA聯合聲明發起人名單 x2) — no new community facts to absorb.
+
 ## Sources
 - [TAH #1147 encyclopedia: 1147.  Steven Chou 周清耀 / 2016/07](https://taiwaneseamericanhistory.org/whoswho1147/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/steven-chou/)
