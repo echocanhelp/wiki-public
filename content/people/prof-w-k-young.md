@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # Prof. W.K. Young (楊文光教授)
 
@@ -17,7 +17,7 @@ last_reviewed: 2026-09-21
 - **Era:** 1936
 - **Geography:** Pingtung, Taiwan
 - **Core roles:** entrepreneur, scientist, physician, professor
-- **Source:** TAH Foundation Who’s Who
+- **Source:** TAH Foundation Who's Who
 
 Accomplishment
 1. Founded the "Autologous Dendritic Cell/Tumor Antigen, ADCTA" (創辦「自體樹突細胞腫瘤抗原免疫細胞治療製劑」)
@@ -42,7 +42,7 @@ Accomplishment
 
 ## Sources
 - [TAH #2312 encyclopedia: 2312. Prof. W.K. Young 楊文光教授](https://taiwaneseamericanhistory.org/whos-who-2312-w-k-young/)
-- [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-w-k-young/)
+- [TAH Who's Who](https://taiwaneseamericanhistory.org/person/prof-w-k-young/)
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
@@ -51,3 +51,4 @@ Accomplishment
 - Re-grep 2026-09-19 (slice 09170600-28): corpus scan of works/articles again returns only this person's own TAH bibliographic record — no memoir or movement-activity material to absorb; existing links above stand, no conflicts found.
 - Re-grep 2026-09-20 (slice 09190400-10): works/articles scan again returns only his own TAH #2312 bibliographic record + index — no memoir or movement-activity material; existing link stands, no conflicts.
 - Re-grep 2026-09-21 (slice 09201500-21): works/articles scan again returns only his own TAH #2312 record + index — no memoir/movement material to absorb; verified saturated, no conflicts.
+- Re-grep 2026-09-22 (slice 09211500-19): works/articles scan again returns only his own TAH #2312 record + index — no memoir/movement material; verified saturated, no conflicts.
