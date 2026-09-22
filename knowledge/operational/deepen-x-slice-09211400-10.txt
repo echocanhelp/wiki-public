@@ -1,0 +1,4 @@
+organizations/taiwanese-association-of-the-greater-salt-lake.md
+organizations/sun-ten-museum.md
+people/rev-c-l-tong.md
+people/san-john-huang.md

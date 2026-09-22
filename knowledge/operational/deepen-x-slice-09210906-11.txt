@@ -1,0 +1,4 @@
+people/szu-ying-huang.md
+people/gene-lay.md
+people/eric-chien.md
+organizations/taiwan-hakka-language-system.md

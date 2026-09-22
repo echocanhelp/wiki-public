@@ -1,0 +1,4 @@
+people/yabo-soong.md
+people/prof-oliver-chyan.md
+people/pamela-hung.md
+people/judy-jeng.md

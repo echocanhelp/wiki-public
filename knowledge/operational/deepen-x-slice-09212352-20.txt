@@ -1,0 +1,4 @@
+organizations/kaohsiung-hotel-association.md
+people/dr-hui-ling-chen.md
+people/jang-yen-wu.md
+people/paul-pai-shih-lee.md

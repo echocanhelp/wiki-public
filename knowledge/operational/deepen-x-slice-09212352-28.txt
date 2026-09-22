@@ -1,0 +1,4 @@
+people/chenhung-chen.md
+people/s-y-huang.md
+people/charles-tsai.md
+organizations/chicago-taiwanese-architecture-institute-ctai.md

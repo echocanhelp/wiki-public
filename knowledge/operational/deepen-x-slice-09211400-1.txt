@@ -1,0 +1,4 @@
+organizations/taiwanese-american-foundation.md
+organizations/taiwanese-association-of-madison-wi.md
+people/rev-thomas-h-chen.md
+organizations/fapa-los-angeles.md

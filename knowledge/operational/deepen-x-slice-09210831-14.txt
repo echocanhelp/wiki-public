@@ -1,0 +1,4 @@
+people/dr-jim-lin.md
+organizations/stanford-taiwanese-student-association.md
+people/david-taka-yo.md
+people/yu-ming-huang.md

@@ -1,0 +1,4 @@
+people/jeff-yang.md
+people/alan-t-chen.md
+organizations/student-association-of-taiwan-uw-madison.md
+organizations/joint-chinese-university-alumni-association-of-southern-california.md

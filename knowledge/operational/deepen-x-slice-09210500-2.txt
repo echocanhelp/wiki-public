@@ -1,0 +1,4 @@
+people/john-lin.md
+people/patrick-huang.md
+people/carol-cho.md
+organizations/taiwanese-student-association-at-nc-state.md

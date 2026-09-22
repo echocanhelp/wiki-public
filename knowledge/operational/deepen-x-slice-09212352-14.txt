@@ -1,0 +1,4 @@
+organizations/taiwanese-american-association-atlanta.md
+organizations/yin-chin-foundation-of-u-s-a.md
+organizations/taiwanese-association-of-alabama-birmingham.md
+people/dr-jia-huey-lin-yu.md

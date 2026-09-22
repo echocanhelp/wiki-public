@@ -1,4 +1,4 @@
-## Site design audit — 2026-09-21 00:30
+## Site design audit — 2026-09-22 00:26
 
 - pages_md=15082
 - critical=0 high=2 medium=1
@@ -30,10 +30,6 @@
 ### MEDIUM (1)
 - **F4** people/index.html is 1501992 bytes — heavy on mobile. Do NOT hand-edit content/people/index.md. Search-first is the IA; regen script only if links break.
 
-### LOW (1)
-- **C1** spelling signals (sample): 1 `[AGENT_SUGGESTED]`
-  - `presbyterian-church-in-taiwan.md: teh→the`
-
 ### INFO (2)
 - **B2** pinned featured pages: 6 (cap 6 people + 3 orgs; overflow hides recency)
   - `people/albert-s-lai.md`
@@ -42,15 +38,15 @@
   - `people/lin-yuan-ching.md`
   - `people/yang-jia-you.md`
   - `people/yang-xin.md`
-- **B1** person/org touched ≤7d (rely on recency featured window): 2613
+- **B1** person/org touched ≤7d (rely on recency featured window): 2471
   - `people/a-n-liu.md`
   - `people/abby-hong.md`
   - `people/adam-chang.md`
   - `people/adrian-lin.md`
   - `people/agnes-hsiao.md`
-  - `people/agnes-hsu.md`
   - `people/agnes-wu.md`
   - `people/ahhee-hsu.md`
+  - `people/ai-jen-poo.md`
 
 ### Programmable heals
 - publish

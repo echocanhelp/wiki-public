@@ -1,0 +1,4 @@
+people/sim-ti-lim.md
+people/frank-t-shu.md
+organizations/greater-los-angeles-hotel-motel-association.md
+people/anna-chang.md

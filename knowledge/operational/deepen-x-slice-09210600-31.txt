@@ -1,0 +1,4 @@
+people/prof-elaine-hsiao.md
+people/victoria-linchong.md
+people/james-ger.md
+people/c-j-chang.md

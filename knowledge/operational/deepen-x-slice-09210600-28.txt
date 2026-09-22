@@ -1,0 +1,4 @@
+people/ming-shing-lee.md
+people/eric-liu.md
+people/tiffany-ma.md
+organizations/chang-jung-girls-high-school-alumni-association-southern-california.md

@@ -1,0 +1,4 @@
+people/strong-chuang.md
+organizations/manhattan-ks-chapter-taa.md
+people/lekki-chua.md
+people/dr-ching-hsing-liao.md

@@ -1,0 +1,4 @@
+people/john-chin-jung-cheng.md
+people/chia-hsuan-lee.md
+people/irvin-lin.md
+organizations/taiwanese-student-association-at-georgia-tech.md

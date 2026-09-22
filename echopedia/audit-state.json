@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "last_run": "slug-redirect-bot",
-  "last_run_date": "2026-09-20",
-  "pages_audited": 2872,
-  "issues_found": 34805,
+  "last_run": "self-heal-verify",
+  "last_run_date": "2026-09-21",
+  "pages_audited": 2875,
+  "issues_found": 8521,
   "issue_history": [
     {
       "run_date": "2026-07-13",
@@ -1279,6 +1279,33 @@
         "works/taiwaneseamericanhistory-org/416-e9-98-bf-e6-af-8d-e6-88-91-e6-83-b3-e5-bf-b5-e6-82-a8-e6-9d-8e-e7-a7-80-e9-b",
         "works/taiwaneseamericanhistory-org/610-e5-8d-97-e7-81-a3-e5-8f-b0-e7-81-a3-e5-9f-ba-e7-9d-a3-e9-95-b7-e8-80-81-e6-9"
       ]
+    },
+    {
+      "run_date": "2026-09-21",
+      "total_issues": 8521,
+      "broken_links": 16,
+      "missing_sections": 101,
+      "stale_content": 4555,
+      "orphans": 30,
+      "cross_references": 263,
+      "missing_pages": 3556,
+      "index_sync": 0,
+      "web_issues": 0,
+      "structural": 44,
+      "full_log": "/home/leedt/echo-system/echopedia/logs/nightly-audit-2026-09-21.txt"
+    },
+    {
+      "run_date": "2026-09-21",
+      "total_issues": 1984,
+      "broken_links": 16,
+      "missing_pages": 1837,
+      "structural": 101,
+      "stale": 0,
+      "missing_sections": 0,
+      "orphans": 30,
+      "cross_refs": 0,
+      "prev_total": 8521,
+      "delta": -6537
     }
   ],
   "resolved_issues": []

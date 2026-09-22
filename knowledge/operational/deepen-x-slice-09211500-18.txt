@@ -1,0 +1,4 @@
+people/c-b-chien.md
+people/joanna-yan.md
+people/spencer-chen.md
+organizations/taiwanese-american-student-association-at-cornell.md

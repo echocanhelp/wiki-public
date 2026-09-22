@@ -1,0 +1,4 @@
+organizations/taiwanese-american-association-of-rochester-new-york.md
+organizations/north-shore-club.md
+organizations/taiwanese-american-religious-study-association.md
+organizations/taiwanese-student-association-at-uc-irvine.md

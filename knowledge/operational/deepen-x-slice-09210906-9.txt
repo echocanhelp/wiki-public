@@ -1,0 +1,4 @@
+people/justin-lai.md
+people/catherine-lan.md
+organizations/georgetown-taiwanese-student-association.md
+people/ta-fu-ho.md

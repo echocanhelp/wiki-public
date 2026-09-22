@@ -1,0 +1,4 @@
+people/tony-chen.md
+people/t-y-ko.md
+organizations/taiwanese-association-of-west-michigan.md
+organizations/living-well-club-of-new-jersey.md

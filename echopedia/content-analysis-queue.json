@@ -1,10 +1,25 @@
 {
-  "date": "2026-09-20",
+  "date": "2026-09-21",
   "standards_version": 10,
-  "total_pages_scanned": 2906,
-  "pages_with_findings": 77,
-  "auto_queued": 19,
+  "total_pages_scanned": 2909,
+  "pages_with_findings": 104,
+  "auto_queued": 24,
   "queue": [
+    {
+      "path": "organizations/coalition-of-taiwan-independences.md",
+      "findings": [
+        "STRUCT_NO_HISTORY",
+        "READABILITY_LONG_SENTENCES_34wps",
+        "READABILITY_MANY_LONG_SENTENCES_4"
+      ],
+      "priority": "medium",
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol",
+        "Fix ONLY listed findings — no inventing biography",
+        "Update last_reviewed after fixes",
+        "Commit only (no publish)"
+      ]
+    },
     {
       "path": "organizations/good-shine-kitchen.md",
       "findings": [
@@ -21,11 +36,11 @@
       ]
     },
     {
-      "path": "organizations/north-america-taiwanese-womens-association-kansas-chapter.md",
+      "path": "organizations/north-america-taiwanese-medical-association-foundation.md",
       "findings": [
+        "LINKS_NO_RELATED",
         "STRUCT_NO_HISTORY",
-        "READABILITY_LONG_SENTENCES_32wps",
-        "READABILITY_MANY_LONG_SENTENCES_4"
+        "STRUCT_NO_RELATED"
       ],
       "priority": "medium",
       "instructions": [
@@ -51,11 +66,70 @@
       ]
     },
     {
+      "path": "organizations/south-bay-taiwanese-association-of-n-california.md",
+      "findings": [
+        "STRUCT_NO_HISTORY",
+        "READABILITY_LONG_SENTENCES_41wps",
+        "READABILITY_MANY_LONG_SENTENCES_5"
+      ],
+      "priority": "medium",
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol",
+        "Fix ONLY listed findings — no inventing biography",
+        "Update last_reviewed after fixes",
+        "Commit only (no publish)"
+      ]
+    },
+    {
+      "path": "organizations/taiwanese-american-student-association-at-ohio-state-university.md",
+      "findings": [
+        "LINKS_NO_RELATED",
+        "STRUCT_NO_HISTORY",
+        "STRUCT_NO_RELATED"
+      ],
+      "priority": "medium",
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol",
+        "Fix ONLY listed findings — no inventing biography",
+        "Update last_reviewed after fixes",
+        "Commit only (no publish)"
+      ]
+    },
+    {
+      "path": "organizations/taiwanese-association-of-america-pittsburgh.md",
+      "findings": [
+        "STRUCT_NO_HISTORY",
+        "READABILITY_LONG_SENTENCES_33wps",
+        "READABILITY_MANY_LONG_SENTENCES_5"
+      ],
+      "priority": "medium",
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol",
+        "Fix ONLY listed findings — no inventing biography",
+        "Update last_reviewed after fixes",
+        "Commit only (no publish)"
+      ]
+    },
+    {
       "path": "organizations/taiwanese-association-of-wisconsin.md",
       "findings": [
         "STRUCT_NO_HISTORY",
         "READABILITY_LONG_SENTENCES_32wps",
-        "READABILITY_MANY_LONG_SENTENCES_5"
+        "READABILITY_MANY_LONG_SENTENCES_6"
+      ],
+      "priority": "medium",
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol",
+        "Fix ONLY listed findings — no inventing biography",
+        "Update last_reviewed after fixes",
+        "Commit only (no publish)"
+      ]
+    },
+    {
+      "path": "organizations/taiwanese-dental-association.md",
+      "findings": [
+        "DESC_NO_TITLE_MENTION",
+        "STRUCT_NO_HISTORY"
       ],
       "priority": "medium",
       "instructions": [
@@ -80,10 +154,41 @@
       ]
     },
     {
+      "path": "organizations/taiwanese-student-association-tsa.md",
+      "findings": [
+        "STRUCT_NO_HISTORY",
+        "READABILITY_LONG_SENTENCES_41wps",
+        "READABILITY_MANY_LONG_SENTENCES_4"
+      ],
+      "priority": "medium",
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol",
+        "Fix ONLY listed findings — no inventing biography",
+        "Update last_reviewed after fixes",
+        "Commit only (no publish)"
+      ]
+    },
+    {
+      "path": "organizations/taiwaneseamericanhistory-org.md",
+      "findings": [
+        "LINKS_NO_RELATED",
+        "STRUCT_NO_HISTORY",
+        "STRUCT_NO_RELATED"
+      ],
+      "priority": "medium",
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol",
+        "Fix ONLY listed findings — no inventing biography",
+        "Update last_reviewed after fixes",
+        "Commit only (no publish)"
+      ]
+    },
+    {
       "path": "people/carol-cho.md",
       "findings": [
         "DESC_NO_TITLE_MENTION",
-        "READABILITY_LONG_SENTENCES_34wps"
+        "READABILITY_LONG_SENTENCES_36wps",
+        "READABILITY_MANY_LONG_SENTENCES_4"
       ],
       "priority": "medium",
       "instructions": [
@@ -221,35 +326,6 @@
       ]
     },
     {
-      "path": "people/susan-chou.md",
-      "findings": [
-        "DESC_NO_TITLE_MENTION",
-        "READABILITY_LONG_SENTENCES_30wps"
-      ],
-      "priority": "medium",
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol",
-        "Fix ONLY listed findings — no inventing biography",
-        "Update last_reviewed after fixes",
-        "Commit only (no publish)"
-      ]
-    },
-    {
-      "path": "people/tsai-ying-ju.md",
-      "findings": [
-        "LINKS_NO_RELATED",
-        "STRUCT_NO_RELATED",
-        "READABILITY_LONG_SENTENCES_33wps"
-      ],
-      "priority": "medium",
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol",
-        "Fix ONLY listed findings — no inventing biography",
-        "Update last_reviewed after fixes",
-        "Commit only (no publish)"
-      ]
-    },
-    {
       "path": "sources/tcccna-pcusadir-2009.md",
       "findings": [
         "DESC_NO_TITLE_MENTION",
@@ -280,6 +356,6 @@
       ]
     }
   ],
-  "suppressed_findings": 1940,
-  "fp_history_entries": 2130
+  "suppressed_findings": 1925,
+  "fp_history_entries": 2170
 }

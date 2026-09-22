@@ -1,0 +1,4 @@
+people/george-h-kerr.md
+organizations/career-taiwan-usa-association.md
+organizations/columbus-taiwanese-association-of-america.md
+organizations/miss-taiwanese-american-pageant.md

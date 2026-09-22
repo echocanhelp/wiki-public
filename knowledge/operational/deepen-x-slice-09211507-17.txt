@@ -1,0 +1,4 @@
+people/rev-prof-joseph-wang.md
+people/chia-yu-hsu.md
+organizations/uw-itaiwan-graduate-students-and-professional-organization.md
+people/prof-shang-fa-yang.md

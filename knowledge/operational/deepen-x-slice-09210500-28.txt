@@ -1,0 +1,4 @@
+people/min-shiu-lee.md
+people/jasmin-lin.md
+people/albert-g-chang.md
+people/shida-kuo.md

@@ -1,0 +1,4 @@
+organizations/asia-democracy-foundation.md
+organizations/taiwan-elite-alliancetea.md
+organizations/taiwan-hotel-motel-association-of-north-america.md
+organizations/fri-philo.md
