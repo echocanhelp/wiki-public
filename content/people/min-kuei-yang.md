@@ -63,3 +63,4 @@ Re-grep 楊閔貴|Min-Kuei Yang returned only the two already-cited catalog reco
 - Re-grep 2026-09-20 (deepen-x slice 09181500-5): hit set unchanged (#24, #1091 + works index), both already wikilinked. SKIP-no-new-material; page saturated.
 - Corpus re-grep 2026-09-21 (deepen-x slice 09201300-4): hit set unchanged — own TAH records + works index only (already wikilinked); Leslie Ho slice also re-hit formosa-betrayed = Leslie Hope 同名误配. SKIP — saturated.
 - Corpus re-grep 2026-09-22 (slice 09211300-1): hit set unchanged (#24, #1091 + works index), both already wikilinked. SKIP-no-new-material; page saturated.
+- Re-grep 2026-09-22 (slice 09220700-1): hit set unchanged (#24, #1091 + works index), both already wikilinked. SKIP-no-new-material; page saturated.

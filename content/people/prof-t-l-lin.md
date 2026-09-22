@@ -59,3 +59,4 @@ _No filled family fields on the TAH profile._
 Re-grep (deepen-x slice 09181500-5, 2026-09-20): hit set unchanged (whos-who-1765, ourjourneys245, index, two taiwanjustice-net news HOLD) - SKIP-with-reason: corpus saturated.
 複核（deepen-x slice 09201300-5, 2026-09-21）：re-grep 命中集不變（whos-who-1765、ourjourneys245、index、taiwanjustice-net 兩則新聞 HOLD）— SKIP-with-reason：語料已飽和。
 複核（deepen-x slice 09211300-3, 2026-09-22）：re-grep 命中集不變（whos-who-1765、ourjourneys245 夏令會簡史已吸收、index、taiwanjustice-net 兩則新聞 HOLD 維持）— SKIP-with-reason：語料已飽和，無新增回憶錄材料。
+複核（deepen-x slice 09220700-1, 2026-09-22）：re-grep 命中集不變（whos-who-1765、ourjourneys245 夏令會簡史已吸收、index、taiwanjustice-net 兩則新聞 HOLD 維持）— SKIP-with-reason：語料已飽和。
