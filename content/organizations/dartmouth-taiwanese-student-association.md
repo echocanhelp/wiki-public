@@ -9,7 +9,7 @@ last_reviewed: 2026-09-21
 ---
 # Dartmouth Taiwanese Student Association
 
-<!-- deepen-x 09191200-25: SKIP re-confirmed 2026-09-21 (fresh grep empty / same hits as below). 09180400-18: SKIP — corpus 'Dartmouth' hits are not about this org: a FASCA-LA talk by Dartmouth student Nathaniel Chen (陳彥浩), a Jeremy Lin Harvard-vs-Dartmouth game mention, and a Dartmouth Tuck Taiwan study trip. No memoir material names the TSA; nothing absorbable. -->
+<!-- deepen-x 09210906-3: SKIP re-confirmed 2026-09-22 (fresh grep 'Dartmouth Taiwanese Student' in works/articles returned zero hits). Earlier: deepen-x 09191200-25 SKIP (2026-09-21); 09180400-18 SKIP — corpus 'Dartmouth' hits are not about this org: a FASCA-LA talk by Dartmouth student Nathaniel Chen (陳彥浩), a Jeremy Lin Harvard-vs-Dartmouth game mention, and a Dartmouth Tuck Taiwan study trip. No memoir material names the TSA; nothing absorbable. -->
 
 ## Identity Snapshot
 - **English:** Dartmouth Taiwanese Student Association
