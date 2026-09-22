@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # Gail Lee (李秀文)
 
@@ -41,6 +41,8 @@ Gail Hsiu-Wen Lee’s passion to bring live classical music to Central New Jerse
 Corpus re-grep 2026-09-20 (slice 09181500-17, 李秀文 / Gail Lee): hit set unchanged — musician63 and whoswho1115-2 remain the only corpus mentions; no new facts; HOLD on degree field stands.
 
 Corpus re-grep 2026-09-21 (slice 09201400-20): hit set unchanged (musician63, whoswho1115-2, works index only) — SKIP: no absorbable memoir/community text beyond what is already recorded.
+
+Corpus re-grep 2026-09-22 (slice 09211400-8): hit set unchanged (musician63, whoswho1115-2, works index only) — SKIP; HOLD on degree field (M.S. vs M.M.) stands.
 ## Family
 
 _No filled family fields on the TAH profile._

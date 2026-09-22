@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # Prof. Teresa H. Meng (孟懷縈教授)
 
@@ -50,4 +50,4 @@ _No filled family fields on the TAH profile._
 - Corpus re-grep (孟懷縈 / Teresa H. Meng, content/works + content/articles) returns only the harvest index — the sole work naming her is her own encyclopedia record [[works/taiwaneseamericanhistory-org/whos-who-1861-teresa-h-meng|TAH #1861]] (published 2017-08-21), already wikilinked above. No memoir or community text in the vault adds facts beyond the TAH tables; nothing absorbable, no new biography added.
 - 複核（deepen-x slice-25, slice-09160700-23, slice-09162138-20, slice-09170130-16, slice-09170500-15, slice-09180131-18, 至 2026-09-18）：re-grep 孟懷縈 / Teresa H. Meng（content/works + content/articles）僅見本人書目記錄 #1861 與 harvest index — SKIP, 無回憶錄/社群材料可吸收。
 - 複核（deepen-x slice-09190130-7, 2026-09-20）：re-grep 孟懷縈 / Teresa H. Meng（content/works + content/articles）僅見本人書目記錄 #1861 與 harvest index — SKIP，無可吸收材料。
-- 複核（deepen-x slice-09201400-15, 2026-09-21）：re-grep 孟懷縈 / Teresa H. Meng（works + articles）hit set identical — 僅 #1861 書目記錄與 harvest index；同姓「Meng」命中均為他人（Grace Meng, Meng-Chieh Liu, Lulu Meng, Meng-Chih Chiang）。SKIP, verified-saturated.
+- 複核（deepen-x slice-09211400-6, 2026-09-22）：re-grep 孟懷縈 / Teresa H. Meng（works + articles）hit set identical — 僅本人書目記錄 #1861 與 works/index。SKIP, verified-saturated.
