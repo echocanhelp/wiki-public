@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # Christina Hu (胡若涵)
 
@@ -60,3 +60,4 @@ _No filled family fields on the TAH profile._
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - Corpus re-grep 2026-09-21 (slice 09210317-1): hit set fully linked, no new absorbable material.
+- Corpus re-grep 2026-09-22 (slice 09212352-3): SKIP-with-reason — hit set unchanged (own #1586, Blacklist film records, census/Pew TACL records, TJJ Pew quote); all linked, corpus saturated; Blacklist-vs-corporate-career HOLD stands.
