@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # Prof. Hsu-Te Cheng (鄭胥德教授)
 
@@ -30,7 +30,7 @@ last_reviewed: 2026-09-21
 <!-- tah-tables:end -->
 
 ## Role in the Community
-- TAH Who's Who #1930 人物檔案（[[works/taiwaneseamericanhistory-org/whos-who-1930-hsu-te-cheng|1930. Prof. Hsu-Te Cheng 鄭胥德教授]], published 2017-11-06）。Corpus holds the bibliographic record only; no memoir or community narrative beyond the TAH profile absorbed. Re-verified 2026-09-21 (deepen-x 09200900-26): fresh ZH+EN greps in works/ and articles/ hit only this record and the works index.
+- TAH Who's Who #1930 人物檔案（[[works/taiwaneseamericanhistory-org/whos-who-1930-hsu-te-cheng|1930. Prof. Hsu-Te Cheng 鄭胥德教授]], published 2017-11-06）。Corpus holds the bibliographic record only; no memoir or community narrative beyond the TAH profile absorbed. Re-verified 2026-09-22 (deepen-x 09210900-13): fresh ZH+EN greps in works/ and articles/ hit only this record and the works index.
 
 ## Family
 

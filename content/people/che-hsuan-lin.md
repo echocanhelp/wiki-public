@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # Che-Hsuan Lin (林哲瑄)
 
@@ -31,7 +31,7 @@ Accomplishment
 <!-- tah-tables:end -->
 
 ## Role in the Community
-Corpus check (2026-09-20 re-verify): the only corpus material naming him is his own TAH Who's Who entry, [[works/taiwaneseamericanhistory-org/whos-who-1747-che-hsuan-lin|1747. Che-Hsuan Lin 林哲瑄]]. No memoir or movement-record hits — he appears in the corpus only as a TAH Who's Who subject (baseball career), not as a movement actor.
+Corpus check (2026-09-22 re-verify, deepen-x 09210900-13): the only corpus material naming him is his own TAH Who's Who entry, [[works/taiwaneseamericanhistory-org/whos-who-1747-che-hsuan-lin|1747. Che-Hsuan Lin 林哲瑄]]. No memoir or movement-record hits — he appears in the corpus only as a TAH Who's Who subject (baseball career), not as a movement actor.
 
 ## Family
 
