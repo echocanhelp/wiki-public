@@ -6,7 +6,7 @@ tags:
   - Taiwanese-American
   - Taiwan-Center-group-member
 verification_status: published
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # Formosan Association for Public Affairs Los Angeles(FAPA-LA)
 
@@ -36,6 +36,8 @@ last_reviewed: 2026-09-21
 - Coalition footprint in LA: FAPA 洛杉磯分會 jointly hosted 郭建國 at the 大洛杉磯台灣會館 (2018-01-27) with 台獨建國聯盟 (WUFI) 洛杉磯支部, FAHR, and 自由台灣黨美國後援會 ([[articles/taiwanjustice-net/2021/20210210233043_2018_01_23_郭建國1-27在大洛杉磯台灣會館分享發起大旗隊和台_5420bd6332e8fd82|郭建國在大洛杉磯台灣會館分享]]).
 - Corpus re-check (2026-09-21, deepen-x slice 09201500-1, vault-only): grep of works + articles for FAPA-LA/洛杉磯 hits are the LA TAA/TAP/WUFI chapter records plus the taiwanjustice.net items absorbed above; chapter founding date still unknown (HOLD above).
 - 2021-05 — the chapter's named public presence in the Pew-identity response: 「Ken Wu, FAPA Los Angeles」 appears among the signatories of the community statement 「Response to Pew Research Reports Hiding Taiwanese Identity: We made it count. Now tell our stories.」 ([[works/taiwaneseamerican-org/pew-research-center-taiwanese-american-statement|Pew response statement]], 2021-05) — the chapter's first named-representative record in the corpus after the 2018/2022 event items above.
+- Founding detail from the EN account of the founding memoir ([[works/taiwaneseamericanhistory-org/ourjourneys9-eng|9. 台灣會館建館委員會的誕生 / Patrick Huang]]): the 1982-02-13 LA meeting that produced FAPA was convened after WUFI president 張詹朝洪 (Tsan-hung George Chang) wrote (1982-01-10) to twenty colleagues worldwide inviting them to Los Angeles; the push to put national-diplomacy work on the agenda came most insistently from Joshua Yapp, and 蔡同榮 confirmed it by express mail 1982-01-27. Attendees (15): Charles Ting, Kenjohn Wang, Ming-an Chou, Ming-che Lin, Chien-hui Hsu, Philip Chen, Tan-Sun (Mark) Chen, Tu Chen, Yu-hsin Kuo, Ming Min Peng, Jen-Tai Tsai, Chia-yu Yang, Tsung-chang Yang (C.C. Yang), Fu-Chen Lo, and 蔡同榮 — the radio-station plan was shelved after ~1–2 h and the meeting pivoted to founding a diplomatic-affairs organization; same founding account in 蔡同榮's own memoir [[works/taiwaneseamericanhistory-org/ourjourneys65-eng|65. FAPA的誕生 / The Birth of FAPA]].
+- Later lobbying record at movement scale: FAPA first pushed the Taiwan Travel Act in 2007 (HCR 136 / SCR 48) and its 台灣倡議週 grassroots lobby (100+ Taiwanese Americans visiting 100+ congressional offices in one day, ~20 co-sponsors) carried HR 535 / S 1051 over the line — 35+ years of FAPA organizing, per [[works/taiwaneseamericanhistory-org/ourjourneys320|320. 從《台灣旅行法》，看見台美人的草根外交 / 林倢 / 2017-10]]; FAPA's own 2018 communique is held at [[works/taiwaneseamericanhistory-org/fapa-taiwan-communique|FAPA/TAIWAN COMMUNIQUE (2018-05-15)]]. National-level context for the LA chapter's advocacy lineage; no new LA-chapter-specific facts.
 
 ## Related Pages
 
