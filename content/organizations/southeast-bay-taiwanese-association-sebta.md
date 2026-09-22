@@ -23,6 +23,9 @@ The Southeast Bay Taiwanese Association (SEBTA, 東南灣台灣同鄉會) is a r
 - 2015-05-06 — memoirist Leona Chen names SEBTA (with TAFNC and TACL-LYF) among the "fabulous role models" in Taiwanese American organizations who shaped her turn to social activism: [[works/taiwaneseamerican-org/taiwanese-americans-in-solidarity|Taiwanese Americans in Solidarity]].
 - 2015-05-27 — the same mentorship testimony recurs in a second first-person record: [[works/taiwaneseamerican-org/in-honor-of-taiwanese-ancestry-and-identity|In Honor of Taiwanese Ancestry and Identity]]. Next-generation memoir corroborates the chapter's youth-mentorship role beyond directory data.
 
+## Worklog
+- 2026-09-22 deepen-x slice 09210500-21: VERIFY — fresh grep of content/works + content/articles returns only the three files already cited here (own directory record, Leona Chen's two mentorship testimonies); no new corpus facts to absorb.
+
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/southeast-bay-taiwanese-association-sebta/)
 

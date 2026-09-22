@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # Prof. Ta-Chiang Liu (劉大強教授)
 
@@ -35,7 +35,7 @@ _No filled family fields on the TAH profile._
 
 ## Role in the Community
 
-Corpus check 2026-09-18, re-verified 2026-09-21 (slice 09191200-12): the only record in `content/works` and `content/articles` is his own TAH Who's Who bibliographic entry, so nothing new is absorbable beyond the link-through.
+Corpus check 2026-09-18, re-verified 2026-09-21 (slice 09191200-12) and 2026-09-22 (slice 09210500-27): the only records in `content/works` and `content/articles` are his own TAH Who's Who bibliographic entry and its `works/index` listing, so nothing new is absorbable beyond the link-through.
 
 - [[works/taiwaneseamericanhistory-org/whos-who-2122-ta-chiang-liu|TAH #2122 — Prof. Ta-Chiang Liu 劉大強教授]] (2018-06-07, band B) — the record page lists him as a named subject; no biography in the vault beyond the press-kit snapshot above.
 

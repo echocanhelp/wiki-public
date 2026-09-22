@@ -42,6 +42,9 @@ No further corpus narrative was found to absorb; no biography invented.
 
 _No filled family fields on the TAH profile._
 
+## Worklog
+- 2026-09-22 deepen-x slice 09210500-21: VERIFY — fresh grep returns only the two 2016-08-13 records already wikilinked (musician355, whoswho1235) plus the works index; both are bibliographic-only, nothing narrative to absorb.
+
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/michele-cheng/)
 

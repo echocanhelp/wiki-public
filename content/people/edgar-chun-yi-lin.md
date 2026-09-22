@@ -63,6 +63,10 @@ The TAH archive carries this person under both romanizations — Edgar (TAH #174
 - Environmental-movement context in the vault: [[organizations/taiwan-environmental-action-network-tean||Taiwan Environmental Action Network (TEAN)]].
 - Graduate-school context: [[organizations/taiwanese-association-of-indiana||Taiwanese Association of Indiana]] as community context at Indiana Univ., where he took his M.S. and Ph.D. in Biology.
 
+## From the record
+
+- 2021-02-28 — 台美史料中心（T. A. Archives）3月通訊重刊林俊義〈活出淋漓盡致的生命〉自述（2015-02），記其赴美後由美國文學轉讀生物、於 Indiana Goshen College 重新起步的經歷（[[articles/taiwanjustice-net/2021/20210419132127_2021_02_28_march-2021-newsletter-t-a-archives-台美史料中心_0832558e3b4e5ac7|TJJ, 2021-02-28]]；同文另存 [[articles/taiwanjustice-net/2026/20260208202549_march-2021-newsletter-t-a-archives-台美史料中心_b7327dcf888cee82|2026-02-08 快照]]）。
+
 ## Sources
 - [TAH #174 encyclopedia: 174. Prof. Edgar Lin 林俊義教授](https://taiwaneseamericanhistory.org/174-prof-edgar-lin/)
 - [TAH #255 encyclopedia: 255. 林俊義教授 / 台灣環保之父](https://taiwaneseamericanhistory.org/255-%e6%9e%97%e4%bf%8a%e7%be%a9%e6%95%99%e6%8e%88-%e5%8f%b0%e7%81%a3%e7%92%b0%e4%bf%9d%e4%b9%8b%e7%88%b6/)

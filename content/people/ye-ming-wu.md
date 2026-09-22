@@ -45,6 +45,9 @@ last_reviewed: 2026-09-22
 - [TAH #1184 encyclopedia: 1184. Ye-Ming Wu 吳怡明 / 2016/07](https://taiwaneseamericanhistory.org/whoswho1184/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/ye-ming-wu/)
 
+## Worklog
+- 2026-09-22 deepen-x slice 09210500-15: SKIP confirmed — re-grep returned only records already linked above (ourjourneys24/53 ±EN, whoswho1184); no new corpus material.
+
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

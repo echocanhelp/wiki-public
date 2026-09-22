@@ -5,7 +5,7 @@ name_en: "Good Shine Kitchen"
 name_zh: "故鄉台灣料理"
 tags: [organization, business, tahs-family]
 verification_status: owner-verified
-last_reviewed: 2026-09-20
+last_reviewed: 2026-09-22
 ---
 # Good Shine Kitchen (故鄉台灣料理)
 

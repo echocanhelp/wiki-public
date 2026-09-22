@@ -44,6 +44,7 @@ _No filled family fields on the TAH profile._
 ## Worklog
 - 2026-09-20 deepen-x slice 09180600-13: SKIP — corpus hits limited to her own bibliographic record 181 (already wikilinked in Role in the Community) and the works index; no memoir or article in content/works / content/articles names 賈雯蘭 beyond that record.
 - 2026-09-21 deepen-x slice 09200400-12: SKIP (confirmed) — fresh grep returns the same two files only (record #181 + works index).
+- 2026-09-22 deepen-x slice 09210500-21: SKIP (re-confirmed) — same two files; stable corpus, no new material across three consecutive passes.
 
 ## Sources
 - [TAH #181 encyclopedia: 181. Wenlan Chia 賈雯蘭](https://taiwaneseamericanhistory.org/181-wenlan-chia-%e8%b3%88%e9%9b%af%e8%98%ad/)
