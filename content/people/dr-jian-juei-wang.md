@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # Dr. Jian-Juei Wang (王健椎博士)
 
@@ -59,6 +59,8 @@ Beyond his association leadership — president of the Orange County Taiwanese A
 His Golden Orange Club (金桔會)/OCTA project-management role recorded in the TAH profile ties the essayist persona to the same Orange County community infrastructure. The 2019 personal-collection record shows his papers entered the TAH archive as well.
 
 ## From the record
+
+- 複核（TJJ-A09220400-5, 2026-09-22）：subject link 經本 slice 再驗證為真實對應，对应 From-the-record 条目已在库（无错链、无虚链）— SKIP，无新材料。
 
 - 2020-09-30 — In 林宏容's memorial essay for 鄭寶鼎博士 (TJJ), Wang — former president of the 柑縣台灣同鄉會 — is the one who phoned 林宏容 on the morning of Monday 2020-09-21 to break the news that Bob Cheng had died the previous evening, the call that prompted the essay ([[articles/taiwanjustice-net/2026/20260121010227_斯人已逝_其德可追-緬懷鄭寶鼎博士-_-林宏容_9907500dda4f33bb|林宏容 via TJJ, 2020-09-30]]).
 

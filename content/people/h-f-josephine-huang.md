@@ -32,6 +32,8 @@ last_reviewed: 2026-09-22
 
 ## From the record
 
+- 複核（TJJ-A09220400-5, 2026-09-22）：subject link 經本 slice 再驗證為真實對應，对应 From-the-record 条目已在库（无错链、无虚链）— SKIP，无新材料。
+
 - 2021-05-13 — 南加州僑界48個社團（含台美人歷史協會、台美律師協會）於洛杉磯華僑文教服務中心開發布會，連署聯合聲明支持台灣以制度化管理參與WHA/WHO，為聲明共同發起人之一（[[articles/taiwanjustice-net/2021/20210616072940_2021_05_17_2021年南加州僑界支持台灣參與世界衛生大會wha聯合聲_b1d58af16c0a5e5b|TJJ 2021-06-16 轉載]]；[[articles/taiwanjustice-net/2025/20251108183438_2021年南加州僑界支持台灣參與世界衛生大會wha聯合聲_80c0a825a7a661b6|2025-11-08 快照]]）。
 - 2020-08-08 — As 台灣人公共事務會柑縣分會會長 praised 蕭美琴's 駐美代表 appointment (2020-07-24 履新):萧 was formerly a TACS intern, her father a seminary president; urged strengthening 臺美經貿, investment-trade talks and high-level exchanges so President 蔡英文 could visit the US as president ([[articles/taiwanjustice-net/2020/20200823091444_2020_08_08_大洛杉磯台灣會館等台美人團體和領袖祝賀蕭美琴_bff4c7110803d864|TJJ, 2020-08-08]]).
 

@@ -36,6 +36,8 @@ Founding member and board member of the American Premium Tea Institute (now merg
 
 ## From the record
 
+- 複核（TJJ-A09220400-5, 2026-09-22）：subject link 經本 slice 再驗證為真實對應，对应 From-the-record 条目已在库（无错链、无虚链）— SKIP，无新材料。
+
 - 2022-02-19 — 以台灣茶葉大使身分主講第21回世界台灣文化論壇「台灣茶e故事—奉一杯台灣」，談台灣茶產業歷史、烏龍茶分類、台灣茶新文化與食安生態科技；自述新竹關西出生的客家人，建中、台大經濟系，家開茶工廠，退伍後25歲赴美洛杉磯成立加州第一間茶加工廠，2007年起受台灣製茶公會、農委會委託協助推廣台灣烏龍茶（[[articles/taiwanjustice-net/2022/20221002084528_2022_02_12_第21回世界台灣文化論壇_台灣茶e故事-奉一杯台灣_4b3dbc0ec673dc45|TJJ 論壇邀請，2022-02-12]]）。
 - 2019-06-29 — 主講「知性·品味·喜悅·台灣烏龍」慶祝台灣烏龍茶銷美150週年講座（[[articles/taiwanjustice-net/2019/20190722185234_category_culture_97c86307e14a96f8|TJJ 文化類記錄]]）。
 

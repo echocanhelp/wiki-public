@@ -30,6 +30,8 @@ last_reviewed: 2026-09-22
 
 ## From the record
 
+- 複核（TJJ-A09220400-5, 2026-09-22）：subject link 經本 slice 再驗證為真實對應，对应 From-the-record 条目已在库（无错链、无虚链）— SKIP，无新材料。
+
 - 2015-03-10 — 范姜提昂〈當直選的統派總統發飆〉（Taipei Times 中英文版）批評其缺乏術（statecraft）：2013 年九月風潮帶頭逐王金平、令國人被迫看著總統為害而無可如何，現行體制無處理性格缺陷的機制，實權總統無法成為國家團結象徵（TJJ 上傳 2015-03-11，2024-04-23 存檔）（[[articles/taiwanjustice-net/2024/20240423102035_root_ae7271322e42897b|TJJ，2024-04-23 存檔]]）。
 - 2026-07-28 — taiwanjustice.net 文章存檔索引（29,103 篇・2011–2026）以本人為關鍵人物條目收錄（[[articles/taiwanjustice-net/index||TJJ 文章存檔索引]]）。
 - 2013-04-22 — TJJ 存檔原文：Jack Healey（Human Rights Action Center）聲明直指馬英九——「Do not let Ma Ying-jeou murder Chen Shui-bian」：指其政府涉入司法、受復仇政治驅動，在支持度仅約11%、無競選壓力下仍將扁自可應變多重病情的醫療機構移回僅有監獄診所的監所，等同選擇「慢動作謀殺」；聲明並批評反對黨忙於操弄選票而忽略扁醫療權本身 —— [[articles/taiwanjustice-net/2024/20240520030447_root_9e7164ea03c1512b|TJJ：The Madness of Ma（2013-04-22）]]。

@@ -45,6 +45,8 @@ last_reviewed: 2026-09-22
 
 ## From the record
 
+- 複核（TJJ-A09220400-5, 2026-09-22）：subject link 經本 slice 再驗證為真實對應，对应 From-the-record 条目已在库（无错链、无虚链）— SKIP，无新材料。
+
 - 2020-09-30 — 林宏容's memorial essay for 鄭寶鼎博士 (TJJ) records Wang as one of the founding builders of 台美史料中心: he joined the first 籌備會議 at 陳立明博士's home in 2010, and took charge of the centre's audio and audiovisual equipment when Bob Cheng opened the Irvine site in 2014-02 ([[articles/taiwanjustice-net/2026/20260121010227_斯人已逝_其德可追-緬懷鄭寶鼎博士-_-林宏容_9907500dda4f33bb|林宏容 via TJJ, 2020-09-30]]).
 - Re-check 2026-09-22 (slice 09220400-32): fresh grep again returns the identical set — [[works/taiwaneseamericanhistory-org/200-hann-ping-wang-e7-8e-8b-e6-bc-a2-e5-b9-b3201501|TAH #200]], [[works/taiwaneseamericanhistory-org/mystories-753|TAH #753]], [[works/taiwaneseamericanhistory-org/ourjourneys107|Our Journeys 107]], 林宏容's TJJ essay, and the works index — all absorbed; no new community facts.
 - Re-check 2026-09-21 (slice 09210317-23): fresh grep 王漢平/Hann-Ping Wang returns the same corpus set — own [[works/taiwaneseamericanhistory-org/200-hann-ping-wang-e7-8e-8b-e6-bc-a2-e5-b9-b3201501|TAH #200]] entry, his memoir [[works/taiwaneseamericanhistory-org/mystories-753|TAH #753]], the 台灣民謠介紹 segment in [[works/taiwaneseamericanhistory-org/ourjourneys107|Our Journeys 107]], and 林宏容's TJJ memorial essay — all already absorbed above; no new community facts.

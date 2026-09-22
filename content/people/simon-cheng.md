@@ -54,6 +54,8 @@ last_reviewed: 2026-09-22
 
 ## From the record
 
+- 複核（TJJ-A09220400-5, 2026-09-22）：subject link 經本 slice 再驗證為真實對應，对应 From-the-record 条目已在库（无错链、无虚链）— SKIP，无新材料。
+
 - 2017-07-06 — 其投稿「A Broadway style Taiwanese Opera, When The World Met Taiwan 『遇見台灣』歌仔戲郭懷一北美巡演」列於台灣正義網 English Pages 目錄頁（本快照頁）（[[articles/taiwanjustice-net/2017/20171109045230_category_english-pages_2b4b26ff68b75bc6|TJJ English Pages, 2017-11-09 快照]]）。
 - 2025-01-25 — 第166回世界台灣文化論壇：以台灣人聯合基金會（TUF）會長身分擔任主講人，報告台美人文化遺產傳承（1/10–1/12 第二屆台美人會議摘要）。與談人含前TUF會長賴英慧。（[[articles/taiwanjustice-net/2025/20250318093802_第166回世界台灣文化論壇_試論台美人-e-文化遺產-kap-傳_2490b18e8f37ea79|TJJ, 2025-01-22]]）。
 - 2024-12-21 — Moderated (主持人) the 第161回世界台灣文化論壇 online symposium on the Huang Yi & Kuka North America tour, representing the 美國台灣人聯合基金會 ([[articles/taiwanjustice-net/2025/20250425112924_huangyi-kuka-第161回世界台灣文化論壇_7dfa96523779391d|TJJ, 2024-12-17]]).
