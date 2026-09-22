@@ -6,7 +6,7 @@ tags:
   - Taiwanese-American
   - Taiwan-Center-group-member
 verification_status: published
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # South Bay Taiwanese Association of S. California.
 
@@ -45,3 +45,4 @@ HOLD: conflict — this page lists the association as "of S. California" (Taiwan
 
 - [[organizations/taiwan-center||Taiwan Center]]
 - [[sources/taiwancenter-org||taiwancenter.org]]
+- Corpus re-grep 2026-09-22 (slice 09212352-4): hit set fully linked, no new absorbable material.

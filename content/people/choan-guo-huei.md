@@ -19,6 +19,9 @@ last_reviewed: 2026-09-22
 - 全台會時期 — 任全美台灣同鄉會波士頓分會首任會長，波士頓為全美會 28 個創始分會之一（全美會 1971-08-13 以 The Formosan Club of America, Inc. 登記）（[[works/taiwaneseamericanhistory-org/ourjourneys76|Our Journeys 76]]）。
 - 與許世楷、許千惠、張綺石、鄭德和、王廷宜等於洛杉磯地區成立「台灣人權及文化協會」，並與 FAHR（台灣人權協會）在人權工作上共同合作（[[works/taiwaneseamericanhistory-org/ourjourneys75|Our Journeys 75]]）。
 - 於「台灣協志會」（Taiwanese Alliance for Interculture，TAI）成立大會會員大會獲推選為第一屆董事會七董事之一（同批：黃仲義、陳都、石清正、莊東榮、何文亮、陳宏明；創會長黃仲義）（[[works/taiwaneseamericanhistory-org/ourjourneys37|Our Journeys 37]]）。
+- 1986-01-08 — 台灣獨立建國聯盟美國本部（WUFI-USA）第十屆盟員代表大會（San Jose, CA）當選第二副主席（主席李南風、第一副主席劉重義；同年劉重義退出聯盟）（[[works/taiwaneseamericanhistory-org/ourjourneys234|Our Journeys 234]]）。
+- 1990-09-15 — WUFI-USA 第十三屆盟員代表大會（Upland, CA）再度當選第二副主席（主席郭倍宏、第一副主席楊宗昌；1991-12 聯盟遷台完成）（[[works/taiwaneseamericanhistory-org/ourjourneys234|Our Journeys 234]]）。
+- 生活座談會脈絡補充：劉天良口述回憶錄指生活座談會（後發展為「台美人論壇」）培養社區領袖，郭清江與謝清志、王秋森、蘇育德、蔡滄波、江昭儀、李木通、黃根深等與會者後來回台貢獻（與本页 1974 南區創始會員紀錄互為佐證）（[[works/taiwaneseamericanhistory-org/ourjourneys240|Our Journeys 240]]）。
 
 ## From the record
 
