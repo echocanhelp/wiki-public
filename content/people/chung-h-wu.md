@@ -48,7 +48,7 @@ Wu is remembered in the memoir corpus not for credentials but as a community ben
 
 HOLD: conflict in romanization — Chung H. Wu (this page, TAH #1347) vs Chung-Hsiu Wu (my-stories #833 tribute title). His wife 吳陳芳容 has her own page: [[people/f-z-chen-wu|F. Z. Chen Wu 吳陳芳容]] (TAH #1348, same 2016/10 batch).
 
-- Corpus re-check (2026-09-21, slice 09210317-18): fresh grep across works + articles (both romanizations) returns only the records already absorbed above (#833 tribute, #1347 Who's Who) — no new community facts to absorb.
+- Corpus re-check (2026-09-21, slice 09210317-18; re-run 2026-09-22, slice 09220500-26): fresh grep across works + articles (both romanizations) returns only the records already absorbed above (#833 tribute, #1347 Who's Who) — no new community facts to absorb.
 
 ## Sources
 - [TAH #833 encyclopedia: 833. A tribute to our  “ 貴人（Benefactor）”  Chung-Hsiu Wu, M.D. （吳忠修） | 05/2022](https://taiwaneseamericanhistory.org/my-stories-833/)
