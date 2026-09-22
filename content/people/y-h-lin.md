@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # Y. H. Lin (林永雄)
 
@@ -32,7 +32,7 @@ last_reviewed: 2026-09-21
 _No filled family fields on the TAH profile._
 
 ## Role in the Community
-- Corpus presence is limited to his own TAH encyclopedia entry, held locally as [[works/taiwaneseamericanhistory-org/whoswho1496|1496. Y. H. Lin 林永雄 / 2017/02]]; no other memoir or community record names him (verified by corpus grep, 2026-09-20).
+- Corpus presence is limited to his own TAH encyclopedia entry, held locally as [[works/taiwaneseamericanhistory-org/whoswho1496|1496. Y. H. Lin 林永雄 / 2017/02]]; no other memoir or community record names him (verified by corpus grep, 2026-09-22).
 
 ## Sources
 - [TAH #1496 encyclopedia: 1496. Y. H. Lin 林永雄 / 2017/02](https://taiwaneseamericanhistory.org/whoswho1496/)

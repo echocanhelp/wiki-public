@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # Jason Yang (楊憶軍)
 
@@ -27,7 +27,7 @@ last_reviewed: 2026-09-21
 
 ## Role in the Community
 
-- 本庫收有其 TAH Who's Who 書目紀錄（[[works/taiwaneseamericanhistory-org/whoswho1730|1730. Jason Yang 楊憶軍 / 07/2017]]，2017-07-02）。除該紀錄外，語料庫（works/articles）暫無其他記述可吸收——「Jason Yang」為常見姓名，後續比對須以 TAH #1730 檔案內容為準，勿以同名語料冒入。
+- 本庫收有其 TAH Who's Who 書目紀錄（[[works/taiwaneseamericanhistory-org/whoswho1730|1730. Jason Yang 楊憶軍 / 07/2017]]，2017-07-02）。除該紀錄外，語料庫（works/articles）暫無其他記述可吸收——「Jason Yang」為常見姓名，後續比對須以 TAH #1730 檔案內容為準，勿以同名語料冒入。（復核語料比對 2026-09-22：除書目紀錄外仍無其他記述。）
 
 ## Family
 

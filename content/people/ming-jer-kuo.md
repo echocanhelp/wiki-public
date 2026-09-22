@@ -33,7 +33,7 @@ last_reviewed: 2026-09-22
 _No filled family fields on the TAH profile._
 
 ## Role in the Community
-- Corpus record: [[works/taiwaneseamericanhistory-org/whoswho1593|1593. Ming Jer Kuo 郭明哲 / 2017-03]] — the person's own TAH Foundation encyclopedia entry in our corpus. Fresh 2026-09-21 ZH+EN greps of content/works and content/articles found no further memoir mentions beyond this own record.
+- Corpus record: [[works/taiwaneseamericanhistory-org/whoswho1593|1593. Ming Jer Kuo 郭明哲 / 2017-03]] — the person's own TAH Foundation encyclopedia entry in our corpus. Fresh 2026-09-22 ZH+EN greps of content/works and content/articles found no further memoir mentions beyond this own record.
 
 ## Sources
 - [TAH #1593 encyclopedia: 1593.  Ming Jer Kuo 郭明哲 / 2017/03](https://taiwaneseamericanhistory.org/whoswho1593/)

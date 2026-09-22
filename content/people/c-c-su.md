@@ -36,7 +36,7 @@ last_reviewed: 2026-09-22
 
 
 ## Role in the Community
-- Corpus record: [[works/taiwaneseamericanhistory-org/whoswho956|956. C. C. Su 蘇仲卿 / 2016-04]] — the person's own TAH Foundation encyclopedia entry in our corpus. Fresh 2026-09-21 ZH+EN greps of content/works and content/articles found no further memoir mentions beyond this own record.
+- Corpus record: [[works/taiwaneseamericanhistory-org/whoswho956|956. C. C. Su 蘇仲卿 / 2016-04]] — the person's own TAH Foundation encyclopedia entry in our corpus. Fresh 2026-09-22 ZH+EN greps of content/works and content/articles found no further memoir mentions beyond this own record.
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/c-c-su/)

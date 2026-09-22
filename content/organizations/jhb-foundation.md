@@ -21,7 +21,7 @@ last_reviewed: 2026-09-22
 
 ## Source Notes
 
-- **SKIP (corpus sweep 2026-09-20):** Corpus mentions of 「佳和」 in taiwanjustice-net articles refer to the **佳和集團** (Taiwan construction group, 翁茂鍾 era — 怡華公司、佳園建設) — a different entity from this LA 佳和文教基金會. Nothing absorbable; page stays listing-only.
+- **SKIP (corpus sweep 2026-09-20; re-verified 2026-09-22):** Corpus mentions of 「佳和」 in taiwanjustice-net articles refer to the **佳和集團** (Taiwan construction group, 翁茂鍾 era — 怡華公司、佳園建設) — a different entity from this LA 佳和文教基金會. Nothing absorbable; page stays listing-only.
 
 - **Content priority A:** Name on Taiwan Center group-members page  
 - **Hub:** [[sources/taiwancenter-org||taiwancenter.org]]  
