@@ -50,6 +50,7 @@ _No filled family fields on the TAH profile._
 - 2025-07 — 中研院首度明確要求院士須具中華民國國籍一案，伍焜玉以院士會議發言人身分透過新聞稿說明「會積極協助國籍認定有疑義的準院士釐清國籍問題」，於第34次院士會議（7日會後記者會）代表院里回應外界關切 — corpus 記錄其以院士身分擔任院士會議發言人，為本頁既存「中研院特聘研究員及所長」欄位之外的院士活動佐證 ([[articles/taiwanjustice-net/2025/20250718101729_台灣中研院首度明確要求院士須具中華民國國籍_185130c9fda2ac2f|TJJ 存檔, 2025-07-18 快照]]).
 
 - Corpus re-grep 2026-09-22 (slice 09211300-4): hit set unchanged (ourjourneys69, ourjourneys291, mystories320, TAH #659, TAH #251, TAH #112); all already absorbed; Academia Sinica 院士 cross-reference holds. SKIP-no-new-material.
+- Corpus re-grep 2026-09-22 (slice 09220800-2): fresh 伍焜玉 grep of works+articles returns exactly the absorbed set (mystories320, #112, ourjourneys69, ourjourneys291, #251, #659, TJJ 2025-07 院士國籍報導); broader Kenneth Wu grep adds only same-surname/unrelated profiles (Kenneth Kuo 涂陳珠欽, Wen-Chen Wu). Nothing new absorbable. SKIP-no-new-material.
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-kenneth-k-wu/)

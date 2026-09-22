@@ -28,6 +28,8 @@ The Taiwanese Association of America Colorado (TAA-CO, 科羅拉多 台灣同鄉
 - Parallel Colorado-Taiwanese civic infrastructure: a FAPA 台灣人公共事務會 Colorado chapter record exists alongside the TAA chapter — [[works/taiwaneseamericanhistory-org/11-colorado-chapter-fapa|FAPA 克羅拉多分會 (2015 directory entry)]].
 - Regional-plains context: 科羅拉多 is one of the six plains states covered by the 平原區台灣人秋令会 (Plains Taiwanese Camp Meeting, founded 1985 in Manhattan, Kansas over 1983–85 organizing by 范良正, 楊景文, 刁明華, 黃金來, 徐福棟, 林啓東); a 1996 letter in the corpus signed 「TAA/Colorado Wu 錫圭」 recalls the camp meeting's founding theme 「大家來，來做堆」 and its deliberate break from Chinese-American organizations — [[works/taiwaneseamericanhistory-org/ourjourneys296|Our Journeys #296]].
 
+- Corpus re-check (TAA/Colorado / 科州台灣同鄉會 / 科羅拉多, works+articles, slice-09220800-3 pass 2026-09-22): fresh grep returns only records already linked above (directory entries, 1980 Denver record, 2019 newsletter, chapter history, Our Journeys #37/#357/#296, FAPA Colorado); the extra match [[works/taiwaneseamericanhistory-org/ourjourneys106|Our Journeys #106]] is a personal mention of 吳東山 (Colorado State Univ. PhD, tangwai activist barred from returning to Taiwan), not a chapter fact — no new absorbable material; verify-saturated.
+
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-association-of-america-colorado/)
 

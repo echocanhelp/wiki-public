@@ -29,6 +29,8 @@ Taiwanese American Professionals New York (TAP-NY) is a chapter of the Taiwanese
 - Corpus re-grep (台美菁英 / TAP-NY / Taiwanese American Professionals, works+articles, slice-09211400-2 pass 2026-09-22): hit set unchanged — the sibling chapter records (austin-chapter-tap, d-c-chapter-tap, boston-chapter-tap, activities-of-orange-county-chapter-tap, taiwanese-american-professionals-tap, Seattle scholarship) are all already linked above. No new absorbable material; verify-saturated.
 - Corpus re-grep 2026-09-21 (slice 09201500-11): TAH-side hits unchanged (chapter record 7 + index); the new material absorbed above comes from the taiwaneseamerican-org source, absent from the page until now.
 
+- Corpus re-grep (台美菁英 / TAP-NY, works+articles, slice-09220800-3 pass 2026-09-22): the Our Journeys hits (#30/#74/#138/#259/#261/#309) matched on generic wording and carry no TAP chapter text; all real TAP records (chapter record 7, umbrella, sibling chapters, Seattle scholarship, taiwaneseamerican-org event set) are already linked above. No new absorbable facts; verify-saturated.
+
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-american-professionals-new-york/)
 

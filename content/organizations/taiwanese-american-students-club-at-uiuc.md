@@ -31,6 +31,8 @@ The Taiwanese American Students Club (TASC) at UIUC is a registered student orga
 - Corpus re-check (2026-09-21, deepen-x slice 09201500-3, vault-only): grep for TASC/UIUC/Formosan Student Club returns the work pages already linked above plus [[works/taiwaneseamericanhistory-org/ourjourneys81|Our Journeys #81]] (周烒明 memoir) — its "Formosan Student Club" is the 1963 **University of Wisconsin** registration (UW Formosan Student Club 威大台灣同學會, the 利騰俊 Student Senate debate), a different campus; its 伊利諾 mentions are only 陳清池's letter and a 自由長征 stop, not this club. Nothing new absorbable; verify-saturated.
 - Community-activity record of the club itself: 「Ice Skate with the Taiwanese American Students Club at UIUC」, a 2012-11-14 feature on a TASC ice-skate event in [[sources/taiwaneseamerican-org|taiwaneseamerican.org]] — [[works/taiwaneseamerican-org/ice-skate-with-the-taiwanese-american-students-club-at-uiuc|Ice Skate with TASC at UIUC (2012)]]; bibliographic record only (band B), it documents the club's social-programming side alongside its culture-education mission.
 
+- Corpus re-check (TASC / UIUC / Formosan Student Club, works+articles, slice-09220800-3 pass 2026-09-22): fresh grep returns only pages already linked above (ILUTSA, FAPA/NATEA Illinois, Our Journeys #76/#81, Formosan Student Club newsletter, ice-skate feature); the concerts114 / taiwanese-collegian / 北台學生會 hits are pattern false positives with no UIUC-TASC content. No new absorbable facts; verify-saturated.
+
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-american-students-club-at-uiuc/)
 
