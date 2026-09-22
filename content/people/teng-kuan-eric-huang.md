@@ -32,6 +32,7 @@ Teng-Kuan (Eric) Huang 黃勝寬 – History of Taiwanese American (T.A. Archive
 ## Role in the Community
 - Documented as a Taiwanese American community pianist/accompanist in the 2017 TAH musician records: [[works/taiwaneseamericanhistory-org/music398|398. Eric (Teng-Kuan) Huang, pianist / 2017/05]] and [[works/taiwaneseamericanhistory-org/eric-teng-kuan-huang-pianist|405. Eric (Teng-Kuan) Huang, Pianist /06/2017]] — matches the freelance piano-accompanist role in the TAH profile.
 - HOLD: conflict in Chinese name — 黃勝寬 (TAH #1637 Who's Who record, this page) vs 黃騰寬 (music398 / #405 musician records, filed under [[people/eric-teng-kuan-huang]]). Same English name and pianist role; not auto-merged — likely duplicate person pages, needs owner check.
+- Corpus re-grep 2026-09-21: works/articles hits are only the three records already linked above plus index listings — no memoir or community-activity material to absorb this pass.
 
 ## Family
 

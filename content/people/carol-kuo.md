@@ -33,6 +33,7 @@ last_reviewed: 2026-09-21
 - 1991 — Spoke on women's issues (婦女) at the 13th North America Taiwanese Summer Camp (夏令會) at Methodist College, Spartanburg, S.C., per the summer-camp history in [[works/taiwaneseamericanhistory-org/ourjourneys245|TAH story #245]].
 - Active in the 台獨建國聯盟 (World United Formosans for Independence): the alliance's planned return-to-Taiwan move was presented to the community by 簡雁齡 herself, recalled in a US-East memoir, [[works/taiwaneseamericanhistory-org/our-journeys-379|TAH story #379]] — consistent with her TAH record listing her as WUFI (台獨聯盟) Central Committee Member.
 - TAH Who's Who record: [[works/taiwaneseamericanhistory-org/whos-who-2259-carol-kuo|TAH encyclopedia #2259]].
+- Re-grep 2026-09-21: corpus hits remain exactly #245, #379, and her own TAH record — both already absorbed above; no new material.
 
 ## Family
 
