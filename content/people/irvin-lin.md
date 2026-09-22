@@ -43,6 +43,7 @@ Accomplishment
 - A family-side account of his career switch appears in 我兒 林斐強(Irvin Lin) 走上「烘焙」之路 ([[works/taiwaneseamericanhistory-org/mystories493|493. 我兒林斐強走上「烘焙」之路]], 12/2016, by Loretta Lin — HOLD: attribution as mother 熊乙杏 not confirmed) — a rare second-generation + parent dual record in the archive.
 
 - Corpus re-grep 2026-09-21 (slice 09201400-27): hit set identical — #234 / #1431 / #1052 / #493 plus index listings; remaining works/articles matches are the known LIEN/IRVIN false positives. Verified saturated.
+- Corpus re-grep 2026-09-22 (slice 09211400-18): hit set identical — #234 / #1431 / #1052 / #493 plus index listings; remaining works/articles matches remain the known LIEN/IRVIN false positives. Verified saturated.
 
 ## Sources
 - [TAH #234 encyclopedia: 234. Irvin Lin 林斐強](https://taiwaneseamericanhistory.org/ota-234/)

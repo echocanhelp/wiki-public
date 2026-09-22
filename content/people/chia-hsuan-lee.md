@@ -53,3 +53,5 @@ _No filled family fields on the TAH profile._
 複核（deepen-x 2026-09-16, re-verified 2026-09-17 slice-20、slice-17、2026-09-18 slice-26、2026-09-20 slice-11）：re-grep 結果與前次相同 — corpus 僅本人書目 #561/#282 與 index 條目，無可吸收社群材料，維持 SKIP。
 
 複核（deepen-x 2026-09-21, slice 09201400-26）：re-grep 結果與前次相同 — corpus 僅本人書目 #561/#282 與 index 條目，無可吸收社群材料，維持 SKIP。
+
+複核（deepen-x 2026-09-22, slice 09211400-18）：re-grep 結果與前次相同 — corpus 僅本人書目 #561/#282 與 index 條目，無可吸收社群材料，維持 SKIP。
