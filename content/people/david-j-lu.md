@@ -39,7 +39,7 @@ PhD, International Law and International Relations
 ## Role in the Community
 - Corpus record honors him as the first Ph.D. holder in law from Columbia University, N.Y. (1960): [[works/taiwaneseamericanhistory-org/109-dr-david-lu-e7-9b-a7-e7-84-9c-e7-86-99-e5-8d-9a-e5-a3-ab-the-first-ph-d-hold|109. Dr. David Lu 盧焜熙博士 / The first Ph. D. holder in law: Columbia University, N. Y. / 1960]] (published 2015-12-10; band B bibliographic record — full text stays in the vault).
 - Encyclopedia entry in the TAH story corpus: [[works/taiwaneseamericanhistory-org/590-david-j-lu-e7-9b-a7-e7-84-9c-e7-86-99-201509|590. David J. Lu 盧焜熙 / 2015-09]] (band B).
-- No memoir/community narrative found in content/works or content/articles beyond these two records (a "David Luck" in a Slackwood Church memoir is a different person, not linked).
+- No memoir/community narrative found in content/works or content/articles beyond these two records (a "David Luck" in a Slackwood Church memoir is a different person, not linked). Re-grepped slice 09220600-11 (2026-09-22): hits confined to the two records above plus the works index; both bibliographic-only (band B), nothing new absorbable.
 
 ## Family
 

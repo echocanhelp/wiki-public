@@ -39,6 +39,7 @@ _No filled family fields on the TAH profile._
 - Community profile: interviewed by 美洲台灣日報 about his recovery from terminal cancer — [[works/taiwaneseamericanhistory-org/33-e5-be-9e-e7-99-8c-e6-9c-ab-e9-87-8d-e7-94-9f-e9-84-ad-e9-8c-a6-e5-ae-b6-e9-86|33. 從癌末重生-鄭錦家醫師專訪 /美洲台灣日報 /2016/01]] — circulated in the TA community as a story of faith and medical service.
 - 再查 slice 09191100-18（2026-09-21）：語料重 grep 僅再現自身書目條目，無新增社群敘事可吸收。
 - 再查 slice 09210317-22（2026-09-21）：語料僅 whos958 書目、33 專訪、index、及已收錄的台大校友連署公開信，無新增社群敘事可吸收。
+- 再查 slice 09220600-11（2026-09-22）：語料重 grep 結果不變（whos958、33 專訪、index、台大校友連署公開信已收錄），無新增社群敘事可吸收。
 
 ## Sources
 - [TAH #958 encyclopedia: 958. Chin-Cha Cheng 鄭錦家 /2016/04](https://taiwaneseamericanhistory.org/whos958-chin-cha-cheng/)
