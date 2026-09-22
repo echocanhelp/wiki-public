@@ -14,6 +14,7 @@ last_reviewed: 2026-09-22
 <!-- deepen-x 09180500-21: corpus check 2026-09-19 — only hits are his own TAH press-kit record whos-who-2120-robert-yien + works/index listing; no memoir/article mentions, no community facts to absorb. Corpus work page wikilinked below. -->
 <!-- deepen-x 09191400-21: re-checked 2026-09-21 — grep works+articles for 顏善邦 / Robert Yien: same single self-record hit; SKIP stands, no conflicts. -->
 <!-- deepen-x 09210400-24: re-checked 2026-09-21 — fresh grep works+articles: hits remain only whos-who-2120-robert-yien + works/index. SKIP-with-reason: no memoir/community facts beyond the TAH press-kit record. -->
+<!-- deepen-x 09220800-31: re-checked 2026-09-22 — fresh grep (顏善邦 / Robert Yien) works+articles: same self-record + index hits only; no memoir/article mentions. SKIP stands. -->
 
 ## Identity Snapshot
 - **English:** Prof. Robert Yien

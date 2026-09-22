@@ -38,6 +38,7 @@ last_reviewed: 2026-09-22
 
 
 > Deepen pass 2026-09-22 (slice 09210831-31): VERIFIED — fresh grep (簡勉 / Mien Chien) across content/works + content/articles returns only his own TAH #313 record and the 2020/2025 柑縣台灣同鄉會口罩團購 articles, all already absorbed into Role in the Community; no new material.
+> Deepen pass 2026-09-22 (slice 09220800-31): re-grepped — same hit set (TAH #313 self-record + 柑縣口罩團購 2020/2025 articles, already wikilinked). SKIP-with-reason: no new corpus material.
 
 ## Sources
 - [TAH #313 encyclopedia: 313. Mien Chien 簡勉/2015/02](https://taiwaneseamericanhistory.org/313-mien-chien-%e7%b0%a1%e5%8b%89201502/)
