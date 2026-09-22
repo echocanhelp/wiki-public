@@ -54,6 +54,8 @@ Accomplishment
 
 ## From the record
 
+- Re-verify 2026-09-22 (TJJ-A09220600-2): link-check against slice article 98a26ee3b1ad82ac（台美人台加人分類頁 page 356）— 「許丕龍與許景淳父女_傳陽雜誌30週年(abt.2008)演唱會片段/2011-10-30」確認見於正文條目清單，連結為真；上方日期事實成立，無新材料。
+
 - **2026-09-19/20** — Photographed with wife 蔡瀛如 and Rev. Hung-Jen Liu (劉弘仁, PC(USA) Presbytery of San Francisco) at the PC(USA) Desert Springs weekend retreat, Southern California (~400 attendees). Photo in corpus custody: `knowledge/interactions/photos/2026-09-desert-springs-retreat-hsu-parents-with-rev-hung-jen-liu.jpg` (publication pending owner consent).
 - 2011-10-30 — TJJ「台美人台加人」專欄刊「許丕龍與許景淳父女_傳陽雜誌30週年(abt.2008)演唱會片段」，父女同台演唱會影音recorded片段（該分類頁 2024-05-27 存檔）（[[articles/taiwanjustice-net/2024/20240527024815_root_98a26ee3b1ad82ac|TJJ 台美人台加人分類頁，2024-05-27 存檔]]；同一條目另見該分類第358頁快照 [[articles/taiwanjustice-net/2024/20240619181806_root_00354cf6ba9cf607|2024-06-19]]）。
 - 2022-07-12 — In 王泰和's recollection of the 台獨之聲 phone-tape line in Los Angeles (scripts read by 盧千惠, wife of 許世楷, who was then on sabbatical in LA from teaching in Japan), 許丕龍 asked to meet the mysterious 'speaker' — which amused the circle, since the voice everyone admired was 盧千惠's ([[articles/taiwanjustice-net/2025/20250811013132_化作千風_懷念台美人的人權鬥士_台獨先鋒王泰_31b7081a5d37939f|TJJ, 2022-07-12]]).

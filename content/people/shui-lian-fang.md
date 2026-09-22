@@ -44,6 +44,7 @@ last_reviewed: 2026-09-22
 No other corpus memoirs/records mention her or 方國炤; biography beyond the above is held pending the vault autobiography text.
 
 - Re-verified 2026-09-21: corpus re-grep (方廖水蓮 / Shui-Lian Fang) returns only the autobiography #1251 and Who's Who #2167 already absorbed above; no additional memoirs.
+- Re-verified 2026-09-22 (slice 09220700-11): fresh grep returns the same two records (#1251, #2167) plus the works index; page saturated, no new absorbable facts.
 
 ## Sources
 - [TAH #2167 encyclopedia: 2167. Shui-Lian Fang 方廖水蓮](https://taiwaneseamericanhistory.org/whos-who-2167-shui-lian-fang/)

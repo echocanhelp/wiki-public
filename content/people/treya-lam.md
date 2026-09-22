@@ -32,6 +32,7 @@ For the past few years, Brooklyn resident Treya Lam’s presence on stage has be
 - [[works/taiwaneseamericanhistory-org/19093|544. Treya Lam / 2015-08]] — published 2015-08-22
 - [[works/taiwaneseamerican-org/introducing-treya|Introducing Treya (interview by Ho Chie Tsai, taiwaneseamerican.org, 2015-06-21)]] — first-person account: born in Taiwan, raised in New York suburbs, Brooklyn resident; worked in hospitality before being discovered by Amazing Artists USA; signed by CEO Paul Campbell as the very first "Amazing Artist"; first major show at Taiwan Music Night, SXSW 2015 alongside Dwagie, OVDS, and Toffee; childhood piano from age ~3, later violin/viola with the Children's Orchestra Society, guitar from high school.
 - 2026-09-21 (slice 09201300-15): corpus re-grepped — hits (TAH #273, #544, works index) are all absorbed above; saturated, no new absorbable facts.
+- 2026-09-22 (slice 09220700-10): re-grepped — identical hit set, still saturated.
 
 ## Family
 

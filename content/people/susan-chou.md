@@ -41,6 +41,7 @@ last_reviewed: 2026-09-22
 - Husband [[people/samuel-wu|Samuel Wu 吳德聖牧師]] has his own TAH record ([[works/taiwaneseamericanhistory-org/whoswho978|TAH #978, 2016-05]]) — a pastoral couple documented in the movement record.
 - Training at 台南神學院 grounds her in the [[organizations/presbyterian-church-in-taiwan|PCT]] network already noted below; no additional memoir mentions found in content/works or content/articles beyond these records.
 - 2026-09-21 (slice 09201300-15): corpus re-grepped — hits (TAH #350, #508, works index) are all absorbed above; saturated, no new absorbable facts.
+- 2026-09-22 (slice 09220700-10): re-grepped — identical hit set, still saturated.
 
 
 ## Sources

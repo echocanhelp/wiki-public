@@ -25,6 +25,7 @@ Vania King (金久慈) is listed in the TAH Foundation Who’s Who Taiwanese Ame
 - Community historical record: a first-person interview, Stringing Together Success: An Interview with Vania King (TA.org, 2013-08-21), is held at [[works/taiwaneseamerican-org/stringing-together-success-an-interview-with-vania-king|Stringing Together Success (interview)]]. From it: born in Monterey Park, CA and raised in Long Beach; youngest of four — brother Phillip (a top-ranked U-18 junior) and twin older sisters Ivana and Mindy; coached from childhood by her father, later by Tarik Benhabiles. Won a wildcard into 2006 US Open qualifying at ~rank 800, reached the top 100 by early 2007, declined a Stanford scholarship to turn pro at her parents' advice. Won the 2010 Wimbledon and US Open women's doubles titles.
 - TAH Who's Who encyclopedia entries preserved in the corpus: [[works/taiwaneseamericanhistory-org/705-vania-king-e9-87-91-e4-b9-85-e6-85-88-201511|705. Vania King 金久慈 /2015/11]] and [[works/taiwaneseamericanhistory-org/921|49. Vania King 金久慈 / 2015/11]].
 - 2026-09-21 (slice 09201300-15): corpus re-grepped — hits (#705, #49/#921, the 2013 interview, works index) are all absorbed above; saturated, no new absorbable facts.
+- 2026-09-22 (slice 09220700-10): re-grepped — identical hit set, still saturated.
 
 ## Family
 - Father — tennis coach of Vania and her brother Phillip.
