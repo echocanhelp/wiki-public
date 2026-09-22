@@ -44,6 +44,8 @@ Covered repeatedly by Taiwanese-American press as a stand-up comedian and commun
 - 2014-02-21 — stand-up performance in San Francisco: [[works/taiwaneseamerican-org/standup-comedy-performance-with-sheng-wang-in-sf|Standup in SF]].
 - 2014-04-13 — stand-up performance in Texas, his hometown region: [[works/taiwaneseamerican-org/standup-comedy-performance-with-sheng-wang-in-texas|Standup in Texas]].
 
+Corpus re-verify (deepen-x 09220400-12): fresh grep of works/ + articles/ returns only the eight TaiwaneseAmerican.org records already linked above plus the works index — no memoir or community body-text mentions. SKIP-deepen; the page is press-kit-saturated and nothing new is absorbable.
+
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/sheng-wang/)
 

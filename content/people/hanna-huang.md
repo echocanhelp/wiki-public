@@ -36,7 +36,7 @@ last_reviewed: 2026-09-22
 - As Executive Director of the Austin Asian American Film Festival (AAAFF), led the festival's 2020 pivot to online programming, including the "Prismatic Taiwan" queer film series — record: [[works/taiwaneseamerican-org/austin-asian-american-film-festival-announces-prismatic-taiwan-a-queer-film-seri|AAAFF: Prismatic Taiwan]].
 - Served as the 2010–2011 NATWA II intern (of Austin, TX), continuing the role held in 2009–2010 by Tinna Chung — record: [[works/taiwaneseamerican-org/letter-of-advice|Letter of Advice (NATWA II)]]. Matches her UT Austin (2010) education entry.
 - Recorded in the Austin community as 新會長 (incoming president) of the local 台灣同鄉會 (Taiwanese Association), thanked alongside Melody Chang in Pearl Wu's Central Texas chapter chronicle — [[works/taiwaneseamericanhistory-org/our-journeys-370|370. FAPA TX-C 中德州分會記事 2018- / Pearl Wu]] (published 2021-04-27).
-- Corpus re-verify (deepen-x 09210700-25): fresh scan of works/ + articles/ returned only records already absorbed above (our-journeys-370, TAH #1190, AAAFF Prismatic Taiwan, ITASA's Coming of Age, NATWA II Letter of Advice). SKIP-deepen; nothing new absorbable.
+- Corpus re-verify (deepen-x 09210700-25, 09220400-12): fresh scan of works/ + articles/ returned only records already absorbed above (our-journeys-370, TAH #1190, AAAFF Prismatic Taiwan, ITASA's Coming of Age, NATWA II Letter of Advice). SKIP-deepen; nothing new absorbable.
 
 ## Family
 
