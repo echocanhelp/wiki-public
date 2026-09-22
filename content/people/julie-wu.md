@@ -30,7 +30,7 @@ last_reviewed: 2026-09-22
 - Physician-author: wrote the novel *The Third Son* (2013), recorded in the TAH encyclopedia as [[works/taiwaneseamericanhistory-org/511-the-third-sonjulie-wu2013-literature-e6-96-87-e5-ad-b8|511. The Third Son / Julie Wu / 2013 / Literature]]. Her own TAH profile entry is [[works/taiwaneseamericanhistory-org/235-julie-wu-e5-90-b3-e8-8c-97-e7-a7-80201501|235. Julie Wu 吳茗秀 / 2015/01]].
 - Presented *The Third Son* at Harvard: [[works/taiwaneseamerican-org/julie-wu-presents-the-third-son-novel-at-harvard|Julie Wu Presents "The Third Son" Novel at Harvard]], and spoke on the novel in a 2014-08 TA.org program: [[works/taiwaneseamerican-org/taiwanese-american-author-julie-wu-speaks-on-the-third-son-novel|Taiwanese American Author Julie Wu Speaks on "The Third Son" Novel]].
 - Featured at a FAPA NorCal summer potluck: [[works/taiwaneseamerican-org/fapa-summer-potluck-featuring-author-julie-wu-in-norcal|FAPA Summer Potluck Featuring Author Julie Wu in NorCal]] (2014-08).
-- Celebrated in TA.org's interview with Michelle Kuo as a TA who pivoted from a prestigious technical/medical path onto a creative one.
+- Celebrated in TA.org's interview with Michelle Kuo as a TA who pivoted from a prestigious technical/medical path onto a creative one: [[works/taiwaneseamerican-org/interview-michellekuo|Interview with Michelle Kuo]] (named alongside Jeremy Lin, Alan Yang, Vienna Teng).
 
 ## Family
 
