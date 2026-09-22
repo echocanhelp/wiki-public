@@ -27,6 +27,7 @@ last_reviewed: 2026-09-21
 - **1975-08-30 美國本部改選：** Indianapolis 大會選出張燦鍙為主席、楊宗昌為第一副主席、**許富淵為第二副主席**；同年美國本部辦理盟員重新登記（同上，ourjourneys234）。
 - **陳文成紀念專集印刷：** 陳文成遇害一週年紀念專集的打字由洪哲勝太太負責，**許富淵負責印刷**；為逃避白色恐怖，作者與編者全用假名（[[works/taiwaneseamericanhistory-org/ourjourneys8|Our Journeys 8（陳文成紀念專集）]]、[[works/taiwaneseamericanhistory-org/ourjourneys8-eng|Our Journeys 8 (English)]]）。
 - **活動參與：** 「王博文、許和瑞、許富淵等人亦非常積極參與活動」（[[works/taiwaneseamericanhistory-org/ourjourneys58|Our Journeys 58]]；另見 [[works/taiwaneseamericanhistory-org/ourjourneys81|Our Journeys 81]]）。
+- **英文平行史料佐證：** 陳文成紀念專集印刷一事另見英文版回憶錄（[[works/taiwaneseamericanhistory-org/ourjourneys8-eng|Our Journeys 8 (English)]]："Fu Yuan Hsu (許富淵) helped print it"），與中文版記載一致；活動積極參與記錄亦見英文版（[[works/taiwaneseamericanhistory-org/ourjourneys81-eng|Our Journeys 81 (English)]]）。
 - **紐約地區名錄：** 列名於紐約同志名單：許富淵、黃伯溫、黃一峰、許仲平（[[works/taiwaneseamericanhistory-org/ourjourneys234|Our Journeys 234]]）。
 
 <!-- tah-tables:start -->
