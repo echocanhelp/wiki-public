@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # Kenneth P. Chen (陳秉虔博士)
 
@@ -38,6 +38,7 @@ last_reviewed: 2026-09-21
 ## Role in the Community
 - While pursuing his Ph.D. at the University of Minnesota, he was one of five organizers (with 殷宗舜, 李春美, 蘇惠美, 謝伯芳) of the「Mpls 台灣人祈禱查經會」— a weekly Friday prayer/Bible-study and fellowship gathering for Taiwanese students in Minneapolis that began in autumn 1960 with about ten participants and grew to over twenty. Early Taiwanese student church fellowship in the Midwest ([[works/taiwaneseamericanhistory-org/ourjourneys-369|Our Journeys 369, community memoir]]).
 - Own TAH encyclopedia entry: [[works/taiwaneseamericanhistory-org/whos906-kenneth-p-chen|906. Kenneth P. Chen 陳秉虔]] (published 2016-03-25).
+- Re-check (deepen-x 09210900-23, 2026-09-22): fresh grep for 陳秉虔 / Kenneth P. Chen — beyond the own records and the Our Journeys memoir passage above, the only hit is a taiwanjustice.net tag archive [[articles/taiwanjustice-net/2025/20250910173433_tag_kenneth-chen_60f09284c51060b3|Tag: Kenneth Chen]] which displays no posts; nothing new to absorb.
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/kenneth-p-chen/)
