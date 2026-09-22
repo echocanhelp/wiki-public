@@ -6,7 +6,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # 楊金文
 
@@ -53,3 +53,5 @@ _No filled family fields on the TAH profile._
 ## Deepen-x note (2026-09-21, slice 09201503-5)
 
 - Verified-saturated: re-grep of content/works + content/articles for 楊金文 returns only the own TAH #754 record, [[works/taiwaneseamericanhistory-org/ourjourneys155|OurJourneys 155]] (2007美南夏令會 台美人檔案座談會 — already absorbed above), and the works index. No new community material.
+
+- Re-grep 2026-09-22 (slice 09211500-24): re-confirmed saturated — corpus hits limited to own TAH #754 record + already-absorbed [[works/taiwaneseamericanhistory-org/ourjourneys155|OurJourneys 155]] + index; nothing new.

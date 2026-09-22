@@ -6,7 +6,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # 石青如
 
@@ -52,3 +52,5 @@ HOLD: conflict — TAH #276 titles her profile "Cing-Ru Shih 石青如, Composer
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+<!-- deepen-x slice 09211500-24 (2026-09-22): saturated re-verify — corpus hits = own TAH #276/#549 records + already-absorbed OurJourneys 287 + index; HOLD above stands, nothing new. -->

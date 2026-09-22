@@ -40,6 +40,8 @@ _No filled family fields on the TAH profile._
 - 2021-05-02 — 因曾帶隊親赴日內瓦參與WHO宣導活動，獲邀以前總會長身分（與林榮松、許正雄並列）出席「台灣入WHO論壇」（NATMA 主辦、大洛杉磯台灣會館協辦之線上講座），討論「台灣加入世衛組織的歷程與展望」（[[articles/taiwanjustice-net/2021/20210509160827_2021_04_18_大洛杉磯台灣會館生活講座_五_-台灣入who論壇5_6d9cd937dedb11f7|TJJ, 2021-04-18 公告]]）。
 - 2020-11-18 — 以北美洲台灣人醫師協會總會基金會董事長身分，赴駐洛杉磯經文處出席林榮松獲聘行政院政務顧問致頒聘書儀式觀禮（[[articles/taiwanjustice-net/2020/20201126144045_2020_11_19_南加州林榮松僑務諮詢委員獲聘行政院政務顧問_06510e79e7a07f48|TJJ 洛僑中心, 2020-11-19]]）。
 - Corpus re-grep 2026-09-21: hit set unchanged (whoswho1540、works index、四筆 TJJ WHA/世衛論壇存檔頁) — all absorbed above; verified saturated.
+- 2022-05-14 — 洛僑中心 FASCA-LA 海外青年志工實體月會培訓：與前總會長林榮松政務顧問、許正雄醫師同任講座，向學員分享台美人多次籌組宣達團赴日內瓦聲援台灣參與 WHA 的奮鬥歷程，並透過照片紀錄講述 WHA 會場內所受不公平對待及會場外台美人的和平理性呼籲（[[articles/taiwanjustice-net/2022/20221002085705_2022_05_17_natma於fasca-la月會分享赴日內瓦聲援台灣參與wha歷程_0b5374a3901fdc77|TJJ 洛僑中心, 2022-05-16]]）。
+- Corpus re-grep 2026-09-22 (exact 邱俊杰/Chun-Chieh Chiu): 新增命中一筆 FASCA-LA 月會紀錄（上文）— 已吸收；其餘命中集合不變（whoswho1540、works index、TJJ WHA/世衛論壇存檔頁）。廣名 'Chiu' 泛搜另命中之 Our Journeys 文件（233/74/69/81/231/384-eng）經查為 Chiu-cheng Lin、Su Chiu-cheng、Phoebe Chiu、Chiu-Sen Wang 等同姓他人，非本人，不予吸收。
 
 ## Role in the Community
 
