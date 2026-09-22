@@ -40,6 +40,9 @@ last_reviewed: 2026-09-22
 
 _No filled family fields on the TAH profile._
 
+## Role in the Community
+SKIP-with-reason (deepen-x slice 09211507-30, 2026-09-22): corpus grep (謝若蘭 / Jolan Hsieh in content/works + content/articles) hits only the own TAH Who's Who record [[works/taiwaneseamericanhistory-org/whoswho1180|1180. Jolan Hsieh 謝若蘭 2016/07]] — a band-B bibliographic entry (full text stays in the vault), no memoir or community material to absorb. No facts added beyond the TAH press-kit record above.
+
 ## Sources
 - [TAH #1180 encyclopedia: 1180. Jolan Hsieh 謝若蘭 / 2016/07](https://taiwaneseamericanhistory.org/whoswho1180/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/jolan-hsieh/)
