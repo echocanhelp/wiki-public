@@ -54,3 +54,4 @@ _No filled family fields on the TAH profile._
  Slice deepen-x-slice-09181500-14 (2026-09-20): re-grep 陳昭俊 — hit set unchanged (374, ourjourneys231 ±EN, two taiwanjustice articles, index catalog rows); nothing new absorbable.
  Slice deepen-x-slice-09201300-11 (2026-09-21): re-grep — hit set identical plus one taiwanjustice 2022 installment whose mention is the Tokyo-obstetrician 陳昭俊 (disambiguation, now cited above); no new absorbable facts for this engineer.
  Slice deepen-x-slice-09211200-2 (2026-09-22): re-grep 陳昭俊 — hit set unchanged (374, ourjourneys231 ±EN, taiwanjustice articles, index catalog rows); all already wikilinked, HOLD (C.C. Chen / Tokyo obstetrician) maintained; nothing new absorbable.
+ Slice deepen-x-slice-09220700-5 (2026-09-22): re-grep 陳昭俊 — hit set identical (374, ourjourneys231 ±EN, three taiwanjustice articles); all already wikilinked, HOLD maintained; SKIP — saturated.

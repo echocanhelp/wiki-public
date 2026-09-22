@@ -53,3 +53,4 @@ _No filled family fields on the TAH profile._
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - 複核（deepen-x slice-09181500-8, 2026-09-20）：re-grep 命中集不變（僅本人 TAH 書目記錄＋index）— SKIP-with-reason：無可吸收之回憶錄/社群語料，既有連結與 HOLD 維持。
 - 複核（deepen-x slice-09211200-2, 2026-09-22）：re-grep 陳正茂 / Chong-Maw Chen 命中集不變（ourjourneys186 ±EN、#188、#1677、#299、index 目錄行）— SKIP-with-reason：全部已 wikilink，無新回憶錄/社群材料可吸收。
+- 複核（deepen-x slice-09220700-5, 2026-09-22）：re-grep 命中集不變（ourjourneys186 ±EN、#188、#1677、#299）— SKIP：已飽和，全部已 wikilink。

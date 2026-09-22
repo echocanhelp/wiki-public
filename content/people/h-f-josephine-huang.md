@@ -45,6 +45,7 @@ last_reviewed: 2026-09-22
 - 複核（deepen-x slice-09180131-12, 2026-09-18）：re-grep 黃河芬|Josephine Huang 命中集相同（ourjourneys112、本人書目 #1167、TA.org Pew 聲明、TJJ WHA＋鄭寶鼎悼念文、index）— SKIP：全部已 wikilink，無新回憶錄/社群材料可吸收。
 - 複核（deepen-x slice-09181500-7, 2026-09-20）：re-grep 命中集相同 — SKIP：全部已 wikilink，無新材料可吸收。
 - 複核（deepen-x slice-09211200-2, 2026-09-22）：re-grep 黃河芬 / Josephine Huang 命中集相同（ourjourneys112、#1167、Pew 聲明、TJJ WHA＋鄭寶鼎悼念文、index）— SKIP：全部已 wikilink，無新材料。
+- 複核（deepen-x slice-09220700-5, 2026-09-22）：re-grep 命中集相同（ourjourneys112、#1167、Pew 聲明、TJJ WHA＋鄭寶鼎悼念文）— SKIP：已飽和，全部已 wikilink。
 
 ## Sources
 - [TAH #1167 encyclopedia: 1167. H. F. Josephine Huang 黃河芬 / 2016/07](https://taiwaneseamericanhistory.org/whos-h-f-josephine-huang/)

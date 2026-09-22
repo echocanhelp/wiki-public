@@ -50,6 +50,7 @@ last_reviewed: 2026-09-22
 - HOLD: the auto-link in [[works/taiwaneseamerican-org/magic-continues-at-tacl-lid-camp|Magic Continues at TACL-LID Camp (2013-09-04)]] names its author "Michael Chen", a 2013 TACL-LID Camp counselor who graduated from California State University, Los Angeles (Broadcast Journalism) — conflict with this page's 化工 Ph.D./台北 person: almost certainly a different, younger Taiwanese American; not merged.
 - Corpus re-grep（陳希寬 / Michael S. K. Chen，2026-09-21，slice 09201400-10）：hit set unchanged beyond the records above — SKIP, 無新材料。
 - Corpus re-grep（陳希寬 / Michael S. K. Chen，2026-09-22，slice 09211300-6）：hit set unchanged（ourjourneys33、81、ff184、whos-michael-s-k-chen、publications-1354、our-journeys-370）— 全數已吸收；370「Mike Chen」HOLD 維持。SKIP-no-new-material。
+- Corpus re-grep（陳希寬 / Michael S. K. Chen，2026-09-22，slice 09220700-3）：hit set unchanged（ourjourneys33、81、ff184、whos-michael-s-k-chen、publications-1354、our-journeys-370）— 全數已吸收；370「Mike Chen」HOLD 維持。SKIP-no-new-material。
 - Corpus re-grep（陳希寬 / Michael S. K. Chen，2026-09-20，slice 09181500-16）：新增命中 [[works/taiwaneseamericanhistory-org/our-journeys-370|Our Journeys 370：FAPA TX-C 中德州分會記事 2018-（Pearl Wu）]]，其中 2019-02-20 Austin 草根外交一行記「Mike Chen」與 Eddie Chuang、Pearl Wu 同赴 Senator Cornyn 事務所遞連署信。HOLD: 此人是否即陳希寬（時任 NATEA Austin 會長，亦居 Austin）無法自文本確認，未併入。其餘命中均為已吸收之記錄。
 
 ## Sources
