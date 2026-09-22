@@ -7,7 +7,7 @@ tags:
   - Taiwan-Center
   - board
 verification_status: published
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # Josephine Pan (潘掬慧)
 
