@@ -6,7 +6,7 @@ tags:
   - Taiwanese-American
   - Taiwan-Center-group-member
 verification_status: published
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # Taiwan Human Rights & Culture Association
 
@@ -35,3 +35,5 @@ last_reviewed: 2026-09-21
 
 - [[organizations/taiwan-center||Taiwan Center]]
 - [[sources/taiwancenter-org||taiwancenter.org]]
+
+<!-- corpus sweep 2026-09-22: re-verified — corpus hits (taiwan-cultural-association-for-human-rights, ourjourneys75/-eng) already absorbed; our-journeys-363 match is title-phrase only (Arrigo work on international human-rights pressure), no org facts -->
