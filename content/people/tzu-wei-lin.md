@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # Tzu-Wei Lin (林子偉)
 
@@ -37,7 +37,7 @@ last_reviewed: 2026-09-21
 - Youth career: first place at the 2010 Junior League World Series and 2010 World Junior Baseball Championship (MVP, 打點王, 得分王, 最佳防守 in the World Youth League Championships, 2010).
   HOLD: conflict in the 2010 award wording — TAH profile lists MVP/打點王/得分王/最佳防守 for the World Youth League Championships; the 2017 community article cites the Junior League World Series and World Junior Baseball Championship titles instead. Both kept, not merged.
 
-- Corpus re-check 2026-09-21: SKIP — corpus grep returns only the own encyclopedia page 1750, the works index, and the already-absorbed taiwan-zhiguang athlete roundup; no new community material.
+- Corpus re-check 2026-09-22: SKIP — corpus grep returns only the own encyclopedia page 1750, the works index, and the already-absorbed taiwan-zhiguang athlete roundup; no new community material.
 
 ## Family
 
