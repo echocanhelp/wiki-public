@@ -48,3 +48,4 @@ last_reviewed: 2026-09-22
 
 ## Corpus check (2026-09-22)
 - No new absorbable facts: fresh grep of works/ and articles/ returned only the TAH/index records already wikilinked above; no memoir or article mentions beyond them.
+- Re-verified 2026-09-22 (deepen-x slice 09220500-23): hit set unchanged (TAH #845, works/index, TJJ 會訊 record — all absorbed). SKIP.

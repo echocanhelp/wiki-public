@@ -43,6 +43,8 @@ Work pages touching his OCTA leadership (語料庫目錄日期：#253 收錄於 
 - [[works/taiwaneseamericanhistory-org/newsletter-octa|OCTA newsletter]]
 - [[works/taiwaneseamericanhistory-org/67-t-shirt-of-orange-county-taiwanese-association-octa|OCTA T-shirt artifact]]
 
+Corpus re-check 2026-09-22: fresh grep (廖光男 / G. N. Liao) of works/articles returns only the already-linked records (#253 founding-president record, #2256 Who's Who record, works index) — no new memoir/community mentions to absorb.
+
 ## Sources
 - [TAH #2256 encyclopedia: 2256. G. N. Liao 廖光男/04/2020](https://taiwaneseamericanhistory.org/whos-who-2256-g-n-liao/)
 - [TAH #253 encyclopedia: 253. 廖光男 / The first president of Orange County Taiwanese Association (OCTA) / 1](https://taiwaneseamericanhistory.org/253-%e5%bb%96%e5%85%89%e7%94%b7-the-first-president-of-orange-county-taiwanese-association-octa-1987/)

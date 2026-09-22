@@ -39,6 +39,7 @@ _No filled family fields on the TAH profile._
 ## From the record
 
 - 複核（TJJ-A09220400-5, 2026-09-22）：subject link 經本 slice 再驗證為真實對應，对应 From-the-record 条目已在库（无错链、无虚链）— SKIP，无新材料。
+- 再驗證（deepen-x slice 09220500-23, 2026-09-22）：fresh grep works/+articles/ 命中集＝560 本人條目、works/index、已引 TJJ 四則，全部已吸收 — SKIP。
 
 - 2023-08-06 — A TJJ report on the 28th 台美小姐選拔賽 (2023-08-05, San Gabriel Hilton) credits Chen with the finalists' opening dance: he arranged the Hokkien oldie 「望春風」, with the contestants wearing modified cheongsam ([[articles/taiwanjustice-net/2025/20250614233935_2023台美小姐選拔賽_盛大舉行-宋依珊_mimiq-soong_奪后_79b5f26fdef89d22|TJJ, 2023-08-06]]).
 - 2016-06-14 — 大洛杉磯台灣會館主辦的2016台美小姐選拔開訓首日，陳西園老師擔綱舞蹈指導，為十二位進入決選的佳麗進行八週專業訓練的一部分（決選晚會訂8月7日於聖蓋博希爾頓舉行）（[[articles/taiwanjustice-net/2023/20230204022253_2016_06_14_2016台美小姐選拔-開訓記者會大洛杉磯台灣會館06122016-_735744492226b90c|TJJ, 2016-06-14]]；[[articles/taiwanjustice-net/2024/20240522043642_root_cc3bbdbfc662fe66|2024 存檔copy]]）。

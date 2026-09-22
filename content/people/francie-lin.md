@@ -48,3 +48,4 @@ _No filled family fields on the TAH profile._
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 > Corpus re-scan 2026-09-22 (deepen-x slice 09210800-19): fresh grep works/+articles/ — hit set unchanged from prior absorption; all records already wikilinked above. SKIP-deepen; nothing new absorbable.
+> Re-verify 2026-09-22 (deepen-x slice 09220500-23): fresh grep — hit set = Edgar record, whoswho1158, Band-A interview, works/index; all absorbed. SKIP.
