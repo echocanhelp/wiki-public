@@ -47,3 +47,5 @@ last_reviewed: 2026-09-22
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+> Saturate-note (deepen-x slice 09211500-22, 2026-09-22): corpus re-grep (ZH+EN) hit set identical to records already linked above (ourjourneys293 / -eng, TAH #2158, videos40, Pew statement, index); no new absorbable corpus facts. Verified-saturated.

@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # North America Taiwanese Women’s Association – New Jersey Chapter (北美洲台灣婦女會紐澤西分會)
 
@@ -30,6 +30,10 @@ Disambiguation: other "New Jersey Chapter" records in the corpus (e.g.
 [[works/taiwaneseamericanhistory-org/history-taannj|TAA/北澤西台灣同鄉會簡史]],
 [[works/taiwaneseamericanhistory-org/activities-of-taanj|TAA/NJ 活動]]) belong to the Taiwanese
 Association of America, not to this NATWA chapter.
+
+Re-grepped 2026-09-22 (slice 09211500-23): ZH+EN hits are only parent-org-level NATWA records (e.g.
+[[works/taiwaneseamericanhistory-org/19-dr-fu-mei-chang-e5-bc-b5-e5-af-8c-e7-be-8e-e5-8d-9a-e5-a3-ab-the-first-presid|19. 張富美 first-NATWA-president record]], Kansas chapter scholarship records)
+plus the already-disambiguated TAA/NJ records — no NJ-chapter-specific new material; verified saturated.
 
 See parent org [[organizations/north-america-taiwanese-womens-association|NATWA 北美洲台灣婦女會]].
 

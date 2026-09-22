@@ -53,3 +53,4 @@ HOLD: 通訊錄將他列於 Utah，Who's Who 傳記頁與現職（USDA、IDDS �
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 > Saturate-note (deepen-x slices 09190700-5 / 09201500-14, 2026-09-21): corpus re-grep hit set identical to records already linked above; no new absorbable corpus facts.
+> Saturate-note (deepen-x slice 09211500-22, 2026-09-22): re-grep ZH+EN again returned the identical hit set (ourjourneys-138 會長名單 1981, ourjourneys58 Utah 通訊錄, TAH #792, TJJ 2018-07-20 台大經濟系連署, index); verified-saturated.
