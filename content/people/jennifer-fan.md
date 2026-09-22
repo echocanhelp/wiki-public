@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # Jennifer Fan (方碧霞)
 
@@ -34,6 +34,7 @@ last_reviewed: 2026-09-21
 - Recorded in the TAH Foundation encyclopedia: [[works/taiwaneseamericanhistory-org/whoswho968|968. Jennifer Fan 方碧霞]], published 2016-05-01 (band B — community historical record).
 - Community record names 太平洋貸款公司 as her place of work (present); family: husband 方仁楠.
 
+- 2026-09-22 re-verified: fresh corpus grep (ZH+EN) over works/ and articles/ returned only this own TAH record page — no memoir/journal material to absorb beyond what is already recorded above.
 ## Sources
 - [TAH #968 encyclopedia: 968. Jennifer Fan 方碧霞 / 2016/05](https://taiwaneseamericanhistory.org/whoswho968/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/jennifer-fan/)
