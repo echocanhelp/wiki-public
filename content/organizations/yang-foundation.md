@@ -19,6 +19,8 @@ last_reviewed: 2026-09-22
 The Yang Foundation is a community-oriented organization focused on educational and recreational initiatives. It develops and sponsors recreational programs, workshops, and events, as well as educational programs in partnership with community schools. The foundation also serves as a resource for sharing information and ideas among those it serves.
 
 ## Role in the Community
+deepen-x 09220600-31 recheck 2026-09-22: fresh grep of content/works + content/articles for 楊文傑 / Yang Foundation matched only works already linked below (ping-pong tournament, Who's Who #2296, index) — verified saturated, nothing new to absorb.
+
 Corpus records (TAH.org) document the foundation's named activities and its commemorative purpose:
 
 - The foundation is a memorial foundation for **Wen-Jei Yang (楊文傑)**, who has a TAH.org Who's Who entry ([[works/taiwaneseamericanhistory-org/whos-who-2296-wen-jei-yang|Who's Who #2296: Wen-Jei Yang 楊文傑]], era 2020).
