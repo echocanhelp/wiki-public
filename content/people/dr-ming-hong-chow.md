@@ -47,6 +47,8 @@ _No filled family fields on the TAH profile._
 
 ## From the record
 
+- 再核（TJJ-A09220700-4, 2026-09-22）：本 slice 兩份楊遠薰夏令會報導（29faf54b／d2dbfe22 同文存檔副本）正文再驗證——周明宏以 TAC/EC 代理理事長身分揭幕及交接之連結為真；2017-07 條目已在庫，無新材料。
+
 - 2017-07 — 楊遠薰報導《2017年美東台灣人夏令會》：以 TAC/EC 代理理事長身份與召集人簡明子於 7/2 致歡迎詞揭幕、7/4 將會旗交與 2018 年理事長翁進治與召集人謝己（全文詳上「Role in the Community」；同文 2024-05 存檔副本同）—— [[articles/taiwanjustice-net/2021/20211205054150_2017_07_10_2017年美東台灣人夏令會-_-楊遠薰-報導-2017-07-09_29faf54b8c9e2d10|楊遠薰報導（2017-07-09）]]。
 - 2019-09-03 — Signed the overseas Taiwanese organizations' joint statement 「拒一國兩制！海外台灣人社團：支持香港反對中國暴政」 as 「世界台灣同鄉會聯合會 會長周明宏」 (President, WFTA), corroborating his 2017–2019 term ([[articles/taiwanjustice-net/2024/20240221122756_root_53455d7e13136092|TJJ record, 2024-02-21 archive of the 2019-09-04 posting]]).
 

@@ -46,6 +46,8 @@ name_en: "Tsai Ing-wen"
 
 ## From the record
 
+- 再核（TJJ-A09220700-4, 2026-09-22）：本 slice 文章 15fc4a3e5664504e（Shawna Yang Ryan WaPo op-ed 轉載）正文再驗證——蔡總統與川普通话僅被視為美中關係議題之論述確認，連結為真；2016-12-09 條目已在庫，無新材料。
+
 
 - 2026-07-28 — taiwanjustice.net 文章存檔索引（29,103 篇・2011–2026）以本人為關鍵人物條目收錄（[[articles/taiwanjustice-net/index||TJJ 文章存檔索引]]）。
 - 2015-03-14 — TJJ「Ed Royce」標籤頁存檔（2024-06-13 快照）首條收錄民報報導「蔡英文：今年將訪美國首府華盛頓」—— [[articles/taiwanjustice-net/2024/20240613111437_root_432e1fca739d02b8|TJJ Ed Royce 標籤頁，2024-06-13 存檔]]。
