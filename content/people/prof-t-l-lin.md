@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # Prof. T. L. Lin (林子倫教授)
 
@@ -58,3 +58,4 @@ _No filled family fields on the TAH profile._
 複核（deepen-x slice 09180131-7, 2026-09-18）：re-grep 命中集合不變（whos-who-1765、ourjourneys245、index、taiwanjustice-net 兩則新聞已列 HOLD）— SKIP-with-reason：語料已飽和，無新增回憶錄材料；行政院發言人身分 HOLD 維持。
 Re-grep (deepen-x slice 09181500-5, 2026-09-20): hit set unchanged (whos-who-1765, ourjourneys245, index, two taiwanjustice-net news HOLD) - SKIP-with-reason: corpus saturated.
 複核（deepen-x slice 09201300-5, 2026-09-21）：re-grep 命中集不變（whos-who-1765、ourjourneys245、index、taiwanjustice-net 兩則新聞 HOLD）— SKIP-with-reason：語料已飽和。
+複核（deepen-x slice 09211300-3, 2026-09-22）：re-grep 命中集不變（whos-who-1765、ourjourneys245 夏令會簡史已吸收、index、taiwanjustice-net 兩則新聞 HOLD 維持）— SKIP-with-reason：語料已飽和，無新增回憶錄材料。

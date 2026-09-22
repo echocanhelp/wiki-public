@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # Prof. Tsan-Iang Chuang (莊燦陽教授)
 
@@ -62,3 +62,4 @@ Also recorded in TAH's own encyclopedia entry: [[works/taiwaneseamericanhistory-
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 Re-grep (slice 09181500-5, 2026-09-20): hit set unchanged (#152, #2153, index); #152 narrative fully absorbed above. SKIP-no-new-material.
 複核（deepen-x slice 09201300-5, 2026-09-21）：re-grep 命中集不變（#152、#2153、index）；#152 記述已全數吸收 — SKIP-with-reason：語料已飽和。
+複核（deepen-x slice 09211300-3, 2026-09-22）：re-grep 命中集不變（#152 台灣寮回憶錄、#2153、index）；#152 記述（竹中投手、台灣寮 2452 Bancroft Way、中研院、中伊州大植物分類學、1994/05 逝世享年62、El Cerrito 墓）已全數吸收 — SKIP-with-reason：語料已飽和。

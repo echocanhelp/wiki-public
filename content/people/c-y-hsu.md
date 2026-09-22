@@ -9,7 +9,7 @@ tags:
   - calligrapher
   - educator
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # Tsan Yu Hsu (許贊育)
 
@@ -57,6 +57,15 @@ TAH #49 / person card: 許贊育先生，字化功，一九一〇年生於台灣
 - 〈爸爸的筆〉（許丕龍詞 / 蕭泰然曲，2000）— 半音合唱團首唱
 - TAH #49 墨寶圖五幀，頁面註「源自 許丕龍」
 - 黃圻文 1997-09-25 掃描（報紙圖，欄位易亂，以下僅收較清楚者）：霧峰期間教會與地方題字（文中見**真美相館**隸書、霧峰中正路店招；**一九五三年**太平境拆除重建相關題字需對原報再核）；洛杉磯與謝里法、陳文和、蔡篤生、[[people/yang-jia-you||楊嘉猷]] 等書畫往還
+
+## Role in the Community (corpus links)
+
+- Person card in the TAH encyclopedia: [[works/taiwaneseamericanhistory-org/49-e8-a8-b1-e8-b4-8a-e8-82-b2201506|TAH #49 許贊育 (2015/06)]]
+- Who's Who entry: [[works/taiwaneseamericanhistory-org/whos-who-2218-c-y-hsu|TAH #2218 C.Y. Hsu 許贊育]]
+- 1988 calligraphy record (NY 個展 period): [[works/taiwaneseamericanhistory-org/638-e8-a8-b1-e8-b4-8a-e8-82-b2-e6-9b-b8-e6-b3-95-e8-a8-b1-e8-b4-8a-e8-82-b219881|TAH #638 許贊育書法 (1988/10)]]
+- 隸書字帖: [[works/taiwaneseamericanhistory-org/639-e8-a8-b1-e8-b4-8a-e8-82-b2-e9-9a-b8-e6-9b-b8-e5-ad-97-e5-b8-96-e8-a8-b1-e8-b|TAH #639 許贊育隸書字帖]]
+- Memorial record by his son [[people/ahhee-hsu|許丕龍]]: [[works/taiwaneseamericanhistory-org/655-e8-a8-b1-e8-b4-8a-e8-82-b2-e6-95-99-e5-b8-ab-e8-bf-bd-e6-80-9d-e7-a6-ae-e6-8|TAH #655 許贊育教師追思禮拜 (2006/11)]]
+- Corpus re-grep (2026-09-22): all 5 `content/works` hits above are TAH bibliographic records (full text stays in the vault); zero hits in `content/articles`. No new absorbable facts beyond the timeline already on this page; the 1910 vs 1911-08-15 birth-date conflict remains held (both kept).
 
 <!-- tah-tables:start -->
 ## Education

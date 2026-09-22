@@ -7,7 +7,7 @@ tags:
   - taiwanjustice-net
   - thin-page
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 name_en: "Hou Yu-ih"
 ---
 # Hou Yu-ih (侯友宜)
@@ -37,6 +37,7 @@ name_en: "Hou Yu-ih"
 - [[articles/taiwanjustice-net/2026/20260121001750_江啟臣挺過風暴_國民黨路線仍待檢驗洪秀柱挑戰_8d8722c6912a3996|江啟臣挺過風暴 — 國民黨路線仍待檢驗]] — post-election KMT party-congress report: Hou attended alongside 馬英九、吳敦義、吳伯雄、盧秀燕, staged as party-unity imagery.
 - [[articles/taiwanjustice-net/2026/20260211093804_李眉蓁論文被指涉抄襲_中山大學_將成立審定委_d1bf9b011e2c9ae1|李眉蓁論文被指涉抄襲（TJJ 轉載中央社, 2020-07-20）]] — 2020 高雄補選期間的輔選記錄：李眉蓁陣營表示侯友宜「大概8月多」將南下輔選、「對方很積極想幫忙」，韓國瑜部分仍在聯繫——archive 中侯的另一則地方選舉互動記錄。
 - Corpus re-grep (2026-09-20): hit set unchanged — all works/articles hits remain taiwanjustice.net press coverage; zero hits in content/works (diaspora memoirs). SKIP further expansion: HOLD until a primary source enters the vault.
+- Corpus re-grep (2026-09-22, slice 09211123-3): hit set unchanged again — same 5 taiwanjustice.net articles above, 0 hits in content/works. Nothing absorbable from diaspora memoirs; SKIP expansion, HOLD.
 
 ## Related Pages
 

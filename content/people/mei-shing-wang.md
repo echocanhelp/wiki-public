@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # Mei Shing Wang (王美幸)
 
@@ -57,3 +57,4 @@ _No filled family fields on the TAH profile._
 - 再核（deepen-x slice-09180131-14, 2026-09-18）：hit 集新增 artshow15（2017 聖地牙哥油畫/琉璃展）與 publications1088（《燦爛時光》畫冊）→ 已吸收記入 Role in the Community。DEEPENED。
 - 再核（deepen-x slice-09181500-7, 2026-09-20）：re-grep 王美幸 / Mei Shing Wang — hit 集不變（#535、#537、#1592、profile 66、collection 25、#1089），全數已連結。SKIP-with-reason：語料已飽和。
 - 再核（deepen-x slice 09201300-5, 2026-09-21）：re-grep 王美幸 / Mei Shing Wang — 9 筆命中全部已連結於 Role in the Community（#535/#537/#1592/profile66/collection25/#1089/#1088/artshow15/index）— SKIP-with-reason：語料已飽和。
+- 再核（deepen-x slice 09211300-3, 2026-09-22）：re-grep 王美幸 / Mei Shing Wang — 命中 9 筆不變，全部已連結於 Role in the Community — SKIP-with-reason：語料已飽和。
