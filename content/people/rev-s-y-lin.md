@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # Rev. S. Y. Lin (林皙陽牧師)
 
@@ -47,6 +47,9 @@ last_reviewed: 2026-09-21
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+## Corpus re-grep (2026-09-22, slice 09211400-15)
+- SKIP: re-grep 林皙陽 / S. Y. Lin 命中集不變 — 本人條目 [[works/taiwaneseamericanhistory-org/whos-who-1696-s-y-lin|TAH #1696]]、works index、及已吸收之台文通訊30週年 TJJ 公告（以李江卻台語文教基金會創辦人身分列特別來賓）；無新語料可吸收（saturated）。
 
 ## Network
 - [[organizations/presbyterian-church-in-taiwan||PCT]] — TAH Who’s Who

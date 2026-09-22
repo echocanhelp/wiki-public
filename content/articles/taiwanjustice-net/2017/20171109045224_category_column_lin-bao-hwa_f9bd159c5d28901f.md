@@ -187,3 +187,7 @@ Posts navigation
 28
 »
 © 2016 台灣公義電子報
+
+## Subjects
+- [[people/hsu-hsin-liang.md|許信良]] — mentioned in this record
+

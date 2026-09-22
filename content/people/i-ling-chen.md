@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # I-Ling Chen (陳奕伶)
 
@@ -52,3 +52,6 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+## Corpus re-grep (2026-09-22, slice 09211400-15)
+- SKIP: re-grep 陳奕伶 / I-Ling Chen (content/works + content/articles) hit set unchanged — own TAH profiles [[works/taiwaneseamericanhistory-org/3-i-ling-chen-e9-99-b3-e5-a5-95-e4-bc-b6-piano|TAH #3]], [[works/taiwaneseamericanhistory-org/23662|TAH #748]] and the works index; no memoir or event mention; nothing further absorbable.

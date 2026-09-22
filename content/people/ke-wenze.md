@@ -7,7 +7,7 @@ tags:
   - taiwanjustice-net
   - thin-page
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # Ko Wen-je / Ke Wen-ze (柯文哲)
 
@@ -31,6 +31,7 @@ last_reviewed: 2026-09-21
 - **Re-grep 2026-09-18:** same picture — works/ carries no mention; articles/ hits are TJJ news wire reportage and tag indexes (e.g. 2025-09-08 柯文哲交保後藍委稱藍白合作目標不變, 2023-03-11 藍營觀察柯文哲訪美). No diaspora community facts absorbable → SKIP-content; no 'Role in the Community' section created.
 - **Re-grep 2026-09-21 (slice-25):** identical hit set (TJJ reportage/tag indexes only, zero works/ mentions). SKIP-content stands.
 - **Re-grep 2026-09-20:** identical — zero hits in `content/works`; `content/articles` hits remain taiwanjustice-net reportage/tag indexes only (e.g. 2020-01-23 藍白拖打蟑螂 wire clip). SKIP-content stands.
+- **Re-grep 2026-09-22 (slice-17):** identical picture — 0 hits in `content/works`, ~840 in `content/articles` (TJJ reportage/tag indexes, e.g. 2026-01-20 tag_藍白合作). No diaspora community facts absorbable; SKIP-content stands.
 
 ## Related Pages
 
