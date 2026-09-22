@@ -37,6 +37,7 @@ last_reviewed: 2026-09-22
 - Author of 臺灣醫學教育的軌跡與走向 (06/1998), held in the corpus at [[works/taiwaneseamericanhistory-org/publicationlife948|948. 臺灣醫學教育的軌跡與走向 / 顏裕庭]].
 - Who's Who encyclopedia profile recorded at [[works/taiwaneseamericanhistory-org/whos863|863. Y. T. Yan 顏裕庭 /2016/02]] (published 2016-03-01).
 - 2026-09-21 (slice 09201300-15): corpus re-grepped — hits (ourjourneys74/-eng, ourjourneys186/-eng, publicationlife948, whos863) are all absorbed above; saturated, no new absorbable facts.
+- 2026-09-22 (slice 09211200-5): re-verified — same 6 corpus hits, all already linked above; no new material.
 
 ## Family
 
