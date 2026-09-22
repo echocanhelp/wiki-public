@@ -7,7 +7,7 @@ tags:
   - taiwanjustice-net
   - thin-page
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 name_en: "Lai Ching-te"
 ---
 # Lai Ching-te (賴清德)
