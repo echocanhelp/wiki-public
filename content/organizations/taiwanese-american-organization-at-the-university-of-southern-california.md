@@ -22,6 +22,8 @@ The Taiwanese American Organization (TAO) at the University of Southern Californ
 
 > Deepen pass 2026-09-21 (slice 09200600-28): SKIP — re-grepped corpus; matches for 'Taiwanese American Organization' are unrelated orgs (t-shirt drives, concerts, photo albums); zero USC/usctao/南加大-specific memoir content.
 
+> Deepen pass 2026-09-22 (slice 09210831-28): SKIP — fresh grep for usctao/TAO at USC/南加大: 南加大 hits are USC-location event memoirs ([[works/taiwaneseamericanhistory-org/ourjourneys253|TACL 人口普查座談會 @ USC 希爾頓]], [[works/taiwaneseamericanhistory-org/ourjourneys301|台灣文化之夜 @ USC]], [[works/taiwaneseamericanhistory-org/my-stories-770|770. 南加大博士生聶焱庠音樂會]]) and the USC Taiwanese Student Association song page [[works/taiwaneseamericanhistory-org/dumplings-usctsa|燒肉粽 by USC 台灣同學會]] — none mention TAO/usctao. One adjacent note: [[works/taiwaneseamerican-org/the-return-of-tacls-leadership-in-development-camp-a-glimpse-behind-the-scenes|TACL-LID camp article]] recalls an ITASA Conference hosted by USC (student-organizer context, group unnamed) — not TAO-specific. Nothing absorbable.
+
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-american-organization-at-the-university-of-southern-california/)
 

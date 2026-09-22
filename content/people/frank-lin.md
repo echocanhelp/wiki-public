@@ -38,6 +38,7 @@ last_reviewed: 2026-09-22
 - Named in the Silicon Valley Taiwanese entrepreneurship chronicle 《在矽谷創業臺美人》 (石清正, 2014-09): co-founded Genoa (graphic cards for PCs, with the Hwang brothers of Ching Fong, 1982) and founded Trident Microsystems (VGA graphic cards, 1987; IPO 1992) — see [[works/taiwaneseamericanhistory-org/ourjourneys19|在矽谷創業臺美人]].
 - HOLD: identity conflict — the Genoa/Trident founder Frank Lin in the Silicon Valley chronicle vs the TAH profile (台中, NASA Contracting Officer Technical Representative). Corpus links them ([[works/taiwaneseamericanhistory-org/ourjourneys19|ourjourneys19]] Subjects names [[people/frank-lin]]), but careers do not obviously reconcile; no auto-merge.
 - His encyclopedia record is held in the corpus at [[works/taiwaneseamericanhistory-org/whoswho1489|TAH #1489]].
+- Listed among the signatories in the corpus copy of the Taiwanese American community statement at [[works/taiwaneseamerican-org/pew-research-center-taiwanese-american-statement|pew-research-center-taiwanese-american-statement]] (name-only mention, no role detail).
 
 ## Sources
 - [TAH #1489 encyclopedia: 1489. Frank Lin 林俊甫 / 2017/01](https://taiwaneseamericanhistory.org/whoswho1489/)
