@@ -53,3 +53,6 @@ _No filled family fields on the TAH profile._
 
 ## Network
 - [[organizations/presbyterian-church-in-taiwan||PCT]] — TAH Who’s Who
+
+## Corpus re-grep (2026-09-22, slice-09211300-17)
+- SKIP: 再grep 洪健棣 / C. L. Hong（works+articles）僅見已連結之 whoswho1483、ourjourneys43 及 works index，聖恩教會植堂記與亞特蘭大教會記載均已吸收，無新語料。

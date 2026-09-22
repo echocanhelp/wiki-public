@@ -49,3 +49,6 @@ last_reviewed: 2026-09-22
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+## Corpus re-grep (2026-09-22, slice-09211300-17)
+- SKIP: 再grep 陳榮儒 / John Chen（works+articles）僅見已連結之 ourjourneys228、ourjourneys123-eng、ourjourneys197、167、687 及 John Cheng 誤配頁，FAPA 總會長與草根外交記載均已吸收，無新語料。

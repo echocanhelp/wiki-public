@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # Ching Fen Lin (林青棻)
 
@@ -30,7 +30,7 @@ Accomplishment
 ## Role in the Community
 - Profiled in the TAH Foundation Who's Who story corpus: [[works/taiwaneseamericanhistory-org/whos-who-1737-ching-fen-lin|1737. Ching Fen Lin 林青棻]] (published 2017-07-04).
 - Received the Outstanding Service Award from the Taiwanese Youth Arts Foundation, 1996–1997.
-- Name-collision note: the story records [[works/taiwaneseamericanhistory-org/524-ching-fen-lin-e5-bc-b5-e9-9d-9c-e8-8a-ac-201508|524. Ching-Fen Lin 張靜芬 / 2015/08]] and [[works/taiwaneseamericanhistory-org/255-e5-bc-b5-e9-9d-9c-e8-8a-ac-ching-fen-lin-vocal-201508|255. 張靜芬 Ching-Fen Lin, Vocal / 2015/08]] are about a different person — the vocalist 張靜芬 ([[people/ching-fen-lin]]) — not 林青棻, despite the shared romanization. Corpus check (works/articles) found no movement records naming 林青棻 beyond her own encyclopedia entry.
+- Name-collision note: the story records [[works/taiwaneseamericanhistory-org/524-ching-fen-lin-e5-bc-b5-e9-9d-9c-e8-8a-ac-201508|524. Ching-Fen Lin 張靜芬 / 2015/08]] and [[works/taiwaneseamericanhistory-org/255-e5-bc-b5-e9-9d-9c-e8-8a-ac-ching-fen-lin-vocal-201508|255. 張靜芬 Ching-Fen Lin, Vocal / 2015/08]] are about a different person — the vocalist 張靜芬 ([[people/ching-fen-lin]]) — not 林青棻, despite the shared romanization. Corpus re-grep 2026-09-22 (works/articles) confirms no movement records naming 林青棻 beyond her own encyclopedia entry.
 
 ## Family
 

@@ -42,3 +42,6 @@ Also appears in the corpus as ESTA Changhua activity — [[works/taiwaneseameric
 
 - [[organizations/taiwan-center||Taiwan Center]]
 - [[sources/taiwancenter-org||taiwancenter.org]]
+
+## Corpus re-grep (2026-09-22, slice-09211300-17)
+- SKIP: 再grep 北美彰化同鄉會 / Chang Hua（works+articles）僅見已連結之 570/572 會刊、歷史頁、活動頁、楊信獎學金、彰化女中校友會及年刊頁，語料均已吸收，無新語料。
