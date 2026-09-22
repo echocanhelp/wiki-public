@@ -22,6 +22,7 @@ The Taiwanese American Association Great Richmond (大雷城 台灣同鄉會) is
 - The chapter is recorded in the TAH story corpus as **Richmond, VA Chapter / TAA 全美台灣同鄉會里奇蒙分會**, catalogued 2015-11-09 as a band-B community historical record: [[works/taiwaneseamericanhistory-org/richmond-va-chapter-taa|Richmond, VA Chapter / TAA 全美台灣同鄉會里奇蒙分會]].
 - Name note: the directory entry gives the chapter's Chinese name as 里奇蒙分會 (standard transliteration), while the organization directory page renders the English "Great Richmond" playfully as 大雷城. Both refer to the same TAA chapter; no conflict of facts.
 - HOLD: no founding date, officer roster, or activity detail found in the corpus beyond the 2015-11-09 directory record — do not infer chapter history from press-kit boilerplate.
+- Re-verified 2026-09-22: fresh grep (大雷城/里奇蒙/Great Richmond/Richmond, VA) over works/ + articles/ returned only the 2015-11-09 directory record — no further chapter history in corpus; HOLD stands.
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-american-association-great-richmond/)

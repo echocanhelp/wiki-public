@@ -36,6 +36,7 @@ _No filled family fields on the TAH profile._
 ## Role in the Community
 - TAHS holds his profile in the story corpus: [[works/taiwaneseamericanhistory-org/whos288-mynor-king-wang|288. Mynor King Wang 王華東]] (record published 2015-02-10).
 - Corpus memoir records a 鄉土畫家 (nativist painter) named 王華東 giving a lecture at the Minnesota Taiwanese community's 1997 Ethnic Celebration program, per [[works/taiwaneseamericanhistory-org/ourjourneys123|123. 明州台美人百年大事/曾啟明]], and an art book 台灣民俗風情畫 by 王華東 (09/2001) at [[works/taiwaneseamericanhistory-org/publications466|466. 台灣民俗風情畫 / 王華東]]. HOLD: conflict — the TAH profile above records him as engineer/professor (物理/核工/工管, Bay Area universities from 1982), while the corpus records painter activities; same-person identification is plausible (multi-career artist-scientist) but unconfirmed, so the painter facts are not merged into Education/Employment.
+- Re-verified 2026-09-22: fresh grep (王華東/Mynor) returned the same set (whos288, ourjourneys123 painter-lecture mention, publications466 art book); engineer-vs-painter HOLD confirmed, no new facts.
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/mynor-king-wang/)
