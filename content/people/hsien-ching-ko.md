@@ -44,6 +44,7 @@ last_reviewed: 2026-09-22
 ## Role in the Community
 
 - His own TAH encyclopedia entry [[works/taiwaneseamericanhistory-org/whoswho1506|1506. Hsien-Ching Ko 柯賢清/2017/02]] is his main record in the corpus; no other community activity appears in our memoirs and articles beyond the letter below — the corpus footprint ends at the 台大校友 open-letter circuit.
+- Re-verified 2026-09-22 (deepen-x 09220800-32): fresh grep (EN + 柯賢清) returns only whoswho1506 + works/index and the already-linked 2018 open letter — saturated, nothing absorbable.
 
 ## From the record
 

@@ -39,7 +39,7 @@ Hui-Ling Hsu is a Taiwanese violist. Ms. Hsu earned her B.A. from Soochow Univer
 - **Daughter:** ?
 
 
-- Corpus re-scan 2026-09-22 (deepen-x slice 09210900-2): hits remain the two TAH story records ([[works/taiwaneseamericanhistory-org/280-hui-ling-hsu-violinist-201508|280]], [[works/taiwaneseamericanhistory-org/553-hui-ling-hsu-201508|553]]) + index line; Violinist-vs-violist conflict still on HOLD, no new material.
+- Corpus re-scan 2026-09-22 (deepen-x slices 09210900-2, 09220800-30): hits remain the two TAH story records ([[works/taiwaneseamericanhistory-org/280-hui-ling-hsu-violinist-201508|280]], [[works/taiwaneseamericanhistory-org/553-hui-ling-hsu-201508|553]]) + index line; Violinist-vs-violist conflict still on HOLD, no new material — verified saturated.
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/hui-ling-hsu/)
 
