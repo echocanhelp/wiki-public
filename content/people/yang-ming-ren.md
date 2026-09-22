@@ -43,6 +43,10 @@ TAH Foundation holds multiple community records for 楊明仁 (distinct from 楊
 
 HOLD: work page 10313 lists its subject slug as `people/james-yang` (楊榮勝's page) while its title names 楊明仁 — subject link needs disambiguation review; not merged here.
 
+## Corpus review（slice 09212352-31）
+
+- 2026-09-22 語料複核：grep（楊明仁／James Yang，works+articles）命中皆為已吸收之 TAH 記錄（#386、#387、#10313、OTA #284、Who's Who #256）與 index。SKIP-with-reason：無新可吸收事實；10313 subject-slug HOLD 維持原載。
+
 ## Family
 - **Mother:** 李淑櫻
 

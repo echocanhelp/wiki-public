@@ -28,6 +28,10 @@ Dou-Hwei Su Liu (劉蘇多惠) is listed in the TAH Foundation Who’s Who Taiwa
 - The 社團篇 memoir and 法拉盛 essay place her in the Flushing, NY Taiwanese-American community; she is cross-linked in records connected to [[organizations/new-york-taiwan-center|New York Taiwan Center (紐約台灣會館)]].
 - Full text of [[works/taiwaneseamericanhistory-org/ourjourneys181|181. 漫談「法拉盛式」生活]] (band A, excerpted from 咱要出頭天 社團篇) is held in the corpus: she writes of immigrating to the US and first living in a New Jersey suburb, then moving to central Flushing, and of volunteering weekly (每星期去當義工) at the 會館 senior center (老人中心), where she frames the Taiwan Center as the overseas Taiwanese community's 命運共同體.
 
+## Corpus review（slice 09212352-31）
+
+- 2026-09-22 語料複核：grep（劉蘇多惠／Dou-Hwei／Su-Liu，works+articles）命中僅 her own TAH #665 記錄與 index，均已吸收於 Role in the Community（894/893 社團篇・革命篇、mystories24、ourjourneys181）。SKIP-with-reason：無新可吸收事實。
+
 ## Family
 
 _No filled family fields on the TAH profile._
