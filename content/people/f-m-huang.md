@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # F.M. Huang (黃富美)
 
@@ -29,6 +29,7 @@ F.M. Huang (黃富美) is listed in the TAH Foundation Who’s Who Taiwanese Ame
 ## Role in the Community
 
 - Her TAH Who's Who entry is held in the corpus as [[works/taiwaneseamericanhistory-org/whoswho1040|1040. F.M. Huang 黃富美 / 2016/05]] (published 2016-05-28). No memoir or movement material beyond her own profile record — corpus grep returned only the bibliographic record itself.
+- Corpus grep re-verified 2026-09-22 (黃富美 + husband 彭澄彬): no further mentions. Note: the adjacent record [[works/taiwaneseamericanhistory-org/whoswho1039|1039. C. B. Ku 辜澄彬 / 2016/05]] shares the given name 澄彬 but a different surname (辜) — a different person, not a conflict.
 
 ## Sources
 - [TAH #1040 encyclopedia: 1040. F.M. Huang 黃富美 / 2016/05](https://taiwaneseamericanhistory.org/whoswho1040/)

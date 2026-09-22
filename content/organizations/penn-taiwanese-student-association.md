@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # Penn Taiwanese Student Association
 
@@ -19,7 +19,7 @@ last_reviewed: 2026-09-21
 Penn Taiwanese Student Association is a Taiwanese student organization at the University of Pennsylvania, identified through its active Instagram account (@upenntsa), which carries the Chinese name 賓大台灣學生會. As of the time of research, the account had 271 followers and 56 posts. The organization’s Instagram bio describes it as “Taiwanese Student Association @uofpenn.”
 
 ## Role in the Community
-- SKIP note (2026-09-21 re-verified): corpus grep (name, @upenntsa, 賓大台灣學生會) returned zero hits in works/articles; nothing absorbable beyond the existing TAH directory + Instagram snapshot.
+- SKIP note (2026-09-22 re-verified): corpus grep (name, @upenntsa, 賓大台灣學生會) returned zero hits in works/articles; nothing absorbable beyond the existing TAH directory + Instagram snapshot.
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/penn-taiwanese-student-association/)
