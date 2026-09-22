@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # Edward Liu (劉俊宏)
 
@@ -41,6 +41,7 @@ last_reviewed: 2026-09-21
 - Same record notes the fund's later history: 李友禮 transferred management to the 同鄉會理事長 around 2010 and passed away in 2017 — Edward Liu's 1986 fund proposal outlived its accountant by a decade.
 - His own TAH encyclopedia record: [[works/taiwaneseamericanhistory-org/whos-who-2237|2237. Edward Liu 劉俊宏/01/2020]].
 - A memorial golf tournament, the [[works/taiwaneseamericanhistory-org/liu-memorial-golf|劉俊宏紀念杯高爾夫球比賽]] (record dated 2018-03-05), is held in his name — implying he died before 2018. HOLD: no death date in corpus; Era "1940" from TAH Who's Who unverified against memorial timing.
+- Corpus re-check 2026-09-22: fresh grep of works/articles returns only the already-absorbed records (own TAH record, Our Journeys 376 fund-proposal account, 紀念杯高爾夫 memorial record) — no new community facts.
 
 ## Sources
 - [TAH #2237 encyclopedia: 2237. Edward Liu 劉俊宏/01/2020](https://taiwaneseamericanhistory.org/whos-who-2237/)
