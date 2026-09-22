@@ -33,6 +33,9 @@ last_reviewed: 2026-09-22
 - HOLD: conflict in the association's Chinese name — this page's source listing says 台美攝影**學會**; the TAH story title says 台美攝影**協會**. Not merged pending owner confirmation.
 - Note (disambiguation): the "TAPA" acronym in the FAPA founding memoir ([[works/taiwaneseamericanhistory-org/ourjourneys65|Our Journeys 65]]) refers to a proposed name for FAPA ("Taiwanese Association for Public Affairs" → TAFPA/TAPA), not this photographers' association.
 
+## Worklog
+- 2026-09-22 deepen-x slice 09220317-29: SKIP (verified-saturated) — re-grep (TAPA／台美攝影學會／台美攝影協會) returns only records already linked above (the 2015 TAH story, the Taiwan Justice class/exhibition listings, and the ourjourneys65 FAPA-name mention, already disambiguated). No new corpus facts.
+
 ## Sources
 - [TAH directory](https://taiwaneseamericanhistory.org/organization/taiwanese-american-photographers-association/)
 

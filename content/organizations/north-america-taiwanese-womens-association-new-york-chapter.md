@@ -28,6 +28,7 @@ Corpus evidence for the parent body NATWA (北美洲台灣婦女會):
 - NATWA's first president was 張富美 (Dr. Fu-Mei Chang), 1988: [[works/taiwaneseamericanhistory-org/19-dr-fu-mei-chang-e5-bc-b5-e5-af-8c-e7-be-8e-e5-8d-9a-e5-a3-ab-the-first-presid|19. Dr. Fu-Mei Chang 張富美博士 / The First President of NATWA / 1988]].
 - NATWA was one of twelve organizations (with TAA, TACL, FAPA, TCCCNA, NATMA, NATPA and others) in the joint project committee that wrote to ~12,000 Taiwanese-American households in the census campaign; the Kansas chapter later proposed a Taiwanese American community scholarship: [[works/taiwaneseamericanhistory-org/ourjourneys253|Our Journeys 253 (memoir)]], [[works/taiwaneseamericanhistory-org/ourjourneys303|Our Journeys 303]].
 - **2021-05-13** — NATWA and its SoCal chapter co-initiated the 南加州僑界支持台灣參與WHA聯合聲明: [[articles/taiwanjustice-net/2021/20210616072940_2021_05_17_2021年南加州僑界支持台灣參與世界衛生大會wha聯合聲_b1d58af16c0a5e5b|record]].
+- HOLD: re-grep 2026-09-22 found further NATWA parent-body records (聯誼通訊 issues 664/678/695/697, NATWA-Atlanta [[works/taiwaneseamericanhistory-org/308-natwa-atlanta-c2-b7-e6-83-85-e7-be-a9-e7-9b-b8-e6-8c-ba-e6-9d-8e-e5-af-b6-e8|308. NATWA Atlanta]], Asian Choral Festival video, concerts26) but nothing new specific to the New York chapter; page left as-is, nothing invented.
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/north-america-taiwanese-womens-association-new-york-chapter/)
