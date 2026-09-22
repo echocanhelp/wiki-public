@@ -9,7 +9,7 @@ last_reviewed: 2026-09-22
 ---
 # UF Society of Taiwanese and Hong Kong Students
 
-<!-- deepen-x 09191200-25: SKIP re-confirmed 2026-09-21 (fresh grep empty / same hits as below). 09180400-18: SKIP — no corpus hits (grep STAHKS/'Society of Taiwanese and Hong Kong' over works+articles empty; only unrelated UF mentions, e.g. Shih-Wen Huang's lifetime achievement award). Nothing absorbable from memoirs; TAH directory + social media remain sole sources. -->
+<!-- deepen-x 09210906-2: SKIP re-confirmed 2026-09-22 (fresh grep STAHKS/'Society of Taiwanese and Hong Kong' over works+articles again empty). 09191200-25: SKIP re-confirmed 2026-09-21 (fresh grep empty / same hits as below). 09180400-18: SKIP — no corpus hits (grep STAHKS/'Society of Taiwanese and Hong Kong' over works+articles empty; only unrelated UF mentions, e.g. Shih-Wen Huang's lifetime achievement award). Nothing absorbable from memoirs; TAH directory + social media remain sole sources. -->
 
 ## Identity Snapshot
 - **English:** UF Society of Taiwanese and Hong Kong Students
