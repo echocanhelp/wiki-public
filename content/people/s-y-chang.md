@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # S. Y. Chang (張信義)
 
@@ -57,3 +57,4 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- Corpus re-grep (slice deepen-x-slice-09211300-5, 2026-09-22): 張信義 / S. Y. Chang / Sidney Chang across works+articles — hit set unchanged (whoswho1651, OJ #33-eng/#74/#74-eng/#79/#377, TJJ 楊遠薰 reprints 2021/2024/2025, index); all already linked. SKIP-no-new-material; English-name HOLD stands.

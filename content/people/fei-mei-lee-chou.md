@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # Fei-Mei Lee Chou (周李惠美)
 
@@ -60,3 +60,4 @@ HOLD: era field says 1935 but the 2015 relay entry is the 80~84 age group, imply
 - 複核（deepen-x slice-09180131-11, 2026-09-18）：re-grep 命中集不變（#716 whos-fei-mei-lee-chou、#53 winners53、index）— SKIP：已飽和；出生年 HOLD（1935 vs 80~84 年齡組推 1931–1935）維持。
 - 複核（deepen-x slice-09181500-8, 2026-09-20）：re-grep 命中集不變（僅本人 TAH 書目記錄＋index）— SKIP-with-reason：無可吸收之回憶錄/社群語料，既有連結與 HOLD 維持。
 - 複核（deepen-x slice-09201300-6, 2026-09-21）：re-grep 命中集不變（僅本人 #716 whos-fei-mei-lee-chou、#53 winners53＋index）— SKIP-with-reason：已飽和；出生年 HOLD（1935 vs 80~84 年齡組推 1931–1935）維持。
+- 複核（deepen-x slice-09211300-5, 2026-09-22）：re-grep 命中集不變（僅本人 #716 whos-fei-mei-lee-chou、#53 winners53＋index）— SKIP-with-reason：已飽和；出生年 HOLD（1935 vs 80~84 年齡組推 1931–1935）維持。
