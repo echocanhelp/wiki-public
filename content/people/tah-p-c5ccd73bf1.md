@@ -6,11 +6,12 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # 陳國明
 
 <!-- deepen-x: SKIP 2026-09-21 — corpus sweep (works/articles) found only the TAH bibliographic record and unrelated namesakes (a 北京 resident in a 2025 news article, Kuo-Ming-Tang false positive); no memoir/community material to absorb. -->
+<!-- deepen-x: SKIP re-verified 2026-09-22 (slice 09210920-29) — fresh ZH+EN grep: only own bibliographic record [[works/taiwaneseamericanhistory-org/93-e9-99-b3-e5-9c-8b-e6-98-8e|93. 陳國明]], index co-listings, and the unrelated 北京 sandstorm-namesake article. Nothing absorbable. -->
 
 ## Identity Snapshot
 - **English:** —

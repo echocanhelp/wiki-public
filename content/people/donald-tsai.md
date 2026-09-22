@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # Donald Tsai (蔡豪智)
 
@@ -33,6 +33,7 @@ last_reviewed: 2026-09-21
 _No filled family fields on the TAH profile._
 
 ## Corpus scan note
+- SKIP (re-verified 2026-09-22, slice 09210920-29): fresh ZH+EN grep again found only his own bibliographic record and index co-listings; still no memoir/community narrative.
 - SKIP (re-verified 2026-09-21, slice 09200939-6): fresh ZH+EN grep found only his own bibliographic record [[works/taiwaneseamericanhistory-org/whoswho1468|1468. Donald Tsai 蔡豪智 / 2017/01]] and index co-listings; no memoir/community narrative absorbable.
 
 ## Sources
