@@ -41,6 +41,8 @@ Community memoirs in the corpus describe 簡忠松 as a civil engineer who ran h
 
 複核（deepen-x slice-09201400-10, 2026-09-21）：re-grep 簡忠松 / J. S. Chien hit set unchanged (ourjourneys106, ourjourneys233 ±eng, #1364, #479, mystories121) — SKIP, 無新材料。
 
+複核（deepen-x slice-09211300-13, 2026-09-22）：re-grep 簡忠松 / J. S. Chien hit set unchanged (ourjourneys106, ourjourneys233 ±eng, mystories121, #479, #1364) — saturated, SKIP, 無新材料。
+
 ## Sources
 - [TAH #1364 encyclopedia: 1364. 宜中耆老憶往述今–簡忠松專輯 | 簡忠松 /02/2022/ Autobiography/自傳](https://taiwaneseamericanhistory.org/publications-1364/)
 - [TAH #268 encyclopedia: 268.  J. S. Chien 簡忠松/2015/02](https://taiwaneseamericanhistory.org/whos-who-268/)
