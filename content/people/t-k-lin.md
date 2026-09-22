@@ -45,6 +45,7 @@ last_reviewed: 2026-09-22
 - **NATPA 第六屆會長**; in the planning of NATPA's first in-Taiwan annual meeting he served as 政治組召集人 ([[works/taiwaneseamericanhistory-org/ourjourneys47|OJ #47]]).
 - **Academic forum speaker:** among the scholars (彭明敏, 林宗義, 張旭成, 林衡哲, 陳芳明…) who presented at the 台灣協志會-hosted academic conference at Syntek Hall Center, Palo Alto ([[works/taiwaneseamericanhistory-org/ourjourneys37|37. 台灣協志會成立與大事記 / 紀哲嘉]]).
 - Remembered in 楊遠薰's memorial essay 懷念林宗光, 2015/06 ([[works/taiwaneseamericanhistory-org/mystories293|293. 懷念林宗光 / 楊遠薰]]); TAH encyclopedia entry 2016/02 ([[works/taiwaneseamericanhistory-org/813-e6-9e-97-e5-ae-97-e5-85-89-201602|813. T. K. Lin 林宗光]]).
+- Corpus re-check 2026-09-22 (deepen-x slice 09220500-4): fresh grep of works/ + articles/ — 6 hits, all already absorbed above (OJ #37, #47, #74 ZH+ENG, 楊遠薰 memorial #293, Who's Who #813, plus works/index.md). Saturated; nothing new absorbable.
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/t-k-lin/)
