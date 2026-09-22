@@ -27,7 +27,8 @@ TANLA (洛杉磯西北區台灣同鄉會) is one of the better-documented LA-are
 - [[works/taiwaneseamericanhistory-org/tanla|Taiwanese Association of Northwest Los Angeles (TANLA) 洛杉磯西北區台灣同鄉會]]（2015-02-23）— main association record.
 - [[works/taiwaneseamericanhistory-org/activities-of-tanla|TANLA 洛杉磯西北區台灣同鄉會的活動]]（2019-01-10）— activity record.
 - [[works/taiwaneseamericanhistory-org/newsletter-of-tanla|TAA/Northwest Los Angeles Chapter（洛杉磯西北區台灣同鄉會）通訊]]（2019-06-15）— the association published a newsletter.
-- 2021-07 — held「TANLA 醫療講座系列第一講：疫情的劫數餘生」amid the pandemic（[[articles/taiwanjustice-net/2021/20210927004805_2021_07_25_tanla-醫療講座系列第一講-疫情的劫數餘生影_d108a309e84da75a|TJJ, 2021-07-25]]）— community health programming as a member association activity.
+- 2021-07 — held「TANLA 醫療講座系列第一講：疫情的劫數餘生」amid the pandemic（[[articles/taiwanjustice-net/2021/20210927004805_2021_07_25_tanla-醫療講座系列第一講-疫情的劫數餘生影_d108a309e84da75a|TJJ, 2021-07-25]]）— community health programming as a member association activity; the lecture was covered again in TJJ's Covid-19 浩劫餘生錄 series ([[articles/taiwanjustice-net/2021/20211205042210_category_covid-19_007a2c2acbaa178b|TJJ index, 2021-12-05]]).
+- 2021-05-13 — co-initiator (共同發起單位) of the 南加州僑界支持台灣參與世界衛生大會（WHA）聯合聲明, the cross-community LA statement read at 洛杉磯華僑文教服務中心 ([[articles/taiwanjustice-net/2021/20210616072940_2021_05_17_2021年南加州僑界支持台灣參與世界衛生大會wha聯合聲_b1d58af16c0a5e5b|TJJ, 2021-06-16]]) — TANLA signed alongside 台美人歷史協會, 台灣會館, NATWA, and PCT LA.
 
 ## Source Notes
 

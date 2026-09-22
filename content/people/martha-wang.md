@@ -49,3 +49,5 @@ last_reviewed: 2026-09-22
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+Corpus re-check 2026-09-22 (deepen-x slice 09220400-25): fresh grep of works/ and articles/ for 鄞美珠 / Martha Wang — hit set unchanged (#64 encyclopedia mirror, ourjourneys58 roster mention, mystories641, works index); all hits already wikilinked with facts absorbed. SKIP-deepen; nothing new absorbable.

@@ -47,6 +47,7 @@ For more bio information, please click link in Who’s Who: 971. Cheng-I (Jim) Y
 ## From the record
 
 - 2017-05-08 — 主講長青教室「楊正義博士講『攝影的藝術』（2 videos）」，見台灣公義報「台美人台加人」分類 長青教室 標籤彙整頁（2017-05-08 刊）—— [[articles/taiwanjustice-net/2024/20240620173328_root_2777c88877eee2c5|TJJ tag 長青教室, 2024-06-20 存檔]]。
+- 2018-07-19 — among the 國立台灣大學校友 co-signatories of the open letter protesting 南加州台大校友會's invitation of 管中閔 as annual-meeting keynote speaker, listed as 楊正義(機械) — the 機械 (mechanical engineering) tag matches his NTU B.S. ME degree, but the letter gives no further identifiers, so the identification with this Austin-activist/DuPont-engineer 楊正義 is inferred, not confirmed — [[articles/taiwanjustice-net/2018/20180721091303_2018_07_20_抗議-南加州台大校友會邀管中閔來年會做專題演講_a428dcebbceacf38|TJJ 台大校友連署抗議, 2018-07-20 存檔]].
 
 ## Sources
 - [TAH #62 encyclopedia: 62. 楊正義 Cheng-I (Jim) Young](https://taiwaneseamericanhistory.org/atists62-cheng-i-jim-young/)
