@@ -6,7 +6,7 @@ tags:
   - Taiwanese-American
   - Taiwan-Center-group-member
 verification_status: published
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # Taiwanese American Cultural Association
 
@@ -29,6 +29,8 @@ last_reviewed: 2026-09-21
 - 2026-09-20 corpus sweep: grep of content/works + content/articles returned only the records already linked above (plus index listings); no new absorbable facts.
 
 2026-09-21 re-grep (美國台灣文化協會 / TACA): same hit set, all already linked — nothing new absorbable.
+
+2026-09-22 re-grep (美國台灣文化協會 / TACA / U.S. Taiwan Cultural Association): same hit set (records 29/30/23, index, 2026-02 二二八 article), all already linked — nothing new absorbable.
 
 ## Source Notes
 

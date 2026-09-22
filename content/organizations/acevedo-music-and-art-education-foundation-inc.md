@@ -6,7 +6,7 @@ tags:
   - Taiwanese-American
   - Taiwan-Center-group-member
 verification_status: published
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # Acevedo Music & Art Education Foundation Inc
 
@@ -32,6 +32,8 @@ HOLD: the same concert write-up names the trio's pianist once as 「黃煐煐」
 2026-09-20 re-check: corpus re-grep (黃煐媖 / Acevedo Music) returned only the records already cited above (the 2024 concert piece appears twice, as a 2024 and a 2025 repost of the same write-up) — no new absorbable facts.
 
 2026-09-21 re-grep (黃煐媖 / Acevedo): same hit set (the 2024 concert write-up appears twice, as 2024 and 2025 reposts, both cited) — nothing new absorbable.
+
+2026-09-22 re-grep (黃煐媖 / Acevedo Music): same hit set (65-yin-yin-huang, concerts104, index, 2024+2025 concert reposts) — nothing new absorbable.
 
 ## Source Notes
 
