@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # Liang Chuan Peng (彭兩泉)
 
@@ -27,6 +27,8 @@ Liang Chuan Peng (彭兩泉) is listed in the TAH Foundation Who’s Who Taiwane
 - 美西夏令營 is named in the English record as the Taiwanese American Conference – West Coast (TACWC). Source: [[works/taiwaneseamericanhistory-org/ourjourneys38-eng|38. TAI association history (English)]].
 - The association history notes that starting with his term the 聯合會重心南移: the well-organized 協志會 (Taiwanese Alliance for Interculture) and 南灣同鄉會 became its main forces, and 16 of the Federation's 30 presidents came from the South Bay. Source: [[works/taiwaneseamericanhistory-org/ourjourneys38|38. 協志會會史]] / [[works/taiwaneseamericanhistory-org/ourjourneys38-eng|English record]].
 - Named subject in the same records' subject lists ([[works/taiwaneseamericanhistory-org/whoswho803|803. Liang Chuan Peng 彭兩泉 / 2016/02]]).
+- The English record of the 協志會 history also lists him ("Liang Chuan Peng") in the roster of Taiwanese American Federation of Northern California presidents produced by the Alliance. Source: [[works/taiwaneseamericanhistory-org/ourjourneys37-eng|37. TAI history (English)]].
+- 2026-09-22 re-check: fresh greps for 彭兩泉 / Liang Chuan Peng hit only ourjourneys37 / 37-eng / 38 / 38-eng / whoswho803 — all facts above absorbed (English roster link newly added); no new material.
 
 ## Family
 

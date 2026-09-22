@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # Fumi Chen (何文英)
 
@@ -46,6 +46,7 @@ Corpus source: husband 陳淮崇's memoir [[works/taiwaneseamericanhistory-org/o
 ## Worklog
 
 - 2026-09-21 deepen-x slice 09200500-15: re-verified — corpus grep returns the same hit set already absorbed and wikilinked above (own TAH record; for 何文英 also husband 陳淮崇 memoir Our Journeys 138); no new memoir/article mentions, nothing further absorbable.
+- 2026-09-22 deepen-x slice 09210600-19: re-verified — identical hit set (ourjourneys-138, own TAH record #595, works index); nothing new absorbable.
 
 ## Sources
 - [TAH #595 encyclopedia: 595. Fumi Chen 何文英 /2015/09](https://taiwaneseamericanhistory.org/595-fumi-chen-%e4%bd%95%e6%96%87%e8%8b%b1-201509/)

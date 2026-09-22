@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # Cheh-Jen Su (蘇哲仁)
 
@@ -51,3 +51,7 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+## Worklog
+
+- 2026-09-22 deepen-x slice 09210600-19: re-verified — fresh grep returns only the work pages already wikilinked above (#5 encyclopedia, #292 book, mystories5, works index); no additional memoir material, nothing new absorbable.

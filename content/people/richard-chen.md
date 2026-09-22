@@ -38,6 +38,7 @@ _No filled family fields on the TAH profile._
 - HOLD: conflict — a 陳重光醫師 described as 聖地牙哥台灣同鄉會副會長 appears in [[works/taiwaneseamericanhistory-org/ourjourneys162|Our Journeys 162]] (Taiwan Center opening-concert report), while this page's TAH profile records a computer engineer in New York 1973–78; same person unverified, not merged.
 - HOLD: identity — the UCLA-trained film director "Richard Chen" in [[works/taiwaneseamerican-org/taiwan-films-that-imagine-taiwanese-america|Taiwan Films that Imagine Taiwanese America]] is a different individual; do not conflate.
 - HOLD: identity — [[works/taiwaneseamerican-org/pew-research-center-taiwanese-american-statement|Pew Research Taiwanese American statement]] quotes a "Richard Chen, StopAAPIHate.us creator, AsiansNOW founding member" (2020s activist); era and roles do not match this 1945-生 NY engineer, treated as a different individual.
+- 2026-09-22 再確認：語料庫 fresh grep 未變——檢索結果仍為本人 TAH 紀錄（whos1100）、聖地牙哥陳重光醫師（ourjourneys162，HOLD 另人）、以及 Richard Cheng-San Lee 子字串誤hits；無新材料可吸收。
 - Corpus grep note 2026-09-21: matches in [[works/taiwaneseamericanhistory-org/private-collections-91|李正三的收藏]] and [[works/taiwaneseamericanhistory-org/ourjourneys126-eng|Our Journeys #126 (ENG)]] are substring hits on "Richard Cheng-San Lee 李正三" — not this person.
 
 ## Sources

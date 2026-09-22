@@ -43,6 +43,10 @@ Accomplishment
 - Appears in the community record around the 南加州台大校友會's 2018 invitation of 管中閔 for its annual-meeting keynote ([[articles/taiwanjustice-net/2018/20180721091303_2018_07_20_抗議-南加州台大校友會邀管中閔來年會做專題演講_a428dcebbceacf38|TJJ column, 2018-07-20]]).
 - Community roles carried from the TAH profile: 華府台灣產業科技協會 Director and Financial Officer; 北美洲台灣人教授協會華府巴城分會 Vice President.
 
+## Worklog
+
+- 2026-09-22 deepen-x slice 09210600-21: re-verified — fresh grep returns the identical hit set (whos-who-1740, works index, TJJ 2018-07-20 column), all already wikilinked above. Nothing new absorbable.
+
 ## Sources
 - [TAH #1740 encyclopedia: 1740. Dr. Kuo-Pin Wang 王國斌博士](https://taiwaneseamericanhistory.org/whos-who-1740-kuo-pin-wang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-kuo-pin-wang/)
