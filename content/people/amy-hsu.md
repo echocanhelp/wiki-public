@@ -37,6 +37,8 @@ last_reviewed: 2026-09-21
 - **台灣獨立聯盟:** contributed a record of the 台灣獨立建國券 (nation-building bonds issued 1983 by 台灣獨立聯盟 US headquarters, donated toward台灣建國) — preservation provenance 「源自 蘇惠美(許永華太太)」 in [[works/taiwaneseamericanhistory-org/ourjourneys147|台灣獨立聯盟建國券]].
 - **Author:** her own essay 「看無人」 (03/2017) is held as a community historical record at [[works/taiwaneseamericanhistory-org/mystories533|看無人 / 蘇惠美 / 2017-03]]; her TAH Who's Who entry is [[works/taiwaneseamericanhistory-org/whos-who-508|TAH #508]].
 
+- **_corpus scan 2026-09-22_ — HOLD: conflict — the TJJ oral history [[articles/taiwanjustice-net/2024/20240523001702_root_d717aa524a3911af|從台北帝大到台灣大學──「去日本化」與「中國化」下的台大 / 楊起東 / 2018-10]] names a 蘇惠美 who graduated 師大 as the wife of 謝伯芳 (himself a co-organizer of the Mpls 台灣人祈禱查經會 alongside this page's subject); this page's subject holds a 政大財稅 B.A. (1963) and is the wife of [[people/yung-hwa-hsu|許永華]]. Education and spouse both conflict — likely a different person of the same name; not absorbed.
+
 ## Family
 
 - **Husband:** [[people/yung-hwa-hsu||許永華]]
