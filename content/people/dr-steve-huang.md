@@ -52,3 +52,4 @@ last_reviewed: 2026-09-22
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory-org]]
 
 - Corpus re-grep 2026-09-22 (slice 09211400-14): Steve Huang / 黃文谷 hit set unchanged — TAH #224, TAH #2190, the works index, and the 2025 台美人傳統週 article already linked above, plus mystories-672 and record 16 absorbed in a prior pass. HOLD on mayoral-term dates (TAH table 2015-2019 vs 672's Jan-2019 assumption) stands; verify-saturated.
+- Corpus re-grep 2026-09-22 (slice 09220800-19, 黃文谷 / Steve Huang): hit set unchanged (record 16, mystories-672, TAH #224, TAH #2190, works index, 2025 傳統週 article) — SKIP: verified-saturated; HOLD on mayoral-term dates stands.

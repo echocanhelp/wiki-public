@@ -62,3 +62,5 @@ slice 09190130-8 re-grep (2026-09-20): corpus hit set identical to links already
 slice 09201400-19 re-grep (2026-09-21): corpus hit set identical to links already absorbed above — no new absorbable facts.
 
 slice 09211300-16 re-grep (2026-09-22): corpus hit set identical to links already absorbed above — no new absorbable facts.
+
+slice 09220800-19 re-grep (2026-09-22, 許秀聰 / Martha Hsu / Martha VanDriel): corpus hit set identical (first-137, whoswho1070, works index, TAJS index article) — SKIP: verified-saturated; duplicate-page HOLD vs [[people/martha-vandriel|Martha VanDriel]] stands pending owner review.
