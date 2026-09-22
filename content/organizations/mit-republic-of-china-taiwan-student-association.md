@@ -20,7 +20,7 @@ The MIT Republic of China (Taiwan) Student Association, known as MIT ROCSA, is a
 
 ## Community records
 
-_SKIP (2026-09-18 deepen-x; re-verified 2026-09-21): no corpus mention of MIT ROCSA. Memoir hits for "Republic of China student association" concern the UW Formosan Club debate ([[works/taiwaneseamericanhistory-org/ourjourneys81|Our Journeys #81]]) and other campuses, not this MIT organization. Fresh grep re-run: the only "MIT" corpus hits are the ITASA conference venue ([[works/taiwaneseamerican-org/on-discovering-passion-purpose|On Discovering Passion & Purpose]]) and a passing bio note ([[works/taiwaneseamerican-org/gloria-chao-ex-marks-the-spot|Gloria Chao blurb]]) — neither concerns ROCSA. Nothing absorbable without inventing biography._
+_SKIP (2026-09-18 deepen-x; re-verified 2026-09-21 twice, incl. ROCSA/"ROC student association" pattern grep returning zero hits): no corpus mention of MIT ROCSA. Memoir hits for "Republic of China student association" concern the UW Formosan Club debate ([[works/taiwaneseamericanhistory-org/ourjourneys81|Our Journeys #81]]) and other campuses, not this MIT organization. Fresh grep re-run: the only "MIT" corpus hits are the ITASA conference venue ([[works/taiwaneseamerican-org/on-discovering-passion-purpose|On Discovering Passion & Purpose]]) and a passing bio note ([[works/taiwaneseamerican-org/gloria-chao-ex-marks-the-spot|Gloria Chao blurb]]) — neither concerns ROCSA. Nothing absorbable without inventing biography._
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/mit-republic-of-china-taiwan-student-association/)
