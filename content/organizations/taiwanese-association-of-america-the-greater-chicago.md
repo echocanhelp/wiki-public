@@ -31,6 +31,8 @@ Taiwanese Association of America the Greater Chicago (大芝加哥台灣同鄉�
   - **2002-10-22:** chapter joined 法輪功 in round-the-clock protests at Jiang Zemin's Chicago hotel.
 - **Adjacent community institution:** the Chicago community's anchor church is [[works/taiwaneseamericanhistory-org/taiwan-presbyterian-church-tpc-of-greater-chicago|芝城台灣基督長老教會 (TPC of Greater Chicago)]].
 
+- 複核（deepen-x slice 09211300-7，2026-09-22）：re-grep 大芝加哥台灣同鄉會 / Greater Chicago 命中集不變（ourjourneys76 / -eng、our-journeys-378、publications1331、greater-chicago-chapter-taa、鄉訊 newsletter、TPC Greater Chicago）— 全數已吸收於 Role in the Community，saturated，SKIP，無新社群材料可吸收。
+
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-association-of-america-the-greater-chicago/)
 

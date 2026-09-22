@@ -42,6 +42,8 @@ last_reviewed: 2026-09-22
 
 _No filled family fields on the TAH profile._
 
+- 複核（deepen-x slice 09211300-7，2026-09-22）：re-grep 宋瑞珍 / Ruey-Jen Sung 命中集不變（#9 返台記錄、#1755、Our Journeys 142、TA Archives 2024-04 刊文）— 全數已吸收，saturated，SKIP。
+
 ## Sources
 - [TAH #1755 encyclopedia: 1755. Prof. Ruey-Jen Sung 宋瑞珍教授](https://taiwaneseamericanhistory.org/whos-who-1755-ruey-jen-sung/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-ruey-jen-sung/)
