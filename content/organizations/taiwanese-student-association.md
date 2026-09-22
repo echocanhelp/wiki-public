@@ -28,6 +28,7 @@ The Taiwanese Student Association (TSA) at Texas A&M University is a registered 
 - [[works/taiwaneseamericanhistory-org/ourjourneys321|321. 陳文成紀念基金會的成立 (追述)]] — the 密西根大學台灣同學會 (with the Ann Arbor 台灣同鄕會) co-organized a 陳文成 memorial special issue on the 12th anniversary of his death, an early activity record of a Michigan chapter.
 
 HOLD: this page describes the Texas A&M University chapter (德州農工大學台灣同學會, contemporary); the corpus predates it (KU 1961 recorded as the first TSA). Treat the page as chapter-specific — the lineage above is shared movement context, not this chapter's own founding.
+Disambiguation: the corpus's 「台灣學生社」 records — [[works/taiwaneseamericanhistory-org/taiwanese-collegian-irvine-ca|Taiwanese Collegian 台灣學生(季刊) by 台灣學生社]] and [[works/taiwaneseamericanhistory-org/concerts114|114. Landscape of Formosa by Taiwanese Collegian/MTSC 台灣學生社/中西部台灣人夏令會 (Cincinnati, 07/07/2000)]] — name the Midwest Taiwanese Collegian/MTSC organization, not a Texas A&M chapter; do not merge into this page's lineage.
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-student-association/)
