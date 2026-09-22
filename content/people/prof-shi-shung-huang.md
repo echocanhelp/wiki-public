@@ -47,6 +47,9 @@ _No filled family fields on the TAH profile._
 - [TAH #137 encyclopedia: 137. Prof. Shi Shung Huang 黃錫勳教授](https://taiwaneseamericanhistory.org/137-prof-shi-shung-huang/)
 - [TAH Who's Who](https://taiwaneseamericanhistory.org/person/prof-shi-shung-huang/)
 
+## Worklog
+- 2026-09-22 deepen-x slice 09220317-32: SKIP confirmed — corpus hits (ourjourneys-138, 137, 2194, publications1219) are all already linked and absorbed in Role in the Community; no new material.
+
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

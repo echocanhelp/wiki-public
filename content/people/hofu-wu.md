@@ -47,6 +47,9 @@ _No filled family fields on the TAH profile._
 - [TAH #143 encyclopedia: 143. Dr. Hofu Wu 吳和甫博士](https://taiwaneseamericanhistory.org/143-dr-hofu-wu/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/hofu-wu/)
 
+## Worklog
+- 2026-09-22 deepen-x slice 09220317-32: SKIP confirmed — corpus hits (ourjourneys47, 143, 749) are all already linked and absorbed in Role in the Community; no new community facts to absorb.
+
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

@@ -35,7 +35,7 @@ Absorbed from the chapter's 50-year retrospective by 謝金朱 — [[works/taiwa
 - 2019-02-06 — activities record [[works/taiwaneseamericanhistory-org/activities-of-taa-nc|北卡台灣同鄉會的活動 (2019)]].
 - 2020-03-02 — chapter Peace Memorial (228) observance [[works/taiwaneseamericanhistory-org/taa-nc-228-2020|TAA-NC 228紀念會/2020]].
 - 2016-11-15 — the chapter's own newsletter has its corpus record [[works/taiwaneseamericanhistory-org/taiwanese-news-by-taa-nc|Taiwanese News 台訊 by TAA-NC 北卡台灣同鄉會]].
-- 2018-01-18 — chapter introduction record [[works/taiwaneseamericanhistory-org/project-3-39-eng|39. 北卡台灣同鄕會簡介 / Brief Introduction to TAA-NC]].
+- 2018-01-18 — chapter introduction record [[works/taiwaneseamericanhistory-org/project-3-39-eng|39. 北卡台灣同鄕會簡介 / Brief Introduction to TAA-NC]] (ZH edition: [[works/taiwaneseamericanhistory-org/project-3-39|39. 北卡台灣同鄕會簡介]]).
 - 2021-01 — chapter participation in the 2020 national TAA New Year's Eve activity: [[works/taiwaneseamericanhistory-org/our-journeys-365|365. 花絮-北卡台灣同鄉會參加 2020全美台灣同鄉會跨年活動/01/2021]].
 - 2022-06 — 50-year retrospective by 謝金朱 ([[works/taiwaneseamericanhistory-org/our-journeys-381|our-journeys-381]]), absorbed above.
 

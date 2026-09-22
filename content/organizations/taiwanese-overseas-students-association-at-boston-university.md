@@ -30,4 +30,5 @@ The Taiwanese Overseas Students Association at Boston University (TOSA, 波士�
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- 2026-09-22 deepen-x slice 09220317-29: SKIP confirmed — re-grep (TOSA／波士頓大學台灣同學會) still yields only the UW chapter record, the Seattle night-market notice, and index listings; nothing new naming the BU association.
 - 2026-09-21 deepen-x slice 09200500-10: SKIP confirmed — re-grep for TOSA/波士頓大學台灣同學會 still returns only the UW chapter record and the Seattle night-market notice, neither the BU association; no new BU facts.

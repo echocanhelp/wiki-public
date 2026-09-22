@@ -42,6 +42,9 @@ Accomplishment
 - **Published writer:** Author of 牧野溪流 (2009-06, religion) ([[works/taiwaneseamericanhistory-org/186-e7-89-a7-e9-87-8e-e6-ba-aa-e6-b5-81-e8-ac-9d-e6-95-8f-e5-b7-9d-2009-06-e5-ae|TAH #186]]).
 - **Interim supply pastors (from the founding memoir):** in the vacancy before his 1986 installation, 張德香、黃武東（[[people/wudong-huang|黃武東]]）、王成章（[[people/rev-martin-c-wang|王成章]]）牧師 guest-pastored TAFPC, per the same memoir that records his installation ([[works/taiwaneseamericanhistory-org/ourjourneys14|TAFPC founding memoir]]).
 - **TAH encyclopedia records:** [[works/taiwaneseamericanhistory-org/144-rev-m-c-ben-hsieh|TAH #144]] and [[works/taiwaneseamericanhistory-org/whos-who-888-ben-m-c-hsieh|TAH #888]].
+- **Church-layer mention network (from the same two memoirs):** the TAFPC founding and church-planting memoirs additionally name 董俊蘭牧師（[[people/rev-c-l-tong|董俊蘭]]）, 劉照男, 林茂清, 蔡其芳（[[people/charles-tsai|蔡其芳]]）, 陳東亮, 李智惠 and Paul C. Tsai alongside 謝敏川 in the NJ/Southern-PA 長老教會 circle of the 1980s–2000s（[[works/taiwaneseamericanhistory-org/ourjourneys14|Our Journeys #14]], [[works/taiwaneseamericanhistory-org/ourjourneys43|Our Journeys #43]]）。
+
+_Corpus re-scan 2026-09-22 (slice 22): all works hits (#144, #888, #14, #43, 牧野溪流 #186) already absorbed; no new corpus material — this pass only added the mention-network line above._
 
 ## Sources
 - [TAH #144 encyclopedia: 144. Rev. M.C. Ben Hsieh 謝敏川牧師](https://taiwaneseamericanhistory.org/144-rev-m-c-ben-hsieh/)

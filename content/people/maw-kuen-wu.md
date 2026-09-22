@@ -47,6 +47,9 @@ _No filled family fields on the TAH profile._
 - [TAH #646 encyclopedia: 646. Prof. Wu Maw-Kuen 吳茂昆教授](https://taiwaneseamericanhistory.org/whos-who-646-wu-maw-kuen/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/maw-kuen-wu/)
 
+## Worklog
+- 2026-09-22 deepen-x slice 09220317-32: SKIP confirmed — corpus hits are only the two own-record TAH entries and the two TJJ press records already linked; the directorship-tenure HOLD stands.
+
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
