@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # Student Association of Taiwan, UW-Madison
 
@@ -23,6 +23,7 @@ The Student Association of Taiwan (SAT) at the University of Wisconsin–Madison
 - Note (not merged): the memoir's named founding president 謝良瑜 and ~1996 founding predate/precede the WIN-directory registration evidence; both kept side by side. Related local body: [[organizations/taiwanese-association-of-madison-wi|Taiwanese Association of Madison, WI]].
 - An earlier UW-M 台灣同學會 lineage is recorded in 劉兆民's memoir [[works/taiwaneseamericanhistory-org/ourjourneys205|Our Journeys #205 (劉兆民)]]: 周烒明 physician organized the 台灣同學會 on the UW campus — described as the first Taiwanese student association founded in the U.S. — and the Kuomintang government retaliated by revoking his ROC passport, rendering him stateless in America. HOLD: this earlier (1960s–70s era) 台灣同學會 vs the memoir #277's 1996 founding — the page does not merge the two lineages.
 - Per the same memoir (citing 鄭麗伶, 自由時報 2015-11-13): UW-M's pre-existing 中國同學會 merged with the UW 台灣同學會 in 2006, taking the present name 「台灣同學會」 — the only dated institutional change in the corpus.
+- Corpus re-check 2026-09-22: further UW-Madison hits in the memoir corpus were checked and found not to concern this association — a literary memoir campus visit ([[works/taiwaneseamericanhistory-org/ourjourneys70|#70]]), blacklist records of individual alumni 高成炎/陳麗貞 ([[works/taiwaneseamericanhistory-org/ourjourneys106|#106]]), the separately-founded UW-M 台灣冰壺俱樂部「戰鬥番薯」 ([[works/taiwaneseamericanhistory-org/ourjourneys242|#242]]), and general Madison campus history ([[works/taiwaneseamericanhistory-org/ourjourneys81-eng|#81-eng]]). No unabsorbed association detail remains.
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/student-association-of-taiwan-uw-madison/)
