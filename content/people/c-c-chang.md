@@ -39,6 +39,7 @@ _No filled family fields on the TAH profile._
 - TAH encyclopedia carries his record: [[works/taiwaneseamericanhistory-org/whoswho1196|TAH #1196 C. C. Chang 張健昌 (2016/07)]].
 - Authored the memoir 從中國革命少年到台灣建國老兵 (2011), held as community record at [[works/taiwaneseamericanhistory-org/publication1297|TAH publication #1297]] — a first-person account spanning his youth in the Chinese revolution era to his identification with the 台灣建國 cause; memoir material outranks the press-kit TAH bio for biographical detail once full text is absorbed.
 - HOLD: the initials "C. C. Chang" are shared with a different person, TAH #1473 張志群 (2017/01, [[works/taiwaneseamericanhistory-org/whoswho1473]]) — do not conflate; only records naming 張健昌 belong to this page.
+- Corpus re-verified 2026-09-22 (slices 09211300-23, 09220800-29): fresh grep again returns no works/articles hits beyond the records below.
 - Corpus re-verified 2026-09-22 (slice 09211300-23): works hits are the already-linked records #1196 and #1297 (memoir 從中國革命少年到台灣建國老兵 — bibliographic record only, full text stays in the vault) plus the namesake HOLD #1473 張志群; no new absorbable material.
 
 ## Sources
