@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # Stanley Hsiao (蕭東賢)
 
@@ -31,10 +31,13 @@ last_reviewed: 2026-09-21
 
 ## Family
 
-- **Wife:** [[people/agnes-hsiao||黃美琇]]
+- **Wife:** [[people/agnes-hsiao|黃美琇]]
 
 
 ## Role in the Community
+
+_Corpus re-grep 2026-09-22 (DEEPEN-X slice 09212352-25): ZH+EN hits = his own encyclopedia record whos-who-2254 and his 義論 column pieces in taiwanjustice-net (2020-01-06, 2021-12-08) — all already cited below; no new memoir material naming 蕭東賢 directly._
+
 No memoir names 蕭東賢 directly, but corpus records around his wife 黃美琇 (Agnes Hsiao) place the couple inside the Seattle Taiwanese community leadership:
 
 - 黃美琇 is recorded as 副館長 of 西雅圖台灣會館 (Seattle Taiwanese Center, www.seataiwancenter.org) in 王虹妮's community history: [[works/taiwaneseamericanhistory-org/ourjourneys30|30. 西雅圖台灣會館 / 王虹妮 /2014/09]] — consistent with Stanley's founding presidency of the Seattle Taiwanese Chamber of Commerce.
