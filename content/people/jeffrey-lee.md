@@ -52,3 +52,4 @@ _No filled family fields on the TAH profile._
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 2026-09-22 re-check: corpus re-grep (Jeffrey Lee / 李友禮) returned only the works already cited above (our-journeys 376/378, ourjourneys79, columns3, my-stories-406, 831) — no new absorbable facts.
+2026-09-22 re-check (slice 09220400-18): SKIP — same hit set re-grepped ZH+EN; all six work pages already cited and linked above. No new absorbable corpus facts.
