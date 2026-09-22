@@ -33,6 +33,9 @@ last_reviewed: 2026-09-22
 - **FAPA 總會長：** 曾任 FAPA 總會長，位列 FAPA 总部同工昆布勞回顧的歷任九位會長之一（王桂榮、陳榮儒、樊豐忠、陳文彥、吳明基、李青泰、楊英育、高龍榮、陳正義）（見 [[works/taiwaneseamericanhistory-org/ourjourneys293|ourjourneys293]]）。
 - **俄州台美人運動：** 辛辛那提分會會員推動「一人一票」等行動，是他與會員共同努力的成果；2018年《台灣旅行法》推手夏波議員（Jim Sens. Chabot）與老友李青泰等鄉親歡聚（見 [[works/taiwaneseamericanhistory-org/chabot-honoring-party-5-1-18|Chabot Honoring Party 5/1/18]]）。
 
+## Corpus check (2026-09-22)
+- Idempotent re-verify (slice 09220500-30): fresh grep — corpus hits remain ourjourneys228, ourjourneys293, Chabot Honoring Party, and Who's Who #974, all already linked above; no new absorbable facts.
+
 ## Sources
 - Corpus encyclopedia record: [[works/taiwaneseamericanhistory-org/whoswho974|TAH #974, C. T. Lee 李青泰 / 2016/05]].
 - [TAH #974 encyclopedia: 974.  C. T. Lee 李青泰 / 2016/05](https://taiwaneseamericanhistory.org/whoswho974/)

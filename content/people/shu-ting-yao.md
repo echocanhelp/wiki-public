@@ -39,6 +39,9 @@ Praised in Black Forest Messenger of Germany “Thrilled Violin Playing!” and 
 
 _No filled family fields on the TAH profile._
 
+## Corpus check (2026-09-22)
+- Idempotent re-verify (slice 09220500-30): fresh grep — corpus hits remain records #38, #442 (15075), and #212, all already linked above with the 舒/淑 HOLD noted; no new absorbable facts.
+
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/shu-ting-yao/)
 
