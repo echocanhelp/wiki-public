@@ -48,3 +48,5 @@ last_reviewed: 2026-09-22
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - [[works/taiwaneseamericanhistory-org/ourjourneys-138|138. 華府與巴城TAA的誕生]]
 - [[works/taiwaneseamericanhistory-org/ourjourneys47|47. NATPA首度回台召開年會]]
+
+> Corpus re-scan 2026-09-22 (deepen-x slice 09220400-21): fresh grep of works/ and articles/ for 李賢淇 / Edward H Lee — hits are his own record #1676, ourjourneys-138（1987/1993 TAA華府負責人）, ourjourneys47（NATPA首返台年會、參觀旅遊領隊）, and the 2018-07-20 TJJ 台大校友連署名單（列名「李賢淇(植物)」，與現有記載相符）。All facts already absorbed above. SKIP-deepen; nothing new absorbable.

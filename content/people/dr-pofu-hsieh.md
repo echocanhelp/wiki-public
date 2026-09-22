@@ -43,6 +43,8 @@ HOLD: he is documented as a dentist (NYU D.D.S., NYU dental faculty) serving as 
 
 SKIP-with-reason (re-verified 2026-09-22): a fresh corpus grep returns only the 2021 WHO forum record and TAH #1904 entry already absorbed above plus the works index — no additional memoir or community text, so no new facts added.
 
+Corpus re-check 2026-09-22 (deepen-x slice 09220400-26): fresh grep for 謝博夫 / Pofu — hit set unchanged (whos-who-1904, works index, 2021 WHO forum article), all already absorbed. SKIP-deepen.
+
 ## Sources
 - [TAH #1904 encyclopedia: 1904.  Dr. Pofu Hsieh 謝博夫醫師](https://taiwaneseamericanhistory.org/whos-who-1904-pofu-hsieh/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-pofu-hsieh/)

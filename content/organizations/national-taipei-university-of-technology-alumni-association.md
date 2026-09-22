@@ -36,3 +36,5 @@ last_reviewed: 2026-09-22
 - [[sources/taiwancenter-org||taiwancenter.org]]
 
 Corpus re-check 2026-09-22 (deepen-x slice 09210700-29): fresh grep of works/ and articles/ — hit set unchanged, all hits already wikilinked with facts absorbed. SKIP-deepen; nothing new absorbable.
+
+Corpus re-check 2026-09-22 (deepen-x slice 09220400-26): fresh grep returns the previously absorbed records plus two press articles ([[articles/taiwanjustice-net/2026/20260118222252_率團訪台取得22項成果_維特齊_有心就能找到路_6939731f19637257|Vítedčí 訪台報導, 2026-01-18]] — 布拉格化工大學與台北科技大學簽署合作備忘錄; [[articles/taiwanjustice-net/2026/20260115082805_蓬佩奧發推文揭中國借反恐毀滅公民信仰_中國反_fa7472ae7712aae0|2020 大選報導, 2026-01-15]] — 台北科技大學兼課教師爭議). Both concern the Taipei campus itself, not the US alumni association — no absorbable association facts. SKIP-deepen.

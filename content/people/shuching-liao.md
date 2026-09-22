@@ -50,4 +50,4 @@ last_reviewed: 2026-09-22
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
-> Corpus re-scan 2026-09-22 (deepen-x slice 09210700-28): fresh grep of works/ and articles/ for 廖郭淑卿 / Shuching Liao — sole hit is her own record #478, already linked with facts absorbed. SKIP-deepen; nothing new absorbable.
+> Corpus re-scan 2026-09-22 (deepen-x slice 09220400-21; previously checked in slice 09210700-28): fresh grep of works/ and articles/ for 廖郭淑卿 / Shuching Liao — sole hit remains her own record #478 (plus works/index), already linked with facts absorbed. SKIP-deepen; nothing new absorbable.
