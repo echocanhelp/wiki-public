@@ -54,3 +54,4 @@ _No filled family fields on the TAH profile._
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 <!-- deepen-x 09200800-28: SKIP — corpus re-scan (works/articles) fresh 2026-09-21: only own TAH records / already-absorbed coverage; no new community material. -->
 <!-- deepen-x 09210831-15: SKIP — corpus re-scan (works/articles) fresh 2026-09-22: hits are only own TAH records, works/index.md, or pages already wikilinked in Role in the Community; no new community material. -->
+<!-- deepen-x 09220700-23: SKIP — corpus re-scan (works/articles) fresh 2026-09-22: hits are only own TAH records, works/index.md, or pages already wikilinked in Role in the Community; no new community material. -->
