@@ -26,6 +26,7 @@ Recorded in the TAH *Our Journey* memoir corpus ([[works/taiwaneseamericanhistor
 - **White House confrontation (early 1992):** In a White House briefing for Taiwanese Americans, director 蔡武雄 produced the U.S. passport of a Ukrainian colleague at the Library of Congress — showing birthplace "Ukraine," not "Soviet Union" — and pressed 包道格 (Dennis Hellmer), then Asia affairs director of the NSC, to apply the same treatment to Taiwanese. CTIR members thereafter lobbied the White House, State Department, AIT, and the House and Senate foreign affairs committees on the issue.
 - **1994 legislative outcome:** The campaign reached a milestone when the Senate-passed Roth (佩爾) amendment to the 1994 State Department Authorization Act — allowing birthplace "Taiwan" on U.S. passports — passed the joint House–Senate foreign affairs committee debate without challenge (reported April 19, via a CTIR Washington dispatch).
 - **1988–89 NATPA partnership:** CTIR co-hosted with NATPA the first Taiwanese-identity-based reception in Washington for Taiwan-studies scholars attending the 41st Association for Asian Studies annual meeting; NATPA's memoir names 蔡武雄 as CTIR's person in charge.
+- Corpus re-grep 2026-09-22 (slice 09212352-7): SKIP-new-facts — hits limited to the already-cited org record 29, Our Journey #47/#254 and works/index; the single extra article match was an incidental archive-digest string, not a CTIR mention.
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/center-for-taiwan-international-relations-ctir/)

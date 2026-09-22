@@ -57,3 +57,4 @@ last_reviewed: 2026-09-22
 - His own TAH encyclopedia entries profile him as the first Taiwanese American Taipei City Councillor: [[works/taiwaneseamericanhistory-org/ff303|303. Philip Lin 林水泉 / The First T.A. to be the City Councillor of Taipei]] and [[works/taiwaneseamericanhistory-org/whos1287|1287. Philip Lin 林水泉 / 2016-09]].
 - Photographed in the front row (林水泉，許信良，謝聰敏，艾琳達，許國泰) of the overseas democracy-movement group portrait in [[works/taiwaneseamericanhistory-org/our-journeys-363|Our Journeys #363]].
 - Corpus re-grep 2026-09-21 (slice 09210317-4): SKIP-new-facts — hit set unchanged (Our Journeys #74 桃園機場事件, #363, ff303/whos1287 encyclopedia entries, 陳昭南 TJJ memoir); all already absorbed above.
+- Corpus re-grep 2026-09-22 (slice 09212352-7): SKIP-new-facts — ZH+EN re-grep returns the same saturated hit set (ourjourneys74 + eng, our-journeys-363, ff303, whos1287, 謝清志林水泉回台被毆 record); no new absorbable material.
