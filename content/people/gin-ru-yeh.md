@@ -58,3 +58,4 @@ Accomplishment
 ,Corpus re-check (2026-09-20, slice 09181500-14): re-grep 葉錦如|Gin Ru Yeh — hit set identical to records already cited (ourjourneys112, ourjourneys233 ±EN, ourjourneys328, winners13, own TAH #176 record); no new absorbable material.
 Corpus re-check (2026-09-21, slice 09201300-10): re-grep 葉錦如|Gin Ru Yeh — hit set unchanged (ourjourneys112, ourjourneys233 ±EN, ourjourneys328, winners13, 176-gin-ru-yeh); all already wikilinked in Role in the Community. Saturated; nothing new absorbable.
 Slice deepen-x-slice-09211300-12 (2026-09-22): re-grep 葉錦如|Gin Ru Yeh — identical hit set (ourjourneys112, ourjourneys233 ±EN, ourjourneys328, winners13, 176-gin-ru-yeh); all already absorbed. Saturated. SKIP.
+Slice deepen-x-slice-09220800-8 (2026-09-22): fresh grep 葉錦如|Gin Ru Yeh adds ourjourneys60 (NATWA 會史) — newly absorbed above (基金制度 + 「婦女與性」 annual-meeting topic); other hits unchanged.

@@ -53,6 +53,8 @@ Publication(Non-professional)
 - 複核（deepen-x slice 09201400-6，2026-09-21）：re-grep 同一命中集（#64、#1990、#619、#1184、#722、#92）— saturated，SKIP，無新社群材料可吸收。
 - 複核（deepen-x slice 09211300-8，2026-09-22）：re-grep 施永強 / Frank Shih 命中集不變（#64、#1990、#619、#1184、#722、#92，皆書目/收藏記錄）— saturated，SKIP，無新社群材料可吸收。
 
+- 複核（deepen-x slice 09220800-6，2026-09-22）：re-grep 施永強 / Frank Shih 命中集不變（#64、#1990、#619、#1184、#722、#92，皆書目/收藏記錄）— saturated，SKIP，無新社群材料可吸收。
+
 ## Sources
 - [TAH #64 encyclopedia: 64. Prof. Frank Shih 施永強教授](https://taiwaneseamericanhistory.org/64-prof-frank-shih/)
 - [TAH #1990 encyclopedia: 1990. Prof. Frank Shih 施永強教授](https://taiwaneseamericanhistory.org/whos-who-1990-frank-shih/)
