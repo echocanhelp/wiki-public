@@ -35,7 +35,7 @@ _No filled family fields on the TAH profile._
 
 ## Role in the Community
 - Profiled in the TAH encyclopedia story corpus: [[works/taiwaneseamericanhistory-org/whoswho1336|1336. Shing Lung Tseng 曾醒倫]] (published 2016-10-22). Corpus record is bibliographic only; no memoir prose beyond the existing tah-tables to absorb.
-- SKIP-with-reason (slice 09191219-2 re-pass, 2026-09-21): corpus grep hits only this own-record stub plus index files — nothing absorbable; no biography invented.
+- SKIP-with-reason (slice 09210906-24 re-pass, 2026-09-22): corpus grep hits only this own-record stub plus index files — nothing absorbable; no biography invented.
 
 ## Sources
 - [TAH #1336 encyclopedia: 1336.  Shing Lung Tseng 曾醒倫 / 2016/10](https://taiwaneseamericanhistory.org/whoswho1336/)
