@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # John Lin (林榮勳)
 
@@ -43,6 +43,7 @@ _No filled family fields on the TAH profile._
 - Encyclopedia entry honoring him as an enlightenment figure of the independence movement: [[works/taiwaneseamericanhistory-org/275-e6-9e-97-e6-a6-ae-e5-8b-b3-e5-8d-9a-e5-a3-ab-e7-8d-a8-e7-ab-8b-e9-81-8b-e5-8|275. 林榮勳博士 / 獨立運動的啟蒙者 / 1950年代]].
 - HOLD: conflict in the reorganisation date of 3F into 台灣獨立聯盟 (UFI) — 1958 per [[works/taiwaneseamericanhistory-org/ourjourneys33|Our Journeys #33]] vs 1959 per the TJJ essay below. Not auto-merged.
 - Note: [[works/taiwaneseamericanhistory-org/whoswho1069|TAH #1070 "John Lin" 林釗永]] is a different person, not linked here.
+- His own TAH encyclopedia card is in-corpus: [[works/taiwaneseamericanhistory-org/whoswho1011|TAH #1011 「John Lin 林榮勳」]], which also records the 3F→UFI reorganisation as 1958 (matching #33, against the 1959 essay date — HOLD above unchanged).
 
 ## From the record
 

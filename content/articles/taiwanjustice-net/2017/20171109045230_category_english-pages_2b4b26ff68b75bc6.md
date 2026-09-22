@@ -28,6 +28,6 @@ English Pages A Broadway style Taiwanese Opera, When The World Met Taiwan “遇
 English Pages New Report: ‘Breaking Down Democracy’ / Freedom House 2017-06-05 June 5, 2017 admin 0 […]
 
 ## Subjects
-- [[people/john-chiang.md|John Chiang]] — mentioned in this record
-- [[people/simon-cheng.md|Simon Cheng]] — mentioned in this record
+- [[people/john-chiang|John Chiang]] — mentioned in this record
+- [[people/simon-cheng|Simon Cheng]] — mentioned in this record
 
