@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # Doris T. Chang (張庭寧)
 
@@ -34,6 +34,8 @@ last_reviewed: 2026-09-21
 
 - Her scholarly book on the women's movement in Taiwan is held in the corpus as a historical work: [[works/taiwaneseamericanhistory-org/140-womens-movements-in-twentieth-century-taiwan-doris-t-chang-2009-01-e6-94-bf-|Women's Movements in Twentieth-Century Taiwan (2009)]] — the corpus places it in the 政治 (politics) band, positioning her as a movement historian rather than only a press-kit academic.
 - Her TAH Who's Who encyclopedia entry is itself a corpus record: [[works/taiwaneseamericanhistory-org/whoswho1188|TAH #1188 Doris T. Chang 張庭寧 / 2016-04]].
+
+> Re-verified 2026-09-22 (slice 09210900-5): fresh grep returned only her book page (#140), her encyclopedia page (#1188), and the works index — both already absorbed; no memoir/press-kit narrative beyond the press-kit snapshot.
 
 ## Family
 

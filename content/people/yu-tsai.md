@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # Yu Tsai (蔡羽)
 
@@ -41,6 +41,7 @@ last_reviewed: 2026-09-21
 _No filled family fields on the TAH profile._
 
 > Deepen pass 2026-09-21 (slice 09200600-28): VERIFIED — corpus hits remain TAH #916 and Our Journeys #37 subject tags, already absorbed; no narrative beyond the press-kit snapshot.
+> Re-verified 2026-09-22 (slice 09210900-5): fresh grep of content/works + content/articles returned only the same two records (plus the works index) — nothing new absorbable.
 
 ## Sources
 - [TAH #916 encyclopedia: 916. Yu Tsai 蔡羽 / 2016/03](https://taiwaneseamericanhistory.org/916-yu-tsai-%e8%94%a1%e7%be%bd-201603/)

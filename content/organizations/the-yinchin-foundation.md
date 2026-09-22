@@ -25,6 +25,7 @@ last_reviewed: 2026-09-22
 - 2016: co-sponsored the 美國殷勤文教公益基金會及世台聯合基金會美國南加州留學獎學金 with 世台聯合基金會: [[works/taiwaneseamericanhistory-org/awards67|TAH #67 留學獎學金, 2016]]
 - 2021-05: 殷勤文教公益基金會 was a 共同發起單位 of the Southern California 僑界 joint statement supporting Taiwan's WHA participation; founder 殷清隆 signed among the 共同發起人: [[articles/taiwanjustice-net/2021/20210616072940_2021_05_17_2021年南加州僑界支持台灣參與世界衛生大會wha聯合聲_b1d58af16c0a5e5b|2021年南加州僑界支持台灣參與WHA聯合聲明]]
 - The foundation's own profile is held in the TAH story corpus as record #40: [[works/taiwaneseamericanhistory-org/yin-chin-foundation-of-u-s-a|40. YIN CHIN FOUNDATION OF U.S.A. 美國殷勤文教公益基金會, 2016-07-26]] (band B).
+- Founder 殷清隆 has his own TAH Who's Who record in the corpus: [[works/taiwaneseamericanhistory-org/whoswho1437|1437. C. L. Yin 殷清隆 / 2016-12]] (band B).
 
 ## Source Notes
 
