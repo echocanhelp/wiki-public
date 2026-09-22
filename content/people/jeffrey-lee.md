@@ -50,3 +50,5 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+2026-09-22 re-check: corpus re-grep (Jeffrey Lee / 李友禮) returned only the works already cited above (our-journeys 376/378, ourjourneys79, columns3, my-stories-406, 831) — no new absorbable facts.
