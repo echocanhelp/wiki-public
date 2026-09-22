@@ -51,3 +51,7 @@ Accomplishment
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+## Worklog
+
+- 2026-09-22 deepen-x slice 09220500-20: re-verified — identical hit set (own TAH #1733, Our Journeys #260 本人執筆, TJJ 楊遠薰報導 2017-07-09 + 2024-05 存檔副本) already absorbed above; nothing new absorbable.

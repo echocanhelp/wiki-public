@@ -50,3 +50,6 @@ last_reviewed: 2026-09-22
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+## Corpus check (2026-09-22, slice 24)
+- SKIP (verified-saturated): fresh grep of works/ and articles/ returned only #47 own record, ourjourneys167 (already absorbed above with performer/布景/慈淵 details), and the works index — no new absorbable facts.

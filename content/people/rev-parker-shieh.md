@@ -50,3 +50,6 @@ last_reviewed: 2026-09-22
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+## Corpus check (2026-09-22, slice 24)
+- SKIP (verified-saturated): re-grep returned only own-name entry whos-who-1811 and the works index — no memoir or third-party mentions; nothing further absorbable.

@@ -35,3 +35,7 @@ last_reviewed: 2026-09-22
 
 - [[organizations/taiwan-center||Taiwan Center]]
 - [[sources/taiwancenter-org||taiwancenter.org]]
+
+## Worklog
+
+- 2026-09-22 deepen-x slice 09220500-20: re-verified — fresh grep of works/+articles/ returns only works already wikilinked above plus sibling OC-org records (OCTW 同鄉會, TAP-OC, OCTA 柑縣台灣同鄉會, 柑縣台美商會音樂會, 柑縣228紀念會) whose 柑縣 mentions carry no FAPA-OC-attributed facts; nothing new absorbable.
