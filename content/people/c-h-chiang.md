@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # C. H. Chiang (蔣政宏博士)
 
@@ -32,6 +32,7 @@ last_reviewed: 2026-09-21
 <!-- tah-tables:end -->
 
 ## Role in the Community
+- Corpus check 2026-09-22: corpus hits reviewed — OJ #245 (1996 召集人 record) and TAH Who's Who #1412, a bibliographic-only record (published 2016-11-20). No new community facts beyond those below; nothing absorbable.
 - 1996 年第十八屆台美同志會年會（田納西州 Chattanooga, Covenant College，7/12–14）由蕃薯味（Huntsville）同鄉會主辦，蔣政宏任召集人，主題「台美連心，踏入國際舞台」——見 [[works/taiwaneseamericanhistory-org/ourjourneys245|Our Journeys #245]]。
 - 列入 TAH Foundation Who's Who 名錄，紀錄見 [[works/taiwaneseamericanhistory-org/whoswho1412|1412. C. H. Chiang 蔣政宏 / 2016-11]]。
 
