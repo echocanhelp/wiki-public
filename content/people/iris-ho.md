@@ -11,6 +11,9 @@ last_reviewed: 2026-09-21
 ---
 # Iris Ho (何燕青)
 
+## Corpus pass (deepen-x slice 09210400-10, 2026-09-21): VERIFIED, NO-NEW
+Fresh grep of content/works + content/articles returned only records already absorbed below (ourjourneys123, ourjourneys123-eng, TAH #309, TA.org perspectives, TAH #935). Nothing new to absorb.
+
 ## Identity Snapshot
 - **English:** Iris Ho
 - **Chinese:** 何燕青
