@@ -45,7 +45,7 @@ _No filled family fields on the TAH profile._
   - [[works/taiwaneseamericanhistory-org/publications1018|1018. 物種起源 進化論 以及人類文明歷史的演化（2016/06）]]
   - [[works/taiwaneseamericanhistory-org/publications1019|1019. 現代世界各主要國家的歷史簡述 第一集 亞洲及太平洋諸國（2016/06）]]
 - **TAH 百科entry:** [[works/taiwaneseamericanhistory-org/whos1249|1249. Chuck Lee 李忠敏（2016/08）]]
-- Corpus coverage check (re-run 2026-09-21): every corpus hit for 李忠敏 / Chuck Lee is his own publication page (publications1011–1019) or his own encyclopedia entry whos1249 — no third-party memoir or article names him, so the list above remains the complete corpus footprint.
+- Corpus coverage check (re-run 2026-09-22, deepen-x slice 09220400-17): every corpus hit for 李忠敏 / Chuck Lee is his own publication page (publications1011–1019) or his own encyclopedia entry whos1249 — no third-party memoir or article names him, so the list above remains the complete corpus footprint. SKIP this pass: nothing new absorbable.
 
 ## Sources
 - [TAH #1249 encyclopedia: 1249. Chuck Lee 李忠敏 / 2016/08](https://taiwaneseamericanhistory.org/whos1249/)

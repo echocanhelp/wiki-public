@@ -41,6 +41,7 @@ Accomplishment
 - 會館紀錄記載她為第一位參加美國民主黨黨員大會（Democratic National Convention）的台美人（華盛頓州代表）：[[works/taiwaneseamericanhistory-org/236-e7-8e-8b-e7-b4-94-e7-b4-94-e5-a5-b3-e5-a3-abwa-state-e7-ac-ac-e4-b8-80-e4-bd|236. 王純純女士/WA State / 第一位台美人參加民主黨黨員大會/New York City / 6/14/1905]]（2016-02）。
 - HOLD: conflict — 本頁記「First Asian American Representative of Washington State for National Democratic Convention 2013」，work 236 標題記「第一位台美人參加民主黨黨員大會」且標題日期「6/14/1905」明顯為存檔擷取誤植（與 2013 年大會衝突）；兩說法並存，不自動合併。
 - 西雅圖組織面：NATWA、台美人公民權促進會（TACL）、台美人協會（TAA）西雅圖分會共同創辦人，FAPA 西雅圖分會首任會長，民主黨 precinct committee officer（TAH harvest table）。
+- Corpus re-scan 2026-09-22 (slice 09220400-14): all corpus hits (TAH #297, #832, #236, #292 黃滿玉 memoir, site index) already absorbed above; no further memoir material, nothing new absorbable.
 
 ## Sources
 - [TAH #297 encyclopedia: 297. June W. Wang 王純純](https://taiwaneseamericanhistory.org/ota-297/)
