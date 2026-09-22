@@ -24,6 +24,7 @@ The Yin Chin Foundation of U.S.A. is a nonprofit charitable organization registe
 - Founder Mr. C. L. Yin (殷清隆) has his own TAH Who's Who record: [[works/taiwaneseamericanhistory-org/whoswho1437|TAH #1437 C. L. Yin 殷清隆, 2016/12]]
 - The foundation's own TAH directory record: [[works/taiwaneseamericanhistory-org/yin-chin-foundation-of-u-s-a|TAH #40 YIN CHIN FOUNDATION OF U.S.A.]]
 - 2021: 殷勤文教公益基金會 was a co-initiating organization (共同發起單位) of the Southern California 僑界 joint statement supporting Taiwan's participation in the WHO/WHA; founder 殷清隆 signed as a co-initiator: [[articles/taiwanjustice-net/2021/20210616072940_2021_05_17_2021年南加州僑界支持台灣參與世界衛生大會wha聯合聲_b1d58af16c0a5e5b|2021年南加州僑界支持台灣參與WHA聯合聲明]]
+- Re-grep 2026-09-21: hits for 殷勤文教/殷清隆/Yin Chin are exactly the works and articles already cited above, plus a second archived copy of the same 2021 WHA 聯合聲明 ([[articles/taiwanjustice-net/2025/20251108183438_2021年南加州僑界支持台灣參與世界衛生大會wha聯合聲_80c0a825a7a661b6|2025 Wayback capture of the WHA 聯合聲明]]) — duplicate of the 2021 record, no new facts.
 - Corpus re-check 2026-09-19: remaining 殷勤 matches in the corpus ([[works/taiwaneseamericanhistory-org/10-laguna-woods-village-taiwanese-chorale|Laguna Woods Village 台灣合唱團 memoir]] and the 夏日湖畔 essay) use 殷勤 as an adjective ("diligent/hospitable"), not the foundation — no further facts absorbed.
 
 ## Sources
