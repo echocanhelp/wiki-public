@@ -29,6 +29,7 @@ Thin A-tier from [[sources/laijohn-com||laijohn.com]] biog + TAH John Lai card. 
 - 1977 — 張啟典, then president of the 波士頓台灣同鄉會, hosted the 第8屆美東台灣人夏令會 at Brown University (~400+ attendees) — the first summer meeting held on a US university campus.
 - 2016-05-16 — organization chronicle published in the TAH story corpus: [[works/taiwaneseamericanhistory-org/boston-taiwanese-christian-church|Boston Taiwanese Christian Church 波士頓台灣基督教會]] (bibliographic record only).
 - HOLD: conflict — memoir 338's title calls the founder 「張啟典醫師」 while [[people/chi-tien-chang|his person page]] records 台大化學系 / scientist-professor (TAH Who's Who). Not auto-merged.
+- 2026-09-21 (deepen-x slice 09210400-9): fresh corpus re-grep — the only works/articles hits are memoir [[works/taiwaneseamericanhistory-org/ourjourneys338|338]] and the 2016-05-16 chronicle record, both already absorbed above; no additional corpus material to absorb.
 
 ## Related Pages
 - [[people/chi-tien-chang||Prof. Chi-Tien Chang 張啟典]] — founding member
