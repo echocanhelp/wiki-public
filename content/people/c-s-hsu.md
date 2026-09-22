@@ -29,6 +29,7 @@ _No filled family fields on the TAH profile._
 - 2020-04-20 — 以南加州台灣僑團成員、僑務委員身份參與捐贈醫護用品給洛杉磯郡警察局，與僑務委員莊佩源、客委會諮詢委員邱啟宜等到場，副局長 Timothy Murakami 率一级主管接受（[[articles/taiwanjustice-net/2025/20250420000557_南加州台灣僑團捐醫護用品-助洛杉磯郡警察_5724d4f358a0d5f5|TJJ：南加州台灣僑團捐醫護用品助洛杉磯郡警察]]）。疫情期間其洛杉磯旅館住客僅一成仍堅持開門為留員工（見下）。
 
 - 本人 TAH 百科記錄 [[works/taiwaneseamericanhistory-org/whoswho1478|1478. C. S. Hsu 許清松 / 2017/01]]（2017-01-22 · B）為書目性存檔，全文留 vault，無可再吸收事實。
+- **deepen-x re-grep 2026-09-21 (slice 28):** fresh grep returns only whoswho1478 and the two TJJ articles already absorbed above（LA郡警察局捐贈報導、疫情旅館堅持開門報導）。無新 corpus 事實 — SKIP this pass.
 
 ## From the record
 
