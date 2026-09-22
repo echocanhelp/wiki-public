@@ -46,7 +46,7 @@ last_reviewed: 2026-09-22
 
 ## Corpus review
 
-- 本頁 corpus 檢索（2026-09-21, slice 09210317-10 複核）：content/works + content/articles 命中均為本人 own page（TAH #1154）、works index 或已收錄之 TJJ 兩筆紀錄（2021 WHA 聯合聲明共同發起人名單、2013-04-12 核四表決反對名單），無新可吸收社群事實 — SKIP。
+- 本頁 corpus 檢索（2026-09-21 slice 09210317-10、2026-09-22 slice 09212352-32 複核）：content/works + content/articles 命中均為本人 own page（TAH #1154）、works index 或已收錄之 TJJ 兩筆紀錄（2021 WHA 聯合聲明共同發起人名單、2013-04-12 核四表決反對名單），無新可吸收社群事實 — SKIP。
 
 ## Sources
 - [TAH #1154 encyclopedia: 1154. Kai-Chin Chan  詹凱臣 / 2016/07](https://taiwaneseamericanhistory.org/whoswho1154/)

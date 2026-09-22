@@ -42,6 +42,7 @@ last_reviewed: 2026-09-22
 
 - President of the Taiwanese American Foundation of San Diego (聖地牙哥台灣基金會董事長) 2017-2018; UCSD 卓越教授 who, per 遠見雜誌 2019-04 profile, returned to Taiwan after half a century in the US and donated 80% of his salary to higher education ([[works/taiwaneseamericanhistory-org/680-global-monthly-news-prof-charles-w-tu|TAH #680]]).
 - Held in the TAH corpus as a community figure across three records: profile ([[works/taiwaneseamericanhistory-org/whos-charles-tu|TAH #601]], 2015-09-19) and Who's Who entry ([[works/taiwaneseamericanhistory-org/ota-247|TAH #247]], 2019-02-15).
+- Corpus re-sweep 2026-09-22 (slice 09212352-32): exact-name grep 杜武青 / "Charles Tu" over works+articles returns only his own TAH records and the two already-cited WHA 聯合聲明 republications below; loose "Charles…Tu" memoir hits all resolve to other people (Charles Ting, Tun-cheng Wang, Charles W. Tang) — SKIP, nothing new absorbable.
 - Co-initiator (共同發起人) of the 2021 南加州僑界 joint statement supporting Taiwan's participation in WHA, alongside TAHS among the initiating organizations; his name also appears in the corpus republication of the statement: [[articles/taiwanjustice-net/2025/20251108183438_2021年南加州僑界支持台灣參與世界衛生大會wha聯合聲_80c0a825a7a661b6|2025 republication of the WHA 聯合聲明]]; the statement itself is also preserved in the corpus from its 2021 run: [[articles/taiwanjustice-net/2021/20210616072940_2021_05_17_2021年南加州僑界支持台灣參與世界衛生大會wha聯合聲_b1d58af16c0a5e5b|TJJ, 2021-05-17]].
 
 
