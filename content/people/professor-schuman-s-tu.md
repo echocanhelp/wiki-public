@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # Professor Schuman S. Tu (杜新茂教授)
 
@@ -38,7 +38,7 @@ Professor Schuman S. Tu 杜新茂 – History of Taiwanese American (T.A. Archiv
 - Contributed to the 台美人顧台灣 series with the Elite Project 伯樂計畫 essay — [[works/taiwaneseamericanhistory-org/97-care-for-taiwan-by-taiwanese-americans-5-elite-project-e5-8f-b0-e7-be-8e-e4-b|97. Care for Taiwan by Taiwanese American: 5. Elite Project 伯樂計畫 (2015/02)]].
 - Subject profile in the archives — [[works/taiwaneseamericanhistory-org/162-professor-schuman-s-tu-e6-9d-9c-e6-96-b0-e8-8c-82|162. Professor Schuman S. Tu 杜新茂]].
 
-- Corpus check 2026-09-18 (slice 09180131-21), re-check 2026-09-20 (slice 09181500-15), and re-check 2026-09-21 (slice 09201400-16): re-grepped content/works + content/articles — hit set identical to the records already wikilinked above (the #520 match was Schumann piano records, unrelated); no new absorbable community/memoir material.
+- Corpus check 2026-09-18 (slice 09180131-21), re-check 2026-09-20 (slice 09181500-15), re-check 2026-09-21 (slice 09201400-16), and re-check 2026-09-22 (slice 09211300-15): re-grepped content/works + content/articles — hit set identical to the records already wikilinked above (#145, #156, #162, ourjourneys282, #97; the #520 match remains Schumann piano records, unrelated); no new absorbable community/memoir material.
 
 ## Family
 

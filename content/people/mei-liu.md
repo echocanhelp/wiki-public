@@ -36,6 +36,7 @@ last_reviewed: 2026-09-22
 - Appears on the 2018 NTU alumni protest statement against the invitation of 管中閔 to the Southern California NTU Alumni Association annual meeting: [[articles/taiwanjustice-net/2018/20180721091303_2018_07_20_抗議-南加州台大校友會邀管中閔來年會做專題演講_a428dcebbceacf38|抗議 南加州台大校友會邀管中閔來年會做專題演講 (2018-07-19)]], listed among NTU alumni signatories as Mei Liu (化學).
 - Her own TAH Who's Who encyclopedia record: [[works/taiwaneseamericanhistory-org/whos-who-2222-mei-liu|2222. Mei Liu 洪梅 (2019-11-05)]].
 - Corpus re-check (slice deepen-x-slice-09201300-10, 2026-09-21): the only additional text hit for 洪梅 in the corpus — 龐洪梅（音）quoted in [[articles/taiwanjustice-net/2025/20250419233916_美國亞裔恐因武漢肺炎遭排外_43159077375b9055|美國亞裔恐因武漢肺炎遭排外 (2025-04)]] — is a different person (spokesperson for a Chinese-American civil-rights group, name rendered 龐洪梅), NOT this 洪梅; no new absorbable material.
+- Re-check (slice deepen-x-slice-09211300-11, 2026-09-22): re-grep 洪梅 / Mei Liu against content/works + content/articles — hit set identical to the records already absorbed above (TAH #2222 record, 2018 南加州台大校友會抗議聲明, 2024 劉和源/洪梅台大回憶, 龐洪梅 false positive) — saturated, SKIP.
 
 ## Family
 

@@ -48,6 +48,7 @@ Staff Psychiatrist, Director
 - Appears in a photograph in the community photo-remembrance [[works/taiwaneseamericanhistory-org/ourjourneys33-eng|Our Journeys #33 (ENG)]] (captioned "Dr. Geh-fu LIN and his wife") among early-TAF-era Cleveland Taiwanese American community figures (Dr. Sidney Chang, Dr. Tien C. Cheng 鄭天助, May Cheng 鄭美津) — corroborating his presence in the same Midwest movement circle that founded the Cleveland Taiwanese Medical Association and the North American Taiwanese Medical Association.
 
 - 複核（deepen-x slice-09201400-10, 2026-09-21）：re-grep 林毅夫 / Ih Foo Lin（content/works + content/articles）hit set identical to the records already absorbed above (ourjourneys74 ±eng, our-journeys-378, #203, #307, #35, ourjourneys33-eng 照片說明) — SKIP, 無新材料。
+- 複核（slice deepen-x-slice-09211300-11, 2026-09-22）：re-grep hit set unchanged — saturated, SKIP.
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/ih-foo-lin/)

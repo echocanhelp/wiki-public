@@ -29,7 +29,9 @@ The founder appears by her Chinese name 林美惠 in three TAC/EC memoirs (roman
 
 Together these memoirs corroborate the group's profile: a teaching lineage (teacher → licensed students) that has sustained a recurring cultural presence at TAC/EC and the Philadelphia Flower Show since at least 2015, predating the group's formal 2016 founding.
 
-The presence continued after the TAC/EC 2015–2017 records above: 楊遠薰's TAC/EC 2017 report notes 林美惠老師's flower-arrangement demonstration (花藝示範) as an afternoon program item at the 2017 美東台灣人夏令會 hosted by the Washington Taiwanese community (TAC/EC 四百餘人) — [[articles/taiwanjustice-net/2021/20211205054150_2017_07_10_2017年美東台灣人夏令會-_-楊遠薰-報導-2017-07-09_29faf54b8c9e2d10|TJJ 報導, 2017-07-09]].
+The presence continued after the TAC/EC 2015–2017 records above: 楊遠薰's TAC/EC 2017 report notes 林美惠老師's flower-arrangement demonstration (花藝示範) as an afternoon program item at the 2017 美東台灣人夏令會 hosted by the Washington Taiwanese community (TAC/EC 四百餘人) — [[articles/taiwanjustice-net/2021/20211205054150_2017_07_10_2017年美東台灣人夏令會-_-楊遠薰-報導-2017-07-09_29faf54b8c9e2d10|TJJ 報導, 2017-07-09]]; the photo-caption edition of the same report («下午場的節目之一：林美惠老師花藝示範» — 2017 TAC/EC hosted by the Washington Taiwanese community, 動員鄉親八、九十人, TAC/EC 四百餘人) is preserved at [[articles/taiwanjustice-net/2024/20240522235843_root_d2dbfe220e437602|TJJ 2017 美東台灣人夏令會報導（圖文版）]].
+
+Re-check (slice deepen-x-slice-09211300-11, 2026-09-22): re-grep Sogetsu / 草月 / 林美惠 / Meei-huey — remaining hits are the records already linked above plus [[works/taiwaneseamericanhistory-org/ourjourneys298|Our Journeys #298]], whose 草月 mention is HTISC Houston's ikebana curriculum (副院長 LaVerl Daily 執教; 池坊/草月/小原流 teachers 陳由美、張淑貞) — a different region and unrelated teachers, not this Bucks/Montgomery group. No further absorbable material.
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/sogetsu-buxmont-study-group/)

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # Paul Lin (林水波教授)
 
@@ -53,4 +53,5 @@ last_reviewed: 2026-09-21
 - Column record re-verified 2026-09-20: corpus hit set unchanged (whoswho1085-2, ourjourneys107, ourjourneys296, TJJ 2024 archives) — all already absorbed above; the 1999 Kansas City Paul Lin 林年松 remains a separate person (HOLD above).
 - Commentary corpus: columns titled 台灣政情, 選民的進化, and 選舉刺客 are attributed to 林水波教授 in his TAH Who's Who record ([[works/taiwaneseamericanhistory-org/whoswho1085-2|1086. Paul Lin 林水波 / 2016/06]]).
 - Corpus re-grep 2026-09-21 (slice 09201400-16): hit set unchanged (whoswho1085-2, ourjourneys107, ourjourneys296, TJJ 2024 archives + MANIFEST) — all records already absorbed above; saturated, no new material.
+- Corpus re-grep 2026-09-22 (slice 09211300-15): hit set unchanged (whoswho1085-2, ourjourneys107, ourjourneys296, TJJ archive pages; plus index/MANIFEST bookkeeping) — all records already absorbed above; saturated, no new material.
 - HOLD: name collision — "Paul Lin 林年松" appears as a 1999-era officer of the Taiwanese Association of Greater Kansas City ([[works/taiwaneseamericanhistory-org/ourjourneys296|296. 平原區台灣人秋令會的介紹 / 童海南 /06/2017]]); 林年松 ≠ 林水波, not merged.
