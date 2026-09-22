@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-20
+last_reviewed: 2026-09-22
 ---
 # Shuching Liao (廖郭淑卿)
 
@@ -49,3 +49,5 @@ last_reviewed: 2026-09-20
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+> Corpus re-scan 2026-09-22 (deepen-x slice 09210700-28): fresh grep of works/ and articles/ for 廖郭淑卿 / Shuching Liao — sole hit is her own record #478, already linked with facts absorbed. SKIP-deepen; nothing new absorbable.

@@ -6,7 +6,7 @@ tags:
   - Taiwanese-American
   - Taiwan-Center-group-member
 verification_status: published
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # Taiwanese Association of Northwest Los Angeles
 
@@ -43,3 +43,5 @@ TANLA (洛杉磯西北區台灣同鄉會) is one of the better-documented LA-are
 
 - [[organizations/taiwan-center||Taiwan Center]]
 - [[sources/taiwancenter-org||taiwancenter.org]]
+
+> Corpus re-scan 2026-09-22 (deepen-x slice 09210700-28): fresh grep for 北洛杉磯 / Northwest Los Angeles returns the same TANLA cluster (history-of-tanla, tanla, activities-of-tanla, newsletter-of-tanla) — all already linked. SKIP-deepen; nothing new absorbable.

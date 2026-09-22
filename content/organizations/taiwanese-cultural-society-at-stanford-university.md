@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # Taiwanese Cultural Society at Stanford University
 
@@ -29,3 +29,5 @@ The Taiwanese Cultural Society at Stanford University (TCS) is an undergraduate 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+Corpus re-check 2026-09-22 (deepen-x slice 09210700-26): fresh grep for "Taiwanese Cultural Society" returned only unrelated bodies (Chicago / Harvard / Westchester TCS); no new Stanford-specific corpus material — page absorbed as-is.

@@ -42,7 +42,10 @@ Corpus memoirs place 許清煌 at the center of 1970s–80s Southern California 
 
 - **南加州台灣人聯邦信用合作社（SCTFCU）**：1977-07-24 第一次籌備會（洛城台灣同鄉會會長任內召開）出席者之一，與劉丁榮、莊洸雄、謝清志、郭清江等十餘位同鄉一致同意成立信用合作社；合作社成立後出任**徵信會（Credit Committee）召集人（兼主席）**，謝清志兼秘書、王廷宜為委員（[[works/taiwaneseamericanhistory-org/ourjourneys244|244. 台灣人信用合作社的成立]]）。
 - **生活座談會**：1974 年以柑縣為中心的**南區生活座談會**創會會員之一（與李成奎、郭清江、周實、林勝井、蔡永基等）；後加入 1978-01 成立的**西區生活座談會**；1983-01 又為**南灣生活座談會**創會會員之一（與陳惠亭、黃森元、江昭儀等）（[[works/taiwaneseamericanhistory-org/ourjourneys212|212. 生活座談會的懷胎與成長]]）。
-- TAH 本人紀錄頁：[[works/taiwaneseamericanhistory-org/whos-julius-shu|429. Julius Shu 許清煌 / 2015/05]]。
+- **TAH 本人紀錄頁**：[[works/taiwaneseamericanhistory-org/whos-julius-shu|429. Julius Shu 許清煌 / 2015/05]]。
+- **生活座談會理事會籌劃**：理事會於 1993-09 正式成立，但memoir 追記許清煌與黃森元、陳慶霖、李成奎、周實等十餘年前即在會後參與策劃（[[works/taiwaneseamericanhistory-org/ourjourneys212|212. 生活座談會的懷胎與成長]]）。
+
+Corpus re-check 2026-09-22 (deepen-x slice 09210700-26): fresh grep re-confirmed ourjourneys244 / ourjourneys212 / whos-julius-shu as the only substantive corpus hits; facts above match the memoirs verbatim, no conflicts found.
 
 ## Family
 
