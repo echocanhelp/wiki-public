@@ -7,11 +7,11 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # Rev. Dave Alexander (亞大偉牧師)
 
-<!-- deepen-x 09210400-16: re-verified 2026-09-21 — fresh grep (works+articles) returns only videos107 + his own whos-who-2149 + index, all already linked in Role in the Community. SKIP — corpus exhausted; HOLD on 36-vs-42-year span stands. -->
+<!-- deepen-x 09210400-16 / 09220600-10: re-verified 2026-09-21 and 2026-09-22 — fresh grep (works+articles) returns only videos107 + his own whos-who-2149 + index, all already linked in Role in the Community. SKIP — corpus exhausted; HOLD on 36-vs-42-year span stands. -->
 
 ## Identity Snapshot
 - **English:** Rev. Dave Alexander
