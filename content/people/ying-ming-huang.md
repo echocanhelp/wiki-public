@@ -25,6 +25,8 @@ last_reviewed: 2026-09-22
 - As 台灣人獅子會會長 (president of the Taiwanese Lions Club) co-chaired a Christmas party for local children at the La Casa center, giving opening remarks alongside La Casa Foundation former board member and San Gabriel deputy mayor Kevin Sawkins; the club's long-running support of the center was noted. See [[articles/taiwanjustice-net/2024/20240421170931_root_028772c64d734071|台權會新聞網 record]].
 - TAH encyclopedia entry: [[works/taiwaneseamericanhistory-org/whoswho1384|1384. Ying-ming Huang 黃英明 / 2016/11]].
 
+> Re-verified 2026-09-22 (slice 09210900-5): fresh grep returned the three records already linked above (#1384, A1 Ohrmund award #67, 台權會新聞網 article) plus the works index — all absorbed; no additional corpus material.
+
 <!-- tah-tables:start -->
 ## Education
 - 中原大學 — B.S.土木工程
