@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # Dr. Izabel S. H. Chuang (莊捷筠博士)
 
@@ -47,3 +47,5 @@ _No filled family fields on the TAH profile._
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 <!-- deepen-x slice 09201503-17 (2026-09-21): SKIP re-verified — corpus re-grep (莊捷筠/Izabel) hits only own TAH #2233 record + works index; nothing absorbable. -->
+
+<!-- deepen-x slice 09211507-21 (2026-09-22): SKIP re-verified — corpus re-grep (莊捷筠/Izabel) hits only own TAH #2233 record + works index; nothing absorbable. -->

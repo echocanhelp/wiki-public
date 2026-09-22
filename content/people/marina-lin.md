@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # Marina Lin (林淨媺)
 
@@ -46,3 +46,5 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+<!-- deepen-x slice 09211507-21 (2026-09-22): re-verified — re-grep (Marina Lin/林淨媺) finds the ourjourneys301 memoir passage already absorbed above plus own TAH #1624/#394 records; nothing new absorbable. -->
