@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # Christina Yung-Chin Mollard (謝永芹)
 
@@ -47,3 +47,5 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+<!-- deepen-x slice 09211507-4 (2026-09-22): re-verified — corpus grep for 謝永芹/Mollard/Yung-Chin still limited to own TAH #26 (maiden Hsieh) + #1058 records + works index; nothing new absorbable. SKIP. -->

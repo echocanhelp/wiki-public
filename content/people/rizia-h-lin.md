@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # Rizia H. Lin (洪文鳳)
 
@@ -51,3 +51,5 @@ last_reviewed: 2026-09-21
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 <!-- deepen-x slice 09201503-6 (2026-09-21): SKIP re-verified — corpus grep for 洪文鳳/Rizia returns only her own TAH #317/#694 records plus index listings; no third-party corpus mentions. -->
+
+<!-- deepen-x slice 09211507-4 (2026-09-22): re-verified — corpus grep for 洪文鳳/Rizia still returns only her own TAH #317/#694 records + works index; no third-party memoir mentions. SKIP. -->
