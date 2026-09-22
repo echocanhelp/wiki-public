@@ -41,8 +41,8 @@ _No filled family fields on the TAH profile._
 - Entry #1826 in the TAH Foundation Who's Who / story corpus, published 2017-08-09: [[works/taiwaneseamericanhistory-org/whos-who-1826-fu-tong-liu|1826. Dr. Fu-Tong Liu 劉扶東博士]] (bibliographic record; full text stays in the vault).
 - Career arc documented in the tah-tables block above (NTU Chemistry 1966 → UChicago Ph.D. 1975 → Scripps → La Jolla Institute of Allergy and Immunology → UC Davis Dermatology chair → Academia Sinica Institute of Biomedicines director) is the community-record version; NIH Allergy and Immunity Research Program reviewer 1985-1989 is the only additional TAH accomplishment note.
 - No memoir or article corpus mentions beyond the Who's Who record itself — no community-activity facts to absorb beyond the bibliographic link.
-- Re-check deepen-x 2026-09-21: re-grep 劉扶東 / Fu-Tong Liu against works/ + articles/ still returns only the TAH #1826 record and the harvest index — both already cited above; no community-activity material beyond the bibliographic link.
-- HOLD: name collision — the corpus also lists [[works/taiwaneseamericanhistory-org/ota-251|ota-251. Dr. Fu-Tong Hsu 徐福棟博士]] (2019-02-15), a different person sharing the romanized given name Fu-Tong. Do not merge.
+- Re-check deepen-x 2026-09-22: re-grep 劉扶東 / Fu-Tong Liu against works/ + articles/ still returns only the TAH #1826 record and the harvest index; all other romanization hits are for 徐福棟 (Fu-Tong Hsu), including ourjourneys311-eng, ourjourneys169-eng, and photo-albums-activities-91 (memorial photo album 徐福棟生命的禮讚 2015/02). Both already cited above; no community-activity material beyond the bibliographic link.
+- HOLD: name collision — the corpus also lists [[works/taiwaneseamericanhistory-org/ota-251|ota-251. Dr. Fu-Tong Hsu 徐福棟博士]] (2019-02-15) and [[works/taiwaneseamericanhistory-org/whos-who-192-fu-tong-hsu|whos-who-192. Dr. Fu-Tong Hsu]], a different person sharing the romanized given name Fu-Tong. Do not merge.
 
 ## Sources
 - [TAH #1826 encyclopedia: 1826. Dr. Fu-Tong Liu 劉扶東博士](https://taiwaneseamericanhistory.org/whos-who-1826-fu-tong-liu/)
