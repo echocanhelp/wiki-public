@@ -7,7 +7,7 @@ tags:
 provisional: true
 verification_status: provisional
 needs_source: true
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # Brother Wang (GSTPC)
 
