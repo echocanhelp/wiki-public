@@ -49,7 +49,7 @@ last_reviewed: 2026-09-22
 - Served as the hired part-time manager of 南加信用合作社 (Southern California Credit Union). The all-volunteer staff had suffered 「彈性疲勞」 and the board hired a part-time manager to improve service, deposits, and membership; 周實's memoir records that 邱勝宗's joining 「給工作人員吃了一顆定心丸」 and praises his seriousness and effort ([[works/taiwaneseamericanhistory-org/ourjourneys244|周實《曇花一現的南加信用合作社》, TAH ourjourneys 244]]).
 - Identified as a 同鄉會負責人 (leader of a local Taiwanese association) — greeted alongside 郭榮桔、蔡命時、范政雄、簡彰輝、黃文雄、張家成、陳錦芳 at the welcome reception of a 台灣人年會 held at New York University (Robert Student Center), in a memoir by a Columbus, Ohio delegate ([[works/taiwaneseamericanhistory-org/ourjourneys283|TAH ourjourneys 283 年會回憶錄]]).
 - Long-running figure at 大洛杉磯台灣會館 events (see From the record: 2017 園藝講座, 2022 追思會 contact list). The 2017-09-24 EM酵素 lecture with 邱貞 is also captured under the 台灣會館 category snapshot [[articles/taiwanjustice-net/2017/20171109043505_category_taiwancenter_9708bb9925e20766|TJJ 台灣會館分類, 2017-11-09 快照]].
-- Corpus re-grep 2026-09-20 / 2026-09-21: hit set unchanged (ourjourneys244, ourjourneys283, whos-who-2246, TJJ 園藝/會館/追思會 records) — all linked above; no new memoir or club material to absorb.
+- Corpus re-grep 2026-09-20 / 2026-09-21 / 2026-09-22: hit set unchanged (ourjourneys244, ourjourneys283, whos-who-2246, TJJ 園藝/會館/追思會 records) — all linked above; no new memoir or club material to absorb.
 - His own TAH encyclopedia record is held in the corpus: 2246. Peter Chiu 邱勝宗, era 2020 ([[works/taiwaneseamericanhistory-org/whos-who-2246-peter-chiu|whos-who-2246]]) — its Subjects list cross-links 黃三榮, 陳銓仁, 陳夢蘭, 王廷宜 as co-mentioned figures.
 
 ## Related Pages
