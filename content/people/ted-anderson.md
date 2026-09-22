@@ -43,6 +43,7 @@ last_reviewed: 2026-09-22
 - President of 台灣之友會 Friends of Taiwan, profiled as 「A Very Strong Supporter to T.A. Community」 ([[works/taiwaneseamericanhistory-org/ff322|TAH #322, 2017-04-07]]); interviewed by 美洲台灣日報 as FoT president ([[works/taiwaneseamericanhistory-org/video57|TAH #57, 仗義為台灣專訪, 2014-03]]). Consistent with the memorial record of him chairing the club for over a decade ([[organizations/friends-of-taiwan|Friends of Taiwan]]).
 - 黃樹人 memoir on his half-life bond with the Taiwanese community, 「與台灣人的半生緣一世情」 ([[works/taiwaneseamericanhistory-org/mystories541|TAH #541, 2017-04]]).
 - TAH encyclopedia entries: [[works/taiwaneseamericanhistory-org/ota-271|TAH #271]] · [[works/taiwaneseamericanhistory-org/whos-ted-anderson|TAH #911, 2016-03]].
+- Corpus re-scan 2026-09-22 (slice 09210500-12): corpus hits (TAH #322, #271, #911, #57 美洲台灣日報 專訪, #541 黃樹人 memoir) already absorbed above; no further material, nothing new absorbable.
 
 ## Sources
 - [TAH #271 encyclopedia: 271. Ted Anderson 泰德安德森](https://taiwaneseamericanhistory.org/ota-271/)

@@ -39,6 +39,8 @@ _No filled family fields on the TAH profile._
 - TAH encyclopedia entry: [[works/taiwaneseamericanhistory-org/286-cheng-shen-fang-e8-8c-83-e6-8c-af-e8-81-b2-201502|286. Cheng-Shen Fang 范振聲 / 2015/02]]; he also authored [[works/taiwaneseamericanhistory-org/135-e5-85-a8-e7-be-8e-e5-8f-b0-e7-81-a3-e5-90-8c-e9-84-8b-e6-9c-83-e7-b0-a1-e4-b|135. 全美台灣同鄉會簡介]] (2015/05).
 - Speaker on 台灣環保問題 at the 台裔夏令會 (Southeast regional session, 第十三屆 1991, Spartanburg SC, hosted by 北卡同鄉會) — see [[works/taiwaneseamericanhistory-org/ourjourneys245|Our Journeys 245]]; the same 環保 lecture is recalled in the ten-year retrospective of the Southeast summer movement [[works/taiwaneseamericanhistory-org/our-journeys-379|Our Journeys 379]], which also records 李永熾's 戰後台灣的統治族群 talk alongside his.
 
+- Corpus re-scan 2026-09-22 (slice 09210500-12): all corpus hits (Our Journeys 76 founding-convention 會刊 role, #139 Houston circle, #245/#379 夏令會 環保 lectures, 全美台灣同鄉會簡介, TAH #286) already absorbed above; no further memoir material, nothing new absorbable.
+
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/cheng-shen-fang/)
 
