@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # Joyce Weng (黃娟)
 
@@ -37,6 +37,7 @@ last_reviewed: 2026-09-21
 - Invited speaker at the New York Capital District 傳統週 events (TAA-CDNY / 台美文化促進會): 「文學裏的歷史－談楊梅三部曲的創作」 ([[works/taiwaneseamericanhistory-org/ourjourneys311|311. 紐約首府區台灣同鄉會及台美文化促進會簡介]], 2017).
 - Her own writings held in the corpus as community record: [[works/taiwaneseamericanhistory-org/mystories31|31. 伴隨著一支筆 / 黃娟]], [[works/taiwaneseamericanhistory-org/90-e5-bf-83-e6-87-b7-e6-95-85-e9-84-89-2-e9-bb-83-e5-a8-9f-1994-05-e6-96-87-e5-a|心懷故鄉（2）／黃娟／1994／05／文學]], [[works/taiwaneseamericanhistory-org/91-e4-b8-96-e7-b4-80-e7-9a-84-e7-97-85-e4-ba-ba3-e9-bb-83-e5-a8-9f-1994-05-e6-96|世紀的病人（3）／黃娟／1994／05／文學]], [[works/taiwaneseamericanhistory-org/94-e5-a9-9a-e8-ae-8a-6-e9-bb-83-e5-a8-9f-1994-08-e6-96-87-e5-ad-b8|94. 婚變 (6)／黃娟／1994／08／文學]].
 - Corpus re-pass 2026-09-21 (deepen-x slice 09210400-3): fresh grep hits are all already-recorded items (her 文學 essays 心懷故鄉/世紀的病人/婚變, the 北美客協 president roster, and the Capital District 傳統週 lecture record — the latter now also held in English as [[works/taiwaneseamericanhistory-org/ourjourneys311-eng|311 (EN). Capital District TAA & Cultural Society]]). No new facts; the surname HOLD above stands.
+- Corpus re-grep 2026-09-22 (deepen-x slice 09212352-9): SKIP — hit set unchanged (own essays 心懷故鄉/世紀的病人/婚變/伴隨著一支筆, ourjourneys290/311/311-eng); nothing new to absorb; surname HOLD stands.
 
 ## Sources
 - [TAH #98 encyclopedia: 98. Joyce Weng 黃娟](https://taiwaneseamericanhistory.org/98-weng/)

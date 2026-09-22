@@ -49,6 +49,7 @@ last_reviewed: 2026-09-22
 - 2015-04 — TAH 收錄其個人紀錄「377. Chiu-Sen Wang 王秋森/2015/04」（[[works/taiwaneseamericanhistory-org/377-chiu-sen-wang|TAH #377]]）。
 - 1966 — 以 UCLA 為中心的台灣留學生每週輪流演講、讀書報告小組成員（與陳嶄新、李木通、黃根深、陳松貞等），此小組即 1971 年正式誕生的「生活座談會」的前身；他後來亦繼續參加南區（橙縣）生活座談會（[[works/taiwaneseamericanhistory-org/ourjourneys212|TAH #212]]）。
 - 1968 — 全美台灣獨立聯盟決議將總部自費城遷往紐約後，鼓勵盟員到聯合國所在地及華府附近就業定居；他與張燦鍙、羅福全、蔡同榮、賴文雄、鄭自才、許富淵、陳伸夫、洪哲勝、張文棋、王康陸等主力幹部在完成學業後陸續赴紐約總部報到（[[works/taiwaneseamericanhistory-org/ourjourneys234|TAH #234]]）。
+- Corpus re-grep 2026-09-22 (slice 09212352-3): hit set = ourjourneys81(-eng)、ourjourneys76(-eng)、ourjourneys212、ourjourneys234、publications1092、TAH #235 追思文、#377 個人紀錄 — 全部已吸收；本次補上 #81 英文版連結，其餘語料已飽和。
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/chiu-sen-wang/)

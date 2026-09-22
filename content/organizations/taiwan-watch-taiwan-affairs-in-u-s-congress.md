@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # Taiwan Watch – Taiwan Affairs in U. S. Congress (美國國會台灣觀測站)
 
@@ -25,6 +25,9 @@ Taiwan Watch is an organization based in Houston, Texas that monitors and tracks
 - Chieh-Ting Yeh (founder of Ketagalan Media, co-founder of Global Taiwan Institute, FAPA board Standing Committee member) is described as a director of US Taiwan Watch, "an international think tank focusing on US-Taiwan relations" — [[works/taiwaneseamerican-org/a-tale-of-two-islands-fire-ex-ignite-community|A Tale of Two Islands]].
 - HOLD: an article describes 陳方隅 as co-editor of "美國台灣觀測站" (US-Taiwan Watch) — same organization as 美國國會台灣觀測站 or a sibling g0v project is unverified; names kept distinct (the 2020/07 VOA-cited 蓬佩奧 commentary repeats the same 陳方隅 co-editor attribution — [[articles/taiwanjustice-net/2023/20230322165607_2020_07_24_蓬佩奧籲建新民主聯盟_專家稱若推此倡議台灣將_96ee9a6ae685a304|taiwanjustice-net]]). Two further VOA-sourced republications also cite "美國台灣觀測站網站共同編輯陳方隅" as an on-record expert on US-Taiwan policy — on the Biden administration's elevation of Taiwan in US discourse ([[articles/taiwanjustice-net/2021/20210621191241_2021_03_15_拜登政府正在提升台灣在美國所有地區討論的重要_d0321367e9d3cdbc|2021/03]]) and on the 戴維森 six-year invasion-timeline warning and Taiwan's defense-consciousness debate ([[articles/taiwanjustice-net/2021/20210619021630_2021_04_27_前美國安官員_台海正處極限危險時刻_台灣_5977449b47762037|2021/04]]). The repeated attribution confirms the watch site is a cited voice in the community press but does not resolve the name-identity conflict.
 - The organization's own TAH directory record is in the corpus: [[works/taiwaneseamericanhistory-org/taiwan-watch-taiwan-affairs-in-u-s-congress|Taiwan Watch – Taiwan Affairs in U. S. Congress 美國國會台灣觀測站]] (era 2018).
+
+## Re-grep log
+- Corpus re-grep 2026-09-22 (slice 09212352-6): verified-saturated — hits limited to #320, the org's own TAH directory work page, the Pew statement, A Tale of Two Islands, and the three VOA-sourced 台灣公義報 republications already cited above; no new attributable facts; the 陳方隅 美國台灣觀測站 HOLD stands.
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwan-watch-taiwan-affairs-in-u-s-congress/)
