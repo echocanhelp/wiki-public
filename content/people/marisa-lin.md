@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # Marisa Lin (陳麗雲)
 
@@ -40,6 +40,7 @@ last_reviewed: 2026-09-21
 - **Dance troupe reception** — Among the 同鄉會 representatives who greeted a Taiwan performance troupe at the Indianapolis hotel (with the author 李昭鋐, 何源泉, 林麗岷, 張仁香 and 吳良也) before the welcome dinner at 鄭美惠 and 高清海's home. Same record: [[works/taiwaneseamericanhistory-org/our-journeys-389|389. 印城台灣同鄉會紀要]].
 - **Palladium performance support** — For the同鄉會's Taiwan dance-and-music show at the Palladium (audience mostly American; total expense $10,965.33), 陳麗雲 helped prepare food and, together with 吳良也, 鄧美美, Raymond Habash, 林麗岷, 龔良美, 何源泉 and Enrique Barbosa, provided transportation for the troupe. Same record: [[works/taiwaneseamericanhistory-org/our-journeys-389|389. 印城台灣同鄉會紀要]].
 - **Who's Who record** — [[works/taiwaneseamericanhistory-org/798-marisa-lin-e9-99-b3-e9-ba-97-e9-9b-b2-201602|798. Marisa Lin 陳麗雲 / 2016/02]].
+- 2026-09-22 re-check: fresh greps for 陳麗雲 / Marisa Lin across corpus hit only her own TAH #798 record and [[works/taiwaneseamericanhistory-org/our-journeys-389|印城台灣同鄉會紀要]] — all facts above already absorbed; no new material.
 
 ## Sources
 - [TAH #798 encyclopedia: 798. Marisa Lin 陳麗雲/ 2016/02](https://taiwaneseamericanhistory.org/798-marisa-lin-%e9%99%b3%e9%ba%97%e9%9b%b2-201602/)

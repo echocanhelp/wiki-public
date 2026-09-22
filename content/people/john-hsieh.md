@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # John Hsieh (謝鎮寬)
 
@@ -32,7 +32,7 @@ From our own memoir corpus (TAH "Our Journeys" records), John Hsieh 謝鎮寬 wa
 
 HOLD: corpus places him both in Bay Area 聯合會 leadership (1990s) and as a Texas chapter 會長 (2020s); no source states relocation, so both stand unmerged.
 
-2026-09-21 re-check: corpus grep returns only Our Journeys 38/38(EN)/370, the #470 directory record, and the works index — all already linked; nothing new to absorb.
+2026-09-22 re-check: corpus grep returns Our Journeys 38/38(EN)/142/370, the #470 directory record, and the works index — all now linked.
 
 ## Family
 

@@ -41,6 +41,8 @@ last_reviewed: 2026-09-22
 - 1987 — one of the 19 members of the working committee of the 「Joint Committee of Taiwanese Americans for 1990 U.S. Census」 convened out of TACL, which lobbied the Census Bureau's minority advisory committee and Congress ([[works/taiwaneseamericanhistory-org/ourjourneys253|253. 1990年美國人口普查 — TACL的角色, 周實, 2016-09]]).
 - 2011 — listed as president of the TAA Minnesota chapter in the chapter's centennial history ([[works/taiwaneseamericanhistory-org/ourjourneys123-eng|123. Brief History of TAA – Minnesota, 曾啟明]]; HOLD: conflict with the TAH profile's 「Taiwanese American CPA Association — President」 role vs chapter-office in the MN history — not merged).
 
+_Corpus re-scan 2026-09-22: fresh grep works/articles returns the same hits (#66, #186/eng, #253, #123-eng, whoswho-2217); all absorbed above. #253 adds committee context: formed 1987-03-07 at 洛杉磯台灣基督長老教會 after 賴義雄 (then NTA president) briefed LA groups on FAPA's Census lobbying; 19-member working committee chaired by 賴義雄, executive committee 陳隆、胡維剛、吳瑞信, HQ at the TACL office. #123 (EN) lists him in the TAA–MN president roster for 2011 between Mike Sie-tung Liu (2010) and Jennfeng Yan (2012), consistent with the HOLD above._
+
 ## Sources
 - [TAH #2217 encyclopedia: 2217. Charles Chiang 江昭儀](https://taiwaneseamericanhistory.org/whos-who-2217-charles-chiang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/charles-chiang/)
