@@ -43,6 +43,7 @@ last_reviewed: 2026-09-21
 - 2020 人口普查倡議：TACL Campaign 創意總監，與 Campaign Director Christina Hu 一同向蔡英文總統展示 #CounTA 視覺與媒体套件（[[works/taiwaneseamerican-org/census-2020-fundraiser|Census 2020 Fundraiser]]）。
 - 任職 TA.org 期間並參與社区感恩專題撰稿：Grateful for Family & Friends #TaiwaneseThanksgiving（2017-11-26，見其作品清單 [[works/taiwaneseamericanhistory-org/whos-leona-chen|TAH #2075]]）。
 - 與 Joyce Chen 合撰 228 紀念資源專文，介紹 1947-02-28 事件的背景與學習資源（[[works/taiwaneseamerican-org/remembrance-resources-learning-about-228|Remembrance: Resources for Learning about 228]]）。
+- 2019 年起與 Ketagalan Media 共同創辦人 Chieh-Ting Yeh 合作，為台裔美國學生組織設計同儕教學課程，並共同發起 OFTaiwan Award 奨助學生成創活動（[[works/taiwaneseamerican-org/introducing-the-oftaiwan-award-new-funding-for-taiwanese-american-student-progra|Introducing the OFTaiwan Award]]）。
 - 本人訪談紀錄：[[works/taiwaneseamerican-org/interview-leona-chen|For the (Re)Cord: An Interview with Leona Chen, 2018-01-28]]；TAH 名人錄條目：[[works/taiwaneseamericanhistory-org/whos-leona-chen|2075. Leona Chen 陳文羿 / 03/2018]]。
 
 ## Sources

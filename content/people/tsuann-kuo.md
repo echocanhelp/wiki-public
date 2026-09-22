@@ -45,6 +45,7 @@ _No filled family fields on the TAH profile._
 - 2019-10-13 — 主講「台美人生」at the 大洛杉磯台灣會館 21st-anniversary rebuilding fund-raiser (announced 2019-10-01, with 民進黨副秘書長林飛帆 as surprise guest): [[articles/taiwanjustice-net/2020/20200628054328_category_taiwancenter_newsletter_page_3_6584a80df73858ef|台灣正義通訊]].
 2026-09-21 re-grep (deepen-x slice 09191400-8): corpus hits still confined to the already-linked records below — no new absorbable facts.
 - Second community record: [[works/taiwaneseamericanhistory-org/255-tsuann-kuo-e9-83-ad-e6-85-88-e5-ae-89201502|TAH #255]] (2015-02).
+- 2026-09-21 re-grep (deepen-x slice 09210317-7): fresh grep (works+articles) hits confined to the already-linked records above (TAH #164/#255, NATWA 2015, 228 episode, 正義通訊 newsletter) — no new absorbable facts, no conflicts to HOLD.
 
 ## Sources
 - [TAH #164 encyclopedia: 164. 郭慈安博士 Dr. Tsuann Kuo / 第一個老年學的 Ph.D. / 1991](https://taiwaneseamericanhistory.org/164-%e9%83%ad%e6%85%88%e5%ae%89%e5%8d%9a%e5%a3%ab-dr-tsuann-kuo-%e7%ac%ac%e4%b8%80%e5%80%8b%e8%80%81%e5%b9%b4%e5%ad%b8%e7%9a%84-ph-d-1991/)

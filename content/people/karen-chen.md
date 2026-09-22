@@ -36,6 +36,7 @@ Track of her coverage in the TAH community archive:
 - **2022-02** — at the Beijing Winter Olympics she performed 梁祝 (The Butterfly Lovers) and helped the U.S. team take silver in the team event; the community record highlights the Taiwanese-identity reading of the program ([[works/taiwaneseamericanhistory-org/my-stories-823|TAH #823]]).
 - 2026-09-21 re-grep (deepen-x slice 09191400-8): corpus hits still confined to the already-linked records — no new absorbable facts.
 - TAH's encyclopedia carries a consolidated entry for her in the community record ([[works/taiwaneseamericanhistory-org/whos-who-1988-karen-chen|TAH #1988]]); the entry number is an ID, not a year.
+- 2026-09-21 re-grep (deepen-x slice 09210317-7): fresh grep (works+articles) hits confined to the already-linked records (TAH #2/#240/#313/#1486/#1988, #823, #1204) — no new absorbable facts; existing HOLD above kept, no dates merged.
 - **HOLD: era "1999" in snapshot vs TAH #1486/#2 dated 2017/01 describing her as 17-year-old** — consistent (born 1999), kept as-is; no dates merged.
 
 ## Family
