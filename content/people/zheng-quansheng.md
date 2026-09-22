@@ -4,7 +4,7 @@ type: person
 tags:
   - 
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # Zheng Quansheng (鄭泉聲)
 
@@ -28,6 +28,7 @@ Absorbed 2026-09-19 from the [[sources/irvine-taiwanese-presbyterian-church||ITP
 
 - HOLD: conflict — this page's snapshot lists Geography: United States, but the ITPC history document states 鄭泉聲牧師 returned to Japan after his founding-stage pastorate. Never auto-merged.
 - Source note: the ITPC document (as cited on [[people/guo-yingyan||Guo Yingyan]]) is the primary corpus record; no further biographical details (dates, ordination place) are stated there — none invented.
+- Corpus re-check 2026-09-22 (deepen-x slice 09220500-32): fresh grep of works/ + articles/ for 鄭泉聲 / Quansheng returns zero hits; the ITPC history document remains the only corpus record — SKIP, nothing new absorbable.
 
 
 ## Network

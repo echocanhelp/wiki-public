@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # I. Y. Lin (林一洋醫師)
 
@@ -43,6 +43,7 @@ last_reviewed: 2026-09-21
 - Died in October 1996 (per the memoir: at his memorial in an English/Mandarin/Cantonese church, 台灣人醫師協會紐約分會會長陳燦世 asked 李汝城 to deliver the NAPAM eulogy on the spot; 李汝城 insisted on delivering it in 林一洋's mother tongue 福佬話 and translated it himself into English for the congregation. The eulogy was published in 太平洋時報 1996-11-21) — consistent with the Era field 1942-1996.
 - Honored by a memorial lectureship named after him: [[works/taiwaneseamericanhistory-org/i-yang-lin-m-d-memorial-lectureship|54. I-YANG LIN, M.D. MEMORIAL LECTURESHIP 林一洋醫師紀念演講獎]] (2015), with a later award record [[works/taiwaneseamericanhistory-org/69-e6-9e-97-e4-b8-80-e6-b4-8b-e9-86-ab-e5-b8-ab-e8-a8-98-e5-bf-b5-e6-bc-94-e8-ac|69. 林一洋醫師記念演講獎/郭正昭教授/2018]].
 - His TAH Who's Who encyclopedia entry is held in the corpus as [[works/taiwaneseamericanhistory-org/865-i-y-lin-e6-9e-97-e4-b8-80-e6-b4-8b-201603|865. I. Y. Lin 林一洋 / 2016/03]].
+- Corpus re-check 2026-09-22 (deepen-x slice 09220500-32): fresh grep of works/ + articles/ returns only the records already linked above (李汝城 memoir ourjourneys201, the 2015 lectureship record, the 2018 award record, encyclopedia 865) — verified saturated; SKIP, nothing new absorbable.
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/i-y-lin/)
