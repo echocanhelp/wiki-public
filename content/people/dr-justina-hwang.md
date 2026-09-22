@@ -38,6 +38,8 @@ The TAH story corpus carries her Who's Who entry 「2042. Dr. Justina Hwang 黃�
 ## Worklog
 - 2026-09-21 deepen-x slice 09200400-12: SKIP — fresh grep: hits limited to her own bibliographic record #2042 (already wikilinked) and the works index; no memoir or article names 黃貞琪 beyond that record; nothing absorbable.
 
+- 2026-09-22 deepen-x slice 09220600-25: SKIP — re-verified: fresh grep (黃貞琪 / Justina Hwang) again returns only her own record #2042 and the works index; still no memoir or article material beyond it.
+
 ## Family
 
 - **Father:** Tony Hwang
