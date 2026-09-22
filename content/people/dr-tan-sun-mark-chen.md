@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # Dr. Tan-Sun Mark Chen (陳唐山博士)
 
@@ -37,7 +37,7 @@ Dr. Tan-Sun (Mark) Chen 陳唐山 – History of Taiwanese American (T.A. Archiv
 <!-- tah-tables:end -->
 
 ## Role in the Community（海外台灣民主運動紀錄）
-- **全美台灣同鄉會（NATCA）第五屆會長**，会长任期 1979-01-01 至 1980-12-30（[[works/taiwaneseamericanhistory-org/ourjourneys8-eng|Our Journeys 8（EN）]] 历届會長名錄）。1979 年美麗島事件爆發時正值其在任，同鄉會在其領導下積極投入救援工作 — [[works/taiwaneseamericanhistory-org/ourjourneys-138|Our Journeys 138（全美會成立與發展）]]。
+- **全美台灣同鄉會（NATCA）第五屆會長**，会长任期 1979-01-01 至 1980-12-30（[[works/taiwaneseamericanhistory-org/ourjourneys8-eng|Our Journeys 8（EN）]] 历届會長名錄；名錄另見 [[works/taiwaneseamericanhistory-org/ourjourneys76-eng|Our Journeys 76（EN）]]，其載第五屆 Tan-Sun Mark Chen：1979-01-01 至 1980-12-30，第六屆林明哲 1980-01-01 起 — 兩屆交接口僅一日重疊，照錄未調和）. 1979 年美麗島事件爆發時正值其在任，同鄉會在其領導下積極投入救援工作 — [[works/taiwaneseamericanhistory-org/ourjourneys-138|Our Journeys 138（全美會成立與發展）]]。
 - **世台會（世界台灣同鄉會聯合會）會長**：1982 年世台會年會由其決定在休士頓舉行（Sam Houston State University，約 300 人參加）— [[works/taiwaneseamericanhistory-org/ourjourneys318|Our Journeys 318（美南台美人運動回憶）]]。
 - **國會遊說**：與 Cheng Long Tsai、Chen Su-jen 一同在國會作證，證詞列入國會永久紀錄；兩次國會聽證累積的遊說信心直接催生 FAPA（台灣人公共事務會）— [[works/taiwaneseamericanhistory-org/ourjourneys8-eng|Our Journeys 8（EN）]]。曾出席 15 人發起討論（2 月 13 日舉行，與會者含 Charles Ting、Kenjohn Wang、Philip Chen、Tu Chen 等；會中先討論設廣播台向島內宣傳，多數意見認為島內反國民黨刊物已多、且國民黨必將干擾而搁置，轉而討論成立專責外交事務組織，即 FAPA 前身），本人列席 — [[works/taiwaneseamericanhistory-org/ourjourneys65-eng|Our Journeys 65（EN）]]。
 - **社區媒體**：任全美會、世台會會長期間主動向《鄉訊》提供訊息，被該刊定期報導（主編：「差不多一個星期就要提到他一次」）；FAPA 成立後報導重心轉向蔡同榮 — [[works/taiwaneseamericanhistory-org/ourjourneys49|Our Journeys 49（鄉訊編輯回憶）]]。

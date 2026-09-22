@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # Edward Chen (陳以德博士)
 
@@ -35,7 +35,7 @@ Corpus (memoirs and TAH encyclopedia records) documents 陳以德 as a central o
 
 - After graduating from National Taiwan University he went to the US to study International Relations at the University of Pennsylvania (Graduate School), rooming in Philadelphia with John Lin; their housemate in the same circle was Dr. Tom Yang ([[works/taiwaneseamericanhistory-org/ourjourneys85-eng|Our Journeys 85]]).
 - Founding member of 3F (United Formosans in America for Independence) together with Dr. Tom Yang, John Lin, Echo Lin, and Tsu-Yi Jay Loo; four of the five were National Tainan First Senior High School graduates ([[works/taiwaneseamericanhistory-org/ourjourneys85-eng|Our Journeys 85 (EN)]]).
-- First president of United Formosans in America for Independence ([[works/taiwaneseamericanhistory-org/203-e9-99-b3-e4-bb-a5-e5-be-b7-the-first-president-of-united-formosans-in-americ|TAH #203, Jun-66 profile]]).
+- First president of United Formosans in America for Independence ([[works/taiwaneseamericanhistory-org/203-e9-99-b3-e4-bb-a5-e5-be-b7-the-first-president-of-united-formosans-in-americ|TAH #203, Jun-66 profile]]); the five founders themselves are recorded in the corpus as 「198. 林榮勳、林錫湖、陳以德、楊東傑和盧主義 / The members of Formosans' Free Formosa (3F)」, dated 1956-01-01 ([[works/taiwaneseamericanhistory-org/198-e6-9e-97-e6-a6-ae-e5-8b-b3-e3-80-81-e6-9e-97-e9-8c-ab-e6-b9-96-e3-80-81-e9-9|TAH #198]]; bibliographic record only).
 - Credited with launching the first historic demonstration by North Americans Taiwanese against the Taiwan government in front of the UN headquarters in New York ([[works/taiwaneseamericanhistory-org/ff278|TAH #278, record dated 1961-08-03]]).
 - 1965-10-29~30: attended the overseas independence congress as 美國「台灣獨立聯盟」主席. He co-chaired the session on forming a new Taiwanese political organization (the other theme, internationalizing the Taiwan question, was chaired by 黃義明). His bodyguard 柯文程 was later found to be an undercover KMT agent ([[works/taiwaneseamericanhistory-org/ourjourneys58|Our Journeys 58]], [[works/taiwaneseamericanhistory-org/ourjourneys81|Our Journeys 81]]).
 - 1983: invited speaker (with 周清玉, 許榮淑, 張旭成) at the Midwest Taiwanese Summer Conference at Oberlin College, hosted by the 克城 community — an unusually large, successful gathering ([[works/taiwaneseamericanhistory-org/ourjourneys74|Our Journeys 74]]).
