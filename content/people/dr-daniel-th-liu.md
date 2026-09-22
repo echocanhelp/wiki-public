@@ -11,6 +11,8 @@ last_reviewed: 2026-09-21
 ---
 # Dr. Daniel TH Liu (劉鼎秀博士)
 
+<!-- deepen-x 09210400-16: re-verified 2026-09-21 — fresh grep (works+articles) returns only the 5 already-absorbed works (mystories22, #252 自傳, #142 百科, ourjourneys53, index). All corpus facts already in Role in the Community. SKIP — nothing new absorbable. -->
+
 ## Identity Snapshot
 - **English:** Dr. Daniel TH Liu
 - **Chinese:** 劉鼎秀博士

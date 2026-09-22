@@ -9,6 +9,8 @@ last_reviewed: 2026-09-21
 ---
 # Taiwanese Student Association at UC Santa Barbara
 
+<!-- deepen-x 09210400-16: re-verified 2026-09-21 — fresh grep returns only the two already-linked sponsor attestations (a-chat-with-documentary-filmmaker-anita-chang, night-market-event-at-uc-santa-barbara) + index. SKIP — corpus exhausted for this org. -->
+
 ## Identity Snapshot
 - **English:** Taiwanese Student Association at UC Santa Barbara
 - **Chinese:** —

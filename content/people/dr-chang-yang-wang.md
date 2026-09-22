@@ -11,6 +11,8 @@ last_reviewed: 2026-09-21
 ---
 # Dr. Chang-Yang Wang (王昌洋醫師)
 
+<!-- deepen-x 09210400-16: re-verified 2026-09-21 — fresh greps (works+articles, ZH+EN) still return only his own TAH record whos-who-1967 + works/index; no community/corpus facts to absorb. SKIP. -->
+
 <!-- deepen-x 09170700-18: SKIP — only corpus hit is his own TAH press-kit record whos-who-1967-chang-yang-wang (bibliographic stub, no community/corpus facts to absorb). No memoir/article mentions found in works+articles. -->
 <!-- deepen-x 09180500-21: re-verified 2026-09-19 — corpus hits remain limited to his own TAH record + works/index listing; no community/corpus facts to absorb. Corpus work page now wikilinked below. -->
 <!-- deepen-x 09191400-18: re-verified 2026-09-21 — fresh corpus greps (works+articles) still return only his own TAH record whos-who-1967 + works/index; no community/corpus facts to absorb. SKIP. -->
