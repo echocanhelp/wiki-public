@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # Prof. H. C. Lee (李弘祺教授)
 
@@ -37,6 +37,7 @@ Professor of History and Head of the Dept. of Asian Studies
 - TAH 保存其個人檔案收藏：「101. Collection of the Prof. H. C. Lee 李弘祺教授的收藏」（[[works/taiwaneseamericanhistory-org/private-collections-101-h-c-lee|101. 李弘祺教授的收藏]]）。
 - 本人 TAH 百科條目：[[works/taiwaneseamericanhistory-org/whos-who-889-h-c-lee|889. Prof. H. C. Lee 李弘祺教授]]。
 - 注意：TAH #1672「Rev. Bill H. C. Lee 李信彰牧師」為同名縮寫不同人，勿合併。
+- 2026-09-22 corpus re-check (deepen-x slice 32): fresh grep of works/ + articles/ returns only the already-linked files (own TAH entry #889, own collection #101, ourjourneys2, plus the disambiguated #1672 Bill H. C. Lee entry and works/index) — nothing new absorbable.
 
 ## Family
 

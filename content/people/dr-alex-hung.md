@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # Dr. Alex Hung (洪克璿博士)
 
@@ -35,6 +35,7 @@ Head of Production Department
 - Recorded in the TAH Foundation Who's Who archive: [[works/taiwaneseamericanhistory-org/whos-who-2247-alex-hung|2247. Dr. Alex Hung 洪克璿博士]] (published 2020-03-20, band B).
 - Signed the Taiwanese American community statement collected by the Pew Research Center: [[works/taiwaneseamerican-org/pew-research-center-taiwanese-american-statement|Pew Research Center — Taiwanese American statement]] as "Chapter President, FAPA CA-SD" — the only corpus record of his FAPA chapter leadership role.
 - TAH profile also lists him as Director of the San Diego Taiwan American Foundation (see [[organizations/taiwanese-american-foundation-of-san-diego]]); no separate corpus corroboration found.
+- 2026-09-22 corpus re-check (deepen-x slice 32): fresh grep of works/ + articles/ returns only the already-linked files (own TAH entry #2247, Pew statement, works/index) — nothing new absorbable.
 
 ## Family
 
