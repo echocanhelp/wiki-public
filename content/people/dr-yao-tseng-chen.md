@@ -43,7 +43,7 @@ _No filled family fields on the TAH profile._
 ## Role in the Community
 
 - Corpus presence is his own TAH Who's Who record: [[works/taiwaneseamericanhistory-org/whos-who-2005-yao-tseng-chen|TAH Who's Who #2005 — Dr. Yao-Tseng Chen 陳耀楨醫師]], published 2018-02-01, held as community historical record (value band B).
-- No other memoir/article mentions in the corpus as of 2026-09-19 re-grep; nothing merged beyond the existing TAH profile fields.
+- No other memoir/article mentions in the corpus; 2026-09-21 re-grep confirms his own TAH record is the only corpus mention; nothing merged beyond the existing TAH profile fields.
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
