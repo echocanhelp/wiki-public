@@ -39,6 +39,8 @@ _No filled family fields on the TAH profile._
 
 > Deepen pass 2026-09-21 (slice 09200600-28): SKIP — sole corpus hit remains her own TAH Who's Who record ([[works/taiwaneseamericanhistory-org/whos1290-chia-chun-jessica-hu|TAH #1290]]), already cited; no community material.
 
+> Deepen pass 2026-09-22 (slice 09210831-30): SKIP — fresh grep (胡佳君/Jessica Hu) still returns only her own TAH Who's Who record ([[works/taiwaneseamericanhistory-org/whos1290-chia-chun-jessica-hu|TAH #1290]]) and the works index; no memoir or community material to absorb.
+
 ## Sources
 - [TAH #1290 encyclopedia: 1290. Chia Chun Jessica Hu 胡佳君 / 2016/09](https://taiwaneseamericanhistory.org/whos1290-chia-chun-jessica-hu/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/chia-chun-jessica-hu/)

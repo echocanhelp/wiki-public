@@ -37,6 +37,8 @@ _No filled family fields on the TAH profile._
 - TAHS TAH Who's Who corpus record: [[works/taiwaneseamericanhistory-org/whos-who-1639-goo-shun-wang|1639. Goo-Shun Wang 王谷神 (TAH Who's Who, 2017/05)]]. Corpus scan 2026-09-20: this is the only vault record naming this subject and it is band-B bibliographic (full text stays in the source); no memoir or community-organizing facts in the vault to absorb.
 - Corpus re-scan 2026-09-21 (deepen-x slice 20): only match is the works-index digest line for the same record (neighbouring index lines are unrelated entries) — no new material.
 
+> Deepen pass 2026-09-22 (slice 09210831-30): SKIP — fresh grep (王谷神/Goo-Shun Wang) still matches only [[works/taiwaneseamericanhistory-org/whos-who-1639-goo-shun-wang|TAH #1639]] and the works index; no community material.
+
 ## Sources
 - [TAH #1639 encyclopedia: 1639. Goo-Shun Wang 王谷神](https://taiwaneseamericanhistory.org/whos-who-1639-goo-shun-wang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/goo-shun-wang/)

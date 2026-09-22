@@ -30,6 +30,8 @@ H. L. Hung (洪榮隆) is listed in the TAH Foundation Who’s Who Taiwanese Ame
 
 _No filled family fields on the TAH profile._
 
+> Deepen pass 2026-09-22 (slice 09210831-30): idempotent re-verify — corpus hits remain the FAHR leadership roster in [[works/taiwaneseamericanhistory-org/ourjourneys75|75. 台灣人權協會的開始與現況]] (+ EN record) and his own [[works/taiwaneseamericanhistory-org/whoswho1239|TAH #1239]] profile, all already absorbed above.
+
 ## Sources
 - [TAH #1239 encyclopedia: 1239.  H. L. Hung 洪榮隆 / 2016/08](https://taiwaneseamericanhistory.org/whoswho1239/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/h-l-hung/)
