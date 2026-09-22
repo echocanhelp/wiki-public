@@ -26,7 +26,7 @@ Source from 美洲台灣日報http://taiwandaily.net/gp2.aspx?_p=kSF1c9zU9HSCNp9
 - Hawaii University — B.S.
 <!-- tah-tables:end -->
 
-- deepen-x recheck 2026-09-21 (slice-09191200-22): fresh grep of content/works + content/articles for both name forms matched only this person's own TAH bibliographic work record and the works index — no memoir/community text to absorb. SKIP-with-reason; existing corpus links verified resolving.
+- deepen-x recheck 2026-09-21 (slice-09210400-24): fresh grep of content/works + content/articles for 郭瑞筠 / Julie Kuo matched only her own TAH work records ([[works/taiwaneseamericanhistory-org/ff317|TAH #317]], [[works/taiwaneseamericanhistory-org/whoswho1524|TAH #1524]]) and the works index — no memoir/community text to absorb. SKIP-with-reason.
 
 ## Family
 
