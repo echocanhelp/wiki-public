@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # Jacqueline Whang-Peng (彭汪嘉康)
 
@@ -52,3 +52,4 @@ _No filled family fields on the TAH profile._
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 > Saturate-note (deepen-x slice 09201500-14, 2026-09-21): corpus re-grep hit set = ff316 + arthur-s-flemming-award-1971 + whoswho1522 + 台灣演義 article, all linked above; no new absorbable corpus facts.
+> Corpus check (deepen-x slice 09211400-29, 2026-09-22): fresh re-grep hit set identical (ff316, arthur-s-flemming-award-1971, whoswho1522, 台灣演義 article), all linked above. SKIP: saturated.

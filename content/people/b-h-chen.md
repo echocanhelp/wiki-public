@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # B. H. Chen (陳炳煌)
 
@@ -58,3 +58,4 @@ last_reviewed: 2026-09-21
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 > Corpus check (deepen-x slice 09190700-5, 2026-09-20): fresh re-grep of works/ + articles/ hit set identical to the records already linked above (my-stories-690, #1, #1292); no new unabsorbed corpus facts.
+> Corpus check (deepen-x slice 09211400-29, 2026-09-22): fresh re-grep hit set identical (whoswho1292, b-h-chen, my-stories-690); no new unabsorbed corpus facts. SKIP: saturated.
