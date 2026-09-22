@@ -43,6 +43,7 @@ Wellington (Welly) Yang 楊呈偉 – History of Taiwanese American (T.A. Archiv
 - 人物檔案：[[works/taiwaneseamericanhistory-org/whos-who-112-wellington-yang|TAH Who's Who #112]]、[[works/taiwaneseamericanhistory-org/ota-238|TAH #238]]。
 - 雙親楊次雄、楊黃美幸見本頁 Family（台灣醫療/文藝界人物，社群脈絡）。
 - 複核（deepen-x 2026-09-21）：corpus re-grep（楊呈偉 / Welly Yang，works+articles）僅見 #63/#24/#537/#112/#238、index 與 TJJ 兩篇報導，全數已 wikilink — 無新增社群材料。
+- 複核（deepen-x 2026-09-22）：corpus re-grep 命中集合不變（#63/#24/#537/#112/#238、index、TJJ 兩篇報導），全數已吸收 — 無新增社群材料。
 
 ## Sources
 - [TAH #238 encyclopedia: 238. Wellington “Welly” Yang 楊呈偉](https://taiwaneseamericanhistory.org/ota-238/)

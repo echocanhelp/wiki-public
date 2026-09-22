@@ -53,3 +53,4 @@ _No filled family fields on the TAH profile._
 - Re-check (deepen-x 2026-09-19): re-grep again returns only TAH #2064 + harvest index — SKIP confirmed.
 - Re-check (deepen-x 2026-09-20): re-grep（楊志忠 / Chih-Chung Yang）again returns only his own TAH #2064 record + harvest index — SKIP confirmed, nothing absorbable.
 - Re-check (deepen-x 2026-09-21): re-grep（楊志忠 / Chih-Chung Yang）again returns only his own TAH #2064 record + harvest index — SKIP confirmed, nothing absorbable.
+- Re-check (deepen-x 2026-09-22): re-grep（楊志忠 / Chih-Chung Yang）again returns only TAH #2064 + harvest index — SKIP confirmed, nothing absorbable.
