@@ -49,6 +49,8 @@ Jensen Huang founded NVIDIA in 1993 and has served since its inception as presid
 
 ## From the record
 
+- Re-verify 2026-09-22 (TJJ-A09220700-9): subject-link check against slice article 00354cf6ba9cf607（台美人台加人分類頁 page 358）—「黃仁勳加州理工畢典致詞」條目確認見於正文，連結為真（該文 Subjects 的 .md 後綴連結已修正為慣例格式）；上方日期事實已引該快照，無新材料。
+
 - 2024-06-15 — 於加州理工學院（Caltech）畢業典禮致詞，談輝達多次受挫、「痛苦和磨難淬鍊超能力」，報導（含影音）刊於台灣公義報「台美人台加人」分類（[[articles/taiwanjustice-net/2024/20240619181806_root_00354cf6ba9cf607|TJJ 台美人台加人存檔頁358, 2024-06-19 快照]]）。
 - 2023-07-09 — 民視《台灣演義》以「AI教父 黃仁勳」為題專集介紹其生平與輝達（NVIDIA）事業，該集收錄於台灣公義報「台灣演義」分類存檔頁（[[articles/taiwanjustice-net/2025/20250514014154_category_taiwan_history_page_5_e041055e6555c89e|TJJ 台灣演義存檔頁5, 2025-05-14 存檔]]）。
 - 2021-04-07 — 紐約台灣會館理事長交接典禮報導介紹新任理事長蘇春槐的表弟為輝達（NVIDIA）執行長黃仁勳（[[articles/taiwanjustice-net/2021/20210415111016_2021_04_07_紐約台灣會館-蘇春槐接理事長盼永續經營_483521594640641a|TJJ/CNA, 2021-04-07]]）。

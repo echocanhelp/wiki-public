@@ -49,6 +49,7 @@ Chao-Huei (Jeffrey) Wang 王肇輝 – History of Taiwanese American (T.A. Archi
 - Encyclopedia record: [[works/taiwaneseamericanhistory-org/whoswho965|965. Chao-Huei (Jeffrey) Wang 王肇輝 / 2016-05]]（published 2016-05-01）. No other corpus mention beyond this record and the works index — re-grepped 2026-09-16; re-run slices 09170130-18 and 09170500-16 on 2026-09-17 (hit set identical: #965 + index; the memoir files 221/431 matched under 北濱會/念肇輝 and are already cited above). Re-run again slice-09180131-18 on 2026-09-18 (hit set identical — SKIP, 無新材料). Re-run slice 09190130-5 on 2026-09-20 (hit set identical — SKIP, 無新材料). Note: a "Jeffrey" grep also hits [[works/taiwaneseamericanhistory-org/whoswho1321|1321. Chien-Feng (Jeffrey) Wang 王劍峯 / 2016-10]] — a different person, do not merge.
 - 複核（deepen-x slice-09201400-15, 2026-09-21）：re-grep 王肇輝 / Chao-Huei / whoswho965（works + articles）hit set identical — 僅 #965 書目記錄與 harvest index（北濱會 221／念肇輝 431 已引於上）。SKIP, verified-saturated.
 - 複核（deepen-x slice-09211400-7, 2026-09-22）：re-grep 王肇輝／Jeffrey Wang／whoswho965（works+articles）hit set identical，無新材料。SKIP, verified-saturated.
+- 複核（deepen-x slice-09220800-14, 2026-09-22）：fresh re-grep hit set identical（#965＋index only；北濱會 221／念肇輝 431 已引於上），無新材料。SKIP, verified-saturated.
 
 ## Sources
 - [TAH #965 encyclopedia: 965.  Chao-Huei (Jeffrey) Wang 王肇輝 / 2016/05](https://taiwaneseamericanhistory.org/whoswho965/)

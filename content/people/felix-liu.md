@@ -45,7 +45,7 @@ The corpus record is consistent with the TAH Who's Who entry ([[works/taiwanesea
 
 - English-ministry lineage within the same church (English account, Our Journeys #257): English-speaking ministry started **1978** for the second generation; the English congregation was formally formed **1981**; in **1996** it adopted the name **"Harvest Los Angeles — a ministry of EFC"** to reach beyond Taiwanese-Americans; first Asian-American EFC church Harvest San Gabriel Valley planted 1997.
 
-Corpus re-grep 2026-09-20 / 2026-09-21 / 2026-09-22 (slice 09181500-17, 09201400-18, 09211400-4; 劉富理 / Felix Liu): hits are exactly the already-cited records (Our Journeys #257 church history, Who's Who #214, feature #268, harvest index); the English-ministry 1978/1981/1996 lineage from #257 is newly absorbed above.
+Corpus re-grep 2026-09-20 / 2026-09-21 / 2026-09-22 (slice 09181500-17, 09201400-18, 09211400-4, 09220800-14; 劉富理 / Felix Liu): hits are exactly the already-cited records (Our Journeys #257 church history, Who's Who #214, feature #268, harvest index); the English-ministry 1978/1981/1996 lineage from #257 is newly absorbed above.
 ## Family
 
 - **Wife:** 王仁美
