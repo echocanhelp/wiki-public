@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # Gene-Jack Wang (王俊傑)
 
@@ -52,3 +52,4 @@ _No filled family fields on the TAH profile._
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - Re-grep 2026-09-21 (slice 09201500-20): corpus hits re-confirmed = his own TAH #581 record + ourjourneys305 only (earlier re-grep slice 09190400-10); both absorbed above; no new material, no conflicts.
+- Re-grep 2026-09-22 (slice 09211500-28): corpus hits re-confirmed = own TAH #581 record + ourjourneys305 only; both absorbed above. Verified saturated. SKIP.
