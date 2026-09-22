@@ -27,7 +27,7 @@ A [[organizations/presbyterian-church-in-taiwan||PCT]] congregation in **七星�
 
 ## Corpus Scan Note
 
-SKIP-with-reason (deepen-x 2026-09-17, re-verified 2026-09-18 and 2026-09-19): grep for 中崙教會/中仑教会/Chunglun across `content/works` + `content/articles` returned zero hits — no memoir or movement material in our corpus to absorb; page retained as-is with existing web-sourced facts.
+SKIP-with-reason (deepen-x 2026-09-17, re-verified 2026-09-18, 2026-09-19 and 2026-09-21): grep for 中崙教會/中仑教会/Chunglun across `content/works` + `content/articles` returned zero hits — no memoir or movement material in our corpus to absorb; page retained as-is with existing web-sourced facts. Re-grep 2026-09-21 matched only 中崙慈賢宮 (a Songshan temple in a 2024 Taiwan-Justice article) — different institution, not this church.
 
 ## Polity
 PCT / 七星中會. Taiwan congregation, not U.S. TPC.
