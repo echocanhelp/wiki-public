@@ -47,8 +47,13 @@ Staff Psychiatrist, Director
 - Bibliographic record: [[works/taiwaneseamericanhistory-org/35-0|TAH #35 — Ih Foo Lin 林毅夫 (2014-10-04)]].
 - Appears in a photograph in the community photo-remembrance [[works/taiwaneseamericanhistory-org/ourjourneys33-eng|Our Journeys #33 (ENG)]] (captioned "Dr. Geh-fu LIN and his wife") among early-TAF-era Cleveland Taiwanese American community figures (Dr. Sidney Chang, Dr. Tien C. Cheng 鄭天助, May Cheng 鄭美津) — corroborating his presence in the same Midwest movement circle that founded the Cleveland Taiwanese Medical Association and the North American Taiwanese Medical Association.
 
+- **2023-06-17** — Invited speaker at the 第92回世界台灣文化論壇 (online forum), presenting 台灣人受虐性格的心理分析 — his book brought into the Taiwanese-language literary community's forum series; 與談人 陳雷 (家庭醫生、台文作家). Event listing archived at ([[articles/taiwanjustice-net/2025/20250425131242_第92回世界台灣文化論壇_台語文佮建國_d37ece7f6554d47a|TJJ, 2025-04-25 存檔]]).
+- **2023-03-09** — TJJ carried video coverage (焦點影音) of his 世界台灣文化論壇 lecture 台灣人受虐性格的心理分析, still listed on the site's focus-video index ([[articles/taiwanjustice-net/2024/20240620185313_root_6d974e3762f4d558|TJJ 首頁存檔, 2024-06-20]]).
+- **2020-03-25** — Authored 今年金像獎電影「寄生上流」(PARASITE) 觀後感, carried in TJJ's 藝文/literature index — the psychiatrist also active as a community writer on culture ([[articles/taiwanjustice-net/2020/20200623121739_category_literature_page_3_a3b28ab517f4fafc|TJJ 藝文分類頁, 2020-06-23 存檔]]).
+
 - 複核（deepen-x slice-09201400-10, 2026-09-21）：re-grep 林毅夫 / Ih Foo Lin（content/works + content/articles）hit set identical to the records already absorbed above (ourjourneys74 ±eng, our-journeys-378, #203, #307, #35, ourjourneys33-eng 照片說明) — SKIP, 無新材料。
 - 複核（slice deepen-x-slice-09211300-11, 2026-09-22）：re-grep hit set unchanged — saturated, SKIP.
+- 複核（slice deepen-x-slice-09220800-9, 2026-09-22）：works hit set identical；articles/ 新增 TJJ hit 3 筆已吸收於上（2023 論壇主講、2023 影音報導、2020 寄生上流觀後感）。
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/ih-foo-lin/)

@@ -56,3 +56,4 @@ Degree Program (2013–). Profiled in TAH Who's Who encyclopedia #1840
 - 複核（deepen-x slice-09190130-7, 2026-09-20）：re-grep 鄭淑珍 / Soo-Chen Cheng 僅見 TAH #1840 及 works index — SKIP，無回憶錄/社運語料可吸收。
 - 複核（deepen-x slice-09201400-17, 2026-09-21）：re-grep 再次僅見 TAH #1840 及 works index — SKIP，無新增語料。
 - 複核（deepen-x slice-09211400-8, 2026-09-22）：re-grep 鄭淑珍 / Soo-Chen Cheng 僅見 TAH #1840 及 works index 目次 — SKIP，無回憶錄/社運語料可吸收。
+- 複核（deepen-x slice-09220800-17, 2026-09-22）：re-grep 鄭淑珍 / Soo-Chen Cheng / Soo Chen Cheng（works + articles）僅見 TAH #1840 及 works index 目次 — SKIP，無新增語料。
