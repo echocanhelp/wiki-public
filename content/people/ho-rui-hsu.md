@@ -40,6 +40,7 @@ last_reviewed: 2026-09-22
 - UCLA 台灣同鄉會會長 (c. 1967–1970): 黃根深's memoir records that the UCLA club was first run by 陳銓仁 (陳隆's brother, founding chair) and 許和瑞 then took over as chair in 1967, serving three years — in an era when 劉天良 recalls being club president was a 「殺頭生意」 few would take. As chair he hosted the LA club's 1969 welcome ceremony for the champion Golden Dragon Little League team (金龍少棒隊), presenting gifts to each player (per [[works/taiwaneseamericanhistory-org/ourjourneys240|240. 半世紀前 UCLA的那些日子 / 李木通、黃樹人]]).
 - Church founding circle: in early 1970, while serving as an officer of the LA 羅省教會, 許和瑞 (with 丁昭昇、陳銓仁、林妙珠、陳慶霖、盧淑貞) pushed to add a 台語堂; under 羅文牧師's counsel they spun off to found the 台語福音教會 in October 1970 — the seed body of today's 台福基督教會 network (per [[works/taiwaneseamericanhistory-org/ourjourneys257|257. 洛杉磯台福基督教會 / 台福傳播中心]]).
 - Daughter 許秀聰 (Martha Hsu), the first female Taiwanese-American graduate of West Point, has her own 1991 record at [[works/taiwaneseamericanhistory-org/first-137|137. 許秀聰 Martha Hsu VanDriel]].
+- English transcripts of the source memoirs corroborate the above: the UW-circle/UFAI account at [[works/taiwaneseamericanhistory-org/ourjourneys81-eng|81 (EN)]] and the TACL growth narrative at [[works/taiwaneseamericanhistory-org/ourjourneys272-eng|272 (EN)]].
 - His own encyclopedia record: [[works/taiwaneseamericanhistory-org/whoswho1071|TAH #1072]].
 
 ## Sources
