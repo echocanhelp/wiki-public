@@ -11,6 +11,8 @@ last_reviewed: 2026-09-22
 ---
 # Prof. Frank Hsu (許德標教授)
 
+<!-- deepen-x 09220500-29: re-verified 2026-09-22 — fresh grep (works+articles): hits = whos-who-1701 (self-entry), ff335 + Pew statement (name-collision notes, already recorded below), index. SKIP-content — saturated, nothing new absorbable. -->
+
 ## Identity Snapshot
 - **English:** Prof. Frank Hsu
 - **Chinese:** 許德標教授

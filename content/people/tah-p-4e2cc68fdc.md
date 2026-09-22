@@ -6,9 +6,11 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # 張肅
+
+<!-- deepen-x 09220500-29: re-verified 2026-09-22 — fresh grep (works+articles): hits = ourjourneys106, ourjourneys33, whos480, index — all already absorbed in Role in the Community. SKIP-content — saturated, nothing new absorbable. -->
 
 ## Identity Snapshot
 - **English:** —
