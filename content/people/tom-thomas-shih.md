@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # Tom Thomas Shih (石聰賢)
 
@@ -37,7 +37,7 @@ last_reviewed: 2026-09-21
 ## Role in the Community
 - Chemical engineer from 台南新營 who took the NTU→Berkeley route (B.S. 1969, M.S. 1972, Ph.D. 1975 chemical engineering) into a four-decade U.S. chemical-industry career: Allied Chemical, ARCO Chemical, Lyondell, Bayer ARCO Chemical (研發部主任/處長), and CTO of LCY Group (2009–2014).
 - Documents the 1970s wave of Taiwanese engineering PhDs who built R&D leadership careers in the U.S. chemical industry.
-- **Corpus footprint:** the community record of his life is his own TAH Who's Who entry, [[works/taiwaneseamericanhistory-org/whoswho1877|1877. Tom Thomas Shih 石聰賢 / 09/2017]], published 2017-09-04 in the TAHS story corpus. No memoir or third-party community writings mentioning 石聰賢 were found in the corpus (re-verified 2026-09-21: only his own entry page and the works index match; SKIP-deepen — nothing absorbable beyond the TAH record).
+- **Corpus footprint:** the community record of his life is his own TAH Who's Who entry, [[works/taiwaneseamericanhistory-org/whoswho1877|1877. Tom Thomas Shih 石聰賢 / 09/2017]], published 2017-09-04 in the TAHS story corpus. No memoir or third-party community writings mentioning 石聰賢 were found in the corpus (re-verified 2026-09-21 / 2026-09-22: only his own entry page and the works index match; SKIP-deepen — nothing absorbable beyond the TAH record).
 
 ## Timeline
 - 2017-09-04 — TAH Who's Who record published: [[works/taiwaneseamericanhistory-org/whoswho1877|1877. Tom Thomas Shih 石聰賢 / 09/2017]]

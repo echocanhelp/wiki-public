@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # Stephanie Chuang
 
@@ -49,6 +49,8 @@ TaiwaneseAmerican.org covered Stephanie Chuang twice as an early-career Taiwanes
 - TAH Who's Who entry: [[works/taiwaneseamericanhistory-org/whowho1395|1395. Stephanie Chuang / 2016/11]].
 
 HOLD: TAH table lists "NBC News — 2011-2012 — Freelance Reporter" while the 2011-08-29 TaiwaneseAmerican.org interview describes her at that date as a staff morning reporter for KPIX (CBS); both kept, not merged.
+
+2026-09-22 re-grep (Stephanie Chuang): corpus hits unchanged (whowho1395, both TaiwaneseAmerican.org profiles, Stephanie Lin page, ITASA 2009 page) — all already linked above; nothing new absorbable.
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/stephanie-chuang/)

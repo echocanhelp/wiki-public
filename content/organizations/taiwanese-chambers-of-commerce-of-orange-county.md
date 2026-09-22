@@ -6,7 +6,7 @@ tags:
   - Taiwanese-American
   - Taiwan-Center-group-member
 verification_status: published
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # Taiwanese Chambers of Commerce of Orange County
 
@@ -28,7 +28,7 @@ The chamber is active in the Orange County / Southern California Taiwanese commu
 - 2021-05 — Listed among the ~40 joint-initiating groups of the Southern California 僑界 statement supporting Taiwan's participation in WHA, alongside 台美人歷史協會, 洛杉磯台美商會, PCT洛杉磯分會 and others: [[articles/taiwanjustice-net/2021/20210616072940_2021_05_17_2021年南加州僑界支持台灣參與世界衛生大會wha聯合聲_b1d58af16c0a5e5b|2021年南加州僑界支持台灣參與WHA聯合聲明]].
 - Sister org in the same county: [[organizations/orange-county-taiwanese-association|柑縣台灣同鄉會]].
 
-2026-09-21 re-check: corpus re-grep (柑縣台美商會) returned only the records already cited above — the extra matches were taiwanjustice.net mirror reposts of the same 2021 WHA convoy/statement articles and sibling-city chamber pages (Detroit, Orlando, Palm Springs, Austin, Phoenix, Salt Lake City), which are different organisations — no new absorbable facts.
+2026-09-21 re-check: corpus re-grep (柑縣台美商會) returned only the records already cited above — the extra matches were taiwanjustice.net mirror reposts of the same 2021 WHA convoy/statement articles and sibling-city chamber pages (Detroit, Orlando, Palm Springs, Austin, Phoenix, Salt Lake City), which are different organisations — no new absorbable facts. Re-verified again 2026-09-22: fresh grep hit set unchanged.
 
 ## Source Notes
 
