@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # Strong Chuang (莊秋雄)
 
@@ -60,3 +60,4 @@ last_reviewed: 2026-09-21
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - Corpus re-grep 2026-09-21 (slice 09210317-1): hit set fully linked, no new absorbable material.
+- 複核（deepen-x slice 09212352-1, 2026-09-22）：corpus re-grep 命中僅 130、our-journeys-357、ourjourneys81、publications1040、publications286、415 等已連結書目 — SKIP-with-reason：語料已飽和。

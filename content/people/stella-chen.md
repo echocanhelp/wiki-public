@@ -48,6 +48,7 @@ B.S. Dept. of Adult & Continuing Education(社教系)
 - TAH 出版物留存她的五篇文字：《勇者不懼》（1978）（[[works/taiwaneseamericanhistory-org/publication1293|TAH #1293]]）、《啊!黑名單》（1991-03，政治）（[[works/taiwaneseamericanhistory-org/publications311|TAH #311]]）、《建國路上死與生》（1992-01，政治）（[[works/taiwaneseamericanhistory-org/publications513|TAH #513]]）、悼念畫家黃根深的〈用畫筆搞台獨的黃根深〉（2017-04）（[[works/taiwaneseamericanhistory-org/mystories545|TAH #545]]）、以及寫鄭自才的〈刺客 畫家 建築師──鄭自才的繽紛人生〉（2016-07）（[[works/taiwaneseamericanhistory-org/mystories448|TAH #448]]）——與 TAH 人物傳記頁（[[works/taiwaneseamericanhistory-org/whos-who-173-stella-chen|TAH #173]]）互為表裏。
 - 1979-08-09～08-21 — 《潮流》工作夥伴陳博文、楊裕榮遭國民黨逮捕後，她在北美事務協調會紐約辦事處門口絕食抗議：24 小時坐地、夜間睡睡袋，一連 12 天，各地鄉親遠道致敬加油，至 8 月 21 日體力不支倒地送醫止；她的聲明全文經紐約「台灣之音」轉錄，施明德取得錄音帶分送島內各處（[[works/taiwaneseamericanhistory-org/ourjourneys2|TAH #2]] 紐約「台灣之音」回憶錄）。
 - HOLD: 命名衝突 — NATWA 2006-07 紀念文追思「Stella Chen Landauer」（自稱創辦「台灣人婦女自主運動」、突破黑名單）為「1988 年 8 月中旬病逝台灣」（[[works/taiwaneseamericanhistory-org/ourjourneys60-eng|TAH #60 ENG]]），與本人 1993 年返台及 2020–2022 年活動紀錄不符，應為同名另一人；該 work 頁現行指向本頁的連結宜消歧，不併入。
+- Corpus re-grep 2026-09-22 (slice 09212352-2)：驗證飽和 — 命中集全部已連結（#311、#513、#545、#448、#173、our-journeys-357、ourjourneys2、ourjourneys60-eng）；無新的可吸收語料。
 
 ## Sources
 - [TAH #173 encyclopedia: 173. Stella Chen 陳婉真, 2014/12](https://taiwaneseamericanhistory.org/whos-who-173-stella-chen/)

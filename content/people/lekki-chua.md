@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # Lekki Chua (蔡烈輝)
 
@@ -60,3 +60,5 @@ Accomplishment
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+複核（deepen-x slice 09212352-1, 2026-09-22）：corpus re-grep 命中 my-stories-691/675/706、33-lekki-now-then、publications254、whos-who-lekki-chua 等皆已連結 — SKIP-with-reason：語料已飽和。

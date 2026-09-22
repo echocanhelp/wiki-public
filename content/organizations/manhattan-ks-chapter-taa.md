@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # Manhattan, KS Chapter / TAA (全美台灣同鄉會曼哈頓分會)
 
@@ -37,6 +37,7 @@ Per 童海南's memoir excerpt from 平原區台灣人夏令會 1996 ([[works/ta
 ### Founding chapter of TAA (HOLD on founding date)
 - The TAA national history memoir ([[works/taiwaneseamericanhistory-org/ourjourneys76-eng|Our Journeys 76 (EN), TAA history]]) lists **Manhattan as one of the 28 founding chapters of the Taiwanese Association of America**, with **Kang Lu Wang** named as the chapter's president at founding. HOLD: conflict — the TAH directory record says the chapter was founded January 1985 with 陳淑美 (Chen Shu-Mei) as first president, while the chapter-history memoir implies a pre-1985 founding-chapter status with a different first president; neither date nor name merged.
 - Corpus re-grep 2026-09-21 (slice 09210051-1): Manhattan-KS chapter hits unchanged — the only works matches are the already-linked directory record, chapter brief history, and the FAPA NYC disambiguation page; no new chapter-attributable material (SKIP-with-reason, page otherwise saturated).
+- 複核（deepen-x slice 09212352-1, 2026-09-22）：re-grep 新增命中 mystories550（蜀湘園）、ourjourneys300 經查皆指紐約曼哈頓（同鄉會活動地遷皇后區脈絡），非本分會材料 — SKIP-with-reason：無新增堪薩斯曼哈頓分會語料。
 
 Not to be confused with the New York chapter: [[works/taiwaneseamericanhistory-org/36-new-york-manhattan-chapter-fapa|36. New York Manhattan Chapter / FAPA 台灣人公共事務會紐約州曼哈頓分會]] is a different organization (FAPA, NYC).
 
