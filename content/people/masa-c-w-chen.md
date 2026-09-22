@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # Masa C. W. Chen (陳正旺)
 
@@ -50,3 +50,4 @@ The orchid years are documented in the community's own story corpus: [[works/tai
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- Re-check 2026-09-22 (slice 09211500-15): re-grep 陳正旺/Masa still returns only TAH #2294, mystories-765 and the harvest index — all already cited; section remains current.
