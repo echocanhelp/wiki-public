@@ -42,6 +42,11 @@ _No filled family fields on the TAH profile._
 - 本人著作存檔：自述台灣人權戒嚴時期國際力量的文章（[[works/taiwaneseamericanhistory-org/our-journeys-363|363. 戒嚴時期關注台灣人權的國際力量／艾琳達／12/2020]]，value band A）與回顧回台觀感的〈Reflections on Returning to Taiwan〉（[[works/taiwaneseamericanhistory-org/mystories524|524. REFLECTIONS ON RETURNING TO TAIWAN／Linda Gail Arrigo／03/2017]]）；林倖妃為她寫的側寫〈始終左言左行的艾琳達〉亦存檔（[[works/taiwaneseamericanhistory-org/mystories622|622／林倖妃／01/2018]]）。
 - 同鄉大會講者紀錄：1988 年第十屆台灣人台灣同鄉聯合會年會（南卡 Converse College，主題「台灣社會改革與婦女運動」）以婦女運動來賓身分與張富美、黃美惠、鄭至慧同台；1995 年第十七屆年會再以環保主題發表演說（[[works/taiwaneseamericanhistory-org/ourjourneys245|Our Journeys 245]]）。
 
+## From the record
+
+- 2023-03-18 — 國史館《台灣民本主義》（廖文毅）新書座談的與會嘉賓名單以「台灣民主運動參與者艾琳達」記錄她出席，與陳中統、蔡焜霖、鄭欽仁等政治受難者前輩同列（[[articles/taiwanjustice-net/2023/20230322163322_2023_03_18_陳儀深_台獨非異端_是歷史長河所提前途選項_7a1fac458741d886|TJJ 報導，2023-03-18]]）。
+- 2016-07-05 — 張文翊（民報）〈從艾琳達牽出的台灣特務故事〉收錄於 TJJ 金恆煒專欄彙整頁目錄（報導索引，正文未存檔）（[[articles/taiwanjustice-net/2020/20200625220008_category_column_kim_page_2_74c4ed59f5ec9b34|TJJ 專欄頁目錄]]）。
+
 ## Sources
 - [TAH #810 encyclopedia: 810. Linda Gail Arrigo 艾琳達/ 2016/02](https://taiwaneseamericanhistory.org/whos-who-810-linda-gail-arrigo/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/linda-gail-arrigo/)
