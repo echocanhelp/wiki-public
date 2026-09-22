@@ -48,3 +48,4 @@ _No filled family fields on the TAH profile._
 
 > Corpus re-scan 2026-09-20 (deepen-x slice 09180900-19): re-scanned works/ and articles/ for 林清森 / Ching-Shen Lin — no corpus hits beyond the Who's Who 2012 work page already linked. SKIP-deepen; nothing absorbable.
 > Corpus re-scan 2026-09-21 (deepen-x slice 09200700-25): re-scanned — still only the Who's Who 2012 work page. SKIP-deepen; nothing absorbable.
+> Corpus re-scan 2026-09-22 (deepen-x slice 09210800-13): re-scanned — same, Who's Who 2012 work page only. SKIP-deepen; nothing absorbable.

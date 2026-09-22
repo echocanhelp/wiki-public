@@ -40,6 +40,7 @@ last_reviewed: 2026-09-22
 - Related org pages: [[organizations/the-board-of-taiwanese-american-conferences-west-coast-tac-wc|TAC-WC]], [[organizations/north-america-taiwanese-professors-sc|NATPA]], [[people/prof-ken-s-huang|黃根深]].
 - Her own TAH Who's Who encyclopedia entry is held in the corpus as [[works/taiwaneseamericanhistory-org/whos-who-859-darice-lee|859. Darice Lee 洪珠美 /2016/02]] (published 2016-02-28).
 - HOLD: a taiwanjustice.net 2025 page tagged 洪珠美 ([[articles/taiwanjustice-net/2025/20250914111538_tag_洪珠美_4d4219d6f4ebefdf|tag archive]]) is a tag-index page with no context to confirm it refers to this Darice Lee — not absorbed.
+- Corpus re-check 2026-09-22 (deepen-x slice 09210800-13): fresh grep of works/ + articles/ — hits are the same memoir records already absorbed (Our Journeys #265, #352, Who's Who #859, empty taiwanjustice tag page). Nothing new absorbable.
 
 ## Sources
 - [TAH #859 encyclopedia: 859. Darice Lee 洪珠美/2016/02](https://taiwaneseamericanhistory.org/whos-who-859-darice-lee/)
