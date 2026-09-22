@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # Clara Chen (劉真真)
 
@@ -41,6 +41,7 @@ last_reviewed: 2026-09-21
 - **Christian student movement, Madison WI:** 劉真真 and 陳紹紀 (with 鄭學禮) organized the first prayer/Bible-study summer retreat at Wisconsin Dells for Taiwanese students in Madison in the 1960s; the effort grew into the Midwest "基督徒夏令會" held for several years across Midwestern states. Source: [[works/taiwaneseamericanhistory-org/ourjourneys-369|369. 懷憶六十年代前期的明市 (謝伯芳, 2021-03)]].
 - **1987 世台會返鄉團, on the eve of risk:** Her peer's memoir of the World Association of Taiwanese Organizations (世台會) homecoming delegation records that 劉真真 was among the women (with 陳翠玉、羅淸芬、蔡明霞、吳秀惠) who resolved to return to Taiwan and publicly voice the overseas 台灣獨立 position past KMT travel restrictions — and that she left a written will (遺書) before the trip, "萬一發生意外，有個交代." The same account records 陳翠玉 obtaining a visa via Singapore and dying at National Taiwan University Hospital as the delegation's program ended: [[works/taiwaneseamericanhistory-org/ourjourneys210|Our Journeys 210 (世台會返鄉 memoir, band A)]].
 - **NATWA affiliation:** Named as representing NATWA (North America Taiwanese Women's Association) in the community statement accompanying the Pew-based Taiwanese American demographic study: [[works/taiwaneseamerican-org/pew-research-center-taiwanese-american-statement|Pew Research Center Taiwanese American statement]].
+- **Corpus check 2026-09-22:** fresh grep of content/works + content/articles returns only records already absorbed above — her own Who's Who encyclopedia record ([[works/taiwaneseamericanhistory-org/whos-who-1165-clara-chen|TAH #1165 Clara Chen 劉真真]]), the Seattle Taiwan Center accounts ([[works/taiwaneseamericanhistory-org/ourjourneys30|Our Journeys #30]] / [[works/taiwaneseamericanhistory-org/ourjourneys30-eng|#30-eng]]), the Madison memoir ([[works/taiwaneseamericanhistory-org/ourjourneys-369|Our Journeys #369]]), Christie Park ([[works/taiwaneseamericanhistory-org/our-journeys-362|Our Journeys #362]]), her own memoir ([[works/taiwaneseamericanhistory-org/mystories383|我的台獨路程]]), the 世台會返鄉團 memoir ([[works/taiwaneseamericanhistory-org/ourjourneys210|Our Journeys #210]]), the Pew statement, and the 2018 TJJ letter. No new facts this pass; page confirmed deepened.
 - **2018 NTU-alumni protest letter:** 劉真真(物理) appears in the roster of NTU alumni co-signing the 2018 protest letter against 南加州台大校友會 inviting 管中閔, consistent with her 1959 NTU physics degree: [[articles/taiwanjustice-net/2018/20180721091303_2018_07_20_抗議-南加州台大校友會邀管中閔來年會做專題演講_a428dcebbceacf38|TJJ 2018-07-20]].
 - **Own memoir:** Her first-person account of her Taiwan-independence journey, 「我的台獨路程」 (2015-12), is held as community historical record: [[works/taiwaneseamericanhistory-org/mystories383|383. 我的台獨路程 / 劉真真]]. A later Christie Park / U-District community-space account appears in [[works/taiwaneseamericanhistory-org/our-journeys-362|362. Recent Christie Park renovation (2020-12)]], consistent with the press-kit "Christie Park, WA — Main contributor" entry.
 
