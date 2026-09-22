@@ -30,4 +30,6 @@ There are 31 new subjects collected in February and the total posts are 9521.
 - [[people/yung-hwa-hsu|Yung Hwa Hsu]] — mentioned in this record
 - [[people/adrian-lin|Adrian Lin]] — mentioned in this record
 - [[people/kin-ko|柯金寅]] — mentioned in this record
+- [[people/miaw-shang-su-lin|蘇妙香]] — mentioned in this record
+- [[people/edgar-chun-yi-lin|林俊義]] — mentioned in this record
 

@@ -44,16 +44,13 @@ _No filled family fields on the TAH profile._
 
 ## From the record
 
+- 2014-07-08 — TJJ「梅心怡」標籤頁收錄報導：艾琳達（Linda Arrigo）過境洛杉磯，向台美人簡述梅心怡（Lynn Miles）病情、期盼社區伸援手 —— [[articles/taiwanjustice-net/2024/20240724005830_root_5b7741741c30e771|TJJ tag page，2024-07-24 快照]]。
 - 2023-03-18 — 國史館《台灣民本主義》（廖文毅）新書座談的與會嘉賓名單以「台灣民主運動參與者艾琳達」記錄她出席，與陳中統、蔡焜霖、鄭欽仁等政治受難者前輩同列（[[articles/taiwanjustice-net/2023/20230322163322_2023_03_18_陳儀深_台獨非異端_是歷史長河所提前途選項_7a1fac458741d886|TJJ 報導，2023-03-18]]）。
 - 2016-07-05 — 張文翊（民報）〈從艾琳達牽出的台灣特務故事〉收錄於 TJJ 金恆煒專欄彙整頁目錄（報導索引，正文未存檔）（[[articles/taiwanjustice-net/2020/20200625220008_category_column_kim_page_2_74c4ed59f5ec9b34|TJJ 專欄頁目錄]]）。
 
 ## Sources
 - [TAH #810 encyclopedia: 810. Linda Gail Arrigo 艾琳達/ 2016/02](https://taiwaneseamericanhistory.org/whos-who-810-linda-gail-arrigo/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/linda-gail-arrigo/)
-
-## From the record
-
-- 2014-07-08 — TJJ「梅心怡」標籤頁收錄報導：艾琳達（Linda Arrigo）過境洛杉磯，向台美人簡述梅心怡（Lynn Miles）病情、期盼社區伸援手 —— [[articles/taiwanjustice-net/2024/20240724005830_root_5b7741741c30e771|TJJ tag page，2024-07-24 快照]]。
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
