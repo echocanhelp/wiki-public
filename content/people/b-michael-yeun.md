@@ -38,7 +38,7 @@ last_reviewed: 2026-09-22
 
 - Vice-President (副會長) of the [[organizations/formosan-association-for-human-rights|Formosan Association for Human Rights (FAHR)]] in 2014, under President H. L. Hung (洪榮隆); also listed among the directors that year. Recorded in the corpus memoir [[works/taiwaneseamericanhistory-org/ourjourneys75-eng|Our Journeys #75 (EN)]] and its Chinese counterpart [[works/taiwaneseamericanhistory-org/ourjourneys75|Our Journeys #75]], sourced from 張丁蘭的故事 (Tina Chang's Story, 2000); TAH encyclopedia entry: [[works/taiwaneseamericanhistory-org/902-b-michael-yeun-e6-a5-8a-e6-98-8e-e6-98-8a-201603|902. B. (Michael) Yeun 楊明昊 / 2016/03]].
 - HOLD: conflict in the Our Journeys #75 provenance — the officer roster is dated 2014 but the memoir's own attribution reads 「摘自 張丁蘭的故事 2000」 (Sourced from Tina Chang's Story, 2000); the source year may be a typo in the original record. Do not auto-merge.
-- Re-verified 2026-09-21: fresh corpus grep found no additional Yeun/楊明昊 material beyond the records above.
+- Re-verified 2026-09-22 (deepen-x slice 25): fresh corpus grep found no additional Yeun/楊明昊 material beyond the records above.
 
 ## Sources
 - [TAH #902 encyclopedia: 902. B. (Michael) Yeun 楊明昊 / 2016/03](https://taiwaneseamericanhistory.org/902-b-michael-yeun-%e6%a5%8a%e6%98%8e%e6%98%8a-201603/)

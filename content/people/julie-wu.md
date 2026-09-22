@@ -31,6 +31,7 @@ last_reviewed: 2026-09-22
 - Presented *The Third Son* at Harvard: [[works/taiwaneseamerican-org/julie-wu-presents-the-third-son-novel-at-harvard|Julie Wu Presents "The Third Son" Novel at Harvard]], and spoke on the novel in a 2014-08 TA.org program: [[works/taiwaneseamerican-org/taiwanese-american-author-julie-wu-speaks-on-the-third-son-novel|Taiwanese American Author Julie Wu Speaks on "The Third Son" Novel]].
 - Featured at a FAPA NorCal summer potluck: [[works/taiwaneseamerican-org/fapa-summer-potluck-featuring-author-julie-wu-in-norcal|FAPA Summer Potluck Featuring Author Julie Wu in NorCal]] (2014-08).
 - Celebrated in TA.org's interview with Michelle Kuo as a TA who pivoted from a prestigious technical/medical path onto a creative one: [[works/taiwaneseamerican-org/interview-michellekuo|Interview with Michelle Kuo]] (named alongside Jeremy Lin, Alan Yang, Vienna Teng).
+- Corpus re-check 2026-09-22 (deepen-x slice 28): the remaining `Julie Wu` hits in `content/works` are duplicate harvest variants of the Harvard-presentation and 2014-08 talk records already linked above (`...-at-harvard-2`, `...-speaks-on-the-third-son-novel-2`); no new memoir/articles material.
 
 ## Family
 
