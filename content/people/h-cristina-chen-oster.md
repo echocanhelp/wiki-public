@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # H. Cristina Chen-Oster (陳慧蓉)
 
@@ -42,6 +42,8 @@ H. Cristina Chen-Oster 陳慧蓉 – History of Taiwanese American (T.A. Archive
 ## Sources
 - [TAH #284 encyclopedia: 284. H. Cristina Chen-Oster 陳慧蓉/2015/02](https://taiwaneseamericanhistory.org/284-h-cristina-chen-oster-%e9%99%b3%e6%85%a7%e8%93%89201502/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/h-cristina-chen-oster/)
+
+- Corpus re-verified 2026-09-22 (deepen-x slice 09211507-19): grep of works/ + articles/ for 陳慧蓉/Cristina Chen-Oster returns only the index row — no new memoir material; father 陳重光 attribution remains HOLD as above.
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

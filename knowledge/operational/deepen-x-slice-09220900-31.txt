@@ -1,0 +1,4 @@
+organizations/yale-taiwanese-student-association.md
+people/rev-shirley-lin.md
+people/prof-wilson-ho.md
+people/prof-felix-t-hong.md

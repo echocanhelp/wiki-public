@@ -1,12 +1,10 @@
 # Connector suggestions (capped top 80)
 
-- co_citation total=4384 kept=80
-- co_mention total=9871 kept=40
+- co_citation total=4606 kept=80
+- co_mention total=10102 kept=40
 - shared_tags total=0 kept=0
 
 ## Top co-citation
-- organizations/taiwanese-american-council-of-greater-new-york.md ↔ people/dr-pofu-hsieh.md
-- people/dr-steve-huang.md ↔ people/meifeng-tsai.md
 - organizations/taiwanese-american-association-of-los-angeles-east-san-gabriel-valley.md ↔ sources/taiwaneseamericanhistory-org.md
 - people/rev-thomas-h-chen.md ↔ people/thomas-shu.md
 - organizations/aj-wang-foundation-scholarship-fund.md ↔ organizations/taiwanese-american-scholarship-fund.md
@@ -25,8 +23,10 @@
 - organizations/american-citizens-for-taiwan.md ↔ organizations/taiwanese-american-perspectives.md
 - organizations/american-citizens-for-taiwan.md ↔ people/jonathan-lee.md
 - organizations/taiwanese-american-perspectives.md ↔ people/jonathan-lee.md
+- organizations/american-citizens-for-taiwan.md ↔ organizations/fapa-los-angeles.md
 - organizations/american-citizens-for-taiwan.md ↔ organizations/natwa-southern-california.md
 - organizations/american-citizens-for-taiwan.md ↔ organizations/north-america-taiwanese-womens-association-hawaii-chapter.md
-- organizations/american-citizens-for-taiwan.md ↔ organizations/north-america-taiwanese-womens-association-northern-california-chapter.md
-- organizations/ann-arbor-taiwanese-association.md ↔ organizations/taiwan-student-association-at-the-university-of-michigan.md
-- organizations/ann-arbor-taiwanese-association.md ↔ organizations/taiwanese-american-student-association-at-the-university-of-michigan.md
+- organizations/ann-arbor-taiwanese-association.md ↔ organizations/manhattan-ks-chapter-taa.md
+- organizations/ann-arbor-taiwanese-association.md ↔ organizations/taiwanese-american-association-atlanta.md
+- organizations/ann-arbor-taiwanese-association.md ↔ organizations/taiwanese-american-association-new-york.md
+- organizations/ann-arbor-taiwanese-association.md ↔ organizations/formosan-association-for-human-rights.md

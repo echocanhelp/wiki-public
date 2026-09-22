@@ -1,0 +1,4 @@
+people/c-y-tsai.md
+people/justin-lin.md
+people/weiko-lin.md
+organizations/cornell-taiwanese-american-society.md

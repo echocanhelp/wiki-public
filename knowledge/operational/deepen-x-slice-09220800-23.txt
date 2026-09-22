@@ -1,0 +1,4 @@
+people/jiunn-yann-genetang.md
+organizations/sun-ten-museum.md
+people/rev-c-l-tong.md
+people/ming-chang-wang.md

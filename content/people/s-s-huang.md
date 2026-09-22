@@ -44,6 +44,8 @@ last_reviewed: 2026-09-21
 - Wife 楊詠絮 was an editor/主筆 of the 北美洲台灣婦女會 (NATWA) 婦女信箱. In her thanks in the NATWA 千禧年專刊 (2001/04) she credits 黃申生 as one of the "好先生們" of NATWA: during the rushed pre-conference editing he stayed home alone, ran errands in a sudden April snowstorm, and drove with her at midnight to pick up the printed manuscripts ([[works/taiwaneseamericanhistory-org/ourjourneys79|79. 婦女信箱 / 吳美芬 和 楊詠絮]]).
 - Memorial memoir by his wife: [[works/taiwaneseamericanhistory-org/mystories636|636. 紀念先夫黃申生醫師 / 楊詠絮 / 05/2018]] — primary community record of his life; full text stays in the vault.
 - TAH encyclopedia profile: [[works/taiwaneseamericanhistory-org/whoswho2109|2109. S.S. Huang 黃申生 / 05/2018]].
+- Disambiguation: TAH #2086 "Prof. S. S. Huang" is 黃壽山, a different person sharing the English initials — see [[works/taiwaneseamericanhistory-org/whos-who-2086-s-s-huang|2086. Prof. S. S. Huang 黃壽山教授]]; do not merge the two records.
+- Re-grepped 2026-09-22 (slice 09211507-24): no new corpus hits beyond #2109, #636, #79 already absorbed above — verified-saturated.
 
 
 ## Sources

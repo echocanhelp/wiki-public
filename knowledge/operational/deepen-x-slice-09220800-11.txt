@@ -1,0 +1,4 @@
+organizations/michigan-taiwanese-student-association.md
+organizations/taiwanese-association-of-america-san-antonio.md
+organizations/american-citizens-for-taiwan.md
+people/dr-ming-tang-lai.md

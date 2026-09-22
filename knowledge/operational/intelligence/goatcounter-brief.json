@@ -1,10 +1,36 @@
 {
-  "at": "2026-09-21T14:00:30Z",
+  "at": "2026-09-22T14:00:53Z",
   "cutoff": "2026-08-21T19:22:14Z",
-  "ok": false,
-  "visits_since_cutoff": 0,
-  "yesterday_pdt": "2026-09-20",
-  "yesterday_visits": 0,
-  "top": [],
-  "error": "URLError"
+  "ok": true,
+  "visits_since_cutoff": 67,
+  "yesterday_pdt": "2026-09-21",
+  "yesterday_visits": 2,
+  "top": [
+    {
+      "count": 13,
+      "path": "/wiki-public/people/gwhyneth-chen",
+      "title": "Gwhyneth Chen (\u9673\u6bd3\u8944)"
+    },
+    {
+      "count": 9,
+      "path": "/wiki-public/people/albert-zh-sku-b-publisher-review",
+      "title": "Not Found"
+    },
+    {
+      "count": 7,
+      "path": "/wiki-public/people/albert-zh-sku-b-publisher-review.html",
+      "title": "Albert ZH SKU B \u2014 publisher manuscript final review"
+    },
+    {
+      "count": 5,
+      "path": "/wiki-public/people/lester-tsai",
+      "title": "Not Found"
+    },
+    {
+      "count": 5,
+      "path": "/wiki-public/people/albert-chapter1-zh-hsiaochen-full-review",
+      "title": "Albert Ch.1 ZH full \u2014 HsiaoChen evaluation (SKU B gate)"
+    }
+  ],
+  "error": null
 }

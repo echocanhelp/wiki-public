@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # Rachel Ku
 
@@ -41,6 +41,8 @@ _No filled family fields on the TAH profile._
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/rachel-ku/)
+
+- Corpus re-verified 2026-09-22 (deepen-x slice 09211507-19): grep of works/ + articles/ for 'Rachel Ku' still returns only her own bibliographic index entries (#192, #394) — no memoir or community-body mentions to absorb; page remains saturated.
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

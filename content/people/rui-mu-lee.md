@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # Rui Mu Lee (李瑞木)
 
@@ -47,6 +47,8 @@ last_reviewed: 2026-09-21
 ## Sources
 - [TAH #1564 encyclopedia: 1564. Rui Mu Lee 李瑞木/ 2017/03](https://taiwaneseamericanhistory.org/whoswho1564/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/rui-mu-lee/)
+
+- Corpus re-verified 2026-09-22 (deepen-x slice 09211507-19): grep of works/ + articles/ for 李瑞木/Rui Mu Lee still returns only the Our Journeys 123 chronicle pair, own Who's Who record 1564, and index rows — no new memoir material; page remains saturated.
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

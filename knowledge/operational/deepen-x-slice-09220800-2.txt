@@ -1,0 +1,4 @@
+organizations/taiwanese-association-of-greater-kansas-city-takc.md
+people/vivian-y-g-fu.md
+organizations/sogetsu-buxmont-study-group.md
+people/prof-kenneth-k-wu.md

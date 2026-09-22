@@ -1,0 +1,4 @@
+people/hong-zong-lin.md
+people/tony-chen.md
+people/echo-lew.md
+organizations/taiwanese-association-of-west-michigan.md

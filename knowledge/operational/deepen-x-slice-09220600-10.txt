@@ -1,0 +1,4 @@
+people/tom-thomas-shih.md
+people/rev-dave-alexander.md
+people/tah-p-6f52d6733e.md
+people/w-c-lin.md
