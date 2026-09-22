@@ -6,7 +6,7 @@ tags:
   - Taiwanese-American
   - Taiwan-Center-group-member
 verification_status: published
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # Taiwanese American Perspectives
 
@@ -39,4 +39,5 @@ The name also appears earlier as the subtitle/perspective line of a 2012 essay o
 - [[organizations/taiwan-center||Taiwan Center]]
 - [[sources/taiwancenter-org||taiwancenter.org]]
 ,Corpus re-check (2026-09-20, slice 09181500-14): re-grep against content/works + content/articles — hit set identical to the records already cited above (ourjourneys240, ourjourneys214, the 2016 group record, the 2012 SF panel essay); no new absorbable material.
-Corpus re-check (2026-09-21, slice deepen-x-slice-09201300-9): re-grep 台美人論壇 / Taiwanese American Perspectives — hit set identical to the records already cited (ourjourneys240, ourjourneys214, the 2016 group record, the 2012 SF panel essay, works index); no new absorbable material. SKIP-with-reason（飽和）.
+Corpus re-check (2026-09-21, slice deepen-x-slice-09201300-9): re-grep 台美人論壇 / Taiwanese American Perspectives — hit set identical to the records already cited (ourjourneys240, ourjourneys214, the 2016 group record, the 2012 SF panel essay, works index); no new absorbable material. SKIP-with-reason（飽和）。
+Corpus re-check (2026-09-22, slice deepen-x-slice-09211300-10): re-grep 台美人論壇 / Taiwanese American Perspectives — hit set identical to the records already cited (ourjourneys240, ourjourneys214, the 2016 group record, the 2012 SF panel essay, works index); no new absorbable material. SKIP-with-reason（飽和）。
