@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # Kin Ko (柯金寅)
 
@@ -56,6 +56,7 @@ M.S., Aerospace Engineering; Ph.D. Course Program
 - 報導紐澤西台語教師研習會（2014-08-30~09-01，北澤西佳壇台語教會，僑務委員蔡榮聰醫師主辦，台語專家鄭安住主講〈台語文之美妙〉，八十多位鄉親參與，協辦含北澤西台灣同鄉會與大紐約區海外台灣人筆會）— [[works/taiwaneseamericanhistory-org/ourjourneys42|42. 《台語文之美妙》紐澤西台灣人社團舉辦台語教師研習會, 2014-10]]。
 
 - Corpus check 2026-09-21 (slice 09201400-13): re-grepped content/works + content/articles — hit set identical to the records already wikilinked above; no new absorbable material.
+- Corpus check 2026-09-22 (slice 09211300-14): re-grepped content/works + content/articles (柯金寅 + Kin Ko) — hit set identical to the 6 work records already wikilinked above (photo-albums-35, private-collections-31, ourjourneys219, ourjourneys12, mystories-744, ourjourneys42) + the two TA Archives newsletter captures in ## From the record; no new absorbable material — SKIP (saturated).
 
 ## From the record
 

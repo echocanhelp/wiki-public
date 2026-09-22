@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # American Citizens for Taiwan (西雅圖美台會)
 
@@ -28,6 +28,7 @@ American Citizens for Taiwan (ACT) is a U.S. nonprofit organization composed of 
 - Chieni McCullough signed the Pew-era Taiwanese American community statement listed as "Chieni McCullough, American Citizens for Taiwan" ([[works/taiwaneseamerican-org/pew-research-center-taiwanese-american-statement|Pew-era community statement]]).
 - Directory record held in the corpus: [[works/taiwaneseamericanhistory-org/american-citizens-for-taiwan|ACT 西雅圖美台會 (TAH directory, 2018-06-26)]].
 - Corpus check 2026-09-21 (slice 09201400-13): re-grepped content/works + content/articles — hit set identical to the records already wikilinked above; no new absorbable material.
+- Corpus check 2026-09-22 (slice 09211300-14): re-grepped content/works + content/articles (EN + 美台會) — hit set identical to the records already wikilinked above (TAH directory, Heart-and-Soul intro, Pew statement, top-10 FB, SF 228 panel, Sunflower list) + index only; no new absorbable material — SKIP (saturated).
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/american-citizens-for-taiwan/)

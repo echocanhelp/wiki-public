@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # Michigan Taiwanese Student Association
 
@@ -24,7 +24,7 @@ The Michigan Taiwanese Student Association (MTSA) is a Taiwanese student organiz
 - Same memoir circle: in 1979 two Michigan Taiwanese (I-hsiung Lin and Bernie Huang) sent funds to Shih Ming-teh via First Bank in Taipei under the Ann Arbor Taiwanese Association name — community support from the Ann Arbor Michigan Taiwanese milieu documented in the same record.
 - Today a recognized UMich student organization (Maize Pages; LSA Asian Languages and Cultures listing) with a companion MTSA 知識庫 wiki for incoming Taiwanese students.
 - The joint publication itself is held in the corpus: *Taiwan Monitor 台風眼*, the Taiwanese community newspaper of the TAA Ann Arbor, Detroit, and Lansing chapters — [[works/taiwaneseamericanhistory-org/taiwan-monitor|Taiwan Monitor 台風眼]]. The founding memoir was also republished in the 台美史料中心 newsletter archive — [[articles/taiwanjustice-net/2026/20260208202549_march-2021-newsletter-t-a-archives-台美史料中心_b7327dcf888cee82|TA Archives March 2021 newsletter (2026 capture)]].
-- Re-verified 2026-09-21 (slice 09201400-11): fresh re-grep hit set = MTSA-adjinct sibling org records only (密西根台灣人協進會, FAHR-Michigan #4, MTAC #47) with no MTSA mention; original re-check 2026-09-20: corpus re-grep (works/articles) returns only the records already linked/absorbed above (the Yung Hwa Hsu *Taiwan Monitor* memoir, its newsletter republications, and the Monitor work record) plus index listings — no new mention; SKIP-with-reason (saturated).
+- Re-verified 2026-09-21 (slice 09201400-11): fresh re-grep hit set = MTSA-adjinct sibling org records only (密西根台灣人協進會, FAHR-Michigan #4, MTAC #47) with no MTSA mention; original re-check 2026-09-20: corpus re-grep (works/articles) returns only the records already linked/absorbed above (the Yung Hwa Hsu *Taiwan Monitor* memoir, its newsletter republications, and the Monitor work record) plus index listings — no new mention; SKIP-with-reason (saturated). Re-verified 2026-09-22 (slice 09211300-14): fresh re-grep (EN name, ZH variant, MTSA) hits only the already-linked Yung Hwa Hsu memoir records (ourjourneys321-eng + TA Archives newsletters) and one unrelated 2025 TJJ news capture — no new mention; SKIP (saturated).
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/michigan-taiwanese-student-association/)

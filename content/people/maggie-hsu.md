@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # Maggie Hsu
 
@@ -53,3 +53,5 @@ HOLD: conflict in Mochi founding date — her interview says the concept origina
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 slice 09201400-19 re-grep (2026-09-21): corpus hit set identical to links already absorbed above — no new absorbable facts.
+
+slice 09211300-16 re-grep (2026-09-22): corpus hit set identical to links already absorbed above — no new absorbable facts.
