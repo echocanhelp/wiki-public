@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # Larry Hsu (許中強)
 
@@ -44,3 +44,5 @@ last_reviewed: 2026-09-21
 > SKIP (deepen-x 09171100-24, 2026-09-17): corpus grep found only this person's own TAH bibliographic record [[works/taiwaneseamericanhistory-org/whoswho1365|1365. Larry Hsu 許中強 / 2016/11]] — no community/movement material to absorb.
 
 > SKIP re-check (deepen-x 09191200-29, 2026-09-21): fresh grep of content/works + content/articles returned only this person own TAH bibliographic record — no community/memoir material to absorb.
+
+> Re-check (deepen-x 09210900-20, 2026-09-22): fresh grep of content/works + content/articles — only hits are this person's own TAH bibliographic record plus the works/index listing. SKIP confirmed; nothing absorbable, no biography invented.

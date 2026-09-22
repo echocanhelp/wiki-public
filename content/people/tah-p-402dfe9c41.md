@@ -6,7 +6,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # 張妙華
 
@@ -43,3 +43,5 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+> Re-check (deepen-x 09210900-20, 2026-09-22): fresh grep of content/works + content/articles — only hits are this person's own TAH bibliographic record plus the works/index listing. SKIP confirmed; nothing absorbable, no biography invented.

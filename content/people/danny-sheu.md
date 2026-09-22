@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # Danny Sheu
 
@@ -37,6 +37,10 @@ TAH Foundation's story corpus carries two feature records on Danny Sheu, both pu
 [[works/taiwaneseamericanhistory-org/13027|176. Danny Sheu, Violist / 2015/03]] — community-side
 recognition of his concert work (Royce Hall, Walt Disney Concert Hall, tours in Europe and Asia).
 The records are bibliographic (band B); full text stays in the TAH vault.
+Re-check 2026-09-22 (slice -17, SKIP-with-reason): the only corpus records naming
+Danny Sheu are these two own-name TAH entries; other grep hits were false positives
+on the substring 徐 in unrelated 徐/許 surnames and memoir prose (徐徐). No independent
+memoir/community material to absorb.
 
 ## Family
 
