@@ -31,6 +31,6 @@ The ultimate question is whether Taiwanese will be able to freely determine thei
 Gerrit van der Wees is editor of Taiwan Communique, a publication based in Washington.
 
 ## Subjects
-- [[people/ma-yingjeou.md|Ma Ying-jeou]] — mentioned in this record
-- [[organizations/democratic-progressive-party.md|Democratic Progressive Party]] — mentioned in this record
+- [[people/ma-yingjeou|Ma Ying-jeou]] — mentioned in this record
+- [[organizations/democratic-progressive-party|Democratic Progressive Party]] — mentioned in this record
 
