@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # Prof. Felix T. Hong (洪正幸教授)
 
@@ -47,3 +47,5 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+- Re-grep 2026-09-22 (slice 09211500-21): hit set unchanged (ourjourneys321 + 321-eng memoir, ourjourneys123 chronicle, own TAH #1864 record, index) — both community facts already absorbed above; verified saturated, no conflicts.
