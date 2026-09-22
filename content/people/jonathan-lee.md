@@ -41,6 +41,8 @@ last_reviewed: 2026-09-22
 - **2021-05-01** — listed as a signatory of the Taiwanese American community response to Pew Research Center over merged Taiwanese/Chinese census data ([[works/taiwaneseamerican-org/pew-research-center-taiwanese-american-statement|Response to Pew Research Reports Hiding Taiwanese Identity]]); the signature carries no title and sits among TACLA / Write in Taiwanese Census Campaign organizers. HOLD: common name — identity with the 2008-era FAPA-YPG Jonathan Lee unverified, not merged.
 - HOLD: TAH Who's Who snapshot lists him as engineer/entrepreneur (Rich Relevance, Rutgers/NJ); the 2008-era FAPA-YPG record predates that employment snapshot — no conflict recorded, sequence unknown.
 
+- Corpus re-check 2026-09-22 (deepen-x slice 09220500-7): fresh grep of works/ + articles/ — hit set unchanged, all hits already cited and absorbed above; nothing further absorbable. SKIP.
+
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/jonathan-lee/)
 

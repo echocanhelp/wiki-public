@@ -47,6 +47,8 @@ Corpus memoirs (吳朱實) record 楊日信 as a central builder of the Taiwanes
 - **逝世紀念：** 1997 年辭世；吳朱實撰〈點滴憶楊日信兄〉（2016/05）悼念（[[works/taiwaneseamericanhistory-org/mystories433|433. 點滴憶楊日信兄／吳朱實]]）。Era 1937–1997 與 memoir「1997年楊日信辭世」一致。
 
 
+- Corpus re-check 2026-09-22 (deepen-x slice 09220500-7): fresh grep of works/ + articles/ — hit set unchanged, all hits already cited and absorbed above; nothing further absorbable. SKIP.
+
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/z-h-yang/)
 
