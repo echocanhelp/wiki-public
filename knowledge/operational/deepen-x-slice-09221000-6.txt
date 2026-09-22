@@ -1,0 +1,4 @@
+people/guo-shu-qing.md
+organizations/south-bay-taiwanese-association-of-s-california.md
+organizations/taiwan-care-inc.md
+organizations/taiwanese-student-society.md
