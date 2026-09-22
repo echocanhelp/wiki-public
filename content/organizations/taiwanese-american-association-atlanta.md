@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # Taiwanese American Association Atlanta (亞特蘭大)
 
@@ -27,6 +27,7 @@ Corpus records showing the chapter's activity:
 - Participated in the City of Atlanta cultural festival (亞特蘭大市文化節) [[works/taiwaneseamericanhistory-org/atlanta-city-cultural-festival|37. 亞特蘭大市文化節]].
 - 2019 — chapter e-newsletter carried by TAH [[works/taiwaneseamericanhistory-org/e-newsletter-taa-atlanta|TAA/Atlanta Chapter e-newsletter]].
 - Atlanta civic ecosystem recorded alongside the chapter (sibling bodies, not merged): [[works/taiwaneseamericanhistory-org/atlanta-taiwanese-american-social-service-committee-tassc|Atlanta Taiwanese American Social Service Committee (TASSC) 亞特蘭大台美人社會服務會]] · [[works/taiwaneseamericanhistory-org/3-atlanta-taiwanese-philharmonic-chorus|3. Atlanta Taiwanese Philharmonic Chorus 亞特蘭大台灣人愛樂合唱團 (2014-10)]] · [[works/taiwaneseamericanhistory-org/atlanta-taiwanese-chamber-of-commerce|2. Atlanta Taiwanese Chamber of Commerce 亞特蘭大台灣商會]].
+- Re-grep 2026-09-22 (slice 09212352-14): 亞特蘭大台灣同鄉會 / "Taiwanese American Association Atlanta" across works/ + articles/ returns exactly the six records already cited above (e-newsletter, 1330 directory, scholarship award, encyclopedia profile, cultural festival, index) — verified saturated, no new facts.
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-american-association-atlanta/)

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # Tsuann Kuo (郭慈安博士)
 
@@ -46,6 +46,8 @@ _No filled family fields on the TAH profile._
 2026-09-21 re-grep (deepen-x slice 09191400-8): corpus hits still confined to the already-linked records below — no new absorbable facts.
 - Second community record: [[works/taiwaneseamericanhistory-org/255-tsuann-kuo-e9-83-ad-e6-85-88-e5-ae-89201502|TAH #255]] (2015-02).
 - 2026-09-21 re-grep (deepen-x slice 09210317-7): fresh grep (works+articles) hits confined to the already-linked records above (TAH #164/#255, NATWA 2015, 228 episode, 正義通訊 newsletter) — no new absorbable facts, no conflicts to HOLD.
+
+- 2026-09-22 re-grep (deepen-x slice 09212352-15): fresh grep (郭慈安／Tsuann Kuo, works+articles) hits confined to the already-linked records above (TAH #164/#255, NATWA 2015, 228 episode, 正義通訊 newsletter) — no new absorbable facts, no conflicts to HOLD.
 
 ## Sources
 - [TAH #164 encyclopedia: 164. 郭慈安博士 Dr. Tsuann Kuo / 第一個老年學的 Ph.D. / 1991](https://taiwaneseamericanhistory.org/164-%e9%83%ad%e6%85%88%e5%ae%89%e5%8d%9a%e5%a3%ab-dr-tsuann-kuo-%e7%ac%ac%e4%b8%80%e5%80%8b%e8%80%81%e5%b9%b4%e5%ad%b8%e7%9a%84-ph-d-1991/)

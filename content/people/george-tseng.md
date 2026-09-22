@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # Dr. George Tseng (曾水福博士)
 
@@ -37,6 +37,7 @@ last_reviewed: 2026-09-21
 
 ## Role in the Community
 
+- Corpus re-grep 2026-09-22 (slice 09212352-11): SKIP — hit set unchanged (#96, #76, #70, #683, #380, footsteps-29), all already linked above; no new absorbable material.
 - TAH Who's Who 收錄其人無編號條目 #1478「George Tseng 曾水福」（2017-01-23 發佈）：[[works/taiwaneseamericanhistory-org/whoswho1478-2|1478. George Tseng 曾水福 / 2017/01]]。館藏記錄中其姓名英譯出現三種寫法（Dr. George Tseng / S. George Tseng / George S. Tseng，見 #70、#76、#96、#380）— HOLD: conflict middle-initial placement S. George vs George S.，未便逕行合併。
 - 兩度獲美國國會紀錄表揚（United States Congressional Records，2014 與 2016）：[[works/taiwaneseamericanhistory-org/70-recipient-of-the-united-states-congressional-records|70. Recipient of the United States Congressional Records/Dr. S. George Tseng 曾水福博士/Two Times 2014 & 2016]]（2018-10）。
 - 第一位在美國職棒大聯盟開球（throw the first pitch）的台美人 — 2016-07-29 於邁阿密馬林魚主場：[[works/taiwaneseamericanhistory-org/380-dr-george-tseng|380. The First Taiwanese American to Throw the First Pitch of the U. S. Major League Baseball/Miami Marlins: Dr. George Tseng in Miami FL 07/29/2016]]；同一事件的獨立館藏記錄見 [[works/taiwaneseamericanhistory-org/128-pitch-dr-george-tseng|128. The Ceremonial First Pitch of the U.S. Major League Baseball/Miami Marlins by Dr. George Tseng]]；藝術家李淑櫻（Nami Yang）其後以畫作記錄此歷史性一刻（[[works/taiwaneseamericanhistory-org/footsteps-29|29. Dr. George Tseng’s First Pitch By Artist Nami Yang (李淑櫻)/2019]]，2019-05）。
