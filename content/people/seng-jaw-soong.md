@@ -50,6 +50,8 @@ _No filled family fields on the TAH profile._
 
 - 2026-09-22 deepen-x slice 09210600-20: re-verified — fresh grep for 宋盛照/Seng-Jaw over works+articles returns only own TAH record #1482 and the works index; the other 'Soong' hit (Our Journeys 74 NATMA memoir) is 宋美齡, and whos-who-1662 is a different Soong (Yabo). Nothing absorbable.
 
+- 2026-09-22 deepen-x slice 09220400-32: re-verified — fresh grep 宋盛照/Seng-Jaw Soong returns only own TAH record #1482 and the works index, already wikilinked above. No new memoir/article mentions.
+
 ## Sources
 - [TAH #1482 encyclopedia: 1482. Seng-Jaw Soong 宋盛照 / 2017/01](https://taiwaneseamericanhistory.org/whoswho1482/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/seng-jaw-soong/)
