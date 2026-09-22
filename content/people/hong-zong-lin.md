@@ -43,6 +43,7 @@ _No filled family fields on the TAH profile._
 
 ## Corpus re-grep (2026-09-20, slice 09190130-19)
 - SKIP: re-grep 林宏容 / Hong Zong Lin（content/works + content/articles）命中集與前次相同 — 本人回忆錄 [[works/taiwaneseamericanhistory-org/mystories-748|TAH My Stories #748]]、TAH 檔案 [[works/taiwaneseamericanhistory-org/whoswho1302|TAH #1302]]、works index 目次、及兩篇已吸收於上方 From the record 的 TJJ 文章（鄭寶鼎紀念文、2018 台大校友連署信）；無其他可吸收語料。
+- Re-verified 2026-09-22 (slice 09211400-24): hit set identical to above (My Stories #748、TAH #1302、works index、兩篇已吸收 TJJ 文章)。無新語料。SKIP-for-deepening.
 
 ## Sources
 - [TAH #1302 encyclopedia: 1302. Hong Zong Lin 林宏容 / 2016/10](https://taiwaneseamericanhistory.org/whoswho1302/)

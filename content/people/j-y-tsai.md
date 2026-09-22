@@ -42,6 +42,7 @@ _No filled family fields on the TAH profile._
 - HOLD: founding year conflict — page's accomplishment line says 1973; corpus records #262 and the 30th-anniversary memoir both say 1974-08-17. Not auto-merged.
 
 - Re-verified 2026-09-21: corpus re-grep returns only #2061, #262, mystories552, ourjourneys295 already linked above; the 1974-08-17 founding account is unchanged. SKIP: verified-saturated (HOLD 1973 vs 1974 stands).
+- Re-verified 2026-09-22 (slice 09211400-24): hit set unchanged (same four works + works index). SKIP: verified-saturated; HOLD 1973 vs 1974 stands.
 
 ## Sources
 - [TAH #2061 encyclopedia: 2061. J. Y. Tsai 蔡金裕](https://taiwaneseamericanhistory.org/whos-who-2061-j-y-tsai/)

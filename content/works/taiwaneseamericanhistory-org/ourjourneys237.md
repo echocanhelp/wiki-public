@@ -111,6 +111,7 @@ Posted in 08/2016
 - 2016-08-10 — published
 
 ## Subjects
+- [[people/hsu-hsin-liang.md|許信良]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages
