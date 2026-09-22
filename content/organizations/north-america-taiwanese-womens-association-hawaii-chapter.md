@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # North America Taiwanese Women’s Association – Hawaii Chapter (北美洲台灣婦女會夏威夷分會)
 
