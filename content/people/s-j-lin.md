@@ -47,7 +47,7 @@ last_reviewed: 2026-09-22
 - **1989–1990** — 秘書長兼財務 of NATPA (National Association of Taiwanese Professionals in America). He sent three notices to all members urging attendance and donations for the ten-year anniversary annual meeting, and his registration tally triggered the third preparatory meeting that confirmed NATPA's first-ever return annual meeting in Taipei (1990). Listed on the conference 會務組 roster (秘書/財務) alongside 會長林靜竹 and創會顧問廖述宗 in [[works/taiwaneseamericanhistory-org/ourjourneys47|賴義雄/NATPA十年籌備回忆]].
 - **2016-10** — Author of the memoir 憶吾妻, a community-historical record of his late wife held in the corpus: [[works/taiwaneseamericanhistory-org/mystories471|471. 憶吾妻 / 林宣繼 / 10/2016]]. HOLD: the memoir's subject and the Family section's wife entry (李惠英) likely refer to the same person, but dates were not auto-merged.
 - **2018-05** — TAH Who's Who encyclopedia entry archived as [[works/taiwaneseamericanhistory-org/whoswho2112|2112. S. J. Lin 林宣繼 / 05/2018]].
-- SKIP-with-reason (re-verified 2026-09-21): a fresh corpus grep returns only the works already absorbed above plus the works index — no additional memoir or community text, so no new facts added.
+- SKIP-with-reason (re-verified 2026-09-22): a fresh corpus grep (林宣繼 / S. J. Lin) returns only the works already absorbed above (our-journeys-378, ourjourneys47, mystories471, whoswho2112) — no additional memoir or community text, so no new facts added.
 
 ## Sources
 - [TAH #2112 encyclopedia: 2112. S. J. Lin 林宣繼 / 05/2018](https://taiwaneseamericanhistory.org/whoswho2112/)
