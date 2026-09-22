@@ -53,4 +53,4 @@ _No filled family fields on the TAH profile._
 
 last_reviewed note: corpus-absorbed 2026-09-17; re-verified 2026-09-18 (deepen-x) — corpus re-grep returns only ourjourneys14, ourjourneys43 and the #1698 profile, all already linked above; nothing further absorbable.
 
-slice 09190130-8 / 09201400-18 / 09211400-10 re-grep (through 2026-09-22): corpus hit set identical to links already absorbed above (ourjourneys14, ourjourneys43, #1698) — no new absorbable facts. SKIP (saturated).
+slice 09190130-8 / 09201400-18 / 09211400-10 / 09220800-23 re-grep (through 2026-09-22): corpus hit set identical to links already absorbed above (ourjourneys14, ourjourneys43, #1698) — body text re-checked (TAFPC 第三任牧師 2007-01-21 installation; 聖恩 itinerary preachers list), both already absorbed. No new absorbable facts. SKIP (saturated).
