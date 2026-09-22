@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # Chen Chang Lee (李振昌)
 
@@ -31,7 +31,7 @@ Accomplishment
 <!-- tah-tables:end -->
 
 ## Role in the Community
-- 2017-07-09 — profiled in the TAH encyclopedia corpus: [[works/taiwaneseamericanhistory-org/whos-who-1749-chen-chang-lee|1749. Chen Chang Lee 李振昌]]. Bibliographic record only (full text stays in the vault); no additional community/corpus facts absorbable beyond the press-kit career facts already above — no invented biography added.
+- 2017-07-09 — profiled in the TAH encyclopedia corpus: [[works/taiwaneseamericanhistory-org/whos-who-1749-chen-chang-lee|1749. Chen Chang Lee 李振昌]]. Re-grepped 2026-09-22: still bibliographic record only (full text stays in the vault); no additional community/corpus facts absorbable beyond the press-kit career facts already above — no invented biography added.
 
 ## Family
 
