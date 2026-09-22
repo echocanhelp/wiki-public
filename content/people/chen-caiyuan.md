@@ -39,7 +39,7 @@ TAH Foundation Who’s Who slug `rex-chen`. **Not** TAHS member [[people/rex-che
 - 台美會計師協會 — 副會長
 - Corpus record: TAH Who's Who entry 2046 (published 2018-02-26, value band B, bibliographic record only — full text stays in the vault) — [[works/taiwaneseamericanhistory-org/whoswho2046|2046. Rex Chen 陳財元 / 02/2018]].
 
-Review note (2026-09-21): fresh grep of `content/works` / `content/articles` for 陳財元 / Rex Chen returns only the linked TAH #2046 record and `works/index` — no memoir or movement-organization mentions elsewhere in the vault → SKIP (nothing absorbable).
+Review notes (2026-09-21, incl. slice 09210317-29): fresh grep of `works` / `articles` for 陳財元 / Rex Chen returns only the linked TAH #2046 record and `works/index` — no memoir or movement-organization mentions elsewhere in the vault → SKIP (nothing absorbable).
 
 TAH harvest `birth_year` field is `1949-2003` (death 2003). TAH text: “Passed Away 2003.”
 

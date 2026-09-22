@@ -36,7 +36,7 @@ _No filled family fields on the TAH profile._
 
 ## Role in the Community
 - Community record: his TAH Who's Who entry is preserved in the corpus as [[works/taiwaneseamericanhistory-org/whos-who-2068-ker-chau-li|2068. Dr. Ker-Chau Li 李克昭博士]] (published 2018-03-22).
-- Corpus re-grep 2026-09-17 (slice 09171100-12) and again 2026-09-21 (slice 09191100-32): 李克昭 / Ker-Chau Li across content/works + content/articles returns only his own TAH stub plus the harvest index — no memoir or third-party mention adds facts. SKIP-no-new-material; no conflicts to hold.
+- Corpus re-grep 2026-09-17 (slice 09171100-12), 2026-09-21 (slices 09191100-32, 09210317-29): 李克昭 / Ker-Chau Li across works + articles returns only his own TAH stub plus the harvest index — no memoir or third-party mention adds facts. SKIP-no-new-material; no conflicts to hold.
 
 ## Sources
 - [TAH #2068 encyclopedia: 2068. Dr. Ker-Chau Li 李克昭博士](https://taiwaneseamericanhistory.org/whos-who-2068-ker-chau-li/)
