@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # Rev. Martin C. Wang (王成章牧師)
 
@@ -44,6 +44,7 @@ last_reviewed: 2026-09-21
 - HOLD: conflict on birth year — Identity Snapshot era 1953 vs #392 interview 1935, born in Yilan to a Christian family (grandfather 王春生傳道師, a student of Dr. Mackay; father 王兼優, elder of Yilan Church).
 - HOLD: conflict on undergraduate college — page lists 台灣神學院 B.Th vs #392 says 台南神學院 after 宜蘭高中.
 - HOLD: M.Th year — page lists Union Theological Seminary in Virginia 1964 vs #392 says he left for the US in 1964 and earned the degree three years later (~1967).
+- Supply pastor during the inter vacancy of the NJ 台美團契基督長老教會 (New Brunswick area): before 謝敏川牧師's installation as the church's second pastor on 1986-11-02, 王成章 preached alongside 張德香牧師 and 黃武東牧師 to sustain the congregation — church history [[works/taiwaneseamericanhistory-org/ourjourneys14|#14 紐澤西台美團契基督長老教會歷史]] (extends the #43 Lawrenceville supply-preaching record).
 - Re-grep 2026-09-21: corpus hits (#392 interview, #338 張啟典, #268 徐頌鵬, #43 劉照男, #1429 Who's Who) are all already absorbed above. #338 adds color to the 1977 Brown University assembly where Wang preached: 張啟典 records a suspected 國民黨 spy (flat haircut, mainland accent, fake NY phone number) disrupting that year's assembly, and the 1977 program mixed pastors (吳明雄、鄭義勇、郭榮敏、王成章、林興隆) with speakers 陳錦芳、洪哲勝、李豐明, plus a 張金策 human-rights report — [[works/taiwaneseamericanhistory-org/ourjourneys338|#338]]. HOLDs above remain unresolved.
 
 ## Sources
