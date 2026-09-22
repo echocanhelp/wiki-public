@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # Chihmei Lin Chen (林智美)
 
@@ -50,6 +50,7 @@ last_reviewed: 2026-09-21
 - 2018-07-20 — Signed as 林智美(心理) among the ~170 台大校友 co-signatories of the open letter protesting 南加州台大校友會 inviting 管中閔 to speak at its 2018 annual meeting amid the disputed 校長遴選 case ([[articles/taiwanjustice-net/2018/20180721091303_2018_07_20_抗議-南加州台大校友會邀管中閔來年會做專題演講_a428dcebbceacf38|TJJ, 2018-07-20]]).
 - Corpus re-grep 2026-09-21 (slice 09191100-19): hits unchanged — [[works/taiwaneseamericanhistory-org/whoswho1312|TAH #1312]], [[works/taiwaneseamericanhistory-org/ourjourneys79|Our Journeys 79]], [[works/taiwaneseamericanhistory-org/publications-111|publication 111]] and the 2018 TJJ letter, all already cited above. No new material.
 - Corpus re-grep 2026-09-21 (slice 09210317-14): hits identical (same 5 files). One corroboration worth noting: the 2018 TJJ co-signatory roster lists 陳文彥(心理) immediately beside 林智美(心理) — her husband 陳文彥 is himself an NTU 心理 alumnus co-signatory, so the family's movement participation is double-threaded in that record ([[articles/taiwanjustice-net/2018/20180721091303_2018_07_20_抗議-南加州台大校友會邀管中閔來年會做專題演講_a428dcebbceacf38|TJJ, 2018-07-20]]).
+- Corpus re-grep 2026-09-22 (DEEPEN-X slice 09212352-21): hit-set identical (same 5 files: #1312, Our Journeys 79, publication 111, works index, 2018 TJJ letter), all already cited above. SKIP-content, nothing new absorbable.
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

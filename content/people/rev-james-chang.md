@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # Rev. James Chang (張拯民牧師)
 
@@ -58,3 +58,4 @@ The pastor's own TAH Foundation encyclopedia record is held in the corpus as [[w
 
 HOLD: name collision — the corpus also contains [[works/taiwaneseamerican-org/chef-james-chang|Pop-Up Chef James Chang (Kansas City, 2024)]], a different James Chang (chef, not the pastor). Do not merge.
 - 2026-09-21 corpus re-grep (DEEPEN-X slice 09210051-6): hit-set unchanged — own TAH #1812 record, works index, and the unrelated Pop-Up Chef entry (HOLD above). SKIP-content: nothing new absorbable.
+- Corpus re-grep 2026-09-22 (DEEPEN-X slice 09212352-21): hit-set identical (ZH+EN grep: #1812, works index, Pop-Up Chef HOLD) — nothing new absorbable.
