@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # Taiwanese Student Association at UCLA
 
@@ -30,3 +30,5 @@ HOLD: the corpus memoirs document pre-1988 Taiwanese student activity at UCLA bu
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+> Corpus re-verify (deepen-x 09210700-30): fresh grep of works/ + articles/ for TSA UCLA / ucla.tsa — zero corpus hits; the page's existing memoir material (生活座談會, 半世紀前 UCLA) and HOLD notes remain current. SKIP-deepen; nothing new absorbable.

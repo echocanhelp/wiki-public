@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # LAPC Music Foundation (洛杉磯樂音音樂基金會)
 
@@ -30,3 +30,5 @@ LAPC Music Foundation is an arts and cultural organization based in Garden Grove
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+> Corpus re-verify (deepen-x 09210700-30): fresh grep of works/ + articles/ for 樂音 / LAPC Music returned the page's own records (TAH 19, concerts86) plus false positives — 樂音 used as the common word "musical sound" in memoir prose (ourjourneys3/226/269) and 荒漠樂音 – 善友樂團風華 ([[works/taiwaneseamericanhistory-org/publications1215|TAH #1215]], a different High Desert ensemble, not this foundation). SKIP-deepen; nothing new absorbable.
