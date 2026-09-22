@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # Henty Chen (陳華山)
 
@@ -37,7 +37,7 @@ last_reviewed: 2026-09-21
 ## Role in the Community
 - Community encyclopedia entry preserved in the corpus: [[works/taiwaneseamericanhistory-org/461-henty-chen-e9-99-b3-e8-8f-af-e5-b1-b1201506|461. Henty Chen 陳華山 / 2015/06]] (2015-06-25) — TAHS recorded his story as part of the Taiwanese American physician cohort from 台南.
 - Physician, 台北醫學院 M.D.; self-employed practice per TAH profile.
-- Corpus scan 2026-09-21: no memoir/article mentions beyond the encyclopedia record and the spouse record [[works/taiwaneseamericanhistory-org/whos460-huai-shion-tsai|460. Huai Shion Tsai 蔡蕙香]]; nothing further absorbable (SKIP).
+- Corpus scan 2026-09-22: no memoir/article mentions beyond the encyclopedia record and the spouse record [[works/taiwaneseamericanhistory-org/whos460-huai-shion-tsai|460. Huai Shion Tsai 蔡蕙香]]; nothing further absorbable (SKIP).
 
 ## Sources
 - [TAH #461 encyclopedia: 461. Henty Chen 陳華山/2015/06](https://taiwaneseamericanhistory.org/461-henty-chen-%e9%99%b3%e8%8f%af%e5%b1%b1201506/)

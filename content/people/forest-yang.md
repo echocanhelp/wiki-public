@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # Forest Yang (楊舜惠)
 
@@ -34,7 +34,7 @@ Political Officer
 <!-- tah-tables:end -->
 
 ## Role in the Community
-- Corpus scan 2026-09-21 (re-verified): the only corpus record naming him is his own TAH directory entry ([[works/taiwaneseamericanhistory-org/whoswo1786|TAH #1786]], a bibliographic record already cited below). No memoir or community-history material found — nothing absorbable.
+- Corpus scan 2026-09-22 (re-verified, slice 09210906-4): the only corpus record naming him is his own TAH directory entry ([[works/taiwaneseamericanhistory-org/whoswo1786|TAH #1786]], a bibliographic record already cited below). No memoir or community-history material found — nothing absorbable.
 
 ## Family
 

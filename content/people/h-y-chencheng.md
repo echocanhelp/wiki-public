@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # H. Y. ChenCheng (陳鄭弘堯)
 
@@ -30,7 +30,7 @@ last_reviewed: 2026-09-21
 
 From 台灣台中烏日 (era 1972); B.S. New Jersey 醫學學院, M.S. 語言 Montclair State University.
 
-Corpus sweep (2026-09-21): the only hits in content/works / content/articles are the own Who's Who record [[works/taiwaneseamericanhistory-org/whoswho1888|TAH #1888 H. Y. ChenCheng 陳鄭弘堯]] (bibliographic stub; full text stays in the vault) and the index. No memoir, article, or community-activity mention found — nothing further absorbable.
+Corpus sweep (re-verified 2026-09-22; was 2026-09-21): the only hits in content/works / content/articles are the own Who's Who record [[works/taiwaneseamericanhistory-org/whoswho1888|TAH #1888 H. Y. ChenCheng 陳鄭弘堯]] (bibliographic stub; full text stays in the vault) and the index. No memoir, article, or community-activity mention found — nothing further absorbable.
 
 ## Family
 
