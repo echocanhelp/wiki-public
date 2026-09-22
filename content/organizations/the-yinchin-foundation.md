@@ -27,6 +27,10 @@ last_reviewed: 2026-09-22
 - The foundation's own profile is held in the TAH story corpus as record #40: [[works/taiwaneseamericanhistory-org/yin-chin-foundation-of-u-s-a|40. YIN CHIN FOUNDATION OF U.S.A. 美國殷勤文教公益基金會, 2016-07-26]] (band B).
 - Founder 殷清隆 has his own TAH Who's Who record in the corpus: [[works/taiwaneseamericanhistory-org/whoswho1437|1437. C. L. Yin 殷清隆 / 2016-12]] (band B).
 
+## Worklog
+
+- 2026-09-22 deepen-x slice 09220500-15: re-verified — fresh grep returns only works already wikilinked (awards67, #40 profile, whoswho1437) plus the WHA 聯合聲明 already cited; other 殷勤 hits are false positives (chorale memoir, prose 殷勤=assiduous). Nothing new absorbable.
+
 ## Source Notes
 
 - **Content priority A:** Name on Taiwan Center group-members page  

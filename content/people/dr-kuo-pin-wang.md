@@ -46,6 +46,7 @@ Accomplishment
 ## Worklog
 
 - 2026-09-22 deepen-x slice 09210600-21: re-verified — fresh grep returns the identical hit set (whos-who-1740, works index, TJJ 2018-07-20 column), all already wikilinked above. Nothing new absorbable.
+- 2026-09-22 deepen-x slice 09220500-15: re-verified — identical hit set again (whos-who-1740, works index, TJJ 2018-07-20 column), all linked. No change.
 
 ## Sources
 - [TAH #1740 encyclopedia: 1740. Dr. Kuo-Pin Wang 王國斌博士](https://taiwaneseamericanhistory.org/whos-who-1740-kuo-pin-wang/)

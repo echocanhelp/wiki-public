@@ -43,6 +43,10 @@ _No filled family fields on the TAH profile._
 - 2009年會館遷至 San Jose 迦南教會二樓過程中，與翁嘉盛同為會址線索的重要提供者在列（[[works/taiwaneseamericanhistory-org/ourjourneys53|Our Journeys 53]]）。
 - TAH 百科個人條目存檔於語料庫（[[works/taiwaneseamericanhistory-org/whoswho1072|1073. Chun Chiu 邱俊邦]]）。
 
+## Worklog
+
+- 2026-09-22 deepen-x slice 09220500-15: re-verified — fresh grep returns only works already wikilinked (Our Journeys 19/24/53 incl. -eng variants, whoswho1072) plus the 國策顧問 roster already cited under From the record. Nothing new absorbable.
+
 ## Sources
 - [TAH #1073 encyclopedia: 1073. Chun Chiu 邱俊邦 / 2016/06](https://taiwaneseamericanhistory.org/whoswho1072/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/chun-chiu/)
