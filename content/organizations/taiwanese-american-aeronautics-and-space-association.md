@@ -25,6 +25,7 @@ last_reviewed: 2026-09-22
 - The broader corpus shows the movement-era aerospace cohort TASSA draws from: Dr. William Ko 柯威霖, the NASA scientist with the longest employment record there, forty years 1978–2018 — [[works/taiwaneseamericanhistory-org/383-dr-william-kuo|TAH record 383: Dr. William Ko]]. The corpus also preserves the 謝清志 / 台翔 aerospace-return episode (works/taiwaneseamericanhistory-org/ourjourneys253.md, ourjourneys261.md) from the same professional milieu.
 - The 1965-immigration-law founding context is independently corroborated in 楊遠薰's band-A memoir of the Taiwanese migration wave — [[works/taiwaneseamericanhistory-org/ourjourneys236|236. 台灣人的移美潮 / 楊遠薰 /08/2016]] — which records that the 1965 law gave Taiwanese STEM doctoral students a path to legal residence and entry into U.S. government, university, national-lab, and corporate jobs: the same professional pool from which TASSA formed.
 - Re-grep 2026-09-22 (slice 09211400-11): corpus hits (record 2, 383, ourjourneys236, 斯人已逝 memoir) all absorbed; no new material, no conflicts.
+- Re-grep 2026-09-22 (slice 09220800-24): fresh ZH+EN+TASSA grep — hits are record 2, works/index, and the 斯人已逝 鄭寶鼎 memoir; all already absorbed above. Verified saturated; nothing absorbable, no conflicts.
 
 ## Source Notes
 
