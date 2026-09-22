@@ -25,6 +25,9 @@ Community-press coverage names NYU TASS directly across the 2011–2013 wave of 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/nyu-taiwanese-american-student-society/)
 
+## Re-grep log
+- Corpus re-grep 2026-09-21 (slice 09210317-4): SKIP — no corpus hit names TASS. New NYU matches are unrelated: NYU Langone-Brooklyn as a mask-donation recipient (Our Journeys #360 context), Ang Lee as an NYU alum (TA.org film essay), and Audrey Tseng (NYU undergrad active in TANG/FAPA-YPG, not TASS) in Keep Taiwan Free / Reflections on 228 — no facts attributable to this org.
+
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
