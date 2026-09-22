@@ -49,3 +49,5 @@ last_reviewed: 2026-09-22
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 > Corpus re-scan 2026-09-22 (deepen-x slice 09210800-19): fresh grep works/+articles/ — hit set unchanged from prior absorption; all records already wikilinked above. SKIP-deepen; nothing new absorbable.
+
+> Corpus re-scan 2026-09-22 (deepen-x slice 09220500-21): fresh grep works/+articles/ for 王震昭 / Chen-Chao Wang — hit set still only ourjourneys278, whoswho1572, works index, all already wikilinked above. SKIP-deepen; nothing new absorbable.

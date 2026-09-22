@@ -49,3 +49,5 @@ _No filled family fields on the TAH profile._
 > Corpus re-scan 2026-09-21 (deepen-x slice 09200700-23): re-scanned works/ and articles/ for 張理盈 / Li-Ying Chang — only the works index and the two TAH records already wikilinked above. SKIP-deepen; nothing absorbable; HOLD on degree-level conflict stands.
 
 > Corpus re-scan 2026-09-22 (deepen-x slice 09210800-19): fresh grep works/+articles/ — hit set unchanged from prior absorption; all records already wikilinked above. SKIP-deepen; nothing new absorbable.
+
+> Corpus re-scan 2026-09-22 (deepen-x slice 09220500-21): fresh grep works/+articles/ for 張理盈 / Li-Ying Chang — hit set still only whoswho1206, musician353, works index, all already wikilinked. SKIP-deepen; HOLD on degree-level conflict stands.
