@@ -28,6 +28,10 @@ last_reviewed: 2026-09-21
 - Self-Employed (Hotel) — Owner — Community — FAPA-San Diego Chapter — President — Taiwanese Chamber of Commerce San Diego Branch — President
 <!-- tah-tables:end -->
 
+## Role in the Community
+- Community leadership per the TAH Who's Who harvest: President of the FAPA-San Diego Chapter and President of the San Diego branch of the Taiwanese Chamber of Commerce; owner of a self-employed hotel business (see Education/Employment tables above).
+- Corpus re-grep 2026-09-21: the only hit across works/ and articles/ remains this page's own TAH encyclopedia record — no memoir/community narrative to absorb (SKIP-deepened this pass).
+
 ## Family
 
 _No filled family fields on the TAH profile._
