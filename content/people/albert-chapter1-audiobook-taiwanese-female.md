@@ -4,7 +4,7 @@ type: person
 tags:
   - 
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # Albert Chapter 1 Audiobook（第一章有聲版）
 
@@ -47,3 +47,4 @@ Pages that link to **albert-chapter1-audiobook-taiwanese-female** (albert-chapte
 - [[people/albert-s-lai||Dr. Albert S. Lai (賴信雄)]]
 
 <!-- deepen-x slice 09191200-28 recheck 2026-09-21: SKIP — fresh grep of works/+articles matched only own TAH whos-who work page and works/index; no independent memoir/article material. -->
+<!-- deepen-x slice 09210900-21 recheck 2026-09-22: SKIP — fresh grep matched only an unrelated 'Taiwanese female body' line in [[works/taiwaneseamerican-org/elaine-hsieh-chou-interview|Elaine Hsieh-Chou interview]] (idiom false positive, no facts about this audio production). -->

@@ -37,6 +37,7 @@ Re-checked corpus: the only hits for 王梓仁 / Dennis Wang in works+articles a
 ## Role in the Community
 - His TAH Who's Who encyclopedia entry is held in the corpus as [[works/taiwaneseamericanhistory-org/537-dennis-wang-e7-8e-8b-e6-a2-93-e4-bb-81-201508|537. Dennis Wang 王梓仁 / 2015/08]] (published 2015-08-18) — the bibliographic record behind this page.
 - No other community mentions in corpus memoirs/articles.
+- Re-checked 2026-09-22 (deepen-x 09210900-21): fresh grep again returned only own TAH #537 record + works index — SKIP.
 
 ## Sources
 - [TAH #537 encyclopedia: 537. Dennis Wang 王梓仁 / 2015/08](https://taiwaneseamericanhistory.org/537-dennis-wang-%e7%8e%8b%e6%a2%93%e4%bb%81-201508/)

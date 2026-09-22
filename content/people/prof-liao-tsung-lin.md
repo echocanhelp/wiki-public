@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # Prof. Liao-Tsung Lin (林料總教授)
 
@@ -45,3 +45,4 @@ SKIP: corpus check found no community material beyond the person's own TAH encyc
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 > SKIP re-check (deepen-x 09191200-29, 2026-09-21): fresh grep of content/works + content/articles returned only this person own TAH bibliographic record — no community/memoir material to absorb.
+> SKIP re-check (deepen-x 09210900-21, 2026-09-22): fresh grep returned only own [[works/taiwaneseamericanhistory-org/whos-who-2110-liao-tsung-lin|TAH #2110]] record + works index — nothing to absorb.
