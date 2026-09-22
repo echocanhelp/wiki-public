@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # Taiwanese Scholar Society
 
@@ -20,7 +20,7 @@ The Taiwanese Scholar Society (TSS) at Carnegie Mellon University is a student o
 
 ## Role in the Community
 
-Fresh corpus grep (2026-09-20, re-verified 2026-09-21: still zero hits, "Taiwanese Scholar Society" / CMU / Carnegie Mellon) found no material about this CMU club itself. The CMU mentions in the corpus concern other subjects:
+Fresh corpus grep (2026-09-20, re-verified 2026-09-22: still zero hits, "Taiwanese Scholar Society" / CMU / Carnegie Mellon) found no material about this CMU club itself. The CMU mentions in the corpus concern other subjects:
 
 - [[works/taiwaneseamericanhistory-org/ourjourneys8-eng|Our Journeys — 陳文成 testimony (Chen Wen-Cheng)]] — 陳文成 was a CMU math professor; the movement account names CMU President Richard Cyert and Prof. Morris DeGroot
 - [[works/taiwaneseamerican-org/erin-li-brings-filmmaking-and-storytelling-to-life|Erin Li interview]] — a CMU alumna filmmaker, unrelated to TSS

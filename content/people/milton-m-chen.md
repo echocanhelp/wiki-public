@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # Milton M. Chen (程孟郎教授)
 
@@ -41,7 +41,7 @@ last_reviewed: 2026-09-21
 
 
 ## Role in the Community
-SKIP-with-reason (deepen-x 09171500-12, 2026-09-18): corpus grep (程孟郎 / Milton M. Chen in content/works + content/articles) hit only his own TAH record [[works/taiwaneseamericanhistory-org/742-milton-m-chen-e7-a8-8b-e5-ad-9f-e9-83-8e-201512|742. Milton M. Chen 程孟郎 2015/12]] — a band-B bibliographic entry (full text stays in the vault), no memoir or community material to absorb. No facts added beyond the TAH press-kit record above. Re-verified 2026-09-20 (deepen-x slice 09181500-21): re-grep across content/works + content/articles — hit set unchanged (own TAH record + index row only); SKIP-with-reason stands. Re-verified again 2026-09-21 (deepen-x slice 09201503-22): hit set still unchanged — no memoir/community material.
+SKIP-with-reason (deepen-x 09171500-12, 2026-09-18): corpus grep (程孟郎 / Milton M. Chen in content/works + content/articles) hit only his own TAH record [[works/taiwaneseamericanhistory-org/742-milton-m-chen-e7-a8-8b-e5-ad-9f-e9-83-8e-201512|742. Milton M. Chen 程孟郎 2015/12]] — a band-B bibliographic entry (full text stays in the vault), no memoir or community material to absorb. No facts added beyond the TAH press-kit record above. Re-verified 2026-09-20 (deepen-x slice 09181500-21): re-grep across content/works + content/articles — hit set unchanged (own TAH record + index row only); SKIP-with-reason stands. Re-verified 2026-09-22 (deepen-x slice 09211507-30): re-grep ZH+EN — hit set unchanged (own TAH record + index row only); no memoir/community material.
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/milton-m-chen/)

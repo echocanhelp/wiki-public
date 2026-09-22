@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # Peggy Liao (廖碧玉)
 
@@ -43,6 +43,8 @@ last_reviewed: 2026-09-21
 - Authored the TAH story-corpus literary piece 草與露 (2013/03, Literature), held as community historical record: [[works/taiwaneseamericanhistory-org/257-e8-8d-89-e8-88-87-e9-9c-b2-e5-bb-96-e7-a2-a7-e7-8e-89-2013-03-e6-96-87-e5-ad|257. 草與露 / 廖碧玉]] — she appears in the corpus as a TA community writer, not only a banking professional.
 - Her TAH Who's Who profile #79 is itself held as a community record: [[works/taiwaneseamericanhistory-org/79-peggy-liao-e5-bb-96-e7-a2-a7-e7-8e-89|79. Peggy Liao 廖碧玉]] (published 2014-11-05).
 - No memoir or community text in the corpus conflicts with the TAH profile fields (NTNU 國文 1972 → Toronto 東亞研究所 1985 → Canadian banking career).
+
+- Re-verified 2026-09-22 (deepen-x slice 09211507-27): re-grepped ZH+EN against content/works + content/articles; hit set unchanged from prior pass — verified-saturated, no new corpus material absorbable.
 
 ## Sources
 - [TAH #79 encyclopedia: 79. Peggy Liao 廖碧玉](https://taiwaneseamericanhistory.org/79-peggy-liao-%e5%bb%96%e7%a2%a7%e7%8e%89/)
