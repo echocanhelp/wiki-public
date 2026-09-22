@@ -32,7 +32,7 @@ Dr. Christopher Shih 石慶愷醫師 – History of Taiwanese American (T.A. Arc
 
 ## Role in the Community
 
-- **TAH Who's Who record:** profile #1709 (2017-07-01) held in the story corpus — the only corpus record for 石慶愷; no memoir/community material beyond the profile itself — [[works/taiwaneseamericanhistory-org/whos-who-1709-christopher-shih|1709. Dr. Christopher Shih 石慶愷醫師]].
+- **TAH Who's Who record:** profile #1709 (2017-07-01) held in the story corpus — the only corpus record for 石慶愷; no memoir/community material beyond the profile itself (re-swept 2026-09-22: no third-party mentions in works/articles) — [[works/taiwaneseamericanhistory-org/whos-who-1709-christopher-shih|1709. Dr. Christopher Shih 石慶愷醫師]].
 
 ## Family
 

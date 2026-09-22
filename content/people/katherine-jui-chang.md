@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # Katherine Jui Chang (張瑞佩)
 
@@ -26,7 +26,7 @@ last_reviewed: 2026-09-21
 <!-- tah-tables:end -->
 
 ## Role in the Community
-- Name appears only in its own TAH Who's Who profile record [[works/taiwaneseamericanhistory-org/whos-katherine-jui-chang|1970. Katherine Jui Chang 張瑞佩 /12/2017]] (2017/12). No mentions found in memoirs or articles on fresh 2026-09-21 ZH+EN corpus greps — biographical detail beyond the TAH profile remains unknown (SKIP-with-reason; no absorbable community facts).
+- Name appears only in its own TAH Who's Who profile record [[works/taiwaneseamericanhistory-org/whos-katherine-jui-chang|1970. Katherine Jui Chang 張瑞佩 /12/2017]] (2017/12). No mentions found in memoirs or articles on fresh 2026-09-21 and 2026-09-22 (slice 09210906-18) ZH+EN corpus greps — biographical detail beyond the TAH profile remains unknown (SKIP-with-reason; no absorbable community facts).
 
 ## Family
 

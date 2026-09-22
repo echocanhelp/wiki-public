@@ -35,6 +35,7 @@ last_reviewed: 2026-09-21
 
 ## Role in the Community
 - Profiled in the TAH Foundation story corpus: [[works/taiwaneseamericanhistory-org/whos-who-1980-elaine-kate-liu|1980. Elaine Kate Liu]] (published 2017-12-26, band B) — the corpus record post-dates her listed lifespan 1975–2017, consistent with a memorial-era profile of a young Taiwanese American engineer; held as community historical record.
+- Father 劉協同 appears independently in the corpus memoir [[works/taiwaneseamericanhistory-org/ourjourneys123|Our Journeys 123]]: 同鄉會會長 (2010) and Honeywell 終身成就獎 — see his own page [[people/dr-sie-tung-liu|Dr. Sie-Tung Liu 劉協同博士]] and record [[works/taiwaneseamericanhistory-org/whos-who-155-sie-tung-liu|155. Dr. Sie-Tung Liu 劉協同博士]].
 - Note: the corpus "Elaine Liu Memorial Scholarships" record ([[works/taiwaneseamericanhistory-org/elaine-liu-memorial-scholarships|82. Elaine Liu 紀念獎學金]]) concerns Elaine Liu 黃久香 ([[people/elaine-liu]]), a different person — no link asserted.
 
 ## Sources
