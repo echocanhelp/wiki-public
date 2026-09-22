@@ -29,3 +29,7 @@ _(none yet — this is a redirect stub. Content will be populated when the canon
 Chronological events for **North American Taiwanese Medical Association Foundation**:
 
 _(none yet — this is a redirect stub.)_
+
+## Note (deepen 2026-09-21, vault-only)
+
+The canonical page **[[organizations/north-american-taiwanese-medical-association-foundation|NATMA Foundation]]** has since been deepened (mission records, scholarship, chapter pages). Corpus records for the parent association live at [[works/taiwaneseamericanhistory-org/enewsletter-natma|NATMA eNewsletter]]. No further absorbable material for this stub.
