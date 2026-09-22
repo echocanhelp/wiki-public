@@ -42,6 +42,9 @@ last_reviewed: 2026-09-22
 - Community record [[works/taiwaneseamerican-org/celebrate-tahw-2|Celebrate Taiwanese American Heritage Week]] (absorbed 2026-09-22) restates the 1999 origin: "In 1999, Congressman David Wu (OR) and the co-chairs of the Congressional Taiwan Caucus supported the celebration of Taiwanese American Heritage Week starting each Mother's Day Weekend during the month of May."
 - HOLD: conflict in Chinese name — TAH page record 吳振**瑋** vs corpus memoir/record titles 吳振**偉**; not auto-merged.
 
+## Corpus check (2026-09-22)
+- Idempotent re-verify (slice 09220500-12): fresh grep — hit set (27, mr-david-wu-oregon, david-wu, 67, works index, taiwanese-american-heritage-week) fully linked above; the 吳振偉 vs 吳振瑋 HOLD stands; no new absorbable facts.
+
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/david-wu/)
 

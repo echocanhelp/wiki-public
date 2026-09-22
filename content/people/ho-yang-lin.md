@@ -40,6 +40,8 @@ last_reviewed: 2026-09-22
 - Subject of the 民視台灣學堂「這些人這些事」feature 台灣第一位女記者楊千鶴女士(二)—盧俊義 (2020-08-09), preserved in the Taiwan Justice corpus: [[articles/taiwanjustice-net/2025/20250328154336_tag_這些人這些事_page_2_9b2eec4071bca56c|這些人這些事 tag archive p.2]] — corroborates her standing as 台灣第一位女記者 in the community record.
 - HOLD: 台灣人權協會 founding account ([[works/taiwaneseamericanhistory-org/ourjourneys75|75. 台灣人權協會的開始與現況]]) lists a 「林千鶴」 among the 1976 New York-area women's group — different surname, likely a different person; not merged here.
 
+- HOLD: possible same-person lead — [[works/taiwaneseamericanhistory-org/171-e5-8f-b0-e7-81-a3-e4-ba-ba-e6-b0-91-e8-87-aa-e6-b1-ba-e9-81-8b-e5-8b-95-e8-8|171. 台灣人民自決運動與紐約恩惠歸正教會 / 張顏千鶴 / 2015/09]] — author 張顏千鶴 shares the given name 千鶴 but carries a different surname pattern (張顏 vs 楊) and a NY church-activist context; like the 「林千鶴」 note above, likely a different person; not merged.
+
 ## Corpus check (2026-09-22)
 - Idempotent re-verify: fresh grep — all 楊千鶴 / Ho Yang Lin corpus hits (publications112, publications-111, whoswho1311, 這些人這些事 tag archive, daughter page [[people/chihmei-lin-chen|林智美]]) are already linked above; no new absorbable facts.
 
