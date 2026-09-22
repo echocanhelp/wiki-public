@@ -51,3 +51,5 @@ HOLD: brother(s) with a near-identical name mentioned in blacklist lore ([[works
 - [[works/taiwaneseamericanhistory-org/whos-c-c-yang-2|938. C. C. Yang 楊朝諄 / 2016/04]] — TAH encyclopedia entry (band B)
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+<!-- deepen-x slice 09220500-2 re-verify 2026-09-22: fresh grep of content/works + content/articles — corpus hits (ourjourneys233, ourjourneys106, mystories423, ourjourneys81-eng, whos-c-c-yang, whos-c-c-yang-2, pew statement) all already absorbed in Role in the Community incl. both HOLDs; no new absorbable facts -->

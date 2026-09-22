@@ -37,3 +37,4 @@ last_reviewed: 2026-09-22
 - [[sources/taiwancenter-org||taiwancenter.org]]
 
 <!-- corpus sweep 2026-09-22: re-verified — corpus hits (taiwan-cultural-association-for-human-rights, ourjourneys75/-eng) already absorbed; our-journeys-363 match is title-phrase only (Arrigo work on international human-rights pressure), no org facts -->
+<!-- deepen-x slice 09220500-2 re-verify 2026-09-22: fresh grep — same hit set, all absorbed incl. naming HOLD; no new absorbable facts -->

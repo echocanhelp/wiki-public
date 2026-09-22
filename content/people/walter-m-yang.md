@@ -52,3 +52,4 @@ last_reviewed: 2026-09-22
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 <!-- deepen-x slice 09210831-3 re-verify 2026-09-22: fresh grep of content/works + content/articles — all corpus hits already absorbed in Role in the Community; no new absorbable facts -->
+<!-- deepen-x slice 09220500-2 re-verify 2026-09-22: fresh grep — corpus hits (ourjourneys275, awards-92, 401 profile, taiwanjustice 2018 管中閔 report, pew statement) all already absorbed; no new absorbable facts -->
