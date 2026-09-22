@@ -41,6 +41,7 @@ _No filled family fields on the TAH profile._
 ## Role in the Community
 
 Minnesota community chronicle 明州台美人百年大事 records him as 明大建築系陳惠民教授: in November 2012 he gave the public talk《台灣建築》at the TAA Minnesota chapter's 線上圖書館 (online library) program series, part of that chapter's Taiwanese culture events (film screenings, music concerts, 漢字文化節). This independently corroborates the directory entry listing him as a University of Minnesota architecture professor. His own TAH encyclopedia entry is [[works/taiwaneseamericanhistory-org/whoswho966|966. H. M. Chen 陳惠民 / 2016/05]].
+- 2026-09-22 corpus re-check: grep for 陳惠民 / H. M. Chen returns only the TAH directory entry and the 明州台美人百年大事 record already cited above. No new corpus facts.
 
 ## Sources
 - [TAH #966 encyclopedia: 966. H. M. Chen 陳惠民 / 2016/05](https://taiwaneseamericanhistory.org/whoswho966/)

@@ -26,6 +26,7 @@ J. C. Chen (陳進財) is listed in the TAH Foundation Who’s Who Taiwanese Ame
 - After assisting a legislative-yuan election campaign in Taiwan, he repeatedly urged 許永華 to organize and write the history of the Taiwan-student independence movement in the US since the 1960s, insisting the record be compiled "while people still remember" — an early community push that fed into the TAH oral-history project ([[works/taiwaneseamericanhistory-org/ourjourneys250|許永華's record]]).
 - His own TAH encyclopedia profile: [[works/taiwaneseamericanhistory-org/whoswho1000|1000. J. C. Chen 陳進財 / 2016-05]].
 - HOLD: the corpus mention in the 鄭紀昭牧師 record ([[works/taiwaneseamericanhistory-org/whos-who-2105-j-c-cheng|2105]]) concerns Rev. J. C. Cheng (鄭紀昭), a different person with similar initials — do not conflate.
+- 2026-09-22 corpus re-check: grep for 陳進財 / J. C. Chen returns only 許永華's memoir, his own TAH entry, and the J. C. Cheng (鄭紀昭) record already flagged above. No new corpus facts.
 
 ## Family
 
