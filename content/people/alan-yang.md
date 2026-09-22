@@ -51,6 +51,8 @@ Corpus records place Alan Yang as a touchstone for the Taiwanese American creati
 
 ## From the record
 
+- Re-verify 2026-09-22 (TJJ-A09220700-8): link-check against slice article 2ac7d75679fda7fe（台灣鄉情與文化頁 2020-06-28 快照）—「『虎尾』登上Netflix，台裔導演楊維榕新片談移民艱辛」再確認見於正文，連結為真；2020-04-10 日期事實條目已在庫，無新材料。
+
 - 2020-04-10 — taiwanjustice.net「台灣鄉情與文化」專欄報導「『虎尾』登上Netflix，台裔導演楊維榕新片談移民艱辛」，記其電影《虎尾》登上Netflix、影片述及台裔移民的艱辛（專欄第3頁 2020-06-28 快照）—— [[articles/taiwanjustice-net/2020/20200628125826_category_culture_page_3_2ac7d75679fda7fe|TJJ 台灣鄉情與文化頁，2020-06-28 存档]]。
 
 ## Related Pages

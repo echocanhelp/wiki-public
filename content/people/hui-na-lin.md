@@ -46,6 +46,7 @@ _No filled family fields on the TAH profile._
 
 ## From the record
 
+- Re-verify 2026-09-22 (TJJ-A09220700-8): link-check against slice article c9dd9fb782cc99b8（Covid-19 浩劫餘生錄分類頁 2021-11-28 快照）—「天已轉涼 ◎ 賴慧娜」再確認見於正文，連結為真；2021-11-28 日期事實條目已在庫，無新材料。
 - Re-verify 2026-09-22 (TJJ-A09220600-2): link-check against slice article c48e08c7f2c3bf8d（Covid-19 浩劫餘生錄分類頁）—「建構疫後新世界 ◎ 賴慧娜」與「天已轉涼 ◎ 賴慧娜」確認見於正文文章清單，連結為真；上方日期事實成立，無新材料。
 
 - 2020-10-22 / 2020-10-24 — 其疫情随笔「天已轉涼」（10-22）與「建構疫後新世界」（10-24）列於「Covid-19 浩劫餘生錄」分類頁（2020-11-20 存檔）（[[articles/taiwanjustice-net/2020/20201120161617_category_covid-19_c48e08c7f2c3bf8d|TJJ Covid-19 分類頁，2020-11-20 存檔]]）。

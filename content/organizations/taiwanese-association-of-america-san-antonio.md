@@ -28,6 +28,7 @@ The Taiwanese Association of America San Antonio (TAASA) is a chapter of the Tai
 - Adjacent San Antonio institutions in the same corpus record the chapter's civic context: [[works/taiwaneseamericanhistory-org/taiwanese-chamber-of-commerce-of-san-antonio|Taiwanese Chamber of Commerce of San Antonio]], [[works/taiwaneseamericanhistory-org/evangelical-formosan-church-of-san-antonio|Evangelical Formosan Church of San Antonio]], [[works/taiwaneseamericanhistory-org/church-of-san-antonio|Church of San Antonio]].
 
 - Corpus re-grep 2026-09-22 (slice 09211400-4; 聖安東尼 / San Antonio): hit set is exactly the records already wikilinked above (chapter record, Our Journeys 155/307/317/318, Chamber of Commerce, Evangelical Formosan Church, Church of San Antonio); saturated, no new absorbable material.
+- Corpus re-grep 2026-09-22 (slice 09220800-11; 聖安東尼 / San Antonio): hit set identical (Our Journeys 155/307/317/318, Chamber of Commerce, Church of San Antonio + already-linked records); saturated, SKIP.
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-association-of-america-san-antonio/)

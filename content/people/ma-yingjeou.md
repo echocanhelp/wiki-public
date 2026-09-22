@@ -30,6 +30,8 @@ last_reviewed: 2026-09-22
 
 ## From the record
 
+- 再核（TJJ-A09220700-8, 2026-09-22）：本 slice 文章 9e7164ea03c1512b〈The Madness of Ma〉正文再驗證——Healey 直指馬英九政府「slow-motion form of murder」、支持度約11%、天主教育背景與「Thou Shalt Not Kill」等論述確認，連結為真；2013-04-22 條目已在庫，無新材料。
+
 - 再核（TJJ-A09220700-4, 2026-09-22）：本 slice 文章 f19de8f9d3b53071 正文再驗證——Jack Healey「莫讓馬英九謀殺陳水扁」、馬政府涉入司法與復仇政治之論述確認，連結為真；2013-04-22 條目已在庫，無新材料。
 
 - 複核（TJJ-A09220400-5, 2026-09-22）：subject link 經本 slice 再驗證為真實對應，对应 From-the-record 条目已在库（无错链、无虚链）— SKIP，无新材料。

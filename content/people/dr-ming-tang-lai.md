@@ -49,6 +49,8 @@ Accomplishment
 
 複核（deepen-x slice-09211300-13, 2026-09-22）：re-grep 賴明堂 / Ming Tang Lai hit set unchanged (ourjourneys53 ±eng, #271, #1886, works/index) — saturated, SKIP, 無新材料。
 
+複核（deepen-x slice-09220800-11, 2026-09-22）：re-grep 賴明堂 / Ming Tang Lai hit set unchanged (ourjourneys53 ±eng, #271, #1886, works/index) — saturated, SKIP, 無新材料。
+
 ## Sources
 - [TAH #1886 encyclopedia: 1886. Dr. Ming Tang Lai 賴明堂博士](https://taiwaneseamericanhistory.org/whos-who-1886-ming-tang-lai/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-ming-tang-lai/)
