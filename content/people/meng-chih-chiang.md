@@ -40,6 +40,7 @@ _No filled family fields on the TAH profile._
 - Community record: a Taiwan-born (Pingtung) designer in New York bridging the Taiwanese American creative community with NY design institutions — teaching at her SVA alma mater (School of Visual Arts) since 2016 while running Mengdom Experimental Design Lab.
 - HOLD: corpus records name her both "Mengchih Chiang" (#260) and "Meng Chih Chiang" (#2169) — romanization variant, not merged.
 - Re-grepped 2026-09-21 (deepen-x slice 09200700-23): corpus hits limited to #260/#2169 already cited above plus the works index; no additional memoir material. SKIP-deepen.
+- Re-grep 2026-09-22 (slice 09220600-12): same hits plus a fuzzy match in [[works/taiwaneseamerican-org/pew-research-center-taiwanese-american-statement|Pew Taiwanese American statement]] — that name is "Mengchun Chiang", a different person, not absorbed. Verified saturated.
 
 ## Sources
 - [TAH #260 encyclopedia: 260. Mengchih Chiang 江孟芝](https://taiwaneseamericanhistory.org/ota-260/)
