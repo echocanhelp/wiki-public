@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # SoCal Taiwanese Biotechnology Association SoCal TBA (南加台灣生物科技協會)
 
@@ -29,3 +29,4 @@ SoCal Taiwanese Biotechnology Association (SoCal TBA) is a non-profit organizati
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - Re-grep 2026-09-21 (slice 09201500-25): still only the two 2018-07-09 band-B records + index; verified-saturated.
+- Re-grep 2026-09-22 (slice 09211500-27): still only the two 2018-07-09 band-B records + index; no member names or event details in memoirs. Verified-saturated.

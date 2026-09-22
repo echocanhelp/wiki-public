@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-20
+last_reviewed: 2026-09-22
 ---
 # Emily Lin Lee (林榮峰)
 
@@ -42,6 +42,7 @@ For more bio information, please click link in Who’s Who : 564. Emily Lin Lee 
 - Active in the New York Taiwanese American Senior Center (紐約台灣會館老人中心) volunteer teacher corps: a community oral history of the center's founding ([[works/taiwaneseamericanhistory-org/ourjourneys316|紐約台灣會館老人中心]]) lists her as 李林榮峰 among the volunteer teachers (義工老師) who ran daily activities such as 水墨畫 and 書法.
 - Portraits she painted as an artist are held in the community archive: [[works/taiwaneseamericanhistory-org/footsteps-33|33. Prof. Bernard Travis Lee 李伯寧教授 by Artist 林榮峰 Emily Lee]] (her son, 09/2020) and [[works/taiwaneseamericanhistory-org/footsteps-32|32. Dr. Ching-Tse Lee 李清澤博士 by Artist 林榮峰 Emily Lee]] (09/2020).
 - Encyclopedia/artist records: [[works/taiwaneseamericanhistory-org/whos564-emily-lin-lee|564. Emily Lin Lee 林榮峰]] and [[works/taiwaneseamericanhistory-org/artist53-emily-lee|53. 林榮峰 Emily Lee]] (both 2015/08).
+- Corpus re-grep 2026-09-22 (slice 09211500-27): ZH+EN scan returns only the already-absorbed records — the 紐約台灣會館老人中心 oral history 義工老師 roster ([[works/taiwaneseamericanhistory-org/ourjourneys316|ourjourneys316]], listed as 李林榮峰), the two 2020/09 Footsteps portraits ([[works/taiwaneseamericanhistory-org/footsteps-33|footsteps-33]], [[works/taiwaneseamericanhistory-org/footsteps-32|footsteps-32]]), and her own encyclopedia/artist records. No new memoir material; no conflicts. Verified-saturated.
 
 ## Sources
 - [TAH #564 encyclopedia: 564. Emily Lin Lee 林榮峰 /2015/08](https://taiwaneseamericanhistory.org/whos564-emily-lin-lee/)
