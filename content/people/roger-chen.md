@@ -46,6 +46,8 @@ Chen appears in the TAHS/Taiwanese American History story corpus through two TAH
 - [TAH #235 encyclopedia: 235. Roger Chen  陳正哲](https://taiwaneseamericanhistory.org/ota-235/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/roger-chen/)
 
+- Corpus re-grep 2026-09-21 (slice 09210317-8): hit set unchanged — own TAH #235/#2185 records, the works index, and no memoir narrative; nothing new to absorb (SKIP-with-reason).
+
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

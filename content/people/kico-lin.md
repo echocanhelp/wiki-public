@@ -47,6 +47,8 @@ last_reviewed: 2026-09-21
 - Corpus re-grep 2026-09-19 (slice -5): hits are own TAH #1729 entry, index, and the two TJJ articles already absorbed under「From the record」; no new memoir material — SKIP-with-reason.
 - Corpus re-grep 2026-09-20 (slice 09191100-7): hits（林貴香／Kico Lin）仍僅 TAH #1729、works index 與已吸收的兩篇 TJJ 文章；無新兵錄材料 — SKIP-with-reason。
 
+- Corpus re-grep 2026-09-21 (slice 09210317-8): hits（林貴香／Kico Lin）仍僅 TAH #1729、works index 與已吸收的兩篇 TJJ 文章；無新兵錄材料 — SKIP-with-reason。
+
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
