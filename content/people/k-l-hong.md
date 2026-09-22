@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # K. L. Hong (洪桂林博士)
 
@@ -40,7 +40,7 @@ last_reviewed: 2026-09-21
 ## Role in the Community
 
 - Profiled in the TAH community encyclopedia: [[works/taiwaneseamericanhistory-org/784-k-l-hong-e6-b4-aa-e6-a1-82-e6-9e-97-201601|784. K. L. Hong 洪桂林]] (2016-01-31, value band B) — era 1935–2016, 台北, chemical engineer (NTU BS, UTokyo MS/PhD) turned import-export entrepreneur.
-- Corpus scan 2026-09-21: fresh grep across works/ and articles/ — only hits are its own encyclopedia record [[works/taiwaneseamericanhistory-org/784-k-l-hong-e6-b4-aa-e6-a1-82-e6-9e-97-201601|784. K. L. Hong 洪桂林]] and the works index; no memoir/news mentions to absorb.
+- Corpus scan 2026-09-22 (re-verify): fresh grep across works/ and articles/ — only hits are its own encyclopedia record [[works/taiwaneseamericanhistory-org/784-k-l-hong-e6-b4-aa-e6-a1-82-e6-9e-97-201601|784. K. L. Hong 洪桂林]] and the works index; no memoir/news mentions to absorb.
 
 ## Sources
 - [TAH Who's Who](https://taiwaneseamericanhistory.org/person/k-l-hong/)
