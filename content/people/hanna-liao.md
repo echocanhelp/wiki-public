@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # Hanna Liao (周秀蘭)
 
@@ -27,7 +27,7 @@ Hanna Liao (周秀蘭) is listed in the TAH Foundation Who’s Who Taiwanese Ame
 
 
 ## Role in the Community
-- 2026-09-21 corpus 複核（前次 2026-09-20）：memoir/article 中除本人 TAH 百科紀錄 [[works/taiwaneseamericanhistory-org/854-hanna-liao-e5-91-a8-e7-a7-80-e8-98-ad-201606|854. Hanna Liao周秀蘭 / 2016/06]] 與作品索引外無其他記述。SKIP — nothing absorbable in the corpus; awaiting community/submitted sources.
+- 2026-09-22 corpus 複核（前次 2026-09-21）：memoir/article 中除本人 TAH 百科紀錄 [[works/taiwaneseamericanhistory-org/854-hanna-liao-e5-91-a8-e7-a7-80-e8-98-ad-201606|854. Hanna Liao周秀蘭 / 2016/06]] 與作品索引外無其他記述。SKIP — nothing absorbable in the corpus; awaiting community/submitted sources.
 
 ## Sources
 - [TAH #854 encyclopedia: 854. Hanna Liao周秀蘭 / 2016/06](https://taiwaneseamericanhistory.org/854-hanna-liao%e5%91%a8%e7%a7%80%e8%98%ad-201606/)
