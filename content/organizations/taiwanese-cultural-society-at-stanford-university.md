@@ -30,4 +30,4 @@ The Taiwanese Cultural Society at Stanford University (TCS) is an undergraduate 
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
-Corpus re-check 2026-09-22 (deepen-x slice 09210700-26): fresh grep for "Taiwanese Cultural Society" returned only unrelated bodies (Chicago / Harvard / Westchester TCS); no new Stanford-specific corpus material — page absorbed as-is.
+Corpus re-check 2026-09-22 (deepen-x slices 09210700-26, 09220400-17): fresh grep for "Taiwanese Cultural Society" returns only unrelated bodies (Westchester TCS puppet-show performances in ourjourneys18-eng / photo-albums-activities-16, Chicago TCS, Harvard TCS) plus the already-linked on-discovering-passion-purpose memoir; no Stanford-specific corpus material — page saturated, SKIP this pass.

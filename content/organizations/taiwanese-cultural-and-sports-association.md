@@ -28,6 +28,8 @@ TCSA (also styled 北加州台灣文化體育協會, Taiwanese Cultural & Sports
 
 Naming note: the directory uses both "Taiwanese Cultural and Sports Association" and "Taiwanese Cultural & Sports Association 北加州台灣文化體育協會" — treated as the same org (Northern California), no date/age conflicts found.
 
+Corpus re-check 2026-09-22 (deepen-x slice 09220400-17): fresh grep for 台灣文化體育協會 / TCSA returns only the two already-linked work pages, the already-noted taiwanjustice.net 年會 tag capture, and a false positive (archive digest string in an unrelated WHA op-ed). SKIP this pass: nothing new absorbable.
+
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-cultural-and-sports-association/)
 
