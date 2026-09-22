@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # Taiwanese American Association of Mississippi (密西西比臺灣同鄉會)
 
@@ -22,6 +22,8 @@ The Taiwanese American Association of Mississippi (密西西比臺灣同鄉會) 
 - The chapter represents one of the smallest state presences in the TAA network. Chen Hsi-kuan's memoir of compiling the first 《全美台灣同鄉通訊錄》 records the Mississippi entry as **無名氏** (unnamed) — the state's early TAA contact network had no named delegate, unlike neighboring states — see [[works/taiwaneseamericanhistory-org/ourjourneys58|58.回憶編印第一本《全美台灣同鄉通訊錄》的甘苦經過 / 陳希寬]].
 - The same directory survey counted **22 Taiwanese in Mississippi** by state distribution, reflecting the small but present Taiwanese student/community population in the state.
 - The state's earliest documented community anchor is the University of Mississippi: 鄭炳全's memoir of studying at 密西西比大學 Ole Miss is held in the story corpus — [[works/taiwaneseamericanhistory-org/mystories11|11. 密西西比大學 Ole Miss / 鄭炳全]].
+
+<!-- deepen-x slice 09211507-15 (2026-09-22): SKIP — re-grep for 密西西比臺灣同鄉會 / Association of Mississippi over works+articles found no new corpus material beyond the community facts already absorbed above (陳希寬《全美台灣同鄉通訊錄》無名氏 record, 22-person state count, 鄭炳全 Ole Miss memoir). -->
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-american-association-of-mississippi/)

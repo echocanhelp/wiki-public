@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 <!-- deepen-x slice 09190300-11: SKIP — corpus grep for 葉孟哲/Matthew M. Yeh (works+articles) hits only the own TAH Who's Who record (works/taiwaneseamericanhistory-org/whos-who-2000-matthew-m-yeh.md) and index pages; no memoir/community material to absorb. -->
 # Dr. Matthew M. Yeh (葉孟哲醫師)
@@ -35,7 +35,7 @@ Professor of Pathology; Director, Gastrointestinal and Hepatic Pathology Program
 ## Role in the Community
 
 - Profiled in the TAH Foundation Who's Who encyclopedia as record #2000: [[works/taiwaneseamericanhistory-org/whos-who-2000-matthew-m-yeh|2000. Dr. Matthew M. Yeh 葉孟哲醫師]].
-- Re-verified 2026-09-21 (deepen-x slice 09201503-24): corpus grep for 葉孟哲 / Matthew M. Yeh over works + articles returns only the own encyclopedia record and the works index — no memoir/community material to absorb; SKIP-with-reason.
+- Re-verified 2026-09-21 (deepen-x slice 09201503-24) and again 2026-09-22 (deepen-x slice 09211507-15): corpus grep for 葉孟哲 / Matthew M. Yeh over works + articles returns only the own encyclopedia record and the works index — no memoir/community material to absorb; SKIP-with-reason.
 
 ## Family
 
