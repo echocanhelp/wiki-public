@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # Sally Tsai (蔡淑理)
 
@@ -27,6 +27,7 @@ last_reviewed: 2026-09-21
 - TAH 紀錄庫有其個人專輯頁：[[works/taiwaneseamericanhistory-org/345-sally-tsai-e8-94-a1-e6-b7-91-e7-90-86-201503|345. Sally Tsai 蔡淑理 2015/03]]、[[works/taiwaneseamericanhistory-org/181-sally-tsai-e8-94-a1-e6-b7-91-e7-90-86-soprano-201503|181. Sally Tsai 蔡淑理, Soprano 2015/03]]。
 - Corpus re-grep 2026-09-21: hits unchanged (own records #345/#181, [[works/taiwaneseamericanhistory-org/ourjourneys340|ourjourneys340]], index); community facts above already absorbed — no new material.
 - Corpus re-grep 2026-09-21 (slice 09210317-24): same three hits; ourjourneys340 全文確認五區分區練唱細節與現有敘述一致，無衝突、無新增事實。
+- Corpus re-grep 2026-09-22 (slice 09220600-20): hits unchanged (own records #345/#181, [[works/taiwaneseamericanhistory-org/ourjourneys340|ourjourneys340]], index) — no new material.
 
 <!-- tah-tables:start -->
 ## Education

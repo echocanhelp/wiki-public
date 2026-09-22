@@ -35,6 +35,7 @@ last_reviewed: 2026-09-22
 - Cited in the same memoir as a memory-witness on movement史料: he recalled the教材《Herein Is Love》(Reuel L. Howe) used at a夏令會, the 1972 國民黨特務照相被趕走 incident, and confirmed family photos placing his family at the 3rd夏令會 — an active participant in preserving the movement's early-1970s record.
 - The memoir further records that the Philadelphia 和平契友 circle he belonged to hosted a 1970 Christmas 冬令會 at the Poconos, PA (~50 attendees incl. 17 children, per contemporary photos) before the 夏令會 became the annual tradition — [[works/taiwaneseamericanhistory-org/ourjourneys268|Our Journeys 268]].
 - HOLD: memoir says 李武雄夫人梁光惠; tah-tables list no family fields — leave unreconciled until a TAH family block confirms.
+- Corpus re-grep 2026-09-22 (slice 09220600-20): hits unchanged (own record [[works/taiwaneseamericanhistory-org/whoswh1878|TAH #1878]], 1970夏令會回憶 [[works/taiwaneseamericanhistory-org/ourjourneys268|ourjourneys268]], index); memoir facts above already absorbed — no new material; HOLD retained.
 
 ## Family
 

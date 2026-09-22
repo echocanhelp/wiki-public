@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # Dr. Chun C Tsai (蔡俊晴醫師)
 
@@ -34,6 +34,7 @@ last_reviewed: 2026-09-21
 - Founding participant of NATMA (北美洲台灣人醫師協會) at its organizational meeting on 1984-07-14 at Western Michigan University, Ypsilanti, Michigan (~40 attendees), listed among the Chicago representatives alongside 林洪謙 and 張信義: [[works/taiwaneseamericanhistory-org/ourjourneys74|ourjourneys74 (NATMA founding record)]] (also in English: [[works/taiwaneseamericanhistory-org/ourjourneys74-eng|ourjourneys74-eng]]).
 - Named as a special donor — personally, and via 芝加哥台灣人聯合基金會 — in the acknowledgments of the 世界台灣人美術展覽專刊, credited with helping the fundraising effort proceed smoothly: [[works/taiwaneseamericanhistory-org/ourjourneys256|ourjourneys256 (世界台灣人美術展覽 record)]].
 - His TAH encyclopedia entry is in the corpus: [[works/taiwaneseamericanhistory-org/whos-who-1968-chun-c-tsai|1968. Dr. Chun C Tsai 蔡俊晴醫師]].
+- Corpus re-grep 2026-09-22 (slice 09220600-20): hits unchanged (own TAH record, NATMA founding record [[works/taiwaneseamericanhistory-org/ourjourneys74|ourjourneys74]]/-eng, 美展專刊致謝 [[works/taiwaneseamericanhistory-org/ourjourneys256|ourjourneys256]], index); community facts above already absorbed — no new material.
 
 ## Family
 
