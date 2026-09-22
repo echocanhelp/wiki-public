@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # Ming Chi Wang
 
@@ -36,7 +36,7 @@ last_reviewed: 2026-09-21
 
 - **Wife:** Yu Ann Wang
 - **Daughter:** Elsie Wang Weiler
-- **Daughter:** : Ellen Wang Althaus
+- **Daughter:** Ellen Wang Althaus
 - **Son:** Lawrence Wang
 
 

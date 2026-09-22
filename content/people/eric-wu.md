@@ -36,7 +36,8 @@ last_reviewed: 2026-09-22
 _No filled family fields on the TAH profile._
 
 ## Role in the Community
-- 南灣生活座談會 later-joining member (創會後加入). The chapter's members' community service spans 同鄉會、台美學校、公民協會、醫師協會、報紙 (from [[works/taiwaneseamericanhistory-org/ourjourneys212|Our Journeys 212]]).
+- 南灣生活座談會 later-joining member (創會後加入) — the chapter was founded by 陳惠亭、黃森元、陳立宗、林正善、許清煌、廖政秀、林本晃、游銘泉、蔡銘祿、王秋森、江昭儀; other later joiners include 鄭良光、柯清隆、呂俊宇、蕭華銓、許善惠、李博仁、游高常、黃月葉、許文宏、林麥玲、王洪政. The chapter was over eleven years old at the time of writing; its members' community service spans 同鄉會、台美學校、公民協會、醫師協會、報紙 (from [[works/taiwaneseamericanhistory-org/ourjourneys212|Our Journeys 212]]).
+- Own TAH encyclopedia bibliographic record: [[works/taiwaneseamericanhistory-org/whoswho1385|1385. Eric Wu 吳爾融 / 2016/11]] — no further memoir narrative in the corpus.
 
 ## Sources
 - [TAH #1385 encyclopedia: 1385.  Eric Wu 吳爾融/ 2016/11](https://taiwaneseamericanhistory.org/whoswho1385/)
