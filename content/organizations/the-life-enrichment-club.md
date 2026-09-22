@@ -22,7 +22,7 @@ The Life Enrichment Club is a discussion group organized on June 22, 2009, by Su
 - The club's own activity summary is held in the TA.org story corpus: [[works/taiwaneseamericanhistory-org/the-life-enrichment-club|The Life Enrichment Club 暢樂人生社]] (published 2016-11-23).
 - Founding coordinator (from the June 22, 2009 founding through end of 2014): [[people/sung-peng-hsu|Sung-Peng Hsu 徐頌鵬博士]]. He also contributed the band-A movement memoir [[works/taiwaneseamericanhistory-org/ourjourneys268|268. 回憶第一屆美東台灣人夏令會 / 徐頌鵬 /11/2016]] to the same corpus, placing the club inside the broader Taiwanese-American community-history circle.
 
-> Re-verified 2026-09-22 (slice 09210831-11): corpus grep returns the club's own summary page (linked above) plus index rows, and [[works/taiwaneseamericanhistory-org/newsletter-of-global-life-enrichment-center|Newsletter of Global Life Enrichment Center 普世豐盛通訊]] — a distinct organization matched only by a similar English name, not absorbed. No new material.
+> Re-verified 2026-09-22 twice (slices 09210831-11, 09220600-17): corpus grep returns the club's own summary page (linked above) plus index rows, and [[works/taiwaneseamericanhistory-org/newsletter-of-global-life-enrichment-center|Newsletter of Global Life Enrichment Center 普世豐盛通訊]] — a distinct organization matched only by a similar English name, not absorbed. No new material.
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/the-life-enrichment-club/)
