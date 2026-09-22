@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # Emily Hsieh (謝艾琳)
 
@@ -35,7 +35,7 @@ Third prize, Stravinsky International Piano Competition, Champaign, Illinois, 19
 
 
 ## Role in the Community
-- Her TAH Foundation Who's Who encyclopedia record is held in the corpus as [[works/taiwaneseamericanhistory-org/whoswho1005|1005. Emily Hsieh 謝艾琳 / 2016/05]] (published 2016-05-22, band B). No further mention found in the memoir/article corpus (checked 謝艾琳 / Emily Hsieh, incl. Ai-Ling variants) — no community-activity facts absorbable beyond the encyclopedia record itself.
+- Her TAH Foundation Who's Who encyclopedia record is held in the corpus as [[works/taiwaneseamericanhistory-org/whoswho1005|1005. Emily Hsieh 謝艾琳 / 2016/05]] (published 2016-05-22, band B). No further mention found in the memoir/article corpus (checked 謝艾琳 / Emily Hsieh, incl. Ai-Ling variants) — no community-activity facts absorbable beyond the encyclopedia record itself. Re-swept 2026-09-22: index-only hits, nothing new.
 
 ## Sources
 - [TAH #1005 encyclopedia: 1005. Emily Hsieh 謝艾琳 / 2016/05](https://taiwaneseamericanhistory.org/whoswho1005/)
