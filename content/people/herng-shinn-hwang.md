@@ -48,6 +48,7 @@ last_reviewed: 2026-09-22
 - Corpus re-check (2026-09-19, deepen-x slice 09170400-8 page 2, vault-only): grep of content/works + content/articles for 黃恆信 / Herng-Shinn Hwang returns only the #735 record and the works index — no memoir mentions. The industrial career (Engelhard, INDER consultant, Songya Technology) stands as per the TAH profile.
 - Corpus re-check (2026-09-20, deepen-x slice 09190445-1, vault-only): hit set unchanged (only [[works/taiwaneseamericanhistory-org/735-herng-shinn-hwang-e9-bb-83-e6-81-86-e4-bf-a1-201512|#735]] + index) — nothing new absorbable; SKIP-with-no-new-facts.
 - Corpus re-check (2026-09-22, deepen-x slice 09211400-5, vault-only): fourth independent re-grep, hit set still identical (#735 + works index) — verify-saturated, SKIP-with-no-new-facts.
+- Corpus re-check (2026-09-22, deepen-x slice 09220800-16, vault-only): fifth re-grep, hit set identical (#735 + works index) — SKIP, verified-saturated, no absorbable new facts.
 
 ## Sources
 - [TAH #735 encyclopedia: 735. Herng-Shinn Hwang 黃恆信 / 2015/12](https://taiwaneseamericanhistory.org/735-herng-shinn-hwang-%e9%bb%83%e6%81%86%e4%bf%a1-201512/)

@@ -97,6 +97,7 @@ _No filled family fields on the TAH profile._
 - 2024-02-10 — 台灣公義報「新聞觀測站」分類頁（Wayback 2024-04-25 快照）節目清單列有「新聞觀測站 20240210 準副總統蕭美琴選後專訪！」，為其選後專題訪談之又一存檔佐證（[[articles/taiwanjustice-net/2024/20240425140914_root_004420da7bd583a2|TJJ 新聞觀測站分類頁, 2024-04-25 快照]]）。
 
 - 2026-09-22 — 本篇書寫對象（父親筆下的女兒）即本人——連結為真，詳細日期事實已見上條；該紀錄日期事實已見上條 [[articles/taiwanjustice-net/2025/20250324133829_我的女兒美琴-_-蕭清芬_9d523cc5290c997b|我的女兒美琴, 2020-07-26刊]]，本輪不重複。
+- 2026-09-22 — TJJ-A09220700-3 re-verify: 本篇書寫對象（父親筆下的女兒）即本人，連結為真；日期事實已見上條，不重複。
 - Re-verify 2026-09-22 (TJJ-A09220700-8): link-check against slice articles 9a66943e68f1e0ef（台美人台加人頁 2024-04-21 快照）與 2ac7d75679fda7fe（台灣鄉情與文化頁 2020-06-28 快照）—「美媒專訪 蕭美琴：區域穩定美台有共同責任」與「蕭美琴辭別花蓮將駐美，支持者送祝福」再確認見於正文，連結為真；兩條日期事實已在庫，無新材料。
 - Re-verify 2026-09-22 (TJJ-A09220400-7): link-check against slice article 3be67f6e82d34da7 body — mention confirmed real, dated fact above stands; no new material.
 - Re-verify 2026-09-22 (TJJ-A09220600-1): link-check against slice article 5dd0106e892b8f96（台灣新聞存檔頁3）body — 三篇蕭美琴專訪條目 mention confirmed real; dated fact with article wikilink already in place above; no new material.

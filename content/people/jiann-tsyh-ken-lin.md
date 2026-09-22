@@ -46,6 +46,7 @@ President, North American Taiwanese Professors Association, Northern California 
 - Corpus re-check (2026-09-20, deepen-x slice 09190445-1, vault-only): fresh grep hit set = #142 memoir + #449 profile + the taiwanjustice.net 兆豐案 tag/category index pages (the 「林健次」民報 byline, HOLD above) + the 鄭文龍灣區拜訪 roster (925-736-2304, same contact as already noted). Nothing new absorbable; SKIP-with-no-new-facts.
 - Corpus re-check (2026-09-21, deepen-x slice 09201500-4, vault-only): hit set unchanged (#142 memoir, #449 profile, taiwanjustice 兆豐案 byline pages, 灣區拜訪 roster). Verified-saturated; SKIP.
 - Corpus re-check (2026-09-22, deepen-x slice 09211400-9, vault-only): hit set unchanged (#142 memoir, #449 profile, 兆豐案 byline pages — HOLD above, 灣區拜訪 roster 925-736-2304 already noted). Nothing new absorbable; SKIP.
+- Corpus re-check (2026-09-22, deepen-x slice 09220800-16, vault-only): hit set unchanged (#142 memoir, #449 profile, taiwanjustice 兆豐案 tag/category index pages bearing the 「林健次」byline — HOLD above — and the 灣區拜訪 roster with the same 925-736-2304 contact). Verified-saturated; SKIP.
 
 
 ## Sources

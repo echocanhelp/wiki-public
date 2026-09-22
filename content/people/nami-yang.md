@@ -58,6 +58,7 @@ last_reviewed: 2026-09-22
 - 2017-06-11 — As president of [[organizations/taiwanese-american-pen-club-la|台美人筆會]] (founded 1998, publishes 台美文藝 biennially) announced the just-published 2017 台美文藝 — 67 works by 40+ authors — and its new-book launch 2017-06-17 at 大洛杉磯台灣會館, Rosemead; the club had introduced second-generation writers 游朝凱、梁凱琳、Julia Wu、Jennifer Chow、楊小娜 to the community, and the 2017 editorial board included 李彥禎、陳東榮、李芬芬、鄭炳全、秦雪華、林文政 ([[articles/taiwanjustice-net/2022/20221127052725_2017_06_11_2017台美文藝出版-台美人筆會六月十七日舉辦發表會_c76f11ecd2598ecb|TJJ, 2017-06-11]]).
 
 - 2026-09-22 — 她即本篇圖文作者，正文並自述為 TUF 現任理事、藝展組成員——連結為真；該紀錄日期事實已見上條 [[articles/taiwanjustice-net/2024/20240724234326_root_cd2062fe6528223c|台灣之美‧亞洲之心巡迴展報導, 2017-03-14刊]]，本輪不重複。
+- 2026-09-22 — TJJ-A09220700-3 re-verify: 本篇圖文作者並自述 TUF 理事、藝展組成員，連結為真；日期事實已見上條，不重複。
 
 ## Sources
 - [TAH #6 encyclopedia: 6. Nami Yang 李淑櫻](https://taiwaneseamericanhistory.org/6-nami-yang/)

@@ -47,6 +47,7 @@ _No filled family fields on the TAH profile._
 - Corpus re-grep 2026-09-21 (slice 09210317-16): hits unchanged — works index plus the same TJJ exhibition report [[articles/taiwanjustice-net/2024/20240724234326_root_cd2062fe6528223c|2017-03-14]], whose 楊靜芬 blurb (習畫 2001、東京藝大短期進修 2016、漆藝媒材, work 「花飛碟舞」) is already absorbed above. No new community facts. SKIP-content; painter-vs-CFP HOLD stands.
 
 - 2026-09-22 — 正文畫家楊靜芬簡介（習畫2001、漆藝、「花飛碟舞」）——連結為真，惟與本人頁 TAH #1716 CFP 身份同名衝突 HOLD 仍照舊，不併檔；該紀錄日期事實已見上條 [[articles/taiwanjustice-net/2024/20240724234326_root_cd2062fe6528223c|台灣之美‧亞洲之心巡迴展報導, 2017-03-14刊]]，本輪不重複。
+- 2026-09-22 — TJJ-A09220700-3 re-verify: 正文畫家楊靜芬簡介（「花飛碟舞」、漆藝）連結為真；TAH #1716 CFP 同名衝突 HOLD 照舊，不併檔。
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

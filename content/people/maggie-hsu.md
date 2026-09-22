@@ -55,3 +55,7 @@ HOLD: conflict in Mochi founding date — her interview says the concept origina
 slice 09201400-19 re-grep (2026-09-21): corpus hit set identical to links already absorbed above — no new absorbable facts.
 
 slice 09211300-16 re-grep (2026-09-22): corpus hit set identical to links already absorbed above — no new absorbable facts.
+
+- Mochi Magazine surfaces in the TaiwaneseAmerican.org movement corpus via the Formosa Betrayed film coverage: Anna Wu, credited there as Mochi Magazine's creative director, is also a TaiwaneseAmerican.org staff member — evidence Mochi and TA.org shared personnel in the 2009 community-media wave ([[works/taiwaneseamerican-org/formosa-betrayed-giving-voice-to-history-via-the-big-screen|Formosa Betrayed — Giving Voice to History via the Big Screen]]).
+
+Corpus re-grep 2026-09-22 (slice 09220800-19, Maggie Hsu / Mochi Magazine): hit set = her own interview, TAH #905, SPARK Accel, the Pew-era statement, plus the Formosa Betrayed staff link absorbed above — no other new facts; HOLD on 2004-vs-2008 founding dates stands.
