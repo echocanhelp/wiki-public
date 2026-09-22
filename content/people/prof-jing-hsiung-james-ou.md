@@ -59,3 +59,4 @@ _No filled family fields on the TAH profile._
 - Slice deepen-x-slice-09180131-14 覆核（2026-09-18）：再檢結果相同（僅 #2018 書目記錄 + index），無回憶錄／社團提及。SKIP-with-reason。
 - Slice deepen-x-slice-09181500-12 覆核（2026-09-20）：再檢 works+articles 結果相同（僅 #2018 書目記錄 + index），無回憶錄／社團提及。SKIP-with-reason。
 - Slice deepen-x-slice-09201400-7 覆核（2026-09-21）：再檢 works+articles 結果相同（僅 #2018 書目記錄 + index），無回憶錄／社團提及。SKIP-with-reason。
+- Slice deepen-x-slice-09211300-9 覆核（2026-09-22）：再檢 歐競雄|Jing-Hsiung|James Ou 結果相同（僅 #2018 書目記錄 + index），無回憶錄／社團提及。SKIP-with-reason。
