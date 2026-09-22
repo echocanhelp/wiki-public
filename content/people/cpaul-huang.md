@@ -43,6 +43,7 @@ _No filled family fields on the TAH profile._
 - HOLD: conflict — [[works/taiwaneseamericanhistory-org/ourjourneys19|Our Journeys 19 (Silicon Valley narrative)]] states "1982 – Paul Huang and three others founded ECAD" (merged 1988, later renamed Cadence) and links this page; a Taiwan-born violinist at Juilliard cannot plausibly be the 1982 EDA founder, so this is almost certainly a different Paul Huang. Not merged.
 - Corpus re-grep (黃俊文 / Paul Huang, content/works + content/articles, 2026-09-18 slice-23; re-confirmed 2026-09-21 slice 09201400-12): hit set unchanged — the already-cited work records plus the Our Journeys 19 ECAD narrative; no new absorbable material. Page saturated.
 - HOLD: a TJJ 蔬果園藝交流在美洲 tag page names a SoCal gardening lecturer 「黃啟源(Paul Huang)」（講植物的氣候與土壤對應, 2016-06-26 台灣會館園藝講座）— a different Paul Huang; link removed from that article's Subjects ([[articles/taiwanjustice-net/2024/20240522234319_root_2e141df6a5071110|TJJ tag 存檔, 2024-05-22 快照]]).
+- 複核（deepen-x slice-09211400-7, 2026-09-22）：re-grep 黃俊文／Paul Huang（works+articles）hit set identical — 僅已引之獲獎記錄與 Our Journeys 19（ECAD 同名者, HOLD 見上）。SKIP, verified-saturated.
 
 ## Sources
 - [TAH #308 encyclopedia: 308. Paul Huang 黃俊文, Violinist / 2015/10](https://taiwaneseamericanhistory.org/paul-huang-violinist/)
