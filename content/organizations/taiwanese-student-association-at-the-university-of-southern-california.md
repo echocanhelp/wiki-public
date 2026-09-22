@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # Taiwanese Student Association at the University of Southern California
 
@@ -26,6 +26,7 @@ The Taiwanese Student Association (TSA) at the University of Southern California
 - 2009-04-02 — ITASA 西海岸年會於 USC 舉辦，HoChie Tsai 與 Serena Wu 在校園工作坊談世代的認同議題，顯示 USC 台灣人學生社群當時已是南加州校園運動網絡的一站（[[works/taiwaneseamerican-org/itasa-west-coast-and-midwest-conferences-2009|ITASA West Coast and Midwest Conferences 2009]]）。
 - 2016-02-07 — USC Special Collections and Archives 設立 Taiwanese American Digital Archive，由二代 Joanna Chen Cham 以 USC Los Angeles as Subject Resident Archivist 身份發起，為最早系統性收藏台美人歷史的大學檔案館之一；USC 校園因此同時是台灣人學生社團與社區文獻保存的場域（[[works/taiwaneseamerican-org/taiwanese-american-digital-archive|USC Launches New Taiwanese American Digital Archive]]）。
 - 2026-09-21（slice 09210317-15）語料複核：「USC Taiwanese / 南加大台灣 / TSA」命中僅本身出處 dumplings-usctsa 與 works index；上述 ITASA 2009 及數位檔案館兩筆屬 USC 校園脈絡連帶紀錄，非該社第一手活動，已註明。無衝突須 HOLD。
+- 2026-09-22（slice 09212352-12）語料複核：再次 grep「USC Taiwanese／南加大台灣／usc_tsa」，命中仍僅 dumplings-usctsa 與 works index——第一手活動語料已達飽和，無新增可吸收。
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-student-association-at-the-university-of-southern-california/)

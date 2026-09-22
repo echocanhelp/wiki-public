@@ -37,6 +37,7 @@ last_reviewed: 2026-09-21
 - 2026-09-19 語料複核（slice 09180400-6）：新增連帶紀錄 — 優社代表 Josephine Pan 連署台灣人聯合聲明，見 [[works/taiwaneseamerican-org/pew-research-center-taiwanese-american-statement|Taiwanese American statement（台美人連署聲明）]]；此為優社首度以個人代表名義出現在連署文獻中。
 - 2026-09-20 語料複核（slice 09191100-7）：fresh grep（優社／Taiwan Elite Alliance）命中為已收錄的 concerts #3、#68、清掃洛杉磯河 #5、連署聲明與 index；無新事實可吸收 — SKIP-with-reason。
 - 2026-09-21 語料複核（slice 09210317-9）：fresh grep（優社／Taiwan Elite Alliance）命中仍為已收錄的 concerts #3、#68、清掃洛杉磯河 #5、機構檔案 TAH #20、連署聲明與 index 條目；無新事實可吸收 — SKIP-with-reason。
+- 2026-02 — 優社（TEA）名列大洛杉磯台灣會館「二二八紀念會、轉型正義研討會暨79週年追思活動」協辦單位（與會館、南加州台灣人長輩會、美國台灣文化協會、FAPA 洛杉磯分會、NATPA 南加分會、台美人歷史協會等並列），見 [[articles/taiwanjustice-net/2026/20260209105852_大洛杉磯台灣會館二二八紀念會轉型正義研討會暨_27ac84aea15e3211|TJJ/台灣會館消息, 2026-02-09]]（DEEPEN-X slice 09212352-17 新增）。
 
 ## Related Pages
 

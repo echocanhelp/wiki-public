@@ -6,7 +6,7 @@ tags:
   - Taiwanese-American
   - Taiwan-Center-group-member
 verification_status: published
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # Joint Alumni Association of Taiwan Teachers College and Normal University(JTTAA)
 
@@ -24,6 +24,7 @@ last_reviewed: 2026-09-21
 - The association has its own TAH community-history record (南加州台灣師範院校校友聯合會): [[works/taiwaneseamericanhistory-org/jttaa|TAH — Joint Alumni Association of Taiwan Teachers College and Normal University]]
 - 2021: 南加州台灣師範院校校友聯合會 was a co-initiating organization (共同發起單位) of the Southern California 僑界 joint statement supporting Taiwan's participation in the WHO/WHA — the alumni association stood alongside FAPA-LA, NATMA-SCC, NATWA and other groups: [[articles/taiwanjustice-net/2021/20210616072940_2021_05_17_2021年南加州僑界支持台灣參與世界衛生大會wha聯合聲_b1d58af16c0a5e5b|2021年南加州僑界支持台灣參與WHA聯合聲明]]
 - A parallel teachers-college alumni group appears in the same TAH corpus: [[works/taiwaneseamericanhistory-org/sd-nnu|聖地牙哥師大校友會]] (distinct organization, San Diego)
+- The wider corpus shows师範院校 alumni organizing across the US, framing the LA joint association as one node of a national alumni network (each a distinct organization): 國立台灣師範大學美東校友會's annual concerts — [[works/taiwaneseamericanhistory-org/concerts76|76. 美東師大校友會年度音樂會, Flushing NY 2016/2017]] and [[works/taiwaneseamericanhistory-org/140-ntnuaa|140. NTNUAA Annual Concert 2018, Flushing NY]]; 華府台灣師範大學校友會 directory record ([[works/taiwaneseamericanhistory-org/dc-national-taiwan-normal-university-alumni-association|華府師大校友會]]); and 國立台灣師範大學留美校友會 ([[works/taiwaneseamericanhistory-org/e5-9c-8b-e7-ab-8b-e5-8f-b0-e7-81-a3-e5-b8-ab-e7-af-84-e5-a4-a7-e5-ad-b8-e7-95-99|留美校友會]], 2019). No activity of the LA association itself appears in these records — linked as corpus context only.
 - 2021-04: the association joined 大洛杉磯台灣會館 and nine other LA groups (台灣人獅子會, NATWA-SCC, NATMA-SCC, 美洲高雄中學高雄女中聯合校友會, 南加州台灣大專聯合校友會, 客家基金會, and others) in the 太魯閣號 train-disaster relief fundraise — ~NT$1.5M from 42 donors within a week, routed via the ROC overseas office to 衛福部: [[articles/taiwanjustice-net/2022/20220929025100_2021_04_16_大洛杉磯台灣會館給太魯閣號受難家屬的慰問函_8dc770f6b801f241|大洛杉磯台灣會館給太魯閣號受難家屬的慰問函]]
 - The association's full name also appears in the republished 2021 WHA joint-statement initiator list: [[articles/taiwanjustice-net/2025/20251108183438_2021年南加州僑界支持台灣參與世界衛生大會wha聯合聲_80c0a825a7a661b6|2025 republication of the WHA 聯合聲明]]
 - The TAH directory record for the association is a bibliographic entry (era 2015, value band B, published 2015-08-06); its full text remains in the source vault — no biographical detail beyond the listing is absorbable from it: [[works/taiwaneseamericanhistory-org/jttaa|TAH directory record]]

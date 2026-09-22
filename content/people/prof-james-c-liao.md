@@ -47,7 +47,7 @@ last_reviewed: 2026-09-22
 - [TAH #1081 encyclopedia: 1081. Prof. James C. Liao 廖俊智教授](https://taiwaneseamericanhistory.org/whos-who-1081-james-c-liao/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-james-c-liao/)
 
-- Corpus re-grep 2026-09-21 (slice 09210317-8): hits still confined to the already-linked records (107, 1081, mystories239, important2016-22, my-stories-879) plus the index — no new absorbable facts (SKIP-with-reason).
+- Corpus re-grep 2026-09-22 (slice 09212352-19): hits still confined to the already-linked records (107, 1081, mystories239, important2016-22, my-stories-879) plus the index — no new absorbable facts (SKIP-with-reason).
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
