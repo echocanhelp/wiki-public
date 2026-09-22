@@ -39,6 +39,7 @@ _No filled family fields on the TAH profile._
 - **傳記作者 — 陳翠玉:** wrote 台灣女英雄陳翠玉 (前衛 2003; 草根 2009 修訂版), the definitive biography of nursing pioneer 陳翠玉 ([[people/stella-landauer|陳翠玉]]) ([[works/taiwaneseamericanhistory-org/ourjourneys270|270. 早期留學北美的台灣女士–戰後初期 / 朱真一]]; see also the corpus biography record [[works/taiwaneseamericanhistory-org/publications26|26. 台灣女英雄陳翠玉 / 李錦容]]).
 - **世台會返鄉團:** when 陳翠玉's condition worsened after returning to Taiwan, 李錦容 (her student) took over hosting 陳翠玉's August-19 session on Taiwan women's democratic movement and delivered a moving report of her life ([[works/taiwaneseamericanhistory-org/ourjourneys210|210. 返鄉記 / 張丁蘭]]).
 - Profiled as 穩得負責人、老人復健專家 in 吳美芬 & 楊詠絮's 婦女信箱 ([[works/taiwaneseamericanhistory-org/ourjourneys79|79. 婦女信箱 / 2014/12]]); TAH encyclopedia entry 2016/10 ([[works/taiwaneseamericanhistory-org/whoswho1304|1304. J. Z. Lee 李錦容]]).
+- Corpus re-check 2026-09-22 (slice 09220500-31): grep of works/ and articles/ returns exactly the six records already wikilinked above (whoswho1304, ourjourneys106, publications26, ourjourneys79, ourjourneys270, ourjourneys210) — verified saturated, no new material absorbable.
 
 ## Sources
 - [TAH #1304 encyclopedia: 1304. J. Z. Lee李錦容 2016/10](https://taiwaneseamericanhistory.org/whoswho1304/)
