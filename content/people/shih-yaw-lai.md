@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # Shih Yaw Lai (賴世耀博士)
 
@@ -35,7 +35,7 @@ last_reviewed: 2026-09-21
 _No filled family fields on the TAH profile._
 
 ## Role in the Community
-- SKIP: no corpus memoirs or articles mention 賴世耀 beyond his own encyclopedia submission [[works/taiwaneseamericanhistory-org/662-shih-yaw-lai-e8-b3-b4-e4-b8-96-e8-80-80-201510|662. Shih Yaw Lai 賴世耀 / 2015/10]]; nothing absorbable (re-verified 2026-09-21 sweep).
+- SKIP: no corpus memoirs or articles mention 賴世耀 beyond his own encyclopedia submission [[works/taiwaneseamericanhistory-org/662-shih-yaw-lai-e8-b3-b4-e4-b8-96-e8-80-80-201510|662. Shih Yaw Lai 賴世耀 / 2015/10]]; nothing absorbable (re-verified 2026-09-22 sweep).
 
 ## Sources
 - [TAH Who's Who](https://taiwaneseamericanhistory.org/person/shih-yaw-lai/)

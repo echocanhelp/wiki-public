@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # Kun-wang Chao (邵坤旺)
 
@@ -23,7 +23,7 @@ Kun-wang Chao (邵坤旺) is listed in the TAH Foundation Who's Who Taiwanese Am
 
 ## Role in the Community
 
-- 本庫收有其 TAH Who's Who 書目紀錄（[[works/taiwaneseamericanhistory-org/whos-who-2274-k-w-chao|2274. Kun-wang Chao 邵坤旺]]，2020-06-10）。除該紀錄外，語料庫（works/articles）暫無其他記述可吸收；生平細節待後續語料（如 NATWA 相關紀錄）比對。
+- 本庫收有其 TAH Who's Who 書目紀錄（[[works/taiwaneseamericanhistory-org/whos-who-2274-k-w-chao|2274. Kun-wang Chao 邵坤旺]]，2020-06-10）。除該紀錄外，語料庫（works/articles）暫無其他記述可吸收（2026-09-22 覆核確認）；生平細節待後續語料（如 NATWA 相關紀錄）比對。
 
 ## Family
 
