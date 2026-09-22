@@ -7,8 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
----
+last_reviewed: 2026-09-22
 # Y. S. Huang (黃炎松)
 
 ## Identity Snapshot
@@ -43,7 +42,7 @@ _No filled family fields on the TAH profile._
 - This matches the TAH profile's 益華電腦 1982-1987 創辦人 entry once read as ECAD (Cadence's Chinese name) rather than a separate company.
 - His TAH encyclopedia entry is [[works/taiwaneseamericanhistory-org/whoswho1073||TAH #1074: Y. S. Huang 黃炎松 (2016/06)]].
 
-HOLD: conflict on Chinese name — this page and TAH #1074 say 黃炎松, while corpus work [[works/taiwaneseamericanhistory-org/whos-who-1962-y-s-huang||TAH #1962: Prof. Y. S. Huang]] names 黃永勝. Not merged; identity of #1962 unconfirmed. (Re-grep 2026-09-21, slice 09201503-2: corpus hits remain only #1962, #1074 and the index — HOLD stands, verified-saturated.)
+HOLD: conflict on Chinese name — this page and TAH #1074 say 黃炎松, while corpus work [[works/taiwaneseamericanhistory-org/whos-who-1962-y-s-huang||TAH #1962: Prof. Y. S. Huang]] names 黃永勝. Not merged; identity of #1962 unconfirmed. (Re-grep 2026-09-22, slice 09211507-5: corpus hits remain #1962, #1074, the index, plus a TaiwanJustice lecture record 「油脂與人體健康」by 黃永勝博士 at Irvine TCLC 長青教室 — a health-lecture author, almost certainly a third person; HOLD stands, verified-saturated.)
 
 ## Sources
 - [TAH #1074 encyclopedia: 1074. Y. S. Huang 黃炎松/ 2016/06](https://taiwaneseamericanhistory.org/whoswho1073/)
