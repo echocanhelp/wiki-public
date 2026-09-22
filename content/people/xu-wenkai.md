@@ -26,6 +26,7 @@ Elder Xu appears in church bulletin records and is recognized as a community eld
 - Needs verification: expanded biographical details
 - Moderate confidence: named in bulletin records
 - SKIP (deepen-x 09200939-20, 2026-09-21): no corpus hits for 許文凱/Xu Wenkai in content/works or content/articles (near-miss 吳文凱/李文凱 in a 2020 立委名单 are different persons) — nothing absorbable.
+- Re-verified SKIP (deepen-x 09211200-13, 2026-09-22): fresh grep 許文凱/Xu Wenkai across works/ and articles/ — still zero hits.
 
 ## Name Variants / Disambiguation
 - Chinese: 許文凱
