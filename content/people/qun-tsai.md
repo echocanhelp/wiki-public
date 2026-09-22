@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # Qun Tsai (蔡昆)
 
@@ -48,4 +48,4 @@ last_reviewed: 2026-09-21
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
-Corpus re-check (deepen-x 09201503-13, 2026-09-21): verified-saturated — fresh grep of works/ + articles/ returns only own TAH bibliographic records, the works index, or already-excluded mentions; no absorbable memoir text.
+Corpus re-check (deepen-x 09201503-13, 2026-09-21): verified-saturated — fresh grep of works/ + articles/ returns only own TAH bibliographic records, the works index, or already-excluded mentions; no absorbable memoir text. Re-check (deepen-x 09211507-10, 2026-09-22): fresh grep returns only ourjourneys155 (already absorbed above), own records, and the works index — nothing new absorbable.

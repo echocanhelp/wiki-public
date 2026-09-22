@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: reviewed
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # Prof. Teh-Hui Kao (高德輝教授)
 
@@ -37,7 +37,7 @@ _No filled family fields on the TAH profile._
 
 ## Role in the Community
 - Community record: [[works/taiwaneseamericanhistory-org/whos-who-2038-teh-hui-kao|TAH Who's Who #2038, published 2018-02-19]] — corpus copy of the profile behind this page.
-- Corpus re-grep (2026-09-17, 2026-09-19 slice 09170600-24, 2026-09-20 slice 09190400-14, and 2026-09-21 slice 09201503-3): no memoir or article coverage beyond the Who's Who record [[works/taiwaneseamericanhistory-org/whos-who-2038-teh-hui-kao|TAH #2038]] and the works index — SKIP deepening; Penn State and 中央研究院植物與微生物科學研究所 roles stand as recorded in the TAH table.
+- Corpus re-grep (2026-09-17, 2026-09-19 slice 09170600-24, 2026-09-20 slice 09190400-14, 2026-09-21 slice 09201503-3, and 2026-09-22 slice 09211507-12): no memoir or article coverage beyond the Who's Who record [[works/taiwaneseamericanhistory-org/whos-who-2038-teh-hui-kao|TAH #2038]] and the works index — SKIP deepening; Penn State and 中央研究院植物與微生物科學研究所 roles stand as recorded in the TAH table.
 
 ## Sources
 - [TAH #2038 encyclopedia: 2038. Prof. Teh-Hui Kao 高德輝教授](https://taiwaneseamericanhistory.org/whos-who-2038-teh-hui-kao/)
