@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # C. T. Lee (李青泰)
 
@@ -34,6 +34,7 @@ last_reviewed: 2026-09-21
 - **俄州台美人運動：** 辛辛那提分會會員推動「一人一票」等行動，是他與會員共同努力的成果；2018年《台灣旅行法》推手夏波議員（Jim Sens. Chabot）與老友李青泰等鄉親歡聚（見 [[works/taiwaneseamericanhistory-org/chabot-honoring-party-5-1-18|Chabot Honoring Party 5/1/18]]）。
 
 ## Sources
+- Corpus encyclopedia record: [[works/taiwaneseamericanhistory-org/whoswho974|TAH #974, C. T. Lee 李青泰 / 2016/05]].
 - [TAH #974 encyclopedia: 974.  C. T. Lee 李青泰 / 2016/05](https://taiwaneseamericanhistory.org/whoswho974/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/c-t-lee/)
 
