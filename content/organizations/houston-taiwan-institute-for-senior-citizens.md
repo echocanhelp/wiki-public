@@ -37,3 +37,4 @@ Re-grep '休士頓台灣松年學院 / HTISC / Houston Taiwan Institute' against
  Re-check slice 09181500-12 (2026-09-20): identical six-record hit set (directory, activities, golf cup, concerts106, musical-concerts-167, Our Journeys 298) — saturated, SKIP.
  Re-check slice 09201400-8 (2026-09-21): identical six-record hit set — saturated, SKIP.
  Re-check slice 09211300-11 (2026-09-22): identical six-record hit set (directory, activities, golf cup, concerts106, musical-concerts-167, Our Journeys 298) — saturated, SKIP.
+ Re-check slice 09220800-8 (2026-09-22): fresh grep 休士頓台灣松年學院|HTISC|Houston Taiwan Institute — identical six-record hit set plus the corpus index page; saturated, SKIP.
