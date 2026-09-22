@@ -43,6 +43,7 @@ Experimental vocalist, composer,multi-instrumentalist, dancer, andproducer, 2014
 - **TAHS story-site performance records (2011, NYC):** solo concert listings documenting her live performances in the Taiwanese American community — [[works/taiwaneseamerican-org/jen-shyu-solo-inner-chapters|Jen Shyu Solo: INNER CHAPTERS]] (2011-03-08) and [[works/taiwaneseamerican-org/jen-shyu-solo-performance-with-jade-tongue|Jen Shyu Solo Performance with Jade Tongue]] (2011-05-30). Bibliographic (band B); corroborate the Jade Tongue repertoire already recorded in TAH #535.
 - Re-verified 2026-09-21 (deepen-x 09201400-28).
 - Re-verified 2026-09-22 (deepen-x 09211400-9): corpus re-grep (徐雁秋 / 徐秋雁 / Jen Shyu) returned only the records already absorbed above; no new absorbable facts; 徐雁秋 vs 徐秋雁 name conflict still on HOLD.
+- Re-verified 2026-09-22 (deepen-x 09220800-18): corpus re-grep returned the same six work records plus the two taiwaneseamerican-org concert listings already absorbed — SKIP, verified-saturated; name conflict still on HOLD.
 
 ## Family
 

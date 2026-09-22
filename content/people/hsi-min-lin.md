@@ -49,6 +49,7 @@ _No filled family fields on the TAH profile._
 - His TAH encyclopedia profile is held in the corpus at [[works/taiwaneseamericanhistory-org/whoswho1314|TAH #1314]].
 
 - 2026-09-22 — 正文點名其以 FAPA 副會長身份演講——連結為真；該紀錄日期事實已見上條 [[articles/taiwanjustice-net/2024/20240523010214_root_3260cd0bdf2f84d7|海台青與黑客松, 2017-07-24刊]]，本輪不重複。
+- 2026-09-22 — TJJ-A09220700-3 re-verify: 正文點名其以 FAPA 副會長身份演講，連結為真；日期事實已見上條，不重複。
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

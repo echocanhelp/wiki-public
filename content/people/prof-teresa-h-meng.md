@@ -51,3 +51,4 @@ _No filled family fields on the TAH profile._
 - 複核（deepen-x slice-25, slice-09160700-23, slice-09162138-20, slice-09170130-16, slice-09170500-15, slice-09180131-18, 至 2026-09-18）：re-grep 孟懷縈 / Teresa H. Meng（content/works + content/articles）僅見本人書目記錄 #1861 與 harvest index — SKIP, 無回憶錄/社群材料可吸收。
 - 複核（deepen-x slice-09190130-7, 2026-09-20）：re-grep 孟懷縈 / Teresa H. Meng（content/works + content/articles）僅見本人書目記錄 #1861 與 harvest index — SKIP，無可吸收材料。
 - 複核（deepen-x slice-09211400-6, 2026-09-22）：re-grep 孟懷縈 / Teresa H. Meng（works + articles）hit set identical — 僅本人書目記錄 #1861 與 works/index。SKIP, verified-saturated.
+- 複核（deepen-x slice-09220800-18, 2026-09-22）：re-grep hit set identical（僅 #1861 與 works/index）— SKIP, verified-saturated，無可吸收材料。

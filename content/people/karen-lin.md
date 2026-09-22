@@ -49,3 +49,4 @@ _No filled family fields on the TAH profile._
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - Corpus re-grep 2026-09-22 (slice 09211400-12): grep 林璇雯 / Karen Lin across works + articles returns exactly the records already linked above (own TAH records, #128 concert review, #123 chronicle, #243 memoir caption). No new absorbable community facts; saturated.
+- Corpus re-grep 2026-09-22 (slice 09220800-18): hit set identical (155, 333, whoswho1588, ourjourneys123/128/243) — SKIP, verified-saturated; HOLD on the 1990 photo-caption identity stands.

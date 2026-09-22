@@ -60,6 +60,7 @@ _No filled family fields on the TAH profile._
 - 2022-01-09 — 與鄭炳全、林文政、黃樹人連袂拜訪筆會會員葉思雅、張信惠伉儷，慶賀其「週末漫談音樂」專欄滿100期；賴慧娜以水果派致賀（[[articles/taiwanjustice-net/2022/20220127025846_2022_01_10_圓滿的100-慶賀葉思雅_張信惠_週末漫談音樂_專_a1be6b822ac7cdcd|TJJ, 2022-01-10]]）。
 
 - 2026-09-22 — 正文點名其負責 228 七十週年系列——連結為真；該紀錄日期事實已見上條 [[articles/taiwanjustice-net/2024/20240721101942_root_04f32b14d8cf8f12|台灣會館會訊 #11, 2016-12-17]]，本輪不重複。
+- 2026-09-22 — TJJ-A09220700-3 re-verify: 正文點名其負責 228 七十週年系列，連結為真；日期事實已見上條，不重複。
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
