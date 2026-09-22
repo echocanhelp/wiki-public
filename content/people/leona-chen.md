@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # Leona Chen (陳文羿)
 
@@ -45,6 +45,8 @@ last_reviewed: 2026-09-21
 - 與 Joyce Chen 合撰 228 紀念資源專文，介紹 1947-02-28 事件的背景與學習資源（[[works/taiwaneseamerican-org/remembrance-resources-learning-about-228|Remembrance: Resources for Learning about 228]]）。
 - 2019 年起與 Ketagalan Media 共同創辦人 Chieh-Ting Yeh 合作，為台裔美國學生組織設計同儕教學課程，並共同發起 OFTaiwan Award 奨助學生成創活動（[[works/taiwaneseamerican-org/introducing-the-oftaiwan-award-new-funding-for-taiwanese-american-student-progra|Introducing the OFTaiwan Award]]）。
 - 本人訪談紀錄：[[works/taiwaneseamerican-org/interview-leona-chen|For the (Re)Cord: An Interview with Leona Chen, 2018-01-28]]；TAH 名人錄條目：[[works/taiwaneseamericanhistory-org/whos-leona-chen|2075. Leona Chen 陳文羿 / 03/2018]]。
+
+- Corpus grep (re-run 2026-09-22, slice 09212352-5): hits are exactly the records already linked above (whos-leona-chen, census-2020-fundraiser, remembrance-228, solidarity, Pew statement, interview); no new absorbable material (SKIP-with-reason, page saturated).
 
 ## Sources
 - [TAH #2075 encyclopedia: 2075. Leona Chen 陳文羿 / 03/2018](https://taiwaneseamericanhistory.org/whos-leona-chen/)
