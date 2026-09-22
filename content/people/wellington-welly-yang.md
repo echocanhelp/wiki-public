@@ -43,7 +43,8 @@ Wellington (Welly) Yang 楊呈偉 – History of Taiwanese American (T.A. Archiv
 - 人物檔案：[[works/taiwaneseamericanhistory-org/whos-who-112-wellington-yang|TAH Who's Who #112]]、[[works/taiwaneseamericanhistory-org/ota-238|TAH #238]]。
 - 雙親楊次雄、楊黃美幸見本頁 Family（台灣醫療/文藝界人物，社群脈絡）。
 - 複核（deepen-x 2026-09-21）：corpus re-grep（楊呈偉 / Welly Yang，works+articles）僅見 #63/#24/#537/#112/#238、index 與 TJJ 兩篇報導，全數已 wikilink — 無新增社群材料。
-- 複核（deepen-x 2026-09-22）：corpus re-grep 命中集合不變（#63/#24/#537/#112/#238、index、TJJ 兩篇報導），全數已吸收 — 無新增社群材料。
+- 创立「第二代劇團」致力推動亞裔表演者發展；獲 CBS「實現夢想獎」、美國國家藝術俱樂部（National Arts Club）主席頌贈藝文榮譽獎章、A magazine 十大亞裔青年企業家等榮銜；其為前無任所大使楊黃美幸之子（見本頁 Family）（[[articles/taiwanjustice-net/2022/20221002104157_2022_08_08_曾為裴洛西募款餐會獻唱_音樂劇演員楊呈偉返台_6fd9d16befa5a33a|TJJ 報導]]）。
+- 複核（deepen-x 2026-09-22）：corpus re-grep 命中集合不變（#63/#24/#537/#112/#238、index、TJJ 兩篇報導）；自 TJJ 報導吸收第二代劇團與獲獎紀錄一筆 — 其餘無新增社群材料。
 
 ## Sources
 - [TAH #238 encyclopedia: 238. Wellington “Welly” Yang 楊呈偉](https://taiwaneseamericanhistory.org/ota-238/)

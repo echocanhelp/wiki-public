@@ -57,4 +57,6 @@ last_reviewed: 2026-09-22
 
 複核（deepen-x 2026-09-21）：corpus re-grep（王泰澤/Taitzer）命中集合不變（150、ourjourneys293、my-stories-161/162、private-collections-95、our-journeys-359），全數已吸收，無新增材料。
 
-複核（deepen-x 2026-09-22）：corpus re-grep（王泰澤/Taitzer）命中集合仍為上列六件 work 頁，全數已吸收 — 無新增社群材料。
+- 第一個台美人以灰狗巴士（Greyhound）花兩星期環遊美國（1966）：[[works/taiwaneseamericanhistory-org/151-e7-8e-8b-e6-b3-b0-e6-be-a4-taitzer-wang-the-first-taiwanese-who-traveled-aro|151. 王泰澤 / 第一個台美人搭灰狗巴士環遊美國 / 1966]]。
+
+複核（deepen-x 2026-09-22 slice-10）：corpus re-grep（王泰澤/Taitzer）新命中 work #151（Greyhound 環遊美國 1966）已吸收 wikilink；其餘命中（150、ourjourneys293 及英文版、my-stories-161/162、private-collections-95、our-journeys-359）皆已吸收，無其他新增材料。
