@@ -43,6 +43,7 @@ Accomplishment
 - Same memoir: his 2000 國防講座 was part of the church's 同鄉 lecture series (e.g. 1999 王成章牧師『活在這世紀末』, 90 同鄉出席; 鍾心堯『攝影的樂趣』 the same year), and the同工 circle he belonged to also sponsored 公民協會's folk festival in West Windsor — generous participation in 同鄉 activities is explicitly credited by the memoir's author (a 聖恩 elder).
 - Corpus preserves his award record [[works/taiwaneseamericanhistory-org/lockheed-martin-kingchi-wu-2006|64. Lockheed Martin Maritime Systems & Sensors 洛克希德馬丁公司年度作家獎 / KingChi Wu 吳耿志 / 2006]], corroborating the 2006 "Author of the Year".
 - Name note: the award work page romanizes his name "KingChi Wu"; TAH Who's Who uses "Keng Chi Wu" (same person, spelling variant — not a date/age conflict).
+- 2026-09-22 corpus re-grep (DEEPEN-X slice 09212352-26): hit-set unchanged — ZH+EN grep returns only whos-who-39, the Lockheed Martin award record, and ourjourneys43 (all absorbed above) plus the works index. Verified-saturated; nothing new absorbable this pass.
 
 ## Sources
 - [TAH #39 encyclopedia: 39. Keng Chi Wu 吳耿志](https://taiwaneseamericanhistory.org/whos-who-39-keng-chi-wu/)
