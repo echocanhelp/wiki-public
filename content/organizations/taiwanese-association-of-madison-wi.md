@@ -30,6 +30,7 @@ The Taiwanese Association of Madison-WI (威斯康星州麥城台灣同鄉會) i
 - **Madison as a movement gathering point:** after 周烒明 married 吳秀惠 at Madison (1959), the Zhou household — the only married student couple on campus — became the meeting place for 「認同台灣」 students (Taiwan songs, food, language); 田弘茂 was later dispatched to the Manhattan, Kansas chapter to promote campus registration — same memoir [[works/taiwaneseamericanhistory-org/ourjourneys81|TAH #81]].
 - HOLD: naming variant — this page carries 威斯康星州麥城台灣同鄉會; the corpus record titles the chapter 麥城台灣同鄉會 (no 州). Not auto-merged.
 - Corpus re-grep (麥城 / Madison, works+articles, 2026-09-20 slice-13 pass): new hits are the two Madison culture/club histories above (now linked); no memoir mention adds chapter-officer or event facts beyond what is recorded here.
+- Corpus re-grep (2026-09-22, deepen-x slice 09211400-1, vault-only): the only additional Madison hit is [[works/taiwaneseamericanhistory-org/ourjourneys123-eng|123. 明州台美人百年大事 / Chi-Ming Tseng]] — Madison appears only as the affiliation of prof. Hung-mao Tien (田弘茂), invited to the Minnesota chapter's 1991 「Taiwanese Politics」 forum. Cross-chapter personnel link (田弘茂 also appears in the UW-M organizing account above per TAH #81); no chapter-officer or event facts for Madison itself. Verify-saturated.
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-association-of-madison-wi/)

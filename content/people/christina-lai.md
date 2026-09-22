@@ -43,7 +43,7 @@ Teaching Assistant of Music Dept.
 
 Corpus re-grep 2026-09-17 (slice 09171100-12): grep 賴李煦煦 / Christina Lai / 紐約福爾摩沙合唱團 across content/works + content/articles returns her own stub, the NYFC record #14, concerts #55/#126, and the FOSPA directory entry — absorbed above; no memoir mentions beyond these. Re-grep 2026-09-18 (slice 09180131-22): hit set unchanged (own stub + works index) — nothing new to absorb.
 
-Re-grep 2026-09-20 (slice 09181500-17): hit set unchanged (own stub + works index + the cited NYFC/FOSPA/concert records) — nothing new to absorb.
+Re-grep 2026-09-20 (slice 09181500-17): hit set unchanged (own stub + works index + the cited NYFC/FOSPA/concert records) — nothing new to absorb. Re-grep 2026-09-22 (slice 09211400-13): hits again exactly own stub #1895 + works index — nothing new to absorb.
 ## Sources
 - [TAH #1895 encyclopedia: 1895. Christina Lai 賴李煦煦](https://taiwaneseamericanhistory.org/whos-who-1895-christina-lai/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/christina-lai/)

@@ -44,7 +44,7 @@ Accomplishment
 - **1923-07** — 新高銀行因一戰後不景氣長期虧損，被迫與嘉義銀行一起合併入日本官方的「台灣商工銀行」，改為「台灣商工銀行大稻埕分店」，職員遣散。李延禧隨後移居日本，成為旅日台灣人的精神領袖。
 - 相關紀錄：[[articles/taiwanjustice-net/2025/20250621231319_大稻埕的蔣渭水_新高銀行林木土_作家張我軍與_4543df3b6f52d624|大稻埕的蔣渭水、新高銀行林木土、作家張我軍（twjustice 2025）]]；同文早期存檔：[[articles/taiwanjustice-net/2021/20211226044007_2021_03_16_大稻埕的蔣渭水_新高銀行林木土_作家張我軍與_723c8ac20e91d5e3|同文 twjustice 2021-03-16 存檔]]；[[works/taiwaneseamericanhistory-org/whos-who-1850-y-s-lee|1850. Y. S. Lee 李延禧（TAH Who's Who）]]。
 - HOLD: conflict — TAH 傳記表格列 Columbia M.A. 為 1911，corpus 文章敘事則稱其 1915 年取得哥倫比亞經濟學碩士後返台；兩說年代未併合。
-- Corpus re-grep (李延禧, content/works + content/articles, 2026-09-21, slice 09201400-21): hit set identical to the records already absorbed above（TAH #1850、twjustice 大稻埕文 2025/2021 兩版、harvest index）— SKIP, page saturated.
+- Corpus re-grep (李延禧, content/works + content/articles, 2026-09-22, slice 09211400-11): hit set identical to the records already absorbed above（TAH #1850、twjustice 大稻埕文 2025/2021 兩版、harvest index）— SKIP, page saturated.
 
 ## Sources
 - [TAH #1850 encyclopedia: 1850. Y. S. Lee 李延禧](https://taiwaneseamericanhistory.org/whos-who-1850-y-s-lee/)

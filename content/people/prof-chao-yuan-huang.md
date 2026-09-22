@@ -48,6 +48,8 @@ From the community corpus (memoirs outrank the press-kit profile):
 - **NATPA 會長:** Listed among the leadership talent produced by the North California Taiwanese American community: 北美台灣人教授會會長 — 黃昭淵、林武男 (North American Taiwanese Professors' Association president). Source: [[works/taiwaneseamericanhistory-org/ourjourneys37|Our Journeys 37]].
 - Community profile record: [[works/taiwaneseamericanhistory-org/623-e9-bb-83-e6-98-ad-e6-b7-b5-201509|623. Prof. Chao Yuan Huang / 2015-09]].
 
+Re-grep 2026-09-22 (slice 09211400-13): corpus hits (黃昭淵 / Chao Yuan Huang, works+articles) are exactly the cited records — #623 profile, Our Journeys 74 (ZH+EN: NATPA克城分會成立、1988 醫學研討會), Our Journeys 37 (ZH+EN: 北加州會友擔任NATPA會長名單) — plus the harvest index. No new memoir or event mention; verify-saturated.
+
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-chao-yuan-huang/)
 

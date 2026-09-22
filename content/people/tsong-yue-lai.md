@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # Tsong-Yue Lai (賴聰域教授)
 
@@ -57,3 +57,4 @@ last_reviewed: 2026-09-21
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 - Corpus re-grep 2026-09-21 (slice 09201400-24): 賴聰域 / Tsong-Yue Lai matches unchanged — TAH #390 entry, the works index, and the 2018 台大校友名錄 article already linked above. No new first-person material; saturated.
+- Corpus re-grep 2026-09-22 (slice 09211400-14): 賴聰域 / Tsong-Yue Lai hit set unchanged (TAH #390 + works index only) — all already absorbed and wikilinked above; verify-saturated.
