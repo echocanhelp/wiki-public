@@ -48,6 +48,7 @@ Accomplishment
 - Corpus re-grep 2026-09-19: hit set unchanged (ota-148, ourjourneys5-9-11-donations-2002, john-c-liu, whos-who-50, index, 2022 taiwanjustice.net article) — all coverage already absorbed above; no new community facts.
 - Corpus re-grep 2026-09-20: two new raw hits are name collisions, not this person — [[works/taiwaneseamericanhistory-org/whoswho1458|1458. John Liu 劉宗憲]] is a different John Liu, and the "John, Jerry Liu" attendees in [[works/taiwaneseamericanhistory-org/ourjourneys265|265. 2011年美西夏令會的回顧]] are unlinked first names. No absorbable facts.
 - Corpus re-grep 2026-09-21: hit set unchanged (ota-148、whos-who-50、ourjourneys5-9-11-donations-2002、john-c-liu、works index、2020-08 taiwanjustice.net 夏令會報導) — verified saturated, no new community facts.
+- Corpus re-grep 2026-09-22: broad-name regex surfaced two additional files, both surname collisions, not this person — [[works/taiwaneseamericanhistory-org/ourjourneys311-eng|311 (NYTC Cultural Society memoir)]] mentions only 「Yung-pin Liu」/「Ting-hsiu Liu」, and [[works/taiwaneseamericanhistory-org/ourjourneys53-eng|53]] carries no Liu match at all. Exact 劉醇逸/John Liu hit set unchanged; verified saturated.
 
 ## Sources
 - [TAH #148 encyclopedia: 148. Chun John Liu 劉醇逸](https://taiwaneseamericanhistory.org/ota-148/)

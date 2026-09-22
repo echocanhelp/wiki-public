@@ -50,6 +50,7 @@ Dr. Yu has been a central institution-builder in the Greater Washington DC Taiwa
 - [[works/taiwaneseamericanhistory-org/41-e4-bb-8b-e7-bb-8d-e4-b8-80-e5-80-8b-e6-88-90-e5-8a-9f-e7-9a-84-e7-a4-be-e5-9c|41. 介紹一個成功的社團—大華府台美人長樂會(TASS) / 游宏仁 (2014/10)]]
 - [[works/taiwaneseamericanhistory-org/ourjourneys-138|138. 華府與巴城TAA的誕生 / 陳淮崇 (2015/05)]]
 - [[works/taiwaneseamericanhistory-org/whos-who-1646-henry-h-yu|1646. Dr. Henry H. Yu 游宏仁醫師 (TAH encyclopedia)]]
+- Corpus re-grep (deepen-x 2026-09-22, slice 09211500-8): hit set unchanged (ourjourneys-138、whos-who-1646、41-介紹一個成功的社團、2018 管中閔抗議信、index) — all absorbed and wikilinked, verified-saturated; 牙醫 HOLD stands.
 - [TAH #1646 encyclopedia: 1646. Dr. Henry H. Yu 游宏仁醫師](https://taiwaneseamericanhistory.org/whos-who-1646-henry-h-yu/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-henry-h-yu/)
 
