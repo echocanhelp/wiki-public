@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # Cheng-Ming Chuong (鍾正明)
 
@@ -49,3 +49,4 @@ last_reviewed: 2026-09-21
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 <!-- deepen-x 09200900-15: re-verified 2026-09-21 — corpus grep (ZH+EN) hits only own TAH record(s) in content/works; no new memoir/community material to absorb. -->
+<!-- deepen-x 09210831-20: re-verified 2026-09-22 — corpus grep (ZH+EN) hits remain only own record whoswho606 + works index. SKIP. -->

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # J. Y. Jackson Ko (柯哲洋)
 
@@ -36,6 +36,7 @@ last_reviewed: 2026-09-21
 - His own TAH story is held at [[works/taiwaneseamericanhistory-org/whoswho1768|1768. J. Y. Jackson Ko 柯哲洋 / 2017]].
 - Re-verified 2026-09-21 (deepen-x slice 22): fresh corpus grep hits only his own record, the works index, and false positives (a "J.Y. Lin" acknowledgement in [[works/taiwaneseamericanhistory-org/ourjourneys293-eng|Our Journeys 293]]; John J.Y. Huang 黃仲義) — no new absorbable material.
 
+- Re-verified 2026-09-22 (deepen-x slice 09210831-17): fresh grep hits remain his own TAH #1768 record, [[works/taiwaneseamericanhistory-org/ourjourneys12|Our Journeys 12]] (already absorbed above), and the works index — no new absorbable material.
 ## Sources
 - [TAH #1768 encyclopedia: 1768.  J. Y. Jackson Ko 柯哲洋 / 2017](https://taiwaneseamericanhistory.org/whoswho1768/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/j-y-jackson-ko/)
