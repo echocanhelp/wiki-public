@@ -49,4 +49,4 @@ _No filled family fields on the TAH profile._
 
 Corpus re-check 2026-09-21 (deepen-x slice 09200700-24): fresh grep for 周志謙 / Chih-Chien / Adam Chou — hits remain only his own TAH #2231 mirror and the works index; no memoir/community material. SKIP-deepen.
 
-> Corpus re-check 2026-09-22 (deepen-x slice 09210700-30): fresh grep for 周志謙 / Chih-Chien / Adam Chou — hits remain only his own TAH #2231 mirror; no memoir/community material. SKIP-deepen.
+> Corpus re-check 2026-09-22 (deepen-x slice 09210700-30): fresh grep for 周志謙 / Chih-Chien / Adam Chou — hits remain only his own TAH #2231 mirror; no memoir/community material. SKIP-deepen. Re-verified same day (slice 09220400-28): zero new hits beyond his own mirror; SKIP-deepen.

@@ -47,6 +47,7 @@ last_reviewed: 2026-09-22
 
 ## Worklog
 - 2026-09-22 deepen-x slice 09210500-15: SKIP confirmed — re-grep returned only records already linked above (ourjourneys24/53 ±EN, whoswho1184); no new corpus material.
+- 2026-09-22 deepen-x slice 09220400-28: re-verified — fresh grep 吳怡明/Ye-Ming Wu returns zero files outside those already linked; SKIP confirmed.
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
