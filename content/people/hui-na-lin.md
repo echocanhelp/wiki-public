@@ -56,6 +56,8 @@ _No filled family fields on the TAH profile._
 - 2017-02-17 — 大洛杉磯台灣會館暨南加及拉斯維加斯75個社團2月25日在洛杉磯華僑文教中心聯合紀念228七十週年並揭幕國紀館特展「沉冤、真相、責任」；籌備會由董事賴慧娜擔任召集人，為海外最盛大的228紀念活動（[[articles/taiwanjustice-net/2024/20240530134421_root_23da543a315a1fa1|TJJ 轉載台灣會館會訊，2017-02-17]]）。
 - 2022-01-09 — 與鄭炳全、林文政、黃樹人連袂拜訪筆會會員葉思雅、張信惠伉儷，慶賀其「週末漫談音樂」專欄滿100期；賴慧娜以水果派致賀（[[articles/taiwanjustice-net/2022/20220127025846_2022_01_10_圓滿的100-慶賀葉思雅_張信惠_週末漫談音樂_專_a1be6b822ac7cdcd|TJJ, 2022-01-10]]）。
 
+- 2026-09-22 — 正文點名其負責 228 七十週年系列——連結為真；該紀錄日期事實已見上條 [[articles/taiwanjustice-net/2024/20240721101942_root_04f32b14d8cf8f12|台灣會館會訊 #11, 2016-12-17]]，本輪不重複。
+
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

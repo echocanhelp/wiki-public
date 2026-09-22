@@ -80,6 +80,8 @@ Facts already present in vault pages citing Cho-Liang Lin (no new sources):
 - 2016-06-06 — 同文另存 Wayback 2023-01-29 存檔副本：該專場以「第一位進入國際樂壇的小提琴家林昭亮」開場，並宣布 6/12 課程續「德奧國音樂家系列」介紹海頓 —— [[articles/taiwanjustice-net/2023/20230129123134_2016_06_06_大洛杉磯台灣會館台灣學校_古典音樂欣賞_-六月_a244776e9eb57979|TJJ，2016-06-06 刊・2023-01-29 存檔]]。
 - 2016-11-28 — 台灣公義報「台美人台加人」分類存檔收錄林衡哲民報投稿標題「呂紹嘉首度帶領NSO遠征溫哥華和洛杉磯 林昭亮助陣」，記錄林昭亮以獨奏家身分參與NSO北美巡演（[[articles/taiwanjustice-net/2024/20240425083432_root_99aaa4abcb78ff6d|TJJ 台美人台加人存檔, 2024-04-25 快照]]）。
 
+- 2026-09-22 — 正文點名其與 NSO 於 Segerstrom Hall 演出（會館共同主辦）——連結為真；該紀錄日期事實已見上條 [[articles/taiwanjustice-net/2024/20240721101942_root_04f32b14d8cf8f12|台灣會館會訊 #11, 2016-12-17]]，本輪不重複。
+
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

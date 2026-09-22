@@ -50,6 +50,8 @@ last_reviewed: 2026-09-21
 - 2021-11-27 — 在台灣公義報頭條證實於美過世，享壽86歲（「蕭美琴父親蕭清芬牧師在美過世」標籤彙整頁 2022-05-21 存檔）（[[articles/taiwanjustice-net/2022/20220521151716_tag_蕭美琴父親蕭清芬牧師在美過世_8216e7ca508266e9|TJJ tag, 2021-11-27]]）。
 - 2023-11-20 — 中央社記者人物專稿（TJJ 轉載）記其從事神學教育、自美返台接任台南神學院院長，並述蕭家國際化而具濃厚本土意識、美籍母親學台語、子女英文名字採台語文羅馬字譯名 —— [[articles/taiwanjustice-net/2023/20231208130546_root_2a3226a1b19c5a46|TJJ 轉載中央社記者, 2023-11-20]]。
 
+- 2026-09-22 — 本篇署名作者即本人——連結為真；該紀錄日期事實已見上條 [[articles/taiwanjustice-net/2025/20250324133829_我的女兒美琴-_-蕭清芬_9d523cc5290c997b|我的女兒美琴, 2020-07-26刊]]，本輪不重複。
+
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

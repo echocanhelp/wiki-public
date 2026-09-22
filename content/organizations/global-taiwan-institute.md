@@ -37,6 +37,8 @@ The Global Taiwan Institute (GTI) is a think tank dedicated to strengthening US-
 - 2017-02-17 — AIT Taipei director Stephen Young (楊甦棣) spoke at GTI in Washington, per 宋娣's column: the US would send Marines to guard AIT's new Neihu compound (「Marine House⋯⋯台北也會有」), Taiwan needs new fighters to match China's air-defense capability, and the US should aid Taiwan's submarine program — cited as evidence US-Taiwan ties were approaching quasi-state level ([[articles/taiwanjustice-net/2024/20240522232536_root_064fe05a08d0aecf|TJJ, 2017-02-17]]).
 - 2016-10-13 — GTI 在華盛頓舉行美台海洋合作研討會（VOA 報導，TJJ 轉載）：美國 2049 項目研究所易思安在會中主張台灣恢復太平島陸戰隊部署，新美國安全中心研究員艾小磊（Alexander Sullivan）與新任研究員安大維（David An）則認為此時強化島上防務只會加劇緊張（[[articles/taiwanjustice-net/2024/20240520030041_root_7226a5c64ba2f713|TJJ/VOA, 2016-10-13]]）。
 
+- 2026-09-22 — 正文以其執行長 Russell Hsiao 受邀演講點名 GTI——連結為真；該紀錄日期事實已見上條 [[articles/taiwanjustice-net/2024/20240523010214_root_3260cd0bdf2f84d7|海台青與黑客松, 2017-07-24刊]]，本輪不重複。
+
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

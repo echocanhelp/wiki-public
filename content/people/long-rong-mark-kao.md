@@ -57,6 +57,8 @@ Dr. Long-Rong (Mark) Kao 高龍榮 – History of Taiwanese American (T.A. Archi
 - 2015-03-27 — Writing as president of the Formosan Association for Public Affairs, Kao's Taipei Times column (republished on TJJ) charges that US pressure on Taiwan for "specific outcomes" on cross-strait policy is itself unjust, since the US officially insists only on a "peaceful process" ([[articles/taiwanjustice-net/2024/20240522053244_root_042939d886040651|TJJ (Taipei Times), 2015-03-27]]; same column also archived in the English Pages category index: [[articles/taiwanjustice-net/2024/20240718230535_root_d2d01925bc6bbba3|TJJ English Pages 存檔頁, 2024-07-18 快照]]; re-archived 2024: [[articles/taiwanjustice-net/2024/20240523010214_root_3260cd0bdf2f84d7|Wayback copy via TJJ]]).
 - 2022-09-25 — Main speaker ("主講人 Long Rong (Mark) Kao, PhD") at the 53rd 世界台灣文化論壇 "Tī美國點光台灣", arguing Taiwan's geopolitical importance to the US, key US policy toward Taiwan, and shifting away from "strategic ambiguity", with discussant Ken Wu (吳兆峯) and moderator Peter Chen (陳正義) ([[articles/taiwanjustice-net/2022/20221127045936_2022_09_25_第53回世界台灣文化論壇_ti美國點光台灣高龍榮-吳_e9faa17a0a7ea61c|TJJ, 2022-09-25]]).
 
+- 2026-09-22 — 正文點名其為海台青籌辦人兼募款、前 FAPA 總會長——連結為真；該紀錄日期事實已見上條 [[articles/taiwanjustice-net/2024/20240523010214_root_3260cd0bdf2f84d7|海台青與黑客松, 2017-07-24刊]]，本輪不重複。
+
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

@@ -94,6 +94,8 @@ _No filled family fields on the TAH profile._
 - 2020-06-21 — 「蕭美琴辭別花蓮將駐美，支持者送祝福」亦見台灣公義報「台灣頭條」分類存檔（2020-06-25 快照），為其辭別花蓮選區轉赴駐美任所當日僑媒跟蹤報導（[[articles/taiwanjustice-net/2020/20200625150753_category_taiwan_page_3_11761bdaa78af55f|TJJ 台灣頭條存檔頁3, 2020-06-25 快照]]）。
 - 2024-02-10 — 台灣公義報「新聞觀測站」分類頁（Wayback 2024-04-25 快照）節目清單列有「新聞觀測站 20240210 準副總統蕭美琴選後專訪！」，為其選後專題訪談之又一存檔佐證（[[articles/taiwanjustice-net/2024/20240425140914_root_004420da7bd583a2|TJJ 新聞觀測站分類頁, 2024-04-25 快照]]）。
 
+- 2026-09-22 — 本篇書寫對象（父親筆下的女兒）即本人——連結為真，詳細日期事實已見上條；該紀錄日期事實已見上條 [[articles/taiwanjustice-net/2025/20250324133829_我的女兒美琴-_-蕭清芬_9d523cc5290c997b|我的女兒美琴, 2020-07-26刊]]，本輪不重複。
+
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
