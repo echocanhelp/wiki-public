@@ -47,6 +47,7 @@ last_reviewed: 2026-09-22
 - Community timeline entry: [[works/taiwaneseamericanhistory-org/ourjourneys123|Our Journeys 123]] (2015/11-12) — 李安電影展 at Walker Art Center; 李安 attended the closing dialogue with long-time collaborator 夏慕斯 (James Shamus).
 - Adjacent community echo: [[works/taiwaneseamericanhistory-org/my-stories-773|773. 征服李安台灣首位好萊塢食物造型師/蔡立勳/11/2020]] (11/2020) — 蔡立勳 as first Taiwanese Hollywood food styling artist, cited via 李安's production.
 - HOLD: duplicate person pages — corpus links both [[people/ang-lee|people/ang-lee]] and this page [[people/ang-lee-2]] as 李安; not merged.
+- **Movement-press analysis.** [[works/taiwaneseamerican-org/taiwan-films-that-imagine-taiwanese-america|Taiwan Films That Imagine Taiwanese America]] situates him between Taiwan and Taiwanese America: NYU grad whose winning GIO screenwriting-contest scripts became [[works/taiwaneseamerican-org/taiwanese-american-film|Taiwanese American film]] co-productions — 推手 and 喜宴 (1993), the latter his international breakthrough and a landmark of both Taiwan and Asian American cinema. In later community interviews he is cited as an inspiration by filmmakers, e.g. Erin Li — [[works/taiwaneseamerican-org/erin-li-brings-filmmaking-and-storytelling-to-life|Erin Li brings filmmaking and storytelling to life]].
 
 ## Sources
 - [TAH Who's Who](https://taiwaneseamericanhistory.org/person/ang-lee-2/)
