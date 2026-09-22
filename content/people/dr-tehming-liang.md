@@ -38,6 +38,7 @@ Accomplishment
 - Association memberships: [[organizations/north-american-taiwanese-medical-association-foundation|NATMA 北美臺灣人醫師協會]] (Chicago Chapter president, 2010); [[organizations/taiwanese-association-of-america-new-jersey|全美台灣同鄉會紐澤西分會 TAA/NJ]] (president).
 - HOLD: homonym disambiguation — the 梁德明 named in [[articles/taiwanjustice-net/2026/20260115091949_香港民主派新科區議員-呼籲台灣人返鄉投票影_b2e95db5f378e4bc|this 2026 TJJ article]] is a Hong Kong pro-democracy district councillor, not the Chicago physician; do not merge.
 - HOLD: corpus re-grep 2026-09-18 — the "Chang Teh-ming" appearing in [[works/taiwaneseamericanhistory-org/ourjourneys38-eng|38. TAFNC Thirty Year Review / 北加州台灣同鄉聯合會三十年回顧]] is the tangwai politician (given-name match only), not this physician; do not merge. No other corpus record beyond the TAH Who's Who entry.
+- Re-verified 2026-09-22 (slice 09220400-18): SKIP — corpus re-grep (梁德明 / Tehming Liang) returns only his own TAH record 1867, the works index, and the 2026 TJJ HK-councillor article already flagged as a homonym above. No new absorbable community facts.
 
 ## Family
 

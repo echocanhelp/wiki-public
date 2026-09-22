@@ -36,6 +36,7 @@ New York raised trumpeter Lovell Park Chang holds a Bachelor’s Degree from Man
 - 團隊演出紀錄：林肯中心 Alice Tully Hall 年度音樂會（2017-05-20、2018-06-09）、法拉盛台灣會館音樂會（2016-17 季師生才藝音樂會 2017-04-15 假台灣會館舉行，24 位師生演出；2018-05-19 會館音樂會）、Cardozo High School 聖誕音樂會（2017-12-17），以及社區長青中心與安養院（如 Silvercrest Center）公益演出。
 - HOLD: 同團師資名單中「張若葳」與「張紀葳」並列為兩人，未確認關係，不併檔。
 - TAH 百科本人条目：[[works/taiwaneseamericanhistory-org/musician94|94. Lovell Park Chang 張若葳, Brass / 2014/12]]、[[works/taiwaneseamericanhistory-org/whoswho1060|1060. Lovell Park Chang 張若葳 / 2016/06]]。
+- Corpus re-verify (deepen-x 09220400-13, 2026-09-22): fresh grep 張若葳/Lovell Park Chang in works/ + articles/ returned only ourjourneys306, musician94, whoswho1060 (all already absorbed) plus the works index; the one stray article hit matched an unrelated phrase, not this person. SKIP-deepen; nothing new absorbable.
 
 ## Family
 
