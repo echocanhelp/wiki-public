@@ -37,3 +37,8 @@ The Taiwanese Association of Alabama Birmingham (伯明罕臺灣同鄉會) is a 
 ## Corpus review (slice 09191100-17)
 
 - SKIP-with-reason (re-checked 2026-09-21): grep 伯明罕臺灣同鄉會 / "Taiwanese Association of Alabama" across content/works + content/articles returned zero hits — no chapter activity, roster, or founding facts absorbable.
+
+## Corpus review (slice 09210317-14)
+
+- SKIP-with-reason (re-checked 2026-09-21): grep 伯明罕臺灣同鄉會 / "Taiwanese Association of Alabama" / Birmingham across content/works + content/articles again zero chapter-specific hits — still no memoir/activity material.
+- Sister-organization context (vault-internal, directory records only): TAH holds parallel Alabama directory records [[works/taiwaneseamericanhistory-org/alabama-central-taa|TAA-Alabama Central 台灣同鄉會阿拉巴馬中部分會]] and [[works/taiwaneseamericanhistory-org/2-alabama-chapter-fapa|2. Alabama Chapter / FAPA 台灣人公共事務會阿拉巴馬州分會]] — places the Birmingham chapter within a documented multi-org Alabama scene, but neither names the Birmingham chapter itself.

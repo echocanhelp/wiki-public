@@ -43,6 +43,7 @@ _No filled family fields on the TAH profile._
 - 2026-09-18（slice 09170700-8）再次語料複核：命中無變化，維持 SKIP-with-reason。
 - 2026-09-19（slice 09180400-11）第三次語料複核：命中仍僅自身出處頁與 works index，無可吸收事實，維持 SKIP-with-reason。
 - 2026-09-21（slice 09191100-17）第四次語料複核：命中仍僅本身出處頁 [[works/taiwaneseamericanhistory-org/whos-who-2096-chi-pang-wen|TAH #2096]] 與 works index，無回憶錄提及，維持 SKIP-with-reason。
+- 2026-09-21（slice 09210317-15）第五次語料複核：命中無變化（溫啟邦／Chi-Pang Wen 僅自身出處頁與 works index），無可吸收事實，維持 SKIP-with-reason。
 
 ## Sources
 - [TAH #2096 encyclopedia: 2096. Dr. Chi-Pang Wen 溫啟邦博士](https://taiwaneseamericanhistory.org/whos-who-2096-chi-pang-wen/)

@@ -47,6 +47,8 @@ last_reviewed: 2026-09-21
 - 1987 — 編有《台灣公共政策研討會論文集》（[[works/taiwaneseamericanhistory-org/publications1092|TAH #1092]]）。
 - 1973–1974 — 時任 Syracuse 同鄉會負責人，於 1973 年美東基督徒第四屆暨美東台灣同鄉會第一屆夏令會（Camp Taconic, NY）後答應負責籌辦 1974 年美東夏令會，自此美東夏令會年年延續，並帶動美西、美南、中西部相繼成立夏令會，成為全美會區域性主要活動之一（[[works/taiwaneseamericanhistory-org/ourjourneys76|TAH #76]]；英文版 [[works/taiwaneseamericanhistory-org/ourjourneys76-eng]]）。
 - 2015-04 — TAH 收錄其個人紀錄「377. Chiu-Sen Wang 王秋森/2015/04」（[[works/taiwaneseamericanhistory-org/377-chiu-sen-wang|TAH #377]]）。
+- 1966 — 以 UCLA 為中心的台灣留學生每週輪流演講、讀書報告小組成員（與陳嶄新、李木通、黃根深、陳松貞等），此小組即 1971 年正式誕生的「生活座談會」的前身；他後來亦繼續參加南區（橙縣）生活座談會（[[works/taiwaneseamericanhistory-org/ourjourneys212|TAH #212]])。
+- 1968 — 全美台灣獨立聯盟決議將總部自費城遷往紐約後，鼓勵盟員到聯合國所在地及華府附近就業定居；他與張燦鍙、羅福全、蔡同榮、賴文雄、鄭自才、許富淵、陳伸夫、洪哲勝、張文棋、王康陸等主力幹部在完成學業後陸續赴紐約總部報到（[[works/taiwaneseamericanhistory-org/ourjourneys234|TAH #234]]）。
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/chiu-sen-wang/)
