@@ -34,7 +34,7 @@ last_reviewed: 2026-09-21
 
 
 ## Role in the Community
-Corpus check (2026-09-20): the only corpus records naming 陳明憲 are his own TAH Who's Who entry ([[works/taiwaneseamericanhistory-org/849-e9-99-b3-e6-98-8e-e6-86-b2-201604|849. M.S. Chen 陳明憲 / 2016/02]]); no memoir material beyond it. Disambiguation: another "M.S. Chen" exists in the corpus — [[works/taiwaneseamericanhistory-org/whoswho1615|1615. M.S. Chen 陳茂山 / 2017/04]] (陳茂山, Chicago) — a different person sharing the same initials; HOLD: do not merge entries.
+Corpus check (re-verified 2026-09-22): the only corpus records naming 陳明憲 are his own TAH Who's Who entry ([[works/taiwaneseamericanhistory-org/849-e9-99-b3-e6-98-8e-e6-86-b2-201604|849. M.S. Chen 陳明憲 / 2016/02]]); no memoir material beyond it. Disambiguation: another "M.S. Chen" exists in the corpus — [[works/taiwaneseamericanhistory-org/whoswho1615|1615. M.S. Chen 陳茂山 / 2017/04]] (陳茂山, Chicago) — a different person sharing the same initials; HOLD: do not merge entries.
 
 ## Sources
 - [TAH #849 encyclopedia: 849. M.S. Chen陳明憲 /2016/02](https://taiwaneseamericanhistory.org/849-%e9%99%b3%e6%98%8e%e6%86%b2-201604/)
