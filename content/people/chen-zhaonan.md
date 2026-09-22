@@ -6,7 +6,7 @@ tags:
   - columnist
   - taiwanjustice-net
 verification_status: pending
-last_reviewed: 2026-08-30
+last_reviewed: 2026-09-22
 birthdate: 1942-12-11
 birth_year: 1942
 hometown: 台北市

@@ -8,7 +8,7 @@ tags:
   - Pan-Green-Coalition
   - Taiwanese-American-connection
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # Democratic Progressive Party (民主進步黨)
 
