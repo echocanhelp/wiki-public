@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # Ai-Jen Poo (蒲艾真)
 
@@ -48,3 +48,4 @@ last_reviewed: 2026-09-21
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - Re-grep 2026-09-20 (slice 09190400-10): corpus hits are her own TAH #2040 record + index entries only — hit set unchanged; existing Role-in-the-Community links (TA online 2013 interview, Time 100) already absorb all available material. No new corpus facts; no conflicts.
+- Re-grep 2026-09-22 (slice 09211500-25): re-confirmed — hit set unchanged (own TAH #2040 record + index only); verified-saturated, SKIP-with-reason.

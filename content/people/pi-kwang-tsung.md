@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # Pi-Kwang Tsung (曾碧光)
 
@@ -62,3 +62,4 @@ Beyond the directory entry, no memoir/article in the corpus currently names him;
 - Re-grep 2026-09-19 (slice 09170600-28): corpus scan of works/articles again returns only this person's own TAH bibliographic record — no memoir or movement-activity material to absorb; existing links above stand, no conflicts found.
 - Re-grep 2026-09-20 (slice 09190400-11): re-confirmed — works/articles hits limited to own TAH #1260 record + index; SKIP, nothing absorbable.
 - Re-grep 2026-09-21 (slice 09201500-24): third re-confirmation — works/articles hits limited to own TAH #1260 record + index; SKIP, nothing absorbable.
+- Re-grep 2026-09-22 (slice 09211500-25): fourth re-confirmation — hit set unchanged (own TAH #1260 record + index only); verified-saturated, SKIP-with-reason.
