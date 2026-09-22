@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # Maw Lin (林茂雄)
 
@@ -32,7 +32,7 @@ last_reviewed: 2026-09-21
 
 ## Role in the Community
 - Held in the TAH community record by two entries: Who's Who [[works/taiwaneseamericanhistory-org/whoswho1024|1024. Maw Lin 林茂雄]] (logged 2016-05-27) and the earlier profile [[works/taiwaneseamericanhistory-org/28-e6-9e-97-e8-8c-82-e9-9b-84maw-lin201501|28. 林茂雄 Maw Lin]] (logged 2015-01-20), documenting his career as a New York watercolour painter within the Taiwanese American artist community.
-- 2026-09-18 re-check (again 2026-09-20, 2026-09-21): corpus grep hits only his own TAH records via the works index — no memoir/cluster material to absorb; no facts invented.
+- 2026-09-18 re-check (again 2026-09-20, 2026-09-21, 2026-09-22): corpus grep hits only his own TAH records via the works index — no memoir/cluster material to absorb; no facts invented.
 
 ## Family
 

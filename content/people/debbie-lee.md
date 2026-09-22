@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # Debbie Lee
 
@@ -27,7 +27,7 @@ Debbie Lee appears in the TAHS story corpus as a Dallas-area pianist active in t
 - Listed in the TAH Who's Who: [[works/taiwaneseamericanhistory-org/whoswho1224|1224. Debbie Lee (2016-08)]].
 - Community tie to the Dallas chorus: [[works/taiwaneseamericanhistory-org/formosa-chorus-of-dallas-taihsin|59. Formosa Chorus of Dallas (TaiHsin) 達拉斯台心合唱團 (2018)]] — her TAH profile records her as the chorus's accompanist, placing her inside this community-history record.
 
-The corpus entries are bibliographic records (band B); no memoir text adds facts beyond the press-kit bio below.
+The corpus entries are bibliographic records (band B); no memoir text adds facts beyond the press-kit bio below. Re-check 2026-09-22: fresh grep of `content/works`/`content/articles` returns only musician147 and the works index — already absorbed above; nothing new.
 
 Debbie Lee started playing the piano since the age of six. As a child, she enjoyed music as a hobby and would often play songs by ear. In high school, Debbie moved to Dallas, Texas, and started attending recitals and competitions with the encouragement of her new instructor. By the time Debbie was a senior in high school; she had won numerous awards in competitions and earned scholarships to attend University of Houston as a music major.
 
