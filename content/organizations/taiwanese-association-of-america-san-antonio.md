@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # Taiwanese Association of America San Antonio (聖安東尼)
 
@@ -26,6 +26,8 @@ The Taiwanese Association of America San Antonio (TAASA) is a chapter of the Tai
 - [[works/taiwaneseamericanhistory-org/ourjourneys317|Our Journeys 317]] (隆福, 10/2017) records San Antonio 同鄉 among those who traveled to the 美國南區台灣民眾大會 (~400 attendees; 彭明敏 and 張燦鍙 spoke).
 - Movement-era local-organizing context: [[works/taiwaneseamericanhistory-org/ourjourneys155|Our Journeys 155 台美人檔案座談會 at 2007美南夏令會]] records San Antonio among the 美南 cities (Dallas, Houston, New Orleans, Austin, Baton Rouge, Clear Lake, College Station, San Antonio, Oklahoma) urged to take up the movement-Archives question from the local level in regional meetings, with the 總幹事 convening past 美南夏令會 total secretaries to continue both the summer conference and the Archives effort.
 - Adjacent San Antonio institutions in the same corpus record the chapter's civic context: [[works/taiwaneseamericanhistory-org/taiwanese-chamber-of-commerce-of-san-antonio|Taiwanese Chamber of Commerce of San Antonio]], [[works/taiwaneseamericanhistory-org/evangelical-formosan-church-of-san-antonio|Evangelical Formosan Church of San Antonio]], [[works/taiwaneseamericanhistory-org/church-of-san-antonio|Church of San Antonio]].
+
+- Corpus re-grep 2026-09-22 (slice 09211400-4; 聖安東尼 / San Antonio): hit set is exactly the records already wikilinked above (chapter record, Our Journeys 155/307/317/318, Chamber of Commerce, Evangelical Formosan Church, Church of San Antonio); saturated, no new absorbable material.
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-association-of-america-san-antonio/)

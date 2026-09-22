@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # Susan Y. J. Chang (程韻如)
 
@@ -31,6 +31,8 @@ Accomplishment
 - Encyclopedia entries in the corpus: [[works/taiwaneseamericanhistory-org/190-susan-chang|TAH #190 Y. R. Susan Chang 程韻如]] and [[works/taiwaneseamericanhistory-org/whos-who-1531-susan-chang|TAH #1531 Susan Y. J. Chang 程韻如]].
 - HOLD: name collision — the corpus also holds 「7. Collection of Mrs. Susan Chang Lee 張淑珍女士的收藏」 ([[works/taiwaneseamericanhistory-org/collection-of-mrs-susan-chang-lee|TAH #7]], 2016-09-22), a **different person** (Susan Chang Lee / 張淑珍, married surname Lee; this page's subject's husband is 張仲郎). No conflation.
 - Corpus re-check (2026-09-21, deepen-x slice 09201500-3, vault-only): grep for 程韻如 / Susan Chang returns the memoir records already linked (#60, #160, #249, #298) plus the two encyclopedia pages and the Susan Chang Lee collection (linked above as collision). No new biographical facts absorbable.
+
+- Corpus re-check (程韻如 / Susan Chang, works+articles, slice-09211400-2 pass 2026-09-22): hit set unchanged (#60, #160, #249, #298, both encyclopedia records, Susan Chang Lee collision); the sole new match [[works/taiwaneseamericanhistory-org/winners31|31. 總統學者獎 / 1996]] is a false positive — its 「Susan」 is Susan Yeh 葉舒珊, a different person. No new absorbable facts; verify-saturated.
 
 <!-- tah-tables:start -->
 ## Education

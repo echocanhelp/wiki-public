@@ -54,4 +54,5 @@ _No filled family fields on the TAH profile._
 - 2016-06-26 — 「台灣會館園藝講座-蔬果園藝交流在美洲主辦-王麗貝(Lisa Wang)講玫瑰花養植及玫瑰花茶加工」見於TJJ「蔬果園藝交流在美洲」標籤存檔頁第2頁（[[articles/taiwanjustice-net/2024/20240522234319_root_2e141df6a5071110|TJJ tag 存檔, 2024-05-22 快照]]）。
 - 同一開課公告（TJJ ?p=85641，2016-06-23）另見 2024-05-27 快照（[[articles/taiwanjustice-net/2024/20240527043708_root_6b3c71d96eeae5ca|TJJ 存檔快照]]），內容與上引 2023-01-30 快照一致。
 - Corpus re-check (2026-09-21, deepen-x slice 09201500-1, vault-only): grep of works + articles for 王麗貝 / Lipei / Lisa Wang returns only whoswho901 plus the taiwanjustice.net 園藝講座 archive pages already linked above — no new absorbable material; verify-saturated.
+- Corpus re-grep (王麗貝 / Lipei / Lisa Wang, works+articles, slice-09211400-2 pass 2026-09-22): hit set unchanged (whoswho901, works/index listing, same TJJ 園藝講座 archive pages). No new absorbable material.
 - 2016-09-25 會園藝講座當日另有徐志「農友公司與種子分享」、蕭宏圖「食材與身體健康」等同系列場次，王麗貝之「秋天自家蔬果加工」列於同日講座報導群——見 TJJ 台美人台加人分類存檔（[[articles/taiwanjustice-net/2024/20240528130155_root_fd9afba4619325d8|TJJ 存檔, 2024-05-28 快照]]），可證該講座為團隊系列而非單場。

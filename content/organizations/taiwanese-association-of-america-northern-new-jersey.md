@@ -30,6 +30,7 @@ The corpus holds these TAA/NNJ community records:
 - Chapter newsletter: [[works/taiwaneseamericanhistory-org/newsletter-of-taannj|TAA/Northern New Jersey Chapter 北澤西同鄉會 newsletter]] (2019-06-30, bibliographic record).
 - Inter-community support: a Taiwan Pen (美洲台灣筆會) memoir recalls TAA/NNJ's 年會 and 台語教會郊外聯合禮拜/野宴 events being covered (photos and reports) by a pen-club member — evidence of chapter ties to the local language-church and literary circles. Recorded in [[works/taiwaneseamericanhistory-org/ourjourneys12|Our Journeys #12]] (2014-09-05).
 - Corpus re-check (2026-09-21, deepen-x slice 09201500-3, vault-only): fresh grep for 北澤西/TAA-NNJ/Northern New Jersey adds two previously unlinked records — the 2017 scholarship award and the 2019 chapter newsletter (now linked above). Hit set otherwise matches the prior re-check; no date/office conflicts to merge.
+- Corpus re-check (2026-09-22, deepen-x slice 09211400-3, vault-only): re-grep 北澤西/TAA-NNJ/Northern New Jersey — hit set identical to the prior re-check (history, activities, 語文教師研習會, 松青學院, OJ#219, OJ#12); no new absorbable facts, no conflicts. Verify-saturated.
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-association-of-america-northern-new-jersey/)

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # Dr. Fei-Kuang Tseng (曾輝光博士)
 
@@ -44,6 +44,7 @@ last_reviewed: 2026-09-21
 - **Credit-union founding:** per 周實's memoir 「曇花一現的南加信用合作社」 ([[works/taiwaneseamericanhistory-org/ourjourneys244|Our Journeys 244]]), 曾輝光 attended the first SCTFCU (南加州台灣人聯邦信用合作社) organizing meeting (**1977-07-24**, ~14 同鄉 present) and served as **secretary (秘書)** on its founding board. The initiative was launched while 周實 was 洛杉磯台灣同鄉會會長 (1977): he seeded the idea via three articles in 「洛台鄉訊」 (issues 5–7) plus 莊承業's 「介紹德州台灣信用合作社」; the name SCTFCU was proposed unanimously at that first meeting, 周實 was elected 臨時召集人 (office in 喜瑞都/Cerritos), and the organising chain ran through a Cal-CU-League-advised third meeting (9/16, adviser Kent Britton) and a fourth picnic-format meeting (10/22, Barnes Park, Monterey Park-area) before incorporation via a Japanese-American lawyer. 曾輝光's secretary role was on the founding 理事 board alongside 社長 莊洸雄, 副社長 王喜雄, and 財務 陳銓仁.
 - **TAH encyclopedia record:** profiled as TAH #82 (published 2014-11-13) [[works/taiwaneseamericanhistory-org/whos-fei-kuang-tseng|TAH #82: Fei-Kuang Tseng 曾輝光]] — bibliographic record only; complements the Who's Who entry, no new biographical facts stated.
 - **TASA:** president of the Taiwanese-America Seniors Association of Southern California, 1995 and 1997. [[organizations/taiwanese-america-seniors-association-of-southern-california-tasa|TASA]]
+- Corpus re-check (2026-09-22, deepen-x slice 09211400-3, vault-only): re-grep 曾輝光/Fei-Kuang Tseng — hit set (mystories124, whos-fei-kuang-tseng, ourjourneys244, collection, ourjourneys173/173-eng) is fully linked above; no new absorbable facts, no conflicts. Verify-saturated.
 
 ## Sources
 - [TAH #179 encyclopedia: 179. Dr. Fei-Kuang Tseng 曾輝光博士](https://taiwaneseamericanhistory.org/179-dr-fei-kuang-tseng/)

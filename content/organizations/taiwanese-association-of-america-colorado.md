@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # Taiwanese Association of America Colorado (科羅拉多)
 
@@ -25,6 +25,8 @@ The Taiwanese Association of America Colorado (TAA-CO, 科羅拉多 台灣同鄉
 - Colorado appears as a listener reach-area for the Bay Area 「台灣之音」 phone-news line (from 1978), showing Colorado members' tie into the island tangwai news network — [[works/taiwaneseamericanhistory-org/ourjourneys37|Our Journeys 37]].
 - A chapter-authored institutional history exists in the corpus (2017-10-04, band B): [[works/taiwaneseamericanhistory-org/history-of-taiwanese-association-of-america-colorado|科州台灣同鄉會簡介與感言]] — bibliographic record only in the vault; full text stays in the source archive.
 - Mutual-aid role in the present day: in 2024 the chapter, together with 科羅拉多台灣人緊急救助會, ran the GoFundMe relief drive (target US$250k, exceeded at US$326,200 by 2024-06-08) for Air Force Academy cadet 徐皓明 after his mother and grandmother were critically injured in a car accident near Colorado Springs, with 駐丹佛辦事處長黃世昌 also assisting — [[articles/taiwanjustice-net/2024/20240622131108_root_c4078f60c12e24af|TJJ report via 大洛杉磯台灣會館, 2024-06-07]], [[articles/taiwanjustice-net/2024/20240622133059_root_77fe74fe6d54efd6|TJJ / 中央社記者 report]], [[articles/taiwanjustice-net/2025/20250324131146_母親外婆來美參加畢業典禮卻遇嚴重車禍_請慷慨_0e8044bd2c9f261f|TJJ follow-up, 2025-03-24]], [[articles/taiwanjustice-net/2025/20250815064510_美軍校台生徐皓明家人來美遇車禍重傷-台僑援助募_eeb9974330046d04|TJJ 中央社 report, 2025-08-15]].
+- Parallel Colorado-Taiwanese civic infrastructure: a FAPA 台灣人公共事務會 Colorado chapter record exists alongside the TAA chapter — [[works/taiwaneseamericanhistory-org/11-colorado-chapter-fapa|FAPA 克羅拉多分會 (2015 directory entry)]].
+- Regional-plains context: 科羅拉多 is one of the six plains states covered by the 平原區台灣人秋令会 (Plains Taiwanese Camp Meeting, founded 1985 in Manhattan, Kansas over 1983–85 organizing by 范良正, 楊景文, 刁明華, 黃金來, 徐福棟, 林啓東); a 1996 letter in the corpus signed 「TAA/Colorado Wu 錫圭」 recalls the camp meeting's founding theme 「大家來，來做堆」 and its deliberate break from Chinese-American organizations — [[works/taiwaneseamericanhistory-org/ourjourneys296|Our Journeys #296]].
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-association-of-america-colorado/)

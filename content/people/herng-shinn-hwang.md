@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # Herng-Shinn Hwang (黃恆信)
 
@@ -47,7 +47,7 @@ last_reviewed: 2026-09-21
 - TAITA's wider activity is documented in the corpus at [[works/taiwaneseamericanhistory-org/taita-east-coast|TAITA—East Coast directory record (TAH, 2018/05)]] and the sibling records [[works/taiwaneseamerican-org/taita-sv-panel-presentation-opportunities-for-the-new-decade|TAITA Silicon Valley panel (2010)]] / [[works/taiwaneseamerican-org/summer-bbq-with-taita-in-norcal-2|TAITA NorCal BBQ (2014)]]; the chapter's NJ base is corroborated by the 紐澤西台美團體 survey [[works/taiwaneseamericanhistory-org/ourjourneys356|TAH #356]]. None of these name Hwang personally — his presidency rests on the Who's Who entry only.
 - Corpus re-check (2026-09-19, deepen-x slice 09170400-8 page 2, vault-only): grep of content/works + content/articles for 黃恆信 / Herng-Shinn Hwang returns only the #735 record and the works index — no memoir mentions. The industrial career (Engelhard, INDER consultant, Songya Technology) stands as per the TAH profile.
 - Corpus re-check (2026-09-20, deepen-x slice 09190445-1, vault-only): hit set unchanged (only [[works/taiwaneseamericanhistory-org/735-herng-shinn-hwang-e9-bb-83-e6-81-86-e4-bf-a1-201512|#735]] + index) — nothing new absorbable; SKIP-with-no-new-facts.
-- Corpus re-check (2026-09-21, deepen-x slice 09201500-3, vault-only): third independent re-grep, hit set still identical (#735 + works index) — verify-saturated, SKIP-with-no-new-facts.
+- Corpus re-check (2026-09-22, deepen-x slice 09211400-5, vault-only): fourth independent re-grep, hit set still identical (#735 + works index) — verify-saturated, SKIP-with-no-new-facts.
 
 ## Sources
 - [TAH #735 encyclopedia: 735. Herng-Shinn Hwang 黃恆信 / 2015/12](https://taiwaneseamericanhistory.org/735-herng-shinn-hwang-%e9%bb%83%e6%81%86%e4%bf%a1-201512/)

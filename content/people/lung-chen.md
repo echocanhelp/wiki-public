@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # Lung Chen (陳隆)
 
@@ -58,4 +58,4 @@ From the community record (memoirs outrank the TAH press-kit bio):
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
-- SKIP note（deepen-x slice-09201400-14, re-grep 2026-09-21）：corpus hit set（ourjourneys280、our-journeys-350、ourjourneys253、our-journeys-357；108-prof-lung-chi-chen 陳隆志、whoswho1898 陳隆旭為同名近似不同人，已 HOLD）與已吸收連結完全一致 — 頁面包和，無新可吸收材料。
+- SKIP note（deepen-x slice-09211400-5, re-grep 2026-09-22）：corpus hit set（ourjourneys280、our-journeys-350、ourjourneys253、our-journeys-357；108-prof-lung-chi-chen 陳隆志、whoswho1898 陳隆旭為同名近似不同人，已 HOLD）與已吸收連結完全一致 — 頁面包和，無新可吸收材料。

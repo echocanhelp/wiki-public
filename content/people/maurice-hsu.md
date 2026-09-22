@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # Maurice Hsu (許盛男醫師)
 
@@ -56,4 +56,4 @@ last_reviewed: 2026-09-21
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
-- SKIP note（deepen-x slice-09201400-14, re-grep 2026-09-21）：corpus hit set（174、176、308、ourjourneys09、ourjourneys9-eng、ourjourneys356-eng）與已吸收連結完全一致（TJJ 三筆已在 From the record）— 頁面包和，無新可吸收材料；FAPA 創會年份 1981 vs 1982 冲突已 HOLD。
+- SKIP note（deepen-x slice-09211400-5, re-grep 2026-09-22）：corpus hit set（174、176、308、ourjourneys09、ourjourneys9-eng、ourjourneys356-eng）與已吸收連結完全一致（TJJ 三筆已在 From the record）— 頁面包和，無新可吸收材料；FAPA 創會年份 1981 vs 1982 冲突已 HOLD。

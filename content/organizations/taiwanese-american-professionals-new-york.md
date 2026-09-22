@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # Taiwanese American Professionals New York (台美菁英協會紐約分會)
 
@@ -26,6 +26,7 @@ Taiwanese American Professionals New York (TAP-NY) is a chapter of the Taiwanese
 - First-person memoir band-A material: [[works/taiwaneseamerican-org/flipping-the-taiwanese-oyster-omelette|Flipping the Taiwanese Oyster Omelette, 2013-05-09]] records an attendee at TAP-NY's "Cooking Series" (Cooking 101 with a Taiwanese "Ah Ma") at Union Church, Astoria, Queens — Mrs. Lin teaching oyster-omelette flipping, a named community-organizing voice for the chapter.
 - Cultural programming also documented: [[works/taiwaneseamerican-org/movie-night-you-are-the-apple-of-my-eye-with-tap-ny|Movie Night "You Are the Apple of My Eye" with TAP-NY]].
 - HOLD: conflict on parent org — the TAH directory/press-kit bio frames TAP-NY as a TACL chapter, while the corpus files it under the independent 台美菁英協會 (TAP) chapter family. Never auto-merged; both framings retained.
+- Corpus re-grep (台美菁英 / TAP-NY / Taiwanese American Professionals, works+articles, slice-09211400-2 pass 2026-09-22): hit set unchanged — the sibling chapter records (austin-chapter-tap, d-c-chapter-tap, boston-chapter-tap, activities-of-orange-county-chapter-tap, taiwanese-american-professionals-tap, Seattle scholarship) are all already linked above. No new absorbable material; verify-saturated.
 - Corpus re-grep 2026-09-21 (slice 09201500-11): TAH-side hits unchanged (chapter record 7 + index); the new material absorbed above comes from the taiwaneseamerican-org source, absent from the page until now.
 
 ## Sources
