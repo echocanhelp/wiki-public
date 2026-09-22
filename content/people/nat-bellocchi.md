@@ -7,8 +7,9 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
+<!-- deepen-x slice 09211507-26: verified-saturated 2026-09-22 — re-grepped works+articles for 白樂崎/Bellocchi: only own TAH #839 record + index row; SKIP-with-reason in 'Role in the Community' stands. -->
 # Nat Bellocchi (白樂崎)
 
 ## Identity Snapshot
