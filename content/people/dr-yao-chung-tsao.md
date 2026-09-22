@@ -39,7 +39,7 @@ A recipient of Alexander C. Williams, Jr Award from Human Factors and Ergonomics
 - **Wife:** 李秀治
 
 ## Role in the Community
-- Held in the TAH story corpus as record 756. Dr. Yao-Chung Tsao 卓耀宗 (2016-01-09) ([[works/taiwaneseamericanhistory-org/756-dr-yao-chung-tsao-e5-8d-93-e8-80-80-e5-ae-97-201601|record 756]]); the record's Subjects already backlink this page. Full text stays in the vault — bibliographic record only, no further absorbable community narrative found in works/ or articles/. Re-verified 2026-09-21 (deepen-x 09200900-26): fresh ZH+EN greps return only this record.
+- Held in the TAH story corpus as record 756. Dr. Yao-Chung Tsao 卓耀宗 (2016-01-09) ([[works/taiwaneseamericanhistory-org/756-dr-yao-chung-tsao-e5-8d-93-e8-80-80-e5-ae-97-201601|record 756]]); the record's Subjects already backlink this page. Full text stays in the vault — bibliographic record only, no further absorbable community narrative found in works/ or articles/. Re-verified 2026-09-21 (deepen-x 09200900-26) and again 2026-09-22 (deepen-x 09210900-24): fresh ZH+EN greps return only this record.
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-yao-chung-tsao/)

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # Eric Lee (李英毅)
 
@@ -48,3 +48,6 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+
+Corpus re-check (2026-09-22, deepen-x slice -22): fresh grep (李英毅 / Eric Lee) returned only own record [[works/taiwaneseamericanhistory-org/whoswho1515|TAH #1515]] + index — SKIP stands.

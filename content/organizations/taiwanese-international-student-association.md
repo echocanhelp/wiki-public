@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # Taiwanese International Student Association
 
@@ -28,3 +28,5 @@ The Taiwanese International Student Association (TiSA) at the University of Texa
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+- Re-verified 2026-09-22 (deepen-x slice -22): grep TiSA / Taiwanese International Student Association / 台灣國際學生會 across works+articles returned zero corpus hits; SKIP stands.
