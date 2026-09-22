@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # Stanford Taiwanese Student Association
 
@@ -28,3 +28,4 @@ The Stanford Taiwanese Student Association (STSA) is a non-political, non-religi
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 <!-- deepen-x 09200800-31: SKIP — fresh grep 2026-09-21 (works/articles): own TAH record or unrelated substring hits only (Rutgers TSA, archive digests); no new memoir/community material. -->
+<!-- deepen-x 09210831-14: re-verify 2026-09-22 — fresh grep: new hits are 2025 TJJ articles matching 'STSA' inside archive_digest hashes (false positives); the 2022 layoffs report is already absorbed. No new material. -->

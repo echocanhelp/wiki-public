@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-20
+last_reviewed: 2026-09-22
 ---
 # Dr. Jim Lin (林存欣醫師)
 
@@ -51,3 +51,4 @@ No memoir or movement-activity records for 林存欣 were found in the corpus.
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+<!-- deepen-x 09210831-14: re-verify 2026-09-22 — fresh grep (works/articles): own TAH record whos-who-2138 + index digests only; existing Role in the Community already absorbs all corpus material. No new memoir material. -->
