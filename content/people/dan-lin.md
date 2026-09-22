@@ -42,6 +42,7 @@ _No filled family fields on the TAH profile._
 - His TAH encyclopedia profile is preserved in the corpus — [[works/taiwaneseamericanhistory-org/182-dan-lin-e6-9e-97-e6-9a-90|TAH #182]]
 
 - Re-verified 2026-09-22 (deepen-x slice 09210831-17): corpus hits unchanged (my-stories-845, TAH #182, ITASA record — all linked above); a 2023 taiwanjustice-net hit is 林暐翔, a different person (false positive, not absorbed).
+- Re-verified 2026-09-22 (deepen-x slice 09220700-22): corpus re-scan unchanged; taiwanjustice-net hit remains 林暐翔 (different person, not absorbed). No new community material.
 ## Sources
 - [TAH #182 encyclopedia: 182. Dan Lin 林暐](https://taiwaneseamericanhistory.org/182-dan-lin-%e6%9e%97%e6%9a%90/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dan-lin/)
