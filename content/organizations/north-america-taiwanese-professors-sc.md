@@ -32,6 +32,14 @@ NATPA Southern California sits within the wider NATPA network documented in the 
 
 - 2019 — the TAH story corpus holds a dedicated activity record for the chapter: [[works/taiwaneseamericanhistory-org/north-american-taiwanese-professors-association-napta-south-ca-chapter|北美洲台灣人教授協會南加州分會的活動 (NATPA S CAL, 2019-02-26)]] — bibliographic record only; full text remains in the vault.
 
+Corpus re-grep (deepen-x 2026-09-22) surfaced a dedicated chapter record cluster previously unlinked — all bibliographic records (full text in the vault):
+
+- [[works/taiwaneseamericanhistory-org/natpa-south-california-chapter|11. South California Chapter / NATPA 南加州分會]] (2015-12-21) — chapter profile record.
+- [[works/taiwaneseamericanhistory-org/natpa-s-cals-pearl-anniversary|26. Brief History of NATPA – S CAL 南加州分會的介紹]] (2017-10-30) — the chapter's own self-history.
+- [[works/taiwaneseamericanhistory-org/927-2015-natpa-scal-30th-pearl-anniversary-natpa-scal-201512magazines-e9-9b-9c-e|927. 2015 NATPA-SCAL 30th Pearl Anniversary]] (2015-12-22) — 30th-anniversary commemorative issue; implies a ~1985 chapter origin (inference from the anniversary record; charter date still unconfirmed — HOLD remains).
+- [[works/taiwaneseamericanhistory-org/e-newsletters-natpa-south-california-chapter|南加分會 e-newsletter record]] (2018-01-15) and [[works/taiwaneseamericanhistory-org/columns-natpa-s-ca|12. NATPA Tribune 北美學壇 by NATPA / S.CA]] (2016-08-13) — the chapter ran its own newsletter/columns, an unusual level of publishing activity among sibling chapters.
+- [[works/taiwaneseamericanhistory-org/natpa-forum-20190704-parades|45. TA Participation Report in the 2019 NIDP on 7/4 (NATPA Forum)]] — chapter-level participation in the National Immigration Day Parade report.
+
 HOLD: chapter-specific founding date and officers remain unconfirmed; the 2019 record above documents activity but not charter. Corpus mentions of a 南加分會 (e.g. the 2007 年會特刊 [[works/taiwaneseamericanhistory-org/849-e5-8c-97-e7-be-8e-e6-b4-b2-e5-8f-b0-e7-81-a3-e4-ba-ba-e9-86-ab-e5-b8-ab-e5-8|849. NATMA 南加分會暨總會年會特刊 2007]] and the 2017 傳統月 牙科義診/CPR 記者會 record [[works/taiwaneseamericanhistory-org/videos59|大洛杉磯台美人傳統月 NATMA 南加分會記者會 20170503]]) belong to the sibling physicians' association NATMA (北美洲台灣人醫師協會), not NATPA — do not conflate the two 南加分會.
 
 ## Source Notes

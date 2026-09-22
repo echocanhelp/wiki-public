@@ -102,10 +102,6 @@ Pages that link to **hsu-hsin-hung** (hsu-hsin-hung):
 1. [[sources/2017-tahs-publication|2017-tahs-publication]]
 2. [[sources/ocac-gov-tw|ocac-gov-tw]]
 
-## From the record
-
-- 1989 — 陳昭南's memoir identifies 許信良 as the 「獻策高手」: when a well-known KMT envoy flew to Los Angeles that year and told reporters his mission was to meet 許信良, the two met (at the home of the envoy's friend Acadia, with one witness present) and 許信良 — first confirming the talk would reach 李總統「不會多一個字，也不會少一個字」— laid out the bloodless-revolution path of overseas 建黨 then 遷黨回台 to challenge KMT rule; he had co-founded 美國美麗島週報社 in LA and served as 副總書記 of the 台灣革命黨 under 洪哲勝's 總書記 ([[articles/taiwanjustice-net/2022/20220519131411_2022_05_09_籌謀台灣_不流血革命_的獻策高手原來是他-_-陳_e3440fec3eed8107|TJJ column, 2022-05-09]]).
-
 ## Source Notes and Confidence
 
 - **Content priority A:** 2017 TAHS Publication 加州佳和企業集團董事長兼總裁[[people/dr-john-hsu||徐新宏博士]], Part 1, L1405–1584 (~179 lines), written by 周威霖
