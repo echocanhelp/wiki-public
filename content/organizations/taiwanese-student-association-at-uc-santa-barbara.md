@@ -5,11 +5,11 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # Taiwanese Student Association at UC Santa Barbara
 
-<!-- deepen-x 09210400-16: re-verified 2026-09-21 — fresh grep returns only the two already-linked sponsor attestations (a-chat-with-documentary-filmmaker-anita-chang, night-market-event-at-uc-santa-barbara) + index. SKIP — corpus exhausted for this org. -->
+<!-- deepen-x 09220600-1: re-verified 2026-09-22 — fresh grep returns only the two already-linked sponsor attestations (a-chat-with-documentary-filmmaker-anita-chang, night-market-event-at-uc-santa-barbara) + index; other TSA hits are different campuses (USC/OSU/UW/TSAPA). SKIP — corpus exhausted for this org. -->
 
 ## Identity Snapshot
 - **English:** Taiwanese Student Association at UC Santa Barbara
