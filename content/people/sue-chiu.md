@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # Sue Chiu (黃雪香)
 
@@ -42,6 +42,7 @@ Being always enjoying various forms of artistic expression, I took my first cera
 - **Tahs profiles:** Ceramic-artist profile in [[works/taiwaneseamericanhistory-org/artist-sue-chiu|65. 黃雪香 Sue Chiu]] and Who's Who entry [[works/taiwaneseamericanhistory-org/whos-sue-chiu|853. Sue Chiu 黃雪香 / 2016-02]].
 
 - Corpus re-grep (2026-09-19 / 2026-09-20 / re-run 2026-09-21): hits confined to her own memoir #529, artist profile #65, Who's Who #853, the 點心擔 column-history memoir #154 already cited above (plus the works index) — nothing new absorbable this pass.
+- Corpus re-grep (slice 09212352-22, 2026-09-22): hit-set unchanged (#529, #65, #853, #154, works index) — SKIP-content: verified-saturated, nothing new absorbable, no conflicts to HOLD.
 
 ## Sources
 - [TAH #65 encyclopedia: 65. 黃雪香 Sue Chiu](https://taiwaneseamericanhistory.org/artist-sue-chiu/)

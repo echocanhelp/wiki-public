@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # Prof. Yang-En Cheng (鄭仰恩教授)
 
@@ -51,3 +51,4 @@ _No filled family fields on the TAH profile._
 ## Network
 - [[organizations/presbyterian-church-in-taiwan||PCT]] — TAH Who’s Who
 - 2026-09-21 corpus re-grep (DEEPEN-X slice 09210051-6): hit-set unchanged — own TAH #1896, the already-linked 余杰2015 article, works index. SKIP-content: nothing new absorbable, no conflicts to HOLD.
+- 2026-09-22 corpus re-grep (slice 09212352-22): hit-set unchanged (TAH #1896, works index, 余杰2015 article) — SKIP-content: verified-saturated, nothing new absorbable, no conflicts to HOLD.

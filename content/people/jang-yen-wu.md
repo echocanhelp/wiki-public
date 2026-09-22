@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # Jang-Yen Wu (吳政彥)
 
@@ -42,6 +42,7 @@ Assistant, Associate, Senior Scientist and Section Head
 - TAH Who's Who encyclopedia record: [[works/taiwaneseamericanhistory-org/591-jang-yen-wu-e5-90-b3-e6-94-bf-e5-bd-a5-201509|591. Jang-Yen Wu 吳政彥 / 2015-09]].
 
 - Corpus re-grep 2026-09-21 (DEEPEN-X slice 09210051-5): hits remain Our Journeys 231 (ZH + EN), TAH #591, and the works index; the HOLD (TAH "Jang-Yen" vs Our Journeys EN "Chen-Yen", same 吳政彥) stands, no new facts. SKIP-with-reason.
+- Corpus re-grep 2026-09-22 (DEEPEN-X slice 09212352-20): hit set unchanged — Our Journeys 231 (ZH + EN), TAH #591, works index. The EN text confirms "Chen-Yen Wu (吳政彥)" among the eight who actively supported Rev. Jonah Chang's 1970-08-09 first gathering at Centenary UMC; HOLD (TAH "Jang-Yen" vs OJ231-EN "Chen-Yen", same 吳政彥) stands. SKIP-with-reason.
 
 ## Family
 
