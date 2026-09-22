@@ -39,7 +39,7 @@ last_reviewed: 2026-09-22
 
 - **Father:** [[people/strong-chuang|Strong Chuang 莊秋雄]] (黑名單人士, blacklisted from returning to Taiwan 1965) — per the 228 oral-history interview record; TAH Who's Who profile [[works/taiwaneseamericanhistory-org/whoswho1297|1297. Strong Chuang 莊秋雄]].
 
-2026-09-21 re-check: corpus re-grep (Tim Chng / 莊騰程) returned only the own TAH #1688 record and the works already cited above (open letter, Pew statement, 228 oral-history page) — no new absorbable facts.
+2026-09-22 re-check: corpus re-grep (Tim Chng / 莊騰程) returned only the own TAH #1688 record and the works already cited above (open letter, Pew statement, 228 oral-history page) — no new absorbable facts (re-verified from the 2026-09-21 pass).
 
 ## Sources
 - [TAH #1688 encyclopedia: 1688. Tim Chng 莊騰程 / 05/2017](https://taiwaneseamericanhistory.org/whoswho1688/)
