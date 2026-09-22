@@ -21,6 +21,7 @@ The Taiwanese American Student Association (TASA) at Vanderbilt University is a 
 
 ## Role in the Community
 HOLD: name-collision — "TASA" in the TAH story corpus denotes the **Taiwanese American Seniors Association of Southern California** (founded 1979; built the Flamingo Garden senior apartments in El Monte 1984–1988), not this student organization. See [[works/taiwaneseamericanhistory-org/ourjourneys173-eng|Our Journeys 173 — TASA Seniors Association]]. The corpus's student-movement analogue is **ITASA** (Intercollegiate Taiwanese American Students Association), documented in [[works/taiwaneseamericanhistory-org/history-of-itasa|46. History of ITASA]]. No corpus record was found for the Vanderbilt chapter itself.
+<!-- deepen-x 09210831-10: re-grep confirms no Vanderbilt-specific record. Additional corpus mentions of this slug are generic-collegiate: the OFTaiwan Award announcement ([[works/taiwaneseamerican-org/introducing-the-oftaiwan-award-new-funding-for-taiwanese-american-student-progra|Introducing the OFTaiwan Award]], co-sponsored with ITASA) and [[works/taiwaneseamerican-org/starting-a-collegiate-taiwanese-american-student-association|Starting a Collegiate Taiwanese American Student Association]] (2012), whose campus list names PTASA/RTSA but not Vanderbilt. -->
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-american-student-association/)

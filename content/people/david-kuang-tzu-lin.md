@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # David Kuang-Tzu Lin (李光治博士)
 
@@ -48,3 +48,4 @@ _No filled family fields on the TAH profile._
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 <!-- deepen-x 09180900-28: SKIP — corpus re-scan (works/articles) found no memoir/community coverage; only own TAH Who's Who record or none at all. -->
 <!-- deepen-x 09200800-28: SKIP — corpus re-scan (works/articles) fresh 2026-09-21: only own TAH records / already-absorbed coverage; no new community material. -->
+<!-- deepen-x 09210831-15: SKIP — corpus re-scan (works/articles) fresh 2026-09-22: hits are only own TAH records, works/index.md, or pages already wikilinked in Role in the Community; no new community material. -->

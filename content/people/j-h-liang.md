@@ -35,7 +35,7 @@ last_reviewed: 2026-09-21
 - 本人 TAH 記錄：[[works/taiwaneseamericanhistory-org/whoswho1570|1570. J. H. Liang 梁見後]]（2017/03）。
 - 近況：Supermicro（美超微）因未如期提交財報、遭媒體報導司法部調查，一度面臨那斯達克除名危機（見 [[articles/taiwanjustice-net/2025/20250328125102_超微財報期限迫近股價續跌-陷那斯達克除名危機_681b0e73c7cd7e03|台灣立報報導]]）。
 
-> Re-verified 2026-09-21 (slice 09200600-25): fresh grep of works/articles returns only the three records already linked above (whoswho1570, ourjourneys19, 立報報導) plus index rows — no new absorbable corpus material.
+> Re-verified 2026-09-22 (slice 09210831-11): fresh grep of works/articles returns only the three records already linked above (whoswho1570, ourjourneys19, 立報報導) plus index rows — no new absorbable corpus material.
 
 ## Family
 
