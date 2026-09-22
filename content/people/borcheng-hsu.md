@@ -30,6 +30,8 @@ BorCheng Hsu (許伯丞) is listed in the TAH Foundation Who’s Who Taiwanese A
 - 2002 (approx., per his own 2022 statement "20年前") — co-founded TaiwanFest New York.
 - 2022-06-19 — quoted in press about TaiwanFest's post-pandemic return to the streets of New York.
 
+Corpus re-grep (slice 09220700-9, 2026-09-22): hits are whos-who-1175-borcheng-hsu, 117-bro-cheng-hsu, the 2022-06-19 中央社 article, and the works index — all bibliographic records already linked above (full texts stay in the TAH vault). Saturated, no new absorbable facts.
+
 ## Family
 
 _No filled family fields on the TAH profile._

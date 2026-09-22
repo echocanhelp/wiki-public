@@ -38,7 +38,7 @@ _No filled family fields on the TAH profile._
 - Signatory of the community response "Response to Pew Research Reports Hiding Taiwanese Identity: 'We made it count. Now tell our stories.'" ([[works/taiwaneseamerican-org/pew-research-center-taiwanese-american-statement|Pew response statement]]) — places her among Taiwanese American academics who pushed back against Pew's conflation of Taiwanese and Chinese identity.
 - TAH directory profile #1665 ([[works/taiwaneseamericanhistory-org/whos-who-1665-han-jung-ko|1665. Prof. Han-Jung Ko 柯涵容教授]], published 2017-05-17, bibliographic record only). No memoir in the corpus elaborates further.
 
-> Re-verified 2026-09-22 (slice 09210831-11): fresh grep of works/articles returns only the two records already linked above (Pew response statement, whos-who-1665) plus index rows — no new absorbable corpus material.
+> Re-verified 2026-09-22 (slices 09210831-11, 09220700-15): fresh grep of works/articles (柯涵容 / Han-Jung Ko / Han Jung Ko) returns only the two records already linked above (Pew response statement, whos-who-1665) plus index rows — no new absorbable corpus material.
 
 ## Sources
 - [TAH #1665 encyclopedia: 1665. Prof. Han-Jung Ko 柯涵容教授](https://taiwaneseamericanhistory.org/whos-who-1665-han-jung-ko/)

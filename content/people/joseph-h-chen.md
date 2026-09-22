@@ -40,6 +40,7 @@ last_reviewed: 2026-09-22
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/joseph-h-chen/)
 
 <!-- deepen-x 09210831-29: re-verify 2026-09-22 — corpus hits are own entry whos-joseph-h-chen + 伊薩卡同鄉會 memoir ourjourneys310 (ZH+EN); facts already absorbed into Role in the Community; English counterpart now wikilinked. -->
+<!-- deepen-x slice-16: re-verify 2026-09-22 — fresh grep returns the same 4 hits (own entry, ourjourneys310 ZH+EN, index); saturated, nothing new absorbable. -->
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

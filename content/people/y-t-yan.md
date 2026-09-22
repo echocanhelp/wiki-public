@@ -38,6 +38,7 @@ last_reviewed: 2026-09-22
 - Who's Who encyclopedia profile recorded at [[works/taiwaneseamericanhistory-org/whos863|863. Y. T. Yan 顏裕庭 /2016/02]] (published 2016-03-01).
 - 2026-09-21 (slice 09201300-15): corpus re-grepped — hits (ourjourneys74/-eng, ourjourneys186/-eng, publicationlife948, whos863) are all absorbed above; saturated, no new absorbable facts.
 - 2026-09-22 (slice 09211200-5): re-verified — same 6 corpus hits, all already linked above; no new material.
+- 2026-09-22 (slice 09220700-9): re-grepped — identical hit set (ourjourneys74/-eng, ourjourneys186/-eng, publicationlife948, whos863); saturated, no new absorbable facts.
 
 ## Family
 

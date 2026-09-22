@@ -39,6 +39,8 @@ last_reviewed: 2026-09-22
 - Held in the TAH story corpus as a community record: [[works/taiwaneseamericanhistory-org/802-grace-yia-hei-kao-201602|802. Grace Yia-Hei Kao / 2016/02]] (published 2016-02-06).
 - Per the TAH profile, first Asian American woman awarded tenure at Claremont School of Theology.
 
+> Re-verified 2026-09-22 (slice 09220700-15): fresh grep of works/articles (Grace Kao / Yia-Hei) returns only the two records already linked above (802. Grace Yia-Hei Kao, Guest Post: "Passing" for White…) plus index rows — no new absorbable corpus material.
+
 ## Family
 
 _No filled family fields on the TAH profile._

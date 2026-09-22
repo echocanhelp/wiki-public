@@ -26,6 +26,8 @@ North America Taiwanese Women's Association – Hawaii Chapter is a local chapte
 
 Parent organization: [[organizations/north-america-taiwanese-womens-association|North America Taiwanese Women's Association]].
 
+SKIP note (slice 09220700-9, 2026-09-22): fresh grep of content/works + content/articles surfaced no new Hawaii-chapter material — hits were the chapter's own record, an unrelated 慈濟夏威夷分會 record, a Kansas-chapter mention, and generic NATWA work tags. Saturated.
+
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/north-america-taiwanese-womens-association-hawaii-chapter/)
 
