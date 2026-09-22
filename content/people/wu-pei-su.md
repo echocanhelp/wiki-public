@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # Wu-Pei Su (蘇武沛)
 
@@ -37,7 +37,7 @@ last_reviewed: 2026-09-21
 
 ## Role in the Community
 - Documented in the TAH Foundation encyclopedia's 2016/02 Taiwanese-American professional batch: [[works/taiwaneseamericanhistory-org/833-wu-pei-su-e8-98-87-e6-ad-a6-e6-b2-9b-022016|TAH #833 "Wu-Pei Su 蘇武沛"]], recorded in the same February 2016 tranche as Bang H. Hwang 黃邦雄, June Wang 王純純, Jeffrey Lee 李友禮 and Gloria Chang — part of the foundation's systematic record of Taiwanese-American academics and professionals.
-- Corpus contains no memoir/newsletter narrative beyond this record; community-role detail (beyond the academic employment table) remains thin. Corpus re-check 2026-09-21: 武沛 appears nowhere in works/ or articles/ outside the TAH #833 record — SKIP, nothing new absorbable.
+- Corpus contains no memoir/newsletter narrative beyond this record; community-role detail (beyond the academic employment table) remains thin. Corpus re-checks 2026-09-21 and 2026-09-22: 武沛 appears nowhere in works/ or articles/ outside the TAH #833 record and the works index — SKIP, nothing new absorbable.
 
 ## Family
 

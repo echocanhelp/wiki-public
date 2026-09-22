@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-20
+last_reviewed: 2026-09-22
 ---
 # Hui-Chi Connally (徐慧姬)
 
@@ -39,6 +39,7 @@ last_reviewed: 2026-09-20
 - 2026-09-18 deepen-x pass found no other corpus mentions in works/ or articles/ — no memoir, and husband 康威廉 does not appear elsewhere in the corpus.
 - 2026-09-20 re-verified: corpus grep still returns only this record and the story index — no new material to absorb.
 - 2026-09-21 re-verified again (slice -21): grep returns the same [[works/taiwaneseamericanhistory-org/whoswho1298|1298. Hui-Chi Connally 徐慧姬/ 2016/10]] record and the index batch entry only — nothing absorbable beyond what is above.
+- 2026-09-22 re-verified (slice -27): fresh grep still returns only the whoswho1298 record and the index entry — no memoir material.
 
 ## Sources
 - [TAH #1298 encyclopedia: 1298. Hui-Chi Connally 徐慧姬/ 2016/10](https://taiwaneseamericanhistory.org/whoswho1298/)
