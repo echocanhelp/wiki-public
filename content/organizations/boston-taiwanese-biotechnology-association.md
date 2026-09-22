@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # Boston Taiwanese Biotechnology Association (波士頓台灣人生物科技協會)
 
@@ -24,6 +24,8 @@ BTBA joined the TAH Foundation organization directory record set: the society's 
 Corpus re-grep 2026-09-20 (slice 09190130-18): grep 波士頓台灣人生物科技協會 / "Boston Taiwanese Biotechnology" / BTBA across content/works + content/articles returns only its own directory record, index listings, and one false positive (a "BTBA" substring inside an unrelated taiwanjustice-net archive digest hash). No memoir adds facts; nothing new absorbable; no conflicts to hold.
 
 Corpus re-grep 2026-09-21 (slice 09201400-27): hit set identical (own directory record, index listings, one false-positive BTBA substring in a taiwanjustice-net archive digest hash). Verified saturated; no conflicts to hold.
+
+Corpus re-grep 2026-09-22 (slice 09211400-16): hit set identical — own directory record plus the single taiwanjustice-net false positive; no index changes. Saturated; nothing absorbable, no conflicts.
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/boston-taiwanese-biotechnology-association/)
