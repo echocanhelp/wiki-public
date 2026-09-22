@@ -55,3 +55,4 @@ _No filled family fields on the TAH profile._
 ## Worklog
 
 - 2026-09-22 deepen-x slice 09210600-19: re-verified — fresh grep returns only the work pages already wikilinked above (#5 encyclopedia, #292 book, mystories5, works index); no additional memoir material, nothing new absorbable.
+- 2026-09-22 deepen-x slice 09220500-6: idempotent re-verify — corpus hits unchanged (#5, #292, mystories5, index); all wikilinks resolve to existing slugs; verified-saturated.

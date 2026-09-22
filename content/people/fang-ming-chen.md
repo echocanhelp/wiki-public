@@ -51,3 +51,4 @@ _No filled family fields on the TAH profile._
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 <!-- corpus sweep 2026-09-21: re-verified — corpus hits (ourjourneys8-eng, ourjourneys76/-eng, ourjourneys123-eng, work 461, whoswho190) all already absorbed above; no new absorbable facts -->
+<!-- deepen-x slice 09220500-3 re-verify 2026-09-22: fresh grep — identical hit set re-read (台灣文化 editorship, 1992 Midwest conference volume, work 461, TAH 190); all absorbed; no new facts -->

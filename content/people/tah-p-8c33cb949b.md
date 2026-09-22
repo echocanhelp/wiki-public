@@ -47,6 +47,7 @@ last_reviewed: 2026-09-22
 ## Worklog
 
 - 2026-09-22 deepen-x slice 09210600-20: re-verified — fresh grep for 賴江椿 over works+articles returns only Our Journeys 290 / 252 and own TAH record #633, all already absorbed and wikilinked in Role in the Community; nothing further absorbable.
+- 2026-09-22 deepen-x slice 09220500-6: idempotent re-verify — corpus hits unchanged (Our Journeys 290/252, TAH #633); all links resolve to existing slugs; verified-saturated.
 
 
 ## Sources
