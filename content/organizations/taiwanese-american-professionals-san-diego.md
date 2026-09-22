@@ -26,9 +26,9 @@ Taiwanese American Professionals San Diego (TAP-SD) is a chapter of the Taiwanes
   - Film/culture: [[works/taiwaneseamerican-org/tap-sd-formosa-betrayed-and-meal-in-san-diego|Formosa Betrayed screening and meal in San Diego]].
   - Professional development: [[works/taiwaneseamerican-org/tap-in-san-diego-co-sponsors-a-speaker-series-featuring-founder-of-vizio|speaker series co-sponsored featuring the founder of Vizio]]; [[works/taiwaneseamerican-org/tap-in-san-diego-hosts-a-financial-workshop|financial workshop]].
 - The chapter's stated TACL affiliation is consistent with the corpus's TAP-under-TACL framing ([[organizations/taiwanese-american-citizens-league||TACL]]).
-- The chapter record's own hanzi title 台美菁英協會聖地牙哥分會 is carried in [[works/taiwaneseamericanhistory-org/san-diego-chapter-tap|9. San Diego Chapter / TAP]] (2014); sibling chapter records exist for Austin, D.C., Boston, Orange County, and Seattle (scholarship award).
+- The chapter record's own hanzi title 台美菁英協會聖地牙哥分會 is carried in [[works/taiwaneseamericanhistory-org/san-diego-chapter-tap|9. San Diego Chapter / TAP]] (2014); sibling chapter records exist for Austin, D.C., Boston, Orange County ([[works/taiwaneseamericanhistory-org/orange-county-chapter-tap|橙縣分會]], activities record [[works/taiwaneseamericanhistory-org/activities-of-orange-county-chapter-tap|TAP-OC 活動]]), Los Angeles ([[works/taiwaneseamericanhistory-org/enewsletter-tapla|洛杉磯分會 eNewsletter]]), and Seattle (scholarship award).
 
-Corpus re-check 2026-09-22 (deepen-x slice 09210700-26): fresh grep re-confirmed the chapter and parent-body records; chapter hanzi absorbed into the Identity Snapshot.
+Corpus re-check 2026-09-22 (deepen-x slices 09210700-26, 09220400-6): fresh ZH+EN grep re-confirmed the chapter and parent-body records; chapter hanzi absorbed into the Identity Snapshot; LA/OC sibling chapter records now linked. No new activity records for the San Diego chapter beyond those already absorbed.
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-american-professionals-san-diego/)

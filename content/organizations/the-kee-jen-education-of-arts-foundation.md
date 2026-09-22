@@ -27,6 +27,8 @@ The foundation carries the name of composer **Chuang-Shien Lu 呂泉生**, one o
 - In the memoir [[works/taiwaneseamericanhistory-org/ourjourneys301|Our Journeys 301]], 呂泉生 is described as present at a benefit concert where the encore of four Taiwanese folk songs (《月夜愁》《阮若打開心內的門窗》《嘸通嫌台灣》《阿母的頭髮》) moved him and composer Hsiao Tai-jen 蕭泰然 to the point of moving the whole hall — evidence of his living role in the community's musical life, not just a namesake.
 - The Taiwan Center's own Taiwan School (台灣學校) classical-music appreciation class taught his most famous song 《杯底不可飼金魚》 together with its 228-era context; instructor Dr. Sze-ya Yeh 葉思雅 had studied piano under 呂泉生 herself (`articles/taiwanjustice-net/2023/20230129123134_…古典音樂欣賞…_a244776e9eb57979.md`, 2016-06).
 
+2026-09-22 re-check: corpus re-grep (Kee-Jen / 呂泉生文教基金會) returned zero hits in content/works + content/articles; the absorbable material is the 呂泉生-person material already cited above. No new facts; no conflicts.
+
 HOLD: the English name "Kee-Jen" vs. the romanization "Chien" in the pinyin-style "Chuang-Shien" of 呂泉生's name ( Wade-Giles vs. other romanization of 泉生 ) — no auto-merge of spelling; recorded as both appear.
 
 ## Source Notes

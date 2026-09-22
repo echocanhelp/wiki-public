@@ -30,6 +30,8 @@ This file is a **redirect stub** (legacy path `people/fpcla`). All content lives
 - [[works/taiwaneseamericanhistory-org/182-e6-b4-9b-e6-9d-89-e7-a3-af-e5-8f-b0-e7-81-a3-e5-9f-ba-e7-9d-a3-e9-95-b7-e8-8|182. 洛杉磯台灣基督長老教會三十週年紀念特刊 (2000/09)]]
 - [[works/taiwaneseamericanhistory-org/379-e6-b4-9b-e6-9d-89-e7-a3-af-e5-8f-b0-e7-81-a3-e5-9f-ba-e7-9d-a3-e9-95-b7-e8-8|379. 洛杉磯台灣基督長老教會設教二十五・三十・三十五週年紀念特刊 (2000/09)]]
 
+2026-09-22 re-check (this stub): corpus re-grep (FPCLA / 洛杉磯台灣基督長老教會) returned only the works already linked above — no new absorbable facts; canonical org page carries the deepened content.
+
 The name "Formosan" (rather than "Taiwanese") reflects the founding era, when Formosa was the principal Western name for Taiwan; the church remains a Taiwanese-identifying, Taigi-led congregation — see [[works/taiwaneseamericanhistory-org/presbyterian-church-la|church history]].
 
 ## Related Pages

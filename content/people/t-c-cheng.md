@@ -40,7 +40,7 @@ _No filled family fields on the TAH profile._
 - **TAF 第三任會長（1986–1988）**：TAF 回顧回憶錄記載，芝加哥的鄭天助醫師與卓甫良先生分任 TAF 第三任（1986–1988）及第四任（1989–1991）會長（[[works/taiwaneseamericanhistory-org/our-journeys-377|Our Journeys #377 TAF 回顧]]）。另一篇 TAF 五十年照片回憶錄載 Dr. Tien C. Cheng（鄭天助）任第三任會長期間，開始邀請台灣的講員張信一、陳中潔赴美參與聚會（[[works/taiwaneseamericanhistory-org/ourjourneys33-eng|Our Journeys #33-eng TAF 照片回憶錄]]）；文中另提及同台者鄭美津（May Cheng）。
 - **TAF 历年名录**：[[works/taiwaneseamericanhistory-org/our-journeys-378|Our Journeys #378]] 的历年名单（1984 周茂寅、1985 鄭天助、1986 林錦弘……）中 1985 年欄位見「鄭天助」，名目（役員/得獎）文中未明，照錄待考。
 - HOLD: conflict 身份 — TAH Who's Who 檔案（#953/#1232）為物理學家（師大、賓州州立、中研院）；TAF 回憶錄所載會長鄭天助為芝加哥醫師，兩者是否同人有待確認，未自動合併。
-- HOLD: conflict 名字漢字 — TAH #953 作「鄭天佐」、TAH #1232 與 TAF 回憶錄作「鄭天助」（同為 T. C. Cheng），未自動合併，待業主確認。
+- HOLD: conflict 名字漢字 — TAH #953 作「鄭天佐」、TAH #1232 與 TAF 回憶錄作「鄭天助」（同為 T. C. Cheng），未自動合併，待業主確認；TAH #33-eng 原文同一人另有羅馬拼音異寫「Dr. Tien C. Teng」。
 
 ## Corpus Links
 - [[works/taiwaneseamericanhistory-org/whowswho953|953. T. C. Cheng 鄭天佐 / 2016/04]] — TAH Who's Who 傳記紀錄
