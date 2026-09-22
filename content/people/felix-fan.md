@@ -35,6 +35,7 @@ Felix Fan is a celebrated young cellist whose eclectic music-making and leadersh
 - 1995 — gave the world premiere of 蕭泰然's full cello concerto, performed with the San Diego Symphony under TUF's auspices, pushing Taiwanese music onto the international stage (same memoir, [[works/taiwaneseamericanhistory-org/ourjourneys301|ourjourneys301]]).
 - 2026-09-21 re-grep (deepen-x slice 09191400-8): corpus hits still confined to the already-linked records — no new absorbable facts.
 - Held two TAH Foundation story-corpus records: [[works/taiwaneseamericanhistory-org/50-felix-fan-e8-8c-83-e9-9b-85-e5-bf-97-cellist|TAH #50, Cellist profile (2014)]] and [[works/taiwaneseamericanhistory-org/291-felix-fan-e8-8c-83-e9-9b-85-e5-bf-97201502|TAH #291 (2015)]].
+- 2026-09-21 re-grep (deepen-x slice 09210317-7): fresh grep (works+articles) hits confined to the already-linked records (TAH #50/#291, ourjourneys294, ourjourneys301) — no new absorbable facts, no conflicts to HOLD.
 
 ## Family
 
