@@ -37,7 +37,7 @@ Our own memoir corpus (Our Journeys) records Charles Ting (丁昭昇) as a South
 - **Taiwanese American Citizens League preparatory committee** — listed among the consultants in 台灣公論報 第三六九期 (1985-04-15, p.9; the consultant roster also names 江昭儀, 許丕龍, 賴明詔, 蕭泰然 and ~70 others) ([[works/taiwaneseamericanhistory-org/ourjourneys186|Our Journeys #186]]).
 - **Flamingo Garden share purchase detail** — the English memoir specifies each $50,000 share needed only $25,000 cash (rest bank-loaned), 58 shares total, and that Charles Ting, Cheng-tsung Chang and the memoirist were the ones who ultimately purchased the remaining shares when investor recruitment stalled ([[works/taiwaneseamericanhistory-org/ourjourneys54-eng|Our Journeys #54 (EN)]]).
 
-2026-09-21 re-check: corpus grep returns only the Our Journeys #65/#65(EN)/#54(EN)/#173(EN)/#186(EN) memoirs, the #917 directory record, and the works index — all already linked; nothing new to absorb.
+2026-09-22 re-check: corpus grep returns only the Our Journeys #65/#65(EN)/#54/#54(EN)/#173(EN)/#186 memoirs, the #917 directory record, and the works index — all now linked.
 
 ## Family
 

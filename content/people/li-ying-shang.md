@@ -43,6 +43,8 @@ _No filled family fields on the TAH profile._
 - Recognized as 聖樂 (sacred music) in the Our Journeys community program lineup ([[works/taiwaneseamericanhistory-org/ourjourneys107|Our Journeys #107]]).
 - Profiled in her own TAH encyclopedia entries [[works/taiwaneseamericanhistory-org/13051|344. Li-Ying Shang 商麗鶯 2015/03]] and [[works/taiwaneseamericanhistory-org/180-li-ying-shang-conductor|180. Li-Ying Shang 商麗鶯, Conductor]].
 
+_Corpus re-scan 2026-09-22: fresh grep works/articles returns the same six hits (concerts81, musical-concerts-150, #17, #180, #13051, #107); all absorbed above. #13051 adds the ensemble's stated founding purpose (2011-08: 提升聖樂合唱素質與聖樂文化水平、介紹古今聖樂與世界名曲), consistent with the concert record already noted._
+
 ## Sources
 - [TAH #344 encyclopedia: 344. Li-Ying Shang 商麗鶯 2015/03](https://taiwaneseamericanhistory.org/344/)
 - [TAH #180 encyclopedia: 180. Li-Ying Shang 商麗鶯, Conductor / 2015/03](https://taiwaneseamericanhistory.org/180-li-ying-shang-conductor/)
