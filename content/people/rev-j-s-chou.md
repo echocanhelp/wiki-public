@@ -48,3 +48,4 @@ Accomplishment
 
 <!-- deepen-x 2026-09-17: corpus grep (周再賜 / J. S. Chou / 共愛 / Oberlin) in works+articles found only this page's own TAH bibliographic record; the Oberlin/共愛 mentions belong to other subjects (1983 Cleveland FAPA story; 劉聰慧 bio). No absorbable community facts — SKIP content-deepen. -->
 <!-- deepen-x slice 31 re-grep 2026-09-21: corpus grep (周再賜 / J. S. Chou) in works+articles returns only this page's own work record whos-who-1851 and index lines. No absorbable community material — SKIP content-deepen. -->
+<!-- deepen-x slice 09210317-26 re-grep 2026-09-21: same result — only whos-who-1851 + works index. SKIP content-deepen. -->

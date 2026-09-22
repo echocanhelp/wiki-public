@@ -39,7 +39,8 @@ _No filled family fields on the TAH profile._
 - 2003 年與黃雪香共同擔任《台灣公論報》「點心擔專欄」（北美洲臺灣婦女會專欄，1999 年創設）主編負責人，為婦女會十位歷任主編之一 ([[works/taiwaneseamericanhistory-org/ourjourneys154|154. 完美的句點 / 陳桂蘭]])
 - MFCF（台灣人協進會前身）創立成員合影（約 1990）中列名 Mei Lu：前排 Jim Chen、Sue Chen、Carol Cho、Bill Cho；第二排 David Lin、Mei Lu、Pamela Lin、Jiin Lin、Mike Lin；後來的 TAF 營隊聚餐合影中再度出現 ([[works/taiwaneseamericanhistory-org/ourjourneys33-2|33. 台美往事]])
 
-HOLD: TAF（台灣人協進會）會史紀念照中的 "Mei Lu"（MFCF 1990 前後共同成員合影）另見同名 "Matthias & Mei Lu (盧志華/美惠)"，照片人物是否為陳香梅本人無法從文獻確認，不併入。
+HOLD: TAF（台灣人協進會）會史紀念照中的 "Mei Lu"（MFCF 1990 前後共同成員合影）另見同名 "Matthias & Mei Lu (盧志華/美惠)"，照片人物是否為陳香梅本人無法從文獻確認，不併入。英文版本載有同一合影說明（Bill & Carol Cho、Jim & Sue Chen、David & Pamela Lin、Mei Lu、Mike & Jinn Lin，另見歐孟軒/明珠夫婦），與中文版互證 ([[works/taiwaneseamericanhistory-org/ourjourneys33-eng|33. 台美往事英文版]])。
+- 個人 TAH 記錄見 [[works/taiwaneseamericanhistory-org/whos-who-1699-mei-lu|TAH #1699. Mei Lu 陳香梅]]。corpus 再驗證（2026-09-21 slice 09210317-26）：works+articles 命中僅 ourjourneys154、ourjourneys33（中英）、本身記錄頁、及已引用之 TJJ 二二八紀念報導，無新事實。
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
