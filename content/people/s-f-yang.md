@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # S. F. Yang (楊雪鳳)
 
@@ -27,7 +27,7 @@ last_reviewed: 2026-09-21
 
 ## Role in the Community
 - Profiled in the TAH Foundation Who's Who, record 1530, published 2017-02-26 — [[works/taiwaneseamericanhistory-org/whoswho1530|1530. S. F. Yang 楊雪鳳 / 2017/02]].
-- From 台南; 師範大學 music graduate per the TAH profile. No further community activity recorded in the corpus beyond the Who's Who entry.
+- From 台南; 師範大學 music graduate per the TAH profile. No further community activity recorded in the corpus beyond the Who's Who entry (re-verified 2026-09-22: fresh grep found no other mention).
 
 ## Family
 
