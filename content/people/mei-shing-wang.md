@@ -31,7 +31,7 @@ Ms. Mei-Shing Wang was born in Taipei in 1944 and graduated from The Art Departm
 
 ## Role in the Community
 - Primary-source donor: her personal papers and artworks are held in the TAH Foundation archive as [[works/taiwaneseamericanhistory-org/collection-of-ms-mei-shing-wang|25. Collection of Ms. Mei Shing Wang 王美幸女士的收藏]] (recorded 2017-07-07) — an artist's-collection deposit into the Taiwanese American historical record.
-- Featured in the TAH encyclopedia twice: card [[works/taiwaneseamericanhistory-org/whoswho1592|1592. Mei Shing Wang 王美幸 / 2017/03]] and profile 66.
+- Featured in the TAH encyclopedia twice: card [[works/taiwaneseamericanhistory-org/whoswho1592|1592. Mei Shing Wang 王美幸 / 2017/03]] and profile [[works/taiwaneseamericanhistory-org/mei-shing-wang|66. 王美幸 Mei- Shing Wang]].
 - First-person contributor to the TAH story corpus: memoir essays [[works/taiwaneseamericanhistory-org/mystories535|535. 感恩．祝福 / 王美幸 / 2017/03]] and [[works/taiwaneseamericanhistory-org/mystories537|537. 王美幸的繪畫生涯 / 王美幸 / 2017/03]] — her own account of her painting life, primary source for this page.
 - Co-authored the 2006/06 art catalogue [[works/taiwaneseamericanhistory-org/publications1089|1089. 生命愛土地 (with 汪壽寧、周月秀、孫明煌)]] — group exhibition publication; co-exhibitors have no vault person pages yet.
 - Solo exhibition record: [[works/taiwaneseamericanhistory-org/artshow15|15. Meishing Wang's Art Show of Oil Paintings and Glass Artworks 王美幸油畫/琉璃展—彩虹般的光與色, San Diego, CA, 05/03–05/23, 2017]] — documents her move into glass artworks alongside oil painting, exhibited in San Diego (absorbed deepen-x slice 09180131-14).
@@ -58,3 +58,4 @@ _No filled family fields on the TAH profile._
 - 再核（deepen-x slice-09181500-7, 2026-09-20）：re-grep 王美幸 / Mei Shing Wang — hit 集不變（#535、#537、#1592、profile 66、collection 25、#1089），全數已連結。SKIP-with-reason：語料已飽和。
 - 再核（deepen-x slice 09201300-5, 2026-09-21）：re-grep 王美幸 / Mei Shing Wang — 9 筆命中全部已連結於 Role in the Community（#535/#537/#1592/profile66/collection25/#1089/#1088/artshow15/index）— SKIP-with-reason：語料已飽和。
 - 再核（deepen-x slice 09211300-3, 2026-09-22）：re-grep 王美幸 / Mei Shing Wang — 命中 9 筆不變，全部已連結於 Role in the Community — SKIP-with-reason：語料已飽和。
+- 再核（deepen-x slice 09220700-2, 2026-09-22）：re-grep 王美幸 / Mei Shing Wang — 命中集不變；本次補上 profile 66 書目記錄的 wikilink（原僅以文字提及）— DEEPENED（link-only），其餘語料已飽和。

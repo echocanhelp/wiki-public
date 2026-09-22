@@ -96,6 +96,7 @@ _No filled family fields on the TAH profile._
 
 - 2026-09-22 — 本篇書寫對象（父親筆下的女兒）即本人——連結為真，詳細日期事實已見上條；該紀錄日期事實已見上條 [[articles/taiwanjustice-net/2025/20250324133829_我的女兒美琴-_-蕭清芬_9d523cc5290c997b|我的女兒美琴, 2020-07-26刊]]，本輪不重複。
 - Re-verify 2026-09-22 (TJJ-A09220400-7): link-check against slice article 3be67f6e82d34da7 body — mention confirmed real, dated fact above stands; no new material.
+- Re-verify 2026-09-22 (TJJ-A09220600-1): link-check against slice article 5dd0106e892b8f96（台灣新聞存檔頁3）body — 三篇蕭美琴專訪條目 mention confirmed real; dated fact with article wikilink already in place above; no new material.
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

@@ -60,3 +60,4 @@ last_reviewed: 2026-09-22
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- 複核（deepen-x slice-09220700-4, 2026-09-22）：re-grep 王康陸|Kang-Lu Wang 命中集不變（album-26、#302、#334、#49、#76-eng、#315）— 全數已吸收於上列條目，saturated，SKIP-no-new-material。

@@ -56,3 +56,4 @@ _No filled family fields on the TAH profile._
 - 覆核（deepen-x slice-09181500-10, 2026-09-20）：re-grep 命中集相同（#1702 + index only）— SKIP：無新材料；張博雅命中屬另一人，已排除。
 - 複核（deepen-x slice-09201300-8, 2026-09-21）：re-grep 張博增|Bor Jang Chang 命中集相同（#1702＋index only）— SKIP：無新材料；張博雅命中屬另一人（前監察院長），已排除。
 - 複核（deepen-x slice-09211200-1, 2026-09-22）：re-grep 張博增|Bor Jang Chang 命中集相同（#1702＋index only）— SKIP：無新材料；張博雅命中屬另一人（前監察院長），已排除。
+- 複核（deepen-x slice-09220700-4, 2026-09-22）：re-grep 張博增|Bor Jang Chang 命中集相同（#1702＋index only）— SKIP：無新材料；張博雅命中屬另一人（前監察院長），已排除。

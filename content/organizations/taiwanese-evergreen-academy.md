@@ -39,3 +39,4 @@ The Taiwanese Evergreen Academy is a federally and state-registered nonprofit ed
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - Corpus re-grep (slice deepen-x-slice-09211300-5, 2026-09-22): hit set unchanged — yearbook, #28 encyclopedia entry, Our Journeys 297 / 356 (+EN), index, all already cited above. SKIP-with-reason: 語料已飽和.
+- Corpus re-grep (slice deepen-x-slice-09220700-2, 2026-09-22): hit set unchanged — yearbook, #27/#28 encyclopedia entry, Our Journeys 297 / 356 (+EN), index, all already cited above. SKIP-with-reason: 語料已飽和; 命名 HOLD（矽谷迦南長青學院 vs 北加州臺灣長青學院）維持.
