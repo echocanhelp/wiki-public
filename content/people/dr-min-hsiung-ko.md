@@ -47,6 +47,7 @@ Corpus-linked (absorbed 2026-09-18):
 
 - 2026-09-21 deepen-x slice 09200500-15: re-verified — corpus grep returns the same hit set already absorbed and wikilinked above (own TAH record; for 何文英 also husband 陳淮崇 memoir Our Journeys 138); no new memoir/article mentions, nothing further absorbable.
 - 2026-09-22 deepen-x slice 09210600-21: re-verified — fresh grep returns the identical hit set (mystories592 / -en, whos-who-1914, works index), all already wikilinked. Nothing new absorbable.
+- 2026-09-22 deepen-x slice 09220500-18: re-verified — fresh grep returns the identical hit set, all already wikilinked. Nothing new absorbable.
 
 ## Sources
 - [TAH #1914 encyclopedia: 1914. Dr. Min-Hsiung Ko 柯敏雄醫師](https://taiwaneseamericanhistory.org/whos-who-1914-min-hsiung-ko/)

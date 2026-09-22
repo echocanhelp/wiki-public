@@ -54,3 +54,4 @@ Accomplishment
 
 ## Corpus check (2026-09-21)
 - SKIP (no new absorbable facts): recheck confirms the sole corpus hits are his own Who's Who record [[works/taiwaneseamericanhistory-org/whos-who-2059-kei-hsiung-yang|TAH #2059]] and index listings; no memoir or article mentions.
+- Corpus check 2026-09-22 (deepen-x slice 09220500-16): re-grep (楊界雄 / Kei-Hsiung Yang) unchanged — only own record TAH #2059 plus works/index. SKIP-deepen maintained; nothing absorbable, no conflicts to HOLD.
