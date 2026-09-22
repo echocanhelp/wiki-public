@@ -27,3 +27,5 @@ Corpus footprint: 26 records in `content/works` + `content/articles` mention 陳
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 <!-- deepen-x slice 09210831-3 re-verify 2026-09-22: fresh grep of content/works + content/articles — all corpus hits already absorbed in Role in the Community; no new absorbable facts -->
+
+<!-- deepen-x slice 09220500-22 re-verify 2026-09-22: fresh grep of works/+articles/ — hit set identical to records already cited/absorbed on this page; verified-saturated, no new absorbable facts -->
