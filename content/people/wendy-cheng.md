@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # Wendy Cheng (鄭昕)
 
@@ -42,6 +42,7 @@ _No filled family fields on the TAH profile._
 - 本人 TAH Who's Who 條目：[[works/taiwaneseamericanhistory-org/whos-wendy-cheng|275. Wendy Cheng 鄭昕 / 2015/02]]。
 - 貢獻紀念性文字於TAHS故事庫：悼念文〈In memory of Dr. Edward Cheng〉（2015/07，[[works/taiwaneseamericanhistory-org/mystories300|300. In memory of Dr. Edward Cheng／Wendy Cheng]]），悼念對象見 [[people/dr-edward-cheng|Dr. Edward Cheng]] 條目。
 - HOLD: conflict — tah-tables 現職為「assistant professor」（2015 年條目），2023 UCSD 訊息以「Prof. Wendy Cheng」且列為 Center of Taiwan Studies 相關講者；職稱沿革未合併。
+- Corpus re-verify (deepen-x 09210700-25): fresh scan of works/ + articles/ returned only records already absorbed above ( TAH #275 entry, our-journeys-357 footnote, our-journeys-390, publications 509/510, mystories300). SKIP-deepen; nothing new absorbable.
 
 ## Sources
 - [TAH #275 encyclopedia: 275. Wendy Cheng  鄭昕 / 2015/02](https://taiwaneseamericanhistory.org/whos-wendy-cheng/)
