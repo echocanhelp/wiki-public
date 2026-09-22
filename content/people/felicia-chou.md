@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # Felicia Chou (周馥亞)
 
@@ -38,6 +38,7 @@ Public Affairs Officer
 - Public community face: journalist turned **NASA Public Affairs Officer** (2014–), earlier at News 10 Now and the New York State Fair/Empire Expo Center — a prominent Taiwanese American presence in US science communication.
 - TAH Who's Who records held in the corpus: [[works/taiwaneseamericanhistory-org/168-felicia-chou-e5-91-a8-e9-a6-a5-e4-ba-9e|168. Felicia Chou 周馥亞]] (published 2014-12-23, band B) — confirmed same person (hanzi match).
 - HOLD: conflict — [[works/taiwaneseamericanhistory-org/whos-who-1823-felicia-chou|1823. Felicia Chou 許蕙茹]] (2017) is linked to this page but carries a different hanzi name (許蕙茹 vs 周馥亞), likely a different person mislinked; and [[works/taiwaneseamericanhistory-org/whoswho1438|1438. Felicia Chou]] (2016-12) has no hanzi, so identity is unconfirmed. Do not auto-merge.
+- Corpus re-scan 2026-09-22 (deepen-x slice 09210800-24): works/articles hits are only #168, #1823, #1438 above plus the works index — no memoir text; nothing further absorbable (SKIP-deepen).
 
 ## Family
 
