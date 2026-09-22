@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # Leroy Chiao (焦立中)
 
@@ -43,7 +43,7 @@ _No filled family fields on the TAH profile._
 
 ## Role in the Community
 - Featured in the TAH Foundation Who's Who encyclopedia record [[works/taiwaneseamericanhistory-org/whoswho1386|1386. Leroy Chiao 焦立中 / 2016/11]] (published 2016-11-06).
-- Corpus check 2026-09-18: no community/movement activity beyond this bibliographic record in works+articles; no additional facts absorbable, no conflicts.
+- Corpus check 2026-09-18: no community/movement activity beyond this bibliographic record in works+articles; no additional facts absorbable, no conflicts. Corpus re-scan 2026-09-22 (slice 11): no new material.
 
 ## Sources
 - [TAH #1386 encyclopedia: 1386. Leroy Chiao 焦立中/ 2016/11](https://taiwaneseamericanhistory.org/whoswho1386/)

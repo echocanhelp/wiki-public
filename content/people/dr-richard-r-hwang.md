@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # Dr. Richard R. Hwang (黃瑞煊醫師)
 
@@ -45,3 +45,4 @@ _No filled family fields on the TAH profile._
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 <!-- deepen-x 09180900-28: SKIP — corpus re-scan (works/articles) found no memoir/community coverage; only own TAH Who's Who record or none at all. -->
+<!-- deepen-x 09210900-4: re-verify — fresh grep: only own record whos-who-1998 + index; SKIP persists. -->
