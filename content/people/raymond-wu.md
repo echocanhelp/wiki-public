@@ -48,6 +48,8 @@ HOLD: [[works/taiwaneseamerican-org/healthy-living-and-eating|健康生活的秘
 
 _No filled family fields on the TAH profile._
 
+- 複核（deepen-x slice 09211300-7，2026-09-22）：re-grep 吳瑞信 / Raymond Wu 命中集不變（ourjourneys76 / -eng、ourjourneys253、ourjourneys186、ourjourneys70、ourjourneys173、projects8-20、whoswho1106、mystories440）— 全數已吸收，HOLD（TA magazine 訪談同名人物）維持不併入，saturated，SKIP。
+
 ## Sources
 - [TAH #1106 encyclopedia: 1106. Raymond Wu 吳瑞信 / 2016/06](https://taiwaneseamericanhistory.org/whoswho1106/)
 - [TAH #289 encyclopedia: 289. Raymond Wu (吳瑞信) / The first T. A. run for city councilman (Monterey Park, ](https://taiwaneseamericanhistory.org/ff289/)

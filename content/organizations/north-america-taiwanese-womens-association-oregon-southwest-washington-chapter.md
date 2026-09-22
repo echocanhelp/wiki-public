@@ -27,6 +27,8 @@ North America Taiwanese Women’s Association – Oregon/Southwest Washington Ch
 - Sister chapter page: [[organizations/natwa-southern-california|NATWA Southern California]].
 - Oregon Taiwanese organizational ecosystem the chapter sits in, per the corpus: [[works/taiwaneseamericanhistory-org/taiwanese-chamber-of-commerce-of-oregon|24. Taiwanese Chamber of Commerce of Oregon 奧勒岡台灣工商會, 2016]], and early student-era Oregon records such as 許希哲, president of the Foreign Students Association at University of Oregon 1963–64 ([[works/taiwaneseamericanhistory-org/ff341|341. ff341, 2017]]) and 劉怡明, first soccer player on a University team at U. of Oregon, 1964 ([[works/taiwaneseamericanhistory-org/ff342|342. ff342, 2017]]).
 
+- 複核（deepen-x slice 09211300-7，2026-09-22）：re-grep 北美洲台灣婦女會 / NATWA 命中集不變（本分會 #12、663/678/679 聯誼通訊、columns17 關懷網、natwa-san-diego、ourjourneys328）— 全數已吸收於 Role in the Community，saturated，SKIP，無俄勒岡/西南華盛頓分會層級的新材料。
+
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/north-america-taiwanese-womens-association-oregon-southwest-washington-chapter/)
 
