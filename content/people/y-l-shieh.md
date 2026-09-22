@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # Y. L. Shieh (沈郁良)
 
@@ -36,6 +36,7 @@ last_reviewed: 2026-09-21
 
 - **巴城TAA會長 (memoir record):** 陳淮崇's memoir 「華府與巴城TAA的誕生」(2015/05) lists him in the 創會先鋒獎 group photo caption as 「現任巴城會長沈郁良」 — i.e. serving president of the Baltimore (巴城) chapter, standing alongside past chapter presidents 陳淮崇 (1967), 王穎裕 (1969), 賴經都 (1971), 張學賢 (1972), 江應鐘 (1974), 陳文源 (1978), and 現任華府會長張貴洋. Source: [[works/taiwaneseamericanhistory-org/ourjourneys-138|138. 華府與巴城TAA的誕生/陳淮崇]].
 - **Encyclopedia record:** TAH Who's Who entry #1243 (2016/08) — [[works/taiwaneseamericanhistory-org/whoswho1243|1243. Y. L. Shieh 沈郁良]].
+- Corpus re-verified 2026-09-22 (slice 09211300-23): hits are only ourjourneys-138 (創會先鋒獎 caption, already absorbed above) and #1243 (bibliographic only); no new absorbable material.
 
 ## Sources
 - [TAH #1243 encyclopedia: 1243.  Y. L. Shieh 	 沈郁良 / 2016/08](https://taiwaneseamericanhistory.org/whoswho1243/)

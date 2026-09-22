@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # Taiwanese Association of M. Kentucky (中肯德基)
 
@@ -22,6 +22,7 @@ The Taiwanese Association of Middle Kentucky (中肯德基 台灣同鄉會) is a
 - The chapter's TAA identity is corroborated in the TAHS story corpus: [[works/taiwaneseamericanhistory-org/kentucky-central-chapter-taa|Kentucky-Central Chapter / TAA 全美台灣同鄉會肯德基中部分會]] (record published 2015-12-01), whose Chinese title 肯德基中部分會 matches this chapter's 中肯德基.
 - Neighboring-organization context: Kentucky also hosted a FAPA chapter, recorded at [[works/taiwaneseamericanhistory-org/25-kentucky-chapter-fapa|25. Kentucky Chapter / FAPA 台灣人公共事務會肯塔基州分會]] (era 2015).
 - Early community scale: the state-by-state survey in [[works/taiwaneseamericanhistory-org/ourjourneys58|Our Journeys 名錄]] counted only 4 Kentucky respondents — a small but long-established community, with 吳連四 listed as the Kentucky contact.
+- Re-verified 2026-09-22 (deepen-x slice 09211300-22): corpus grep (中肯德基 / Middle Kentucky / Kentucky-Central) returns only the Kentucky-Central Chapter record already linked above plus index rows — no new absorbable community facts.
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-association-of-m-kentucky/)
