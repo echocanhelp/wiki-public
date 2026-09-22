@@ -39,6 +39,7 @@ _No filled family fields on the TAH profile._
 Corpus records for Chieh Huang are limited to his own TAH Who's Who entry; no memoir or organizational record in the corpus names him, so no independent community facts were absorbable this pass. Fresh re-grep (2026-09-21): the article hits under taiwanjustice-net match 黃世傑 ([[people/shih-chieh-huang|shih-chieh-huang]]), a different person — false positives, not this Boxed CEO.
 
 - Profiled in the TAH Foundation story corpus as record 1993 (published 2018-01-29, value band B, bibliographic record only): [[works/taiwaneseamericanhistory-org/whos-who-1993-chieh-huang|1993. Chieh Huang]].
+- Corpus re-grep 2026-09-21 (deepen-x slice 09210400-30): works/ and articles/ hits confined to the subject's own TAH record above and the works index; no community-authored material to absorb (SKIP).
 - Chinese name is blank in the source profile; no corpus evidence found to fill it.
 
 ## Sources

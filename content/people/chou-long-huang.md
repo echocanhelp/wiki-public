@@ -34,6 +34,8 @@ last_reviewed: 2026-09-21
 
 _Corpus check 2026-09-21: the only text hit in the works/articles corpus is this page's own TAH bibliographic record [[works/taiwaneseamericanhistory-org/1366-chou-long-huang-e9-bb-83-e6-9c-9d-e9-be-8d-201611|TAH #1366 (2016-11)]]; no memoir or movement material mentions 黃朝龍, so no community facts are absorbable. SKIP-with-reason recorded._
 
+- Corpus re-grep 2026-09-21 (deepen-x slice 09210400-30): works/ and articles/ hits confined to the subject's own TAH record above and the works index; no community-authored material to absorb (SKIP).
+
 ## Family
 
 _No filled family fields on the TAH profile._

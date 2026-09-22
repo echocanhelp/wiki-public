@@ -43,5 +43,6 @@ _No filled family fields on the TAH profile._
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-po-chun-chen/)
 
 ## Related Pages
+- [[works/taiwaneseamericanhistory-org/whos-who-2146-po-chun-chen|2146. Dr. Po-Chun Chen 陳柏均博士]] — TAH Who's Who record (2018-07-10)
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

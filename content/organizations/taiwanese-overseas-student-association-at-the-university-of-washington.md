@@ -27,5 +27,7 @@ The Taiwanese Overseas Student Association at the University of Washington (TOSA
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-overseas-student-association-at-the-university-of-washington/)
 
 ## Related Pages
+- [[works/taiwaneseamerican-org/join-tsa-and-tosa-at-a-night-market-in-seattle-wa|Join TSA and TOSA at a Night Market in Seattle, WA]] — corpus record (2012-05-19)
+- [[works/taiwaneseamericanhistory-org/tosa-taiwnanese-overseas-students-association|TOSA 華大海外同學會]] — TAH directory record (2014-10-12)
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

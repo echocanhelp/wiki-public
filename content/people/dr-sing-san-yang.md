@@ -43,6 +43,8 @@ _No filled family fields on the TAH profile._
 - Corpus re-grep 2026-09-19 (楊省三 / Sing-San Yang): hits confined to his own encyclopedia record above and the works index; no memoir or article mentions — nothing new absorbable this pass (SKIP).
 
 - Corpus re-grep 2026-09-21 (deepen-x slice 09191200-19): works/ and articles/ returned no mentions beyond the subject's own TAH record — no community-authored material to absorb (SKIP).
+- Corpus re-grep 2026-09-21 (deepen-x slice 09210400-30): works/ and articles/ hits confined to the subject's own TAH record [[works/taiwaneseamericanhistory-org/whos-who-2015-sing-san-yang|2015. Dr. Sing-San Yang]] and the works index; no community-authored material to absorb (SKIP).
+
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
