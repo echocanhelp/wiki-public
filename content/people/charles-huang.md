@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # Charles Huang (黃啟仁)
 
@@ -34,6 +34,7 @@ last_reviewed: 2026-09-21
 - **Community obituary writer:** Penned 749. 追思Dr. Bob Cheng 鄭寶鼎博士 (2020/09) for the TAHS story corpus. ([[works/taiwaneseamericanhistory-org/mystories-749|TAHS story #749]])
 - **TAH encyclopedia profile:** #1919 Charles Huang 黃啟仁. ([[works/taiwaneseamericanhistory-org/whos-who-1919-charles-huang|TAHS Who's Who #1919]])
 - **Organization roles:** President of the Taiwanese American Foundation (台美協進會, per the TAF history he co-authored; see [[organizations/taiwan-american-foundation]]); advisor to the Michigan state government; MFCF alumnus whose community link is described in his own 01/2018 account quoted in the corpus.
+- Corpus sweep 2026-09-22 (slice 09220600-6): the only works naming him are OJ#33, story #749, and his own encyclopedia entry #1919, all already linked above — no new community facts.
 
 ## Family
 
