@@ -26,6 +26,8 @@ From the TAH corpus record layers:
 - **Directory listings.** The association appears in the TAH organization directory and in a 2014 association profile record. [[works/taiwaneseamericanhistory-org/modern-taiwanese-language-association|MTLA directory record]] · [[works/taiwaneseamericanhistory-org/20-e5-8f-b0-e8-aa-9e-e7-8f-be-e4-bb-a3-e6-96-87-e5-8d-94-e6-9c-83|20. 台語現代文協會 / 2014/09]]
 - **NJ chapter lineage.** The New Jersey promoting group "新澤西台語現代文推廣會 (Modern Literal Taiwanese Promoting Group)" is recorded in the corpus as a related NJ organization; it also appears in the NJ Taiwanese-American groups directory as "台語現代文書法NJ推廣中心 (Taiwanese Language NJ Center)". [[works/taiwaneseamericanhistory-org/modern-literal-taiwanese-promoting-group|18. Modern Literal Taiwanese Promoting Group]] · [[works/taiwaneseamericanhistory-org/ourjourneys356|356. 紐澤西州的台美團體]]
 
+- Corpus re-grep 2026-09-22 (slice 09212352-30): hits unchanged — the same records already wikilinked above (directory record, #198 founding record, #20 profile, NJ promoting group, ourjourneys356) plus the works index. No new community facts absorbable. SKIP-content this pass.
+
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/modern-taiwanese-language-association/)
 

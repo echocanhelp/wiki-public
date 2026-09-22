@@ -39,6 +39,8 @@ _No filled family fields on the TAH profile._
 - HOLD (name collision, not merged): [[works/taiwaneseamericanhistory-org/firstfamous-393|393. Dr. Richard Lin – The First Taiwanese American to Start His own Hedge Fund, 2011]] is a different Richard Lin (hedge-fund founder; no 林品任 in the record) — do not conflate.
 - Re-grepped 2026-09-19 (deepen-x slice 09180500-5): no corpus facts beyond the above — all remaining 林品任/Richard Lin hits are the same #306/#678 records, the #393 name-collision record, plus the index.
 
+- Re-grepped 2026-09-22 (slice 09212352-30): hits unchanged — only the cited #306/#678 records, the #393 name-collision record, and the index. No new corpus facts. SKIP-content; #393 HOLD stands.
+
 ## Sources
 - [TAH #306 encyclopedia: 306. Richard Lin 林品任, Violinist / 2015/10](https://taiwaneseamericanhistory.org/306-richard-lin-%e6%9e%97%e5%93%81%e4%bb%bb-violinist-201510/)
 - [TAH #678 encyclopedia: 678. Richard Lin 林品任 2015/10](https://taiwaneseamericanhistory.org/678-richard-lin-%e6%9e%97%e5%93%81%e4%bb%bb-201510/)

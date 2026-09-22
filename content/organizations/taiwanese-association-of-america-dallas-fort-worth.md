@@ -13,7 +13,7 @@ last_reviewed: 2026-09-22
 Fresh grep returned only the chapter record (dallasfort-worth-chapter-taa) and 檔案 79 感恩節音樂晚會 (concerts79), both already wikilinked below.
 
 ## Corpus pass (deepen-x slice 09212352-26, 2026-09-22): NEW FOUNDING-ERA FACT
-Wider grep (Dallas mentions in the TAA headquarters memoirs) surfaced a new record: under second TAA national chair Yi-Ho Cheng 鄭亦哥 (term 1970-07-01 – 1972-06-30), the Dallas association, led by **His-I Huang**, was one of six local associations that joined TAA — TAA held 34 chapters at the end of that term ([[works/taiwaneseamericanhistory-org/ourjourneys76-eng|Our Journeys 76 (English), TAA 全美總會史]]).
+Wider grep (Dallas mentions in the TAA headquarters memoirs) surfaced a new record: under second TAA national chair Yi-Ho Cheng (term 1970-07-01 – 1972-06-30), the Dallas association, led by **His-I Huang**, was one of six local associations that joined TAA — TAA held 34 chapters at the end of that term ([[works/taiwaneseamericanhistory-org/ourjourneys76-eng|Our Journeys 76 (English), TAA 全美總會史]]).
 HOLD: conflict — TAH directory lists the chapter as founded 1974 as a non-profit, while the headquarters memoir records a Dallas association already affiliating with TAA between 1970-07 and 1972-06 (never auto-merged; the 1974 date may refer to incorporation rather than founding).
 
 ## Identity Snapshot

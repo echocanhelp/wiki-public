@@ -33,6 +33,8 @@ last_reviewed: 2026-09-22
 
 _No filled family fields on the TAH profile._
 
+- Corpus re-grep 2026-09-22 (slice 09212352-30): hits unchanged — [[works/taiwaneseamericanhistory-org/whoswho1716|TAH #1716]], the works index, and the TJJ exhibition report already cited above. No new community facts. SKIP-content; painter-vs-CFP HOLD stands.
+
 ## Sources
 - [TAH #1716 encyclopedia: 1716. Ivy Yang  楊靜芬](https://taiwaneseamericanhistory.org/whoswho1716/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/ivy-yang/)

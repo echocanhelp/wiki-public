@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # Dr. Fu Yuan Hsu (許富淵)
 
@@ -29,6 +29,7 @@ last_reviewed: 2026-09-21
 - **活動參與：** 「王博文、許和瑞、許富淵等人亦非常積極參與活動」（[[works/taiwaneseamericanhistory-org/ourjourneys58|Our Journeys 58]]；另見 [[works/taiwaneseamericanhistory-org/ourjourneys81|Our Journeys 81]]）。
 - **英文平行史料佐證：** 陳文成紀念專集印刷一事另見英文版回憶錄（[[works/taiwaneseamericanhistory-org/ourjourneys8-eng|Our Journeys 8 (English)]]："Fu Yuan Hsu (許富淵) helped print it"），與中文版記載一致；活動積極參與記錄亦見英文版（[[works/taiwaneseamericanhistory-org/ourjourneys81-eng|Our Journeys 81 (English)]]）。
 - **紐約地區名錄：** 列名於紐約同志名單：許富淵、黃伯溫、黃一峰、許仲平（[[works/taiwaneseamericanhistory-org/ourjourneys234|Our Journeys 234]]）。
+- 2026-09-22 corpus re-grep (DEEPEN-X slice 09212352-26): hit-set unchanged — all six hits (ourjourneys8/8-eng/58/81/81-eng/234) already absorbed above; page is verified-saturated, nothing new absorbable this pass.
 
 <!-- tah-tables:start -->
 ## Education
