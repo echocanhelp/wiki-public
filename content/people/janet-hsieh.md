@@ -42,6 +42,7 @@ last_reviewed: 2026-09-22
 
 - Re-verified 2026-09-20: corpus re-grep (works/articles) matches only her own TAH #915 record, the two TaiwaneseAmerican.org features, and the 2025 TJJ 零日攻擊 record — all already absorbed and wikilinked above; no memoir or event mention of 謝怡芬 elsewhere. SKIP: nothing further absorbable.
 - Re-verified 2026-09-21 (slice 09201400-23): SKIP-with-reason — hit set unchanged (TAH #915, the two TaiwaneseAmerican.org features, works index, TJJ 2025 零日攻擊 record); all already absorbed; verify-saturated.
+- Re-verified 2026-09-22 (slice 09220800-25): fresh grep re-run returned the identical hit set (TAH #915, two TaiwaneseAmerican.org features, works index, TJJ 2025 record). SKIP: no new corpus material.
 
 
 ## Sources
