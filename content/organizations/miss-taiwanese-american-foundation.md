@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-20
+last_reviewed: 2026-09-22
 ---
 # Miss Taiwanese American Foundation (台美小姐選拔基金會)
 
@@ -30,6 +30,8 @@ The Miss Taiwanese American (MTA) Pageant is an annual competition held by the T
 Corpus re-grep (台美小姐 / Miss Taiwanese American, slice 09180131-27, 2026-09-18): hit set = directory record #2 + magazine pageant records 744 (2010)、745 (2012) + 2016 pageant #7 + calendar #1256 + story #889, all now linked above; no other corpus material.
 
 Corpus re-grep (台美小姐 / Miss Taiwanese American, slice 09190130-4, 2026-09-20): hit set unchanged (directory #2, magazine 744/745, pageant #7, calendar #1256, story #889) — SKIP, 無新材料。
+
+Corpus re-grep (台美小姐 / Miss Taiwanese American, slice 09211300-15, 2026-09-22): hit set unchanged (directory #2, magazine 744/745, pageant #7, calendar #1256, story #889) — saturated, no new absorbable material; all 6 work links verified live.
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/miss-taiwanese-american-foundation/)

@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # Evangelical Formosan Church of NorCal (北加州台福基督教會)
 
@@ -16,7 +16,7 @@ last_reviewed: 2026-09-21
 - **Geography:** Taiwanese American community
 - **Core roles:** Community organization (TAH directory)
 
-The former Evangelical Formosan Church of El Sobrante (平諾台福基督教會) and the former Evangelical Formosan Church of Harvest Berkeley (柏克萊台福基督教會) merged several years ago to form the Evangelical Formosan Church of NorCal (北加州台福基督教會).
+The former Evangelical Formosan Church of El Sobrante (平諾台福基督教會) and the former Evangelical Formosan Church of Harvest Berkeley (柏克萊台福基督教會) merged several years ago to form the Evangelical Formosan Church of NorCal (北加州台福基督教會). The predecessor congregations each have a TAH directory record: [[works/taiwaneseamericanhistory-org/evangelical-formosan-church-of-el-sobrante|平諾台福基督教會]] and [[works/taiwaneseamericanhistory-org/evangelical-formosan-church-of-berkeley|柏克萊台福基督教會]].
 
 ## Role in the Community
 
