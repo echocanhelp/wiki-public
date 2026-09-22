@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # Dr. Chi-chia Hsieh (謝其嘉博士)
 
@@ -55,3 +55,4 @@ _No filled family fields on the TAH profile._
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 <!-- deepen-x slice 09201503-6 (2026-09-21): SKIP re-verified — corpus grep for 謝其嘉/Chi-chia Hsieh returns only his own record whos-who-2066 plus index listings; no memoir or community-body mentions. Page already saturated with the available corpus facts. -->
+<!-- deepen-x slice 09211500-29 (2026-09-22): SKIP re-verified again — same single corpus hit (own record whos-who-2066); nothing absorbable. -->

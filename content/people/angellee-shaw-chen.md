@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # Angellee Shaw Chen (陳安仁理博士)
 
@@ -38,7 +38,7 @@ last_reviewed: 2026-09-21
 
 ## Role in the Community
 
-Corpus presence is limited to her TAH Who's Who bibliographic record — re-grepped 2026-09-21 (angellee / 安仁理) against content/works and content/articles: no memoir or article mentions found beyond it:
+Corpus presence is limited to her TAH Who's Who bibliographic record — re-grepped 2026-09-21 and 2026-09-22 (slice 09211500-29; angellee / 安仁理) against content/works and content/articles: no memoir or article mentions found beyond it:
 
 - [[works/taiwaneseamericanhistory-org/whos872-angellee-shaw-chen|TAH #872 Who's Who record 陳安仁理]] (2016/03)
 
