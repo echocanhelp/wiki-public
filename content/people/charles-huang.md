@@ -37,7 +37,7 @@ last_reviewed: 2026-09-21
 
 ## Family
 
-- **Wife:** Judy
+- **Wife:** Judy Huang 陳東蘭 — herself recorded in the TAH encyclopedia as #1920. ([[works/taiwaneseamericanhistory-org/whos-judy-huang|TAH Who's Who #1920 Judy Huang]])
 - **Daughter:** Kelly
 - **Son:** Nicholas
 

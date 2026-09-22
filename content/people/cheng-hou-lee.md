@@ -39,6 +39,7 @@ _No filled family fields on the TAH profile._
 ## Role in the Community
 - Documented in the TAH encyclopedia's 2015-09 musician series twice: [[works/taiwaneseamericanhistory-org/286-cheng-hou-lee-e6-9d-8e-e6-8c-af-e8-b1-aa-cellist-201509|286. Cheng-Hou Lee 李振豪, Cellist / 2015-09]] and [[works/taiwaneseamericanhistory-org/569-cheng-hou-lee-e6-9d-8e-e6-8c-af-e8-b1-aa-201509|569. Cheng-Hou Lee 李振豪 / 2015-09]] — the same cohort as cellist 林怡貝 (289) and composer 顏名秀 (287), situating him in the network of Taiwanese classical musicians profiled by TAH.
 - Corpus records are bibliographic only (band B); no memoir first-person material found yet.
+- Corpus re-grep 2026-09-21 (slice 09210317-21): same two self-entries (286, 569) plus index listings; cohort neighbors 李捷琦 (285/568) and 陳茂生 (284/567) already implied by the 2015-09 series note. SKIP-content; nothing new absorbable.
 
 ## Sources
 - [TAH #569 encyclopedia: 569. Cheng-Hou Lee 李振豪 / 2015/09](https://taiwaneseamericanhistory.org/569-cheng-hou-lee-%e6%9d%8e%e6%8c%af%e8%b1%aa-201509/)

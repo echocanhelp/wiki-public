@@ -38,6 +38,7 @@ last_reviewed: 2026-09-21
 - Cross-community link: [[works/taiwaneseamerican-org/maggie-hsu-mochimag|interview with Maggie Hsu (Mochi Magazine)]] records her as Chief of Staff to Tony Hsieh at Downtown Project (Las Vegas), documenting his role as an employer/anchor for young Taiwanese Americans
 - Death-circumstances record in the community press: 2021-01-28 translated CNA report on the New London (CT) fire investigation — cause undetermined, accidental/self-inflicted or deliberate arson both left open; died 2020-11-27 of inhalation-injury complications at the Connecticut Burn Center: [[articles/taiwanjustice-net/2026/20260210063910_爭執_門鎖與火災_台裔鞋王謝家華之死疑雲未解_cdae42be20e74690|爭執、門鎖與火災，台裔鞋王謝家華之死疑雲未解]] (台灣正義通訊). Consistent with Era 1973–2020, no conflict.
 - HOLD: [[works/taiwaneseamericanhistory-org/our-journeys-384|Our Journeys 384 / UCSD Center for Taiwan Studies year-end note / 2022-12-23]] thanks a "Tony Hsieh" on its archives transition team — after the 2020 death date, so this is almost certainly a different person of the same name; the work page's link to this page should be disambiguated, not merged
+- 2021-03-27 — 社區媒體跟進 WSJ 報導其生前最後一年：長住猶他州 Park City 豪宅，資助約十二名長年好友、前 Zappos 員工及有志音樂家（從 8.4 億美元財產支薪佣金、搬迁者給兩倍薪資），Smashing Pumpkins 主唱珠兒擔心他被利用；報導並指這群伙伴助長其吸毒酗酒、使其與世隔絕（[[articles/taiwanjustice-net/2025/20250616003019_zappos台裔創辦人謝家華生前秘辛_美媒_砸錢養酒肉_4e18dced8f30a4e9|台灣正義通訊]]；另有同主題 2021-01-27 早期存檔版本 [[articles/taiwanjustice-net/2021/20210227211920_2021_01_27_爭執_門鎖與火災_台裔鞋王謝家華之死疑雲未解_37f20133d0810ce5|爭執、門鎖與火災]]）
 
 ## Family
 
