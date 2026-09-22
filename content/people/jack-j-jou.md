@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-20
+last_reviewed: 2026-09-22
 ---
 # Jack J. Jou (周哲伍)
 
@@ -46,3 +46,6 @@ _No filled family fields on the TAH profile._
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - [[works/taiwaneseamericanhistory-org/whoswho1046||1046. Jack J. Jou 周哲伍 / 2016/05]]
 - [[works/taiwaneseamericanhistory-org/artist12-jack-j-jou||12. 周哲伍 Jack J. Jou]]
+
+## Corpus check (2026-09-22)
+- No new absorbable facts: fresh grep of works/ and articles/ returned only the TAH/index records already wikilinked above; no memoir or article mentions beyond them.

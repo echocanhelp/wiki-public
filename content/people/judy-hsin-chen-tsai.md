@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # Judy Hsin-Chen Tsai (蔡幸珍)
 
@@ -45,3 +45,6 @@ last_reviewed: 2026-09-21
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+## Corpus check (2026-09-22)
+- No new absorbable facts: fresh grep of works/ and articles/ returned only the TAH/index records already wikilinked above; no memoir or article mentions beyond them.
