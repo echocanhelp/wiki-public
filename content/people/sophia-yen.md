@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # Sophia Yen
 
@@ -41,6 +41,7 @@ _No filled family fields on the TAH profile._
 ## Role in the Community
 - Corpus record: her TAH Who's Who entry is held as [[works/taiwaneseamericanhistory-org/whoswho990|990. Sophia Yen / 2016/05]] (published 2016-05-16). No memoir or movement-activity material found elsewhere in the corpus.
 - Note: the narrative section above is a truncated fragment ("3. Stanford's Lucile Packard Children's Hospital…") of the TAH bio; the harvest tables (MIT B.S. Biology 1993, UCSF M.D. 2000, UC Berkeley M.S. Public Health, Stanford clinical faculty from 2015) are the substance on file.
+- SKIP-with-reason (deepen-x 09210831-23, 2026-09-22): fresh corpus grep (EN) hits only her own record [[works/taiwaneseamericanhistory-org/whoswho990|990. Sophia Yen]] and the works/index rollup — no primary community material to absorb.
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/sophia-yen/)

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # Chang-Yong Tsao (曹昌榮)
 
@@ -42,6 +42,8 @@ _No filled family fields on the TAH profile._
 ## Sources
 - [TAH #1502 encyclopedia: 1502. Chang-Yong Tsao 曹昌榮 / 2017/02](https://taiwaneseamericanhistory.org/whoswho1502/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/chang-yong-tsao/)
+
+<!-- deepen-x 09210831-29: re-verify 2026-09-22 — fresh grep 'Chang-Yong Tsao|曹昌榮' over works+articles: only own record whoswho1502 + index. Nothing new absorbable. -->
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
