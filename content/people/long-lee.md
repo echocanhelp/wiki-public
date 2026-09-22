@@ -41,6 +41,7 @@ last_reviewed: 2026-09-22
 - **接待運動前輩**：世台會第三届年會（Pepperdine University, Malibu）期間，由全美會安排巡迴演講的黃春明夫婦一行抵達洛杉磯，在李隆吉與鄭美招夫婦家用膳，隔宿於黃春明姊姊家；黃春明並首次見到太平洋。見 [[works/taiwaneseamericanhistory-org/ourjourneys283|Our Journeys 283]]。
 - **Pew Research Center 台美人聲明連署人**：以 FAPA 名義連署（清單列「Long Lee FAPA」）。見 [[works/taiwaneseamerican-org/pew-research-center-taiwanese-american-statement|Pew Research Center Taiwanese American statement]]。
 - 語料複核（deepen-x 09201500-10, 2026-09-21）：再檢 content/works + content/articles，命中 ourjourneys212／240／283／whoswho1424 均已吸收；本次新增吸收 Pew 聲明連署記錄（FAPA 名義）。
+- 語料複核（deepen-x slice 09211400-21, 2026-09-22）：命中集相同（ourjourneys212／240／283／whoswho1424／Pew 聲明＋索引），全部已吸收；無新事實，verified saturated。
 - HOLD: conflict 配偶 TAH 個人檔列 須藤正子 vs 回憶文 ourjourneys283 稱「李隆吉與鄭美招夫婦」— unresolved，未自動合併。
 - 個人條目：[[works/taiwaneseamericanhistory-org/whoswho1424|TAH #1424 Long Lee 李隆吉 / 2016-12]]。
 

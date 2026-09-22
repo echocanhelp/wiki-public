@@ -39,7 +39,7 @@ Currently resides in New York City, Ying-Ying Chen is a native from Taiwan. She�
 
 _No filled family fields on the TAH profile._
 
-- Corpus re-grep 2026-09-21 (slice 09201400-27): hit set identical — only #350 / #1178 plus index listings; no memoir mentions. Verified saturated.
+- Corpus re-grep 2026-09-21 (slice 09201400-27): hit set identical — only #350 / #1178 plus index listings; no memoir mentions. Verified saturated. Re-grep 2026-09-22 (slice 09211400-21): identical.
 
 ## Sources
 - [TAH #350 encyclopedia: 350. Ying-Ying Chen 陳盈穎, Musician / 2016/07](https://taiwaneseamericanhistory.org/musician350/)
