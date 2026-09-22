@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # Sarolina Chang (沈麗華)
 
@@ -48,6 +48,8 @@ HOLD: byline variants Sarolina Chang vs Sarlina Shen Chang vs pen name 思理 ac
 Additional literature records (2026-09-21 corpus sweep, English bylines Sarolina Shen Chang): [[works/taiwaneseamericanhistory-org/454-one-tenth-of-a-rainbow-by-the-setting-sun-sarolina-shen-chang-2005-literatur|454. One tenth of a rainbow by the setting sun]] (2005) and [[works/taiwaneseamericanhistory-org/455-they-return-sarolina-shen-chang-2009-literature|455. They return]] (2009); the TAH archive also holds a personal collection, [[works/taiwaneseamericanhistory-org/collection-of-mrs-sarolina-shen-chang|33. 沈麗華女士的收藏]] (2017).
 
 Corpus re-grep 2026-09-20/21: hit set = own works + the two 畢思理博士/Beasley records, where 思理 is a false-positive substring of his Chinese name — not her pen name. No new memoir material beyond the links above.
+
+Corpus re-grep 2026-09-22 (slice 09211400-16): hit set identical — her own literature records (104 profile, 68, 454, 455, 50875, literature-1338), all already linked above; own profile record 104 is a bibliographic stub. Saturated; byline-variant HOLD stands.
 
 ## Sources
 - [TAH #105 encyclopedia: 105. Sarolina Chang 沈麗華](https://taiwaneseamericanhistory.org/104-%e6%b2%88%e9%ba%97%e8%8f%af-sarolina-chang/)

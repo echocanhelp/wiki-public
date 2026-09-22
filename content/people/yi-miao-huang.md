@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # Yi-Miao Huang (黃怡妙)
 
@@ -52,3 +52,4 @@ _No filled family fields on the TAH profile._
 - HOLD: conflict — the 2015 corpus record titles her Executive Director of STUF United Fund, while the TAH profile lists Starside Community Services Executive Director 2009–2012; org relationship and tenure not auto-merged.
 - Re-grep 2026-09-20 (slice 09190400-9): corpus hits remain her own record [[works/taiwaneseamericanhistory-org/22-welly-yang|22. Yi-Miao Huang 黃怡妙]] and the 2015-02-06 ILF announcement [[works/taiwaneseamerican-org/applications-available-ilf-civic-fellowship-program|Applications Available for the ILF Civic Fellowship Program]] — both already absorbed above. No new memoir material; STUF vs Starside HOLD stands.
 - Re-grep 2026-09-21 (slice 09201500-9): hit set unchanged (own record, ILF announcement, works/index, plus [[works/taiwaneseamericanhistory-org/72-yi-miao-huang-e9-bb-83-e6-80-a1-e5-a6-99-2|72-yi-miao-huang…-2]] whose content is actually the Jen Shyu record — a mislabeled bibliography stub, no biography to absorb). Page saturated.
+- Re-grep 2026-09-22 (slice 09211400-16): hit set identical (own record 22-welly-yang + ILF announcement, both bibliographic stubs already absorbed). No new memoir material; STUF vs Starside HOLD stands.
