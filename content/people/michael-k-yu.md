@@ -33,6 +33,9 @@ last_reviewed: 2026-09-22
 
 _No filled family fields on the TAH profile._
 
+## Role in the Community
+- _record link: TAH encyclopedia entry 1329 (published 2016-10-22) is held in the corpus as community historical record; no memoir/article text beyond it._
+
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/michael-k-yu/)
 

@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-22
 ---
 # Brown Taiwan Society
 
@@ -17,6 +17,9 @@ last_reviewed: 2026-08-17
 - **Core roles:** Community organization (TAH directory)
 
 The Brown Taiwan Society (BTS) is a student organization at Brown University in Providence, Rhode Island, focused on sharing Taiwanese culture with the broader campus community. Listed as a recognized student group in Brown University’s official Student Activities directory, BTS welcomes anyone interested in and respectful of Taiwanese culture, regardless of background or heritage.
+
+## Corpus Coverage
+- SKIP-with-reason (2026-09-22 deep pass): zero corpus hits in works/ or articles/ for "Brown Taiwan Society" — no memoir or article text to absorb; page retains TAH directory + Brown student-activities facts only.
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/brown-taiwan-society/)
