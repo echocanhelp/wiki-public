@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # Tze-jer Chuang (莊子哲)
 
@@ -36,7 +36,7 @@ Mechanical Engineer
 <!-- tah-tables:end -->
 
 ## Role in the Community
-- 本庫唯一紀錄為自身 TAH Who's Who 檔案 741（2015/12，書目紀錄）。2026-09-21 覆核（deepen-x 09200900-26）：works/、articles/ 再查僅見此紀錄，無回憶錄或社群事蹟可吸收。
+- 本庫唯一紀錄為自身 TAH Who's Who 檔案 741（2015/12，書目紀錄）。2026-09-21 覆核（deepen-x 09200900-26）及 2026-09-22 覆核（deepen-x 09210831-32）：works/、articles/ 再查僅見此書目紀錄，無回憶錄或社群事蹟可吸收。SKIP：語料庫無可吸收事實。
 
 ## Family
 

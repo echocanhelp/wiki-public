@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # Eleanor Tsai (謝婉香)
 
@@ -32,6 +32,7 @@ Eleanor Tsai (謝婉香) is listed in the TAH Foundation Who’s Who Taiwanese A
 - Own TAH Who's Who record: [[works/taiwaneseamericanhistory-org/800-eleanor-tsai-e8-ac-9d-e5-a9-89-e9-a6-99-201602|797. Eleanor Tsai 謝婉香 / 2016/02]].
 
 > Deepen pass 2026-09-21 (slice 09200600-28): VERIFIED — corpus hits are her own TAH #797 record and the 2018 台大校友連署 article, both already absorbed into Role in the Community; no new material.
+> Deepen pass 2026-09-22 (slice 09210831-31): VERIFIED again — fresh grep (謝婉香 / Eleanor Tsai) returns only those same two records; no new material.
 
 ## Sources
 - [TAH #797 encyclopedia: 797. Eleanor Tsai 謝婉香/ 2016/02](https://taiwaneseamericanhistory.org/800-eleanor-tsai-%e8%ac%9d%e5%a9%89%e9%a6%99-201602/)

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # James Cheng (鄭乃榮)
 
@@ -39,6 +39,8 @@ last_reviewed: 2026-09-21
 - Contributor of political commentary to the TAH community encyclopedia: essay 「看芬蘭 想台灣」 (written 2013/11, published 2014-11-27), reflecting on Taiwan's future through the Finnish model — [[works/taiwaneseamericanhistory-org/310-e7-9c-8b-e8-8a-ac-e8-98-ad-e6-83-b3-e5-8f-b0-e7-81-a3-e9-84-ad-e4-b9-83-e6-a|310. 看芬蘭 想台灣]]
 - Personal story recorded in the TAH encyclopedia as entry #37 (2014-10-04) — [[works/taiwaneseamericanhistory-org/37-james-cheng-e9-84-ad-e4-b9-83-e6-a6-ae|37. James Cheng 鄭乃榮]]
 - Disambiguation: record #37 also names [[people/rev-james-i-cheng|Rev. James I. Cheng]] as a subject — a different person, do not conflate.
+
+> Deepen pass 2026-09-22 (slice 09210831-31): VERIFIED — fresh grep (鄭乃榮 / James Cheng) across content/works + content/articles returns only his own TAH #37 record and his own essay [[works/taiwaneseamericanhistory-org/310-e7-9c-8b-e8-8a-ac-e8-98-ad-e6-83-b3-e5-8f-b0-e7-81-a3-e9-84-ad-e4-b9-83-e6-a|310. 看芬蘭 想台灣]]; no third-party corpus material and no new facts to absorb.
 
 ## Sources
 - [TAH #37 encyclopedia: 37. James Cheng 鄭乃榮](https://taiwaneseamericanhistory.org/37-james-cheng-%e9%84%ad%e4%b9%83%e6%a6%ae/)
