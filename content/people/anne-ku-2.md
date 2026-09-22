@@ -49,3 +49,4 @@ _No filled family fields on the TAH profile._
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - Sibling person page exists at [[people/anne-ku|Anne Ku]] (verified slug) — HOLD on identity reconciliation still open.
 - Re-grep 2026-09-21 (slice 09201500-25): works hits remain the two 2015 profile records + index; taiwanjustice hits are substring noise — verified-saturated.
+- Re-verified 2026-09-22 (slice 09211500-17): works hits remain the two 2015 profile records + index — verified-saturated, SKIP.

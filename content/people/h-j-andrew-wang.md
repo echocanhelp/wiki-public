@@ -38,6 +38,7 @@ last_reviewed: 2026-09-22
 - **TAH Who's Who record:** bibliographic profile #944 (2016-04-24) held in the story corpus — [[works/taiwaneseamericanhistory-org/whoswho944|944. H. J. (Andrew) Wang 王惠鈞 / 2016/04]].
 - HOLD: existing Education row lists 伊利諾大學 Ph.D. dated **1947**, which conflicts with the profile's Era **1945** (a 2-year-old doctorate is implausible; year likely a table-extraction artifact). Not auto-corrected.
 - Re-verified 2026-09-20: corpus re-grep matches only the TAH #944 record, the 武漢肺炎 article record, and index listings — both already absorbed above. SKIP: nothing further absorbable.
+- Re-verified 2026-09-22 (slice 09211500-17): re-grep matches only the same two records + index — verified-saturated, SKIP.
 
 ## Family
 

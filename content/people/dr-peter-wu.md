@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # Dr. Peter Wu (吳平原博士)
 
@@ -31,6 +31,8 @@ last_reviewed: 2026-09-21
 ## Role in the Community
 
 Recorded in the TAH Foundation story corpus as an entrepreneur figure of the Taiwanese American community:
+
+- Corpus re-grep 2026-09-22 (slice 09211500-16): hits = own TAH #2268 record, the already-absorbed FAPA TX-C article, plus 彼得 false positives (Bible apostle, 彼得前書, the 台獨 escape memoir's alias 「彼得」) — no new 吳平原 material; SKIP: page saturated.
 
 - Profiled in the encyclopedia record [[works/taiwaneseamericanhistory-org/whos-who-2268-peter-wu|TAH #2268 Dr. Peter Wu 吳平原博士 (2020/05)]].
 
