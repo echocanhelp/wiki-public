@@ -6,7 +6,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # Dr. Paul Chen
 
@@ -47,4 +47,4 @@ TAH Foundation Who’s Who slug `paul-chen`. **No 漢名** on the TAH profile. *
 - [[people/paul-chen||Paul Chen (陳柏宇)]]
 
 ## Corpus check (deepen-x 09190400-20, 2026-09-20)
-SKIP (re-confirmed) — fresh grep returns only [[works/taiwaneseamericanhistory-org/whoswho1484|TAH #1484 Paul Chen /2017-01]] (書目記錄のみ；両ページに紐づく帰属テキストなし); disambiguation HOLD already recorded — nothing absorbable.
+SKIP (re-confirmed 09211507-25, 2026-09-22) — fresh grep returns only [[works/taiwaneseamericanhistory-org/whoswho1484|TAH #1484 Paul Chen /2017-01]] (書目記錄のみ；両ページに紐づく帰属テキストなし); disambiguation HOLD already recorded — nothing absorbable.
