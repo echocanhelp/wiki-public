@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # C. Y. Chang (張謙益)
 
@@ -36,7 +36,7 @@ _No filled family fields on the TAH profile._
 
 ## Role in the Community
 - Record [[works/taiwaneseamericanhistory-org/whoswho1418|1418. C. Y. Chang 張謙益 / 2016/12]] — TAH Who's Who encyclopedia entry (2016-12-07), the primary holdings record for this person.
-- A second TAH Who's Who record [[works/taiwaneseamericanhistory-org/woswho1545|1545. C. Y. Chang 張中益 / 2017/03]] carries the same English name but a different Chinese name. HOLD: conflict 張謙益 (this page, #1418) vs 張中益 (#1545) — same person unconfirmed.
+- A second TAH Who's Who record [[works/taiwaneseamericanhistory-org/woswho1545|1545. C. Y. Chang 張中益 / 2017/03]] carries the same English name but a different Chinese name. HOLD: conflict 張謙益 (this page, #1418) vs 張中益 (#1545) — same person unconfirmed. Re-grep 2026-09-22: no corpus mentions beyond the subject's own #1418/#1545 records; HOLD stands.
 
 ## Sources
 - [TAH #1418 encyclopedia: 1418. C. Y. Chang 張謙益 / 2016/12](https://taiwaneseamericanhistory.org/whoswho1418/)

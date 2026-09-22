@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # Shan Lin (林上祺)
 
@@ -36,7 +36,7 @@ _No filled family fields on the TAH profile._
 
 ## Role in the Community
 
-Corpus review 2026-09-19: the only corpus mentions are the subject's own TAH Who's Who record — [[works/taiwaneseamericanhistory-org/whoswho1328|1328. Shan Lin 林上祺 / 2016/10]] (published 2016-10-22, band B). No third-party mentions found in memoirs or community works; no new facts absorbable beyond the TAH press-kit record above.
+Corpus review 2026-09-19 (re-grep 2026-09-22, same result): the only corpus mentions are the subject's own TAH Who's Who record — [[works/taiwaneseamericanhistory-org/whoswho1328|1328. Shan Lin 林上祺 / 2016/10]] (published 2016-10-22, band B). No third-party mentions found in memoirs or community works; no new facts absorbable beyond the TAH press-kit record above.
 
 ## Sources
 - [TAH #1328 encyclopedia: 1328. Shan Lin 林上祺 / 2016/10](https://taiwaneseamericanhistory.org/whoswho1328/)
