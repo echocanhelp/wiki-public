@@ -39,7 +39,7 @@ Professor Schuman S. Tu 杜新茂 – History of Taiwanese American (T.A. Archiv
 - Subject profile in the archives — [[works/taiwaneseamericanhistory-org/162-professor-schuman-s-tu-e6-9d-9c-e6-96-b0-e8-8c-82|162. Professor Schuman S. Tu 杜新茂]].
 - Appears in Li Zhengsan's NJ General Japanese restaurant memoir: in November 1982 Du Xinmao had co-opened Peking Express with a Mr. Xu (NTU Business School graduate, from Liuguei, Kaohsiung) on Seventh Avenue at 49th St, Manhattan; the two dined at the General Japanese restaurant on Seventh Avenue and planned a New Jersey branch, which ultimately fell through — [[works/taiwaneseamericanhistory-org/ourjourneys17|17. 紐澤西的將軍日本餐廳 / 李正三 /09/2014]].
 
-- Corpus check 2026-09-18 (slice 09180131-21), re-check 2026-09-20 (slice 09181500-15), re-check 2026-09-21 (slice 09201400-16), and re-check 2026-09-22 (slice 09211300-15): re-grepped content/works + content/articles — hit set identical to the records already wikilinked above (#145, #156, #162, ourjourneys282, #97; the #520 match remains Schumann piano records, unrelated); no new absorbable community/memoir material.
+- Corpus check 2026-09-18 (slice 09180131-21), re-checks 2026-09-20/21/22 (slices 09181500-15, 09201400-16, 09211300-15): hit set matched the records already wikilinked (#145, #156, #162, ourjourneys282, #97; the #520 match remains Schumann piano records, unrelated). Re-check 2026-09-22 (slice 09220800-21): one new hit, ourjourneys17 (李正三 將軍餐廳 memoir) — absorbed above; page otherwise saturated.
 
 ## Family
 

@@ -27,6 +27,8 @@ Corpus re-grep 2026-09-21 (slice 09201400-27): hit set identical (own directory 
 
 Corpus re-grep 2026-09-22 (slice 09211400-16): hit set identical — own directory record plus the single taiwanjustice-net false positive; no index changes. Saturated; nothing absorbable, no conflicts.
 
+Corpus re-grep 2026-09-22 (slice 09220800-24): hit set identical (own directory record + works/index listing only; the prior false positive did not recur this pass). Verified saturated; nothing absorbable, no conflicts to hold.
+
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/boston-taiwanese-biotechnology-association/)
 

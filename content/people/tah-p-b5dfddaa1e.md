@@ -42,7 +42,7 @@ last_reviewed: 2026-09-22
 
 - 2015-10-26 — 台美歷史協會會長鄭炳全博士專訪黃蔡瑞雲女士（「耳聰目明聲如洪鐘，她，黃蔡瑞雲才102歲」），專訪記錄收錄於台灣公義報台美人台加人頻道（[[articles/taiwanjustice-net/2024/20240520034013_root_6f2b431c9cb0cca9|TJJ 台美人台加人索引, 2024-05-20 存檔]]）。
 
-Re-verified 2026-09-21 (slice 09201400-23): corpus re-grep (works/articles) returns exactly the six records already linked above (#32, #277, #338, mystories365 北港才女的故事, #698, ourjourneys50 長輩會會長 record) — no new memoir or event mention of 黃蔡瑞雲; verify-saturated. Re-grep 2026-09-22 (slice 09211400-13): hit set unchanged (same six work records) — nothing new to absorb.
+Re-verified 2026-09-21 (slice 09201400-23): corpus re-grep (works/articles) returns exactly the six records already linked above (#32, #277, #338, mystories365 北港才女的故事, #698, ourjourneys50 長輩會會長 record) — no new memoir or event mention of 黃蔡瑞雲; verify-saturated. Re-grep 2026-09-22 (slice 09211400-13): hit set unchanged (same six work records) — nothing new to absorb. Re-grep 2026-09-22 (slice 09220800-21): hit set again identical (same six records + TJJ 台美人台加人索引 article, all linked above) — SKIP, saturated.
 
 ## Sources
 - [TAH #32 encyclopedia: 32. Ray-Yun Huang Tsai (黃蔡瑞雲)](https://taiwaneseamericanhistory.org/senior-taiwanese-american-32/)
