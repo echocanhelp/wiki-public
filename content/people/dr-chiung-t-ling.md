@@ -31,6 +31,9 @@ Dr. Chiung T. Ling 林安息(炯東)醫師 – History of Taiwanese American (T.
 <!-- tah-tables:end -->
 
 ## Role in the Community
+
+_Corpus re-grep 2026-09-22 (DEEPEN-X slice 09212352-25): hit set = ourjourneys285, whos-who-1852, work #22 — all already cited below; no additional memoir narrative found._
+
 - A TA Archives history of Taiwanese American physicians records him as one of fewer than 10 among the 1,888 doctors trained by the 台灣總督府醫學校 (1889-1945) who went to Europe or North America for advanced study — the US-bound being 林安息(炯東) and 王振明醫師 — i.e. part of the earliest bridge between colonial-era Taiwanese medical education and the later台美人 community: [[works/taiwaneseamericanhistory-org/ourjourneys285|ourjourneys285 (history of TA physicians)]].
 - Profiled in the corpus as a pioneering medical doctor (work entry dated 1935): [[works/taiwaneseamericanhistory-org/22-e6-9e-97-e5-ae-89-e6-81-af-e9-86-ab-e5-b8-ab-first-medical-doctor-1935|22. 林安息醫師 / First medical doctor / 1935]]. HOLD: conflict between the work's 1935 milestone date and the page's 1952 Johns Hopkins Ph.D. — both retained, not merged.
 - The same corpus record situates his generation: US immigration policy of the era was anti-Chinese and anti-Japanese, so pre-WWII Taiwanese who trained in the US (like 劉清風醫師, a 1926 graduate) could not stay and settle — no Taiwanese-American physicians existed before the war; 林安息 belongs to the first wave that broke through that barrier: [[works/taiwaneseamericanhistory-org/ourjourneys285|ourjourneys285]].
