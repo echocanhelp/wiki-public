@@ -57,6 +57,7 @@ M.S., Aerospace Engineering; Ph.D. Course Program
 
 - Corpus check 2026-09-21 (slice 09201400-13): re-grepped content/works + content/articles — hit set identical to the records already wikilinked above; no new absorbable material.
 - Corpus check 2026-09-22 (slice 09211300-14): re-grepped content/works + content/articles (柯金寅 + Kin Ko) — hit set identical to the 6 work records already wikilinked above (photo-albums-35, private-collections-31, ourjourneys219, ourjourneys12, mystories-744, ourjourneys42) + the two TA Archives newsletter captures in ## From the record; no new absorbable material — SKIP (saturated).
+- Corpus check 2026-09-22 (slice 09220800-10): fresh re-grep (柯金寅 + Kin Ko) — hit set again identical to the same 6 work records; no new absorbable material. SKIP (saturated).
 
 ## From the record
 

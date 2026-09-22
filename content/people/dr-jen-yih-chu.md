@@ -40,6 +40,7 @@ Dr. Jen-Yih Chu (Albert Chu, chuj@slu.edu) is a prominent historian of the Taiwa
 - **Co-author:** 「醫界溫馨與關懷」 with 賴其萬 — see [[works/taiwaneseamericanhistory-org/publications1146|1146. 醫界温馨與關懷]].
 - **Author:** 「向史明先生致敬——祝百歲偉大生涯」 (12/2017) — see [[works/taiwaneseamericanhistory-org/mystories610|610. 向史明先生致敬]].
 - Featured among Taiwanese American physicians in 黃勝雄's essay — see [[works/taiwaneseamericanhistory-org/ourjourneys285|285. 台美人中的醫師]].
+- **Archival collection:** his personal holdings are preserved as a named archive in the corpus — 「11. Collection of Prof. Jen-Yih Chu 朱真一教授的收藏」(2017) — see [[works/taiwaneseamericanhistory-org/collection-of-prof-jen-yih-chu|TAH 檔案 11, 朱真一教授的收藏]]; own encyclopedia record at [[works/taiwaneseamericanhistory-org/8-dr-jen-yih-chu|TAH 檔案 8, 2018]].
 
 ## Family
 

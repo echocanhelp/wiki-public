@@ -275,6 +275,6 @@ October 23, 2024
 Page 3 of 157
 
 ## Subjects
-- [[people/lanhee-j-chen.md|陳仁宜]] — mentioned in this record
-- [[people/si-zhi-chen.md|陳泗治]] — mentioned in this record
+- [[people/lanhee-j-chen|陳仁宜]] — mentioned in this record
+- [[people/si-zhi-chen|陳泗治]] — mentioned in this record
 
