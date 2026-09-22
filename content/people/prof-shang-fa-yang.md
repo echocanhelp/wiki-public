@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # Prof. Shang-Fa Yang (楊祥發教授)
 
@@ -43,7 +43,7 @@ _No filled family fields on the TAH profile._
 - [TAH #1833 encyclopedia: 1833. Prof. Shang-Fa Yang 楊祥發教授](https://taiwaneseamericanhistory.org/whos-who-1833-shang-fa-yang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-shang-fa-yang/)
 
-- Corpus re-verified 2026-09-21 (deepen-x slice 09201503-16): grep across works/ + articles/ still returns only the own TAH record and index row — no memoir material; page remains saturated.
+- Corpus re-verified 2026-09-21 (deepen-x slice 09201503-16) and 2026-09-22 (slice 09211507-17): grep across works/ + articles/ still returns only the own TAH record and index row — no memoir material; page remains saturated.
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
