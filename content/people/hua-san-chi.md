@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-20
+last_reviewed: 2026-09-22
 ---
 # Hua-San Chi (紀華山)
 
@@ -45,3 +45,4 @@ _No filled family fields on the TAH profile._
 ## Corpus note
 - Corpus grep (works/, articles/) found only this person's own TAH Who's Who bibliographic record [[works/taiwaneseamericanhistory-org/whoswho1739|1739. Hua-San Chi 紀華山]] — no memoir or community-history text carrying additional facts.
 - SKIP-deepened 2026-09-20: nothing absorbable beyond the TAH press-kit fields already on this page; no community-record material in the vault corpus.
+- Re-verified 2026-09-22: fresh grep still returns only the own TAH record and works index; no community-record material. SKIP stands.

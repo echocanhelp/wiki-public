@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-20
+last_reviewed: 2026-09-22
 ---
 # Charles Hsiao (蕭俊雄)
 
@@ -42,3 +42,6 @@ _No filled family fields on the TAH profile._
 - [[works/taiwaneseamericanhistory-org/whos-charles-hsiao|1937. Charles Hsiao 蕭俊雄 /11/2017]] — TAH encyclopedia entry (2017-11-09, band B)
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+## Corpus note
+- Corpus grep (works/, articles/) re-verified 2026-09-22: hits remain only this person's own TAH Who's Who bibliographic record [[works/taiwaneseamericanhistory-org/whos-charles-hsiao|1937. Charles Hsiao 蕭俊雄 /11/2017]] and the works index — no memoir or community-history text carrying additional facts. SKIP: nothing absorbable.
