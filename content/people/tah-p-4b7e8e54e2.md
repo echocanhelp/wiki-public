@@ -6,7 +6,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # 陳昭俊博士
 
@@ -53,3 +53,4 @@ _No filled family fields on the TAH profile._
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
  Slice deepen-x-slice-09181500-14 (2026-09-20): re-grep 陳昭俊 — hit set unchanged (374, ourjourneys231 ±EN, two taiwanjustice articles, index catalog rows); nothing new absorbable.
  Slice deepen-x-slice-09201300-11 (2026-09-21): re-grep — hit set identical plus one taiwanjustice 2022 installment whose mention is the Tokyo-obstetrician 陳昭俊 (disambiguation, now cited above); no new absorbable facts for this engineer.
+ Slice deepen-x-slice-09211200-2 (2026-09-22): re-grep 陳昭俊 — hit set unchanged (374, ourjourneys231 ±EN, taiwanjustice articles, index catalog rows); all already wikilinked, HOLD (C.C. Chen / Tokyo obstetrician) maintained; nothing new absorbable.

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # Fon-May Fan (樊豐美)
 
@@ -52,3 +52,4 @@ Accomplishment
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- Corpus re-check (deepen-x slice-09211200-3, 2026-09-22): fresh grep 樊豐美|Fon-May Fan returns only OJ27 (ZH/ENG), OJ304, essay #28, and Who's Who #56 — all wikilinked and absorbed above; no new material. HOLD (陳隆豐 vs 陳隆) retained unchanged.

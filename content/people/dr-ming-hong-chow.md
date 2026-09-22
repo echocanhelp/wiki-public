@@ -48,6 +48,7 @@ _No filled family fields on the TAH profile._
 ## From the record
 
 - 2017-07 — 楊遠薰報導《2017年美東台灣人夏令會》：以 TAC/EC 代理理事長身份與召集人簡明子於 7/2 致歡迎詞揭幕、7/4 將會旗交與 2018 年理事長翁進治與召集人謝己（全文詳上「Role in the Community」；同文 2024-05 存檔副本同）—— [[articles/taiwanjustice-net/2021/20211205054150_2017_07_10_2017年美東台灣人夏令會-_-楊遠薰-報導-2017-07-09_29faf54b8c9e2d10|楊遠薰報導（2017-07-09）]]。
+- 2019-09-03 — Signed the overseas Taiwanese organizations' joint statement 「拒一國兩制！海外台灣人社團：支持香港反對中國暴政」 as 「世界台灣同鄉會聯合會 會長周明宏」 (President, WFTA), corroborating his 2017–2019 term ([[articles/taiwanjustice-net/2024/20240221122756_root_53455d7e13136092|TJJ record, 2024-02-21 archive of the 2019-09-04 posting]]).
 
 ## Vault records（deepen pass 2026-09-11）
 - 本页传记之 TAH 出处页：[[works/taiwaneseamericanhistory-org/140-2||TAH #140 Dr. Ming Hong Chow 周明宏博士]]、[[works/taiwaneseamericanhistory-org/whos-who-589-ming-hong-chow||TAH #589 Dr. Ming Hong Chow 周明宏博士]]。
@@ -66,10 +67,6 @@ _No filled family fields on the TAH profile._
 
 ## corpus sweep 2026-09-15（slice 29 複核）
 - 再 grep works/articles：命中頁均為本頁已吸收之出處（TAH #140、#589 書目頁、Our Journeys #138、2017 TAC/EC 報導、《好國好民》放映紀錄），無新增事實。TAH #589 頁內同列人名（謝博六、Paul B. Hshieh）屬同批次記錄清單，非本人事蹟，不予吸收。
-
-## From the record
-
-- 2019-09-03 — Signed the overseas Taiwanese organizations' joint statement 「拒一國兩制！海外台灣人社團：支持香港反對中國暴政」 as 「世界台灣同鄉會聯合會 會長周明宏」 (President, WFTA), corroborating his 2017–2019 term ([[articles/taiwanjustice-net/2024/20240221122756_root_53455d7e13136092|TJJ record, 2024-02-21 archive of the 2019-09-04 posting]]).
 
 ## Deepen-x re-check (slice 09150400-17, 2026-09-15)
 - 新增第一手社群記錄：2019-09-03 海外台美社團聯合聲明〈拒一國兩制！支持香港反對中國暴政〉以**世界台灣同鄉會聯合會會長周明宏**名義連署（與 TAA 會長鄭紹芳、NATWTA 會長陳彩雲等並列），為本頁 Employment「WFTA President 2017-2019」提供任期內之實名連署佐證 —— [[articles/taiwanjustice-net/2024/20240221122756_root_53455d7e13136092|海外台美社團支持香港聯合聲明（2019-09-04）]]。

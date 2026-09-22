@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # Taiwanese Association of Greater Seattle TAGS (大西雅圖區台灣同鄉會)
 
@@ -26,6 +26,8 @@ The Taiwanese Association of Greater Seattle (TAGS, 大西雅圖台灣同鄉會)
 - Seattle ecosystem: TAGS operates alongside the Greater Seattle community-center network — the 大西雅圖台美基金会 secured the Seattle Taiwanese Community Center (西雅圖台灣會館, opened 2004-02-28, donated by the 林正南 and 陳紹紀 families at a nominal $1/year rent) as recorded in the community memoir [[works/taiwaneseamericanhistory-org/ourjourneys30|Our Journeys #30]], with its inaugural magazine at [[works/taiwaneseamericanhistory-org/547-e8-a5-bf-e9-9b-85-e5-9c-96-e5-8f-b0-e7-81-a3-e6-9c-83-e9-a4-a8-e5-89-b5-e5-8|TAH #547 西雅圖台灣會館創刊號, 2005]].
 - Shared community programming: the Greater Seattle Taiwanese American Community Scholarship Awards record ([[works/taiwaneseamericanhistory-org/7-taiwanese-american-community-scholarship-awards-pta-seattle|TAH #7, 2015-07-21]]) and the affiliated 大西雅圖台灣婦女會 ([[works/taiwaneseamericanhistory-org/greater-seattle-taiwanese-womens-club|Greater Seattle Taiwanese Women's Club, 2014-10-12]]) document the chapter's scholarship and women's-club layers.
 - Sister-chapter context: the parallel 大鹽湖區台灣同鄉會 (TAGSL) is recorded at [[works/taiwaneseamericanhistory-org/taiwanese-association-of-the-greater-salt-lake-tagsl|TAGSL]], confirming the TAGS-name chapter pattern across the TAA network.
+- 2021-02-28 — chapter president 林奕宏 led TAGS' online 228 commemoration 「1947交響曲－二二八事件74週年線上紀念活動」, a partnership with 僑務委員會 and the Asiania platform featuring 大支, 老莫, and 楊舒雅's theme song 「1947序曲」; 林奕宏: 「透過音樂去溝通理解，讓音樂成為時空的橋樑」 ([[articles/taiwanjustice-net/2021/20210419125442_2021_02_27_台美共鳴二二八_西雅圖台灣同鄉會直播1947交響曲_bb7a07a82b786903|TJJ 轉載中央社記者, 2021-02-27]]) — the chapter's 228 programming builds on the 蕭泰然 1947 Overture tradition.
+- 2023-11-07 — TAGS co-hosted the University of Washington screening of Vanessa Hope's documentary Invisible Nation with the UW East Asia Center and the Seed Kite Foundation / UW Taiwan Studies Arts & Culture Program ([[works/taiwaneseamerican-org/vanessa-hope-invisible-nation|Invisible Nation coverage]]), showing the chapter active in film/culture programming into the 2020s.
 
 HOLD: page body uses both 大西雅圖區台灣同鄉會 (frontmatter/title) and 大西雅圖台灣同鄉會 (body first sentence) as the Chinese name; recorded, not merged.
 
