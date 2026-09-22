@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # Jong-Tseng Yen PhD (顏榮增博士)
 
@@ -33,8 +33,8 @@ last_reviewed: 2026-09-21
 
 _No filled family fields on the TAH profile._
 
-## Corpus review (2026-09-18; re-checked 2026-09-21, deepen-x 09191200-30)
-SKIP: corpus check found no community material beyond the person's own TAH encyclopedia bibliographic record [[works/taiwaneseamericanhistory-org/whos-who-2226|TAH #2226]]. Fresh grep of content/works + content/articles for 顏榮增 / Jong-Tseng Yen again returns only that record plus works/index. Nothing absorbable; biography left as-is.
+## Corpus review (2026-09-18; re-checked 2026-09-21, 2026-09-22 deepen-x 09210900-29)
+SKIP: corpus check found no community material beyond the person's own TAH encyclopedia bibliographic record [[works/taiwaneseamericanhistory-org/whos-who-2226|TAH #2226]]. Fresh greps of content/works + content/articles for 顏榮增 / Jong-Tseng Yen (2026-09-21 and 2026-09-22) return only that record. Nothing absorbable; biography left as-is.
 
 ## Sources
 - [TAH #2226 encyclopedia: 2226. Jong-Tseng Yen PhD 顏榮增博士/11/2019](https://taiwaneseamericanhistory.org/whos-who-2226/)
