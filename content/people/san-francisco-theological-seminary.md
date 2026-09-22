@@ -32,6 +32,9 @@ Through leaders trained there, the seminary is connected to early theological in
 - Also in the corpus: [[people/albert-s-lai|Dr. Albert S. Lai (賴信雄)]] completed his 1971 Doctor of Ministry dissertation here — [[sources/toward-a-community-of-hope|Toward A Community of Hope]].
 - Note: 舊金山太平洋神學院 (Pacific Theological Seminary, where 張瑞雄 first enrolled 1962) is a distinct institution from 舊金山神學院 in the source text.
 
+## Re-grep log
+- Corpus re-grep 2026-09-22 (slice 09212352-6): verified-saturated — only corpus hits are #350 and #357, both already absorbed above (including the 1964 交換學生 transfer from 太平洋神學院 under 黃武東's introduction, and the 1966-vs-1967 graduation HOLD); frontmatter type corrected person→organization.
+
 ## Related Pages
 
 - [[sources/toward-a-community-of-hope||Toward A Community of Hope]]
