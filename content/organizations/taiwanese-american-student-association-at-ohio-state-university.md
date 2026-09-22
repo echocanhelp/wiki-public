@@ -5,7 +5,7 @@ redirect_to: organizations/taiwanese-american-student-association-ohio-state-uni
 tags:
   - redirect
 verification_status: redirect
-last_reviewed: 2026-09-20
+last_reviewed: 2026-09-21
 ---
 
 # Moved
@@ -16,16 +16,16 @@ Former provisional slug: `taiwanese-american-student-association-at-ohio-state-u
 
 ## Works
 
-**taiwanese-american-student-association-at-ohio-state-university** has **0** articles where they appear in the title and **0** additional articles that mention them in the body.
+Corpus records (Our Journeys memoirs, OSU 會訊, ITASA conference coverage) are indexed on the canonical page — see its Role in the Community section.
 
 ## Quotes
 
 Notable quotes and mentions of **Taiwanese American Student Association Ohio State University** in Echopedia sources:
 
-_(none yet — this is a redirect stub. Content will be populated when the canonical page is deepened.)_
+See the canonical page: [[organizations/taiwanese-american-student-association-ohio-state-university|TASA @ OSU]] carries the sourced mentions.
 
 ## Timeline
 
 Chronological events for **Taiwanese American Student Association Ohio State University**:
 
-_(none yet — this is a redirect stub.)_
+See the canonical page's Role in the Community section (~1970 Taiwanese Association wave, 1973 Midwest softball tournament, 2016 哥城台灣同學會 會訊, 2013 ITASA Midwest Conference).
