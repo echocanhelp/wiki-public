@@ -52,3 +52,5 @@ last_reviewed: 2026-09-22
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 > Corpus re-scan 2026-09-21 (deepen-x slice 09200700-25): re-scanned works/ and articles/ for 鍾茂萃 / Mark Jong — hits are our-journeys-351, ourjourneys296, and the #740 encyclopedia page, all already linked above with facts absorbed. SKIP-deepen; nothing new absorbable.
+
+Corpus re-check 2026-09-22 (deepen-x slice 09210700-29): fresh grep of works/ and articles/ — hit set unchanged, all hits already wikilinked with facts absorbed. SKIP-deepen; nothing new absorbable.

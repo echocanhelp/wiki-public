@@ -5,13 +5,13 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # Taiwanese American Professionals San Diego
 
 ## Identity Snapshot
 - **English:** Taiwanese American Professionals San Diego
-- **Chinese:** chapter hanzi not in corpus; parent body is 台美菁英協會 (per TAHS record)
+- **Chinese:** 台美菁英協會聖地牙哥分會 (per the TAHS chapter record title; parent body is 台美菁英協會)
 - **Era:** Contemporary
 - **Geography:** Taiwanese American community
 - **Core roles:** Community organization (TAH directory)

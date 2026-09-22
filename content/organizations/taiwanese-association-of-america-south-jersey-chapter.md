@@ -32,3 +32,5 @@ The Taiwanese Association of America – South Jersey Chapter (南澤西台灣�
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 Corpus re-check 2026-09-21 (deepen-x slice 09200700-24): fresh grep for 南澤西 / South Jersey — hits are the chapter's own records (South Jersey Chapter / TAA, Our Journeys 356 EN/ZH) already absorbed above; no additional memoir material. SKIP-deepen.
+
+Corpus re-check 2026-09-22 (deepen-x slice 09210700-29): fresh grep of works/ and articles/ — hit set unchanged, all hits already wikilinked with facts absorbed. SKIP-deepen; nothing new absorbable.
