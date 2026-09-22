@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # Anne H. Chow
 
@@ -39,6 +39,7 @@ _No filled family fields on the TAH profile._
 
 The vault's community record for Anne H. Chow is the TAH Who's Who entry itself, held in the story corpus as [[works/taiwaneseamericanhistory-org/whos-who-1981-anne-h-chow|1981. Anne H. Chow]] (2017-12-26, band B — bibliographic record; full text stays in the vault). No memoir, article, or organizational mention in `content/works` or `content/articles` adds community-activity facts beyond the directory biography (corpus grep 2026-09-18: only the Who's Who record + index entries).
 
+- Corpus re-scan 2026-09-22 (deepen-x slice 09210900-2): hits remain the Who's Who record [[works/taiwaneseamericanhistory-org/whos-who-1981-anne-h-chow|1981]] + index line — no absorbable community material.
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/anne-h-chow/)
 

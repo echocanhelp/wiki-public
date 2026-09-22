@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # Mien Chien (簡勉)
 
@@ -36,6 +36,8 @@ last_reviewed: 2026-09-21
 - **2020 疫情口罩團購：** 柑縣台灣同鄉會（會長張慧玲）團購台灣製造醫療口罩期間，簡勉（909-243-4077）擔任會眾加入同鄉會 LINE 群組的窗口（[[articles/taiwanjustice-net/2020/20200623032920_2020_06_13_柑縣台灣同鄉會團購台灣製造的醫療囗罩_b5111be5a91c7d0d|柑縣台灣同鄉會團購台灣製造的醫療口罩, 2020/06]]）。
 - 同一團購紀錄另見 taiwanjustice.net 轉載版（[[articles/taiwanjustice-net/2025/20251205234309_柑縣台灣同鄉會團購台灣製造的醫療囗罩_61b54d31f6ea1850|柑縣台灣同鄉會團購台灣製造的醫療口罩（轉載）]]）。
 
+
+> Deepen pass 2026-09-22 (slice 09210831-31): VERIFIED — fresh grep (簡勉 / Mien Chien) across content/works + content/articles returns only his own TAH #313 record and the 2020/2025 柑縣台灣同鄉會口罩團購 articles, all already absorbed into Role in the Community; no new material.
 
 ## Sources
 - [TAH #313 encyclopedia: 313. Mien Chien 簡勉/2015/02](https://taiwaneseamericanhistory.org/313-mien-chien-%e7%b0%a1%e5%8b%89201502/)

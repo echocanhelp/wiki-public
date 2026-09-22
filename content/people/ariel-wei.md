@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # Ariel Wei
 
@@ -38,6 +38,7 @@ _No filled family fields on the TAH profile._
 - Corpus record: her TAH Who's Who entry is held as [[works/taiwaneseamericanhistory-org/whoswho1170|1170. Ariel Wei / 2016/07]] (published 2016-07-23). No memoir or community-activity material found elsewhere in the corpus (re-grep 2026-09-21: same single hit).
 - HOLD: conflict in degree designations — narrative bio says B.F.A. (NTNU) and M.A. (Eastern Washington University); the TAH harvest tables record B.S. and M.S. Not merged.
 
+- Corpus re-scan 2026-09-22 (deepen-x slice 09210900-2): still only the Who's Who record [[works/taiwaneseamericanhistory-org/whoswho1170|1170]] + index line — no absorbable community material.
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/ariel-wei/)
 
