@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # Living Well Club of New Jersey (紐澤西州)
 
@@ -24,7 +24,7 @@ The Living Well Club of New Jersey is a Taiwanese American senior social organiz
 - Club-written records in the corpus: [[works/taiwaneseamericanhistory-org/1-new-jersey-living-well-club|1. 紐澤西州"生活充實俱樂部" (2014-10-12)]], [[works/taiwaneseamericanhistory-org/3-activities-of-living-well-club-of-new-jersey|3. Activities of "Living Well Club" of New Jersey (2016-11-04)]], and the club newsletter [[works/taiwaneseamericanhistory-org/newsletter-of-new-jersey-living-well-club|New Jersey Living Well Club (2018-12-30)]].
 - Public cultural performance: the club presented the bilingual art-song recital "Summer Garden of Songs in German, French, English and Taiwanese 歌謠藝園" at Somerset, NJ on 2018-08-01 ([[works/taiwaneseamericanhistory-org/concerts135|concerts135]]), documenting active arts programming beyond the social-club profile.
 
-- Re-verified 2026-09-21: corpus re-grep (works/articles) returns only the work records already linked in this section — no new memoir, letter, or event mention of the club. SKIP: verified-saturated.
+- Re-verified 2026-09-21 and again 2026-09-22 (slice 09211400-22): corpus re-grep (生活充實俱樂部 / Living Well Club) returns only the work records already linked in this section (works 1, 3, newsletter, concerts135, ourjourneys356 + -eng) — no new memoir, letter, or event mention of the club. SKIP: verified-saturated.
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/living-well-club-of-new-jersey/)

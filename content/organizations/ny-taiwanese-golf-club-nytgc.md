@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # NY Taiwanese Golf Club NYTGC (紐約台灣人高爾夫球俱樂部)
 

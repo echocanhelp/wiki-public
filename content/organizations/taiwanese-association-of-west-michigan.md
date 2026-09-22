@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # Taiwanese Association of West Michigan (西密西根台灣同鄉會)
 
@@ -21,7 +21,7 @@ The Taiwanese Association of West Michigan (西密西根台灣同鄉會) is a re
 ## Role in the Community
 The corpus does not yet hold chapter-level records (officers, events) for this chapter; its TAH directory listing remains the primary attribution. Regional context: the West Michigan Taiwanese community dates at least to the 1980s — [[works/taiwaneseamericanhistory-org/ourjourneys74|Our Journeys #74]] records that the North American Taiwanese Medical Association (NATMA, 北美洲台灣人醫師協會) was founded on 1984-07-14 at Western Michigan University in Ypsilanti, Michigan, by ~40 physicians including local members 黃昭聲 and 陳英三, with keynote talks by 林宗義 and 林成德. The Grand Rapids area was also a gathering hub for the Midwest Taiwanese community: [[works/taiwaneseamericanhistory-org/ourjourneys123|Our Journeys #123]] records a 1980 Midwest Taiwanese summer conference (中西部台灣人夏令會) held in Grand Rapids, co-organized with the Michigan 同鄉會, and [[works/taiwaneseamericanhistory-org/ourjourneys258|Our Journeys #258]] and [[works/taiwaneseamericanhistory-org/our-journeys-377|Our Journeys #377]] document the TAF (Taiwanese American Foundation) youth summer camps held every August at Calvin College, Grand Rapids (from at least 1981 through the 1990s), drawing hundreds of second-generation Taiwanese Americans from across the Midwest. The chapter's later formation sits within this established West Michigan community base.
 
-HOLD: no corpus source dates the chapter's own founding; do not infer it from the 1984 NATMA event. Re-grepped 2026-09-20 (西密西根 / West Michigan): the only works/articles hit remains the NATMA founding record already cited above — no chapter-level (officer/event) material exists in the corpus yet.
+HOLD: no corpus source dates the chapter's own founding; do not infer it from the 1984 NATMA event. Re-grepped 2026-09-20 (西密西根 / West Michigan): the only works/articles hit remains the NATMA founding record already cited above — no chapter-level (officer/event) material exists in the corpus yet. Re-grep 2026-09-22 (slice 09211400-22) confirms: single hit ourjourneys74, already cited. SKIP: verified-saturated.
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-association-of-west-michigan/)

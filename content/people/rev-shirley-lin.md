@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # Rev. Shirley Lin (林珊宇牧師)
 
@@ -39,7 +39,7 @@ Corpus footprint is thin: Shirley Lin appears only as the subject of her own enc
 - Her own record: [[works/taiwaneseamericanhistory-org/whos-who-1695-shirley-lin|1695. Rev. Shirley Lin 林珊宇牧師]] (published 2017-06-28, value band B, bibliographic record only).
 - Father 林皙陽牧師 has his own adjacent corpus record ([[works/taiwaneseamericanhistory-org/whos-who-1696-s-y-lin|1696. Rev. S. Y. Lin 林皙陽牧師]]), placing the family in the Taiwanese Presbyterian pastor network; her pastorates at 長島台灣教會 and 波士頓台灣基督教會 could not be corroborated from corpus text.
 
-HOLD: corpus text hits for "Shirley Lin" — [[works/taiwaneseamericanhistory-org/whoswho1344|1344. Syaru Shirley Lin 林夏如]] and the 2021 TJJ report [[articles/taiwanjustice-net/2021/20211020123926_2021_10_13_美專家評蔡英文雙十演說_將台灣與中國區分_拒_83bfb52c6c14f5c1|美專家評蔡英文雙十演說]] — are about 林夏如 (UVA 世界政治客座教授, page [[people/syaru-shirley-lin]]), a different person. Not merged into 林珊宇牧師. Re-grepped 2026-09-20 (林珊宇 / Shirley Lin): same hit set, no new memoir or church record naming her — footprint unchanged.
+HOLD: corpus text hits for "Shirley Lin" — [[works/taiwaneseamericanhistory-org/whoswho1344|1344. Syaru Shirley Lin 林夏如]] and the 2021 TJJ report [[articles/taiwanjustice-net/2021/20211020123926_2021_10_13_美專家評蔡英文雙十演說_將台灣與中國區分_拒_83bfb52c6c14f5c1|美專家評蔡英文雙十演說]] — are about 林夏如 (UVA 世界政治客座教授, page [[people/syaru-shirley-lin]]), a different person. Not merged into 林珊宇牧師. Re-grepped 2026-09-22 (林珊宇 / Shirley Lin): identical hit set (own entry, 林夏如 pages), no new memoir or church record naming her — footprint unchanged.
 
 ## Sources
 - [TAH #1695 encyclopedia: 1695. Rev. Shirley Lin 林珊宇牧師](https://taiwaneseamericanhistory.org/whos-who-1695-shirley-lin/)
