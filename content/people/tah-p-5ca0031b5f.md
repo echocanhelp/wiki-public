@@ -6,7 +6,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # 莊林素芳
 
@@ -30,7 +30,7 @@ last_reviewed: 2026-09-21
 ## Role in the Community
 - Documented in the TAH Foundation Who's Who encyclopedia record [[works/taiwaneseamericanhistory-org/whoswho596|596. 莊林素芳 / 2015/09]] (published 2015-09-08).
 - Entrepreneur from 台南麻豆: founder of ABC Jewelry; educated at 台南第二高女.
-- Corpus scan 2026-09-21: no memoir/article mentions (also searched 莊剛健, ABC Jewelry) beyond the encyclopedia record; nothing further absorbable (SKIP).
+- Corpus scan 2026-09-22: no memoir/article mentions (also searched 莊剛健, ABC Jewelry) beyond the encyclopedia record; nothing further absorbable (SKIP).
 
 ## Family
 
