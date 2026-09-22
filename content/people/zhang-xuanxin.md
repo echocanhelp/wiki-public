@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # Zhang Xuanxin (張宣信)
 
@@ -91,6 +91,7 @@ Pages that link to **zhang-xuanxin** (zhang-xuanxin):
 ## Vault Cross-check
 - His 2022-05-15 action at ITPC is corroborated by the vault's church-community records; the companion honouree John Cheng has his own vault page at [[works/taiwaneseamericanhistory-org/artist36-john-cheng|TAH artist record: John Cheng]].
 - The ITPC shooting is separately sourced at [[sources/irvine-taiwanese-presbyterian-church||ITPC source page]].
+- Corpus re-grep 2026-09-22 (slice 09211123-2, via alias stub [[people/billy-chang]]): content/works hits are exactly [[works/taiwaneseamericanhistory-org/910-carnegie-hero-fund-commission-john-cheng-and-billy-chang-09-2024|TAH #910]], [[works/taiwaneseamericanhistory-org/whos-who-2322|TAH #2322]], [[works/taiwaneseamericanhistory-org/ourjourneys107|TAH #107]] and [[works/taiwaneseamericanhistory-org/our-journeys-380|TAH #380]] — all already wikilinked above; no new absorbable facts.
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

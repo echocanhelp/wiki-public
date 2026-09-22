@@ -34,7 +34,7 @@ _Timeline:_
 
 - 2018-05-01 — TAH encyclopedia entry #2106 published.
 
-_Corpus check 2026-09-21: sole works/articles hit is the own TAH record above; no additional memoir/press mentions found. No conflicts to hold._
+_Corpus check 2026-09-22: sole works/articles hits are the own TAH record above and the works index listing; no additional memoir/press mentions found. No conflicts to hold._
 
 ## Sources
 - [TAH #2106 encyclopedia: 2106.  Pi-Pai Wang 黃碧白 / 05/2018](https://taiwaneseamericanhistory.org/whoswho2106/)

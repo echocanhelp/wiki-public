@@ -7,7 +7,7 @@ tags:
   - taiwanjustice-net
   - thin-page
 verification_status: pending
-last_reviewed: 2026-09-14
+last_reviewed: 2026-09-22
 name_en: "Frank Hsieh"
 ---
 # Frank Hsieh (謝長廷)
@@ -63,3 +63,4 @@ name_en: "Frank Hsieh"
 - **Split-decision input — the TAH pianist is NOT 謝長廷.** The vault's own TAH encyclopedia entries for the pianist give his Chinese name as **謝明志**: [[works/taiwaneseamericanhistory-org/musician56|TAH #56 Frank Hsieh 謝明志, Pianist (2014/10)]] and [[works/taiwaneseamericanhistory-org/whoswho1112|TAH #1112 Frank Hsieh 謝明志 (2016/06)]]. The tah-tables block above (pianist / 交通大學音樂研究所教授) therefore belongs to a distinct person, 謝明志 — supports splitting it off this slug rather than merging.
 - **Politician 謝長廷, firsthand memoir (ourjourneys):** [[works/taiwaneseamericanhistory-org/ourjourneys66|66. 南加州同鄉會組團回台 — 1984突破黑名單 / 謝清志]] — after the 1984 return-home delegation's press was smeared by mainstream media (中國時報 etc.), the delegation **asked then-Taipei City Councilman (台北市議員) 謝長廷 to help hold a press conference in Taipei to clarify**. Firstdated community-record role for 謝長廷 in our own memoir corpus (pre-mayoral, pre-premier).
 - **Politician 謝長廷, movement context (ourjourneys):** [[works/taiwaneseamericanhistory-org/ourjourneys12|12. 大紐約區海外台灣人筆會十週年 / 柯金寅]] — at the Pen Association's 2008-01-01 4th annual convention, 藍營 speaker 楊力宇 confidently predicted 謝長廷 would win the 2008 presidential election; the essay uses the episode to note blue-green bias cuts both ways in the diaspora.
+- **Politician 謝長廷, Formosa defense roster (ourjourneys, added 2026-09-22 slice 09211123-2 via alias stub [[people/xie-changting]]):** 廖述宗's 北美洲台灣人教授協會 memoir records the 美麗島事件 defendant/defense-lawyer pairs — 謝長廷 and 蘇貞昌 defended 姚嘉文 — placing him in the defense-lawyer generation that the memoir says became the leadership of the party-rotation era ([[works/taiwaneseamericanhistory-org/ourjourneys69|69. 北美洲台灣人教授協會 / 廖述宗 / 2014/12]]; English edition [[works/taiwaneseamericanhistory-org/ourjourneys69-eng|ourjourneys69-eng]]). This is a second independent community-corpus record of the politician alongside the 1984 press-conference help in ourjourneys66, and further supports the split: our memoir corpus only ever attests the politician, never the pianist.

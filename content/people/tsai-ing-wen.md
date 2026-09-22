@@ -21,6 +21,14 @@ name_en: "Tsai Ing-wen"
 - **Role (as covered):** President of the ROC (Taiwan), 2016–2024
 - **Echopedia scope:** Taiwan politics coverage via taiwanjustice.net; not a Taiwanese-American diaspora profile
 
+## Role in the Community (corpus record)
+
+- **First U.S. visit as president, 2016-06-24~30:** TAH holds a dedicated record of Tsai's first visit to the U.S. as sitting president ([[works/taiwaneseamericanhistory-org/4-president-tsai-ing-wen-of-taiwan-first-time-visited-u-s-a-on-june-24-30-2016|TAH #4, published 2016-07-05]]); the congressional welcome during her earlier US transit is kept as video record [[works/taiwaneseamericanhistory-org/videos47|TAH videos47]].
+- **Tracked in diaspora-org chronicles:** her 2016 campaign headquarters press conference (蔡英文、陳建仁總部記者會) is entered in the 北美臺灣客家公共事務協會 (NTAKA) institutional timeline ([[works/taiwaneseamericanhistory-org/ourjourneys290|290. 北美臺灣客家公共事務協會 / 徐民忠 / 05/2017]]) — i.e. her candidacy is recorded inside our own community organizations' histories, not only in press reposts.
+- Other diaspora-recorded facts (Travel Act essay, Chicago 50-year memoir, 助選演唱會) sit in "From the record" below with their work links.
+- **HOLD:** president-term and policy labels stay as taiwanjustice.net coverage only; expand with primary sources, not press knowledge.
+- Corpus re-grep 2026-09-22 (slice 09211123-2, via alias stub [[people/cai-yingwen]]): content/works hits videos47, ourjourneys320, our-journeys-378, ourjourneys290, 12-26, 4-president-tsai — all now wikilinked.
+
 ## Source Notes
 
 - **Content priority A:** Article hit count (222) from `knowledge/research/taiwanjustice-net-entities.md` (title extraction)

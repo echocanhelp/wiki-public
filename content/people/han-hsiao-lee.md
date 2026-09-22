@@ -37,7 +37,7 @@ _No filled family fields on the TAH profile._
 
 - 2015-03-06 — TAH encyclopedia entry #161 published, identifying her as Director.
 
-_Corpus check 2026-09-21: sole works/articles hit is the own TAH record above; no additional memoir/press mentions found. No conflicts to hold._
+_Corpus check 2026-09-22: sole works/articles hits are the own TAH record above and the works index listing; no additional memoir/press mentions found. No conflicts to hold._
 
 ## Sources
 - [TAH #161 encyclopedia: 161. 李含笑 Han-Hsiao Lee, Director/2015/03](https://taiwaneseamericanhistory.org/161-%e6%9d%8e%e5%90%ab%e7%ac%91-han-hsiao-lee-director201503/)
