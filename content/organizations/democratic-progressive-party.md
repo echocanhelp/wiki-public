@@ -101,6 +101,7 @@ In 2006, the party ended official recognition of factions, though they remain re
 
 ## From the record
 
+- 再核（TJJ-A09220700-10, 2026-09-22）：本 slice 文章 b63290424caedcf7（LA Times）正文再驗證——民進黨2000–2008執政期主張台獨、去年十一月九丟九贏七、黨聲明維持現狀等論述確認，連結為真；2015-04-16 條目已在庫，無新材料。
 - 再核（TJJ-A09220700-4, 2026-09-22）：本 slice 文章 f19de8f9d3b53071 正文再驗證——扁案報導中 DPP 主席蘇貞昌探視、黨譴責移監之論述確認，連結為真；2013-04-22 條目已在庫，無新材料。
 
 - 2012-01-29 — Gerrit van der Wees（Taiwan Communique 總編輯）在 TJJ 撰文評 2012 大選：其隨 ICFET 觀察團（團長 Frank Murkowski）訪高雄、台南、台中、台北，會晤包括民進黨在內的三大政黨；文指選舉因威權遺緒、買票、黨政資源及中國經濟施壓（南區農業採購團、選前壓縮陸客團）而「起跑點不平」，「投民進黨會導致兩岸經濟關係中斷」的恐懼被中方與國民黨交替放大，民進黨被塑造成不穩定選項（[[articles/taiwanjustice-net/2021/20210130160917_2012_01_29_the-chinese-shadow-on-taiwans-elections-by-gerrit-van-der-wees_adc931e5b99bb0a9|TJJ, 2012-01-29]]）。

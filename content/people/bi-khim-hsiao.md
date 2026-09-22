@@ -44,6 +44,8 @@ _No filled family fields on the TAH profile._
 
 ## From the record
 
+- 再核（TJJ-A09220700-10, 2026-09-22）：本 slice 文章 004420da7bd583a2「新聞觀測站」分類頁正文再驗證——「新聞觀測站 20240210 準副總統蕭美琴選後專訪」清單條目確認，連結為真；2024-02-10 條目已在庫，無新材料。
+
 ### TAH story corpus
 
 - Her own autobiography 《一個人也可以》 (09/2004, self-described 自傳) is held in the corpus ([[works/taiwaneseamericanhistory-org/publications990|TAH #990]]) — primary first-person material on her upbringing and career.
