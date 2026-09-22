@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # Walter Dunn (陳梧水醫師)
 
@@ -37,7 +37,7 @@ last_reviewed: 2026-09-21
 
 ## Role in the Community
 
-SKIP (2026-09-20): corpus grep found only the TAH profile record itself ([[works/taiwaneseamericanhistory-org/781-walter-dunn-e9-99-b3-e6-a2-a7-e6-b0-b4-201601|781. Walter Dunn 陳梧水 / 2016/01]]) and the works index — no memoir/community material beyond the TAH profile already reflected above.
+SKIP (re-verified 2026-09-22; first noted 2026-09-20): corpus grep found only the TAH profile record itself ([[works/taiwaneseamericanhistory-org/781-walter-dunn-e9-99-b3-e6-a2-a7-e6-b0-b4-201601|781. Walter Dunn 陳梧水 / 2016/01]]) and the works index — no memoir/community material beyond the TAH profile already reflected above.
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/walter-dunn/)

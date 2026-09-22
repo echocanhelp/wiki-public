@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # Teresa Dreyfuss
 
@@ -37,7 +37,7 @@ last_reviewed: 2026-09-21
 _No filled family fields on the TAH profile._
 
 ## Role in the Community
-- SKIP-with-reason (2026-09-19 pass): the only corpus match is her own TAH encyclopedia bibliographic stub, [[works/taiwaneseamericanhistory-org/whoswho1345|1345. Teresa Dreyfuss / 2016/10]] — no memoir or community-record content to absorb.
+- SKIP-with-reason (2026-09-19 pass; re-verified 2026-09-22 fresh ZH+EN sweep): the only corpus match is her own TAH encyclopedia bibliographic stub, [[works/taiwaneseamericanhistory-org/whoswho1345|1345. Teresa Dreyfuss / 2016/10]], plus the works index — no memoir or community-record content to absorb.
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/teresa-dreyfuss/)
