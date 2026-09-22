@@ -25,6 +25,7 @@ Accomplishment
 ## Role in the Community
 - Honored as **Corps of Engineers – Engineer of the Year (2011)** in the TAH community record — [[works/taiwaneseamericanhistory-org/award-emma-chen|63. Corps of Engineers – Engineer of the Year / Emma Chen / 2011]].
 - Profiled twice in the TAH Who's Who corpus: [[works/taiwaneseamericanhistory-org/216-emma-chen|216. Emma Chen 陳怡邁]] (2019-01-10) and [[works/taiwaneseamericanhistory-org/whos-who-2179-emma-chen|2179. Emma Chen 陳怡邁]] (2019-04-07).
+- Corpus re-checked 2026-09-21 (deepen-x slice 19): beyond the three linked records, a name-only "Emma Chen STT" line appears in [[works/taiwaneseamerican-org/pew-research-center-taiwanese-american-statement|Pew statement]] — context-free (likely a contributor credit), identity unverifiable, not absorbed.
 
 <!-- tah-tables:start -->
 ## Education

@@ -31,7 +31,7 @@ last_reviewed: 2026-09-21
 
 ## Role in the Community
 
-_Corpus check 2026-09-21: the only text hit in the works/articles corpus is this page's own TAH bibliographic record [[works/taiwaneseamericanhistory-org/whos-who-1961-shu-li-chen|TAH #1961 (2017-12)]]; no memoir or movement material mentions 陳淑麗, so no community facts are absorbable. SKIP-with-reason recorded._
+_Corpus check 2026-09-21 (re-confirmed slice-09210400-28): the only text hit in the works/articles corpus is this page's own TAH bibliographic record [[works/taiwaneseamericanhistory-org/whos-who-1961-shu-li-chen|TAH #1961 (2017-12)]] plus the works index; no memoir or movement material mentions 陳淑麗, so no community facts are absorbable. SKIP-with-reason recorded._
 
 ## Family
 
