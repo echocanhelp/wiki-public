@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # Justin Lai (賴正雄)
 
@@ -49,3 +49,5 @@ Note: "Era: 1940" derives solely from the directory era field; no corpus record 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+<!-- deepen-x 2026-09-22: re-scan (ZH+EN) against content/works + content/articles — only the persons own TAH encyclopedia/bibliographic record hits; no new memoir/community material to absorb. Existing content verified current. -->
