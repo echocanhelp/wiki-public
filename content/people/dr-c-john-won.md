@@ -32,7 +32,7 @@ last_reviewed: 2026-09-22
 ## Role in the Community
 - Community roles per TAH profile: FAPA (台灣人公共事務會) President; NATPA (北美洲台灣教授協會) President; Silicon Valley Taiwanese Association (矽谷臺灣同鄉會) President (2010-2011).
 - Corpus record: own encyclopedia entry [[works/taiwaneseamericanhistory-org/whos-who-1874-c-john-won|1874. Dr. C. John Won 翁錦鐘博士]] (2017-09-04). No other memoir/community hits in the corpus beyond this entry.
-- SKIP-deepen (slice 09201503-14, 2026-09-21): re-grepped `content/works` / `content/articles` for 翁錦鐘 / C. John Won — zero memoir hits; only name-similar records (翁啟惠 Wong, 翁致理 Wong) matched, none about this person. Verified-saturated.
+- SKIP-deepen (slice 09201503-14, 2026-09-21): re-grepped `content/works` / `content/articles` for 翁錦鐘 / C. John Won — zero memoir hits; only name-similar records (翁啟惠 Wong, 翁致理 Wong) matched, none about this person. Verified-saturated. Re-check (deepen-x 09211507-10, 2026-09-22): fresh grep returns only own record whos-who-1874 + works index — nothing absorbable.
 
 ## Family
 

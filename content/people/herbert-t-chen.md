@@ -33,6 +33,7 @@ last_reviewed: 2026-09-21
 <!-- tah-tables:end -->
 
 ## Role in the Community
+- Profiled in the TAH Who's Who encyclopedia record [[works/taiwaneseamericanhistory-org/316-herbert-t-chen-e9-99-b3-e5-bf-97-e9-9d-92201503|316. Herbert T Chen 陳志青 / 2015/03]] — bibliographic record; the memoir below is the only community-narrative corpus material.
 - **1960s Minneapolis Taiwanese Christian circle.** In the memoir 懷憶六十年代前期的明市 (謝伯芳, 2021-03): his wife Maki (吳真希) was 蘇惠美's 師大音樂系 classmate; after her MM at University of Georgia she served as organist at Otani 牧師's church in Minneapolis (~4-5 years) and met 陳志青 at the weekly Friday prayer/Bible-study meeting; they married October 1963 with Otani 牧師 giving the bride away — [[works/taiwaneseamericanhistory-org/ourjourneys-369|369. 懷憶六十年代前期的明市 / 謝伯芳]].
 
 ## Family
