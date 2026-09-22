@@ -47,6 +47,8 @@ Organized D.C. Area Taiwanese Association (同鄉會) in 1972, independent from 
 - First private practice of his generation in the capital area — the corpus preserves two contemporaneous records of his clinic: 1965, "the first private clinic in D.C. Area" ([[works/taiwaneseamericanhistory-org/58-first-private-clinic|58]]), and Jan 1967, the ENT practice at "Camp Spring" (Silver Spring), Maryland ([[works/taiwaneseamericanhistory-org/ff309|309]]). The 1965 date matches his Employment table (private ENT clinic from 1965-03).
 - His own reminiscence "Physician with Four Different Cultures" (02/2016) is held at [[works/taiwaneseamericanhistory-org/mystories403|403]] and his 2015 profile at [[works/taiwaneseamericanhistory-org/whos474-donald-c-j-chen|474]]; family-life photos with [[people/enchin-shaw-chen|蕭永真]] at [[works/taiwaneseamericanhistory-org/photo-albums-activities-111|111]].
 
+_Corpus re-scan 2026-09-22: fresh grep of works/articles for 陳哲仁/Donald Chen returns the same hits (ourjourneys76 & -eng, ourjourneys-138, 58-first-private-clinic, ff309, mystories403, whos474, photo-albums-111); all absorbed above — verified saturated, no new community facts._
+
 ## Sources
 - [TAH #309 encyclopedia: 309. Dr. Donald C.J. Chen 陳哲仁醫師 / The first private medical practice. Ear, Nose ](https://taiwaneseamericanhistory.org/ff309/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/donald-c-j-chen/)

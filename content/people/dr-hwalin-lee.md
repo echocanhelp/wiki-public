@@ -44,6 +44,8 @@ _No filled family fields on the TAH profile._
 - TAH 故事語料庫收有其本人署名文章「432. 健康的101歲」（2014-07，band B 隨筆）：[[works/taiwaneseamericanhistory-org/437-e5-81-a5-e5-ba-b7-e7-9a-84101-e6-ad-b2-e6-9d-8e-e8-8f-af-e6-9e-97|432. 健康的101歲 / 李華林 / 2014/07]]（文內人物與本人關係語料庫未載，僅記錄為署名作品）。
 - 對台灣學術的貢獻：UCSD Taiwan Studies Center 2023 年報告明載「Thanks to Dr. Hwalin Lee's gift, our Center has a full-time staff and an office at the Arts and Humanities Building」（[[works/taiwaneseamericanhistory-org/our-journeys-390|390. 2023 in Review: The Founding Director’s Year-end Message from UCSD’s Center of Taiwan Studies | 12/2023]]，Wendy Cheng，2023-12）。TAH 百科條目 [[works/taiwaneseamericanhistory-org/ota-265|265.  Dr. Hwalin Lee 李華林博士]]（2019-03）。
 
+_Corpus re-scan 2026-09-22: fresh grep of works/articles for 李華林/Hwalin Lee returns the same hits (ourjourneys53 & -eng, ourjourneys24-eng, ourjourneys38, our-journeys-390, ota-265, 437 署名文章); all absorbed above — verified saturated, no new community facts._
+
 ## Sources
 - [TAH #265 encyclopedia: 265.  Dr. Hwalin Lee 李華林博士](https://taiwaneseamericanhistory.org/ota-265/)
 - [TAH #106 encyclopedia: 106. Dr. Hwalin Lee 李華林博士](https://taiwaneseamericanhistory.org/whos-who-106-hwalin-lee/)
