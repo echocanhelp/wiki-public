@@ -23,7 +23,7 @@ Appointed as Orange County Superior Court Judge by Governor Arnold Schwarzenegge
 
 ## Role in the Community
 
-SKIP-with-reason (2026-09-17 deepen-x; re-verified 2026-09-19 and 2026-09-21): corpus grep found only bibliographic stubs — [[works/taiwaneseamericanhistory-org/91-tyzen-hsiao-e8-95-ad-e6-b3-b0-e7-84-b6|TAH record 91 (2014-11-15)]] lists her as a mentioned subject (full text in vault, copyright) and taiwanjustice.net has a bare author/tag page. Other 莊/Chuang corpus hits (莊秋雄, 莊念祖, Tze-jer Chuang 莊子哲, Henry Chuang 莊英煌) are different people. No absorbable community/memoir facts beyond the TAH Who's Who snapshot already on this page.
+SKIP-with-reason (2026-09-17 deepen-x; re-verified 2026-09-19 and 2026-09-21): corpus grep found only bibliographic stubs — [[works/taiwaneseamericanhistory-org/91-tyzen-hsiao-e8-95-ad-e6-b3-b0-e7-84-b6|TAH record 91 (2014-11-15)]] lists her as a mentioned subject (full text in vault, copyright) and taiwanjustice.net has a bare author/tag page. Other 莊/Chuang corpus hits (莊秋雄, 莊念祖, Tze-jer Chuang 莊子哲, Henry Chuang 莊英煌) are different people. No absorbable community/memoir facts beyond the TAH Who's Who snapshot already on this page. Re-grep 2026-09-21 (deepen-x slice 09210400-31): same result — own TAH record, works index, and a taiwanjustice.net tag page with no posts ([[articles/taiwanjustice-net/2025/20250915002607_tag_deborah-chuang_1b6bb3faf5e8b67a|Tag: Deborah Chuang]]). SKIP stands.
 
 <!-- tah-tables:start -->
 ## Education

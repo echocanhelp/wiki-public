@@ -39,6 +39,8 @@ B.S. Economics and Computer Science and Engineering
 - Record is bibliographic (band B); full text stays in the TAH vault.
 
 - Corpus re-grep 2026-09-21 (deepen-x slice 09191200-19): works/ and articles/ returned no mentions beyond the subject's own TAH record — no community-authored material to absorb (SKIP).
+
+- Corpus re-grep 2026-09-21 (deepen-x slice 09210400-31): works/ and articles/ again returned only [[works/taiwaneseamericanhistory-org/whos-who-1630-sonny-hsu|1630. Sonny Hsu 徐嵩宜]] and the works index — no community-authored material to absorb (SKIP).
 ## Family
 
 _No filled family fields on the TAH profile._
