@@ -36,6 +36,8 @@ Corpus records place Chen in the Taiwanese music community record in two archive
 
 HOLD: corpus carries two romanizations (Mei-Ci Chen vs M. C. Chen) for the same 陳玫琪 — treated as one person per TAH source numbering, not merged with any other 陳玫琪.
 
+- Corpus re-grep 2026-09-21 (slice-09210400-23): hits = own records #370/#1315, works index, plus [[works/taiwaneseamericanhistory-org/whoswho937|TAH #937 M. C. Cheng Lee 李鄭美昭]] — a different person whose romanization collides with "M. C. Chen"; not absorbed here. SKIP-with-reason otherwise; nothing absorbable.
+
 ## Family
 
 _No filled family fields on the TAH profile._

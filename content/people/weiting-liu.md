@@ -39,7 +39,7 @@ TAH corpus holds his own Who's Who story record, published 2017-03-14 (value ban
 
 No other corpus mentions found (works/articles grep, 2026-09-18).
 
-- Corpus re-grep 2026-09-21: hits unchanged (own TAH record only); no new community facts absorbed.
+- Corpus re-grep 2026-09-21 (slice-09210400-23): hits unchanged (own TAH record #1548 + works index only); no new community facts absorbed — SKIP-with-reason, existing links verified resolving.
 ## Family
 
 _No filled family fields on the TAH profile._

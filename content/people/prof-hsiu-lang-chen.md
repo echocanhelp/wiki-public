@@ -36,6 +36,7 @@ Prof. Hsiu-lang Chen 陳秀亮教授 – History of Taiwanese American (T.A. Arc
 _No filled family fields on the TAH profile._
 
 ## Role in the Community
+- deepen-x 09210400-24 recheck 2026-09-21: fresh grep of content/works + content/articles for 陳秀亮 / Hsiu-lang Chen matched only this person's own TAH work record ([[works/taiwaneseamericanhistory-org/whos-who-2208-hsiu-lang-chen|TAH #2208]]) and the works index — no memoir/community text to absorb. SKIP-with-reason.
 - Corpus check 2026-09-17: the only mentions in our memoir/article corpus are his own TAH Who's Who entry ([[works/taiwaneseamericanhistory-org/whos-who-2208-hsiu-lang-chen|2208. Prof. Hsiu-lang Chen 陳秀亮教授]], published 2019-07-04) and index listings. No community-activity facts beyond the TAH press-kit profile were found — the finance academic record (Univ. of Illinois) is not otherwise woven into movement memoirs.
 
 ## Sources
