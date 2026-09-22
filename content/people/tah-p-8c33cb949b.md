@@ -44,6 +44,10 @@ last_reviewed: 2026-09-22
 
 - **Son:** ?
 
+## Worklog
+
+- 2026-09-22 deepen-x slice 09210600-20: re-verified — fresh grep for 賴江椿 over works+articles returns only Our Journeys 290 / 252 and own TAH record #633, all already absorbed and wikilinked in Role in the Community; nothing further absorbable.
+
 
 ## Sources
 - [TAH #633 encyclopedia: 633. 賴江椿 / 2015/09](https://taiwaneseamericanhistory.org/633-%e8%b3%b4%e6%b1%9f%e6%a4%bf-201509/)

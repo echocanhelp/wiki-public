@@ -39,6 +39,10 @@ _No filled family fields on the TAH profile._
 - In July 2018 the 南加州台大校友會 (Southern California NTU Alumni Association) invited 管中閔 to give a keynote at its annual meeting; the corpus press report carries the association's 國立台灣大學校友 roster, which lists 謝顯堂 (農化) — independently corroborating the TAH profile's NTU Agricultural Chemistry degree. ([[articles/taiwanjustice-net/2018/20180721091303_2018_07_20_抗議-南加州台大校友會邀管中閔來年會做專題演講_a428dcebbceacf38|南加州台大校友會邀管中閔年會專題演講／2018-07-20]])
 - His career record is preserved as encyclopedia entry #2094 in the TAH Who's Who collection (2018/04). ([[works/taiwaneseamericanhistory-org/whos-who-2094-dennis-hsieh|2094. Prof. Dennis Hsieh 謝顯堂教授]])
 
+## Worklog
+
+- 2026-09-22 deepen-x slice 09210600-20: re-verified — fresh grep for Dennis Hsieh/謝顯堂 over works+articles returns only own TAH record #2094 (already wikilinked above) plus the works index; the 2018 TJJ alumni-roster corroboration is already cited. No memoir mentions; nothing further absorbable.
+
 ## Sources
 - [TAH #2094 encyclopedia: 2094. Prof. Dennis Hsieh 謝顯堂教授](https://taiwaneseamericanhistory.org/whos-who-2094-dennis-hsieh/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-dennis-hsieh/)
