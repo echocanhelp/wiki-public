@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
 # Cheng Y. Chuang (莊承業)
 
@@ -39,6 +39,7 @@ last_reviewed: 2026-09-21
 - **Credit union pioneer:** As serving TAA president he announced at the 3rd 世台會 annual meeting in Los Angeles (1976) that Houston had founded the first Formosan credit union (德州台灣信用合作社, 1975-06) — the SCTFCU founding memoir recalls his point stressed that the Texas co-op was already "營運得還不錯" (running well), which is what emboldened the Los Angeles chapter to organize its own; his 介紹德州台灣信用合作社 was reprinted in 洛台鄉訊 ([[works/taiwaneseamericanhistory-org/ourjourneys244|SCTFCU founding memoir]]). Photo album of the credit union: [[works/taiwaneseamericanhistory-org/photo-albums-activities-39|TFCU album, 2015-01]].
 - **Community historian:** Authored [[works/taiwaneseamericanhistory-org/ourjourneys318|318. 漫談美南台灣人夏令會的濫觴]] (10/2017) on the origins of the Southern US Formosan Summer Conference, and [[works/taiwaneseamericanhistory-org/ourjourneys233-eng|233. 回顧休士頓台灣人活動中心的成立]] (Houston Taiwanese Community Center, 10th anniversary, 2016).
 - **Community historian, Houston footprints:** Authored [[works/taiwaneseamericanhistory-org/publications1252|1252. 台美人休士頓的腳印 Taiwanese American's Footprints in Houston (1970–2018)]] (11/2018), a movement history of the Houston Taiwanese community.
+- CORPUS SCAN (2026-09-22): the authored-history record extends further — he also wrote [[works/taiwaneseamericanhistory-org/publications1124|1124. 休士頓台獨運動的故事 Taiwan Independence Movement in Houston]] (07/2017), a movement history of Houston 台獨 organizing, making four corpus memoir/history works under his byline (1124, 233, 318, 1252).
 - **HR 23 advocacy, Austin (2019-03-04):** At the historic HR 23 Resolution hearing in the Texas State Capitol he appears in community photos (with Mike Chen, Katy Shull, Pearl Wu, Shannon Hu) and publicly backed FAPA's Austin work ([[works/taiwaneseamericanhistory-org/our-journeys-370|Our Journeys #370]]).
 
 ## Sources
