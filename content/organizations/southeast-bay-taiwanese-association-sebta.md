@@ -25,6 +25,7 @@ The Southeast Bay Taiwanese Association (SEBTA, 東南灣台灣同鄉會) is a r
 
 ## Worklog
 - 2026-09-22 deepen-x slice 09210500-21: VERIFY — fresh grep of content/works + content/articles returns only the three files already cited here (own directory record, Leona Chen's two mentorship testimonies); no new corpus facts to absorb.
+- 2026-09-23 deepen-x slice 09221400-31: VERIFY — fresh grep (SEBTA / 東南灣台灣同鄉會) again returns exactly the three cited files + works/index; verified saturated, no new facts.
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/southeast-bay-taiwanese-association-sebta/)
