@@ -39,7 +39,7 @@ last_reviewed: 2026-09-23
 - 英譯叢刊 series continues through at least 2011: [[works/taiwaneseamericanhistory-org/142-taiwanese-literature-english-translation-series-kuo-ching-tu-2011-01-e6-96-8|142. Taiwanese Literature English Translation Series 2011.01]] (corpus re-grep 2026-09-20).
 - Who's Who entry: [[works/taiwaneseamericanhistory-org/whoswho1145|1145. K. C. Du 杜國清]] (logged 2016-07-15).
 
-_Corpus re-grep 2026-09-22: same work hits (#27, #131, #135, #136, #137, Who's Who #1145); all facts already absorbed, nothing new._
+_Corpus re-grep 2026-09-22/23 (slice 09221100-29): same work hits (#27, #131, #135, #136, #137, Who's Who #1145); all facts already absorbed, nothing new._
 
 ## Family
 

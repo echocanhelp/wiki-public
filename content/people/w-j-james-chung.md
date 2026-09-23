@@ -39,6 +39,7 @@ _No filled family fields on the TAH profile._
 - 2020 pandemic record: after COVID-19 closed his NYC catering business, he used the downtime to procure and donate medical supplies to Queens hospitals, framed as "bring[ing] voice to let people know Taiwanese are good and helpful to the whole world"; the record recalls he left Taiwan to study in the US around 35 years earlier "with nothing, relying on the goodwill and generosity of others" and describes him and others loading a van to deliver supplies to Queens' hospitals — he framed the donating as paying that goodwill back. Recorded in [[works/taiwaneseamericanhistory-org/our-journeys-360|360. Taiwanese Americans use coronavirus as moment to create own narrative]] (2020-09-17, band A).
 - Same corpus record identifies him as an adviser to Taiwan's Overseas Community Affairs Council (僑務委員會) in New York — an official community-facing role not on the TAH profile.
 - HOLD: name-romanization conflict — corpus record ff344 spells him "James Chuang", TAH profile "James Chung"; also HOLD location — ff344 places Ichiban Japanese Catering in New York while his chamber presidency is New Jersey.
+- Re-grepped 2026-09-23 (slice 09221100-32): verified saturated — corpus hits remain exactly the three records already cited (whos-who-1932, ff344, our-journeys-360); every passage matched was already absorbed. No new absorbable community facts.
 
 ## Sources
 - [TAH #1932 encyclopedia: 1932. W. J. (James) Chung 鍾文忠](https://taiwaneseamericanhistory.org/whos-who-1932-wen-jung-chung/)

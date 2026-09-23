@@ -28,6 +28,7 @@ UCSB has been a recurring host site for Taiwanese American community activity, o
 - 2014-05-08 — a "UCSB Taiwanese Student Assoc." is credited as a co-sponsor (with the Center for Taiwan Studies, Dept. of East Asian Languages and Cultural Studies, and TECO-LA) of the "Tongues of Heaven: Indigenous Articulations from Taiwan to Hawai'i" screening and talk at UCSB's Social Science & Media Studies building — the corpus's direct organizing credit for the student association, recorded in the promotional listing inside [[works/taiwaneseamerican-org/a-chat-with-documentary-filmmaker-anita-chang|A Chat with Documentary Filmmaker Anita Chang (2014-05-07)]].
 
 HOLD: apart from the 2014 sponsorship credit (which names the group as "UCSB Taiwanese Student Assoc.", a variant of the page's TASA name — treated as the same body, variant wording noted), the corpus records document Taiwanese American activity at UCSB but do not state that TASA itself organized those events; no further direct organizational link asserted.
+- Re-grepped 2026-09-23 (slice 09221100-32): verified saturated — fresh grep surfaced only the already-cited Chuan Lyu chair record, the Anita Chang/Tongues of Heaven listing, plus ITASA (Intercollegiate Taiwanese American Student Association — a separate national body, not UCSB TASA) and unrelated Santa Barbara mentions. No new absorbable facts.
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-american-student-association-at-uc-santa-barbara/)

@@ -28,7 +28,7 @@ last_reviewed: 2026-09-23
 - Corpus re-grep 2026-09-18/19 (slices -13/-14/-5): hit set unchanged (own band-B entry #2310, index, the same held taiwanjustice.net column); no new memoir/corpus material to absorb — SKIP-with-reason.
 - Corpus re-grep 2026-09-20 (slice 09191100-8): hits仍僅本身出處頁 [[works/taiwaneseamericanhistory-org/whos-who-2310-jin-l-lin|TAH #2310]] 與 works index；無回憶錄提及。SKIP-with-reason：無可吸收新事實。
 - Corpus re-grep 2026-09-21 (slice 09210051-5): hit set unchanged (own #2310 entry, works index, the same held taiwanjustice.net column); SKIP-with-reason — nothing new absorbable.
-- Corpus re-grep 2026-09-22 (slice 09212352-23): hit set unchanged — own [[works/taiwaneseamericanhistory-org/whos-who-2310-jin-l-lin|TAH #2310]], works index, and the same held taiwanjustice.net column (HOLD above); no memoir mentions — SKIP (verified-saturated).
+- Corpus re-grep 2026-09-22/23 (slices 09212352-23 · 09221100-29): hit set unchanged — own [[works/taiwaneseamericanhistory-org/whos-who-2310-jin-l-lin|TAH #2310]], works index, and the same held taiwanjustice.net column (HOLD above); no memoir mentions — SKIP (verified-saturated).
 
 <!-- tah-tables:start -->
 ## Education

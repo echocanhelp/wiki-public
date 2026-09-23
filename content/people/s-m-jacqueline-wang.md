@@ -49,6 +49,7 @@ S. M. (Jacqueline) Wang 王賽美 – History of Taiwanese American (T.A. Archiv
 - The corpus record for Wang runs through the family's civic work with husband 王桂榮 — the 大洛杉磯台灣會館 founding donation of land and building (1998) credited to both of them is documented in the center's own anniversary notices (see From the record).
 - 王桂榮's own movement career is preserved in-corpus: he served as 第二任會長 of the Formosan Association/hall body and is the subject of a community obituary memoir ([[works/taiwaneseamericanhistory-org/344-e7-ac-ac-e4-ba-8c-e4-bb-bb-e6-9c-83-e9-95-b7-e7-8e-8b-e6-a1-82-e6-a6-ae-e5-b|344. 第二任會長王桂榮 將公會會務發揚光大, 2015/10]] · [[works/taiwaneseamericanhistory-org/mystories449|民報, 追憶一個台美人的奮鬥傳奇～王桂榮, 2016/07]]).
 - No memoir material describing Jacqueline Wang's own community roles was found beyond the Taiwan Center donation credit; her Ramada Inn (Long Beach) CEO tenure stands as sourced (TAH #1973).
+- Corpus re-grep 2026-09-23 (slice 09221100-29): hit set unchanged — own [[works/taiwaneseamericanhistory-org/whos-who-1973-s-m-wang|TAH #1973]], works index, and the two TJJ 台灣會館 anniversary notices already absorbed in 'From the record' (the [[works/taiwaneseamericanhistory-org/whos-m-wang|852. M. Wang 陳美霞]] hit is a slug collision, different person). SKIP-with-reason: verified-saturated, nothing new absorbable.
 
 ## From the record
 
