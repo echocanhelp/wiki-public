@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # Taiwanese Student Society
 
@@ -15,6 +15,7 @@ Re-pass 2026-09-19: corpus hits for 台灣學生社 are a DIFFERENT org — MTSC
 Re-pass 2026-09-21 (deepen-x slice 09191400-9): fresh grep adds only more collisions — the UW-Madison 1963 Formosan Students Club memoir [[works/taiwaneseamericanhistory-org/ourjourneys205|Our Journey #205 (周烒明醫師's UW 台灣學生會, 護照被吊銷)]] and the Seattle work page [[works/taiwaneseamericanhistory-org/tsa-taiwanese-student-association-at-the-university-of-washington|華大台灣學生會 TSA (UW, 2014)]] — different campuses/orgs, not merged. UMTC TSS itself remains without corpus material. Still SKIP.
 Re-pass 2026-09-21 (deepen-x slice 09210400-3): fresh grep for 台灣學生會 / Taiwanese Student Society / UMTC returned only the known collisions — UW 台灣學生會 TSA, the UW-Madison memoirs (Our Journey #205/#277), 北卡同學會 (#381) — plus an unrelated 趙婷 article. No UMTC TSS material. Still SKIP.
 Re-pass 2026-09-22 (deepen-x slice 09212352-9): fresh grep adds no new file classes — hits remain the MTSC 台灣學生社 work pages ([[works/taiwaneseamericanhistory-org/taiwanese-collegian-irvine-ca|Taiwanese Collegian 台灣學生季刊 (Irvine)]] is a further MTSC-layer collision, not UMTC), concerts114/#12, and the UW-M/北卡 memoirs. HOLD: MTSC vs UMTC collision stands. Still SKIP.
+Re-pass 2026-09-23 (deepen-x slice 09221000-6): fresh grep for 台灣學生會/Taiwanese Student Society/UMTC returns the same collision set (UW TSA, UW-M memoirs #205/#277, 北卡 #381, unrelated 趙婷 article). No UMTC TSS material. Still SKIP.
 
 ## Identity Snapshot
 - **English:** Taiwanese Student Society
