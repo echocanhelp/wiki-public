@@ -39,6 +39,7 @@ Accomplishment
 - HOLD: homonym disambiguation — the 梁德明 named in [[articles/taiwanjustice-net/2026/20260115091949_香港民主派新科區議員-呼籲台灣人返鄉投票影_b2e95db5f378e4bc|this 2026 TJJ article]] is a Hong Kong pro-democracy district councillor, not the Chicago physician; do not merge.
 - HOLD: corpus re-grep 2026-09-18 — the "Chang Teh-ming" appearing in [[works/taiwaneseamericanhistory-org/ourjourneys38-eng|38. TAFNC Thirty Year Review / 北加州台灣同鄉聯合會三十年回顧]] is the tangwai politician (given-name match only), not this physician; do not merge. No other corpus record beyond the TAH Who's Who entry.
 - Re-verified 2026-09-22 (slice 09220400-18): SKIP — corpus re-grep (梁德明 / Tehming Liang) returns only his own TAH record 1867, the works index, and the 2026 TJJ HK-councillor article already flagged as a homonym above. No new absorbable community facts.
+- 2026-09-23 (slice 09221200-19): NEW first-person recollection absorbed — the 廖述宗 biography memoir quotes "Dr. Liang Deming (梁德明), now a dermatologist" recalling the 1960s UChicago Taiwanese Student Association community at the Liao home (spring-roll wrappers 潤餅捲 that Mrs. 郭淑卿 learned to make in Taiwan for everyone). Identity reconciled, not merged blindly: same 漢名, the "dermatologist" descriptor and the UChicago setting match this physician's own UChicago Ph.D. (Chemistry, 1968–73) and Chicago chapter career; "Liang Deming" is the pinyin rendering of Wade-Giles Tehming. As a student he was part of the UChicago circle around advisor 廖述宗 before his later NATMA/TAA leadership [[people/liao-shu-zong|廖述宗 biography]].
 
 ## Family
 

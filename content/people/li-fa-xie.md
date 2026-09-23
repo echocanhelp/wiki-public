@@ -34,6 +34,7 @@ last_reviewed: 2026-09-23
 - Profiled in 《我的心路歷程—畫家謝里法》 by 劉玉山 (2018-03) — [[works/taiwaneseamericanhistory-org/mystories633|633. 我的心路歷程-畫家謝里法 / 2018-03]]; TAH encyclopedia entry — [[works/taiwaneseamericanhistory-org/20972|653. Li–Fa Xie 謝里法 / 2015-10]].
 - Further corpus-held works: 《廿世紀台灣畫壇名家作品集 第二冊》 (1990-03) — [[works/taiwaneseamericanhistory-org/publications1182|1182. The Twentieth Century Taiwanese Paintings Volume Two / 1990-03]]; 《台灣出土人物誌》 (1988-09, 傳記) — [[works/taiwaneseamericanhistory-org/417-e5-8f-b0-e7-81-a3-e5-87-ba-e5-9c-9f-e4-ba-ba-e7-89-a9-e8-aa-8c-e8-ac-9d-e9-8|417. 台灣出土人物誌 / 1988-09]].
 - Community action in the movement record: a 謝里法 oil-painting charity sale funded the Houston Taiwanese community center — 楊朝諄、李席舟、李雅彥 purchased works, raising 九千元 with half going to the 會館 ([[works/taiwaneseamericanhistory-org/ourjourneys233|233. 回顧休士頓台灣人活動中心的成立 / 莊承業 / 2016-07]]).
+- 2026-09-23 re-check (DEEPEN-X slice 09221200-22): corpus re-grep (謝里法 / Li–Fa Xie) returned only the works already cited above (632, 300, 417, mystories633, 20972, publications1181/1182, our-journeys-357, ourjourneys233) — verified-saturated, nothing new absorbable this pass.
 
 ## Family
 

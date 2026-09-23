@@ -50,6 +50,8 @@ HOLD: 「Liyen James Hu」在 [[works/taiwaneseamerican-org/lunchbox-anne-hu-rel
 
 2026-09-22 re-check: corpus re-grep (James Hu / 胡宏仁) returned only the works already cited above plus a TJJ 2025-06-17 存檔頁（[[articles/taiwanjustice-net/2025/20250617074648_黃瑞雅_peggy-huang_希望能代表共和黨角逐2020聯邦眾議院_ab91fdd76a1f4c9c|黃瑞雅選舉短片報導]]），該處「James Huang醫師」為黃瑞雅丈夫（主治醫師），屬另一人，不併档 — no new absorbable facts.
 
+2026-09-23 re-check (DEEPEN-X slice 09221200-22): corpus re-grep hit-set unchanged (887, ourjourneys107「重要電腦技巧 胡宏仁教授」課程名單, index entity-link 目錄, plus the two held lunchbox/James Huang false-identity hits and the TJJ 黃瑞雅 page) — verified-saturated, nothing new absorbable this pass.
+
 ## From the record
 
 - 2017-11-29 — 應邀於長青教室演講「建造健康奇蹟的食用好油」，聽眾心得報告刊於台灣公義報「台美人台加人」分類（2017-12-03 刊登）（[[articles/taiwanjustice-net/2024/20240719125457_root_c691e327b9133c1a|TJJ tag 心得報告, 2024-07-19 存檔]]）；同一講座亦見TJJ「長青教室」標籤存檔頁（[[articles/taiwanjustice-net/2024/20240621184031_root_49d912cc449367f0|2024-06-21 快照]]）。
