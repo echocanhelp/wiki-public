@@ -38,7 +38,7 @@ last_reviewed: 2026-09-23
   - 69. 林書豪邁入美職籃的辛酸成功奮鬥史. ([[works/taiwaneseamericanhistory-org/mystories69|TAHS story #69]])
   - 84. 台美人第二代 Dr. Lisa T. Su (蘇姿豐博士) 榮膺超微公司 AMD 提升重用任命為營運長. ([[works/taiwaneseamericanhistory-org/mystories84-dr-lisa-t-su|TAHS story #84]])
 - **TAH encyclopedia profile:** #1069 Henry Tseng 曾恆利 (2016/06). ([[works/taiwaneseamericanhistory-org/whoswho1068|TAHS story #1069]])
-- Re-grepped corpus 2026-09-21: hits limited to his own five authored works above; no additional community-authored material naming him.
+- Re-grepped corpus 2026-09-21 and again 2026-09-23 (slice 09221500-26): hits limited to his own five authored works above plus the works index; no additional community-authored material naming him — page judged saturated.
 
 ## Family
 
