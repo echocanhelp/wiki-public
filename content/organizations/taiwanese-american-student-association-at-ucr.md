@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # Taiwanese American Student Association at UCR
 
@@ -28,3 +28,4 @@ The Taiwanese American Student Association at UCR (TASA @ UCR) is a student cult
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+<!-- deepen-x 09221500-31: verified-saturated — corpus re-scan (works/articles) fresh 2026-09-23: hit set identical to prior passes (own TAH record + already-wikilinked works only); no new community material. -->

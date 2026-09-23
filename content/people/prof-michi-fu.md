@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # Prof. Michi Fu
 
@@ -50,3 +50,4 @@ Re-grep 2026-09-22 (slice 09211507-13): exact-name hits limited to her own TAH r
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+<!-- deepen-x 09221500-31: verified-saturated — corpus re-scan (works/articles) fresh 2026-09-23: hit set identical to prior passes (own TAH record + already-wikilinked works only); no new community material. -->
