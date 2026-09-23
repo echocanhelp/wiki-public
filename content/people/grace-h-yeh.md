@@ -9,7 +9,7 @@ tags:
   - presbyterian
   - FPCLA
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # Grace H. Yeh (張信惠)
 
