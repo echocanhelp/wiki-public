@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # Fang-Ming Chen (陳芳明博士)
 
@@ -52,3 +52,4 @@ _No filled family fields on the TAH profile._
 
 <!-- corpus sweep 2026-09-21: re-verified — corpus hits (ourjourneys8-eng, ourjourneys76/-eng, ourjourneys123-eng, work 461, whoswho190) all already absorbed above; no new absorbable facts -->
 <!-- deepen-x slice 09220500-3 re-verify 2026-09-22: fresh grep — identical hit set re-read (台灣文化 editorship, 1992 Midwest conference volume, work 461, TAH 190); all absorbed; no new facts -->
+<!-- deepen-x slice 09221300-3 re-verify 2026-09-23: fresh grep — identical hit set (ourjourneys8/76/123-eng, ourjourneys76, 461, whoswho190); all absorbed; no new facts -->

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # Chin-Hsin Jason Liu (劉進興)
 
@@ -55,3 +55,5 @@ Corpus-linked (absorbed 2026-09-18), from 曾啟明's Minnesota chronicle [[work
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+<!-- deepen-x slice 09221300-3 re-verify 2026-09-23: fresh grep — identical hit set (ourjourneys123/-eng, 1076, 556, 322, whoswho1440); chronicle excerpts (1985 會長 year, 1995 立委) re-read and already absorbed; no new facts -->

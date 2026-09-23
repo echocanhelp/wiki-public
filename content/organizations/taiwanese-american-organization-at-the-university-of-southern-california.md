@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # Taiwanese American Organization at the University of Southern California
 
@@ -25,6 +25,8 @@ The Taiwanese American Organization (TAO) at the University of Southern Californ
 > Deepen pass 2026-09-22 (slice 09210831-28): SKIP — fresh grep for usctao/TAO at USC/南加大: 南加大 hits are USC-location event memoirs ([[works/taiwaneseamericanhistory-org/ourjourneys253|TACL 人口普查座談會 @ USC 希爾頓]], [[works/taiwaneseamericanhistory-org/ourjourneys301|台灣文化之夜 @ USC]], [[works/taiwaneseamericanhistory-org/my-stories-770|770. 南加大博士生聶焱庠音樂會]]) and the USC Taiwanese Student Association song page [[works/taiwaneseamericanhistory-org/dumplings-usctsa|燒肉粽 by USC 台灣同學會]] — none mention TAO/usctao. One adjacent note: [[works/taiwaneseamerican-org/the-return-of-tacls-leadership-in-development-camp-a-glimpse-behind-the-scenes|TACL-LID camp article]] recalls an ITASA Conference hosted by USC (student-organizer context, group unnamed) — not TAO-specific. Nothing absorbable.
 
 > Deepen pass 2026-09-22 (slice 09220500-3): SKIP — fresh grep for usctao/TAO at USC/Taiwanese American Organization: only new-class hit is the USC Libraries Taiwanese American Digital Archive work page [[works/taiwaneseamericanhistory-org/collection-4-taiwanese-american-digital-archive-by-usc-libraries|TADA by USC Libraries]] (matched on 南加大 in its title; body never mentions the club). Still zero TAO-specific memoir content.
+
+> Deepen pass 2026-09-23 (slice 09221300-4): SKIP — fresh grep (usctao/南加大/Taiwanese American Organization): matches remain unrelated generic records (video-asian-choral-festival, 7-t-shirts, concerts26, photo-albums); zero TAO-at-USC-specific memoir content. Nothing absorbable.
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-american-organization-at-the-university-of-southern-california/)

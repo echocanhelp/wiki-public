@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # Ho Yang Lin (楊千鶴)
 
@@ -44,6 +44,8 @@ last_reviewed: 2026-09-22
 
 ## Corpus check (2026-09-22)
 - Idempotent re-verify: fresh grep — all 楊千鶴 / Ho Yang Lin corpus hits (publications112, publications-111, whoswho1311, 這些人這些事 tag archive, daughter page [[people/chihmei-lin-chen|林智美]]) are already linked above; no new absorbable facts.
+
+- 2026-09-23 (slice 09221300-4) idempotent re-verify: fresh grep 楊千鶴/Ho Yang Lin — same hits (publications112, publications-111, whoswho1311, 這些人這些事 tag archive), all already linked above; no new facts. Verified-saturated SKIP.
 
 ## Sources
 - [TAH #1311 encyclopedia: 1311. Ho Yang Lin 楊千鶴/ 2016/10](https://taiwaneseamericanhistory.org/whoswho1311/)

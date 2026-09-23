@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # Taiwanese American Student Association at Emory University
 
@@ -25,6 +25,7 @@ The Taiwanese American Student Association at Emory University (Emory TASA) is a
 - 2010-11-20 — Emory 與 GATech 共同主辦「Taste of Taiwan 2010」：[[works/taiwaneseamerican-org/taste-of-taiwan-2010-hosted-by-emory-gatech|Taste of Taiwan 2010, hosted by Emory & GATech]]。HOLD: 紀錄僅寫「hosted by Emory & GATech」，未指名是否由兩校 TASA 承辦。
 
 ## Corpus note
+- 2026-09-23 re-grep (slice 09221300-3): fresh grep of works/ + articles/ — hits are only the index and the Night Market work page already linked above; Will Tiao / Taste of Taiwan pages already linked with HOLDs. No new Emory-TASA material — no new absorbable facts.
 - 2026-09-22 re-grep (slice 09220500-4): broad Emory sweep of works/ + articles/ — new candidates checked: the OSU 'Twitter Wars' memoir ([[works/taiwaneseamerican-org/twitter-wars|Twitter Wars]]) cites 'racist chants at Emory' only as an off-campus incident report, no TASA facts; the Michelle Young interview ([[works/taiwaneseamerican-org/michelle-young-the-art-spy|The Art Spy]]) concerns Harvard's Taiwanese student group, not Emory. No new Emory-TASA material beyond the work pages already linked.
 - 2026-09-21 re-grep (slice 09210317-24): 新增一条 Emory/GATech 合辦活動紀錄（Taste of Taiwan 2010）已收入上方；其餘命中（index、TaiwanJustice 新聞）無 TASA 事實。
 - 2026-09-19 re-grep: corpus hits remain the two work pages already linked in Role in the Community; unrelated TaiwanJustice news mentions of Emory carry no TASA facts. No new material.

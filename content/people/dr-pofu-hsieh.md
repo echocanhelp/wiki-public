@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # Dr. Pofu Hsieh (謝博夫醫師)
 
@@ -42,6 +42,8 @@ _No filled family fields on the TAH profile._
 HOLD: he is documented as a dentist (NYU D.D.S., NYU dental faculty) serving as president of the Taiwanese *Medical* Association — the corpus does not explain the dental/medical distinction; recorded as-is, no reinterpretation.
 
 SKIP-with-reason (re-verified 2026-09-22): a fresh corpus grep returns only the 2021 WHO forum record and TAH #1904 entry already absorbed above plus the works index — no additional memoir or community text, so no new facts added.
+
+Corpus re-check 2026-09-23 (deepen-x slice 09221300-9): fresh grep 謝博夫/Pofu Hsieh — hit set unchanged (whos-who-1904 + works index; the 2021 WHO article names him by title), all absorbed. SKIP-deepen.
 
 Corpus re-check 2026-09-22 (deepen-x slice 09220400-26): fresh grep for 謝博夫 / Pofu — hit set unchanged (whos-who-1904, works index, 2021 WHO forum article), all already absorbed. SKIP-deepen.
 
