@@ -32,6 +32,8 @@ last_reviewed: 2026-09-23
 - **2021-05-17** — Co-initiating organization (共同發起單位) of the Southern California community joint statement supporting Taiwan's participation in the World Health Assembly (2021年南加州僑界支持台灣參與世界衛生大會WHA聯合聲明, archived at `articles/taiwanjustice-net/2021/20210616072940_2021_05_17_2021年南加州僑界支持台灣參與世界衛生大會wha聯合聲_b1d58af16c0a5e5b.md`; republished copy `articles/taiwanjustice-net/2025/20251108183438_…wha聯合聲_80c0a825a7a661b6.md`). The statement lists 大洛杉磯旅館協會 and 南加州台灣旅館業同業公會 as **separate** co-initiators — corroborating the HOLD below that they are distinct bodies. TAHS (台美人歷史協會) appears in the same co-initiator list.
 - Related lineage in the corpus: the statewide body [[organizations/taiwan-hotel-motel-association-of-southern-california|南加州台灣旅館業同業公會]] — noted as the first Taiwanese American business-field organization (08/1974, [[works/taiwaneseamericanhistory-org/ff261|261]]) — and the umbrella [[organizations/taiwan-hotel-motel-association-of-north-america|北美洲台灣旅館公會聯合總會]]. HOLD: relationship between the Greater LA association and the SoCal 公會 (local chapter vs separate body) is not stated in the corpus — do not merge.
 
+Corpus re-check 2026-09-23 (deepen-x slice 09221200-17): fresh grep for 大洛杉磯旅館協會 — substantive hits unchanged (innkeepers-association-la record, works/index listing, both WHA 聯合聲明 article copies, which verbatim confirm the separate-co-initiator listing). Verified-saturated; nothing new absorbable; HOLD stands.
+
 ## Related Pages
 
 - [[works/taiwaneseamericanhistory-org/innkeepers-association-la|1. 大洛杉磯旅館協會]] — TAH community record (2014-10-12, band B)

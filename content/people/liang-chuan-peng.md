@@ -30,6 +30,7 @@ Liang Chuan Peng (彭兩泉) is listed in the TAH Foundation Who’s Who Taiwane
 - The English record of the 協志會 history also lists him ("Liang Chuan Peng") in the roster of Taiwanese American Federation of Northern California presidents produced by the Alliance. Source: [[works/taiwaneseamericanhistory-org/ourjourneys37-eng|37. TAI history (English)]].
 - 2026-09-22 deepen-x slice 09220400-15: SKIP — re-verified saturated: grep hits remain ourjourneys37/37-eng/38/38-eng/whoswho803 (+ index listing); all facts already absorbed into Role in the Community, no new material.
 - 2026-09-22 re-check: fresh greps for 彭兩泉 / Liang Chuan Peng hit only ourjourneys37 / 37-eng / 38 / 38-eng / whoswho803 — all facts above absorbed (English roster link newly added); no new material.
+- 2026-09-23 deepen-x slice 09221200-18: SKIP — verified-saturated. Fresh greps again return only ourjourneys37 / 38 / 37-eng / 38-eng / whoswho803 (+ index); all context (president roster, 1975 term, 美西夏令營 founding, 重心南移 narrative) already absorbed above.
 
 ## Family
 
