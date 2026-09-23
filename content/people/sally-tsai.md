@@ -28,6 +28,7 @@ last_reviewed: 2026-09-22
 - Corpus re-grep 2026-09-21: hits unchanged (own records #345/#181, [[works/taiwaneseamericanhistory-org/ourjourneys340|ourjourneys340]], index); community facts above already absorbed — no new material.
 - Corpus re-grep 2026-09-21 (slice 09210317-24): same three hits; ourjourneys340 全文確認五區分區練唱細節與現有敘述一致，無衝突、無新增事實。
 - Corpus re-grep 2026-09-22 (slice 09220600-20): hits unchanged (own records #345/#181, [[works/taiwaneseamericanhistory-org/ourjourneys340|ourjourneys340]], index) — no new material.
+- Corpus re-grep 2026-09-23 (slice 09221400-26): hits unchanged (own records #345/#181, [[works/taiwaneseamericanhistory-org/ourjourneys340|ourjourneys340]], index) — no new material.
 
 <!-- tah-tables:start -->
 ## Education

@@ -35,6 +35,8 @@ _No filled family fields on the TAH profile._
 
 ## From the record
 
+- 複核（TJJ-A09221300-11, 2026-09-23）：subject link 經本 slice 再驗證為真實對應，對應 From-the-record 條目已在庫（無錯鏈、無虛鏈）— SKIP，無新材料。
+
 - 再核（TJJ-A09220900-2, 2026-09-23）：本 slice 獨傲村夫〈反攻大陸（下）〉兩份TJJ存檔（dd1007a6 2017-12-20 snapshot／35d25fb4 2024-07-19 snapshot）正文再驗證——謝聰敏與彭明敏、魏廷朝共同發表1964-09-20自救宣言之連結為真，對應條目已在庫，無新材料。
 
 - 2023-09-24 — 「台灣人民自救宣言」59週年，彭明敏文教基金會與台大研究生協會、台大學生會舉辦彭明敏教授紀念研討會；台大研究生協會會長黃種賢評謝聰敏等人当年的主張仍是當代台灣社會需共同面對的課題（[[articles/taiwanjustice-net/2024/20240221121609_root_92ff3ef6b0b74b9c|TJJ/CNA, 2023-09-24]]）。

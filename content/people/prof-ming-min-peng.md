@@ -75,7 +75,7 @@ _No filled family fields on the TAH profile._
 
 ## From the record
 
-- 複核（TJJ-A09221200-3, 2026-09-23）：subject link 經本 slice 再驗證為真實對應，對應 From-the-record 條目已在庫（無錯鏈、無虛鏈）— SKIP，無新材料。
+- 複核（TJJ-A09221300-11, 2026-09-23）：subject link 經本 slice 再驗證為真實對應，對應 From-the-record 條目已在庫（無錯鏈、無虛鏈）— SKIP，無新材料。，對應 From-the-record 條目已在庫（無錯鏈、無虛鏈）— SKIP，無新材料。
 
 - 再核（TJJ-A09220900-2, 2026-09-23）：本 slice 獨傲村夫〈反攻大陸：蔣介石的美夢，美國人的噩夢（下）〉兩份TJJ存檔（dd1007a6 2017-12-20 snapshot／35d25fb4 2024-07-19 snapshot）正文再驗證——1964-09-20自救宣言、「台灣人的先知」評語之連結為真，對應條目已在庫，無新材料。
 

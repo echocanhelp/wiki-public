@@ -57,6 +57,8 @@ The corpus documents Lieu's standing within the Taiwanese American community in 
 
 ## From the record
 
+- 複核（TJJ-A09221300-11, 2026-09-23）：subject link 經本 slice 再驗證為真實對應，對應 From-the-record 條目已在庫（無錯鏈、無虛鏈）— SKIP，無新材料。
+
 - 再核（TJJ-A09221200-15, 2026-09-23）：本 slice 文章 097b5750fcf3091a（花蓮0403震災台館勸募報導）正文再驗證——劉雲平列名即時對台灣表達關懷的跨黨派聯邦眾議員之一，連結為真；2024-04-04 條目已在庫，無新材料。
 - 2016-06-15 — VOA 報導民主黨籍台裔眾議員劉雲平晉陞美空軍上校，收錄於台灣公義報「台美人台加人」分類（2024-02-21 存檔）—— [[articles/taiwanjustice-net/2024/20240221121052_root_c6f9dbff48b39366|TJJ 台美人台加人存檔頁]]。
 - 2024-04-04 — 0403花蓮地震後，台灣公義報報導劉雲平（Ted Lieu）與跨黨派逾10位聯邦參眾議員即時表達對台灣的關懷、傳達與台灣人同在並為災民祈禱（[[articles/taiwanjustice-net/2024/20240527024358_root_097b5750fcf3091a|TJJ, 2024-04-04]]）。

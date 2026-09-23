@@ -34,6 +34,7 @@ last_reviewed: 2026-09-22
 - **In the TAH musician archive, 07/2017.** She enters the community record through two TAH entries published 2017-07-24: a vocalist directory record as Rui-Lan Lo and a Who's Who profile — documenting a Philadelphia-area Taiwanese voice teacher trained via 呂泉生、翁綠萍, the Salzburg Mozarteum, and the Academy of Vocal Arts lineage ([[works/taiwaneseamericanhistory-org/musician417|TAH #417 vocal record]]) ([[works/taiwaneseamericanhistory-org/whoswho1771|TAH #1771 Who's Who]]).
 - No further memoir/corpus mentions found beyond these bibliographic records; press-kit biography held as-is pending community sources.
 - 2026-09-21 / 2026-09-22 / 2026-09-22 re-checks (incl. 羅瑞蘭, Rui-Lan Lo, R. L. Low): corpus grep unchanged — hits remain only her own TAH vocal record ([[works/taiwaneseamericanhistory-org/musician417|TAH #417]]), Who's Who profile ([[works/taiwaneseamericanhistory-org/whoswho1771|TAH #1771]]), and the works index; nothing new to absorb.
+- Corpus re-check 2026-09-23 (slice 09221400-26): hits unchanged — own TAH vocal record #417, Who's Who #1771, works index only. No memoir mentions; nothing new absorbable.
 
 ## Family
 

@@ -10,6 +10,7 @@ last_reviewed: 2026-09-23
 # Taiwanese Student Association at UC Santa Barbara
 
 <!-- deepen-x 09220600-1: re-verified 2026-09-22 — fresh grep returns only the two already-linked sponsor attestations (a-chat-with-documentary-filmmaker-anita-chang, night-market-event-at-uc-santa-barbara) + index; other TSA hits are different campuses (USC/OSU/UW/TSAPA). SKIP — corpus exhausted for this org. -->
+<!-- deepen-x 09221400-25: re-verified 2026-09-23 — fresh grep of content/works + content/articles for UCSB / Santa Barbara×Taiwanese matched only the two linked attestations, an unrelated taiwanjustice news article, and [[works/taiwaneseamericanhistory-org/ourjourneys352|Our Journeys #352]] which mentions UCSB only as the venue of the 2012 TAC-WC (organized by Ken Huang 黃根深 and Darice Lee 洪珠美, not by TSA) — nothing about this org to absorb. SKIP. -->
 
 ## Identity Snapshot
 - **English:** Taiwanese Student Association at UC Santa Barbara
