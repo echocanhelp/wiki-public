@@ -56,3 +56,4 @@ last_reviewed: 2026-09-23
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- 複核（deepen-x slice-09221500-4, 2026-09-23）：re-grep 命中集相同（ourjourneys112、#1167、Pew 聲明、TJJ WHA＋鄭寶鼎悼念文）— SKIP：已飽和，全部已 wikilink，無新材料。

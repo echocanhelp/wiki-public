@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # Chia Wei Lee (李佳蔚)
 
@@ -59,3 +59,4 @@ _No filled family fields on the TAH profile._
 - 複核（deepen-x slice-09201300-6, 2026-09-21）：re-grep 命中集不變（僅本人 TAH #527／#258 書目記錄＋index）— SKIP-with-reason：無可吸收之回憶錄/社群語料。
 - 複核（deepen-x slice-09211300-6, 2026-09-22）：re-grep 命中集不變（僅 #527、#258、index）— SKIP-with-reason：無可吸收之回憶錄/社群語料。
 - 複核（deepen-x slice-09220700-3, 2026-09-22）：re-grep 命中集不變（僅本人 TAH #527／#258 書目記錄＋index）— SKIP-with-reason：無可吸收之回憶錄/社群語料，無衝突需 HOLD。
+- 複核（deepen-x slice-09221500-4, 2026-09-23）：re-grep 命中集不變（僅本人 TAH #527／#258 書目記錄＋index）— SKIP-with-reason：無可吸收之回憶錄/社群語料，無衝突需 HOLD。
