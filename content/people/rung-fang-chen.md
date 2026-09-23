@@ -38,6 +38,8 @@ _No filled family fields on the TAH profile._
 - Predecessor's testimony in the federation history: the 2nd President 彭傳良 (Liang Chuan Peng) records that in fall 1978 no South Bay member would take the presidency, and that 陳榮芳「generously agreed」to become the 7th President; after his term nine more Presidents (張傳良、黃世明、黃清盛、簡義仁、何文亮、Andrew Lee、連日昌、陳明春、廖萬福) took the burden, and 16 of TAFNC's 30 Presidents came from the South Bay Taiwanese Association — per [[works/taiwaneseamericanhistory-org/ourjourneys38-eng|Our Journeys 38 (TAFNC, English)]].
 - Own TAH biographical record: [[works/taiwaneseamericanhistory-org/whos1098|1098. 陳榮芳 Rung-fang Chen]] (recorded 2016-06-21).
 
+Corpus re-check 2026-09-23 (deepen-x slice 09221200-31): fresh grep of works/ and articles/ — hit set unchanged (Our Journeys 38 EN, blacklist memoir #315, TAH #1098); all body-text facts already absorbed above. SKIP-deepen; nothing new absorbable.
+
 
 ## Sources
 - [TAH #1098 encyclopedia: 1098. 陳榮芳 Rung-fang Chen](https://taiwaneseamericanhistory.org/whos1098/)

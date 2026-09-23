@@ -37,7 +37,9 @@ Accomplishment
 - Interviewed among Taiwanese American / Asian American artists on stereotypes and racism for the 2009 Taiwanese American Foundation Summer Conference ([[works/taiwaneseamerican-org/apa-artists-on-overcoming-racism-stereotypes|APA Artists on Overcoming Racism & Stereotypes]]).
 - Father of Hudson Yang; father and son were profiled together during Hudson's childhood TV work in San Francisco ([[works/taiwaneseamerican-org/hudson-yang|Hudson Yang]]).
 - Held in the community record as one of the "godfathers" of Asian America: the Hudson Yang profile describes him as well-known within the Asian American community as the Wall Street Journal "Tao Jones" columnist ([[works/taiwaneseamerican-org/hudson-yang|Hudson Yang]]).
-- His own TAH Who's Who entry is held in the corpus as [[works/taiwaneseamericanhistory-org/whos-who-2266-jeff-yang|2266. Jeff Yang 楊致和]] (published 2020-05-04). Corpus re-check 2026-09-22 (deepen-x slice 09220400-17): all five work-page hits (own record, my-stories-694, michelle-young-the-art-spy, hudson-yang, apa-artists-on-overcoming-racism-stereotypes) are linked above and re-verified against the grep excerpts — no unabsorbed memoir detail remains. SKIP this pass.
+- His own TAH Who's Who entry is held in the corpus as [[works/taiwaneseamericanhistory-org/whos-who-2266-jeff-yang|2266. Jeff Yang 楊致和]] (published 2020-05-04).
+- 2025 — Still active in the Taiwanese American literary circle: gave a Zoom talk with cousin Michelle Young for the Harvard Asian American Alumni Alliance, and appears in her memoir's group photo of Taiwanese American writers/Harvard alumni at the AWP 2025 dinner ([[works/taiwaneseamerican-org/michelle-young-the-art-spy|Michelle Young — The Art Spy]]).
+- Corpus re-check 2026-09-23 (deepen-x slice 09221200-32): fresh 'Jeff Yang' / 楊致和 greps — hits remain the five linked work pages plus harvest index; the michelle-young memoir yielded the two 2025 details above, now absorbed. No unabsorbed material remains.
 
 ## Family
 
