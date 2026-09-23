@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # Tony Hsieh (謝家華)
 
@@ -53,4 +53,4 @@ last_reviewed: 2026-09-22
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
-- Corpus re-grep 2026-09-22 (slice 09212352-4): hit set fully linked, no new absorbable material.
+- Corpus re-grep 2026-09-23 (slice 09221000-4): fresh ZH+EN grep — hit set (whos261, ff288, my-stories-772, our-journeys-384, maggie-hsu-mochimag, works/index) fully linked above; verified-saturated, no new absorbable material.

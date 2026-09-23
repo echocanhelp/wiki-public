@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # Dr. Jong Huang (黃重德醫師)
 
@@ -38,6 +38,7 @@ Accomplishment
   - 同一講座另收錄於 [[articles/taiwanjustice-net/2021/20211023213419_2020_01_31_大洛杉磯台灣會館健康講座-natma邀請黃重德醫師2-2主講_2215cc69fdfbdca4|tw justice 網 2021 存檔]]；兩檔日期標註不一（2021-10-23 存檔 vs 2025-06-15），主講內容一致。
 - Corpus re-grep 2026-09-19 (slice 09180400-4); re-confirmed 2026-09-20 (slice 09191100-2) and 2026-09-21 (slice 09210051-2): hit set unchanged — own #2240 biblio entry, works index, MANIFEST.jsonl, and the already-linked TJJ lecture/tag article archives; no memoir narrative beyond them, nothing new to absorb.
 - Corpus re-grep 2026-09-22 (slice 09212352-9): SKIP — hit set again unchanged (own #2240, works index, MANIFEST.jsonl, the two TJJ tag archives + lecture archive); nothing new to absorb.
+- Corpus re-grep 2026-09-23 (slice 09221000-9): SKIP — hit set unchanged (own #2240, works index, MANIFEST.jsonl, TJJ lecture + two tag archives, all already linked); no memoir narrative beyond them, nothing new to absorb.
 
 ## Family
 
