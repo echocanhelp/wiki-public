@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # M. C. Cheng Lee (李鄭美昭)
 
@@ -48,3 +48,4 @@ last_reviewed: 2026-09-22
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- Corpus re-grep 2026-09-23 (deepen-x slice-9): identical hit set (whoswho937 record + Ju-Cheng Lee #1916 disambiguation); no absorbable memoir text, HOLD confirmed saturated.

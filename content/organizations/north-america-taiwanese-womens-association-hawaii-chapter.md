@@ -27,6 +27,7 @@ North America Taiwanese Women's Association – Hawaii Chapter is a local chapte
 Parent organization: [[organizations/north-america-taiwanese-womens-association|North America Taiwanese Women's Association]].
 
 SKIP note (slice 09220700-9, 2026-09-22): fresh grep of content/works + content/articles surfaced no new Hawaii-chapter material — hits were the chapter's own record, an unrelated 慈濟夏威夷分會 record, a Kansas-chapter mention, and generic NATWA work tags. Saturated.
+Re-verified SKIP (slice 09221500-7, 2026-09-23): fresh grep 夏威夷|Hawaii again returned only the saturated set (TPC Hawaii, 慈濟太平洋島區, Honolulu Festival, mystories193, ourjourneys156, art-culture-org-38) — zero NATWA mentions in the new hit set. No absorbable chapter-level facts.
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/north-america-taiwanese-womens-association-hawaii-chapter/)

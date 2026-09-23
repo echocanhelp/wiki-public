@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # North America Taiwanese Women’s Association – Oregon/Southwest Washington Chapter (北美洲台灣婦女會俄勒岡)
 

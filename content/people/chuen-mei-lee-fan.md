@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # Chuen-Mei Lee Fan (范李春美教授)
 
@@ -47,3 +47,4 @@ last_reviewed: 2026-09-22
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- Re-verified 2026-09-23 (deepen-x slice-9): fresh grep (范李春美 / 李春美 / Chuen-Mei Lee Fan) across works+articles returns only profile #738, memoir #369 (both absorbed), and the works index; page saturated, HOLD (范良信 vs 殷宗舜) stands.

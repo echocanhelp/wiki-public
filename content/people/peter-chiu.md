@@ -39,6 +39,7 @@ last_reviewed: 2026-09-23
 
 ## From the record
 
+- 複核（TJJ-A09221400-7, 2026-09-23）：王廷宜追思會稿（c83c2315）subject link（連絡人邱勝宗）經原文正文再驗證為真實對應，2022-06-25 條目已在庫；該稿 Subjects 之 people/*.md 后缀坏链已修 — SKIP，無新材料。
 - 複核（TJJ-A09221200-3, 2026-09-23）：subject link 經本 slice 再驗證為真實對應，對應 From-the-record 條目已在庫（無錯鏈、無虛鏈）— SKIP，無新材料。
 
 - Re-verify 2026-09-22 (TJJ-A09220700-9): subject-link check against slice article bb7f9d54ae93bbef（園藝分類頁）—「Sadako與Peter Chiu(邱勝宗夫婦)講EM酵素」及「探訪邱勝宗和邱貞夫婦的百草園」確認見於正文，連結為真（Subjects .md 後綴連結已修正）；無新材料。
