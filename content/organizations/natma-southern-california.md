@@ -32,6 +32,8 @@ last_reviewed: 2026-09-23
 - 2025-06-18: NATMA-SCC and WHO Committee issued a three-point statement of full support for Taiwan For WHO during the pandemic — arguing Taiwan must not be excluded from WHO and that NATMA's founding mission, like WHO's, is Health For All regardless of politics: [[articles/taiwanjustice-net/2025/20250618180803_natma-scc-and-who-committee-全力支持taiwan-for-who的三點聲明及呼籲_0d62c671f819ee47|TJJ 2025-06-18 三點聲明及呼籲]]; ongoing TJJ coverage is archived under the tag page [[articles/taiwanjustice-net/2025/20251010065053_tag_natma-南加州分會_c289b7415d1ae041|Tag: NATMA 南加州分會]]
 - A republished Southern California community event calendar lists the chapter's 2016-09-10 annual meeting at Pacific Palms Resort alongside 台灣會馆 events — evidence of the chapter's place in the regular SoCal community calendar: [[articles/taiwanjustice-net/2024/20240721101942_root_04f32b14d8cf8f12|TJJ archive — 南加州活動日曆]]
 
+- 2021/02 — 北美洲台灣人醫師協會南加州分會 is listed among the 友情宣傳 community supporters of the 台灣人聯合基金會 / 台灣優社 228 事件線上追思紀念會 series, alongside 洛杉磯聖東台灣同鄉會 and other SoCal groups ([[articles/taiwanjustice-net/2026/20260210173508_2021大洛杉磯台灣會館228事件線上追思紀念會與系列活_ac0c255ef64908a5|TJJ 2021-02-24 紀念會系列活動]])
+
 ## Source Notes
 
 - **Content priority A:** Name on Taiwan Center group-members page  

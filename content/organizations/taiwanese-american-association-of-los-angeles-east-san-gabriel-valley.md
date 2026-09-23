@@ -38,6 +38,8 @@ The 聖東 (East San Gabriel Valley) chapter appears repeatedly in the TAH corpu
 - Membership footprint: TAHS co-founder 鄭炳全's 旅美五十周年 memoir lists 聖東同鄉會 among the 同鄉會 he joined after moving to LA, buying tickets or attending when they held large events ([[articles/taiwanjustice-net/2025/20250209211009_旅美五十周年-_-鄭炳全_438dc69b91722b16|TJJ memoir, 鄭炳全 / 旅美五十周年]])
 - 2022–2023 activity in archived community press: 園藝分享會 gardening-sharing events (3/12/2022, 3/29/2022 video coverage) and a 蔬果秋收嘉年華會 the chapter hosted 9/9/2023 ([[articles/taiwanjustice-net/2025/20250213034129_tag_洛杉磯聖東台灣同鄉會園藝分享會_cb46de1270c8fe1a|TJJ tag, 洛杉磯聖東台灣同鄉會園藝分享會]]); a related headline records a 大罷免 (recall) petition station the chapter initiated in LA
 
+- 2021/02 — 洛杉磯聖東台灣同鄉會 is listed among the 友情宣傳 community supporters (alongside 台權會南加會, NATWA 南加分會, NATMA 南加州分會, 台灣會館台灣學校) of the 台灣人聯合基金會 / 台灣優社 228 事件線上追思紀念會 series ([[articles/taiwanjustice-net/2026/20260210173508_2021大洛杉磯台灣會館228事件線上追思紀念會與系列活_ac0c255ef64908a5|TJJ 2021-02-24 紀念會系列活動]]) — another showing of the chapter's standing in the SoCal movement coalition
+
 HOLD: this page (listed via Taiwan Center as 大洛杉磯聖東台灣同鄉會) and [[organizations/taiwanese-american-association-east-san-gabriel-valley|Taiwanese American Association East San Gabriel Valley]] appear to describe the same chapter under variant names; held separate pending owner confirmation.
 
 ## Related Pages
