@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # Lian Huo Wu (吳連火)
 
@@ -49,3 +49,4 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- Corpus check 2026-09-23 (deepen-x slice 09221300-25): re-grep (吳連火 / Lian Huo Wu) unchanged — all six corpus records (mystories19, the-first-taiwanese-american-stock-broker, whos-who-2039, 647, 50, publications1208) are already absorbed above. Verified saturated; no new facts.

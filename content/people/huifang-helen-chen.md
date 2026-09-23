@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # Huifang Helen Chen
 
@@ -45,3 +45,4 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- Corpus check 2026-09-23 (deepen-x slice 09221300-25): re-grep (Huifang/Huifan Helen Chen) unchanged — only the two TA.org records already absorbed (184, 381) plus works/index. Verified saturated; HOLD on Huifang-vs-Huifan romanization dedup still pending owner input.

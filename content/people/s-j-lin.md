@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # S. J. Lin (林宣繼)
 
@@ -56,3 +56,4 @@ last_reviewed: 2026-09-22
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- Corpus check 2026-09-23 (deepen-x slice 09221300-25): re-grep (林宣繼 / S. J. Lin) unchanged — hits are exactly the works already absorbed above (our-journeys-378, ourjourneys47, mystories471, whoswho2112). Verified saturated; no new facts, HOLD on 憶吾妻 wife-identity stands.
