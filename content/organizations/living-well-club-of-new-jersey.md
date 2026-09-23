@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # Living Well Club of New Jersey (紐澤西州)
 
@@ -25,6 +25,8 @@ The Living Well Club of New Jersey is a Taiwanese American senior social organiz
 - Public cultural performance: the club presented the bilingual art-song recital "Summer Garden of Songs in German, French, English and Taiwanese 歌謠藝園" at Somerset, NJ on 2018-08-01 ([[works/taiwaneseamericanhistory-org/concerts135|concerts135]]), documenting active arts programming beyond the social-club profile.
 
 - Re-verified 2026-09-21 and again 2026-09-22 (slice 09211400-22): corpus re-grep (生活充實俱樂部 / Living Well Club) returns only the work records already linked in this section (works 1, 3, newsletter, concerts135, ourjourneys356 + -eng) — no new memoir, letter, or event mention of the club. SKIP: verified-saturated.
+- Photo-album activity record: [[works/taiwaneseamericanhistory-org/photo-albums-activities-76|76. New Jersey Living Well Club 紐澤西生活充實俱樂部 (2015-05-07)]] (bibliographic record; full text in vault).
+- Pandemic-era remote program (2021 memoir by 楊遠薰): from ~July 2021 the club (abbrev. LWC) moved its weekly Wednesday program online; president 林茂清博士 invited 楊遠薰 to present on 《提倡台美文化》, and the weekly shows were hosted by anesthesiologist 彭昕醫師, who recorded each session, edited it into a YouTube video, and emailed the link to members and speakers weekly without complaint. 楊遠薰 gave five lectures for the club over that year. 彭昕 returned to Taipei in Oct 2021 and died shortly after (memorial article 2021-09-23). No wiki page yet for 林茂清 (LWC president) or 彭昕. Sources: [[articles/taiwanjustice-net/2021/20211020131319_2021_09_23_懷念彭昕醫師-_-楊遠薰_6763e8f4ad9bcb7c|懷念彭昕醫師 — 楊遠薰 (TWJI 2021)]] (duplicate copy: [[articles/taiwanjustice-net/2025/20250323073306_懷念彭昕醫師-_-楊遠薰_80e2a87a17215263|2025 repost]]).
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/living-well-club-of-new-jersey/)
