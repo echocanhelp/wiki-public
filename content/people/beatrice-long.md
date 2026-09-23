@@ -42,8 +42,6 @@ Beatrice Long 隆信真 is a top prize winner in several international competiti
 - **Mother:** 卓靜純
 
 
-- 2026-09-23 (slice 09221300-4) 語料再grep（隆信真／Beatrice Long）：命中仍僅書目紀錄 TAH #1774、#420 與 works index；無回憶錄敘述可吸收；隆愛真姊妹案維持 HOLD。Verified-saturated SKIP.
-
 ## Sources
 - [TAH #1774 encyclopedia: 1774. Beatrice Long 隆信真](https://taiwaneseamericanhistory.org/whos-who-1774-beatrice-long/)
 - [TAH #420 encyclopedia: 420. Beatrice Long 隆信真, pianist / 07/2017](https://taiwaneseamericanhistory.org/musician420/)
