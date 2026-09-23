@@ -52,3 +52,4 @@ _No filled family fields on the TAH profile._
 
 - Re-check 2026-09-21 (slice 09210317-23): identical result — fresh grep returns only the [[works/taiwaneseamericanhistory-org/whos-who-1692-priscilla-peilan-chiu|TAH #1692]] record plus index adjacency. SKIP persists.
 - Re-check 2026-09-22 (slice 09220600-8): identical result — fresh grep returns only the [[works/taiwaneseamericanhistory-org/whos-who-1692-priscilla-peilan-chiu|TAH #1692]] record plus index adjacency. SKIP persists.
+- Re-check 2026-09-23 (slice 09221400-14): identical result — fresh grep returns only the [[works/taiwaneseamericanhistory-org/whos-who-1692-priscilla-peilan-chiu|TAH #1692]] record plus index adjacency. SKIP persists.

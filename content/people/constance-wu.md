@@ -58,3 +58,4 @@ Corpus material is bibliographic only (full text stays in the vault); no communi
 ## Corpus check (2026-09-22)
 - No new absorbable facts: fresh grep of works/ and articles/ returned only the TAH/index records already wikilinked above; no memoir or article mentions beyond them.
 - Slice 09220500-25 re-verify: fresh grep returned only OTA #240, Who's Who #2183, and index rows — verified-saturated, SKIP-deepen.
+- Slice 09221400-14 re-verify: fresh grep returned only OTA #240, Who's Who #2183, and index rows — verified-saturated, SKIP-deepen.

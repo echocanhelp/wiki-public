@@ -43,6 +43,10 @@ _No filled family fields on the TAH profile._
 
 ## Sources
 - [TAH #722 encyclopedia: 722. Shitien Yang 楊錫鈿/ 2015/12](https://taiwaneseamericanhistory.org/722-shitien-yang-%e6%a5%8a%e9%8c%ab%e9%88%bf-201512/)
+
+## Corpus review (slice 09221400-14)
+
+- Re-check 2026-09-23: fresh grep returns only the [[works/taiwaneseamericanhistory-org/722-shitien-yang-e6-a5-8a-e9-8c-ab-e9-88-bf-201512|TAH #722]] record and [[works/taiwaneseamericanhistory-org/ourjourneys167|167. 咱的鄉土，咱的歌]] — both already absorbed in Role in the Community above. Verified saturated, SKIP-deepen.
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/shitien-yang/)
 
 ## Related Pages
