@@ -6,7 +6,7 @@ tags:
   - Taiwanese-American
   - Taiwan-Center-group-member
 verification_status: published
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # North America Taiwanese Women's Assoc. Southern CA Chapter NATWA-SC
 
@@ -26,6 +26,7 @@ last_reviewed: 2026-09-22
 - 2013 — the chapter co-hosted "Taiwanese American Women Standing Up: A Community Service Event" with NATWA II in Southern California, featuring a keynote from the Asian Pacific Women's Center on domestic violence in the API community and NATWA II's Deana Chuang on prosecuting DV crimes ([[works/taiwaneseamerican-org/community-service-event-with-natwa-ii-in-socal|Community Service Event with NATWA II in SoCal]]).
 - 2021-05 — "Teresa Huang, NATWA-SC (North American Taiwanese Women's Association – Southern California Chapter)" is listed among the signatories of the Taiwanese American community response to Pew Research Center reports subsuming Taiwanese identity under "Chinese" ([[works/taiwaneseamerican-org/pew-research-center-taiwanese-american-statement|Response to Pew Research Reports Hiding Taiwanese Identity]]).
 - HOLD: the 2017 Hurricane Harvey relief donation of $21,090 in [[works/taiwaneseamericanhistory-org/ourjourneys328|ourjourneys328]] is credited to the national NATWA, not the SC chapter.
+- _Corpus re-scan 2026-09-23: fresh grep of works/articles for NATWA returns, besides the chapter/national records already absorbed above, further sibling-chapter and national records — a NATWA-NJ concert record ([[works/taiwaneseamericanhistory-org/concerts118|118. 「與莫札特有緣」音樂會 by NATWA-NJ, 2006-02-19]]) and the St. Louis chapter record ([[works/taiwaneseamericanhistory-org/natwa-st-louis-chapter|15. St. Louis Chapter / NATWA 北美洲台灣婦女會聖路易分會]]) — none carrying SC-chapter-specific facts. Verified saturated for this chapter._
 
 ## Source Notes
 

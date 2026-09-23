@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # Ann Arbor Taiwanese Association (安雅堡)
 
@@ -24,7 +24,7 @@ The Ann Arbor Taiwanese Association (AATA) is a community organization serving T
 - The community's democratic-movement organizing in Ann Arbor is also memorialized in [[works/taiwaneseamericanhistory-org/ann-arbor-democratic|安雅堡台灣民主運動基金會]] and the chapter's own bulletin [[works/taiwaneseamericanhistory-org/news-ann-arbor|安雅堡台灣同鄉會快訊]].
 - 1979 — two Michigan Taiwanese, I-hsiung Lin and Bernie Huang, wired funds to political prisoner Shih Ming-teh (施明德) at First Bank in Taipei **under the name of the Ann Arbor Taiwanese Association**; the transfer receipt is kept in the Chen Wen-chen database, and the Kuo Yu-hsin–published Taiwan Democracy Newsletter reported that the KMT interfered with Shih because of the sum (per memoir [[works/taiwaneseamericanhistory-org/ourjourneys321-eng|Our Journeys 321 (EN)]]). An early instance of the chapter's name being used for political solidarity action.
 - 2016-11-20 — the adjacent Ann Arbor Taiwanese Church marked its 40th anniversary ([[works/taiwaneseamericanhistory-org/important2016-30|30. 40th Anniversary of Ann Arbor Taiwanese Church on 11/20/2016.]]), indicating a 1976 founding; church and 同鄉會 formed overlapping pillars of Ann Arbor community life (church record page: [[works/taiwaneseamericanhistory-org/ann-arbor-taiwanese-church|Ann Arbor Taiwanese Church]]).
-- _Corpus re-scan 2026-09-22: fresh grep of works/articles for AATA/安雅堡 returns the same hits (ann-arbor-democratic, ourjourneys321 & -eng, ourjourneys8, news-ann-arbor, ann-arbor-taiwanese-church); all absorbed above — verified saturated, no new community facts._
+- _Corpus re-scan 2026-09-23: fresh grep of works/articles for AATA/安雅堡/Ann Arbor Taiwanese returns the same hits (ann-arbor-democratic, ourjourneys321 & -eng, ourjourneys8, news-ann-arbor, important2016-30, ann-arbor-taiwanese-church); all absorbed above — verified saturated, no new community facts._
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/ann-arbor-taiwanese-association/)

@@ -55,7 +55,8 @@ HOLD: conflict — spouse page linked as 江美惠 vs corpus work page listing �
 
 - TAF（台美協進會）：第六任會長（1991年接任），因1989年評鑑指出TAF的關鍵在第二代接班，他是第一位把林志文（Bob Lin）等新一代帶進夏令營事工的會長（詳見 From the record 楊遠薰TAF史兩篇報導）。
 - 台美協進會會史紀錄：TAF早期夏令營，盧志華與妻美惠（Mei Lu）曾與卓甫良Bill & Carol Cho等新秀一道合影，名列新進campers（[[works/taiwaneseamericanhistory-org/ourjourneys33-eng|Our Journeys #33〈台美協進會的歷史〉]]；自傳頁 [[works/taiwaneseamericanhistory-org/whoswho1077|TAH #1077, 2016/6]]）。
-- 楊遠薰《卓甫良與TAF的故事》多年持續轉載（TJJ 2024-03-02、2025-03-23），持續記錄他1991年接任第六任會長後啟用林志文（Bob Lin）等第二代、以義工媽媽支撐夏令營的會史（[[articles/taiwanjustice-net/2024/20240302042859_root_b4206bcf0ec508d6|TJJ 2024-03-02]]、[[articles/taiwanjustice-net/2025/20250323083207_卓甫良與taf的故事-_-楊遠薰_e7aad53f3e593fde|TJJ 2025-03-23]]）。
+- 楊遠薰《卓甫良與TAF的故事》多年持續轉載（TJJ 2024-03-02、2025-03-23、2021-06-22），持續記錄他1991年接任第六任會長後啟用林志文（Bob Lin）等第二代、以義工媽媽支撐夏令營的會史（[[articles/taiwanjustice-net/2024/20240302042859_root_b4206bcf0ec508d6|TJJ 2024-03-02]]、[[articles/taiwanjustice-net/2025/20250323083207_卓甫良與taf的故事-_-楊遠薰_e7aad53f3e593fde|TJJ 2025-03-23]]、[[articles/taiwanjustice-net/2021/20211205041636_2021_06_22_卓甫良與taf的故事-_-楊遠薰_f06677a469620539|TJJ 2021-06-22]]）。
+- _Corpus re-scan 2026-09-23: fresh grep of works/articles for 盧志華/Matthias returns the already-absorbed hits (TAH #1077, Our Journeys #33 EN, 楊遠薰 TAF history ×3); one false-positive name match — 「馬蒂亞斯·瓦爾尼希 Matthias Warnig」, the Russian Nord Stream 2 executive in unrelated Biden–Putin coverage ([[articles/taiwanjustice-net/2025/20251108032739_拜登普京峰會_美國能否將俄羅斯從中國身邊剝離_11d5a6116904d94d|TJJ 2025-11]]) — not this person. Verified saturated._
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
