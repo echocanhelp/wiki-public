@@ -53,3 +53,4 @@ last_reviewed: 2026-09-23
 
 ## Network
 - [[organizations/presbyterian-church-in-taiwan||PCT]] — TAH Who’s Who
+<!-- deepen-x slice 09221500-11 re-grep 2026-09-23: fresh grep returns only TAH #350/#508 + index — verified saturated, SKIP content-deepen. -->

@@ -37,3 +37,4 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+<!-- deepen-x slice 09221500-11 re-grep 2026-09-23: fresh ZH+EN grep returns only already-cited records (ourjourneys311/-eng, our-journeys-391, #28 profile); memoir speaker list unchanged — verified saturated, SKIP new content. -->
