@@ -43,6 +43,7 @@ last_reviewed: 2026-09-23
 
 ## Corpus check (2026-09-22)
 - Idempotent re-verify: fresh grep — corpus hits remain the two encyclopedia records (#70/#71) and recital CD record #532 already linked above; no new absorbable facts.
+- 2026-09-23 deepen-x slice 09221400-28: SKIP (re-verified) — fresh grep again returns only #70/#71/#532 + the works index; SKIP stands; Era 1974 still unconfirmed (HOLD).
 
 ## Sources
 - [TAH #69 encyclopedia: 69. Amber Liao 廖幼萱](https://taiwaneseamericanhistory.org/70-amber-liao-%e5%bb%96%e5%b9%bc%e8%90%b1/)
