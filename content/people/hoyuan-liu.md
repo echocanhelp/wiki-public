@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # Hoyuan Liu (劉和元)
 
@@ -51,3 +51,5 @@ last_reviewed: 2026-09-22
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+Corpus re-check (deepen-x 09221500-27, 2026-09-23): fresh grep of works/ + articles/ returns only own TAH records, the already-absorbed mention, or the works index — verified-saturated, nothing new absorbable.
