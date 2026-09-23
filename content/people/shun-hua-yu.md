@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # Shun Hua Yu (余舜華)
 
@@ -36,6 +36,7 @@ _No filled family fields on the TAH profile._
 - **黑名單**：列於中華民國黑名單（北加州台美人政治活動受拒簽者名單）— [[works/taiwaneseamericanhistory-org/ourjourneys106|106. 中華民國的黑名單/2015/02]]。
 - TAH Who's Who 紀錄: [[works/taiwaneseamericanhistory-org/whoswho1066|1067. Shun Hua Yu 余舜華 / 2016/06]].
 - Education per TAH profile: 台大農化系 1959 B.S. — consistent with Federation-president era; no conflict.
+- Corpus re-grep 2026-09-23 (slice 09221400-15): fresh grep returns only the already-cited memoirs — 三十年回顧（921賑災16萬、2000大選募款60萬）、會館誕生（选址幫忙）、黑名單（北加州拒簽名單）、自身紀錄 #1067, plus index rows. All absorbable facts already on this page. Verified-saturated; SKIP-deepen.
 
 ## Sources
 - [TAH #1067 encyclopedia: 1067. Shun Hua Yu 余舜華 / 2016/06](https://taiwaneseamericanhistory.org/whoswho1066/)

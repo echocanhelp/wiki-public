@@ -40,6 +40,7 @@ _No filled family fields on the TAH profile._
 - 再查 slice 09191100-18（2026-09-21）：語料重 grep 僅再現自身書目條目，無新增社群敘事可吸收。
 - 再查 slice 09210317-22（2026-09-21）：語料僅 whos958 書目、33 專訪、index、及已收錄的台大校友連署公開信，無新增社群敘事可吸收。
 - 再查 slice 09220600-11（2026-09-22）：語料重 grep 結果不變（whos958、33 專訪、index、台大校友連署公開信已收錄），無新增社群敘事可吸收。
+- 再查 slice 09221400-19（2026-09-23）：語料重 grep 僅 whos958 自身書目與 works index，無新增社群敘事可吸收。
 
 ## Sources
 - [TAH #958 encyclopedia: 958. Chin-Cha Cheng 鄭錦家 /2016/04](https://taiwaneseamericanhistory.org/whos958-chin-cha-cheng/)

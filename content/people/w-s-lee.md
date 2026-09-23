@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # W. S. Lee (李武雄)
 
@@ -36,6 +36,7 @@ last_reviewed: 2026-09-22
 - The memoir further records that the Philadelphia 和平契友 circle he belonged to hosted a 1970 Christmas 冬令會 at the Poconos, PA (~50 attendees incl. 17 children, per contemporary photos) before the 夏令會 became the annual tradition — [[works/taiwaneseamericanhistory-org/ourjourneys268|Our Journeys 268]].
 - HOLD: memoir says 李武雄夫人梁光惠; tah-tables list no family fields — leave unreconciled until a TAH family block confirms.
 - Corpus re-grep 2026-09-22 (slice 09220600-20): hits unchanged (own record [[works/taiwaneseamericanhistory-org/whoswh1878|TAH #1878]], 1970夏令會回憶 [[works/taiwaneseamericanhistory-org/ourjourneys268|ourjourneys268]], index); memoir facts above already absorbed — no new material; HOLD retained.
+- Corpus re-grep 2026-09-23 (slice 09221400-15): fresh grep returns only [[works/taiwaneseamericanhistory-org/whoswh1878|#1878]], [[works/taiwaneseamericanhistory-org/ourjourneys268|ourjourneys268]], and index rows; the memoir passages (和平契友 circle, 《Herein Is Love》 testimony, 1972特務事件, 第三屆合影, Poconos冬令會) are all already absorbed above. Verified-saturated; SKIP-deepen, HOLD retained.
 
 ## Family
 
