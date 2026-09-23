@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # Hong-Chih Kuo (郭泓志)
 
@@ -35,7 +35,7 @@ Accomplishment
 - **Community rallying figure in the LA Taiwanese American community** — the Taiwanese American community organized an outing to support him at the Dodgers vs. Reds game in LA (2011-06-14), an example of the diaspora turning a homegrown ballplayer's MLB career into a community gathering: [[works/taiwaneseamerican-org/support-hong-chih-kuo-at-dodgers-vs-reds-game-in-la|Support Hong-Chih Kuo at Dodgers vs. Reds Game in LA]].
 - **Own TAH encyclopedia entry** — 1743. Hong-Chih Kuo 郭泓志: [[works/taiwaneseamericanhistory-org/whos-who-1743-hong-chih-kuo|TAH #1743]].
 
-Corpus re-grep 2026-09-21 (slice 09210051-10; prior 09202214 series, 09191100-10): greps for 郭泓志 / Hong-Chih Kuo across content/works + content/articles return only his own TAH entry [[works/taiwaneseamericanhistory-org/whos-who-1743-hong-chih-kuo|TAH #1743]], the LA support-game record [[works/taiwaneseamerican-org/support-hong-chih-kuo-at-dodgers-vs-reds-game-in-la|already linked above]], and the harvest index — no new community facts beyond the existing Role in the Community section. No conflicts to hold. Re-grep 2026-09-22 (slice 09220600-12): same three files, verified saturated.
+Corpus re-grep 2026-09-21 (slice 09210051-10; prior 09202214 series, 09191100-10): greps for 郭泓志 / Hong-Chih Kuo across content/works + content/articles return only his own TAH entry [[works/taiwaneseamericanhistory-org/whos-who-1743-hong-chih-kuo|TAH #1743]], the LA support-game record [[works/taiwaneseamerican-org/support-hong-chih-kuo-at-dodgers-vs-reds-game-in-la|already linked above]], and the harvest index — no new community facts beyond the existing Role in the Community section. No conflicts to hold. Re-grep 2026-09-22 (slice 09220600-12) and 2026-09-23 (slice 09221400-29): same three files, verified saturated.
 
 ## Family
 
