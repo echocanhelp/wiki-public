@@ -30,3 +30,4 @@ HOLD: name-collision — "TASA" in the TAH story corpus denotes the **Taiwanese 
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 <!-- deepen-x 09220500-16: verified-saturated re-verify — fresh grep (TASA / Taiwanese American Student Association) returns only ITASA-cluster records (ourjourneys173/157-eng, history-of-itasa, 578 ITASA 1998-1999, newsletter-itasa) and OFTaiwan/collegiate-generic pages already noted in the HOLD above; still no Vanderbilt-chapter record. SKIP-deepen maintained. -->
+<!-- deepen-x 09221300-10: re-verify — fresh grep again returns only ITASA-cluster records already noted. Corpus-wide 'Vanderbilt' mentions are unrelated (a Houston teacher bio in ourjourneys298; Miss Louisiana Justine Ker in justineker). Still no Vanderbilt TASA-chapter record. SKIP-deepen maintained. -->
