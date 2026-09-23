@@ -6,7 +6,7 @@ name_zh: "黃光彩博士"
 tags:
   - person
   - tah-whos-who
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-23
 verification_status: pending
 ---
 # Dr. G. C. Huang (黃光彩博士)

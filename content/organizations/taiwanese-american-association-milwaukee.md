@@ -33,3 +33,4 @@ The Taiwanese American Association Milwaukee (TAAM, 密爾瓦基台灣同鄉會)
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 > SKIP-note (deepen-x slice 09211400-31, 2026-09-22): corpus re-grep ZH+EN — hits are the chapter's own bibliographic record and the already-disambiguated TAAMN (Minnesota) records plus the works index; no Milwaukee chapter activity, nothing new absorbable. Verified saturated.
+> Re-verify 2026-09-23 (slice 09220900-24): fresh ZH+EN re-grep — apparent extra hits (ourjourneys123, ourjourneys271, photo-albums-activities-52) matched only the TAAM substring inside TAAMN (Minnesota); no Milwaukee-text anywhere in those files. SKIP: verified saturated.

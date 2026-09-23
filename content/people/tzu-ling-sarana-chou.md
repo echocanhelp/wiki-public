@@ -40,6 +40,8 @@ Corpus memoirs place Chou inside the Rochester Taiwanese community during her Ea
 
 HOLD: corpus program (2014) says she was still 攻讀博士學位 at Eastman in 2014, while the TAH table dates the Eastman Ph.D. to 2009 — conflict noted, not merged.
 
+Fresh ZH+EN corpus re-grep 2026-09-23 (slice 09220900-24): the sole hit is the 羅徹斯特同鄉會愛鄉合唱團 program already absorbed above — no further Rochester/Eastman memoir mentions. Verified saturated.
+
 ## Sources
 - [TAH #443 encyclopedia: 443. Tzu-Ling Sarana Chou 周子鈴  / 2015/06](https://taiwaneseamericanhistory.org/443-tzu-ling-sarana-chou-%e5%91%a8%e5%ad%90%e9%88%b4-201506/)
 - [TAH #10 encyclopedia: 10. Tzu-Ling Sarana Chou 周子鈴, Composer/2014/10](https://taiwaneseamericanhistory.org/10-tzu-ling-sarana-chou-%e5%91%a8%e5%ad%90%e9%88%b4-composer/)
