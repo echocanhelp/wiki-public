@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # Philip S. Chen (陳伸夫)
 
@@ -45,3 +45,6 @@ last_reviewed: 2026-09-22
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+
+2026-09-23 re-grep (deepen-x 09221200-16): fresh ZH+EN corpus grep returned only the records already linked on this page — verified saturated, nothing new absorbable, no conflicts.

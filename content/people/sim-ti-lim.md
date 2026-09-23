@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # Sim Ti Lim (林心智博士)
 
@@ -40,6 +40,8 @@ _No filled family fields on the TAH profile._
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/sim-ti-lim/)
 - Corpus record: [[works/taiwaneseamericanhistory-org/whos-sim-ti-lim|587. Sim Ti Lim 林心智 /2015/09]]
+
+2026-09-23 corpus sweep (slice 09221200-14): grep (林心智 / Sim Ti Lim) again returned only records already linked above (587, 1305/1306/1307, 62, ourjourneys76, ourjourneys66); no new facts.
 
 2026-09-22 corpus sweep (slice 09220400-4): grep (林心智 / Sim Ti Lim) returned only records already linked above (587, 1305/1306/1307, 62, ourjourneys76, ourjourneys66); no new facts.
 

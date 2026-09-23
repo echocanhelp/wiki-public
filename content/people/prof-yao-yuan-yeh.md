@@ -39,6 +39,7 @@ _No filled family fields on the TAH profile._
 - Quoted challenging Taiwan's own debate: "中國想併吞台灣，美國想犧牲台灣？我只看到台灣一堆人想犧牲台灣的主權與民主" — [[articles/taiwanjustice-net/2023/20230508175256_2023_03_23_活在上個世紀的_學者們_習氏中國軍國法西斯_bd35caf1509726d7|TAJPNet 2023-05]]
 - Also a recurring commentator on domestic Taiwanese politics in the community press: offered a two-reading critique of 柯文哲's "我從頭到尾沒有變" claim (柯說謊 vs 柯展現真面目), calling 柯文哲 the "始作俑者" of 「大柯學家」 — [[articles/taiwanjustice-net/2025/20250808013926_陳時中_不怒而威_vs-柯文哲_怒而不威_-陳昭_9b8b485751e7afa9|TAJPNet 2025-08]]
 - Corpus re-grep 2026-09-22: hits limited to the TAJPNet opinion/interview reprints above plus the corpus index; no memoir material on this person; no date/age conflicts to hold.
+- Corpus re-grep 2026-09-23 (slice 09221200-10): re-verified saturated — same hits (#2145 own record + the four TAJPNet reprints already wikilinked above); no new community facts to absorb, no conflicts to hold.
 
 ## Sources
 - [TAH #2145 encyclopedia: 2145. Prof. Yao-Yuan Yeh 葉耀元教授](https://taiwaneseamericanhistory.org/whos-who-2145-yao-yuan-yeh/)

@@ -28,6 +28,7 @@ The foundation carries the name of composer **Chuang-Shien Lu 呂泉生**, one o
 - The Taiwan Center's own Taiwan School (台灣學校) classical-music appreciation class taught his most famous song 《杯底不可飼金魚》 together with its 228-era context; instructor Dr. Sze-ya Yeh 葉思雅 had studied piano under 呂泉生 herself (`articles/taiwanjustice-net/2023/20230129123134_…古典音樂欣賞…_a244776e9eb57979.md`, 2016-06).
 
 2026-09-22 re-check: corpus re-grep (Kee-Jen / 呂泉生文教基金會) returned zero hits in content/works + content/articles; the absorbable material is the 呂泉生-person material already cited above. No new facts; no conflicts.
+2026-09-23 re-check (slice 09221200-10): corpus re-grep (Kee-Jen / Kee Jen / 呂泉生文教) again zero hits in content/works + content/articles — verified saturated; page retains the 呂泉生-person material above.
 
 HOLD: the English name "Kee-Jen" vs. the romanization "Chien" in the pinyin-style "Chuang-Shien" of 呂泉生's name ( Wade-Giles vs. other romanization of 泉生 ) — no auto-merge of spelling; recorded as both appear.
 
