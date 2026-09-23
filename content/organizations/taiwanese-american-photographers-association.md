@@ -6,7 +6,7 @@ tags:
   - Taiwanese-American
   - Taiwan-Center-group-member
 verification_status: published
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # Taiwanese American Photographers Association(TAPA)
 
@@ -35,6 +35,7 @@ last_reviewed: 2026-09-22
 
 ## Worklog
 - 2026-09-22 deepen-x slice 09220317-29: SKIP (verified-saturated) — re-grep (TAPA／台美攝影學會／台美攝影協會) returns only records already linked above (the 2015 TAH story, the Taiwan Justice class/exhibition listings, and the ourjourneys65 FAPA-name mention, already disambiguated). No new corpus facts.
+- 2026-09-23 deepen-x slice 09221200-7: SKIP (verified-saturated) — fresh grep returns the same hit set (taiwanese-american-photographers-association work page, the two 2023 TJJ listings, the 攝影初級班 tag page); all already linked with facts absorbed. No new corpus facts.
 
 ## Sources
 - [TAH directory](https://taiwaneseamericanhistory.org/organization/taiwanese-american-photographers-association/)

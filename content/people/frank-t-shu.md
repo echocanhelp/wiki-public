@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # Frank T. Shu (許子津)
 
@@ -34,6 +34,7 @@ last_reviewed: 2026-09-22
 - Corpus Who's Who record: [[works/taiwaneseamericanhistory-org/whos-frank-t-shu|TAH #782 Frank T. Shu 許子津 / 01/2016]].
 - Disambiguation: distinct from [[works/taiwaneseamericanhistory-org/whos-who-1701-frank-hsu|TAH #1701 Prof. Frank Hsu 許德標]].
 - 2026-09-22 re-grep (許子津 / Frank T. Shu / Frank Hsu, slice 09220400-5): same hit set (ff335, ourjourneys255, ourjourneys282, whos-frank-t-shu, whos-who-1701) — all already absorbed above; verified-saturated.
+- 2026-09-23 re-grep (slice 09221200-7): same hit set plus works/index.md listing rows — no new corpus records; verified-saturated.
 
 ## Family
 
