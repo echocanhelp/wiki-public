@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # Eileen Lin
 
@@ -49,3 +49,4 @@ _No filled family fields on the TAH profile._
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - Re-grep 2026-09-22 (slice 09211500-25): corpus hit set (ourjourneys228, why-taiwan-matters-part-ii, 2011 FAPA-YPG action record, own TAH #1722 record, index) is already fully absorbed into Role in the Community above; no new corpus facts, no conflicts — verified-saturated.
+- Re-verified 2026-09-23 (slice 09221000-17): identical hit set — verified-saturated.

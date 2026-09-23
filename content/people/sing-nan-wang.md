@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # Sing-Nan Wang (王幸男)
 
@@ -36,6 +36,7 @@ last_reviewed: 2026-09-22
 - 台灣文化在海外推廣的支持者：夫人陳美霞與他從台灣為明州台灣文化展收集猴子燈籠等民俗展示品（[[works/taiwaneseamericanhistory-org/mystories407|407. 堅韌的愛－王幸男夫人, 陳宏文, 2016/02]]）。
 - 明州十二生肖文化展的台灣後援：該展中央大油畫所用的十二生肖圓形木刻，是他兒子Leon十幾年前為台灣文化展覽所做；桌上展示的猴子燈籠等亦由在台灣的王幸男、美霞夫婦代為收集（[[works/taiwaneseamericanhistory-org/ourjourneys223|223. 明州台灣文化展, 陳秀芳]]）。
 - HOLD: conflict — press-kit Who's Who 列 Core roles 為 entrepreneur，但社群回憶材料顯示其公開身影以黑名單運動、立委及文化支持為主；保留兩說不自動合併。
+- Corpus re-grep 2026-09-23 (slice 09221000-17, 王幸男 + Sing-Nan Wang): hit set (photo-albums-activities-107, ourjourneys315, ourjourneys123/-eng, mystories407, ourjourneys223) already fully absorbed above; no new corpus facts — verified-saturated.
 
 ## Family
 
