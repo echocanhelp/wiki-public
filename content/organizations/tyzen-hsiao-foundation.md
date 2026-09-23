@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # Tyzen Hsiao Foundation (蕭泰然基金會)
 
@@ -28,6 +28,8 @@ The vault's community record documents the musical legacy this foundation exists
 - 2018 《蕭泰然音樂節》at Disney Concert Hall, LA: the foundation (美國蕭泰然基金會) was the 邀請單位 for 國立台灣交響樂團; 林衡哲's account names 蕭傑文夫婦 as the couple responsible for the foundation, alongside召集人田詒鴻、陳文石、許丕龍 and the 南加州教會合唱團 — [[works/taiwaneseamericanhistory-org/ourjourneys339|339. 聆迪士尼音樂廳《蕭泰然音樂節》有感 / 林衡哲 /08/2018]]. The festival itself is further documented in the vault: the official program book by the 2018蕭泰然音樂節籌備工作團隊 — [[works/taiwaneseamericanhistory-org/publications1238|1238. 蕭泰然音樂節手冊 /08/2018]] — plus event records [[works/taiwaneseamericanhistory-org/concerts132|132. Maestro Tyzen Hsiao Music Festival, LA 08/09/2018]] and [[works/taiwaneseamericanhistory-org/2018-8|8. 蕭泰然音樂節, LA 08/09/2018]], and video coverage — [[works/taiwaneseamericanhistory-org/videos-152|152. 2018美國蕭泰然音樂節舞台現場最後彩排]], [[works/taiwaneseamericanhistory-org/videos109|109 (Tyzen Hsiao Music Festival video)]].
 - HOLD: the foundation's own founding date and charter activities are not documented in the vault corpus; the TAH directory also lists a separate [[organizations/tyzen-hsiao-music-works|TYZEN HSIAO MUSIC WORKS]] entity — relationship unresolved, not merged.
 - Corpus re-grep（deepen-x 2026-09-22）：全庫僅 ourjourneys339 一枚命中（已吸收於上）；無新增可吸收材料。Verified saturated.
+
+- Corpus re-grep（deepen-x slice 09230317-3, 2026-09-23）：命中集不變（tyzen-hsiao-foundation 書目記錄、ourjourneys339、works/index 索引導航）— saturated，SKIP，無新社群材料可吸收。
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/tyzen-hsiao-foundation/)

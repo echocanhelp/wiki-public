@@ -43,6 +43,8 @@ last_reviewed: 2026-09-23
 
 ## From the record
 
+- 複核（TJJ-A09221500-5, 2026-09-23）：本 slice 文章 2a3226a1b19c5a46（中央社人物專稿轉載, 2023-11-20）正文再驗證——「蕭美琴的父親蕭清芬從事神學教育，從美國返台後擔任台南神學院院長」等記述確認見於正文，subject 連結為真，無錯鏈、無虛鏈；2023-11-20 條目已在庫 — SKIP，無新材料。
+
 - 2021-02-28 — Opened the first North America joint online 228 commemoration with a prayer and moment of silence for the departed, asking God for freedom, peace, and happiness for Taiwan; the report highlights that 蕭美琴大使 also spoke, a rare 父女同台 — the article treats the two as father and daughter ([[articles/taiwanjustice-net/2026/20260210064123_2021北美洲海外台灣人二二八紀念活動-台灣國家人權_28b0cc4e52acece2|TJJ, 2021-03-03]]).
 
 - 2020-07-26 — His essay 「我的女兒美琴」 (excerpted from 蕭美琴's 2004 book 《一個人也可以》) ran on taiwanjustice.net: Hsiao recounts being introduced in Taiwan and among TA communities as 「蕭立委的爸爸」, describes his own origin from an 無名氏 lineage ('有唐山公，無唐山嬷' class), his overseas study (出國進修) in the UK with the family, and his service as a 機關主管 ([[articles/taiwanjustice-net/2025/20250324133829_我的女兒美琴-_-蕭清芬_9d523cc5290c997b|TJJ, 2020-07-26]]).

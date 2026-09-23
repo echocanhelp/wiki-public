@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # Prof. Frank Shih (施永強教授)
 
@@ -54,6 +54,8 @@ Publication(Non-professional)
 - 複核（deepen-x slice 09211300-8，2026-09-22）：re-grep 施永強 / Frank Shih 命中集不變（#64、#1990、#619、#1184、#722、#92，皆書目/收藏記錄）— saturated，SKIP，無新社群材料可吸收。
 
 - 複核（deepen-x slice 09220800-6，2026-09-22）：re-grep 施永強 / Frank Shih 命中集不變（#64、#1990、#619、#1184、#722、#92，皆書目/收藏記錄）— saturated，SKIP，無新社群材料可吸收。
+
+- 複核（deepen-x slice 09230317-3, 2026-09-23）：re-grep 施永強 / Frank Shih 命中集不變（#64、#1990、#619、#1184、#722、#92，皆書目/收藏記錄）— saturated，SKIP，無新社群材料可吸收。
 
 ## Sources
 - [TAH #64 encyclopedia: 64. Prof. Frank Shih 施永強教授](https://taiwaneseamericanhistory.org/64-prof-frank-shih/)

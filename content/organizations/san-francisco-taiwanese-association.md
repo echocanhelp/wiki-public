@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # San Francisco Taiwanese Association (北加州)
 
@@ -29,6 +29,8 @@ The San Francisco Taiwanese Association (舊金山台灣同鄉會) is a regional
 - 雙重會員結構說明：TAH directory 將本會列於 TAA（全美台灣同鄉會）美西區，社群回憶材料則記錄其為 TAFNC（北加州聯合會）會員會；兩者是不同層級的umbrella組織，非互斥，故並存不視為衝突。
 - Corpus re-grep（deepen-x 2026-09-22）：命中集為 ourjourneys38-eng、TAH SFTA 書目記錄（san-francisco-taiwanese-association work page，僅書目無內文）、Pew 連署聲明，全數已吸收於上；無新增可吸收材料。Verified saturated.
 - 2021 Pew 身份連署：本會三名會員 Pam Tsai、Chen Tsai、Sandy Chen 以 San Francisco Taiwanese Association 名義共同連署 taiwaneseamerican.org 對 Pew Research Center 將台灣人數據併入「Chinese」的聲明（2021-05-01，Asian Pacific American Heritage Month 啟動日），要求道歉並以台灣人為獨立類別重發報告 — [[works/taiwaneseamerican-org/pew-research-center-taiwanese-american-statement|Response to Pew Research Reports Hiding Taiwanese Identity]]。
+
+- Corpus re-grep（deepen-x slice 09230317-3, 2026-09-23）：命中集不變（ourjourneys38-eng、TAH SFTA 書目記錄、Pew 連署聲明、works/index 索引導航）— saturated，SKIP，無新社群材料可吸收。
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/san-francisco-taiwanese-association/)
