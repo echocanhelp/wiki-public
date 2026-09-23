@@ -8,7 +8,7 @@ tags:
   - FAPA
   - community leader
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 sources:
   - https://en.wikipedia.org/wiki/Ken_Wu
   - https://www.taiwancenter.org/
@@ -100,6 +100,7 @@ A business card shared during onboarding identifies Ken Wu (吳兆峯) as Secret
 
 ## From the record
 
+- 再核（TJJ-A09221200-15, 2026-09-23）：本 slice 文章 097b5750fcf3091a 正文再驗證——吳兆峯於台館董事會臨時動議議決賑災勸募並代表台館受訪主流媒體，連結為真；2024-04-04 條目已在庫，無新材料。
 - 2024-04-04 — 花蓮0403地震後適逢大洛杉磯台灣會館董事會，臨時動議議決賑災勸募並代表台館受訪NBC、ABC、KTLA；台館並聯繫經文處協調海外美元捐款專戶（[[articles/taiwanjustice-net/2024/20240527024358_root_097b5750fcf3091a|TJJ, 2024-04-04]]）。
 - 2022-09-25 — 以與談人（Ken Wu 吳兆峯）身份出席第53回世界台灣文化論壇「Tī美國點光台灣」，與主講人高龍榮（Long Rong (Mark) Kao, PhD）、主持人陳正義（Peter Chen）對談台灣對美國的地緣政治重要性、美國對台關鍵政策、「維持現狀」與「戰略模糊」的轉變、以及 FAPA 與 FAPR 為台灣發聲的角色（[[articles/taiwanjustice-net/2022/20221127045936_2022_09_25_第53回世界台灣文化論壇_ti美國點光台灣高龍榮-吳_e9faa17a0a7ea61c|TJJ, 2022-09-25]]）。
 

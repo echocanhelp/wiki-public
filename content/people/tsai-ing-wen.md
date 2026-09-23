@@ -7,7 +7,7 @@ tags:
   - taiwanjustice-net
   - thin-page
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 name_en: "Tsai Ing-wen"
 ---
 # Tsai Ing-wen (蔡英文)
@@ -46,6 +46,7 @@ name_en: "Tsai Ing-wen"
 
 ## From the record
 
+- 再核（TJJ-A09221200-15, 2026-09-23）：本 slice 文章 760a0bc942e1676b（VOA：台灣祝賀拜登、賀錦麗就職）正文再驗證——蔡總統發推祝賀並稱台灣準備好作為全球良善力量合作，連結為真；2021-01-20 條目已在庫，無新材料。
 - 再核（TJJ-A09220700-10, 2026-09-22）：本 slice 文章 b63290424caedcf7（LA Times, Ralph Jennings 2015-04-15）正文再驗證——民進黨提名58歲法律學者蔡英文參選2016年1月總統選舉、康乃爾法學院與LSE學歷、2012年敗給馬51%對46%、或為首位女性领导人等論述確認，連結為真；2015-04-16 條目已在庫，無新材料。
 - 再核（TJJ-A09220700-4, 2026-09-22）：本 slice 文章 15fc4a3e5664504e（Shawna Yang Ryan WaPo op-ed 轉載）正文再驗證——蔡總統與川普通话僅被視為美中關係議題之論述確認，連結為真；2016-12-09 條目已在庫，無新材料。
 
