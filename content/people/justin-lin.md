@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # Justin Lin (林詣彬)
 
@@ -34,6 +34,7 @@ last_reviewed: 2026-09-22
 - The 2010 community essay [[works/taiwaneseamerican-org/director-justin-lin-on-asian-american-filmmaking|Director Justin Lin on Asian American Filmmaking (Ho Chie, 2010-02-02)]] records his own position in the intra-community debate over representation: in his article "Am I 'retarded' for making Asian American films?" he argued from a financial perspective that "representing for the cause" was commercially fragile given the small, undefined Asian American consumer base ("it's fun to talk about representin' and stuff until you get a mortgage"), while the essay credits the grassroots mobilization behind *Better Luck Tomorrow* — and his independent-track films Shopping For Fangs, Finishing the Game — as a model for community-backed distribution before his Hollywood break-through (Annapolis, The Fast and the Furious: Tokyo Drift, Fast & Furious).
 - Named alongside Jeremy Lin as a point of Taiwanese American visibility in the Blacklava 20-year community retrospective: [[works/taiwaneseamerican-org/on-two-decades-of-blacklava-and-celebrating-the-other|On Two Decades of Blacklava and Celebrating the Other]].
 - His TAH Who's Who encyclopedia record: [[works/taiwaneseamericanhistory-org/166-justin-lin-e6-9e-97-e8-a9-a3-e5-bd-ac|166. Justin Lin 林詣彬 (2014-12-23)]].
+- Corpus re-scan 2026-09-23 (deepen-x slice 09221400-4): fresh grep (林詣彬 / Justin Lin) returned exactly the works already linked above (#166, taiwanese-american-film, director-justin-lin-on-asian-american-filmmaking, blacklava retrospective); the retrospective's "Go Jeremy Lin! Go Justin Lin!" visibility line is covered. No new corpus facts — page saturated.
 
 ## Family
 
