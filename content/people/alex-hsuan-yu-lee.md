@@ -41,6 +41,7 @@ The movement record holds two TAH encyclopedia entries on him — [[works/taiwan
 - Disambiguation guard: the corpus's other "Alex Lee" — 李天明, California's first Asian-American non-binary openly LGBT state assemblymember ([[articles/taiwanjustice-net/2022/20220815032000_2022_06_26_政治是性平戰場_-加州跨世代lgbt議員揚起彩虹旗_07e4b6df3357ad1e|TJJ〈政治是性平戰場：加州跨世代LGBT議員揚起彩虹旗〉, 2022-06-26]]) — is a different person and must not be merged here.
 - Re-grep 2026-09-21: corpus hits for 李軒宇/Hsuan-Yu Lee remain exactly #146, #1225, and the index — both bibliographic entries already cited; no new community detail absorbable.
 - Corpus re-grep 2026-09-22 (DEEPEN-X slice 09212352-21): hit-set identical — [[works/taiwaneseamericanhistory-org/musician146|#146]], [[works/taiwaneseamericanhistory-org/whoswho1225|#1225]] and the works index, all already cited. SKIP-content, nothing new absorbable.
+- Corpus re-grep 2026-09-23 (DEEPEN-X slice 09221100-27): hit-set identical (#146, #1225, works index), all already cited — no new community detail absorbable (SKIP-with-reason).
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/alex-hsuan-yu-lee/)

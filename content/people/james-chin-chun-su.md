@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # James Chin-Chun Su (蘇金春)
 
@@ -42,6 +42,10 @@ last_reviewed: 2026-09-22
 - 以「台灣獨立聯盟（UFI）」代表身份出席1966年6月18日費城會議，UFI與「台灣問題研究会（FASG）」雙方合併，決議於1966年7月4日成立「全美台灣獨立聯盟（UFAI）」（[[works/taiwaneseamericanhistory-org/ourjourneys81|同前]]）。
 - 為華府地區 College Park 早期台灣人留學生群之一，與陳炳耀、黃淑貞（後回台大心理系任教授）同列，屬華府與巴城TAA誕生前的人物（[[works/taiwaneseamericanhistory-org/ourjourneys-138|138. 華府與巴城TAA的誕生 / 陳淮崇 /2015/05]]）。
 - TAH本人記錄：[[works/taiwaneseamericanhistory-org/670-james-chin-chun-su-e8-98-87-e9-87-91-e6-98-a5-201510|670. James Chin-Chun Su 蘇金春 /2015/10]]；上述兩篇回憶文的英文版另存於 corpus：[[works/taiwaneseamericanhistory-org/ourjourneys57-eng|57. Bringing Bananas to America / Fu-chen Lo (EN)]]、[[works/taiwaneseamericanhistory-org/ourjourneys81-eng|81. Early Years of the UW Taiwanese Independence Movement / Suy-Ming Sam Chou (EN)]]。
+
+## From the record
+
+- Corpus re-grep 2026-09-23 (DEEPEN-X slice 09221100-30): fresh ZH+EN grep returned the same hit-set already cited above (Our Journeys 57 + EN, 81 + EN, 138, TAH #670 profile). The 1966-06-18 費城會議 roster in Our Journeys 81 confirms his seat as one of four UFI delegates (陳以德、羅福全、王博文、蘇金春) — already reflected. Verified saturated, nothing new absorbable.
 
 ## Family
 

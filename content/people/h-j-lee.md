@@ -41,6 +41,7 @@ _No filled family fields on the TAH profile._
 - TAH 百科音樂家條目 [[works/taiwaneseamericanhistory-org/musician387|387. 李慧珍, Conductor / 2017/03]]（2017-03）；Who's Who 條目 [[works/taiwaneseamericanhistory-org/whoswho1542|1542. H. J. Lee 李慧珍 / 2017/03]]（2017-03）。
 - 長期投入台灣音樂推廣：樂音合唱團指揮兼音樂總監（2004–present）、樂音基金會執行長、心悅合唱團指揮兼音樂總監（TAH harvest table）。
 - Re-grepped 2026-09-22 (slice 09212352-27): works/articles hits remain only [[works/taiwaneseamericanhistory-org/musician387|TAH #387]], [[works/taiwaneseamericanhistory-org/whoswho1542|TAH #1542]], [[works/taiwaneseamericanhistory-org/ourjourneys301|Our Journeys #301]] and the TJJ 楊子清 tag — all already absorbed above. SKIP-with-reason: no new corpus facts this pass.
+- Re-grepped 2026-09-23 (slice 09221100-27): hit-set identical (#387, #1542, #301, TJJ 楊子清 tag, index), all already absorbed — SKIP-with-reason: no new corpus facts.
 
 ## Sources
 - [TAH #387 encyclopedia: 387. 李慧珍, Conductor / 2017/03](https://taiwaneseamericanhistory.org/musician387/)

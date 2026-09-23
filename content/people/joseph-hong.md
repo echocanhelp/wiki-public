@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # Joseph Hong (洪茂澤)
 
@@ -32,6 +32,7 @@ last_reviewed: 2026-09-22
 ## From the record
 
 - 2024-08-17 — 應邀於大洛杉磯台灣會館耆老講座與楊嘉猷（Charles Yang）對談「返台參選經驗」（[[articles/taiwanjustice-net/2025/20250216032153_tag_大洛杉磯台灣會館耆老講座_20053f0a17b89c07|TJJ 耆老講座標籤頁，2024-07-24 刊前導、2024-08-18 更新]]）。
+- Corpus re-grep 2026-09-23 (DEEPEN-X slice 09221100-30): fresh ZH+EN grep returned the same hit-set already cited above (Our Journeys 142, Our Journeys 209, 罷免洪茂澤 1994, 洪茂澤事件 law4, TAH #265 profile, 耆老講座標籤頁). Verified saturated — nothing new absorbable; HOLDs above stand.
 
 ## Role in the Community
 
