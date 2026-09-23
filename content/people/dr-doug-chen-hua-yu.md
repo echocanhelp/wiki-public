@@ -48,3 +48,4 @@ _No filled family fields on the TAH profile._
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 > Saturate-note (deepen-x slice 09211400-30, 2026-09-22): idempotent re-verify — corpus re-grep (ZH 余振華 + EN Chen-Hua Yu) hit set unchanged (whos-who-1923 + mystories597 + 台積研發六騎士 article, all already linked above); no new absorbable corpus facts.
+> Saturate-note (deepen-x slice 09220900-32, 2026-09-23): re-verify — hit set again identical (whos-who-1923, mystories597, 台積研發六騎士 article, works index); nothing further absorbable.

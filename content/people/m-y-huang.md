@@ -38,6 +38,7 @@ _No filled family fields on the TAH profile._
 - HOLD: conflict — the musician entries (師大音樂系, Montclair State music M.A., teaching + original compositions covered in N.J. Star-Ledger and 世界日報) vs. the physician entry (台北醫學院 M.D., 聯邦政府醫院醫師). Either two careers of one person or two same-name individuals; not auto-merged.
 - Corpus re-grep 2026-09-19: hit set in `content/works` / `content/articles` identical to the absorbed set above (musician419, whoswho1463, whoswho1773, works index) — no new absorbable facts. Re-confirmed 2026-09-20: same hit set.
 - Corpus re-grep 2026-09-22 (slice 09211500-19): hit set identical (musician419, whoswho1463, whoswho1773, works index) — no new absorbable facts; HOLD on the musician-vs-physician identity stands.
+- Corpus re-grep 2026-09-23 (slice 09220900-32): hit set identical (musician419, whoswho1463, whoswho1773, works index) — nothing further absorbable; HOLD stands.
 
 ## Sources
 - [TAH #419 encyclopedia: 419. 黃美雲,Musician / 07/2017](https://taiwaneseamericanhistory.org/musician419/)

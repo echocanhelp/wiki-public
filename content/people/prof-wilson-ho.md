@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # Prof. Wilson Ho (何文程教授)
 
@@ -39,6 +39,7 @@ The movement record holds his own TAH encyclopedia entry [[works/taiwaneseameric
 
 - Re-grep 2026-09-20 (slice 09190400-11) and 2026-09-21 (slice 09201500-18): corpus scan of content/works + content/articles again returns only own TAH #2037 record, index entries, and one false-positive (a taiwanjustice.net 2022 世界台灣文化論壇 article whose archive digest string matched 'Ho' — no 何文程 in body). No memoir material to absorb; SKIP, 何文程/何文壽 relationship still unverified (HOLD stands).
 - Corpus re-grep 2026-09-22 (slice 09211500-16): hit set unchanged — own TAH #2037 record + index + the same taiwanjustice.net false positive; SKIP: page saturated.
+- Corpus re-grep 2026-09-23 (slice 09220900-31, 何文程 / Wilson Ho): only own TAH #2037 record + works index (false positive gone); SKIP: page saturated; 何文程/何文壽 relationship HOLD stands.
 
 ## Sources
 - [TAH #2037 encyclopedia: 2037. Prof. Wilson Ho 何文程教授](https://taiwaneseamericanhistory.org/whos-who-2037-wilson-ho/)
