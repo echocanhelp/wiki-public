@@ -52,6 +52,7 @@ last_reviewed: 2026-09-23
 - Her Who's Who life story is held as its own record: [[works/taiwaneseamericanhistory-org/701-ing-hui-lai-e8-b3-b4-e8-8b-b1-e6-85-a7-201511|701. Ing-Hui Lai 賴英慧 / 2015/11]].
 - Corpus re-grep (deepen-x 2026-09-21): hit set unchanged — works/articles hits remain TAH #701 (own record), Our Journeys #301 (TUF memoir), and the three taiwanjustice.net articles already cited above; zero new absorbable material. Verified saturated.
 - 複核（deepen-x 2026-09-22）：corpus re-grep（賴英慧／Ing-Hui Lai，works+articles）命中集不變（701、ourjourneys301、三篇 TJJ、index），全數已吸收並 wikilink；無新增社群材料。
+- 複核（deepen-x-slice-09230317-5, 2026-09-23）：re-grep 命中集不變（701 本人記錄、ourjourneys301 TUF 回憶錄、三篇 TJJ、index），全數已吸收並 wikilink；無新材料。SKIP-with-reason（飽和）。
 
 ## Sources
 - [TAH #701 encyclopedia: 701. Ing-Hui Lai 賴英慧 / 2015/11](https://taiwaneseamericanhistory.org/701-ing-hui-lai-%e8%b3%b4%e8%8b%b1%e6%85%a7-201511/)

@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # Sacramento Taiwanese Culture Foundation (美國加州首府沙加緬度台灣文化基金會)
 

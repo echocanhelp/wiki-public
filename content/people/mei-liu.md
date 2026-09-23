@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # Mei Liu (洪梅)
 
@@ -38,6 +38,7 @@ last_reviewed: 2026-09-22
 - Corpus re-check (slice deepen-x-slice-09201300-10, 2026-09-21): the only additional text hit for 洪梅 in the corpus — 龐洪梅（音）quoted in [[articles/taiwanjustice-net/2025/20250419233916_美國亞裔恐因武漢肺炎遭排外_43159077375b9055|美國亞裔恐因武漢肺炎遭排外 (2025-04)]] — is a different person (spokesperson for a Chinese-American civil-rights group, name rendered 龐洪梅), NOT this 洪梅; no new absorbable material.
 - Re-check (slice deepen-x-slice-09211300-11, 2026-09-22): re-grep 洪梅 / Mei Liu against content/works + content/articles — hit set identical to the records already absorbed above (TAH #2222 record, 2018 南加州台大校友會抗議聲明, 2024 劉和源/洪梅台大回憶, 龐洪梅 false positive) — saturated, SKIP.
 - Re-check (slice deepen-x-slice-09220800-7, 2026-09-22): fresh re-grep 洪梅 / Mei Liu — hit set unchanged (#2222 record, index, 2018 抗議聲明, 2024 台大回憶, 2025 龐洪梅 false positive). No new absorbable community material. SKIP-with-reason.
+- Re-check (slice deepen-x-slice-09230317-4, 2026-09-23): fresh re-grep 洪梅 / Mei Liu — hit set identical to prior re-checks (#2222 record, works index, 2018 抗議聲明, 2024 台大回憶, 2025 龐洪梅 false positive); all records already linked above. No new absorbable material. SKIP.
 
 ## Family
 

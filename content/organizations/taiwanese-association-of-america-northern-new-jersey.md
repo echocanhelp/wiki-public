@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # Taiwanese Association of America Northern New Jersey (北澤西)
 
@@ -32,6 +32,7 @@ The corpus holds these TAA/NNJ community records:
 - Corpus re-check (2026-09-21, deepen-x slice 09201500-3, vault-only): fresh grep for 北澤西/TAA-NNJ/Northern New Jersey adds two previously unlinked records — the 2017 scholarship award and the 2019 chapter newsletter (now linked above). Hit set otherwise matches the prior re-check; no date/office conflicts to merge.
 - Corpus re-check (2026-09-22, deepen-x slice 09211400-3, vault-only): re-grep 北澤西/TAA-NNJ/Northern New Jersey — hit set identical to the prior re-check (history, activities, 語文教師研習會, 松青學院, OJ#219, OJ#12); no new absorbable facts, no conflicts. Verify-saturated.
 - Corpus re-check (2026-09-22, deepen-x slice 09220800-8, vault-only): fresh grep 北澤西|TAA-NNJ|Northern New Jersey — hit set identical to prior re-checks (history, activities, projects-5-15, pine-green-institutes, OJ#219, OJ#12, 80-scholarship, newsletter), all linked above; no new absorbable facts, no conflicts. SKIP.
+- Corpus re-check (2026-09-23, deepen-x slice 09230317-4, vault-only): fresh grep 北澤西|TAA-NNJ|Northern New Jersey — hit set identical to prior re-checks, all linked above; no new absorbable facts, no conflicts. SKIP.
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-association-of-america-northern-new-jersey/)

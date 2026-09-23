@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # Dr. Fei-Kuang Tseng (曾輝光博士)
 
@@ -46,6 +46,7 @@ last_reviewed: 2026-09-22
 - **TASA:** president of the Taiwanese-America Seniors Association of Southern California, 1995 and 1997. [[organizations/taiwanese-america-seniors-association-of-southern-california-tasa|TASA]]
 - Corpus re-check (2026-09-22, deepen-x slice 09211400-3, vault-only): re-grep 曾輝光/Fei-Kuang Tseng — hit set (mystories124, whos-fei-kuang-tseng, ourjourneys244, collection, ourjourneys173/173-eng) is fully linked above; no new absorbable facts, no conflicts. Verify-saturated.
 - Corpus re-check (2026-09-22, deepen-x slice 09220800-8, vault-only): fresh grep 曾輝光|Fei-Kuang Tseng — same hit set (mystories124, whos-fei-kuang-tseng, ourjourneys244, collection, ourjourneys173/173-eng, 179, publications898), all linked above; no new absorbable facts, no conflicts. SKIP.
+- Corpus re-check (2026-09-23, deepen-x slice 09230317-4, vault-only): fresh grep 曾輝光|Fei-Kuang Tseng — same hit set (mystories124, whos-fei-kuang-tseng, ourjourneys244, collection, ourjourneys173/173-eng, publications898), all linked above; no new absorbable facts, no conflicts. SKIP.
 
 ## Sources
 - [TAH #179 encyclopedia: 179. Dr. Fei-Kuang Tseng 曾輝光博士](https://taiwaneseamericanhistory.org/179-dr-fei-kuang-tseng/)
