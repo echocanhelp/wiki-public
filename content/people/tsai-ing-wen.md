@@ -46,6 +46,8 @@ name_en: "Tsai Ing-wen"
 
 ## From the record
 
+- 再核（TJJ-A09221500-3, 2026-09-23）：本 slice 文章 15fc4a3e5664504e（Shawna Yang Ryan WaPo op-ed 轉載）正文再驗證——蔡總統與川普通话僅被視為美中關係附庸之論述確認，連結為真；2016-12-09 條目已在庫，無新材料。
+
 - 複核（TJJ-A09221300-11, 2026-09-23）：subject link 經本 slice 再驗證為真實對應，對應 From-the-record 條目已在庫（無錯鏈、無虛鏈）— SKIP，無新材料。
 
 - 再核（TJJ-A09221200-13, 2026-09-23）：本 slice 文章 042939d886040651（Mark Kao 高龍榮 Taipei Times 專欄，TJJ 轉載）全文再驗證——Schrage 批評蔡英文2011訪美重「process」輕「specific outcome」之論述確認，連結為真；2015-03-27 條目已在庫，無新材料。

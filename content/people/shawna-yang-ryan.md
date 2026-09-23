@@ -91,6 +91,8 @@ Yang Ryan's profile in the 2017 TAHS publication was prepared by the Taiwanese A
 
 ## From the record
 
+- 再核（TJJ-A09221500-3, 2026-09-23）：本 slice 文章 15fc4a3e5664504e 正文再驗證——楊小娜 WaPo op-ed（《Green Island》作者）連結為真；2016-12-09 條目已在庫，無新材料。
+
 - 再核（TJJ-A09220700-4, 2026-09-22）：本 slice 文章 15fc4a3e5664504e 正文再驗證——楊小娜 WaPo op-ed（《Green Island》作者、为其母出生地-third-grade  interview 開篇）連結為真；2016-12-09 條目已在庫，無新材料。
 
 - 2016-12-09 — Ryan's Washington Post op-ed, republished on TJJ, opens with her third-grade interview of her Taiwanese mother about being "from China," then uses her research for the novel *Green Island* to argue that treating Taiwan's history as beginning in 1949 is "a second silencing" after 38 years of martial law ([[articles/taiwanjustice-net/2024/20240721112815_root_15fc4a3e5664504e|TJJ republication of WaPo op-ed, 2016-12-09]]).

@@ -30,6 +30,8 @@ last_reviewed: 2026-09-23
 
 ## From the record
 
+- 再核（TJJ-A09221500-3, 2026-09-23）：本 slice 文章 f19de8f9d3b53071 正文再驗證——Healey「莫讓馬英九謀殺陳水扁」與馬政府復仇政治論述確認，連結為真；2013-04-22 條目已在庫，無新材料。
+
 - 複核（TJJ-A09221400-1, 2026-09-23）：本 slice 文章 f51d2ebb674cbdd3（English Pages 分類存檔頁13, 2024-05-21 快照）正文再驗證——「『人權先生』籲馬認錯 莫對媒體施壓」及〈The Shutdown in Taiwan: Ma Ying-jeou's Peculiar Obsession〉確認見於正文，subject 連結為真，無錯鏈、無虛鏈；2015-06-16 條目已在庫，無新材料。
 
 - 複核（TJJ-A09221200-5, 2026-09-23）：本 slice 文章 [[articles/taiwanjustice-net/2024/20240224194137_root_b1e144ecc18e460f|TJJ b1e144ec]] 正文再驗證——subject link 為真實對應，對應日期事實條目已在庫，無錯鏈、無虛鏈 — SKIP，無新材料。
