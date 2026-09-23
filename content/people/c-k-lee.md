@@ -42,6 +42,7 @@ last_reviewed: 2026-09-23
 - 新澤西州台美人社區回憶錄把他列入從美國返台歷任政府職務的台美人博士群（同列者有黃大洲、陳保基、蔡丁貴、潘世偉、吳政忠等），屬於以世台會/同鄉會網絡（如前會長高龍榮 [[people/long-rong-mark-kao|高龍榮]]）為核心的新澤西台美人社群 — [[works/taiwaneseamericanhistory-org/ourjourneys310|Our Journeys 310（新澤西同鄉會回憶）]]；該回憶錄另記同鄉會曾不定期出版「鄉訊」、由鄭昭夫博士（在伊城 1976–2015）主摧。
 - TAH 百科本人条目：[[works/taiwaneseamericanhistory-org/783-prof-c-k-lee-e6-9d-8e-e4-b8-96-e5-85-89-201601|783. C. K. Lee 李世光 / 2016/01]]。
 - Corpus re-scan 2026-09-22 (slice 09210500-12): corpus hits (TAH #783, #15 返台任教 1994 record, Our Journeys 310 新澤西回憶錄) already absorbed above; no further memoir material, nothing new absorbable.
+- Corpus re-scan 2026-09-23 (slice 09221300-18): fresh grep 李世光 hits remain TAH #783, #15 返台任教 1994, Our Journeys 310, works index — all absorbed above (OJ310 政府要員博士群 list confirmed verbatim). SKIP-content (verified-saturated); no new facts, no conflicts to HOLD.
 
 ## Family
 
