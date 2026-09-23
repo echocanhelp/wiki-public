@@ -37,6 +37,7 @@ _No filled family fields on the TAH profile._
 ## Community Record
 - Corpus re-grep 2026-09-17, 2026-09-19, 2026-09-20 and 2026-09-21 (deepen-x slices, SKIP-with-reason): her two TAH encyclopedia records remain the only community-side material — [[works/taiwaneseamericanhistory-org/musician342|342. Yen-Ching Chiu 邱彥菁, Soprano (2016-05)]] and [[works/taiwaneseamericanhistory-org/whoswho1057|1057. Yen-Ching Chiu 邱彥菁 (2016-06)]]. Both are band-B bibliographic records (full text stays in the vault), so no new facts absorbable beyond the two-entry record of her as both a musician feature and a Who's Who subject; no memoir mentions in works/articles.
 - Corpus re-grep 2026-09-22 (deepen-x slice-12, SKIP-with-reason): fresh grep (邱彥菁/Yen-Ching Chiu) over works/ + articles/ again returned only musician342 and whoswho1057 — still no memoir material absorbable.
+- Corpus re-grep 2026-09-23 (deepen-x slice-17, SKIP-with-reason): fresh grep again returned only the two bibliographic records plus the works index — no memoir mentions in works/articles, nothing new absorbable.
 
 ## Sources
 - [TAH #342 encyclopedia: 342. Yen-Ching Chiu邱彥菁, Soprano / 2016/05](https://taiwaneseamericanhistory.org/musician342/)

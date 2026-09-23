@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # Dr. James Tsai (蔡育智醫師)
 
@@ -45,6 +45,8 @@ Corpus records touching this page:
 - [[works/taiwaneseamericanhistory-org/whos-who-2065-james-tsai|TAH #2065 Who's Who record (2018)]]
 - [[articles/taiwanjustice-net/2022/20221129014646_2022_07_24_natma-基金會獎學金開始接受申請-9月15日截止_6f9e146d2c12bbf7|NATMA 基金會獎學金公告 (2022-07)]]
 - [[articles/taiwanjustice-net/2025/20250328121330_natma-基金會獎學金開始接受申請-9月15日截止_b2e459eb492baa06|NATMA 基金會獎學金公告 (2025-03)]]
+
+Re-grep 2026-09-23 (slice 09221500-18): hit set identical (TAH #2065, works/index, 2022+2025 NATMA 獎學金公告) — saturated.
 
 HOLD: the 2022 announcement lists 秘書長 James Tsai; publication-era vs. current tenure is not dated in the corpus — do not merge into an office term.
 

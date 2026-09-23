@@ -34,6 +34,7 @@ Prof. Frank Mau-Chung Chang 張懋中教授 – History of Taiwanese American (T
 ## Role in the Community
 Two TAH Who's Who records document Chang in the Taiwanese American community record: [[works/taiwaneseamericanhistory-org/whos-who-779-mau-chung-chang|779. Prof. Mau-Chung, Frank Chang 張懋中教授]] (published 2016-01-31) and [[works/taiwaneseamericanhistory-org/ota-296|296. Prof. Mau-Chung Frank Chang 張懋中教授]] (published 2019-06-30). The community also recorded his return to Taiwan as [[works/taiwaneseamericanhistory-org/14-e5-bc-b5-e6-87-8b-e4-b8-ad-e6-95-99-e6-8e-88-2015-e5-b9-b4-e5-9b-9e-e5-8f-b0-|14. 張懋中教授返台就任交通大學校長, 2015]] (published 2016-01-31), consistent with the NCTU principal role (2015–) in his employment table.
 - Re-grepped corpus 2026-09-21 and 2026-09-22 (slice 09220600-8): no further community-authored material naming 張懋中 beyond these three records (SKIP — nothing new absorbable).
+- Re-grepped corpus 2026-09-23 (slice 09221500-17): fresh grep (張懋中/Mau-Chung) again returns only ota-296, whos-who-779, the 2015 返台 record, and the works index — verified saturated (SKIP).
 
 ## Family
 

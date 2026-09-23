@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # Y. T. Yan (顏裕庭)
 
@@ -39,6 +39,7 @@ last_reviewed: 2026-09-22
 - 2026-09-21 (slice 09201300-15): corpus re-grepped — hits (ourjourneys74/-eng, ourjourneys186/-eng, publicationlife948, whos863) are all absorbed above; saturated, no new absorbable facts.
 - 2026-09-22 (slice 09211200-5): re-verified — same 6 corpus hits, all already linked above; no new material.
 - 2026-09-22 (slice 09220700-9): re-grepped — identical hit set (ourjourneys74/-eng, ourjourneys186/-eng, publicationlife948, whos863); saturated, no new absorbable facts.
+- 2026-09-23 (slice 09221500-8): corpus re-grepped — same 6 hits, all already linked above; saturated, no new absorbable facts.
 
 ## Family
 

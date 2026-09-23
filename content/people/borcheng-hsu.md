@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # BorCheng Hsu (許伯丞)
 
@@ -31,6 +31,8 @@ BorCheng Hsu (許伯丞) is listed in the TAH Foundation Who’s Who Taiwanese A
 - 2022-06-19 — quoted in press about TaiwanFest's post-pandemic return to the streets of New York.
 
 Corpus re-grep (slice 09220700-9, 2026-09-22): hits are whos-who-1175-borcheng-hsu, 117-bro-cheng-hsu, the 2022-06-19 中央社 article, and the works index — all bibliographic records already linked above (full texts stay in the TAH vault). Saturated, no new absorbable facts.
+
+Corpus re-grep (slice 09221500-8, 2026-09-23): identical hit set (whos-who-1175-borcheng-hsu, 117-bro-cheng-hsu, the 中央社 article, works index); saturated, no new absorbable facts.
 
 ## Family
 

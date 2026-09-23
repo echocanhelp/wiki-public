@@ -42,6 +42,10 @@ Corpus memoirs place Raymond Wu in the movement's first rank from the 1970s onwa
 - **台灣出版社 founding supporter (1983):** 林衡哲's shareholder letter recalls that the 台灣出版社 — founded 1983-10-31 at 華國飯店 in Cerritos, which in 1984 published three KMT-banned books and grew into the 「台灣文庫」 project — was established with the help of shareholder and lawyer 吳瑞信 ([[works/taiwaneseamericanhistory-org/ourjourneys70|Our Journeys 70, 林衡哲 「台灣文庫」緣起, 2014-12]]).
 - **南加州台灣長輩會 legal counsel (1984–88):** the 長輩會 顧問團 assembled to build the 鶴園公寓 elder-housing project (會館 1988-03-05 開幕) included lawyer 吳瑞信 alongside 黃茂清 and 廖重遠 ([[works/taiwaneseamericanhistory-org/ourjourneys173|Our Journeys 173, 曾輝光 台美人移民史的首座里程碑, 2015-09]])
 
+- **洛杉磯同鄉會會長 / 世台會 (per 吳木盛 memoir):** 吳木盛's 世台會第二、三屆年會報告 recalls 吳瑞信 as then 洛杉磯同鄉會會長 — a 小同鄕 whose father was the author's friend, still recognizable with his 高雄中學 air — who met the author and 黃春明 at the Los Angeles airport en route to the third 世台會 annual conference at Pepperdine University ([[works/taiwaneseamericanhistory-org/ourjourneys283|Our Journeys 283, 吳木盛, 2017-04]]).
+- **TACL preparatory committee consultants:** the English record 台灣公論報 第269期 (1985-04-15) in [[works/taiwaneseamericanhistory-org/ourjourneys186-eng|Our Journeys 186 (English)]] lists Raymond Wu among the TACL Preparatory Committee consultants — corroborating the #186 signatory record above.
+- 複核（deepen-x slice 09221500-3，2026-09-23）：re-grep 命中集新增 ourjourneys283、ourjourneys186-eng（已於上列吸收）、ff289（見 Sources）— 其餘命中集不變，全數已引用；HOLD（TA magazine 同名人物）維持不併入。
+
 HOLD: [[works/taiwaneseamerican-org/healthy-living-and-eating|健康生活的秘訣 (TA magazine interview, Raymond Wu, MD)]] is linked to this page but describes a US-born NJ-raised physician-engineer, clashing with the 師範大學/芝加哥神學院/牧師/人權律師 profile above — likely a different Raymond Wu or misattributed subject link; not merged.
 
 ## Family

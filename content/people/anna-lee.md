@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # Anna Lee (李宛蓉)
 
@@ -43,7 +43,7 @@ Work pages touched:
 - [[works/taiwaneseamerican-org/lunchbox-anne-hu-release|Lunchbox — Anne Hu release interview]]
 - [[works/taiwaneseamericanhistory-org/whos-who-2295-anna-lee|TAH #2295. Anna Lee 李宛蓉]]
 
-Corpus sweeps 2026-09-20, 2026-09-21, 2026-09-22 (incl. slice 09220600-8): the only works mentioning her are the two above, already absorbed — no additional community facts to add.
+Corpus sweeps 2026-09-20, 2026-09-21, 2026-09-22, 2026-09-23 (incl. slices 09220600-8, 09221500-20): the only works mentioning her are the two above, already absorbed — no additional community facts to add.
 
 ## Sources
 - [TAH #2295 encyclopedia: 2295. Anna Lee 李宛蓉](https://taiwaneseamericanhistory.org/whos-who-2295-anna-lee/)

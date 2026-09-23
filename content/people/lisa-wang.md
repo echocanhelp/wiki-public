@@ -59,3 +59,4 @@ _No filled family fields on the TAH profile._
 - Corpus re-grep (王麗貝 / Lipei / Lisa Wang, works+articles, slice-09211400-2 pass 2026-09-22): hit set unchanged (whoswho901, works/index listing, same TJJ 園藝講座 archive pages). No new absorbable material.
 - 2016-09-25 會園藝講座當日另有徐志「農友公司與種子分享」、蕭宏圖「食材與身體健康」等同系列場次，王麗貝之「秋天自家蔬果加工」列於同日講座報導群——見 TJJ 台美人台加人分類存檔（[[articles/taiwanjustice-net/2024/20240528130155_root_fd9afba4619325d8|TJJ 存檔, 2024-05-28 快照]]），可證該講座為團隊系列而非單場。
 - Re-verify 2026-09-22 (TJJ-A09220400-7): link-check against slice article 2e141df6a5071110 body — mention confirmed real, dated fact above stands; no new material.
+- 複核（deepen-x slice 09221500-3，2026-09-23）：re-grep 王麗貝 / Lipei / Lisa Wang 命中集僅新增 2024-06-13 兩次 TJJ 園藝類快照（886865700aee5b60、98bf2134223017ad），內容與已引用的 2016-06-26 開課公告及 2016-09-25 講座報導相同 — 無新可吸收材料，SKIP-no-new-material。
