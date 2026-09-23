@@ -6,7 +6,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # 王人紀
 
@@ -48,3 +48,5 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+> Corpus re-scan 2026-09-23 (deepen-x slice 09221300-24): fresh grep works/+articles/ — hit set identical to prior absorption, all records already wikilinked above. SKIP-deepen; nothing new absorbable.

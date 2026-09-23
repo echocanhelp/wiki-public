@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # Suing Wang (王淑英)
 
@@ -43,8 +43,8 @@ last_reviewed: 2026-09-22
 - With 蔡明殿 she is a subject of [[works/taiwaneseamericanhistory-org/155-e8-94-a1-e6-98-8e-e6-ae-bf-e7-8e-8b-e6-b7-91-e8-8b-b1-the-first-farm-farmers|155. 蔡明殿, 王淑英 / The first farm & farmers, Newton, N.J. / 1982]] — documenting the couple as among the first Taiwanese farmers in Newton, N.J., which predates and grounds her later education-sector career (育合春教育基金會 董事長, 全國教保產業工會 創會理事長).
 - Her own TAH Who's Who encyclopedia entry: [[works/taiwaneseamericanhistory-org/842-suing-wang-e7-8e-8b-e6-b7-91-e8-8b-b1-201602|842. Suing Wang 王淑英 / 2016/02]].
 
-## Corpus check (2026-09-22)
-- Idempotent re-verify (slice 09220500-12): fresh grep — hit set (#155, publication944, publication945, #842, works index) fully linked above; no new absorbable corpus facts.
+## Corpus check (2026-09-23)
+- Idempotent re-verify (slices 09220500-12, 09221300-23): fresh grep — hit set (#155, publication944, publication945, #842, works index) fully linked above; no new absorbable corpus facts. SKIP.
 
 ## Sources
 - [TAH #842 encyclopedia: 842. Suing Wang 王淑英 / 2016/02](https://taiwaneseamericanhistory.org/842-suing-wang-%e7%8e%8b%e6%b7%91%e8%8b%b1-201602/)

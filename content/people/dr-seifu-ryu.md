@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # Dr. Seifu Ryu (劉清風醫師)
 
@@ -49,3 +49,7 @@ Accomplishment
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+## Worklog
+
+- 2026-09-23 deepen-x slice 09221300-26: re-verified saturated — fresh grep against works/ + articles/ returns the same 6 files (OJ #285, OJ #270, TAH #1847, firstfamous #391, my-stories #774, index), all already wikilinked in Role in the Community; no new absorbable facts.
