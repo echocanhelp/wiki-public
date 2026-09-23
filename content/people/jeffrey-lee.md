@@ -53,3 +53,4 @@ _No filled family fields on the TAH profile._
 
 2026-09-22 re-check: corpus re-grep (Jeffrey Lee / 李友禮) returned only the works already cited above (our-journeys 376/378, ourjourneys79, columns3, my-stories-406, 831) — no new absorbable facts.
 2026-09-22 re-check (slice 09220400-18): SKIP — same hit set re-grepped ZH+EN; all six work pages already cited and linked above. No new absorbable corpus facts.
+2026-09-23 re-check (slice 09221200-26): same six work pages re-grepped ZH+EN (376/378, ourjourneys79, columns3, my-stories-406, 831); all cited and linked. SKIP. HOLD (d. 2017 vs profile living-era) still standing.
