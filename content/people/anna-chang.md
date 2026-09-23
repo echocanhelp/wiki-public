@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # Anna Chang (張月英)
 
@@ -36,6 +36,7 @@ last_reviewed: 2026-09-22
 - A second independent memoir corroborates the shutdown confirmation: [[works/taiwaneseamericanhistory-org/ourjourneys154|154. 完美的句點 / 陳桂蘭 / 2015-07]] (band A, NATWA 點心擔 column retrospective) records 「經向張月英總會會長確認，才知道是真的」 — and identifies the association as 北美洲臺灣婦女會 ([[organizations/north-america-taiwanese-womens-association|NATWA]]), whose 點心擔 column the 公論報副刊 hosted; the 婦女會 page recalls the paper as 「感謝公論報給了婦女會這塊園地」.
 - Who's Who record: [[works/taiwaneseamericanhistory-org/whos-anna-chang|985. Anna Chang 張月英 / 2016/05]] (band B). IRS Enrolled Agent per the TAH profile.
 - HOLD: education — corpus memoir records 輔仁大學哲學系; the TAH Who's Who profile carries no education field, so the two are non-conflicting but the memoir is the sole source and is held unverified.
+- 2026-09-23 corpus re-grep (張月英 / Anna Chang, DEEPEN-X slice 09221200-21): hit-set unchanged (#985 who's-who, ourjourneys49, ourjourneys154, ourjourneys33, works index) — all corpus facts already absorbed above; nothing new absorbable.
 
 ## Sources
 - [TAH #985 encyclopedia: 985. Anna Chang 張月英 / 2016/05](https://taiwaneseamericanhistory.org/whos-anna-chang/)
