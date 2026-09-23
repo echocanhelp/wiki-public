@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # Mei Fun Tsai (吳美芬)
 
@@ -39,7 +39,9 @@ Accomplishment
 - Historical recorder for the physician community: organized 周烒明's memoir of the early North American Taiwanese Medical Association into publishable form — 周烒明撰・吳美芬整理, covering 1983–1990 ([[works/taiwaneseamericanhistory-org/ourjourneys74|74. 1983至1990的北美洲台灣人醫師協會]]).
 - Co-editor of 周烒明's essay 「台灣學生在台灣建國運動所扮演的角色」 (周烒明起稿・吳美芬整理) on the identity transformation of Taiwanese students in the US — early 留美世代 from apolitical retreat to 國家認同 self-conclusion, Madison/Wisconsin as case study ([[works/taiwaneseamericanhistory-org/ourjourneys81|81. 台灣學生在台灣建國運動所扮演的角色]]).
 - Personal archive held by the community: her collection is preserved as a TAH record ([[works/taiwaneseamericanhistory-org/collection-of-mrs-mei-fun-tsai|61. Collection of Mrs. Mei Fun Tsai 吳美芬女士的收藏]]).
+- The NATMA history was also preserved in an English edition under her joint byline — 周烒明・吳美芬 著, "NATMA, 1983 to 1990" ([[works/taiwaneseamericanhistory-org/ourjourneys74-eng|74. NATMA, 1983 to 1990 / Suy-Ming Sam Chou, Mei Fun Tsai]]).
 - Naming note: corpus records carry her as 吳美芬 while the English name uses the married surname Tsai (husband [[people/s-i-tom-tsai|蔡式宜]]) — consistent, no conflict.
+- Re-grep 複核 (deepen-x slice 09220900-14, 2026-09-23): ZH+EN re-grep against works/ + articles/ returns only the six works already wikilinked above (now incl. the English edition of #74); corpus-saturated, no further material.
 
 
 ## Sources

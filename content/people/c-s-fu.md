@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # C.S. Fu (傅舟山)
 
@@ -56,6 +56,9 @@ last_reviewed: 2026-09-22
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+## Corpus re-grep (2026-09-23, slice 09220900-13)
+- SKIP: re-grep 傅舟山 / C.S. Fu 命中集不變 — 本人 TAH #1151、works index、及已吸收之 TJJ 三篇（會館會訊 2018-06-27、WHA 聲明 2021/2025）；無新語料可吸收（saturated）。
 
 ## Corpus re-grep (2026-09-22, slice 09211400-15)
 - SKIP: re-grep 傅舟山 / C.S. Fu 命中集與前次相同 — 本人 TAH 記錄 [[works/taiwaneseamericanhistory-org/whoswho1151|TAH #1151]]、works index、及已吸收之 TJJ 三篇（會館會訊 2018-06-27、WHA 聯合聲明 2021 及 2025 快照）；無新語料可吸收。
