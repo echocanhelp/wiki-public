@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # NYU Taiwanese American Student Society
 
@@ -26,6 +26,7 @@ Community-press coverage names NYU TASS directly across the 2011–2013 wave of 
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/nyu-taiwanese-american-student-society/)
 
 ## Re-grep log
+- Corpus re-grep 2026-09-23 (slice 09221000-3): SKIP — hit set unchanged (ourjourneys219/283/256, index, tass-night-market-at-nyu, nyus-tass-hosts-first-general-meeting-2 and the other already-linked press records); every hit is already absorbed or explicitly rejected above; no new attributable facts.
 - Corpus re-grep 2026-09-22 (slice 09212352-6): SKIP — no new attributable facts. Two fresh NYU hits checked and rejected: Our Journeys #283 names Washington Square/NYU Robert Student Center only as the venue of a 1970s 台美人年會 (pre-dates TASS's 2002 founding — venue fact, not org fact), and Our Journeys #256 mentions 紐約大學醫學院 only as a neurologist's alma mater ([[works/taiwaneseamericanhistory-org/ourjourneys283|#283]], [[works/taiwaneseamericanhistory-org/ourjourneys256|#256]]).
 - Corpus re-grep 2026-09-21 (slice 09210317-4): SKIP — no corpus hit names TASS. New NYU matches are unrelated: NYU Langone-Brooklyn as a mask-donation recipient (Our Journeys #360 context), Ang Lee as an NYU alum (TA.org film essay), and Audrey Tseng (NYU undergrad active in TANG/FAPA-YPG, not TASS) in Keep Taiwan Free / Reflections on 228 — no facts attributable to this org.
 

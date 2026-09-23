@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # David S. Chen (陳皙宗牧師)
 
@@ -53,6 +53,7 @@ HOLD: corpus gives the middle-initial form "David S. **C.** Chen" vs the page's 
 HOLD: the corpus records [[works/taiwaneseamericanhistory-org/376-david-chen-e9-99-b3-e7-ab-8b-e5-81-89-201504|TAH #376 David Chen 陳立偉]], [[works/taiwaneseamerican-org/join-tacl-in-learning-taiwanese-with-david-chen-in-la|TACL 台語教學記錄 (2012)]] and [[works/taiwaneseamerican-org/marilyn-fu|Marilyn Fu record]] carry an entity backlink to this page, but each also links [[people/david-t-k-chen|David T. K. Chen]] and none's body text names 陳皙宗 — treated as ambiguous "David Chen" linkage, not absorbed.
 
 - Corpus grep (re-run 2026-09-22, slice 09212352-5): hits are exactly the records already absorbed above (ourjourneys270, 942, whos876, sisterhood-of-night, plus the ambiguous 376/TACL links under HOLD); no new absorbable material (SKIP-with-reason, page saturated).
+- Corpus grep (re-run 2026-09-23, slice 09221000-3): hit set identical (ourjourneys270, 942, whos876, sisterhood-of-night, index, plus the ambiguous 376/TACL links under HOLD); nothing new absorbable — SKIP-with-reason, page saturated.
 
 ## Sources
 - [TAH #876 encyclopedia: 876. David S. Chen 陳皙宗](https://taiwaneseamericanhistory.org/whos876-david-s-chen/)

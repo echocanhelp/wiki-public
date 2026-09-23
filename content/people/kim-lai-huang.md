@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # Kim Lai Huang (黃金來)
 
@@ -43,6 +43,7 @@ _No filled family fields on the TAH profile._
 - 平原區台灣人秋令會 — in 1983 the idea for a Great Plains Taiwanese camp meeting was conceived in Manhattan, Kansas by 林啓東 together with local 同鄉 professors 范良正、楊景文、刁明華 and 黃金來; the first session was held in 1985 at Rock Spring (4-H Club grounds, Manhattan, KS) ([[works/taiwaneseamericanhistory-org/our-journeys-351|平原區秋令會沿革]] · [[works/taiwaneseamericanhistory-org/ourjourneys296|296. 平原區秋令會]]).
 - 複核（deepen-x slice 09210400-1, 2026-09-21）：corpus re-grep 命中 mystories372、ourjourneys-138、ourjourneys8(-eng)、ourjourneys69(-eng)、our-journeys-351、ourjourneys296、725 書目條目、TJJ 王泰和追思報導 — 全部已吸收並連結，SKIP-with-reason：語料已飽和。
 - 複核（deepen-x slice 09212352-3, 2026-09-22）：再比對 — 命中集與前次相同，無新語料可吸收；KU vs KSU 校別 HOLD 維持。
+- 複核（deepen-x slice 09221000-3, 2026-09-23）：corpus re-grep（works+articles，ZH+EN）命中 mystories372、ourjourneys-138、ourjourneys8(-eng)、ourjourneys69(-eng)、our-journeys-351、ourjourneys296、725 書目條目、TJJ 王泰和追思報導 — 與前次命中集相同，全部已吸收並連結 — SKIP-with-reason：語料已飽和；KU vs KSU HOLD 維持。
 - HOLD: conflict in university affiliation — 王泰和's memorial interview places him at the University of Kansas ([[articles/taiwanjustice-net/2025/20250811013132_化作千風_懷念台美人的人權鬥士_台獨先鋒王泰_31b7081a5d37939f|TJJ, 2022-07-12]]) vs TAH Who's Who employment record 堪薩斯州立大學; not auto-merged.
 
 ## Sources
