@@ -35,6 +35,7 @@ last_reviewed: 2026-09-23
 - **Poetry in the pandemic record:** his 「COVID-19 2020——俳句十五則」 was collected in the 台美人 pen 網「Covid-19 浩劫餘生錄」 series (published 2020-10-22, republished 2021-04-13) alongside fellow community writers such as 李淑櫻 — [[articles/taiwanjustice-net/2020/20201120161617_category_covid-19_c48e08c7f2c3bf8d| Covid-19 浩劫餘生錄 (2020)]], [[articles/taiwanjustice-net/2021/20211129024830_category_covid-19_c9dd9fb782cc99b8| (2021 rerun)]]. The haiku sequence places him in the community's literary response to the pandemic, in Chinese under his pen-name usage 何康隆.
 - TAH Who's Who encyclopedia record: [[works/taiwaneseamericanhistory-org/whos-who-1960-khang-loon-ho||1960. Dr. Khang-Loon Ho 何康隆醫師]] (bibliographic, band B).
 - Corpus re-grep 2026-09-22 (slice 09211400-25): works/articles hits for 何康隆 / Khang-Loon Ho are only the records already absorbed above (TAH #1960, 我們的旅程 #269, the two Covid-19 浩劫餘生錄 pages, index listings) — no new community material absorbable.
+- Corpus re-grep 2026-09-23 (slice 09220900-19): 何康隆 / Khang-Loon Ho hits remain only the absorbed records (TAH #1960, 我們的旅程 #269, both Covid-19 浩劫餘生錄 pages, index). Verified-saturated.
 
 ## Family
 
