@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # Gene Cho (卓仁祥)
 
@@ -48,3 +48,4 @@ Gene Cho, Professor of Music, has been on the UNT faculty since 1972. He receive
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - Re-grep 2026-09-22 (slice 09211500-28): corpus hits re-confirmed = own directory records (#669, #303) + index only. Verified saturated; nothing new absorbable. SKIP.
+- Re-grep 2026-09-23 (slice 09221000-25): corpus hits re-confirmed = own directory records (#669, #303 typo-variant) only; hit set identical to the linked records above. Verified saturated; nothing new absorbable. SKIP.

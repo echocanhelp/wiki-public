@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # Prof. Christina Long (隆愛真教授)
 
@@ -47,4 +47,4 @@ Prof. Christina Long 隆愛真教授 – History of Taiwanese American (T.A. Arc
 
 ## Deepen-x note (2026-09-21, slice 09201503-5; re-verified 2026-09-22, slice 09211500-23)
 
-- Verified-saturated: re-grep for 隆愛真 / Christina Long returns only works-index rows pointing at the two archive records already absorbed ([[works/taiwaneseamericanhistory-org/musician-christina-long|418]] and [[works/taiwaneseamericanhistory-org/whos-who-1772-christina-long|1772]]). No memoir material; SKIP-for-deepening.
+- Verified-saturated: re-grep for 隆愛真 / Christina Long returns only works-index rows pointing at the two archive records already absorbed ([[works/taiwaneseamericanhistory-org/musician-christina-long|418]] and [[works/taiwaneseamericanhistory-org/whos-who-1772-christina-long|1772]]). No memoir material; SKIP-for-deepening. Re-verified 2026-09-23 (slice 09221000-26): hit set unchanged; both corpus hits are bibliographic records of the person's own TAH entries. SKIP.
