@@ -45,6 +45,8 @@ HERMIT Jackson Kuo is born in Taiwan in 1950. He is not a real hermit but in spi
 
 ## From the record
 
+- 再核（TJJ-A09221500-12, 2026-09-23）：本 slice 文章 c595d332038f73bb「Taiwan」標籤頁正文再驗證——「中國外交官在美國丟人現眼/郭敏俊/9-9-2012」條目確認見於清單，連結為真；下方 2012-09-09 日期事實已在庫，無錯鏈、無虛鏈、無新材料。
+
 - **2012-09-09** — 台灣公義報台美人台加人欄發表「中國外交官在美國丟人現眼/郭敏俊/9-9-2012」投書（[[articles/taiwanjustice-net/2024/20240620184257_root_c595d332038f73bb|TJJ Taiwan標籤頁, 2024-06-20 存檔]]）。
 
 ## Sources
