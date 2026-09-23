@@ -219,6 +219,8 @@ Notable quotes and mentions of **陳柏宇** in Taiwan Justice articles:
 
 ## From the record
 
+- 複核（TJJ-A09221200-5, 2026-09-23）：本 slice 文章 [[articles/taiwanjustice-net/2025/20250614233935_2023台美小姐選拔賽_盛大舉行-宋依珊_mimiq-soong_奪后_79b5f26fdef89d22|TJJ 79b5f26f]] 正文再驗證——subject link 為真實對應，對應日期事實條目已在庫，無錯鏈、無虛鏈 — SKIP，無新材料。]
+
 - 複核（TJJ-A09220400-5, 2026-09-22）：subject link 經本 slice 再驗證為真實對應，对应 From-the-record 条目已在库（无错链、无虚链）— SKIP，无新材料。
 
 - 2018-06-27 — 大洛杉磯台灣會館第11屆第一次董事會選出陳柏宇為第一副董事長（董事長田詒鴻）；會訊並列其為 20 位新任個人董事名單之一（[[articles/taiwanjustice-net/2020/20201118162555_2018_06_27_大洛杉磯台灣會館會訊_2018-年六月-_大洛杉磯台灣_79291dad808ef7f7|TJJ，2018-06-27]]）。

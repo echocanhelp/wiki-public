@@ -41,6 +41,8 @@ Led FORMOSAT-1 (福衛一號) launch team as head of launch group at National Sc
 
 ## From the record
 
+- 複核（TJJ-A09221200-5, 2026-09-23）：本 slice 文章 [[articles/taiwanjustice-net/2026/20260121010227_斯人已逝_其德可追-緬懷鄭寶鼎博士-_-林宏容_9907500dda4f33bb|TJJ 9907500d]] 正文再驗證——subject link 為真實對應，對應日期事實條目已在庫，無錯鏈、無虛鏈 — SKIP，無新材料。]
+
 - 複核（TJJ-A09220400-5, 2026-09-22）：subject link 經本 slice 再驗證為真實對應，对应 From-the-record 条目已在库（无错链、无虚链）— SKIP，无新材料。
 
 - 2017-05-24 — 主講長青教室「講真話 博真情」，見台灣公義報「台美人台加人」分類 長青教室 標籤彙整頁（2017-05-25 刊）—— [[articles/taiwanjustice-net/2024/20240620173328_root_2777c88877eee2c5|TJJ tag 長青教室, 2024-06-20 存檔]]。

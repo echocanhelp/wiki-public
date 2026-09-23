@@ -45,6 +45,8 @@ last_reviewed: 2026-09-23
 
 ## From the record
 
+- 複核（TJJ-A09221200-5, 2026-09-23）：本 slice 文章 [[articles/taiwanjustice-net/2026/20260121010227_斯人已逝_其德可追-緬懷鄭寶鼎博士-_-林宏容_9907500dda4f33bb|TJJ 9907500d]] 正文再驗證——subject link 為真實對應，對應日期事實條目已在庫，無錯鏈、無虛鏈 — SKIP，無新材料。]
+
 - 複核（TJJ-A09220400-5, 2026-09-22）：subject link 經本 slice 再驗證為真實對應，对应 From-the-record 条目已在库（无错链、无虚链）— SKIP，无新材料。
 
 - 2020-09-30 — 林宏容's memorial essay for 鄭寶鼎博士 (TJJ) records Wang as one of the founding builders of 台美史料中心: he joined the first 籌備會議 at 陳立明博士's home in 2010, and took charge of the centre's audio and audiovisual equipment when Bob Cheng opened the Irvine site in 2014-02 ([[articles/taiwanjustice-net/2026/20260121010227_斯人已逝_其德可追-緬懷鄭寶鼎博士-_-林宏容_9907500dda4f33bb|林宏容 via TJJ, 2020-09-30]]).

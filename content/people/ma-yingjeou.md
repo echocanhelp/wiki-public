@@ -7,7 +7,7 @@ tags:
   - taiwanjustice-net
   - thin-page
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # Ma Ying-jeou (馬英九)
 
@@ -29,6 +29,8 @@ last_reviewed: 2026-09-22
 - **Do not invent:** No birth data, family, or private contact on this page
 
 ## From the record
+
+- 複核（TJJ-A09221200-5, 2026-09-23）：本 slice 文章 [[articles/taiwanjustice-net/2024/20240224194137_root_b1e144ecc18e460f|TJJ b1e144ec]] 正文再驗證——subject link 為真實對應，對應日期事實條目已在庫，無錯鏈、無虛鏈 — SKIP，無新材料。]
 
 - 再核（TJJ-A09220700-8, 2026-09-22）：本 slice 文章 9e7164ea03c1512b〈The Madness of Ma〉正文再驗證——Healey 直指馬英九政府「slow-motion form of murder」、支持度約11%、天主教育背景與「Thou Shalt Not Kill」等論述確認，連結為真；2013-04-22 條目已在庫，無新材料。
 

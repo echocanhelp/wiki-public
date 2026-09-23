@@ -8,7 +8,7 @@ tags:
   - taiwanjustice
   - publication-contributor
 verification_status: pending
-last_reviewed: 2026-08-30
+last_reviewed: 2026-09-23
 ---
 
 # Li Hsiao-feng / 李筱峰
