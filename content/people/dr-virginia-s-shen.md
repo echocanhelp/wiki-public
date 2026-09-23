@@ -28,6 +28,7 @@ Dr. Virginia S. Shen 李香蘭教授 – History of Taiwanese American (T.A. Arc
 - The husband 沈耀初 has his own community record: TAH encyclopedia entry [[works/taiwaneseamericanhistory-org/whos-who-1825-y-c-shen|1825. Prof. Y. C. (Eric) Shen 沈耀初教授]] (published 2017-08-07) and wiki page [[people/prof-y-c-eric-shen|Prof. Y. C. (Eric) Shen]] — the "Eric" + 沈耀初 pairing matches, but see HOLD below.
 - HOLD: husband's surname romanized "Chen" on the TAH profile vs. Chinese 沈耀初 (Shen, Wade-giles Tchen/Chen ambiguity); also whether the Chicago Taiwanese Association chairman 沈耀初 (2015–2018) and encyclopedia subject 沈耀初教授 are the same person as her husband is unconfirmed. Not merged.
 - Disambiguation: the film 「李香蘭的世界」 mentioned in [[works/taiwaneseamericanhistory-org/ourjourneys279|Our Journeys #279]] refers to the WWII-era singer 李香蘭, not this educator — corpus hits on that title are not about her.
+- Corpus re-grep (slice 09221100-23, 2026-09-23): hit set unchanged — own record [[works/taiwaneseamericanhistory-org/whos-who-1947-virginia-s-shen|TAH #1947]], the singer-film mention in [[works/taiwaneseamericanhistory-org/ourjourneys279|Our Journeys #279]] (confirmed: 「李香蘭的世界」 there is filmmaker 陳玫君's documentary, about the WWII singer, not her), plus index. Nothing new absorbable — SKIP (verified-saturated).
 
 <!-- tah-tables:start -->
 ## Education

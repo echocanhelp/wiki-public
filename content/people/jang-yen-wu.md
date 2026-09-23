@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # Jang-Yen Wu (吳政彥)
 
@@ -56,3 +56,4 @@ Assistant, Associate, Senior Scientist and Section Head
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- Corpus re-grep 2026-09-23 (DEEPEN-X slice 09221100-24): hit set unchanged — Our Journeys 231 (ZH + EN), TAH #591, works index; HOLD (Jang-Yen vs Chen-Yen, same 吳政彥) stands, no new facts. SKIP-with-reason.

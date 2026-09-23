@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # Amy Hsu (蘇惠美)
 
@@ -52,3 +52,4 @@ last_reviewed: 2026-09-22
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- Corpus re-grep 2026-09-23 (DEEPEN-X slice 09221100-24): hit set unchanged — Our Journeys 369 / 123-eng / 147, mystories533, TAH #508; all absorbed above, both HOLDs stand (Minnesota-1960 vs 政大-1963; 師大 蘇惠美 same-name different person). SKIP-content.

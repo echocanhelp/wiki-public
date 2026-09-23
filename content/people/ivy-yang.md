@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # Ivy Yang (楊靜芬)
 
@@ -53,3 +53,4 @@ _No filled family fields on the TAH profile._
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - [[sources/taiwanjustice-net||taiwanjustice.net source hub]]
+- Corpus re-grep 2026-09-23 (DEEPEN-X slice 09221100-24): hits unchanged — TAH #1716, works index, TJJ exhibition report already cited. SKIP-content; painter-vs-CFP HOLD stands.

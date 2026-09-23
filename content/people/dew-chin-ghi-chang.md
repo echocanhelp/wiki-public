@@ -61,6 +61,8 @@ HOLD: conflict — TAH #2057 era field "1911-2006" vs. corpus memoir providing n
 
 Corpus re-grep (slice 09212352-23, 2026-09-22): hit set unchanged — memoir [[works/taiwaneseamericanhistory-org/ourjourneys33|Our Journey #33]], TACL roster [[works/taiwaneseamericanhistory-org/ourjourneys186-eng|Our Journey #186]], family record [[works/taiwaneseamericanhistory-org/ff361|TAH #361]], own entry [[works/taiwaneseamericanhistory-org/whos-dew-chin-ghi-chang|TAH #2057]], plus index listings. All corpus facts above already absorbed; no new memoir mentions — SKIP (verified-saturated).
 
+Corpus re-grep (slice 09221100-23, 2026-09-23): same hit set (ourjourneys33, ourjourneys186-eng, ff361, whos-dew-chin-ghi-chang, index); ff361 title confirms the family memoir framing (張清祺一家人為台灣建國事業努力一生, 1964–present, 2018), already cited. Nothing new absorbable — SKIP (verified-saturated).
+
 ## Sources
 - [TAH #2057 encyclopedia: 2057. DEW Chin-Ghi Chang 張清祺 / 03/2018](https://taiwaneseamericanhistory.org/whos-dew-chin-ghi-chang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dew-chin-ghi-chang/)
