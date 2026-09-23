@@ -46,6 +46,8 @@ _No filled family fields on the TAH profile._
 
 ## From the record
 
+- 複核（TJJ-A09221500-5, 2026-09-23）：本 slice 文章 fa11a6eb346678c2（大洛杉磯台灣會館標籤頁, 2021-01-16 快照）正文再驗證——「健康講座-黃重德醫師2/1在橙僑中心，2/2在大洛杉磯台灣會館主講『認識武漢肺炎』」確認見於清單，subject 連結為真，無錯鏈、無虛鏈；2020-01-31 條目已在庫 — SKIP，無新材料。
+
 - 2020-01-31 — 台灣公義報「大洛杉磯台灣會館」標籤頁存檔收錄：黃重德醫師2月1日在橙僑中心、2月2日在大洛杉磯台灣會館主講健康講座「認識武漢肺炎」，是疫情初期南台社群的衛教宣導者之一（[[articles/taiwanjustice-net/2021/20210117065936_tag_大洛杉磯台灣會館_fa11a6eb346678c2|TJJ 大洛杉磯台灣會館標籤頁, 2021-01-16 快照]]）。
 - 2020-01-31 — The same lecture pair is listed on TJJ's NATMA tag index: 「健康講座-黃重德醫師2/1在橙僑中心，2/2在大洛杉磯台灣會館主講『認識武漢肺炎』」 — the NATMA-affiliated framing of the same 2020-02 event ([[articles/taiwanjustice-net/2021/20211205054918_tag_natma_08b829765b2a5939|TJJ Tag: NATMA, 2021-12-05 存檔]]).
 
