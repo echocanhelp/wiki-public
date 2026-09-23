@@ -7,7 +7,9 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
+
+<!-- deepen-x slice 09221000-29 (2026-09-23): re-verified — fresh ZH+EN grep; only new hit is the same ourjourneys-369 memoir passage (Maki 吳真希 organist → 1963-10 marriage), already absorbed in Role in the Community. SKIP (saturated). -->
 ---
 # Herbert T Chen (陳志青)
 

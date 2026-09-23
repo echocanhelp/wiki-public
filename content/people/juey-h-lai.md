@@ -7,7 +7,9 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
+
+<!-- deepen-x slice 09221000-29 (2026-09-23): re-verified — fresh grep of 賴瑞宏/Juey H. Lai returns only ourjourneys15 + ourjourneys123, both already absorbed (台灣攤「死黨」, 1998 同鄉會會長, 雲門接待會, 《懷念張麗惠》_intro). Note: the FON exhibit volunteer "Herbert" in ourjourneys15 is a younger 新血, not Herbert T Chen 陳志青 (b.1935) — no cross-link. SKIP (saturated). -->
 ---
 # Juey H. Lai (賴瑞宏博士)
 
