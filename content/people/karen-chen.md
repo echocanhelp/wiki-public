@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # Karen Chen (陳楷雯)
 
@@ -39,6 +39,7 @@ Track of her coverage in the TAH community archive:
 - 2026-09-21 re-grep (deepen-x slice 09210317-7): fresh grep (works+articles) hits confined to the already-linked records (TAH #2/#240/#313/#1486/#1988, #823, #1204) — no new absorbable facts; existing HOLD above kept, no dates merged.
 - **HOLD: era "1999" in snapshot vs TAH #1486/#2 dated 2017/01 describing her as 17-year-old** — consistent (born 1999), kept as-is; no dates merged.
 - 2026-09-22 re-grep (deepen-x slice 09212352-15): fresh grep (陳楷雯／Karen Chen, works+articles) hits confined to the already-linked records (TAH #2/#240/#313/#1486/#1988, #823, #1204) — no new absorbable facts; existing HOLD kept, no dates merged.
+- 2026-09-23 re-grep (slice 09221000-12): fresh grep (陳楷雯／Karen Chen, works+articles) hits confined to the already-linked records; the extra hit whos871 (Michellee Shaw Chen) is a different person. No new absorbable facts; existing HOLD kept, no dates merged.
 
 ## Family
 

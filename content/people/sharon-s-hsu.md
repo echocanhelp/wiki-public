@@ -44,6 +44,7 @@ last_reviewed: 2026-09-23
 - Corpus re-grep 2026-09-21 (slice 09191100-5 retry): SKIP — hit set again unchanged; nothing new to absorb.
 - Corpus re-grep 2026-09-21 (slice 09210317-6): SKIP — hit set unchanged (own TAH #36/#42/#165/#263, Our Journeys 264, works index), all already linked; nothing new to absorb.
 - Corpus re-grep 2026-09-22 (slice 09212352-11): SKIP — hit set unchanged (own TAH #36/#42/#165/#263, Our Journeys 264, works index), all already linked; nothing new to absorb.
+- Corpus re-grep 2026-09-23 (slice 09221000-11): SKIP — hit set unchanged (own TAH #36/#42/#165/#263, Our Journeys 264, works index), all already linked; nothing new to absorb.
 
 ## Sources
 - [TAH #42 encyclopedia: 42. Paul (Chung Chen) and Sharon Hsu 許忠政, 許聖美 / The first private business enter](https://taiwaneseamericanhistory.org/ff42/)

@@ -35,6 +35,13 @@ Re-grepped 2026-09-22 (slice 09211500-23): ZH+EN hits are only parent-org-level 
 [[works/taiwaneseamericanhistory-org/19-dr-fu-mei-chang-e5-bc-b5-e5-af-8c-e7-be-8e-e5-8d-9a-e5-a3-ab-the-first-presid|19. 張富美 first-NATWA-president record]], Kansas chapter scholarship records)
 plus the already-disambiguated TAA/NJ records — no NJ-chapter-specific new material; verified saturated.
 
+Re-grepped 2026-09-23 (slice 09221000-14): 紐澤西分會/New Jersey Chapter/NATWA hits are its own record
+([[works/taiwaneseamericanhistory-org/natwa-new-jersey-chapter|natwa-new-jersey-chapter]],
+[[works/taiwaneseamericanhistory-org/study-group-nj|study-group-nj]]), parent-org-level NATWA chapter records
+(San Diego, Oregon/Southwest, St. Louis, ourjourneys253, columns17, concerts118), a FAPA NJ record
+(176. 徐墨齡 Maurice Hsu — FAPA, not NATWA), and the already-disambiguated TAA/NJ records — no new
+NJ-chapter material; verified saturated, no conflicts.
+
 See parent org [[organizations/north-america-taiwanese-womens-association|NATWA 北美洲台灣婦女會]].
 
 ## Sources

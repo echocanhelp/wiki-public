@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # Dr. Jia-Huey Lin Yu (林佳惠博士)
 
@@ -41,6 +41,7 @@ First President of Taiwanese American Seniors Society of Greater Washington, DC�
 - Career record (from TAH table): D.D.S. National Taiwan Univ. 1966 → Ph.D. Pharmacology, Univ. of Michigan 1973 → Assistant Professor Univ. of Alabama 1978–1983 → Associate Professor Georgetown Univ. 1983–1996.
 - NOT-MERGE note (2026-09-21 corpus sweep): a 2025 台灣派工網/決策者 interviewee 「林佳慧」 (林聰明沙鍋魚頭執行長, 嘉義) is a different person — different hanzi (慧 vs 惠) and occupation; do not link.
 - Re-grep 2026-09-22 (slice 09212352-14): 林佳惠 / "Jia-Huey Lin Yu" across works/ + articles/ returns only her own TAH Who's Who record [[works/taiwaneseamericanhistory-org/whos-who-152-jia-huey-lin|TAH #152]] (already cited) plus the works index — verified saturated, no new corpus facts.
+- 2026-09-23 re-grep (slice 09221000-12): fresh grep (林佳惠／Jia-Huey／Lin Yu, works+articles) — the only other raw hits are taiwaneseamerican-org pieces about 林雨純 ("Lin Yu" substring match), not this person; her records remain [[works/taiwaneseamericanhistory-org/whos-who-152-jia-huey-lin|TAH #152]] plus the TASS bulletins already cited. Verified saturated, no new facts, no conflicts to HOLD.
 
 
 ## Sources
