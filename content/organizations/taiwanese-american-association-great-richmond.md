@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # Taiwanese American Association Great Richmond (大雷城)
 
@@ -24,6 +24,7 @@ The Taiwanese American Association Great Richmond (大雷城 台灣同鄉會) is
 - HOLD: no founding date, officer roster, or activity detail found in the corpus beyond the 2015-11-09 directory record — do not infer chapter history from press-kit boilerplate.
 - Corpus re-grep 2026-09-22 (deepen-x slice-12): fresh grep (大雷城/里奇蒙/Great Richmond/Richmond, VA) returned only the directory record — no founding date, roster, or activity detail in corpus; HOLD stands, SKIP-with-reason (saturated).
 - Re-verified 2026-09-22: fresh grep (大雷城/里奇蒙/Great Richmond/Richmond, VA) over works/ + articles/ returned only the 2015-11-09 directory record — no further chapter history in corpus; HOLD stands.
+- Re-verified 2026-09-23 (slice 09221500-10): fresh grep returned only the directory record; SKIP-with-reason (saturated), HOLD stands.
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-american-association-great-richmond/)
