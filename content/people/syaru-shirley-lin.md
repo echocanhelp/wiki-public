@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # Syaru Shirley Lin (林夏如)
 
@@ -57,3 +57,4 @@ last_reviewed: 2026-09-22
 
 複核（deepen-x 2026-09-21）：corpus re-grep（works+articles）命中 whoswho1344、whos-who-1695（Rev. Shirley Lin 本人記錄，與林夏如無關）、四篇 TJJ 引述（2021 雙十演說評述、陳昭南專欄兩版本、2025 晶片與鳳梨）及 index，全數已吸收並 wikilink；TAH 名錄記錄與 Rev. Shirley Lin 並列屬不同人，維持不合併。無新增社群材料。
 複核（deepen-x 2026-09-22, slice 09211500-8）：corpus re-grep（林夏如 / Syaru Shirley Lin）命中集合不變，verified-saturated，無新增社群材料。
+複核（deepen-x 2026-09-23, slice 09220900-7）：corpus re-grep（林夏如 / Syaru Shirley Lin，works+articles）命中集合不變（whoswho1344、index、四篇 TJJ 引述），全數已吸收，verified-saturated，無新增社群材料。

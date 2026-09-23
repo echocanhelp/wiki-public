@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # Dr. David Tsay (蔡丁財博士)
 
@@ -44,6 +44,7 @@ last_reviewed: 2026-09-22
 - **Houston TAA community-center charter team:** With 李雅彥 he completed the committee charter for the Houston Taiwanese community-center project; 謝貴分 and 楊朝諭 also served on the charter team, and his wife 蔡淑媛 (Susan Tsay) served on the secretarial team (文書組) — see [[works/taiwaneseamericanhistory-org/ourjourneys233|233. 回顧休士頓台灣人活動中心的成立 / 莊承業]] and its English counterpart [[works/taiwaneseamericanhistory-org/ourjourneys233-eng|233 (EN)]].
 - **Tahs profiles:** Also recorded in [[works/taiwaneseamericanhistory-org/whoswho2113|2113. David Tsay 蔡丁財 / 05/2018]] and [[works/taiwaneseamericanhistory-org/whos-who-2160-david-tsay|2160. Dr. David Tsay 蔡丁財博士]].
 - Consistent with his TAH Who's Who entry: Taiwanese Heritage Society of Houston founding member 1991, Chairperson 2002 and 2006.
+- HOLD (possible namesake): the TAANJ-associated signatory 「David Tsay, Taiwanese American Association of New Jersey(TAANJ)」 in the Taiwanese American statement recorded at [[works/taiwaneseamerican-org/pew-research-center-taiwanese-american-statement|Pew 台灣人聲明連署]] sits in a New Jersey context (with NJ churches/groups), while every other record for this subject places him in Houston — likely a different David Tsay; not merged.
 
 ## Sources
 - [TAH #2160 encyclopedia: 2160. Dr. David Tsay 蔡丁財博士](https://taiwaneseamericanhistory.org/whos-who-2160-david-tsay/)
@@ -58,3 +59,4 @@ last_reviewed: 2026-09-22
 複核（deepen-x 2026-09-20）：corpus re-grep 命中集合不變，本次補上 ourjourneys69-eng 英文版直接 wikilink（HOLD 雙邊錨定），無新增社群材料。
 複核（deepen-x 2026-09-21）：corpus re-grep（蔡丁財 / David Tsay，works+articles）命中集合不變（ourjourneys69/-eng、ourjourneys233/-eng、whoswho2113、whos-who-2160、86-dr-david-tsay、index）— 全數已吸收，verified-saturated，無新增社群材料。
 複核（deepen-x 2026-09-22, slice 09211500-8）：corpus re-grep 命中集合不變，verified-saturated，無新增社群材料。
+複核（deepen-x 2026-09-23, slice 09220900-7）：corpus re-grep（蔡丁財 / David Tsay，works+articles）新增命中 pew-research-center-taiwanese-american-statement（TAANJ 連署人，地理不符，記 HOLD 不併入）；其餘命中集合不變（ourjourneys69/-eng、ourjourneys233/-eng、whoswho2113、whos-who-2160、86-dr-david-tsay、index），已全數吸收。

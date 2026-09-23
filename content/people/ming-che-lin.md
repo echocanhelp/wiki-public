@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # Ming-che Lin (林明哲)
 
@@ -46,6 +46,8 @@ last_reviewed: 2026-09-22
 - 1981-11-06 — As 全美會 (NANSTAAN) 會長, co-invited (with 世台會理事長 陳唐山) US Taiwanese community representatives to a Washington meeting with Rep. 甘迺迪 and 索拉茲 pressing for the 二萬名台灣人移民配額 interpretation of the 台灣關係法 ([[works/taiwaneseamericanhistory-org/ourjourneys59|59. 二萬名移民額 / 蔡同榮 /2014/11]]). Corroborates active NANSTAAN presidency in Nov 1981 — consistent with the 1981 start in the leadership list above.
 - 2016 — 許永華's memoir of the 世台會巴西車禍 records 芝加哥林明哲 telling her through tears 「李友義走了」 ([[works/taiwaneseamericanhistory-org/ourjourneys249|249. 歡樂中的傷痛-記世台會 / 許永華 /09/2016]]) — places him in the Chicago 世台會 circle at the 2016 disaster, alongside the 歷屆芝加哥台灣同鄉會會長 1974 entry above.
 - HOLD: snapshot era 1933 vs 成大 1956 B.S. graduation (age 23) — plausible but unreconciled.
+
+複核（deepen-x 2026-09-23, slice 09220900-7）：corpus re-grep（林明哲 / Ming-che Lin，works+articles）命中集合不變（ourjourneys65/-eng、ourjourneys76/-eng、our-journeys-378、mystories587、ourjourneys315、ourjourneys249、ourjourneys59、whos1099、index），全數已吸收並 wikilink，verified-saturated，無新增社群材料。
 
 ## Sources
 - [TAH #587 encyclopedia: 587. 林明哲1991年闖關回到久別28年的台灣 / 林茗顯 /10/2017](https://taiwaneseamericanhistory.org/mystories587/)
