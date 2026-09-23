@@ -5,7 +5,7 @@ tags:
   - redirect
   - FPCLA
 verification_status: published
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # Formosan Presbyterian Church in Los Angeles (FPCLA)
 
@@ -38,3 +38,5 @@ The name "Formosan" (rather than "Taiwanese") reflects the founding era, when Fo
 - [[organizations/formosan-presbyterian-church-in-los-angeles||Formosan Presbyterian Church in Los Angeles (FPCLA)]]
 - [[people/albert-s-lai||Dr. Albert S. Lai (賴信雄)]]
 - [[organizations/national-taiwanese-presbyterian-council||National Taiwanese Presbyterian Council (NTPC)]]
+
+Re-verified 2026-09-23 (slice 09221200-11): fresh ZH+EN grep of works/ + articles/ returned only records already linked and absorbed on this page — verified-saturated, no new absorbable facts; SKIP for new content.

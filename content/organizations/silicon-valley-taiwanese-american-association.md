@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # Silicon Valley Taiwanese American Association (北加州)
 
@@ -30,3 +30,5 @@ The Silicon Valley Taiwanese American Association (矽谷台灣同鄉會) is a r
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+Re-verified 2026-09-23 (slice 09221200-11): fresh ZH+EN grep of works/ + articles/ returned only records already linked and absorbed on this page — verified-saturated, no new absorbable facts; SKIP for new content.

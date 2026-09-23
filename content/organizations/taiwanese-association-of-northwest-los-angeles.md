@@ -46,3 +46,4 @@ TANLA (洛杉磯西北區台灣同鄉會) is one of the better-documented LA-are
 - [[sources/taiwancenter-org||taiwancenter.org]]
 
 > Corpus re-scan 2026-09-22 (deepen-x slice 09210700-28): fresh grep for 北洛杉磯 / Northwest Los Angeles returns the same TANLA cluster (history-of-tanla, tanla, activities-of-tanla, newsletter-of-tanla) — all already linked. SKIP-deepen; nothing new absorbable.
+> Corpus re-scan 2026-09-23 (deepen-x slice 09221200-6): fresh grep TANLA / 洛杉磯西北區台灣同鄉會 — same cluster plus MANIFEST/index only; all linked. Verified saturated.

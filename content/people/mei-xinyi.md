@@ -8,7 +8,7 @@ tags:
   - human-rights
   - FAHR
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # 梅心怡 (Lynn Alan Miles)
 
@@ -34,3 +34,5 @@ Re-verified 2026-09-22 (slice 09210600-14): SKIP for new facts — every corpus 
 ## Related Pages
 - [[organizations/formosan-association-for-human-rights|FAHR 全美台灣人權協會]]
 - [[people/linda-gail-arrigo|艾琳達 Linda Gail Arrigo]]
+
+Re-verified 2026-09-23 (slice 09221200-11): fresh ZH+EN grep of works/ + articles/ returned only records already linked and absorbed on this page — verified-saturated, no new absorbable facts; SKIP for new content.

@@ -40,6 +40,7 @@ Senior Staff Engineer to Engineering Consultant
 - **對抗領事館的第一手記憶**（自 [[works/taiwaneseamericanhistory-org/ourjourneys-139||陳淮崇回憶錄]] 摘入）：社群戲稱領事館為「豬寮」——時人記當時總領事、副領事姓氏朱／諸含混，一概戲稱為「豬」。陳淮崇夫婦與呂理順夫婦等作為新抵休士頓的「生力軍」，與數人商議後決定「和豬寮一拼」，直接促成同樂會與同鄉會之成立；文中另記林榮長夫婦自1963年即定居休士頓，為社群最資深的引介者。連署名單亦及范振聲、鍾桂堂、呂子樵、呂俊雄、郭江海、何通橒、何英剛等家，社群規模大於前段所舉。
 - **自身回憶錄兩篇**：休城生涯五十多年 [[works/taiwaneseamericanhistory-org/mystories444||444. 回顧休城生涯五十多年（2016-06）]]；一九七零年前休城台灣人狀況（A級社區史料）[[works/taiwaneseamericanhistory-org/our-journeys-359||359. 一九七零年前休城臺灣人的狀況（2020-09）]]。
 - TAH encyclopedia record: [[works/taiwaneseamericanhistory-org/whos1080-li-shun-lu||1080. Li-Shun Lu 呂理順]]（2016-06）。
+- Corpus re-scan 2026-09-23 (deepen-x slice 09221200-6): fresh grep 呂理順 / Li-Shun Lu — hit set = mystories444 / our-journeys-359 / whos1080 / ourjourneys-139 only, all absorbed above; content greps return title lines only, no new absorbable facts. Verified saturated.
 
 ## Family
 
