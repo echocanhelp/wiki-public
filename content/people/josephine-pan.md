@@ -29,6 +29,8 @@ last_reviewed: 2026-09-22
 - 2024-02-24 — 以大洛杉磯台灣會館董事身份主持該館「2024年二二八追思紀念大會」（二二八事件77週年）；大會包含國史館館長陳儀深視訊演講、王秋森主講「二七部隊」、李賢群董事主講「陳篡地-斗六治安維持會」、南加州客家會合唱團表演及為228犧牲者燃燭默哀（[[articles/taiwanjustice-net/2024/20240412192704_root_95fd81860bafb5bf|TJJ, 2024-02-25]]）。
 - 2025-02-22 — 再度以台館董事身份與228系列活動召集人李賢群共同主持台館「228追思紀念大會」（主題「不義遺址的保存」，24社團協辦）；該場為台館拆除重建前最後一次在台館舉辦的228系列活動（[[articles/taiwanjustice-net/2025/20250320212940_大洛杉磯台灣會館等24個台美社團舉舉行228追思紀念_c62f5c50846fe267|TJJ report, 2025-02-24]]）。
 
+- 2024-02-28 — 以TUF前會長身份於第17屆「台灣介心靈日」228紀念音樂會（Arcadia Community Church）受訪表示，自二二八60周年起TUF與優社堅持2月28當晚以音樂會悼念、至今已17屆，紀念228心繫台灣、勿忘犧牲的台灣菁英與歷史正義的追求（[[articles/taiwanjustice-net/2024/20240522044953_root_47725345581e0f61|TJJ 影音報導, 2024-03-04]]）。
+
 ## Source Notes and Confidence
 
 - **Content priority A:** Name and role on https://www.taiwancenter.org/board (archived `taiwancenter-org-board.md`)

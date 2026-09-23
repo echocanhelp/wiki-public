@@ -80,6 +80,8 @@ Yang Ryan's profile in the 2017 TAHS publication was prepared by the Taiwanese A
 - [TAH #860 encyclopedia: 860. Shawna Yang Ryan 楊小娜 /2016/02](https://taiwaneseamericanhistory.org/whos-shawna-yang-ryan/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/shawna-yang-ryan/)
 
+- 2017-03-04 / 03-05 — 大洛杉磯台灣會館會訊公告：3月4日下午一時應台美人筆會等社團之邀在會館演講《綠島》創作經驗，3月5日下午三點在橙縣Tustin台灣人長老教會演講「Legacy: Seventy Years after 2-28」；會訊並記其為夏威夷大學文學教授、以七年寫成《綠島》獲NYT與LA Times推介（[[articles/taiwanjustice-net/2024/20240530134421_root_23da543a315a1fa1|TJJ 轉載台灣會館會訊，2017-02-17]]）。
+
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 

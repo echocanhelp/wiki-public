@@ -6,7 +6,7 @@ tags:
   - Taiwanese-American
   - Taiwan-Center-group-member
 verification_status: published
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # Formosan Association for Public Affairs Orange County (FAPA- OC)
 
@@ -24,6 +24,7 @@ last_reviewed: 2026-09-22
 - An earlier TAH directory record documents the chapter as "台灣人公共事務會加州柑縣分會" (2015-12-26) — [[works/taiwaneseamericanhistory-org/7-california-orange-county-chapter-fapa|7. California Orange County Chapter / FAPA]], pushing the chapter's documented footprint back to 2015.
 - The chapter maintained its own publication: the TAH record "FAPA/Orange County Chapter (台灣人公共事務會柑縣分會)" newsletter, published 2018-05-30 — [[works/taiwaneseamericanhistory-org/fapa-oc-newsletter|FAPA/OC Chapter Newsletter (2018)]].
 - Orange County movement milieu: the 美西夏令會 memoir (黃根深, 11/2016) recounts organizing drives into 柑縣 ("開始到聖地牙哥和柑縣，招兵買馬") and rotating meetings among Los Angeles, 柑縣, and San Diego — [[works/taiwaneseamericanhistory-org/ourjourneys265|265. 2011年美西夏令會的回顧]]; context for the chapter's environment, not a FAPA-OC-specific record.
+- **2011 唐培理致敬餐會 co-host** — the chapter joined FAPA 洛杉磯 and 聖地牙哥 chapters in hosting the 台美人向唐培理牧師、唐秋詩博士致敬餐會 on 2011-10-08 at the Atrium Hotel, Irvine (the missionaries who orchestrated 彭明敏's 1970 escape); 洛杉磯分會秘書 林文政 screened a 彭明敏 interview filmed by 蔡至兼 — [[articles/taiwanjustice-net/2024/20240302030149_root_68e130c9a64d050d|TJJ: 10082011 台美人向唐培理、唐秋詩致敬]]. First direct corpus record of a FAPA-OC joint action with sibling SoCal chapters.
 
 ## Source Notes
 

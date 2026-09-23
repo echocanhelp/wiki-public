@@ -45,6 +45,7 @@ last_reviewed: 2026-09-23
 - TAH encyclopedia entries: [[works/taiwaneseamericanhistory-org/ota-271|TAH #271, 2019-03-18]] · [[works/taiwaneseamericanhistory-org/whos-ted-anderson|TAH #911, 2016-03]].
 - Corpus re-scan 2026-09-22 (slice 09210500-12; re-checked 09220400-20): corpus hits (TAH #322, #271, #911, #57 美洲台灣日報 專訪, #541 黃樹人 memoir) already absorbed above; no further material, nothing new absorbable.
 
+- Corpus re-scan 2026-09-23（slice 09221300-16）: hit set unchanged (TAH #322, #271, #911, #57, #541 + index); all absorbed above; verified-saturated.
 ## Sources
 - [TAH #271 encyclopedia: 271. Ted Anderson 泰德安德森](https://taiwaneseamericanhistory.org/ota-271/)
 - [TAH #911 encyclopedia: 911. Ted Anderson 泰德安德森/ 2016/03](https://taiwaneseamericanhistory.org/whos-ted-anderson/)

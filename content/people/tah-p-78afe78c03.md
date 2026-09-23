@@ -6,7 +6,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # 陳玲玉博士
 
@@ -43,6 +43,7 @@ _No filled family fields on the TAH profile._
 
 - 本頁 corpus 檢索（2026-09-21, re-verified 2026-09-22, DEEPEN-X slice 09220500-13）：命中僅本人 own works（TAH #257／#526）、works index 及已收錄之【台灣演義】「學運神鵰俠侶 洪三雄與陳玲玉」存檔頁（現另補鏈第二處存檔快照），無新可吸收社群事實。
 
+- 本頁 corpus 檢索（DEEPEN-X slice 09221300-16, 2026-09-23 再核）：命中仍僅本人 own works（TAH #257／#526）、works index 及已收錄之【台灣演義】「學運神鵰俠侶」三處存檔快照，無新可吸收社群事實。verified-saturated。
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/%e9%99%b3%e7%8e%b2%e7%8e%89/)
 
