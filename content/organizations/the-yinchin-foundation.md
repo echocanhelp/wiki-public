@@ -6,7 +6,7 @@ tags:
   - Taiwanese-American
   - Taiwan-Center-group-member
 verification_status: published
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # The Yinchin Foundation
 
@@ -30,6 +30,7 @@ last_reviewed: 2026-09-22
 ## Worklog
 
 - 2026-09-22 deepen-x slice 09220500-15: re-verified — fresh grep returns only works already wikilinked (awards67, #40 profile, whoswho1437) plus the WHA 聯合聲明 already cited; other 殷勤 hits are false positives (chorale memoir, prose 殷勤=assiduous). Nothing new absorbable.
+- 2026-09-23 deepen-x slice 09221300-17: re-verified (殷勤文教/殷清隆/殷敏寬/YIN CHIN) — hit set unchanged (awards67, whoswho1437, #40 profile, WHA 聲明 ×2, index); verified-saturated, SKIP.
 
 ## Source Notes
 

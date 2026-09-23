@@ -48,3 +48,4 @@ last_reviewed: 2026-09-23
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - 2026-09-21 corpus re-grep (DEEPEN-X slice 09210051-6): hit-set unchanged — own #2118/#582 records and works index; no movement/community memoir mentions. SKIP-content.
+- 2026-09-23 corpus re-grep (DEEPEN-X slice 09221300-15): hit-set unchanged — own #2118/#582 records and works index only; no new community/memoir mentions. SKIP-content.

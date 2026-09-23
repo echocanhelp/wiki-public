@@ -33,6 +33,7 @@ last_reviewed: 2026-09-23
 ## Corpus review
 
 - 本頁 corpus 檢索（2026-09-22, DEEPEN-X slice 09220500-13）：works/articles 檢索 蔡瀛如／Tsai Ying-ju 無新增命中；既有社群事實均已吸收自上列引用（ourjourneys340、民報 via 景淳頁）— SKIP：無新可吸收事實，無衝突需 HOLD。
+- 本頁 corpus 檢索（2026-09-23, DEEPEN-X slice 09221300-15）：全名 蔡瀛如／Tsai Ying-ju 於 works/articles 零命中；唯一痕跡仍為 ourjourneys340「內人瀛如」段落（主修鋼琴、引介陳毓襄予蕭泰然），事實已吸收 — SKIP：無新可吸收事實。
 
 ## NEED YOU
 - Birth date/place; marriage date

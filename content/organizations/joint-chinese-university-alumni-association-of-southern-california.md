@@ -6,7 +6,7 @@ tags:
   - Taiwanese-American
   - Taiwan-Center-group-member
 verification_status: published
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # Joint Chinese University Alumni Association of Southern California
 
@@ -31,6 +31,7 @@ last_reviewed: 2026-09-22
 - **2021-05 — 南加州僑界支持台灣參與 WHA 聯合聲明**：以「南加州台灣大專聯合校友會」名義列名共同發起單位 [[articles/taiwanjustice-net/2021/20210616072940_2021_05_17_2021年南加州僑界支持台灣參與世界衛生大會wha聯合聲_b1d58af16c0a5e5b||2021 WHA 聯合聲明]]；同一聲明另見 2025-11 存檔快照，发起名單中原文同時並列兩校名 [[articles/taiwanjustice-net/2025/20251108183438_2021年南加州僑界支持台灣參與世界衛生大會wha聯合聲_80c0a825a7a661b6||WHA 聲明存檔，2025-11-08]]。
 - **2021-04 — 太魯閣號受難家屬賑災募款**：與大洛杉磯台灣會館等洛杉磯台美社團共同发起募款（約台幣150萬元）[[articles/taiwanjustice-net/2022/20220929025100_2021_04_16_大洛杉磯台灣會館給太魯閣號受難家屬的慰問函_8dc770f6b801f241||太魯閣號慰問函]]。
 - HOLD: 名稱衝突 — 英文「Joint Chinese University…」對應「中國大專院校」，本頁及 Taiwan Center 名單登為「台灣大專聯合校友會」；且 2021 WHA 聲明同時並列「南加州中國大專院校聯合校友會」與「南加州台灣大專聯合校友會」兩個團體，是否同一組織待查，不逕行合併。
+- 2026-09-23（slice 09221300-17）再grep（台灣大專聯合校友會／中國大專院校聯合校友會／Joint Chinese University）：命中仍為已連結之 concerts90、WHA 聲明（2021 + 2025 存檔）、太魯閣號慰問函；verified-saturated, SKIP.
 
 ## Related Pages
 

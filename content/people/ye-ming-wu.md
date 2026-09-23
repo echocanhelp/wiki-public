@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # Ye-Ming Wu (吳怡明)
 
@@ -48,6 +48,7 @@ last_reviewed: 2026-09-22
 ## Worklog
 - 2026-09-22 deepen-x slice 09210500-15: SKIP confirmed — re-grep returned only records already linked above (ourjourneys24/53 ±EN, whoswho1184); no new corpus material.
 - 2026-09-22 deepen-x slice 09220400-28: re-verified — fresh grep 吳怡明/Ye-Ming Wu returns zero files outside those already linked; SKIP confirmed.
+- 2026-09-23 deepen-x slice 09221300-17: re-verified — fresh grep returns exactly the linked set (ourjourneys24/53 ±EN, whoswho1184, index); verified-saturated, SKIP.
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
