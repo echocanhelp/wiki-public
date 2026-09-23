@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # J. Z. Lee (李錦容)
 
@@ -48,3 +48,5 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+- Corpus re-check 2026-09-23 (deepen-x slice 09221400-5): fresh grep of works/ + articles/ returns only the records already wikilinked above — verified saturated; SKIP, nothing new absorbable.

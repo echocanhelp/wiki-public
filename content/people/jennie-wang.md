@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # Jennie Wang (林靜娥)
 
@@ -53,3 +53,5 @@ last_reviewed: 2026-09-22
 
 ## Corpus check (2026-09-22, slice 24)
 - SKIP (verified-saturated): fresh grep of works/ and articles/ returned only #47 own record, ourjourneys167 (already absorbed above with performer/布景/慈淵 details), and the works index — no new absorbable facts.
+
+- Corpus re-check 2026-09-23 (deepen-x slice 09221400-5): fresh grep of works/ + articles/ returns only the records already wikilinked above — verified saturated; SKIP, nothing new absorbable.

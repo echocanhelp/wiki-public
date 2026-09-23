@@ -37,7 +37,7 @@ Accomplishment
 - Primary-source memoir authored by Yang himself: 77. 回首那段難辛壓迫的歲月 (2014/12) — [[works/taiwaneseamericanhistory-org/77-e5-9b-9e-e9-a6-96-e9-82-a3-e6-ae-b5-e9-9b-a3-e8-be-9b-e5-a3-93-e8-bf-ab-e7-9a|77. 回首那段難辛壓迫的歲月]].
 - Named in a movement-figures group photo caption — [[works/taiwaneseamericanhistory-org/our-journeys-363|Our Journey #363]].
 - His own Who's Who entry is held as a community record in the corpus — [[works/taiwaneseamericanhistory-org/whos-who-2026-tzu-shong-yang|2026. Dr. Tzu-Shong Yang 楊次雄醫師]] (record dated 2018-02-13, band B).
-- Corpus re-scan 2026-09-22 (slice 09220600-5): fresh grep across content/works + content/articles returns only the records already linked above (own memoir #77, NATMA founding memoir #74 incl. its EN transcript, group photo #363, own Who's Who record) — no new third-party material.
+- Corpus re-scan 2026-09-22 (slice 09220600-5) / 2026-09-23 (slice 09221400-3): fresh grep across content/works + content/articles returns only the records already linked above (own memoir #77, NATMA founding memoir #74 incl. its EN transcript, group photo #363, own Who's Who record) — no new third-party material.
 
 ## Family
 

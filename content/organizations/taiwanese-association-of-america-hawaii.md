@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # Taiwanese Association of America Hawaii (夏威夷)
 
@@ -30,7 +30,7 @@ The Taiwanese Association of America Hawaii (夏威夷台灣同鄉會) is the Ha
 - 2015-07-21 — documented hosting the Taiwanese American Community Scholarship Awards in Hawaii ([[works/taiwaneseamericanhistory-org/6-taiwanese-american-community-scholarship-awards-taahawaii|6. 台美人社區獎學金 / TAA-Hawaii]])
 - 2015-07-28 — chapter seniors' group 長青會 recorded in the TAH story corpus ([[works/taiwaneseamericanhistory-org/taa-hawaii-senior|16. 夏威夷台灣同鄉會長青會]])
 - 2016-11-15 — chapter newsletter Formosan Quarterly 《台僑》 preserved as a record in the TAH story corpus ([[works/taiwaneseamericanhistory-org/formosan-quarterly-by-taahawaii-chapter|Formosan Quarterly 台僑 by TAA Hawaii Chapter]])
-- Re-verified 2026-09-22 (slice 09220600-8): fresh grep of works/+articles returns only the five records already wikilinked above — timeline dates absorbed from those records; no other community-authored material.
+- Re-verified 2026-09-22 (slice 09220600-8); re-verified again 2026-09-23 (slice 09221400-3): fresh grep of works/+articles returns only the five records already wikilinked above — timeline dates absorbed from those records; no other community-authored material.
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-association-of-america-hawaii/)
