@@ -46,6 +46,7 @@ Distinguished Chair Professor
 - Corpus grep re-verified 2026-09-17, 2026-09-19 (slice 09170600-24) and 2026-09-20 (slice 09190400-14): no memoir or article coverage beyond the Who's Who record; husband 游正博's own corpus record sits adjacent in the same 2017-02-26 batch: [[works/taiwaneseamericanhistory-org/whoswho1534|TAH #1534 John Yu 游正博]].
 - Corpus re-grep 2026-09-22 (slice 09211500-27): ZH+EN scan of works/articles again returns only the Who's Who record whoswho1533 and its index adjacency; no memoir or article coverage. Verified-saturated, no conflicts.
 - Corpus re-grep 2026-09-21 (slice 09201500-26): still only the Who's Who record whoswho1533; no memoir/article coverage. Verified-saturated.
+- Corpus re-grep 2026-09-23 (slice 09221000-21): fresh ZH+EN scan of works/articles again returns only own record whoswho1533 + index; no memoir or article coverage. Verified-saturated, no conflicts.
 
 ## Sources
 - [TAH #1533 encyclopedia: 1533. Alice Yu 游陳鈴津/ 2017/02](https://taiwaneseamericanhistory.org/whoswho1533/)

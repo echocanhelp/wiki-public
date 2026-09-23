@@ -54,3 +54,4 @@ HOLD: conflict — TAH #276 titles her profile "Cing-Ru Shih 石青如, Composer
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 <!-- deepen-x slice 09211500-24 (2026-09-22): saturated re-verify — corpus hits = own TAH #276/#549 records + already-absorbed OurJourneys 287 + index; HOLD above stands, nothing new. -->
+<!-- deepen-x slice 09221000-20 (2026-09-23): saturated re-verify — corpus hits = own TAH #276/#549 records + already-absorbed OurJourneys 287 + index; HOLD stands, nothing new. -->

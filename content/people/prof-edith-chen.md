@@ -55,3 +55,4 @@ Accomplishment
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - Re-grep 2026-09-21 (slice 09201500-24): re-confirmed — works/articles hits limited to own TAH records (award TAH 62, encyclopedia TAH 212/2176) + index; SKIP, nothing absorbable.
 - Re-grep 2026-09-22 (slice 09211500-22): re-confirmed — same hit set (TAH 62 / 212 / 2176 + index); verified-saturated, nothing absorbable.
+- Re-grep 2026-09-23 (slice 09221000-21): re-confirmed — same hit set (own TAH records 62 / 212 / 2176 + index); verified-saturated, nothing absorbable.

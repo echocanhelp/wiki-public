@@ -53,3 +53,4 @@ _No filled family fields on the TAH profile._
 - Re-grep 2026-09-21 (slice 09201500-24): third re-confirmation — works/articles hits limited to own TAH records (#280, #753) + index; SKIP, nothing absorbable.
 
 - Re-grep 2026-09-22 (slice 09211500-24): re-confirmed — works/articles hits limited to own TAH records (#280, #753) + index; SKIP, nothing absorbable.
+- Re-grep 2026-09-23 (slice 09221000-21): re-confirmed — works/articles hits limited to own TAH records (#280, #753) + index; SKIP, nothing absorbable.

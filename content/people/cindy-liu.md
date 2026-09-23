@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # Cindy Liu (劉杏芳)
 
@@ -41,6 +41,7 @@ _No filled family fields on the TAH profile._
 - Ensemble context (slice 09201503-14, 2026-09-21): the chorus she conducts appears in the corpus as 達拉斯台心合唱團 / 德州台心合唱團 — [[works/taiwaneseamericanhistory-org/formosa-chorus-of-dallas-taihsin|TAH #59, Formosa Chorus of Dallas (TaiHsin) 達拉斯台心合唱團, 2018-01-09]] and the concert record [[works/taiwaneseamericanhistory-org/concerts129|TAH #129, 德州台心合唱團公演, Richardson, TX, 2010-03-06]]. Neither record names her directly (HOLD: her conducting tenure vs. the 2010 concert roster not yet documented), but they place her ensemble in the Dallas Taiwanese community record.
 
 - Corpus re-grep 2026-09-22: hit set unchanged (whos-hsingfang-cindy-liu, musician352, works/index) — both records already linked above; verified-saturated, no new absorbable facts.
+- Re-verified 2026-09-23 (slice 09221000-18): fresh ZH+EN grep returns the same hit set (whos-hsingfang-cindy-liu, musician352, works/index) — verified-saturated, SKIP.
 
 ## Sources
 - [TAH #352 encyclopedia: 352. Cindy Liu劉杏芳, Conductor / 2016/07](https://taiwaneseamericanhistory.org/musician352/)

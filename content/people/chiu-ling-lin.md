@@ -40,6 +40,7 @@ _No filled family fields on the TAH profile._
 - Corpus material corroborates the press-kit biography (world performer; critic quotes preserved in the TAH profile); no additional memoir/community records found in works/ or articles/. Re-verified 2026-09-20: re-grep hit set unchanged (musician364, whoswho1286) — page saturated.
 - Corpus re-grep 2026-09-21 (slice 09201500-17): hit set unchanged (musician364, whoswho1286 + index) — SKIP, page saturated.
 - Corpus re-grep 2026-09-22 (slice 09211500-19): hit set unchanged (musician364, whoswho1286 + index) — SKIP, page saturated.
+- Corpus re-grep 2026-09-23 (slice 09221000-20): hit set unchanged (musician364, whoswho1286 + index) — SKIP, page saturated.
 
 ### Timeline
 - 2016-09-22 — profiled in the TAH Foundation encyclopedia (musician #364 and Who's Who #1286)
