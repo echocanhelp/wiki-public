@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # Dr. Wen-Chang Yang (楊文昌醫師)
 
@@ -46,4 +46,4 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
-<!-- deepen-x slice 09220700-13 re-grep 2026-09-22: fresh grep (ZH+EN) in works+articles returns only own TAH record + works index + already-linked/cited corpus files; no third-party memoir material — verified saturated, SKIP content-deepen. -->
+<!-- deepen-x slice 09221500-12 re-grep 2026-09-23: fresh grep (楊文昌/Dr. Wen-Chang Yang) in works+articles returns only own TAH #2013 record, works index, and the already-HOLDed 2022 苗栗議員 楊文昌 press mention (different person); no third-party memoir material — verified saturated, SKIP content-deepen. -->

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # Adrian Lin (林宣緒)
 
@@ -32,7 +32,7 @@ last_reviewed: 2026-09-22
 
 ## Family
 
-- **Wife:** 蘇妙香
+- **Wife:** 蘇妙香 ([[people/miaw-shang-su-lin|蘇妙香]] — profiled in Ken Lee's 〈不怕死的「病西施」One Brave Woman〉, TJJ 台美史料中心 3月通訊)
 - **Son:** Dean Lin
 - **Daughter:** Sandy Hsu
 
