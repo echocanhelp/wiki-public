@@ -57,3 +57,4 @@ last_reviewed: 2026-09-23
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- Re-check 2026-09-23 (slice 09221200-12): fresh grep 王漢平/Hann-Ping Wang returns the identical set — own TAH #200 entry, memoir TAH #753, the 台灣民謠介紹 segment in Our Journeys 107, and 林宏容's TJJ memorial essay — all already absorbed; no new community facts.
