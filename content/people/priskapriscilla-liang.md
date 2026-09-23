@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # Priska Priscilla Liang
 
@@ -36,7 +36,7 @@ Priska appears throughout the TAHS-preserved Taiwanese American music scene reco
 - 2016 — working on debut EP — [[works/taiwaneseamerican-org/priska-working-on-debut-ep|Priska Working on Debut EP]] (2016-08-25); TAH encyclopedia entries [[works/taiwaneseamericanhistory-org/whoswho1306|1306. Priska(Priscilla Liang)]] and [[works/taiwaneseamericanhistory-org/musician368|368. Priska, singer/songwriter]] (2016-10).
 - 2020 — co-host (with Roxy Shih) of the *Two Horny Goats* podcast, Asian Podcast Awards finalist for Best Host of 2020 — [[works/taiwaneseamerican-org/best-of-the-best-2020-lists-taiwan|Best of the Best 2020 Lists Taiwan]] (2020-12-21).
 - 2nd-generation Taiwanese American, grew up in and around the LA area; proud of her heritage (per the 2012 band-A interview).
-- Corpus re-check 2026-09-22: a fresh grep of content/works + content/articles returns only the TA.org / TAH records already linked above — no memoir or third-party community text, so nothing new absorbed.
+- Corpus re-check 2026-09-22 and 2026-09-23 (slice 09221300-32): fresh greps of content/works + content/articles return only the TA.org / TAH records already linked above — no memoir or third-party community text, so nothing new absorbed; verified-saturated.
 
 ## Family
 
