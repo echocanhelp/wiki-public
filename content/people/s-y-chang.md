@@ -61,3 +61,4 @@ _No filled family fields on the TAH profile._
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - Corpus re-grep (slice deepen-x-slice-09211300-5, 2026-09-22): 張信義 / S. Y. Chang / Sidney Chang across works+articles — hit set unchanged (whoswho1651, OJ #33-eng/#74/#74-eng/#79/#377, TJJ 楊遠薰 reprints 2021/2024/2025, index); all already linked. SKIP-no-new-material; English-name HOLD stands.
 - Corpus re-grep (slice deepen-x-slice-09220700-2, 2026-09-22): 張信義 / S. Y. Chang / Sidney Chang — hit set unchanged (whoswho1651, OJ #33-eng/#74/#74-eng/#79/#377); all already linked. SKIP-with-reason: 語料已飽和; English-name HOLD stands.
+- Corpus re-grep (slice deepen-x-slice-09221500-1, 2026-09-23): 張信義 across works+articles — hit set unchanged (whoswho1651, OJ #33-eng/#74/#79/#377, index, TJJ 楊遠薰 reprints 2021/2025); all already linked, incl. the 2025-03-23 re-verification note above. SKIP-with-reason: 語料已飽和; English-name HOLD stands.

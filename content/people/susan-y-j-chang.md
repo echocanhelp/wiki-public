@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # Susan Y. J. Chang (程韻如)
 
@@ -49,6 +49,9 @@ Accomplishment
 - 2019-09-03 — Signed the overseas Taiwanese organizations' joint statement 「拒一國兩制！海外台灣人社團：支持香港反對中國暴政」 as 「世界台灣人大會 會長程韻如」 (Susan Chang, World Taiwanese Congress), placing her in the 2019 cohort of diaspora org leaders supporting Hong Kong ([[articles/taiwanjustice-net/2024/20240221122756_root_53455d7e13136092|TJJ record, 2024-02-21 archive of the 2019-09-04 posting]]).
 
 - Corpus re-check (程韻如 / Susan Chang, works+articles, slice-09220800-3 pass 2026-09-22): fresh grep returns only the records already linked above (#60, #160 incl. EN copies, #249, #298, TAH #190/#1531, Susan Chang Lee collision) — no new absorbable facts; verify-saturated.
+
+- 2018-07-20 — Signed the NTU alumni protest statement against the SoCal NTU Alumni Association's invitation of 管中閔 as 「程韻如(護理)」 (NTU Nursing), placing her among the ~190 alumnae/alumni dissenters ([[articles/taiwanjustice-net/2018/20180721091303_2018_07_20_抗議-南加州台大校友會邀管中閔來年會做專題演講_a428dcebbceacf38|TJJ record, 2018-07-21]]); consistent with her NTU Nursing degree and her diaspora-organizing record.
+- Corpus re-check (程韻如, works+articles, slice-09221500-1 pass 2026-09-23): hit set = the records already linked (#60/#60-eng, #160, #249, #298, TAH #190/#1531, index) plus the 2018 TJJ alumni protest letter absorbed just above; the Susan Chang Lee collection is no longer matched by the 程韻如-only grep (collision note above retained). No other new facts; verify-saturated.
 
 ## Sources
 - [TAH #190 encyclopedia: 190. Y. R. Susan Chang 程韻如](https://taiwaneseamericanhistory.org/190-susan-chang/)

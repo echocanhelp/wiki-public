@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # Taiwanese American Students Club at UIUC
 
@@ -32,6 +32,10 @@ The Taiwanese American Students Club (TASC) at UIUC is a registered student orga
 - Community-activity record of the club itself: 「Ice Skate with the Taiwanese American Students Club at UIUC」, a 2012-11-14 feature on a TASC ice-skate event in [[sources/taiwaneseamerican-org|taiwaneseamerican.org]] — [[works/taiwaneseamerican-org/ice-skate-with-the-taiwanese-american-students-club-at-uiuc|Ice Skate with TASC at UIUC (2012)]]; bibliographic record only (band B), it documents the club's social-programming side alongside its culture-education mission.
 
 - Corpus re-check (TASC / UIUC / Formosan Student Club, works+articles, slice-09220800-3 pass 2026-09-22): fresh grep returns only pages already linked above (ILUTSA, FAPA/NATEA Illinois, Our Journeys #76/#81, Formosan Student Club newsletter, ice-skate feature); the concerts114 / taiwanese-collegian / 北台學生會 hits are pattern false positives with no UIUC-TASC content. No new absorbable facts; verify-saturated.
+
+- Founding attribution in the community press: taiwaneseamerican.org founder **Ho Chie Tsai** is described as having "launch[ed] the first Taiwanese American Students Club at his alma mater, the University of Illinois at Urbana-Champaign" — [[works/taiwaneseamerican-org/taiwaneseamerican-org-ho-chie-tsai-featured-on-taiwan543-net|Ho Chie Tsai featured on Taiwan543.net]]; this press account sits alongside the club's own 1991 founding date (Instagram/directory) — HOLD: the feature gives no founding year for the club, so it is recorded as attribution-by-community-press, not a corrected founding date. Person page: [[people/ho-chie-tsai|Ho Chie Tsai]].
+- Later programming record: 「Taiwanese American Students Club Night Market at UIUC」, a 2013-10-11 feature of a TASC night-market event — [[works/taiwaneseamerican-org/taiwanese-american-students-club-night-market-at-uiuc|TASC Night Market at UIUC (2013)]]; with the 2012 ice-skate feature it documents the club's recurring social/cultural programming.
+- Name-sharing note: the same "TASC" name is used at other campuses in the corpus — Northwestern's TASC memoir [[works/taiwaneseamerican-org/finding-myself-through-the-taiwanese-american-community|Finding Myself Through the Taiwanese American Community]] ([[organizations/taiwanese-american-students-association-of-northwestern-university|TASA Northwestern]]) and the census-day staff photo with taiwaneseamerican.org partners [[works/taiwaneseamerican-org/the-staff-of-taiwaneseamerican-org-say-we-count|We Count, Too (2010)]]; distinct clubs, no conflation with UIUC TASC.
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-american-students-club-at-uiuc/)
