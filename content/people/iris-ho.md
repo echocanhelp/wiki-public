@@ -7,12 +7,12 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # Iris Ho (何燕青)
 
 ## Corpus pass (deepen-x slice 09210400-10, 2026-09-21): VERIFIED, NO-NEW
-Fresh grep of content/works + content/articles returned only records already absorbed below (ourjourneys123, ourjourneys123-eng, TAH #309, TA.org perspectives, TAH #935). Nothing new to absorb. Re-grep 2026-09-22 (DEEPEN-X slice 09212352-24): hit-set unchanged — SKIP-content.
+Fresh grep of content/works + content/articles returned only records already absorbed below (ourjourneys123, ourjourneys123-eng, TAH #309, TA.org perspectives, TAH #935). Nothing new to absorb. Re-grep 2026-09-22 (DEEPEN-X slice 09212352-24): hit-set unchanged — SKIP-content. Re-grep 2026-09-23 (DEEPEN-X slice 09221200-29): hit-set unchanged (same records plus index); all already absorbed — SKIP-content.
 
 ## Identity Snapshot
 - **English:** Iris Ho

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # Jin-Sheng Jian (簡金生)
 
@@ -38,6 +38,8 @@ last_reviewed: 2026-09-22
 - TAH Who's Who record, 2019-11 — [[works/taiwaneseamericanhistory-org/whos-who-2229|2229. Jin-Sheng Jian 簡金生/11/2019]]
 
 _Corpus re-scan 2026-09-21, re-verified 2026-09-22: same six work hits (#81, #234, #59, #272, #378, Who's Who #2229); all facts above already absorbed, nothing new._
+
+_Corpus re-scan (slice 09221200-29, 2026-09-23): fresh ZH+EN grep returns the same six work hits (#81, #234, #59, #272, #378, Who's Who #2229); excerpt review confirms every fact above is already absorbed — no new dates, roles, or orgs; no conflicts to HOLD. SKIP-content._
 
 ## Family
 

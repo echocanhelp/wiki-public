@@ -47,7 +47,7 @@ last_reviewed: 2026-09-23
 - As 副董事長 of the Greater Los Angeles Taiwan Center, she was among the honored guests at the 2025-02-22 228追思紀念大會 (24 台美社團協辦; TAHS 會長楊嘉猷 also attended) ([[articles/taiwanjustice-net/2025/20250320212940_大洛杉磯台灣會館等24個台美社團舉舉行228追思紀念_c62f5c50846fe267|TJJ report]]), consistent with the existing "From the record" entry.
 - Corpus coverage check (re-run 2026-09-22): corpus grep returns only [[works/taiwaneseamericanhistory-org/whoswho1141]], works/index.md, and the TJJ report; the only other record naming her is the same TJJ 228 report ([[articles/taiwanjustice-net/2025/20250320212940_大洛杉磯台灣會館等24個台美社團舉舉行228追思紀念_c62f5c50846fe267|TJJ report]]); her memoir/community appearances are otherwise unrecorded in the corpus, so the TAH #1141 profile remains the sole biographical source.
 
-Corpus re-check 2026-09-22 (deepen-x slice 09220400-26): fresh grep of works/ and articles/ — hit set unchanged (whoswho1141, works index, TJJ 228 report), all already wikilinked with facts absorbed. SKIP-deepen; nothing new absorbable.
+Corpus re-check 2026-09-22 (deepen-x slice 09220400-26) and again 2026-09-23 (deepen-x slice 09221200-31): fresh grep of works/ and articles/ — hit set unchanged (whoswho1141, TJJ 228 report), all already wikilinked with facts absorbed. SKIP-deepen; nothing new absorbable.
 
 ## Sources
 - [TAH #1141 encyclopedia: 1141. C. Y. Chen 陳黃群雁 / 2016/07](https://taiwaneseamericanhistory.org/whoswho1141/)
