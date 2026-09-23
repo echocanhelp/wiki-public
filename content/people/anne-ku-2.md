@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # Anne Ku
 
@@ -50,3 +50,4 @@ _No filled family fields on the TAH profile._
 - Sibling person page exists at [[people/anne-ku|Anne Ku]] (verified slug) — HOLD on identity reconciliation still open.
 - Re-grep 2026-09-21 (slice 09201500-25): works hits remain the two 2015 profile records + index; taiwanjustice hits are substring noise — verified-saturated.
 - Re-verified 2026-09-22 (slice 09211500-17): works hits remain the two 2015 profile records + index — verified-saturated, SKIP.
+- Re-verified 2026-09-23 (slice 09221000-18): works hits remain the two 2015 profile records (#193, #395) + index adjacency to Rachel Ku (#192/#394) — HOLDs on the Anne/Rachel relationship and the anne-ku vs anne-ku-2 slug duplication stand — verified-saturated, SKIP.

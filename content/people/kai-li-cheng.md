@@ -36,6 +36,7 @@ Two 2017 TAH records document Cheng in the community archive: [[works/taiwanesea
 
 ## Corpus check (deepen-x 09211500-32, 2026-09-22)
 SKIP (re-confirmed) — fresh grep of works/ + articles/ returns only her own two TAH records ([[works/taiwaneseamericanhistory-org/whoswho1451|TAH #1451]], [[works/taiwaneseamericanhistory-org/musician380|TAH #380]]) plus the works index; no memoir mentions of 鄭凱莉 / Kai-Li Cheng — nothing absorbable; instrument HOLD (cellist title vs violin biography) stands.
+SKIP (re-confirmed again, deepen-x slice 09221000-15, 2026-09-23): ZH+EN grep hit set unchanged (own two records + works index).
 
 ## Family
 
