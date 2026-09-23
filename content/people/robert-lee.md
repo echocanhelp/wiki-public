@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # Robert Lee (李席舟)
 
@@ -52,3 +52,5 @@ Accomplishment
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+> Corpus check (deepen-x slice 09220900-27, 2026-09-23): fresh re-grep (李席舟|Robert Lee) — hit set identical to absorbed set (own TAH #1868 record, ourjourneys233 活動組/募款組 名單, works index, unrelated Robert E. Lee 雕像報導 under Disambiguation). No new community facts. SKIP: saturated.

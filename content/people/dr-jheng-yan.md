@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # Dr. Jheng Yan (嚴正博士)
 
@@ -47,3 +47,4 @@ His own TAH encyclopedia entry is held in the vault at [[works/taiwaneseamerican
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - Corpus re-grep 2026-09-22 (slice 09211400-29): hit set unchanged — own #2317 record, own My Stories #786, plus「中正」/嚴正聲明 false positives (ourjourneys317/205) already annotated; no new absorbable material. SKIP: page saturated.
+- Corpus re-grep 2026-09-23 (slice 09220900-22): hit set unchanged (my-stories-786, whos-who-2317, ourjourneys317/205, works index, plus 嚴正聲明 prose in taiwanjustice-net articles) — all absorbed/annotated. SKIP: page saturated.

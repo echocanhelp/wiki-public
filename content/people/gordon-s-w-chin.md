@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # Gordon S. W. Chin (金希文教授)
 
@@ -49,3 +49,5 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+> Corpus check (deepen-x slice 09220900-27, 2026-09-23): fresh re-grep (金希文|Gordon.*Chin) — hit set identical to records already linked above (whoswho1253, musician358, ourjourneys301 二二八紀念音樂會致詞, 台灣會館古典音樂欣賞 tjj 頁 ×2, works index). No new absorbable corpus facts. SKIP: saturated.
