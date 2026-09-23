@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # W.C. Lin (林文釗)
 
@@ -35,7 +35,8 @@ last_reviewed: 2026-09-22
 
 ## Role in the Community
 - 石清正's community memoir 「在矽谷創業臺美人」 (2014-09-05, band A — primary material) names 林文釗 among the Taiwanese entrepreneurs who built Silicon Valley: 「1979年 林文釗創立EGW Publishing Company，出版多種英文雜誌及書籍。台灣人辦英文雜誌是很特殊的創業，可見他有過人的才氣。」 — the memoir frames a Taiwanese running an English-language magazine house as an exceptional venture. See [[works/taiwaneseamericanhistory-org/ourjourneys19|19. 在矽谷創業臺美人/石清正/2014/09]].
-- HOLD: conflict on EGW Publishing Company founding year — 1979 (石清正 memoir, ourjourneys19) vs 1982 (TAH Who's Who employment table). Not merged.
+- The English section of the same memoir names him **Wayne Lin** and adds the publishing detail: 「1980 – Wayne Lin founded EGW Publishing Company, which produced six English language magazines, the most well known being Popular Woodworking」 — framing him as one of the few Taiwanese-American entrepreneurs in the English publishing industry ([[works/taiwaneseamericanhistory-org/ourjourneys19|19. 在矽谷創業臺美人/石清正/2014/09]], EN section).
+- HOLD: conflict on EGW Publishing Company founding year — 1979 (石清正 memoir, Chinese section) vs 1980 (same memoir, English section) vs 1982 (TAH Who's Who employment table). Not merged.
 - His own encyclopedia entry is held as [[works/taiwaneseamericanhistory-org/898-w-c-lin-e6-9e-97-e6-96-87-e9-87-97-201603|898. W.C. Lin 林文釗 / 2016/03]] (published 2016-03-20).
 
 ### Timeline
