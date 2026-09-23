@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # Kaofang Yeh (葉高芳博士)
 
@@ -51,6 +51,8 @@ last_reviewed: 2026-09-22
 - Re-grepped 2026-09-20 (slice 09191100-8): hits仍僅本身記錄 [[works/taiwaneseamericanhistory-org/417-kaofang-yeh-e8-91-89-e9-ab-98-e8-8a-b3201505|TAH #417]] 與 works index。SKIP-with-reason：無可吸收新事實。
 - Re-grepped 2026-09-21 (slice 09210051-7): corpus hits (works+articles) remain only his own record TAH #417; no memoir/bulletin narrative. SKIP-with-reason: nothing absorbable this pass.
 - Re-grepped 2026-09-22 (slice 09212352-27): corpus hits (works+articles) still only his own record TAH #417 plus index listings. SKIP-with-reason: no new corpus facts absorbable.
+
+- Re-grepped 2026-09-23 (slice 09221200-27): corpus hits (works+articles) still only his own record TAH #417 plus index listings. SKIP-with-reason: no new corpus facts absorbable.
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/kaofang-yeh/)

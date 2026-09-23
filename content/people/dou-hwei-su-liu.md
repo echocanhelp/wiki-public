@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # Dou-Hwei Su Liu (劉蘇多惠)
 
@@ -31,6 +31,8 @@ Dou-Hwei Su Liu (劉蘇多惠) is listed in the TAH Foundation Who’s Who Taiwa
 ## Corpus review（slice 09212352-31）
 
 - 2026-09-22 語料複核：grep（劉蘇多惠／Dou-Hwei／Su-Liu，works+articles）命中僅 her own TAH #665 記錄與 index，均已吸收於 Role in the Community（894/893 社團篇・革命篇、mystories24、ourjourneys181）。SKIP-with-reason：無新可吸收事實。
+
+- 2026-09-23 語料複核（slice 09221200-27）：命中集合與上次完全相同（894/893 社團篇・革命篇、mystories24、ourjourneys181、#665、index），全數已吸收。SKIP-with-reason：無新可吸收事實。
 
 ## Family
 

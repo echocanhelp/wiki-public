@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # Prof. James C. Liao (廖俊智教授)
 
@@ -48,6 +48,7 @@ last_reviewed: 2026-09-22
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-james-c-liao/)
 
 - Corpus re-grep 2026-09-22 (slice 09212352-19): hits still confined to the already-linked records (107, 1081, mystories239, important2016-22, my-stories-879) plus the index — no new absorbable facts (SKIP-with-reason).
+- Corpus re-grep 2026-09-23 (slice 09221200-28): hit set identical (107, 1081, mystories239, important2016-22, my-stories-879 + index). Verified-saturated, no new absorbable facts (SKIP-with-reason).
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

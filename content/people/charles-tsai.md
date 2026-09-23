@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # Charles Tsai (蔡其芳)
 
@@ -15,6 +15,7 @@ last_reviewed: 2026-09-22
 Earlier SKIP note (slice 09180400-23) is superseded: a work page for TAH #961 now exists in the corpus (whoswho961) and three Our Journeys memoirs mention 蔡其芳 by name.
 Corpus pass (deepen-x slice 09210400-10, 2026-09-21): VERIFIED, NO-NEW — fresh grep returned the same four records (392, 43, 305, whoswho961), all already absorbed below.
 Re-grepped again 2026-09-22 (slice 09212352-28): identical four records (392, 43, 305, whoswho961); all still absorbed, HOLD on the St. Louis "Cheng-Chang Charles Tsai" identity conflict stands. No new absorbable community facts.
+Re-grepped again 2026-09-23 (slice 09221200-28): hit set unchanged (392, 43, 305, whoswho961 + index); memoir excerpts in 392/43/305 match the absorbed text verbatim. Verified-saturated; HOLD stands.
 
 ## Role in the Community
 - 1975 美東台灣人夏令會: his mother (同鄉蔡其芳的母親), together with 蔡明憲, rushed onto the closing-program stage and urged the assembled 同鄉 to return to Taiwan and fight for it, speaking through tears — an episode recalled by 總召集人王成章牧師 in his interview [[works/taiwaneseamericanhistory-org/our-journeys-392|392. 王成章牧師專訪 / 07/2024]].
