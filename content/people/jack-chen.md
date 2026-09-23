@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # Jack Chen
 
@@ -43,6 +43,7 @@ _No filled family fields on the TAH profile._
   - [[works/taiwaneseamericanhistory-org/678-team-sea-to-see-launch-day-jack-chen-03-2019|678 — Team Sea to See, Launch Day/Jack Chen/03/2019]] (2019-03-25) — photo record of the team's launch day
 - The team's race itself is also in the corpus: [[works/taiwaneseamericanhistory-org/137-team-sea-to-sea-bicycle-race-across-america-in-7-days|137 — Team Sea to Sea: Bicycle Race Across America in 7 Days]] (2019-03-25)
 - Beyond these bibliographic/photo records there are no memoir or article body-mentions of him in the corpus; all three record pages auto-list him alongside [[people/jack-j-chen]] and [[people/dr-jack-j-chen]] — HOLD: subject tagging conflates three distinct "Jack Chen" slugs, no evidence yet that they are the same person.
+- Corpus re-scan 2026-09-23 (deepen-x slice 09221400-13): fresh grep of works/ + articles/ — hit set unchanged (own records whos-who-2182, ota-272, 678 + works index; the 137 race record above carries the team name, not his name). SKIP-deepen; nothing absorbable.
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/jack-chen/)
