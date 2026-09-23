@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # Joanna Yan (石正暖)
 
@@ -51,3 +51,4 @@ last_reviewed: 2026-09-22
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - Re-grep 2026-09-20 (slice 09190400-10): hit set unchanged — artist31, whoswho1023, portrait painting, all already linked above; TAH bibliographic records only, no memoir narrative. No conflicts.
 - Re-grep 2026-09-21 (slice 09201500-21): hit set unchanged — artist31, whoswho1023, portrait painting all already linked; TAH bibliographic records only, no memoir narrative; verified saturated, no conflicts.
+- Re-grep 2026-09-23 (slice 09221000-24): hit set unchanged (artist31, whoswho1023, portrait painting) — no memoir/community narrative in corpus; saturated, no conflicts.

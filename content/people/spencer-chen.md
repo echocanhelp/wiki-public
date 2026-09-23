@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # Spencer Chen
 
@@ -38,7 +38,7 @@ Vice President, Legal/Assistant General Counsel & Secretary
 - Co-author (with Charles Huang) of the community history of the Taiwanese American Foundation, *Over 50 Years of Leaders Serving the Taiwanese American Community* — [[works/taiwaneseamericanhistory-org/ourjourneys33-eng|33. 台美協進會的歷史 / History of Taiwanese American Foundation]] — which documents TAF's Midwest-centered mission of developing servant leaders in the Taiwanese American community; Spencer Chen appears in its roster of TAF leaders.
 - President of the Taiwanese American Foundation (TAF), per the TAH Who's Who employment record; see also [[organizations/taiwanese-american-foundation|Taiwanese American Foundation]].
 - His own TAH encyclopedia record is held in the corpus: [[works/taiwaneseamericanhistory-org/whos-who-1957-spencer-chen|1957. Spencer Chen]] (2017-12-03).
-- Re-grep 2026-09-21 (slice 09201500-12): corpus hits unchanged — the TAF history he co-authored ([[works/taiwaneseamericanhistory-org/ourjourneys33-eng|33. 台美協進會的歷史 / History of Taiwanese American Foundation]], byline Charlie Huang & Spencer Chen; he appears in its leader roster) and his own record above — both already absorbed. No new material, no conflicts.
+- Re-grep 2026-09-21 (slice 09201500-12) / 2026-09-23 (slice 09221000-24): corpus hits unchanged — the TAF history he co-authored ([[works/taiwaneseamericanhistory-org/ourjourneys33-eng|33. 台美協進會的歷史 / History of Taiwanese American Foundation]], byline Charlie Huang & Spencer Chen; he appears in its leader roster) and his own record above — both already absorbed. No new material, no conflicts.
 
 ## Family
 
