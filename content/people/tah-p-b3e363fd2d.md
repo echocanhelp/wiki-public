@@ -41,7 +41,7 @@ _No filled family fields on the TAH profile._
 ## Role in the Community
 - Community-record profiles: [[works/taiwaneseamericanhistory-org/whoswho342|TAH encyclopedia #342, 2015/03 (record 2015-03-22)]] and [[works/taiwaneseamericanhistory-org/musician171|171. Ci-Yao Chen 陳琦瑤, Violinist, 2015/03 (record 2015-03-15)]] — the musician-layer entry documenting her as Concert Master of the Long Beach Symphony Orchestra and Juilliard-trained (B.A./B.S. Music) violinist, in the same 2015/03 TAH musician series as 溫玉妙 (#341), 呂信也 (#339), 林安里 (#170) and 陳慧如 (#169).
 - HOLD: tah-tables degree labels "B.A. Music" + "B.S. Music" vs the bio text's 學士與碩士 (bachelor's + master's) — conflict, not auto-merged.
-- Fresh corpus re-grep 2026-09-22 (slice 09211507-12) for 陳琦瑤 / Ci-Yao Chen: hits remain only whoswho342, musician171, and the works index — both already linked above; verified saturated, no memoir coverage.
+- Fresh corpus re-grep 2026-09-23 (slice 09221500-23) for 陳琦瑤 / Ci-Yao Chen: hits remain only whoswho342, musician171, and the works index — no memoir coverage; verified saturated.
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

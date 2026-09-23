@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # Max C. Chiang (江建祥博士)
 
@@ -43,3 +43,4 @@ _No filled family fields on the TAH profile._
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 <!-- deepen-x 09220700-24: verified-saturated. Corpus re-scan (works/ + articles/) fresh 2026-09-22: hits are record 620, taiwanjustice column articles already wikilinked above, and the MANIFEST; the 蔣/江 conflict HOLD stands; no new material. -->
+<!-- deepen-x 09221500-24: re-verify 2026-09-23 — fresh grep (江建祥/Max C. Chiang/Max Chiang, works+articles): same hits (record 620, taiwanjustice columns already wikilinked, MANIFEST, index). Verified saturated; 蔣/江 HOLD stands; SKIP-no-new-facts. -->

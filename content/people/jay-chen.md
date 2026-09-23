@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # Jay Chen (陳介飛)
 
@@ -51,3 +51,4 @@ Mt. SAC Board Chen2-Jay Chen of the Mt. SAC Board of Trustees January 13, 2016.
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+<!-- deepen-x 09221500-24: re-verify 2026-09-23 — fresh grep (陳介飛/Jay Chen, works+articles): same four work pages + own TAH #2079 + index, all absorbed in Role in the Community. Verified saturated; SKIP-no-new-facts. -->
