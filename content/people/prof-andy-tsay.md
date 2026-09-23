@@ -40,6 +40,7 @@ Accomplishment
 - Family rooted in the Houston Taiwanese community: his parents **David Tsay** and **Susan Tsay** served on the 1987 Preparation Committee that founded the Taiwanese Community Center (TCC) in Houston — David on the Charter Team, Susan on the Secretarial Team — per the community memoir recalling the TCC's grassroots building campaign ([[works/taiwaneseamericanhistory-org/ourjourneys233-eng|233. 回顧休士頓台灣人活動中心的成立 / Tenth Anniversary of Houston TCC]], 2016).
 - Profiled in the TAH community record: [[works/taiwaneseamericanhistory-org/whos-who-2175-andy-tsay|2175. Prof. Andy Tsay 蔡安達教授]] (2019) and the earlier entry [[works/taiwaneseamericanhistory-org/52891|205. Prof. Andy Tsay 蔡安達教授]].
 - He is himself a corpus memoirist: authored 少棒生涯不是夢 (translated and narrated by 蔡淑媛, 2016/11), a youth-baseball memoir held in the TAH story corpus ([[works/taiwaneseamericanhistory-org/mystories482|482. 少棒生涯不是夢 / 蔡安達]]).
+- Corpus re-grep 2026-09-23 (slice 09221500-17): fresh grep (蔡安達/Andy Tsay) returns only the records already absorbed above (whos-who-2175, 52891/#205, mystories482, works index) — verified saturated (SKIP — nothing new absorbable).
 
 ## Sources
 - [TAH #2175 encyclopedia: 2175. Prof. Andy Tsay 蔡安達教授](https://taiwaneseamericanhistory.org/whos-who-2175-andy-tsay/)

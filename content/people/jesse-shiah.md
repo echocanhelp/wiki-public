@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # Jesse Shiah
 
@@ -53,3 +53,5 @@ HOLD: possible relation to community organiser SueAnn Shiah 夏叔安 ([[works/t
 > SKIP re-check (deepen-x 09210900-22, 2026-09-22): fresh grep for Jesse Shiah found only own TAH record [[works/taiwaneseamericanhistory-org/whoswho1359|#1359]]; other 'Shiah' hits are SueAnn Shiah's own essays ([[works/taiwaneseamerican-org/understanding-the-jewish-struggle-for-palestine-taiwanese-american-perspective|Jewish struggle essay]], [[works/taiwaneseamerican-org/laguna-woods-taiwanese-church-shooting|Laguna Woods shooting]]) about her own family, not Jesse — HOLD on relation stands; SKIP stands.
 
 > SKIP re-check (deepen-x slice-16, 2026-09-22): fresh grep of content/works + content/articles again returned only his own TAH record; surname-variant hits (薛: Sheuh, Shieu) are unrelated persons. Nothing absorbable; SKIP stands.
+
+> SKIP re-check (deepen-x slice 09221500-19, 2026-09-23): fresh grep returned only own record #1359 plus SueAnn Shiah's own essays (surname match, different person); HOLD on relation stands; SKIP stands.

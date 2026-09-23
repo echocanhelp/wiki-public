@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # Prof. Ruey J. Yu (余瑞錦教授)
 
@@ -42,7 +42,7 @@ Publication(Non-professional)
 - His 2017 autobiography is held as a band-A community-history record in the TAH story corpus: [[works/taiwaneseamericanhistory-org/publications1218|1218. Journey of a Thousand Miles / Ruey Yu /10/2017/自傳]] (written with Kate Jaimet). The foreword, by his Temple University research collaborator, records that after Temple failed to patent their initial discovery of DOPA-ester compounds promoting skin pigmentation, Yu taught himself patent drafting and thereafter drafted all of their applications himself.
 - HOLD: conflict — page text "Journey of Thousand Miles" vs corpus record title "Journey of a Thousand Miles"; not merged.
 - Encyclopedia entry in the corpus: [[works/taiwaneseamericanhistory-org/whos-who-2126-ruey-j-yu|2126. Prof. Ruey J. Yu 余瑞錦教授]].
-- No further 余瑞錦 / Ruey Yu mentions elsewhere in works/articles (re-grepped 2026-09-22 slice 09211507-9: hits limited to the two records already absorbed above) — verified saturated.
+- No further 余瑞錦 / Ruey Yu mentions elsewhere in works/articles (re-grepped 2026-09-22 slice 09211507-9: hits limited to the two records already absorbed above) — verified saturated; re-grep 2026-09-23 (slice 09221500-19) confirms the same two records only.
 
 ## Sources
 - [TAH #2126 encyclopedia: 2126. Prof. Ruey J. Yu 余瑞錦教授](https://taiwaneseamericanhistory.org/whos-who-2126-ruey-j-yu/)

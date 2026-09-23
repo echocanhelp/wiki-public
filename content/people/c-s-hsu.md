@@ -31,6 +31,7 @@ _No filled family fields on the TAH profile._
 - 本人 TAH 百科記錄 [[works/taiwaneseamericanhistory-org/whoswho1478|1478. C. S. Hsu 許清松 / 2017/01]]（2017-01-22 · B）為書目性存檔，全文留 vault，無可再吸收事實。
 - **deepen-x re-grep 2026-09-21 (slice 28):** fresh grep returns only whoswho1478 and the two TJJ articles already absorbed above（LA郡警察局捐贈報導、疫情旅館堅持開門報導）。無新 corpus 事實 — SKIP this pass.
 - **deepen-x re-grep 2026-09-22 (slice 09220600-26):** fresh grep again returns only whoswho1478, works/index, and the same two TJJ articles — verified saturated, SKIP-no-new-facts.
+- **deepen-x re-grep 2026-09-23 (slice 09221500-15):** fresh grep returns the same set (whoswho1478, works/index, the two absorbed TJJ articles) — verified saturated, SKIP-no-new-facts.
 
 ## From the record
 

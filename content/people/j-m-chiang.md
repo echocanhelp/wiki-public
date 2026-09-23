@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # J. M. Chiang (江榮茂)
 
@@ -31,7 +31,7 @@ last_reviewed: 2026-09-22
 ## Role in the Community
 - Served in the Taiwanese/Presbyterian church network in the U.S.: pastor of the First Presbyterian Church of New Jersey (Palisades Park) through 1989, then the Taiwan Presbyterian Church of Greater Chicago (1989–1999), continuing as pastor 1999–2002.
 - Ordained ministry rooted in the PCT seminary pipeline (Tainan Theological College and Seminary, 1972) bridging to Canadian training (Saskatoon Theological Union).
-- **Corpus footprint:** the community record of his life is his own TAH Who's Who entry, [[works/taiwaneseamericanhistory-org/whos-jm-chiang|1965. J. M. Chiang 江榮茂 /12/2017]], published 2017-12-03 in the TAHS story corpus. No memoir or third-party community writings mentioning 江榮茂 were found in the corpus.
+- **Corpus footprint:** the community record of his life is his own TAH Who's Who entry, [[works/taiwaneseamericanhistory-org/whos-jm-chiang|1965. J. M. Chiang 江榮茂 /12/2017]], published 2017-12-03 in the TAHS story corpus. No memoir or third-party community writings mentioning 江榮茂 were found in the corpus; re-grep 2026-09-23 (slice 09221500-20) hit set unchanged (the entry + works index) — verified saturated.
 - HOLD: education line conflates Tainan Theological College and Seminary with Saskatoon Theological Union in the source table — origin of each credential unresolved, not auto-merged.
 
 ## Timeline
