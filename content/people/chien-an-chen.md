@@ -50,6 +50,7 @@ _No filled family fields on the TAH profile._
 
 ## From the record
 
+- 複核（TJJ-A09221400-8, 2026-09-23）：「台灣民謠之夜」TUF 1995 節目稿（[[articles/taiwanjustice-net/2024/20240520022857_root_e1412ed957f76e0d|e1412ed957f76e0d]]）subject link（大提琴陳建安）經正文再驗證為真實對應，1995-07-29 條目已在庫 — SKIP，无新材料。
 - 複核（TJJ-A09221300-7, 2026-09-23）：subject link 對照本 slice 文章 [[articles/taiwanjustice-net/2022/20220519130616_2022_01_29_台灣女聲樂家_資深古典音樂節目主持人黃瑞芬過_bfc5f319a036a339|TJJ, 2022-01-29]] 正文再驗證——提及為真實對應（姓名與本頁相符），無錯鏈、無虛鏈；對應日期事實條目已在庫 — SKIP，無新材料。
 
 - 1995-07-29 — 「台灣民謠之夜，民謠與詩的對話」（TUF 台灣名家演奏系列，Harriet and Charles Fine Arts Complex, Cal State Los Angeles）弦樂四重奏大提琴：陳建安（同台：小提琴蘇顯達、黃維明，中提琴吳昭麗；鋼琴葉綠娜；聲樂黃瑞芬）（[[articles/taiwanjustice-net/2024/20240520022857_root_e1412ed957f76e0d|TJJ 節目紀錄，2024-05-20 存檔]]；另見訃聞回憶同場演出 [[articles/taiwanjustice-net/2024/20240225012121_root_64302d51d03b3c5f|TJJ，2024-02-25 存檔]]）。

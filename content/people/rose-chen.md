@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # Rose Chen (陳慧如)
 
@@ -54,6 +54,7 @@ Corpus-absorbed (deepen-x slice 28, 2026-09-14) from 鍾澄文's column [[articl
 
 ## From the record
 
+- 複核（TJJ-A09221400-8, 2026-09-23）：「希望之光」2025 存檔（[[articles/taiwanjustice-net/2025/20250524200224_以立合唱團世界首演_希望之光_影音_025f6ed990dc9e2c|025f6ed990dc9e2c]]）subject link（鋼琴陳慧如）經正文再驗證為真實對應，2022-12-02 條目已在庫 — SKIP，无新材料。
 - 複核（TJJ-A09221400-9, 2026-09-23）：「希望之光」2024-02-28 存檔副本（a40b37bc03b2b9cb）subject link（鋼琴：陳慧如 Rose Chen）經正文再驗證為真實對應，引用条目已在库（无错链、无虚链）— SKIP，无新材料。
 - 複核（TJJ-A09221400-7, 2026-09-23）：以立「希望之光」世界首演稿（e7e2a1e1）subject link（陳慧如鋼琴）經原文正文再驗證為真實對應，2022-12-02 條目已在庫；該稿 Subjects 之 people/*.md 後綴壞鏈已修 — SKIP，無新材料。
 - 複核（TJJ-A09220500-6, 2026-09-22）：以立「希望之光」世界首演稿（2023-02-02 存檔副本）subject link（陳慧如鋼琴）經原文正文再驗證為真實對應，引用条目已在库（无错链、无虚链）— SKIP，无新材料。
