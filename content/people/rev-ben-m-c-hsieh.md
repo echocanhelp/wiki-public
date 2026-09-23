@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # Rev. Ben M.C. Hsieh (謝敏川牧師)
 
@@ -54,3 +54,5 @@ _Corpus re-scan 2026-09-22 (slice 22): all works hits (#144, #888, #14, #43, 牧
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+_Corpus re-scan 2026-09-23 (deepen-x slice 09221200-2): fresh grep 謝敏川/Hsieh — hit set identical to prior pass (index, #144, #888, #14, #43, #186); verified-saturated._

@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # Taiwanese American Organization at UC Davis
 
@@ -39,3 +39,4 @@ SKIP-with-reason: corpus scan found only incidental UC Davis mentions predating 
 - [[organizations/taiwanese-graduate-student-association-at-uc-davis|Taiwanese Graduate Student Association at UC Davis]]
 - [[organizations/tah-foundation|TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+> Corpus re-scan 2026-09-23 (deepen-x slice 09221200-2): fresh grep "UC Davis" — hits are nav/cross-link mentions of the TSA/TGSA Davis pages only, no TAO (this club) content; verified-saturated, SKIP-deepen.
