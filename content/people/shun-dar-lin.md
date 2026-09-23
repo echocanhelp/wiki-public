@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # Shun Dar Lin (林舜達)
 
@@ -39,7 +39,7 @@ last_reviewed: 2026-09-22
 - **Archival donor.** The TAHS holds "Collection of Prof. Shun Dar Lin 林舜達教授的收藏" — [[works/taiwaneseamericanhistory-org/collection-of-prof-shun-dar-lin|42. Collection of Prof. Shun Dar Lin]] — evidence his papers/collection were entrusted to the movement record itself.
 - Biographical encyclopedia entry: [[works/taiwaneseamericanhistory-org/whos-shun-dar-lin|597. Shun Dar Lin 林舜達]] (2015/09).
 
-> SKIP note (re-verified 2026-09-22 deepening pass; fresh grep same result): corpus grep of content/works + content/articles for 林舜達/Shun Dar Lin returned only the 5 work pages already absorbed above (mystories366, mystories366-eng, publications1042, collection-of-prof-shun-dar-lin, whos-shun-dar-lin) plus the works index. No new community facts absorbable; nothing invented.
+> SKIP note (re-verified 2026-09-22 deepening pass; fresh grep same result): corpus grep of content/works + content/articles for 林舜達/Shun Dar Lin returned only the 5 work pages already absorbed above (mystories366, mystories366-eng, publications1042, collection-of-prof-shun-dar-lin, whos-shun-dar-lin) plus the works index. No new community facts absorbable; nothing invented. Re-verified 2026-09-23 (slice 09221300-8): hit set unchanged.
 
 ## Family
 

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # Morisan Lu (呂明森)
 
@@ -39,6 +39,8 @@ last_reviewed: 2026-09-22
 _No filled family fields on the TAH profile._
 
 <!-- deepen-x slice 09220500-3 re-verify 2026-09-22: fresh grep — same hits (ourjourneys9-eng/09, ourjourneys17, whos-m-s-lu); added one memoir detail (元祿壽司 renovation predating 將軍); page dates match memoir exactly (1983-11-01 開工, 1984-03-07 完工, 將軍27 1988-09); no conflicts -->
+
+<!-- deepen-x slice 09221300-4 re-verify 2026-09-23: fresh grep 呂明森/Morisan Lu — same hits (ourjourneys9-eng/09, ourjourneys17, whos-m-s-lu), all already absorbed; no new facts, no conflicts. Verified-saturated SKIP. -->
 
 ## Sources
 - [TAH #907 encyclopedia: 907. Morisan Lu 呂明森 / 2016/03](https://taiwaneseamericanhistory.org/whos-m-s-lu/)
