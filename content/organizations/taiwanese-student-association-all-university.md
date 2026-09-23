@@ -33,3 +33,5 @@ HOLD: the TAH directory entry "Taiwanese Student Association – All-University"
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+複核（deepen-x 2026-09-23 slice-11）：SKIP-with-reason — fresh re-grep（紐約大學台灣同學會 / "Taiwanese Student Association" / "All-University" / NYU TSA, works+articles）零命中；既有材料（2011 Halloween party 報導、219 NYU 學生志工紀錄）已吸收，@nyu.tsa 連續性 HOLD 維持。無新增社群材料。

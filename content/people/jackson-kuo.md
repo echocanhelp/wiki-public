@@ -57,3 +57,4 @@ HERMIT Jackson Kuo is born in Taiwan in 1950. He is not a real hermit but in spi
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 複核（deepen-x 2026-09-22 slice-12）：再次 re-grep（ZH+EN, works+articles）命中集合與前次完全相同，全部已 wikilink 吸收 — 飽和，無新增社群材料。
+複核（deepen-x 2026-09-23 slice-11）：fresh re-grep（郭敏俊 / Jackson Kuo, works+articles）命中集合與前次完全相同（publications 1007/1159/1160、mystories453、whos1125、94-collection）— 飽和，無新增社群材料；#1159 署名郭俊敏 HOLD 維持。

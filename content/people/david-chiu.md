@@ -49,3 +49,4 @@ _No filled family fields on the TAH profile._
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 複核（deepen-x 2026-09-22 slice-12）：再次 re-grep（ZH+EN, works+articles）命中集合與前次完全相同，全部已 wikilink 吸收 — 飽和，無新增社群材料。
+複核（deepen-x 2026-09-23 slice-11）：fresh re-grep（邱信福 / David Chiu, works+articles）命中集合與前次完全相同（ourjourneys164、whos-who-2189、ota-230、david-chiu、meet-david-chiu、TACL 25th 回憶錄），全部已 wikilink 吸收 — 飽和，無新增社群材料。
