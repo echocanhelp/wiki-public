@@ -43,6 +43,7 @@ last_reviewed: 2026-09-22
 - **紐約針織企業家** — 楊遠薰 wrote his business-and-philanthropy story for the community memoir series ([[works/taiwaneseamericanhistory-org/mystories264|楊遠薰, 紐約針織企業家廖國仲的故事, 2014/12]]); he also published a collection of essays/art, 老猴集 ([[works/taiwaneseamericanhistory-org/154-e8-80-81-e7-8c-b4-e9-9b-86-e5-bb-96-e5-9c-8b-e4-bb-b2200101art-e8-97-9d-e8-a|老猴集, 2001/01]]), matching his TAH "artist" role.
 - **Celebrated as a community exemplar** — 李彥禎's essay urging community members to write their own stories singles out 楊遠薰's biography of 廖國仲 as the opening piece of her memoir collection, naming Liao as his friend and one of the "傑出的台灣人" whose deeds risk being lost because humble Taiwanese are "會做不會講" ([[works/taiwaneseamericanhistory-org/ourjourneys264|264. 請大家來寫作 / 李彥禎 /11/2016]]) — positioning him as a touchstone figure of the LA-era movement memoir tradition.
 - The 2014 memorial-dating conflict with the TAH 「-2005」 death year remains unresolved — see From the record HOLD.
+- 2026-09-23 re-grep (deepen-x slice 09221000-13): SKIP — fresh grep (廖國仲, works+articles) hit set unchanged: own records (#883, 老猴集 #154, 楊遠薰傳 mystories264), 台灣之音回憶 ourjourneys2, 李彥禎 essay ourjourneys264, and the 2021/2024/2025 彭昕 memorial memo (2014 NY 追思會) — all already cited above; no new absorbable facts. The HOLD (TAH 「-2005」 vs 2014 memorial) stands.
 
 ## From the record
 
