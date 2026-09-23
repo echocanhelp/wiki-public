@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # David Wu (吳振瑋博士)
 
@@ -44,6 +44,7 @@ last_reviewed: 2026-09-22
 
 ## Corpus check (2026-09-22)
 - Idempotent re-verify (slice 09220500-12): fresh grep — hit set (27, mr-david-wu-oregon, david-wu, 67, works index, taiwanese-american-heritage-week) fully linked above; the 吳振偉 vs 吳振瑋 HOLD stands; no new absorbable facts.
+- Corpus re-check 2026-09-23 (deepen-x slice 09221300-19): re-grep (吳振瑋 / 吳振偉 / David Wu) — hit set unchanged (own records, index rows, Heritage Week work, all already linked above). Verified-saturated SKIP-deepen; HOLD stands.
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/david-wu/)

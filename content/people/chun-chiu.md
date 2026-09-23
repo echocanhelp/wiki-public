@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # Chun Chiu (邱俊邦)
 
@@ -45,7 +45,7 @@ _No filled family fields on the TAH profile._
 
 ## Worklog
 
-- 2026-09-22 deepen-x slice 09220500-15: re-verified — fresh grep returns only works already wikilinked (Our Journeys 19/24/53 incl. -eng variants, whoswho1072) plus the 國策顧問 roster already cited under From the record. Nothing new absorbable.
+- 2026-09-23 deepen-x slice 09221300-20: re-verified — fresh grep returns only works already wikilinked (Our Journeys 19/24/53 incl. -eng variants, whoswho1072) plus the 國策顧問 roster already cited under From the record. Nothing new absorbable.
 
 ## Sources
 - [TAH #1073 encyclopedia: 1073. Chun Chiu 邱俊邦 / 2016/06](https://taiwaneseamericanhistory.org/whoswho1072/)

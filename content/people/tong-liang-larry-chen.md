@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # Tong-Liang Larry Chen (陳東亮)
 
@@ -37,7 +37,7 @@ Tong-Liang (Larry) Chen 陳東亮 – History of Taiwanese American (T.A. Archiv
 - **1999 — 聖恩長老教會設教**：任小會書記；設教計劃於 1998-12 信徒大會議決通過，1999-01-10 中會議長 Rev. Van Brugan 退休宴會中宣佈設教計劃，1999-01-23 陪同中會總幹事 Rev. Joyce Emery 實地勘察三間候選教會（最終選定 Slackwood），1999-04-04 復活節創會感恩禮拜（兩百五十餘人出席）讀經（劉照男回憶錄）[[works/taiwaneseamericanhistory-org/ourjourneys43||43. 聖恩長老敎會設敎經過／劉照男]]。
 - **2002 —「台灣加入聯合國進行曲」**：歌譜由蕭泰然、陳東亮共同署名 [[works/taiwaneseamericanhistory-org/artifacts55||55. 台灣加入聯合國進行曲(歌譜)]]；2017-10 親撰誕生故事 [[works/taiwaneseamericanhistory-org/mystories590||590.「台灣加入聯合國進行曲」的誕生故事]]。
 - TAH encyclopedia record: [[works/taiwaneseamericanhistory-org/whoswho1387||1387. Tong-Liang (Larry) Chen 陳東亮]]（2016-11）。
-- Corpus re-check 2026-09-22: hits remain the five linked works (307 / ourjourneys43 / 590 / 55 / 1387) plus the works index; 劉照男回憶錄 details (聖恩設教小會書記、1999-01-10 宣佈設教計劃、1999-04-04 創會讀經) already absorbed — no new text.
+- Corpus re-check 2026-09-23 (slice 09221300-20): hits remain the five linked works (307 / ourjourneys43 / 590 / 55 / 1387) plus the works index; 劉照男回憶錄 details (聖恩設教小會書記、1999-01-10 宣佈設教計劃、1999-04-04 創會讀經) already absorbed — no new text.
 
 ## Family
 

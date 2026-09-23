@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # Prof. Wen Chan (詹文聲教授)
 
@@ -45,6 +45,9 @@ The corpus preserves the organization he is documented with — the North Americ
 - He speaks directly in the movement record at the 台美人檔案座談會 held at the 2007 美南夏令會 (Dallas), reported in TAH's Our Journeys series: he recounted joining 台灣同鄉會 activities from his student years, and proposed that 同鄉會 follow the 台灣教授協會 practice of producing a ten-year Summary of each decade's events and records — noting the movement's character in 1980 was very different from the present. ([[works/taiwaneseamericanhistory-org/ourjourneys155|155. 台美人檔案座談會 in 2007美南夏令會]])
 
 His encyclopedia entry itself is preserved at [[works/taiwaneseamericanhistory-org/whos-who-1834-wen-chan|1834. Prof. Wen Chan 詹文聲教授]].
+
+## Corpus check (2026-09-23)
+- Deepen-x slice 09221300-19: re-grep (詹文聲 / Wen Chan) — hit set unchanged (own record #1834, ourjourneys155 座談會記錄, index rows; all already linked above). No new absorbable facts — verified-saturated SKIP-deepen.
 
 ## Sources
 - [TAH #1834 encyclopedia: 1834. Prof. Wen Chan 詹文聲教授](https://taiwaneseamericanhistory.org/whos-who-1834-wen-chan/)

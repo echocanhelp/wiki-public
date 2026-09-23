@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # Dr. Kuei-Hsien Chen (陳貴賢博士)
 
@@ -41,6 +41,7 @@ last_reviewed: 2026-09-22
 
 - 2026-09-22（slice 09210317-17）再grep（陳貴賢／Kuei-Hsien Chen）：命中仍僅 [[works/taiwaneseamericanhistory-org/whos-who-1827-kuei-hsien-chen|TAH #1827]] 與 works/index.md；夫人林麗瓊 #1828 紀錄為唯一相鄰語料。SKIP-content：無可吸收新事實。
 - 2026-09-22（slice 09220500-10）再grep（陳貴賢／Kuei-Hsien Chen）：命中仍僅 [[works/taiwaneseamericanhistory-org/whos-who-1827-kuei-hsien-chen|TAH #1827]] 與 works/index.md。SKIP-content：無可吸收新事實。
+- 2026-09-23（slice 09221300-20）再grep：命中集合未變（僅 #1827 與 works/index.md）。SKIP-content：無可吸收新事實。
 
 ## Sources
 - [TAH #1827 encyclopedia: 1827. Dr. Kuei-Hsien Chen 陳貴賢博士](https://taiwaneseamericanhistory.org/whos-who-1827-kuei-hsien-chen/)
