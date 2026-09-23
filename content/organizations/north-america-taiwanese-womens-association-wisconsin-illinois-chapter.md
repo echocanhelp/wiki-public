@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # North America Taiwanese Women’s Association – Wisconsin/Illinois Chapter (北美洲台灣婦女會威斯康辛)
 
@@ -27,6 +27,8 @@ No Wisconsin/Illinois-specific corpus record exists yet in works/ or articles/ �
 Wisconsin regional context: the Wisconsin Taiwanese community the chapter sits in is itself documented in the corpus — the 威大台灣同鄉會 (The Formosan Club of the University of Wisconsin), registered at the university on 1963-10-19 as a non-political student club, in [[works/taiwaneseamericanhistory-org/ourjourneys81|81. 威大台灣同鄉會史]]; the first 北美洲台灣人靈修會 held on a Wisconsin lake in 1967 in [[works/taiwaneseamericanhistory-org/158-e5-a8-81-e6-96-af-e5-ba-b7-e8-be-9b-e5-b7-9e-e6-97-a5-e5-85-a7-e7-93-a6-e6-b|158. 威斯康辛州日內瓦湖畔 (1967)]]; Madison, WI Taiwanese student prayer/Bible-study groups that grew into Midwest-wide 基督徒夏令會 in [[works/taiwaneseamericanhistory-org/ourjourneys-369|Our Journeys 369]]; and the University of Wisconsin 台灣布袋戲團 in [[works/taiwaneseamericanhistory-org/ourjourneys277|277. 威斯康辛大學「台灣布袋戲團」(朱靜女, 02/2017)]]. These place the chapter in a documented lineage of Wisconsin Taiwanese organizing; none are chapter-specific NATWA records. The NATWA 聯誼通訊 issues in the corpus ([[works/taiwaneseamericanhistory-org/663-e5-8c-97-e7-be-8e-e6-b4-b2-e5-8f-b0-e7-81-a3-e5-a9-a6-e5-a5-b3-e6-9c-83-e8-8|663. 聯誼通訊第七期 (1992/06)]], [[works/taiwaneseamericanhistory-org/679-e5-8c-97-e7-be-8e-e6-b4-b2-e5-8f-b0-e7-81-a3-e5-a9-a6-e5-a5-b3-e6-9c-83-e8-8|679. 聯誼通訊第二十三期 (2000/08)]]) carry no Wisconsin/Illinois chapter record.
 
 NATWA's organization-wide publications that reach all chapters are held in the corpus: [[works/taiwaneseamericanhistory-org/publications555|555. 北美洲台灣婦女會月曆 (1993–2018)]], [[works/taiwaneseamericanhistory-org/554-e5-8c-97-e7-be-8e-e6-b4-b2-e5-8f-b0-e7-81-a3-e5-a9-a6-e5-a5-b3-e6-9c-83-e7-a|554. 聯誼通訊 (2000–2014)]], its service work via [[works/taiwaneseamericanhistory-org/columns17|17. 關懷網 by NATWA 關懷資訊中心]], and the 婦女信箱 column record (1991–2001, 台灣公論報) with its 千禧年專刊 editorial account in [[works/taiwaneseamericanhistory-org/ourjourneys79|79. 婦女信箱 (吳美芬、楊詠絮, 2014/12)]].
+
+2026-09-23 corpus re-grep (DEEPEN-X slice 09221100-3): no Wisconsin/Illinois-chapter-specific record surfaced. The only NATWA records mentioning Wisconsin-adjacent material remain those absorbed above (OJ 255's Wisconsin-member note); org-level hits (e.g. [[works/taiwaneseamericanhistory-org/ourjourneys328|328. 休士頓台灣人傳統基金會]], NATWA's $21,090 Hurricane Harvey relief donation 2017) are chapter-agnostic and stay as organization context. VERIFIED-SATURATED at chapter level — still directory-only, no chapter-specific corpus record exists.
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/north-america-taiwanese-womens-association-wisconsin-illinois-chapter/)

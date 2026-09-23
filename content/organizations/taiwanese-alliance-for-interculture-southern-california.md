@@ -6,7 +6,7 @@ tags:
   - Taiwanese-American
   - Southern California
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # Taiwanese Alliance for Interculture (S. California)
 
@@ -34,6 +34,7 @@ Corpus-linked records (absorbed 2026-09-20):
 - The TAHS story corpus also files two records under this page that read as Bay-Area material: 番薯-台灣協志會會刊 ([[works/taiwaneseamericanhistory-org/journals-of-taiwanese-alliance-for-interculture|Journals of Taiwanese Alliance for Interculture]], 2017-03-10) and the 獎學金 record ([[works/taiwaneseamericanhistory-org/taiwanese-alliance-for-interculture-scholarship|58. 灣區協志會獎學金]], 2015-10-13), whose own title says 灣區. HOLD: conflict — corpus subject-tagging vs geography; the 1973 北加州「台灣協志會」(TAI) is a distinct body.
 - Background for the distinction, from 何義麟's study ([[works/taiwaneseamericanhistory-org/our-journeys-357|357. 舊金山灣區臺灣人的社團活動與家國意識之形成]], 2020-08-25, band A): TAI was organised in 1973 out of Palo Alto reading groups, issued the journal 《蕃薯》, formed the 蓬萊歌劇團, and after the 高雄事件 was blacklisted by the ROC government as a 叛亂團體 — i.e. the press-kit founding narrative for the *northern* alliance, kept here only as the "Not:" anchor.
 - Two more Bay-Area primary records are filed against this page in the corpus, reinforcing the tagging HOLD rather than this page's SoCal identity: 紀哲嘉's founding chronicle ([[works/taiwaneseamericanhistory-org/ourjourneys37|37. 台灣協志會成立與大事記 / 紀哲嘉 / 2014/09]], band A) — 台灣協志會 founded 1973-05-18 in the South Bay before 43 members, English name fixed as Taiwanese Alliance for Interculture (TAI) — and the movement's first newsletter issue ([[works/taiwaneseamericanhistory-org/ff116|116. 番薯 / 台灣協志會會刊 / First Newsletter / 1973/10]]), whose subject-tagging points at this page.
+- 2026-09-23 corpus re-grep (DEEPEN-X slice 09221100-3): hit-set unchanged (dedicated society record, OJ 266 census, 協志杯壘球賽, the Bay-Area 番薯/獎學金/OJ 37 files and OJ 357 all absorbed above; OJ 142's 協志會 mention is a Bay-Area union-council passage, not SoCal material). VERIFIED-SATURATED — no new SoCal-specific absorbable material; the Bay-Area tagging HOLD above stands.
 
 ## Related Pages
 - [[people/c-y-hsu||Tsan Yu Hsu 許贊育]]
