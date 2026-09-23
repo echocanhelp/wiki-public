@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # Jessie Lee (李潔晞)
 
@@ -49,3 +49,4 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- Corpus re-grep 2026-09-23 (slice 09221000-19): hit set unchanged (TAH #2083, NATWA2con, index). Program text further identifies the third panelist's film — Mian Mian Lu 陸慧綿, audience-award winner "My Mom's Wedding," appearing via pre-recorded video [[works/taiwaneseamerican-org/natwa2con|NATWA2con program]]; the program's own Remii Huang bio still misattributes "Never Let You Go" to her — HOLD on the attribution stands, TAH #2083 kept as ground. Verified-saturated.

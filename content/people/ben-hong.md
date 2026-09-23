@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # Ben Hong (洪本倫)
 
@@ -48,3 +48,4 @@ The movement record holds two TAH encyclopedia entries on him — [[works/taiwan
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- Re-verified 2026-09-23 (slice 09221000-19): fresh ZH+EN re-grep matches only the same two TAH entries (#309/#683) plus index — SKIP, verified-saturated, no new absorbable material.
