@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # Francie Lin
 
@@ -49,3 +49,4 @@ _No filled family fields on the TAH profile._
 
 > Corpus re-scan 2026-09-22 (deepen-x slice 09210800-19): fresh grep works/+articles/ — hit set unchanged from prior absorption; all records already wikilinked above. SKIP-deepen; nothing new absorbable.
 > Re-verify 2026-09-22 (deepen-x slice 09220500-23): fresh grep — hit set = Edgar record, whoswho1158, Band-A interview, works/index; all absorbed. SKIP.
+> Re-verify 2026-09-23 (deepen-x slice 09221400-10): fresh grep works/+articles/ — hit set unchanged (own records + works/index only), all records already wikilinked above. SKIP; nothing new absorbable.

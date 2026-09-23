@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # Jennifer Chen
 
@@ -47,3 +47,4 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+> Re-verify 2026-09-23 (deepen-x slice 09221400-10): fresh grep works/+articles/ — hit set unchanged (own records + works/index only), all records already wikilinked above. SKIP; nothing new absorbable.
