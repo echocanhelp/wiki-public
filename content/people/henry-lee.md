@@ -39,4 +39,4 @@ Henry Lee (李豐隆) is listed in the TAH Foundation Who’s Who Taiwanese Amer
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
-2026-09-22 re-check: corpus re-grep (Henry Lee / 李豐隆) returned only the works already cited above (ourjourneys 75/75-eng/245/268/329, whoswho1467) — no new absorbable facts.
+2026-09-22 re-check: corpus re-grep (Henry Lee / 李豐隆) returned only the works already cited above (ourjourneys 75/75-eng/245/268/329, whoswho1467) — no new absorbable facts. Re-confirmed 2026-09-23 (slice 09221300-11).

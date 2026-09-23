@@ -40,6 +40,7 @@ _No filled family fields on the TAH profile._
 - Re-grepped 2026-09-19 (deepen-x slice 09180500-5): no corpus facts beyond the above — all remaining 林品任/Richard Lin hits are the same #306/#678 records, the #393 name-collision record, plus the index.
 
 - Re-grepped 2026-09-22 (slice 09212352-30): hits unchanged — only the cited #306/#678 records, the #393 name-collision record, and the index. No new corpus facts. SKIP-content; #393 HOLD stands.
+- Re-grepped 2026-09-23 (slice 09221300-11): hits unchanged — same #306/#678 records, #393 collision record, index. No new corpus facts.
 
 ## Sources
 - [TAH #306 encyclopedia: 306. Richard Lin 林品任, Violinist / 2015/10](https://taiwaneseamericanhistory.org/306-richard-lin-%e6%9e%97%e5%93%81%e4%bb%bb-violinist-201510/)
