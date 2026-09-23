@@ -4,7 +4,7 @@ type: organization
 tags:
   - 
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # San Francisco Theological Seminary
 
@@ -33,6 +33,7 @@ Through leaders trained there, the seminary is connected to early theological in
 - Note: 舊金山太平洋神學院 (Pacific Theological Seminary, where 張瑞雄 first enrolled 1962) is a distinct institution from 舊金山神學院 in the source text.
 
 ## Re-grep log
+- Corpus re-grep 2026-09-23 (slice 09221000-5): verified-saturated — corpus hits remain only #350 and #357, both fully absorbed; the 1966-vs-1967 graduation HOLD stands.
 - Corpus re-grep 2026-09-22 (slice 09212352-6): verified-saturated — only corpus hits are #350 and #357, both already absorbed above (including the 1964 交換學生 transfer from 太平洋神學院 under 黃武東's introduction, and the 1966-vs-1967 graduation HOLD); frontmatter type corrected person→organization.
 
 ## Related Pages

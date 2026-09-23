@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # Dr. Sheng-Yi Chuang (莊勝義博士)
 
@@ -36,6 +36,7 @@ last_reviewed: 2026-09-22
 - **Memorial.** 王泰澤 & 張喜久, 感謝—悼念好友莊勝義博士 (05/2020) ([[works/taiwaneseamericanhistory-org/my-stories-729|729. my-stories-729]]) — corroborates the 1942–2020 span and his place in the Houston circle.
 - Corpus re-grep 2026-09-22 (slice 09212352-11): SKIP — hit set unchanged (own #2272, ourjourneys-139, ourjourneys233 +eng, ourjourneys308, my-stories-729), all already linked above; the $150,000–$200,000 (EN) vs 十五萬–二十三萬元 (ZH) purchase-cap detail in #233 is the same already-flagged HOLD; no new material.
 - Corpus re-grep 2026-09-21 (slice 09210051-2): hit set unchanged — own #2272 biblio entry, ourjourneys-139, ourjourneys233 (+eng), ourjourneys308, my-stories-729, all already linked above; no new memoir material to absorb.
+- Corpus re-grep 2026-09-23 (slice 09221000-8): SKIP — hit set unchanged (own #2272, ourjourneys-139, ourjourneys233 +eng, ourjourneys308, my-stories-729), all already linked; the EN/ZH purchase-cap discrepancy in #233 remains the flagged HOLD; no new material.
 
 ## Family
 

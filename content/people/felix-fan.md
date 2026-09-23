@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # Felix Fan (范雅志)
 
@@ -37,6 +37,7 @@ Felix Fan is a celebrated young cellist whose eclectic music-making and leadersh
 - Held two TAH Foundation story-corpus records: [[works/taiwaneseamericanhistory-org/50-felix-fan-e8-8c-83-e9-9b-85-e5-bf-97-cellist|TAH #50, Cellist profile (2014)]] and [[works/taiwaneseamericanhistory-org/291-felix-fan-e8-8c-83-e9-9b-85-e5-bf-97201502|TAH #291 (2015)]].
 - 2026-09-21 re-grep (deepen-x slice 09210317-7): fresh grep (works+articles) hits confined to the already-linked records (TAH #50/#291, ourjourneys294, ourjourneys301) — no new absorbable facts, no conflicts to HOLD.
 - 2026-09-22 re-grep (deepen-x slice 09212352-16): fresh grep ('Felix Fan'／范雅志, works+articles) hits again confined to the already-linked records (TAH #50/#291, ourjourneys294, ourjourneys301) — no new absorbable facts, no conflicts to HOLD.
+- 2026-09-23 re-grep (deepen-x slice 09221000-14): 范雅志/Felix Fan across works+articles returns exactly the already-linked records (plus works/index) — verified saturated, no new facts, no conflicts.
 
 ## Family
 

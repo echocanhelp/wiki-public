@@ -43,6 +43,7 @@ Clinical Professor; Director of the Dual Diagnosis Treatment Program
 - Corpus re-grep 2026-09-20 (slice 09191100-6): fresh grep of content/works + content/articles returns only the works index plus his own #1924 entry — hit set unchanged, nothing new to absorb.
 - Corpus re-grep 2026-09-21 (slice 09210317-6): SKIP — Tsuang hits are his own #1924 entry plus father 莊明哲's records (#14/#82/#398/#16, Our Journeys #384, ourjourneys33-eng); no first-person material on John himself.
 - Corpus re-grep 2026-09-22 (slice 09212352-15): SKIP — fresh grep (莊文宗／John Tsuang, works+articles) returns only his own TAH #1924 entry plus the works index; hit set unchanged, nothing new to absorb.
+- Corpus re-grep 2026-09-23 (slice 09221000-13): SKIP — fresh grep (莊文宗／John Tsuang／TSUANG, works+articles) hits unchanged: his own #1924 entry + works index only. The one 2022 Tsuang-family passage in [[works/taiwaneseamericanhistory-org/our-journeys-384|Our Journeys #384]] concerns his father 莊明哲 and stepmother Snow, not John himself — nothing first-person about John to absorb; no conflicts to HOLD.
 
 ## Sources
 - [TAH #1924 encyclopedia: 1924. Dr. John Tsuang 莊文宗醫師](https://taiwaneseamericanhistory.org/whos-who-1924-john-tsuang/)
