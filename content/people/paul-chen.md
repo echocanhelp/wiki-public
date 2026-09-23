@@ -219,6 +219,8 @@ Notable quotes and mentions of **陳柏宇** in Taiwan Justice articles:
 
 ## From the record
 
+- 複核（TJJ-A09221300-11, 2026-09-23）：subject link 經本 slice 再驗證為真實對應，對應 From-the-record 條目已在庫（無錯鏈、無虛鏈）— SKIP，無新材料。
+
 - 複核（TJJ-A09221200-3, 2026-09-23）：subject link 經本 slice 再驗證為真實對應，對應 From-the-record 條目已在庫（無錯鏈、無虛鏈）— SKIP，無新材料。
 
 - 再核（TJJ-A09221200-15, 2026-09-23）：本 slice 文章 097b5750fcf3091a 正文再驗證——陳柏宇以會館董事長身分發言賑災協調中心角色，連結為真；2024-04-04 條目已在庫，無新材料。

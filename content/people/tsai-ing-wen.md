@@ -46,6 +46,8 @@ name_en: "Tsai Ing-wen"
 
 ## From the record
 
+- 複核（TJJ-A09221300-11, 2026-09-23）：subject link 經本 slice 再驗證為真實對應，對應 From-the-record 條目已在庫（無錯鏈、無虛鏈）— SKIP，無新材料。
+
 - 再核（TJJ-A09221200-13, 2026-09-23）：本 slice 文章 042939d886040651（Mark Kao 高龍榮 Taipei Times 專欄，TJJ 轉載）全文再驗證——Schrage 批評蔡英文2011訪美重「process」輕「specific outcome」之論述確認，連結為真；2015-03-27 條目已在庫，無新材料。
 
 - 再核（TJJ-A09221200-15, 2026-09-23）：本 slice 文章 760a0bc942e1676b（VOA：台灣祝賀拜登、賀錦麗就職）正文再驗證——蔡總統發推祝賀並稱台灣準備好作為全球良善力量合作，連結為真；2021-01-20 條目已在庫，無新材料。

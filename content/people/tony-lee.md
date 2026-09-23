@@ -7,7 +7,7 @@ tags:
   - Taiwan-Center
   - board
 verification_status: published
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # Tony Lee (李賢群)
 
@@ -26,6 +26,8 @@ last_reviewed: 2026-09-22
 - **WHA 聯合聲明的共同發起人** — named among the 共同發起人 of the 2021 南加州僑界支持台灣參與世界衛生大會 (WHA) 聯合聲明 (Taiwan Justice Net, 2021-05-17, preserved in the vault article archive).
 
 ## From the record
+
+- 複核（TJJ-A09221300-11, 2026-09-23）：subject link 經本 slice 再驗證為真實對應，對應 From-the-record 條目已在庫（無錯鏈、無虛鏈）— SKIP，無新材料。
 
 - 2024-02-24 — 以大洛杉磯台灣會館董事身份在該館「2024年二二八追思紀念大會」主講「陳篡地-斗六治安維持會」，介紹陳篡地——日治時代赴日留學的醫師——在二二八事件後領導組成斗六治安維持會反抗國民政府統治的事蹟（[[articles/taiwanjustice-net/2024/20240412192704_root_95fd81860bafb5bf|TJJ, 2024-02-25]]）。
 - 2025-02-22 — 以228系列活動召集人身份（與董事潘掬慧）主持台館「228追思紀念大會」，會中介紹第一個不義遺址——228事發地點台北原天馬茶房前1947-02-27查緝私菸毆打菸販林江邁、緝查員開槍誤殺路人陳文溪引爆民怨的現場——並逐一披露國史館整理的25處不義遺址，強調不義遺址具本土歷史意義、是傳承台灣人歷史觀的教育場域（[[articles/taiwanjustice-net/2025/20250320212940_大洛杉磯台灣會館等24個台美社團舉舉行228追思紀念_c62f5c50846fe267|TJJ report, 2025-02-24]]）。
