@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # Yang Foundation (楊文傑紀念基金會)
 
@@ -23,7 +23,7 @@ deepen-x 09220600-31 recheck 2026-09-22: fresh grep of content/works + content/a
 
 Corpus records (TAH.org) document the foundation's named activities and its commemorative purpose:
 
-- The foundation is a memorial foundation for **Wen-Jei Yang (楊文傑)**, who has a TAH.org Who's Who entry ([[works/taiwaneseamericanhistory-org/whos-who-2296-wen-jei-yang|Who's Who #2296: Wen-Jei Yang 楊文傑]], era 2020).
+- The foundation is a memorial foundation for **Wen-Jei Yang (楊文傑)**, who has two TAH.org Who's Who entries ([[works/taiwaneseamericanhistory-org/whos-who-2163-wen-jei-yang|Who's Who #2163: Wen-Jei Yang 楊文傑]] and [[works/taiwaneseamericanhistory-org/whos-who-2296-wen-jei-yang|Who's Who #2296: Wen-Jei Yang 楊文傑]], era 2020) — duplicate directory records for the same person, no conflict.
 - It awards the **Yang Foundation Scholarship (楊文傑紀念基金會獎學金)** — an educational program consistent with the directory description ([[works/taiwaneseamericanhistory-org/yang-foundation-scholarship|Yang Foundation Scholarship]], era 2018).
 - It sponsors the **Wen Yang Memorial Ping Pong Tournament (楊文傑紀念基金會乒乓球賽)** — a recreational event matching the directory's recreational-program role ([[works/taiwaneseamericanhistory-org/wen-yang-memorial-ping-pong-tournament|Wen Yang Memorial Ping Pong Tournament]], era 2018).
 - Overview work page: [[works/taiwaneseamericanhistory-org/yang-foundation|Yang Foundation 楊文傑紀念基金會]] (era 2018).

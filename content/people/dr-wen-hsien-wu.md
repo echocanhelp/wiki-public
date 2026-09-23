@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # Dr. Wen-Hsien Wu (吳聞咸醫師)
 
@@ -44,8 +44,8 @@ _No filled family fields on the TAH profile._
 
 Corpus grep found no memoir or other community mentions of 吳聞咸 beyond the TAH Who's Who record itself.
 
-## Corpus check (2026-09-22)
-- Idempotent re-verify: fresh grep — sole corpus hit remains [[works/taiwaneseamericanhistory-org/whoswho2006|whoswho2006]] (plus index pages); nothing new absorbable.
+## Corpus check (2026-09-22, re-verified 2026-09-23 slice 09221400-27)
+- Idempotent re-verify: fresh grep (EN+ZH) — sole corpus hit remains [[works/taiwaneseamericanhistory-org/whoswho2006|whoswho2006]] (plus index pages); nothing new absorbable.
 
 ## Sources
 - [TAH #2006 encyclopedia: 2006. Dr. Wen-Hsien Wu 吳聞咸醫師](https://taiwaneseamericanhistory.org/whoswho2006/)
