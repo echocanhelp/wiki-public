@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # Whe-Lan Wu Detrick (迪惠蘭)
 
@@ -41,7 +41,7 @@ last_reviewed: 2026-09-22
 - She and her husband John Detrick are listed as signatories representing the East Bay Taiwanese Association (東灣台灣同鄉會) in the Pew Research Center Taiwanese American statement — [[works/taiwaneseamerican-org/pew-research-center-taiwanese-american-statement|Pew Research Center Taiwanese American statement]].
 - Her Who's Who entry itself is archived as [[works/taiwaneseamericanhistory-org/whoswho-whelan-wu-detrick|TAH #1535, Whe-Lan Wu Detrick 迪惠蘭]] (2017/02, record 2017-02-26), in the same 2017/02 batch as #1534 John Yu 游正博 and #1533 Alice Yu 游陳鈴津.
 - Corpus check 2026-09-21 (deepen-x 09201500-10): re-grep (迪惠蘭/Detrick) returns the same absorbed set — works 78, 296 (ZH+EN), 1535, Pew statement, index — no new unabsorbed corpus facts; the name-form HOLD below stands.
-- Corpus re-grep 2026-09-22 (slice 09211500-16): hit set unchanged — same absorbed set (78, 296 ZH+EN, 1535, Pew statement, index); SKIP: page saturated.
+- Corpus re-grep 2026-09-22 (slice 09211500-16) and 2026-09-23 (slice 09220900-30): hit set unchanged — same absorbed set (78, 296 ZH+EN, 1535, Pew statement, index); the only new hit is an unrelated 2025 news article's Fort Detrick (狄翠克堡) military-base mention, not this person. SKIP: page saturated.
 - HOLD: TAH's own records spell her given name three ways across entries — Whe-Lan / Whelan / Whenlan; left unmerged pending owner-confirmed spelling.
 
 ## Sources

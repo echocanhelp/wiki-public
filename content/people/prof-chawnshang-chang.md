@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # Prof. Chawnshang Chang (張傳祥教授)
 
@@ -43,6 +43,7 @@ Prof. Chawnshang Chang 張傳祥教授 – History of Taiwanese American (T.A. A
 - Re-check deepen-x 2026-09-21: re-grep 張傳祥 / Chawnshang Chang against works/ + articles/ still returns only the three TAH entries (#22, #77, #2047) and the harvest index — all already cited above; no additional material to absorb.
 - HOLD: three overlapping TAH entries (#22, #77, #2047) for one person — entry numbering/dates not reconciled; no auto-merge.
 - No memoir or article corpus mentions beyond the TAH entries themselves — no additional community-activity facts to absorb.
+- Corpus re-grep 2026-09-23 (slice 09220900-25): hit set unchanged (TAH #22/#77/#2047 + harvest index only), all already cited. SKIP: saturated.
 
 ## Sources
 - [TAH #77 encyclopedia: 77. Prof. Chawnshang Chang 張傳祥教授](https://taiwaneseamericanhistory.org/77-prof-chawnshang-chang/)

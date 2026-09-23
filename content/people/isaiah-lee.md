@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # Isaiah Lee (李宗派教授)
 
@@ -40,6 +40,7 @@ last_reviewed: 2026-09-22
 - **Founding roster, 台美公民協會:** listed by the 台美公民協會籌備委員會 among the initiative's founding names (reprinted from 台灣公論報 369期, 1985-04-15) — [[works/taiwaneseamericanhistory-org/ourjourneys186|186. 台美公民協會簡介]].
 - **Community educator, ITPC 長青教室:** taught 老人心理保健 in the Irvine台灣長老教會 senior-education program (2013-12-30 課程紀錄) — [[works/taiwaneseamericanhistory-org/ourjourneys107|107. 長青教室 (ITPC)]].
 - **Own TAH story record:** [[works/taiwaneseamericanhistory-org/346-isaiah-lee-e6-9d-8e-e5-ae-97-e6-b4-be201503|346. Isaiah Lee 李宗派 (2015/03)]].
+- **Author, 現代老人學:** his own gerontology book is preserved as a TAH story-corpus record [[works/taiwaneseamericanhistory-org/597-e7-8f-be-e4-bb-a3-e8-80-81-e4-ba-ba-e5-ad-b8-e6-9d-8e-e5-ae-97-e6-b4-be20111|597. 現代老人學 / 李宗派 (Life/生活, band B)]] — a written continuation of his senior-education work (see ITPC 長青教室 above). HOLD: conflict — the record title carries 2011/11 while the corpus record date is 2015-03-15; not reconciled, no auto-merge.
 - Corpus grep re-verified 2026-09-19 (slice 09171100-28), again 2026-09-21 (slice 09201500-11): hit set unchanged (ourjourneys186/231/107 + story 346; the -eng parallel copies of 186/231 carry no extra community facts — 186-eng's roster names him Isaiah Lee, 231-eng Dr. Chung-Pai Lee, same people). SKIP-for-deepening: page already carries the full community record.
 
 ## Family
@@ -52,4 +53,4 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
-- Corpus re-grep 2026-09-22 (slice 09211400-29): hit set unchanged (ourjourneys186/231/107 + -eng copies + story 346); no new absorbable community facts. SKIP: page already carries the full community record.
+- Corpus re-grep 2026-09-23 (slice 09220900-25): hit set gained one new work — story record 597. 現代老人學 (李宗派), now absorbed above. Remaining hit set (ourjourneys186/231/107 + -eng copies + story 346) unchanged; no further absorbable facts.

@@ -53,3 +53,4 @@ _No filled family fields on the TAH profile._
 
 > SKIP-note (deepen-x slice 09201500-15, 2026-09-21): corpus re-grep hit set identical to records already linked above; no new absorbable corpus facts.
 > Re-verified 2026-09-22 (deepen-x slice 09211400-32): corpus re-grep ZH+EN against works/articles — hit set unchanged (own mystories485 memoir, whoswho1406 record, works index), all already linked above. No new absorbable corpus facts.
+> Re-verified 2026-09-23 (deepen-x slice 09220900-28): corpus re-grep ZH+EN (+美溪/Wellbrook) against works/articles — hit set unchanged (wellbrook-foundation, mystories485, whoswho1406, index), all already linked above. No new absorbable corpus facts.
