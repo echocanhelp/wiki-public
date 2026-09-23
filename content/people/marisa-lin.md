@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # Marisa Lin (陳麗雲)
 
@@ -41,6 +41,7 @@ last_reviewed: 2026-09-22
 - **Palladium performance support** — For the同鄉會's Taiwan dance-and-music show at the Palladium (audience mostly American; total expense $10,965.33), 陳麗雲 helped prepare food and, together with 吳良也, 鄧美美, Raymond Habash, 林麗岷, 龔良美, 何源泉 and Enrique Barbosa, provided transportation for the troupe. Same record: [[works/taiwaneseamericanhistory-org/our-journeys-389|389. 印城台灣同鄉會紀要]].
 - **Who's Who record** — [[works/taiwaneseamericanhistory-org/798-marisa-lin-e9-99-b3-e9-ba-97-e9-9b-b2-201602|798. Marisa Lin 陳麗雲 / 2016/02]].
 - 2026-09-22 re-check: fresh greps for 陳麗雲 / Marisa Lin across corpus hit only her own TAH #798 record and [[works/taiwaneseamericanhistory-org/our-journeys-389|印城台灣同鄉會紀要]] — all facts above already absorbed; no new material.
+- Corpus re-check 2026-09-23 (deepen-x slice 09221400-7): fresh grep of works/ + articles/ for 陳麗雲 / Marisa Lin returns only the TAH #798 record, our-journeys-389, and the works index — verified-saturated.
 
 ## Sources
 - [TAH #798 encyclopedia: 798. Marisa Lin 陳麗雲/ 2016/02](https://taiwaneseamericanhistory.org/798-marisa-lin-%e9%99%b3%e9%ba%97%e9%9b%b2-201602/)

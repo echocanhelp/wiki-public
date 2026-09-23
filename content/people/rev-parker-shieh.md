@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # Rev. Parker Shieh (謝貫明牧師)
 
@@ -53,3 +53,4 @@ last_reviewed: 2026-09-22
 
 ## Corpus check (2026-09-22, slice 24)
 - SKIP (verified-saturated): re-grep returned only own-name entry whos-who-1811 and the works index — no memoir or third-party mentions; nothing further absorbable.
+- Corpus re-check 2026-09-23 (deepen-x slice 09221400-7): fresh grep of works/ + articles/ for 謝貫明 / Parker Shieh returns only the own-name entry whos-who-1811 and the works index — no new absorbable material.
