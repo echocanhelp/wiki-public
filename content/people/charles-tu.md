@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # Dr. Charles Tu (杜武青博士)
 
@@ -45,6 +45,8 @@ last_reviewed: 2026-09-22
 - Corpus re-sweep 2026-09-22 (slice 09212352-32): exact-name grep 杜武青 / "Charles Tu" over works+articles returns only his own TAH records and the two already-cited WHA 聯合聲明 republications below; loose "Charles…Tu" memoir hits all resolve to other people (Charles Ting, Tun-cheng Wang, Charles W. Tang) — SKIP, nothing new absorbable.
 - Co-initiator (共同發起人) of the 2021 南加州僑界 joint statement supporting Taiwan's participation in WHA, alongside TAHS among the initiating organizations; his name also appears in the corpus republication of the statement: [[articles/taiwanjustice-net/2025/20251108183438_2021年南加州僑界支持台灣參與世界衛生大會wha聯合聲_80c0a825a7a661b6|2025 republication of the WHA 聯合聲明]]; the statement itself is also preserved in the corpus from its 2021 run: [[articles/taiwanjustice-net/2021/20210616072940_2021_05_17_2021年南加州僑界支持台灣參與世界衛生大會wha聯合聲_b1d58af16c0a5e5b|TJJ, 2021-05-17]].
 
+
+- Corpus re-sweep 2026-09-23 (slice 09221200-27): exact-name grep 杜武青 / "Charles Tu" over works+articles returns the same set already absorbed above (own TAH records 601/247/680, WHA 聯合聲明 2021 + 2025 republications); no new memoir material. SKIP-with-reason: saturated.
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/charles-tu/)

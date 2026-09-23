@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # Dr. Jui Yuan Raymond Cheng (鄭瑞源博士)
 
@@ -48,3 +48,4 @@ Cheng is named in the movement's own memoirs as an enabler of community organizi
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - 2026-09-21 corpus re-grep (DEEPEN-X slice 09210051-6): hit-set unchanged — Our Journeys #265, own #2164, the 2018 protest letter, works index; all facts already absorbed. SKIP-content.
 - 2026-09-22 corpus re-grep (DEEPEN-X slice 09212352-24): hit-set again unchanged. SKIP-content.
+- 2026-09-23 corpus re-grep (DEEPEN-X slice 09221200-30): hit-set unchanged — same records already absorbed/wikilinked above; nothing new absorbable. SKIP-content.
