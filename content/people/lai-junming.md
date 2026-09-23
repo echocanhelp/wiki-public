@@ -4,7 +4,7 @@ type: person
 tags:
   - 
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # Rev. Lai Junming (賴俊明牧師)
 
@@ -17,6 +17,8 @@ The TAH community memoir [[works/taiwaneseamericanhistory-org/ourjourneys305|Our
 HOLD: whether the GSTPC (Southern California) visiting preacher documented 2022–2023 is the same person as the 1984–1989 St. Louis founding pastor — same canonical entity key, no bridging evidence yet.
 
 Further founding-memoir detail (same source, [[works/taiwaneseamericanhistory-org/ourjourneys305|Our Journeys 305]]): the search committee decided to join the US mainstream denomination (美國長老教會) after consulting Rev. 黃武東牧師 — former long-time General Secretary of the Presbyterian Church in Taiwan — then verified that finances met presbytery standards for a full-time pastor before inviting 賴俊明. After his arrival the congregation moved worship to the parlor of First Presbyterian Church in Kirkwood (克可伍德市第一長老教會) to allow Sunday-morning services. When the session (小會) was formed it comprised the pastor and six elders: 高銘憲、林逸民、張理美、陳克充、鄭紀昭、蘇希三.
+
+2026-09-23 re-check (slice 09221200-3): fresh corpus grep for 賴俊明 returns only [[works/taiwaneseamericanhistory-org/ourjourneys305|Our Journeys 305]], already fully absorbed above. The memoir's remaining detail (the congregation's later building campaign on a five-acre presbytery-donated site) concerns the church, not the pastor personally — no new personal facts; verified saturated.
 
 ## Historical Significance
 Supported worship and special events including Father’s Day and regular Sunday services.

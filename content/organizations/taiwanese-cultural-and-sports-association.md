@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # Taiwanese Cultural and Sports Association (台灣文化體育協會)
 
@@ -29,6 +29,8 @@ TCSA (also styled 北加州台灣文化體育協會, Taiwanese Cultural & Sports
 Naming note: the directory uses both "Taiwanese Cultural and Sports Association" and "Taiwanese Cultural & Sports Association 北加州台灣文化體育協會" — treated as the same org (Northern California), no date/age conflicts found.
 
 Corpus re-check 2026-09-22 (deepen-x slice 09220400-17): fresh grep for 台灣文化體育協會 / TCSA returns only the two already-linked work pages, the already-noted taiwanjustice.net 年會 tag capture, and a false positive (archive digest string in an unrelated WHA op-ed). SKIP this pass: nothing new absorbable.
+
+Corpus re-check 2026-09-23 (deepen-x slice 09221200-17): fresh grep again — new hits (Cerritos 喜瑞都台灣文化節 work page, Karen I. Wu philanthropy essay, San Diego Taiwanese Cultural Association 聖地牙哥台灣同鄉會 pages, concerts28) are different orgs matched on the generic "Taiwanese Cultural" string, not this association. Verified saturated; page state unchanged.
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-cultural-and-sports-association/)

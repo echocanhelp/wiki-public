@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # Friends of Taiwan-Greater St. Louis (聖路易台灣之友會)
 
@@ -26,6 +26,7 @@ Friends of Taiwan-Greater St. Louis is a non-profit organization dedicated to pr
 - HOLD: corpus records name the parent 台灣之友會/Friends of Taiwan generally; only the dedicated 2017 story record ties the organization to Greater St. Louis specifically.
 
 ## Worklog
+- 2026-09-23 deepen-x slice 09221200-3: fresh grep — the only 聖路易台灣之友-specific record remains the 2017 story record (already linked); other hits (parent-page index, ff322, video57, newsletter) are all already linked. Verified saturated, no new facts.
 - 2026-09-22 deepen-x slice 09220317-29: re-grep found no new St. Louis 之友會-specific records (only the existing 2017 story record names the chapter); added one milieu link — STYCO 聖路易台灣青少年室內樂團 record 39 ([[works/taiwaneseamericanhistory-org/st-louis-taiwanese-youth-chamber-orchestra-styco|STYCO]]) — to Role in the Community.
 
 ## Sources
