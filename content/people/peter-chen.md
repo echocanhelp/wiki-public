@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # Peter Chen (陳正義)
 
@@ -46,6 +46,11 @@ last_reviewed: 2026-09-22
 - 2016-08 — authored 「Taiwanese-Americans want to be counted」 on the 2020 census Taiwanese-American checkbox campaign ([[works/taiwaneseamericanhistory-org/ourjourneys235|Our Journeys 235, 2016-08]]).
 - 2017-04 — as FAPA 會長, issued the association's public response to Secretary of State nominee Rex Tillerson's Taiwan remarks, welcoming that 台灣關係法與六項保證 were supplanting 三個公報與一中政策 and thanking Reps. Chabot and Royce and Sen. Rubio for the reaffirming bills ([[articles/taiwanjustice-net/2024/20240425071831_root_7d84196639007124|FAPA press release re Tillerson, TJJ 2017-04 archive]]).
 - Signatory listed in the Taiwanese American statement archived with the Pew Research Taiwanese-American survey record ([[works/taiwaneseamerican-org/pew-research-center-taiwanese-american-statement|Pew Research Taiwanese American statement]]).
+- 2016-05 — as FAPA 會長, issued the association's statement on the House passage of the Six Assurances resolution (H. Con. Res.): "this is the first time in history that they reach the floor of Congress in the form of legislation… a welcome gift to the people of Taiwan" ahead of the May 20 inauguration ([[articles/taiwanjustice-net/2024/20240522234036_root_e0d96e771d8f786e|TJJ archive — US House passes Six Assurances legislation, 2016-05]]).
+- 2016-10 — as FAPA 會長, quoted in coverage of Rep. Ed Royce's letter urging the Census Bureau to add a "Taiwanese" checkbox: the exclusion of a Taiwanese option is "a self-limiting policy," census data being "a pure US domestic affair" that should not yield to international politics ([[articles/taiwanjustice-net/2024/20240613111838_root_7bde09b055e70a3a|TJJ archive — Royce 籲人口普查增列台灣人選項, 2016-10-29]]).
+- 2017-03-03 — authored the op-ed 「US must aid Taiwan's WHO entry」 (原刊 Taipei Times), arguing on WHO membership for Taiwan under the byline Peter Chen 陳正義 ([[articles/taiwanjustice-net/2024/20240620192015_root_21b9e011588cc725|TJJ archive, Taipei Times 2017-03-03]]).
+- 2018-01-09 — as FAPA 會長, welcomed the House's unanimous passage of the 台灣旅行法: it "延續了國防授權法案的能量…三個公報漸漸走入歷史的餘燾," with FAPA next lobbying the Senate ([[articles/taiwanjustice-net/2024/20240228170734_root_fabf881b08ac501c|TJJ archive — 美眾院通過台灣旅行法, 2018-01-09]]).
+- Community press maintains a dedicated author tag page for him: [[articles/taiwanjustice-net/2024/20240721094305_root_851401c9a92512bc|Tag: 陳正義律師]].
 - Note: distinct from [[people/pin-shan-peter-chen|Pin-Shan Peter Chen]]; HOLD: possible cross-listing of 「Peter Chen」 signatories in the Pew statement record vs this profile — not merged.
 
 ## Sources
