@@ -30,7 +30,7 @@ last_reviewed: 2026-09-23
 
 ## From the record
 
-- 複核（TJJ-A09221200-5, 2026-09-23）：本 slice 文章 [[articles/taiwanjustice-net/2024/20240224194137_root_b1e144ecc18e460f|TJJ b1e144ec]] 正文再驗證——subject link 為真實對應，對應日期事實條目已在庫，無錯鏈、無虛鏈 — SKIP，無新材料。]
+- 複核（TJJ-A09221200-5, 2026-09-23）：本 slice 文章 [[articles/taiwanjustice-net/2024/20240224194137_root_b1e144ecc18e460f|TJJ b1e144ec]] 正文再驗證——subject link 為真實對應，對應日期事實條目已在庫，無錯鏈、無虛鏈 — SKIP，無新材料。
 
 - 再核（TJJ-A09220700-8, 2026-09-22）：本 slice 文章 9e7164ea03c1512b〈The Madness of Ma〉正文再驗證——Human Rights Action Center 就扁醫療權之「slow-motion state violence」論述確認，連結為真；2013-04-22 條目已在庫，無新材料。
 - 再核（TJJ-A09220700-10, 2026-09-22）：本 slice 文章 b63290424caedcf7（LA Times 蔡英文參選報導）正文再驗證——扁任內主張台獨、老党员仍持相同立場、扁倡导正式台獨之論述確認，連結為真；2015-04-16 條目已在庫，無新材料。
