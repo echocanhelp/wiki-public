@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # Bang H. Hwang (黃邦雄)
 
@@ -67,6 +67,8 @@ _No filled family fields on the TAH profile._
 - 2021-10-09 — 黃邦雄醫師撰稿〈人類乳突病毒與疫苗的認識[影]〉刊於台灣公義報「台美人台加人」（2025-04-30 存檔分類頁）—— [[articles/taiwanjustice-net/2025/20250430202458_category_taiwaneseamerican_a75a6e8c12e18729|TJJ 台美人台加人存檔頁]]。
 - 2018-11-02 — 在長青教室演講後心得報告〈黃金年華膀胱的呼聲〉見台灣公義報「台美人台加人」分類存檔（2024-05-20 快照）—— [[articles/taiwanjustice-net/2024/20240520023218_root_89e6683c93156205|TJJ 台美人台加人存檔頁]]；同一条目另見長青教室標籤頁 [[articles/taiwanjustice-net/2024/20240523001759_root_23e163f71d3f2ba5|2024-05-23 快照]]。
 - 2017-10-25 — 黃邦雄婦產科醫師於長青教室主講「2017 婦女癌症認知系列講座-沉默的殺手──卵巢癌」，見TJJ「長青教室」標籤存檔頁（2017-11-03 刊登）（[[articles/taiwanjustice-net/2024/20240621184031_root_49d912cc449367f0|TJJ tag 長青教室存檔, 2024-06-21 快照]]）。
+- Re-verify 2026-09-23 (TJJ-A09221200-7): link-check against slice article 49d912cc449367f0（長青教室標籤頁 2024-06-21 快照）body —「2017 婦女癌症認知系列講座-沉默的殺手──卵巢癌 ◎黃邦雄 婦產科醫師 2017-10-25」確認見於正文，連結為真；日期事實已在庫（婦科醫師 vs 解剖學者 name-collision HOLD 不變），無新材料。
+
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

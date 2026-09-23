@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # W. Y. Chou (周婉窈)
 
@@ -48,6 +48,8 @@ last_reviewed: 2026-09-22
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/w-y-chou/)
 
 ## From the record
+
+- 複核（TJJ-A09221200-11, 2026-09-23）：陳文成紀念廣場募款報導 03754005e8506b45 之 Subjects 連結再驗證——台大歷史系教授周婉窈出席記者會、表示捐款代表肯認校園轉型正義，確認見於正文，連結為真（.md 後綴已修正為慣例格式）；2019-11-02 條目已在庫，無新材料。
 
 - 2025-12 — 與致理科技大學教授津田勤子共同校訂高一生獄中家書中譯本（人权馆出版，日文原信由高英傑譯中、蔡焜霖校訂潤飾），力求趨近原意；出席國家人權博物館新書發表會（[[articles/taiwanjustice-net/2025/20251207121904_高一生56封獄中家書出書_落實原民轉型正義_834cf3e16994967b|TJJ]]）。
 - 2025-02-22 — 二二八 78 週年「走出黑暗、邁向光明」民團紀念行動行前記者會專題演講：擔憂二二八紀念活動被邊緣化、台灣缺乏集體記憶，若中國併吞台灣，二二八會再發生（[[articles/taiwanjustice-net/2025/20250318110536_二二八將屆78週年-民團發起紀念行動_9f134db13ef9bd35|TJJ]]）。

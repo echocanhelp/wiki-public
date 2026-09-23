@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # Taiwanese Association of Syracuse (雪城台灣同鄉會)
 
@@ -38,3 +38,5 @@ Parent organization: [[organizations/taiwanese-association-of-america|Taiwanese 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+<!-- deepen-x slice 09221300-1 re-verify 2026-09-23:  -->

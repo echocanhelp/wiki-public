@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # Dr. Jason Wang (王智弘)
 
@@ -42,6 +42,8 @@ _No filled family fields on the TAH profile._
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-jason-wang/)
 
 ## From the record
+
+- 複核（TJJ-A09221200-11, 2026-09-23）：史丹佛陳建仁防疫論壇報導 d94cecddadd6f167 之 Subjects 連結再驗證——「史丹佛醫學院台裔教授王智弘（Jason Wang）」與談人身份確認見於正文，連結為真（.md 後綴已修正為慣例格式）；2020-05-07 條目已在庫，無新材料。
 
 - 2020-05-07 — 副總統陳建仁應胡佛研究所「台灣在印太地區研究計畫」之邀在史丹佛大學主辦的線上研討會分享台灣防疫模式，史丹佛醫學院台裔教授王智弘（Jason Wang）獲邀為與談人之一（[[articles/taiwanjustice-net/2026/20260208193759_史丹佛論壇分享防疫-陳建仁_台灣模式貴在透明_d94cecddadd6f167|TJJ 轉載中央社，2020-05-08]]）。
 - 2021-05 — 台灣疫情升溫期間接受美國之音採訪，公開評析台灣抗疫：全民健保與戶口制度使台灣追蹤接觸者比美國容易、四至五成感染者可能無症狀、隔离14天後幾乎不具傳染力，並與詹長權同聲反對全民普篩、認為封城應視民情與產業結構謹慎評估（[[articles/taiwanjustice-net/2025/20251110230614_台灣本土疫情急劇升溫_防疫績優生需要封城_d9dc2720a0e10897|TJJ「台灣本土疫情急劇升溫 防疫績優生需要封城」]]）。

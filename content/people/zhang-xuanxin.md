@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # Zhang Xuanxin (張宣信)
 
@@ -37,6 +37,7 @@ In 2024/09 he appears in TAH's record of the Carnegie Hero Fund commission cerem
 - 2022-05-16 — TJJ/CNA report on the Laguna Woods shooting names Chang as the former ITPC senior pastor invited to guest-preach in place of the absent current pastor 李輔仁, and describes how he struck the gunman with a chair during a magazine change, letting the congregation subdue him ([[articles/taiwanjustice-net/2022/20220705114925_2022_05_16_台灣來美的外省第二代周文偉到台美人教會開槍殺_117bdbbd9b362236|TJJ report, 2022-05-16]]).
 - 2022-05-17 — 評論記載：5月15日南加州橘郡日內瓦長老教會槍擊案（1死5傷、傷亡皆台裔）中，張宣信牧師與數位教友奮不顧身制服兇手，防止悲劇擴大（[[articles/taiwanjustice-net/2022/20220705115208_2022_05_17_南加州槍擊案的省思_廢國統綱領_強化國家認同_8362234ba338aea7|TJJ，2022-05-17]]）。
 - 2022-05-19 — VOA專訪張宣信牧師「政治傾向不同不是敵人」希望學習彼此尊重」刊於TJJ「台美人台加人」分類存檔頁（[[articles/taiwanjustice-net/2024/20240715153222_root_131a1c8ea05f85ea|TJJ 存檔頁, 2024-07-15 快照]]）。
+- Re-verify 2026-09-23 (TJJ-A09221200-7): link-check against slice article 131a1c8ea05f85ea（台美人台加人分類存檔頁 2024-07-15 快照）body —「VOA專訪張宣信牧師：政治傾向不同不是敵人」條目確認見於正文，連結為真；上方日期事實含該文 wikilink，已在庫，無新材料。
 
 ## Vault Record Absorbed (2026-09-10)
 Details below are absorbed from pages already in the vault (no new sourcing):

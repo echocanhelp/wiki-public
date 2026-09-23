@@ -40,6 +40,7 @@ TAH lists her as the first appointed organist of [[organizations/formosan-presby
 - 2024-04-25 — 台灣公義報「台美人台加人」分類存檔列有「四月份台灣學校音樂欣賞課於4月9日舉行 ◎葉思雅、張信惠主持」，與其在大洛杉磯台灣會館台灣學校合開音樂欣賞課的紀錄相印證（[[articles/taiwanjustice-net/2024/20240425083432_root_99aaa4abcb78ff6d|TJJ 存檔頁, 2024-04-25 快照]]）。
 - 2022-01-09 — 台美人筆會會友拜訪張信惠、葉思雅伉儷，慶賀二人自2020-02-01起為台灣公義報撰寫的「週末漫談音樂」專欄滿100期（張信惠為音樂科班出身，是專欄知識底蘊的來源之一；二人2015年8月起另在大洛杉磯台灣會館開「古典音樂欣賞」課至2020年2月疫情停開）（[[articles/taiwanjustice-net/2022/20220127025846_2022_01_10_圓滿的100-慶賀葉思雅_張信惠_週末漫談音樂_專_a1be6b822ac7cdcd|TJJ, 2022-01-10]]）。
 - Corpus 覆核（deepen-x slice 09180131-10, 2026-09-18）：re-grep 張信惠 / Grace H. Yeh 命中集不變（#448、#146、#144、Our Journeys 231 ±EN、index），全部已吸收於上列——SKIP-with-reason：無新增可吸收社群語料。Our Journeys 231 英文對應頁：[[works/taiwaneseamericanhistory-org/ourjourneys231-eng|Our Journeys 231 (EN)]]。
+- Re-verify 2026-09-23 (TJJ-A09221200-7): link-check against slice article ced695235dbeb850（會館標籤頁 p13, 2023-02-05 快照）body —「大洛杉磯台灣會館十月音樂欣賞課月9日舉行 ◎葉思雅、張信惠 主持」確認見於正文，連結為真；2016-10-04 日期事實已在庫，無新材料。
 
 ## Related Pages
 

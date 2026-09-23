@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # C. C. Yang (楊朝諄)
 
@@ -53,3 +53,5 @@ HOLD: brother(s) with a near-identical name mentioned in blacklist lore ([[works
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 <!-- deepen-x slice 09220500-2 re-verify 2026-09-22: fresh grep of content/works + content/articles — corpus hits (ourjourneys233, ourjourneys106, mystories423, ourjourneys81-eng, whos-c-c-yang, whos-c-c-yang-2, pew statement) all already absorbed in Role in the Community incl. both HOLDs; no new absorbable facts -->
+
+<!-- deepen-x slice 09221300-1 re-verify 2026-09-23:  -->
