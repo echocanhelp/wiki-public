@@ -49,6 +49,8 @@ _No filled family fields on the TAH profile._
 - [[works/taiwaneseamericanhistory-org/ourjourneys33-eng|Our Journeys #33-eng]] — TAF 五十年照片回憶錄
 - [[works/taiwaneseamericanhistory-org/our-journeys-378|Our Journeys #378]] — TAF 历年名录
 
+Corpus re-check 2026-09-23 (deepen-x slice 09221200-17): fresh grep for 鄭天佐/鄭天助/T. C. Cheng — substantive hits unchanged (whowswho953, whoswho1232, our-journeys-377/378, ourjourneys33-eng); other matches are false positives on the "Tien C." string (publications1343/1344 = author Tien C. Lee; ourjourneys75-eng = Dr. Tien Chao-ming, a different person). #377 verbatim confirms the page text (第三任 1986–1988 芝加哥鄭天助醫師、第四任卓甫良). Verified-saturated; both HOLDs stand.
+
 ## Sources
 - [TAH #953 encyclopedia: 953. T. C. Cheng 鄭天佐 / 2016/04](https://taiwaneseamericanhistory.org/whowswho953/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/t-c-cheng/)

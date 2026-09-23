@@ -52,3 +52,4 @@ _No filled family fields on the TAH profile._
 - [[organizations/presbyterian-church-in-taiwan||PCT]] — TAH Who’s Who
 - 2026-09-21 corpus re-grep (DEEPEN-X slice 09210051-6): hit-set unchanged — own TAH #1896, the already-linked 余杰2015 article, works index. SKIP-content: nothing new absorbable, no conflicts to HOLD.
 - 2026-09-22 corpus re-grep (slice 09212352-22): hit-set unchanged (TAH #1896, works index, 余杰2015 article) — SKIP-content: verified-saturated, nothing new absorbable, no conflicts to HOLD.
+- 2026-09-23 corpus re-grep (slice 09221200-19): hit-set unchanged (own page, TAH #1896, works/people index, PCT org page, 余杰2015 article) — SKIP-content: verified-saturated, nothing new absorbable, no conflicts to HOLD.

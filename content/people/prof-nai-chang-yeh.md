@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # Prof. Nai-chang Yeh (葉乃裳教授)
 
@@ -42,6 +42,7 @@ _No filled family fields on the TAH profile._
 - Corpus re-grep (slice 09191100-9, 2026-09-20): hits remain her own three TAH records ([[works/taiwaneseamericanhistory-org/pride-prof-nai-chang-yeh|pride #10]], [[works/taiwaneseamericanhistory-org/187-prof-nai-chang-yeh|#187]], [[works/taiwaneseamericanhistory-org/whos-who-1004-nai-chang-yeh|#1004]]); no new memoir or article mentions — SKIP.
 - Corpus re-grep (slice 09210317-9, 2026-09-21): hits unchanged — same three TAH records plus index listings only; no memoir or article mentions — SKIP.
 - Corpus re-grep (slice 09212352-23, 2026-09-22): hits unchanged — same three TAH records plus [[works/index|index]] listings only; no memoir or article mentions — SKIP (verified-saturated).
+- Corpus re-grep (slice 09221200-20, 2026-09-23): hits unchanged — same three TAH records plus index only — SKIP (verified-saturated).
 
 ## Sources
 - [TAH #187 encyclopedia: 187. Prof. Nai-chang Yeh 葉乃裳教授](https://taiwaneseamericanhistory.org/187-prof-nai-chang-yeh/)
