@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # Prof. Gwo Jaw Wang (王國照教授)
 
@@ -46,6 +46,8 @@ Community memoirs document his standing in the Taiwanese American medical commun
 - **Daughter:** Lillian, Margaret
 - **Son:** Thomas
 
+
+- 2026-09-23 語料複核（slice 09221100-20）：fresh grep（王國照／Gwo Jaw Wang）命中全部為已收錄紀錄（TAH #599、#76、返台記 #4、Our Journeys 291/176/201、自傳 #865），無新事實可吸收 — SKIP-with-reason。
 
 ## Sources
 - [TAH #76 encyclopedia: 76. Prof. Gwo Jaw Wang  王國照教授](https://taiwaneseamericanhistory.org/76-prof-gwo-jaw-wang/)
