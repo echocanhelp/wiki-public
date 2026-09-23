@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # David Yang (楊熾勳)
 
@@ -45,6 +45,8 @@ _No filled family fields on the TAH profile._
 ## Sources
 - [TAH #1539 encyclopedia: 1539. David Yang 楊熾勳 / 2017/02](https://taiwaneseamericanhistory.org/whoswho1539/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/david-yang/)
+
+- 複核 2026-09-23（DEEPEN-X slice 09220900-3 重跑，前次 run stale-lock 回收）：fresh ZH+EN corpus re-grep（content/works content/articles）hit set 與 2026-09-22 完全一致，全部命中已連結於本頁；無新回憶錄、社團或報導材料可吸收 — verified-saturated。
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

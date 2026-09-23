@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # Peter Chiu (邱勝宗)
 
@@ -55,6 +55,8 @@ last_reviewed: 2026-09-22
 - Long-running figure at 大洛杉磯台灣會館 events (see From the record: 2017 園藝講座, 2022 追思會 contact list). The 2017-09-24 EM酵素 lecture with 邱貞 is also captured under the 台灣會館 category snapshot [[articles/taiwanjustice-net/2017/20171109043505_category_taiwancenter_9708bb9925e20766|TJJ 台灣會館分類, 2017-11-09 快照]].
 - Corpus re-grep 2026-09-20 / 2026-09-21 / 2026-09-22: hit set unchanged (ourjourneys244, ourjourneys283, whos-who-2246, TJJ 園藝/會館/追思會 records) — all linked above; no new memoir or club material to absorb (incl. TJJ-A09220600-1: f454eda084b7ca99 園藝分類 and 8bf4798dd2771f38 會館分類 bodies re-checked, 「Sadako與Peter Chiu(邱勝宗夫婦)講EM酵素」mention confirmed real, wikilinks already in place).
 - His own TAH encyclopedia record is held in the corpus: 2246. Peter Chiu 邱勝宗, era 2020 ([[works/taiwaneseamericanhistory-org/whos-who-2246-peter-chiu|whos-who-2246]]) — its Subjects list cross-links 黃三榮, 陳銓仁, 陳夢蘭, 王廷宜 as co-mentioned figures.
+
+- 複核 2026-09-23（DEEPEN-X slice 09220900-3 重跑，前次 run stale-lock 回收）：fresh ZH+EN corpus re-grep（content/works content/articles）hit set 與 2026-09-22 完全一致，全部命中已連結於本頁；無新回憶錄、社團或報導材料可吸收 — verified-saturated。
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

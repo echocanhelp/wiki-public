@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # Chia-Chun Chung (鍾佳君)
 
@@ -52,6 +52,8 @@ _No filled family fields on the TAH profile._
 
 - 2011-11-08 — 與張皓博以《好國好民》Dear Taiwan 英文翻譯身分，主持該片全美各地放映座談會並携DVD至現場（[[articles/taiwanjustice-net/2024/20240719002430_root_1f001897255f71a7|TJJ, 2011-11-08]]）。
 - 2011-10-15 — 與張皓博以《好國好民》英文翻譯身分，宣布將拜訪美國各城市舉辦該片放映座談會，波士頓（10/22）、北卡（11/5）先行確定（[[articles/taiwanjustice-net/2024/20240718223218_root_b5e568ec43e787f1|TJJ，2011-10-15]]）。
+
+- 複核 2026-09-23（DEEPEN-X slice 09220900-3 重跑，前次 run stale-lock 回收）：fresh ZH+EN corpus re-grep（content/works content/articles）hit set 與 2026-09-22 完全一致，全部命中已連結於本頁；無新回憶錄、社團或報導材料可吸收 — verified-saturated。
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
