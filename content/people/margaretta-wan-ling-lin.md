@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # Margaretta Wan-Ling Lin
 
@@ -51,3 +51,4 @@ _No filled family fields on the TAH profile._
 - Re-grep 2026-09-19 / 2026-09-20 (slices 09170600-28, 09190400-9): corpus scan of works/articles again returns only her own TAH bibliographic record [[works/taiwaneseamericanhistory-org/whos-who-2291-margaretta-wan-ling-lin|TAH Who's Who #2291]] — no memoir or movement-activity material to absorb; existing links above stand, no conflicts found.
 - Re-grep 2026-09-21 (slice 09201500-25): only her own Who's Who #2291 record + index; verified-saturated, no conflicts.
 - Re-grep 2026-09-22 (slice 09211500-27): again only her own Who's Who #2291 record + index; nothing absorbable beyond the civic-career record already linked. Verified-saturated.
+- Re-grep 2026-09-23 (slice 09221000-23): fresh ZH+EN grep returns only her own Who's Who #2291 record + works index; nothing absorbable beyond the civic-career record already linked. Verified-saturated, no conflicts.

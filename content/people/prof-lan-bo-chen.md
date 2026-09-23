@@ -49,3 +49,4 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+<!-- deepen-x slice 09221000-28 (2026-09-23): re-verified — fresh grep 陳良博/Lan-Bo Chen: hit set unchanged (own #1994 + Our Journeys #70 memoir already absorbed + works index). SKIP. -->
