@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # Robert Chen (陳慕融)
 
@@ -58,3 +58,4 @@ Robert Chen (陳慕融; pinyin: Chén Mùróng) is a Taiwanese-born violinist wh
 - Corpus re-grep 2026-09-20: hit set unchanged (73-rober-chen、98-robert-chen、ourjourneys294、ourjourneys301) — all absorbed above. The Pew 台美人聲明 work page also lists a 「Dr. Robert Chen, FAPA」 — a physician credential, held as same-name-different-person; not absorbed into this violinist's record.
 - Corpus re-grep 2026-09-21: hit set unchanged (73-rober-chen、98-robert-chen、ourjourneys294、ourjourneys301、works index listing、pew statement) — verified saturated; the Pew hit remains the held same-name case above.
 - Corpus re-grep 2026-09-22 (ZH 陳慕融 + EN Robert Chen, content/works + content/articles): hit set unchanged (same six files, plus the two TJJ archive pages already cited in From the record) — verified saturated; no new community facts.
+- Corpus re-grep 2026-09-23 (slice 09221000-2)：驗證飽和 — 命中集不變（73、98、ourjourneys294、ourjourneys301、works index、pew statement）；無新社区事實；Pew「Dr. Robert Chen, FAPA」同名異人 HOLD 不變。
