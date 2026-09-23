@@ -47,6 +47,7 @@ last_reviewed: 2026-09-23
 - He founded an iconic high-school youth group that ran without parent participation or supervision; the service-leadership structure he helped build (advisor-led small groups of 5–10, rotating themes on awareness, communication, ethics and leadership skills) is still in use by TAF, and was extended to middle-school groups around 1995 ([[works/taiwaneseamericanhistory-org/ourjourneys33-2|Our Journeys #33(2) — MFCF/TAF leadership pipeline]]).
 - His passing-of-the-torch story is told by 楊遠薰 in the TAH collection: [[works/taiwaneseamericanhistory-org/mystories207|TAH #207 — TAF的傳承故事(3) TAF的交棒─Bob Lin的故事, 2015/02]]; his own encyclopedia entry is [[works/taiwaneseamericanhistory-org/297-bob-lin-e6-9e-97-e5-bf-97-e6-96-87201502|TAH #297 — Bob Lin 林志文, 2015/02]].
 - Corpus re-scan 2026-09-22: TJJ election-list mentions of a 林志文 remain name-only matches — 2026-01-12 list: 林志文（台灣基進）; 2026-02-09 list: 林志文（一邊一國行動黨）立法委員候選人 — HOLD: identity vs the TAF leader unconfirmed, not linked and not merged. All TAH-corpus works (#207, #297, #33(2)) already absorbed above.
+- Corpus re-check 2026-09-23 (deepen-x slice 09221200-8): fresh grep for 林志文/Bob Lin across works/ + articles/ returns only works already absorbed above (#297, mystories207, ourjourneys33-2, TJJ reposts) plus the 2026 election lists (3號林志文（一邊一國行動黨） in the TJJ 區域立委當選名單 — same name-only match, HOLD unchanged). Nothing new absorbable; verified saturated.
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

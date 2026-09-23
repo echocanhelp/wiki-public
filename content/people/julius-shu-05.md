@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # Julius Shu 05 (許清煌)
 
@@ -45,7 +45,7 @@ Corpus memoirs place 許清煌 at the center of 1970s–80s Southern California 
 - **TAH 本人紀錄頁**：[[works/taiwaneseamericanhistory-org/whos-julius-shu|429. Julius Shu 許清煌 / 2015/05]]。
 - **生活座談會理事會籌劃**：理事會於 1993-09 正式成立，但memoir 追記許清煌與黃森元、陳慶霖、李成奎、周實等十餘年前即在會後參與策劃（[[works/taiwaneseamericanhistory-org/ourjourneys212|212. 生活座談會的懷胎與成長]]）。
 
-Corpus re-check 2026-09-22 (deepen-x slices 09210700-26, 09220400-5): fresh grep re-confirmed ourjourneys244 / ourjourneys212 / whos-julius-shu / 耆老講座 tag page as the only substantive corpus hits; facts above match the memoirs verbatim, no conflicts found; verified-saturated.
+Corpus re-check 2026-09-22 (deepen-x slices 09210700-26, 09220400-5) and 2026-09-23 (deepen-x slice 09221200-17): fresh grep re-confirmed ourjourneys244 / ourjourneys212 / whos-julius-shu / 耆老講座 tag page as the only substantive corpus hits; facts above match the memoirs verbatim (memoir confirms 西區生活座談會 membership was a later addition, not founding — as stated). Verified-saturated; no conflicts found.
 
 ## Family
 
