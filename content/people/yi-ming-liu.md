@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # Yi-Ming Liu (劉怡明)
 
@@ -55,3 +55,4 @@ Documented across the TAH Foundation story corpus as a community memoirist and l
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - Re-verified 2026-09-22 (slice 09211500-15): corpus re-grep 劉怡明/Yi-Ming Liu returns the same 6 work pages (whos profile, ff342, mystories331, 349-our-journeys, collection, ourjourneys-364) — all already wikilinked above; saturated, no new material.
+- Re-verified 2026-09-23 (slice 09220900-17): corpus re-grep returns the same saturated set — no new material.

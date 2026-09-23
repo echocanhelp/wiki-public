@@ -52,3 +52,5 @@ Accomplishment
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 複核（deepen-x 2026-09-22）：corpus re-grep（蔡仁泰 / Jen-Tai Tsai，works+articles）命中集合與前次相同（ourjourneys59/65/65-eng、senior-taiwanese-american-29、184、whos-who-2033、harvest index），全數已吸收並 wikilink，無新增社群材料。
+
+複核（deepen-x 2026-09-23, slice 09220900-16）：corpus re-grep（蔡仁泰 / Jen-Tai Tsai）命中集合不變（ourjourneys59/65/65-eng、senior-taiwanese-american-29、184、whos-who-2033），全數已吸收。SKIP-with-reason（saturated）。

@@ -26,6 +26,7 @@ NY Taiwanese Golf Club is a non-profit organization serving the Taiwanese Americ
 - 俱樂部自辦年刊入檔：2017 年出刊「33 週年紀念刊」（見 [[works/taiwaneseamericanhistory-org/publications1211|1211. NYTGC 2017 33rd Anniversary Edition]]），推算創團約 1984–1985 年（週年年數推算值，非語料明示）。
 - HOLD: 上州另有獨立同質社團「紐約上州台灣同鄉高爾夫球俱樂部（李登輝杯）」（見 [[works/taiwaneseamericanhistory-org/44-upstate-new-york-taiwanese-golf-club|44. Upstate New York Taiwanese Golf Club]]），兩團關係待查，勿合併。
 - Corpus re-grep 2026-09-22 (slice 09211400-25): works/articles hits for NYTGC / 紐約台灣人高爾夫 are only the four records already absorbed above (self-account page, 錦標賽 record, 王政卿 30-year 感想, 2017 年刊; the one TJJ 2025 article hit is an archive-digest false positive on "NYTGC" in frontmatter) — no new material absorbable.
+- Corpus re-grep 2026-09-23 (slice 09220900-16): hit set unchanged — the four absorbed records (nytgc 自述頁, 錦標賽 record, 51053 王政卿感想, publications1211 年刊; TJJ 2025 hit remains a frontmatter false positive). SKIP-with-reason (saturated).
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/ny-taiwanese-golf-club-nytgc/)

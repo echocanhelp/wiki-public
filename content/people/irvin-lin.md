@@ -44,6 +44,7 @@ Accomplishment
 
 - Corpus re-grep 2026-09-21 (slice 09201400-27): hit set identical — #234 / #1431 / #1052 / #493 plus index listings; remaining works/articles matches are the known LIEN/IRVIN false positives. Verified saturated.
 - Corpus re-grep 2026-09-22 (slice 09211400-18): hit set identical — #234 / #1431 / #1052 / #493 plus index listings; remaining works/articles matches remain the known LIEN/IRVIN false positives. Verified saturated.
+- Corpus re-grep 2026-09-23 (slice 09220900-16): hit set identical — #234 / #1431 / #1052 / #493 plus index listings; remaining works/articles matches remain the known LIEN/IRVIN false positives. Verified saturated.
 
 ## Sources
 - [TAH #234 encyclopedia: 234. Irvin Lin 林斐強](https://taiwaneseamericanhistory.org/ota-234/)
