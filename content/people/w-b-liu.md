@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # W. B. Liu (劉文彬)
 
@@ -41,6 +41,7 @@ last_reviewed: 2026-09-22
 - HOLD: the Family field lists 劉弘威 as "Son"; the son's own encyclopedia records do not restate the filiation — treated as sourced from the TAH profile only.
 - Community organizing record: 劉文彬 appears as a named registration contact for the 2014-07-03 Bay Area reception of the 鄭文龍律師／太陽花學運青年小組參訪團, hosted by 舊金山灣區台美人社區團體 (free community event) — listed among contacts 李萍萍, 簡惠卿, 鄭肇和, 郭安泰, 黃員成, 林健次, 張信行, 李漢文, 林丕舜 ([[articles/taiwanjustice-net/2024/20240716124207_root_73dfece35c15cfd2|台美人消息：鄭文龍律師參訪團拜訪灣區, taiwanjustice.net]]). His listed contact number has a Sacramento-area (916) prefix.
 - Corpus re-check 2026-09-22 (deepen-x slice 09220500-32): fresh grep of works/ + articles/ returns only the records already linked above (TAH encyclopedia whoswho1396, the 2014-07-03 Bay Area reception registration-contact record) — verified saturated; SKIP, nothing new absorbable.
+- Corpus re-check 2026-09-23 (deepen-x slice 09221400-6): fresh grep (works+articles) hits = whoswho1396, works/index, the 2024-07-16 TJJ reception article — all already linked above. SKIP-content — saturated, nothing new absorbable.
 
 ## Sources
 - [TAH #1396 encyclopedia: 1396. W. B. Liu 劉文彬 / 2016/11](https://taiwaneseamericanhistory.org/whoswho1396/)

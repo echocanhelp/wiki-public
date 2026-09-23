@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # Dr. Wei-Ting Yen (顏維婷博士)
 
@@ -49,3 +49,4 @@ _No filled family fields on the TAH profile._
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - 2026-09-22 deepen-x slice 09220600-1: VERIFY — fresh grep of works+articles (顏維婷 / Wei-Ting Yen / Tammy Yen) returns only the four files already cited here (own profile record, Sunflower Movement article, CNN/TJJ carry, index). No new corpus facts.
+- 2026-09-23 deepen-x slice 09221400-6: VERIFY — fresh grep hits unchanged (whos-who-2279, Sunflower Movement article, CNN/TJJ carry, index). SKIP-content — saturated, nothing new absorbable.

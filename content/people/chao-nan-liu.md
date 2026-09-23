@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # Chao-Nan Liu (劉照男)
 
@@ -29,6 +29,9 @@ last_reviewed: 2026-09-22
 
 - **Wife:** 張秀美Doris C.
 
+
+## Worklog
+- 2026-09-23 deepen-x slice 09221400-8: re-verified — fresh grep of works+articles returns the identical hit set already absorbed and wikilinked above; no new corpus material. Nothing further absorbable.
 
 ## Sources
 - [TAH #617 encyclopedia: 617. Chao-Nan Liu 劉照男 / 2015/09](https://taiwaneseamericanhistory.org/whos-chao-nan-liu/)
