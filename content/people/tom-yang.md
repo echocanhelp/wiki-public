@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # Tom Yang (楊東傑)
 
@@ -51,6 +51,7 @@ Primary material from fellow founders' memoirs in the TAHS corpus positions Yang
 - From 盧主義's memoir: eldest son of 楊雲龍, an ophthalmologist in 台南; 台南一中 graduate; returned to Taiwan from 東京慈惠 in January 1947, just before the 228 incident; sailed for the US in 1953 and entered the University of Pennsylvania Graduate School of Medicine in 1954 to study radiology; shared a house near Penn with 林榮勳 and 陳以德, and worked as a church and textile-factory caretaker to cover living costs. Also mentioned in 張炎憲's family memoir ([[works/taiwaneseamericanhistory-org/ourjourneys33|33. 一家人做伙來打拼/張炎憲]]).
 - Profiled in TAH Who's Who #913 (2016/05) ([[works/taiwaneseamericanhistory-org/whoswho913|913. Tom Yang 楊東傑]]).
 - Corpus re-pass 2026-09-22 (deepen-x slice 09212352-10): fresh ZH+EN grep returns the same 3F/UFI memoir cluster already documented above; no new corpus material, no conflicts.
+- Corpus re-pass 2026-09-23 (deepen-x slice 09221000-9): SKIP — fresh ZH+EN grep returns the same 3F/UFI memoir cluster already linked above (ourjourneys85 ZH+EN, ourjourneys33, 費城四傑 #10, 五人合影 #198, own #913); no new corpus material, no conflicts.
 - Corpus re-pass 2026-09-21 (deepen-x slice 09210400-3): fresh grep returns the same 3F/UFI memoir cluster already documented above; 盧主義's founding account is now also held in English ([[works/taiwaneseamericanhistory-org/ourjourneys85-eng|85 (EN). The 3F founding account / Tsu-Yi Jay Loo]]) — same account, no new facts, no conflicts.
 
 ## Sources
