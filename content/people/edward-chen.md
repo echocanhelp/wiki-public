@@ -44,6 +44,10 @@ Corpus (memoirs and TAH encyclopedia records) documents 陳以德 as a central o
 
 HOLD: conflict — TAH encyclopedia #276 frames him as 「獨立運動的經營者 / 1950年代」 while the Who's Who snapshot dates him from 1930/1952; the corpus activities cluster in the 1960s–1980s. Not auto-merged.
 
+## From the record
+
+- 1956 — 獨傲村夫「從二戰後全球去殖民化，到台灣國家正常化（下）」：the earliest US-based 台獨 organisation was founded in Philadelphia in 1956 by NTU graduates 林榮勳、陳以德 and 盧主義 as 3F (Free Formosa for Formosans), renamed 「台灣獨立聯盟」/ United Formosans for Independence in 1959 — the article dates the renaming a year later than the 1958 dating on this page's Our Journeys 33 note ([[articles/taiwanjustice-net/2023/20230923051922_2023_06_02_從二戰後全球去殖民化_到台灣國家正常化-_下_c251f8fc65ac83e0|TJJ, 2023-06-02]]).
+
 ## Family
 
 _No filled family fields on the TAH profile._

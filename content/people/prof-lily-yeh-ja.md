@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # Prof. Lily Yeh Ja (葉公杼教授)
 
@@ -37,6 +37,7 @@ Corpus absorption (deepen-x 2026-09-19): the community record preserves her high
 
 Fresh re-grep 2026-09-21 (deepen-x slice 09210400-9): the only works/articles hits remain #1907, #33, and #315 — all already absorbed above; no additional corpus material.
 Re-grepped 2026-09-22 (slice 09212352-27): hits unchanged (#1907, #33, #315 + index). SKIP-with-reason: no new corpus facts this pass.
+Re-grepped 2026-09-23 (slice 09221300-6): hits unchanged (#1907, #33, #315 + index). SKIP-content (verified-saturated).
 
 ## Family
 
