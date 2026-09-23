@@ -52,6 +52,8 @@ Corpus record of Dr. Wong's standing in the Taiwanese American community, held o
 
 HOLD: conflict in source Era metadata — #47 (2014 Wolf Prize) work page carries Era 2017; prize year 2014 kept per title, not merged.
 
+CORPUS SCAN (2026-09-23, slice 09221100-15): exact-name re-grep 「翁啟惠／Chi-Huey Wong」 returns only the six work pages already wikilinked above (#47, #236, #567, #243, #802, #846) plus the archived TJJ coverage already recorded — page is corpus-saturated, no new facts to absorb.
+
 ## Sources
 - [TAH #243 encyclopedia: 243. Dr. Chi-Huey Wong 翁啟惠博士](https://taiwaneseamericanhistory.org/243-dr-chi-huey-wong-%e7%bf%81%e5%95%9f%e6%83%a0%e5%8d%9a%e5%a3%ab/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/chi-huey-wong/)

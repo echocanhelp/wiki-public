@@ -41,6 +41,7 @@ last_reviewed: 2026-09-23
 - **Community historian, Houston footprints:** Authored [[works/taiwaneseamericanhistory-org/publications1252|1252. 台美人休士頓的腳印 Taiwanese American's Footprints in Houston (1970–2018)]] (11/2018), a movement history of the Houston Taiwanese community.
 - CORPUS SCAN (2026-09-22): the authored-history record extends further — he also wrote [[works/taiwaneseamericanhistory-org/publications1124|1124. 休士頓台獨運動的故事 Taiwan Independence Movement in Houston]] (07/2017), a movement history of Houston 台獨 organizing, making four corpus memoir/history works under his byline (1124, 233, 318, 1252).
 - **HR 23 advocacy, Austin (2019-03-04):** At the historic HR 23 Resolution hearing in the Texas State Capitol he appears in community photos (with Mike Chen, Katy Shull, Pearl Wu, Shannon Hu) and publicly backed FAPA's Austin work ([[works/taiwaneseamericanhistory-org/our-journeys-370|Our Journeys #370]]).
+- CORPUS SCAN (2026-09-23, slice 09221100-15): exact-name re-grep 「莊承業／Cheng Y. Chuang」 returns only his already-linked works (318, 233, 1124, 1252, ourjourneys244 memoir, TFCU album #39, OJ#370); remaining loose matches are same-surname distinct people (莊子賢 Tze-jer Chuang, Henry Chuang) — no new corpus facts to absorb.
 
 ## Sources
 - [TAH #116 encyclopedia: 116. Cheng Y. (Eddie) Chuang 莊承業](https://taiwaneseamericanhistory.org/116-cheng-y-eddie-chuang/)

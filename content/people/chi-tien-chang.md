@@ -38,6 +38,7 @@ From his own oral memoir, 張啟典醫師的回憶 — 1977年TAC/EC (楊遠薰,
 - 1977: president of the Boston Taiwanese Association (波士頓台灣同鄉會) and convener of the 8th 美東台灣人夏令會 at Brown University — the first held on a U.S. university campus, ~400 attendees. Speakers included pastors [[people/heng-liong-lin|林興隆]] and 郭榮敏, plus 陳錦芳, 洪哲勝 and 李豐明; 張金策 reported on Taiwan's human-rights situation. Chang personally screened out a suspected KMT agent who tried to register twice.
 - 2009: attended the 40th 美東台灣人夏令會 (Caribbean cruise), reflecting on the end of racial segregation and the black-list era.
 - Also profiled in [[works/taiwaneseamericanhistory-org/whoswho1576|TAH #1576 Chi-Tien Chang 張啟典]] and [[works/taiwaneseamericanhistory-org/178-prof-c-d-chang|TAH #178 Prof. C. D. Chang]].
+- CORPUS SCAN (2026-09-23, slice 09221100-15): exact-name re-grep 「張啟典／Chi-Tien Chang」 returns only #178, #338 (oral memoir, the section's source), #1576 and the index — all already absorbed above; page is corpus-saturated.
 
 ## Timeline
 - 1963 — B.S., National Taiwan University (chemistry); emigrated to the U.S. in 1966 (Greyhound coach LA→Boston).

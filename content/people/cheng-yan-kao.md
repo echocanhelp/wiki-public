@@ -46,7 +46,7 @@ last_reviewed: 2026-09-23
 - HOLD: conflict — TAH 工作紀錄為 NASA 1981–1990 後回台大任教；Our Journeys 106 紀錄則稱其「現任職奇異公司（GE）」。未自動合併。
 - 以創黨召集人身分主講「台灣綠色產業的展望」於台美人遊輪夏令會（[[works/taiwaneseamericanhistory-org/ourjourneys101|Our Journeys 101]]）；另遊輪紀錄稱之為「台灣的環保聯盟副會長高成炎敎授」，述及 1974 年俄亥俄州哥倫巴斯初識（[[works/taiwaneseamericanhistory-org/ourjourneys96|Our Journeys 96]]）。
 - 本人著作：617.〈福島核災啟示錄〉（2012-04，Politics）（[[works/taiwaneseamericanhistory-org/e7-a6-8f-e5-b3-b6-e6-a0-b8-e7-81-bd-e5-95-9f-e7-a4-ba-e9-8c-84-e9-ab-98-e6-88-90|617. 福島核災啟示錄]]）。
--  TAH 百科傳記條目本身（415. Cheng-yan Kao 高成炎，2015-05-14 刊）為書目性紀錄，全文留原庫：[[works/taiwaneseamericanhistory-org/415-cheng-yan-kao|415. Cheng-yan Kao 高成炎]]。2026-09-22（slice 09212352-12）語料複核：「高成炎／Cheng-yan Kao」命中僅上方已收錄出處（ourjourneys106/101/96、617 文、415 條目）；既有 HOLD（NASA vs GE 任職）維持，無新衝突。
+-  TAH 百科傳記條目本身（415. Cheng-yan Kao 高成炎，2015-05-14 刊）為書目性紀錄，全文留原庫：[[works/taiwaneseamericanhistory-org/415-cheng-yan-kao|415. Cheng-yan Kao 高成炎]]。2026-09-22（slice 09212352-12）語料複核：「高成炎／Cheng-yan Kao」命中僅上方已收錄出處（ourjourneys106/101/96、617 文、415 條目）；既有 HOLD（NASA vs GE 任職）維持，無新衝突。2026-09-23（slice 09221100-15）再次語料複核：命中集不變，頁內全部出處已收錄，無可新增語料事實。
 
 ## Sources
 - [TAH #415 encyclopedia: 415. Cheng-yan Kao 高成炎/2015/05](https://taiwaneseamericanhistory.org/415-cheng-yan-kao/)
