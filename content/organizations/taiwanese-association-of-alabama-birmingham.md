@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # Taiwanese Association of Alabama Birmingham (伯明罕臺灣同鄉會)
 
@@ -46,3 +46,7 @@ The Taiwanese Association of Alabama Birmingham (伯明罕臺灣同鄉會) is a 
 ## Corpus review (slice 09212352-14)
 
 - SKIP-with-reason (re-checked 2026-09-22): grep 伯明罕 / "Taiwanese Association of Alabama" / Birmingham across works/ + articles/ — no chapter-specific memoir hits. The one memoir match ([[works/taiwaneseamerican-org/belonging-immigration-hsin-i-cheng|Belonging & Immigration, Hsin-I Cheng]]) is a quotation of Dr. King's "Letter from Birmingham Jail", not the 同鄉會; remaining hits are unrelated taiwanjustice.net news items mentioning Birmingham as geography. Nothing absorbable.
+
+## Corpus review (slice 09221000-9)
+
+- SKIP-with-reason (re-checked 2026-09-23): grep 伯明罕臺灣同鄉會 / "Taiwanese Association of Alabama" across content/works + content/articles returned zero hits; broader 伯明罕/Birmingham grep hits remain unrelated (King quotation memoir, TJJ news geography mentions). Still no chapter activity, roster, or founding facts absorbable.
