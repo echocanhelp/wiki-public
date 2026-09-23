@@ -8,7 +8,7 @@ tags:
   - democracy-movement
   - overseas-taiwanese
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # Hsu Hsin-liang (許信良)
 

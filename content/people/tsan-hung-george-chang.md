@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-20
+last_reviewed: 2026-09-23
 ---
 # Tsan-hung George Chang (張燦鍙教授)
 
