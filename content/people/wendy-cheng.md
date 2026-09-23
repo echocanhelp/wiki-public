@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # Wendy Cheng (鄭昕)
 
@@ -44,6 +44,8 @@ _No filled family fields on the TAH profile._
 - HOLD: conflict — tah-tables 現職為「assistant professor」（2015 年條目），2023 UCSD 訊息以「Prof. Wendy Cheng」且列為 Center of Taiwan Studies 相關講者；職稱沿革未合併。
 - 2023 年著作《Island X: Taiwanese Student Migrants, Campus Spies, and Cold War Activism》獲臺美人媒體書評列為臺美人必讀（priority A）：[[works/taiwaneseamerican-org/wendy-cheng-island-x|Wendy Cheng's "ISLAND X" is essential reading for Taiwanese Americans（2023-11-26）]]；書中處理 1960–1980 年代留美臺灣學生與Cold War臺獨運動，與本庫運動史主題直接相關。
 - Corpus re-verify (deepen-x 09220400-13, 2026-09-22): fresh scan of works/ + articles/ — new hit wendy-cheng-island-x absorbed above; other records already covered (TAH #275 entry, our-journeys-357 footnote, our-journeys-390, publications 509/510, mystories300).
+- 學說被 TAH 運動史書評直接引用為框架：[[works/taiwaneseamericanhistory-org/our-journeys-372|372. Reinscribing Taiwanese Americans into Transpacific History（2021/06）]]引其論述「among these students, were many who identified, or would soon come to identify, as Taiwanese」，以定義1970–80年代留美學生的臺灣認同形成（先於《Island X》出版）。
+- Corpus re-verify (deepen-x 09221200-9, 2026-09-23): fresh scan works/ + articles/ — new hit our-journeys-372 absorbed above; remaining hits (357/390/509/510/mystories300/island-x) already linked.
 
 ## Sources
 - [TAH #275 encyclopedia: 275. Wendy Cheng  鄭昕 / 2015/02](https://taiwaneseamericanhistory.org/whos-wendy-cheng/)

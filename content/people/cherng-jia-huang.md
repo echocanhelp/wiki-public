@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # Dr. Cherng Jia Huang (黃呈嘉博士)
 
@@ -38,6 +38,9 @@ last_reviewed: 2026-09-22
 - 協志會董事幹事聯席會議孕育的創業潮中，與史博文、黃介山、歐文斌、蘇建政等合創 Pan Clair（[[works/taiwaneseamericanhistory-org/ourjourneys37|Our Journeys #37]]；英文版 [[works/taiwaneseamericanhistory-org/ourjourneys37-eng|Our Journeys #37, English]] 作 "Pan Clair, established by Po-wen Shih, Chieh-shan Huang, Wen-pin Ou, Cherng Jia Hwang, and Chien-cheng Su"）。
 - 1970s — listed under **New Jersey** in the roster of the first 《全美台灣同鄉通訊錄》(the first nationwide Taiwanese alumni directory, compiled by 陳希寬), and named among the 熱心捐助同鄉 who donated copies for distribution (19 donors, $171 total) — consistent with the Bell Labs New Jersey post noted above after his post-424 move — [[works/taiwaneseamericanhistory-org/ourjourneys58|Our Journeys #58]].
 - 其tah-whos-who專條存於目錄_corpus_：[[works/taiwaneseamericanhistory-org/whoswho1140|1140. Cherng Jia Huang 黃呈嘉 / 2016-07]]；TAH百科專條另存 [[works/taiwaneseamericanhistory-org/60-dr-cherng-jia-hwang|60. Dr. Cherng Jia Hwang 黃呈嘉博士]]；獲獎記錄另存專文 [[works/taiwaneseamericanhistory-org/42-university-of-washingtons-college-of-engineering-diamond-awards-entrepreneuri|42. UW College of Engineering Diamond Awards — Entrepreneurial Excellence / 2017]]。
+- 獲獎影像記錄另存 [[works/taiwaneseamericanhistory-org/videos70|70. Diamond Awards 2017: Cherng Jia Hwang（影像，2017-07-05）]]，與文字記錄 [[works/taiwaneseamericanhistory-org/42-university-of-washingtons-college-of-engineering-diamond-awards-entrepreneuri|#42]] 互補。
+- 1966 年與妻沈雲（台大外文系畢）攝於西雅圖華盛頓大學之結婚照，刊於回憶文集 [[works/taiwaneseamericanhistory-org/ourjourneys236|Our Journeys #236「六十年代的台灣留美學生」]]；同文集另記 1970 年美東台灣人基督徒靈修會（賓州 Downingtown）活動。
+- 2018-07 — 具名（黃呈嘉／電機）連署台大校友抗議南加州台大校友會邀管中閔年會演講公開信（[[articles/taiwanjustice-net/2018/20180721091303_2018_07_20_抗議-南加州台大校友會邀管中閔來年會做專題演講_a428dcebbceacf38|台灣公義報報導]]；同列電機系校友含柯賢敏、柯賢清、黃振源等）——是否即本人，HOLD 待確認。
 - HOLD: conflict 姓名拼寫 Hwang（TAH #60 標題、#42 Diamond Awards 標題）vs Huang（TAH Who's Who / #1140），未合併。
 
 ## Family

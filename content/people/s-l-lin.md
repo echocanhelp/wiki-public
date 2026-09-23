@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # S. L. Lin (林幸隆)
 
@@ -51,6 +51,7 @@ last_reviewed: 2026-09-22
 
 - Re-verify 2026-09-22 (TJJ-A09220400-7): link-check against slice article 2e141df6a5071110 body — mention confirmed real, dated fact above stands; no new material.
 - Re-verify 2026-09-22 (TJJ-A09220600-1): link-check against slice articles f454eda084b7ca99（園藝分類）and 8bf4798dd2771f38（大洛杉磯台灣會館分類）bodies — 「田土伯(林幸隆)…果樹培育密訣」mention confirmed real in both; dated fact with both wikilinks already in place above; no new material.
+- Re-verify 2026-09-23 (deepen-x slice 09221200-7): fresh grep (林幸隆／田土伯／S. L. Lin) over works/ + articles/ — hit set unchanged (ourjourneys159, whoswho1130, index, 田土伯／林幸隆／果樹培育 tag archive pages), all already cited above. Verified-saturated; no new material.
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
