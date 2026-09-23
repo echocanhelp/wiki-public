@@ -31,6 +31,8 @@ The Global Taiwan Institute (GTI) is a think tank dedicated to strengthening US-
 
 ## From the record
 
+- 再核（TJJ-A09221200-13, 2026-09-23）：本 slice 文章 c692a70646f3af76（CNA 舊金山專電）全文再驗證——GTI 以「全球台灣研究中心」名義點名、葉介庭為共同創辦人之描述確認，2022-08-05 條目已見下條並掛鏈本檔，連結為真，無新材料。
+
 - 2022-08-05 — CNA 專電（TJJ 轉載）介紹 GTI（全球台灣研究中心）為共同創辦人葉介庭任職的華府智庫，就裴洛西訪台回應《中央社記者》訪問，與舊金山台裔市議員莊吳明芳並列為台裔美人挺訪台聲音（[[articles/taiwanjustice-net/2022/20220810020737_2022_08_05_舊金山台裔市議員莊吳明芳_外國不能干預美國官_c692a70646f3af76|TJJ/CNA, 2022-08-05]]）。
 
 - 2017-07-24 — GTI 執行長 Russell Hsiao was invited to speak at the 海外台灣青年陣線 (OTD) program co-held with the US East Coast Taiwanese Education Center summer camp at West Chester University, PA (7/1–4/2017), on winning support for Taiwan in American political circles, alongside FAPA vice president 林希明 ([[articles/taiwanjustice-net/2024/20240523010214_root_3260cd0bdf2f84d7|楊遠薰 column via TJJ Wayback copy, article dated 2017-07-24]]; original column archive: [[articles/taiwanjustice-net/2021/20211207123518_2017_07_24_海台青與黑客松-_-楊遠薰-2017-07-24_2c9cb76838702dd7|2021 snapshot]]).

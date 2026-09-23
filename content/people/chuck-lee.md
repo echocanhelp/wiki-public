@@ -54,3 +54,5 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+Corpus re-check 2026-09-23 (deepen-x slice 09221300-7): fresh grep for 李忠敏 / Chuck Lee — hit set unchanged (own publications1011–1019, whos1249); no third-party memoir material. SKIP-deepen; nothing new absorbable.

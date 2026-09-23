@@ -49,6 +49,8 @@ _No filled family fields on the TAH profile._
 - Re-check 2026-09-21 (slice 09210317-23): fresh grep 徐謙讓/Kris Hsu returns the same corpus set — own [[works/taiwaneseamericanhistory-org/whos-who-2157-kris-hsu|TAH #2157]] record plus the two 信雅 donation memoirs (TJJ 週末漫談音樂 38 & 88), already fully absorbed above; no new community facts.
 - Re-verify 2026-09-22 (TJJ-A09220400-7): link-check against slice article 77b0891ec24689f9 body — mention confirmed real, dated fact above stands; no new material.
 - Re-verify 2026-09-22 (slice 09220500-26): fresh grep 徐謙讓/Kris Hsu across works+articles returns the same saturated set — own [[works/taiwaneseamericanhistory-org/whos-who-2157-kris-hsu|TAH #2157]] record plus the two 信雅 donation memoirs (TJJ 週末漫談音樂 38 & 88), all already absorbed; no new community facts.
+- Re-verify 2026-09-23 (slice 09221300-5): fresh grep 徐謙讓/Kris Hsu across works+articles returns the same saturated set — own [[works/taiwaneseamericanhistory-org/whos-who-2157-kris-hsu|TAH #2157]] record plus the two 信雅 donation memoirs (TJJ 週末漫談音樂 38 & 88), all already absorbed above; no new community facts.
+
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

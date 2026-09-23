@@ -37,6 +37,8 @@ Dr. Min Hsiung Liang 梁敏雄博士 – History of Taiwanese American (T.A. Arc
 - HOLD: conflict on TAA role — memoir lists 理事 (board member) vs TAH table "Houston Chapter — President". Not auto-merged.
 - Corpus sweep 2026-09-22 (slices 09220400-14, re-verify): grep of content/works + content/articles for 梁敏雄 / Min Hsiung Liang returned only [[works/taiwaneseamericanhistory-org/ourjourneys106|Our Journeys 106]], his own TAH entry [[works/taiwaneseamericanhistory-org/whos-who-2088-min-hsiung-liang|TAH #2088]], and the site index — all already absorbed above. No new community facts to absorb.
 
+- Corpus sweep 2026-09-23 (slice 09221300-5): grep 梁敏雄/Min Hsiung Liang — same saturated set: [[works/taiwaneseamericanhistory-org/ourjourneys106|Our Journeys 106]] (memoir item 12 re-read, fully absorbed above), own [[works/taiwaneseamericanhistory-org/whos-who-2088-min-hsiung-liang|TAH #2088]], site index. Both HOLDs (M.S. institution, TAA role) stand; no new community facts.
+
 ## Family
 
 - **Wife:** 昭美

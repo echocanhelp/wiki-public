@@ -56,3 +56,5 @@ Accomplishment
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+Corpus re-check 2026-09-23 (deepen-x slice 09221300-7): fresh grep for 翁正欣 / Jensin — hit set unchanged (whos-who-559, ota-228, ff366 family record, 233 Navy essay, jensin-w-sommer Maryland record, works index); all already absorbed above. SKIP-deepen; nothing new absorbable.
