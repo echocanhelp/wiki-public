@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # The Chuan Lyu Foundation (川流基金會)
 
@@ -29,6 +29,8 @@ Corpus record of the Foundation's programs, held on TAH story pages:
 - Chuan Lyu Chancellor's Fellowship at UCSF ([[works/taiwaneseamericanhistory-org/39-chuan-lyu-chancellors-fellowship-ucsf|TAH #39]])
 
 Note: the UCSD Center for Taiwan Studies opened 2023-05-06 with Professor Ping-hui Liao as inaugural Chuan Lyu Endowed Chair (川流講座), per the grand-opening record ([[works/taiwaneseamericanhistory-org/our-journeys-385|TAH #385]]); the Center's launch was funded separately by Chiu-Shan and Rufina Chen's $5M gift.
+
+Corpus re-grep 2026-09-23 (deepen-x slice 09221200-24): fresh grep works/ + articles/ for 川流基金會/Chuan Lyu — hits are exactly the program records already wikilinked above (TAH #18/#30/#38/#39/#84/#384/#385) plus the works index. Verified-saturated; nothing new absorbable.
 
 Not to be confused with the 1989 literary piece 川流 by 林霞 ([[works/taiwaneseamericanhistory-org/418-e5-b7-9d-e6-b5-81-e6-9e-97-e9-9c-9e198901-e6-96-87-e5-ad-b8|TAH #418]]).
 

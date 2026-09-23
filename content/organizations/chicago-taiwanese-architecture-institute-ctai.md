@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # Chicago Taiwanese Architecture Institute, CTAI (芝加哥台灣建築學會)
 
