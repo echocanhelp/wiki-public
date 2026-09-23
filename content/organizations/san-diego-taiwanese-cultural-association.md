@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # San Diego Taiwanese Cultural Association (南加州)
 
@@ -24,6 +24,8 @@ The San Diego Taiwanese Cultural Association (SDTCA, 聖地牙哥台灣同鄉會
 - Community infrastructure in the San Diego record: grand opening of the Taiwanese American Community Center ([[works/taiwaneseamericanhistory-org/ourjourneys162-eng|162. 聖地牙哥台灣中心開幕典禮與慶祝音樂會]], 2015) and its summer camp program ([[works/taiwaneseamericanhistory-org/tcsd-summer-camp|38. 聖地牙哥台灣中心夏令營]], 2017).
 - Senior affiliate documented separately: [[works/taiwaneseamericanhistory-org/seniororg6|6. 聖地牙哥台灣長青會]] (2014).
 - 2017 Hurricane Harvey relief: 聖地牙哥台灣會館 contributed US$17,619 to a joint US$87,459 donation (with the TAA Houston Foundation, LA Taiwanese American Cultural Center, 北美洲台灣婦女會, and 休士頓台聲合唱團) to the City of Houston's Harvey Relief Fund — [[works/taiwaneseamericanhistory-org/ourjourneys328|Our Journeys 328]].
+
+_Corpus re-grep 2026-09-23: same hits (project-3-41 ZH/ENG, directory record, TAA chapter record, 鄉訊 newsletter, ourjourneys337/162/328, tcsd-summer-camp, seniororg6) — all already linked above; page saturated, nothing new._
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/san-diego-taiwanese-cultural-association/)

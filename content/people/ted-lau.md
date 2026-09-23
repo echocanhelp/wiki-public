@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # Ted Lau (劉重義)
 
@@ -49,6 +49,8 @@ last_reviewed: 2026-09-22
 ## Family
 
 _No filled family fields on the TAH profile._
+
+_Corpus re-grep 2026-09-23: same hits (publications1025, mystories297, ourjourneys238/234, 369 費城三傑, 760 劉聰德 record); 劉重義 vs 劉聰德 HOLD stands, nothing new._
 
 ## Sources
 - [TAH #615 encyclopedia: 615. Ted Lau 劉重義 / 2015/09](https://taiwaneseamericanhistory.org/615-ted-lau-%e5%8a%89%e9%87%8d%e7%be%a9-201509/)

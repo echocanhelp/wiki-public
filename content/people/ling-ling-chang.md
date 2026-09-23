@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # Ling Ling Chang (張玲玲)
 
@@ -51,6 +51,8 @@ _Corpus re-grep 2026-09-22: same hits (Who's Who #1016, both in-CA/CA work recor
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+_Corpus re-grep 2026-09-23: same hits (whoswho1016, both in-CA work records, TJJ snapshots); 張齡玲 vs 張玲玲 HOLD stands, nothing new._
 
 ## From the record
 
