@@ -31,6 +31,8 @@ The Global Taiwan Institute (GTI) is a think tank dedicated to strengthening US-
 
 ## From the record
 
+- 複核（TJJ-A09221200-3, 2026-09-23）：subject link 經本 slice 再驗證為真實對應，對應 From-the-record 條目已在庫（無錯鏈、無虛鏈）— SKIP，無新材料。
+
 - 再核（TJJ-A09221200-13, 2026-09-23）：本 slice 文章 c692a70646f3af76（CNA 舊金山專電）全文再驗證——GTI 以「全球台灣研究中心」名義點名、葉介庭為共同創辦人之描述確認，2022-08-05 條目已見下條並掛鏈本檔，連結為真，無新材料。
 
 - 2022-08-05 — CNA 專電（TJJ 轉載）介紹 GTI（全球台灣研究中心）為共同創辦人葉介庭任職的華府智庫，就裴洛西訪台回應《中央社記者》訪問，與舊金山台裔市議員莊吳明芳並列為台裔美人挺訪台聲音（[[articles/taiwanjustice-net/2022/20220810020737_2022_08_05_舊金山台裔市議員莊吳明芳_外國不能干預美國官_c692a70646f3af76|TJJ/CNA, 2022-08-05]]）。

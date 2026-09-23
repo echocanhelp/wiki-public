@@ -7,7 +7,7 @@ tags:
   - Taiwan-Center
   - board
 verification_status: published
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # Danny Chen (陳啟耕)
 
@@ -46,6 +46,8 @@ The TJ archives already cited on this page are in-corpus works — linked here s
 - **HOLD (likely different person):** [[works/taiwaneseamerican-org/census-2020-fundraiser|Census 2020 'Write in Taiwanese' fundraiser]] and [[works/taiwaneseamerican-org/pew-research-center-taiwanese-american-statement|Pew Research statement]] name a "Danny Chen" as **President, Southeast Bay Taiwanese Association** / community organizer with TaiwaneseAmerican.org (Bay Area). No 漢名 given; Bay Area ≠ SoCal lawyer. Not linked as this person.
 
 ## From the record
+
+- 複核（TJJ-A09221200-3, 2026-09-23）：subject link 經本 slice 再驗證為真實對應，對應 From-the-record 條目已在庫（無錯鏈、無虛鏈）— SKIP，無新材料。
 
 - 2020-04-25 — 會館關閉期間，陳啟耕律師與台灣青年美國職涯發展協會（Career Taiwan USA Association）協辦移民講座，為大洛杉磯台灣會館首場線上活動，逾百人線上參加（TJJ 會館疫情紀錄 via [[articles/taiwanjustice-net/2020/20201126153300_2020_06_23_大洛杉磯台灣會館_疫情擋不住人情_濟困扶危挺_c05e2d53013fcd15|TJJ, 2020-06-23]]）。
 

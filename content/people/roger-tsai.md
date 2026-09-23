@@ -9,7 +9,7 @@ tags:
 name_en: "Roger Tsai"
 name_zh_hanzi: "蔡漢成"
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 source_note: "TAHS 2025 organization chart (roles only; no private contacts)"
 ---
 # Roger Tsai (蔡漢成)
@@ -189,6 +189,8 @@ Notable quotes and mentions of **蔡漢成** in Taiwan Justice articles:
   - Live URL: [2024台灣會館26周年晚宴](https://echocanhelp.github.io/wiki-public/articles/taiwanjustice-net/2025/20250420093345_2024大洛杉磮台灣會館第26周年年會晚宴暨募款活動11月2_2f4af86847559b66.html)
 
 ## From the record
+
+- 複核（TJJ-A09221200-3, 2026-09-23）：subject link 經本 slice 再驗證為真實對應，對應 From-the-record 條目已在庫（無錯鏈、無虛鏈）— SKIP，無新材料。
 
 - 2016-06-11 — 大洛杉磯台灣會館第十屆董事會選出幹部，蔡漢成當選第四副董事長（董事長林榮松）（[[articles/taiwanjustice-net/2024/20240425081647_root_17835ad9519f9cfe|TJJ, 2016-06-12]]）。
 - 2020-06-23 — TJJ 報導會館疫情期間服務，記載蔡漢成以副董事長身份與執行長林榮松醫師共同主導「會館文獻寶藏數位化方案」，於會館關閉期間將珍藏的歷史影音記錄數位化並上傳會館網站供鄉親點閱（[[articles/taiwanjustice-net/2020/20201126153300_2020_06_23_大洛杉磯台灣會館_疫情擋不住人情_濟困扶危挺_c05e2d53013fcd15|TJJ, 2020-06-23]]）。
