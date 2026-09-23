@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # Taiwanese Association of America Delaware (德拉瓦州)
 
@@ -25,6 +25,7 @@ The Taiwanese Association of America Delaware (德拉瓦州 台灣同鄉會) is 
 - The Delaware Taiwanese American community it sits in also supports mother-tongue education: the Taiwanese School in Delaware is documented at [[works/taiwaneseamericanhistory-org/10-taiwanese-school-in-delaware|10. 德拉瓦台灣學校 Taiwanese School in Delaware]] (2016-04-04).
 - 張仁裕's memoir (2016-05) gives insider texture on that chapter era: in Delaware there **was** a 台語學校 run through the 台灣同鄉會, but too few families with school-age children attended the chapter — students were insufficient to form a class, so chapter activity was effectively adults-only and members' children went to 華語學校 instead (the family later moved near Houston and enrolled the children in the 休士頓台灣語文學校) — [[works/taiwaneseamericanhistory-org/ourjourneys227|227. 分享我們教小孩學台語和華語的經驗 / 張仁裕 / 2016-05]]. Corroborates the thin-community picture from the first national yearbook.
 - A parallel civic-advocacy chapter exists in the same state: FAPA Delaware ([[works/taiwaneseamericanhistory-org/13-delaware-chapter-fapa|13. Delaware Chapter / FAPA 台灣人公共事務會德拉瓦分會]], 2015-12-20).
+- Corpus re-check 2026-09-23 (deepen-x slice 09221200-8): fresh grep for 德拉瓦 across works/ + articles/ returns only pages already linked above plus [[works/taiwaneseamericanhistory-org/ourjourneys159|Our Journeys 159]], where 德拉瓦 appears solely as geography (德拉瓦河 / Delaware Water Gap on the drive to the 2014 美東夏令會) — not a Delaware-chapter fact; nothing absorbable. Verified saturated.
 - The Delaware Valley is also woven into the movement's origin story: the early East Coast Taiwanese American summer camps (美東夏令會) drew organizers who lived/worked in Delaware — e.g. a University of Delaware faculty member recounting hosting the 3rd camp generation ([[works/taiwaneseamericanhistory-org/ourjourneys268|ourjourneys268 — 美東夏令會 40-year history memoir]], band A).
 
 ## Sources

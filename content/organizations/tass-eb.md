@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # 〈TASS-EB〉 (北加州東灣台美人長樂會)
 
@@ -30,6 +30,7 @@ The corpus preserves TASS-EB's own publishing output — member-authored 台美�
 - 1359.〈府城南廠物語〉第五集 (2021/09) ([[works/taiwaneseamericanhistory-org/publications-1359|1359. 府城南廠物語 第五集]]).
 
 ## Worklog
+- 2026-09-23 deepen-x slice 09221200-9: SKIP confirmed — re-grep (TASS-EB／東灣台美人長樂會) returns the same six linked records (directory profile, newsletter, 1348/1349/1350/1359) plus index listings; no new East Bay facts.
 - 2026-09-22 deepen-x slice 09220317-29: SKIP confirmed — re-grep (TASS-EB／東灣台美人長樂會) returns exactly the six records already linked above (directory profile, newsletter, 1348/1349/1350/1359); no new East Bay facts in the corpus.
 - 2026-09-22 deepen-x slice 09210500-15: SKIP — re-grep (TASS-EB／東灣台美人) matched only the separate 大華府 chapter's records (TASS 大華府: [[works/taiwaneseamericanhistory-org/photo-albums-activities-28|28. 大華府台美人長樂會相簿]], [[works/taiwaneseamericanhistory-org/publications1210|1210. 創會十週年會刊]], [[works/taiwaneseamericanhistory-org/publications-1360|1360. 2019-2021 年刊]], plus 會刊 483/323/328) — 大華府長樂會 ≠ 東灣 TASS-EB; no new East Bay facts, existing corpus links above unchanged.
 
