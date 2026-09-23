@@ -1,0 +1,718 @@
+{
+  "date": "2026-09-22",
+  "standards_version": 10,
+  "total_findings": 71,
+  "total_pages": 27,
+  "actions": [
+    {
+      "page": "organizations/good-shine-kitchen.md",
+      "finding": "LINKS_LOW_DENSITY",
+      "finding_prefix": "LINKS_LOW_DENSITY",
+      "action": "Add more wikilinks to related pages",
+      "detail": "This page has low wikilink density. Add [[wikilinks]] to people, organizations, and sources mentioned in the text.",
+      "playbook": "P3",
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "organizations/good-shine-kitchen.md",
+      "finding": "LINKS_NO_RELATED",
+      "finding_prefix": "LINKS_NO_RELATED",
+      "action": "Add ## Related Pages section",
+      "detail": "Add a Related Pages section with wikilinks to connected people, organizations, and sources.",
+      "playbook": "P3",
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "organizations/good-shine-kitchen.md",
+      "finding": "STRUCT_NO_RELATED",
+      "finding_prefix": "STRUCT_NO_RELATED",
+      "action": "Add ## Related Pages section",
+      "detail": "Add a Related Pages section with wikilinks ([[people/name|Name]]) to connected pages. Use first-mention convention.",
+      "playbook": "P3",
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "organizations/north-america-taiwanese-medical-association-foundation.md",
+      "finding": "LINKS_NO_RELATED",
+      "finding_prefix": "LINKS_NO_RELATED",
+      "action": "Add ## Related Pages section",
+      "detail": "Add a Related Pages section with wikilinks to connected people, organizations, and sources.",
+      "playbook": "P3",
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "organizations/north-america-taiwanese-medical-association-foundation.md",
+      "finding": "STRUCT_NO_HISTORY",
+      "finding_prefix": "STRUCT_NO_HISTORY",
+      "action": "Add ## History section",
+      "detail": "Add a History section with key dates, milestones, and events. Include dates and brief descriptions.",
+      "playbook": "P8",
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "organizations/north-america-taiwanese-medical-association-foundation.md",
+      "finding": "STRUCT_NO_RELATED",
+      "finding_prefix": "STRUCT_NO_RELATED",
+      "action": "Add ## Related Pages section",
+      "detail": "Add a Related Pages section with wikilinks ([[people/name|Name]]) to connected pages. Use first-mention convention.",
+      "playbook": "P3",
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "organizations/nyu-taiwanese-american-student-society.md",
+      "finding": "STRUCT_NO_HISTORY",
+      "finding_prefix": "STRUCT_NO_HISTORY",
+      "action": "Add ## History section",
+      "detail": "Add a History section with key dates, milestones, and events. Include dates and brief descriptions.",
+      "playbook": "P8",
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "organizations/nyu-taiwanese-american-student-society.md",
+      "finding": "READABILITY_LONG_SENTENCES_42wps",
+      "finding_prefix": "READABILITY_LONG_SENTENCES",
+      "action": "Break up long sentences",
+      "detail": "Average words per sentence exceeds 30. Break up long sentences for readability.",
+      "playbook": "P8",
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "organizations/nyu-taiwanese-american-student-society.md",
+      "finding": "READABILITY_MANY_LONG_SENTENCES_4",
+      "finding_prefix": "READABILITY_MANY_LONG_SENTENCES",
+      "action": "Break up long sentences",
+      "detail": "Multiple sentences exceed 50 words. Break them up for readability.",
+      "playbook": "P8",
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "organizations/sogetsu-buxmont-study-group.md",
+      "finding": "STRUCT_NO_HISTORY",
+      "finding_prefix": "STRUCT_NO_HISTORY",
+      "action": "Add ## History section",
+      "detail": "Add a History section with key dates, milestones, and events. Include dates and brief descriptions.",
+      "playbook": "P8",
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "organizations/sogetsu-buxmont-study-group.md",
+      "finding": "READABILITY_LONG_SENTENCES_30wps",
+      "finding_prefix": "READABILITY_LONG_SENTENCES",
+      "action": "Break up long sentences",
+      "detail": "Average words per sentence exceeds 30. Break up long sentences for readability.",
+      "playbook": "P8",
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "organizations/sogetsu-buxmont-study-group.md",
+      "finding": "READABILITY_MANY_LONG_SENTENCES_4",
+      "finding_prefix": "READABILITY_MANY_LONG_SENTENCES",
+      "action": "Break up long sentences",
+      "detail": "Multiple sentences exceed 50 words. Break them up for readability.",
+      "playbook": "P8",
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "organizations/south-bay-taiwanese-association-of-n-california.md",
+      "finding": "STRUCT_NO_HISTORY",
+      "finding_prefix": "STRUCT_NO_HISTORY",
+      "action": "Add ## History section",
+      "detail": "Add a History section with key dates, milestones, and events. Include dates and brief descriptions.",
+      "playbook": "P8",
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "organizations/south-bay-taiwanese-association-of-n-california.md",
+      "finding": "READABILITY_LONG_SENTENCES_41wps",
+      "finding_prefix": "READABILITY_LONG_SENTENCES",
+      "action": "Break up long sentences",
+      "detail": "Average words per sentence exceeds 30. Break up long sentences for readability.",
+      "playbook": "P8",
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "organizations/south-bay-taiwanese-association-of-n-california.md",
+      "finding": "READABILITY_MANY_LONG_SENTENCES_5",
+      "finding_prefix": "READABILITY_MANY_LONG_SENTENCES",
+      "action": "Break up long sentences",
+      "detail": "Multiple sentences exceed 50 words. Break them up for readability.",
+      "playbook": "P8",
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "organizations/taiwanese-american-association-east-san-gabriel-valley.md",
+      "finding": "STRUCT_NO_HISTORY",
+      "finding_prefix": "STRUCT_NO_HISTORY",
+      "action": "Add ## History section",
+      "detail": "Add a History section with key dates, milestones, and events. Include dates and brief descriptions.",
+      "playbook": "P8",
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "organizations/taiwanese-american-association-east-san-gabriel-valley.md",
+      "finding": "READABILITY_LONG_SENTENCES_33wps",
+      "finding_prefix": "READABILITY_LONG_SENTENCES",
+      "action": "Break up long sentences",
+      "detail": "Average words per sentence exceeds 30. Break up long sentences for readability.",
+      "playbook": "P8",
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "organizations/taiwanese-american-association-east-san-gabriel-valley.md",
+      "finding": "READABILITY_MANY_LONG_SENTENCES_6",
+      "finding_prefix": "READABILITY_MANY_LONG_SENTENCES",
+      "action": "Break up long sentences",
+      "detail": "Multiple sentences exceed 50 words. Break them up for readability.",
+      "playbook": "P8",
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "organizations/taiwanese-american-professionals-san-francisco.md",
+      "finding": "STRUCT_NO_HISTORY",
+      "finding_prefix": "STRUCT_NO_HISTORY",
+      "action": "Add ## History section",
+      "detail": "Add a History section with key dates, milestones, and events. Include dates and brief descriptions.",
+      "playbook": "P8",
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "organizations/taiwanese-american-professionals-san-francisco.md",
+      "finding": "READABILITY_LONG_SENTENCES_33wps",
+      "finding_prefix": "READABILITY_LONG_SENTENCES",
+      "action": "Break up long sentences",
+      "detail": "Average words per sentence exceeds 30. Break up long sentences for readability.",
+      "playbook": "P8",
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "organizations/taiwanese-american-professionals-san-francisco.md",
+      "finding": "READABILITY_MANY_LONG_SENTENCES_4",
+      "finding_prefix": "READABILITY_MANY_LONG_SENTENCES",
+      "action": "Break up long sentences",
+      "detail": "Multiple sentences exceed 50 words. Break them up for readability.",
+      "playbook": "P8",
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "organizations/taiwanese-american-student-association-at-ohio-state-university.md",
+      "finding": "LINKS_NO_RELATED",
+      "finding_prefix": "LINKS_NO_RELATED",
+      "action": "Add ## Related Pages section",
+      "detail": "Add a Related Pages section with wikilinks to connected people, organizations, and sources.",
+      "playbook": "P3",
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "organizations/taiwanese-american-student-association-at-ohio-state-university.md",
+      "finding": "STRUCT_NO_HISTORY",
+      "finding_prefix": "STRUCT_NO_HISTORY",
+      "action": "Add ## History section",
+      "detail": "Add a History section with key dates, milestones, and events. Include dates and brief descriptions.",
+      "playbook": "P8",
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "organizations/taiwanese-american-student-association-at-ohio-state-university.md",
+      "finding": "STRUCT_NO_RELATED",
+      "finding_prefix": "STRUCT_NO_RELATED",
+      "action": "Add ## Related Pages section",
+      "detail": "Add a Related Pages section with wikilinks ([[people/name|Name]]) to connected pages. Use first-mention convention.",
+      "playbook": "P3",
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "organizations/taiwanese-american-student-association-at-the-university-of-maryland-college-park.md",
+      "finding": "STRUCT_NO_HISTORY",
+      "finding_prefix": "STRUCT_NO_HISTORY",
+      "action": "Add ## History section",
+      "detail": "Add a History section with key dates, milestones, and events. Include dates and brief descriptions.",
+      "playbook": "P8",
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "organizations/taiwanese-american-student-association-at-the-university-of-maryland-college-park.md",
+      "finding": "READABILITY_LONG_SENTENCES_34wps",
+      "finding_prefix": "READABILITY_LONG_SENTENCES",
+      "action": "Break up long sentences",
+      "detail": "Average words per sentence exceeds 30. Break up long sentences for readability.",
+      "playbook": "P8",
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "organizations/taiwanese-american-student-association-at-the-university-of-maryland-college-park.md",
+      "finding": "READABILITY_MANY_LONG_SENTENCES_5",
+      "finding_prefix": "READABILITY_MANY_LONG_SENTENCES",
+      "action": "Break up long sentences",
+      "detail": "Multiple sentences exceed 50 words. Break them up for readability.",
+      "playbook": "P8",
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "organizations/taiwanese-association-of-america-colorado.md",
+      "finding": "STRUCT_NO_HISTORY",
+      "finding_prefix": "STRUCT_NO_HISTORY",
+      "action": "Add ## History section",
+      "detail": "Add a History section with key dates, milestones, and events. Include dates and brief descriptions.",
+      "playbook": "P8",
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "organizations/taiwanese-association-of-america-colorado.md",
+      "finding": "READABILITY_LONG_SENTENCES_35wps",
+      "finding_prefix": "READABILITY_LONG_SENTENCES",
+      "action": "Break up long sentences",
+      "detail": "Average words per sentence exceeds 30. Break up long sentences for readability.",
+      "playbook": "P8",
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "organizations/taiwanese-association-of-america-colorado.md",
+      "finding": "READABILITY_MANY_LONG_SENTENCES_5",
+      "finding_prefix": "READABILITY_MANY_LONG_SENTENCES",
+      "action": "Break up long sentences",
+      "detail": "Multiple sentences exceed 50 words. Break them up for readability.",
+      "playbook": "P8",
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "organizations/taiwanese-association-of-america-pittsburgh.md",
+      "finding": "STRUCT_NO_HISTORY",
+      "finding_prefix": "STRUCT_NO_HISTORY",
+      "action": "Add ## History section",
+      "detail": "Add a History section with key dates, milestones, and events. Include dates and brief descriptions.",
+      "playbook": "P8",
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "organizations/taiwanese-association-of-america-pittsburgh.md",
+      "finding": "READABILITY_LONG_SENTENCES_33wps",
+      "finding_prefix": "READABILITY_LONG_SENTENCES",
+      "action": "Break up long sentences",
+      "detail": "Average words per sentence exceeds 30. Break up long sentences for readability.",
+      "playbook": "P8",
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "organizations/taiwanese-association-of-america-pittsburgh.md",
+      "finding": "READABILITY_MANY_LONG_SENTENCES_5",
+      "finding_prefix": "READABILITY_MANY_LONG_SENTENCES",
+      "action": "Break up long sentences",
+      "detail": "Multiple sentences exceed 50 words. Break them up for readability.",
+      "playbook": "P8",
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "organizations/taiwanese-association-of-greater-seattle-tags.md",
+      "finding": "STRUCT_NO_HISTORY",
+      "finding_prefix": "STRUCT_NO_HISTORY",
+      "action": "Add ## History section",
+      "detail": "Add a History section with key dates, milestones, and events. Include dates and brief descriptions.",
+      "playbook": "P8",
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "organizations/taiwanese-association-of-greater-seattle-tags.md",
+      "finding": "READABILITY_LONG_SENTENCES_38wps",
+      "finding_prefix": "READABILITY_LONG_SENTENCES",
+      "action": "Break up long sentences",
+      "detail": "Average words per sentence exceeds 30. Break up long sentences for readability.",
+      "playbook": "P8",
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "organizations/taiwanese-association-of-greater-seattle-tags.md",
+      "finding": "READABILITY_MANY_LONG_SENTENCES_5",
+      "finding_prefix": "READABILITY_MANY_LONG_SENTENCES",
+      "action": "Break up long sentences",
+      "detail": "Multiple sentences exceed 50 words. Break them up for readability.",
+      "playbook": "P8",
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "organizations/taiwanese-dental-association.md",
+      "finding": "DESC_NO_TITLE_MENTION",
+      "finding_prefix": "DESC_NO_TITLE_MENTION",
+      "action": "Ensure the first paragraph mentions the page subject",
+      "detail": "The first paragraph should reference the person/organization this page is about.",
+      "playbook": "P8",
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "organizations/taiwanese-dental-association.md",
+      "finding": "STRUCT_NO_HISTORY",
+      "finding_prefix": "STRUCT_NO_HISTORY",
+      "action": "Add ## History section",
+      "detail": "Add a History section with key dates, milestones, and events. Include dates and brief descriptions.",
+      "playbook": "P8",
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "organizations/taiwanese-student-association-at-arizona-state-university.md",
+      "finding": "DESC_NO_TITLE_MENTION",
+      "finding_prefix": "DESC_NO_TITLE_MENTION",
+      "action": "Ensure the first paragraph mentions the page subject",
+      "detail": "The first paragraph should reference the person/organization this page is about.",
+      "playbook": "P8",
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "organizations/taiwanese-student-association-at-arizona-state-university.md",
+      "finding": "STRUCT_NO_HISTORY",
+      "finding_prefix": "STRUCT_NO_HISTORY",
+      "action": "Add ## History section",
+      "detail": "Add a History section with key dates, milestones, and events. Include dates and brief descriptions.",
+      "playbook": "P8",
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "organizations/taiwanese-students-association.md",
+      "finding": "STRUCT_NO_HISTORY",
+      "finding_prefix": "STRUCT_NO_HISTORY",
+      "action": "Add ## History section",
+      "detail": "Add a History section with key dates, milestones, and events. Include dates and brief descriptions.",
+      "playbook": "P8",
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "organizations/taiwanese-students-association.md",
+      "finding": "READABILITY_LONG_SENTENCES_30wps",
+      "finding_prefix": "READABILITY_LONG_SENTENCES",
+      "action": "Break up long sentences",
+      "detail": "Average words per sentence exceeds 30. Break up long sentences for readability.",
+      "playbook": "P8",
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "organizations/taiwanese-students-association.md",
+      "finding": "READABILITY_MANY_LONG_SENTENCES_5",
+      "finding_prefix": "READABILITY_MANY_LONG_SENTENCES",
+      "action": "Break up long sentences",
+      "detail": "Multiple sentences exceed 50 words. Break them up for readability.",
+      "playbook": "P8",
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "organizations/taiwaneseamericanhistory-org.md",
+      "finding": "LINKS_NO_RELATED",
+      "finding_prefix": "LINKS_NO_RELATED",
+      "action": "Add ## Related Pages section",
+      "detail": "Add a Related Pages section with wikilinks to connected people, organizations, and sources.",
+      "playbook": "P3",
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "organizations/taiwaneseamericanhistory-org.md",
+      "finding": "STRUCT_NO_HISTORY",
+      "finding_prefix": "STRUCT_NO_HISTORY",
+      "action": "Add ## History section",
+      "detail": "Add a History section with key dates, milestones, and events. Include dates and brief descriptions.",
+      "playbook": "P8",
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "organizations/taiwaneseamericanhistory-org.md",
+      "finding": "STRUCT_NO_RELATED",
+      "finding_prefix": "STRUCT_NO_RELATED",
+      "action": "Add ## Related Pages section",
+      "detail": "Add a Related Pages section with wikilinks ([[people/name|Name]]) to connected pages. Use first-mention convention.",
+      "playbook": "P3",
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "people/dr-lung-fong-chen.md",
+      "finding": "DESC_NO_TITLE_MENTION",
+      "finding_prefix": "DESC_NO_TITLE_MENTION",
+      "action": "Ensure the first paragraph mentions the page subject",
+      "detail": "The first paragraph should reference the person/organization this page is about.",
+      "playbook": "P8",
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "people/dr-lung-fong-chen.md",
+      "finding": "READABILITY_MANY_LONG_SENTENCES_4",
+      "finding_prefix": "READABILITY_MANY_LONG_SENTENCES",
+      "action": "Break up long sentences",
+      "detail": "Multiple sentences exceed 50 words. Break them up for readability.",
+      "playbook": "P8",
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "people/dr-ming-hong-chow.md",
+      "finding": "DESC_NO_TITLE_MENTION",
+      "finding_prefix": "DESC_NO_TITLE_MENTION",
+      "action": "Ensure the first paragraph mentions the page subject",
+      "detail": "The first paragraph should reference the person/organization this page is about.",
+      "playbook": "P8",
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "people/dr-ming-hong-chow.md",
+      "finding": "LINKS_HIGH_DENSITY",
+      "finding_prefix": "LINKS_HIGH_DENSITY",
+      "action": "UNKNOWN_FINDING_TYPE",
+      "detail": "No action mapping for finding: LINKS_HIGH_DENSITY",
+      "playbook": "P8",
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "people/dr-peter-tsai.md",
+      "finding": "DESC_NO_TITLE_MENTION",
+      "finding_prefix": "DESC_NO_TITLE_MENTION",
+      "action": "Ensure the first paragraph mentions the page subject",
+      "detail": "The first paragraph should reference the person/organization this page is about.",
+      "playbook": "P8",
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "people/dr-peter-tsai.md",
+      "finding": "READABILITY_MANY_LONG_SENTENCES_4",
+      "finding_prefix": "READABILITY_MANY_LONG_SENTENCES",
+      "action": "Break up long sentences",
+      "detail": "Multiple sentences exceed 50 words. Break them up for readability.",
+      "playbook": "P8",
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "people/dr-sebo-koh.md",
+      "finding": "DESC_NO_TITLE_MENTION",
+      "finding_prefix": "DESC_NO_TITLE_MENTION",
+      "action": "Ensure the first paragraph mentions the page subject",
+      "detail": "The first paragraph should reference the person/organization this page is about.",
+      "playbook": "P8",
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "people/dr-sebo-koh.md",
+      "finding": "READABILITY_MANY_LONG_SENTENCES_4",
+      "finding_prefix": "READABILITY_MANY_LONG_SENTENCES",
+      "action": "Break up long sentences",
+      "detail": "Multiple sentences exceed 50 words. Break them up for readability.",
+      "playbook": "P8",
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "people/ho-yang-lin.md",
+      "finding": "DESC_TOO_SHORT",
+      "finding_prefix": "DESC_TOO_SHORT",
+      "action": "Expand the first paragraph to provide a meaningful summary of the page",
+      "detail": "First paragraph should be 50+ characters and mention the page subject. Add 1-2 sentences summarizing who/what this page is about.",
+      "playbook": "P8",
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "people/ho-yang-lin.md",
+      "finding": "DESC_NO_TITLE_MENTION",
+      "finding_prefix": "DESC_NO_TITLE_MENTION",
+      "action": "Ensure the first paragraph mentions the page subject",
+      "detail": "The first paragraph should reference the person/organization this page is about.",
+      "playbook": "P8",
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "people/kenneth-wang.md",
+      "finding": "DESC_NO_TITLE_MENTION",
+      "finding_prefix": "DESC_NO_TITLE_MENTION",
+      "action": "Ensure the first paragraph mentions the page subject",
+      "detail": "The first paragraph should reference the person/organization this page is about.",
+      "playbook": "P8",
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "people/kenneth-wang.md",
+      "finding": "LINKS_HIGH_DENSITY",
+      "finding_prefix": "LINKS_HIGH_DENSITY",
+      "action": "UNKNOWN_FINDING_TYPE",
+      "detail": "No action mapping for finding: LINKS_HIGH_DENSITY",
+      "playbook": "P8",
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "people/kuei-ling-chen.md",
+      "finding": "DESC_NO_TITLE_MENTION",
+      "finding_prefix": "DESC_NO_TITLE_MENTION",
+      "action": "Ensure the first paragraph mentions the page subject",
+      "detail": "The first paragraph should reference the person/organization this page is about.",
+      "playbook": "P8",
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "people/kuei-ling-chen.md",
+      "finding": "READABILITY_MANY_LONG_SENTENCES_4",
+      "finding_prefix": "READABILITY_MANY_LONG_SENTENCES",
+      "action": "Break up long sentences",
+      "detail": "Multiple sentences exceed 50 words. Break them up for readability.",
+      "playbook": "P8",
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "people/maysing-huang.md",
+      "finding": "DESC_NO_TITLE_MENTION",
+      "finding_prefix": "DESC_NO_TITLE_MENTION",
+      "action": "Ensure the first paragraph mentions the page subject",
+      "detail": "The first paragraph should reference the person/organization this page is about.",
+      "playbook": "P8",
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "people/maysing-huang.md",
+      "finding": "LINKS_HIGH_DENSITY",
+      "finding_prefix": "LINKS_HIGH_DENSITY",
+      "action": "UNKNOWN_FINDING_TYPE",
+      "detail": "No action mapping for finding: LINKS_HIGH_DENSITY",
+      "playbook": "P8",
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "people/michael-fonte.md",
+      "finding": "FRESHNESS_NO_REVIEW_DATE",
+      "finding_prefix": "FRESHNESS_NO_REVIEW_DATE",
+      "action": "Add last_reviewed: YYYY-MM-DD to frontmatter",
+      "detail": "Add a last_reviewed date to the page frontmatter.",
+      "playbook": "P8",
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "people/michael-fonte.md",
+      "finding": "STRUCT_NO_TYPE",
+      "finding_prefix": "STRUCT_NO_TYPE",
+      "action": "Add type: to frontmatter",
+      "detail": "Add type: person, type: organization, or type: source to the page frontmatter.",
+      "playbook": "P8",
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "people/michael-fonte.md",
+      "finding": "STRUCT_NO_REVIEW_DATE",
+      "finding_prefix": "STRUCT_NO_REVIEW_DATE",
+      "action": "Add last_reviewed: YYYY-MM-DD to frontmatter",
+      "detail": "Add a last_reviewed date to the page frontmatter so the freshness checker can track it.",
+      "playbook": "P8",
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "sources/tcccna-pcusadir-2009.md",
+      "finding": "DESC_NO_TITLE_MENTION",
+      "finding_prefix": "DESC_NO_TITLE_MENTION",
+      "action": "Ensure the first paragraph mentions the page subject",
+      "detail": "The first paragraph should reference the person/organization this page is about.",
+      "playbook": "P8",
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "sources/tcccna-pcusadir-2009.md",
+      "finding": "LINKS_NO_RELATED",
+      "finding_prefix": "LINKS_NO_RELATED",
+      "action": "Add ## Related Pages section",
+      "detail": "Add a Related Pages section with wikilinks to connected people, organizations, and sources.",
+      "playbook": "P3",
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "sources/tcccna-pcusadir-2009.md",
+      "finding": "STRUCT_NO_STATS",
+      "finding_prefix": "STRUCT_NO_STATS",
+      "action": "Add ## Archive Statistics or ## Content section",
+      "detail": "Add archive statistics (URL count, size, date) or content summary for this source page.",
+      "playbook": "P8",
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "sources/tcnn-song-memorial-2024.md",
+      "finding": "DESC_NO_TITLE_MENTION",
+      "finding_prefix": "DESC_NO_TITLE_MENTION",
+      "action": "Ensure the first paragraph mentions the page subject",
+      "detail": "The first paragraph should reference the person/organization this page is about.",
+      "playbook": "P8",
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "sources/tcnn-song-memorial-2024.md",
+      "finding": "LINKS_NO_RELATED",
+      "finding_prefix": "LINKS_NO_RELATED",
+      "action": "Add ## Related Pages section",
+      "detail": "Add a Related Pages section with wikilinks to connected people, organizations, and sources.",
+      "playbook": "P3",
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "sources/tcnn-song-memorial-2024.md",
+      "finding": "STRUCT_NO_STATS",
+      "finding_prefix": "STRUCT_NO_STATS",
+      "action": "Add ## Archive Statistics or ## Content section",
+      "detail": "Add archive statistics (URL count, size, date) or content summary for this source page.",
+      "playbook": "P8",
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    }
+  ]
+}

@@ -24,3 +24,7 @@ Infobox: 出生 (1970-07-29) 1970年7月29日, 臺灣新竹縣；公民權 中�
 | 2020 | 第31屆傳藝金曲獎 | 最佳演奏獎 | 《李斯特超技練習曲》 | 提名 |
 
 引注來源包括 蘋果日報 2006-08-04、華夏導報 2005-07-07、Patch (Fukami) 2011-03-31、人間福報 2008-10-04、gwhynethchen.net (存檔 2022-01-30)、自由時報 趙靜瑜 2008-10-10、台灣英文新聞/中央社 2010-07-19。Captured 2026-09-14. Cited by [[people/gwhyneth-chen|Gwhyneth Chen]].
+
+## Related Pages
+
+- [[people/gwhyneth-chen]]

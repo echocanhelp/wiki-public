@@ -1,0 +1,4 @@
+people/philip-lin.md
+organizations/taiwanese-american-pen-club.md
+organizations/taiwanese-student-association-at-syracuse-university.md
+organizations/north-america-taiwanese-womens-association-northern-california-chapter.md

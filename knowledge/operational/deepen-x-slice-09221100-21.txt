@@ -1,0 +1,4 @@
+people/alvina-ling.md
+organizations/kaohsiung-hotel-association.md
+people/pearl-pi-chu-yang-wu.md
+organizations/student-association-of-taiwan-uw-madison.md

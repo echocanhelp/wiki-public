@@ -1,0 +1,4 @@
+people/li-fa-xie.md
+people/james-hu.md
+people/dr-fu-yuan-hsu.md
+organizations/chicago-taiwanese-architecture-institute-ctai.md

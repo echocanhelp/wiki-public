@@ -1,0 +1,4 @@
+people/david-j-lu.md
+people/steven-chou.md
+organizations/global-alliance-for-democracy-and-peace.md
+people/george-kao.md

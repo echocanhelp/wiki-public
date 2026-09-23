@@ -7,3 +7,7 @@ last_reviewed: 2026-09-14
 # AllMusic — Gwhyneth Chen discography
 
 Discography record: *Gwhyneth Chen, Piano* (Pro Piano, 1999). Cited by [[people/gwhyneth-chen|Gwhyneth Chen]]. Retrieved 2026-09-14.
+
+## Related Pages
+
+- [[people/gwhyneth-chen]]

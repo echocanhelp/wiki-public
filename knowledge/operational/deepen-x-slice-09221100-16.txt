@@ -1,0 +1,4 @@
+people/charles-ting.md
+people/shyu-tu-lee.md
+organizations/shee-highland-musee-in-il.md
+organizations/neo-art-league.md

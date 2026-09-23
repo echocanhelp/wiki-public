@@ -1,0 +1,4 @@
+organizations/san-diego-taiwanese-cultural-association.md
+people/ted-lau.md
+people/ling-ling-chang.md
+people/laura-huang.md

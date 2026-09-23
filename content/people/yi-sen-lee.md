@@ -68,8 +68,6 @@ See the source hub. Top mentions:
 
 1. [[articles/taiwanjustice-net/2025/20251107004331_台美人歷史協會新任會長許景鴻接椽-開啟世代傳承_11575c718bbd4c74|台美人歷史協會新任會長許景鴻接椽 開啟世代傳承新紀元]]
 
-Corpus re-grep (2026-09-22, slice 09211123-3): the only real corpus hit is the 2025-09-05 board-meeting article already cited above; the two `content/works` matches (musician25, whoswho1092) are false positives — they are 李琹怡 (Chin-Yi Lee) pianist records, not this person. No new community facts to absorb; SKIP expansion, HOLD.
-
 
 ## Timeline
 

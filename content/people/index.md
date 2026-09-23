@@ -937,6 +937,7 @@ On a phone, **use header search** (漢名 or English). This page is an A–Z lis
 [[people/hsiu-fang-susan-liu|Hsiu-Fang Susan Liu (陳秀芳)]]
 [[people/hsu-ching-chun|Hsu Ching-chun (許景淳)]]
 [[people/hsu-hsin-hung|Hsu Hsin-hung (徐新宏)]]
+[[people/hsu-hsin-liang|Hsu Hsin-liang (許信良)]]
 [[people/hsu-ling-yun|Hsu Ling-yun (許凌雲)]]
 [[people/hsu-shih-huan|Hsu Shih-huan (許世環)]]
 [[people/hsueh-hu-kuo|Hsueh-Hu Kuo (郭雪湖)]]

@@ -17,3 +17,7 @@ last_reviewed: 2026-09-14
 - 1993 第一屆波哥雷利奇大賽：剛好達最年輕參賽年齡，四回合，唯一女性決賽者，八位決賽者皆身經百戰；擊敗超過三十歲的決賽者。
 
 Captured 2026-09-14 via 兩廳院表演藝術圖書館 webpac detail 29905 (accompanying notes to 《陳毓襄鋼琴獨奏集》, Pro Piano 1999). Cited by [[people/gwhyneth-chen|Gwhyneth Chen]].
+
+## Related Pages
+
+- [[people/gwhyneth-chen]]

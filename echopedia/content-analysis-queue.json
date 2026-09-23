@@ -1,25 +1,10 @@
 {
-  "date": "2026-09-21",
+  "date": "2026-09-22",
   "standards_version": 10,
-  "total_pages_scanned": 2909,
-  "pages_with_findings": 104,
-  "auto_queued": 24,
+  "total_pages_scanned": 2910,
+  "pages_with_findings": 92,
+  "auto_queued": 27,
   "queue": [
-    {
-      "path": "organizations/coalition-of-taiwan-independences.md",
-      "findings": [
-        "STRUCT_NO_HISTORY",
-        "READABILITY_LONG_SENTENCES_34wps",
-        "READABILITY_MANY_LONG_SENTENCES_4"
-      ],
-      "priority": "medium",
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol",
-        "Fix ONLY listed findings — no inventing biography",
-        "Update last_reviewed after fixes",
-        "Commit only (no publish)"
-      ]
-    },
     {
       "path": "organizations/good-shine-kitchen.md",
       "findings": [
@@ -51,10 +36,25 @@
       ]
     },
     {
-      "path": "organizations/north-america-taiwanese-womens-association.md",
+      "path": "organizations/nyu-taiwanese-american-student-society.md",
       "findings": [
         "STRUCT_NO_HISTORY",
-        "READABILITY_LONG_SENTENCES_31wps",
+        "READABILITY_LONG_SENTENCES_42wps",
+        "READABILITY_MANY_LONG_SENTENCES_4"
+      ],
+      "priority": "medium",
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol",
+        "Fix ONLY listed findings — no inventing biography",
+        "Update last_reviewed after fixes",
+        "Commit only (no publish)"
+      ]
+    },
+    {
+      "path": "organizations/sogetsu-buxmont-study-group.md",
+      "findings": [
+        "STRUCT_NO_HISTORY",
+        "READABILITY_LONG_SENTENCES_30wps",
         "READABILITY_MANY_LONG_SENTENCES_4"
       ],
       "priority": "medium",
@@ -81,11 +81,71 @@
       ]
     },
     {
+      "path": "organizations/taiwanese-american-association-east-san-gabriel-valley.md",
+      "findings": [
+        "STRUCT_NO_HISTORY",
+        "READABILITY_LONG_SENTENCES_33wps",
+        "READABILITY_MANY_LONG_SENTENCES_6"
+      ],
+      "priority": "medium",
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol",
+        "Fix ONLY listed findings — no inventing biography",
+        "Update last_reviewed after fixes",
+        "Commit only (no publish)"
+      ]
+    },
+    {
+      "path": "organizations/taiwanese-american-professionals-san-francisco.md",
+      "findings": [
+        "STRUCT_NO_HISTORY",
+        "READABILITY_LONG_SENTENCES_33wps",
+        "READABILITY_MANY_LONG_SENTENCES_4"
+      ],
+      "priority": "medium",
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol",
+        "Fix ONLY listed findings — no inventing biography",
+        "Update last_reviewed after fixes",
+        "Commit only (no publish)"
+      ]
+    },
+    {
       "path": "organizations/taiwanese-american-student-association-at-ohio-state-university.md",
       "findings": [
         "LINKS_NO_RELATED",
         "STRUCT_NO_HISTORY",
         "STRUCT_NO_RELATED"
+      ],
+      "priority": "medium",
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol",
+        "Fix ONLY listed findings — no inventing biography",
+        "Update last_reviewed after fixes",
+        "Commit only (no publish)"
+      ]
+    },
+    {
+      "path": "organizations/taiwanese-american-student-association-at-the-university-of-maryland-college-park.md",
+      "findings": [
+        "STRUCT_NO_HISTORY",
+        "READABILITY_LONG_SENTENCES_34wps",
+        "READABILITY_MANY_LONG_SENTENCES_5"
+      ],
+      "priority": "medium",
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol",
+        "Fix ONLY listed findings — no inventing biography",
+        "Update last_reviewed after fixes",
+        "Commit only (no publish)"
+      ]
+    },
+    {
+      "path": "organizations/taiwanese-association-of-america-colorado.md",
+      "findings": [
+        "STRUCT_NO_HISTORY",
+        "READABILITY_LONG_SENTENCES_35wps",
+        "READABILITY_MANY_LONG_SENTENCES_5"
       ],
       "priority": "medium",
       "instructions": [
@@ -111,11 +171,11 @@
       ]
     },
     {
-      "path": "organizations/taiwanese-association-of-wisconsin.md",
+      "path": "organizations/taiwanese-association-of-greater-seattle-tags.md",
       "findings": [
         "STRUCT_NO_HISTORY",
-        "READABILITY_LONG_SENTENCES_32wps",
-        "READABILITY_MANY_LONG_SENTENCES_6"
+        "READABILITY_LONG_SENTENCES_38wps",
+        "READABILITY_MANY_LONG_SENTENCES_5"
       ],
       "priority": "medium",
       "instructions": [
@@ -154,11 +214,11 @@
       ]
     },
     {
-      "path": "organizations/taiwanese-student-association-tsa.md",
+      "path": "organizations/taiwanese-students-association.md",
       "findings": [
         "STRUCT_NO_HISTORY",
-        "READABILITY_LONG_SENTENCES_41wps",
-        "READABILITY_MANY_LONG_SENTENCES_4"
+        "READABILITY_LONG_SENTENCES_30wps",
+        "READABILITY_MANY_LONG_SENTENCES_5"
       ],
       "priority": "medium",
       "instructions": [
@@ -174,49 +234,6 @@
         "LINKS_NO_RELATED",
         "STRUCT_NO_HISTORY",
         "STRUCT_NO_RELATED"
-      ],
-      "priority": "medium",
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol",
-        "Fix ONLY listed findings — no inventing biography",
-        "Update last_reviewed after fixes",
-        "Commit only (no publish)"
-      ]
-    },
-    {
-      "path": "people/carol-cho.md",
-      "findings": [
-        "DESC_NO_TITLE_MENTION",
-        "READABILITY_LONG_SENTENCES_36wps",
-        "READABILITY_MANY_LONG_SENTENCES_4"
-      ],
-      "priority": "medium",
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol",
-        "Fix ONLY listed findings — no inventing biography",
-        "Update last_reviewed after fixes",
-        "Commit only (no publish)"
-      ]
-    },
-    {
-      "path": "people/choan-guo-huei.md",
-      "findings": [
-        "DESC_NO_TITLE_MENTION",
-        "STRUCT_NO_IDENTITY"
-      ],
-      "priority": "medium",
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol",
-        "Fix ONLY listed findings — no inventing biography",
-        "Update last_reviewed after fixes",
-        "Commit only (no publish)"
-      ]
-    },
-    {
-      "path": "people/dew-chin-ghi-chang.md",
-      "findings": [
-        "DESC_TOO_SHORT",
-        "DESC_NO_TITLE_MENTION"
       ],
       "priority": "medium",
       "instructions": [
@@ -255,10 +272,52 @@
       ]
     },
     {
-      "path": "people/john-lin.md",
+      "path": "people/dr-peter-tsai.md",
       "findings": [
         "DESC_NO_TITLE_MENTION",
         "READABILITY_MANY_LONG_SENTENCES_4"
+      ],
+      "priority": "medium",
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol",
+        "Fix ONLY listed findings — no inventing biography",
+        "Update last_reviewed after fixes",
+        "Commit only (no publish)"
+      ]
+    },
+    {
+      "path": "people/dr-sebo-koh.md",
+      "findings": [
+        "DESC_NO_TITLE_MENTION",
+        "READABILITY_MANY_LONG_SENTENCES_4"
+      ],
+      "priority": "medium",
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol",
+        "Fix ONLY listed findings — no inventing biography",
+        "Update last_reviewed after fixes",
+        "Commit only (no publish)"
+      ]
+    },
+    {
+      "path": "people/ho-yang-lin.md",
+      "findings": [
+        "DESC_TOO_SHORT",
+        "DESC_NO_TITLE_MENTION"
+      ],
+      "priority": "medium",
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol",
+        "Fix ONLY listed findings — no inventing biography",
+        "Update last_reviewed after fixes",
+        "Commit only (no publish)"
+      ]
+    },
+    {
+      "path": "people/kenneth-wang.md",
+      "findings": [
+        "DESC_NO_TITLE_MENTION",
+        "LINKS_HIGH_DENSITY"
       ],
       "priority": "medium",
       "instructions": [
@@ -283,39 +342,25 @@
       ]
     },
     {
+      "path": "people/maysing-huang.md",
+      "findings": [
+        "DESC_NO_TITLE_MENTION",
+        "LINKS_HIGH_DENSITY"
+      ],
+      "priority": "medium",
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol",
+        "Fix ONLY listed findings — no inventing biography",
+        "Update last_reviewed after fixes",
+        "Commit only (no publish)"
+      ]
+    },
+    {
       "path": "people/michael-fonte.md",
       "findings": [
         "FRESHNESS_NO_REVIEW_DATE",
         "STRUCT_NO_TYPE",
         "STRUCT_NO_REVIEW_DATE"
-      ],
-      "priority": "medium",
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol",
-        "Fix ONLY listed findings — no inventing biography",
-        "Update last_reviewed after fixes",
-        "Commit only (no publish)"
-      ]
-    },
-    {
-      "path": "people/ming-tsuang.md",
-      "findings": [
-        "DESC_NO_TITLE_MENTION",
-        "READABILITY_MANY_LONG_SENTENCES_4"
-      ],
-      "priority": "medium",
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol",
-        "Fix ONLY listed findings — no inventing biography",
-        "Update last_reviewed after fixes",
-        "Commit only (no publish)"
-      ]
-    },
-    {
-      "path": "people/shin-ruh-liu.md",
-      "findings": [
-        "DESC_TOO_SHORT",
-        "DESC_NO_TITLE_MENTION"
       ],
       "priority": "medium",
       "instructions": [
@@ -356,6 +401,6 @@
       ]
     }
   ],
-  "suppressed_findings": 1925,
-  "fp_history_entries": 2170
+  "suppressed_findings": 1988,
+  "fp_history_entries": 2205
 }

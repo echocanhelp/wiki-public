@@ -1,0 +1,4 @@
+organizations/asia-democracy-foundation.md
+organizations/taiwanese-american-student-association-at-the-university-of-michigan.md
+people/john-lin.md
+people/rev-martin-c-wang.md

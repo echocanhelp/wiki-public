@@ -1,0 +1,4 @@
+organizations/cornell-taiwanese-american-society.md
+people/jennie-wang.md
+people/i-y-lin.md
+people/j-z-lee.md

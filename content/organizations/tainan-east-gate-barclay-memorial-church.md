@@ -54,6 +54,16 @@ A [[organizations/presbyterian-church-in-taiwan||PCT]] congregation in **台南�
 ## Vault coverage (deepen 2026-09-14)
 - Absorbed from the source hub [[sources/eastgatebarclay-org||eastgatebarclay.org]] (graph-absorption notes there): the church maintained **七間支會** — 南門, 仁德, 東寧, 後甲, 富強, 長榮, 德光; **2018** — Elizabeth Memorial Chapel (伊莉莎白紀念教會); **2022** — 東門巴克禮歷史教育推廣協會 established; the archive also covers 松年大學 (Silver College) and 部會事工 (officer structure). Barclay documentary assets are on the **世界記憶國家名錄** (National Memory of the World Register).
 
+## Related Pages
+
+- [[organizations/presbyterian-church-in-taiwan]]
+- [[people/thomas-barclay]]
+- [[people/shoki-coe]]
+- [[articles/taiwanjustice-net/2022/20221202065132_2016_07_06_帶學生避禍228-自己卻難逃一劫_淡水中學校長陳能_1fa146177b3547b7]]
+- [[people/pinghsi-liu]]
+- [[sources/eastgatebarclay-org]]
+- [[organizations/chunglun-presbyterian-church]]
+
 ## Sources
 1. [關於本會](https://eastgatebarclay.org/aboutme/)
 2. [教會歷史](https://eastgatebarclay.org/aboutme/%E6%95%99%E6%9C%83%E6%AD%B7%E5%8F%B2/)

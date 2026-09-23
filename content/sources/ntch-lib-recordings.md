@@ -9,3 +9,8 @@ last_reviewed: 2026-09-14
 唱片書目：*Gwhyneth Chen, piano* [compact disc] — New York, NY: Pro Piano Records, p1999. Pianist's perspective recording. 內容：Stravinsky《Petrushka》選段；Scriabin Fantasia op.28 B minor；Piano Sonata No.3 op.23 F-sharp minor。附英文傳單頁（含公視/第一屆國際台灣鋼琴大賽傳記，見 [[sources/ntcpetv-ptsi-bio]]）。Program notes: https://serv.npac-ntch.org/CD/21A/C021053.htm
 
 Captured 2026-09-14. Cited by [[people/gwhyneth-chen|Gwhyneth Chen]].
+
+## Related Pages
+
+- [[sources/ntcpetv-ptsi-bio]]
+- [[people/gwhyneth-chen]]

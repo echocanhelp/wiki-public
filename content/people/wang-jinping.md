@@ -45,4 +45,4 @@ last_reviewed: 2026-09-22
 
 複核（deepen-x 2026-09-19）：corpus re-grep（works+articles）無可吸收的新社群材料 — ourjourneys301、why-taiwan-matters-part-ii、2026 海峽論壇報導已全數吸收；ourjourneys33-eng 命中為「Wang Jinn (王謹)」假陽性（非王金平）；新命中 2026-02-10 李眉蓁競選報導僅屬島內政治順帶提及，不收。
 
-複核（deepen-x 2026-09-22）：corpus re-grep（王金平）命中集合不變（ourjourneys301、why-taiwan-matters-part-ii、2026 海峽論壇報導、tier2 順帶提及），無新增社群材料。
+複核（deepen-x 2026-09-22, slice 09220900-9）：corpus re-grep（王金平）命中集合不變（ourjourneys301、why-taiwan-matters-part-ii、2026 海峽論壇報導、tier2 順帶提及含顏寬恒報導屬島內政治順帶提及不收），無新增社群材料。
