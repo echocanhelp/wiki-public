@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # Dr. Poshing Lee (李勃興醫師)
 
@@ -35,6 +35,7 @@ Source from北美台大醫學院校友會http://ntumcaa-na.org/Web_pages/program
 - HOLD: conflict in entry dating — the TAH encyclopedia page is catalogued as a 2007 Who's Who entry but its corpus record carries a 2018-02-01 publish date; never merged.
 - No memoir or article corpus hits beyond his own encyclopedia record; no further community facts absorbable at this pass. Re-verified 2026-09-21 (slice 09210317-25): fresh grep 李勃興/Poshing Lee over works+articles returns only his own record plus index adjacency — SKIP-with-reason.
 - 2026-09-22 corpus re-check (deepen-x slice 21): fresh grep 李勃興/Poshing Lee over works+articles returns only his own encyclopedia record and works/index — still nothing new absorbable; SKIP-with-reason stands.
+- 2026-09-23 corpus re-check (deepen-x slice 24): fresh grep 李勃興/Poshing Lee returns the same single record (whos-who-2007-poshing-lee) plus works/index. Verified-saturated; SKIP-with-reason stands.
 
 ## Family
 

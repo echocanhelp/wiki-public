@@ -36,6 +36,7 @@ last_reviewed: 2026-09-23
 - Signed the Pew-recorded North American Taiwanese Women's Association (北台美人婦女會) community statement as "Sue Chen, North America Taiwanese Women's Association" — one of the named organization representatives on the statement. See [[works/taiwaneseamerican-org/pew-research-center-taiwanese-american-statement|Pew 台美人團體聲明]]. (The same statement also lists a "Sue Cheng" among individual signers — surname romanization differs; not merged.)
 - HOLD: conflict 陳禹辛 vs 廖淑清 — the TAF/MFCF founding-history memoirs ([[works/taiwaneseamericanhistory-org/ourjourneys33-eng|33. TAF history (EN)]], [[works/taiwaneseamericanhistory-org/ourjourneys33-2|33. TAF history (中)]]) name a "Sue Chen (廖淑清)" among MFCF founding members (circa-1990 photo front row; credited with junior arts/music programs alongside Carol Cho 林秋菊). The corpus glosses that Sue Chen as 廖淑清, not 陳禹辛 — likely a different person; not auto-merged pending verification.
 - 2026-09-22 corpus re-check (deepen-x slice 21): grep 陳禹辛/Sue Chen returns only already-absorbed records (own #427 entry, ourjourneys33 EN/中 MFCF founding photo, Pew statement signer list) — HOLD 陳禹辛 vs 廖淑清 unchanged, nothing new absorbable.
+- 2026-09-23 corpus re-check (deepen-x slice 09221400-19): grep unchanged (own #427 entry, ourjourneys33 EN/中, Pew statement, works index) — HOLD unchanged, nothing new absorbable.
 
 ## Family
 
