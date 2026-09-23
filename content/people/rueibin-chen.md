@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # Rueibin Chen (陳瑞斌)
 
@@ -29,6 +29,7 @@ Pianist with a documented footprint in the Taiwanese American community record:
 - Press coverage in the corpus places him in Southern California community cultural life: a 2019/07 record announces 「夢想．熱情 陳瑞斌鋼琴音樂會 9/19舉行」 at the 大洛杉磯台灣會館 (Taiwan Center of Greater Los Angeles), and a 2021/01 record carries 「用琴聲撫慰人心 "天使手指"陳瑞斌專訪」 — see [[articles/taiwanjustice-net/2020/20200625112116_category_taiwancenter_page_2_c79a3c4984a84d46|TaiwanJustice 台灣會館 record (2020)]] and [[articles/taiwanjustice-net/2025/20250425132401_category_taiwan-culture_page_87_537e5e09a9a308cf|TaiwanJustice 台灣人文藝術 record (2025)]].
 
 HOLD: birth year 1967 in Identity Snapshot comes from the TAH Who's Who import only; no corroborating corpus date. (Re-grep 2026-09-22, slice 09211507-5: corpus hits remain the two own TAH records, the index, and the two TaiwanJustice records already wikilinked above — verified saturated.)
+(Re-grep 2026-09-23, slice 09221000-31: hit set again identical — #324, #506, works index, and the two already-linked TaiwanJustice records; verified saturated; SKIP-with-nothing-absorbable.)
 
 ## Family
 
