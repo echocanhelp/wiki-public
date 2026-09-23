@@ -38,6 +38,8 @@ last_reviewed: 2026-09-23
 
 ## From the record
 
+- 再核（TJJ-A09220900-2, 2026-09-23）：本 slice 兩份楊遠薰《卓甫良與TAF的故事》TJJ存檔（b4206bcf 2024-03-02／e7aad53f 2025-03-23 repost）正文再驗證——林志文（Bob Lin）為1986年行為準則談判青年代表、盧志華任內第二代幹事之連結為真，對應條目已在庫；文中另有同名立法候選人HOLD不變，無新材料。
+
 - 2025-03-23 — TJJ reprint of 楊遠薰's TAF history again records Bob Lin as the youth representative for the 1986 code-of-conduct negotiation and a second-generation leader brought on under president 盧志華 from 1991 ([[articles/taiwanjustice-net/2025/20250323083207_卓甫良與taf的故事-_-楊遠薰_e7aad53f3e593fde|TJJ reprint 2025-03-23]]).
 - 2024-03-02 — Repost of 楊遠薰's TAF history on TJJ reiterates Bob Lin as the youth representative chosen to negotiate the 1986 code of conduct that saved the camp, and as a second-generation leader brought onto camp staff under president 盧志華 from 1991 ([[articles/taiwanjustice-net/2024/20240302042859_root_b4206bcf0ec508d6|楊遠薰《卓甫良與TAF的故事》, TJJ 2024-03-02 repost]]).
 

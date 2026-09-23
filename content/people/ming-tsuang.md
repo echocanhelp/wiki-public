@@ -71,6 +71,8 @@ last_reviewed: 2026-09-23
 
 ## From the record
 
+- 再核（TJJ-A09220900-2, 2026-09-23）：本 slice 兩份楊遠薰《卓甫良與TAF的故事》TJJ存檔（b4206bcf 2024-03-02／e7aad53f 2025-03-23 repost）正文再驗證——莊明哲任TAF創會會長（1980年11月芝加哥理事會推選）之連結為真，對應日期事實條目已在庫，無新材料。
+
 - 2024-03-02 — Repost of 楊遠薰's TAF history on TJJ reiterates Tsuang as TAF's founding president (elected at the November 1980 Chicago board meeting), with the 1981–1982 camps themed on communication (溝通) ([[articles/taiwanjustice-net/2024/20240302042859_root_b4206bcf0ec508d6|楊遠薰《卓甫良與TAF的故事》, TJJ 2024-03-02 repost]]).
 
 - 2025-03-23 — 楊遠薰's TAF history reprinted on TJJ re-confirms 莊明哲 (University of Iowa psychiatrist) as TAF's founding president, elected at the November 1980 Chicago board meeting that converted MFCF into TAF, with the 1981–1982 camps themed on 溝通 ([[articles/taiwanjustice-net/2025/20250323083207_卓甫良與taf的故事-_-楊遠薰_e7aad53f3e593fde|TJJ reprint 2025-03-23]]).

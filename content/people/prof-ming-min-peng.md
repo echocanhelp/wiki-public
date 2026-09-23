@@ -75,6 +75,8 @@ _No filled family fields on the TAH profile._
 
 ## From the record
 
+- 再核（TJJ-A09220900-2, 2026-09-23）：本 slice 獨傲村夫〈反攻大陸：蔣介石的美夢，美國人的噩夢（下）〉兩份TJJ存檔（dd1007a6 2017-12-20 snapshot／35d25fb4 2024-07-19 snapshot）正文再驗證——1964-09-20自救宣言、「台灣人的先知」評語之連結為真，對應條目已在庫，無新材料。
+
 - 2023-09-24 — 「台灣人民自救宣言」59週年，彭明敏文教基金會與台大研究生協會、台大學生會舉行彭明敏教授紀念研討會，邀年輕世代從學生角度詮釋彭明敏思想、促進跨世代對話；台大研究生協會會長黃種賢評彭明敏不畏威權勇於批判，其政治遠見即使從台大校史出發亦是標竿人物（[[articles/taiwanjustice-net/2024/20240221121609_root_92ff3ef6b0b74b9c|TJJ/CNA, 2023-09-24]]）。
 - 2017-03-12 — TJJ memorial article on Milo Thornberry (唐培禮): credits the Thornberrys as the key helpers in Peng's 1970 escape from surveillance to Sweden (arriving 1970-01-05); recounts the 1964-09-20 台灣自救宣言, the 1965 sentences and the escape ([[articles/taiwanjustice-net/2024/20240302025810_root_74f89ee82c85dc78|TJJ, 2017-03-12]]).
 - 1970-01-03 — Second TJJ copy of the Thornberry memorial (with 鄭世璋's 新使者 essay): Peng considers missionary Milo Thornberry the person who helped his escape the most; the essay notes even Peng's own 《自由的滋味》 (1984) omitted the escape details until 《逃亡》 (2009), and that Zhou Enlai asked Nixon about a possible CIA role during the 1972 visit ([[articles/taiwanjustice-net/2022/20220517051352_2017_03_12_撲火飛蛾_fireproof-moth作者美國宣教師唐培禮_milo-thornberry_5d471dbe6e4efbde|TJJ, 2017-03-12]]).

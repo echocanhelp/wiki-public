@@ -53,6 +53,8 @@ last_reviewed: 2026-09-23
 
 ## From the record
 
+- 再核（TJJ-A09220900-2, 2026-09-23）：本 slice 兩份楊遠薰《卓甫良與TAF的故事》TJJ存檔（b4206bcf 2024-03-02／e7aad53f 2025-03-23 repost）正文再驗證——卓甫良為MFCF/TAF共同創辦人兼第四任會長、州府核安鑑定專家等論述之連結為真，對應日期事實條目已在庫（含1987 vs 1989 任期起年HOLD），無新材料。
+
 - 2024-03-02 — Repost of 楊遠薰's profile of Cho: the 1967 lakeside retreat that grew into MFCF (1973), the 1980 rename to TAF at 楊忠正's Chicago home, his fourth presidency from 1987 (ethics-values theme), 13 years as the State of Illinois nuclear-safety certification expert, 2002 retirement, and the 鷹翅團契/營友會 initiatives after settling in Irvine ([[articles/taiwanjustice-net/2024/20240302042859_root_b4206bcf0ec508d6|楊遠薰《卓甫良與TAF的故事》, TJJ 2024-03-02 repost]]).
 
 - 2025-03-23 — 楊遠薰's TAF history reprinted on TJJ (same text as the 2021-06-22 article below) re-confirms the full arc: 1956 cargo-ship emigration via Tokyo where he plighted his engagement to 林秋菊, University of Michigan BSE 1959, 42-year engineering career capped as the State of Illinois nuclear-safety certification expert (13 plants, retired end-2002), and 20+ years of MFCF/TAF servant-leadership as fourth president ([[articles/taiwanjustice-net/2025/20250323083207_卓甫良與taf的故事-_-楊遠薰_e7aad53f3e593fde|TJJ reprint 2025-03-23]]).

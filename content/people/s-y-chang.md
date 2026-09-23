@@ -39,6 +39,8 @@ _No filled family fields on the TAH profile._
 
 ## From the record
 
+- 再核（TJJ-A09220900-2, 2026-09-23）：本 slice 兩份楊遠薰《卓甫良與TAF的故事》TJJ存檔（b4206bcf 2024-03-02／e7aad53f 2025-03-23 repost）正文再驗證——張信義任TAF第二任會長（1983年起，主題認同）之連結為真，對應條目已在庫（含1983–85 vs 1983–84 任期記述差異），無新材料。
+
 - Bibliographic record: [[works/taiwaneseamericanhistory-org/whoswho1651|TAH #1651 — S. Y. Chang 張信義 (2017-05-11)]] — band-B story record in the TAH story corpus; full text stays in the vault.
 
 - 2025-03-23 — TJJ reprint of 楊遠薰's TAF history again names 張信義 as TAF's second president (from 1983, theme 認同) ([[articles/taiwanjustice-net/2025/20250323083207_卓甫良與taf的故事-_-楊遠薰_e7aad53f3e593fde|TJJ reprint 2025-03-23]]).
