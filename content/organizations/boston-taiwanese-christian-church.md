@@ -8,7 +8,7 @@ tags:
   - church
   - Boston
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # Boston Taiwanese Christian Church (波士頓台灣基督教會)
 
@@ -31,6 +31,8 @@ Thin A-tier from [[sources/laijohn-com||laijohn.com]] biog + TAH John Lai card. 
 - HOLD: conflict — memoir 338's title calls the founder 「張啟典醫師」 while [[people/chi-tien-chang|his person page]] records 台大化學系 / scientist-professor (TAH Who's Who). Not auto-merged.
 - 2026-09-21 (deepen-x slice 09210400-9): fresh corpus re-grep — the only works/articles hits are memoir [[works/taiwaneseamericanhistory-org/ourjourneys338|338]] and the 2016-05-16 chronicle record, both already absorbed above; no additional corpus material to absorb.
 - 2026-09-22 (deepen-x slice 09212352-22): re-grep ZH+EN — hit-set unchanged (memoir 338, 2016-05-16 chronicle, works index). SKIP-content: verified-saturated; HOLD above (醫師 vs 科學家 founder description) unchanged.
+
+- 2026-09-23 (deepen-x slice 09221100-31): fresh ZH+EN re-grep — hit-set unchanged (memoir [[works/taiwaneseamericanhistory-org/ourjourneys338|338]], 2016-05-16 chronicle, works index); no new corpus material. SKIP-content: verified-saturated; HOLD (醫師 vs 科學家 founder description) unchanged.
 
 ## Related Pages
 - [[people/chi-tien-chang||Prof. Chi-Tien Chang 張啟典]] — founding member
