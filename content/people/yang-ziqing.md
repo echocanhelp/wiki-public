@@ -6,7 +6,7 @@ tags:
   - columnist
   - taiwanjustice-net
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # Yang Zi-qing (楊子清)
 
@@ -28,6 +28,7 @@ last_reviewed: 2026-09-22
 
 ## From the record
 
+- 複核（TJJ-A09221400-9, 2026-09-23）：本切片兩稿（「拯救我」2024-02-24 存檔副本 80b33cf1846bc005、「希望之光」2024-02-28 存檔副本 a40b37bc03b2b9cb）author/subject link 經正文再驗證為真實對應（提供影音／指揮），引用条目已在库（无错链、无虚链）— SKIP，无新材料。
 - 複核（TJJ-A09220500-4／-6, 2026-09-22）：兩切片各稿（「末日之淚」「音樂短講第13集」「拯救我」2025 存檔重刊、「希望之光」2023 存檔）author/subject link 經原文正文再驗證為真實對應（指揮／主講／提供影音），引用条目已在库（无错链、无虚链）— SKIP，无新材料。
 - 2022-12-02 — 提供以立合唱團世界首演「希望之光」（作曲、指揮黃令先，鋼琴陳慧如，剪輯廖健榮；10/1 洛杉磯 Pasadena、10/8 紐約卡內基贊克爾廳）影音供台灣報報報導（[[articles/taiwanjustice-net/2023/20230202214624_2022_12_02_以立合唱團世界首演_希望之光_影音_e7e2a1e1a71524ce|TJJ, 2022-12-02]]；存檔副本 [[articles/taiwanjustice-net/2025/20250524200224_以立合唱團世界首演_希望之光_影音_025f6ed990dc9e2c|2025-05]]、[[articles/taiwanjustice-net/2024/20240228144919_root_a40b37bc03b2b9cb|2024-02]]）。
 - 2026-07-28 — taiwanjustice.net 文章存檔索引（29,103 篇・2011–2026）以本人為關鍵人物條目收錄（[[articles/taiwanjustice-net/index||TJJ 文章存檔索引]]）。

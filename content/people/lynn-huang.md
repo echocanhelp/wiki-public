@@ -44,6 +44,7 @@ _No filled family fields on the TAH profile._
 
 ## From the record
 
+- 複核（TJJ-A09221400-9, 2026-09-23）：本切片兩稿（「拯救我」2024-02-24 存檔副本 80b33cf1846bc005、「希望之光」2024-02-28 存檔副本 a40b37bc03b2b9cb）subject link 經正文再驗證為真實對應（鋼琴；作曲兼指揮），引用条目已在库（无错链、无虚链）— SKIP，无新材料。
 - 複核（TJJ-A09221400-3, 2026-09-23）：本 slice 兩篇「致死的震怒近了」存檔稿（b7ec76fa／2b3d5a36）之 subject link 經正文再驗證為真實對應（鋼琴），2023-02-03 條目已在庫 — SKIP，無新材料。
 
 - 複核（TJJ-A09221300-8, 2026-09-23）：Mayfield 校園交流稿 2024 存檔副本 54dd66fe454bf899 之 subject link 經正文再驗證為真實對應（電子鍵盤、改編曲「Oh My Goodness」），2024-05-13 條目已在庫 — SKIP，無新材料。

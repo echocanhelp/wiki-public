@@ -37,6 +37,7 @@ Jennet Jah is the daughter of the noted composter, Professor Kenneth Lee. She gr
 
 ## From the record
 
+- 複核（TJJ-A09221400-9, 2026-09-23）：「拯救我」2024-02-24 存檔副本（80b33cf1846bc005）subject link（女高音獨唱）經正文再驗證為真實對應，引用条目已在库（无错链、无虚链）— SKIP，无新材料。
 - 複核（TJJ-A09221400-3, 2026-09-23）：本 slice 兩篇「致死的震怒近了」存檔稿（b7ec76fa／2b3d5a36）之 subject link 經正文再驗證為真實對應（女高音獨唱飾 Abigaille），對應條目已在庫 — SKIP，無新材料。
 
 - 複核（TJJ-A09220500-4／-6, 2026-09-22）：「學生王子」稿及「拯救我」Libera me 稿（2025 存檔重刊）之 subject link（聲樂指導／女高音獨唱）經原文正文再驗證為真實對應，引用条目已在库（无错链、无虚链）— SKIP，无新材料。

@@ -7,7 +7,7 @@ tags:
   - Taiwan-Center
   - board
 verification_status: published
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # Shu Lai (賴淑遠)
 
