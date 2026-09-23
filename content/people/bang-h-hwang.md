@@ -62,6 +62,8 @@ _No filled family fields on the TAH profile._
 
 ## From the record
 
+- 複核（TJJ-A09221500-4, 2026-09-23）：本 slice 文章 89e6683c93156205（台美人台加人 page 356）正文再驗證——「長青教室心得報告-黃金年華膀胱的呼聲 ◎ 黃邦雄醫師 2018-11-02」條目確認見於正文，subject 連結為真；2018-11-02 條目已在庫，無新材料。
+
 - Re-verify 2026-09-22 (TJJ-A09220700-9): subject-link check against slice article 23e163f71d3f2ba5（標籤「長青教室」頁）—「長青教室心得報告-黃金年華膀胱的呼聲 ◎ 黃邦雄醫師 2018-11-02」確認見於正文，連結為真（該文 Subjects 的 .md 後綴連結已修正為慣例格式）；無新材料。
 
 - 2021-10-09 — 黃邦雄醫師撰稿〈人類乳突病毒與疫苗的認識[影]〉刊於台灣公義報「台美人台加人」（2025-04-30 存檔分類頁）—— [[articles/taiwanjustice-net/2025/20250430202458_category_taiwaneseamerican_a75a6e8c12e18729|TJJ 台美人台加人存檔頁]]。
