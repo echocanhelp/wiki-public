@@ -42,6 +42,9 @@ last_reviewed: 2026-09-23
 - 1985-04 — Listed as an advisory committee member (顧問) of the 台美公民協會籌備委員會 in 台灣公論報 369期 ([[works/taiwaneseamericanhistory-org/ourjourneys186|186. 台美公民協會簡介 / 籌備委員會]]).
 - His own TAH encyclopedia record #1560 (2017/03) is archived as [[works/taiwaneseamericanhistory-org/whoswho1560|1560. Y.C. Hsu 許英智 / 2017/03]]; org page: [[organizations/taiwanese-american-citizens-league|台美公民協會 TACL]].
 
+## From the corpus (re-verified)
+- Corpus re-grep 2026-09-23 (slice 09221100-25): hits unchanged — ourjourneys272/-eng (TACL founding), ourjourneys66 (1984 回台訪問團), ourjourneys186 (TACL 顧問), whoswho1560, works index — all facts already absorbed into Role in the Community; SKIP-content.
+
 ## Sources
 - [TAH #1560 encyclopedia: 1560. Y.C. Hsu 許英智/ 2017/03](https://taiwaneseamericanhistory.org/whoswho1560/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/y-c-hsu-2/)

@@ -55,6 +55,8 @@ Corpus records place Alan Yang as a touchstone for the Taiwanese American creati
 
 - 2020-04-10 — taiwanjustice.net「台灣鄉情與文化」專欄報導「『虎尾』登上Netflix，台裔導演楊維榕新片談移民艱辛」，記其電影《虎尾》登上Netflix、影片述及台裔移民的艱辛（專欄第3頁 2020-06-28 快照）—— [[articles/taiwanjustice-net/2020/20200628125826_category_culture_page_3_2ac7d75679fda7fe|TJJ 台灣鄉情與文化頁，2020-06-28 存档]]。
 
+- Corpus re-grep (slice 09221100-23, 2026-09-23): hit set unchanged — own record [[works/taiwaneseamericanhistory-org/whos-who-2253-alan-yang|TAH #2253]], 虎尾 coverage [[works/taiwaneseamericanhistory-org/our-journeys-353|TAH #353]], and the TA.org pages (interview-michellekuo, kelvin-yu, best-of-the-best-2020-lists-taiwan), plus index. All already linked above; no new corpus material — SKIP (verified-saturated).
+
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
