@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # Prof. Hsian-Rong Tseng (曾憲榮)
 
@@ -53,3 +53,4 @@ He is also linked from the community index record [[works/taiwaneseamericanhisto
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 <!-- deepen-x 09220700-22: SKIP — corpus re-scan (works/articles) fresh 2026-09-22: hits are only own TAH records (#729, ota-283, moonshot essay) + works/index.md, all already wikilinked; no new community material. -->
+<!-- deepen-x 09221500-28: re-verify 2026-09-23 — fresh grep (works/articles): hits are only own TAH records (#729, ota-283, moonshot essay) + works/index.md, all already wikilinked. No new community material. SKIP-with-reason. -->

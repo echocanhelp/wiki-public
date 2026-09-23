@@ -5,7 +5,7 @@ redirect_to: hsu-shih-huan
 tags:
   - redirect
 verification_status: redirect
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 
 # Moved
@@ -45,3 +45,5 @@ Chronological events for **許世環**:
 ### 2018 (1 events)
 
 - **2018-07-20** 🎤 抗議 南加州台大校友會邀管中閔來年會做專題演講 ◎國立台灣大學校友 2018-07-19
+
+<!-- deepen-x 09221500-28: re-verify 2026-09-23 — fresh grep (works/articles): hit set unchanged (single 2018 台大校友抗議公開信 only, already recorded + quoted). Redirect stub; SKIP-with-reason. -->
