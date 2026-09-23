@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # Agnes Hsiao (黃美琇)
 
@@ -46,7 +46,7 @@ last_reviewed: 2026-09-22
 
 ## Corpus review
 
-- 本頁 corpus 檢索（2026-09-22, DEEPEN-X slice 09220500-13）：works/articles 檢索 黃美琇／Agnes Hsiao 無命中（已收錄的 Our Journeys 30／265、memoir #459、Who's Who #796 均為書目記錄，全文留在 vault）— 已飽和，無新可吸收社群事實，無衝突需 HOLD。
+- 本頁 corpus 檢索（2026-09-22, DEEPEN-X slice 09220500-13; re-verified 2026-09-23 slice 09221300-13 — hit set identical: Our Journeys 30/30-eng/265, memoir #459, Who's Who #796, works index; all already wikilinked）：works/articles 檢索 黃美琇／Agnes Hsiao 無命中（已收錄的 Our Journeys 30／265、memoir #459、Who's Who #796 均為書目記錄，全文留在 vault）— 已飽和，無新可吸收社群事實，無衝突需 HOLD。
 
 ## Sources
 - [TAH #796 encyclopedia: 796. Agnes Hsiao 黃美琇 / 2016/02](https://taiwaneseamericanhistory.org/whos796-agnes-hsiao/)
