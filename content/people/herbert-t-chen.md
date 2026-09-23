@@ -50,3 +50,5 @@ last_reviewed: 2026-09-23
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+<!-- deepen-x slice 09221000-29 (2026-09-23): re-verified — fresh ZH+EN grep; the only corpus hit is ourjourneys-369 (怀忆六十年代前期的明市), whose 陳志青 passage (wife 吳真希/Maki organist, 1963-10 marriage via Otani 牧師圈) is already fully absorbed in Role in the Community + Family. SKIP (saturated). -->
