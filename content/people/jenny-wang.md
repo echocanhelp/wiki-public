@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # Jenny Wang (王采羿一)
 
@@ -40,6 +40,7 @@ _No filled family fields on the TAH profile._
 - Mentioned in a Taiwanese American creators' conversation as "Jenny Wang from Asians for Mental Health": [[works/taiwaneseamerican-org/when-love-is-more-than-words|When Love Is More Than Words]] — affiliation differs from OFTaiwan; identity match unconfirmed.
 - Her own TAH Who's Who record: [[works/taiwaneseamericanhistory-org/whos-who-2234|2234. Jenny Wang 王采羿一 / 12/2019]].
 - 2026-09-22 corpus re-check: grep for 王采羿一 / Jenny Wang returns only the #2234 directory record, the OFTaiwan Award announcement, and the creators' conversation already cited above. No new corpus facts.
+> Re-verified 2026-09-23 (slice 09221500-13): fresh grep 王采羿一 / Jenny Wang returns only #2234, the OFTaiwan Award announcement, and the creators' conversation already cited; verified saturated, Rutgers-vs-NYU HOLD stands.
 
 ## Sources
 - [TAH #2234 encyclopedia: 2234. Jenny Wang 王采羿一/12/2019](https://taiwaneseamericanhistory.org/whos-who-2234/)

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # Patricia J. Chen
 
@@ -42,6 +42,7 @@ _No filled family fields on the TAH profile._
 
 > Deepen pass 2026-09-22 (slice 09210831-30): idempotent re-verify — corpus hits remain [[works/taiwaneseamericanhistory-org/mystories53|53. 傑出律師 Super Lawyer Patricia Chen]], [[works/taiwaneseamericanhistory-org/40-patricia-j-chen|40. Patricia J. Chen]], and the unresolved 615 author-name overlap (HOLD above); nothing new absorbable.
 > Re-verified 2026-09-22 (slice 09220700-17): fresh grep Patricia J. Chen / Patricia Chen across works/ + articles/ returns the same three records (mystories53, 40-patricia-j-chen, 615) plus index adjacency; no new community-activity material; 615 HOLD stands.
+> Re-verified 2026-09-23 (slice 09221500-13): fresh grep Patricia Chen across works/ + articles/ returns the same records (mystories53, 40-patricia-j-chen, 615, index); verified saturated, 615 HOLD stands.
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/patricia-j-chen/)
