@@ -6,7 +6,7 @@ name_zh: "蔡瀛如"
 tags: [person, family]
 verification_status: owner-verified
 publish: false  # owner gate 2026-09-20: family-privacy; vault keeps full record, site must not emit
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # Tsai Ying-ju (蔡瀛如)
 

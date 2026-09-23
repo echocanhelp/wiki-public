@@ -52,6 +52,8 @@ _No filled family fields on the TAH profile._
 
 - 2026-09-22 deepen-x slice 09220400-32: re-verified — fresh grep 宋盛照/Seng-Jaw Soong returns only own TAH record #1482 and the works index, already wikilinked above. No new memoir/article mentions.
 
+- 2026-09-23 deepen-x slice 09221300-14: re-verified — fresh grep 宋盛照/Seng-Jaw Soong over works+articles returns only own TAH record #1482 and the works index, already wikilinked. Nothing absorbable.
+
 ## Sources
 - [TAH #1482 encyclopedia: 1482. Seng-Jaw Soong 宋盛照 / 2017/01](https://taiwaneseamericanhistory.org/whoswho1482/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/seng-jaw-soong/)

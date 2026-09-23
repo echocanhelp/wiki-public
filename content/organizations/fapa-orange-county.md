@@ -40,3 +40,4 @@ last_reviewed: 2026-09-23
 ## Worklog
 
 - 2026-09-22 deepen-x slice 09220500-20: re-verified — fresh grep of works/+articles/ returns only works already wikilinked above plus sibling OC-org records (OCTW 同鄉會, TAP-OC, OCTA 柑縣台灣同鄉會, 柑縣台美商會音樂會, 柑縣228紀念會) whose 柑縣 mentions carry no FAPA-OC-attributed facts; nothing new absorbable.
+- 2026-09-23 deepen-x slice 09221300-13: deepened — fresh grep surfaced one new attributable record: the 2011-10-08 唐培理/唐秋詩致敬餐會 co-hosted by 柑縣、洛杉磯、聖地牙哥 FAPA chapters (taiwanjustice.net report); absorbed above.

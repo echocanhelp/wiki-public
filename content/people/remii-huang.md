@@ -41,6 +41,7 @@ _No filled family fields on the TAH profile._
 - **HOLD: conflict in source** — the same program text elsewhere attributes the festival-screened short "Never Let You Go" to Jessie Lee, while Remii Huang's own bio names her festival film "Color Positive"; do not merge the two attributions ([[works/taiwaneseamerican-org/natwa2con|NATWA 2018 convention program]]).
 - Corpus re-checked 2026-09-22: hits remain the NATWA 2018 convention program [[works/taiwaneseamerican-org/natwa2con|NATWA 2018 convention program]], her own TAH encyclopedia page, and the works index — the NATWA panel record above is the only community material; no new memoir mentions.
 - The TAH Who's Who press-kit note "Won the Best Female Director Award at the American Independent Film Festival" is not corroborated in the corpus; filmography details above are community-record primary material.
+- Corpus re-checked 2026-09-23 (deepen-x slice 09221300-14): fresh grep returns the same hit set (own TAH page #2078, natwa2con, works index); the NATWA panel record above remains the only community material. Verified-saturated.
 
 ## Sources
 - [TAH #2078 encyclopedia: 2078. Remii Huang 	黃婕妤](https://taiwaneseamericanhistory.org/whos-who-2078-remii-huang/)

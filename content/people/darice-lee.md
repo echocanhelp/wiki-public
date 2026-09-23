@@ -42,6 +42,7 @@ last_reviewed: 2026-09-23
 - HOLD: a taiwanjustice.net 2025 page tagged 洪珠美 ([[articles/taiwanjustice-net/2025/20250914111538_tag_洪珠美_4d4219d6f4ebefdf|tag archive]]) is a tag-index page with no context to confirm it refers to this Darice Lee — not absorbed.
 - Corpus re-check 2026-09-22 (deepen-x slice 09220500-4): fresh grep of works/ + articles/ — hits unchanged (OJ #265, #352, Who's Who #859, empty taiwanjustice tag page, works/index.md). Saturated; nothing new absorbable.
 - Corpus re-check 2026-09-22 (deepen-x slice 09210800-13): fresh grep of works/ + articles/ — hits are the same memoir records already absorbed (Our Journeys #265, #352, Who's Who #859, empty taiwanjustice tag page). Nothing new absorbable.
+- Corpus re-check 2026-09-23 (deepen-x slice 09221300-14): fresh grep of works/ + articles/ — hits unchanged (OJ #265, #352, Who's Who #859, empty taiwanjustice tag page showing 'No posts to display', works/index.md). Saturated; nothing new absorbable.
 
 ## Sources
 - [TAH #859 encyclopedia: 859. Darice Lee 洪珠美/2016/02](https://taiwaneseamericanhistory.org/whos-who-859-darice-lee/)
