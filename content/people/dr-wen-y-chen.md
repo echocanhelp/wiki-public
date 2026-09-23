@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # Dr. Wen Y. Chen (陳文淵醫師)
 
@@ -41,6 +41,8 @@ _No filled family fields on the TAH profile._
 - HOLD: subject links on [[works/taiwaneseamericanhistory-org/milestones22|milestones 22 (7/3/1981)]] and [[works/taiwaneseamericanhistory-org/62-chen-wen-chen-scholarship-award-the-first-scholarship-award-1981|62. Chen Wen Chen Scholarship Award 1981]] are auto-linked to this page, but those records are about 陳文成教授 (Prof. Wen-Chen Chen, the 1981 台大 murder case) — a likely 陳文淵 vs 陳文成 name collision; no body-text mention of 陳文淵 found, so not absorbed.
 - 2026-09-21 re-check: corpus grep again returns subject-list auto-links in [[works/taiwaneseamericanhistory-org/ourjourneys19|Our Journeys 19 (在矽谷創業臺美人)]], [[works/taiwaneseamericanhistory-org/ourjourneys74-eng|Our Journeys 74 (NATMA 1983–1990)]] and [[works/taiwaneseamericanhistory-org/ourjourneys313-eng|Our Journeys 313 (東田納西台灣同鄉會)]] — machine-generated "mentioned in this record" subject stubs with no body-text mention of 陳文淵; nothing absorbable.
 - 2018-07 — listed among the 台大校友 who protested 南加州台大校友會 inviting 管中閔 to give a keynote at its annual dinner; the alumni list records him as 陳文淵（植病）, matching this page's National Taiwan Univ. Plant Diseases and Pests degree — the only corpus hit with a body-text (non-subject-list) mention and a corroborating department match ([[articles/taiwanjustice-net/2018/20180721091303_2018_07_20_抗議-南加州台大校友會邀管中閔來年會做專題演講_a428dcebbceacf38|TJJ 報導, 2018-07-20]]).
+
+- 2026-09-23 re-check (slice 09221100-31): corpus hits remain the own record plus machine-generated subject-list auto-links (Our Journeys 19/74/313-eng, milestones 22, 1981 獎學金 record) with no body-text mention of 陳文淵; the 2018 台大校友抗議 record stays the only body-text hit. SKIP-content: verified-saturated; 陳文成 name-collision HOLD unchanged.
 
 ## Sources
 - [TAH #2093 encyclopedia: 2093. Dr. Wen Y. Chen 陳文淵醫師](https://taiwaneseamericanhistory.org/whos-who-2093-wen-y-chen/)

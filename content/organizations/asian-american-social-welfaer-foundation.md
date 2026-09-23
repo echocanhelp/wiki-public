@@ -6,7 +6,7 @@ tags:
   - Taiwanese-American
   - Taiwan-Center-group-member
 verification_status: published
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # Asian American Social Welfaer Foundation
 
@@ -31,7 +31,7 @@ last_reviewed: 2026-09-22
 
 2026-09-20 corpus sweep: all corpus hits（asia-america-fund、TAH eNews、台灣公義報三篇、二二八研討會協辦名單）均已連結於上；無新事實可吸收。
 
-2026-09-21 / 2026-09-22 (deepen-x slice 09220400-3) re-grep (亞美社會福利 / Welfaer / Asia American Social Benefit): same hit set (asia-america-fund, TAH eNews, 台灣公義報三篇), all already linked — nothing new absorbable. SKIP-deepen.
+2026-09-21 / 2026-09-22 / 2026-09-23 (deepen-x slice 09221200-4) re-grep (亞美社會福利 / Welfaer / Asia American Social Benefit): same hit set (asia-america-fund, TAH eNews, 台灣公義報三篇), all already linked — nothing new absorbable. SKIP-deepen.
 
 ## Source Notes
 
