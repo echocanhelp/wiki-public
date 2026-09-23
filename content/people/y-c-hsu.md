@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # Y. C. Hsu (許耀慶)
 
@@ -42,6 +42,7 @@ _No filled family fields on the TAH profile._
 - HOLD: name-abbreviation collision — TAH Who's Who #1560 「Y.C. Hsu 許英智」 (2017/03, [[works/taiwaneseamericanhistory-org/whoswho1560|whoswho1560]]) is a *different* person with the same English initials; do not merge their records.
 
 > Corpus re-verify (deepen-x 09220400-10): fresh grep of works/ + articles/ for 許耀慶 / Y. C. Hsu returned only records already cited above (ourjourneys186/-eng, ourjourneys272/-eng, whoswho1244, whoswho1560 collision note). SKIP-deepen; nothing new absorbable.
+> Corpus re-verify (deepen-x 09221200-13, 2026-09-23): fresh grep again returns only ourjourneys186-eng, ourjourneys272-eng, whoswho1244, whoswho1560 and the works index. Both HOLDs (1982 vs 1981 founding date; 許英智 initials collision) stand. SKIP-deepen.
 
 ## Sources
 - [TAH #1244 encyclopedia: 1244. Y. C. Hsu 許耀慶 / 2016/08](https://taiwaneseamericanhistory.org/whoswho1244/)
