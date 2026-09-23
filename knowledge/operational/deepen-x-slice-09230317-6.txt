@@ -1,0 +1,4 @@
+organizations/taiwanese-american-outreach-association.md
+people/irene-lee.md
+people/prof-jing-hsiung-james-ou.md
+people/lu-hsuan-lucy-chen.md

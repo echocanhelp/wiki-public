@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # CHUNG-LIEN Chen (陳崇廉)
 
@@ -40,6 +40,7 @@ last_reviewed: 2026-09-22
 - The family's 1970s trajectory — 陳崇廉與妻謝雅美各自自台灣赴美、俄州相識、北卡醫學訓練、遷居南加州羅蘭崗台灣移民聚落執業 — is preserved in the corpus by two records: the TAH #2071 encyclopedia entry ([[works/taiwaneseamericanhistory-org/whoswho2071|TAH #2071]]) and son 陳仁宜's 2021 on-record memoir ([[works/taiwaneseamericanhistory-org/whoswh2070|TAH #2070 陳仁宜]]、[[articles/taiwanjustice-net/2021/20211205043357_2021_07_11_台裔學者陳仁宜角逐加州主計長_感恩父母支持_a1056cd694ea21cb|TJJ 轉載中央社專訪，2021-07-12]]). 陳仁宜's own 2021 campaign for California State Controller ([[people/lanhee-j-chen|陳仁宜]]) is the second generation's public service in the same community record.
 
 - Corpus re-grep 2026-09-22 (slice 09212352-10): SKIP — fresh grep confirms prior finding: 陳崇廉/CHUNG-LIEN Chen hits limited to own TAH #2071, the works index, and son 陳仁宜's already-linked 2021 record; nothing new to absorb. Prior re-grep 2026-09-21 (slice 09210317-6): SKIP — 陳崇廉/Chung-Lien hits limited to own TAH #2071, the works index, and son 陳仁宜's already-linked 2021 record (TAH #2070 / TJJ 轉載中央社專訪); nothing new to absorb.
+- Corpus re-grep 2026-09-23 (slice 09221000-9): SKIP — hit set unchanged (own TAH #2071, works index, son 陳仁宜's 2021 TJJ interview archive, already linked); no additional memoir material, nothing new to absorb.
 
 ## Sources
 - [TAH #2071 encyclopedia: 2071. CHUNG-LIEN Chen 陳崇廉 / 03/2018](https://taiwaneseamericanhistory.org/whoswho2071/)

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # Dr. R. Palmer Beasley (畢思理博士)
 
@@ -46,6 +46,7 @@ Dr. R. Palmer Beasley 畢思理博士 – History of Taiwanese American (T.A. Ar
 - Corpus re-grep 2026-09-21 (slice 09191100-5 retry): SKIP — hit set again unchanged; new Beasley matches screened as false positives (David Beasley / UN WFP; a Miss Great Britain namesake); nothing new to absorb.
 - Corpus re-grep 2026-09-21 (slice 09210317-4): SKIP — same hit set (own #245/#2188, ota index); the two new 2025 TJJ article hits are again the David Beasley (UN WFP) and Miss Great Britain namesakes; nothing new to absorb.
 - Corpus re-grep 2026-09-22 (slice 09212352-9): SKIP — hit set unchanged (own #245/#2188, 林壽英 tribute #662, works index, taiwanjustice 這些人這些事 tag archive); no memoir narrative beyond the known entries; nothing new to absorb.
+- Corpus re-grep 2026-09-23 (slice 09221000-7): SKIP — hit set unchanged (own #245/#2188, 林壽英 tribute #662, works index, 這些人這些事 tag archive); the one fresh 2025 TJJ hit (聯合國/烏克蘭糧食) is again David Beasley / UN WFP — false positive, not absorbed.
 
 ## Sources
 - [TAH #2188 encyclopedia: 2188. Dr. R. Palmer Beasley 畢思理博士](https://taiwaneseamericanhistory.org/whos-who-2188-r-palmer-beasley/)

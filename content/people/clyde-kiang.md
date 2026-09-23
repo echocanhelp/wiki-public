@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # Clyde Kiang (江運貴)
 
@@ -48,6 +48,7 @@ last_reviewed: 2026-09-22
 - Educator for the community: lectured 「客家文化 I, II」 at the 長青教室 adult-education program of Irvine台灣長老教會 (ITPC) — [[works/taiwaneseamericanhistory-org/ourjourneys107|Our Journeys #107, 長青教室]].
 
 - Corpus re-pass 2026-09-22 (deepen-x slice 09212352-10): fresh ZH+EN grep returns only records already documented above (plus the EN roster edition now linked); no new corpus material, no conflicts.
+- Corpus re-grep 2026-09-23 (slice 09221000-7): SKIP — hit set unchanged (ourjourneys290 ZH+EN, #252, #58, #107, #245, publications487, own #204 record); nothing new to absorb.
 
 ## Sources
 - [TAH #204 encyclopedia: 204. Clyde Kiang 江運貴/2015/01](https://taiwaneseamericanhistory.org/204-clyde-kiang-%e6%b1%9f%e9%81%8b%e8%b2%b4201501/)

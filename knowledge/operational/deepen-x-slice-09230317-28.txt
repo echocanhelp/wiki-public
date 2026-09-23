@@ -1,0 +1,4 @@
+organizations/the-life-enrichment-club.md
+people/nancy-ho.md
+people/jacob-lu.md
+organizations/distinguished-citizens-society-international-usa.md
