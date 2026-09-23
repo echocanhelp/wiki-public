@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # Feng-Jen Lu (路鳳真)
 
@@ -34,7 +34,7 @@ _No filled family fields on the TAH profile._
 ## Role in the Community
 - Two TAH encyclopedia entries are archived in the corpus: [[works/taiwaneseamericanhistory-org/musician399|TAH Musician #399]] and [[works/taiwaneseamericanhistory-org/whoswho1638|TAH Who's Who #1638]] (both published 2017-05-07), documenting her flute competition prizes in Taiwan (Kaohsiung 2007, 國立台灣教育大學 concerto 2010, Taichung 2010) before her move to Boston.
 - Part of the TAH musician cohort recorded in 2017 alongside [[works/taiwaneseamericanhistory-org/music398|黃騰寬]] and [[works/taiwaneseamericanhistory-org/musician396|Harmony Yang 楊心新]]. No memoir mentions beyond these records as of 2026-09-18.
-- 再查 slice 09210317-22（2026-09-21）與 slice 09220600-14（2026-09-22）：語料重 grep 僅再現自身書目條目與 index，無新增社群敘事可吸收。
+- 再查 slice 09210317-22（2026-09-21）、slice 09220600-14（2026-09-22）與 slice 09221500-26（2026-09-23）：語料重 grep 僅再現自身書目條目（whoswho1638、musician399）與 works index，無新增社群敘事可吸收——判定為已飽和。
 
 ## Sources
 - [TAH #1638 encyclopedia: 1638. Feng-Jen Lu 路鳳真 / 2017/05](https://taiwaneseamericanhistory.org/whoswho1638/)
