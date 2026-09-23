@@ -48,6 +48,7 @@ Corpus source: husband 陳淮崇's memoir [[works/taiwaneseamericanhistory-org/o
 - 2026-09-22 deepen-x slice 09220500-20: re-verified — corpus grep identical (ourjourneys-138, own TAH #595, works index); no new mentions, nothing further absorbable.
 - 2026-09-21 deepen-x slice 09200500-15: re-verified — corpus grep returns the same hit set already absorbed and wikilinked above (own TAH record; for 何文英 also husband 陳淮崇 memoir Our Journeys 138); no new memoir/article mentions, nothing further absorbable.
 - 2026-09-22 deepen-x slice 09210600-19: re-verified — identical hit set (ourjourneys-138, own TAH record #595, works index); nothing new absorbable.
+- 2026-09-23 deepen-x slice 09221300-31: re-verified — fresh grep identical (ourjourneys-138, own TAH #595, works index); verified-saturated, nothing new absorbable.
 
 ## Sources
 - [TAH #595 encyclopedia: 595. Fumi Chen 何文英 /2015/09](https://taiwaneseamericanhistory.org/595-fumi-chen-%e4%bd%95%e6%96%87%e8%8b%b1-201509/)

@@ -45,6 +45,7 @@ _No filled family fields on the TAH profile._
 - 2026-09-21 deepen-x slice 09200500-15: re-verified — corpus grep returns the same hit set already absorbed and wikilinked above (own TAH record; for 何文英 also husband 陳淮崇 memoir Our Journeys 138); no new memoir/article mentions, nothing further absorbable.
 - 2026-09-22 deepen-x slice 09210600-21: re-verified — fresh grep returns the identical hit set (whoswho1995, works index). Still no memoir/letter/community record naming him; nothing new absorbable.
 - 2026-09-22 deepen-x slice 09220500-17: re-verified — same hit set (whoswho1995, works index only); still no memoir/article mention; nothing new absorbable.
+- 2026-09-23 deepen-x slice 09221300-31: re-verified — fresh grep returns the identical hit set (whoswho1995, works index); verified-saturated, nothing new absorbable.
 
 ## Sources
 - [TAH #1995 encyclopedia: 1995. Prof. Wei-Kung Wang 王維恭教授](https://taiwaneseamericanhistory.org/whoswho1995/)

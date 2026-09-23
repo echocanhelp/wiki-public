@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # Shu-Ting Yao (姚舒婷博士)
 
@@ -39,7 +39,8 @@ Praised in Black Forest Messenger of Germany “Thrilled Violin Playing!” and 
 
 _No filled family fields on the TAH profile._
 
-## Corpus check (2026-09-22)
+## Corpus check (2026-09-23)
+- Idempotent re-verify (slice 09221300-31): fresh grep — corpus hits remain records #38, #442 (15075), plus index; the #212 bibliographic page still exists at its 姚淑婷 slug but its body no longer carries the name string. 舒/淑 HOLD above retained; no new absorbable facts.
 - Idempotent re-verify (slice 09220500-30): fresh grep — corpus hits remain records #38, #442 (15075), and #212, all already linked above with the 舒/淑 HOLD noted; no new absorbable facts.
 
 ## Sources
