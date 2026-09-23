@@ -6,7 +6,7 @@ tags:
   - Taiwanese-American
   - Taiwan-Center-group-member
 verification_status: published
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # Taiwanese American Citizens League - Los Angeles
 
@@ -29,6 +29,7 @@ last_reviewed: 2026-09-22
 - 社區安全服務：1991年台美公民協會成立熱線，協助警方掃除惡徒（書目記錄 [[works/taiwaneseamericanhistory-org/projects8-21|21. 台美公民協會成立熱線 協助警方掃除惡徒, 1991]]；记录未標注分會地域，保留为全国會務記錄）。台美人社區獎學金（TACS）全國由各地台美人團體輪辦，台美公民協會為主要主辦團體之一，對象為當地高三畢業生、不分宗教膚色家境（[[works/taiwaneseamericanhistory-org/ourjourneys303|Our Journeys #303]]）。
 - 全國網路：TACL亦办領導身分營（LID Camp）與政治實習計畫（PIP），见 [[works/taiwaneseamericanhistory-org/taiwanese-american-citizens-league-leadership-identity-development-tacl-lid-camp|TACL-LID Camp]] 及 [[works/taiwaneseamericanhistory-org/6-political-internship-program-pip-by-taiwanese-american-citizens-league|TACL PIP]]；會訊見 [[works/taiwaneseamericanhistory-org/tacl-tap-national-quarterly-newsletter|TACL National Quarterly Newsletter]]；洛杉磯以外分會另見 [[works/taiwaneseamericanhistory-org/tacl-houston-chapter|休士頓分會]]、[[works/taiwaneseamericanhistory-org/tacl-northern-california|北加分會]]。
 - 分會參與地方會館治理：1992年休士頓台灣人社區中心（TCC）管理委員會中，TACL由 David Tsay 代表列席（與TAA休士頓分會、台灣語學校、大達拉斯台商會等並列），显示TACL分會作為地方會館共同產權代表參與治理的模式 — [[works/taiwaneseamericanhistory-org/ourjourneys233-eng|233. 休士頓台灣人社區中心史料 (EN)]]。
+- 僑界聯合行動（re-grep 2026-09-23）：2021年南加州僑界支持台灣參與世界衛生大會（WHA）聯合聲明，洛杉磯台美公民協會為共同發起單位之一（記者會在洛杉磯華僑文教服務中心舉行，5/13；同批發起單位含台館、NATPA南加分會、TAHS、FAPA洛杉磯分會等），另柑縣（Orange County）亦列有台美公民協會分會 — [[articles/taiwanjustice-net/2021/20210616072940_2021_05_17_2021年南加州僑界支持台灣參與世界衛生大會wha聯合聲_b1d58af16c0a5e5b|TJJ, 2021-05-17]]。
 - HOLD: conflict — 周實自述為TACL「第二任會長」（全國性表述），另有記錄稱吳澧培為TACL創會第一任會長（1985）（[[works/taiwaneseamericanhistory-org/26-li-pei-wu-the-first-president-of-taiwanese-american-citizen-league-tacl-1985|26. Li-Pei Wu, first president of TACL, 1985]]）；洛杉磯分會與全國組織歷任序列關係未明，保留兩說。
 
 ## Source Notes

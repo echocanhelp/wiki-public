@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # Taiwanese Student Association at Georgia Tech
 
@@ -29,6 +29,8 @@ HOLD: the corpus records place events at Georgia Tech but does not name the orga
 Re-grep 2026-09-21 (slice 09201500-12): corpus hits unchanged (the two Georgia Tech event records above, plus an unrelated gallery-venue list in [[works/taiwaneseamericanhistory-org/ourjourneys256|236-series artist bio ourjourneys256]] where Georgia Tech appears only as an exhibition venue). Nothing absorbable beyond what is already recorded — SKIP-for-deepening, page is corpus-saturated.
 
 Re-grep 2026-09-22 (slice 09211400-18): corpus hits unchanged — Georgia Tech appears only in the two recorded event works plus the ourjourneys256 gallery-venue list; remaining "Taiwanese Student Association" matches are unrelated other-campus chapters (USCTSA, OSU, UW, TSAPA). Page remains corpus-saturated.
+
+Re-grep 2026-09-23 (slice 09220900-14): corpus hits again unchanged (the two GT event works + ourjourneys256 venue list + harvest index). Nothing new absorbable — SKIP-for-deepening, saturated.
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-student-association-at-georgia-tech/)

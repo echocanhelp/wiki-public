@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # John Chin-Jung Cheng (鄭錦榮牧師)
 
@@ -43,6 +43,7 @@ last_reviewed: 2026-09-22
 - TAH holds his Who's Who profile [[works/taiwaneseamericanhistory-org/whos877-john-chin-jung-cheng|877. John Chin-Jung Cheng 鄭錦榮 / 2016/03]] and, after his 2013 passing, a memorial photo album [[works/taiwaneseamericanhistory-org/photo-albums-activities-114|114. In Memory of the Rev. John Chin-Jung Cheng 鄭錦榮牧師生命的禮讚]].
 - His medicine-and-ministry career bridged the PCT church and Taipei's classical-music circle; he also directed sacred-music training that drew non-clergy musicians into the church orbit. The same memoir records the long reach of that 1960 performance: a chorus member who later became an obstetrician-gynecologist met his future wife (a National Arts University piano student, 信惠) through the 「創造」 performances, and the couple opened their 古典音樂欣賞課 at the 大洛杉磯台灣會館 with the 「創造」 recording — the conductor's ministry radiating into the LA Taiwanese community decades on. Re-grepped 2026-09-21 (slice 09201500-20): corpus hits are the two TAH works and this memoir only, all absorbed; verified saturated.
 - 複核（deepen-x 2026-09-22, slice 09211400-18）：re-grep（鄭錦榮 / John Chin-Jung Cheng, works+articles）hit set 不變 — #whos877、追念相簿 #114、Haydn〈創造〉回忆錄三項，均已吸收於 Role in the Community。維持 verified saturated。
+- 複核（deepen-x 2026-09-23, slice 09220900-14）：re-grep hit set 依然不變，全部已吸收 — 飽和，無新增社群材料。
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/john-chin-jung-cheng/)
