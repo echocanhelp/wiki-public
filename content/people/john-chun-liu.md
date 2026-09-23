@@ -49,6 +49,8 @@ Accomplishment
 - Corpus re-grep 2026-09-20: two new raw hits are name collisions, not this person — [[works/taiwaneseamericanhistory-org/whoswho1458|1458. John Liu 劉宗憲]] is a different John Liu, and the "John, Jerry Liu" attendees in [[works/taiwaneseamericanhistory-org/ourjourneys265|265. 2011年美西夏令會的回顧]] are unlinked first names. No absorbable facts.
 - Corpus re-grep 2026-09-21: hit set unchanged (ota-148、whos-who-50、ourjourneys5-9-11-donations-2002、john-c-liu、works index、2020-08 taiwanjustice.net 夏令會報導) — verified saturated, no new community facts.
 - Corpus re-grep 2026-09-22: broad-name regex surfaced two additional files, both surname collisions, not this person — [[works/taiwaneseamericanhistory-org/ourjourneys311-eng|311 (NYTC Cultural Society memoir)]] mentions only 「Yung-pin Liu」/「Ting-hsiu Liu」, and [[works/taiwaneseamericanhistory-org/ourjourneys53-eng|53]] carries no Liu match at all. Exact 劉醇逸/John Liu hit set unchanged; verified saturated.
+- 2009-12-12 — TAHS 語料庫存有其主計長任期交界處的社群活動書目紀錄〈Dinner with John Liu, NYC Comptroller〉（[[works/taiwaneseamerican-org/dinner-with-john-liu-nyc-comptroller|TAHS dinner record, 2009-12-12]]，B 級書目紀錄，全文在 vault）；標題指明 NYC Comptroller，與本人 2010-01 就任前的當選主計長身份吻合。HOLD: 該紀錄的 subject 圖譜連結誤指向 [[people/john-liu|John Liu 劉宗憲]]（不同人），連結歸屬待人工覆核（deepen-x slice 09221000-1）。
+- Corpus re-grep 2026-09-23 (slice 09221000-1)：命中集與前次相同，另新見上述 dinner-with-john-liu 紀錄（已收入）；whoswho1458（劉宗憲）與 index/MANIFEST 非本人語料。
 
 ## Sources
 - [TAH #148 encyclopedia: 148. Chun John Liu 劉醇逸](https://taiwaneseamericanhistory.org/ota-148/)

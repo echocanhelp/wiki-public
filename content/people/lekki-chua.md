@@ -62,3 +62,4 @@ Accomplishment
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 複核（deepen-x slice 09212352-1, 2026-09-22）：corpus re-grep 命中 my-stories-691/675/706、33-lekki-now-then、publications254、whos-who-lekki-chua 等皆已連結 — SKIP-with-reason：語料已飽和。
+複核（deepen-x slice 09221000-1, 2026-09-23）：fresh ZH+EN re-grep 命中集 18 檔（my-stories-691/675/706、33-lekki-now-then、publications254/1258、whos-who-lekki-chua、ota-246、artist51、mystories9/45/310/663、collection-of-mr-lekki-chua、footsteps-15、ourfootstapes-24、ourjourneys291、index）— 全部已連結於上方 — SKIP-with-reason：語料飽和再確認，無新社群語料。

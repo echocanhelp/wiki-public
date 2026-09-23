@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # Wen-Yih Sun (商文義)
 
@@ -39,6 +39,7 @@ last_reviewed: 2026-09-22
 - **Own TAH encyclopedia entry** — 1579. Wen-Yih Sun 商文義 (2017/03): [[works/taiwaneseamericanhistory-org/1579-wen-yih-sun-e5-95-86-e6-96-87-e7-be-a9-201703|TAH #1579]].
 
 - Corpus re-grep 2026-09-22: hit set unchanged (1579, ourjourneys69, ourjourneys69-eng, ourjourneys47, works/index) — all already linked above; verified-saturated, no new absorbable facts.
+- Corpus re-grep 2026-09-23 (slice 09221000-16): hit set unchanged (1579, ourjourneys69, ourjourneys69-eng, ourjourneys47, works/index); ourjourneys47 14th-term (1994, 商文義會長) fact already absorbed above. SKIP: page saturated.
 
 ## Family
 

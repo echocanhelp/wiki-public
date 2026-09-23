@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # Chi-Lin O’Young (歐陽吉林)
 
@@ -44,6 +44,7 @@ _No filled family fields on the TAH profile._
 - Corpus re-grep 2026-09-20 (slice 09190400-8): hit set unchanged — own TAH #708 record + works index only; no new memoir material absorbable.
 - Corpus re-grep 2026-09-21 (slice 09201500-17): hit set unchanged — own TAH #708 record + works index only; no new memoir material absorbable. SKIP: page saturated.
 - Corpus re-grep 2026-09-22 (slice 09211500-16): hit set unchanged — own TAH #708 record + works index only; SKIP: page saturated.
+- Corpus re-grep 2026-09-23 (slice 09221000-16): hit set unchanged — own TAH #708 record + works index only; no new memoir material absorbable. SKIP: page saturated.
 
 ## Sources
 - [TAH #708 encyclopedia: 708. Chi-Lin O’Young 歐陽吉林	 / 2015/11](https://taiwaneseamericanhistory.org/708-chi-lin-oyoung-%e6%ad%90%e9%99%bd%e5%90%89%e6%9e%97-201511/)

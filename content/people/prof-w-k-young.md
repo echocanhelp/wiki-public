@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # Prof. W.K. Young (楊文光教授)
 
@@ -52,3 +52,4 @@ Accomplishment
 - Re-grep 2026-09-20 (slice 09190400-10): works/articles scan again returns only his own TAH #2312 bibliographic record + index — no memoir or movement-activity material; existing link stands, no conflicts.
 - Re-grep 2026-09-21 (slice 09201500-21): works/articles scan again returns only his own TAH #2312 record + index — no memoir/movement material to absorb; verified saturated, no conflicts.
 - Re-grep 2026-09-22 (slice 09211500-19): works/articles scan again returns only his own TAH #2312 record + index — no memoir/movement material; verified saturated, no conflicts.
+- Re-grep 2026-09-23 (slice 09221000-16): works/articles scan again returns only his own TAH #2312 record + index — no memoir/movement material to absorb; verified saturated, no conflicts.
