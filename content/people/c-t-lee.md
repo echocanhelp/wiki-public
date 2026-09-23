@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # C. T. Lee (李青泰)
 
@@ -35,6 +35,7 @@ last_reviewed: 2026-09-22
 
 ## Corpus check (2026-09-22)
 - Idempotent re-verify (slice 09220500-30): fresh grep — corpus hits remain ourjourneys228, ourjourneys293, Chabot Honoring Party, and Who's Who #974, all already linked above; no new absorbable facts.
+- Re-verify 2026-09-23 (slice 09221300-30): fresh grep returns the identical hit set; the 1988 年會提議、1989-12 家中籌備會、FAPA 歷任九會長、Chabot 歡聚 facts are all already absorbed above. Nothing new absorbable.
 
 ## Sources
 - Corpus encyclopedia record: [[works/taiwaneseamericanhistory-org/whoswho974|TAH #974, C. T. Lee 李青泰 / 2016/05]].
