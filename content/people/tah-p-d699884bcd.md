@@ -48,3 +48,7 @@ last_reviewed: 2026-09-23
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+## Worklog
+
+- 2026-09-23 deepen-x slice 09221300-26: re-verified saturated — fresh grep against works/ + articles/ returns the same 5 files (OJ #186 簽名名录, OJ #75, OJ #272, TAH #718, index), all already wikilinked in Role in the Community; no new absorbable facts.
