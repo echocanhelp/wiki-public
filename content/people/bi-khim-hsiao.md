@@ -44,6 +44,8 @@ _No filled family fields on the TAH profile._
 
 ## From the record
 
+- 複核（TJJ-A09221300-8, 2026-09-23）：台美貿易倡議稿 6d16f9e35d9e3188 之 subject link 經正文再驗證為真實對應（與鄧振中視訊出席 USTR 首場會談、會後受訪）；2022-06-27 條目已在庫；Subjects 連結已補全雙管線 alias 慣例格式 — SKIP，無新材料。
+
 - 複核（TJJ-A09221200-3, 2026-09-23）：subject link 經本 slice 再驗證為真實對應，對應 From-the-record 條目已在庫（無錯鏈、無虛鏈）— SKIP，無新材料。
 
 - 再核（TJJ-A09221200-15, 2026-09-23）：本 slice 文章 760a0bc942e1676b 正文再驗證——蕭美琴獲就職典禮國會聯合委員會（JCCIC）直接邀請出席第59屆就職儀式，為駐美代表首見，連結為真；2021-01-20 條目已在庫，無新材料。

@@ -36,6 +36,8 @@ Founding member and board member of the American Premium Tea Institute (now merg
 
 ## From the record
 
+- 複核（TJJ-A09221300-8, 2026-09-23）：228介心靈日防疫稿 2589c86787ef4241 之 subject link 經正文再驗證為真實對應（主辦人之一登台客語吟唱），2020-03-01 條目已在庫 — SKIP，無新材料。
+
 - 複核（TJJ-A09221200-11, 2026-09-23）：228介心靈日77週年紀念音樂會影音全集 ff4731d4f51b100d 之 Subjects 連結再驗證——許正龍以客語吟頌杜潘芳格詩「台灣介心靈日」及張秋台客家詩《渡台悲歌》確認見於正文，連結為真（.md 後綴已修正為慣例格式）；2024-02-28 條目已在庫，無新材料。
 
 - 複核（TJJ-A09221200-5, 2026-09-23）：本 slice 文章 [[articles/taiwanjustice-net/2025/20250614233935_2023台美小姐選拔賽_盛大舉行-宋依珊_mimiq-soong_奪后_79b5f26fdef89d22|TJJ 79b5f26f]] 正文再驗證——subject link 為真實對應，對應日期事實條目已在庫，無錯鏈、無虛鏈 — SKIP，無新材料。
