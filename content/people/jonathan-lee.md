@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # Jonathan Lee
 
@@ -49,3 +49,5 @@ last_reviewed: 2026-09-22
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+- Corpus re-check 2026-09-23 (deepen-x slice 09221300-21): fresh grep of works+articles returns the same hit set (whoswho1397, Pew statement, 228 discussion panel, 2008 election piece); all already wikilinked and absorbed above. Verified-saturated.
