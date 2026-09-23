@@ -6,7 +6,6 @@ tags:
   - tah-foundation
 verification_status: pending
 last_reviewed: 2026-09-23
-- CORPUS SCAN (2026-09-23): fresh ZH+EN grep of works/articles re-confirmed every existing link (concerts3, concerts68, LA River Clean Up, profile #20, Pew statement) — no new corpus material found; section verified-saturated.
 ---
 # Taiwan Elite Alliance TEA (優社)
 
