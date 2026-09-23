@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # Dr. Wu Hsiung Tsai (蔡武雄博士)
 
@@ -41,6 +41,8 @@ Corpus records (memoirs and movement histories in the vault) document a substant
 - **1989 Washington D.C. scholar reception:** NATPA (北美洲台灣人教授協會) and the Center for Taiwan International Relations (負責人蔡武雄) co-hosted the first Taiwan-centric reception in D.C. for Taiwan-studies scholars attending the 41st Association for Asian Studies annual meeting. See [[works/taiwaneseamericanhistory-org/ourjourneys47|47. NATPA首度回台召開年會的經緯／林靜竹]].
 
 These corpus facts are consistent with the TAH employment record (Cornell, Princeton, and Federal Government / Library of Congress service; Ph.D. Library Science, Univ. of Chicago 1970). No date or name conflicts found. (Note: 蔡文雄, a Washington D.C. lawyer among the 1971 TAA registrants in the same memoir, is a different person.)
+
+_Corpus re-scan 2026-09-23: fresh grep of works/articles for 蔡武雄/Wu Hsiung Tsai returns the same hits (ourjourneys76 & -eng, ourjourneys254, ourjourneys63, ourjourneys47, whos-who-1703); all absorbed above — verified saturated, no new community facts._
 
 ## Family
 

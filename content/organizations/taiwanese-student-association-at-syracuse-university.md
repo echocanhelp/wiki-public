@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # Taiwanese Student Association at Syracuse University
 
@@ -32,3 +32,4 @@ Taiwan Student Association at Syracuse University is a cultural organization of 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- Corpus re-grep 2026-09-23 (slice 09221100-13): SKIP-new-facts — ZH+EN (雪城/Syracuse) re-grep returns the same saturated hit set (ourjourneys76 + eng, syracuse-chapter-taa, history-of-taa-syracuse, ourjourneys185, ourjourneys310); no new absorbable material.
