@@ -42,6 +42,8 @@ Top 6 articles from taiwanjustice.net mentioning zhang-xinhui:
 
 ## From the record
 
+- 複核（TJJ-A09221500-5, 2026-09-23）：本 slice 文章 99aaa4abcb78ff6d（台美人台加人分類存檔頁, 2024-04-25 快照）正文再驗證——「四月份台灣學校音樂欣賞課於4月9日舉行 ◎葉思雅、張信惠主持」確認見於正文；本頁為 grace-h-yeh 別名頁，連結為真，日期事實載於主頁，本頁不重複。
+
 - 複核（TJJ-A09221300-7, 2026-09-23）：subject link 對照本 slice 文章 [[articles/taiwanjustice-net/2022/20220127025846_2022_01_10_圓滿的100-慶賀葉思雅_張信惠_週末漫談音樂_專_a1be6b822ac7cdcd|TJJ, 2022-01-10]] 正文再驗證——提及為真實對應（姓名與本頁相符），無錯鏈、無虛鏈；對應日期事實條目已在庫 — SKIP，無新材料。
 
 - Re-verify 2026-09-23 (TJJ-A09221200-7): 本頁為 [[people/grace-h-yeh|Grace H. Yeh 張信惠]] 別名頁；slice article ced695235dbeb850（會館標籤頁 p13, 2023-02-05 快照）中張信惠條目連結為真，日期事實載於主頁 grace-h-yeh，本頁不重複。
