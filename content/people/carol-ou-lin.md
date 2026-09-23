@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # Carol Ou Lin (歐春美)
 
@@ -33,6 +33,8 @@ Accomplishment
 - 2015 — Contributed a remembrance letter to 陳桂蘭's farewell essay marking the end of the NATWA 「點心擔」column in 公論報 ([[works/taiwaneseamericanhistory-org/ourjourneys154|完美的句點]]); active voice in the NATWA Greater San Diego chapter circle alongside 姜瑞香, 張月英, 黃雪香.
 - 2020-09 — Authored the memoir 追念鄭寶鼎博士 ([[works/taiwaneseamericanhistory-org/mystories-752|追念鄭寶鼎博士/歐春美/2020/09]]).
 - 2024–2025 — CEO of the San Diego Taiwan Center and the Taiwanese American Foundation of San Diego; her leadership journey is documented in a TAH oral-history interview ([[works/taiwaneseamericanhistory-org/video-184|CEO of SDTC/TAF – 歐春美's Journey]], 2025-08-01).
+- Her own TAH encyclopedia profile records are held in the vault in two editions: [[works/taiwaneseamericanhistory-org/whos-who-847-carol-ou-lin|847. Carol Ou Lin 歐春美 (Who's Who, 2016-02-28)]] and [[works/taiwaneseamericanhistory-org/ota-129|129. Carol Ou Lin 歐春美 (OTA record, 2018-10-05)]]. Note: both records also cross-mention [[people/prof-carol-ou|Prof. Carol Ou]] — a distinct person; no merge.
+- Corpus re-grep 2026-09-23 (slice 09220900-22): hit set (ourjourneys154/162, video-184, mystories-752, ota-129, whos-who-847) now fully absorbed and wikilinked; no new memoir material.
 
 ## Family
 

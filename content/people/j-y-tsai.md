@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # J. Y. Tsai (蔡金裕)
 
@@ -43,6 +43,7 @@ _No filled family fields on the TAH profile._
 
 - Re-verified 2026-09-21: corpus re-grep returns only #2061, #262, mystories552, ourjourneys295 already linked above; the 1974-08-17 founding account is unchanged. SKIP: verified-saturated (HOLD 1973 vs 1974 stands).
 - Re-verified 2026-09-22 (slice 09211400-24): hit set unchanged (same four works + works index). SKIP: verified-saturated; HOLD 1973 vs 1974 stands.
+- Re-verified 2026-09-23 (slice 09220900-21): hit set unchanged (whos-who-2061, mystories552, ourjourneys295, ff262). SKIP: verified-saturated; HOLD 1973 vs 1974 stands.
 
 ## Sources
 - [TAH #2061 encyclopedia: 2061. J. Y. Tsai 蔡金裕](https://taiwaneseamericanhistory.org/whos-who-2061-j-y-tsai/)

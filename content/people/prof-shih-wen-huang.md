@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # Prof. Shih-Wen Huang (黃碩文教授)
 
@@ -37,7 +37,7 @@ Prof. Shih-Wen Huang 黃碩文教授 – History of Taiwanese American (T.A. Arc
 - Received the Life Time Achievement Award from the College of Medicine, University of Florida, Gainesville (2018); his own memoir recalls receiving it at age 81 — [[works/taiwaneseamericanhistory-org/winners-shih-wen-huang|65. Life Time Achievement Award (2018)]] · [[works/taiwaneseamericanhistory-org/653-2|653. 八十一歲的驚喜：得了佛羅里達大學終身成就獎的回憶 (07/2018)]].
 - Double-profiled in the archives — [[works/taiwaneseamericanhistory-org/136-prof-shih-wen-huang|136. Prof. Shih-Wen Huang 黃碩文教授]] · [[works/taiwaneseamericanhistory-org/whos-who-2062-shih-wen-huang|2062. Prof. Shih-Wen Huang 黃碩文教授]].
 - HOLD: conflict birth-era 1936 (TAH profile) vs 81 years old in 2018 memoir (implies 1936/1937 depending on age reckoning) — not merged.
-- Re-verified 2026-09-21 (slice-25) and 2026-09-22 (slice-23): corpus re-grep (works/articles) returns only the records already linked/absorbed above plus index listings — the ourjourneys-138 Baltimore/DC roster passage re-read verbatim confirms Huang's listing unchanged — no new mention; SKIP-with-reason (saturated).
+- Re-verified 2026-09-21 (slice-25) and 2026-09-22 (slice-23): corpus re-grep (works/articles) returns only the records already linked/absorbed above plus index listings — the ourjourneys-138 Baltimore/DC roster passage re-read verbatim confirms Huang's listing unchanged — no new mention; SKIP-with-reason (saturated). Re-verified 2026-09-23 (slice 09220900-21): hit set unchanged (ourjourneys-138, winners, whos-who-2062, 136, 653-2) — SKIP (saturated; HOLD 1936 vs age-81 stands).
 
 ## Family
 
