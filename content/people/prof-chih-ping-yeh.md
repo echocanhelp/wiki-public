@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # Prof. Chih-Ping Yeh (葉治平教授)
 
@@ -36,7 +36,7 @@ last_reviewed: 2026-09-22
 - President of the North America Taiwanese Professor Association (北美洲台灣人教授協會) 2002-2003; president of TAA/Detroit ([[organizations/north-america-taiwanese-professors-sc|NATPA]] · [[organizations/taiwanese-association-of-america-detroit-tagd|TAA Detroit]]).
 - Community memoirist in the TAH record: authored 「和郭倍宏『不期而遇』」(10/2016) on an encounter with 郭倍宏 ([[works/taiwaneseamericanhistory-org/mystories474|474. 和郭倍宏「不期而遇」]]) and the obituary essay 「洪哲勝(楚也)在今天過世 – 一位真正的職業革命家」(12/2020) on 洪哲勝 ([[works/taiwaneseamericanhistory-org/my-stories-775|775. 洪哲勝過世]]).
 - TAH encyclopedia entries: [[works/taiwaneseamericanhistory-org/172-prof-chih-ping-yeh|172. Prof. Chih-Ping Yeh 葉治平教授]] (published 2018-10-29) · [[works/taiwaneseamericanhistory-org/whos-who-789-chih-ping-yeh|789. Prof. Chih-Ping Yeh 葉治平教授]] (published 2016-01-31).
-- Corpus grep (re-run 2026-09-20, 2026-09-21 DEEPEN-X slice 09210051-4, 2026-09-22 DEEPEN-X slice 09212352-24): all `content/works` / `content/articles` mentions are the four records already linked above (mystories474, my-stories-775, and the two encyclopedia entries) plus index listings — no additional memoir coverage found.
+- Corpus grep (re-run 2026-09-20 → 2026-09-23, incl. DEEPEN-X slices 09210051-4, 09212352-24, 09221300-11): all `content/works` / `content/articles` mentions are the four records already linked above (mystories474, my-stories-775, and the two encyclopedia entries) plus index listings — no additional memoir coverage found.
 
 ## Family
 
