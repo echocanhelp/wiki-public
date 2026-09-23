@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # S. T. Liu (劉曉亭)
 
@@ -45,6 +45,8 @@ last_reviewed: 2026-09-22
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/s-t-liu/)
 
 ## From the record
+
+- 複核（TJJ-A09221400-3, 2026-09-23）：本 slice 文章 08cd200c（第14回世界台灣文化論壇）之 subject link 經正文再驗證為真實對應（主講者「外省人講台語」），2022-01-01 條目已在庫（無錯鏈、無虛鏈）— SKIP，無新材料。
 
 - 2022-01-01 — 於第14回世界台灣文化論壇線頂聚會「布袋戲kap歌仔戲文學ê人生智慧」擔任主講者，主題演講「外省人講台語：布袋戲ê文學智慧」，並以劉三本尊現身見證；時任 San Diego 台灣教會主任牧師、好消息電視台「劉三講古」主講（[[articles/taiwanjustice-net/2022/20220521165415_2021_12_31_第14回世界台灣文化論壇_布袋戲kap歌仔戲文學e人生_08cd200c3a58e6b7|TJJ, 2021-12-31]]；[[articles/taiwanjustice-net/2025/20250512055435_第14回世界台灣文化論壇_布袋戲kap歌仔戲文學e人生_fc48810253f4912f|2025-05-12 快照]]）。
 

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # Jannet Jah (李俊玲)
 
@@ -36,6 +36,8 @@ Jennet Jah is the daughter of the noted composter, Professor Kenneth Lee. She gr
 
 
 ## From the record
+
+- 複核（TJJ-A09221400-3, 2026-09-23）：本 slice 兩篇「致死的震怒近了」存檔稿（b7ec76fa／2b3d5a36）之 subject link 經正文再驗證為真實對應（女高音獨唱飾 Abigaille），對應條目已在庫 — SKIP，無新材料。
 
 - 複核（TJJ-A09220500-4／-6, 2026-09-22）：「學生王子」稿及「拯救我」Libera me 稿（2025 存檔重刊）之 subject link（聲樂指導／女高音獨唱）經原文正文再驗證為真實對應，引用条目已在库（无错链、无虚链）— SKIP，无新材料。
 - 2024-10-12 — 洛杉磯以立合唱團演出輕歌劇「學生王子」（同日並演「森林王子」選曲），李俊玲任聲樂指導（非登台身份）（[[articles/taiwanjustice-net/2025/20250318101332_洛杉磯_以立合唱團_演出的輕歌劇_學生王子_2b2e0ebccd1c5edd|TJJ, 2025-01-27]]；「森林王子」選曲同場報導 [[articles/taiwanjustice-net/2025/20250318104403_洛杉磯_以立合唱團_演出的輕歌劇_森林王子_928db8aa40e881b2|TJJ, 2025-01-21]]）。
