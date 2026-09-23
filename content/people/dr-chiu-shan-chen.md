@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # Dr. Chiu-Shan Chen (陳秋山博士)
 
@@ -57,3 +57,4 @@ Accomplishment
 複核（deepen-x 2026-09-20）：corpus re-grep（works+articles）2026-09-20 命中集合與前次相同（ourjourneys26/337、our-journeys-386、my-stories-793、兩份 who's-who），全數已吸收並 wikilink，無新增社群材料。
 複核（deepen-x 2026-09-21）：re-grep 新增命中 ourjourneys26-eng（英文版會館紀事）與 our-journeys-385（UCSD 台灣研究中心 2023-05-06 揭幕，配偶 Rufina Chen 同席）— 已吸收並 wikilink。
 - 複核（deepen-x 2026-09-22）：corpus re-grep（works+articles）命中集合與前次相同，全數已吸收並 wikilink，無新增社群材料；頁面維持飽和狀態。
+- 複核（deepen-x-slice-09230317-5, 2026-09-23）：re-grep（陳秋山／Chiu-Shan Chen，works+articles）命中集合不變（ourjourneys26/26-eng/337、our-journeys-385/386、my-stories-793、152 與 whos-who-290 本人記錄），全數已吸收並 wikilink；無新材料。SKIP-with-reason（飽和）。
