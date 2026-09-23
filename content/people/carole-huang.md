@@ -33,7 +33,7 @@ _No filled family fields on the TAH profile._
 
 Name-variant: corpus uses both "Carole Huang" and "Carol Huang" for her. HOLD: [[works/taiwaneseamericanhistory-org/ourjourneys263|ourjourneys263]] memorialises a different "Carol Huang" (黃欣怡), a Taiwan Language School student killed in a 1988 car accident (Carol Huang Scholarship) — likely a distinct person; not merged.
 
-2026-09-20 / 2026-09-21 re-check: corpus re-grep (陳春華 / Carole Huang / Carol Huang) returned only the four records already cited above — no new absorbable facts.
+2026-09-23 re-check (slice 09221300-28): corpus re-grep (陳春華 / Carole Huang) returned only the four records already cited above — no new absorbable facts.
 
 ## Sources
 - [TAH #306 encyclopedia: 306. Carol Huang 陳春華 / 第一位台美人擔任全美亞太裔顧問會主席 / 1992-94](https://taiwaneseamericanhistory.org/ff306/)
