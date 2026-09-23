@@ -186,6 +186,8 @@ Do not write her as a Taiwanese American biography. The U.S. nodes are **(1) TAH
 
 ## From the record
 
+- 複核（TJJ-A09221500-8, 2026-09-23）：subject link 對照本 slice 文章 98a26ee3b1ad82ac（台美人台加人分類頁 page 356，2024-05-27 存檔）正文再驗證——「許丕龍與許景淳父女_傳陽雜誌30週年(abt.2008)演唱會片段/2011-10-30」再確認見於正文條目清單，連結為真；2011-10-30 日期事實條目已在庫 — SKIP，無新材料。
+
 - Re-verify 2026-09-22 (TJJ-A09220700-9): subject-link check against slice article 00354cf6ba9cf607（台美人台加人分類頁 page 358）—「許丕龍與許景淳父女_傳陽雜誌30週年(abt.2008)演唱會片段/2011-10-30」確認見於正文條目清單，連結為真（該文 Subjects 的 .md 後綴連結已修正為慣例格式）；無新材料。
 
 - Re-verify 2026-09-22 (TJJ-A09220600-2): link-check against slice article 98a26ee3b1ad82ac（台美人台加人分類頁 page 356）— 「許丕龍與許景淳父女_傳陽雜誌30週年(abt.2008)演唱會片段/2011-10-30」確認見於正文條目清單，連結為真；上方日期事實成立，無新材料。
