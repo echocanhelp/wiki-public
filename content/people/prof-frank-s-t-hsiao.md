@@ -57,6 +57,8 @@ Prof. Frank S. T. Hsiao 蕭聖鐵教授 – History of Taiwanese American (T.A. 
 
 ## From the record
 
+- 複核（TJJ-A09221400-1, 2026-09-23）：本 slice 文章 f51d2ebb674cbdd3（English Pages 分類存檔頁13, 2024-05-21 快照）正文再驗證——「How Bad Is Taiwan's Economy? ◎Frank S.T. Hsiao(蕭聖鐵教授)/Diplomat 07-22-2016」確認見於正文，subject 連結為真，無錯鏈、無虛鏈；2016-07-22 條目已在庫，無新材料。
+
 - 2016-07-22 — 其投刊 The Diplomat 的〈How Bad Is Taiwan's Economy?〉（署名 Frank S.T. Hsiao 蕭聖鐵教授）為台灣公義報「English Pages」分類收錄（2024-05-21 快照）—— [[articles/taiwanjustice-net/2024/20240522044125_root_f51d2ebb674cbdd3|TJJ English Pages 存檔頁]]（連結於 2026-09-22 TJJ-A09220600-1 再驗證為真實對應）。
 
 ## Sources
