@@ -34,6 +34,8 @@ Re-grep (deepen-x 2026-09-19): new contextual hit [[works/taiwaneseamericanhisto
 
 Re-grep (deepen-x 2026-09-21): the yearbook run extends to **2025** — [[works/taiwaneseamericanhistory-org/publications-1384|南加州台南一中&台南女中校友會2025年刊]] (TAH #1384, 09/2025), making the publishing streak #1375 → #1376 → #1383 → #1384 (2022–2025). The 年刊 program predates the 2022 run: the 2016 年刊 is recorded twice in the TAH corpus — [[works/taiwaneseamericanhistory-org/publications-1336|1336. 2016 南加州南一中南女中校友會年刊]] and a duplicate bibliographic record (TAH #1261) — showing the association has published yearbooks since at least 2016. An earlier scholarship record also exists: 40. 南加州南一中校友會獎學金 ([[works/taiwaneseamericanhistory-org/12-40|TAH #40]]) alongside TAH #78. HOLD: #1261 vs #1336 are duplicate records of the same 2016 年刊; #40 vs #78 are two separate award recordings, sequence undetermined.
 
+Re-grep (deepen-x 2026-09-23): two fresh corpus facts absorbed. (1) Earliest direct organizational record: a TAH directory entry for the association itself, published 2015-07-14 ([[works/taiwaneseamericanhistory-org/southern-california-alumni-association-of-tainan-first-senior-high-sc|TAH profile record, 2015-07-14]]) — predates the 2016 年刊. (2) 僑界聯合行動: 南加州台南一中台南女中校友會 is a co-initiating group of the 2021 南加州僑界支持台灣參與WHA聯合聲明 (記者會 5/13 at 洛杉磯華僑文教服務中心; co-initiators include 台館, NATPA-SC, TAHS, FAPA-LA, 台美公民協會洛杉磯分會) — [[articles/taiwanjustice-net/2021/20210616072940_2021_05_17_2021年南加州僑界支持台灣參與世界衛生大會wha聯合聲_b1d58af16c0a5e5b|TJJ, 2021-05-17]].
+
 ## Source Notes
 
 - **Content priority A:** Name on Taiwan Center group-members page  

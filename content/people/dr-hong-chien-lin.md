@@ -44,6 +44,7 @@ last_reviewed: 2026-09-23
 - **TAF（台灣人協會）營隊家長**：1981 年 TAF 學員營隊（含《台灣之夜》表演）之參與學員父母名單中，有林洪謙醫師（同列者含卓甫良、莊明哲、張信義、楊忠正、陳植哲、陳英三、張崇和、陸清泰夫婦、許世貞、王秋齡等），顯示其在芝加哥地區早期台灣人運動社群子弟教育中的參與。見 [[works/taiwaneseamericanhistory-org/91-e7-aa-ae-e4-ba-ba-e5-81-9a-e7-9a-84-e6-97-85-e8-a1-8c-e6-9e-97-e6-b4-aa-e8-ac|TAH #91 窮人做的旅行]]。
 - TAH 百科個人條目：[[works/taiwaneseamericanhistory-org/163-dr-hong-chien-lin-e6-9e-97-e6-b4-aa-e8-ac-99|TAH #163 Dr. Hong-Chien Lin 林洪謙]]。
 - Re-verified 2026-09-22 (slice 09211400-24): corpus re-grep 林洪謙 / Hong-Chien Lin returns only works already linked above (TAH #163、#108、#91、#325、Our Journeys 74 NATMA 成立記錄 — 含英文版 [[works/taiwaneseamericanhistory-org/ourjourneys74-eng|Our Journeys 74 ENG]]，同記錄、不另吸收). No new material. SKIP-for-deepening.
+- Re-verified 2026-09-23 (slice 09220900-15): fresh re-grep 林洪謙 / Hong-Chien Lin returns the identical set already linked above (TAH #163、#108、#91、#325、Our Journeys 74 + ENG). No new material; SKIP-for-deepening, existing corpus links stand.
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-hong-chien-lin/)
