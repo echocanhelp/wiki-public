@@ -46,6 +46,8 @@ _No filled family fields on the TAH profile._
 
 ## From the record
 
+- 複核（TJJ-A09221300-7, 2026-09-23）：subject link 對照本 slice 文章 [[articles/taiwanjustice-net/2022/20220127025846_2022_01_10_圓滿的100-慶賀葉思雅_張信惠_週末漫談音樂_專_a1be6b822ac7cdcd|TJJ, 2022-01-10]] 正文再驗證——提及為真實對應（姓名與本頁相符），無錯鏈、無虛鏈；對應日期事實條目已在庫 — SKIP，無新材料。
+
 - 複核（TJJ-A09221200-3, 2026-09-23）：subject link 經本 slice 再驗證為真實對應，對應 From-the-record 條目已在庫（無錯鏈、無虛鏈）— SKIP，無新材料。
 
 - Re-verify 2026-09-22 (TJJ-A09220700-8): link-check against slice article c9dd9fb782cc99b8（Covid-19 浩劫餘生錄分類頁 2021-11-28 快照）—「天已轉涼 ◎ 賴慧娜」再確認見於正文，連結為真；2021-11-28 日期事實條目已在庫，無新材料。

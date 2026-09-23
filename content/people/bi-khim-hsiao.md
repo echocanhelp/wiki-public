@@ -44,6 +44,8 @@ _No filled family fields on the TAH profile._
 
 ## From the record
 
+- 複核（TJJ-A09221300-7, 2026-09-23）：subject link 對照本 slice 文章 [[articles/taiwanjustice-net/2021/20210419115654_2021_02_25_汽車晶片短缺_美國會議員向蕭美琴求助_10e3a027ce22991c|TJJ, 2021-02-25]] 正文再驗證——提及為真實對應（姓名與本頁相符），無錯鏈、無虛鏈；對應日期事實條目已在庫 — SKIP，無新材料。
+
 - 複核（TJJ-A09221300-8, 2026-09-23）：台美貿易倡議稿 6d16f9e35d9e3188 之 subject link 經正文再驗證為真實對應（與鄧振中視訊出席 USTR 首場會談、會後受訪）；2022-06-27 條目已在庫；Subjects 連結已補全雙管線 alias 慣例格式 — SKIP，無新材料。
 
 - 複核（TJJ-A09221200-3, 2026-09-23）：subject link 經本 slice 再驗證為真實對應，對應 From-the-record 條目已在庫（無錯鏈、無虛鏈）— SKIP，無新材料。

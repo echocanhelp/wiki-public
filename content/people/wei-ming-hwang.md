@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # Wei Ming Hwang (黃維明)
 
@@ -71,6 +71,8 @@ _No filled family fields on the TAH profile._
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 ## From the record
+
+- 複核（TJJ-A09221300-7, 2026-09-23）：subject link 對照本 slice 文章 [[articles/taiwanjustice-net/2022/20220519130616_2022_01_29_台灣女聲樂家_資深古典音樂節目主持人黃瑞芬過_bfc5f319a036a339|TJJ, 2022-01-29]] 正文再驗證——提及為真實對應（姓名與本頁相符），無錯鏈、無虛鏈；對應日期事實條目已在庫 — SKIP，無新材料。
 
 - 1995-07-29 — 擔任台灣人聯合基金會（TUF）「台灣名家演奏系列」洛杉磯音樂會小提琴獨奏，與黃瑞芬同台（[[articles/taiwanjustice-net/2024/20240225012121_root_64302d51d03b3c5f|TJJ 轉載訃聞，2022-01-29]]）。
 - 1995-07-29 — 黃瑞芬訃聞附記：1995年7月29日 TUF「台灣名家演奏系列」洛杉磯音樂會小提琴為蘇顯達、黃維明（同台：鋼琴葉綠娜、中提琴吳昭麗、大提琴陳建安；節目含呂泉生〈搖嬰仔歌〉、蕭泰然〈嘸通嫌台灣〉）（[[articles/taiwanjustice-net/2022/20220519130616_2022_01_29_台灣女聲樂家_資深古典音樂節目主持人黃瑞芬過_bfc5f319a036a339|TJJ 轉載訃聞，2022-01-29]]）。

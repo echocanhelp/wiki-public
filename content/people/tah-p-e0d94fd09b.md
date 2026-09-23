@@ -38,6 +38,8 @@ _No filled family fields on the TAH profile._
 
 ## From the record
 
+- 複核（TJJ-A09221300-7, 2026-09-23）：subject link 對照本 slice 文章 [[articles/taiwanjustice-net/2023/20230204022253_2016_06_14_2016台美小姐選拔-開訓記者會大洛杉磯台灣會館06122016-_735744492226b90c|TJJ, 2016-06-14]] 正文再驗證——提及為真實對應（姓名與本頁相符），無錯鏈、無虛鏈；對應日期事實條目已在庫 — SKIP，無新材料。
+
 - 複核（TJJ-A09221300-8, 2026-09-23）：2016台美小姐開訓稿 2024 存檔副本 cc3bbdbfc662fe66 之 subject link 經正文再驗證為真實對應（開訓首日擔綱舞蹈指導），2016-06-14 條目已在庫 — SKIP，無新材料。
 
 - 複核（TJJ-A09221200-5, 2026-09-23）：本 slice 文章 [[articles/taiwanjustice-net/2025/20250614233935_2023台美小姐選拔賽_盛大舉行-宋依珊_mimiq-soong_奪后_79b5f26fdef89d22|TJJ 79b5f26f]] 正文再驗證——subject link 為真實對應，對應日期事實條目已在庫，無錯鏈、無虛鏈 — SKIP，無新材料。

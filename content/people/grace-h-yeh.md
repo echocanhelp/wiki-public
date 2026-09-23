@@ -31,6 +31,8 @@ TAH lists her as the first appointed organist of [[organizations/formosan-presby
 
 ## From the record
 
+- 複核（TJJ-A09221300-7, 2026-09-23）：subject link 對照本 slice 文章 [[articles/taiwanjustice-net/2022/20220127025846_2022_01_10_圓滿的100-慶賀葉思雅_張信惠_週末漫談音樂_專_a1be6b822ac7cdcd|TJJ, 2022-01-10]] 正文再驗證——提及為真實對應（姓名與本頁相符），無錯鏈、無虛鏈；對應日期事實條目已在庫 — SKIP，無新材料。
+
 - 2014-11 — authored two personal essays in the TAH story corpus: 《愛是最佳良藥》 ([[works/taiwaneseamericanhistory-org/146-e6-84-9b-e6-98-af-e6-9c-80-e4-bd-b3-e8-89-af-e8-97-a5-love-is-the-best-medic|146. 愛是最佳良藥 / 張信惠]]) and 《宗教信仰心路歷程》, dictated as 台美人宗教研修會筆記 ([[works/taiwaneseamericanhistory-org/144-e5-8f-b0-e7-be-8e-e4-ba-ba-e5-ae-97-e6-95-99-e7-a0-94-e7-bf-92-e6-9c-83-e7-a|144. 宗教信仰心路歷程 / 張信惠]]) — first-person testimony complementing her FPCLA organist record.
 - 2015-06 — TAH profile record filed in the story corpus — [[works/taiwaneseamericanhistory-org/448-grace-h-yeh-e5-bc-b5-e4-bf-a1-e6-83-a0201506|448. Grace H. Yeh 張信惠/2015/06]].
 - 2016-07 — mentioned alongside husband 葉思雅 in Our Journeys #231 (band A oral/community history) — [[works/taiwaneseamericanhistory-org/ourjourneys231|Our Journeys 231]].

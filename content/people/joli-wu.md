@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # Joli Wu (吳昭麗)
 
@@ -78,6 +78,8 @@ _No filled family fields on the TAH profile._
 - Vault mention found: in [[works/taiwaneseamericanhistory-org/ourjourneys301|TAH Our Journeys #301 (林衡哲, 2017/07)]] 吳昭麗 is named among the 北美文協室內樂團 players at the 1989 台灣文化之夜 (with 郭雋律、郭雋音、林俊信、劉召岑) — consistent with her California origins and pre-Juilliard training years.
 
 ## From the record
+
+- 複核（TJJ-A09221300-7, 2026-09-23）：subject link 對照本 slice 文章 [[articles/taiwanjustice-net/2022/20220519130616_2022_01_29_台灣女聲樂家_資深古典音樂節目主持人黃瑞芬過_bfc5f319a036a339|TJJ, 2022-01-29]] 正文再驗證——提及為真實對應（姓名與本頁相符），無錯鏈、無虛鏈；對應日期事實條目已在庫 — SKIP，無新材料。
 
 - 1995-07-29 — 應南加州台灣人聯合基金會（TUF）「台灣名家演奏系列」邀請，於洛杉磯聲樂家黃瑞芬演唱會中擔任中提琴（同台：鋼琴葉綠娜、小提琴蘇顯達／黃維明、大提琴陳建安；節目含呂泉生〈搖嬰仔歌〉、蕭泰然〈嘸通嫌台灣〉）（[[articles/taiwanjustice-net/2022/20220519130616_2022_01_29_台灣女聲樂家_資深古典音樂節目主持人黃瑞芬過_bfc5f319a036a339|TJJ 訃聞附1995演出紀錄, 2022-01-29]]；[[articles/taiwanjustice-net/2024/20240225012121_root_64302d51d03b3c5f|2024 存檔copy]]）。
 - 1995-07-29 — 同演出節目紀錄（「台灣民謠之夜，民謠與詩的對話」，CSULA；弦樂四重奏中提琴吳昭麗）：TJJ 節目存檔副本（[[articles/taiwanjustice-net/2024/20240520022857_root_e1412ed957f76e0d|TJJ 節目紀錄，2024-05-20 存檔]]）。

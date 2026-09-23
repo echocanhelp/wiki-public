@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # Zoe Huang (黃瑞芬)
 
@@ -71,6 +71,8 @@ _No filled family fields on the TAH profile._
 - [[articles/taiwanjustice-net/2022/20220519130616_2022_01_29_台灣女聲樂家_資深古典音樂節目主持人黃瑞芬過_bfc5f319a036a339||台灣女聲樂家、資深古典音樂節目主持人黃瑞芬過世（Taiwan Justice, 2022）]]
 
 ## From the record
+
+- 複核（TJJ-A09221300-7, 2026-09-23）：subject link 對照本 slice 文章 [[articles/taiwanjustice-net/2022/20220519130616_2022_01_29_台灣女聲樂家_資深古典音樂節目主持人黃瑞芬過_bfc5f319a036a339|TJJ, 2022-01-29]] 正文再驗證——提及為真實對應（姓名與本頁相符），無錯鏈、無虛鏈；對應日期事實條目已在庫 — SKIP，無新材料。
 
 - 2022-01-15 — 因心肌梗塞在家中過世，享年 58 歲；訃聞回顧其茱莉亞學歷、1988 比利時依莉沙白國際聲樂大賽銅牌，以及 1995-07-29 應 TUF 邀請在洛杉磯的音樂會（[[articles/taiwanjustice-net/2024/20240225012121_root_64302d51d03b3c5f|TJJ, 2022-01-29]]）。
 - 2022-01-29 — TJJ 轉載中央社訃聞：先生孫華翔證實其15日因心肌梗塞在家中過世；返台後任台北愛樂電台主持人與製作人、IC之音「ici Zoe－Zoe在這裡」主持人，在北藝大推廣部與師大法語中心開音樂美學課程，出版10多本音樂書籍；鋼琴家葉綠娜（茱莉亞同學）憶述上周才至其新家聊天（[[articles/taiwanjustice-net/2022/20220519130616_2022_01_29_台灣女聲樂家_資深古典音樂節目主持人黃瑞芬過_bfc5f319a036a339|TJJ 轉載中央社, 2022-01-29]]）。

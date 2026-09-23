@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # Dr. Ching-Jen Wang (王清貞醫師)
 
@@ -35,6 +35,9 @@ Accomplishment
 - Returned to Taiwan to serve as president (院長) of Kaohsiung Chang Gung Memorial Hospital — [[works/taiwaneseamericanhistory-org/7-e7-8e-8b-e6-b8-85-e8-b2-9e-e8-bf-94-e5-8f-b0-e6-93-94-e4-bb-bb-e9-ab-98-e9-9b-|7. 王清貞返台擔任高雄長庚醫院院長 1995]]. HOLD: conflict — this work's title says 院長 from 1995; the TAH employment table lists Dean/Board of Directors 1997–2003.
 - Received the 2016 Physician of the Year award from the Academy of Physician in Wound Healing (APWH) — [[works/taiwaneseamericanhistory-org/winners32|32. 2016 APWH Physician of the Year / Dr. Ching Jen Wang 王清貞醫師]].
 - Own TAH Who's Who entry: [[works/taiwaneseamericanhistory-org/whos-who-1666-ching-jen-wang|1666. Dr. Ching-Jen Wang 王清貞醫師]].
+
+## Corpus check (2026-09-23)
+- Re-verified 2026-09-23 (deepen-x slice 09221400-12): fresh grep of works/ + articles/ — hit set identical to what is already absorbed above (ourjourneys74 delegation roster, work #7 返台任院長, winners32 APWH award, TAH #1666, works/index). No new absorbable facts; the 院長-1995 vs Dean/Board-1997–2003 HOLD above stands. SKIP.
 
 ## Family
 

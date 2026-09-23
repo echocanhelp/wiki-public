@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # C. M. Cecilia Huang (黃晴美)
 
@@ -43,6 +43,9 @@ last_reviewed: 2026-09-22
 - 身故後社團編有紀念文集《天涯‧人間‧晴美：黃晴美紀念文集》（廖宜恩、陳豐惠編，2018-03，Literature/文學）：[[works/taiwaneseamericanhistory-org/publications1227|TAH publications #1227 紀念文集]]。
 - 收錄於 TAH Who's Who 百科紀錄：[[works/taiwaneseamericanhistory-org/whos-who-2114-c-m-huang|TAH #2114 C. M. (Cecilia) Huang 黃晴美]]（band B，2018-05-27）。
 - Education（National Taiwan Normal Univ. B.S., English）與Era 1938–2016 均出自 TAH Who's Who 紀錄，尚待第二來源驗證。
+
+## Corpus check (2026-09-23)
+- Re-verified 2026-09-23 (deepen-x slice 09221400-12): fresh grep of works/ + articles/ — hit set identical to what is already absorbed above (紀念文集 publications #1227, 張文隆追悼文 mystories #624, TAH #2114, works/index, TJJ 台美人台加人存檔). No new absorbable facts. SKIP.
 
 ## Sources
 - [TAH #2114 encyclopedia: 2114.  C. M. (Cecilia) Huang 黃晴美](https://taiwaneseamericanhistory.org/whos-who-2114-c-m-huang/)

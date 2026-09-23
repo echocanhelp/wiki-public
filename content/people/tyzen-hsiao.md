@@ -150,6 +150,8 @@ TAH employment (unparsed string): Tainan Univ. of Technology assoc. prof.; Wenza
 
 ## From the record
 
+- 複核（TJJ-A09221300-7, 2026-09-23）：subject link 對照本 slice 文章 [[articles/taiwanjustice-net/2022/20220519130616_2022_01_29_台灣女聲樂家_資深古典音樂節目主持人黃瑞芬過_bfc5f319a036a339|TJJ, 2022-01-29]] 正文再驗證——提及為真實對應（姓名與本頁相符），無錯鏈、無虛鏈；對應日期事實條目已在庫 — SKIP，無新材料。
+
 - 2015-03-14 — 南加州蕭泰然教授追思會「許丕龍憶故人」影音報導（半音合唱團唱念大師，蘇希宗建築師攝）列於台美人新聞相關影音欄（[[articles/taiwanjustice-net/2017/20171107225317_2017_11_05_2001年7月2日半音合唱團受邀演唱於國家音樂廳實況錄_de11e29571f3dc86|TJJ 相關影音欄, 2017-11-05 快照]]）。
 - 2020-11-25 — FAHR（全美台灣人權協會）公告第44屆年會暨「鄭南榕紀念獎」頒獎典禮移師台北（12/5，台北市立圖書館總館）：會中有台派台灣芭蕾舞團配合蕭泰然樂曲的表演（[[articles/taiwanjustice-net/2021/20210118235211_2020_11_25_全美台灣人權協會第44屆年會暨_鄭南榕紀念獎_頒_996879ac7a006acf|TJJ, 2020-11-25]]）。
 - 2025-02-22 — At the 228追思紀念大會 hosted by the Greater Los Angeles Taiwan Center (co-hosted by 24 TA groups), the Taiwan Center choir sang 《台灣》 and 《台灣百合》, and 許正龍 led the assembly in a Hakka/Hokkien bilingual sing-along of his 《台灣翠青》 (lyrics by 鄭兒玉), "singing out the spirit and vision of the Taiwanese people" ([[articles/taiwanjustice-net/2025/20250320212940_大洛杉磯台灣會館等24個台美社團舉舉行228追思紀念_c62f5c50846fe267|TJJ report, 2025-02-24]]).
