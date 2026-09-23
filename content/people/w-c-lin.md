@@ -40,7 +40,7 @@ last_reviewed: 2026-09-23
 - His own encyclopedia entry is held as [[works/taiwaneseamericanhistory-org/898-w-c-lin-e6-9e-97-e6-96-87-e9-87-97-201603|898. W.C. Lin 林文釗 / 2016/03]] (published 2016-03-20).
 
 ### Timeline
-- 1979 — founded EGW Publishing Company per 石清正's memoir (HOLD vs 1982 in TAH profile).
+- 1979/1980 — founded EGW Publishing Company per 石清正's memoir (1979 in the Chinese section, 1980 in the EN section; HOLD vs 1982 in TAH profile).
 - 2016-03-20 — recorded in the TAH Foundation encyclopedia (#898).
 
 ## Family

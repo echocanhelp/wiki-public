@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # Karen Chiang
 
@@ -44,4 +44,5 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+<!-- deepen-x 09221500-30: SKIP — corpus re-scan (works/articles) fresh 2026-09-23: hits are only own TAH records, works/index.md, or pages already wikilinked in Role in the Community; no new community material. -->
 <!-- deepen-x 09220700-23: SKIP — corpus re-scan (works/articles) fresh 2026-09-22: hits are only own TAH records, works/index.md, or pages already wikilinked in Role in the Community; no new community material. -->

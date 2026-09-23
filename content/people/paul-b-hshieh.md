@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # Paul B. Hshieh 六 (謝博六博士)
 
@@ -37,6 +37,7 @@ last_reviewed: 2026-09-22
 - A 2018 community profile feature about him — 659. 圓轉如意，穩紮故土—謝博六博士 (李宜軒、蔡佑晨, 11/2018) — is recorded at [[works/taiwaneseamericanhistory-org/50948|659. 圓轉如意，穩紮故土—謝博六博士]].
 
 - Re-verified 2026-09-21, 2026-09-22 (slice 09220700-24): fresh corpus grep returns only the three works already cited above (ourjourneys-138 roster, whoswho1237, 50948). The 1995 roster line in ourjourneys-138 lists 謝博六 directly under President Ming H. Chow 周明宏, 1996 under 林英侯/陳桂鈐 — roster column title still not reproduced in our copy, HOLD retained. No new third-party memoir material this pass.
+- Re-verified 2026-09-23 (slice 09221500-29): fresh grep returns the same three works. Roster block read directly this pass: the 1995 entry lists Ming H. Chow 周明宏 then Paul B. Hshieh 謝博六, with 1996 following — column title still absent from our copy of the roster, so his exact office beyond the president line remains HOLD. No new material.
 
 ## Family
 
