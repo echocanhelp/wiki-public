@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # Greater Washington Taiwan Culture Center (華府台灣文化中心)
 
@@ -37,3 +37,5 @@ HOLD: "台灣之夜" is an ambiguous event name in the corpus — the center's R
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 複核（deepen-x 2026-09-22）：corpus re-grep（華府台灣文化中心 / Taiwan Culture Center, works+articles）命中集合不變（concerts5、364/363 历年programme、publications1222、ourjourneys303、video-188）— 飽和，無新增社群材料。
+
+複核（deepen-x 2026-09-23）：corpus re-grep（華府台灣文化中心 / Taiwan Culture Center, works+articles）命中集合不變（concerts5、364/363/362 历年programme、publications1222、ourjourneys303、video-188）— 飽和，無新增社群材料。

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # Rev. Ai Chih Tsai (蔡愛智牧師)
 
@@ -55,3 +55,5 @@ last_reviewed: 2026-09-22
 複核（deepen-x 2026-09-21）：corpus re-grep（works+articles）命中 our-journeys-350、whos-who-1652、ourjourneys266、index，全數已吸收並 wikilink（張瑞雄教會回憶錄、黃武東《台灣人在北美洲》筆友證詞脈絡），無新增社群材料。
 
 複核（deepen-x 2026-09-22）：corpus re-grep（蔡愛智／Ai Chih Tsai，works+articles）命中集不變（our-journeys-350、whos-who-1652、ourjourneys266、index），全數已吸收並 wikilink；無新增社群材料。
+
+複核（deepen-x 2026-09-23）：corpus re-grep（蔡愛智／Ai Chih Tsai，works+articles）命中集不變（our-journeys-350、whos-who-1652、ourjourneys266、index），全數已吸收並 wikilink；無新增社群材料。
