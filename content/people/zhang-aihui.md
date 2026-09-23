@@ -8,7 +8,7 @@ tags:
   - NTPW
   - Taiwanese-American
 verification_status: published
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # Zhang Ai-Hui (張愛惠)
 
@@ -26,7 +26,7 @@ last_reviewed: 2026-09-22
 
 Her 2025/26 treasurer and NTPW chair roles are mirrored in the council's own roster on [[organizations/national-taiwanese-presbyterian-council|NTPC]], which lists her alongside 主席 [[people/yunching-yeh-davis||葉芸青]] and 副主席 [[people/chen-hui-chen||陳慧貞]] — as 會計 she is the single financial contact point (dues, conference fees) for the council's member churches.
 
-Note: the memoir [[works/taiwaneseamericanhistory-org/ourjourneys268|美東夏令會 40 年回憶]] names a 梁愛惠 (different surname) in its 1970 Philadelphia circle — a different person, not this page's subject. Re-verified 2026-09-21 and again 2026-09-22 (DEEPEN-X slices 09210051-8, 09220500-6): a fresh grep of works/ and articles/ still returns no mention of 張愛惠/Esther Pan beyond the NTPC roster facts above (apparent taiwanjustice-net hits are slug-substring matches on 智慧, not this person) — no community-record material to absorb (SKIP-with-reason for further deepening).
+Note: the memoir [[works/taiwaneseamericanhistory-org/ourjourneys268|美東夏令會 40 年回憶]] names a 梁愛惠 (different surname) in its 1970 Philadelphia circle — a different person, not this page's subject. Re-verified 2026-09-21, 2026-09-22, and again 2026-09-23 (DEEPEN-X slices 09210051-8, 09220500-6, 09221400-9): a fresh grep of works/ and articles/ still returns no mention of 張愛惠/Esther Pan beyond the NTPC roster facts above (apparent taiwanjustice-net hits are slug-substring matches on 智慧, not this person) — no community-record material to absorb (SKIP-with-reason for further deepening).
 
 ## Role in NTPC
 

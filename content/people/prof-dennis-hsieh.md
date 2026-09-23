@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # Prof. Dennis Hsieh (謝顯堂教授)
 
@@ -40,6 +40,8 @@ _No filled family fields on the TAH profile._
 - His career record is preserved as encyclopedia entry #2094 in the TAH Who's Who collection (2018/04). ([[works/taiwaneseamericanhistory-org/whos-who-2094-dennis-hsieh|2094. Prof. Dennis Hsieh 謝顯堂教授]])
 
 ## Worklog
+
+- 2026-09-23 deepen-x slice 09221400-9: re-verified — fresh grep for Dennis Hsieh/謝顯堂 over works+articles returns only own TAH record #2094 and the already-cited 2018 TJJ 南加州台大校友會 roster (謝顯堂(農化) line); no memoir mentions, nothing further absorbable.
 
 - 2026-09-22 deepen-x slice 09210600-20: re-verified — fresh grep for Dennis Hsieh/謝顯堂 over works+articles returns only own TAH record #2094 (already wikilinked above) plus the works index; the 2018 TJJ alumni-roster corroboration is already cited. No memoir mentions; nothing further absorbable.
 
