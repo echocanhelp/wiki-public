@@ -30,6 +30,8 @@ last_reviewed: 2026-09-23
 
 ## From the record
 
+- 再核（TJJ-A09221500-9, 2026-09-23）：本 slice 文章 b63290424caedcf7（LA Times 轉載：蔡英文獲民進黨總統提名）正文再驗證——扁任內主張台獨、老党员仍持相同立場之論述確認，subject 連結為真，無錯鏈、無虛鏈；2015-04-16 條目已在庫，無新材料。
+
 - 複核（TJJ-A09221500-5, 2026-09-23）：本 slice 文章 86312fe2a2feb73e（English Pages 分類存檔頁3, 2024-05-30 快照）正文再驗證——扁案英語報導多篇（含「A Plea from a doctor for President Chen」及「Chen Shui-bian's return to prison」）確認見於正文，subject 連結為真，無錯鏈、無虛鏈；2013-03-07 條目已在庫 — SKIP，無新材料。
 
 - 再核（TJJ-A09221500-12, 2026-09-23）：本 slice 文章 c595d332038f73bb「Taiwan」標籤頁正文再驗證——「Chen Shui-bian suicide attempt confirmed by medical team」（2013-04-24）條目確認見於清單，連結為真；2013-04-24 日期事實已在庫，無錯鏈、無虛鏈、無新材料。

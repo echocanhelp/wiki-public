@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # Paul Huang (黃俊文)
 
@@ -45,6 +45,7 @@ _No filled family fields on the TAH profile._
 - HOLD: a TJJ 蔬果園藝交流在美洲 tag page names a SoCal gardening lecturer 「黃啟源(Paul Huang)」（講植物的氣候與土壤對應, 2016-06-26 台灣會館園藝講座）— a different Paul Huang; link removed from that article's Subjects ([[articles/taiwanjustice-net/2024/20240522234319_root_2e141df6a5071110|TJJ tag 存檔, 2024-05-22 快照]]).
 - 複核（deepen-x slice-09211400-7, 2026-09-22）：re-grep 黃俊文／Paul Huang（works+articles）hit set identical — 僅已引之獲獎記錄與 Our Journeys 19（ECAD 同名者, HOLD 見上）。SKIP, verified-saturated.
 - 複核（deepen-x slice-09220800-13, 2026-09-22）：re-grep 黃俊文／Paul Huang（works+articles）hit set identical — 僅已引之獲獎記錄（38/39/37、308、681）與 Our Journeys 19。SKIP, verified-saturated.
+- 複核（deepen-x slice-09230317-12, 2026-09-23）：re-grep 黃俊文／Paul Huang（content/works+content/articles）hit set identical — 僅已引之獲獎記錄與 Our Journeys 19（ECAD 同名者 HOLD）。SKIP, verified-saturated.
 
 ## Sources
 - [TAH #308 encyclopedia: 308. Paul Huang 黃俊文, Violinist / 2015/10](https://taiwaneseamericanhistory.org/paul-huang-violinist/)

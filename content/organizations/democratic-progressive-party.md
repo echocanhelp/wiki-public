@@ -101,6 +101,8 @@ In 2006, the party ended official recognition of factions, though they remain re
 
 ## From the record
 
+- 再核（TJJ-A09221500-9, 2026-09-23）：本 slice 文章 b63290424caedcf7（LA Times 轉載）正文再驗證——民進黨2000–2008執政期主張台獨、黨聲明維持現狀等論述確認，subject 連結為真，無錯鏈、無虛鏈；2015-04-16 條目已在庫，無新材料。
+
 - 再核（TJJ-A09221200-13, 2026-09-23）：本 slice 文章 042939d886040651 全文再驗證——FAPA 總會長高龍榮評 AIT 主管 Schrage 要求 DPP 給「specific outcome」雙標不公之論述確認，連結為真；2015-03-27 條目已在庫，無新材料。
 
 - 再核（TJJ-A09220700-10, 2026-09-22）：本 slice 文章 b63290424caedcf7（LA Times）正文再驗證——民進黨2000–2008執政期主張台獨、去年十一月九丟九贏七、黨聲明維持現狀等論述確認，連結為真；2015-04-16 條目已在庫，無新材料。

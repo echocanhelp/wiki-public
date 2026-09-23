@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # Jien-Hua Charles Chuang (莊峻華)
 
@@ -54,3 +54,4 @@ Jien-Hua (Charles) Chuang 莊峻華 – History of Taiwanese American (T.A. Arch
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- Corpus re-check (2026-09-23, deepen-x slice 09230317-15, vault-only): hit set identical (#106, #233/#233 EN 募款組, TAH #2257, index) — verified-saturated, SKIP, no absorbable new facts.

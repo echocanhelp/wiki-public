@@ -36,6 +36,8 @@ For more information, please click link :My Stories >>>464. 爲何我在FAPA ? /
 
 ## From the record
 
+- 再核（TJJ-A09221500-9, 2026-09-23）：本 slice 文章 23197ebf177d0b6a「楊遠薰」標籤页第2頁正文再驗證——「美國對台六項保證決議案的推手 ─昆布勞與FAPA的故事」（2016-05-21/23）收錄確認，subject 連結為真，無錯鏈、無虛鏈；2016-05-21 條目已在庫，無新材料。
+
 - 再核（TJJ-A09220700-10, 2026-09-22）：本 slice 文章 23197ebf177d0b6a「楊遠薰」標籤页第2頁正文再驗證——「美國對台六項保證決議案的推手 ─昆布勞與FAPA的故事」（2016-05-21/23）收錄確認，連結為真；2016-05-21 條目已在庫，無新材料。
 
 - 2016-04-20 — 楊遠薰 essay 「亂世奇緣」 profiles him as eldest son of KLM captain Coen Blaauw Sr. (b. 1920 Batavia): born 1958 in the Netherlands, graduated from the University of Amsterdam law faculty in 1988, has worked for FAPA in Washington DC since 1989, and married his FAPA colleague [[people/iris-ho|Iris Ho 何燕青]] in 2006 ([[articles/taiwanjustice-net/2024/20240723022135_root_d3c8399729f03df5|TJJ, 2016-04-20]]).

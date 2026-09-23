@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # Paul Lin (林水波教授)
 
@@ -55,4 +55,5 @@ last_reviewed: 2026-09-22
 - Corpus re-grep 2026-09-21 (slice 09201400-16): hit set unchanged (whoswho1085-2, ourjourneys107, ourjourneys296, TJJ 2024 archives + MANIFEST) — all records already absorbed above; saturated, no new material.
 - Corpus re-grep 2026-09-22 (slice 09211300-15): hit set unchanged (whoswho1085-2, ourjourneys107, ourjourneys296, TJJ archive pages; plus index/MANIFEST bookkeeping) — all records already absorbed above; saturated, no new material.
 - Corpus re-grep 2026-09-22 (slice 09220800-13): hit set identical (whoswho1085-2, ourjourneys107, ourjourneys296, works index, TJJ MANIFEST + archive pages) — verified-saturated, no new material.
+- Corpus re-grep 2026-09-23 (slice deepen-x-09230317-12): hit set identical (whoswho1085-2, ourjourneys107, ourjourneys296, works index, TJJ MANIFEST + archive pages) — verified-saturated, no new material.
 - HOLD: name collision — "Paul Lin 林年松" appears as a 1999-era officer of the Taiwanese Association of Greater Kansas City ([[works/taiwaneseamericanhistory-org/ourjourneys296|296. 平原區台灣人秋令會的介紹 / 童海南 /06/2017]]); 林年松 ≠ 林水波, not merged.

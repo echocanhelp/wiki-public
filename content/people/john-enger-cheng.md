@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # John Enger Cheng (鄭榮得)
 
@@ -54,3 +54,4 @@ Accomplishment
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- Corpus re-grep 2026-09-23 (slice 09230317-15): hit set unchanged (mystories231, artist36, ota-227, whos-who-1019 + works index) — SKIP: verified-saturated.

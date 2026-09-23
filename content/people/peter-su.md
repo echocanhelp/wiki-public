@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # Peter Su (蘇國雄)
 
@@ -59,3 +59,4 @@ last_reviewed: 2026-09-22
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 複核（deepen-x 2026-09-22）：corpus re-grep（蘇國雄 / Peter Su, works+articles）命中集合不變（ourjourneys244/186/186-eng/283/307、whoswho1029）— 飽和，無新增社群材料。
+複核（deepen-x 2026-09-23 slice 09230317-15）：re-grep 命中集合不變（ourjourneys244/186/186-eng/283/307、whoswho1029）— 飽和，SKIP。
