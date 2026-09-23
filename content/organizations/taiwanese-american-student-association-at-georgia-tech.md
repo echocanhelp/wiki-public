@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # Taiwanese American Student Association at Georgia Tech
 
@@ -30,6 +30,7 @@ The Georgia Tech campus appears in the Taiwanese American movement record as a v
 
 HOLD: the corpus records do not name GT TASA as organizer of these events; the link between the club and these specific events is unconfirmed and not merged.
 Fresh corpus re-grep 2026-09-22 (slice 09211507-12): case-insensitive Georgia Tech / GT TASA / gttasa matches remain exactly ourjourneys256, the ITASA East Coast Conference and Taiwanese Night Market work pages, and the works index — all already linked above; verified saturated.
+Re-grep 2026-09-23 (slice 09221000-31): hit set again identical (ourjourneys256, ITASA conference, Night Market, works index) — verified saturated; SKIP-with-nothing-absorbable.
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
