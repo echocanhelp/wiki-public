@@ -6,7 +6,7 @@ tags:
   - Taiwanese-American
   - Taiwan-Center-group-member
 verification_status: published
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # Formosa Foundation
 
@@ -29,6 +29,8 @@ last_reviewed: 2026-09-23
 - The Youth Ambassador Program fed young leaders into wider community life: 2010 Ambassador **Nikki DePaola** — raised in Manhattan, Kansas to a Taiwanese mother, a UC Berkeley Political Economies and Media Studies graduate — entered the Miss Taiwanese American pageant "to connect more with the Taiwanese community and to learn something new" ([[works/taiwaneseamerican-org/follow-nikki-on-her-quest-for-the-crown-in-the-miss-taiwanese-american-pageant|Follow Nikki on her quest for the crown in the Miss Taiwanese American Pageant]]); the ambassador program was still recruiting as late as 2015 ([[works/taiwaneseamerican-org/formosa-foundation|Apply to be a Formosa Foundation Ambassador]], 2015-03-09).
 - Closure: farewell article [[works/taiwaneseamerican-org/farewell-formosa-foundation|End of an Era: Farewell to the Formosa Foundation]] (TaiwaneseAmerican.org, listed 2017-02-24). HOLD: farewell notice 2017-02 vs later ambassador-training-camp record published 2018-03-01 — sequence unresolved, not merged.
 - HOLD: hanzi spelling conflict — 福爾摩莎基金會 (this page, per Taiwan Center listing) vs 福爾摩沙基金會 (TAHS work titles). Not auto-merged.
+
+_Corpus re-scan 2026-09-24: fresh grep of works/articles for Formosa Foundation/福爾摩莎基金會/福爾摩沙基金會 returns the same hit set (works 5, 41, 77, 2010-ambassador-program, formosa-betrayed, farewell, 2015 ambassador call); all absorbed above — verified saturated, HOLDs unchanged._
 
 ## Source Notes
 
