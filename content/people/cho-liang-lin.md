@@ -94,6 +94,7 @@ Facts already present in vault pages citing Cho-Liang Lin (no new sources):
 - 2026-09-22 — TJJ-A09220700-3 re-verify: 正文點名其與 NSO 於 Segerstrom Hall 演出（會館共同主辦），連結為真；日期事實已見上條，不重複。
 
 - 複核（TJJ-A09230400-2, 2026-09-24）：本 slice 文章 04f32b14d8cf8f12（台灣會館會訊#11(2016-12-17)）正文再驗證——正文點名其與 NSO 於 Segerstrom Hall 演出（會館共同主辦），subject 連結為真，無錯鏈、無虛鏈；對應日期事實條目（含該文 wikilink）已在庫 — SKIP，無新材料。
+
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

@@ -6,7 +6,7 @@ tags:
   - Taiwanese-American
   - Taiwan-Center-group-member
 verification_status: published
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # North America Taiwanese Women's Assoc. Southern CA Chapter NATWA-SC
 
@@ -27,6 +27,8 @@ last_reviewed: 2026-09-23
 - 2021-05 — "Teresa Huang, NATWA-SC (North American Taiwanese Women's Association – Southern California Chapter)" is listed among the signatories of the Taiwanese American community response to Pew Research Center reports subsuming Taiwanese identity under "Chinese" ([[works/taiwaneseamerican-org/pew-research-center-taiwanese-american-statement|Response to Pew Research Reports Hiding Taiwanese Identity]]).
 - HOLD: the 2017 Hurricane Harvey relief donation of $21,090 in [[works/taiwaneseamericanhistory-org/ourjourneys328|ourjourneys328]] is credited to the national NATWA, not the SC chapter.
 - _Corpus re-scan 2026-09-23: fresh grep of works/articles for NATWA returns, besides the chapter/national records already absorbed above, further sibling-chapter and national records — a NATWA-NJ concert record ([[works/taiwaneseamericanhistory-org/concerts118|118. 「與莫札特有緣」音樂會 by NATWA-NJ, 2006-02-19]]) and the St. Louis chapter record ([[works/taiwaneseamericanhistory-org/natwa-st-louis-chapter|15. St. Louis Chapter / NATWA 北美洲台灣婦女會聖路易分會]]) — none carrying SC-chapter-specific facts. Verified saturated for this chapter._
+
+- _Corpus re-scan 2026-09-24 (slice 09230500-3): fresh grep of works/articles for NATWA/台灣婦女會 returns, in addition to the records already absorbed, only national-body or sibling-chapter material with no SC-chapter-specific facts — e.g. the St. Louis HavenHouse service record ([[works/taiwaneseamericanhistory-org/natwa-serves-havenhouse|21. NATWA 聖路易分會 Serves HavenHouse, 2015-12-28]]), a national NATWA mention in the 1990 census campaign memo ([[works/taiwaneseamericanhistory-org/ourjourneys253|ourjourneys253]]), and an LA banquet bibliographic record ([[works/taiwaneseamerican-org/annual-natwa-banquet-in-la|Annual NATWA Banquet in LA, 2014-03-22]] — attribution to the SC chapter not stated in the record, so not absorbed). Verified saturated for this chapter._
 
 ## Source Notes
 

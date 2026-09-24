@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # New Orleans Taiwanese Association (紐奧良)
 
@@ -28,6 +28,8 @@ The New Orleans Taiwanese Association (紐奧良 台灣同鄉會) is a regional 
 - First-person survivor testimony of the Katrina displacement from a New Orleans-based Taiwanese graduate student: evacuating with family to Houston on the city's shutdown announcement, being helped by Taiwanese sojourners, churches, and the Taipei Economic and Cultural representative network there, and returning to teach in New Orleans a decade later — a ground-level counterpart to the chapter-level relief record ([[works/taiwaneseamericanhistory-org/ourjourneys196-katrina|196. 卡翠娜颶風十年風雨後－感恩之旅 / 曾東松 / 02/2016]]).
 - Parallel institutional record in the city: the Taiwan Chamber of Commerce of New Orleans (紐奧良台灣商會) is documented separately ([[works/taiwaneseamericanhistory-org/taiwan-chamber-of-commerce-of-new-orleans|19. Taiwan Chamber of Commerce of New Orleans 紐奧良台灣商會]], 2016-05-06, bibliographic only).
 - HOLD: the corpus does not record a founding date or officer roster for the chapter; the 2015 work page is bibliographic only (full text stays in the vault).
+
+- Corpus grep (2026-09-24, slice 09230500-7): SKIP-with-reason — hits are only the already-wikilinked dedicated work page (taiwanese-association-of-new-orleans) and the works index; no new absorbable chapter-level material.
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/new-orleans-taiwanese-association/)

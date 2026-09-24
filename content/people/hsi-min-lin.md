@@ -58,6 +58,7 @@ _No filled family fields on the TAH profile._
 - 2026-09-24 — deepen-x 09230400-20 re-verify: re-grep hit set unchanged (TJJ column + Wayback copy, TAH #1314, index). SKIP: page saturated.
 
 - 複核（TJJ-A09230400-2, 2026-09-24）：本 slice 文章 3260cd0bdf2f84d7（海台青與黑客松(2017-07-24刊)）正文再驗證——正文點名其以 FAPA 副會長身份演講，subject 連結為真，無錯鏈、無虛鏈；對應日期事實條目（含該文 wikilink）已在庫 — SKIP，無新材料。
+
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

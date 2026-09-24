@@ -6,7 +6,7 @@ tags:
   - taiwanese-american
   - tahs-publication-2017
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # Guo Shu-qing (郭淑卿)
 
@@ -49,3 +49,4 @@ Guo Shu-qing married 廖述宗 in 1960 after her mother-in-law 林瓊仙 (Lin Qi
 - [[people/liao-ji-chun||廖繼春 (Liao Jichun) — father-in-law, painter]]
 - [[people/lin-qiong-xian||林瓊仙 (Lin Qiong-xian) — mother-in-law]]
 - Corpus re-grep 2026-09-22 (slice 09212352-4): hit set fully linked, no new absorbable material.
+- Corpus re-grep 2026-09-24 (slice 09230500-15): hit set identical to previously absorbed records; no new corpus material; verified saturated.

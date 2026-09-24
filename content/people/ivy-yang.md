@@ -51,6 +51,7 @@ _No filled family fields on the TAH profile._
 - 2026-09-22 — TJJ-A09220700-3 re-verify: 正文畫家楊靜芬簡介（「花飛碟舞」、漆藝）連結為真；TAH #1716 CFP 同名衝突 HOLD 照舊，不併檔。
 
 - 複核（TJJ-A09230400-2, 2026-09-24）：本 slice 文章 cd2062fe6528223c（台灣之美‧亞洲之心巡迴展報導(2017-03-14刊)）正文再驗證——正文畫家簡介（「花飛碟舞」、漆藝）確認；TAH#1716 CFP 同名衝突 HOLD 照舊，subject 連結為真，無錯鏈、無虛鏈；對應日期事實條目（含該文 wikilink）已在庫 — SKIP，無新材料。
+
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

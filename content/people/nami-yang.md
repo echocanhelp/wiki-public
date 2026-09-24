@@ -75,6 +75,7 @@ last_reviewed: 2026-09-24
 - 2026-09-22 — TJJ-A09220700-3 re-verify: 本篇圖文作者並自述 TUF 理事、藝展組成員，連結為真；日期事實已見上條，不重複。
 
 - 複核（TJJ-A09230400-2, 2026-09-24）：本 slice 文章 cd2062fe6528223c（台灣之美‧亞洲之心巡迴展報導(2017-03-14刊)）正文再驗證——她即本篇圖文作者、TUF理事兼藝展組成員，subject 連結為真，無錯鏈、無虛鏈；對應日期事實條目（含該文 wikilink）已在庫 — SKIP，無新材料。
+
 ## Sources
 - [TAH #6 encyclopedia: 6. Nami Yang 李淑櫻](https://taiwaneseamericanhistory.org/6-nami-yang/)
 - [TAH #4 encyclopedia: 4. 李淑櫻 Nami Yang](https://taiwaneseamericanhistory.org/artist4-nami-yang/)

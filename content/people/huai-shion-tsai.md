@@ -63,6 +63,7 @@ Huai-Shion Tsai was born in Tainan, Taiwan in 1947. She graduated from the Natio
 - 2026-09-22 — TJJ-A09220700-3 re-verify: 正文點名其以新藝畫會會員受邀參展，連結為真；日期事實已見上條，不重複。
 
 - 複核（TJJ-A09230400-2, 2026-09-24）：本 slice 文章 cd2062fe6528223c（台灣之美‧亞洲之心巡迴展報導(2017-03-14刊)）正文再驗證——正文點名其以新藝畫會會員受邀參展，subject 連結為真，無錯鏈、無虛鏈；對應日期事實條目（含該文 wikilink）已在庫 — SKIP，無新材料。
+
 ## Role in the Community
 - Absorbed 2026-09-14 from the corpus: a painting collection 《蔡蕙香繪畫集》 is recorded in the TAH encyclopedia (2014/12) — [[works/taiwaneseamericanhistory-org/729-e8-94-a1-e8-95-99-e9-a6-99-e7-b9-aa-e7-95-ab-e9-9b-86-e8-94-a1-e8-95-99-e9-a|TAH #729: 蔡蕙香繪畫集]]. HOLD: conflict — the works index lists #729 as 蔡蕙香繪畫集 (2014/12) but the vault work page's own title reads 曾憲榮/2015/12; not auto-merged.
 - Disambiguation (corpus recheck 2026-09-15): [[works/taiwaneseamericanhistory-org/421-huai-en-tsai-e8-94-a1-e6-87-b7-e6-81-a9-201505|TAH #421: Huai-En Tsai 蔡懷恩 (2015/05)]] matched the corpus grep by romanisation similarity but is a **different person** (蔡懷恩 ≠ 蔡蕙香); no biography absorbed.

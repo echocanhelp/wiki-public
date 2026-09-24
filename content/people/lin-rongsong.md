@@ -352,6 +352,7 @@ Notable quotes and mentions of **林榮松** in Taiwan Justice articles:
 - 2024-10-04 — 列名會館26周年年會晚宴公告38位董事購票聯絡人（[[articles/taiwanjustice-net/2025/20250420093345_2024大洛杉磯台灣會館第26周年年會晚宴暨募款活動11月2_2f4af86847559b66|TJJ 會館公告, 2024-10-04]]）。
 
 - 複核（TJJ-A09230400-2, 2026-09-24）：本 slice 文章 04f32b14d8cf8f12（台灣會館會訊#11(2016-12-17)）正文再驗證——本篇即其董事長報告（署名 2016-12-17），subject 連結為真，無錯鏈、無虛鏈；對應日期事實條目（含該文 wikilink）已在庫 — SKIP，無新材料。
+
 ## Related Pages
 
 - [[people/albert-s-lai||Dr. Albert S. Lai]]

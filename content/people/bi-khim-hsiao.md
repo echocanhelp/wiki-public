@@ -149,6 +149,7 @@ _No filled family fields on the TAH profile._
 - 覆核（TJJ-A09171200-9, 2026-09-24）：slice 09171200-9 四篇與 TJJ-A09170400-17 同文（北市議員缺額 93c0627d、全美會228 f6213c19、長青教室tag 2777c888、會館tag p13 ced69523）正文再驗證 — 本頁條目確認見於正文，連結為真；日期事實已在庫 — SKIP，無新材料。
 
 - 複核（TJJ-A09230400-2, 2026-09-24）：本 slice 文章 9d523cc5290c997b（我的女兒美琴(2020-07-26刊)）正文再驗證——本篇書寫對象（父親筆下的女兒）即本人，subject 連結為真，無錯鏈、無虛鏈；對應日期事實條目（含該文 wikilink）已在庫 — SKIP，無新材料。
+
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

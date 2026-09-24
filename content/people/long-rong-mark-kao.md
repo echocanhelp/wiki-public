@@ -74,6 +74,7 @@ Dr. Long-Rong (Mark) Kao 高龍榮 – History of Taiwanese American (T.A. Archi
 - 2026-09-22 — TJJ-A09220700-3 re-verify: 正文點名其為海台青籌辦人兼募款、前 FAPA 總會長，連結為真；日期事實已見上條，不重複。
 
 - 複核（TJJ-A09230400-2, 2026-09-24）：本 slice 文章 3260cd0bdf2f84d7（海台青與黑客松(2017-07-24刊)）正文再驗證——正文點名其為海台青籌辦人兼募款、前 FAPA 總會長，subject 連結為真，無錯鏈、無虛鏈；對應日期事實條目（含該文 wikilink）已在庫 — SKIP，無新材料。
+
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

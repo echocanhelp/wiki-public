@@ -61,6 +61,7 @@ _No filled family fields on the TAH profile._
 - 2026-09-22 — TJJ-A09220700-3 re-verify: 正文點名其以新藝畫會會員受邀參展，連結為真；日期事實已見上條，不重複。
 
 - 複核（TJJ-A09230400-2, 2026-09-24）：本 slice 文章 cd2062fe6528223c（台灣之美‧亞洲之心巡迴展報導(2017-03-14刊)）正文再驗證——正文點名其以新藝畫會會員受邀參展，subject 連結為真，無錯鏈、無虛鏈；對應日期事實條目（含該文 wikilink）已在庫 — SKIP，無新材料。
+
 ## Connected in the Vault
 - Archival profile: [[works/taiwaneseamericanhistory-org/artist3-gary-hong|TAH #3 (artist profile)]]
 - Community hub: [[sources/taiwaneseamericanhistory-org-story-corpus|TAH story corpus hub]]

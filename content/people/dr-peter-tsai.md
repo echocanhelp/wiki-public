@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # Dr. Peter Tsai (蔡秉燚博士)
 
@@ -47,6 +47,8 @@ _No filled family fields on the TAH profile._
 - 2020-07-09 — the 1995 Knoxville profile record [[works/taiwaneseamericanhistory-org/firstfamous-390|TAH #390]] was itself deposited into the TAH corpus archive (per the works index listing dated 2020-07-09), three months after the encyclopedia/memoir deposit.
 - _Corpus re-scan 2026-09-23: fresh grep of works/articles for 蔡秉燚/Peter Tsai returns the same hits (my-stories-728, firstfamous-390, whos-who-2252, peter-tsai-n95-inventor, TJJ clippings) — all absorbed above; verified saturated._
 - 2025 — still cited in Taiwanese-community press (TJJ clippings above) as the N95's inventor and a source of mask-disinfection guidance.
+
+- _Corpus re-scan 2026-09-24 (slice 09230500-3): fresh grep of works/articles for 蔡秉燚/Peter Tsai returns the same hit set (my-stories-728, firstfamous-390, whos-who-2252, peter-tsai-n95-inventor, TJJ clippings) plus the separate person page ho-yangpeter-tsai — all absorbed above; verified saturated._
 
 ## Sources
 - [TAH #2252 encyclopedia: 2252. Dr. Peter Tsai 蔡秉燚博士](https://taiwaneseamericanhistory.org/whos-who-2252-peter-tsai/)

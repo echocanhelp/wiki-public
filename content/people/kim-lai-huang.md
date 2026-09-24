@@ -46,6 +46,8 @@ _No filled family fields on the TAH profile._
 - 複核（deepen-x slice 09221000-3, 2026-09-23）：corpus re-grep（works+articles，ZH+EN）命中 mystories372、ourjourneys-138、ourjourneys8(-eng)、ourjourneys69(-eng)、our-journeys-351、ourjourneys296、725 書目條目、TJJ 王泰和追思報導 — 與前次命中集相同，全部已吸收並連結 — SKIP-with-reason：語料已飽和；KU vs KSU HOLD 維持。
 - HOLD: conflict in university affiliation — 王泰和's memorial interview places him at the University of Kansas ([[articles/taiwanjustice-net/2025/20250811013132_化作千風_懷念台美人的人權鬥士_台獨先鋒王泰_31b7081a5d37939f|TJJ, 2022-07-12]]) vs TAH Who's Who employment record 堪薩斯州立大學; not auto-merged.
 
+- 複核（deepen-x slice 09230500-3, 2026-09-24）：corpus re-grep（works+articles，ZH+EN）命中集與前次相同 — mystories372、ourjourneys-138、ourjourneys8(-eng)、ourjourneys69(-eng)、our-journeys-351、ourjourneys296、725 書目條目、TJJ 王泰和追思報導 — 全部已吸收並連結 — SKIP-with-reason：語料已飽和；KU vs KSU HOLD 維持。
+
 ## Sources
 - [TAH #725 encyclopedia: 725. Kim Lai Huang 黃金來 / 2015/12](https://taiwaneseamericanhistory.org/725-kim-lai-huang-%e9%bb%83%e9%87%91%e4%be%86-201512/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/kim-lai-huang/)

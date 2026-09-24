@@ -28,6 +28,8 @@ The Asia Democracy Foundation is dedicated to promoting democratization in Asia,
 - Late-period activism in the archive: 洪哲勝 urging Taiwanese green elders not to attack President Tsai, Newtalk interview ([[articles/taiwanjustice-net/2022/20220228012438_2017_09_14_洪哲勝呼籲綠營大老-不要再罵蔡英文-_-新頭殼newtalk_21287a2897836afe|TJJ 2017-09-14]]). His 2020 death drew community memoirs: [[works/taiwaneseamericanhistory-org/my-stories-740|740. 職業革命家—洪哲勝 / 09/2020]] and [[works/taiwaneseamericanhistory-org/mystories-778|778. 悼念洪哲勝 / 姚煒廉 / 12/2020]].
 - Note: the 1979-era "Taiwan Democracy Newsletter" (台灣民主通訊) published by 郭譽信 cited in [[works/taiwaneseamericanhistory-org/ourjourneys321-eng|321. 由陳文成紀念基金會的創立談起]] is a **different, earlier publication** — not this foundation's 《民主通訊》.
 
+- _Corpus re-scan 2026-09-24 (slice 09230500-3): fresh grep of works/articles for 民主亞洲基金會/Asia Democracy Foundation returns only the already-linked directory record asiademo and the two absorbed TJJ obituary articles — no new corpus material; verified saturated._
+
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/asia-democracy-foundation/)
 - Taiwan Justice Journal tier2 archive (洪哲勝 obituaries, 2020-12-26 / 2021-01-02)
