@@ -43,6 +43,7 @@ last_reviewed: 2026-09-24
 - 1971–1990s: Founding-generation member of the Los Angeles 生活座談會 (est. 1971), the 西區生活座談會 (est. 1978-01), and the 南灣生活座談會; when the 太平洋時報 fell into crisis he was among the 會友 who stepped in successively as 發行人/社長 (with 陳惠亭, 李木通) — [[works/taiwaneseamericanhistory-org/ourjourneys212|212. 生活座談會簡史 / 劉天良 / 03/2016]]. Consistent with the employment table entry 太平洋時報社長 1988.
 - 2016-03: Memorial essay by his brother 黃森榮, 敬悼亡兄黃森元 — [[works/taiwaneseamericanhistory-org/mystories422|422. 敬悼亡兄黃森元]], corroborating the 2016 death date. His own encyclopedia entry: [[works/taiwaneseamericanhistory-org/whos903-s-y-huang|903. S. Y. Huang 黃森元]].
 - Re-grepped 2026-09-23 (slice 09221100-32; prior 2026-09-22 slice 09212352-28): verified saturated — corpus hits remain the six records already cited above (TACL founding overview #186/-eng, census memoir #253, 生活座談會簡史 #212, 現代國家的本質 #1197, 敬悼亡兄 #422); every passage matched was already absorbed. No new absorbable community facts.
+- 2026-09-24 corpus re-grep (DEEPEN-X slice 09230700-19): hit-set unchanged — the same records already cited above; the #253 passage (1986-12-17 理事會 census committee 周實/鍾茂智/黃森元/楊子清; the 19-person census 工作委員會 roster) is already absorbed in the 1986–87 bullets. Nothing new absorbable. SKIP-content.
 
 ## Sources
 - [TAH #903 encyclopedia: 903. S. Y. Huang 黃森元 / 2016/03](https://taiwaneseamericanhistory.org/whos903-s-y-huang/)

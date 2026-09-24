@@ -32,7 +32,7 @@ Mou-ChinLin (林茂清) is listed in the TAH Foundation Who’s Who Taiwanese Am
 - President, 紐澤西生活充實俱樂部 (Living Well Club): during the 2020–2021 pandemic ran the weekly online program and invited 楊遠薰 for five lectures, the first in July 2020 on 提倡台美文化 ([[articles/taiwanjustice-net/2024/20240302024930_root_299c00bb18030b81|TJJ memoir, 楊遠薰]]).
 - 2016-02 — profiled in the TAH Who's Who encyclopedia ([[works/taiwaneseamericanhistory-org/855-mou-chinlin-e6-9e-97-e8-8c-82-e6-b8-85-201602|855. Mou-ChinLin 林茂清 / 2016-02]]).
 
-Re-verified 2026-09-22 (slices 09210600-14, 09220400-12) and 2026-09-23 (slice 09221200-31): SKIP for new facts — corpus grep returns only records already absorbed above ([[works/taiwaneseamericanhistory-org/ourjourneys14|Our Journeys 14]], [[works/taiwaneseamericanhistory-org/855-mou-chinlin-e6-9e-97-e8-8c-82-e6-b8-85-201602|TAH #855]], 楊遠薰's 彭昕 memoir copies); no additional body-text mentions.
+Re-verified 2026-09-22 (slices 09210600-14, 09220400-12), 2026-09-23 (slice 09221200-31), and 2026-09-24 (slice 09230700-27): SKIP for new facts — corpus grep returns only records already absorbed above ([[works/taiwaneseamericanhistory-org/ourjourneys14|Our Journeys 14]], [[works/taiwaneseamericanhistory-org/855-mou-chinlin-e6-9e-97-e8-8c-82-e6-b8-85-201602|TAH #855]], 楊遠薰's 彭昕 memoir copies); no additional body-text mentions.
 
 ## Sources
 - [TAH #855 encyclopedia: 855. Mou-ChinLin 林茂清 / 2016/02](https://taiwaneseamericanhistory.org/855-mou-chinlin-%e6%9e%97%e8%8c%82%e6%b8%85-201602/)
