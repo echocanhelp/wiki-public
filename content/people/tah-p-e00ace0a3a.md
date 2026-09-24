@@ -6,7 +6,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-24
 ---
 # 毛清芬
 
@@ -53,6 +53,7 @@ HOLD: Employment 表載 台灣公論報 財務 1981-87；回憶錄指帳務由�
 - Re-verified 2026-09-20 / 2026-09-21: corpus re-grep (works/articles) returns only the records already linked/absorbed above (ourjourneys49 / 283 / 292 / 126、#329、黑名單口述、TAH #619); #283 同場講者與標語事件細節已補入上條.
 - 複核（deepen-x slice-09211400-7, 2026-09-22）：re-grep 毛清芬（works+articles）hit set identical — 僅已引之 ourjourneys 49/283/292/126、#329、黑名單口述、TAH #619。SKIP, verified-saturated.
 - 複核（deepen-x slice-09220800-14, 2026-09-22）：fresh re-grep hit set identical to已引記錄，無新材料。SKIP, verified-saturated.
+- 複核（deepen-x slice-09230317-13, 2026-09-24）：fresh re-grep 毛清芬（works+articles）hit set identical — 僅已引之 ourjourneys 49/283/292、#329、黑名單口述、TAH #619。SKIP, verified-saturated.
 
 ## Sources
 - [TAH #619 encyclopedia: 619. 毛清芬 / 2015/09](https://taiwaneseamericanhistory.org/618-%e6%af%9b%e6%b8%85%e8%8a%ac-201509/)

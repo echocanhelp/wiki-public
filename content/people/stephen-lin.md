@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-24
 ---
 # Stephen Lin (林俊提)
 
@@ -51,3 +51,5 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+- Re-check (slice deepen-x-09230317-10, 2026-09-24): fresh grep Stephen Lin — same hit set (Our Journeys 2/8/8-eng/19/352, Who's Who #1821), all absorbed — verified-saturated, SKIP.

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-24
 ---
 # Jiann-Tsyh Ken Lin (林健次博士)
 
@@ -47,6 +47,7 @@ President, North American Taiwanese Professors Association, Northern California 
 - Corpus re-check (2026-09-21, deepen-x slice 09201500-4, vault-only): hit set unchanged (#142 memoir, #449 profile, taiwanjustice 兆豐案 byline pages, 灣區拜訪 roster). Verified-saturated; SKIP.
 - Corpus re-check (2026-09-22, deepen-x slice 09211400-9, vault-only): hit set unchanged (#142 memoir, #449 profile, 兆豐案 byline pages — HOLD above, 灣區拜訪 roster 925-736-2304 already noted). Nothing new absorbable; SKIP.
 - Corpus re-check (2026-09-22, deepen-x slice 09220800-16, vault-only): hit set unchanged (#142 memoir, #449 profile, taiwanjustice 兆豐案 tag/category index pages bearing the 「林健次」byline — HOLD above — and the 灣區拜訪 roster with the same 925-736-2304 contact). Verified-saturated; SKIP.
+- Corpus re-check (2026-09-24, deepen-x slice 09230317-13, vault-only): hit set unchanged (#142 memoir, #449 profile, taiwanjustice 兆豐案 byline pages — 「面目全非的台灣金管會──兆豐案的省思 ◎林健次/民報 2016-11-28」, HOLD above — and the 鄭肇和/郭安泰… 灣區名冊 with the same 925-736-2304 contact). Verified-saturated; SKIP.
 
 
 ## Sources

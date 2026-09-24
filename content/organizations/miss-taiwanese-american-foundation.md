@@ -35,6 +35,8 @@ Corpus re-grep (台美小姐 / Miss Taiwanese American, slice 09211300-15, 2026-
 
 Corpus re-grep (台美小姐 / 台美親善小姐 / Miss Taiwanese American, slice 09220800-12, 2026-09-22): hit set unchanged (directory #2, magazine 744/745, pageant #7, calendar #1256, story #889) — saturated, SKIP, 無新材料。
 
+Corpus re-grep (slice 09230317-10, 2026-09-24): hit set unchanged (directory #2, magazine 744/745, pageant #7, calendar #1256, story #889) — verified-saturated, SKIP, no new material.
+
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/miss-taiwanese-american-foundation/)
 
