@@ -65,6 +65,8 @@ Corpus grep (游朝凱 / Charles Yu) returns 6 work records — awards-93, whos-
 
 ## From the record
 
+- 複核（TJJ-A09171100-1, 2026-09-24）：subject link 對照 slice 文章 9c6973783db0011a（中央社黃淑芳專訪, TJJ 2024-07-06）正文再驗證——本傳主體即專訪主角游朝凱，連結為真；2024-07-06 條目已在庫 — SKIP，無新材料。
+
 - 再核（TJJ-A09221200-15, 2026-09-23）：本 slice 文章 24ebe5f065076949（2016海外台語研習會公告）正文再驗證——游朝凱為課程將介紹的第二代作家（國會圖書館全美35歲以下最有前途作家之一、執業律師轉專事寫作），連結為真；2016-05-10 條目已在庫，無新材料。
 - 2024-07-06 — TJJ/CNA profile (黃淑芳): Yu says he began writing to narrate his parents' inner world as Taiwanese immigrants; interviewed by video alongside his father 游銘泉; 《內景唐人街》 TV adaptation set for Hulu/Disney+ that autumn; UC Berkeley assigned the novel for freshman reading and the NEA Big Read selected it ([[articles/taiwanjustice-net/2024/20240715085116_root_9c6973783db0011a|TJJ/CNA, 2024-07-06]]).
 - 2016-05-10 — 大洛杉磯台灣會館「2016年海外台語研習會」宣傳：鄭良光將於課程中介紹台文翻譯與世界名著接軌途徑，並專介紹旅居美國的第二代作家游朝凱 Charles Yu——曾獲美國國會圖書館選為全美35歲以下最有前途的五位作家之一、作品收入高中教科書，原執業律師、時已專事寫作（[[articles/taiwanjustice-net/2023/20230205151554_2016_05_10_2016年-海外台語研習會_六月四日舉行-_大洛杉磯_24ebe5f065076949|TJJ, 2016-05-10]]）。

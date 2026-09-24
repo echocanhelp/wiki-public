@@ -48,6 +48,8 @@ last_reviewed: 2026-09-24
 
 ## From the record
 
+- 複核（TJJ-A09171100-1, 2026-09-24）：subject link 對照 slice 文章 6763e8f4ad9bcb7c／80e2a87a17215263 正文再驗證——橋水查經班1990年由梁耕三發起之記述確認見於正文，連結為真；對應條目已在庫 — SKIP，無新材料。
+
 - 覆核（TJJ-A09171100-2, 2026-09-24）：本 slice 文章 299c00bb18030b81（懷念彭昕醫師） 主體連結對照正文再驗證——連結為真實提及（無錯鏈、無虛鏈），對應日期事實條目（含該文 wikilink）已在庫 — SKIP，無新材料。
 - 2021-09-10 — 以「司法不公，國耻之最：海內外台灣人聲援翁啟惠連署活動」聯絡人身分（與翁青志、陳怡君）呼籲海内外台灣人及社團再次連署，聲援浩鼎案已獲無罪卻仍遭監院彈劾的翁啟惠，回應謝清志博士的投書號召（[[articles/taiwanjustice-net/2023/20230530145556_2021_09_10_司法不公_國耻之最_海內外台灣人聲援翁啟惠連_59a68b9cd855c1bf|TJJ，2021-09-10]]）。
 - Corpus re-grep 2026-09-23 (DEEPEN-X slice 09221100-30): fresh ZH+EN grep returned the same hit-set already cited above (Our Journeys 287, TAH #1520, 楊遠薰 懷念彭昕醫師 memoir ×2 archives, 翁啟惠連署 call). The memoir's full founding roster (茂清、阿加、建信、愛信、英才) and its note that 耕三兄嫂 later 回台灣 are corroborations of the Role section. Verified saturated — nothing new absorbable.

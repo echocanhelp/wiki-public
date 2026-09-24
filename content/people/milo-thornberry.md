@@ -58,6 +58,8 @@ last_reviewed: 2026-09-23
 
 ## From the record
 
+- 複核（TJJ-A09171100-1, 2026-09-24）：subject link 對照 slice 文章 74f89ee82c85dc78（《撲火飛蛾》作者唐培禮訃聞, TJJ 2017-03-12）正文再驗證——本傳主體即訃聞主角（2017-03-08 歿於奧瑞岡、Katy Thornberry McNulty 唁電全文），連結為真；2017-03-08 條目已在庫 — SKIP，無新材料。
+
 - 複核（TJJ-A09162345-27, 2026-09-23）：本 slice 文章 8842b0e0（VOA 唐培理_white terror 報導, 2011-11-23）之 subject link 經正文再驗證為真實對應（本傳主體），2011-11-18 座談會事實條目已在庫（無錯鏈、無虛鏈）— SKIP，無新材料。
 
 - 2011-11-18 — At a small panel at George Washington University, Thornberry said the US government knew of the White Terror under Chiang but kept a "conspiracy of silence" out of national-interest calculations, and feared Taiwan's interests would again be sacrificed for US interests in China; he and wife 唐秋詩 (Judith Thomas), having arrived in Taiwan in 1965, relayed via prison notes from 謝聰敏 and 魏廷朝 the fate of disappeared political prisoners to their families and to Amnesty International, later helped the sentenced Peng Ming-min escape Taiwan, and were arrested and expelled in March 1971 — himself then blacklisted and denied a US passport for 19 years; his memoir 《不怕死的飛蛾》(Fireproof Moth — A Missionary in Taiwan's White Terror) had appeared in February with a Chinese edition launched in Taipei 2011-12-10 ([[articles/taiwanjustice-net/2024/20240302035134_root_8842b0e0aad8032f|VOA via TJJ, 2011-11-23]]).
