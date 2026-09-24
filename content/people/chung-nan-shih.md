@@ -40,6 +40,7 @@ _No filled family fields on the TAH profile._
 - His own TAH Who's Who record is preserved in the corpus at [[works/taiwaneseamericanhistory-org/957-chung-nan-shih|957. Chung Nan Shih 施忠男 / 2016/04]]; his personal video-documentation channel is recorded at [[works/taiwaneseamericanhistory-org/videos-chung-shih|86. Videos of Chung Nan Shih 施忠男的影音紀錄頻道]] (2017-11-21) — community history preserved by him, not just about him.
 
 Re-grep 2026-09-22 (slice 09211507-13): same three hits (own TAH record, 吳木盛 memoir, index) — verified-saturated, nothing new absorbable.
+Re-grep 2026-09-24 (slice 09230400-28): fresh ZH+EN re-grep returns the identical hit set (TAH #957, ourjourneys222 memoir, videos-chung-shih, index) — verified-saturated, nothing new absorbable.
 
 ## Sources
 - [TAH #957 encyclopedia: 957.  Chung Nan Shih 施忠男 / 2016/04](https://taiwaneseamericanhistory.org/957-chung-nan-shih/)
