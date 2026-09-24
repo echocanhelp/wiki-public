@@ -28,6 +28,8 @@ The Taiwanese American Organization (TAO) at the University of Southern Californ
 
 > Deepen pass 2026-09-23 (slice 09221300-4): SKIP — fresh grep (usctao/南加大/Taiwanese American Organization): matches remain unrelated generic records (video-asian-choral-festival, 7-t-shirts, concerts26, photo-albums); zero TAO-at-USC-specific memoir content. Nothing absorbable.
 
+> Deepen pass 2026-09-24 (slice 09230700-3): SKIP — fresh grep (usctao/TAO at USC/南加大/Taiwanese American Organization): 南加大 hits remain USC-location event memoirs (ourjourneys253/301, dumplings-usctsa, my-stories-770, TADA); 'Taiwanese American Organization' matches are generic collective records (ourjourneys247 activity list, 96. 台美團體的旗幟 flag album, 7-t-shirts, concerts26, photo-albums, choral festival) that never name this club. Verified-saturated; nothing absorbable.
+
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-american-organization-at-the-university-of-southern-california/)
 

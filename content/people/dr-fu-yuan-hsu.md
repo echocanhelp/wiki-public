@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # Dr. Fu Yuan Hsu (許富淵)
 
@@ -42,6 +42,8 @@ last_reviewed: 2026-09-23
 
 - **Wife:** : -
 
+
+- Corpus re-grep (slice 09230700-9, 2026-09-24): hit-set unchanged from prior passes — all hits already absorbed above; verified-saturated, nothing new absorbable, no conflicts.
 
 ## Sources
 - [TAH #1617 encyclopedia: 1617. Dr. Fu Yuan Hsu 許富淵/ 2017/04](https://taiwaneseamericanhistory.org/whoswho1617/)
