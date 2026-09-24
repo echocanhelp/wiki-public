@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # Clear Lake Taiwanese Association (明湖台灣同鄉會)
 
@@ -28,6 +28,7 @@ The Clear Lake Taiwanese Association (明湖台灣同鄉會) is a local chapter 
 - Re-checked 2026-09-22 (slice 09220400-4): corpus grep (明湖 / Clear Lake) returned only the records already linked above; no new facts, HOLD naming conflict unchanged. Re-check 2026-09-23 (slice 09221200-5): hit set unchanged (chapter page, TAH #12 簡介, #155 座談會, 616/966/1243 名人錄) — verified saturated; HOLD naming conflict 明湖 vs 明湖城 still open.
 - The chapter also surfaces in movement-organizing minutes: [[works/taiwaneseamericanhistory-org/ourjourneys155|155. 台美人檔案座談會 in 2007美南夏令會]] records the conclusion 「我們要從Local開始」 and names the chapters called on to convene regional meetings and sustain the 美南夏令會 and TAA Archives — Dallas、Houston、New Orleans、Austin、Baton Rouge、**Clear Lake**、College Station、San Antonio 及 Oklahoma 州的同鄉.
 - HOLD: naming conflict — this page carries 明湖台灣同鄉會; both corpus records title the chapter 明湖**城**台灣同鄉會 / 明湖城同鄉會. Not auto-merged; awaiting owner confirmation of the official name.
+- 2026-09-24 corpus re-grep (slice 09230600-14): hit set unchanged (616 名人錄, TAH #12 簡介, ourjourneys155, 966, 1243, clear-lake-tx-chapter-taa) — every hit already linked above with facts absorbed. Verified saturated; SKIP-content. HOLD 明湖 vs 明湖城 still open.
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/clear-lake-taiwanese-association/)

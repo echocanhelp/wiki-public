@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # Dr. Jeffrey Tsai (蔡長宗醫師)
 
@@ -40,6 +40,7 @@ _No filled family fields on the TAH profile._
 - 2018-02-08: appeared as a physician panelist in the Q&A of the 台美人信仰與人文研習會 February session at 大洛杉磯台灣會館 (Greater Los Angeles Taiwan Club), alongside 葉思雅、蔡米山、黃哲陽、吳武雄 — consistent with his NATMA Southern California Chapter presidency. Preserved in the archived taiwanjustice.net event listing ([[articles/taiwanjustice-net/2021/20210621195348_tag_黃哲陽_050cd18387dcaa9b|台美人信仰與人文研習會2月研習會 @大洛杉磯台灣會館 20180208]], published 2018-02-13).
 
 - Corpus re-scan 2026-09-23 (deepen-x slice 09221200-6): fresh grep 蔡長宗 / Jeffrey Tsai — hit set = ourjourneys186(-eng) / ourjourneys272(-eng) / whos-who-2248 only, all absorbed above; no new facts beyond rosters already quoted. Verified saturated.
+- Corpus re-scan 2026-09-24 (deepen-x slice 09230600-15): fresh grep 蔡長宗 / Jeffrey Tsai over works/ + articles/ — hit set identical (ourjourneys186/-eng, ourjourneys272/-eng, whos-who-2248, harvest index), all absorbed above. Verified saturated; no new facts.
 
 ## Sources
 - [TAH #2248 encyclopedia: 2248. Dr. Jeffrey Tsai 蔡長宗醫師](https://taiwaneseamericanhistory.org/whos-who-2248-jeffrey-tsai/)

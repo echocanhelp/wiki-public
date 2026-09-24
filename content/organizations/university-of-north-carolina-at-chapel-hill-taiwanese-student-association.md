@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # University of North Carolina at Chapel Hill Taiwanese Student Association
 
@@ -27,6 +27,7 @@ The University of North Carolina at Chapel Hill Taiwanese Student Association (U
 - 2026-09-21 deepen-x slice 09200400-9: SKIP — third grep (Chapel Hill / 教堂山 / 北卡…同學會) returns only NC movement memoirs (NCTA 50-year chapter, NCSU TSA page) that never name UNC TSA; the Chapel Hill mentions are geographic (三角區 context), not about this club. Nothing absorbable without inventing biography.
 - 2026-09-22 deepen-x slice 09220400-15: SKIP — fifth grep (UNC TSA / Chapel Hill / 教堂山 / 北卡…同學會) re-verified saturated: hits are the NC 50-year chapter memoir (our-journeys-381: Chapel Hill named only as 三角區 geography) and a TJJ hate-crime FAQ (教堂山 = the 2015 Craig Hicks case, geographic). Neither names this club; nothing absorbable without inventing biography.
 - 2026-09-23 deepen-x slice 09221200-10: SKIP — sixth grep (UNC TSA / Chapel Hill / 教堂山 / 北卡…同學會) re-verified saturated: same six hits (our-journeys-381, ourjourneys237, Taiwanese Collegian newspaper, NCSU TSA page, ourjourneys245), none naming this club; Chapel Hill appears only as 三角區 geography. Nothing absorbable without inventing biography.
+- 2026-09-24 deepen-x slice 09230600-15: SKIP — seventh grep (UNC TSA / Chapel Hill / 教堂山 / 北卡…同學會) re-verified: zero corpus files name the club; hits remain NC-movement memoirs where Chapel Hill appears only as 三角區 geography. Nothing absorbable without inventing biography.
 - 2026-09-22 deepen-x slice 09210500-14: SKIP — fourth grep (UNC TSA / Chapel Hill / 教堂山 / 北卡…同學會) re-verified: hits are NC movement memoirs (#237 triangle-area geography, #245 16th 世界台灣人大会 hosted by 北卡同鄉會, collegian newspaper, NCSU TSA page) that never name this club. Nothing absorbable without inventing biography.
 
 ## Related Pages

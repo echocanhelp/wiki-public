@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # Taiwanese Cultural and Sports Association (台灣文化體育協會)
 
@@ -31,6 +31,8 @@ Naming note: the directory uses both "Taiwanese Cultural and Sports Association"
 Corpus re-check 2026-09-22 (deepen-x slice 09220400-17): fresh grep for 台灣文化體育協會 / TCSA returns only the two already-linked work pages, the already-noted taiwanjustice.net 年會 tag capture, and a false positive (archive digest string in an unrelated WHA op-ed). SKIP this pass: nothing new absorbable.
 
 Corpus re-check 2026-09-23 (deepen-x slice 09221200-17): fresh grep again — new hits (Cerritos 喜瑞都台灣文化節 work page, Karen I. Wu philanthropy essay, San Diego Taiwanese Cultural Association 聖地牙哥台灣同鄉會 pages, concerts28) are different orgs matched on the generic "Taiwanese Cultural" string, not this association. Verified saturated; page state unchanged.
+
+Corpus re-grep 2026-09-24 (deepen-x slice 09230600-20): fresh ZH+EN grep returns only the two already-linked work pages (Kid's Fun Festival, directory #37), the taiwanjustice.net 年會 tag capture ("No posts to display"), and manifest/index listings — no new material. Verified saturated; SKIP this pass.
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-cultural-and-sports-association/)
