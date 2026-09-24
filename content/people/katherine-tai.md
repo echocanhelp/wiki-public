@@ -62,6 +62,8 @@ Absorbed from vault pages already naming her (no web):
 
 ## From the record
 
+- 複核（TJJ-A09230800-6, 2026-09-24）：本 slice 兩篇同文快照 4a5080befc342f69／2c5d3c7d4f5acccc（戴琪與鄧振中視訊、重啟TIFA）正文再驗證——subject 連結為真實對應，無錯鏈、無虛鏈；對應日期事實（含兩檔 wikilink）均已在庫 — SKIP，無新材料。
+
 - 複核（TJJ-A09230800-8, 2026-09-24）：slice 文章 10e3a027ce22991c（汽車晶片短缺報導, 2021-02-25 刊）——戴琪提名聽證會記述見於正文，連結為真；無錯鏈、無虛鏈；對應日期事實條目（含該文 wikilink）已在庫 — SKIP，無新材料。
 
 - 複核（TJJ-A09221300-7, 2026-09-23）：subject link 對照本 slice 文章 [[articles/taiwanjustice-net/2021/20210419115654_2021_02_25_汽車晶片短缺_美國會議員向蕭美琴求助_10e3a027ce22991c|TJJ, 2021-02-25]] 正文再驗證——提及為真實對應（姓名與本頁相符），無錯鏈、無虛鏈；對應日期事實條目已在庫 — SKIP，無新材料。

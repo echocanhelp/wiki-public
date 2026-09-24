@@ -32,6 +32,7 @@ HOLD: conflict in name — the corpus record titles the organization "Taiwanese 
 
 ## From the record
 
+- 複核（TJJ-A09230800-6, 2026-09-24）：本 slice 文章 81e80ba38969bf88（皮尤報告區隔台裔）正文再驗證——TACL 公民參與事務主任胡若涵回應及自 1990 年起普查草根運動記述確認見於正文，subject 連結為真，無錯鏈、無虛鏈；2021-09-26 條目（含該文 wikilink）已在庫 — SKIP，無新材料。
 
 - 複核（TJJ-A09171100-4, 2026-09-24）：本 slice 文章 162effa713237818 正文再驗證——本頁 subject link 為真實對應（無錯鏈、無虛鏈），對應 From-the-record 條目已在庫 — SKIP，無新材料。
 - 2020-06-16 — A TASF/TJJ press release names TACL (then 35 years old) as co-launcher and issuing body of the Student Covid-19 Relief Scholarship Program, responsible for students outside Greater Los Angeles; the release also catalogues TACL's standing programs — the summer Political Internship Program, high-school community scholarships, journalism internships, 台美人夏令營 and the summer leadership training camp ([[articles/taiwanjustice-net/2020/20200622034426_2020_06_16_給台美人學生的-tasf-covid-19-疫情紓困獎學金接受申請_162effa713237818|TJJ, 2020-06-16]]).
