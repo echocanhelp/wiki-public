@@ -40,6 +40,7 @@ _No filled family fields on the TAH profile._
 - Speaker on 台灣環保問題 at the 台裔夏令會 (Southeast regional session, 第十三屆 1991, Spartanburg SC, hosted by 北卡同鄉會) — see [[works/taiwaneseamericanhistory-org/ourjourneys245|Our Journeys 245]]; the same 環保 lecture is recalled in the ten-year retrospective of the Southeast summer movement [[works/taiwaneseamericanhistory-org/our-journeys-379|Our Journeys 379]], which also records 李永熾's 戰後台灣的統治族群 talk alongside his.
 
 - Corpus re-scan 2026-09-22 (slices 09210500-12, 09220400-14): all corpus hits (Our Journeys 76 founding-convention 會刊 role, #139 Houston circle, #245/#379 夏令會 環保 lectures, 全美台灣同鄉會簡介, TAH #286) already absorbed above; no further memoir material, nothing new absorbable. Re-verified 2026-09-23 (slice 09221300-8): hit set unchanged.
+- Also a published author in the corpus's literature layer: 散文《夢裡故鄉》, TAH story-corpus record [[works/taiwaneseamericanhistory-org/256-e5-a4-a2-e8-a3-a1-e6-95-85-e9-84-89-e5-b0-8f-e5-8d-92-2012-05-e6-96-87-e5-ad|256. 夢裡故鄉 / 范振聲 / 文學]] (bibliographic record only; full text stays in the vault) — added 2026-09-24 (slice 09230700-28).
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/cheng-shen-fang/)

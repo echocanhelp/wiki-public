@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # Ching Yung Lee (李慶榮)
 
@@ -37,6 +37,7 @@ last_reviewed: 2026-09-23
 - Author: memoir 從基礎醫學到病理，留美四十年回顧 (From Basic Medicine to Pathology: Reflections on 40 Years in the United States), 2016/02 — [[works/taiwaneseamericanhistory-org/mystories397|397. 從基礎醫學到病理，留美四十年回顧]] (also catalogued as [[works/taiwaneseamericanhistory-org/397-e5-be-9e-e5-9f-ba-e7-a4-8e-e9-86-ab-e5-ad-b8-e5-88-b0-e7-97-85-e7-90-86-ef-b|397 (EN-titled record)]].
 - 2015-10-18 — TAH encyclopedia profile: [[works/taiwaneseamericanhistory-org/658-ching-yung-lee-e6-9d-8e-e6-85-b6-e6-a6-ae-201510|658. Ching Yung Lee 李慶榮]].
 - Note: the two 397 records appear to be duplicate catalogue entries of the same memoir (same number/title, different harvest slugs); flagged, not merged.
+- Corpus re-sweep 2026-09-24 (slice 09230700-26): 李慶榮 / Ching Yung Lee hits unchanged — ourjourneys311, our-journeys-391, ourjourneys291, 658, and both 397 records, all already linked above; no new memoir or association material. verified-saturated.
 
 ## Family
 
