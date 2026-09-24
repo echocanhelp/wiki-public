@@ -49,6 +49,8 @@ Jensen Huang founded NVIDIA in 1993 and has served since its inception as presid
 
 ## From the record
 
+- 2023-07-09 — 民視《台灣演義》以「AI教父 黃仁勳」為題專集介紹其半導體事業成就，該集條目見於台灣公義報「台灣演義」分類存檔頁（TJJ slice 09162345-28 補掛：此前複核note所稱條目實際未在庫）（[[articles/taiwanjustice-net/2025/20250514014154_category_taiwan_history_page_5_e041055e6555c89e|TJJ 台灣演義存檔頁5, 2025-05-14 存檔]]）。
+
 - 複核（TJJ-A09221500-11, 2026-09-24）：本 slice 文章 e041055e（台灣演義分類頁 page 5）正文清單再驗證——「台灣演義 20230709 AI教父 黃仁勳」條目確認見於清單，subject link 為真（無錯鏈、無虛鏈）；2023-07-09 條目（已掛該文 wikilink）已在庫 — SKIP，無新材料。
 
 - 複核（TJJ-A09171200-11, 2026-09-24）：本 slice 文章 923dad71（「台灣新聞」分類頁, 2023-12-01 存檔）正文再驗證——本頁所涉條目確認見於清單，subject 連結為真，無錯鏈、無虛鏈；對應日期事實已在庫 — SKIP，無新材料。
