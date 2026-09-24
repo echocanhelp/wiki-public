@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # Mei Fun Tsai (吳美芬)
 
@@ -52,3 +52,4 @@ Accomplishment
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+複核（deepen-x 2026-09-24 slice-6）：fresh ZH+EN re-grep（吳美芬 / Mei Fun Tsai, works+articles）命中集合與前次完全相同（ourjourneys 60/74/74-eng/81、publications64、collection-of-mrs-mei-fun-tsai），全部已 wikilink 吸收 — 飽和，無新增社群材料。
