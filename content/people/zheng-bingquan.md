@@ -10827,5 +10827,7 @@ Notable quotes and mentions of **鄭炳全** in Taiwan Justice articles:
 
 ## From the record
 
+- 複核（TJJ-A09230800-8, 2026-09-24）：slice 文章 a1be6b822ac7cdcd（圓滿的100, 2022-01-10 刊）——鄭炳全連袂致賀記述見於正文，連結為真；無錯鏈、無虛鏈；對應日期事實條目（含該文 wikilink）已在庫 — SKIP，無新材料。
+
 - 2022-01-09 — 與賴慧娜、林文政、黃樹人連袂拜訪筆會會員葉思雅、張信惠伉儷，慶賀其台灣公義報「週末漫談音樂」專欄滿100期；攜「100」芋頭蛋糕致賀（黃樹人記）（[[articles/taiwanjustice-net/2022/20220127025846_2022_01_10_圓滿的100-慶賀葉思雅_張信惠_週末漫談音樂_專_a1be6b822ac7cdcd|TJJ, 2022-01-10]]）。
 - 2017-06-11 — Listed by TJJ on the editorial committee of 《2017臺美文藝》 published by 台美人筆會 (67 works by 40+ authors, alongside 李彥禎、陳東榮、李芬芬、秦雪華、林文政); new-book launch 2017-06-17 at 大洛杉磯台灣會館, Rosemead ([[articles/taiwanjustice-net/2022/20221127052725_2017_06_11_2017台美文藝出版-台美人筆會六月十七日舉辦發表會_c76f11ecd2598ecb|TJJ, 2017-06-11]]).

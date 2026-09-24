@@ -27,6 +27,8 @@ Echopedia lists this writer as a **voice in that archive** — work Taiwanese Am
 
 ## From the record
 
+- 覆核（TJJ-A09230800-5, 2026-09-24）：本 slice 文章 3dfb23f1（前白宮官員肯定台灣新國安團隊）正文再驗證——本人專文為報導主體，連結為真，無錯鏈、無虛鏈；2024-05-14 條目（含該文 wikilink）已在庫 — SKIP，無新材料。
+
 - 2024-05-14 — 以布魯金斯研究所約翰桑頓中國中心主任（前白宮國安會中國、台灣及蒙古事務主任）身份在布魯金斯官網專文反駁「賴清德上任將使兩岸緊張」論述，判讀賴清德為務實政治人物、將延續蔡英文路線，並示警北京將在台灣內部及其盟友間製造分歧（[[articles/taiwanjustice-net/2024/20240527031819_root_3dfb23f1f86ac707|TJJ 轉載中央社記者華盛頓報導, 2024-05-14]]）。
 
 ## TJ Citations

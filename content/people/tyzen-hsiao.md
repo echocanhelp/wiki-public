@@ -151,6 +151,8 @@ TAH employment (unparsed string): Tainan Univ. of Technology assoc. prof.; Wenza
 ## From the record
 
 
+- 複核（TJJ-A09230800-8, 2026-09-24）：slice 文章 bfc5f319a036a339（黃瑞芬訃聞, 2022-01-29 刊）——〈嘸通嫌台灣〉1995 TUF LA 音樂會演出記述見於正文，連結為真；無錯鏈、無虛鏈；對應日期事實條目（含該文 wikilink）已在庫 — SKIP，無新材料。
+
 - 覆核（TJJ-A09230400-5, 2026-09-24）：本 slice 與 TJJ-A09171100-8 涵蓋同一文章 996879ac7a006acf（全美台灣人權協會第44屆年會暨鄭南榕紀念獎頒獎），主體連結與日期事實覆核結果相同（連結為真、條目已在庫）— SKIP，無新材料。
 - 複核（TJJ-A09230400-1, 2026-09-24）：subject link 經本 slice 文章 c62f5c50846fe267 正文再驗證為真實對應，對應 From-the-record 條目已在庫並掛鏈本檔（無錯鏈、無虛鏈）— SKIP，無新材料。
 

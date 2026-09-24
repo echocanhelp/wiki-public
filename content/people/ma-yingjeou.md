@@ -30,6 +30,8 @@ last_reviewed: 2026-09-24
 
 ## From the record
 
+- 複核（TJJ-A09230800-6, 2026-09-24）：本 slice 文章 adc931e5b99bb0a9（van der Wees 評 2012 大選）正文再驗證——馬英九 2008 承諾出讓黨產未兌現、勝選出於對不穩定之恐懼等記述確認見於正文，subject 連結為真，無錯鏈、無虛鏈；2012-01-29 條目已在庫 — SKIP，無新材料。
+
 - 複核（TJJ-A09230700-3, 2026-09-24）：本 slice 文章 English Pages 目錄頁 b1e144ecc18e460f 正文再驗證——subject 連結為真實對應，無錯鏈、無虛鏈；對應日期事實（含該文 wikilink）2013-09-15 Keating 評論收錄條目已在庫 — SKIP，無新材料。
 
 - 複核（TJJ-A09230700-11, 2026-09-24）：本 slice 文章 69b4f44f9c019bd5（陳順盛探訪報導英文转载）正文再驗證——「Ma Ying-jeou…refuses to consider medial parole for Chen」確認見於正文，subject 連結為真，無錯鏈、無虛鏈；2013-06-10 條目已在庫 — SKIP，已飽和。

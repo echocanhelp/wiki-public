@@ -47,6 +47,8 @@ _Corpus re-grep 2026-09-23: same hits (TAH #767, both TJJ 李應元敬弔/辭世
 
 ## From the record
 
+- 覆核（TJJ-A09230800-5, 2026-09-24）：本 slice 文章 efea1ad2（哲人日已遠：敬弔李應元博士）正文再驗證——向牽手黃月桂博士致哀之記述確認見於正文，連結為真，無錯鏈、無虛鏈；2021-11-22 條目（含該文 wikilink）已在庫 — SKIP，無新材料。
+
 - 2021-11-17 — 夫李應元辭世；遺孀黃月桂向前往追思的親友表達「不要悲傷難過、不要哭，李應元只是先下課」，要大家繼續為台灣打拚；11-30 台北市立第二殯儀館告別式僅家祭，12-2 骨灰植存法鼓山金山環保生命園區（[[articles/taiwanjustice-net/2022/20220521160334_2021_11_17_李應元辭世11-30家祭-12-2植存法鼓山_701d4ef787e2e410|TJJ，2021-11-17]]）。
 - 2021-11-22 — NATPA 理事會敬弔文〈哲人日已遠：敬弔李應元博士〉向其牽手、同為 NATPA 會員的黃月桂博士致哀（[[articles/taiwanjustice-net/2021/20211207111000_2021_11_22_哲人日已遠_敬弔李應元博士-_natpa鄭麗伶會長暨全_efea1ad2d8cb4d11|TJJ，2021-11-22]]）。
 - HOLD: 詞料 [[works/taiwaneseamerican-org/laura-huang-olivia-chen-project-emplify|Project EMplify 介紹]] 之 Laura Huang 為哈佛商學院創業研究副教授、與 Olivia Chen 共同創辦 Project EMplify、著有《EDGE: Turning Adversity into Advantage》；與本頁 TAH 檔案（台大公衛、北卡博士、長庚/台北市立大學公衛教職、李應元之妻）履歷不符，疑似同名異人，未合併。

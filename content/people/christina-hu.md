@@ -50,6 +50,8 @@ _No filled family fields on the TAH profile._
 
 ## From the record
 
+- 複核（TJJ-A09230800-6, 2026-09-24）：本 slice 文章 81e80ba38969bf88（皮尤報告區隔台裔）正文再驗證——胡若涵（Christina Hu）「存在要獲得承認」語確認見於正文，subject 連結為真，無錯鏈、無虛鏈；2021-09-26 條目（含該文 wikilink）已在庫 — SKIP，無新材料。
+
 - 2021-09-26 — 以台美公民協會（TACL）公民參與事務主任身份向 NBC Asian America 回應皮尤研究中心修正人口報告、將台裔獨立統計一事：「民主參與就是要有發言權，而要有發言權的第一步，就是我們的存在要獲得承認」（[[articles/taiwanjustice-net/2021/20211020142022_2021_09_26_美皮尤人口調查報告修正_區隔台裔與華裔分別統_81e80ba38969bf88|TJJ 轉載中央社, 2021-09-26]]）。
 
 ## Sources

@@ -72,6 +72,8 @@ _No filled family fields on the TAH profile._
 
 ## From the record
 
+- 複核（TJJ-A09230800-8, 2026-09-24）：slice 文章 bfc5f319a036a339（黃瑞芬訃聞, 2022-01-29 刊）——1995-07-29 TUF LA 音樂會小提琴記述見於正文，連結為真；無錯鏈、無虛鏈；對應日期事實條目（含該文 wikilink）已在庫 — SKIP，無新材料。
+
 - 複核（TJJ-A09221400-8, 2026-09-23）：「台灣民謠之夜」TUF 1995 節目稿（[[articles/taiwanjustice-net/2024/20240520022857_root_e1412ed957f76e0d|e1412ed957f76e0d]]）subject link（小提琴黃維明）經正文再驗證為真實對應，1995-07-29 條目已在庫 — SKIP，无新材料。
 - 複核（TJJ-A09221300-7, 2026-09-23）：subject link 對照本 slice 文章 [[articles/taiwanjustice-net/2022/20220519130616_2022_01_29_台灣女聲樂家_資深古典音樂節目主持人黃瑞芬過_bfc5f319a036a339|TJJ, 2022-01-29]] 正文再驗證——提及為真實對應（姓名與本頁相符），無錯鏈、無虛鏈；對應日期事實條目已在庫 — SKIP，無新材料。
 
