@@ -43,6 +43,7 @@ _No filled family fields on the TAH profile._
 - 2018-07 — listed among the 台大校友 who protested 南加州台大校友會 inviting 管中閔 to give a keynote at its annual dinner; the alumni list records him as 陳文淵（植病）, matching this page's National Taiwan Univ. Plant Diseases and Pests degree — the only corpus hit with a body-text (non-subject-list) mention and a corroborating department match ([[articles/taiwanjustice-net/2018/20180721091303_2018_07_20_抗議-南加州台大校友會邀管中閔來年會做專題演講_a428dcebbceacf38|TJJ 報導, 2018-07-20]]).
 
 - 2026-09-23 re-check (slice 09221100-31): corpus hits remain the own record plus machine-generated subject-list auto-links (Our Journeys 19/74/313-eng, milestones 22, 1981 獎學金 record) with no body-text mention of 陳文淵; the 2018 台大校友抗議 record stays the only body-text hit. SKIP-content: verified-saturated; 陳文成 name-collision HOLD unchanged.
+- 2026-09-24 re-check (slice 09230600-22): ZH-body grep (陳文淵) returns only the own record, index, and the 2018 台大校友抗議 article already wikilinked above; EN-grep hits are subject-list auto-links only. Saturated; 陳文成 HOLD unchanged.
 
 ## Sources
 - [TAH #2093 encyclopedia: 2093. Dr. Wen Y. Chen 陳文淵醫師](https://taiwaneseamericanhistory.org/whos-who-2093-wen-y-chen/)

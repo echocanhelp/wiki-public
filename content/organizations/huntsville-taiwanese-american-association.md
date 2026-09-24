@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # Huntsville Taiwanese American Association (亨城)
 
@@ -28,6 +28,8 @@ The Huntsville Taiwanese American Association (HTAA) is a local chapter of the T
 - 1996-07-12–14 — hosts the 18th 美南台灣人夏令會 (Covenant College, Chattanooga; convener 蔣政宏)
 - 2015-11-20 — association record appears in the TAH story corpus
 - 2017-10-09 — chapter brief history (Project 3 #13) published in the TAH story corpus (Chinese and English)
+
+- 2026-09-24 re-check (slice 09230600-22): corpus re-grep (亨城 / HTAA / 蕃薯味 / Huntsville Taiwanese American) returned the same work pages already wikilinked above (project-3-13 ±eng, HTAA record, ourjourneys245, index) plus one false positive (a digest-string match in a 2022 TAJPNet article). Saturated; no new facts, no conflicts.
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/huntsville-taiwanese-american-association/)

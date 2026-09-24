@@ -42,6 +42,10 @@ HOLD: corpus records titled "台美協進會" — [[works/taiwaneseamericanhisto
 - The foundation's own publications are held in the corpus: [[works/taiwaneseamericanhistory-org/573-taiwanese-american-foundation-2005-2006tafmagazines-e9-9b-9c-e8-aa-8c|573. Taiwanese American Foundation 2005-2006 / TAF Magazines 雜誌]] and an earlier [[works/taiwaneseamericanhistory-org/785-e5-8f-b0-e7-be-8e-e5-9f-ba-e9-87-91-e6-9c-831995-e9-a0-92-e7-8d-8e-e7-89-b9-|785. 台美基金會1995頒獎特刊 / 1995/11]] — the foundation's own 1995 awards special issue, evidence the award ceremony ran continuously into the mid-1990s.
 - 王桂榮's wider movement record appears in the corpus as [[works/taiwaneseamericanhistory-org/344-e7-ac-ac-e4-ba-8c-e4-bb-bb-e6-9c-83-e9-95-b7-e7-8e-8b-e6-a1-82-e6-a6-ae-e5-b|344. 第二任會長王桂榮 將公會會務發揚光大 / 2015/10]] (bibliographic record; which 公會 is unreconciled).
 
+## From the record
+
+- 覆核（TJJ-A09230500-1, 2026-09-24）：本 slice 文章 f06677a469620539（卓甫良與TAF的故事） 再驗證——該文 Subjects 以純文字列出台灣人協進會 TAF（MFCF 延續的青少年夏令營團體）並明確標注與本獎座基金會為不同組織；上方 Name collision 段的辨析（含該文 wikilink 與創會幹部連結）經正文比對為真，維持現況，無需獨立建頁 — SKIP，無新材料。
+
 ## Related Pages
 
 - [[people/wang-gui-rong||Wang Gui-rong (王桂榮)]] — founder
