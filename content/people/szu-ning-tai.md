@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # Szu-Ning Tai (戴思寧)
 
@@ -45,6 +45,7 @@ _No filled family fields on the TAH profile._
 
 ## Corpus check (2026-09-23)
 - Idempotent re-verify (slices 09220500-12, 09221300-23): fresh grep — identical hit set (#219, #455, works index), all already linked above; no new absorbable corpus facts. SKIP.
+- Idempotent re-verify 2026-09-24 (slice 09230800-30): fresh ZH+EN grep — identical hit set (#219, #455, works index). SKIP.
 
 ## Sources
 - [TAH #455 encyclopedia: 455. Szu-Ning Tai 戴思寧 / 2015/06](https://taiwaneseamericanhistory.org/455-szu-ning-tai-%e6%88%b4%e6%80%9d%e5%af%a7-201506/)

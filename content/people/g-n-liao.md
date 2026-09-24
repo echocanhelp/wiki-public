@@ -44,6 +44,7 @@ Work pages touching his OCTA leadership (語料庫目錄日期：#253 收錄於 
 - [[works/taiwaneseamericanhistory-org/67-t-shirt-of-orange-county-taiwanese-association-octa|OCTA T-shirt artifact]]
 
 Corpus re-check 2026-09-23 (slice 09221300-28): fresh grep (廖光男 / G. N. Liao) of works/articles returns only the already-linked records (#253 founding-president record, #2256 Who's Who record, works index) — no new memoir/community mentions to absorb.
+Corpus re-check 2026-09-24 (slice 09230800-32): fresh grep hit set unchanged (#253, #2256, works index) — nothing new absorbable; SKIP-with-reason.
 
 ## Sources
 - [TAH #2256 encyclopedia: 2256. G. N. Liao 廖光男/04/2020](https://taiwaneseamericanhistory.org/whos-who-2256-g-n-liao/)
