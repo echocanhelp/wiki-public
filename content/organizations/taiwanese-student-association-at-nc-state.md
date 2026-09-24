@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # Taiwanese Student Association at NC State
 
@@ -21,6 +21,9 @@ The Taiwanese Student Association at NC State (NCSU TSA) is a student organizati
 ## Role in the Community
 
 - **Own directory record in the corpus:** the TAH corpus holds a dedicated work record for this organization — [[works/taiwaneseamericanhistory-org/tsa-north-carolina-state-university-raleigh-nc|TSA North Carolina State University, Raleigh, NC 北卡州立大學台灣同學會]] (2015-07-15), confirming the association's presence in the community directory lineage.
+- The corpus also holds a bibliographic record of the association's own campus newsletter: 《朴豆 – North Carolina State University 台灣同學會會訊》(published 2017-07-19, band B, bibliographic record only — full text stays in the vault), showing the 台灣同學會 issuing a campus 會訊 by 2017 — [[works/taiwaneseamericanhistory-org/north-carolina-state-university-newsletter|朴豆 會訊]].
+
+_Corpus re-grep 2026-09-24 (slice 09230500-6): works+articles hits for NCSU / North Carolina State / 北卡州立 are Our Journeys #381, the two work records above, and the works index — all now reflected on this page; the HOLD above (1970s–80s 台灣學生會 vs present-day @tsaatncsu lineage) stands._
 
 A community memoir of the North Carolina Taiwanese community ([[works/taiwaneseamericanhistory-org/our-journeys-381|北卡台灣同鄉會回憶（Our Journeys 381）]]) supplies the historical bedrock beneath today's association:
 

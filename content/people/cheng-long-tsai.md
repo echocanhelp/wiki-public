@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # Cheng Long Tsai (蔡正隆博士)
 
@@ -56,3 +56,5 @@ After his death in 1995 the community established the 蔡正隆博士紀念基�
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+_Corpus re-grep 2026-09-24 (slice 09230500-6): works+articles hits for 蔡正隆/Cheng Long Tsai return the identical set already absorbed above (Our Journeys #8 EN/ZH, #321, #106, #234, plus [[works/taiwaneseamericanhistory-org/cheng-long-tsai-fund|蔡正隆博士紀念基金會]] and [[works/taiwaneseamericanhistory-org/262-e7-87-ad-e7-81-ab-e9-97-96-e9-97-9c-e8-94-a1-e6-ad-a3-e9-9a-86-e5-8d-9a-e5-a|TAH #262《燭火闖關》]]). Verified saturated; no new facts, no conflicts introduced._
