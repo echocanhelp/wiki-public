@@ -35,6 +35,7 @@ Also appears in the corpus as ESTA Changhua activity — [[works/taiwaneseameric
 ## Corpus re-grep (2026-09-22, slice-09220800-26)
 
 - SKIP: fresh grep 北美彰化同鄉會 / Chang Hua（works+articles）— 命中僅為本頁已連結之 570/572 會刊、協會歷史、NACHA 活動、楊信獎學金、彰化女中校友會（含年刊）等頁，無新語料。
+- Re-verified 2026-09-24 (slice 09230317-25): fresh grep returned the identical hit set — all matches are work pages already wikilinked above (協會歷史, 彰化女中校友會及年刊, 570 會刊, NACHA 活動, 楊信獎學金, ESTA Changhua). SKIP: no new corpus material.
 
 ## Source Notes
 
