@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # Jeff Yang (楊致和)
 
@@ -39,7 +39,8 @@ Accomplishment
 - Held in the community record as one of the "godfathers" of Asian America: the Hudson Yang profile describes him as well-known within the Asian American community as the Wall Street Journal "Tao Jones" columnist ([[works/taiwaneseamerican-org/hudson-yang|Hudson Yang]]).
 - His own TAH Who's Who entry is held in the corpus as [[works/taiwaneseamericanhistory-org/whos-who-2266-jeff-yang|2266. Jeff Yang 楊致和]] (published 2020-05-04).
 - 2025 — Still active in the Taiwanese American literary circle: gave a Zoom talk with cousin Michelle Young for the Harvard Asian American Alumni Alliance, and appears in her memoir's group photo of Taiwanese American writers/Harvard alumni at the AWP 2025 dinner ([[works/taiwaneseamerican-org/michelle-young-the-art-spy|Michelle Young — The Art Spy]]).
-- Corpus re-check 2026-09-23 (deepen-x slice 09221200-32): fresh 'Jeff Yang' / 楊致和 greps — hits remain the five linked work pages plus harvest index; the michelle-young memoir yielded the two 2025 details above, now absorbed. No unabsorbed material remains.
+- Cited as a reference point for Taiwanese American visibility in U.S. press in the TAHS community blog: the post notes his WSJ column on Asian Americans marrying other Asian Americans more often, attributing the trend to shared cultural ground and a better image of Asians in the media ([[works/taiwaneseamerican-org/to-date-or-not-to-date|To Date or Not to Date]]).
+- Corpus re-check 2026-09-24 (deepen-x slice 09230700-11): fresh 'Jeff Yang' / 楊致和 greps — the new hit `to-date-or-not-to-date` yielded the WSJ-marriage-column citation above, now absorbed; remaining hits are the previously linked work pages plus harvest index.
 
 ## Family
 

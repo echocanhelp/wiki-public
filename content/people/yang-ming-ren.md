@@ -8,7 +8,7 @@ tags:
   - tah-whos-who
   - presbyterian
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # James Yang (楊明仁)
 
@@ -47,6 +47,7 @@ HOLD: work page 10313 lists its subject slug as `people/james-yang` (楊榮勝's
 
 - 2026-09-22 語料複核：grep（楊明仁／James Yang，works+articles）命中皆為已吸收之 TAH 記錄（#386、#387、#10313、OTA #284、Who's Who #256）與 index。SKIP-with-reason：無新可吸收事實；10313 subject-slug HOLD 維持原載。
 - 2026-09-23 語料複核（slice 09221200-29）：grep（楊明仁／James Yang，works+articles）命中集與前次完全一致（#386、#387、#10313、OTA #284、Who's Who #256、index）；無新可吸收事實 — SKIP-content；10313 subject-slug HOLD 維持原載。
+- 2026-09-24 語料複核（slice 09230700-11）：grep（楊明仁／James Yang，works+articles）命中集仍與前次完全一致；無新可吸收事實 — SKIP-content；10313 subject-slug HOLD 維持原載。
 
 ## Family
 - **Mother:** 李淑櫻
