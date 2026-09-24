@@ -49,6 +49,7 @@ last_reviewed: 2026-09-24
 
 ## From the record
 
+
 - 複核（TJJ-A09162345-19, 2026-09-24）：本 slice 文章 c9dd9fb7（Covid-19 浩劫餘生錄分類頁，2021-11-28 存檔）正文再驗證——「人生的海嘯 ◎李淑櫻」確認見於正文文章清單，subject 連結為真，無錯鏈、無虛鏈；2021-11-28 日期事實條目（含該文 wikilink）已在庫 — SKIP，無新材料。
 
 - 複核（TJJ-A09171200-7, 2026-09-24）：本 slice 文章 c48e08c7f2c3bf8d（Covid-19 浩劫餘生錄分類頁 2020-11-20 存檔）正文再驗證——「人生的海嘯 ◎李淑櫻」確認見於正文文章清單，subject 連結為真，無錯鏈、無虛鏈；2020-10-22 日期事實條目（含該文 wikilink）已在庫 — SKIP，無新材料。
@@ -73,6 +74,7 @@ last_reviewed: 2026-09-24
 - 2026-09-22 — 她即本篇圖文作者，正文並自述為 TUF 現任理事、藝展組成員——連結為真；該紀錄日期事實已見上條 [[articles/taiwanjustice-net/2024/20240724234326_root_cd2062fe6528223c|台灣之美‧亞洲之心巡迴展報導, 2017-03-14刊]]，本輪不重複。
 - 2026-09-22 — TJJ-A09220700-3 re-verify: 本篇圖文作者並自述 TUF 理事、藝展組成員，連結為真；日期事實已見上條，不重複。
 
+- 複核（TJJ-A09230400-2, 2026-09-24）：本 slice 文章 cd2062fe6528223c（台灣之美‧亞洲之心巡迴展報導(2017-03-14刊)）正文再驗證——她即本篇圖文作者、TUF理事兼藝展組成員，subject 連結為真，無錯鏈、無虛鏈；對應日期事實條目（含該文 wikilink）已在庫 — SKIP，無新材料。
 ## Sources
 - [TAH #6 encyclopedia: 6. Nami Yang 李淑櫻](https://taiwaneseamericanhistory.org/6-nami-yang/)
 - [TAH #4 encyclopedia: 4. 李淑櫻 Nami Yang](https://taiwaneseamericanhistory.org/artist4-nami-yang/)

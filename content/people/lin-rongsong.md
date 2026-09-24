@@ -334,6 +334,7 @@ Notable quotes and mentions of **林榮松** in Taiwan Justice articles:
 
 ## From the record
 
+
 - 複核（TJJ-A09230400-1, 2026-09-24）：subject link 經本 slice 文章 c62f5c50846fe267 正文再驗證為真實對應，對應 From-the-record 條目已在庫並掛鏈本檔（無錯鏈、無虛鏈）— SKIP，無新材料。
 
 - 複核（TJJ-A09171100-5, 2026-09-24）：本 slice 文章 c62f5c50846fe267（大洛杉磯台灣會館 228追思紀念大會報導）正文再驗證——林榮松以國策顧問身份致辭確認見於正文，subject 連結為真，無錯鏈、無虛鏈；2025-02-22 條目已在庫 — SKIP，無新材料。
@@ -350,6 +351,7 @@ Notable quotes and mentions of **林榮松** in Taiwan Justice articles:
 - 2017-02-17 — 以台灣會館董事長身份回台拜會二二八國家紀念館，因特展「沉冤、真相、責任」展期屆滿而索贈獲允，六十大箱文物以貨櫃運美、2月25日在洛杉磯華僑文教中心揭幕（聘余忠村博士主持海外佈展），並呼籲海外台僑不分政治立場出席228七十週年聯合紀念會；會館並計畫成立海外最完整的二二八史料館（[[articles/taiwanjustice-net/2024/20240530134421_root_23da543a315a1fa1|TJJ 轉載台灣會館會訊，2017-02-17]]）。
 - 2024-10-04 — 列名會館26周年年會晚宴公告38位董事購票聯絡人（[[articles/taiwanjustice-net/2025/20250420093345_2024大洛杉磯台灣會館第26周年年會晚宴暨募款活動11月2_2f4af86847559b66|TJJ 會館公告, 2024-10-04]]）。
 
+- 複核（TJJ-A09230400-2, 2026-09-24）：本 slice 文章 04f32b14d8cf8f12（台灣會館會訊#11(2016-12-17)）正文再驗證——本篇即其董事長報告（署名 2016-12-17），subject 連結為真，無錯鏈、無虛鏈；對應日期事實條目（含該文 wikilink）已在庫 — SKIP，無新材料。
 ## Related Pages
 
 - [[people/albert-s-lai||Dr. Albert S. Lai]]

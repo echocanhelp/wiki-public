@@ -43,6 +43,7 @@ last_reviewed: 2026-09-24
 
 ## From the record
 
+
 - 複核（TJJ-A09162345-17, 2026-09-24）：本 slice 文章 2a3226a1b19c5a46（中央社記者蕭美琴副手專稿轉載, 2023-11-20, 2023-12-08 快照）正文再驗證——「蕭美琴的父親蕭清芬從事神學教育，從美國返台後擔任台南神學院院長」確認見於正文，連結為真，無錯鏈、無虛鏈；2023-11-20 條目已在庫 — SKIP，無新材料（[[articles/taiwanjustice-net/2023/20231208130546_root_2a3226a1b19c5a46|TJJ 轉載中央社記者, 2023-11-20]]）。
 
 - 複核（TJJ-A09162345-31, 2026-09-24）：slice 文章 8216e7ca508266e9（蕭清芬牧師在美過世標籤頁）正文再驗證——「享壽86歲」訃聞頭條再確認見於正文，連結為真；對應日期事實（含該文 wikilink）已在庫 — SKIP，無新材料。
@@ -61,6 +62,7 @@ last_reviewed: 2026-09-24
 - 2026-09-22 — 本篇署名作者即本人——連結為真；該紀錄日期事實已見上條 [[articles/taiwanjustice-net/2025/20250324133829_我的女兒美琴-_-蕭清芬_9d523cc5290c997b|我的女兒美琴, 2020-07-26刊]]，本輪不重複。
 - 2026-09-22 — TJJ-A09220700-3 re-verify: 本篇署名作者即本人，連結為真；日期事實已見上條，不重複。
 
+- 複核（TJJ-A09230400-2, 2026-09-24）：本 slice 文章 9d523cc5290c997b（我的女兒美琴(2020-07-26刊)）正文再驗證——本篇署名作者即本人，subject 連結為真，無錯鏈、無虛鏈；對應日期事實條目（含該文 wikilink）已在庫 — SKIP，無新材料。
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

@@ -44,6 +44,7 @@ _No filled family fields on the TAH profile._
 
 ## From the record
 
+
 - 複核（TJJ-A09162345-17, 2026-09-24）：本 slice 三篇文章 2a3226a1b19c5a46（中央社副手專稿轉載, 2023-11-20）、63717cb2b99ce3c3（台美人台加人 p3, 2024-04-25 快照）、74a9c518e681a3de（台美人台加人 p2, 2020-06-26 快照）正文再驗證——副手搭檔專稿、「蕭美琴專訪／軟實力外交」（2020-07-12）、「辭別花蓮將駐美」與「自許為戰貓」各條確認見於正文，連結為真，無錯鏈、無虛鏈；對應日期事實條目（2023-11-20／2020-07-12／2020-05-31）均已在庫 — SKIP，無新材料（[[articles/taiwanjustice-net/2023/20231208130546_root_2a3226a1b19c5a46|中央社專稿]]／[[articles/taiwanjustice-net/2024/20240425074022_root_63717cb2b99ce3c3|台美人台加人p3]]／[[articles/taiwanjustice-net/2020/20200626131727_category_taiwaneseamerican_page_2_74a9c518e681a3de|台美人台加人p2]]）。
 - 覆核（TJJ-A09162345-18, 2026-09-24）：本 slice 文章 台灣頭條p3 11761bda、台美人台加人p354 6f2b431c 正文再驗證——subject 連結為真實提及，無錯鏈、無虛鏈；對應日期事實（含該文 wikilink）已在庫 — SKIP，已飽和。
 
@@ -147,6 +148,7 @@ _No filled family fields on the TAH profile._
 - Re-verify 2026-09-23 (TJJ-A09221200-7): link-check against slice article f6213c1937fa956d body — 駐美代表蕭美琴於228開幕紀念會隔洋致詞（與賴清德副總統、童振源委員長並列）確認見於正文，連結為真；2021-02-28 日期事實已在庫，無新材料。
 - 覆核（TJJ-A09171200-9, 2026-09-24）：slice 09171200-9 四篇與 TJJ-A09170400-17 同文（北市議員缺額 93c0627d、全美會228 f6213c19、長青教室tag 2777c888、會館tag p13 ced69523）正文再驗證 — 本頁條目確認見於正文，連結為真；日期事實已在庫 — SKIP，無新材料。
 
+- 複核（TJJ-A09230400-2, 2026-09-24）：本 slice 文章 9d523cc5290c997b（我的女兒美琴(2020-07-26刊)）正文再驗證——本篇書寫對象（父親筆下的女兒）即本人，subject 連結為真，無錯鏈、無虛鏈；對應日期事實條目（含該文 wikilink）已在庫 — SKIP，無新材料。
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

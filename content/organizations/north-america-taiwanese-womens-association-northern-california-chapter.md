@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # North America Taiwanese Women’s Association – Northern California Chapter (北美洲台灣婦女會北加分會)
 

@@ -75,6 +75,7 @@ Facts already present in vault pages citing Cho-Liang Lin (no new sources):
 
 ## From the record
 
+
 - 複核（TJJ-A09162345-15 / t_0c0e3cd1, 2026-09-24）：本 slice 文章 99aaa4abcb78ff6d（台美人台加人分類存檔頁, 2024-04-25 快照） 正文再驗證——subject 連結為真實提及，無錯鏈、無虛鏈；對應日期事實條目（含該文 wikilink）已在庫 — SKIP，已飽和。
 
 - 複核（TJJ-A09162345-31, 2026-09-24）：slice 文章 a244776e9eb57979（海頓音樂欣賞課報導）正文再驗證——「第一位進入國際樂壇的小提琴家林昭亮」開場記述再確認見於正文，連結為真；對應日期事實（含該文 wikilink）已在庫 — SKIP，無新材料。
@@ -92,6 +93,7 @@ Facts already present in vault pages citing Cho-Liang Lin (no new sources):
 - 2026-09-22 — 正文點名其與 NSO 於 Segerstrom Hall 演出（會館共同主辦）——連結為真；該紀錄日期事實已見上條 [[articles/taiwanjustice-net/2024/20240721101942_root_04f32b14d8cf8f12|台灣會館會訊 #11, 2016-12-17]]，本輪不重複。
 - 2026-09-22 — TJJ-A09220700-3 re-verify: 正文點名其與 NSO 於 Segerstrom Hall 演出（會館共同主辦），連結為真；日期事實已見上條，不重複。
 
+- 複核（TJJ-A09230400-2, 2026-09-24）：本 slice 文章 04f32b14d8cf8f12（台灣會館會訊#11(2016-12-17)）正文再驗證——正文點名其與 NSO 於 Segerstrom Hall 演出（會館共同主辦），subject 連結為真，無錯鏈、無虛鏈；對應日期事實條目（含該文 wikilink）已在庫 — SKIP，無新材料。
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

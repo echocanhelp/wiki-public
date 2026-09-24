@@ -46,6 +46,7 @@ _No filled family fields on the TAH profile._
 
 ## From the record
 
+
 - 複核（TJJ-A09162345-19, 2026-09-24）：本 slice 文章 c9dd9fb7（Covid-19 浩劫餘生錄分類頁，2021-11-28 存檔）正文再驗證——「天已轉涼 ◎ 賴慧娜」確認見於正文文章清單，subject 連結為真，無錯鏈、無虛鏈；2021-11-28 日期事實條目（含該文 wikilink）已在庫 — SKIP，無新材料。
 
 - 複核（TJJ-A09171200-7, 2026-09-24）：本 slice 文章 c48e08c7f2c3bf8d（Covid-19 浩劫餘生錄分類頁 2020-11-20 存檔）正文再驗證——「建構疫後新世界 ◎ 賴慧娜」「天已轉涼 ◎ 賴慧娜」確認見於正文文章清單，subject 連結為真，無錯鏈、無虛鏈；2020-10-22／10-24 日期事實條目（含該文 wikilink）已在庫 — SKIP，無新材料。
@@ -80,6 +81,7 @@ _No filled family fields on the TAH profile._
 - 2026-09-22 — 正文點名其負責 228 七十週年系列——連結為真；該紀錄日期事實已見上條 [[articles/taiwanjustice-net/2024/20240721101942_root_04f32b14d8cf8f12|台灣會館會訊 #11, 2016-12-17]]，本輪不重複。
 - 2026-09-22 — TJJ-A09220700-3 re-verify: 正文點名其負責 228 七十週年系列，連結為真；日期事實已見上條，不重複。
 
+- 複核（TJJ-A09230400-2, 2026-09-24）：本 slice 文章 04f32b14d8cf8f12（台灣會館會訊#11(2016-12-17)）正文再驗證——正文點名其負責 228 七十週年系列，subject 連結為真，無錯鏈、無虛鏈；對應日期事實條目（含該文 wikilink）已在庫 — SKIP，無新材料。
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

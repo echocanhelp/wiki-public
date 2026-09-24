@@ -45,6 +45,7 @@ _No filled family fields on the TAH profile._
 
 ## From the record
 
+
 - 複核（TJJ-A09230400-1, 2026-09-24）：subject link 經本 slice 文章 2c9cb76838702dd7 正文再驗證為真實對應，對應 From-the-record 條目已在庫並掛鏈本檔（無錯鏈、無虛鏈）— SKIP，無新材料。
 
 - 複核（TJJ-A09170400-5, 2026-09-23）：本 slice 文章 2c9cb76838702dd7 正文再驗證——林希明以 FAPA 副會長身分受邀演講確認見於正文，連結為真；2017-07-24 條目已在庫 — SKIP，無新材料。
@@ -56,6 +57,7 @@ _No filled family fields on the TAH profile._
 - 2026-09-23 — deepen-x 09220900-30 re-verify: corpus re-grep (林希明 / Hsi-Min Lin) hit set unchanged — only the absorbed TJJ column, its Wayback copy, TAH #1314, and index listings. SKIP: page saturated.
 - 2026-09-24 — deepen-x 09230400-20 re-verify: re-grep hit set unchanged (TJJ column + Wayback copy, TAH #1314, index). SKIP: page saturated.
 
+- 複核（TJJ-A09230400-2, 2026-09-24）：本 slice 文章 3260cd0bdf2f84d7（海台青與黑客松(2017-07-24刊)）正文再驗證——正文點名其以 FAPA 副會長身份演講，subject 連結為真，無錯鏈、無虛鏈；對應日期事實條目（含該文 wikilink）已在庫 — SKIP，無新材料。
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

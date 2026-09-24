@@ -31,6 +31,7 @@ The Global Taiwan Institute (GTI) is a think tank dedicated to strengthening US-
 
 ## From the record
 
+
 - 複核（TJJ-A09230400-1, 2026-09-24）：subject link 經本 slice 文章 2c9cb76838702dd7 正文再驗證為真實對應，對應 From-the-record 條目已在庫並掛鏈本檔（無錯鏈、無虛鏈）— SKIP，無新材料。
 
 - 複核（TJJ-A09170400-5, 2026-09-23）：本 slice 文章 2c9cb76838702dd7 正文再驗證——GTI 執行長 Russell Hsiao 受邀演講確認見於正文，連結為真；2017-07-24 條目（已掛本檔 2021 快照 wikilink）已在庫 — SKIP，無新材料。
@@ -47,6 +48,7 @@ The Global Taiwan Institute (GTI) is a think tank dedicated to strengthening US-
 - 2026-09-22 — 正文以其執行長 Russell Hsiao 受邀演講點名 GTI——連結為真；該紀錄日期事實已見上條 [[articles/taiwanjustice-net/2024/20240523010214_root_3260cd0bdf2f84d7|海台青與黑客松, 2017-07-24刊]]，本輪不重複。
 - 2026-09-22 — TJJ-A09220700-3 re-verify: 執行長 Russell Hsiao 受邀演講點名 GTI，連結為真；日期事實已見上條，不重複。
 
+- 複核（TJJ-A09230400-2, 2026-09-24）：本 slice 文章 3260cd0bdf2f84d7（海台青與黑客松(2017-07-24刊)）正文再驗證——正文以其執行長 Russell Hsiao 受邀演講點名 GTI，subject 連結為真，無錯鏈、無虛鏈；對應日期事實條目（含該文 wikilink）已在庫 — SKIP，無新材料。
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
