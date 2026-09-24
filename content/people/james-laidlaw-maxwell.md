@@ -69,6 +69,8 @@ Laijohn TOC v2 — bodies not archived:
 
 ## From the record
 
+- 複核（TJJ-A09221500-11, 2026-09-24）：本 slice 文章 e041055e（台灣演義分類頁 page 5）正文清單再驗證——「台灣演義 20210307 開台西醫 世紀傳愛-馬雅各」條目確認見於清單，subject link 為真（無錯鏈、無虛鏈）；2021-03-07 條目（已掛該文 wikilink）已在庫 — SKIP，無新材料。
+
 - 2021-03-07 — 民視《台灣演義》「開台西醫 世紀傳愛—馬雅各」專集介紹其開台醫療宣教事蹟，該集收錄於台灣公義報「台灣演義」分類存檔頁（[[articles/taiwanjustice-net/2025/20250514014154_category_taiwan_history_page_5_e041055e6555c89e|TJJ 台灣演義存檔頁5, 2025-05-14 存檔]]）。
 
 ## Related Pages
