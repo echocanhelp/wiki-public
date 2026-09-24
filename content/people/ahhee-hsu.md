@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # Ahhee Hsu (許丕龍)
 
@@ -53,6 +53,8 @@ Accomplishment
 
 
 ## From the record
+
+- 複核（TJJ-A09170400-16, 2026-09-24）：subject link 對照 slice 文章 2fa1c26a7ca674e2（台美人台加人 page 359, 2024-07-18 快照）正文再驗證——父女同台傳陽雜誌演唱會條目確認見於正文，連結為真；日期事實（已含該文 wikilink）已在庫 — SKIP，無新材料。
 
 - 複核（TJJ-A09170400-15, 2026-09-23）：subject link 對照 slice 文章 98a26ee3b1ad82ac（台美人台加人 page 356）正文再驗證——父女同台演唱會條目確認見於正文，連結為真；2011-10-30 條目已在庫 — SKIP，無新材料。
 

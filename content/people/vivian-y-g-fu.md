@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # Vivian Y.G. Fu (林郁子)
 
@@ -51,6 +51,8 @@ last_reviewed: 2026-09-23
 
 
 ## From the record
+
+- 複核（TJJ-A09170400-16, 2026-09-24）：subject link 對照 slice 文章 49d912cc449367f0（長青教室 tag, 2024-06-21 快照）正文再驗證——退休生活障礙講座條目確認見於正文，連結為真；日期事實（已含該文 wikilink）已在庫 — SKIP，無新材料。
 
 - 2018-02-28 — 林郁子女士應長青教室邀請主講「漫談美滿的退休生活中的種種障礙（財經及身心的健康）及防護措施」，見TJJ「長青教室」標籤存檔頁（2018-03-02 刊登）（[[articles/taiwanjustice-net/2024/20240621184031_root_49d912cc449367f0|TJJ tag 長青教室存檔, 2024-06-21 快照]]）。
 - Re-verify 2026-09-23 (TJJ-A09221200-7): link-check against slice article 49d912cc449367f0 body —「林郁子女士 漫談美滿的退休生活中的種種障礙…◎長青教室 2018-02-28」確認見於正文，連結為真；日期事實已在庫，兩項 HOLD 不變，無新材料。

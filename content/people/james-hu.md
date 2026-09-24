@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # James Hu (胡宏仁)
 
@@ -53,6 +53,8 @@ HOLD: 「Liyen James Hu」在 [[works/taiwaneseamerican-org/lunchbox-anne-hu-rel
 2026-09-23 re-check (DEEPEN-X slice 09221200-22): corpus re-grep hit-set unchanged (887, ourjourneys107「重要電腦技巧 胡宏仁教授」課程名單, index entity-link 目錄, plus the two held lunchbox/James Huang false-identity hits and the TJJ 黃瑞雅 page) — verified-saturated, nothing new absorbable this pass.
 
 ## From the record
+
+- 複核（TJJ-A09170400-16, 2026-09-24）：subject link 對照 slice 文章 49d912cc449367f0（長青教室 tag, 2024-06-21 快照）正文再驗證——食用好油講座條目確認見於正文，連結為真；日期事實（已含該文 wikilink）已在庫 — SKIP，無新材料。
 
 - 2017-11-29 — 應邀於長青教室演講「建造健康奇蹟的食用好油」，聽眾心得報告刊於台灣公義報「台美人台加人」分類（2017-12-03 刊登）（[[articles/taiwanjustice-net/2024/20240719125457_root_c691e327b9133c1a|TJJ tag 心得報告, 2024-07-19 存檔]]）；同一講座亦見TJJ「長青教室」標籤存檔頁（[[articles/taiwanjustice-net/2024/20240621184031_root_49d912cc449367f0|2024-06-21 快照]]）。
 - Re-verify 2026-09-23 (TJJ-A09221200-7): link-check against slice article 49d912cc449367f0 body —「長青教室心得報告-建造健康奇蹟的食用好油 ◎ 講師 胡宏仁教授 2017-11-29」確認見於正文，連結為真；日期事實已在庫，HOLD 不變，無新材料。

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # Lisa Wang
 
@@ -48,6 +48,8 @@ _No filled family fields on the TAH profile._
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 ## From the record
+
+- 複核（TJJ-A09170400-16, 2026-09-24）：subject link 對照 slice 文章 2e141df6a5071110（蔬果園藝交流在美洲 tag p2, 2024-05-22 快照）正文再驗證——玫瑰花養植講座條目確認見於正文，連結為真；日期事實（已含該文 wikilink）已在庫 — SKIP，無新材料。
 
 - Re-verify 2026-09-22 (TJJ-A09220700-9): subject-link check against slice article bb7f9d54ae93bbef（園藝分類頁）— 王麗貝主講講座條目（2016-09-25、2017-07-23）確認見於正文，連結為真（該文 Subjects 的 .md 後綴連結已修正為慣例格式）；無新材料。
 

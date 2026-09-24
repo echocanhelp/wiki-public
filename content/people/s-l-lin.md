@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # S. L. Lin (林幸隆)
 
@@ -37,6 +37,8 @@ last_reviewed: 2026-09-23
 
 
 ## From the record
+
+- 複核（TJJ-A09170400-16, 2026-09-24）：subject link 對照 slice 文章 2e141df6a5071110（蔬果園藝交流在美洲 tag p2, 2024-05-22 快照）正文再驗證——田土伯果樹培育密訣條目確認見於正文，連結為真；日期事實（已含該文 wikilink）已在庫 — SKIP，無新材料。
 
 - 複核（TJJ-A09221400-1, 2026-09-23）：本 slice 兩篇分類存檔 f454eda084b7ca99（園藝分類）與 8bf4798dd2771f38（大洛杉磯台灣會館分類）正文再驗證——「大洛杉磯台灣會館園藝講座-果樹培育密訣-by田土伯(林幸隆)…-08282016」均確認見於正文，subject 連結為真；2016-08-28 條目（已含兩快照連結）已在庫，無新材料。
 

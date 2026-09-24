@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # Bang H. Hwang (黃邦雄)
 
@@ -61,6 +61,8 @@ _No filled family fields on the TAH profile._
 
 
 ## From the record
+
+- 複核（TJJ-A09170400-16, 2026-09-24）：subject link 對照 slice 文章 49d912cc449367f0（長青教室 tag, 2024-06-21 快照）正文再驗證——卵巢癌講座條目確認見於正文，連結為真；日期事實（已含該文 wikilink）已在庫 — SKIP，無新材料。
 
 - 複核（TJJ-A09221500-4, 2026-09-23）：本 slice 文章 89e6683c93156205（台美人台加人 page 356）正文再驗證——「長青教室心得報告-黃金年華膀胱的呼聲 ◎ 黃邦雄醫師 2018-11-02」條目確認見於正文，subject 連結為真；2018-11-02 條目已在庫，無新材料。
 

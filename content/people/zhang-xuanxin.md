@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # Zhang Xuanxin (張宣信)
 
@@ -32,6 +32,8 @@ Education listed: 台灣神學院 (Taiwan Theological College).
 In 2024/09 he appears in TAH's record of the Carnegie Hero Fund commission ceremony alongside John Cheng.
 
 ## From the record
+
+- 複核（TJJ-A09170400-16, 2026-09-24）：subject link 對照 slice 文章 131a1c8ea05f85ea（台美人台加人 page 360, 2024-07-15 快照）正文再驗證——VOA專訪張宣信牧師條目確認見於正文，連結為真；日期事實（已含該文 wikilink）已在庫 — SKIP，無新材料。
 
 - 複核（TJJ-A09170400-5, 2026-09-23）：本 slice 文章 117bdbbd9b362236（LA Times/CNA 綜合槍擊案報導）正文再驗證——張宣信以代理講道前主任牧師身分、以椅子撲打兇嫌之敘述確認見於正文，subject 連結為真，無錯鏈、無虛鏈；2022-05-16 條目（已掛本檔 wikilink）已在庫 — SKIP，無新材料。
 - 複核（TJJ-A09162345-27, 2026-09-23）：本 slice 文章 8c205697（南加州教會槍殺案駐處查證報導）之 subject link 經正文再驗證為真實對應（「牧師張宣信把握時機拿椅子丟向槍手頭部」），2022-05-16 事實條目已在庫（無錯鏈、無虛鏈）— SKIP，無新材料。
