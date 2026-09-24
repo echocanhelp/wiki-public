@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-24
 ---
 # Y. S. Lee (李延禧)
 
@@ -46,6 +46,8 @@ Accomplishment
 - HOLD: conflict — TAH 傳記表格列 Columbia M.A. 為 1911，corpus 文章敘事則稱其 1915 年取得哥倫比亞經濟學碩士後返台；兩說年代未併合。
 - Corpus re-grep (李延禧, content/works + content/articles, 2026-09-22, slice 09211400-11): hit set identical to the records already absorbed above（TAH #1850、twjustice 大稻埕文 2025/2021 兩版、harvest index）— SKIP, page saturated.
 - Corpus re-grep (slice 09220800-24, 2026-09-22): hit set identical（TAH #1850、twjustice 大稻埕文 2025/2021 兩版、works/index）— verified saturated; Columbia M.A. 1911 vs 1915 HOLD stands.
+
+- Corpus re-grep (slice 09230317-22, 2026-09-24): hit set identical（TAH #1850、twjustice 大稻埕文 2025/2021 兩版、works/index）— verified saturated; Columbia M.A. 1911 vs 1915 HOLD stands. SKIP.
 
 ## Sources
 - [TAH #1850 encyclopedia: 1850. Y. S. Lee 李延禧](https://taiwaneseamericanhistory.org/whos-who-1850-y-s-lee/)

@@ -6,7 +6,7 @@ tags:
   - Taiwanese-American
   - Taiwan-Center-group-member
 verification_status: published
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-24
 ---
 # Taiwanese American Aeronautics and Space Association
 
@@ -26,6 +26,8 @@ last_reviewed: 2026-09-22
 - The 1965-immigration-law founding context is independently corroborated in 楊遠薰's band-A memoir of the Taiwanese migration wave — [[works/taiwaneseamericanhistory-org/ourjourneys236|236. 台灣人的移美潮 / 楊遠薰 /08/2016]] — which records that the 1965 law gave Taiwanese STEM doctoral students a path to legal residence and entry into U.S. government, university, national-lab, and corporate jobs: the same professional pool from which TASSA formed.
 - Re-grep 2026-09-22 (slice 09211400-11): corpus hits (record 2, 383, ourjourneys236, 斯人已逝 memoir) all absorbed; no new material, no conflicts.
 - Re-grep 2026-09-22 (slice 09220800-24): fresh ZH+EN+TASSA grep — hits are record 2, works/index, and the 斯人已逝 鄭寶鼎 memoir; all already absorbed above. Verified saturated; nothing absorbable, no conflicts.
+
+- Re-grep 2026-09-24 (slice 09230317-22): fresh ZH+EN+TASSA grep across content/works + content/articles — hit set identical to the records already absorbed above (record 2, 383, ourjourneys236, 斯人已逝 memoir, works/index); verified saturated, nothing new, no conflicts. SKIP.
 
 ## Source Notes
 
