@@ -39,6 +39,7 @@ _No filled family fields on the TAH profile._
 - **TACL 25th anniversary honoree (2010):** Honored alongside civil-rights lawyer Karin Wang at the Taiwanese American Citizens League's 25th-birthday gala in downtown LA (300+ attendees), recounted in [[works/taiwaneseamerican-org/reflecting-on-the-taiwanese-american-citizens-leagues-25-year-history-and-legacy|TACL's 25-Year History and Legacy]]; the memoir situates him in the TACL/TAP movement ecosystem (Teddy Liaw, Karen Chang, Connie Hwang also named organizers).
 - **Tahs profiles:** Recorded in [[works/taiwaneseamericanhistory-org/whos-who-2189-david-chiu|2189. David Chiu 邱信福]], [[works/taiwaneseamericanhistory-org/ota-230|230. David Chiu 邱信福]], and [[works/taiwaneseamericanhistory-org/david-chiu|David Chiu 邱信福 in California]].
 - Re-check (deepen-x 2026-09-21): corpus re-grep (邱信福 / David Chiu, works+articles) returns only the linked records above plus the harvest index — no further memoir material; section saturated.
+- 複核（deepen-x 2026-09-24 slice 09230400-5）：fresh re-grep 命中集合不變（whos-who-2189、ota-230、david-chiu、meet-david-chiu、TACL 25th 回憶錄 + index），全數已 wikilink 吸收 — verified-saturated。
 
 ## Sources
 - [TAH #2189 encyclopedia: 2189.  David Chiu 邱信福](https://taiwaneseamericanhistory.org/whos-who-2189-david-chiu/)

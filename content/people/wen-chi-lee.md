@@ -52,7 +52,7 @@ last_reviewed: 2026-09-24
 - Encyclopedia record: [[works/taiwaneseamericanhistory-org/138-wen-chi-lee|TAH #138 Wen Chi Lee 李文枝]].
 - Her husband 陳國洸 wrote a memorial essay after her passing, [[works/taiwaneseamericanhistory-org/80-e9-99-b3-e5-9c-8b-e6-b4-b8-e5-bc-94-e5-bf-b5-e4-ba-a1-e5-a6-bb-ef-bc-9a-e6-80|弔念亡妻李文枝：思念妳 / 陳國洸]] (2014-09-05), corroborating the Family field.
 
-- Re-verified 2026-09-21, 2026-09-22, 2026-09-23 (slice 09220900-24): corpus re-grep ZH+EN surfaced four further byline records — 411 律動的建築空間 (2009), 412 台美兩地情 (2005), mystories501 音樂緣 (2017), #88 1995 台美基金會家庭音樂會 — now linked above. No narrative memoir mentions of her beyond the husband's memorial essay. Saturated after this pass.
+- Re-verified 2026-09-21, 2026-09-22, 2026-09-23, 2026-09-24 (slice 09230400-5): re-grep ZH+EN hit set identical (12 files: own bylines #20/#138/#411/#412/#413/#88/#80/publication1279/mystories437/mystories501/whos144 + index) — all linked above. Verified-saturated.
 
 ## Sources
 - [TAH #138 encyclopedia: 138. Wen Chi Lee 李文枝](https://taiwaneseamericanhistory.org/138-wen-chi-lee/)
