@@ -38,6 +38,7 @@ last_reviewed: 2026-09-24
 - Encyclopedia entries: [[works/taiwaneseamericanhistory-org/84-erhping-tsai|84. Erh-Ping Tsai 蔡爾平]] (2018) and [[works/taiwaneseamericanhistory-org/whos-who-1511-erh-ping-tsai|1511. Erh-Ping Tsai 蔡爾平]] (2017-02-15).
 - Corpus re-check 2026-09-22 (deepen-x slice 09210700-32): the four own-name records (videos53/videos54/84/1511) plus the 一步一腳印 video index linked above are the complete corpus footprint — SKIP-deepen: no additional community facts in corpus. Re-verified same day (slice 09220400-28): fresh grep 蔡爾平/Erh-Ping Tsai returns only the records already linked above.
 - Corpus re-check 2026-09-23 (slice 09221300-18): fresh grep 蔡爾平 hits remain videos53/videos54/84/1511 + works index + the 一步一腳印 article index — all already linked above. SKIP-content (verified-saturated): no new community facts, no conflicts to HOLD.
+- Corpus re-check 2026-09-24 (slice 09230800-7): fresh grep 蔡爾平/Erh-Ping Tsai of works/ + articles/ returns the same hit set (videos53/videos54/84/1511, works index, 一步一腳印 article index) — all already linked above. Verified-saturated; SKIP-content.
 
 ### Timeline
 - 2017-02-15 — recorded in the TAH Foundation encyclopedia (#1511).

@@ -32,6 +32,7 @@ last_reviewed: 2026-09-24
 - **2021-04 — 太魯閣號受難家屬賑災募款**：與大洛杉磯台灣會館等洛杉磯台美社團共同发起募款（約台幣150萬元）[[articles/taiwanjustice-net/2022/20220929025100_2021_04_16_大洛杉磯台灣會館給太魯閣號受難家屬的慰問函_8dc770f6b801f241||太魯閣號慰問函]]。
 - HOLD: 名稱衝突 — 英文「Joint Chinese University…」對應「中國大專院校」，本頁及 Taiwan Center 名單登為「台灣大專聯合校友會」；且 2021 WHA 聲明同時並列「南加州中國大專院校聯合校友會」與「南加州台灣大專聯合校友會」兩個團體，是否同一組織待查，不逕行合併。
 - 2026-09-23（slice 09221300-17）再grep（台灣大專聯合校友會／中國大專院校聯合校友會／Joint Chinese University）：命中仍為已連結之 concerts90、WHA 聲明（2021 + 2025 存檔）、太魯閣號慰問函；verified-saturated, SKIP.
+- 2026-09-24（slice 09230800-6）再grep（台灣大專聯合校友會／中國大專院校聯合校友會／Joint Chinese University）：命中仍為已連結之 [[works/taiwaneseamericanhistory-org/concerts90||concerts90]]、WHA 聯合聲明（2021 原文＋2025 存檔，兩校名並列已記於上方 HOLD）、太魯閣號慰問函。SKIP-content（verified-saturated）：無可吸收新事實，名稱衝突維持 HOLD 不逕行合併。
 
 ## Related Pages
 

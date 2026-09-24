@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # Helen Loo (翁進治)
 
@@ -64,3 +64,4 @@ Accomplishment
 
 - 2026-09-22 deepen-x slice 09220500-20: re-verified — identical hit set (own TAH #1733, Our Journeys #260 本人執筆, TJJ 楊遠薰報導 2017-07-09 + 2024-05 存檔副本) already absorbed above; nothing new absorbable.
 - 2026-09-23 deepen-x slice 09221300-26: re-verified saturated — fresh grep against works/ + articles/ returns the same 5 files, all already wikilinked above (TAH #1733, OJ #260, index, TJJ 報導 ×2); no new absorbable facts.
+- 2026-09-24 deepen-x slice 09230800-5: re-verified saturated — fresh grep (翁進治/Helen Loo) returns the identical 5-file hit set, all already wikilinked and absorbed above; SKIP, nothing new absorbable, no conflicts to HOLD.
