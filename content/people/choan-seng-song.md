@@ -105,6 +105,8 @@ Use the shared intake process at Echopedia Community Contributions Hub and inclu
 
 ## From the record
 
+- 複核（TJJ-A09162345-31, 2026-09-24）：slice 文章 a244776e9eb57979（海頓音樂欣賞課報導）正文再驗證——「宋泉盛牧師千金宋如音」記述再確認見於正文，連結為真；對應日期事實（含該文 wikilink）已在庫 — SKIP，無新材料。
+
 
 - 複核（TJJ-A09171000-1, 2026-09-24）：本 slice 文章 b4e27e98036e15d0（海頓音樂欣賞課報導, 2016-06-06 刊）正文再驗證——「宋泉盛牧師千金」宋如音演出之記述確認見於正文，subject 連結為真，無錯鏈、無虛鏈；對應日期事實已在庫，無新材料。
 - 2016-05-08 — 大洛杉磯台灣會館台灣學校古典音樂欣賞課「台灣人音樂家」專場介紹「宋泉盛牧師千金」宋如音女士演奏 Bartók 作品 —— [[articles/taiwanjustice-net/2024/20240522054349_root_b4e27e98036e15d0|TJJ，2016-06-06 刊]]。
