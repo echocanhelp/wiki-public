@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-24
 ---
 # Jean Cheng (鄭如珍)
 
@@ -39,6 +39,7 @@ _No filled family fields on the TAH profile._
 - Worked ~7 years with California Newsreel on 「RACE – The Power of an Illusion」「What's Race Got to Do with It?」 and the companion site for the PBS series 「Unnatural Causes」 (launched Winter 2008).
 - Donor to UCSD Taiwan Studies Program: listed among year-end 2022 donors ("Bob and Jean Cheng").
 - Corpus records: [[works/taiwaneseamerican-org/taiwanese-american-film|TAH film record: Han Chee (Sweet Potato)]] · [[works/taiwaneseamericanhistory-org/our-journeys-384|UCSD Taiwan Studies year-end message 12/2022]] · [[works/taiwaneseamericanhistory-org/283-jean-cheng-e9-84-ad-e5-a6-82-e7-8f-8d201502|TAH Who's Who encyclopedia entry #283]] (bio text matches existing section; no new facts)
+- Re-verified 2026-09-24 (deepen-x slice 09230317-27): fresh grep (鄭如珍 / Jean Cheng) returns only the three records linked above plus the works index — verified-saturated, no new material.
 
 ## Timeline
 - 1993 — First film「Across a Paper Ocean」premiered on the US festival circuit

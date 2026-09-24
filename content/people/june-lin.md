@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-24
 ---
 # June Lin (林倢)
 
@@ -37,6 +37,8 @@ _No filled family fields on the TAH profile._
 - Her own TAH Who's Who encyclopedia entry is also a corpus record ([[works/taiwaneseamericanhistory-org/whos-who-1925-june-lin|TAH #1925]]) and corroborates the tah-tables roles above (李登輝基金會研究員、蘇治芬立委助理、FAPA Policy Fellow).
 - Signed the 2021 community statement [[works/taiwaneseamerican-org/pew-research-center-taiwanese-american-statement|Response to Pew Research Reports Hiding Taiwanese Identity]] (2021-05-01) listed as "June Lin, Formosan Association for Public Affairs" — her advocacy role in the identity-classification statement, corroborating the FAPA Policy Fellow record.
 - Consistent with the FAPA Policy Fellow role, sister FAPA chapters appear in the corpus-adjacent org pages ([[organizations/fapa-los-angeles|FAPA Los Angeles]], [[organizations/fapa-orange-county|FAPA Orange County]]).
+
+^- Corpus re-check 2026-09-24: fresh ZH+EN grep against works/articles returned only the already-absorbed records above plus substring false matches (place names like Rowland Heights, month words like "June line-up", the works index) — verified-saturated, nothing new absorbable.
 
 ## Sources
 - [TAH #1925 encyclopedia: 1925. June Lin 林倢](https://taiwaneseamericanhistory.org/whos-who-1925-june-lin/)

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # Dr. David Tsay (蔡丁財博士)
 
@@ -60,3 +60,4 @@ last_reviewed: 2026-09-23
 複核（deepen-x 2026-09-21）：corpus re-grep（蔡丁財 / David Tsay，works+articles）命中集合不變（ourjourneys69/-eng、ourjourneys233/-eng、whoswho2113、whos-who-2160、86-dr-david-tsay、index）— 全數已吸收，verified-saturated，無新增社群材料。
 複核（deepen-x 2026-09-22, slice 09211500-8）：corpus re-grep 命中集合不變，verified-saturated，無新增社群材料。
 複核（deepen-x 2026-09-23, slice 09220900-7）：corpus re-grep（蔡丁財 / David Tsay，works+articles）新增命中 pew-research-center-taiwanese-american-statement（TAANJ 連署人，地理不符，記 HOLD 不併入）；其餘命中集合不變（ourjourneys69/-eng、ourjourneys233/-eng、whoswho2113、whos-who-2160、86-dr-david-tsay、index），已全數吸收。
+- 複核 2026-09-24 (DEEPEN-X slice 09230400-2): fresh ZH+EN corpus re-grep (content/works content/articles) hit set identical to prior check; all hits already linked on this page; no new memoir or club material absorbable. verified-saturated.

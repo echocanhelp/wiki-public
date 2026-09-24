@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-24
 ---
 # Prof. Hsing-Lih Chou (周興立教授)
 
@@ -38,6 +38,8 @@ _No filled family fields on the TAH profile._
 - Held in the TAH story corpus as Who's Who encyclopedia entry #1933, published 2017-11-06: [[works/taiwaneseamericanhistory-org/whos-who-1933-hsing-lih-chou|1933. Prof. Hsing-Lih Chou 周興立教授]].
 - Community record: as founder/president of 立人學苑 (New York Institute of Culture and the Arts, 1986–) he built a long-running Taiwanese American adult-education institution in NYC, alongside adjunct posts at CUNY and Fordham — the corpus entry ties him to the T.A. Archives (台美史料中心) movement-record network.
 - Corpus re-checks 2026-09-18, 09-20, 09-21: no corpus text beyond the own-name bibliographic record [[works/taiwaneseamericanhistory-org/whos-who-1933-hsing-lih-chou|#1933]]; 立人學苑 appears nowhere else in works/articles, so nothing further absorbable (SKIP-deepen: no independent community-record facts in corpus hits).
+
+^- Corpus re-check 2026-09-24: fresh ZH+EN grep against works/articles returned only the already-absorbed records above plus substring false matches (place names like Rowland Heights, month words like "June line-up", the works index) — verified-saturated, nothing new absorbable.
 
 ## Sources
 - [TAH #1933 encyclopedia: 1933. Prof. Hsing-Lih Chou 周興立教授](https://taiwaneseamericanhistory.org/whos-who-1933-hsing-lih-chou/)

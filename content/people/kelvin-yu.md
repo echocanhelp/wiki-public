@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # Kelvin Yu (游朝敏)
 
@@ -57,3 +57,4 @@ _No filled family fields on the TAH profile._
 - The 2020-11-19 TJJ note's 《開心漢堡店》 Emmy claim matches the corpus's 2014 Bob's Burgers Emmy win — reconciled, no conflict.
 - Produced the Disney+ adaptation of *American Born Chinese* (per corpus feature, 2023-05-24): recorded as a Taiwanese American producer on the show and **former TAF camper (Taiwanese American Foundation)** — tying his media career back to the community pipeline; the first episode was co-written by Alan Yang, Kelvin Yu, and his brother Charles Yu, and dedicated in memory of their grandmother Betty Yu — [[works/taiwaneseamerican-org/american-born-chinese-disney|The Roots of Disney's "American Born Chinese"]], 2023-05-24.
 - Community-education note from the same record: the Betty L. Yu and Jin C. Yu Creative Writing Prize (established 2021 by Charles Yu) honors Betty Lin Yu and Jin-Chyuan Yu's service to the TA community — TACL LID Youth Camp (SoCal), co-founding the South Bay Taiwanese-American School (recorded as the first U.S. school specifically for Taiwanese-language instruction), NATEA-SC, and support for FAPA/NATWA/TAA.
+- 複核 2026-09-24 (DEEPEN-X slice 09230400-2): fresh ZH+EN corpus re-grep (content/works content/articles) hit set identical to prior check; all hits already linked on this page; no new memoir or club material absorbable. verified-saturated.

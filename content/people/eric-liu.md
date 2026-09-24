@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-24
 ---
 # Eric Liu (劉柏川)
 
@@ -47,6 +47,8 @@ _No filled family fields on the TAH profile._
 - Eric Liu 的著作被台美人第二世代引用來討論身分認同：[[works/taiwaneseamerican-org/e2-80-9cwhat-are-you-e2-80-9d-thoughts-on-taiwanese-american-identity|"What are you?" Thoughts on Taiwanese American Identity]] 一文引《The Accidental Asian: Notes of a Native Speaker》，論「Asian American」身分是因應歧視經驗而被建構的防衛性範疇，並以此對照「Taiwanese American」身分的可能走向。
 - Charis Chu 的散文 [[works/taiwaneseamerican-org/on-stubborn-roots-creative-nonfiction-by-charis-chu|On Stubborn Roots]] 引用 Liu 名句 "The forgetting is relentless." 描寫二代與母土的記憶斷裂。
 - TAH 基金會名人錄條目：[[works/taiwaneseamericanhistory-org/179-eric-liu-e5-8a-89-e6-9f-8f-e5-b7-9d|179. Eric Liu 劉柏川]]。
+
+^- Corpus re-check 2026-09-24: fresh ZH+EN grep against works/articles returned only the already-absorbed records above plus substring false matches (place names like Rowland Heights, month words like "June line-up", the works index) — verified-saturated, nothing new absorbable.
 
 ## Sources
 - [TAH #179 encyclopedia: 179. Eric Liu 劉柏川](https://taiwaneseamericanhistory.org/179-eric-liu-%e5%8a%89%e6%9f%8f%e5%b7%9d/)

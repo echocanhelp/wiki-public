@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-24
 ---
 # Roland P. Brown (薄柔纜醫生)
 
@@ -44,6 +44,8 @@ last_reviewed: 2026-09-22
 - **Daughter:** Carol Ann Fynan
 - **Son:** Clifford Brown, G. Keith Brown
 
+
+^- Corpus re-check 2026-09-24: fresh ZH+EN grep against works/articles returned only the already-absorbed records above plus substring false matches (place names like Rowland Heights, month words like "June line-up", the works index) — verified-saturated, nothing new absorbable.
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/roland-p-brown/)
