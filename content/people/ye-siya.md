@@ -8,7 +8,7 @@ tags:
   - taiwanjustice
   - publication-contributor
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 
 # Yeh Ssu-ya / 葉思雅
@@ -75,6 +75,8 @@ See the source hub. Top mentions:
 
 ## From the record
 
+
+- 複核（TJJ-A09171000-1, 2026-09-24）：本 slice 文章 b4e27e98036e15d0（海頓音樂欣賞課報導, 2016-06-06 刊）正文再驗證——葉思雅醫師主講並播放呂泉生、李泰祥錄音之記述確認見於正文（本頁同時為該文作者鏈），subject 連結為真，無錯鏈、無虛鏈；對應日期事實已在庫，無新材料。
 - 複核（TJJ-A09221500-5, 2026-09-23）：本 slice 文章 99aaa4abcb78ff6d（台美人台加人分類存檔頁, 2024-04-25 快照）正文再驗證——「四月份台灣學校音樂欣賞課於4月9日舉行 ◎葉思雅、張信惠主持」確認見於正文，subject 連結為真，無錯鏈、無虛鏈；對應日期事實條目已在庫 — SKIP，無新材料。
 
 - 複核（TJJ-A09221300-7, 2026-09-23）：subject link 對照本 slice 文章 [[articles/taiwanjustice-net/2022/20220127025846_2022_01_10_圓滿的100-慶賀葉思雅_張信惠_週末漫談音樂_專_a1be6b822ac7cdcd|TJJ, 2022-01-10]] 正文再驗證——提及為真實對應（姓名與本頁相符），無錯鏈、無虛鏈；對應日期事實條目已在庫 — SKIP，無新材料。

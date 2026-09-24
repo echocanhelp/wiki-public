@@ -7,7 +7,7 @@ tags:
   - taiwanjustice-net
   - thin-page
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-24
 name_en: "Lai Ching-te"
 ---
 # Lai Ching-te (賴清德)
@@ -34,6 +34,8 @@ name_en: "Lai Ching-te"
 
 ## From the record
 
+
+- 複核（TJJ-A09171000-1, 2026-09-24）：本 slice 文章 index（TJJ 文章存檔索引頁）正文再驗證——索引頁列賴清德為重點政治人物（211 篇），連結為真；既有條目已在庫，subject 連結為真，無錯鏈、無虛鏈；對應日期事實已在庫，無新材料。
 - 複核（TJJ-A09221500-5, 2026-09-23）：本 slice 文章 2a3226a1b19c5a46（中央社副手專稿轉載, 2023-11-20）正文再驗證——賴清德獲提名人角逐2024總統並確定蕭美琴為副手搭檔之記述確認見於正文，subject 連結為真，無錯鏈、無虛鏈；2023-11-20 條目已在庫 — SKIP，無新材料。
 
 - 複核（TJJ-A09221400-3, 2026-09-23）：本 slice 文章 20240613095611（520就職報導）之 subject link 經正文再驗證為真實對應，2024-05-20 條目已在庫（無錯鏈、無虛鏈）— SKIP，無新材料。

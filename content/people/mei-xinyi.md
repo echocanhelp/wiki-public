@@ -8,7 +8,7 @@ tags:
   - human-rights
   - FAHR
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # 梅心怡 (Lynn Alan Miles)
 
@@ -26,6 +26,8 @@ last_reviewed: 2026-09-23
 
 ## From the record
 
+
+- 複核（TJJ-A09171000-1, 2026-09-24）：本 slice 文章 5b7741741c30e771（「梅心怡」標籤頁 2024-07-24 存檔）正文再驗證——標籤頁收錄 FAHR 募款及艾琳達簡述病情報導，標籤主題即本人，subject 連結為真，無錯鏈、無虛鏈；對應日期事實已在庫，無新材料。
 - 2014-07-08 — TJJ 報導：艾琳達（Linda Arrigo）過境洛杉磯，向台美人簡述梅心怡病情、期盼社區伸援手（[[articles/taiwanjustice-net/2024/20240724005830_root_5b7741741c30e771|TJJ「梅心怡」標籤頁，2024-07-24 快照]]）。
 - 2014-08-07 — TJJ 報導：全美台灣人權協會（FAHR）為梅心怡募款（同上標籤頁；報導者 [[people/patrick-huang||黃再添]]）。
 

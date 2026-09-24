@@ -6,7 +6,7 @@ tags:
   - columnist
   - taiwanjustice-net
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-24
 birthdate: 1942-12-11
 birth_year: 1942
 hometown: 台北市
@@ -11751,6 +11751,8 @@ Notable quotes and mentions of **陳昭南** in Taiwan Justice articles:
 
 ## From the record
 
+
+- 複核（TJJ-A09171000-1, 2026-09-24）：本 slice 文章 index（TJJ 文章存檔索引頁）正文再驗證——索引頁列陳昭南為專欄作者（398 篇），連結為真，subject 連結為真，無錯鏈、無虛鏈；對應日期事實已在庫，無新材料。
 - 2026-07-28 — taiwanjustice.net 文章存檔索引（29,103 篇）將陳昭南列為專欄作者之一（「陳昭南觀點」398 篇），為該報最高產量專欄群之一（[[articles/taiwanjustice-net/index||TJJ 文章存檔索引]]）。
 
 ## Related Pages

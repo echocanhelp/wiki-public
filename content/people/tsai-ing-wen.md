@@ -7,7 +7,7 @@ tags:
   - taiwanjustice-net
   - thin-page
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 name_en: "Tsai Ing-wen"
 ---
 # Tsai Ing-wen (蔡英文)
@@ -46,6 +46,9 @@ name_en: "Tsai Ing-wen"
 
 ## From the record
 
+
+- 複核（TJJ-A09171000-1, 2026-09-24）：本 slice 文章 c0530664ab4c2948（Taipei Times 社論轉載, 2016-04-11）正文再驗證——蔡英文選前特赦表態及司法改革承諾之記述確認見於正文，subject 連結為真，無錯鏈、無虛鏈；對應日期事實已在庫，無新材料。
+- 複核（TJJ-A09171000-1, 2026-09-24）：本 slice 文章 index（TJJ 文章存檔索引頁）正文再驗證——索引頁列蔡英文為重點政治人物（222 篇），連結為真，subject 連結為真，無錯鏈、無虛鏈；對應日期事實已在庫，無新材料。
 - 再核（TJJ-A09170400-18, 2026-09-24）：本 slice 文章 b63290424caedcf7（LA Times, Ralph Jennings 2015-04-15 轉載）正文再驗證——提名58歲法律學者蔡英文參選2016、民調領先、首位女性領導人等論述確認見於正文，subject 連結為真，無錯鏈、無虛鏈；2015-04-16 條目已在庫 — SKIP，已飽和。
 
 - 再核（TJJ-A09170400-6, 2026-09-23）：本 slice 文章 15fc4a3e5664504e（Shawna Yang Ryan WaPo op-ed 轉載）正文再驗證——蔡英文總統與川普通话僅被論為美中關係附庸之論述確認，連結為真；2016-12-09 條目已在庫，無新材料。

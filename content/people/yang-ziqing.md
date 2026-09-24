@@ -6,7 +6,7 @@ tags:
   - columnist
   - taiwanjustice-net
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # Yang Zi-qing (楊子清)
 
@@ -28,6 +28,9 @@ last_reviewed: 2026-09-23
 
 ## From the record
 
+
+- 覆核（TJJ-A09171100-8, 2026-09-24）：slice 文章 b7ec76fa6b673920／2b3d5a363a2935eb（以立合唱團「致死的震怒近了」同稿兩存檔副本） 主體連結對照正文再驗證——連結為真實提及（無錯鏈、無虛鏈），對應日期事實條目（含該文 wikilink）已在庫 — SKIP，無新材料。
+- 複核（TJJ-A09171000-1, 2026-09-24）：本 slice 文章 index（TJJ 文章存檔索引頁）正文再驗證——索引頁列楊子清為專欄作者（65 篇），連結為真，subject 連結為真，無錯鏈、無虛鏈；對應日期事實已在庫，無新材料。
 - 複核（TJJ-A09221400-8, 2026-09-23）：「希望之光」2025 存檔（[[articles/taiwanjustice-net/2025/20250524200224_以立合唱團世界首演_希望之光_影音_025f6ed990dc9e2c|025f6ed990dc9e2c]]）與「末日之淚」2024 存檔（[[articles/taiwanjustice-net/2024/20240302032241_root_f985012b1ed56ad0|f985012b1ed56ad0]]）author/subject link 經正文再驗證為真實對應（提供影音／指揮），引用条目已在庫 — SKIP，无新材料。
 - 複核（TJJ-A09221400-6, 2026-09-23）：本切片四稿之 author/subject link（English Pages 目錄頁 2b4b26ff 無涉本人；半音錄影稿 de11e295 提供／指揮；「拯救我」526ee7d6＋7214b273 指揮）經正文再驗證為真實對應，2001-07-02 與 2022-10-01／10-08 條目已在庫 — SKIP，無新材料。
 - 複核（TJJ-A09221400-5, 2026-09-23）：本切片兩稿（末日之淚 e7e0fe18 author/指揮、音樂短講第13集 4119cffe author/主講）link 經正文再驗證為真實對應，引用条目已在庫；Subjects 連結 .md 後綴已修正 — SKIP，無新材料。

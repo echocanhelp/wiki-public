@@ -9,7 +9,7 @@ tags:
   - presbyterian
   - FPCLA
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # Grace H. Yeh (張信惠)
 
@@ -31,6 +31,8 @@ TAH lists her as the first appointed organist of [[organizations/formosan-presby
 
 ## From the record
 
+
+- 複核（TJJ-A09171000-1, 2026-09-24）：本 slice 文章 b4e27e98036e15d0（海頓音樂欣賞課報導, 2016-06-06 刊）正文再驗證——張信惠（音樂專科出身、曾為李泰祥伴奏）與葉思雅共同主講之記述確認見於正文；TAH 頁（FPCLA 風琴師）與 zhang-xinhui 頁同為一人，雙鏈保留以維持兩線溯源，subject 連結為真，無錯鏈、無虛鏈；對應日期事實已在庫，無新材料。
 - 覆核（TJJ-A09170400-17, 2026-09-24）：本 slice 文章 ced695235dbeb850（大洛杉磯台灣會館標籤頁 p13）正文再驗證——「十月音樂欣賞課10月9日舉行 ◎葉思雅、張信惠 主持」確認見於正文，連結為真；2016-10-04 條目已在庫 — SKIP，無新材料。
 
 - 複核（TJJ-A09221500-5, 2026-09-23）：本 slice 文章 99aaa4abcb78ff6d（台美人台加人分類存檔頁, 2024-04-25 快照）正文再驗證——「四月份台灣學校音樂欣賞課於4月9日舉行 ◎葉思雅、張信惠主持」確認見於正文，subject 連結為真，無錯鏈、無虛鏈；對應日期事實條目已在庫 — SKIP，無新材料。

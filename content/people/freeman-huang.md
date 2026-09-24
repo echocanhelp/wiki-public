@@ -9,7 +9,7 @@ tags:
   - TAHS
   - tahs-leadership
 verification_status: published
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-24
 name_en: Freeman Huang
 name_zh_hanzi: 黃樹人
 ---
@@ -174,6 +174,8 @@ Notable quotes and mentions of **黃樹人** in Taiwan Justice articles:
 
 ## From the record
 
+
+- 複核（TJJ-A09171000-1, 2026-09-24）：本 slice 文章 index（TJJ 文章存檔索引頁）正文再驗證——索引頁列黃樹人為發布者，連結為真，subject 連結為真，無錯鏈、無虛鏈；對應日期事實已在庫，無新材料。
 - 2026-07-28 — taiwanjustice.net 文章存檔索引（29,103 篇・2011–2026）以黃樹人為該存檔之發行人收錄，存檔規模逾 8,180 萬字，為台美人社群新聞之最完整鏡像（[[articles/taiwanjustice-net/index|TJJ 文章存檔索引]]）。
 
 ## Related Pages

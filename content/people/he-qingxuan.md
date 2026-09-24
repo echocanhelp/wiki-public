@@ -6,7 +6,7 @@ tags:
   - columnist
   - taiwanjustice-net
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-24
 ---
 # He Qinglian (何清漣)
 
@@ -11341,6 +11341,8 @@ Notable quotes and mentions of **何清漣** in Taiwan Justice articles:
 
 ## From the record
 
+
+- 複核（TJJ-A09171000-1, 2026-09-24）：本 slice 文章 index（TJJ 文章存檔索引頁）正文再驗證——索引頁列何清漣為專欄作者（50 篇），連結為真，subject 連結為真，無錯鏈、無虛鏈；對應日期事實已在庫，無新材料。
 - 2026-07-28 — taiwanjustice.net 文章存檔索引（29,103 篇）將何清漣列為專欄作者之一（「何清漣專欄」50 篇）（[[articles/taiwanjustice-net/index||TJJ 文章存檔索引]]）。
 
 ## Related Pages

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # Cho-Liang Lin (林昭亮)
 
@@ -75,6 +75,8 @@ Facts already present in vault pages citing Cho-Liang Lin (no new sources):
 
 ## From the record
 
+
+- 複核（TJJ-A09171000-1, 2026-09-24）：本 slice 文章 b4e27e98036e15d0（海頓音樂欣賞課報導, 2016-06-06 刊）正文再驗證——林昭亮為「台灣人音樂家」專場開場介紹對象之記述確認見於正文，subject 連結為真，無錯鏈、無虛鏈；對應日期事實已在庫，無新材料。
 - 複核（TJJ-A09170400-5, 2026-09-23）：本 slice 文章 04f32b14d8cf8f12（台灣會館會訊 #11）正文再驗證——林昭亮隨 NSO 於 Segerstrom Concert Hall 演出確認見於正文，連結為真；2016-12-12 條目（已掛本檔 wikilink）已在庫 — SKIP，無新材料。
 - 複核（TJJ-A09221500-5, 2026-09-23）：本 slice 文章 99aaa4abcb78ff6d（台美人台加人分類存檔頁, 2024-04-25 快照）正文再驗證——「呂紹嘉首度帶領NSO遠征溫哥華和洛杉磯 林昭亮助陣」標題確認見於正文，subject 連結為真，無錯鏈、無虛鏈；對應日期事實條目已在庫 — SKIP，無新材料。
 
