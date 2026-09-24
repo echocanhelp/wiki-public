@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # Taiwanese Student Association at University of Washington
 
@@ -26,6 +26,8 @@ The Taiwanese Student Association at the University of Washington (TSAUW), also 
 - 2000 — the association (recorded in the corpus as "TSA of Washington University, Seattle") staged the **First Taiwan Night Market Festival in the U.S.**, documented as story-corpus record #136: [[works/taiwaneseamericanhistory-org/first-136|136. TSA of Washington University, Seattle / First Taiwan Night Market Festival in the U. S. / 2000]] (record logged 2016-01-06; bibliographic record only, full text in vault).
 
 - Corpus re-check 2026-09-22: fresh grep returns the organization's own corpus record [[works/taiwaneseamericanhistory-org/tsa-taiwanese-student-association-at-the-university-of-washington|TSA 華大台灣學生會 corpus record]], the works index, the already-absorbed David Chen interview, and story record #136 (absorbed above). Other TSA grep hits concern other campuses (UW–Madison 布袋戲團 in [[works/taiwaneseamericanhistory-org/ourjourneys277|Our Journeys 277]], Rutgers TSA) and are not attributable to TSAUW. HOLD: corpus title says "Washington University, Seattle" — no Seattle institution by that name; read as University of Washington per the Seattle locator, but the naming discrepancy is noted, not merged.
+
+*Re-grep 2026-09-24 (slice 09230500-21): fresh ZH+EN grep (華大台灣學生會／TSAUW／TSA at University of Washington) returns only the org's own corpus record and the works index — hit set identical to the absorbed set above. Verified saturated.*
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-student-association-at-university-of-washington/)

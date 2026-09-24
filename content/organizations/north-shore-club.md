@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # North Shore Club (北濱會)
 
@@ -35,6 +35,8 @@ Primary source: member memoir by 林壽英 (Christine Yang), written Libertyvill
 林壽英 (Christine Yang) left a wider Chicago-area Taiwanese American record in our corpus, useful cross-context for the club's membership circle: [[works/taiwaneseamericanhistory-org/282-a-immigrates-story-201506|282. 一個臺美移民的故事 (2015-06)]], [[works/taiwaneseamericanhistory-org/mystories584|584. 結婚五十年雜感 (2017-10)]], [[works/taiwaneseamericanhistory-org/mystories639|639. 社區服務與回饋 (2018-06)]] and her donated papers at [[works/taiwaneseamericanhistory-org/collection-of-mrs-christine-yang|54. Collection of Mrs. Christine Yang 林壽英女士的收藏]].
 
 *Re-grep 2026-09-21: the only corpus hits are member memoir [[works/taiwaneseamericanhistory-org/ourjourney221|221. 北濱會]] and the directory record [[works/taiwaneseamericanhistory-org/north-shore-club|North Shore Club 北濱會]], both already fully absorbed above. No new absorbable material.*
+
+*Re-grep 2026-09-24 (slice 09230500-21): fresh grep (北濱會／North Shore Club) returns only memoir 221, the directory record, and the works index — already fully absorbed. Verified saturated.*
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/north-shore-club/)
