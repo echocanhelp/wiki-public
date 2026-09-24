@@ -44,6 +44,7 @@ last_reviewed: 2026-09-24
 - Corpus re-grep 2026-09-21 (slice 09201500-11): hit set unchanged (ourjourneys76 + -eng, works 83/80/1000, whos145) — the -eng memoir copy carries the same Austin roster (Tony Chen among 吳木盛's ten picks) with no extra facts. SKIP-for-deepening: page already carries the full community record.
 - Re-grep 2026-09-22 (slice 09211400-22): ZH+EN hits identical to the linked set above; nothing new absorbable. SKIP: verified-saturated.
 - Re-grep 2026-09-23 (slice 09220900-20): ZH+EN hit set identical to the linked set (ourjourneys76 + -eng, works 83/80/1000, whos145); nothing new absorbable. SKIP: verified-saturated.
+- Re-grep 2026-09-24 (slice 09230400-17): ZH+EN hit set gains two name-collision false positives — [[works/taiwaneseamericanhistory-org/whos-tony-chen|1921. Tony Chen 陳東寧]] and [[works/taiwaneseamericanhistory-org/u-s-presidential-scholars-program-tony-chen-1997|36. U.S. Presidential Scholars Program / Tony Chen 陳彥豪 /1997]] are different people (東寧 ≠ 國洸 ≠ 彥豪; do not merge). No new 陳國洸 material. SKIP: verified-saturated.
 
 ## Sources
 - [TAH #145 encyclopedia: 145. Tony Chen 陳國洸 / 2014/12](https://taiwaneseamericanhistory.org/whos145/)

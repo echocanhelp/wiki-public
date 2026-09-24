@@ -52,3 +52,4 @@ _No filled family fields on the TAH profile._
 - Re-grep 2026-09-22 (slice 09211400-26): hit set unchanged — ourjourneys268, ourjourneys33-eng, whos-who-1620 all absorbed; verified saturated.
 
 - Re-grep 2026-09-23 (slice 09220900-26): fresh ZH+EN corpus re-grep of works/articles returned the same hit set as the absorbed/HOLD set — verified saturated, no new community facts this pass. SKIP-with-reason. Hit set: own whos-who-1620 record + works index; ourjourneys268 / ourjourneys33-eng passages already absorbed, unchanged.
+- Re-grep 2026-09-24 (slice 09230400-16): fresh ZH+EN re-grep returned the identical set (ourjourneys268 seminary-network passage, ourjourneys33-eng 1966–1973 Bible Camps record, whos-who-1620, index) — verified-saturated, SKIP-with-reason; no new community facts, no conflicts.

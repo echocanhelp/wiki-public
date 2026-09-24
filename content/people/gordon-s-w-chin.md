@@ -51,3 +51,4 @@ _No filled family fields on the TAH profile._
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 > Corpus check (deepen-x slice 09220900-27, 2026-09-23): fresh re-grep (金希文|Gordon.*Chin) — hit set identical to records already linked above (whoswho1253, musician358, ourjourneys301 二二八紀念音樂會致詞, 台灣會館古典音樂欣賞 tjj 頁 ×2, works index). No new absorbable corpus facts. SKIP: saturated.
+> Corpus check (deepen-x slice 09230400-17, 2026-09-24): fresh re-grep (金希文|Gordon.*Chin) — hit set unchanged (whoswho1253, musician358, ourjourneys301, tjj 古典音樂欣賞 ×2, works index), all absorbed above. SKIP-with-reason: saturated.

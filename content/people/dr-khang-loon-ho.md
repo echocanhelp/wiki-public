@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # Dr. Khang-Loon Ho (何康隆醫師)
 
@@ -36,6 +36,7 @@ last_reviewed: 2026-09-23
 - TAH Who's Who encyclopedia record: [[works/taiwaneseamericanhistory-org/whos-who-1960-khang-loon-ho||1960. Dr. Khang-Loon Ho 何康隆醫師]] (bibliographic, band B).
 - Corpus re-grep 2026-09-22 (slice 09211400-25): works/articles hits for 何康隆 / Khang-Loon Ho are only the records already absorbed above (TAH #1960, 我們的旅程 #269, the two Covid-19 浩劫餘生錄 pages, index listings) — no new community material absorbable.
 - Corpus re-grep 2026-09-23 (slice 09220900-19): 何康隆 / Khang-Loon Ho hits remain only the absorbed records (TAH #1960, 我們的旅程 #269, both Covid-19 浩劫餘生錄 pages, index). Verified-saturated.
+- Corpus re-grep 2026-09-24 (slice 09230400-15): fresh ZH+EN hits identical to the absorbed set (TAH #1960, 我們的旅程 #269, both Covid-19 浩劫餘生錄 pages, works index) — no new community material. Verified-saturated; SKIP-with-reason.
 
 ## Family
 

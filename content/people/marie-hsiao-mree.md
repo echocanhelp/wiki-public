@@ -36,6 +36,7 @@ Mree is a Portland based experimental folk artist whose music has drawn the atte
 - Featured twice in the TAH story corpus: [[works/taiwaneseamericanhistory-org/334-marie-hsiao-mree-indie-folk-singer-song-writer-201603|334. Marie Hsiao (Mree), Indie folk Singer & Song-writer]] and [[works/taiwaneseamericanhistory-org/910-marie-mree-hsiao-201503|910. Marie (Mree) Hsiao]] (both 2016-03-27, bibliographic records).
 - Re-check (deepen-x 2026-09-22): corpus re-grep (Mree / Marie Hsiao) returns only the three linked records above plus the harvest index — no memoir or community material beyond them; section remains current.
 - Re-check 2026-09-23 (slice 09220900-19): fresh re-grep Mree / Marie Hsiao returns only the three linked records plus the harvest index; no new community material. Verified-saturated.
+- Re-check 2026-09-24 (slice 09230400-17): fresh re-grep Mree / Marie Hsiao — hit set unchanged (334, 910, a-moment-with-mree, harvest index); no memoir or community material beyond the linked records. Verified-saturated.
 
 ## Family
 

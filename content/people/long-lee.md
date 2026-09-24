@@ -43,6 +43,7 @@ last_reviewed: 2026-09-24
 - 語料複核（deepen-x 09201500-10, 2026-09-21）：再檢 content/works + content/articles，命中 ourjourneys212／240／283／whoswho1424 均已吸收；本次新增吸收 Pew 聲明連署記錄（FAPA 名義）。
 - 語料複核（deepen-x slice 09211400-21, 2026-09-22）：命中集相同（ourjourneys212／240／283／whoswho1424／Pew 聲明＋索引），全部已吸收；無新事實，verified saturated。
 - 語料複核（deepen-x slice 09220900-17, 2026-09-23）：命中集再次相同，全部已吸收；verified saturated。
+- 語料複核（deepen-x slice 09230400-16, 2026-09-24）：fresh ZH+EN 再檢命中集相同（ourjourneys212／240／283／whoswho1424／Pew 聲明＋索引），全部已吸收；生活座談會名單與 ourjourneys212 原文核對無誤；verified saturated，SKIP-with-reason。配偶 HOLD（須藤正子 vs 鄭美招）持續未解。
 - HOLD: conflict 配偶 TAH 個人檔列 須藤正子 vs 回憶文 ourjourneys283 稱「李隆吉與鄭美招夫婦」— unresolved，未自動合併。
 - 個人條目：[[works/taiwaneseamericanhistory-org/whoswho1424|TAH #1424 Long Lee 李隆吉 / 2016-12]]。
 
