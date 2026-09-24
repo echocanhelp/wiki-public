@@ -36,4 +36,4 @@ last_reviewed: 2026-09-24
 
 - [[organizations/taiwan-center||Taiwan Center]]
 - [[sources/taiwancenter-org||taiwancenter.org]]
-- Corpus re-grep 2026-09-23 (slice 09221100-13): SKIP-new-facts — ZH+EN re-grep returns the same saturated hit set (216 鄭炳全, 台美文藝 club-attributed issues 80/82/333/1365, encyclopedia taiwanese-american-pen-club-la); no new absorbable material.
+- Corpus re-grep 2026-09-24 (slice 09230500-12): SKIP-new-facts — ZH+EN re-grep returns the same saturated hit set (216 鄭炳全, 台美文藝 club-attributed issues 80/82/333/1365, encyclopedia taiwanese-american-pen-club-la); no new absorbable material.

@@ -6,7 +6,7 @@ tags:
   - Taiwanese-American
   - Taiwan-Center-group-member
 verification_status: published
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # Joint Alumni Association of Taiwan Teachers College and Normal University(JTTAA)
 
@@ -28,6 +28,9 @@ last_reviewed: 2026-09-23
 - 2021-04: the association joined 大洛杉磯台灣會館 and nine other LA groups (台灣人獅子會, NATWA-SCC, NATMA-SCC, 美洲高雄中學高雄女中聯合校友會, 南加州台灣大專聯合校友會, 客家基金會, and others) in the 太魯閣號 train-disaster relief fundraise — ~NT$1.5M from 42 donors within a week, routed via the ROC overseas office to 衛福部: [[articles/taiwanjustice-net/2022/20220929025100_2021_04_16_大洛杉磯台灣會館給太魯閣號受難家屬的慰問函_8dc770f6b801f241|大洛杉磯台灣會館給太魯閣號受難家屬的慰問函]]
 - The association's full name also appears in the republished 2021 WHA joint-statement initiator list: [[articles/taiwanjustice-net/2025/20251108183438_2021年南加州僑界支持台灣參與世界衛生大會wha聯合聲_80c0a825a7a661b6|2025 republication of the WHA 聯合聲明]]
 - The TAH directory record for the association is a bibliographic entry (era 2015, value band B, published 2015-08-06); its full text remains in the source vault — no biographical detail beyond the listing is absorbable from it: [[works/taiwaneseamericanhistory-org/jttaa|TAH directory record]]
+
+## Re-grep log
+- Corpus re-grep 2026-09-24 (slice 09230500-10): fresh ZH+EN grep returned the same hit set (jttaa work page, works/index, both WHA 聯合聲明 archives, 太魯閣號慰問函) — all already absorbed above; verified-saturated, no new material.
 
 ## Source Notes
 

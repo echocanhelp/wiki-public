@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # Dr. John Chieu (邱忠男博士)
 
@@ -49,6 +49,9 @@ Community memoirs record Dr. Chieu as a central figure in the Texas Taiwanese-Am
 - 1980 — President, TAA Houston chapter (TAH profile; corroborated by [[works/taiwaneseamericanhistory-org/ourjourneys106|黑名單 roster]])
 - 1990 or 2014-2015 — Second TAA Houston presidency (HOLD: see conflict note above)
 - 2015 — Site and interior inspections for the Houston 台灣人活動中心 building fund (from [[works/taiwaneseamericanhistory-org/ourjourneys233|莊承業 memoir]])
+
+## Re-grep log
+- Corpus re-grep 2026-09-24 (slice 09230500-8): verified-saturated — hit set (ourjourney-343, ourjourneys106, ourjourneys233/233-eng, whos-who-2258, whos-who-2213) all cited above incl. both HOLDs; no new absorbable material.
 
 ## Sources
 - [TAH #2258 encyclopedia: 2258. Dr. John Chieu 邱忠男博士/04/2020](https://taiwaneseamericanhistory.org/whos-who-2258-john-chieu/)

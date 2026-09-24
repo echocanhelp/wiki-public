@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # C. J. Chen (陳銓仁)
 
@@ -45,6 +45,9 @@ HOLD: TAH #180 lists him as 洛台鄉會第一任會長 1968–1971, while 周�
 - **Son:** Joseph陳約瑟
 - **Son:** Samuel陳恩亮
 
+
+## Re-grep log
+- Corpus re-grep 2026-09-24 (slice 09230500-8): verified-saturated — hit set (ourjourneys54-eng, ourjourneys244, ourjourneys295, whoswho1033, TAH #180) all linked above. The ourjourneys76-eng match is "Donald C. J. Chen", TAA DC founding-chapter president ([[people/donald-c-j-chen]]) — same HOLD as above, not this person; no new absorbable material.
 
 ## Sources
 - [TAH #1033 encyclopedia: 1033. C. J. Chen 陳銓仁 / 2016/05](https://taiwaneseamericanhistory.org/whoswho1033/)

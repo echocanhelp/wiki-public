@@ -36,6 +36,7 @@ The Taiwanese American Scholarship Fund (TASF) was created in 2014 to support ec
 
 ## From the record
 
+- Corpus re-grep 2026-09-24 (slice 09230500-8): verified-saturated — hit set (ourjourneys303, TA.org 2015/2016/2017 drives, TAH #15/#73/#50, TJJ 2020 存檔頁) all cited in Timeline; TAH #50 is a bibliographic-record-only page, no unabsorbed facts.
 
 - 複核（TJJ-A09171100-4, 2026-09-24）：本 slice 文章 162effa713237818 正文再驗證——本頁 subject link 為真實對應（無錯鏈、無虛鏈），對應 From-the-record 條目已在庫 — SKIP，無新材料。
 - 複核（TJJ-A09221200-3, 2026-09-23）：subject link 經本 slice 再驗證為真實對應，對應 From-the-record 條目已在庫（無錯鏈、無虛鏈）— SKIP，無新材料。

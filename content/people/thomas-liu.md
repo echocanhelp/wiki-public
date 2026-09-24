@@ -55,6 +55,7 @@ last_reviewed: 2026-09-24
 - 2016-03-09 — 與李木通、黃根深同為「台美人物誌—半世紀前 UCLA 的那些日子」座談與談人，美洲台灣日報記錄，見台灣公義報「台美人台加人」分類存檔（2024-05-20 快照）—— [[articles/taiwanjustice-net/2024/20240520023218_root_89e6683c93156205|TJJ 台美人台加人存檔頁]]。
 
 ## Re-grep log
+- Corpus re-grep 2026-09-24 (slice 09230500-8): verified-saturated — hit set unchanged (#929, #27, #186/#186-eng, #212, #214, #240, #421, TJJ 存檔頁 all linked); no new absorbable material.
 - Corpus re-grep 2026-09-23 (slice 09221000-5): verified-saturated — hit set (#929, #27, #186/#186-eng, #214, #421 and the already-cited #212/#240/TJJ record) fully absorbed; #929 confirmed bibliographic-record-only, no unabsorbed facts.
 - Corpus re-grep 2026-09-22 (slice 09212352-6): verified-saturated — ZH+EN grep returns only works already cited above (#929, #27 collection, #186/#186-eng, #212, #214, #240, #421, TJJ 存檔頁); no unabsorbed corpus facts.
 
