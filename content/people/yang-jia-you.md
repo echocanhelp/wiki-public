@@ -13,7 +13,7 @@ tags:
 verification_status: owner_verified
 status: published
 featured: true
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 
 # Charles Yang (楊嘉猷 / Yang Jia-you)
@@ -255,6 +255,8 @@ Notable quotes and mentions of **楊嘉猷** in Taiwan Justice articles:
 - **Note:** Full 2017 text may include further family/education detail for future depth pass
 
 ## From the record
+
+- 複核（TJJ-A09171100-5, 2026-09-24）：本 slice 文章 c62f5c50846fe267（大洛杉磯台灣會館 228追思紀念大會報導）正文再驗證——楊嘉猷以台美人歷史協會會長身分出席確認見於正文，subject 連結為真，無錯鏈、無虛鏈；2025-02-22 條目已在庫 — SKIP，無新材料。
 
 - 2024-08-17 — 應大洛杉磯台灣會館耆老講座邀約，與洪茂澤對談「返台參選經驗」（[[articles/taiwanjustice-net/2025/20250216032153_tag_大洛杉磯台灣會館耆老講座_20053f0a17b89c07|TJJ 耆老講座標籤頁，2024-07-24 刊前導]]）。
 - 2025-02-22 — 以台美人歷史協會會長身分出席台館「228追思紀念大會」（今年主題「不義遺址的保存」，24個台美社團協辦，國史館館長陳儀深、228國膜館館長藍士博視訊演講），與許多長輩同台觀禮（[[articles/taiwanjustice-net/2025/20250320212940_大洛杉磯台灣會館等24個台美社團舉舉行228追思紀念_c62f5c50846fe267|TJJ report, 2025-02-24]]）。

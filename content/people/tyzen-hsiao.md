@@ -11,7 +11,7 @@ tags:
   - tah-whos-who
   - Taiwanese-American
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # Tyzen Hsiao (蕭泰然)
 
@@ -150,6 +150,9 @@ TAH employment (unparsed string): Tainan Univ. of Technology assoc. prof.; Wenza
 
 ## From the record
 
+- 複核（TJJ-A09171100-5, 2026-09-24）：本 slice 文章 c62f5c50846fe267（大洛杉磯台灣會館 228追思紀念大會報導）正文再驗證——蕭泰然為《台灣翠青》作曲者、全場客台雙語合唱之敘述確認見於正文，subject 連結為真，無錯鏈、無虛鏈；2025-02-22 條目已在庫 — SKIP，無新材料。
+
+- 覆核（TJJ-A09171100-8, 2026-09-24）：slice 文章 996879ac7a006acf（全美台灣人權協會第44屆年會暨鄭南榕紀念獎頒獎） 主體連結對照正文再驗證——連結為真實提及（無錯鏈、無虛鏈），對應日期事實條目（含該文 wikilink）已在庫 — SKIP，無新材料。
 - 複核（TJJ-A09221500-4, 2026-09-23）：本 slice 文章 11aa2dfa5f64d7e4（楊子清 tag 頁, 2021-01-17 快照）正文再驗證——TUF 1994/1993 演出與音樂短講條目確認見於正文，subject 連結為真，無錯鏈、無虛鏈；1994 條目已在庫，無新材料。
 
 - 複核（TJJ-A09221400-6, 2026-09-23）：半音合唱團國家音樂廳錄影稿（de11e295）subject link 經正文再驗證為真實對應（追思會影音欄提及蕭泰然），2015-03-14 條目已在庫 — SKIP，無新材料。

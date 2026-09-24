@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # Thomas Shu (許正龍)
 
@@ -35,6 +35,8 @@ Founding member and board member of the American Premium Tea Institute (now merg
 
 
 ## From the record
+
+- 複核（TJJ-A09171100-5, 2026-09-24）：本 slice 文章 c62f5c50846fe267（大洛杉磯台灣會館 228追思紀念大會報導）正文再驗證——許正龍以優社會長身分獨唱客台雙語《台灣翠青》並帶領合唱確認見於正文，subject 連結為真，無錯鏈、無虛鏈；2025-02-22 條目已在庫 — SKIP，無新材料。
 
 - 複核（TJJ-A09221300-8, 2026-09-23）：228介心靈日防疫稿 2589c86787ef4241 之 subject link 經正文再驗證為真實對應（主辦人之一登台客語吟唱），2020-03-01 條目已在庫 — SKIP，無新材料。
 

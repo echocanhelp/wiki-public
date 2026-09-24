@@ -7,7 +7,7 @@ tags:
   - Taiwan-Center
   - board
 verification_status: published
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # Josephine Pan (潘掬慧)
 
@@ -25,6 +25,8 @@ last_reviewed: 2026-09-23
 - **228 追思紀念大會主持人** — at the 2025 追思紀念大會 hosted by 大洛杉磯台灣會館 with 24 台美社團 (2025-02-24, Taiwan Justice Net report preserved in the quote archive of [[people/roger-tsai||Roger Tsai (蔡漢成)]]), 董事潘掬慧 and 228系列活動召集人 [[people/tony-lee||Tony Lee (李賢群)]] presided over the ceremony.
 
 ## From the record
+
+- 複核（TJJ-A09171100-5, 2026-09-24）：本 slice 文章 c62f5c50846fe267（大洛杉磯台灣會館 228追思紀念大會報導）正文再驗證——潘掬慧以台館董事身份與李賢群共同主持儀式確認見於正文，subject 連結為真，無錯鏈、無虛鏈；2025-02-22 條目已在庫 — SKIP，無新材料。
 
 - 複核（TJJ-A09221300-11, 2026-09-23）：subject link 經本 slice 再驗證為真實對應，對應 From-the-record 條目已在庫（無錯鏈、無虛鏈）— SKIP，無新材料。
 

@@ -8,7 +8,7 @@ tags:
   - taiwanjustice
   - publication-contributor
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 
 # Lin Jung-sung / 林榮松
@@ -333,6 +333,8 @@ Notable quotes and mentions of **林榮松** in Taiwan Justice articles:
 *...and 86 more quotes*
 
 ## From the record
+
+- 複核（TJJ-A09171100-5, 2026-09-24）：本 slice 文章 c62f5c50846fe267（大洛杉磯台灣會館 228追思紀念大會報導）正文再驗證——林榮松以國策顧問身份致辭確認見於正文，subject 連結為真，無錯鏈、無虛鏈；2025-02-22 條目已在庫 — SKIP，無新材料。
 
 - 複核（TJJ-A09170400-5, 2026-09-23）：本 slice 文章 04f32b14d8cf8f12 即其董事長報告（署名林榮松 2016-12-17），連結為真；2016-12-17 條目已在庫 — SKIP，無新材料。
 - 2016-06-11 — 大洛杉磯台灣會館會員大會選出第十屆董事31名並當選董事長；作為18年前創會會長重申〝服務，和諧，懷鄉〞宗旨，主張加入〝回饋〞、培養志工精神，並推動醫學講座、園藝講座與新世代台美人栽培（[[articles/taiwanjustice-net/2023/20230129123056_2016_06_12_台灣會館第十屆董事會選出新任董事長林榮松-_大_77328a2c6454177f|TJJ, 2016-06-12]]；同稿另存 [[articles/taiwanjustice-net/2024/20240425081647_root_17835ad9519f9cfe|2024-04-25 存檔副本]]）。

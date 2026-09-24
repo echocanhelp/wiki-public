@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # C. Y. Chen (陳黃群雁)
 
@@ -38,6 +38,8 @@ last_reviewed: 2026-09-23
 
 
 ## From the record
+
+- 複核（TJJ-A09171100-5, 2026-09-24）：本 slice 文章 c62f5c50846fe267（大洛杉磯台灣會館 228追思紀念大會報導）正文再驗證——陳黃群雁以台館副董事長身分列席嘉賓確認見於正文，subject 連結為真，無錯鏈、無虛鏈；2025-02-22 條目已在庫 — SKIP，無新材料。
 
 - 2025-02-22 — Attended the 228追思紀念大會 at the Greater Los Angeles Taiwan Center listed as 副董事長 (with 蔡漢成) among the honored guests ([[articles/taiwanjustice-net/2025/20250320212940_大洛杉磯台灣會館等24個台美社團舉舉行228追思紀念_c62f5c50846fe267|TJJ report, 2025-02-24]]).
 
