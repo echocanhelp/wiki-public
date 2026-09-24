@@ -46,6 +46,8 @@ name_en: "Tsai Ing-wen"
 
 ## From the record
 
+- 複核（TJJ-A09230700-11, 2026-09-24）：本 slice 文章 760a0bc942e1676b（VOA：台灣祝賀拜登、賀錦麗就職）正文再驗證——蔡總統發推祝賀全文確認見於正文，subject 連結為真，無錯鏈、無虛鏈；2021-01-20 條目已在庫（前一輪 TJJ-A09221200-15 已核）— SKIP，已飽和。
+
 - 複核（TJJ-A09230600-1, 2026-09-24）：本 slice 文章 beff9b8cd9711c3d 正文再驗證——彭博「難找到比蔡英文更好的全球領導人」評述及柯拉克宴請、環球時報恐嚇記述確認見於正文，subject 連結為真；2020-09-22 條目已在庫 — SKIP，無新材料。
 
 - 複核（TJJ-A09162345-17, 2026-09-24）：本 slice 兩篇文章 2a3226a1b19c5a46（中央社副手專稿轉載, 2023-11-20）、d2d01925bc6bbba3（English Pages p5, 2024-07-18 快照）正文再驗證——賴蕭配被解讀為「延續蔡英文路線」之記述、及「Taiwan Opposition's Presidential Nominee Tsai Ing-wen Says Won't Change China Ties」清單條目均確認見於正文，連結為真，無錯鏈、無虛鏈；對應日期條目（2023-11-20／2015-04-16）已在庫 — SKIP，無新材料（[[articles/taiwanjustice-net/2023/20231208130546_root_2a3226a1b19c5a46|中央社專稿]]／[[articles/taiwanjustice-net/2024/20240718230535_root_d2d01925bc6bbba3|English Pages p5]]）。

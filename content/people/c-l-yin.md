@@ -28,6 +28,8 @@ last_reviewed: 2026-09-24
 
 ## From the record
 
+- 複核（TJJ-A09230700-11, 2026-09-24）：本 slice 文章 79291dad808ef7f7（大洛杉磯台灣會館會訊 2018-06）正文再驗證——「台美商會殷清隆」確認見於第11屆團體董事名單，subject 連結為真，無錯鏈、無虛鏈；2018-06-27 條目已在庫 — SKIP，已飽和。
+
 
 - 複核（TJJ-A09171100-4, 2026-09-24）：本 slice 文章 1d72b2ae61640747 正文再驗證——本頁 subject link 為真實對應（無錯鏈、無虛鏈），對應 From-the-record 條目已在庫 — SKIP，無新材料。
 Corpus re-grep 2026-09-22 (DEEPEN-X slice 09212352-24): hits are only the records already absorbed below (TAH #1437, TJJ 會訊 2018-06-27, TJJ 小英後援會 2019-10-10, WHA聯合聲明 2021-05-17 + 2025-11-08 copy) plus index listings — no new memoir coverage.
