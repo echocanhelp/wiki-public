@@ -36,6 +36,8 @@ _No filled family fields on the TAH profile._
 
 ## From the record
 
+- 複核（TJJ-A09230700-3, 2026-09-24）：本 slice 文章 林宏容緬懷鄭寶鼎博士稿 9907500dda4f33bb 正文再驗證——subject 連結為真實對應，無錯鏈、無虛鏈；對應日期事實（含該文 wikilink）2020-09-30 首屆理事/撰文者條目已在庫 — SKIP，無新材料。
+
 - 複核（TJJ-A09221200-5, 2026-09-23）：本 slice 文章 [[articles/taiwanjustice-net/2026/20260121010227_斯人已逝_其德可追-緬懷鄭寶鼎博士-_-林宏容_9907500dda4f33bb|TJJ 9907500d]] 正文再驗證——subject link 為真實對應，對應日期事實條目已在庫，無錯鏈、無虛鏈 — SKIP，無新材料。
 
 - 複核（TJJ-A09220400-5, 2026-09-22）：subject link 經本 slice 再驗證為真實對應，对应 From-the-record 条目已在库（无错链、无虚链）— SKIP，无新材料。

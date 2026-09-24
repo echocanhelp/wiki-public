@@ -83,6 +83,8 @@ The one title-authored column preserved in the harvest — *台灣、烏克蘭�
 
 ## From the record
 
+- 複核（TJJ-A09230700-3, 2026-09-24）：本 slice 文章 English Pages 目錄頁 b1e144ecc18e460f 正文再驗證——subject 連結為真實對應，無錯鏈、無虛鏈；對應日期事實（含該文 wikilink）2016-12-05 National Interest 轉載條目已在庫 — SKIP，無新材料。
+
 - 複核（TJJ-A09221200-5, 2026-09-23）：本 slice 文章 [[articles/taiwanjustice-net/2024/20240224194137_root_b1e144ecc18e460f|TJJ b1e144ec]] 正文再驗證——subject link 為真實對應，對應日期事實條目已在庫，無錯鏈、無虛鏈 — SKIP，無新材料。
 
 - 複核（TJJ-A09220400-5, 2026-09-22）：subject link 經本 slice 再驗證為真實對應，对应 From-the-record 条目已在库（无错链、无虚链）— SKIP，无新材料。

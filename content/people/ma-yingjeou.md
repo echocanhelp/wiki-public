@@ -30,6 +30,10 @@ last_reviewed: 2026-09-24
 
 ## From the record
 
+- 複核（TJJ-A09230700-3, 2026-09-24）：本 slice 文章 English Pages 目錄頁 b1e144ecc18e460f 正文再驗證——subject 連結為真實對應，無錯鏈、無虛鏈；對應日期事實（含該文 wikilink）2013-09-15 Keating 評論收錄條目已在庫 — SKIP，無新材料。
+
+- 複核（TJJ-A09230700-11, 2026-09-24）：本 slice 文章 69b4f44f9c019bd5（陳順盛探訪報導英文转载）正文再驗證——「Ma Ying-jeou…refuses to consider medial parole for Chen」確認見於正文，subject 連結為真，無錯鏈、無虛鏈；2013-06-10 條目已在庫 — SKIP，已飽和。
+
 - 複核（TJJ-A09230600-1, 2026-09-24）：本 slice 文章 795e52aadf3797a0 正文再驗證——馬保外就醫為呂秀蓮絕食所迫、同一法官判扁清馬、蔣經國翻譯背景、太陽花與柯文哲崛起歸因等記述確認見於正文，subject 連結為真；2015-01-07 條目已在庫 — SKIP，無新材料。
 
 - 複核（TJJ-A09230400-1, 2026-09-24）：subject link 經本 slice 文章 becb39f917174438 正文再驗證為真實對應，對應 From-the-record 條目已在庫並掛鏈本檔（無錯鏈、無虛鏈）— SKIP，無新材料。

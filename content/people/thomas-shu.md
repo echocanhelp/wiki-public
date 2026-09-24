@@ -36,6 +36,8 @@ Founding member and board member of the American Premium Tea Institute (now merg
 
 ## From the record
 
+- 複核（TJJ-A09230700-3, 2026-09-24）：本 slice 文章 2023台美小姐選拔賽報導 79b5f26fdef89d22 正文再驗證——subject 連結為真實對應，無錯鏈、無虛鏈；對應日期事實（含該文 wikilink）2023-08-06 評審條目已在庫 — SKIP，無新材料。
+
 - 複核（TJJ-A09230700-8, 2026-09-24）：本 slice 文章 ff4731d4f51b100d（228介心靈日77週年影音全集）正文再驗證——「優社社長許正龍以客語吟頌杜潘芳格『台灣介心靈日』詩作」及吟頌張秋台《渡台悲歌》確認見於正文，subject 連結為真；2024-02-28 條目（含該頁 wikilink）已在庫 — SKIP，無新材料。
 
 - 複核（TJJ-A09230400-1, 2026-09-24）：subject link 經本 slice 文章 c62f5c50846fe267 正文再驗證為真實對應，對應 From-the-record 條目已在庫並掛鏈本檔（無錯鏈、無虛鏈）— SKIP，無新材料。
