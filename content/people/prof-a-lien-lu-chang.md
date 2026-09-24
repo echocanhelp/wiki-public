@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-24
 ---
 # Prof. A-Lien Lu-Chang (呂阿戀教授)
 
@@ -35,6 +35,7 @@ Prof. A-Lien Lu-Chang 呂阿戀教授 – History of Taiwanese American (T.A. Ar
 - **Roots:** grew up on Shezi Island (社子島), Taipei — recorded in her community memoir [[works/taiwaneseamericanhistory-org/mystories441|441. 來自社子島的生物化學家─呂阿戀的故事 / 張道穎 / 06/2016]], written by her husband 張道穎 (consistent with the Family section below).
 - **Community leadership:** TAA Baltimore Chapter President (2010), per the TAH profile record [[works/taiwaneseamericanhistory-org/whos-who-1064-a-lien-lu-chang|1064. Prof. A-Lien Lu-Chang 呂阿戀教授 (06/2016)]].
 - Directory entry in the corpus: [[works/taiwaneseamericanhistory-org/113-prof-a-lien-lu-chang|TAH #113 profile]].
+- Re-grep 2026-09-24 (slice 09230317-30): hit set unchanged — corpus hits remain #113, #1064 and the husband's memoir mystories441, all already linked above; verified saturated, nothing new absorbable.
 
 ## Family
 

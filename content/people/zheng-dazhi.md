@@ -8,7 +8,7 @@ tags:
   - artist
   - sculptor
 verification_status: pending
-last_reviewed: 2026-09-10
+last_reviewed: 2026-09-24
 ---
 # Zheng Dazhi (鄭達志)
 
@@ -34,6 +34,10 @@ Zheng Dazhi is an artist whose primary medium is wood sculpture. His works "智�
 ## The Laguna Woods shooting, 2022-05-15
 
 Zheng was not a member of the Geneva Presbyterian Church congregation in Laguna Woods (used by the local Taiwanese Presbyterian community, all services in Taiwanese); he attended that day to accompany his widowed mother in place of his father, who had died about three months earlier. When the gunman (周文偉, David Wenwei Chou) opened fire at the post-service lunch, Zheng rushed him and took three bullets, physically blocking further shots; the gun then jammed, allowing pastor [[people/zhang-xuanxin||張宣信 (Billy Chang)]] to strike the gunman with a chair while others subdued him. Zheng, 52, died; he is survived by his wife and two children (his son was about to enter UCLA pre-med). CNN and other media covered him as the "hero physician" of the shooting — see also [[works/taiwaneseamerican-org/laguna-woods-taiwanese-church-shooting||Laguna Woods Taiwanese Church shooting]], [[organizations/irvine-taiwanese-presbyterian-church||Irvine Taiwanese Presbyterian Church]] (張宣信's church) and [[organizations/laguna-woods-village-taiwanese-club||Laguna Woods Village Taiwanese Club]].
+
+## From the record
+
+- 2022-05-16 — 中央社駐洛杉磯辦事處查證報導：其於南加州台裔教會槍擊案中挺身與凶嫌對峙、中彈身亡，獲橘郡警長與檢察長公開記者會推崇為「英雄」、譽其英勇行為拯救眾多生命；辦事處長黃敏境代表政府、外交部長吳釗燮、駐美代表蕭美琴向家屬表達哀悼，並查證凶嫌周文偉為 1953 年在台出生之移民（[[articles/taiwanjustice-net/2022/20220705131026_2022_05_16_南加州教會槍殺案_駐處查證_凶嫌為台灣移民_8c20569762592915|TJJ 轉載中央社, 2022-05-16]]）。
 
 ## Timeline (from facts on this page)
 
