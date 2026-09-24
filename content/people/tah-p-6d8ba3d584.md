@@ -50,3 +50,5 @@ _No filled family fields on the TAH profile._
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 > Corpus re-scan 2026-09-23 (deepen-x slice 09221300-24): fresh grep works/+articles/ — hit set identical to prior absorption, all records already wikilinked above. SKIP-deepen; nothing new absorbable.
+
+> Corpus re-scan 2026-09-24 (deepen-x slice 09230800-15): fresh grep works/+articles/ — hit set identical (ourjourneys33/58/81/234 + TAH #777), all already wikilinked above. SKIP-deepen; nothing new absorbable.

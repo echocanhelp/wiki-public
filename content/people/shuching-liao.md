@@ -52,3 +52,4 @@ last_reviewed: 2026-09-24
 
 > Corpus re-scan 2026-09-22 (deepen-x slice 09220400-21; previously checked in slice 09210700-28): fresh grep of works/ and articles/ for 廖郭淑卿 / Shuching Liao — sole hit remains her own record #478 (plus works/index), already linked with facts absorbed. SKIP-deepen; nothing new absorbable.
 > Corpus re-scan 2026-09-23 (deepen-x slice 09221300-15): fresh grep re-run — hit-set unchanged (own #478 + works/index only). SKIP-deepen.
+> Corpus re-scan 2026-09-24 (deepen-x slice 09230800-12): fresh grep re-run — hit-set unchanged (own #478 + works/index only). SKIP-deepen; nothing new absorbable.

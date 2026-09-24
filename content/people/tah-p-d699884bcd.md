@@ -52,3 +52,4 @@ last_reviewed: 2026-09-24
 ## Worklog
 
 - 2026-09-23 deepen-x slice 09221300-26: re-verified saturated — fresh grep against works/ + articles/ returns the same 5 files (OJ #186 簽名名录, OJ #75, OJ #272, TAH #718, index), all already wikilinked in Role in the Community; no new absorbable facts.
+- 2026-09-24 deepen-x slice 09230800-12: idempotent re-verify — identical hit-set; 1976 台灣人權及文化協會 co-founding (OJ #75), 1982-01-21 TACL founding meeting (OJ #272), 1985-04-15 簡介 signatory (OJ #186) all already absorbed. Verified-saturated.

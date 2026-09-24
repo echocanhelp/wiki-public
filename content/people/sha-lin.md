@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # Sha Lin (林莎)
 
@@ -51,3 +51,5 @@ Sha Lin, a Chinese-American artist, based in New York, has been trying so hard f
 Corpus re-check 2026-09-22 (deepen-x slice 09210700-29): fresh grep of works/ and articles/ — hit set unchanged, all hits already wikilinked with facts absorbed. SKIP-deepen; nothing new absorbable.
 
 Corpus re-check 2026-09-23 (deepen-x slice 09221300-27): fresh grep of works/ and articles/ — hit set unchanged (232/629/628/whos2/artist43 + works index), all already wikilinked with facts absorbed. SKIP-deepen; nothing new absorbable.
+
+Corpus re-check 2026-09-24 (deepen-x slice 09230800-14): fresh grep — hit set identical (232/629/628/whos2/artist43 + index); death-date HOLD still stands. SKIP-deepen; nothing new absorbable.

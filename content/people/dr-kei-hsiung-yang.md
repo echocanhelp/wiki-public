@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # Dr. Kei-Hsiung Yang (楊界雄博士)
 
@@ -56,3 +56,4 @@ Accomplishment
 - SKIP (no new absorbable facts): recheck confirms the sole corpus hits are his own Who's Who record [[works/taiwaneseamericanhistory-org/whos-who-2059-kei-hsiung-yang|TAH #2059]] and index listings; no memoir or article mentions.
 - Corpus check 2026-09-22 (deepen-x slice 09220500-16): re-grep (楊界雄 / Kei-Hsiung Yang) unchanged — only own record TAH #2059 plus works/index. SKIP-deepen maintained; nothing absorbable, no conflicts to HOLD.
 - Corpus check 2026-09-23 (deepen-x slice 09221300-25): re-grep (楊界雄 / Kei-Hsiung Yang) against works+articles unchanged — only own record TAH #2059 plus works/index. SKIP-deepen maintained; nothing absorbable.
+- Corpus check 2026-09-24 (deepen-x slice 09230800-14): fresh grep unchanged (TAH #2059 + works/index only). SKIP-deepen maintained; no new community material.
