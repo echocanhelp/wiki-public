@@ -40,7 +40,7 @@ last_reviewed: 2026-09-23
 - 1969-07-04 — 第三屆盟員大會（印地安那州蓋略城）當選中央委員會委員（委員長周烒明；同列蔡同榮、楊宗昌、鄭自才等）。依 [[works/taiwaneseamericanhistory-org/ourjourneys81|Our Journeys #81]] 原文，本屆**執行委員會**名單（主席蔡同榮、第一副主席張燦鍙、第二副主席兼外交陳隆志、秘書鄭自才、財務邱坤勝、組織賴文雄、宣傳羅福全、海外聯絡石九葉）不含張文祺——其位置在中央委員會；中央委員中鄭紹良、王秋森後辭職。
 - 與其「台獨聯盟專職人員」紀錄相符：盟內担任行动/执行层级，属1960–70年代台独运动北美组织核心干部之一
 - 本人傳記記錄：[[works/taiwaneseamericanhistory-org/whoswho1455|TAH #1455 張文祺 / 2017-01]]
-- SKIP-with-reason (re-verified 2026-09-22): a fresh corpus grep (張文祺 / Wen Chi Chang) returns only Our Journeys #81 中文版／英文版 (already absorbed above) plus the works index — no additional memoir or community text to absorb. Re-verified 2026-09-23 (slice 09221300-8): fresh grep hit set unchanged (ourjourneys81, ourjourneys81-eng, whoswho1455).
+- SKIP-with-reason (re-verified 2026-09-22): a fresh corpus grep (張文祺 / Wen Chi Chang) returns only Our Journeys #81 中文版／英文版 (already absorbed above) plus the works index — no additional memoir or community text to absorb. Re-verified 2026-09-23 (slice 09221300-8): fresh grep hit set unchanged (ourjourneys81, ourjourneys81-eng, whoswho1455). Re-verified 2026-09-24 (slice 09230700-25): hit set still unchanged — verified-saturated.
 
 ## Sources
 - [TAH #1455 encyclopedia: 1455. Wen Chi Chang 	 張文祺 / 2017/01](https://taiwaneseamericanhistory.org/whoswho1455/)

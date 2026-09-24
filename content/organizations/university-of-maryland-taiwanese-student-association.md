@@ -24,6 +24,8 @@ Re-grepped 2026-09-22 (slice 09212352-30): zero direct hits for the club name or
 
 Re-grepped 2026-09-23 (slice 09221300-11): zero direct hits for the club name or handles (umdtsa / umd_tsa). Still SKIP: nothing absorbable about this club.
 
+Re-grepped 2026-09-24 (slice 09230700-25): zero direct hits for the club name or handles; "馬里蘭/Maryland" hits remain unrelated memoir passages (翁登山/FDA, 華府台灣文化中心 at Derwood, 馬里蘭葬禮悼辭, 州長 hate-crime passage). Still SKIP: nothing absorbable about this club.
+
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/university-of-maryland-taiwanese-student-association/)
 

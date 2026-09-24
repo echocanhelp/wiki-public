@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # John J.Y. Huang (黃仲義)
 
@@ -52,6 +52,8 @@ Work pages touched:
 - [[works/taiwaneseamericanhistory-org/ourjourneys37|Our Journeys #37（含台灣協志會會史）]]
 - [[works/taiwaneseamericanhistory-org/ourjourneys106|Our Journeys #106（含台灣協志會會史）]]
 - [[works/taiwaneseamericanhistory-org/84-john-j-y-huang-e9-bb-83-e4-bb-b2-e7-be-a9|TAH #84. John J.Y. Huang 黃仲義]]
+
+Re-verified 2026-09-24 (slice 09230700-25): fresh grep (黃仲義 / John J.Y. Huang) hit set unchanged — ourjourneys37, ourjourneys106, TAH #84, works index only. Verified-saturated; nothing new absorbable.
 
 ## Sources
 - [TAH #84 encyclopedia: 84. John J.Y. Huang 黃仲義](https://taiwaneseamericanhistory.org/84-john-j-y-huang-%e9%bb%83%e4%bb%b2%e7%be%a9/)

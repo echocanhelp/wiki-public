@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # Taiwanese American Association of Greater Orlando TAAGO (大奧蘭多)
 
@@ -27,7 +27,7 @@ Orlando's Taiwanese community is small but institutionally layered: TAAGO sits a
 TAAGO representation appears in the community's public advocacy record: HueiTong Huang was listed as the Taiwanese American Association of Greater Orlando signatory in the Pew-statement response signed by Taiwanese American leaders [[works/taiwaneseamerican-org/pew-research-center-taiwanese-american-statement|Pew Research Center Taiwanese American statement response]].
 
 HOLD: founding year of TAAGO not in corpus (directory-era record only, 2015); no corpus record of chapter officers or events beyond the signatory mention.
-- SKIP-with-reason (re-verified 2026-09-22; re-confirmed 2026-09-23 slice 09221300-10): a fresh corpus grep (TAAGO / 大奧蘭多 / Greater Orlando) returns only the works already wikilinked above plus the works index — no new memoir or community text to absorb.
+- SKIP-with-reason (re-verified 2026-09-22; re-confirmed 2026-09-23 slice 09221300-10; re-confirmed 2026-09-24 slice 09230700-28): a fresh corpus grep (TAAGO / 大奧蘭多 / Greater Orlando) returns only the works already wikilinked above (chapter record, 大奧蘭多台灣商會, 奧蘭多台福基督教會, Pew signatory) plus the works index — no new memoir or community text to absorb.
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-american-association-of-greater-orlando-taago/)
