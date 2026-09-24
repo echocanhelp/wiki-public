@@ -1,0 +1,4 @@
+organizations/sun-ten-museum.md
+people/janet-hsieh.md
+people/c-l-hong.md
+people/john-chin-jung-cheng.md
