@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # Liang Chuan Peng (彭兩泉)
 
@@ -31,6 +31,7 @@ Liang Chuan Peng (彭兩泉) is listed in the TAH Foundation Who’s Who Taiwane
 - 2026-09-22 deepen-x slice 09220400-15: SKIP — re-verified saturated: grep hits remain ourjourneys37/37-eng/38/38-eng/whoswho803 (+ index listing); all facts already absorbed into Role in the Community, no new material.
 - 2026-09-22 re-check: fresh greps for 彭兩泉 / Liang Chuan Peng hit only ourjourneys37 / 37-eng / 38 / 38-eng / whoswho803 — all facts above absorbed (English roster link newly added); no new material.
 - 2026-09-23 deepen-x slice 09221200-18: SKIP — verified-saturated. Fresh greps again return only ourjourneys37 / 38 / 37-eng / 38-eng / whoswho803 (+ index); all context (president roster, 1975 term, 美西夏令營 founding, 重心南移 narrative) already absorbed above.
+- 2026-09-24 deepen-x slice 09230600-29: SKIP — verified-saturated. Fresh ZH+EN greps return the identical hit set (ourjourneys37 / 38 / 37-eng / 38-eng / whoswho803 + index); no new material.
 
 ## Family
 

@@ -53,4 +53,4 @@ last_reviewed: 2026-09-24
 
 > Corpus re-scan 2026-09-23 (deepen-x slice 09221200-12): fresh grep 李賢淇/Edward H Lee — same set: record #1676, ourjourneys-138, ourjourneys47, the 2018-07-20 TJJ 連署名單. All facts already absorbed; nothing new.
 
-> Corpus re-scan 2026-09-24 (deepen-x slice 09230600-25): fresh grep 李賢淇/Edward H Lee — same set: record #1676, ourjourneys-138, ourjourneys47, the 2026-07-20-era TJJ 連署名單 (2018-07-20), plus works index. All facts already absorbed; nothing new absorbable.
+> Corpus re-scan 2026-09-24 (deepen-x slice 09230600-25): fresh grep 李賢淇/Edward H Lee — same set: record #1676, ourjourneys-138, ourjourneys47, the 2018-07-20 TJJ 連署名單, plus works index. All facts already absorbed; nothing new absorbable.

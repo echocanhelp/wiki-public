@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # Prof. Maw-Kuen Wu (吳茂昆教授)
 
@@ -50,6 +50,7 @@ _No filled family fields on the TAH profile._
 ## Worklog
 - 2026-09-22 deepen-x slice 09220317-32: SKIP confirmed — corpus hits are only the two own-record TAH entries and the two TJJ press records already linked; the directorship-tenure HOLD stands.
 - 2026-09-23 deepen-x slice 09221200-13: re-verify SKIP — fresh grep returns only 142, 646, the two TJJ records (all linked) and the works index; nothing new absorbable, HOLD stands.
+- 2026-09-24 deepen-x slice 09230600-28: re-verify SKIP — fresh ZH+EN grep returns the identical hit set (142, 646, works index, two TJJ records); verified saturated, tenure HOLD stands.
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
