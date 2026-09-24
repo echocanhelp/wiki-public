@@ -35,6 +35,8 @@ _No filled family fields on the TAH profile._
 
 ## From the record
 
+- 複核（TJJ-A09162345-27, 2026-09-23）：本 slice 文章 8842b0e0（VOA 唐培理報導）正文「魏朝廷和謝聰敏已被捕入獄」再驗證——謝聰敏 subject link 為真實對應，2011-11-18 條目已在庫（無錯鏈、無虛鏈）— SKIP，無新材料。
+
 - 複核（TJJ-A09221300-11, 2026-09-23）：subject link 經本 slice 再驗證為真實對應，對應 From-the-record 條目已在庫（無錯鏈、無虛鏈）— SKIP，無新材料。
 
 - 再核（TJJ-A09220900-2, 2026-09-23）：本 slice 獨傲村夫〈反攻大陸（下）〉兩份TJJ存檔（dd1007a6 2017-12-20 snapshot／35d25fb4 2024-07-19 snapshot）正文再驗證——謝聰敏與彭明敏、魏廷朝共同發表1964-09-20自救宣言之連結為真，對應條目已在庫，無新材料。

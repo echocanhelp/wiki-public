@@ -46,6 +46,7 @@ father [[people/su-chun-huai||蘇春槐]]; mother 羅淑雅 (no page yet).
 
 ## From the record
 
+- 複核（TJJ-A09162345-27, 2026-09-23）：本 slice 文章 4779b4e7（SIA Noyce 大獎報導）subject link 經正文再驗證為真實對應（与 [[people/lisa-su|Lisa T. Su]] 双页并存，各自为真），2020-09-21 事實條目已在庫 — SKIP，無新材料。
 - 複核（TJJ-A09221300-15, 2026-09-23）：本 slice 文章 e1e223aa 同時連結本页与 [[people/lisa-su|Lisa T. Su]] ——同一真人（AMD CEO 蘇姿丰）双页并存，各自链接为真；合并留待专档。2020-06-02 條目已在庫。
 
 - 2021-09-22 — 白宮公布30位總統科技顧問會議（PCAST）成員名單，出身台灣的AMD總裁兼執行長蘇姿丰（蘇姿豐）入選，為白宮簡介所稱首位獲IEEE Robert N. Noyce大獎的女性（[[articles/taiwanjustice-net/2021/20211028205125_2021_09_22_超微台裔總裁兼執行長蘇姿丰-出任美國總統科技顧_88c15e5403e6b9b9|TJJ 轉載中央社記者報導, 2021-09-22]]）。
