@@ -64,3 +64,4 @@ last_reviewed: 2026-09-24
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - Corpus re-grep 2026-09-23 (slice 09221000-2)：驗證飽和 — 命中集不變（ourjourneys76/-eng、81、212、234、publications1092、#235、#377）。#81 中「麥迪遜結盟大會」書信連署名单另列「西雅圖的王秋森」，與同文洛杉磯地區代表身分並存，不另拆記；無新可吸收語料。
+- Corpus re-grep 2026-09-24 (slice 09230400-1)：驗證飽和 — fresh ZH+EN grep 命中集不變且全部已連結吸收；無新可吸收語料。

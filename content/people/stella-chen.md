@@ -59,3 +59,4 @@ B.S. Dept. of Adult & Continuing Education(社教系)
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - Corpus re-grep 2026-09-23 (slice 09221000-2)：驗證飽和 — 命中集不變（#311、#513、#545、#448、#173、our-journeys-357、ourjourneys2、ourjourneys60-eng），紐約「台灣之音」回憶錄中絕食抗議段落已吸收；無新語料，Stella Chen Landauer 同名 HOLD 不變。
+- Corpus re-grep 2026-09-24 (slice 09230400-1)：驗證飽和 — fresh ZH+EN grep 命中集與前次完全一致且全部已連結吸收；無新語料，Stella Chen Landauer 同名 HOLD 不變。

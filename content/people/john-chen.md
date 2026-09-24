@@ -56,3 +56,7 @@ last_reviewed: 2026-09-24
 
 ## Corpus re-grep (2026-09-22, slice-09220800-26)
 - SKIP: fresh grep 陳榮儒 / John Chen — same hit set (ourjourneys123-eng、ourjourneys197、167、687、ourjourneys228、John Cheng 誤配)，全數已連結吸收，無新語料。
+
+## Corpus re-grep (2026-09-24, deepen-x slice-09230317-24)
+- DEEPENED: two previously-unlinked corpus records absorbed above — 901.《FAPA與國會外交》(2004/05) and 123.《明州台美人百年大事》中文版 (1991 FAPA 總會長演講與郭倍宏同場)。
+- Disambiguation: grep hits [[works/taiwaneseamericanhistory-org/our-journeys-380|380. Irvine教會槍擊案]] (Dr. John **Cheng** 鄭姓醫師, victim) and [[works/taiwaneseamericanhistory-org/whoswho1725|1725. John Chen 陳耀光]] (different person) are English-name collisions only — not linked.

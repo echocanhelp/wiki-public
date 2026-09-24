@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-24
 ---
 # Dr. Charles C. Hsu (許宗邦醫師)
 
@@ -49,6 +49,7 @@ Accomplishment
 
 - Re-verified 2026-09-20 / 2026-09-21 (slice-11, slice 09201400-18): corpus re-grep (許宗邦|Charles C. Hsu) returns the same 6-hit set (#274, #894, #1047, #49, Our Journeys #287, Our Journeys #393) — all absorbed above; #287's caption dates his NAPTA presidency to 2015, consistent with the profile's 2014–2015 term (no conflict). SKIP (saturated).
 - Re-verified 2026-09-22 (slice 09220800-25): fresh grep re-run returned the identical 6-hit set — no new corpus material. SKIP (saturated).
+- Re-verified 2026-09-24 (deepen-x slice-09230317-24): fresh grep 許宗邦 / Charles C. Hsu returned the identical 6-hit set (#274, #894, #1047, #49, Our Journeys #287, Our Journeys #393) plus works/index — all absorbed above. SKIP (saturated).
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

@@ -54,6 +54,7 @@ Accomplishment
 - 2011-10-15 — 《好國好民》Dear Taiwan 美國巡迴放映座談會公告（導演、製片）：波士頓（10/22）及北卡（11/5）放映會確定，紐約、華府、費城、休士頓、舊金山、洛杉磯籌備中（[[articles/taiwanjustice-net/2024/20240718223218_root_b5e568ec43e787f1|TJJ，2011-10-15]]）。
 
 - 複核 2026-09-23（DEEPEN-X slice 09220900-3 重跑，前次 run stale-lock 回收）：fresh ZH+EN corpus re-grep（content/works content/articles）hit set 與 2026-09-22 完全一致，全部命中已連結於本頁；無新回憶錄、社團或報導材料可吸收 — verified-saturated。
+- Corpus re-grep 2026-09-24 (slice 09230400-1)：verified-saturated — fresh ZH+EN grep hit set 與前次一致（whos-who-1835、月舞玫瑰報導、兩則《好國好民》巡迴公告），全部已連結；無新材料。
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
