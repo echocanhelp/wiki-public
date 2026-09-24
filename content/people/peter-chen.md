@@ -63,6 +63,8 @@ last_reviewed: 2026-09-23
 
 ## From the record
 
+- 複核（TJJ-A09171200-6, 2026-09-24）：本 slice 文章 23e163f71d3f2ba5（長青教室標籤頁）主體連結對照正文再驗證——「長青教室心得報告-為什麼台美人對『台灣』重要 ◎ 陳正義律師 2018-04-04」確認見於正文，連結為真；2018-04-04 日期事實（含該文 wikilink）已在庫 — SKIP，無新材料。
+
 - 複核（TJJ-A09221500-4, 2026-09-23）：本 slice 文章 c92664485ca4c1a7（English Pages page 3, 2020-06-29 快照）正文再驗證——「Time to reaffirm Taiwan-US ties ◎By Peter Chen 陳正義/Taipei Times」條目確認見於正文，subject 連結為真；2020-06-29 條目已在庫，無新材料。
 
 - 複核（TJJ-A09221400-8, 2026-09-23）：第53回世界台灣文化論壇稿（[[articles/taiwanjustice-net/2022/20221127045936_2022_09_25_第53回世界台灣文化論壇_ti美國點光台灣高龍榮-吳_e9faa17a0a7ea61c|e9faa17a0a7ea61c]]）subject link（主持人 Peter Chen 陳正義）經正文再驗證為真實對應，2022-09-25 條目已在庫 — SKIP，无新材料。
