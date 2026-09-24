@@ -6,7 +6,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # 張肅
 
@@ -50,3 +50,4 @@ last_reviewed: 2026-09-23
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+<!-- deepen-x 09230800-18: re-verified 2026-09-24 — fresh grep (張肅, works+articles): hits unchanged (ourjourneys106, ourjourneys33, whos480, index) — all absorbed; 106 blacklist roster line and 33 family narrative already in Role in the Community. SKIP-content — saturated. -->

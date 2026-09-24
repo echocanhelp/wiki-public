@@ -101,6 +101,8 @@ In 2006, the party ended official recognition of factions, though they remain re
 
 ## From the record
 
+- 複核（TJJ-A09230700-10, 2026-09-24）：本 slice 文章 042939d886040651（Mark Kao 高龍榮 Taipei Times 專欄 TJJ 轉載）正文再驗證——DPP 九合一勝選、被要求給對中政策「specific outcome」之記述確認見於正文，subject 連結為真，無錯鏈、無虛鏈；2015-03-27 條目已在庫 — SKIP，已飽和。
+
 - 複核（TJJ-A09230600-1, 2026-09-24）：本 slice 文章 795e52aadf3797a0 正文再驗證——評述認為扁保外就醫證明和平革命、反駁 SCMP「分裂民進黨」論確認見於正文，subject 連結為真；2015-01-07 條目已在庫 — SKIP，無新材料。
 
 - 複核（TJJ-A09230400-1, 2026-09-24）：subject link 經本 slice 文章 becb39f917174438 正文再驗證為真實對應，對應 From-the-record 條目已在庫並掛鏈本檔（無錯鏈、無虛鏈）— SKIP，無新材料。
