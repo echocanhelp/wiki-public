@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # Rev. Martin C. Wang (王成章牧師)
 
@@ -56,3 +56,5 @@ last_reviewed: 2026-09-23
 
 ## Network
 - [[organizations/presbyterian-church-in-taiwan||PCT]] — TAH Who’s Who
+
+複核（deepen-x slice 09230500-4, 2026-09-24）：corpus re-grep（works+articles，ZH+EN）命中仍僅 our-journeys-392、ourjourneys338、ourjourneys268、ourjourneys43、whoswho1429、index 六件，皆已吸收（含 #338 1977 大會間諜軼事）— SKIP-with-reason：語料已飽和，HOLD 三則未解。

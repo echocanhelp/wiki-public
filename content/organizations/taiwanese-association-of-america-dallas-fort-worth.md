@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # Taiwanese Association of America Dallas-Fort Worth (達拉斯台灣同鄉會)
 
@@ -34,6 +34,7 @@ The Taiwanese Association of America Dallas-Fort Worth (TAA-DFW, 達拉斯台灣
 - Parallel DFW Taiwanese civic life in the record also includes the Taiwanese Chamber of Commerce in Dallas-Fort Worth (Greater Dallas Taiwanese Chamber of Commerce, est. 1987), whose New Year Gala is documented at [[works/taiwaneseamerican-org/new-year-gala-hosted-by-taiwanese-chamber-of-commerce-in-dallas-fort-worth|TCC DFW New Year Gala]] — a separate organization from the chapter. Dallas community figures appear in the Houston TCC founding memoir too: 大達拉斯台灣商會 representative Wen-hsin Wu sat on the first TCC management committee, and the Chin-huang Tsai family from Dallas performed the lion dance at the 1992-07-11 ribbon cutting ([[works/taiwaneseamericanhistory-org/ourjourneys31-eng|Our Journeys 31 (English)]], [[works/taiwaneseamericanhistory-org/ourjourneys233-eng|Our Journeys 233 (English)]]).
 - 2026-09-22 corpus re-grep (DEEPEN-X slice 09212352-26): hit-set otherwise unchanged (chapter record + concerts79 already absorbed); founding-era memo above is the only new absorbable material.
 - 2026-09-23 corpus re-grep (DEEPEN-X slice 09221100-3): hit-set unchanged — chapter record, concerts79, OJ 31/76/233 (English) and the Dallas peer-institution records are all absorbed above. VERIFIED-SATURATED, no new material.
+- 2026-09-24 corpus re-grep (DEEPEN-X slice 09230500-2): hit-set unchanged except a TJJ 2021 人口遷移報導 naming Dallas-Fort Worth merely as a relocation destination for LA/SD out-migrants — not community-relevant. VERIFIED-SATURATED.
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-association-of-america-dallas-fort-worth/)

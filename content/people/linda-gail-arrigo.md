@@ -42,6 +42,7 @@ _No filled family fields on the TAH profile._
 - 本人著作存檔：自述台灣人權戒嚴時期國際力量的文章（[[works/taiwaneseamericanhistory-org/our-journeys-363|363. 戒嚴時期關注台灣人權的國際力量／艾琳達／12/2020]]，value band A）與回顧回台觀感的〈Reflections on Returning to Taiwan〉（[[works/taiwaneseamericanhistory-org/mystories524|524. REFLECTIONS ON RETURNING TO TAIWAN／Linda Gail Arrigo／03/2017]]）；林倖妃為她寫的側寫〈始終左言左行的艾琳達〉亦存檔（[[works/taiwaneseamericanhistory-org/mystories622|622／林倖妃／01/2018]]）。
 - 同鄉大會講者紀錄：1988 年第十屆台灣人台灣同鄉聯合會年會（南卡 Converse College，主題「台灣社會改革與婦女運動」）以婦女運動來賓身分與張富美、黃美惠、鄭至慧同台；1995 年第十七屆年會再以環保主題發表演說（[[works/taiwaneseamericanhistory-org/ourjourneys245|Our Journeys 245]]）。
 - 2026-09-23 corpus re-grep（DEEPEN-X slice 09221100-3）：命中集不變 —— 語料庫內凡提及艾琳達/Arrigo 的 work 紀錄（OJ 38／142／321／357／381、TAH 百科 810、本人收藏條目）均已 wikilink 於上；其餘文字命中為無關歌劇文章（Arrigo Boito）。VERIFIED-SATURATED，無新可吸收素材。
+- 2026-09-24 corpus re-grep（DEEPEN-X slice 09230500-1）：命中集不變（OJ 38／142／321／357／381、TAH 百科 810 全數已連結）。VERIFIED-SATURATED。
 
 ## From the record
 

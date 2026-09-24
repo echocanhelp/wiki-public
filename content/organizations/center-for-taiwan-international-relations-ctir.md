@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # Center for Taiwan International Relations, CTIR (台灣國際關係中心)
 
@@ -28,6 +28,7 @@ Recorded in the TAH *Our Journey* memoir corpus ([[works/taiwaneseamericanhistor
 - **1988–89 NATPA partnership:** CTIR co-hosted with NATPA the first Taiwanese-identity-based reception in Washington for Taiwan-studies scholars attending the 41st Association for Asian Studies annual meeting; NATPA's memoir names 蔡武雄 as CTIR's person in charge.
 - **Director's movement pedigree:** Before CTIR, 蔡武雄 (then a graduate student) was founding president of TAA's **Ithaca chapter**, one of the 28 founding chapters listed in the founding history ([[works/taiwaneseamericanhistory-org/ourjourneys76|全美會成立史]]). As head of the Library of Congress Asia/Africa division he later testified as an expert witness in the 四腳仔 libel suit, drawing the Vichy-France "collaborator" analogy for the term 四腳仔 — praised in a fellow witness's memoir as a shrewd, jury-legible framing ([[works/taiwaneseamericanhistory-org/ourjourneys63|Our Journey #63]]). His own encyclopedia profile: [[works/taiwaneseamericanhistory-org/whos-who-1703-wu-hsiung-tsai|1703. Dr. Wu Hsiung Tsai 蔡武雄博士]]. HOLD: the 1971 incorporation record for The Formosan Club of America lists 社員 蔡文雄 (律師, Washington D.C.) — 蔡文雄 vs 蔡武雄 possibly distinct persons; not merged.
 - Corpus re-grep 2026-09-23 (slice 09221100-12): new facts absorbed from ourjourneys76 (Ithaca founding presidency) and ourjourneys63 (四腳仔 trial testimony); prior hits (org record 29, #47/#254) unchanged.
+- Corpus re-grep 2026-09-24 (slice 09230500-2): hit-set unchanged (org record 29, #47, #254, index). The one nominal new hit (TJJ 2025-12-11 戴琪/歐盟 tag 文) is a false positive — 'CTIR' occurs there only inside a Wayback archive_digest hash, not as a mention — SKIP, no new material.
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/center-for-taiwan-international-relations-ctir/)

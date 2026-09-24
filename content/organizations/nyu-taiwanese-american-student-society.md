@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # NYU Taiwanese American Student Society
 
@@ -33,3 +33,4 @@ Community-press coverage names NYU TASS directly across the 2011–2013 wave of 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- Corpus re-grep 2026-09-24 (slice 09230500-4): SKIP — fresh hits are all non-NYU TASS homonyms or rejected: TASS Greater DC senior society (newsletter-of-tass, photo-albums-activities-28), Atlanta TASSC, Our Journeys #360 (NYU Langone mask donation), plus the already-absorbed press records. No new attributable facts.

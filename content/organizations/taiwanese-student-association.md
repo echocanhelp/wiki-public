@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # Taiwanese Student Association
 
@@ -33,6 +33,7 @@ Texas A&M-linked community records in our corpus:
 
 HOLD: this page describes the Texas A&M University chapter (德州農工大學台灣同學會, contemporary); the corpus predates it (KU 1961 recorded as the first TSA). Treat the page as chapter-specific — the lineage above is shared movement context, not this chapter's own founding.
 Disambiguation: the corpus's 「台灣學生社」 records — [[works/taiwaneseamericanhistory-org/taiwanese-collegian-irvine-ca|Taiwanese Collegian 台灣學生(季刊) by 台灣學生社]] and [[works/taiwaneseamericanhistory-org/concerts114|114. Landscape of Formosa by Taiwanese Collegian/MTSC 台灣學生社/中西部台灣人夏令會 (Cincinnati, 07/07/2000)]] — name the Midwest Taiwanese Collegian/MTSC organization, not a Texas A&M chapter; do not merge into this page's lineage.
+- 複核（deepen-x slice 09230500-2, 2026-09-24）：fresh ZH+EN re-grep（台灣同學會 / Taiwanese Student Association）命中集不變——ff33、ourjourneys81/219/277/321、dumplings-usctsa 均已連結於上 — SKIP-with-reason：無新社群語料。
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-student-association/)

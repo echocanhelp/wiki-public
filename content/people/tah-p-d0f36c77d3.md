@@ -44,6 +44,7 @@ _No filled family fields on the TAH profile._
 - 複核（deepen-x slice 09210400-1, 2026-09-21）：corpus re-grep（works+articles）命中僅 whoswho921（已連結）、index、MANIFEST，及 TJJ 立委同名報導（下方 HOLD 已標記非本人）— SKIP-with-reason：無屬於本人（Illinois 醫師）的新社群語料。
 - 複核（deepen-x slice 09212352-2, 2026-09-22）：再次 re-grep，命中集不變（whoswho921 已連結；TJJ 命中全為立委李彥秀同名報導，含 2025-02-10 民視新聞節目表「李彥秀爽當美國包租婆」一筆，同屬非本人）— SKIP-with-reason：仍無 Illinois 醫師本人的社群語料。
 - 複核（deepen-x slice 09221000-1, 2026-09-23）：fresh re-grep，命中集不變（whoswho921 已連結；TJJ 命中全為立委李彥秀同名報導）— SKIP-with-reason：仍無 Illinois 醫師本人的社群語料。
+- 複核（deepen-x slice 09230500-2, 2026-09-24）：fresh re-grep，命中集不變（whoswho921 已連結；TJJ 命中全為立委李彥秀同名報導，同名 HOLD 不變）— SKIP-with-reason：仍無 Illinois 醫師本人的社群語料。
 - HOLD (identity): the "From the record" TJJ entries below describe the KMT legislator 李彥秀 (Taipei 4th district / 國民黨文傳會主委), while this page's TAH profile is a practicing internist/pulmonologist in Bolingbrook, Illinois. The TJJ 2020當選名單 record itself flags this as a coincidental name match, not the TAH physician — entries kept for review, never auto-merged (deepen-x re-grep 2026-09-18).
 
 ## From the record
