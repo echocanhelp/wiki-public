@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # Dr. Henry H. Yu (游宏仁醫師)
 
@@ -59,3 +59,4 @@ Dr. Yu has been a central institution-builder in the Greater Washington DC Taiwa
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 - Corpus re-grep (deepen-x 2026-09-23, slice 09220900-6): hit set unchanged (ourjourneys-138、whos-who-1646、41-介紹一個成功的社團、2018 管中閔抗議信、index) — all absorbed and wikilinked, verified-saturated; 牙醫 HOLD stands.
+- Corpus re-grep (deepen-x 2026-09-24, slice 09230400-4): hit set unchanged (ourjourneys-138、whos-who-1646、41-介紹一個成功的社團、2018 管中閔抗議信、index) — all absorbed and wikilinked, verified-saturated; 牙醫 HOLD stands.
