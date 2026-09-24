@@ -52,6 +52,8 @@ For more bio information, please click link in Who’s Who: 971. Cheng-I (Jim) Y
 - 覆核（TJJ-A09171200-9, 2026-09-24）：slice 09171200-9 四篇與 TJJ-A09170400-17 同文（北市議員缺額 93c0627d、全美會228 f6213c19、長青教室tag 2777c888、會館tag p13 ced69523）正文再驗證 — 本頁條目確認見於正文，連結為真；日期事實已在庫 — SKIP，無新材料。
 - 2018-07-19 — among the 國立台灣大學校友 co-signatories of the open letter protesting 南加州台大校友會's invitation of 管中閔 as annual-meeting keynote speaker, listed as 楊正義(機械) — the 機械 (mechanical engineering) tag matches his NTU B.S. ME degree, but the letter gives no further identifiers, so the identification with this Austin-activist/DuPont-engineer 楊正義 is inferred, not confirmed — [[articles/taiwanjustice-net/2018/20180721091303_2018_07_20_抗議-南加州台大校友會邀管中閔來年會做專題演講_a428dcebbceacf38|TJJ 台大校友連署抗議, 2018-07-20 存檔]].
 
+- 覆核（deepen-x slice 09230600-17, 2026-09-24）：fresh grep 楊正義／Jim Young／Cheng-I — hit set unchanged (ourjourneys76/-eng, our-journeys-378, whoswho971, atists62); the 378 1997 楊正義 entry is already absorbed with its HOLD. Verified saturated.
+
 ## Sources
 - [TAH #62 encyclopedia: 62. 楊正義 Cheng-I (Jim) Young](https://taiwaneseamericanhistory.org/atists62-cheng-i-jim-young/)
 - [TAH #971 encyclopedia: 971. Cheng-I (Jim) Young 楊正義 / 2016/05](https://taiwaneseamericanhistory.org/whoswho971/)

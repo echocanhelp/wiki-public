@@ -36,6 +36,7 @@ last_reviewed: 2026-09-24
 ## Worklog
 - 2026-09-22 deepen-x slice 09220317-29: SKIP (verified-saturated) — re-grep (TAPA／台美攝影學會／台美攝影協會) returns only records already linked above (the 2015 TAH story, the Taiwan Justice class/exhibition listings, and the ourjourneys65 FAPA-name mention, already disambiguated). No new corpus facts.
 - 2026-09-23 deepen-x slice 09221200-7: SKIP (verified-saturated) — fresh grep returns the same hit set (taiwanese-american-photographers-association work page, the two 2023 TJJ listings, the 攝影初級班 tag page); all already linked with facts absorbed. No new corpus facts.
+- 2026-09-24 deepen-x slice 09230600-14: SKIP (verified-saturated) — fresh grep (台美攝影學會／台美攝影協會／Taiwanese American Photographers) returns the identical hit set: the 2015-07-31 TAH story [[works/taiwaneseamericanhistory-org/taiwanese-american-photographers-association|21. 台美攝影協會]], the 2023-06 class listing, the 2023-09-09~10 會員作品聯展 listing, and the 攝影初級班 tag page — all already linked above with facts absorbed. HOLD 學會 vs 協會 still open.
 
 ## Sources
 - [TAH directory](https://taiwaneseamericanhistory.org/organization/taiwanese-american-photographers-association/)

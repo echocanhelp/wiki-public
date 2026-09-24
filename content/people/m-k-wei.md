@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # M. K. Wei (魏妙圭)
 
@@ -40,6 +40,8 @@ last_reviewed: 2026-09-23
 - HOLD: conflict — co-author of record 293 is 鄭憲章; TAH profile lists her husband as 鄭信傳 (also the 夫婦專訪 subject). The memoir text carries both names (speech by 鄭信傳醫師、魏妙圭夫婦; photo credit 鄭憲章提供 10/2017), so the two-name discrepancy is inside the primary record itself. Never merged; identity relation unverified.
 - Corpus re-check 2026-09-22 (deepen-x slices 09210800-18, 09220400-3): fresh grep of works/ + articles/ — hit set unchanged (own records 293 / 293-eng / videos40 / whoswho1065); memoir-text facts above newly absorbed from 293. SKIP-deepen; saturated.
 - Corpus re-check 2026-09-23 (deepen-x slice 09221200-6): fresh grep 魏妙圭 / M. K. Wei — hit set unchanged (293 / 293-eng / videos40 / whoswho1065). Verified saturated.
+
+- Corpus re-check 2026-09-24 (deepen-x slice 09230600-17): fresh grep 魏妙圭 / M. K. Wei — hit set unchanged (293 / 293-eng / videos40 / whoswho1065 + index). Verified saturated; HOLD stands.
 
 ## Sources
 - [TAH #1066 encyclopedia: 1066. M. K. Wei 魏妙圭 / 2016/06](https://taiwaneseamericanhistory.org/whoswho1065/)
