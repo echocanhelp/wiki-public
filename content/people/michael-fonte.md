@@ -72,6 +72,8 @@ last_reviewed: 2026-09-24
 - 2016-04-30 — 楊遠薰「彭光理與台灣的半生緣(上)(下) ─ Michael Fonte 的故事」兩篇並列於台灣公義報「楊遠薰」標籤彙整頁第2頁（Wayback 2021-12-07 快照），為該人物系列報導之另一時點存檔（[[articles/taiwanjustice-net/2021/20211207121400_tag_楊遠薰_page_2_23197ebf177d0b6a|TJJ 楊遠薰標籤頁2, 2021-12-07 快照]]）。
 - 2024-01-24 — 中央社記者報導（TJJ 存檔）：黨主席賴清德於中常會頒贈即將退休的駐美代表處主任彭光理（Michael J. Fonte）終身貢獻獎章；報導梳理其生平——1967 年以天主教傳教士身份來台，於台中、彰化、苗栗鄉間傳教並推廣社會公義與人權；1986 年民進黨創黨之初在華府與 FAPA 穿針引線、接待美麗島事件受刑人家屬；2002 年起擔任民進黨華盛頓聯繫人，2013 年起掌管民進黨駐美辦公室，2024 年 5 月退休，被賴清德稱為民進黨在華府「最重要的代言人」與台美關係史上最佳時刻的推手之一（[[articles/taiwanjustice-net/2024/20240225154559_root_e68ffc76518812af|TJJ 轉載中央社記者報導, 2024-01-24]]）。HOLD: frontmatter Employment 記「民進黨駐美代表處 — Present — 主任」，報導則明載其 2024-05 退休榮退——現職狀態待更新，未自動改寫。
 
+- 複核（TJJ-A09230700-7, 2026-09-24）：slice 文章 e38ae3f755e47f77（楊遠薰標籤页第2頁）正文再驗證——「彭光理與台灣的半生緣(上)(下)」「亂世奇緣」條目確認見於正文，連結為真；對應條目已在庫 — SKIP，無新材料。
+
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

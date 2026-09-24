@@ -85,6 +85,8 @@ _No filled family fields on the TAH profile._
 
 - 複核（TJJ-A09230400-2, 2026-09-24）：本 slice 文章 04f32b14d8cf8f12（台灣會館會訊#11(2016-12-17)）正文再驗證——正文點名其負責 228 七十週年系列，subject 連結為真，無錯鏈、無虛鏈；對應日期事實條目（含該文 wikilink）已在庫 — SKIP，無新材料。
 
+- 複核（TJJ-A09230700-7, 2026-09-24）：slice 文章 23da543a315a1fa1（南加2/25聯合紀念228七十週年公告）正文再驗證——「董事賴慧娜擔任召集人」確認見於正文，連結為真；2017-02-17 條目已在庫 — SKIP，無新材料。
+
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

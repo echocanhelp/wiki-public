@@ -8,7 +8,7 @@ tags:
   - novelist
   - literature
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # Shawna Yang Ryan (楊小娜)
 
@@ -102,3 +102,5 @@ Yang Ryan's profile in the 2017 TAHS publication was prepared by the Taiwanese A
 - 2016-12-09 — Ryan's Washington Post op-ed, republished on TJJ, opens with her third-grade interview of her Taiwanese mother about being "from China," then uses her research for the novel *Green Island* to argue that treating Taiwan's history as beginning in 1949 is "a second silencing" after 38 years of martial law ([[articles/taiwanjustice-net/2024/20240721112815_root_15fc4a3e5664504e|TJJ republication of WaPo op-ed, 2016-12-09]]).
 - 2021-02-11 — 受邀擔任首屆游玲娟、游銘泉創意寫作獎（Betty L. Yu and Jin C. Yu Creative Writing Prizes，TaiwaneseAmerican.org）評委（[[articles/taiwanjustice-net/2026/20260211084131_全國圖書獎得主游朝凱charles-yu為台美人青年創意作家_5b6cede86851b2ba|TJJ, 2021-02-14]]）。
 - 2017-03-04 / 03-05 — 大洛杉磯台灣會館會訊公告：3月4日下午一時應台美人筆會等社團之邀在會館演講《綠島》創作經驗，3月5日下午三點在橙縣Tustin台灣人長老教會演講「Legacy: Seventy Years after 2-28」；會訊並記其為夏威夷大學文學教授、以七年寫成《綠島》獲NYT與LA Times推介（[[articles/taiwanjustice-net/2024/20240530134421_root_23da543a315a1fa1|TJJ 轉載台灣會館會訊，2017-02-17]]）。
+
+- 複核（TJJ-A09230700-7, 2026-09-24）：slice 文章 23da543a315a1fa1（南加2/25聯合紀念228七十週年公告）正文再驗證——「台美人第二代作家楊小娜(Green Island的作者)…3月4日會館演講、3月5日Tustin台灣人長老教會演講」確認見於正文，連結為真；2017-03-04/05 條目已在庫 — SKIP，無新材料。
