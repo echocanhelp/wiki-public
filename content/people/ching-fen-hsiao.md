@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # Ching-Fen Hsiao (蕭清芬)
 
@@ -42,6 +42,8 @@ last_reviewed: 2026-09-23
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/ching-fen-hsiao/)
 
 ## From the record
+
+- 複核（TJJ-A09171200-2, 2026-09-24）：本 slice 文章 2a3226a1b19c5a46（中央社人物專稿轉載, 2023-11-20, 2023-12-08 快照）正文再驗證——「蕭美琴的父親蕭清芬從事神學教育…擔任台南神學院院長」確認見於正文，連結為真；2023-11-20 條目已在庫 — SKIP，無新材料。 ([[articles/taiwanjustice-net/2023/20231208130546_root_2a3226a1b19c5a46|TJJ 轉載中央社記者]])
 
 - 複核（TJJ-A09221500-5, 2026-09-23）：本 slice 文章 2a3226a1b19c5a46（中央社人物專稿轉載, 2023-11-20）正文再驗證——「蕭美琴的父親蕭清芬從事神學教育，從美國返台後擔任台南神學院院長」等記述確認見於正文，subject 連結為真，無錯鏈、無虛鏈；2023-11-20 條目已在庫 — SKIP，無新材料。
 

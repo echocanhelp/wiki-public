@@ -6,7 +6,7 @@ tags:
   - columnist
   - taiwanjustice-net
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # Ian Easton (易思安)
 
@@ -93,6 +93,8 @@ See the source hub. Top mentions:
 - **Archive:** [Column articles](https://github.com/echocanhelp/wiki-public/tree/gh-pages/knowledge/web-archives/taiwanjustice-net/tier2/)
 
 ## From the record
+
+- 複核（TJJ-A09171200-2, 2026-09-24）：本 slice 文章 89e6683c93156205（台美人台加人 p356, 2024-05-20 快照）正文再驗證——易思安(Ian Easton) ITS 台灣安全研討會講演條目確認見於正文，連結為真；2018-02-10 條目已在庫 — SKIP，無新材料。 ([[articles/taiwanjustice-net/2024/20240520023218_root_89e6683c93156205|TJJ 台美人台加人存檔頁]])
 
 - 複核（TJJ-A09221500-4, 2026-09-23）：本 slice 文章 89e6683c93156205（台美人台加人 page 356, 2024-05-20 快照）正文再驗證——易思安 ITS 台灣安全研討會講演條目確認見於正文，subject 連結為真；2018-02-10 條目已在庫，無新材料。
 

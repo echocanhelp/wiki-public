@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-24
 ---
 # Prof. Frank S. T. Hsiao (蕭聖鐵教授)
 
@@ -56,6 +56,8 @@ Prof. Frank S. T. Hsiao 蕭聖鐵教授 – History of Taiwanese American (T.A. 
 - No date/age conflicts encountered; existing Education/Employment tables left as-is.
 
 ## From the record
+
+- 複核（TJJ-A09171200-2, 2026-09-24）：本 slice 文章 f51d2ebb674cbdd3（English Pages 分類存檔頁 p13, 2024-05-21 快照）正文再驗證——「How Bad Is Taiwan's Economy? ◎Frank S.T. Hsiao(蕭聖鐵教授)/Diplomat 07-22-2016」確認見於正文，連結為真；2016-07-22 條目已在庫 — SKIP，無新材料。 ([[articles/taiwanjustice-net/2024/20240522044125_root_f51d2ebb674cbdd3|TJJ English Pages 存檔頁]])
 
 - 複核（TJJ-A09221400-1, 2026-09-23）：本 slice 文章 f51d2ebb674cbdd3（English Pages 分類存檔頁13, 2024-05-21 快照）正文再驗證——「How Bad Is Taiwan's Economy? ◎Frank S.T. Hsiao(蕭聖鐵教授)/Diplomat 07-22-2016」確認見於正文，subject 連結為真，無錯鏈、無虛鏈；2016-07-22 條目已在庫，無新材料。
 

@@ -9,7 +9,7 @@ tags:
   - publisher
   - community-leader
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # 李木通 (Li Mutong)
 
@@ -67,6 +67,8 @@ last_reviewed: 2026-09-23
 3. Advocated for mandatory military service extension in Taiwan, citing Israel as a model for full societal mobilization.
 
 ## From the record
+
+- 複核（TJJ-A09171200-2, 2026-09-24）：本 slice 文章 89e6683c93156205（台美人台加人 p356, 2024-05-20 快照）正文再驗證——UCLA座談與談人李木通條目確認見於正文，連結為真；2016-03-09 條目已在庫 — SKIP，無新材料。 ([[articles/taiwanjustice-net/2024/20240520023218_root_89e6683c93156205|TJJ 台美人台加人存檔頁]])
 
 - 複核（TJJ-A09221500-4, 2026-09-23）：本 slice 文章 89e6683c93156205（台美人台加人 page 356）正文再驗證——UCLA 座談與談人李木通條目確認見於正文，subject 連結為真；2016-03-09 條目已在庫，無新材料。
 

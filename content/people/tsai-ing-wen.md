@@ -46,6 +46,8 @@ name_en: "Tsai Ing-wen"
 
 ## From the record
 
+- 複核（TJJ-A09171200-2, 2026-09-24）：本 slice 文章 2a3226a1b19c5a46（中央社副手專稿轉載, 2023-11-20, 2023-12-08 快照）正文再驗證——賴蕭配被解讀為「延續蔡英文路線」之記述確認見於正文，連結為真；2023-11-20 條目已在庫 — SKIP，無新材料。 ([[articles/taiwanjustice-net/2023/20231208130546_root_2a3226a1b19c5a46|TJJ 轉載中央社記者]])
+
 - 再核（TJJ-A09171200-3, 2026-09-24）：本 slice 文章 d2d01925bc6bbba3（English Pages page 5, 2024-07-18 存檔）subject link 正文再驗證——「Taiwan Opposition's Presidential Nominee Tsai Ing-wen Says Won't Change China Ties」清單條目確認見於正文，連結為真，無錯鏈、無虛鏈；2015-04-16 條目已在庫 — SKIP，已飽和。
 
 - 再核（TJJ-A09171100-7, 2026-09-24）：本 slice 文章 15fc4a3e5664504e（Shawna Yang Ryan WaPo op-ed 轉載）正文再驗證——蔡英文總統與川普通话被論為美中關係附庸／「bargaining chip」論述確認，連結為真；2016-12-09 條目已在庫 — SKIP，無新材料。

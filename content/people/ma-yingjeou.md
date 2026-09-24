@@ -30,6 +30,8 @@ last_reviewed: 2026-09-24
 
 ## From the record
 
+- 複核（TJJ-A09171200-2, 2026-09-24）：本 slice 文章 f51d2ebb674cbdd3（English Pages 分類存檔頁 p13, 2024-05-21 快照）正文再驗證——「『人權先生』籲馬認錯 莫對媒體施壓」及〈The Shutdown in Taiwan: Ma Ying-jeou's Peculiar Obsession〉確認見於正文，連結為真；2015-06-16 條目已在庫 — SKIP，無新材料。 ([[articles/taiwanjustice-net/2024/20240522044125_root_f51d2ebb674cbdd3|TJJ English Pages 存檔頁]])
+
 - 複核（TJJ-A09171200-7, 2026-09-24）：本 slice 文章 ae7271322e42897b〈當直選的統派總統發飆〉正文再驗證——馬英九為首位直選統派總統、缺乏術（statecraft）、九月風潮帶頭逐王金平等論述確認見於正文，subject 連結為真，無錯鏈、無虛鏈；2015-03-10 日期事實條目（含該文 wikilink）已在庫 — SKIP，無新材料。
 
 - 再核（TJJ-A09171200-3, 2026-09-24）：本 slice 文章 d2d01925bc6bbba3（English Pages page 5, 2024-07-18 存檔）subject link 正文再驗證——「The Madness of Ma: Slow-Motion State Violence」「250,000 people demonstrated in front of Ma's office」確認見於正文，連結為真，無錯鏈、無虛鏈；2013-04-22／2013-08-03 條目已在庫 — SKIP，已飽和。
