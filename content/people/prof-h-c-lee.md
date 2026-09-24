@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # Prof. H. C. Lee (李弘祺教授)
 
@@ -54,3 +54,4 @@ _No filled family fields on the TAH profile._
 
 ## Worklog
 - 2026-09-23 deepen-x slice 09221400-22: verified-saturated re-verify — fresh grep of works/+articles returns only files already cited on this page; no new corpus facts to absorb.
+- 2026-09-24 deepen-x slice 09230900-13: re-verify — fresh grep returns only already-linked records (#889 own entry, #101 collection, ourjourneys2, disambiguated #1672 Bill H. C. Lee, index). Verified-saturated; SKIP.
