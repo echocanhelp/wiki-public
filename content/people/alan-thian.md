@@ -263,6 +263,8 @@ Notable quotes and mentions of **田詒鴻** in Taiwan Justice articles:
 
 ## From the record
 
+- 複核（TJJ-A09170400-11, 2026-09-23）：subject link 對照 slice 文章 74a9c518e681a3de（台美人台加人 page 2, 2020-06-26 存檔）正文再驗證——「田詒鴻代表桃園市捐贈防疫物資，關懷友好城市長堤市」確認見於正文，連結為真；2020-05-30 條目已在庫 — SKIP，無新材料。
+
 - 複核（TJJ-A09221300-11, 2026-09-23）：subject link 經本 slice 再驗證為真實對應，對應 From-the-record 條目已在庫（無錯鏈、無虛鏈）— SKIP，無新材料。本頁重複的第二段 From-the-record 已合併去重。
 
 - 2016-06-11 — 大洛杉磯台灣會館會員大會選出第十屆董事31名，田詒鴻任第一副董事長（董事長林榮松）（[[articles/taiwanjustice-net/2023/20230129123056_2016_06_12_台灣會館第十屆董事會選出新任董事長林榮松-_大_77328a2c6454177f|TJJ, 2016-06-12]]；同稿另存 [[articles/taiwanjustice-net/2024/20240425081647_root_17835ad9519f9cfe|2024-04-25 存檔副本]]）。

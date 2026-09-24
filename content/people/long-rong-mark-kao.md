@@ -53,6 +53,8 @@ Dr. Long-Rong (Mark) Kao 高龍榮 – History of Taiwanese American (T.A. Archi
 
 ## From the record
 
+- 複核（TJJ-A09170400-11, 2026-09-23）：subject link 對照 slice 文章 d2d01925bc6bbba3（English Pages page 5, 2024-07-18 存檔）正文再驗證——「US pressure on 'specific outcomes' feels unjust ◎Mark Kao 高龍榮/Taipei Times」確認見於正文，連結為真；2015-03-27 條目（已含本快照連結）已在庫 — SKIP，無新材料。
+
 - 複核（TJJ-A09170400-5, 2026-09-23）：本 slice 文章 2c9cb76838702dd7 正文再驗證——高龍榮以海台青籌辦人/募款、前FAPA總會長身分引述確認見於正文，連結為真；2017-07-24 條目已在庫 — SKIP，無新材料。
 - 複核（TJJ-A09221400-8, 2026-09-23）：第53回世界台灣文化論壇稿（[[articles/taiwanjustice-net/2022/20221127045936_2022_09_25_第53回世界台灣文化論壇_ti美國點光台灣高龍榮-吳_e9faa17a0a7ea61c|e9faa17a0a7ea61c]]）subject link（主講人高龍榮）經正文再驗證為真實對應，2022-09-25 條目已在庫 — SKIP，无新材料。
 - 再核（TJJ-A09221200-13, 2026-09-23）：本 slice 文章 042939d886040651 全文再驗證——署名「Mark Kao 高龍榮／FAPA president」之 Taipei Times 專欄 2015-03-27 條目已見下條並掛鏈本檔，連結為真，無新材料。

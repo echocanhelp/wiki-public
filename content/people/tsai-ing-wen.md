@@ -46,6 +46,8 @@ name_en: "Tsai Ing-wen"
 
 ## From the record
 
+- 複核（TJJ-A09170400-11, 2026-09-23）：subject link 對照 slice 文章 d2d01925bc6bbba3（English Pages page 5, 2024-07-18 存檔）正文再驗證——「Taiwan Opposition's Presidential Nominee Tsai Ing-wen Says Won't Change China Ties」確認見於正文，連結為真；2015-04-16 條目已在庫 — SKIP，無新材料。
+
 - 再核（TJJ-A09221500-9, 2026-09-23）：本 slice 文章 b63290424caedcf7（LA Times, Ralph Jennings 2015-04-15 轉載）正文再驗證——民進黨提名58歲法律學者蔡英文參選2016年1月總統選舉、民調領先、或為首位女性领导人等論述確認，subject 連結為真，無錯鏈、無虛鏈；2015-04-16 條目已在庫，無新材料。
 
 - 複核（TJJ-A09221500-5, 2026-09-23）：本 slice 兩篇文章 86312fe2a2feb73e（English Pages 存檔頁3, 2024-05-30 快照）、2a3226a1b19c5a46（中央社副手專稿轉載, 2023-11-20）正文再驗證——2015-04-16 兩則英語參選報導（法律學者獲提名、表態不改對中關係）確認見於清單，連結為真，無錯鏈、無虛鏈；對應日期事實條目已在庫 — SKIP，無新材料。
