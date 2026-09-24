@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # C. C. Yang (楊朝諄)
 
@@ -55,3 +55,4 @@ HOLD: brother(s) with a near-identical name mentioned in blacklist lore ([[works
 <!-- deepen-x slice 09220500-2 re-verify 2026-09-22: fresh grep of content/works + content/articles — corpus hits (ourjourneys233, ourjourneys106, mystories423, ourjourneys81-eng, whos-c-c-yang, whos-c-c-yang-2, pew statement) all already absorbed in Role in the Community incl. both HOLDs; no new absorbable facts -->
 
 <!-- deepen-x slice 09221300-1 re-verify 2026-09-23:  -->
+<!-- deepen-x slice 09230700-2 re-verify 2026-09-24: fresh grep 楊朝諄/C. C. Yang across works+articles — same hit set (ourjourneys233, ourjourneys106, mystories423, ourjourneys81-eng, whos-c-c-yang, whos-c-c-yang-2); excerpt re-read (募款組 roster, 謝里法義賣, 黑名單 29, 昌會/北美商會) all already in Role in the Community incl. both HOLDs; no new absorbable facts -->

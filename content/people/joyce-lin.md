@@ -53,3 +53,4 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+<!-- deepen-x slice 09230700-2 re-verify 2026-09-24: fresh grep 林才欣/Joyce Lin — same saturated set (videos-162, whos-who-2270-joyce-lin, TJJ 039ccce4163c57a9 report, ourjourneys305 different-person HOLD, works/index, MANIFEST.jsonl metadata only). No new absorbable material -->

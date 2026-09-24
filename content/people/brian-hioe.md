@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # Brian Hioe (丘琦欣)
 
@@ -53,3 +53,4 @@ _No filled family fields on the TAH profile._
 <!-- deepen-x slice 09210831-3 re-verify 2026-09-22: fresh grep of content/works + content/articles — all corpus hits already absorbed in Role in the Community; no new absorbable facts -->
 <!-- deepen-x slice 09220500-2 re-verify 2026-09-22: fresh grep — corpus hits (our-journeys-373, whos-brian-hioe, the-228-inheritance, laguna-woods shooting, taiwanjustice 2025 ×2) all already absorbed; no new absorbable facts -->
 <!-- deepen-x slice 09221300-2 re-verify 2026-09-23: fresh grep — same hit set; 20250323 taiwanjustice hit has no Hioe mention (filename collision only), all real hits already absorbed; no new absorbable facts -->
+<!-- deepen-x slice 09230700-3 re-verify 2026-09-24: fresh grep — identical hit set (our-journeys-373, whos-brian-hioe, index, the-228-inheritance, laguna-woods shooting, taiwanjustice 2025); all absorbed; no new absorbable facts -->
