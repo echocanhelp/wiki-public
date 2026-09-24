@@ -41,6 +41,7 @@ _No filled family fields on the TAH profile._
 - Corpus re-check 2026-09-22: fresh grep of works/articles returns only his own TAH record and 廖清山's memoir column (both already absorbed below) — no new community facts.
 - Corpus re-check 2026-09-22 (slice 09220600-26): exact-name grep (高銘益/George Kao) hits only whoswho-2241, works/index, and the already-absorbed 廖清山 TJJ column; loose 高俊明 matches are the unrelated 長老教會總幹事牧师 — verified saturated, SKIP-no-new-facts.
 - Corpus re-check 2026-09-23 (slice 09221400-21): fresh grep 高銘益/George Kao again hits only whoswho-2241, works/index, and the 廖清山 TJJ column — both already absorbed above; verified saturated, SKIP-no-new-facts.
+- Corpus re-check 2026-09-24 (slice 09230900-9): fresh grep 高銘益/George Kao returns the identical hit set (whoswho-2241, works/index, 廖清山 TJJ column) — all already absorbed; verified saturated, SKIP-no-new-facts.
 ## From the record
 
 - 覆核（TJJ-A09230500-1, 2026-09-24）：本 slice 文章 cbf185d4e8137928（一顆難以忘懷的台灣心(廖清山)） 正文再驗證——主體連結為真實提及（無錯鏈、無虛鏈），對應日期事實條目（含該文 wikilink）已在庫 — SKIP，無新材料。

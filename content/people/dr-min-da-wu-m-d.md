@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # Dr. Min-Da Wu M.D. (吳明達)
 
@@ -39,6 +39,7 @@ last_reviewed: 2026-09-23
 - 2021-01 真理大學台文館風波：張良澤辭名譽館長時回忆，無論是吳明達、或隨後上任的校長林文昌，均會到麻豆巡視台文館，可見當時校方對台文館的重視（[[articles/taiwanjustice-net/2021/20210121175743_2021_01_12_文學國寶張良澤-辭真理大學台文館名譽館長_完整_7ef660c98026f5cf|TJJ, 2021-01-12]]）。
 - HOLD: conflict — 前述回忆录语境指向真理大学校长吴明达，与本页 TAH 档案医师／教授（台大医学系1964、威斯康辛／柏克莱／多伦多经历）是否同一人未确认，不并档。
 - （再查 slice 09220600-19 2026-09-22：語料庫再查僅既存書目／已吸收紀錄，無新增可吸收社群敘事）
+- 再核（deepen-x slice 09230900-6, 2026-09-24）：fresh grep 僅既存 158 書目頁、TJJ 二文（均已著錄）、index；SKIP — 無新增可吸收事實，真理大學同名人 HOLD 維持。
 
 ## Sources
 - [TAH #154 encyclopedia: 154. Dr. Min-Da Wu 吳明達 M.D.](https://taiwaneseamericanhistory.org/158-dr-min-da-wu-%e5%90%b3%e6%98%8e%e9%81%94-m-d/)
