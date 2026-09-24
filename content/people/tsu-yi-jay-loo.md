@@ -55,6 +55,7 @@ Facts absorbed from the TAH encyclopedia entries already cited on this page:
 
 ## From the record
 
+- 覆核（TJJ-A09230700-1, 2026-09-24）：本 slice 獨傲村夫〈從二戰後全球去殖民化，到台灣國家正常化（下）〉（c251f8fc, 2023-06-02）正文再驗證——1956創3F、UFI獲甘迺迪支持之記述確認見於正文，subject 連結為真；2023-06-02 條目已在庫 — SKIP，無新材料。
 
 - 複核（TJJ-A09171100-4, 2026-09-24）：本 slice 文章 2d725102f4e64118 正文再驗證——本頁 subject link 為真實對應（無錯鏈、無虛鏈），對應 From-the-record 條目已在庫 — SKIP，無新材料。
 - 2023-06-02 — Essay 「從二戰後全球去殖民化，到台灣國家正常化（下）」 recalls that Loo, with 林榮勳 and 陳以德 — all NTU graduates — founded the 3F (Free Formosa for Formosans) independence group in Philadelphia in 1956 — the earliest US-based 台獨 organisation — renamed 「台灣獨立聯盟」/ United Formosans for Independence in 1959, and that UFI won President Kennedy's support after starting its publication and US lobbying work ([[articles/taiwanjustice-net/2024/20240225024511_root_2d725102f4e64118|TJJ, 2023-06-02]]; [[articles/taiwanjustice-net/2023/20230923051922_2023_06_02_從二戰後全球去殖民化_到台灣國家正常化-_下_c251f8fc65ac83e0|2023 archive]]; [[articles/taiwanjustice-net/2025/20250328131429_從二戰後全球去殖民化_到台灣國家正常化-_下_c03323d28f95e9ea|2025 archive]]).

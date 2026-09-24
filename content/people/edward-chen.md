@@ -46,6 +46,8 @@ HOLD: conflict — TAH encyclopedia #276 frames him as 「獨立運動的經營�
 
 ## From the record
 
+- 覆核（TJJ-A09230700-1, 2026-09-24）：本 slice 獨傲村夫〈去殖民化—正常化（下）〉（c251f8fc, 2023-06-02）正文再驗證——1956與林榮勳、盧主義創3F之連結為真（文中改名年份1959與本頁 Our Journeys 33 之1958說法的分歧已在條目內註明）；1956 條目已在庫 — SKIP，無新材料。
+
 - 1956 — 獨傲村夫「從二戰後全球去殖民化，到台灣國家正常化（下）」：the earliest US-based 台獨 organisation was founded in Philadelphia in 1956 by NTU graduates 林榮勳、陳以德 and 盧主義 as 3F (Free Formosa for Formosans), renamed 「台灣獨立聯盟」/ United Formosans for Independence in 1959 — the article dates the renaming a year later than the 1958 dating on this page's Our Journeys 33 note ([[articles/taiwanjustice-net/2023/20230923051922_2023_06_02_從二戰後全球去殖民化_到台灣國家正常化-_下_c251f8fc65ac83e0|TJJ, 2023-06-02]]).
 
 ## Family

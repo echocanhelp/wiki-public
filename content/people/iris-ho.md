@@ -40,6 +40,8 @@ Fresh grep of content/works + content/articles returned only records already abs
 
 ## From the record
 
+- 覆核（TJJ-A09230700-1, 2026-09-24）：本 slice 楊遠薰〈亂世奇緣〉（d3c83997, 2016-04-20）正文再驗證——記其為 Coen Blaauw 之 FAPA 同事、2006結婚、較其小十二歲（呼應母 Loes Vemer 事），subject 連結為真；2016-04-20 條目已在庫 — SKIP，無新材料。
+
 - 2009-11 — FAPA 總會 record: 昆布勞 (Coen Blaauw) 及何燕青夫婦應邀演講，介紹台美關係及 FAPA YPG (Young Professional Group) 活動 ([[works/taiwaneseamericanhistory-org/ourjourneys123|FAPA chapter chronicle]]; English: [[works/taiwaneseamericanhistory-org/ourjourneys123-eng|ourjourneys123-eng]]).
 - 2015-07-20 — her own essay: 義工計劃讓我與美國女士兵「交心」 — Caring for Soldiers volunteer work building bridges with US women soldiers ([[works/taiwaneseamericanhistory-org/309-caring-for-soldiers-e7-be-a9-e5-b7-a5-e8-a8-88-e5-8a-83-e8-ae-93-e6-88-91-e8|TAH #309]]).
 - 2007-09-13 — op-ed 「Perspectives on Taiwan and the United Nations: A Personal Journey」 announcing her participation in the UN for Taiwan rally in New York; byline notes she grew up near Snake Alley in Taipei, holds an MIA from GWU, and worked at FAPA HQ in Washington, DC ([[works/taiwaneseamerican-org/perspectives-on-taiwan-and-the-united-nations-a-personal-journey|TA.org perspectives]]).
