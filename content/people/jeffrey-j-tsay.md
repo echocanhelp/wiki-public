@@ -56,6 +56,7 @@ _No filled family fields on the TAH profile._
 - 複核（deepen-x slice-09230317-16, 2026-09-24）：re-grep Jeffrey J. Tsay／Jeffrey Tsay（works + articles）hit set identical — 僅本人書目記錄 #1763、works/index、已引用的 TJJ 聯署記錄。SKIP, verified-saturated.
 
 ## From the record
+- 覆核（TJJ-A09162345-18, 2026-09-24）：本 slice 文章 挺港聯合聲明 53455d7e 正文再驗證——subject 連結為真實提及，無錯鏈、無虛鏈；對應日期事實（含該文 wikilink）已在庫 — SKIP，已飽和。
 
 - 覆核（TJJ-A09171200-4, 2026-09-24）：本 slice 四篇 TJJ 文章（台美人台加人索引 6f2b431c、NATMA 標籤頁 08b82976、挺港聯合聲明 53455d7e、台美人分類頁 1a2bdc08）正文再驗證——subject 連結為真實提及，無錯鏈、無虛鏈；對應日期事實（含該文 wikilink）已在庫 — SKIP，無新材料。
 - 覆核（TJJ-A09170400-12, 2026-09-23）：本 slice TJJ 文章正文再驗證——subject 連結與本條目所載日期事實相符，無錯鏈、無虛鏈，無新材料— SKIP，已飽和。

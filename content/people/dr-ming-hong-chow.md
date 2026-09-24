@@ -46,6 +46,7 @@ _No filled family fields on the TAH profile._
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 ## From the record
+- 覆核（TJJ-A09162345-18, 2026-09-24）：本 slice 文章 挺港聯合聲明 53455d7e 正文再驗證——subject 連結為真實提及，無錯鏈、無虛鏈；對應日期事實（含該文 wikilink）已在庫 — SKIP，已飽和。
 
 - 再核（TJJ-A09171100-7, 2026-09-24）：本 slice 兩份楊遠薰夏令會報導（29faf54b／d2dbfe22 同文存檔副本）正文再驗證——周明宏以 TAC/EC 代理理事長身分 7/2 揭幕及 7/4 交接之連結為真；2017-07 條目已在庫 — SKIP，無新材料。
 

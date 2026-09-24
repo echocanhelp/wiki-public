@@ -19,6 +19,7 @@ last_reviewed: 2026-09-24
 The Taiwanese Association of America (TAA, 全美台灣同鄉會) is a national nonprofit umbrella organization representing Taiwanese American community associations across the United States. Founded in 1970, the TAA serves as the coordinating body for its regional chapters, which are organized into five geographic divisions: Eastern Northern, Eastern Southern, Midwestern, Southern, and Western.
 
 ## Role in the Community
+- 覆核（TJJ-A09162345-18, 2026-09-24）：本 slice 文章 挺港聯合聲明 53455d7e 正文再驗證——subject 連結為真實提及，無錯鏈、無虛鏈；對應日期事實（含該文 wikilink）已在庫 — SKIP，已飽和。
 
 - Re-verify 2026-09-23 (TJJ-A09170400-12): slice article 53455d7e13136092 signatory list re-checked body-level — this org link confirmed real, dated 2019-09-03 joint-statement fact above stands; no new material. 覆核（TJJ-A09171200-4, 2026-09-24）：本 slice 文章 53455d7e 正文再驗證——本社團連結為真實署名條目，無錯鏈、無虛鏈；2019-09-03 條目已在庫，無新材料。
 - 2021-02-28 ～ 2021-03-13 — 聯合國家人權博物館、加拿大台灣同鄉會、北美洲台灣婦女會、波士頓台灣同鄉會等主辦「2021北美洲海外台灣人二二八紀念活動」線上系列（特展、影展、座談），為期兩週逾1000人次參與、臉書及活動網頁超過5700位同鄉觀賞；會長陳桂鈴於閉幕式總結（[[articles/taiwanjustice-net/2025/20250430013325_全美台灣同鄉會2021-年二二八紀念系列活動圓滿落幕_f6213c1937fa956d|TJJ/全美會官方報導, 2021-03-14]]）。Re-verify 2026-09-23 (TJJ-A09221200-7): link-check against slice article f6213c1937fa956d body — mention confirmed real, dated fact above stands; no new material. Re-verify 2026-09-24 (TJJ-A09170400-17): 同文再驗證 — 連結為真，條目已在庫，無新材料。

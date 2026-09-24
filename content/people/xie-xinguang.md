@@ -8,7 +8,7 @@ tags:
   - clerk
   - Taiwanese-American
 verification_status: published
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # Rev. Xie Xinguang (謝信光)
 
