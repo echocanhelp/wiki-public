@@ -57,3 +57,4 @@ last_reviewed: 2026-09-24
 ## Vault Record Notes
 - 朱真一以黃主義牧師 1949–1955 赴美進修（Union Theological Seminary, NYC）為早期留學北美神學者之例：[[works/taiwaneseamericanhistory-org/ourjourneys270|TAH #270 早期留學北美的台灣女士（朱真一）]]
 - TAH 故事記錄：[[works/taiwaneseamericanhistory-org/whos-who-1855-c-y-huang|TAH #1855 Rev. C. Y. Huang 黃主義牧師]]
+- 複核（deepen-x 2026-09-24, slice 09230400-7）：re-grep 黃主義 命中集不變 — 僅本人條目 [[works/taiwaneseamericanhistory-org/whos-who-1855-c-y-huang|TAH #1855]]、[[works/taiwaneseamericanhistory-org/ourjourneys270|TAH #270]]、works index；C. Y. Huang 羅曼字命中僅本人條目與 index（#2314 黃清燕 已 HOLD 為同人同拼不同人，未併入）；無新語料可吸收（saturated）。

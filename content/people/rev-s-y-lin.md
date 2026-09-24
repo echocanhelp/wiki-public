@@ -54,6 +54,9 @@ last_reviewed: 2026-09-24
 ## Corpus re-grep (2026-09-23, slice 09220900-13)
 - SKIP: re-grep 林皙陽 / S. Y. Lin 命中集不變 — 本人條目 [[works/taiwaneseamericanhistory-org/whos-who-1696-s-y-lin|TAH #1696]]、works index、及已吸收之台文通訊30週年 TJJ 公告；無新語料可吸收（saturated）。
 
+## Corpus re-grep (2026-09-24, slice 09230400-7)
+- SKIP: re-grep 林皙陽 / S. Y. Lin 命中集不變（僅本人條目 TAH #1696、works index、台文通訊30週年 TJJ 公告三件，皆已吸收）；無新語料可吸收（saturated）。
+
 ## Network
 - [[organizations/presbyterian-church-in-taiwan||PCT]] — TAH Who’s Who
 

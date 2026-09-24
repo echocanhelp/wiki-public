@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # Teh Yuan Ho (何德淵博士)
 
@@ -53,6 +53,7 @@ Research/Teaching Specialist
 - 2018-09-26 — 於 ITPC Irvine 長青教室主講「漫談記憶的奧祕與阿茲海默症」，心得報告刊於台灣公義報（2018-09-29 刊登）（[[articles/taiwanjustice-net/2024/20240523001759_root_23e163f71d3f2ba5|TJJ 長青教室標籤頁, 2024-05-23 快照]]）。
 
 - SKIP-note (deepen-x slice 09220900-29, 2026-09-23): corpus re-grep (何德淵|Teh Yuan Ho) hit set identical — own TAH #1337 record + index + the two TaiwanJustice 長青教室 pages already cited above; no new absorbable corpus facts.
+- Re-verified 2026-09-24 (slice 09230400-11): fresh ZH+EN re-grep; hit set identical (whos-teh-yuan-ho + works index + 兩篇 TJJ 長青教室頁). 無新語料。SKIP: verified-saturated.
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/teh-yuan-ho/)

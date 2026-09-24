@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # Isaiah Lee (李宗派教授)
 
@@ -54,3 +54,4 @@ _No filled family fields on the TAH profile._
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - Corpus re-grep 2026-09-23 (slice 09220900-25): hit set gained one new work — story record 597. 現代老人學 (李宗派), now absorbed above. Remaining hit set (ourjourneys186/231/107 + -eng copies + story 346) unchanged; no further absorbable facts.
+- Re-verified 2026-09-24 (slice 09230400-11): fresh ZH+EN re-grep; hit set identical (ourjourneys186/231/107 + -eng copies + story 346 + 597). 無新語料。SKIP: verified-saturated.
