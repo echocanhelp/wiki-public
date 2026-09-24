@@ -101,6 +101,8 @@ In 2006, the party ended official recognition of factions, though they remain re
 
 ## From the record
 
+- 複核（TJJ-A09230600-1, 2026-09-24）：本 slice 文章 795e52aadf3797a0 正文再驗證——評述認為扁保外就醫證明和平革命、反駁 SCMP「分裂民進黨」論確認見於正文，subject 連結為真；2015-01-07 條目已在庫 — SKIP，無新材料。
+
 - 複核（TJJ-A09230400-1, 2026-09-24）：subject link 經本 slice 文章 becb39f917174438 正文再驗證為真實對應，對應 From-the-record 條目已在庫並掛鏈本檔（無錯鏈、無虛鏈）— SKIP，無新材料。
 
 - 再核（TJJ-A09171200-10, 2026-09-24）：本 slice 文章 b63290424caedcf7（LA Times 轉載）正文再驗證——民進黨2000–2008執政期主張台獨、黨聲明維持現狀等論述確認見於正文，subject 連結為真，無錯鏈、無虛鏈；2015-04-16 條目已在庫 — SKIP，已飽和。

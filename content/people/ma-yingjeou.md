@@ -30,6 +30,8 @@ last_reviewed: 2026-09-24
 
 ## From the record
 
+- 複核（TJJ-A09230600-1, 2026-09-24）：本 slice 文章 795e52aadf3797a0 正文再驗證——馬保外就醫為呂秀蓮絕食所迫、同一法官判扁清馬、蔣經國翻譯背景、太陽花與柯文哲崛起歸因等記述確認見於正文，subject 連結為真；2015-01-07 條目已在庫 — SKIP，無新材料。
+
 - 複核（TJJ-A09230400-1, 2026-09-24）：subject link 經本 slice 文章 becb39f917174438 正文再驗證為真實對應，對應 From-the-record 條目已在庫並掛鏈本檔（無錯鏈、無虛鏈）— SKIP，無新材料。
 
 - 複核（TJJ-A09162345-17, 2026-09-24）：本 slice 文章 d2d01925bc6bbba3（English Pages p5, 2024-07-18 快照）正文再驗證——「The Madness of Ma: Slow-Motion State Violence in Taiwan」「250,000 people demonstrated in front of Ma's office」清單條目確認見於正文，連結為真，無錯鏈、無虛鏈；對應日期條目已在庫 — SKIP，無新材料（[[articles/taiwanjustice-net/2024/20240718230535_root_d2d01925bc6bbba3|TJJ English Pages 存檔頁, 2024-07-18 快照]]）。

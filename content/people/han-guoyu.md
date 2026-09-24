@@ -31,6 +31,7 @@ last_reviewed: 2026-09-24
 - **Do not invent:** No birth data, family, or private contact on this page
 
 ## From the Record
+- 複核（TJJ-A09230600-1, 2026-09-24）：本 slice 文章 1fbc7a8aff9cd26e 正文再驗證——韓國瑜輔選汪志冰、孫大千、林郁方及霞海城隍廟「苦茫翻亂」發言確認見於正文，subject 連結為真；2019-12-22 條目已在庫 — SKIP，無新材料。
 
 - In the local taiwanjustice.net archive, **韓國瑜 appears in 1,005 article files** — coverage is dominated by the 2019–2020 election/recall period and later KMT-line disputes.
 - 2019-12-22 — 作為國民黨總統候選人馬不停蹄為北市立委候選人汪志冰、孫大千、林郁方輔選；在霞海城隍廟批民進黨執政以來民意反映為「苦、茫、翻、亂」四字，表態與汪志冰共同主張恢復特偵組（自由時報報導 via [[articles/taiwanjustice-net/2025/20251210214746_藍綠台北衝選情_陳建仁領軍-車隊掃街開直播_韓_1fbc7a8aff9cd26e|TJJ, 2019-12-22]]）。
