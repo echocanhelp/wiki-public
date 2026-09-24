@@ -29,6 +29,8 @@ Corpus re-grep 2026-09-21 (slice 09201500-19): hit set unchanged — the chapter
 
 Corpus re-grep 2026-09-23 (slice 09220900-15): hit set unchanged — the chapter's own profile [[works/taiwaneseamericanhistory-org/natwa-boston-chapter|natwa-boston-chapter]] plus index entries remain the only chapter-specific coverage; NATWA parent records (聯誼通訊 issues, other chapter profiles 如 [[works/taiwaneseamericanhistory-org/natwa-san-diego-chapter|San Diego]]、[[works/taiwaneseamericanhistory-org/natwa-st-louis-chapter|St. Louis]]) name no Boston activity. Context note: the corpus band also preserves sibling Boston-area chapters of *different* organizations — [[works/taiwaneseamericanhistory-org/boston-chapter-tap|TAP 台美菁英協會波士頓分會 (2014)]], [[works/taiwaneseamericanhistory-org/boston-chapter-taa|TAA 波士頓分會]]、[[works/taiwaneseamericanhistory-org/history-of-taa-boston|TAA Boston 簡介 (2018)]]、[[works/taiwaneseamericanhistory-org/newsletter-boston-taa|Boston TAA newsletter]] — retained as geographic context only, not merged. SKIP-with-reason (saturated).
 
+Corpus re-grep 2026-09-24 (slice 09230400-3): hit set unchanged — the chapter's own profile [[works/taiwaneseamericanhistory-org/natwa-boston-chapter|natwa-boston-chapter]] plus index entries remain the only chapter-specific coverage; the other 波士頓分會 hits (TAP/TAA Boston records) belong to different organizations, already excluded above. SKIP-with-reason (saturated).
+
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/north-america-taiwanese-womens-association-boston-chapter/)
 

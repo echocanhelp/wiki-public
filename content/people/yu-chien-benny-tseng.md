@@ -62,3 +62,5 @@ _No filled family fields on the TAH profile._
 複核（deepen-x 2026-09-22）：corpus re-grep（曾宇謙／Benny Tseng／Yu-Chien Tseng，works+articles）命中集不變（whoswho1408、ourjourneys294、videos111、musician374、index、大洛杉磯台灣會館台灣學校 TJJ 記錄），全數已吸收並 wikilink；無新增社群材料。
 
 複核（deepen-x 2026-09-23）：corpus re-grep（曾宇謙／Benny Tseng／Yu-Chien Tseng，works+articles）命中集不變（whoswho1408、ourjourneys294、videos111、musician374、index、大洛杉磯台灣會館台灣學校 TJJ 記錄），全數已吸收並 wikilink；無新增社群材料。
+
+複核（deepen-x slice 09230400-3, 2026-09-24）：corpus re-grep（曾宇謙／Benny Tseng／Yu-Chien Tseng，works+articles）命中集不變（whoswho1408、ourjourneys294、videos111、musician374、index、大洛杉磯台灣會館台灣學校 TJJ 記錄），全數已吸收並 wikilink；無新增社群材料 — SKIP-with-reason（飽和）。
