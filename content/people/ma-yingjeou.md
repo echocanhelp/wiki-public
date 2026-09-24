@@ -30,6 +30,10 @@ last_reviewed: 2026-09-23
 
 ## From the record
 
+- 再核（TJJ-A09170400-6, 2026-09-23）：本 slice 文章 f19de8f9d3b53071 正文再驗證——Healey「莫讓馬英九謀殺陳水扁」、馬政府涉入司法與復仇政治、支持度新低與醫療釋放民意等論述確認，連結為真；2013-04-22 條目已在庫，無新材料。
+
+- 複核（TJJ-A09170400-11, 2026-09-23）：subject link 對照 slice 文章 d2d01925bc6bbba3（English Pages page 5, 2024-07-18 存檔）正文再驗證——「The Madness of Ma」「250,000 people demonstrated in front of Ma's office」確認見於正文，連結為真；2013-08-03 條目已在庫 — SKIP，無新材料。
+
 - 複核（TJJ-A09170400-5, 2026-09-23）：本 slice 文章 becb39f917174438（The Economist via TJJ）正文再驗證——馬英九為史上最不受歡迎民選總統之一、9.2%支持度、ICAO突破確認見於正文，連結為真；2013-10-06 條目已在庫 — SKIP，無新材料。
 - 複核（TJJ-A09170400-15, 2026-09-23）：subject link 對照 slice 文章 ae7271322e42897b〈當直選的統派總統發飆〉正文再驗證——首位直選統派總統、缺乏術之論述確認，連結為真；2015-03-10 條目已在庫 — SKIP，無新材料。
 
