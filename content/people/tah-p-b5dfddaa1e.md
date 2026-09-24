@@ -6,7 +6,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-24
 ---
 # 黃蔡瑞雲
 
@@ -43,6 +43,7 @@ last_reviewed: 2026-09-22
 - 覆核（TJJ-A09171200-4, 2026-09-24）：本 slice 四篇 TJJ 文章（台美人台加人索引 6f2b431c、NATMA 標籤頁 08b82976、挺港聯合聲明 53455d7e、台美人分類頁 1a2bdc08）正文再驗證——subject 連結為真實提及，無錯鏈、無虛鏈；對應日期事實（含該文 wikilink）已在庫 — SKIP，無新材料。
 - 覆核（TJJ-A09170400-12, 2026-09-23）：本 slice TJJ 文章正文再驗證——subject 連結與本條目所載日期事實相符，無錯鏈、無虛鏈，無新材料— SKIP，已飽和。
 - 2015-10-26 — 台美歷史協會會長鄭炳全博士專訪黃蔡瑞雲女士（「耳聰目明聲如洪鐘，她，黃蔡瑞雲才102歲」），專訪記錄收錄於台灣公義報台美人台加人頻道（[[articles/taiwanjustice-net/2024/20240520034013_root_6f2b431c9cb0cca9|TJJ 台美人台加人索引, 2024-05-20 存檔]]）。
+- 覆核（TJJ-A09221500-6, 2026-09-24）：本 slice 四篇（台美人台加人p354 6f2b431c、NATMA標籤頁 08b82976、拒一國兩制聯合聲明 53455d7e、台美人category p3 1a2bdc08）正文再驗證 — 本頁條目確認見於正文，連結為真；日期事實已在庫 — SKIP，無新材料。
 
 Re-verified 2026-09-21 (slice 09201400-23): corpus re-grep (works/articles) returns exactly the six records already linked above (#32, #277, #338, mystories365 北港才女的故事, #698, ourjourneys50 長輩會會長 record) — no new memoir or event mention of 黃蔡瑞雲; verify-saturated. Re-grep 2026-09-22 (slice 09211400-13): hit set unchanged (same six work records) — nothing new to absorb. Re-grep 2026-09-22 (slice 09220800-21): hit set again identical (same six records + TJJ 台美人台加人索引 article, all linked above) — SKIP, saturated.
 
