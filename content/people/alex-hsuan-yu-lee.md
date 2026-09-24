@@ -42,6 +42,7 @@ The movement record holds two TAH encyclopedia entries on him — [[works/taiwan
 - Re-grep 2026-09-21: corpus hits for 李軒宇/Hsuan-Yu Lee remain exactly #146, #1225, and the index — both bibliographic entries already cited; no new community detail absorbable.
 - Corpus re-grep 2026-09-22 (DEEPEN-X slice 09212352-21): hit-set identical — [[works/taiwaneseamericanhistory-org/musician146|#146]], [[works/taiwaneseamericanhistory-org/whoswho1225|#1225]] and the works index, all already cited. SKIP-content, nothing new absorbable.
 - Corpus re-grep 2026-09-23 (DEEPEN-X slice 09221100-27): hit-set identical (#146, #1225, works index), all already cited — no new community detail absorbable (SKIP-with-reason).
+- Corpus re-grep 2026-09-24 (DEEPEN-X slice 09230600-29): hit-set identical (#146, #1225, works index) — verified saturated, nothing new absorbable.
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/alex-hsuan-yu-lee/)

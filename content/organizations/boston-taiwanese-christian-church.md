@@ -8,7 +8,7 @@ tags:
   - church
   - Boston
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # Boston Taiwanese Christian Church (波士頓台灣基督教會)
 
@@ -38,3 +38,4 @@ Thin A-tier from [[sources/laijohn-com||laijohn.com]] biog + TAH John Lai card. 
 - [[people/chi-tien-chang||Prof. Chi-Tien Chang 張啟典]] — founding member
 - [[people/john-lai||Elder John Lai 賴永祥]]
 - [[organizations/elder-john-lai-archives||賴永祥長老史料庫]]
+- 2026-09-24 (deepen-x slice 09230600-26): fresh ZH+EN re-grep of works/+articles/ — hit-set identical to material already absorbed above. SKIP-content: verified-saturated; HOLDs unchanged.
