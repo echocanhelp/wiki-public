@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # David J. Lu (盧焜熙)
 
@@ -41,6 +41,7 @@ PhD, International Law and International Relations
 - Encyclopedia entry in the TAH story corpus: [[works/taiwaneseamericanhistory-org/590-david-j-lu-e7-9b-a7-e7-84-9c-e7-86-99-201509|590. David J. Lu 盧焜熙 / 2015-09]] (band B).
 - No memoir/community narrative found in content/works or content/articles beyond these two records (a "David Luck" in a Slackwood Church memoir is a different person, not linked). Re-grepped slice 09220600-11 (2026-09-22): hits confined to the two records above plus the works index; both bibliographic-only (band B), nothing new absorbable.
 - Corpus re-check 2026-09-23 (slice 09221400-21): fresh grep 盧焜熙/David J. Lu/David Lu returns only the two records already wikilinked above plus works/index — verified saturated, SKIP-no-new-facts.
+- Corpus re-check 2026-09-24 (slice 09230900-10): fresh grep again returns the two linked records, works/index, and the Slackwood/聖恩教會 memoir in [[works/taiwaneseamericanhistory-org/ourjourneys43|Our Journeys 43]] — the "David Luck (Kingston Church)" there is confirmed a different person (PCSA New Jersey church-plant committee member, 1999), not Lu. SKIP-no-new-facts.
 
 ## Family
 
