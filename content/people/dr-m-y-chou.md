@@ -52,6 +52,8 @@ Corpus re-grep 2026-09-22 (slice 09211400-9): hit set unchanged (TAH #1829, work
 
 Corpus re-grep 2026-09-22 (slice 09220800-19, 周美吟 / M. Y. Chou): hit set unchanged (TAH #1829, works index, the two already-absorbed 台灣justice e-News articles) — SKIP: verified-saturated.
 
+Corpus re-grep 2026-09-24 (slice 09230317-18, 周美吟 / M. Y. Chou): hit set unchanged — SKIP: verified-saturated.
+
 ## Timeline
 - 2020-05-11 — 中研院防疫報導: 副院長周美吟出席研檢中心進駐宣布
 - 2025-07-07 — 主持第34屆院士選舉數理科學組審查（院士國籍揭露首屆）
