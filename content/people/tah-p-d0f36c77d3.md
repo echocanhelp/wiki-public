@@ -6,7 +6,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # 李彥秀
 
@@ -54,4 +54,5 @@ _No filled family fields on the TAH profile._
 - 2025-01-16 — 作為國民黨立委隨韓國瑜團長赴總統府與賴清德咖啡閉門會議，表示國民黨團當日將開8小時會議濃縮所提3000多案，並盼未來多進總統府喝咖啡，總統回應相當歡迎（[[articles/taiwanjustice-net/2025/20250719114825_韓國瑜提預算協商盼柯建銘不要那麼硬-總統緩頰_8fc11ca0c5dbaebe|TJJ 中央社記者報導, 2025-01-16]]）。
 - 2019-12-20 — 2020大選選戰：國民黨副主席郝龍斌陪同黨台北第四選區立委候選人李彥秀掃街拜票，回應民進黨「下架吳斯懷」攻勢，批綠以仇中、恐中恐嚇選民（自由時報報導 via [[articles/taiwanjustice-net/2026/20260115091334_吳斯懷_粉身碎骨_說-吳怡農_聽聽就好_下架_8559790a51be8817|TJJ, 2019-12-20]]）。
 - Re-verify 2026-09-24 (TJJ-A09170400-17): link-check against slice article 93c0627d body — 「吳沛憶、王世堅、徐巧芯、王鴻薇、李彥秀以議員成功轉戰立委」確認見於正文，連結為真；2025-02-01 條目已在庫，同名 HOLD（北市議員≠TAH 醫師）不變。
+- 覆核（TJJ-A09171200-9, 2026-09-24）：slice 09171200-9 四篇與 TJJ-A09170400-17 同文（北市議員缺額 93c0627d、全美會228 f6213c19、長青教室tag 2777c888、會館tag p13 ced69523）正文再驗證 — 本頁條目確認見於正文，連結為真；日期事實已在庫 — SKIP，無新材料。
 - 2026-01 — 國民黨文傳會主委李彥秀表示傅崐萁率立委訪中行程係傅個人規畫安排，黨中央隨後澄清訪中將聚焦兩岸民生經濟議題；報導並述及同團投票舞弊風波（上報／藍營報導 via [[articles/taiwanjustice-net/2026/20260112183035_5-20前-國民黨立委去中國表善意_但遭質疑拆賴_454f1c39904c9f85|TJJ record, 2026-01]]）。Same KMT-legislator identity as the HOLD note above — not the Illinois physician.

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # Strong Chuang (莊秋雄)
 
@@ -43,6 +43,7 @@ last_reviewed: 2026-09-23
 - 2021-02-28 — 獨派前輩莊秋雄之孫莊淵威受邀在「2021北美洲海外台灣人二二八紀念活動」中擔任「返校」線上遊戲實況主，以遊戲帶領觀者重現白色恐怖遭遇、吸引台美第二代認識台灣歷史（全美會官方完滿報導 [[articles/taiwanjustice-net/2025/20250430013325_全美台灣同鄉會2021-年二二八紀念系列活動圓滿落幕_f6213c1937fa956d|TJJ/全美會, 2021-03-14]]）。
 - Re-verify 2026-09-24 (TJJ-A09170400-17): 本 slice 同文（f6213c1937fa956d）再驗證 — 莊秋雄之孫莊淵威任「返校」實況主條目確認見於正文，連結為真；2021-02-28 條目已在庫 — SKIP，無新材料。
 - Re-verify 2026-09-23 (TJJ-A09221200-7): link-check against slice article f6213c1937fa956d（全美會2021年228活動完滿報導）body — 其孫莊淵威任「返校」線上遊戲實況主條目確認見於正文，連結為真；日期事實已在庫，Kansas Group name-conflict HOLD 不變。
+- 覆核（TJJ-A09171200-9, 2026-09-24）：slice 09171200-9 四篇與 TJJ-A09170400-17 同文（北市議員缺額 93c0627d、全美會228 f6213c19、長青教室tag 2777c888、會館tag p13 ced69523）正文再驗證 — 本頁條目確認見於正文，連結為真；日期事實已在庫 — SKIP，無新材料。
 
 ## Role in the Community
 - 1964–1965: as a Kansas State university student, 莊秋雄 joined 蔡一、王能祥、黃石定、呂天明、方菊雄、陳希寬 in the Kansas Suite Group — monthly meetings on Taiwan's status, in contact with Taiwan-group circles in Japan and the US; the group ran three consecutive years of 228-massacre ads in the Kansas State Collegian campus paper during the 1966–68 unity/independence campus debates — 張炎憲's account in [[works/taiwaneseamericanhistory-org/ourjourneys33|Our Journeys #33]]

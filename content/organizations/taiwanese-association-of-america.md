@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # Taiwanese Association of America (全美台灣同鄉會)
 
@@ -22,6 +22,7 @@ The Taiwanese Association of America (TAA, 全美台灣同鄉會) is a national 
 
 - Re-verify 2026-09-23 (TJJ-A09170400-12): slice article 53455d7e13136092 signatory list re-checked body-level — this org link confirmed real, dated 2019-09-03 joint-statement fact above stands; no new material. 覆核（TJJ-A09171200-4, 2026-09-24）：本 slice 文章 53455d7e 正文再驗證——本社團連結為真實署名條目，無錯鏈、無虛鏈；2019-09-03 條目已在庫，無新材料。
 - 2021-02-28 ～ 2021-03-13 — 聯合國家人權博物館、加拿大台灣同鄉會、北美洲台灣婦女會、波士頓台灣同鄉會等主辦「2021北美洲海外台灣人二二八紀念活動」線上系列（特展、影展、座談），為期兩週逾1000人次參與、臉書及活動網頁超過5700位同鄉觀賞；會長陳桂鈴於閉幕式總結（[[articles/taiwanjustice-net/2025/20250430013325_全美台灣同鄉會2021-年二二八紀念系列活動圓滿落幕_f6213c1937fa956d|TJJ/全美會官方報導, 2021-03-14]]）。Re-verify 2026-09-23 (TJJ-A09221200-7): link-check against slice article f6213c1937fa956d body — mention confirmed real, dated fact above stands; no new material. Re-verify 2026-09-24 (TJJ-A09170400-17): 同文再驗證 — 連結為真，條目已在庫，無新材料。
+- 覆核（TJJ-A09171200-9, 2026-09-24）：slice 09171200-9 四篇與 TJJ-A09170400-17 同文（北市議員缺額 93c0627d、全美會228 f6213c19、長青教室tag 2777c888、會館tag p13 ced69523）正文再驗證 — 本頁條目確認見於正文，連結為真；日期事實已在庫 — SKIP，無新材料。
 - 2019-09-03 — TAA president 鄭紹芳 (Shawfang Jeng) signed the overseas Taiwanese organizations' joint statement 「拒一國兩制！海外台灣人社團：支持香港反對中國暴政」 as 「全美台灣同鄉會 會長鄭紹芳」 / "Shawfang Jeng, President, Taiwanese Association of America" — a dated record of the TAA national chairmanship during the Hong Kong protests ([[articles/taiwanjustice-net/2024/20240221122756_root_53455d7e13136092|TJJ record, 2024-02-21 archive of the 2019-09-04 posting]]).
 - 2019-09-03 — NATWA president 陳彩雲博士 (Dr. Jacy Chen) signed the same joint statement in solidarity with Hong Kong ([[articles/taiwanjustice-net/2024/20240221122756_root_53455d7e13136092|TJJ record, 2024-02-21 archive of the 2019-09-04 posting]]).
 - Earliest corpus periodical: 全美台灣同鄉會1970會刊 (1970/10), confirming the founding-year founding record — [[works/taiwaneseamericanhistory-org/545-e5-85-a8-e7-be-8e-e5-8f-b0-e7-81-a3-e5-90-8c-e9-84-89-e6-9c-831970-e6-9c-83-|TAHS #545]]

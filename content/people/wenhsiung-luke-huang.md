@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # Wenhsiung Luke Huang (黃文雄)
 
@@ -56,9 +56,11 @@ _No filled family fields on the TAH profile._
 
 ## From the record
 
+- 覆核（TJJ-A09171100-8, 2026-09-24）：slice 文章 996879ac7a006acf（全美台灣人權協會第44屆年會暨鄭南榕紀念獎頒獎） 主體連結對照正文再驗證——連結為真實提及（無錯鏈、無虛鏈），對應日期事實條目（含該文 wikilink）已在庫 — SKIP，無新材料。
 - 覆核（TJJ-A09170400-17, 2026-09-24）：本 slice 文章 2777c888（長青教室標籤彙整頁）正文再驗證——本頁提及條目確認見於正文，subject 連結為真；對應日期事實已在庫 — SKIP，無新材料。
 
 - 2017-03-15 — 主講長青教室「人際關係」（YouTube Video），見台灣公義報「台美人台加人」分類 長青教室 標籤彙整頁（2017-03-29 刊）—— [[articles/taiwanjustice-net/2024/20240620173328_root_2777c88877eee2c5|TJJ tag 長青教室, 2024-06-20 存檔]]。
+- 覆核（TJJ-A09171200-9, 2026-09-24）：slice 09171200-9 四篇與 TJJ-A09170400-17 同文（北市議員缺額 93c0627d、全美會228 f6213c19、長青教室tag 2777c888、會館tag p13 ced69523）正文再驗證 — 本頁條目確認見於正文，連結為真；日期事實已在庫 — SKIP，無新材料。
 - 2020-11-25 — FAHR 公告第44屆年會（12/5 台北）邀歷屆「鄭南榕紀念獎」得獎人回娘家，名列 1997 年得獎人（本頁 TAH #142/#19/#89 即以其為424刺蔣案主角記錄，故連結成立；[[articles/taiwanjustice-net/2021/20210118235211_2020_11_25_全美台灣人權協會第44屆年會暨_鄭南榕紀念獎_頒_996879ac7a006acf|TJJ, 2020-11-25]]）。
 - 2020-04-24 — 中央社記者刺蔣案 50 週年報導：1970-04-24 康乃爾大學博士生黃文雄與妹夫鄭自才策劃刺殺蔣經國未果被捕，棄保逃亡後浪跡世界 26 年（報導中刺蔣主角黃文雄是否即本頁 TAH 醫師 profile 仍未驗證，詳見 Notes on sources；[[articles/taiwanjustice-net/2025/20251115150231_鄭自才談424刺蔣案意義_台灣人追求獨立建國_24119694dbb384c9|TJJ，2020-04-24]]）。
 - 2022-07-12 — Recounted in 王泰和's memorial interview on the 424刺蔣案: on 1970-04-24, as Chiang Ching-kuo entered the Plaza Hotel in New York, 黃文雄 fired but was restrained by US security personnel and his shot went wide; 蔡同榮 led the demonstration and later fronted network news interviews ([[articles/taiwanjustice-net/2025/20250811013132_化作千風_懷念台美人的人權鬥士_台獨先鋒王泰_31b7081a5d37939f|TJJ, 2022-07-12]]).

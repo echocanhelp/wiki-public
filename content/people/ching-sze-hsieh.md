@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # Ching Sze Hsieh (謝清志博士)
 
@@ -48,6 +48,7 @@ Led FORMOSAT-1 (福衛一號) launch team as head of launch group at National Sc
 - 複核（TJJ-A09220400-5, 2026-09-22）：subject link 經本 slice 再驗證為真實對應，对应 From-the-record 条目已在库（无错链、无虚链）— SKIP，无新材料。
 
 - 2017-05-24 — 主講長青教室「講真話 博真情」，見台灣公義報「台美人台加人」分類 長青教室 標籤彙整頁（2017-05-25 刊）—— [[articles/taiwanjustice-net/2024/20240620173328_root_2777c88877eee2c5|TJJ tag 長青教室, 2024-06-20 存檔]]。
+- 覆核（TJJ-A09171200-9, 2026-09-24）：slice 09171200-9 四篇與 TJJ-A09170400-17 同文（北市議員缺額 93c0627d、全美會228 f6213c19、長青教室tag 2777c888、會館tag p13 ced69523）正文再驗證 — 本頁條目確認見於正文，連結為真；日期事實已在庫 — SKIP，無新材料。
 - 2024-09-07 — 於大洛杉磯台灣會館耆老講座「返台任職的心路歷程」與郭清江、許清煌同台分享返台任職經歷（[[articles/taiwanjustice-net/2025/20250216032153_tag_大洛杉磯台灣會館耆老講座_20053f0a17b89c07|TJJ 耆老講座標籤頁，2024-08-18 刊]]）。
 - 2021-09-10 — 「司法不公，國耻之最」聲援翁啟惠連署再度發起，呼應其抗議監院未審先判、投書自由時報的號召；浩鼎案 2018-12 已判翁無罪，彈劾案卻仍纏訟（[[articles/taiwanjustice-net/2023/20230530145556_2021_09_10_司法不公_國耻之最_海內外台灣人聲援翁啟惠連_59a68b9cd855c1bf|TJJ，2021-09-10]]）。
 - 2020-09-30 — 林宏容's memorial essay for 鄭寶鼎博士 (TJJ) recalls that in 2010, at Bob Cheng's request, Hsieh joined the first 台美史料中心籌備會議 at 陳立明博士's home (with 郭清江, 王漢平, 林宏容), and later co-ordinated and, together with Bob, interviewed and recruited the centre's full-time staff and volunteers ([[articles/taiwanjustice-net/2026/20260121010227_斯人已逝_其德可追-緬懷鄭寶鼎博士-_-林宏容_9907500dda4f33bb|林宏容 via TJJ, 2020-09-30]]).
