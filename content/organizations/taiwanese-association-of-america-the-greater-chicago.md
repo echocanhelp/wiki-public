@@ -33,6 +33,7 @@ Taiwanese Association of America the Greater Chicago (大芝加哥台灣同鄉�
 
 - 複核（deepen-x slice 09211300-7，2026-09-22）：re-grep 大芝加哥台灣同鄉會 / Greater Chicago 命中集不變（ourjourneys76 / -eng、our-journeys-378、publications1331、greater-chicago-chapter-taa、鄉訊 newsletter、TPC Greater Chicago）— 全數已吸收於 Role in the Community，saturated，SKIP，無新社群材料可吸收。
 - 複核（deepen-x slice-09221500-5, 2026-09-23）：re-grep 大芝加哥台灣同鄉會 / Greater Chicago 命中集不變 — 全數已吸收於 Role in the Community，saturated，SKIP，無新回憶錄材料可吸收。
+- 複核（deepen-x slice-09230900-3, 2026-09-24）：re-grep 大芝加哥台灣同鄉會 / Greater Chicago 命中集不變（ourjourneys76 ±EN、publications1331、greater-chicago-chapter-taa、鄉訊、TPC Greater Chicago）— saturated，SKIP，無新材料。
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-association-of-america-the-greater-chicago/)

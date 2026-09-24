@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # Taichi Chen (陳太一)
 
@@ -49,12 +49,5 @@ Both corpus records are bibliographic only (full text in the TAH vault); the Min
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
-## Corpus re-check (2026-09-15, re-run 2026-09-16)
-Re-grep 陳太一|Taichi Chen returned only the two already-cited records (#131, #244) plus the works index — bibliographic stubs already wikilinked in Role in the Community; full text stays in the TAH vault. No new community facts absorbable; no conflicts to hold. Slice 09160400-29 re-run (2026-09-16): identical hit set (#10162, #10168, works index) — still saturated. Slice 09160500-28 re-run (2026-09-16): same hit set, no change. Slice 09160700-18 re-run (2026-09-16): identical hit set (#10162, #10168, works index) — saturated, nothing absorbable. Slice 09162138-18 re-run (2026-09-16): same hit set (#10162, #10168, index) — SKIP, both records already wikilinked, no new community facts. Slice 09170130-13 re-run (2026-09-17): same hit set (#10162, #10168, works index) — saturated, SKIP; no new community facts.
-- 複核（deepen-x slice-09170500-11, 2026-09-17）：re-grep 相同命中集（僅本人書目記錄＋index）— SKIP：已飽和，無新回憶錄/社群材料可吸收。
-- 複核（deepen-x slice-09180131-11, 2026-09-18）：re-grep 命中集不變（#10162、#10168、index）— SKIP：已飽和，無新社群事蹟可吸收，無需 HOLD。
-- 複核（deepen-x slice-09181500-9, 2026-09-20）：re-grep 陳太一|Taichi Chen 命中集不變（#10162、#10168、index）— SKIP：已飽和，無新社群事蹟可吸收，無需 HOLD。
-- 複核（deepen-x slice-09201300-8, 2026-09-21）：re-grep 陳太一|Taichi Chen 命中集不變（#10162、#10168、index）— SKIP：已飽和，無新社群事蹟可吸收，無需 HOLD。
-- 複核（deepen-x slice-09211200-1, 2026-09-22）：re-grep 陳太一|Taichi Chen 命中集不變（#10162、#10168、index）— SKIP：已飽和，無新社群材料可吸收，無需 HOLD。
-- 複核（deepen-x slice-09220700-4, 2026-09-22）：re-grep 陳太一|Taichi Chen 命中集不變（#10162、#10168、index）— SKIP：已飽和，無新社群材料可吸收，無需 HOLD。
-- 複核（deepen-x slice-09221500-5, 2026-09-23）：re-grep 陳太一|Taichi Chen 命中集不變（#10162、#10168、index）— SKIP：已飽和，無新社群材料可吸收，無需 HOLD。
+## Corpus re-check (2026-09-15 → 2026-09-24)
+Re-grep 陳太一|Taichi Chen returned only the two already-cited records (#131/#10168, #244/#10162) plus the works index — bibliographic stubs already wikilinked in Role in the Community; full text stays in the TAH vault. 历次 deepen-x re-checks（0916→09230900-2）命中集均不變 — saturated，SKIP-with-reason：無新社群事蹟可吸收，無需 HOLD。（taiwanjustice 命中屬另一人陳泰山，非陳太一，勿誤配。）
