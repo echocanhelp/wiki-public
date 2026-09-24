@@ -9,7 +9,7 @@ tags:
   - semiconductor
   - ceo
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # Lisa T. Su (蘇姿丰)
 
@@ -83,6 +83,8 @@ Pages that link to **lisa-su** (lisa-su):
 - Same-person cross-page: [[people/dr-lisa-su||Dr. Lisa Su (蘇姿豐博士)]] carries the TAH encyclopedia record (name variant 蘇姿豐 vs 蘇姿丰); pages deliberately not merged yet.
 
 ## From the record
+
+- 複核（TJJ-A09170400-19, 2026-09-24）：本 slice 文章 4779b4e7（SIA 羅伯特諾伊斯大獎報導, 2026-01-21 存檔）正文再驗證——蘇姿丰為報導主角（繼張忠謀後第2位獲獎華裔），subject 連結為真（与 dr-lisa-su 双页并存）；2020-09-21 條目已在庫，無錯鏈、無虛鏈、無新材料。
 
 - 複核（TJJ-A09162345-27, 2026-09-23）：本 slice 文章 4779b4e7（SIA 羅伯特諾伊斯大獎報導）subject link 經正文再驗證為真實對應，2020-09-21 Noyce 大獎事實條目已在庫（無錯鏈、無虛鏈）— SKIP，無新材料。
 - 複核（TJJ-A09221300-15, 2026-09-23）：本 slice 文章 e1e223aa 同時連結本页与 [[people/dr-lisa-su|Dr. Lisa Su]] 两条TAH-derived页面——同一真人（AMD CEO 蘇姿丰）之双页并存，链接各自为真、非虚链；合并留待专档处理。2020-06-02 條目已在庫。

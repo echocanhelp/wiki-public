@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # Dr. Long Song Simon Lin (林榮松醫師)
 
@@ -65,6 +65,8 @@ Role anchors already on this page's TAH table map to vault pages: [[organization
 [[people/simon-lin|Simon Lin (林榮松)]] (published page) lists a 林榮松 as 執行長 of Taiwan Center; this page's own TAH table lists the same 林榮松 as President of the same foundation. Role titles differ (執行長 vs President), so per merge policy this is flagged, NOT auto-merged — cross-source verification needed.
 
 ## From the record
+
+- 複核（TJJ-A09170400-19, 2026-09-24）：本 slice 文章 9de57bf0（「林榮松」標籤頁 2023-05-30 存檔）正文再驗證——十一条林榮松條目確認見於清單，subject 連結為真（楊熾勳、邱俊杰同場影音條目亦確認）；無錯鏈、無虛鏈；下方日期事實已在庫 — SKIP，無新材料。
 
 - 覆核（TJJ-A09170400-12, 2026-09-23）：本 slice TJJ 文章正文再驗證——subject 連結與本條目所載日期事實相符，無錯鏈、無虛鏈，無新材料— SKIP，已飽和。
 - 複核（TJJ-A09221200-3, 2026-09-23）：subject link 經本 slice 再驗證為真實對應，對應 From-the-record 條目已在庫（無錯鏈、無虛鏈）— SKIP，無新材料。

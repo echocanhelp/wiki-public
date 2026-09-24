@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # Chun-Chieh Chiu (邱俊杰)
 
@@ -33,6 +33,8 @@ last_reviewed: 2026-09-23
 _No filled family fields on the TAH profile._
 
 ## From the record
+
+- 複核（TJJ-A09170400-19, 2026-09-24）：本 slice 文章 9de57bf0（「林榮松」標籤頁 2023-05-30 存檔）正文再驗證——五人同場談世衛影音條目確認見於清單，subject 連結為真；2021-05-06 條目已在庫，無錯鏈、無虛鏈、無新材料。
 
 - 再核（TJJ-A09221500-12, 2026-09-23）：本 slice 文章 cd646b8698e12d2b「台灣加入世衛組織的歷程與展望」專題頁正文再驗證——「林榮松+許正雄+邱俊杰+楊熾勳+吳兆峯」影音條目確認見於正文，連結為真；2021-05-06 日期事實已在庫，無錯鏈、無虛鏈、無新材料。
 

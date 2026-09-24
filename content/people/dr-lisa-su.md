@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # Dr. Lisa Su (蘇姿豐博士)
 
@@ -45,6 +45,8 @@ Business Units (2007) → COO (2012) → CEO & President (2014). Family: husband
 father [[people/su-chun-huai||蘇春槐]]; mother 羅淑雅 (no page yet).
 
 ## From the record
+
+- 複核（TJJ-A09170400-19, 2026-09-24）：本 slice 文章 4779b4e7（SIA 羅伯特諾伊斯大獎報導）正文再驗證——蘇姿丰為報導主角，subject 連結為真（与 lisa-su 双页并存）；2020-09-21 條目已在庫，無錯鏈、無虛鏈、無新材料。
 
 - 複核（TJJ-A09162345-27, 2026-09-23）：本 slice 文章 4779b4e7（SIA Noyce 大獎報導）subject link 經正文再驗證為真實對應（与 [[people/lisa-su|Lisa T. Su]] 双页并存，各自为真），2020-09-21 事實條目已在庫 — SKIP，無新材料。
 - 複核（TJJ-A09221300-15, 2026-09-23）：本 slice 文章 e1e223aa 同時連結本页与 [[people/lisa-su|Lisa T. Su]] ——同一真人（AMD CEO 蘇姿丰）双页并存，各自链接为真；合并留待专档。2020-06-02 條目已在庫。

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # Dr. Tong Y. Chen (陳東榮醫師)
 
@@ -51,6 +51,8 @@ His material culture of the diaspora is itself a historical source: TAH encyclop
 - He appears in the in-vault lecture/contributor roster of [[organizations/irvine-taiwanese-presbyterian-church||Irvine Taiwanese Presbyterian Church]] (Dr. 陳東榮, including a talk titled 瀕死經驗); treat as a name match pending confirmation of identity.
 
 ## From the record
+
+- 複核（TJJ-A09170400-19, 2026-09-24）：本 slice 文章 14114a89（陳東榮醫師麻醉演講心得報告頁, 2024-06-14 存檔）正文再驗證——由緒記其演講並舉吳永吉醫師為普世醫學典範，subject 連結為真；2018-03-14／2018-03-21 條目已在庫，無錯鏈、無虛鏈、無新材料。
 
 - Re-verify 2026-09-22 (TJJ-A09220700-9): subject-link check against slice article 23e163f71d3f2ba5（標籤「長青教室」頁）—「【長青教室心得報告】摘下口罩，談麻醉醫師的角色 ◎ 陳東榮醫師 2018-03-14」確認見於正文，連結為真（該文 Subjects 的 .md 後綴連結已修正為慣例格式）；無新材料。
 

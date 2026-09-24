@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # Bi-khim Hsiao (蕭美琴)
 
@@ -43,6 +43,8 @@ _No filled family fields on the TAH profile._
 
 
 ## From the record
+
+- 複核（TJJ-A09170400-19, 2026-09-24）：本 slice 文章 923dad71（「台灣新聞」分類頁, 2023-12-01 存檔）正文再驗證——「蕭美琴合體苗博雅 拚總統勝選、國會過半」條目確認見於清單，subject 連結為真；2023-12-01 條目已在庫，無錯鏈、無虛鏈、無新材料。
 
 - 再核（TJJ-A09170400-18, 2026-09-24）：本 slice 文章 004420da7bd583a2「新聞觀測站」分類頁正文再驗證——「新聞觀測站 20240210 準副總統蕭美琴選後專訪！」清單條目確認見於正文，subject 連結為真，無錯鏈、無虛鏈；2024-02-10 條目已在庫 — SKIP，已飽和。
 
