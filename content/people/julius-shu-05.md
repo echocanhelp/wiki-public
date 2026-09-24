@@ -53,6 +53,8 @@ Corpus re-check 2026-09-22 (deepen-x slices 09210700-26, 09220400-5) and 2026-09
 
 _No filled family fields on the TAH profile._
 
+Corpus re-grep 2026-09-24 (deepen-x slice 09230700-6, 許清煌 / Julius Shu): fresh grep works/ + articles/ returned the same substantive hit-set (ourjourneys244, ourjourneys212, whos-julius-shu, works index, TJJ 耆老講座標籤頁) — all facts already absorbed above; verified-saturated.
+
 ## Sources
 - [TAH #429 encyclopedia: 429. Julius Shu 許清煌 05/2015](https://taiwaneseamericanhistory.org/whos-julius-shu/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/julius-shu-05/)

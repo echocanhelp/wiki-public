@@ -38,6 +38,8 @@ last_reviewed: 2026-09-24
 - HOLD: education — corpus memoir records 輔仁大學哲學系; the TAH Who's Who profile carries no education field, so the two are non-conflicting but the memoir is the sole source and is held unverified.
 - 2026-09-23 corpus re-grep (張月英 / Anna Chang, DEEPEN-X slice 09221200-21): hit-set unchanged (#985 who's-who, ourjourneys49, ourjourneys154, ourjourneys33, works index) — all corpus facts already absorbed above; nothing new absorbable.
 
+- 2026-09-24 corpus re-grep (張月英 / Anna Chang, DEEPEN-X slice 09230700-6): hit-set unchanged (#985 who's-who, ourjourneys49, ourjourneys154, ourjourneys33, works index) — all corpus facts already absorbed above; nothing new absorbable.
+
 ## Sources
 - [TAH #985 encyclopedia: 985. Anna Chang 張月英 / 2016/05](https://taiwaneseamericanhistory.org/whos-anna-chang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/anna-chang/)
