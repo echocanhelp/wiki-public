@@ -56,6 +56,8 @@ HOLD: 「Liyen James Hu」在 [[works/taiwaneseamerican-org/lunchbox-anne-hu-rel
 
 ## From the record
 
+- 複核（TJJ-A09230700-5, 2026-09-24）：subject link 對照 slice 文章 49d912cc449367f0（長青教室 tag p2）正文再驗證——「建造健康奇蹟的食用好油 ◎講師 胡宏仁教授 2017-11-29」確認見於正文，連結為真；2017-11-29 條目已在庫 — SKIP，無新材料。
+
 - 複核（TJJ-A09171200-8, 2026-09-24）：subject link 對照 slice 文章 49d912cc449367f0（長青教室 tag p2, 2024-06-21 快照）正文再驗證——「長青教室心得報告-建造健康奇蹟的食用好油 ◎講師 胡宏仁教授 2017-11-29」條目再確認見於正文，連結為真；2017-11-29 條目（已含該文 wikilink）已在庫；James Hu/Liyen James Hu 同名異人 HOLD 不變 — SKIP，無新材料。
 
 - 複核（TJJ-A09170400-16, 2026-09-24）：subject link 對照 slice 文章 49d912cc449367f0（長青教室 tag, 2024-06-21 快照）正文再驗證——食用好油講座條目確認見於正文，連結為真；日期事實（已含該文 wikilink）已在庫 — SKIP，無新材料。

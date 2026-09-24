@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # Yuhan Su (蘇郁涵)
 
@@ -62,3 +62,4 @@ Re-grep 蘇郁涵|Yuhan Su against content/works + content/articles returned onl
 - 複核（deepen-x slice-09211200-3, 2026-09-22）：re-grep 蘇郁涵|Yuhan Su 命中集相同（#108／#187／#49 + index only）— SKIP：書目存根已全數 wikilink，無新回憶錄/社群材料可吸收。
 - Re-check (deepen-x slice-09220700-6, 2026-09-22): identical hit set (own bibliographic records + index only) -- SKIP-with-reason: no absorbable memoir/community corpus; existing links and HOLDs unchanged.
 - Re-check (deepen-x slice-09221400-1, 2026-09-23): fresh grep hit set identical to already-absorbed wikilinks (own bibliographic records + index only) -- SKIP-with-reason: no absorbable memoir/community corpus; links and HOLDs unchanged.
+- Re-check (deepen-x slice-09230800-1, 2026-09-24): fresh grep hit set identical (#108/#187/#49 + index only) -- SKIP-with-reason: bibliographic stubs all already wikilinked; no absorbable memoir/community material; no conflicts to hold.
