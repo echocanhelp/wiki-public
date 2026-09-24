@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # Johns Hopkins University Taiwanese Student Association
 
@@ -23,7 +23,8 @@ The corpus refers to the group as "Johns Hopkins TASA" (Taiwanese American Stude
 
 HOLD: page title "JHUTSA" vs corpus name "Johns Hopkins TASA" — treated as the same student org, name not auto-merged.
 
-The Baltimore campus sits in historic Taiwanese community territory: by the early 1960s Baltimore hosted a cluster of Taiwanese physicians training at the Johns Hopkins Medical Center (陳庵君、黃錫勳、洪朝煌、許日章、鄭敏雄 et al.) and Taiwanese graduate students (郭義雄、劉宜時), per the DC/Baltimore community memoir ([[works/taiwaneseamericanhistory-org/ourjourneys-138|Our Journeys 138]]) — social context predating the student association itself.
+The Baltimore campus sits in historic Taiwanese community territory: by the early 1960s Baltimore hosted a cluster of Taiwanese physicians training at the Johns Hopkins Medical Center per the DC/Baltimore community memoir the early-1960s Baltimore cluster was roughly half of ~100 Taiwan-origin residents in the DC/Baltimore area: physicians and families 陳庵君、黃錫勳、洪朝煌、曾伯元、許日章、陳建南、鄭顯綬、石岫、黃碩文、卓金泳, graduate students 郭義雄、劉宜時, and engineers/professionals 林再進、楊友垣、黃文興、凌瑤池、陳泉淵、鄭敏雄、尤達雄、陳松竹、鄭自才 ([[works/taiwaneseamericanhistory-org/ourjourneys-138|Our Journeys 138]]) — social context predating the student association itself. HOLD: the memoir lists 鄭自才 among Baltimore-area engineers; identity vs the 406-era 鄭自才 unverified, not merged.
+- Re-grepped 2026-09-24 (slice 09230600-6): fresh ZH+EN grep returns the same hit set (ourjourneys-138, night-market pages, jhutasa taste-of-taiwan, New Creatives bios, Taliyah Huang interview); only new absorbable material was the fuller #138 roster, merged above. Verified-saturated beyond that.
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/johns-hopkins-university-taiwanese-student-association/)
