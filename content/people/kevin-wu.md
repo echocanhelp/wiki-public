@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # Kevin Wu (吳凱文)
 
@@ -48,6 +48,7 @@ Accomplishment
 Corpus: [[works/taiwaneseamerican-org/we-b-here-with-kevjumba-he-e2-80-99s-taiwanese|We B HERE with KevJumba! He's Taiwanese! (2009)]] · [[works/taiwaneseamerican-org/kevin-wu-aka-kevjumba-and-dad-on-amazing-race|Kevin Wu (aka KevJumba) and Dad on Amazing Race (2010)]] · [[works/taiwaneseamerican-org/on-two-decades-of-blacklava-and-celebrating-the-other|On Two Decades of Blacklava and Celebrating the "Other" (2012)]] · [[works/taiwaneseamericanhistory-org/whos-who-1775-kevin-wu|1775. Kevin Wu 吳凱文]]
 
 - 2026-09-23 (slice 09221100-19) corpus re-check: fresh grep「Kevin Wu／吳凱文／KevJumba」in works+articles returns only the records already absorbed above (TAH whos-who-1775, Amazing Race with dad, B HERE interview at UC Davis, Blacklava-20th essay, Kollaboration SF, Jordan Hwang oral history) plus works/index. First-party corpus saturated; no new absorbable facts, no conflicts to HOLD.
+- 2026-09-24 (slice 09230600-7) corpus re-check: identical hit set re-confirmed (whos-who-1775, Amazing Race, B HERE, Blacklava-20th essay, Kollaboration SF, Jordan Hwang oral history, index). Verified saturated.
 
 ## Sources
 - [TAH #1775 encyclopedia: 1775. Kevin Wu 吳凱文](https://taiwaneseamericanhistory.org/whos-who-1775-kevin-wu/)

@@ -6,7 +6,7 @@ tags:
   - Taiwanese-American
   - Taiwan-Center-group-member
 verification_status: published
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # Miss Taiwanese American Pageant Foundation
 
@@ -37,6 +37,8 @@ HOLD: conflict in Chinese naming — this page's 台灣小姐選拔基金會 vs 
 2026-09-22 re-check: corpus re-grep returned no absorbable facts beyond the records above (the only additional 小姐選拔 hits are the already-linked #744/#745/#838/#2/#889 and the 2016/2018 edition records). Note the corpus's dominant pageant name is 台美親善小姐, which matches neither this page's 台灣小姐 nor the #2 record's 台美小姐 — third naming variant, left under the existing HOLD.
 
 2026-09-23 re-check (slice 09221200-3): fresh ZH+EN corpus grep returned the identical hit set (#2/#744/#745/#838/#7/2018 record/#889/#1256); no absorbable new facts. Verified saturated.
+
+2026-09-24 re-check (slice 09230600-7): fresh grep「台美小姐／台灣小姐選拔／Miss Taiwanese American」returned the same eight records, all already linked; the HOLD on the 台灣小姐 vs 台美小姐 vs 台美親善小姐 naming variants stands. Verified saturated.
 
 ## Source Notes
 

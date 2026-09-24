@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # Wendy Cheng (鄭昕)
 
@@ -46,6 +46,8 @@ _No filled family fields on the TAH profile._
 - Corpus re-verify (deepen-x 09220400-13, 2026-09-22): fresh scan of works/ + articles/ — new hit wendy-cheng-island-x absorbed above; other records already covered (TAH #275 entry, our-journeys-357 footnote, our-journeys-390, publications 509/510, mystories300).
 - 學說被 TAH 運動史書評直接引用為框架：[[works/taiwaneseamericanhistory-org/our-journeys-372|372. Reinscribing Taiwanese Americans into Transpacific History（2021/06）]]引其論述「among these students, were many who identified, or would soon come to identify, as Taiwanese」，以定義1970–80年代留美學生的臺灣認同形成（先於《Island X》出版）。
 - Corpus re-verify (deepen-x 09221200-9, 2026-09-23): fresh scan works/ + articles/ — new hit our-journeys-372 absorbed above; remaining hits (357/390/509/510/mystories300/island-x) already linked.
+- 《Island X》另被 TAHS 社群推薦書單收錄：[[works/taiwaneseamerican-org/community-resources-for-taiwanese-american-parents-families|Community Resources for Taiwanese American Parents & Families]] 將其列為台美家庭認識臺灣/臺美人歷史的學術推薦（該紀錄並提及 [[people/grace-lin|Grace Lin]]、[[people/michelle-kuo|Michelle Kuo]] 等作者）。
+- Corpus re-verify (deepen-x 09230600-9, 2026-09-24): fresh scan works/ + articles/ — new hit community-resources 書單收錄 Island X，已吸收於上；其餘命中（whos/357/372/390/509/510/mystories300/island-x）皆已連結。無衝突須 HOLD。
 
 ## Sources
 - [TAH #275 encyclopedia: 275. Wendy Cheng  鄭昕 / 2015/02](https://taiwaneseamericanhistory.org/whos-wendy-cheng/)

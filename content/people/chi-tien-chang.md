@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # Prof. Chi-Tien Chang (張啟典教授)
 
@@ -39,6 +39,7 @@ From his own oral memoir, 張啟典醫師的回憶 — 1977年TAC/EC (楊遠薰,
 - 2009: attended the 40th 美東台灣人夏令會 (Caribbean cruise), reflecting on the end of racial segregation and the black-list era.
 - Also profiled in [[works/taiwaneseamericanhistory-org/whoswho1576|TAH #1576 Chi-Tien Chang 張啟典]] and [[works/taiwaneseamericanhistory-org/178-prof-c-d-chang|TAH #178 Prof. C. D. Chang]].
 - CORPUS SCAN (2026-09-23, slice 09221100-15): exact-name re-grep 「張啟典／Chi-Tien Chang」 returns only #178, #338 (oral memoir, the section's source), #1576 and the index — all already absorbed above; page is corpus-saturated.
+- CORPUS SCAN (2026-09-24, slice 09230600-7): re-grep 「張啟典／Chi-Tien Chang／C. D. Chang」 returns the identical hit set (#178, #338, #1576, index). Verified saturated; no absorbable facts.
 
 ## Timeline
 - 1963 — B.S., National Taiwan University (chemistry); emigrated to the U.S. in 1966 (Greyhound coach LA→Boston).
