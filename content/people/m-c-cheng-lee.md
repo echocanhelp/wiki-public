@@ -48,4 +48,5 @@ last_reviewed: 2026-09-23
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- Corpus re-grep 2026-09-24 (deepen-x slice-20): identical hit set (whoswho937 + Ju-Cheng Lee #1916 disambiguation + index); HOLD confirmed, no absorbable memoir text.
 - Corpus re-grep 2026-09-23 (deepen-x slice-9): identical hit set (whoswho937 record + Ju-Cheng Lee #1916 disambiguation); no absorbable memoir text, HOLD confirmed saturated.
