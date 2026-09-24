@@ -30,6 +30,8 @@ last_reviewed: 2026-09-23
 
 ## From the record
 
+- 複核（TJJ-A09170400-15, 2026-09-23）：subject link 對照 slice 文章 ae7271322e42897b〈當直選的統派總統發飆〉正文再驗證——「從直選前後的李總統到陳總統均屬獨派」論述確認，連結為真；2015-03-10 條目已在庫 — SKIP，無新材料。
+
 - 再核（TJJ-A09221500-9, 2026-09-23）：本 slice 文章 b63290424caedcf7（LA Times 轉載：蔡英文獲民進黨總統提名）正文再驗證——扁任內主張台獨、老党员仍持相同立場之論述確認，subject 連結為真，無錯鏈、無虛鏈；2015-04-16 條目已在庫，無新材料。
 
 - 複核（TJJ-A09221500-5, 2026-09-23）：本 slice 文章 86312fe2a2feb73e（English Pages 分類存檔頁3, 2024-05-30 快照）正文再驗證——扁案英語報導多篇（含「A Plea from a doctor for President Chen」及「Chen Shui-bian's return to prison」）確認見於正文，subject 連結為真，無錯鏈、無虛鏈；2013-03-07 條目已在庫 — SKIP，無新材料。
