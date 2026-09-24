@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # Hsien-Ching Ko (柯賢清)
 
@@ -56,3 +56,4 @@ last_reviewed: 2026-09-23
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+<!-- deepen-x 09230400-32: re-checked 2026-09-24 — fresh grep (EN + 柯賢清): only whoswho1506 + works/index + the already-linked 2018 open letter; saturated, nothing absorbable. -->

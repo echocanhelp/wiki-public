@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-24
 ---
 # Dr. C. F. Huang (黃崇福醫師)
 
@@ -49,3 +49,4 @@ HOLD: no substantive corpus hits beyond his own bibliographic record — [[works
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+<!-- deepen-x 09230400-32: re-checked 2026-09-24 — fresh grep (EN + 黃崇福): only own TAH #1885 record + works/index; saturated, nothing absorbable. -->
