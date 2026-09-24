@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # Taiwanese American Association of Arizona (亞歷桑那州)
 
@@ -28,6 +28,8 @@ Note: the acronym TAAA also belongs to a different org, [[works/taiwaneseamerica
 - Corpus re-grep 2026-09-21 (slice 09201500-26): the only other Arizona mentions (ourjourneys58 / ourjourneys338 — 1977 TAC/EC yearbook statistics and a Greyhound travel anecdote) reference the state, not the chapter; no absorbable chapter facts. Verified-saturated.
 - Corpus re-grep 2026-09-22 (slice 09211500-19): hit set gained the NATWA Arizona chapter record (linked above); ourjourneys58 / ourjourneys338 Arizona mentions remain state-level only (1977 TAC regional distribution stats listing 亞利桑那州 2名, travel anecdote). Saturated after this addition.
 - Corpus re-grep 2026-09-23 (slice 09220900-19): hit set gained our-journeys-376 (aging-members retirement-migration note listing Arizona among warm-weather destinations) and the Taiwan's Got It talent-competition piece (singer Dooley Candler 杜力 originally from Arizona) — both state-level mentions, not the chapter; no absorbable chapter facts. Verified-saturated.
+
+- Corpus re-grep 2026-09-24 (slice 09230400-12): hit set unchanged — arizona-chapter-taa, heritage-week record, works index, plus a TJJ 亞歷桑那州 tag page ('No posts to display', no content). No absorbable chapter facts. Verified-saturated.
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-american-association-of-arizona/)

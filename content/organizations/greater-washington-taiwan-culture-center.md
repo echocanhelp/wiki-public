@@ -30,6 +30,13 @@ The Greater Washington Taiwan Culture Center (TCC) is a non-profit 501(c)(3) org
 
 HOLD: "台灣之夜" is an ambiguous event name in the corpus — the center's Rockville concert series (above) is distinct from the 台灣人夏令會 evening gala of the same name recorded in [[works/taiwaneseamericanhistory-org/ourjourneys318|318. 漫談美南台灣人夏令會的濫觴]] and [[works/taiwaneseamericanhistory-org/ourjourneys265|265. 2011年美西夏令會的回顧]]. Not conflated.
 
+## Civic statements (press record)
+- 2020-09 — co-signatory of the Greater Washington 僑團 joint statement supporting Taiwan's UN membership, alongside 華府台灣同鄉會, 巴爾的摩/哥倫比亞台灣同鄉會, 大華府台美人長樂會 (TASS), FAPA華府/馬里蘭分會 and 12 other groups ([[articles/taiwanjustice-net/2020/20201113055311_2020_09_30_大華府僑團聯合聲明-挺台灣加入聯合國_ded546e367fc6fe0|CNA via TWJI, 2020-09-30]]).
+- 2021-04 — one of the Greater Washington Taiwanese organizations (with 華府台灣同鄉會, 巴爾的摩台灣同鄉會, 華府台灣基督長老教會, FAPA華府分會) issuing a joint statement urging WHO participation for Taiwan; over 200 attendees ([[articles/taiwanjustice-net/2025/20250429235508_美國僑界挺台灣參與who_聲明呼籲防疫不應有缺口_3e50e99329661f0b|CNA via TWJI]]).
+- 2021-01 — 理事長 黃泰郎 signed the five-city 會館 statement opposing the politicisation of the ractopamine pork debate (with NY, LA, San Diego, SF 會館 leaders) ([[articles/taiwanjustice-net/2021/20210121172817_2021_01_12_美國五大台灣會館評萊豬_反對科學議題政治化_1251d9ed43ef6e32|CNA via TWJI, 2021-01-12]]).
+- 2025-03 — 理事長 黃泰郎, with 巴爾地摩台灣同鄉會 and FAPA leaders, delivered a petition against legislative-lobby dysfunction to 韓國瑜 at the Washington 僑宴 ([[articles/taiwanjustice-net/2025/20250318110956_韓國瑜參加華府僑宴-台僑場外舉牌抨擊未盡院長職_c17b5cbdad864f69|TWJI, 2025-03-18]]).
+- 2014 — the center supported director 陳麗貴's documentary Dear Taiwan《好國好民》US screening tour ([[articles/taiwanjustice-net/2024/20240719002430_root_1f001897255f71a7|TWJI]]).
+
 複核（deepen-x 2026-09-21）：corpus re-grep（華府台灣文化中心 / Taiwan Culture Center, works+articles）命中集合與頁面已連結之 work 頁完全相同（concerts5、364/363/362 历年programme、publications1222、ourjourneys303、video-188），全數已吸收 — 飽和，無新增社群材料。
 
 ## Sources
