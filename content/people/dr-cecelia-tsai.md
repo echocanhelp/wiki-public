@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # Dr. Cecelia Tsai (葉明霞博士)
 
@@ -45,6 +45,7 @@ last_reviewed: 2026-09-23
 - Re-verified 2026-09-20: fresh grep hit set unchanged (whos-who-1963, ourjourneys60/-eng, ourjourneys230, ourjourneys292/-eng) — all already absorbed above; no new corpus facts; page saturated.
 - Re-grep 2026-09-21 (slice 09201500-9): hit set unchanged; NATWA president record (#60), Katrina visit, blacklist return (#230), Pittsburgh wedding (#292) all still the only corpus mentions — all absorbed. Page saturated. Re-grep 2026-09-22 (slice 09211400-20): hit set unchanged (whos-who-1963, ourjourneys60/-eng, ourjourneys230, ourjourneys292/-eng); #230 blacklist-return passage（改名護照，與張丁蘭、羅清芬、吳信志、莊秋雄同批）already absorbed. SKIP-with-reason (saturated).
 - Re-grep 2026-09-23 (slice 09220900-16): hit set unchanged (whos-who-1963, ourjourneys60/-eng, ourjourneys230, ourjourneys292/-eng) — all absorbed above; no new corpus facts. SKIP-with-reason (saturated).
+- Re-grep 2026-09-24 (slice 09230400-12): hit set unchanged (whos-who-1963, ourjourneys60/-eng, ourjourneys230, ourjourneys292/-eng) — all absorbed above; no new corpus facts. SKIP-with-reason (saturated).
 
 ## Sources
 - [TAH #1963 encyclopedia: 1963. Dr. Cecelia Tsai 葉明霞博士](https://taiwaneseamericanhistory.org/whos-who-1963-cecelia-tsai/)
