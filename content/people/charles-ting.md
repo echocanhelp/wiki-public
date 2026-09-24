@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # Charles Ting (丁昭昇)
 
@@ -39,6 +39,8 @@ Our own memoir corpus (Our Journeys) records Charles Ting (丁昭昇) as a South
 - **Taiwanese-language church founding (Los Angeles)** — the LA church memoir records Ting (丁昭昇) as one of the church workers (with 陳銓仁, 林妙珠, 陳慶霖, 盧淑貞, 許和瑞) who in 1970 proposed adding a Taigi-language service at 羅省基督教會; at Rev. 羅文's counsel they spun off separately and founded 台語福音教會 in October 1970 — an early institution in the Southern California Taiwanese church movement ([[works/taiwaneseamericanhistory-org/ourjourneys257|Our Journeys #257]]). This places him in LA's Taiwanese Christian community a decade before his 1980s TASA-SC / Formosa I.D.A. institution-building.
 
 2026-09-22 re-check: corpus grep returns the Our Journeys #65/#65(EN)/#54/#54(EN)/#173(EN)/#186 memoirs, the newly-absorbed #257 church memoir, the #917 directory record, and the works index — all now linked.
+
+2026-09-24 re-check (slice 09230500-22): corpus grep returns the same Our Journeys #65/#65(EN)/#54/#54(EN)/#173/#173(EN)/#186/#186(EN)/#257 memoir set plus the #917 record and the works index — all already linked; verified saturated.
 
 ## Family
 

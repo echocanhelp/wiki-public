@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # Dr. George Tseng (曾水福博士)
 
@@ -43,6 +43,8 @@ last_reviewed: 2026-09-23
 - 兩度獲美國國會紀錄表揚（United States Congressional Records，2014 與 2016）：[[works/taiwaneseamericanhistory-org/70-recipient-of-the-united-states-congressional-records|70. Recipient of the United States Congressional Records/Dr. S. George Tseng 曾水福博士/Two Times 2014 & 2016]]（2018-10）。
 - 第一位在美國職棒大聯盟開球（throw the first pitch）的台美人 — 2016-07-29 於邁阿密馬林魚主場：[[works/taiwaneseamericanhistory-org/380-dr-george-tseng|380. The First Taiwanese American to Throw the First Pitch of the U. S. Major League Baseball/Miami Marlins: Dr. George Tseng in Miami FL 07/29/2016]]；同一事件的獨立館藏記錄見 [[works/taiwaneseamericanhistory-org/128-pitch-dr-george-tseng|128. The Ceremonial First Pitch of the U.S. Major League Baseball/Miami Marlins by Dr. George Tseng]]；藝術家李淑櫻（Nami Yang）其後以畫作記錄此歷史性一刻（[[works/taiwaneseamericanhistory-org/footsteps-29|29. Dr. George Tseng’s First Pitch By Artist Nami Yang (李淑櫻)/2019]]，2019-05）。
 - 刹塵子為其撰寫人物專文「永遠的專注—曾水福博士」（[[works/taiwaneseamericanhistory-org/mystories683|683. 永遠的專注-曾水福博士 / 刹塵子 /05/2019]]，2019-05）；TAH 館藏有其個人檔案 [[works/taiwaneseamericanhistory-org/76-collection-of-dr-s-george-tseng|76. Collection of Dr. S. George Tseng 曾水福博士]] 及百科條目 [[works/taiwaneseamericanhistory-org/96-dr-s-george-tseng|96. Dr. George S. Tseng 曾水福博士]]。
+
+- Corpus re-grep 2026-09-24 (slice 09230500-22): SKIP — hit set unchanged (#96, #76, #70, mystories683, #380, footsteps-29, whoswho1478-2, #128), all already linked above; no new absorbable material.
 
 ## Sources
 - [TAH #683 encyclopedia: 683. 永遠的專注-曾水福博士 / 刹塵子 /05/2019](https://taiwaneseamericanhistory.org/mystories683/)

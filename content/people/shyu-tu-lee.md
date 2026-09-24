@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # Dr. Shyu-Tu Lee (李學圖博士)
 
@@ -48,6 +48,7 @@ Engineer; Manager; Administrator, Engineer & Scientific Data Center; Assistant C
 - 2010-10-09 — attended the NATPA/TAC-WC joint planning meeting at the La Quinta Inn, Los Angeles (LAX), leading a NATPA delegation of the president plus 5–6 board members; the summer-conference side included 許輕甫、許和子、王泰和、洪珠美 and Daniel Lin ([[works/taiwaneseamericanhistory-org/ourjourneys265|Our Journeys 265]]).
 - HOLD: TAH directory lists Geography "Taipei, Taiwan" while the same record's Education/Employment table places his entire career in the US (Michigan Dept. of Transportation 1970–1997, Clark County WA 1997–2001) — directory field vs career record, not merged.
 - His TAH encyclopedia profile: [[works/taiwaneseamericanhistory-org/ota-281|TAH #281 Dr. Shyu-Tu Lee 李學圖博士]].
+- His TAH Who's Who bibliographic record #170「Shyu-Tu Lee 李學圖」(published 2014-12-27): [[works/taiwaneseamericanhistory-org/whos-shyu-tu-lee|TAH #170 Shyu-Tu Lee 李學圖 / 2014-12-27]] — the person page previously linked only the #281 encyclopedia profile.
 
 ## Sources
 - [TAH #281 encyclopedia: 281. Dr. Shyu-Tu Lee 李學圖博士](https://taiwaneseamericanhistory.org/ota-281/)
