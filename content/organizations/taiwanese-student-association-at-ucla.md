@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # Taiwanese Student Association at UCLA
 
@@ -34,3 +34,4 @@ HOLD: the corpus memoirs document pre-1988 Taiwanese student activity at UCLA bu
 > Corpus re-verify (deepen-x 09210700-30): fresh grep of works/ + articles/ for TSA UCLA / ucla.tsa — zero corpus hits; the page's existing memoir material (生活座談會, 半世紀前 UCLA) and HOLD notes remain current. SKIP-deepen; nothing new absorbable.
 > Corpus re-verify (deepen-x 09220400-22): fresh grep for 'Taiwanese Student Association at UCLA' / ucla.tsa / TSA UCLA — still zero corpus hits. SKIP; HOLD notes stand.
 > Corpus re-verify (deepen-x 09221200-32, 2026-09-23): fresh grep — still zero corpus hits. SKIP; HOLD notes stand.
+> Corpus re-verify (deepen-x 09230700-23, 2026-09-24): fresh grep — still zero corpus hits. SKIP; HOLD notes stand.

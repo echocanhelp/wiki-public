@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # Li–Fa Xie (謝里法)
 
@@ -38,7 +38,7 @@ last_reviewed: 2026-09-23
 - **1975 台灣文藝沙龍 co-founder** — 林衡哲's memoir records Xie among the four (陳錦芳、謝里法、洪銘水、林衡哲) who founded「台灣文藝沙龍」 after the 鄉土文學論戰, the turning point toward 台灣文學/台灣文化 for that NY circle ([[works/taiwaneseamericanhistory-org/ourjourneys70|Our Journeys 70 (林衡哲, 股東同仁平安)]]).
 - **Cultural presence at overseas gatherings** — headliner alongside 陳永興、陳芳明、呂秀蓮 at the first 《台灣文化之夜》 in Los Angeles, May 1986 (500+ attendees; seeded 太平洋時報) ([[works/taiwaneseamericanhistory-org/ourjourneys301|Our Journeys 301, 南加州台灣人聯合基金會]]); at the 1985 美東南夏令會 remembered as 文質彬彬, artist through and through — the anecdote of him pen-editing a 「TAIWAN,R.O.C」 T-shirt into 「ROOT」 to everyone's laughter ([[works/taiwaneseamericanhistory-org/our-journeys-379|Our Journeys 379, 十年東南夏令憶感]]).
 - Community action in the movement record: a 謝里法 oil-painting charity sale funded the Houston Taiwanese community center — 楊朝諄、李席舟、李雅彥 purchased works, raising 九千元 with half going to the 會館 ([[works/taiwaneseamericanhistory-org/ourjourneys233|233. 回顧休士頓台灣人活動中心的成立 / 莊承業 / 2016-07]]).
-- 2026-09-23 re-check (DEEPEN-X slice 09221200-22): corpus re-grep (謝里法 / Li–Fa Xie) returned only the works already cited above (632, 300, 417, mystories633, 20972, publications1181/1182, our-journeys-357, ourjourneys233) — verified-saturated, nothing new absorbable this pass.
+- 2026-09-24 re-check (DEEPEN-X slice 09230700-4): corpus re-grep widened the hit set — NEW facts absorbed this pass: essay 130 重塑台灣的心靈, 巴黎大獎/巴黎文教基金會 (Our Journeys 284), 台灣文藝沙龍 1975 co-founding (Our Journeys 70), 台灣文化之夜 1986 (Our Journeys 301), 1985 夏令會 ROOT anecdote (Our Journeys 379). Prior verified-saturated status superseded.
 
 ## Family
 
