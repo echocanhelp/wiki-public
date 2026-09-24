@@ -50,6 +50,8 @@ _No filled family fields on the TAH profile._
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/father-brendan-oconnell/)
 
 ## From the record
+
+- 複核（TJJ-A09162345-19, 2026-09-24）：本 slice 文章 2ac7d756（台灣鄉情與文化分類頁 p3，2020-06-28 存檔）正文再驗證——「甘惠忠神父奉獻台灣半世紀 紐約過世享壽84歲[影]」確認見於正文清單，subject 連結為真，無錯鏈、無虛鏈；2020-04-16 日期事實條目（含該文 wikilink）已在庫 — SKIP，無新材料。
 - 複核（TJJ-A09171200-5, 2026-09-24）：本 slice 文章 2ac7d75679fda7fe（台灣鄉情與文化頁 2020-06-28 快照）正文再驗證——「甘惠忠神父奉獻台灣半世紀 紐約過世享壽84歲」確認見於正文，subject 連結為真，無錯鏈、無虛鏈；2020-04-16 日期事實條目已在庫 — SKIP，無新材料。
 
 - 複核（TJJ-A09221500-7, 2026-09-23）：本 slice 文章 2ac7d75679fda7fe（台灣鄉情與文化頁 2020-06-28 快照）正文再驗證——「甘惠忠神父奉獻台灣半世紀 紐約過世享壽84歲」確認見於正文，subject 連結為真，無錯鏈、無虛鏈；2020-04-16 日期事實條目已在庫 — SKIP，無新材料。
