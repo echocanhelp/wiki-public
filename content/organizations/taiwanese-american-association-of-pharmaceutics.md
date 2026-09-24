@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # Taiwanese American Association of Pharmaceutics (台美藥劑協會)
 
@@ -24,6 +24,7 @@ The Taiwanese American Association of Pharmaceutics (TAAP) is a professional org
 - Listed (entry 41) among the Taiwanese American organizations of New Jersey in the community memoir chapter on NJ: [[works/taiwaneseamericanhistory-org/ourjourneys356|Our Journeys 356 — 紐澤西州台美團體]], confirming active presence in the NJ pharmaceutics-heavy corridor; the chapter's English edition carries the same listing ("41. Taiwanese American Association of Pharmaceutics"): [[works/taiwaneseamericanhistory-org/ourjourneys356-eng|Our Journeys 356 (EN)]].
 - Corpus re-scan 2026-09-21 (slice 09200400-9): only the four works already cited name the body; one apparent 2025 hit was a false positive (an opaque archive digest string containing "TAAP"). Nothing new absorbable.
 - Corpus re-scan 2026-09-23 (deepen-x slice 09221400-13): fresh grep of works/ + articles/ — hit set unchanged (the four cited works + works index only). SKIP stands.
+- Corpus re-scan 2026-09-24 (deepen-x slice 09230800-29): fresh grep (台美藥劑協會／TAAP) — hit set unchanged (the four cited works + index); the single articles/ hit is the known opaque digest false positive containing "TAAP". Nothing new absorbable.
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-american-association-of-pharmaceutics/)

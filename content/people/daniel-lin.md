@@ -44,6 +44,7 @@ last_reviewed: 2026-09-24
 - TAH encyclopedia entry: [[works/taiwaneseamericanhistory-org/whos-daniel-lin|1978. Daniel Lin 林嘉仁 /12/2017]].
 - 複核 2026-09-22：再 grep 全庫（林嘉仁 / Daniel Lin），命中僅 ourjourneys186（及其英文版、index）、ourjourneys265、個人 TAH 條目 — 以上已全數吸收，無新事實可加。
 - 複核 2026-09-23（slice 09221000-25）：再 grep 全庫（林嘉仁 / Daniel Lin），命中仍僅 ourjourneys186（含英文版）、ourjourneys265、個人 TAH 條目 #1978 — 已全部吸收並 wikilink，無新事實。SKIP。
+- 複核 2026-09-24（slice 09230800-25）：再 grep 全庫，命中集不變（ourjourneys186 含英文版、ourjourneys265、TAH #1978）— 已全部吸收，無新事實。SKIP。
 
 ## Family
 
