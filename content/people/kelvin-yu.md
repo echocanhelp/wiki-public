@@ -45,6 +45,8 @@ _No filled family fields on the TAH profile._
 
 ## From the record
 
+
+- 覆核（TJJ-A09230400-5, 2026-09-24）：slice 文章 040657477c37c6cf 正文再驗證——其兄游朝凱獲獎報導對游朝敏之提及為真實，對應條目（含該文 wikilink）已在庫 — SKIP，無新材料。
 - 複核（TJJ-A09171100-1, 2026-09-24）：subject link 對照 slice 文章 9c6973783db0011a 正文再驗證——游朝敏（Kelvin Yu）獲艾美獎最佳動畫獎之記述確認見於正文，連結為真；2024-07-06 條目已在庫 — SKIP，無新材料。
 
 - 2024-07-06 — Father 游銘泉 recalls in a TJJ/CNA interview that his first-ever interview was prompted by Kelvin winning the Emmy for best animation; both brothers chose creative careers against immigrant-parent expectations ([[articles/taiwanjustice-net/2024/20240715085116_root_9c6973783db0011a|TJJ/CNA, 2024-07-06]]).

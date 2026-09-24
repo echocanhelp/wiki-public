@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # Jin-Chyuan Yu (游銘泉)
 
@@ -59,6 +59,8 @@ last_reviewed: 2026-09-23
 
 ## From the record
 
+
+- 覆核（TJJ-A09230400-5, 2026-09-24）：slice 文章 040657477c37c6cf 正文再驗證——游銘泉與妻林玲娟均來自台灣之記述為真實，對應條目（含該文 wikilink）已在庫 — SKIP，無新材料。
 - 複核（TJJ-A09171100-1, 2026-09-24）：subject link 對照 slice 文章 9c6973783db0011a 正文再驗證——游銘泉與子同受視訊專訪、三代語言隔閡慨嘆確認見於正文，連結為真；2024-07-06 條目已在庫 — SKIP，無新材料。
 
 - 2024-07-06 — Video interview with 中央社記者黃淑芳 alongside son Charles Yu: emigrated to the US around 1965, engineer; laments the language gap across three generations (grandfather Qing-era, father Japanese-era education, his own Mandarin schooling) and says not taking his sons back to Taiwan often enough was his regret; has spent 10+ years returning to Taiwan to coach SME upgrading ([[articles/taiwanjustice-net/2024/20240715085116_root_9c6973783db0011a|TJJ/CNA, 2024-07-06]]).

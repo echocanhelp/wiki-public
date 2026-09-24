@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # Charles Yu (游朝凱)
 
@@ -65,6 +65,8 @@ Corpus grep (游朝凱 / Charles Yu) returns 6 work records — awards-93, whos-
 
 ## From the record
 
+
+- 覆核（TJJ-A09230400-5, 2026-09-24）：slice 文章 040657477c37c6cf（台美人之光游朝凱榮獲美國國家圖書奬）正文再驗證——Charles Yu、游銘泉、Kelvin Yu 三連結均為真實提及（無錯鏈、無虛鏈），2020-11-19 得獎條目（含該文 wikilink）已在庫 — SKIP，無新材料。
 - 複核（TJJ-A09171100-1, 2026-09-24）：subject link 對照 slice 文章 9c6973783db0011a（中央社黃淑芳專訪, TJJ 2024-07-06）正文再驗證——本傳主體即專訪主角游朝凱，連結為真；2024-07-06 條目已在庫 — SKIP，無新材料。
 
 - 再核（TJJ-A09221200-15, 2026-09-23）：本 slice 文章 24ebe5f065076949（2016海外台語研習會公告）正文再驗證——游朝凱為課程將介紹的第二代作家（國會圖書館全美35歲以下最有前途作家之一、執業律師轉專事寫作），連結為真；2016-05-10 條目已在庫，無新材料。
