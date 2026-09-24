@@ -46,6 +46,8 @@ name_en: "Tsai Ing-wen"
 
 ## From the record
 
+- 複核（TJJ-A09162345-15 / t_0c0e3cd1, 2026-09-24）：本 slice 文章 86312fe2a2feb73e（English Pages 分類存檔頁, 2024-05-30 快照） 正文再驗證——subject 連結為真實提及，無錯鏈、無虛鏈；對應日期事實條目（含該文 wikilink）已在庫 — SKIP，已飽和。
+
 - 複核（TJJ-A09162345-31, 2026-09-24）：slice 文章 432e1fca739d02b8（Ed Royce 標籤頁）正文再驗證——2015-03-14「蔡英文：今年將訪美國首府華盛頓」首條再確認見於正文，連結為真；對應日期事實（含該文 wikilink）已在庫 — SKIP，無新材料。
 
 - 再核（TJJ-A09171200-10, 2026-09-24）：本 slice 文章 b63290424caedcf7（LA Times, Ralph Jennings 轉載）正文再驗證——提名蔡英文參選2016、民調領先、首位女性領導人等論述確認見於正文，subject 連結為真，無錯鏈、無虛鏈；2015-04-16 條目已在庫 — SKIP，已飽和。

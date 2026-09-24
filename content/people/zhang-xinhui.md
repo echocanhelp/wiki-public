@@ -42,6 +42,8 @@ Top 6 articles from taiwanjustice.net mentioning zhang-xinhui:
 
 ## From the record
 
+- 複核（TJJ-A09162345-15 / t_0c0e3cd1, 2026-09-24）：本 slice 文章 99aaa4abcb78ff6d（台美人台加人分類存檔頁, 2024-04-25 快照） 正文再驗證——subject 連結為真實提及，無錯鏈、無虛鏈；對應日期事實條目（含該文 wikilink）已在庫 — SKIP，已飽和。
+
 - 複核（TJJ-A09162345-31, 2026-09-24）：slice 文章 a244776e9eb57979（海頓音樂欣賞課報導）正文再驗證——作者鏈為真（與 canonical grace-h-yeh 同一人），正文記述為張信惠曾為李泰祥伴奏，連結為真；對應日期事實（含該文 wikilink）已在庫 — SKIP，無新材料。
 
 
