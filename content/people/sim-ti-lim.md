@@ -45,6 +45,8 @@ _No filled family fields on the TAH profile._
 
 2026-09-22 corpus sweep (slice 09220400-4): grep (林心智 / Sim Ti Lim) returned only records already linked above (587, 1305/1306/1307, 62, ourjourneys76, ourjourneys66); no new facts.
 
+2026-09-24 corpus sweep (slice 09230600-28): fresh grep (林心智 / Sim Ti Lim) again returned only already-linked records; verified saturated, 林弘宣 sibling HOLD stands.
+
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

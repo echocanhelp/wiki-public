@@ -52,3 +52,5 @@ last_reviewed: 2026-09-24
 > Corpus re-scan 2026-09-22 (deepen-x slice 09220400-21): fresh grep of works/ and articles/ for 李賢淇 / Edward H Lee — hits are his own record #1676, ourjourneys-138（1987/1993 TAA華府負責人）, ourjourneys47（NATPA首返台年會、參觀旅遊領隊）, and the 2018-07-20 TJJ 台大校友連署名單（列名「李賢淇(植物)」，與現有記載相符）。All facts already absorbed above. SKIP-deepen; nothing new absorbable.
 
 > Corpus re-scan 2026-09-23 (deepen-x slice 09221200-12): fresh grep 李賢淇/Edward H Lee — same set: record #1676, ourjourneys-138, ourjourneys47, the 2018-07-20 TJJ 連署名單. All facts already absorbed; nothing new.
+
+> Corpus re-scan 2026-09-24 (deepen-x slice 09230600-25): fresh grep 李賢淇/Edward H Lee — same set: record #1676, ourjourneys-138, ourjourneys47, the 2026-07-20-era TJJ 連署名單 (2018-07-20), plus works index. All facts already absorbed; nothing new absorbable.

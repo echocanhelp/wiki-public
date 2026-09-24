@@ -26,6 +26,7 @@ The San Diego Taiwanese Cultural Association (SDTCA, 聖地牙哥台灣同鄉會
 - 2017 Hurricane Harvey relief: 聖地牙哥台灣會館 contributed US$17,619 to a joint US$87,459 donation (with the TAA Houston Foundation, LA Taiwanese American Cultural Center, 北美洲台灣婦女會, and 休士頓台聲合唱團) to the City of Houston's Harvey Relief Fund — [[works/taiwaneseamericanhistory-org/ourjourneys328|Our Journeys 328]].
 
 _Corpus re-grep 2026-09-23: same hits (project-3-41 ZH/ENG, directory record, TAA chapter record, 鄉訊 newsletter, ourjourneys337/162/328, tcsd-summer-camp, seniororg6) — all already linked above; page saturated, nothing new._
+_Corpus re-grep 2026-09-24 (deepen-x slice 09230600-28): fresh ZH+EN grep returns the same hit set (project-3-41 ZH/ENG, directory record, TAA chapter record, newsletter-sdtca, ourjourneys337) — all linked/absorbed; verified saturated._
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/san-diego-taiwanese-cultural-association/)

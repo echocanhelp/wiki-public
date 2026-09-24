@@ -38,3 +38,5 @@ Re-verified 2026-09-22 (slice 09210600-14): SKIP for new facts — every corpus 
 - [[people/linda-gail-arrigo|艾琳達 Linda Gail Arrigo]]
 
 Re-verified 2026-09-23 (slice 09221200-11): fresh ZH+EN grep of works/ + articles/ returned only records already linked and absorbed on this page — verified-saturated, no new absorbable facts; SKIP for new content.
+
+Re-verified 2026-09-24 (slice 09230600-23): fresh ZH+EN grep of works/ + articles/ returned the identical hit set (TAH #228, #810, #378, #363, photo album #81, works index) — all already linked and absorbed above; verified-saturated, no new absorbable facts.

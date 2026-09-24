@@ -49,6 +49,7 @@ last_reviewed: 2026-09-24
 - His own TAH encyclopedia record #1560 (2017/03) is archived as [[works/taiwaneseamericanhistory-org/whoswho1560|1560. Y.C. Hsu 許英智 / 2017/03]]; org page: [[organizations/taiwanese-american-citizens-league|台美公民協會 TACL]].
 
 ## From the corpus (re-verified)
+- Corpus re-grep 2026-09-24 (slice 09230600-18): hit set identical to 09-23 — ourjourneys272/-eng, ourjourneys66, ourjourneys186, whoswho1560, works index; all facts already absorbed above (SKIP-with-reason: verified-saturated).
 - Corpus re-grep 2026-09-23 (slice 09221100-25): hits unchanged — ourjourneys272/-eng (TACL founding), ourjourneys66 (1984 回台訪問團), ourjourneys186 (TACL 顧問), whoswho1560, works index — all facts already absorbed into Role in the Community; SKIP-content.
 
 ## Sources
