@@ -54,6 +54,9 @@ Accomplishment
 
 ## From the record
 
+
+- 覆核（TJJ-A09230700-2, 2026-09-24）：本 slice 文章 31b7081a（〈化作千風—懷念台美人的人權鬥士、台獨先鋒王泰和〉）正文再驗證——要求與台獨之聲講員會面令圈內笑翻之記述確認見於正文，subject 連結為真（無錯鏈、無虛鏈）；2022-07-12 條目已在庫並掛鏈本檔 — SKIP，無新材料。
+
 - 覆核（TJJ-A09230500-1, 2026-09-24）：本 slice 文章 e3440fec3eed8107（籌謀台灣不流血革命(陳昭南 2022-05-09)） 正文再驗證——主體連結為真實提及（無錯鏈、無虛鏈），對應日期事實條目（含該文 wikilink）已在庫 — SKIP，無新材料。
 
 - 複核（TJJ-A09171200-8, 2026-09-24）：subject link 對照 slice 文章 2fa1c26a7ca674e2（台美人台加人 page 359, 2024-07-18 快照）正文再驗證——父女同台傳陽雜誌30週年演唱會影音條目再確認見於正文，連結為真；2011-10-30 條目（已含該文 wikilink）已在庫 — SKIP，無新材料。
@@ -105,3 +108,4 @@ Accomplishment
 
 ## Revision History
 - 2026-09-21 (DEEPEN-HSU-PARENTS): person page confirmed (created 2026-09-20 from owner-supplied names); Desert Springs 2026-09 photo custody record added to From the record; wife [[people/tsai-ying-ju|蔡瀛如]] and Family cross-links verified on leonard-hsu-jr.md and hung-jen-liu.md caption.
+

@@ -6,7 +6,7 @@ tags:
   - Taiwanese-American
   - Taiwan-Center-group-member
 verification_status: published
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # Friends of Taiwan
 
@@ -27,6 +27,9 @@ last_reviewed: 2026-09-23
 
 ## From the record
 
+
+- 覆核（TJJ-A09230700-2, 2026-09-24）：本 slice 文章 31b7081a（〈化作千風—懷念台美人的人權鬥士、台獨先鋒王泰和〉）正文再驗證——1997年王泰和創設台灣之友社、草根路線與FAPA互補之記述確認見於正文，subject 連結為真（無錯鏈、無虛鏈）；2022-07-12 條目已在庫並掛鏈本檔 — SKIP，無新材料。
+
 - 1997 — Per founder 王泰和's 2022-07-12 memorial interview, 台灣之友社 (Friends of Taiwan) was founded by 王泰和 (王廷宜) in Los Angeles as a grassroots people-to-people complement to FAPA's congressional lobbying; Ted Anderson served as its president for over a decade, hosting AIT chairman Richard Bush and John Bolton as speakers ([[articles/taiwanjustice-net/2025/20250811013132_化作千風_懷念台美人的人權鬥士_台獨先鋒王泰_31b7081a5d37939f|TJJ, 2022-07-12]]).
 - The organization is documented across the TAH corpus in its own right: a self-published introduction ([[works/taiwaneseamericanhistory-org/project-3-36-eng|台灣之友會簡介 / A Brief Introduction]]), its own newsletter ([[works/taiwaneseamericanhistory-org/newsletter-of-friends-of-taiwan|Newsletter of Friends of Taiwan 台灣之友會通訊]]), and a directory entry ([[works/taiwaneseamericanhistory-org/friends-of-taiwan|Friends of Taiwan 台灣之友會]]).
 - **2014-03-01** — 美洲台灣日報 interview "仗義為台灣" profiles president Ted Anderson ([[works/taiwaneseamericanhistory-org/video57|video57]]), corroborating the memorial-interview account of his long presidency; Anderson is also profiled in the TAH Who's Who record as "a very strong supporter to the T.A. community" ([[works/taiwaneseamericanhistory-org/ff322|TAH #322]]).
@@ -44,3 +47,4 @@ last_reviewed: 2026-09-23
 - [[sources/taiwancenter-org||taiwancenter.org]]
 - [[people/ted-anderson||Ted Anderson]]
 - [[organizations/friends-of-taiwan-greater-st-louis||Friends of Taiwan—Greater St. Louis]]
+

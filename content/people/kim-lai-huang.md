@@ -31,6 +31,9 @@ _No filled family fields on the TAH profile._
 
 ## From the record
 
+
+- 覆核（TJJ-A09230700-2, 2026-09-24）：本 slice 文章 31b7081a（〈化作千風—懷念台美人的人權鬥士、台獨先鋒王泰和〉）正文再驗證——王泰和赴美時親接機並引薦王康陸之記述（正文稱Kansas大學，與TAH档案堪薩斯州立大學並存HOLD）確認見於正文，subject 連結為真（無錯鏈、無虛鏈）；2022-07-12 條目已在庫並掛鏈本檔 — SKIP，無新材料。
+
 - 2022-07-12 — 王泰和's memorial interview: a University of Kansas professor and former home tutor of 王泰和's 建中 classmates; when 王泰和 arrived in Kansas in the early 1970s he found him in the phone book — the first of three Huang listings he dialled — and 黃金來 drove to collect him and took him to the home of 台灣同學會會長 王康陸, 王泰和's entry point into the movement ([[articles/taiwanjustice-net/2025/20250811013132_化作千風_懷念台美人的人權鬥士_台獨先鋒王泰_31b7081a5d37939f|TJJ, 2022-07-12]]).
 
 ## Role in the Community
@@ -55,3 +58,4 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+

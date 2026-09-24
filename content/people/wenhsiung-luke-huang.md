@@ -57,6 +57,9 @@ _No filled family fields on the TAH profile._
 ## From the record
 
 
+
+- 覆核（TJJ-A09230700-2, 2026-09-24）：本 slice 文章 31b7081a（〈化作千風—懷念台美人的人權鬥士、台獨先鋒王泰和〉）正文再驗證——424刺蔣案开枪遭安全人員掣肘之記述確認見於正文，subject 連結為真（無錯鏈、無虛鏈）；2022-07-12 條目已在庫並掛鏈本檔 — SKIP，無新材料。
+
 - 覆核（TJJ-A09230400-5, 2026-09-24）：本 slice 與 TJJ-A09171100-8 涵蓋同一文章 996879ac7a006acf（全美台灣人權協會第44屆年會暨鄭南榕紀念獎頒獎），主體連結與日期事實覆核結果相同（連結為真、條目已在庫）— SKIP，無新材料。
 - 覆核（TJJ-A09171100-8, 2026-09-24）：slice 文章 996879ac7a006acf（全美台灣人權協會第44屆年會暨鄭南榕紀念獎頒獎） 主體連結對照正文再驗證——連結為真實提及（無錯鏈、無虛鏈），對應日期事實條目（含該文 wikilink）已在庫 — SKIP，無新材料。
 - 覆核（TJJ-A09170400-17, 2026-09-24）：本 slice 文章 2777c888（長青教室標籤彙整頁）正文再驗證——本頁提及條目確認見於正文，subject 連結為真；對應日期事實已在庫 — SKIP，無新材料。
@@ -85,3 +88,4 @@ _No filled family fields on the TAH profile._
 ## Cross-link check (deepen pass 2026-09-14)
 
 - All cited vault pages verified present: [[works/taiwaneseamericanhistory-org/whoswho1324||#1324 Who's Who]], [[works/taiwaneseamericanhistory-org/photo-albums-historical-19||#19]], [[works/taiwaneseamericanhistory-org/milestones14||Milestones #14]], the #142/#89/#468 photo works, and both 刺蔣 depth sources above. The person-identity caveat (pediatrician vs 4/24刺蔣 黃文雄; ITPC's dermatologist 黃文雄 likely a third person) remains unresolved in the vault source set — `verification_status` stays pending; no new in-vault facts to absorb.
+

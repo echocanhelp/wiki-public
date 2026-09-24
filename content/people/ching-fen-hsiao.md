@@ -44,6 +44,9 @@ last_reviewed: 2026-09-24
 ## From the record
 
 
+
+- 覆核（TJJ-A09230700-2, 2026-09-24）：本 slice 文章 28b0cc4e（2021北美洲海外台灣人二二八紀念活動報導）正文再驗證——開幕祝禱並與蕭美琴父女同台之記述確認見於正文，subject 連結為真（無錯鏈、無虛鏈）；2021-02-28 條目已在庫並掛鏈本檔 — SKIP，無新材料。
+
 - 複核（TJJ-A09162345-17, 2026-09-24）：本 slice 文章 2a3226a1b19c5a46（中央社記者蕭美琴副手專稿轉載, 2023-11-20, 2023-12-08 快照）正文再驗證——「蕭美琴的父親蕭清芬從事神學教育，從美國返台後擔任台南神學院院長」確認見於正文，連結為真，無錯鏈、無虛鏈；2023-11-20 條目已在庫 — SKIP，無新材料（[[articles/taiwanjustice-net/2023/20231208130546_root_2a3226a1b19c5a46|TJJ 轉載中央社記者, 2023-11-20]]）。
 
 - 複核（TJJ-A09162345-31, 2026-09-24）：slice 文章 8216e7ca508266e9（蕭清芬牧師在美過世標籤頁）正文再驗證——「享壽86歲」訃聞頭條再確認見於正文，連結為真；對應日期事實（含該文 wikilink）已在庫 — SKIP，無新材料。
@@ -82,3 +85,4 @@ last_reviewed: 2026-09-24
 - Obituary record: [[works/taiwaneseamericanhistory-org/my-stories-816|816. 蕭清芬在美辭世 蕭美琴悼父親：一生守護台灣本土意識 12-2021]] (2021-12-16) — 蕭美琴's memorial framing his life as a lifelong defense of Taiwanese local consciousness.
 - Who's Who entry in corpus: [[works/taiwaneseamericanhistory-org/whoswho1433|1433. Ching-Fen Hsiao 蕭清芬 / 2016/12]].
 - Corpus re-grep 2026-09-21 / 2026-09-22 / 2026-09-23 (slice 09230317-1): hit set unchanged (mystories434, my-stories-816, ourjourneys268, whoswho1433, plus the three taiwanjustice.net pieces already cited under "From the record" and a duplicate tag-page snapshot of 「我的女兒美琴」) — all substantive hits linked above; nothing further absorbable (verified-saturated).
+

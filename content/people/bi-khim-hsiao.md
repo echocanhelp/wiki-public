@@ -44,6 +44,10 @@ _No filled family fields on the TAH profile._
 
 ## From the record
 
+
+- 覆核（TJJ-A09230700-2, 2026-09-24）：本 slice 文章 28b0cc4e（2021北美洲海外台灣人二二八紀念活動報導）正文再驗證——致詞談民主脆弱與台美共同價值之記述確認見於正文，subject 連結為真（無錯鏈、無虛鏈）；2021-02-28 條目已在庫並掛鏈本檔 — SKIP，無新材料。
+- 覆核（TJJ-A09230700-2, 2026-09-24）：本 slice 文章 c3e76282（大洛杉磯台灣會館基金會22週年線上募款年會報導）正文再驗證——受邀擔任12/5線上講員「台美攜手 眾志成城」之記述確認見於正文，subject 連結為真（無錯鏈、無虛鏈）；2020-11-17 條目已在庫並掛鏈本檔 — SKIP，無新材料。
+
 - 複核（TJJ-A09230700-11, 2026-09-24）：本 slice 文章 760a0bc942e1676b（VOA：台灣祝賀拜登、賀錦麗就職）正文再驗證——蕭美琴獲 JCCIC 直接邀請出席就職儀式及錄製祝賀視頻記述確認見於正文，subject 連結為真，無錯鏈、無虛鏈；2021-01-20 條目已在庫（前一輪 TJJ-A09221200-15 已核）— SKIP，已飽和。
 
 - 複核（TJJ-A09162345-17, 2026-09-24）：本 slice 三篇文章 2a3226a1b19c5a46（中央社副手專稿轉載, 2023-11-20）、63717cb2b99ce3c3（台美人台加人 p3, 2024-04-25 快照）、74a9c518e681a3de（台美人台加人 p2, 2020-06-26 快照）正文再驗證——副手搭檔專稿、「蕭美琴專訪／軟實力外交」（2020-07-12）、「辭別花蓮將駐美」與「自許為戰貓」各條確認見於正文，連結為真，無錯鏈、無虛鏈；對應日期事實條目（2023-11-20／2020-07-12／2020-05-31）均已在庫 — SKIP，無新材料（[[articles/taiwanjustice-net/2023/20231208130546_root_2a3226a1b19c5a46|中央社專稿]]／[[articles/taiwanjustice-net/2024/20240425074022_root_63717cb2b99ce3c3|台美人台加人p3]]／[[articles/taiwanjustice-net/2020/20200626131727_category_taiwaneseamerican_page_2_74a9c518e681a3de|台美人台加人p2]]）。
@@ -157,3 +161,4 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+

@@ -263,6 +263,9 @@ Notable quotes and mentions of **田詒鴻** in Taiwan Justice articles:
 
 ## From the record
 
+
+- 覆核（TJJ-A09230700-2, 2026-09-24）：本 slice 文章 c3e76282（大洛杉磯台灣會館基金會22週年線上募款年會報導）正文再驗證——2018年任內率董事會開啟重建募款之記述確認見於正文，subject 連結為真（無錯鏈、無虛鏈）；2020-11-17 條目已在庫並掛鏈本檔 — SKIP，無新材料。
+
 - 複核（TJJ-A09230700-10, 2026-09-24）：本 slice 文章 2f4af86847559b66（2024台灣會館26周年晚宴公告）正文再驗證——「董事長田詒鴻」名列38位董事購票聯絡人首位確認見於正文，subject 連結為真，無錯鏈、無虛鏈；2024-10-04 條目已在庫 — SKIP，已飽和。
 
 
@@ -306,3 +309,4 @@ Notable quotes and mentions of **田詒鴻** in Taiwan Justice articles:
 - [[people/leonard-hsu-jr||Leonard Hsu Jr. (許景鴻)]] — President (會長)
 - [[people/yang-jia-you||Charles Yang (楊嘉猷)]] — 創會會長
 - [[people/freeman-huang||Freeman Huang (黃樹人)]] — Secretary (秘書)
+

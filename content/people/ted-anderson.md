@@ -36,6 +36,9 @@ last_reviewed: 2026-09-24
 
 ## From the record
 
+
+- 覆核（TJJ-A09230700-2, 2026-09-24）：本 slice 文章 31b7081a（〈化作千風—懷念台美人的人權鬥士、台獨先鋒王泰和〉）正文再驗證——任台灣之友社會長十餘年、邀請卜睿哲與波頓演講之記述確認見於正文，subject 連結為真（無錯鏈、無虛鏈）；2022-07-12 條目已在庫並掛鏈本檔 — SKIP，無新材料。
+
 - 2022-07-12 — 王泰和's memorial interview: sent by US Lions Club headquarters to help found the Taiwanese Lions club, then invited by 王泰和 to chair 台灣之友社 (Friends of Taiwan) for over a decade, during which he hosted AIT chairman Richard Bush and John Bolton as speakers; on one visit to Taiwan he travelled specifically to visit the imprisoned Chen Shui-bian, prompting a EVA Air stewardess to send him breakfast on the house. 王泰和 called him 「真真正正的 Friend of Taiwan」 ([[articles/taiwanjustice-net/2025/20250811013132_化作千風_懷念台美人的人權鬥士_台獨先鋒王泰_31b7081a5d37939f|TJJ, 2022-07-12]]).
 
 ## Role in the Community
@@ -55,3 +58,4 @@ last_reviewed: 2026-09-24
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+

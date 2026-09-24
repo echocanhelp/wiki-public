@@ -40,6 +40,9 @@ B.S. Dept. of Adult & Continuing Education(社教系)
 ## From the record
 
 
+
+- 覆核（TJJ-A09230700-2, 2026-09-24）：本 slice 文章 31b7081a（〈化作千風—懷念台美人的人權鬥士、台獨先鋒王泰和〉）正文再驗證——列名1993年闖關返台名單並獲國際特赦組織營救之記述確認見於正文，subject 連結為真（無錯鏈、無虛鏈）；2022-07-12 條目已在庫並掛鏈本檔 — SKIP，無新材料。
+
 - 覆核（TJJ-A09230400-5, 2026-09-24）：本 slice 與 TJJ-A09171100-8 涵蓋同一文章 996879ac7a006acf（全美台灣人權協會第44屆年會暨鄭南榕紀念獎頒獎），主體連結與日期事實覆核結果相同（連結為真、條目已在庫）— SKIP，無新材料。
 - 覆核（TJJ-A09171100-8, 2026-09-24）：slice 文章 996879ac7a006acf（全美台灣人權協會第44屆年會暨鄭南榕紀念獎頒獎） 主體連結對照正文再驗證——連結為真實提及（無錯鏈、無虛鏈），對應日期事實條目（含該文 wikilink）已在庫 — SKIP，無新材料。
 - 2020-11-25 — FAHR 公告第44屆年會暨「鄭南榕紀念獎」頒獎典禮移師台北（12/5），邀歷屆得獎人回娘家，名列 1991 年得獎人（[[articles/taiwanjustice-net/2021/20210118235211_2020_11_25_全美台灣人權協會第44屆年會暨_鄭南榕紀念獎_頒_996879ac7a006acf|TJJ, 2020-11-25]]）。
@@ -62,3 +65,4 @@ B.S. Dept. of Adult & Continuing Education(社教系)
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - Corpus re-grep 2026-09-23 (slice 09221000-2)：驗證飽和 — 命中集不變（#311、#513、#545、#448、#173、our-journeys-357、ourjourneys2、ourjourneys60-eng），紐約「台灣之音」回憶錄中絕食抗議段落已吸收；無新語料，Stella Chen Landauer 同名 HOLD 不變。
 - Corpus re-grep 2026-09-24 (slice 09230400-1)：驗證飽和 — fresh ZH+EN grep 命中集與前次完全一致且全部已連結吸收；無新語料，Stella Chen Landauer 同名 HOLD 不變。
+

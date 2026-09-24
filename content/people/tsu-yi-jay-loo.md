@@ -55,6 +55,9 @@ Facts absorbed from the TAH encyclopedia entries already cited on this page:
 
 ## From the record
 
+
+- 覆核（TJJ-A09230700-2, 2026-09-24）：本 slice 文章 c03323d2（獨傲村夫〈從二戰後全球去殖民化，到台灣國家正常化（下）〉）正文再驗證——與林榮勳、陳以德創3F及UFI獲甘迺迪支持之記述確認見於正文，subject 連結為真（無錯鏈、無虛鏈）；2023-06-02 條目已在庫並掛鏈本檔 — SKIP，無新材料。
+
 - 覆核（TJJ-A09230700-1, 2026-09-24）：本 slice 獨傲村夫〈從二戰後全球去殖民化，到台灣國家正常化（下）〉（c251f8fc, 2023-06-02）正文再驗證——1956創3F、UFI獲甘迺迪支持之記述確認見於正文，subject 連結為真；2023-06-02 條目已在庫 — SKIP，無新材料。
 
 - 複核（TJJ-A09171100-4, 2026-09-24）：本 slice 文章 2d725102f4e64118 正文再驗證——本頁 subject link 為真實對應（無錯鏈、無虛鏈），對應 From-the-record 條目已在庫 — SKIP，無新材料。
@@ -77,3 +80,4 @@ Facts absorbed from the TAH encyclopedia entries already cited on this page:
 
 ## Vault re-check 2026-09-14 (deepen-x slice 09112200-1, vault-only)
 His Source list's TAH #219 and #201 encyclopedia URLs resolve to existing vault pages, now wikilinked above. Additional vault corroboration found: [[works/taiwaneseamericanhistory-org/ourjourneys33||Our Journeys #33 (張炎憲, 2014/09)]] independently records him — 陳以德、盧主義、林榮勳、楊東傑、林錫湖 — as the five who founded 3F in Philadelphia in 1956 and reorganized it into UFI in 1958. No web used, no new pages, nothing published.
+

@@ -60,6 +60,9 @@ _Corpus-absorbed 2026-09-14 (slice 09141300-17); primary material from our own m
 
 ## From the record
 
+
+- 覆核（TJJ-A09230700-2, 2026-09-24）：本 slice 文章 31b7081a（〈化作千風—懷念台美人的人權鬥士、台獨先鋒王泰和〉）正文再驗證——本傳主體：生平、台獨之聲主筆、人權會會長、創台灣之友社等記述確認見於正文，subject 連結為真（無錯鏈、無虛鏈）；2022-07-12 條目已在庫並掛鏈本檔 — SKIP，無新材料。
+
 - 複核（TJJ-A09221500-11, 2026-09-24）：本 slice 文章 c4d413fd（FAHR 41週年年會暨鄭南榕紀念獎、王康陸人權獎報導）正文再驗證——得獎人王泰和即本傳主（王廷宜／泰和）、同頁附其「人權建國的心路歷程」演講稿連結，subject link 為真實對應（無錯鏈、無虛鏈）；2017-12-09 獲獎演講條目已在庫 — SKIP，無新材料。
 
 - 複核（TJJ-A09162345-27, 2026-09-23）：本 slice 文章 c4d413fd（FAHR 41週年年會暨鄭南榕紀念獎、王康陸人權獎報導）之 subject link 經正文再驗證為真實對應（得獎人王泰和＝本傳主，同頁附其演講稿連結），2017-12-09 獲獎事實條目已在庫（無錯鏈、無虛鏈）— SKIP，無新材料。
@@ -78,3 +81,4 @@ _Corpus-absorbed 2026-09-14 (slice 09141300-17); primary material from our own m
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+

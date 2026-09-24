@@ -35,6 +35,9 @@ _No filled family fields on the TAH profile._
 
 ## From the record
 
+
+- 覆核（TJJ-A09230700-2, 2026-09-24）：本 slice 文章 c03323d2（獨傲村夫〈從二戰後全球去殖民化，到台灣國家正常化（下）〉）正文再驗證——1964-09-20與彭明敏、魏廷朝發表自救宣言被判八年之記述確認見於正文，subject 連結為真（無錯鏈、無虛鏈）；2023-06-02 條目已在庫並掛鏈本檔 — SKIP，無新材料。
+
 - 覆核（TJJ-A09230700-10, 2026-09-24）：本 slice 文章 da7f84e20eff6ae9（自救宣言59週年國史館新書發表，TJJ/CNA 2023-09-24）正文再驗證——謝秀美等家屬與會、林本原引述「阿部悠輔訊問筆錄」為謝聰敏生前追查之史料，subject 連結為真；2023-09-24 條目（含該文 wikilink）已在庫 — SKIP，已飽和。
 
 - 覆核（TJJ-A09230700-1, 2026-09-24）：本 slice 吳澧培回憶錄前言（9a39a754）、唐培禮訃聞（5d471dbe）、獨傲村夫〈去殖民化—正常化（下）〉（c251f8fc）正文再驗證——吳澧培摯友、1965判10年獄中傳紙條、1964-09-20自救宣言三組 subject 連結均為真（無錯鏈、無虛鏈），對應條目已在庫 — SKIP，無新材料。
@@ -77,3 +80,4 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+

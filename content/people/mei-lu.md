@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # Mei Lu (陳香梅)
 
@@ -32,6 +32,9 @@ _No filled family fields on the TAH profile._
 
 ## From the record
 
+
+- 覆核（TJJ-A09230700-2, 2026-09-24）：本 slice 文章 28b0cc4e（2021北美洲海外台灣人二二八紀念活動報導）正文再驗證——與張秀滿、吳惠芳朗誦「痛苦的三月天」記述確認見於正文，subject 連結為真（無錯鏈、無虛鏈）；2021-02-28 條目已在庫並掛鏈本檔 — SKIP，無新材料。
+
 - 2021-02-28 — At the first overseas joint 228 commemoration she joined 張秀滿 and 吳惠芳 as 婦女會 sisters to recite 陳雷's poem 「痛苦的三月天」 ([[articles/taiwanjustice-net/2026/20260210064123_2021北美洲海外台灣人二二八紀念活動-台灣國家人權_28b0cc4e52acece2|TJJ, 2021-03-03]]).
 
 ## Role in the Community
@@ -46,3 +49,4 @@ HOLD: TAF（台灣人協進會）會史紀念照中的 "Mei Lu"（MFCF 1990 前�
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
