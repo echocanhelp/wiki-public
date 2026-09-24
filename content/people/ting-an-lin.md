@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # Ting-An Lin (林庭安)
 
@@ -38,6 +38,8 @@ _No filled family fields on the TAH profile._
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/ting-an-lin/)
 
 ## From the record
+
+- 複核（TJJ-A09230400-1, 2026-09-24）：subject link 經本 slice 文章 2c9cb76838702dd7 正文再驗證為真實對應，對應 From-the-record 條目已在庫並掛鏈本檔（無錯鏈、無虛鏈）— SKIP，無新材料。
 
 - 複核（TJJ-A09170400-5, 2026-09-23）：本 slice 文章 2c9cb76838702dd7 正文再驗證——林庭安為海台青召集人確認見於正文，連結為真；2017-07-24 條目已在庫 — SKIP，無新材料。
 - 2017-07-24 — Photographed as convener (召集人) of 海外台灣青年陣線 (OTD) at the organization's joint summer camp with TACEC at West Chester University, PA; OTD, founded after the 2014 sunflower movement, had held its first general meeting at the University of Washington in April 2015 ([[articles/taiwanjustice-net/2021/20211207123518_2017_07_24_海台青與黑客松-_-楊遠薰-2017-07-24_2c9cb76838702dd7|楊遠薰 column via TJJ, 2017-07-24]]; same column re-archived 2024: [[articles/taiwanjustice-net/2024/20240523010214_root_3260cd0bdf2f84d7|Wayback copy via TJJ]]).

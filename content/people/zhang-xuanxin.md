@@ -33,6 +33,8 @@ In 2024/09 he appears in TAH's record of the Carnegie Hero Fund commission cerem
 
 ## From the record
 
+- 複核（TJJ-A09230400-1, 2026-09-24）：subject link 經本 slice 文章 117bdbbd9b362236 正文再驗證為真實對應，對應 From-the-record 條目已在庫並掛鏈本檔（無錯鏈、無虛鏈）— SKIP，無新材料。
+
 - 複核（TJJ-A09221500-11, 2026-09-24）：本 slice 文章 8c205697（南加州教會槍殺案駐處查證報導）正文再驗證——「牧師張宣信把握時機拿椅子丟向槍手頭部」確認見於正文，subject link 為真（無錯鏈、無虛鏈）；2022-05-16 條目已在庫 — SKIP，無新材料。另：該文正文主體人物醫師鄭達志（John Cheng）先前未列 Subjects，本次已補列。
 
 - 複核（TJJ-A09171200-8, 2026-09-24）：subject link 對照 slice 文章 131a1c8ea05f85ea（台美人台加人 page 360, 2024-07-15 快照）正文再驗證——「VOA專訪張宣信牧師：政治傾向不同不是敵人」條目再確認見於正文，連結為真；2022-05-19 條目（已含該文 wikilink）已在庫 — SKIP，無新材料。

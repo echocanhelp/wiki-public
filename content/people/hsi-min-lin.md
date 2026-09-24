@@ -45,6 +45,8 @@ _No filled family fields on the TAH profile._
 
 ## From the record
 
+- 複核（TJJ-A09230400-1, 2026-09-24）：subject link 經本 slice 文章 2c9cb76838702dd7 正文再驗證為真實對應，對應 From-the-record 條目已在庫並掛鏈本檔（無錯鏈、無虛鏈）— SKIP，無新材料。
+
 - 複核（TJJ-A09170400-5, 2026-09-23）：本 slice 文章 2c9cb76838702dd7 正文再驗證——林希明以 FAPA 副會長身分受邀演講確認見於正文，連結為真；2017-07-24 條目已在庫 — SKIP，無新材料。
 - 2017-07-24 — As vice president of FAPA, Lin was invited to speak on winning support for Taiwan in American political circles at the TACEC × 海台青 (OTD) joint summer camp at West Chester University, PA, alongside GTI CEO Russell Hsiao ([[articles/taiwanjustice-net/2021/20211207123518_2017_07_24_海台青與黑客松-_-楊遠薰-2017-07-24_2c9cb76838702dd7|楊遠薰 column via TJJ, 2017-07-24]]; same column re-archived 2024: [[articles/taiwanjustice-net/2024/20240523010214_root_3260cd0bdf2f84d7|Wayback copy via TJJ]]).
 - His TAH encyclopedia profile is held in the corpus at [[works/taiwaneseamericanhistory-org/whoswho1314|TAH #1314]].

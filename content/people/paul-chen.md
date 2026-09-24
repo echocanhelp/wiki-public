@@ -219,6 +219,8 @@ Notable quotes and mentions of **陳柏宇** in Taiwan Justice articles:
 
 ## From the record
 
+- 複核（TJJ-A09230400-1, 2026-09-24）：subject link 經本 slice 文章 c62f5c50846fe267 正文再驗證為真實對應，對應 From-the-record 條目已在庫並掛鏈本檔（無錯鏈、無虛鏈）— SKIP，無新材料。
+
 - 複核（TJJ-A09171100-5, 2026-09-24）：本 slice 文章 c62f5c50846fe267（大洛杉磯台灣會館 228追思紀念大會報導）正文再驗證——陳柏宇以僑務委員身分列席確認見於正文，subject 連結為真，無錯鏈、無虛鏈；2025-02-22 條目已在庫 — SKIP，無新材料。
 
 - 複核（TJJ-A09221300-11, 2026-09-23）：subject link 經本 slice 再驗證為真實對應，對應 From-the-record 條目已在庫（無錯鏈、無虛鏈）— SKIP，無新材料。

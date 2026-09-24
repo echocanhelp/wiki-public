@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # Global Taiwan Institute (全球台灣研究中心)
 
@@ -30,6 +30,8 @@ The Global Taiwan Institute (GTI) is a think tank dedicated to strengthening US-
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/global-taiwan-institute/)
 
 ## From the record
+
+- 複核（TJJ-A09230400-1, 2026-09-24）：subject link 經本 slice 文章 2c9cb76838702dd7 正文再驗證為真實對應，對應 From-the-record 條目已在庫並掛鏈本檔（無錯鏈、無虛鏈）— SKIP，無新材料。
 
 - 複核（TJJ-A09170400-5, 2026-09-23）：本 slice 文章 2c9cb76838702dd7 正文再驗證——GTI 執行長 Russell Hsiao 受邀演講確認見於正文，連結為真；2017-07-24 條目（已掛本檔 2021 快照 wikilink）已在庫 — SKIP，無新材料。
 - 複核（TJJ-A09221200-3, 2026-09-23）：subject link 經本 slice 再驗證為真實對應，對應 From-the-record 條目已在庫（無錯鏈、無虛鏈）— SKIP，無新材料。

@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # Overseas Taiwanese for Democracy (海外台灣青年陣線)
 
@@ -19,6 +19,8 @@ last_reviewed: 2026-09-23
 Overseas Taiwanese for Democracy (海外台灣青年陣線) is a North American coalition of overseas Taiwanese youth organizations that emerged from the transnational solidarity efforts surrounding Taiwan’s 2014 Sunflower Movement, during which overseas Taiwanese students helped amplify international coverage of the occupation of Taiwan’s Parliament in protest of the Cross-Strait Service Trade Agreement. The organization draws from a long lineage of overseas Taiwanese democracy activists and seeks to unite Taiwanese youth in North America around civic consciousness and Taiwanese identity. Its activities include annual conferences, issue-based study and action on topics such as history, law, economics, ethnicity, and gender, as well as outreach to connect with international civil society. The group explicitly advocates for Taiwanese independence as a long-term goal and aims to cultivate the next generation of civic leaders committed to social reform. In 2015, the organization held an annual conference themed around cross-generational Taiwanese subjectivity.
 
 ## From the record
+
+- 複核（TJJ-A09230400-1, 2026-09-24）：subject link 經本 slice 文章 2c9cb76838702dd7 正文再驗證為真實對應，對應 From-the-record 條目已在庫並掛鏈本檔（無錯鏈、無虛鏈）— SKIP，無新材料。
 
 - 複核（TJJ-A09170400-5, 2026-09-23）：本 slice 文章 2c9cb76838702dd7（楊遠薰〈海台青與黑客松〉原始存檔）正文再驗證——本篇主角組織，連結為真；2017-07-01 條目已掛本檔 wikilink 在庫 — SKIP，無新材料。
 - 2017-07-01 — OTD co-held its 2017 general meeting with the US East Coast Taiwanese Education Center (TACEC) summer camp at West Chester University, PA (7/1–4), bringing 67 participants/speakers from 17 states and running a 「黑客松」(Hackathon) workshop with projects incl. 國會觀測站、台美貿易資料庫、國家寶藏; convener 林庭安, founder-interviewee 林子堯, and fundraiser/前FAPA總會長 高龍榮 are named in 楊遠薰's column ([[articles/taiwanjustice-net/2021/20211207123518_2017_07_24_海台青與黑客松-_-楊遠薰-2017-07-24_2c9cb76838702dd7|楊遠薰 column via TJJ, 2017-07-24]]).

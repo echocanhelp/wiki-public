@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # Peggy Huang (黃瑞雅)
 
@@ -57,6 +57,8 @@ Re-grep 黃瑞雅|Peggy Huang: works hit set unchanged (ota-292, whos-who-2199, 
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/peggy-huang/)
 
 ## From the record
+
+- 複核（TJJ-A09230400-1, 2026-09-24）：subject link 經本 slice 文章 117bdbbd9b362236 正文再驗證為真實對應，對應 From-the-record 條目已在庫並掛鏈本檔（無錯鏈、無虛鏈）— SKIP，無新材料。
 
 - 複核（TJJ-A09170400-5, 2026-09-23）：本 slice 文章 117bdbbd9b362236（LA Times/CNA 綜合槍擊案報導）正文再驗證——黃瑞雅以約巴林達台裔市議員、加州副檢察長身分受訪並轉述教友見聞，確認見於正文，subject 連結為真，無錯鏈、無虛鏈；2022-05-16 條目已在庫 — SKIP，無新材料。
 
