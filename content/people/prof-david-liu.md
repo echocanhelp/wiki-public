@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # Prof. David Liu (劉如謙教授)
 
@@ -43,6 +43,7 @@ _No filled family fields on the TAH profile._
 - **Encyclopedia record:** Who's Who #1983 ([[works/taiwaneseamericanhistory-org/whos-who-1983-david-liu|TAH #1983, 2017-12-26]]).
 - Corpus re-grep 2026-09-23 (slice 09221000-30): hit set unchanged (Nature's 10 #58, Breakthrough Prize #913, Who's Who #1983, works index, Olympian memoir HOLD) — verified saturated, nothing new absorbable.
 - HOLD: conflict — the TA.org memoir 「On the Ice with David Liu」 (2009) concerns Olympian figure skater/choreographer David Liu (born Taiwan, Winter Olympics 1988/1992/1998), a different individual; never merge into this scientist's record.
+- Corpus re-grep 2026-09-24 (slice 09230900-16): fresh grep 劉如謙/David Liu returns the same set (#58 Nature's 10, #913 Breakthrough Prize, #1983 Who's Who, works index, Olympian-memoir HOLD) — verified-saturated, nothing new absorbable.
 
 ## Sources
 - [TAH #1983 encyclopedia: 1983. Prof. David Liu 劉如謙教授](https://taiwaneseamericanhistory.org/whos-who-1983-david-liu/)

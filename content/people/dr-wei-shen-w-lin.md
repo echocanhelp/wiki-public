@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 <!-- deepen-x slice 09190300-11: SKIP — corpus grep for 林威伸/Wei-Shen (works+articles) hits only the own TAH Who's Who record (works/taiwaneseamericanhistory-org/whos-who-1913-wei-shen-lin.md) and index pages; no memoir/community material to absorb. TMAGP presidency (2017) already recorded below. -->
 # Dr. Wei-Shen W. Lin (林威伸醫師)
@@ -44,6 +44,7 @@ _No filled family fields on the TAH profile._
 - Re-verified 2026-09-21 (deepen-x slice 09201503-22): re-grep for 林威伸/Wei-Shen across content/works + content/articles — hit set unchanged (own TAH record + index row only); no memoir material, verified-saturated.
 - Re-verified 2026-09-22 (deepen-x slice 09211507-2): re-grep 林威伸/Wei-Shen W. Lin — hit set unchanged (own record whos-who-1913 + works index only). SKIP-for-deepening: nothing community-side absorbable.
 - Re-verified 2026-09-23 (deepen-x slice 09221000-27): fresh grep 林威伸/Wei-Shen — hit set unchanged (own record + index only). SKIP-for-deepening: saturated.
+- Re-verified 2026-09-24 (deepen-x slice 09230900-14): fresh grep 林威伸/Wei-Shen — hit set unchanged (own record whos-who-1913 + works index only). SKIP-for-deepening: saturated.
 
 ## Sources
 - [TAH #1913 encyclopedia: 1913. Dr. Wei-Shen W. Lin 林威伸醫師](https://taiwaneseamericanhistory.org/whos-who-1913-wei-shen-lin/)

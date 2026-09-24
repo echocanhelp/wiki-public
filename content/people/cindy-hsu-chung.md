@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # Cindy Hsu Chung (許弘琪)
 
@@ -67,3 +67,4 @@ _No filled family fields on the TAH profile._
 - 複核（deepen-x slice-09211200-1, 2026-09-22）：re-grep 許弘琪|Cindy Hsu Chung 命中集相同（僅 #320、#163＋index）— SKIP：無新回憶錄/社群材料可吸收。
 - 複核（deepen-x slice-09220700-5, 2026-09-22）：re-grep 命中集相同（僅本人書目 #320、#163）— SKIP：已飽和，無新材料。
 - 複核（deepen-x slice-09221500-6, 2026-09-23）：re-grep 許弘琪|Cindy Hsu Chung 命中集相同（僅本人書目 #320、#163＋index）— SKIP：已飽和，無新回憶錄/社群材料可吸收。
+- 複核（deepen-x slice-09230900-4, 2026-09-24）：re-grep 許弘琪|Cindy Hsu Chung 命中集相同（僅本人書目 #320、#163＋index）— SKIP：已飽和，無新回憶錄/社群材料可吸收。

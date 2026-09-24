@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # East Bay Taiwanese Association (北加州)
 
@@ -31,6 +31,10 @@ Full directory name in the corpus record is 北加州東灣台灣同鄉會 (the 
 - 1979-09-29: EBTA played the first Bay Area Taiwanese tennis tournament in Fremont vs. 協志會 (Taiwanese Alliance for Interculture); tennis/softball became a staple Bay Area community summer event (same source).
 - 2026-09-22 (slice 09211200-5): corpus re-grepped — the 6 EBTA hits (directory record, 鄉訊, 活動, mystories609, senior-ebtacsc, sebta) are all absorbed above; saturated, no new absorbable facts.
 - 2026-09-22 (slice 09220700-9): fresh grep surfaced ourjourneys38/-eng (TAFNC 30-year history) — new facts absorbed above.
+- 2007: EBTA members appear by name in TaiwaneseAmerican.org's community-identity project — John Detrick and Yuh-Lin Yang are pictured/credited as East Bay Taiwanese Association participants in "What Are You?": Thoughts on Taiwanese American Identity — [[works/taiwaneseamerican-org/e2-80-9cwhat-are-you-e2-80-9d-thoughts-on-taiwanese-american-identity|What Are You? (2007-12-02)]].
+- 2007-12-09: a Taiwanese-American novel reading at the East Bay Taiwanese Community Center (1755 Sunnyvale Ave., Walnut Creek) was co-hosted by the EBTA affiliate EBTACSC with NATMA 2G, NATWA II and TaiwaneseAmerican.org — same source; shows the EBTA/EBTACSC venue as 2000s Bay Area community-cultural hub.
+- 2021-05-01: EBTA members (John Detrick, Yuh-Lin Yang) are among the named individuals in the community statement responding to Pew Research Center hiding Taiwanese identity — [[works/taiwaneseamerican-org/pew-research-center-taiwanese-american-statement|Response to Pew Research (2021)]]; continuing EBTA's post-1979 identity-movement line above.
+- 2026-09-24 (slice 09230900-4): fresh grep East Bay Taiwanese|EBTA|東灣 — the 6 TAH hits are all absorbed; new taiwaneseamerican-org hits (2007 survey, 2021 Pew statement) absorbed above.
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/east-bay-taiwanese-association/)
