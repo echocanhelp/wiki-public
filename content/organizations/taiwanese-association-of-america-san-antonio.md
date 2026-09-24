@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # Taiwanese Association of America San Antonio (聖安東尼)
 
@@ -37,3 +37,6 @@ The Taiwanese Association of America San Antonio (TAASA) is a chapter of the Tai
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- Re-verify 2026-09-24 (slice 09230317-8 completion pass): fresh re-grep — hit set identical to records already wikilinked; no new absorbable material. SKIP (saturated).
+people/kin-ko.md
+organizations/american-citizens-for-taiwan.md
