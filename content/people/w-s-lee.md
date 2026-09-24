@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # W. S. Lee (李武雄)
 
@@ -49,3 +49,4 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- Corpus re-grep 2026-09-24 (slice 09230900-5): fresh grep 李武雄|W. S. Lee again returns only [[works/taiwaneseamericanhistory-org/whoswh1878|#1878]], [[works/taiwaneseamericanhistory-org/ourjourneys268|ourjourneys268]], and index rows — no new corpus material. Verified saturated; SKIP-deepen, HOLD retained.

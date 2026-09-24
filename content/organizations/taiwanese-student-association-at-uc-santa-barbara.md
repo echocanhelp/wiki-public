@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # Taiwanese Student Association at UC Santa Barbara
 
@@ -31,3 +31,4 @@ The Taiwanese Student Association (TSA) at UC Santa Barbara is a non-profit, non
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+<!-- deepen-x 09230900-5: re-verified 2026-09-24 — fresh grep UC Santa Barbara|Santa Barbara matched only the two linked sponsor attestations, the venue-only Chuan Lyu Chair record [[works/taiwaneseamericanhistory-org/chuan-lyu-endowed-chair-in-taiwan-studies-uc-santa-barbara|84. 川流台灣研究傑出基金]] (2018 endowment record, no TSA mention), Our Journeys #352 venue mention, and an unrelated taiwanjustice item. Nothing about this org to absorb. SKIP. -->

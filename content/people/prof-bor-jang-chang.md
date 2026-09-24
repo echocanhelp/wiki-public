@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # Prof. Bor Jang Chang (張博增教授)
 
@@ -48,13 +48,4 @@ _No filled family fields on the TAH profile._
 
 ## Role in the Community (corpus re-grep 2026-09-15)
 - Corpus re-grep (張博增 / Bor Jang Chang, content/works + content/articles) returns only the harvest index — the sole work naming him remains [[works/taiwaneseamericanhistory-org/whos-who-1702-bor-jang-chang|TAH #1702]] (published 2017-06-29), already recorded under "Vault Absorbed". No memoir material; nothing absorbable beyond the existing graph tables.
-- 複核（deepen-x 2026-09-16）：re-grep 結果相同（#1702 + index only）— SKIP：無回憶錄/社群材料可吸收，維持既有連結。
-- 複核（deepen-x slice-25, slice-09162138-20, 都 2026-09-16）：re-grep 張博增 / Bor Jang Chang 僅見本人書目記錄 #1702 與 harvest index — SKIP, 無回憶錄/社群材料可吸收。注意：ourjourneys47／ourjourneys203／our-journeys-389 及 taiwanjustice 文章之命中為另一人張博雅（前監察院長），非張博增，勿誤配。
-- 複核（deepen-x slice-09170130-14, 2026-09-17）：re-grep 張博增|Bor Jang Chang 僅見 #1702 + harvest index — SKIP：無可吸收材料；張博雅（ourjourneys/taiwanjustice 命中）為另一人，勿誤配。
-- 複核（deepen-x slice-09170500-12, 2026-09-17）：re-grep 結果相同（#1702 + index only）— SKIP：無回憶錄/社群材料可吸收。
-- 複核（deepen-x slice-09180131-12, 2026-09-18）：re-grep 張博增|Bor Jang Chang 命中集相同（#1702 + index only）— SKIP：無新材料；張博雅（监察院長）命中屬另一人，已排除。
-- 覆核（deepen-x slice-09181500-10, 2026-09-20）：re-grep 命中集相同（#1702 + index only）— SKIP：無新材料；張博雅命中屬另一人，已排除。
-- 複核（deepen-x slice-09201300-8, 2026-09-21）：re-grep 張博增|Bor Jang Chang 命中集相同（#1702＋index only）— SKIP：無新材料；張博雅命中屬另一人（前監察院長），已排除。
-- 複核（deepen-x slice-09211200-1, 2026-09-22）：re-grep 張博增|Bor Jang Chang 命中集相同（#1702＋index only）— SKIP：無新材料；張博雅命中屬另一人（前監察院長），已排除。
-- 複核（deepen-x slice-09220700-4, 2026-09-22）：re-grep 張博增|Bor Jang Chang 命中集相同（#1702＋index only）— SKIP：無新材料；張博雅命中屬另一人（前監察院長），已排除。
-- 複核（deepen-x slice-09221500-5, 2026-09-23）：re-grep 張博增|Bor Jang Chang 命中集相同（排除 index 目錄列後零命中）— SKIP：無新材料；張博雅命中屬另一人（前監察院長），已排除。
+- 複核（deepen-x slices 0916→09230900-2，至 2026-09-24）：历次 re-grep 張博增|Bor Jang Chang 命中集均不變（#1702＋index only）— SKIP-with-reason：無可吸收之回憶錄/社群語料。ourjourneys47／ourjourneys203／our-journeys-389 及 taiwanjustice 命中屬另一人張博雅（前監察院長），勿誤配。
