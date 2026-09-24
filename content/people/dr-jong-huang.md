@@ -39,6 +39,7 @@ Accomplishment
 - Corpus re-grep 2026-09-19 (slice 09180400-4); re-confirmed 2026-09-20 (slice 09191100-2) and 2026-09-21 (slice 09210051-2): hit set unchanged — own #2240 biblio entry, works index, MANIFEST.jsonl, and the already-linked TJJ lecture/tag article archives; no memoir narrative beyond them, nothing new to absorb.
 - Corpus re-grep 2026-09-22 (slice 09212352-9): SKIP — hit set again unchanged (own #2240, works index, MANIFEST.jsonl, the two TJJ tag archives + lecture archive); nothing new to absorb.
 - Corpus re-grep 2026-09-23 (slice 09221000-9): SKIP — hit set unchanged (own #2240, works index, MANIFEST.jsonl, TJJ lecture + two tag archives, all already linked); no memoir narrative beyond them, nothing new to absorb.
+- Corpus re-grep 2026-09-24 (slice 09230500-20): SKIP — hit set unchanged (own #2240, works index, MANIFEST.jsonl, the 2020 lecture article + NATMA/大洛杉磯台灣會館 tag archives, all already linked); the tier2 Tag: 黃重德醫師 manifest row is a harvest-log record of the same tag page, not new narrative; verified saturated.
 
 ## Family
 

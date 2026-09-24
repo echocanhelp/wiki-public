@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # Ming Hsin Chiang (江明信)
 
@@ -56,3 +56,4 @@ Accomplishment
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 - Corpus re-grep 2026-09-23 (slice 09221000-10): hit set = own TAH biblio entry, my-stories-797, works index, and the already-linked TJJ HELLO TAIWAN / 感恩餐宴 archives — no memoir narrative beyond what is absorbed above; nothing new (SKIP-with-reason).
+- Corpus re-grep 2026-09-24 (slice 09230500-19): hit set unchanged (own #2017 biblio, my-stories-797, works index, MANIFEST, already-linked TJJ archives) — SKIP-with-reason: 語料已飽和，無可吸收新事實，無衝突須 HOLD。

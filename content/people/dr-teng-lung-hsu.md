@@ -56,3 +56,4 @@ HOLD: TAH directory lists brother 許丕龍 and 許左龍 (corpus) vs no family 
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 - Corpus re-grep 2026-09-23 (slice 09221000-10): hit set = own TAH #1843 biblio entry, works index, and the four already-linked memoir pages (ourjourneys2, ourjourneys268, 349-our-journeys) — no additional corpus material beyond what is absorbed above; nothing new (SKIP-with-reason).
+- Corpus re-grep 2026-09-24 (slice 09230500-20): SKIP — hit set unchanged (own #1843, works index, the four already-linked memoir pages); all recalled passages match the absorbed bullets above; verified saturated.
