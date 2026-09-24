@@ -31,6 +31,8 @@ TAH lists her as the first appointed organist of [[organizations/formosan-presby
 
 ## From the record
 
+- 覆核（TJJ-A09230700-5, 2026-09-24）：slice 文章 ced695235dbeb850（大洛杉磯台灣會館 tag p13, 2023-02-05 快照）正文再驗證——「十月音樂欣賞課10月9日舉行 ◎葉思雅、張信惠 主持」確認見於正文，連結為真；2016-10-04 條目已在庫 — SKIP，無新材料。
+
 - 複核（TJJ-A09162345-15 / t_0c0e3cd1, 2026-09-24）：本 slice 文章 99aaa4abcb78ff6d（台美人台加人分類存檔頁, 2024-04-25 快照） 正文再驗證——subject 連結為真實提及，無錯鏈、無虛鏈；對應日期事實條目（含該文 wikilink）已在庫 — SKIP，已飽和。
 
 - 複核（TJJ-A09162345-31, 2026-09-24）：slice 文章 a244776e9eb57979（海頓音樂欣賞課報導）正文再驗證——張信惠音樂專科出身、曾為李泰祥伴奏之記述再確認見於正文，連結為真；對應日期事實（含該文 wikilink）已在庫 — SKIP，無新材料。
