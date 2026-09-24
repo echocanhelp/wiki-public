@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # Rev. J. C. Cheng (鄭紀昭牧師)
 
@@ -42,6 +42,7 @@ last_reviewed: 2026-09-23
 - His own encyclopedia record: [[works/taiwaneseamericanhistory-org/whos-who-2105-j-c-cheng|2105. Rev. J. C. Cheng 鄭紀昭牧師]] (published 2018-04-26).
 
 - Corpus re-check 2026-09-22/23 (slice 09221100-29): fresh grep returns only his own directory record [[works/taiwaneseamericanhistory-org/whos-who-2105-j-c-cheng|2105. Rev. J. C. Cheng 鄭紀昭牧師]], 張理美's church memoir [[works/taiwaneseamericanhistory-org/ourjourneys305|305. 美國聖路易台灣人長老基督教會的歷史簡略]] (already fully absorbed above), and the works index. Nothing new absorbable this pass.
+- Corpus re-check 2026-09-24 (slice 09230700-16): fresh grep returns only [[works/taiwaneseamericanhistory-org/whos-who-2105-j-c-cheng|2105]], 張理美's church memoir [[works/taiwaneseamericanhistory-org/ourjourneys305|305]] (both fully absorbed above), and the works index. Verified-saturated, nothing new absorbable.
 
 ## Sources
 - [TAH #2105 encyclopedia: 2105. Rev. J. C. Cheng 鄭紀昭牧師](https://taiwaneseamericanhistory.org/whos-who-2105-j-c-cheng/)

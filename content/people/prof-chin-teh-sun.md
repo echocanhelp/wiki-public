@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # Prof. Chin-Teh Sun (孫錦德教授)
 
@@ -39,12 +39,13 @@ Accomplishment
 
 ## Role in the Community
 From the NATPA founding memoir (創會首十年紀事) preserved in our corpus at [[works/taiwaneseamericanhistory-org/ourjourneys69|Our Journeys 69 — NATPA 創會紀事]] (EN: [[works/taiwaneseamericanhistory-org/ourjourneys69-eng|Our Journeys 69 (EN)]]):
-- **1980-02-16** — one of the **16 founding professors** at the first NATPA preparatory meeting at the University of Chicago international dorm, alongside 張錦哲, 張旭成, 陳炳杞, 黃金來, 賴義雄, 林靜竹, 商文義, 蔡嘉寅, 伍焜玉 and others.
+- **1980-02-16** — one of the **16 founding professors** at the first NATPA preparatory meeting at the University of Chicago international dorm, alongside 張錦哲, 張旭成, 陳炳杞, 黃員成, 黃金來, 賴義雄, 林靜竹, 商文義, 蔡嘉寅, 伍焜玉 and others (roster corrected 2026-09-24 against the memoir's attendee list, which also names 陳黃義敏, 吳得民, 楊勝亮, 嚴文亮).
 - **1981-07-02–05** — elected **NATPA Midwestern Regional Director** at the annual meeting held jointly with the Taiwanese American Conference–East Coast summer camp; the new board elected 蔡嘉寅 as the second president.
 - His TAH encyclopedia profiles are in-corpus at [[works/taiwaneseamericanhistory-org/40-prof-chin-teh-sun|TAH #40]] and [[works/taiwaneseamericanhistory-org/whos-who-737-chin-teh-sun|TAH #737]].
 - Organization: [[organizations/north-america-taiwanese-professors-sc|NATPA 北美洲台灣人教授協會]] — the tah-tables list him as NATPA President; the memoir documents founding member and 1981 regional director (presidency term not stated there; no conflict, term pending).
 - Corpus re-grep 2026-09-21 (DEEPEN-X slice 09210051-4): hits = ourjourneys69 (+EN), TAH #40/#737, index listings only; memoir text confirms the 1980 founding-16 and 1981 中西區區域理事 facts already absorbed above — nothing new, no conflicts.
 - Corpus re-grep 2026-09-23 (deepen-x slice 09221200-24): same hit set (ourjourneys69 +EN, TAH #40/#737, works index). Verified-saturated; nothing new absorbable.
+- Corpus re-grep 2026-09-24 (deepen-x slice 09230700-16): same hit set (ourjourneys69 +EN, TAH #40/#737, works index); ZH memoir text verified verbatim against the absorbed 1980 創會十六人 and 1981 中西區區域理事 facts; founding roster corrected per memoir. No conflicts, nothing new absorbable.
 
 ## Sources
 - [TAH #40 encyclopedia: 40. Prof. Chin-Teh Sun 孫錦德教授](https://taiwaneseamericanhistory.org/40-prof-chin-teh-sun/)
