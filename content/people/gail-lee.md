@@ -45,6 +45,8 @@ Corpus re-grep 2026-09-21 (slice 09201400-20): hit set unchanged (musician63, wh
 Corpus re-grep 2026-09-22 (slice 09211400-8): hit set unchanged (musician63, whoswho1115-2, works index only) — SKIP; HOLD on degree field (M.S. vs M.M.) stands.
 
 Corpus re-grep 2026-09-22 (slice 09220800-18): hit set unchanged (musician63, whoswho1115-2, works index only) — SKIP, verified-saturated; HOLD on degree field stands.
+
+Corpus re-grep 2026-09-24 (slice 09230317-19): hit set unchanged (musician63, whoswho1115-2, works index only) — SKIP, verified-saturated; HOLD on degree field (M.S. vs M.M.) stands.
 ## Family
 
 _No filled family fields on the TAH profile._

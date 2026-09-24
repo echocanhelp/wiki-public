@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-24
 ---
 # Yi-Miao Huang (黃怡妙)
 
@@ -54,3 +54,4 @@ _No filled family fields on the TAH profile._
 - Re-grep 2026-09-21 (slice 09201500-9): hit set unchanged (own record, ILF announcement, works/index, plus [[works/taiwaneseamericanhistory-org/72-yi-miao-huang-e9-bb-83-e6-80-a1-e5-a6-99-2|72-yi-miao-huang…-2]] whose content is actually the Jen Shyu record — a mislabeled bibliography stub, no biography to absorb). Page saturated.
 - Re-grep 2026-09-22 (slice 09211400-16): hit set identical (own record 22-welly-yang + ILF announcement, both bibliographic stubs already absorbed). No new memoir material; STUF vs Starside HOLD stands.
 - Re-grep 2026-09-22 (slice 09220800-24): hit set identical (22-welly-yang, works/index, ILF announcement) — all already absorbed. Verified saturated; STUF vs Starside HOLD stands.
+- Re-grep 2026-09-24 (slice 09230317-23): hit set identical (22-welly-yang own record, ILF announcement, works/index) — all already absorbed. Verified saturated; STUF vs Starside HOLD stands.
