@@ -39,6 +39,7 @@ last_reviewed: 2026-09-24
 
 ## From the record
 
+- 複核（TJJ-A09230800-1, 2026-09-24）：文章 a428dcebbceacf38（2018 台大校友公開信） 正文再驗證——本頁 subject 連結確認見於正文（無錯鏈、無虛鏈）；對應 From-the-record 條目已在庫 — SKIP，無新材料。
 - 複核（TJJ-A09162345-15 / t_0c0e3cd1, 2026-09-24）：本 slice 文章 f454eda084b7ca99（園藝分類存檔頁, 2024-02-25 快照） 正文再驗證——subject 連結為真實提及，無錯鏈、無虛鏈；對應日期事實條目（含該文 wikilink）已在庫 — SKIP，已飽和。
 
 - 複核（TJJ-A09171200-2, 2026-09-24）：本 slice 文章 8bf4798dd2771f38（大洛杉磯台灣會館分類頁 p1, 2024-02-21 快照）正文再驗證——「Sadako與Peter Chiu(邱勝宗夫婦)講EM酵素及製作@20170924」確認見於正文，subject 連結為真；2017-09-24 條目已在庫 — SKIP，無新材料。 ([[articles/taiwanjustice-net/2024/20240221114044_root_8bf4798dd2771f38|TJJ 大洛杉磯台灣會館存檔頁]])

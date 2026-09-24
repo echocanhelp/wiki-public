@@ -46,6 +46,7 @@ _No filled family fields on the TAH profile._
 
 ## From the record
 
+- 複核（TJJ-A09230800-1, 2026-09-24）：文章 a428dcebbceacf38（2018 台大校友公開信） 正文再驗證——本頁 subject 連結確認見於正文（無錯鏈、無虛鏈）；對應 From-the-record 條目已在庫 — SKIP，無新材料。
 
 - 複核（TJJ-A09230800-8, 2026-09-24）：slice 文章 a1be6b822ac7cdcd（圓滿的100, 2022-01-10 刊）——賴慧娜連袂致賀記述見於正文，連結為真；無錯鏈、無虛鏈；對應日期事實條目（含該文 wikilink）已在庫 — SKIP，無新材料。
 
