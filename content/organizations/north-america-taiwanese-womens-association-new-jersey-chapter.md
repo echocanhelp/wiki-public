@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # North America Taiwanese Women’s Association – New Jersey Chapter (北美洲台灣婦女會紐澤西分會)
 
@@ -41,6 +41,14 @@ Re-grepped 2026-09-23 (slice 09221000-14): 紐澤西分會/New Jersey Chapter/NA
 (San Diego, Oregon/Southwest, St. Louis, ourjourneys253, columns17, concerts118), a FAPA NJ record
 (176. 徐墨齡 Maurice Hsu — FAPA, not NATWA), and the already-disambiguated TAA/NJ records — no new
 NJ-chapter material; verified saturated, no conflicts.
+
+Re-grepped 2026-09-24 (slice 09230500-25): 紐澤西分會/NATWA/New Jersey hits are its own records
+([[works/taiwaneseamericanhistory-org/natwa-new-jersey-chapter|natwa-new-jersey-chapter]],
+[[works/taiwaneseamericanhistory-org/study-group-nj|study-group-nj]]) plus one parent-org-level hit —
+[[works/taiwaneseamericanhistory-org/ourjourneys6|6. 加入 Team Taiwan / 葉寶桂 (2014/09)]], where NATWA
+appears as a founding club of the "Team Taiwan" Race for the Cure teams (the NY/New Jersey mention there
+concerns the joint UN-parade community, not this chapter) — plus works/index. No NJ-chapter-specific new
+material; verified saturated, no conflicts.
 
 See parent org [[organizations/north-america-taiwanese-womens-association|NATWA 北美洲台灣婦女會]].
 

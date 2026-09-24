@@ -45,6 +45,8 @@ _No filled family fields on the TAH profile._
 
 _Corpus re-scan 2026-09-22: fresh grep works/articles returns the same six hits (concerts81, musical-concerts-150, #17, #180, #13051, #107); all absorbed above. #13051 adds the ensemble's stated founding purpose (2011-08: 提升聖樂合唱素質與聖樂文化水平、介紹古今聖樂與世界名曲), consistent with the concert record already noted._
 
+_Corpus re-grep 2026-09-24 (slice 09230500-26): hit set identical to the six works already absorbed; the concerts81 2016 聖誕音樂會 record additionally co-links 吳瑞惠 ([[people/grace-lin|Grace Lin]]) in the same ensemble credit line. No new facts; verified saturated._
+
 ## Sources
 - [TAH #344 encyclopedia: 344. Li-Ying Shang 商麗鶯 2015/03](https://taiwaneseamericanhistory.org/344/)
 - [TAH #180 encyclopedia: 180. Li-Ying Shang 商麗鶯, Conductor / 2015/03](https://taiwaneseamericanhistory.org/180-li-ying-shang-conductor/)

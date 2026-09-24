@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # YIN CHIN FOUNDATION OF U.S.A. (美國殷勤文教公益基金會)
 
@@ -27,6 +27,7 @@ The Yin Chin Foundation of U.S.A. is a nonprofit charitable organization registe
 - Re-grep 2026-09-21: hits for 殷勤文教/殷清隆/Yin Chin are exactly the works and articles already cited above, plus a second archived copy of the same 2021 WHA 聯合聲明 ([[articles/taiwanjustice-net/2025/20251108183438_2021年南加州僑界支持台灣參與世界衛生大會wha聯合聲_80c0a825a7a661b6|2025 Wayback capture of the WHA 聯合聲明]]) — duplicate of the 2021 record, no new facts.
 - Re-grep 2026-09-22 (slice 09212352-14): 殷勤文教 / 殷清隆 / "Yin Chin" across works/ + articles/ returns exactly the records cited above (awards67, whoswho1437, own directory record, both WHA 聯合聲明 captures, index) — verified saturated, no new facts.
 - Re-grep 2026-09-23 (slice 09221000-14): 殷勤/殷清隆/殷敏寬/"Yin Chin" across works+articles returns the same cited records; the only fresh hits (LAGUNA WOODS VILLAGE TAIWANESE CHORALE memoir, 2026 翠屏 essay) use 殷勤 as an ordinary adjective ("殷謙受教"／"殷勤的款待"), not the foundation — no new facts, no conflicts.
+- Re-grep 2026-09-24 (slice 09230500-25): 殷勤文教/殷清隆/殷敏寬/"Yin Chin" across works+articles returns exactly the cited records (awards67, whoswho1437, own directory record, both WHA 聯合聲明 captures, index) — verified saturated, no new facts.
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/yin-chin-foundation-of-u-s-a/)

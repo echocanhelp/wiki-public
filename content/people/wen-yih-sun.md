@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # Wen-Yih Sun (商文義)
 
@@ -40,6 +40,7 @@ last_reviewed: 2026-09-23
 
 - Corpus re-grep 2026-09-22: hit set unchanged (1579, ourjourneys69, ourjourneys69-eng, ourjourneys47, works/index) — all already linked above; verified-saturated, no new absorbable facts.
 - Corpus re-grep 2026-09-23 (slice 09221000-16): hit set unchanged (1579, ourjourneys69, ourjourneys69-eng, ourjourneys47, works/index); ourjourneys47 14th-term (1994, 商文義會長) fact already absorbed above. SKIP: page saturated.
+- Corpus re-grep 2026-09-24 (slice 09230500-30): hit set unchanged (1579, ourjourneys69, ourjourneys69-eng, ourjourneys47, works/index); NATPA founding roster + 14th-term president facts already absorbed above. SKIP: verified-saturated.
 
 ## Family
 

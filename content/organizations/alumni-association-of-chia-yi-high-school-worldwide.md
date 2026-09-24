@@ -6,7 +6,7 @@ tags:
   - Taiwanese-American
   - Taiwan-Center-group-member
 verification_status: published
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # Alumni Association of Chia Yi High School Worldwide (AACHW)
 
@@ -32,6 +32,8 @@ The corpus holds the SoCal branch (南加嘉中校友會) as an active organizat
 Related alumni memoir: [[works/taiwaneseamericanhistory-org/my-stories-687|殖民統治下台灣的堅韌－從1940年嘉義中學入學談起]] (李勝和, 2019) — a Chiayi High School admission-1940 memoir held in the corpus; it documents the school generation the alumni association draws from, but does not name AACHW itself.
 
 HOLD: the page title lists "Worldwide (AACHW)" while corpus records name the SoCal branch 南加州嘉中校友會; the relationship between the worldwide body and the SoCal branch is not stated in any corpus source — no auto-merge.
+
+Re-grepped 2026-09-24 (slice 09230500-25): 嘉中校友/Chia Yi High School/AACHW across works+articles returns exactly the already-cited records (sccaa, 年刊 592, 12-62 青年培訓, 鄭炳全 memoir ×2 captures, index) — verified saturated, no new facts, HOLD stands.
 
 ## Source Notes
 
