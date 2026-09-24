@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # Taiwanese Association – NC Chapter (北卡)
 
@@ -38,6 +38,7 @@ Absorbed from the chapter's 50-year retrospective by 謝金朱 — [[works/taiwa
 - 2018-01-18 — chapter introduction record [[works/taiwaneseamericanhistory-org/project-3-39-eng|39. 北卡台灣同鄕會簡介 / Brief Introduction to TAA-NC]] (ZH edition: [[works/taiwaneseamericanhistory-org/project-3-39|39. 北卡台灣同鄕會簡介]]).
 - 2021-01 — chapter participation in the 2020 national TAA New Year's Eve activity: [[works/taiwaneseamericanhistory-org/our-journeys-365|365. 花絮-北卡台灣同鄉會參加 2020全美台灣同鄉會跨年活動/01/2021]].
 - 2022-06 — 50-year retrospective by 謝金朱 ([[works/taiwaneseamericanhistory-org/our-journeys-381|our-journeys-381]]), absorbed above.
+- 2026-09-24 — corpus re-check (slice 09230600-2): fresh ZH+EN grep of works+articles returned a hit set identical to the records already linked above; no new absorbable material.
 
 Related North Carolina records: [[works/taiwaneseamericanhistory-org/enewsletter-taa-north-carolina-chapter|TAA/North Carolina Chapter eNewsLetter / 2019-07]], [[works/taiwaneseamericanhistory-org/charlotte-taiwanese-american-association-nc|Charlotte Taiwanese-American Association, NC (CTAA)]], [[works/taiwaneseamericanhistory-org/40-north-carolina-chapter-fapa|40. FAPA 台灣人公共事務會北卡羅萊納州分會]].
 

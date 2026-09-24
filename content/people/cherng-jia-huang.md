@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # Dr. Cherng Jia Huang (黃呈嘉博士)
 
@@ -42,6 +42,7 @@ last_reviewed: 2026-09-23
 - 1966 年與妻沈雲（台大外文系畢）攝於西雅圖華盛頓大學之結婚照，刊於回憶文集 [[works/taiwaneseamericanhistory-org/ourjourneys236|Our Journeys #236「六十年代的台灣留美學生」]]；同文集另記 1970 年美東台灣人基督徒靈修會（賓州 Downingtown）活動。
 - 2018-07 — 具名（黃呈嘉／電機）連署台大校友抗議南加州台大校友會邀管中閔年會演講公開信（[[articles/taiwanjustice-net/2018/20180721091303_2018_07_20_抗議-南加州台大校友會邀管中閔來年會做專題演講_a428dcebbceacf38|台灣公義報報導]]；同列電機系校友含柯賢敏、柯賢清、黃振源等）——是否即本人，HOLD 待確認。
 - HOLD: conflict 姓名拼寫 Hwang（TAH #60 標題、#42 Diamond Awards 標題）vs Huang（TAH Who's Who / #1140），未合併。
+- 2026-09-24 corpus re-check (slice 09230600-2): fresh ZH+EN grep of works+articles returned a hit set identical to the records already linked above; no new absorbable material.
 
 ## Family
 

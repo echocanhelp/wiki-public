@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # H. R. Hsu (許惠茹)
 
@@ -40,6 +40,8 @@ TAH movement memoirs (romanized "Ho Rui Hsu" / "Ho Ru Hsu") place this figure am
 HOLD: conflict — TAH press-kit profile places H. R. Hsu in Georgia (TAA Atlanta chapter President, TAA Southeast Region Coordinator), while the TAA/TACL memoirs place Ho Rui Hsu in the Los Angeles / Southern California circle (Taiwanese Association of Los Angeles, LA-area TACL organizing). Whether these are the same person or two people cannot be resolved from the corpus; not auto-merged.
 
 HOLD: identity disambiguation — the romanization "Ho Rui Hsu" in the TAA/TACL memoirs matches a *different* TAH Who's Who entry, [[works/taiwaneseamericanhistory-org/whoswho1071|TAH #1072 Ho Rui Hsu 許和瑞]] (2016/06), not this page's 許惠茹 (TAH #1931, 2017-11). The 1970 letter, first TAA vice-presidency, TAA presidency, and TACL preparatory-committee roles attributed above may belong to 許和瑞 rather than 許惠茹; the two TAH profiles have not been merged and the memoir attributions here rest on the shared romanization only. Additionally [[works/taiwaneseamericanhistory-org/ourjourneys81-eng|Our Journeys 81 (UFAI memoir)]] lists "Powen Wang, Ho Rui Hsu, and Fu Yuan Hsu" as active UFAI members — same-romanization attribution, subject to the same hold. The same memoir records a UFAI charter amendment that abolished the Chairman of the Central Committee and created a six-member decision-making committee whose named members were Edward Chen, Michael S. K. Chen, Tien-ming Lu, and Ho Rui Hsu plus the two Vice-chairmen — if the romanization match holds, "Ho Rui Hsu" sat on UFAI's top decision body, not merely its general activities.
+
+Corpus re-check 2026-09-24 (slice 09230600-2): fresh ZH+EN grep of works+articles returned a hit set identical to the records already linked above (memoirs #76/#81/#272, Who's Who #1931 and #1071); no new absorbable material; both HOLDs stand.
 
 ## Family
 

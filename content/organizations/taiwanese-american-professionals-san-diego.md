@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # Taiwanese American Professionals San Diego
 
@@ -29,7 +29,7 @@ Taiwanese American Professionals San Diego (TAP-SD) is a chapter of the Taiwanes
 - The chapter record's own hanzi title 台美菁英協會聖地牙哥分會 is carried in [[works/taiwaneseamericanhistory-org/san-diego-chapter-tap|9. San Diego Chapter / TAP]] (2014); sibling chapter records exist for Austin, D.C., Boston, Orange County ([[works/taiwaneseamericanhistory-org/orange-county-chapter-tap|橙縣分會]], activities record [[works/taiwaneseamericanhistory-org/activities-of-orange-county-chapter-tap|TAP-OC 活動]]), Los Angeles ([[works/taiwaneseamericanhistory-org/enewsletter-tapla|洛杉磯分會 eNewsletter]]), and Seattle (scholarship award).
 - Social/community-building activity series (TaiwaneseAmerican.org era), showing the chapter's recurring local cadence beyond the flagship festival: [[works/taiwaneseamerican-org/spring-bbqpicnic-at-mission-bay-with-tap-in-san-diego|Spring BBQ/Picnic at Mission Bay]], [[works/taiwaneseamerican-org/karaoke-night-with-tap-in-san-diego|Karaoke Night]], [[works/taiwaneseamerican-org/blood-drive-with-tap-and-tjcc-in-san-diego|Blood Drive with TAP and TJCC]] (joint service event with the Taiwanese American Community Center of San Diego), [[works/taiwaneseamerican-org/lunar-new-year-hotpot-dinner-with-tap-in-san-diego|Lunar New Year Hotpot Dinner]], [[works/taiwaneseamerican-org/financial-planning-101-with-tap-in-san-diego|Financial Planning 101]], [[works/taiwaneseamerican-org/join-tap-for-a-beach-bonfire-bbq-in-san-diego-ca|Beach Bonfire & BBQ]], [[works/taiwaneseamerican-org/bike-ride-with-tap-in-san-diego|Bike Ride]], and the recurring [[works/taiwaneseamerican-org/tappy-hour-in-san-diego-7|TAPpy Hour]] meetup series.
 
-Corpus re-check 2026-09-22 (deepen-x slices 09210700-26, 09220400-6): fresh ZH+EN grep re-confirmed the chapter and parent-body records; chapter hanzi absorbed into the Identity Snapshot; LA/OC sibling chapter records now linked. No new activity records for the San Diego chapter beyond those already absorbed. Re-check 2026-09-23 (slice 09221200-5): fresh grep surfaced 8 additional TA.org social/service activity records, now linked above.
+Corpus re-check 2026-09-22 (deepen-x slices 09210700-26, 09220400-6): fresh ZH+EN grep re-confirmed the chapter and parent-body records; chapter hanzi absorbed into the Identity Snapshot; LA/OC sibling chapter records now linked. No new activity records for the San Diego chapter beyond those already absorbed. Re-check 2026-09-23 (slice 09221200-5): fresh grep surfaced 8 additional TA.org social/service activity records, now linked above. Re-check 2026-09-24 (slice 09230600-2): fresh ZH+EN grep of works+articles returned a hit set identical to the records already linked above; no new absorbable material.
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-american-professionals-san-diego/)
