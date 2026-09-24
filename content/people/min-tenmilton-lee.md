@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # Min Ten Milton Lee (李明典)
 
@@ -58,3 +58,6 @@ _No filled family fields on the TAH profile._
 複核（deepen-x 2026-09-20）：corpus re-grep（works+articles）命中集合不變（dr-minten-lee、private-collections-84、whoswho972、videos71/72、publications999），全數已吸收並 wikilink，Dr. Ming Lee / Min-Ten (Milton) Lee 拼寫 HOLD 維持不合併，無新增社群材料。
 
 複核（deepen-x 2026-09-23）：corpus re-grep（李明典/Min-Ten Lee）命中集合不變（dr-minten-lee、private-collections-84、whoswho972、videos71/72、publications999），全數已吸收，無新增材料。
+
+## Corpus re-grep (2026-09-24, slice 09230400-8)
+- SKIP: ZH+EN re-grep across content/works + content/articles: hit-set unchanged, all prior hits already absorbed and wikilinked; no new corpus material to absorb (saturated).

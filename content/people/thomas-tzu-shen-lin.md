@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # Thomas Tzu-Shen Lin (林資深博士)
 
@@ -62,3 +62,6 @@ Research Associate
 複核（deepen-x 2026-09-21）：corpus re-grep（林資深/Tzu-Shen Lin）命中集合不變（ourjourneys12、ourjourneys307、mystories-114、mystories114-eng、176、115），全數已吸收，無新增材料。
 
 複核（deepen-x 2026-09-23）：corpus re-grep（林資深/Tzu-Shen Lin）命中集合不變（ourjourneys12、ourjourneys307、mystories-114、mystories114-eng、176、115），全數已吸收，無新增材料。
+
+## Corpus re-grep (2026-09-24, slice 09230400-8)
+- SKIP: ZH+EN re-grep across content/works + content/articles: hit-set unchanged, all prior hits already absorbed and wikilinked; no new corpus material to absorb (saturated).
