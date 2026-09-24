@@ -55,3 +55,4 @@ From the community corpus (memoirs outrank the press-kit profile):
 > Saturate-note (deepen-x slice 09211400-26, 2026-09-22): corpus re-grep (林益顯 / Ei-Shun Lin) hit set unchanged — whos-who-2027 + ourjourneys74 中/EN, all already linked in Role in the Community. Verified saturated, no conflicts.
 
 > Saturate-note (deepen-x slice 09220900-21, 2026-09-23): corpus re-grep (林益顯 / Ei-Shun Lin) hit set unchanged — whos-who-2027 + ourjourneys74 中/EN, all already linked. SKIP: verified-saturated.
+> Saturate-note (deepen-x slice 09230400-18, 2026-09-24): corpus re-grep (林益顯 / Ei-Shun Lin) hit set unchanged — whos-who-2027 + ourjourneys74 中/EN + works index, all already linked. SKIP: verified-saturated.
