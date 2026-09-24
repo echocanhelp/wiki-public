@@ -43,6 +43,8 @@ _No filled family fields on the TAH profile._
 - Corpus re-check 2026-09-23 (slice 09221400-21): fresh grep 高銘益/George Kao again hits only whoswho-2241, works/index, and the 廖清山 TJJ column — both already absorbed above; verified saturated, SKIP-no-new-facts.
 ## From the record
 
+- 覆核（TJJ-A09230500-1, 2026-09-24）：本 slice 文章 cbf185d4e8137928（一顆難以忘懷的台灣心(廖清山)） 正文再驗證——主體連結為真實提及（無錯鏈、無虛鏈），對應日期事實條目（含該文 wikilink）已在庫 — SKIP，無新材料。
+
 - 覆核（TJJ-A09171100-2, 2026-09-24）：本 slice 文章 cbf185d4e8137928（一顆難以忘懷的台灣心） 主體連結對照正文再驗證——連結為真實提及（無錯鏈、無虛鏈），對應日期事實條目（含該文 wikilink）已在庫 — SKIP，無新材料。
 - 2017-09-19 — 廖清山's memoir recalls the quiet "third man" of the 1966 SF Chinatown 台獨 poster night (corpus check 2026-09-18: the only memoir mention of 高銘益 outside his own record): Kao stayed the whole night pasting slogans while roommates backed out, then vanished without leaving contact info; Liao traced him fifty years on via 許村源/蘇松茂 and thanked him in person in Feb 2017 during Kao's visit to Southern California ([[articles/taiwanjustice-net/2024/20240301071009_root_cbf185d4e8137928|TJJ column, 2017-09-19]]).
 

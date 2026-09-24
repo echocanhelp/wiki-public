@@ -57,3 +57,4 @@ _No filled family fields on the TAH profile._
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - [[sources/taiwanjustice-net||taiwanjustice.net source hub]]
 - Corpus re-grep 2026-09-23 (DEEPEN-X slice 09221100-24): hits unchanged — TAH #1716, works index, TJJ exhibition report already cited. SKIP-content; painter-vs-CFP HOLD stands.
+- Corpus re-grep 2026-09-24 (DEEPEN-X slice 09230600-14): hits unchanged — [[works/taiwaneseamericanhistory-org/whoswho1716|TAH #1716]], works index, TJJ exhibition report [[articles/taiwanjustice-net/2024/20240724234326_root_cd2062fe6528223c|2017-03-14]], all already cited. The exhibition blurb (習畫2001、東京藝大短期進修2016、漆藝、「花飛碟舞」) matches the corpus text verbatim. No new community facts — SKIP-content; painter-vs-CFP HOLD stands.

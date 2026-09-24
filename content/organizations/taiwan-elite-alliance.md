@@ -6,7 +6,7 @@ tags:
   - Taiwanese-American
   - Taiwan-Center-group-member
 verification_status: published
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # Taiwan Elite Alliance
 
@@ -40,6 +40,7 @@ last_reviewed: 2026-09-23
 - 2026-02 — 優社（TEA）名列大洛杉磯台灣會館「二二八紀念會、轉型正義研討會暨79週年追思活動」協辦單位（與會館、南加州台灣人長輩會、美國台灣文化協會、FAPA 洛杉磯分會、NATPA 南加分會、台美人歷史協會等並列），見 [[articles/taiwanjustice-net/2026/20260209105852_大洛杉磯台灣會館二二八紀念會轉型正義研討會暨_27ac84aea15e3211|TJJ/台灣會館消息, 2026-02-09]]（DEEPEN-X slice 09212352-17 新增）。
 
 - 2026-09-23 語料複核（slice 09221100-20）：fresh grep（優社／Taiwan Elite Alliance）命中全部為已收錄紀錄（concerts #3、#68、清掃洛杉磯河 #5、TAH #20、連署聲明、index），無新事實可吸收 — SKIP-with-reason。
+- 2026-09-24 語料複核（slice 09230600-11）：fresh grep（優社／Taiwan Elite Alliance）命中仍為同一組已收錄紀錄（concerts #3、#68、清掃洛杉磯河 #5、TAH #20、連署聲明、index），無新事實可吸收 — verified saturated。
 
 ## Related Pages
 

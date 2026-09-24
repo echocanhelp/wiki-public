@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # Sung-Peng Hsu (徐頌鵬博士)
 
@@ -52,6 +52,7 @@ More information please click in my story: 486. The life Story of Prof. Sung-Pen
 _Corpus re-scan 2026-09-22: fresh grep works/articles returns the same hits (#123/eng, #268, #15, mystories486, whoswho18); all absorbed above. #123 (EN) places his 1984 chapter presidency in the TAA–Minnesota chronicle between 1983 (Chin-shan Wang、Cheng-Cher Huang) and 1985 (Chin-Hsin Jason Liu), and his 1992 Midwest summer-conference lecture in the 1992 program slot._
 
 - 2026-09-23 語料複核（slice 09221100-20）：fresh grep（徐頌鵬／Sung-Peng Hsu）命中全部為已收錄紀錄（Our Journeys 123/123-eng/268/15、mystories486、whoswho18），無新事實可吸收 — SKIP-with-reason。
+- 2026-09-24 語料複核（slice 09230600-13）：fresh grep hit set unchanged；content greps only re-confirm already-absorbed passages（1984 明州同鄉會會長 slot、1992 夏令會講題、明州文化展「娘家」support）— verified saturated, SKIP-with-reason.
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/sung-peng-hsu/)

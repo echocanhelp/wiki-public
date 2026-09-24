@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # Taiwanese Association of America Delaware (德拉瓦州)
 
@@ -27,6 +27,8 @@ The Taiwanese Association of America Delaware (德拉瓦州 台灣同鄉會) is 
 - A parallel civic-advocacy chapter exists in the same state: FAPA Delaware ([[works/taiwaneseamericanhistory-org/13-delaware-chapter-fapa|13. Delaware Chapter / FAPA 台灣人公共事務會德拉瓦分會]], 2015-12-20).
 - Corpus re-check 2026-09-23 (deepen-x slice 09221200-8): fresh grep for 德拉瓦 across works/ + articles/ returns only pages already linked above plus [[works/taiwaneseamericanhistory-org/ourjourneys159|Our Journeys 159]], where 德拉瓦 appears solely as geography (德拉瓦河 / Delaware Water Gap on the drive to the 2014 美東夏令會) — not a Delaware-chapter fact; nothing absorbable. Verified saturated.
 - The Delaware Valley is also woven into the movement's origin story: the early East Coast Taiwanese American summer camps (美東夏令會) drew organizers who lived/worked in Delaware — e.g. a University of Delaware faculty member recounting hosting the 3rd camp generation ([[works/taiwaneseamericanhistory-org/ourjourneys268|ourjourneys268 — 美東夏令會 40-year history memoir]], band A).
+
+- 2026-09-24 語料複核（slice 09230600-11）：fresh ZH+EN grep（德拉瓦／TAA Delaware，works/ + articles/）命中全為已收錄頁面（德拉瓦台灣學校、Delaware TAA/FAPA 檔案頁、ourjourneys159 地名、ourjourneys227、index），無新事實可吸收 — verified saturated。
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-association-of-america-delaware/)

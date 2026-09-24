@@ -46,6 +46,8 @@ last_reviewed: 2026-09-24
 
 ## From the record
 
+- 覆核（TJJ-A09230500-1, 2026-09-24）：本 slice 文章 e3440fec3eed8107（籌謀台灣不流血革命(陳昭南 2022-05-09)） 正文再驗證——主體連結為真實提及（無錯鏈、無虛鏈），對應日期事實條目（含該文 wikilink）已在庫 — SKIP，無新材料。
+
 - 覆核（TJJ-A09171100-2, 2026-09-24）：本 slice 文章 e3440fec3eed8107（籌謀不流血革命） 主體連結對照正文再驗證——連結為真實提及（無錯鏈、無虛鏈），對應日期事實條目（含該文 wikilink）已在庫 — SKIP，無新材料。
 - 2022-05-09 — Listed in 陳昭南's memoir among those who came from Taiwan to the US (with 許信良、謝聰敏) and joined the LA 美麗島週報社 ([[articles/taiwanjustice-net/2022/20220519131411_2022_05_09_籌謀台灣_不流血革命_的獻策高手原來是他-_-陳_e3440fec3eed8107|TJJ column, 2022-05-09]]).
 

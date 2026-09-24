@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # John Hsieh (謝鎮寬)
 
@@ -35,6 +35,8 @@ HOLD: corpus places him both in Bay Area 聯合會 leadership (1990s) and as a T
 2026-09-22 re-check: corpus grep returns Our Journeys 38/38(EN)/142/370, the #470 directory record, and the works index — all now linked.
 
 Corpus re-grep (slice 09221100-23, 2026-09-23): same hit set (ourjourneys38, ourjourneys38-eng, ourjourneys142, our-journeys-370, own record [[works/taiwaneseamericanhistory-org/470-john-hsieh-e8-ac-9d-e9-8e-ae-e5-af-ac201506|TAH #470]], index). #470 body re-confirms the TX-N 會長 / 2020 Census advocacy detail already absorbed from Our Journeys 370. Nothing new absorbable — SKIP (verified-saturated).
+
+Corpus re-grep (slice 09230600-11, 2026-09-24): identical hit set (ourjourneys38/38-eng/142, our-journeys-370, TAH #470, index). Verified saturated.
 
 ## Family
 
