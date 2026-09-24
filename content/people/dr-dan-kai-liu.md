@@ -41,6 +41,7 @@ Dr. Liu is a leader in the Southern California Taiwanese technical community, se
 - Corpus re-greps 2026-09-21 / 2026-09-22 (slices 09210051-5, 09212352-19): hits remain the TAH #2316 profile, the My Stories 785 feature, and the works index; all facts above already absorbed, no memoir or article mentions. SKIP-with-reason: no new absorbable material.
 
 - Corpus re-grep 2026-09-23 (slice 09221200-27): hits remain only the TAH #2316 profile, the My Stories 785 feature, and the works index — all absorbed above. SKIP-with-reason: no new absorbable material.
+- Corpus re-grep 2026-09-24 (slice 09230700-15): fresh grep (劉登凱/Dan-Kai Liu) returns only my-stories-785, whos-who-2316, and the works index — all absorbed above. SKIP-with-reason: no new absorbable material (verified-saturated).
 
 ## Timeline
 - 1997– — Deputy Chief Engineer of Flight Systems, JPL/NASA; president, CESASC (南加州中華科工學會)
