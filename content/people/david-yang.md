@@ -36,6 +36,8 @@ _No filled family fields on the TAH profile._
 
 ## From the record
 
+
+- 複核（TJJ-A09230700-4, 2026-09-24）：本 slice 兩篇同文快照 b1d58af16c0a5e5b / 80c0a825a7a661b6（2021年南加州僑界支持台灣參與WHA聯合聲明）正文再驗證——楊熾勳列名共同發起人清單，subject 連結為真，無錯鏈、無虛鏈；2021-05-13 條目（含該文 wikilink）已在庫 — SKIP，已飽和。
 - 複核（TJJ-A09171200-11, 2026-09-24）：本 slice 文章 9de57bf0（「林榮松」標籤頁, 2023-05-30 存檔）正文再驗證——本頁所涉條目確認見於清單，subject 連結為真，無錯鏈、無虛鏈；對應日期事實已在庫 — SKIP，無新材料。
 
 1094729_root_8ba14835bbe8ec88|TJJ 2024-07-21 快照]]）。

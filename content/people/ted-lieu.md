@@ -57,6 +57,8 @@ The corpus documents Lieu's standing within the Taiwanese American community in 
 
 ## From the record
 
+
+- 複核（TJJ-A09230700-4, 2026-09-24）：本 slice 文章 c6f9dbff48b39366（台美人台加人分類頁 2024-02-21 存檔）正文再驗證——「民主黨籍台裔眾議員劉雲平晉陞美空軍上校 ◎VOA 06-15-2016」 條目確認見於正文，劉雲平 連結為真，無錯鏈、無虛鏈；2016-06-15 條目已在庫 — SKIP，已飽和。
 - 複核（TJJ-A09221300-11, 2026-09-23）：subject link 經本 slice 再驗證為真實對應，對應 From-the-record 條目已在庫（無錯鏈、無虛鏈）— SKIP，無新材料。
 
 - 再核（TJJ-A09221200-15, 2026-09-23）：本 slice 文章 097b5750fcf3091a（花蓮0403震災台館勸募報導）正文再驗證——劉雲平列名即時對台灣表達關懷的跨黨派聯邦眾議員之一，連結為真；2024-04-04 條目已在庫，無新材料。
