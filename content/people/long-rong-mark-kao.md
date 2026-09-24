@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # Dr. Long-Rong Mark Kao (高龍榮)
 
@@ -52,6 +52,8 @@ Dr. Long-Rong (Mark) Kao 高龍榮 – History of Taiwanese American (T.A. Archi
 - **新澤西台美同鄉會前會長** — the New Jersey community memoir lists Kao, president "back then," as "now New Jersey's most dedicated contributor to Taiwan" ([[works/taiwaneseamericanhistory-org/ourjourneys310|Our Journeys — 新澤西篇]] · [[works/taiwaneseamericanhistory-org/ourjourneys310-eng|English ed.]]); his own TAH encyclopedia record is also archived in-corpus ([[works/taiwaneseamericanhistory-org/whos1168|TAH #1168 profile]]).
 
 ## From the record
+
+- 再核（TJJ-A09171200-3, 2026-09-24）：本 slice 文章 d2d01925bc6bbba3（English Pages page 5, 2024-07-18 存檔）subject link 正文再驗證——「US pressure on 'specific outcomes' feels unjust ◎Mark Kao 高龍榮/Taipei Time」確認見於正文，連結為真，無錯鏈、無虛鏈；2015-03-27 條目（已含本快照連結）已在庫 — SKIP，已飽和。
 
 - 複核（TJJ-A09170400-11, 2026-09-23）：subject link 對照 slice 文章 d2d01925bc6bbba3（English Pages page 5, 2024-07-18 存檔）正文再驗證——「US pressure on 'specific outcomes' feels unjust ◎Mark Kao 高龍榮/Taipei Times」確認見於正文，連結為真；2015-03-27 條目（已含本快照連結）已在庫 — SKIP，無新材料。
 

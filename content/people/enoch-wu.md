@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # Enoch Wu (吳怡農)
 
@@ -47,6 +47,8 @@ last_reviewed: 2026-09-23
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 ## From the record
+
+- 再核（TJJ-A09171200-3, 2026-09-24）：本 slice 文章 11761bdaa78af55f（台灣頭條 page 3, 2020-06-25 存檔）subject link 正文再驗證——「陳其邁21日偕吳怡農見邁粉 拉近與年輕人距離」確認見於正文，連結為真，無錯鏈、無虛鏈；2020-06-20 條目已在庫 — SKIP，已飽和。
 
 - 複核（TJJ-A09170400-11, 2026-09-23）：subject link 對照 slice 文章 11761bdaa78af55f（台灣頭條 page 3, 2020-06-25 存檔）正文再驗證——「陳其邁21日偕吳怡農見邁粉 拉近與年輕人距離」確認見於正文，連結為真；2020-06-20 條目已在庫 — SKIP，無新材料。
 

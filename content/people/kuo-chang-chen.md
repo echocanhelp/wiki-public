@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # Kuo Chang Chen (陳國昌)
 
@@ -59,6 +59,8 @@ Accomplishment
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/kuo-chang-chen/)
 
 ## From the record
+
+- 再核（TJJ-A09171200-3, 2026-09-24）：本 slice 文章 63717cb2b99ce3c3（台美人台加人 page 3, 2024-04-25 存檔）subject link 正文再驗證——「(美國)2013年終稅法新知 ◎ 陳國昌會計師 12/15/2013」確認見於正文，連結為真，無錯鏈、無虛鏈；2013-12-15 條目已在庫 — SKIP，已飽和。
 
 - 複核（TJJ-A09170400-11, 2026-09-23）：subject link 對照 slice 文章 63717cb2b99ce3c3（台美人台加人 page 3, 2024-04-25 存檔）正文再驗證——「(美國)2013年終稅法新知 ◎ 陳國昌會計師 12/15/2013」確認見於正文，連結為真；2013-12-15 條目已在庫 — SKIP，無新材料。
 

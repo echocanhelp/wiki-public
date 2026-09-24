@@ -263,6 +263,7 @@ Notable quotes and mentions of **田詒鴻** in Taiwan Justice articles:
 
 ## From the record
 
+- 再核（TJJ-A09171200-3, 2026-09-24）：本 slice 文章 74a9c518e681a3de（台美人台加人 page 2, 2020-06-26 存檔）subject link 正文再驗證——「田詒鴻代表桃園市捐贈防疫物資，關懷友好城市長堤市」確認見於正文，連結為真，無錯鏈、無虛鏈；2020-05-30 條目已在庫 — SKIP，已飽和。
 
 - 複核（TJJ-A09171100-4, 2026-09-24）：本 slice 文章 1d72b2ae61640747 正文再驗證——本頁 subject link 為真實對應（無錯鏈、無虛鏈），對應 From-the-record 條目已在庫 — SKIP，無新材料。
 - 複核（TJJ-A09170400-11, 2026-09-23）：subject link 對照 slice 文章 74a9c518e681a3de（台美人台加人 page 2, 2020-06-26 存檔）正文再驗證——「田詒鴻代表桃園市捐贈防疫物資，關懷友好城市長堤市」確認見於正文，連結為真；2020-05-30 條目已在庫 — SKIP，無新材料。

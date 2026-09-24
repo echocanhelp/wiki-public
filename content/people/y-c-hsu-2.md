@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # Y.C. Hsu (許英智)
 
@@ -32,6 +32,8 @@ last_reviewed: 2026-09-23
 
 
 ## From the record
+
+- 再核（TJJ-A09171200-3, 2026-09-24）：本 slice 文章 63717cb2b99ce3c3（台美人台加人 page 3, 2024-04-25 存檔）subject link 正文再驗證——「珍藏台美人歷史鏡頭-1983年台美同鄉感恩節音樂會…許英智夫婦提供」確認見於正文，連結為真，無錯鏈、無虛鏈；2017-12-15 條目已在庫 — SKIP，已飽和。
 
 - 複核（TJJ-A09170400-11, 2026-09-23）：subject link 對照 slice 文章 63717cb2b99ce3c3（台美人台加人 page 3, 2024-04-25 存檔）正文再驗證——「許英智夫婦提供」1983感恩節音樂會鏡頭條目確認見於正文，連結為真；2017-12-15 條目已在庫 — SKIP，無新材料。
 

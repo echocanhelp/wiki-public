@@ -30,6 +30,8 @@ last_reviewed: 2026-09-24
 
 ## From the record
 
+- 再核（TJJ-A09171200-3, 2026-09-24）：本 slice 文章 d2d01925bc6bbba3（English Pages page 5, 2024-07-18 存檔）subject link 正文再驗證——「The Madness of Ma: Slow-Motion State Violence」「250,000 people demonstrated in front of Ma's office」確認見於正文，連結為真，無錯鏈、無虛鏈；2013-04-22／2013-08-03 條目已在庫 — SKIP，已飽和。
+
 - 再核（TJJ-A09171100-7, 2026-09-24）：本 slice 文章 f19de8f9d3b53071 正文再驗證——Healey「莫讓馬英九謀殺陳水扁」、馬政府復仇政治與涉入司法、支持度創新低、醫療釋放民意等論述確認，連結為真；2013-04-22 條目已在庫 — SKIP，無新材料。
 
 - 複核（TJJ-A09171000-1, 2026-09-24）：本 slice 文章 c0530664ab4c2948（Taipei Times 社論轉載, 2016-04-11）正文再驗證——馬卸任前是否特赦陳水扁之記述確認見於正文，subject 連結為真，無錯鏈、無虛鏈；對應日期事實已在庫，無新材料。
