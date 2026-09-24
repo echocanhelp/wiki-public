@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # Taiwanese Student Society
 
@@ -32,3 +32,4 @@ The Taiwanese Student Society (TSS), known in Chinese as 明尼蘇達大學台�
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+_Corpus re-grep 2026-09-24 (slice 09230500-13): SKIP — hit set unchanged (same UW-M/北卡/華大 collision set); no UMTC TSS material._

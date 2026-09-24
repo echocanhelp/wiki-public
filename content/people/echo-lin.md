@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # Echo Lin (林錫湖博士)
 
@@ -47,7 +47,7 @@ HOLD: conflict in Education — TAH table lists 新墨西哥州立大學 M.S. **
 
 Note: his own TAH encyclopedia entry [[works/taiwaneseamericanhistory-org/whos-who-1894-echo-lin|1894]] is titled "Echo Lin 林仁惠" — a second Chinese name variant (林錫湖 vs 林仁惠) to reconcile later.
 
-_Corpus re-scan 2026-09-23 (slice 09221100-12): fresh grep returns the same hit set (ourjourneys85 & -eng, 198, ourjourneys33, whos-who-1894, whoswho1010); all absorbed above — verified saturated, no new community facts._
+_Corpus re-scan 2026-09-23 (slice 09221100-12), re-grep 2026-09-24 (slice 09230500-13): fresh grep returns the same hit set (林錫湖/林仁惠 hits = ourjourneys85 & -eng, 198, ourjourneys33, whos-who-1894, whoswho1010); all absorbed above — verified saturated, no new community facts._
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/echo-lin/)
