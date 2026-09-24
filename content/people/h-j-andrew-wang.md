@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # H. J. Andrew Wang (王惠鈞)
 
@@ -40,6 +40,7 @@ last_reviewed: 2026-09-23
 - Re-verified 2026-09-20: corpus re-grep matches only the TAH #944 record, the 武漢肺炎 article record, and index listings — both already absorbed above. SKIP: nothing further absorbable.
 - Re-verified 2026-09-22 (slice 09211500-17): re-grep matches only the same two records + index — verified-saturated, SKIP.
 - Re-verified 2026-09-23 (slice 09221000-18): fresh ZH+EN grep matches only TAH #944, the 武漢肺炎 article record, and index listings — both already absorbed above; HOLD on the 1947 Ph.D.-date conflict stands — verified-saturated, SKIP.
+- Re-verified 2026-09-24 (slice 09230500-30): fresh ZH+EN grep matches only TAH #944, the 武漢肺炎 article record (SARS co-crystal structure + PhD students 郭致榮/李政忠/謝俊結 — already absorbed), and index — verified-saturated, SKIP; HOLD on the 1947 Ph.D.-date conflict stands.
 
 ## Family
 

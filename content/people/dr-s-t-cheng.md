@@ -49,4 +49,5 @@ last_reviewed: 2026-09-24
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 > Saturate-note (deepen-x slice 09211500-22, 2026-09-22): corpus re-grep (ZH+EN) hit set identical to records already linked above (ourjourneys293 / -eng, TAH #2158, videos40, Pew statement, index); no new absorbable corpus facts. Verified-saturated.
+> Saturate-note (deepen-x slice 09221000-15, 2026-09-23): re-grep ZH+EN (incl. 魏妙奎/魏妙圭) returned the same hit set plus [[works/taiwaneseamericanhistory-org/whoswho1065|TAH #1066. M. K. Wei 魏妙圭]], whose wife page [[people/m-k-wei|M. K. Wei (魏妙圭)]] lists husband 鄭信傳 — corroborates the memoir spelling 魏妙圭 but HOLD (this page's directory field still reads 魏妙奎) stands. No other new absorbable facts.
 > Saturate-note (deepen-x slice 09230500-27, 2026-09-24): corpus re-grep ZH+EN (鄭信傳 / S. T. Cheng / 魏妙圭) returned the same hit set as prior passes (ourjourneys293 / -eng, TAH #2158, videos40, whoswho1065, Pew statement, index) — all already linked above; HOLD on 魏妙奎 vs 魏妙圭 stands. Verified-saturated.

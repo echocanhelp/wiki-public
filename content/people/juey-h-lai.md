@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # Juey H. Lai (賴瑞宏博士)
 
@@ -55,3 +55,4 @@ last_reviewed: 2026-09-23
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 <!-- deepen-x slice 09221000-29 (2026-09-23): re-verified — corpus hits remain ourjourneys15 + ourjourneys123, both already absorbed (台灣攤「死黨」core member, 1998 同鄉會會長, 雲門《流浪者之歌》接待會, 《懷念張麗惠》intro). Note: the FON exhibit volunteer "Herbert" in ourjourneys15 is a younger 新血, not Herbert T Chen 陳志青 (b.1935) — no cross-link. SKIP (saturated). -->
+<!-- deepen-x slice 09230500-32 (2026-09-24): re-verified — corpus hits remain ourjourneys15 + ourjourneys123 + own TAH memoir record, all already absorbed. SKIP (saturated). -->
