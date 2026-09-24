@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # Yale Taiwanese Student Association
 
@@ -38,3 +38,4 @@ HOLD: the current GSAS-registered YTSA and these earlier undergraduate/movement-
 - Re-grep 2026-09-21 (slice 09201500-24): no corpus hit for the modern YTSA itself; the Yale lineage already absorbed above (ourjourneys 81/62/268, TAUC 1999 handbook #556) is re-verified — the movement-era passages name 陳隆志/陳東壁/鄭義勇/林天民, not a YTSA org. SKIP-new-material.
 - Re-grep 2026-09-22 (slice 09211500-15): zero corpus hits for Yale Taiwanese/YTSA/耶魯臺灣同學會; lineage above re-verified, no new material.
 - Re-grep 2026-09-23 (slice 09220900-31): zero corpus hits for Yale Taiwanese/YTSA/耶魯臺灣同學會 in content/works + content/articles; lineage passages (ourjourneys 81/62/268, TAUC 1999 handbook #556) re-verified, still no modern-YTSA record. SKIP-new-material.
+- Re-grep 2026-09-24 (slice 09230400-23): zero corpus hits for Yale Taiwanese/YTSA/耶魯臺灣同學會 in content/works + content/articles; movement-era Yale lineage above (ourjourneys 81/62/268, TAUC 1999 handbook #556) remains the only absorbable material and is already linked. SKIP: verified saturated.
