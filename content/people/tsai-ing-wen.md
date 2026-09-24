@@ -46,6 +46,8 @@ name_en: "Tsai Ing-wen"
 
 ## From the record
 
+- 複核（TJJ-A09162345-17, 2026-09-24）：本 slice 兩篇文章 2a3226a1b19c5a46（中央社副手專稿轉載, 2023-11-20）、d2d01925bc6bbba3（English Pages p5, 2024-07-18 快照）正文再驗證——賴蕭配被解讀為「延續蔡英文路線」之記述、及「Taiwan Opposition's Presidential Nominee Tsai Ing-wen Says Won't Change China Ties」清單條目均確認見於正文，連結為真，無錯鏈、無虛鏈；對應日期條目（2023-11-20／2015-04-16）已在庫 — SKIP，無新材料（[[articles/taiwanjustice-net/2023/20231208130546_root_2a3226a1b19c5a46|中央社專稿]]／[[articles/taiwanjustice-net/2024/20240718230535_root_d2d01925bc6bbba3|English Pages p5]]）。
+
 - 複核（TJJ-A09162345-15 / t_0c0e3cd1, 2026-09-24）：本 slice 文章 86312fe2a2feb73e（English Pages 分類存檔頁, 2024-05-30 快照） 正文再驗證——subject 連結為真實提及，無錯鏈、無虛鏈；對應日期事實條目（含該文 wikilink）已在庫 — SKIP，已飽和。
 
 - 複核（TJJ-A09162345-31, 2026-09-24）：slice 文章 432e1fca739d02b8（Ed Royce 標籤頁）正文再驗證——2015-03-14「蔡英文：今年將訪美國首府華盛頓」首條再確認見於正文，連結為真；對應日期事實（含該文 wikilink）已在庫 — SKIP，無新材料。
