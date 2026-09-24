@@ -1,0 +1,4 @@
+organizations/ikenobo-ikebana-la-chapter.md
+people/howard-shu.md
+people/chao-hsiung-hsu.md
+people/w-s-lin.md

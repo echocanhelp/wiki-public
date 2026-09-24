@@ -35,6 +35,7 @@ Accomplishment
 
 ## From the record
 
+- 覆核（TJJ-A09170400-12, 2026-09-23）：本 slice TJJ 文章正文再驗證——subject 連結與本條目所載日期事實相符，無錯鏈、無虛鏈，無新材料— SKIP，已飽和。
 - 2019-09-03 — Signed the overseas Taiwanese organizations' joint statement 「拒一國兩制！海外台灣人社團：支持香港反對中國暴政」 as 「陳文成教授紀念基金會 會長劉斌碩 教授」 — the same first-person signing record absorbed in Role in the Community above ([[articles/taiwanjustice-net/2024/20240221122756_root_53455d7e13136092|TJJ record, 2024-02-21 archive of the 2019-09-04 posting]]).
 
 **Chen Wen-chen Memorial Foundation leadership.** Corpus records list Liu as 會長 (Chairman) of the 陳文成教授紀念基金會 (Professor Chen Wen-chen Memorial Foundation): he signed the overseas Taiwanese American organizations' joint statement 「拒一國兩制！海外台灣人社團：支持香港反對中國暴政」 (posted 2019-09-04) as the foundation's chairman, alongside 台灣人公共事務會 會長郭正光博士, 世界台灣人大會, 全美台灣同鄉會, and 王康陸紀念基金會 會長王康厚. See [[articles/taiwanjustice-net/2024/20240221122756_root_53455d7e13136092|Joint Taiwanese American organizations statement in solidarity with the people of Hong Kong (2019)]].

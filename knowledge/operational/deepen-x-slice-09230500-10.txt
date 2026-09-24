@@ -1,0 +1,4 @@
+organizations/joint-alumni-association-of-taiwan-teachers-college-and-normal-univers.md
+people/san-francisco-theological-seminary.md
+people/patrick-huang.md
+people/tony-hsieh.md

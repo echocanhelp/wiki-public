@@ -22,6 +22,8 @@ The North America Taiwanese Women’s Association (NATWA) is a nonprofit organiz
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/north-america-taiwanese-womens-association/)
 
 ## Role in the Community
+
+- Re-verify 2026-09-23 (TJJ-A09170400-12): slice article 53455d7e13136092 signatory list re-checked body-level — this org link confirmed real, dated 2019-09-03 joint-statement fact above stands; no new material.
 NATWA's chapter-and-project record is held in the Echopedia work corpus:
 
 - Chapter profiles (2015): [[works/taiwaneseamericanhistory-org/natwa-san-diego-chapter|Greater San Diego Chapter]], [[works/taiwaneseamericanhistory-org/natwa-oregonsouth-west-chapter|Oregon/South West Chapter]], [[works/taiwaneseamericanhistory-org/natwa-st-louis-chapter|St. Louis Chapter]], plus the Arizona, Boston, Kansas, Louisiana, New Jersey, New York, Northern California, Ohio, and Southern California chapter pages.

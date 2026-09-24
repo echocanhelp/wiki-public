@@ -1,0 +1,4 @@
+people/chin-hui-lee.md
+people/chen-chang-lee.md
+people/james-jean.md
+people/swing-chuang.md

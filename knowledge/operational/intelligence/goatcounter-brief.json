@@ -1,10 +1,10 @@
 {
-  "at": "2026-09-22T14:00:53Z",
+  "at": "2026-09-23T14:00:32Z",
   "cutoff": "2026-08-21T19:22:14Z",
   "ok": true,
-  "visits_since_cutoff": 67,
-  "yesterday_pdt": "2026-09-21",
-  "yesterday_visits": 2,
+  "visits_since_cutoff": 68,
+  "yesterday_pdt": "2026-09-22",
+  "yesterday_visits": 3,
   "top": [
     {
       "count": 13,
@@ -17,7 +17,7 @@
       "title": "Not Found"
     },
     {
-      "count": 7,
+      "count": 8,
       "path": "/wiki-public/people/albert-zh-sku-b-publisher-review.html",
       "title": "Albert ZH SKU B \u2014 publisher manuscript final review"
     },

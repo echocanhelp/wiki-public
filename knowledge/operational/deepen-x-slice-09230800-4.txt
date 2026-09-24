@@ -1,0 +1,4 @@
+people/c-y-tsai.md
+organizations/taiwanese-association-of-america-hawaii.md
+people/richard-chen.md
+people/justin-lin.md

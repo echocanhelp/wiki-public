@@ -1,0 +1,4 @@
+organizations/hsu-shih-memorial-foundation.md
+people/lorenzo-chun-han-chang.md
+organizations/distinguished-citizens-society-international-world-headquarters.md
+people/shi-lung-lin.md

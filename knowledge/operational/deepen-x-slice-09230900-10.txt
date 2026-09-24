@@ -1,0 +1,4 @@
+people/fong-baatz.md
+people/edward-liu.md
+organizations/global-alliance-for-democracy-and-peace.md
+people/david-j-lu.md

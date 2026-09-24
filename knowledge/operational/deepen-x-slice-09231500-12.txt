@@ -1,0 +1,4 @@
+organizations/global-education-fund.md
+people/y-j-chung.md
+people/cleo-chiang.md
+people/michael-luo.md

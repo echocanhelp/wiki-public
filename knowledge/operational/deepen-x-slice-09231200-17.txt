@@ -1,0 +1,4 @@
+organizations/chunglun-presbyterian-church.md
+people/ying-hsuan-sun.md
+people/xie-xinzhong.md
+people/nam-yeung.md

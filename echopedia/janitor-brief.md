@@ -1,48 +1,48 @@
-## Echopedia Janitor — 2026-09-22
+## Echopedia Janitor — 2026-09-23
 - Standards v10
-- Pages with findings: **197**
+- Pages with findings: **188**
 - Queued tonight (max 40): **40**
 - Queue:
-  - `people/bai-peiyu.md` age≈24.2d · NO_IDENTITY_SNAPSHOT
-  - `people/nanfang-shuo.md` age≈24.2d · NO_IDENTITY_SNAPSHOT
-  - `people/sang-pu.md` age≈24.2d · NO_IDENTITY_SNAPSHOT
-  - `people/tang-peili.md` age≈24.2d · NO_IDENTITY_SNAPSHOT
-  - `people/wang-qiaoling.md` age≈24.2d · NO_IDENTITY_SNAPSHOT
-  - `people/wang-shufen.md` age≈24.2d · NO_IDENTITY_SNAPSHOT
-  - `people/xia-ming.md` age≈24.2d · NO_IDENTITY_SNAPSHOT
-  - `people/zou-jingwen.md` age≈24.2d · NO_IDENTITY_SNAPSHOT
-  - `people/li-xiaofeng.md` age≈24.2d · NO_IDENTITY_SNAPSHOT
-  - `people/chao-sile.md` age≈0.4d · NO_TYPE, NO_IDENTITY_SNAPSHOT, NO_LAST_REVIEWED
-  - `people/chen-po-kong.md` age≈0.4d · NO_TYPE, NO_IDENTITY_SNAPSHOT, NO_LAST_REVIEWED
-  - `people/du-ao-cunfu.md` age≈0.4d · NO_TYPE, NO_IDENTITY_SNAPSHOT, NO_LAST_REVIEWED
-  - `people/fan-jiang-ti-ang.md` age≈0.4d · NO_TYPE, NO_IDENTITY_SNAPSHOT, NO_LAST_REVIEWED
-  - `people/guan-renjian.md` age≈0.4d · NO_TYPE, NO_IDENTITY_SNAPSHOT, NO_LAST_REVIEWED
-  - `people/huang-diyin.md` age≈0.4d · NO_TYPE, NO_IDENTITY_SNAPSHOT, NO_LAST_REVIEWED
-  - `people/li-jian.md` age≈0.4d · NO_TYPE, NO_IDENTITY_SNAPSHOT, NO_LAST_REVIEWED
-  - `people/lin-baohua.md` age≈0.4d · NO_TYPE, NO_IDENTITY_SNAPSHOT, NO_LAST_REVIEWED
-  - `people/yang-yueqing.md` age≈0.4d · NO_TYPE, NO_IDENTITY_SNAPSHOT, NO_LAST_REVIEWED
-  - `people/yuan-zhihui.md` age≈0.4d · NO_TYPE, NO_IDENTITY_SNAPSHOT, NO_LAST_REVIEWED
-  - `people/dr-hsing-chi-chuck-chang.md` age≈13.2d · LINK_BODY_SPARSE
-  - `people/george-lee.md` age≈13.2d · LINK_BODY_SPARSE
-  - `people/huang-yongcheng.md` age≈13.2d · NO_IDENTITY_SNAPSHOT
-  - `people/prof-sze-ya-yeh.md` age≈13.2d · LINK_BODY_SPARSE
-  - `people/dr-wei-yang-andy-lin.md` age≈12.2d · LINK_BODY_SPARSE
-  - `people/kuan-cheng-lu.md` age≈12.2d · LINK_BODY_SPARSE
-  - `people/po-wei-lai.md` age≈12.2d · LINK_BODY_SPARSE
-  - `people/deng-shuzhen.md` age≈11.2d · LINK_BODY_SPARSE
-  - `people/karen-chia-ling-ho.md` age≈10.2d · LINK_BODY_SPARSE
-  - `sources/morenews-interview.md` age≈9.2d · 
-  - `sources/allmusic-chen.md` age≈9.2d · 
-  - `organizations/westchester-taiwanese-womens-associationwtwa.md` age≈9.2d · LINK_BODY_SPARSE
-  - `sources/zh-wikipedia-gwhyneth-chen.md` age≈9.2d · 
-  - `sources/conbrio-board-bio.md` age≈9.2d · 
-  - `sources/taiwan-paa-bio.md` age≈9.2d · 
-  - `sources/ntcpetv-ptsi-bio.md` age≈9.2d · 
-  - `sources/ntch-lib-recordings.md` age≈9.2d · 
-  - `sources/ntso-moca-bio.md` age≈9.2d · 
-  - `organizations/global-hakka-un-ngo-applying-committee-un-ngo.md` age≈9.2d · LINK_BODY_SPARSE
-  - `organizations/tainan-east-gate-barclay-memorial-church.md` age≈9.2d · 
-  - `organizations/north-america-pastel-artist-association.md` age≈9.2d · LINK_BODY_SPARSE
-- Log: `knowledge/operational/janitor-log/2026-09-22.jsonl`
+  - `people/bai-peiyu.md` age≈25.2d · NO_IDENTITY_SNAPSHOT
+  - `people/nanfang-shuo.md` age≈25.2d · NO_IDENTITY_SNAPSHOT
+  - `people/sang-pu.md` age≈25.2d · NO_IDENTITY_SNAPSHOT
+  - `people/tang-peili.md` age≈25.2d · NO_IDENTITY_SNAPSHOT
+  - `people/wang-qiaoling.md` age≈25.2d · NO_IDENTITY_SNAPSHOT
+  - `people/wang-shufen.md` age≈25.2d · NO_IDENTITY_SNAPSHOT
+  - `people/xia-ming.md` age≈25.2d · NO_IDENTITY_SNAPSHOT
+  - `people/zou-jingwen.md` age≈25.2d · NO_IDENTITY_SNAPSHOT
+  - `people/chao-sile.md` age≈1.4d · NO_TYPE, NO_IDENTITY_SNAPSHOT, NO_LAST_REVIEWED
+  - `people/chen-po-kong.md` age≈1.4d · NO_TYPE, NO_IDENTITY_SNAPSHOT, NO_LAST_REVIEWED
+  - `people/du-ao-cunfu.md` age≈1.4d · NO_TYPE, NO_IDENTITY_SNAPSHOT, NO_LAST_REVIEWED
+  - `people/fan-jiang-ti-ang.md` age≈1.4d · NO_TYPE, NO_IDENTITY_SNAPSHOT, NO_LAST_REVIEWED
+  - `people/guan-renjian.md` age≈1.4d · NO_TYPE, NO_IDENTITY_SNAPSHOT, NO_LAST_REVIEWED
+  - `people/li-jian.md` age≈1.4d · NO_TYPE, NO_IDENTITY_SNAPSHOT, NO_LAST_REVIEWED
+  - `people/lin-baohua.md` age≈1.4d · NO_TYPE, NO_IDENTITY_SNAPSHOT, NO_LAST_REVIEWED
+  - `people/yang-yueqing.md` age≈1.4d · NO_TYPE, NO_IDENTITY_SNAPSHOT, NO_LAST_REVIEWED
+  - `people/yuan-zhihui.md` age≈1.4d · NO_TYPE, NO_IDENTITY_SNAPSHOT, NO_LAST_REVIEWED
+  - `people/huang-diyin.md` age≈0.8d · NO_TYPE, NO_IDENTITY_SNAPSHOT, NO_LAST_REVIEWED
+  - `people/dr-hsing-chi-chuck-chang.md` age≈14.2d · LINK_BODY_SPARSE
+  - `people/george-lee.md` age≈14.2d · LINK_BODY_SPARSE
+  - `people/huang-yongcheng.md` age≈14.2d · NO_IDENTITY_SNAPSHOT
+  - `people/prof-sze-ya-yeh.md` age≈14.2d · LINK_BODY_SPARSE
+  - `people/dr-wei-yang-andy-lin.md` age≈13.2d · LINK_BODY_SPARSE
+  - `people/kuan-cheng-lu.md` age≈13.2d · LINK_BODY_SPARSE
+  - `people/po-wei-lai.md` age≈13.2d · LINK_BODY_SPARSE
+  - `people/deng-shuzhen.md` age≈12.2d · LINK_BODY_SPARSE
+  - `people/karen-chia-ling-ho.md` age≈11.2d · LINK_BODY_SPARSE
+  - `organizations/westchester-taiwanese-womens-associationwtwa.md` age≈10.2d · LINK_BODY_SPARSE
+  - `organizations/global-hakka-un-ngo-applying-committee-un-ngo.md` age≈10.2d · LINK_BODY_SPARSE
+  - `organizations/north-america-pastel-artist-association.md` age≈10.2d · LINK_BODY_SPARSE
+  - `organizations/evergreen-senior-university-by-evangelical-formosa-church-of-irvine-esu.md` age≈10.2d · LINK_BODY_SPARSE
+  - `sources/tcccna-pcusadir-2009.md` age≈10.2d · 
+  - `sources/pct-renai-church-history.md` age≈10.2d · 
+  - `sources/tcnn-song-memorial-2024.md` age≈10.2d · 
+  - `people/agnes-hsu.md` age≈10.2d · LINK_BODY_SPARSE
+  - `people/dr-ching-c-shir.md` age≈10.2d · LINK_BODY_SPARSE
+  - `people/dr-chi-wan-lai.md` age≈10.2d · LINK_BODY_SPARSE
+  - `people/dr-min-chin-mary-lee.md` age≈10.2d · LINK_BODY_SPARSE
+  - `people/dr-yung-san-liang.md` age≈10.2d · LINK_BODY_SPARSE
+  - `people/feng-hsu-lee.md` age≈10.2d · LINK_BODY_SPARSE
+- Log: `knowledge/operational/janitor-log/2026-09-23.jsonl`
 - Agent auto-apply: **False** (local pin only if enabled)
 - First-mention AUTO: **0**

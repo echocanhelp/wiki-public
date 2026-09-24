@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-22T07:00:52.606959",
-  "pages_scanned": 2915,
+  "generated_at": "2026-09-23T07:00:30.760686",
+  "pages_scanned": 2916,
   "capped": true,
   "cap_top_n": 80,
   "summary": {
-    "co_citation_count": 4606,
-    "co_mention_count": 10102,
+    "co_citation_count": 4726,
+    "co_mention_count": 10256,
     "shared_tags_count": 0,
     "orphan_folder_count": 3,
     "kept_co_citation": 80,
@@ -102,7 +102,7 @@
         "shared_target": "articles/taiwanjustice-net/2025/20250209211009_旅美五十周年-_-鄭炳全_438dc69b91722b16",
         "page1_title": "Alumni Association of Chia Yi High School Worldwide (AACHW)",
         "page2_title": "Taiwanese American Arts Association",
-        "shared_targets_count": 10
+        "shared_targets_count": 11
       },
       {
         "type": "CO-CITATION",
@@ -111,7 +111,7 @@
         "shared_target": "articles/taiwanjustice-net/2025/20250209211009_旅美五十周年-_-鄭炳全_438dc69b91722b16",
         "page1_title": "Alumni Association of Chia Yi High School Worldwide (AACHW)",
         "page2_title": "Taiwanese American Association of Los Angeles-East San Gabriel Valley(TAA-ESGV)",
-        "shared_targets_count": 10
+        "shared_targets_count": 11
       },
       {
         "type": "CO-CITATION",
@@ -120,7 +120,16 @@
         "shared_target": "articles/taiwanjustice-net/2025/20250209211009_旅美五十周年-_-鄭炳全_438dc69b91722b16",
         "page1_title": "Alumni Association of Chia Yi High School Worldwide (AACHW)",
         "page2_title": "Taiwanese American Soft Tennis Association",
-        "shared_targets_count": 10
+        "shared_targets_count": 11
+      },
+      {
+        "type": "CO-CITATION",
+        "page1": "organizations/alumni-association-of-chia-yi-high-school-worldwide.md",
+        "page2": "people/alan-t-chen.md",
+        "shared_target": "articles/taiwanjustice-net/2024/20240302033647_root_589391185e9bd8c3",
+        "page1_title": "Alumni Association of Chia Yi High School Worldwide (AACHW)",
+        "page2_title": "ALAN T. CHEN (陳清風)",
+        "shared_targets_count": 8
       },
       {
         "type": "CO-CITATION",
@@ -129,25 +138,7 @@
         "shared_target": "articles/taiwanjustice-net/2024/20240302033647_root_589391185e9bd8c3",
         "page1_title": "Alumni Association of Chia Yi High School Worldwide (AACHW)",
         "page2_title": "Freeman Huang (黃樹人)",
-        "shared_targets_count": 6
-      },
-      {
-        "type": "CO-CITATION",
-        "page1": "organizations/alumni-association-of-chia-yi-high-school-worldwide.md",
-        "page2": "people/huang-gen-shen.md",
-        "shared_target": "articles/taiwanjustice-net/2024/20240302033647_root_589391185e9bd8c3",
-        "page1_title": "Alumni Association of Chia Yi High School Worldwide (AACHW)",
-        "page2_title": "Huang Gen-shen (黃根深)",
-        "shared_targets_count": 6
-      },
-      {
-        "type": "CO-CITATION",
-        "page1": "organizations/alumni-association-of-chia-yi-high-school-worldwide.md",
-        "page2": "people/yang-jia-you.md",
-        "shared_target": "articles/taiwanjustice-net/2024/20240302033647_root_589391185e9bd8c3",
-        "page1_title": "Alumni Association of Chia Yi High School Worldwide (AACHW)",
-        "page2_title": "Charles Yang (楊嘉猷)",
-        "shared_targets_count": 6
+        "shared_targets_count": 8
       },
       {
         "type": "CO-CITATION",
@@ -183,7 +174,7 @@
         "shared_target": "works/taiwaneseamerican-org/pew-research-center-taiwanese-american-statement",
         "page1_title": "American Citizens for Taiwan (西雅圖美台會)",
         "page2_title": "Formosan Association for Public Affairs Los Angeles(FAPA-LA)",
-        "shared_targets_count": 66
+        "shared_targets_count": 70
       },
       {
         "type": "CO-CITATION",
@@ -192,7 +183,7 @@
         "shared_target": "works/taiwaneseamerican-org/pew-research-center-taiwanese-american-statement",
         "page1_title": "American Citizens for Taiwan (西雅圖美台會)",
         "page2_title": "North America Taiwanese Women's Assoc. Southern CA Chapter NATWA-SC",
-        "shared_targets_count": 66
+        "shared_targets_count": 70
       },
       {
         "type": "CO-CITATION",
@@ -201,7 +192,7 @@
         "shared_target": "works/taiwaneseamerican-org/pew-research-center-taiwanese-american-statement",
         "page1_title": "American Citizens for Taiwan (西雅圖美台會)",
         "page2_title": "North America Taiwanese Women’s Association – Hawaii Chapter (北美洲台灣婦女會夏威夷分會)",
-        "shared_targets_count": 66
+        "shared_targets_count": 70
       },
       {
         "type": "CO-CITATION",
@@ -210,7 +201,7 @@
         "shared_target": "works/taiwaneseamericanhistory-org/ourjourneys76-eng",
         "page1_title": "Ann Arbor Taiwanese Association (安雅堡)",
         "page2_title": "Manhattan, KS Chapter / TAA (全美台灣同鄉會曼哈頓分會)",
-        "shared_targets_count": 45
+        "shared_targets_count": 51
       },
       {
         "type": "CO-CITATION",
@@ -219,7 +210,7 @@
         "shared_target": "works/taiwaneseamericanhistory-org/ourjourneys76-eng",
         "page1_title": "Ann Arbor Taiwanese Association (安雅堡)",
         "page2_title": "Taiwanese American Association Atlanta (亞特蘭大)",
-        "shared_targets_count": 45
+        "shared_targets_count": 51
       },
       {
         "type": "CO-CITATION",
@@ -228,7 +219,7 @@
         "shared_target": "works/taiwaneseamericanhistory-org/ourjourneys76-eng",
         "page1_title": "Ann Arbor Taiwanese Association (安雅堡)",
         "page2_title": "Taiwanese American Association New York (大紐約區)",
-        "shared_targets_count": 45
+        "shared_targets_count": 51
       },
       {
         "type": "CO-CITATION",
@@ -237,7 +228,7 @@
         "shared_target": "works/taiwaneseamericanhistory-org/ourjourneys321",
         "page1_title": "Ann Arbor Taiwanese Association (安雅堡)",
         "page2_title": "Formosan Association for Human Rights",
-        "shared_targets_count": 22
+        "shared_targets_count": 23
       },
       {
         "type": "CO-CITATION",
@@ -246,7 +237,7 @@
         "shared_target": "works/taiwaneseamericanhistory-org/ourjourneys321",
         "page1_title": "Ann Arbor Taiwanese Association (安雅堡)",
         "page2_title": "Taiwan Student Association at the University of Michigan",
-        "shared_targets_count": 22
+        "shared_targets_count": 23
       },
       {
         "type": "CO-CITATION",
@@ -255,7 +246,7 @@
         "shared_target": "works/taiwaneseamericanhistory-org/ourjourneys321",
         "page1_title": "Ann Arbor Taiwanese Association (安雅堡)",
         "page2_title": "Taiwanese American Student Association at the University of Michigan",
-        "shared_targets_count": 22
+        "shared_targets_count": 23
       },
       {
         "type": "CO-CITATION",
@@ -309,7 +300,7 @@
         "shared_target": "works/taiwaneseamericanhistory-org/ourjourneys321-eng",
         "page1_title": "Ann Arbor Taiwanese Association (安雅堡)",
         "page2_title": "Asia Democracy Foundation (民主亞洲基金會)",
-        "shared_targets_count": 11
+        "shared_targets_count": 13
       },
       {
         "type": "CO-CITATION",
@@ -318,7 +309,16 @@
         "shared_target": "works/taiwaneseamericanhistory-org/ourjourneys321-eng",
         "page1_title": "Ann Arbor Taiwanese Association (安雅堡)",
         "page2_title": "Professor Chen Wen-Chen Memorial Foundation (陳文成教授紀念基金會)",
-        "shared_targets_count": 11
+        "shared_targets_count": 13
+      },
+      {
+        "type": "CO-CITATION",
+        "page1": "organizations/asia-democracy-foundation.md",
+        "page2": "people/chin-hsin-jason-liu.md",
+        "shared_target": "articles/taiwanjustice-net/2022/20220228033245_2020_12_26_民主亞洲基金會會長洪哲勝辭世_獨盟辦追思會_44c486d870e08028",
+        "page1_title": "Asia Democracy Foundation (民主亞洲基金會)",
+        "page2_title": "Chin-Hsin Jason Liu (劉進興)",
+        "shared_targets_count": 2
       },
       {
         "type": "CO-CITATION",
@@ -327,7 +327,7 @@
         "shared_target": "works/taiwaneseamericanhistory-org/ourjourneys49",
         "page1_title": "Asia Democracy Foundation (民主亞洲基金會)",
         "page2_title": "Professor Chen Wen-Chen Memorial Foundation (陳文成教授紀念基金會)",
-        "shared_targets_count": 16
+        "shared_targets_count": 17
       },
       {
         "type": "CO-CITATION",
@@ -336,7 +336,7 @@
         "shared_target": "works/taiwaneseamericanhistory-org/ourjourneys49",
         "page1_title": "Asia Democracy Foundation (民主亞洲基金會)",
         "page2_title": "Taiwanese Association of America (全美台灣同鄉會)",
-        "shared_targets_count": 16
+        "shared_targets_count": 17
       },
       {
         "type": "CO-CITATION",
@@ -345,7 +345,7 @@
         "shared_target": "works/taiwaneseamericanhistory-org/ourjourneys49",
         "page1_title": "Asia Democracy Foundation (民主亞洲基金會)",
         "page2_title": "United Formosans for Independence UFI (台獨聯盟)",
-        "shared_targets_count": 16
+        "shared_targets_count": 17
       },
       {
         "type": "CO-CITATION",
@@ -511,6 +511,15 @@
       },
       {
         "type": "CO-CITATION",
+        "page1": "organizations/asian-senior-concerns-foundation.md",
+        "page2": "sources/taiwaneseamericanhistory-org.md",
+        "shared_target": "people/i-jen-chen",
+        "page1_title": "Asian Senior Concerns Foundation (亞裔銀髮族關懷基金會)",
+        "page2_title": "taiwaneseamericanhistory.org (TAH Foundation)",
+        "shared_targets_count": 2
+      },
+      {
+        "type": "CO-CITATION",
         "page1": "organizations/asu-taiwanese-international-student-association.md",
         "page2": "people/carrie-y-tseng.md",
         "shared_target": "organizations/taiwanese-student-association-at-arizona-state-university",
@@ -575,11 +584,20 @@
       {
         "type": "CO-CITATION",
         "page1": "organizations/austin-taiwanese-association.md",
+        "page2": "organizations/taiwanese-american-professionals-boston.md",
+        "shared_target": "works/taiwaneseamericanhistory-org/austin-chapter-tap",
+        "page1_title": "Austin Taiwanese Association (奧斯丁)",
+        "page2_title": "Taiwanese American Professionals Boston",
+        "shared_targets_count": 7
+      },
+      {
+        "type": "CO-CITATION",
+        "page1": "organizations/austin-taiwanese-association.md",
         "page2": "organizations/taiwanese-american-professionals-los-angeles.md",
         "shared_target": "works/taiwaneseamericanhistory-org/austin-chapter-tap",
         "page1_title": "Austin Taiwanese Association (奧斯丁)",
         "page2_title": "Taiwanese American Professionals Los Angeles (洛杉磯台美菁英協會)",
-        "shared_targets_count": 6
+        "shared_targets_count": 7
       },
       {
         "type": "CO-CITATION",
@@ -588,16 +606,7 @@
         "shared_target": "works/taiwaneseamericanhistory-org/austin-chapter-tap",
         "page1_title": "Austin Taiwanese Association (奧斯丁)",
         "page2_title": "Taiwanese American Professionals Orange County (台美菁英協會橙縣分會)",
-        "shared_targets_count": 6
-      },
-      {
-        "type": "CO-CITATION",
-        "page1": "organizations/austin-taiwanese-association.md",
-        "page2": "organizations/taiwanese-american-professionals-san-francisco.md",
-        "shared_target": "works/taiwaneseamericanhistory-org/austin-chapter-tap",
-        "page1_title": "Austin Taiwanese Association (奧斯丁)",
-        "page2_title": "Taiwanese American Professionals San Francisco",
-        "shared_targets_count": 6
+        "shared_targets_count": 7
       },
       {
         "type": "CO-CITATION",
@@ -669,7 +678,7 @@
         "shared_target": "works/taiwaneseamericanhistory-org/ourjourney-343",
         "page1_title": "Austin Taiwanese Association (奧斯丁)",
         "page2_title": "Dr. John Chieu (邱忠男博士)",
-        "shared_targets_count": 8
+        "shared_targets_count": 10
       },
       {
         "type": "CO-CITATION",
@@ -678,7 +687,34 @@
         "shared_target": "works/taiwaneseamericanhistory-org/ourjourney-343",
         "page1_title": "Austin Taiwanese Association (奧斯丁)",
         "page2_title": "John M. Yeh (葉明翰牧師)",
-        "shared_targets_count": 8
+        "shared_targets_count": 10
+      },
+      {
+        "type": "CO-CITATION",
+        "page1": "organizations/austin-taiwanese-association.md",
+        "page2": "organizations/formosar-chriotion-for-self-determination.md",
+        "shared_target": "works/taiwaneseamericanhistory-org/ourjourneys318",
+        "page1_title": "Austin Taiwanese Association (奧斯丁)",
+        "page2_title": "Formosar Chriotion for Self Determination (臺灣人民自決運動)",
+        "shared_targets_count": 15
+      },
+      {
+        "type": "CO-CITATION",
+        "page1": "organizations/austin-taiwanese-association.md",
+        "page2": "organizations/greater-washington-taiwan-culture-center.md",
+        "shared_target": "works/taiwaneseamericanhistory-org/ourjourneys318",
+        "page1_title": "Austin Taiwanese Association (奧斯丁)",
+        "page2_title": "Greater Washington Taiwan Culture Center (華府台灣文化中心)",
+        "shared_targets_count": 15
+      },
+      {
+        "type": "CO-CITATION",
+        "page1": "organizations/austin-taiwanese-association.md",
+        "page2": "organizations/huntsville-taiwanese-american-association.md",
+        "shared_target": "works/taiwaneseamericanhistory-org/ourjourneys318",
+        "page1_title": "Austin Taiwanese Association (奧斯丁)",
+        "page2_title": "Huntsville Taiwanese American Association (亨城)",
+        "shared_targets_count": 15
       },
       {
         "type": "CO-CITATION",
@@ -697,42 +733,6 @@
         "page1_title": "Bliss & Wisdom Foundation of North America (北美福智基金會)",
         "page2_title": "J. S. Liu (劉佳欣)",
         "shared_targets_count": 3
-      },
-      {
-        "type": "CO-CITATION",
-        "page1": "organizations/lapc-music-foundation.md",
-        "page2": "people/j-s-liu.md",
-        "shared_target": "works/taiwaneseamericanhistory-org/los-angeles-melody-chorus",
-        "page1_title": "LAPC Music Foundation (洛杉磯樂音音樂基金會)",
-        "page2_title": "J. S. Liu (劉佳欣)",
-        "shared_targets_count": 3
-      },
-      {
-        "type": "CO-CITATION",
-        "page1": "organizations/boston-taiwanese-christian-church.md",
-        "page2": "organizations/elder-john-lai-archives.md",
-        "shared_target": "people/john-lai",
-        "page1_title": "Boston Taiwanese Christian Church (波士頓台灣基督教會)",
-        "page2_title": "Elder John Lai's Archives (賴永祥長老史料庫)",
-        "shared_targets_count": 11
-      },
-      {
-        "type": "CO-CITATION",
-        "page1": "organizations/boston-taiwanese-christian-church.md",
-        "page2": "organizations/presbyterian-church-in-taiwan.md",
-        "shared_target": "people/john-lai",
-        "page1_title": "Boston Taiwanese Christian Church (波士頓台灣基督教會)",
-        "page2_title": "Presbyterian Church in Taiwan (PCT)",
-        "shared_targets_count": 11
-      },
-      {
-        "type": "CO-CITATION",
-        "page1": "organizations/boston-taiwanese-christian-church.md",
-        "page2": "people/james-laidlaw-maxwell.md",
-        "shared_target": "people/john-lai",
-        "page1_title": "Boston Taiwanese Christian Church (波士頓台灣基督教會)",
-        "page2_title": "James Laidlaw Maxwell (馬雅各)",
-        "shared_targets_count": 11
       }
     ],
     "co_mention": [
@@ -1043,18 +1043,18 @@
       {
         "type": "CO-MENTION",
         "page1": "organizations/austin-taiwanese-association.md",
-        "page2": "organizations/taiwanese-american-student-association.md",
+        "page2": "organizations/taiwanese-american-foundation.md",
         "page1_title": "Austin Taiwanese Association (奧斯丁)",
-        "page2_title": "Taiwanese American Student Association",
-        "mention_text": "Taiwanese American Student Association"
+        "page2_title": "Taiwanese-American Foundation",
+        "mention_text": "TaiwaneseAmerican Foundation"
       },
       {
         "type": "CO-MENTION",
         "page1": "organizations/austin-taiwanese-association.md",
-        "page2": "organizations/taiwanese-american-students-association.md",
+        "page2": "organizations/taiwanese-american-student-association-ohio-state-university.md",
         "page1_title": "Austin Taiwanese Association (奧斯丁)",
-        "page2_title": "Taiwanese American Students Association",
-        "mention_text": "Taiwanese American Students Association"
+        "page2_title": "Taiwanese American Student Association @ Ohio State University",
+        "mention_text": "Taiwanese American Student Association @ Ohio State University"
       }
     ],
     "shared_tags": []

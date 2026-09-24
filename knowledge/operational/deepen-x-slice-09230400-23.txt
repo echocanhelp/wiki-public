@@ -1,0 +1,4 @@
+people/jason-jung.md
+people/rev-shirley-lin.md
+organizations/yale-taiwanese-student-association.md
+people/jacqueline-whang-peng.md

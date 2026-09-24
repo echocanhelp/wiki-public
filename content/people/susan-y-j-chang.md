@@ -46,6 +46,7 @@ Accomplishment
 
 ## From the record
 
+- 覆核（TJJ-A09170400-12, 2026-09-23）：本 slice TJJ 文章正文再驗證——subject 連結與本條目所載日期事實相符，無錯鏈、無虛鏈，無新材料— SKIP，已飽和。
 - 2019-09-03 — Signed the overseas Taiwanese organizations' joint statement 「拒一國兩制！海外台灣人社團：支持香港反對中國暴政」 as 「世界台灣人大會 會長程韻如」 (Susan Chang, World Taiwanese Congress), placing her in the 2019 cohort of diaspora org leaders supporting Hong Kong ([[articles/taiwanjustice-net/2024/20240221122756_root_53455d7e13136092|TJJ record, 2024-02-21 archive of the 2019-09-04 posting]]).
 
 - Corpus re-check (程韻如 / Susan Chang, works+articles, slice-09220800-3 pass 2026-09-22): fresh grep returns only the records already linked above (#60, #160 incl. EN copies, #249, #298, TAH #190/#1531, Susan Chang Lee collision) — no new absorbable facts; verify-saturated.

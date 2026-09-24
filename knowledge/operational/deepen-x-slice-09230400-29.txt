@@ -1,0 +1,4 @@
+organizations/aj-wang-foundation-scholarship-fund.md
+people/chen-hui-chen.md
+people/dr-amy-h-kuo.md
+people/chi-chen-wu.md

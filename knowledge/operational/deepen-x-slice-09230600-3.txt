@@ -1,0 +1,4 @@
+organizations/columbus-taiwanese-association-of-america.md
+organizations/national-taipei-university-of-technology-alumni-association.md
+organizations/student-association-of-taiwan-uw-madison.md
+organizations/taiwanese-american-student-association-at-uc-san-diego.md

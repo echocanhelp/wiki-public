@@ -1,0 +1,4 @@
+people/gene-lay.md
+people/john-shiau.md
+people/miriam-liu-wu.md
+people/eric-chien.md

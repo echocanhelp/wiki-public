@@ -1,0 +1,4 @@
+people/mark-thelin.md
+people/kenneth-liu.md
+people/j-c-chen.md
+people/gary-lee.md

@@ -1,0 +1,4 @@
+organizations/rice-taiwanese-association.md
+people/william-yeh.md
+people/haluko-lin.md
+people/karen-shee.md

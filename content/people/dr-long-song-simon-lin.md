@@ -66,6 +66,7 @@ Role anchors already on this page's TAH table map to vault pages: [[organization
 
 ## From the record
 
+- 覆核（TJJ-A09170400-12, 2026-09-23）：本 slice TJJ 文章正文再驗證——subject 連結與本條目所載日期事實相符，無錯鏈、無虛鏈，無新材料— SKIP，已飽和。
 - 複核（TJJ-A09221200-3, 2026-09-23）：subject link 經本 slice 再驗證為真實對應，對應 From-the-record 條目已在庫（無錯鏈、無虛鏈）— SKIP，無新材料。
 
 - 2020-06-23 — A TJJ report on the Taiwan Center's pandemic relief names Lin, as 執行長, delivering 250 medical face shields to Whittier Hospital Medical Center on 2020-06-01 (accepted by CEO Rich Castro), and co-leading with 副董事長 蔡漢成 the digitization of the Taiwan Center's historical audio/video archives ([[articles/taiwanjustice-net/2021/20210117070450_2020_06_23_大洛杉磯台灣會館_疫情擋不住人情_濟困扶危挺_71a7c64663ea03b6|TJJ, 2020-06-23]]; 同一紀錄另見 [[articles/taiwanjustice-net/2020/20201126153300_2020_06_23_大洛杉磯台灣會館_疫情擋不住人情_濟困扶危挺_c05e2d53013fcd15|c05e2d53 快照]]).

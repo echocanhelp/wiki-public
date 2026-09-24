@@ -1,0 +1,4 @@
+organizations/taiwanese-american-student-association-at-penn-state.md
+organizations/fri-philo.md
+people/cheng-long-tsai.md
+organizations/taiwanese-student-association-at-nc-state.md

@@ -14,3 +14,7 @@ last_reviewed: 2026-09-14
 - 簡史引用《台灣教會公報》「一領一‧新倍加」特色教會報導。
 
 背景價值：仁愛教會是芳苑沿海農業社区的分裂-自立型教會；議長級人物主理開設，顯示劉弘仁在 1970 年代彰化中會的位置。Captured 2026-09-14. Cited by [[people/hung-jen-liu|Rev. Hung-Jen Liu]].
+
+## Related Pages
+
+- [[people/hung-jen-liu]]

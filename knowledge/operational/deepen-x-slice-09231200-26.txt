@@ -1,0 +1,4 @@
+people/c-s-yang.md
+people/julia-huang.md
+organizations/global-alliance-for-democracy-and-peace-la.md
+organizations/association-of-taiwanese-students-at-mit.md

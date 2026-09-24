@@ -39,6 +39,7 @@ From TAH community records and memoirs (primary material):
 - Corpus check 2026-09-21 (slice 09201400-13): re-grepped again — same hit set; no new absorbable material.
 - Corpus check 2026-09-22 (slice 09211300-15): re-grepped 蔡銘祿/Minlu Chai — hit set identical (ourjourneys253, #363, ourjourneys76-eng, ourjourneys186, #222, #140); saturated, nothing new absorbable.
 - Re-verify 2026-09-22 (slice 09220800-14): fresh re-grep — same 6 hits, all already wikilinked above. SKIP, verified-saturated.
+- Re-verify 2026-09-23 (slice 09230317-14): fresh re-grep — same 6 hits (ourjourneys253, #363, ourjourneys76-eng, ourjourneys186, #222, #140), all wikilinked. SKIP, verified-saturated.
 
 ## Family
 

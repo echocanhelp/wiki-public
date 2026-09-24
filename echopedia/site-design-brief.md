@@ -1,4 +1,4 @@
-## Site design audit — 2026-09-23 00:25
+## Site design audit — 2026-09-24 00:26
 
 - pages_md=15083
 - critical=0 high=2 medium=1
@@ -30,10 +30,6 @@
 ### MEDIUM (1)
 - **F4** people/index.html is 1501992 bytes — heavy on mobile. Do NOT hand-edit content/people/index.md. Search-first is the IA; regen script only if links break.
 
-### LOW (1)
-- **C1** spelling signals (sample): 1 `[AGENT_SUGGESTED]`
-  - `tahs-member-onboarding.md: ?onboarding`
-
 ### INFO (2)
 - **B2** pinned featured pages: 6 (cap 6 people + 3 orgs; overflow hides recency)
   - `people/albert-s-lai.md`
@@ -42,7 +38,7 @@
   - `people/lin-yuan-ching.md`
   - `people/yang-jia-you.md`
   - `people/yang-xin.md`
-- **B1** person/org touched ≤7d (rely on recency featured window): 2340
+- **B1** person/org touched ≤7d (rely on recency featured window): 2254
   - `people/a-n-liu.md`
   - `people/abby-hong.md`
   - `people/adam-chang.md`

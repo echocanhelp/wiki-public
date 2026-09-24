@@ -14,3 +14,7 @@ last_reviewed: 2026-09-14
 - 文末藏頭詩：「宋牧師神學尚勇 泉源靈感善著作 盛行神學新註譯 牧育南神好院長 師尊安息主心懷」。
 
 Captured 2026-09-14. Cited by [[people/hung-jen-liu|Rev. Hung-Jen Liu]].
+
+## Related Pages
+
+- [[people/hung-jen-liu]]

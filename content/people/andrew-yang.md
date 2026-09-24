@@ -79,6 +79,7 @@ Coverage in the taiwanjustice-net corpus harvested into this vault extends his p
 
 ## From the record
 
+- 覆核（TJJ-A09170400-12, 2026-09-23）：本 slice TJJ 文章正文再驗證——subject 連結與本條目所載日期事實相符，無錯鏈、無虛鏈，無新材料— SKIP，已飽和。
 - 2021-01-25 — TJJ's 台美人台加人 channel index carries 「台裔楊安澤新書批美國制度失靈，擬下月組新政黨」 — coverage of his post-campaign book launch and the announced plan to form a new party (the Forward Party), the first Taiwan-media record of his third-party project ([[articles/taiwanjustice-net/2025/20250426142458_category_taiwaneseamerican_page_3_1a2bdc08b6c7bf6c|TJJ 台美人 category 索引, 2025-04-26 存檔]]).
 
 ## Vault deepening note (2026-09-14, vault-only, slice 09140107-11)

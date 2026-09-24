@@ -13,3 +13,7 @@ last_reviewed: 2026-09-14
 - 西北大會頁另有 劉寶泉牧師 Rev. Clifford Liu（Philadelphia 中會）— 不同人。
 
 Captured 2026-09-14. Cited by [[people/hung-jen-liu|Rev. Hung-Jen Liu]].
+
+## Related Pages
+
+- [[people/hung-jen-liu]]
