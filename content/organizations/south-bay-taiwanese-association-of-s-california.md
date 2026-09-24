@@ -46,3 +46,4 @@ HOLD: conflict — this page lists the association as "of S. California" (Taiwan
 - [[organizations/taiwan-center||Taiwan Center]]
 - [[sources/taiwancenter-org||taiwancenter.org]]
 - Corpus re-grep 2026-09-22 (slice 09212352-4): hit set fully linked, no new absorbable material.
+- Corpus re-grep 2026-09-24 (slice 09230500-16): SKIP — hit set unchanged (585 年刊, 11851/586 名錄, enews, activities-sbta, our-journeys-357, our-journeys-350, ourjourneys37-eng, SEBTA sibling), all already linked above; both HOLDs (1971 vs 1972 founding year; "S. California" listing vs 北加州 corpus records) remain unresolved and unmerged.

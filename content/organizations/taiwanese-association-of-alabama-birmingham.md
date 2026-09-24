@@ -50,3 +50,7 @@ The Taiwanese Association of Alabama Birmingham (伯明罕臺灣同鄉會) is a 
 ## Corpus review (slice 09221000-9)
 
 - SKIP-with-reason (re-checked 2026-09-23): grep 伯明罕臺灣同鄉會 / "Taiwanese Association of Alabama" across content/works + content/articles returned zero hits; broader 伯明罕/Birmingham grep hits remain unrelated (King quotation memoir, TJJ news geography mentions). Still no chapter activity, roster, or founding facts absorbable.
+
+## Corpus review (slice 09230500-16)
+
+- SKIP-with-reason (re-checked 2026-09-24): fresh grep 伯明罕臺灣同鄉會 / "Taiwanese Association of Alabama" across content/works + content/articles returned zero hits; broader 伯明罕/Birmingham matches remain unrelated (King-quotation memoir [[works/taiwaneseamerican-org/belonging-immigration-hsin-i-cheng|Belonging & Immigration]], taiwanjustice.net news geography). No chapter activity, roster, or founding facts absorbable — verified-saturated skip.
