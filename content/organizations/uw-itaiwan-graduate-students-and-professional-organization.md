@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-24
 ---
 # UW iTaiwan Graduate Students and Professional Organization
 
@@ -24,6 +24,8 @@ The UW iTaiwan Graduate Students and Professional Organization (Chinese name: �
 - HOLD: naming conflict — the organization page carries "Organization", the corpus work record carries "Association"; treated as the same club (same Chinese name 西雅圖華大台灣研究生社), not auto-merged.
 - It is one of three UW Taiwanese-community student organizations catalogued alongside [[organizations/taiwanese-student-association-at-university-of-washington|TSAUW]] and [[organizations/taiwanese-overseas-student-association-at-the-university-of-washington|TOSAUW]].
 - Re-grep 2026-09-22: the only other corpus hit for "iTaiwan" (a 2025 Taiwan Justice article on OCAC 僑委會) refers to the OCAC's iTaiwan service window, not this club — no further absorbable material.
+
+> Deepen pass 2026-09-24 (slice 09230400-30): re-grepped (西雅圖華大台灣研究生社/iTaiwan) — hits are the club's own work record, the index, and the 2025 OCAC 僑委會 article (iTaiwan there = OCAC service window, not this club). SKIP-with-reason: no new corpus material.
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/uw-itaiwan-graduate-students-and-professional-organization/)

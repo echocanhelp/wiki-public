@@ -53,6 +53,8 @@ Dr. Long-Rong (Mark) Kao 高龍榮 – History of Taiwanese American (T.A. Archi
 
 ## From the record
 
+- 複核（TJJ-A09162345-17, 2026-09-24）：本 slice 文章 d2d01925bc6bbba3（English Pages p5, 2024-07-18 快照）正文再驗證——「US pressure on 'specific outcomes' feels unjust ◎Mark Kao 高龍榮/Taipei Time...」清單條目確認見於正文，連結為真，無錯鏈、無虛鏈；2015-03-27 條目已在庫 — SKIP，無新材料（[[articles/taiwanjustice-net/2024/20240718230535_root_d2d01925bc6bbba3|TJJ English Pages 存檔頁, 2024-07-18 快照]]）。
+
 - 再核（TJJ-A09171200-3, 2026-09-24）：本 slice 文章 d2d01925bc6bbba3（English Pages page 5, 2024-07-18 存檔）subject link 正文再驗證——「US pressure on 'specific outcomes' feels unjust ◎Mark Kao 高龍榮/Taipei Time」確認見於正文，連結為真，無錯鏈、無虛鏈；2015-03-27 條目（已含本快照連結）已在庫 — SKIP，已飽和。
 
 - 複核（TJJ-A09170400-11, 2026-09-23）：subject link 對照 slice 文章 d2d01925bc6bbba3（English Pages page 5, 2024-07-18 存檔）正文再驗證——「US pressure on 'specific outcomes' feels unjust ◎Mark Kao 高龍榮/Taipei Times」確認見於正文，連結為真；2015-03-27 條目（已含本快照連結）已在庫 — SKIP，無新材料。

@@ -6,7 +6,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-24
 ---
 # 李玉琛醫師
 
@@ -36,6 +36,7 @@ last_reviewed: 2026-09-22
 - Life story written up by 楊遠薰 in the TAH My Stories memoir series: [[works/taiwaneseamericanhistory-org/mystories281||281. 第一位台灣人心臟科專家─李玉琛醫師的故事 / 楊遠薰 / 2015-06]].
 - Additional TAH story-corpus record: [[works/taiwaneseamericanhistory-org/495-e6-9d-8e-e7-8e-89-e7-90-9b201507||495. 李玉琛 / 2015-07]].
 - Corpus records are bibliographic (band B, full text stays in the vault); beyond the "first cardiologist" distinction they add no biographical detail that conflicts with the TAH Who's Who snapshot above. Re-grep 2026-09-21 (slice 09201503-3): corpus hits remain only these three own records plus the works index — verified saturated.
+- Corpus re-grep 2026-09-24 (slice 09230400-31): hits remain only the three own records (227, 495, mystories281) plus the works index — verified saturated.
 
 ## Family
 

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-24
 ---
 # Hung-bin Ding (丁弘彬)
 
@@ -39,6 +39,8 @@ last_reviewed: 2026-09-22
 ## Family
 
 _No filled family fields on the TAH profile._
+
+> Deepen pass 2026-09-24 (slice 09230400-30): re-grepped (丁弘彬/Hung-bin Ding) across content/works + content/articles — hit set identical to the already-absorbed set (TAH #1048 + 姊妹市協會 article); SKIP-with-reason: no new corpus material.
 
 ## Sources
 - [TAH #1048 encyclopedia: 1048. Hung-bin Ding 丁弘彬 / 2016/05](https://taiwaneseamericanhistory.org/whoswho1048/)
