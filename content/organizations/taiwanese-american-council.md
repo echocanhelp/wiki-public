@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # Taiwanese American Council (紐約紐澤西台灣人社團聯合會)
 
@@ -29,6 +29,7 @@ From the community record (member memoirs):
 - The Council's successor umbrella, 大紐約區台灣人社團聯合會 (Taiwanese American Council of Greater New York), appears in the 2017 TAH directory record ([[works/taiwaneseamericanhistory-org/taiwanese-american-council-of-greater-new-york|directory entry]]).
 - The Council and its member associations (incl. NATMA, NATPA, NATWA, the hoteliers' association) later coordinated on the 1990 census campaign ([[works/taiwaneseamericanhistory-org/ourjourneys253|Our Journeys #253]]).
 - The Council appears as #38 (紐約紐澤西台灣人社團聯合會) in the SETAA 夏令會 member-group roster record ([[works/taiwaneseamericanhistory-org/ourjourneys356|Our Journeys #356]]; [[works/taiwaneseamericanhistory-org/ourjourneys356-eng|English ed.]]), and its own TAH directory story page is archived in-corpus ([[works/taiwaneseamericanhistory-org/taiwanese-american-council|TAH directory work]]).
+- Corpus re-grep 2026-09-24 (slice 09230500-12): fresh ZH+EN grep of works/+articles/ — hit set identical to the records already linked above (ourjourneys9-eng, ourjourneys09, ourjourneys356 ±eng, directory pages); verified-saturated, no new absorbable material.
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-american-council/)

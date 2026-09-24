@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # Cossette Sun (吳春紅)
 
@@ -46,6 +46,7 @@ last_reviewed: 2026-09-23
 - 2008-12-11 — recognized as a Castro Valley local hero by CA Assembly Majority Leader Alberto Torrico (Assembly District 20, Resolution No. 38), consistent with the library-community record above.
 - Countersigned the 2018 台大校友 open letter as 吳春紅(法律) — see From the record.
 - Countersigned the Pew Research Center community statement on Taiwanese Americans as a **North America Taiwanese Women's Association (NATWA)** representative — [[works/taiwaneseamerican-org/pew-research-center-taiwanese-american-statement|Pew Research Center: Taiwanese American statement]].
+- 2026-09-24 re-grep (deepen-x slice 09230500-14): fresh grep ('Cossette'/吳春紅, works+articles) — SKIP: hit set again confined to her own records (#471, #172), the works index, the Pew statement (already linked via NATWA), and the 2018 台大校友 open-letter signatory list (already in From the record); no new absorbable material, no conflicts to HOLD.
 - 2026-09-19 / 2026-09-21 re-grep: SKIP — no corpus hits beyond the works index, her own records (#471, #172), and the 2018 台大校友 open-letter signatory list already cited; no new absorbable material.
 - 2026-09-23 re-grep (deepen-x slice 09221000-13): fresh grep ('Cossette Sun'／吳春紅, works+articles) — NEW absorbable fact: she countersigned the Pew Research community statement listed as 'Sun Cossette, North America Taiwanese Women's Association' (corpus-linked to NATWA). Other hits: works index, her own records (#471, #172), the 2018 台大校友 open-letter list, and a 2022 TJJ item on NCC 委員孫雅麗 — different person (孫 ≠ 吳), not absorbed. No conflicts to HOLD.
 - 2026-09-22 re-grep (deepen-x slice 09212352-16): fresh grep ('Cossette Sun'／吳春紅, works+articles) hits again confined to the works index, her own records (#471, #172), and the 2018 台大校友 open-letter signatory list — SKIP-with-reason: no new absorbable material, no conflicts to HOLD.

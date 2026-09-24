@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # Taiwan Watch – Taiwan Affairs in U. S. Congress (美國國會台灣觀測站)
 
@@ -27,6 +27,7 @@ Taiwan Watch is an organization based in Houston, Texas that monitors and tracks
 - The organization's own TAH directory record is in the corpus: [[works/taiwaneseamericanhistory-org/taiwan-watch-taiwan-affairs-in-u-s-congress|Taiwan Watch – Taiwan Affairs in U. S. Congress 美國國會台灣觀測站]] (era 2018).
 
 ## Re-grep log
+- Corpus re-grep 2026-09-24 (slice 09230500-14): fresh ZH+EN grep — hit set identical to the saturated set above (#320, own TAH directory work page, Pew statement, A Tale of Two Islands, VOA-sourced republications citing 陳方隅 as 美國台灣觀測站 co-editor); no new attributable facts; 陳方隅 name-identity HOLD stands.
 - Corpus re-grep 2026-09-23 (slice 09221000-4) repeats the 2026-09-22 result: verified-saturated — hits limited to #320, the org's own TAH directory work page, the Pew statement, A Tale of Two Islands, and the three VOA-sourced 台灣公義報 republications already cited above; no new attributable facts; the 陳方隅 美國台灣觀測站 HOLD stands.
 
 ## Sources
