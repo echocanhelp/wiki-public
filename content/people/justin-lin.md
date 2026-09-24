@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # Justin Lin (林詣彬)
 
@@ -35,6 +35,7 @@ last_reviewed: 2026-09-23
 - Named alongside Jeremy Lin as a point of Taiwanese American visibility in the Blacklava 20-year community retrospective: [[works/taiwaneseamerican-org/on-two-decades-of-blacklava-and-celebrating-the-other|On Two Decades of Blacklava and Celebrating the Other]].
 - His TAH Who's Who encyclopedia record: [[works/taiwaneseamericanhistory-org/166-justin-lin-e6-9e-97-e8-a9-a3-e5-bd-ac|166. Justin Lin 林詣彬 (2014-12-23)]].
 - Corpus re-scan 2026-09-23 (deepen-x slice 09221400-4): fresh grep (林詣彬 / Justin Lin) returned exactly the works already linked above (#166, taiwanese-american-film, director-justin-lin-on-asian-american-filmmaking, blacklava retrospective); the retrospective's "Go Jeremy Lin! Go Justin Lin!" visibility line is covered. No new corpus facts — page saturated.
+- Corpus re-scan 2026-09-24 (slice 09230800-4): grep re-run, same four work hits (#166, taiwanese-american-film, director-justin-lin essay, blacklava retrospective) — nothing new.
 
 ## Family
 

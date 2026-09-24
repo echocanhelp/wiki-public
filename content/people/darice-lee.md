@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # Darice Lee (洪珠美)
 
@@ -43,6 +43,7 @@ last_reviewed: 2026-09-23
 - Corpus re-check 2026-09-22 (deepen-x slice 09220500-4): fresh grep of works/ + articles/ — hits unchanged (OJ #265, #352, Who's Who #859, empty taiwanjustice tag page, works/index.md). Saturated; nothing new absorbable.
 - Corpus re-check 2026-09-22 (deepen-x slice 09210800-13): fresh grep of works/ + articles/ — hits are the same memoir records already absorbed (Our Journeys #265, #352, Who's Who #859, empty taiwanjustice tag page). Nothing new absorbable.
 - Corpus re-check 2026-09-23 (deepen-x slice 09221300-14): fresh grep of works/ + articles/ — hits unchanged (OJ #265, #352, Who's Who #859, empty taiwanjustice tag page showing 'No posts to display', works/index.md). Saturated; nothing new absorbable.
+- Corpus re-check 2026-09-24 (deepen-x slice 09230800-6): fresh grep (洪珠美／Darice Lee) of works/ + articles/ — hits unchanged (OJ #265 founding-meeting & 2010-10-09 joint-conference rosters, OJ #352 TAC-WC 2011/2012 organizer record, Who's Who #859, empty taiwanjustice tag page). All absorbed above; nothing new absorbable, no conflicts to HOLD.
 
 ## Sources
 - [TAH #859 encyclopedia: 859. Darice Lee 洪珠美/2016/02](https://taiwaneseamericanhistory.org/whos-who-859-darice-lee/)

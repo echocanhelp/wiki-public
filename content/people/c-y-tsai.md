@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # C. Y. Tsai (蔡嘉寅)
 
@@ -44,6 +44,7 @@ last_reviewed: 2026-09-23
 - Attended the 1990-04-21 second preparatory meeting for NATPA's 10th-anniversary Taipei annual meeting at 賴義雄's home in Washington D.C. (with 胡勝正, 陳文彥, 吳漢南 and others); in May 1990 NATPA sent him back to Taiwan for two weeks to invite participating institutions and scholars, and he co-founded the in-Taiwan preparation committee with 吳樹民, handling venue, lodging, and reception logistics ([[works/taiwaneseamericanhistory-org/ourjourneys107|ourjourneys107]]).
 - Lectured on "以基因工程解決缺糧困境" (solving food shortages via genetic engineering) at a community program ([[works/taiwaneseamericanhistory-org/ourjourneys47|ourjourneys47]]); TAH encyclopedia entry [[works/taiwaneseamericanhistory-org/603-e8-94-a1-e5-98-89-e5-af-85-201509|603. C. Y. Tsai / 蔡嘉寅 / 2015/09]].
 - Corpus re-scan 2026-09-23 (deepen-x slice 09221400-4): fresh grep (蔡嘉寅 / C. Y. Tsai) returned exactly the works already linked above (#603, ourjourneys69/-eng, ourjourneys107, ourjourneys47); memoir text re-checked (founding 16 at Chicago 1980-02-16; General Director slate; 2nd president term from 1981-08-01; 1990-04-21 D.C. prep meeting at 賴義雄's home with 胡勝正, 陳文彥, 吳漢南, 賴淳彥, 李賢淇, 林靜竹; May 1990 two-week Taiwan invitation tour with 吳樹民) — all facts already absorbed, nothing new.
+- Corpus re-scan 2026-09-24 (deepen-x slice 09230800-4): grep re-run, same five work hits (#603, ourjourneys69/-eng, ourjourneys107, ourjourneys47) — page saturated, no new material.
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/c-y-tsai/)

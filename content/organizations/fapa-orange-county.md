@@ -6,7 +6,7 @@ tags:
   - Taiwanese-American
   - Taiwan-Center-group-member
 verification_status: published
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # Formosan Association for Public Affairs Orange County (FAPA- OC)
 
@@ -25,6 +25,8 @@ last_reviewed: 2026-09-23
 - The chapter maintained its own publication: the TAH record "FAPA/Orange County Chapter (台灣人公共事務會柑縣分會)" newsletter, published 2018-05-30 — [[works/taiwaneseamericanhistory-org/fapa-oc-newsletter|FAPA/OC Chapter Newsletter (2018)]].
 - Orange County movement milieu: the 美西夏令會 memoir (黃根深, 11/2016) recounts organizing drives into 柑縣 ("開始到聖地牙哥和柑縣，招兵買馬") and rotating meetings among Los Angeles, 柑縣, and San Diego — [[works/taiwaneseamericanhistory-org/ourjourneys265|265. 2011年美西夏令會的回顧]]; context for the chapter's environment, not a FAPA-OC-specific record.
 - **2011 唐培理致敬餐會 co-host** — the chapter joined FAPA 洛杉磯 and 聖地牙哥 chapters in hosting the 台美人向唐培理牧師、唐秋詩博士致敬餐會 on 2011-10-08 at the Atrium Hotel, Irvine (the missionaries who orchestrated 彭明敏's 1970 escape); 洛杉磯分會秘書 林文政 screened a 彭明敏 interview filmed by 蔡至兼 — [[articles/taiwanjustice-net/2024/20240302030149_root_68e130c9a64d050d|TJJ: 10082011 台美人向唐培理、唐秋詩致敬]]. First direct corpus record of a FAPA-OC joint action with sibling SoCal chapters.
+- **2021 WHA 聯合聲明 co-initiator** — 台灣人公共事務會柑縣分會 is named among the 共同發起單位 of the 南加州僑界聯合聲明 supporting Taiwan's participation in WHA (記者招待會 2021-05-13, at 洛杉磯華僑文教服務中心): [[articles/taiwanjustice-net/2021/20210616072940_2021_05_17_2021年南加州僑界支持台灣參與世界衛生大會wha聯合聲_b1d58af16c0a5e5b|TJJ: 2021年南加州僑界支持台灣參與WHA聯合聲明]]; the same statement is re-archived in the 2025 record ([[articles/taiwanjustice-net/2025/20251108183438_2021年南加州僑界支持台灣參與世界衛生大會wha聯合聲_80c0a825a7a661b6|2025 存檔]]) — the chapter's advocacy footprint extends to the broader 僑界 coalition, not only chapter-level events.
+- **2010 LA/OC public presence** — the bibliographic record 「FAPA-YPG LA/OC Christmas Boat Parade in Huntington Beach, CA」 (2010-12-12, taiwaneseamerican.org) documents FAPA's young-professional group active jointly in Los Angeles/Orange County by 2010 — [[works/taiwaneseamerican-org/fapa-ypg-laoc-christmas-boat-parade-in-huntington-beach-ca|FAPA-YPG LA/OC Christmas Boat Parade]]. Context for the LA/OC chapter network's early footprint; not an OC-chapter-specific record.
 
 ## Source Notes
 
