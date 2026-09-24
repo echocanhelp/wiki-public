@@ -8,7 +8,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # Michael Fonte (彭光理)
 
@@ -50,6 +50,8 @@ last_reviewed: 2026-09-23
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/michael-fonte/)
 
 ## From the record
+
+- 再核（TJJ-A09171200-10, 2026-09-24）：本 slice 文章 23197ebf177d0b6a「楊遠薰」標籤页第2頁正文再驗證——「彭光理與台灣的半生緣(上)(下)」（2016-04-30）收錄確認見於正文，subject 連結為真，無錯鏈、無虛鏈；2016-04-30 條目已在庫 — SKIP，已飽和。
 
 - 再核（TJJ-A09171100-7, 2026-09-24）：本 slice 兩份楊遠薰夏令會報導（29faf54b 2021快照／d2dbfe22 2024快照，同文存檔副本）正文再驗證——彭光理以民進黨華府代表處主任身分演講、以「不穩定」「不可預測」評川普之連結為真；2017-07 條目已在庫 — SKIP，無新材料。
 

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # Coen Blaauw (昆布勞)
 
@@ -35,6 +35,8 @@ For more information, please click link :My Stories >>>464. 爲何我在FAPA ? /
 
 
 ## From the record
+
+- 再核（TJJ-A09171200-10, 2026-09-24）：本 slice 文章 23197ebf177d0b6a「楊遠薰」標籤页第2頁正文再驗證——「美國對台六項保證決議案的推手 ─昆布勞與FAPA的故事」（2016-05-21/23）收錄確認見於正文，subject 連結為真，無錯鏈、無虛鏈；2016-05-21 條目已在庫 — SKIP，已飽和。
 
 - 再核（TJJ-A09170400-18, 2026-09-24）：本 slice 文章 23197ebf177d0b6a「楊遠薰」標籤页第2頁正文再驗證——「美國對台六項保證決議案的推手 ─昆布勞與FAPA的故事」（2016-05-21/23）收錄確認見於正文，subject 連結為真，無錯鏈、無虛鏈；2016-05-21 條目已在庫 — SKIP，已飽和。
 

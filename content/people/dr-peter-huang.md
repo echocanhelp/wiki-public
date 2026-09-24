@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # Dr. Peter Huang (黃勝雄醫師)
 
@@ -68,6 +68,8 @@ last_reviewed: 2026-09-23
 履歷（皆本頁既有事實，僅補連結）：1967 年臺北醫學院醫學士；後赴約翰霍普金斯大學取得醫療政策與衛生政策兩個碩士 —— 與當地台美人學生圈子相連：[[organizations/johns-hopkins-university-taiwanese-student-association||JHU Taiwanese Student Association]]。1984–1996 年任 Delaware Medical Center 神經外科主任（德拉瓦州台美人社團：[[organizations/taiwanese-association-of-america-delaware||TAA Delaware]]）；1993–2015 年任門諾醫院（Mennonite Christian Hospital，花蓮）院長，為台美人醫界投入鄉土的典範 —— 同類組織：[[organizations/north-american-taiwanese-medical-association-foundation||NAMTA Foundation]]。
 
 ## From the record
+
+- 再核（TJJ-A09171200-10, 2026-09-24）：本 slice 文章 be7ac05c58e6eab6 全文再驗證——其為該場記憶講座主講人（2-15-2017 長青教室，爆滿逾140人）確認見於正文，subject 連結為真，無錯鏈、無虛鏈；2017-02-23 條目已在庫 — SKIP，已飽和。
 
 - 複核（TJJ-A09171200-6, 2026-09-24）：本 slice 文章 23e163f71d3f2ba5（長青教室標籤頁）主體連結對照正文再驗證——「5/16 長青教室 從基因學看老人的健康與長壽 【錄影】◎黃勝雄醫師」確認見於正文，連結為真；2018-05-16 講座事實（含該文 wikilink，見標籤彙整條目）已在庫 — SKIP，無新材料。
 

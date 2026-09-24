@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # Grace Lin (吳瑞惠)
 
@@ -52,6 +52,8 @@ last_reviewed: 2026-09-23
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 ## From the record
+
+- 再核（TJJ-A09171200-10, 2026-09-24）：本 slice 文章 be7ac05c58e6eab6（黃勝雄醫師記憶講座全文存檔版）正文再驗證——文末「(吳瑞惠 紀錄)」署名確認見於正文，subject 連結為真，無錯鏈、無虛鏈；2017-02-23 條目已在庫 — SKIP，已飽和。
 
 - 再核（TJJ-A09170400-18, 2026-09-24）：本 slice 文章 be7ac05c58e6eab6（黃勝雄醫師「老人的記憶與記憶的神經科學」全文存檔版）正文再驗證——文末「(吳瑞惠 紀錄)」署名確認見於正文，subject 連結為真，無錯鏈、無虛鏈；2017-02-23 條目已在庫 — SKIP，已飽和。
 

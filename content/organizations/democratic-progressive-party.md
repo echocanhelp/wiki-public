@@ -101,6 +101,7 @@ In 2006, the party ended official recognition of factions, though they remain re
 
 ## From the record
 
+- 再核（TJJ-A09171200-10, 2026-09-24）：本 slice 文章 b63290424caedcf7（LA Times 轉載）正文再驗證——民進黨2000–2008執政期主張台獨、黨聲明維持現狀等論述確認見於正文，subject 連結為真，無錯鏈、無虛鏈；2015-04-16 條目已在庫 — SKIP，已飽和。
 
 - 複核（TJJ-A09171000-1, 2026-09-24）：本 slice 文章 c0530664ab4c2948（Taipei Times 社論轉載, 2016-04-11）正文再驗證——26 名民進黨台北市議員聯署支持特赦之記述確認見於正文，subject 連結為真，無錯鏈、無虛鏈；對應日期事實已在庫，無新材料。
 - 再核（TJJ-A09170400-18, 2026-09-24）：本 slice 文章 b63290424caedcf7（LA Times 轉載）正文再驗證——民進黨2000–2008執政期主張台獨、黨聲明維持現狀等論述確認見於正文，subject 連結為真，無錯鏈、無虛鏈；2015-04-16 條目已在庫 — SKIP，已飽和。

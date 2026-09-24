@@ -46,6 +46,8 @@ name_en: "Tsai Ing-wen"
 
 ## From the record
 
+- 再核（TJJ-A09171200-10, 2026-09-24）：本 slice 文章 b63290424caedcf7（LA Times, Ralph Jennings 轉載）正文再驗證——提名蔡英文參選2016、民調領先、首位女性領導人等論述確認見於正文，subject 連結為真，無錯鏈、無虛鏈；2015-04-16 條目已在庫 — SKIP，已飽和。
+
 - 複核（TJJ-A09171200-2, 2026-09-24）：本 slice 文章 2a3226a1b19c5a46（中央社副手專稿轉載, 2023-11-20, 2023-12-08 快照）正文再驗證——賴蕭配被解讀為「延續蔡英文路線」之記述確認見於正文，連結為真；2023-11-20 條目已在庫 — SKIP，無新材料。 ([[articles/taiwanjustice-net/2023/20231208130546_root_2a3226a1b19c5a46|TJJ 轉載中央社記者]])
 
 - 再核（TJJ-A09171200-3, 2026-09-24）：本 slice 文章 d2d01925bc6bbba3（English Pages page 5, 2024-07-18 存檔）subject link 正文再驗證——「Taiwan Opposition's Presidential Nominee Tsai Ing-wen Says Won't Change China Ties」清單條目確認見於正文，連結為真，無錯鏈、無虛鏈；2015-04-16 條目已在庫 — SKIP，已飽和。
