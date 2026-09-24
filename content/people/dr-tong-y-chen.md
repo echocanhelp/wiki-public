@@ -52,5 +52,6 @@ His material culture of the diaspora is itself a historical source: TAH encyclop
 
 ## From the record
 
+- 2018-03-14 — 於長青教室演講「摘下口罩，談麻醉醫師的角色」，聽眾心得報告刊於台灣公義報「台美人台加人」分類（2018-03-21 刊登，後附影音）（[[articles/taiwanjustice-net/2024/20240719125457_root_c691e327b9133c1a|TJJ tag 心得報告, 2024-07-19 存檔]]）。
 - 複核（TJJ-A09171200-11, 2026-09-24）：本 slice 文章 14114a89（陳東榮醫師麻醉演講心得報告, 2024-06-14 存檔）正文再驗證——本頁相關提及確認見於正文，subject 連結為真，無錯鏈、無虛鏈；對應日期事實已在庫 — SKIP，無新材料。
 
