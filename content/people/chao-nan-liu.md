@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # Chao-Nan Liu (劉照男)
 
@@ -38,6 +38,7 @@ last_reviewed: 2026-09-23
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/chao-nan-liu/)
 
 ## From the record
+- 複核（TJJ-A09171200-5, 2026-09-24）：本 slice 文章 c9dd9fb782cc99b8（Covid-19 浩劫餘生錄分類頁 2021-11-28 快照）正文再驗證——「武漢肺炎歷險記 ◎劉照男」確認見於正文文章清單，subject 連結為真，無錯鏈、無虛鏈；2021-11-28 日期事實條目已在庫 — SKIP，無新材料。
 
 - 複核（TJJ-A09170400-15, 2026-09-23）：subject link 對照 slice 文章 c48e08c7f2c3bf8d（Covid-19 分類頁 2020-11-20 存檔）正文再驗證——「武漢肺炎歷險記 ◎劉照男」確認見於正文，連結為真；2020-10-22 條目已在庫 — SKIP，無新材料。
 

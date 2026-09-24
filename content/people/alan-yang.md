@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # Alan Yang (楊維榕)
 
@@ -50,6 +50,7 @@ Corpus records place Alan Yang as a touchstone for the Taiwanese American creati
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/alan-yang/)
 
 ## From the record
+- 複核（TJJ-A09171200-5, 2026-09-24）：本 slice 文章 2ac7d75679fda7fe（台灣鄉情與文化頁 2020-06-28 快照）正文再驗證——「『虎尾』登上Netflix，台裔導演楊維榕新片談移民艱辛」確認見於正文，subject 連結為真，無錯鏈、無虛鏈；2020-04-10 日期事實條目已在庫 — SKIP，無新材料。
 
 - 複核（TJJ-A09221500-7, 2026-09-23）：本 slice 文章 2ac7d75679fda7fe（台灣鄉情與文化頁 2020-06-28 快照）正文再驗證——「『虎尾』登上Netflix，台裔導演楊維榕新片談移民艱辛」確認見於正文，subject 連結為真，無錯鏈、無虛鏈；2020-04-10 日期事實條目已在庫 — SKIP，無新材料。
 

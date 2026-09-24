@@ -7,7 +7,7 @@ tags:
   - taiwanjustice-net
   - thin-page
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # Ma Ying-jeou (馬英九)
 
@@ -29,6 +29,9 @@ last_reviewed: 2026-09-23
 - **Do not invent:** No birth data, family, or private contact on this page
 
 ## From the record
+
+- 複核（TJJ-A09171000-1, 2026-09-24）：本 slice 文章 c0530664ab4c2948（Taipei Times 社論轉載, 2016-04-11）正文再驗證——馬卸任前是否特赦陳水扁之記述確認見於正文，subject 連結為真，無錯鏈、無虛鏈；對應日期事實已在庫，無新材料。
+- 複核（TJJ-A09171200-5, 2026-09-24）：本 slice 文章 9e7164ea03c1512b〈The Madness of Ma〉正文再驗證——「Do not let Ma Ying-jeou murder Chen Shui-bian」、支持度約11%、復仇政治論述確認見於正文，subject 連結為真，無錯鏈、無虛鏈；2013-04-22 條目已在庫 — SKIP，無新材料。
 
 - 再核（TJJ-A09170400-6, 2026-09-23）：本 slice 文章 f19de8f9d3b53071 正文再驗證——Healey「莫讓馬英九謀殺陳水扁」、馬政府涉入司法與復仇政治、支持度新低與醫療釋放民意等論述確認，連結為真；2013-04-22 條目已在庫，無新材料。
 

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-24
 ---
 # Mao-ching David Huang (黃茂清)
 
@@ -56,6 +56,7 @@ Mao-ching (David) Huang 黃茂清 – History of Taiwanese American (T.A. Archiv
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/mao-ching-david-huang/)
 
 ## From the record
+- 複核（TJJ-A09171200-5, 2026-09-24）：本 slice 文章 9a66943e68f1e0ef（台美人台加人隨機頁 2024-04-21 快照 p353）正文再驗證——「台美人物誌…黃茂清律師專訪…李木通主持 20161130」確認見於正文，subject 連結為真，無錯鏈、無虛鏈；2016-11-30 日期事實條目已在庫 — SKIP，無新材料。
 
 - 複核（TJJ-A09221500-7, 2026-09-23）：本 slice 文章 9a66943e68f1e0ef（台美人台加人隨機頁 2024-04-21 快照）正文再驗證——「台美人物誌…黃茂清律師專訪…李木通主持 20161130」確認見於正文，subject 連結為真，無錯鏈、無虛鏈；2016-11-30 日期事實條目已在庫 — SKIP，無新材料。
 

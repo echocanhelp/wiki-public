@@ -7,7 +7,7 @@ tags:
   - taiwanjustice-net
   - thin-page
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # Chen Shui-bian (陳水扁)
 
@@ -29,6 +29,9 @@ last_reviewed: 2026-09-23
 - **Do not invent:** No birth data, family, or private contact on this page
 
 ## From the record
+
+- 複核（TJJ-A09171000-1, 2026-09-24）：本 slice 文章 c0530664ab4c2948（Taipei Times 社論轉載, 2016-04-11）正文再驗證——扁案審判瑕疵與特赦爭議通篇為本文主題，subject 連結為真，無錯鏈、無虛鏈；對應日期事實已在庫，無新材料。
+- 複核（TJJ-A09171200-5, 2026-09-24）：本 slice 文章 9e7164ea03c1512b〈The Madness of Ma〉正文再驗證——Jack Healey（Human Rights Action Center）論扁醫療權遭系統性怠忽、凌晨移監違反國際專家小組建議，subject 連結為真，無錯鏈、無虛鏈；2013-04-22 條目已在庫 — SKIP，無新材料。
 
 - 再核（TJJ-A09170400-6, 2026-09-23）：本 slice 文章 f19de8f9d3b53071〈Chen Shui-bian's return to prison〉正文再驗證——凌晨移監佩德診所、浴室自縊未遂、周紋華醫師立院警告與診斷、人權行動中心「slow-motion murder」譴責等論述確認見於正文，subject 連結為真，無錯鏈、無虛鏈；2013-04 條目已在庫，無新材料。
 
