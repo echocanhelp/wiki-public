@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # Dr. Cary S. Hung (洪哲勝博士)
 
@@ -32,6 +32,7 @@ _No filled family fields on the TAH profile._
 
 ## From the record
 
+- 覆核（TJJ-A09171100-2, 2026-09-24）：本 slice 文章 e3440fec3eed8107（籌謀不流血革命） 主體連結對照正文再驗證——連結為真實提及（無錯鏈、無虛鏈），對應日期事實條目（含該文 wikilink）已在庫 — SKIP，無新材料。
 - 1983 — 陳昭南's memoir records 洪哲勝 as a lead figure in the WUFI chair-election dispute: with 田台仁、黃再添、康泰山 he quit the alliance over the contested, opaque chair election, and together with the LA 美麗島週報社 circle (許信良、陳昭南 et al.) co-founded the more radical 台灣革命黨 with 洪哲勝 as 總書記; the memoir was written on the occasion of the commemorative volume《鮭台–1986-05-01 鮭潮回台破黨禁》honoring his lifelong 台一 struggle ([[articles/taiwanjustice-net/2022/20220519131411_2022_05_09_籌謀台灣_不流血革命_的獻策高手原來是他-_-陳_e3440fec3eed8107|TJJ column, 2022-05-09]]).
 
 ## Role in the Community

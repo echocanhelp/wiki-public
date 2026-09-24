@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # Carol Cho (林秋菊)
 
@@ -44,6 +44,7 @@ last_reviewed: 2026-09-23
 
 ## From the record
 
+- 覆核（TJJ-A09171100-2, 2026-09-24）：本 slice 文章 f06677a469620539（卓甫良與TAF的故事） 主體連結對照正文再驗證——連結為真實提及（無錯鏈、無虛鏈），對應日期事實條目（含該文 wikilink）已在庫 — SKIP，無新材料。
 - 再核（TJJ-A09220900-2, 2026-09-23）：本 slice 兩份楊遠薰《卓甫良與TAF的故事》TJJ存檔（b4206bcf 2024-03-02／e7aad53f 2025-03-23 repost）正文再驗證——林秋菊家世（林燕臣／林茂生／林安生）、首批天韻歌手及TAF義工母親論述之連結為真，對應條目已在庫，無新材料。
 
 - 2024-03-02 — Repost of 楊遠薰's TAF history adds that Carol and her two sisters were among the first 天韻 singers trained by missionary 彭蒙惠, that she married 卓甫良 in Chicago three weeks after arriving in late 1960, and quotes her on the volunteer mothers who staffed the TAF youth camps ([[articles/taiwanjustice-net/2024/20240302042859_root_b4206bcf0ec508d6|楊遠薰《卓甫良與TAF的故事》, TJJ 2024-03-02 repost]]).

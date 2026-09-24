@@ -8,7 +8,7 @@ tags:
   - democracy-movement
   - overseas-taiwanese
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # Hsu Hsin-liang (許信良)
 
@@ -29,6 +29,7 @@ last_reviewed: 2026-09-23
 
 ## From the record
 
+- 覆核（TJJ-A09171100-2, 2026-09-24）：本 slice 文章 e3440fec3eed8107（籌謀不流血革命） 主體連結對照正文再驗證——連結為真實提及（無錯鏈、無虛鏈），對應日期事實條目（含該文 wikilink）已在庫 — SKIP，無新材料。
 - 1989 — 陳昭南's memoir identifies 許信良 as the 「獻策高手」: when a well-known KMT envoy flew to Los Angeles that year and told reporters his mission was to meet 許信良, the two met (at the home of the envoy's friend Acadia, with one witness present) and 許信良 — first confirming the talk would reach 李總統「不會多一個字，也不會少一個字」— laid out the bloodless-revolution path: 聯合次要敵人打擊主要敵人、做大民進黨使李總統在國民黨內更安全、終極目標還政於民; the memoir also records him as co-founder of 美國美麗島週報社 and 副總書記 of the 台灣革命黨 under 洪哲勝's 總書記 ([[articles/taiwanjustice-net/2022/20220519131411_2022_05_09_籌謀台灣_不流血革命_的獻策高手原來是他-_-陳_e3440fec3eed8107|TJJ column, 2022-05-09]]).
 - 1995 — Named in the same memoir's appended account as the DPP's presidential nominee who lost the 1996 general election to 李登輝 after a fiercely contested intra-party primary against 彭明敏 ([[articles/taiwanjustice-net/2022/20220519131411_2022_05_09_籌謀台灣_不流血革命_的獻策高手原來是他-_-陳_e3440fec3eed8107|TJJ column, 2022-05-09]]).
 

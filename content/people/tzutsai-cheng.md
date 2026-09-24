@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # Tzutsai Cheng (鄭自才)
 
@@ -47,6 +47,7 @@ last_reviewed: 2026-09-23
 
 ## From the record
 
+- 覆核（TJJ-A09171100-2, 2026-09-24）：本 slice 文章 e3440fec3eed8107（籌謀不流血革命） 主體連結對照正文再驗證——連結為真實提及（無錯鏈、無虛鏈），對應日期事實條目（含該文 wikilink）已在庫 — SKIP，無新材料。
 - 2020-11-25 — FAHR 公告第44屆年會（12/5 台北）邀歷屆「鄭南榕紀念獎」得獎人回娘家，名列 2004 年得獎人（同列：1991 陳婉真、1992 張燦鍙、1997 黃文雄、2005 林樹枝、2014 蔡丁貴、2016 金恆煒、2017 鄭文龍、2018 黃帝穎、2019 陳儀深；[[articles/taiwanjustice-net/2021/20210118235211_2020_11_25_全美台灣人權協會第44屆年會暨_鄭南榕紀念獎_頒_996879ac7a006acf|TJJ, 2020-11-25]]）。
 - 2020-04-24 — 刺蔣案 50 週年，於台大歷史系學生會學術部「刺蔣案50週年線上對談」（與王文宏、周婉窈對談）表示刺蔣案的意義是台灣人為追求建國獨立刺殺等待接班的獨裁者，當前能做的是凍結追回黨產、公開政治檔案（[[articles/taiwanjustice-net/2025/20251115150231_鄭自才談424刺蔣案意義_台灣人追求獨立建國_24119694dbb384c9|TJJ，2020-04-24]]）。
 - 1966 — At the 1966-06-18 Philadelphia talks that fused 台灣獨立聯盟 (UFI) and 台灣問題研究會 (FASG) into 全美台灣獨立聯盟 (UFAI, founded 1966-07-04), Cheng attended as the Baltimore-area delegate; he had backed the earlier 麥迪遜結盟大会 by letter from Maryland, one of 21 signatories ([[works/taiwaneseamericanhistory-org/ourjourneys81|Our Journeys #81]]).

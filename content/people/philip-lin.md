@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # Philip Lin (林水泉)
 
@@ -46,6 +46,7 @@ last_reviewed: 2026-09-23
 
 ## From the record
 
+- 覆核（TJJ-A09171100-2, 2026-09-24）：本 slice 文章 e3440fec3eed8107（籌謀不流血革命） 主體連結對照正文再驗證——連結為真實提及（無錯鏈、無虛鏈），對應日期事實條目（含該文 wikilink）已在庫 — SKIP，無新材料。
 - 2022-05-09 — Listed in 陳昭南's memoir among those who came from Taiwan to the US (with 許信良、謝聰敏) and joined the LA 美麗島週報社 ([[articles/taiwanjustice-net/2022/20220519131411_2022_05_09_籌謀台灣_不流血革命_的獻策高手原來是他-_-陳_e3440fec3eed8107|TJJ column, 2022-05-09]]).
 
 - 2021-07-13 — 國家人權委員會為「林水泉遭受國家行政不法侵害人身自由案」舉行公布記者會，見台灣公義報「台美人台加人」分類（2025-02-16 存檔）—— [[articles/taiwanjustice-net/2025/20250216000009_category_taiwaneseamerican_page_2_3be67f6e82d34da7|TJJ 台美人台加人存檔頁2]]。

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # William Cho (卓甫良)
 
@@ -53,6 +53,7 @@ last_reviewed: 2026-09-23
 
 ## From the record
 
+- 覆核（TJJ-A09171100-2, 2026-09-24）：本 slice 文章 f06677a469620539（卓甫良與TAF的故事） 主體連結對照正文再驗證——連結為真實提及（無錯鏈、無虛鏈），對應日期事實條目（含該文 wikilink）已在庫 — SKIP，無新材料。
 - 再核（TJJ-A09220900-2, 2026-09-23）：本 slice 兩份楊遠薰《卓甫良與TAF的故事》TJJ存檔（b4206bcf 2024-03-02／e7aad53f 2025-03-23 repost）正文再驗證——卓甫良為MFCF/TAF共同創辦人兼第四任會長、州府核安鑑定專家等論述之連結為真，對應日期事實條目已在庫（含1987 vs 1989 任期起年HOLD），無新材料。
 
 - 2024-03-02 — Repost of 楊遠薰's profile of Cho: the 1967 lakeside retreat that grew into MFCF (1973), the 1980 rename to TAF at 楊忠正's Chicago home, his fourth presidency from 1987 (ethics-values theme), 13 years as the State of Illinois nuclear-safety certification expert, 2002 retirement, and the 鷹翅團契/營友會 initiatives after settling in Irvine ([[articles/taiwanjustice-net/2024/20240302042859_root_b4206bcf0ec508d6|楊遠薰《卓甫良與TAF的故事》, TJJ 2024-03-02 repost]]).

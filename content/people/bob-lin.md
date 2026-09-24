@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # Bob Lin (林志文)
 
@@ -38,6 +38,7 @@ last_reviewed: 2026-09-23
 
 ## From the record
 
+- 覆核（TJJ-A09171100-2, 2026-09-24）：本 slice 文章 f06677a469620539（卓甫良與TAF的故事） 主體連結對照正文再驗證——連結為真實提及（無錯鏈、無虛鏈），對應日期事實條目（含該文 wikilink）已在庫 — SKIP，無新材料。
 - 再核（TJJ-A09220900-2, 2026-09-23）：本 slice 兩份楊遠薰《卓甫良與TAF的故事》TJJ存檔（b4206bcf 2024-03-02／e7aad53f 2025-03-23 repost）正文再驗證——林志文（Bob Lin）為1986年行為準則談判青年代表、盧志華任內第二代幹事之連結為真，對應條目已在庫；文中另有同名立法候選人HOLD不變，無新材料。
 
 - 2025-03-23 — TJJ reprint of 楊遠薰's TAF history again records Bob Lin as the youth representative for the 1986 code-of-conduct negotiation and a second-generation leader brought on under president 盧志華 from 1991 ([[articles/taiwanjustice-net/2025/20250323083207_卓甫良與taf的故事-_-楊遠薰_e7aad53f3e593fde|TJJ reprint 2025-03-23]]).

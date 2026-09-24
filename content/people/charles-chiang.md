@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # Charles Chiang (江昭儀)
 
@@ -53,4 +53,5 @@ _Corpus re-scan 2026-09-22: fresh grep works/articles returns the same hits (#66
 
 ## From the record
 
+- 覆核（TJJ-A09171100-2, 2026-09-24）：本 slice 文章 e3440fec3eed8107（籌謀不流血革命） 主體連結對照正文再驗證——連結為真實提及（無錯鏈、無虛鏈），對應日期事實條目（含該文 wikilink）已在庫 — SKIP，無新材料。
 - 1980s — Named in 陳昭南's memoir as one of the in-place Los Angeles members of the '職業革命家' circle that co-founded 美國美麗島週報社 (with 許丕龍、楊加猷、鄭紹良 et al.) ([[articles/taiwanjustice-net/2022/20220519131411_2022_05_09_籌謀台灣_不流血革命_的獻策高手原來是他-_-陳_e3440fec3eed8107|TJJ column, 2022-05-09]]).

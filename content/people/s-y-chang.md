@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # S. Y. Chang (張信義)
 
@@ -39,6 +39,7 @@ _No filled family fields on the TAH profile._
 
 ## From the record
 
+- 覆核（TJJ-A09171100-2, 2026-09-24）：本 slice 文章 f06677a469620539（卓甫良與TAF的故事） 主體連結對照正文再驗證——連結為真實提及（無錯鏈、無虛鏈），對應日期事實條目（含該文 wikilink）已在庫 — SKIP，無新材料。
 - 再核（TJJ-A09220900-2, 2026-09-23）：本 slice 兩份楊遠薰《卓甫良與TAF的故事》TJJ存檔（b4206bcf 2024-03-02／e7aad53f 2025-03-23 repost）正文再驗證——張信義任TAF第二任會長（1983年起，主題認同）之連結為真，對應條目已在庫（含1983–85 vs 1983–84 任期記述差異），無新材料。
 
 - Bibliographic record: [[works/taiwaneseamericanhistory-org/whoswho1651|TAH #1651 — S. Y. Chang 張信義 (2017-05-11)]] — band-B story record in the TAH story corpus; full text stays in the vault.

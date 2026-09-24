@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # Matthias C. H. Lu (盧志華)
 
@@ -45,6 +45,7 @@ HOLD: conflict — spouse page linked as 江美惠 vs corpus work page listing �
 
 ## From the record
 
+- 覆核（TJJ-A09171100-2, 2026-09-24）：本 slice 文章 f06677a469620539（卓甫良與TAF的故事） 主體連結對照正文再驗證——連結為真實提及（無錯鏈、無虛鏈），對應日期事實條目（含該文 wikilink）已在庫 — SKIP，無新材料。
 - 再核（TJJ-A09220900-2, 2026-09-23）：本 slice 兩份楊遠薰《卓甫良與TAF的故事》TJJ存檔（b4206bcf 2024-03-02／e7aad53f 2025-03-23 repost）正文再驗證——盧志華任TAF第六任會長（1991年起）之連結為真，對應日期事實條目已在庫，無新材料。
 
 - 2024-03-02 — Repost of 楊遠薰's TAF history on TJJ reiterates 盧志華 as TAF's sixth president (from 1991) who, after the 1989 Brad Smith evaluation that the camp's future hinged on second-generation succession, first staffed the camp work with second-generation leaders such as [[people/bob-lin|林志文 Bob Lin]] ([[articles/taiwanjustice-net/2024/20240302042859_root_b4206bcf0ec508d6|楊遠薰《卓甫良與TAF的故事》, TJJ 2024-03-02 repost]]).

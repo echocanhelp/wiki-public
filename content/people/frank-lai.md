@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # Frank Lai (賴文雄)
 
@@ -75,4 +75,5 @@ _No filled family fields on the TAH profile._
 
 ## From the record
 
+- 覆核（TJJ-A09171100-2, 2026-09-24）：本 slice 文章 cbf185d4e8137928（一顆難以忘懷的台灣心） 主體連結對照正文再驗證——連結為真實提及（無錯鏈、無虛鏈），對應日期事實條目（含該文 wikilink）已在庫 — SKIP，無新材料。
 - 1966 — 廖清山's memoir: Lai, with 張燦鍙, reached San Francisco on the 自由長征, left publicity including《台灣青年》for distribution, and began a fifty-year close friendship with Liao, who did grassroots legwork for him and consulted him on hard problems ([[articles/taiwanjustice-net/2024/20240301071009_root_cbf185d4e8137928|TJJ column, 2017-09-19]]).
