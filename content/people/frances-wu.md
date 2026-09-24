@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # Frances Wu (吳涵秋)
 
@@ -53,3 +53,5 @@ _No filled family fields on the TAH profile._
 > Corpus re-scan 2026-09-22 (deepen-x slice 09210700-30): re-scanned works/ and articles/ for 吳涵秋 / Frances Wu — still only the two TAH encyclopedia mirrors (#138, #252). SKIP-deepen; nothing absorbable.
 
 > Corpus re-scan 2026-09-23 (deepen-x slice 09221300-27): re-scanned works/ and articles/ for 吳涵秋 / Frances Wu — still only the two TAH encyclopedia mirrors (#138, #252) + works index. SKIP-deepen; nothing absorbable.
+
+> Corpus re-scan 2026-09-24 (deepen-x slice 09230800-17): re-scanned works/ and articles/ for 吳涵秋 / Frances Wu — hit-set unchanged (only #138, #252 mirrors). SKIP-deepen; nothing absorbable.
