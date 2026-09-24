@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # Prof. Yang-En Cheng (鄭仰恩教授)
 
@@ -33,6 +33,8 @@ last_reviewed: 2026-09-23
 ## Family
 
 _No filled family fields on the TAH profile._
+
+- 2026-09-24 corpus re-grep (slice 09230700-5): hit-set unchanged (own TAH #1896, works index, 余杰2015 article) — SKIP-content: verified-saturated, nothing new absorbable, no conflicts to HOLD.
 
 ## Sources
 - [TAH #1896 encyclopedia: 1896. Prof. Yang-En Cheng 鄭仰恩教授](https://taiwaneseamericanhistory.org/whos-who-1896-yang-en-cheng/)
