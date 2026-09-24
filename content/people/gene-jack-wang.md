@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # Gene-Jack Wang (王俊傑)
 
@@ -54,3 +54,4 @@ _No filled family fields on the TAH profile._
 - Re-grep 2026-09-21 (slice 09201500-20): corpus hits re-confirmed = his own TAH #581 record + ourjourneys305 only (earlier re-grep slice 09190400-10); both absorbed above; no new material, no conflicts.
 - Re-grep 2026-09-22 (slice 09211500-28): corpus hits re-confirmed = own TAH #581 record + ourjourneys305 only; both absorbed above. Verified saturated. SKIP.
 - Re-grep 2026-09-23 (slice 09221000-26): same hit set (own #581 record + ourjourneys305 + works/index); the ourjourneys305 passage (王俊傑邱綉雅夫婦 listed among remaining senior St. Louis members) already absorbed above. No new material, no conflicts. Verified saturated. SKIP.
+- Re-grep 2026-09-24 (slice 09230700-31): same hit set (own #581 record + ourjourneys305 + index). Verified saturated. SKIP.

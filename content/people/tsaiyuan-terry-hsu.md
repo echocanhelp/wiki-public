@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # Tsaiyuan Terry Hsu (許財源)
 
@@ -35,7 +35,7 @@ last_reviewed: 2026-09-23
 - His legacy entered the movement record through his widow: his wife 廖明惠 authored his story for the TAH encyclopedia — [[works/taiwaneseamericanhistory-org/mystories644|TAH #644, 許財源—美國國防部軍事機密中的匿名英雄 (08/2018)]] — portraying him as an anonymous hero inside US Defense military-classified computer work at Control Data.
 - The couple jointly donated an archival collection to the archive: [[works/taiwaneseamericanhistory-org/collection-of-dr-tsaiyuan-terry-and-emily-hsu|TAH #68, Collection of Dr. Tsaiyuan (Terry) and Mrs. Emily Hsu 許財源博士和廖明惠夫婦的收藏]].
 - Who's Who entry: [[works/taiwaneseamericanhistory-org/whos-tsaiyuan-terry-hsu|TAH #1507 (02/2017)]].
-- Saturate-note (deepen-x slice 09211400-30, 2026-09-22): idempotent re-verify — corpus re-grep (ZH 許財源 + EN Tsaiyuan/Terry Hsu) matches exactly the three works already linked above (widow's memoir #644, couple's archival collection #68, Who's Who #1507) plus index listings — no additional mention; nothing further absorbable (saturated). Re-verified 2026-09-23 (slice 09221000-17): same hit set — verified-saturated.
+- Saturate-note (deepen-x slice 09211400-30, 2026-09-22): idempotent re-verify — corpus re-grep (ZH 許財源 + EN Tsaiyuan/Terry Hsu) matches exactly the three works already linked above (widow's memoir #644, couple's archival collection #68, Who's Who #1507) plus index listings — no additional mention; nothing further absorbable (saturated). Re-verified 2026-09-23 (slice 09221000-17): same hit set — verified-saturated. Re-grep 2026-09-24 (slice 09230700-31): fresh ZH+EN grep matches exactly the three works already linked (#644 widow's memoir, #68 couple's archival collection, #1507 Who's Who) + index. Verified-saturated, no conflicts.
 
 ## Family
 
