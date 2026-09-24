@@ -45,22 +45,5 @@ _No filled family fields on the TAH profile._
 
 ## From the record
 
-- 複核（TJJ-A09170400-19, 2026-09-24）：本 slice 文章 14114a89（陳東榮醫師麻醉演講心得報告頁, 2024-06-14 存檔）正文再驗證——「有一位吳永吉醫師為普世醫學全心奔走」專段確認見於正文，subject 連結為真；2018-03-21 條目已在庫，無錯鏈、無虛鏈、無新材料。
+- 複核（TJJ-A09171200-11, 2026-09-24）：本 slice 文章 14114a89（陳東榮醫師麻醉演講心得報告, 2024-06-14 存檔）正文再驗證——本頁相關提及確認見於正文，subject 連結為真，無錯鏈、無虛鏈；對應日期事實已在庫 — SKIP，無新材料。
 
-- 2018-03-21 — 陳東榮醫師在台灣公義報演講心得中專段舉他為「普世醫學」實踐者：針對全球 20 億人口缺乏基本醫療照顧，他以「更好、更便宜、更便捷、更環保」為原則研發醫療技術與用品，「帶著滿滿的愛心走天涯」（[[articles/taiwanjustice-net/2024/20240614152841_root_14114a89e393f958|TJJ 文章頁, 2024-06-14 存檔]]）。
-
-## Sources
-- [TAH #126 encyclopedia: 126. Dr. Yeongchi Wu 吳永吉醫師](https://taiwaneseamericanhistory.org/126-dr-yeongchi-wu/)
-- [TAH #122 encyclopedia: 122. Dr. Yeongchi Wu 吳永吉醫師](https://taiwaneseamericanhistory.org/whos-who-122-yeongchi-wu/)
-- [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-yeongchi-wu/)
-
-## Related Pages
-- [[organizations/tah-foundation||TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
-
-## Corpus re-grep (slices through 09160500-14, 2026-09-16)
-Re-grepped Yeongchi Wu / 吳永吉 across content/works + content/articles: hit set unchanged — his own TAH records (#67, #122, #125, #126) plus *Our Journeys* 256/291, all already absorbed into Role in the Community above. New this slice: a 台灣公義報 essay hit (陳東榮醫師 on 普世醫學) absorbed above. No conflicts. Re-verified (deepen-x slice 09160500-14, 2026-09-16).
-
-Re-verified (slice 09160600-4, 2026-09-16): re-grep hit set unchanged (own TAH records + Our Journeys 256/291), all absorbed above. No conflicts, nothing new.
-
-Re-verified (slice 09160700-2, 2026-09-16): re-grep hit set unchanged — own TAH records #67/#122/#125/#126, Our Journeys 256/291, plus the 台灣公義報 陳東榮 essay, all already absorbed in Role in the Community. No new corpus facts, no conflicts to HOLD.

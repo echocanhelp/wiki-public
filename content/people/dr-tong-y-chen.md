@@ -52,20 +52,5 @@ His material culture of the diaspora is itself a historical source: TAH encyclop
 
 ## From the record
 
-- 複核（TJJ-A09171200-6, 2026-09-24）：本 slice 文章 23e163f71d3f2ba5（長青教室標籤頁）主體連結對照正文再驗證——「【長青教室心得報告】摘下口罩，談麻醉醫師的角色 ◎ 陳東榮醫師 2018-03-14」確認見於正文，連結為真；2018-03-14 日期事實（含該文 wikilink）已在庫 — SKIP，無新材料。
+- 複核（TJJ-A09171200-11, 2026-09-24）：本 slice 文章 14114a89（陳東榮醫師麻醉演講心得報告, 2024-06-14 存檔）正文再驗證——本頁相關提及確認見於正文，subject 連結為真，無錯鏈、無虛鏈；對應日期事實已在庫 — SKIP，無新材料。
 
-- 複核（TJJ-A09170400-19, 2026-09-24）：本 slice 文章 14114a89（陳東榮醫師麻醉演講心得報告頁, 2024-06-14 存檔）正文再驗證——由緒記其演講並舉吳永吉醫師為普世醫學典範，subject 連結為真；2018-03-14／2018-03-21 條目已在庫，無錯鏈、無虛鏈、無新材料。
-
-- Re-verify 2026-09-22 (TJJ-A09220700-9): subject-link check against slice article 23e163f71d3f2ba5（標籤「長青教室」頁）—「【長青教室心得報告】摘下口罩，談麻醉醫師的角色 ◎ 陳東榮醫師 2018-03-14」確認見於正文，連結為真（該文 Subjects 的 .md 後綴連結已修正為慣例格式）；無新材料。
-
-- 2018-03-14 — 於長青教室演講「摘下口罩，談麻醉醫師的角色」，心得報告（含影片）刊於台灣公義報「台美人台加人」分類（2018-03-21 刊登）（[[articles/taiwanjustice-net/2024/20240719125457_root_c691e327b9133c1a|TJJ tag 心得報告, 2024-07-19 存檔]]；同頁另見長青教室標籤頁 [[articles/taiwanjustice-net/2024/20240523001759_root_23e163f71d3f2ba5|2024-05-23 快照]]）。
-- 2018-03-21 — 該演講心得報告之文章頁存檔（2024-06-14 快照）另記其於文中舉吳永吉醫師為「普世醫學」典範，並附其「宅男手記部落格」linksound.wordpress.com 作為一手資料來源（[[articles/taiwanjustice-net/2024/20240614152841_root_14114a89e393f958|TJJ 文章頁, 2024-06-14 存檔]]）。
-
-## Sources
-- [TAH #255 encyclopedia: 255. Dr. Tong Y. Chen 陳東榮醫師](https://taiwaneseamericanhistory.org/ota-255/)
-- [TAH #303 encyclopedia: 303. Dr. Tong Y. Chen 陳東榮醫師](https://taiwaneseamericanhistory.org/whos-who-303-tong-y-chen/)
-- [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-tong-y-chen/)
-
-## Related Pages
-- [[organizations/tah-foundation||TAH Foundation]]
-- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
