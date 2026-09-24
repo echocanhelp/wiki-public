@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # Dr. Jane H. Hsiao (許照惠博士)
 
@@ -51,3 +51,5 @@ _No filled family fields on the TAH profile._
 > Corpus re-scan 2026-09-22 (deepen-x slice 09210700-28): fresh grep confirms the same hit set (#85, #1465, ff346, mystories600, #684) — all linked; duplicate-person HOLD vs [[people/jane-h-hsiao]] stands.
 > Corpus re-scan 2026-09-22 (deepen-x slice 09220400-22): fresh grep 許照惠 / Jane H. Hsiao — same five works, all already linked. SKIP-deepen; duplicate-person HOLD stands.
 > Corpus re-scan 2026-09-23 (deepen-x slice 09221300-6): fresh grep — same five works (#85, #1465, ff346, mystories600, #684) + index, all already linked. SKIP-deepen; duplicate-person HOLD vs [[people/jane-h-hsiao]] stands.
+
+> Corpus re-scan 2026-09-24 (deepen-x slice 09230700-18): fresh grep 許照惠 / Jane H. Hsiao — same five works (#85, #1465, ff346, mystories600, #684) + index, all already linked. SKIP-deepen; duplicate-person HOLD vs [[people/jane-h-hsiao]] stands.

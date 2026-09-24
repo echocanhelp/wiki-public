@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # Jin-Sheng Jian (簡金生)
 
@@ -40,6 +40,8 @@ last_reviewed: 2026-09-23
 _Corpus re-scan 2026-09-21, re-verified 2026-09-22: same six work hits (#81, #234, #59, #272, #378, Who's Who #2229); all facts above already absorbed, nothing new._
 
 _Corpus re-scan (slice 09221200-29, 2026-09-23): fresh ZH+EN grep returns the same six work hits (#81, #234, #59, #272, #378, Who's Who #2229); excerpt review confirms every fact above is already absorbed — no new dates, roles, or orgs; no conflicts to HOLD. SKIP-content._
+
+_Corpus re-scan (slice 09230700-11, 2026-09-24): same hit set; the English parallel editions [[works/taiwaneseamericanhistory-org/ourjourneys81-eng|Our Journeys #81 (EN)]] and [[works/taiwaneseamericanhistory-org/ourjourneys272-eng|Our Journeys #272 (EN)]] corroborate the 1965 結盟大會 attendee list and the 1982-01-21 TACL 籌備小組 nomination verbatim. No new facts; no conflicts._
 
 ## Family
 

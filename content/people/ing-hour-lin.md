@@ -40,7 +40,7 @@ last_reviewed: 2026-09-24
 - Listed in the TAH Who's Who encyclopedia as record 1580 (published 2017-03-23): [[works/taiwaneseamericanhistory-org/whoswho1580|1580. Ing-Hour Lin 林英侯]].
 - 2018-07 — Signed the 台大校友 joint protest letter against 南加州台大校友會 inviting 管中閔 to give a keynote at its annual meeting, listed as 林英侯(物理); his wife 洪淑卿(藥學) also appears in the signatory list ([[articles/taiwanjustice-net/2018/20180721091303_2018_07_20_抗議-南加州台大校友會邀管中閔來年會做專題演講_a428dcebbceacf38|TJJ, 2018-07-20]]). Corroborates his NTU physics background.
 
-Corpus re-check (deepen-x 2026-09-23, slice 09221200-32): fresh Ing-Hour / 林英侯 greps return only the work pages already linked above (ourjourneys-138, ourjourneys47, whoswho1580, both TJJ articles) plus the harvest index — verified-saturated, no unabsorbed material.
+Corpus re-check (deepen-x 2026-09-23, slice 09221200-32; re-run 2026-09-24, slice 09230700-14): fresh Ing-Hour / 林英侯 greps return only the work pages already linked above (ourjourneys-138, ourjourneys47, whoswho1580, both TJJ articles) plus the harvest index — verified-saturated, no unabsorbed material.
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/ing-hour-lin/)

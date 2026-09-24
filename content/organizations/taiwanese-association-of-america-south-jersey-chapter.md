@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # Taiwanese Association of America – South Jersey Chapter (南澤西台灣同鄉會)
 
@@ -38,3 +38,5 @@ Corpus re-check 2026-09-22 (deepen-x slice 09210700-29): fresh grep of works/ an
 Corpus re-check 2026-09-22 (deepen-x slice 09220400-26): fresh grep for 南澤西 / South Jersey — hit set unchanged (chapter's own TAA record, Our Journeys 356 EN/ZH, works index), all already absorbed. SKIP-deepen.
 
 Corpus re-check 2026-09-23 (deepen-x slice 09221300-7): fresh grep for 南澤西 / South Jersey — hit set unchanged (chapter's own TAA record, Our Journeys 356 EN/ZH, works index); all already wikilinked with facts absorbed. SKIP-deepen.
+
+Corpus re-check 2026-09-24 (deepen-x slice 09230700-18): fresh grep for 南澤西 / South Jersey — hit set unchanged (chapter's own TAA record, Our Journeys 356 EN/ZH, works index); all already wikilinked with facts absorbed. SKIP-deepen.
