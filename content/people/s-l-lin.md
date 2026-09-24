@@ -37,7 +37,6 @@ last_reviewed: 2026-09-24
 
 
 ## From the record
-## From the record
 
 - 覆核（TJJ-A09170400-17, 2026-09-24）：本 slice 同文再驗證 —「果樹培育密訣-by田土伯(林幸隆)」確認見於正文，連結為真；2016-08-28 條目已在庫 — SKIP，無新材料。
 
