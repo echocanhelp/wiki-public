@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-24
 ---
 # Chiung-Hsiung Ou (歐炯雄)
 
@@ -48,6 +48,7 @@ NRC Senior Research Associate, Senior Microbiologist
 - Corpus re-check (2026-09-21, deepen-x slice 09201500-4, vault-only): hits = Our Journeys 392 / 268 / 338, TAH #140 紀錄頁, and [[works/taiwaneseamericanhistory-org/who829-chiung-hsiung-ou|TAH #829 百科頁]] (now wikilinked here) — all facts already absorbed above. Verified-saturated; SKIP.
 - 複核（deepen-x slice-09211400-7, 2026-09-22）：re-grep 歐炯雄／Chiung-Hsiung（works+articles）hit set identical — Our Journeys 392/268/338、TAH #140/#829 皆已吸收於上。SKIP, verified-saturated.
 - 複核（deepen-x slice-09220800-16, 2026-09-22）：re-grep hit set identical（OJ 392/268/338、TAH #140/#829、works index）— 無新事實可吸收。SKIP, verified-saturated.
+- 複核（deepen-x slice-09230317-16, 2026-09-24）：re-grep 歐炯雄／Chiung-Hsiung Ou（works + articles）hit set identical（OJ 392/268/338、TAH #140/#829、works index）— 無新事實可吸收。SKIP, verified-saturated.
 - HOLD: 首屆夏令會日期與地點衝突 — Our Journeys 392 記為利用美國國慶日（七月四日）假期、為期三夜四天、賓州唐寧頓四健會營區；Our Journeys 268 記為8月14–16日、YMCA營區。不自動合併。
 
 ## Sources
