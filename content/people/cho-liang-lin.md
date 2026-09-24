@@ -75,6 +75,7 @@ Facts already present in vault pages citing Cho-Liang Lin (no new sources):
 
 ## From the record
 
+- 複核（TJJ-A09170400-5, 2026-09-23）：本 slice 文章 04f32b14d8cf8f12（台灣會館會訊 #11）正文再驗證——林昭亮隨 NSO 於 Segerstrom Concert Hall 演出確認見於正文，連結為真；2016-12-12 條目（已掛本檔 wikilink）已在庫 — SKIP，無新材料。
 - 複核（TJJ-A09221500-5, 2026-09-23）：本 slice 文章 99aaa4abcb78ff6d（台美人台加人分類存檔頁, 2024-04-25 快照）正文再驗證——「呂紹嘉首度帶領NSO遠征溫哥華和洛杉磯 林昭亮助陣」標題確認見於正文，subject 連結為真，無錯鏈、無虛鏈；對應日期事實條目已在庫 — SKIP，無新材料。
 
 - 2016-12-12 — 台灣國家交響樂團（NSO）與小提琴家林昭亮在 Orange County Rennee and Henry Segaerstrom Concert Hall 演出，大洛杉磯台灣會館為共同主辦單位之一，由董事黃群雁領軍、19 個社團參與，售出 1,400 席一半門票（台灣會館會訊 #11，林榮松董事長報告 2016-12-17）—— [[articles/taiwanjustice-net/2024/20240721101942_root_04f32b14d8cf8f12|TJJ 轉載台灣會館會訊 #11（2016-12-17）]]。

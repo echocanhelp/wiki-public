@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # Overseas Taiwanese for Democracy (海外台灣青年陣線)
 
@@ -20,6 +20,7 @@ Overseas Taiwanese for Democracy (海外台灣青年陣線) is a North American 
 
 ## From the record
 
+- 複核（TJJ-A09170400-5, 2026-09-23）：本 slice 文章 2c9cb76838702dd7（楊遠薰〈海台青與黑客松〉原始存檔）正文再驗證——本篇主角組織，連結為真；2017-07-01 條目已掛本檔 wikilink 在庫 — SKIP，無新材料。
 - 2017-07-01 — OTD co-held its 2017 general meeting with the US East Coast Taiwanese Education Center (TACEC) summer camp at West Chester University, PA (7/1–4), bringing 67 participants/speakers from 17 states and running a 「黑客松」(Hackathon) workshop with projects incl. 國會觀測站、台美貿易資料庫、國家寶藏; convener 林庭安, founder-interviewee 林子堯, and fundraiser/前FAPA總會長 高龍榮 are named in 楊遠薰's column ([[articles/taiwanjustice-net/2021/20211207123518_2017_07_24_海台青與黑客松-_-楊遠薰-2017-07-24_2c9cb76838702dd7|楊遠薰 column via TJJ, 2017-07-24]]).
 
 - 2026-09-22 — 本篇主角組織——連結為真；該紀錄日期事實已見上條 [[articles/taiwanjustice-net/2024/20240523010214_root_3260cd0bdf2f84d7|海台青與黑客松, 2017-07-24刊]]，本輪不重複。

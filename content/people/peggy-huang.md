@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # Peggy Huang (黃瑞雅)
 
@@ -57,6 +57,8 @@ Re-grep 黃瑞雅|Peggy Huang: works hit set unchanged (ota-292, whos-who-2199, 
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/peggy-huang/)
 
 ## From the record
+
+- 複核（TJJ-A09170400-5, 2026-09-23）：本 slice 文章 117bdbbd9b362236（LA Times/CNA 綜合槍擊案報導）正文再驗證——黃瑞雅以約巴林達台裔市議員、加州副檢察長身分受訪並轉述教友見聞，確認見於正文，subject 連結為真，無錯鏈、無虛鏈；2022-05-16 條目已在庫 — SKIP，無新材料。
 
 - 2022-05-16 — In coverage of the Laguna Woods Geneva Presbyterian Church shooting, Huang (Yorba Linda city council member, Office of the AG deputy attorney general) was interviewed by CNA about the attack on the Irvine Taiwanese Presbyterian Church congregation her parents belong to and coordinated member support; she relayed eyewitness detail, including how guest preacher [[people/zhang-xuanxin|張宣信]] subdued the gunman ([[articles/taiwanjustice-net/2022/20220705114925_2022_05_16_台灣來美的外省第二代周文偉到台美人教會開槍殺_117bdbbd9b362236|TJJ report, 2022-05-16]]).
 

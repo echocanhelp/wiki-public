@@ -30,6 +30,7 @@ last_reviewed: 2026-09-23
 
 ## From the record
 
+- 複核（TJJ-A09170400-5, 2026-09-23）：本 slice 文章 becb39f917174438（The Economist via TJJ）正文再驗證——馬英九為史上最不受歡迎民選總統之一、9.2%支持度、ICAO突破確認見於正文，連結為真；2013-10-06 條目已在庫 — SKIP，無新材料。
 - 複核（TJJ-A09170400-15, 2026-09-23）：subject link 對照 slice 文章 ae7271322e42897b〈當直選的統派總統發飆〉正文再驗證——首位直選統派總統、缺乏術之論述確認，連結為真；2015-03-10 條目已在庫 — SKIP，無新材料。
 
 - 複核（TJJ-A09221500-7, 2026-09-23）：本 slice 文章 9e7164ea03c1512b〈The Madness of Ma〉正文再驗證——「Do not let Ma Ying-jeou murder Chen Shui-bian」、支持度約11%、復仇政治論述確認見於正文，subject 連結為真，無錯鏈、無虛鏈；2013-04-22 條目已在庫 — SKIP，無新材料。
