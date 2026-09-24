@@ -45,6 +45,8 @@ _No filled family fields on the TAH profile._
 
 ## From the record
 
+- 覆核（TJJ-A09230800-2, 2026-09-24）：subject link 對照本 slice 文章 77b0891ec24689f9（週末漫談音樂(88), 2021-10-16）正文再驗證——「好朋友 Kris（徐謙讓先生）來拜訪……努力替我們探聽了幾個可能性」確認見於正文，連結為真，無錯鏈、無虛鏈；約2019 條目（已含該文 wikilink）已在庫 — SKIP，已飽和。
+
 - 約2019 — 信雅伉儷之友人Kris徐謙讓來訪，見其五十年33轉唱片與CD收藏後允代探詢返台捐贈方案，促成全數捐贈台南市許石音樂圖書館（2021-10-15啟用）—— [[articles/taiwanjustice-net/2021/20211207112750_2021_10_16_週末漫談音樂-88_信雅古典音樂珍藏_啟用儀_77b0891ec24689f9|TJJ 週末漫談音樂(88), 2021-10-16]]。
 - Re-check 2026-09-21 (slice 09210317-23): fresh grep 徐謙讓/Kris Hsu returns the same corpus set — own [[works/taiwaneseamericanhistory-org/whos-who-2157-kris-hsu|TAH #2157]] record plus the two 信雅 donation memoirs (TJJ 週末漫談音樂 38 & 88), already fully absorbed above; no new community facts.
 - Re-verify 2026-09-22 (TJJ-A09220400-7): link-check against slice article 77b0891ec24689f9 body — mention confirmed real, dated fact above stands; no new material.

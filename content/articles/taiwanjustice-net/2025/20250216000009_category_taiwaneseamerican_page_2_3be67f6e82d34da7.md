@@ -1,4 +1,5 @@
 ---
+last_reviewed: 2026-09-24
 title: 台美人台加人
 type: article
 domain: taiwanjustice.net
