@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # Herbert T Chen (陳志青)
 
@@ -52,3 +52,4 @@ last_reviewed: 2026-09-23
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 <!-- deepen-x slice 09221000-29 (2026-09-23): re-verified — fresh ZH+EN grep; the only corpus hit is ourjourneys-369 (怀忆六十年代前期的明市), whose 陳志青 passage (wife 吳真希/Maki organist, 1963-10 marriage via Otani 牧師圈) is already fully absorbed in Role in the Community + Family. SKIP (saturated). -->
+- Re-grep 2026-09-24 (slice 09230700-32): re-confirmed — fresh ZH+EN grep returns only own TAH #316 record + ourjourneys-369 memoir passage (already absorbed in Role in the Community + Family); verified-saturated, SKIP-with-reason.
