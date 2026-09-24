@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # Taiwanese American Student Association at UC Santa Barbara
 
@@ -29,6 +29,7 @@ UCSB has been a recurring host site for Taiwanese American community activity, o
 
 HOLD: apart from the 2014 sponsorship credit (which names the group as "UCSB Taiwanese Student Assoc.", a variant of the page's TASA name — treated as the same body, variant wording noted), the corpus records document Taiwanese American activity at UCSB but do not state that TASA itself organized those events; no further direct organizational link asserted.
 - Re-grepped 2026-09-23 (slice 09221100-32): verified saturated — fresh grep surfaced only the already-cited Chuan Lyu chair record, the Anita Chang/Tongues of Heaven listing, plus ITASA (Intercollegiate Taiwanese American Student Association — a separate national body, not UCSB TASA) and unrelated Santa Barbara mentions. No new absorbable facts.
+- Re-grepped 2026-09-24 (slice 09230600-24): same hit set plus two 2025 taiwanjustice-net articles about UCSB's Center for Taiwan Studies "Made in Taiwan" storytelling project (CTS/MiT, dir. Sabine Frühstück / Silke Werth) — campus Taiwan-studies activity, no stated TASA involvement; not absorbable as org fact. SKIP: verified saturated.
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-american-student-association-at-uc-santa-barbara/)

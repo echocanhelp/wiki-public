@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # Stephanie Chuang
 
@@ -53,6 +53,8 @@ HOLD: TAH table lists "NBC News — 2011-2012 — Freelance Reporter" while the 
 2026-09-22 re-grep (Stephanie Chuang): corpus hits unchanged (whowho1395, both TaiwaneseAmerican.org profiles, Stephanie Lin page, ITASA 2009 page) — all already linked above; nothing new absorbable.
 
 2026-09-23 re-grep (deepen-x 09221200-15): fresh grep (Stephanie Chuang) returned no records beyond those already linked; surname-wide Chuang hits are unrelated persons (莊心妍, 莊招雲, Henry / Jien-Hua / Cheng-Y Chuang) — no relation asserted. Verified saturated, HOLD retained.
+
+2026-09-24 re-grep (deepen-x 09230600-24): fresh EN grep of works/ + articles/ returned the same six-file hit set (whowho1395, works index, both TaiwaneseAmerican.org profiles, Stephanie Lin page, ITASA 2009 page) — all already linked above. SKIP: verified saturated, nothing new absorbable, HOLD retained.
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/stephanie-chuang/)
