@@ -26,6 +26,8 @@ The East Bay Taiwanese Americans Community Service Center (EBTACSC) is a nonprof
 
 - 2026-09-23 語料複核（slice 09221100-20）：fresh grep（EBTACSC／東灣台美人社區服務中心）命中全部為已收錄紀錄（Our Journeys 335、TAH #20 senior-ebtacsc、「What Are You?」identity essay、index），無新事實可吸收 — SKIP-with-reason。
 
+- 2026-09-24 corpus re-grep (slice 09230600-12): fresh grep hits (OJ 335, senior-ebtacsc, "What Are You?" identity essay, index) all absorbed, no new facts. verified-saturated.
+
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/east-bay-taiwanese-americans-community-service-center-ebtacsc/)
 

@@ -40,6 +40,8 @@ Accomplishment
 - 2026-09-23 語料複核（slice 09221100-21）— 重 grep（Alvina Ling／林佑珊）命中檔案（whos-who-1680、when-love-is-more-than-words、2023/2024 prize 紀錄、this-is-why-you-must-read）均已全數吸收於上列，無新事實。SKIP-with-reason。
 - 與終身好友 Grace Lin 合作密切（儿时好友、其童書編集人），並編集 Eugenia Ling／Vivienne Ling 相關作品，見 [[works/taiwaneseamerican-org/this-is-why-you-must-read-this-is-not-my-home|This Is Why You Must Read This Is Not My Home]]。
 
+- 2026-09-24 corpus re-grep (slice 09230600-12): fresh grep hits (whos-who-1680, when-love-is-more-than-words, 2023/2024 prize records, this-is-why-you-must-read) all absorbed, no new facts. verified-saturated.
+
 ## Family
 
 - **Husband:** Stephen Colman
