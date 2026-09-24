@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # Cheng-Hou Lee (李振豪)
 
@@ -42,6 +42,7 @@ _No filled family fields on the TAH profile._
 - Corpus re-grep 2026-09-21 (slice 09210317-21): same two self-entries (286, 569) plus index listings; cohort neighbors 李捷琦 (285/568) and 陳茂生 (284/567) already implied by the 2015-09 series note. SKIP-content; nothing new absorbable.
 - Corpus re-grep 2026-09-22 (slice 09220500-29): identical hit set — self-entries 286, 569 plus index only. Saturated — verified.
 - Corpus re-grep 2026-09-23 (slice 09221400-16): identical hit set again (286, 569, index). Saturated — verified.
+- Corpus re-grep 2026-09-24 (slice 09230900-13): identical hit set (self-entries 286, 569 + index only). Verified-saturated; SKIP-content.
 
 ## Sources
 - [TAH #569 encyclopedia: 569. Cheng-Hou Lee 李振豪 / 2015/09](https://taiwaneseamericanhistory.org/569-cheng-hou-lee-%e6%9d%8e%e6%8c%af%e8%b1%aa-201509/)

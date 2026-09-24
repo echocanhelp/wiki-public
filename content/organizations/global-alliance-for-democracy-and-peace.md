@@ -6,7 +6,7 @@ tags:
   - Taiwanese-American
   - Taiwan-Center-group-member
 verification_status: published
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # Global Alliance for Democracy and Peace (GADP)
 
@@ -31,6 +31,7 @@ last_reviewed: 2026-09-23
 - 2026-09-22 corpus re-check (deepen-x slice 28): fresh grep for 全僑民主和平聯盟 / Global Alliance for Democracy across content/works + content/articles again returns zero hits — even the concerts127 bibliographic record no longer names GADP in its text. Nothing absorbable.
 - 2026-09-22 corpus re-check (deepen-x slice 13): fresh grep again returns zero hits. SKIP-with-reason: no corpus material beyond the Taiwan Center group-members listing.
 - 2026-09-23 corpus re-check (slice 09221400-21): fresh grep 全僑民主和平聯盟 / Global Alliance for Democracy across works + articles returns zero hits. SKIP-with-reason: no absorbable corpus material.
+- 2026-09-24 corpus re-check (slice 09230900-10): fresh grep 全僑民主和平聯盟 / Global Alliance for Democracy / GADP across works + articles again returns zero hits. SKIP-with-reason: no absorbable corpus material beyond the Taiwan Center group-members listing; concerts127 link above remains the only corpus anchor.
 
 ## Related Pages
 

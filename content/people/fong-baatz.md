@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # Fong Baatz
 
@@ -54,3 +54,6 @@ _No filled family fields on the TAH profile._
 
 ## Corpus check (2026-09-23, deepen-x 09221400-25)
 - SKIP (no new absorbable facts): fresh grep of works/ + articles/ for Baatz matched only the two already-linked TAH records (#24 oil painting, #1027 Who's Who) and the works index; no memoir/article mentions.
+
+## Corpus check (2026-09-24, deepen-x 09230900-10)
+- SKIP (verified saturated): fresh grep of works/ + articles/ for Fong Baatz/Baatz again matched only the two already-linked TAH records (#24 oil painting, #1027 Who's Who) plus works/index; no memoir or article mentions.
