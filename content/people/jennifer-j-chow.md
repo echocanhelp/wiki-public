@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # Jennifer J. Chow (周展儀)
 
@@ -47,6 +47,7 @@ last_reviewed: 2026-09-23
 - Community author-tour records in the taiwaneseamerican.org corpus: a talk in Washington state (2014-08-01; [[works/taiwaneseamerican-org/taiwanese-american-author-jennifer-j-chow-speaks-in-wa|author speaks in WA]]) and an oral-history interview conducted by Anna about 《The 228 Legacy》 (2014-05-19; [[works/taiwaneseamerican-org/interview-jennifer-j-chow|An Interview with Jennifer J. Chow, Author of The 228 Legacy]]).
 
 - 2026-09-23 (slice 09221100-19) corpus re-check: fresh grep「Jennifer Chow／周展儀」returns only the records already absorbed above (TAH #388, The 228 Legacy, Dragonfly Dreams, Seniors Sleuth, NATWA 2015 panel, WA talk, Seattle dinner, Anna oral-history interview, TJJ 2017 台美文藝 report) plus works/index. Author corpus saturated; no new absorbable facts, no conflicts to HOLD.
+- 2026-09-24 (slice 09230600-8) corpus re-check: fresh grep「Jennifer Chow／周展儀」works/+articles/ — hit set unchanged (388 entry, natwa2015, interview-jennifer-j-chow, TJJ 2017 台美文藝 report, works/index); all already linked above. Verified-saturated.
 
 ## Sources
 - [TAH #388 encyclopedia: 388. Jennifer J. Chow 周展儀/2015/04](https://taiwaneseamericanhistory.org/388-jennifer-j-chow-%e5%91%a8%e5%b1%95%e5%84%80201504/)

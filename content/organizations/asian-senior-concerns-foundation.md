@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # Asian Senior Concerns Foundation (亞裔銀髮族關懷基金會)
 
@@ -25,6 +25,7 @@ The Asian Senior Concerns Foundation is a nonprofit organization established in 
 - Growth recorded in the same founder memoir: by 2004 volunteers and participants kept increasing, members donated to lease a fixed gathering venue and donated furniture themselves, and the Saturday program standardized into themed weeks (birthday/经验分享, medical, social-welfare, travel/personal topics, financial planning) alongside full-day classes (computer, line dance, tai-chi, qigong, ballroom, calligraphy, ink painting, photography, chess, mahjong). The foundation also ran structured health self-management courses — chronic-disease and diabetes self-management, fall-prevention/balance, emergency preparedness, and senior safe-driving — coordinated with local social-welfare and public-health agencies, and grew into a respected local Asian-American and diaspora community group.
 - HOLD: founding-year conflict — directory snapshot says established 2001; founder 陳一仁's memoir says spring 2002. Not auto-merged; needs owner confirmation.
 - 2026-09-23 (slice 09221100-19) corpus re-check: fresh grep「Asian Senior Concerns／亞裔銀髮／陳一仁」adds only the founder's own TAH encyclopedia entry [[works/taiwaneseamericanhistory-org/whoswho1452|1452. I-Jen Chen 陳一仁 / 2017/01]] (published 2017-01-15, band B, subject page [[people/i-jen-chen]]) — absorbed as the founder-of-record link. No further first-party activity corpus; no new conflicts.
+- 2026-09-24 (slice 09230600-8) corpus re-check: fresh grep「Asian Senior Concerns／亞裔銀髮／陳一仁」adds nothing new — only the 48 directory entry, founder memoir ourjourneys281, founder page whoswho1452, and works/index, all already linked. Verified-saturated; HOLD (2001 directory vs 2002 founder memoir) maintained.
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/asian-senior-concerns-foundation/)

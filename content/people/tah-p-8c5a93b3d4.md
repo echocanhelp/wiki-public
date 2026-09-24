@@ -27,6 +27,7 @@ last_reviewed: 2026-09-24
 - The foundation's namesake 王康陸 has his own records in the corpus: [[works/taiwaneseamericanhistory-org/63-dr-kang-lu-wang-e7-8e-8b-e5-ba-b7-e9-99-b8|63. Kang-Lu Wang 王康陸]] and memorial photo album [[works/taiwaneseamericanhistory-org/photo-albums-activities-26|26. In memory of Dr. Kang-Lu Wang 王康陸博士生命禮讚]] — neither text names 王康厚 directly, so the kinship degree to the namesake is unknown (兄弟 inferred from the shared 王永宗家族 narrative in #1372; not stated).
 - 其任會長的王康陸紀念基金會是 2006 年「Taiwanese American Heritage Week」臺美人社團連署背書名單之一（同列 FAPA、FAHR、NATWA、NATPA、NATMA、TAA 等）：[[works/taiwaneseamerican-org/taiwanese-american-heritage-week|Taiwanese American Heritage Week（2006-05-13）]]。此為基金會最早有日期的公開背書紀錄；惟該文僅列基金會名，未具王康厚之名，2006 年時其是否已任會長 unknown。
 - Corpus re-verify (deepen-x 09221200-9, 2026-09-23): fresh scan works/ + articles/ — new hit taiwanese-american-heritage-week absorbed above; other hits (375 entry, 1372 narrative, TJJ obituary record) already linked.
+- Corpus re-verify (deepen-x 09230600-8, 2026-09-24): fresh scan works/+articles/「王康厚／Kang-Lu Wang」— hit set unchanged (375 entry, 63 + photo album 26 namesake records, foundation page, Our Journeys 356, 1372 narrative, TJJ obituary record), all absorbed above. Verified-saturated.
 - HOLD: conflict in the Who's Who snapshot Era 1932 (彰化鹿港 origin year) vs. the corpus's earliest record dated 2015/04 — birth year not corroborated by any memoir text; do not merge.
 
 ## Family

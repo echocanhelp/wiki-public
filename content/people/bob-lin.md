@@ -38,6 +38,8 @@ last_reviewed: 2026-09-24
 
 ## From the record
 
+- 覆核（TJJ-A09230500-2, 2026-09-24）：本 slice 兩份楊遠薰《卓甫良與TAF的故事》TJJ存檔（e7aad53f 2025-03-23 repost／b4206bcf 2024-03-02 repost）正文再驗證——林志文（Bob Lin）為1986年行為準則談判青年代表、盧志華任內第二代幹事之連結為真（無錯鏈、無虛鏈），對應條目已在庫；文中另有同名立法候選人HOLD不變 — SKIP，無新材料。
+
 - 覆核（TJJ-A09171100-2, 2026-09-24）：本 slice 文章 f06677a469620539（卓甫良與TAF的故事） 主體連結對照正文再驗證——連結為真實提及（無錯鏈、無虛鏈），對應日期事實條目（含該文 wikilink）已在庫 — SKIP，無新材料。
 - 再核（TJJ-A09220900-2, 2026-09-23）：本 slice 兩份楊遠薰《卓甫良與TAF的故事》TJJ存檔（b4206bcf 2024-03-02／e7aad53f 2025-03-23 repost）正文再驗證——林志文（Bob Lin）為1986年行為準則談判青年代表、盧志華任內第二代幹事之連結為真，對應條目已在庫；文中另有同名立法候選人HOLD不變，無新材料。
 
@@ -49,6 +51,7 @@ last_reviewed: 2026-09-24
 - His passing-of-the-torch story is told by 楊遠薰 in the TAH collection: [[works/taiwaneseamericanhistory-org/mystories207|TAH #207 — TAF的傳承故事(3) TAF的交棒─Bob Lin的故事, 2015/02]]; his own encyclopedia entry is [[works/taiwaneseamericanhistory-org/297-bob-lin-e6-9e-97-e5-bf-97-e6-96-87201502|TAH #297 — Bob Lin 林志文, 2015/02]].
 - Corpus re-scan 2026-09-22: TJJ election-list mentions of a 林志文 remain name-only matches — 2026-01-12 list: 林志文（台灣基進）; 2026-02-09 list: 林志文（一邊一國行動黨）立法委員候選人 — HOLD: identity vs the TAF leader unconfirmed, not linked and not merged. All TAH-corpus works (#207, #297, #33(2)) already absorbed above.
 - Corpus re-check 2026-09-23 (deepen-x slice 09221200-8): fresh grep for 林志文/Bob Lin across works/ + articles/ returns only works already absorbed above (#297, mystories207, ourjourneys33-2, TJJ reposts) plus the 2026 election lists (3號林志文（一邊一國行動黨） in the TJJ 區域立委當選名單 — same name-only match, HOLD unchanged). Nothing new absorbable; verified saturated.
+- Corpus re-check 2026-09-24 (deepen-x slice 09230600-4): fresh grep 林志文/Bob Lin across works/ + articles/ — hit set identical (#297, mystories207, ourjourneys33-2, TJJ TAF reposts ×3, 原民立委名單 2026-01-12, 區域立委名單 2026-02-09 name-only HOLD); verified-saturated, nothing new absorbable.
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
