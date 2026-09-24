@@ -192,6 +192,8 @@ Do not write her as a Taiwanese American biography. The U.S. nodes are **(1) TAH
 
 - Re-verify 2026-09-22 (TJJ-A09220600-2): link-check against slice article 98a26ee3b1ad82ac（台美人台加人分類頁 page 356）— 「許丕龍與許景淳父女_傳陽雜誌30週年(abt.2008)演唱會片段/2011-10-30」確認見於正文條目清單，連結為真；上方日期事實成立，無新材料。
 
+- 複核（TJJ-A09162345-23, 2026-09-23）：subject link 對照 slice 文章 2fa1c26a7ca674e2（台美人台加人 page 359）正文再驗證——父女同台演唱會條目再確認見於正文，連結為真；2011-10-30 條目（已含該文 wikilink）已在庫 — SKIP，無新材料。
+
 - 2011-10-30 — 「許丕龍與許景淳父女」傳陽雜誌30週年（abt. 2008）演唱會片段刊於 TJJ「台美人台加人」專欄（該分類頁 2024-05-27 存檔）—— [[articles/taiwanjustice-net/2024/20240527024815_root_98a26ee3b1ad82ac|TJJ 台美人台加人分類頁，2024-05-27 存檔]]；同一條目另見該分類第358頁快照 [[articles/taiwanjustice-net/2024/20240619181806_root_00354cf6ba9cf607|2024-06-19]] 及該分類第359頁快照 [[articles/taiwanjustice-net/2024/20240718233434_root_2fa1c26a7ca674e2|2024-07-18 快照]]（後者獨立佐证 Faith / Church 欄所引台福《傳揚》30週年父女同台獻詩一事）。
 - Re-verify 2026-09-22 (TJJ-A09220400-7): link-check against slice article 2fa1c26a7ca674e2 body — mention confirmed real, dated fact above stands; no new material.
 

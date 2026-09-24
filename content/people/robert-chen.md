@@ -56,6 +56,8 @@ Robert Chen (陳慕融; pinyin: Chén Mùróng) is a Taiwanese-born violinist wh
 
 - Re-verify 2026-09-23 (TJJ-A09221500-4): slice article 11aa2dfa5f64d7e4 body re-checked —「陳慕融小提琴獨奏會 – TUF 台灣名家演奏系列 1994 ◎楊子清提供」entry confirmed in body text, subject link real; the 1994 entry is already in the vault, no new material.
 
+- 複核（TJJ-A09162345-23, 2026-09-23）：subject link 對照 slice 文章 131a1c8ea05f85ea（台美人台加人 page 360）正文再驗證——「陳慕融小提琴獨奏會 – TUF 台灣名家演奏系列 1994」條目再確認見於正文，連結為真；日期事實（已含該文 wikilink）已在庫 — SKIP，無新材料。
+
 - 1994 — 「陳慕融小提琴獨奏會」入選「TUF 台灣名家演奏系列 1994」影音紀錄，由楊子清提供並存檔於台灣正義網（[[articles/taiwanjustice-net/2021/20210117071954_tag_楊子清_11aa2dfa5f64d7e4|TJJ 楊子清 tag, 2020-09-30]]）；同一紀錄亦見TJJ「台美人台加人」存檔列表頁（[[articles/taiwanjustice-net/2024/20240715153222_root_131a1c8ea05f85ea|TJJ 存檔頁, 2024-07-15 快照]]）。
 - Corpus re-grep 2026-09-20: hit set unchanged (73-rober-chen、98-robert-chen、ourjourneys294、ourjourneys301) — all absorbed above. The Pew 台美人聲明 work page also lists a 「Dr. Robert Chen, FAPA」 — a physician credential, held as same-name-different-person; not absorbed into this violinist's record.
 - Corpus re-grep 2026-09-21: hit set unchanged (73-rober-chen、98-robert-chen、ourjourneys294、ourjourneys301、works index listing、pew statement) — verified saturated; the Pew hit remains the held same-name case above.
