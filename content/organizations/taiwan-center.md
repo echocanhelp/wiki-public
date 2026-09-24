@@ -54,6 +54,7 @@ Middle years are **not** filled from memory.
 ## Role in the Community (corpus records)
 
 - 複核（TJJ-A09221200-3, 2026-09-23）：本會館為 slice 內兩篇 TJJ 報導（2020-06-23 疫情濟困、2022-09-13 24週年募款年會）之主體，subject link 經再驗證為真實對應，對應 dated 條目已在庫 — SKIP，無新材料。
+- 複核（TJJ-A09230600-1, 2026-09-24）：本 slice 文章 71a7c64663ea03b6 為 2020-06-23 疫情濟困報導之 2021-01-17 快照（雙胞胎 c05e2d53），本會館為報導主體，subject 連結為真；TJJ corpus records 節之 2020-06-23 條目已含雙胞胎 wikilink — SKIP，無新材料。
 
 From our own TAH corpus — the Center's footprint in the movement record:
 

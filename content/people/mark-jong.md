@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # Mark Jong (鍾茂萃)
 
@@ -56,3 +56,5 @@ last_reviewed: 2026-09-23
 Corpus re-check 2026-09-22 (deepen-x slice 09210700-29): fresh grep of works/ and articles/ — hit set unchanged, all hits already wikilinked with facts absorbed. SKIP-deepen; nothing new absorbable.
 
 Corpus re-check 2026-09-23 (deepen-x slice 09221300-27): fresh grep of works/ and articles/ — hit set unchanged (ourjourneys296, our-journeys-351, #740 + works index), all already wikilinked with facts absorbed. SKIP-deepen; nothing new absorbable.
+
+Corpus re-check 2026-09-24 (deepen-x slice 09230800-13): fresh grep of works/ and articles/ — hit set unchanged (ourjourneys296, our-journeys-351, #740 + works index), all already wikilinked with facts absorbed. SKIP-deepen; saturated.

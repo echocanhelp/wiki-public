@@ -25,6 +25,8 @@ last_reviewed: 2026-09-24
 
 - 複核（TJJ-A09221200-3, 2026-09-23）：subject link 經本 slice 再驗證為真實對應，對應 From-the-record 條目已在庫（無錯鏈、無虛鏈）— SKIP，無新材料。
 
+- 複核（TJJ-A09230600-1, 2026-09-24）：本 slice 文章 71a7c64663ea03b6（2021-01-17 快照）正文再驗證——「台灣會館於四月25日和台灣青年美國職涯發展協會」合辦線上移民講座確認見於正文，subject 連結為真（發展 名稱變體維持記錄，不自動合併）；對應 2020-04-25 條目（含雙胞胎 c05e2d53 與本快照 wikilink）已在庫 — SKIP，無新材料。
+
 - 2014-12-20 — First corpus footprint: the association (as 台灣青年美國職涯發展協會) has its own entry in the TAHS taiwaneseamericanhistory.org story corpus, professional category record #8 ([[works/taiwaneseamericanhistory-org/professional8|8. 台灣青年美國職涯發展協會]]) — the org existed and was community-documented at least 6 years before its Taiwan Center membership listing.
 - 2016-12-09 — A second corpus record, a dedicated story page for the association ([[works/taiwaneseamericanhistory-org/career-taiwan-usa-association|Career Taiwan Usa Association 台灣青年美國職涯發展協會]]) — both records carry the 發展 name variant, corroborating the variant noted above.
 - 2016-11-05 — the association's annual general meeting (台灣青年美國職涯發展協會年會) at Cross Campus, downtown LA, appears in the Taiwan Center community calendar ([[articles/taiwanjustice-net/2024/20240721101942_root_04f32b14d8cf8f12|TJJ calendar record]]) — evidence of an established annual meeting cadence by 2016.
