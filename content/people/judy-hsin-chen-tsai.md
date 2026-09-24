@@ -52,3 +52,4 @@ last_reviewed: 2026-09-24
 - No new absorbable facts: fresh grep of works/ and articles/ returned only the TAH/index records already wikilinked above; no memoir or article mentions beyond them.
 - Re-verified 2026-09-22 (deepen-x slice 09220500-23): hit set unchanged (TAH #845, works/index, TJJ 會訊 record — all absorbed). SKIP.
 - Re-verified 2026-09-23 (deepen-x slice 09221400-12): fresh grep of works/ + articles/ — hit set identical (TAH #845, works/index, TJJ 會訊 record); no new memoir/article mentions. SKIP.
+- Re-verified 2026-09-24 (deepen-x slice 09230800-27): fresh ZH+EN grep — hit set identical (TAH #845, works/index, TJJ 會訊 record; her name re-confirmed in the 第11屆20位個人董事 list already absorbed). No new facts. SKIP.

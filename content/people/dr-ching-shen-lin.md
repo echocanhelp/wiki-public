@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # Dr. Ching-Shen Lin (林清森醫師)
 
@@ -51,3 +51,4 @@ _No filled family fields on the TAH profile._
 > Corpus re-scan 2026-09-22 (deepen-x slice 09210800-13): re-scanned — same, Who's Who 2012 work page only. SKIP-deepen; nothing absorbable.
 > Corpus re-scan 2026-09-22 (deepen-x slice 09220500-18): re-scanned — Who's Who 2012 work page + works index only. SKIP-deepen; nothing absorbable.
 > Corpus re-scan 2026-09-23 (deepen-x slice 09221300-32): re-scanned 林清森 / Ching-Shen Lin across works/ + articles/ — Who's Who 2012 work page + works index only. SKIP-deepen; nothing absorbable.
+> Corpus re-scan 2026-09-24 (deepen-x slice 09230800-22): re-scanned 林清森 / Ching-Shen Lin — Who's Who 2012 work page + works index only, already linked. SKIP-deepen; verified-saturated.

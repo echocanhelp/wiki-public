@@ -40,6 +40,7 @@ last_reviewed: 2026-09-24
 - **Father:** [[people/strong-chuang|Strong Chuang 莊秋雄]] (黑名單人士, blacklisted from returning to Taiwan 1965) — per the 228 oral-history interview record; TAH Who's Who profile [[works/taiwaneseamericanhistory-org/whoswho1297|1297. Strong Chuang 莊秋雄]].
 
 2026-09-23 re-check (slice 09221300-22): corpus re-grep (Tim Chng / 莊騰程) returned only the own TAH #1688 record, the works index, and the works already cited above (open letter, Pew statement, 228 oral-history page) — no new absorbable facts (re-verified from the 09-21 / 09-22 passes).
+- Re-grep 2026-09-24 (slice 09230800-27): fresh ZH+EN grep of works/ + articles/ — hit set identical (own TAH #1688, works index, open letter, Pew statement, 228 oral-history page); body text re-confirmed the open-letter roles already absorbed (莊騰程 = 台美大專學生會發起人 / ITASA co-founder, moderator). Verified-saturated, SKIP-with-reason.
 
 ## Sources
 - [TAH #1688 encyclopedia: 1688. Tim Chng 莊騰程 / 05/2017](https://taiwaneseamericanhistory.org/whoswho1688/)
