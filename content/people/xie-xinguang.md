@@ -58,3 +58,5 @@ Per the same 執委 letter and 2026 Annual Meeting invitation: written reports f
 ## Corpus Check（deepen-x 2026-09-16：SKIP；re-ran slices 09170130-18 and 09170500-16 on 2026-09-17 and slice 09180131-23 on 2026-09-18：SKIP）
 
 - SKIP-with-reason: grep of content/works + content/articles for 謝信光 / Xie Xinguang / frankhsieh7 returned zero hits (re-confirmed 2026-09-20, slice 09181500-18; re-confirmed 2026-09-21, slice 09201400-22; re-confirmed 2026-09-22, slice 09211400-19; re-confirmed 2026-09-23, slice 09220900-22; earlier re-confirmations slices 09162138-23 and 09170130-18). Sole source remains the NTPC 2025/26 執委 letter on ntpc-usa.org (already absorbed above); no memoir or community material in the corpus to absorb. No facts invented.
+
+- Re-grep 2026-09-24 (slice 09230400-24): zero hits again for 謝信光 / Xie Xinguang / frankhsieh7 across works+articles; SKIP — sole source remains the NTPC 2025/26 執委 letter (already absorbed above); no memoir material to absorb. No facts invented.

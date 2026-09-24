@@ -55,3 +55,5 @@ Jan's movement service is recorded in the TAH encyclopedia corpus: his account [
 > SKIP-note (deepen-x slice 09211400-31, 2026-09-22): corpus re-grep hit set identical to records already linked above (own TAH #2284 record + index); no new absorbable corpus facts.
 
 > SKIP-note (deepen-x slice 09220900-29, 2026-09-23): corpus re-grep (詹正治|Raymond J. Jan) hit set identical again — only own TAH #2284 record + corpus index; no new absorbable corpus facts.
+
+> SKIP-note (deepen-x slice 09230400-24, 2026-09-24): corpus re-grep (詹正治|Raymond J. Jan) hit set identical again — own TAH #2284 record + corpus index only; no new absorbable corpus facts.
