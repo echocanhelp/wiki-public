@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # Cornell Taiwanese American Society
 
@@ -34,3 +34,5 @@ The Cornell Taiwanese American Society (CTAS) is a registered student organizati
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 - Corpus re-check 2026-09-23 (deepen-x slice 09221400-5): fresh grep of works/ + articles/ returns only the records already wikilinked above — verified saturated; SKIP, nothing new absorbable.
+
+- Corpus re-check 2026-09-24 (deepen-x slice 09230800-16): fresh grep works/+articles/ for 'Cornell Taiwanese'/'CTAS' returns zero hits; 伊薩卡/Cornell lineage records already absorbed above — saturated, SKIP.

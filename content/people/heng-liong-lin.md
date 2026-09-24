@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # Heng-Liong Lin (林興隆)
 
@@ -52,3 +52,5 @@ last_reviewed: 2026-09-23
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+- Corpus re-check 2026-09-24 (deepen-x slice 09230800-16): fresh grep works/+articles/ for 林興隆/Heng-Liong Lin returns only the four records already cited (897, ourjourneys12/256/338) + works index — saturated, SKIP.

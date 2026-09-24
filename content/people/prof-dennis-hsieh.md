@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # Prof. Dennis Hsieh (謝顯堂教授)
 
@@ -53,3 +53,5 @@ _No filled family fields on the TAH profile._
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - [[works/taiwaneseamericanhistory-org/whos-who-2094-dennis-hsieh||2094. Prof. Dennis Hsieh 謝顯堂教授]]
+
+- 2026-09-24 deepen-x slice 09230800-16: re-verified — fresh grep for Dennis Hsieh/謝顯堂 over works+articles returns only own TAH record #2094, the works index, and the already-cited 2018 TJJ 南加州台大校友會 roster; nothing further absorbable, SKIP.
