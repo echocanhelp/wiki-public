@@ -26,6 +26,9 @@ The Taiwanese American Student Association (TASA) at the University of Californi
 
 - **2010 — UCSD TASA named in the camp-return leadership circle.** The TACL-LID comeback camp write-up records Erica Ling as one of the organizers of the following year's West Coast ITASA conference at UC San Diego, alongside southern-California student leaders from the newly formed UCI Taiwanese American Organization — direct first-hand documentation of the UCSD chapter's role in the 2011 West Coast conference pipeline ([[works/taiwaneseamerican-org/the-return-of-tacls-leadership-in-development-camp-a-glimpse-behind-the-scenes|The Return of TACL-LID, taiwaneseamerican.org]]).
 
+## Sources
+- [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-american-student-association-at-uc-san-diego/)
+
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

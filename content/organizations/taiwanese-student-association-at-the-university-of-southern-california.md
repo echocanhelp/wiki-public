@@ -29,6 +29,7 @@ The Taiwanese Student Association (TSA) at the University of Southern California
 - 2026-09-22（slice 09212352-12）語料複核：再次 grep「USC Taiwanese／南加大台灣／usc_tsa」，命中仍僅 dumplings-usctsa 與 works index——第一手活動語料已達飽和，無新增可吸收。
 
 - 2026-09-23 (slice 09221100-19) corpus re-check: fresh grep「USC TSA／USC Taiwanese／南加大台灣／usc_tsa」returns only dumplings-usctsa (2017-05-12, already absorbed, publication date matches) and works/index. First-party activity corpus remains saturated; no new absorbable facts, no conflicts to HOLD.
+- 2026-09-24 (slice 09230600-9) corpus re-check: fresh grep「USC Taiwanese／南加大台灣／usc_tsa／Taiwanese Student Association」— new hits are sibling-chapter records only (ff33 University of Kansas 1961 第一個台灣同學會, osu-tsa, tsa-university-of-washington, tsapa), not USC TSA first-party material; dumplings-usctsa remains the sole USC-specific record, already absorbed. Verified saturated; sibling chapters belong on their own pages.
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-student-association-at-the-university-of-southern-california/)
