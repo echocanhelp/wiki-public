@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # Kico Lin (林貴香)
 
@@ -17,7 +17,7 @@ last_reviewed: 2026-09-23
 - **Era:** --
 - **Geography:** Taiwan
 - **Core roles:** entrepreneur
-- **Source:** TAH Foundation Who’s Who
+- **Source:** TAH Foundation Who's Who
 
 
 <!-- tah-tables:start -->
@@ -38,7 +38,7 @@ last_reviewed: 2026-09-23
 
 ## Sources
 - [TAH #1729 encyclopedia: 1729. Kico Lin 林貴香](https://taiwaneseamericanhistory.org/whos-who-1729-kico-lin/)
-- [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/kico-lin/)
+- [TAH Who's Who](https://taiwaneseamericanhistory.org/person/kico-lin/)
 
 ## From the record
 
@@ -50,6 +50,7 @@ last_reviewed: 2026-09-23
 - Corpus re-grep 2026-09-21 (slice 09210317-8): hits（林貴香／Kico Lin）仍僅 TAH #1729、works index 與已吸收的兩篇 TJJ 文章；無新兵錄材料 — SKIP-with-reason。
 - Corpus re-grep 2026-09-22 (slice 09212352-18): hits（林貴香／Kico Lin）仍僅 TAH #1729、works index 與已吸收的兩篇 TJJ 文章；無新兵錄材料 — SKIP-with-reason。
 - Corpus re-grep 2026-09-23 (slice 09221100-27): hits（林貴香／Kico）仍僅 [[works/taiwaneseamericanhistory-org/whos-who-1729-kico-lin|TAH #1729]]、works index 與已吸收的兩篇 TJJ 文章；無新兵錄材料 — SKIP-with-reason。
+- Corpus re-grep 2026-09-24 (slice 09230600-27): hits（林貴香／Kico Lin）仍僅 TAH #1729、works index 與已吸收的兩篇 TJJ 文章；hit set identical — 驗證已飽和 — SKIP-with-reason。
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

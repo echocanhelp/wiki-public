@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # Sheng Wang
 
@@ -16,8 +16,8 @@ last_reviewed: 2026-09-23
 - **Chinese:** —
 - **Era:** 1980
 - **Geography:** Taipei, Taiwan
-- **Core roles:** Taiwanese American (TAH Who’s Who)
-- **Source:** TAH Foundation Who’s Who
+- **Core roles:** Taiwanese American (TAH Who's Who)
+- **Source:** TAH Foundation Who's Who
 
 Sheng Wang is a Taiwanese American stand-up comedian born on January 9, 1980, in Taipei, Taiwan. He grew up in Houston, Texas, where he attended Bellaire High School, and later earned a Bachelor of Science in Business from the University of California, Berkeley in 2002.
 
@@ -46,9 +46,10 @@ Covered repeatedly by Taiwanese-American press as a stand-up comedian and commun
 
 Corpus re-verify (deepen-x 09220400-12): fresh grep of works/ + articles/ returns only the eight TaiwaneseAmerican.org records already linked above plus the works index — no memoir or community body-text mentions. SKIP-deepen; the page is press-kit-saturated and nothing new is absorbable.
 Corpus re-verify (deepen-x 09221200-13, 2026-09-23): fresh grep again returns only the same TaiwaneseAmerican.org press records plus the works index — still no memoir mentions. SKIP-deepen confirmed.
+Corpus re-verify (deepen-x slice 09230600-27, 2026-09-24): fresh grep again returns the identical hit set — own TaiwaneseAmerican.org press records plus the works index; verified-saturated, SKIP-deepen.
 
 ## Sources
-- [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/sheng-wang/)
+- [TAH Who's Who](https://taiwaneseamericanhistory.org/person/sheng-wang/)
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

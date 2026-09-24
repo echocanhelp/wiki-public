@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # Lovell Park Chang (張若葳)
 
@@ -17,9 +17,9 @@ last_reviewed: 2026-09-23
 - **Era:** -
 - **Geography:** -/NY
 - **Core roles:** educator
-- **Source:** TAH Foundation Who’s Who
+- **Source:** TAH Foundation Who's Who
 
-New York raised trumpeter Lovell Park Chang holds a Bachelor’s Degree from Manhattan School of Music and is currently pursuing for a dual degree program in Masters of Music and Master of Education from Manhattan School of Music. His most recent accomplishments include organizing a spring recital and winning the Fuchs Competition for Chamber Music. He was the recipient of the Carmine Caruso Scholarship in 2012.
+New York raised trumpeter Lovell Park Chang holds a Bachelor's Degree from Manhattan School of Music and is currently pursuing for a dual degree program in Masters of Music and Master of Education from Manhattan School of Music. His most recent accomplishments include organizing a spring recital and winning the Fuchs Competition for Chamber Music. He was the recipient of the Carmine Caruso Scholarship in 2012.
 
 <!-- tah-tables:start -->
 ## Education
@@ -45,9 +45,10 @@ _No filled family fields on the TAH profile._
 ## Sources
 - [TAH #1060 encyclopedia: 1060. Lovell Park Chang 張若葳 / 2016/06](https://taiwaneseamericanhistory.org/whoswho1060/)
 - [TAH #94 encyclopedia: 94. Lovell Park Chang 張若葳, Brass/2014/12](https://taiwaneseamericanhistory.org/musician94/)
-- [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/lovell-park-chang/)
+- [TAH Who's Who](https://taiwaneseamericanhistory.org/person/lovell-park-chang/)
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - Corpus re-verify (deepen-x 09221200-12, 2026-09-23): fresh grep 張若葳/Lovell Park Chang returns only ourjourneys306, musician94, whoswho1060 and the works index — all absorbed; SKIP-deepen.
+- Corpus re-verify (deepen-x slice 09230600-27, 2026-09-24): fresh grep 張若葳/Lovell Park Chang in works/ + articles/ returned the identical hit set (ourjourneys306, musician94, whoswho1060 + works index) — all absorbed; verified-saturated, SKIP-deepen.

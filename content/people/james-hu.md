@@ -46,6 +46,8 @@ last_reviewed: 2026-09-24
 - 2016-03-13 — 列入 TAH Foundation Who's Who 故事紀錄 #887（[[works/taiwaneseamericanhistory-org/887-james-hu-e8-83-a1-e5-ae-8f-e4-bb-81-201603|887. James Hu 胡宏仁]]）。
 - 2017-11-29 — 應邀於長青教室演講「建造健康奇蹟的食用好油」（見下方 From the record，與 2015 電腦技巧課程同屬長青教室講師群）。
 
+2026-09-24 re-check (DEEPEN-X slice 09230600-30): corpus re-grep (James Hu / 胡宏仁) hit-set unchanged — 887, ourjourneys107 課程名單, index 目錄, plus held lunchbox/James Huang false-identity hits and TJJ 黃瑞雅頁 — verified-saturated, nothing new absorbable.
+
 HOLD: 「Liyen James Hu」在 [[works/taiwaneseamerican-org/lunchbox-anne-hu-release|Lunchbox 短片新聞稿]] 中掛名攝影，是否即本頁胡宏仁不明（該片Anne Hu之母為 Chinluen Judy Hu，與本頁配偶鍾瑞美不一致）；同一連結亦見 [[works/taiwaneseamerican-org/james-huang-is-a-gleek-are-you|James Huang is a Gleek!]]（James Huang 醫師，應為另一人）。未經確認不併档。
 
 2026-09-22 re-check: corpus re-grep (James Hu / 胡宏仁) returned only the works already cited above plus a TJJ 2025-06-17 存檔頁（[[articles/taiwanjustice-net/2025/20250617074648_黃瑞雅_peggy-huang_希望能代表共和黨角逐2020聯邦眾議院_ab91fdd76a1f4c9c|黃瑞雅選舉短片報導]]），該處「James Huang醫師」為黃瑞雅丈夫（主治醫師），屬另一人，不併档 — no new absorbable facts.
