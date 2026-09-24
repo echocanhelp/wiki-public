@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # Kai-Chin Chan (詹凱臣)
 
@@ -50,6 +50,8 @@ last_reviewed: 2026-09-23
 
 - 本頁 corpus 檢索（2026-09-21 slice 09210317-10、2026-09-22 slice 09212352-32 複核）：content/works + content/articles 命中均為本人 own page（TAH #1154）、works index 或已收錄之 TJJ 兩筆紀錄（2021 WHA 聯合聲明共同發起人名單、2013-04-12 核四表決反對名單），無新可吸收社群事實 — SKIP。
 - 2026-09-23 slice 09221300-30 複核：命中集合不變（TAH #1154、works index、2021 WHA 聲明兩筆、2013 核四表決一筆），全部已收錄 — SKIP。
+
+- 2026-09-24 slice 09230800-23 複核：命中集合不變（TAH #1154、works index、2021 WHA 聲明兩筆、2013 核四表決一筆），全部已收錄 — SKIP。
 
 ## Sources
 - [TAH #1154 encyclopedia: 1154. Kai-Chin Chan  詹凱臣 / 2016/07](https://taiwaneseamericanhistory.org/whoswho1154/)

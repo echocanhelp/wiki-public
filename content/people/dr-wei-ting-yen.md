@@ -50,3 +50,4 @@ _No filled family fields on the TAH profile._
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - 2026-09-22 deepen-x slice 09220600-1: VERIFY — fresh grep of works+articles (顏維婷 / Wei-Ting Yen / Tammy Yen) returns only the four files already cited here (own profile record, Sunflower Movement article, CNN/TJJ carry, index). No new corpus facts.
 - 2026-09-23 deepen-x slice 09221400-6: VERIFY — fresh grep hits unchanged (whos-who-2279, Sunflower Movement article, CNN/TJJ carry, index). SKIP-content — saturated, nothing new absorbable.
+- 2026-09-24 deepen-x slice 09230800-21: VERIFY — fresh grep (顏維婷 / Wei-Ting Yen / Tammy Yen) hits unchanged (whos-who-2279, Sunflower Movement acknowledgment, CNN/TJJ carry, index). SKIP-content — saturated, nothing new absorbable.
