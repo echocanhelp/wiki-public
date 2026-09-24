@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # Taiwanese-American Irvine’s Eagle Brotherhood Group -Irvine (台美人)
 
@@ -33,3 +33,4 @@ The Taiwanese-American Irvine’s Eagle Brotherhood Group is a fraternity organi
 - SKIP (no new absorbable facts): recheck confirms the sole corpus hit is the TAH directory entry [[works/taiwaneseamericanhistory-org/taiwanese-american-irvines-eagle-brotherhood-group|TAH #8]] already recorded above; no memoir or article mentions. Fresh 2026-09-22 grep: other 台美人 matches in the corpus are wikilinks from unrelated pages (Taiwan Center member lists, FPCA-LA, 傳統週), not facts about this group.
 - Re-verify 2026-09-22 (slice 09220500-26): fresh grep 老鷹兄弟姐妹會/Eagle Brotherhood across works+articles returns only the TAH #8 directory entry and the works index — still SKIP, nothing absorbable.
 - Re-verify 2026-09-23 (slice 09221300-30): identical hit set (TAH #8 directory entry + works index only) — still SKIP, nothing absorbable.
+- Re-verify 2026-09-24 (slice 09230800-26): fresh grep 老鷹兄弟姐妹會/Eagle Brotherhood across works+articles returns only the TAH #8 directory entry and the works index — still SKIP, nothing absorbable.
