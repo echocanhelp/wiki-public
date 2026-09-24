@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # Carol Ou Lin (歐春美)
 
@@ -35,6 +35,7 @@ Accomplishment
 - 2024–2025 — CEO of the San Diego Taiwan Center and the Taiwanese American Foundation of San Diego; her leadership journey is documented in a TAH oral-history interview ([[works/taiwaneseamericanhistory-org/video-184|CEO of SDTC/TAF – 歐春美's Journey]], 2025-08-01).
 - Her own TAH encyclopedia profile records are held in the vault in two editions: [[works/taiwaneseamericanhistory-org/whos-who-847-carol-ou-lin|847. Carol Ou Lin 歐春美 (Who's Who, 2016-02-28)]] and [[works/taiwaneseamericanhistory-org/ota-129|129. Carol Ou Lin 歐春美 (OTA record, 2018-10-05)]]. Note: both records also cross-mention [[people/prof-carol-ou|Prof. Carol Ou]] — a distinct person; no merge.
 - Corpus re-grep 2026-09-23 (slice 09220900-22): hit set (ourjourneys154/162, video-184, mystories-752, ota-129, whos-who-847) now fully absorbed and wikilinked; no new memoir material.
+- Corpus re-grep 2026-09-24 (slice 09230400-9): SKIP-with-reason — hit set identical to 2026-09-23 (ourjourneys154/162, video-184, mystories-752, ota-129, whos-who-847), all already absorbed and wikilinked; saturated.
 
 ## Family
 
