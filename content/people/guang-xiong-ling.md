@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # Guang-Xiong Ling (凌光雄)
 
@@ -52,3 +52,4 @@ _No filled family fields on the TAH profile._
 
 ## Worklog
 - 2026-09-23 deepen-x slice 09221400-22: verified-saturated re-verify — fresh grep of works/+articles returns only files already cited on this page; no new corpus facts to absorb.
+- 2026-09-24 deepen-x slice 09230900-14: re-verify — fresh grep hit set identical (ourjourneys268, ourjourneys217, own whos-who-2228, index); content-level check of both Our Journeys memoirs confirms every 凌光雄 passage (和平契友 network, 1970夏令會 attendance, email-source role, 華府教會建堂 delegation vs 王清珠) is already absorbed above. Verified-saturated.

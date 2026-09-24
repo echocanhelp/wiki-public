@@ -244,7 +244,6 @@ Notable quotes and mentions of **吳澧培** in Taiwan Justice articles:
 ## From the record
 
 - 複核（TJJ-A09230800-1, 2026-09-24）：文章 2a543ddc9301b7b3（會館24週年募款年會公告） 正文再驗證——本頁 subject 連結確認見於正文（無錯鏈、無虛鏈）；對應 From-the-record 條目已在庫 — SKIP，無新材料。
-- 複核（TJJ-A09230800-1, 2026-09-24）：文章 2a543ddc9301b7b3（會館24週年募款年會公告） 正文再驗證——本頁 subject 連結確認見於正文（無錯鏈、無虛鏈）；對應 From-the-record 條目已在庫 — SKIP，無新材料。
 - 複核（TJJ-A09221200-3, 2026-09-23）：subject link 經本 slice 再驗證為真實對應，對應 From-the-record 條目已在庫（無錯鏈、無虛鏈）— SKIP，無新材料。
 
 - 2015-10-12 — His own memoir preface (TJJ republication): in 2004, as he renounced US citizenship to settle back in Taiwan, House Judiciary Committee chair Howard Berman and two other representatives filed a 「向吳澧培致敬」(Tribute to Li Pei Wu) resolution entered into the Congressional Record — a rare honor; he also recalls that without his friendship with 謝聰敏 he would never have joined the island 台獨 movement ([[articles/taiwanjustice-net/2024/20240425080646_root_9a39a754d2a3b236|TJJ, 2015-10-12]]).

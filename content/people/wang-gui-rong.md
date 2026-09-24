@@ -104,7 +104,6 @@ He left behind two books, including his memoirs published in 1999. His three son
 ## From the record
 
 - 複核（TJJ-A09230800-1, 2026-09-24）：文章 2a543ddc9301b7b3（會館24週年募款年會公告） 正文再驗證——本頁 subject 連結確認見於正文（無錯鏈、無虛鏈）；對應 From-the-record 條目已在庫 — SKIP，無新材料。
-- 複核（TJJ-A09230800-1, 2026-09-24）：文章 2a543ddc9301b7b3（會館24週年募款年會公告） 正文再驗證——本頁 subject 連結確認見於正文（無錯鏈、無虛鏈）；對應 From-the-record 條目已在庫 — SKIP，無新材料。
 - 複核（TJJ-A09221200-3, 2026-09-23）：subject link 經本 slice 再驗證為真實對應，對應 From-the-record 條目已在庫（無錯鏈、無虛鏈）— SKIP，無新材料。
 
 - 2022-09-13 — A TJJ notice for the 大洛杉磯台灣會館 24th-anniversary fundraising gala records that 洛杉磯台美人 built the Taiwan Center thanks to permanent honorary chairman 王桂榮 and his wife 王賽美 generously donating the center's land and building in 1998 — the founding basis of the organization's 2018 rebuilding-fund campaign ([[articles/taiwanjustice-net/2022/20220924222953_2022_09_13_10-22大洛杉磯台灣會館-24-週年募款年會_紀政擔任主講_2a543ddc9301b7b3|TJJ, 2022-09-13]]).
