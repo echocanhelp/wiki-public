@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # Dr. Charles Tu (杜武青博士)
 
@@ -47,6 +47,7 @@ last_reviewed: 2026-09-23
 
 
 - Corpus re-sweep 2026-09-23 (slice 09221200-27): exact-name grep 杜武青 / "Charles Tu" over works+articles returns the same set already absorbed above (own TAH records 601/247/680, WHA 聯合聲明 2021 + 2025 republications); no new memoir material. SKIP-with-reason: saturated.
+- Corpus re-sweep 2026-09-24 (slice 09230700-8): exact-name grep 杜武青 / "Charles Tu" returns the identical hit set ([[works/taiwaneseamericanhistory-org/whos-charles-tu|601]], [[works/taiwaneseamericanhistory-org/ota-247|247]], [[works/taiwaneseamericanhistory-org/680-global-monthly-news-prof-charles-w-tu|680]], works index, WHA 聯合聲明 2021 + 2025 republications); SKIP — verified-saturated.
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/charles-tu/)

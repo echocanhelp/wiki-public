@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # June Wang (王純純)
 
@@ -43,6 +43,7 @@ Accomplishment
 - 西雅圖組織面：NATWA、台美人公民權促進會（TACL）、台美人協會（TAA）西雅圖分會共同創辦人，FAPA 西雅圖分會首任會長，民主黨 precinct committee officer（TAH harvest table）。
 - Corpus re-scan 2026-09-22 (slice 09220400-14): all corpus hits (TAH #297, #832, #236, #292 黃滿玉 memoir, site index) already absorbed above; no further memoir material, nothing new absorbable.
 - 2026-09-23 deepen-x slice 09221200-18: SKIP — verified-saturated. Fresh ZH+EN greps return only the same five records (#297, #832, #236, #292, index); HOLD above stands; no new material.
+- 2026-09-24 deepen-x slice 09230700-8: SKIP — verified-saturated. Fresh ZH+EN greps (王純純／June Wang) return the identical set (#297, #832, #236, #292 黃滿玉 memoir, works index); no new material; HOLD (2013 convention vs work-236 misdated title) stands.
 
 ## Sources
 - [TAH #297 encyclopedia: 297. June W. Wang 王純純](https://taiwaneseamericanhistory.org/ota-297/)

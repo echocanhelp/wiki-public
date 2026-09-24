@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # C. Y. Wang (王振源)
 
@@ -32,6 +32,7 @@ C. Y. Wang (王振源) is listed in the TAH Foundation Who’s Who Taiwanese Ame
 _No filled family fields on the TAH profile._
 
 - 再核（DEEPEN-X 09221300-16, 2026-09-23）：本 slice 全新語料檢索（王振源／C. Y. Wang）命中集合不變——僅 TAH #1577、works index、《好國好民》兩篇 TJJ 放映紀錄；無新材料。verified-saturated。
+- 再核（DEEPEN-X 09230700-8, 2026-09-24）：本 slice 全新語料檢索（王振源／C. Y. Wang）命中集合不變——僅 [[works/taiwaneseamericanhistory-org/whoswho1577|TAH #1577]]、works index、《好國好民》兩篇 TJJ 放映紀錄；無新材料。SKIP — verified-saturated。
 ## Sources
 - [TAH #1577 encyclopedia: 1577. C. Y. Wang 王振源 / 2017/03](https://taiwaneseamericanhistory.org/whoswho1577/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/c-y-wang/)

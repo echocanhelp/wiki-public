@@ -55,6 +55,8 @@ last_reviewed: 2026-09-23
 - Corpus re-grep 2026-09-22 (DEEPEN-X slice 09212352-21): hit-set identical (same 5 files: #1312, Our Journeys 79, publication 111, works index, 2018 TJJ letter), all already cited above. SKIP-content, nothing new absorbable.
 - Corpus re-grep 2026-09-23 (DEEPEN-X slice 09221100-30): hit-set identical (same 5 files), all already cited above. Verified saturated — nothing new absorbable.
 
+- Corpus re-grep 2026-09-24 (DEEPEN-X slice 09230700-7): hit-set identical (same 5 files: whoswho1312, ourjourneys79, publications-111, works index, 2018 TJJ letter), all already cited above. Verified saturated — nothing new absorbable.
+
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

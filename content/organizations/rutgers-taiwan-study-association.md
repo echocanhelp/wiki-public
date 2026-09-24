@@ -37,6 +37,8 @@ HOLD: name conflict — the 2005 handbook and Our Journeys list render the group
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/rutgers-taiwan-study-association/)
 
+- Corpus re-check 2026-09-24 (deepen-x slice 09230700-7): fresh grep returns the four records already cited plus one incidental hit — Rutgers 化工所 as the narrator's alma mater in the memoir [[works/taiwaneseamericanhistory-org/67-nylon-panty-hose-journey-sue-shwu-lih-lin-e5-b0-bc-e9-be-8d-e7-b5-b2-e8-a5-aa|67. Nylon Panty & Hose Journey]] (personal career memoir, not the club). Verified saturated.
+
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
