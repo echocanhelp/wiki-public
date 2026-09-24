@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # Ye-Ming Wu (吳怡明)
 
@@ -53,3 +53,5 @@ last_reviewed: 2026-09-23
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+- 2026-09-24 deepen-x slice 09230800-11: re-verified — fresh grep returns exactly the linked set (ourjourneys24/53 ±EN, whoswho1184, index); verified-saturated, SKIP.
