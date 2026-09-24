@@ -52,3 +52,4 @@ President and Chairman, Formosan Chamber of Commerce, Orange County
 
 
 slice 09220800-20 re-grep (2026-09-22): corpus hit set identical to links already absorbed above — no new absorbable facts.
+Re-grep 2026-09-24 (slice 09230317-21): fresh 黃三榮 / San John Huang grep of content/works + content/articles returns the same six records (own TAH profile #1976, ourjourneys29/-eng, ourjourneys244, ourjourneys186/-eng, ourjourneys272) plus an index listing — all already linked above; SKIP, verified-saturated.

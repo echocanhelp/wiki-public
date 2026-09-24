@@ -29,6 +29,8 @@ Corpus re-grep 2026-09-22 (slice 09211400-16): hit set identical — own directo
 
 Corpus re-grep 2026-09-22 (slice 09220800-24): hit set identical (own directory record + works/index listing only; the prior false positive did not recur this pass). Verified saturated; nothing absorbable, no conflicts to hold.
 
+Corpus re-grep 2026-09-24 (slice 09230317-21): hit set identical — own directory record, works/index listing, and the recurring BTBA false positive (an "BTBA" substring inside the archive_digest hash of an unrelated 川普/烏克蘭 taiwanjustice-net article). SKIP, verified-saturated; nothing absorbable, no conflicts to hold.
+
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/boston-taiwanese-biotechnology-association/)
 

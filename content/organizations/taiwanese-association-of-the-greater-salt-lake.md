@@ -30,6 +30,7 @@ Absorbed from the TAH story corpus (salt-lake/utah re-grep 2026-09-18). The chap
 
 - Re-verified 2026-09-22 (slice 09211400-10): re-grep of content/works + content/articles returns only the records already linked/absorbed above — no new corpus mention; SKIP-with-reason (verify-saturated). The TAGSL work page is a bibliographic record only (no named subjects to absorb); president/ecosystem facts above unchanged.
 - Re-verified 2026-09-22 (slice 09220800-22): fresh 大鹽湖 / Greater Salt Lake / TAGSL grep returns only the own TAH record already linked — SKIP, saturated.
+- Re-verified 2026-09-24 (slice 09230317-21): re-grep again returns only the own TAH record plus the works/index listing — no new corpus mention; SKIP, verified-saturated.
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-association-of-the-greater-salt-lake/)
