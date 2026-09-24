@@ -48,3 +48,5 @@ HOLD: this page and [[organizations/taiwanese-american-lawyers-association-tala|
 
 
 - Re-verified 2026-09-22 (slice 09220800-20): corpus re-grep (ZH+EN) hit set unchanged — all records already absorbed and wikilinked above; saturated.
+
+- Re-verified 2026-09-24 (slice 09230317-19): corpus re-grep (ZH+EN+TALA) hit set unchanged — ourjourneys29 (ZH+EN), the two TAHS bibliographic records, TAH #318, works index — all already absorbed and wikilinked above; saturated. HOLD vs [[organizations/taiwanese-american-lawyers-association-tala|台美律師協會]] duplicate stands.

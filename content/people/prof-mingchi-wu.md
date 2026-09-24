@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-19
+last_reviewed: 2026-09-24
 ---
 # Prof. Mingchi Wu (吳明基教授)
 
@@ -51,6 +51,7 @@ last_reviewed: 2026-09-19
 - 覆核（TJJ-A09171200-4, 2026-09-24）：本 slice 四篇 TJJ 文章（台美人台加人索引 6f2b431c、NATMA 標籤頁 08b82976、挺港聯合聲明 53455d7e、台美人分類頁 1a2bdc08）正文再驗證——subject 連結為真實提及，無錯鏈、無虛鏈；對應日期事實（含該文 wikilink）已在庫 — SKIP，無新材料。
 - 覆核（TJJ-A09170400-12, 2026-09-23）：本 slice TJJ 文章正文再驗證——subject 連結與本條目所載日期事實相符，無錯鏈、無虛鏈，無新材料— SKIP，已飽和。
 - 2019-09-03 — Signed the overseas Taiwanese organizations' joint statement 「拒一國兩制！海外台灣人社團：支持香港反對中國暴政」 as 「臺灣獨立建國聯盟美國本部 主席吳明基教授」 / "Professor Ming Chi Wu, Chair, World United Formosans for Independence-USA", alongside NATPA, FAPA, WTC, WFTA, TAA, NATWA and two memorial foundation officers ([[articles/taiwanjustice-net/2024/20240221122756_root_53455d7e13136092|TJJ record, 2024-02-21 archive of the 2019-09-04 posting]]).
+- 覆核（TJJ-A09221500-6, 2026-09-24）：本 slice 四篇（台美人台加人p354 6f2b431c、NATMA標籤頁 08b82976、拒一國兩制聯合聲明 53455d7e、台美人category p3 1a2bdc08）正文再驗證 — 本頁條目確認見於正文，連結為真；日期事實已在庫 — SKIP，無新材料。
 
 ## Family
 

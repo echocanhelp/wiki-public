@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-16
+last_reviewed: 2026-09-24
 ---
 # Prof. Ben Liu (劉斌碩教授)
 
@@ -48,6 +48,7 @@ Accomplishment
 - Corpus re-grep 2026-09-16 (slice -14): hit set unchanged — own records [[works/taiwaneseamericanhistory-org/whos-who-736-ben-liu|#736]] / [[works/taiwaneseamericanhistory-org/ota-288|#288]], works index, and the 2019 joint statement [[articles/taiwanjustice-net/2024/20240221122756_root_53455d7e13136092|聯合聲明]]. All already absorbed; nothing new, no conflicts to HOLD.
 - Corpus re-grep 2026-09-16 (slice 09160400-11): hit set unchanged — own records #736/#288, works index, and the same 2019 挺港 joint statement. All facts already absorbed in Role in the Community above; nothing new, no conflicts to HOLD.
 - Corpus re-grep 2026-09-16 (slice 09160500-10): hit set unchanged — own records [[works/taiwaneseamericanhistory-org/whos-who-736-ben-liu|#736]] / [[works/taiwaneseamericanhistory-org/ota-288|#288]] (band B), works index, and the 2019 挺港 joint statement [[articles/taiwanjustice-net/2024/20240221122756_root_53455d7e13136092|聯合聲明]] (byline 陳文成教授紀念基金會 會長劉斌碩 教授). Content-level context confirms nothing beyond the bullets above;维持 SKIP-with-reason, no conflicts to HOLD.
+- 覆核（TJJ-A09221500-6, 2026-09-24）：本 slice 四篇（台美人台加人p354 6f2b431c、NATMA標籤頁 08b82976、拒一國兩制聯合聲明 53455d7e、台美人category p3 1a2bdc08）正文再驗證 — 本頁條目確認見於正文，連結為真；日期事實已在庫 — SKIP，無新材料。
 - Corpus re-grep 2026-09-16 (slice 09160600-1): hit set unchanged — own records #736/#288, works index, and the 2019 挺港 joint statement (EN byline 「Professor Ben Liu, President, Professor Chen Wen-Chen's Memorial Foundation」). All already absorbed in Role in the Community above; nothing new, no conflicts to HOLD.
 
 ## Family

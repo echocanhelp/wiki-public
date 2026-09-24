@@ -66,5 +66,18 @@ Role anchors already on this page's TAH table map to vault pages: [[organization
 
 ## From the record
 
-- 複核（TJJ-A09171200-11, 2026-09-24）：本 slice 文章 9de57bf0（「林榮松」標籤頁, 2023-05-30 存檔）正文再驗證——本頁所涉條目確認見於清單，subject 連結為真，無錯鏈、無虛鏈；對應日期事實已在庫 — SKIP，無新材料。
+- 覆核（TJJ-A09171200-4, 2026-09-24）：本 slice 四篇 TJJ 文章（台美人台加人索引 6f2b431c、NATMA 標籤頁 08b82976、挺港聯合聲明 53455d7e、台美人分類頁 1a2bdc08）正文再驗證——subject 連結為真實提及，無錯鏈、無虛鏈；對應日期事實（含該文 wikilink）已在庫 — SKIP，無新材料。
+- 複核（TJJ-A09170400-19, 2026-09-24）：本 slice 文章 9de57bf0（「林榮松」標籤頁 2023-05-30 存檔）正文再驗證——十一条林榮松條目確認見於清單，subject 連結為真（楊熾勳、邱俊杰同場影音條目亦確認）；無錯鏈、無虛鏈；下方日期事實已在庫 — SKIP，無新材料。
 
+- 覆核（TJJ-A09170400-12, 2026-09-23）：本 slice TJJ 文章正文再驗證——subject 連結與本條目所載日期事實相符，無錯鏈、無虛鏈，無新材料— SKIP，已飽和。
+- 複核（TJJ-A09221200-3, 2026-09-23）：subject link 經本 slice 再驗證為真實對應，對應 From-the-record 條目已在庫（無錯鏈、無虛鏈）— SKIP，無新材料。
+
+- 2020-06-23 — A TJJ report on the Taiwan Center's pandemic relief names Lin, as 執行長, delivering 250 medical face shields to Whittier Hospital Medical Center on 2020-06-01 (accepted by CEO Rich Castro), and co-leading with 副董事長 蔡漢成 the digitization of the Taiwan Center's historical audio/video archives ([[articles/taiwanjustice-net/2021/20210117070450_2020_06_23_大洛杉磯台灣會館_疫情擋不住人情_濟困扶危挺_71a7c64663ea03b6|TJJ, 2020-06-23]]; 同一紀錄另見 [[articles/taiwanjustice-net/2020/20201126153300_2020_06_23_大洛杉磯台灣會館_疫情擋不住人情_濟困扶危挺_c05e2d53013fcd15|c05e2d53 快照]]).
+- 2022-09-13 — A TJJ notice for the 大洛杉磯台灣會館 24th-anniversary gala identifies 林榮松 as 執行長 and former 董事長 who organized the 2018 rebuilding-fund campaign under then-董事長 田詒鴻 ([[articles/taiwanjustice-net/2022/20220924222953_2022_09_13_10-22大洛杉磯台灣會館-24-週年募款年會_紀政擔任主講_2a543ddc9301b7b3|TJJ, 2022-09-13]]).
+- 2017-02-25 — TJJ's 「林榮松」 tag page (2023-05-30 snapshot) lists his opening address as 大洛杉磯台灣會館董事長 at the 228 七十週年紀念會 (2017-02-25, 洛僑中心) among eleven dated items cred him spanning 2015–2022, including his 2022 statement condemning the 台灣人教會槍擊案 as a hate crime and his 2016 photo essay of the 蔡英文就職典禮 ([[articles/taiwanjustice-net/2023/20230530153327_tag_林榮松_9de57bf0b60501a7|TJJ tag 林榮松, 2023-05-30 存檔]]).
+- 2018-04-18 — TJJ's NATMA tag index credits 「北美洲台灣人醫師協會(NATMA)國際義診 播愛宏都拉斯 ◎林榮松醫師攝影報導 2018-04-18」 — his photo report of NATMA's Honduras medical mission ([[articles/taiwanjustice-net/2021/20211205054918_tag_natma_08b829765b2a5939|TJJ Tag: NATMA, 2021-12-05 存檔]]).
+- 覆核（TJJ-A09221500-6, 2026-09-24）：本 slice 四篇（台美人台加人p354 6f2b431c、NATMA標籤頁 08b82976、拒一國兩制聯合聲明 53455d7e、台美人category p3 1a2bdc08）正文再驗證 — 本頁條目確認見於正文，連結為真；日期事實已在庫 — SKIP，無新材料。
+
+## Related Pages
+- [[organizations/tah-foundation||TAH Foundation]]
+- [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

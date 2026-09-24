@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # Susan Y. J. Chang (程韻如)
 
@@ -49,6 +49,7 @@ Accomplishment
 - 覆核（TJJ-A09171200-4, 2026-09-24）：本 slice 四篇 TJJ 文章（台美人台加人索引 6f2b431c、NATMA 標籤頁 08b82976、挺港聯合聲明 53455d7e、台美人分類頁 1a2bdc08）正文再驗證——subject 連結為真實提及，無錯鏈、無虛鏈；對應日期事實（含該文 wikilink）已在庫 — SKIP，無新材料。
 - 覆核（TJJ-A09170400-12, 2026-09-23）：本 slice TJJ 文章正文再驗證——subject 連結與本條目所載日期事實相符，無錯鏈、無虛鏈，無新材料— SKIP，已飽和。
 - 2019-09-03 — Signed the overseas Taiwanese organizations' joint statement 「拒一國兩制！海外台灣人社團：支持香港反對中國暴政」 as 「世界台灣人大會 會長程韻如」 (Susan Chang, World Taiwanese Congress), placing her in the 2019 cohort of diaspora org leaders supporting Hong Kong ([[articles/taiwanjustice-net/2024/20240221122756_root_53455d7e13136092|TJJ record, 2024-02-21 archive of the 2019-09-04 posting]]).
+- 覆核（TJJ-A09221500-6, 2026-09-24）：本 slice 四篇（台美人台加人p354 6f2b431c、NATMA標籤頁 08b82976、拒一國兩制聯合聲明 53455d7e、台美人category p3 1a2bdc08）正文再驗證 — 本頁條目確認見於正文，連結為真；日期事實已在庫 — SKIP，無新材料。
 
 - Corpus re-check (程韻如 / Susan Chang, works+articles, slice-09220800-3 pass 2026-09-22): fresh grep returns only the records already linked above (#60, #160 incl. EN copies, #249, #298, TAH #190/#1531, Susan Chang Lee collision) — no new absorbable facts; verify-saturated.
 
