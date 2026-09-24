@@ -8,7 +8,7 @@ tags:
   - novelist
   - literature
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-23
 ---
 # Shawna Yang Ryan (楊小娜)
 
@@ -90,6 +90,8 @@ Yang Ryan's profile in the 2017 TAHS publication was prepared by the Taiwanese A
 - [[people/franklin-ping-cheng||Franklin Ping Cheng (程炳成) — TAHS president]]
 
 ## From the record
+
+- 再核（TJJ-A09170400-6, 2026-09-23）：本 slice 文章 15fc4a3e5664504e 正文再驗證——楊小娜（《Green Island》作者）WaPo op-ed「1949 起算即第二次消音」論述確認，連結為真；2016-12-09 條目已在庫，無新材料。
 
 - 再核（TJJ-A09221500-3, 2026-09-23）：本 slice 文章 15fc4a3e5664504e 正文再驗證——楊小娜 WaPo op-ed（《Green Island》作者）連結為真；2016-12-09 條目已在庫，無新材料。
 
