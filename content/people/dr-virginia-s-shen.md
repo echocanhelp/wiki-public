@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # Dr. Virginia S. Shen (李香蘭教授)
 
@@ -31,6 +31,8 @@ Dr. Virginia S. Shen 李香蘭教授 – History of Taiwanese American (T.A. Arc
 - Corpus re-grep (slice 09221100-23, 2026-09-23): hit set unchanged — own record [[works/taiwaneseamericanhistory-org/whos-who-1947-virginia-s-shen|TAH #1947]], the singer-film mention in [[works/taiwaneseamericanhistory-org/ourjourneys279|Our Journeys #279]] (confirmed: 「李香蘭的世界」 there is filmmaker 陳玫君's documentary, about the WWII singer, not her), plus index. Nothing new absorbable — SKIP (verified-saturated).
 
 <!-- tah-tables:start -->
+- 2026-09-24 corpus re-grep (slice 09230600-10): hit set unchanged — own record TAH #1947, singer-film mention in Our Journeys #279, index. SKIP (verified-saturated).
+
 ## Education
 - Fu Jen Catholic Univ. (輔仁大學) — 1977 — B.A., Spanish
 - Instituto Caro y Cuervo, Bogotá, Colombia — 1985 — M.A., Latin American Literature

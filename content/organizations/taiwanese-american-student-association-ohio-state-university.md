@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # Taiwanese American Student Association @ Ohio State University
 
@@ -26,6 +26,7 @@ The Taiwanese American Student Association (TASA) at The Ohio State University i
 - **2010-12** — a Taiwanese American movement speaker's year-end recap records the **Midwest Asian American Student Union (MAASU) conference at OSU** as one of the campus stops on a nationwide tour that also included ITASA conferences (MIT, UT Austin, UCSD), TANG camps, and the TAF conference — corroborating OSU's place in the Midwest Taiwanese/Asian-American student circuit in the contemporary era: [[works/taiwaneseamerican-org/on-discovering-passion-purpose|On Discovering Passion & Purpose (Taiwanese American Press)]].
 - HOLD: whether today's registered TASA continues that 1970-era organization is not established on first-party sources; the founding year remains unstated. The corpus records the campus Taiwanese student presence under three names across eras (Taiwanese Association ~1970s, 哥城台灣同學會 2016, TASA present) without a first-party lineage statement.
 - 2026-09-23 corpus re-grep (slice 09221200-19): new hits were incidental OSU mentions (OSU Haters tumblr racism coverage, Buckeye fandom, Ohio State University Press memoir review, Cleveland library memoir) — not absorbable for this org.
+- 2026-09-24 corpus re-grep (slice 09230600-10): hit set unchanged — the three absorbable works (Our Journeys 76 EN, Our Journeys 376, OSU 會訊) plus incidental OSU mentions (Brian Yang Buckeye fandom, OSU Haters racism coverage). SKIP (verified-saturated).
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-american-student-association-ohio-state-university/)
