@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # Taiwanese American Professionals Austin
 
@@ -30,6 +30,8 @@ TAP-ATX is one chapter of the national TAP network documented across the TAH sto
 2026-09-22（slice 09220500-9）語料再grep（TAP-ATX／Taiwanese American Professionals Austin／TAP Austin）：content/works 與 content/articles 零命中 — 本會社尚未進入回憶錄語料，僅存 TAH 目錄頁出處；上列姊妹會社連結與辨析維持現況，無新事實可吸收。SKIP-content。
 
 2026-09-23（slice 09221300-10）再grep（TAP-ATX／Taiwanese American Professionals Austin／TAP Austin）：content/works 與 content/articles 仍零命中，維持 SKIP-content。
+
+2026-09-24（slice 09230700-22）再grep（TAP-ATX／Taiwanese American Professionals Austin／TAP Austin）：content/works 與 content/articles 仍零命中，維持 SKIP-content。
 
 Disambiguation (checked against corpus, not absorbed): in the FAPA founding memoir ([[works/taiwaneseamericanhistory-org/ourjourneys65-eng|Our Journeys 65]], [[works/taiwaneseamericanhistory-org/ourjourneys65|oj65 中文版]]) the acronym "TAPA" was the briefly-proposed 1985 proto-name of FAPA (Taiwanese Association for Public Affairs) — unrelated to Austin TAP. Austin's older community association, the TAA regional chapter [[organizations/austin-taiwanese-association|Austin Taiwanese Association]], is a distinct organization with its own corpus records ([[works/taiwaneseamericanhistory-org/newsletter-of-austin-taiwanese-association|newsletter of ATA]], [[works/taiwaneseamericanhistory-org/t-shirt-of-austin-taiwanese-association|ATA T-shirt]]).
 

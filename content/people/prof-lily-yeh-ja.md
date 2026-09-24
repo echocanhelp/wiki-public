@@ -38,6 +38,7 @@ Corpus absorption (deepen-x 2026-09-19): the community record preserves her high
 Fresh re-grep 2026-09-21 (deepen-x slice 09210400-9): the only works/articles hits remain #1907, #33, and #315 — all already absorbed above; no additional corpus material.
 Re-grepped 2026-09-22 (slice 09212352-27): hits unchanged (#1907, #33, #315 + index). SKIP-with-reason: no new corpus facts this pass.
 Re-grepped 2026-09-23 (slice 09221300-6): hits unchanged (#1907, #33, #315 + index). SKIP-content (verified-saturated).
+Re-grepped 2026-09-24 (slice 09230700-23): hits unchanged (#1907, #33, #315 + index). SKIP-content (verified-saturated).
 
 ## Family
 

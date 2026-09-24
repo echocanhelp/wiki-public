@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # Stephanie Wan-Hsiu Lan (藍婉修)
 
@@ -36,6 +36,7 @@ Stephanie Wan-Hsiu Lan 藍婉修 – History of Taiwanese American (T.A. Archive
 - HOLD: corpus re-grep 2026-09-21 — hits are limited to her own entries 222/462 plus works/index.md; the only other corpus match is 藍婉倩 (without 修), an independent 里港鄉長 candidate in 屏東 covered in [[articles/taiwanjustice-net/2023/20230129181950_2022_10_28_柯文哲屏東輔選同框蘇清泉-合體不談藍白合_a3169ae10f6957fe|this 2022 TJJ election report]] — different person, do not merge. No further corpus record.
 
 ## Worklog
+- 2026-09-24 deepen-x slice 09230700-22: re-verified — fresh grep 藍婉修/Stephanie Wan-Hsiu Lan returns only own entries 222/462 + works index, all already absorbed. Nothing new.
 - 2026-09-23 deepen-x slice 09221300-9: re-verified — fresh grep 藍婉修/Stephanie Wan-Hsiu Lan returns only own entries 222/462 + works index, all already absorbed. Nothing new.
 - 2026-09-22 deepen-x slice 09220400-32: re-verified — fresh grep 藍婉修/Stephanie Wan-Hsiu Lan returns only own entries 222/462 and the works index, all already absorbed above; 藍婉倩 (里港鄉長 candidate) remains a different person. Nothing new.
 
