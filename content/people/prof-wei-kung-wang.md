@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # Prof. Wei-Kung Wang (王維恭教授)
 
@@ -46,6 +46,7 @@ _No filled family fields on the TAH profile._
 - 2026-09-22 deepen-x slice 09210600-21: re-verified — fresh grep returns the identical hit set (whoswho1995, works index). Still no memoir/letter/community record naming him; nothing new absorbable.
 - 2026-09-22 deepen-x slice 09220500-17: re-verified — same hit set (whoswho1995, works index only); still no memoir/article mention; nothing new absorbable.
 - 2026-09-23 deepen-x slice 09221300-31: re-verified — fresh grep returns the identical hit set (whoswho1995, works index); verified-saturated, nothing new absorbable.
+- 2026-09-24 deepen-x slice 09230800-24: re-verified — fresh grep identical (whoswho1995, works index only); SKIP, nothing new absorbable.
 
 ## Sources
 - [TAH #1995 encyclopedia: 1995. Prof. Wei-Kung Wang 王維恭教授](https://taiwaneseamericanhistory.org/whoswho1995/)
