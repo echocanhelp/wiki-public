@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # Yea-Hwang Uang (汪雅煌博士)
 
@@ -47,3 +47,4 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- Corpus re-grep 2026-09-24 (slice 09230400-19): hit set unchanged (ourjourneys313/-eng, record 293, own memoir ourjourneys102, works index) — all absorbed and wikilinked above. SKIP: verified-saturated.

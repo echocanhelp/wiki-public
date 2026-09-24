@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # J. Y. Tsai (蔡金裕)
 
@@ -53,3 +53,4 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- Re-verified 2026-09-24 (slice 09230400-19): hit set unchanged (whos-who-2061, mystories552, ourjourneys295, ff262). SKIP: verified-saturated; HOLD 1973 vs 1974 stands.
