@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # Dr. Stephen Chen (陳貞華博士)
 
@@ -51,3 +51,4 @@ _No filled family fields on the TAH profile._
 > SKIP-note (deepen-x slice 09211400-31, 2026-09-22): corpus re-grep hit set identical to the absorbed/HOLD set (own TAH #1690, ourjourneys260 speaker mention, 陳欽明醫師 same-name works); no new community facts this pass. Verified saturated.
 
 - Re-grep 2026-09-23 (slice 09220900-26): fresh ZH+EN corpus re-grep of works/articles returned the same hit set as the absorbed/HOLD set — verified saturated, no new community facts this pass. SKIP-with-reason. Hit set: own whos-who-1690 record, ourjourneys260 speaker mention, works index, and the 陳欽明醫師 same-name works under HOLD; the 19-things-2019 hit is a Stephen Colbert false positive.
+- Re-grep 2026-09-24 (slice 09230400-14): fresh ZH+EN corpus re-grep 陳貞華/Stephen Chen of works+articles returned the identical absorbed/HOLD set (own whos-who-1690, ourjourneys260 講員 mention, works index, 陳欽明醫師 same-name works under HOLD) — verified saturated, no new community facts this pass. SKIP-with-reason.

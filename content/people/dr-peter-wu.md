@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # Dr. Peter Wu (吳平原博士)
 
@@ -57,3 +57,4 @@ HOLD: [[works/taiwaneseamericanhistory-org/ourjourney-343|343. Taiwanese America
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 - Re-grep 2026-09-23 (slice 09220900-26): fresh ZH+EN corpus re-grep of works/articles returned the same hit set as the absorbed/HOLD set — verified saturated, no new community facts this pass. SKIP-with-reason. Hit set: own whos-who-2268 record, our-journeys-370, ourjourney-343 (吳宗憲 HOLD), pew statement, works index; 彼得 false positives unchanged.
+- Re-grep 2026-09-24 (slice 09230400-14): fresh ZH+EN corpus re-grep 吳平原/Peter Wu returned the same absorbed/HOLD set (whos-who-2268, our-journeys-370 sing-along/petition material, ourjourney-343 吳宗憲 HOLD, pew statement, works index) — verified saturated, no new community facts this pass. SKIP-with-reason.

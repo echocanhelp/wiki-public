@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # Masa C. W. Chen (陳正旺)
 
@@ -51,4 +51,4 @@ The orchid years are documented in the community's own story corpus: [[works/tai
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - Re-check 2026-09-22 (slice 09211500-15): re-grep 陳正旺/Masa still returns only TAH #2294, mystories-765 and the harvest index — all already cited; section remains current.
-- Re-check 2026-09-23 (slice 09220900-19): fresh re-grep 陳正旺 / Masa C. W. Chen / Masa Chen returns the same three files (TAH #2294, mystories-765, harvest index) — all cited above; verified-saturated.
+- Re-check 2026-09-24 (slice 09230400-14): fresh re-grep 陳正旺/Masa returns the same cited set (TAH #2294, mystories-765, harvest index); the extra raw hits ourjourneys74-eng and the 福岡滅門案 news article are 'Masao'/romanization false positives, not this person — verified saturated, no new material. SKIP-with-reason.
