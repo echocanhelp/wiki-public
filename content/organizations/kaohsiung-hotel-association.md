@@ -27,6 +27,7 @@ last_reviewed: 2026-09-24
 - **姊妹會 TWMASOC 語料脈絡**（slice 09210317-17 grep）— 姐妹會南加州台灣旅館業同業公會（TWMASOC）在本語料另有系統性紀錄：1974 年創會、自述「第一個台美人商業團體」（[[works/taiwaneseamericanhistory-org/ff261|TAH #261 / 08/1974]]）、會刊《旅館通訊》（[[works/taiwaneseamericanhistory-org/publications387|#387 / 1997-12]]）、會員故事蔡金裕（[[works/taiwaneseamericanhistory-org/mystories552|#552 / 06/2017]]）及活動紀錄（[[works/taiwaneseamericanhistory-org/activities-of-thmasc|TWMASOC 的活動]]）。高雄市旅館同業公會本身在 works+articles 僅 ourjourneys295 一處提及，無其他可吸收事實。
 - **2026-09-22 語料複核（slice 09212352-20）** — 重 grep（高雄市旅館／Kaohsiung Hotel）結果不變：works+articles 僅 [[works/taiwaneseamericanhistory-org/ourjourneys295|Our Journeys 295]] 一處，姊妹會原文已核（該 memoir 自述創會約三十年、先後與高雄市旅館業同業公會、台北市旅館同業公會、美南台灣旅館業同業公會、美國旅館業協會、加州旅館業協會締結姐妹會），無新事實可吸收。SKIP-with-reason。
 - **2026-09-23 語料複核（slice 09221100-21）** — 重 grep（高雄市旅館／Kaohsiung Hotel）命中仍僅 ourjourneys295 一處，無新事實。SKIP-with-reason。
+- **2026-09-24 語料複核（slice 09230600-16）** — 重 grep（高雄市旅館／Kaohsiung Hotel）命中仍僅 ourjourneys295 一處，姊妹會脈絡已吸收，無新事實。SKIP-with-reason。
 
 ## Source Notes
 
