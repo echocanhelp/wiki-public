@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # Fang-Ming Chen (陳芳明博士)
 
@@ -38,6 +38,11 @@ Author of numerous publications on Taiwanese history and literature, including w
 - **Own TAH literary work** — 461. 荊棘的閘門 (文學, 1992/09), archived in the TAH corpus: [[works/taiwaneseamericanhistory-org/461-e8-8d-8a-e6-a3-98-e7-9a-84-e9-96-98-e9-96-80-e9-99-b3-e8-8a-b3-e6-98-8e-e6-9|荊棘的閘門]].
 - **Speaker at Midwest Taiwanese Summer Conference** — the 1992 conference speeches were published as a volume credited to Li Hung-hsi, Lung-Chi Chen, Fang-Ming Chen and others: [[works/taiwaneseamericanhistory-org/ourjourneys123-eng|Our Journeys 123 (EN)]].
 - **TAH corpus author entry** — his own TAH work record "190. Fang-Ming Chen 陳芳明" (2015/01): [[works/taiwaneseamericanhistory-org/whoswho190|TAH work 190]].
+- **His TAH-held political/writing works** — 397. 台灣人的歷史與意識 (1998/08): [[works/taiwaneseamericanhistory-org/397-e5-8f-b0-e7-81-a3-e4-ba-ba-e7-9a-84-e6-ad-b7-e5-8f-b2-e8-88-87-e6-84-8f-e8-a|397]]; 398. 在時代分合的路口 (1989/07): [[works/taiwaneseamericanhistory-org/398-e5-9c-a8-e6-99-82-e4-bb-a3-e5-88-86-e5-90-88-e7-9a-84-e8-b7-af-e5-8f-a3-e9-9|398]]; 399. 二二八事件學術論文集 (1989/07): [[works/taiwaneseamericanhistory-org/publications399|399]]; 400. 謝雪紅評傳 (1991/07): [[works/taiwaneseamericanhistory-org/400-e8-ac-9d-e9-9b-aa-e7-b4-85-e8-a9-95-e5-82-b3-e9-99-b3-e8-8a-b3-e6-98-8e19910|400]]; 401. 楊淕的文學生涯 (1988/09): [[works/taiwaneseamericanhistory-org/401-e6-a5-8a-e6-b7-95-e7-9a-84-e6-96-87-e5-ad-b8-e7-94-9f-e6-b6-af-e9-99-b3-e8-8|401]].
+- **First book in 新潮叢書** — 林衡哲's memoir records Chen's first published book 《鏡子與影子》 appearing in the 新潮叢書 series he co-edited with 楊牧 at 志文出版社, before Chen turned to 台灣文學; the same memoir recalls 1975: through 許常惠 and the 鄉土文學論戰, Chen co-founded「台灣文藝沙龍」 with 陳錦芳, 洪銘水 and 林衡哲 ([[works/taiwaneseamericanhistory-org/ourjourneys70|Our Journeys 70 (林衡哲, 股東同仁平安)]]).
+- **Blacklisted by the ROC** — listed among Bay Area Taiwanese community leaders who were on the KMT government's blacklist ([[works/taiwaneseamericanhistory-org/ourjourneys106|Our Journeys 106, 中華民國的黑名單]]); 協志會's alumni roster separately credits him as 民進黨文宣部主任 ([[works/taiwaneseamericanhistory-org/ourjourneys238|Our Journeys 238, 台灣學生報]], consistent with the Employment table's 1988 role).
+- **Summer-conference voice of the movement generation** — keynote speaker (主題演講) at the 7th 美東南區台灣人夏令會 in 1985, the largest international-student gathering in twenty years that helped give birth to 全美台灣同學會 ([[works/taiwaneseamericanhistory-org/ourjourneys245|Our Journeys 245, 美東南夏令會簡史]]); also among the 陳芳明、林衡哲、謝里法、黃美惠 visitors at the culture-heavy 1985 seminar recalled in [[works/taiwaneseamericanhistory-org/our-journeys-379|Our Journeys 379, 十年東南夏令憶感]].
+- **Featured at overseas cultural events** — headliner alongside 陳永興、謝里法、呂秀蓮 at the first 《台灣文化之夜》 in Los Angeles, May 1986, which drew 500+ and seeded 太平洋時報 ([[works/taiwaneseamericanhistory-org/ourjourneys301|Our Journeys 301, 南加州台灣人聯合基金會]]); invited to the 鄉情座談會 with 張富美、艾琳達 at the 1994 北加州台灣同鄉會聯合會 ([[works/taiwaneseamericanhistory-org/ourjourneys142|Our Journeys 142]]).
 
 ## Family
 

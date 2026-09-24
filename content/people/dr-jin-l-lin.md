@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # Dr. Jin L. Lin (林金龍博士)
 
@@ -46,6 +46,8 @@ last_reviewed: 2026-09-23
 - **Daughter:** Christa
 - **Son:** Richard
 
+
+- Corpus re-grep 2026-09-24 (slice 09230700-17): hit set unchanged (own [[works/taiwaneseamericanhistory-org/whos-who-2310-jin-l-lin|TAH #2310]], works index, the held taiwanjustice.net column); extra hit [[works/taiwaneseamerican-org/laura-huang-olivia-chen-project-emplify|Laura Huang/Olivia Chen project]] is a substring false-positive ('Min Jin Lee' matched 'Jin L'). Verified-saturated — SKIP-with-reason.
 
 ## Sources
 - [TAH #2310 encyclopedia: 2310. Dr. Jin L. Lin 林金龍博士](https://taiwaneseamericanhistory.org/whos-who-2310-jin-l-lin/)

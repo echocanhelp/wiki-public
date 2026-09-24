@@ -35,7 +35,7 @@ Fresh grep of content/works + content/articles returned only records already abs
 
 ## Family
 
-- **Husband:** Coen Blaauw昆布勞
+- **Husband:** Coen Blaauw昆布勞 — a Dutch-born FAPA lobbying figure in his own right: his essay 「爲何我在 FAPA?」 (2016/09) and 楊遠薰's chronicle of his role pushing the US 對台六項保證 resolution document their shared FAPA-world milieu ([[works/taiwaneseamericanhistory-org/mystories464|TAH #464 昆布勞, 2016/09]]; [[works/taiwaneseamericanhistory-org/ourjourneys228|TAH #228 楊遠薰, 2016/05]]).
 
 
 ## From the record
@@ -45,6 +45,7 @@ Fresh grep of content/works + content/articles returned only records already abs
 - 2007-09-13 — op-ed 「Perspectives on Taiwan and the United Nations: A Personal Journey」 announcing her participation in the UN for Taiwan rally in New York; byline notes she grew up near Snake Alley in Taipei, holds an MIA from GWU, and worked at FAPA HQ in Washington, DC ([[works/taiwaneseamerican-org/perspectives-on-taiwan-and-the-united-nations-a-personal-journey|TA.org perspectives]]).
 - 2016-04-20 — 楊遠薰's 「亂世奇緣」 record: a Taiwanese colleague at FAPA who fell in love with and married Coen Blaauw in 2006 — twelve years his junior, mirroring how his mother Loes Vemer was twelve years younger than his father ([[articles/taiwanjustice-net/2024/20240723022135_root_d3c8399729f03df5|TJJ, 2016-04-20]]).
 - 2016-04-17 — TAH encyclopedia profile: [[works/taiwaneseamericanhistory-org/935-iris-ho-e4-bd-95-e7-87-95-e9-9d-92-201604|TAH #935, 2016-04]].
+- Corpus re-grep 2026-09-24 (DEEPEN-X slice 09230700-21): hit-set gained [[works/taiwaneseamericanhistory-org/mystories464|TAH #464]] and [[works/taiwaneseamericanhistory-org/ourjourneys228|TAH #228]] (husband 昆布勞's own FAPA records) — absorbed into Family above; no further facts about Iris Ho herself.
 
 ## Sources
 - [TAH #935 encyclopedia: 935. Iris Ho 何燕青 2016/04](https://taiwaneseamericanhistory.org/935-iris-ho-%e4%bd%95%e7%87%95%e9%9d%92-201604/)

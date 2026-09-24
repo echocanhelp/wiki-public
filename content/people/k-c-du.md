@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # K. C. Du (杜國清)
 
@@ -44,6 +44,8 @@ _Corpus re-grep 2026-09-22/23 (slice 09221100-29): same work hits (#27, #131, #1
 ## Family
 
 _No filled family fields on the TAH profile._
+
+- Corpus re-grep 2026-09-24 (slice 09230700-17): hit set unchanged (#27, #131, #135–137, #142, Who's Who #1145 — all already linked above); the one extra grep hit [[works/taiwaneseamericanhistory-org/348-kuo-ching-su-e8-98-87-e5-9c-8b-e6-85-b6201503|348. Kuo-Ching Su 蘇國慶]] is a romanization false-positive (Su ≠ Tu). Verified-saturated — SKIP-with-reason, nothing new absorbable.
 
 ## Sources
 - [TAH #1145 encyclopedia: 1145. K. C. Du 杜國清 / 2016/07](https://taiwaneseamericanhistory.org/whoswho1145/)
