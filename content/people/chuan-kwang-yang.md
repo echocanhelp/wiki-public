@@ -55,6 +55,7 @@ last_reviewed: 2026-09-24
 ## From the record
 
 - 複核（TJJ-A09230800-1, 2026-09-24）：文章 2a543ddc9301b7b3（會館24週年募款年會公告） 正文再驗證——本頁 subject 連結確認見於正文（無錯鏈、無虛鏈）；對應 From-the-record 條目已在庫 — SKIP，無新材料。
+- 複核（TJJ-A09230800-1, 2026-09-24）：文章 2a543ddc9301b7b3（會館24週年募款年會公告） 正文再驗證——本頁 subject 連結確認見於正文（無錯鏈、無虛鏈）；對應 From-the-record 條目已在庫 — SKIP，無新材料。
 - 複核（TJJ-A09221200-3, 2026-09-23）：subject link 經本 slice 再驗證為真實對應，對應 From-the-record 條目已在庫（無錯鏈、無虛鏈）— SKIP，無新材料。
 
 - 2022-09-13 — A TJJ notice for the 大洛杉磯台灣會館 24th-anniversary gala profiles keynote guest 紀政 (「飛躍的羚羊」, Mexico City 1968 women's 80m hurdles bronze) and notes she was the second Taiwanese athlete to win an Olympic medal after 楊傳廣 ([[articles/taiwanjustice-net/2022/20220924222953_2022_09_13_10-22大洛杉磯台灣會館-24-週年募款年會_紀政擔任主講_2a543ddc9301b7b3|TJJ, 2022-09-13]]).

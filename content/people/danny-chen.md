@@ -47,6 +47,7 @@ The TJ archives already cited on this page are in-corpus works — linked here s
 
 ## From the record
 
+- 複核（TJJ-A09230800-1, 2026-09-24）：文章 c05e2d53013fcd15（會館疫情服務報導） 正文再驗證——本頁 subject 連結確認見於正文（無錯鏈、無虛鏈）；對應 From-the-record 條目已在庫 — SKIP，無新材料。
 - 複核（TJJ-A09230600-1, 2026-09-24）：本 slice 文章 71a7c64663ea03b6 正文再驗證——陳啟耕律師 4/25 線上移民講座（會館首場線上活動）確認見於正文，subject 連結為真；2020-04-25 條目已在庫 — SKIP，無新材料。
 
 - 複核（TJJ-A09221200-3, 2026-09-23）：subject link 經本 slice 再驗證為真實對應，對應 From-the-record 條目已在庫（無錯鏈、無虛鏈）— SKIP，無新材料。

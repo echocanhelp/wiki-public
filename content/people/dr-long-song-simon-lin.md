@@ -65,7 +65,8 @@ Role anchors already on this page's TAH table map to vault pages: [[organization
 [[people/simon-lin|Simon Lin (林榮松)]] (published page) lists a 林榮松 as 執行長 of Taiwan Center; this page's own TAH table lists the same 林榮松 as President of the same foundation. Role titles differ (執行長 vs President), so per merge policy this is flagged, NOT auto-merged — cross-source verification needed.
 
 ## From the record
-- 複核（TJJ-A09230600-1, 2026-09-24）：本 slice 文章 71a7c64663ea03b6（會館疫情紀錄 2021-01-17 快照）正文再驗證——林榮松以執行長身分捐贈 Whittier Hospital 250 面罩、主導影音數位化確認見於正文，subject 連結為真；2020-06-23 條目已在庫 — SKIP，無新材料。
+
+- 複核（TJJ-A09230800-1, 2026-09-24）：文章 c05e2d53013fcd15（會館疫情服務報導） 正文再驗證——本頁 subject 連結確認見於正文（無錯鏈、無虛鏈）；對應 From-the-record 條目已在庫 — SKIP，無新材料。- 複核（TJJ-A09230600-1, 2026-09-24）：本 slice 文章 71a7c64663ea03b6（會館疫情紀錄 2021-01-17 快照）正文再驗證——林榮松以執行長身分捐贈 Whittier Hospital 250 面罩、主導影音數位化確認見於正文，subject 連結為真；2020-06-23 條目已在庫 — SKIP，無新材料。
 
 - 覆核（TJJ-A09162345-18, 2026-09-24）：本 slice 文章 NATMA標籤頁 08b82976 正文再驗證——subject 連結為真實提及，無錯鏈、無虛鏈；對應日期事實（含該文 wikilink）已在庫 — SKIP，已飽和。
 

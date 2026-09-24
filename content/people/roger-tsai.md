@@ -190,6 +190,7 @@ Notable quotes and mentions of **蔡漢成** in Taiwan Justice articles:
 
 ## From the record
 
+- 複核（TJJ-A09230800-1, 2026-09-24）：文章 c05e2d53013fcd15（會館疫情服務報導） 正文再驗證——本頁 subject 連結確認見於正文（無錯鏈、無虛鏈）；對應 From-the-record 條目已在庫 — SKIP，無新材料。
 - 複核（TJJ-A09230600-1, 2026-09-24）：本 slice 文章 71a7c64663ea03b6（本檔 subject 塊已與 twin c05e2d53 補齊一致）正文再驗證——蔡漢成副董事長主導文獻數位化確認見於正文，subject 連結為真；2020-06-23 條目已在庫 — SKIP，無新材料。
 
 - 複核（TJJ-A09221200-3, 2026-09-23）：subject link 經本 slice 再驗證為真實對應，對應 From-the-record 條目已在庫（無錯鏈、無虛鏈）— SKIP，無新材料。

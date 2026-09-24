@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # Huey Lin (林惠洲)
 
@@ -43,6 +43,7 @@ _No filled family fields on the TAH profile._
 
 ## Corpus check (2026-09-23)
 - Fresh grep of works/ and articles/ (林惠洲 / Huey Lin) returned only records already absorbed above: the TACL consultant roster (Our Journeys 186, plus its English mirror ourjourneys186-eng — same text, no new facts), the 2023 耆老講座 report (Our Journeys 388), his own Who's Who record (#1401), the 林佳惠 disambiguation entry, and index listings. No new community facts to absorb.
+- Corpus re-grep 2026-09-24 (slice 09230900-6): hit set unchanged (ourjourneys186/-eng, our-journeys-388, whoswho1401, 林佳惠 disambig, index). SKIP — saturated, no new facts.
 
 ## Sources
 - [TAH #1401 encyclopedia: 1401. Huey Lin 林惠洲 / 2016/11](https://taiwaneseamericanhistory.org/whoswho1401/)
