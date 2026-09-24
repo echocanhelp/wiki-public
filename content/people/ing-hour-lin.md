@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # Ing-Hour Lin (林英侯博士)
 
@@ -29,6 +29,8 @@ last_reviewed: 2026-09-23
 
 ## From the record
 
+
+- 複核（TJJ-A09171100-4, 2026-09-24）：本 slice 文章 039ccce4163c57a9 正文再驗證——本頁 subject link 為真實對應（無錯鏈、無虛鏈），對應 From-the-record 條目已在庫 — SKIP，無新材料。
 - 2020-05-15 — A NATPA letter to members on the death of his daughter Joyce Lin records that Lin served as President of the North America Taiwanese Professors' Association from 2009 to 2010. The letter adds that Joyce was a missionary pilot and IT specialist with Mission Aviation Fellowship (MAF) in Papua, Indonesia — a U.S. Air Force officer and MIT double-degree computer scientist who studied at Gordon-Conwell Theological Seminary — and died on 2020-05-12 in a plane crash while delivering COVID-19 test kits and supplies to a remote Papuan village ([[articles/taiwanjustice-net/2025/20250614200802_為印尼偏鄉運送防疫物資_航空宣教使團_台裔_039ccce4163c57a9|TJJ, 2020-05-15]]).
 
 ## Role in the Community

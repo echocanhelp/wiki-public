@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # Taiwanese American Scholarship Fund (台美獎學金基金會)
 
@@ -36,6 +36,8 @@ The Taiwanese American Scholarship Fund (TASF) was created in 2014 to support ec
 
 ## From the record
 
+
+- 複核（TJJ-A09171100-4, 2026-09-24）：本 slice 文章 162effa713237818 正文再驗證——本頁 subject link 為真實對應（無錯鏈、無虛鏈），對應 From-the-record 條目已在庫 — SKIP，無新材料。
 - 複核（TJJ-A09221200-3, 2026-09-23）：subject link 經本 slice 再驗證為真實對應，對應 From-the-record 條目已在庫（無錯鏈、無虛鏈）— SKIP，無新材料。
 
 - 2020-06-16 — TASF's press release, carried by TJJ, announces the Student Covid-19 Relief Scholarship Program jointly launched with the 大洛杉磯台灣會館基金會 and TACL: a US$100,000 fund with awards up to US$500, applications open until 9-30, the 會館核發 for Greater-LA residents and TACL for the rest of the US; the release names 余崇孝 (Sean Yu) as TASF's founder ([[articles/taiwanjustice-net/2020/20200622034426_2020_06_16_給台美人學生的-tasf-covid-19-疫情紓困獎學金接受申請_162effa713237818|TJJ, 2020-06-16]]).

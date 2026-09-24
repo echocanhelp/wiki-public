@@ -163,6 +163,8 @@ OCAC plays a significant role in the **Taiwanese-American experience** in Southe
 
 ## From the record
 
+
+- 複核（TJJ-A09171100-4, 2026-09-24）：本 slice 文章 162effa713237818 正文再驗證——本頁 subject link 為真實對應（無錯鏈、無虛鏈），對應 From-the-record 條目已在庫 — SKIP，無新材料。
 - 2020-06-16 — A TASF/TJJ press release for the Student Covid-19 Relief Scholarship Program records that the 大洛杉磯台灣會館基金會, the article's Greater-LA award-issuing partner, was founded in 1998 when the late OCAC commissioner (故僑務委員) 王桂榮 (Ken John Wang) generously donated the property, with 萬通銀行總裁吳澧培 as fundraising chair ([[articles/taiwanjustice-net/2020/20200622034426_2020_06_16_給台美人學生的-tasf-covid-19-疫情紓困獎學金接受申請_162effa713237818|TJJ, 2020-06-16]]).
 
 ## Related Pages

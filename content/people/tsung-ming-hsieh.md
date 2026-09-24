@@ -35,6 +35,8 @@ _No filled family fields on the TAH profile._
 
 ## From the record
 
+
+- 複核（TJJ-A09171100-4, 2026-09-24）：本 slice 文章 2d725102f4e64118 正文再驗證——本頁 subject link 為真實對應（無錯鏈、無虛鏈），對應 From-the-record 條目已在庫 — SKIP，無新材料。
 - 複核（TJJ-A09171100-1, 2026-09-24）：subject link 對照 slice 文章 74f89ee82c85dc78（唐培禮訃聞）正文再驗證——「透過謝聰敏、魏廷朝在獄中偷偷傳出紙條」及1965年判處10年徒刑記述確認見於正文，連結為真；1965-04 條目已在庫 — SKIP，無新材料。
 
 - 覆核（TJJ-A09171100-2, 2026-09-24）：本 slice 文章 e3440fec3eed8107（籌謀不流血革命） 主體連結對照正文再驗證——連結為真實提及（無錯鏈、無虛鏈），對應日期事實條目（含該文 wikilink）已在庫 — SKIP，無新材料。
