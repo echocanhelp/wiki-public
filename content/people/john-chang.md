@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # John Chang (張景祥牧師)
 
@@ -44,6 +44,7 @@ _No filled family fields on the TAH profile._
 - Founding pastor of 紐約史德頓島恩光基督教會 (1982–) and founding senior pastor of 紐約法拉盛恩光基督教會 (1999–); TAH also records him as 副議長 / 委員會議長 / 執行委員會議長 of 美國歸正教會總會 (2001–2004)
 - Both churches he founded are separately documented in the TAH corpus as work records (published 2016-05-16): [[works/taiwaneseamericanhistory-org/the-grace-christian-church-in-staten-island-new-york|紐約史德頓島恩光基督教會]] and [[works/taiwaneseamericanhistory-org/the-grace-christian-church-in-flushing-queens-new-york|紐約法拉盛恩光基督教會]]
 - Re-grep 2026-09-23 (deepen-x slice 09221200-24): corpus hits for 張景祥/John Chang remain exactly the four work records already cited or held below (943, Audubon 57, 55 Taiwan Independence Cup, 2 Presented by Dr. John Chang) plus the works index. Verified-saturated; no new absorbable material.
+- Re-grep 2026-09-24 (deepen-x slice 09230700-21, 張景祥/恩光基督教會): hits = own bio record 943, the two church work records already wikilinked, plus works index. Verified-saturated; HOLD disambiguation above unchanged.
 - HOLD: "John Chang" is ambiguous in this corpus. [[works/taiwaneseamericanhistory-org/honorary-member-by-audubon-artists-society-john-chang-2017|57. Audubon Artists Society honorary member / 2017]] is John Chang 張哲雄 ([[people/jason-chang|張哲雄]]), and [[works/taiwaneseamericanhistory-org/55-taiwan-independence-cup|55. Taiwan Independence Cup / 2018/11]] is Dr. Shiching John Chang ([[people/dr-shiching-john-chang]]) — neither merged here. [[works/taiwaneseamericanhistory-org/2-presented-by-dr-john-chang|2. Presented by Dr. John Chang / Overland Park, KS / 2015]] is unresolved and not absorbed.
 
 ## Sources
