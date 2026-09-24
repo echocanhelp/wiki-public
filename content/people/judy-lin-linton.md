@@ -54,3 +54,4 @@ Consistency check: the memoir's "nine years old in Feb 1980" matches the page's 
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - Corpus re-grep 2026-09-23 (DEEPEN-X slice 09221100-24): hit set unchanged — Our Journeys 69 (ZH/EN), TAH #1557, my-stories 700/702, CD #533, mystories337; all already absorbed above. No new community facts. SKIP-content.
+- Corpus re-grep 2026-09-24 (DEEPEN-X slice 09230600-19): SKIP — fresh ZH+EN grep returns the same set (my-stories 700/702, #1557, ourjourneys69 ZH/EN, CD #533); nothing new absorbable.

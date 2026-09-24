@@ -60,3 +60,4 @@ _No filled family fields on the TAH profile._
 - Re-verified 2026-09-22 (slice 09210600-14): SKIP — corpus grep returns only the already-linked TJJ camp column, his own TAH encyclopedia page, and the 釋字第791號 petitioner record above. No new absorbable community facts.
 - Re-verified 2026-09-22 (slice 09220400-18): SKIP — same hit set (whos-who-1803, works index, both TJJ camp columns, 釋字第791號 text); nothing new absorbable.
 - Re-verified 2026-09-23 (slice 09221200-12): SKIP — grep returns only whos-who-1803, works index, the two TJJ 海台青 camp columns, and the 釋字第791號 petitioner record; nothing new absorbable.
+- Re-verified 2026-09-24 (slice 09230600-19): SKIP — same hit set (whos-who-1803, works index, both TJJ 海台青 camp columns, 釋字第791號 text); nothing new absorbable.
