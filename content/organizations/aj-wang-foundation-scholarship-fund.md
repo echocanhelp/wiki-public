@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-24
 ---
 # AJ WANG FOUNDATION – SCHOLARSHIP FUND
 
@@ -28,3 +28,6 @@ The AJ Wang Foundation is a 501(c)(3) non-profit organization established in Nov
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+## Corpus check (deepen-x 09230400-29, 2026-09-24)
+SKIP (re-confirmed) — fresh grep of works/ + articles/ for "AJ Wang" returns only the own-records and the works index; no new corpus facts absorbable.

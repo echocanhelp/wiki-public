@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-24
 ---
 # Chi-Chen Wu (吳紀禛)
 
@@ -50,3 +50,6 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+## Corpus check (deepen-x 09230400-29, 2026-09-24)
+SKIP (re-confirmed) — fresh grep for 吳紀禛 / Chi-Chen Wu still limited to the two own-profile encyclopedia records plus the works index. Verified saturated.

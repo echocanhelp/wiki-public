@@ -7,7 +7,7 @@ tags:
   - vice-chair
   - Taiwanese-American
 verification_status: published
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-24
 ---
 # Chen Hui-Chen (陳慧貞)
 
@@ -43,3 +43,5 @@ She is the Treasurer for the NTPC Historical Committee's 2025 republication of *
 
 ## Corpus check (deepen-x 09201503-9, 2026-09-21)
 SKIP (re-confirmed) — fresh grep of works/ + articles/ for 陳慧貞 / Hui-Chen Chen returns zero hits; the NTPC source material on this page remains the only record — nothing absorbable.
+## Corpus check (deepen-x 09230400-29, 2026-09-24)
+SKIP (re-confirmed) — fresh grep for 陳慧貞 / Hui-Chen Chen returns zero hits; NTPC source material remains the only record.

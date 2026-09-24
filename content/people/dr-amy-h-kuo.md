@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-24
 ---
 # Dr. Amy H Kuo (郭惠美醫師)
 
@@ -47,3 +47,6 @@ last_reviewed: 2026-09-22
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+## Corpus check (deepen-x 09230400-29, 2026-09-24)
+SKIP (re-confirmed) — exact-name grep (郭惠美 / Amy H Kuo) returns only [[works/taiwaneseamericanhistory-org/whos-who-2319-amy-h-kuo|#2319]] and the [[works/taiwaneseamericanhistory-org/ourjourneys268|#268 memoir]] already absorbed; fuzzy "Amy H" hits in #508/#1445/#376/#123 are different people (Amy Hsu 蘇惠美, Amy Hsieh 謝孟容) — not this page. Verified saturated.
