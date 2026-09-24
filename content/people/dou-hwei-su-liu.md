@@ -34,6 +34,8 @@ Dou-Hwei Su Liu (劉蘇多惠) is listed in the TAH Foundation Who’s Who Taiwa
 
 - 2026-09-23 語料複核（slice 09221200-27）：命中集合與上次完全相同（894/893 社團篇・革命篇、mystories24、ourjourneys181、#665、index），全數已吸收。SKIP-with-reason：無新可吸收事實。
 
+- 2026-09-24 語料複核（slice 09230700-13）：命中集合再次相同（894/893 社團篇・革命篇、mystories24、ourjourneys181、#665、index），全數已吸收。SKIP-with-reason：無新可吸收事實。
+
 ## Family
 
 _No filled family fields on the TAH profile._

@@ -52,3 +52,4 @@ last_reviewed: 2026-09-24
 
 Corpus re-check 2026-09-22 (deepen-x slice 09220400-25): fresh grep of works/ and articles/ for 鄞美珠 / Martha Wang — hit set unchanged (#64 encyclopedia mirror, ourjourneys58 roster mention, mystories641, works index); all hits already wikilinked with facts absorbed. SKIP-deepen; nothing new absorbable.
 Corpus re-check 2026-09-23 (deepen-x slice 09221200-26): fresh ZH+EN grep — hit set unchanged (#64 mirror, ourjourneys58, mystories641, works index); all already linked and absorbed. SKIP-deepen.
+Corpus re-check 2026-09-24 (deepen-x slice 09230700-13): fresh ZH+EN grep — hit set unchanged (#64 mirror, ourjourneys58, mystories641, works index); all already linked and absorbed. Verified-saturated SKIP.
