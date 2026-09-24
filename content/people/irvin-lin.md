@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # Irvin Lin (林斐強)
 
@@ -55,3 +55,5 @@ Accomplishment
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+- Corpus re-grep 2026-09-24 (slice 09230400-13): hit set identical — #234 / #1431 / #1052 / #493 plus index listings; remaining works/articles matches remain the known LIEN/IRVIN false positives. Verified saturated.
