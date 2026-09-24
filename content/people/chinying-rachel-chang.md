@@ -59,3 +59,6 @@ SKIP (re-confirmed) — fresh grep (ZH 張金鶯 + EN Chinying/Rachel Chang) ret
 
 ## Corpus check (deepen-x 09221000-20, 2026-09-23)
 SKIP (re-confirmed) — fresh grep (ZH 張金鶯 + EN Chinying/Rachel Chang) returns only her own bibliographic record [[works/taiwaneseamericanhistory-org/129-chinying-rachel-chang-e5-bc-b5-e9-87-91-e9-b6-af|TAH #129]] plus the works index; no memoir or community-record mentions — nothing absorbable.
+
+## Corpus check (deepen-x 09230500-28, 2026-09-24)
+SKIP (re-confirmed) — fresh grep (ZH 張金鶯 + EN Chinying/Rachel Chang) returns only her own bibliographic record [[works/taiwaneseamericanhistory-org/129-chinying-rachel-chang-e5-bc-b5-e9-87-91-e9-b6-af|TAH #129]] plus the works index; no memoir or community-record mentions — nothing absorbable.

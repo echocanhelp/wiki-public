@@ -23,6 +23,7 @@ The Taiwanese American Arts Council (TAAC) was established in 2014 to carry forw
 - 2017-11-15: TAAC news item preserved as community record: [[works/taiwaneseamericanhistory-org/news-taac|TAH news: Taiwanese American Arts Council 台美文藝協會]].
 - Organizational profile record: [[works/taiwaneseamericanhistory-org/taiwanese-american-arts-council-taac|TAH directory: TAAC]].
 - Re-verified 2026-09-23 (slice 09221000-18): corpus re-grep returns the same five work records (#5, #17 directory profile, #18, #52, news-taac) + index — all already linked above; the records carry bibliographic headers only, no additional narrative to absorb — verified-saturated, SKIP.
+- Re-verified 2026-09-24 (slice 09230500-28): corpus re-grep returns the same five work records + index; the only extra hit, a TJJ 投書, matched on the string "TAAC" inside its Wayback archive digest metadata, not the org — false positive, not absorbed. Verified-saturated, SKIP.
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-american-arts-council-taac/)
