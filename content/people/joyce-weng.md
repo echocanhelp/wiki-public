@@ -39,6 +39,7 @@ last_reviewed: 2026-09-24
 - Corpus re-pass 2026-09-21 (deepen-x slice 09210400-3): fresh grep hits are all already-recorded items (her 文學 essays 心懷故鄉/世紀的病人/婚變, the 北美客協 president roster, and the Capital District 傳統週 lecture record — the latter now also held in English as [[works/taiwaneseamericanhistory-org/ourjourneys311-eng|311 (EN). Capital District TAA & Cultural Society]]). No new facts; the surname HOLD above stands.
 - Corpus re-grep 2026-09-22 (deepen-x slice 09212352-9): SKIP — hit set unchanged (own essays 心懷故鄉/世紀的病人/婚變/伴隨著一支筆, ourjourneys290/311/311-eng); nothing new to absorb; surname HOLD stands.
 - Corpus re-grep 2026-09-23 (slice 09221000-8): SKIP — hit set unchanged (her essays 伴隨著一支筆/心懷故鄉/世紀的病人/婚變, ourjourneys252/290/311 +eng); nothing new to absorb; surname HOLD stands.
+- Corpus re-grep 2026-09-24 (slice 09230500-18): SKIP — hit set unchanged (own essays mystories31/心懷故鄉/世紀的病人, ourjourneys290/311 +eng); nothing new to absorb; surname HOLD stands. Verified saturated.
 
 ## Sources
 - [TAH #98 encyclopedia: 98. Joyce Weng 黃娟](https://taiwaneseamericanhistory.org/98-weng/)

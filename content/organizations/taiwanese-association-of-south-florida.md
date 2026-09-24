@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # Taiwanese Association of South Florida (南佛州台灣同鄉會)
 
@@ -28,6 +28,7 @@ The Taiwanese Association of South Florida (南佛州台灣同鄉會) is a regio
 - **Host of the first sea-cruise summer camp (2015):** the chapter hosted that year's US Southeast-region Taiwanese summer camp as a cruise — 吳明美's memoir records chapter president 李玉英 planning it from the moment the chapter took on the role, under 總幹事 許清政, with 總召集人 徐彩惠's financial backing and 張良州 arranging the ship; the camp's theme was 「團結做伙向前行」 and it drew about 50 second-generation youths to a parallel 認親結緣 program — [[works/taiwaneseamericanhistory-org/ourjourneys101|101. 美東南區台灣人海上夏令會, 2015/02]]. The same record lists chapter president 李玉英 among the opening-ceremony speakers alongside 東南區理事長 涂惠玲.
 - **Sibling chapter in the same region:** FAPA's 南佛州分會 president [[people/s-y-lee|李嵩義]] met President Clinton in 09/2016 — [[works/taiwaneseamericanhistory-org/mystories463|463. FAPA南佛州分會長李嵩義會見克林頓總統]]; FAPA's national mobilization reach to Miami is noted in [[works/taiwaneseamericanhistory-org/ourjourneys228|228. 美國對台六項保證決議案的推手 — 昆布勞與 FAPA 的故事]].
 - Chapter of the national umbrella [[organizations/taiwanese-association-of-america|全美台灣同鄉會 (Taiwanese Association of America)]].
+- Corpus re-grep 2026-09-24 (slice 09230500-18): SKIP — fresh grep of works+articles for 南佛州台灣同鄉會/South Florida Chapter returns the chapter's own records (newsletter, 55-brief-history, south-florida-chapter-taa) already absorbed above; nothing new to absorb. Verified saturated.
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-association-of-south-florida/)
