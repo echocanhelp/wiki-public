@@ -40,6 +40,7 @@ _No filled family fields on the TAH profile._
 - Also a recurring commentator on domestic Taiwanese politics in the community press: offered a two-reading critique of 柯文哲's "我從頭到尾沒有變" claim (柯說謊 vs 柯展現真面目), calling 柯文哲 the "始作俑者" of 「大柯學家」 — [[articles/taiwanjustice-net/2025/20250808013926_陳時中_不怒而威_vs-柯文哲_怒而不威_-陳昭_9b8b485751e7afa9|TAJPNet 2025-08]]
 - Corpus re-grep 2026-09-22: hits limited to the TAJPNet opinion/interview reprints above plus the corpus index; no memoir material on this person; no date/age conflicts to hold.
 - Corpus re-grep 2026-09-23 (slice 09221200-10): re-verified saturated — same hits (#2145 own record + the four TAJPNet reprints already wikilinked above); no new community facts to absorb, no conflicts to hold.
+- Corpus re-grep 2026-09-24 (slice 09230600-22): same hit set (own record + index + the four TAJPNet reprints already wikilinked) — saturated; nothing absorbable, no conflicts.
 
 ## Sources
 - [TAH #2145 encyclopedia: 2145. Prof. Yao-Yuan Yeh 葉耀元教授](https://taiwaneseamericanhistory.org/whos-who-2145-yao-yuan-yeh/)

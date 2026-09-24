@@ -37,6 +37,8 @@ Corpus re-grep 2026-09-22 (DEEPEN-X slice 09212352-24): hits are only the record
 
 - Corpus re-grep 2026-09-23 (DEEPEN-X slice 09221100-31): hit-set unchanged — only the records already absorbed above (TAH #1437, TJJ 會訊 2018-06-27, TJJ 小英後援會 2019-10-10, WHA聯合聲明 2021-05-17 + 2025-11-08 副本) plus index listings; WHA聲明 body text confirms 殷清隆 as 共同發起人 and 殷勤文教公益基金會 as 共同發起單位, already recorded. SKIP-content: verified-saturated.
 
+- Corpus re-grep 2026-09-24 (DEEPEN-X slice 09230600-20): hit-set unchanged — TAH #1437, TJJ 會訊 2018-06-27 團體董事 roster, 小英後援會 2019-10-10 籌備名單, WHA聯合聲明 2021-05-17 + 2025-11-08 副本, all already absorbed. SKIP-content: verified-saturated.
+
 ## Sources
 - [TAH #1437 encyclopedia: 1437. C. L. Yin 殷清隆 / 2016/12](https://taiwaneseamericanhistory.org/whoswho1437/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/c-l-yin/)

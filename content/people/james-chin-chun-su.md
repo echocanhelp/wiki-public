@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # James Chin-Chun Su (蘇金春)
 
@@ -46,6 +46,8 @@ last_reviewed: 2026-09-23
 ## From the record
 
 - Corpus re-grep 2026-09-23 (DEEPEN-X slice 09221100-30): fresh ZH+EN grep returned the same hit-set already cited above (Our Journeys 57 + EN, 81 + EN, 138, TAH #670 profile). The 1966-06-18 費城會議 roster in Our Journeys 81 confirms his seat as one of four UFI delegates (陳以德、羅福全、王博文、蘇金春) — already reflected. Verified saturated, nothing new absorbable.
+
+- Corpus re-grep 2026-09-24 (DEEPEN-X slice 09230600-20): fresh ZH+EN grep returns the identical hit-set already cited (Our Journeys 57 + EN, 81 + EN, 138 College Park roster, TAH #670); the 1966-06-18 UFI delegate roster and the NYTimes half-page ad origin are already absorbed. Verified saturated.
 
 ## Family
 

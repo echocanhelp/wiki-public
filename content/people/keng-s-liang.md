@@ -42,6 +42,8 @@ last_reviewed: 2026-09-24
 - **Son:** Norman
 
 
+- Corpus re-grep 2026-09-24 (DEEPEN-X slice 09230600-20): fresh ZH+EN grep returns the identical hit-set already cited (Our Journeys 287 善友 memoir, TAH #1520, 楊遠薰 懷念彭昕醫師 ×2 archives, 翁啟惠連署 call) — nothing new absorbable. Verified saturated.
+
 ## Sources
 - [TAH #1520 encyclopedia: 1520. Keng S. Liang 梁耕三/ 2017/02](https://taiwaneseamericanhistory.org/whoswho1520/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/keng-s-liang/)
