@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # Chia Wei Lee (李佳蔚)
 
@@ -54,9 +54,4 @@ _No filled family fields on the TAH profile._
 - Corpus re-sweep 2026-09-14、2026-09-15（含 slice 27、31）複核: corpus hits are limited to this page's own TAH #527／#258 百科記錄（書目頁）與 works/index 收錄列舉；未見任何回憶錄、同鄉會或社團文獻直接記載本人的社區參與。**SKIP：無可吸收之社群語料**，頁面現有陳述全部出自 TAH 官方傳記，無新事実可吸收、無衝突需 HOLD。
 - Fellow TAH-profiled Taiwanese baritone: [[works/taiwaneseamericanhistory-org/14-yi-cherng-lin-e6-9e-97-e5-ae-9c-e8-aa-a0-baritone|Yi Cherng Lin 林一誠, Baritone]].
 - All performance and academic posts on this page (Alice Tully Hall debut as soloist in the Yellow River Cantata; Kenyon College 2002; University of Texas at Trinity University faculty since 2003) derive from the TAH #527 / #258 encyclopedia entries linked above.
-- Corpus re-greps 2026-09-16 (slices 20 / 22 / 23 / 26 / 18 / 09162138-15 re-checks): hit set unchanged — only this person's own TAH #527／#258 百科／書目 records plus works-index listings; no memoir or community material, nothing absorbable, no conflicts. SKIP-no-new-material. Slice 09162200-13 re-grep: hit set unchanged（#527、#258、index only）— SKIP-with-reason：無可吸收社群語料。Slice 09170130-11 re-grep（2026-09-17）：命中僅 #527、#258、index，命中集不變——SKIP-with-reason：無可吸收社群語料。Slice 09170500-9 re-grep（2026-09-17）：命中僅 #527、#258，命中集不變——SKIP-with-reason：無可吸收社群語料。Slice 09180131-10 re-grep（2026-09-18）：命中僅 #527、#258、index，命中集不變——SKIP-with-reason：無可吸收社群語料。
-- 複核（deepen-x slice-09181500-8, 2026-09-20）：re-grep 命中集不變（僅本人 TAH 書目記錄＋index）— SKIP-with-reason：無可吸收之回憶錄/社群語料，既有連結與 HOLD 維持。
-- 複核（deepen-x slice-09201300-6, 2026-09-21）：re-grep 命中集不變（僅本人 TAH #527／#258 書目記錄＋index）— SKIP-with-reason：無可吸收之回憶錄/社群語料。
-- 複核（deepen-x slice-09211300-6, 2026-09-22）：re-grep 命中集不變（僅 #527、#258、index）— SKIP-with-reason：無可吸收之回憶錄/社群語料。
-- 複核（deepen-x slice-09220700-3, 2026-09-22）：re-grep 命中集不變（僅本人 TAH #527／#258 書目記錄＋index）— SKIP-with-reason：無可吸收之回憶錄/社群語料，無衝突需 HOLD。
-- 複核（deepen-x slice-09221500-4, 2026-09-23）：re-grep 命中集不變（僅本人 TAH #527／#258 書目記錄＋index）— SKIP-with-reason：無可吸收之回憶錄/社群語料，無衝突需 HOLD。
+- 複核（deepen-x slices 0916→09230900-2，至 2026-09-24）：历次 re-grep 命中集均不變（僅本人 TAH #527／#258 書目記錄＋works/index）— SKIP-with-reason：無可吸收之回憶錄/社群語料，無衝突需 HOLD。

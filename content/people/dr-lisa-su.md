@@ -46,6 +46,8 @@ father [[people/su-chun-huai||蘇春槐]]; mother 羅淑雅 (no page yet).
 
 ## From the record
 
+- 2021-09-22 — 白宮公布30位總統科技顧問會議（PCAST）成員名單，出身台南、MIT電機博士、时任超微（AMD）總裁兼執行長之蘇姿丰入選，報導並稱其為首位獲IEEE羅伯特諾伊斯大獎的女性（與 [[people/lisa-su||Lisa T. Su]] 頁為同一人雙頁並存）（[[articles/taiwanjustice-net/2021/20211028205125_2021_09_22_超微台裔總裁兼執行長蘇姿丰-出任美國總統科技顧_88c15e5403e6b9b9|TJJ 轉載中央社記者報導, 2021-09-22]]）。
+
 - 複核（TJJ-A09171200-11, 2026-09-24）：本 slice 文章 4779b4e7（蘇姿丰獲SIA羅伯特諾伊斯大獎報導, 2026-01-21 存檔）正文再驗證——本頁為報導主角，subject 連結為真（與另一頁雙页并存，各自為真），無錯鏈、無虛鏈；2020-09-21 條目已在庫 — SKIP，無新材料。
 
 /tah-foundation||TAH Foundation]]

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # Michael S. K. Chen (陳希寬博士)
 
@@ -60,3 +60,4 @@ last_reviewed: 2026-09-23
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- Corpus re-grep（陳希寬 / Michael S. K. Chen，2026-09-24，slice 09230900-1）：hit set unchanged（ourjourneys33、81、ff184、whos-michael-s-k-chen、publications-1354、our-journeys-370）— 全數已吸收；370「Mike Chen」HOLD 維持。SKIP-no-new-material。
