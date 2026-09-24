@@ -30,6 +30,9 @@ TAH lists her as the first appointed organist of [[organizations/formosan-presby
 - [[people/prof-sze-ya-yeh||Prof. Sze-ya Yeh (葉思雅教授)]]
 
 ## From the record
+## From the record
+
+- 覆核（TJJ-A09170400-17, 2026-09-24）：本 slice 文章 ced695235dbeb850（大洛杉磯台灣會館標籤頁 p13）正文再驗證——「十月音樂欣賞課10月9日舉行 ◎葉思雅、張信惠 主持」確認見於正文，連結為真；2016-10-04 條目已在庫 — SKIP，無新材料。
 
 - 複核（TJJ-A09221500-5, 2026-09-23）：本 slice 文章 99aaa4abcb78ff6d（台美人台加人分類存檔頁, 2024-04-25 快照）正文再驗證——「四月份台灣學校音樂欣賞課於4月9日舉行 ◎葉思雅、張信惠主持」確認見於正文，subject 連結為真，無錯鏈、無虛鏈；對應日期事實條目已在庫 — SKIP，無新材料。
 

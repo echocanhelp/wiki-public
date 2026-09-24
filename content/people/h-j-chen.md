@@ -32,6 +32,9 @@ last_reviewed: 2026-09-23
 - Profiled in the TAH community record [[works/taiwaneseamericanhistory-org/whoswho1597|1597. H. J. Chen 陳小娟]] (published 2017-04-06).
 
 ## From the record
+## From the record
+
+- 覆核（TJJ-A09170400-17, 2026-09-24）：本 slice 文章 2777c888（長青教室標籤彙整頁）正文再驗證——本頁提及條目確認見於正文，subject 連結為真；對應日期事實已在庫 — SKIP，無新材料。
 
 - 2017-03-29 — 與曾凡鋼教授搭檔以華語主持長青教室「聽力測試問答」環節（林貞棟醫師英語主講聽力損失同場），見台灣公義報 長青教室 標籤彙整頁存檔 —— [[articles/taiwanjustice-net/2024/20240620173328_root_2777c88877eee2c5|TJJ tag 長青教室, 2024-06-20 存檔]]。
 

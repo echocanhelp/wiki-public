@@ -55,6 +55,9 @@ Wenhsiung (Luke) Huang 黃文雄 – History of Taiwanese American (T.A. Archive
 _No filled family fields on the TAH profile._
 
 ## From the record
+## From the record
+
+- 覆核（TJJ-A09170400-17, 2026-09-24）：本 slice 文章 2777c888（長青教室標籤彙整頁）正文再驗證——本頁提及條目確認見於正文，subject 連結為真；對應日期事實已在庫 — SKIP，無新材料。
 
 - 2017-03-15 — 主講長青教室「人際關係」（YouTube Video），見台灣公義報「台美人台加人」分類 長青教室 標籤彙整頁（2017-03-29 刊）—— [[articles/taiwanjustice-net/2024/20240620173328_root_2777c88877eee2c5|TJJ tag 長青教室, 2024-06-20 存檔]]。
 - 2020-11-25 — FAHR 公告第44屆年會（12/5 台北）邀歷屆「鄭南榕紀念獎」得獎人回娘家，名列 1997 年得獎人（本頁 TAH #142/#19/#89 即以其為424刺蔣案主角記錄，故連結成立；[[articles/taiwanjustice-net/2021/20210118235211_2020_11_25_全美台灣人權協會第44屆年會暨_鄭南榕紀念獎_頒_996879ac7a006acf|TJJ, 2020-11-25]]）。

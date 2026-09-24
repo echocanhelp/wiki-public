@@ -48,6 +48,7 @@ _No filled family fields on the TAH profile._
 - 2021-02-28 — As 全美台灣同鄉會會長 she co-hosted the first North America joint online 228 commemoration (人權博物館/全美會/加台會/北美婦會; co-chairs also 陳建銘 of 加台會 and 張秀滿 of 北美婦會), chaired the programme, and closed by reminding attendees that commemorating 228 means ensuring the suffering never returns ([[articles/taiwanjustice-net/2026/20260210064123_2021北美洲海外台灣人二二八紀念活動-台灣國家人權_28b0cc4e52acece2|TJJ, 2021-03-03]]).
 - 2024-03-12 — 全美台灣同鄉會紀念228（蔡總統出席）：她以全美會會長身分指出全美會推動台灣制定3月為「台灣歷史人權教育月」、由各級學校機關推動228人權教育，并表示很高興今年蔡總統採納執行；同場台美人第二代黃真分享認同台灣的心路歷程，紀念會並邀請「尋找湯德章」紀錄片導演黃銘正、連楨惠分享拍片動機，全美會後續將舉辦朗讀繪本活動並推出 podcast（[[articles/taiwanjustice-net/2025/20250324134128_全美台灣同鄉會紀念228-蔡總統_守護台灣民主自由_2d682c76b3e63d4b|TJJ/中央社記者, 2024-03-12]]）。
 - 2021-03-13 — 為期兩週的「2021北美洲海外台灣人二二八紀念活動」閉幕，她與波士頓台灣同鄉會會長蔡幸君共同總結系列活動，並語重心長表示「紀念二二八是要確保苦難不再發生，台灣的自由民主與人權得以長存」（全美會官方完滿報導 [[articles/taiwanjustice-net/2025/20250430013325_全美台灣同鄉會2021-年二二八紀念系列活動圓滿落幕_f6213c1937fa956d|TJJ/全美會, 2021-03-14]]）。
+- Re-verify 2026-09-24 (TJJ-A09170400-17): 本 slice 同文（f6213c1937fa956d）再驗證 — 會長陳桂鈴閉幕總結語錄確認見於正文，連結為真；2021-03-13 條目已在庫 — SKIP，無新材料。
 - Re-verify 2026-09-23 (TJJ-A09221200-7): link-check against slice article f6213c1937fa956d body — 會長陳桂鈴閉幕總結及「紀念二二八是要確保苦難不再發生」語錄確認見於正文，連結為真；2021-03-13 日期事實已在庫，無新材料。
 
 ## Related Pages

@@ -40,6 +40,9 @@ Led FORMOSAT-1 (福衛一號) launch team as head of launch group at National Sc
 - TAH's story corpus holds a feature on him, "108. Ching Sze Hsieh 謝清志", published 2014-11-23 — see [[works/taiwaneseamericanhistory-org/108-e8-ac-9d-e6-b8-85-e5-bf-97-e5-8d-9a-e5-a3-ab-dr-ching-sze-hsieh|TAH story #108]].
 
 ## From the record
+## From the record
+
+- 覆核（TJJ-A09170400-17, 2026-09-24）：本 slice 文章 2777c888（長青教室標籤彙整頁）正文再驗證——本頁提及條目確認見於正文，subject 連結為真；對應日期事實已在庫 — SKIP，無新材料。
 
 - 複核（TJJ-A09221200-5, 2026-09-23）：本 slice 文章 [[articles/taiwanjustice-net/2026/20260121010227_斯人已逝_其德可追-緬懷鄭寶鼎博士-_-林宏容_9907500dda4f33bb|TJJ 9907500d]] 正文再驗證——subject link 為真實對應，對應日期事實條目已在庫，無錯鏈、無虛鏈 — SKIP，無新材料。
 
