@@ -6,7 +6,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # 黃世惠
 
@@ -48,6 +48,8 @@ last_reviewed: 2026-09-23
 Corpus: [[works/taiwaneseamericanhistory-org/ourjourneys199|199. 早期留美經驗談 (朱真一, 03/2016)]] · [[works/taiwaneseamericanhistory-org/ourjourneys19|19. 在矽谷創業臺美人 (石清正, 2014/09)]] · [[works/taiwaneseamericanhistory-org/ourjourneys291|291. 台美人醫師 overview (黃哲陽, 05/2017)]] · [[works/taiwaneseamericanhistory-org/whos862|862. 黃世惠 /2016/02]]
 
 HOLD: conflict — TAH table dates the Washington University degree as MD 1959, while the memoir timeline has residency 1954–58 plus Japan 1959; degree year vs. training-completion year unreconciled.
+
+Corpus re-grep 2026-09-24 (slice 09230700-24): hit set = ourjourneys19, ourjourneys199, ourjourneys291, whos862, works/index — all already cited above; verified-saturated, no unabsorbed corpus facts.
 
 ## Sources
 - [TAH #862 encyclopedia: 862. 黃世惠 /2016/02](https://taiwaneseamericanhistory.org/whos862/)
