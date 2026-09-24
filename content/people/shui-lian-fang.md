@@ -54,3 +54,4 @@ No other corpus memoirs/records mention her or 方國炤; biography beyond the a
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - Re-verified 2026-09-23 (deepen-x slice-9): fresh grep (方廖水蓮 / Shui-Lian Fang / 水蓮) returns only #1251 autobiography, #2167 Who's Who, and the works index; saturated, no new absorbable facts.
+- Re-verified 2026-09-24 (deepen-x slice-17): fresh grep returns the same hit set (#1251, #2167, works index); saturated — SKIP, no new absorbable facts.
