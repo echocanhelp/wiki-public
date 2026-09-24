@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # Dr. S. F. Sheuh (薛信夫博士)
 
@@ -42,6 +42,7 @@ _No filled family fields on the TAH profile._
 - Corpus source: [[works/taiwaneseamericanhistory-org/ourjourneys17|李正三回憶錄：將軍餐廳 (Our Journeys 17)]]; TAH profile record [[works/taiwaneseamericanhistory-org/whos-who-1899-s-f-sheuh|TAH #1899 Dr. S. F. Sheuh 薛信夫博士]].
 - Saturate-note (deepen-x slice 09211400-30, 2026-09-22): corpus re-grep (ZH 薛信夫 + EN Sheuh) matches only the two records above plus index listings; the 14-shareholder name roster from the Our Journeys 17 memoir is newly absorbed into the first bullet. Nothing further absorbable.
 - Corpus re-grep 2026-09-23 (slice 09220900-25): hit set unchanged (whos-who-1899 + ourjourneys17 + index only), all already cited. SKIP: saturated.
+- Corpus re-grep 2026-09-24 (slice 09230400-22): hit set unchanged (whos-who-1899 + ourjourneys17 + index only), all already cited. SKIP: saturated.
 
 ## Sources
 - [TAH #1899 encyclopedia: 1899. Dr. S. F. Sheuh 薛信夫博士](https://taiwaneseamericanhistory.org/whos-who-1899-s-f-sheuh/)
