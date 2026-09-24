@@ -36,7 +36,7 @@ For more information :Projects >>14. Pride of T. A. >>5. National Medal of Techn
 - **Pride of T.A. recognition:** her National Medal of Technology and Innovation 國家科技創新獎章 is held as a standalone TAH "Pride of T.A." record — [[works/taiwaneseamericanhistory-org/prode5|5. National Medal of Technology and Innovation 國家科技創新獎章 / Nancy Ho 何汪瑗 /05/2016]] (published 2016-07-18).
 - **Who's Who record:** profile preserved in the story corpus as record 1015 (2016-05-26) — [[works/taiwaneseamericanhistory-org/whoswho1015|1015. Nancy Ho / 何汪瑗 2016/05]].
 - **Civic advocacy:** she is a named signer of the 2021 community statement "Response to Pew Research Reports Hiding Taiwanese Identity" (We made it count. Now tell our stories.), organized by the 台美人部落 community response to Pew folding "Taiwanese" into "Chinese" data — [[works/taiwaneseamerican-org/pew-research-center-taiwanese-american-statement|Response to Pew Research Reports Hiding Taiwanese Identity]].
-- 2026-09-22 corpus re-check: fresh grep 何汪瑗 / Nancy Ho returns only the three works already cited above (plus the works index); no memoir/community material beyond them; nothing new to absorb.
+- 2026-09-24 corpus re-check (slice 09230317-28): fresh grep 何汪瑗 / Nancy Ho returns only the three works already cited above (plus the works index); no memoir/community material beyond them; nothing new to absorb.
 
 ## Family
 
