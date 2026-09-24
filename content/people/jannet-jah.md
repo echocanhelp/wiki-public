@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # Jannet Jah (李俊玲)
 
@@ -37,6 +37,7 @@ Jennet Jah is the daughter of the noted composter, Professor Kenneth Lee. She gr
 
 ## From the record
 
+- 覆核（TJJ-A09171100-8, 2026-09-24）：slice 文章 b7ec76fa6b673920／2b3d5a363a2935eb（以立合唱團「致死的震怒近了」同稿兩存檔副本） 主體連結對照正文再驗證——連結為真實提及（無錯鏈、無虛鏈），對應日期事實條目（含該文 wikilink）已在庫 — SKIP，無新材料。
 - 複核（TJJ-A09221400-6, 2026-09-23）：「拯救我」兩存檔稿（原稿 526ee7d6／2025 重刊 7214b273）subject link 經正文再驗證為真實對應（女高音獨唱），2022-10-01／10-08 條目已在庫 — SKIP，無新材料。
 - 複核（TJJ-A09221400-5, 2026-09-23）：「學生王子」稿 2b2e0ebc subject link（聲樂指導）經正文再驗證為真實對應，2024-10-12 條目已在庫；Subjects 連結 .md 後綴已修正 — SKIP，無新材料。
 - 複核（TJJ-A09221400-9, 2026-09-23）：「拯救我」2024-02-24 存檔副本（80b33cf1846bc005）subject link（女高音獨唱）經正文再驗證為真實對應，引用条目已在库（无错链、无虚链）— SKIP，无新材料。

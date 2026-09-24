@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # Lynn Huang (黃令先)
 
@@ -44,6 +44,7 @@ _No filled family fields on the TAH profile._
 
 ## From the record
 
+- 覆核（TJJ-A09171100-8, 2026-09-24）：slice 文章 b7ec76fa6b673920／2b3d5a363a2935eb（以立合唱團「致死的震怒近了」同稿兩存檔副本） 主體連結對照正文再驗證——連結為真實提及（無錯鏈、無虛鏈），對應日期事實條目（含該文 wikilink）已在庫 — SKIP，無新材料。
 - 複核（TJJ-A09221400-8, 2026-09-23）：「希望之光」2025 存檔（[[articles/taiwanjustice-net/2025/20250524200224_以立合唱團世界首演_希望之光_影音_025f6ed990dc9e2c|025f6ed990dc9e2c]]）與「末日之淚」2024 存檔（[[articles/taiwanjustice-net/2024/20240302032241_root_f985012b1ed56ad0|f985012b1ed56ad0]]）subject/author link 經正文再驗證為真實對應（作曲兼指揮、鋼琴），引用条目均已在庫（无错链、无虚链）— SKIP，无新材料。
 - 複核（TJJ-A09221400-6, 2026-09-23）：「拯救我」兩存檔稿（原稿 526ee7d6／2025 重刊 7214b273）subject link 經正文再驗證為真實對應（鋼琴），2022-10-01／10-08 條目已在庫；7214b273 之 Subjects 的 .md 後綴連結已修正為慣例格式 — SKIP，無新材料。
 - 複核（TJJ-A09221400-5, 2026-09-23）：本切片四稿（末日之淚 e7e0fe18／學生王子 2b2e0ebc／音樂短講第13集 4119cffe／台文通訊30冬 753347eb 無涉本人）subject link 經正文再驗證為真實對應（鋼琴、音樂總監、泛音特講），引用条目已在库；Subjects 連結 .md 後綴已修正為慣例格式 — SKIP，無新材料。

@@ -71,6 +71,7 @@ Tsan-hung George Chang 張燦鍙 – History of Taiwanese American (T.A. Archive
 
 ## From the record
 
+- 2020-11-25 — FAHR 公告第44屆年會（12/5 台北）邀歷屆「鄭南榕紀念獎」得獎人回娘家，名列 1992 年得獎人（同列：1991 陳婉真、1997 黃文雄、2004 鄭自才、2005 林樹枝、2014 蔡丁貴、2016 金恆煒、2017 鄭文龍、2018 黃帝穎、2019 陳儀深；[[articles/taiwanjustice-net/2021/20210118235211_2020_11_25_全美台灣人權協會第44屆年會暨_鄭南榕紀念獎_頒_996879ac7a006acf|TJJ, 2020-11-25]]）。
 - 覆核（TJJ-A09171100-2, 2026-09-24）：本 slice 文章 cbf185d4e8137928（一顆難以忘懷的台灣心） 主體連結對照正文再驗證——連結為真實提及（無錯鏈、無虛鏈），對應日期事實條目（含該文 wikilink）已在庫 — SKIP，無新材料。
 - 2017-09-19 — 廖清山's memoir「一顆難以忘懷的台灣心」recalls 張燦鍙 and 賴文雄 coming to him in San Francisco during their 自由長征 cross-country activity, leaving promotional materials (《台灣青年》等) and recruiting him into the work — the start of a fifty-year 莫逆 friendship in which 廖 handled the grassroots chores and 張 brought him hard problems to discuss; the column also records the movement's outreach to figures like Senator Edward Kennedy and Rep. Solarz ([[articles/taiwanjustice-net/2024/20240301071009_root_cbf185d4e8137928|TJJ column, 2017-09-19]]).
 
