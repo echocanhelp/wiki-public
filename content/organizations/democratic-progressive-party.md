@@ -101,6 +101,8 @@ In 2006, the party ended official recognition of factions, though they remain re
 
 ## From the record
 
+- 再核（TJJ-A09170400-18, 2026-09-24）：本 slice 文章 b63290424caedcf7（LA Times 轉載）正文再驗證——民進黨2000–2008執政期主張台獨、黨聲明維持現狀等論述確認見於正文，subject 連結為真，無錯鏈、無虛鏈；2015-04-16 條目已在庫 — SKIP，已飽和。
+
 - 再核（TJJ-A09170400-6, 2026-09-23）：本 slice 文章 f19de8f9d3b53071 正文再驗證——扁案報導中 DPP 主席蘇貞昌會同護台聯盟 Aquia Tsay 後入監探視、黨譴責移監之論述確認，連結為真；2013-04-22 條目已在庫，無新材料。
 
 - 複核（TJJ-A09170400-5, 2026-09-23）：本 slice 文章 becb39f917174438（The Economist via TJJ）正文再驗證——DPP 揚彈劾/罷免馬、批評 ICAO 邀請出於中國建議等論述確認見於正文，連結為真；2013-10-06 條目已在庫 — SKIP，無新材料。
