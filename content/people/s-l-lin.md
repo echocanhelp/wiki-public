@@ -67,6 +67,7 @@ last_reviewed: 2026-09-24
 - Re-verify 2026-09-22 (TJJ-A09220400-7): link-check against slice article 2e141df6a5071110 body — mention confirmed real, dated fact above stands; no new material.
 - Re-verify 2026-09-22 (TJJ-A09220600-1): link-check against slice articles f454eda084b7ca99（園藝分類）and 8bf4798dd2771f38（大洛杉磯台灣會館分類）bodies — 「田土伯(林幸隆)…果樹培育密訣」mention confirmed real in both; dated fact with both wikilinks already in place above; no new material.
 - Re-verify 2026-09-23 (deepen-x slice 09221200-7): fresh grep (林幸隆／田土伯／S. L. Lin) over works/ + articles/ — hit set unchanged (ourjourneys159, whoswho1130, index, 田土伯／林幸隆／果樹培育 tag archive pages), all already cited above. Verified-saturated; no new material.
+- 覆核（TJJ-A09171200-9, 2026-09-24）：slice 09171200-9 四篇與 TJJ-A09170400-17 同文（北市議員缺額 93c0627d、全美會228 f6213c19、長青教室tag 2777c888、會館tag p13 ced69523）正文再驗證 — 本頁條目確認見於正文，連結為真；日期事實已在庫 — SKIP，無新材料。
 - 覆核（deepen-x slice 09230600-6, 2026-09-24）：fresh grep（林幸隆／田土伯／S. L. Lin）over works/ + articles/ — hit set unchanged（ourjourneys159、whoswho1130、index、田土伯／林幸隆／果樹培育 tag 存檔頁），全部已引用於上 — SKIP，已飽和，無新材料。
 
 ## Related Pages
