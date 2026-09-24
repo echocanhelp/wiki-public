@@ -62,6 +62,8 @@ From [[works/taiwaneseamericanhistory-org/ourjourneys76|TAH #76 — 全美台灣
 
 ## From the record
 
+- 複核（TJJ-A09230700-10, 2026-09-24）：本 slice 文章 da7f84e20eff6ae9（自救宣言59週年座談會報導）正文再驗證——「彭明敏文教基金會董事長鄭義和」與會並致詞記述確認見於正文，subject 連結為真；2023-09-24 條目（含該文 wikilink）已在庫 — SKIP，已飽和。
+
 - 複核（TJJ-A09221300-11, 2026-09-23）：subject link 經本 slice 再驗證為真實對應，對應 From-the-record 條目已在庫（無錯鏈、無虛鏈）— SKIP，無新材料。
 
 - 2023-09-24 — 以彭明敏文教基金會董事長身份出席國史館「台灣人民自救宣言案」史料彙編新書發表暨座談會，並致詞認為彭明敏一生的所做所為為台灣民主發展建立基礎 —— [[articles/taiwanjustice-net/2025/20250213225448_人民自救宣言59週年-林佳龍_難想像舊時荒謬_da7f84e20eff6ae9|TJJ/CNA, 2023-09-24]]。

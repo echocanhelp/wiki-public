@@ -53,6 +53,8 @@ Dr. Long-Rong (Mark) Kao 高龍榮 – History of Taiwanese American (T.A. Archi
 
 ## From the record
 
+- 複核（TJJ-A09230700-10, 2026-09-24）：本 slice 文章 042939d886040651 正文再驗證——署名欄「Mark Kao 高龍榮／president of the Formosan Association for Public Affairs」確認見於正文末段，subject 連結為真，無錯鏈、無虛鏈；2015-03-27 條目（含該文 wikilink）已在庫 — SKIP，已飽和。
+
 
 - 複核（TJJ-A09230400-1, 2026-09-24）：subject link 經本 slice 文章 2c9cb76838702dd7 正文再驗證為真實對應，對應 From-the-record 條目已在庫並掛鏈本檔（無錯鏈、無虛鏈）— SKIP，無新材料。
 

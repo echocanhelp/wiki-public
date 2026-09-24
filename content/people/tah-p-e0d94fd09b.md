@@ -6,7 +6,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-24
 ---
 # 陳西園
 
@@ -53,6 +53,7 @@ _No filled family fields on the TAH profile._
 - 2016-06-14 — 大洛杉磯台灣會館主辦的2016台美小姐選拔開訓首日，陳西園老師擔綱舞蹈指導，為十二位進入決選的佳麗進行八週專業訓練的一部分（決選晚會訂8月7日於聖蓋博希爾頓舉行）（[[articles/taiwanjustice-net/2023/20230204022253_2016_06_14_2016台美小姐選拔-開訓記者會大洛杉磯台灣會館06122016-_735744492226b90c|TJJ, 2016-06-14]]；[[articles/taiwanjustice-net/2024/20240522043642_root_cc3bbdbfc662fe66|2024 存檔copy]]）。
 
 - 再驗證（deepen-x slice 09221300-15, 2026-09-23）：fresh grep works/+articles/ 命中集＝560 本人條目、works/index、已引 TJJ 四則（2016 開訓、2023 選拔、FASCA、存檔copy）— 全部已吸收，無錯鏈、無虛鏈 — SKIP，無新材料。
+- 再驗證（deepen-x slice 09230800-2, 2026-09-24）：fresh grep works/+articles/ 命中集＝560 本人條目、works/index、已引 TJJ 四則 — 全部已吸收，無錯鏈、無虛鏈 — SKIP，無新材料。
 
 ## Sources
 - [TAH #560 encyclopedia: 560. 陳西園 / 2015/08](https://taiwaneseamericanhistory.org/560-%e9%99%b3%e8%a5%bf%e5%9c%92-201508/)
