@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # John Enger Cheng (鄭榮得)
 
@@ -40,7 +40,7 @@ Accomplishment
 - Documented across three TAH encyclopedia records spanning 2015–2019: [[works/taiwaneseamericanhistory-org/artist36-john-cheng|TAH #36 — 鄭榮得 John Cheng, artist (2015-03)]], [[works/taiwaneseamericanhistory-org/whos-who-1019-john-enger-cheng|TAH #1019 (2016-05-26)]], and [[works/taiwaneseamericanhistory-org/ota-227|TAH #227 (2019-01-20)]] — each a bibliographic record.
 - Interviewed for the TAH story corpus in 閃亮的第二代—訪鄭榮得 (2015-04-14, by 李淑櫻), a second-generation profile in the My Stories series: [[works/taiwaneseamericanhistory-org/mystories231|TAH #231 — 閃亮的第二代 訪鄭榮得 (2015-04)]]. The interview frames him as part of the 閃亮的第二代 ("shining second generation") cohort — children of the movement generation who carried the community's cultural work into the arts.
 - Appears in the corpus as an artist/designer second-generation profile (USC Roski School; Winnow+Glean co-founder); son of [[people/simon-cheng|Simon Cheng 鄭良光]]. No movement-organizational roles recorded in the vault corpus.
-- SKIP (deepen-x 09180200-2): the remaining corpus hits matching "John Cheng" are a DIFFERENT person — Dr. John Cheng, the physician killed shielding worshippers in the 2022-05-15 Irvine PCT church shooting ([[works/taiwaneseamericanhistory-org/our-journeys-380|Our Journeys #380]]) and honored by the Carnegie Hero Fund Commission ([[works/taiwaneseamericanhistory-org/910-carnegie-hero-fund-commission-john-cheng-and-billy-chang-09-2024|TAH #910, 2024-09]]); that Dr. Cheng's father was the late 鄭俊曉醫師, not this artist's father 鄭良光. Not merged.
+- SKIP (deepen-x 09180200-2): the remaining corpus hits matching "John Cheng" are a DIFFERENT person — Dr. John Cheng, the physician killed shielding worshippers in the 2022-05-15 Irvine PCT church shooting ([[works/taiwaneseamericanhistory-org/our-journeys-380|Our Journeys #380]]) and honored by the Carnegie Hero Fund Commission ([[works/taiwaneseamericanhistory-org/910-carnegie-hero-fund-commission-john-cheng-and-billy-chang-09-2024|TAH #910, 2024-09]]); that Dr. Cheng's father was the late 鄭俊曉醫師, not this artist's father 鄭良光. Not merged. A later press report in the corpus also covers the shooting and names the victim 鄭達志 (John Cheng) ([[articles/taiwanjustice-net/2025/20250212080020_一把椅子制伏槍手-南加州教會槍擊案目擊者_勇敢_4a1c41c54468c213|Taiwan Justice, 2025-02-12]]) — further confirmation the "John Cheng" church-shooting hits belong to a different person.
 - Corpus re-grep 2026-09-21 (slice 09201400-20): hit set unchanged (own TAH records #36/#227/#1019, mystories231 interview, plus the unrelated Dr. John Cheng shooting records) — SKIP: already saturated, no new facts for this person.
 - Corpus re-grep 2026-09-22 (slice 09211400-8): hit set unchanged (mystories231, artist36, ota-227, whos-who-1019, plus the unrelated Dr. John Cheng records 910/our-journeys-380) — SKIP: saturated, no absorbable new facts.
 - Corpus re-grep 2026-09-22 (slice 09220800-16): hit set unchanged (mystories231, artist36, ota-227, whos-who-1019 + works index) — SKIP: verified-saturated, no absorbable new facts.

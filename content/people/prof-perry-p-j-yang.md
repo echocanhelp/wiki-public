@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # Prof. Perry P.J. Yang (楊沛儒教授)
 
@@ -59,3 +59,6 @@ Corpus re-grep 2026-09-21 (slice 09201400-24): 楊沛儒 / Perry Yang matches un
 
 ## Corpus re-grep (2026-09-24, slice 09230400-8)
 - SKIP: ZH+EN re-grep across content/works + content/articles: hit-set unchanged, all prior hits already absorbed and wikilinked; no new corpus material to absorb (saturated).
+
+## Corpus re-grep (2026-09-25, slice 09240317-15)
+- SKIP: ZH+EN re-grep 楊沛儒 / Perry Yang（works + articles）命中集不變 — 本人條目 [[works/taiwaneseamericanhistory-org/whos-who-2002-perry-p-j-yang|TAH #2002]] 及 works index 而已；台美史料中心記錄已作為脈絡連結收錄。無新語料可吸收（saturated）。
