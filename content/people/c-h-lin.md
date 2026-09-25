@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-25
 ---
 # C. H. Lin (林建宏)
 
@@ -44,3 +44,5 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+- 2026-09-25 覆核（deepen-x 09231300-20）：works/、articles/ 全庫再查，僅見自身 TAH 檔案、index 與上列同名消歧紀錄，無新社群事蹟可吸收。

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-25
 ---
 # Ho Chu Yao (姚張和珠)
 
@@ -49,3 +49,5 @@ last_reviewed: 2026-09-21
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+- Corpus re-grep 2026-09-25 (deepen-x 09231300-20): hit set unchanged (own TAH record + index only); 姚慶章 couple links already recorded; no new community facts absorbable.

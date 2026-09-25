@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-25
 ---
 # Eric Cheng (鄭晧)
 
@@ -53,3 +53,5 @@ Corpus records for 鄭晧 are limited to his own TAH encyclopedia entry, so no i
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+- Corpus re-grep 2026-09-25 (deepen-x 09231300-20): hit set unchanged (own TAH record + index only); no new community facts absorbable.

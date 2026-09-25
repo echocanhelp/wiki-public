@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-25
 ---
 <!-- deepen-x slice 09201503-26: verified-saturated 2026-09-21 — re-grepped works+articles for 王振濃/Keith Wang: hits are only own TAH #2029 record + index page; SKIP-with-reason stands, nothing absorbable. -->
 # Dr. Keith Wang (王振濃博士)
@@ -46,3 +46,5 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+- Corpus re-grep 2026-09-25 (deepen-x 09231300-20): hit set unchanged (own TAH record + index only); no new community facts absorbable.
