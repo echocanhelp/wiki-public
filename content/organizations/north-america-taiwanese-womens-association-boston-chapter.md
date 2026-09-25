@@ -31,6 +31,8 @@ Corpus re-grep 2026-09-23 (slice 09220900-15): hit set unchanged — the chapter
 
 Corpus re-grep 2026-09-24 (slice 09230400-3): hit set unchanged — the chapter's own profile [[works/taiwaneseamericanhistory-org/natwa-boston-chapter|natwa-boston-chapter]] plus index entries remain the only chapter-specific coverage; the other 波士頓分會 hits (TAP/TAA Boston records) belong to different organizations, already excluded above. SKIP-with-reason (saturated).
 
+Corpus re-grep 2026-09-25 (slice 09240317-3): hit set unchanged — the chapter profile plus index entries remain the only Boston-chapter coverage; the other NATWA-named hits, [[works/taiwaneseamericanhistory-org/concerts118|NATWA-NJ 「與莫札特有緣」音樂會 (2006)]] and [[works/taiwaneseamericanhistory-org/natwa-oregonsouth-west-chapter|Oregon/South West Chapter profile]], concern other chapters, not Boston. SKIP-with-reason (saturated).
+
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/north-america-taiwanese-womens-association-boston-chapter/)
 

@@ -41,6 +41,7 @@ From TAH community records and memoirs (primary material):
 - Re-verify 2026-09-22 (slice 09220800-14): fresh re-grep — same 6 hits, all already wikilinked above. SKIP, verified-saturated.
 - Re-verify 2026-09-23 (slice 09230317-14): fresh re-grep — same 6 hits (ourjourneys253, #363, ourjourneys76-eng, ourjourneys186, #222, #140), all wikilinked. SKIP, verified-saturated.
 - Deepen 2026-09-24 (slice 09230317-14 completion pass): fresh re-grep 蔡銘祿/Minlu Chai — beyond the 6 linked records, two sister-language copies of the same Our Journeys reports carry the identical campaign material: Chinese original [[works/taiwaneseamericanhistory-org/ourjourneys76|Our Journeys 76 (中文)]] (counterpart of the EN edition already cited for the 1990 census joint staff meetings hosted at his Hilton) and [[works/taiwaneseamericanhistory-org/ourjourneys186-eng|Our Journeys 186 (EN)]] (counterpart of the 1985-04-15 台灣公論報 roster record). No new facts; linkage now complete, saturated.
+- Re-verify 2026-09-25 (slice 09240317-3): fresh re-grep 蔡銘祿/Minlu Chai — same 6 hits (ourjourneys253, #363, ourjourneys76-eng, ourjourneys186, #222, #140), all wikilinked. SKIP, verified-saturated.
 
 ## Family
 
