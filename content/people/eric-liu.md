@@ -48,6 +48,7 @@ _No filled family fields on the TAH profile._
 - Charis Chu 的散文 [[works/taiwaneseamerican-org/on-stubborn-roots-creative-nonfiction-by-charis-chu|On Stubborn Roots]] 引用 Liu 名句 "The forgetting is relentless." 描寫二代與母土的記憶斷裂。
 - TAH 基金會名人錄條目：[[works/taiwaneseamericanhistory-org/179-eric-liu-e5-8a-89-e6-9f-8f-e5-b7-9d|179. Eric Liu 劉柏川]]。
 
+^- Corpus re-check 2026-09-25 (slice deepen-x-09240400-13): fresh ZH+EN grep 劉柏川 / Eric Liu against works/articles returned only the own-name record #179, the works index, and the two already-absorbed essays (「What are you?」, On Stubborn Roots) — verified-saturated again, nothing new absorbable. SKIP.
 ^- Corpus re-check 2026-09-24: fresh ZH+EN grep against works/articles returned only the already-absorbed records above plus substring false matches (place names like Rowland Heights, month words like "June line-up", the works index) — verified-saturated, nothing new absorbable.
 
 ## Sources

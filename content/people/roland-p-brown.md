@@ -45,6 +45,7 @@ last_reviewed: 2026-09-25
 - **Son:** Clifford Brown, G. Keith Brown
 
 
+^- Corpus re-check 2026-09-25 (slice deepen-x-09240400-13): fresh ZH+EN grep 薄柔纜 / Roland Brown against works/articles returned only the already-absorbed TAH #88 / My Stories #159 records plus the works index — verified-saturated again, nothing new absorbable. SKIP.
 ^- Corpus re-check 2026-09-24: fresh ZH+EN grep against works/articles returned only the already-absorbed records above plus substring false matches (place names like Rowland Heights, month words like "June line-up", the works index) — verified-saturated, nothing new absorbable.
 
 ## Sources
