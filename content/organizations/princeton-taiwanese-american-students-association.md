@@ -29,6 +29,7 @@ The Princeton Taiwanese American Students Association (TASA) is an undergraduate
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/princeton-taiwanese-american-students-association/)
 
 - Corpus re-check 2026-09-24 (deepen-x slice 09230700-7): fresh grep (PTASA / Princeton Taiwanese / 普林斯頓.*台) adds only incidental hits — 普林斯頓散記 author mention in a 筆會年刊 piece ([[works/taiwaneseamericanhistory-org/ourjourneys12|Our Journeys 12]]) and a 普林斯頓神學院 memoir passage ([[works/taiwaneseamericanhistory-org/ourjourneys268|Our Journeys 268]]), neither about this student group. Verified saturated.
+- Corpus re-check 2026-09-25 (deepen-x slice 09240600-25): fresh grep hit-set identical (ourjourneys356 ZH+EN, ourjourneys12/268 incidental, TJJ 華語文中心/國防工業會議 articles); 356 context re-read adds no new PTASA detail. SKIP-content: verified-saturated; both HOLDs (Student(s) naming, 2020-active vs ~2018-inactive/2022-revived) stand.
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

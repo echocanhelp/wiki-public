@@ -34,6 +34,8 @@ Corpus re-check 2026-09-23 (deepen-x slice 09221200-17): fresh grep again — ne
 
 Corpus re-grep 2026-09-24 (deepen-x slice 09230600-20): fresh ZH+EN grep returns only the two already-linked work pages (Kid's Fun Festival, directory #37), the taiwanjustice.net 年會 tag capture ("No posts to display"), and manifest/index listings — no new material. Verified saturated; SKIP this pass.
 
+Corpus re-grep 2026-09-25 (deepen-x slice 09240600-20): fresh grep 台灣文化體育協會 / Cultural and Sports / TASA — the TASA matches (ourjourneys173-eng, ourjourneys157, history-of-itasa, 176 Keimay Yang memorial, 578 ITASA, newsletter-itasa) are the student TASA/ITASA, a different org matched on the generic acronym; no 體育協會 passage. SKIP — nothing absorbable.
+
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-cultural-and-sports-association/)
 
