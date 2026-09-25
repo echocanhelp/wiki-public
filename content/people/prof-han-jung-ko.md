@@ -39,6 +39,7 @@ _No filled family fields on the TAH profile._
 - TAH directory profile #1665 ([[works/taiwaneseamericanhistory-org/whos-who-1665-han-jung-ko|1665. Prof. Han-Jung Ko 柯涵容教授]], published 2017-05-17, bibliographic record only). No memoir in the corpus elaborates further.
 
 > Re-verified 2026-09-22 (slices 09210831-11, 09220700-15): fresh grep of works/articles (柯涵容 / Han-Jung Ko / Han Jung Ko) returns only the two records already linked above (Pew response statement, whos-who-1665) plus index rows — no new absorbable corpus material.
+<!-- deepen-x slice 09231100-6 (2026-09-25): SKIP re-verified — fresh grep (柯涵容/Han-Jung Ko) returns only Pew response statement + whos-who-1665; verified saturated. -->
 
 ## Sources
 - [TAH #1665 encyclopedia: 1665. Prof. Han-Jung Ko 柯涵容教授](https://taiwaneseamericanhistory.org/whos-who-1665-han-jung-ko/)

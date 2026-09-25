@@ -11,7 +11,7 @@ tags:
   - education
   - certification
 verification_status: pending
-last_reviewed: 2026-07-22
+last_reviewed: 2026-09-25
 ---
 # Overseas Community Affairs Council (僑務委員會)
 
@@ -165,6 +165,7 @@ OCAC plays a significant role in the **Taiwanese-American experience** in Southe
 
 
 - 複核（TJJ-A09171100-4, 2026-09-24）：本 slice 文章 162effa713237818 正文再驗證——本頁 subject link 為真實對應（無錯鏈、無虛鏈），對應 From-the-record 條目已在庫 — SKIP，無新材料。
+- 複核（TJJ-A09231000-2, 2026-09-25）：本 slice 4 篇 TJJ 文章（2d725102 去殖民化（下）、039ccce4 Joyce Lin 墜機、162effa7 TASF 紓困獎學金、1d72b2ae 小英後援會造勢）subject link 再驗證：僑務委員會 OCAC（經故僑務委員王桂榮） 對應真實，無錯鏈、無虛鏈；對應 From-the-record 條目已在庫 — SKIP，無新材料。
 - 2020-06-16 — A TASF/TJJ press release for the Student Covid-19 Relief Scholarship Program records that the 大洛杉磯台灣會館基金會, the article's Greater-LA award-issuing partner, was founded in 1998 when the late OCAC commissioner (故僑務委員) 王桂榮 (Ken John Wang) generously donated the property, with 萬通銀行總裁吳澧培 as fundraising chair ([[articles/taiwanjustice-net/2020/20200622034426_2020_06_16_給台美人學生的-tasf-covid-19-疫情紓困獎學金接受申請_162effa713237818|TJJ, 2020-06-16]]).
 
 ## Related Pages
