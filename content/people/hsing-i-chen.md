@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # Hsing-I Chen (陳欣沂)
 
@@ -52,3 +52,4 @@ Re-grepped 陳欣沂 / Hsing-I Chen across content/works + content/articles: the
 Slice deepen-x-slice-09220700-6 re-run (2026-09-22): identical hit set (#329, #825, works index) -- SKIP-no-new-material (saturated).
 Slice deepen-x-slice-09221400-2 re-run (2026-09-23): fresh grep 陳欣沂|Hsing-I Chen — identical hit set (#329, #825, works index) -- SKIP-no-new-material (saturated).
 Slice deepen-x-slice-09230800-2 re-run (2026-09-24): fresh grep 陳欣沂|Hsing-I Chen — identical hit set (#329, #825, works index) -- SKIP-no-new-material (saturated).
+Slice deepen-x-slice-09240700-2 re-run (2026-09-25): fresh grep 陳欣沂|Hsing-I Chen — identical hit set (#329, #825, works index) -- SKIP-no-new-material (saturated).
