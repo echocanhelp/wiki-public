@@ -55,3 +55,4 @@ last_reviewed: 2026-09-25
 
 - 2021-02-28 — 台美史料中心3月通訊刊出〈不怕死的「病西施」One Brave Woman〉（Ken Lee 撰、許鍾琳譯），記蘇妙香（I Miaw Shang Su）與林宣緒（Adrian Lin）由台灣與美國兩地牽成的婚事（[[articles/taiwanjustice-net/2021/20210419132127_2021_02_28_march-2021-newsletter-t-a-archives-台美史料中心_0832558e3b4e5ac7|TJJ, 2021-02-28]]；同文另存 [[articles/taiwanjustice-net/2026/20260208202549_march-2021-newsletter-t-a-archives-台美史料中心_b7327dcf888cee82|2026-02-08 快照]]）。
 <!-- deepen-x 09231000-15: verified-saturated — corpus re-scan (works/articles) fresh 2026-09-25: ZH+EN grep hit set identical to prior passes (own TAH record + already-wikilinked works/index entries only); no new community material. -->
+<!-- TJJ-A09240800-10: verified 2026-09-25 — subject links in slice 09240800-10 articles confirmed real; dated fact w/ article wikilink already in From the record — saturated, no new material. -->

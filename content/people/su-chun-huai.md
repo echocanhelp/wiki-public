@@ -106,3 +106,4 @@ Pages that link to **su-chun-huai** (su-chun-huai):
 - [[people/lisa-su||Lisa T. Su (蘇姿丰) — daughter, AMD CEO]]
 - [[people/franklin-ping-cheng||Franklin Ping Cheng (程炳成) — TAHS president]]
 - [[organizations/new-york-taiwan-center||New York Taiwan Center (紐約台灣會館)]]
+<!-- TJJ-A09240800-10: verified 2026-09-25 — subject links in slice 09240800-10 articles confirmed real; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
