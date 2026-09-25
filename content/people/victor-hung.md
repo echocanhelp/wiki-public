@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # Victor Hung (洪家棟)
 
@@ -45,6 +45,7 @@ Victor Hung is active in the Los Angeles Taiwanese American community both as pr
 
 ## Corpus re-check
 - Re-check (deepen-x 2026-09-21): re-grep（洪家棟 / Victor Hung）hit set unchanged (TAH #521, #522, #104, #60, works index, TJJ 傳統週 record) — every hit already absorbed above; no new community material.
+- Corpus re-check (deepen-x slice 09240317-13, 2026-09-25): fresh grep 洪家棟／Victor Hung (works+articles, excl. index) hit set identical — #522, #521, #104, TAH #60, TJJ 傳統週 record — all already absorbed. SKIP, verified-saturated.
 
 ## Sources
 - [[works/taiwaneseamericanhistory-org/522-e6-b4-aa-e5-ae-b6-e6-a3-9f-e5-90-89-e4-bb-96-e4-bb-8b-e7-b4-b9-e7-89-87-e6-b|522. 洪家棟 吉他介紹片 (2003, 音樂CD)]]
