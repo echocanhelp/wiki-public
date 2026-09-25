@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-25
 ---
 # Ying-ming Huang (黃英明)
 
@@ -38,6 +38,8 @@ last_reviewed: 2026-09-22
 ## Family
 
 _No filled family fields on the TAH profile._
+
+> Re-verified 2026-09-25 (slice 09231200-31): fresh grep 黃英明/Ying-ming Huang returned only works/index.md entries for the already-linked records (#1384, award #67, 台權會新聞網 article); no additional corpus material — SKIP-with-reason.
 
 ## Sources
 - [TAH #1384 encyclopedia: 1384. Ying-ming Huang 黃英明 / 2016/11](https://taiwaneseamericanhistory.org/whoswho1384/)

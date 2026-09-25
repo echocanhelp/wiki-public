@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-25
 ---
 # Doris T. Chang (張庭寧)
 
@@ -40,6 +40,8 @@ last_reviewed: 2026-09-22
 ## Family
 
 _No filled family fields on the TAH profile._
+
+> Re-verified 2026-09-25 (slice 09231200-31): fresh grep 張庭寧/Doris T. Chang returned only works/index.md entries for the already-absorbed book #140 and encyclopedia #1188; no memoir/press-kit narrative beyond the snapshot — SKIP-with-reason.
 
 ## Sources
 - [TAH #1188 encyclopedia: 1188. Doris T. Chang  張庭寧 / 2016/04](https://taiwaneseamericanhistory.org/whoswho1188/)
