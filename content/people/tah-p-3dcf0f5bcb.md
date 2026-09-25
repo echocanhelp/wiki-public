@@ -6,7 +6,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-25
 ---
 # 賴東成
 
@@ -33,7 +33,7 @@ _No filled family fields on the TAH profile._
 
 ## Role in the Community
 
-_SKIP (deepen-x 09181100-27; re-verified deepen-x 09200939-10 and 09210920-31, 2026-09-22): corpus grep for 賴東成 found only this person's own TAH Who's Who bibliographic record [[works/taiwaneseamericanhistory-org/95-e8-b3-b4-e6-9d-b1-e6-88-90|TAH #95]] — no memoir or community material to absorb; no new facts added._
+_SKIP (deepen-x 09181100-27; re-verified deepen-x 09200939-10, 09210920-31 and 09240400-20, 2026-09-25): corpus grep for 賴東成 found only this person's own TAH Who's Who bibliographic record [[works/taiwaneseamericanhistory-org/95-e8-b3-b4-e6-9d-b1-e6-88-90|TAH #95]] — no memoir or community material to absorb; no new facts added._
 
 ## Sources
 - [TAH #95 encyclopedia: 95. 賴東成](https://taiwaneseamericanhistory.org/95-%e8%b3%b4%e6%9d%b1%e6%88%90/)
