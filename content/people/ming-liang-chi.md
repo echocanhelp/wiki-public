@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-25
 ---
 # Ming-Liang Chi (溫明亮)
 
@@ -34,7 +34,7 @@ last_reviewed: 2026-09-22
 
 
 ## Role in the Community
-- SKIP-with-reason: corpus re-scan (deepen-x 09210920-31, 2026-09-22, ZH+EN) found no memoir/article material beyond her own bibliographic Who's Who record [[works/taiwaneseamericanhistory-org/whoswho1536|TAH #1536, 2017/02]] — no absorbable community facts.
+- SKIP-with-reason: corpus re-scan (deepen-x 09240400-23, 2026-09-25, ZH+EN; prior scan 09210920-31) again found no memoir/article material beyond her own bibliographic Who's Who record [[works/taiwaneseamericanhistory-org/whoswho1536|TAH #1536, 2017/02]] — no absorbable community facts.
 
 ## Sources
 - [TAH #1536 encyclopedia: 1536. Ming-Liang Chi 溫明亮/ 2017/02](https://taiwaneseamericanhistory.org/whoswho1536/)

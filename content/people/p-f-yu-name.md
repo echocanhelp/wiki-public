@@ -29,6 +29,7 @@ last_reviewed: 2026-09-25
 ## Role in the Community
 
 - Own TAH encyclopedia record preserved in the corpus: [[works/taiwaneseamericanhistory-org/whoswho948|949. P. F. Yu Name 喻鵬飛]] (published 2016-04-24). This is the sole corpus mention — no memoir or article material beyond the Who's Who entry.
+- Re-verified SKIP (deepen-x 09240400-22, 2026-09-25): fresh grep 喻鵬飛/P. F. Yu — hit set identical (own TAH record [[works/taiwaneseamericanhistory-org/whoswho948|949. P. F. Yu Name 喻鵬飛 / 2016-04]] only). Nothing new absorbable.
 
 ## Family
 

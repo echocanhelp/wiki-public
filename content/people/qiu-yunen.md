@@ -27,6 +27,7 @@ Elder Qiu appears in church bulletin records and is recognized as a community el
 - Moderate confidence: named in bulletin records
 - SKIP (deepen-x 09200939-20, 2026-09-21): no corpus hits for 邱瑜嫩/Qiu Yunen in content/works or content/articles — nothing absorbable beyond the existing bulletin-record note.
 - Re-verified SKIP (deepen-x 09211200-13, 2026-09-22): fresh grep 邱瑜嫩/Qiu Yunen across works/ and articles/ — still zero hits.
+- Re-verified SKIP (deepen-x 09240400-22, 2026-09-25): fresh grep 邱瑜嫩/Qiu Yunen across works/ and articles/ — third consecutive zero-hit sweep; nothing absorbable.
 
 ## Name Variants / Disambiguation
 - Chinese: 邱瑜嫩

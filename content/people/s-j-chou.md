@@ -27,6 +27,7 @@ _No filled family fields on the TAH profile._
 
 ## Role in the Community
 - Prof., educator (台灣). Recorded in the TAHS Who's Who corpus on 2016-08-15: [[works/taiwaneseamericanhistory-org/whoswho1246|1246. S. J. Chou 周信結 / 2016/08]] (band B; bibliographic record only, full text stays in the vault). No memoir/narrative corpus hits beyond the Who's Who entry itself.
+- 2026-09-25 deepen-X re-check: fresh ZH+EN grep returned only this already-cited record and index listings — SKIP: no new corpus material.
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/s-j-chou/)

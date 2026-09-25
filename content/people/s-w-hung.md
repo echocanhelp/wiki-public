@@ -23,6 +23,7 @@ S. W. Hung (洪順伍博士) is listed in the TAH Foundation Who’s Who Taiwane
 
 ## Role in the Community
 - Listed in the TAH Foundation Who's Who profile record [[works/taiwaneseamericanhistory-org/whoswho1067|1068. S. W. Hung 洪順伍 / 2016/06]] (2016/06). No other corpus mentions found in memoirs/articles — biographical detail beyond the TAH profile remains unknown.
+- 2026-09-25 deepen-X re-check: fresh ZH+EN grep returned only this already-cited record and index listings — SKIP: no new corpus material.
 
 ## Family
 
