@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-25
 ---
 # Taiwan Student Association at the University of Michigan
 
@@ -29,6 +29,7 @@ The Taiwan Student Association (TWSA) at the University of Michigan is an underg
 - Deepen pass 2026-09-21 (slice 09201400-12): re-grep confirms saturation; the only additional hit is a held issue of the Ann Arbor-area chapter newspaper — 982. 台風眼月報 第七期 (全美台灣同鄉會, 1994-04) — now linked here as an extant record of that publication: [[works/taiwaneseamericanhistory-org/publicationmagazines982|982. 台風眼月報 第七期 / 1994-04]]. No new officer/event facts. Re-verified 2026-09-22 (slice 09211400-4): NATPA 密西根分會 record absorbed above; remaining 密西根/Michigan hits (ourjourneys311/378/269) are Lake Michigan geography or Ohio-concert memoirs — unrelated; no further absorbable material.
 - Re-check (slice deepen-x-slice-09220800-7, 2026-09-22): fresh re-grep (台灣同學會+密西根 / Formosan Club Michigan / TWSA) — hit set unchanged (only the already-linked 密西根大學台灣同鄉會通訊 record + index). No new officer/event facts. SKIP-with-reason.
 - Re-check (slice deepen-x-slice-09230317-5, 2026-09-23): re-grep adds one regional-body record not yet linked here — FAPA 台灣人公共事務會 also kept a Michigan central chapter record: [[works/taiwaneseamericanhistory-org/30-michigan-central-chapter-fapa|30. Michigan Central Chapter / FAPA 密西根州中部分會]]. The ourjourneys277 hit is the UW-Madison 台灣布袋戲團 (Wisconsin, not Michigan campus) — unrelated. No TWSA officer/event facts.
+- Re-check (slice deepen-x-slice-09231000-1, 2026-09-25): fresh grep (密西根台灣同學會 / Formosan Club Michigan / Ann Arbor) adds one Ann Arbor community-body record — the 安雅堡台灣教會 40th anniversary (2016-11-20), whose program recalls 許永華 in Ann Arbor as a main organizer of the post-1981 陳文成 donation campaign ([[works/taiwaneseamericanhistory-org/important2016-30|30. 40th Anniversary of Ann Arbor Taiwanese Church]]) — adjacent adult-community context for the same 陳文成 network already cited above, no TWSA link stated. Remaining hits are the already-linked records or the UT-Austin Formosan Club (Texas, unrelated). No new TWSA facts. SKIP-with-reason (saturated).
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwan-student-association-at-the-university-of-michigan/)
