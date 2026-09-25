@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # Shun Hua Yu (余舜華)
 
@@ -38,6 +38,7 @@ _No filled family fields on the TAH profile._
 - Education per TAH profile: 台大農化系 1959 B.S. — consistent with Federation-president era; no conflict.
 - Corpus re-grep 2026-09-23 (slice 09221400-15): fresh grep returns only the already-cited memoirs — 三十年回顧（921賑災16萬、2000大選募款60萬）、會館誕生（选址幫忙）、黑名單（北加州拒簽名單）、自身紀錄 #1067, plus index rows. All absorbable facts already on this page. Verified-saturated; SKIP-deepen.
 - Corpus re-grep 2026-09-24 (slice 09230900-6): hit set unchanged (ourjourneys24/-eng, 38/-eng, 106, whoswho1066). SKIP — saturated, no new facts.
+- Corpus re-grep 2026-09-25 (slice 09240900-4): fresh grep 余舜華/Shun Hua Yu returns the same saturated set. Text re-verified against the page: 三十年回顧 confirms 第26屆會長余舜華 initiated the 921 賑災捐款 (16萬美元 remitted under 第27屆陳麗都) and the 2000 大選 60萬募款 sits in the same section without naming a beneficiary — existing HOLD preserved; 會館誕生 confirms 选址帮忙 by 余舜華、溫美玲、羅芙美 (memoir names 溫美玲/羅芙美, no pages yet — no wikilink added); 黑名單 places her among 北加州 簽証被拒/受刁難 figures. SKIP — saturated, no new facts.
 
 ## Sources
 - [TAH #1067 encyclopedia: 1067. Shun Hua Yu 余舜華 / 2016/06](https://taiwaneseamericanhistory.org/whoswho1066/)

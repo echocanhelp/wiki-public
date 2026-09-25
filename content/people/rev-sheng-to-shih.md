@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # Rev. Sheng-To Shih (施聖導牧師)
 
@@ -53,3 +53,4 @@ _No filled family fields on the TAH profile._
 - Re-grep 2026-09-21 (slice 09201500-21): corpus scan again returns only own TAH #1640 record + index — no memoir material to absorb; verified saturated, no conflicts.
 - Re-grep 2026-09-22 (slice 09211500-21): hit set unchanged (own TAH #1640 record + works index only) — verified saturated; SKIP, nothing absorbable.
 - Re-grep 2026-09-23 (slice 09221000-20): hit set unchanged (own TAH #1640 record + works index only) — verified saturated; SKIP, nothing absorbable.
+- Re-grep 2026-09-25 (slice 09240800-29): hit set unchanged (own TAH #1640 record + works index only) — verified saturated; SKIP, nothing absorbable.
