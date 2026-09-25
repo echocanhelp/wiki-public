@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # Dr. Cecelia Tsai (葉明霞博士)
 
@@ -54,3 +54,4 @@ last_reviewed: 2026-09-24
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- Corpus re-grep 2026-09-25 (slice 09240317-24): hit set identical to records already absorbed above; no new corpus facts. SKIP-with-reason (saturated).

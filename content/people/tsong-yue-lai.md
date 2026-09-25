@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # Tsong-Yue Lai (賴聰域教授)
 
@@ -61,3 +61,4 @@ last_reviewed: 2026-09-24
 - Corpus re-grep 2026-09-22 (slice 09220800-21): hit set again identical (#390 entry + 2018 台大校友名錄 article, both linked above). No new first-person material; SKIP, saturated.
 
 slice 09230317-20 re-grep (2026-09-24): corpus hit set identical to links already absorbed above — no new absorbable facts.
+- Corpus re-grep 2026-09-25 (slice 09240317-24): hit set identical to records already absorbed above; no new corpus facts. SKIP-with-reason (saturated).

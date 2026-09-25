@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # Sarolina Chang (沈麗華)
 
@@ -62,3 +62,4 @@ Corpus re-grep 2026-09-22 (slice 09220800-22): fresh 沈麗華 / Sarolina Chang 
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 slice 09230317-20 re-grep (2026-09-24): corpus hit set identical to links already absorbed above — no new absorbable facts.
+- Corpus re-grep 2026-09-25 (slice 09240317-24): hit set identical to records already absorbed above; no new corpus facts. SKIP-with-reason (saturated).
