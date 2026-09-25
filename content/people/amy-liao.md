@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-25
 ---
 # Amy Liao (廖允民)
 
@@ -37,7 +37,7 @@ _No filled family fields on the TAH profile._
 - Contributed to the TaiwaneseAmerican.org (TAF network) community record: authored the 2013-10-28 interview 「Going Where No Taiwanese American Has Gone Before: Stephanie Chang Representing Detroit」, where the author note says she then lived and worked in Philadelphia with a t-shirt drawer from TAF and TaiwaneseAmerican.org — per [[works/taiwaneseamerican-org/stephanie-chang-representing-detroit|Stephanie Chang Representing Detroit]].
 - HOLD: conflict — TAH profile geography says Ontario/Canada and employment lists Esperanza Health Care, while the 2013 TaiwaneseAmerican.org byline note places her in Philadelphia; not merged.
 - Her own TAH story is held at [[works/taiwaneseamericanhistory-org/whoswho1693|1693. Amy Liao 廖允民 / 05/2017]].
-- Corpus re-scan 2026-09-21: no additional mentions beyond her own record, the Stephanie Chang interview above, and the auto-generated works/index listing — nothing new absorbable.
+- Corpus re-scan 2026-09-21 and 2026-09-25: no additional mentions beyond her own record, the Stephanie Chang interview above, and the auto-generated works/index listing — nothing new absorbable.
 
 ## Sources
 - [TAH #1693 encyclopedia: 1693. Amy Liao 廖允民 / 05/2017](https://taiwaneseamericanhistory.org/whoswho1693/)
