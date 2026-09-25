@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-25
 ---
 # Ja Hsieh (謝家豪博士)
 
@@ -39,6 +39,7 @@ _No filled family fields on the TAH profile._
 - Held in the TAH story corpus as encyclopedia records [[works/taiwaneseamericanhistory-org/298-ja-hsieh-e8-ac-9d-e5-ae-b6-e8-b1-aa-percussionist-201510|298. Ja Hsieh謝家豪, Percussionist]] and [[works/taiwaneseamericanhistory-org/649-ja-hsieh-e8-ac-9d-e5-ae-b6-e8-b1-aa-201510|649. Ja Hsieh 謝家豪]], both published 2015-10-03 — community documentation of him as a Taiwanese American percussionist, catalogued alongside peers such as Joseph Lin 林以信 and Jonathan Jou 周政忠.
 
 - Re-verified 2026-09-22 (deepen-x slice 09211507-27): re-grepped ZH+EN against content/works + content/articles; hit set unchanged from prior pass — verified-saturated, no new corpus material absorbable.
+- Corpus re-check 2026-09-25 (slice -22): hit set unchanged (#298, #649, index). Verified-saturated.
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/ja-hsieh/)
