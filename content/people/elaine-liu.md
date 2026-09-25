@@ -39,7 +39,7 @@ last_reviewed: 2026-09-25
 - **紀念獎學金:** 台美人圈內設有 Elaine Liu 紀念獎學金（TAH 記錄日期 2017-12-21），顯示社群對其紀念 — [[works/taiwaneseamericanhistory-org/elaine-liu-memorial-scholarships|82. Elaine Liu Memorial Scholarships（Elaine Liu 紀念獎學金）]]
 - **TAH 百科entries:** 本人條目與紀念獎學金、護士殊榮三筆記錄存於本庫 — [[works/taiwaneseamericanhistory-org/whos930-elaine-liu|930. Elaine Liu 黃久香]]
 - HOLD: 紀念獎學金（2017）與護士殊榮入選（2005）皆為社群記錄；本人是否於 2017 前逝世，本庫無日期記錄，不臆測。
-- 2026-09-22 / 2026-09-23 corpus re-checks (slices 09220600-series, 09221400-29): grep for 黃久香 / Elaine Liu returns only the records already absorbed above (ourjourneys212 合照、winners19 殊榮、紀念獎學金、whos930) plus index listings. No new corpus facts. Re-verified 2026-09-25 (slice 09231000-22).
+- 2026-09-22 / 2026-09-23 corpus re-checks (slices 09220600-series, 09221400-29): grep for 黃久香 / Elaine Liu returns only the records already absorbed above (ourjourneys212 合照、winners19 殊榮、紀念獎學金、whos930) plus index listings. No new corpus facts. Re-verified 2026-09-25 (slices 09231000-22, 09250400-12): exact-name grep again returned only the absorbed set plus index listings — SKIP, nothing new absorbable.
 
 ## Sources
 - [TAH #930 encyclopedia: 930. Elaine Liu 黃久香](https://taiwaneseamericanhistory.org/whos930-elaine-liu/)

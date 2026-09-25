@@ -48,3 +48,4 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- Re-verified 2026-09-25 (deepen-x slice 09250400-11): fresh ZH+EN grep hit set identical to already-absorbed/already-held records -- saturated, SKIP.

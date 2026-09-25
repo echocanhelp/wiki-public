@@ -39,6 +39,7 @@ _No filled family fields on the TAH profile._
 - Re-verified 2026-09-22: fresh grep (王華東/Mynor) returned the same set (whos288, ourjourneys123 painter-lecture mention, publications466 art book); engineer-vs-painter HOLD confirmed, no new facts.
 - Corpus re-grep 2026-09-23 (deepen-x slice 09221500-12): same hit set confirmed (whos288, ourjourneys123/123-eng 1997 明州 Ethnic Celebration 鄉土畫家演講, publications466 art book); engineer-vs-painter HOLD stands, nothing new absorbable.
 - Corpus re-grep 2026-09-25 (slice 09231000-25): same hit set (ourjourneys123/123-eng 1997 明州 Ethnic Celebration 鄉土畫家演講, publications466 art book); engineer-vs-painter HOLD stands.
+- Corpus re-grep 2026-09-25 (slice 09250400-5): same hit set (whos288, ourjourneys123 painter-lecture, publications466 art book); engineer-vs-painter HOLD stands, nothing new absorbable.
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/mynor-king-wang/)

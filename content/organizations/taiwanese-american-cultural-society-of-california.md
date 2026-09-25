@@ -24,6 +24,7 @@ The Taiwanese American Cultural Society of California is a cultural organization
 - **Do not conflate:** the similarly-named Taiwanese American Cultural Society of the **Capital District** (首府區台美文化促進會, New York, incorporated 2003 as the tax-exempt successor to the Taiwanese American Association of the Capital District) is a different organization; its history is recorded in [[works/taiwaneseamericanhistory-org/ourjourneys311|Our Journeys #311]] and [[works/taiwaneseamericanhistory-org/our-journeys-391|Our Journeys #391]], and it has its own page [[organizations/taiwanese-american-cultural-society-of-the-capital-district|TACS Capital District]]. No Capital District facts absorbed into this California page.
 
 - Re-grep 2026-09-25 (slice 09231000-23): still only the own corpus record (2017-03-21, bibliographic only) plus the works index — no absorbable facts; SKIP-content.
+- Re-grep 2026-09-25 (slice 09250400-5): same hit set (own record + works index) — SKIP-content re-confirmed.
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-american-cultural-society-of-california/)
