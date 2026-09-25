@@ -43,6 +43,7 @@ last_reviewed: 2026-09-25
 - 2026-09-21 (slice 09201300-15): corpus re-grepped — hits (TAH #350, #508, works index) are all absorbed above; saturated, no new absorbable facts.
 - 2026-09-22 (slice 09220700-10): re-grepped — identical hit set, still saturated.
 - 2026-09-25 (slice 09230900-29): fresh grep adds only [[works/taiwaneseamericanhistory-org/whoswho1353|TAH #1353 Susan Lin Chou 林惠君]] — a different person (林 not 周), not absorbed. Verified-saturated, SKIP content-deepen.
+- 2026-09-25 (slice 09250317-21): re-grepped works/+articles/ — identical hit set (TAH #350, #508, works index), all absorbed above. Saturated, no new facts.
 
 
 ## Sources
