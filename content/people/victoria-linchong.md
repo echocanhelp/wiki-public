@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-25
 ---
 # Victoria Linchong (林鍾維春)
 
@@ -31,6 +31,7 @@ last_reviewed: 2026-09-22
 - The film was featured in a 228 Commemoration art-and-film event ([[works/taiwaneseamerican-org/commemorate-228-with-art-and-film-victoria-linchongs-almost-home]], 2014-03-23; duplicate record [[works/taiwaneseamerican-org/commemorate-228-with-art-and-film-victoria-linchongs-almost-home-2]]).
 - Her TAH encyclopedia entry is [[works/taiwaneseamericanhistory-org/whoswho1466|1466. Victoria Linchong 林鍾維春]] (2017-01-18).
 - Re-verified 2026-09-22 (also 2026-09-21): a fresh corpus grep (works/, articles/) returns only the records already cited above — no additional memoir or movement material to absorb.
+- Re-verified 2026-09-25 (deepen-x slice 09231200-5): fresh ZH+EN grep again returns only the four works already cited (NATWA 2015 panel, support appeal, 228 film event ×2) — skip stands.
 
 ## Family
 

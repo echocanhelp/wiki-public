@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-25
 ---
 # Shin-Ruh Liu (劉新祿)
 
@@ -34,6 +34,7 @@ last_reviewed: 2026-09-22
 - His son 劉兆民 (already listed under Family) authored a memoir on his father's painting philosophy and outlook on life: [[works/taiwaneseamericanhistory-org/mystories376|376. 先父劉新祿的繪畫創作理念及人生觀 / 劉兆民]] — primary family material on his artistic career.
 - Two Who's Who entries document his place in the community record: [[works/taiwaneseamericanhistory-org/57-shin-ruh-liu-201512|57. 劉新祿 Shin-Ruh Liu / 2015/12]] and [[works/taiwaneseamericanhistory-org/whoswho999|999. Shin-Ruh Liu 劉新祿 / 2016/05]].
 - The short biography's lifespan 1906~1984 matches the Identity Snapshot era; no conflict found.
+- Re-verified 2026-09-25 (deepen-x slice 09231200-5): fresh ZH+EN grep returns only the four records already cited above (#57, #377 小傳 / 洪嘉惠, #376 先父 memoir / 劉兆民, #999) — corpus-saturated, no new material to absorb.
 
 ## Family
 
