@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-25
 ---
 # Tze-Ming Benson Chen
 
@@ -36,7 +36,7 @@ last_reviewed: 2026-09-21
 _No filled family fields on the TAH profile._
 
 ## Role in the Community
-The corpus holds his TAH Who's Who encyclopedia entry — record #1207, published 2016-08-06 — as the primary community record of his career: [[works/taiwaneseamericanhistory-org/whoswho1207|1207. Tze-Ming (Benson) Chen / 2016/08]]. No other corpus appearances found; the corpus record is bibliographic (full text stays at TAH). No community-activity facts beyond the press-kit biography were absorbable.
+The corpus holds his TAH Who's Who encyclopedia entry — record #1207, published 2016-08-06 — as the primary community record of his career: [[works/taiwaneseamericanhistory-org/whoswho1207|1207. Tze-Ming (Benson) Chen / 2016/08]]. No other corpus appearances found; the corpus record is bibliographic (full text stays at TAH). No community-activity facts beyond the press-kit biography were absorbable. Re-verified 2026-09-25 (EN grep of works/ + articles/): hits remain only the own record [[works/taiwaneseamericanhistory-org/whoswho1207|1207. Tze-Ming (Benson) Chen / 2016/08]] and the works index; SKIP-with-reason stands.
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/tze-ming-benson-chen/)
