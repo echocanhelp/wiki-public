@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-25
 ---
 # W. C. Jen (任雯娟)
 
@@ -37,7 +37,11 @@ _No filled family fields on the TAH profile._
 
 ## Timeline
 - 2003 — M.S., Cal State University, LA
-- 2017-03-04 — Profiled in TAH encyclopedia (#388 musician record; #1543 Who's Who entry)
+- 2017-03-04 — Profiled in TAH encyclopedia (#388 musician record; #1543 Who's Who entry); her records sit in the same 2017/03 batch as [[works/taiwaneseamericanhistory-org/an-advertisement-in-culture-night-by-taiwanese-united-fund-in-san-gabriel-on-090|TAH #36 Culture Night advertisement (Taiwanese United Fund, San Gabriel)]], placing her in TAH's musician-documentation wave.
+
+## Corpus absorb note (2026-09-25)
+
+SKIP (re-verified 2026-09-25, deepen-x 09231500-1): fresh ZH+EN greps of works/ + articles/ return only her own TAH records (#388, #1543) and the works index — no memoir or community-history mention exists yet; the #388 "Pianist" vs 豎笛-degree conflict stays on HOLD above.
 
 ## Sources
 - [TAH #388 encyclopedia: 388. 任雯娟, Pianist / 2017/03](https://taiwaneseamericanhistory.org/musician388/)

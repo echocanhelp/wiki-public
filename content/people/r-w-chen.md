@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-25
 ---
 # R. W. Chen (陳瑞玟)
 
@@ -36,7 +36,11 @@ _No filled family fields on the TAH profile._
 
 ## Role in the Community
 - Listed in the TAH encyclopedia at [[works/taiwaneseamericanhistory-org/whoswho1063|TAH #1063 R. W. Chen 陳瑞玟 (2016/06)]], the only corpus record naming her — a bibliographic record (full text stays at the source), so the 彰化 origin, north-western US piano-performance degrees, and Georgia Perimeter College teaching post all rest on the TAH table above until the record text is absorbed.
-- Her entry sits among the 2016/06 musician cohort in the same batch (#1060–#1063, e.g. 陳柳江, 黃金利), placing her in TAH's Taiwanese-American musician documentation wave rather than its political/activist stream.
+- Her entry sits among the 2016/06 musician cohort in the same batch (#1060–#1063), alongside [[works/taiwaneseamericanhistory-org/whoswho1062|TAH #1062 L. J. Chen 陳柳江]] and [[works/taiwaneseamericanhistory-org/whoswho1061|TAH #1061 Jerry Huang 黃金利]], placing her in TAH's Taiwanese-American musician documentation wave rather than its political/activist stream.
+
+## Corpus absorb note (2026-09-25)
+
+SKIP (re-verified 2026-09-25, deepen-x 09231500-1): fresh ZH+EN greps of works/ + articles/ return only her own TAH record #1063 and the works index — no memoir or community-history mention exists yet; all biography rests on the TAH table until the record text is absorbed.
 
 ## Sources
 - [TAH #1063 encyclopedia: 1063. R. W. Chen 陳瑞玟 / 2016/06](https://taiwaneseamericanhistory.org/whoswho1063/)
