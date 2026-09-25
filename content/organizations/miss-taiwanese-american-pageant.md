@@ -40,6 +40,8 @@ HOLD: conflict in Chinese naming — this page's 台灣小姐選拔基金會 vs 
 
 2026-09-24 re-check (slice 09230600-7): fresh grep「台美小姐／台灣小姐選拔／Miss Taiwanese American」returned the same eight records, all already linked; the HOLD on the 台灣小姐 vs 台美小姐 vs 台美親善小姐 naming variants stands. Verified saturated.
 
+2026-09-25 re-check (slice 09240600-9): fresh ZH+EN grep returned the identical hit set (#2/#744/#745/#838/#7/2018 record/#889/#1256); no absorbable new facts. SKIP-with-reason: verified-saturated.
+
 ## Source Notes
 
 - **Content priority A:** Name on Taiwan Center group-members page  

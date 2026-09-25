@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # Ivy Yang (楊靜芬)
 
@@ -58,3 +58,4 @@ _No filled family fields on the TAH profile._
 - [[sources/taiwanjustice-net||taiwanjustice.net source hub]]
 - Corpus re-grep 2026-09-23 (DEEPEN-X slice 09221100-24): hits unchanged — TAH #1716, works index, TJJ exhibition report already cited. SKIP-content; painter-vs-CFP HOLD stands.
 - Corpus re-grep 2026-09-24 (DEEPEN-X slice 09230600-14): hits unchanged — [[works/taiwaneseamericanhistory-org/whoswho1716|TAH #1716]], works index, TJJ exhibition report [[articles/taiwanjustice-net/2024/20240724234326_root_cd2062fe6528223c|2017-03-14]], all already cited. The exhibition blurb (習畫2001、東京藝大短期進修2016、漆藝、「花飛碟舞」) matches the corpus text verbatim. No new community facts — SKIP-content; painter-vs-CFP HOLD stands.
+- Corpus re-grep 2026-09-25 (DEEPEN-X slice 09240600-5): hits unchanged — TAH #1716, works index, and the same TJJ exhibition report, all already cited; one candidate hit (生態健康聯盟報導 2021-06-22) has no 楊靜芬/Ivy Yang mention in the body — false positive. No new community facts — SKIP-content; painter-vs-CFP HOLD stands.

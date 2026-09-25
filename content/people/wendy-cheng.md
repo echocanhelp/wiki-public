@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # Wendy Cheng (鄭昕)
 
@@ -48,6 +48,7 @@ _No filled family fields on the TAH profile._
 - Corpus re-verify (deepen-x 09221200-9, 2026-09-23): fresh scan works/ + articles/ — new hit our-journeys-372 absorbed above; remaining hits (357/390/509/510/mystories300/island-x) already linked.
 - 《Island X》另被 TAHS 社群推薦書單收錄：[[works/taiwaneseamerican-org/community-resources-for-taiwanese-american-parents-families|Community Resources for Taiwanese American Parents & Families]] 將其列為台美家庭認識臺灣/臺美人歷史的學術推薦（該紀錄並提及 [[people/grace-lin|Grace Lin]]、[[people/michelle-kuo|Michelle Kuo]] 等作者）。
 - Corpus re-verify (deepen-x 09230600-9, 2026-09-24): fresh scan works/ + articles/ — new hit community-resources 書單收錄 Island X，已吸收於上；其餘命中（whos/357/372/390/509/510/mystories300/island-x）皆已連結。無衝突須 HOLD。
+- Corpus re-scan（deepen-x slice 09240600-5, 2026-09-25）：新增命中 [[works/taiwaneseamerican-org/taiwanese-american-film|Taiwanese American Film（2007 影人專欄）]] 記「Wendy Seo-Ling Cheng」為 NYU Tisch 電影碩士生（Cornell 文學背景、獲兩項獎學金、劇作〈Moon Lady〉製作中）。HOLD: conflict — 該簡歷（Cornell/Tisch 電影創作）與本頁 TAH #275 學術簡歷（Harvard A.B.、UC Berkeley M.A.、USC Ph.D.）不合，同名未確認，不併入 Identity Snapshot。其餘命中（whos/357/372/390/509/510/mystories300/island-x/community-resources）皆已連結，無其他新材料。
 
 ## Sources
 - [TAH #275 encyclopedia: 275. Wendy Cheng  鄭昕 / 2015/02](https://taiwaneseamericanhistory.org/whos-wendy-cheng/)
