@@ -30,9 +30,6 @@ last_reviewed: 2026-09-25
 - University of South Florida — 1980 — Professor
 <!-- tah-tables:end -->
 
-- SKIP re-verify (2026-09-22, deepen-x slice 09211200-10): fresh grep of works/+articles/ for 陳麗村/L. C. Chen returns only the two already-cited records (TAH #1459, and #1769 under the 陳立川 collision) plus index lines — no memoir or article mentions; HOLD stands, nothing absorbable.
-- SKIP re-verify (2026-09-25, deepen-x slice 09231200-25): fresh grep returns the same two records plus index lines — HOLD stands, nothing absorbable.
-
 ## Family
 
 _No filled family fields on the TAH profile._
@@ -41,6 +38,7 @@ _No filled family fields on the TAH profile._
 - Entered the community record through the TAH Foundation Who's Who encyclopedia entry **1459. L. C. Chen 陳麗村**, published 2017-01-15 (band B; bibliographic record only, full text in the TAH vault).
 - HOLD: name collision. The corpus also carries [[works/taiwaneseamericanhistory-org/whos-who-1769-l-c-chen|1769. Prof. L. C. Chen 陳立川教授]] (2017-07-19) under the same English initials, but the Chinese name is 陳立川, not 陳麗村. These are treated as two different people; no merging.
 - SKIP re-verify (2026-09-22, deepen-x slice 09211200-10): fresh grep of works/+articles/ for 陳麗村/L. C. Chen returns only the two already-cited records (TAH #1459, and #1769 under the 陳立川 collision) plus index lines — no memoir or article mentions; HOLD stands, nothing absorbable.
+- SKIP re-verify (2026-09-25, deepen-x slice 09231200-25): fresh grep returns the same two records plus index lines — HOLD stands, nothing absorbable.
 
 **Corpus records:** [[works/taiwaneseamericanhistory-org/whoswho1459|1459. L. C. Chen 陳麗村 / 2017/01]]
 
