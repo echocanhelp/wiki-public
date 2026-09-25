@@ -42,6 +42,7 @@ Dr. Scott ChangChien 張簡吉誠醫師 – History of Taiwanese American (T.A. 
 - 2026-09-23 re-grep (slice 09221000-8): SKIP — hit set unchanged (own #1943, ourjourneys74 +eng, ourjourneys262, works index, plus the Sisterhood-of-Night false positive on actor Louis Ozawa Changchien), all already linked; no new absorbable material.
 
 - 2026-09-22 re-grep (slice 09212352-11): SKIP — corpus hit set unchanged (own #1943, ourjourneys74 +eng, ourjourneys262, works index), all already linked. One apparent new hit, [[works/taiwaneseamerican-org/sisterhood-of-night-catherine-huang|Sisterhood of Night (Catherine Huang)]], is a false positive: "Louis Ozawa **Changchien**" there is an actor's surname, not 張簡吉誠; no new absorbable material.
+- 2026-09-25 re-grep (slice 09240500-11): SKIP — hit set unchanged (own #1943, ourjourneys74 +eng, ourjourneys262, works index, plus the Sisterhood-of-Night actor false positive), all already linked; no new absorbable material.
 
 ## Family
 

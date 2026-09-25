@@ -46,6 +46,7 @@ Accomplishment
 _No filled family fields on the TAH profile._
 
 ## From the record
+- 複核（TJJ-A09240400-1, 2026-09-25）：本 slice 文章 fa11a6eb346678c2（大洛杉磯台灣會館標籤頁, 2021-01-17 快照）正文再驗證——「健康講座-黃重德醫師2/1在橙僑中心，2/2在大洛杉磯台灣會館主講『認識武漢肺炎』」確認見於清單，subject 連結為真（無錯鏈、無虛鏈）；2020-01-31 條目（已含該文 wikilink）已在庫 — SKIP，無新材料。
 - 覆核（TJJ-A09162345-18, 2026-09-24）：本 slice 文章 NATMA標籤頁 08b82976 正文再驗證——subject 連結為真實提及，無錯鏈、無虛鏈；對應日期事實（含該文 wikilink）已在庫 — SKIP，已飽和。
 
 - 複核（TJJ-A09162345-15 / t_0c0e3cd1, 2026-09-24）：本 slice 文章 fa11a6eb346678c2（大洛杉磯台灣會館標籤頁, 2021-01-17 快照） 正文再驗證——subject 連結為真實提及，無錯鏈、無虛鏈；對應日期事實條目（含該文 wikilink）已在庫 — SKIP，已飽和。

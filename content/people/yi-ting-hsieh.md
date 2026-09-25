@@ -43,6 +43,7 @@ _No filled family fields on the TAH profile._
 - 2026-09-22 語料複核（slice 09212352-16）：fresh grep（'Yi-Ting Hsieh'／'Yi-Ting (Christine)'，works+articles）命中仍僅本身出處頁 [[works/taiwaneseamericanhistory-org/musician430|TAH #430]]、[[works/taiwaneseamericanhistory-org/whos-who-2141-yi-ting-hsieh|TAH #2141]] 與 works index；無回憶錄或文章提及。SKIP-with-reason：語料已飽和，無可吸收新事實，無衝突須 HOLD。
 - 2026-09-23 語料複核（slice 09221000-11）：fresh grep（'Yi-Ting Hsieh'／'Yi-Ting (Christine)'，works+articles）命中仍僅本身出處頁 [[works/taiwaneseamericanhistory-org/musician430|TAH #430]]、[[works/taiwaneseamericanhistory-org/whos-who-2141-yi-ting-hsieh|TAH #2141]] 與 works index；無回憶錄或文章提及。SKIP-with-reason：語料已飽和，無可吸收新事實，無衝突須 HOLD。
 - 2026-09-24 語料複核（slice 09230500-19）：fresh grep 命中仍僅 [[works/taiwaneseamericanhistory-org/musician430|TAH #430]]、[[works/taiwaneseamericanhistory-org/whos-who-2141-yi-ting-hsieh|TAH #2141]] 與 works index。SKIP-with-reason：語料已飽和，無可吸收新事實，無衝突須 HOLD。
+- 2026-09-25 語料複核（slice 09240500-11）：fresh grep（'Yi-Ting Hsieh'，無漢名記錄，works+articles）命中僅 [[works/taiwaneseamericanhistory-org/musician430|TAH #430]] 與 works index；無回憶錄或文章提及。SKIP-with-reason：語料已飽和，無可吸收新事實，無衝突須 HOLD。
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/yi-ting-hsieh/)
