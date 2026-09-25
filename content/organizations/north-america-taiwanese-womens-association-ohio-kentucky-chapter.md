@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-25
 ---
 # North America Taiwanese Women’s Association – Ohio/Kentucky Chapter (北美洲台灣婦女會俄亥俄)
 
@@ -33,3 +33,4 @@ Other NATWA chapters with their own records: [[works/taiwaneseamericanhistory-or
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+ Slice deepen-x-slice-09231000-5 (2026-09-25): fresh re-grep (ZH+EN, works+articles) — identical hit set to prior checks; all hits already wikilinked/absorbed; nothing new absorbable. SKIP (saturated).
