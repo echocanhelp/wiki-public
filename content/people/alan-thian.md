@@ -316,3 +316,4 @@ Notable quotes and mentions of **田詒鴻** in Taiwan Justice articles:
 - [[people/yang-jia-you||Charles Yang (楊嘉猷)]] — 創會會長
 - [[people/freeman-huang||Freeman Huang (黃樹人)]] — Secretary (秘書)
 
+<!-- TJJ-A09240800-12: verified 2026-09-25 — subject links in slice 09240800-12 articles confirmed real; dated fact w/ article wikilink already in From the record — saturated, no new material. -->

@@ -59,3 +59,4 @@ _No filled family fields on the TAH profile._
 ## From the record
 
 - 2022-09-02 — 總統府公布遴聘及新聘國策顧問70人名單，邱俊邦在列，聘期自民國111年9月1日起至113年5月19日止（中央社記者賴于榛報導 via [[articles/taiwanjustice-net/2025/20251013095227_總統府公布遴聘及新聘資政27人國策顧問70人名單_fa7c957f552d76e9|TJJ, 2022-09-02]]）。
+<!-- TJJ-A09240800-12: verified 2026-09-25 — subject links in slice 09240800-12 articles confirmed real; dated fact w/ article wikilink already in From the record — saturated, no new material. -->

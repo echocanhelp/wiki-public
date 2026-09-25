@@ -66,3 +66,4 @@ Further corpus hits confirm the essayist footprint extends earlier than the 2014
 ## Vault Cross-References
 - TAH 紀錄：[[works/taiwaneseamericanhistory-org/115-ken-lee|115. Ken Lee 李彥禎]]、[[works/taiwaneseamericanhistory-org/whos-who-26-ken-lee|26. Ken Lee 李彥禎]]、[[works/taiwaneseamericanhistory-org/ff124|124. Mr. Ken Lee — An outstanding social worker]]、收藏見 [[works/taiwaneseamericanhistory-org/collection-of-mr-ken-lee|56. Collection of Mr. Ken Lee]]。
 - 曾任職/帶領團體：[[organizations/taiwanese-association-nc-chapter|Taiwanese Association – NC Chapter（1979 會長）]]、[[organizations/laguna-woods-village-taiwanese-club|Taiwanese Club Laguna Woods Village（2017 會長）]]、[[organizations/taiwanese-american-pen-club-la|Taiwanese American Pen Club (LA)（2007 會長）]]。
+<!-- TJJ-A09240800-12: verified 2026-09-25 — subject links in slice 09240800-12 articles confirmed real; dated fact w/ article wikilink already in From the record — saturated, no new material. -->

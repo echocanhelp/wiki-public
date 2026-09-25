@@ -119,3 +119,4 @@ _No filled family fields on the TAH profile._
 - 2021-01-25 — 陳天令's record of the 美國加州各界追思彭明敏教授紀念會 is indexed on TJJ's 台美人 category page — a California community memorial for Peng ([[articles/taiwanjustice-net/2025/20250426142458_category_taiwaneseamerican_page_3_1a2bdc08b6c7bf6c|TJJ 台美人 category 索引, 2025-04-26 存檔]]).
 - 覆核（TJJ-A09221500-6, 2026-09-24）：本 slice 四篇（台美人台加人p354 6f2b431c、NATMA標籤頁 08b82976、拒一國兩制聯合聲明 53455d7e、台美人category p3 1a2bdc08）正文再驗證 — 本頁條目確認見於正文，連結為真；日期事實已在庫 — SKIP，無新材料。
 <!-- TJJ-A09240800-10: verified 2026-09-25 — subject links in slice 09240800-10 articles confirmed real; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+<!-- TJJ-A09240800-12: verified 2026-09-25 — subject links in slice 09240800-12 articles confirmed real; dated fact w/ article wikilink already in From the record — saturated, no new material. -->

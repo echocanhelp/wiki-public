@@ -104,3 +104,4 @@ Her own writings/records additionally held in the vault (existing pages, no new 
 - [[works/taiwaneseamericanhistory-org/collection-of-ms-nami-li|TAH #24: Collection of Ms. Nami Yang 李淑櫻女士的收藏]] — her collection record
 - [[works/taiwaneseamericanhistory-org/footsteps-27|TAH footsteps #27: Interview artist at latwtvfinearts by Nami Yang / 2019]] — artist interview from her 千楓藝術台 program
 - She is also credited as author in [[works/taiwaneseamericanhistory-org/ourjourneys231|TAH ourjourneys #231]] (07/2016).
+<!-- TJJ-A09240800-12: verified 2026-09-25 — subject links in slice 09240800-12 articles confirmed real; dated fact w/ article wikilink already in From the record — saturated, no new material. -->

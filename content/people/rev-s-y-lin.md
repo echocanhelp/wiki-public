@@ -67,3 +67,4 @@ last_reviewed: 2026-09-25
 
 - 2021-07-03 — 以李江卻台語文教基金會創辦人身分名列「台文通訊30週年慶祝會ONLINE」特別來賓名單；該線上慶祝會紀念台文通訊创刊30年（從8頁半地下刊物成為歷史最久、發行量最大的台文刊物）並討論台語斷種危機與網路世代台文運動2.0（[[articles/taiwanjustice-net/2021/20210920145945_2021_06_29_台文通訊30週年慶祝會online_52a71221d3029866|TJJ, 2021-06-29 公告]]）。
 - Re-verified 2026-09-21: corpus re-grep matches only the two records already linked (own encyclopedia entry TAH #1696; the 台文通訊30週年 TJJ announcement naming him as 李江卻台語文教基金會創辦人) plus index listings; daughter 林珊宇 surfaces only via her own adjacent entry #1695. Nothing further absorbable (saturated).
+<!-- TJJ-A09240800-12: verified 2026-09-25 — subject links in slice 09240800-12 articles confirmed real; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
