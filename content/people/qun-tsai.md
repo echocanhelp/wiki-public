@@ -51,3 +51,5 @@ last_reviewed: 2026-09-25
 Corpus re-check (deepen-x 09201503-13, 2026-09-21): verified-saturated — fresh grep of works/ + articles/ returns only own TAH bibliographic records, the works index, or already-excluded mentions; no absorbable memoir text. Re-check (deepen-x 09211507-10, 2026-09-22): fresh grep returns only ourjourneys155 (already absorbed above), own records, and the works index — nothing new absorbable.
 
 Corpus re-check (deepen-x 09221500-27, 2026-09-23): fresh grep of works/ + articles/ returns only own TAH records, the already-absorbed mention, or the works index — verified-saturated, nothing new absorbable.
+
+Corpus re-check (deepen-x 09231000-12, 2026-09-25): fresh grep of works/ + articles/ (ZH+EN) returns only own TAH records, already-absorbed mentions, or the works index — verified-saturated, nothing new absorbable.
