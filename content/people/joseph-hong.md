@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # Joseph Hong (洪茂澤)
 
@@ -59,3 +59,4 @@ _No filled family fields on the TAH profile._
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - 2026-09-24 (deepen-x slice 09230600-26): fresh ZH+EN re-grep of works/+articles/ — hit-set identical to material already absorbed above. SKIP-content: verified-saturated; HOLDs unchanged.
+<!-- deepen-x slice 09240600-19 re-verify 2026-09-25: fresh ZH+EN grep of works/+articles/ — hit set identical to material already absorbed; verified-saturated, no new absorbable facts -->

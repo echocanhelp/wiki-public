@@ -29,6 +29,7 @@ The Taiwanese American Students Association at Johns Hopkins University (jhuTASA
 - 2023-07-31 — 台裔第二代學生 Taliyah Huang（JHU 生物醫學工程二年級，加州出生）以台語翻譯工具 BobaWay 登上 TaiwaneseAmerican.org 專訪，反映同期 JHU 台裔學生圈的文化連結活動（見 [[works/taiwaneseamerican-org/taliyah-huang-interview-bobaway|Taliyah Huang 專訪]]）；专访未註明其與 TASA 之關係，僅作社區背景。
 
 - 2026-09-24 corpus re-grep (slice 09230600-12): fresh grep hits (OJ-138, night markets 2011/2013, Taste of Taiwan, three New Creatives profiles, Taliyah Huang interview) all absorbed in Timeline, no new facts. verified-saturated.
+- 2026-09-25 corpus re-grep (slice 09240600-15): hit set unchanged (OJ-138, index, night markets, New Creatives, BobaWay interview) — SKIP (verified-saturated).
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-american-students-association-at-johns-hopkins-university/)

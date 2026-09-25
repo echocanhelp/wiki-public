@@ -53,6 +53,7 @@ _Corpus re-scan 2026-09-22: fresh grep works/articles returns the same hits (#12
 
 - 2026-09-23 語料複核（slice 09221100-20）：fresh grep（徐頌鵬／Sung-Peng Hsu）命中全部為已收錄紀錄（Our Journeys 123/123-eng/268/15、mystories486、whoswho18），無新事實可吸收 — SKIP-with-reason。
 - 2026-09-24 語料複核（slice 09230600-13）：fresh grep hit set unchanged；content greps only re-confirm already-absorbed passages（1984 明州同鄉會會長 slot、1992 夏令會講題、明州文化展「娘家」support）— verified saturated, SKIP-with-reason.
+- 2026-09-25 語料複核（slice 09240600-15）：fresh grep hit set identical（123/123-eng/268/15、mystories486、whoswho18）— SKIP-with-reason, verified saturated.
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/sung-peng-hsu/)
