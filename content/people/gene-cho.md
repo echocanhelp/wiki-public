@@ -50,3 +50,4 @@ Gene Cho, Professor of Music, has been on the UNT faculty since 1972. He receive
 - Re-grep 2026-09-22 (slice 09211500-28): corpus hits re-confirmed = own directory records (#669, #303) + index only. Verified saturated; nothing new absorbable. SKIP.
 - Re-grep 2026-09-23 (slice 09221000-25): corpus hits re-confirmed = own directory records (#669, #303 typo-variant) only; hit set identical to the linked records above. Verified saturated; nothing new absorbable. SKIP.
 - Re-grep 2026-09-24 (slice 09230800-26): corpus hits re-confirmed = own directory records (#669, #303 typo-variant) + index only; hit set identical to the linked records above. Verified saturated; nothing new absorbable. SKIP.
+- Re-grep 2026-09-25 (slice 09240800-18): corpus hits re-confirmed = own directory records (#669, #303 typo-variant) + index only. Verified saturated; nothing new absorbable. SKIP.

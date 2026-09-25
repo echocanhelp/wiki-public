@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # Raymond T. Chen
 
@@ -45,6 +45,7 @@ _No filled family fields on the TAH profile._
 - Corpus re-check 2026-09-22 (slice 09220500-25): fresh grep of works/ and articles/ returned only the two own-name records already wikilinked above plus index rows — verified-saturated, SKIP-deepen.
 - Corpus re-check 2026-09-23 (slice 09221300-31): fresh grep returned the identical two own-name records plus index rows — verified-saturated, SKIP-deepen.
 - Corpus re-check 2026-09-24 (slice 09230800-25): fresh grep returned the identical two own-name records — verified-saturated, SKIP-deepen.
+- Corpus re-check 2026-09-25 (slice 09240800-25): fresh grep returned the identical two own-name records plus index rows — verified-saturated, SKIP-deepen.
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/raymond-t-chen/)

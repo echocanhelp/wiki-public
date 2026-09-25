@@ -54,3 +54,4 @@ Tong-Liang (Larry) Chen 陳東亮 – History of Taiwanese American (T.A. Archiv
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - Corpus re-check 2026-09-24 (slice 09230800-26): hits remain the five linked works (ff307 / ourjourneys43 / mystories590 / artifacts55 / whoswho1387) plus the works index — all details already absorbed; nothing new. SKIP.
+- Corpus re-check 2026-09-25 (slice 09240800-19): fresh grep (陳東亮 / Larry Chen / Tong-Liang) returns the same five linked works plus the index — verified-saturated, nothing new absorbable. SKIP.

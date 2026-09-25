@@ -25,6 +25,7 @@ The Taiwanese American Association of Pharmaceutics (TAAP) is a professional org
 - Corpus re-scan 2026-09-21 (slice 09200400-9): only the four works already cited name the body; one apparent 2025 hit was a false positive (an opaque archive digest string containing "TAAP"). Nothing new absorbable.
 - Corpus re-scan 2026-09-23 (deepen-x slice 09221400-13): fresh grep of works/ + articles/ — hit set unchanged (the four cited works + works index only). SKIP stands.
 - Corpus re-scan 2026-09-24 (deepen-x slice 09230800-29): fresh grep (台美藥劑協會／TAAP) — hit set unchanged (the four cited works + index); the single articles/ hit is the known opaque digest false positive containing "TAAP". Nothing new absorbable.
+- Corpus re-scan 2026-09-25 (deepen-x slice 09240800-18): fresh grep (台美藥劑協會／TAAP) — hit set unchanged (the four cited works + index + 2 known articles/ false positives: the opaque digest string "BY2TAAPMN…" and an APEC news article matching only via "FTAAP"). Nothing new absorbable.
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-american-association-of-pharmaceutics/)

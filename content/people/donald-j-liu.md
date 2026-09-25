@@ -49,3 +49,5 @@ _No filled family fields on the TAH profile._
 - Corpus re-check 2026-09-23 (deepen-x slice 09221300-21): fresh grep 劉瑞義/Donald J. Liu returns only ourjourneys106 blacklist roster, whoswho1049, and 21-donald-j-liu-suigii — all already wikilinked above. Verified-saturated; nothing new absorbable.
 
 > Corpus re-scan 2026-09-22 (deepen-x slice 09220500-18): re-scanned 劉瑞義 / Donald J. Liu — hits are ourjourneys106 blacklist roster, whoswho1049, and 21-donald-j-liu-suigii, all already wikilinked in Role in the Community. Verified-saturated; nothing new absorbable.
+>
+> Corpus re-scan 2026-09-25 (deepen-x slice 09240800-18): fresh grep 劉瑞義/Donald J. Liu — hit set identical (ourjourneys106, whoswho1049, 21-donald-j-liu-suigii, index). Verified-saturated; nothing new absorbable.

@@ -31,6 +31,7 @@ Absorbed 2026-09-19 from the [[sources/irvine-taiwanese-presbyterian-church||ITP
 - Corpus re-check 2026-09-22 (deepen-x slice 09220500-32): fresh grep of works/ + articles/ for 鄭泉聲 / Quansheng returns zero hits; the ITPC history document remains the only corpus record — SKIP, nothing new absorbable.
 - Corpus re-check 2026-09-23 (deepen-x slice 09221400-7): fresh grep of works/ + articles/ again returns zero hits — SKIP, nothing new absorbable.
 - Corpus re-check 2026-09-24 (deepen-x slice 09230800-27): fresh grep of works/ + articles/ for 鄭泉聲 / Quansheng returns zero hits again — ITPC history document remains the only corpus record. SKIP, nothing new absorbable.
+- Corpus re-check 2026-09-25 (deepen-x slice 09240800-19): fresh grep of works/ + articles/ again returns zero hits — SKIP, nothing new absorbable.
 
 
 ## Network

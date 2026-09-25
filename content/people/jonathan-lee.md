@@ -51,3 +51,4 @@ last_reviewed: 2026-09-24
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 - Corpus re-check 2026-09-23 (deepen-x slice 09221300-21): fresh grep of works+articles returns the same hit set (whoswho1397, Pew statement, 228 discussion panel, 2008 election piece); all already wikilinked and absorbed above. Verified-saturated.
+- Corpus re-check 2026-09-25 (deepen-x slice 09240800-19): fresh grep returns the same hit set (whoswho1397, Pew statement, 228 panel, 2008 election piece, index) — all already wikilinked above. SKIP, verified-saturated.
