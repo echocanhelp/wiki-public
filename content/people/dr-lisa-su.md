@@ -50,6 +50,7 @@ father [[people/su-chun-huai||蘇春槐]]; mother 羅淑雅 (no page yet).
 - 2020-06-02 — 標普500企業執行長年薪排行（Equilar/美聯社，TJJ轉載中央社/CNN Business）：以2019年總薪酬5850萬美元登榜首，為2011年調查以來首位女性榜首；小檔案並記其獲全球半導體聯盟張忠謀博士模範領袖獎、財富雜誌全球50大領導者、MIT技術評論百大年輕創新者等殊榮（與 [[people/lisa-su||Lisa T. Su]] 頁為同一人雙頁並存）（[[articles/taiwanjustice-net/2025/20250515085035_標普企業執行長年薪排行榜-超微蘇姿丰奪冠_e1e223aabe8b8751|TJJ, 2020-06-02]]）。
 
 - 複核（TJJ-A09171200-11, 2026-09-24）：本 slice 文章 4779b4e7（蘇姿丰獲SIA羅伯特諾伊斯大獎報導, 2026-01-21 存檔）正文再驗證——本頁為報導主角，subject 連結為真（與另一頁雙页并存，各自為真），無錯鏈、無虛鏈；2020-09-21 條目已在庫 — SKIP，無新材料。
+- 覆核（TJJ-A09231000-7, 2026-09-25）：本 slice 文章 4779b4e7 正文再驗證——本頁為報導主角，link 為真；報導並記其父蘇春槐、與台積電及盧超群評價，均與本頁家庭/受賞記載相符，無錯鏈、無虛鏈；2020 Noyce 獎條目（已掛該文 wikilink）已在庫 — SKIP，已飽和。
 
 /tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
