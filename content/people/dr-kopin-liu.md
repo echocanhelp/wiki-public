@@ -54,3 +54,6 @@ SKIP (re-confirmed) — fresh grep returns only his own TAH record [[works/taiwa
 
 ## Corpus check (deepen-x 09221000-22, 2026-09-23)
 SKIP (re-confirmed) — fresh ZH(劉國平)+EN grep returns only own TAH #2130 record + works index; no memoir or community-record mentions — nothing absorbable.
+
+## Corpus check (deepen-x 09240800-29, 2026-09-25)
+SKIP (re-confirmed) — fresh ZH(劉國平)+EN grep returns only own TAH #2130 record + works index; no memoir or community-record mentions — nothing absorbable.

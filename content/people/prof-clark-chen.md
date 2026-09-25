@@ -62,3 +62,7 @@ _No filled family fields on the TAH profile._
 ## Deepen-x note (2026-09-23, slice 09221000-22)
 
 - Re-grep for 陳經宗 / Clark Chen returns only own-record [[works/taiwaneseamericanhistory-org/whos-who-1883-clark-chen|TAH #1883]] + works index. No community material. SKIP.
+
+## Deepen-x note (2026-09-25, slice 09240800-29)
+
+- Re-grep for 陳經宗 / Clark Chen returns only own-record [[works/taiwaneseamericanhistory-org/whos-who-1883-clark-chen|TAH #1883]] + works index. No community material. SKIP.

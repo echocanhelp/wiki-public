@@ -37,6 +37,7 @@ No further community/corpus material found in the memoir corpus beyond these rec
 - Corpus re-grep 2026-09-19 / 2026-09-20 / 2026-09-21 / 2026-09-22: re-grep of content/works + content/articles hits only the two TAH encyclopedia pages above plus works/index — already linked; nothing new absorbable.
 - Corpus re-grep 2026-09-23 (slice 09221000-25): hits re-confirmed = the two linked encyclopedia records (#59, #232) only; no memoir/article coverage anywhere. Verified saturated. SKIP.
 - Corpus re-grep 2026-09-24 (slice 09230800-30): identical hit set (#59, #232, works/index) — both already linked above. SKIP.
+- Corpus re-grep 2026-09-25 (slice 09240800-28): identical hit set (#59, #232, works/index) — both already linked above. SKIP.
 
 ## Family
 

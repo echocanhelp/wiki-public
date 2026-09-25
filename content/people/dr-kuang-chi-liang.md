@@ -46,7 +46,7 @@ Dr. Liang is memorialized three times in the TAH / TAHS story corpus, reflecting
 
 HOLD: conflict in Chinese name spelling — 梁礦琪 (this page, TAH #8/#121) vs 梁鑛琪 (TAH Who's Who #1741, 2017). Not auto-merged; both spellings appear in corpus titles.
 
-Corpus re-grep 2026-09-19 (both spellings + English name): hit set in `content/works` / `content/articles` identical to the three records above plus the works index — no new absorbable facts; all hit pages are bibliographic-only records. Re-confirmed 2026-09-20: same hit set. Re-verified 2026-09-22 (slice 09211500-17): identical hit set (both spellings 梁礦琪/梁鑛琪 + English name) — verified-saturated, SKIP. Re-verified 2026-09-23 (slice 09221000-17): same hit set (#8, #121, #1741, index) — verified-saturated, SKIP.
+Corpus re-grep 2026-09-19 (both spellings + English name): hit set in `content/works` / `content/articles` identical to the three records above plus the works index — no new absorbable facts; all hit pages are bibliographic-only records. Re-confirmed 2026-09-20: same hit set. Re-verified 2026-09-22 (slice 09211500-17): identical hit set (both spellings 梁礦琪/梁鑛琪 + English name) — verified-saturated, SKIP. Re-verified 2026-09-23 (slice 09221000-17): same hit set (#8, #121, #1741, index) — verified-saturated, SKIP. Re-verified 2026-09-25 (slice 09240800-28): fresh grep both spellings 梁礦琪/梁鑛琪 + English name — identical hit set (#8, #121, #1741, index), all linked above; the only extra 光熙 hit is an unrelated TJJ article. verified-saturated, SKIP.
 
 ## Sources
 - [TAH #8 encyclopedia: 8. Dr. Kuang Chi Liang (梁礦琪醫師)](https://taiwaneseamericanhistory.org/senior-taiwanese-american-8/)
