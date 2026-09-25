@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # Hong Zong Lin (林宏容)
 
@@ -52,6 +52,7 @@ _No filled family fields on the TAH profile._
 - Re-verified 2026-09-22 (slice 09211400-24): hit set identical to above (My Stories #748、TAH #1302、works index、兩篇已吸收 TJJ 文章)。無新語料。SKIP-for-deepening.
 - Re-verified 2026-09-23 (slice 09220900-20): fresh ZH+EN corpus re-grep; hit set identical (mystories-748、whoswho1302、works index、兩篇已吸收 TJJ 文章)。無新語料。SKIP: verified-saturated.
 - Re-verified 2026-09-24 (slice 09230400-11): fresh ZH+EN corpus re-grep; hit set identical (mystories-748、whoswho1302、works index、MANIFEST、兩篇已吸收 TJJ 文章)。無新語料。SKIP: verified-saturated.
+- 複核（deepen-x slice-09240317-11, 2026-09-25）：fresh re-grep 林宏容|Hong Zong Lin（works+articles）hit set identical（mystories-748、whoswho1302、works index、MANIFEST、兩篇已吸收 TJJ 文章）。無新語料。SKIP: verified-saturated.
 
 ## Sources
 - [TAH #1302 encyclopedia: 1302. Hong Zong Lin 林宏容 / 2016/10](https://taiwaneseamericanhistory.org/whoswho1302/)

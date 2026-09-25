@@ -58,3 +58,4 @@ last_reviewed: 2026-09-25
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - 複核 2026-09-24 (DEEPEN-X slice 09230400-2): fresh ZH+EN corpus re-grep (content/works content/articles) hit set identical to prior check; all hits already linked on this page; no new memoir or club material absorbable. verified-saturated.
+- 複核 2026-09-25 (DEEPEN-X slice 09240317-1): fresh ZH+EN re-grep（林明哲 / Ming-che Lin）hit set identical（ourjourneys65/-eng、ourjourneys76/-eng、our-journeys-378、mystories587、ourjourneys315、ourjourneys249、ourjourneys59、whos1099、index）；全數已吸收，含 NANSTAAN 任期 1981 vs 1980 及 Chicago namesake 兩處 HOLD。verified-saturated.
