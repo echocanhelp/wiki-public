@@ -51,3 +51,5 @@ SKIP-with-reason: corpus scan of `works/` and `articles/` found no primary commu
 
 <!-- deepen-x 09200900-15: re-verified 2026-09-21 — corpus grep (ZH+EN) hits only own TAH record(s) in content/works; no new memoir/community material to absorb. -->
 <!-- deepen-x 09210831-23: re-verified 2026-09-22 — fresh grep (ZH+EN) again hits only own TAH record + works/index rollup; SKIP stands, nothing absorbable. -->
+
+<!-- deepen-x 09231200-17: re-verified 2026-09-25 — fresh grep (ZH+EN) of works/+articles/ returned only the corpus record(s) already cited on this page; SKIP stands, nothing new absorbable. -->

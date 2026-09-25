@@ -37,3 +37,5 @@ Rev. Xie is recognized as an ordained minister within the Taiwanese Presbyterian
 
 ## Related Pages
 - [[people/index||People Index]]
+
+<!-- deepen-x 09231200-17: re-verified 2026-09-25 — fresh grep (ZH+EN) of works/+articles/ returned only the corpus record(s) already cited on this page; SKIP stands, nothing new absorbable. -->
