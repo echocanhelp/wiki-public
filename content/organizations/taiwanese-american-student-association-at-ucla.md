@@ -28,3 +28,4 @@ SKIP-with-reason (deepen-x slice 09171300-3; re-checked 2026-09-20 in slice 0919
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 <!-- deepen-x slice 09231000-20 re-grep 2026-09-25: fresh ZH+EN grep of works+articles returns only own-name records already wikilinked on this page (plus works index); no new third-party corpus material — verified saturated, SKIP content-deepen. -->
+<!-- deepen-x slice 09250317-29 re-grep 2026-09-25: fresh ZH+EN grep of works+articles returns hit set identical to prior absorption waves (own records + works index only; UCLA TASA: zero direct hits, TASA = Seniors Assoc/ITASA). SKIP content-deepen: saturated. -->
