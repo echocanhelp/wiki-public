@@ -51,3 +51,5 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+- 2026-09-25 DEEPEN-X09250317-7: fresh grep (ZH+EN) hit set identical to records already cited on this page — verified-saturated, SKIP-no-new-facts.
