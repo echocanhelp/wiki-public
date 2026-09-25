@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-25
 ---
 # Serena Chen
 
@@ -35,7 +35,7 @@ _No filled family fields on the TAH profile._
 
 ## Role in the Community
 - Profiled in the TAH Foundation story corpus: [[works/taiwaneseamericanhistory-org/whoswho920|920. Serena Chen]] (published 2016-04-03, band B) — held as community historical record of the Taiwanese American medical profession. The corpus record is bibliographic; beyond the TAH profile (reproductive-medicine director, IRMS at Saint Barnabas; Johns Hopkins Bayview residency) there are no further community facts to absorb.
-- Re-swept 2026-09-22: corpus grep returns only her own record and the works index — still nothing absorbable.
+- Re-swept 2026-09-25: corpus grep (EN name; no Chinese name on record) returns only this own record and the works index — still nothing absorbable.
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/serena-chen/)

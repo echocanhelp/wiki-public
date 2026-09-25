@@ -7,7 +7,7 @@ tags:
 provisional: true
 verification_status: provisional
 needs_source: true
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-25
 ---
 # Brother Wang (GSTPC)
 
@@ -27,7 +27,7 @@ Brother Wang appears in GSTPC bulletin records. This is a provisional stub pendi
 ## Source Notes and Confidence
 - **Provisional stub**: No source identified that confirms identity or full name
 - Low confidence: Limited source material available
-- HOLD: the only corpus cross-reference, [[works/taiwaneseamerican-org/directors-picks-ten-films-from-taiwan-to-watch|Director's Picks: Ten Films from Taiwan to Watch]], appears to be an auto-tag name collision with the 1950s–60s film title "Brother Liu and Brother Wang on the Roads in Taiwan", not a mention of this church member. Do not treat as identity evidence.
+- HOLD: the only corpus cross-reference, [[works/taiwaneseamerican-org/directors-picks-ten-films-from-taiwan-to-watch|Director's Picks: Ten Films from Taiwan to Watch]], appears to be an auto-tag name collision with the 1950s–60s film title "Brother Liu and Brother Wang on the Roads in Taiwan", not a mention of this church member. Do not treat as identity evidence. Re-verified 2026-09-25: fresh case-insensitive grep for "Brother Wang" across works+articles returned only that film-title mention; the church work record [[works/taiwaneseamericanhistory-org/good-shepherd-taiwanese-presbyterian-church|好牧者長老教會 / 2016/05]] is bibliographic-only with no named members. SKIP: nothing absorbable.
 
 ## Name Variants / Disambiguation
 - Chinese: 未知

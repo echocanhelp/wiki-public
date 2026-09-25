@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-25
 ---
 # Peter Deng (鄧培德)
 
@@ -27,7 +27,8 @@ last_reviewed: 2026-09-22
 
 ## Role in the Community
 - 2013–2014 — 會長, 芝加哥台灣同鄉會 (Formosan Club Association of Chicago), per the association's own presidential roster in [[works/taiwaneseamericanhistory-org/our-journeys-378|Our Journeys #378 芝加哥台灣同鄉會]] — the record lists him between 黃慶鍾 (2011–2012) and 沈耀初 (2015–2018).
-- 2016-08 — profiled in the TAH Foundation Who's Who record [[works/taiwaneseamericanhistory-org/whoswho1231|1231. Peter Deng 鄧培德 / 2016/08]].
+- 2016-08 — profiled in the TAH Foundation Who's Who record [[works/taiwaneseamericanhistory-org/whoswho1231|1231. Peter Deng 鄧培德 / 2016/08]] (bibliographic band-B record; full biography stays in the vault).
+- Re-swept 2026-09-25 (ZH+EN, incl. wife 蕭秀睿): corpus hits are this own profile record, the 芝加哥台灣同鄉會 presidential roster already absorbed above, and the works index — nothing further absorbable.
 
 ## Family
 

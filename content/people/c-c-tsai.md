@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-25
 ---
 # C. C. Tsai (蔡清枝)
 
@@ -31,7 +31,7 @@ last_reviewed: 2026-09-22
 
 
 ## Role in the Community
-- Profiled in the TAH Foundation Who's Who encyclopedia; her entry ([[works/taiwaneseamericanhistory-org/whswho1152|1153. C. C. Tsai 蔡清枝 / 2016/07]]) was published 2016-07-17. This is the only record held in the corpus — no memoir text or other community appearances found (re-verified 2026-09-21: fresh grep for 蔡清枝 / C. C. Tsai in works+articles returned no hits). From 大甲, 台中; 實踐大學 (前身實踐家專) B.S.
+- Profiled in the TAH Foundation Who's Who encyclopedia; her entry ([[works/taiwaneseamericanhistory-org/whswho1152|1153. C. C. Tsai 蔡清枝 / 2016/07]]) was published 2016-07-17. This is the only record held in the corpus — no memoir text or other community appearances found (re-verified 2026-09-25: fresh grep for 蔡清枝 / C. C. Tsai in works+articles returned only her own entry record + works/index.md). From 大甲, 台中; 實踐大學 (前身實踐家專) B.S.
 
 ## Sources
 - [TAH #1153 encyclopedia: 1153. C. C. Tsai 蔡清枝 / 2016/07](https://taiwaneseamericanhistory.org/whswho1152/)
