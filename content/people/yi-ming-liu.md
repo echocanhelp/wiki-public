@@ -40,6 +40,7 @@ Documented across the TAH Foundation story corpus as a community memoirist and l
 - Wrote about being told 「東方佬，滾回你的國家」 in [[works/taiwaneseamericanhistory-org/ourjourneys289|TAH #289 我被嗆"東方佬，滾回你的國家" (2017/05)]] — a first-hand account of anti-Asian racism experienced by the Taiwanese American community.
 - His personal collections were featured in [[works/taiwaneseamericanhistory-org/collection-of-mr-yi-ming-liu|TAH #43 劉怡明先生的收藏 (2017/09)]].
 - Contributed a faith column, 線上查經, in [[works/taiwaneseamericanhistory-org/ourjourneys-364|TAH #364 (2020/12)]].
+- Additional memoirs byline-confirmed 2026-09-25: [[works/taiwaneseamericanhistory-org/mystories326|TAH #326 五十年前之大車禍 (2015/09)]] — a first-person account of a major car accident fifty years earlier — and [[works/taiwaneseamericanhistory-org/mystories613|TAH #613 祈禱的力量 (2017/12)]] — a faith memoir piece, consistent with the 線上查經 column.
 
 ## Family
 

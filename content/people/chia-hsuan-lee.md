@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # Chia-Hsuan Lee (李佳璇)
 
@@ -59,3 +59,5 @@ _No filled family fields on the TAH profile._
 複核（deepen-x 2026-09-23, slice 09220900-17）：re-grep 結果與前次相同 — corpus 僅本人書目 #561/#282 與 index 條目，無可吸收社群材料，維持 SKIP。
 
 複核（deepen-x 2026-09-24, slice 09230400-13）：re-grep 結果與前次相同 — corpus 僅本人書目 #561/#282 與 index 條目，無可吸收社群材料，維持 SKIP。
+
+複核（deepen-x slice 09240317-28, 2026-09-25）：re-grep 結果與前次相同 — corpus 僅本人書目 #561/#282 與 index 條目，無可吸收社群材料，維持 SKIP。

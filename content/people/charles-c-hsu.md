@@ -50,6 +50,7 @@ Accomplishment
 - Re-verified 2026-09-20 / 2026-09-21 (slice-11, slice 09201400-18): corpus re-grep (許宗邦|Charles C. Hsu) returns the same 6-hit set (#274, #894, #1047, #49, Our Journeys #287, Our Journeys #393) — all absorbed above; #287's caption dates his NAPTA presidency to 2015, consistent with the profile's 2014–2015 term (no conflict). SKIP (saturated).
 - Re-verified 2026-09-22 (slice 09220800-25): fresh grep re-run returned the identical 6-hit set — no new corpus material. SKIP (saturated).
 - Re-verified 2026-09-24 (deepen-x slice-09230317-24): fresh grep 許宗邦 / Charles C. Hsu returned the identical 6-hit set (#274, #894, #1047, #49, Our Journeys #287, Our Journeys #393) plus works/index — all absorbed above. SKIP (saturated).
+- Re-verified 2026-09-25 (slice 09240317-26): fresh grep 許宗邦 / Charles C. Hsu returned the identical 6-hit set — all absorbed above; #393's 2024-10 紀欽耀授旗/貝里斯75人義診 detail already in the section. SKIP (saturated).
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

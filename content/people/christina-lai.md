@@ -45,6 +45,7 @@ Corpus re-grep 2026-09-17 (slice 09171100-12): grep 賴李煦煦 / Christina Lai
 
 Re-grep 2026-09-20 (slice 09181500-17): hit set unchanged (own stub + works index + the cited NYFC/FOSPA/concert records) — nothing new to absorb. Re-grep 2026-09-22 (slice 09211400-13): hits again exactly own stub #1895 + works index — nothing new to absorb. Re-grep 2026-09-22 (slice 09220800-22): fresh 賴李煦煦 / Christina Lai grep returns only her own stub #1895 — SKIP, saturated.
 Re-grep 2026-09-24 (slice 09230317-22): 賴李煦煦 / Christina Lai grep returns only own stub #1895 + works index — already absorbed above; verified saturated. SKIP.
+Re-grep 2026-09-25 (slice 09240317-26): fresh 賴李煦煦 / Christina Lai grep returns only own stub #1895 + works index — already absorbed above; verified saturated. SKIP.
 
 ## Sources
 - [TAH #1895 encyclopedia: 1895. Christina Lai 賴李煦煦](https://taiwaneseamericanhistory.org/whos-who-1895-christina-lai/)
