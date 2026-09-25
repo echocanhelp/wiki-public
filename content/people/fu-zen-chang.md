@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-25
 ---
 # Fu-Zen Chang (張輔仁)
 
@@ -32,7 +32,7 @@ Physician (NTU M.D. 1971). Recorded in the TAH Foundation Who's Who encyclopedia
 
 _No filled family fields on the TAH profile._
 
-- 語料 check 2026-09-22: sole works/articles hits are the own TAH record above and the works index listing; no additional memoir/press mentions found. No conflicts to hold.
+- 語料 check 2026-09-22, re-confirmed 2026-09-25 (deepen-x 09231500-28): sole works/articles hits are the own TAH record above and the works index listing; no additional memoir/press mentions found. No conflicts to hold. SKIP confirmed.
 
 ## Sources
 - [TAH #1339 encyclopedia: 1339. Fu-Zen Chang 張輔仁 / 2016/10](https://taiwaneseamericanhistory.org/whoswho1339/)
