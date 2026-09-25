@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # Tsaiyuan Terry Hsu (許財源)
 
@@ -52,3 +52,4 @@ last_reviewed: 2026-09-24
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- Re-grep 2026-09-25 (slice 09240800-16): fresh ZH+EN grep matches exactly the three linked works (#644, #68, #1507) + index. Verified-saturated, no conflicts.

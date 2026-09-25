@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # Chi-Shun Hwang (黃智舜)
 
@@ -55,3 +55,4 @@ From the community record (our memoirs, primary material):
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- 2026-09-25 deepen-x slice 09240800-16: re-verified — fresh grep returns the identical hit set already absorbed and wikilinked (TAH #818, Our Journeys 36/227/263). SKIP.
