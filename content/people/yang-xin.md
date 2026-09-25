@@ -171,6 +171,7 @@ Pages that link to **yang-xin** (yang-xin):
 1. [[sources/2017-tahs-publication|2017-tahs-publication]]
 
 ## From the record
+- 覆核（TJJ-A09240600-2, 2026-09-25）：slice 文章 20053f0a（耆老講座標籤頁）與 8c5d1203（Michelle Steel 募款餐會報導）正文再驗證——2023-03-14 創業甘苦談影片條目與 2022-07-02 募款餐會發起人記述再確認見於正文，連結為真；對應日期事實已在庫 — SKIP，無新材料。
 
 - 複核（TJJ-A09230700-6, 2026-09-24）：本 slice 文章 2fc3294ed01f2d2a（Michelle Steel 朴銀珠募款餐會報導）正文再驗證——楊信為募款餐會發起人並公開呼籲投票支持連任之記述確認見於正文，subject 連結為真，無錯鏈、無虛鏈；2022-07-02 條目已在庫並掛鏈本檔 — SKIP，無新材料。
 

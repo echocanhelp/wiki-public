@@ -34,6 +34,7 @@ last_reviewed: 2026-09-25
 - His own TAH Who's Who entry is held in the corpus as [[works/taiwaneseamericanhistory-org/whoswho1596|TAH #1596: Harrison Lin 林貞棟, 2017/04]] (bibliographic record, band B).
 
 ## From the record
+- 覆核（TJJ-A09240600-2, 2026-09-25）：slice 文章 2777c888（長青教室標籤頁）正文再驗證——2017-03-29「聽力損失」英語主講條目再確認見於正文，連結為真；對應日期事實已在庫 — SKIP，無新材料。
 
 - 覆核（TJJ-A09170400-17, 2026-09-24）：本 slice 文章 2777c888（長青教室標籤彙整頁）正文再驗證——本頁提及條目確認見於正文，subject 連結為真；對應日期事實已在庫 — SKIP，無新材料。
 

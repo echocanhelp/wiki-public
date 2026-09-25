@@ -68,6 +68,7 @@ last_reviewed: 2026-09-24
 - Community fact absorbed: 2016/06, at the TA House Taiwanese School music-appreciation class (taught by 葉思雅醫師與夫人張信惠), 宋如音女士 (described as「宋泉盛牧師千金」) was featured performing Bartók works to the LA community audience — a documented instance of her serving as a cultural bridge in the Taiwanese American community. No further corpus material; nothing else absorbable.
 
 ## From the record
+- 覆核（TJJ-A09240600-2, 2026-09-25）：slice 文章 a244776e（海頓音樂欣賞課報導）正文再驗證——宋如音演奏 Bartók 記述再確認見於正文，連結為真；對應日期事實已在庫 — SKIP，無新材料。
 
 - 複核（TJJ-A09230900-2, 2026-09-25）：slice 文章 b4e27e98036e15d0（海頓音樂欣賞課報導, 2016-06-06 刊）正文再驗證——本頁 subject 連結為真實提及，無錯鏈、無虛鏈；對應日期事實條目（含該文 wikilink）已在庫 — SKIP，無新材料。
 

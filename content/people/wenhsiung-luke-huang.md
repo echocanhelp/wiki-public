@@ -55,6 +55,7 @@ Wenhsiung (Luke) Huang 黃文雄 – History of Taiwanese American (T.A. Archive
 _No filled family fields on the TAH profile._
 
 ## From the record
+- 覆核（TJJ-A09240600-2, 2026-09-25）：slice 文章 2777c888（長青教室標籤頁）正文再驗證——2017-03-15「人際關係」主講條目再確認見於正文，連結為真；對應日期事實已在庫 — SKIP，無新材料。
 
 - 覆核（TJJ-A09230800-5, 2026-09-24）：本 slice 文章 24119694（鄭自才談424刺蔣案意義）正文再驗證——文中 黃文雄 為康乃爾大學博士生、刺蔣主角，與本頁 TAH 小兒科醫師 profile 是否同一人仍未驗證（見 Notes on sources 既有 HOLD），連結暫留並保留同名異人警示；既有 2020-04-24 條目（含該文 wikilink）已在庫 — SKIP，無新材料。
 

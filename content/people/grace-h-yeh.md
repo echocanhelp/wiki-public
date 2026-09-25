@@ -30,6 +30,7 @@ TAH lists her as the first appointed organist of [[organizations/formosan-presby
 - [[people/prof-sze-ya-yeh||Prof. Sze-ya Yeh (葉思雅教授)]]
 
 ## From the record
+- 覆核（TJJ-A09240600-2, 2026-09-25）：slice 文章 a244776e（海頓音樂欣賞課報導）正文再驗證——張信惠與夫婿合開課程、曾為李泰祥伴奏記述再確認見於正文，連結為真；對應日期事實已在庫 — SKIP，無新材料。
 
 - 複核（TJJ-A09240400-1, 2026-09-25）：本 slice 文章 99aaa4abcb78ff6d（台美人台加人分類存檔頁, 2024-04-25 快照）正文再驗證——「四月份台灣學校音樂欣賞課於4月9日舉行 ◎葉思雅、張信惠主持」確認見於正文，subject 連結為真（無錯鏈、無虛鏈）；2024-04-25 條目（已含該文 wikilink）已在庫 — SKIP，無新材料。
 
