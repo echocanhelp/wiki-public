@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # W. J. James Chung (鍾文忠)
 
@@ -41,6 +41,7 @@ _No filled family fields on the TAH profile._
 - HOLD: name-romanization conflict — corpus record ff344 spells him "James Chuang", TAH profile "James Chung"; also HOLD location — ff344 places Ichiban Japanese Catering in New York while his chamber presidency is New Jersey.
 - Re-grepped 2026-09-23 (slice 09221100-32): verified saturated — corpus hits remain exactly the three records already cited (whos-who-1932, ff344, our-journeys-360); every passage matched was already absorbed. No new absorbable community facts.
 - Re-grepped 2026-09-24 (slice 09230600-32): hit-set identical (whos-who-1932, ff344, our-journeys-360, index) — SKIP-with-reason: verified-saturated, no new corpus facts.
+- Re-grepped 2026-09-25 (slice 09240700-13, grep 鍾文忠/James Chung/James Chuang): hit-set identical (whos-who-1932, ff344, our-journeys-360, index) — SKIP-content: verified-saturated; Chung/Chuang and NY/NJ HOLDs stand.
 
 ## Sources
 - [TAH #1932 encyclopedia: 1932. W. J. (James) Chung 鍾文忠](https://taiwaneseamericanhistory.org/whos-who-1932-wen-jung-chung/)

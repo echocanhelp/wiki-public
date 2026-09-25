@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # Laura Huang (黃月桂)
 
@@ -55,6 +55,8 @@ _Corpus re-grep 2026-09-23: same hits (TAH #767, both TJJ 李應元敬弔/辭世
 
 
 _Corpus re-grep 2026-09-24 (slice 09230700-5): same saturated hits (TAH #767, both TJJ 李應元敬弔/辭世 records, Project EMplify 同名異人 record); EMplify HOLD stands, nothing new absorbable._
+
+_Corpus re-grep 2026-09-25 (slice 09240700-13): hit-set identical (TAH #767, index, Project EMplify 同名異人 record under HOLD, both TJJ 李應元 records). SKIP-content: verified-saturated, no new absorbable facts._
 
 ## Sources
 - [TAH #767 encyclopedia: 767. Laura Huang 黃月桂 /2016/01](https://taiwaneseamericanhistory.org/767-laura-huang-%e9%bb%83%e6%9c%88%e6%a1%82-201601/)

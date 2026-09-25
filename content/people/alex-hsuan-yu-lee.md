@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # Alex Hsuan-Yu Lee (李軒宇博士)
 
@@ -50,3 +50,4 @@ The movement record holds two TAH encyclopedia entries on him — [[works/taiwan
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- Corpus re-grep 2026-09-25 (DEEPEN-X slice 09240700-14): hit-set identical to prior passes — only already-cited own records, the absorbed memoir/article material, and the works index. SKIP-content: verified-saturated, nothing new absorbable, no conflicts to HOLD.

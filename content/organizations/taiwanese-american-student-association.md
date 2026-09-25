@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 <!-- deepen-x 09200800-27: SKIP — fresh corpus re-scan: TASA hits are the Seniors Association and ITASA only (already noted in the HOLD); no corpus record for the Vanderbilt chapter itself. -->
 ---
 # Taiwanese American Student Association

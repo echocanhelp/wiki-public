@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # Dr. Jui Yuan Raymond Cheng (鄭瑞源博士)
 
@@ -50,3 +50,4 @@ Cheng is named in the movement's own memoirs as an enabler of community organizi
 - 2026-09-22 corpus re-grep (DEEPEN-X slice 09212352-24): hit-set again unchanged. SKIP-content.
 - 2026-09-23 corpus re-grep (DEEPEN-X slice 09221200-30): hit-set unchanged — same records already absorbed/wikilinked above; nothing new absorbable. SKIP-content.
 - 2026-09-24 corpus re-grep (DEEPEN-X slice 09230700-19): hit-set unchanged (#265, own #2164, the 2018 protest letter, works index); this pass absorbed the #265 first-meeting attendee list and the 2009-09-20 second-meeting date into the paragraph above. Otherwise saturated.
+- Corpus re-grep 2026-09-25 (DEEPEN-X slice 09240700-14): hit-set identical to prior passes — only already-cited own records, the absorbed memoir/article material, and the works index. SKIP-content: verified-saturated, nothing new absorbable, no conflicts to HOLD.
