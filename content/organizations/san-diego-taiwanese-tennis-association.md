@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # San Diego Taiwanese Tennis Association (聖地牙哥台灣人網球協會)
 
@@ -32,3 +32,5 @@ Programs per the directory record: singles/doubles seasonal tournaments, quarter
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+- 2026-09-25 DEEPEN-X09230900-17 re-run: fresh grep (聖地牙哥台灣人網球協會/SDTTA/Qinqing) returns only own directory record sdtta + works index — saturated, SKIP.

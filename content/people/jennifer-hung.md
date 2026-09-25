@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # Jennifer Hung (洪錦鈺)
 
@@ -57,3 +57,5 @@ _No filled family fields on the TAH profile._
 - 2026-09-22 deepen-x slice 09220600-22: verified-saturated — fresh grep of works/+articles returns only files already cited on this page (record #1485, ourjourneys265, ourjourneys107, TJJ 2022-05-17 投書); no new corpus facts to absorb.
 - 2026-09-23 deepen-x slice 09221400-22: verified-saturated re-verify — fresh grep of works/+articles returns only files already cited on this page; no new corpus facts to absorb.
 - 2026-09-24 DEEPEN-X09230900-17: fresh grep hit set (ourjourneys265, ourjourneys107, whoswho1485, TJJ e9ec20fd58bf6b1c, works index) identical to records already cited on this page — verified-saturated, SKIP.
+
+- 2026-09-25 DEEPEN-X09230900-17 re-run: fresh grep (洪錦鈺/Jennifer Hung) hit set identical to records already cited here (ourjourneys265, ourjourneys107, whoswho1485, TJJ e9ec20fd58bf6b1c) — verified-saturated, SKIP.
