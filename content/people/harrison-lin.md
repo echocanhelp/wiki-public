@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # Harrison Lin (林貞棟)
 
@@ -42,6 +42,7 @@ last_reviewed: 2026-09-24
 - This fits his ENT specialization (otolaryngology residency, Harvard; assistant professor, UC Irvine Health) and the class's documented health-and-medicine curriculum track — see [[organizations/evergreen-class-by-irvine-taiwanese-presbyterian-church-laguna-hills-ca|Evergreen Class (長青教室)]]. Consistent with his existing ITPC network link below.
 - No conflicts found between corpus and TAH press-kit fields; no HOLDs.
 Corpus re-grep 2026-09-22 (names: 林貞棟 / Harrison Lin): hits are his own TAH record [[works/taiwaneseamericanhistory-org/whoswho1596|TAH #1596]], the works index, and the 長青教室 archive page already absorbed above; no new material.
+- Corpus re-grep 2026-09-25 (deepen-x slice 09240317-30): fresh grep 林貞棟 / Harrison Lin over content/works + content/articles returns the same hit set (own TAH record, works index, 長青教室 archive page already absorbed above) — SKIP: no new corpus material.
 
 ## Family
 

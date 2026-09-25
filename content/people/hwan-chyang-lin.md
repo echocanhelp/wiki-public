@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-20
+last_reviewed: 2026-09-25
 ---
 # Hwan-Chyang Lin (林環牆)
 
@@ -51,3 +51,4 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- Re-grep 2026-09-25 (slice 09240317-29): hit set identical to records already absorbed (TAH #720, taiwanjustice-net 2025-06/2026-01 archive articles) — SKIP, saturated; HOLD on contested-dissertation framing stands.

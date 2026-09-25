@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # Evangelical Formosan Church of NorCal (北加州台福基督教會)
 
@@ -31,3 +31,4 @@ The former Evangelical Formosan Church of El Sobrante (平諾台福基督教會)
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- Re-grep 2026-09-25 (slice 09240317-29): identical hit set (el-sobrante, harvest-berkeley, berkeley directory records + works index), all already linked; no memoir material on the merger. SKIP: HOLD on merger date retained.

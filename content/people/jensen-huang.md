@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # Jensen Huang (黃仁勳)
 
@@ -59,4 +59,6 @@ Jensen Huang founded NVIDIA in 1993 and has served since its inception as presid
 
 - 複核（TJJ-A09171200-11, 2026-09-24）：本 slice 文章 923dad71（「台灣新聞」分類頁, 2023-12-01 存檔）正文再驗證——本頁所涉條目確認見於清單，subject 連結為真，無錯鏈、無虛鏈。（TJJ-A09231000-7 補掛：此前複核note所稱日期事實實際未在庫，下方 2023-12-01 條目為本次補齊）
 - 2023-12-01 — 台灣公義報「台灣新聞」分類存檔頁收「Catch大錢潮 20231201 黃仁勳『晶片純美製造』還要20年?」頭條條目，記錄其關於晶片純美製造時程的輿論關注（[[articles/taiwanjustice-net/2023/20231201231656_root_923dad711fb49f07|TJJ 台灣新聞存檔頁, 2023-12-01]]）。
+
+- 複核（deepen-x 2026-09-25, slice 09240317-21）：fresh ZH+EN re-grep（黃仁勳 / Jensen Huang, works+articles）命中集合不變（ota-221、whos-who-226、award-79、fortune-business-person-of-the-year、our-journeys-387、TAIGI interview、TJJ 存檔頁），全數已吸收並 wikilink。SKIP-with-reason（saturated）。
 
