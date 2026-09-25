@@ -47,6 +47,7 @@ _No filled family fields on the TAH profile._
 - 2026-09-22 deepen-x slice 09220600-11: VERIFY — corpus re-grepped; hits unchanged (musician355, whoswho1235, index). Verified-saturated.
 - 2026-09-23 deepen-x slice 09221400-24: VERIFY — fresh grep 'Michele Cheng' over works+articles returns the same two bibliographic records (musician355, whoswho1235) plus index; no narrative to absorb. Verified-saturated.
 - 2026-09-24 deepen-x slice 09230900-11: VERIFY — re-grepped; hit set unchanged (musician355, whoswho1235, index). Verified-saturated.
+- 2026-09-25 deepen-x slice 09240900-11: VERIFY — fresh grep works+articles hit set unchanged (musician355, whoswho1235, index). Verified-saturated.
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/michele-cheng/)

@@ -40,7 +40,7 @@ The corpus preserves his TAH encyclopedia entry [[works/taiwaneseamericanhistory
 
 His corpus-confirmed distinction is the first Taiwanese player to successfully transition from the Chinese Professional Baseball League (中華職棒) to Major League Baseball (Detroit Tigers, 2009–2010).
 
-HOLD: no community/corpus material beyond the press-kit biography; no oral history or memoir mentions of 倪福德 found in works/ or articles/ (re-checked 2026-09-22 — only the own encyclopedia page [[works/taiwaneseamericanhistory-org/whos-who-1752-fu-te-ni|1752]] and the works index hit the corpus grep). Corpus re-check 2026-09-23 (deepen-x slice 09221400-18): fresh grep of works/ + articles/ returns the identical hit set — SKIP stands. Corpus re-check 2026-09-24 (deepen-x slice 09230900-14): fresh grep 倪福德/Fu-Te Ni — hit set still identical (own record + index only). SKIP stands.
+HOLD: no community/corpus material beyond the press-kit biography; no oral history or memoir mentions of 倪福德 found in works/ or articles/ (re-checked 2026-09-22 — only the own encyclopedia page [[works/taiwaneseamericanhistory-org/whos-who-1752-fu-te-ni|1752]] and the works index hit the corpus grep). Corpus re-check 2026-09-23 (deepen-x slice 09221400-18): fresh grep of works/ + articles/ returns the identical hit set — SKIP stands. Corpus re-check 2026-09-24 (deepen-x slice 09230900-14): fresh grep 倪福德/Fu-Te Ni — hit set still identical (own record + index only). SKIP stands. Corpus re-check 2026-09-25 (deepen-x slice 09240900-11): hit set unchanged (own record + index only). SKIP stands.
 
 ## Sources
 - [TAH #1752 encyclopedia: 1752. Fu-Te Ni 倪福德](https://taiwaneseamericanhistory.org/whos-who-1752-fu-te-ni/)

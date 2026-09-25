@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # Rosalyne Formosa Shieh (謝泊欣)
 
@@ -41,7 +41,7 @@ Rosalyne Formosa Shieh 謝泊欣 – History of Taiwanese American (T.A. Archive
 - Co-signed the 2021-05-01 Taiwanese American community statement to the Pew Research Center over the merging of Taiwanese data into "Chinese" ("We made it count. Now tell our stories."), listed as **Rosalyne Shieh** among the signatories alongside TACL / Write in Taiwanese Census Campaign leaders — a civic-advocacy record independent of her press-kit biography. See [[works/taiwaneseamerican-org/pew-research-center-taiwanese-american-statement|2021 Pew Research statement]].
 - Personal entry in the TAH Foundation Who's Who encyclopedia, record #124 (2014-12-01): [[works/taiwaneseamericanhistory-org/124-rosalyne-formosa-shieh-e8-ac-9d-e6-b3-8a-e6-ac-a3|124. Rosalyne Formosa Shieh 謝泊欣]]. Bibliographic record only — full text stays in the vault; no biography beyond the tah-tables above was absorbable.
 - Father is [[people/ching-sze-hsieh|謝清志博士 (Dr. Ching-Sze Hsieh)]], who has his own TAH record ([[works/taiwaneseamericanhistory-org/108-e8-ac-9d-e6-b8-85-e5-bf-97-e5-8d-9a-e5-a3-ab-dr-ching-sze-hsieh|TAH #108]]); family connection corroborated by the corpus.
-- Deepen pass 2026-09-22 (slice -31); re-verified 2026-09-23 (slice -9): fresh grep of content/works + content/articles again returned only TAH #124 and the 2021 Pew statement, both already absorbed — verified saturated, no new corpus material. Re-check 2026-09-24 (slice 09230900-18): same hit set (TAH #124, Pew statement, works index) — SKIP.
+- Deepen pass 2026-09-22 (slice -31); re-verified 2026-09-23 (slice -9): fresh grep of content/works + content/articles again returned only TAH #124 and the 2021 Pew statement, both already absorbed — verified saturated, no new corpus material. Re-check 2026-09-24 (slice 09230900-18): same hit set (TAH #124, Pew statement, works index) — SKIP. Re-check 2026-09-25 (slice 09240900-13): hit set unchanged (TAH #124, Pew statement, works index) — verified saturated, SKIP.
 
 ## Sources
 - [TAH #124 encyclopedia: 124. Rosalyne Formosa Shieh 謝泊欣](https://taiwaneseamericanhistory.org/124-rosalyne-formosa-shieh-%e8%ac%9d%e6%b3%8a%e6%ac%a3/)
