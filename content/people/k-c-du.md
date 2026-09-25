@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # K. C. Du (杜國清)
 
@@ -41,6 +41,7 @@ last_reviewed: 2026-09-24
 
 _Corpus re-grep 2026-09-22/23 (slice 09221100-29): same work hits (#27, #131, #135, #136, #137, Who's Who #1145); all facts already absorbed, nothing new._
 
+- Corpus re-grep 2026-09-25 (slice 09240700-10): fresh ZH+EN greps (杜國清／K. C. Du／Kuo-Ching Tu) returned a subset of already-linked works (#27, #142, Who's Who #1145 + index); no memoir narrative beyond bibliographic records. Verified-saturated SKIP.
 ## Family
 
 _No filled family fields on the TAH profile._

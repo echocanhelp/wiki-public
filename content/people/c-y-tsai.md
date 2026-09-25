@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # C. Y. Tsai (蔡嘉寅)
 
@@ -46,6 +46,7 @@ last_reviewed: 2026-09-24
 - Corpus re-scan 2026-09-23 (deepen-x slice 09221400-4): fresh grep (蔡嘉寅 / C. Y. Tsai) returned exactly the works already linked above (#603, ourjourneys69/-eng, ourjourneys107, ourjourneys47); memoir text re-checked (founding 16 at Chicago 1980-02-16; General Director slate; 2nd president term from 1981-08-01; 1990-04-21 D.C. prep meeting at 賴義雄's home with 胡勝正, 陳文彥, 吳漢南, 賴淳彥, 李賢淇, 林靜竹; May 1990 two-week Taiwan invitation tour with 吳樹民) — all facts already absorbed, nothing new.
 - Corpus re-scan 2026-09-24 (deepen-x slice 09230800-4): grep re-run, same five work hits (#603, ourjourneys69/-eng, ourjourneys107, ourjourneys47) — page saturated, no new material.
 
+- Corpus re-scan 2026-09-25 (slice 09240700-10): fresh ZH+EN greps (蔡嘉寅／C. Y. Tsai) returned the same five work hits (#603, ourjourneys69/-eng, ourjourneys107, ourjourneys47 + index); memoir passages re-checked (founding 16 at Chicago 1980-02-16, General Director slate, 2nd president from 1981-08-01, 1990 D.C. prep meeting, May 1990 Taiwan invitation tour) — all absorbed, nothing new. Verified-saturated SKIP.
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/c-y-tsai/)
 
