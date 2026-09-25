@@ -6,7 +6,7 @@ tags:
   - Taiwanese-American
   - Taiwan-Center-group-member
 verification_status: published
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # Liu Kwee Family Association USA
 
@@ -25,6 +25,9 @@ last_reviewed: 2026-09-24
 - 出版《台灣歌樂經典系列展》音樂 CD（2004/05）：[[works/taiwaneseamericanhistory-org/541-e5-8f-b0-e7-81-a3-e6-ad-8c-e6-a8-82-e7-b6-93-e5-85-b8-e7-b3-bb-e5-88-97-e5-b|541. 台灣歌樂經典系列展 2004]]。
 - 連續多年參與大洛杉磯台美人傳統週（TAH Heritage Week）文化活動：2021-05-31「六桂宗親會線上攝影展」（[[articles/taiwanjustice-net/2021/20210608030909_2021_05_25_2021年台美人傳統週及系列活動5月29日起跑_8531ec4cf23144a1|2021 傳統週報導]]）；2024-06-01/02 洪家棟會長於洛僑中心辦「台灣攝影經典展—龍躍台南400年」；2025-05-31 於僑教中心辦「台灣攝影經典系列展」（[[articles/taiwanjustice-net/2025/20250518185808_2025大洛杉磯台美人傳統週隆重登場-文化融合綻放台_3ea94b0c1ab03c3e|2025 傳統週報導]]）。攝影展系列與音樂展同屬該會海外台灣文化推廣脈絡。
 - HOLD: conflict — TAH 目錄另有一筆「American Six Kuen Brotherhood Association (美國六桂宗親會)」（[[works/taiwaneseamericanhistory-org/e7-be-8e-e5-9c-8b-e5-85-ad-e6-a1-82-e5-ae-97-e8-a6-aa-e6-9c-83|American Six Kuen Brotherhood Association]]，2018-08-15）；宗親會 vs 文教基金會為同名源（六桂）不同名稱，關係未證實，不自動併頁。
+
+- HOLD: conflict — 音樂展紀錄標題作「on 06/05/2010, 06/04/2011, 06/02/2012, 05/06/2017」，第四筆 05/06/2017 與本頁所記 2017-06-05 存在日期格式歧（MM/DD vs DD/MM），不自動改寫。
+- Re-verified 2026-09-25 (deepen-x slice 09240317-32): fresh grep (六桂 / Liu Kwee / Six Kuen) returns the same records already linked — SKIP, verified-saturated.
 
 ## Source Notes
 

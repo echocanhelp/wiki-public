@@ -6,7 +6,7 @@ tags:
   - Taiwanese-American
   - Taiwan-Center-group-member
 verification_status: published
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # Taiwanese American Arts Association
 
@@ -31,6 +31,8 @@ TAAA is an arts association in the Taiwanese American community of Southern Cali
 - 2019-11-09/10 — 25th-anniversary winter exhibition, 11/9–11/10 2019 ([[works/taiwaneseamericanhistory-org/art-exhibitions-44|TAHS #44 — 二十五週年冬季展覽]])
 - Founding year: the 2019 records celebrate a 25th anniversary, implying a mid-1990s founding; HOLD: no direct founding record in the local corpus, so no date entered.
 - Re-verified 2026-09-24 (deepen-x slice 09230317-27): fresh grep (台美藝術協會 / Taiwanese American Arts Association) returns only the four TAHS records linked above, the works index, and the 鄭炳全 memoir already cited — verified-saturated, no new material.
+
+- Re-verified 2026-09-25 (deepen-x slice 09240317-32): fresh grep returns the same five records linked above plus the works index — SKIP, no new material.
 
 ## Source Notes
 

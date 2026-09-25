@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # C. N. Chen (陳建南)
 
@@ -40,6 +40,8 @@ _No filled family fields on the TAH profile._
 - Record [[works/taiwaneseamericanhistory-org/whoswho1770|1770. C. N. Chen 陳建南 / 07/2017]] — TAH Who's Who encyclopedia entry, the primary holdings record for this person.
 - **deepen-x re-grep 2026-09-24 (slice-31):** fresh grep returns identical hit set (ourjourneys-138, ourjourneys107, ourjourneys217, whoswho1770, index); the 1960s Baltimore physician roster, 募款小組（與李東壁）, and 走Bethesda古道 details re-confirmed as already absorbed. Verified-saturated.
 - **deepen-x re-grep 2026-09-21/22 (slices 28, 09220600-18):** fresh grep of content/works + content/articles returns only the four records already linked above; the 募款小組（與李東壁負責）and 走Bethesda古道 details were re-verified verbatim against the building memoir. No unabsorbed corpus facts — SKIP this pass.
+
+- **deepen-x re-grep 2026-09-25 (slice 09240317-32):** fresh grep returns identical hit set (ourjourneys-138, ourjourneys107, ourjourneys217, whoswho1770, index) — SKIP, verified-saturated.
 
 ## Sources
 - [TAH #1770 encyclopedia: 1770. C. N. Chen 陳建南 / 07/2017](https://taiwaneseamericanhistory.org/whoswho1770/)
