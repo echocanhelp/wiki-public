@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-25
 ---
 # Jeff Hou (侯志仁博士)
 
@@ -38,7 +38,7 @@ _No filled family fields on the TAH profile._
 
 ## Role in the Community
 - Held in the TAHS story corpus as [[works/taiwaneseamericanhistory-org/259-jeff-hou-e4-be-af-e5-bf-97-e4-bb-81201502|259. Jeff Hou 侯志仁]] (record published 2015-02-03): the community archive preserves his profile as part of the Taiwanese American record alongside the 2015/02 Who's Who cohort.
-- No further corpus narrative (memoir/organizational activity) found beyond the bibliographic record; architecture/planning career facts remain as sourced from TAH above (re-verified 2026-09-22).
+- No further corpus narrative (memoir/organizational activity) found beyond the bibliographic record; architecture/planning career facts remain as sourced from TAH above (re-verified 2026-09-22; re-swept 2026-09-25: ZH+EN grep of works/ and articles/ returned zero hits beyond the record above — SKIP: no corpus material to absorb).
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/jeff-hou/)

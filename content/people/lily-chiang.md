@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-25
 ---
 # Lily Chiang (姜萊莉)
 
@@ -38,7 +38,7 @@ last_reviewed: 2026-09-22
 
 
 ## Role in the Community
-- Profiled in the TAH Foundation Who's Who encyclopedia: [[works/taiwaneseamericanhistory-org/300-lily-chaing-201502|300. Lily Chiang 姜萊莉 / 2015/02]] (2015-02-15), the only corpus record so far. The entry documents an entrepreneurship path from 高雄 to Arizona (林氏集團、Meto地產、室內設計顧問); no movement/activity records found in the memoir corpus beyond this profile (re-verified 2026-09-22) — nothing else absorbable, no conflicts.
+- Profiled in the TAH Foundation Who's Who encyclopedia: [[works/taiwaneseamericanhistory-org/300-lily-chaing-201502|300. Lily Chiang 姜萊莉 / 2015/02]] (2015-02-15), the only corpus record so far. The entry documents an entrepreneurship path from 高雄 to Arizona (林氏集團、Meto地產、室內設計顧問); no movement/activity records found in the memoir corpus beyond this profile (re-verified 2026-09-22; re-swept 2026-09-25: ZH+EN grep of works/ and articles/ returned zero hits — SKIP: no corpus material to absorb).
 
 ## Sources
 - [TAH #300 encyclopedia: 300. Lily Chiang 姜萊莉 / 2015/02](https://taiwaneseamericanhistory.org/300-lily-chaing-201502/)
