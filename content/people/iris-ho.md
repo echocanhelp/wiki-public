@@ -40,6 +40,8 @@ Fresh grep of content/works + content/articles returned only records already abs
 
 ## From the record
 
+- 覆核（TJJ-A09240700-1, 2026-09-25）：本 slice 楊遠薰〈亂世奇緣〉（d3c83997, 2016-04-20）正文再驗證——FAPA 台灣同事、與小昆2006共締連理、較其小十二歲、2016-03攝於荷蘭老家（先祖Gerrit Blaauw 1816-1824阿姆斯特丹市長），連結為真（無錯鏈、無虛鏈）；2016-04-20 條目已在庫 — SKIP，無新材料。
+
 - 覆核（TJJ-A09230700-1, 2026-09-24）：本 slice 楊遠薰〈亂世奇緣〉（d3c83997, 2016-04-20）正文再驗證——記其為 Coen Blaauw 之 FAPA 同事、2006結婚、較其小十二歲（呼應母 Loes Vemer 事），subject 連結為真；2016-04-20 條目已在庫 — SKIP，無新材料。
 
 - 2009-11 — FAPA 總會 record: 昆布勞 (Coen Blaauw) 及何燕青夫婦應邀演講，介紹台美關係及 FAPA YPG (Young Professional Group) 活動 ([[works/taiwaneseamericanhistory-org/ourjourneys123|FAPA chapter chronicle]]; English: [[works/taiwaneseamericanhistory-org/ourjourneys123-eng|ourjourneys123-eng]]).
