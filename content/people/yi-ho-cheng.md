@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-25
 ---
 # Yi-Ho Cheng (鄭義和)
 
@@ -62,6 +62,7 @@ From [[works/taiwaneseamericanhistory-org/ourjourneys76|TAH #76 — 全美台灣
 
 ## From the record
 
+- 複核（TJJ-A09230900-3, 2026-09-25）：本 slice 4 篇 TJJ 文章（95fd8186 二二八77周年追思、26f76359 糖尿病與你、a1b56965 彭明敏紀念研討會、afdbd8b2 台灣會館重建動土）subject link 再驗證：鄭義和 對應真實，無錯鏈、無虛鏈；對應 From-the-record 條目已在庫 — SKIP，無新材料。
 - 複核（TJJ-A09230700-10, 2026-09-24）：本 slice 文章 da7f84e20eff6ae9（自救宣言59週年座談會報導）正文再驗證——「彭明敏文教基金會董事長鄭義和」與會並致詞記述確認見於正文，subject 連結為真；2023-09-24 條目（含該文 wikilink）已在庫 — SKIP，已飽和。
 
 - 複核（TJJ-A09221300-11, 2026-09-23）：subject link 經本 slice 再驗證為真實對應，對應 From-the-record 條目已在庫（無錯鏈、無虛鏈）— SKIP，無新材料。

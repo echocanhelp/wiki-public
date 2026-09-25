@@ -11,7 +11,7 @@ name_en: "Alan Thian"
 name_zh_hanzi: "田詒鴻"
 name_zh: "田詒鴻"
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 source_note: "TAHS 2025 organization chart (roles only; no private contacts)"
 ---
 # Alan Thian (田詒鴻)
@@ -263,6 +263,7 @@ Notable quotes and mentions of **田詒鴻** in Taiwan Justice articles:
 
 ## From the record
 
+- 複核（TJJ-A09230900-3, 2026-09-25）：本 slice 4 篇 TJJ 文章（95fd8186 二二八77周年追思、26f76359 糖尿病與你、a1b56965 彭明敏紀念研討會、afdbd8b2 台灣會館重建動土）subject link 再驗證：田詒鴻 對應真實，無錯鏈、無虛鏈；對應 From-the-record 條目已在庫 — SKIP，無新材料。
 - 複核（TJJ-A09230800-1, 2026-09-24）：文章 2a543ddc9301b7b3（會館24週年募款年會公告）、文章 c05e2d53013fcd15（會館疫情服務報導） 正文再驗證——本頁 subject 連結確認見於正文（無錯鏈、無虛鏈）；對應 From-the-record 條目已在庫 — SKIP，無新材料。
 
 - 覆核（TJJ-A09230700-2, 2026-09-24）：本 slice 文章 c3e76282（大洛杉磯台灣會館基金會22週年線上募款年會報導）正文再驗證——2018年任內率董事會開啟重建募款之記述確認見於正文，subject 連結為真（無錯鏈、無虛鏈）；2020-11-17 條目已在庫並掛鏈本檔 — SKIP，無新材料。

@@ -7,7 +7,7 @@ tags:
   - taiwanjustice-net
   - thin-page
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 name_en: "Tsai Ing-wen"
 ---
 # Tsai Ing-wen (蔡英文)
@@ -46,6 +46,7 @@ name_en: "Tsai Ing-wen"
 
 ## From the record
 
+- 複核（TJJ-A09230900-3, 2026-09-25）：本 slice 4 篇 TJJ 文章（95fd8186 二二八77周年追思、26f76359 糖尿病與你、a1b56965 彭明敏紀念研討會、afdbd8b2 台灣會館重建動土）subject link 再驗證：蔡英文 對應真實，無錯鏈、無虛鏈；對應 From-the-record 條目已在庫 — SKIP，無新材料。
 - 複核（TJJ-A09230900-2, 2026-09-25）：slice 文章 c0530664ab4c2948（Taipei Times 社論轉載, 2016-04-11）＋slice 文章 taiwanjustice-net/index（存檔索引頁）正文再驗證——本頁 subject 連結為真實提及，無錯鏈、無虛鏈；對應日期事實條目（含該文 wikilink）已在庫 — SKIP，無新材料。
 
 - 覆核（TJJ-A09230800-14, 2026-09-24）：本 slice 文章 bff4c7110803d864（大洛杉磯台灣會館等台美人團體和領袖祝賀蕭美琴履任駐美代表, 大紀元 2020-08-08）正文再驗證——黃河芬盼促進高層互訪使蔡英文能以總統身分訪美之記述確認見於正文，subject 連結為真，無錯鏈、無虛鏈；對應日期事實條目（2020-08-08，含該文 wikilink）已在庫 — SKIP，已飽和。

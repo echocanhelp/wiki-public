@@ -7,7 +7,7 @@ tags:
   - Taiwan-Center
   - board
 verification_status: published
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # Tony Lee (李賢群)
 
@@ -27,6 +27,7 @@ last_reviewed: 2026-09-24
 
 ## From the record
 
+- 複核（TJJ-A09230900-3, 2026-09-25）：本 slice 4 篇 TJJ 文章（95fd8186 二二八77周年追思、26f76359 糖尿病與你、a1b56965 彭明敏紀念研討會、afdbd8b2 台灣會館重建動土）subject link 再驗證：李賢群 對應真實，無錯鏈、無虛鏈；對應 From-the-record 條目已在庫 — SKIP，無新材料。
 - 複核（TJJ-A09230400-1, 2026-09-24）：subject link 經本 slice 文章 c62f5c50846fe267 正文再驗證為真實對應，對應 From-the-record 條目已在庫並掛鏈本檔（無錯鏈、無虛鏈）— SKIP，無新材料。
 
 - 複核（TJJ-A09171100-5, 2026-09-24）：本 slice 文章 c62f5c50846fe267（大洛杉磯台灣會館 228追思紀念大會報導）正文再驗證——李賢群以228系列活動召集人身份主持並報告不義遺址確認見於正文，subject 連結為真，無錯鏈、無虛鏈；2025-02-22 條目已在庫 — SKIP，無新材料。
