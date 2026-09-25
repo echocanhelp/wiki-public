@@ -42,6 +42,8 @@ Our own memoir corpus (Our Journeys) records Charles Ting (丁昭昇) as a South
 
 2026-09-24 re-check (slice 09230500-22): corpus grep returns the same Our Journeys #65/#65(EN)/#54/#54(EN)/#173/#173(EN)/#186/#186(EN)/#257 memoir set plus the #917 record and the works index — all already linked; verified saturated.
 
+2026-09-25 re-check (slice 09240400-2): corpus grep (丁昭昇／Charles Ting) returns the identical Our Journeys #65/#65(EN)/#54(EN)/#173(EN)/#186/#186(EN) memoir set — all already linked; verified saturated, no new corpus facts.
+
 ## Family
 
 _No filled family fields on the TAH profile._

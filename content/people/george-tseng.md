@@ -46,6 +46,8 @@ last_reviewed: 2026-09-25
 
 - Corpus re-grep 2026-09-24 (slice 09230500-22): SKIP — hit set unchanged (#96, #76, #70, mystories683, #380, footsteps-29, whoswho1478-2, #128), all already linked above; no new absorbable material.
 
+- Corpus re-grep 2026-09-25 (slice 09240400-2): SKIP — hit set unchanged (#96, #76, #70, mystories683, #380, footsteps-29), all already linked above; no new absorbable material. HOLD on the S. George vs George S. name-order conflict stands.
+
 ## Sources
 - [TAH #683 encyclopedia: 683. 永遠的專注-曾水福博士 / 刹塵子 /05/2019](https://taiwaneseamericanhistory.org/mystories683/)
 - [TAH #76 encyclopedia: 76. Collection of Dr. S. George Tseng 曾水福博士](https://taiwaneseamericanhistory.org/76-collection-of-dr-s-george-tseng/)

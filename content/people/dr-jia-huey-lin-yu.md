@@ -45,6 +45,8 @@ First President of Taiwanese American Seniors Society of Greater Washington, DC�
 
 - Re-grep 2026-09-24 (slice 09230500-21): fresh grep (林佳惠／Jia-Huey Lin, works+articles) returns only TAH #152 and the works index — verified saturated, no new corpus facts.
 
+- Re-grep 2026-09-25 (slice 09240400-2): fresh grep (林佳惠／Jia-Huey Lin, works+articles) returns only her own record [[works/taiwaneseamericanhistory-org/whos-who-152-jia-huey-lin|TAH #152]] and the works index — verified saturated, no new corpus facts, no conflicts to HOLD.
+
 ## Sources
 - [TAH #152 encyclopedia: 152. Dr. Jia-Huey Lin Yu 林佳惠博士](https://taiwaneseamericanhistory.org/whos-who-152-jia-huey-lin/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-jia-huey-lin-yu/)
