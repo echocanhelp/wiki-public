@@ -60,3 +60,4 @@ Dr. Yu has been a central institution-builder in the Greater Washington DC Taiwa
 
 - Corpus re-grep (deepen-x 2026-09-23, slice 09220900-6): hit set unchanged (ourjourneys-138、whos-who-1646、41-介紹一個成功的社團、2018 管中閔抗議信、index) — all absorbed and wikilinked, verified-saturated; 牙醫 HOLD stands.
 - Corpus re-grep (deepen-x 2026-09-24, slice 09230400-4): hit set unchanged (ourjourneys-138、whos-who-1646、41-介紹一個成功的社團、2018 管中閔抗議信、index) — all absorbed and wikilinked, verified-saturated; 牙醫 HOLD stands.
+- Corpus re-grep (deepen-x 2026-09-25, slice 09240317-5): hit set unchanged (ourjourneys-138、whos-who-1646、41-介紹一個成功的社團、2018 管中閔抗議信、index) — all absorbed and wikilinked, verified-saturated; 牙醫 HOLD stands.

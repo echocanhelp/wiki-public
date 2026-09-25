@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # Dr. Yeongchi Wu (吳永吉醫師)
 
@@ -48,3 +48,4 @@ _No filled family fields on the TAH profile._
 - 複核（TJJ-A09171200-11, 2026-09-24）：本 slice 文章 14114a89（陳東榮醫師麻醉演講心得報告, 2024-06-14 存檔）正文再驗證——本頁相關提及確認見於正文，subject 連結為真，無錯鏈、無虛鏈；對應日期事實已在庫 — SKIP，無新材料。
 - 覆核（TJJ-A09231000-7, 2026-09-25）：本 slice 文章 14114a89（陳東榮醫師麻醉演講心得報告, 2024-06-14 存檔）正文再驗證——本頁「普世醫學」條即掛該文 wikilink，連結為真，無錯鏈、無虛鏈 — SKIP，已飽和。
 
+- 複核（deepen-x 2026-09-25 slice 09240317-9）: fresh ZH+EN re-grep（吳永吉 / Yeongchi Wu）命中集不變（records 67/125/126、whos-who-122、ourjourneys 256/291、Exit 訪談、陳東榮文）, 全部已 wikilink 吸收 (saturated, SKIP)

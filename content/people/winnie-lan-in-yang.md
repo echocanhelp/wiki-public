@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # Winnie Lan-In Yang (楊嵐茵)
 
@@ -52,3 +52,4 @@ _No filled family fields on the TAH profile._
 - [[works/taiwaneseamericanhistory-org/236-winnie-lan-in-yang-pianist-composer||2015-07: TAH #236 encyclopedia entry — Pianist, Composer]]
 - [[works/taiwaneseamericanhistory-org/491-winnie-lan-in-yang-e6-a5-8a-e5-b5-90-e8-8c-b5-201507||2015-07: TAH #491 encyclopedia entry 楊嵐茵]]
 - 複核（deepen-x slice-25 2026-09-16）：re-grep 楊嵐茵 / Winnie Lan-In Yang 僅見本人書目記錄 #236 #491 與 harvest index — SKIP, 無回憶錄/社群材料可吸收。複核（deepen-x slice-21 2026-09-16）：同一命中集 — SKIP。複核（deepen-x slice-18 2026-09-16）：命中集不變（#236、#491、index）— saturated，SKIP。複核（deepen-x slice 09170130-13 2026-09-17）：命中集不變 — saturated，SKIP。複核（deepen-x slice 09170500-13 2026-09-17）：命中集不變（僅 #236、#491）— saturated，SKIP。複核（deepen-x slice 09180131-15 2026-09-18）：命中集不變（僅 #236、#491）— saturated，SKIP。複核（deepen-x slice 09181500-13 2026-09-20）：命中集不變（僅 #236、#491、index）— saturated，SKIP。複核（deepen-x slice 09201400-9 2026-09-21）：命中集不變（僅 #236、#491、index）— saturated，SKIP。複核（deepen-x slice 09211300-13 2026-09-22）：命中集不變（僅 #236、#491、works/index）— saturated，SKIP。複核（deepen-x slice 09220800-12 2026-09-22）：命中集不變（僅 #236、#491、works/index）— saturated，SKIP。複核（deepen-x slice 09230317-11 2026-09-24）：命中集不變（僅 #236、#491、works/index）— saturated，SKIP。
+複核（deepen-x slice 09240317-9 2026-09-25）: 命中集不變（僅 #236、#491、works/index）(saturated, SKIP)

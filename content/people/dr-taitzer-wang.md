@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # Dr. Taitzer Wang (王泰澤博士)
 
@@ -43,6 +43,11 @@ last_reviewed: 2026-09-24
 - Community author: [[works/taiwaneseamericanhistory-org/my-stories-161|161. 台語七十年－日、漢、英語無法取代的福佬話]] and [[works/taiwaneseamericanhistory-org/my-stories-162|162. 我的木雕情趣：親情、友情、政情 / 2014-12]].
 - His memorabilia are held as an archival collection: [[works/taiwaneseamericanhistory-org/private-collections-95-taitzer-wang|95. 王泰澤博士的收藏]].
 - Appears (左一) among the singers at a wedding banquet in the Houston Taiwanese community record ([[works/taiwaneseamericanhistory-org/our-journeys-359|359. Houston 台灣人合作社記憶]], 1960s).
+- First Taiwanese to compete in the National Table Tennis Open Tournament, Atlanta, GA, 1971 ([[works/taiwaneseamericanhistory-org/152-e7-8e-8b-e6-b3-b0-e6-be-a4-taitzer-wang-the-first-taiwanese-who-played-on-th|152. 王泰澤 / 第一個台灣人參加全國乒乓球公開賽 / 1971]]).
+- With wife Judy, the first couple to teach Taiwanese culture and history to the Osher Lifelong Learning Institutes ([[works/taiwaneseamericanhistory-org/188-e7-8e-8b-e6-b3-b0-e6-be-a4-e5-a4-ab-e5-a9-a6-first-couple-taught-taiwanese-c|188. 王泰澤夫婦 / OLLI]]).
+- Further community writings: [[works/taiwaneseamericanhistory-org/152-e6-af-8d-e8-aa-9e-e8-b8-8f-e8-85-b3-e8-a1-8c-e7-8e-8b-e6-b3-b0-e6-be-a4-2004|152. 母語踏腳行 (2004)]] and, co-authored with wife 張喜久, the memorial [[works/taiwaneseamericanhistory-org/my-stories-729|729. 感謝-悼念好友莊勝義博士 (2020-05)]].
+- Profiled as a community artist: [[works/taiwaneseamericanhistory-org/artist29-taitzer-wang|29. 王泰澤 Taitzer Wang (artist profile, 2015-02)]].
+- 辛城會館memoir also preserved in English: [[works/taiwaneseamericanhistory-org/ourjourneys293-eng|293 (EN)]].
 - HOLD: conflict in store name — employment table says "Little Professor's Bookstore (小教授書局)", the TAH work record titles it "Little Professor Book Center".
 
 ## Sources
