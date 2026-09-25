@@ -33,6 +33,7 @@ Member, Committee on Agriculture, Committee on Appropriations, and Committee on 
 - His biographical record is held in the Taiwanese American digital archive: [[works/taiwaneseamericanhistory-org/127-richard-pan-e6-bd-98-e5-90-9b-e9-81-94|127. Richard Pan 潘君達]] (2014-12-01, band B).
 - SKIP: corpus grep found no other substantive community material on him — the press-kit profile remains the sole biographical source. Other "Pan" mentions in the article corpus refer to different people (e.g. US Rep. Jimmy Panetta).
 - Re-verified 2026-09-22 (slice 09210900-5): fresh grep of content/works + content/articles returned only his own archive record #127 and the works index — nothing new absorbable; skip stance stands.
+- Re-verified 2026-09-25 (slice 09231300-6): fresh grep returns only record #127 and the works index — nothing new absorbable.
 
 ## Family
 
