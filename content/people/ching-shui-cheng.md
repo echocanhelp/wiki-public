@@ -39,6 +39,7 @@ Prof. Ching-Shui Cheng 鄭清水教授 – History of Taiwanese American (T.A. A
 - Corpus re-grep 2026-09-23 (slice 09221000-30): hits remain only the two duplicate harvests of record #2024 + works index — verified saturated.
 - Re-verified 2026-09-25 (slice 09230900-28): fresh grep 鄭清水 / Ching-Shui Cheng returns only the two #2024 duplicate harvests + works index; SKIP-with-reason (saturated), nothing new absorbable.
 - Corpus re-grep 2026-09-22 (slice 09211507-6), ZH 鄭清水 + EN: hits remain only the two duplicate harvests of record #2024 and the works index — no memoir material; verified saturated, nothing new absorbable.
+- Corpus re-grep 2026-09-25 (slice 09250317-21): fresh grep 鄭清水 / Ching-Shui Cheng again returns only the two #2024 duplicate harvests + works index; SKIP-with-reason (saturated) stands.
 
 ## Timeline
 - 1972 — B.S. Mathematics, National Tsing Hua Univ.

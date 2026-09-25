@@ -36,6 +36,7 @@ last_reviewed: 2026-09-25
 
 - 2026-09-23 deepen-x slice 09221400-28: SKIP (re-verified) — fresh grep (黃滿惠 / Maan-Huei) returns only her own #1977/#353 records and the works index, all already linked; no third-party narrative; SKIP stands.
 - 2026-09-25 deepen-x slice 09230900-20: SKIP (re-verified) — fresh grep again returns only her own #1977/#353 records and the works index; SKIP stands.
+- 2026-09-25 deepen-x slice 09250317-21: SKIP (re-verified) — fresh grep (黃滿惠 / Maan-Huei) again returns only #1977, #ff353 and the works index, all linked above; no third-party memoir narrative; SKIP stands.
 
 ## Family
 
