@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-25
 ---
 # Dr. Min-Yen Han (韓明元醫師)
 
@@ -31,7 +31,7 @@ Accomplishment
 <!-- tah-tables:end -->
 
 ## Role in the Community
-- TIMA（國際慈濟人醫會）成員，為台美社區醫療服務志工； TAH Who's Who 將其記錄為 2010 年人物檔案（[[works/taiwaneseamericanhistory-org/whos-who-2010-min-yen-han|TAH Who's Who #2010 韓明元醫師]], published 2018-02-06）。Corpus holds the bibliographic record only; no memoir or community narrative found beyond the TAH profile. Re-verified 2026-09-22 (deepen-x 09210900-24): fresh ZH+EN greps return only this record.
+- TIMA（國際慈濟人醫會）成員，為台美社區醫療服務志工； TAH Who's Who 將其記錄為 2010 年人物檔案（[[works/taiwaneseamericanhistory-org/whos-who-2010-min-yen-han|TAH Who's Who #2010 韓明元醫師]], published 2018-02-06）。Corpus holds the bibliographic record only; no memoir or community narrative found beyond the TAH profile. Re-verified 2026-09-25 (deepen-x 09231400-23): fresh ZH+EN greps return only this record.
 
 ## Family
 
