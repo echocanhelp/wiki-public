@@ -40,6 +40,7 @@ _No filled family fields on the TAH profile._
 - The corpus holds this as a bibliographic record only (band B); the full biography stays in the TAH vault, so no further community facts are absorbed here.
 - SKIP (2026-09-20, deepen-x slice 09181300-21): corpus re-grep for 朱石象/Stephen S. Chu returns only this entry's own index line (works/index.md) — no memoir or article mentions; nothing further absorbable.
 - SKIP re-verify (2026-09-22, deepen-x slice 09211200-10): fresh grep of works/+articles/ for 朱石象/Stephen S. Chu returns only [[works/taiwaneseamericanhistory-org/whoswho1295|TAH #1295]] and its works/index.md line — bibliographic record already cited; nothing absorbable.
+- SKIP re-verify (2026-09-25, deepen-x slice 09231200-25): fresh grep returns only the same [[works/taiwaneseamericanhistory-org/whoswho1295|TAH #1295]] + index line — no memoir or article mentions; nothing absorbable.
 
 **Corpus records:** [[works/taiwaneseamericanhistory-org/whoswho1295|1295. Stephen S. Chu 朱石象 / 2016/10]]
 

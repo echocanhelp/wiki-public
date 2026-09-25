@@ -37,8 +37,6 @@ Earlier SKIP note (slice 09180400-23) is superseded: a work page for TAH #1499 n
 - 「拉芳．LAFA」舞團, NY — 2006 — 創立者 — Martha Graham — 1996-2006 — 首席舞者
 <!-- tah-tables:end -->
 
-- Re-grepped 2026-09-25 (slice 09231200-25): hit set identical to prior pass (own TAH #1499 record, works index, *Salute* review in [[works/taiwaneseamerican-org/taiwan-films-that-imagine-taiwanese-america|Taiwan Films That Imagine Taiwanese America]] — already cited) — verified-saturated; SKIP, nothing absorbable.
-
 ## Family
 
 _No filled family fields on the TAH profile._
