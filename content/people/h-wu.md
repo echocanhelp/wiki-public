@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-25
 ---
 # H. Wu (吳換博士)
 
@@ -46,3 +46,5 @@ last_reviewed: 2026-09-22
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+<!-- deepen-x slice 09231400-30 2026-09-25: re-grep (吳換 / H. Wu) — hits are own records whowho1333 + ff305 (already absorbed) plus name-collisions Arthur H. Wu 吳漢南, Chau H. Wu 吳照雄, Jonathan H. Wu (different people, not absorbed). SKIP: no new corpus material. -->

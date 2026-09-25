@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-25
 ---
 # Yen-Kuang Chen
 
@@ -48,3 +48,5 @@ Corpus review 2026-09-19, re-grep 2026-09-21 and 2026-09-22 (slice 09210900-16) 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+<!-- deepen-x slice 09231400-30 2026-09-25: re-grep (Yen-Kuang Chen) — only own record whoswho1363 + works/index. SKIP: still no memoir/article mentions. -->

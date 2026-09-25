@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-25
 ---
 # Ta-Fu Ho (何達夫博士)
 
@@ -47,3 +47,4 @@ last_reviewed: 2026-09-22
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 <!-- deepen-x 2026-09-22: re-scan (ZH+EN) — hits limited to own records whoswho1264 + memorial-scholarship work 34, both already absorbed. Verified current. -->
+<!-- deepen-x slice 09231400-30 2026-09-25: re-grep (ZH+EN) — hits remain limited to own records whoswho1264 + memorial-scholarship work 34, already absorbed. SKIP: no new corpus material. -->
