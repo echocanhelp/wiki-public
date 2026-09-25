@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # Shu-Ting Yao (姚舒婷博士)
 
@@ -50,3 +50,4 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- Corpus check 2026-09-25 (deepen-x slice 09240800-11): fresh grep (ZH+EN+slug) against works+articles unchanged from prior waves — hits are already linked/verified above; SKIP-content (verified-saturated), no new absorbable facts, no new conflicts.

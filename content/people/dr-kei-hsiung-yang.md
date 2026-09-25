@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # Dr. Kei-Hsiung Yang (楊界雄博士)
 
@@ -57,3 +57,4 @@ Accomplishment
 - Corpus check 2026-09-22 (deepen-x slice 09220500-16): re-grep (楊界雄 / Kei-Hsiung Yang) unchanged — only own record TAH #2059 plus works/index. SKIP-deepen maintained; nothing absorbable, no conflicts to HOLD.
 - Corpus check 2026-09-23 (deepen-x slice 09221300-25): re-grep (楊界雄 / Kei-Hsiung Yang) against works+articles unchanged — only own record TAH #2059 plus works/index. SKIP-deepen maintained; nothing absorbable.
 - Corpus check 2026-09-24 (deepen-x slice 09230800-14): fresh grep unchanged (TAH #2059 + works/index only). SKIP-deepen maintained; no new community material.
+- Corpus check 2026-09-25 (deepen-x slice 09240800-11): fresh grep (ZH+EN+slug) against works+articles unchanged from prior waves — hits are already linked/verified above; SKIP-content (verified-saturated), no new absorbable facts, no new conflicts.

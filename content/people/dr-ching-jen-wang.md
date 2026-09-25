@@ -39,6 +39,7 @@ Accomplishment
 ## Corpus check (2026-09-23)
 - Re-verified 2026-09-23 (deepen-x slice 09221400-12): fresh grep of works/ + articles/ — hit set identical to what is already absorbed above (ourjourneys74 delegation roster, work #7 返台任院長, winners32 APWH award, TAH #1666, works/index). No new absorbable facts; the 院長-1995 vs Dean/Board-1997–2003 HOLD above stands. SKIP.
 - Re-verified 2026-09-24 (deepen-x slice 09230800-12): fresh ZH+EN grep — hit-set unchanged; all four corpus works already wikilinked above, HOLD stands. SKIP.
+- Re-verified 2026-09-25 (deepen-x slice 09240800-9): fresh ZH+EN grep — hit set identical (ourjourneys74 ZH+EN roster, #7 返台任院長, winners32, #1666, index). 王清貞 appears in the OJ #74 delegation roster exactly as absorbed; no new facts; 院長-1995 vs Dean/Board-1997–2003 HOLD stands. SKIP.
 
 ## Family
 
