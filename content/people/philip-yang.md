@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-25
 ---
 # Philip Yang (楊永慶牧師)
 
@@ -38,7 +38,7 @@ last_reviewed: 2026-09-22
 ## Role in the Community
 - His own TAH Who's Who encyclopedia entry is held in the corpus: [[works/taiwaneseamericanhistory-org/whoswho976|976. Philip Yang 楊永慶 / 2016/05]] (2016-05-08, band B).
 - Corpus records show him entered in the 2016-05-08 batch alongside [[works/taiwaneseamericanhistory-org/whos-who-975-mingchi-wu|975. Prof. Mingchi Wu 吳明基教授]] and [[works/taiwaneseamericanhistory-org/whoswho974|974. C. T. Lee 李青泰]].
-- Beyond the press-kit record (牧師, 飛鷹出版事業執行長) no memoir/corpus narrative or family hit (高俐理) was found; no further biography invented.
+- Beyond the press-kit record (牧師, 飛鷹出版事業執行長) no memoir/corpus narrative or family hit (高俐理) was found; no further biography invented. Re-checked deepen-x 2026-09-25 incl. 高俐理/飛鷹出版: no memoir hits — own encyclopedia record and index listing only.
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/philip-yang/)

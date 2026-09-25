@@ -7,7 +7,8 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-25
+# deepen-x 09232232-2: SKIP re-verified 2026-09-25 — fresh grep 陳士東/S. D. Chen matched only own whoswho923 record + works/index listing; no absorbable community material
 ---
 # S. D. Chen (陳士東)
 

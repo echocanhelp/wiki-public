@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-25
 ---
 # Dr. Tsunie Chanchien (張簡俊一醫師)
 
@@ -35,7 +35,7 @@ Dr. Tsunie Chanchien 張簡俊一醫師 – History of Taiwanese American (T.A. 
 _No filled family fields on the TAH profile._
 
 ## Role in the Community
-- Listed in the TAH Foundation Who's Who encyclopedia as entry #1653, published 2017-05-11: [[works/taiwaneseamericanhistory-org/whos-who-1653-tsunie-chanchien|1653. Dr. Tsunie Chanchien 張簡俊一醫師]]. No other corpus mentions found in works/articles.
+- Listed in the TAH Foundation Who's Who encyclopedia as entry #1653, published 2017-05-11: [[works/taiwaneseamericanhistory-org/whos-who-1653-tsunie-chanchien|1653. Dr. Tsunie Chanchien 張簡俊一醫師]]. No other corpus mentions found in works/articles. Re-checked deepen-x 2026-09-25: hits unchanged — own encyclopedia record and index listing only.
 
 ## Sources
 - [TAH #1653 encyclopedia: 1653. Dr. Tsunie Chanchien 張簡俊一醫師](https://taiwaneseamericanhistory.org/whos-who-1653-tsunie-chanchien/)

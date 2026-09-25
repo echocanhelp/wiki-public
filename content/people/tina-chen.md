@@ -7,7 +7,8 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-25
+# deepen-x 09232232-2: SKIP re-verified 2026-09-25 — 吳富子 hits = own whoswho1738 + index only; "Tina Chen" hits = actress in Almost Perfect (different person); nothing absorbable
 ---
 # Tina Chen (吳富子)
 
