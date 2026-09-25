@@ -52,3 +52,5 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+<!-- deepen-x slice 09240800-15 (2026-09-25): saturated re-verify — fresh grep (Theodore Chuang/西奧多．莊, works+articles) returns only whoswho1556, works index, and the already-absorbed 2025-04 USAID ruling article (body confirms: ordered restoration of USAID staff computer access, found probable constitutional violations, ruled Musk/DOGE directly controlled USAID — all already in Role in the Community). Nothing new absorbable. -->
