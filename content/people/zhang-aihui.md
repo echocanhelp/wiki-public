@@ -42,7 +42,7 @@ Per ntpc-usa.org/ntpw/ (2025):
 
 > **會長: 張愛惠**
 
-Re-verified 2026-09-25 (DEEPEN-X slice 09230900-20): fresh grep of works/ and articles/ for 張愛惠 / Esther Pan / Ai-Hui returns **zero** corpus hits — no community-record material beyond the NTPC roster facts already absorbed above; SKIP-with-reason stands.
+Re-verified 2026-09-25 (DEEPEN-X slice 09230900-20): fresh grep of works/ and articles/ for 張愛惠 / Esther Pan / Ai-Hui returns **zero** corpus hits — no community-record material beyond the NTPC roster facts already absorbed above; SKIP-with-reason stands. Re-checked 2026-09-25 (slice 09250317-12): fresh grep 張愛惠 / Esther Pan / Ai-Hui still returns zero works/articles hits — no community-record material to absorb.
 
 ## Related Pages
 

@@ -53,3 +53,4 @@ last_reviewed: 2026-09-25
 
 ## Network
 - [[organizations/presbyterian-church-in-taiwan||PCT]] — TAH Who’s Who
+<!-- deepen-x 09250317-18: re-verify 2026-09-25 — fresh ZH+EN grep (works/articles): hit set identical to prior absorption waves; all corpus facts already absorbed in Role in the Community. Verified saturated; SKIP-no-new-facts. -->
