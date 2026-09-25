@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # Chenhung Chen (陳貞宏)
 
@@ -48,3 +48,4 @@ Chenhung Chen is an artist living and working in Los Angeles. She was born in Be
 - [[works/taiwaneseamericanhistory-org/artist39-chenhung-chen|TAH #39 artist profile]]
 
 Corpus re-check 2026-09-24 (deepen-x slice 09230700-18): fresh grep for 陳貞宏 / Chenhung Chen — hit set unchanged (own records TAH #39/#387, OCCCA exhibition TAH #42 already cited, works index). SKIP-deepen; nothing new absorbable.
+Corpus re-check 2026-09-25 (deepen-x slice 09240700-23): fresh ZH+EN grep — hit set unchanged (own records TAH #39/#387, OCCCA exhibition TAH #42 already cited, works index; zero hits in articles/). SKIP-deepen; nothing new absorbable.
