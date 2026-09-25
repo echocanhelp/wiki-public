@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-25
 ---
 # Texas Formosa Fishing Association (德州台灣釣魚協會)
 
@@ -20,6 +20,7 @@ The Texas Formosa Fishing Association is a nonprofit, nonpolitical organization 
 
 ## Role in the Community
 - The association's own directory entry is held in the corpus as [[works/taiwaneseamericanhistory-org/texas-formosa-fishing-association|Texas Formosa Fishing Association 德州台灣釣魚協會]] (record dated 2014-10-12, band B) — the bibliographic record behind this page.
+- Re-swept 2026-09-25 (slice 09231400-10): ZH+EN grep returns only the directory record itself — no memoir mentions.
 - No mentions in corpus memoirs or articles beyond this record; membership rosters and activity accounts are not yet in the vault (nothing invented here).
 
 ## Sources
