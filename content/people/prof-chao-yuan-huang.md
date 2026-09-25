@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # Prof. Chao Yuan Huang (黃昭淵教授)
 
@@ -51,6 +51,7 @@ From the community corpus (memoirs outrank the press-kit profile):
 Re-grep 2026-09-22 (slice 09211400-13): corpus hits (黃昭淵 / Chao Yuan Huang, works+articles) are exactly the cited records — #623 profile, Our Journeys 74 (ZH+EN: NATPA克城分會成立、1988 醫學研討會), Our Journeys 37 (ZH+EN: 北加州會友擔任NATPA會長名單) — plus the harvest index. No new memoir or event mention; verify-saturated.
 - 複核（deepen-x slice-09220800-17, 2026-09-22）：fresh re-grep 黃昭淵 / Chao Yuan Huang（works + articles）hit set identical (#623, OJ74 ZH+EN, OJ37 ZH+EN, works/index) — SKIP, verified-saturated.
 - 複核（deepen-x slice-09230317-16, 2026-09-24）：re-grep 黃昭淵／Chao Yuan Huang（works + articles）hit set identical（#623、OJ74 ZH+EN、OJ37 ZH+EN、works index）— 無新事實可吸收。SKIP, verified-saturated.
+- 複核（deepen-x slice-09240317-13, 2026-09-25）：fresh grep 黃昭淵／Chao Yuan Huang（works + articles）hit set identical（#623、OJ74 ZH+EN、OJ37 ZH+EN）— 全數已吸收。SKIP, verified-saturated.
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-chao-yuan-huang/)
