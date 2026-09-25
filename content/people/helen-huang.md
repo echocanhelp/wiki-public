@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # Helen Huang (黃海倫)
 
@@ -48,3 +48,5 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+> SKIP-note (deepen-x slice 09240400-3, 2026-09-25): fresh ZH+EN re-grep — hits again exactly TAH #232/#482 + the two TJJ 2025 records + index/manifest listings; no new mention. Two-person HOLD（鋼琴家 vs 洛杉磯郡法官）stands. SKIP: verified-saturated.

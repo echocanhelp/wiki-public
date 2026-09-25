@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # Tony Chen (陳國洸)
 
@@ -53,3 +53,5 @@ last_reviewed: 2026-09-24
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+> SKIP-note (deepen-x slice 09240400-3, 2026-09-25): fresh ZH+EN re-grep — hit set identical to the linked set (ourjourneys76 + -eng, works 83/80/1000, whos145); Austin 學生活動 roster, 同鄉會 founded after 2–3 outings under 吳木盛, and his literary pieces all already absorbed. SKIP: verified-saturated.
