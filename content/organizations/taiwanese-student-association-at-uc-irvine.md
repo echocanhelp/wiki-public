@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # Taiwanese Student Association at UC Irvine
 
@@ -25,6 +25,8 @@ The Taiwanese Student Association (TSA) at the University of California, Irvine 
 - HOLD: no document in the corpus yet establishes organizational continuity between the historical Irvine-based 台灣學生社 / Taiwanese Collegian and the present-day campus TSA at UCI. Connection plausible, unverified; not merged.
 - **Contemporary Taiwanese student organizing at UCI (corpus record):** the taiwaneseamerican.org corpus documents an active Taiwanese student presence on the UCI campus under the name **TAO (Taiwanese American Organization)**: a campus organizing call [[works/taiwaneseamerican-org/college-students-party-with-uc-irvines-taiwanese-american-organization|College Students! Party with UC Irvine's Taiwanese American Organization (2012-01)]], a 2011 campus free screening of the documentary *Winds of September* ([[works/taiwaneseamerican-org/free-screening-of-winds-of-september-uc-irvine|free screening of Winds of September at UC Irvine (2011-04)]]), [[works/taiwaneseamerican-org/lantern-festival-and-night-market-with-tao-at-uci|Lantern Festival and Night Market with TAO at UCI (2014-04)]] plus its predecessor a year earlier [[works/taiwaneseamerican-org/2013-lantern-festival-and-night-market-at-uc-irvine|2013 Lantern Festival and Night Market at UC Irvine (2013-02-24)]] — an annual recurring event, and a Lunar New Year event [[works/taiwaneseamerican-org/tang-yuan-tasting-red-envelopes-with-uc-irvines-tao|Tang Yuan Tasting & Red Envelopes with UC Irvine's TAO (2012-02)]] showing recurring cultural programming on campus. A 2010 nationwide campus-tour memoir also lists TAO at UC Irvine among the student clubs visited ([[works/taiwaneseamerican-org/on-discovering-passion-purpose|On Discovering Passion and Purpose (2010)]]).
 - HOLD: corpus records name the UCI group **TAO**, while the TAH directory lists **Taiwanese Student Association (TSA)** — same-group vs successor vs distinct org is unverified; not merged.
+
+_Corpus re-scan 2026-09-25 (slice 09240500-6): fresh ZH+EN grep of works/ + articles/ for 台灣學生社 / Taiwanese Collegian / UC Irvine — hit set identical to the saturated set below, plus two UCI/台灣學生社-adjacent records checked and rejected as non-absorbable: [[works/taiwaneseamericanhistory-org/my-stories-867|867. 溫智宇捐UCI 2000萬 (2023)]] is a campus donation story with no TSA/學生社 organizational content, and [[works/taiwaneseamericanhistory-org/ourjourneys245|245. 美東南區台灣人夏令會簡史]] references 台灣學生社 without Irvine-specific facts. Nothing new absorbable; both HOLDs unchanged. Verified-saturated._
 
 _Corpus re-scan 2026-09-24: fresh grep of works/articles for 台灣學生社/Taiwanese Collegian/Taiwanese Student Association returns the same Irvine-linked hits (taiwanese-collegian-irvine-ca, 321/377 年刊, 12 冬令營, concerts114) plus unrelated-club hits ([[works/taiwaneseamericanhistory-org/dumplings-usctsa|USC Taiwanese Student Association]], UW-Madison 台灣同學會 memoirs ourjourneys277/81) — no new Irvine-specific community facts; verified saturated, HOLDs above unchanged._
 

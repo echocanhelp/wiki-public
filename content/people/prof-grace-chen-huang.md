@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # Prof. Grace Chen Huang (陳怡安教授)
 
@@ -37,6 +37,7 @@ Prof. Grace Chen Huang 陳怡安教授 – History of Taiwanese American (T.A. A
 - **Career detail from the TJJ record**（[[articles/taiwanjustice-net/2021/20210621201640_2021_05_12_台美人之光_陳怡安_grace-huang_出任哈佛醫學院主管教_3c0f66c4a2839380|TJJ 2021-05-12，轉載太平洋時報]]）：史丹福大學主修英文及生化（頁上 Education 僅列 Biological Sciences，HOLD: 英文雙主修 vs 單一生化）、華盛頓大學醫學博士，BIDMC 實習後 2003 年加入哈佛醫學院、2013 年升副教授；任 HMS Rabkin Fellowship in Medical Education 負責人，並任美國醫學院協會期刊 MedEdPORTAL 總編輯；2021 年 7 月上任 Dean for Faculty Affairs，主管多元學術活動、徵才、教職員人力發展、晉升與職涯發展。
 - **Family (from the record):** 台美人筆會前會長陳東榮醫師與李芬芬夫妇的長女（TJJ 2021-05-12；[[people/dr-tong-y-chen|陳東榮醫師]]）。HOLD: conflict — 頁上 Family 欄記 Father: Tong Chen / Mother: Feng Feng，與報導所記 陳東榮（Dr. Tong Y. Chen）/ 李芬芬 姓名不一致，未自動合併。
 
+- Re-verify 2026-09-25 (slice 09240500-6): corpus re-grep for 陳怡安 / Grace Huang / Grace Chen Huang — hit set identical to the absorbed set (TAH #2191, TAH #259, Pew statement signatory line, TJJ 台美人之光 article; MANIFEST metadata only otherwise); no new attributable community facts; all three HOLDs (Pew surname-only match, 父母姓名 conflict, 英文雙主修 vs 單一生化) stand. Verified-saturated.
 - Re-verify 2026-09-24: corpus re-scan for 陳怡安 / Grace Huang returned only works already absorbed above (TAH #2191, TAH #259, Pew statement signatory line) — nothing new absorbable; verified-saturated.
 
 ## Family

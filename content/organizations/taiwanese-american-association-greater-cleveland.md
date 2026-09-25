@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # Taiwanese American Association Greater Cleveland (克里夫蘭)
 
@@ -26,6 +26,8 @@ Cleveland's Taiwanese institutional ecosystem also includes parallel organizatio
 TAA itself was incorporated in Washington D.C. on 1971-08-13 as The Formosan Club of America, Inc. (directors 黃際鑫、鄭義和、陳隆豐), the legal shell under which the Cleveland chapter and the other 27 founders operated ([[works/taiwaneseamericanhistory-org/22-e5-85-8b-e9-87-8c-e5-a4-ab-e8-98-ad-e4-ba-9e-e5-a4-aa-e7-af-80-e6-b4-bb-e5-8b|克里夫蘭亞太節活動]]). The NATMA birthplace memoir situates Cleveland's organizing milieu around the Cleveland Clinic / Kaiser Permanente hospital systems and Dr. 周烒明's circle (周烒明、許世模、陳克孝、陳哲雄、許明雄、梁俊華), who first built a local physicians' association there before expanding it nationally ([[works/taiwaneseamericanhistory-org/ourjourneys74|NATMA 早期故事]]).
 
 Cross-chapter fellowship is recorded from the Pittsburgh side: the Pittsburgh chapter's founding history recalls westward visits as far as 克里夫蘭 and Columbus in Ohio, every gathering built around softball games — Cleveland repeatedly a destination on the early TAA inter-chapter circuit ([[works/taiwaneseamericanhistory-org/ourjourneys292|292. 早年匹茲堡台灣同鄉會簡介與歷屆會長考證 / 胡民祥 / 06/2017]]).
+
+_Corpus re-scan 2026-09-25 (slice 09240500-6): fresh ZH+EN grep of works/ + articles/ for 克里夫蘭台灣同鄉會 / Greater Cleveland returns no corpus file beyond this page's own work record and works/index.md — all Cleveland-chapter facts (28-chapter founding roster, NATMA/NATPA/FAPA parallel chapters, Pittsburgh inter-chapter circuit memoir) are already absorbed above. Verified-saturated._
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-american-association-greater-cleveland/)
