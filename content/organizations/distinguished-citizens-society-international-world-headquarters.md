@@ -6,7 +6,7 @@ tags:
   - Taiwanese-American
   - Taiwan-Center-group-member
 verification_status: published
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-25
 ---
 # Distinguished Citizens Society International World Headquarters
 
@@ -23,7 +23,7 @@ last_reviewed: 2026-09-22
 
 - The society's German chapter (國際傑人會德國總會) founded the Heidelberg Taiwan Mandarin Learning Center (海德堡台灣華語文學習中心), inaugurated 2022-02-26 with drum-and-gong ceremony; it was the second such center in Germany after Hamburg (2021-09), serving central and southern Germany. Center director 楊梅芳 credited 僑務委員會 and the 駐德國代表處 for support. See [[articles/taiwanjustice-net/2022/20220227161430_2022_02_26_德國第2所-海德堡台灣華語文學習中心揭牌_6d190b0ed29c53f2|德國第2所海德堡台灣華語文學習中心揭牌 (Taiwan Justice Net, 2022-02)]] — the only corpus record of the society's activities beyond its Taiwan Center group-member listing.
 
-- Re-verified 2026-09-22 (deepen-x slice 09211507-27): re-grepped ZH+EN against content/works + content/articles; hit set unchanged from prior pass — verified-saturated, no new corpus material absorbable.
+- Re-verified 2026-09-22 (deepen-x slice 09211507-27) and 2026-09-25 (slice 09231100-25): re-grepped ZH+EN (國際傑人會 / "Distinguished Citizens Society") against content/works + content/articles; sole hit remains the 2022 Heidelberg article already absorbed above — verified-saturated, no new corpus material absorbable.
 
 ## Source Notes
 
