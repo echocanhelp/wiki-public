@@ -51,3 +51,4 @@ _No filled family fields on the TAH profile._
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 <!-- deepen-x 09231000-15: verified-saturated — corpus re-scan (works/articles) fresh 2026-09-25: ZH+EN grep hit set identical to prior passes (own TAH record + already-wikilinked works/index entries only); no new community material. -->
+<!-- deepen-x 09250317-25 re-grep 2026-09-25: fresh ZH+EN grep of works+articles returns hit set identical to prior absorption waves (own TAH record + already-wikilinked works only); verified saturated, nothing new absorbable. -->
