@@ -45,7 +45,7 @@ _No filled family fields on the TAH profile._
 
 ## Role in the Community
 
-- The only in-corpus footprint beyond her own TAH encyclopedia record ([[works/taiwaneseamericanhistory-org/whoswho2072|TAH #2072 profile, 2018/03]]) is her 2020 policy commentary quoted in the TJJ archive below — no memoir/community-organizing material found to absorb. Re-verified 2026-09-18, 2026-09-20, 2026-09-21 and 2026-09-22: corpus hits remain only her own TAH record and the already-absorbed TJJ/CNA quote — nothing new to absorb.
+- The only in-corpus footprint beyond her own TAH encyclopedia record ([[works/taiwaneseamericanhistory-org/whoswho2072|TAH #2072 profile, 2018/03]]) is her 2020 policy commentary quoted in the TJJ archive below — no memoir/community-organizing material found to absorb. Re-verified 2026-09-18, 2026-09-20, 2026-09-21, 2026-09-22 and 2026-09-25: corpus hits remain only her own TAH record and the already-absorbed TJJ/CNA quote — nothing new to absorb.
 
 ## From the record
 
