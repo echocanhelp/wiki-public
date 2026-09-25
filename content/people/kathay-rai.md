@@ -36,7 +36,7 @@ _No filled family fields on the TAH profile._
 
 ## Role in the Community
 
-- Own TAH Who's Who encyclopedia record is in the corpus: [[works/taiwaneseamericanhistory-org/whoswho1399|1399. Kathay Rai / 2016/11]] (published 2016-11-13). This is the only corpus appearance; no narrative community record beyond the bibliographic entry — nothing further absorbable. Re-verified 2026-09-22 (deepen-x slice 09211100-4): fresh grep of works/ + articles/ for "Kathay Rai" returns only this own record.
+- Own TAH Who's Who encyclopedia record is in the corpus: [[works/taiwaneseamericanhistory-org/whoswho1399|1399. Kathay Rai / 2016/11]] (published 2016-11-13). This is the only corpus appearance; no narrative community record beyond the bibliographic entry — nothing further absorbable. Re-verified 2026-09-22 (deepen-x slice 09211100-4); re-verified again 2026-09-25 (deepen-x slice 09232337-26): fresh grep of works/ + articles/ for "Kathay Rai" returns only this own record.
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/kathay-rai/)

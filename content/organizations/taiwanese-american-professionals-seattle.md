@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # Taiwanese American Professionals Seattle (台美菁英協會西雅圖分會)
 
@@ -25,6 +25,8 @@ Taiwanese American Professionals Seattle (TAP-Seattle) is a chapter of the Taiwa
 - Part of a nationwide TAP chapter network also recorded in the corpus: the parent encyclopedia record [[works/taiwaneseamericanhistory-org/taiwanese-american-professionals-tap|1. Taiwanese American Professionals (TAP) 台美菁英協會]] (2014-10-12), plus sibling chapters [[works/taiwaneseamericanhistory-org/austin-chapter-tap|3. Austin Chapter / TAP]], [[works/taiwaneseamericanhistory-org/boston-chapter-tap|4. Boston Chapter / TAP]], [[works/taiwaneseamericanhistory-org/d-c-chapter-tap|5. D.C. Chapter / TAP]], [[works/taiwaneseamericanhistory-org/activities-of-orange-county-chapter-tap|OC Chapter activities]] (deepened 2026-09-22: the sibling-chapter set in the corpus now also includes [[works/taiwaneseamericanhistory-org/orange-county-chapter-tap|Orange County Chapter / TAP 台美菁英協會橙縣分會]], [[works/taiwaneseamericanhistory-org/san-francisco-chapter-tap|10. San Francisco Chapter / TAP 台美菁英協會舊金山分會]], and [[works/taiwaneseamericanhistory-org/enewsletter-tapla|Taiwanese American Professionals/Los Angeles Chapter 洛杉磯分會]]).
 - Re-check (deepen-x 2026-09-22, slice 09220900-9): re-grep 台美菁英 / Taiwanese American Professional(s) / TAPS returns the same encyclopedia (#14 TAPS), chapter (Austin/Boston/D.C./OC), and scholarship (#35) records already linked above — no Seattle-specific memoir material beyond the 2015 scholarship award record; verified-saturated.
 - Network breadth (deepen-x 2026-09-24, slice 09230400-7): fresh corpus grep surfaced further sibling-chapter event records in the TA.org corpus — Chicago chapter social/fundraiser events ([[works/taiwaneseamerican-org/bruncheon-with-bubbles-with-chicago-taiwanese-american-professionals|Brunch with bubbles w/ Chicago TAP]], [[works/taiwaneseamerican-org/taiwanese-breakfast-with-taiwanese-american-professionals-in-chicago|Taiwanese breakfast w/ TAP Chicago]], [[works/taiwaneseamerican-org/happy-hour-fundraiser-with-chicago-taiwanese-american-professionals|Happy-hour fundraiser w/ Chicago TAP]], [[works/taiwaneseamerican-org/celebrate-mid-autumn-festival-with-chicago-taiwanese-american-professionals|Mid-Autumn w/ Chicago TAP]]) and a San Jose chapter event ([[works/taiwaneseamerican-org/taiwanese-american-professionals-host-tappy-hour-in-san-jose-ca|TAP hosts Tappy Hour, San Jose CA]]) — corroborating the nationwide TAP chapter network this Seattle chapter belongs to; no new Seattle-specific material, chapter-level record verified-saturated.
+
+- Re-check (deepen-x slice-09240317-2, 2026-09-25): fresh grep 台美菁英 / Taiwanese American Professional(s) / TAPS returns the same encyclopedia (#14), chapter (Austin/Boston/D.C./OC), and scholarship (#35) records already linked above — no new Seattle-specific material; verified-saturated.
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-american-professionals-seattle/)

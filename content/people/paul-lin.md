@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # Paul Lin (林水波教授)
 
@@ -33,6 +33,8 @@ last_reviewed: 2026-09-24
 
 - **Wife:** Lisa 李麗華
 
+
+- Corpus re-grep 2026-09-25 (slice deepen-x-09240317-2): hit set identical (whoswho1085-2, ourjourneys107, ourjourneys296, works index, TJJ MANIFEST + 台美人台加人存檔頁) — verified-saturated, no new material; 林年松 HOLD unchanged.
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/paul-lin/)

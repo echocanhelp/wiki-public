@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # Chun-Chieh Chiu (邱俊杰)
 
@@ -55,6 +55,8 @@ _No filled family fields on the TAH profile._
 - TAH Who's Who 收錄為第 1540 條（2017-02 刊）— [[works/taiwaneseamericanhistory-org/whoswho1540|TAH #1540: Chun-Chieh Chiu 邱俊杰]]。
 - 北美洲台灣人醫師協會（NATMA）核心幹部：該會自 1997 年起持續參與台灣加入WHO的推動，邱俊杰為曾帶隊親赴日內瓦參與宣導活動的三位總會長之一（與林榮松、許正雄並列），並曾任總會基金會董事長（2020-11-18 觀禮記錄，見下方）。
 - 2021-05 大洛杉磯台灣會館線上講座「台灣入WHO論壇」以前總會長身分與林榮松、許正雄同場討論，同場尚有前南加州分會會長楊熾勳、FAPA南加州分會前會長吳兆峯；論壇影像後收錄於台灣公義報「台灣加入世衛組織的歷程與展望」專題（見下方 From the record）。
+
+- Corpus re-grep 2026-09-25 (slice deepen-x-09240317-2, 邱俊杰／Chun-Chieh Chiu): hit set identical (whoswho1540、works index、四筆 TJJ WHA/世衛論壇及聯合聲明存檔頁) — 全部已吸收於上；SKIP, verified-saturated.
 
 ## Sources
 - [TAH #1540 encyclopedia: 1540. Chun-Chieh Chiu 邱俊杰 / 2017/02](https://taiwaneseamericanhistory.org/whoswho1540/)
