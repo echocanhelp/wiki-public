@@ -44,6 +44,7 @@ last_reviewed: 2026-09-25
 - **2001:** honored as 模範母親 by the 南加州台灣長輩會; her son [[people/lung-chen|陳隆]] wrote the tribute 〈康乃馨的禮讚：恭賀母親陳石溫愛長老榮獲南加州台灣長輩會2001年模範母親〉, 《台灣公論報》 2001-05-12 p.11 — cited in [[works/taiwaneseamericanhistory-org/our-journeys-350|350. 美國舊金山灣區台灣基督教會史料簡介 (何義麟, 2019)]], which lists her among its named subjects alongside [[people/m-l-chen|陳夢蘭]].
 - Her own TAH encyclopedia entry: [[works/taiwaneseamericanhistory-org/whoswho1030|1030. W. I. Chen 陳石溫愛 / 2016-05]].
 - HOLD: name collision — TAH #1041 is a *different* person also named "W. I. Chen" (陳文英, [[works/taiwaneseamericanhistory-org/whoswho1041|whoswho1041]]); do not merge records.
+- Corpus re-verified 2026-09-25 (slice 09231300-4): fresh ZH+EN greps return only our-journeys-350 (模範母親 citation, absorbed), #1030 (bibliographic, linked), and #1041 陳文英 (different person — HOLD above stands). No new material.
 
 ## Sources
 - [TAH #1030 encyclopedia: 1030. W. I. Chen 陳石溫愛 / 2016/05](https://taiwaneseamericanhistory.org/whoswho1030/)
