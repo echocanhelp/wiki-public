@@ -46,3 +46,4 @@ _No filled family fields on the TAH profile._
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 <!-- deepen-x 09231000-14: verified-saturated — corpus re-scan (works/articles) fresh 2026-09-25: hit set identical to prior passes (own records + already-wikilinked works only); David Kuang-Tzu Lin: fresh grep hits (ourjourneys33 family-photo 'David Lin', TJJ 林沅融 David Lin, TJJ 牧師林大衛 David Lin) are name collisions, NOT 李光治 — excluded, no absorbable material. -->
+<!-- deepen-x 09250317-11: verified-saturated — corpus re-scan (works/articles) fresh 2026-09-25: hit set identical to prior passes (own records + already-wikilinked works only); no new community material. -->

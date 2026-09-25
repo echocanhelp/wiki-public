@@ -32,6 +32,8 @@ The scholarship and tournament records corroborate the directory's stated dual e
 
 Re-grep 2026-09-25 (slice 09230900-23): fresh grep 楊文傑/Yang Foundation across works/ + articles/ returns the same hit set (scholarship, ping-pong tournament, Who's Who #2296, works index) — verified saturated; nothing new absorbable.
 
+Re-grep 2026-09-25 (slice 09250317-15): same hit set again (yang-foundation, scholarship, ping-pong tournament, Who's Who #2296, index) — saturated; no new corpus facts.
+
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/yang-foundation/)
 

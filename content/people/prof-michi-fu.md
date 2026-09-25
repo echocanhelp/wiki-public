@@ -52,3 +52,4 @@ Re-grep 2026-09-22 (slice 09211507-13): exact-name hits limited to her own TAH r
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 <!-- deepen-x 09221500-31: verified-saturated — corpus re-scan (works/articles) fresh 2026-09-23: hit set identical to prior passes (own TAH record + already-wikilinked works only); no new community material. -->
 <!-- deepen-x 09231000-14: verified-saturated — corpus re-scan (works/articles) fresh 2026-09-25: hit set identical to prior passes (own records + already-wikilinked works only); David Kuang-Tzu Lin: fresh grep hits (ourjourneys33 family-photo 'David Lin', TJJ 林沅融 David Lin, TJJ 牧師林大衛 David Lin) are name collisions, NOT 李光治 — excluded, no absorbable material. -->
+<!-- deepen-x 09250317-11: verified-saturated — corpus re-scan (works/articles) fresh 2026-09-25: hit set identical to prior passes (own records + already-wikilinked works only); no new community material. -->
