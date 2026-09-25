@@ -45,7 +45,7 @@ last_reviewed: 2026-09-25
 - Memorial memoir by his wife: [[works/taiwaneseamericanhistory-org/mystories636|636. 紀念先夫黃申生醫師 / 楊詠絮 / 05/2018]] — primary community record of his life; full text stays in the vault.
 - TAH encyclopedia profile: [[works/taiwaneseamericanhistory-org/whoswho2109|2109. S.S. Huang 黃申生 / 05/2018]].
 - Disambiguation: TAH #2086 "Prof. S. S. Huang" is 黃壽山, a different person sharing the English initials — see [[works/taiwaneseamericanhistory-org/whos-who-2086-s-s-huang|2086. Prof. S. S. Huang 黃壽山教授]]; do not merge the two records.
-- Re-grepped 2026-09-23 (slice 09221500-25) and 2026-09-25 (slice 09231000-28): corpus hits remain only #2109, #636, #79 and the #2086 黃壽山 disambiguation record already noted above — verified-saturated.
+- Re-grepped 2026-09-23 (slice 09221500-25), 2026-09-25 (slice 09231000-28) and 2026-09-25 (slice 09250400-18): corpus hits remain only #2109, #636, #79 and the #2086 黃壽山 disambiguation record already noted above — verified-saturated, nothing absorbable.
 
 
 ## Sources
