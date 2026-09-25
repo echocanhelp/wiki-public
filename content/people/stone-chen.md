@@ -7,7 +7,7 @@ redirect_to: chen-wenshi
 tags:
   - redirect
 verification_status: redirect
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-25
 ---
 
 # Moved
@@ -25,3 +25,5 @@ TAH WP slug `stone-chen`. Echopedia slug stays `chen-wenshi`.
 
 ## Related Pages
 - [[people/chen-wenshi||Stone Chen (陳文石)]]
+
+Corpus re-check 2026-09-25: SKIP — redirect stub; corpus works re-grepped (ZH+EN) and all hits belong to the canonical page, already absorbed there.

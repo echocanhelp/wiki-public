@@ -36,6 +36,7 @@ _No filled family fields on the TAH profile._
 
 ## Role in the Community
 - Profiled in the TAH Foundation encyclopedia entry [[works/taiwaneseamericanhistory-org/whoswho947-2|947. H. J. Lin 林宏哲 / 2016/04]] (published 2016-04-24, value band B) — his Who's Who record within the TAH story corpus.
+- SKIP (deepen-x 09240400-21, re-verified 2026-09-25): ZH+EN corpus grep of works/articles hits only this own Who's Who record — no memoir or community material to absorb.
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/h-j-lin/)

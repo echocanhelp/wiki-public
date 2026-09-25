@@ -5,7 +5,7 @@ redirect_to: alan-thian
 tags:
   - redirect
 verification_status: redirect
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-25
 ---
 
 # Moved
@@ -22,3 +22,5 @@ Canonical page: **[[people/alan-thian||Alan Thian (田詒鴻)]]**.
 ## Related Pages
 - [[people/alan-thian||Alan Thian (田詒鴻)]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+Corpus re-check 2026-09-25: SKIP — redirect stub; corpus works re-grepped (ZH+EN) and all hits belong to the canonical page, already absorbed there.
