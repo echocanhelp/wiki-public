@@ -42,6 +42,7 @@ last_reviewed: 2026-09-25
 
 - Corpus re-grep 2026-09-19 / 2026-09-21 (incl. slice 09210317-27): hits unchanged ([[works/taiwaneseamericanhistory-org/mystories594|李汝成先生生平略歷]] + own TAH record #1916 + index); facts above already absorbed, no new community material.
 - Corpus re-grep 2026-09-25 (slice 09231200-11): new-looking ZH+EN hits in works/ are for a DIFFERENT person — Dr. Ju-Cheng Lee **李汝城**醫師 (ENT; NATMA New York Chapter president; Taitower Inc. shareholder that bought the NY Taiwan Center property: [[works/taiwaneseamericanhistory-org/ourjourneys74-eng|Our Journeys 74]], [[works/taiwaneseamericanhistory-org/182-dr-ju-cheng-lee|182. Dr. Ju-Cheng Lee 李汝城醫師]]) — 汝成 (entrepreneur, Changhua) ≠ 汝城 (physician). HOLD: name-collision A vs B, no cross-merge; NATMA/Taitower facts belong to [[people/dr-ju-cheng-lee|Dr. Ju-Cheng Lee]]. No new material for this 李汝成.
+- Corpus re-grep 2026-09-25 (slice 09250400-2): hit set unchanged (mystories594 + own record #1916 + index); 李汝成/李汝城 name-collision HOLD stands; nothing new absorbable.
 ## Sources
 - [TAH #1916 encyclopedia: 1916. Ju Cheng Lee 李汝成](https://taiwaneseamericanhistory.org/whos-who-1916-ju-cheng-lee/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/ju-cheng-lee/)

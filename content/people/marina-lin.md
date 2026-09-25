@@ -51,3 +51,5 @@ _No filled family fields on the TAH profile._
 <!-- deepen-x slice 09211507-21 (2026-09-22): re-verified — re-grep (Marina Lin/林淨媺) finds the ourjourneys301 memoir passage already absorbed above plus own TAH #1624/#394 records; nothing new absorbable. -->
 
 <!-- deepen-x slice 09231100-5 (2026-09-25): re-verified — fresh ZH+EN grep of works/ + articles/ returns only the records already linked/absorbed above (plus works/index rollup); no new memoir material; no conflicts resolved or added. -->
+
+<!-- deepen-x slice 09250400-2 (2026-09-25): re-verified — fresh ZH+EN grep returns only whoswho1624 / musician394 / ourjourneys301 (already absorbed) + works index; no new material. -->
