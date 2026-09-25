@@ -55,6 +55,7 @@ _No filled family fields on the TAH profile._
 - 複核（TJJ-A09171100-4, 2026-09-24）：本 slice 文章 2d725102f4e64118 正文再驗證——本頁 subject link 為真實對應（無錯鏈、無虛鏈），對應 From-the-record 條目已在庫 — SKIP，無新材料。
 - 複核（TJJ-A09231000-2, 2026-09-25）：本 slice 4 篇 TJJ 文章（2d725102 去殖民化（下）、039ccce4 Joyce Lin 墜機、162effa7 TASF 紓困獎學金、1d72b2ae 小英後援會造勢）subject link 再驗證：林榮勳 對應真實，無錯鏈、無虛鏈；對應 From-the-record 條目已在庫 — SKIP，無新材料。
 - 2023-06-02 — Essay 「從二戰後全球去殖民化，到台灣國家正常化（下）」 recalls that Lin, with 陳以德 and 盧主義 — all NTU graduates — founded the 3F (Free Formosa for Formosans) independence group in Philadelphia in 1956 — the earliest US-based 台獨 organisation — renamed 「台灣獨立聯盟」/ United Formosans for Independence in 1959 ([[articles/taiwanjustice-net/2024/20240225024511_root_2d725102f4e64118|TJJ, 2023-06-02]]; [[articles/taiwanjustice-net/2023/20230923051922_2023_06_02_從二戰後全球去殖民化_到台灣國家正常化-_下_c251f8fc65ac83e0|2023 archive]]; [[articles/taiwanjustice-net/2025/20250328131429_從二戰後全球去殖民化_到台灣國家正常化-_下_c03323d28f95e9ea|2025 archive]]).
+- Corpus re-grep 2026-09-25 (slice 09240500-2): SKIP-new-facts — ZH+EN re-grep returns only already-linked hits (my-stories-897, ourjourneys85 + eng, ourjourneys33, 275 林榮勳博士 encyclopedia entry, own whoswho1011 card, TJJ 去殖民化 essays); [[works/taiwaneseamericanhistory-org/ourjourneys33|Our Journeys #33]] reconfirms the 1956 3F founding and 1958 UFI reorganisation already absorbed with the HOLD above. No new absorbable material.
 
 ## Sources
 - [TAH #1011 encyclopedia: 1011. John Lin 林榮勳 / 2016/05](https://taiwaneseamericanhistory.org/whoswho1011/)

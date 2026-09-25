@@ -49,6 +49,8 @@ Dr. R. Palmer Beasley 畢思理博士 – History of Taiwanese American (T.A. Ar
 - Corpus re-grep 2026-09-24 (slice 09230500-14): SKIP — hit set unchanged (own #245/#2188, 林壽英 tribute #662, works index, taiwanjustice 這些人這些事 tag archive, plus the 2025 UN/WFP 烏克蘭糧食 article = David Beasley false positive again); no memoir narrative beyond the known entries; nothing new to absorb.
 - Corpus re-grep 2026-09-23 (slice 09221000-7): SKIP — hit set unchanged (own #245/#2188, 林壽英 tribute #662, works index, 這些人這些事 tag archive); the one fresh 2025 TJJ hit (聯合國/烏克蘭糧食) is again David Beasley / UN WFP — false positive, not absorbed.
 
+- Corpus re-grep 2026-09-25 (slice 09240500-7): SKIP — hit set unchanged (own #245/#2188, 林壽英 tribute #662, works index, 這些人這些事 tag archive); no new absorbable material.
+
 ## Sources
 - [TAH #2188 encyclopedia: 2188. Dr. R. Palmer Beasley 畢思理博士](https://taiwaneseamericanhistory.org/whos-who-2188-r-palmer-beasley/)
 - [TAH #245 encyclopedia: 245. Dr. R. Palmer Beasley 畢思理博士](https://taiwaneseamericanhistory.org/ota-245/)

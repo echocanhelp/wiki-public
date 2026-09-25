@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # Andrew Y. Lee (李友義博士)
 
@@ -52,7 +52,7 @@ Corpus memoirs document Lee as a pillar of the Northern California Taiwanese gra
 - Posthumous community memorials: [[works/taiwaneseamericanhistory-org/376-e6-9d-8e-e5-8f-8b-e7-be-a9-e5-8d-9a-e5-a3-ab-e7-b4-80-e5-bf-b5-e9-9b-8620010|376. 李友義博士紀念集 / 2001-09]] and [[works/taiwaneseamericanhistory-org/63-andrew-lee-memorial-scholarship|63. Andrew Lee Memorial Scholarship 李友義博士紀念獎學金]]; own TAH record [[works/taiwaneseamericanhistory-org/whoswho20|20. Andrew Y. Lee 李友義]].
 - HOLD: conflict — TAH employment table lists Northrop Grumman through 2001, but corpus memoirs record his death in 2000; dates not merged.
 
-_Corpus re-scan 2026-09-24: fresh grep of works/articles for 李友義/Andrew Lee returns the same hit set (63 紀念獎學金, 376 紀念集, ourjourneys-138, our-journeys-357 fn.39, ourjourneys37/38/106); all absorbed above — verified saturated, no new community facts._
+_Corpus re-scan 2026-09-25: fresh grep of works/articles for 李友義/Andrew Lee returns the same hit set (63 紀念獎學金, ourjourneys-138, our-journeys-357 fn.39, ourjourneys37/38/106); all absorbed above — verified saturated, no new community facts.
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/andrew-y-lee/)

@@ -40,6 +40,8 @@ last_reviewed: 2026-09-24
 - HOLD: [[works/taiwaneseamericanhistory-org/our-journeys-384|Our Journeys 384 / UCSD Center for Taiwan Studies year-end note / 2022-12-23]] thanks a "Tony Hsieh" on its archives transition team — after the 2020 death date, so this is almost certainly a different person of the same name; the work page's link to this page should be disambiguated, not merged
 - 2021-03-27 — 社區媒體跟進 WSJ 報導其生前最後一年：長住猶他州 Park City 豪宅，資助約十二名長年好友、前 Zappos 員工及有志音樂家（從 8.4 億美元財產支薪佣金、搬迁者給兩倍薪資），Smashing Pumpkins 主唱珠兒擔心他被利用；報導並指這群伙伴助長其吸毒酗酒、使其與世隔絕（[[articles/taiwanjustice-net/2025/20250616003019_zappos台裔創辦人謝家華生前秘辛_美媒_砸錢養酒肉_4e18dced8f30a4e9|台灣正義通訊]]；另有同主題 2021-01-27 早期存檔版本 [[articles/taiwanjustice-net/2021/20210227211920_2021_01_27_爭執_門鎖與火災_台裔鞋王謝家華之死疑雲未解_37f20133d0810ce5|爭執、門鎖與火災]]）
 
+- Corpus re-grep 2026-09-25 (slice 09240500-7): SKIP — fresh ZH+EN grep hit set identical to the 2026-09-24 log (whos261, ff288, my-stories-772, our-journeys-384, maggie-hsu-mochimag, works/index), all linked above; no new absorbable material.
+
 ## Family
 
 - **Father:** Richard Hsieh謝傳剛/Mother: Judy Lee李小林

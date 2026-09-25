@@ -26,6 +26,8 @@ The Tennessee Taiwanese Association (田納西州大納許維爾台灣同鄉會)
 - CORPUS SCAN (2026-09-22): the Tennessee corpus shelf is now fully enumerated — beyond [[works/taiwaneseamericanhistory-org/ourjourneys313|313. 東田納西台灣同鄉會成立簡史]] there are two more East-Tennessee records, [[works/taiwaneseamericanhistory-org/history-of-taa-east-tennessee|21. Brief History of TAA / East Tennessee Chapter 東田納西台灣同鄉會簡介]] (2017) and the chapter's own newsletter [[works/taiwaneseamericanhistory-org/newsletter-taa-east-tennessee|大煙山麓 by TAA – East Tennessee 東田納西台灣同鄉會]] (2017), plus the EN translation [[works/taiwaneseamericanhistory-org/ourjourneys313-eng|313 (EN)]] and [[works/taiwaneseamericanhistory-org/ourjourneys314|314. 東田納西台灣同鄉會創會二十週年感言 / 陳玉明 (09/2017)]]. All remain East-Tennessee (Knoxville) material; NONE is a Nashville-chapter founding record — this chapter's own history is still absent from the corpus, only its 2018 activity records exist. *(re-verified 2026-09-24; 314 absorbed)*
 - HOLD: directory lists this chapter under TAA's Mid-Western (美中西) grouping while the geographically adjacent East Tennessee chapter sits in Eastern Southern (美東南); the Nashville-area chapter's regional affiliation and its relationship to the "Nashville Taiwanese Association" story remain to be reconciled.
 
+- Corpus re-grep 2026-09-25 (slice 09240500-7): SKIP — Nashville/TN grep confined to works already linked above (nashville-taiwanese-association, taiwanese-american-heritage-week-of-nashville-tn, works/index); Nashville-chapter founding record still absent from the corpus; nothing new to absorb.
+
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/tennessee-taiwanese-association/)
 

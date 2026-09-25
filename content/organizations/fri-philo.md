@@ -26,6 +26,7 @@ Café Philo (哲學星期五, literally ‘Philosophy Friday’) is a civic foru
 
 - New York Cafe Philo also served as the organising hub for **g0v hackathons in New York City** ("organised by the New York Cafe Philo crowd"), and the post-Sunflower chapters practised deliberate intergenerational collaboration — students worked with elders of the overseas movement, including former political-blacklist figures, and with institutions such as the Taiwan Center (Flushing) and The Base (Brooklyn). The New Bloom memoir frames this sociality ("the fun social aspect") as what kept organisers engaged. ([[works/taiwaneseamericanhistory-org/our-journeys-373|373. The Overseas Taiwanese Student Movement…, 06/2021]])
 - The TAH directory entry itself is a band-B bibliographic record published **2016-04-04**, an early snapshot of the forum series while it was still expanding to U.S. cities. ([[works/taiwaneseamericanhistory-org/fri-philo|Fri. Philo 哲學星期五, TAH record 2016-04-04]])
+- Corpus re-grep 2026-09-25 (slice 09240500-2): SKIP-new-facts — ZH+EN re-grep of works/ + articles/ returns only the already-absorbed hit set (fri-philo directory record, our-journeys-373 New Bloom memoir, 海台青 TJJ reports, 2021 二二八 TJJ report); no new absorbable material.
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/fri-philo/)

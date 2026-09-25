@@ -31,6 +31,8 @@ From the community record (member memoirs):
 - The Council appears as #38 (紐約紐澤西台灣人社團聯合會) in the SETAA 夏令會 member-group roster record ([[works/taiwaneseamericanhistory-org/ourjourneys356|Our Journeys #356]]; [[works/taiwaneseamericanhistory-org/ourjourneys356-eng|English ed.]]), and its own TAH directory story page is archived in-corpus ([[works/taiwaneseamericanhistory-org/taiwanese-american-council|TAH directory work]]).
 - Corpus re-grep 2026-09-24 (slice 09230500-12): fresh ZH+EN grep of works/+articles/ — hit set identical to the records already linked above (ourjourneys9-eng, ourjourneys09, ourjourneys356 ±eng, directory pages); verified-saturated, no new absorbable material.
 
+- Corpus re-grep 2026-09-25 (slice 09240500-7): SKIP — fresh ZH+EN grep hit set identical to the 2026-09-24 log (ourjourneys9-eng, ourjourneys09, ourjourneys356 ±eng, directory work pages); no new absorbable material.
+
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-american-council/)
 - [[works/taiwaneseamericanhistory-org/ourjourneys9-eng|Our Journeys #9 — The Birth of the Taiwan Center Building Committee (Patrick Huang, 2014)]]
