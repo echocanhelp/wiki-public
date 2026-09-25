@@ -47,6 +47,8 @@ _Corpus re-scan 2026-09-22: fresh grep works/articles returns the same six hits 
 
 _Corpus re-grep 2026-09-24 (slice 09230500-26): hit set identical to the six works already absorbed; the concerts81 2016 聖誕音樂會 record additionally co-links 吳瑞惠 ([[people/grace-lin|Grace Lin]]) in the same ensemble credit line. No new facts; verified saturated._
 
+_Corpus re-grep 2026-09-25 (slice 09240500-19): ZH+EN grep of works/+articles/ returns the same six linked records (concerts81, musical-concerts-150, #17, #180, #13051, #107) plus the already-cited TJJ 長青教室 tag page — verified saturated, no new facts, no conflicts._
+
 ## Sources
 - [TAH #344 encyclopedia: 344. Li-Ying Shang 商麗鶯 2015/03](https://taiwaneseamericanhistory.org/344/)
 - [TAH #180 encyclopedia: 180. Li-Ying Shang 商麗鶯, Conductor / 2015/03](https://taiwaneseamericanhistory.org/180-li-ying-shang-conductor/)
