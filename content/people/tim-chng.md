@@ -41,6 +41,7 @@ last_reviewed: 2026-09-25
 
 2026-09-23 re-check (slice 09221300-22): corpus re-grep (Tim Chng / 莊騰程) returned only the own TAH #1688 record, the works index, and the works already cited above (open letter, Pew statement, 228 oral-history page) — no new absorbable facts (re-verified from the 09-21 / 09-22 passes).
 - Re-grep 2026-09-24 (slice 09230800-27): fresh ZH+EN grep of works/ + articles/ — hit set identical (own TAH #1688, works index, open letter, Pew statement, 228 oral-history page); body text re-confirmed the open-letter roles already absorbed (莊騰程 = 台美大專學生會發起人 / ITASA co-founder, moderator). Verified-saturated, SKIP-with-reason.
+- 2026-09-25 deepen-x slice 09240800-7: re-verified — fresh grep 莊騰程/Tim Chng returns exactly the linked set (whoswho1688, Pew statement, 228 oral-history page, open letter); no new corpus material. Verified-saturated, SKIP.
 
 ## Sources
 - [TAH #1688 encyclopedia: 1688. Tim Chng 莊騰程 / 05/2017](https://taiwaneseamericanhistory.org/whoswho1688/)

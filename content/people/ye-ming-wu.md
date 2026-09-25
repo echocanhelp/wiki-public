@@ -55,3 +55,4 @@ last_reviewed: 2026-09-25
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 - 2026-09-24 deepen-x slice 09230800-11: re-verified — fresh grep returns exactly the linked set (ourjourneys24/53 ±EN, whoswho1184, index); verified-saturated, SKIP.
+- 2026-09-25 deepen-x slice 09240800-7: re-verified — fresh grep 吳怡明/Ye-Ming Wu returns exactly the linked set (ourjourneys24/53 ±EN, whoswho1184); no new corpus material. Verified-saturated, SKIP.
