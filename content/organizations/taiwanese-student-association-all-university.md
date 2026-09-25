@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # Taiwanese Student Association – All-University
 
@@ -36,3 +36,4 @@ HOLD: the TAH directory entry "Taiwanese Student Association – All-University"
 
 複核（deepen-x 2026-09-23 slice-11）：SKIP-with-reason — fresh re-grep（紐約大學台灣同學會 / "Taiwanese Student Association" / "All-University" / NYU TSA, works+articles）零命中；既有材料（2011 Halloween party 報導、219 NYU 學生志工紀錄）已吸收，@nyu.tsa 連續性 HOLD 維持。無新增社群材料。
 複核（deepen-x 2026-09-24 slice-6）：fresh re-grep（紐約大學台灣同學會 / NYU TSA / All-University, works+articles）無本頁專屬新命中 — 命中皆為其他校 TSA 頁（OSU/UW/UCLA-USC/TSAPA）；既有材料（2011 Halloween party、219 NYU 學生志工）已吸收，@nyu.tsa 連續性 HOLD 維持 — 飽和。
+(deepen-x slice 09240317-8, 2026-09-25): fresh re-grep hits are all other-campus TSA pages (USCTSA dumplings, OSU, UW, TSAPA) + index -- no new page-specific material; existing 2011 Halloween-party and 219 NYU-volunteer records already absorbed, @nyu.tsa continuity HOLD maintained -- saturated, SKIP.

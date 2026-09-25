@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # John Pang Yu (余金榜)
 
@@ -38,6 +38,7 @@ _No filled family fields on the TAH profile._
 - Corpus re-grep 2026-09-22 (slice 09211400-28): hit set unchanged (own TAH #610 + TAI/Our Journeys memoirs + works index — all linked above); newly absorbed from the 蓬萊歌劇團 memoir: his stage debut in 《火燒法統記》. The 印城台灣同鄉會 歷任會長 list in [[works/taiwaneseamericanhistory-org/our-journeys-389|印城台灣同鄉會紀要]] confirms his third-presidency term 1980–1981 as written.
 - Corpus re-grep 2026-09-22 (slice 09220900-9): hit set unchanged (own TAH #610 + ourjourneys37/37-eng/39 + our-journeys-389 + works index — all linked above). The 印城台灣同鄉會紀要 founding context (International Festival / Nationalities Council of Indiana motive) is association-level material, not personal biography — noted, not absorbed. Verified-saturated.
 - Corpus re-grep 2026-09-24 (slice 09230400-5): hit set unchanged (#610 + ourjourneys37/37-eng/39 + our-journeys-389 + works index — all linked above) — verified-saturated, SKIP this pass.
+- Corpus re-grep 2026-09-25 (slice 09240317-7): hit set unchanged (#610 + ourjourneys37/37-eng/39 + our-journeys-389 + works index — all linked above) — verified-saturated, SKIP this pass.
 - His TAH encyclopedia entry is preserved as [[works/taiwaneseamericanhistory-org/610-john-pang-yu-e4-bd-99-e9-87-91-e6-a6-9c-201509|TAH #610: John Pang Yu 余金榜 (2015/09)]].
 
 ## Sources
