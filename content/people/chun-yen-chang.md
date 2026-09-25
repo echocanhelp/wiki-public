@@ -44,7 +44,7 @@ _No filled family fields on the TAH profile._
 
 ## Corpus Check (deepen-x 09170900-21)
 
-SKIP-with-reason: corpus scan of `works/` and `articles/` found no primary community material beyond this person's own TAH encyclopedia record — nothing absorbable without inventing biography. Linked the encyclopedia work page below.
+SKIP-with-reason: corpus scan of `works/` and `articles/` found no primary community material beyond this person's own TAH encyclopedia record — nothing absorbable without inventing biography. Linked the encyclopedia work page below. Re-checked 2026-09-25 (deepen-x 09231300-29): hit set still only own record + works/index — still SKIP.
 
 ## Related Pages
 - [[works/taiwaneseamericanhistory-org/whoswho952|TAH encyclopedia record #952: Chun-Yen Chang 張俊彥]]
