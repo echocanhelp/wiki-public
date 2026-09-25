@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-25
 ---
 # Prof. Lu-Yu Hwang (黃綠玉教授)
 
@@ -48,3 +48,4 @@ last_reviewed: 2026-09-22
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 Corpus re-check (deepen-x 09201503-13, 2026-09-21): verified-saturated — fresh grep of works/ + articles/ returns only own TAH bibliographic records, the works index, or already-excluded mentions; no absorbable memoir text.
+Corpus re-check (deepen-x 09231100-12, 2026-09-25): verified-saturated — fresh grep 黃綠玉 / Lu-Yu Hwang returns only own records [[works/taiwaneseamericanhistory-org/whos-who-2184-lu-yu-hwang|#2184]], [[works/taiwaneseamericanhistory-org/ota-253|#253]] and the works index; nothing new absorbable.

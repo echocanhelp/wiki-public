@@ -39,7 +39,7 @@ Accomplishment
 ## Role in the Community
 
 The corpus records Wang as a milestone figure for the second generation: [[works/taiwaneseamericanhistory-org/376-edward-wang|TAH #376 (2018)]] documents him as "The First Second Generation T. A. Visiting T. A. Archive Center, Irvine, CA" on 2018-08-21 — the first second-generation Taiwanese American to be recorded in the movement's archive-center visit series. His own encyclopedia entry is [[works/taiwaneseamericanhistory-org/whos-who-2136-edward-k-wang|TAH Who's Who #2136 (2018)]]. Son of [[people/ching-ih-wang|王進益]].
-- Corpus re-grep 2026-09-21 / 2026-09-22: grep 王凱廷 / Edward Wang across content/works + content/articles returns only his own two TAH records (#376, #2136) plus the harvest index — no memoir narrative beyond them. Nothing new absorbable this pass.
+- Corpus re-grep 2026-09-21 / 2026-09-22 / 2026-09-25 (slice 09231100-14): grep 王凱廷 / Edward Wang across content/works + content/articles returns only his own two TAH records (#376, #2136) plus the harvest index — no memoir narrative beyond them. Nothing new absorbable this pass.
 
 ## Sources
 - [TAH #2136 encyclopedia: 2136. Edward K Wang 王凱廷](https://taiwaneseamericanhistory.org/whos-who-2136-edward-k-wang/)

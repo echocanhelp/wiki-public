@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-25
 ---
 # Chiao-jung Wang (王巧蓉)
 
@@ -32,6 +32,7 @@ last_reviewed: 2026-09-22
 - **Story author.** Authored a community feature on the Solís couple for the TAH Our Journeys corpus — [[works/taiwaneseamericanhistory-org/mystories539|539. 索拉茲夫妻 台灣結緣一世情 / 王巧蓉 / 2017-04]].
 - Named in the supporter roster of 陳淮崇's early TAA memoir — [[works/taiwaneseamericanhistory-org/ourjourneys-138|138. 華府與巴城TAA的誕生 / 陳淮崇 / 2015-05]].
 - Her own TAH encyclopedia entry is held as a work record — [[works/taiwaneseamericanhistory-org/whoswho1712|1712. Chiao-jung Wang 王巧蓉 / 07/2017]].
+- Re-check 2026-09-25 (slice 09231100-12; fresh grep 王巧蓉 / Chiao-jung Wang): corpus hits are exactly the four works already wikilinked above (ourjourneys228, mystories539, ourjourneys-138, whoswho1712) plus the works index — verified-saturated, no new absorbable testimony.
 
 ## Family
 

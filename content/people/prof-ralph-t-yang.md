@@ -23,7 +23,7 @@ Professor (1995-), Chairman (1995-2000), Dwight F. Benton Professor (2002-), Che
 
 ## Role in the Community
 - 2017-08-21 入錄 TAH Foundation 名人錄百科第 1860 條；見 [[works/taiwaneseamericanhistory-org/whos-who-1860-ralph-t-yang|1860. Prof. Ralph T. Yang 楊祖保教授]]。
-- Corpus re-grep 2026-09-17 / 2026-09-19 / 2026-09-20 / 2026-09-21 (slice 09201503-4) / 2026-09-22 (slice 09211507-14): 楊祖保 / Ralph T. Yang 在 content/works、content/articles 僅見自身的 TAH 圖书记錄 [[works/taiwaneseamericanhistory-org/whos-who-1860-ralph-t-yang|TAH #1860]] 與作品索引，無回憶錄或社群文章可吸收 — SKIP deepening。
+- Corpus re-grep 2026-09-17 / 2026-09-19 / 2026-09-20 / 2026-09-21 (slice 09201503-4) / 2026-09-22 (slice 09211507-14) / 2026-09-25 (slice 09231100-14): 楊祖保 / Ralph T. Yang 在 content/works、content/articles 僅見自身的 TAH 圖书记錄 [[works/taiwaneseamericanhistory-org/whos-who-1860-ralph-t-yang|TAH #1860]] 與作品索引，無回憶錄或社群文章可吸收 — SKIP deepening。
 
 <!-- tah-tables:start -->
 ## Education
