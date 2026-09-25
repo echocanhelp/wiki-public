@@ -38,6 +38,7 @@ _No filled family fields on the TAH profile._
 
 - Recorded in the TAH story corpus as Who's Who encyclopedia entry 2277 (published 2020-06-12). [[works/taiwaneseamericanhistory-org/whos-who-2277-andy-yang|2277. Andy Yang]]
 - No memoir/community narrative beyond the Who's Who record found in the corpus at review time.
+- 2026-09-25 re-sweep: fresh grep returned only own record whos-who-2277 + index — SKIP (nothing absorbable).
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/andy-yang/)

@@ -32,6 +32,7 @@ last_reviewed: 2026-09-25
 ## Role in the Community
 - Corpus sweep (works/articles) found no community narrative material beyond her own TAH Who's Who record: [[works/taiwaneseamericanhistory-org/whoswho1300|1300. Grace Yang 楊蕙安 / 2016/10]]（bibliographic record only, band B; already cross-linked from that record's Subjects). Nothing absorbable; no biography invented.
 - Re-swept 2026-09-21: corpus grep returns only her own record — still nothing absorbable.
+- Re-swept 2026-09-25: fresh ZH+EN grep returned only own record whoswho1300 + index — SKIP.
 
 ## Family
 
