@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # Prof. F. Frank Chen (陳鳳山教授)
 
@@ -54,3 +54,4 @@ Timeline (from cited vault pages): 1980 B.S. Industrial Engineering, Tunghai Uni
 - Disambiguation note: corpus hit in [[works/taiwaneseamerican-org/two-perspectives-on-late-life-the-chien-ming-wang-story]] refers to Taiwanese-Canadian documentary director Frank Chen (陳惟揚), a different person — do not merge.
 - 複核（deepen-x slice-09190130-7, 2026-09-20；slice-09201400-16, 2026-09-21；slice-09211300-17, 2026-09-22；slice-09220800-22, 2026-09-22）：re-grep 陳鳳山 / F. Frank Chen 僅見 TAH #1911、winners49 及陳惟揚同名誤配頁 — SKIP，無新語料可吸收。
 - 複核（deepen-x slice-09230317-24, 2026-09-24）：re-grep 陳鳳山 / Frank Chen 僅見 TAH #1911、winners49、works index 及陳惟揚同名誤配頁 — SKIP，無新語料可吸收。
+- 複核（deepen-x slice-09240317-28, 2026-09-25）：re-grep 陳鳳山 / F. Frank Chen 命中集合相同（TAH #1911、winners49、works index、陳惟揚誤配頁）— SKIP，無新語料可吸收。
