@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-25
 ---
 # Allen Chang (張伯寬)
 
@@ -36,6 +36,7 @@ last_reviewed: 2026-09-23
 - Our Journeys #63 refers to him as「已過世的同事張伯寬先生」— the memoir record indicates he passed away before that memoir was written.
 - Met his wife 張月英 (輔仁大學哲學系, former teacher, then editor/reporter at《台灣公論報》) through work at the paper; married September 1982. Consistent with the Family section (Anna 張月英).
 - His TAH Who's Who encyclopedia entry is held as a work page: [[works/taiwaneseamericanhistory-org/whos-allen-chang||TAH #2053 Allen Chang 張伯寬 / 03/2018]].
+- Corpus re-grep 2026-09-25 (slice-09231000-19): hit set unchanged — own encyclopedia entry [[works/taiwaneseamericanhistory-org/whos-allen-chang|TAH #2053]], [[works/taiwaneseamericanhistory-org/ourjourneys33|Our Journeys #33]], [[works/taiwaneseamericanhistory-org/ourjourneys63|#63]] and the works index, all already absorbed above. Verified-saturated; no new corpus facts.
 
 ## Family
 

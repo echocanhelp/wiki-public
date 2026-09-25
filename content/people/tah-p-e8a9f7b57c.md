@@ -6,7 +6,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-25
 ---
 # 蕭樂善
 
@@ -36,6 +36,7 @@ last_reviewed: 2026-09-23
 - His daughter's memoir [[works/taiwaneseamericanhistory-org/ourjourneys215|215. The Beginning of Our Church / En Chin Chen / 04/2016]] (band A) records that in 1973–74 he presided over the first Bible studies and weekly Sunday services at the Chen home in Camp Springs, MD (~20 attendees) — the nucleus of the church now in Derwood, MD (built 2012).
 - The memoir recalls his 1940s interim ministry at Sin-Tiam (新店教會), hosting members who walked four-hour mountain trails for lunch after service — consistent with the 1940–1946 新店教會 pastor entry above. Author En Chin Chen is daughter [[people/enchin-shaw-chen|蕭永真]].
 - Re-grepped against the corpus 2026-09-21 and re-verified 2026-09-22 (slice 09211500-30): the only mentions are [[works/taiwaneseamericanhistory-org/whos866|TAH #866]] and the daughter’s memoir [[works/taiwaneseamericanhistory-org/ourjourneys215|#215]], both already absorbed above — no new material. Re-verified 2026-09-23 (slice 09221000-32): hit set unchanged; verified-saturated.
+- Re-verified 2026-09-25 (slice 09231000-19): hits remain [[works/taiwaneseamericanhistory-org/whos866|TAH #866]] and the daughter's memoir [[works/taiwaneseamericanhistory-org/ourjourneys215|#215]] plus the works index — no new material. Verified-saturated.
 
 ## Family
 
