@@ -43,6 +43,7 @@ _No filled family fields on the TAH profile._
 - Corpus re-grep 2026-09-22: hit set unchanged (whos-hsingfang-cindy-liu, musician352, works/index) — both records already linked above; verified-saturated, no new absorbable facts.
 - Re-verified 2026-09-23 (slice 09221000-18): fresh ZH+EN grep returns the same hit set (whos-hsingfang-cindy-liu, musician352, works/index) — verified-saturated, SKIP.
 - Re-verified 2026-09-24 (slice 09230500-31): fresh ZH+EN grep returns the same hit set (whos-hsingfang-cindy-liu, musician352, works/index) — verified-saturated, SKIP.
+- Re-verified 2026-09-25 (slice 09240500-25): fresh ZH+EN grep returns the same hit set (whos-hsingfang-cindy-liu, musician352, works/index) — verified-saturated, SKIP.
 
 ## Sources
 - [TAH #352 encyclopedia: 352. Cindy Liu劉杏芳, Conductor / 2016/07](https://taiwaneseamericanhistory.org/musician352/)

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # Dan Lin (林暐)
 
@@ -51,3 +51,5 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+> Re-verified 2026-09-25 (deepen-x slice 09240500-28): fresh ZH+EN grep returns the same hit set (my-stories-845, TAH #182, ITASA record, index; taiwanjustice-net hit is 林暐翔, a different person — false positive, not absorbed) — saturated, nothing new.

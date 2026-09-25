@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # Chia Chun Jessica Hu (胡佳君)
 
@@ -52,3 +52,5 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+> Deepen pass 2026-09-25 (slice 09240500-28): SKIP — fresh grep (胡佳君/Jessica Hu) still returns only her own TAH Who's Who record ([[works/taiwaneseamericanhistory-org/whos1290-chia-chun-jessica-hu|TAH #1290]]) and the works index; nothing absorbable.

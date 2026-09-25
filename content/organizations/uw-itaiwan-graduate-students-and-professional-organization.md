@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # UW iTaiwan Graduate Students and Professional Organization
 
@@ -33,3 +33,5 @@ The UW iTaiwan Graduate Students and Professional Organization (Chinese name: �
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+> Deepen pass 2026-09-25 (slice 09240500-28): SKIP — re-grep (西雅圖華大台灣研究生社/UW iTaiwan) hits only the club's own work record and the works index (prior OCAC iTaiwan article hit did not recur) — no new corpus material.
