@@ -75,6 +75,7 @@ _No filled family fields on the TAH profile._
 
 ## From the record
 
+- 複核（TJJ-A09240900-2, 2026-09-25）：本 slice 文章正文再驗證——本頁 subject 連結為真實提及（無錯鏈、無虛鏈），含該文 wikilink 的日期事實條目已在庫 — SKIP，無新材料。
 - 覆核（TJJ-A09240700-1, 2026-09-25）：本 slice 文章 9a39a754（吳澧培回憶錄前言 2015-10-12）、5d471dbe（唐培禮訃聞+鄭世璋新使者文 2017-03-12）正文再驗證——台獨行動黨發起、1970-01 逃亡賴唐培禮夫婦協助之連結為真（無錯鏈、無虛鏈）；對應日期條目（含兩檔 wikilink）已在庫 — SKIP，無新材料。
 
 - 覆核（TJJ-A09240600-1, 2026-09-25）：本 slice 文章 e3440fec3eed8107（籌謀台灣不流血革命(陳昭南 2022-05-09)）正文再驗證——主體連結為真實提及（無錯鏈、無虛鏈），對應日期事實條目（含該文 wikilink）已在庫 — SKIP，無新材料。
@@ -121,4 +122,3 @@ _No filled family fields on the TAH profile._
 <!-- TJJ-A09240800-10: verified 2026-09-25 — subject links in slice 09240800-10 articles confirmed real; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 <!-- TJJ-A09240800-12: verified 2026-09-25 — subject links in slice 09240800-12 articles confirmed real; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
-- 複核（TJJ-A09240900-2, 2026-09-25）：本 slice 文章正文再驗證——本頁 subject 連結為真實提及（無錯鏈、無虛鏈），含該文 wikilink 的日期事實條目已在庫 — SKIP，無新材料。

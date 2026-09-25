@@ -81,6 +81,7 @@ Absorbed from the on-page bio and tah-tables (no external sources):
 
 ## From the record
 
+- 複核（TJJ-A09240900-2, 2026-09-25）：本 slice 文章正文再驗證——本頁 subject 連結為真實提及（無錯鏈、無虛鏈），含該文 wikilink 的日期事實條目已在庫 — SKIP，無新材料。
 - 複核（TJJ-A09221300-15, 2026-09-23）：本 slice 文章 1251d9ed 正文再驗證——方秀蓉以紐約台灣會館理事長聯署萊豬聲明的連結為真，2021-01-12 條目已在庫，無錯鏈、無虛鏈 — SKIP，無新材料。
 
 - 2021-01-12 — 以紐約台灣會館理事長身分與華府、洛杉磯、聖地牙哥、北加州四大會館首長署名聯合聲明，就萊豬開放爭議主張「反對科學議題政治化」，呼籲朝野協商機制下認真看待執行面（[[articles/taiwanjustice-net/2021/20210121172817_2021_01_12_美國五大台灣會館評萊豬_反對科學議題政治化_1251d9ed43ef6e32|TJJ, 2021-01-12]]）。
@@ -91,4 +92,3 @@ Absorbed from the on-page bio and tah-tables (no external sources):
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 <!-- TJJ-A09240800-10: verified 2026-09-25 — subject links in slice 09240800-10 articles confirmed real; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
-- 複核（TJJ-A09240900-2, 2026-09-25）：本 slice 文章正文再驗證——本頁 subject 連結為真實提及（無錯鏈、無虛鏈），含該文 wikilink 的日期事實條目已在庫 — SKIP，無新材料。

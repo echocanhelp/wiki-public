@@ -53,7 +53,7 @@ Accomplishment
 
 ## From the record
 
+- 複核（TJJ-A09240900-2, 2026-09-25）：本 slice 文章正文再驗證——本頁 subject 連結為真實提及（無錯鏈、無虛鏈），含該文 wikilink 的日期事實條目已在庫 — SKIP，無新材料。
 - 2021-01-12 — 以聖地牙哥台灣中心理事長身分與紐約、華府、大洛杉磯、北加州四大會館首長聯署聲明，就萊豬爭議表達「反對科學議題政治化」，聲明並稱美國使用瘦肉精20年、台美人社區未見不良反應（[[articles/taiwanjustice-net/2021/20210121172817_2021_01_12_美國五大台灣會館評萊豬_反對科學議題政治化_1251d9ed43ef6e32|TJJ, 2021-01-12]]）。
 - Corpus re-grep 2026-09-25 (slice 09240317-18): SKIP-with-reason — hit set identical (ourjourneys154/162, video-184, mystories-752, ota-129, whos-who-847, TJJ 萊豬聲明 article), all absorbed and wikilinked; saturated.
 
-- 複核（TJJ-A09240900-2, 2026-09-25）：本 slice 文章正文再驗證——本頁 subject 連結為真實提及（無錯鏈、無虛鏈），含該文 wikilink 的日期事實條目已在庫 — SKIP，無新材料。

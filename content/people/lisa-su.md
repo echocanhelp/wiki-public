@@ -84,6 +84,7 @@ Pages that link to **lisa-su** (lisa-su):
 
 ## From the record
 
+- 複核（TJJ-A09240900-2, 2026-09-25）：本 slice 文章正文再驗證——本頁 subject 連結為真實提及（無錯鏈、無虛鏈），含該文 wikilink 的日期事實條目已在庫 — SKIP，無新材料。
 - 覆核（TJJ-A09240800-14, 2026-09-25）：本 slice 文章 88c15e5403e6b9b9（蘇姿丰出任PCAST顧問, 2021-10-28 快照）正文再驗證——本頁為報導主角，連結為真；與 [[people/dr-lisa-su|Dr. Lisa Su]] 雙頁並存維持；2021-09-22 條目（已含該文 wikilink）已在庫 — SKIP，已飽和。
 
 - 2022-11 — 全美會回台參訪記（楊遠薰）：AIT 商務代表得知團內蘇春槐博士（紐約台灣會館理事長）為 AMD 總裁蘇姿丰之父後「興致勃勃搏感情」，AIT 官員並對蘇爸說希望有機會與 Lisa Su 見面、歡迎她回台到 AIT 走走——蘇姿丰的名字在台美人社團場合成為社区連結資本—— [[works/taiwaneseamericanhistory-org/our-journeys-382|Our Journeys #382 2022年全美會回台參訪記(上)]]。
@@ -100,4 +101,3 @@ Pages that link to **lisa-su** (lisa-su):
 
 <!-- TJJ-A09240800-10: verified 2026-09-25 — subject links in slice 09240800-10 articles confirmed real; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
-- 複核（TJJ-A09240900-2, 2026-09-25）：本 slice 文章正文再驗證——本頁 subject 連結為真實提及（無錯鏈、無虛鏈），含該文 wikilink 的日期事實條目已在庫 — SKIP，無新材料。

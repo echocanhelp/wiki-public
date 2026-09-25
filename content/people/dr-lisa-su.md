@@ -46,6 +46,7 @@ father [[people/su-chun-huai||蘇春槐]]; mother 羅淑雅 (no page yet).
 
 ## From the record
 
+- 複核（TJJ-A09240900-2, 2026-09-25）：本 slice 文章正文再驗證——本頁 subject 連結為真實提及（無錯鏈、無虛鏈），含該文 wikilink 的日期事實條目已在庫 — SKIP，無新材料。
 - 覆核（TJJ-A09240800-14, 2026-09-25）：本 slice 文章 88c15e5403e6b9b9（PCAST名單報導）正文再驗證——本頁（TAH Who's Who 視角）subject 連結為真，2021-09-22 條目（含該文 wikilink）已在庫 — SKIP，無新材料。
 
 - 2021-09-22 — 白宮公布30位總統科技顧問會議（PCAST）成員名單，出身台南、MIT電機博士、时任超微（AMD）總裁兼執行長之蘇姿丰入選，報導並稱其為首位獲IEEE羅伯特諾伊斯大獎的女性（與 [[people/lisa-su||Lisa T. Su]] 頁為同一人雙頁並存）（[[articles/taiwanjustice-net/2021/20211028205125_2021_09_22_超微台裔總裁兼執行長蘇姿丰-出任美國總統科技顧_88c15e5403e6b9b9|TJJ 轉載中央社記者報導, 2021-09-22]]）。
@@ -75,4 +76,3 @@ father [[people/su-chun-huai||蘇春槐]]; mother 羅淑雅 (no page yet).
 - 父亲 [[people/su-chun-huai||蘇春槐]]（紐約台灣會館理事長）率團訪美東時，AIT 官員因她是 AMD 總裁而格外熱絡，並邀 Lisa 回台至 AIT 走走 —— 見社群回憶錄 [[works/taiwaneseamericanhistory-org/our-journeys-382|Our Journeys 382]]。此為本頁首要的社區第一手材料：她的成就在鄉親network中被直接視為家族與台灣會館的連結。
 - 2014 年升任 AMD 總裁兼執行長當時即被同儕記錄：[[works/taiwaneseamericanhistory-org/videos73-2|73. Dr. Lisa Su as AMD's new president and CEO!]]；台美人第二代視角專文見 [[works/taiwaneseamericanhistory-org/mystories84-dr-lisa-t-su|TAH mystories84（曾恆利）]]。
 
-- 複核（TJJ-A09240900-2, 2026-09-25）：本 slice 文章正文再驗證——本頁 subject 連結為真實提及（無錯鏈、無虛鏈），含該文 wikilink 的日期事實條目已在庫 — SKIP，無新材料。

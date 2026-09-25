@@ -35,6 +35,7 @@ _No filled family fields on the TAH profile._
 
 ## From the record
 
+- 複核（TJJ-A09240900-2, 2026-09-25）：本 slice 文章正文再驗證——本頁 subject 連結為真實提及（無錯鏈、無虛鏈），含該文 wikilink 的日期事實條目已在庫 — SKIP，無新材料。
 - 複核（TJJ-A09240800-7, 2026-09-25）：本切片相關存檔稿正文再驗證——本頁 subject 連結為真實提及（無錯鏈、無虛鏈），含該文 wikilink 的日期事實條目已在庫 — SKIP，無新材料。
 
 - 覆核（TJJ-A09240700-1, 2026-09-25）：本 slice 文章 9a39a754（吳澧培回憶錄前言）、5d471dbe（唐培禮訃聞）、c251f8fc（去殖民化（下））正文再驗證——與吳澧培摯友因緣、1964-09-20自救宣言判10年、彭魏各8年之記述確認見於正文（無錯鏈、無虛鏈）；對應條目（含三檔 wikilink）已在庫 — SKIP，無新材料。
@@ -96,4 +97,3 @@ _No filled family fields on the TAH profile._
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 
-- 複核（TJJ-A09240900-2, 2026-09-25）：本 slice 文章正文再驗證——本頁 subject 連結為真實提及（無錯鏈、無虛鏈），含該文 wikilink 的日期事實條目已在庫 — SKIP，無新材料。

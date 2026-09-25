@@ -219,6 +219,7 @@ Notable quotes and mentions of **陳柏宇** in Taiwan Justice articles:
 
 ## From the record
 
+- 複核（TJJ-A09240900-2, 2026-09-25）：本 slice 文章正文再驗證——本頁 subject 連結為真實提及（無錯鏈、無虛鏈），含該文 wikilink 的日期事實條目已在庫 — SKIP，無新材料。
 - 複核（TJJ-A09240800-15, 2026-09-25）：本 slice 文章 06510e79（2020-11-19 林榮松獲聘政務顧問報導）、77328a2c（2016-06-12 會館第十屆董事會報導）正文再驗證——陳柏宇以會館董事長出席觀禮、及當選第二副董事長兼財務長之記述皆確認見於正文，subject 連結為真，無錯鏈、無虛鏈；2020-11-18 與 2016-06-11 條目（含該文 wikilink）已在庫 — SKIP，已飽和。
 
 - 複核（TJJ-A09240800-9, 2026-09-25）：本 slice 文章 f4bc88a293a5ec0d 正文再驗證——陳柏宇以會館董事長身分致辭呼應「二二八的反抗」主題確認見於正文，連結為真，無錯鏈、無虛鏈；對應日期條目（含該文 wikilink）已在庫 — SKIP，無新材料。
@@ -293,4 +294,3 @@ Notable quotes and mentions of **陳柏宇** in Taiwan Justice articles:
 
 
 
-- 複核（TJJ-A09240900-2, 2026-09-25）：本 slice 文章正文再驗證——本頁 subject 連結為真實提及（無錯鏈、無虛鏈），含該文 wikilink 的日期事實條目已在庫 — SKIP，無新材料。
