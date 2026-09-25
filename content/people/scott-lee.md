@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # Scott Lee (李捷琦)
 
@@ -52,3 +52,4 @@ _No filled family fields on the TAH profile._
 
 - Re-grep 2026-09-23 (slice 09220900-26): fresh ZH+EN corpus re-grep of works/articles returned the same hit set as the absorbed/HOLD set — verified saturated, no new community facts this pass. SKIP-with-reason. Hit set: own two bibliographic records #568 / #285 (both already wikilinked) + works index; no memoir or movement-activity material.
 - Re-grep 2026-09-24 (slice 09230400-15): fresh ZH+EN corpus re-grep (李捷琦 / Scott Lee) hit set identical (#568, #285, works index) — verified saturated; no new community facts. SKIP-with-reason.
+- Corpus check (deepen-x slice 09240400-6, 2026-09-25): fresh ZH+EN re-grep (李捷琦 / Scott Lee) — hit set identical (#568, #285, works index); no memoir or movement material beyond the linked records. SKIP: verified-saturated.

@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # Houston Taiwanese Golden Club 樂部 (休士頓台灣清閒俱)
 
@@ -35,3 +35,4 @@ The Houston Taiwanese Golden Club is a nonprofit, nonpolitical, and nonreligious
 > Re-verified 2026-09-22 (deepen-x slice 09211400-32): corpus re-grep against works/articles — hit set unchanged (own work record #11, ourjourneys185 memoir mention, works index), all already linked above; name-form HOLD stands. No new absorbable corpus facts.
 > Re-verified 2026-09-23 (deepen-x slice 09220900-27): fresh ZH+EN re-grep (清閒|Golden Club) — hit set unchanged (own work record #11, ourjourneys185 mention, works index, plus 封城記 where 清閒 is a common word). All linked above; name-form HOLD stands. SKIP: saturated.
 > Re-verified 2026-09-24 (deepen-x slice 09230400-19): fresh ZH+EN re-grep — hit set unchanged (own work record #11, ourjourneys185 mention, works index, plus 封城記 where 清閒 is a common word). All linked above; name-form HOLD stands. SKIP: verified-saturated.
+> Re-verified 2026-09-25 (deepen-x slice 09240400-6): fresh ZH+EN re-grep (清閒|Golden Club) — hit set unchanged (own work record #11, ourjourneys185 mention, works index, plus 封城記 where 清閒 is a common word). All linked above; name-form HOLD stands. SKIP: verified-saturated.
