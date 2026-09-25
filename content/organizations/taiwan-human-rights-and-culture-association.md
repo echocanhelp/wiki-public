@@ -24,6 +24,7 @@ last_reviewed: 2026-09-25
 - The same founding account, in 張丁蘭's own telling, is preserved in a second corpus record — [[works/taiwaneseamericanhistory-org/ourjourneys75|75. 台灣人權協會的開始與現況 / 張丁蘭 / 2014-12]] (published 2014-12-21, English version [[works/taiwaneseamericanhistory-org/ourjourneys75-eng|available]]). That record also documents the 2014 officer slate of the 全美台灣人權協會 (FAHR) — 會長洪榮隆、副會長楊明昊、秘書長蔡靜煌、財務李賢群, with 理事包括王泰和 — i.e. 王廷宜（泰和）, one of this association's 1976 LA-area founders, was still serving as an FAHR board member (理事) in 2014. Recorded as cross-membership between the two cooperating bodies, per the memoir's umbrella agreement.
 - HOLD: naming conflict — this page and the Taiwan Center listing use 台灣人權文化協會; the 張丁蘭 memoir writes 台灣人權及文化協會. Recorded as-is, not merged.
 - Later relation: listed as a group member of the [[organizations/taiwan-center|Taiwan Center Foundation of the Greater Los Angeles]]; related umbrella body: [[organizations/formosan-association-for-human-rights|Formosan Association for Human Rights]].
+- Founding member 王廷宜（泰和）has his own TAH bibliographic record in the corpus: [[works/taiwaneseamericanhistory-org/75-tingyee-wang|75. Ting Yee Wang 王廷宜]] (2018-09-06, bibliographic only).
 
 ## Source Notes
 
@@ -40,3 +41,4 @@ last_reviewed: 2026-09-25
 <!-- deepen-x slice 09220500-2 re-verify 2026-09-22: fresh grep — same hit set, all absorbed incl. naming HOLD; no new absorbable facts -->
 <!-- deepen-x slice 09221300-2 re-verify 2026-09-23: fresh grep 台灣人權(及)文化協會 — same hit set (taiwan-cultural-association-for-human-rights, ourjourneys75), all facts already absorbed incl. naming HOLD; no new absorbable facts -->
 <!-- deepen-x slice 09230700-2 re-verify 2026-09-24: fresh grep 台灣人權(及)文化協會/Taiwan Human Rights — same hit set (taiwan-cultural-association-for-human-rights, ourjourneys75/-eng, our-journeys-363 title-phrase only); all facts incl. naming HOLD already absorbed; no new absorbable facts -->
+<!-- deepen-x slice 09240600-16 re-verify 2026-09-25: fresh grep 台灣人權(及)文化協會/Taiwan Human Rights — same hit set (taiwan-cultural-association-for-human-rights, ourjourneys75/-eng, our-journeys-363 title-phrase only); all facts incl. naming HOLD already absorbed; no new absorbable facts. Cross-ref added: founding member 王廷宜 has a TAH bibliographic record [[works/taiwaneseamericanhistory-org/75-tingyee-wang|75. Ting Yee Wang 王廷宜]] -->

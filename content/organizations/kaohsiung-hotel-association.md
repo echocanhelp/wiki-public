@@ -6,7 +6,7 @@ tags:
   - Taiwanese-American
   - Taiwan-Center-group-member
 verification_status: published
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # Kaohsiung Hotel Association
 
@@ -28,6 +28,8 @@ last_reviewed: 2026-09-24
 - **2026-09-22 語料複核（slice 09212352-20）** — 重 grep（高雄市旅館／Kaohsiung Hotel）結果不變：works+articles 僅 [[works/taiwaneseamericanhistory-org/ourjourneys295|Our Journeys 295]] 一處，姊妹會原文已核（該 memoir 自述創會約三十年、先後與高雄市旅館業同業公會、台北市旅館同業公會、美南台灣旅館業同業公會、美國旅館業協會、加州旅館業協會締結姐妹會），無新事實可吸收。SKIP-with-reason。
 - **2026-09-23 語料複核（slice 09221100-21）** — 重 grep（高雄市旅館／Kaohsiung Hotel）命中仍僅 ourjourneys295 一處，無新事實。SKIP-with-reason。
 - **2026-09-24 語料複核（slice 09230600-16）** — 重 grep（高雄市旅館／Kaohsiung Hotel）命中仍僅 ourjourneys295 一處，姊妹會脈絡已吸收，無新事實。SKIP-with-reason。
+
+- **2026-09-25 語料複核（slice 09240600-21）** — 重 grep（高雄市旅館／Kaohsiung Hotel）命中仍僅 ourjourneys295 一處，姊妹會脈絡已吸收，無新事實。SKIP-with-reason。
 
 ## Source Notes
 

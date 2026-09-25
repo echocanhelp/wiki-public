@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # Sin-I Hsiao (蕭欣義)
 
@@ -33,7 +33,7 @@ last_reviewed: 2026-09-24
 
 ## Role in the Community
 - As a Harvard graduate student he took part in the independence-movement enlightenment work, distributing 《台灣青年》 and 《台灣通訊》 on campus alongside peers at other campuses ([[works/taiwaneseamericanhistory-org/ourjourneys234|234. 台獨聯盟美國本部]]).
-- 1965-10-29/30 — attended the secret unification congress at the University of Wisconsin (麥迪遜結盟大會) as the 波士頓同鄉會 representative; delegates signed bilingual oaths against KMT infiltration ([[works/taiwaneseamericanhistory-org/ourjourneys81|81. 早期威大台灣學生在台灣建國運動所扮演的角色]]).
+- 1965-10-29/30 — attended the secret unification congress at the University of Wisconsin (麥迪遜結盟大會) as the 波士頓同鄉會 representative; delegates signed bilingual oaths against KMT infiltration ([[works/taiwaneseamericanhistory-org/ourjourneys81|81. 早期威大台灣學生在台灣建國運動所扮演的角色]]). The corpus preserves an English edition of this record, [[works/taiwaneseamericanhistory-org/ourjourneys81-eng|81 (EN). The Role of Early Wisconsin Taiwanese Students...]], which names him as "Sin-I Hsiao of the Boston Taiwanese Association" among the oath-signing delegates — useful for English-language citation of the same event.
 - 1966-06-18 — again the Boston delegate at the Philadelphia talks where 「台灣獨立聯盟UFI」 and 「台灣問題硏究會FASG」 agreed to merge; this resolved into the 1966-07-04 founding of 全美台灣獨立聯盟 (UFAI) (same record, [[works/taiwaneseamericanhistory-org/ourjourneys81|周烒明起稿 memoir]]).
 - 1985 — in the「四腳仔官司」trial in Virginia, he was arranged by the defense as the opening witness (then teaching history at University of Victoria, Canada) to lecture the American jury on four centuries of outside rule over Taiwan, establishing that「四腳仔」was a term for the外来 ruling regime and its adherents, not a bestial insult; 蔡武雄 followed with the Vichy «collaborator» analogy ([[works/taiwaneseamericanhistory-org/ourjourneys63|63. 「台灣公論報」在紐約創刊的那段日子 / 陳正修 / 2014-11]]).
 - Listed under Massachusetts in the first 《全美台灣同鄉通訊錄》 ([[works/taiwaneseamericanhistory-org/ourjourneys58|58. 回憶編印第一本《全美台灣同鄉通訊錄》的甘苦經過 / 陳希寬]]).
