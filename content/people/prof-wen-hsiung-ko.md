@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-25
 ---
 # Prof. Wen-Hsiung Ko (柯文雄教授)
 
@@ -34,6 +34,8 @@ last_reviewed: 2026-09-21
 
 - Hawaii proclaimed December 16 as "Dr. Wen-Hsiung Ko Day" (柯文雄博士日), recorded in the TAH memoir series 台美人的榮耀 by 陳文馨 (2015/02) — [[works/taiwaneseamericanhistory-org/mystories193|193. 夏威夷訂12月16日為「柯文雄博士日」]]. The civic proclamation reflects his stature in the Hawaiian Taiwanese American community alongside his scientific career.
 - His TAH encyclopedia entries are themselves corpus works: — [[works/taiwaneseamericanhistory-org/103-prof-wen-hsiung-ko|103. Prof. Wen-Hsiung Ko 柯文雄教授]] and — [[works/taiwaneseamericanhistory-org/whos-who-2197-wen-hsiung-ko|2197. Prof. Wen-Hsiung Ko 柯文雄教授]].
+
+- Corpus re-check 2026-09-25 (deepen-x 09231200-9): grep of works/ and articles/ returns only mystories193 and the two encyclopedia records #103/#2197 (plus index backlink) — identical to the absorbed set. No new facts; verified saturated.
 
 ## Family
 

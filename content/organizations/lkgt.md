@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-25
 ---
 # LKGT 「」 (老康健)
 
@@ -21,7 +21,7 @@ LKGT (老康健) is an informal senior social group of Taiwanese Americans in th
 ## Role in the Community
 - The group's own TAH Foundation directory entry is held in the corpus as record #26, published 2016-04-04: [[works/taiwaneseamericanhistory-org/lkgt|26. LKGT 「老康健」]]. The group had already existed for over ten years by that date, placing its founding no later than the mid-2000s.
 - The recurring public output of the group is the bimonthly member speech at a Taiwanese church in San Leandro — an informal but sustained senior-professional presence in the Bay Area Taiwanese community.
-- Corpus check (2026-09-21, re-run) found no other memoir or article mentions beyond this record; a `grep` hit in a taiwanjustice.net article proved to be a coincidental substring inside an archive-hash string, not a real mention. No additional facts absorbable.
+- Corpus check (2026-09-21, re-run) found no other memoir or article mentions beyond this record; a `grep` hit in a taiwanjustice.net article proved to be a coincidental substring inside an archive-hash string, not a real mention. No additional facts absorbable. Re-confirmed 2026-09-25 (deepen-x 09231200-9): the only articles/ hit remains the taiwanjustice.net archive-hash substring (coincidental), so the corpus yields nothing further.
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/lkgt/)
