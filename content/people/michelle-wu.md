@@ -52,6 +52,8 @@ Michelle Wu was born in 1985 in Chicago, Illinois to Taiwanese immigrant parents
 
 ## From the record
 
+- 複核（TJJ-A09240800-3, 2026-09-25）：本 slice 文章 58ad99649eba6f6f（TIME 100 Next 入選報導）正文再驗證——波士頓市長吳弭同榜入選、Ayanna Pressley 撰文介紹之記述確認見於正文，subject 連結為真，無錯鏈、無虛鏈；2022-09-28 條目（已含該文 wikilink）已在庫 — SKIP，已飽和。
+
 - 2022-09-28 — 入選美國時代雜誌 2022 TIME 100 Next，由麻州聯邦眾議員 Ayanna Pressley 撰文介紹，稱讚其為波士頓首位民選女性、亞裔、有色人種市長；報導漢名作「吳弭」，為 TAH #220「吳弭」異寫再添一例佐證（[[articles/taiwanjustice-net/2022/20221127052618_2022_09_28_吳怡農推動緊急應變訓練-入選2022時代雜誌次世代百_58ad99649eba6f6f|TJJ, 2022-09-28]]）。
 
 ## Sources

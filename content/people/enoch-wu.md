@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # Enoch Wu (吳怡農)
 
@@ -47,6 +47,8 @@ last_reviewed: 2026-09-24
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 ## From the record
+
+- 複核（TJJ-A09240800-3, 2026-09-25）：本 slice 兩篇 58ad99649eba6f6f（TIME 100 Next, 2022-09-28）與 f631078d99d9924d（海外小英後援會助選團返台助選, 2020-01-06）正文再驗證——吳怡農入選 TIME 100 Next、及以台北市立委候選人身分獲助選團掃街支持之記述各確認見於正文，subject 連結為真，無錯鏈、無虛鏈；對應日期事實（含兩文 wikilink）已在庫 — SKIP，已飽和。
 
 - 複核（TJJ-A09240800-7, 2026-09-25）：本切片相關存檔稿正文再驗證——本頁 subject 連結為真實提及（無錯鏈、無虛鏈），含該文 wikilink 的日期事實條目已在庫 — SKIP，無新材料。
 - 複核（TJJ-A09230600-1, 2026-09-24）：本 slice 文章 1fbc7a8aff9cd26e（藍綠台北衝選情, 自由時報 2019-12-22）正文再驗證——吳怡農與陳建仁、許淑華民生社區直播、邀蔡英文參加1/5活動均確認見於正文，subject 連結為真，無錯鏈、無虛鏈；2019-12-22 條目已在庫 — SKIP，無新材料。

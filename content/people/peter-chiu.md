@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # Peter Chiu (邱勝宗)
 
@@ -39,6 +39,7 @@ last_reviewed: 2026-09-24
 
 ## From the record
 
+- 複核（TJJ-A09240800-3, 2026-09-25）：本 slice 文章 0c56e79f9989639c（園藝分類頁, 2017-11-09 快照）正文再驗證——「Sadako與Peter Chiu(邱勝宗夫婦)講EM酵素及製作@20170924」條目確認見於正文，連結為真；2017-09-24 條目（已含該文 wikilink）已在庫 — SKIP，已飽和。
 - 複核（TJJ-A09240500-5, 2026-09-25）：本 slice 文章 bb7f9d54ae93bbef（園藝分類頁, 2024-02-25 快照）正文再驗證——「Sadako與Peter Chiu(邱勝宗夫婦)講EM酵素」及「探訪邱勝宗和邱貞夫婦的百草園-台美人歷史協會人物專訪」確認見於正文，連結為真；對應日期事實已在庫 — SKIP，無新材料。
 - 複核（TJJ-A09230900-1, 2026-09-25）：本 slice 兩篇分類存檔 f454eda084b7ca99（園藝分類）與 8bf4798dd2771f38（大洛杉磯台灣會館分類）正文再驗證——「Sadako與Peter Chiu(邱勝宗夫婦)講EM酵素及製作@20170924」確認見於兩篇正文，subject 連結為真，無錯鏈、無虛鏈；2017-09-24 條目（已含兩文 wikilink）已在庫 — SKIP，已飽和。
 

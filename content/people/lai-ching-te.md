@@ -7,7 +7,7 @@ tags:
   - taiwanjustice-net
   - thin-page
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 name_en: "Lai Ching-te"
 ---
 # Lai Ching-te (賴清德)
@@ -33,6 +33,10 @@ name_en: "Lai Ching-te"
 - **Corpus re-grep 2026-09-22 (slice 09211123-2, via alias stub [[people/lai-qingde]]):** hits unchanged — ourjourneys181, ourjourneys192, our-journeys-382, a-republic-of-taiwan-chloe-shih, all already wikilinked; no new absorbable diaspora facts.
 
 ## From the record
+
+- 複核（TJJ-A09240800-15, 2026-09-25）：本 slice 文章 0258611f（2024-05-19 520就職報導）正文再驗證——賴清德家人將出席、萬里鄉親近500人包車之記述確認見於正文，subject 連結為真，無錯鏈、無虛鏈；2024-05-20 條目（含該文 wikilink）已在庫 — SKIP，已飽和。
+
+- 複核（TJJ-A09240800-3, 2026-09-25）：本 slice 文章 8fc11ca0c5dbaebe（韓國瑜提預算協商, 2025-01-16）正文再驗證——賴總統接見韓國瑜訪團、以「院長與柯總召也要多喝咖啡」緩頰之記述確認見於正文，subject 連結為真，無錯鏈、無虛鏈；2025-01-16 條目（已含該文 wikilink）已在庫 — SKIP，已飽和。
 
 - 複核（TJJ-A09240400-1, 2026-09-25）：本 slice 文章 2a3226a1b19c5a46（中央社記者副手專稿轉載, 2023-12-08 快照）正文再驗證——「賴清德代表民進黨角逐2024總統大選」並確定蕭美琴為副手搭檔之記述確認見於正文，subject 連結為真（無錯鏈、無虛鏈）；2023-11-20 條目（已含該文 wikilink）已在庫 — SKIP，無新材料。
 
