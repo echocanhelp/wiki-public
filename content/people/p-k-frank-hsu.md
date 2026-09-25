@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-25
 ---
 # P.K. Frank Hsu (徐博高醫師)
 
@@ -39,6 +39,7 @@ _No filled family fields on the TAH profile._
 ## Role in the Community
 - His Who's Who profile is held in the TAH story corpus as [[works/taiwaneseamericanhistory-org/whos1205-p-k-frank-hsu|1205. P.K. (Frank) Hsu 徐博高]] (2016-08-01).
 - Disambiguation from corpus grep: this page is NOT Prof. Frank Hsu 許德標 ([[works/taiwaneseamericanhistory-org/whos-who-1701-frank-hsu|1701. Prof. Frank Hsu 許德標教授]]) nor Frank Hsu 許子津, first president 1954–56 of the Chicago Formosan Club Association / 芝加哥台灣同鄉會 ([[works/taiwaneseamericanhistory-org/ff335|335. Frank Hsu (許子津)]]); no community-history material beyond the 1205 profile was found for 徐博高 himself.
+- Re-check 2026-09-25 (slice -2): fresh ZH+EN grep of works/+articles/ returned the same hit set already absorbed above; the one extra hit [[works/taiwaneseamericanhistory-org/ourjourneys255|Our Journeys 255]] is memoir prose about 芝加哥台灣同鄉會首任會長 Frank Hsu 許子津 (already covered by the ff335 disambiguation), not 徐博高. No new absorbable material.
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/p-k-frank-hsu/)

@@ -6,7 +6,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-25
 ---
 # 黃開榮
 
@@ -32,6 +32,7 @@ last_reviewed: 2026-09-22
 - **2015-08** — Recorded in the Hakka-community movement record as participating in the 第十屆美洲台灣客家聯合會年會暨懇親大會 (Tenth American Taiwanese Hakka Federation annual convention), listed as **紐約州紐約・客家親**. The same essay documents his cohort's second Hakka org, 北美台灣客家公共事務協會 (HAPA-NA, founded 1991-11-01). Source: [[works/taiwaneseamericanhistory-org/ourjourneys252|252. 續談美洲台灣客家聯合會並簡介北美台灣客家公共事務協會 / 魏武雄 / 09/2016]].
 - Own TAH encyclopedia record: [[works/taiwaneseamericanhistory-org/636-e9-bb-83-e9-96-8b-e6-a6-ae-201509|636. 黃開榮 / 2015/09]].
 - HOLD: conflict in geography — TAH Who's Who snapshot lists 台灣苗栗鎮, while the 2015 Hakka Federation convention roster lists him in 紐約州紐約 (New York, NY). Kept both; likely Taiwan birthplace vs. US residence, unverified.
+- Corpus re-grep 2026-09-25 (deepen-x slice 09231200-30): hits unchanged ([[works/taiwaneseamericanhistory-org/ourjourneys252|252]] + own record #636 + index) — all corpus facts already absorbed above; no new material.
 
 ## Family
 
