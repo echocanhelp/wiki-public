@@ -6,7 +6,7 @@ tags:
   - Taiwanese-American
   - Taiwan-Center-group-member
 verification_status: published
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-25
 ---
 # Mountain View Taiwanese Golf Association
 
@@ -35,3 +35,4 @@ last_reviewed: 2026-09-22
 - [[works/taiwaneseamericanhistory-org/mvtgolf|山景台灣人高爾夫協會]] — TAH community record (2014-10-12, band B; bibliographic record only, full text in vault)
 - [[organizations/taiwan-center||Taiwan Center]]
 - [[sources/taiwancenter-org||taiwancenter.org]]
+<!-- deepen-x 09231200-20: re-verified 2026-09-25 — corpus grep (ZH+EN) hits only own record / works index; page already links all hits. No new material. -->

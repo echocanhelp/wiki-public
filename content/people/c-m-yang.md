@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-25
 ---
 # C. M Yang (楊啓明)
 
@@ -43,3 +43,4 @@ Founded the Formosa Club of Eastern US (美東福爾摩莎俱樂部), the predec
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+<!-- deepen-x 09231200-20: re-verified 2026-09-25 — corpus grep (楊啓明/C. M Yang) hits only own record whos-who-2220 + index, already linked. No new material. -->
