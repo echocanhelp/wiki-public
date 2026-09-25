@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # Dr. Charles Chiu (邱華彥醫師)
 
@@ -53,3 +53,4 @@ Internal medicine residency, infectious diseases fellowship & Postdoctoral Resea
 ## Worklog
 - 2026-09-24 deepen-x slice 09230900-12: verified-saturated SKIP — fresh grep returns only #2250, the works index, and the COVID article, all already cited on this page; no new corpus facts.
 - 2026-09-23 deepen-x slice 09221400-22: verified-saturated re-verify — fresh grep of works/+articles returns only files already cited on this page; no new corpus facts to absorb.
+- 2026-09-25 deepen-x slice 09240900-8: re-verify — identical hit set (#2250, index, COVID article, all cited). Verified-saturated; SKIP.
