@@ -55,3 +55,4 @@ Re-grepped 2026-09-22 (deepen-x slice 28): hits are only his own record #185 and
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 <!-- deepen-x slice 09231100-3 (2026-09-25): verified-saturated — corpus re-grep returns only own TAH record + already-linked works pages; nothing new absorbable. -->
+<!-- deepen-x slice 09250400-24 (2026-09-25): verified-saturated — fresh ZH+EN re-grep of works/ + articles/ returns no absorbable material beyond already-cited records. -->
