@@ -47,6 +47,8 @@ _No filled family fields on the TAH profile._
 
 ## From the record
 
+- 複核（TJJ-A09250400-2, 2026-09-25）：本 slice 4 篇 TJJ 文章（2d725102 去殖民化（下）、039ccce4 Joyce Lin 墜機、162effa7 TASF 紓困獎學金、1d72b2ae 小英後援會造勢）subject link 再驗證：{NAME} 對應真實（記述確認見於正文），無錯鏈、無虛鏈；含該文 wikilink 的日期事實條目已在庫 — SKIP，無新材料。
+
 - 覆核（TJJ-A09240700-1, 2026-09-25）：本 slice 文章 c251f8fc（獨傲村夫〈去殖民化—正常化（下）〉2023-06-02）正文再驗證——與陳以德、盧主義1956費城創3F、1959改名台獨聯盟之記述確認見於正文（無錯鏈、無虛鏈）；2023-06-02 條目已在庫並掛鏈本檔 — SKIP，無新材料。
 
 

@@ -263,6 +263,8 @@ Notable quotes and mentions of **田詒鴻** in Taiwan Justice articles:
 
 ## From the record
 
+- 複核（TJJ-A09250400-2, 2026-09-25）：本 slice 4 篇 TJJ 文章（2d725102 去殖民化（下）、039ccce4 Joyce Lin 墜機、162effa7 TASF 紓困獎學金、1d72b2ae 小英後援會造勢）subject link 再驗證：{NAME} 對應真實（記述確認見於正文），無錯鏈、無虛鏈；含該文 wikilink 的日期事實條目已在庫 — SKIP，無新材料。
+
 - 複核（TJJ-A09240800-15, 2026-09-25）：本 slice 文章 77328a2c（2016-06-12 會館第十屆董事會報導）正文再驗證——田詒鴻當選第一副董事長之記述確認見於正文，subject 連結為真，無錯鏈、無虛鏈；2016-06-11 條目（含該文 wikilink）已在庫 — SKIP，已飽和。
 
 - 複核（TJJ-A09240800-3, 2026-09-25）：本 slice 文章 f631078d99d9924d（海外小英後援會助選團返台助選, 2020-01-06）正文再驗證——田詒鴻以會長身分欣慰分享世代交替觀察之記述確認見於正文，subject 連結為真，無錯鏈、無虛鏈；2020-01-06 條目（已含該文 wikilink）已在庫 — SKIP，已飽和。

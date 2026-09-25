@@ -36,6 +36,8 @@ The Taiwanese American Scholarship Fund (TASF) was created in 2014 to support ec
 
 ## From the record
 
+- 複核（TJJ-A09250400-2, 2026-09-25）：本 slice 4 篇 TJJ 文章（2d725102 去殖民化（下）、039ccce4 Joyce Lin 墜機、162effa7 TASF 紓困獎學金、1d72b2ae 小英後援會造勢）subject link 再驗證：{NAME} 對應真實（記述確認見於正文），無錯鏈、無虛鏈；含該文 wikilink 的日期事實條目已在庫 — SKIP，無新材料。
+
 - 複核（TJJ-A09230800-1, 2026-09-24）：文章 c05e2d53013fcd15（會館疫情服務報導） 正文再驗證——本頁 subject 連結確認見於正文（無錯鏈、無虛鏈）；對應 From-the-record 條目已在庫 — SKIP，無新材料。
 - 複核（TJJ-A09230600-1, 2026-09-24）：本 slice 文章 71a7c64663ea03b6 正文再驗證——TASF 與會館基金會協力推出 COVID 紓困獎學金（每份最高 $500，首週超額）確認見於正文，subject 連結為真；2020-06-23 條目已在庫 — SKIP，無新材料。
 

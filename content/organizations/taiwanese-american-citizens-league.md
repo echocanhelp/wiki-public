@@ -32,6 +32,8 @@ HOLD: conflict in name — the corpus record titles the organization "Taiwanese 
 
 ## From the record
 
+- 複核（TJJ-A09250400-2, 2026-09-25）：本 slice 4 篇 TJJ 文章（2d725102 去殖民化（下）、039ccce4 Joyce Lin 墜機、162effa7 TASF 紓困獎學金、1d72b2ae 小英後援會造勢）subject link 再驗證：{NAME} 對應真實（記述確認見於正文），無錯鏈、無虛鏈；含該文 wikilink 的日期事實條目已在庫 — SKIP，無新材料。
+
 - 複核（TJJ-A09240800-6, 2026-09-25）：本 slice 文章 81e80ba38969bf88（皮尤報告區隔台裔）正文再驗證——TACL 公民參與事務主任胡若涵回應及自 1990 年起普查草根運動記述確認見於正文，subject 連結為真，無錯鏈、無虛鏈；2021-09-26 條目（含該文 wikilink）已在庫 — SKIP，無新材料。
 
 - 複核（TJJ-A09230800-6, 2026-09-24）：本 slice 文章 81e80ba38969bf88（皮尤報告區隔台裔）正文再驗證——TACL 公民參與事務主任胡若涵回應及自 1990 年起普查草根運動記述確認見於正文，subject 連結為真，無錯鏈、無虛鏈；2021-09-26 條目（含該文 wikilink）已在庫 — SKIP，無新材料。
