@@ -42,6 +42,7 @@ last_reviewed: 2026-09-24
 - Corpus re-check 2026-09-23 (deepen-x slice 09221200-6): fresh grep 魏妙圭 / M. K. Wei — hit set unchanged (293 / 293-eng / videos40 / whoswho1065). Verified saturated.
 
 - Corpus re-check 2026-09-24 (deepen-x slice 09230600-17): fresh grep 魏妙圭 / M. K. Wei — hit set unchanged (293 / 293-eng / videos40 / whoswho1065 + index). Verified saturated; HOLD stands.
+- Corpus re-check 2026-09-25 (deepen-x slice 09240600-22): fresh grep 魏妙圭 / M. K. Wei — hit set unchanged (293 / 293-eng / videos40 / whoswho1065 + index). SKIP-deepen (saturated); HOLD stands.
 
 ## Sources
 - [TAH #1066 encyclopedia: 1066. M. K. Wei 魏妙圭 / 2016/06](https://taiwaneseamericanhistory.org/whoswho1065/)
