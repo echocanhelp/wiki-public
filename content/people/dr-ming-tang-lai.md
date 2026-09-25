@@ -55,6 +55,8 @@ Accomplishment
 
 複核（deepen-x slice-09231100-2, 2026-09-25）：re-grep hit set unchanged (ourjourneys53 ±eng, #271, #1886, works/index) — verified-saturated, SKIP, 無新材料。
 
+複核（deepen-x slice-09250317-6, 2026-09-25）：re-grep 賴明堂 hit set unchanged (ourjourneys53, #271, #1886, works/index)，均已吸收並連結於上；寬式 'Ming Tang Lai' 另命中 our-journeys-378／ourjourneys106／ourjourneys275，經檢核皆為同名不同人「李明雄」（台大土木、西北大學工程博士、艾莫可石油公司，黑名單返台探親_story，見 ourjourneys106 Dryden/Engel Hall 宿舍回憶）— HOLD 註記：李明雄≠賴明堂，未吸收。SKIP, 無新材料。
+
 ## Sources
 - [TAH #1886 encyclopedia: 1886. Dr. Ming Tang Lai 賴明堂博士](https://taiwaneseamericanhistory.org/whos-who-1886-ming-tang-lai/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-ming-tang-lai/)
