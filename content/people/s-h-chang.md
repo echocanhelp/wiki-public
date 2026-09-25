@@ -47,3 +47,5 @@ last_reviewed: 2026-09-25
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 <!-- deepen-x slice 09231100-5 (2026-09-25): re-verified — fresh ZH+EN grep of works/ + articles/ returns only the records already linked/absorbed above (plus works/index rollup); no new memoir material; no conflicts resolved or added. -->
+
+<!-- deepen-x slice 09250400-3 (2026-09-25): re-verified — fresh ZH+EN grep of works/ + articles/ returns only the records already linked/absorbed above (plus works/index rollup); nothing new absorbable; no conflicts. SKIP-with-reason (verified saturated). -->
