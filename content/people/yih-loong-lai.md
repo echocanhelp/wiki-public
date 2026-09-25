@@ -30,7 +30,7 @@ last_reviewed: 2026-09-25
 - [[works/taiwaneseamericanhistory-org/mystories210|210. 我的高中甜心 / 賴義隆 (2015/03)]] — memoir essay
 - [[works/taiwaneseamericanhistory-org/mystories570|570. 我在台大醫學院的教學及研究 / 賴義隆 (2017/08)]] — memoir of teaching and research at NTU College of Medicine, corroborating the 1994 NTU professorship in the Employment table
 
-All four are bibliographic records in the corpus; corpus re-checks 2026-09-21, 2026-09-22 (slice 09220600-14) and 2026-09-23 (slice 09221500-25) found no additional 賴義隆 / Yih-Loong Lai material in works/ or articles/ beyond the four records linked above — verified-saturated (re-verified 2026-09-25, slice 09231000-26: same four records plus the works index).
+All four are bibliographic records in the corpus; corpus re-checks 2026-09-21, 2026-09-22 (slice 09220600-14) and 2026-09-23 (slice 09221500-25) found no additional 賴義隆 / Yih-Loong Lai material in works/ or articles/ beyond the four records linked above — verified-saturated (re-verified 2026-09-25, slices 09231000-26 and 09250400-13: same four records plus the works index).
 
 <!-- tah-tables:start -->
 ## Education

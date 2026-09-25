@@ -40,7 +40,7 @@ _No filled family fields on the TAH profile._
 - Community record held in the corpus as [[works/taiwaneseamericanhistory-org/whos-who-1833-shang-fa-yang|TAH encyclopedia record #1833 (2017-08-13)]].
 - A second corpus record names him: [[works/taiwaneseamericanhistory-org/743-shang-fa-yang201512|743. Shang Fa Yang (2015-12-20)]] — a bibliographic feature record (band B, no full text in vault), so his community footprint in the corpus is two TAH directory/feature records; no memoir text names him.
 - HOLD: possible duplicate person page — corpus record 743 links [[people/shang-fa-yang|Shang Fa Yang]] (楊祥發, same era 1932–2007, same UC Davis career) as a separate page from this one; never auto-merged.
-- Corpus-wide grep re-run 2026-09-25 (deepen-x slice 09231100-26): hit set = own records #1833 + #743 plus index rows; beyond adding the #743 link above the page remains saturated.
+- Corpus-wide grep re-runs 2026-09-25 (deepen-x slices 09231100-26 and 09250400-13): hit set = own records #1833 + #743 plus index rows; beyond adding the #743 link above the page remains saturated.
 
 ## Sources
 - [TAH #1833 encyclopedia: 1833. Prof. Shang-Fa Yang 楊祥發教授](https://taiwaneseamericanhistory.org/whos-who-1833-shang-fa-yang/)

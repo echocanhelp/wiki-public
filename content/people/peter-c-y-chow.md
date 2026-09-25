@@ -32,7 +32,7 @@ last_reviewed: 2026-09-25
 
 ## Role in the Community
 
-- deepen-x rechecks 2026-09-22 (09220600-31), 2026-09-23 (09221400-29) and 2026-09-25 (09231000-22): fresh grep of content/works + content/articles for 周鉅原 / Peter C. Y. Chow matched only works already linked below (mystories257, 225-profile record, index) — verified saturated, nothing new to absorb.
+- deepen-x rechecks 2026-09-22 (09220600-31), 2026-09-23 (09221400-29) and 2026-09-25 (09231000-22, 09250400-13): fresh grep of content/works + content/articles for 周鉅原 / Peter C. Y. Chow matched only works already linked below (mystories257, 225-profile record, index) — verified saturated, nothing new to absorb.
 - Contributor to the TAH story corpus's "台美人顧台灣" (Care for Taiwan by Taiwanese American) memoir series: he authored the memorial essay 追思一位身在海外心存台灣的楊慶安教授 honoring Professor Alexander K. Young (楊慶安) — [[works/taiwaneseamericanhistory-org/mystories257|257. Care for Taiwan by Taiwanese American: 25, 追思一位身在海外心存台灣的楊慶安教授/周鉅原/2015/05]] (published 2015-05-20; see also [[people/alexander-k-young|楊慶安教授]]). Writing a community obituary for a fellow movement figure places him inside the Taiwanese American community's circle of remembrance, not just academia.
 - His own profile is held as a community record in the same corpus: [[works/taiwaneseamericanhistory-org/225-peter-c-y-chow-e5-91-a8-e9-89-85-e5-8e-9f201501|225. Peter C. Y. Chow 周鉅原/2015/01]] (published 2015-01-23).
 - HOLD: snapshot "Era: 1943" comes from the TAH Who's Who import and is not corroborated anywhere in the corpus; no conflict to merge, but treat the birth year as unverified.
