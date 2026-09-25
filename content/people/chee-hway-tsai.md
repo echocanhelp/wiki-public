@@ -51,5 +51,5 @@ _No filled family fields on the TAH profile._
 
 ## Source Notes
 
-- Re-grep 2026-09-23 (slice 09221000-30): hits remain own record #1942 + works index only — SKIP-deepen re-confirmed, no community/movement material in vault.
+- Re-grep 2026-09-23 (slice 09221000-30) / 2026-09-25 (slice 09230900-24): hits remain own record #1942 + works index only — SKIP-deepen re-confirmed, no community/movement material in vault.
 - SKIP-deepen note: only absorbable corpus material was the profile work record (absorbed above); corpus re-greps 2026-09-20 and 2026-09-21 (slice 09201500-19) re-confirm no memoir or community text (hits: own record + works/index only), nothing invented.
