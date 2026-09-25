@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # Keng S. Liang (梁耕三)
 
@@ -49,6 +49,8 @@ last_reviewed: 2026-09-24
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/keng-s-liang/)
 
 ## From the record
+
+- 複核（TJJ-A09231000-1, 2026-09-25）：本 slice 4 篇 TJJ 文章（唐培禮訃聞 74f89ee8、游朝凱中央社專訪 9c697378、懷念彭昕醫師兩存檔 6763e8f4／80e2a87a）subject link 對照正文再驗證——橋水查經班1990年由梁耕三發起——梁耕三 連結為真（無錯鏈、無虛鏈）；對應日期事實條目（含該文 wikilink）已在庫 — SKIP，無新材料。
 
 - 覆核（TJJ-A09230800-5, 2026-09-24）：本 slice 文章 59a68b9c（司法不公，國耻之最：聲援翁啟惠連署）正文再驗證——本人為連署聯絡人之一，連結為真，無錯鏈、無虛鏈；2021-09-10 條目（含該文 wikilink）已在庫 — SKIP，無新材料。
 

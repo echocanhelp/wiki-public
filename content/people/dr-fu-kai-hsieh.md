@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-25
 ---
 # Dr. Fu-Kai Hsieh (謝富凱博士)
 
@@ -38,7 +38,7 @@ _No filled family fields on the TAH profile._
 
 - 波士頓台灣人生物科技協會（BTBA） Chairman、波士頓台灣同鄉會（TAA/Boston Chapter）會長，串起波士頓台僑科學界與同鄉社團。
 - 研究歷程見 TAH 檔案（[[works/taiwaneseamericanhistory-org/whos-who-1685-fu-kai-hsieh|TAH #1685, 2017]]）：中央研究院研究助理 → Rutgers 博士（分子與細胞藥理）→ MGH 博士後。
-- Corpus re-grep 2026-09-22（deepen-x slice 25）：謝富凱 / Fu-Kai Hsieh 於 content/works + content/articles 僅見自身 TAH #1685 一筆及 harvest index，回憶錄無第三人提及；本輪無新素材可吸收。
+- Corpus re-grep 2026-09-22 / 2026-09-25（deepen-x slice 25 / 09231100-19）：謝富凱 / Fu-Kai Hsieh 於 content/works + content/articles 僅見自身 TAH #1685 一筆及 harvest index，回憶錄無第三人提及；本輪無新素材可吸收。
 
 ## Sources
 - [TAH #1685 encyclopedia: 1685. Dr. Fu-Kai Hsieh 謝富凱博士](https://taiwaneseamericanhistory.org/whos-who-1685-fu-kai-hsieh/)

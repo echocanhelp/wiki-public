@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # Milo Thornberry (唐培禮牧師)
 
@@ -57,6 +57,8 @@ last_reviewed: 2026-09-24
 
 
 ## From the record
+
+- 複核（TJJ-A09231000-1, 2026-09-25）：本 slice 4 篇 TJJ 文章（唐培禮訃聞 74f89ee8、游朝凱中央社專訪 9c697378、懷念彭昕醫師兩存檔 6763e8f4／80e2a87a）subject link 對照正文再驗證——本傳主體即訃聞主角（2017-03-08 歿於奧瑞岡）——唐培禮 連結為真（無錯鏈、無虛鏈）；對應日期事實條目（含該文 wikilink）已在庫 — SKIP，無新材料。
 
 - 覆核（TJJ-A09230700-1, 2026-09-24）：本 slice 唐培禮訃聞（5d471dbe, 2017-03-12）正文再驗證——本傳主體即訃聞主角（2017-03-08 歿於奧瑞岡、Katy Thornberry McNulty 唁電、1971-03-04 驅逐），連結為真；2017-03-12 條目已在庫 — SKIP，無新材料。
 

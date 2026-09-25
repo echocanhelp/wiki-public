@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # Kelvin Yu (游朝敏)
 
@@ -44,6 +44,8 @@ _No filled family fields on the TAH profile._
 
 
 ## From the record
+
+- 複核（TJJ-A09231000-1, 2026-09-25）：本 slice 4 篇 TJJ 文章（唐培禮訃聞 74f89ee8、游朝凱中央社專訪 9c697378、懷念彭昕醫師兩存檔 6763e8f4／80e2a87a）subject link 對照正文再驗證——游朝敏獲艾美獎最佳動畫之記述——游朝敏 連結為真（無錯鏈、無虛鏈）；對應日期事實條目（含該文 wikilink）已在庫 — SKIP，無新材料。
 
 
 - 覆核（TJJ-A09230400-5, 2026-09-24）：slice 文章 040657477c37c6cf 正文再驗證——其兄游朝凱獲獎報導對游朝敏之提及為真實，對應條目（含該文 wikilink）已在庫 — SKIP，無新材料。

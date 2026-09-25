@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-25
 ---
 # C. S. Huang (黃千洵)
 
@@ -46,3 +46,5 @@ last_reviewed: 2026-09-22
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+<!-- deepen-x 09231100-17 re-check 2026-09-25: verified-saturated. Fresh ZH+EN grep of works/ + articles/ returns only own TAH bibliographic records, works/index.md, or pages already wikilinked/HOLDed in Role in the Community; no new absorbable corpus material. -->

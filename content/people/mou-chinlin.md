@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # Mou-ChinLin (林茂清)
 
@@ -39,6 +39,8 @@ Re-verified 2026-09-22 (slices 09210600-14, 09220400-12), 2026-09-23 (slice 0922
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/mou-chinlin/)
 
 ## From the record
+
+- 複核（TJJ-A09231000-1, 2026-09-25）：本 slice 4 篇 TJJ 文章（唐培禮訃聞 74f89ee8、游朝凱中央社專訪 9c697378、懷念彭昕醫師兩存檔 6763e8f4／80e2a87a）subject link 對照正文再驗證——林茂清以LWC會長身分邀演講——林茂清 連結為真（無錯鏈、無虛鏈）；對應日期事實條目（含該文 wikilink）已在庫 — SKIP，無新材料。
 
 - 覆核（TJJ-A09230500-1, 2026-09-24）：本 slice 文章 299c00bb18030b81（懷念彭昕醫師(楊遠薰)） 正文再驗證——主體連結為真實提及（無錯鏈、無虛鏈），對應日期事實條目（含該文 wikilink）已在庫 — SKIP，無新材料。
 

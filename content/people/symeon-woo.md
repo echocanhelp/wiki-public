@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # Symeon Woo (吳西面)
 
@@ -65,6 +65,8 @@ HOLD: no conflicts found between corpus records; the tah-tables 安星貿易公�
 - publisher／語料庫：[[organizations/tah-foundation||TAH Foundation]]、[[sources/taiwaneseamericanhistory-org-story-corpus||TAH story corpus]]。
 
 ## From the record
+
+- 複核（TJJ-A09231000-1, 2026-09-25）：本 slice 4 篇 TJJ 文章（唐培禮訃聞 74f89ee8、游朝凱中央社專訪 9c697378、懷念彭昕醫師兩存檔 6763e8f4／80e2a87a）subject link 對照正文再驗證——彭昕email「吳西面是我的表姑父」——吳西面 連結為真（無錯鏈、無虛鏈）；對應日期事實條目（含該文 wikilink）已在庫 — SKIP，無新材料。
 
 - 覆核（TJJ-A09230500-1, 2026-09-24）：本 slice 文章 299c00bb18030b81（懷念彭昕醫師(楊遠薰)） 正文再驗證——主體連結為真實提及（無錯鏈、無虛鏈），對應日期事實條目（含該文 wikilink）已在庫 — SKIP，無新材料。
 

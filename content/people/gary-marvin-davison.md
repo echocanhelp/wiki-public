@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-25
 ---
 # Gary Marvin Davison
 
@@ -47,3 +47,5 @@ Eight published books on Taiwanese history and culture; on and African American 
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 Corpus re-check (deepen-x 09211507-13, 2026-09-22): verified-saturated — fresh grep of works/ + articles/ returns only own TAH bibliographic records, the works index, or already-excluded mentions; no absorbable memoir text.
+
+<!-- deepen-x 09231100-17 re-check 2026-09-25: verified-saturated. Fresh ZH+EN grep of works/ + articles/ returns only own TAH bibliographic records, works/index.md, or pages already wikilinked/HOLDed in Role in the Community; no new absorbable corpus material. -->
