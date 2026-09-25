@@ -56,3 +56,4 @@ The TAH story corpus carries her Who's Who entry 「2042. Dr. Justina Hwang 黃�
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - [[works/taiwaneseamericanhistory-org/whos-who-2042-justina-hwang|TAH #2042 — Who's Who entry]]
+<!-- deepen-x 09250317-16: re-verify 2026-09-25 — fresh grep (ZH+EN, works+articles): hit set identical to prior re-verifies, all already absorbed/wikilinked (STSA hits = 2025 archive_digest hash false positives). Verified saturated; SKIP-no-new-facts. -->

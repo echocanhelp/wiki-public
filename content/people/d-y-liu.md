@@ -51,3 +51,4 @@ last_reviewed: 2026-09-25
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 <!-- deepen-x 09221500-24: re-verify 2026-09-23 — fresh grep (劉德勇/D. Y. Liu, works+articles): ourjourneys217, ourjourneys270, whoswho1854, index — all absorbed above. Verified saturated; SKIP-no-new-facts. -->
 <!-- deepen-x 09251000-11: re-verify 2026-09-25 — fresh grep (ZH+EN, works+articles): identical hits to prior re-verifies, all already absorbed/wikilinked (STSA 2025 hits are archive_digest hash false positives). Verified saturated; SKIP-no-new-facts. -->
+<!-- deepen-x 09250317-16: re-verify 2026-09-25 — fresh grep (ZH+EN, works+articles): hit set identical to prior re-verifies, all already absorbed/wikilinked (STSA hits = 2025 archive_digest hash false positives). Verified saturated; SKIP-no-new-facts. -->

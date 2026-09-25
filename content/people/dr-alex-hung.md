@@ -51,3 +51,4 @@ _No filled family fields on the TAH profile._
 <!-- deepen-x slice 09220700-13 re-grep 2026-09-22: fresh grep (ZH+EN) in works+articles returns only own TAH record + works index + already-linked/cited corpus files; no third-party memoir material — verified saturated, SKIP content-deepen. -->
 <!-- deepen-x slice 09221500-11 re-grep 2026-09-23: only own record whos-who-2247 + Pew statement + index, all already absorbed — verified saturated, SKIP content-deepen. -->
 <!-- deepen-x slice 09230900-27 re-grep 2026-09-25: fresh grep (Alex Hung / 洪克璿) returns only whos-who-2247 + Pew statement (FAPA CA-SD chapter president signature, already absorbed) + index — verified saturated, SKIP content-deepen. -->
+<!-- deepen-x 09250317-16: re-verify 2026-09-25 — fresh grep (ZH+EN, works+articles): hit set identical to prior re-verifies, all already absorbed/wikilinked (STSA hits = 2025 archive_digest hash false positives). Verified saturated; SKIP-no-new-facts. -->
