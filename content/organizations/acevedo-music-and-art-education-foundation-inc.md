@@ -44,6 +44,8 @@ HOLD: the same concert write-up names the trio's pianist once as 「黃煐煐」
 
 2026-09-24 re-grep (黃煐媖 / Acevedo, DEEPEN-X slice 09230700-7): same hit set (65-yin-yin-huang, concerts104, index, 2024+2025 concert reposts, unrelated Paraguayan Acevedo news under HOLD) — nothing new absorbable.
 
+2026-09-25 re-grep (黃煐媖 / Acevedo Music, DEEPEN-X slice 09240700-13): same hit set (65-yin-yin-huang, concerts104, index, 2024+2025 concert reposts) — SKIP-content: verified-saturated, nothing new absorbable; 黃煐煐/黃煐媖 typo HOLD stands.
+
 ## Related Pages
 
 - [[organizations/taiwan-center||Taiwan Center]]

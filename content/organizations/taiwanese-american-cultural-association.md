@@ -6,7 +6,7 @@ tags:
   - Taiwanese-American
   - Taiwan-Center-group-member
 verification_status: published
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # Taiwanese American Cultural Association
 
@@ -49,3 +49,5 @@ last_reviewed: 2026-09-24
 2026-09-23 re-grep (deepen-x 09221200-16): fresh ZH+EN corpus grep returned only the records already linked on this page — verified saturated, nothing new absorbable, no conflicts.
 
 2026-09-24 re-grep (deepen-x 09230600-31): fresh ZH+EN corpus grep returned only the records already linked on this page — verified saturated, nothing new absorbable, no conflicts.
+
+2026-09-25 re-grep (deepen-x 09240700-12): fresh ZH+EN corpus grep returned only the records already linked on this page — verified saturated, nothing new absorbable, no conflicts.
