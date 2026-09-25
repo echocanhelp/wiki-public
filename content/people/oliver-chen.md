@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-25
 ---
 # Oliver Chen (陳奧利佛)
 
@@ -51,3 +51,4 @@ Accomplishment
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - Corpus sweep re-run 2026-09-22 (deepen-x slice 09211507-21): fresh grep for Oliver Chen / 陳奧利佛 returns only own TAH #239/#676 records + works index — nothing new absorbable.
+- Corpus sweep re-run 2026-09-25 (deepen-x slice 09231100-11): fresh grep for Oliver Chen / 陳奧利佛 in content/works + content/articles returns only own TAH #239/#676 records + works index — verified saturated, nothing new absorbable. SKIP-with-reason.

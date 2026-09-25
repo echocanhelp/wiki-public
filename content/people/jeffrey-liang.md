@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-25
 ---
 # Jeffrey Liang (梁兆豐博士)
 
@@ -45,6 +45,7 @@ TAH holds four of his own archive records documenting his musical activity in th
 - [[works/taiwaneseamericanhistory-org/531-youth-orchestra-cycnyjeffrey-liang200505music-e9-9f-b3-e6-a8-82cd|TAH #531 — Youth Orchestra, CYCNY (2005/05, music CD)]]
 
 The corpus records corroborate the CYCNY Youth Orchestra conducting role already listed under Employment (1999–) and extend it with live concert recordings from 2002 and 2005.
+- Corpus sweep re-run 2026-09-25 (deepen-x slice 09231100-11): fresh grep for Jeffrey Liang / 梁兆豐 returns exactly the four own-archive records already wikilinked above (TAH #96, #354, #530, #531) + works index — no third-party memoir mentions; verified saturated, nothing new absorbable.
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/jeffrey-liang/)
