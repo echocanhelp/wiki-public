@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # Kwei-Yang Ben Chang (張貴洋)
 
@@ -48,3 +48,5 @@ _No filled family fields on the TAH profile._
 > Corpus re-scan 2026-09-23 (deepen-x slice 09221300-24): fresh grep works/+articles/ — hit set identical to prior absorption, all records already wikilinked above. SKIP-deepen; nothing new absorbable.
 
 > Corpus re-scan 2026-09-24 (deepen-x slice 09230800-14): fresh grep works/+articles/ — hits remain only #290, #138, bibliographic #822, and index. SKIP-deepen; nothing new absorbable.
+
+> Corpus re-scan 2026-09-25 (deepen-x slice 09240800-9): fresh grep works/+articles/ — hits remain only #290, #138, bibliographic #822 (full text stays in vault), and index. All already wikilinked above. SKIP-deepen; nothing new absorbable.
