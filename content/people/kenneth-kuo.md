@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # Kenneth Kuo (郭虔哲)
 
@@ -53,3 +53,5 @@ Kuo appears twice in the TAH encyclopedia corpus as a Taiwanese American classic
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+- SKIP 2026-09-25 (slice 09240400-10): re-grep hit set again identical (#319, #699, index) — saturated.

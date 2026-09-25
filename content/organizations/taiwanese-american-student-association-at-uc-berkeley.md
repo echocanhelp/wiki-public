@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # Taiwanese American Student Association at UC Berkeley
 
@@ -34,3 +34,5 @@ Fresh greps 2026-09-20 / 2026-09-21 / 2026-09-22 / 2026-09-23 / 2026-09-24 (slic
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+Fresh re-grep 2026-09-25 (slice 09240400-10): TASA/Berkeley hits in content/works are the same linked records plus false positives (our-journeys-350/390 = 灣區教會 memoir Berkeley church locations; history-of-itasa = no Berkeley mention). SKIP-for-deepening, saturated.
