@@ -33,6 +33,8 @@ Fresh re-grep 2026-09-23 (slice 09221500-29): still no direct CUTSA mention. Two
 
 Fresh re-grep 2026-09-25 (slice 09231000-6): zero hits for CUTSA / 哥倫比亞大學臺灣同學會 in works+articles — verified saturated, SKIP-no-new-facts.
 
+Fresh re-grep 2026-09-25 (slice 09250317-8): regex hits (Justin Yang, Salina Kuo, Marilyn Fu, Julia Lin, Taiwan-Mixed, ourjourneys300-eng, Jonathan Chen) are all generic Columbia University mentions in taiwaneseamerican-org profiles — none names CUTSA; SKIP-with-reason stands, verified saturated.
+
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/columbia-university-taiwanese-student-association/)
 

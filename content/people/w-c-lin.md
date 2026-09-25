@@ -44,6 +44,7 @@ last_reviewed: 2026-09-25
 - 2016-03-20 — recorded in the TAH Foundation encyclopedia (#898).
 
 - Corpus re-grep 2026-09-25 (slice 09231000-7): hits = index, ourjourneys19 (石清正 memoir, absorbed incl. EGW founding-year HOLD), own entry 898; saturated, no new absorbable facts.
+- Corpus re-grep 2026-09-25 (slice 09250317-8): identical hit set (ourjourneys19, 898, index); EGW founding-year HOLD (1979 vs 1980 vs 1982) stands; saturated, SKIP-no-new-facts.
 
 ## Family
 

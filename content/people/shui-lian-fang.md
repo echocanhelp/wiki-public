@@ -57,3 +57,4 @@ No other corpus memoirs/records mention her or 方國炤; biography beyond the a
 - Re-verified 2026-09-24 (deepen-x slice-17): fresh grep returns the same hit set (#1251, #2167, works index); saturated — SKIP, no new absorbable facts.
 
 - 2026-09-25 DEEPEN-X09230900-17 re-run: fresh grep returns only #1251 autobiography, #2167 Who's Who, works index — saturated, SKIP.
+- 2026-09-25 (slice 09250317-10): fresh grep returns only #1251 autobiography, #2167 Who's Who, works index — saturated, SKIP.

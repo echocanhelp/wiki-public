@@ -49,3 +49,4 @@ last_reviewed: 2026-09-25
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- 2026-09-25 (slice 09250317-10): corpus re-grepped — hits remain only 明州大事紀 ourjourneys123 (2007 Honeywell 終身成就獎, 2010 同鄉會會長 — absorbed) + own TAH #155 record; SKIP, no new facts.

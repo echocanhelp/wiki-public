@@ -36,6 +36,7 @@ last_reviewed: 2026-09-25
 - Corpus re-grep 2026-09-23 (slice 09221500-16): hits = index, Michelle Kuo interview (absorbed above), Bergvelt interview (absorbed this pass). Saturated.
 
 - Corpus re-grep 2026-09-25 (slice 09231000-7): hits = index, own entries 235/511, Michelle Kuo interview, Harvard presentation (+dup -2 variant) — all already linked/absorbed above; saturated, no new absorbable facts.
+- Corpus re-grep 2026-09-25 (slice 09250317-8): identical hit set (235, 511, index, Michelle Kuo interview, Harvard presentation +dup); saturated, SKIP-no-new-facts.
 
 ## Family
 
