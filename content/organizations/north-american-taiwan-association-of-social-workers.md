@@ -6,7 +6,7 @@ tags:
   - Taiwanese-American
   - Taiwan-Center-group-member
 verification_status: published
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-25
 ---
 # North American Taiwan Association of Social Workers
 
@@ -25,6 +25,7 @@ last_reviewed: 2026-09-22
 - **Hub:** [[sources/taiwancenter-org||taiwancenter.org]]  
 - **Content priority C:** Independent history not expanded from listing alone  
 - Corpus grep (2026-09-22, SKIP-with-reason): zero hits for 社會工作師 / Social Workers / 社工師協會 in content/works + content/articles — no memoir or corpus material exists for this association; listing-only page.
+- 2026-09-25 re-verified (deepen-x slice 10): grep again zero hits — SKIP-with-reason stands; remains a Taiwan Center listing-only page.
 
 ## Related Pages
 

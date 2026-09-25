@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-25
 ---
 # Catherine Ken (耿懿芝)
 
@@ -35,6 +35,7 @@ _No filled family fields on the TAH profile._
 
 ## Role in the Community
 - Encyclopedia profile held as bibliographic record: [[works/taiwaneseamericanhistory-org/whoswho1296|1296. Catherine Ken 耿懿芝 / 2016-10]] (2016-10-02). Corpus grep found no substantive memoir/newsletter mention beyond this record (apparent hits matched "Kennedy", not Catherine Ken) — nothing further absorbable.
+- 2026-09-25 re-verified (deepen-x slice 10): fresh ZH+EN grep over works/ + articles/ returns only the own record and the works index — SKIP-with-reason: no corpus material beyond the encyclopedia record.
 
 ## Sources
 - [TAH #1296 encyclopedia: 1296. Catherine Ken 耿懿芝 / 206/10](https://taiwaneseamericanhistory.org/whoswho1296/)
