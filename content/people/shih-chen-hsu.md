@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-25
 ---
 # Shih-Chen Hsu (許世真)
 
@@ -19,6 +19,8 @@ last_reviewed: 2026-09-22
 - **Core roles:** educator
 - **Source:** TAH Foundation Who’s Who
 
+
+<!-- deepen-x 09231400-25: fresh grep 許世真/Shih-Chen Hsu → hit set identical to pages already wikilinked in Role in the Community (my-stories-654, whos-who-2140, ourjourneys18/-eng); all WTWA facts already absorbed. No new material. -->
 
 <!-- tah-tables:start -->
 ## Education

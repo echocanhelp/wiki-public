@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-25
 ---
 # Jimmy Li (李正明)
 
@@ -46,3 +46,5 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+<!-- deepen-x slice 09231400-27 recheck 2026-09-25: fresh ZH+EN grep of works/+articles matched only own TAH bibliographic record + works/index; no independent memoir material. SKIP-with-reason stands. -->
