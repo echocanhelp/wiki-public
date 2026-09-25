@@ -31,7 +31,7 @@ last_reviewed: 2026-09-25
 
 ## Role in the Community
 
-- Profiled in the TAH Foundation Who's Who encyclopedia record [[works/taiwaneseamericanhistory-org/whoswho1241|1241. Cindy Huang 黃心怡]] (2016-08-14, band B). Corpus holds the bibliographic record only; no memoir/narrative corpus material beyond the TAH profile. Father 黃興貫 has his own profile [[works/taiwaneseamericanhistory-org/whoswho1240|1240. Sam Huang 黃興貫]].
+- Profiled in the TAH Foundation Who's Who encyclopedia record [[works/taiwaneseamericanhistory-org/whoswho1241|1241. Cindy Huang 黃心怡]] (2016-08-14, band B). Corpus holds the bibliographic record only; no memoir/narrative corpus material beyond the TAH profile (re-verified SKIP 2026-09-25, slice 09232337-4: fresh 黃心怡/Cindy Huang grep returned only own record + index). Father 黃興貫 has his own profile [[works/taiwaneseamericanhistory-org/whoswho1240|1240. Sam Huang 黃興貫]].
 
 ## Family
 
