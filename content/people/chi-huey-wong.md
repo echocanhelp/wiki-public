@@ -57,6 +57,10 @@ HOLD: conflict in source Era metadata — #47 (2014 Wolf Prize) work page carrie
 
 CORPUS SCAN (2026-09-23, slice 09221100-15; re-run 2026-09-24, slice 09230600-6): exact-name re-grep 「翁啟惠／Chi-Huey Wong」 returns only the six work pages already wikilinked above (#47, #236, #567, #243, #802, #846) plus archived TJJ coverage. Scan re-run 2026-09-25 (slice 09240600-13): work-page hits unchanged; three additional archived TJJ articles (2021 聲援連署, 2020 SARS/COVID 抑制劑 program, 2022 諾貝爾呼聲) absorbed above — remaining TJJ hits are tag/category archive pages with no new biographical facts.
 
+## From the record
+
+- 複核（TJJ-A09240800-4, 2026-09-25）：本 slice 文章 59a68b9cd855c1bf（司法不公，國耻之最：海內外台灣人聲援翁啟惠連署, 2021-09-10）正文再驗證——本人為連署聲援對象（浩鼎案獲無罪仍遭監院彈劾）確認見於正文，subject 連結為真，無錯鏈、無虛鏈；2021-09-10 條目（含該文 wikilink，見上節）已在庫 — SKIP，已飽和。
+
 ## Sources
 - [TAH #243 encyclopedia: 243. Dr. Chi-Huey Wong 翁啟惠博士](https://taiwaneseamericanhistory.org/243-dr-chi-huey-wong-%e7%bf%81%e5%95%9f%e6%83%a0%e5%8d%9a%e5%a3%ab/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/chi-huey-wong/)
