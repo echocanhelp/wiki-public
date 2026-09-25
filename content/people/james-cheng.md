@@ -49,5 +49,6 @@ last_reviewed: 2026-09-25
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+<!-- deepen-x slice 09250400-6 re-grep 2026-09-25: fresh grep (鄭乃榮/James Cheng) returns only own #37, own essay 310, index rows — verified saturated, SKIP content-deepen. -->
 <!-- deepen-x slice 09231000-26 re-grep 2026-09-25: fresh grep (鄭乃榮/James Cheng) returns only own #37, own essay 310, index rows — verified saturated, SKIP content-deepen. -->
 <!-- deepen-x slice 09221500-12 re-grep 2026-09-23: fresh grep (鄭乃榮/James Cheng) in works+articles returns only own TAH #37 record, own essay 310, and index rows; no third-party memoir material — verified saturated, SKIP content-deepen. -->
