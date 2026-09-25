@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-25
 ---
 # F. F. Huang (黃鳳凰)
 
@@ -37,6 +37,7 @@ _No filled family fields on the TAH profile._
 ## Role in the Community
 - Own encyclopedia record held in the corpus: TAH #1929 profile — see [[works/taiwaneseamericanhistory-org/whos-who-1929-f-f-huang|TAH #1929, F. F. Huang 黃鳳凰]]; the record is bibliographic only (full text in the TAH vault).
 - SKIP-remainder: exhaustive greps 2026-09-19, 2026-09-20, and 2026-09-22 (slice 09211507-24) of works and articles for 黃鳳凰 / "F. F. Huang" found no memoir mentions — the only hits are her own TAH #1929 record, the works index, and (in earlier sweeps) the 鳳凰樹 (flame tree) / 鳳凰 metaphor in unrelated essays (ourjourneys334, ourjourneys30), not this person. Nothing absorbable beyond the record above.
+- Corpus re-check 2026-09-25 (slice 09231200-8): fresh ZH+EN grep of works+articles returns the identical hit set (own TAH #1929 record + works index only). Verified-saturated; nothing new absorbable.
 
 ## Sources
 - [TAH #1929 encyclopedia: 1929. F. F. Huang 黃鳳凰](https://taiwaneseamericanhistory.org/whos-who-1929-f-f-huang/)

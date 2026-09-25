@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-25
 ---
 # B. N. Huang (黃邦男)
 
@@ -42,6 +42,7 @@ last_reviewed: 2026-09-21
 - 本人檔案收藏入庫 TAH：[[works/taiwaneseamericanhistory-org/collection-of-dr-bernie-huang|20. Collection of Dr. Bernie Huang 黃邦男博士的收藏]]。
 - TAH Who's Who 紀錄：[[works/taiwaneseamericanhistory-org/whoswho1035|1035. B. N. Huang 黃邦男 / 2016/05]]。
 - HOLD: 收藏頁署名「Bernie Huang」與 Who's Who「B. N. Huang」是否同一人，未經本人資料確認，不自動合併。
+- Re-scan 2026-09-25 (deepen-x slice 10): corpus hits identical to prior passes (ourjourneys321 ±eng、收藏頁、Who's Who 1035、works/index)；上列募款與匯款事實已與回憶錄原文逐字核對無誤，無新增可吸收內容。
 
 ## Sources
 - [TAH #1035 encyclopedia: 1035. B. N. Huang 黃邦男 / 2016/05](https://taiwaneseamericanhistory.org/whoswho1035/)

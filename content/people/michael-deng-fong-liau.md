@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-25
 ---
 # Michael Deng Fong Liau (廖登豐博士)
 
@@ -43,6 +43,7 @@ Michael Deng Fong Liau 廖登豐 – History of Taiwanese American (T.A. Archive
 - Authored the essay 波濤起 艷陽來 (2014/12), corpus record [[works/taiwaneseamericanhistory-org/170-e6-b3-a2-e6-bf-a4-e8-b5-b7-e8-89-b7-e9-99-bd-e4-be-86-e5-bb-96-e7-99-bb-e8-b|170. 波濤起 艷陽來]].
 - Listed in the TAH Who's Who encyclopedia as record 195 (published 2015-01-09): [[works/taiwaneseamericanhistory-org/whoswho195|195. Deng Fong, Michael Liau 廖登豐]].
 - 2026-09-22 deepen-x re-check (slice -20): corpus grep hits remain exactly the two authored essays + own Who's Who record above — no further community-authored mentions to absorb.
+- Corpus re-check 2026-09-25 (slice 09231200-8): fresh ZH+EN grep returns the identical hit set (two authored essays + own Who's Who record + index). Verified-saturated; nothing new absorbable.
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/michael-deng-fong-liau/)
