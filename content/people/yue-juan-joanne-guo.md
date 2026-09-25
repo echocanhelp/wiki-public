@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-25
 ---
 # Yue-Juan Joanne Guo (郭玥娟)
 
@@ -31,7 +31,7 @@ last_reviewed: 2026-09-22
 - **Husband:** Lung-Fong Chen — cross-confirmed by his own record [[people/dr-lung-fong-chen|Dr. Lung-Fong Chen 陳隆豐]], which lists 郭玥娟 as wife.
 
 ## Role in the Community
-- Her community record is preserved in the TAH encyclopedia corpus entry [[works/taiwaneseamericanhistory-org/whos-who-2170-yue-juan-guo|TAH Who's Who #2170]]; the reciprocal mention in her husband's encyclopedia record (#151) confirms the family linkage from a second corpus source.
+- Her community record is preserved in the TAH encyclopedia corpus entry [[works/taiwaneseamericanhistory-org/whos-who-2170-yue-juan-guo|TAH Who's Who #2170]]; the reciprocal mention in her husband's encyclopedia record (#151) confirms the family linkage from a second corpus source. Corpus sweep 2026-09-25: no additional mentions in works/articles beyond her own entry and the index.
 
 ## Sources
 - [TAH #2170 encyclopedia: 2170.  Yue-Juan (Joanne) Guo 郭玥娟](https://taiwaneseamericanhistory.org/whos-who-2170-yue-juan-guo/)

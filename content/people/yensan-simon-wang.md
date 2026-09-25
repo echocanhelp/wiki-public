@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-25
 ---
 # Yensan Simon Wang (王燕山)
 
@@ -37,7 +37,7 @@ last_reviewed: 2026-09-21
 
 
 ## Role in the Community
-- Documented in the TAH Foundation Who's Who encyclopedia record [[works/taiwaneseamericanhistory-org/whoswho1132|1132. Yensan (Simon) Wang 王燕山 / 2016/07]] (published 2016-07-10, value band B). The vault copy is a bibliographic record only; the biographical full text stays at the TAH source, so no memoir-corpus details are absorbable here.
+- Documented in the TAH Foundation Who's Who encyclopedia record [[works/taiwaneseamericanhistory-org/whoswho1132|1132. Yensan (Simon) Wang 王燕山 / 2016/07]] (published 2016-07-10, value band B). The vault copy is a bibliographic record only; the biographical full text stays at the TAH source, so no memoir-corpus details are absorbable here. Corpus re-check 2026-09-25 (slice 09232337-2): ZH+EN grep hits only this record and the works index.
 
 ## Sources
 - [TAH #1132 encyclopedia: 1132. Yensan (Simon) Wang 王燕山 / 2016/07](https://taiwaneseamericanhistory.org/whoswho1132/)

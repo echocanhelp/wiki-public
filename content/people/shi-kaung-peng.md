@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-25
 ---
 # Shi-Kaung Peng (彭旭光)
 
@@ -40,7 +40,7 @@ last_reviewed: 2026-09-22
 ## Role in the Community
 
 - Recorded in the TAH story corpus as encyclopedia entry 1038 (published 2016-05-28). [[works/taiwaneseamericanhistory-org/whoswho1038|1038. Shi-Kaung Peng 彭旭光 / 2016/05]]
-- No memoir/community narrative beyond the Who's Who record found in the corpus at review time.
+- No memoir/community narrative beyond the Who's Who record in the corpus; sweep re-run 2026-09-25: only hits are his own encyclopedia work page and the index.
 
 ## Sources
 - [TAH #1038 encyclopedia: 1038. Shi-Kaung Peng 彭旭光  / 2016/05](https://taiwaneseamericanhistory.org/whoswho1038/)

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-25
 ---
 # Steven Chien (簡鳳孚)
 
@@ -36,7 +36,7 @@ last_reviewed: 2026-09-22
 
 ## Role in the Community
 - Recorded in the TAH Foundation Who's Who as a Taiwanese American engineer/entrepreneur; the community-record entry [[works/taiwaneseamericanhistory-org/whoswho1275|1275. Steven Chien 簡鳳孚 (09/2016)]] was published 2016-09-11 and holds his profile in the movement record.
-- Corpus check (2026-09-21): this Who's Who record is the only corpus appearance; no memoir or article mentions found in works/articles.
+- Corpus check (2026-09-21, re-verified 2026-09-25 slice 09232337-2): this Who's Who record is the only corpus appearance; no memoir or article mentions found in works/articles.
 
 ## Sources
 - [TAH #1275 encyclopedia: 1275. Steven Chien 簡鳳孚/ 09/2016](https://taiwaneseamericanhistory.org/whoswho1275/)

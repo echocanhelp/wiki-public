@@ -32,6 +32,7 @@ Accomplishment
 _No filled family fields on the TAH profile._
 
 ## Role in the Community
+<!-- DEEPEN-X SKIP 2026-09-25 (slice 09232337-4): fresh ZH+EN grep (蕭素薰 / Su-Hsun / Sue Hsiao / Crown Mark, works+articles) returned only own TAH #2288 Who's Who record (band B, bibliographic) + index entry. No memoir/community records; nothing absorbable. -->
 - Documented in the TAH Foundation Who's Who encyclopedia record [[works/taiwaneseamericanhistory-org/whos-who-2288-su-hsun-hsiao|2288. Su-Hsun (Sue) Hsiao 蕭素薰]] (published 2020-10-22, value band B). The vault copy is a bibliographic record only; no memoir-corpus mentions of 蕭素薰 or Crown Mark, Inc. were found beyond this record.
 
 ## Sources
