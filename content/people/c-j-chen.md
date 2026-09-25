@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # C. J. Chen (陳銓仁)
 
@@ -47,6 +47,7 @@ HOLD: TAH #180 lists him as 洛台鄉會第一任會長 1968–1971, while 周�
 
 
 ## Re-grep log
+- Corpus re-grep 2026-09-25 (slice 09240500-3): fresh ZH+EN grep — hit set identical (ourjourneys54-eng, 244, 295, whoswho1033, TAH #180; the photo-albums-111 / mystories403 / ourjourneys76-eng matches remain Donald C.J. Chen under the HOLD above); verified-saturated, no new absorbable material.
 - Corpus re-grep 2026-09-24 (slice 09230500-8): verified-saturated — hit set (ourjourneys54-eng, ourjourneys244, ourjourneys295, whoswho1033, TAH #180) all linked above. The ourjourneys76-eng match is "Donald C. J. Chen", TAA DC founding-chapter president ([[people/donald-c-j-chen]]) — same HOLD as above, not this person; no new absorbable material.
 
 ## Sources

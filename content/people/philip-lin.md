@@ -55,6 +55,9 @@ last_reviewed: 2026-09-25
 
 - 2021-07-13 — 國家人權委員會為「林水泉遭受國家行政不法侵害人身自由案」舉行公布記者會，見台灣公義報「台美人台加人」分類（2025-02-16 存檔）—— [[articles/taiwanjustice-net/2025/20250216000009_category_taiwaneseamerican_page_2_3be67f6e82d34da7|TJJ 台美人台加人存檔頁2]]。
 
+- 1961（民國50年）— 選舉期間公開批評政府施政，遭提報為流氓、移送管訓1年8個月（575日），關押於屏東縣鵬村農場；1964（民國53年）當選台北市議員，任期未屆滿再被冠以「陰謀顛覆政府」服刑10年（=[[articles/taiwanjustice-net/2023/20230322200926_2023_03_16_首起行政不法獲平復_林水泉管訓污名將滌除_家_6946d3154a6872d5|TJJ 2023-03-16]]；管訓日數575日出處 [[articles/taiwanjustice-net/2025/20250718105422_促轉會提修法-增訂平復行政不法要件_f24ad4644d38a7d2|TJJ 促轉會修法報導]]）。
+- 2023-03-16 — 獲促進轉型正義委員會審議通過，成為政府**平復行政不法的首例**；姪子林信介代表家屬要求加害人及政府公開道歉、完備法令，並呼籲將囚禁地鵬村農場列為不義遺址（[[articles/taiwanjustice-net/2023/20230322200926_2023_03_16_首起行政不法獲平復_林水泉管訓污名將滌除_家_6946d3154a6872d5|TJJ 2023-03-16]]）。HOLD: 管訓期間 1年8個月 vs 575日（約1年7個月），兩文並記，未自動合併。
+
 ## Role in the Community
 - 1986-03 — When overseas Taiwanese supporters declared the 台灣民主黨 in New York, 許信良 joined the party together with 謝聰敏 and 林水泉; 梅心怡 served as English spokesperson ([[works/taiwaneseamericanhistory-org/our-journeys-363|Our Journeys #363]]).
 - 1986-11-30 — One of the blacklisted figures (with 許信良、謝聰敏) who flew from Tokyo Narita to force entry back to Taiwan; over ten thousand met them at Taoyuan Airport and the KMT riot police response turned it into the 桃園機場事件 ([[works/taiwaneseamericanhistory-org/ourjourneys230|Our Journeys #230]]; the same episode is also recounted in [[works/taiwaneseamericanhistory-org/ourjourneys74|Our Journeys #74]], where 林水泉 is named alongside 許信良 in the 闖關 that triggered the incident).

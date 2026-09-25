@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # Dr. Ching-Hsing Liao (廖進興博士)
 
@@ -60,4 +60,5 @@ Dr. Ching-Hsing Liao 廖進興博士 – History of Taiwanese American (T.A. Arc
 複核（deepen-x slice 09210400-1, 2026-09-21）：corpus re-grep（works+articles）命中集合不變，皆已吸收 — SKIP-with-reason：語料已飽和。
 複核（deepen-x slice 09212352-1, 2026-09-22）：corpus re-grep 命中僅 ourjourneys126、whos-who-1819、index 三件，皆已吸收 — SKIP-with-reason：無新增社群語料。
 複核（deepen-x slice 09221000-3, 2026-09-23）：corpus re-grep（works+articles，ZH+EN）命中仍僅 ourjourneys126、whos-who-1819、index 三件，皆已吸收 — SKIP-with-reason：語料已飽和。
+複核（deepen-x slice 09240500-3, 2026-09-25）：corpus re-grep（works+articles，ZH+EN）命中仍僅 ourjourneys126、whos-who-1819、index 三件，皆已吸收 — SKIP-with-reason：語料已飽和。
 複核（deepen-x slice 09230500-4, 2026-09-24）：corpus re-grep 命中仍僅 ourjourneys126、whos-who-1819、index 三件，皆已吸收 — SKIP-with-reason：語料已飽和。
