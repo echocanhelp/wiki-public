@@ -50,3 +50,5 @@ Sergeant, Lieutenant, Captain
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 <!-- deepen-x slice 09231100-7 (2026-09-25): verified saturated — fresh ZH+EN grep of works/ + articles/ returns only the person's own TAH Who's Who record + works index; no memoir/community material to absorb. -->
+
+<!-- deepen-x 09250400-21 re-check 2026-09-25: verified-saturated. Fresh ZH+EN grep of works/ + articles/ returns only own TAH bibliographic records, works/index.md, or pages already wikilinked/HOLDed in Role in the Community; no new absorbable corpus material. -->
