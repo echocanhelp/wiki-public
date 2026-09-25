@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # Remii Huang (黃婕妤)
 
@@ -43,6 +43,8 @@ _No filled family fields on the TAH profile._
 - The TAH Who's Who press-kit note "Won the Best Female Director Award at the American Independent Film Festival" is not corroborated in the corpus; filmography details above are community-record primary material.
 - Corpus re-checked 2026-09-23 (deepen-x slice 09221300-14): fresh grep returns the same hit set (own TAH page #2078, natwa2con, works index); the NATWA panel record above remains the only community material. Verified-saturated.
 - Corpus re-checked 2026-09-24 (slice 09230800-7): fresh grep 黃婕妤/Remii Huang returns the same hit set (own TAH record #2078, natwa2con, works index). No new community material; the film-attribution HOLD above stands. Verified-saturated; SKIP-content.
+
+- Corpus re-checked 2026-09-25 (slice 09240700-26): fresh grep 黃婕妤/Remii Huang returns the same hit set (own TAH record #2078, natwa2con, index). No new community material; film-attribution HOLD stands. Verified-saturated; SKIP-content.
 
 ## Sources
 - [TAH #2078 encyclopedia: 2078. Remii Huang 	黃婕妤](https://taiwaneseamericanhistory.org/whos-who-2078-remii-huang/)
