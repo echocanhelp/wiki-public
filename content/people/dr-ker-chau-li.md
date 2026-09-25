@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-25
 ---
 # Dr. Ker-Chau Li (李克昭博士)
 
@@ -45,3 +45,4 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+<!-- deepen-x slice 09231300-7 recheck 2026-09-25: SKIP — fresh ZH+EN grep of works/+articles returned only own TAH work-page index rows / harvest index (or zero hits, or known idiom false positive); no new memoir or third-party material. -->

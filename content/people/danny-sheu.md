@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-25
 ---
 # Danny Sheu
 
@@ -41,6 +41,8 @@ Re-check 2026-09-22 (slice -17, SKIP-with-reason): the only corpus records namin
 Danny Sheu are these two own-name TAH entries; other grep hits were false positives
 on the substring 徐 in unrelated 徐/許 surnames and memoir prose (徐徐). No independent
 memoir/community material to absorb.
+Re-check 2026-09-25 (slice -2): fresh grep returns the same own-name records 343/13027
+plus index backlinks — SKIP confirmed, nothing absorbable beyond what is cited above.
 
 ## Family
 

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-25
 ---
 # Fu-Ji Liu (劉富吉)
 
@@ -43,7 +43,7 @@ AA five-year junior college program graduate
 
 - President of TAA-ESGV (聖東台灣同鄉會), the Taiwanese American Association of Eastern Southern Greater Virginia — the community leadership role recorded in the TAH directory entry itself.
 - Trained in mineral engineering (Taipei工專 1965; Tohoku University, Japan from 1971) and ran Poly Tech Company as a self-employed entrepreneur (1981–2018), anchoring the engineer/entrepreneur strand of the Virginia Taiwanese community.
-- Corpus record: [[works/taiwaneseamericanhistory-org/whos-who-2243-fu-ji-liu|2243. Fu-Ji Liu 劉富吉]] (TAH Who's Who, 2020-02-12). No other corpus mentions found — biography stays as-sourced, nothing invented.
+- Corpus record: [[works/taiwaneseamericanhistory-org/whos-who-2243-fu-ji-liu|2243. Fu-Ji Liu 劉富吉]] (TAH Who's Who, 2020-02-12). No other corpus mentions found — biography stays as-sourced, nothing invented. Re-grepped 2026-09-25 (slice 09231300-3): hit set unchanged (own entry + works index) — verified saturated.
 
 ## Sources
 - [TAH #2243 encyclopedia: 2243. Fu-Ji Liu 劉富吉](https://taiwaneseamericanhistory.org/whos-who-2243-fu-ji-liu/)
