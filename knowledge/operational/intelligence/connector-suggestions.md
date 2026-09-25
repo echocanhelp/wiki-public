@@ -1,7 +1,7 @@
 # Connector suggestions (capped top 80)
 
-- co_citation total=4789 kept=80
-- co_mention total=10320 kept=40
+- co_citation total=4855 kept=80
+- co_mention total=10354 kept=40
 - shared_tags total=0 kept=0
 
 ## Top co-citation
@@ -21,9 +21,9 @@
 - organizations/american-citizens-for-taiwan.md ↔ organizations/taiwanese-american-perspectives.md
 - organizations/american-citizens-for-taiwan.md ↔ people/jonathan-lee.md
 - organizations/taiwanese-american-perspectives.md ↔ people/jonathan-lee.md
+- organizations/american-citizens-for-taiwan.md ↔ organizations/east-bay-taiwanese-association.md
 - organizations/american-citizens-for-taiwan.md ↔ organizations/fapa-los-angeles.md
 - organizations/american-citizens-for-taiwan.md ↔ organizations/natwa-southern-california.md
-- organizations/american-citizens-for-taiwan.md ↔ organizations/north-america-taiwanese-womens-association-hawaii-chapter.md
 - organizations/ann-arbor-taiwanese-association.md ↔ organizations/manhattan-ks-chapter-taa.md
 - organizations/ann-arbor-taiwanese-association.md ↔ organizations/taiwanese-american-association-atlanta.md
 - organizations/ann-arbor-taiwanese-association.md ↔ organizations/taiwanese-american-association-greater-cleveland.md

@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-24T07:00:31.610017",
+  "generated_at": "2026-09-25T07:00:31.492260",
   "pages_scanned": 2916,
   "capped": true,
   "cap_top_n": 80,
   "summary": {
-    "co_citation_count": 4789,
-    "co_mention_count": 10320,
+    "co_citation_count": 4855,
+    "co_mention_count": 10354,
     "shared_tags_count": 0,
     "orphan_folder_count": 3,
     "kept_co_citation": 80,
@@ -161,11 +161,20 @@
       {
         "type": "CO-CITATION",
         "page1": "organizations/american-citizens-for-taiwan.md",
+        "page2": "organizations/east-bay-taiwanese-association.md",
+        "shared_target": "works/taiwaneseamerican-org/pew-research-center-taiwanese-american-statement",
+        "page1_title": "American Citizens for Taiwan (西雅圖美台會)",
+        "page2_title": "East Bay Taiwanese Association (北加州)",
+        "shared_targets_count": 73
+      },
+      {
+        "type": "CO-CITATION",
+        "page1": "organizations/american-citizens-for-taiwan.md",
         "page2": "organizations/fapa-los-angeles.md",
         "shared_target": "works/taiwaneseamerican-org/pew-research-center-taiwanese-american-statement",
         "page1_title": "American Citizens for Taiwan (西雅圖美台會)",
         "page2_title": "Formosan Association for Public Affairs Los Angeles(FAPA-LA)",
-        "shared_targets_count": 72
+        "shared_targets_count": 73
       },
       {
         "type": "CO-CITATION",
@@ -174,16 +183,7 @@
         "shared_target": "works/taiwaneseamerican-org/pew-research-center-taiwanese-american-statement",
         "page1_title": "American Citizens for Taiwan (西雅圖美台會)",
         "page2_title": "North America Taiwanese Women's Assoc. Southern CA Chapter NATWA-SC",
-        "shared_targets_count": 72
-      },
-      {
-        "type": "CO-CITATION",
-        "page1": "organizations/american-citizens-for-taiwan.md",
-        "page2": "organizations/north-america-taiwanese-womens-association-hawaii-chapter.md",
-        "shared_target": "works/taiwaneseamerican-org/pew-research-center-taiwanese-american-statement",
-        "page1_title": "American Citizens for Taiwan (西雅圖美台會)",
-        "page2_title": "North America Taiwanese Women’s Association – Hawaii Chapter (北美洲台灣婦女會夏威夷分會)",
-        "shared_targets_count": 72
+        "shared_targets_count": 73
       },
       {
         "type": "CO-CITATION",
@@ -301,6 +301,15 @@
         "page1_title": "Ann Arbor Taiwanese Association (安雅堡)",
         "page2_title": "Professor Chen Wen-Chen Memorial Foundation (陳文成教授紀念基金會)",
         "shared_targets_count": 13
+      },
+      {
+        "type": "CO-CITATION",
+        "page1": "organizations/taiwan-student-association-at-the-university-of-michigan.md",
+        "page2": "organizations/taiwanese-american-student-association-at-the-university-of-michigan.md",
+        "shared_target": "works/taiwaneseamericanhistory-org/important2016-30",
+        "page1_title": "Taiwan Student Association at the University of Michigan",
+        "page2_title": "Taiwanese American Student Association at the University of Michigan",
+        "shared_targets_count": 3
       },
       {
         "type": "CO-CITATION",
@@ -722,15 +731,6 @@
         "page2": "people/j-s-liu.md",
         "shared_target": "works/taiwaneseamericanhistory-org/los-angeles-melody-chorus",
         "page1_title": "Bliss & Wisdom Foundation of North America (北美福智基金會)",
-        "page2_title": "J. S. Liu (劉佳欣)",
-        "shared_targets_count": 3
-      },
-      {
-        "type": "CO-CITATION",
-        "page1": "organizations/lapc-music-foundation.md",
-        "page2": "people/j-s-liu.md",
-        "shared_target": "works/taiwaneseamericanhistory-org/los-angeles-melody-chorus",
-        "page1_title": "LAPC Music Foundation (洛杉磯樂音音樂基金會)",
         "page2_title": "J. S. Liu (劉佳欣)",
         "shared_targets_count": 3
       }
