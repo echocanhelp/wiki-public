@@ -52,6 +52,11 @@ material; verified saturated, no conflicts.
 
 See parent org [[organizations/north-america-taiwanese-womens-association|NATWA 北美洲台灣婦女會]].
 
+Re-grepped 2026-09-25 (slice 09240500-15): SKIP — ZH+EN hits are its own records (natwa-new-jersey-chapter,
+study-group-nj), the already-disambiguated TAA/NJ records (history-taannj, activities-of-taanj,
+newsletter-of-taanj), the FAPA NJ record (176. 徐墨齡), plus works index — no NJ-chapter-specific new
+material; verified saturated, no conflicts.
+
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/north-america-taiwanese-womens-association-new-jersey-chapter/)
 
