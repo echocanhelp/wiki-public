@@ -34,3 +34,4 @@ Other NATWA chapters with their own records: [[works/taiwaneseamericanhistory-or
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
  Slice deepen-x-slice-09231000-5 (2026-09-25): fresh re-grep (ZH+EN, works+articles) — identical hit set to prior checks; all hits already wikilinked/absorbed; nothing new absorbable. SKIP (saturated).
+ Slice deepen-x-slice-09250317-4 (2026-09-25): fresh ZH+EN re-grep (works+articles) — identical hit set to prior checks; all hits already wikilinked/absorbed (TAIA string-match in taiwanjustice article is an archive_digest false positive). Nothing new absorbable. SKIP (saturated).

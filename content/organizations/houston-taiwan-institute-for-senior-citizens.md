@@ -40,3 +40,4 @@ Re-grep '休士頓台灣松年學院 / HTISC / Houston Taiwan Institute' against
  Re-check slice 09220800-8 (2026-09-22): fresh grep 休士頓台灣松年學院|HTISC|Houston Taiwan Institute — identical six-record hit set plus the corpus index page; saturated, SKIP.
  Re-check slice 09230317-7 (2026-09-23): fresh grep — identical six-record hit set (directory, activities, golf cup, concerts106, musical-concerts-167, Our Journeys 298); saturated, SKIP.
  Re-check slice 09231000-4 (2026-09-25): fresh grep 休士頓台灣松年學院|HTISC|Houston Taiwan Institute — identical six-record hit set (directory, activities, golf cup, concerts106, musical-concerts-167, Our Journeys 298); saturated, SKIP.
+ Slice deepen-x-slice-09250317-4 (2026-09-25): fresh ZH+EN re-grep (works+articles) — identical hit set to prior checks; all hits already wikilinked/absorbed (TAIA string-match in taiwanjustice article is an archive_digest false positive). Nothing new absorbable. SKIP (saturated).

@@ -34,3 +34,4 @@ The Taiwanese American Outreach Association (TAOA) is a volunteer-driven, not-fo
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - 複核（deepen-x 2026-09-22）：corpus re-grep（works+articles）命中集合與前次相同，全數已吸收並 wikilink，無新增社群材料；頁面維持飽和狀態。
  Slice deepen-x-slice-09231000-5 (2026-09-25): fresh re-grep (ZH+EN, works+articles) — identical hit set to prior checks; all hits already wikilinked/absorbed; nothing new absorbable. SKIP (saturated).
+ Slice deepen-x-slice-09250317-4 (2026-09-25): fresh ZH+EN re-grep (works+articles) — identical hit set to prior checks; all hits already wikilinked/absorbed (TAIA string-match in taiwanjustice article is an archive_digest false positive). Nothing new absorbable. SKIP (saturated).
