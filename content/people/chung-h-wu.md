@@ -59,3 +59,4 @@ HOLD: conflict in romanization — Chung H. Wu (this page, TAH #1347) vs Chung-H
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 <!-- deepen-x slice 09231000-17 (2026-09-25): SKIP re-verified — fresh grep of works/ + articles/ returns only the records already absorbed on this page; nothing new absorbable. -->
+<!-- deepen-x 09250317-32: SKIP re-verified 2026-09-25 — fresh ZH+EN grep of works/+articles/ returns only #833, #1347, works index (all already absorbed/linked); no new community material. -->

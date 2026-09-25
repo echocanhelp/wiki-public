@@ -57,3 +57,4 @@ _No filled family fields on the TAH profile._
 <!-- deepen-x 09221500-30: SKIP — corpus re-scan (works/articles) fresh 2026-09-23: hits are only own TAH records, works/index.md, or pages already wikilinked in Role in the Community; no new community material. -->
 <!-- deepen-x 09220700-23: SKIP — corpus re-scan (works/articles) fresh 2026-09-22: hits are only own TAH records, works/index.md, or pages already wikilinked in Role in the Community; no new community material. -->
 <!-- deepen-x 09231000-13: verified-saturated — fresh corpus grep: hits only own records / already-linked works; no new community material. -->
+<!-- deepen-x 09250317-32: SKIP re-verified 2026-09-25 — fresh ZH+EN grep of works/+articles/ returns only #1197, works index, and the 台灣justice 世衛 article already wikilinked in Role in the Community; no new community material. -->
