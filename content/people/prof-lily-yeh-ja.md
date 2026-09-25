@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-25
 ---
 # Prof. Lily Yeh Ja (葉公杼教授)
 
@@ -52,3 +52,4 @@ Re-grepped 2026-09-24 (slice 09230700-23): hits unchanged (#1907, #33, #315 + in
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+Re-grepped 2026-09-25 (slice 09240700-30): hits unchanged (#1907, #33, #315 + index). SKIP-content (verified-saturated).

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # Miaw Shang Su Lin (林蘇妙香)
 
@@ -43,6 +43,7 @@ The 台美史料中心 March 2021 newsletter reprinted Ken Lee's memorial essay 
 
 Corpus re-check 2026-09-22 (deepen-x slice 09220400-28) and again 2026-09-23 (slice 09221200-31): fresh grep for 林蘇妙香 / Miaw Shang — hits remain only the records already linked above (#290, video #37, #1107, March 2021 newsletter ×2 snapshots; whoswho1032 is a different person, 陳林妙珠); no new memoir/community material. SKIP-deepen.
 - Corpus re-sweep 2026-09-24 (slice 09230700-26): hits remain only #290, video #37, #1107, the works index, and the two TJJ March-2021-newsletter snapshots — all already linked; verified-saturated.
+- Corpus re-sweep 2026-09-25 (slice 09240700-29): hits remain only #290, video #37, #1107, the works index, and the two TJJ March-2021-newsletter snapshots — all already linked; verified-saturated SKIP-deepen.
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

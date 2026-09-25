@@ -41,6 +41,7 @@ last_reviewed: 2026-09-25
 
 ## Corpus review
 
+- Corpus check 2026-09-25 (deepen-x slice 09240700-25): fresh grep works/ + articles/ for Burton Tan/陳柏壽 — identical hit set (whos-who-1663, ourjourneys245, works/index, pew statement, 2021-06-29 TJJ 台文通訊30週年), all already absorbed above. Verified-saturated; SKIP-content.
 - Corpus check 2026-09-24 (deepen-x slice 09230700-23): fresh grep works/ + articles/ for Burton Tan/陳柏壽 — same hit set (whos-who-1663, ourjourneys245, pew statement, works/index, 2021-06-29 TJJ 台文通訊30週年), all already absorbed above. Verified-saturated; nothing new absorbable.
 - Corpus check 2026-09-23 (deepen-x slice 09221300-9): re-grepped — same hits (whos-who-1663, works/index, pew statement), all absorbed. Nothing new.
 - Corpus check 2026-09-22 (deepen-x slice 14): re-grepped works+articles for Burton Tan / 陳柏壽 — hits are whos-who-1663, ourjourneys245, pew-research-center-taiwanese-american-statement, works/index, and the 2021-06-29 TJJ 台文通訊30週年 article — all already absorbed into Role in the Community / From the record above; no new absorbable facts.
