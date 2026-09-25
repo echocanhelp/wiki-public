@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-25
 ---
 # S.I. Tom Tsai (蔡式宜)
 
@@ -35,7 +35,7 @@ last_reviewed: 2026-09-22
 ## Role in the Community
 
 - TAH Who's Who encyclopedia record [[works/taiwaneseamericanhistory-org/whos-tom-tsai|895. S.I. (Tom) Tsai 蔡式宜]] (2016-03-20, band B; corpus copy bibliographic only). His wife [[people/mei-fun-tsai|吳美芬]] has a paired encyclopedia record filed the same day — [[works/taiwaneseamericanhistory-org/whos-who-894-mei-fun-tsai|894. Mei Fun Tsai 吳美芬]] — a double entry in the same encyclopedia batch.
-- No memoir or article in content/works / content/articles names him beyond these records; nothing further absorbable.
+- No memoir or article in content/works / content/articles names him beyond these records; nothing further absorbable. 覆核（DEEPEN-X09231500-31, 2026-09-25）：fresh ZH+EN grep — 僅自身 stub [[works/taiwaneseamericanhistory-org/whos-tom-tsai|895]] 命中 — SKIP。
 
 ## Sources
 - [TAH #895 encyclopedia: 895. S.I. (Tom) Tsai 蔡式宜/ 2016/03](https://taiwaneseamericanhistory.org/whos-tom-tsai/)
