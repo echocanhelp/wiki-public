@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-25
 ---
 # Texas Taiwanese Biotechnology Association (德州台灣生物科技協會)
 
@@ -31,3 +31,4 @@ The Texas Taiwanese Biotechnology Association is a young organization establishe
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+<!-- deepen-x slice 09231000-17 (2026-09-25): SKIP re-verified — fresh grep of works/ + articles/ returns only the records already absorbed on this page; nothing new absorbable. -->

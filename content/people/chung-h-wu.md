@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-25
 ---
 # Chung H. Wu (吳忠修)
 
@@ -58,3 +58,4 @@ HOLD: conflict in romanization — Chung H. Wu (this page, TAH #1347) vs Chung-H
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+<!-- deepen-x slice 09231000-17 (2026-09-25): SKIP re-verified — fresh grep of works/ + articles/ returns only the records already absorbed on this page; nothing new absorbable. -->

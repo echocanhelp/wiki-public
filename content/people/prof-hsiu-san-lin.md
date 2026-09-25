@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-25
 ---
 # Prof.Hsiu-San Lin (林秀三教授)
 
@@ -44,7 +44,7 @@ Assistant to Full Professor of Radiation Oncology
 
 ## Community Record
 - TAH corpus re-grep 2026-09-15, 2026-09-17, and 2026-09-18 (slices 09170200-11, 09170600-29): the only community-side record is his own encyclopedia entry [[works/taiwaneseamericanhistory-org/whoswho1421|1421. Prof. Hsiu-San Lin 林秀三教授 (2016-12)]]; no memoir/bulletin mentions found in works or articles. Press-kit material above remains the sole sourced biography.（再查 slice 09180400-10 2026-09-19：仍僅書目紀錄，無可吸收社群敘事）（再查 slice 09191100-18 2026-09-21：仍僅書目紀錄，無可吸收社群敘事）（再查 slice 09210317-23 2026-09-21：仍僅書目紀錄 [[works/taiwaneseamericanhistory-org/whoswho1421|TAH #1421]]，無可吸收社群敘事）
-- （再查 slice 09220600-19 2026-09-22：語料庫再查僅既存書目／已吸收紀錄，無新增可吸收社群敘事）（再查 slice 09221400-30 2026-09-23：語料庫再查仍僅書目紀錄，無新增可吸收社群敘事，SKIP）
+- （再查 slice 09220600-19 2026-09-22：語料庫再查僅既存書目／已吸收紀錄，無新增可吸收社群敘事）（再查 slice 09221400-30 2026-09-23：語料庫再查仍僅書目紀錄，無新增可吸收社群敘事，SKIP）（再查 slice 09231000-16 2026-09-25：hit set unchanged（僅既存書目 [[works/taiwaneseamericanhistory-org/whoswho1421|TAH #1421]] + works index），verified saturated，SKIP-with-reason stands）
 
 ## Sources
 - [TAH #1421 encyclopedia: 1421. Prof.Hsiu-San Lin  林秀三教授/12/2016](https://taiwaneseamericanhistory.org/whoswho1421/)

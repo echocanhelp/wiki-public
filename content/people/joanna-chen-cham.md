@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-25
 ---
 # Joanna Chen Cham (陳怡玲)
 
@@ -50,3 +50,4 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+<!-- deepen-x 09231000-15: verified-saturated — corpus re-scan (works/articles) fresh 2026-09-25: ZH+EN grep hit set identical to prior passes (own TAH record + already-wikilinked works/index entries only); no new community material. -->

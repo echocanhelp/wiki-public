@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-25
 ---
 # Dr. Chi-chia Hsieh (謝其嘉博士)
 
@@ -56,3 +56,4 @@ _No filled family fields on the TAH profile._
 
 <!-- deepen-x slice 09201503-6 (2026-09-21): SKIP re-verified — corpus grep for 謝其嘉/Chi-chia Hsieh returns only his own record whos-who-2066 plus index listings; no memoir or community-body mentions. Page already saturated with the available corpus facts. -->
 <!-- deepen-x slice 09211500-29 (2026-09-22): SKIP re-verified again — same single corpus hit (own record whos-who-2066); nothing absorbable. -->
+<!-- deepen-x slice 09231000-17 (2026-09-25): SKIP re-verified — fresh grep of works/ + articles/ returns only the records already absorbed on this page; nothing new absorbable. -->

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-25
 ---
 # S. Y. Liu (劉淑媛)
 
@@ -47,3 +47,4 @@ last_reviewed: 2026-09-23
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 <!-- deepen-x 09220700-24: verified-saturated. Corpus re-scan (works/ + articles/) fresh 2026-09-22: hits limited to whos-who-1846 and ourjourneys270, both already wikilinked above; no new community material. -->
 <!-- deepen-x 09221500-31: verified-saturated — corpus re-scan (works/articles) fresh 2026-09-23: hit set identical to prior passes (own TAH record + already-wikilinked works only); no new community material. -->
+<!-- deepen-x 09231000-15: verified-saturated — corpus re-scan (works/articles) fresh 2026-09-25: ZH+EN grep hit set identical to prior passes (own TAH record + already-wikilinked works/index entries only); no new community material. -->
