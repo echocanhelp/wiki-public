@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # Frank M. Hsu (徐民忠)
 
@@ -39,6 +39,8 @@ _No filled family fields on the TAH profile._
 ## Sources
 - [TAH #640 encyclopedia: 640. Frank M. Hsu 徐民忠 / 2015/09](https://taiwaneseamericanhistory.org/whos-frank-m-hsu/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/frank-m-hsu/)
+
+- 複核（deepen-x slice-31, 2026-09-25）：ZH+EN grep 命中集合與既有連結一致（#290 中英版本身著作、#252 EN 會長名錄、#640、及兩件已標 HOLD 之同名者 #335/#1701）— 飽和，無新材料。
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

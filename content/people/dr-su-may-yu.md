@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-17
+last_reviewed: 2026-09-25
 ---
 # Dr. Su-May Yu (余淑美博士)
 
@@ -38,6 +38,8 @@ _No filled family fields on the TAH profile._
 ## Sources
 - [TAH #2045 encyclopedia: 2045. Dr. Su-May Yu 余淑美博士](https://taiwaneseamericanhistory.org/whos-who-2045-su-may-yu/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-su-may-yu/)
+
+- 複核（deepen-x slice-31, 2026-09-25）：再 grep 僅見本身 TAH #2045 出處頁及 works index，無新語料 — SKIP。
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
