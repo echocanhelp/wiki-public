@@ -31,6 +31,8 @@ C. B. Ku (辜澄彬) is listed in the TAH Foundation Who’s Who Taiwanese Ameri
 - 1983-11-23: at the 台灣會館建館委員會's first executive committee meeting (held at 賴弘典醫師's office), 辜澄彬 chaired the meeting; the committee elected 陳隆豐 as 主任委員 and 辜澄彬 (with 蔡明峰) as 副主委, and 辜澄彬 took charge of the 地點工程組 (site & construction). The committee set a goal of raising $500,000 within six months; 黃武東牧師 was engaged as advisor.
 - Corpus profile record: [[works/taiwaneseamericanhistory-org/whoswho1039|1039. C. B. Ku 辜澄彬]] (TAH Who's Who, 2016/05); 辜澄彬 is also listed as a subject of the 華府台灣同鄉會四十週年特刊 record [[works/taiwaneseamericanhistory-org/publications1039|1039. 華府台灣同鄉會四十週年特刊]] (2008/11).
 
+- Corpus re-grep 2026-09-25 (slice 09231200-11): hits re-verified — the 黃再添 memoir excerpt ([[works/taiwaneseamericanhistory-org/ourjourneys09|9. 第一聲號角]]) confirming the 1983-11-23 chairmanship, 副主委 and 地點工程組 roles matches the text above verbatim; no other named-subject material. Verified saturated.
+
 ## Sources
 - [TAH #1039 encyclopedia: 1039. C. B. Ku 辜澄彬 / 2016/05](https://taiwaneseamericanhistory.org/whoswho1039/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/c-b-ku/)
