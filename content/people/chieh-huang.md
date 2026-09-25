@@ -48,3 +48,4 @@ Corpus records for Chieh Huang are limited to his own TAH Who's Who entry; no me
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- Corpus re-grep 2026-09-25 (deepen-x slice 09231200-13): hit set identical to prior passes (own TAH record + works index only); no community-authored material to absorb (verified-saturated, SKIP).

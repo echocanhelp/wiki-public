@@ -43,3 +43,4 @@ _No filled family fields on the TAH profile._
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 <!-- deepen-x 09210831-19: re-verify — hit set (ourjourneys245, whos-who-1480) already absorbed; false-positive greps (Kuo-Ming-Tang etc.) reconfirmed. -->
+- Corpus re-grep 2026-09-25 (deepen-x slice 09231200-13): hit set identical to prior passes (own TAH record + works index only); no community-authored material to absorb (verified-saturated, SKIP). (false-positive greps like Kuo-Ming-Tang reconfirmed.)
