@@ -27,6 +27,7 @@ North America Taiwanese Women’s Association – Greater San Diego Chapter is a
 - Corpus mentions of NATWA disaster relief (e.g. the 2017 Hurricane Harvey Relief Fund joint donation of $21,090) concern NATWA as a whole / the Houston chapter, not the San Diego chapter specifically.
 - The chapter sits inside a dated San Diego Taiwanese chapter network that the corpus documents chapter-by-chapter: its sibling records [[works/taiwaneseamericanhistory-org/10-california-san-diego-chapter-fapa|10. FAPA 台灣人公共事務會聖地牙哥分會]] and [[works/taiwaneseamericanhistory-org/san-diego-chapter-tap|9. TAP 台美菁英協會聖地牙哥分會]] hold their own TAH story entries alongside NATWA-GSD's.
 - Corpus re-grep 2026-09-24 (slice 09230500-26): fresh grep of works+articles for 聖地牙哥分會 / Greater San Diego Chapter returns the chapter's two own records (story #5, 2019 活動), the 2018 March for Our Lives credit, and the sibling FAPA/TAP San Diego chapter records (now cross-linked above). No new chapter-specific facts; verified saturated.
+- Corpus re-grep 2026-09-25 (slice 09240500-14): SKIP — hit set unchanged (story #5 natwa-san-diego-chapter, activities-of-natwa-gsd, sibling FAPA/TAP San Diego records, works index); no new chapter-specific material to absorb; verified saturated.
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/north-america-taiwanese-womens-association-greater-san-diego-chapter/)

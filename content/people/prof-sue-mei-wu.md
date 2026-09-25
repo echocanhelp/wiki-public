@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # Prof. Sue-Mei Wu (吳素美教授)
 
@@ -50,3 +50,4 @@ TAH Foundation 於 2017-07-30 將其列入台美人 Who's Who 檔案並入檔 [[
 - Re-verified 2026-09-22 (slice 09211500-15): corpus re-grep 吳素美/Sue-Mei Wu matches only TAH #1810 + index; nothing absorbable.
 - Re-verified 2026-09-23 (slice 09220900-32): corpus re-grep again matches only TAH #1810 + index; no memoir or event mention of 吳素美; nothing absorbable.
 - Re-verified 2026-09-24 (slice 09230400-25): corpus re-grep 吳素美/Sue-Mei Wu matches only TAH #1810 + index; no memoir or event mention; nothing absorbable. SKIP: page saturated.
+- Re-verified 2026-09-25 (slice 09240500-24): corpus re-grep again matches only TAH #1810 + index; nothing absorbable. SKIP: page saturated.

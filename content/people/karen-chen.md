@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # Karen Chen (陳楷雯)
 
@@ -41,6 +41,8 @@ Track of her coverage in the TAH community archive:
 - 2026-09-22 re-grep (deepen-x slice 09212352-15): fresh grep (陳楷雯／Karen Chen, works+articles) hits confined to the already-linked records (TAH #2/#240/#313/#1486/#1988, #823, #1204) — no new absorbable facts; existing HOLD kept, no dates merged.
 - 2026-09-23 re-grep (slice 09221000-12): fresh grep (陳楷雯／Karen Chen, works+articles) hits confined to the already-linked records; the extra hit whos871 (Michellee Shaw Chen) is a different person. No new absorbable facts; existing HOLD kept, no dates merged.
 - 2026-09-24 re-grep (slice 09230500-24): fresh grep (陳楷雯／Karen Chen, works+articles) hit set unchanged (TAH #2/#240/#1486/#1988, #823, #1204). Verified saturated — SKIP, no new absorbable facts; existing HOLD kept.
+- **2015-10-22** — program/feature page for her U.S. Figure Skating Championships performances (2015, 2017) held in the corpus as a bibliographic record ([[works/taiwaneseamericanhistory-org/fp-u-s-figure-skating-championships-karen-chen|TAH #3]]); full text stays at TAH.
+- 2026-09-25 re-grep (slice 09240500-18): fresh grep (陳楷雯／Karen Chen, works+articles) — only new hit vs prior rounds is the TAH #3 bibliographic record now linked above; no narrative text to absorb, no new dates; existing HOLD kept.
 
 ## Family
 

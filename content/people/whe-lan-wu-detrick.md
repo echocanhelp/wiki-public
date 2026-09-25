@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # Whe-Lan Wu Detrick (迪惠蘭)
 
@@ -44,6 +44,7 @@ last_reviewed: 2026-09-24
 - Corpus re-grep 2026-09-22 (slice 09211500-16) and 2026-09-23 (slice 09220900-30): hit set unchanged — same absorbed set (78, 296 ZH+EN, 1535, Pew statement, index); the only new hit is an unrelated 2025 news article's Fort Detrick (狄翠克堡) military-base mention, not this person. SKIP: page saturated.
 - HOLD: TAH's own records spell her given name three ways across entries — Whe-Lan / Whelan / Whenlan; left unmerged pending owner-confirmed spelling.
 - Corpus re-grep 2026-09-24 (slice 09230400-25): hit set unchanged — same absorbed set (78, 296 ZH+EN, 1535, Pew statement "Whelan and John Detrick, East Bay Taiwanese Association", works index); nothing new absorbable. SKIP: page saturated; three-spelling HOLD stands.
+- Corpus re-grep 2026-09-25 (slice 09240500-22): hit set unchanged — same absorbed set (78, 296 ZH+EN, 1535, Pew statement, works index); nothing new absorbable. SKIP: page saturated; three-spelling HOLD (Whe-Lan / Whelan / Whenlan) stands.
 
 ## Sources
 - [TAH #78 encyclopedia: 78. Collection of Whenlan Detrick 迪惠蘭](https://taiwaneseamericanhistory.org/78-collection-of-whenlan-detrick/)

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # Ai-Jen Poo (蒲艾真)
 
@@ -51,3 +51,4 @@ last_reviewed: 2026-09-24
 - Re-grep 2026-09-22 (slice 09211500-25): re-confirmed — hit set unchanged (own TAH #2040 record + index only); verified-saturated, SKIP-with-reason.
 - Re-grep 2026-09-23 (slice 09221000-22): fresh grep returns own TAH #2040 record + index; the already-linked interview [[works/taiwaneseamerican-org/ai-jen-poo-inspiring-across-generations|Ai-jen Poo: Inspiring Across Generations]] uses 'Ai-jen' capitalization and is invisible to the case-sensitive grep pattern but is already absorbed above. Verified-saturated, SKIP-with-reason.
 - Re-grep 2026-09-24 (slice 09230500-29): fresh grep returns own TAH #2040 record + index only; hit set unchanged. Verified-saturated, SKIP-with-reason.
+- Re-grep 2026-09-25 (slice 09240500-23): fresh ZH+EN grep returns own TAH #2040 record + index only; hit set unchanged. Verified-saturated, SKIP-with-reason.

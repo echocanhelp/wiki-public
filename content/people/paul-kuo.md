@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # Paul Kuo (郭博修)
 
@@ -42,6 +42,7 @@ _No filled family fields on the TAH profile._
 - Held as both an artist file (#27) and a Who's Who encyclopedia entry (#276, 2015-02) in the TAH corpus — [[works/taiwaneseamericanhistory-org/artist27-paul-kuo|27. 郭博修 Paul Kuo]], [[works/taiwaneseamericanhistory-org/whos276-paul-kuo|276. Paul Kuo 郭博修, 2015/02]].
 - 2021-05 — signatory of the community response to Pew Research reports hiding Taiwanese identity ("We made it count. Now tell our stories."), listed among the movement figures endorsing the statement — [[works/taiwaneseamerican-org/pew-research-center-taiwanese-american-statement|Response to Pew Research Reports Hiding Taiwanese Identity]].
 - Re-verified 2026-09-24 (deepen-x slice 09230400-27): fresh ZH+EN re-grep (郭博修|Paul Kuo) across works/+articles/ — hit set identical to records already linked above (artist file #27, Who's Who #276, 1996 Phoenix 個展, 1998 Alhambra 畫展, Pew response, works index); no new community material. SKIP: saturated.
+- Re-verified 2026-09-25 (deepen-x slice 09240500-23): fresh ZH+EN re-grep — hit set identical (#27, #276, #497, art-show-13, Pew response, index). Verified-saturated, SKIP-with-reason.
 
 ## Sources
 - [TAH #276 encyclopedia: 276. Paul Kuo 郭博修, 2015/02](https://taiwaneseamericanhistory.org/whos276-paul-kuo/)

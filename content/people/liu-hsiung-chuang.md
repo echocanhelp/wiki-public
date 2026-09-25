@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # Liu-Hsiung Chuang (莊六雄博士)
 
@@ -56,3 +56,4 @@ HOLD: 通訊錄將他列於 Utah，Who's Who 傳記頁與現職（USDA、IDDS �
 > Saturate-note (deepen-x slice 09211500-22, 2026-09-22): re-grep ZH+EN again returned the identical hit set (ourjourneys-138 會長名單 1981, ourjourneys58 Utah 通訊錄, TAH #792, TJJ 2018-07-20 台大經濟系連署, index); verified-saturated.
 > Saturate-note (deepen-x slice 09221000-15, 2026-09-23): re-grep ZH+EN again returned the identical hit set; no new absorbable corpus facts.
 > Saturate-note (deepen-x slice 09230500-31, 2026-09-24): re-grep ZH+EN returned the identical hit set (ourjourneys-138, ourjourneys58, TAH #792, TJJ 2018-07-20, index); verified-saturated.
+> Saturate-note (deepen-x slice 09240500-24, 2026-09-25): re-grep ZH+EN returned the identical hit set; no new absorbable corpus facts; verified-saturated.
