@@ -36,7 +36,7 @@ last_reviewed: 2026-09-22
 
 ## Role in the Community
 - Profiled in the TAH Who's Who record [[works/taiwaneseamericanhistory-org/whoswho1529|1529. Alan Su 蘇德源]] (published 2017-02-26).
-- Corpus scan (works/articles) found no memoir or essay mentions beyond his own Who's Who record; recorded roles: engineer (NYU, Stevens; Bankers Trust), educator, from 嘉義, spouse 林綉娟.
+- Corpus scan (works/articles) found no memoir or essay mentions beyond his own Who's Who record; recorded roles: engineer (NYU, Stevens; Bankers Trust), educator, from 嘉義, spouse 林綉娟. Re-verified 2026-09-25 (slice 09232337-11): fresh grep again found only the own Who's Who record and index co-listings.
 
 ## Timeline
 - 2017-02-26 — TAH Who's Who record published

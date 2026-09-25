@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-25
 ---
 # H. H. Chen (陳惠華)
 
@@ -33,7 +33,7 @@ Accomplishment
 _No filled family fields on the TAH profile._
 
 ## Role in the Community
-- SKIP note (2026-09-22 re-verified): corpus grep matched only the own-profile record [[works/taiwaneseamericanhistory-org/whos-who-1903-h-h-chen|TAH #1903, 2017-09-20]]; no memoir/article material beyond the existing TAH snapshot (4A founding already recorded).
+- SKIP note (2026-09-25 re-verified; first 2026-09-22): corpus grep matched only the own-profile record [[works/taiwaneseamericanhistory-org/whos-who-1903-h-h-chen|TAH #1903, 2017-09-20]]; no memoir/article material beyond the existing TAH snapshot (4A founding already recorded).
 
 ## Sources
 - [TAH #1903 encyclopedia: 1903. H. H. Chen 陳惠華](https://taiwaneseamericanhistory.org/whos-who-1903-h-h-chen/)

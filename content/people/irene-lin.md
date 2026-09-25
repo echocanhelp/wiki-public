@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-25
 ---
 # Irene Lin (林晃宇)
 
@@ -36,6 +36,7 @@ Irene Lin; Special Assistant for Rural Housing., portrait. USDA photo by Ken Ham
 _No filled family fields on the TAH profile._
 
 ## Role in the Community
+- SKIP note (2026-09-25 re-verified): fresh ZH+EN corpus grep matched only the own-profile record [[works/taiwaneseamericanhistory-org/whoswho1283|1283. Irene Lin 李晃宇 / 2016/09]] and the works index; no memoir/article material.
 - Carried in the TAH Who's Who corpus as [[works/taiwaneseamericanhistory-org/whoswho1283|1283. Irene Lin 李晃宇 / 2016/09]] (published 2016-09-22, bibliographic record).
 - HOLD: conflict — the corpus record registers her as 李晃宇 (surname 李) while this page and the TAH person slug carry 林晃宇 (surname 林); not auto-merged pending owner confirmation.
 

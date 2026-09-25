@@ -7,7 +7,8 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-25
+<!-- deepen-x slice 09232337-14: SKIP re-verified 2026-09-25 — fresh ZH+EN grep of works/articles: only own TAH stub + works/index -->
 # deepen-x slice 09210920-26: SKIP re-verified 2026-09-22 — corpus hit is only own TAH #940 stub (band B, bibliographic only)
 ---
 # Shawn Lu (呂紹翔)
