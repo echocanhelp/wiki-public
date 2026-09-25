@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-25
 ---
 # David Hsieh (謝漢強)
 
@@ -24,6 +24,7 @@ last_reviewed: 2026-09-21
 ## Role in the Community
 - Received the Presidential Early Career Award for Scientists and Engineers (PECASE, 青年科學家與工程師總統獎) in 2017 — recorded in the TAH award corpus at [[works/taiwaneseamericanhistory-org/35-presidential-early-career-award-for-scientists-and-engineers-david-hsieh|35. PECASE / David Hsieh 謝漢強 / 2017]].
 - Encyclopedia profile record: [[works/taiwaneseamericanhistory-org/whoswho1491|1491. David Hsieh 謝漢強 / 2017/01]].
+- Corpus re-verified 2026-09-25 (ZH+EN greps over works/ + articles/): corpus footprint is his own award record #35, profile #1491, and the works index — no memoir mentions by other authors to absorb.
 
 <!-- tah-tables:start -->
 ## Education

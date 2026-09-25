@@ -22,7 +22,7 @@ The Georgetown Taiwanese American Student Association (TASA) is a student organi
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/georgetown-taiwanese-american-student-association/)
 
 ## Corpus scan note (2026-09-18)
-SKIP-deepen: no corpus mentions. All "Georgetown" hits in works/articles are unrelated (a Georgetown University Press book, journalist enrolled at Georgetown, and Georgetown, Guyana) — nothing absorbable about this student association. Re-verified 2026-09-21 (deepen-x slice 22) and 2026-09-22 (slice 29): same — no hit names this TASA.
+SKIP-deepen: no corpus mentions. All "Georgetown" hits in works/articles are unrelated (a Georgetown University Press book, journalist enrolled at Georgetown, and Georgetown, Guyana) — nothing absorbable about this student association. Re-verified 2026-09-21 (deepen-x slice 22), 2026-09-22 (slice 29), and 2026-09-25 (slice 09231500-10): same — no hit names this TASA (hits are an unrelated Georgetown journalist, Georgetown, Texas, a Georgetown University Press book, and Georgetown, Guyana).
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

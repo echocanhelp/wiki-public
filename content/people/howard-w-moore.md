@@ -32,7 +32,7 @@ last_reviewed: 2026-09-25
 
 - Served as a missionary pastor with Taiwan Friends Mission from 1954 to 1998, a 44-year ministry connected to the Taiwanese community in Michigan (Ypsilanti area).
 - His TAH Foundation Who's Who profile is preserved in the corpus as encyclopedia entry #1964: [[works/taiwaneseamericanhistory-org/whos-howard-moore|1964. Howard W. Moore 慕維德 /12/2017]].
-- No memoir or first-person movement records found in the corpus beyond the TAH profile itself; the bibliographic record is the community record held for him.
+- No memoir or first-person movement records found in the corpus beyond the TAH profile itself; the bibliographic record is the community record held for him. Re-verified 2026-09-25 (deepen-x 09231500-13): fresh ZH+EN greps of content/works + content/articles return only [[works/taiwaneseamericanhistory-org/whos-howard-moore|TAH #1964]] and the works index; page saturated, SKIP-with-no-new-material.
 
 ## Family
 
