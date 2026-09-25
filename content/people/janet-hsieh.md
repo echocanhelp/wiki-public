@@ -44,6 +44,7 @@ last_reviewed: 2026-09-25
 - Re-verified 2026-09-21 (slice 09201400-23): SKIP-with-reason — hit set unchanged (TAH #915, the two TaiwaneseAmerican.org features, works index, TJJ 2025 零日攻擊 record); all already absorbed; verify-saturated.
 - Re-verified 2026-09-22 (slice 09220800-25): fresh grep re-run returned the identical hit set (TAH #915, two TaiwaneseAmerican.org features, works index, TJJ 2025 record). SKIP: no new corpus material.
 - Re-verified 2026-09-24 (deepen-x slice-09230317-24): fresh grep 謝怡芬 / Janet Hsieh returned the identical hit set (TAH #915, two TaiwaneseAmerican.org features, works index, TJJ 2025 record) — all absorbed above. SKIP (saturated).
+- Re-verified 2026-09-25 (deepen-x slice 09240317-27): fresh grep 謝怡芬 / Janet Hsieh returned the identical hit set (TAH #915, two TaiwaneseAmerican.org features, works index, TJJ 2025 零日攻擊 record) — all absorbed above. SKIP (saturated).
 
 
 ## Sources
