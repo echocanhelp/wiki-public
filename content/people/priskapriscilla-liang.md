@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # Priska Priscilla Liang
 
@@ -38,6 +38,7 @@ Priska appears throughout the TAHS-preserved Taiwanese American music scene reco
 - 2nd-generation Taiwanese American, grew up in and around the LA area; proud of her heritage (per the 2012 band-A interview).
 - Corpus re-check 2026-09-22 and 2026-09-23 (slice 09221300-32): fresh greps of content/works + content/articles return only the TA.org / TAH records already linked above — no memoir or third-party community text, so nothing new absorbed; verified-saturated.
 - Corpus re-check 2026-09-24 (slice 09230800-32): fresh grep (Priska / Priscilla Liang) hit set unchanged (whoswho1306, musician368, the three TA.org performance/podcast records, works index) — nothing new absorbable; SKIP-with-reason, verified-saturated.
+- Corpus re-check 2026-09-25 (slice 09240800-24): fresh grep (Priska／Priscilla Liang) — hit set unchanged (whoswho1306, musician368, the three TA.org performance/podcast records, works index) — all linked above; nothing new absorbable. Verified-saturated. SKIP.
 
 ## Family
 

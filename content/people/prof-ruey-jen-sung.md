@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # Prof. Ruey-Jen Sung (宋瑞珍教授)
 
@@ -37,6 +37,7 @@ last_reviewed: 2026-09-24
 - **TA Archives 紀錄（2024）** — The TA Archives newsletter record [[articles/taiwanjustice-net/2024/20240527043145_root_be93ba8c8bbbbb41|台美史料中心 2024-04 近期刊文]] adds: arrived in the US from Taiwan in 1969; tenured (終身) professor at Stanford from 1991; NCKU Medical College dean 2001–2007; Chair Professor of Life Science at National Central University for five years; one of the founders of the Heart Rhythm Society; fellow of ACP (FACP), ACC (FACC), AHA (FAHA) and HRS (FHRS).
 
 - 複核（deepen-x slices 09201400→09230900-2，至 2026-09-24）：历次 re-grep 宋瑞珍 / Ruey-Jen Sung 命中集均不變（Our Journeys 142、#1755、#9 返台記錄、TA Archives 2024-04 刊文、works index）— 全數已吸收於上列條目，saturated，SKIP-with-reason，無新社群材料可吸收。
+- 複核（deepen-x slice 09240900-1, 2026-09-25）：re-grep 宋瑞珍|Ruey-Jen Sung 命中集不變（ourjourneys142、#1755、#9、TA Archives 2024-04、index）— SKIP：已飽和，全數已 wikilink，無新材料。
 
 ## Family
 

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # David J. Lu (盧焜熙)
 
@@ -42,6 +42,7 @@ PhD, International Law and International Relations
 - No memoir/community narrative found in content/works or content/articles beyond these two records (a "David Luck" in a Slackwood Church memoir is a different person, not linked). Re-grepped slice 09220600-11 (2026-09-22): hits confined to the two records above plus the works index; both bibliographic-only (band B), nothing new absorbable.
 - Corpus re-check 2026-09-23 (slice 09221400-21): fresh grep 盧焜熙/David J. Lu/David Lu returns only the two records already wikilinked above plus works/index — verified saturated, SKIP-no-new-facts.
 - Corpus re-check 2026-09-24 (slice 09230900-10): fresh grep again returns the two linked records, works/index, and the Slackwood/聖恩教會 memoir in [[works/taiwaneseamericanhistory-org/ourjourneys43|Our Journeys 43]] — the "David Luck (Kingston Church)" there is confirmed a different person (PCSA New Jersey church-plant committee member, 1999), not Lu. SKIP-no-new-facts.
+- Corpus re-check 2026-09-25 (slice 09240900-4): fresh grep 盧焜熙/David J. Lu/David Lu returns the same set — the two wikilinked band-B records (109, 590), works/index, and the Our Journeys 43 memoir, where "David Luck (Kingston Church)" again reads as the PCSA 新澤西中會『新教會發展委員會』member (1999, Fletcher 牧師任主席), not Lu. Verified saturated; SKIP-no-new-facts.
 
 ## Family
 

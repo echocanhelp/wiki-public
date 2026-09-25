@@ -6,7 +6,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # 陳昭俊博士
 
@@ -57,3 +57,4 @@ _No filled family fields on the TAH profile._
  Slice deepen-x-slice-09220700-5 (2026-09-22): re-grep 陳昭俊 — hit set identical (374, ourjourneys231 ±EN, three taiwanjustice articles); all already wikilinked, HOLD maintained; SKIP — saturated.
  Slice deepen-x-slice-09221500-5 (2026-09-23): re-grep 陳昭俊 — hit set identical (374, ourjourneys231 ±EN, three taiwanjustice articles, index catalog rows); all already wikilinked, HOLD (C.C. Chen / Tokyo obstetrician) maintained; SKIP — saturated.
  Slice deepen-x-slice-09230900-3 (2026-09-24): re-grep 陳昭俊 — hit set identical (374, ourjourneys231 ±EN, taiwanjustice articles, index catalog rows); already wikilinked, HOLD maintained; SKIP — saturated.
+ Slice deepen-x-slice-09240900-1 (2026-09-25): re-grep 陳昭俊 ±EN — hit set identical (374, ourjourneys231 ±EN, three taiwanjustice articles, index catalog rows); all already wikilinked, HOLD (C.C. Chen / Tokyo obstetrician) maintained; SKIP — saturated.

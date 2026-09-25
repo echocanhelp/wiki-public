@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # Emma Chen (陳怡邁)
 
@@ -29,6 +29,7 @@ Accomplishment
 - Corpus re-grep 2026-09-22 (slice 09220600-27): fresh grep returns the same three TAH records ([[works/taiwaneseamericanhistory-org/award-emma-chen|award]], [[works/taiwaneseamericanhistory-org/216-emma-chen|216]], [[works/taiwaneseamericanhistory-org/whos-who-2179-emma-chen|2179]]), the index, and the context-free Pew credit line only — no memoir material to absorb.
 - Corpus re-grep 2026-09-23 (slice 09221400-15): fresh grep returns the identical set — three TAH records, index rows, and the context-free Pew credit line only. Verified-saturated; SKIP-deepen (nothing absorbable).
 - Corpus re-grep 2026-09-24 (slice 09230900-8): identical hit set (award, 216, 2179, index, Pew credit line) — no new memoir material. SKIP persists.
+- Corpus re-grep 2026-09-25 (slice 09240900-6): identical hit set again — SKIP persists.
 
 <!-- tah-tables:start -->
 ## Education

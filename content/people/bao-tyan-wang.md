@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # Bao-Tyan Wang (王寶田博士)
 
@@ -53,6 +53,7 @@ last_reviewed: 2026-09-24
 - In the 第14回世界台灣文化論壇 online gathering (布袋戲kap歌仔戲文學ê人生智慧), he was interviewed alongside 郭月霞長老娘 on modern 歌仔戲, alongside San Diego 台灣教會 pastor-led program and 劉曉亭牧師's testimony — community engagement in Taiwanese performing-arts culture beyond his scientific career ([[articles/taiwanjustice-net/2022/20220521165415_2021_12_31_第14回世界台灣文化論壇_布袋戲kap歌仔戲文學e人生_08cd200c3a58e6b7|TJJ record]]).
 - Corpus re-check 2026-09-22: fresh grep of works/articles returns only the TAH #282 encyclopedia record and the 第14回世界台灣文化論壇 TJJ articles (all already absorbed) — no new community facts.
 - Corpus re-check 2026-09-24 (slice 09230900-7): grep 王寶田|Bao-Tyan Wang 重命中僅 TAH #282 書目、第14回世界台灣文化論壇 TJJ 文章×2、works index——與已吸收紀錄完全一致，無新材料，維持飽和。
+- Corpus re-check 2026-09-25 (slice 09240900-3): fresh grep 王寶田|Bao-Tyan Wang re-hits only TAH #282 書目、第14回世界台灣文化論壇 TJJ 文章×2、works index——與已吸收紀錄完全一致，維持飽和，無新材料。
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

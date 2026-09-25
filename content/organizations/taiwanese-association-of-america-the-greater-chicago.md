@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # Taiwanese Association of America the Greater Chicago (大芝加哥台灣同鄉會)
 
@@ -34,6 +34,7 @@ Taiwanese Association of America the Greater Chicago (大芝加哥台灣同鄉�
 - 複核（deepen-x slice 09211300-7，2026-09-22）：re-grep 大芝加哥台灣同鄉會 / Greater Chicago 命中集不變（ourjourneys76 / -eng、our-journeys-378、publications1331、greater-chicago-chapter-taa、鄉訊 newsletter、TPC Greater Chicago）— 全數已吸收於 Role in the Community，saturated，SKIP，無新社群材料可吸收。
 - 複核（deepen-x slice-09221500-5, 2026-09-23）：re-grep 大芝加哥台灣同鄉會 / Greater Chicago 命中集不變 — 全數已吸收於 Role in the Community，saturated，SKIP，無新回憶錄材料可吸收。
 - 複核（deepen-x slice-09230900-3, 2026-09-24）：re-grep 大芝加哥台灣同鄉會 / Greater Chicago 命中集不變（ourjourneys76 ±EN、publications1331、greater-chicago-chapter-taa、鄉訊、TPC Greater Chicago）— saturated，SKIP，無新材料。
+- 複核（deepen-x slice 09240900-1, 2026-09-25）：re-grep 大芝加哥台灣同鄉會 / Greater Chicago 命中集不變（ourjourneys76 ±EN、our-journeys-378、publications1331、greater-chicago-chapter-taa、鄉訊、TPC Greater Chicago）；僅新增兩個 Greater Chicago 撞名命中（#5 芝加哥台美商會、#46 芝城台灣音樂會 by 芝城台灣社區教會）屬鄰邊機構記錄，非本章會材料 — saturated，SKIP。
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-association-of-america-the-greater-chicago/)

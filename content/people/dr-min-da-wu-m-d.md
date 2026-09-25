@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # Dr. Min-Da Wu M.D. (吳明達)
 
@@ -40,6 +40,7 @@ last_reviewed: 2026-09-24
 - HOLD: conflict — 前述回忆录语境指向真理大学校长吴明达，与本页 TAH 档案医师／教授（台大医学系1964、威斯康辛／柏克莱／多伦多经历）是否同一人未确认，不并档。
 - （再查 slice 09220600-19 2026-09-22：語料庫再查僅既存書目／已吸收紀錄，無新增可吸收社群敘事）
 - 再核（deepen-x slice 09230900-6, 2026-09-24）：fresh grep 僅既存 158 書目頁、TJJ 二文（均已著錄）、index；SKIP — 無新增可吸收事實，真理大學同名人 HOLD 維持。
+- 再核（deepen-x slice 09240900-4, 2026-09-25）：fresh grep 命中集不變（158 書目頁、TJJ 2021-01-12 張良澤一文、TJJ/CNA 2021-03-05 吳修銘一文、index）。張良澤回忆原文細節已在庫：吳明達任內與繼任校長林文昌均親赴麻豆巡視台文館，2018 陳奇銘接任後預算遭砍光 — 惟該语境仍屬真理大學校長同名人，與本页 TAH 醫師／教授档案的 HOLD 冲突旗標維持，不并档。SKIP — 無新增可吸收事實。
 
 ## Sources
 - [TAH #154 encyclopedia: 154. Dr. Min-Da Wu 吳明達 M.D.](https://taiwaneseamericanhistory.org/158-dr-min-da-wu-%e5%90%b3%e6%98%8e%e9%81%94-m-d/)

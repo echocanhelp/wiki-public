@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # H. Y. Chen (陳弘毅)
 
@@ -42,6 +42,7 @@ _No filled family fields on the TAH profile._
 
 - Corpus re-grep 2026-09-23 (slice 09221400-16): identical hit set — self-entry whoswho1669, the 1967 directory memoir ourjourneys58 (Kansas listing 「Kansas : 陳弘毅、胡啓年」), the name-shape caution whoswho1888, index, plus the two TJJ HK-law articles already held above. Saturated — no new facts absorbable, no conflicts beyond the documented HOLDs.
 - Corpus re-grep 2026-09-24 (slice 09230900-6): identical hit set (whoswho1669/1888, ourjourneys58, index, the 2 TJJ HK-law HOLD articles). SKIP — saturated, no new facts.
+- Corpus re-grep 2026-09-25 (slice 09240900-3): identical hit set (whoswho1669/1888, ourjourneys58, index, the 2 TJJ HK-law HOLD articles). SKIP — saturated, no new facts, existing HOLDs unchanged.
 ## Sources
 - [TAH #1669 encyclopedia: 1669. H. Y. Chen 陳弘毅 / 05/2017](https://taiwaneseamericanhistory.org/whoswho1669/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/h-y-chen/)

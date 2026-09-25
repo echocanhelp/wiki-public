@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # Suing Wang (王淑英)
 
@@ -46,6 +46,7 @@ last_reviewed: 2026-09-24
 ## Corpus check (2026-09-23 / 2026-09-24)
 - Idempotent re-verify (slices 09220500-12, 09221300-23): fresh grep — hit set (#155, publication944, publication945, #842, works index) fully linked above; no new absorbable corpus facts. SKIP.
 - Re-verify 2026-09-24 (slice 09230800-29): fresh grep (王淑英／Suing Wang) — hit set identical to the four linked works + index; nothing new absorbable. verified-saturated.
+- Re-verify 2026-09-25 (slice 09240800-24): fresh grep (王淑英／Suing Wang) — hit set identical (publication944, publication945, #155, #842, works index); all linked above; nothing new absorbable. Verified-saturated. SKIP.
 
 ## Sources
 - [TAH #842 encyclopedia: 842. Suing Wang 王淑英 / 2016/02](https://taiwaneseamericanhistory.org/842-suing-wang-%e7%8e%8b%e6%b7%91%e8%8b%b1-201602/)

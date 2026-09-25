@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # Debbie Carlson
 
@@ -52,3 +52,4 @@ _No filled family fields on the TAH profile._
 > Corpus re-scan 2026-09-22 (deepen-x slice 09220500-27): fresh grep again — hit set unchanged (own records + works index only). SKIP stands.
 > Corpus re-scan 2026-09-23 (deepen-x slice 09221400-13): fresh grep again — hit set unchanged (own records + works index only). SKIP stands.
 > Corpus re-scan 2026-09-24 (deepen-x slice 09230800-31): fresh grep again — hit set unchanged (own records 37-debbie-carlson201504, whoswho1026 + works index only). SKIP stands.
+> Corpus re-scan 2026-09-25 (deepen-x slice 09240800-27): fresh grep again — hit set unchanged (own records 37-debbie-carlson201504, whoswho1026 + works index only). SKIP stands.
