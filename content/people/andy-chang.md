@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # Andy Chang (張繼昭博士)
 
@@ -42,7 +42,7 @@ _No filled family fields on the TAH profile._
 - His Who's Who entry is held as its own record: [[works/taiwaneseamericanhistory-org/whoswho1442|1442. Andy Chang 張繼昭 / 2016/12]].
 - Recognized as a movement speaker: listed among the 台美人著名學者 (with 郭正昭 and 王文隆) invited to the UFAI 台灣人大會 in [[works/taiwaneseamericanhistory-org/ourjourneys260|Our Journeys #260]], and later lecturer on 台灣國際外交突破 at the 長青教室 ([[works/taiwaneseamericanhistory-org/ourjourneys107|Our Journeys #107]]).
 - Community organizing beyond commentary: listed as TAP (Taiwanese American Professionals, SoCal) Officer at Large Andy Chang (andy.chang-chien@tacl.org), contact for the TAP 社區發展組 LA River clean-up event — [[works/taiwaneseamerican-org/tap-community-service-for-la-river-clean-up|TAP 社區服務：LA River _clean-up (2011-04-30)]].
-- Corpus re-grep 2026-09-20 (DEEPEN-X slice 09191000-18), re-run 2026-09-21 (DEEPEN-X slice 09210051-4), 2026-09-22 (DEEPEN-X slice 09212352-25), 2026-09-23 (DEEPEN-X slice 09221300-12) and 2026-09-24 (DEEPEN-X slice 09230700-4): hit set = his own essay records (publications 174 / 205 / 1050 / 1051), whoswho1442, the two Our Journeys records already cited, the TJJ tag page, plus the TAP LA River clean-up notice above (absorbed this pass); no additional memoir narrative found.
+- Corpus re-grep 2026-09-20 (DEEPEN-X slice 09191000-18), re-run 2026-09-21 (DEEPEN-X slice 09210051-4), 2026-09-22 (DEEPEN-X slice 09212352-25), 2026-09-23 (DEEPEN-X slice 09221300-12), 2026-09-24 (DEEPEN-X slice 09230700-4) and 2026-09-25 (DEEPEN-X slice 09240700-5): hit set = his own essay records (publications 174 / 205 / 1050 / 1051), whoswho1442, the two Our Journeys records already cited, the TJJ tag page, plus the TAP LA River clean-up notice above (absorbed); no additional memoir narrative found — verified-saturated.
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/andy-chang/)
