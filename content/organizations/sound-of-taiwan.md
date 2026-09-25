@@ -6,7 +6,7 @@ tags:
   - Taiwanese-American
   - Taiwan-Center-group-member
 verification_status: published
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-25
 ---
 # Sound Of Taiwan
 
@@ -25,6 +25,7 @@ last_reviewed: 2026-09-22
 - **Hub:** [[sources/taiwancenter-org||taiwancenter.org]]  
 - **Content priority C:** Independent history not expanded from listing alone  
 - **Disambiguation (deepen-x 2026-09-20):** The only corpus title match is [[works/taiwaneseamericanhistory-org/concerts10|TAH — 10. The Sound of Taiwan (台灣旋律演奏會) by TAA of the Capital District, 2006]] — a Chinese-title-mismatch (台灣旋律 vs 台灣之歌) concert record by a New York State group, not this LA choir's activity. No absorbable facts; no link asserted.
+- **DEEPEN-X SKIP 2026-09-25:** re-grep (台灣之歌 / Sound of Taiwan across content/) confirms corpus hits limited to the Taiwan Center group-members listing (already reflected via [[organizations/taiwan-center|Taiwan Center]]) and the mismatched concerts10 title above. No memoir/community records; nothing absorbable.
 
 ## Related Pages
 
