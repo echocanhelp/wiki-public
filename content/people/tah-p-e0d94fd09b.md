@@ -6,7 +6,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # 陳西園
 
@@ -58,6 +58,7 @@ _No filled family fields on the TAH profile._
 
 - 再驗證（deepen-x slice 09221300-15, 2026-09-23）：fresh grep works/+articles/ 命中集＝560 本人條目、works/index、已引 TJJ 四則（2016 開訓、2023 選拔、FASCA、存檔copy）— 全部已吸收，無錯鏈、無虛鏈 — SKIP，無新材料。
 - 再驗證（deepen-x slice 09230800-2, 2026-09-24）：fresh grep works/+articles/ 命中集＝560 本人條目、works/index、已引 TJJ 四則 — 全部已吸收，無錯鏈、無虛鏈 — SKIP，無新材料。
+- 再驗證（deepen-x slice 09240700-2, 2026-09-25）：fresh grep 陳西園 works/+articles/ 命中集＝560 本人條目、works/index、已引 TJJ 四則（2016 開訓、2023 選拔、FASCA、存檔copy）— 全部已吸收，無錯鏈、無虛鏈 — SKIP，無新材料。
 
 ## Sources
 - [TAH #560 encyclopedia: 560. 陳西園 / 2015/08](https://taiwaneseamericanhistory.org/560-%e9%99%b3%e8%a5%bf%e5%9c%92-201508/)
