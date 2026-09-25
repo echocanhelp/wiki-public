@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-25
 ---
 # Dr. Kuen-Shii Tsay (蔡坤喜醫師)
 
@@ -34,6 +34,7 @@ Accomplishment
 ## Role in the Community
 
 - Own TAH encyclopedia record preserved in the corpus: [[works/taiwaneseamericanhistory-org/whos-who-2098-kuen-shii-tsay|2098. Dr. Kuen-Shii Tsay 蔡坤喜醫師]] (published 2018-04-21). This is the sole corpus mention — no memoir or article material beyond the Who's Who entry.
+- SKIP (deepen-x 09231500-19, 2026-09-25): fresh ZH+EN grep of works/ and articles/ returned only this own record plus the works index — nothing absorbable, no facts invented.
 
 ## Family
 

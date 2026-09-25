@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-25
 ---
 # Connie Huang (黃康妮)
 
@@ -38,7 +38,7 @@ last_reviewed: 2026-09-22
 
 - Profiled in the TAH community encyclopedia: [[works/taiwaneseamericanhistory-org/whoswho1242|1242. Connie Huang 黃康妮]] (2016-08-14, value band B).
 - Father 黃興貫 also holds a community encyclopedia record in the same cluster: [[works/taiwaneseamericanhistory-org/whoswho1240|1240. Sam Huang 黃興貫]] (2016-08-14).
-- Corpus scan 2026-09-22 (slice 09210906-4): fresh grep across works/ and articles/ — only hits are its own encyclopedia record [[works/taiwaneseamericanhistory-org/whoswho1242|1242. Connie Huang 黃康妮]] and the works index; no memoir/news mentions to absorb.
+- Corpus scan 2026-09-22 (slice 09210906-4; re-verified 2026-09-25, slice 09231500-19): fresh grep across works/ and articles/ — only hits are its own encyclopedia record [[works/taiwaneseamericanhistory-org/whoswho1242|1242. Connie Huang 黃康妮]] and the works index; no memoir/news mentions to absorb.
 
 ## Sources
 - [TAH #1242 encyclopedia: 1242. Connie Huang 黃康妮 / 2016/08](https://taiwaneseamericanhistory.org/whoswho1242/)

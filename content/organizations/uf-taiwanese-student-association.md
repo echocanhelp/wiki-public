@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-25
 ---
 # UF Taiwanese Student Association
 
@@ -20,6 +20,7 @@ The UF Taiwanese Student Association (TWSA) is a student organization at the Uni
 
 ## Corpus Status
 - SKIP (deepen-x 09171300-8, 2026-09-18): no corpus memoir/article mentions of this organization (grep for "TWSA", "UF Taiwanese Student", "uftwsa" in works/ and articles/ returned no hits). Only tangential University of Florida mentions exist (e.g. [[works/taiwaneseamericanhistory-org/winners-shih-wen-huang|黃碩文 UF College of Medicine award]]) — unrelated to the student association, not absorbed. No facts invented.
+- Re-scan (deepen-x 09231500-19, 2026-09-25): grep for "UF Taiwanese Student" / "Florida Taiwanese Student" / 佛州 variants across works/ and articles/ again returned zero hits. SKIP stands.
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/uf-taiwanese-student-association/)
