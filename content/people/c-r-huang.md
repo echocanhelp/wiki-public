@@ -46,6 +46,7 @@ SKIP-with-reason (deepen-x slice 09171500-8, re-verified 2026-09-20 slice 091815
 - Corpus re-check 2026-09-18 (deepen-x slice 09171500-8 p3): grep 黃朝榮 / "C. R. Huang" across content/works + content/articles returned only his own TAH Who's Who record [[works/taiwaneseamericanhistory-org/whoswho1417|1417. C. R. Huang 黃朝榮 / 2016/12]] (bibliographic record only, full text stays in the vault) and its index row. No memoir/community mentions elsewhere — SKIP-with-reason; nothing new absorbable, no bio invented.
 
 - Corpus re-verified 2026-09-21 (deepen-x slice 09201503-16): grep across works/ + articles/ still returns only the own TAH record and index row — no memoir material; page remains saturated.
+- Corpus re-verified 2026-09-25 (deepen-x slice 09231100-29): grep 黃朝榮 / "C. R. Huang" again returns only [[works/taiwaneseamericanhistory-org/whoswho1417|whoswho1417]] + index row — remains saturated, nothing absorbable.
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
