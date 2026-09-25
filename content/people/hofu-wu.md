@@ -43,6 +43,8 @@ last_reviewed: 2026-09-25
 
 _No filled family fields on the TAH profile._
 
+- 2026-09-25 deepen-x slice 09240700-11: re-verify SKIP — fresh ZH+EN grep returns the identical hit set (ourjourneys47, 143, 749, works index), all linked/absorbed; verified saturated.
+
 ## Sources
 - [TAH #143 encyclopedia: 143. Dr. Hofu Wu 吳和甫博士](https://taiwaneseamericanhistory.org/143-dr-hofu-wu/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/hofu-wu/)

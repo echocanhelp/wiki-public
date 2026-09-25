@@ -45,6 +45,8 @@ Accomplishment
 - 2026-09-23 deepen-x slice 09221200-18: SKIP — verified-saturated. Fresh ZH+EN greps return only the same five records (#297, #832, #236, #292, index); HOLD above stands; no new material.
 - 2026-09-24 deepen-x slice 09230700-8: SKIP — verified-saturated. Fresh ZH+EN greps (王純純／June Wang) return the identical set (#297, #832, #236, #292 黃滿玉 memoir, works index); no new material; HOLD (2013 convention vs work-236 misdated title) stands.
 
+- 2026-09-25 deepen-x slice 09240700-11: SKIP — verified-saturated. Fresh ZH+EN greps return the identical set (#297, #832, #236, #292 黃滿玉 memoir, works index); the sole extra hit is Riley June Williams in an unrelated TJJ article; no new material; HOLD (2013 convention vs work-236 misdated title) stands.
+
 ## Sources
 - [TAH #297 encyclopedia: 297. June W. Wang 王純純](https://taiwaneseamericanhistory.org/ota-297/)
 - [TAH #832 encyclopedia: 832. June Wang 王純純](https://taiwaneseamericanhistory.org/whos-who-832-june-wang/)
