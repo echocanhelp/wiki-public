@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-25
 skip_note: "deepen-x 2026-09-22 (slice 09210500-31; earlier 2026-09-21): corpus hits re-verified (fresh grep works+articles) — own band-B TAH bibliographic records (whos-who-2239, senior-taiwanese-american-36) only, no full text in vault; no absorbable community facts. Husband 林瑞雄 has no separate page in the vault to wikilink."
 ---
 # Lin Chang-Chien Chu (林張簡菊)
@@ -43,3 +43,5 @@ skip_note: "deepen-x 2026-09-22 (slice 09210500-31; earlier 2026-09-21): corpus 
 - [[works/taiwaneseamericanhistory-org/senior-taiwanese-american-36|36. Lin Chang-Chien Chu (林張簡菊)]]
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+<!-- deepen-x 09231400-12 (2026-09-25): fresh ZH+EN grep of works+articles -> only own TAH bibliographic record + works/index.md; no memoir/community narrative to absorb. SKIP re-verified. -->

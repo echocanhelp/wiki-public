@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-25
 ---
 # Dennis Wang (王梓仁)
 
@@ -46,3 +46,5 @@ Re-checked corpus: the only hits for 王梓仁 / Dennis Wang in works+articles a
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+<!-- deepen-x 09231400-12 (2026-09-25): fresh ZH+EN grep of works+articles -> only own TAH bibliographic record + works/index.md; no memoir/community narrative to absorb. SKIP re-verified. -->

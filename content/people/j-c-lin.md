@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-25
 ---
 # J. C. Lin (林震泉)
 
@@ -48,6 +48,10 @@ state-government engineer, then small-business owner (Glen Way Motel, Kenamy
 Apartment, 榮慶食品) — i.e. documented via the movement's own community
 directory rather than press material. No community-activity claims beyond that
 can be made from the corpus.
+
+Corpus re-verification (2026-09-25, slice 09231400-1): fresh ZH+EN greps of
+works/ and articles/ returned only [[works/taiwaneseamericanhistory-org/whoswho1671|TAH #1671]]
+and its `works/index` listing — no third-party mention; nothing new absorbable.
 
 ## Timeline
 - 2017-05: profiled in the TAH Foundation Who's Who record

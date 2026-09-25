@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-25
 ---
 # Laura G. Ling (凌志美)
 
@@ -33,6 +33,7 @@ Co-author, Somewhere Inside: One Sister's Captivity in North Korea and the Other
 ## Role in the Community
 
 - Her TAH Who's Who encyclopedia entry sits adjacent to her sister 凌志慧's: [[works/taiwaneseamericanhistory-org/133-laura-g-ling-e5-87-8c-e5-bf-97-e7-be-8e|133. Laura G. Ling 凌志美]] vs. [[works/taiwaneseamericanhistory-org/132-lisa-j-ling-e5-87-8c-e5-bf-97-e6-85-a7|132. Lisa J. Ling 凌志慧]]（both 2014-12-03）— the pair documented in the corpus around the 凌 sisters' captivity/family story ([[works/taiwaneseamericanhistory-org/133-laura-g-ling-e5-87-8c-e5-bf-97-e7-be-8e|bibliographic record; full text in vault]]).
+- Corpus re-verification (2026-09-25, slice 09231400-1): fresh ZH+EN greps of works/ and articles/ returned only this person's own TAH record [[works/taiwaneseamericanhistory-org/133-laura-g-ling-e5-87-8c-e5-bf-97-e7-be-8e|TAH #133]] and its `works/index` listing — no third-party memoir, letter, or movement mention; nothing new absorbable.
 
 ## Family
 
