@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # Nai-Shin Chu (朱迺欣)
 
@@ -44,6 +44,9 @@ _No filled family fields on the TAH profile._
 - Corpus re-greps 2026-09-20 (slice 09190400-13) and 2026-09-21 (slice 09201500-19): hit set unchanged — the ITPC 長青教室 lecture records (優雅的銀髮歲月、醫學人文 in [[works/taiwaneseamericanhistory-org/ourjourneys107|ourjourneys107]]) and TAH #626 remain the only corpus coverage; no new memoir material.
 
 Related: [[organizations/irvine-taiwanese-presbyterian-church|Irvine台灣長老教會 (ITPC)]], [[organizations/evergreen-class-by-irvine-taiwanese-presbyterian-church-laguna-hills-ca|長青教室 Evergreen Classroom]]
+
+
+- Corpus re-grep 2026-09-25 (slice 09230900-21): hit set unchanged (ourjourneys107 長青教室 lectures + TAH #626 + works index) — verified saturated, nothing new absorbable.
 
 ## Sources
 - [TAH #626 encyclopedia: 626. Nai-Shin Chu 朱迺欣 / 2015/09](https://taiwaneseamericanhistory.org/626-nai-shin-chu-%e6%9c%b1%e8%bf%ba%e6%ac%a3-201509/)

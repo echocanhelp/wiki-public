@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-25
 ---
 # Yang Foundation (楊文傑紀念基金會)
 
@@ -29,6 +29,8 @@ Corpus records (TAH.org) document the foundation's named activities and its comm
 - Overview work page: [[works/taiwaneseamericanhistory-org/yang-foundation|Yang Foundation 楊文傑紀念基金會]] (era 2018).
 
 The scholarship and tournament records corroborate the directory's stated dual educational/recreational mission; no conflicts found.
+
+Re-grep 2026-09-25 (slice 09230900-23): fresh grep 楊文傑/Yang Foundation across works/ + articles/ returns the same hit set (scholarship, ping-pong tournament, Who's Who #2296, works index) — verified saturated; nothing new absorbable.
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/yang-foundation/)
