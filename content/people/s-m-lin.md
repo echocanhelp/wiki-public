@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-25
 ---
 # S. M. Lin (林素敏)
 
@@ -34,6 +34,8 @@ last_reviewed: 2026-09-22
 - Preserved in our movement record as half of the 吳告祖、林素敏 couple: 黃樹人 told the couple's story in [[works/taiwaneseamericanhistory-org/368-e5-90-b3-e5-91-8a-e7-a5-96-e3-80-81-e6-9e-97-e7-b4-a0-e6-95-8f-e5-a4-ab-e5-a|368. 吳告祖、林素敏夫婦的故事 (2015/11)]].
 - Her own TAH Who's Who encyclopedia entry: [[works/taiwaneseamericanhistory-org/whoswho1541|1541. S. M. Lin 林素敏 / 2017/03]]; her husband [[people/k-t-wu|吳告祖]] holds a parallel entry [[works/taiwaneseamericanhistory-org/whoswho1135|1135. K. T. Wu 吳告祖 / 2016/07]].
 - Educator, 台北女師 trained, from 嘉義 (per TAH profile). No dates/ages recorded — none invented.
+
+- Re-verified (2026-09-25 re-grep): corpus hits are only the couple-story work [[works/taiwaneseamericanhistory-org/368-e5-90-b3-e5-91-8a-e7-a5-96-e3-80-81-e6-9e-97-e7-b4-a0-e6-95-8f-e5-a4-ab-e5-a|368. 吳告祖、林素敏夫婦的故事]] and own entry [[works/taiwaneseamericanhistory-org/whoswho1541|1541. S. M. Lin 林素敏]] — both already reflected above; no new facts.
 
 ## Sources
 - [TAH #1541 encyclopedia: 1541. S. M. Lin 林素敏 / 2017/03](https://taiwaneseamericanhistory.org/whoswho1541/)

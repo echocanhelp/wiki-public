@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-25
 ---
 # Chiuder Hsiao (蕭秋德)
 
@@ -40,6 +40,8 @@ _No filled family fields on the TAH profile._
 ## Role in the Community
 
 - SKIP-with-reason: corpus grep（蕭秋德/Chiuder）僅見於本人傳記頁 [[works/taiwaneseamericanhistory-org/whoswho1525|1525. Chiuder Hsiao 蕭秋德 / 2017/02]] 及 works/index，回憶錄/社運文本無可吸收之社群事實；現職以 Employment 記錄為準。
+
+- SKIP confirmed (2026-09-25 re-grep): hits limited to own entry [[works/taiwaneseamericanhistory-org/whoswho1525|1525. Chiuder Hsiao 蕭秋德]] + works/index; nothing absorbable.
 
 ## Sources
 - [TAH #1525 encyclopedia: 1525. Chiuder Hsiao 蕭秋德 2017/02](https://taiwaneseamericanhistory.org/whoswho1525/)
