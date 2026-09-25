@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-25
 ---
 # Dr. Alex Yen (顏俊醫師)
 
@@ -48,3 +48,5 @@ _SKIP (2026-09-18 deepen-x): corpus search found only his own TAH Who's Who reco
 > SKIP re-check (deepen-x 09191200-29, 2026-09-21): fresh grep of content/works + content/articles returned only this person own TAH bibliographic record — no community/memoir material to absorb.
 
 > SKIP re-check (deepen-x 09210900-22, 2026-09-22): fresh grep returned only own TAH bibliographic record [[works/taiwaneseamericanhistory-org/whos-who-1984-alex-yen|TAH #1984]] — no community/memoir material; SKIP stands.
+
+> SKIP re-check (deepen-x 09231300-21, 2026-09-25): fresh ZH+EN grep of content/works + content/articles returned only the own TAH bibliographic record + index lines — no community/memoir material to absorb; SKIP stands.

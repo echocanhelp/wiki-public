@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-25
 ---
 # Tze-jer Chuang (莊子哲)
 
@@ -50,3 +50,5 @@ _No filled family fields on the TAH profile._
 - [[works/taiwaneseamericanhistory-org/741-tze-jer-chuang-e8-8e-8a-e5-ad-90-e5-93-b2-201512|741. Tze-jer Chuang 莊子哲 2015/12]] — own record in the TAH story corpus (deepen-x 09180900-30: only corpus hit; bibliographic, no memoir facts to absorb)
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+> SKIP re-check (deepen-x 09231300-21, 2026-09-25): fresh ZH+EN grep of content/works + content/articles returned only the own TAH bibliographic record + index lines — no community/memoir material to absorb; SKIP stands.
