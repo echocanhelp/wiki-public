@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-25
 ---
 # Wenlan Chia (賈雯蘭)
 
@@ -47,6 +47,7 @@ _No filled family fields on the TAH profile._
 - 2026-09-22 deepen-x slice 09210500-21: SKIP (re-confirmed) — same two files; stable corpus, no new material across three consecutive passes.
 - 2026-09-22 deepen-x slice 09220600-22: SKIP (re-confirmed) — same two files (record #181 + works index); no memoir material, nothing absorbable.
 - 2026-09-23 deepen-x slice 09221500-19: SKIP (re-confirmed) — same two files (record #181 + works index); fourth consecutive stable pass.
+- 2026-09-25 deepen-x slice 09231000-16: SKIP (re-confirmed) — same two files (record #181 + works index); fifth consecutive stable pass, verified saturated.
 
 ## Sources
 - [TAH #181 encyclopedia: 181. Wenlan Chia 賈雯蘭](https://taiwaneseamericanhistory.org/181-wenlan-chia-%e8%b3%88%e9%9b%af%e8%98%ad/)
