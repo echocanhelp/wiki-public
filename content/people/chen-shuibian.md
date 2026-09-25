@@ -30,6 +30,8 @@ last_reviewed: 2026-09-24
 
 ## From the record
 
+- 複核（TJJ-A09231000-5, 2026-09-25）：slice 文章 9e7164ea03c1512b（The Madness of Ma, Jack Healey 聲明, 2013-04-22）正文再驗證——扁醫療權遭系統性怠忽、凌晨突襲移監違反國際專家小組建議等記述確認見於正文，subject 連結為真，無錯鏈、無虛鏈；2013-04-22 條目（含該文 wikilink）已在庫 — SKIP，已飽和。
+
 - 複核（TJJ-A09231000-8, 2026-09-25）：本 slice 文章 c595d332038f73bb（「Taiwan」標籤頁, 2024-06-20 存檔）正文再驗證——「Chen Shui-bian suicide attempt confirmed by medical team during prison visit…」（2013-04-24 條目）確認見於清單，連結為真；2013-04-24 條目（已含該文 wikilink）已在庫 — SKIP，無新材料。
 
 - 複核（TJJ-A09230900-2, 2026-09-25）：slice 文章 c0530664ab4c2948（Taipei Times 社論轉載, 2016-04-11）正文再驗證——本頁 subject 連結為真實提及，無錯鏈、無虛鏈；對應日期事實條目（含該文 wikilink）已在庫 — SKIP，無新材料。
