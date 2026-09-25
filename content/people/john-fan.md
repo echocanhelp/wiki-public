@@ -39,6 +39,7 @@ last_reviewed: 2026-09-25
 - Featured in a TaiwaneseAmerican.org community interview (band A): [[works/taiwaneseamerican-org/inside-piccollage|Inside the Taipei Office of PicCollage]] (2014-10-07, by Ho Chie Tsai) — Tsai visited the 16-person Taipei office and spoke with Fan about the startup and entrepreneurial scene in Taiwan during an all-office Hackathon.
 - His story is also held in the TAH Foundation Who's Who entry 1269, published 2016-09-11: [[works/taiwaneseamericanhistory-org/whoswho1269|1269. John Fan 樊立勳 / 09/2016]] (band B, story).
 - Note: a 2025 taiwanjustice.net article mention of "John Fanestil" (約翰·法內斯蒂爾牧師, Friends of Friendship Park) is a different person and was not absorbed.
+- Corpus check (2026-09-25, deepen-x slice 09231300-26): fresh ZH+EN grep of content/works + content/articles returns the same hit set — own TAH record [[works/taiwaneseamericanhistory-org/whoswho1269|1269. John Fan 樊立勳]], the already-linked PicCollage interview, the works index, and the John Fanestil article (different person). No new memoir/community material absorbable; SKIP-with-reason.
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/john-fan/)
