@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # SueAnn Shiah (夏叔安)
 
@@ -53,3 +53,4 @@ _No filled family fields on the TAH profile._
 - Corpus re-check (deepen-x slice-09220700-7, 2026-09-22): fresh grep 夏叔安|SueAnn Shiah returns the same four files (TAH #1613, her own taiwaneseamerican-org essay, Laguna Woods church-shooting piece, index) — all absorbed above; saturated, SKIP-with-reason.
 - Corpus re-check (deepen-x slice-09221400-2, 2026-09-23): fresh grep 夏叔安|SueAnn Shiah returns the same four files (TAH #1613, her own taiwaneseamerican-org essay, Laguna Woods church-shooting piece, index) — all absorbed above; saturated, SKIP-with-reason.
 - Corpus re-check (deepen-x slice-09230800-2, 2026-09-24): fresh grep 夏叔安|SueAnn Shiah returns the same four files (TAH #1613, taiwaneseamerican-org essay, Laguna Woods church-shooting piece, index) — all absorbed above; saturated, SKIP-with-reason.
+- Corpus re-check (deepen-x slice-09240700-3, 2026-09-25): fresh grep 夏叔安|SueAnn Shiah returns the identical 4-file hit set (TAH #1613, taiwaneseamerican-org essay, Laguna Woods church-shooting piece, index) — all absorbed above; saturated, SKIP-with-reason.

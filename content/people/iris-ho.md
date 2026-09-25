@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # Iris Ho (何燕青)
 
@@ -56,3 +56,4 @@ Fresh grep of content/works + content/articles returned only records already abs
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- Corpus re-grep 2026-09-25 (DEEPEN-X slice 09240700-3): hit-set unchanged (ourjourneys123/-eng, TAH #309, TAH #935, TA.org perspectives, index; husband records #464/#228 already in Family) — all absorbed; SKIP-content.
