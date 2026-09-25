@@ -32,6 +32,7 @@ Dr. Virginia S. Shen 李香蘭教授 – History of Taiwanese American (T.A. Arc
 
 <!-- tah-tables:start -->
 - 2026-09-24 corpus re-grep (slice 09230600-10): hit set unchanged — own record TAH #1947, singer-film mention in Our Journeys #279, index. SKIP (verified-saturated).
+- 2026-09-25 corpus re-grep (slice 09240600-15): hit set unchanged ( TAH #1947, OJ #279 singer-film mention, index). SKIP (verified-saturated).
 
 ## Education
 - Fu Jen Catholic Univ. (輔仁大學) — 1977 — B.A., Spanish
