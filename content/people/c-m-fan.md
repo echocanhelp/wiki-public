@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-25
 ---
 # C. M. Fan (范清美)
 
@@ -34,7 +34,7 @@ last_reviewed: 2026-09-22
 _No filled family fields on the TAH profile._
 
 ## Role in the Community
-- 2018-07 — Signed the 南加州台大校友 statement protesting the invitation of 管中閔 to the Southern California NTU Alumni Association annual meeting, listed as 范清美(外文) — consistent with her 台大外文 1963 degree. See [[articles/taiwanjustice-net/2018/20180721091303_2018_07_20_抗議-南加州台大校友會邀管中閔來年會做專題演講_a428dcebbceacf38|2018 南加州台大校友聲明]].
+- 2018-07 — Signed the 南加州台大校友 statement protesting the invitation of 管中閔 to the Southern California NTU Alumni Association annual meeting, listed as 范清美(外文) — consistent with her 台大外文 1963 degree. See [[articles/taiwanjustice-net/2018/20180721091303_2018_07_20_抗議-南加州台大校友會邀管中閔來年會做專題演講_a428dcebbceacf38|2018 南加州台大校友聲明]]; the statement's signatory roster in that article lists her as 范清美(外文) among the 台大外文系 alumni cohort. Re-grep 2026-09-25 found no further corpus material beyond this article + own TAH #1657 record.
 - Her TAH Who's Who profile is held in the corpus as [[works/taiwaneseamericanhistory-org/whoswho1657|1657. C. M. Fan 范清美 / 05/2017]].
 
 ## Sources
