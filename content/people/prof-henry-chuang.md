@@ -41,6 +41,8 @@ last_reviewed: 2026-09-25
 SKIP (deepen-x 2026-09-22 re-verify): corpus grep found only his own bibliographic record ([[works/taiwaneseamericanhistory-org/whos-who-2302-henry-chuang|2302. Prof. Henry Chuang 莊英煌教授]] — cited-from, full text stays in vault). No memoir/community facts in works/ or articles/ to absorb; no new facts invented.
 
 ## Sources
+<!-- deepen-x 09231500-3 2026-09-25: re-scan ZH+EN — only own record #2302 + index hit; no memoir/community facts to absorb. SKIP. -->
+
 - [TAH #2302 encyclopedia: 2302. Prof. Henry Chuang 莊英煌教授](https://taiwaneseamericanhistory.org/whos-who-2302-henry-chuang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-henry-chuang/)
 

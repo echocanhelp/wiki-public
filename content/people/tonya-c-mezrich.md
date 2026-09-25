@@ -33,6 +33,7 @@ last_reviewed: 2026-09-25
 - Corpus scan 2026-09-22 (re-verify): the only corpus records naming her are her own TAH directory entries ([[works/taiwaneseamericanhistory-org/whos-who-2180-tonya-c-mezrich|TAH #2180]], [[works/taiwaneseamericanhistory-org/ota-263|TAH #263]], both bibliographic records already cited below). No memoir or community-history material found — nothing absorbable. SKIP.
 
 ## Family
+<!-- deepen-x 09231500-3 2026-09-25: re-scan ZH+EN — only own records TAH #2180 / #263 + index hit; no memoir/community material. SKIP. -->
 
 - **Husband:** [[people/ben-mezrich||Ben Mezrich]]
 - **Father:** [[people/ron-chen||Ron Chen]]
