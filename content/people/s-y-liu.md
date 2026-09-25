@@ -48,3 +48,4 @@ last_reviewed: 2026-09-25
 <!-- deepen-x 09220700-24: verified-saturated. Corpus re-scan (works/ + articles/) fresh 2026-09-22: hits limited to whos-who-1846 and ourjourneys270, both already wikilinked above; no new community material. -->
 <!-- deepen-x 09221500-31: verified-saturated — corpus re-scan (works/articles) fresh 2026-09-23: hit set identical to prior passes (own TAH record + already-wikilinked works only); no new community material. -->
 <!-- deepen-x 09231000-15: verified-saturated — corpus re-scan (works/articles) fresh 2026-09-25: ZH+EN grep hit set identical to prior passes (own TAH record + already-wikilinked works/index entries only); no new community material. -->
+<!-- deepen-x 09250317-22: verified-saturated — fresh ZH+EN grep 2026-09-25: hit set = whos-who-1846 + ourjourneys270 + works index, all already wikilinked/absorbed above; no new community material. -->

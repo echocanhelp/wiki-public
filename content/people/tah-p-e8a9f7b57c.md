@@ -55,3 +55,4 @@ last_reviewed: 2026-09-25
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- Re-verified 2026-09-25 (slice 09250317-27): fresh ZH+EN grep returns only [[works/taiwaneseamericanhistory-org/whos866|TAH #866]] + the daughter' memoir [[works/taiwaneseamericanhistory-org/ourjourneys215|#215]] + works index — both already absorbed. SKIP-with-reason (verified-saturated).
