@@ -51,6 +51,7 @@ _No filled family fields on the TAH profile._
 - 2026-09-22 deepen-x slice 09220317-32: SKIP confirmed — corpus hits are only the two own-record TAH entries and the two TJJ press records already linked; the directorship-tenure HOLD stands.
 - 2026-09-23 deepen-x slice 09221200-13: re-verify SKIP — fresh grep returns only 142, 646, the two TJJ records (all linked) and the works index; nothing new absorbable, HOLD stands.
 - 2026-09-24 deepen-x slice 09230600-28: re-verify SKIP — fresh ZH+EN grep returns the identical hit set (142, 646, works index, two TJJ records); verified saturated, tenure HOLD stands.
+- 2026-09-25 deepen-x slice 09240700-8: re-verify SKIP — fresh ZH+EN grep again returns only 142, 646, works index, and the two linked TJJ records ([[articles/taiwanjustice-net/2023/20230322155952_tag_貪汙_e509e1f4141f5c8a|貪汙 tag]], [[articles/taiwanjustice-net/2025/20250518215329_論文案-陳其邁_3分鐘可解決為何要拖著_民進黨批_99294ec7acb0fca8|TJJ 2025-05-18]]); no memoir mentions, tenure HOLD stands.
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
