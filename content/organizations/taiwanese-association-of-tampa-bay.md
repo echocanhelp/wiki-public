@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-25
 ---
 # Taiwanese Association of Tampa Bay (佛州天霸市台灣同鄉會)
 
@@ -25,6 +25,8 @@ The Taiwanese Association of Tampa Bay (佛州天霸市台灣同鄉會) is a reg
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-association-of-tampa-bay/)
+
+_Note (2026-09-25, deepen-x slice 09231400-2): fresh grep 佛州天霸市台灣同鄉會 / "Taiwanese Association of Tampa" across works+articles returned only the chapter's own bibliographic record [[works/taiwaneseamericanhistory-org/ta-tampa-bay-fl|ta-tampa-bay-fl]] (already absorbed above) plus its works/index.md line — no memoir material beyond the existing Role section; nothing new absorbable._
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
