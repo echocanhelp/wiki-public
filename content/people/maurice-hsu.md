@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # Maurice Hsu (許盛男醫師)
 
@@ -64,3 +64,4 @@ last_reviewed: 2026-09-24
 - Re-verify note（deepen-x slice-09220800-15, 2026-09-22）：fresh grep 新增 TAH 檔案 175（TAA/North Jersey 創會會長, 1981）及 ourjourneys356 中文版 — 已吸收至上；FAPA 創會年份 1981 vs 1982 冲突仍 HOLD。
 - 覆核（TJJ-A09171200-9, 2026-09-24）：slice 09171200-9 四篇與 TJJ-A09170400-17 同文（北市議員缺額 93c0627d、全美會228 f6213c19、長青教室tag 2777c888、會館tag p13 ced69523）正文再驗證 — 本頁條目確認見於正文，連結為真；日期事實已在庫 — SKIP，無新材料。
 - 覆核（deepen-x slice-09230317-12, 2026-09-24）：fresh grep 許盛男／Maurice Hsu（content/works+content/articles）hit set 與已吸收完全一致（ourjourneys09/9-eng/356-eng、TAH 檔案 174/175/176/308）；Our Journeys #09 原文再確認倡組「紐約紐澤西台灣人社團聯合會」及公推創會會長敘述已在庫 — 飽和，無新材料；FAPA 創會 1981 vs 1982 冲突仍 HOLD。
+- 覆核（deepen-x slice 09240317-1, 2026-09-25）：fresh grep 許盛男／Maurice Hsu hit set 新增台灣公義報「許盛男醫師」標籤頁最新存檔快照（2025-08-07）——該快照顯示標籤下已「No posts to display」，即原心得報告文章已從該標籤移除；作為來源連續性紀錄保留：[[articles/taiwanjustice-net/2025/20250807042009_tag_許盛男醫師_940d3c7334035588|TJJ tag 許盛男醫師, 2025-08-07 存檔]]。另 台灣人文藝術 人氣榜快照（2024-02-21 存檔）再確認 2017-11-06 長青教室心得報告條目在榜——無新增生平材料；FAPA 1981 vs 1982 冲突仍 HOLD。

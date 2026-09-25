@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # Lung Chen (陳隆)
 
@@ -40,6 +40,7 @@ From the community record (memoirs outrank the TAH press-kit bio):
 - 1978年自灣區回洛杉磯時帶回「Joint Committee of Taiwanese-Americans for 1980 U.S. Census」消息，促成南加州同鄉會關注普查（[[works/taiwaneseamericanhistory-org/ourjourneys253|253. 1990年美國人口普查-TACL的角色]]）。
 - 1987年任「Joint Committee of Taiwanese American for 1990 U.S. Census」洛杉磯執行委員（與胡維剛、吳瑞信同列，总部設TACL辦公室）（同上）。
 - 著有回顧文章記述台語教會與同鄉會相輔相成、信徒對台美人社團聯繫與台灣民主化運動的貢獻；本人即為該回顧的記述對象（[[works/taiwaneseamericanhistory-org/ourjourneys280|280. 那一夜，在紐約]]；另見 [[works/taiwaneseamericanhistory-org/our-journeys-357|357. 舊金山灣區臺灣人的社團活動與家國意識之形成]] 引用其「教會與同鄉會相輔相成」論述）。
+- 1990年代與楊子清同為南加州「台灣名家演奏系列」（林衡哲主導，1992–1993洛杉磯）籌備會活躍委員；後楊子清為LA「大楊網路電視台」Producer，陳隆即該台「陳隆開講」節目主持人，並屢任台灣人夏令會司儀（含邀請石青如演出的南加場次）（[[works/taiwaneseamericanhistory-org/ourjourneys287|287. 台灣人夏令會記錄]]）——與TAH #408「海外第一名嘴陳隆」稱號互證。
 - HOLD: corpus 中另有「108. Prof. Lung-Chi Chen 陳隆志教授」與「1898. L. H. Chen 陳隆旭」為同名近似之不同人士，勿併入本頁。
 
 ## Family
