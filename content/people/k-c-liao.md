@@ -51,6 +51,7 @@ last_reviewed: 2026-09-25
 
 - 覆核（TJJ-A09230500-1, 2026-09-24）：本 slice 文章 299c00bb18030b81（懷念彭昕醫師(楊遠薰)） 正文再驗證——主體連結為真實提及（無錯鏈、無虛鏈），對應日期事實條目（含該文 wikilink）已在庫 — SKIP，無新材料。
 
+- 2026-09-25 re-grep (deepen-x slice 09240500-4): SKIP — fresh grep (廖國仲／K. C. Liao, works+articles) hit set unchanged (own records #883 / 老猴集 #154 / mystories264, ourjourneys2, ourjourneys264, works index); no new absorbable facts. 「-2005」 vs 2014 memorial HOLD stands.
 - 2026-09-24 re-grep (deepen-x slice 09230500-24): SKIP — fresh grep (廖國仲／K. C. Liao, works+articles) hit set unchanged (#883, 老猴集 #154, mystories264, ourjourneys2, ourjourneys264, works index); all already cited above. No new absorbable facts; 「-2005」 vs 2014 memorial HOLD stands.
 - 複核（TJJ-A09171100-1, 2026-09-24）：subject link 對照 slice 文章 6763e8f4ad9bcb7c／80e2a87a17215263（楊遠薰《懷念彭昕醫師》兩存檔）正文再驗證——2014年紐約廖國仲追思紀念會為彭昕初見作者之場合，確認見於正文，連結為真；2021-09-23 條目（含 -2005 死亡年 HOLD 註記）已在庫 — SKIP，無新材料。
 

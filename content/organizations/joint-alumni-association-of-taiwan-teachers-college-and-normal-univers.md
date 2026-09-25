@@ -6,7 +6,7 @@ tags:
   - Taiwanese-American
   - Taiwan-Center-group-member
 verification_status: published
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # Joint Alumni Association of Taiwan Teachers College and Normal University(JTTAA)
 
@@ -30,6 +30,7 @@ last_reviewed: 2026-09-24
 - The TAH directory record for the association is a bibliographic entry (era 2015, value band B, published 2015-08-06); its full text remains in the source vault — no biographical detail beyond the listing is absorbable from it: [[works/taiwaneseamericanhistory-org/jttaa|TAH directory record]]
 
 ## Re-grep log
+- Corpus re-grep 2026-09-25 (slice 09240500-5): fresh ZH+EN grep — identical hit set (jttaa, both WHA 聲明 archives, 太魯閣號慰問函), all absorbed; verified-saturated.
 - Corpus re-grep 2026-09-24 (slice 09230500-10): fresh ZH+EN grep returned the same hit set (jttaa work page, works/index, both WHA 聯合聲明 archives, 太魯閣號慰問函) — all already absorbed above; verified-saturated, no new material.
 
 ## Source Notes
