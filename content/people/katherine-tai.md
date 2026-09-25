@@ -62,6 +62,8 @@ Absorbed from vault pages already naming her (no web):
 
 ## From the record
 
+- 覆核（TJJ-A09240800-8, 2026-09-25）：slice 文章 10e3a027ce22991c（汽車晶片短缺報導, 2021-02-25 刊）——戴琪於參院財政委員會提名聽證會當日就晶片短缺發難之記述再確認見於正文，subject 連結為真，無錯鏈、無虛鏈；2021-02-25 條目（已含該文 wikilink）已在庫 — SKIP，無新材料。
+
 - 複核（TJJ-A09240800-6, 2026-09-25）：本 slice 兩篇同文快照 4a5080befc342f69／2c5d3c7d4f5acccc（戴琪與鄧振中視訊、重啟TIFA）正文再驗證——subject 連結為真實對應，無錯鏈、無虛鏈；2021-06-10 條目（含兩檔 wikilink）均已在庫 — SKIP，無新材料。
 
 - 複核（TJJ-A09230800-9, 2026-09-24）：本 slice 四篇正文再驗證——6d16f9e35d9e3188（戴琪：台美貿易倡議）本人 selectUSA 峰會演說、談判路線圖記述確認見於正文，subject 連結為真；另三篇（54dd66fe／2589c867／cc3bbdbf）無涉本人。2022-06-28 條目（已含該檔 wikilink）已在庫 — SKIP，無新材料。

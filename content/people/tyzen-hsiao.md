@@ -150,6 +150,8 @@ TAH employment (unparsed string): Tainan Univ. of Technology assoc. prof.; Wenza
 
 ## From the record
 
+- 覆核（TJJ-A09240800-8, 2026-09-25）：slice 文章 bfc5f319a036a339（黃瑞芬訃聞, 2022-01-29 刊）——〈嘸通嫌台灣〉於1995-07-29 TUF LA 音樂會演出記述再確認見於正文，連結為真，無錯鏈、無虛鏈；1995-07-29 條目（已含該文 wikilink）已在庫 — SKIP，無新材料。
+
 - 複核（TJJ-A09240800-9, 2026-09-25）：本 slice 文章 64302d51d03b3c5f（黃瑞芬訃聞快照）正文再驗證——〈嘸通嫌台灣〉1995-07-29 TUF LA 演出記述確認見於正文，連結為真，無錯鏈、無虛鏈；對應日期條目（含該文 wikilink）已在庫 — SKIP，無新材料。
 
 - 複核（TJJ-A09240500-2, 2026-09-25）：本 slice 文章 c62f5c50846fe267 正文再驗證——蕭泰然為《台灣翠青》作曲者、全場客台雙語合唱確認見於正文，subject 連結為真（無錯鏈、無虛鏈）；對應日期條目（已掛該文 wikilink）已在庫 — SKIP，無新材料。
