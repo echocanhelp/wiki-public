@@ -49,3 +49,4 @@ Assistant Professor of Neurology
 <!-- deepen-x 09180900-28: SKIP — corpus re-scan (works/articles) found no memoir/community coverage; only own TAH Who's Who record or none at all. -->
 <!-- deepen-x 09200800-27: SKIP — corpus re-scan: only own TAH #2223 record + works index; no community-authored coverage. -->
 <!-- deepen-x 09210831-19: SKIP — fresh grep: only own TAH #2223 record + works index; no community-authored coverage. -->
+<!-- deepen-x 09231200-18: SKIP — fresh grep: only own TAH #2223 record; nothing absorbable beyond press-kit bio. -->
