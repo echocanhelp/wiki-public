@@ -41,6 +41,8 @@ _No filled family fields on the TAH profile._
 
 ## Worklog
 
+- 2026-09-25 deepen-x slice 09240800-5: fresh grep (謝顯堂|Dennis Hsieh, works+articles) returns only own TAH record #2094, the works index, and the already-cited 2018 TJJ 南加州台大校友會 roster; nothing further absorbable, SKIP.
+
 - 2026-09-23 deepen-x slice 09221400-9: re-verified — fresh grep for Dennis Hsieh/謝顯堂 over works+articles returns only own TAH record #2094 and the already-cited 2018 TJJ 南加州台大校友會 roster (謝顯堂(農化) line); no memoir mentions, nothing further absorbable.
 
 - 2026-09-22 deepen-x slice 09210600-20: re-verified — fresh grep for Dennis Hsieh/謝顯堂 over works+articles returns only own TAH record #2094 (already wikilinked above) plus the works index; the 2018 TJJ alumni-roster corroboration is already cited. No memoir mentions; nothing further absorbable.

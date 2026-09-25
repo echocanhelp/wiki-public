@@ -52,5 +52,6 @@ Accomplishment
 
 ## Worklog
 
+- 2026-09-25 deepen-x slice 09240800-5: fresh grep (劉清風|Seifu Ryu, works+articles) returns the same 6 files (OJ #285, OJ #270, TAH #1847, firstfamous #391, my-stories #774, index), all wikilinked. SKIP-content — saturated.
 - 2026-09-24 deepen-x slice 09230800-10: fresh grep returns the same 6 files (OJ #285, OJ #270, TAH #1847, firstfamous #391, my-stories #774, index), all wikilinked — verified saturated.
 - 2026-09-23 deepen-x slice 09221300-26: re-verified saturated — fresh grep against works/ + articles/ returns the same 6 files (OJ #285, OJ #270, TAH #1847, firstfamous #391, my-stories #774, index), all already wikilinked in Role in the Community; no new absorbable facts.
