@@ -39,6 +39,7 @@ last_reviewed: 2026-09-25
 ## Role in the Community
 - Community author as well as subject: contributed the personal essay [[works/taiwaneseamericanhistory-org/184-e7-b6-93-e9-81-8e-e4-ba-8c-e7-ab-99-e6-ad-bb-e8-94-ad-e7-9a-84-e5-b9-bd-e8-b|182. 經過二站死蔭的幽谷也無驚駭]] (published 2015-01-20) to the TAH story corpus — a first-person memoir piece, primary material for the movement record.
 - Profiled in the TAH community record [[works/taiwaneseamericanhistory-org/267-charlie-wang-e7-8e-8b-e6-b8-85-e5-9c-bb201502|267. Charlie Wang 王清圻]] (published 2015-02-05).
+- Re-grep 2026-09-25 (slice 09231500-22): fresh ZH+EN greps of works/ + articles/ return only his own essay #182 and profile #267 (plus index entries); no further community mentions to absorb.
 
 ## Sources
 - [TAH #267 encyclopedia: 267. Charlie Wang 王清圻/2015/02](https://taiwaneseamericanhistory.org/267-charlie-wang-%e7%8e%8b%e6%b8%85%e5%9c%bb201502/)

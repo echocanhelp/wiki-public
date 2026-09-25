@@ -6,7 +6,7 @@ tags:
   - Taiwanese-American
   - Taiwan-Center-group-member
 verification_status: published
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-25
 ---
 # Happy Dancers Club
 
@@ -22,6 +22,7 @@ last_reviewed: 2026-09-22
 ## Role in the Community
 
 - **二二八紀念活動協辦（2026）:** 以協辦單位身分（名單中列「快樂排舞班」）參與大洛杉磯台灣會館二二八紀念會轉型正義研討會暨系列活動（2026-02-27 研討會，會館大禮堂現場開放），與台美人歷史協會、FAPA 洛杉磯分會、北美洲台灣人醫師協會南加州分會等廿餘社團並列 — [[articles/taiwanjustice-net/2026/20260209105852_大洛杉磯台灣會館二二八紀念會轉型正義研討會暨_27ac84aea15e3211|大洛杉磯台灣會館二二八紀念會轉型正義研討會暨系列活動記者會（twjustice.net，2026-02-09）]]
+- SKIP注記（2026-09-25 複核）：全庫 grep「快樂排舞班」僅三處命中 — 本頁、[[organizations/taiwan-center|Taiwan Center]]（會籍列名，已互連）、及上述 2026 二二八活動報導（已吸收）；works/ 無回憶錄級史料，無新事實可吸收。
 
 ## Source Notes
 

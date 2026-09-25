@@ -6,7 +6,7 @@ tags:
   - Taiwanese-American
   - Taiwan-Center-group-member
 verification_status: published
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-25
 ---
 # Ikenobo Ikebana LA Chapter
 
@@ -34,3 +34,4 @@ last_reviewed: 2026-09-22
 
 - [[organizations/taiwan-center||Taiwan Center]]
 - [[sources/taiwancenter-org||taiwancenter.org]]
+<!-- DEEPEN-X SKIP 2026-09-25: corpus grep (台美池坊 / Ikenobo Ikebana, works+articles) returns only own bibliographic record taiwanese-american-ikebana + index listings. No absorbable community facts. -->

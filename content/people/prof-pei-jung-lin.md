@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-25
 ---
 # Prof. Pei-Jung Lin
 
@@ -36,6 +36,7 @@ _No filled family fields on the TAH profile._
 
 ## Role in the Community
 - Recorded in the TAH Foundation Who's Who corpus as [[works/taiwaneseamericanhistory-org/whos-who-1999-pei-jung-lin|1999. Prof. Pei-Jung Lin]] (band B — bibliographic record; era field 2018; full text stays in the vault). This is the only corpus hit: no Chinese name, memoir, or movement-activity material is recorded anywhere in the corpus, so no biography beyond the press-kit tables is absorbable.
+- Corpus re-verify 2026-09-25 (slice 09231500-24): fresh grep Pei-Jung Lin — own record + index only; SKIP.
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-pei-jung-lin/)
