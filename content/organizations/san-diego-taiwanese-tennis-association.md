@@ -34,3 +34,4 @@ Programs per the directory record: singles/doubles seasonal tournaments, quarter
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 - 2026-09-25 DEEPEN-X09230900-17 re-run: fresh grep (聖地牙哥台灣人網球協會/SDTTA/Qinqing) returns only own directory record sdtta + works index — saturated, SKIP.
+- 2026-09-25 DEEPEN-X09250317-13 re-run: fresh grep returns only own directory record sdtta + index — saturated, SKIP.
