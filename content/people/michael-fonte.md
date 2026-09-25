@@ -8,7 +8,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # Michael Fonte (彭光理)
 
@@ -50,6 +50,8 @@ last_reviewed: 2026-09-24
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/michael-fonte/)
 
 ## From the record
+
+- 覆核（TJJ-A09240800-14, 2026-09-25）：本 slice 文章 c1e603063718b409（華府台灣同鄉會感恩節餐會報導, 2023-12-01 快照）正文再驗證——彭光理致詞「美台最好時刻/最危險時刻」確認見於正文，subject 連結為真，無錯鏈、無虛鏈；2023-11-11 條目（已含該文 wikilink）已在庫 — SKIP，無新材料。
 
 - 複核（TJJ-A09240400-3, 2026-09-25）：slice 文章 23197ebf177d0b6a（「楊遠薰」標籤頁2, 2021-12-07 快照）正文再驗證——「彭光理與台灣的半生緣(上)(下)」（2016-04-30）確認見於清單，subject 連結為真，無錯鏈、無虛鏈；2016-04-30 條目（含該文 wikilink）已在庫 — SKIP，已飽和，無新材料。
 

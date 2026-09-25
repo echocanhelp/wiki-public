@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-25
 ---
 # Nobu Lu (呂信也)
 
@@ -69,6 +69,8 @@ last_reviewed: 2026-09-22
 - His 1997 painter side: [[works/taiwaneseamericanhistory-org/nobu-lu-art-show-1997|10. 音樂家呂信也畫展 1997]] — the TAH bio also identifies him as a 畫家 (painter); this is the vault record of his 1997 art exhibition.
 
 ## From the record
+
+- 覆核（TJJ-A09240800-14, 2026-09-25）：本 slice 文章 3246c11d0909b4fe（洛僑中心「台灣‧藝象」首場講座公告）正文再驗證——呂信也任監製及總策畫、其1964/1966/1970年經歷均確認見於正文，subject 連結為真，無錯鏈、無虛鏈；2018-08-31 條目（已含該文 wikilink）已在庫 — SKIP，無新材料。
 
 - 2018-08-31 — 擔任洛僑中心與大洛杉磯台灣會館合辦「台灣‧藝象」台灣藝術系列講座首場監製及總策畫，邀郭曉玗、余忠村博士、女高音吳麗華及王婉兒共同演出，現場以立即演奏介紹臺灣早期音樂前輩曲風特色；公告回顧其1964年國際婦女會首屆小提琴比賽首獎、1966年全額獎學金入讀Peabody、1970年錄取國家芭蕾舞交響樂團、翌年轉任索納迪藝術中心歌劇院交響樂團第一小提琴手展開25年演奏生涯（[[articles/taiwanjustice-net/2024/20240522061932_root_3246c11d0909b4fe|TJJ 轉載洛僑中心公告, 2018-08-25]]）。
 

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # Dr. Lisa Su (蘇姿豐博士)
 
@@ -45,6 +45,8 @@ Business Units (2007) → COO (2012) → CEO & President (2014). Family: husband
 father [[people/su-chun-huai||蘇春槐]]; mother 羅淑雅 (no page yet).
 
 ## From the record
+
+- 覆核（TJJ-A09240800-14, 2026-09-25）：本 slice 文章 88c15e5403e6b9b9（PCAST名單報導）正文再驗證——本頁（TAH Who's Who 視角）subject 連結為真，2021-09-22 條目（含該文 wikilink）已在庫 — SKIP，無新材料。
 
 - 2021-09-22 — 白宮公布30位總統科技顧問會議（PCAST）成員名單，出身台南、MIT電機博士、时任超微（AMD）總裁兼執行長之蘇姿丰入選，報導並稱其為首位獲IEEE羅伯特諾伊斯大獎的女性（與 [[people/lisa-su||Lisa T. Su]] 頁為同一人雙頁並存）（[[articles/taiwanjustice-net/2021/20211028205125_2021_09_22_超微台裔總裁兼執行長蘇姿丰-出任美國總統科技顧_88c15e5403e6b9b9|TJJ 轉載中央社記者報導, 2021-09-22]]）。
 - 2020-06-02 — 標普500企業執行長年薪排行（Equilar/美聯社，TJJ轉載中央社/CNN Business）：以2019年總薪酬5850萬美元登榜首，為2011年調查以來首位女性榜首；小檔案並記其獲全球半導體聯盟張忠謀博士模範領袖獎、財富雜誌全球50大領導者、MIT技術評論百大年輕創新者等殊榮（與 [[people/lisa-su||Lisa T. Su]] 頁為同一人雙頁並存）（[[articles/taiwanjustice-net/2025/20250515085035_標普企業執行長年薪排行榜-超微蘇姿丰奪冠_e1e223aabe8b8751|TJJ, 2020-06-02]]）。
