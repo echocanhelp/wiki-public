@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # Dr. Tzu-Shong Yang (楊次雄醫師)
 
@@ -37,7 +37,7 @@ Accomplishment
 - Primary-source memoir authored by Yang himself: 77. 回首那段難辛壓迫的歲月 (2014/12) — [[works/taiwaneseamericanhistory-org/77-e5-9b-9e-e9-a6-96-e9-82-a3-e6-ae-b5-e9-9b-a3-e8-be-9b-e5-a3-93-e8-bf-ab-e7-9a|77. 回首那段難辛壓迫的歲月]].
 - Named in a movement-figures group photo caption (第三排左起： XXX, 楊次雄, 康泰山, XXX, 楊明皓) — [[works/taiwaneseamericanhistory-org/our-journeys-363|Our Journey #363]]. He attended the NATMA founding大会 in the Greater New York delegation together with 曾茂雄 (Mao-hsiung Tseng) — [[works/taiwaneseamericanhistory-org/ourjourneys74-eng|Our Journey #74 EN]].
 - His own Who's Who entry is held as a community record in the corpus — [[works/taiwaneseamericanhistory-org/whos-who-2026-tzu-shong-yang|2026. Dr. Tzu-Shong Yang 楊次雄醫師]] (record dated 2018-02-13, band B).
-- Corpus re-scan 2026-09-22 (slice 09220600-5) / 2026-09-23 (slice 09221400-3) / 2026-09-24 (slice 09230800-17): fresh grep across content/works + content/articles returns only the records already linked above (own memoir #77, NATMA founding memoir #74 incl. its EN transcript, group photo #363, own Who's Who record) — no new third-party material; this pass absorbed the #363 caption text and the 曾茂雄 co-delegation fact.
+- Corpus re-scan 2026-09-22 (slice 09220600-5) / 2026-09-23 (slice 09221400-3) / 2026-09-24 (slice 09230800-17) / 2026-09-25 (slice 09240800-2): fresh grep across content/works + content/articles returns only the records already linked above (own memoir #77, NATMA founding memoir #74 incl. its EN transcript, group photo #363, own Who's Who record) — no new third-party material; the 09-24 pass absorbed the #363 caption text and the 曾茂雄 co-delegation fact. Verified saturated, SKIP-deepen.
 
 ## Family
 

@@ -7,7 +7,8 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
+<!-- deepen-x 09240800-5: re-verified 2026-09-25 — fresh grep (許德標|Frank Hsu, works+articles): hits = whos-who-1701, ff335, ourjourneys255, Pew statement, index — all already absorbed as collision notes. SKIP-content — saturated. -->
 ---
 # Prof. Frank Hsu (許德標教授)
 

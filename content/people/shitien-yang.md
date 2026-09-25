@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # Shitien Yang (楊錫鈿)
 
@@ -53,3 +53,4 @@ _No filled family fields on the TAH profile._
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - Re-check 2026-09-24 (slice 09230900-5): fresh grep 楊錫鈿|Shitien Yang again returns only the [[works/taiwaneseamericanhistory-org/722-shitien-yang-e6-a5-8a-e9-8c-ab-e9-88-bf-201512|TAH #722]] record, [[works/taiwaneseamericanhistory-org/ourjourneys167|167. 咱的鄉土，咱的歌]], and index rows — nothing new. Verified saturated, SKIP-deepen.
+- Re-check 2026-09-25 (slice 09240800-2): fresh grep 楊錫鈿|Shitien Yang again returns only TAH #722, ourjourneys167, and index rows — nothing new. Verified saturated, SKIP-deepen.
