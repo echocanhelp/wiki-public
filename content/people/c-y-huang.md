@@ -39,6 +39,8 @@ _No filled family fields on the TAH profile._
 - Community roles recorded in the TAH table: President of FAPA NY-M chapter; co-founder of GTI; member of the Innovator Group in NYC (Democrat); member of the Pen Club Board (see Employment above).
 - HOLD: identity collision in the corpus — [[works/taiwaneseamericanhistory-org/whos-who-1855-c-y-huang|TAH #1855 "Rev. C. Y. Huang 黃主義牧師"]] (2017) shares the English initials but is a different person (黃主義, a minister, held at [[people/rev-c-y-huang]]). Do not merge records between the two pages.
 
+- SKIP re-verify (2026-09-25, deepen-x slice 09231300-9): fresh grep 黃清燕/C.Y. Huang returns only [[works/taiwaneseamericanhistory-org/whos-who-2314-c-y-huang|TAH #2314]], the 黃主義 collision record [[works/taiwaneseamericanhistory-org/whos-who-1855-c-y-huang|TAH #1855]] (HOLD above), and index lines — no memoir mentions; nothing absorbable.
+
 ## Sources
 - [TAH #2314 encyclopedia: 2314. C.Y. Huang 黃清燕](https://taiwaneseamericanhistory.org/whos-who-2314-c-y-huang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/c-y-huang/)

@@ -37,6 +37,8 @@ _No filled family fields on the TAH profile._
 - Recognized as the first Taiwanese-American beauty queen in Hawaii: Miss Honolulu USA (第一位台裔夏威夷選美皇后), per TAH encyclopedia record [[works/taiwaneseamericanhistory-org/ff317|TAH #317, Julie Kuo 郭瑞筠 / Miss Honolulu USA (2017)]].
 - Profiled in the TAH Who's Who encyclopedia: [[works/taiwaneseamericanhistory-org/whoswho1524|TAH #1524, Julie Kuo 郭瑞筠, 2017/02]].
 
+- SKIP re-verify (2026-09-25, deepen-x slice 09231300-9): fresh grep 郭瑞筠/Julie Kuo returns only her own records [[works/taiwaneseamericanhistory-org/ff317|TAH #317]], [[works/taiwaneseamericanhistory-org/whoswho1524|TAH #1524]] and index lines — no memoir/community text; nothing absorbable.
+
 ## Sources
 - [TAH #1524 encyclopedia: 1524. Julie Kuo 郭瑞筠 2017/02](https://taiwaneseamericanhistory.org/whoswho1524/)
 - [TAH #317 encyclopedia: 317. Julie Kuo 郭瑞筠 / Miss Honolulu USA (第一位台裔夏威夷選美皇后) / 2017](https://taiwaneseamericanhistory.org/ff317/)
