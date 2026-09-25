@@ -32,7 +32,7 @@ Yu-Wen Wu is an interdisciplinary artist creating works that explore universal c
 <!-- tah-tables:end -->
 
 ## Role in the Community
-- Corpus re-grep 2026-09-21: hits remain the same three band-B bibliographic records (#42, #996, #1020) already linked; no narrative text in the corpus beyond them. Nothing new absorbable this pass.
+- Corpus re-grep 2026-09-25 (slice 09231300-8): hits remain the same three band-B bibliographic records (#42, #996, #1020) already linked; no narrative text in the corpus beyond them. Nothing new absorbable this pass.
 - TAHS/TAH Foundation holds three archival records of the Taipei-born interdisciplinary artist: [[works/taiwaneseamericanhistory-org/42-yu-wen-wu|TAH #42 (2015-04-30)]], [[works/taiwaneseamericanhistory-org/whoswho906|TAH #996 (2016-05-20)]], and [[works/taiwaneseamericanhistory-org/whoswho1020|TAH #1020 (2016-05-26)]].
 - The repeat records (2015, then twice in 2016) document sustained visibility in the TAH Who's Who corpus during 2015–2016.
 - Records are bibliographic (band B); full text stays in the TAH vault.
