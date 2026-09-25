@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # Henry Cheng (鄭煥壁)
 
@@ -54,3 +54,4 @@ last_reviewed: 2026-09-24
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - 2026-09-23 corpus re-grep (DEEPEN-X slice 09221200-30): hit-set unchanged — same records already absorbed/wikilinked above; nothing new absorbable. SKIP-content.
 - 2026-09-24 corpus re-grep (DEEPEN-X slice 09230700-19): hit-set unchanged — same records already absorbed/wikilinked (604/605/606, #391, #175, works index) plus the 85℃ USA 2024 press record held as same-name-different-person. Nothing new absorbable. SKIP-content.
+- Corpus re-scan 2026-09-25 (deepen-x slice 09240700-22): fresh grep — hit set unchanged, all hits already wikilinked with facts absorbed. SKIP-deepen; nothing new absorbable.
