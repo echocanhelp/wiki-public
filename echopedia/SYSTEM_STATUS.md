@@ -1,6 +1,6 @@
 # Echopedia System Status
 
-*Generated: 2026-09-25 00:26 PDT*
+*Generated: 2026-09-25 00:27 PDT*
 
 ## Orientation
 - **Entry:** go <plain language> via go-router (auto-route) · **Control:** [CONTROL.md](CONTROL.md)
@@ -21,7 +21,7 @@
 ## Content
 |- **Tier1 pages:** 2876 (people 2409 / orgs 433 / sources 34) · Tier2 archive: 29103
 |- **Janitor queue depth:** 54
-|- **Uncommitted files:** 283
+|- **Uncommitted files:** 0
 
 ## Self-improvement pipeline (Scout → Filter → Extract → Evaluate → Generate → Review)
 || Stage | Script | Last run | Output |
@@ -61,7 +61,7 @@ Load skill **echopedia-ops** first for any wiki work.
     Last run:  2026-09-24T07:01:00.304866-07:00  ok
     Name:      vllm-thermal-scaler
     Schedule:  every 1m
-    Last run:  2026-09-25T00:24:42.867708-07:00  ok
+    Last run:  2026-09-25T00:26:42.996736-07:00  ok
     Name:      Echopedia content analysis
     Schedule:  10 21 * * *
     Last run:  2026-09-24T21:11:19.406633-07:00  ok
@@ -129,7 +129,7 @@ Load skill **echopedia-ops** first for any wiki work.
 | 45 23 * * * | `pair-miner-growth` | no_agent | on | ok | `pair-miner-cron.sh` |
 | 45 23 * * 0 | `echopedia-source-continuity` | no_agent | on | ok | `echopedia-source-continuity.sh` |
 | 5 21 * * * | `cron-output-rotate` | no_agent | on | ok | `cron-output-rotate.sh` |
-| 50 0 * * * | `memory-audit` | no_agent | on | error | `memory-audit.sh` |
+| 50 0 * * * | `memory-audit` | no_agent | on | ok | `memory-audit.sh` |
 | 50 21 * * * | `echopedia-backlink-auditor` | no_agent | on | ok | `echopedia-backlink-auditor-cron.sh` |
 | 50 22 * * * | `echopedia-interaction-absorb` | no_agent | on | ok | `echopedia-interaction-absorb.py` |
 | every 1m | `vllm-thermal-scaler` | no_agent | on | ok | `vllm-thermal-scaler.sh` |
