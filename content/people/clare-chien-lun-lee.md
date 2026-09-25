@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-25
 ---
 # Clare Chien-Lun Lee (李阡綸)
 
@@ -47,3 +47,4 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- Re-grepped corpus 2026-09-25 (slice 09231000-31): still only whoswho1289 + musician366 + index rows; 李阡綸 absent elsewhere — SKIP-with-reason stands.

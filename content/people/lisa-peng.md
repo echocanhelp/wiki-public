@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-25
 ---
 # Lisa Peng (彭郁靜)
 
@@ -50,3 +50,5 @@ last_reviewed: 2026-09-22
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+> Re-verified 2026-09-25 (slice 09231000-31): fresh grep returns only whos-who-1806 plus index rows — no new absorbable corpus material.

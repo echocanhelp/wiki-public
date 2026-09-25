@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-25
 ---
 # Dr. Shug-Hong Young (楊士宏醫師)
 
@@ -46,6 +46,7 @@ Accomplishment
 - Corpus re-grep 2026-09-18: his community roles (紐約福爾摩沙合唱團 head, FOSPA 福爾摩沙表演藝術協會 president) come from the TAH profile itself; no memoir or other works/articles mentions found — SKIP-content, nothing new absorbable.
 - Corpus re-grep 2026-09-21 (slice 09210317-21): only hit remains his own encyclopedia page [[works/taiwaneseamericanhistory-org/whos-who-1841-shug-hong-young|TAH #1841]] plus index listings. SKIP-content; nothing new absorbable.
 - Corpus re-grep 2026-09-22 / 2026-09-23 (slice 09221400-27): fresh grep (EN+ZH, works/+articles/) again returns only [[works/taiwaneseamericanhistory-org/whos-who-1841-shug-hong-young|TAH #1841]] and the index — no memoir material. SKIP-content.
+- Corpus re-grep 2026-09-25 (slice 09231000-24): fresh grep (楊士宏 / Shug-Hong Young, works/+articles/) returns only his own encyclopedia page [[works/taiwaneseamericanhistory-org/whos-who-1841-shug-hong-young|TAH #1841]] plus works/index.md — verified saturated, nothing new absorbable.
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
