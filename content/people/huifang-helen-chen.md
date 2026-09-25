@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # Huifang Helen Chen
 
@@ -48,3 +48,5 @@ _No filled family fields on the TAH profile._
 - Corpus check 2026-09-23 (deepen-x slice 09221300-25): re-grep (Huifang/Huifan Helen Chen) unchanged — only the two TA.org records already absorbed (184, 381) plus works/index. Verified saturated; HOLD on Huifang-vs-Huifan romanization dedup still pending owner input.
 
 - Corpus check 2026-09-24 (deepen-x slice 09230800-11): fresh grep (Huifang/Huifan Helen Chen) — hit set unchanged (184, 381, works index), all already absorbed. SKIP-deepen; HOLD on Huifang-vs-Huifan dedup still pending owner input.
+
+- Corpus check 2026-09-25 (deepen-x slice 09240800-4): fresh grep (Huifang/Huifan Helen Chen) — identical hit set (184, 381, works index); no new corpus material. SKIP-deepen; HOLD on Huifang-vs-Huifan romanization dedup still pending owner input.

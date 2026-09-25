@@ -32,6 +32,7 @@ Education listed: 台灣神學院 (Taiwan Theological College).
 In 2024/09 he appears in TAH's record of the Carnegie Hero Fund commission ceremony alongside John Cheng.
 
 ## From the record
+- 覆核（TJJ-A09240700-6, 2026-09-25）：本 slice 文章 131a1c8ea05f85ea（台美人台加人 p360, 2024-07-15 快照）正文再驗證——「VOA專訪張宣信牧師：政治傾向不同不是敵人」條目確認見於正文，連結為真，無錯鏈、無虛鏈；2022-05-19 條目（已含該文 wikilink）已在庫 — SKIP，已飽和。
 
 - 複核（TJJ-A09240500-2, 2026-09-25）：本 slice 文章 117bdbbd9b362236 正文再驗證——代理講道前主任牧師張宣信以椅子撲打兇嫌確認見於正文，subject 連結為真（無錯鏈、無虛鏈）；對應日期條目（已掛該文 wikilink）已在庫 — SKIP，無新材料。
 

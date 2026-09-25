@@ -54,6 +54,8 @@ last_reviewed: 2026-09-25
 
 - 2026-09-24 slice 09230800-23 複核：命中集合不變（TAH #1154、works index、2021 WHA 聲明兩筆、2013 核四表決一筆），全部已收錄 — SKIP。
 
+- 2026-09-25 slice 09240800-1 複核：命中集合不變（TAH #1154、works index、2021 WHA 聲明兩筆、2013 核四表決一筆），全部已收錄 — SKIP。
+
 ## Sources
 - [TAH #1154 encyclopedia: 1154. Kai-Chin Chan  詹凱臣 / 2016/07](https://taiwaneseamericanhistory.org/whoswho1154/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/kai-chin-chan/)

@@ -57,6 +57,7 @@ HOLD: 「Liyen James Hu」在 [[works/taiwaneseamerican-org/lunchbox-anne-hu-rel
 2026-09-23 re-check (DEEPEN-X slice 09221200-22): corpus re-grep hit-set unchanged (887, ourjourneys107「重要電腦技巧 胡宏仁教授」課程名單, index entity-link 目錄, plus the two held lunchbox/James Huang false-identity hits and the TJJ 黃瑞雅 page) — verified-saturated, nothing new absorbable this pass.
 
 ## From the record
+- 覆核（TJJ-A09240700-6, 2026-09-25）：本 slice 文章 49d912cc449367f0（長青教室 tag p2, 2024-06-21 快照）正文再驗證——「長青教室心得報告-建造健康奇蹟的食用好油 ◎講師 胡宏仁教授 2017-11-29」確認見於正文，連結為真；2017-11-29 條目（已含該文 wikilink）已在庫 — SKIP，已飽和；James Hu/Liyen James Hu 同名異人 HOLD 不變。
 
 - 複核（TJJ-A09230700-5, 2026-09-24）：subject link 對照 slice 文章 49d912cc449367f0（長青教室 tag p2）正文再驗證——「建造健康奇蹟的食用好油 ◎講師 胡宏仁教授 2017-11-29」確認見於正文，連結為真；2017-11-29 條目已在庫 — SKIP，無新材料。
 

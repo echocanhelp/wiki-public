@@ -12,6 +12,7 @@ last_reviewed: 2026-09-25
 
 <!-- deepen-x 09220500-29: re-verified 2026-09-22 — fresh grep (works+articles): hits = ourjourneys106, ourjourneys33, whos480, index — all already absorbed in Role in the Community. SKIP-content — saturated, nothing new absorbable. -->
 <!-- deepen-x 09221400-6: re-verified 2026-09-23 — fresh grep (張肅, works+articles): hits unchanged (ourjourneys106, ourjourneys33, whos480, index) — all absorbed. SKIP-content — saturated, nothing new absorbable. -->
+<!-- deepen-x 09240800-5: re-verified 2026-09-25 — fresh grep (張肅, works+articles): hits unchanged (ourjourneys106 blacklist roster, ourjourneys33 family narrative, whos480, index) — all already in Role in the Community. SKIP-content — saturated. -->
 
 ## Identity Snapshot
 - **English:** —

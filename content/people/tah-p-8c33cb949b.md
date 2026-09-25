@@ -6,7 +6,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # 賴江椿
 
@@ -50,6 +50,7 @@ last_reviewed: 2026-09-24
 - 2026-09-22 deepen-x slice 09220500-6: idempotent re-verify — corpus hits unchanged (Our Journeys 290/252, TAH #633); all links resolve to existing slugs; verified-saturated.
 - 2026-09-23 deepen-x slice 09221300-21: idempotent re-verify — corpus hits unchanged (Our Journeys 290/252 + -eng mirrors, TAH #633; ourjourneys305 'David Lai' is a different person, not 賴江椿). Verified-saturated.
 - 2026-09-24 deepen-x slice 09230800-12: idempotent re-verify — fresh ZH+EN grep returns identical hit-set (OJ 290/252, TAH #633, index); chair tenure, David Lai contact block, and 顧問 role all already absorbed. Verified-saturated.
+- 2026-09-25 deepen-x slice 09240800-4: idempotent re-verify — fresh grep (賴江椿|David Lai) hit set unchanged (OJ 290/252 + -eng mirrors, TAH #633; OJ 305 'David Lai' remains a different person); chair-succession text re-read matches absorbed tenure 2007–2008. Verified-saturated.
 
 
 ## Sources

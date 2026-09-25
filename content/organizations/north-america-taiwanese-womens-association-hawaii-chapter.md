@@ -36,3 +36,4 @@ Re-verified SKIP (slice 09221500-7, 2026-09-23): fresh grep 夏威夷|Hawaii aga
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 Re-verified SKIP (slice 09230900-5, 2026-09-24): fresh grep 北美洲台灣婦女會|NATWA returns the parent-newsletter records 663/679 聯誼通訊, the Houston-centric [[works/taiwaneseamericanhistory-org/ourjourneys328|Our Journeys #328]], and [[works/taiwaneseamericanhistory-org/columns17|17. 關懷網 by NATWA关怀资讯中心]] — grep for Hawaii/夏威夷 inside these new hits returns zero matches. No chapter-level facts to absorb. Saturated.
+Re-verified SKIP (slice 09240800-1, 2026-09-25): fresh grep 北美洲台灣婦女會|NATWA returns the same saturated set plus San Diego / Oregon-Southwest chapter records — grep Hawaii/夏威夷 inside the new chapter hits returns zero matches. No chapter-level facts to absorb. Saturated.
