@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-25
 ---
 # Fong Chung Fan (樊豐忠)
 
@@ -43,4 +43,4 @@ last_reviewed: 2026-09-22
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
-<!-- deepen-x 09200800-27 / 09210831-12: SKIP — corpus re-scan (2026-09-22) found only own TAH Who's Who record, works index, the 昆布勞 memoir [[works/taiwaneseamericanhistory-org/ourjourneys228|Our Journeys 228]] passage, and the taiwanjustice 後援會 report; all already absorbed into Role in the Community, no new memoir prose. -->
+<!-- deepen-x 09200800-27 / 09210831-12: SKIP — corpus re-scan (2026-09-22) found only own TAH Who's Who record, works index, the 昆布勞 memoir [[works/taiwaneseamericanhistory-org/ourjourneys228|Our Journeys 228]] passage, and the taiwanjustice 後援會 report; all already absorbed into Role in the Community, no new memoir prose. Re-check 2026-09-25 (slice 09231000-32): fresh ZH+EN grep returns only the own TAH record whos-fong-chung-fan, the 昆布勞 memoir ourjourneys228, the taiwanjustice 後援會 report, and the works index — all already absorbed; nothing new. -->

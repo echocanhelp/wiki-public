@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-25
 ---
 # C. C. Chang (張健昌醫師)
 
@@ -41,6 +41,7 @@ _No filled family fields on the TAH profile._
 - HOLD: the initials "C. C. Chang" are shared with a different person, TAH #1473 張志群 (2017/01, [[works/taiwaneseamericanhistory-org/whoswho1473]]) — do not conflate; only records naming 張健昌 belong to this page.
 - Corpus re-verified 2026-09-22 (slices 09211300-23, 09220800-29): fresh grep again returns no works/articles hits beyond the records below.
 - Corpus re-verified 2026-09-22 (slice 09211300-23): works hits are the already-linked records #1196 and #1297 (memoir 從中國革命少年到台灣建國老兵 — bibliographic record only, full text stays in the vault) plus the namesake HOLD #1473 張志群; no new absorbable material.
+- Corpus re-verified 2026-09-25 (slice 09231000-32): fresh ZH+EN grep returns only the already-linked #1196, #1297, the namesake HOLD #1473, and the works index — no new absorbable material.
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/c-c-chang/)
