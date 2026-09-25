@@ -32,6 +32,8 @@ HOLD: the corpus records do not name GT TASA as organizer of these events; the l
 Fresh corpus re-grep 2026-09-22 (slice 09211507-12): case-insensitive Georgia Tech / GT TASA / gttasa matches remain exactly ourjourneys256, the ITASA East Coast Conference and Taiwanese Night Market work pages, and the works index — all already linked above; verified saturated.
 Re-grep 2026-09-23 (slice 09221000-31) and 2026-09-25 (slice 09230900-23): hit set again identical (ourjourneys256, ITASA conference, Night Market, works index) — verified saturated; SKIP-with-nothing-absorbable.
 
+- Re-verified 2026-09-25 (slice 09250400-4): fresh grep Georgia Tech/gttasa/gt_tasa over works+articles returns the same saturated set (ourjourneys256, ITASA East Coast Conference, Taiwanese Night Market, works index); nothing new absorbable.
+
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

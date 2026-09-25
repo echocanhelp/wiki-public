@@ -23,6 +23,8 @@ The New World Art Center (NWAC) is an international art gallery and management c
 - The corpus holds multiple T.F. Chen records consistent with NWAC's stated 30-year exhibition program for him: [[works/taiwaneseamericanhistory-org/videos42|TAH #42 陳錦芳藝術的人生]], [[works/taiwaneseamericanhistory-org/t-f-chens-family-in-art|TAH #102 T.F. Chen's Family in Art 陳錦芳全家投入藝術]], and [[works/taiwaneseamericanhistory-org/publications246|TAH #246 陳錦芳的藝術：新意象派 / Neo-Iconography]].
 - The TAH directory entry itself is archived at [[works/taiwaneseamericanhistory-org/new-world-art-center|TAH org record (2016-02-22)]]; no community memoir text beyond the directory profile was found, so no further facts absorbed (re-verified 2026-09-21 and 2026-09-23 (slice 09221400-16), and 2026-09-25 (slice 09230900-25): corpus grep for NWAC / 陳錦芳文化館 returns only the directory record itself, the works index, and a frontmatter false-positive in a 2023 TJJ 台灣會館電影週 notice — nothing absorbable).
 
+- Re-verified 2026-09-25 (slice 09250400-4): fresh grep NEW WORLD ART/陳錦芳文化館/New World Art Center over works+articles returns only the directory record and the works index; nothing absorbable.
+
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/new-world-art-center/)
 
