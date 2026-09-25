@@ -41,7 +41,7 @@ _No filled family fields on the TAH profile._
 ## Role in the Community
 Corpus presence is limited to his own TAH encyclopedia entries — [[works/taiwaneseamericanhistory-org/260-marlon-chen-e3-80-80-e9-99-b3-e5-95-9f-e5-af-ac-conductor|260. Marlon Chen 陳啟寬, Conductor]] and [[works/taiwaneseamericanhistory-org/528-marlon-chen-e9-99-b3-e5-95-9f-e5-af-ac-201508|528. Marlon Chen 陳啟寬 (2015/08)]], both dated 2015-08-10. No memoir or organizational mentions found in works/articles beyond these profiles (press-kit biography only; the musician's community role in the movement record is not yet documented in our corpus).
 - Corpus re-grep 2026-09-21 (slice 09210317-21): same two self-entries plus index listings only. SKIP-content; nothing new absorbable.
-- Corpus re-greps 2026-09-22 / 2026-09-25 (slices 09220600-13, 09230900-31): hits confined to the two own TAH encyclopedia entries above; no memoir/organizational mentions. SKIP-with-reason: press-kit only, community role still undocumented in corpus.
+- Corpus re-greps 2026-09-22 / 2026-09-25 (slices 09220600-13, 09230900-31, 09250400-8): hits confined to the two own TAH encyclopedia entries above plus the works index; no memoir/organizational mentions. SKIP-with-reason: press-kit only, community role still undocumented in corpus.
 
 ## Sources
 - [TAH #260 encyclopedia: 260. Marlon Chen　陳啟寬, Conductor](https://taiwaneseamericanhistory.org/260-marlon-chen%e3%80%80%e9%99%b3%e5%95%9f%e5%af%ac-conductor/)

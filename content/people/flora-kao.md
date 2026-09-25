@@ -41,6 +41,7 @@ _No filled family fields on the TAH profile._
 
 - Re-grepped corpus 2026-09-20 (slice 09191100-10), 2026-09-21 (slice 09210051-9), 2026-09-22 (slice 09220600-7), and 2026-09-23 (slice 09221400-31): only hits are her own four TAH bibliography pages and the source index; no community memoir text beyond the records above (SKIP).
 - Re-grepped corpus 2026-09-25 (slice 09231000-25): same hit set — her own two work pages plus bibliography pages only; verified-saturated, SKIP.
+- Re-grepped corpus 2026-09-25 (slice 09250400-8): same hit set — her own four TAH pages (621/622/artist35/whos319) plus the works index; no memoir text; SKIP.
 
 ## Sources
 - [TAH #319 encyclopedia: 319.  Flora Kao  高微婷 /2015/03](https://taiwaneseamericanhistory.org/whos319-flora-kao/)
