@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-25
 ---
 # Julie Su Young (蘇秋莉)
 
@@ -35,6 +35,7 @@ last_reviewed: 2026-09-22
 - Husband 楊士宏 also has a paired encyclopedia record in the corpus: [[works/taiwaneseamericanhistory-org/whos-who-1841-shug-hong-young|1841. Dr. Shug-Hong Young 楊士宏醫師]], and a person page [[people/dr-shug-hong-young|Dr. Shug-Hong Young]] — consecutive entries suggest the couple were entered together.
 - Her name appears in the corpus index alongside the 2017-08-12 台美小姐選拔會 record by 大洛杉磯台灣會館基金會: [[works/taiwaneseamericanhistory-org/2017-16|16. 2017 Miss Taiwanese American Pageant]] (co-listed; relationship to the event unverified — likely same-period Los Angeles TA community activity).
 - No memoir/corpus narrative beyond bibliographic records; no further biography invented.
+- Corpus re-check (2026-09-25, deepen-x slice 09231300-31): fresh grep (蘇秋莉 / Julie Su Young) returned the same hit set — own record [[works/taiwaneseamericanhistory-org/whoswho1842|TAH #1842]] + index (incl. the already-noted co-listing with [[works/taiwaneseamericanhistory-org/2017-16|2017 Miss Taiwanese American Pageant]]); no new material — SKIP persists.
 
 ## Sources
 - [TAH #1842 encyclopedia: 1842. Julie Su Young 蘇秋莉 / 08/2017](https://taiwaneseamericanhistory.org/whoswho1842/)
