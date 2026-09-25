@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # Prof. Chun-fan Chen (陳春帆博士)
 
@@ -58,3 +58,4 @@ Accomplishment
 - Re-verify 2026-09-23 (slice 09230317-14): fresh re-grep 陳春帆/Chun-fan Chen (works+articles) — same 6 hits, all already wikilinked. SKIP, verified-saturated.
 - Deepened 2026-09-22 (slice 09211400-19): re-grep found a community mention in his wife's memoir [[works/taiwaneseamericanhistory-org/ourjourneys101|101. 美東南區台灣人海上夏令會 / 吳明美 / 2015/02]] — at the 2015 US Southeast District Taiwanese sea summer cruise camp (南佛州分會主辦, 2015-02), 陳春帆 co-hosted the closing ceremony (閉幕式由蔡明珠與陳春帆主持) with 蔡明珠, nicknamed 「黃帝」 in the Miami 同鄉社群, and closed the evening with 渾笑話 that entertained the assembly — evidence of active leadership in the 美東南區台灣人同鄉會 community, not just academia. His teaching-career memoir #588 is also held in Chinese at [[works/taiwaneseamericanhistory-org/mystories588|588. 我的教學生涯 / 陳春帆]] alongside the English version already linked.
 - Re-verify 2026-09-24 (slice 09230317-14 completion pass): fresh re-grep 陳春帆/Chun-fan Chen — same hit set (memoirs #189, #198, #588 EN+中文, #676, collection #46, encyclopedia #28, 吳明美 ourjourneys101), every file already wikilinked on this page. Verified-saturated, no new material.
+- Deepened 2026-09-25 (slice 09240317-6): fresh re-grep found a new 7th authored work — [[works/taiwaneseamericanhistory-org/907-e6-9d-8f-e5-a3-87-e6-bc-ab-e8-ab-87-e6-bc-ab-e8-ab-87-e7-94-9f-e7-89-a9-e9-8|907. 杏壇漫談-漫談生物醫藥 / 陳春帆 / 2015/12]] — a popular-science essay on biomedicine, adding to his community-author record beyond memoirs.

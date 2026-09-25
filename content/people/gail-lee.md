@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # Gail Lee (李秀文)
 
@@ -59,3 +59,5 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+Corpus re-grep 2026-09-25 (slice 09240317-17, 李秀文 / Gail Lee): hit set unchanged (musician63, whoswho1115-2, works index only) — SKIP, verified-saturated; HOLD on degree field (M.S. vs M.M.) stands.

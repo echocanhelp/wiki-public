@@ -26,6 +26,7 @@ The chapter's own activities are documented first-hand in the TAH story corpus (
 - 2015-12-17 — chapter profiled in the NATWA directory record — [[works/taiwaneseamericanhistory-org/natwa-st-louis-chapter|15. St. Louis Chapter / NATWA 北美洲台灣婦女會聖路易分會]]
 - 2015-12-15 — chapter members performed 原住民舞蹈 (indigenous/Formosan dance) at the St. Louis Art Museum — [[works/taiwaneseamericanhistory-org/20-natwa-art-museum|2015年北美洲台灣婦女會聖路易分會 Art Museum 表演原住民舞蹈]] (absorbed 2026-09-24, slice 09230400-9 — the chapter's fifth first-hand record in the story corpus).
 - 2015-12-28 — served a Christmas dinner (聖誕晚餐) at HavenHouse, a St. Louis shelter for homeless mothers and children — [[works/taiwaneseamericanhistory-org/natwa-serves-havenhouse|北美洲台灣婦女會聖路易分會 Serves HavenHouse 聖誕晚餐]]
+- 2016-02-06 — chapter-authored story "22. Compassion" (章美茜) published in the TAH story corpus, the chapter's first 2016 first-hand record extending the 2015 service run — [[works/taiwaneseamericanhistory-org/1-e7-ab-a0-e7-be-8e-e8-8c-9c|22. Compassion by 北美洲台灣婦女會聖路易斯分會]] (absorbed 2026-09-25, slice 09240317-14).
 
 Context note: St. Louis's older Taiwanese professional organizing (NATMA's St. Louis chapter, per the 周烒明 memoir) predates this women's chapter; the NATWA chapter continues that civic tradition focused on service and cultural presence.
 

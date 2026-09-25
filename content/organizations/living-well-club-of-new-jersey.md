@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # Living Well Club of New Jersey (紐澤西州)
 
@@ -35,3 +35,4 @@ The Living Well Club of New Jersey is a Taiwanese American senior social organiz
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - Re-verified 2026-09-24 (slice 09230400-4): corpus re-grep (Living Well) returns only the already-linked records (works 1, 3, newsletter, concerts135, ourjourneys356 + -eng). SKIP: verified-saturated.
+- Re-verified 2026-09-25 (slice 09240317-6): fresh re-grep 生活充實俱樂部/Living Well Club — hit set identical to the already-linked records (works 1, 3, newsletter, concerts135, ourjourneys356 + -eng, photo-albums-76) plus the three archived copies of 楊遠薰's 懷念彭昕醫師 memoir, all already wikilinked. SKIP: verified-saturated.
