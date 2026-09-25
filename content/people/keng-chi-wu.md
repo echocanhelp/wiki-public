@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # Keng Chi Wu (吳耿志)
 
@@ -47,6 +47,7 @@ Accomplishment
 - Corpus re-grep (slice 09221200-20, 2026-09-23): hit-set unchanged (whos-who-39, Lockheed Martin award, ourjourneys43, works index) — verified-saturated; nothing new absorbable.
 
 - Corpus re-grep (slice 09230700-9, 2026-09-24): hit-set unchanged from prior passes — all hits already absorbed above; verified-saturated, nothing new absorbable, no conflicts.
+- Corpus re-grep (slice 09240700-19, 2026-09-25): hit-set unchanged (whos-who-39, Lockheed Martin award, ourjourneys43, works index) — verified-saturated, nothing new absorbable, no conflicts.
 
 ## Sources
 - [TAH #39 encyclopedia: 39. Keng Chi Wu 吳耿志](https://taiwaneseamericanhistory.org/whos-who-39-keng-chi-wu/)

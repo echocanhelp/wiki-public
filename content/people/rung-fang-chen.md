@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # Rung-fang Chen (陳榮芳)
 
@@ -41,6 +41,7 @@ _No filled family fields on the TAH profile._
 Corpus re-check 2026-09-23 (deepen-x slice 09221200-31): fresh grep of works/ and articles/ — hit set unchanged (Our Journeys 38 EN, blacklist memoir #315, TAH #1098); all body-text facts already absorbed above. SKIP-deepen; nothing new absorbable.
 
 Corpus re-check 2026-09-24 (deepen-x slice 09230700-15): fresh grep (陳榮芳/Rung-fang Chen) — hit set unchanged (ourjourneys315, whos1098, ourjourneys38-eng, works index); all facts already absorbed above. SKIP-deepen maintained (verified-saturated).
+Corpus re-check 2026-09-25 (deepen-x slice 09240700-19): fresh grep — hit set identical (ourjourneys315, whos1098, ourjourneys38-eng, works index). SKIP-deepen; verified-saturated, nothing new absorbable.
 
 
 ## Sources

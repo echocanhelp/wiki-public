@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # Prof. Nai-chang Yeh (葉乃裳教授)
 
@@ -53,3 +53,4 @@ _No filled family fields on the TAH profile._
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 Corpus re-grep (slice 09230700-12, 2026-09-24): fresh grep for 葉乃裳/Nai-chang Yeh — hits unchanged: own three TAH records (#10 pride, #187, #1004) plus index only; no memoir or article mentions. Verified-saturated.
+Corpus re-grep (slice 09240700-19, 2026-09-25): fresh grep — hits unchanged (own three TAH records + index); no memoir or article mentions. SKIP (verified-saturated).
