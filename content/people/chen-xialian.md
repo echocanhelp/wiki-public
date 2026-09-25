@@ -39,6 +39,7 @@ Her continued visibility in bulletin records reflects stable elder leadership co
 - HOLD: corpus sweeps 2026-09-15, 2026-09-16, and 2026-09-17 found no 陳夏蓮 material in works/articles. The only 夏蓮 hits ([[works/taiwaneseamericanhistory-org/625-helen-allen-e8-b6-99-e5-a4-8f-e8-93-ae-201509|625. Helen Allen 趙夏蓮]], ff310, ourjourneys-138) are 趙夏蓮/Helen Allen — a different person, not merged.
 - Corpus note: SKIP — re-greps 2026-09-19 (slice 09170600-26), 2026-09-20 (slice 09190400-15), 2026-09-21 (slice 09201503-4), and 2026-09-22 (slice 09211507-9; regex 陳夏蓮 / Chen Xialian / Xiaolian, zero hits; the only 夏蓮 hits remain the 趙夏蓮/Helen Allen works above) find no 陳夏蓮 material in works/articles; bulletin-derived evidence above is the sole source.
 - Corpus note 2026-09-24 (slice 09230400-31; regex 陳夏蓮 / Chen Xialian / Xiaolian): zero hits in works/articles. SKIP — bulletin-derived evidence above remains the sole source.
+- Corpus note 2026-09-25 (slice 09240500-31; regex 陳夏蓮 / Chen Xialian / Xiaolian): zero hits in works/articles again — the 夏蓮 hits remain 趙夏蓮/Helen Allen, a different person. SKIP — bulletin-derived evidence remains the sole source.
 
 ## Contribution Invitation
 Use Echopedia Community Contributions Hub.

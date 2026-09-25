@@ -37,6 +37,7 @@ last_reviewed: 2026-09-25
 - Additional TAH story-corpus record: [[works/taiwaneseamericanhistory-org/495-e6-9d-8e-e7-8e-89-e7-90-9b201507||495. 李玉琛 / 2015-07]].
 - Corpus records are bibliographic (band B, full text stays in the vault); beyond the "first cardiologist" distinction they add no biographical detail that conflicts with the TAH Who's Who snapshot above. Re-grep 2026-09-21 (slice 09201503-3): corpus hits remain only these three own records plus the works index — verified saturated.
 - Corpus re-grep 2026-09-24 (slice 09230400-31): hits remain only the three own records (227, 495, mystories281) plus the works index — verified saturated.
+- Corpus re-grep 2026-09-25 (slice 09240500-32): same hit set (227, 495, mystories281 + works/index) — verified saturated, nothing new absorbable.
 
 ## Family
 
