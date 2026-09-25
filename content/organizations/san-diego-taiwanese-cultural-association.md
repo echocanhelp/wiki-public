@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # San Diego Taiwanese Cultural Association (南加州)
 
@@ -27,6 +27,7 @@ The San Diego Taiwanese Cultural Association (SDTCA, 聖地牙哥台灣同鄉會
 
 _Corpus re-grep 2026-09-23: same hits (project-3-41 ZH/ENG, directory record, TAA chapter record, 鄉訊 newsletter, ourjourneys337/162/328, tcsd-summer-camp, seniororg6) — all already linked above; page saturated, nothing new._
 _Corpus re-grep 2026-09-24 (deepen-x slice 09230600-28): fresh ZH+EN grep returns the same hit set (project-3-41 ZH/ENG, directory record, TAA chapter record, newsletter-sdtca, ourjourneys337) — all linked/absorbed; verified saturated._
+_Corpus re-grep 2026-09-25 (deepen-x slice 09240600-30): fresh ZH+EN grep returns the same hit set (project-3-41 ZH/ENG, directory record, TAA chapter record, newsletter-sdtca, ourjourneys337) — all linked/absorbed; verified saturated._
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/san-diego-taiwanese-cultural-association/)

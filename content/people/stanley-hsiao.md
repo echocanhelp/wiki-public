@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # Stanley Hsiao (蕭東賢)
 
@@ -47,6 +47,7 @@ No memoir names 蕭東賢 directly, but corpus records around his wife 黃美琇
 - His own opinion writing survives in the community press: [[articles/taiwanjustice-net/2025/20251210210523_能寄望台灣司法嗎_-_-蕭東賢_11ccff28ddb21436|〈能寄望台灣司法嗎？〉蕭東賢／2020-01-04  signed 南加，2020-01-06 刊於 TaiwanJustice.NET]] — a lawyer's intervention in Taiwan's judicial-reform debate, criticizing the judges (司法院長許宗力 included) who joined the 大法官連署; the site's 義論 editorial column carries the piece, showing a sustained columnist presence rather than a one-off letter.
 - 2026-09-23 (slice 09221200-18): verified-saturated re-verify; the 義論 editorial-category archive page ([[articles/taiwanjustice-net/2025/20250419234307_category_editorial_f3d0464b25d155e9|義論 editorial column index, archived 2025-04-19]]) corroborates the sustained columnist presence.
 - 2026-09-24 (slice 09230600-18): fresh ZH+EN grep returns only his own encyclopedia record, the MANIFEST, the 義論 column archive page, and his signed article — all already cited above; no new memoir material naming 蕭東賢 (SKIP-with-reason).
+- 2026-09-25 (slice 09240600-30): fresh ZH+EN grep returns only his own encyclopedia record, works index, MANIFEST, the 義論 column archive page, and his signed article — all already cited above; no new memoir material naming 蕭東賢 (SKIP-with-reason).
 
 ## Sources
 - [TAH #2254 encyclopedia: 2254. Stanley Hsiao 蕭東賢](https://taiwaneseamericanhistory.org/whos-who-2254-stanley-hsiao/)
