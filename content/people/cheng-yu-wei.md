@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-25
 ---
 # Cheng-Yu Wei (魏琤郁)
 
@@ -37,7 +37,7 @@ _No filled family fields on the TAH profile._
 ## Role in the Community
 
 - Community record: her TAH Who's Who encyclopedia entry is held in the story corpus as [[works/taiwaneseamericanhistory-org/whoswho1584|1584. Cheng-Yu Wei 魏琤郁]] (published 2017-03-26, value band B).
-- Corpus scan (works/articles) found no memoir or article mentions beyond the encyclopedia record itself; UCSD stage-management roles above remain press-kit sourced.
+- Corpus scan 2026-09-25 (ZH+EN grep works/articles): hits limited to this own record listing in works/index.md; no memoir or article mentions beyond the encyclopedia record itself; UCSD stage-management roles above remain press-kit sourced.
 
 ## Sources
 - [TAH #1584 encyclopedia: 1584. Cheng-Yu Wei 魏琤郁 / 2017/03](https://taiwaneseamericanhistory.org/whoswho1584/)
