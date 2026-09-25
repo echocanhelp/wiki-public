@@ -40,6 +40,7 @@ _No filled family fields on the TAH profile._
 - Profiled in two TAH encyclopedia entries: the artist-series entry ([[works/taiwaneseamericanhistory-org/artist35-flora-kao|35. 高微婷 Flora Kao]]) and the Who's Who entry ([[works/taiwaneseamericanhistory-org/whos319-flora-kao|319. Flora Kao 高微婷]]).
 
 - Re-grepped corpus 2026-09-20 (slice 09191100-10), 2026-09-21 (slice 09210051-9), 2026-09-22 (slice 09220600-7), and 2026-09-23 (slice 09221400-31): only hits are her own four TAH bibliography pages and the source index; no community memoir text beyond the records above (SKIP).
+- Re-grepped corpus 2026-09-25 (slice 09231000-25): same hit set — her own two work pages plus bibliography pages only; verified-saturated, SKIP.
 
 ## Sources
 - [TAH #319 encyclopedia: 319.  Flora Kao  高微婷 /2015/03](https://taiwaneseamericanhistory.org/whos319-flora-kao/)

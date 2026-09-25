@@ -52,3 +52,4 @@ last_reviewed: 2026-09-25
 ## Deepen-x note (2026-09-21, slice 09201503-5)
 
 - Verified-saturated: re-grep for 巫建嶔 / J. C. Wu returns only the own-record [[works/taiwaneseamericanhistory-org/whos-who-1879-j-c-wu|TAH #1879]] and the works index. No memoir mentions; SKIP.
+- Corpus re-grep 2026-09-25 (slice 09231000-25): zero hits in works/ and articles/ beyond the own-record page; verified-saturated, SKIP.
