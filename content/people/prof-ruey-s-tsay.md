@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # Prof. Ruey S. Tsay (蔡瑞胸教授)
 
@@ -62,3 +62,4 @@ _No filled family fields on the TAH profile._
 - Re-check (deepen-x slice-09220700-6, 2026-09-22): identical hit set (own bibliographic records + index only) -- SKIP-with-reason: no absorbable memoir/community corpus; existing links and HOLDs unchanged.
 - Re-check (deepen-x slice-09221400-1, 2026-09-23): fresh grep hit set identical to already-absorbed wikilinks (own bibliographic records + index only) -- SKIP-with-reason: no absorbable memoir/community corpus; links and HOLDs unchanged.
 - Re-check (deepen-x slice-09230800-1, 2026-09-24): fresh grep hit set identical (#1793 + index only) -- SKIP-with-reason: no absorbable memoir/community corpus; links and HOLDs unchanged.
+- Re-check (deepen-x slice-09240700-1, 2026-09-25): fresh grep 蔡瑞胸|Ruey S. Tsay identical (#1793 + index only; article 'Ruey' hit is Dr. Ruey J. Sung, different person) -- SKIP-with-reason: no absorbable material; HOLDs unchanged.

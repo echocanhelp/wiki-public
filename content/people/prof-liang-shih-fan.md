@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: reviewed
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # Prof. Liang-Shih Fan (范良士教授)
 
