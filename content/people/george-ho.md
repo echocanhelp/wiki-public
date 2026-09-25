@@ -14,7 +14,10 @@ last_reviewed: 2026-09-21
 <!-- deepen-x 09172104-1: SKIP — corpus grep (何震輝|George Ho) only hits the bibliographic record
      [[works/taiwaneseamericanhistory-org/whoswho1503|1503. George Ho 何震輝 / 2017/02]]
      (B-band, no article text) and the works index. No community/memoir facts absorbable.
-     Re-verified SKIP 2026-09-21 (slice 09210051-14): same result, still only own record + index. -->
+     Re-verified SKIP 2026-09-21 (slice 09210051-14): same result, still only own record + index.
+     Re-verified SKIP 2026-09-25 (slice 09232232-24): fresh ZH+EN grep of works/articles — sole hits remain
+     the bibliographic record [[works/taiwaneseamericanhistory-org/whoswho1503|1503. George Ho 何震輝 / 2017/02]]
+     (B-band, no article text) + works index. Nothing absorbable. -->
 
 ## Identity Snapshot
 - **English:** George Ho

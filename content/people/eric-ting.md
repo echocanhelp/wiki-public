@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-25
 ---
 # Eric Ting (丁維均)
 
@@ -39,7 +39,7 @@ last_reviewed: 2026-09-22
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/eric-ting/)
 
 ## Role in the Community
-- SKIP-with-reason: corpus re-scan (2026-09-22, slice 09210906-24) found no memoir/article material beyond his own bibliographic Who's Who record [[works/taiwaneseamericanhistory-org/whos-who-2119-eric-ting|TAH #2119, 2018/05]] — no absorbable community facts beyond the press-kit profile already on this page.
+- SKIP-with-reason: corpus re-scans (2026-09-22 slice 09210906-24; 2026-09-25 slice 09232232-19) found no memoir/article material beyond his own bibliographic Who's Who record [[works/taiwaneseamericanhistory-org/whos-who-2119-eric-ting|TAH #2119, 2018/05]] — no absorbable community facts beyond the press-kit profile already on this page.
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

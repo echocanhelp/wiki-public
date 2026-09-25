@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-25
 ---
 # Haofan Eric Peng (彭浩帆)
 
@@ -36,7 +36,7 @@ _No filled family fields on the TAH profile._
 
 ## Role in the Community
 - Profiled in the TAH community encyclopedia: [[works/taiwaneseamericanhistory-org/whoswho1372|1372. Haofan (Eric) Peng 彭浩帆 / 2016-11]] (published 2016-11-05, band B).
-- No further memoir or article mentions found in the corpus; his record stands on the TAH directory profile (engineering career, 台大→SUNY Buffalo, Biogen Idec).
+- No further memoir or article mentions found in the corpus (re-scan 2026-09-25, slice 09232232-19); his record stands on the TAH directory profile (engineering career, 台大→SUNY Buffalo, Biogen Idec).
 
 ## Sources
 - [TAH #1372 encyclopedia: 1372. Haofan (Eric) Peng  彭浩帆 / 2016/11](https://taiwaneseamericanhistory.org/whoswho1372/)
