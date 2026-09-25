@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # T. K. Lin (林宗光)
 
@@ -54,3 +54,4 @@ last_reviewed: 2026-09-24
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 <!-- deepen-x slice 09230700-29 (2026-09-24): saturated re-verify — fresh ZH+EN grep of works/ + articles/ returns the hit-set already absorbed on this page; no new corpus facts, no conflicts. -->
+<!-- deepen-x slice 09240700-31 (2026-09-25): saturated re-verify — fresh grep hit set unchanged (OJ #37, #47, #74 ZH+EN, mystories293, TAH #813); all absorbed above. -->
