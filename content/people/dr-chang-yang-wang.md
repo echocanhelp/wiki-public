@@ -7,9 +7,11 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-25
 ---
 # Dr. Chang-Yang Wang (王昌洋醫師)
+
+<!-- deepen-x 09231000-18: re-verified 2026-09-25 — fresh grep (works+articles, ZH+EN) returns only his own TAH record whos-who-1967 + works/index; no community/corpus facts to absorb. SKIP. -->
 
 <!-- deepen-x 09220600-17: re-verified 2026-09-22 — fresh grep (works+articles, ZH+EN) returns only his own TAH record whos-who-1967 + works/index; no community/corpus facts to absorb. SKIP. -->
 
