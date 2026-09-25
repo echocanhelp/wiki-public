@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-25
 ---
 # Prof. Chih-Hao Lucas Chang (張志豪教授)
 
@@ -44,4 +44,5 @@ _No filled family fields on the TAH profile._
 
 ## Role in the Community
 - Documented in the TAH story corpus as encyclopedia record #2125 ([[works/taiwaneseamericanhistory-org/whos-who-2125-chih-hao-chang|2125. Prof. Chih-Hao (Lucas) Chang 張志豪教授]], published 2018-06-07) — his community-record footprint is the TAH Who's Who profile itself; no memoir or event material found in the corpus.
+<!-- deepen-x slice 09231100-6 (2026-09-25): SKIP re-verified — corpus re-grep (張志豪/Chih-Hao/Lucas Chang) over works/+articles/ returns no new records; homonym politician articles absent; verified saturated. -->
 - Disambiguation: the 張志豪 appearing in TJJ/CNA coverage of DPP 中評會 disciplinary votes and 新北市議員 elections (2021–2023) is a homonymous Taiwan-based politician (DPP 新聞部主任 / 中評委), NOT this US-based researcher. Re-greps 2026-09-20 (slice 09190400-17), 2026-09-21 (slice 09201503-2), and 2026-09-22 (slice 09211507-10) return only these homonym articles plus his own TAH record — verified-saturated, nothing absorbable. Do not absorb those articles here.

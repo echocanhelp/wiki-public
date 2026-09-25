@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # Bang H. Hwang (黃邦雄)
 
@@ -61,6 +61,8 @@ _No filled family fields on the TAH profile._
 
 
 ## From the record
+
+- 複核（TJJ-A09231000-4, 2026-09-25）：本 slice 文章 89e6683c93156205 正文再驗證——「長青教室心得報告-黃金年華膀胱的呼聲 ◎ 黃邦雄醫師」條目確認見於正文，subject 連結為真，無錯鏈、無虛鏈；對應日期事實（含該文 wikilink）已在庫 — SKIP，已飽和。[[articles/taiwanjustice-net/2024/20240520023218_root_89e6683c93156205|TJJ 89e6683c]]
 
 
 - 複核（TJJ-A09230700-5, 2026-09-24）：subject link 對照 slice 文章 49d912cc449367f0（長青教室 tag p2）正文再驗證——「2017 婦女癌症認知系列講座-卵巢癌 ◎黃邦雄婦產科醫師 2017-10-25」確認見於正文，連結為真；2017-10-25 條目已在庫 — SKIP。同頁講員陳昭雄、蘇水、賴天明、賴佑哲、林宗忠無既存對應頁，維持純文字；陳文石（西洋美術欣賞講師 2017-11-01）與本庫 LA 畫家 Stone Chen 是否同人不確定，亦維持純文字 — 婦科醫師 vs 解剖學者 HOLD 不變。

@@ -6,7 +6,7 @@ tags:
   - columnist
   - taiwanjustice-net
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # Ian Easton (易思安)
 
@@ -93,6 +93,8 @@ See the source hub. Top mentions:
 - **Archive:** [Column articles](https://github.com/echocanhelp/wiki-public/tree/gh-pages/knowledge/web-archives/taiwanjustice-net/tier2/)
 
 ## From the record
+
+- 複核（TJJ-A09231000-4, 2026-09-25）：本 slice 文章 89e6683c93156205 正文再驗證——「易思安(Ian Easton)講『中國對台灣的軍事攻擊威脅』」ITS 研討會條目確認見於正文，subject 連結為真，無錯鏈、無虛鏈；對應日期事實（含該文 wikilink）已在庫 — SKIP，已飽和。[[articles/taiwanjustice-net/2024/20240520023218_root_89e6683c93156205|TJJ 89e6683c]]
 
 
 - 覆核（TJJ-A09230400-5, 2026-09-24）：slice 文章 7226a5c64ba2f713（VOA 太平島陸戰隊報導）正文再驗證——易思安於 GTI 研討會主張回復太平島陸戰隊部署之提及為真實，對應條目（含該文 wikilink）已在庫 — SKIP，無新材料。

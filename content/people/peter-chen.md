@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-25
 ---
 # Peter Chen (陳正義)
 
@@ -62,6 +62,8 @@ last_reviewed: 2026-09-23
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 ## From the record
+
+- 複核（TJJ-A09231000-4, 2026-09-25）：本 slice 文章 c92664485ca4c1a7 正文再驗證——「Time to reaffirm Taiwan-US ties ◎By Peter Chen 陳正義/Taipei Times」條目確認見於正文，subject 連結為真，無錯鏈、無虛鏈；對應日期事實（含該文 wikilink）已在庫 — SKIP，已飽和。[[articles/taiwanjustice-net/2020/20200629063835_category_english-pages_page_3_c92664485ca4c1a7|TJJ c9266448]]
 
 - 複核（TJJ-A09230700-6, 2026-09-24）：本 slice 文章 2fc3294ed01f2d2a（Michelle Steel 朴銀珠募款餐會報導）正文再驗證——「台美公民協會(TACL) Peter Chen」與會記述確認見於正文，subject 連結為真（TAH #424 存檔頁证实其 TACL 總會副會長身分）；2022-07-02 條目已在庫並掛鏈本檔 — SKIP，無新材料。
 

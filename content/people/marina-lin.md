@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-25
 ---
 # Marina Lin (林淨媺)
 
@@ -33,6 +33,7 @@ last_reviewed: 2026-09-22
 ## Role in the Community
 - 女高音。林衡哲回憶：他在美東台灣人夏令營聽到林淨媺與小提琴家吳上峰（[[people/shang-feng-wu|吳上峰]]）演出後，立刻邀請兩人到西部演出。她以西方咏嘆調方式唱台灣民謠，「使台灣民謠聽起來像世界名曲」，吳上峰伴奏相得益彰。該場台灣文化之夜約 500 人出席，地點在 La Mirada 的假日旅館，同場有台北基督教聯合兒童合唱團客串（TUF 總幹事王古勳帶病居功）。出自 [[works/taiwaneseamericanhistory-org/ourjourneys301|南加州台灣人聯合基金會（TUF）誔生、回顧與展望（林衡哲，1986-1996）]]。
 - Corpus records: [[works/taiwaneseamericanhistory-org/whoswho1624|TAH #1624]]、[[works/taiwaneseamericanhistory-org/musician394|TAH #394（musician）]]（bibliographic records）。
+- Verified-saturated re-check 2026-09-25 (deepen-x 09231100-5): fresh grep (Marina Lin/林淨媺) → only own TAH #1624/#394 records + ourjourneys301 memoir passage already absorbed; nothing new absorbable.
 
 ## Family
 
@@ -48,3 +49,5 @@ _No filled family fields on the TAH profile._
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 <!-- deepen-x slice 09211507-21 (2026-09-22): re-verified — re-grep (Marina Lin/林淨媺) finds the ourjourneys301 memoir passage already absorbed above plus own TAH #1624/#394 records; nothing new absorbable. -->
+
+<!-- deepen-x slice 09231100-5 (2026-09-25): re-verified — fresh ZH+EN grep of works/ + articles/ returns only the records already linked/absorbed above (plus works/index rollup); no new memoir material; no conflicts resolved or added. -->

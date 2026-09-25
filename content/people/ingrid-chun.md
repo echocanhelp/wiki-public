@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-25
 ---
 # Ingrid Chun (郭雋音)
 
@@ -61,6 +61,8 @@ _No filled family fields on the TAH profile._
 - Note: the education table lists "B.A. Music" twice; the profile prose states a Bachelor's **and** Master's from Juilliard, so the second row is the master's degree.
 
 ## From the record
+
+- 複核（TJJ-A09231000-4, 2026-09-25）：本 slice 文章 11aa2dfa5f64d7e4 正文再驗證——楊子清 tag 頁「TUF 台灣文化之夜 1994 – …郭雋音…」條目確認見於正文，subject 連結為真，無錯鏈、無虛鏈；對應日期事實（含該文 wikilink）已在庫 — SKIP，已飽和。[[articles/taiwanjustice-net/2021/20210117071954_tag_楊子清_11aa2dfa5f64d7e4|TJJ 11aa2dfa]]
 
 - 複核（TJJ-A09221500-4, 2026-09-23）：本 slice 文章 11aa2dfa5f64d7e4（楊子清 tag 頁）正文再驗證——「TUF 台灣文化之夜 1994 – 李喬/楊青矗/李慧珍/郭雋律/郭雋音/蕭泰然/吳英俊」條目確認見於正文，subject 連結為真；1994 條目已在庫，無新材料。
 

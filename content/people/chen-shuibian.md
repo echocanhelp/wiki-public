@@ -30,6 +30,8 @@ last_reviewed: 2026-09-24
 
 ## From the record
 
+- 複核（TJJ-A09231000-8, 2026-09-25）：本 slice 文章 c595d332038f73bb（「Taiwan」標籤頁, 2024-06-20 存檔）正文再驗證——「Chen Shui-bian suicide attempt confirmed by medical team during prison visit…」（2013-04-24 條目）確認見於清單，連結為真；2013-04-24 條目（已含該文 wikilink）已在庫 — SKIP，無新材料。
+
 - 複核（TJJ-A09230900-2, 2026-09-25）：slice 文章 c0530664ab4c2948（Taipei Times 社論轉載, 2016-04-11）正文再驗證——本頁 subject 連結為真實提及，無錯鏈、無虛鏈；對應日期事實條目（含該文 wikilink）已在庫 — SKIP，無新材料。
 
 - 複核（TJJ-A09230700-3, 2026-09-24）：本 slice 文章 English Pages 目錄頁 b1e144ecc18e460f 正文再驗證——subject 連結為真實對應，無錯鏈、無虛鏈；對應日期事實（含該文 wikilink）2013-07-30 北院提訊報導條目已在庫 — SKIP，無新材料。

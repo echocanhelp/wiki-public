@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-25
 ---
 # Sophia Yen
 
@@ -43,6 +43,7 @@ _No filled family fields on the TAH profile._
 - Note: the narrative section above is a truncated fragment ("3. Stanford's Lucile Packard Children's Hospital…") of the TAH bio; the harvest tables (MIT B.S. Biology 1993, UCSF M.D. 2000, UC Berkeley M.S. Public Health, Stanford clinical faculty from 2015) are the substance on file.
 - SKIP-with-reason (deepen-x 09210831-23, 2026-09-22): fresh corpus grep (EN) hits only her own record [[works/taiwaneseamericanhistory-org/whoswho990|990. Sophia Yen]] and the works/index rollup — no primary community material to absorb.
 - Re-verified 2026-09-22 (deepen-x 09220800-32): fresh grep again returns only whoswho990 + works/index — saturated, nothing absorbable.
+- Verified-saturated re-check 2026-09-25 (deepen-x 09231100-5): fresh grep (Sophia Yen) → only whoswho990 + works/index; nothing absorbable.
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/sophia-yen/)
@@ -50,3 +51,5 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+<!-- deepen-x slice 09231100-5 (2026-09-25): re-verified — fresh ZH+EN grep of works/ + articles/ returns only the records already linked/absorbed above (plus works/index rollup); no new memoir material; no conflicts resolved or added. -->

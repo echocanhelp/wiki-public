@@ -11,7 +11,7 @@ tags:
   - tah-whos-who
   - Taiwanese-American
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # Tyzen Hsiao (蕭泰然)
 
@@ -149,6 +149,8 @@ TAH employment (unparsed string): Tainan Univ. of Technology assoc. prof.; Wenza
 - 許常惠 — NTNU composition steer. No person page yet
 
 ## From the record
+
+- 複核（TJJ-A09231000-4, 2026-09-25）：本 slice 文章 11aa2dfa5f64d7e4 正文再驗證——楊子清 tag 頁 TUF 台灣名家演奏系列/台灣文化之夜 1993-1994 影音紀錄條目（蕭泰然）確認見於正文，subject 連結為真，無錯鏈、無虛鏈；對應日期事實（含該文 wikilink）已在庫 — SKIP，已飽和。[[articles/taiwanjustice-net/2021/20210117071954_tag_楊子清_11aa2dfa5f64d7e4|TJJ 11aa2dfa]]
 
 
 - 複核（TJJ-A09230800-8, 2026-09-24）：slice 文章 bfc5f319a036a339（黃瑞芬訃聞, 2022-01-29 刊）——〈嘸通嫌台灣〉1995 TUF LA 音樂會演出記述見於正文，連結為真；無錯鏈、無虛鏈；對應日期事實條目（含該文 wikilink）已在庫 — SKIP，無新材料。
