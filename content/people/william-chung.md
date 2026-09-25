@@ -41,6 +41,7 @@ last_reviewed: 2026-09-25
 - 1980 — Named as one of the Ohio contacts in the first compilation of the 全美台灣同鄉通訊錄 ([[works/taiwaneseamericanhistory-org/ourjourneys58|58. 回憶編印第一本《全美台灣同鄉通訊錄》的甘苦經過 / 陳希寬]]) — i.e. an active point of contact for the Taiwanese community in Ohio at the time the first nationwide directory was assembled.
 - His own TAH encyclopedia record #673 (2015/10) is archived as [[works/taiwaneseamericanhistory-org/673-william-chung-e9-8d-be-e6-a1-82-e6-a6-ae-201510|673. William Chung 鍾桂榮 / 2015/10]].
 - 2026-09-22 覆核（deepen-x 09210831-32、09220800-30）：works/、articles/ 再查僅見上述三筆紀錄（ourjourneys-138、ourjourneys58、自record 673）；Ohio 聯絡人名單再確認（Ohio：蔡垂憲、徐福棟*、鍾桂榮、陳昭星、陳以德、林哲也、曾博禮）。無新增事實可吸收——已驗證飽和。
+- 2026-09-25 覆核（deepen-x 09231100-23）：works/、articles/ 再查僅見 ourjourneys-138、ourjourneys58、自record 673，皆已連結；無新增事實——已驗證飽和。
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/william-chung/)

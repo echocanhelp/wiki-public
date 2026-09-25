@@ -39,6 +39,7 @@ last_reviewed: 2026-09-25
 - **Daughter:** 王怡心
 - **Daughter:** 王怡文
 
+- **Re-verified 2026-09-25** (deepen-x slice 09231100-23): fresh ZH+EN grep of works+articles returns only ourjourneys212 and own TAH #1975 (both already linked); no new absorbable facts — verified saturated.
 
 ## Sources
 - [TAH #1975 encyclopedia: 1975. Chih-cheng Wang 王志成 /12/2017](https://taiwaneseamericanhistory.org/whos-chih-cheng-wang/)
