@@ -30,6 +30,7 @@ Vania King (金久慈) is listed in the TAH Foundation Who’s Who Taiwanese Ame
 
 
 - Re-verified 2026-09-25 (slice 09230900-21): fresh grep returns only #705, #49/#921, the 2013 interview, and the works index — all absorbed above; saturated.
+- Re-verified 2026-09-25 (slice 09250317-22): fresh ZH+EN grep returns only #705, #49/#921, the 2013 interview, and the works index — all absorbed above; saturated, no new absorbable facts.
 
 ## Family
 - Father — tennis coach of Vania and her brother Phillip.
