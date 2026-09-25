@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-25
 ---
 # Wei-Shou Hu (胡維碩)
 
@@ -49,3 +49,5 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+<!-- deepen-x 09231200-22: re-verify 2026-09-25 — fresh grep ZH+EN over works+articles: hit set identical to prior passes (own TAH record(s) + harvest index only). Nothing new absorbable. SKIP-no-new-material. -->

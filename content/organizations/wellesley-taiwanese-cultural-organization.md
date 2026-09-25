@@ -26,6 +26,7 @@ The Wellesley Taiwanese Cultural Organization (TCO) is a student organization at
 - Corpus re-grep 2026-09-19 ("Wellesley Taiwanese Cultural" / Wellesley): no corpus material about this organization. "Wellesley" appears only in unrelated contexts — Wellesley Asian Alliance as a co-signer in [[works/taiwaneseamerican-org/pew-research-center-taiwanese-american-statement|the Taiwanese American statement]], and a passing commute remark in [[works/taiwaneseamerican-org/a-taste-of-life-and-passion-with-flour-bakerys-joanne-chang|the Flour Bakery interview]]. Nothing absorbable this pass (SKIP).
 - Corpus re-grep 2026-09-21: still zero corpus hits for this organization; SKIP-with-reason (no corpus material).
 - Corpus re-grep 2026-09-21 (slice 27, "Wellesley Taiwanese" / "Wellesley.*TCO"): zero hits in works/ and articles/ again; SKIP-with-reason (no corpus material).
+- Corpus re-grep 2026-09-25 (slice 19, "Wellesley Taiwanese" / "Wellesley.*TCO"): zero hits in works/ and articles/ again; SKIP-with-reason (no corpus material).
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
