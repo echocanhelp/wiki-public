@@ -53,3 +53,4 @@ The corpus records corroborate the CYCNY Youth Orchestra conducting role already
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+Corpus re-check (deepen-x slice 09250400-14, 2026-09-25): fresh ZH+EN grep of content/works + content/articles returned only the own records / memoir passages already wikilinked above and the works index — verified saturated, nothing new absorbable, no conflicts to hold.
