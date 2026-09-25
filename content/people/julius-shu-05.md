@@ -55,6 +55,8 @@ _No filled family fields on the TAH profile._
 
 Corpus re-grep 2026-09-24 (deepen-x slice 09230700-6, 許清煌 / Julius Shu): fresh grep works/ + articles/ returned the same substantive hit-set (ourjourneys244, ourjourneys212, whos-julius-shu, works index, TJJ 耆老講座標籤頁) — all facts already absorbed above; verified-saturated.
 
+Corpus re-grep 2026-09-25 (deepen-x slice 09240600-20): fresh grep 許清煌/Julius Shu in works/ + articles/ — no passage-level hits beyond the already-absorbed set (ourjourneys244 / ourjourneys212 / whos-julius-shu / TJJ 耆老講座標籤頁); file-name matches (ourjourneys334/49/239/191/53, winners31) contain no 許清煌 passage. Verified-saturated; no conflicts found.
+
 ## Sources
 - [TAH #429 encyclopedia: 429. Julius Shu 許清煌 05/2015](https://taiwaneseamericanhistory.org/whos-julius-shu/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/julius-shu-05/)

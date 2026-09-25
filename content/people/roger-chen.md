@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # Roger Chen (陳正哲)
 
@@ -54,3 +54,5 @@ Chen appears in the TAHS/Taiwanese American History story corpus through two TAH
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+Re-verified 2026-09-25 (slice 09240600-24): fresh ZH+EN grep of works/ + articles/ returned only records already linked and absorbed on this page; SKIP: verified-saturated, no new absorbable facts.

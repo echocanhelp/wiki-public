@@ -41,6 +41,7 @@ Community memoirs document his standing in the Taiwanese American medical commun
 - His own TAH encyclopedia entries are archived in the corpus: [[works/taiwaneseamericanhistory-org/whos-who-599-gwo-jaw-wang|599. Prof. Gwo Jaw Wang 王國照教授]] and [[works/taiwaneseamericanhistory-org/76-prof-gwo-jaw-wang|76. Prof. Gwo Jaw Wang 王國照教授]] (bibliographic records only).
 
 - 2026-09-24 corpus re-grep (slice 09230600-12): fresh grep hits identical to prior set (TAH #599/#76, return-to-Taiwan #4, OJ 291/176/201, autobiography #865) -- all absorbed, no new facts. verified-saturated.
+- 2026-09-25 corpus re-grep (slice 09240600-16): fresh grep 王國照／Gwo Jaw Wang — hits identical to prior set (TAH #599/#76, 返台記 #4, OJ 291/176/201, 自傳 #865); works/index.md hit is a bibliographic listing only. Verified saturated — SKIP-with-reason.
 
 ## Family
 

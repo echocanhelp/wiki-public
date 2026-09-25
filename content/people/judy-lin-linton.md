@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # Judy Lin Linton (林奐均)
 
@@ -55,3 +55,5 @@ Consistency check: the memoir's "nine years old in Feb 1980" matches the page's 
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - Corpus re-grep 2026-09-23 (DEEPEN-X slice 09221100-24): hit set unchanged — Our Journeys 69 (ZH/EN), TAH #1557, my-stories 700/702, CD #533, mystories337; all already absorbed above. No new community facts. SKIP-content.
 - Corpus re-grep 2026-09-24 (DEEPEN-X slice 09230600-19): SKIP — fresh ZH+EN grep returns the same set (my-stories 700/702, #1557, ourjourneys69 ZH/EN, CD #533); nothing new absorbable.
+
+Re-verified 2026-09-25 (slice 09240600-24): fresh ZH+EN grep of works/ + articles/ returned only records already linked and absorbed on this page; SKIP: verified-saturated, no new absorbable facts.
