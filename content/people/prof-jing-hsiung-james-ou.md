@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-25
 ---
 # Prof. Jing-Hsiung James Ou (歐競雄教授)
 
@@ -62,3 +62,4 @@ _No filled family fields on the TAH profile._
 - Slice deepen-x-slice-09211300-9 覆核（2026-09-22）：再檢 歐競雄|Jing-Hsiung|James Ou 結果相同（僅 #2018 書目記錄 + index），無回憶錄／社團提及。SKIP-with-reason。
 - Slice deepen-x-slice-09220800-7 覆核（2026-09-22）：再檢 歐競雄|Jing-Hsiung|James Ou 結果相同（僅 #2018 書目記錄 + index），無回憶錄／社團提及。SKIP-with-reason.
 - Slice deepen-x-slice-09230317-6 覆核（2026-09-23）：再檢 歐競雄|Jing-Hsiung|James Ou 結果相同（僅 #2018 書目記錄 + index），無回憶錄／社團提及。SKIP-with-reason.
+- Slice deepen-x-slice-09231000-4 覆核（2026-09-25）：再檢 歐競雄|Jing-Hsiung|James Ou 結果相同（僅 #2018 書目記錄 + index），無回憶錄／社團提及。SKIP-with-reason.

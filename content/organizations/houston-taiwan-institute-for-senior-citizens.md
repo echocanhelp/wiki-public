@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-25
 ---
 # Houston Taiwan Institute for Senior Citizens (休士頓台灣松年學院)
 
@@ -39,3 +39,4 @@ Re-grep '休士頓台灣松年學院 / HTISC / Houston Taiwan Institute' against
  Re-check slice 09211300-11 (2026-09-22): identical six-record hit set (directory, activities, golf cup, concerts106, musical-concerts-167, Our Journeys 298) — saturated, SKIP.
  Re-check slice 09220800-8 (2026-09-22): fresh grep 休士頓台灣松年學院|HTISC|Houston Taiwan Institute — identical six-record hit set plus the corpus index page; saturated, SKIP.
  Re-check slice 09230317-7 (2026-09-23): fresh grep — identical six-record hit set (directory, activities, golf cup, concerts106, musical-concerts-167, Our Journeys 298); saturated, SKIP.
+ Re-check slice 09231000-4 (2026-09-25): fresh grep 休士頓台灣松年學院|HTISC|Houston Taiwan Institute — identical six-record hit set (directory, activities, golf cup, concerts106, musical-concerts-167, Our Journeys 298); saturated, SKIP.

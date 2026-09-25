@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-25
 ---
 # Irene Lee (李智惠)
 
@@ -51,3 +51,4 @@ Irene Lee, is a composer, soprano, performer, and voice teacher. She attended Ma
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - 複核（deepen-x 2026-09-23）：corpus re-grep（works+articles）命中集合與前次相同（ourjourneys43、ourjourneys162+EN、whoswho1110、musician47、index、Pew 聲明），全數已吸收並 wikilink，無新增社群材料；頁面維持飽和狀態。
+- 複核（deepen-x slice 09231000-4, 2026-09-25）：corpus re-grep 命中集合與前次相同（ourjourneys43、ourjourneys162+EN、whoswho1110、musician47、Pew 聲明、index），全數已吸收，無新增社群材料；頁面維持飽和狀態。
