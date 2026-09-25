@@ -39,6 +39,7 @@ HOLD: corpus carries two romanizations (Mei-Ci Chen vs M. C. Chen) for the same 
 - Corpus re-grep 2026-09-21 (slice-09210400-23): hits = own records #370/#1315, works index, plus [[works/taiwaneseamericanhistory-org/whoswho937|TAH #937 M. C. Cheng Lee 李鄭美昭]] — a different person whose romanization collides with "M. C. Chen"; not absorbed here. SKIP-with-reason otherwise; nothing absorbable.
 - Corpus re-grep 2026-09-22 (slice-09220600-30) and 2026-09-23 (slice-09221500-32): identical hit set (own #370/#1315 + index, plus the known romanization-collision records for [[people/m-c-cheng-lee|M. C. Cheng Lee 李鄭美昭]] — different person, not absorbed). Verified saturated; no new corpus facts.
 - Corpus re-grep 2026-09-25 (slice-09231000-19): identical hit set (own #370/#1315 + index + the romanization-collision records for [[people/m-c-cheng-lee|M. C. Cheng Lee 李鄭美昭]], incl. [[works/taiwaneseamericanhistory-org/whos-who-1916-ju-cheng-lee|TAH #1916 Ju Cheng Lee]] — different person, not absorbed). Verified-saturated; no new corpus facts.
+- Corpus re-grep 2026-09-25 (slice-09250317-15): identical hit set (own #370/#1315 + index + M. C. Cheng Lee collision records #937/#1916). Verified-saturated; SKIP — no new corpus facts.
 
 ## Family
 

@@ -51,3 +51,4 @@ _No filled family fields on the TAH profile._
 <!-- deepen-x slice 09211507-4 (2026-09-22): re-verified — corpus grep for 謝永芹/Mollard/Yung-Chin still limited to own TAH #26 (maiden Hsieh) + #1058 records + works index; nothing new absorbable. SKIP. -->
 <!-- deepen-x slice 09221000-28 (2026-09-23): re-verified — fresh grep 謝永芹/Mollard/Yung-Chin: hit set unchanged (own #26 + #1058 + works index); nothing new absorbable. SKIP. -->
 <!-- deepen-x slice 09230900-16 (2026-09-24): re-verified — fresh grep hit set unchanged (own #26 + #1058 + works index); verified-saturated, nothing new absorbable. SKIP. -->
+<!-- deepen-x slice 09250317-15 (2026-09-25): re-verified — fresh grep 謝永芹/Mollard/Yung-Chin hit set unchanged (own #26 + #1058 + works index); verified-saturated. SKIP. -->

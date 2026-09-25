@@ -74,3 +74,5 @@ father [[people/su-chun-huai||蘇春槐]]; mother 羅淑雅 (no page yet).
 - 2020 年獲半導體協會（SIA）Robert N. Noyce Award：[[works/taiwaneseamericanhistory-org/award-76||TAH #76（2020）]]；媒體跟進報導「張忠謀後華裔第 2 人」見 [[articles/taiwanjustice-net/2026/20260121003520_蘇姿丰獲美半導體協會大獎_張忠謀後華裔第2人_4779b4e7bc06941e|台灣時報_net 報導]]。
 - 父亲 [[people/su-chun-huai||蘇春槐]]（紐約台灣會館理事長）率團訪美東時，AIT 官員因她是 AMD 總裁而格外熱絡，並邀 Lisa 回台至 AIT 走走 —— 見社群回憶錄 [[works/taiwaneseamericanhistory-org/our-journeys-382|Our Journeys 382]]。此為本頁首要的社區第一手材料：她的成就在鄉親network中被直接視為家族與台灣會館的連結。
 - 2014 年升任 AMD 總裁兼執行長當時即被同儕記錄：[[works/taiwaneseamericanhistory-org/videos73-2|73. Dr. Lisa Su as AMD's new president and CEO!]]；台美人第二代視角專文見 [[works/taiwaneseamericanhistory-org/mystories84-dr-lisa-t-su|TAH mystories84（曾恆利）]]。
+
+- 複核（TJJ-A09240900-2, 2026-09-25）：本 slice 文章正文再驗證——本頁 subject 連結為真實提及（無錯鏈、無虛鏈），含該文 wikilink 的日期事實條目已在庫 — SKIP，無新材料。

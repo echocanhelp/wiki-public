@@ -99,3 +99,5 @@ Pages that link to **lisa-su** (lisa-su):
 - 覆核（deepen-x slice 09240317-1, 2026-09-25）：fresh grep 蘇姿丰／Lisa Su（works+articles）新增命中——已吸收：our-journeys-382（全美會參訪 AIT 軼事）、2025 椰林講座報導、2023 賴清德過境報導（上三條已入 From the record）。 TAH 書目頁尚未掛鏈者補記：[[works/taiwaneseamericanhistory-org/112-dr-lisa-su-amd-2014|TAH #112 蘇姿丰與AMD, 2014]]、[[works/taiwaneseamericanhistory-org/12-chipmaker-amd-makes-a-big-bet-on-brand-new-tech-dr-lisa-su|TAH #12 AMD押注新技術, 2017-07-19]]、[[works/taiwaneseamericanhistory-org/videos73-2|TAH #73 影片：Lisa Su出任AMD總裁, 2017-07-19]]、[[works/taiwaneseamericanhistory-org/my-stories-741|TAH #741 全球最高薪女CEO出身台灣, 2020-09-21]]、[[works/taiwaneseamericanhistory-org/my-stories-805|TAH #805 獨家：來自台灣的矽谷半導體女王傳奇, 2021-09-24]]（均為書目紀錄頁，Band B，無正文可摘）。
 
 <!-- TJJ-A09240800-10: verified 2026-09-25 — subject links in slice 09240800-10 articles confirmed real; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+- 複核（TJJ-A09240900-2, 2026-09-25）：本 slice 文章正文再驗證——本頁 subject 連結為真實提及（無錯鏈、無虛鏈），含該文 wikilink 的日期事實條目已在庫 — SKIP，無新材料。

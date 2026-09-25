@@ -45,6 +45,8 @@ _No filled family fields on the TAH profile._
 
 > Re-verified 2026-09-25 (slice 09230900-21): fresh grep 王采羿一 / Jenny Wang returns only #2234, the OFTaiwan Award announcement, and the creators' conversation already cited; saturated, Rutgers-vs-NYU HOLD stands.
 
+> Re-verified 2026-09-25 (slice 09250317-15): fresh grep 王采羿一 / Jenny Wang returns the same hit set (#2234, OFTaiwan Award announcement, creators' conversation, works index); verified-saturated, Rutgers-vs-NYU HOLD stands.
+
 ## Sources
 - [TAH #2234 encyclopedia: 2234. Jenny Wang 王采羿一/12/2019](https://taiwaneseamericanhistory.org/whos-who-2234/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/jenny-wang/)
