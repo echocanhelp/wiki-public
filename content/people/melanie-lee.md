@@ -60,3 +60,4 @@ Accomplishment
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- Re-check (slice 09250317-3, 2026-09-25): re-grep hit set unchanged (52913 / #1880 / person record / #337 + works index), all already linked; band-B bibliographic records only, no new absorbable material. SKIP.
