@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-25
 ---
 # Dr. L. C. Lin (林麗瓊博士)
 
@@ -47,3 +47,6 @@ last_reviewed: 2026-09-22
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+## Corpus check (deepen-x 09231100-28, 2026-09-25)
+SKIP (verified saturated) — fresh 林麗瓊+EN grep returns only own record [[works/taiwaneseamericanhistory-org/whos-who-1828-l-c-lin|TAH #1828]] and works/index; spouse's record #1827 and all current facts already reflected — no new absorbable material.

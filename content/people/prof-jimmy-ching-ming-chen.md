@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-25
 ---
 # Prof. Jimmy Ching-Ming Chen
 
@@ -47,3 +47,6 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+## Corpus check (deepen-x 09231100-28, 2026-09-25)
+SKIP (verified saturated) — fresh ZH+EN grep returns only own record [[works/taiwaneseamericanhistory-org/whos-who-1764-jimmy-ching-ming-chen|TAH #1764]], the 鄭靜旻 near-name works (different person, HOLD above), and works/index — no new absorbable facts.

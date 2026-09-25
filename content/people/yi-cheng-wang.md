@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-25
 ---
 # Yi-Cheng Wang (王奕程)
 
@@ -48,3 +48,4 @@ last_reviewed: 2026-09-22
 ## Corpus check (deepen-x 09190400-20, 2026-09-20)
 SKIP (re-confirmed) — fresh grep returns only his own record [[works/taiwaneseamericanhistory-org/whos-who-1949-yi-cheng-wang|TAH #1949]] (bibliographic record only); already reflected in Role in the Community — no new absorbable facts.
 - Re-run 2026-09-21 (deepen-x slice 09201503-12): same result — own #1949 record + works/index entry only; verified saturated.
+- Re-run 2026-09-25 (deepen-x slice 09231100-28): same result — own #1949 record + works/index only; verified saturated.

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-25
 ---
 # Peggy Liao (廖碧玉)
 
@@ -45,6 +45,7 @@ last_reviewed: 2026-09-22
 - No memoir or community text in the corpus conflicts with the TAH profile fields (NTNU 國文 1972 → Toronto 東亞研究所 1985 → Canadian banking career).
 
 - Re-verified 2026-09-22 (deepen-x slice 09211507-27): re-grepped ZH+EN against content/works + content/articles; hit set unchanged from prior pass — verified-saturated, no new corpus material absorbable.
+- Re-verified 2026-09-25 (deepen-x slice 09231100-26): fresh ZH+EN grep returns the same two own-records (#79 profile, #257 草與露) plus index rows — verified-saturated idempotent re-check, nothing new absorbable.
 
 ## Sources
 - [TAH #79 encyclopedia: 79. Peggy Liao 廖碧玉](https://taiwaneseamericanhistory.org/79-peggy-liao-%e5%bb%96%e7%a2%a7%e7%8e%89/)
