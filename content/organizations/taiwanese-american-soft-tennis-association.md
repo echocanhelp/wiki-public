@@ -26,6 +26,7 @@ last_reviewed: 2026-09-24
 - TAH holds a dedicated record of the association: [[works/taiwaneseamericanhistory-org/17-taiwanese-american-soft-tennis-association|17. Taiwanese American Soft Tennis Association 台美軟式網球協會]].
 - Longer community lineage: soft tennis among Taiwanese students in America predates the 1995 founding — 謝伯芳's memoir of early-1960s Minneapolis recalls players having full soft-tennis sets shipped from Japan and explaining the sport to curious Americans at the court ([[works/taiwaneseamericanhistory-org/ourjourneys-369|TAHS #369 懷憶六十年代前期的明市]], band A).
 - Re-verified 2026-09-24 (deepen-x slice 09230317-27): fresh grep (台美軟式網球 / Soft Tennis / 軟式網球) returns the TAH record, the works index, the three 鄭炳全 memoir copies above, and the 謝伯芳 1960s memoir now linked — no further absorbable material.
+- Re-verified 2026-09-25 (deepen-x slice 09240317-30): fresh grep again returns the same hit set already absorbed above — SKIP: no new corpus material.
 
 ## Source Notes
 

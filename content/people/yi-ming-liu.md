@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # Yi-Ming Liu (劉怡明)
 
@@ -58,3 +58,4 @@ Documented across the TAH Foundation story corpus as a community memoirist and l
 - Re-verified 2026-09-22 (slice 09211500-15): corpus re-grep 劉怡明/Yi-Ming Liu returns the same 6 work pages (whos profile, ff342, mystories331, 349-our-journeys, collection, ourjourneys-364) — all already wikilinked above; saturated, no new material.
 - Re-verified 2026-09-23 (slice 09220900-17): corpus re-grep returns the same saturated set — no new material.
 - Re-grep 2026-09-24 (slice 09230400-14): fresh corpus re-grep 劉怡明/Yi-Ming Liu returns the same six linked work pages (whos profile, ff342, mystories331, 349-our-journeys, collection, ourjourneys-364) plus mystories572/ourjourneys289 already absorbed — verified saturated, no new material. SKIP-with-reason.
+- Deepened 2026-09-25 (slice 09240317-25): fresh grep surfaced two previously unlinked bylined memoirs — mystories326 (五十年前之大車禍) and mystories613 (祈禱的力量) — absorbed above.
