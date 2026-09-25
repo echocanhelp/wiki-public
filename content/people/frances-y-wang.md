@@ -34,7 +34,7 @@ Principal Court Attorney
 
 ## Role in the Community
 
-- **TAH Who's Who record:** bibliographic profile #1989 (2018-01-08) held in the story corpus — the only corpus record for 王怡芳; no memoir/community material beyond the profile itself — [[works/taiwaneseamericanhistory-org/whoswho1989|1989. Frances Y. Wang 王怡芳]]. Career facts (Bronx Supreme Court Criminal Term principal court attorney 2010–2017; NYC Civil Court judge from 2017) derive solely from the TAH profile.
+- **TAH Who's Who record:** bibliographic profile #1989 (2018-01-08) held in the story corpus — the only corpus record for 王怡芳; no memoir/community material beyond the profile itself — [[works/taiwaneseamericanhistory-org/whoswho1989|1989. Frances Y. Wang 王怡芳]]. Career facts (Bronx Supreme Court Criminal Term principal court attorney 2010–2017; NYC Civil Court judge from 2017) derive solely from the TAH profile. Re-checked deepen-x 09231500-5 (2026-09-25): fresh grep (王怡芳 / Frances Y. Wang) still returns only the own record plus works/index.
 
 ## Family
 

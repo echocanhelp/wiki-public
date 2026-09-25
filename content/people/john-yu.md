@@ -41,6 +41,7 @@ last_reviewed: 2026-09-25
 ## Role in the Community
 - Profiled in the TAH Foundation Who's Who corpus record [[works/taiwaneseamericanhistory-org/whoswho1534|1534. John Yu 游正博 / 2017/02]] (published 2017-02-26, band B). The record is bibliographic only — full text stays in the vault — so no new biography is absorbable beyond the tables above.
 - The corpus index also carries a companion record for his wife under her married name, [[works/taiwaneseamericanhistory-org/whoswho1533|1533. Alice Yu 游陳鈴津 / 2017/02]], corroborating the Family entry 陳鈴津.
+- Re-check (deepen-x 09231500-5, 2026-09-25): fresh grep of content/works + content/articles for 游正博 / John Yu — hits limited to the own bibliographic record plus works/index; nothing new absorbable.
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/john-yu/)

@@ -42,7 +42,8 @@ Heartland Institute Financial Education, CPP-College Planning Program
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/polly-chang/)
 
 ## Role in the Community
-- Profiled in the TAH Foundation story corpus: [[works/taiwaneseamericanhistory-org/whoswho1172|1172. Polly Chang 何佩宜 / 2016/07]] (published 2016-07-23, band B) — held as community historical record. Re-swept 2026-09-22: corpus grep (何佩宜 / Polly Chang) returns only her own record and the works index — no memoir or community-organization material to absorb beyond the TAH profile (Heartland Institute financial-education certified consultant; 中原大學企管 / Rutgers 財務管理).
+- Profiled in the TAH Foundation story corpus: [[works/taiwaneseamericanhistory-org/whoswho1172|1172. Polly Chang 何佩宜 / 2016/07]] (published 2016-07-23, band B) — held as community historical record. Re-swept 2026-09-22 and again deepen-x 09231500-5 (2026-09-25): corpus grep (何佩宜 / Polly Chang) returns only her own record and the works index — no memoir or community-organization material to absorb beyond the TAH profile (Heartland Institute financial-education certified consultant; 中原大學企管 / Rutgers 財務管理).
+- Companion spousal record in the same corpus band: [[works/taiwaneseamericanhistory-org/whoswho1171|1171. Jason Chang 張君麟 / 2016/07]]. HOLD: conflict — Family lists husband as 何君麟 vs corpus record #1171 張君麟 (romanization Jason Chang matches; hanzi surname differs); no auto-merge.
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
