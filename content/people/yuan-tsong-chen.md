@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-25
 ---
 # Yuan-Tsong Chen (陳垣崇博士)
 
@@ -38,7 +38,7 @@ _No filled family fields on the TAH profile._
 
 ## Role in the Community
 
-Corpus presence is limited to his TAH Who's Who bibliographic record — re-grepped 2026-09-21 (陳垣崇 / Yuan-Tsong) against content/works and content/articles: no memoir or article mentions found beyond it:
+Corpus presence is limited to his TAH Who's Who bibliographic record — re-grepped 2026-09-21 and again 2026-09-25 (陳垣崇 / Yuan-Tsong) against content/works and content/articles (SKIP: no memoir or article mentions found beyond it):
 
 - [[works/taiwaneseamericanhistory-org/whoswho951|TAH #951 Who's Who record 陳垣崇]] (2016/04)
 
