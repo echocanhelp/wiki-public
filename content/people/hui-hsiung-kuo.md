@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # Hui-Hsiung Kuo (郭輝雄)
 
@@ -57,3 +57,4 @@ last_reviewed: 2026-09-24
 <!-- deepen-x slice 09220500-22 re-verify 2026-09-22: fresh grep of works/+articles/ — hit set identical to records already cited/absorbed on this page; verified-saturated, no new absorbable facts -->
 <!-- deepen-x slice 09221300-29 re-verify 2026-09-23: fresh grep of works/+articles/ — hit set identical to records already cited/absorbed on this page; verified-saturated, no new absorbable facts -->
 <!-- deepen-x slice 09230800-20 re-verify 2026-09-24: fresh grep of works/+articles/ — hit set identical to records already cited/absorbed; verified-saturated, no new absorbable facts -->
+<!-- deepen-x slice 09240800-14 re-verify 2026-09-25: fresh grep of works/+articles/ — hit set identical to records already cited/absorbed; verified-saturated, no new absorbable facts -->
