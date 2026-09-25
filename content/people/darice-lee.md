@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # Darice Lee (洪珠美)
 
@@ -52,3 +52,4 @@ last_reviewed: 2026-09-24
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- Corpus re-check 2026-09-25 (deepen-x slice 09240700-18): fresh grep (洪珠美／Darice Lee) of works/ + articles/ — hits unchanged (OJ #265, OJ #352, Who's Who #859, empty taiwanjustice tag page, works/index.md). Saturated; nothing new absorbable, HOLD maintained.

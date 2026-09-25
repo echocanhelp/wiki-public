@@ -56,5 +56,7 @@ Corpus-linked (absorbed 2026-09-18), from 曾啟明's Minnesota chronicle [[work
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
+<!-- deepen-x slice 09240700-9 re-verify 2026-09-25: fresh grep 劉進興/Chin-Hsin of works/ + articles/ — identical hit set (ourjourneys123/-eng, 1076, 556, 322, whoswho1440); all facts already absorbed in Role in the Community. SKIP-deepen; nothing new absorbable. -->
+
 <!-- deepen-x slice 09221300-3 re-verify 2026-09-23: fresh grep — identical hit set (ourjourneys123/-eng, 1076, 556, 322, whoswho1440); chronicle excerpts (1985 會長 year, 1995 立委) re-read and already absorbed; no new facts -->
 <!-- deepen-x slice 09230700-4 re-verify 2026-09-24: fresh grep 劉進興/Chin-Hsin — identical hit set (123/-eng, 1076, 556, 322, 362, 776, whoswho1440, index, TJJ 2020-12-26); all already absorbed; no new facts -->

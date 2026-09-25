@@ -62,3 +62,5 @@ Corpus re-check 2026-09-22 (deepen-x slice 09220400-26), again 2026-09-23 (deepe
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+Corpus re-check 2026-09-25 (deepen-x slice 09240700-9): fresh grep 陳黃群雁 / "C. Y. Chen" of works/ and articles/ — hit set unchanged (whoswho1141, works/index, TJJ 228 report), all already wikilinked with facts absorbed. SKIP-deepen; nothing new absorbable.
