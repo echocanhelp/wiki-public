@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-25
 ---
 # Tzann T. Fang (方贊棠)
 
@@ -49,3 +49,4 @@ _No filled family fields on the TAH profile._
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 <!-- deepen-x 09180900-28: SKIP — corpus re-scan (works/articles) found no memoir/community coverage; only own TAH Who's Who record or none at all. -->
 <!-- deepen-x 09200800-31: SKIP — fresh grep 2026-09-21 (works/articles): own TAH record or unrelated substring hits only (Rutgers TSA, archive digests); no new memoir/community material. -->
+<!-- deepen-x 09231300-10: SKIP — fresh grep 2026-09-25 (works/articles): hit set identical to prior passes (own TAH record / works-index digest only, no memoir or community material); nothing new absorbable. -->

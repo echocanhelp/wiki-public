@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-25
 ---
 # Prof. Y. W. Cheng (鄭義為教授)
 
@@ -39,6 +39,7 @@ _No filled family fields on the TAH profile._
 - Community service recorded in the TAH directory: President of the Alumni Association of National Chengchi Univ. of the Southeastern United States (美國東南區政治大學校友會會長) while serving as professor at Troy Univ. No other corpus material found.
 - Profiled in the TAH Foundation Who's Who encyclopedia as record #1718, published 2017-07-02: [[works/taiwaneseamericanhistory-org/whos-who-1718-y-w-cheng|1718. Prof. Y. W. Cheng 鄭義為教授]] — bibliographic record only in the corpus.
 
+> Deepen pass 2026-09-25 (slice 09231300-5): VERIFIED — fresh ZH+EN grep of works/ + articles/ returns only own TAH #1718 record and works/index; no other corpus material. SKIP (nothing absorbable).
 ## Sources
 - [TAH #1718 encyclopedia: 1718. Prof. Y. W. Cheng 鄭義為教授](https://taiwaneseamericanhistory.org/whos-who-1718-y-w-cheng/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-y-w-cheng/)

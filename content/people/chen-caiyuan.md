@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-25
 ---
 # Rex Chen (陳財元)
 
@@ -46,6 +46,7 @@ TAH harvest `birth_year` field is `1949-2003` (death 2003). TAH text: “Passed 
 ## Disambiguation
 - [[people/rex-chen||Rex Chen (陳乃光)]] — living TAHS LINE member, EverTrust Bank. Different 漢名.
 
+> Deepen pass 2026-09-25 (slice 09231300-5): fresh grep of works/ + articles/ for 陳財元 / Rex Chen again returns only TAH #2046 + works/index; no memoir or movement-organization mentions. SKIP (nothing absorbable).
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/rex-chen/)
 
