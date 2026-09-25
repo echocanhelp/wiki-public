@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-25
 ---
 # San Francisco Taiwanese Association (北加州)
 
@@ -38,3 +38,4 @@ The San Francisco Taiwanese Association (舊金山台灣同鄉會) is a regional
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- Corpus re-grep（deepen-x slice 09231100-1, 2026-09-25）：命中集不變（SFTA 書目記錄、ourjourneys38-eng、Pew 連署聲明、works/index）— saturated，SKIP，無新社群材料可吸收。

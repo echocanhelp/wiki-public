@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-25
 ---
 # Tyzen Hsiao Foundation (蕭泰然基金會)
 
@@ -38,3 +38,4 @@ The vault's community record documents the musical legacy this foundation exists
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[people/tyzen-hsiao||Tyzen Hsiao (蕭泰然)]]
 - [[organizations/tyzen-hsiao-music-works||TYZEN HSIAO MUSIC WORKS]] — TAH lists a second org; not merged
+- Corpus re-grep（deepen-x slice 09231100-1, 2026-09-25）：命中集不變（tyzen-hsiao-foundation 書目記錄、ourjourneys339、works/index）— saturated，SKIP，無新社群材料可吸收。

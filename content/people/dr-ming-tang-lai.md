@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-25
 ---
 # Dr. Ming Tang Lai (賴明堂博士)
 
@@ -52,6 +52,8 @@ Accomplishment
 複核（deepen-x slice-09220800-11, 2026-09-22）：re-grep 賴明堂 / Ming Tang Lai hit set unchanged (ourjourneys53 ±eng, #271, #1886, works/index) — saturated, SKIP, 無新材料。
 
 複核（deepen-x slice-09230317-9, 2026-09-23）：re-grep 賴明堂 / Ming Tang Lai hit set unchanged (ourjourneys53 ±eng, #271, #1886, works/index) — saturated, SKIP, 無新材料。
+
+複核（deepen-x slice-09231100-2, 2026-09-25）：re-grep hit set unchanged (ourjourneys53 ±eng, #271, #1886, works/index) — verified-saturated, SKIP, 無新材料。
 
 ## Sources
 - [TAH #1886 encyclopedia: 1886. Dr. Ming Tang Lai 賴明堂博士](https://taiwaneseamericanhistory.org/whos-who-1886-ming-tang-lai/)

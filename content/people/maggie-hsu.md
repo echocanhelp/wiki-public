@@ -61,3 +61,5 @@ slice 09211300-16 re-grep (2026-09-22): corpus hit set identical to links alread
 Corpus re-grep 2026-09-22 (slice 09220800-19, Maggie Hsu / Mochi Magazine): hit set = her own interview, TAH #905, SPARK Accel, the Pew-era statement, plus the Formosa Betrayed staff link absorbed above — no other new facts; HOLD on 2004-vs-2008 founding dates stands.
 
 Corpus re-grep 2026-09-23 (slice 09230317-9, Maggie Hsu / Mochi Magazine): hit set identical（whos905、maggie-hsu-mochimag、SPARK Accel、Pew-era statement、Formosa Betrayed、index）— saturated, SKIP, 無新材料；HOLD stands.
+
+Corpus re-grep 2026-09-25 (slice deepen-x-slice-09231100-2): hit set identical（whos905、maggie-hsu-mochimag、SPARK Accel、Pew-era statement、Formosa Betrayed、index）— verified-saturated, SKIP, 無新材料；HOLD stands.
