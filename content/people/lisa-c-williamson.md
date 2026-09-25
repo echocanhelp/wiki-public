@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-25
 ---
 # Lisa C. Williamson (李貞瑩)
 
@@ -34,7 +34,7 @@ last_reviewed: 2026-09-21
 _No filled family fields on the TAH profile._
 
 ## Role in the Community
-- Recorded in the TAH Foundation encyclopedia via [[works/taiwaneseamericanhistory-org/whos-who-1971-lisa-c-williamson|1971. Lisa C. Williamson 李貞瑩]] (published 2017-12-03; bibliographic record — full text stays in the TAH vault). No other corpus material mentions her; the finance-to-Kumon education-entrepreneurship path rests solely on the TAH Who's Who entry. Re-grepped 2026-09-19 and 2026-09-21 (deepen-x slices 31 and 09210400-21): still only the #1971 record — no new corpus material, SKIP content-deepen.
+- Recorded in the TAH Foundation encyclopedia via [[works/taiwaneseamericanhistory-org/whos-who-1971-lisa-c-williamson|1971. Lisa C. Williamson 李貞瑩]] (published 2017-12-03; bibliographic record — full text stays in the TAH vault). No other corpus material mentions her; the finance-to-Kumon education-entrepreneurship path rests solely on the TAH Who's Who entry. Re-grepped 2026-09-19, 2026-09-21 and 2026-09-25 (deepen-x 09231300-12): still only the #1971 record — no new corpus material, SKIP content-deepen.
 
 ## Sources
 - [TAH #1971 encyclopedia: 1971. Lisa C. Williamson 李貞瑩](https://taiwaneseamericanhistory.org/whos-who-1971-lisa-c-williamson/)

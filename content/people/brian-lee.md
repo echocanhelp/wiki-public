@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-25
 ---
 # Brian Lee (李捷緒)
 
@@ -37,7 +37,7 @@ _No filled family fields on the TAH profile._
 
 ## Role in the Community
 
-Corpus footprint is thin (deepen-x 0919 slice 2026-09-19; re-verified deepen-x 09191200-6 and 09210400-21, 2026-09-21): grep for 李捷緒 / Brian Lee across `works/` and `articles/` returned no memoir or article mentions — no community-record material to absorb beyond his own press-kit record.
+Corpus footprint is thin (deepen-x 0919 slice 2026-09-19; re-verified 09210400-21 and 09231300-12, 2026-09-25): grep for 李捷緒 / Brian Lee across `works/` and `articles/` returned no memoir or article mentions — no community-record material to absorb beyond his own press-kit record.
 
 - His own TAH encyclopedia record [[works/taiwaneseamericanhistory-org/whos-who-2049-brian-lee|2049. Brian Lee 李捷緒]] (2018-03-05, band B) is the sole corpus artifact; it restates the AICPA/CPA-firm roles already in the snapshot above, adding no new community facts.
 
