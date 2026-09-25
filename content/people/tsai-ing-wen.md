@@ -46,6 +46,8 @@ name_en: "Tsai Ing-wen"
 
 ## From the record
 
+- 複核（TJJ-A09230900-2, 2026-09-25）：slice 文章 c0530664ab4c2948（Taipei Times 社論轉載, 2016-04-11）＋slice 文章 taiwanjustice-net/index（存檔索引頁）正文再驗證——本頁 subject 連結為真實提及，無錯鏈、無虛鏈；對應日期事實條目（含該文 wikilink）已在庫 — SKIP，無新材料。
+
 - 覆核（TJJ-A09230800-14, 2026-09-24）：本 slice 文章 bff4c7110803d864（大洛杉磯台灣會館等台美人團體和領袖祝賀蕭美琴履任駐美代表, 大紀元 2020-08-08）正文再驗證——黃河芬盼促進高層互訪使蔡英文能以總統身分訪美之記述確認見於正文，subject 連結為真，無錯鏈、無虛鏈；對應日期事實條目（2020-08-08，含該文 wikilink）已在庫 — SKIP，已飽和。
 
 - 複核（TJJ-A09230700-10, 2026-09-24）：本 slice 文章 042939d886040651（Mark Kao 高龍榮 Taipei Times 專欄 TJJ 轉載）正文再驗證——Schrage 批評蔡英文2011-09訪美重 process 輕 specific outcome、蔡為時任 DPP 主席暨2012參選人之記述確認見於正文，subject 連結為真；2015-03-27 條目已在庫 — SKIP，已飽和。

@@ -101,6 +101,8 @@ In 2006, the party ended official recognition of factions, though they remain re
 
 ## From the record
 
+- 複核（TJJ-A09230900-2, 2026-09-25）：slice 文章 c0530664ab4c2948（Taipei Times 社論轉載, 2016-04-11）正文再驗證——本頁 subject 連結為真實提及，無錯鏈、無虛鏈；對應日期事實條目（含該文 wikilink）已在庫 — SKIP，無新材料。
+
 - 複核（TJJ-A09230800-6, 2026-09-24）：本 slice 文章 adc931e5b99bb0a9（van der Wees 評 2012 大選）正文再驗證——ICFET 觀察團會晤三大黨、DPP 被塑造為不穩定選項等記述確認見於正文，subject 連結為真，無錯鏈、無虛鏈；2012-01-29 條目已在庫 — SKIP，無新材料。
 
 - 複核（TJJ-A09230700-10, 2026-09-24）：本 slice 文章 042939d886040651（Mark Kao 高龍榮 Taipei Times 專欄 TJJ 轉載）正文再驗證——DPP 九合一勝選、被要求給對中政策「specific outcome」之記述確認見於正文，subject 連結為真，無錯鏈、無虛鏈；2015-03-27 條目已在庫 — SKIP，已飽和。

@@ -75,6 +75,8 @@ Facts already present in vault pages citing Cho-Liang Lin (no new sources):
 
 ## From the record
 
+- 複核（TJJ-A09230900-2, 2026-09-25）：slice 文章 b4e27e98036e15d0（海頓音樂欣賞課報導, 2016-06-06 刊）正文再驗證——本頁 subject 連結為真實提及，無錯鏈、無虛鏈；對應日期事實條目（含該文 wikilink）已在庫 — SKIP，無新材料。
+
 
 - 複核（TJJ-A09162345-15 / t_0c0e3cd1, 2026-09-24）：本 slice 文章 99aaa4abcb78ff6d（台美人台加人分類存檔頁, 2024-04-25 快照） 正文再驗證——subject 連結為真實提及，無錯鏈、無虛鏈；對應日期事實條目（含該文 wikilink）已在庫 — SKIP，已飽和。
 

@@ -11751,6 +11751,8 @@ Notable quotes and mentions of **陳昭南** in Taiwan Justice articles:
 
 ## From the record
 
+- 複核（TJJ-A09230900-2, 2026-09-25）：slice 文章 taiwanjustice-net/index（存檔索引頁）正文再驗證——本頁 subject 連結為真實提及，無錯鏈、無虛鏈；對應日期事實條目（含該文 wikilink）已在庫 — SKIP，無新材料。
+
 
 - 複核（TJJ-A09171000-1, 2026-09-24）：本 slice 文章 index（TJJ 文章存檔索引頁）正文再驗證——索引頁列陳昭南為專欄作者（398 篇），連結為真，subject 連結為真，無錯鏈、無虛鏈；對應日期事實已在庫，無新材料。
 - 2026-07-28 — taiwanjustice.net 文章存檔索引（29,103 篇）將陳昭南列為專欄作者之一（「陳昭南觀點」398 篇），為該報最高產量專欄群之一（[[articles/taiwanjustice-net/index||TJJ 文章存檔索引]]）。

@@ -11246,6 +11246,8 @@ Notable quotes and mentions of **廖清山** in Taiwan Justice articles:
 
 ## From the record
 
+- 複核（TJJ-A09230900-2, 2026-09-25）：slice 文章 taiwanjustice-net/index（存檔索引頁）正文再驗證——本頁 subject 連結為真實提及，無錯鏈、無虛鏈；對應日期事實條目（含該文 wikilink）已在庫 — SKIP，無新材料。
+
 
 - 複核（TJJ-A09171000-1, 2026-09-24）：本 slice 文章 index（TJJ 文章存檔索引頁）正文再驗證——索引頁列廖清山為專欄作者（37 篇），連結為真，subject 連結為真，無錯鏈、無虛鏈；對應日期事實已在庫，無新材料。
 - 2026-07-28 — taiwanjustice.net 文章存檔索引（29,103 篇）將廖清山列為專欄作者之一（37 篇專欄），屬台美人專欄群（[[articles/taiwanjustice-net/index||TJJ 文章存檔索引]]）。
