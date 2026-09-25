@@ -6,7 +6,7 @@ tags:
   - Taiwanese-American
   - Taiwan-Center-group-member
 verification_status: published
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # Taiwanese American Aeronautics and Space Association
 
@@ -39,3 +39,5 @@ last_reviewed: 2026-09-24
 
 - [[organizations/taiwan-center||Taiwan Center]]
 - [[sources/taiwancenter-org||taiwancenter.org]]
+
+- Re-grep 2026-09-25 (slice 09240317-20): fresh ZH+EN+TASSA grep — hit set identical (record 2, 383, ourjourneys236, 斯人已逝 memoir, works/index); verified saturated, nothing new, no conflicts. SKIP.

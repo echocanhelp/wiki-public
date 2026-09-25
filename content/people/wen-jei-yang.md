@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # Wen-Jei Yang (楊文偕教授)
 
@@ -55,3 +55,5 @@ Honorary Professor of the Dept. of Mechanical Engineering and Dept. of Biomedica
 複核（deepen-x 2026-09-22 slice-12）：再次 re-grep（ZH+EN, works+articles）命中集合與前次完全相同，全部已 wikilink 吸收 — 飽和，無新增社群材料。
 複核（deepen-x 2026-09-23 slice 09220900-14）：re-grep 命中集合不變（mark-jacob-2008、#2163、#2296、harvest index），全部已吸收；楊文偕 vs 楊文傑 HOLD 維持 — 飽和。
 複核（deepen-x slice 09230400-10, 2026-09-24）：fresh ZH+EN re-grep against works/+articles/ returns the identical hit set already wikilinked above — corpus-saturated, SKIP-for-deepening.
+
+複核（deepen-x slice 09240317-20, 2026-09-25）：fresh ZH+EN re-grep — 命中集合不變（mark-jacob-2008、#2163、#2296、harvest index），全部已吸收；楊文偕 vs 楊文傑 HOLD 維持 — 飽和，SKIP-for-deepening.

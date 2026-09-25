@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # Wen Chi Lee (李文枝)
 
@@ -62,3 +62,5 @@ last_reviewed: 2026-09-24
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+- Re-verified 2026-09-25 (slice 09240317-20): fresh ZH+EN re-grep works/+articles/ — hit set identical to the works already wikilinked above; corpus-saturated, SKIP-for-deepening.

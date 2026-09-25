@@ -61,3 +61,6 @@ _No filled family fields on the TAH profile._
 
 ## Corpus re-grep (2026-09-24, slice 09230400-8)
 - SKIP: ZH+EN re-grep across content/works + content/articles: hit-set unchanged, all prior hits already absorbed and wikilinked; no new corpus material to absorb (saturated).
+
+## Corpus re-grep (2026-09-25, slice 09240317-16)
+- SKIP: ZH+EN re-grep（李明典 / Min-Ten / Milton）hit-set unchanged (dr-minten-lee、private-collections-84、whoswho972、videos71/72、publications999)，全數已吸收。新增的兩個疑似命中為假陽性：ourjourneys301 與 742（程孟郎）中的 "Milton" 分指鋼琴家 Milton Stern 與 Milton M. Chen，非本人 — 不吸收。Dr. Ming Lee 拼寫 HOLD 維持。

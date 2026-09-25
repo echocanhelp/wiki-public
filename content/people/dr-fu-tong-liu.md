@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # Dr. Fu-Tong Liu (劉扶東博士)
 
@@ -54,3 +54,5 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+複核（deepen-x slice 09240317-20, 2026-09-25）：fresh ZH+EN re-grep returns only TAH #1826 + harvest index; 徐福棟 romanization HOLD stands — corpus-saturated, SKIP-for-deepening.
