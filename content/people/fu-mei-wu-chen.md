@@ -47,6 +47,7 @@ last_reviewed: 2026-09-25
 - **Archivist/donor to the community record:** her own historical collection was accessioned by the TAH archive as [[works/taiwaneseamericanhistory-org/collection-of-mrs-fu-mei-wu-chen|50. Collection of Mrs. Fu-Mei Wu Chen 陳吳富美女士的收藏]] (recorded 2017-12-22, Band B) — she is documented not only as a memoir contributor but as a collector who preserved Taiwanese American materials for the community record.
 - 2026-09-23（slice 09221300-22）再grep（陳吳富美／Fu-Mei Wu Chen）：語料命中仍僅上列已連結之五篇親筆文章、#327 Who's Who 與個人收藏紀錄；無新事實。verified-saturated。
 - 2026-09-24（slice 09230800-29）再grep：命中集與上列完全一致（mystories27/157/190/498、publications1154、whos-who-327）；無新事實。verified-saturated。
+- 2026-09-25（slice 09240800-26）再grep：命中集不變（mystories27/157/190/498、publications1154、whos-who-327）；無新事實。verified-saturated。
 
 ## Sources
 - [TAH #327 encyclopedia: 327. Fu-Mei Wu Chen 陳吳富美/2015/03](https://taiwaneseamericanhistory.org/whos-who-327-fu-mei-wu-chen/)
