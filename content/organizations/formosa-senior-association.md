@@ -6,7 +6,7 @@ tags:
   - Taiwanese-American
   - Taiwan-Center-group-member
 verification_status: published
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-25
 ---
 # Formosa Senior Association
 
@@ -23,7 +23,7 @@ last_reviewed: 2026-09-22
 
 - Recorded in the TAHS community-history corpus as **17. Formosa Senior Association 美國南加州蓬萊長青會** (band B, published 2015-07-28): [[works/taiwaneseamericanhistory-org/formosa-senior-association|Formosa Senior Association record]] — bibliographic record only; full text stays in the vault.
 - A sibling 蓬萊長青會 senior club appears in the same corpus, **22. Cerritos Formosa Association 喜瑞都蓬萊長青會** (2015): [[works/taiwaneseamericanhistory-org/cerritos-formosa-association|Cerritos Formosa Association record]]. HOLD: organizational relationship between the two 蓬萊長青會 clubs is not established in the corpus.
-- **Re-verified 2026-09-22** (deepen-x slice 30): corpus hits for 蓬萊長青會 / Formosa Senior are only the two bibliographic records already linked above plus index entries; no further text to absorb. SKIP-with-reason.
+- **Re-verified 2026-09-25** (deepen-x slice 09231200-15): corpus hits for 蓬萊長青會 / Formosa Senior are only the two bibliographic records already linked above plus index entries; no further text to absorb. SKIP-with-reason.
 
 ## Source Notes
 

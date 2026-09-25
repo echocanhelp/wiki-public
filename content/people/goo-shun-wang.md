@@ -38,6 +38,8 @@ _No filled family fields on the TAH profile._
 - Corpus re-scan 2026-09-21 (deepen-x slice 20): only match is the works-index digest line for the same record (neighbouring index lines are unrelated entries) — no new material.
 
 > Deepen pass 2026-09-22 (slice 09210831-30): SKIP — fresh grep (王谷神/Goo-Shun Wang) still matches only [[works/taiwaneseamericanhistory-org/whos-who-1639-goo-shun-wang|TAH #1639]] and the works index; no community material.
+>
+> Re-verified 2026-09-25 (slice 09231200-12): SKIP — fresh ZH+EN grep returns the same hit set; 國順/王谷神 matches in taiwanjustice articles are substring coincidences (順天美術館, 順差), no community material.
 
 ## Sources
 - [TAH #1639 encyclopedia: 1639. Goo-Shun Wang 王谷神](https://taiwaneseamericanhistory.org/whos-who-1639-goo-shun-wang/)
