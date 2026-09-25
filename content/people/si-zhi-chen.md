@@ -51,6 +51,7 @@ Note: the on-page narrative ("25 years" at Tamkang) and the employment table (19
 
 ## From the record
 
+- 複核（TJJ-A09240500-5, 2026-09-25）：本 slice 文章 98bf76da5c3ac86d（台美人台加人分類頁 page 3, 2025-02-15 快照）正文再驗證——「第155回世界台灣文化論壇：台灣音樂家陳泗治校長」確認見於正文，連結為真，無錯鏈、無虛鏈；對應日期事實已在庫 — SKIP，無新材料。
 - 複核（TJJ-A09171200-6, 2026-09-24）：本 slice 文章 98bf76da5c3ac86d（台美人台加人分類頁 page 3）主體連結對照正文再驗證——「第155回世界台灣文化論壇：台灣音樂家陳泗治校長」條目確認見於正文，連結為真；2024-11-07 日期事實（含該文 wikilink）已在庫 — SKIP，無新材料。
 
 - Re-verify 2026-09-22 (TJJ-A09220700-9): subject-link check against slice article 98bf76da5c3ac86d（台美人台加人分類頁 page 3）—「第155回世界台灣文化論壇：台灣音樂家陳泗治校長」確認見於正文條目清單，連結為真（Subjects .md 後綴連結已修正）；上方日期事實已引該快照，無新材料。
