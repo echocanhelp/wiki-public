@@ -46,6 +46,8 @@ last_reviewed: 2026-09-24
 - 複核 2026-09-23（slice 09221000-25）：再 grep 全庫（林嘉仁 / Daniel Lin），命中仍僅 ourjourneys186（含英文版）、ourjourneys265、個人 TAH 條目 #1978 — 已全部吸收並 wikilink，無新事實。SKIP。
 - 複核 2026-09-24（slice 09230800-25）：再 grep 全庫，命中集不變（ourjourneys186 含英文版、ourjourneys265、TAH #1978）— 已全部吸收，無新事實。SKIP。
 
+- 複核 2026-09-25（slice 09240800-21）：再 grep 全庫（林嘉仁 / Daniel Lin），命中集不變（ourjourneys186 含英文版、ourjourneys265、TAH #1978）— 已全部吸收並 wikilink，無新事實。SKIP。
+
 ## Family
 
 - **Wife:** Shu-May Chang 張淑媚

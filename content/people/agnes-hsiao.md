@@ -46,6 +46,8 @@ last_reviewed: 2026-09-24
 
 ## Corpus review
 
+- 複核 2026-09-25（slice 09240800-21）：再 grep works+articles（黃美琇/Agnes Hsiao），命中集不變（OJ 30/30-eng/265、memoir #459、Who's Who #796、works index）— 已全部吸收並 wikilink，無新社群事實，無衝突需 HOLD。SKIP。
+
 - 本頁 corpus 檢索（2026-09-22, DEEPEN-X slice 09220500-13; re-verified 2026-09-23 slice 09221300-13 — hit set identical: Our Journeys 30/30-eng/265, memoir #459, Who's Who #796, works index; all already wikilinked）：works/articles 檢索 黃美琇／Agnes Hsiao 無命中（已收錄的 Our Journeys 30／265、memoir #459、Who's Who #796 均為書目記錄，全文留在 vault）— 已飽和，無新可吸收社群事實，無衝突需 HOLD。
 
 ## Sources

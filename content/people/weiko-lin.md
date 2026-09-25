@@ -45,6 +45,7 @@ Taiwan-born screenwriter and producer; the community record frames him as part o
 - Wrote the original play adapted into the feature film *100 DAYS* — his first major feature production — directed by Henry Chan; released in Taiwan November 2013, then screened at US festivals including the Los Angeles Asian Pacific Film Festival (2014). Released simultaneously with a manga comic book and CD soundtrack.
 - Featured during **Taiwanese American Heritage Week 2014**: TaiwaneseAmerican.org raffled two autographed sets of *100 DAYS* tied to a tribute-to-your-mother comment campaign, connecting his film directly to the heritage-week community program ([[organizations/taiwaneseamerican-org]]).
 - Recorded in the TAH Foundation Who's Who as #239 ([[works/taiwaneseamericanhistory-org/239-weiko-lin|239. Weiko Lin 林偉克/2015/01]]).
+- Corpus re-scan 2026-09-25 (slice 09240800-21): fresh grep (林偉克 / Weiko Lin) hit set unchanged (#239, producer-weiko-lin, index); everything already absorbed and wikilinked; no new facts; HOLD above stands. SKIP.
 - Corpus re-scan 2026-09-23 (deepen-x slice 09221400-4): fresh grep (林偉克 / Weiko Lin) returned exactly the works already linked above (#239, producer-weiko-lin); no additional corpus mentions, HOLD below stands.
 - HOLD: conflict in teaching base — TAH Who's Who lists professorships at UC Riverside and Northwestern Univ., while his own 2014 interview says he "spent most of his time teaching screen-writing in Chicago and Los Angeles"; not merged pending clarification.
 
