@@ -57,3 +57,4 @@ _No filled family fields on the TAH profile._
 - 複核（deepen-x slice 09211300-9, 2026-09-22）：fresh grep 邱詩涵/Shih-han 命中集不變（僅本人 TAH 書目頁 #245、#502 + index），無回憶錄／社群材料可吸收。SKIP-with-reason（飽和）。
 - 複核（deepen-x slice-09221500-6, 2026-09-23）：re-grep 邱詩涵|Shih-han 命中集不變（僅本人書目 #245、#502＋index）— SKIP-with-reason（飽和），無新材料。
 - 複核（deepen-x slice-09230900-4, 2026-09-24）：re-grep 邱詩涵|Shih-han 命中集不變（僅本人書目 #245、#502＋index）— SKIP-with-reason（飽和），無新回憶錄/社群材料可吸收。
+- 覆核（deepen-x slice-09230900-4 rerun, 2026-09-25）：re-grep 命中集不變（僅 #245、#502＋index）— SKIP-with-reason（飽和），無新材料。
