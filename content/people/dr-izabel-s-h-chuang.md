@@ -51,3 +51,6 @@ _No filled family fields on the TAH profile._
 <!-- deepen-x slice 09211507-21 (2026-09-22): SKIP re-verified — corpus re-grep (莊捷筠/Izabel) hits only own TAH #2233 record + works index; nothing absorbable. -->
 
 <!-- deepen-x slice 09231100-10 (2026-09-25): verified-saturated — fresh ZH+EN corpus re-grep hits only the already-cited records (own TAH encyclopedia entry + works index); no new absorbable facts. -->
+
+
+<!-- deepen-x slice 09250400-25 (2026-09-25): verified-saturated — fresh ZH+EN corpus re-grep (works/ + articles/) hits only the already-cited records (own TAH encyclopedia entry + works index); no new absorbable facts. -->
