@@ -26,6 +26,7 @@ The Association of Taiwanese Students (ATS) at MIT is an undergraduate student o
 <!-- deepen-x 09171000-11: SKIP — no corpus hits for 'Association of Taiwanese Students' / 'mitats'; generic MIT matches (Lisa Su, NATSA, masks, Christie Park) are unrelated organizations/people. Nothing absorbable. -->
 
 <!-- deepen-x 09210831-29: SKIP — re-grepped 'Association of Taiwanese Students' / 'mitats' across works+articles: still zero corpus hits, nothing absorbable. -->
+<!-- deepen-x 09231200-26: SKIP — re-grepped 'Association of Taiwanese Students' / 'mitats' / 'MITATS' across works+articles: still zero corpus hits, nothing absorbable. -->
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

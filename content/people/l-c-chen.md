@@ -30,6 +30,8 @@ last_reviewed: 2026-09-25
 - University of South Florida — 1980 — Professor
 <!-- tah-tables:end -->
 
+- SKIP re-verify (2026-09-25, deepen-x slice 09231200-25): fresh grep of works/+articles/ for 陳麗村/L. C. Chen returns only the two already-cited records (#1459; #1769 under the 陳立川 collision) plus index lines — HOLD stands, nothing absorbable.
+
 ## Family
 
 _No filled family fields on the TAH profile._

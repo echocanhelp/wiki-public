@@ -18,6 +18,7 @@ Earlier SKIP note (slice 09180400-23) is superseded: a work page for TAH #1499 n
 - Her TAH Who's Who bibliographic record is held as [[works/taiwaneseamericanhistory-org/whoswho1499|1499. Fang-Yi Sheu 許芳宜 / 2017-02]] (published 2017-02-05).
 - Portrayed in the community film record: Yo-hung Yao's documentary *Salute* (2022) is reviewed in [[works/taiwaneseamerican-org/taiwan-films-that-imagine-taiwanese-america|Taiwan Films That Imagine Taiwanese America]] — the review notes she trained at the Martha Graham Dance Company in New York in her 20s and built a binational career as one of the most important modern dancers to hail from Taiwan.
 - Note: corpus also holds records for other Sheu/Sheuh family members (Danny Sheu, violist; Dr. S. F. Sheuh 薛信夫) — different persons, not merged here.
+- Re-grepped 2026-09-25 (slice 09231200-25): hit set identical to prior pass (own TAH #1499 record, works index, *Salute* review in [[works/taiwaneseamerican-org/taiwan-films-that-imagine-taiwanese-america|Taiwan Films That Imagine Taiwanese America]] — already cited) — verified-saturated; SKIP, nothing absorbable.
 
 ## Identity Snapshot
 - **English:** Fang-Yi Sheu
@@ -35,6 +36,8 @@ Earlier SKIP note (slice 09180400-23) is superseded: a work page for TAH #1499 n
 ## Employment
 - 「拉芳．LAFA」舞團, NY — 2006 — 創立者 — Martha Graham — 1996-2006 — 首席舞者
 <!-- tah-tables:end -->
+
+- Re-grepped 2026-09-25 (slice 09231200-25): hit set identical to prior pass (own TAH #1499 record, works index, *Salute* review in [[works/taiwaneseamerican-org/taiwan-films-that-imagine-taiwanese-america|Taiwan Films That Imagine Taiwanese America]] — already cited) — verified-saturated; SKIP, nothing absorbable.
 
 ## Family
 

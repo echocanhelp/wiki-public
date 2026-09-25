@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-25
 ---
 # Perry B. Shieh (謝泊怡)
 
@@ -36,7 +36,7 @@ last_reviewed: 2026-09-22
 - Profiled in the TAH encyclopedia: [[works/taiwaneseamericanhistory-org/1581-perry-b-shieh-e8-ac-9d-e6-b3-8a-e6-80-a1-201703|1581. Perry B. Shieh 謝泊怡 / 2017/03]] (2017-03-23).
 - Son of aerospace engineer 謝清志 (Xie Qingzhi); the family record in the TAHS 2023 publication names him as the medical-generation heir of the family's service tradition: [[people/xie-qingzhi-xie-poyi|Xie Qingzhi & Xie Poyi (謝清志、謝泊怡)]].
 - Mentioned in the 生活座談會 community-history memoir (band A): [[works/taiwaneseamericanhistory-org/ourjourneys212|212. 生活座談會簡史 / 劉天良 / 03/2016]] — via his father 謝清志, a 南區生活座談會 member.
-- Re-verified 2026-09-20: corpus re-grep found no new memoir text beyond the records above (1581 is band-B bibliographic; taiwanjustice-net hits are news mentions of 范世平, unrelated). No SKIP needed — existing corpus links stand.
+- Re-verified 2026-09-20; re-run 2026-09-25 (deepen-x slice 09231200-29): corpus re-grep returns only the already-linked ourjourneys212, TAH #1581, and index lines — no new memoir text. No SKIP needed — existing corpus links stand.
 
 ## Family
 

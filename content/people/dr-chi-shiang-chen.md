@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-25
 ---
 # Dr. Chi- Shiang Chen (陳吉祥醫師)
 
@@ -39,6 +39,7 @@ Medical Director, Respiratory Therapy Department, Church Hospital Baltimore MD (
 
 ## Role in the Community
 - Held in the TAH Foundation story corpus as [[works/taiwaneseamericanhistory-org/whos-chi-shiang-chen|1209. Dr. Chi- Shiang Chen 陳吉祥]] (published 2016-08-06).
+- Son Benson (Tze-Ming Chen) is himself catalogued in the TAH Who's Who corpus, published the same day as this page's entry #1209: [[works/taiwaneseamericanhistory-org/whoswho1207|1207. Tze-Ming (Benson) Chen / 2016/08]].
 - 2018-07 — as a 台大醫科 alumnus in Southern California, co-signed the NTU-alumni protest letter against 南加州台大校友會 inviting 管中閔 to speak at its annual meeting: [[articles/taiwanjustice-net/2018/20180721091303_2018_07_20_抗議-南加州台大校友會邀管中閔來年會做專題演講_a428dcebbceacf38|抗議 南加州台大校友會邀管中閔來年會做專題演講]]. Signature lists 陳吉祥(醫科); consistent with this page's 台大醫學院 1967 M.D. but not independently confirmed as the same person.
 
 ## Sources

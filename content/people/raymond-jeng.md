@@ -35,6 +35,8 @@ last_reviewed: 2026-09-25
 - Corpus record: [[works/taiwaneseamericanhistory-org/769-raymond-jeng-e9-84-ad-e8-8b-b1-e6-9d-be-201601|TAH #769（2016-01）]]（bibliographic record only，全文在 vault）。
 - Re-grepped 2026-09-22 (slice 09211507-24): corpus hits remain only his own TAH record, the works index, and the 2018-07 連署聲明 already cited above — verified-saturated, nothing further absorbable.
 
+- Re-grepped 2026-09-25 (slice 09231200-25): corpus hit set identical to the 2026-09-22 pass (own TAH #769 record, works index, the 2018-07 連署聲明 already cited) — verified-saturated; SKIP, nothing absorbable.
+
 ## Family
 
 _No filled family fields on the TAH profile._
