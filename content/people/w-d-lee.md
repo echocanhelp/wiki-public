@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-25
 ---
 # W. D. Lee 李 (李武達)
 
@@ -42,3 +42,5 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+<!-- deepen-x slice 09231500-6 recheck 2026-09-25: no new material — corpus hits remain ourjourneys110/ourjourneys110-eng roster + own whoswho1403, all already absorbed into Role in the Community. -->

@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-25
 ---
 # Harvard Griffin GSAS Taiwan Student Association
 
@@ -27,3 +27,5 @@ SKIP: no genuine hits in the works/articles corpus (grep matches were unrelated 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+<!-- deepen-x slice 09231500-6 recheck 2026-09-25: SKIP — fresh grep matched only unrelated NHTSA press-name news copy; no community-corpus facts. -->
