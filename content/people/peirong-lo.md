@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-25
 ---
 # Peirong Lo (羅佩蓉)
 
@@ -36,7 +36,7 @@ _No filled family fields on the TAH profile._
 ## Role in the Community
 
 - Entry #403 in the TAH Foundation Who's Who / story corpus, published 2017-06-05: [[works/taiwaneseamericanhistory-org/peirong-lo-pianist|403. Peirong Lo 羅佩蓉, Pianist /06/2017]] (bibliographic record; full text stays in the vault).
-- Corpus grep (works/ + articles/, re-run 2026-09-22 slice 09220700-17, SKIP-with-reason) returns only her own TAH press-kit entry and the corpus index — no memoir or article mentions; no community-activity facts beyond the TAH record to absorb.
+- Corpus grep (works/ + articles/, re-run 2026-09-22 slice 09220700-17, SKIP-with-reason) returns only her own TAH press-kit entry and the corpus index — no memoir or article mentions; no community-activity facts beyond the TAH record to absorb. Re-grep 2026-09-25 (slice 16): same, verified-saturated.
 
 ## Sources
 - [TAH #403 encyclopedia: 403. Peirong Lo 羅佩蓉, Pianist /06/2017](https://taiwaneseamericanhistory.org/peirong-lo-pianist/)
