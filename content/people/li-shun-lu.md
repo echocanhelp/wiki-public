@@ -42,6 +42,7 @@ Senior Staff Engineer to Engineering Consultant
 - TAH encyclopedia record: [[works/taiwaneseamericanhistory-org/whos1080-li-shun-lu||1080. Li-Shun Lu 呂理順]]（2016-06）。
 - Corpus re-scan 2026-09-23 (deepen-x slice 09221200-6): fresh grep 呂理順 / Li-Shun Lu — hit set = mystories444 / our-journeys-359 / whos1080 / ourjourneys-139 only, all absorbed above; content greps return title lines only, no new absorbable facts. Verified saturated.
 - Corpus re-grep 2026-09-24 (slice 09230600-13): identical hit set (mystories444, our-journeys-359, whos1080, ourjourneys-139); content grep re-verified the 陳淮崇回憶錄 roster passage already absorbed verbatim above. Verified saturated — SKIP-with-reason.
+- Corpus re-grep 2026-09-25 (slice 09240600-16): identical hit set (mystories444, our-journeys-359, whos1080, ourjourneys-139; works/index.md hit is a bibliographic listing only). Verified saturated — SKIP-with-reason.
 
 ## Family
 

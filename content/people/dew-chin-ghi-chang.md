@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # DEW Chin-Ghi Chang (張清祺)
 
@@ -64,6 +64,8 @@ Corpus re-grep (slice 09212352-23, 2026-09-22): hit set unchanged — memoir [[w
 Corpus re-grep (slice 09221100-23, 2026-09-23): same hit set (ourjourneys33, ourjourneys186-eng, ff361, whos-dew-chin-ghi-chang, index); ff361 title confirms the family memoir framing (張清祺一家人為台灣建國事業努力一生, 1964–present, 2018), already cited. Nothing new absorbable — SKIP (verified-saturated).
 
 Corpus re-grep (slice 09230600-13, 2026-09-24): same hit set (ourjourneys33, ourjourneys186-eng, ff361, whos-dew-chin-ghi-chang, index); TACL consultants-roster passage re-verified verbatim, already cited. Nothing new absorbable — SKIP (verified-saturated).
+
+Corpus re-grep (slice 09240600-17, 2026-09-25): same hit set (ourjourneys33, ourjourneys186-eng, ff361, whos-dew-chin-ghi-chang, index). All corpus facts above already absorbed. Nothing new absorbable — SKIP (verified-saturated).
 
 ## Sources
 - [TAH #2057 encyclopedia: 2057. DEW Chin-Ghi Chang 張清祺 / 03/2018](https://taiwaneseamericanhistory.org/whos-dew-chin-ghi-chang/)
