@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # Ted Lau (劉重義)
 
@@ -47,13 +47,15 @@ last_reviewed: 2026-09-24
 - 1984-01 — elected 第二副主席 of 台獨聯盟美國本部 (第九屆盟員代表大會, San Jose)
 - 1985 — co-author of NARTE booklet 風起雲湧
 - 1986-01 — elected 第一副主席 (第十屆盟員代表大會, San Jose); withdrew from the alliance the same year
+- 2015-12 — authored 3F費城五傑 ([[works/taiwaneseamericanhistory-org/380-3f|380]])
+- 2016-10 — as 召集人 of 臺灣民族同盟, morning keynote at 第四十五屆美東夏令會 ([[works/taiwaneseamericanhistory-org/ourjourneys260|260]])
 
 ## Family
 
 _No filled family fields on the TAH profile._
 
 _Corpus re-grep 2026-09-23: same hits (publications1025, mystories297, ourjourneys238/234, 369 費城三傑, 760 劉聰德 record); 劉重義 vs 劉聰德 HOLD stands, nothing new._
-_Corpus re-grep 2026-09-24 (slice 09230600-32): hit-set identical; 劉重義 vs 劉聰德 HOLD stands — SKIP-with-reason: verified-saturated._
+_Corpus re-grep 2026-09-25 (slice 09240700-15): two not-yet-absorbed records found — 380. 3F費城五傑 (authored by him) and 260. 美東夏令會備忘錄 (names him 臺灣民族同盟召集人) — absorbed above. 劉重義 vs 劉聰德 HOLD stands._
 
 ## Sources
 - [TAH #615 encyclopedia: 615. Ted Lau 劉重義 / 2015/09](https://taiwaneseamericanhistory.org/615-ted-lau-%e5%8a%89%e9%87%8d%e7%be%a9-201509/)

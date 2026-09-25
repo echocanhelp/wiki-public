@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # C. K. Lee (李世光)
 
@@ -44,6 +44,7 @@ last_reviewed: 2026-09-24
 - Corpus re-scan 2026-09-22 (slice 09210500-12): corpus hits (TAH #783, #15 返台任教 1994 record, Our Journeys 310 新澤西回憶錄) already absorbed above; no further memoir material, nothing new absorbable.
 - Corpus re-scan 2026-09-23 (slice 09221300-18): fresh grep 李世光 hits remain TAH #783, #15 返台任教 1994, Our Journeys 310, works index — all absorbed above (OJ310 政府要員博士群 list confirmed verbatim). SKIP-content (verified-saturated); no new facts, no conflicts to HOLD.
 - Corpus re-scan 2026-09-24 (slice 09230800-6): fresh grep (李世光／C. K. Lee) of works/ + articles/ — hits unchanged (TAH #783, #15 返台任教 1994, Our Journeys 310, works/index.md), verbatim re-confirmed. SKIP-content (verified-saturated); nothing new absorbable, no conflicts to HOLD.
+- Corpus re-scan 2026-09-25 (slice 09240700-21): fresh grep (李世光／C. K. Lee) — hits unchanged (TAH #783, #15 返台任教 1994, Our Journeys 310, works/index.md). SKIP-content (verified-saturated); nothing new absorbable.
 
 ## Family
 
