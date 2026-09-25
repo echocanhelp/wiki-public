@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-25
 ---
 # Alexander Yeh (葉怡平)
 
@@ -47,3 +47,5 @@ Corpus review 2026-09-21: the only corpus mentions are the subject's own TAH Who
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+Corpus re-scan 2026-09-25: re-verified — sole ZH+EN hits are his own record [[works/taiwaneseamericanhistory-org/whoswho1392|1392]]; nothing absorbable in works/ or articles/.

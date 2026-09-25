@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-25
 ---
 # C. H. Chen (陳初雄)
 
@@ -23,6 +23,7 @@ C. H. Chen (陳初雄) is listed in the TAH Foundation Who’s Who Taiwanese Ame
 
 ## Role in the Community
 
+- Corpus re-scan 2026-09-25 (ZH+EN): no third-party mentions beyond the 2014 美東台灣人夏令會 closing-statement record below.
 - 2014 — Served as **大會理事長** (chairman of the organizing board) of the 美東台灣人夏令會 (US-East Taiwanese American Summer Conference). The conference's closing-plenary 大會聲明 was drafted by 盧主義 and completed with 陳初雄's approval as board chairman; the statement was read aloud in Taiwanese at the closing ceremony ([[works/taiwaneseamericanhistory-org/ourjourneys260|夏令會閉幕聲明 record]]).
 - His own TAH Who's Who entry is archived in the corpus at [[works/taiwaneseamericanhistory-org/whoswho1734|1734. C. H. Chen 陳初雄 / 07/2017]].
 

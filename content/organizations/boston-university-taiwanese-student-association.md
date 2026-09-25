@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-25
 ---
 # Boston University Taiwanese Student Association
 
@@ -27,3 +27,5 @@ The Boston University Taiwanese Student Association (BUTSA, 波士頓大學台�
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+Corpus re-scan 2026-09-25 (BUTSA / 波士頓大學台灣同學會 / Boston University Taiwanese): still zero hits in works/ or articles/; SKIP stands.
