@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # Taiwanese American Society at Yale
 
@@ -27,6 +27,7 @@ The Taiwanese American Society at Yale (TAS) is an undergraduate student organiz
 - 2026-09-23 re-scan (deepen-x slice 09221200-8): fresh Yale/耶魯 grep across works/ + articles/ surfaces only already-linked pages (ourjourneys81, 268, 556, ITASA works) plus the above ourjourneys62 William Porter detail; no mention of TAS itself. Nothing else absorbable; verified saturated.
 - 2026-09-22 deepen-x slice 09220400-15: SKIP — verified saturated. Broad grep (台美社) matched only generic phrases (台美社區獎學金, 台美社團) in ourjourneys303/53/231/12/323/footsteps-4; zero actual Yale/耶魯 mentions in those files. Existing Role-in-the-Community (1967 自由長征 台獨聯盟 recruitment, 1991 ITASA founding, 1999 handbook chapter entry, 2014 alumni events) already covers all corpus-linked Yale material; nothing new absorbable.
 - 2014-02-13 — ITASA East Coast Conference held at Yale (distinct event record alongside the 2014 alumni events above), evidencing the Yale campus/alumni layer hosting intercollegiate gatherings — see [[works/taiwaneseamerican-org/2014-itasa-east-coast-conference-at-yale|2014 ITASA East Coast Conference at Yale]].
+- 2026-09-25 re-scan (deepen-x slice 09240600-4): fresh 台美社/耶魯/Yale grep across works/+articles/ — hit-set identical to prior passes (generic 台美社區/台美社團 matches in #303/#53/#231/#12/#323/footsteps-4; Yale-persona records #61/#62/#81/#268, 556 handbook, ITASA works; #312 match is a generic 台美社區 phrase). No TAS first-party memoir; verified saturated; SKIP-deepen.
 - 2026-09-24 re-scan (deepen-x slice 09230600-9): fresh Yale/耶魯 + TAS grep across works/ + articles/ — one new absorbable hit (2014 East Coast conference record, added above); remaining hits (ourjourneys61/62/81/268, 556 handbook, ITASA works) already linked or Yale-persona pre-history. No TAS first-party memoir; verified saturated beyond above.
 
 ## Sources

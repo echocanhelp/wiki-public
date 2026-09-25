@@ -42,6 +42,7 @@ last_reviewed: 2026-09-25
 - **Son:** Norman
 
 
+- Corpus re-grep 2026-09-25 (DEEPEN-X slice 09240600-4): fresh ZH+EN grep hit-set identical to prior passes (Our Journeys 287, TAH #1520, index, 楊遠薰 懷念彭昕醫師 ×2 archives, 翁啟惠連署 call, TJJ memo) — verified saturated; SKIP-deepen.
 - Corpus re-grep 2026-09-24 (DEEPEN-X slice 09230600-20): fresh ZH+EN grep returns the identical hit-set already cited (Our Journeys 287 善友 memoir, TAH #1520, 楊遠薰 懷念彭昕醫師 ×2 archives, 翁啟惠連署 call) — nothing new absorbable. Verified saturated.
 
 ## Sources

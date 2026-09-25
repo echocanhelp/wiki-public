@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # James Hu (胡宏仁)
 
@@ -47,6 +47,8 @@ last_reviewed: 2026-09-24
 - 2017-11-29 — 應邀於長青教室演講「建造健康奇蹟的食用好油」（見下方 From the record，與 2015 電腦技巧課程同屬長青教室講師群）。
 
 2026-09-24 re-check (DEEPEN-X slice 09230600-30): corpus re-grep (James Hu / 胡宏仁) hit-set unchanged — 887, ourjourneys107 課程名單, index 目錄, plus held lunchbox/James Huang false-identity hits and TJJ 黃瑞雅頁 — verified-saturated, nothing new absorbable.
+
+2026-09-25 re-check (DEEPEN-X slice 09240600-4): corpus re-grep (James Hu / 胡宏仁) hit-set identical to prior passes (887, ourjourneys107 課程名單, index 目錄, lunchbox/James Huang held false-identity hits, TJJ 黃瑞雅頁, 長青教室 tag archives) — verified-saturated, nothing new absorbable.
 
 HOLD: 「Liyen James Hu」在 [[works/taiwaneseamerican-org/lunchbox-anne-hu-release|Lunchbox 短片新聞稿]] 中掛名攝影，是否即本頁胡宏仁不明（該片Anne Hu之母為 Chinluen Judy Hu，與本頁配偶鍾瑞美不一致）；同一連結亦見 [[works/taiwaneseamerican-org/james-huang-is-a-gleek-are-you|James Huang is a Gleek!]]（James Huang 醫師，應為另一人）。未經確認不併档。
 

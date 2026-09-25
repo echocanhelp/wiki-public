@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # Charles Chiang (江昭儀)
 
@@ -40,6 +40,8 @@ last_reviewed: 2026-09-24
 - 1985-04 — named among the consultants (顧問) of the 台美公民協會 (TACL) Preparatory Committee, alongside 丁昭昇、王桂榮、王慶滄 et al. (台灣公論報 #369, 1985-04-15) ([[works/taiwaneseamericanhistory-org/ourjourneys186|Our Journeys 186]] / [[works/taiwaneseamericanhistory-org/ourjourneys186-eng|EN]]).
 - 1987 — one of the 19 members of the working committee of the 「Joint Committee of Taiwanese Americans for 1990 U.S. Census」 convened out of TACL, which lobbied the Census Bureau's minority advisory committee and Congress ([[works/taiwaneseamericanhistory-org/ourjourneys253|253. 1990年美國人口普查 — TACL的角色, 周實, 2016-09]]).
 - 2011 — listed as president of the TAA Minnesota chapter in the chapter's centennial history ([[works/taiwaneseamericanhistory-org/ourjourneys123-eng|123. Brief History of TAA – Minnesota, 曾啟明]]; HOLD: conflict with the TAH profile's 「Taiwanese American CPA Association — President」 role vs chapter-office in the MN history — not merged).
+
+_Corpus re-scan 2026-09-25 (slice 09240600-5): fresh ZH+EN grep (江昭儀／Charles Chiang) again returns the identical hit set (#66 回台團領隊名單, #186/eng TACL顧問名單, #253 1990人口普查19人工作委員會, #123-eng TAA-MN社長名冊, whos-who-2217); corpus text verified verbatim against existing entries, nothing new absorbable — verified saturated._
 
 _Corpus re-scan 2026-09-24 (slice 09230600-11): fresh ZH+EN grep (江昭儀／Charles Chiang) returns the identical hit set (#66, #186/eng, #253, #123-eng, whos-who-2217); nothing new absorbable — verified saturated._
 
