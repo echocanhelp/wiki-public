@@ -36,7 +36,7 @@ _No filled family fields on the TAH profile._
 
 ## Role in the Community
 
-Corpus reviews 2026-09-19 and 2026-09-22: the only corpus mentions are the subject's own TAH Who's Who record — [[works/taiwaneseamericanhistory-org/whoswho1655|1655. Tony. Li-Cheng Yeh 葉禮禎 / 05/2017]] (published 2017-05-11, band B). No third-party mentions found in memoirs or community works; no new facts absorbable beyond the TAH press-kit record above.
+Corpus reviews 2026-09-19, 2026-09-22, and 2026-09-25 (slice 09232232-1): the only corpus mentions are the subject's own TAH Who's Who record — [[works/taiwaneseamericanhistory-org/whoswho1655|1655. Tony. Li-Cheng Yeh 葉禮禎 / 05/2017]] (published 2017-05-11, band B). No third-party mentions found in memoirs or community works; no new facts absorbable beyond the TAH press-kit record above.
 
 ## Sources
 - [TAH #1655 encyclopedia: 1655. Tony. Li-Cheng Yeh  葉禮禎 / 05/2017](https://taiwaneseamericanhistory.org/whoswho1655/)

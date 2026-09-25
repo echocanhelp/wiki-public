@@ -7,11 +7,11 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-25
 ---
 # Steven Fan (范盛裕)
 
-<!-- deepen-x 2026-09-18: SKIP — corpus scan found no community/memoir material beyond his own TAH Who's Who bibliographic record; nothing absorbable, no content invented. Re-verified 2026-09-20 and 2026-09-21 (ZH+EN grep): corpus hits limited to his own record [[works/taiwaneseamericanhistory-org/whos-who-2171-steven-fan|2171. Steven Fan 范盛裕]] and the works index; no memoir/community material. Re-verified 2026-09-22: no new corpus hits; SKIP stands. -->
+<!-- deepen-x 2026-09-18: SKIP — corpus scan found no community/memoir material beyond his own TAH Who's Who bibliographic record; nothing absorbable, no content invented. Re-verified 2026-09-20 and 2026-09-21 (ZH+EN grep): corpus hits limited to his own record [[works/taiwaneseamericanhistory-org/whos-who-2171-steven-fan|2171. Steven Fan 范盛裕]] and the works index; no memoir/community material. Re-verified 2026-09-22: no new corpus hits; SKIP stands. Re-verified 2026-09-25 (ZH+EN grep of works/ + articles/): corpus hits remain limited to the own TAH record [[works/taiwaneseamericanhistory-org/whos-who-2171-steven-fan|2171. Steven Fan 范盛裕]] and the works index; no memoir/community material; SKIP stands. -->
 
 ## Identity Snapshot
 - **English:** Steven Fan

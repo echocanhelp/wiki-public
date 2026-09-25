@@ -6,7 +6,7 @@ tags:
   - Taiwanese-American
   - Taiwan-Center-group-member
 verification_status: published
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-25
 ---
 # Taiwan Hakka Language System
 
@@ -31,3 +31,4 @@ last_reviewed: 2026-09-22
 
 - [[organizations/taiwan-center||Taiwan Center]]
 - [[sources/taiwancenter-org||taiwancenter.org]]
+- 2026-09-25 re-sweep (slice 09232232-4): fresh ZH+EN grep of works/ + articles/ — zero corpus hits; SKIP-deepen stands.

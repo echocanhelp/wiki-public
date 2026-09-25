@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-25
 ---
 # Shan Lin (林上祺)
 
@@ -45,3 +45,4 @@ Corpus review 2026-09-19 (re-grep 2026-09-22, same result): the only corpus ment
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- 2026-09-25 re-sweep (slice 09232232-4): fresh ZH+EN grep — hits are only own record [[works/taiwaneseamericanhistory-org/whoswho1328|1328]] + works/index; no third-party memoir mentions; SKIP-deepen stands.
