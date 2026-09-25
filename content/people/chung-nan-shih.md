@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # Chung Nan Shih (施忠男)
 
@@ -49,3 +49,4 @@ Re-grep 2026-09-24 (slice 09230400-28): fresh ZH+EN re-grep returns the identica
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+Re-grep 2026-09-25 (slice 09240500-30): identical hit set (TAH #957, ourjourneys222, videos-chung-shih, index) — verified-saturated.
