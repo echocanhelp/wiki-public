@@ -5,10 +5,11 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-25
 ---
 # Taiwanese Dental Association
 
+<!-- deepen-x slice 09232337-19 (2026-09-25) re-verified: SKIP — fresh grep 'Taiwanese Dental Association' in content/works + content/articles: zero hits; nothing absorbable. -->
 <!-- deepen-x 2026-09-22 re-verified: SKIP — zero corpus hits in content/works and content/articles (no mention in any memoir or record); the TAH directory blurb is the only material, nothing absorbable, no content invented. -->
 
 ## Identity Snapshot

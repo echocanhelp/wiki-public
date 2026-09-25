@@ -32,7 +32,7 @@ last_reviewed: 2026-09-25
 <!-- tah-tables:end -->
 
 ## Role in the Community
-- Corpus sweep (works/articles) found no community narrative material beyond his own TAH Who's Who record: [[works/taiwaneseamericanhistory-org/whoswho1404|1404. B. C. Hsu 許炳堅 / 2016/11]]（bibliographic record only, band B）. Nothing absorbable; no biography invented.（復核語料比對 2026-09-22：仍無可吸收社群記述。）
+- Corpus sweep (works/articles) found no community narrative material beyond his own TAH Who's Who record: [[works/taiwaneseamericanhistory-org/whoswho1404|1404. B. C. Hsu 許炳堅 / 2016/11]]（bibliographic record only, band B）. Nothing absorbable; no biography invented.（復核語料比對 2026-09-22、2026-09-25：仍無可吸收社群記述。）
 
 ## Family
 

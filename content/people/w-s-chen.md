@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-25
 ---
 # W. S. Chen (陳務憲)
 
@@ -35,7 +35,7 @@ last_reviewed: 2026-09-22
 
 ## Role in the Community
 
-No community activity recorded in the corpus beyond his TAH profile（[[works/taiwaneseamericanhistory-org/whoswho1521|1521. W. S. Chen 陳務憲 / 2017-02]]）. Note: the corpus also holds a different person sharing the same English initials — W. S. Chen 陳文祥（[[works/taiwaneseamericanhistory-org/whoswho1658|1658. W. S. Chen 陳文祥 / 2017-05]]）. These are two distinct people; do not merge.
+No community activity recorded in the corpus beyond his TAH profile (re-verified 2026-09-25: fresh grep returns only his own record, the 陳文祥 same-initials record, and the works index)（[[works/taiwaneseamericanhistory-org/whoswho1521|1521. W. S. Chen 陳務憲 / 2017-02]]）. Note: the corpus also holds a different person sharing the same English initials — W. S. Chen 陳文祥（[[works/taiwaneseamericanhistory-org/whoswho1658|1658. W. S. Chen 陳文祥 / 2017-05]]）. These are two distinct people; do not merge.
 
 ## Sources
 - [TAH #1521 encyclopedia: 1521. W. S. Chen 陳務憲 / 2017/02](https://taiwaneseamericanhistory.org/whoswho1521/)

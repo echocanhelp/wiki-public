@@ -25,7 +25,7 @@ Rev. Zhuang is recognized as an ordained minister within the Taiwanese Presbyter
 ## Source Notes and Confidence
 - Needs verification: expanded biographical details
 - Moderate confidence: named in church records
-- SKIP (deepen-x re-verified 2026-09-22): no corpus hits in works/articles for 莊信德/Zhuang Xinde — no absorbable community material beyond this page itself. Note: corpus hits for "Chin-Teh" are 孫震德/Prof. Chin-Teh Sun ([[works/taiwaneseamericanhistory-org/40-prof-chin-teh-sun|TAH #40]], [[works/taiwaneseamericanhistory-org/whos-who-737-chin-teh-sun|TAH #737]]) — a different person, not this Rev. Zhuang; do not merge.
+- SKIP (deepen-x re-verified 2026-09-25): no corpus hits in works/articles for 莊信德/Zhuang Xinde — no absorbable community material beyond this page itself; the only 信德 substring hits are unrelated news (紫荊/信德集團 Phoenix TV stake sale, 巴基斯坦信德省 floods). Note: corpus hits for "Chin-Teh" are 孫震德/Prof. Chin-Teh Sun ([[works/taiwaneseamericanhistory-org/40-prof-chin-teh-sun|TAH #40]], [[works/taiwaneseamericanhistory-org/whos-who-737-chin-teh-sun|TAH #737]]) — a different person, not this Rev. Zhuang; do not merge.
 
 ## Name Variants / Disambiguation
 - Chinese: 莊信德

@@ -31,7 +31,7 @@ last_reviewed: 2026-09-25
 
 ## Role in the Community
 
-- Two TAH encyclopedia records preserved in the corpus: [[works/taiwaneseamericanhistory-org/whos-who-1816-lulu-meng|1816. LuLu Meng 孟祥璐]] (published 2017-08-06) and the earlier entry [[works/taiwaneseamericanhistory-org/whoswho1589|1589. Lulu Meng]] (published 2017-03-29). Both are bibliographic records only — no memoir or article material beyond the Who's Who entries.
+- Two TAH encyclopedia records preserved in the corpus (re-verified 2026-09-25 fresh ZH+EN sweep): [[works/taiwaneseamericanhistory-org/whos-who-1816-lulu-meng|1816. LuLu Meng 孟祥璐]] (published 2017-08-06) and the earlier entry [[works/taiwaneseamericanhistory-org/whoswho1589|1589. Lulu Meng]] (published 2017-03-29). Both are bibliographic records only — no memoir or article material beyond the Who's Who entries; SKIP-with-reason.
 
 ## Family
 

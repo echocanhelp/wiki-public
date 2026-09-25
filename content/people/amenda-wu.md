@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-25
 ---
 # Amenda Wu
 
@@ -34,7 +34,7 @@ last_reviewed: 2026-09-22
 _No filled family fields on the TAH profile._
 
 ## Role in the Community
-- Featured in the TAH Foundation story corpus: [[works/taiwaneseamericanhistory-org/322-amenda-wu-201503|322. Amenda Wu]] (published 2015-03-08, band B) — a young Taiwanese American musician profiled in the same 2015/03 series as other Bay Area TA artists (violinist Rachel Lin, Cindy Hsu Chung 許弘琪), documenting the second-generation TA classical-music community. The corpus record is bibliographic; no further community facts to absorb.
+- Featured in the TAH Foundation story corpus: [[works/taiwaneseamericanhistory-org/322-amenda-wu-201503|322. Amenda Wu]] (published 2015-03-08, band B) — a young Taiwanese American musician profiled in the same 2015/03 series as other Bay Area TA artists (violinist Rachel Lin, Cindy Hsu Chung 許弘琪), documenting the second-generation TA classical-music community. The corpus record is bibliographic; no further community facts to absorb (re-verified 2026-09-25: fresh grep returns only her own work page and the works index).
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/amenda-wu/)
