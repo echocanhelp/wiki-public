@@ -6,7 +6,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-25
 ---
 # 柯承家
 
@@ -26,7 +26,7 @@ last_reviewed: 2026-09-22
 
 ## Role in the Community
 
-- Listed in the TAH Foundation Who's Who; the corpus record is the bibliographic entry [[works/taiwaneseamericanhistory-org/680-e6-9f-af-e6-89-bf-e5-ae-b6-201510|680. 柯承家 / 2015/10]] (published 2015-10-31, band B — full text stays in the vault). No further absorbable community facts in the corpus beyond this record; deepening awaits the encyclopedia entry's full text.
+- Listed in the TAH Foundation Who's Who; the corpus record is the bibliographic entry [[works/taiwaneseamericanhistory-org/680-e6-9f-af-e6-89-bf-e5-ae-b6-201510|680. 柯承家 / 2015/10]] (published 2015-10-31, band B — full text stays in the vault). No further absorbable community facts in the corpus beyond this record; deepening awaits the encyclopedia entry's full text. Corpus re-checked 2026-09-25 (ZH grep of works/ + articles/): same single hit — SKIP: nothing absorbable.
 
 ## Family
 
