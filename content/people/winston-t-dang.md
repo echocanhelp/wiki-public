@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # Winston T. Dang (陳重信)
 
@@ -58,3 +58,5 @@ _No filled family fields on the TAH profile._
 2026-09-23 re-grep (deepen-x 09221200-16): fresh ZH+EN corpus grep returned only the records already linked on this page — verified saturated, nothing new absorbable, no conflicts.
 
 2026-09-24 re-grep (deepen-x 09230600-31): fresh ZH+EN corpus grep (陳重信 / Winston T. Dang) returned only the records already linked on this page (349-our-journeys, ourjourneys254, publications1056, 661 bio) — verified saturated, nothing new absorbable, no conflicts.
+
+2026-09-25 re-grep (deepen-x 09240600-31): fresh ZH+EN corpus grep (陳重信 / Winston T. Dang) returned only the records already linked (publications1056, 349-our-journeys, ourjourneys254, 661 bio) — verified saturated, nothing new absorbable, no conflicts.

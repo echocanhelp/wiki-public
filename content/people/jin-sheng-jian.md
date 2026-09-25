@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # Jin-Sheng Jian (簡金生)
 
@@ -54,3 +54,5 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+_Corpus re-scan (slice 09240600-31, 2026-09-25): fresh ZH+EN grep returns the same six work hits (#81, #234, #59, #272, #378, Who's Who #2229); all facts already absorbed — no new dates, roles, or orgs; no conflicts. SKIP-content._

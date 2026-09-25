@@ -6,7 +6,7 @@ tags:
   - Taiwanese-American
   - Taiwan-Center-group-member
 verification_status: published
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # Greater Los Angeles Hotel/Motel Association
 
@@ -40,3 +40,4 @@ Corpus re-check 2026-09-23 (deepen-x slice 09221200-17): fresh grep for 大洛�
 - [[organizations/taiwan-center||Taiwan Center]]
 - [[sources/taiwancenter-org||taiwancenter.org]]
 - 2026-09-24 (deepen-x slice 09230600-26): fresh ZH+EN re-grep of works/+articles/ — hit-set identical to material already absorbed above. SKIP-content: verified-saturated; HOLDs unchanged.
+- 2026-09-25 (deepen-x slice 09240600-31): fresh ZH+EN re-grep of works/+articles/ — hit-set identical (innkeepers-association-la, index, both WHA 聯合聲明 copies). SKIP-content: verified-saturated; HOLD stands.
