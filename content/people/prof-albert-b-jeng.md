@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # Prof. Albert B. Jeng (鄭博仁教授)
 
@@ -35,7 +35,7 @@ Prof. Albert B. Jeng 鄭博仁教授 – History of Taiwanese American (T.A. Arc
 - Co-editor (主編), with 陳瑞超 and 陳宏炫, of 《灣區台灣基督教會設教十五週年紀念特刊》 (1990). This festschrift is preserved in our corpus as a founding source for Bay Area Formosan church history — see [[works/taiwaneseamericanhistory-org/our-journeys-350|Our Journeys 350: 灣區台灣教會的設立與擴展]].
 - Invited lecturer, 「智能社會與你」 at the 長青教室 of ITPC Irvine 台灣基督長老教會 (posted 2018-09-29, 攝錄 Peter Yang) — recorded in [[articles/taiwanjustice-net/2024/20240523001759_root_23e163f71d3f2ba5|台加風 TJJ 檔案]].
 - Own TAH encyclopedia record: [[works/taiwaneseamericanhistory-org/whos-who-2156-albert-b-jeng|TAH #2156 — Prof. Albert B. Jeng 鄭博仁教授]].
-- Corpus re-grep 2026-09-19, 2026-09-21 (slice 09201500-23), 2026-09-22 (slice 09211500-29), 2026-09-23 (slice 09221000-26) and 2026-09-24 (slice 09230800-31): re-grep of content/works + content/articles hits only the pages linked above (our-journeys-350 festschrift credit, own record whos-who-2156, TJJ ITPC Irvine lecture posting) plus works/index — the festschrift editor credit and the 2018-09-29 「智能社會與你」 lecture posting were both confirmed verbatim in the corpus text this run; no new unabsorbed corpus facts; verified-saturated. SKIP.
+- Corpus re-grep 2026-09-19, 2026-09-21 (slice 09201500-23), 2026-09-22 (slice 09211500-29), 2026-09-23 (slice 09221000-26), 2026-09-24 (slice 09230800-31) and 2026-09-25 (slice 09240800-30): re-grep of content/works + content/articles hits only the pages linked above (our-journeys-350 festschrift credit, own record whos-who-2156, TJJ ITPC Irvine lecture posting) plus works/index — the festschrift editor credit and the 2018-09-29 「智能社會與你」 lecture posting were both confirmed verbatim in the corpus text this run; no new unabsorbed corpus facts; verified-saturated. SKIP.
 
 ## Family
 
