@@ -57,3 +57,4 @@ last_reviewed: 2026-09-25
 <!-- deepen-x slice 09221000-29 (2026-09-23): re-verified — fresh ZH+EN grep returns only own TAH #317/#694 records + works index; no third-party memoir mentions. SKIP. -->
 
 <!-- deepen-x slice 09230900-19 (2026-09-24): re-verified — fresh grep returns only own TAH #317/#694 records; no third-party mentions. SKIP. -->
+<!-- deepen-x slice 09250317-20: re-verify 2026-09-25 — fresh ZH+EN grep (works+articles): identical hit set to prior slices, all already absorbed. Verified saturated; SKIP-no-new-facts. -->
