@@ -33,7 +33,7 @@ last_reviewed: 2026-09-25
 ## Role in the Community
 - Held in the Taiwanese American historical record as a TAH Foundation Who's Who entry (TAH #2275): a condensed-matter physicist (Brandeis Ph.D. 1979) with Rockwell International, GTE Lab, and a Texas A&M professorship from 1987.
 - Community archival record: [[works/taiwaneseamericanhistory-org/whos-who-2275-chin-b-su|2275. Dr. Chin B. Su 蘇成彬教授]] (published 2020-06-10), cross-referencing [[organizations/tah-foundation|TAH Foundation]].
-- Corpus record matches the education/employment lines above; no conflicts. Era field remains '--' in the TAH profile.
+- Corpus record matches the education/employment lines above; no conflicts (re-grepped 2026-09-25, slice 09231400-8: hit set identical — own encyclopedia page + works index only; nothing new absorbable). Era field remains '--' in the TAH profile.
 
 ## Family
 

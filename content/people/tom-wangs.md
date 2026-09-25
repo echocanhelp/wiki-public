@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-25
 ---
 # Tom Wang’s (王自立)
 
@@ -42,8 +42,8 @@ _No filled family fields on the TAH profile._
 
 ## Role in the Community
 - Profiled in the TAH Foundation Who's Who record [[works/taiwaneseamericanhistory-org/whowho1362|1362. Tom Wang's 王自立 / 2016/11]] (published 2016-11-02).
-- HOLD: name collision — a 空軍司令部公共事務組長 named 王自立 appears in a 2022 taiwanjustice article about the F-16V 戰機墜海 salvage; no link asserted to this entrepreneur (re-verified 2026-09-20 — the article refers to the Air Force public-affairs officer, not this venture partner).
-- Corpus record is bibliographic only (band B); no memoir text available for further absorb (re-verified 2026-09-20 — no corpus mentions beyond entry #1362, the works index, and the unrelated taiwanjustice article).
+- HOLD: name collision — a 空軍司令部公共事務組長 named 王自立 appears in a 2022 taiwanjustice article about the F-16V 戰機墜海 salvage; no link asserted to this entrepreneur (re-verified 2026-09-25 — the article refers to the Air Force public-affairs officer, not this venture partner).
+- Corpus record is bibliographic only (band B); no memoir text available for further absorb (re-verified 2026-09-25 — no corpus mentions beyond entry #1362, the works index, and the unrelated taiwanjustice article).
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
