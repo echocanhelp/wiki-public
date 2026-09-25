@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-25
 ---
 # Y. H. Liang (梁琰華)
 
@@ -32,6 +32,7 @@ last_reviewed: 2026-09-22
 
 ## Role in the Community
 - Name appears only in its own TAH Who's Who profile record [[works/taiwaneseamericanhistory-org/whoswho1471|1471. Y. H. Liang 梁琰華 / 2017/01]] (2017/01). No mentions found in memoirs or articles on fresh 2026-09-21 ZH+EN corpus greps — biographical detail beyond the TAH profile remains unknown (SKIP-with-reason; no absorbable community facts).
+- Re-swept 2026-09-25 (slice 09232232-15): same result — hits limited to own record #1471, index/registry rows, and the spouse cross-link on [[people/james-j-y-hsu|James J. Y. Hsu 許正餘]]'s page (already reflected under Family). Nothing new absorbable.
 
 ## Family
 
