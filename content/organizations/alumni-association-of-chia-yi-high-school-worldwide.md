@@ -35,6 +35,8 @@ HOLD: the page title lists "Worldwide (AACHW)" while corpus records name the SoC
 
 Re-grepped 2026-09-24 (slice 09230500-25): 嘉中校友/Chia Yi High School/AACHW across works+articles returns exactly the already-cited records (sccaa, 年刊 592, 12-62 青年培訓, 鄭炳全 memoir ×2 captures, index) — verified saturated, no new facts, HOLD stands.
 
+Re-grep 2026-09-25 (slice 09240500-19): 嘉中校友/Chia Yi High School/AACHW across works+articles returns the same cited set (sccaa, 年刊 592, 12-62, 鄭炳全 memoir ×2 captures, index) — verified saturated, no new facts, HOLD stands.
+
 ## Source Notes
 
 - **Content priority A:** Name on Taiwan Center group-members page  

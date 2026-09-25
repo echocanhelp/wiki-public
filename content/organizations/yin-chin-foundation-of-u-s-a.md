@@ -29,6 +29,8 @@ The Yin Chin Foundation of U.S.A. is a nonprofit charitable organization registe
 - Re-grep 2026-09-23 (slice 09221000-14): 殷勤/殷清隆/殷敏寬/"Yin Chin" across works+articles returns the same cited records; the only fresh hits (LAGUNA WOODS VILLAGE TAIWANESE CHORALE memoir, 2026 翠屏 essay) use 殷勤 as an ordinary adjective ("殷謙受教"／"殷勤的款待"), not the foundation — no new facts, no conflicts.
 - Re-grep 2026-09-24 (slice 09230500-25): 殷勤文教/殷清隆/殷敏寬/"Yin Chin" across works+articles returns exactly the cited records (awards67, whoswho1437, own directory record, both WHA 聯合聲明 captures, index) — verified saturated, no new facts.
 
+- Re-grep 2026-09-25 (slice 09240500-19): ZH+EN grep of works/+articles/ returns exactly the already-cited record set (awards67, whoswho1437, own directory record, both WHA 聯合聲明 captures, index) — verified saturated, no new facts, no conflicts.
+
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/yin-chin-foundation-of-u-s-a/)
 
