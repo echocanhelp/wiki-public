@@ -30,6 +30,8 @@ last_reviewed: 2026-09-24
 
 ## From the record
 
+- 複核（TJJ-A09230900-1, 2026-09-25）：本 slice 文章 f51d2ebb674cbdd3（English Pages 分類存檔頁 p13, 2024-05-21 快照）正文再驗證——「『人權先生』籲馬認錯 莫對媒體施壓」及〈The Shutdown in Taiwan: Ma Ying-jeou's Peculiar Obsession〉確認見於正文，subject 連結為真，無錯鏈、無虛鏈；2015-06-16 條目（已含該文 wikilink）已在庫 — SKIP，已飽和。
+
 - 複核（TJJ-A09230900-2, 2026-09-25）：slice 文章 c0530664ab4c2948（Taipei Times 社論轉載, 2016-04-11）＋slice 文章 taiwanjustice-net/index（存檔索引頁）正文再驗證——本頁 subject 連結為真實提及，無錯鏈、無虛鏈；對應日期事實條目（含該文 wikilink）已在庫 — SKIP，無新材料。
 
 - 複核（TJJ-A09230800-6, 2026-09-24）：本 slice 文章 adc931e5b99bb0a9（van der Wees 評 2012 大選）正文再驗證——馬英九 2008 承諾出讓黨產未兌現、勝選出於對不穩定之恐懼等記述確認見於正文，subject 連結為真，無錯鏈、無虛鏈；2012-01-29 條目已在庫 — SKIP，無新材料。
