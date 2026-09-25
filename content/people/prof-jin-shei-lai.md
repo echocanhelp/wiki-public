@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-25
 ---
 # Prof. Jin-Shei Lai (賴金雪教授)
 
@@ -36,6 +36,10 @@ Accomplishment
 ## Family
 
 _No filled family fields on the TAH profile._
+
+## Role in the Community
+
+> SKIP re-verified 2026-09-25 (slice 09231200-14): fresh grep 賴金雪/Jin-Shei Lai returned only own record + works index; nothing absorbable.
 
 ## Sources
 - [TAH #1997 encyclopedia: 1997. Prof. Jin-Shei Lai 賴金雪教授](https://taiwaneseamericanhistory.org/whos-who-1997-jin-shei-lai/)

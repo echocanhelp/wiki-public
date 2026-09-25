@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-25
 ---
 # Dr. Vincent Wah-Sang Yeung (楊華生醫師)
 
@@ -38,6 +38,8 @@ _No filled family fields on the TAH profile._
 - Corpus footprint at this pass is limited to the author's own TAH Who's Who record: [[works/taiwaneseamericanhistory-org/whos-who-2008-wah-sang-yeung|2008. Dr. Vincent Wah-Sang Yeung 楊華生醫師]] (published 2018-02-06). No memoirs or organization records naming 楊華生 / Wah-Sang Yeung were found in `content/works` or `content/articles`; the radiation-oncology practice facts above remain sourced solely to the TAH profile.
 
 > Deepen pass 2026-09-22 (slice 09210831-31): SKIP-with-reason — fresh grep (楊華生 / Wah-Sang Yeung / 楊華生醫師) across content/works + content/articles again finds no corpus material beyond the own-record; nothing absorbable.
+
+> Deepen pass 2026-09-25 (slice 09231200-14): SKIP-with-reason — re-grep 楊華生/Wah-Sang Yeung/Vincent Yeung across content/works+content/articles: own record + index only, no new memoir/community material.
 
 ## Sources
 - [TAH #2008 encyclopedia: 2008. Dr. Vincent Wah-Sang Yeung 楊華生醫師](https://taiwaneseamericanhistory.org/whos-who-2008-wah-sang-yeung/)

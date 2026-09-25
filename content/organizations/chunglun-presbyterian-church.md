@@ -10,7 +10,7 @@ tags:
   - PCT
   - Taipei
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-25
 website: https://chunglun.church/
 ---
 # Chunglun Presbyterian Church (中崙教會)
@@ -46,3 +46,5 @@ PCT / 七星中會. Taiwan congregation, not U.S. TPC.
 ## Sources
 1. [PCT：劉炳熹牧師就任七星中會中崙教會](https://www.pct.org.tw/news_church.aspx?strBlockID=B00001&strContentID=C2026052900007&strDesc=Y) (2026-05-29)
 2. [中崙教會：我們的牧師](https://chunglun.church/%E6%88%91%E5%80%91%E7%9A%84%E7%89%A7%E5%B8%AB)
+
+<!-- deepen-x 09231200-17: re-verified 2026-09-25 — fresh grep (ZH+EN) of works/+articles/ returned no new material beyond records already absorbed on this page; SKIP stands. -->

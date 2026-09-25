@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-25
 ---
 # Prof. Shumei S. Sun
 
@@ -44,6 +44,8 @@ _No filled family fields on the TAH profile._
 - Community record held in the corpus as [[works/taiwaneseamericanhistory-org/whos-who-2003-shumei-s-sun|TAH encyclopedia record #2003 (2018-01-31)]] — bibliographic record only; no memoir or community-activity text in the vault names her beyond the press-kit profile.
 - deepen-x recheck 2026-09-19 (slice-09180400-15): 'Shumei' corpus grep matched only her own work record and the works index; SKIP — nothing absorbable.
 - Corpus re-grep 2026-09-21 (slice-09210400-23): 'Shumei'/孫淑眉 matched only record #2003 + works index; SKIP-with-reason, link verified resolving.
+
+- deepen-x recheck 2026-09-25 (slice 09231200-14): grep Shumei/孫淑眉 matched only record #2003 + works index; SKIP-with-reason.
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-shumei-s-sun/)
