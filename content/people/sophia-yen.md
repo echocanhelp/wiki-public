@@ -53,3 +53,4 @@ _No filled family fields on the TAH profile._
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 <!-- deepen-x slice 09231100-5 (2026-09-25): re-verified — fresh ZH+EN grep of works/ + articles/ returns only the records already linked/absorbed above (plus works/index rollup); no new memoir material; no conflicts resolved or added. -->
+<!-- deepen-x slice 09250400-7 (2026-09-25): re-verified — fresh ZH+EN grep of works/ + articles/ returns only whoswho990 + works/index; saturated, nothing absorbable. -->
