@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # San John Huang (黃三榮)
 
@@ -45,7 +45,7 @@ President and Chairman, Formosan Chamber of Commerce, Orange County
 
 ## Role in the Community
 
-- Founding board member of the Taiwanese American Citizens League (台美公民協會): elected to its first 15-member board at the founding convention at the Biltmore Hotel, Los Angeles, 1985-07-13 ([[works/taiwaneseamericanhistory-org/ourjourneys272|TACL 成立回憶（第一屆理事名單）]]) — he also sits on the page for the league ([[organizations/taiwanese-american-citizens-league|TACL]]).
+- Founding board member of the Taiwanese American Citizens League (台美公民協會): elected to its first 15-member board at the founding convention at the Biltmore Hotel, Los Angeles, 1985-07-13 ([[works/taiwaneseamericanhistory-org/ourjourneys272|TACL 成立回憶（第一屆理事名單）]]、英文版 [[works/taiwaneseamericanhistory-org/ourjourneys272-eng|The Growth of TACL (EN)]]) — he also sits on the page for the league ([[organizations/taiwanese-american-citizens-league|TACL]]).
 - Member of the TACL preparation committee under convener 吳澧培, part of the group expanded beyond the original five members ([[works/taiwaneseamericanhistory-org/ourjourneys186|台美公民協會籌備委員會名單]]); the committee held 13 meetings over five months (Feb 10 – Jul 8, 1985) before the founding convention, with members contributing money, labor, and time — English record of the same roster at [[works/taiwaneseamericanhistory-org/ourjourneys186-eng|TACL Preparatory Committee roster (EN)]]; see also [[people/wu-lipei|吳澧培]].
 - Convener of the Taiwan Center Foundation fundraising committee (百万美元募款召集人), writing on the campaign and the Wang family donation that secured the Taiwan Center venue ([[works/taiwaneseamericanhistory-org/ourjourneys29-eng|Thoughts and Hopes for the Taiwan Center Foundation Fundraising Effort]]、中文版 [[works/taiwaneseamericanhistory-org/ourjourneys29|29. 南加州台灣會館開創的史料/黃樹人編輯/2014/09]]): in his own essay he notes twenty years of service in Taiwanese associations, the community's decade-plus discussion of a Taiwan Center, and the two-and-a-half-month soul-searching over the million-dollar goal — difficulty that drove some preparation-committee members to leave while most kept soliciting donations.
 - Early-1980s staff member of the Formosan credit cooperative (合作社) during its final years before the 1981 liquidation vote ([[works/taiwaneseamericanhistory-org/ourjourneys244|合作社結業記]]).
@@ -53,3 +53,5 @@ President and Chairman, Formosan Chamber of Commerce, Orange County
 
 slice 09220800-20 re-grep (2026-09-22): corpus hit set identical to links already absorbed above — no new absorbable facts.
 Re-grep 2026-09-24 (slice 09230317-21): fresh 黃三榮 / San John Huang grep of content/works + content/articles returns the same six records (own TAH profile #1976, ourjourneys29/-eng, ourjourneys244, ourjourneys186/-eng, ourjourneys272) plus an index listing — all already linked above; SKIP, verified-saturated.
+
+Re-grep 2026-09-25 (slice 09240317-18): hit set adds the English edition of the TACL founding memoir, now linked above; all other records (own TAH #1976, ourjourneys29/-eng, 186/-eng, 244, 272) already absorbed. Verified-saturated.

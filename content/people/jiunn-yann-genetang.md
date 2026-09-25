@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # Jiunn-yann Gene Tang (湯俊彥博士)
 
@@ -54,3 +54,4 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- Re-grep 2026-09-25 (slice 09240317-18): hit set identical (our-journeys-378, ourjourneys307, ourjourneys256, private-collections-86, own record 762, works/index) — all absorbed verbatim; SKIP (saturated).
