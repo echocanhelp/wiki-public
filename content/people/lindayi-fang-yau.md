@@ -43,6 +43,8 @@ Beyond the press-kit bio, the corpus documents 劉義芳 as an active institutio
 
 These civic roles (Hakka public-affairs board member, TAA 僑委) sit alongside her TAH-table career as a restaurant owner (中餐館、日本料理店, 1976–2002) — complementary, not conflicting.
 
+Re-grep 2026-09-25 (slice-16): hit set unchanged (#1566 own entry, #290 HAPA-NA roster, #382/#383 2022 回台參訪團, index) — all facts above re-verified against corpus text (理事 roster, 雄三飛彈 photo caption, 海霸王 banquet back row); verified saturated, nothing new absorbable.
+
 
 ## Sources
 - [TAH #1566 encyclopedia: 1566. Linda(Yi-Fang) Yau 劉義芳 /03/2017](https://taiwaneseamericanhistory.org/whos-lindayi-fang-yau/)

@@ -36,6 +36,7 @@ Prof. A-Lien Lu-Chang 呂阿戀教授 – History of Taiwanese American (T.A. Ar
 - **Community leadership:** TAA Baltimore Chapter President (2010), per the TAH profile record [[works/taiwaneseamericanhistory-org/whos-who-1064-a-lien-lu-chang|1064. Prof. A-Lien Lu-Chang 呂阿戀教授 (06/2016)]].
 - Directory entry in the corpus: [[works/taiwaneseamericanhistory-org/113-prof-a-lien-lu-chang|TAH #113 profile]].
 - Re-grep 2026-09-24 (slice 09230317-30): hit set unchanged — corpus hits remain #113, #1064 and the husband's memoir mystories441, all already linked above; verified saturated, nothing new absorbable.
+- Re-grep 2026-09-25 (slice-16): hit set unchanged (#113, #1064, mystories441, index), all already linked above — verified saturated; SKIP-deepen.
 
 ## Family
 

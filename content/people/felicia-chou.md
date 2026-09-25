@@ -40,6 +40,7 @@ Public Affairs Officer
 - HOLD: conflict — [[works/taiwaneseamericanhistory-org/whos-who-1823-felicia-chou|1823. Felicia Chou 許蕙茹]] (2017) is linked to this page but carries a different hanzi name (許蕙茹 vs 周馥亞), likely a different person mislinked; and [[works/taiwaneseamericanhistory-org/whoswho1438|1438. Felicia Chou]] (2016-12) has no hanzi, so identity is unconfirmed. Do not auto-merge.
 - Corpus re-scan 2026-09-22 (deepen-x slices 09210800-24, 09220600-18): works/articles hits are only #168, #1823, #1438 above plus the works index — no memoir text; nothing further absorbable (SKIP-deepen).
 - Corpus re-scan 2026-09-24 (slice-31): fresh grep returns the same 4 files (#168 own entry, mislinked #1823 許蕙茹, unconfirmed #1438, index) — verified-saturated; HOLD on the #1823 hanzi conflict stands.
+- Corpus re-scan 2026-09-25 (slice-16): fresh ZH+EN grep returns the identical 4-file hit set — verified saturated; SKIP-deepen, HOLD stands.
 
 ## Family
 
