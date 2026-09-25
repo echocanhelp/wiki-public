@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # Taiwanese American Student Association at UC San Diego
 
@@ -36,3 +36,4 @@ The Taiwanese American Student Association (TASA) at the University of Californi
 Corpus re-check 2026-09-22 (deepen-x slice 09210700-26): fresh grep found a direct UCSD TASA record (Mr. & Ms. Formosa Culture Pageant, 2012) — absorbed above; other corpus TASA hits remain the Taiwanese-America Seniors Association of Southern California and ITASA (different organizations).
 Corpus re-check 2026-09-22 (deepen-x slice 09220400-5): fresh grep surfaced the band-A Ho Chie interview (Girl Power…, 2010-03-19) with first-person UCSD TASA growth testimony — absorbed above.
 Corpus re-scan 2026-09-23 (deepen-x slice 09221200-2): fresh ZH+EN grep — hit set unchanged (all hits already absorbed in prior passes); verified-saturated, nothing new absorbable.
+Corpus re-scan 2026-09-25 (deepen-x slice 09240600-2): fresh grep surfaced only TASA/ITASA-wide records (Our Journeys 157/356 on the ITASA *Our Treasury* book and Eastern conference; the OFTaiwan-award and TASA-charter-organizing articles on taiwaneseamerican.org) — no UCSD-chapter-specific facts; SKIP, page remains saturated.

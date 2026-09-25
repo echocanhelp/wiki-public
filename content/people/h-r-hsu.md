@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # H. R. Hsu (許惠茹)
 
@@ -42,6 +42,7 @@ HOLD: conflict — TAH press-kit profile places H. R. Hsu in Georgia (TAA Atlant
 HOLD: identity disambiguation — the romanization "Ho Rui Hsu" in the TAA/TACL memoirs matches a *different* TAH Who's Who entry, [[works/taiwaneseamericanhistory-org/whoswho1071|TAH #1072 Ho Rui Hsu 許和瑞]] (2016/06), not this page's 許惠茹 (TAH #1931, 2017-11). The 1970 letter, first TAA vice-presidency, TAA presidency, and TACL preparatory-committee roles attributed above may belong to 許和瑞 rather than 許惠茹; the two TAH profiles have not been merged and the memoir attributions here rest on the shared romanization only. Additionally [[works/taiwaneseamericanhistory-org/ourjourneys81-eng|Our Journeys 81 (UFAI memoir)]] lists "Powen Wang, Ho Rui Hsu, and Fu Yuan Hsu" as active UFAI members — same-romanization attribution, subject to the same hold. The same memoir records a UFAI charter amendment that abolished the Chairman of the Central Committee and created a six-member decision-making committee whose named members were Edward Chen, Michael S. K. Chen, Tien-ming Lu, and Ho Rui Hsu plus the two Vice-chairmen — if the romanization match holds, "Ho Rui Hsu" sat on UFAI's top decision body, not merely its general activities.
 
 Corpus re-check 2026-09-24 (slice 09230600-2): fresh ZH+EN grep of works+articles returned a hit set identical to the records already linked above (memoirs #76/#81/#272, Who's Who #1931 and #1071); no new absorbable material; both HOLDs stand.
+Corpus re-check 2026-09-25 (slice 09240600-2): fresh ZH+EN grep (許惠茹 / H. R. Hsu / Ho Rui Hsu) returned the same closed hit set (ourjourneys76-eng, ourjourneys81-eng, ourjourneys272-eng, whos-who-1931, whoswho1071); SKIP — no new material, both HOLDs stand.
 
 ## Family
 

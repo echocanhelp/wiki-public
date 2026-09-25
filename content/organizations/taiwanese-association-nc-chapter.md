@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # Taiwanese Association – NC Chapter (北卡)
 
@@ -37,6 +37,8 @@ Absorbed from the chapter's 50-year retrospective by 謝金朱 — [[works/taiwa
 - 2016-11-15 — the chapter's own newsletter has its corpus record [[works/taiwaneseamericanhistory-org/taiwanese-news-by-taa-nc|Taiwanese News 台訊 by TAA-NC 北卡台灣同鄉會]].
 - 2018-01-18 — chapter introduction record [[works/taiwaneseamericanhistory-org/project-3-39-eng|39. 北卡台灣同鄕會簡介 / Brief Introduction to TAA-NC]] (ZH edition: [[works/taiwaneseamericanhistory-org/project-3-39|39. 北卡台灣同鄕會簡介]]).
 - 2021-01 — chapter participation in the 2020 national TAA New Year's Eve activity: [[works/taiwaneseamericanhistory-org/our-journeys-365|365. 花絮-北卡台灣同鄉會參加 2020全美台灣同鄉會跨年活動/01/2021]].
+- 1982-10 — the Triangle poster incident has its own memoir account: 林文義《北卡海報事件》 records that 郭倍宏 — newly arrived for an engineering master's at UNC and covertly listed by KMT campus agents for preferring to gather and "朴豆" in Taiwanese — was exposed as a surveillance target; 30+ Taiwanese students stayed up overnight at a local 同鄉's home and pasted 200 English posters reading "國民黨特務滾出校園！" across the UNC campus before dawn: [[works/taiwaneseamericanhistory-org/ourjourneys237|237. 北卡海報事件 / 林文義 /08/2016]]. The same wave is echoed in a TAA annual-meeting reflection noting that neither the 楊煥西 case nor the NC-State campus anti-agent-poster incident deterred movement attendance: [[works/taiwaneseamericanhistory-org/ourjourneys207|207. 年會感言 / 許台俊 / 03/2016]].
+- 2015-10-20 — chapter community-media record 「北卡台灣之音」 [[works/taiwaneseamericanhistory-org/41-e5-8c-97-e5-8d-a1-e5-8f-b0-e7-81-a3-e4-b9-8b-e9-9f-b3|北卡台灣之音 (2015)]]; the chapter's student-press lineage (《台灣學生》, first published by early member 李應元) has its own corpus record [[works/taiwaneseamericanhistory-org/taiwanese-collegian-newspaper|Taiwanese Collegian 台灣學生報 by 北卡台灣同學會]].
 - 2022-06 — 50-year retrospective by 謝金朱 ([[works/taiwaneseamericanhistory-org/our-journeys-381|our-journeys-381]]), absorbed above.
 - 2026-09-24 — corpus re-check (slice 09230600-2): fresh ZH+EN grep of works+articles returned a hit set identical to the records already linked above; no new absorbable material.
 
