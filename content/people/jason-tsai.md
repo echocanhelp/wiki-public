@@ -49,3 +49,4 @@ last_reviewed: 2026-09-25
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 <!-- deepen-x slice 09231100-3 (2026-09-25): verified-saturated — corpus re-grep returns only own TAH record + already-linked works pages; nothing new absorbable. -->
+<!-- deepen-x slice 09250400-26 (2026-09-25): verified-saturated — fresh ZH+EN grep returns only whoswho1608, index rows, and the two already-linked tjol org works; nothing new absorbable. -->

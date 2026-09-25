@@ -24,6 +24,8 @@ The Princeton Association of Taiwanese Students (PATS; 普林斯頓台灣同學�
 - HOLD: conflict — PATS (普林斯頓台灣同學會) vs PTASA vs ITASA/Princeton listed in Our Journeys #356; possible aliases or successive orgs, never auto-merged.
 - 2026-09-22 / 2026-09-23 re-checks: fresh greps for PATS / 普林斯頓台灣同學會 / Princeton Association of Taiwanese Students across content/works + content/articles return zero hits — HOLD stands, SKIP (no absorbable corpus material for this exact org name).
 
+> Re-verified 2026-09-25 (slice 09250400-26): fresh ZH+EN grep of works/articles returns zero hits — SKIP, no absorbable corpus material; HOLD vs PTASA/ITASA stands.
+
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/princeton-association-of-taiwanese-students/)
 
