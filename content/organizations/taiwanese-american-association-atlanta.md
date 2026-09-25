@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # Taiwanese American Association Atlanta (亞特蘭大)
 
@@ -31,6 +31,8 @@ Corpus records showing the chapter's activity:
 - Re-grep 2026-09-23 (slice 09221000-11): fresh grep (亞特蘭大台灣同鄉會 / "Taiwanese American Association Atlanta") across works/ + articles/ returns exactly the records already cited above — verified saturated, no new facts.
 
 - Re-grep 2026-09-24 (slice 09230500-22): fresh grep (亞特蘭大台灣同鄉會 / "Taiwanese American Association Atlanta" / Atlanta Taiwanese Association) across works/ + articles/ returns exactly the records already cited above — verified saturated, no new facts.
+
+- *Re-grep 2026-09-25 (slice 09240400-1): fresh grep (亞特蘭大台灣同鄉會／Taiwanese American Association Atlanta／Atlanta Taiwanese Association) across works/ + articles/ returns exactly the records already cited above (e-newsletter, 1330 directory, scholarship award, encyclopedia profile, cultural festival, index) — verified saturated, no new facts.*
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-american-association-atlanta/)

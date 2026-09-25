@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # Dr. Shyu-Tu Lee (李學圖博士)
 
@@ -49,6 +49,7 @@ Engineer; Manager; Administrator, Engineer & Scientific Data Center; Assistant C
 - HOLD: TAH directory lists Geography "Taipei, Taiwan" while the same record's Education/Employment table places his entire career in the US (Michigan Dept. of Transportation 1970–1997, Clark County WA 1997–2001) — directory field vs career record, not merged.
 - His TAH encyclopedia profile: [[works/taiwaneseamericanhistory-org/ota-281|TAH #281 Dr. Shyu-Tu Lee 李學圖博士]].
 - His TAH Who's Who bibliographic record #170「Shyu-Tu Lee 李學圖」(published 2014-12-27): [[works/taiwaneseamericanhistory-org/whos-shyu-tu-lee|TAH #170 Shyu-Tu Lee 李學圖 / 2014-12-27]] — the person page previously linked only the #281 encyclopedia profile.
+- *Re-grep 2026-09-25 (slice 09240400-1): fresh ZH+EN grep (李學圖／Shyu-Tu Lee) across works/ + articles/ returns ourjourneys265, ourjourneys352, ota-281, TAH #25, #175, #305 — every hit already linked above; verified saturated, no new absorbable facts.*
 
 ## Sources
 - [TAH #281 encyclopedia: 281. Dr. Shyu-Tu Lee 李學圖博士](https://taiwaneseamericanhistory.org/ota-281/)
