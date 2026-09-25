@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # Y. C. Hsu (許耀慶)
 
@@ -44,6 +44,7 @@ _No filled family fields on the TAH profile._
 > Corpus re-verify (deepen-x 09220400-10): fresh grep of works/ + articles/ for 許耀慶 / Y. C. Hsu returned only records already cited above (ourjourneys186/-eng, ourjourneys272/-eng, whoswho1244, whoswho1560 collision note). SKIP-deepen; nothing new absorbable.
 > Corpus re-verify (deepen-x 09221200-13, 2026-09-23): fresh grep again returns only ourjourneys186-eng, ourjourneys272-eng, whoswho1244, whoswho1560 and the works index. Both HOLDs (1982 vs 1981 founding date; 許英智 initials collision) stand. SKIP-deepen.
 > Corpus re-verify (deepen-x 09230600-23, 2026-09-24): fresh grep again returns only ourjourneys186-eng, ourjourneys272-eng, whoswho1244, whoswho1560 and the works index. Both HOLDs stand. SKIP-deepen.
+> Corpus re-verify (deepen-x 09240600-29, 2026-09-25): fresh ZH+EN grep of works/ + articles/ returned only records already cited above (ourjourneys186/-eng, ourjourneys272/-eng, whoswho1244, whoswho1560 collision note, works index). Both HOLDs (1982 vs 1981 founding date; 許英智 initials collision) stand. SKIP-deepen; nothing new absorbable.
 
 ## Sources
 - [TAH #1244 encyclopedia: 1244. Y. C. Hsu 許耀慶 / 2016/08](https://taiwaneseamericanhistory.org/whoswho1244/)

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # Frank T. Shu (許子津)
 
@@ -35,6 +35,7 @@ last_reviewed: 2026-09-24
 - Disambiguation: distinct from [[works/taiwaneseamericanhistory-org/whos-who-1701-frank-hsu|TAH #1701 Prof. Frank Hsu 許德標]].
 - 2026-09-22 re-grep (許子津 / Frank T. Shu / Frank Hsu, slice 09220400-5): same hit set (ff335, ourjourneys255, ourjourneys282, whos-frank-t-shu, whos-who-1701) — all already absorbed above; verified-saturated.
 - 2026-09-23 re-grep (slice 09221200-7): same hit set plus works/index.md listing rows — no new corpus records; verified-saturated.
+- 2026-09-25 re-grep (slice 09240600-27): same hit set (ff335, ourjourneys255, ourjourneys282, whos-frank-t-shu, whos-who-1701, works index) plus one new corroboration — he signed the 2021 community response to the Pew Research Asian-American reports, 「We made it count. Now tell our stories.」 (2021-05-01), listed as Frank Hsu, Taiwanese Hakka Association of Northen California: [[works/taiwaneseamerican-org/pew-research-center-taiwanese-american-statement|Pew response statement]]. HOLD: this Northern-California Hakka-association affiliation vs the Chicago Formosan-Club founding-president and Mobil Oil record on this page — plausible same person later relocated to California (Who's Who entry 01/2016), but no corpus document links the two identities; not auto-merged.
 
 ## Family
 

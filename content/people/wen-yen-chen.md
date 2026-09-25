@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # Wen Yen Chen (陳文彥教授)
 
@@ -37,7 +37,7 @@ last_reviewed: 2026-09-24
 - FAPA 同工昆布劳回顾廿七年经历的九位 FAPA 会长中包括陈文彥，评会长任内牺牲周末假期为台湾奔波。见 [[works/taiwaneseamericanhistory-org/ourjourneys228|Our Journeys #228]]。
 - 另有个人回忆录条目：[[works/taiwaneseamericanhistory-org/372-e9-99-b3-e6-96-87-e5-bd-a5-201504|372. Wen Yen Chen 陳文彥 /2015/04]]。
 
-_Corpus re-scan 2026-09-21: same hits (#47, #235, #123/eng, #228, memoir #372) already absorbed; #47 confirms 陳文彥 was NATPA 第九屆會長 succeeded by 蔡嘉寅 (第十屆), and names the 1989 华府筹备会 attendees 賴義雄、蔡嘉寅、胡勝正、吳漢南、賴淳彥、李賢淇、林靜竹 — context already reflected above. Re-grep 2026-09-22: no new works/articles hits; #123 (EN) corroborates the 1997 FAPA-president speech at the Minnesota Ethnic Celebration already noted above. Re-grep 2026-09-22 (slice 22): the only ZH-name-adjacent hits are TJJ articles naming 陳文**賢** (民視台灣學堂/台灣新世紀討論會評論人) — HOLD: different person (賢 vs 彥), not merged. Re-grep 2026-09-23 (slice 09221200-5): hit set unchanged (#47, #235, #123/eng, #228, memoir #372) — page verified saturated, no new corpus facts. Re-grep 2026-09-24 (slice 09230600-16): hit set unchanged — page verified saturated._
+_Corpus re-scan 2026-09-21: same hits (#47, #235, #123/eng, #228, memoir #372) already absorbed; #47 confirms 陳文彥 was NATPA 第九屆會長 succeeded by 蔡嘉寅 (第十屆), and names the 1989 华府筹备会 attendees 賴義雄、蔡嘉寅、胡勝正、吳漢南、賴淳彥、李賢淇、林靜竹 — context already reflected above. Re-grep 2026-09-22: no new works/articles hits; #123 (EN) corroborates the 1997 FAPA-president speech at the Minnesota Ethnic Celebration already noted above. Re-grep 2026-09-22 (slice 22): the only ZH-name-adjacent hits are TJJ articles naming 陳文**賢** (民視台灣學堂/台灣新世紀討論會評論人) — HOLD: different person (賢 vs 彥), not merged. Re-grep 2026-09-23 (slice 09221200-5): hit set unchanged (#47, #235, #123/eng, #228, memoir #372) — page verified saturated, no new corpus facts. Re-grep 2026-09-24 (slice 09230600-16): hit set unchanged — page verified saturated. Re-grep 2026-09-25 (DEEPEN-X slice 09240600-26): hit set unchanged (#47, #235, #123/eng, #228, memoir #372); body-text contexts re-read (NATPA 第九屆會長與第十屆副手回憶, 1997 FAPA 會長演讲, 1998 普查作證引 8萬/19.3萬數據, 昆布勞九會長回顧, 1989 华府籌備會八人名單) — all already absorbed above. Verified saturated, nothing new absorbable._
 
 ## Family
 

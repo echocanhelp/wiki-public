@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # Dean Liang (梁基典)
 
@@ -45,6 +45,7 @@ Corpus re-grep 2026-09-23 (slice 09221300-9): fresh grep 梁基典/Dean Liang �
 Corpus re-grep 2026-09-21 (slice 09210051-10): the only works/articles hits — his own TAH entry [[works/taiwaneseamericanhistory-org/whoswho2206-dean-liang|TAH #2206]], memoir [[works/taiwaneseamericanhistory-org/mystories16|mystories16]], the 通訊錄 donation recollection [[works/taiwaneseamericanhistory-org/ourjourneys58|ourjourneys58]], and the 2018 TJJ co-sign letter — are all already linked above; no new community facts to absorb. No conflicts to hold. Re-grepped 2026-09-22 (slice 09212352-29): same hit set (TAH #2206, mystories16, ourjourneys58, TJJ 2018 letter, index) — verified-saturated, SKIP-with-reason.
 
 - Corpus re-grep 2026-09-24 (slice 09230700-17): fresh grep 梁基典/Dean Liang returned only own [[works/taiwaneseamericanhistory-org/whoswho2206-dean-liang|TAH #2206]] + works index (mystories16, ourjourneys58, TJJ letter already linked above); no new community facts. Verified-saturated — SKIP-with-reason.
+- Corpus re-grep 2026-09-25 (slice 09240600-29): fresh grep 梁基典/Dean Liang returned the identical hit set (own TAH #2206, mystories16, ourjourneys58, TJJ 2018 co-sign letter, works index) — all already linked above; no new community facts, no conflicts. Verified-saturated — SKIP-with-reason.
 
 ## Sources
 - [TAH #2206 encyclopedia: 2206. Dean Liang 梁基典 / 06/2019](https://taiwaneseamericanhistory.org/whoswho2206-dean-liang/)

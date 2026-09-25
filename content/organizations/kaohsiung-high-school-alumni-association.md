@@ -6,7 +6,7 @@ tags:
   - Taiwanese-American
   - Taiwan-Center-group-member
 verification_status: published
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # Kaohsiung High School Alumni Association (KHSAA)
 
@@ -29,6 +29,7 @@ last_reviewed: 2026-09-24
 - 2026-09-22 re-grep ×2 (高雄中學校友 / 雄中雄女 / KHSAA, slices 09210700 and 09220400-5): same hit set (us-kshs, sc-kh, enewsletters-khsaa, index, 2021 WHA statement + 2025 repost) — nothing new absorbable; verified-saturated.
 - 2026-09-23 re-grep (deepen-x 09221200-15): fresh ZH+EN grep (高雄中學校友 / 雄中雄女 / KHSAA) returned the identical hit set (us-kshs, sc-kh, enewsletters-khsaa, index, 2021 WHA statement + 2025 repost) — all already linked above; no new facts, no new conflicts.
 - 2026-09-24 re-grep (deepen-x 09230600-23): fresh ZH+EN grep (高雄中學校友 / 雄中雄女 / KHSAA) again returned the identical hit set — all already linked; no new facts, no new conflicts.
+- 2026-09-25 re-grep (deepen-x 09240600-29): fresh ZH+EN grep (高雄中學校友 / 雄中雄女 / KHSAA) again returned the identical hit set (us-kshs, sc-kh, enewsletters-khsaa, index, 2021 WHA statement + 2025 repost) — all already linked above; no new facts, no new conflicts. Verified-saturated.
 
 ## Source Notes
 

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-25
 ---
 # Dr. Wen Y. Chen (陳文淵醫師)
 
@@ -44,6 +44,7 @@ _No filled family fields on the TAH profile._
 
 - 2026-09-23 re-check (slice 09221100-31): corpus hits remain the own record plus machine-generated subject-list auto-links (Our Journeys 19/74/313-eng, milestones 22, 1981 獎學金 record) with no body-text mention of 陳文淵; the 2018 台大校友抗議 record stays the only body-text hit. SKIP-content: verified-saturated; 陳文成 name-collision HOLD unchanged.
 - 2026-09-24 re-check (slice 09230600-22): ZH-body grep (陳文淵) returns only the own record, index, and the 2018 台大校友抗議 article already wikilinked above; EN-grep hits are subject-list auto-links only. Saturated; 陳文成 HOLD unchanged.
+- 2026-09-25 re-check (DEEPEN-X slice 09240600-26): fresh ZH+EN grep (陳文淵 / Wen Y. Chen) of works/+articles/ returned the identical hit set (own record whos-who-2093; Our Journeys 19/74-eng/313-eng subject-list auto-links; milestones 22; 1981 獎學金 record) — ZH-body grep inside those files finds no mention of 陳文淵; the 2018 台大校友抗議 article (陳文淵（植病）) stays the sole body-text hit, already wikilinked. SKIP-content: verified-saturated; 陳文成 name-collision HOLD unchanged.
 
 ## Sources
 - [TAH #2093 encyclopedia: 2093. Dr. Wen Y. Chen 陳文淵醫師](https://taiwaneseamericanhistory.org/whos-who-2093-wen-y-chen/)
