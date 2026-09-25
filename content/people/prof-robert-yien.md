@@ -51,3 +51,4 @@ Accomplishment
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 <!-- deepen-x 09230400-32: re-checked 2026-09-24 — fresh grep works+articles: same self-record + works/index hits only; no memoir/article mentions. SKIP stands. -->
+<!-- deepen-x 09240500-31: re-checked 2026-09-25 — fresh grep (顏善邦 / Robert Yien) works+articles: hits remain only [[works/taiwaneseamericanhistory-org/whos-who-2120-robert-yien|TAH #2120 self-record]] + works/index. SKIP-with-reason stands: no memoir/community-body facts beyond the TAH press-kit record. -->
