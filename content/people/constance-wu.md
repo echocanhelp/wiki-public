@@ -60,3 +60,4 @@ Corpus material is bibliographic only (full text stays in the vault); no communi
 - Slice 09220500-25 re-verify: fresh grep returned only OTA #240, Who's Who #2183, and index rows — verified-saturated, SKIP-deepen.
 - Slice 09221400-14 re-verify: fresh grep returned only OTA #240, Who's Who #2183, and index rows — verified-saturated, SKIP-deepen.
 - Slice 09230900-9 re-verify (2026-09-24): fresh grep returned only OTA #240, Who's Who #2183, and index rows — verified-saturated, SKIP-deepen.
+- Slice 09240900-9 re-verify (2026-09-25): fresh grep 吳恬敏/Constance Wu of works+articles returned only OTA #240, Who's Who #2183, and works index — verified-saturated, SKIP-deepen.

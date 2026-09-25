@@ -45,6 +45,7 @@ _No filled family fields on the TAH profile._
 - Re-verified 2026-09-22 (deepen-x slice 09211507-2): re-grep 林威伸/Wei-Shen W. Lin — hit set unchanged (own record whos-who-1913 + works index only). SKIP-for-deepening: nothing community-side absorbable.
 - Re-verified 2026-09-23 (deepen-x slice 09221000-27): fresh grep 林威伸/Wei-Shen — hit set unchanged (own record + index only). SKIP-for-deepening: saturated.
 - Re-verified 2026-09-24 (deepen-x slice 09230900-14): fresh grep 林威伸/Wei-Shen — hit set unchanged (own record whos-who-1913 + works index only). SKIP-for-deepening: saturated.
+- Re-verified 2026-09-25 (deepen-x slice 09240900-9): fresh grep 林威伸/Wei-Shen — hit set unchanged (own record whos-who-1913 + works index only). SKIP-for-deepening: saturated.
 
 ## Sources
 - [TAH #1913 encyclopedia: 1913. Dr. Wei-Shen W. Lin 林威伸醫師](https://taiwaneseamericanhistory.org/whos-who-1913-wei-shen-lin/)
