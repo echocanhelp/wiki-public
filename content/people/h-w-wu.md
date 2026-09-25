@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-25
 ---
 # H. W. Wu (吳宏為)
 
@@ -39,6 +39,7 @@ last_reviewed: 2026-09-21
 ## Work log
 - SKIP (deepen-x slice 09172104-4, 2026-09-18): corpus grep returned only his own TAH press-kit entry ([[works/taiwaneseamericanhistory-org/whoswho1419|TAH #1419]]) and the works index; apparent hits in ourjourneys292/234 are false positives (substring of 蘇正宏「為」). No memoir/community material to absorb; not padded.
 - SKIP (deepen-x slice 09202214-32, 2026-09-21): re-grepped 吳宏為 / H. W. Wu against content/works + content/articles — hit set unchanged (own record whoswho1419 + index only). No new corpus material; page already saturated.
+- SKIP (deepen-x slice 09231500-13, 2026-09-25): fresh ZH+EN greps again returned only [[works/taiwaneseamericanhistory-org/whoswho1419|TAH #1419]] + the works index. No memoir/community material; no padding.
 
 ## Sources
 - [TAH #1419 encyclopedia: 1419. H. W. Wu 吳宏為 / 2016/12](https://taiwaneseamericanhistory.org/whoswho1419/)

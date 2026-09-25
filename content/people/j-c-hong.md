@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-25
 ---
 # J. C. Hong (洪濬正)
 
@@ -40,7 +40,7 @@ last_reviewed: 2026-09-22
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/j-c-hong/)
 
 ## Corpus note (deepen-x 09171100-25)
-SKIP: only corpus hit is the bibliographic stub of his own Who's Who entry ([[works/taiwaneseamericanhistory-org/whos-who-1777-j-c-hong|1777. J. C. Hong 洪濬正]], published 2017-07-24) — no additional community/corpus facts to absorb. Re-verified 2026-09-22 (slice 09210906-18): fresh ZH+EN greps of works/ + articles/ still return only the index stub of this record.
+SKIP: only corpus hit is the bibliographic stub of his own Who's Who entry ([[works/taiwaneseamericanhistory-org/whos-who-1777-j-c-hong|1777. J. C. Hong 洪濬正]], published 2017-07-24) — no additional community/corpus facts to absorb. Re-verified 2026-09-22 (slice 09210906-18) and 2026-09-25 (slice 09231500-13): fresh ZH+EN greps of works/ + articles/ still return only the index stub of this record.
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

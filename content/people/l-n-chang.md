@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-25
 ---
 # L. N. Chang (張麗娜)
 
@@ -29,7 +29,7 @@ last_reviewed: 2026-09-22
 <!-- tah-tables:end -->
 
 ## Role in the Community
-- Corpus scan 2026-09-22 (re-verified; first sweep 2026-09-21): the only corpus record naming her is her own TAH directory entry ([[works/taiwaneseamericanhistory-org/whos-ln-chang|TAH #1941]], a bibliographic record already cited below). No memoir or community-history material found — nothing absorbable.
+- Corpus scan 2026-09-25 (re-verified; earlier sweeps 2026-09-21/22): the only corpus record naming her is her own TAH directory entry ([[works/taiwaneseamericanhistory-org/whos-ln-chang|TAH #1941]], a bibliographic record already cited below). No memoir or community-history material found — nothing absorbable.
 
 ## Family
 

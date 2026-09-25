@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-25
 ---
 # Dr. Kent Wu (吳英資博士)
 
@@ -49,3 +49,4 @@ last_reviewed: 2026-09-21
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- Re-verified 2026-09-25: fresh ZH+EN grep returns only own TAH record and works index; no memoir or movement-activity material. SKIP stands.

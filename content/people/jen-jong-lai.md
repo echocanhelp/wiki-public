@@ -33,6 +33,7 @@ last_reviewed: 2026-09-25
 ## Role in the Community
 
 - Community record held in the corpus as TAH encyclopedia entry #349, published 2015-03-24: [[works/taiwaneseamericanhistory-org/349-jen-jong-lai-e8-b3-b4-e6-8c-af-e6-a6-ae201503|349. Jen-Jong Lai 賴振榮/2015/03]]. Corpus grep found no memoir/feature mentions beyond this bibliographic record — no further community facts absorbable yet.
+- Deepen pass 2026-09-25: SKIP — grep re-confirmed: sole hits are own entry and index listings; no new community facts absorbable.
 
 ## Family
 
