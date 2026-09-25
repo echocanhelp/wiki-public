@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # Hsi-Min Lin (林希明)
 
@@ -62,3 +62,5 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+- 2026-09-25 — deepen-x 09240400-4 re-verify: fresh ZH+EN re-grep hit set unchanged (TJJ column + Wayback copy, TAH #1314, index). SKIP: page saturated.

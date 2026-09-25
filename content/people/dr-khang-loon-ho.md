@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # Dr. Khang-Loon Ho (何康隆醫師)
 
@@ -49,3 +49,4 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- Corpus re-grep 2026-09-25 (slice 09240400-4): fresh ZH+EN hits identical to the absorbed set (TAH #1960, 我們的旅程 #269, both Covid-19 浩劫餘生錄 pages, index) — no new community material. Verified-saturated; SKIP-with-reason.
