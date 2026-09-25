@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-25
 ---
 # Janet Allen (安美莉)
 
@@ -33,6 +33,7 @@ last_reviewed: 2026-09-22
 Corpus sweep of works/articles found only her own TAH Who's Who entry — no memoir or movement material in the community record beyond the press-kit profile. Pediatrician at Norfolk Children's Hospital (維吉尼亞東方醫學院 alumna); daughter of [[people/helen-allen|趙夏蓮]].
 
 - [[works/taiwaneseamericanhistory-org/whoswho1276|1276. Janet Allen 安美莉 / 09/2016]] — TAH Who's Who record, 2016-09-11 (band B)
+- 2026-09-25 deepen-x 09232337-7 re-verify: corpus sweep of 安美莉 / Janet Allen in works/ + articles/ returns only the index backlink to her own Who's Who record — no memoir or movement material. SKIP.
 
 ## Family
 

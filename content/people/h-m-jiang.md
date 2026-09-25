@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-25
 ---
 # H. M. Jiang (江蕙美)
 
@@ -39,6 +39,7 @@ last_reviewed: 2026-09-22
 
 ## Timeline
 - 2017-07-19 — TAH Who's Who record published
+- 2026-09-25 — deepen-x 09232337-7 re-verify: corpus sweep of 江蕙美 / H. M. Jiang in works/ + articles/ returns only the index backlink to her own Who's Who record — no memoir material. SKIP.
 
 ## Sources
 - [TAH #1766 encyclopedia: 1766.  H. M. Jiang 	 江蕙美 / 07/2017](https://taiwaneseamericanhistory.org/whoswho1766/)
