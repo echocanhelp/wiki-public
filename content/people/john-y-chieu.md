@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # John Y. Chieu
 
@@ -54,3 +54,4 @@ last_reviewed: 2026-09-24
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - Corpus re-grep 2026-09-24 (slice 09230500-15): hit set identical to previously absorbed records; no new corpus material; verified saturated.
+- Corpus re-grep 2026-09-25 (slice 09240500-12): hit set identical again; no new corpus material; engineer-vs-activist HOLD stands; verified saturated.

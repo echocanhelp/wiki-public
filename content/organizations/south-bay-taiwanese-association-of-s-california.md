@@ -6,7 +6,7 @@ tags:
   - Taiwanese-American
   - Taiwan-Center-group-member
 verification_status: published
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # South Bay Taiwanese Association of S. California.
 
@@ -47,3 +47,4 @@ HOLD: conflict — this page lists the association as "of S. California" (Taiwan
 - [[sources/taiwancenter-org||taiwancenter.org]]
 - Corpus re-grep 2026-09-22 (slice 09212352-4): hit set fully linked, no new absorbable material.
 - Corpus re-grep 2026-09-24 (slice 09230500-16): SKIP — hit set unchanged (585 年刊, 11851/586 名錄, enews, activities-sbta, our-journeys-357, our-journeys-350, ourjourneys37-eng, SEBTA sibling), all already linked above; both HOLDs (1971 vs 1972 founding year; "S. California" listing vs 北加州 corpus records) remain unresolved and unmerged.
+- Corpus re-grep 2026-09-25 (slice 09240500-9): SKIP — hit set unchanged (585, 11851/586, enews, our-journeys-350/357, ourjourneys37-eng, SEBTA); all links and both HOLDs stand.

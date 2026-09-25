@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # Dr. Sheng-Yi Chuang (莊勝義博士)
 
@@ -38,6 +38,7 @@ last_reviewed: 2026-09-24
 - Corpus re-grep 2026-09-21 (slice 09210051-2): hit set unchanged — own #2272 biblio entry, ourjourneys-139, ourjourneys233 (+eng), ourjourneys308, my-stories-729, all already linked above; no new memoir material to absorb.
 - Corpus re-grep 2026-09-23 (slice 09221000-8): SKIP — hit set unchanged (own #2272, ourjourneys-139, ourjourneys233 +eng, ourjourneys308, my-stories-729), all already linked; the EN/ZH purchase-cap discrepancy in #233 remains the flagged HOLD; no new material.
 - Corpus re-grep 2026-09-24 (slice 09230500-16): SKIP — hit set unchanged (own #2272, ourjourneys-139, ourjourneys233 +eng, ourjourneys308, my-stories-729); #233 re-read confirms the 十五萬開價/不得超過二十三萬 ceiling (ZH) vs EN translation cap — same already-flagged HOLD, not merged; no new material.
+- Corpus re-grep 2026-09-25 (slice 09240500-9): SKIP — hit set unchanged (own #2272, ourjourneys-139, ourjourneys233 +eng, ourjourneys308, my-stories-729); the #233 EN-vs-ZH purchase-cap discrepancy remains the flagged HOLD; no new material.
 
 ## Family
 

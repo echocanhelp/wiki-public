@@ -66,6 +66,8 @@ Role anchors already on this page's TAH table map to vault pages: [[organization
 
 ## From the record
 
+- 覆核（TJJ-A09240400-2, 2026-09-25）：本 slice 文章 08b82976（TJJ NATMA 標籤頁, 2021-12-05 快照）正文再驗證——「NATMA國際義診 播愛宏都拉斯 ◎林榮松醫師攝影報導 2018-04-18」條目確認見於正文，連結為真，無錯鏈、無虛鏈；2018-04-18 日期事實條目已在庫 — SKIP，無新材料。
+
 - 複核（TJJ-A09230800-1, 2026-09-24）：文章 c05e2d53013fcd15（會館疫情服務報導） 正文再驗證——本頁 subject 連結確認見於正文（無錯鏈、無虛鏈）；對應 From-the-record 條目已在庫 — SKIP，無新材料。
 
 - 覆核（TJJ-A09162345-18, 2026-09-24）：本 slice 文章 NATMA標籤頁 08b82976 正文再驗證——subject 連結為真實提及，無錯鏈、無虛鏈；對應日期事實（含該文 wikilink）已在庫 — SKIP，已飽和。

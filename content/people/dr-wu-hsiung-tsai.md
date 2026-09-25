@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # Dr. Wu Hsiung Tsai (蔡武雄博士)
 
@@ -55,3 +55,4 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- Corpus re-grep 2026-09-25 (slice 09240500-12): hit set identical to prior scans (ourjourneys76 & -eng, 254, 63, 47, whos-who-1703); no new corpus material; verified saturated.
