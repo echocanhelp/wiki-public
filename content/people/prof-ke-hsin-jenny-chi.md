@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-25
 ---
 # Prof. Ke-Hsin Jenny Chi (紀可欣教授)
 
@@ -46,3 +46,4 @@ _SKIP-with-reason (deepen-x 0917-25; re-grepped slices 09171100-11, 09180200-31)
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+<!-- deepen-x 09231200-21: re-verify — fresh ZH+EN grep of works/+articles/; hit set identical to prior passes, all hits already linked; no new absorbable corpus facts. -->

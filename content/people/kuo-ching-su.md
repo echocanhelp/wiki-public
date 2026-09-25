@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-25
 ---
 # Kuo-Ching Su (蘇國慶)
 
@@ -46,3 +46,4 @@ last_reviewed: 2026-09-22
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 <!-- deepen-x 09210900-4: re-verify — fresh grep; only own TAH #348/#569 records (already linked above) plus the existing 同名 戲曲演員 HOLD; other 'Kuo-Ching' corpus hits are Tu Kuo-Ching 杜國清, a different person. No new absorbable facts. -->
+<!-- deepen-x 09231200-21: re-verify — fresh ZH+EN grep of works/+articles/; hit set identical to prior passes, all hits already linked; no new absorbable corpus facts. -->
