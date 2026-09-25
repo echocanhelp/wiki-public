@@ -31,6 +31,8 @@ Nothing absorbable beyond the TAH directory record; page kept at directory-level
 
 Fresh re-grep 2026-09-23 (slice 09221500-29): still no direct CUTSA mention. Two contextual neighbor-notes worth recording (background, not CUTSA-specific claims): the East Coast movement memoir [[works/taiwaneseamericanhistory-org/ourjourneys300-eng|300 (EN)]] describes pre-movement Taiwanese student gatherings at I House / Riverside Church near Columbia, i.e. the same campus milieu CUTSA later emerged in, and TAF's TACL Leadership Conference has been hosted at Columbia ([[works/taiwaneseamerican-org/jonathan-chen|Jonathan Chen interview]]). Neither names CUTSA; SKIP-with-reason stands.
 
+Fresh re-grep 2026-09-25 (slice 09231000-6): zero hits for CUTSA / 哥倫比亞大學臺灣同學會 in works+articles — verified saturated, SKIP-no-new-facts.
+
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/columbia-university-taiwanese-student-association/)
 

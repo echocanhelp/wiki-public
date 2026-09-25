@@ -32,6 +32,7 @@ _No filled family fields on the TAH profile._
 - **deepen-x re-grep 2026-09-21 (slice 28):** fresh grep returns only whoswho1478 and the two TJJ articles already absorbed above（LA郡警察局捐贈報導、疫情旅館堅持開門報導）。無新 corpus 事實 — SKIP this pass.
 - **deepen-x re-grep 2026-09-22 (slice 09220600-26):** fresh grep again returns only whoswho1478, works/index, and the same two TJJ articles — verified saturated, SKIP-no-new-facts.
 - **deepen-x re-grep 2026-09-23 (slice 09221500-15):** fresh grep returns the same set (whoswho1478, works/index, the two absorbed TJJ articles) — verified saturated, SKIP-no-new-facts.
+- **deepen-x re-grep 2026-09-25 (slice 09231000-6):** same set again (whoswho1478, works/index, the two absorbed TJJ articles) — verified saturated, SKIP-no-new-facts.
 
 ## From the record
 

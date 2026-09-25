@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-25
 ---
 # Julie Wu (吳茗秀醫師)
 
@@ -34,6 +34,8 @@ last_reviewed: 2026-09-23
 - Corpus re-check 2026-09-22 (deepen-x slice 28): the remaining `Julie Wu` hits in `content/works` are duplicate harvest variants of the Harvard-presentation and 2014-08 talk records already linked above (`...-at-harvard-2`, `...-speaks-on-the-third-son-novel-2`); no new memoir/articles material.
 - Cited in Joyce Bergvelt's interview as one of the historical novels that created awareness of the White Terror "dark period... long kept hidden from the outside world," alongside Shawna Yang Ryan's *Green Island* and Vern Schneider's *A Pail of Oysters*: [[works/taiwaneseamerican-org/interview-with-joyce-bergvelt-lord-of-formosa|Interview with Joyce Bergvelt, Lord of Formosa]].
 - Corpus re-grep 2026-09-23 (slice 09221500-16): hits = index, Michelle Kuo interview (absorbed above), Bergvelt interview (absorbed this pass). Saturated.
+
+- Corpus re-grep 2026-09-25 (slice 09231000-7): hits = index, own entries 235/511, Michelle Kuo interview, Harvard presentation (+dup -2 variant) — all already linked/absorbed above; saturated, no new absorbable facts.
 
 ## Family
 

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-25
 ---
 # W.C. Lin (林文釗)
 
@@ -42,6 +42,8 @@ last_reviewed: 2026-09-23
 ### Timeline
 - 1979/1980 — founded EGW Publishing Company per 石清正's memoir (1979 in the Chinese section, 1980 in the EN section; HOLD vs 1982 in TAH profile).
 - 2016-03-20 — recorded in the TAH Foundation encyclopedia (#898).
+
+- Corpus re-grep 2026-09-25 (slice 09231000-7): hits = index, ourjourneys19 (石清正 memoir, absorbed incl. EGW founding-year HOLD), own entry 898; saturated, no new absorbable facts.
 
 ## Family
 
