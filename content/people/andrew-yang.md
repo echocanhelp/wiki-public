@@ -79,6 +79,8 @@ Coverage in the taiwanjustice-net corpus harvested into this vault extends his p
 
 ## From the record
 
+- 覆核（TJJ-A09240400-2, 2026-09-25）：本 slice 文章 1a2bdc08（台美人 category p3, 2025-04-26 快照）正文再驗證——「台裔楊安澤新書批美國制度失靈，擬下月組新政黨」條目確認見於正文，連結為真，無錯鏈、無虛鏈；2021-01-25 日期事實條目已在庫 — SKIP，無新材料。
+
 - 複核（TJJ-A09162345-19, 2026-09-24）：本 slice 文章 1a2bdc08（台美人台加人分類頁 p3，2025-04-26 存檔）正文再驗證——「台裔楊安澤新書批美國制度失靈，擬下月組新政黨」確認見於正文清單，subject 連結為真，無錯鏈、無虛鏈；2021-01-25 日期事實條目（含該文 wikilink）已在庫 — SKIP，無新材料。
 
 - 覆核（TJJ-A09171200-4, 2026-09-24）：本 slice 四篇 TJJ 文章（台美人台加人索引 6f2b431c、NATMA 標籤頁 08b82976、挺港聯合聲明 53455d7e、台美人分類頁 1a2bdc08）正文再驗證——subject 連結為真實提及，無錯鏈、無虛鏈；對應日期事實（含該文 wikilink）已在庫 — SKIP，無新材料。

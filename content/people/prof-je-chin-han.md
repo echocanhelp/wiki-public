@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # Prof. Je-Chin Han (黃界清教授)
 
@@ -51,6 +51,7 @@ _No filled family fields on the TAH profile._
 - HOLD: prize structure conflict — the 2015-era notice describes one US$20,000 prize vs the 2020-era notice's two US$10,000 categories; both are his own committee's notices at different dates, not merged.
 - Corpus grep (re-run 2026-09-19, 2026-09-20 twice, 2026-09-21 slice 09210051-1, 2026-09-22 slice 09212352-5): corpus coverage is the records linked above plus the taiwanjustice.net tier2 archive copies of his 2012-01-30 op-ed (and the vote-fraud category index pages echoing it) and the NATPA award notices — no memoir mentions beyond the Our Journeys 129 award announcement; nothing new absorbable (SKIP-with-reason, page otherwise saturated).
 - Corpus re-grep 2026-09-23 (slice 09221000-7) and 2026-09-24 (slice 09230500-13): SKIP — hit set unchanged (own #52/#604, award-77, Our Journeys 129, works index, taiwanjustice.net archive echoes); no memoir mentions beyond the known award-announcement records; nothing new to absorb.
+- Corpus re-grep 2026-09-25 (slice 09240500-13): SKIP — hit set again identical (own #52/#604, award-77, Our Journeys 129, works index, taiwanjustice.net archive echoes); no new corpus material; verified saturated.
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

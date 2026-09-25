@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # Donald C.J. Chen (陳哲仁醫師)
 
@@ -50,6 +50,8 @@ Organized D.C. Area Taiwanese Association (同鄉會) in 1972, independent from 
 _Corpus re-scan 2026-09-23 (slice 09221100-12): fresh grep of works/articles for 陳哲仁/Donald Chen returns the same hits (ourjourneys76 & -eng, ourjourneys-138, 58-first-private-clinic, ff309, mystories403, whos474, photo-albums-111); all absorbed above — verified saturated, no new community facts._
 
 _Corpus re-scan 2026-09-24 (slice 09230500-18): SKIP — fresh grep returns the identical hit set (photo-albums-111, ourjourneys-138, ourjourneys76 +eng, mystories403, whos474); all absorbed above; verified saturated, nothing new to absorb._
+
+_Corpus re-scan 2026-09-25 (slice 09240500-13): SKIP — fresh grep returns the identical hit set (photo-albums-111, ourjourneys-138, ourjourneys76, whos474, 58-first-private-clinic, ff309); all absorbed above; verified saturated._
 
 ## Sources
 - [TAH #309 encyclopedia: 309. Dr. Donald C.J. Chen 陳哲仁醫師 / The first private medical practice. Ear, Nose ](https://taiwaneseamericanhistory.org/ff309/)
