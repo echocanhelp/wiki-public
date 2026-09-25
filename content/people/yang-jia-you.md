@@ -256,6 +256,8 @@ Notable quotes and mentions of **楊嘉猷** in Taiwan Justice articles:
 
 ## From the record
 
+- 複核（TJJ-A09240500-2, 2026-09-25）：本 slice 文章 c62f5c50846fe267 正文再驗證——楊嘉猷以台美人歷史協會會長出席確認見於正文，subject 連結為真（無錯鏈、無虛鏈）；對應日期條目（已掛該文 wikilink）已在庫 — SKIP，無新材料。
+
 - 複核（TJJ-A09230400-1, 2026-09-24）：subject link 經本 slice 文章 c62f5c50846fe267 正文再驗證為真實對應，對應 From-the-record 條目已在庫並掛鏈本檔（無錯鏈、無虛鏈）— SKIP，無新材料。
 
 - 複核（TJJ-A09162345-31, 2026-09-24）：slice 文章 20053f0a17b89c07（耆老講座標籤頁）正文再驗證——8/17 講座與洪茂澤對談條目再確認見於正文，連結為真；對應日期事實（含該文 wikilink）已在庫 — SKIP，無新材料。

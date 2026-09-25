@@ -4,7 +4,7 @@ type: person
 tags:
   - 
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # Rev. Lai Junming (賴俊明牧師)
 
@@ -21,6 +21,8 @@ Further founding-memoir detail (same source, [[works/taiwaneseamericanhistory-or
 2026-09-24 re-check (slice 09230600-5): fresh ZH+EN grep 賴俊明/Lai Junming over works/+articles/ returns only [[works/taiwaneseamericanhistory-org/ourjourneys305|Our Journeys 305]], already fully absorbed — hit set saturated, SKIP-deepen.
 
 2026-09-23 re-check (slice 09221200-3): fresh corpus grep for 賴俊明 returns only [[works/taiwaneseamericanhistory-org/ourjourneys305|Our Journeys 305]], already fully absorbed above. The memoir's remaining detail (the congregation's later building campaign on a five-acre presbytery-donated site) concerns the church, not the pastor personally — no new personal facts; verified saturated.
+
+2026-09-25 re-check (slice 09240600-7): fresh ZH+EN grep 賴俊明/Lai Junming over works/+articles/ returns only [[works/taiwaneseamericanhistory-org/ourjourneys305|Our Journeys 305]], already fully absorbed — hit set saturated across all scans, SKIP-deepen; GSTPC visiting-preacher vs St. Louis founding-pastor identity HOLD stands.
 
 ## Historical Significance
 Supported worship and special events including Father’s Day and regular Sunday services.

@@ -150,6 +150,8 @@ TAH employment (unparsed string): Tainan Univ. of Technology assoc. prof.; Wenza
 
 ## From the record
 
+- 複核（TJJ-A09240500-2, 2026-09-25）：本 slice 文章 c62f5c50846fe267 正文再驗證——蕭泰然為《台灣翠青》作曲者、全場客台雙語合唱確認見於正文，subject 連結為真（無錯鏈、無虛鏈）；對應日期條目（已掛該文 wikilink）已在庫 — SKIP，無新材料。
+
 - 複核（TJJ-A09231000-4, 2026-09-25）：本 slice 文章 11aa2dfa5f64d7e4 正文再驗證——楊子清 tag 頁 TUF 台灣名家演奏系列/台灣文化之夜 1993-1994 影音紀錄條目（蕭泰然）確認見於正文，subject 連結為真，無錯鏈、無虛鏈；對應日期事實（含該文 wikilink）已在庫 — SKIP，已飽和。[[articles/taiwanjustice-net/2021/20210117071954_tag_楊子清_11aa2dfa5f64d7e4|TJJ 11aa2dfa]]
 
 

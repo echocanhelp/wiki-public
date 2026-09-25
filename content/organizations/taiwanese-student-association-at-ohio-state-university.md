@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # Taiwanese Student Association at Ohio State University (俄亥俄州立大學台灣同學會)
 
@@ -27,6 +27,7 @@ The Taiwanese Student Association (TWSA) at The Ohio State University — known 
 - A third 2013-era activity under the TASA at OSU name is recorded: [[works/taiwaneseamerican-org/tasa-at-osu-presents-dumpling-night|TASA at OSU Presents Dumpling Night]] — the club's food-event format matches the parallel 2013 TASA chapters (Michigan crafts, Boston TAP brunch) in the same event roundups.
 - Re-grepped 2026-09-23 (slice 09221100-17): fresh ZH+EN grep returns the same hit set already absorbed above (#76-eng, osu-taiwanese-student-association 會訊, our-journeys-376, index, 2013 TASA event pages); the only additional OSU mentions (Brian Yang interview, OSU Haters racism post on taiwaneseamerican-org) are not about the Taiwanese student body — nothing new absorbable.
 - HOLD: the 1970s movement-era OSU 台灣人社 vs the current service-oriented TWSA (founding year undocumented) — continuity unverified; the 2013 ITASA conference confirms modern-era activity but does not close the 1970s→present lineage question.
+- Re-grepped 2026-09-25 (slice 09240600-7): fresh ZH+EN grep 「俄亥俄州立大學台灣同學會／Ohio State／OSU」 returns the same hit set already absorbed (#76-eng, osu-taiwanese-student-association 會訊, our-journeys-376, works index, 2013 taiwaneseamerican-org pages; Brian Yang interview and racism post are not about the student body) — nothing new absorbable, HOLDs unchanged; verified saturated, SKIP-deepen.
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-student-association-at-ohio-state-university/)

@@ -54,6 +54,7 @@ _Corpus re-grep 2026-09-22: same hits (Who's Who #1016, both in-CA/CA work recor
 
 _Corpus re-grep 2026-09-23: same hits (whoswho1016, both in-CA work records, TJJ snapshots); 張齡玲 vs 張玲玲 HOLD stands, nothing new._
 _Corpus re-grep 2026-09-24 (DEEPEN-X slice 09230600-29): hit-set identical (whoswho1016, ling-ling-chang, ling-ling-chang-in-california, works index, TJJ snapshots incl. 2023-12-08) — verified saturated; 張齡玲 vs 張玲玲 HOLD unchanged, nothing new absorbable._
+_Corpus re-grep 2026-09-25 (DEEPEN-X slice 09240600-1): fresh ZH+EN grep of works+articles returned the same hit set (whoswho1016, both in-CA work records, works index, TJJ snapshots + MANIFEST) — SKIP: saturated, 張齡玲 vs 張玲玲 HOLD stands, nothing new absorbable._
 
 ## From the record
 

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-25
 ---
 # Rev. Ben M.C. Hsieh (謝敏川牧師)
 
@@ -58,3 +58,5 @@ _Corpus re-scan 2026-09-22 (slice 22): all works hits (#144, #888, #14, #43, 牧
 _Corpus re-scan 2026-09-23 (deepen-x slice 09221200-2): fresh grep 謝敏川/Hsieh — hit set identical to prior pass (index, #144, #888, #14, #43, #186); verified-saturated._
 
 _Corpus re-scan 2026-09-24 (deepen-x slice 09230600-4): fresh grep 謝敏川/Hsieh across works/ + articles/ — hit set identical (index, #144, #888, #14, #43, #186); verified-saturated, nothing new absorbable._
+
+_Corpus re-scan 2026-09-25 (deepen-x slice 09240600-8): fresh grep 謝敏川/Hsieh across works/ + articles/ — hit set identical (#144, #888, OJ14, OJ43, 牧野溪流 #186); verified-saturated, nothing new absorbable._

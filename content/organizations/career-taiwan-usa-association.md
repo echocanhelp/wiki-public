@@ -6,7 +6,7 @@ tags:
   - Taiwanese-American
   - Taiwan-Center-group-member
 verification_status: published
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # Career Taiwan USA Association
 
@@ -50,3 +50,5 @@ Community role: a career/professional-development association for young Taiwanes
 - [[works/taiwaneseamericanhistory-org/career-taiwan-usa-association|Career Taiwan Usa Association 台灣青年美國職涯發展協會]]
 
 > Corpus re-scan 2026-09-23 (deepen-x slice 09221200-2): fresh grep 職涯/Career Taiwan — hit set unchanged (professional8, dedicated story page, index, OJ361 nav-only); verified-saturated.
+
+> Corpus re-scan 2026-09-25 (deepen-x slice 09240600-8): fresh grep 職涯/Career Taiwan — hit set unchanged (professional8, dedicated story page, index, OJ361 generic-職涯 noise); the new article hit (TSMC 挖角 報導 75718d97) is a generic use of 職涯, not this association — nothing absorbable.

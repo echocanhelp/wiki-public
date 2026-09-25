@@ -30,6 +30,8 @@ last_reviewed: 2026-09-24
 
 ## From the record
 
+- 複核（TJJ-A09240500-2, 2026-09-25）：本 slice 文章 becb39f917174438 正文再驗證——馬英九為最不受歡迎民選總統之一、9.2%支持度、ICAO突破確認見於正文，subject 連結為真（無錯鏈、無虛鏈）；對應日期條目（已掛該文 wikilink）已在庫 — SKIP，無新材料。
+
 - 複核（TJJ-A09231000-5, 2026-09-25）：slice 文章 9e7164ea03c1512b（The Madness of Ma, Jack Healey 聲明, 2013-04-22）正文再驗證——指馬政府涉入司法、復仇政治、「慢動作謀殺」扁等記述確認見於正文，subject 連結為真，無錯鏈、無虛鏈；2013-04-22 條目（含該文 wikilink）已在庫 — SKIP，已飽和。
 
 - 複核（TJJ-A09230900-1, 2026-09-25）：本 slice 文章 f51d2ebb674cbdd3（English Pages 分類存檔頁 p13, 2024-05-21 快照）正文再驗證——「『人權先生』籲馬認錯 莫對媒體施壓」及〈The Shutdown in Taiwan: Ma Ying-jeou's Peculiar Obsession〉確認見於正文，subject 連結為真，無錯鏈、無虛鏈；2015-06-16 條目（已含該文 wikilink）已在庫 — SKIP，已飽和。
