@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-25
 ---
 # Ching Fen Lin (林青棻)
 
@@ -45,3 +45,4 @@ Accomplishment
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- 2026-09-25 deepen-x re-check (slice -4): fresh grep ZH+EN hits remain only own record + index; 張靜芬 vocal pages are the other Ching-Fen Lin (SKIP).
