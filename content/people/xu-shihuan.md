@@ -47,3 +47,4 @@ Chronological events for **許世環**:
 - **2018-07-20** 🎤 抗議 南加州台大校友會邀管中閔來年會做專題演講 ◎國立台灣大學校友 2018-07-19
 
 <!-- deepen-x 09221500-28: re-verify 2026-09-23 — fresh grep (works/articles): hit set unchanged (single 2018 台大校友抗議公開信 only, already recorded + quoted). Redirect stub; SKIP-with-reason. -->
+<!-- deepen-x 09231000-14: verified-saturated — corpus re-scan (works/articles) fresh 2026-09-25: hit set identical to prior passes (own records + already-wikilinked works only); David Kuang-Tzu Lin: fresh grep hits (ourjourneys33 family-photo 'David Lin', TJJ 林沅融 David Lin, TJJ 牧師林大衛 David Lin) are name collisions, NOT 李光治 — excluded, no absorbable material. -->
