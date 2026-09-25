@@ -57,6 +57,7 @@ The corpus documents Lieu's standing within the Taiwanese American community in 
 
 ## From the record
 
+- 複核（TJJ-A09240700-5, 2026-09-25）：本 slice 文章 c6f9dbff48b39366（台美人台加人分類頁 2024-02-21 存檔）——相關條目（田土伯果樹講座／劉雲平晉陞上校／長青教室台灣話的源流心得報告）確認見於正文，劉雲平 subject 連結為真，無錯鏈、無虛鏈；對應日期事實條目（含該文 wikilink）已在庫 — SKIP，已飽和。
 - 複核（TJJ-A09240700-12, 2026-09-25）：slice 文章 097b5750fcf3091a（花蓮0403震災台館勸募報導）subject link 正文再驗證——劉雲平列名即時對台灣表達關懷的跨黨派聯邦議員之一，連結為真，無錯鏈、無虛鏈；2024-04-04 條目已在庫 — SKIP，無新材料。
 
 - 複核（TJJ-A09230900-3, 2026-09-25）：本 slice 4 篇 TJJ 文章（95fd8186 二二八77周年追思、26f76359 糖尿病與你、a1b56965 彭明敏紀念研討會、afdbd8b2 台灣會館重建動土）subject link 再驗證：劉雲平 對應真實，無錯鏈、無虛鏈；對應 From-the-record 條目已在庫 — SKIP，無新材料。

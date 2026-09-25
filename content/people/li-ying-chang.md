@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # Li-Ying Chang (張理盈)
 
@@ -55,3 +55,5 @@ _No filled family fields on the TAH profile._
 > Corpus re-scan 2026-09-23 (deepen-x slice 09221300-24): fresh grep works/+articles/ — hit set identical to prior absorption, all records already wikilinked above. SKIP-deepen; nothing new absorbable. HOLD on degree-level conflict (MM vs B.S., Peabody) stands.
 
 > Corpus re-scan 2026-09-24 (deepen-x slice 09230800-11): fresh grep works/+articles/ — hit set identical (whoswho1206, musician353, works index), all already wikilinked. SKIP-deepen; nothing new absorbable. HOLD on degree-level conflict (MM vs B.S., Peabody) stands.
+
+> Corpus re-scan 2026-09-25 (deepen-x slice 09240800-3): fresh grep works/+articles/ — hit set unchanged (whoswho1206, musician353, works index), all already wikilinked. SKIP-deepen; verified saturated. HOLD on degree-level conflict (MM vs B.S., Peabody) stands.
