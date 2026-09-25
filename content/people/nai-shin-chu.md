@@ -55,3 +55,4 @@ Related: [[organizations/irvine-taiwanese-presbyterian-church|Irvine台灣長老
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+<!-- deepen-x slice 09250317-19: re-verify 2026-09-25 — fresh grep (ZH+EN, works+articles): hit set identical to prior absorptions, all already linked in Role in the Community. Verified saturated; SKIP-no-new-facts. -->

@@ -51,3 +51,5 @@ Accomplishment
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+<!-- deepen-x 09250317-23: fresh grep (蔡安達/Andy Tsay) returns only already-absorbed records (whos-who-2175, 52891/#205, mystories482, works index) — verified-saturated, SKIP-no-new-facts. -->
