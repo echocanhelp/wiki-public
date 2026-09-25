@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # Anny Yun-An (陳韻安)
 
@@ -50,3 +50,4 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- Corpus re-scan 2026-09-25 (deepen-x slice 09240800-10): fresh grep (works+articles) returns only the records already wikilinked above (#220, #456, index). SKIP — verified saturated, nothing new absorbable.

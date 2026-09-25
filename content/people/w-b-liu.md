@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # W. B. Liu (劉文彬)
 
@@ -51,3 +51,4 @@ last_reviewed: 2026-09-24
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- Corpus re-check 2026-09-25 (deepen-x slice 09240800-10): fresh grep (works+articles) hits = whoswho1396 + works/index + the 2024-07-16 TJJ reception article — identical set, all already linked. Saturated; SKIP.
