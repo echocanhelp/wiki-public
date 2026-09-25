@@ -49,6 +49,7 @@ Accomplishment
 - 2026-09-22 deepen-x slice 09220500-15: re-verified — identical hit set again (whos-who-1740, works index, TJJ 2018-07-20 column), all linked. No change.
 - 2026-09-23 deepen-x slice 09221300-30: re-verified — identical hit set (whos-who-1740, works index, TJJ 2018-07-20 column); 電機 alumni-roster entry already noted above. Nothing new absorbable.
 - 2026-09-24 deepen-x slice 09230800-21: re-verified — identical hit set again (whos-who-1740, works index, TJJ 2018-07-20 column), all linked. SKIP-content — saturated.
+- 2026-09-25 deepen-x slice 09240800-17: re-verified — identical hit set again (whos-who-1740, works index, TJJ 2018-07-20 column), all linked. SKIP-content — saturated.
 
 ## Sources
 - [TAH #1740 encyclopedia: 1740. Dr. Kuo-Pin Wang 王國斌博士](https://taiwaneseamericanhistory.org/whos-who-1740-kuo-pin-wang/)

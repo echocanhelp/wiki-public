@@ -50,6 +50,7 @@ Corpus memoirs (吳朱實) record 楊日信 as a central builder of the Taiwanes
 - Corpus re-check 2026-09-23 (deepen-x slice 09221300-20): fresh grep of works/ + articles/ — hit set unchanged (mystories433, ourjourneys15/322/123, whoswho1504), all hits already cited and absorbed above; nothing further absorbable. SKIP.
 
 - Corpus re-check 2026-09-24 (deepen-x slice 09230800-23): fresh grep of works/ + articles/ — hit set unchanged (mystories433, ourjourneys15/322/123, whoswho1504), all already cited and absorbed above. SKIP.
+- Corpus re-check 2026-09-25 (deepen-x slice 09240800-17): fresh grep of works/ + articles/ — hit set unchanged (mystories433, ourjourneys15/322/123, whoswho1504), all already cited and absorbed above. SKIP.
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/z-h-yang/)

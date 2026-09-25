@@ -43,8 +43,9 @@ last_reviewed: 2026-09-25
 - HOLD: conflict in Chinese name — TAH page record 吳振**瑋** vs corpus memoir/record titles 吳振**偉**; not auto-merged.
 
 ## Corpus check (2026-09-22)
-- Idempotent re-verify (slice 09220500-12): fresh grep — hit set (27, mr-david-wu-oregon, david-wu, 67, works index, taiwanese-american-heritage-week) fully linked above; the 吳振偉 vs 吳振瑋 HOLD stands; no new absorbable facts.
+- Corpus re-check 2026-09-22 (slice 09220500-12): fresh grep — hit set (27, mr-david-wu-oregon, david-wu, 67, works index, taiwanese-american-heritage-week) fully linked above; the 吳振偉 vs 吳振瑋 HOLD stands; no new absorbable facts.
 - Corpus re-check 2026-09-23 (deepen-x slice 09221300-19): re-grep (吳振瑋 / 吳振偉 / David Wu) — hit set unchanged (own records, index rows, Heritage Week work, all already linked above). Verified-saturated SKIP-deepen; HOLD stands.
+- Corpus re-check 2026-09-25 (deepen-x slice 09240800-17): fresh grep (吳振瑋 / 吳振偉 / David Wu) — hit set unchanged (27, mr-david-wu-oregon, david-wu, 67, works index, heritage-week), all already linked above. Verified-saturated SKIP-deepen; 吳振偉 vs 吳振瑋 HOLD stands.
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/david-wu/)
