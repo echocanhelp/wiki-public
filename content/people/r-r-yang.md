@@ -39,6 +39,7 @@ last_reviewed: 2026-09-25
 
 Corpus review 2026-09-19: the only corpus mentions are the subject's own TAH Who's Who record — [[works/taiwaneseamericanhistory-org/whoswho973|973. R. R. Yang 楊蓉蓉 / 2016/05]] (published 2016-05-08, band B). No third-party mentions found in memoirs or community works; no new facts absorbable beyond the TAH press-kit record above. Father 楊豐明 is recorded in the Family section ([[people/f-m-yang|楊豐明]]).
 - Re-verified 2026-09-22: fresh grep (ZH+EN) again returned only the self-record above plus the works index; no third-party mentions; nothing further absorbable.
+- Re-scan 2026-09-25 (slice 20): fresh ZH+EN grep — self-record (whoswho973) + works-index line only; no third-party mentions; nothing absorbable.
 
 ## Sources
 - [TAH #973 encyclopedia: 973. R. R. Yang楊蓉蓉 / 2016/05](https://taiwaneseamericanhistory.org/whoswho973/)

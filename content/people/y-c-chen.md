@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-25
 ---
 # Y. C. Chen (陳英燦)
 
@@ -33,7 +33,7 @@ last_reviewed: 2026-09-21
 ## Role in the Community
 
 Corpus sweep found no community-action material beyond his own encyclopedia profile, preserved in the corpus as [[works/taiwaneseamericanhistory-org/whoswho924|TAH #924: Y. C. Chen 陳英燦 / 2016-04]]. The "資深媒體人" (senior media figure) role in the TAH snapshot is the only movement-adjacent fact on record; no Our Journeys memoir narrative found.
-- Disambiguation (re-grep 2026-09-21): the corpus carries a second "Y. C. Chen" — [[works/taiwaneseamericanhistory-org/whoswho1393|1393. Y. C. Chen 陳義志 / 2016-11]] — a different person (different hanzi); do not merge. Nearby initial-match: [[works/taiwaneseamericanhistory-org/whos-who-1853-y-c-cheng|1853. Dr. Y. C. Cheng 鄭翼宗博士]] (Cheng, not Chen).
+- Disambiguation (re-grep 2026-09-25): the corpus carries a second "Y. C. Chen" — [[works/taiwaneseamericanhistory-org/whoswho1393|1393. Y. C. Chen 陳義志 / 2016-11]] — a different person (different hanzi); do not merge. Nearby initial-match: [[works/taiwaneseamericanhistory-org/whos-who-1853-y-c-cheng|1853. Dr. Y. C. Cheng 鄭翼宗博士]] (Cheng, not Chen).
 
 ## Family
 

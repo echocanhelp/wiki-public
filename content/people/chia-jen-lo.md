@@ -36,6 +36,7 @@ _No filled family fields on the TAH profile._
 
 Corpus review (2026-09-19): the only corpus hit is the subject's own TAH encyclopedia entry — [[works/taiwaneseamericanhistory-org/whos-who-1751-chia-jen-lo|1751. Chia-Jen Lo 羅嘉仁]] (bibliographic record; full text in vault). No memoir/article mentions found in content/works or content/articles beyond this self-record; no additional community facts absorbable this wave.
 - Re-verified 2026-09-22: fresh grep (ZH+EN) again returned only the self-record above plus the works index; no third-party mentions; nothing further absorbable.
+- Re-scan 2026-09-25 (slice 20): fresh ZH+EN grep — self-record + works-index line only; no third-party mentions; nothing absorbable.
 
 ## Sources
 - [TAH #1751 encyclopedia: 1751. Chia-Jen Lo 羅嘉仁](https://taiwaneseamericanhistory.org/whos-who-1751-chia-jen-lo/)

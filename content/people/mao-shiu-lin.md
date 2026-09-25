@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-25
 ---
 # Mao-Shiu Lin (林茂修)
 
@@ -35,7 +35,7 @@ Professor of Electrical & Computer Engineering
 
 ## Role in the Community
 
-- 台大電機（1954）赴美，密西根大學電機/電子硕博士，1966 年起任 San Diego State University 電機與電腦工程教授；台南籍。TAH Who's Who 721（2015/12）收錄其紀錄，見 [[works/taiwaneseamericanhistory-org/721-mao-shiu-lin-e6-9e-97-e8-8c-82-e4-bf-ae-201512|721. Mao-Shiu Lin 林茂修 / 2015/12]]。2026-09-21 corpus 檢核：除本人 TAH 紀錄與作品索引外，memoir/article 中暫無其他記述。
+- 台大電機（1954）赴美，密西根大學電機/電子硕博士，1966 年起任 San Diego State University 電機與電腦工程教授；台南籍。TAH Who's Who 721（2015/12）收錄其紀錄，見 [[works/taiwaneseamericanhistory-org/721-mao-shiu-lin-e6-9e-97-e8-8c-82-e4-bf-ae-201512|721. Mao-Shiu Lin 林茂修 / 2015/12]]。2026-09-25 corpus 再檢核：除本人 TAH 紀錄與作品索引外，memoir/article 中暫無其他記述。
 
 ## Family
 
