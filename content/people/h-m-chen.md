@@ -52,3 +52,4 @@ Minnesota community chronicle 明州台美人百年大事 records him as 明大�
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 <!-- deepen-x slice 09231100-10 (2026-09-25): verified-saturated — fresh ZH+EN corpus re-grep hits only the already-cited records (own TAH encyclopedia entry + works index + 明州台美人百年大事); no new absorbable facts. -->
+<!-- deepen-x slice 09250400-19 (2026-09-25): verified-saturated — identical hit set (whoswho966 + ourjourneys123 + works index); no new absorbable facts. -->

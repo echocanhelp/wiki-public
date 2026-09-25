@@ -50,3 +50,4 @@ The corpus holds one record of Rev. Burke: his own TAH Who's Who encyclopedia en
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 <!-- deepen-x 09231100-17 re-check 2026-09-25: verified-saturated. Fresh ZH+EN grep of works/ + articles/ returns only own TAH bibliographic records, works/index.md, or pages already wikilinked/HOLDed in Role in the Community; no new absorbable corpus material. -->
+<!-- deepen-x slice 09250400-19 re-check 2026-09-25: verified-saturated — fresh ZH+EN grep returns only own record whos-who-2269 + works index; no new absorbable corpus material. -->
