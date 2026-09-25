@@ -25,6 +25,7 @@ The Taiwanese Association of Greater Portland (TAGP) is a chapter of the Taiwane
 - [[works/taiwaneseamericanhistory-org/activities-of-tagp|波特蘭台灣同鄉會的活動（2019-01-12）]] — record of chapter community activities.
 - Corpus check 2026-09-21 (deepen-x slice 25): re-grepped works+articles for TAGP / 大波特蘭 / Greater Portland — hits are exactly the four records above + works/index; all four are already linked here. No chapter-author prose in the harvested corpus beyond titles/dates, and no person page exists for author Chen-ya Chiu (no new pages per protocol). Page retained with existing founding facts (1992, 63rd TAA chapter).
 - Corpus check 2026-09-23 (deepen-x slice 09221400-31): fresh grep again returns exactly the four linked records + works/index; verified saturated, no new facts.
+- Corpus check 2026-09-25 (deepen-x slice 09230900-30): fresh grep (TAGP / 大波特蘭 / Greater Portland) again returns exactly the four linked records + works/index; verified saturated, no new facts.
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-association-of-greater-portland/)

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-25
 ---
 # Prof. Wen-Yaw Chan (詹文耀教授)
 
@@ -36,6 +36,7 @@ Accomplishment
 - Elected Academy Member of the ASPH/Pfizer Public Health Academy of Distinguished Teachers (2012-2017) — a national teaching honor noted in the community record.
 - Corpus re-grep (2026-09-21, slice 09201503-3; re-verified 2026-09-22, slice 09211500-30): no memoir or article coverage beyond the Who's Who record [[works/taiwaneseamericanhistory-org/whos-who-2115-wen-yaw-chan|TAH #2115]] and the works index — verified saturated.
 > Re-verified 2026-09-23 (slice 09221500-13): fresh grep 詹文耀 / Wen-Yaw Chan returns only the #2115 record and the works index; no memoir or article coverage; verified saturated.
+> Re-verified 2026-09-25 (slice 09230900-28): fresh grep 詹文耀 / Wen-Yaw Chan returns only the #2115 record + works index; SKIP-with-reason: saturated.
 
 ## Timeline
 - 1974 — B.S. Mathematics, National Central Univ.

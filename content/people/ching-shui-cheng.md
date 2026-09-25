@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-25
 ---
 # Prof. Ching-Shui Cheng (鄭清水教授)
 
@@ -37,6 +37,7 @@ Prof. Ching-Shui Cheng 鄭清水教授 – History of Taiwanese American (T.A. A
 - Recorded in the TAH Foundation Who's Who corpus as record #2024, published 2018-02-12 — [[works/taiwaneseamericanhistory-org/whos-who-2024-ching-shui-cheng|2024. Prof. Ching-Shui Cheng 鄭清水教授]]. A second harvest of the same record exists ([[works/taiwaneseamericanhistory-org/whoswho2024|2024. Ching-Shui Cheng 鄭清水 / 02/2018]], same date, different URL slug) — duplicate capture, not a conflict.
 - Berkeley mathematician on the Tsing Hua-to-Cornell lineage into the U.S. academy; entry held as community historical record.
 - Corpus re-grep 2026-09-23 (slice 09221000-30): hits remain only the two duplicate harvests of record #2024 + works index — verified saturated.
+- Re-verified 2026-09-25 (slice 09230900-28): fresh grep 鄭清水 / Ching-Shui Cheng returns only the two #2024 duplicate harvests + works index; SKIP-with-reason (saturated), nothing new absorbable.
 - Corpus re-grep 2026-09-22 (slice 09211507-6), ZH 鄭清水 + EN: hits remain only the two duplicate harvests of record #2024 and the works index — no memoir material; verified saturated, nothing new absorbable.
 
 ## Timeline

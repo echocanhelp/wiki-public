@@ -54,3 +54,5 @@ SKIP-with-reason (deepen-x slice 09211507-30, 2026-09-22): corpus grep (謝若�
 
 ## Network
 - [[organizations/presbyterian-church-in-taiwan||PCT]] — TAH Who’s Who
+
+<!-- deepen-x slice 09230900-30 re-grep 2026-09-25: fresh grep (謝若蘭 / Jolan Hsieh) in works+articles returns only own record whoswho1180 + works index — verified saturated, SKIP content-deepen. -->
