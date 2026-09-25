@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # Ching-Ju Cheng (鄭靜如)
 
@@ -49,3 +49,4 @@ _No filled family fields on the TAH profile._
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 - Corpus re-check 2026-09-24 (deepen-x slice 09230800-18): fresh grep (鄭靜如 / Ching-Ju Cheng) — only own records #395/#1634 plus index rows. SKIP-deepen maintained.
+- Corpus re-check 2026-09-25 (deepen-x slice 09240800-13): fresh grep (鄭靜如 / Ching-Ju Cheng) unchanged — own records #395/#1634 + index rows only. SKIP-deepen maintained.
