@@ -21,6 +21,7 @@ The Taiwanese Association of Students at Tufts (TAST) is a culture-oriented stud
 ## Role in the Community
 
 - 2026-09-22 corpus 檢核 (deepen-x 09210900-13)：corpus 中的 Tufts 記述皆與本社團無關（Will Tiao、Anita Chang 的校友政歷見 [[works/taiwaneseamerican-org/introducing-will-tiao|Will Tiao]]、[[works/taiwaneseamerican-org/a-chat-with-documentary-filmmaker-anita-chang|Anita Chang 訪談]]；其餘為新聞轉述）。SKIP — no TAST-specific corpus material; page rests on the TAH directory entry and JumboLife profile.
+- 2026-09-25 re-verify (deepen-x 09231400-29): fresh grep — no "Taiwanese Association of Students" hit in works/articles; Tufts hits remain only the Tiao/Chang alumni bios above. SKIP stands.
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-association-of-students-at-tufts/)
