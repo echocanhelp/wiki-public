@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-25
 ---
 # L. J. Chen (陳柳江)
 
@@ -35,7 +35,7 @@ last_reviewed: 2026-09-22
 
 
 ## Role in the Community
-- Per the Bay Area 台灣會館 (Taiwanese American Center) relocation memoir, Dr. 陳柳江 and his wife 洪美和 were long-standing community supporters: 洪美和 has for years run the Center's Wednesday 「心弦交響」 program, and the couple each time prepared two or three large pots of lunch (營费午餐) to feed attending 鄉親. See [[works/taiwaneseamericanhistory-org/ourjourneys53|台灣會館遷址回憶]] / [[works/taiwaneseamericanhistory-org/ourjourneys53-eng|English version]].
+- Per the Bay Area 台灣會館 (Taiwanese American Center) relocation memoir, Dr. 陳柳江 and his wife 洪美和 were long-standing community supporters: 洪美和 has for years run the Center's Wednesday 「心弦交響」 program, and the couple each time prepared two or three large pots of lunch (營费午餐) to feed attending 鄉親. See [[works/taiwaneseamericanhistory-org/ourjourneys53|台灣會館遷址回憶]] / [[works/taiwaneseamericanhistory-org/ourjourneys53-eng|English version]]. Re-verified 2026-09-25 (deepen-x 09232232-22): fresh ZH+EN corpus grep returns only the ourjourneys53 pair already absorbed above plus this own-record stub — no further material.
 
 ## Sources
 - [TAH #1062 encyclopedia: 1062. L. J. Chen 陳柳江 / 2016/06](https://taiwaneseamericanhistory.org/whoswho1062/)

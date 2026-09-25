@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-25
 ---
 # Chinese and Taiwanese Student Association
 
@@ -19,7 +19,7 @@ last_reviewed: 2026-09-22
 The Chinese and Taiwanese Student Association (CATSA) is a recognized student organization at the University of Colorado Boulder that brings together students from Chinese and Taiwanese backgrounds. The organization is listed by its full name on the university’s official AAPI Heritage Month page (colorado.edu/studentlife/aapi) and appears in the BuffConnect campus events listing alongside other CU Boulder cultural organizations.
 
 ## Role in the Community
-- SKIP (deepen-x slices 09171300-29 / 09180400-16, re-verified 2026-09-22 (deepen-x 09210906-25)): no corpus hits in content/works or content/articles for CATSA / Chinese and Taiwanese Student Association / CU Boulder — nothing community-authored to absorb beyond the TAH directory entry.
+- SKIP (deepen-x slices 09171300-29 / 09180400-16, re-verified 2026-09-22 / 09210906-25 / 09232232-22): zero corpus hits in content/works or content/articles for CATSA / Chinese and Taiwanese Student Association / CU Boulder — nothing community-authored to absorb beyond the TAH directory entry.
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/chinese-and-taiwanese-student-association/)

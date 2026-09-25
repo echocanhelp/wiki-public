@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-25
 ---
 # Frankie Woo (吳映龍)
 
@@ -39,7 +39,7 @@ _No filled family fields on the TAH profile._
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/frankie-woo/)
 
 ## Role in the Community
-- Profiled in the TAH Foundation Who's Who record [[works/taiwaneseamericanhistory-org/whoswho1192|1192. Frankie Woo 吳映龍 / 2016/07]] (published 2016-07-30). No further community-record facts in the corpus beyond the press-kit entry (reverified 2026-09-20, deepen-x slice 09181300-26: works/articles scan returns only the works index and this own record).
+- Profiled in the TAH Foundation Who's Who record [[works/taiwaneseamericanhistory-org/whoswho1192|1192. Frankie Woo 吳映龍 / 2016/07]] (published 2016-07-30). No further community-record facts in the corpus beyond the press-kit entry (reverified 2026-09-20 slice 09181300-26 and 2026-09-25 slice 09232232-22: ZH 吳映龍 + EN works/articles scan returns only the works index and this own record — SKIP-with-reason).
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
