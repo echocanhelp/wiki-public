@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-25
 ---
 <!-- deepen-x slice 09211507-26: verified-saturated 2026-09-22 — re-grepped works+articles for Columbia.*Taiwanese / CUTSA / 哥倫比亞大學臺灣同學會: hits are generic Columbia University mentions in taiwaneseamerican-org pieces (Justin Yang, Marilyn Fu, Salina Kuo, TACL at Columbia) plus the Baltimore-Columbia MD disambiguations already listed below — no mention of CUTSA itself. SKIP-with-reason stands. -->
 # Columbia University Taiwanese Student Association
