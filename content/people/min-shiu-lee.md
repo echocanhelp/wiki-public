@@ -43,6 +43,7 @@ last_reviewed: 2026-09-25
 
 ## Role in the Community
 - Entered the community record through the TAH story corpus: [[works/taiwaneseamericanhistory-org/237-min-shiu-lee-e6-9d-8e-e6-95-8f-e4-bf-ae|237. Min-Shiu Lee 李敏修]], published 2015-01-27 (value band B — essay/feature; bibliographic record held in the vault).
+- SKIP note (deepen-x re-verified 2026-09-25): fresh grep of works/ + articles/ for 李敏修 / Min-Shiu Lee returns only this TAH #237 record plus works/index.md — bibliographic only, no memoir text to absorb.
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/min-shiu-lee/)

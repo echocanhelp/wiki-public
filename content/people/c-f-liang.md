@@ -37,6 +37,7 @@ last_reviewed: 2026-09-22
 Corpus review 2026-09-21: fresh grep found no mentions beyond his own record below.
 - His TAH Who's Who profile is itself preserved in the story corpus as record **1492** (published 2017-01-30, value band B) — [[works/taiwaneseamericanhistory-org/whoswho1492|1492. C.F. Liang 梁昌夫 / 2017/01]]. This is the only corpus footprint found; no memoir or event records name him.
 - Re-verified 2026-09-22: fresh grep (ZH+EN) across content/works + content/articles again returned only the self-record above plus the works index; no third-party mentions; nothing further absorbable.
+- Re-verified 2026-09-25: fresh grep (梁昌夫 / C.F. Liang) again returned only [[works/taiwaneseamericanhistory-org/whoswho1492|whoswho1492]] plus the works index — SKIP, nothing new absorbable.
 
 ## Family
 
