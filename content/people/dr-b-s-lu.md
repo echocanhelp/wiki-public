@@ -32,6 +32,8 @@ last_reviewed: 2026-09-25
 - Profiled in the TAH Foundation Who's Who story corpus: [[works/taiwaneseamericanhistory-org/whos-who-2014-b-s-lu|2014. Dr. B. S. Lu 呂邦雄醫師]] (published 2018-04-26). No further narrative facts available in the corpus beyond the bibliographic record.
 - Corpus re-grep 2026-09-21: the only hit across works/ and articles/ remains this page's own TAH encyclopedia record — no memoir/community narrative to absorb (SKIP-deepened this pass).
 
+- 2026-09-25 deepen-x slice 09232232-13: re-grep (ZH+EN) confirmed zero new corpus mentions — only hits are his own encyclopedia record [[works/taiwaneseamericanhistory-org/whos-who-2014-b-s-lu|2014. Dr. B. S. Lu 呂邦雄醫師]] and the works index listing. Nothing absorbable this pass.
+
 ## Family
 
 - **Wife:** 林渝英

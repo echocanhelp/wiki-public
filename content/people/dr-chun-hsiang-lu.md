@@ -38,6 +38,8 @@ last_reviewed: 2026-09-25
 - His TAH Foundation Who's Who encyclopedia entry was published 2019-11-08, within his era 1938–2019 (entry postdates his death that year): [[works/taiwaneseamericanhistory-org/whos-who-2225-chun-hsiang-lu|2225. Dr. Chun Hsiang Lu 盧俊雄醫師]]. The entry itself is community historical record held in the corpus.
 - Corpus check (works/articles) found no further movement records naming him beyond the encyclopedia entry and index listings.
 
+- 2026-09-25 deepen-x slice 09232232-13: re-grep (ZH+EN) confirmed zero new corpus mentions — only hits are his own encyclopedia record [[works/taiwaneseamericanhistory-org/whos-who-2225-chun-hsiang-lu|2225. Dr. Chun Hsiang Lu 盧俊雄醫師]] and the works index listing. Nothing absorbable this pass.
+
 ## Sources
 - [TAH #2225 encyclopedia: 2225. Dr. Chun Hsiang Lu 盧俊雄醫師](https://taiwaneseamericanhistory.org/whos-who-2225-chun-hsiang-lu/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-chun-hsiang-lu/)
