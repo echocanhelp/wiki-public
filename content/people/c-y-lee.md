@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-25
 ---
 # C. Y. Lee (李欽勇博士)
 
@@ -39,6 +39,7 @@ _No filled family fields on the TAH profile._
 - HOLD: TAH holds a separate "C. Y. Lee" record under a different 漢名 — [[works/taiwaneseamericanhistory-org/whos-who-2020-c-y-lee|2020. Prof. C. Y. Lee 李宗穎教授]] vs this page's 李欽勇 ([[works/taiwaneseamericanhistory-org/1444-c-y-lee-e6-9d-8e-e6-ac-bd-e5-8b-87-201612|1444. C. Y. Lee 李欽勇 / 2016/12]]). Never merged.
 - 2026-09-21 corpus re-check: grep for 李欽勇 / C. Y. Lee returns only the two TAH records and the Shanghai World Expo pavilion article already cited above. No new corpus facts; both HOLDs stand.
 - 2026-09-22 second corpus re-check: identical hit set (two TAH records only). No new corpus facts; both HOLDs stand.
+- 2026-09-25 corpus re-check (slice -22): hit set unchanged (TAH #1444 李欽勇, the 2020 李宗穎 record, the Shanghai Expo article, index). Verified-saturated; both HOLDs stand.
 
 ## Sources
 - [TAH Who's Who](https://taiwaneseamericanhistory.org/person/c-y-lee/)
