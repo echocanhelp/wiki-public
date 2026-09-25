@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-25
 ---
 # Chih-Wei Logan Hsu
 
@@ -39,6 +39,7 @@ _No filled family fields on the TAH profile._
 
 - Recorded in the TAH Foundation encyclopedia as entry #1373 (2016-11-05): [[works/taiwaneseamericanhistory-org/whoswho1373|1373. Chih-Wei (Logan) Hsu / 2016/11]] — the community-historical record of his profile in the TAHS story corpus (corrected 2026-09-20: an earlier pass marked this page SKIP-for-no-hits, but the corpus record exists under the whoswho1373 slug).
 - Corpus record is bibliographic only (band B); no memoir text available for further absorb.
+- _Corpus re-check 2026-09-25 (Chih-Wei Logan Hsu / 許志威, works+articles): zero hits outside this page; the whoswho1373 record above remains the sole community record. Nothing new absorbable; no conflicts to hold._
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/chih-wei-logan-hsu/)
