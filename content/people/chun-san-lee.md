@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-25
 ---
 # Chun San Lee (李隼三博士)
 
@@ -46,3 +46,4 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+<!-- deepen-x recheck 2026-09-25 (slice 09231300-22): fresh ZH+EN grep — hits ourjourneys76(+eng) + TAH #1563, all already wikilinked on-page. Nothing new absorbable. -->

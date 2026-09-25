@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-25
 ---
 # Ching-Yu Soar Huang (黃菁瑜)
 
@@ -31,7 +31,7 @@ last_reviewed: 2026-09-22
 - California School of Professional Psychology, Alliant International University — 2015-present
 
 ## Role in the Community
-The story corpus holds one record of her: her own TAH encyclopedia entry, [[works/taiwaneseamericanhistory-org/whowwho1215|TAH #1215: Ching-Yu Soar Huang 黃菁瑜]] (published 2016-08-06), preserving her directory biography as community historical record. Re-grep 2026-09-21 and 2026-09-22: still only own record + works index; no memoirs or event reports name her beyond that entry. Note: corpus hits for similarly romanized "Ching-Yun Hu 胡瀞云" ([[works/taiwaneseamericanhistory-org/572-ching-yun-hu-e8-83-a1-e7-80-9e-e4-ba-91-201509|TAH #572]], pianist) are a **different person** — not absorbed.
+The story corpus holds one record of her: her own TAH encyclopedia entry, [[works/taiwaneseamericanhistory-org/whowwho1215|TAH #1215: Ching-Yu Soar Huang 黃菁瑜]] (published 2016-08-06), preserving her directory biography as community historical record. Re-grep 2026-09-21, 2026-09-22 and 2026-09-25: still only own record + works index; no memoirs or event reports name her beyond that entry. Note: corpus hits for similarly romanized "Ching-Yun Hu 胡瀞云" ([[works/taiwaneseamericanhistory-org/572-ching-yun-hu-e8-83-a1-e7-80-9e-e4-ba-91-201509|TAH #572]], pianist) are a **different person** — not absorbed.
 
 ## Family
 
