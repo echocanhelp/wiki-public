@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-25
 ---
 # Kenneth J. Kao (高永仁)
 
@@ -46,3 +46,4 @@ last_reviewed: 2026-09-21
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- Corpus re-grep 2026-09-25 (slice 09232232-17): fresh ZH+EN grep of works/ and articles/ returned no mentions outside the subject's own TAH record — nothing new absorbable; page held at prior state (SKIP-deepened).

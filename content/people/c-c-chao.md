@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-25
 ---
 # C. C. Chao (趙誌諄)
 
@@ -31,7 +31,7 @@ last_reviewed: 2026-09-21
 
 ## Role in the Community
 
-- Profiled in the TAH Foundation Who's Who encyclopedia: entry #1714, published 2017-07-02 — [[works/taiwaneseamericanhistory-org/whoswho1714|1714. C. C. Chao 趙誌諄 / 07/2017]]. The corpus holds this record as bibliography only (full text stays with the vault) and no memoir or article in works/articles names him, so no community narrative facts are absorbable beyond the directory roles above. (Re-grepped 2026-09-21, deepen-x 09210051-18.)
+- Profiled in the TAH Foundation Who's Who encyclopedia: entry #1714, published 2017-07-02 — [[works/taiwaneseamericanhistory-org/whoswho1714|1714. C. C. Chao 趙誌諄 / 07/2017]]. The corpus holds this record as bibliography only (full text stays with the vault) and no memoir or article in works/articles names him, so no community narrative facts are absorbable beyond the directory roles above. (Re-grepped 2026-09-21 and again 2026-09-25, deepen-x 09210051-18 / 09232232-14 — same result: SKIP, directory record only.)
 
 ## Family
 
