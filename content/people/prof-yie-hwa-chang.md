@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-25
 ---
 # Prof. Yie-Hwa Chang (張義華教授)
 
@@ -45,3 +45,6 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+## Work log
+- SKIP (deepen-x slice 09231500-7, 2026-09-25): fresh ZH+EN grep of content/works + content/articles returned only the person's own TAH Who's Who record + index (no memoir/community material beyond what is already cited); page saturated, nothing absorbable.

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-25
 ---
 # Caleb Tsai (蔡登燦)
 
@@ -39,7 +39,7 @@ _No filled family fields on the TAH profile._
 ## Role in the Community
 - Profiled in the TAH community encyclopedia: [[works/taiwaneseamericanhistory-org/whoswho980|980. Caleb Tsai 蔡登燦 / 2016-05]] (published 2016-05-08, band B).
 - Corpus record aligns with the directory roles: Presbyterian pastor serving congregations in Taiwan (台灣聖教會), the Philippines (金禧堂), and the US (三一基督教會, founding and advisory pastor).
-- No memoir or article mentions beyond his own record (re-verified 2026-09-22; only the auto-generated works/index listing matches); no conflicts to hold. SKIP: nothing absorbable in-vault.
+- No memoir or article mentions beyond his own record (re-verified 2026-09-22 and 2026-09-25, deepen-x 09231400-31; only the auto-generated works/index listing matches); no conflicts to hold. SKIP: nothing absorbable in-vault.
 
 ## Sources
 - [TAH #980 encyclopedia: 980. Caleb Tsai 蔡登燦 / 2016/05](https://taiwaneseamericanhistory.org/whoswho980/)

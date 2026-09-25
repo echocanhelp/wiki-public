@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-25
 ---
 # Chin-Hui Lee (李錦輝)
 
@@ -48,3 +48,7 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+## Role in the Community
+- Recorded in the TAH Foundation Who's Who corpus: [[works/taiwaneseamericanhistory-org/744-chin-hui-lee-e6-9d-8e-e9-8c-a6-e8-bc-9d201512|744. Chin-Hui Lee 李錦輝 2015/12]] (2015-12-20, value band B).
+- Corpus check (works + articles) returned no memoir/community narrative beyond this bibliographic record; career facts above are from the TAH Who's Who table. No conflicts found.

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-25
 ---
 # Patricia Anne Tsung (曾毓安醫師)
 
@@ -17,6 +17,7 @@ last_reviewed: 2026-09-22
 - 父親 [[people/chun-long-jerry-tsung||曾俊隆]] 同為 TAH Who's Who 收錄對象（[[works/taiwaneseamericanhistory-org/whoswho1462|1462. Chun Long (Jerry) Tsung 曾俊隆 / 2017/01]]）。
 - 個人紀錄存於 [[works/taiwaneseamericanhistory-org/whoswho1464|1464. Patricia Anne Tsung 曾毓安 / 2017/01]]（2017-01-18，band B）。
 - Corpus re-grep 2026-09-22: corpus hits limited to the works index and the subject's own record; no third-party mentions in memoirs or community works; nothing new absorbable.
+- Corpus re-grep 2026-09-25 (deepen-x slice 4): hits still only [[works/taiwaneseamericanhistory-org/whoswho1464|whoswho1464]] + works/index; father's record [[works/taiwaneseamericanhistory-org/whoswho1462|whoswho1462]] adjacent in index only. SKIP-with-reason stands.
 
 ## Identity Snapshot
 - **English:** Patricia Anne Tsung

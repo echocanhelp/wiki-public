@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-25
 ---
 # Chen Chang Lee (李振昌)
 
@@ -44,3 +44,7 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+## Role in the Community
+- Recorded in the TAH Foundation Who's Who corpus: [[works/taiwaneseamericanhistory-org/whos-who-1749-chen-chang-lee|1749. Chen Chang Lee 李振昌]] (2017-07-09, value band B).
+- Corpus check (works + articles) returned no memoir/community narrative beyond this bibliographic record; the 9th-Taiwanese-major-leaguer note is from the TAH Who's Who table. No conflicts found.

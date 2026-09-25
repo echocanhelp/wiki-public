@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-25
 ---
 # James Jean
 
@@ -43,3 +43,7 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+## Role in the Community
+- Recorded twice in the TAH Foundation Who's Who corpus: [[works/taiwaneseamericanhistory-org/46-james-jean201505|46. James Jean 2015/05]] (2015-05-29) and [[works/taiwaneseamericanhistory-org/whoswho903|993. James Jean 2016/05]] (value band B each).
+- Corpus check (works + articles) found no memoir/community narrative beyond these bibliographic records; the press-kit biography above is from the TAH Who's Who table. No conflicts found.
