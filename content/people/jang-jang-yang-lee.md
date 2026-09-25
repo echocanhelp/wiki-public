@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-25
 ---
 # Jang Jang Yang Lee (李楊娟娟)
 
@@ -43,6 +43,8 @@ Accomplishment
 - The memoir's authorship corroborates the Family section's daughter entry 李碧娥 (verification by community record).
 - 李碧娥 also appears as a new member in the 2011 美西夏令會 revival report — [[works/taiwaneseamericanhistory-org/ourjourneys265|2011年美西夏令會的回顧]] — evidence of the family's continuing community involvement.
 - Corpus re-check 2026-09-23 (deepen-x slice 09221500-14): fresh grep of works/articles returns only the daughter's memoir 想念您，媽媽 (mystories595, already absorbed) and the own TAH record — verified-saturated, no new community facts.
+
+- Corpus re-check 2026-09-25 (slice 09231000-23): fresh ZH+EN grep of works/articles returns only the already-absorbed daughter memoir [[works/taiwaneseamericanhistory-org/mystories595|想念您，媽媽]] and own encyclopedia record [[works/taiwaneseamericanhistory-org/whos-who-1917-jang-jang-yang-lee|1917. Jang Jang Yang Lee 李楊娟娟]] — verified-saturated.
 
 ## Sources
 - [TAH #1917 encyclopedia: 1917. Jang Jang Yang Lee 李楊娟娟](https://taiwaneseamericanhistory.org/whos-who-1917-jang-jang-yang-lee/)

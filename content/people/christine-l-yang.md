@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-25
 ---
 # Christine L. Yang (林壽英)
 
@@ -49,6 +49,8 @@ Christine L. Yang (林壽英) is a recurring author and donor in the TAH corpus:
 - Corpus re-grep 2026-09-21: the six works linked above are the complete set of 林壽英/Christine Yang corpus records — no additional memoir hits. Re-grep 2026-09-22 (slice 09211507-7): same set (282, collection-of-mrs-christine-yang, mystories639, awards-92, mystories584, mystories242) — still saturated.
 
 HOLD: endowed fund names "Walter M. Yang" while the TAH profile lists husband as 楊茂嘉 — presumed the same person but not auto-merged.
+
+- Re-grep 2026-09-25 (slice 09231000-23): hit set = the six works above (bibliographic records only) — saturated. The corpus index also lists [[works/taiwaneseamericanhistory-org/mystories638|638. 種菜的樂趣 / 林壽英 /06/2018]], a further community essay by the same author (bibliographic record only, no body text to absorb).
 
 ## Sources
 - [TAH #400 encyclopedia: 400. Christine L. Yang 林壽英 / 2015/05](https://taiwaneseamericanhistory.org/400-christine-l-yang-%e6%9e%97%e5%a3%bd%e8%8b%b1-201505/)
