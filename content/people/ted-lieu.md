@@ -57,6 +57,8 @@ The corpus documents Lieu's standing within the Taiwanese American community in 
 
 ## From the record
 
+- 複核（TJJ-A09240800-13, 2026-09-25）：本 slice 文章 accbf8ee04e32de8（劉雲平致函國務卿 AZ疫苗賣台, 中央社 2021-05-28）正文再驗證——subject 連結為真，無錯鏈、無虛鏈；2021-05-28 兩度致函布林肯/鮑爾條目（已含該文 wikilink）已在庫 — SKIP，已飽和。
+
 - 複核（TJJ-A09240700-5, 2026-09-25）：本 slice 文章 c6f9dbff48b39366（台美人台加人分類頁 2024-02-21 存檔）——相關條目（田土伯果樹講座／劉雲平晉陞上校／長青教室台灣話的源流心得報告）確認見於正文，劉雲平 subject 連結為真，無錯鏈、無虛鏈；對應日期事實條目（含該文 wikilink）已在庫 — SKIP，已飽和。
 - 複核（TJJ-A09240700-12, 2026-09-25）：slice 文章 097b5750fcf3091a（花蓮0403震災台館勸募報導）subject link 正文再驗證——劉雲平列名即時對台灣表達關懷的跨黨派聯邦議員之一，連結為真，無錯鏈、無虛鏈；2024-04-04 條目已在庫 — SKIP，無新材料。
 

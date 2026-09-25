@@ -50,6 +50,8 @@ _No filled family fields on the TAH profile._
 
 ## From the record
 
+- 複核（TJJ-A09240800-13, 2026-09-25）：本 slice 文章 ad7f737b9872262d（第55回世界臺灣文化論壇 廖炳惠教授論「大佛普拉斯」, 2022-10-03）正文再驗證——主講人廖炳惠（UCSD 台灣學研究中心主任，引 forthcoming Siting Postcoloniality Duke UP 2023）確認見於正文，subject 連結為真，無錯鏈、無虛鏈；2022-10-03 條目（已含該文 wikilink）已在庫 — SKIP，已飽和。
+
 - 覆核（TJJ-A09230800-14, 2026-09-24）：本 slice 文章 ad7f737b9872262d（第55回世界臺灣文化論壇 廖炳惠教授論台灣當代電影「大佛普拉斯」, 2022-10-03）正文再驗證——主講人廖炳惠（UCSD Center for Taiwan Study 主任，引 forthcoming *Siting Postcoloniality* Duke UP 2023）記述確認見於正文，subject 連結為真，無錯鏈、無虛鏈；對應日期事實條目（2022-10-03，含該文 wikilink）已在庫 — SKIP，已飽和。
 
 - 2022-10-03 — Announced as 主講人 of the 55th 世界臺灣文化論壇 (held online 2022-10-08): as director of the UCSD Center for Taiwan Studies he spoke on 台灣當代電影「大佛普拉斯」 (黃信堯 director; 2017 金馬獎 five awards) drawing on his then-forthcoming *Siting Postcoloniality* (Duke UP 2023), with 鄭良光 as 主持人 and 張復聚醫師 and 何信翰教授 as responders ([[articles/taiwanjustice-net/2025/20250906044254_第55回世界臺灣文化論壇-廖炳惠教授論台灣當代電_ad7f737b9872262d|TJJ, 2022-10-03]]).

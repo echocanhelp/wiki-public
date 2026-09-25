@@ -46,6 +46,10 @@ name_en: "Tsai Ing-wen"
 
 ## From the record
 
+- 複核（TJJ-A09240800-7, 2026-09-25）：本切片相關存檔稿正文再驗證——本頁 subject 連結為真實提及（無錯鏈、無虛鏈），含該文 wikilink 的日期事實條目已在庫 — SKIP，無新材料。
+
+- 複核（TJJ-A09240800-13, 2026-09-25）：本 slice 文章 bff4c7110803d864（台美人團體祝賀蕭美琴履任, 大紀元 2020-08-08）正文再驗證——黃河芬盼促進高層互訪使蔡英文能以總統身分訪美之記述確認見於正文，subject 連結為真，無錯鏈、無虛鏈；2020-08-08 條目（已含該文 wikilink）已在庫 — SKIP，已飽和。
+
 - 複核（TJJ-A09240400-3, 2026-09-25）：slice 文章 b63290424caedcf7（TJJ 轉載 LA Times「Law scholar nominated for Taiwan presidency」, 2015-04-16）正文再驗證——進黨提名58歲法律學者蔡英文參選2016大選、民調領先、Cornell/LSE 背景、首位女總統之記述確認見於正文，subject 連結為真，無錯鏈、無虛鏈；2015-04-16 條目（含該文 wikilink）已在庫 — SKIP，已飽和，無新材料。
 
 - 複核（TJJ-A09240400-1, 2026-09-25）：本 slice 兩篇文章 86312fe2a2feb73e（English Pages 存檔頁3, 2024-05-30 快照）、2a3226a1b19c5a46（中央社副手專稿轉載, 2023-12-08 快照）正文再驗證——「Law scholar nominated for Taiwan presidency」等 2015-04-16 英語參選報導、及賴蕭配「延續蔡英文路線」記述確認見於正文，subject 連結為真（無錯鏈、無虛鏈）；對應日期條目（2015-04-16／2023-11-20，含兩文 wikilink）已在庫 — SKIP，無新材料。
