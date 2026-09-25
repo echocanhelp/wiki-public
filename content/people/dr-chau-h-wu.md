@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-25
 ---
 # Dr. Chau H. Wu (吳照雄博士)
 
@@ -34,6 +34,8 @@ last_reviewed: 2026-09-22
 _No filled family fields on the TAH profile._
 
 ## Role in the Community
+
+<!-- DEEPEN-X RECHECK 2026-09-25: corpus grep re-run (吳照雄 / Chau H. Wu, works+articles) — hit set unchanged: own TAH #1966 bibliographic record + index only. SKIP stands. -->
 
 SKIP-with-reason (corpus-first pass 2026-09-18): corpus grep for 吳照雄 / Chau H. Wu across `works/` and `articles/` returned only his own TAH Who's Who bibliographic record [[works/taiwaneseamericanhistory-org/whos-who-1966-chau-h-wu|1966. Dr. Chau H. Wu 吳照雄博士]] (band B, bibliographic record only — full text stays in the TAH vault) and its index entry. No memoirs, letters, or community records mention him, so there are no community-side facts to absorb beyond the press-kit education/employment fields already above.
 

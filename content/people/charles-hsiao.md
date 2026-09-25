@@ -7,11 +7,13 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-25
 ---
 # Charles Hsiao (蕭俊雄)
 
-<!-- deepen-x 2026-09-20: SKIP — corpus scan found no community/memoir material beyond his own TAH Who's Who record [[works/taiwaneseamericanhistory-org/whos-charles-hsiao|1937. Charles Hsiao 蕭俊雄 /11/2017]] (band B) and the works index; nothing absorbable, no content invented. -->
+<!-- deepen-x 2026-09-20: <!-- DEEPEN-X RECHECK 2026-09-25: corpus grep re-run (蕭俊雄 / Charles Hsiao) — hits remain own TAH #1937 record + index. Note: taiwanjustice articles mentioning 蕭新煌 (sociologist) are a different person — not absorbed. SKIP stands. -->
+
+SKIP — corpus scan found no community/memoir material beyond his own TAH Who's Who record [[works/taiwaneseamericanhistory-org/whos-charles-hsiao|1937. Charles Hsiao 蕭俊雄 /11/2017]] (band B) and the works index; nothing absorbable, no content invented. -->
 
 ## Identity Snapshot
 - **English:** Charles Hsiao

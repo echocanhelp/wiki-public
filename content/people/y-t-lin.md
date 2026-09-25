@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-25
 ---
 # Y.T.LIN (林又新博士)
 
@@ -41,6 +41,8 @@ last_reviewed: 2026-09-21
 ## Family
 
 _No filled family fields on the TAH profile._
+
+<!-- DEEPEN-X RECHECK 2026-09-25: corpus grep re-run (林又新 / Y.T.LIN) — hits unchanged: own TAH #761, own article TAH #306, ourjourneys245 (18th 美東台灣人夏令會 政治組). All already absorbed into Role in the Community; nothing new. -->
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/y-t-lin/)
