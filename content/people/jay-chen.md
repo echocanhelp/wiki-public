@@ -52,3 +52,4 @@ Mt. SAC Board Chen2-Jay Chen of the Mt. SAC Board of Trustees January 13, 2016.
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 <!-- deepen-x 09221500-24: re-verify 2026-09-23 — fresh grep (陳介飛/Jay Chen, works+articles): same four work pages + own TAH #2079 + index, all absorbed in Role in the Community. Verified saturated; SKIP-no-new-facts. -->
+<!-- deepen-x slice 09231000-10: re-verify 2026-09-25 — fresh exact grep (ZH+EN, works+articles): identical hit set to prior slices, all already absorbed in Role in the Community. Verified saturated; SKIP-no-new-facts. -->

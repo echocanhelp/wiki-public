@@ -55,3 +55,4 @@ HOLD: possible relation to community organiser SueAnn Shiah 夏叔安 ([[works/t
 > SKIP re-check (deepen-x slice-16, 2026-09-22): fresh grep of content/works + content/articles again returned only his own TAH record; surname-variant hits (薛: Sheuh, Shieu) are unrelated persons. Nothing absorbable; SKIP stands.
 
 > SKIP re-check (deepen-x slice 09221500-19, 2026-09-23): fresh grep returned only own record #1359 plus SueAnn Shiah's own essays (surname match, different person); HOLD on relation stands; SKIP stands.
+<!-- deepen-x slice 09231000-10: re-verify 2026-09-25 — fresh exact grep (ZH+EN, works+articles): identical hit set to prior slices, all already absorbed in Role in the Community. Verified saturated; SKIP-no-new-facts. -->
