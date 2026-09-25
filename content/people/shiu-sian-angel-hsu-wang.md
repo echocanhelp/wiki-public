@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # Shiu-Sian Angel Hsu Wang (許秀香)
 
@@ -53,3 +53,4 @@ Shiu-Sian Angel Hsu Wang 許秀香 – History of Taiwanese American (T.A. Archi
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- Re-check (DEEPEN-X09240700-28, 2026-09-25): hits unchanged - only #88, #548 and works index. SKIP, no new material.
