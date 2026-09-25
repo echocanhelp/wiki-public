@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-25
 ---
 # C. C. Hsieh (謝正忠)
 
@@ -36,7 +36,7 @@ last_reviewed: 2026-09-23
 ## Role in the Community
 - Named in the St. Louis Taiwanese Presbyterian church history [[works/taiwaneseamericanhistory-org/ourjourneys305|305. 美國聖路易台灣人基督長老教會的歷史簡略 / 張理美 / 07/2017]]: 謝正忠與沈香園夫婦 are listed among the faithful Taiwanese-American members who remained in the St. Louis area (alongside 陳榮吾醫師黃志芳夫婦，利國柱與邱澄枝夫婦，張理美醫師，吳淑梅，翁淑貞，謝照寅張雅惠夫婦，黃鐵城鄭巧君夫婦，蘇希三何麗津夫婦，蔡國雄，王鵬男楊葆萩夫婦，王俊傑邱綉雅夫婦，翁四明陳麗琴夫婦) and supported the younger generation of the congregation. The memoir describes that congregation as multi-ethnic (台灣人、韓國人、中國人、日本人、當地美國人), worshipping in three languages with headset translation.
 - Record [[works/taiwaneseamericanhistory-org/whoswho1420|1420. C. C. Hsieh 謝正忠 / 2016/12]] — TAH Who's Who encyclopedia entry (2016-12), the primary holdings record for this person.
-- Corpus check 2026-09-21 / 2026-09-22 覆核 (deepen-x slices 25, 14): re-grepped works+articles for 謝正忠 / C. C. Hsieh — hits remain only ourjourneys305, whoswho1420, and works/index; no further absorbable material.
+- Corpus check 2026-09-21 / 2026-09-22 / 2026-09-25 覆核 (deepen-x slices 25, 14, 31): re-grepped works+articles for 謝正忠 / C. C. Hsieh — hits remain only ourjourneys305, whoswho1420, and works/index; no further absorbable material.
 
 ## Sources
 - [TAH #1420 encyclopedia: 1420.  C. C. Hsieh 謝正忠 / 2016/12](https://taiwaneseamericanhistory.org/whoswho1420/)
