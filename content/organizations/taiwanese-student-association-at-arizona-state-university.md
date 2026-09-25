@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # Taiwanese Student Association at Arizona State University
 
@@ -36,3 +36,5 @@ The Taiwanese Student Association at Arizona State University (TSA @ ASU) is a s
 <!-- deepen-x slice 09220900-29 (2026-09-23): SKIP re-verified — ASU/亞利桑那州立 corpus hits remain false positives (ASUS computer brand in Our Journeys 218 + Glowie bubble-tea piece; 'ASU' inside MAASU conference mention; Taiwan Justice news on unrelated ASU professors). No club record; nothing absorbable. -->
 
 <!-- deepen-x slice 09230400-21 (2026-09-24): SKIP re-verified — fresh grep (亞利桑那/ASU/TSA) over works/+articles/ returned ZERO real hits; no club record in corpus. Verified saturated. -->
+
+<!-- deepen-x slice 09240400-8 (2026-09-25): SKIP re-verified — fresh grep (Arizona State/亞利桑那/ASU filtered by 同學會/Student Association) hits only the works index; Arizona works pages (TAA/FAPA/NATWA/Heritage Week chapters) are different orgs. No club record; nothing absorbable. -->

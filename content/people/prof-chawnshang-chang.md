@@ -45,6 +45,7 @@ Prof. Chawnshang Chang 張傳祥教授 – History of Taiwanese American (T.A. A
 - No memoir or article corpus mentions beyond the TAH entries themselves — no additional community-activity facts to absorb.
 - Corpus re-grep 2026-09-23 (slice 09220900-25): hit set unchanged (TAH #22/#77/#2047 + harvest index only), all already cited. SKIP: saturated.
 - Corpus re-grep 2026-09-24 (slice 09230400-22): hit set unchanged (TAH #22/#77/#2047 + index only), all already cited. SKIP: saturated.
+- Corpus re-grep 2026-09-25 (slice 09240400-12): hit set unchanged (TAH #22/#77/#2047 + index only), all already cited. SKIP: saturated.
 
 ## Sources
 - [TAH #77 encyclopedia: 77. Prof. Chawnshang Chang 張傳祥教授](https://taiwaneseamericanhistory.org/77-prof-chawnshang-chang/)
