@@ -47,6 +47,7 @@ Publications: 信仰之路 (2005), 忠心管家 (2006), 活出真愛 (2007), 與
 - Held in the TAH story corpus as its own profile, "302. Matthew Tsai 蔡茂堂" (2015-02-16): [[works/taiwaneseamericanhistory-org/302-matthew-tsai-e8-94-a1-e8-8c-82-e5-a0-82201502|TAH story #302]].
 - 2016-02-17 — his retirement message 《從白袍到黑袍》(from white gown to black gown) was published in the corpus: [[works/taiwaneseamericanhistory-org/34-dr-mao-tong-tsai-retirement-message-022016|TAH #34, 退休感言]]; the same story appears as [[works/taiwaneseamericanhistory-org/mystories402|TAH story #402「牧師醫師蔡茂堂」/羅以]], recording his dual vocation as physician (白袍) and church pastor (黑袍). Consistent with the 1992–2000 TFC pastoral postings in the Employment table above.
 - Re-verified 2026-09-22 / 2026-09-23 (slice 09221400-27): fresh corpus grep (works/, articles/) returns only the records cited in this section (#302, #34 退休感言, #402 羅以, plus the works index) — no additional memoir or movement material to absorb.
+- Re-verified 2026-09-25 (slice 09231000-21): identical hit set (#302, #34 退休感言, #402 + index) — saturated.
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/matthew-tsai/)
