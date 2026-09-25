@@ -48,3 +48,4 @@ last_reviewed: 2026-09-25
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 <!-- deepen-x 09231100-17 re-check 2026-09-25: verified-saturated. Fresh ZH+EN grep of works/ + articles/ returns only own TAH bibliographic records, works/index.md, or pages already wikilinked/HOLDed in Role in the Community; no new absorbable corpus material. -->
+<!-- deepen-x slice 09250400-20 re-check 2026-09-25: still saturated — grep returns only ourjourneys74-eng, whoswho1391, whos-who-1800 (all already linked/HOLDed) + works/index.md. -->
