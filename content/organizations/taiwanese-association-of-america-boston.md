@@ -28,7 +28,7 @@ The Taiwanese Association of America Boston (波士頓台灣同鄉會) is the Bo
 - 2019-12-14：波士頓分會在哈佛大學（Harvard Univ./Boston）主辦「民主傳承 – 海外台灣人的故事 / The Stories of Taiwanese Americans and Democratic Taiwan」故事收集活動（[[works/taiwaneseamericanhistory-org/25-the-stories-of-taiwanese-americans-and-democratic-taiwan-e6-b0-91-e4-b8-bb-e5|Our Journeys #25]]），屬海外台灣人故事收集計畫的地方場次。
 - 分會 directory 紀錄另見 [[works/taiwaneseamericanhistory-org/boston-chapter-taa|TAH: TAA Boston Chapter 全美台灣同鄉會波士頓分會 (2015)]]；分會自述史（2018）見 [[works/taiwaneseamericanhistory-org/history-of-taa-boston|48. History of TAA / Boston Chapter 波士頓分會簡介 (2018)]]（書目紀錄，全文在 TAH 端）。
 
-_Corpus re-grep 2026-09-22 (slice 09211500-32) / 2026-09-23 (slice 09221000-24) / 2026-09-24 (slice 09230500-28): hits Our Journeys #338、2015年會、2019會訊、2021二二八系列、2025二二八75周年影展、2015分會紀錄、2019-12-14哈佛故事收集場次 — 全部已吸收於上列條目。本輪新增掛鏈分會自述史 #48（僅書目紀錄，無敘述全文可吸收）；其餘命中 [[works/taiwaneseamericanhistory-org/natwa-boston-chapter|NATWA 波士頓分會]]、[[works/taiwaneseamericanhistory-org/boston-chapter-tap|TAP 台美菁英協會波士頓分會]] 為他團體（婦女會／菁英協會）非本分會。無衝突。_
+_Corpus re-grep 2026-09-22 (slice 09211500-32) / 2026-09-23 (slice 09221000-24) / 2026-09-24 (slice 09230500-28) / 2026-09-25 (slice 09240500-18): hits Our Journeys #338、2015年會、2019會訊、2021二二八系列、2025二二八75周年影展、2015分會紀錄、2019-12-14哈佛故事收集場次 — 全部已吸收於上列條目。本輪新增掛鏈分會自述史 #48（僅書目紀錄，無敘述全文可吸收）；其餘命中 [[works/taiwaneseamericanhistory-org/natwa-boston-chapter|NATWA 波士頓分會]]、[[works/taiwaneseamericanhistory-org/boston-chapter-tap|TAP 台美菁英協會波士頓分會]] 為他團體（婦女會／菁英協會）非本分會。0925 本輪自吳木盛 memoir [[works/taiwaneseamericanhistory-org/ourjourneys76|Our Journeys #76]] 吸收創始分會與《望春風》遷波士頓條目（見上）。無衝突。_
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-association-of-america-boston/)

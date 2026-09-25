@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # Simon Shiao (蕭世杰)
 
@@ -37,6 +37,7 @@ Dr. Simon Shiao is a versatile performer who holds the distinction of having per
 - Community record highlights: performed at Carnegie Hall in three capacities — recitalist, string quartet, and with orchestra; violin professor and chair of strings at the University of North Florida.
 - No first-person memoir or movement-activity mentions found elsewhere in the corpus (searched works/articles for 蕭世杰 / Simon Shiao, 2026-09-17, again 2026-09-21 slice 09201503-3, and again 2026-09-22 slice 09211507-9: only musician385/whoswho1518 already absorbed) — verified saturated.
 - Corpus re-grep 2026-09-24 (slice 09230400-31): hit set unchanged — only [[works/taiwaneseamericanhistory-org/musician385|musician385]] / [[works/taiwaneseamericanhistory-org/whoswho1518|whoswho1518]] plus the works index. Verified saturated.
+- Corpus re-grep 2026-09-25 (slice 09240500-29): hit set unchanged. Verified saturated; SKIP-with-reason: no new corpus material.
 
 ## Family
 

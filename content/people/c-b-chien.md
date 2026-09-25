@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # C. B. Chien (簡錦標)
 
@@ -52,3 +52,4 @@ _No filled family fields on the TAH profile._
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - Re-grep 2026-09-24 (slice 09230500-32): fresh ZH+EN grep returns the same five memoir/roster records + TAH #1405 — all already absorbed. Verified-saturated, no conflicts.
+- Re-grep 2026-09-25 (slice 09240500-26): fresh ZH+EN grep returns the same five memoir/roster records (ourjourneys311, 186, 186-eng, 272, 272-eng) + TAH #1405 — 1978 會長, TACL 籌備委, and 1985 founding board all already absorbed. Verified-saturated, no conflicts.

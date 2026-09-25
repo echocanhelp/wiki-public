@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # Prof. S. S. Huang (黃壽山教授)
 
@@ -40,7 +40,7 @@ last_reviewed: 2026-09-24
 - **1974 Formosa Cup softball (primary memoir record):** Roger Liu's band-A memoir [[works/taiwaneseamericanhistory-org/349-our-journeys|349. 1974年 多倫多壘球賽追憶]] (TAHS corpus, published 2019-07-02) records the New York team that flew to the 1974 North American Formosa Cup in Toronto; the roster lists 黃壽山 among the outfielders (外野手: 彭良治、林仲彥、董明欽、黃壽山). The team grew out of the Friday-night gathering at 恩惠教會 (Winfield Church) in Queens, where Taiwanese grad students played sports and socialized. Memoir context (NY-area Taiwan university alumni ballplayers, early 1970s) is consistent with 黃壽山 being in the U.S. for his Ohio State J.S.D. (1970–1973); identity not independently confirmed.
 - **Who's Who record:** TAH encyclopedia entry [[works/taiwaneseamericanhistory-org/whos-who-2086-s-s-huang|2086. Prof. S. S. Huang 黃壽山教授]] (published 2018-04-03).
 - **Disambiguation:** the work page for #2086 also lists [[people/s-s-huang|S.S. Huang (黃申生)]] — physician, 1923–2009 — as a subject; his own entry [[works/taiwaneseamericanhistory-org/whoswho2109|2109. S.S. Huang 黃申生]] shares the initials. These are two different people who share "S. S. Huang". Do not merge.
-- Re-verified 2026-09-20, 2026-09-21 (slice 09201400-28), 2026-09-22 (slice 09211400-27), 2026-09-23 (slice 09220900-28) and 2026-09-24 (slice 09230400-26): corpus re-grep hit set = [[works/taiwaneseamericanhistory-org/whos-who-2086-s-s-huang|#2086]] + [[works/taiwaneseamericanhistory-org/349-our-journeys|349 memoir]] + the 黃申生 same-initials entry — no new memoir, letter, or event mention of 黃壽山. SKIP: nothing further absorbable.
+- Re-verified 2026-09-20, 2026-09-21 (slice 09201400-28), 2026-09-22 (slice 09211400-27), 2026-09-23 (slice 09220900-28) , 2026-09-24 (slice 09230400-26) and 2026-09-25 (slice 09240500-26): corpus re-grep hit set = [[works/taiwaneseamericanhistory-org/whos-who-2086-s-s-huang|#2086]] + [[works/taiwaneseamericanhistory-org/349-our-journeys|349 memoir]] + the 黃申生 same-initials entry — no new memoir, letter, or event mention of 黃壽山. SKIP: nothing further absorbable.
 
 ## Sources
 - [TAH #2086 encyclopedia: 2086. Prof. S. S. Huang 黃壽山教授](https://taiwaneseamericanhistory.org/whos-who-2086-s-s-huang/)
