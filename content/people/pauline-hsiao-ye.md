@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-25
 ---
 # Pauline Hsiao Ye (蕭百忍)
 
@@ -38,7 +38,7 @@ _No filled family fields on the TAH profile._
 - 2016-01-31 — TAHS/TAH Foundation 公開其百科條目：[[works/taiwaneseamericanhistory-org/791-pauline-hsiao-ye-e8-95-ad-e7-99-be-e5-bf-8d-201601|791. Pauline Hsiao Ye 蕭百忍]]（參考記錄；條目僅存書目，暫無可吸收的社群敘述）
 
 ## Role in the Community
-- SKIP (deepen-x slice 09180400-16, 2026-09-19; re-grepped 2026-09-21 slice 09191200-12 and 2026-09-22 slice 09210500-26 — still no new hits): corpus re-grep returned only the subject's own TAH entry [[works/taiwaneseamericanhistory-org/791-pauline-hsiao-ye-e8-95-ad-e7-99-be-e5-bf-8d-201601|791. Pauline Hsiao Ye 蕭百忍]] and the works index — no community-authored narrative to absorb.
+- SKIP (deepen-x slice 09180400-16, 2026-09-19; re-grepped 2026-09-21, 2026-09-22, and 2026-09-25 slice 09231400-4 — still no new hits): corpus re-grep returned only the subject's own TAH entry [[works/taiwaneseamericanhistory-org/791-pauline-hsiao-ye-e8-95-ad-e7-99-be-e5-bf-8d-201601|791. Pauline Hsiao Ye 蕭百忍]] and the works index — no community-authored narrative to absorb.
 
 ## Sources
 - [TAH #791 encyclopedia: 791. Pauline Hsiao Ye 蕭百忍/ 2016/01](https://taiwaneseamericanhistory.org/791-pauline-hsiao-ye-%e8%95%ad%e7%99%be%e5%bf%8d-201601/)

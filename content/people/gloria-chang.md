@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-25
 ---
 # Gloria Chang
 
@@ -32,7 +32,9 @@ last_reviewed: 2026-09-22
 
 ## Role in the Community
 
-Corpus material positions Gloria Chang within the 張信行／黃美星 family record of the Taiwanese American community in Southern California: her mother's Our Journeys essay documents the 台灣會館 (Taiwan Clubhouse) campaign, and both parents are filed in the TAH Foundation collection. Gloria's own recorded role is as an educator (Warwick Elementary teacher, TAH Who's Who). No first-person corpus memoir found for her directly. Corpus re-scan 2026-09-22 (slice 11): hits limited to her own TAH record who830-gloria-chang + index digest; no new material.
+Corpus material positions Gloria Chang within the 張信行／黃美星 family record of the Taiwanese American community in Southern California: her mother's Our Journeys essay documents the 台灣會館 (Taiwan Clubhouse) campaign, and both parents are filed in the TAH Foundation collection. Gloria's own recorded role is as an educator (Warwick Elementary teacher, TAH Who's Who). No first-person corpus memoir found for her directly. Corpus re-scan 2026-09-22 (slice 11) and 2026-09-25 (slice 09231400-4): hits limited to her own TAH record who830-gloria-chang, the linked parental records, and the index digest; no new material on Gloria herself.
+
+Note (2026-09-25): [[works/taiwaneseamericanhistory-org/ourjourneys2|2. 《台灣之音》的回顧 / 張富雄]] mentions a "Sister Mary Gloria" — but that is 張富雄's eldest daughter (a nun), NOT this subject, whose father is 張信行醫師 (see Family). HOLD: name collision only, do not merge.
 
 
 ## Sources

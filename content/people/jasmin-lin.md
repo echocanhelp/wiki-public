@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-25
 ---
 # Jasmin Lin (林允白)
 
@@ -32,6 +32,8 @@ last_reviewed: 2026-09-22
 - TAHS/TAH Foundation holds two archival records of Lin as a Taiwanese American violinist: [[works/taiwaneseamericanhistory-org/479-jasmin-lin-e6-9e-97-e5-85-81-e7-99-bd-201507|TAH #479 (2015-07-05)]] and [[works/taiwaneseamericanhistory-org/230-jasmine-lin-e6-9e-97-e5-85-81-e7-99-bd-violinist-201705|TAH #230, listed as a Violinist (2017/05)]].
 - Both records are bibliographic (band B); full text stays in the TAH vault.
 - HOLD: name-romanization conflict — record #479 spells her "Jasmin Lin", record #230 spells her "Jasmine Lin" (same 林允白).
+- HOLD: publication-date conflict — record #230's title says 2017/05 but the works index dates it 2015-07-05; not merged.
+- Corpus re-sweep 2026-09-25 (slice 14): hits remain only #479, #230 and the index; no memoir or article mentions — nothing further absorbable.
 
 ## Family
 

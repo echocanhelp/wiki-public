@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-25
 ---
 # Albert G. Chang (章錦華)
 
@@ -35,7 +35,7 @@ _No filled family fields on the TAH profile._
 
 ## Role in the Community
 - Community service record on file: **President, Taiwanese American Chamber of Commerce** (from the community-roles column of his TAH profile; see Employment above).
-- Corpus scan (works/ + articles/) found only his own Who's Who bibliographic record — [[works/taiwaneseamericanhistory-org/whos-who-2069-albert-g-chang|TAH #2069]] (published 2018-03-23) — no memoir or community-item mentions to absorb.
+- Corpus scan (works/ + articles/) found only his own Who's Who bibliographic record — [[works/taiwaneseamericanhistory-org/whos-who-2069-albert-g-chang|TAH #2069]] (published 2018-03-23) — no memoir or community-item mentions to absorb. Re-swept 2026-09-25 (slice 14): hit set unchanged — no new corpus facts; community role stays President, Taiwanese American Chamber of Commerce.
 
 ## Sources
 - [TAH #2069 encyclopedia: 2069. Albert G. Chang 章錦華](https://taiwaneseamericanhistory.org/whos-who-2069-albert-g-chang/)

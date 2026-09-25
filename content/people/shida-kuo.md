@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-25
 ---
 # Shida Kuo (郭旭達)
 
@@ -34,7 +34,7 @@ Accomplishment
 ## Role in the Community
 - Held in the Taiwanese American historical record as a TAH Foundation Who's Who entry (TAH #1817), documented in the movement's own archive rather than press material.
 - Community archival record: [[works/taiwaneseamericanhistory-org/whos-who-1817-shida-kuo|1817. Shida Kuo 郭旭達]] (published 2017-08-06), cross-referencing [[organizations/tah-foundation|TAH Foundation]].
-- Corpus record corroborates the NTNU 1982 / NYU 1992 ceramics-training path and the NYU adjunct appointment above; no corpus facts contradict the existing text.
+- Corpus record corroborates the NTNU 1982 / NYU 1992 ceramics-training path and the NYU adjunct appointment above; no corpus facts contradict the existing text. Re-swept 2026-09-25 (slice 14): hits remain only the own Who's Who record + index; nothing further absorbable.
 
 ## Family
 
