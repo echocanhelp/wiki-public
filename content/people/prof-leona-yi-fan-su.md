@@ -40,6 +40,7 @@ Prof. Leona Yi-Fan Su 蘇怡帆教授 – History of Taiwanese American (T.A. Ar
 - Corpus re-grep 2026-09-21 (slice 27, "Leona / Yi-Fan Su / 蘇怡帆" across works/ and articles/): the only substantive match is her own TAH work record above; remaining hits are index lines and false positives (Whos-Yi-Fang Yau, Linda Chen). No new absorbable material — SKIP content-deepen.
 - Corpus re-grep 2026-09-22 (slice 09220700-18): matches remain her own record plus false positives (Leona Chen 陳文羿, "Sunflower", Leonard Weinglass) and index lines — no new absorbable material.
 - Corpus re-grep 2026-09-23 (slice 09221500-29): hit set unchanged — her own record [[works/taiwaneseamericanhistory-org/whos-who-1950-yi-fan-su|whos-who-1950]] plus false positives (Leona Chen 陳文羿, whose FAHR memoir surfaces on the "Leona" match) and index lines. No new absorbable material; SKIP content-deepen.
+- Corpus re-grep 2026-09-25 (slice 09231000-8): hit set unchanged — her own record [[works/taiwaneseamericanhistory-org/whos-who-1950-yi-fan-su|whos-who-1950]] plus index lines. Verified saturated, SKIP content-deepen.
 
 ## Sources
 - [TAH #1950 encyclopedia: 1950. Prof. Leona Yi-Fan Su 蘇怡帆教授](https://taiwaneseamericanhistory.org/whos-who-1950-yi-fan-su/)

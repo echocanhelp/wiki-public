@@ -39,6 +39,7 @@ _No filled family fields on the TAH profile._
 - TAH encyclopedia entry on file: [[works/taiwaneseamericanhistory-org/whos-who-1875-henry-y-wu|1875. Dr. Henry Y. Wu 吳銀鏤醫師]] (published 2017-09-04, band B).
 - See also [[people/ye-ming-wu|吳怡明]] and [[organizations/taiwanese-american-center-of-northern-california|北加州台灣會館]].
 - Corpus re-check 2026-09-23 (slice 09221500-22): fresh greps for 吳銀鏤 / Henry Y. Wu across works + articles return only the 台灣會館 memoirs (OJ#24, OJ#24-eng, OJ#53-eng) and his own encyclopedia entry #1875 — all facts already absorbed above; no new community facts, SKIP-deepen.
+- Corpus re-check 2026-09-25 (slice 09231000-8): fresh greps 吳銀鏤/Henry Y. Wu return only the 台灣會館 memoirs (OJ#24, OJ#24-eng, OJ#53-eng) and encyclopedia #1875 — all facts already absorbed. Verified saturated, SKIP content-deepen.
 
 ## Sources
 - [TAH #1875 encyclopedia: 1875. Dr. Henry Y. Wu 吳銀鏤醫師](https://taiwaneseamericanhistory.org/whos-who-1875-henry-y-wu/)

@@ -44,3 +44,4 @@ _No filled family fields on the TAH profile._
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 <!-- deepen-x 09220700-24: verified-saturated. Corpus re-scan (works/ + articles/) fresh 2026-09-22: hits are record 620, taiwanjustice column articles already wikilinked above, and the MANIFEST; the 蔣/江 conflict HOLD stands; no new material. -->
 <!-- deepen-x 09221500-24: re-verify 2026-09-23 — fresh grep (江建祥/Max C. Chiang/Max Chiang, works+articles): same hits (record 620, taiwanjustice columns already wikilinked, MANIFEST, index). Verified saturated; 蔣/江 HOLD stands; SKIP-no-new-facts. -->
+<!-- deepen-x 09231000-9: re-verify 2026-09-25 — fresh grep (江建祥/Max C. Chiang, works+articles): hit set identical (record 620, taiwanjustice columns, MANIFEST, index). Verified saturated; SKIP-no-new-facts; 蔣/江 HOLD stands. -->

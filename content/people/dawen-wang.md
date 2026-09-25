@@ -38,6 +38,7 @@ _No filled family fields on the TAH profile._
 - HOLD: conflict — the TA.org profile describes a singer-songwriter who debuted his first Mandarin album on Christmas Eve 2013 via Universal Music, while the TAH Who's Who record places this 王大文 as era-1981 Boston/MA. Same-name identity (1980s Dawen Wang vs. later-generation artist) unresolved; do not merge biographies.
 - Re-verified 2026-09-22 (deepen-x slice 25): fresh grep of content/works + content/articles returns only whoswho1305, the TA.org Dawen article cluster, and the harvest index — all already linked; nothing new absorbable.
 - Re-verified 2026-09-23 (slice 09221500-29): one additional cross-mention located — [[works/taiwaneseamerican-org/taiwaneseamerican-org-ho-chie-tsai-featured-on-taiwan543-net|Ho Chie Tsai featured on Taiwan543.net]] cites Dawen among Taiwan543's featured artists, corroborating his coverage in the TA.org/Taiwan543 ecosystem. Same-name HOLD (1981 Boston/MA record vs. Universal Music singer-songwriter) unchanged; no new biographical material.
+- Re-verified 2026-09-25 (slice 09231000-8): fresh grep 王大文/Dawen Wang returns whoswho1305, the harvest index, and the TA.org Dawen article cluster — all already linked; same-name HOLD unchanged. Verified saturated, SKIP content-deepen.
 
 ## Sources
 - [TAH #1305 encyclopedia: 1305.  Dawen Wang 王大文 / 2016/10](https://taiwaneseamericanhistory.org/whoswho1305/)

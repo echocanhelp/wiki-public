@@ -38,6 +38,7 @@ last_reviewed: 2026-09-25
 
 - Re-verified 2026-09-21, 2026-09-22 (slice 09220700-24): fresh corpus grep returns only the three works already cited above (ourjourneys-138 roster, whoswho1237, 50948). The 1995 roster line in ourjourneys-138 lists 謝博六 directly under President Ming H. Chow 周明宏, 1996 under 林英侯/陳桂鈐 — roster column title still not reproduced in our copy, HOLD retained. No new third-party memoir material this pass.
 - Re-verified 2026-09-23 (slice 09221500-29): fresh grep returns the same three works. Roster block read directly this pass: the 1995 entry lists Ming H. Chow 周明宏 then Paul B. Hshieh 謝博六, with 1996 following — column title still absent from our copy of the roster, so his exact office beyond the president line remains HOLD. No new material.
+- Re-verified 2026-09-25 (slice 09231000-8): fresh grep 謝博六/Hshieh returns only the three cited works (ourjourneys-138 roster, whoswho1237, 50948); roster column title still absent, HOLD retained. Verified saturated, SKIP content-deepen.
 
 ## Family
 
