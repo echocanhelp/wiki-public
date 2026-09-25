@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # John Chen (陳榮儒)
 
@@ -60,3 +60,6 @@ last_reviewed: 2026-09-24
 ## Corpus re-grep (2026-09-24, deepen-x slice-09230317-24)
 - DEEPENED: two previously-unlinked corpus records absorbed above — 901.《FAPA與國會外交》(2004/05) and 123.《明州台美人百年大事》中文版 (1991 FAPA 總會長演講與郭倍宏同場)。
 - Disambiguation: grep hits [[works/taiwaneseamericanhistory-org/our-journeys-380|380. Irvine教會槍擊案]] (Dr. John **Cheng** 鄭姓醫師, victim) and [[works/taiwaneseamericanhistory-org/whoswho1725|1725. John Chen 陳耀光]] (different person) are English-name collisions only — not linked.
+
+## Corpus re-grep (2026-09-25, deepen-x slice-09240317-4)
+- SKIP: fresh grep 陳榮儒 / John Chen (works+articles) — hit set identical to records already wikilinked above (ourjourneys228、ourjourneys123/123-eng、ourjourneys197、167、901、687) + John Cheng 誤配頁；無新語料。

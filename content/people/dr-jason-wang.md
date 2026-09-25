@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # Dr. Jason Wang (王智弘)
 
@@ -62,3 +62,4 @@ _No filled family fields on the TAH profile._
 
 - Corpus re-grep 2026-09-21 (slice 09201400-24): grep 王智弘 / Jason Wang across content/works + content/articles returns exactly the records already linked above (publications13, whos-who-281, 1281, the 王凱傑 disambiguation, the Pew statement) plus the works index. No new absorbable community facts; saturated.
 - Corpus re-grep 2026-09-22 (slice 09220800-13): hit set identical (publications13, whos-who-281, 1281, whos-who-2011 王凱傑 disambiguation, Pew statement, works index). SKIP, verified-saturated.
+- Corpus re-grep 2026-09-25 (slice 09240317-7): hit set identical (publications13, whos-who-281, 1281, whos-who-2011 王凱傑 disambiguation, Pew statement, works index). Nothing new absorbable; SKIP, verified-saturated.

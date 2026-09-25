@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # American Citizens for Taiwan (西雅圖美台會)
 
@@ -38,3 +38,4 @@ American Citizens for Taiwan (ACT) is a U.S. nonprofit organization composed of 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- Corpus check 2026-09-25 (slice 09240317-4): fresh re-grep (EN + 西雅圖美台會, works+articles) — hit set identical to the records already wikilinked above + index only; no new absorbable material — SKIP (saturated).
