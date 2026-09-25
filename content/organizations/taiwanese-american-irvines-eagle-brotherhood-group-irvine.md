@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # Taiwanese-American Irvine’s Eagle Brotherhood Group -Irvine (台美人)
 
@@ -34,3 +34,4 @@ The Taiwanese-American Irvine’s Eagle Brotherhood Group is a fraternity organi
 - Re-verify 2026-09-22 (slice 09220500-26): fresh grep 老鷹兄弟姐妹會/Eagle Brotherhood across works+articles returns only the TAH #8 directory entry and the works index — still SKIP, nothing absorbable.
 - Re-verify 2026-09-23 (slice 09221300-30): identical hit set (TAH #8 directory entry + works index only) — still SKIP, nothing absorbable.
 - Re-verify 2026-09-24 (slice 09230800-26): fresh grep 老鷹兄弟姐妹會/Eagle Brotherhood across works+articles returns only the TAH #8 directory entry and the works index — still SKIP, nothing absorbable.
+- Re-verify 2026-09-25 (slice 09240800-20): fresh grep 老鷹兄弟姐妹會/Eagle Brotherhood returns only the TAH #8 directory entry + works index — still SKIP, nothing absorbable.

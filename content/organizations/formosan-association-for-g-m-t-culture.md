@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: reviewed
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # FORMOSAN ASSOCIATION FOR G.M.T. CULTURE (台灣人牛罵頭文史拹會)
 
@@ -25,6 +25,7 @@ The Formosan Association for G.M.T. Culture is a Los Angeles-based organization 
 - Re-grep 2026-09-22 (slice 09211500-25): hit set unchanged (own TAH record, index, unrelated TJJ news articles matching the G.M.T. abbreviation) — verified-saturated, SKIP-with-reason.
 - Re-grep 2026-09-23 (slice 09221000-21): hit set unchanged (own TAH record + index only) — verified-saturated, SKIP-with-reason.
 - Re-grep 2026-09-24 (slice 09230800-27): hit set unchanged (own TAH record, index, unrelated 楊嘉猷 memoir matching 牛罵頭 and TJJ news items matching the G.M.T. abbreviation) — verified-saturated, SKIP-with-reason.
+- Re-grep 2026-09-25 (slice 09240800-20): hit set unchanged (own TAH record, index, unrelated 楊嘉猷 memoir matching 牛罵頭 and TJJ news items matching the G.M.T. abbreviation) — verified-saturated, SKIP-with-reason.
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/formosan-association-for-g-m-t-culture/)

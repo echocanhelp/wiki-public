@@ -42,6 +42,7 @@ Evonne Hsu is a Taiwanese American Mandopop singer. Hsu is managed by Music Nati
 - Corpus re-scan 2026-09-23 (deepen-x slice 09221400-13): fresh grep of works/ + articles/ for 許慧欣/Evonne Hsu — hit set unchanged (the three cited works + works index only). SKIP-deepen; nothing absorbable; HOLD on album-count drift stands.
 
 - Corpus re-scan 2026-09-24 (deepen-x slice 09230800-23): fresh grep of works/ + articles/ — hit set unchanged (TAH #90, #137, back-stage write-up, works index). SKIP-deepen; nothing absorbable; HOLD on album-count drift stands.
+- Corpus re-scan 2026-09-25 (deepen-x slice 09240800-13): fresh grep of works/ + articles/ — hit set unchanged (TAH #90, #137, back-stage write-up, works index). SKIP-deepen; nothing absorbable; HOLD on album-count drift stands.
 
 ## Sources
 - [TAH #90 encyclopedia: 90. Evonne Hsu 許慧欣, Singer/2014/12](https://taiwaneseamericanhistory.org/90-evonne-hsu-%e8%a8%b1%e6%85%a7%e6%ac%a3-singer/)
