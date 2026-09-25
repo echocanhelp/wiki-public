@@ -46,6 +46,7 @@ last_reviewed: 2026-09-25
 - Corpus re-check (2026-09-21, slice 09210317-18): fresh grep across works + articles returns only the records already absorbed above (own entry #871, works index) — no new community facts to absorb.
 - Corpus re-scan 2026-09-22 (deepen-x slice 09220500-27): fresh grep (Michellee / 陳美真理) — hit set unchanged (#871 + works index only). SKIP stands.
 - Corpus re-scan 2026-09-25 (deepen-x slice 09230900-27): fresh grep (Michellee / 陳美真理) — hit set identical (#871 + works index); verified saturated, SKIP content-deepen.
+- Corpus re-scan 2026-09-25 (deepen-x slice 09250317-24): fresh grep (Michellee / 陳美真理) across works + articles — hit set unchanged (#871 + works index only); saturated, no new facts.
 
 ## Sources
 - [TAH #871 encyclopedia: 871. Michellee Shaw Chen 陳美真理/ 2016/03](https://taiwaneseamericanhistory.org/whos871-michellee-shaw-chen/)
