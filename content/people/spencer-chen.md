@@ -39,6 +39,7 @@ Vice President, Legal/Assistant General Counsel & Secretary
 - President of the Taiwanese American Foundation (TAF), per the TAH Who's Who employment record; see also [[organizations/taiwanese-american-foundation|Taiwanese American Foundation]].
 - His own TAH encyclopedia record is held in the corpus: [[works/taiwaneseamericanhistory-org/whos-who-1957-spencer-chen|1957. Spencer Chen]] (2017-12-03).
 - Re-grep 2026-09-21 (slice 09201500-12) / 2026-09-23 (slice 09221000-24): corpus hits unchanged — the TAF history he co-authored ([[works/taiwaneseamericanhistory-org/ourjourneys33-eng|33. 台美協進會的歷史 / History of Taiwanese American Foundation]], byline Charlie Huang & Spencer Chen; he appears in its leader roster) and his own record above — both already absorbed. No new material, no conflicts.
+- Re-grep 2026-09-25 (slice 09230900-22): hits unchanged — own record [[works/taiwaneseamericanhistory-org/whos-who-1957-spencer-chen|1957. Spencer Chen]] and the TAF history he co-authored, both already absorbed; verified saturated; SKIP-with-nothing-absorbable.
 
 ## Family
 

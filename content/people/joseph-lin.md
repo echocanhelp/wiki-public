@@ -50,3 +50,4 @@ _No filled family fields on the TAH profile._
 - HOLD: corpus record [[works/taiwaneseamericanhistory-org/1236-joseph-lin-201608|TAH #1236 「Joseph Lin 林永青」, 2016-08]] is a *different* Joseph Lin (林永青, not 林以信) — not absorbed.
 - Corpus re-grep 2026-09-22 (slice 09211507-6), ZH 林以信 + EN: hit set unchanged (own profiles #299/#650, winners31, the 林永青 HOLD record, works index) — verified saturated; nothing new absorbable.
 - Corpus re-grep 2026-09-23 (slice 09221000-31): hit set again unchanged (#299/#650, winners31, #1236 林永青 HOLD, works index) — verified saturated; SKIP-with-nothing-absorbable.
+- Corpus re-grep 2026-09-25 (slice 09230900-22): hit set again unchanged (#299/#650, winners31 總統學者獎 1996, #1236 林永青 HOLD, works index) — verified saturated; SKIP-with-nothing-absorbable.
