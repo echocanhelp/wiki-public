@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-25
 ---
 # H. N. Tong (童海南)
 
@@ -37,6 +37,7 @@ _No filled family fields on the TAH profile._
 - Author of 《平原區台灣人秋令會的介紹》 (06/2017, band A community history), the movement's key memoir on the Plains Region Taiwanese American camp meeting: conceived 1983 in Manhattan, Kansas by 范良正、楊景文、刁明華、黃金來, propelled by 徐福棟's proposal, organized by 林啓東, first held 1985 at Rock Spring (4-H Club) in Manhattan, KS across six plains states — with the founding theme 台灣人「大家來，來做堆」 and a deliberate break from Chinese-identified gatherings. See [[works/taiwaneseamericanhistory-org/ourjourneys296|平原區台灣人秋令會的介紹]] and [[organizations/manhattan-ks-chapter-taa|Manhattan KS chapter TAA]].
 - Attended the 1991 camp meeting at Des Moines, Iowa, per the year-by-year roster in [[works/taiwaneseamericanhistory-org/our-journeys-351|Our Journeys 351]].
 - His encyclopedia record is held in the corpus at [[works/taiwaneseamericanhistory-org/whoswho1631|TAH #1631]].
+- Corpus re-grep 2026-09-25 (deepen-x 09231300-1): hit set unchanged (whoswho1631, ourjourneys296, our-journeys-351, index); all corpus material already absorbed above. Saturated.
 
 ## Sources
 - [TAH #1631 encyclopedia: 1631. H. N. Tong 童海南 / 2017/05](https://taiwaneseamericanhistory.org/whoswho1631/)

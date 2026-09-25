@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-25
 ---
 # Davy Liu (劉大偉)
 
@@ -45,6 +45,7 @@ _No filled family fields on the TAH profile._
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/davy-liu/)
 
 <!-- deepen-x 09210831-29: re-verify 2026-09-22 — fresh grep 'Davy Liu|劉大偉': only own record whoswho1523 + index. Nothing new absorbable. -->
+<!-- deepen-x 09231300-1: re-verify 2026-09-25 — fresh grep 'Davy Liu|劉大偉' works/+articles/: hit set unchanged (own record whoswho1523 + index only). Still SKIP-with-reason. -->
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
