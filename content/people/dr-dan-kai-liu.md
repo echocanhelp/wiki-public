@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # Dr. Dan-Kai Liu (劉登凱博士)
 
@@ -56,3 +56,4 @@ Dr. Liu is a leader in the Southern California Taiwanese technical community, se
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- Corpus re-grep 2026-09-25 (slice 09240700-20): hit set identical to all prior passes; every hit already absorbed above. SKIP-with-reason: no new absorbable material (verified-saturated).

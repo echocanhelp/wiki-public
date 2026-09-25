@@ -44,6 +44,8 @@ _No filled family fields on the TAH profile._
 - Corpus re-check 2026-09-24 (slice 09230900-9): fresh grep 高銘益/George Kao returns the identical hit set (whoswho-2241, works/index, 廖清山 TJJ column) — all already absorbed; verified saturated, SKIP-no-new-facts.
 ## From the record
 
+- 覆核（TJJ-A09240600-1, 2026-09-25）：本 slice 文章 cbf185d4e8137928（一顆難以忘懷的台灣心(廖清山 2017-09-19)）正文再驗證——主體連結為真實提及（無錯鏈、無虛鏈），對應日期事實條目（含該文 wikilink）已在庫 — SKIP，無新材料。
+
 - 覆核（TJJ-A09230500-1, 2026-09-24）：本 slice 文章 cbf185d4e8137928（一顆難以忘懷的台灣心(廖清山)） 正文再驗證——主體連結為真實提及（無錯鏈、無虛鏈），對應日期事實條目（含該文 wikilink）已在庫 — SKIP，無新材料。
 
 - 覆核（TJJ-A09171100-2, 2026-09-24）：本 slice 文章 cbf185d4e8137928（一顆難以忘懷的台灣心） 主體連結對照正文再驗證——連結為真實提及（無錯鏈、無虛鏈），對應日期事實條目（含該文 wikilink）已在庫 — SKIP，無新材料。

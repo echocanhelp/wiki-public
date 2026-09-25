@@ -52,3 +52,4 @@ _No filled family fields on the TAH profile._
 
 Corpus re-check 2026-09-23 (deepen-x slice 09221300-7): fresh grep for 黃煒涵 / Hanna Huang — hits are our-journeys-370, whoswho1190, AAAFF Prismatic Taiwan, ITASA's Coming of Age, NATWA II letter-of-advice, works index — all already absorbed above. SKIP-deepen; nothing new absorbable.
 Corpus re-check 2026-09-24 (deepen-x slice 09230700-13): fresh ZH+EN grep — hit set identical (our-journeys-370, whoswho1190, AAAFF Prismatic Taiwan, ITASA's Coming of Age, NATWA II letter-of-advice, works index), all absorbed. Verified-saturated SKIP.
+Corpus re-check 2026-09-25 (deepen-x slice 09240700-17): fresh ZH+EN grep — hit set identical, all absorbed. Verified-saturated SKIP.
