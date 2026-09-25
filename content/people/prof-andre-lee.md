@@ -36,7 +36,7 @@ Ph.D., Physics & Material Science
 _No filled family fields on the TAH profile._
 
 ## Role in the Community
-- Recorded in the TAH Foundation encyclopedia via [[works/taiwaneseamericanhistory-org/whos-who-1951-andre-lee|1951. Prof. Andre Lee 李延志教授]] (published 2017-11-16; bibliographic record — full text stays in the TAH vault). No other corpus material (memoirs, TJJ, story corpus) mentions him; his NIST → Lockheed → Michigan State physics career rests solely on the TAH Who's Who entry. Re-grepped 2026-09-19 and 2026-09-21 (slice-09210400-28): still only the #1951 record and the works index — no memoir/community text to absorb. SKIP-with-reason.
+- Recorded in the TAH Foundation encyclopedia via [[works/taiwaneseamericanhistory-org/whos-who-1951-andre-lee|1951. Prof. Andre Lee 李延志教授]] (published 2017-11-16; bibliographic record — full text stays in the TAH vault). No other corpus material (memoirs, TJJ, story corpus) mentions him; his NIST → Lockheed → Michigan State physics career rests solely on the TAH Who's Who entry. Re-grepped 2026-09-19 and 2026-09-21 (slice-09210400-28): still only the #1951 record and the works index — no memoir/community text to absorb. SKIP-with-reason. Re-grepped 2026-09-25 (slice 09231300-3): hit set still unchanged.
 
 ## Sources
 - [TAH #1951 encyclopedia: 1951. Prof. Andre Lee 李延志教授](https://taiwaneseamericanhistory.org/whos-who-1951-andre-lee/)

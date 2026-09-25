@@ -36,7 +36,7 @@ last_reviewed: 2026-09-25
 ## Role in the Community
 - Held in the Taiwanese American historical record as a TAH Foundation encyclopedia entry: [[works/taiwaneseamericanhistory-org/942-joseph-chang-e5-bc-b5-e7-8e-89-e6-98-8e-201604|942. Joseph Chang 張玉明 / 2016/04]] (published 2016-04-17), cross-referencing [[organizations/tah-foundation|TAH Foundation]].
 - Corpus record is consistent with the church-planting and theological-education lines above (布蘭諾華人宣道會 founder, 美國台福神學院博士班主任, 台福爾灣基督教會主任牧師); no conflicts.
-- Re-check 2026-09-22 (slice 09210500-31): corpus grep of content/works + content/articles for 張玉明/Joseph Chang again returned only this own entry — no additional community-authored material to absorb.
+- Re-check 2026-09-22 (slice 09210500-31): corpus grep of content/works + content/articles for 張玉明/Joseph Chang again returned only this own entry — no additional community-authored material to absorb. Re-grepped 2026-09-25 (slice 09231300-3): hit set unchanged — verified saturated.
 
 ## Family
 
