@@ -50,3 +50,4 @@ _No filled family fields on the TAH profile._
 <!-- deepen-x slice 09201503-17 (2026-09-21): SKIP re-verified — corpus re-grep (謝復生/F. S. Shih) hits only own TAH #1719 record + works index; no memoir/community material. -->
 <!-- deepen-x slice 09211507-20 (2026-09-22): SKIP re-verified — corpus re-grep (謝復生/F. S. Shih) again hits only own TAH #1719 record + works index; verified saturated. -->
 <!-- deepen-x slice 09231100-6 (2026-09-25): SKIP re-verified — corpus re-grep (謝復生/F. S. Shih) hits only own TAH #1719 record + works index; verified saturated. -->
+<!-- deepen-x slice 09250400-28 (2026-09-25): SKIP re-verified — fresh ZH+EN re-grep of works/+articles/ returns only the hit set already recorded on this page; no new memoir/community material. Verified saturated. -->
