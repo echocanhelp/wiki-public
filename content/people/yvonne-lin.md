@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-25
 ---
 # Yvonne lin (林韻玉)
 
@@ -39,7 +39,7 @@ _No filled family fields on the TAH profile._
 
 ## Role in the Community
 - Featured in the TAH Foundation Who's Who encyclopedia record [[works/taiwaneseamericanhistory-org/whoswho1583|1583. Yvonne lin 林韻玉 / 2017/03]] (published 2017-03-26).
-- Corpus check 2026-09-18: no community/movement activity beyond this bibliographic record in works+articles; no additional facts absorbable, no conflicts. Corpus re-scan 2026-09-22 (slice 11): no new material.
+- Corpus check 2026-09-18: no community/movement activity beyond this bibliographic record in works+articles; no additional facts absorbable, no conflicts. Corpus re-scan 2026-09-22 (slice 11): no new material. Corpus re-scan 2026-09-25 (slice 18): fresh ZH+EN greps again hit only [[works/taiwaneseamericanhistory-org/whoswho1583|1583. Yvonne lin 林韻玉 / 2017/03]] + works index — confirmed SKIP, nothing absorbable.
 
 ## Sources
 - [TAH #1583 encyclopedia: 1583. Yvonne lin 林韻玉 / 2017/03](https://taiwaneseamericanhistory.org/whoswho1583/)

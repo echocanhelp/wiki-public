@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-25
 ---
 # Rev. Jim Huang (黃景彬牧師)
 
@@ -42,6 +42,7 @@ last_reviewed: 2026-09-22
 
 - The TAH encyclopedia holds his record: [[works/taiwaneseamericanhistory-org/whos-who-1689-jim-huang|1689. Rev. Jim Huang 黃景彬牧師]] (published 2017-05-27), a bibliographic record only.
 - Corpus re-grep 2026-09-19 (黃景彬 / Jim Huang, plus his churches 華府台灣基督長老教會 / 台美團契長老教會): the churches appear in the TAH story corpus (e.g. [[works/taiwaneseamericanhistory-org/activities-of-tafpc|Activities of TAFPC]]) but no passage names him personally — nothing personally-attributed absorbable this pass (SKIP).
+- Re-grep 2026-09-25 (slice 09231400-19): hit set unchanged — only his own bibliographic entry above plus the works index; no new community narrative to absorb.
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
