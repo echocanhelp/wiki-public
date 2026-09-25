@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-25
 ---
 # Thomas C.T. Chiu (邱智正)
 
@@ -37,7 +37,7 @@ last_reviewed: 2026-09-22
 
 
 ## Role in the Community
-- TAHS TAH Who's Who corpus record: [[works/taiwaneseamericanhistory-org/whoswho1078|1078. Thomas C.T. Chiu 邱智正 (TAH Who's Who, 2016/06)]]. Corpus scan 2026-09-20 (re-verified 2026-09-22 slice 09210900-32): this is the only vault record naming this subject and it is band-B bibliographic (full text stays in the source); no memoir or community-organizing facts in the vault to absorb.
+- TAHS TAH Who's Who corpus record: [[works/taiwaneseamericanhistory-org/whoswho1078|1078. Thomas C.T. Chiu 邱智正 (TAH Who's Who, 2016/06)]]. Corpus scan 2026-09-20 (re-verified 2026-09-22 slice 09210900-32 and 2026-09-25 slice 09231500-8 — ZH+EN grep hits are only this own record plus fuzzy Thomas*/CHIU matches to other people): this is the only vault record naming this subject and it is band-B bibliographic (full text stays in the source); no memoir or community-organizing facts in the vault to absorb.
 
 ## Sources
 - [TAH #1078 encyclopedia: 1078. Thomas C.T. Chiu 邱智正 / 2016/06](https://taiwaneseamericanhistory.org/whoswho1078/)
