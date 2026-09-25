@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # Helen Allen (趙夏蓮)
 
@@ -40,6 +40,7 @@ last_reviewed: 2026-09-24
 - Corpus re-check 2026-09-22 (deepen-x slices 09210800-18, 09220500-7): fresh grep of works/ + articles/ — hit set unchanged (ourjourneys-138 roster line 「1991 Helen K. Allen-趙夏蓮 / Kuo-Chang Jang-簡國璋」 already absorbed above, plus her two own TAH records and the works index). SKIP; nothing further absorbable.
 - Corpus re-check 2026-09-23 (deepen-x slice 09221400-12): fresh grep — hit set identical (ourjourneys-138, TAH #625, TAH #310, works/index). SKIP.
 - Corpus re-check 2026-09-24 (deepen-x slice 09230800-30): fresh grep — hit set identical (ourjourneys-138 roster line, TAH #310, TAH #625, works/index), all already absorbed and linked above. SKIP.
+- Corpus re-check 2026-09-25 (deepen-x slice 09240800-25): fresh grep — hit set identical (ourjourneys-138 roster line, TAH #310, TAH #625, works/index), all already absorbed and linked above. SKIP.
 
 ## Sources
 - [TAH #310 encyclopedia: 310. Helen Allen 趙夏蓮 / The first registered nurse](https://taiwaneseamericanhistory.org/ff310/)
