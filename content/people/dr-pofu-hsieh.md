@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # Dr. Pofu Hsieh (謝博夫醫師)
 
@@ -54,3 +54,4 @@ Corpus re-check 2026-09-22 (deepen-x slice 09220400-26): fresh grep for 謝博�
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+<!-- deepen-x slice 09240700-32 (2026-09-25): saturated re-verify — fresh ZH+EN grep of works/ + articles/ returns the hit-set already absorbed on this page; no new corpus facts, no conflicts. -->
