@@ -52,3 +52,4 @@ Fresh ZH+EN corpus re-grep 2026-09-23 (slice 09220900-24): the sole hit is the �
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 Fresh ZH+EN corpus re-grep 2026-09-24 (slice 09230400-21): hit set identical to records already absorbed above (愛鄉合唱團 program + TAH #10/#443); no new mentions. Verified saturated.
+Corpus check (deepen-x slice 09240400-9, 2026-09-25): fresh ZH+EN re-grep hit set identical to records already absorbed above (愛鄉合唱團 program + TAH #10/#443 + works index); no new unabsorbed corpus facts. SKIP: saturated.
