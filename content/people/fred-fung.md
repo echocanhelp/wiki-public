@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-25
 ---
 # Fred Fung (馮耀祥)
 
@@ -41,7 +41,7 @@ _No filled family fields on the TAH profile._
   [[works/taiwaneseamericanhistory-org/whoswho1470|1470. Fred Fung 馮耀祥 / 2017/01]]
   (published 2017-01-21, value band B — bibliographic record; full text stays in the vault).
 - No memoir or article corpus mentions found beyond the Who's Who record itself (re-grepped
-  2026-09-21: only own band-B record + works/index); no community
+  2026-09-21 and 2026-09-25: only own band-B record + works/index); no community
   roles beyond the press-kit Employment table could be absorbed (no invented biography).
 
 ## Sources
