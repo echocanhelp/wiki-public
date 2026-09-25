@@ -6,7 +6,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-25
 ---
 # 李泰雄筆名
 
@@ -47,3 +47,4 @@ _No filled family fields on the TAH profile._
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 <!-- deepen-x 09210831-16: SKIP — corpus re-scan (works/articles) fresh 2026-09-22: only own TAH records / already-absorbed coverage; no new community material. -->
+<!-- deepen-x 09231100-32: verified-saturated — re-grep 2026-09-25 (李泰雄|南鄉泰, works+articles): same 3 own records + index; nothing new absorbable. -->

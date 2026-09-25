@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-25
 ---
 # Prof. Pai-Hsiang Chou (周百祥教授)
 
@@ -35,6 +35,7 @@ Recorded in the TAH Foundation Who’s Who as an engineer-professor bridging UC 
 Corpus check (deepen-x slice 09171000-28): the only hits for 周百祥 / Pai-Hsiang Chou across works/ and articles/ are his own TAH press-kit entry and its index listing — no independent community or memoir record yet. SKIP-absorb: nothing absorbable beyond the press-kit bio already reflected above.
 
 - Re-verified 2026-09-22 (deepen-x slice 09210831-17): fresh grep returns only his own TAH press-kit entry and the works index — SKIP-absorb stands, nothing new absorbable.
+- Re-verified 2026-09-25 (deepen-x slice 09231200-1): fresh ZH+EN grep again returns only his own TAH press-kit entry and the works index — SKIP-absorb stands.
 ## Family
 
 _No filled family fields on the TAH profile._
