@@ -35,6 +35,7 @@ last_reviewed: 2026-09-25
 - Named as a special donor — personally, and via 芝加哥台灣人聯合基金會 — in the acknowledgments of the 世界台灣人美術展覽專刊, credited with helping the fundraising effort proceed smoothly: [[works/taiwaneseamericanhistory-org/ourjourneys256|ourjourneys256 (世界台灣人美術展覽 record)]].
 - His TAH encyclopedia entry is in the corpus: [[works/taiwaneseamericanhistory-org/whos-who-1968-chun-c-tsai|1968. Dr. Chun C Tsai 蔡俊晴醫師]].
 - Corpus re-grep 2026-09-22 (slice 09220600-20): hits unchanged (own TAH record, NATMA founding record [[works/taiwaneseamericanhistory-org/ourjourneys74|ourjourneys74]]/-eng, 美展專刊致謝 [[works/taiwaneseamericanhistory-org/ourjourneys256|ourjourneys256]], index); community facts above already absorbed — no new material.
+- Corpus re-grep 2026-09-25 (slice 09230900-25): fresh ZH+EN grep returns the identical hit set (own record #1968, NATMA founding, 美展專刊致謝, index); NATMA founding attendee list and donor acknowledgment already absorbed above. Verified saturated.
 
 ## Family
 

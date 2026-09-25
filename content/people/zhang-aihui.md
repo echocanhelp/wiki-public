@@ -42,6 +42,8 @@ Per ntpc-usa.org/ntpw/ (2025):
 
 > **會長: 張愛惠**
 
+Re-verified 2026-09-25 (DEEPEN-X slice 09230900-20): fresh grep of works/ and articles/ for 張愛惠 / Esther Pan / Ai-Hui returns **zero** corpus hits — no community-record material beyond the NTPC roster facts already absorbed above; SKIP-with-reason stands.
+
 ## Related Pages
 
 - [[organizations/national-taiwanese-presbyterian-council||National Taiwanese Presbyterian Council (NTPC)]]

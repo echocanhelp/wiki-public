@@ -35,6 +35,7 @@ last_reviewed: 2026-09-25
 - **Deepen status:** SKIP-with-reason (re-checked 2026-09-19 and again 2026-09-21, slice 09191100-16): corpus re-grep for 黃滿惠/Maan-Huei returns only her own two encyclopedia pages ([[works/taiwaneseamericanhistory-org/whos-maan-huei-huang|Who's Who #1977]], [[works/taiwaneseamericanhistory-org/ff353|feature #353]]) and the works index — no memoir or third-party narrative beyond what is already absorbed above. Re-grepped 2026-09-21 (slice 09210317-16): hits again limited to her own two encyclopedia pages and the works index — SKIP stands.
 
 - 2026-09-23 deepen-x slice 09221400-28: SKIP (re-verified) — fresh grep (黃滿惠 / Maan-Huei) returns only her own #1977/#353 records and the works index, all already linked; no third-party narrative; SKIP stands.
+- 2026-09-25 deepen-x slice 09230900-20: SKIP (re-verified) — fresh grep again returns only her own #1977/#353 records and the works index; SKIP stands.
 
 ## Family
 
