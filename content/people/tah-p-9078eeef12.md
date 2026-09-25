@@ -42,6 +42,7 @@ _No filled family fields on the TAH profile._
 - （再查 slice 09220600-19 2026-09-22：語料庫再查僅既存書目／已吸收紀錄，無新增可吸收社群敘事）
 - Corpus re-grep 2026-09-23 (slice 09221400-32): fresh grep of works/articles returns only the records already wikilinked/absorbed above — no new memoir material. Verified saturated; SKIP-content.
 - （再查 slice 09230900-26 2026-09-25：語料庫再查僅既存已吸收紀錄 ourjourneys316、whoswho927、#338，無新增社群敘事，SKIP-content）
+- （再查 slice 09250317-26 2026-09-25：語料庫再查（王惠津／Hui-Jin Wang）僅既存已吸收紀錄 ourjourneys316、whoswho927、#338，無新增社群敘事，SKIP-content）
 
 ## Sources
 - [TAH #338 encyclopedia: 338. Hui-Jin Wang王惠津,Voval / 2016/04](https://taiwaneseamericanhistory.org/338-%e7%8e%8b%e6%83%a0%e6%b4%a5voval-201604/)

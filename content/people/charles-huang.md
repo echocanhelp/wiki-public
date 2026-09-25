@@ -36,6 +36,7 @@ last_reviewed: 2026-09-25
 - **Organization roles:** President of the Taiwanese American Foundation (台美協進會, per the TAF history he co-authored; see [[organizations/taiwan-american-foundation]]); advisor to the Michigan state government; MFCF alumnus whose community link is described in his own 01/2018 account quoted in the corpus.
 - Corpus sweep 2026-09-22 (slice 09220600-6): the only works naming him are OJ#33, story #749, and his own encyclopedia entry #1919, all already linked above — no new community facts.
 - Corpus check 2026-09-25 (deepen-x slice 09230900-30): fresh grep (黃啟仁 / Charles Huang) again returns exactly OJ#33, story #749, own entry #1919 + works/index — verified saturated, no new facts.
+- Corpus check 2026-09-25 (deepen-x slice 09250317-26): fresh ZH+EN grep again returns the same three linked works + works/index — SKIP (re-verified), no new community facts.
 
 ## Family
 

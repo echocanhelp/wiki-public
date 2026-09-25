@@ -45,6 +45,7 @@ Publication(Non-professional)
 - No further 余瑞錦 / Ruey Yu mentions elsewhere in works/articles (re-grepped 2026-09-22 slice 09211507-9: hits limited to the two records already absorbed above) — verified saturated; re-grep 2026-09-23 (slice 09221500-19) confirms the same two records only.
 
 - Re-grep 2026-09-25 (slice 09231000-23): same two records ([[works/taiwaneseamericanhistory-org/publications1218|1218. Journey of a Thousand Miles]], [[works/taiwaneseamericanhistory-org/whos-who-2126-ruey-j-yu|2126. Prof. Ruey J. Yu 余瑞錦教授]]) — verified saturated.
+- Re-grep 2026-09-25 (slice 09250317-30): fresh ZH+EN grep returns the same two records + works index only — verified saturated, SKIP content-deepen.
 
 ## Sources
 - [TAH #2126 encyclopedia: 2126. Prof. Ruey J. Yu 余瑞錦教授](https://taiwaneseamericanhistory.org/whos-who-2126-ruey-j-yu/)
