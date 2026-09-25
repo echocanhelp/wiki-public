@@ -38,6 +38,7 @@ last_reviewed: 2026-09-25
 - 其妻彭郁靜另有 TAH 記錄：[[works/taiwaneseamericanhistory-org/whos-who-1806-lisa-peng|1806. Lisa Peng 彭郁靜 / 07/2017]]（與本人 TAH #1807 同日入檔）。
 - HOLD: conflict — TAH Who's Who（07/2017, [[works/taiwaneseamericanhistory-org/whoswho1807|TAH #1807]]）載其任職 Optical Air Data Systems（工程師），與 2023 報導之 UNLV 教授身分是否同一人、或為前後職涯轉變，待查證，不逕行合併。
 - Re-verified 2026-09-22: fresh corpus grep (works/, articles/) returns only the records already cited above (TAH #1807, index, 台灣 justice 2023/2024/2025 存檔) — no memoir or movement material to absorb.
+- Re-verified 2026-09-25 (slice 09231100-4): same record set only (TAH #1807, index, 台灣 justice coverage of the UNLV shooting); page saturated, no new corpus material, HOLD stands.
 
 ## Sources
 - [TAH #1807 encyclopedia: 1807. C. J. Chang 張家禎 / 07/2017](https://taiwaneseamericanhistory.org/whoswho1807/)
