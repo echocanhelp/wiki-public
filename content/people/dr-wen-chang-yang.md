@@ -48,3 +48,4 @@ _No filled family fields on the TAH profile._
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 <!-- deepen-x slice 09221500-12 re-grep 2026-09-23: fresh grep (楊文昌/Dr. Wen-Chang Yang) in works+articles returns only own TAH #2013 record, works index, and the already-HOLDed 2022 苗栗議員 楊文昌 press mention (different person); no third-party memoir material — verified saturated, SKIP content-deepen. -->
 <!-- deepen-x slice 09231000-20 re-grep 2026-09-25: fresh ZH+EN grep of works+articles returns only own-name records already wikilinked on this page (plus works index); no new third-party corpus material — verified saturated, SKIP content-deepen. -->
+<!-- deepen-x slice 09250317-28 re-grep 2026-09-25: fresh ZH+EN grep of works+articles returns only own-name records already wikilinked on this page (plus works index); no new third-party corpus material — verified saturated, SKIP content-deepen. -->

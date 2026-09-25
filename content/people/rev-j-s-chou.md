@@ -52,3 +52,4 @@ Accomplishment
 <!-- deepen-x slice 09220700-13 re-grep 2026-09-22: fresh grep (ZH+EN) in works+articles returns only own TAH record + works index + already-linked/cited corpus files; no third-party memoir material — verified saturated, SKIP content-deepen. -->
 <!-- deepen-x slice 09221500-11 re-grep 2026-09-23: only own record whos-who-1851 + index — verified saturated, SKIP content-deepen. -->
 <!-- deepen-x slice 09230900-30 re-grep 2026-09-25: fresh grep (周再賜 / J. S. Chou) returns only own record whos-who-1851 + works index — verified saturated, SKIP content-deepen. -->
+<!-- deepen-x slice 09250317-28 re-grep 2026-09-25: fresh ZH+EN grep of works+articles returns only own-name records already wikilinked on this page (plus works index); no new third-party corpus material — verified saturated, SKIP content-deepen. -->
