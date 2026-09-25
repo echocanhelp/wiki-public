@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # Dr. Min Hsiung Liang (梁敏雄博士)
 
@@ -47,6 +47,8 @@ Dr. Min Hsiung Liang 梁敏雄博士 – History of Taiwanese American (T.A. Arc
 
 
 - Corpus check 2026-09-24 (slice 09230700-5): grep 梁敏雄/Min Hsiung Liang — same saturated set ([[works/taiwaneseamericanhistory-org/ourjourneys106|Our Journeys 106]] item 12, [[works/taiwaneseamericanhistory-org/whos-who-2088-min-hsiung-liang|TAH #2088]], index); both HOLDs stand, no new community facts.
+
+- Corpus check 2026-09-25 (slice 09240600-32): grep 梁敏雄/Min Hsiung Liang — same saturated set (Our Journeys 106, TAH #2088, index); both HOLDs (M.S. institution, TAA role) stand, no new community facts.
 
 ## Sources
 - [TAH #2088 encyclopedia: 2088. Dr. Min Hsiung Liang 梁敏雄博士](https://taiwaneseamericanhistory.org/whos-who-2088-min-hsiung-liang/)

@@ -6,7 +6,7 @@ tags:
   - Taiwanese-American
   - Taiwan-Center-group-member
 verification_status: published
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # The Kee-Jen Education of Arts Foundation
 
@@ -30,6 +30,7 @@ The foundation carries the name of composer **Chuang-Shien Lu 呂泉生**, one o
 2026-09-22 re-check: corpus re-grep (Kee-Jen / 呂泉生文教基金會) returned zero hits in content/works + content/articles; the absorbable material is the 呂泉生-person material already cited above. No new facts; no conflicts.
 2026-09-23 re-check (slice 09221200-10): corpus re-grep (Kee-Jen / Kee Jen / 呂泉生文教) again zero hits in content/works + content/articles — verified saturated; page retains the 呂泉生-person material above.
 2026-09-24 re-check (slice 09230600-22): corpus re-grep (Kee-Jen / Kee Jen / 呂泉生文教) zero hits again — saturated.
+2026-09-25 re-check (slice 09240600-32): corpus re-grep (Kee-Jen / Kee Jen / 呂泉生文教) zero hits again — saturated; page retains the 呂泉生-person material above.
 
 HOLD: the English name "Kee-Jen" vs. the romanization "Chien" in the pinyin-style "Chuang-Shien" of 呂泉生's name ( Wade-Giles vs. other romanization of 泉生 ) — no auto-merge of spelling; recorded as both appear.
 
