@@ -41,6 +41,7 @@ last_reviewed: 2026-09-25
 
 ## Role in the Community
 - _record link: TAH encyclopedia entry 2084 (published 2018-03-28) is held in the corpus as community historical record; no memoir/article text beyond it._
+- 2026-09-25 corpus re-grep (slice 09240400-18): 黃維城 / W. C. Huang 僅命中自身書目頁 [[works/taiwaneseamericanhistory-org/whoswho2084|2084. W. C. Huang / 03-2018]] 與 works index，content/articles 無命中。SKIP (verified-saturated)。
 
 ## Related Pages
 - [[works/taiwaneseamericanhistory-org/whoswho2084|2084. W. C. Huang 黃維城 / 03/2018]]

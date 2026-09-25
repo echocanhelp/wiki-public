@@ -39,6 +39,7 @@ last_reviewed: 2026-09-25
 
 ## Role in the Community
 - Corpus record: [[works/taiwaneseamericanhistory-org/72-cady-tsai|71. Cady Tsai / 2014-10]] — the person's own TAH Foundation encyclopedia entry in our corpus. Fresh 2026-09-21 ZH+EN greps of content/works and content/articles found no further memoir mentions beyond this own record.
+- 2026-09-25 corpus re-grep (slice 09240400-18): hit set unchanged (own record + works index only; 蔡暉玲 absent from content/articles). SKIP (verified-saturated).
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/cady-tsai/)
