@@ -48,3 +48,4 @@ _No filled family fields on the TAH profile._
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 <!-- deepen-x slice 09231000-17 (2026-09-25): SKIP re-verified — fresh grep of works/ + articles/ returns only the records already absorbed on this page; nothing new absorbable. -->
+<!-- deepen-x slice 09250317-31 (2026-09-25): SKIP re-verified — fresh ZH+EN grep returns only musician427, Who's Who 2063, and the index (all already absorbed); no memoir/community mentions; verified saturated. -->
