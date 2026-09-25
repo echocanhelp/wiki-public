@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # Rev. C. L. Tong (董俊蘭牧師)
 
@@ -56,3 +56,4 @@ last_reviewed note: corpus-absorbed 2026-09-17; re-verified 2026-09-18 (deepen-x
 slice 09190130-8 / 09201400-18 / 09211400-10 / 09220800-23 re-grep (through 2026-09-22): corpus hit set identical to links already absorbed above (ourjourneys14, ourjourneys43, #1698) — body text re-checked (TAFPC 第三任牧師 2007-01-21 installation; 聖恩 itinerary preachers list), both already absorbed. No new absorbable facts. SKIP (saturated).
 
 slice 09230317-23 re-grep (2026-09-24): hit set identical (ourjourneys14, ourjourneys43, #1698, works/index) — body re-checked (TAFPC third-pastor installation, 聖恩 itinerant preachers), nothing new. SKIP (saturated).
+slice 09240317-25 re-grep (2026-09-25): fresh 董俊蘭/C. L. Tong grep returned the same set (ourjourneys14, ourjourneys43, #1698, works/index) — verified saturated, nothing new this pass. SKIP-with-reason.

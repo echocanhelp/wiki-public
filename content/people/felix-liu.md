@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # Felix Liu (劉富理牧師)
 
@@ -58,6 +58,8 @@ Corpus re-grep 2026-09-20 / 2026-09-21 / 2026-09-22 / 2026-09-24 (slice 09181500
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+複核（deepen-x 2026-09-25, slice 09240317-21）：fresh ZH+EN re-grep（劉富理 / Felix Liu, works+articles）命中集合不變（Our Journeys #257、Who's Who #214、feature #268、harvest index），全數已吸收並 wikilink。SKIP-with-reason（saturated）。
 
 ## Network
 - [[organizations/presbyterian-church-in-taiwan||PCT]] — TAH Who’s Who
