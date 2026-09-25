@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # Prof. Bor Jang Chang (張博增教授)
 
@@ -48,4 +48,4 @@ _No filled family fields on the TAH profile._
 
 ## Role in the Community (corpus re-grep 2026-09-15)
 - Corpus re-grep (張博增 / Bor Jang Chang, content/works + content/articles) returns only the harvest index — the sole work naming him remains [[works/taiwaneseamericanhistory-org/whos-who-1702-bor-jang-chang|TAH #1702]] (published 2017-06-29), already recorded under "Vault Absorbed". No memoir material; nothing absorbable beyond the existing graph tables.
-- 複核（deepen-x slices 0916→09230900-2，至 2026-09-24）：历次 re-grep 張博增|Bor Jang Chang 命中集均不變（#1702＋index only）— SKIP-with-reason：無可吸收之回憶錄/社群語料。ourjourneys47／ourjourneys203／our-journeys-389 及 taiwanjustice 命中屬另一人張博雅（前監察院長），勿誤配。
+- 複核（deepen-x slices 0916→09240900-7，至 2026-09-25）：历次 re-grep 張博增|Bor Jang Chang 命中集均不變（#1702＋index only）— SKIP-with-reason：無可吸收之回憶錄/社群語料。ourjourneys47／ourjourneys203／our-journeys-389 及 taiwanjustice 命中屬另一人張博雅（前監察院長），勿誤配。

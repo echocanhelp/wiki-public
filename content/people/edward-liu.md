@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # Edward Liu (劉俊宏)
 
@@ -44,6 +44,7 @@ last_reviewed: 2026-09-24
 - Corpus re-check 2026-09-22: fresh grep of works/articles returns only the already-absorbed records (own TAH record #2237, Our Journeys 376 fund-proposal account, 紀念杯高爾夫 memorial record) — no new community facts; HOLD on death date stands.
 - Corpus re-check 2026-09-23 (deepen-x slice 24): fresh grep 劉俊宏/Edward Liu returns the same three already-absorbed works (whos-who-2237, our-journeys-376, liu-memorial-golf) plus index. Verified-saturated; HOLD on death date stands.
 - Corpus re-check 2026-09-24 (deepen-x slice 09230900-10): fresh grep 劉俊宏/Edward Liu again returns only the same three absorbed works plus index — no new community facts; HOLD on death date stands.
+- Corpus re-check 2026-09-25 (deepen-x slice 09240900-7): fresh ZH+EN grep of works/ + articles/ returns the identical already-absorbed hit set (whos-who-2237, our-journeys-376, liu-memorial-golf) plus index — verified-saturated, SKIP stands; HOLD on death date stands.
 
 ## Sources
 - [TAH #2237 encyclopedia: 2237. Edward Liu 劉俊宏/01/2020](https://taiwaneseamericanhistory.org/whos-who-2237/)

@@ -6,7 +6,7 @@ tags:
   - Taiwanese-American
   - Taiwan-Center-group-member
 verification_status: published
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # Taiwan Center Choir
 
@@ -44,3 +44,4 @@ Note: the New York group 紐約台灣會館合唱團 ([[works/taiwaneseamericanh
 
 - [[organizations/taiwan-center||Taiwan Center]]
 - [[sources/taiwancenter-org||taiwancenter.org]]
+<!-- deepen-x slice 09240900-10 (2026-09-25): re-verified — fresh grep hit set identical to material already absorbed/cited on this page (own records + index only); no new memoir/community material. SKIP. -->

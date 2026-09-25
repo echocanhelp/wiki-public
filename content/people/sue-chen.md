@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # Sue Chen (陳禹辛)
 
@@ -38,6 +38,7 @@ last_reviewed: 2026-09-24
 - 2026-09-22 corpus re-check (deepen-x slice 21): grep 陳禹辛/Sue Chen returns only already-absorbed records (own #427 entry, ourjourneys33 EN/中 MFCF founding photo, Pew statement signer list) — HOLD 陳禹辛 vs 廖淑清 unchanged, nothing new absorbable.
 - 2026-09-23 corpus re-check (deepen-x slice 09221400-19): grep unchanged (own #427 entry, ourjourneys33 EN/中, Pew statement, works index) — HOLD unchanged, nothing new absorbable.
 - 2026-09-24 corpus re-check (deepen-x slice 09230900-11): grep unchanged (own #427 entry, ourjourneys33 EN/中, Pew statement, works index) — HOLD 陳禹辛 vs 廖淑清 unchanged, verified-saturated.
+- 2026-09-25 corpus re-check (deepen-x slice 09240900-8): grep unchanged (own #427 entry, ourjourneys33 EN/中, Pew statement, works index) — HOLD 陳禹辛 vs 廖淑清 unchanged, verified-saturated.
 
 ## Family
 

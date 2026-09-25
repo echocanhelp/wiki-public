@@ -45,6 +45,7 @@ _No filled family fields on the TAH profile._
 - **Re-verified 2026-09-22** (deepen-x slice 09220600-26): fresh grep re-confirms the same hit set plus the 313 substring match, which remains a different person (簡勉, verified via its own title line) — verified saturated, SKIP-no-new-facts.
 - **Re-verified 2026-09-23** (deepen-x slice 09221400-25): fresh grep of works/ + articles/ for 洪明奇 / Mien-Chie Hung returns only the two already-linked own records (271 encyclopedia entry, winners41 award) plus works/index — verified saturated, SKIP-no-new-facts.
 - **Re-verified 2026-09-24** (deepen-x slice 09230900-9): fresh grep returns the identical hit set (own entry 271, winners41 award, works/index) — all already linked; verified saturated, SKIP-no-new-facts.
+- **Re-verified 2026-09-25** (deepen-x slice 09240900-6): fresh grep returns the identical hit set — own entry 271, winners41 award, works/index, plus the 313 簡勉 substring match (different person, not merged). SKIP-no-new-facts stands.
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/mien-chie-hung/)
