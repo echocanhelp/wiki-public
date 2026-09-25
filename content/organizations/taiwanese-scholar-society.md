@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-25
 ---
 # Taiwanese Scholar Society
 
@@ -26,6 +26,8 @@ Fresh corpus grep (2026-09-20, re-verified 2026-09-22: still zero hits, "Taiwane
 - [[works/taiwaneseamerican-org/erin-li-brings-filmmaking-and-storytelling-to-life|Erin Li interview]] — a CMU alumna filmmaker, unrelated to TSS
 
 No corpus facts about TSS to absorb; page kept at directory-level depth.
+
+Disambiguation (deepen-x recheck 2026-09-25): fresh ZH+EN grep matches 台灣學者協會 works — these are the **Taiwanese Scholar Association in St. Louis (TSA-STL)**, a distinct organization, not this CMU club: [[works/taiwaneseamericanhistory-org/taiwanese-scholar-association-in-st-louis-tsa-stl|TSA-STL directory record]], [[works/taiwaneseamericanhistory-org/publications1220|TSA-STL 2017 年會手冊]], [[works/taiwaneseamericanhistory-org/publications1221|TSA-STL 2018 年會手冊]]. The 台灣學者 mentions in [[works/taiwaneseamericanhistory-org/ourjourneys47|Our Journeys #47]] concern NATPA's 返台年會 scholar invitations, also unrelated. Still zero corpus material on CMU TSS itself.
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-scholar-society/)

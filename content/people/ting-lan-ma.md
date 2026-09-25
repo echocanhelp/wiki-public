@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-25
 ---
 # Ting-Lan Ma (馬鼎嵐)
 
@@ -46,3 +46,4 @@ _No filled family fields on the TAH profile._
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 <!-- deepen-x 09210900-4: re-verify — fresh grep: only own record whos-who-2210; SKIP persists. -->
+<!-- deepen-x 09231300-31: re-verify — fresh grep: only own record whos-who-2210 + index entry; SKIP persists. -->
