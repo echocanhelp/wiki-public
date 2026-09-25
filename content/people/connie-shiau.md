@@ -36,7 +36,7 @@ Accomplishment
 TAH corpus holds her own Who's Who story record, published 2017-12-26 (value band B):
 - [[works/taiwaneseamericanhistory-org/whos-who-1982-connie-shiau|1982. Connie Shiau 蕭潔恒]] — TAH encyclopedia entry #1982; her New York Reverb Dance Festival Outstanding Dancer award and dance career (Taipei National Univ. of the Arts → SUNY Purchase → Kyle Abraham/Abraham.In.Motion 2012–2017 → Hubbard Street Dance Chicago 2018–) are documented there as community record.
 
-No other corpus mentions found (works/articles grep, 2026-09-18, re-checked 2026-09-19 and 2026-09-21).
+No other corpus mentions found (works/articles grep, 2026-09-18, re-checked 2026-09-19, 2026-09-21 and 2026-09-25).
 
 ## Family
 
