@@ -33,7 +33,7 @@ last_reviewed: 2026-09-25
 _No filled family fields on the TAH profile._
 
 ## Corpus Sweep (deepen-x 09180700-31)
-SKIP-with-reason: corpus grep (works/articles) found only this person's own TAH Who's Who bibliographic record ([[works/taiwaneseamericanhistory-org/whoswho1146|1146. T. S. Hsu 許廷鑫 / 2016/07]]) — no memoir or community-organization material beyond the press-kit profile. No new facts absorbable without web research.
+SKIP-with-reason: corpus grep (works/articles) found only this person's own TAH Who's Who bibliographic record ([[works/taiwaneseamericanhistory-org/whoswho1146|1146. T. S. Hsu 許廷鑫 / 2016/07]]) — no memoir or community-organization material beyond the press-kit profile. No new facts absorbable without web research. (re-verified 2026-09-25, slice 09232337-21: same result.)
 
 ## Sources
 - [TAH #1146 encyclopedia: 1146. T. S. Hsu  許廷鑫 / 2016/07](https://taiwaneseamericanhistory.org/whoswho1146/)
