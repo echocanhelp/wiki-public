@@ -50,3 +50,6 @@ last_reviewed: 2026-09-25
 
 ## Corpus check (deepen-x 09231100-28, 2026-09-25)
 SKIP (verified saturated) — fresh 林麗瓊+EN grep returns only own record [[works/taiwaneseamericanhistory-org/whos-who-1828-l-c-lin|TAH #1828]] and works/index; spouse's record #1827 and all current facts already reflected — no new absorbable material.
+
+## Corpus check (deepen-x 09250400-23, 2026-09-25)
+SKIP (verified saturated) — fresh ZH+EN grep of works/+articles/ returns only the own TAH record already cited above plus the works index; no memoir/community text to absorb.

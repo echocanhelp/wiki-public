@@ -39,6 +39,7 @@ last_reviewed: 2026-09-25
 - HOLD: conflict — TAH Who's Who（07/2017, [[works/taiwaneseamericanhistory-org/whoswho1807|TAH #1807]]）載其任職 Optical Air Data Systems（工程師），與 2023 報導之 UNLV 教授身分是否同一人、或為前後職涯轉變，待查證，不逕行合併。
 - Re-verified 2026-09-22: fresh corpus grep (works/, articles/) returns only the records already cited above (TAH #1807, index, 台灣 justice 2023/2024/2025 存檔) — no memoir or movement material to absorb.
 - Re-verified 2026-09-25 (slice 09231100-4): same record set only (TAH #1807, index, 台灣 justice coverage of the UNLV shooting); page saturated, no new corpus material, HOLD stands.
+- deepen-x 09250400-23 recheck 2026-09-25: fresh grep adds one further archive of the same shooting coverage, [[articles/taiwanjustice-net/2024/20240225155925_root_10f3f037d2cbf527|內華達大學拉斯維加斯分校槍擊案3教職員喪命（2024-02-25 存檔）]], which carries new detail: 張家禎 1981 年取得台灣海洋大學學士學位，於拉斯維加斯任教逾 20 年，槍擊發生於李商學院（Lee Business School）4 樓辦公室（2023-12-06，中央社）。HOLD: conflict — 報導之海洋大學學士（1981）vs TAH #1807 載台大農機，學歷欄不相符，不逕行合併。
 
 ## Sources
 - [TAH #1807 encyclopedia: 1807. C. J. Chang 張家禎 / 07/2017](https://taiwaneseamericanhistory.org/whoswho1807/)
