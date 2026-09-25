@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-25
 ---
 # Tse feng Chuang (莊澤豐)
 
@@ -38,7 +38,7 @@ last_reviewed: 2026-09-22
 
 ## Role in the Community
 
-Fresh greps 2026-09-21 / 2026-09-22 (莊澤豐 / Tse feng Chuang, deepen-x slices 09201503-24, 09211507-32) over content/works + content/articles again returned no hits beyond the TAH bibliographic record and the works index — confirmed SKIP: nothing corpus-absorbable.
+Fresh greps 2026-09-21 / 2026-09-22 / 2026-09-25 (莊澤豐 / Tse feng Chuang, deepen-x slices 09201503-24, 09211507-32, 09231400-18) over content/works + content/articles again returned no hits beyond the TAH bibliographic record and the works index — confirmed SKIP: nothing corpus-absorbable.
 
 Corpus presence is limited to his TAH encyclopedia bibliographic record — no memoir or article mentions found in content/works or content/articles beyond it:
 

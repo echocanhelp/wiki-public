@@ -33,6 +33,7 @@ last_reviewed: 2026-09-25
 
 ## Role in the Community
 
+- Corpus check (deepen-x 09231400-22, 2026-09-25): fresh ZH+EN grep of works/articles returns only her own record — no new community material; SKIP confirmed.
 - Subject of her own TAH story-corpus record [[works/taiwaneseamericanhistory-org/whoswho1274|1274. Amelia Wu 吳姍姍 / 1 09/2016]] (2016-09-11, band B).
 
 ## Family
