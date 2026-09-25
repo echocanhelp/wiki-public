@@ -28,6 +28,8 @@ last_reviewed: 2026-09-24
 
 ## From the record
 
+- 複核（TJJ-A09240800-7, 2026-09-25）：本切片相關存檔稿正文再驗證——本頁 subject 連結為真實提及（無錯鏈、無虛鏈），含該文 wikilink 的日期事實條目已在庫 — SKIP，無新材料。
+
 - 複核（TJJ-A09230900-10, 2026-09-25）：本切片兩存檔稿（「拯救我」80b33cf1846bc005、「希望之光」a40b37bc03b2b9cb）subject link （author 提供影音／拯救我：指揮） 經正文再驗證為真實對應（無錯鏈、無虛鏈），含本文 wikilink 的日期條目已在庫 — SKIP，無新材料；兩稿 Subjects 之 people/*.md 後綴連結已修正為慣例格式。
 
 - 複核（TJJ-A09230900-2, 2026-09-25）：slice 文章 taiwanjustice-net/index（存檔索引頁）正文再驗證——本頁 subject 連結為真實提及，無錯鏈、無虛鏈；對應日期事實條目（含該文 wikilink）已在庫 — SKIP，無新材料。

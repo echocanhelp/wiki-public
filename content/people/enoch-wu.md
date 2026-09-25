@@ -47,6 +47,8 @@ last_reviewed: 2026-09-24
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 ## From the record
+
+- 複核（TJJ-A09240800-7, 2026-09-25）：本切片相關存檔稿正文再驗證——本頁 subject 連結為真實提及（無錯鏈、無虛鏈），含該文 wikilink 的日期事實條目已在庫 — SKIP，無新材料。
 - 複核（TJJ-A09230600-1, 2026-09-24）：本 slice 文章 1fbc7a8aff9cd26e（藍綠台北衝選情, 自由時報 2019-12-22）正文再驗證——吳怡農與陳建仁、許淑華民生社區直播、邀蔡英文參加1/5活動均確認見於正文，subject 連結為真，無錯鏈、無虛鏈；2019-12-22 條目已在庫 — SKIP，無新材料。
 
 - 覆核（TJJ-A09162345-18, 2026-09-24）：本 slice 文章 台灣頭條p3 11761bda 正文再驗證——subject 連結為真實提及，無錯鏈、無虛鏈；對應日期事實（含該文 wikilink）已在庫 — SKIP，已飽和。
