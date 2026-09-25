@@ -40,6 +40,7 @@ Accomplishment
 - His presidency is anchored in the association's own corpus records: [[works/taiwaneseamericanhistory-org/tacpa|15. Taiwanese American CPA Association, TACPA 台美會計師協會]] and [[works/taiwaneseamericanhistory-org/act-org-cpaa|Taiwanese American CPA Association (TACPA) (台美會計師協會) — organization activities]] document the association he led. Beyond the TACPA leadership and the directory record, no further community facts are absorbable — corpus entries are bibliographic only.
 
 - Corpus re-grep 2026-09-25 (slice 09231200-11): only new hit was a false positive ("Liang-tse Chang" 張良澤 in [[works/taiwaneseamericanhistory-org/ourjourneys37-eng|Our Journeys 37]], not Chris Liang). Verified saturated — TACPA presidency + directory record remain the full corpus attestation.
+- 語料複核（deepen-x 09250400-30, 2026-09-25）：再檢 content/works + content/articles（中英雙查），命中集僅自身條目 whos-who-2055 與 index，無新增可吸收材料。Verified-saturated.
 
 ## Sources
 - [TAH #2055 encyclopedia: 2055.  C.H. (Chris) Liang 梁志宏](https://taiwaneseamericanhistory.org/whos-who-2055-c-h-liang/)

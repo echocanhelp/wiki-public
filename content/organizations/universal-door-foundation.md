@@ -22,6 +22,7 @@ The Universal Door Foundation was cofounded to bridge cultural and generational 
 The foundation's flagship event is on the community record: the Formosan American Concert (台美音樂家之夜) was held in El Monte, CA on June 1, 2013, drawing over five hundred attendees ([[works/taiwaneseamericanhistory-org/concerts35|35. Formosan American Concert, El Monte, CA on 06/01/2013]]). The foundation itself is documented in the TAH story corpus ([[works/taiwaneseamericanhistory-org/universal-door-foundation|16. Universal Door Foundation 美音基金會]]), which places its activity record alongside the scholarship and foundation records of the Taiwanese American community. Its stated mission — supporting musicians and promoting works that integrate Taiwanese folk music with jazz and classical genres — frames the 2013 concert and the planned (per the directory) spring 2014 follow-up.
 
 - Corpus check (2026-09-25): fresh grep for 美音基金會/Universal Door Foundation returns only the two work pages already linked above plus the works index — no new memoir or article mentions to absorb. Related community musicians recorded elsewhere in the corpus include pianist [[people/sheng-yuan-kuan|官聖媛 Sheng-Yuan Kuan]].
+- 語料複核（deepen-x 09250400-30, 2026-09-25）：再檢 content/works + content/articles（中英雙查），命中集與上述記錄完全相同，僅 concerts35 與自身條目及 index，無新增可吸收材料。Verified-saturated.
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/universal-door-foundation/)
