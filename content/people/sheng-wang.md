@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # Sheng Wang
 
@@ -47,6 +47,7 @@ Covered repeatedly by Taiwanese-American press as a stand-up comedian and commun
 Corpus re-verify (deepen-x 09220400-12): fresh grep of works/ + articles/ returns only the eight TaiwaneseAmerican.org records already linked above plus the works index — no memoir or community body-text mentions. SKIP-deepen; the page is press-kit-saturated and nothing new is absorbable.
 Corpus re-verify (deepen-x 09221200-13, 2026-09-23): fresh grep again returns only the same TaiwaneseAmerican.org press records plus the works index — still no memoir mentions. SKIP-deepen confirmed.
 Corpus re-verify (deepen-x slice 09230600-27, 2026-09-24): fresh grep again returns the identical hit set — own TaiwaneseAmerican.org press records plus the works index; verified-saturated, SKIP-deepen.
+Corpus re-verify (deepen-x slice 09240700-7, 2026-09-25): fresh Sheng Wang grep returns the same hit set — own TaiwaneseAmerican.org press records plus the works index; SKIP-deepen confirmed.
 
 ## Sources
 - [TAH Who's Who](https://taiwaneseamericanhistory.org/person/sheng-wang/)
