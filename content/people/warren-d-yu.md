@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-25
 ---
 # Warren D. Yu
 
@@ -33,6 +33,7 @@ Chief of the Spine Section
 ## Role in the Community
 
 - The corpus holds his TAH Who's Who encyclopedia record — published 2017-07-30 as part of the TAH community record of Taiwanese Americans in medicine and the professions: [[works/taiwaneseamericanhistory-org/whoswho1805|1805. Warren D. Yu / 07/2017]]. The vault copy is a bibliographic record only; no memoir, article, or other community text in works/ or articles/ mentions him beyond this record, so no further community facts are absorbable at present.
+- deepen-x 09232232-10 于 2026-09-25 複查 works/articles：ZH+EN 雙查僅本身 TAH Who's Who 條目與 index 收錄行命中，無獨立語料可吸收。
 
 ## Family
 
