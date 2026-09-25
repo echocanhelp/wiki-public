@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # Student Association of Taiwan, UW-Madison
 
@@ -34,3 +34,5 @@ The Student Association of Taiwan (SAT) at the University of Wisconsin–Madison
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 Corpus re-check 2026-09-24 (deepen-x slice 09230600-3): fresh grep of works/+articles/ returns 台灣同學會 hits at other campuses (#321 密西根/台風眼、#219 NJIT-Stevens、#45 德州大學、#237 北卡海報事件、dumplings-usctsa 南加大) — none concern the UW-Madison association; all UW-M records (#277, #205, #81, #81-eng, #106, #242, #70) already absorbed with facts linked above. Verified-saturated; SKIP-deepen.
+
+Corpus re-check 2026-09-25 (deepen-x slice 09240600-4): identical hit-set re-confirmed (other-campus 台灣同學會 records, e.g. #33 堪薩斯州立大學 陳希寬 會長 record concerns Kansas State, not UW-M); no new UW-M material. SKIP-deepen.

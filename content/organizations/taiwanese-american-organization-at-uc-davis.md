@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # Taiwanese American Organization at UC Davis
 
@@ -41,3 +41,4 @@ SKIP-with-reason: corpus scan found only incidental UC Davis mentions predating 
 - [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
 > Corpus re-scan 2026-09-24 (deepen-x slice 09230600-5): fresh grep over works/+articles/ — all "taiwanese-american-organization" hits are the same generic TAH bibliography records (t-shirt listing #7, TAAMN #110, 2015 news #9, newsletter summary table, Philip Chang #191, Flushing parade #2); none concern this Davis club. SKIP-deepen, verified saturated.
 > Corpus re-scan 2026-09-23 (deepen-x slice 09221200-2): fresh grep "UC Davis" — hits are nav/cross-link mentions of the TSA/TGSA Davis pages only, no TAO (this club) content; verified-saturated, SKIP-deepen.
+> Corpus re-scan 2026-09-25 (deepen-x slice 09240600-6): fresh grep — same generic TAH bibliography records (t-shirt #7, TAAMN #110, 2015 news #9, summary table, Philip Chang #191, Flushing parade #2); none concern this Davis club. SKIP-deepen, verified saturated.

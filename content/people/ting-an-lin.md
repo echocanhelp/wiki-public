@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # Ting-An Lin (林庭安)
 
@@ -61,3 +61,4 @@ _No filled family fields on the TAH profile._
 - Re-verified 2026-09-22 (slice 09220400-18): SKIP — same hit set (whos-who-1803, works index, both TJJ camp columns, 釋字第791號 text); nothing new absorbable.
 - Re-verified 2026-09-23 (slice 09221200-12): SKIP — grep returns only whos-who-1803, works index, the two TJJ 海台青 camp columns, and the 釋字第791號 petitioner record; nothing new absorbable.
 - Re-verified 2026-09-24 (slice 09230600-19): SKIP — same hit set (whos-who-1803, works index, both TJJ 海台青 camp columns, 釋字第791號 text); nothing new absorbable.
+- 複核（deepen-x slice 09240600-6, 2026-09-25）：fresh grep 林庭安／Ting-An Lin — hit set unchanged（whos-who-1803、works index、兩篇 TJJ 海台青專欄、釋字第791號聲請人文）；無新可吸收材料 — SKIP。
