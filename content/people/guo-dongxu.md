@@ -53,3 +53,4 @@ Use Echopedia Community Contributions Hub.
 - SKIP-deepen: no corpus hits in `content/works` / `content/articles` for 郭東緒 / Guo Dongxu beyond this page and the GSTPC org page; existing bulletin-derived material (10 pages, 2020–2021) is already reflected. No new absorbable material, nothing invented.
 - Re-grepped 2026-09-20 (slice 09190300-10): still zero hits in `content/works` / `content/articles` for 郭東緒 / Guo Dongxu. SKIP stands.
 - Re-grepped 2026-09-21 (slice 09201503-14): still zero hits in `content/works` / `content/articles`. SKIP stands; page remains bulletin-sourced only.
+- Re-grepped 2026-09-25 (slice 09231100-30): still zero hits in `content/works` / `content/articles` for 郭東緒 / Guo Dongxu. SKIP stands.

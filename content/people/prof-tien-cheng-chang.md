@@ -33,7 +33,7 @@ Prof. Tien-Cheng Chang 張典正教授 – History of Taiwanese American (T.A. A
 ## Role in the Community
 
 HOLD: no substantive corpus hits beyond his own bibliographic record — [[works/taiwaneseamericanhistory-org/whos-who-1948-tien-cheng-chang|1948. Prof. Tien-Cheng Chang 張典正教授]] (2017-11-16, held in corpus). Note his listed affiliation with the T.A. Archives 台美史料中心 in the snapshot above; no memoir material in works/articles to absorb, biography not invented here.
-- Corpus sweeps re-run 2026-09-20, 2026-09-21, and 2026-09-22 (deepen-x slices 09201503-12, 09211507-20): fresh grep for 'Tien-Cheng Chang / 張典正' in content/works + content/articles returns no hits beyond his own record and its works/index entry — HOLD stands, verified saturated.
+- Corpus sweeps re-run 2026-09-20, 2026-09-21, and 2026-09-22 (deepen-x slices 09201503-12, 09211507-20): fresh grep for 'Tien-Cheng Chang / 張典正' in content/works + content/articles returns no hits beyond his own record and its works/index entry — HOLD stands, verified saturated; re-swept 2026-09-25 (slice 09231100-30) — same single hit (own record + index), no change.
 
 ## Family
 
