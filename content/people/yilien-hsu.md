@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-25
 ---
 # Yilien Hsu
 
@@ -35,7 +35,7 @@ _No filled family fields on the TAH profile._
 
 ## Role in the Community
 
-The TAH collection preserves her Who's Who profile [[works/taiwaneseamericanhistory-org/whoswho981|TAH #981]] (2016-05-08) and a contributed flute performance recording, [[works/taiwaneseamericanhistory-org/340-yilien-hsu-flute-201605|TAH #340「Yilien Hsu, Flute」]] (2016-05-08) — her artistry itself entered the Taiwanese American community archive alongside her orchestral careers listed above. Chinese name not recorded in the corpus.
+The TAH collection preserves her Who's Who profile [[works/taiwaneseamericanhistory-org/whoswho981|TAH #981]] (published 2016-05-08) and a contributed flute performance recording, [[works/taiwaneseamericanhistory-org/340-yilien-hsu-flute-201605|TAH #340「Yilien Hsu, Flute」]] (published 2016-05-08, same-day batch) — her artistry itself entered the Taiwanese American community archive alongside her orchestral careers listed above. Both corpus records are bibliographic stubs; re-verified 2026-09-25 (slice deepen-x-09231500-21): no memoir mentions beyond these two entries. Chinese name not recorded in the corpus.
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/yilien-hsu/)

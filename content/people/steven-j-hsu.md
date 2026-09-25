@@ -41,6 +41,7 @@ _No filled family fields on the TAH profile._
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/steven-j-hsu/)
 
 ## Working notes
+- 2026-09-25 deepen-x slice 09231500-18: SKIP — repeat corpus grep (許中人 / Steven J. Hsu, including loose "Steven") confirms no hit names him; the loose hits are other Stevens (Cheng 鄭敏雄, Wu 巫知慧, Chen 陳榮仁). Only his own band-B record remains; nothing absorbable.
 - 2026-09-21 deepen-x slice 09210051-17: SKIP — corpus grep for 許中人 / Steven J. Hsu returns only his own band-B bibliographic record [[works/taiwaneseamericanhistory-org/whsoswho1354|1354. Steven J. Hsu 許中人 / 2016-11]] (full text in vault) plus index listings; no community/corpus facts absorbable.
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # Jacy Chen (陳彩雲博士)
 
@@ -40,6 +40,7 @@ _No filled family fields on the TAH profile._
 - 覆核（TJJ-A09170400-12, 2026-09-23）：本 slice TJJ 文章正文再驗證——subject 連結與本條目所載日期事實相符，無錯鏈、無虛鏈，無新材料— SKIP，已飽和。
 - 2019-09-03 — Signed the overseas Taiwanese organizations' joint statement 「拒一國兩制！海外台灣人社團：支持香港反對中國暴政」 as 「北美台灣人婦女會會長陳彩雲博士」 (President, North America Taiwanese Women's Association), alongside officers of NATPA, WUFI-USA, FAPA, WTC, WFTA, TAA, the Chen Wen-chen Memorial Foundation and the Kang-Lu Wang Memorial Foundation ([[articles/taiwanjustice-net/2024/20240221122756_root_53455d7e13136092|TJJ record, 2024-02-21 archive of the 2019-09-04 posting]]).
 - 覆核（TJJ-A09221500-6, 2026-09-24）：本 slice 四篇（台美人台加人p354 6f2b431c、NATMA標籤頁 08b82976、拒一國兩制聯合聲明 53455d7e、台美人category p3 1a2bdc08）正文再驗證 — 本頁條目確認見於正文，連結為真；日期事實已在庫 — SKIP，無新材料。
+- 覆核（deepen-x-09231500-21, 2026-09-25）：全庫 ZH+EN grep — 命中僅自有 TAH 條目存根 [[works/taiwaneseamericanhistory-org/whoswho1573|1573. Jacy Chen 陳彩雲]]（published 2017-03-22）及已載的挺港聯合聲明 TJJ 記錄，無新回忆錄材料 — SKIP，已飽和。
 
 ## Sources
 - Her own TAH Who's Who entry is archived in the corpus at [[works/taiwaneseamericanhistory-org/whoswho1573|1573. Jacy Chen 陳彩雲 / 2017/03]].
