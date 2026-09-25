@@ -39,3 +39,4 @@ The San Francisco Taiwanese Association (舊金山台灣同鄉會) is a regional
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - Corpus re-grep（deepen-x slice 09231100-1, 2026-09-25）：命中集不變（SFTA 書目記錄、ourjourneys38-eng、Pew 連署聲明、works/index）— saturated，SKIP，無新社群材料可吸收。
+- Corpus re-grep（deepen-x slice 09250317-2, 2026-09-25）：fresh grep（San Francisco Taiwanese Association／舊金山台灣同鄉會，works+articles）命中集不變（SFTA 書目記錄、ourjourneys38-eng、works/index、Pew 連署聲明）— saturated，SKIP，無新社群材料可吸收。

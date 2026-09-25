@@ -43,6 +43,7 @@ Michelle Wu was born in 1985 in Chicago, Illinois to Taiwanese immigrant parents
 - 複核（deepen-x 2026-09-22 / 0923 slice-2）：corpus re-grep（吳彌／吳弭／Michelle Wu，works+articles）命中集不變（whos-who-2166、ota-220、michelle-wu profile、my-stories-809、my-stories-876、index），全數已吸收；漢名 HOLD（吳彌 vs 吳弭）維持。
 - 報導視角補證：TJJ 專題標籤「台灣移民之女吳弭Michelle Wu可能成為波士頓市長」（鄭炳全專欄，2021-09-13）以「台灣移民之女」框架追蹤其選情，報導通行漢名作「吳弭」——為 HOLD（吳彌 vs 吳弭）再添社群報導佐證（[[articles/taiwanjustice-net/2021/20211023214533_tag_台灣移民之女吳弭michelle-wu可能成為波士頓市長_09ee9b97dc0e254c|TJJ tag, 2021-10-23]]）。
 - 再複核（slice 09231000-3，2026-09-25）：fresh grep 吳彌|吳弭|Michelle Wu（works+articles）命中集不變（whos-who-2166、ota-220、michelle-wu profile、my-stories-809、my-stories-876、bonnie-jin、TJJ tag），全數已連結；漢名 HOLD（吳彌 vs 吳弭）維持。SKIP。
+- 再複核（slice 09250317-2，2026-09-25）：fresh grep（works+articles）命中集不變（whos-who-2166、ota-220、michelle-wu profile、my-stories-809、my-stories-876、index）— saturated，SKIP；漢名 HOLD（吳彌 vs 吳弭）維持。
 
 ## Family
 

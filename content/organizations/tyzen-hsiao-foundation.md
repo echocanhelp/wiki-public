@@ -39,3 +39,4 @@ The vault's community record documents the musical legacy this foundation exists
 - [[people/tyzen-hsiao||Tyzen Hsiao (蕭泰然)]]
 - [[organizations/tyzen-hsiao-music-works||TYZEN HSIAO MUSIC WORKS]] — TAH lists a second org; not merged
 - Corpus re-grep（deepen-x slice 09231100-1, 2026-09-25）：命中集不變（tyzen-hsiao-foundation 書目記錄、ourjourneys339、works/index）— saturated，SKIP，無新社群材料可吸收。
+- Corpus re-grep（deepen-x slice 09250317-2, 2026-09-25）：fresh grep（蕭泰然基金會／Tyzen Hsiao Foundation，works+articles）命中集不變（tyzen-hsiao-foundation 書目記錄、ourjourneys339、works/index）— saturated，SKIP； FOUNDING-DATE HOLD 與 MUSIC WORKS 未合併狀態維持。
