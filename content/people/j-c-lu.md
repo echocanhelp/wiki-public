@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-25
 ---
 # J. C. Lu (盧健治)
 
@@ -34,7 +34,7 @@ last_reviewed: 2026-09-22
 - Recorded in the TAH Foundation encyclopedia: [[works/taiwaneseamericanhistory-org/whoswho1142|1142. J. C. Lu 盧健治]], published 2016-07-14 (band B — community historical record).
 - Pharmacy training at 高雄醫學院 (B.S. 藥劑); spouse [[people/josephine-lu||沈雲冰]] also carried in the community record.
 
-- 2026-09-22 re-verified: fresh corpus grep (ZH+EN) over works/ and articles/ returned only this own TAH record page — no memoir/journal material to absorb beyond what is already recorded above.
+- 2026-09-25 re-verified: fresh corpus grep (ZH+EN) over works/ and articles/ returned only this own TAH record listing in works/index.md — no memoir/journal material to absorb beyond what is already recorded above.
 ## Sources
 - [TAH #1142 encyclopedia: 1142. J. C. Lu 盧健治 / 2016/07](https://taiwaneseamericanhistory.org/whoswho1142/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/j-c-lu/)

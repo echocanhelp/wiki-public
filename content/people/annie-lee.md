@@ -7,9 +7,10 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-25
 ---
 # Annie Lee (李大妮)
+# deepen-x 09232337-1: SKIP re-verified 2026-09-25 — fresh ZH+EN grep (李大妮/Annie Lee) matched only own TAH #1256 record + works/index; nothing absorbable
 
 ## Identity Snapshot
 - **English:** Annie Lee
