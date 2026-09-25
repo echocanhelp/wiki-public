@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-25
 ---
 # Yang Yang (楊陽)
 
@@ -47,3 +47,4 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+<!-- deepen-x slice 09231100-7 (2026-09-25): verified saturated — fresh ZH+EN grep of works/ + articles/ returns only the person's own TAH Who's Who record + works index; no memoir/community material to absorb. -->

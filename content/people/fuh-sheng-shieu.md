@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-25
 ---
 <!-- deepen-x slice 09170400-20: SKIP — corpus grep hits only the person's own TAH Who's Who bibliographic record (works/taiwaneseamericanhistory-org/914-fuh-sheng-shieu-...); no memoir/community material to absorb. -->
 # Fuh-Sheng Shieu (薛富盛)
@@ -52,3 +52,4 @@ last_reviewed: 2026-09-22
 
 <!-- deepen-x slice 09201503-17 (2026-09-21): SKIP re-verified — corpus re-grep (薛富盛) hits only own TAH #914 record + works index; no community/memoir material. -->
 <!-- deepen-x slice 09211507-20 (2026-09-22): SKIP re-verified — corpus re-grep (薛富盛/Fuh-Sheng Shieu) again hits only own TAH #914 record + works index; verified saturated. -->
+<!-- deepen-x slice 09231100-7 (2026-09-25): verified saturated — fresh ZH+EN grep of works/ + articles/ returns only the person's own TAH Who's Who record + works index; no memoir/community material to absorb. -->
