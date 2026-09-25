@@ -46,3 +46,4 @@ Accomplishment
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - 2026-09-25 deepen-x re-check (slice -4): fresh grep ZH+EN hits remain only own record + index; 張靜芬 vocal pages are the other Ching-Fen Lin (SKIP).
+- 2026-09-25 deepen-x slice 09231200-4 (retry run): fresh ZH+EN grep verified-saturated — hit set identical to prior passes; nothing new absorbable.

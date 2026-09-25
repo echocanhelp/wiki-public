@@ -54,3 +54,4 @@ _No filled family fields on the TAH profile._
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 - Corpus re-grep 2026-09-25 (deepen-x slice 09231200-4): works/ and articles/ again returned only the subject record + works index — no community-authored material to absorb (SKIP).
+- 2026-09-25 deepen-x slice 09231200-4 (retry run): fresh ZH+EN grep verified-saturated — hit set identical to prior passes; nothing new absorbable.

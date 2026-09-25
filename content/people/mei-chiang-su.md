@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-25
 ---
 # Mei Chiang Su (江美惠)
 
@@ -47,3 +47,4 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+<!-- deepen-x 09231200-6: re-verify 2026-09-25 — fresh ZH+EN grep: own whos-who-1754 record + index digest only; SKIP content-deepen. -->
