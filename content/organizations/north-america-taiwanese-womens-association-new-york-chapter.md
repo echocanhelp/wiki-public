@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # North America Taiwanese Women’s Association – New York Chapter (北美洲台灣婦女會紐約分會)
 
@@ -36,3 +36,5 @@ Corpus evidence for the parent body NATWA (北美洲台灣婦女會):
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+Corpus re-check 2026-09-25 (deepen-x slice 09240600-3): fresh ZH+EN grep of works/+articles/ — hit set identical to the records already absorbed and linked above; no new absorbable material. Verified-saturated; SKIP-deepen.

@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # Columbus Taiwanese Association of America (哥倫布)
 
@@ -35,3 +35,5 @@ The Columbus Taiwanese Association of America (TAACOLS), also known in Chinese a
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 Corpus re-check 2026-09-24 (deepen-x slice 09230600-3): fresh ZH+EN grep of works/+articles/ — hit set identical to what is already absorbed and linked above (our-journeys-354, ff149, UN-festival record, TJJ 紀念陳文成 2025-05). Verified-saturated; SKIP-deepen.
+
+Corpus re-check 2026-09-25 (deepen-x slice 09240600-3): fresh ZH+EN grep of works/+articles/ — hit set identical to the records already absorbed and linked above; no new absorbable material. Verified-saturated; SKIP-deepen.

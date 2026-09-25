@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # Dr. Cherng Jia Huang (黃呈嘉博士)
 
@@ -58,3 +58,5 @@ last_reviewed: 2026-09-24
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+Corpus re-check 2026-09-25 (deepen-x slice 09240600-3): fresh ZH+EN grep of works+articles — hit set matches existing links; one new absorbable detail from Our Journeys #38 (《臺灣政論》停刊日 1975-12-27；1976-01-23 協志會座談會邀總領事李裕生說明停刊與白雅燦事件) merged into Role in the Community.

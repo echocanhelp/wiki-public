@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # Johns Hopkins University Taiwanese Student Association
 
@@ -32,3 +32,5 @@ The Baltimore campus sits in historic Taiwanese community territory: by the earl
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+Corpus re-check 2026-09-25 (deepen-x slice 09240600-3): fresh ZH+EN grep of works/+articles/ — hit set identical to the records already absorbed and linked above; no new absorbable material. Verified-saturated; SKIP-deepen.
