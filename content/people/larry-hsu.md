@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-25
 ---
 # Larry Hsu (許中強)
 
@@ -46,3 +46,5 @@ last_reviewed: 2026-09-22
 > SKIP re-check (deepen-x 09191200-29, 2026-09-21): fresh grep of content/works + content/articles returned only this person own TAH bibliographic record — no community/memoir material to absorb.
 
 > Re-check (deepen-x 09210900-20, 2026-09-22): fresh grep of content/works + content/articles — only hits are this person's own TAH bibliographic record plus the works/index listing. SKIP confirmed; nothing absorbable, no biography invented.
+
+> Re-check (deepen-x 09231300-15, 2026-09-25): fresh ZH+EN grep of content/works + content/articles — hit set identical to prior passes (own TAH bibliographic record + works/index only). SKIP confirmed; nothing absorbable, no biography invented.

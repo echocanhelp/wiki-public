@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-25
 ---
 # Jyh-Fa Kuo (郭智化)
 
@@ -51,3 +51,5 @@ SKIP-with-reason (2026-09-18): the sole corpus record is his own TAH encyclopedi
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 > Re-check (deepen-x 09210900-20, 2026-09-22): fresh grep of content/works + content/articles — only hits are this person's own TAH bibliographic record plus the works/index listing. SKIP confirmed; nothing absorbable, no biography invented.
+
+> Re-check (deepen-x 09231300-15, 2026-09-25): fresh ZH+EN grep of content/works + content/articles — hit set identical to prior passes (own TAH bibliographic record + works/index only). SKIP confirmed; nothing absorbable, no biography invented.

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-25
 ---
 # Victor Liu (劉亮華)
 
@@ -49,3 +49,5 @@ last_reviewed: 2026-09-22
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+> Re-check (deepen-x 09231300-15, 2026-09-25): fresh ZH+EN grep of content/works + content/articles — hit set identical to prior passes (own TAH bibliographic record + works/index only). SKIP confirmed; nothing absorbable, no biography invented.
