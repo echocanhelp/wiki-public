@@ -48,3 +48,4 @@ _No filled family fields on the TAH profile._
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - Re-grepped corpus 2026-09-25 (slice 09231000-31): still only whoswho1289 + musician366 + index rows; 李阡綸 absent elsewhere — SKIP-with-reason stands.
+<!-- deepen-x slice 09250400-22 (2026-09-25): SKIP re-verified — fresh grep (李阡綸/Chien-Lun Lee) returns only own whoswho1289 + musician366 + index rows; Clare hits remain false positives. -->
