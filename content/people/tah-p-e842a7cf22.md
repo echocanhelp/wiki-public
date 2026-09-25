@@ -6,7 +6,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # 楊金文
 
@@ -57,3 +57,5 @@ _No filled family fields on the TAH profile._
 - Re-grep 2026-09-22 (slice 09211500-24): re-confirmed saturated — corpus hits limited to own TAH #754 record + already-absorbed [[works/taiwaneseamericanhistory-org/ourjourneys155|OurJourneys 155]] + index; nothing new.
 - Re-grep 2026-09-23 (slice 09221000-19): re-confirmed saturated — hits limited to own TAH #754 record + already-absorbed [[works/taiwaneseamericanhistory-org/ourjourneys155|OurJourneys 155]] (where he is named 主持人/大會總幹事, already in the section above) + index; nothing new.
 - Re-grep 2026-09-24 (slice 09230500-29): re-confirmed saturated — 楊金文 hits = own TAH #754 record + [[works/taiwaneseamericanhistory-org/ourjourneys155|OurJourneys 155]] subject/related-page mentions only; nothing new absorbable.
+
+- Re-grep 2026-09-25 (slice 09240500-21): re-confirmed saturated — hits = own TAH #754 record + already-absorbed [[works/taiwaneseamericanhistory-org/ourjourneys155|OurJourneys 155]] + index; nothing new absorbable.

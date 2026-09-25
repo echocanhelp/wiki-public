@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # H. J. Andrew Wang (王惠鈞)
 
@@ -53,3 +53,5 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+- Re-verified 2026-09-25 (slice 09240500-21): fresh ZH+EN grep matches only TAH #944, the 武漢肺炎 article record, and index — verified-saturated, SKIP; HOLD on the 1947 Ph.D.-date conflict stands.

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # Dr. Doug Chen-Hua Yu (余振華博士)
 
@@ -50,3 +50,5 @@ _No filled family fields on the TAH profile._
 > Saturate-note (deepen-x slice 09211400-30, 2026-09-22): idempotent re-verify — corpus re-grep (ZH 余振華 + EN Chen-Hua Yu) hit set unchanged (whos-who-1923 + mystories597 + 台積研發六騎士 article, all already linked above); no new absorbable corpus facts.
 > Saturate-note (deepen-x slice 09220900-32, 2026-09-23): re-verify — hit set again identical (whos-who-1923, mystories597, 台積研發六騎士 article, works index); nothing further absorbable.
 > Saturate-note (deepen-x slice 09230400-25, 2026-09-24): re-verify — hit set identical (whos-who-1923, mystories597, 台積研發六騎士 article, works index); the 台積研發六騎士 snippet (前研發副總經理, alongside 林本堅/梁孟松/楊光磊/蔣尚義/孫元成) already absorbed. SKIP: page saturated.
+
+> Saturate-note (deepen-x slice 09240500-21, 2026-09-25): re-verify — hit set identical (whos-who-1923, mystories597, 台積研發六騎士 article, index); nothing new absorbable. SKIP: page saturated.
