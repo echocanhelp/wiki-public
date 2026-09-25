@@ -48,3 +48,4 @@ Name-variant: corpus uses both "Carole Huang" and "Carol Huang" for her. HOLD: [
 <!-- deepen-x slice 09220500-22 re-verify 2026-09-22: fresh grep of works/+articles/ — hit set identical to records already cited/absorbed on this page; verified-saturated, no new absorbable facts -->
 
 - 2026-09-25 DEEPEN-X09230900-17 re-run: fresh grep hit set identical (ourjourneys-138, ourjourneys263, ff306, whos1383) — verified-saturated, SKIP; 黃欣怡 HOLD stands.
+- 2026-09-25 DEEPEN-X09250317-9 re-run: fresh grep hit set identical (ourjourneys-138, ourjourneys263, ff306, whos1383, works index) — verified-saturated, SKIP; 黃欣怡 HOLD stands.

@@ -48,3 +48,4 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+\nCorpus re-grep (slice 09250317-9, 2026-09-25): identical hit set (whos-who-1175, 117, 中央社 article, works index); saturated, no new absorbable facts.
