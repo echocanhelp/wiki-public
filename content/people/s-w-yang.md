@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-25
 ---
 # S. W. Yang (楊筱薇)
 
@@ -42,6 +42,7 @@ _No filled family fields on the TAH profile._
 
 - The TAH encyclopedia holds her record: [[works/taiwaneseamericanhistory-org/whos-who-1713-s-w-yang|1713. S. W. Yang 楊筱薇]] (published 2017-07-02), a bibliographic record only.
 - Corpus re-greps 2026-09-19, 2026-09-21, and 2026-09-22 (deepen-x 09210900-29; 楊筱薇 / S. W. Yang): hits confined to her own encyclopedia record above; no memoir or article mentions — nothing new absorbable this pass (SKIP).
+- Re-verified 2026-09-25 (deepen-x slice 09231500-14): fresh ZH+EN grep returns only her own record [[works/taiwaneseamericanhistory-org/whos-who-1713-s-w-yang|whos-who-1713]]; no article or memoir mentions. SKIP stands.
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

@@ -41,6 +41,7 @@ last_reviewed: 2026-09-25
 ## Role in the Community
 - Recorded in the TAH Foundation Who's Who corpus as [[works/taiwaneseamericanhistory-org/whos-who-2073|2073. Dr. Kent Wu 吳英資博士 / 03/2018]] (published 2018-03-24, band B — bibliographic record; full text stays in the vault). No memoir or movement-activity material in the corpus beyond the press-kit tables above.
 - Era given as 1936–2003 in the snapshot while the record itself is dated 2018 (posthumous profile) — no conflict, publication date ≠ lifespan.
+- Re-verified 2026-09-25: fresh ZH+EN grep returns only own TAH record and works index; no memoir or movement-activity material. SKIP stands.
 
 ## Sources
 - [TAH #2073 encyclopedia: 2073. Dr. Kent Wu 吳英資博士/ 03/2018](https://taiwaneseamericanhistory.org/whos-who-2073/)
@@ -49,4 +50,3 @@ last_reviewed: 2026-09-25
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
-- Re-verified 2026-09-25: fresh ZH+EN grep returns only own TAH record and works index; no memoir or movement-activity material. SKIP stands.
