@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # Dr. Jeffrey Tsai (蔡長宗醫師)
 
@@ -49,3 +49,5 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+- Corpus re-scan 2026-09-25 (deepen-x slice 09240600-18): fresh grep 蔡長宗 / Jeffrey Tsai over works/ + articles/ — hit set identical (ourjourneys186/-eng, ourjourneys272/-eng, whos-who-2248, taiwanjustice 20180208 event listings incl. the 2020-02-29 repost of the same Feb session), all absorbed above. SKIP: verified-saturated.

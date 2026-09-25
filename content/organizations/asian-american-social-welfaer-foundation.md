@@ -33,6 +33,7 @@ last_reviewed: 2026-09-24
 
 2026-09-21 / 2026-09-22 / 2026-09-23 (deepen-x slice 09221200-4) re-grep (亞美社會福利 / Welfaer / Asia American Social Benefit): same hit set (asia-america-fund, TAH eNews, 台灣公義報三篇), all already linked — nothing new absorbable. SKIP-deepen.
 2026-09-24 (deepen-x slice 09230600-16) re-grep: hit set unchanged (asia-america-fund, TAH eNews, three TJJ articles + index) — all already linked. Verified saturated; SKIP-deepen.
+2026-09-25 (deepen-x slice 09240600-22) re-grep (亞美社會福利 / Welfaer / Asia American Social Benefit): hit set unchanged (asia-america-fund, TAH eNews, TJJ articles + index), all already linked. SKIP-deepen (saturated).
 
 ## Source Notes
 

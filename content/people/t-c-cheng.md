@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # T. C. Cheng (鄭天佐)
 
@@ -52,6 +52,8 @@ _No filled family fields on the TAH profile._
 Corpus re-check 2026-09-23 (deepen-x slice 09221200-17): fresh grep for 鄭天佐/鄭天助/T. C. Cheng — substantive hits unchanged (whowswho953, whoswho1232, our-journeys-377/378, ourjourneys33-eng); other matches are false positives on the "Tien C." string (publications1343/1344 = author Tien C. Lee; ourjourneys75-eng = Dr. Tien Chao-ming, a different person). #377 verbatim confirms the page text (第三任 1986–1988 芝加哥鄭天助醫師、第四任卓甫良). Verified-saturated; both HOLDs stand.
 
 Corpus re-check 2026-09-24 (deepen-x slice 09230600-17): fresh grep 鄭天佐/鄭天助/T. C. Cheng/Tien C — hit set identical to the 2026-09-23 check (whowswho953, whoswho1232, our-journeys-377/378, ourjourneys33-eng substantive; publications1343/1344 and ourjourneys75-eng remain "Tien C." string false positives). Verified saturated; both HOLDs stand.
+
+Corpus re-check 2026-09-25 (deepen-x slice 09240600-16): fresh grep 鄭天佐/鄭天助/T. C. Cheng/Tien C — hit set identical to prior checks (whowswho953, whoswho1232, our-journeys-377/378, ourjourneys33-eng substantive; publications1343/1344 = author Tien C. Lee, ourjourneys75-eng = Dr. Tien Chao-ming — string false positives). Verified saturated; both HOLDs stand — SKIP-with-reason.
 
 ## Sources
 - [TAH #953 encyclopedia: 953. T. C. Cheng 鄭天佐 / 2016/04](https://taiwaneseamericanhistory.org/whowswho953/)
