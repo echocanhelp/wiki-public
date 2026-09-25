@@ -45,6 +45,7 @@ Ger and his wife 吳瑩瑛 (Janice Ger) contributed memoir writing to the TA.org
 The corpus holds these as band-B community records (full text stays in the vault); no third-party memoir mentions of Ger were found beyond his own bylines this pass. A separate band-B memoir under his wife's name — [[works/taiwaneseamericanhistory-org/mystories236|236. 父親的國畫之路 / 吳瑩瑛 / 2015-04]] — shares the byline 吳瑩瑛 with the #625 co-author; identity with [[people/janice-ger|Janice Ger]] is plausible but HOLD (same name ≠ verified same person, no auto-merge).
 
 Re-verified 2026-09-23 (also 09-22, 09-21): fresh corpus grep returns only these own-bylines works plus the index — still no third-party memoir mentions.
+Re-verified 2026-09-25 (deepen-x slice 09231000-30): fresh grep for 葛原隆/James Ger returns only own-bylines #625, #385, and the works index — corpus-saturated, nothing new.
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/james-ger/)

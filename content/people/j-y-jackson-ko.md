@@ -38,6 +38,7 @@ last_reviewed: 2026-09-25
 
 - Re-verified 2026-09-22 (deepen-x slice 09210831-17): fresh grep hits remain his own TAH #1768 record, [[works/taiwaneseamericanhistory-org/ourjourneys12|Our Journeys 12]] (already absorbed above), and the works index — no new absorbable material.
 - Re-verified 2026-09-22 (deepen-x slice 09220700-18) and 2026-09-23 (deepen-x slice 09221500-32): grep for 柯哲洋 / Jackson Ko again returns only whoswho1768, ourjourneys12, and the works index — corpus-saturated, nothing new.
+- Re-verified 2026-09-25 (deepen-x slice 09231000-30): grep for 柯哲洋/Jackson Ko again returns only whoswho1768, ourjourneys12, and the works index — corpus-saturated, nothing new.
 ## Sources
 - [TAH #1768 encyclopedia: 1768.  J. Y. Jackson Ko 柯哲洋 / 2017](https://taiwaneseamericanhistory.org/whoswho1768/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/j-y-jackson-ko/)
