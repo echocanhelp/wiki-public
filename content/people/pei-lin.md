@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-25
 ---
 # Pei Lin (林伯修)
 
@@ -37,6 +37,8 @@ last_reviewed: 2026-09-22
 ## Sources
 - [TAH #963 encyclopedia: 963.  Pei Lin 林伯修/ 2016/05](https://taiwaneseamericanhistory.org/whoswho963/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/pei-lin/)
+
+- Fresh re-verified 2026-09-25 (slice 09232337-25): grep 林伯修/Pei Lin — own record whoswho963 + works index only; SKIP-with-nothing-absorbable stands.
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
