@@ -5,12 +5,14 @@ redirect_to: taiwan-center
 tags:
   - redirect
 verification_status: redirect
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-25
 ---
 
 # Moved
 
 Corpus review 2026-09-20: founding-committee and opening-era corpus records (TAH #9, #29) absorbed at the canonical page.
+
+Corpus re-check 2026-09-25: hits remain opening-era material (e.g. grand-opening report with Naruwan Taiko Club, TAFSD/TACC officials, plaque to Dr. Ming Wu & Dr. Winston Lue in [[works/taiwaneseamericanhistory-org/ourjourneys162-eng|TAH #162]]; committee birth memoir by Patrick Huang in [[works/taiwaneseamericanhistory-org/ourjourneys9-eng|TAH #9]]) — all belong at the canonical page, nothing new absorbable on this redirect.
 
 Canonical page: **[[organizations/taiwan-center||Taiwan Center Foundation of the Greater Los Angeles (大洛杉磯台灣會館)]]**.
 

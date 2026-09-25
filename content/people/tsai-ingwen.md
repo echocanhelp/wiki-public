@@ -16,7 +16,7 @@ Former provisional slug: `tsai-ingwen`.
 
 ## Works
 
-**tsai-ingwen** has **0** articles where they appear in the title and **0** additional articles that mention them in the body. (This redirect stub is not entity-linked; corpus mentions of 蔡英文 / Tsai Ing-wen number in the thousands across `content/works` + `content/articles`, e.g. [[works/taiwaneseamericanhistory-org/4-president-tsai-ing-wen-of-taiwan-first-time-visited-u-s-a-on-june-24-30-2016|4. President Tsai Ing-wen's first U.S. visit, June 24–30 2016 (TAH)]]). Deepen-X 2026-09-25 re-check: mentions confirmed (videos47, ourjourneys320, our-journeys-378, ourjourneys290, 12-26) but this redirect stub absorbs none — SKIP here; deepen [[people/tsai-ing-wen]] instead.
+**tsai-ingwen** has **0** articles where they appear in the title and **0** additional articles that mention them in the body. (This redirect stub is not entity-linked; corpus mentions of 蔡英文 / Tsai Ing-wen number in the thousands across `content/works` + `content/articles`, e.g. [[works/taiwaneseamericanhistory-org/4-president-tsai-ing-wen-of-taiwan-first-time-visited-u-s-a-on-june-24-30-2016|4. President Tsai Ing-wen's first U.S. visit, June 24–30 2016 (TAH)]]. Deepen-X 2026-09-25 re-check: mentions confirmed (videos47, ourjourneys320, our-journeys-378, ourjourneys290, 12-26) but this redirect stub absorbs none — SKIP here; deepen [[people/tsai-ing-wen]] instead.
 
 ## Quotes
 
