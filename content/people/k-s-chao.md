@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-25
 ---
 # K. S. Chao (趙坤山)
 
@@ -31,6 +31,9 @@ last_reviewed: 2026-09-22
 - 紐約長老會醫院 — 2008-2015 — 放射腫瘤科主任
 - 美國德州安德森癌症中心 — 2002-2008 — 放射腫瘤科主任
 <!-- tah-tables:end -->
+
+## Role in the Community
+Name appears only in its own TAH encyclopedia record [[works/taiwaneseamericanhistory-org/whoswho1195|1195. K. S. Chao 趙坤山 / 2016/07]]. Fresh 2026-09-25 ZH+EN corpus greps of works/ and articles/ found no memoir or community mentions — career detail above remains sourced solely from the TAH profile (SKIP-with-reason; no absorbable community facts).
 
 ## Family
 

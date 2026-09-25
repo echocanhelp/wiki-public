@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-25
 ---
 # Miriam Liu Wu (劉逸青)
 
@@ -33,6 +33,7 @@ last_reviewed: 2026-09-22
 
 - Recorded in the TAH Foundation encyclopedia as entry #1214 (2016-08-06): [[works/taiwaneseamericanhistory-org/1214-miriam-liu-wu-e5-8a-89-e9-80-b8-e9-9d-92-201608|1214. Miriam Liu Wu 劉逸青 / 2016/08]] — the community-historical record of her profile in the TAHS story corpus.
 - Corpus record is bibliographic only (band B); no memoir text available for further absorb (re-verified 2026-09-22 — no corpus mentions beyond entry #1214 and the works index).
+- deepen-x slice 09232232-3 (2026-09-25): fresh ZH+EN grep — only hit is the works/index.md bibliographic line for #1214; nothing absorbable beyond the existing note.
 
 ## Family
 
