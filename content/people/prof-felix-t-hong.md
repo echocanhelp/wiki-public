@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # Prof. Felix T. Hong (洪正幸教授)
 
@@ -51,3 +51,4 @@ _No filled family fields on the TAH profile._
 - Re-grep 2026-09-22 (slice 09211500-21): hit set unchanged (ourjourneys321 + 321-eng memoir, ourjourneys123 chronicle, own TAH #1864 record, index) — both community facts already absorbed above; verified saturated, no conflicts.
 - Re-grep 2026-09-23 (slice 09220900-31, 洪正幸 / Felix T. Hong): hit set unchanged (ourjourneys321 + 321-eng + ourjourneys123 + own TAH #1864 + index). Memoir passage re-read verbatim: 洪正幸 with 林宜雄、許國助 drafted the 陳文成追悼會 announcement, posted posters, helped buy flower wreaths and handled 連絡 (Detroit/Wayne State circle) — already absorbed; 萬國節《教育》演講 likewise. Verified saturated, no conflicts.
 - Re-grep 2026-09-24 (slice 09230400-16): fresh ZH+EN re-grep returned the identical set (ourjourneys321 + 321-eng + ourjourneys123 + whos-who-1864 + index) — verified-saturated, SKIP-with-reason; no new community facts, no conflicts.
+- Re-grep 2026-09-25 (slice 09240400-5): fresh ZH+EN re-grep (洪正幸 / Felix T. Hong) returned the identical set (ourjourneys321 + 321-eng + ourjourneys123 + whos-who-1864 + index) — verified-saturated, SKIP-with-reason; no new community facts, no conflicts.
