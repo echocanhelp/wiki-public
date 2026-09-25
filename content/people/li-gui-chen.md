@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # Li Gui Chen (陳麗貴)
 
@@ -57,6 +57,7 @@ Accomplishment
 
 - 複核 2026-09-23（DEEPEN-X slice 09220900-3 重跑，前次 run stale-lock 回收）：fresh ZH+EN corpus re-grep（content/works content/articles）hit set 與 2026-09-22 完全一致，全部命中已連結於本頁；無新回憶錄、社團或報導材料可吸收 — verified-saturated。
 - Corpus re-grep 2026-09-24 (slice 09230400-1)：verified-saturated — fresh ZH+EN grep hit set 與前次一致（whos-who-1835、月舞玫瑰報導、兩則《好國好民》巡迴公告），全部已連結；無新材料。
+- 複核（TJJ-A09240800-11, 2026-09-25）：本 slice 文章 b5e568ec43e787f1（《好國好民》美國巡迴放映座談會, 2011-10-15）正文再驗證——陳麗貴導演兼製片身分確認，連結為真，無錯鏈、無虛鏈；2011-10-15 條目（已掛該文 wikilink）已在庫 — SKIP，已飽和。
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

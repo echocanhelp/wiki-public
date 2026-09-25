@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # Zhang Xuanxin (張宣信)
 
@@ -58,6 +58,7 @@ In 2024/09 he appears in TAH's record of the Carnegie Hero Fund commission cerem
 
 - 2022-05-19 — VOA專訪張宣信牧師「政治傾向不同不是敵人」希望學習彼此尊重」刊於TJJ「台美人台加人」分類存檔頁（[[articles/taiwanjustice-net/2024/20240715153222_root_131a1c8ea05f85ea|TJJ 存檔頁, 2024-07-15 快照]]）。
 - Re-verify 2026-09-23 (TJJ-A09221200-7): link-check against slice article 131a1c8ea05f85ea（台美人台加人分類存檔頁 2024-07-15 快照）body —「VOA專訪張宣信牧師：政治傾向不同不是敵人」條目確認見於正文，連結為真；上方日期事實含該文 wikilink，已在庫，無新材料。
+- 複核（TJJ-A09240800-11, 2026-09-25）：本 slice 文章 8362234ba338aea7（南加州槍擊案的省思, 2022-05-17）正文再驗證——張宣信牧師與教友奮不顧己制服兇手之敘述確認見於正文，subject link 為真（無錯鏈、無虛鏈）；對應條目（已掛該文 wikilink）已在庫 — SKIP，已飽和。
 
 ## Vault Record Absorbed (2026-09-10)
 Details below are absorbed from pages already in the vault (no new sourcing):
