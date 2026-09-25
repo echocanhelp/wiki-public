@@ -46,3 +46,5 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+<!-- deepen-x slice 09231100-10 (2026-09-25): verified-saturated — fresh ZH+EN corpus re-grep hits only the already-cited records (own TAH encyclopedia entry + works index); no new absorbable facts. -->
