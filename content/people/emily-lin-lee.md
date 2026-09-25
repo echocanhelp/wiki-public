@@ -45,6 +45,7 @@ For more bio information, please click link in Who’s Who : 564. Emily Lin Lee 
 - Corpus re-grep 2026-09-22 (slice 09211500-27): ZH+EN scan returns only the already-absorbed records — the 紐約台灣會館老人中心 oral history 義工老師 roster ([[works/taiwaneseamericanhistory-org/ourjourneys316|ourjourneys316]], listed as 李林榮峰), the two 2020/09 Footsteps portraits ([[works/taiwaneseamericanhistory-org/footsteps-33|footsteps-33]], [[works/taiwaneseamericanhistory-org/footsteps-32|footsteps-32]]), and her own encyclopedia/artist records. No new memoir material; no conflicts. Verified-saturated.
 - Corpus re-grep 2026-09-23 (slice 09221000-14): 林榮峰/Emily Lin Lee/Emily Lee across works+articles returns exactly the same record set (whos564, artist53, ourjourneys316, footsteps-32/33, index) — verified saturated, no new facts, no conflicts.
 - Corpus re-grep 2026-09-24 (slice 09230500-27): ZH+EN scan of works+articles returns the identical set (whos564, ourjourneys316, footsteps-32/33, artist53, index) — no new memoir material. Verified-saturated.
+- Corpus re-grep 2026-09-25 (slice 09240500-20): 林榮峰/Emily Lin Lee/Emily Lee scan of works+articles returns the identical record set (whos564, artist53, ourjourneys316 義工老師 roster, footsteps-32/33, index); the ourjourneys316 roster passage re-read confirms her listing as 李林榮峰 among the 義工老師, already absorbed. No new facts, no conflicts. Verified-saturated.
 
 ## Sources
 - [TAH #564 encyclopedia: 564. Emily Lin Lee 林榮峰 /2015/08](https://taiwaneseamericanhistory.org/whos564-emily-lin-lee/)
