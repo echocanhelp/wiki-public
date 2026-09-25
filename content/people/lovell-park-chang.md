@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # Lovell Park Chang (張若葳)
 
@@ -52,3 +52,5 @@ _No filled family fields on the TAH profile._
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - Corpus re-verify (deepen-x 09221200-12, 2026-09-23): fresh grep 張若葳/Lovell Park Chang returns only ourjourneys306, musician94, whoswho1060 and the works index — all absorbed; SKIP-deepen.
 - Corpus re-verify (deepen-x slice 09230600-27, 2026-09-24): fresh grep 張若葳/Lovell Park Chang in works/ + articles/ returned the identical hit set (ourjourneys306, musician94, whoswho1060 + works index) — all absorbed; verified-saturated, SKIP-deepen.
+
+- Corpus re-verify (deepen-x slice 09240600-28, 2026-09-25): fresh grep 張若葳/Lovell Park Chang returned the identical hit set (ourjourneys306, musician94, whoswho1060 + works index) — all absorbed; verified-saturated, SKIP-deepen.

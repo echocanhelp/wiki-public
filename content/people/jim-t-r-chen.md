@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # Jim T. R. Chen (鄭昭任)
 
@@ -53,3 +53,5 @@ Corpus re-grep 2026-09-19 (slice 09180317-12) and 2026-09-20 (slice 09191100-12)
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+Corpus re-grep 2026-09-25 (slice 09240600-28): 鄭昭任/"Jim Chen" greps return the same set (TAH #811, ourjourneys33-2 + EN roster, works index) — all absorbed; verified-saturated, SKIP.
