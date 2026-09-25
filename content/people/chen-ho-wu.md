@@ -48,9 +48,12 @@ _No filled family fields on the TAH profile._
 - The Chinese founding memoir names him among the 十三位 friends 高淑貞 convened — 陳德輝、石清正、陳光博、施天墩、高淑貞、林典謨、張祿生、李華林、翁嘉盛、邱俊邦、邱光一、吳振和、張信行 — onto the 台灣會館籌備委員會 after she announced at the 聯合會卅周年慶 that a 北加州台灣會館 would open within three months; the drive began with each committeer donating $2,500 toward a two-year lease ([[works/taiwaneseamericanhistory-org/ourjourneys24|Our Journeys #24 — 台灣會館 founding memoir (TC)]]).
 
 ## Sources
-- [TAH #72 encyclopedia: 72. Dr. Chen-Ho Wu 吳振和博士](https://taiwaneseamericanhistory.org/72-dr-chen-ho-wu/)- [TAH #330 encyclopedia: 330. Dr. Chen-Ho Wu (吳振和博士) / A Renown Enterprises in LED Street Lighting Produc](https://taiwaneseamericanhistory.org/ff330/)
+- [TAH #72 encyclopedia: 72. Dr. Chen-Ho Wu 吳振和博士](https://taiwaneseamericanhistory.org/72-dr-chen-ho-wu/)
+- [TAH #330 encyclopedia: 330. Dr. Chen-Ho Wu (吳振和博士) / A Renown Enterprises in LED Street Lighting Produc](https://taiwaneseamericanhistory.org/ff330/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/chen-ho-wu/)
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+複核（deepen-x slice 09240500-1, 2026-09-25）：ZH+EN 再 grep works+articles 命中集與上文完全相同（#53 EN/TC、#24 EN/TC、#19、mystories82/304、publications761、whos-chen-ho-wu、#72、ff330、index）— SKIP-with-reason：語料飽和，唯一 HOLD（董事會加入年份）未解。

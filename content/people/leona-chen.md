@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # Leona Chen (陳文羿)
 
@@ -61,3 +61,4 @@ last_reviewed: 2026-09-24
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - [[sources/taiwaneseamerican-org|TaiwaneseAmerican.org]]
+- Corpus re-grep 2026-09-25 (slice 09240500-8): fresh ZH+EN grep (Leona Chen/陳文羿) — hit set confined to her own already-linked bibliography (whos-leona-chen, census-2020-fundraiser, remembrance-228, in-solidarity, pew statement) + works index; no new absorbable material.

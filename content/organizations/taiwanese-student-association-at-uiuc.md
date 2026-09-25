@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # Taiwanese Student Association at UIUC
 
@@ -36,3 +36,4 @@ The Taiwanese Student Association at UIUC (UIUC TSA) is a registered student org
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- Corpus re-grep 2026-09-25 (slice 09240500-8): NEW material absorbed — TAA Urbana chapter (founding contact 張倚名, ourjourneys76), 伊大台灣同鄉會/Formosan Student Club newsletter records, and Midwest softball/baseball participation incl. 1977 championship (our-journeys-376); TASC-vs-台灣學生會 HOLD stands.

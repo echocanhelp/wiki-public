@@ -4,7 +4,7 @@ type: organization
 tags:
   - 
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # San Francisco Theological Seminary
 
@@ -44,3 +44,4 @@ Through leaders trained there, the seminary is connected to early theological in
 - [[people/albert-s-lai||Dr. Albert S. Lai (賴信雄)]]
 - Toward A Community of Hope
 - Tainan Theological College and Seminary (台南神學院)
+- Corpus re-grep 2026-09-25 (slice 09240500-8): verified-saturated — corpus hits remain only #350 and #357, both fully absorbed; the 1966-vs-1967 graduation HOLD stands.
