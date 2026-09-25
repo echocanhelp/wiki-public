@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # Jacob Lu (盧能榮)
 
@@ -49,3 +49,4 @@ _No filled family fields on the TAH profile._
 <!-- deepen-x 09210831-15: SKIP — corpus re-scan (works/articles) fresh 2026-09-22: hits are only own TAH records, works/index.md, or pages already wikilinked in Role in the Community; no new community material. -->
 <!-- deepen-x 09220700-22: SKIP — corpus re-scan (works/articles) fresh 2026-09-22: hits are only own TAH records (#691, #314) + works/index.md, all already wikilinked; no new community material. -->
 <!-- deepen-x 09230317-28: SKIP — corpus re-scan (works/articles) fresh 2026-09-24: hits are only own TAH records (#691, #314) + works/index.md, all already wikilinked; no new community material. -->
+<!-- deepen-x 09240400-15: SKIP — corpus re-scan (works/articles) fresh 2026-09-25: hits are only own TAH records (#691, #314) + works/index.md, all already wikilinked; no new community material. -->
