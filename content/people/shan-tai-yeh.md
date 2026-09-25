@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-25
 ---
 # Shan-Tai Yeh
 
@@ -39,7 +39,7 @@ last_reviewed: 2026-09-22
 ## Role in the Community
 - Recorded in the TAH Foundation encyclopedia: [[works/taiwaneseamericanhistory-org/whoswho1500|1500. Shan-Tai Yeh]], published 2017-02-05 (band B — community historical record).
 - Practice-based community profile: Yeh & Associates (President / Chief Engineering Geologist, from 1999), civil engineering training at 中央大學 and Colorado University.
-- SKIP note (deepen-x re-verified 2026-09-22): fresh grep of works/ + articles/ (EN + 葉善泰) returns only his own TAH record above plus works/index.md — no additional memoir material to absorb.
+- SKIP note (deepen-x re-verified 2026-09-25): fresh grep of works/ + articles/ (EN + 葉善泰) returns only his own TAH record above plus works/index.md — no additional memoir material to absorb.
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/shan-tai-yeh/)

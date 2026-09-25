@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-25
 ---
 # CWRU Taiwanese Student Association
 
@@ -19,7 +19,7 @@ last_reviewed: 2026-09-21
 The CWRU Taiwanese Student Association (CWRUTSA) is a student organization at Case Western Reserve University in Cleveland, Ohio. The organization serves students from Taiwan enrolled at Case Western Reserve University (CWRU), the Cleveland Institute of Music (CIM), and the Cleveland Institute of Art (CIA), creating a welcoming environment where members can share and experience Taiwanese culture through various events.
 
 ## Corpus Status
-- SKIP-with-reason (deepen-x slice 09171500-3, 2026-09-19; reconfirmed deepen-x 09190600-1, 2026-09-20 and deepen-x 09201503-31, 2026-09-21): 語料庫檢索 CWRU / Case Western 僅命中 2020 美國總統辯論新聞報導（articles/taiwanjustice-net，地點為 Case Western Reserve University，與本社團無關）；無該學生社之回憶錄或社刊材料可吸收。
+- SKIP-with-reason (deepen-x slice 09171500-3, 2026-09-19; reconfirmed deepen-x 09190600-1, 2026-09-20 and deepen-x 09201503-31, 2026-09-21): 語料庫檢索 CWRU / Case Western 僅命中 2020 美國總統辯論新聞報導（articles/taiwanjustice-net，地點為 Case Western Reserve University，與本社團無關）；無該學生社之回憶錄或社刊材料可吸收。Reconfirmed 2026-09-25 (slice 09232232-16): 再次檢索 CWRU / Case Western / 凱斯西儲，命中僅 2020 辯論新聞報導（校園地點命中）與吳成文傳記表中的就讀學校欄位，非社團材料。
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/cwru-taiwanese-student-association/)

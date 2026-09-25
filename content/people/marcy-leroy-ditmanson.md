@@ -40,6 +40,7 @@ _No filled family fields on the TAH profile._
 ## Role in the Community
 - Recorded twice in the TAH story corpus: [[works/taiwaneseamericanhistory-org/whoswho1346|1346. Marcy Leroy Ditmanson 戴德森 / 2016/10]] (published 2016-10-27) and [[works/taiwaneseamericanhistory-org/whowho1357|1357. Marcy Leroy Ditmanson 戴德森 /2016/11]] (published 2016-11-01), both band B bibliographic records — full text held in the vault.
 - Served as a physician at 門諾醫院 (Hualien), per the TAH profile above.
+- Re-verified 2026-09-25 (slice 09232232-20): fresh ZH+EN grep of works/ + articles/ — hits are only these two own records plus the works index; no memoir material beyond the press-kit entry.
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

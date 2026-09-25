@@ -7,13 +7,14 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-25
 ---
 # Bernard Huang (黃伯文)
 
 ## Role in the Community
 
 Taiwanese-American dentist (牙醫師) in private practice — 皇后綜合中心 1975-2000, then 黃伯文牙醫診所 2000-present (per TAH Who's Who tables). The TAH Foundation story corpus holds his encyclopedia record #926, published 2016-04-03 — [[works/taiwaneseamericanhistory-org/whoswho926|926. Bernard Huang 黃伯文 / 2016/04]]. No further community activity absorbable from corpus text (record is bibliographic only).
+- Re-swept 2026-09-25 (slice 09232232-15): fresh ZH+EN greps of content/works + content/articles return only this own record, the works index row, and the source registry — SKIP-with-reason, no absorbable memoir/organization material.
 
 ## Identity Snapshot
 - **English:** Bernard Huang

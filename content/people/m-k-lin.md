@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-25
 ---
 # M. K. Lin (林明昆醫師)
 
@@ -29,7 +29,7 @@ last_reviewed: 2026-09-22
 <!-- tah-tables:end -->
 
 ## Role in the Community
-- Listed in the TAH Foundation Who's Who profile record [[works/taiwaneseamericanhistory-org/whoswho1538|1538. M. K. Lin 林明昆 / 2017/02]] (published 2017-02-27): 高雄出身, 台北帝國大學附屬醫院專門部畢業, 開設杏林婦產科診所. Era on profile 1918-2017. Fresh grep (ZH+EN) against works/ and articles/ found no further corpus mentions in memoirs — detail beyond the TAH profile remains unknown.
+- Listed in the TAH Foundation Who's Who profile record [[works/taiwaneseamericanhistory-org/whoswho1538|1538. M. K. Lin 林明昆 / 2017/02]] (published 2017-02-27): 高雄出身, 台北帝國大學附屬醫院專門部畢業, 開設杏林婦產科診所. Era on profile 1918-2017. Fresh grep (ZH+EN) against works/ and articles/ (re-swept 2026-09-25) found no further corpus mentions in memoirs — detail beyond the TAH profile remains unknown; no conflicts to hold.
 
 ## Family
 
