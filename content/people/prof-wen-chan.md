@@ -49,6 +49,7 @@ His encyclopedia entry itself is preserved at [[works/taiwaneseamericanhistory-o
 ## Corpus check (2026-09-23)
 - Deepen-x slice 09221300-19: re-grep (詹文聲 / Wen Chan) — hit set unchanged (own record #1834, ourjourneys155 座談會記錄, index rows; all already linked above). No new absorbable facts — verified-saturated SKIP-deepen.
 - 2026-09-24 (slice 09230800-7): re-grep 詹文聲/Wen Chan — hit set unchanged (#1834, ourjourneys155, index rows). Verified-saturated SKIP-deepen.
+- 2026-09-25 (slice 09240700-29): re-grep 詹文聲/Wen Chan — hit set unchanged (#1834, ourjourneys155 座談會記錄, index rows; all already linked above). Verified-saturated SKIP-deepen.
 
 ## Sources
 - [TAH #1834 encyclopedia: 1834. Prof. Wen Chan 詹文聲教授](https://taiwaneseamericanhistory.org/whos-who-1834-wen-chan/)

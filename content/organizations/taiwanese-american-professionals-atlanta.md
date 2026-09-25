@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # Taiwanese American Professionals Atlanta (台美菁英協會亞特蘭大分會)
 
@@ -42,3 +42,4 @@ Corpus re-grep 2026-09-22: no additional mentions of TAP-ATL / 台美菁英協�
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - 2026-09-23 corpus re-grep (DEEPEN-X slice 09221200-30): hit-set unchanged — same records already absorbed/wikilinked above; nothing new absorbable. SKIP-content.
 - 2026-09-24 corpus re-grep (DEEPEN-X slice 09230700-21): hits = own chapter record + already-wikilinked event records + works index; the wider TAPpy-hour grep matched other chapters' (DC, SF) events, no Atlanta-specific facts. verified-saturated.
+- 2026-09-25 corpus re-grep (DEEPEN-X slice 09240700-24): hit-set unchanged (atlanta-chapter-tap + works index only) — verified-saturated, SKIP.
