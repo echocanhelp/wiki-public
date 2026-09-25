@@ -134,6 +134,21 @@ Read together with her state occasions (介壽館 1997, Wu Shu-chen 2002, Ma ina
 
 _No filled family fields on the TAH profile; Wikidata (Q118396237) lists "Edith Chen" — relation unresolved, **HOLD**._ Currently divides time between Los Angeles and Taipei: [[sources/conbrio-board-bio||Con Brio]]. _ Family of modest means; no musical background; a toy piano from her uncle started the journey: [[sources/awakin-call-176||Awakin]]. Per 許丕龍's 2018 memoir, her parents accompanied her to the US around age 12 and were active in the diaspora cultural circle: [[works/taiwaneseamericanhistory-org/ourjourneys340||#340]] — note: conflicts with the "age 9, 1980" figure in NTSO/own-site bios; **HOLD** per merge policy (cross-source age/date conflict).
 
+## Related Pages
+
+- [[sources/en-academic-gwhyneth-chen]]
+- [[sources/patch-elcerrito-2011]]
+- [[sources/servicespace-awakin-chen]]
+- [[sources/ntcpetv-ptsi-bio]]
+- [[sources/ntso-moca-bio]]
+- [[sources/morenews-interview]]
+- [[works/taiwaneseamericanhistory-org/ivo-pogorelich-international-piano-competition-gwhyneth-chen-1993]]
+- [[sources/zh-wikipedia-gwhyneth-chen]]
+- [[sources/steinway-artist-page]]
+- [[works/taiwaneseamericanhistory-org/gwhyneth-chen-spirio]]
+- [[sources/conbrio-board-bio]]
+- [[sources/taiwan-paa-bio]]
+
 ## Sources
 - [Own site (archived 2022): About/Profile](https://web.archive.org/web/20220130073901/http://gwhynethchen.net/about-profile.php) — primary bio: emigration 1980, teachers, competition history, state occasions
 - [Steinway & Sons artist roster](https://www.steinway.com/artists/gwhyneth-chen) — Steinway Artist since 2017

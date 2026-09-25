@@ -1,4 +1,4 @@
-## Queue drain — 2026-09-24
+## Queue drain — 2026-09-25
 - Items: **40**
 
 - `people/bai-peiyu.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
@@ -32,14 +32,14 @@
 - `organizations/global-hakka-un-ngo-applying-committee-un-ngo.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 - `organizations/north-america-pastel-artist-association.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 - `organizations/evergreen-senior-university-by-evangelical-formosa-church-of-irvine-esu.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
-- `sources/tcccna-pcusadir-2009.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
-- `sources/pct-renai-church-history.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
-- `sources/tcnn-song-memorial-2024.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 - `people/agnes-hsu.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 - `people/dr-ching-c-shir.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 - `people/dr-chi-wan-lai.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 - `people/dr-min-chin-mary-lee.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 - `people/dr-yung-san-liang.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 - `people/feng-hsu-lee.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
+- `people/grace-chung.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
+- `people/gwhyneth-chen.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
+- `people/hanchien-lee.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 
 Fail-closed first-mention is AUTO (janitor). HOLD leftover ≠ human body-link batch.

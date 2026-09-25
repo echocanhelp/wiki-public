@@ -1,0 +1,4 @@
+people/peggy-cooley.md
+people/dr-kuo-shih-yeh.md
+people/stanley-hsiao.md
+organizations/san-diego-taiwanese-cultural-association.md

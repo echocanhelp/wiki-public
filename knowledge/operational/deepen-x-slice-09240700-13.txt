@@ -1,0 +1,4 @@
+people/laura-huang.md
+people/w-j-james-chung.md
+organizations/acevedo-music-and-art-education-foundation-inc.md
+organizations/joint-chinese-university-alumni-association-of-southern-california.md

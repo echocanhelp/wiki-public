@@ -1,0 +1,4 @@
+organizations/north-shore-club.md
+people/charles-ting.md
+people/dr-jia-huey-lin-yu.md
+people/george-tseng.md

@@ -1,0 +1,4 @@
+people/miaw-shang-su-lin.md
+organizations/l-a-study-group.md
+people/prof-wen-chan.md
+people/richard-lin.md

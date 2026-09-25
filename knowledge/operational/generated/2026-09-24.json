@@ -1,0 +1,411 @@
+{
+  "date": "2026-09-24",
+  "total_cards": 36,
+  "evaluated_file": "/home/leedt/echo-system/knowledge/operational/evaluated/2026-09-24.json",
+  "priority_counts": {
+    "high": 18,
+    "medium": 8,
+    "low": 10
+  },
+  "playbook_counts": {
+    "P8": 36
+  },
+  "cards": [
+    {
+      "card_id": "echo-gen-2026-09-24-0001",
+      "title": "[HIGH] johns-hopkins-university-taiwanese-student-association: Add ## History section",
+      "body": "## Task: [HIGH] johns-hopkins-university-taiwanese-student-association: Add ## History section\n\n**Priority:** high\n**Playbook:** P8\n**Page:** `organizations/johns-hopkins-university-taiwanese-student-association.md`\n**Finding:** `STRUCT_NO_HISTORY`\n**Score:** 61.75 (inbound links: 19)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/organizations/johns-hopkins-university-taiwanese-student-association.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-09-24 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Add ## History section\n**Detail:** Add a History section with key dates, milestones, and events. Include dates and brief descriptions.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: STRUCT_NO_HISTORY\nPage type: organizations\nType weight: 1.3\nFinding weight: 2.5",
+      "priority": "high",
+      "playbook": "P8",
+      "page": "organizations/johns-hopkins-university-taiwanese-student-association.md",
+      "finding": "STRUCT_NO_HISTORY",
+      "score": 61.75,
+      "target_path": "/home/leedt/echo-system/content/organizations/johns-hopkins-university-taiwanese-student-association.md"
+    },
+    {
+      "card_id": "echo-gen-2026-09-24-0002",
+      "title": "[HIGH] ho-rui-hsu: Ensure the first paragraph mentions the page subject",
+      "body": "## Task: [HIGH] ho-rui-hsu: Ensure the first paragraph mentions the page subject\n\n**Priority:** high\n**Playbook:** P8\n**Page:** `people/ho-rui-hsu.md`\n**Finding:** `DESC_NO_TITLE_MENTION`\n**Score:** 28.5 (inbound links: 19)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/people/ho-rui-hsu.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-09-24 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Ensure the first paragraph mentions the page subject\n**Detail:** The first paragraph should reference the person/organization this page is about.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: DESC_NO_TITLE_MENTION\nPage type: people\nType weight: 1.5\nFinding weight: 1.0",
+      "priority": "high",
+      "playbook": "P8",
+      "page": "people/ho-rui-hsu.md",
+      "finding": "DESC_NO_TITLE_MENTION",
+      "score": 28.5,
+      "target_path": "/home/leedt/echo-system/content/people/ho-rui-hsu.md"
+    },
+    {
+      "card_id": "echo-gen-2026-09-24-0003",
+      "title": "[HIGH] edward-chen: Ensure the first paragraph mentions the page subject",
+      "body": "## Task: [HIGH] edward-chen: Ensure the first paragraph mentions the page subject\n\n**Priority:** high\n**Playbook:** P8\n**Page:** `people/edward-chen.md`\n**Finding:** `DESC_NO_TITLE_MENTION`\n**Score:** 25.5 (inbound links: 17)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/people/edward-chen.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-09-24 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Ensure the first paragraph mentions the page subject\n**Detail:** The first paragraph should reference the person/organization this page is about.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: DESC_NO_TITLE_MENTION\nPage type: people\nType weight: 1.5\nFinding weight: 1.0",
+      "priority": "high",
+      "playbook": "P8",
+      "page": "people/edward-chen.md",
+      "finding": "DESC_NO_TITLE_MENTION",
+      "score": 25.5,
+      "target_path": "/home/leedt/echo-system/content/people/edward-chen.md"
+    },
+    {
+      "card_id": "echo-gen-2026-09-24-0004",
+      "title": "[HIGH] george-h-kerr: Ensure the first paragraph mentions the page subject",
+      "body": "## Task: [HIGH] george-h-kerr: Ensure the first paragraph mentions the page subject\n\n**Priority:** high\n**Playbook:** P8\n**Page:** `people/george-h-kerr.md`\n**Finding:** `DESC_NO_TITLE_MENTION`\n**Score:** 25.5 (inbound links: 17)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/people/george-h-kerr.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-09-24 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Ensure the first paragraph mentions the page subject\n**Detail:** The first paragraph should reference the person/organization this page is about.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: DESC_NO_TITLE_MENTION\nPage type: people\nType weight: 1.5\nFinding weight: 1.0",
+      "priority": "high",
+      "playbook": "P8",
+      "page": "people/george-h-kerr.md",
+      "finding": "DESC_NO_TITLE_MENTION",
+      "score": 25.5,
+      "target_path": "/home/leedt/echo-system/content/people/george-h-kerr.md"
+    },
+    {
+      "card_id": "echo-gen-2026-09-24-0005",
+      "title": "[HIGH] k-c-liao: Expand the first paragraph to provide a meaningful summary of the page",
+      "body": "## Task: [HIGH] k-c-liao: Expand the first paragraph to provide a meaningful summary of the page\n\n**Priority:** high\n**Playbook:** P8\n**Page:** `people/k-c-liao.md`\n**Finding:** `DESC_TOO_SHORT`\n**Score:** 24.75 (inbound links: 11)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/people/k-c-liao.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-09-24 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Expand the first paragraph to provide a meaningful summary of the page\n**Detail:** First paragraph should be 50+ characters and mention the page subject. Add 1-2 sentences summarizing who/what this page is about.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: DESC_TOO_SHORT\nPage type: people\nType weight: 1.5\nFinding weight: 1.5",
+      "priority": "high",
+      "playbook": "P8",
+      "page": "people/k-c-liao.md",
+      "finding": "DESC_TOO_SHORT",
+      "score": 24.75,
+      "target_path": "/home/leedt/echo-system/content/people/k-c-liao.md"
+    },
+    {
+      "card_id": "echo-gen-2026-09-24-0006",
+      "title": "[HIGH] rev-martin-c-wang: Ensure the first paragraph mentions the page subject",
+      "body": "## Task: [HIGH] rev-martin-c-wang: Ensure the first paragraph mentions the page subject\n\n**Priority:** high\n**Playbook:** P8\n**Page:** `people/rev-martin-c-wang.md`\n**Finding:** `DESC_NO_TITLE_MENTION`\n**Score:** 21.0 (inbound links: 14)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/people/rev-martin-c-wang.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-09-24 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Ensure the first paragraph mentions the page subject\n**Detail:** The first paragraph should reference the person/organization this page is about.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: DESC_NO_TITLE_MENTION\nPage type: people\nType weight: 1.5\nFinding weight: 1.0",
+      "priority": "high",
+      "playbook": "P8",
+      "page": "people/rev-martin-c-wang.md",
+      "finding": "DESC_NO_TITLE_MENTION",
+      "score": 21.0,
+      "target_path": "/home/leedt/echo-system/content/people/rev-martin-c-wang.md"
+    },
+    {
+      "card_id": "echo-gen-2026-09-24-0007",
+      "title": "[HIGH] jennifer-j-chow: Ensure the first paragraph mentions the page subject",
+      "body": "## Task: [HIGH] jennifer-j-chow: Ensure the first paragraph mentions the page subject\n\n**Priority:** high\n**Playbook:** P8\n**Page:** `people/jennifer-j-chow.md`\n**Finding:** `DESC_NO_TITLE_MENTION`\n**Score:** 16.5 (inbound links: 11)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/people/jennifer-j-chow.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-09-24 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Ensure the first paragraph mentions the page subject\n**Detail:** The first paragraph should reference the person/organization this page is about.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: DESC_NO_TITLE_MENTION\nPage type: people\nType weight: 1.5\nFinding weight: 1.0",
+      "priority": "high",
+      "playbook": "P8",
+      "page": "people/jennifer-j-chow.md",
+      "finding": "DESC_NO_TITLE_MENTION",
+      "score": 16.5,
+      "target_path": "/home/leedt/echo-system/content/people/jennifer-j-chow.md"
+    },
+    {
+      "card_id": "echo-gen-2026-09-24-0008",
+      "title": "[HIGH] student-association-of-taiwan-uw-madison: Add ## History section",
+      "body": "## Task: [HIGH] student-association-of-taiwan-uw-madison: Add ## History section\n\n**Priority:** high\n**Playbook:** P8\n**Page:** `organizations/student-association-of-taiwan-uw-madison.md`\n**Finding:** `STRUCT_NO_HISTORY`\n**Score:** 16.25 (inbound links: 5)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/organizations/student-association-of-taiwan-uw-madison.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-09-24 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Add ## History section\n**Detail:** Add a History section with key dates, milestones, and events. Include dates and brief descriptions.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: STRUCT_NO_HISTORY\nPage type: organizations\nType weight: 1.3\nFinding weight: 2.5",
+      "priority": "high",
+      "playbook": "P8",
+      "page": "organizations/student-association-of-taiwan-uw-madison.md",
+      "finding": "STRUCT_NO_HISTORY",
+      "score": 16.25,
+      "target_path": "/home/leedt/echo-system/content/organizations/student-association-of-taiwan-uw-madison.md"
+    },
+    {
+      "card_id": "echo-gen-2026-09-24-0009",
+      "title": "[HIGH] taiwanese-association-of-america-dallas-fort-worth: Add ## History section",
+      "body": "## Task: [HIGH] taiwanese-association-of-america-dallas-fort-worth: Add ## History section\n\n**Priority:** high\n**Playbook:** P8\n**Page:** `organizations/taiwanese-association-of-america-dallas-fort-worth.md`\n**Finding:** `STRUCT_NO_HISTORY`\n**Score:** 16.25 (inbound links: 5)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/organizations/taiwanese-association-of-america-dallas-fort-worth.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-09-24 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Add ## History section\n**Detail:** Add a History section with key dates, milestones, and events. Include dates and brief descriptions.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: STRUCT_NO_HISTORY\nPage type: organizations\nType weight: 1.3\nFinding weight: 2.5",
+      "priority": "high",
+      "playbook": "P8",
+      "page": "organizations/taiwanese-association-of-america-dallas-fort-worth.md",
+      "finding": "STRUCT_NO_HISTORY",
+      "score": 16.25,
+      "target_path": "/home/leedt/echo-system/content/organizations/taiwanese-association-of-america-dallas-fort-worth.md"
+    },
+    {
+      "card_id": "echo-gen-2026-09-24-0010",
+      "title": "[HIGH] ho-rui-hsu: Break up long sentences",
+      "body": "## Task: [HIGH] ho-rui-hsu: Break up long sentences\n\n**Priority:** high\n**Playbook:** P8\n**Page:** `people/ho-rui-hsu.md`\n**Finding:** `READABILITY_MANY_LONG_SENTENCES_4`\n**Score:** 14.25 (inbound links: 19)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/people/ho-rui-hsu.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-09-24 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Break up long sentences\n**Detail:** Multiple sentences exceed 50 words. Break them up for readability.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: READABILITY_MANY_LONG_SENTENCES\nPage type: people\nType weight: 1.5\nFinding weight: 0.5",
+      "priority": "high",
+      "playbook": "P8",
+      "page": "people/ho-rui-hsu.md",
+      "finding": "READABILITY_MANY_LONG_SENTENCES_4",
+      "score": 14.25,
+      "target_path": "/home/leedt/echo-system/content/people/ho-rui-hsu.md"
+    },
+    {
+      "card_id": "echo-gen-2026-09-24-0011",
+      "title": "[HIGH] taiwanese-american-student-association-at-penn-state: Add ## History section",
+      "body": "## Task: [HIGH] taiwanese-american-student-association-at-penn-state: Add ## History section\n\n**Priority:** high\n**Playbook:** P8\n**Page:** `organizations/taiwanese-american-student-association-at-penn-state.md`\n**Finding:** `STRUCT_NO_HISTORY`\n**Score:** 13.0 (inbound links: 4)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/organizations/taiwanese-american-student-association-at-penn-state.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-09-24 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Add ## History section\n**Detail:** Add a History section with key dates, milestones, and events. Include dates and brief descriptions.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: STRUCT_NO_HISTORY\nPage type: organizations\nType weight: 1.3\nFinding weight: 2.5",
+      "priority": "high",
+      "playbook": "P8",
+      "page": "organizations/taiwanese-american-student-association-at-penn-state.md",
+      "finding": "STRUCT_NO_HISTORY",
+      "score": 13.0,
+      "target_path": "/home/leedt/echo-system/content/organizations/taiwanese-american-student-association-at-penn-state.md"
+    },
+    {
+      "card_id": "echo-gen-2026-09-24-0012",
+      "title": "[HIGH] taiwanese-student-association-at-ohio-state-university: Add ## History section",
+      "body": "## Task: [HIGH] taiwanese-student-association-at-ohio-state-university: Add ## History section\n\n**Priority:** high\n**Playbook:** P8\n**Page:** `organizations/taiwanese-student-association-at-ohio-state-university.md`\n**Finding:** `STRUCT_NO_HISTORY`\n**Score:** 13.0 (inbound links: 4)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/organizations/taiwanese-student-association-at-ohio-state-university.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-09-24 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Add ## History section\n**Detail:** Add a History section with key dates, milestones, and events. Include dates and brief descriptions.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: STRUCT_NO_HISTORY\nPage type: organizations\nType weight: 1.3\nFinding weight: 2.5",
+      "priority": "high",
+      "playbook": "P8",
+      "page": "organizations/taiwanese-student-association-at-ohio-state-university.md",
+      "finding": "STRUCT_NO_HISTORY",
+      "score": 13.0,
+      "target_path": "/home/leedt/echo-system/content/organizations/taiwanese-student-association-at-ohio-state-university.md"
+    },
+    {
+      "card_id": "echo-gen-2026-09-24-0013",
+      "title": "[HIGH] world-taiwan-foundation: Add ## History section",
+      "body": "## Task: [HIGH] world-taiwan-foundation: Add ## History section\n\n**Priority:** high\n**Playbook:** P8\n**Page:** `organizations/world-taiwan-foundation.md`\n**Finding:** `STRUCT_NO_HISTORY`\n**Score:** 13.0 (inbound links: 4)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/organizations/world-taiwan-foundation.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-09-24 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Add ## History section\n**Detail:** Add a History section with key dates, milestones, and events. Include dates and brief descriptions.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: STRUCT_NO_HISTORY\nPage type: organizations\nType weight: 1.3\nFinding weight: 2.5",
+      "priority": "high",
+      "playbook": "P8",
+      "page": "organizations/world-taiwan-foundation.md",
+      "finding": "STRUCT_NO_HISTORY",
+      "score": 13.0,
+      "target_path": "/home/leedt/echo-system/content/organizations/world-taiwan-foundation.md"
+    },
+    {
+      "card_id": "echo-gen-2026-09-24-0014",
+      "title": "[HIGH] edward-chen: Break up long sentences",
+      "body": "## Task: [HIGH] edward-chen: Break up long sentences\n\n**Priority:** high\n**Playbook:** P8\n**Page:** `people/edward-chen.md`\n**Finding:** `READABILITY_MANY_LONG_SENTENCES_4`\n**Score:** 12.75 (inbound links: 17)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/people/edward-chen.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-09-24 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Break up long sentences\n**Detail:** Multiple sentences exceed 50 words. Break them up for readability.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: READABILITY_MANY_LONG_SENTENCES\nPage type: people\nType weight: 1.5\nFinding weight: 0.5",
+      "priority": "high",
+      "playbook": "P8",
+      "page": "people/edward-chen.md",
+      "finding": "READABILITY_MANY_LONG_SENTENCES_4",
+      "score": 12.75,
+      "target_path": "/home/leedt/echo-system/content/people/edward-chen.md"
+    },
+    {
+      "card_id": "echo-gen-2026-09-24-0015",
+      "title": "[HIGH] george-h-kerr: Break up long sentences",
+      "body": "## Task: [HIGH] george-h-kerr: Break up long sentences\n\n**Priority:** high\n**Playbook:** P8\n**Page:** `people/george-h-kerr.md`\n**Finding:** `READABILITY_MANY_LONG_SENTENCES_4`\n**Score:** 12.75 (inbound links: 17)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/people/george-h-kerr.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-09-24 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Break up long sentences\n**Detail:** Multiple sentences exceed 50 words. Break them up for readability.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: READABILITY_MANY_LONG_SENTENCES\nPage type: people\nType weight: 1.5\nFinding weight: 0.5",
+      "priority": "high",
+      "playbook": "P8",
+      "page": "people/george-h-kerr.md",
+      "finding": "READABILITY_MANY_LONG_SENTENCES_4",
+      "score": 12.75,
+      "target_path": "/home/leedt/echo-system/content/people/george-h-kerr.md"
+    },
+    {
+      "card_id": "echo-gen-2026-09-24-0016",
+      "title": "[HIGH] johns-hopkins-university-taiwanese-student-association: Break up long sentences",
+      "body": "## Task: [HIGH] johns-hopkins-university-taiwanese-student-association: Break up long sentences\n\n**Priority:** high\n**Playbook:** P8\n**Page:** `organizations/johns-hopkins-university-taiwanese-student-association.md`\n**Finding:** `READABILITY_LONG_SENTENCES_36wps`\n**Score:** 12.35 (inbound links: 19)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/organizations/johns-hopkins-university-taiwanese-student-association.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-09-24 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Break up long sentences\n**Detail:** Average words per sentence exceeds 30. Break up long sentences for readability.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: READABILITY_LONG_SENTENCES\nPage type: organizations\nType weight: 1.3\nFinding weight: 0.5",
+      "priority": "high",
+      "playbook": "P8",
+      "page": "organizations/johns-hopkins-university-taiwanese-student-association.md",
+      "finding": "READABILITY_LONG_SENTENCES_36wps",
+      "score": 12.35,
+      "target_path": "/home/leedt/echo-system/content/organizations/johns-hopkins-university-taiwanese-student-association.md"
+    },
+    {
+      "card_id": "echo-gen-2026-09-24-0017",
+      "title": "[HIGH] johns-hopkins-university-taiwanese-student-association: Break up long sentences",
+      "body": "## Task: [HIGH] johns-hopkins-university-taiwanese-student-association: Break up long sentences\n\n**Priority:** high\n**Playbook:** P8\n**Page:** `organizations/johns-hopkins-university-taiwanese-student-association.md`\n**Finding:** `READABILITY_MANY_LONG_SENTENCES_5`\n**Score:** 12.35 (inbound links: 19)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/organizations/johns-hopkins-university-taiwanese-student-association.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-09-24 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Break up long sentences\n**Detail:** Multiple sentences exceed 50 words. Break them up for readability.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: READABILITY_MANY_LONG_SENTENCES\nPage type: organizations\nType weight: 1.3\nFinding weight: 0.5",
+      "priority": "high",
+      "playbook": "P8",
+      "page": "organizations/johns-hopkins-university-taiwanese-student-association.md",
+      "finding": "READABILITY_MANY_LONG_SENTENCES_5",
+      "score": 12.35,
+      "target_path": "/home/leedt/echo-system/content/organizations/johns-hopkins-university-taiwanese-student-association.md"
+    },
+    {
+      "card_id": "echo-gen-2026-09-24-0018",
+      "title": "[HIGH] rev-martin-c-wang: Break up long sentences",
+      "body": "## Task: [HIGH] rev-martin-c-wang: Break up long sentences\n\n**Priority:** high\n**Playbook:** P8\n**Page:** `people/rev-martin-c-wang.md`\n**Finding:** `READABILITY_MANY_LONG_SENTENCES_4`\n**Score:** 10.5 (inbound links: 14)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/people/rev-martin-c-wang.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-09-24 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Break up long sentences\n**Detail:** Multiple sentences exceed 50 words. Break them up for readability.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: READABILITY_MANY_LONG_SENTENCES\nPage type: people\nType weight: 1.5\nFinding weight: 0.5",
+      "priority": "high",
+      "playbook": "P8",
+      "page": "people/rev-martin-c-wang.md",
+      "finding": "READABILITY_MANY_LONG_SENTENCES_4",
+      "score": 10.5,
+      "target_path": "/home/leedt/echo-system/content/people/rev-martin-c-wang.md"
+    },
+    {
+      "card_id": "echo-gen-2026-09-24-0019",
+      "title": "[MEDIUM] taiwanese-american-student-association-at-cornell: Add ## History section",
+      "body": "## Task: [MEDIUM] taiwanese-american-student-association-at-cornell: Add ## History section\n\n**Priority:** medium\n**Playbook:** P8\n**Page:** `organizations/taiwanese-american-student-association-at-cornell.md`\n**Finding:** `STRUCT_NO_HISTORY`\n**Score:** 9.75 (inbound links: 3)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/organizations/taiwanese-american-student-association-at-cornell.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-09-24 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Add ## History section\n**Detail:** Add a History section with key dates, milestones, and events. Include dates and brief descriptions.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: STRUCT_NO_HISTORY\nPage type: organizations\nType weight: 1.3\nFinding weight: 2.5",
+      "priority": "medium",
+      "playbook": "P8",
+      "page": "organizations/taiwanese-american-student-association-at-cornell.md",
+      "finding": "STRUCT_NO_HISTORY",
+      "score": 9.75,
+      "target_path": "/home/leedt/echo-system/content/organizations/taiwanese-american-student-association-at-cornell.md"
+    },
+    {
+      "card_id": "echo-gen-2026-09-24-0020",
+      "title": "[MEDIUM] jennifer-j-chow: Break up long sentences",
+      "body": "## Task: [MEDIUM] jennifer-j-chow: Break up long sentences\n\n**Priority:** medium\n**Playbook:** P8\n**Page:** `people/jennifer-j-chow.md`\n**Finding:** `READABILITY_MANY_LONG_SENTENCES_4`\n**Score:** 8.25 (inbound links: 11)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/people/jennifer-j-chow.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-09-24 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Break up long sentences\n**Detail:** Multiple sentences exceed 50 words. Break them up for readability.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: READABILITY_MANY_LONG_SENTENCES\nPage type: people\nType weight: 1.5\nFinding weight: 0.5",
+      "priority": "medium",
+      "playbook": "P8",
+      "page": "people/jennifer-j-chow.md",
+      "finding": "READABILITY_MANY_LONG_SENTENCES_4",
+      "score": 8.25,
+      "target_path": "/home/leedt/echo-system/content/people/jennifer-j-chow.md"
+    },
+    {
+      "card_id": "echo-gen-2026-09-24-0021",
+      "title": "[MEDIUM] k-c-liao: Break up long sentences",
+      "body": "## Task: [MEDIUM] k-c-liao: Break up long sentences\n\n**Priority:** medium\n**Playbook:** P8\n**Page:** `people/k-c-liao.md`\n**Finding:** `READABILITY_MANY_LONG_SENTENCES_4`\n**Score:** 8.25 (inbound links: 11)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/people/k-c-liao.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-09-24 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Break up long sentences\n**Detail:** Multiple sentences exceed 50 words. Break them up for readability.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: READABILITY_MANY_LONG_SENTENCES\nPage type: people\nType weight: 1.5\nFinding weight: 0.5",
+      "priority": "medium",
+      "playbook": "P8",
+      "page": "people/k-c-liao.md",
+      "finding": "READABILITY_MANY_LONG_SENTENCES_4",
+      "score": 8.25,
+      "target_path": "/home/leedt/echo-system/content/people/k-c-liao.md"
+    },
+    {
+      "card_id": "echo-gen-2026-09-24-0022",
+      "title": "[MEDIUM] north-america-taiwanese-womens-association-boston-chapter: Add ## History section",
+      "body": "## Task: [MEDIUM] north-america-taiwanese-womens-association-boston-chapter: Add ## History section\n\n**Priority:** medium\n**Playbook:** P8\n**Page:** `organizations/north-america-taiwanese-womens-association-boston-chapter.md`\n**Finding:** `STRUCT_NO_HISTORY`\n**Score:** 6.5 (inbound links: 2)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/organizations/north-america-taiwanese-womens-association-boston-chapter.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-09-24 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Add ## History section\n**Detail:** Add a History section with key dates, milestones, and events. Include dates and brief descriptions.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: STRUCT_NO_HISTORY\nPage type: organizations\nType weight: 1.3\nFinding weight: 2.5",
+      "priority": "medium",
+      "playbook": "P8",
+      "page": "organizations/north-america-taiwanese-womens-association-boston-chapter.md",
+      "finding": "STRUCT_NO_HISTORY",
+      "score": 6.5,
+      "target_path": "/home/leedt/echo-system/content/organizations/north-america-taiwanese-womens-association-boston-chapter.md"
+    },
+    {
+      "card_id": "echo-gen-2026-09-24-0023",
+      "title": "[MEDIUM] student-association-of-taiwan-uw-madison: Break up long sentences",
+      "body": "## Task: [MEDIUM] student-association-of-taiwan-uw-madison: Break up long sentences\n\n**Priority:** medium\n**Playbook:** P8\n**Page:** `organizations/student-association-of-taiwan-uw-madison.md`\n**Finding:** `READABILITY_LONG_SENTENCES_33wps`\n**Score:** 3.25 (inbound links: 5)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/organizations/student-association-of-taiwan-uw-madison.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-09-24 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Break up long sentences\n**Detail:** Average words per sentence exceeds 30. Break up long sentences for readability.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: READABILITY_LONG_SENTENCES\nPage type: organizations\nType weight: 1.3\nFinding weight: 0.5",
+      "priority": "medium",
+      "playbook": "P8",
+      "page": "organizations/student-association-of-taiwan-uw-madison.md",
+      "finding": "READABILITY_LONG_SENTENCES_33wps",
+      "score": 3.25,
+      "target_path": "/home/leedt/echo-system/content/organizations/student-association-of-taiwan-uw-madison.md"
+    },
+    {
+      "card_id": "echo-gen-2026-09-24-0024",
+      "title": "[MEDIUM] student-association-of-taiwan-uw-madison: Break up long sentences",
+      "body": "## Task: [MEDIUM] student-association-of-taiwan-uw-madison: Break up long sentences\n\n**Priority:** medium\n**Playbook:** P8\n**Page:** `organizations/student-association-of-taiwan-uw-madison.md`\n**Finding:** `READABILITY_MANY_LONG_SENTENCES_4`\n**Score:** 3.25 (inbound links: 5)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/organizations/student-association-of-taiwan-uw-madison.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-09-24 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Break up long sentences\n**Detail:** Multiple sentences exceed 50 words. Break them up for readability.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: READABILITY_MANY_LONG_SENTENCES\nPage type: organizations\nType weight: 1.3\nFinding weight: 0.5",
+      "priority": "medium",
+      "playbook": "P8",
+      "page": "organizations/student-association-of-taiwan-uw-madison.md",
+      "finding": "READABILITY_MANY_LONG_SENTENCES_4",
+      "score": 3.25,
+      "target_path": "/home/leedt/echo-system/content/organizations/student-association-of-taiwan-uw-madison.md"
+    },
+    {
+      "card_id": "echo-gen-2026-09-24-0025",
+      "title": "[MEDIUM] taiwanese-association-of-america-dallas-fort-worth: Break up long sentences",
+      "body": "## Task: [MEDIUM] taiwanese-association-of-america-dallas-fort-worth: Break up long sentences\n\n**Priority:** medium\n**Playbook:** P8\n**Page:** `organizations/taiwanese-association-of-america-dallas-fort-worth.md`\n**Finding:** `READABILITY_LONG_SENTENCES_31wps`\n**Score:** 3.25 (inbound links: 5)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/organizations/taiwanese-association-of-america-dallas-fort-worth.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-09-24 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Break up long sentences\n**Detail:** Average words per sentence exceeds 30. Break up long sentences for readability.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: READABILITY_LONG_SENTENCES\nPage type: organizations\nType weight: 1.3\nFinding weight: 0.5",
+      "priority": "medium",
+      "playbook": "P8",
+      "page": "organizations/taiwanese-association-of-america-dallas-fort-worth.md",
+      "finding": "READABILITY_LONG_SENTENCES_31wps",
+      "score": 3.25,
+      "target_path": "/home/leedt/echo-system/content/organizations/taiwanese-association-of-america-dallas-fort-worth.md"
+    },
+    {
+      "card_id": "echo-gen-2026-09-24-0026",
+      "title": "[MEDIUM] taiwanese-association-of-america-dallas-fort-worth: Break up long sentences",
+      "body": "## Task: [MEDIUM] taiwanese-association-of-america-dallas-fort-worth: Break up long sentences\n\n**Priority:** medium\n**Playbook:** P8\n**Page:** `organizations/taiwanese-association-of-america-dallas-fort-worth.md`\n**Finding:** `READABILITY_MANY_LONG_SENTENCES_4`\n**Score:** 3.25 (inbound links: 5)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/organizations/taiwanese-association-of-america-dallas-fort-worth.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-09-24 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Break up long sentences\n**Detail:** Multiple sentences exceed 50 words. Break them up for readability.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: READABILITY_MANY_LONG_SENTENCES\nPage type: organizations\nType weight: 1.3\nFinding weight: 0.5",
+      "priority": "medium",
+      "playbook": "P8",
+      "page": "organizations/taiwanese-association-of-america-dallas-fort-worth.md",
+      "finding": "READABILITY_MANY_LONG_SENTENCES_4",
+      "score": 3.25,
+      "target_path": "/home/leedt/echo-system/content/organizations/taiwanese-association-of-america-dallas-fort-worth.md"
+    },
+    {
+      "card_id": "echo-gen-2026-09-24-0027",
+      "title": "[LOW] taiwanese-american-student-association-at-penn-state: Break up long sentences",
+      "body": "## Task: [LOW] taiwanese-american-student-association-at-penn-state: Break up long sentences\n\n**Priority:** low\n**Playbook:** P8\n**Page:** `organizations/taiwanese-american-student-association-at-penn-state.md`\n**Finding:** `READABILITY_LONG_SENTENCES_33wps`\n**Score:** 2.6 (inbound links: 4)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/organizations/taiwanese-american-student-association-at-penn-state.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-09-24 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Break up long sentences\n**Detail:** Average words per sentence exceeds 30. Break up long sentences for readability.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: READABILITY_LONG_SENTENCES\nPage type: organizations\nType weight: 1.3\nFinding weight: 0.5",
+      "priority": "low",
+      "playbook": "P8",
+      "page": "organizations/taiwanese-american-student-association-at-penn-state.md",
+      "finding": "READABILITY_LONG_SENTENCES_33wps",
+      "score": 2.6,
+      "target_path": "/home/leedt/echo-system/content/organizations/taiwanese-american-student-association-at-penn-state.md"
+    },
+    {
+      "card_id": "echo-gen-2026-09-24-0028",
+      "title": "[LOW] taiwanese-american-student-association-at-penn-state: Break up long sentences",
+      "body": "## Task: [LOW] taiwanese-american-student-association-at-penn-state: Break up long sentences\n\n**Priority:** low\n**Playbook:** P8\n**Page:** `organizations/taiwanese-american-student-association-at-penn-state.md`\n**Finding:** `READABILITY_MANY_LONG_SENTENCES_5`\n**Score:** 2.6 (inbound links: 4)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/organizations/taiwanese-american-student-association-at-penn-state.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-09-24 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Break up long sentences\n**Detail:** Multiple sentences exceed 50 words. Break them up for readability.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: READABILITY_MANY_LONG_SENTENCES\nPage type: organizations\nType weight: 1.3\nFinding weight: 0.5",
+      "priority": "low",
+      "playbook": "P8",
+      "page": "organizations/taiwanese-american-student-association-at-penn-state.md",
+      "finding": "READABILITY_MANY_LONG_SENTENCES_5",
+      "score": 2.6,
+      "target_path": "/home/leedt/echo-system/content/organizations/taiwanese-american-student-association-at-penn-state.md"
+    },
+    {
+      "card_id": "echo-gen-2026-09-24-0029",
+      "title": "[LOW] taiwanese-student-association-at-ohio-state-university: Break up long sentences",
+      "body": "## Task: [LOW] taiwanese-student-association-at-ohio-state-university: Break up long sentences\n\n**Priority:** low\n**Playbook:** P8\n**Page:** `organizations/taiwanese-student-association-at-ohio-state-university.md`\n**Finding:** `READABILITY_LONG_SENTENCES_33wps`\n**Score:** 2.6 (inbound links: 4)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/organizations/taiwanese-student-association-at-ohio-state-university.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-09-24 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Break up long sentences\n**Detail:** Average words per sentence exceeds 30. Break up long sentences for readability.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: READABILITY_LONG_SENTENCES\nPage type: organizations\nType weight: 1.3\nFinding weight: 0.5",
+      "priority": "low",
+      "playbook": "P8",
+      "page": "organizations/taiwanese-student-association-at-ohio-state-university.md",
+      "finding": "READABILITY_LONG_SENTENCES_33wps",
+      "score": 2.6,
+      "target_path": "/home/leedt/echo-system/content/organizations/taiwanese-student-association-at-ohio-state-university.md"
+    },
+    {
+      "card_id": "echo-gen-2026-09-24-0030",
+      "title": "[LOW] taiwanese-student-association-at-ohio-state-university: Break up long sentences",
+      "body": "## Task: [LOW] taiwanese-student-association-at-ohio-state-university: Break up long sentences\n\n**Priority:** low\n**Playbook:** P8\n**Page:** `organizations/taiwanese-student-association-at-ohio-state-university.md`\n**Finding:** `READABILITY_MANY_LONG_SENTENCES_5`\n**Score:** 2.6 (inbound links: 4)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/organizations/taiwanese-student-association-at-ohio-state-university.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-09-24 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Break up long sentences\n**Detail:** Multiple sentences exceed 50 words. Break them up for readability.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: READABILITY_MANY_LONG_SENTENCES\nPage type: organizations\nType weight: 1.3\nFinding weight: 0.5",
+      "priority": "low",
+      "playbook": "P8",
+      "page": "organizations/taiwanese-student-association-at-ohio-state-university.md",
+      "finding": "READABILITY_MANY_LONG_SENTENCES_5",
+      "score": 2.6,
+      "target_path": "/home/leedt/echo-system/content/organizations/taiwanese-student-association-at-ohio-state-university.md"
+    },
+    {
+      "card_id": "echo-gen-2026-09-24-0031",
+      "title": "[LOW] world-taiwan-foundation: Break up long sentences",
+      "body": "## Task: [LOW] world-taiwan-foundation: Break up long sentences\n\n**Priority:** low\n**Playbook:** P8\n**Page:** `organizations/world-taiwan-foundation.md`\n**Finding:** `READABILITY_LONG_SENTENCES_30wps`\n**Score:** 2.6 (inbound links: 4)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/organizations/world-taiwan-foundation.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-09-24 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Break up long sentences\n**Detail:** Average words per sentence exceeds 30. Break up long sentences for readability.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: READABILITY_LONG_SENTENCES\nPage type: organizations\nType weight: 1.3\nFinding weight: 0.5",
+      "priority": "low",
+      "playbook": "P8",
+      "page": "organizations/world-taiwan-foundation.md",
+      "finding": "READABILITY_LONG_SENTENCES_30wps",
+      "score": 2.6,
+      "target_path": "/home/leedt/echo-system/content/organizations/world-taiwan-foundation.md"
+    },
+    {
+      "card_id": "echo-gen-2026-09-24-0032",
+      "title": "[LOW] world-taiwan-foundation: Break up long sentences",
+      "body": "## Task: [LOW] world-taiwan-foundation: Break up long sentences\n\n**Priority:** low\n**Playbook:** P8\n**Page:** `organizations/world-taiwan-foundation.md`\n**Finding:** `READABILITY_MANY_LONG_SENTENCES_5`\n**Score:** 2.6 (inbound links: 4)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/organizations/world-taiwan-foundation.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-09-24 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Break up long sentences\n**Detail:** Multiple sentences exceed 50 words. Break them up for readability.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: READABILITY_MANY_LONG_SENTENCES\nPage type: organizations\nType weight: 1.3\nFinding weight: 0.5",
+      "priority": "low",
+      "playbook": "P8",
+      "page": "organizations/world-taiwan-foundation.md",
+      "finding": "READABILITY_MANY_LONG_SENTENCES_5",
+      "score": 2.6,
+      "target_path": "/home/leedt/echo-system/content/organizations/world-taiwan-foundation.md"
+    },
+    {
+      "card_id": "echo-gen-2026-09-24-0033",
+      "title": "[LOW] taiwanese-american-student-association-at-cornell: Break up long sentences",
+      "body": "## Task: [LOW] taiwanese-american-student-association-at-cornell: Break up long sentences\n\n**Priority:** low\n**Playbook:** P8\n**Page:** `organizations/taiwanese-american-student-association-at-cornell.md`\n**Finding:** `READABILITY_LONG_SENTENCES_33wps`\n**Score:** 1.95 (inbound links: 3)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/organizations/taiwanese-american-student-association-at-cornell.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-09-24 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Break up long sentences\n**Detail:** Average words per sentence exceeds 30. Break up long sentences for readability.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: READABILITY_LONG_SENTENCES\nPage type: organizations\nType weight: 1.3\nFinding weight: 0.5",
+      "priority": "low",
+      "playbook": "P8",
+      "page": "organizations/taiwanese-american-student-association-at-cornell.md",
+      "finding": "READABILITY_LONG_SENTENCES_33wps",
+      "score": 1.95,
+      "target_path": "/home/leedt/echo-system/content/organizations/taiwanese-american-student-association-at-cornell.md"
+    },
+    {
+      "card_id": "echo-gen-2026-09-24-0034",
+      "title": "[LOW] taiwanese-american-student-association-at-cornell: Break up long sentences",
+      "body": "## Task: [LOW] taiwanese-american-student-association-at-cornell: Break up long sentences\n\n**Priority:** low\n**Playbook:** P8\n**Page:** `organizations/taiwanese-american-student-association-at-cornell.md`\n**Finding:** `READABILITY_MANY_LONG_SENTENCES_5`\n**Score:** 1.95 (inbound links: 3)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/organizations/taiwanese-american-student-association-at-cornell.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-09-24 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Break up long sentences\n**Detail:** Multiple sentences exceed 50 words. Break them up for readability.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: READABILITY_MANY_LONG_SENTENCES\nPage type: organizations\nType weight: 1.3\nFinding weight: 0.5",
+      "priority": "low",
+      "playbook": "P8",
+      "page": "organizations/taiwanese-american-student-association-at-cornell.md",
+      "finding": "READABILITY_MANY_LONG_SENTENCES_5",
+      "score": 1.95,
+      "target_path": "/home/leedt/echo-system/content/organizations/taiwanese-american-student-association-at-cornell.md"
+    },
+    {
+      "card_id": "echo-gen-2026-09-24-0035",
+      "title": "[LOW] north-america-taiwanese-womens-association-boston-chapter: Break up long sentences",
+      "body": "## Task: [LOW] north-america-taiwanese-womens-association-boston-chapter: Break up long sentences\n\n**Priority:** low\n**Playbook:** P8\n**Page:** `organizations/north-america-taiwanese-womens-association-boston-chapter.md`\n**Finding:** `READABILITY_LONG_SENTENCES_31wps`\n**Score:** 1.3 (inbound links: 2)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/organizations/north-america-taiwanese-womens-association-boston-chapter.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-09-24 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Break up long sentences\n**Detail:** Average words per sentence exceeds 30. Break up long sentences for readability.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: READABILITY_LONG_SENTENCES\nPage type: organizations\nType weight: 1.3\nFinding weight: 0.5",
+      "priority": "low",
+      "playbook": "P8",
+      "page": "organizations/north-america-taiwanese-womens-association-boston-chapter.md",
+      "finding": "READABILITY_LONG_SENTENCES_31wps",
+      "score": 1.3,
+      "target_path": "/home/leedt/echo-system/content/organizations/north-america-taiwanese-womens-association-boston-chapter.md"
+    },
+    {
+      "card_id": "echo-gen-2026-09-24-0036",
+      "title": "[LOW] north-america-taiwanese-womens-association-boston-chapter: Break up long sentences",
+      "body": "## Task: [LOW] north-america-taiwanese-womens-association-boston-chapter: Break up long sentences\n\n**Priority:** low\n**Playbook:** P8\n**Page:** `organizations/north-america-taiwanese-womens-association-boston-chapter.md`\n**Finding:** `READABILITY_MANY_LONG_SENTENCES_5`\n**Score:** 1.3 (inbound links: 2)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/organizations/north-america-taiwanese-womens-association-boston-chapter.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-09-24 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Break up long sentences\n**Detail:** Multiple sentences exceed 50 words. Break them up for readability.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: READABILITY_MANY_LONG_SENTENCES\nPage type: organizations\nType weight: 1.3\nFinding weight: 0.5",
+      "priority": "low",
+      "playbook": "P8",
+      "page": "organizations/north-america-taiwanese-womens-association-boston-chapter.md",
+      "finding": "READABILITY_MANY_LONG_SENTENCES_5",
+      "score": 1.3,
+      "target_path": "/home/leedt/echo-system/content/organizations/north-america-taiwanese-womens-association-boston-chapter.md"
+    }
+  ]
+}

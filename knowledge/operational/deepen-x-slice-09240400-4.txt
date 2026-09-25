@@ -1,0 +1,4 @@
+people/long-lee.md
+people/rev-chung-hsin-cho.md
+people/hsi-min-lin.md
+people/dr-khang-loon-ho.md

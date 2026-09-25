@@ -1,0 +1,4 @@
+people/cheng-y-chuang.md
+organizations/taiwanese-student-association-at-ohio-state-university.md
+people/lai-junming.md
+organizations/taiwanese-student-association-at-the-university-of-southern-california.md

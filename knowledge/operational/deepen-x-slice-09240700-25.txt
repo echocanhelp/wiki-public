@@ -1,0 +1,4 @@
+people/rev-burton-tan.md
+organizations/paramitas-foundation.md
+people/erh-ping-tsai.md
+organizations/university-of-maryland-taiwanese-student-association.md

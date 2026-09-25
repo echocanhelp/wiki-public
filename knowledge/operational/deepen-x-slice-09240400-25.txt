@@ -1,0 +1,4 @@
+people/mingkong-chen.md
+people/s-j-chou.md
+people/s-w-hung.md
+people/tsai-ingwen.md

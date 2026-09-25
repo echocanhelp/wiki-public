@@ -1,0 +1,4 @@
+people/james-chin-chun-su.md
+organizations/kaohsiung-hotel-association.md
+organizations/taiwanese-american-student-association-at-emory-university.md
+organizations/huntsville-taiwanese-american-association.md

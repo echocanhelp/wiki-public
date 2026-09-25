@@ -1,0 +1,4 @@
+people/kico-lin.md
+people/mei-lu.md
+people/thomas-chen.md
+people/james-liang.md

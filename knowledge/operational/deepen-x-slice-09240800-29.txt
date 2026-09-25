@@ -1,0 +1,4 @@
+people/g-n-liao.md
+people/rev-sheng-to-shih.md
+people/prof-clark-chen.md
+people/dr-kopin-liu.md

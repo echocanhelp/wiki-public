@@ -1,0 +1,4 @@
+people/rev-j-c-cheng.md
+organizations/taiwanese-association-of-america-hawaii.md
+organizations/taiwanese-chambers-of-commerce-of-orange-county.md
+people/ted-lau.md

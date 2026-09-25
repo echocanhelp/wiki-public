@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-23T07:00:30.760686",
+  "generated_at": "2026-09-24T07:00:31.610017",
   "pages_scanned": 2916,
   "capped": true,
   "cap_top_n": 80,
   "summary": {
-    "co_citation_count": 4726,
-    "co_mention_count": 10256,
+    "co_citation_count": 4789,
+    "co_mention_count": 10320,
     "shared_tags_count": 0,
     "orphan_folder_count": 3,
     "kept_co_citation": 80,
@@ -25,15 +25,6 @@
       },
       {
         "type": "CO-CITATION",
-        "page1": "people/rev-thomas-h-chen.md",
-        "page2": "people/thomas-shu.md",
-        "shared_target": "articles/taiwanjustice-net/2025/20250517150428_台灣介心靈日-2-28-77週年紀念音樂會20240228影音全集_ff4731d4f51b100d",
-        "page1_title": "Rev. Thomas H. Chen (陳宏文牧師)",
-        "page2_title": "Thomas Shu (許正龍)",
-        "shared_targets_count": 3
-      },
-      {
-        "type": "CO-CITATION",
         "page1": "organizations/aj-wang-foundation-scholarship-fund.md",
         "page2": "organizations/taiwanese-american-scholarship-fund.md",
         "shared_target": "works/taiwaneseamericanhistory-org/taiwanese-american-scholarship-fund",
@@ -48,7 +39,7 @@
         "shared_target": "organizations/tah-foundation",
         "page1_title": "AJ WANG FOUNDATION – SCHOLARSHIP FUND",
         "page2_title": "American Citizens for Taiwan (西雅圖美台會)",
-        "shared_targets_count": 2615
+        "shared_targets_count": 2610
       },
       {
         "type": "CO-CITATION",
@@ -57,7 +48,7 @@
         "shared_target": "organizations/tah-foundation",
         "page1_title": "AJ WANG FOUNDATION – SCHOLARSHIP FUND",
         "page2_title": "American Citizens of Taiwan Origin ACTO (美台公民協會)",
-        "shared_targets_count": 2615
+        "shared_targets_count": 2610
       },
       {
         "type": "CO-CITATION",
@@ -66,7 +57,7 @@
         "shared_target": "organizations/tah-foundation",
         "page1_title": "AJ WANG FOUNDATION – SCHOLARSHIP FUND",
         "page2_title": "Ann Arbor Taiwanese Association (安雅堡)",
-        "shared_targets_count": 2615
+        "shared_targets_count": 2610
       },
       {
         "type": "CO-CITATION",
@@ -174,7 +165,7 @@
         "shared_target": "works/taiwaneseamerican-org/pew-research-center-taiwanese-american-statement",
         "page1_title": "American Citizens for Taiwan (西雅圖美台會)",
         "page2_title": "Formosan Association for Public Affairs Los Angeles(FAPA-LA)",
-        "shared_targets_count": 70
+        "shared_targets_count": 72
       },
       {
         "type": "CO-CITATION",
@@ -183,7 +174,7 @@
         "shared_target": "works/taiwaneseamerican-org/pew-research-center-taiwanese-american-statement",
         "page1_title": "American Citizens for Taiwan (西雅圖美台會)",
         "page2_title": "North America Taiwanese Women's Assoc. Southern CA Chapter NATWA-SC",
-        "shared_targets_count": 70
+        "shared_targets_count": 72
       },
       {
         "type": "CO-CITATION",
@@ -192,7 +183,7 @@
         "shared_target": "works/taiwaneseamerican-org/pew-research-center-taiwanese-american-statement",
         "page1_title": "American Citizens for Taiwan (西雅圖美台會)",
         "page2_title": "North America Taiwanese Women’s Association – Hawaii Chapter (北美洲台灣婦女會夏威夷分會)",
-        "shared_targets_count": 70
+        "shared_targets_count": 72
       },
       {
         "type": "CO-CITATION",
@@ -201,7 +192,7 @@
         "shared_target": "works/taiwaneseamericanhistory-org/ourjourneys76-eng",
         "page1_title": "Ann Arbor Taiwanese Association (安雅堡)",
         "page2_title": "Manhattan, KS Chapter / TAA (全美台灣同鄉會曼哈頓分會)",
-        "shared_targets_count": 51
+        "shared_targets_count": 52
       },
       {
         "type": "CO-CITATION",
@@ -210,16 +201,16 @@
         "shared_target": "works/taiwaneseamericanhistory-org/ourjourneys76-eng",
         "page1_title": "Ann Arbor Taiwanese Association (安雅堡)",
         "page2_title": "Taiwanese American Association Atlanta (亞特蘭大)",
-        "shared_targets_count": 51
+        "shared_targets_count": 52
       },
       {
         "type": "CO-CITATION",
         "page1": "organizations/ann-arbor-taiwanese-association.md",
-        "page2": "organizations/taiwanese-american-association-new-york.md",
+        "page2": "organizations/taiwanese-american-association-greater-cleveland.md",
         "shared_target": "works/taiwaneseamericanhistory-org/ourjourneys76-eng",
         "page1_title": "Ann Arbor Taiwanese Association (安雅堡)",
-        "page2_title": "Taiwanese American Association New York (大紐約區)",
-        "shared_targets_count": 51
+        "page2_title": "Taiwanese American Association Greater Cleveland (克里夫蘭)",
+        "shared_targets_count": 52
       },
       {
         "type": "CO-CITATION",
@@ -731,6 +722,15 @@
         "page2": "people/j-s-liu.md",
         "shared_target": "works/taiwaneseamericanhistory-org/los-angeles-melody-chorus",
         "page1_title": "Bliss & Wisdom Foundation of North America (北美福智基金會)",
+        "page2_title": "J. S. Liu (劉佳欣)",
+        "shared_targets_count": 3
+      },
+      {
+        "type": "CO-CITATION",
+        "page1": "organizations/lapc-music-foundation.md",
+        "page2": "people/j-s-liu.md",
+        "shared_target": "works/taiwaneseamericanhistory-org/los-angeles-melody-chorus",
+        "page1_title": "LAPC Music Foundation (洛杉磯樂音音樂基金會)",
         "page2_title": "J. S. Liu (劉佳欣)",
         "shared_targets_count": 3
       }

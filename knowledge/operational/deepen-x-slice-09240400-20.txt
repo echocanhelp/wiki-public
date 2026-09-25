@@ -1,0 +1,4 @@
+organizations/brown-taiwan-society.md
+people/tah-p-3dcf0f5bcb.md
+people/lucy-yang.md
+people/lucas-chen.md

@@ -1,0 +1,4 @@
+organizations/yin-chin-foundation-of-u-s-a.md
+organizations/alumni-association-of-chia-yi-high-school-worldwide.md
+people/li-ying-shang.md
+people/dr-s-t-cheng.md

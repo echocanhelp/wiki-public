@@ -1,0 +1,4 @@
+people/dr-john-chieu.md
+organizations/taiwanese-association-of-alabama-birmingham.md
+organizations/taiwanese-american-association-of-rochester-new-york.md
+organizations/joint-alumni-association-of-taiwan-teachers-college-and-normal-univers.md

@@ -1,0 +1,4 @@
+people/john-lin.md
+people/philip-lin.md
+organizations/taiwanese-association-of-america-detroit-tagd.md
+organizations/fri-philo.md

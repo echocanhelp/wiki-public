@@ -1,0 +1,4 @@
+people/shen-zizai.md
+people/cai-shunyu.md
+people/alexander-macdonald.md
+organizations/taiwan-center-foundation-of-greater-los-angeles.md
