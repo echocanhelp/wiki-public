@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-25
 ---
 # Taiwanese Association of America – Houston Chapter (休士頓台灣同鄉會)
 
@@ -28,6 +28,7 @@ The Taiwanese Association of America – Houston Chapter (TAA-HC, 休士頓台�
 - The chapter's later community infrastructure is documented in 莊程業 (Eddie Chuang)'s memoir of the Houston Taiwanese Community Center's founding ([[works/taiwaneseamericanhistory-org/ourjourneys233-eng|233. 回顧休士頓台灣人活動中心的成立 / Houston TCC Tenth Anniversary]]).
 - HOLD: founding framing — 1970 Houston Formosan Club (莊承業 memoir) vs 1968–1970 co-founding window (陳淮崇 memoir #138) vs present-day TAA chapter identity; two memoirs give overlapping but non-identical origin stories, no date merge attempted.
 - Re-grep (deepen-x 2026-09-21 / 2026-09-22 / 0923 slice-2): three more direct corpus records surfaced. The chapter's own institutional history is on file as [[works/taiwaneseamericanhistory-org/project-3-23|23. Brief History of Taiwanese Association of America / Houston Chapter 休士頓台灣同鄉會簡介]]; cultural programming is recorded at [[works/taiwaneseamericanhistory-org/concerts45|45. 休士頓夏季音樂會 by 休士頓台灣同鄉會, Houston, TX, 1984]]; and the TAH facts record [[works/taiwaneseamericanhistory-org/ff281-taa-houston-highest-membership-number-of-sub-chapter-of-taa|281. Houston Chapter / TAA]] states the chapter reached the highest membership of any TAA chapter, over 800 members. A sibling organization, TACL 台美公民協會休士頓分會, is separately recorded at [[works/taiwaneseamericanhistory-org/tacl-houston-chapter|2. Houston Chapter / TACL]] (distinct entity, not merged). 2026-09-23 re-grep: hit set unchanged — saturated.
+- Re-check (deepen-x slice-09231000-2, 2026-09-25): fresh re-grep surfaced two records already absorbable into the chapter's institutional record. [[works/taiwaneseamericanhistory-org/ourjourneys31-eng|31 (EN) / Houston TCC]] states the chapter made a **$30,000 interest-free loan** toward the Houston Taiwanese Community Center building (total cost $310,000 raised: $40,000 TCC Fund + $30,000 TAA-HC loan + donations from 260 households, twelve of $10,000 each); the same memoir dates the chapter's founding to **1970** in its roll-call of Houston organizations (TAA-HC 1970, TFCU 1975, 台語學校 1985, 大達科商務中心 1987), and the TCC inauguration ceremony is photographed 7/11/1992. [[works/taiwaneseamericanhistory-org/ff282-taa-houston-biggest-newsletter-issue-4000-copies-houston-taiwanese-america|282. Houston Chapter / TAA]] records the chapter's monthly newsletter Houston Taiwanese American Journal reaching the **highest circulation of any TAA chapter, over 4,000 copies** (2016). Remaining new hits (ourjourneys76-eng, mystories460-eng) contain no further chapter-specific facts; the 1970-vs-1968–70 founding HOLD above stands, no date merge.
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-association-of-america-houston-chapter/)

@@ -6,7 +6,7 @@ tags:
   - Taiwanese-American
   - Taiwan-Center-group-member
 verification_status: published
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-25
 ---
 # TUF(Taiwanese United Fund)
 
@@ -52,3 +52,4 @@ last_reviewed: 2026-09-23
 - Also appears in corpus records as 美國台灣人聯合基金會 (co-host credit, 第161回世界台灣文化論壇 2024-12, already cited above).
 - Wider concert-programme corpus: TUF also presented 楊呈偉「尋找心家園 / Finding Home」 in Los Angeles on 2005-07-09 ([[works/taiwaneseamericanhistory-org/concerts24|24. Welly Yang: Finding Home by TUF, 07/09/2005]]) and placed a Culture Night advertisement in San Gabriel on 2017-09-09 ([[works/taiwaneseamericanhistory-org/an-advertisement-in-culture-night-by-taiwanese-united-fund-in-san-gabriel-on-090|36. Culture Night advertisement, San Gabriel 09/09/2017]]) — both bibliographic records, no narrative detail.
 - Re-check (deepen-x 2026-09-19 / 2026-09-20 / 2026-09-21 / 2026-09-22 / 2026-09-23 slice 09230317-1): corpus re-grep hit set adds only the two thin bibliographic records above (concerts24, culture-night ad); the earlier new records were already absorbed; remaining hits (270 吳西面, 1134, concerts3, concerts1, 80 年刊, ourjourneys29-eng) were already cited. 1985-vs-1987 founding-year HOLD stands.
+- Re-check (slice deepen-x-slice-09231000-1, 2026-09-25): fresh grep (台灣人聯合基金會 / Taiwanese United Fund / TUF) — hit set identical to records already cited (270 吳西面, 1134, concerts3, photo-albums-activities-80, ourjourneys29-eng, concerts1); no new absorbable material. SKIP-with-reason (saturated).

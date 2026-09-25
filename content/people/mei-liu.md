@@ -39,6 +39,7 @@ last_reviewed: 2026-09-23
 - Re-check (slice deepen-x-slice-09211300-11, 2026-09-22): re-grep 洪梅 / Mei Liu against content/works + content/articles — hit set identical to the records already absorbed above (TAH #2222 record, 2018 南加州台大校友會抗議聲明, 2024 劉和源/洪梅台大回憶, 龐洪梅 false positive) — saturated, SKIP.
 - Re-check (slice deepen-x-slice-09220800-7, 2026-09-22): fresh re-grep 洪梅 / Mei Liu — hit set unchanged (#2222 record, index, 2018 抗議聲明, 2024 台大回憶, 2025 龐洪梅 false positive). No new absorbable community material. SKIP-with-reason.
 - Re-check (slice deepen-x-slice-09230317-4, 2026-09-23): fresh re-grep 洪梅 / Mei Liu — hit set identical to prior re-checks (#2222 record, works index, 2018 抗議聲明, 2024 台大回憶, 2025 龐洪梅 false positive); all records already linked above. No new absorbable material. SKIP.
+- Re-check (slice deepen-x-slice-09231000-2, 2026-09-25): fresh re-grep 洪梅 / Mei Liu against works+articles — hit set identical again (#2222 record, works index, 2018 抗議聲明, 2024 台大回憶, 2025 龐洪梅 false positive). SKIP-with-reason: saturated, no new community material.
 
 ## Family
 
