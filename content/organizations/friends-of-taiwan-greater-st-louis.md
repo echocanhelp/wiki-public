@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # Friends of Taiwan-Greater St. Louis (聖路易台灣之友會)
 
@@ -36,3 +36,4 @@ Friends of Taiwan-Greater St. Louis is a non-profit organization dedicated to pr
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- 2026-09-25 deepen-x slice 09240600-10: fresh grep (聖路易台灣之友 / Friends of Taiwan St. Louis) — sole hit is the 2017 story record already linked. SKIP: verified saturated, no new chapter-specific facts; HOLD unchanged.

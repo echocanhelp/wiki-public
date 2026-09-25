@@ -37,7 +37,7 @@ Zheng was not a member of the Geneva Presbyterian Church congregation in Laguna 
 
 ## From the record
 
-- 2022-05-16 — LA Times/CNA 綜合報導（TJJ轉載）確認其身分为 Laguna Niguel 52歲醫師、新婚妻與兩子留後；與張宣信牧師、教友制伏兇嫌事蹟並載，橘郡檢察長 Spitzer 譽其「犧牲了自己，讓別人得以存活」（[[articles/taiwanjustice-net/2022/20220705114925_2022_05_16_台灣來美的外省第二代周文偉到台美人教會開槍殺_117bdbbd9b362236|TJJ, 2022-05-16]]）。
+- 2022-05-16 — LA Times/CNA 綜合報導（TJJ轉載）確認其身分為 Laguna Niguel 52歲醫師、身後留下妻子與兩名孩子；與張宣信牧師、教友制伏兇嫌事蹟並載，橘郡檢察長 Spitzer 譽其「犧牲了自己，讓別人得以存活」（[[articles/taiwanjustice-net/2022/20220705114925_2022_05_16_台灣來美的外省第二代周文偉到台美人教會開槍殺_117bdbbd9b362236|TJJ, 2022-05-16]]）。
 
 - 複核（TJJ-A09240400-4, 2026-09-25）：本 slice 文章 8c205697 正文再驗證——本傳主體即報導主角（挺身對峙中彈身亡、獲誉「英雄」），subject link 為真（無錯鏈、無虛鏈）；2022-05-16 條目（已掛該文 wikilink）已在庫 — SKIP，無新材料。
 

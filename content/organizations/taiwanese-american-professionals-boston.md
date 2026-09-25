@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # Taiwanese American Professionals Boston
 
@@ -35,3 +35,4 @@ HOLD: conflict in parentage — this page (from the TAH directory) describes TAP
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- 2026-09-25 deepen-x slice 09240600-10: fresh grep (台美菁英 / Taiwanese American Professionals / TAP-BOS / 波士頓分會) — hit set identical to records already linked (national TAP, Boston #4, Austin #3, D.C. #5, OC, Seattle/SF scholarships). SKIP: verified saturated, no new chapter-specific facts; parentage HOLD unchanged.
