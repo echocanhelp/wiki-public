@@ -54,6 +54,8 @@ _No filled family fields on the TAH profile._
 
 ## From the record
 
+- 複核（TJJ-A09240500-3, 2026-09-25）：slice 文章 cd2062fe6528223c（台灣之美‧亞洲之心巡迴展報導, 2017-03-14刊）正文再驗證——正文點名其以新藝畫會會員受邀參展，subject 連結為真，無錯鏈、無虛鏈；2017-04-01 條目（含該文 wikilink）已在庫 — SKIP，已飽和。
+
 
 - 2017-04-01 — Invited as a 新藝畫會 member to exhibit at the 「台灣之美‧亞洲之心」國際巡迴展 LA stop (4/1–2/2017, 橋二中心; hosted by TUF, curated by 蘇奐豪), alongside 李淑櫻、劉白、蔡蕙香、陳文石 ([[articles/taiwanjustice-net/2024/20240724234326_root_cd2062fe6528223c|TJJ exhibition report, 2017-03-14]]).
 

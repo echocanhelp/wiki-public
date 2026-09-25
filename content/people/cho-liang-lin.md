@@ -75,6 +75,8 @@ Facts already present in vault pages citing Cho-Liang Lin (no new sources):
 
 ## From the record
 
+- 複核（TJJ-A09240500-3, 2026-09-25）：slice 文章 04f32b14d8cf8f12（台灣會館會訊 #11, 2016-12-17）正文再驗證——12/12 NSO 與林昭亮 Orange County 音樂會（會館共同主辦、董事黃群雁領軍）記述確認見於正文，subject 連結為真，無錯鏈、無虛鏈；2016-12-12 條目（含該文 wikilink）已在庫 — SKIP，已飽和。
+
 - 複核（TJJ-A09240400-1, 2026-09-25）：本 slice 文章 99aaa4abcb78ff6d（台美人台加人分類存檔頁, 2024-04-25 快照）正文再驗證——「呂紹嘉首度帶領NSO遠征溫哥華和洛杉磯 林昭亮助陣」標題確認見於正文，subject 連結為真（無錯鏈、無虛鏈）；2016-11-28 條目（已含該文 wikilink）已在庫 — SKIP，無新材料。
 
 - 複核（TJJ-A09230900-2, 2026-09-25）：slice 文章 b4e27e98036e15d0（海頓音樂欣賞課報導, 2016-06-06 刊）正文再驗證——本頁 subject 連結為真實提及，無錯鏈、無虛鏈；對應日期事實條目（含該文 wikilink）已在庫 — SKIP，無新材料。

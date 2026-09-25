@@ -26,6 +26,7 @@ The Asian Senior Concerns Foundation is a nonprofit organization established in 
 - HOLD: founding-year conflict — directory snapshot says established 2001; founder 陳一仁's memoir says spring 2002. Not auto-merged; needs owner confirmation.
 - 2026-09-23 (slice 09221100-19) corpus re-check: fresh grep「Asian Senior Concerns／亞裔銀髮／陳一仁」adds only the founder's own TAH encyclopedia entry [[works/taiwaneseamericanhistory-org/whoswho1452|1452. I-Jen Chen 陳一仁 / 2017/01]] (published 2017-01-15, band B, subject page [[people/i-jen-chen]]) — absorbed as the founder-of-record link. No further first-party activity corpus; no new conflicts.
 - 2026-09-24 (slice 09230600-8) corpus re-check: fresh grep「Asian Senior Concerns／亞裔銀髮／陳一仁」adds nothing new — only the 48 directory entry, founder memoir ourjourneys281, founder page whoswho1452, and works/index, all already linked. Verified-saturated; HOLD (2001 directory vs 2002 founder memoir) maintained.
+- 2026-09-25 (slice 09240600-9) corpus re-check: fresh grep「Asian Senior Concerns／銀髮關懷／老年關懷／高齡關懷」returned only the 48 directory entry and works/index, both already linked. SKIP-with-reason: verified-saturated; HOLD maintained.
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/asian-senior-concerns-foundation/)

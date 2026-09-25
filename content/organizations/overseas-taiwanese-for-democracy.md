@@ -20,6 +20,8 @@ Overseas Taiwanese for Democracy (海外台灣青年陣線) is a North American 
 
 ## From the record
 
+- 複核（TJJ-A09240500-3, 2026-09-25）：slice 文章 3260cd0bdf2f84d7（海台青與黑客松, 2017-07-24刊）正文再驗證——本篇主角組織，subject 連結為真，無錯鏈、無虛鏈；2017-07-01 條目（含該文 wikilink）已在庫 — SKIP，已飽和。
+
 
 - 複核（TJJ-A09230400-1, 2026-09-24）：subject link 經本 slice 文章 2c9cb76838702dd7 正文再驗證為真實對應，對應 From-the-record 條目已在庫並掛鏈本檔（無錯鏈、無虛鏈）— SKIP，無新材料。
 

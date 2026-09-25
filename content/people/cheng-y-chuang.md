@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-25
 ---
 # Cheng Y. Chuang (莊承業)
 
@@ -17,7 +17,7 @@ last_reviewed: 2026-09-24
 - **Era:** 1939
 - **Geography:** Taiwan
 - **Core roles:** entrepreneur
-- **Source:** TAH Foundation Who’s Who
+- **Source:** TAH Foundation Who's Who
 
 1. Founder and First Chairman of Texas Formosan Federal Credit Union (德州台灣信用合作社創辦人和第一任社長) 1975, Served 22 Years as Chairman and BoardMember.
 
@@ -43,12 +43,13 @@ last_reviewed: 2026-09-24
 - **HR 23 advocacy, Austin (2019-03-04):** At the historic HR 23 Resolution hearing in the Texas State Capitol he appears in community photos (with Mike Chen, Katy Shull, Pearl Wu, Shannon Hu) and publicly backed FAPA's Austin work ([[works/taiwaneseamericanhistory-org/our-journeys-370|Our Journeys #370]]).
 - CORPUS SCAN (2026-09-24, slice 09230600-5): exact-name re-grep 「莊承業／Cheng Y. Chuang／Eddie Chuang」 returns the same six works already linked above (318, #370, 244, 76-eng roster, 233-eng, album #39) — no new corpus facts; verified saturated, SKIP-deepen.
 - CORPUS SCAN (2026-09-23, slice 09221100-15): exact-name re-grep 「莊承業／Cheng Y. Chuang」 returns only his already-linked works (318, 233, 1124, 1252, ourjourneys244 memoir, TFCU album #39, OJ#370); remaining loose matches are same-surname distinct people (莊子賢 Tze-jer Chuang, Henry Chuang) — no new corpus facts to absorb.
+- CORPUS SCAN (2026-09-25, slice 09240600-7): exact-name re-grep 「莊承業／Cheng Y. Chuang／Eddie Chuang」 over works/+articles/ returns the same six works already linked above (318, #370, 244, 76-eng roster, 233-eng, album #39) — hit set identical to all prior scans; verified saturated, SKIP-deepen.
 
 ## Sources
 - [TAH #116 encyclopedia: 116. Cheng Y. (Eddie) Chuang 莊承業](https://taiwaneseamericanhistory.org/116-cheng-y-eddie-chuang/)
 - [TAH #332 encyclopedia: 332. Cheng Y. Chuang (莊承業) / The First President of Texas Formosan Federal Credi](https://taiwaneseamericanhistory.org/ff332/)
 - [TAH #266 encyclopedia: 266. Cheng Y. Chuang 莊承業/2015/02](https://taiwaneseamericanhistory.org/whos-who-266-cheng-y-chuang/)
-- [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/cheng-y-chuang/)
+- [TAH Who's Who](https://taiwaneseamericanhistory.org/person/cheng-y-chuang/)
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

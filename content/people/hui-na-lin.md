@@ -46,6 +46,8 @@ _No filled family fields on the TAH profile._
 
 ## From the record
 
+- 複核（TJJ-A09240500-3, 2026-09-25）：slice 文章 04f32b14d8cf8f12（台灣會館會訊 #11, 2016-12-17）正文再驗證——228 七十週年系列活動由董事賴慧娜帶頭之宣布確認見於正文，subject 連結為真，無錯鏈、無虛鏈；2016-12-17 條目（含該文 wikilink）已在庫 — SKIP，已飽和。
+
 - 複核（TJJ-A09231000-5, 2026-09-25）：slice 文章 c9dd9fb782cc99b8（Covid-19 浩劫餘生錄分類頁, 2021-11-28 快照）正文再驗證——「天已轉涼 ◎賴慧娜」確認見於正文，subject 連結為真，無錯鏈、無虛鏈；2021-11-28 條目（含該文 wikilink）已在庫 — SKIP，已飽和。
 
 - 複核（TJJ-A09230800-1, 2026-09-24）：文章 a428dcebbceacf38（2018 台大校友公開信） 正文再驗證——本頁 subject 連結確認見於正文（無錯鏈、無虛鏈）；對應 From-the-record 條目已在庫 — SKIP，無新材料。

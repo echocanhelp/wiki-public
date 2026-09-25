@@ -31,6 +31,8 @@ The Global Taiwan Institute (GTI) is a think tank dedicated to strengthening US-
 
 ## From the record
 
+- 複核（TJJ-A09240500-3, 2026-09-25）：slice 文章 3260cd0bdf2f84d7（海台青與黑客松, 2017-07-24刊）正文再驗證——GTI 執行長 Russell Hsiao 受邀演講確認見於正文，subject 連結為真，無錯鏈、無虛鏈；2017-07-24 條目（含該文 wikilink）已在庫 — SKIP，已飽和。
+
 - 複核（TJJ-A09230800-1, 2026-09-24）：文章 064fe05a08d0aecf（宋娣专栏 2017-02-17） 正文再驗證——本頁 subject 連結確認見於正文（無錯鏈、無虛鏈）；對應 From-the-record 條目已在庫 — SKIP，無新材料。
 - 複核（TJJ-A09230700-9, 2026-09-24）：本 slice 文章 c692a70646f3af76 Subjects 再驗證——GTI（全球台灣研究中心）為共同創辦人葉介庭任職之華府智庫、與莊吳明芳並列挺裴洛西訪台聲音，確認見於正文，連結為真；2022-08-05 條目已在庫 — SKIP，無新材料。
 
