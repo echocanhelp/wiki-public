@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-25
 ---
 # Yunn-Mei Lin (林詠梅)
 
@@ -33,7 +33,7 @@ last_reviewed: 2026-09-22
 
 ## Role in the Community
 
-- **Who's Who record** — The corpus holds her encyclopedia entry [[works/taiwaneseamericanhistory-org/217-yunn-mei-lin-e6-9e-97-e8-a9-a0-e6-a2-85201501|217. Yunn-Mei Lin 林詠梅 / 2015/01]] (published 2015-01-19, value band B — bibliographic record; full text stays in the vault). No memoir/feature passages in works/ or articles/ name her beyond this record, so no community roles could be absorbed without inventing biography.
+- **Who's Who record** — The corpus holds her encyclopedia entry [[works/taiwaneseamericanhistory-org/217-yunn-mei-lin-e6-9e-97-e8-a9-a0-e6-a2-85201501|217. Yunn-Mei Lin 林詠梅 / 2015/01]] (published 2015-01-19, value band B — bibliographic record; full text stays in the vault). No memoir/feature passages in works/ or articles/ name her beyond this record, so no community roles could be absorbed without inventing biography. Re-swept 2026-09-25 (slice -25): ZH+EN grep returns only this record and the index — nothing absorbable.
 
 ## Sources
 - [TAH #217 encyclopedia: 217. Yunn-Mei Lin 林詠梅/2015/01](https://taiwaneseamericanhistory.org/217-yunn-mei-lin-%e6%9e%97%e8%a9%a0%e6%a2%85201501/)

@@ -5,7 +5,7 @@ redirect_to: organizations/north-american-taiwanese-medical-association-foundati
 tags:
   - redirect
 verification_status: redirect
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-25
 ---
 
 # Moved
