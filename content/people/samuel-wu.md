@@ -44,6 +44,7 @@ last_reviewed: 2026-09-25
 - No corpus record names him as a subject at any individual 台福 congregation page (Arcadia / Orlando / Phoenix / Philadelphia); no pastorate added.
 
 **Corpus records:** [[works/taiwaneseamericanhistory-org/whoswho978|978. Samuel Wu 吳德聖 / 2016/05]]
+- Corpus re-grep 2026-09-25 (slice 09231200-11): additional ZH+EN hits in works/ are false positives — Samuel Lin 林雲郎 ([[works/taiwaneseamericanhistory-org/10231|250]]) and Samuel Lee 李茂玄 ([[works/taiwaneseamericanhistory-org/whoswho1143|1143]]); no 吳德聖 named-subject material beyond the above. Verified saturated.
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/samuel-wu/)
