@@ -46,6 +46,7 @@ The corpus holds these as band-B community records (full text stays in the vault
 
 Re-verified 2026-09-23 (also 09-22, 09-21): fresh corpus grep returns only these own-bylines works plus the index — still no third-party memoir mentions.
 Re-verified 2026-09-25 (deepen-x slice 09231000-30): fresh grep for 葛原隆/James Ger returns only own-bylines #625, #385, and the works index — corpus-saturated, nothing new.
+Re-verified 2026-09-25 (deepen-x slice 09250400-10): identical hit set (own-bylines #625, #385 + works index) — corpus-saturated, SKIP.
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/james-ger/)

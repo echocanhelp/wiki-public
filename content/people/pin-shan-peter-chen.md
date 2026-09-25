@@ -44,6 +44,7 @@ _No filled family fields on the TAH profile._
 - No memoir/article mentions of 陳品山 in the corpus as of the 2026-09-23 re-grep; nothing merged beyond the existing TAH profile fields.
 - HOLD: name collision on the English name "Peter Chen" — the corpus's other Peter Chen records ([[works/taiwaneseamericanhistory-org/424-peter-chen-e9-99-b3-e6-ad-a3-e7-be-a9-201505|TAH #424]], [[works/taiwaneseamericanhistory-org/ourjourneys235|Our Journeys #235]], [[works/taiwaneseamericanhistory-org/ourjourneys228|Our Journeys #228]]) are all 陳正義, a FAPA president (per #228's list of nine FAPA chairs), a different person from 陳品山. Do not merge.
 - Re-verified 2026-09-25 (deepen-x slice 09231000-30): fresh grep for 陳品山/Pin-Shan returns only his own TAH #2127 record and the works index — corpus-saturated, nothing new.
+- Re-verified 2026-09-25 (deepen-x slice 09250400-10): identical hit set (own TAH #2127 record + works index) — SKIP, nothing new absorbable.
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

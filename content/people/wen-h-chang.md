@@ -38,6 +38,7 @@ Our own memoir corpus records 張文旭 as a founding pillar of the Taiwanese Am
 - His own encyclopedia profile is preserved in the corpus as [[works/taiwaneseamericanhistory-org/whos-wen-h-chang|TAH #1643: Wen. H. Chang 張文旭 / 2017-05]].
 - Re-grep 2026-09-23 (slice 09221500-18): identical hit set (ourjourneys43 + TAH #1643) — saturated.
 - Re-grep 2026-09-25 (slice 09231000-21): identical hit set — saturated.
+- Re-grep 2026-09-25 (slice 09250400-10): identical hit set (Our Journeys #43 + own TAH #1643 + works index) — saturated, SKIP.
 - 2026-09-22 re-check: fresh corpus greps for 張文旭 / Wen. H. Chang hit only [[works/taiwaneseamericanhistory-org/ourjourneys43|Our Journeys #43]] and his own TAH #1643 record — all facts above already absorbed; no new material.
 
 ## Family
