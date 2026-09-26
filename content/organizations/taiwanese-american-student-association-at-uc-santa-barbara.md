@@ -39,3 +39,5 @@ HOLD: apart from the 2014 sponsorship credit (which names the group as "UCSB Tai
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+- Re-grepped 2026-09-26 (slice 09260400-4): fresh grep UCSB/TASA/Santa Barbara across works+articles — hit set identical (Chuan Lyu chair, OJ-352, night market, Anita Chang listing) plus ITASA records (a separate national body) and OJ-173/157 campus mentions; no new TASA-attributable facts. SKIP (verified-saturated).

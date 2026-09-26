@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Charles Ting (丁昭昇)
 
@@ -45,6 +45,8 @@ Our own memoir corpus (Our Journeys) records Charles Ting (丁昭昇) as a South
 2026-09-25 re-check (slice 09240400-2): corpus grep (丁昭昇／Charles Ting) returns the identical Our Journeys #65/#65(EN)/#54(EN)/#173(EN)/#186/#186(EN) memoir set — all already linked; verified saturated, no new corpus facts.
 
 2026-09-25 re-check (slice 09250700-11): fresh ZH+EN grep returns the identical hit set — Our Journeys #65/#65(EN)/#54/#54(EN)/#173/#173(EN)/#186/#186(EN)/#257, TAH #917 record, works index — all already linked above. SKIP, verified saturated.
+
+2026-09-26 re-check (slice 09260317-29): fresh ZH+EN grep (丁昭昇／Charles Ting) returns the same saturated set — #65/#65(EN)/#54/#54(EN)/#173(EN)/#186/#186(EN) — no new absorbable facts. Note: the #65 founding roster's EN/ZH editions transliterate 許千惠 as "Chien-hui Hsu" and render an additional name (ZH 陳伸夫 vs EN "Philip Chen") inconsistently; roster per edition as quoted, never auto-merged.
 
 ## Family
 
