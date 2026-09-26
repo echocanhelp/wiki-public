@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Chang-I Tsai (蔡正一)
 
@@ -52,3 +52,4 @@ _No filled family fields on the TAH profile._
 <!-- deepen-x 09221500-14: re-verify 2026-09-23 — fresh grep (蔡正一/Chang-I Tsai, works+articles): only the 5 own records (442/443/444 畫冊, artist15, whoswho1052) plus works/index. Verified-saturated; no memoir or community material beyond the archived art catalogs. -->
 <!-- deepen-x slice 09230900-15 (2026-09-24): re-verified — fresh grep hit set identical to material already absorbed/cited on this page; no new corpus material. SKIP. -->
 <!-- deepen-x slice 09240900-10 (2026-09-25): re-verified — fresh grep hit set identical to material already absorbed/cited on this page (own records + index only); no new memoir/community material. SKIP. -->
+<!-- deepen-x slice 09251400-12 (2026-09-26): re-verified — fresh grep hit set identical to material already absorbed/cited on this page (own records + index only); no new memoir/community material. SKIP. -->
