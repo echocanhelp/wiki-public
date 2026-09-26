@@ -35,6 +35,7 @@ Re-grep 2026-09-23 (slice 09220900-14): corpus hits again unchanged (the two GT 
 Re-grep 2026-09-24 (slice 09230400-10): corpus hits again unchanged (two GT event works + ourjourneys256 venue list + harvest index). Corpus-saturated, SKIP-for-deepening.
 Re-grep 2026-09-25 (slice 09240317-22): corpus hits again unchanged (two GT event works + ourjourneys256 venue list + works index). Corpus-saturated, SKIP-for-deepening.
 Re-grep 2026-09-25 (slice 09250700-23): corpus hits again unchanged (two GT event works + ourjourneys256 venue list + works index). Corpus-saturated, SKIP-for-deepening.
+Re-grep 2026-09-26 (slice 09260500-6): corpus hits again unchanged (Georgia Tech appears only in the two recorded event works + ourjourneys256 venue list; other "Taiwanese Student Association" matches are unrelated USC/OSU/UW/TSAPA/KU chapters). Corpus-saturated, SKIP-for-deepening.
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-student-association-at-georgia-tech/)
