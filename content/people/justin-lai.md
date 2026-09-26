@@ -53,3 +53,4 @@ Note: "Era: 1940" derives solely from the directory era field; no corpus record 
 <!-- deepen-x 2026-09-22: re-scan (ZH+EN) against content/works + content/articles — only the persons own TAH encyclopedia/bibliographic record hits; no new memoir/community material to absorb. Existing content verified current. -->
 
 <!-- deepen-x 09231400-12 (2026-09-25): fresh ZH+EN grep of works+articles -> only own TAH bibliographic record + works/index.md; no memoir/community narrative to absorb. SKIP re-verified. -->
+<!-- deepen-x slice 09251031-4 (2026-09-26): fresh ZH+EN grep (賴正雄/Justin Lai) of works+articles -> hits identical to prior sweeps: own record [[works/taiwaneseamericanhistory-org/608-justin-lai-e8-b3-b4-e6-ad-a3-e9-9b-84-201509|TAH #608]] + works/index. SKIP stands. -->

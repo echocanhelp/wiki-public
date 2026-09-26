@@ -14,6 +14,7 @@ last_reviewed: 2026-09-26
 ## Corpus pass (deepen-x 2026-09-18): SKIP
 No absorbable corpus material found in works/ or articles/ beyond the bibliographic record [[works/taiwaneseamericanhistory-org/1554-fan-rong-k-chung-graham-e9-87-91-e8-8a-b3-e8-93-89-201703|TAH #1554 (2017-03)]] — it is bibliography-only (full text stays in the vault), no memoir or community-organizing facts to absorb. No new biography invented.
 Re-checked 2026-09-21 (deepen-x slices 21 & 19) and again 2026-09-25 (slice 09231300-8): grep across works+articles for 金芳蓉 / Fan Rong returns only the TAH #1554 record and the works/index listing — SKIP stands, no conflicts.
+Re-checked 2026-09-26 (slice 09251031-4): fresh ZH+EN grep returns the same hit set — own record [[works/taiwaneseamericanhistory-org/1554-fan-rong-k-chung-graham-e9-87-91-e8-8a-b3-e8-93-89-201703|TAH #1554]] + works/index. SKIP stands.
 
 ## Identity Snapshot
 - **English:** Fan Rong K Chung Graham
