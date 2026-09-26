@@ -45,3 +45,4 @@ His own TAH encyclopedia entry is held in the vault at [[works/taiwaneseamerican
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+<!-- deepen-x 09251023-28: re-verify — fresh ZH+EN grep of works/ + articles/: hit set unchanged (own record + index only); SKIP persists. -->

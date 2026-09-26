@@ -46,3 +46,4 @@ _No filled family fields on the TAH profile._
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 <!-- deepen-x 09210831-19: re-verify — only own TAH #1678 record + works index; Role section already reflects corpus state. -->
+<!-- deepen-x 09251023-28: re-verify — fresh ZH+EN grep: own record whos-who-1678 + index only; SKIP persists. -->

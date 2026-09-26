@@ -48,3 +48,4 @@ _No filled family fields on the TAH profile._
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 <!-- deepen-x 09210900-4: re-verify — fresh grep: only own record 1578 + index; SKIP persists. -->
 <!-- deepen-x 09231300-32: re-verify — fresh ZH+EN grep of works/ + articles/: hit set unchanged (own record + already-absorbed works only); SKIP persists. -->
+<!-- deepen-x 09251023-28: re-verify — fresh ZH+EN grep: own record 1578 + index only; SKIP persists. -->

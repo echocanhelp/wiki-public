@@ -54,4 +54,4 @@ Corpus records for 鄭晧 are limited to his own TAH encyclopedia entry, so no i
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
-- Corpus re-grep 2026-09-25 (deepen-x 09231300-20): hit set unchanged (own TAH record + index only); no new community facts absorbable.
+- Corpus re-grep 2026-09-25 (deepen-x 09231300-20) and 2026-09-26 (slice 09251023-26): hit set unchanged (own TAH record + index only); no new community facts absorbable.
