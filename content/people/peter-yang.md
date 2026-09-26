@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Peter Yang (楊秉彝)
 
@@ -46,6 +46,7 @@ Accomplishment
 - 2026-09-23 deepen-x slice 09221300-22: re-verified — fresh grep returns the same already-linked set (video collection, #35, #2215, TJJ 攝影 records); no new corpus facts absorbable.
 - 2026-09-24 deepen-x slice 09230800-15: re-verified — fresh grep returns the same already-linked set; no new corpus facts absorbable.
 - 2026-09-25 deepen-x slice 09240800-13: re-verified — fresh grep unchanged (video collection, #35, #2215, index, TJJ 攝影 records ×2), all already wikilinked; no new corpus facts absorbable.
+- 2026-09-26 deepen-x slice 09251023-6: re-verified — fresh ZH+EN grep returns the same already-linked set (video collection, #35, #2215, index, TJJ 攝影 records ×2); no new corpus facts absorbable.
 
 ## Sources
 - [TAH #35 encyclopedia: 35. Peter Yang (楊秉彝)](https://taiwaneseamericanhistory.org/senior-taiwanese-american-35/)
