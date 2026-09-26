@@ -26,6 +26,7 @@ Neo Art League is a professional artists association founded in 2006 by Taiwanes
 - 2017-04 — members 李淑櫻、洪逸凡、劉白、蔡蕙香、陳文石 were invited into the TUF-hosted 「台灣之美‧亞洲之心」 international touring show in Los Angeles, curated by 新藝畫會理事 蘇奐豪 (MFA Utah, museum curator in Utah since 1997), alongside Taiwan-based painters including 楊靜芬 and 林耀煌 ([[articles/taiwanjustice-net/2024/20240724234326_root_cd2062fe6528223c|台灣之美‧亞洲之心國際巡迴展, TJJ archive]]).
 - Corpus re-grep 2026-09-24 (slice 09230500-23): SKIP — verified-saturated; fresh grep (新藝畫會／Neo Art League, works+articles) hits unchanged: directory record, show records #30 (Whittier 02/2009) and #38 (La Artcore 05/2019), Our Journeys #371, the TJJ 話畫時間 feature, plus the works index — all already linked/absorbed above. Nothing new to absorb.
 - Corpus re-grep 2026-09-25 (slice 09240500-15): SKIP — fresh grep (新藝畫會／Neo Art League) hit set unchanged: directory record, #30, #38, Our Journeys #371, TJJ 話畫時間, works index; verified saturated.
+- Corpus re-grep 2026-09-25 (slice 09250800-12): SKIP — fresh grep (新藝畫會／Neo Art League) hit set unchanged: directory record, #30, #38, Our Journeys #371, TJJ 話畫時間, works index; verified saturated.
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/neo-art-league/)

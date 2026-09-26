@@ -48,6 +48,8 @@ Clinical Professor; Director of the Dual Diagnosis Treatment Program
 
 - Corpus re-grep 2026-09-25 (slice 09240500-16): SKIP — verified-saturated; fresh grep (莊文宗／John Tsuang, works+articles) returns only his own TAH #1924 entry plus the works index. No memoir or community record names John himself — nothing absorbable.
 
+- Corpus re-grep 2026-09-25 (slice 09250800-13): SKIP — fresh grep (莊文宗／John Tsuang／TSUANG, works+articles) returns only his own TAH #1924 entry plus the works index; hit set unchanged, nothing absorbable.
+
 ## Sources
 - [TAH #1924 encyclopedia: 1924. Dr. John Tsuang 莊文宗醫師](https://taiwaneseamericanhistory.org/whos-who-1924-john-tsuang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-john-tsuang/)
