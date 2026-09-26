@@ -54,3 +54,4 @@ Corpus re-check 2026-09-22 (deepen-x slice 09220400-25): fresh grep of works/ an
 Corpus re-check 2026-09-23 (deepen-x slice 09221200-26): fresh ZH+EN grep — hit set unchanged (#64 mirror, ourjourneys58, mystories641, works index); all already linked and absorbed. SKIP-deepen.
 Corpus re-check 2026-09-24 (deepen-x slice 09230700-13): fresh ZH+EN grep — hit set unchanged (#64 mirror, ourjourneys58, mystories641, works index); all already linked and absorbed. Verified-saturated SKIP.
 Corpus re-check 2026-09-25 (deepen-x slice 09240700-21): fresh ZH+EN grep — hit set unchanged (#64 mirror, ourjourneys58, mystories641, works index); all already linked and absorbed. Verified-saturated SKIP.
+Corpus re-check 2026-09-26 (deepen-x slice 09251000-11): fresh ZH+EN grep — hit set unchanged (#64 mirror, ourjourneys58 18-worker Manhattan roster line, mystories641, works index); all already linked and absorbed. Verified-saturated SKIP.

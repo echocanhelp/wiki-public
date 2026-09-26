@@ -38,6 +38,7 @@ last_reviewed: 2026-09-25
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/peter-chiu/)
 
 ## From the record
+- 複核（TJJ-A09250900-3, 2026-09-26）：本 slice 文章 bb7f9d54ae93bbef（園藝分類頁, 2024-02-25 快照）正文再驗證——「Sadako與Peter Chiu(邱勝宗夫婦)講EM酵素」及百草園專訪條目確認見於正文，subject 連結為真，無錯鏈、無虛鏈；對應日期事實（含該文 wikilink）已在庫 — SKIP，已飽和。 [[articles/taiwanjustice-net/2024/20240225023227_root_bb7f9d54ae93bbef|快照]]
 - 複核（TJJ-A09250400-17, 2026-09-26）：本 slice 文章 c83c2315ab0b3e26（王廷宜追思會稿）正文再驗證——連絡人邱勝宗確認見於正文，subject 連結為真（無錯鏈、無虛鏈）；2022-06-25 條目（已含該文 wikilink）已在庫 — SKIP，已飽和。
 - 複核（TJJ-A09250400-3, 2026-09-25）：本 slice 文章 a428dceb 正文再驗證——peter-chiu 對應真實（記述確認見於正文），無錯鏈、無虛鏈；含該文 wikilink 的日期事實條目已在庫 — SKIP，無新材料。
 

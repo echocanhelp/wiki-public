@@ -44,6 +44,8 @@ _No filled family fields on the TAH profile._
 
 - Corpus re-scan 2026-09-25 (slice 09240700-26): fresh grep 范振聲/Cheng-Shen Fang of works/ + articles/ returns the same hit set (ourjourneys76, ourjourneys-139, ourjourneys245, our-journeys-379, 135 簡介, TAH #286, #256 夢裡故鄉, index), all absorbed above. Verified-saturated; SKIP-content.
 
+- Corpus re-scan 2026-09-26 (slice 09251000-11): fresh grep 范振聲/Cheng-Shen Fang of works/ + articles/ — hit set unchanged (ourjourneys76 + eng 創始大會會刊任命, 135 全美台灣同鄉會簡介, ourjourneys245, our-journeys-379, ourjourneys-139; TAH #286 / #256 from prior passes already absorbed). Verified-saturated; SKIP-content, nothing new absorbable, no conflicts to HOLD.
+
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/cheng-shen-fang/)
 

@@ -49,6 +49,7 @@ _No filled family fields on the TAH profile._
 
 ## From the record
 
+- 複核（TJJ-A09250900-3, 2026-09-26）：本 slice 文章 bb7f9d54ae93bbef（園藝分類頁, 2024-02-25 快照）正文再驗證——王麗貝主講講座條目（2016-09-25、2017-07-23）確認見於正文，subject 連結為真，無錯鏈、無虛鏈；對應日期事實（含該文 wikilink）已在庫 — SKIP，已飽和。 [[articles/taiwanjustice-net/2024/20240225023227_root_bb7f9d54ae93bbef|快照]]
 - 複核（TJJ-A09240800-1, 2026-09-25）：本 slice 文章 2e141df6a5071110（蔬果園藝交流在美洲 tag p2, 2024-05-22 快照）正文再驗證——王麗貝(Lisa Wang)玫瑰花養植及玫瑰花茶加工講座條目確認見於正文，subject 連結為真；同頁「黃啟源(Paul Huang)」園藝講師 ≠ 小提琴家黃俊文之 HOLD 不連結維持；2016-06-26 條目（含該文 wikilink）已在庫 — SKIP，已飽和。
 
 - 複核（TJJ-A09240800-3, 2026-09-25）：本 slice 文章 0c56e79f9989639c（園藝分類頁, 2017-11-09 快照）正文再驗證——「王麗貝Lipei Lisa Wang 講植物界的茶飲文化與饗宴@7/23」條目確認見於正文，連結為真；2017-07-23 條目（已含該文 wikilink）已在庫 — SKIP，已飽和。
