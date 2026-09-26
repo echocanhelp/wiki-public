@@ -35,6 +35,7 @@ last_reviewed: 2026-09-26
 
 ## Role in the Community
 - His TAH Who's Who profile is preserved in our story corpus as community historical record (entry 1272, published 2016-09-11): [[works/taiwaneseamericanhistory-org/whoswho1272|1272. Hyden Shen 沈尚哲 / 09/2016]]. No further community/corpus material found beyond the bibliographic record.
+- Corpus review 2026-09-26: fresh ZH+EN grep (沈尚哲 / Hyden Shen) across works + articles returns only the Who's Who entry and the works index — no memoir material. SKIP (bibliographic record already absorbed).
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/hyden-shen/)
