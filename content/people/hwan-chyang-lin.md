@@ -52,3 +52,4 @@ _No filled family fields on the TAH profile._
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - Re-grep 2026-09-25 (slice 09240317-29): hit set identical to records already absorbed (TAH #720, taiwanjustice-net 2025-06/2026-01 archive articles) — SKIP, saturated; HOLD on contested-dissertation framing stands.
+- Re-grep 2026-09-25 (slice 09250800-20): fresh ZH+EN grep — hit set identical (TAH #720/#790, taiwanjustice-net 2025-06/2026-01 articles, index/MANIFEST); all already absorbed — SKIP, verified-saturated; HOLD stands.

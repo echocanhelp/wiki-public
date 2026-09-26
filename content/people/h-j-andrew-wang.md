@@ -55,3 +55,4 @@ _No filled family fields on the TAH profile._
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 - Re-verified 2026-09-25 (slice 09240500-21): fresh ZH+EN grep matches only TAH #944, the 武漢肺炎 article record, and index — verified-saturated, SKIP; HOLD on the 1947 Ph.D.-date conflict stands.
+- Re-verified 2026-09-25 (slice 09250800-20): fresh ZH+EN grep matches only TAH #944, the 武漢肺炎 article record, and index — verified-saturated, SKIP; HOLD on the 1947 Ph.D.-date conflict stands.

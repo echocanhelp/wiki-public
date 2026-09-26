@@ -52,3 +52,4 @@ _No filled family fields on the TAH profile._
 > Saturate-note (deepen-x slice 09230400-25, 2026-09-24): re-verify — hit set identical (whos-who-1923, mystories597, 台積研發六騎士 article, works index); the 台積研發六騎士 snippet (前研發副總經理, alongside 林本堅/梁孟松/楊光磊/蔣尚義/孫元成) already absorbed. SKIP: page saturated.
 
 > Saturate-note (deepen-x slice 09240500-21, 2026-09-25): re-verify — hit set identical (whos-who-1923, mystories597, 台積研發六騎士 article, index); nothing new absorbable. SKIP: page saturated.
+> Saturate-note (deepen-x slice 09250800-20, 2026-09-25): fresh ZH+EN grep — hit set identical (whos-who-1923, mystories597, 台積研發六騎士 article, index); all already linked. SKIP: verified-saturated.
