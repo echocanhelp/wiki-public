@@ -52,3 +52,5 @@ last_reviewed: 2026-09-25
 SKIP (re-confirmed) — exact-name grep (郭惠美 / Amy H Kuo) returns only [[works/taiwaneseamericanhistory-org/whos-who-2319-amy-h-kuo|#2319]] and the [[works/taiwaneseamericanhistory-org/ourjourneys268|#268 memoir]] already absorbed; fuzzy "Amy H" hits in #508/#1445/#376/#123 are different people (Amy Hsu 蘇惠美, Amy Hsieh 謝孟容) — not this page. Verified saturated.
 
 Re-verified 2026-09-25 (deepen-x slice 09240500-27): 郭惠美 / Amy H Kuo grep returns only #2319 and the #268 memoir, both already absorbed. SKIP: verified saturated.
+
+Corpus re-check (deepen-x 09250800-32, 2026-09-25): grep 郭惠美 / Amy H Kuo works+articles → only #2319, #268 memoir, works index — both absorbed. SKIP: verified saturated.

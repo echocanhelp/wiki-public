@@ -54,3 +54,5 @@ last_reviewed: 2026-09-25
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+Corpus re-check (deepen-x 09250800-32, 2026-09-25): fresh ZH+EN grep 薄柔纜 / Roland|Rowland Brown → only already-absorbed TAH #88 / My Stories #159 + works index. SKIP: verified saturated.

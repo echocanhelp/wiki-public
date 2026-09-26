@@ -44,3 +44,5 @@ TAAA is an arts association in the Taiwanese American community of Southern Cali
 
 - [[organizations/taiwan-center||Taiwan Center]]
 - [[sources/taiwancenter-org||taiwancenter.org]]
+
+- Re-verified 2026-09-25 (deepen-x slice 09250800-32): fresh grep (台美藝術協會 / Taiwanese American Arts Association) returns the same four TAHS records linked above, the works index, and the 鄭炳全 memoir — SKIP, verified saturated.
