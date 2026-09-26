@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Dr. Ketty W. Chen (陳婉宜)
 
@@ -39,6 +39,7 @@ last_reviewed: 2026-09-25
 ## Family
 
 _No filled family fields on the TAH profile._
+- Re-grep 2026-09-26 (slice 09252123-29): fresh ZH+EN grep of works/ + articles/ returns the identical hit set already cited above — verified saturated, nothing new absorbable.
 
 ## Sources
 - [TAH #755 encyclopedia: 755. Dr. Ketty W. Chen 陳婉宜 /2016/01](https://taiwaneseamericanhistory.org/745-dr-ketty-w-chen-%e9%99%b3%e5%a9%89%e5%ae%9c-201601/)
