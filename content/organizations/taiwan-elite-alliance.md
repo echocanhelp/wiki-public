@@ -42,6 +42,7 @@ last_reviewed: 2026-09-26
 - 2026-09-23 語料複核（slice 09221100-20）：fresh grep（優社／Taiwan Elite Alliance）命中全部為已收錄紀錄（concerts #3、#68、清掃洛杉磯河 #5、TAH #20、連署聲明、index），無新事實可吸收 — SKIP-with-reason。
 - 2026-09-24 語料複核（slice 09230600-11）：fresh grep（優社／Taiwan Elite Alliance）命中仍為同一組已收錄紀錄（concerts #3、#68、清掃洛杉磯河 #5、TAH #20、連署聲明、index），無新事實可吸收 — verified saturated。
 - 2026-09-25 語料複核（slice 09240600-14）：fresh grep（優社／Taiwan Elite Alliance）命中仍為同一組已收錄紀錄（concerts #3、#68、清掃洛杉磯河 #5、TAH #20、連署聲明、index），無新事實可吸收 — SKIP-with-reason: verified saturated。
+- 2026-09-26 語料複核（slice 09250900-9）：fresh grep（優社／Taiwan Elite Alliance）命中仍為同一組已收錄紀錄（concerts #3、#68、清掃洛杉磯河 #5、TAH #20、連署聲明、index），無新事實可吸收 — SKIP-with-reason: verified saturated。
 
 ## Related Pages
 

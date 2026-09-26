@@ -44,6 +44,7 @@ last_reviewed: 2026-09-26
 - Profiled twice in the TAH encyclopedia as community record: [[works/taiwaneseamericanhistory-org/whos-min-kao|TAH #128 Min Kao 高民環]] and [[works/taiwaneseamericanhistory-org/mystories184|TAH #184 台美人的榮耀：高民環博士 / 蔡山慶 / 01/2015]]; the original encyclopedia entry is archived in the corpus at [[works/taiwaneseamericanhistory-org/66-dr-min-kao|TAH #66 Dr. Min Kao 高民環博士]].
 - 2026-09-24 corpus re-grep (slice 09230600-10): hit set unchanged — all 9 work hits (UT founding 313/313-eng, Knoxville memoir 102, camps 351/296, TAH 66/128/184, index) already linked above; the only other hit is a 2020 TJJ Garmin stock-market item (press coverage, not a community fact). SKIP (verified-saturated).
 - 2026-09-25 corpus re-grep (slice 09240600-11): hit set again unchanged — works/ 9 hits + the same 2020 TJJ Garmin stock item. SKIP (verified-saturated).
+- 2026-09-26 corpus re-grep (slice 09250900-9): hit set again unchanged — works/ hits (UT founding 313/313-eng, Knoxville memoir 102, camps 351/296, TAH 66/128/184, index) all already linked above. SKIP (verified-saturated).
 
 ## Sources
 - [TAH #66 encyclopedia: 66. Dr. Min Kao 高民環博士](https://taiwaneseamericanhistory.org/66-dr-min-kao/)

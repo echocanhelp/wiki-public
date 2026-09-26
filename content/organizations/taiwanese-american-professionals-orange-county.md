@@ -34,3 +34,4 @@ Taiwanese American Professionals Orange County (TAP-OC) is a chapter of the Taiw
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - Corpus re-scan 2026-09-25 (slice 09240700-3): fresh grep returns the identical hit set (2019 activity record, 2017 directory entry, 2021 & 2025 WHA motorcade reports) — all absorbed above; verified-saturated, SKIP-with-reason.
+- Corpus re-scan 2026-09-26 (slice 09250900-9): fresh grep 台美菁英協會橙縣分會|TAP-OC returns the identical hit set (2019 activity record, 2017 directory entry, 2021 & 2025 WHA motorcade reports, index) — all absorbed above; SKIP-with-reason: verified saturated.
