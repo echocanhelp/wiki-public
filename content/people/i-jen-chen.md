@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # I-Jen Chen (陳一仁醫師)
 
@@ -39,3 +39,4 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- Re-swept deepen-x slice 09251054-17 (2026-09-26): fresh grep 陳一仁/I-Jen Chen — hit set unchanged (own memoir [[works/taiwaneseamericanhistory-org/ourjourneys281|281. 如是，我為]] + own Whos Who record only). SKIP: nothing new absorbable.

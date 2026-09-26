@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # P. F. Yu Name (喻鵬飛)
 
@@ -42,3 +42,4 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- Re-swept deepen-x slice 09251054-17 (2026-09-26): fresh grep 喻鵬飛/P. F. Yu — hit set unchanged (own TAH record [[works/taiwaneseamericanhistory-org/whoswho948|949. P. F. Yu Name 喻鵬飛]] + works index only). SKIP: nothing new absorbable.
