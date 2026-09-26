@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Dr. Kopin Liu (劉國平博士)
 
@@ -56,4 +56,7 @@ SKIP (re-confirmed) — fresh grep returns only his own TAH record [[works/taiwa
 SKIP (re-confirmed) — fresh ZH(劉國平)+EN grep returns only own TAH #2130 record + works index; no memoir or community-record mentions — nothing absorbable.
 
 ## Corpus check (deepen-x 09240800-29, 2026-09-25)
+SKIP (re-confirmed) — fresh ZH(劉國平)+EN grep returns only own TAH #2130 record + works index; no memoir or community-record mentions — nothing absorbable.
+
+## Corpus check (deepen-x 09251400-13, 2026-09-26)
 SKIP (re-confirmed) — fresh ZH(劉國平)+EN grep returns only own TAH #2130 record + works index; no memoir or community-record mentions — nothing absorbable.
