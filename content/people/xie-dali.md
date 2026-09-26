@@ -25,7 +25,7 @@ Rev. Xie is recognized as an ordained minister within the Taiwanese Presbyterian
 ## Source Notes and Confidence
 - Needs verification: expanded biographical details
 - Moderate confidence: named in church records
-- 2026-09-20 SKIP-note: no corpus hits for 謝大立 in content/works or content/articles — all near-matches were different names (陳大立 in [[works/taiwaneseamericanhistory-org/whsosho1355|1355. Jeffrey L. Chen 陳大立]], 布興大立 in [[works/taiwaneseamericanhistory-org/columns30|30. 原住民專欄]]). Nothing absorbable; page unchanged pending church-record sourcing. Re-verified 2026-09-21, 2026-09-22, and 2026-09-25 (deepen-x 09232337-7): grep for 謝大立 / Xie Dali again returned zero corpus hits — SKIP stands.
+- 2026-09-20 SKIP-note: no corpus hits for 謝大立 in content/works or content/articles — all near-matches were different names (陳大立 in [[works/taiwaneseamericanhistory-org/whsosho1355|1355. Jeffrey L. Chen 陳大立]], 布興大立 in [[works/taiwaneseamericanhistory-org/columns30|30. 原住民專欄]]). Nothing absorbable; page unchanged pending church-record sourcing. Re-verified 2026-09-21, 2026-09-22, 2026-09-25 (deepen-x 09232337-7), and 2026-09-26 (deepen-x 09251054-22): grep for 謝大立 / Xie Dali again returned zero corpus hits — SKIP stands.
 
 ## Name Variants / Disambiguation
 - Chinese: 謝大立
