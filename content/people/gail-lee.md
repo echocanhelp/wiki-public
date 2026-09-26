@@ -63,3 +63,5 @@ _No filled family fields on the TAH profile._
 Corpus re-grep 2026-09-25 (slice 09240317-17, 李秀文 / Gail Lee): hit set unchanged (musician63, whoswho1115-2, works index only) — SKIP, verified-saturated; HOLD on degree field (M.S. vs M.M.) stands.
 
 Corpus re-grep 2026-09-25 (slice 09250700-18): hit set unchanged (musician63, whoswho1115-2) — SKIP, verified-saturated; HOLD on degree field (M.S. vs M.M.) stands.
+
+Corpus re-grep 2026-09-26 (slice 09260400-18, 李秀文 / Gail Lee): hit set unchanged (musician63, whoswho1115-2) — SKIP, verified-saturated; HOLD on degree field (M.S. vs M.M.) stands.

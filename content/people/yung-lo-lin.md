@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Yung-Lo Lin (林永樂)
 
@@ -63,3 +63,5 @@ slice 09230317-20 re-grep (2026-09-24): corpus hit set identical to links alread
 slice 09240317-23 re-grep (2026-09-25): fresh ZH+EN corpus grep; hit set identical to links already absorbed above — no new absorbable facts. SKIP: verified-saturated.
 
 slice 09250700-25 re-grep (2026-09-25): fresh 林永樂/Yung-Lo Lin grep; hit set identical (#whos1282, ourjourneys245, works/index, plus the known taiwanjustice.net 2015 editorial = ROC diplomat namesake, not merged) — no new absorbable facts. SKIP: verified-saturated.
+
+slice 09260400-27 re-grep (2026-09-26): fresh 林永樂/Yung-Lo Lin grep; hit set identical (#whos1282, ourjourneys245, works/index; 榮隆-name matches are other people) — no new absorbable facts. SKIP: verified-saturated.
