@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # H. J. Lee (李慧珍)
 
@@ -43,6 +43,7 @@ _No filled family fields on the TAH profile._
 - Re-grepped 2026-09-22 (slice 09212352-27): works/articles hits remain only [[works/taiwaneseamericanhistory-org/musician387|TAH #387]], [[works/taiwaneseamericanhistory-org/whoswho1542|TAH #1542]], [[works/taiwaneseamericanhistory-org/ourjourneys301|Our Journeys #301]] and the TJJ 楊子清 tag — all already absorbed above. SKIP-with-reason: no new corpus facts this pass.
 - Re-grepped 2026-09-23 (slice 09221100-27): hit-set identical (#387, #1542, #301, TJJ 楊子清 tag, index), all already absorbed — SKIP-with-reason: no new corpus facts.
 - Re-grepped 2026-09-24 (slice 09230600-32): hit-set identical (#387, #1542, #301, TJJ 楊子清 tag, index) — SKIP-with-reason: verified-saturated.
+- Re-grepped 2026-09-26 (slice 09250900-15): hit-set identical (#387, #1542, #301, TJJ 楊子清 tag, index) — SKIP-with-reason: verified-saturated.
 
 ## Sources
 - [TAH #387 encyclopedia: 387. 李慧珍, Conductor / 2017/03](https://taiwaneseamericanhistory.org/musician387/)

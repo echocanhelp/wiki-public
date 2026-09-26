@@ -47,6 +47,7 @@ HOLD: TAF（台灣人協進會）會史紀念照中的 "Mei Lu"（MFCF 1990 前�
 - Corpus re-check 2026-09-24 (deepen-x slice 09230800-5): re-grep (陳香梅 / Mei Lu) — identical hit set (ourjourneys154、ourjourneys33 中英、#1699 記錄頁、index、TJJ 二二八報導), all already wikilinked/absorbed; 點心擔 2003 主編、MFCF 合影、2021-02-28 朗誦記錄均在庫 — SKIP, nothing new absorbable; 盧美惠同名 HOLD 維持。
 - 個人 TAH 記錄見 [[works/taiwaneseamericanhistory-org/whos-who-1699-mei-lu|TAH #1699. Mei Lu 陳香梅]]。corpus 再驗證（2026-09-21 slice 09210317-26；2026-09-22 slice 09212352-32）：works+articles 命中僅 ourjourneys154、ourjourneys33（中英）、本身記錄頁、及已引用之 TJJ 二二八紀念報導，無新事實；英文版合影 "Matthias & Mei Lu (盧志華/美惠)" 經核為盧美惠而非陳香梅，與上方 HOLD 一致，不併入。
 - Corpus re-check 2026-09-25 (deepen-x slice 09240700-4): re-grep (陳香梅 / Mei Lu) — identical hit set (ourjourneys154、ourjourneys33 中英、#1699 記錄頁、index、TJJ 二二八報導), all already wikilinked/absorbed — verified-saturated SKIP；盧美惠同名 HOLD 維持。
+- Corpus re-check 2026-09-26 (deepen-x slice 09250900-15): re-grep (陳香梅 / Mei Lu) — identical hit set (ourjourneys154、ourjourneys33 中英、#1699 記錄頁、index、TJJ 二二八報導), all already wikilinked/absorbed — verified-saturated SKIP；盧美惠同名 HOLD 維持。
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
