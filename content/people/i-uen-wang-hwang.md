@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # I-Uen Wang Hwang (王怡雯)
 
@@ -38,6 +38,7 @@ No further community/corpus material found in the memoir corpus beyond these rec
 - Corpus re-grep 2026-09-23 (slice 09221000-25): hits re-confirmed = the two linked encyclopedia records (#59, #232) only; no memoir/article coverage anywhere. Verified saturated. SKIP.
 - Corpus re-grep 2026-09-24 (slice 09230800-30): identical hit set (#59, #232, works/index) — both already linked above. SKIP.
 - Corpus re-grep 2026-09-25 (slice 09240800-28): identical hit set (#59, #232, works/index) — both already linked above. SKIP.
+- Corpus re-grep 2026-09-26 (slice 09251400-15): identical hit set (#59, #232, works/index) — both already linked above. Verified saturated. SKIP.
 
 ## Family
 
