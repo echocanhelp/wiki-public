@@ -45,6 +45,7 @@ last_reviewed: 2026-09-25
 - HOLD: TAH's own records spell her given name three ways across entries — Whe-Lan / Whelan / Whenlan; left unmerged pending owner-confirmed spelling.
 - Corpus re-grep 2026-09-24 (slice 09230400-25): hit set unchanged — same absorbed set (78, 296 ZH+EN, 1535, Pew statement "Whelan and John Detrick, East Bay Taiwanese Association", works index); nothing new absorbable. SKIP: page saturated; three-spelling HOLD stands.
 - Corpus re-grep 2026-09-25 (slice 09240500-22): hit set unchanged — same absorbed set (78, 296 ZH+EN, 1535, Pew statement, works index); nothing new absorbable. SKIP: page saturated; three-spelling HOLD (Whe-Lan / Whelan / Whenlan) stands.
+- Corpus re-grep 2026-09-25 (slice 09250800-22): hit set unchanged — same absorbed set (78, 296 ZH+EN, 1535, Pew statement "Whelan and John Detrick, East Bay Taiwanese Association", works index); nothing new absorbable. SKIP: page saturated; three-spelling HOLD (Whe-Lan / Whelan / Whenlan) stands.
 
 ## Sources
 - [TAH #78 encyclopedia: 78. Collection of Whenlan Detrick 迪惠蘭](https://taiwaneseamericanhistory.org/78-collection-of-whenlan-detrick/)

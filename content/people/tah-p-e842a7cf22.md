@@ -59,3 +59,4 @@ _No filled family fields on the TAH profile._
 - Re-grep 2026-09-24 (slice 09230500-29): re-confirmed saturated — 楊金文 hits = own TAH #754 record + [[works/taiwaneseamericanhistory-org/ourjourneys155|OurJourneys 155]] subject/related-page mentions only; nothing new absorbable.
 
 - Re-grep 2026-09-25 (slice 09240500-21): re-confirmed saturated — hits = own TAH #754 record + already-absorbed [[works/taiwaneseamericanhistory-org/ourjourneys155|OurJourneys 155]] + index; nothing new absorbable.
+- Re-grep 2026-09-25 (slice 09250800-22): re-confirmed saturated — hits = own TAH #754 record + already-absorbed [[works/taiwaneseamericanhistory-org/ourjourneys155|OurJourneys 155]] (主持人/大會總幹事 role already absorbed above) + index; nothing new absorbable.

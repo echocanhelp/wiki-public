@@ -39,6 +39,7 @@ last_reviewed: 2026-09-25
 - Corpus re-grep 2026-09-23 (slice 09221000-17, 王幸男 + Sing-Nan Wang): hit set (photo-albums-activities-107, ourjourneys315, ourjourneys123/-eng, mystories407, ourjourneys223) already fully absorbed above; no new corpus facts — verified-saturated.
 - Re-grep 2026-09-24 (slice 09230500-29): fresh grep returns own TAH #851 record + index only; hit set unchanged, all prior memoir links intact. Verified-saturated, SKIP-with-reason.
 - Re-grep 2026-09-25 (slice 09240500-22, 王幸男 + Sing-Nan Wang): hit set (photo-albums-activities-107, ourjourneys315, ourjourneys123/-eng, mystories407, ourjourneys223) already fully absorbed above; no new corpus facts. Verified-saturated, SKIP-with-reason.
+- Re-grep 2026-09-25 (slice 09250800-22, 王幸男 + Sing-Nan Wang): hit set identical (photo-albums-activities-107, ourjourneys315, ourjourneys123/-eng, mystories407, ourjourneys223); all prior memoir links intact, nothing new absorbable. Verified-saturated, SKIP-with-reason.
 
 ## Family
 
