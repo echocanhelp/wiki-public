@@ -43,6 +43,7 @@ last_reviewed: 2026-09-25
 - Corpus re-grep 2026-09-23 (slice 09221000-9): SKIP — hit set unchanged (own TAH #2071, works index, son 陳仁宜's 2021 TJJ interview archive, already linked); no additional memoir material, nothing new to absorb.
 - Corpus re-grep 2026-09-24 (slice 09230500-20): SKIP — hit set unchanged (own TAH #2071, works index, son's already-linked 2021 interview); recalled passages (Ohio courtship, 北卡 medical training, Rowland Heights, 陳世榮) all already absorbed; verified saturated.
 - Corpus re-grep 2026-09-25 (slice 09240500-14): SKIP — fresh ZH+EN grep returns the identical saturated hit set (own TAH #2071, works index, son 陳仁宜's already-linked 2021 TJJ 轉載專訪); no new memoir material; verified saturated.
+- Corpus re-grep 2026-09-25 (slice 09250900-1): SKIP — fresh ZH+EN grep returns the identical saturated hit set (own TAH #2071, works index, son's already-linked 2021 TJJ 轉載專訪); no new memoir material; verified saturated.
 
 ## Sources
 - [TAH #2071 encyclopedia: 2071. CHUNG-LIEN Chen 陳崇廉 / 03/2018](https://taiwaneseamericanhistory.org/whoswho2071/)
