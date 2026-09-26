@@ -32,6 +32,8 @@ The Taiwanese American Organization (TAO) at the University of Southern Californ
 
 > Deepen pass 2026-09-25 (slice 09240600-20): SKIP — re-confirmed saturated; hit files (ourjourneys65-eng, ourjourneys303, choral festival, 7-t-shirts, concerts26, photo-albums) contain no TAO-at-USC passage. Nothing absorbable.
 
+> Deepen pass 2026-09-26 (slice 09250900-17): SKIP — fresh grep (usctao / 'TAO at USC' / 南加大.*TAO) across content/works + content/articles returned ZERO files. Verified-saturated; nothing absorbable.
+
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-american-organization-at-the-university-of-southern-california/)
 

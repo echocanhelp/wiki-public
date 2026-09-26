@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Taiwanese Student Association at the University of Virginia
 
@@ -35,3 +35,4 @@ The Taiwanese Student Association at the University of Virginia (TSA at UVA) is 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- Corpus re-checked 2026-09-26 (DEEPEN-X slice 09250900-10): hit-set unchanged; the UVA hits outside the absorbed set ([[works/taiwaneseamericanhistory-org/ourjourneys74|周医师memoir]] / [[works/taiwaneseamericanhistory-org/ourjourneys176|orthopedics-residency memoir]]) concern UVA orthopedics residency, not TSA activity. No new facts; verified-saturated.

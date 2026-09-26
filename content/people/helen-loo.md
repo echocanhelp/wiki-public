@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Helen Loo (翁進治)
 
@@ -68,3 +68,4 @@ Accomplishment
 - 2026-09-23 deepen-x slice 09221300-26: re-verified saturated — fresh grep against works/ + articles/ returns the same 5 files, all already wikilinked above (TAH #1733, OJ #260, index, TJJ 報導 ×2); no new absorbable facts.
 - 2026-09-24 deepen-x slice 09230800-5: re-verified saturated — fresh grep (翁進治/Helen Loo) returns the identical 5-file hit set, all already wikilinked and absorbed above; SKIP, nothing new absorbable, no conflicts to HOLD.
 - 2026-09-25 deepen-x slice 09240700-3: re-verified saturated — fresh grep (翁進治/Helen Loo) returns the identical 5-file hit set, all wikilinked above; SKIP, nothing new absorbable.
+- 2026-09-26 deepen-x slice 09250900-10: re-verified saturated — fresh grep (翁進治/Helen Loo) returns the identical 5-file hit set (TAH #1733, ourjourneys260, index, TJJ報導×2), all wikilinked and absorbed above; SKIP, nothing new absorbable, no conflicts to HOLD.

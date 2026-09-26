@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # 〈TASS-EB〉 (北加州東灣台美人長樂會)
 
@@ -42,3 +42,4 @@ The corpus preserves TASS-EB's own publishing output — member-authored 台美�
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - 2026-09-25 deepen-x slice 09240600-23: SKIP — fresh grep (TASS-EB／東灣台美人長樂會) returns the same six linked records (directory profile, newsletter, 1348/1349/1350/1359); verified saturated, no new East Bay facts.
+- 2026-09-26 deepen-x slice 09250900-22: SKIP confirmed — fresh grep (TASS-EB／東灣台美人長樂會) returns the identical six records (directory profile, newsletter, 1348/1349/1350/1359), all already linked; verified saturated, no new East Bay facts.

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Cheng-yan Kao (高成炎)
 
@@ -59,6 +59,8 @@ last_reviewed: 2026-09-25
 ## From the record
 
 - 複核（TJJ-A09240800-9, 2026-09-25）：本 slice 文章 d6441ab32ea8636d 正文再驗證——高成炎出席座談並發言（陳文成差一屆學長）確認見於正文，連結為真，無錯鏈、無虛鏈；2021-09-25 條目（含該文 wikilink）已在庫 — SKIP，無新材料。
+
+- 語料複核（DEEPEN-X slice 09250900-12, 2026-09-26）：fresh ZH+EN grep（高成炎／Cheng-yan Kao）命中集不變（ourjourneys106/101/96、617 文、415 條目、TJJ 向心案彙整、陳文成 40 週年報導），全數已收錄；HOLD（NASA vs GE 任職）維持 — SKIP-with-reason。
 
 - 2019-11-26 — 就向心案接受「新台灣加油」獨家火線還原訪問（[[articles/taiwanjustice-net/2023/20230129193853_tag_向心_7e8cf69e7888f7e7|TJJ 向心案彙整]]）。
 - 2021-09-25 — 出席台大陳文成事件 40 週年紀念座談會並發言：作為陳文成差一屆的學長，過去因難過屢缺席紀念活動，此次站出來盼望釐清真相（[[articles/taiwanjustice-net/2021/20211023211116_2021_09_25_陳文成事件-人權醫師陳永興盼儘速釐清真相_d6441ab32ea8636d|TJJ/CNA, 2021-09-25]]）。

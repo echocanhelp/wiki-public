@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # University of North Carolina at Chapel Hill Taiwanese Student Association
 
@@ -34,3 +34,4 @@ The University of North Carolina at Chapel Hill Taiwanese Student Association (U
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- 2026-09-26 deepen-x slice 09250900-10: SKIP — ninth grep (UNC TSA / Chapel Hill /教堂山): zero corpus files name the club; Chapel Hill hits are geographic only (NCTA triangle-area memoir, NATPA li-ying-yuan obituary noting his UNC Chapel Hill PhD, COVID-19溯源 TJJ article noting Ralph Baric at UNC Chapel Hill). Nothing absorbable about this club without inventing biography.
