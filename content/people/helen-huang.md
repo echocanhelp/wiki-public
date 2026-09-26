@@ -50,3 +50,5 @@ _No filled family fields on the TAH profile._
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 > SKIP-note (deepen-x slice 09240400-3, 2026-09-25): fresh ZH+EN re-grep — hits again exactly TAH #232/#482 + the two TJJ 2025 records + index/manifest listings; no new mention. Two-person HOLD（鋼琴家 vs 洛杉磯郡法官）stands. SKIP: verified-saturated.
+
+> SKIP-note (deepen-x slice 09250700-22, 2026-09-25): fresh ZH+EN re-grep — hits again exactly TAH #232/#482 + the two TJJ 2025 records + index/manifest; no new mention. Two-person HOLD（鋼琴家 vs 洛杉磯郡法官）stands. SKIP: verified-saturated.

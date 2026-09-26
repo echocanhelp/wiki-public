@@ -57,3 +57,4 @@ _No filled family fields on the TAH profile._
 - Re-verified 2026-09-24 (slice 09230400-11): fresh ZH+EN re-grep; hit set identical (ourjourneys186/231/107 + -eng copies + story 346 + 597). 無新語料。SKIP: verified-saturated.
 
 slice 09240317-23 re-grep (2026-09-25): fresh ZH+EN corpus grep; hit set identical to links already absorbed above — no new absorbable facts. SKIP: verified-saturated.
+- Re-verified 2026-09-25 (deepen-x slice 09250700-24): fresh ZH+EN corpus re-grep returned the identical hit set already absorbed and wikilinked above — no new community facts, no conflicts. SKIP: verified-saturated.

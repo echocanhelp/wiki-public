@@ -42,3 +42,5 @@ last_reviewed: 2026-09-25
 - [[organizations/taiwanjustice-net||taiwanjustice.net (台灣公義網)]]
 - [[articles/taiwanjustice-net/index||taiwanjustice.net Article Archive]]
 - [[people/freeman-huang||Freeman Huang (黃樹人)]]
+- Re-grep 2026-09-25 (slice 09250700-22): identical picture — 0 hits in `content/works`; `content/articles` hits remain taiwanjustice.net reportage/tag indexes (e.g. 2026-01-20 tag_藍白合作, tag_代理主席). No diaspora community facts absorbable; SKIP-content stands.
+
