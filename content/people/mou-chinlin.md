@@ -51,6 +51,8 @@ Re-verified 2026-09-22 (slices 09210600-14, 09220400-12), 2026-09-23 (slice 0922
 - 覆核（TJJ-A09171100-2, 2026-09-24）：本 slice 文章 299c00bb18030b81（懷念彭昕醫師） 主體連結對照正文再驗證——連結為真實提及（無錯鏈、無虛鏈），對應日期事實條目（含該文 wikilink）已在庫 — SKIP，無新材料。
 - 2021-09-23 — Identified in 楊遠薰's memoir as president of the NJ Living Well Club: he invited her to give five online lectures during COVID-19 (2020-2021, the first in July 2020 on 提倡台美文化), worried about host 彭昕's time-zone burden, and sent the community the news of 彭昕's sudden death ([[articles/taiwanjustice-net/2024/20240302024930_root_299c00bb18030b81|TJJ memo, 2021-09-23]] · [[articles/taiwanjustice-net/2021/20211020131319_2021_09_23_懷念彭昕醫師-_-楊遠薰_6763e8f4ad9bcb7c|2021 archive]] · [[articles/taiwanjustice-net/2025/20250323073306_懷念彭昕醫師-_-楊遠薰_80e2a87a17215263|2025 archive]]).
 
+- 覆核（TJJ-A09251000-1, 2026-09-26）：本 slice 文章 299c00bb（楊遠薰懷念彭昕醫師）正文再驗證——林茂清以紐澤西生活充實俱樂部會長、邀楊五度線上演講記述確認見於正文（無錯鏈、無虛鏈）；含該文 wikilink 的條目已在庫 — SKIP，無新材料。
+
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

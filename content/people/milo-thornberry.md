@@ -77,3 +77,5 @@ last_reviewed: 2026-09-25
 - 2017-03-12 — Second TJJ copy of the memorial, appended with 鄭世璋's 新使者 essay: during the house arrest Rev. Roland Van Es (萬益士) took a train from Tainan to stand silently outside the surrounded missionary residence in solidarity; State Dept China-affairs officer Thomas P. Shoesmith's 1971-03-09 cable to Oscar Armstrong mocked the Taiwan-watching missionaries as a group of self-styled 'fireproof moths'; memorial held 2017-03-18 at Bend United Methodist Church, Oregon ([[articles/taiwanjustice-net/2022/20220517051352_2017_03_12_撲火飛蛾_fireproof-moth作者美國宣教師唐培禮_milo-thornberry_5d471dbe6e4efbde|TJJ, 2017-03-12]]).
 
 <!-- TJJ-A09250700-1: verified 2026-09-26 — subject links in slice 09250700-1 articles (c4d413fd / 8c205697 / 8842b0e0 / e041055e) confirmed real vs 正文; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+- 覆核（TJJ-A09251000-1, 2026-09-26）：本 slice 文章 5d471dbe（唐培禮訃聞 2017-03-12）——本頁為訃聞主角：2017-03-08 於奧瑞岡州逝世、1971年被驅逐、協助彭明敏1970年逃亡等記述確認見於正文（無錯鏈、無虛鏈）；含該文 wikilink 的條目已在庫 — SKIP，無新材料。

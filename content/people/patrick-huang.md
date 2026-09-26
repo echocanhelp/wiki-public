@@ -76,3 +76,5 @@ Accomplishment
 - 覆核（TJJ-A09171100-2, 2026-09-24）：本 slice 文章 e3440fec3eed8107（籌謀不流血革命） 主體連結對照正文再驗證——連結為真實提及（無錯鏈、無虛鏈），對應日期事實條目（含該文 wikilink）已在庫 — SKIP，無新材料。
 - 1983 — 陳昭南's memoir records Huang as one of the WUFI members (with 洪哲勝、田台仁、康泰山) who quit the alliance over the disputed chair election and co-founded the 台灣革命黨, serving as 中央委員 ([[articles/taiwanjustice-net/2022/20220519131411_2022_05_09_籌謀台灣_不流血革命_的獻策高手原來是他-_-陳_e3440fec3eed8107|TJJ column, 2022-05-09]]).
 - 2014-08-07 — TJJ「梅心怡」標籤頁收錄〈台美人台加人：全美台灣人權協會（FAHR）為梅心怡募款〉，黃再添為報導作者 —— [[articles/taiwanjustice-net/2024/20240724005830_root_5b7741741c30e771|TJJ tag page，2024-07-24 快照]]。
+
+- 覆核（TJJ-A09251000-1, 2026-09-26）：本 slice 文章 e3440fec（陳昭南不流血革命）正文再驗證——黃再添以1983 WUFI路線爭議出走、革命黨中央委員記述確認見於正文（無錯鏈、無虛鏈）；含該文 wikilink 的條目已在庫 — SKIP，無新材料。

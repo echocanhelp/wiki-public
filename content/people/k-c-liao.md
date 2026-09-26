@@ -60,6 +60,8 @@ last_reviewed: 2026-09-25
 - 覆核（TJJ-A09171100-2, 2026-09-24）：本 slice 文章 299c00bb18030b81（懷念彭昕醫師） 主體連結對照正文再驗證——連結為真實提及（無錯鏈、無虛鏈），對應日期事實條目（含該文 wikilink）已在庫 — SKIP，無新材料。
 - 2021-09-23 — In 楊遠薰's memoir of 彭昕醫師 (TJJ), Liao — described as her father's lifelong friend who became a 美東台派大老 long sponsoring [[people/prof-ming-min-peng|彭明敏]] and other Taiwan-democracy veterans — has his 2014 New York memorial service recalled as the place 彭昕 first saw the author ([[articles/taiwanjustice-net/2024/20240302024930_root_299c00bb18030b81|TJJ memo, 2021-09-23]] · [[articles/taiwanjustice-net/2021/20211020131319_2021_09_23_懷念彭昕醫師-_-楊遠薰_6763e8f4ad9bcb7c|2021 archive]] · [[articles/taiwanjustice-net/2025/20250323073306_懷念彭昕醫師-_-楊遠薰_80e2a87a17215263|2025 archive]]) — note this memorial post-dates the TAH profile death year 「-2005」; HOLD, not corrected here.
 
+- 覆核（TJJ-A09251000-1, 2026-09-26）：本 slice 文章 299c00bb（楊遠薰懷念彭昕醫師 2021-09-23）正文再驗證——廖國仲以2014紐約追思會、美東台派大老長期贊助彭明敏記述確認見於正文（無錯鏈、無虛鏈）；含該文 wikilink 的條目已在庫 — SKIP，無新材料。
+
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

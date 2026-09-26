@@ -39,6 +39,8 @@ _No filled family fields on the TAH profile._
 - 覆核（TJJ-A09171100-2, 2026-09-24）：本 slice 文章 e3440fec3eed8107（籌謀不流血革命） 主體連結對照正文再驗證——連結為真實提及（無錯鏈、無虛鏈），對應日期事實條目（含該文 wikilink）已在庫 — SKIP，無新材料。
 - 1983 — 陳昭南's memoir records 洪哲勝 as a lead figure in the WUFI chair-election dispute: with 田台仁、黃再添、康泰山 he quit the alliance over the contested, opaque chair election, and together with the LA 美麗島週報社 circle (許信良、陳昭南 et al.) co-founded the more radical 台灣革命黨 with 洪哲勝 as 總書記; the memoir was written on the occasion of the commemorative volume《鮭台–1986-05-01 鮭潮回台破黨禁》honoring his lifelong 台一 struggle ([[articles/taiwanjustice-net/2022/20220519131411_2022_05_09_籌謀台灣_不流血革命_的獻策高手原來是他-_-陳_e3440fec3eed8107|TJJ column, 2022-05-09]]).
 
+- 覆核（TJJ-A09251000-1, 2026-09-26）：本 slice 文章 e3440fec（陳昭南不流血革命）正文再驗證——洪哲勝以台灣革命黨總書記、WUFI出走、《鮭台》紀念對象記述確認見於正文（無錯鏈、無虛鏈）；含該文 wikilink 的條目已在庫 — SKIP，無新材料。
+
 ## Role in the Community
 
 - **《台灣公論報》(Taiwan Tribune) 社長兼總編輯** — 報社自 1981-07-15 運作，第一期於 1981-07-31 出刊；發行人羅福全。所有文稿先經洪哲勝審閱，他同時撰寫社論；其太太擔任打字人員之一。社內四名編輯、兩名打字員，靠同鄉會活動募款支撐開銷（memoir: [[works/taiwaneseamericanhistory-org/ourjourneys49|Our Journeys 49]]、[[works/taiwaneseamericanhistory-org/our-journeys-381|Our Journeys 381]]）。

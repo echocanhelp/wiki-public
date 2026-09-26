@@ -37,6 +37,8 @@ last_reviewed: 2026-09-24
 - 1989 — 陳昭南's memoir identifies 許信良 as the 「獻策高手」: when a well-known KMT envoy flew to Los Angeles that year and told reporters his mission was to meet 許信良, the two met (at the home of the envoy's friend Acadia, with one witness present) and 許信良 — first confirming the talk would reach 李總統「不會多一個字，也不會少一個字」— laid out the bloodless-revolution path: 聯合次要敵人打擊主要敵人、做大民進黨使李總統在國民黨內更安全、終極目標還政於民; the memoir also records him as co-founder of 美國美麗島週報社 and 副總書記 of the 台灣革命黨 under 洪哲勝's 總書記 ([[articles/taiwanjustice-net/2022/20220519131411_2022_05_09_籌謀台灣_不流血革命_的獻策高手原來是他-_-陳_e3440fec3eed8107|TJJ column, 2022-05-09]]).
 - 1995 — Named in the same memoir's appended account as the DPP's presidential nominee who lost the 1996 general election to 李登輝 after a fiercely contested intra-party primary against 彭明敏 ([[articles/taiwanjustice-net/2022/20220519131411_2022_05_09_籌謀台灣_不流血革命_的獻策高手原來是他-_-陳_e3440fec3eed8107|TJJ column, 2022-05-09]]).
 
+- 覆核（TJJ-A09251000-1, 2026-09-26）：本 slice 文章 e3440fec（陳昭南不流血革命 2022-05-09）正文再驗證——許信良以「獻策高手」（1989洛城會國民黨人士建議聯合次敵打擊主敵）、美島週報社與台灣革命黨副總書記記述確認見於正文（無錯鏈、無虛鏈）；對應條目（含該文 wikilink）已在庫 — SKIP，無新材料。
+
 ## Overseas movement record (TAH corpus)
 
 - 1979-06-30 — At the 世臺會 (World Taiwanese Association) convention in Seattle, news of 許信良's 停職案 arrived and the convention strongly condemned KMT dictatorship; after the 美麗島事件 many 世臺會 cadres were blacklisted (何義麟's Bay Area study, [[works/taiwaneseamericanhistory-org/our-journeys-357|357. 舊金山灣區臺灣人的社團活動與家國意識之形成]]).

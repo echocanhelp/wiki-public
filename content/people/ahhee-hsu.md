@@ -97,6 +97,8 @@ Accomplishment
 
 - 2011-10-30 — TJJ「台美人台加人」存檔列表頁記錄影音上傳「許丕龍與許景淳父女_傳陽雜誌30週年(abt.2008)演唱會片段」，見證父女同台於傳揚（傳陽）雜誌30週年演唱會（[[articles/taiwanjustice-net/2024/20240718233434_root_2fa1c26a7ca674e2|TJJ 存檔頁, 2024-07-18 快照]]）。
 
+- 覆核（TJJ-A09251000-1, 2026-09-26）：本 slice 文章 e3440fec（陳昭南不流血革命）正文再驗證——許丕龍以洛城在地創團成員名單記述確認見於正文（無錯鏈、無虛鏈）；含該文 wikilink 的條目已在庫 — SKIP，無新材料。
+
 ## Sources
 - [TAH #2267 encyclopedia: 2267. Ahhee Hsu 許丕龍](https://taiwaneseamericanhistory.org/whos-who-2267-ahhee-hsu/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/ahhee-hsu/)

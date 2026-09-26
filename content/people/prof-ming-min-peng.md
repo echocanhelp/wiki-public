@@ -127,3 +127,5 @@ _No filled family fields on the TAH profile._
 <!-- TJJ-A09250800-1: verified 2026-09-26 — 本 slice 4 篇（楊遠薰《卓甫良與TAF的故事》兩存檔 e7aad53f／b4206bcf；獨傲村夫〈反攻大陸（下）〉兩存檔 dd1007a6／35d25fb4）正文再驗證——subject 連結為真實提及（無錯鏈、無虛鏈）；含該文 wikilink 的日期事實條目已在庫 — saturated, no new material. -->
 
 <!-- TJJ-A09250800-4: verified 2026-09-26 — subject links in slice 09250800-4 articles (6f2b431c / 08b82976 / 1a2bdc08 / 53455d7e) re-checked vs 正文; all real (1a2bdc08 Subjects links fixed: stray .md suffix removed); dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+- 覆核（TJJ-A09251000-1, 2026-09-26）：本 slice 4 篇 TJJ 文章（9a39a754 吳澧培回憶錄前言、5d471dbe 唐培禮訃聞、e3440fec 陳昭南不流血革命、299c00bb 懷念彭昕醫師）正文再驗證——彭明敏以台獨行動黨發起人、1970年逃亡蒙唐培禮協助、1995民進黨總統候選人、彭昕之叔等記述逐一確認見於正文（無錯鏈、無虛鏈）；各文含 wikilink 的日期事實條目均已在庫 — SKIP，無新材料。

@@ -72,3 +72,5 @@ last_reviewed: 2026-09-25
 複核（deepen-x slice 09181500-3, 2026-09-20）：re-grep 命中 publications1201、mystories632、ourjourneys-138、our-journeys-357、ourjourneys81、ourjourneys62-eng——全部已吸收進上方「From the record」並 wikilink；語料飽和，無新材料。wife-vs-晴美 HOLD 仍有效。
 
 複核（deepen-x slice 09201300-1, 2026-09-21）：re-grep 命中集合不變（publications1201、mystories632、ourjourneys-138、our-journeys-357、ourjourneys81、ourjourneys62-eng）——全部已吸收並 wikilink；語料飽和，無新材料。wife-vs-晴美 HOLD 仍有效。
+
+- 覆核（TJJ-A09251000-1, 2026-09-26）：本 slice 文章 e3440fec（陳昭南不流血革命）正文再驗證——鄭自才以田台仁附信（2022-03-03）記1975歐台會初見面名單記述確認見於正文（無錯鏈、無虛鏈）；含該文 wikilink 的條目已在庫 — SKIP，無新材料。
