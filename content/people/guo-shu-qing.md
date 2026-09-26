@@ -51,3 +51,4 @@ Guo Shu-qing married 廖述宗 in 1960 after her mother-in-law 林瓊仙 (Lin Qi
 - Corpus re-grep 2026-09-22 (slice 09212352-4): hit set fully linked, no new absorbable material.
 - Corpus re-grep 2026-09-24 (slice 09230500-15): hit set identical to previously absorbed records; no new corpus material; verified saturated.
 - Corpus re-grep 2026-09-25 (slice 09240500-13): SKIP — fresh ZH+EN grep returns only her own TAH #478 entry + works index (already linked above); no new corpus material; verified saturated.
+- Corpus re-grep 2026-09-25 (slice 09250800-10): SKIP — fresh ZH+EN grep of works+articles returns only her own TAH #478 entry + works index; hit set identical, no new corpus material; verified saturated.
