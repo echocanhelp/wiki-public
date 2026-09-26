@@ -73,3 +73,5 @@ Accomplishment
 - 2024-06-08 — Second TJJ copy of the CNA report (中央社記者沈如峰) on the 慈林教育基金會联展（至年底）: the exhibition also covers 彭明敏's 1964 「台灣人民自救運動宣言」 arrest and the 1970 「X計畫」 escape aided by 宗像隆幸's forged Japanese passport ([[articles/taiwanjustice-net/2024/20240622115321_root_2a0ba680f2b8720a|TJJ, 2024-06-08]]).
 <!-- TJJ-A09240800-10: verified 2026-09-25 — subject links in slice 09240800-10 articles confirmed real; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 <!-- TJJ-A09240800-12: verified 2026-09-25 — subject links in slice 09240800-12 articles confirmed real; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A09251400-8: verified 2026-09-26 — subject link in slice article 2a0ba680f2b8720a（海內外人權救援聯展, 2024-06-08）confirmed real vs 正文（台灣之音1977夫妻/彭明敏X計畫）; dated fact w/ article wikilink already in From the record — saturated, no new material. -->

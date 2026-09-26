@@ -87,3 +87,5 @@ last_reviewed: 2026-09-23
 <!-- TJJ-A09240800-12: verified 2026-09-25 — subject links in slice 09240800-12 articles confirmed real; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 - 連結複核（TJJ-A09251300-4, 2026-09-26）：本 slice 四篇 TJJ 文章（6d9cd937 台灣入WHO論壇公告／accbf8ee 劉雲平AZ疫苗信函／bff4c711 祝賀蕭美琴履任／ad7f737b 第55回世界臺灣文化論壇）subject 連結逐一正文再驗證——本頁人物確認見於正文，連結為真，無錯鏈、無虛鏈；對應日期事實條目（含該文 wikilink）已在庫 — SKIP，已飽和。
 
+
+<!-- TJJ-A09251400-8: verified 2026-09-26 — subject link in slice article 52a71221d3029866（台文通訊30週年慶祝會ONLINE, 2021-06-29）confirmed real vs 正文（特別來賓名單）; dated fact w/ article wikilink already in From the record — saturated, no new material. -->

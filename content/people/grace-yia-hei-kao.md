@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Grace Yia-Hei Kao
 
@@ -54,3 +54,4 @@ _No filled family fields on the TAH profile._
 <!-- deepen-x slice 09221500-12 re-grep 2026-09-23: fresh grep (Grace Kao/Yia-Hei) in works+articles returns only the two already-linked records (802, Guest Post 'Passing' for White) + index rows; no new absorbable corpus material — verified saturated, SKIP content-deepen. -->
 <!-- deepen-x slice 09230900-11 re-grep 2026-09-24: hit set unchanged (802, Guest Post 'Passing' for White, index). Verified-saturated. -->
 <!-- deepen-x slice 09240900-11 re-grep 2026-09-25: hit set unchanged (802, Guest Post 'Passing' for White, index). Verified-saturated. -->
+<!-- deepen-x slice 09251417-5 re-grep 2026-09-26: fresh grep of works+articles — hit set unchanged (own records + index only); no new absorbable corpus material. Verified-saturated; SKIP content-deepen. -->

@@ -131,3 +131,5 @@ _No filled family fields on the TAH profile._
 <!-- TJJ-A09250800-4: verified 2026-09-26 — subject links in slice 09250800-4 articles (6f2b431c / 08b82976 / 1a2bdc08 / 53455d7e) re-checked vs 正文; all real (1a2bdc08 Subjects links fixed: stray .md suffix removed); dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 - 覆核（TJJ-A09251000-1, 2026-09-26）：本 slice 4 篇 TJJ 文章（9a39a754 吳澧培回憶錄前言、5d471dbe 唐培禮訃聞、e3440fec 陳昭南不流血革命、299c00bb 懷念彭昕醫師）正文再驗證——彭明敏以台獨行動黨發起人、1970年逃亡蒙唐培禮協助、1995民進黨總統候選人、彭昕之叔等記述逐一確認見於正文（無錯鏈、無虛鏈）；各文含 wikilink 的日期事實條目均已在庫 — SKIP，無新材料。
+
+<!-- TJJ-A09251400-8: verified 2026-09-26 — subject link in slice article 2a0ba680f2b8720a（海內外人權救援聯展, 2024-06-08）confirmed real vs 正文（台灣之音1977夫妻/彭明敏X計畫）; dated fact w/ article wikilink already in From the record — saturated, no new material. -->

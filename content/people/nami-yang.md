@@ -111,3 +111,5 @@ Her own writings/records additionally held in the vault (existing pages, no new 
 - [[works/taiwaneseamericanhistory-org/footsteps-27|TAH footsteps #27: Interview artist at latwtvfinearts by Nami Yang / 2019]] — artist interview from her 千楓藝術台 program
 - She is also credited as author in [[works/taiwaneseamericanhistory-org/ourjourneys231|TAH ourjourneys #231]] (07/2016).
 <!-- TJJ-A09240800-12: verified 2026-09-25 — subject links in slice 09240800-12 articles confirmed real; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A09251400-8: verified 2026-09-26 — subject link in slice article c76f11ecd2598ecb（2017台美文藝出版, 2017-06-11）confirmed real vs 正文（筆會第二代作家名單/編委名單）; dated fact w/ article wikilink already in From the record — saturated, no new material. -->

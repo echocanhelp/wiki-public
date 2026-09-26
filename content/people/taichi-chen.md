@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Taichi Chen (陳太一)
 
@@ -51,3 +51,4 @@ Both corpus records are bibliographic only (full text in the TAH vault); the Min
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 ## Corpus re-check (2026-09-15 → 2026-09-24)
 Re-grep 陳太一|Taichi Chen returned only the two already-cited records (#131/#10168, #244/#10162) plus the works index — bibliographic stubs already wikilinked in Role in the Community; full text stays in the TAH vault. 历次 deepen-x re-checks（0916→09240900-6）命中集均不變 — saturated，SKIP-with-reason：無新社群事蹟可吸收，無需 HOLD。（taiwanjustice 命中屬另一人陳泰山，非陳太一，勿誤配。）
+<!-- deepen-x slice 09251417-5 re-grep 2026-09-26: fresh grep of works+articles — hit set unchanged (own records + index only); no new absorbable corpus material. Verified-saturated; SKIP content-deepen. -->

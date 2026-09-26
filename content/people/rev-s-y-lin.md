@@ -69,3 +69,5 @@ last_reviewed: 2026-09-25
 - Re-verified 2026-09-21: corpus re-grep matches only the two records already linked (own encyclopedia entry TAH #1696; the 台文通訊30週年 TJJ announcement naming him as 李江卻台語文教基金會創辦人) plus index listings; daughter 林珊宇 surfaces only via her own adjacent entry #1695. Nothing further absorbable (saturated).
 <!-- TJJ-A09240800-12: verified 2026-09-25 — subject links in slice 09240800-12 articles confirmed real; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 - Corpus re-check (deepen-x slice 09250700-13, 2026-09-25): fresh grep works+articles, hit set identical, all already absorbed -- saturated, SKIP.
+
+<!-- TJJ-A09251400-8: verified 2026-09-26 — subject link in slice article 52a71221d3029866（台文通訊30週年慶祝會ONLINE, 2021-06-29）confirmed real vs 正文（特別來賓名單）; dated fact w/ article wikilink already in From the record — saturated, no new material. -->

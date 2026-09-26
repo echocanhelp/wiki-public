@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Fu-Te Ni (倪福德)
 
@@ -49,3 +49,4 @@ HOLD: no community/corpus material beyond the press-kit biography; no oral histo
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+<!-- deepen-x slice 09251417-5 re-grep 2026-09-26: fresh grep of works+articles — hit set unchanged (own records + index only); no new absorbable corpus material. Verified-saturated; SKIP content-deepen. -->
