@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Jeff Yang (楊致和)
 
@@ -55,3 +55,6 @@ Accomplishment
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+## Worklog
+- 2026-09-26 (deepen-x slice 09251000-15): fresh ZH+EN re-grep — hits unchanged (my-stories-694, whos-who-2266, michelle-young-the-art-spy, hudson-yang, apa-artists, to-date-or-not-to-date, index), all already linked and absorbed in Role in the Community. SKIP-content: verified-saturated.

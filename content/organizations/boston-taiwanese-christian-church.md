@@ -8,7 +8,7 @@ tags:
   - church
   - Boston
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Boston Taiwanese Christian Church (波士頓台灣基督教會)
 
@@ -39,3 +39,5 @@ Thin A-tier from [[sources/laijohn-com||laijohn.com]] biog + TAH John Lai card. 
 - [[people/john-lai||Elder John Lai 賴永祥]]
 - [[organizations/elder-john-lai-archives||賴永祥長老史料庫]]
 - 2026-09-24 (deepen-x slice 09230600-26): fresh ZH+EN re-grep of works/+articles/ — hit-set identical to material already absorbed above. SKIP-content: verified-saturated; HOLDs unchanged.
+
+- 2026-09-26 (deepen-x slice 09251000-15): fresh ZH+EN re-grep of works/+articles/ — hit-set unchanged (memoir [[works/taiwaneseamericanhistory-org/ourjourneys338|338]], 2016-05-16 chronicle, index). SKIP-content: verified-saturated; HOLD (醫師 vs 科學家 founder description) unchanged.

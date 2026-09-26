@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Prof. Shi-Shung Huang (黃錫勳教授)
 
@@ -55,3 +55,4 @@ _No filled family fields on the TAH profile._
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - 2026-09-24 (deepen-x slice 09230600-26): fresh ZH+EN re-grep of works/+articles/ — hit-set identical to material already absorbed above. SKIP-content: verified-saturated; HOLDs unchanged.
+- 2026-09-26 (deepen-x slice 09251000-15): fresh ZH+EN re-grep — hits unchanged (ourjourneys-138, 2194, 137, publications1219), all already linked and absorbed. SKIP-content: verified-saturated.
