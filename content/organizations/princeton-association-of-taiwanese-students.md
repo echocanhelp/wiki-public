@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Princeton Association of Taiwanese Students
 
@@ -25,6 +25,7 @@ The Princeton Association of Taiwanese Students (PATS; 普林斯頓台灣同學�
 - 2026-09-22 / 2026-09-23 re-checks: fresh greps for PATS / 普林斯頓台灣同學會 / Princeton Association of Taiwanese Students across content/works + content/articles return zero hits — HOLD stands, SKIP (no absorbable corpus material for this exact org name).
 
 > Re-verified 2026-09-25 (slice 09250400-26): fresh ZH+EN grep of works/articles returns zero hits — SKIP, no absorbable corpus material; HOLD vs PTASA/ITASA stands.
+> Re-verified 2026-09-26 (slice 09252123-22): fresh grep PATS / 普林斯頓台灣同學會 / full English name across works/ + articles/ returns zero hits — SKIP, HOLD stands.
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/princeton-association-of-taiwanese-students/)
