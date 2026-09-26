@@ -8,7 +8,7 @@ tags:
   - taiwanjustice
   - publication-contributor
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-26
 ---
 
 # Li Hsiao-feng / 李筱峰
@@ -11189,6 +11189,8 @@ Notable quotes and mentions of **李筱峰** in Taiwan Justice articles:
 *...and 28 more quotes*
 
 ## From the record
+
+- 複核（TJJ-A09251300-1, 2026-09-26）：本 slice 文章 da7f84e2（自救宣言59週年國史館新書發表）正文再驗證——本文列為 author 且「15字」評述確認見於正文，subject 連結為真，無錯鏈、無虛鏈；對應日期事實條目（含該文 wikilink）已在庫 — SKIP，已飽和。
 
 - 複核（TJJ-A09240800-7, 2026-09-25）：本切片相關存檔稿正文再驗證——本頁 subject 連結為真實提及（無錯鏈、無虛鏈），含該文 wikilink 的日期事實條目已在庫 — SKIP，無新材料。
 

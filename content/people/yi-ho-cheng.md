@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Yi-Ho Cheng (鄭義和)
 
@@ -61,6 +61,8 @@ From [[works/taiwaneseamericanhistory-org/ourjourneys76|TAH #76 — 全美台灣
 - **2022-10-24** — as 全美會創會會長暨彭明敏文教基金會董事長, hosted the 全美會 return-visit banquet in Taipei (with 1986 全美會會長楊黃美幸 accompanying); Vice President 賴清德 made a surprise visit. Photo record also shows current 全美會會長 陳桂鈴 ([[people/kuei-ling-chen|kuei-ling-chen]]) — [[works/taiwaneseamericanhistory-org/our-journeys-382|Our Journeys #382 — 2022年全美會回台參訪記 (2022/11)]].
 
 ## From the record
+
+- 複核（TJJ-A09251300-1, 2026-09-26）：本 slice 文章 da7f84e2（自救宣言59週年國史館新書發表）正文再驗證——以彭明敏文教基金會董事長與會致詞記述確認見於正文，subject 連結為真，無錯鏈、無虛鏈；對應日期事實條目（含該文 wikilink）已在庫 — SKIP，已飽和。
 
 - 複核（TJJ-A09240900-2, 2026-09-25）：本 slice 文章正文再驗證——本頁 subject 連結為真實提及（無錯鏈、無虛鏈），含該文 wikilink 的日期事實條目已在庫 — SKIP，無新材料。
 - 複核（TJJ-A09240800-7, 2026-09-25）：本切片相關存檔稿正文再驗證——本頁 subject 連結為真實提及（無錯鏈、無虛鏈），含該文 wikilink 的日期事實條目已在庫 — SKIP，無新材料。

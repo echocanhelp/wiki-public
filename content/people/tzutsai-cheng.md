@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Tzutsai Cheng (鄭自才)
 
@@ -46,6 +46,8 @@ last_reviewed: 2026-09-25
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 ## From the record
+
+- 複核（TJJ-A09251300-1, 2026-09-26）：本 slice 文章 24119694（鄭自才談424刺蔣案意義）正文再驗證——本人為報導主角，subject 連結為真，無錯鏈、無虛鏈；對應日期事實條目（含該文 wikilink）已在庫 — SKIP，已飽和。
 
 - 覆核（TJJ-A09250800-6, 2026-09-25）：本 slice 與 TJJ-A09230400-5／TJJ-A09171100-8 重疊，涵蓋同一組文章；正文再驗證——主體連結為真實提及（無錯鏈、無虛鏈），對應日期事實條目（含該文 wikilink）已在庫 — SKIP，無新材料。
 - 覆核（TJJ-A09240800-14, 2026-09-25）：本 slice 文章 a20fb275b89c3fb7（刺蔣案策劃者登記總統連署, 2023-09-30 快照）正文再驗證——本人為報導主角，與副手黃聖峰登記連署、台澎黨參選宣言均確認見於正文，連結為真；2023-09-18 條目（已含該文 wikilink）已在庫 — SKIP，無新材料。

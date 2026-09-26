@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-26
 ---
 # Dr. Ying-Yuan Lee (李應元博士)
 
@@ -59,6 +59,8 @@ last_reviewed: 2026-09-23
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 ## From the record
+
+- 複核（TJJ-A09251300-1, 2026-09-26）：本 slice 文章 efea1ad2（哲人日已遠：敬弔李應元博士）正文再驗證——本人為弔文主角，subject 連結為真，無錯鏈、無虛鏈；對應日期事實條目（含該文 wikilink）已在庫 — SKIP，已飽和。
 
 - 複核（TJJ-A09251000-11, 2026-09-26）：本 slice 文章 912bedafc3ae02b4（NATPA 標籤頁，2025-09-14 存檔）正文再驗證——本人為弔文〈哲人日已遠：敬弔李應元博士〉主角，確認見於正文，連結為真，無錯鏈、無虛鏈；2021-11 條目（含該頁 wikilink）已在庫 — SKIP，無新材料。
 

@@ -6,7 +6,7 @@ tags:
   - columnist
   - taiwanjustice-net
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-26
 ---
 # Ryan Hass (何瑞恩)
 
@@ -26,6 +26,8 @@ Echopedia lists this writer as a **voice in that archive** — work Taiwanese Am
 
 
 ## From the record
+
+- 複核（TJJ-A09251300-1, 2026-09-26）：本 slice 文章 3dfb23f1（前白宮官員肯定台灣新國安團隊）正文再驗證——本人專文為報導主體，subject 連結為真，無錯鏈、無虛鏈；對應日期事實條目（含該文 wikilink）已在庫 — SKIP，已飽和。
 
 - 覆核（TJJ-A09230800-5, 2026-09-24）：本 slice 文章 3dfb23f1（前白宮官員肯定台灣新國安團隊）正文再驗證——本人專文為報導主體，連結為真，無錯鏈、無虛鏈；2024-05-14 條目（含該文 wikilink）已在庫 — SKIP，無新材料。
 

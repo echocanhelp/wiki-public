@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Prof. Clark Chen (陳經宗教授)
 
@@ -64,5 +64,9 @@ _No filled family fields on the TAH profile._
 - Re-grep for 陳經宗 / Clark Chen returns only own-record [[works/taiwaneseamericanhistory-org/whos-who-1883-clark-chen|TAH #1883]] + works index. No community material. SKIP.
 
 ## Deepen-x note (2026-09-25, slice 09240800-29)
+
+- Re-grep for 陳經宗 / Clark Chen returns only own-record [[works/taiwaneseamericanhistory-org/whos-who-1883-clark-chen|TAH #1883]] + works index. No community material. SKIP.
+
+## Deepen-x note (2026-09-26, slice 09251400-11)
 
 - Re-grep for 陳經宗 / Clark Chen returns only own-record [[works/taiwaneseamericanhistory-org/whos-who-1883-clark-chen|TAH #1883]] + works index. No community material. SKIP.

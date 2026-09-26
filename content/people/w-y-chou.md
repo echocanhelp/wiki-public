@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-26
 ---
 # W. Y. Chou (周婉窈)
 
@@ -48,6 +48,8 @@ last_reviewed: 2026-09-23
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/w-y-chou/)
 
 ## From the record
+
+- 複核（TJJ-A09251300-1, 2026-09-26）：本 slice 文章 24119694（鄭自才談424刺蔣案意義）正文再驗證——本人對談及「刺蔣未遂」判斷確認見於正文，subject 連結為真，無錯鏈、無虛鏈；對應日期事實條目（含該文 wikilink）已在庫 — SKIP，已飽和。
 
 - 覆核（TJJ-A09230800-5, 2026-09-24）：本 slice 文章 24119694（鄭自才談424刺蔣案意義）正文再驗證——本人與王文宏對談及「刺蔣未遂」判斷確認見於正文，連結為真，無錯鏈、無虛鏈；2020-04-24 條目（含該文 wikilink）已在庫 — SKIP，無新材料。
 
