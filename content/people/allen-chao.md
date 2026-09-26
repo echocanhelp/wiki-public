@@ -48,3 +48,6 @@ Accomplishment
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 > Re-check (deepen-x 09231300-15, 2026-09-25): fresh ZH+EN grep of content/works + content/articles — hit set identical to prior passes (own TAH bibliographic record + works/index only). SKIP confirmed; nothing absorbable, no biography invented.
+
+
+> Re-check (deepen-x 09250600-10, 2026-09-25): fresh ZH+EN grep of content/works + content/articles — hit set identical to prior passes (own record + works/index only). SKIP confirmed; nothing new absorbable, no biography invented.

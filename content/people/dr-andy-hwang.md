@@ -34,7 +34,7 @@ Food Technology Researcher
 
 ## Role in the Community
 
-SKIP-with-reason (deepen-x slices 09201503-25 / 09211507-15 / 09231100-19, re-verified 2026-09-21, 2026-09-22, 2026-09-25): fresh grep for 黃慶安 / Andy Hwang over `works/` + `articles/` returns only this person's own TAH Who's Who mirror ([[works/taiwaneseamericanhistory-org/whos-who-2286-andy-hwang|TAH #2286: Dr. Andy Hwang 黃慶安博士]]) and `works/index.md` — no memoir or community-corpus material to absorb. Biography stays at the TAH directory facts above.
+SKIP-with-reason (deepen-x slices 09201503-25 / 09211507-15 / 09231100-19 / 09250600-5, re-verified 2026-09-21, 2026-09-22, 2026-09-25 twice): fresh grep for 黃慶安 / Andy Hwang over `works/` + `articles/` returns only this person's own TAH Who's Who mirror ([[works/taiwaneseamericanhistory-org/whos-who-2286-andy-hwang|TAH #2286: Dr. Andy Hwang 黃慶安博士]]) and `works/index.md` — no memoir or community-corpus material to absorb. Biography stays at the TAH directory facts above.
 
 ## Family
 

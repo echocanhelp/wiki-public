@@ -56,3 +56,6 @@ Source from 美洲台灣日報http://taiwandaily.net/gp2.aspx?_p=kSF1c9zU9HS21FC
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 <!-- deepen-x 09231200-18: SKIP — fresh ZH+EN grep of works/+articles/: only own TAH #2044 record; no community-authored coverage. -->
+
+
+> Re-check (deepen-x 09250600-10, 2026-09-25): fresh ZH+EN grep of content/works + content/articles — hit set identical to prior passes (own record + works/index only). SKIP confirmed; nothing new absorbable, no biography invented.

@@ -49,3 +49,5 @@ SKIP (re-verified 2026-09-25, deepen-x 09231500-1): fresh ZH+EN greps of works/ 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+> Re-check (deepen-x 09250600-11, 2026-09-25): fresh ZH+EN grep of content/works + content/articles — hit set identical to prior passes (own TAH bibliographic record + works/index only; for Victor Liu also the unrelated 紅通-family article). SKIP confirmed; nothing absorbable, no biography invented.

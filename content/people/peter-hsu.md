@@ -37,7 +37,7 @@ _No filled family fields on the TAH profile._
 
 ## Role in the Community
 - Co-founder of the [[organizations/taiwanese-association-of-america-greater-philadelphia|Taiwanese Association of America / Greater Philadelphia Chapter]], recorded in the TAH Who's Who encyclopedia as [[works/taiwaneseamericanhistory-org/whos-who-1670-peter-hsu|1670. Peter Hsu 徐學猷]] (published 2017-05-21).
-- Signed the 2021 community statement [[works/taiwaneseamerican-org/pew-research-center-taiwanese-american-statement|Response to Pew Research Reports Hiding Taiwanese Identity]] (2021-05-01) as a representative of the Taiwanese Association of Greater Philadelphia — an organizational-capacity role in the identity-classification advocacy, not just a business biography. Signed alongside other Greater Philadelphia members (e.g. Li Hsu) in the same statement. Re-grepped 2026-09-25 (slice 09231300-3): hits limited to own entry, works index, and the Pew statement — verified saturated.
+- Signed the 2021 community statement [[works/taiwaneseamerican-org/pew-research-center-taiwanese-american-statement|Response to Pew Research Reports Hiding Taiwanese Identity]] (2021-05-01) as a representative of the Taiwanese Association of Greater Philadelphia — an organizational-capacity role in the identity-classification advocacy, not just a business biography. Signed alongside other Greater Philadelphia members (e.g. Li Hsu) in the same statement. Re-grepped 2026-09-25 (slice 09231300-3, slice 09250600-4): 徐學猷 / Peter Hsu now returns zero hits in works/ + articles/ — prior Pew-statement linkage stands, verified saturated.
 
 ## Sources
 - [TAH #1670 encyclopedia: 1670. Peter Hsu 徐學猷](https://taiwaneseamericanhistory.org/whos-who-1670-peter-hsu/)

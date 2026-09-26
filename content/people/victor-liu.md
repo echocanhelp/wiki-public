@@ -51,3 +51,5 @@ last_reviewed: 2026-09-25
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 > Re-check (deepen-x 09231300-15, 2026-09-25): fresh ZH+EN grep of content/works + content/articles — hit set identical to prior passes (own TAH bibliographic record + works/index only). SKIP confirmed; nothing absorbable, no biography invented.
+
+> Re-check (deepen-x 09250600-11, 2026-09-25): fresh ZH+EN grep of content/works + content/articles — hit set identical to prior passes (own TAH bibliographic record + works/index only; for Victor Liu also the unrelated 紅通-family article). SKIP confirmed; nothing absorbable, no biography invented.

@@ -30,3 +30,6 @@ The Taiwanese Association of Middle Kentucky (中肯德基 台灣同鄉會) is a
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+
+> Re-check (deepen-x 09250600-10, 2026-09-25): fresh ZH+EN grep of content/works + content/articles — hit set identical to prior passes (own record + works/index only). SKIP confirmed; nothing new absorbable, no biography invented.

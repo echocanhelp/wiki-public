@@ -35,6 +35,7 @@ Won First Place for City Song Composition Competition in Kaohsiung, Taiwan and P
 - The musician-series record (2015-02) documents her as a pianist in the Taiwanese-American music community alongside other young performers (flutist 許義莉, violinist 李軒宇) recorded in the same series.
 - 2026-09-22 corpus re-check (slice 30): fresh grep for 洪磊螢 / Anny Hung / Anne Hung in works+articles returns no pages beyond the two TAH records already wikilinked above. No new corpus facts absorbable.
 - Re-verified 2026-09-25 (slice 09231200-12): SKIP — fresh grep returns only whoswho1227 + works index; nothing new absorbable.
+- Re-verified 2026-09-25 (slice 09250600-6): SKIP — fresh grep (洪磊螢/Anny Hung/Anne Hung) returns only whoswho1227, musician149, and works index, all already wikilinked above; nothing new absorbable.
 
 ## Family
 

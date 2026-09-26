@@ -37,6 +37,7 @@ CNN國際新聞網路駐香港亞太區總部的獲獎主播及記者 (Award-win
 - Community archival record: [[works/taiwaneseamericanhistory-org/whoswho1599|1599. Pauline Choiu 邱曼怡 / 2017/04]] (published 2017-04-09), cross-referencing [[organizations/tah-foundation|TAH Foundation]].
 - Corpus record matches the Yale / Northwestern education and NBC/CBS/CNN employment lines above; no conflicts. Era field remains '-' in the TAH profile.
 - Corpus re-verification (2026-09-25, slice 09231400-1): fresh ZH+EN greps of works/ and articles/ returned only this person's own TAH record [[works/taiwaneseamericanhistory-org/whoswho1599|TAH #1599]] and its `works/index` listing — no third-party memoir, letter, or movement mention; nothing new absorbable.
+- deepen-x recheck 2026-09-25 (slice 09250600-9): fresh grep 'Pauline Choiu|邱曼怡' matched only own record #1599 + works index; SKIP-with-reason — nothing absorbable beyond the press-kit profile.
 
 ## Family
 
