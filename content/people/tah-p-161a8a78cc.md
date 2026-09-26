@@ -6,7 +6,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # 劉青藜博士
 
@@ -26,7 +26,7 @@ last_reviewed: 2026-09-25
 
 ## Role in the Community
 
-- Community record held in the corpus as TAH encyclopedia entry #2260, published 2020-04-27: [[works/taiwaneseamericanhistory-org/whos-who-2260|2260. 劉青藜博士/04/2020]]. Corpus grep found no memoir/feature mentions beyond this bibliographic record.
+- Community record held in the corpus as TAH encyclopedia entry #2260, published 2020-04-27: [[works/taiwaneseamericanhistory-org/whos-who-2260|2260. 劉青藜博士/04/2020]]. Corpus grep (re-verified 2026-09-26) found no memoir/feature mentions beyond this bibliographic record and the works index — nothing absorbable (SKIP).
 - HOLD: conflict — listed era/birth year 1903 vs. encyclopedia entry published 2020-04-27 (would make the subject 117 at publication); not auto-merged.
 
 ## Family

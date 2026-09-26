@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Catherine Hwang (黃李彩雲)
 
@@ -32,7 +32,7 @@ last_reviewed: 2026-09-25
 
 ## Corpus records
 
-Corpus sweep (works/articles) found only the TAH encyclopedia entry itself — [[works/taiwaneseamericanhistory-org/who833-catherine-hwang|835. Catherine Hwang 黃李彩雲 /02/2016]] (2016-02-24, band B). No independent community/memoir mentions in the TAHS corpus; nothing absorbable beyond the TAH profile.
+Corpus sweep (works/articles) found only the TAH encyclopedia entry itself — [[works/taiwaneseamericanhistory-org/who833-catherine-hwang|835. Catherine Hwang 黃李彩雲 /02/2016]] (2016-02-24, band B). Re-verified 2026-09-26: fresh ZH+EN greps returned only this own record and the works index — no independent community/memoir mentions in the TAHS corpus; nothing absorbable beyond the TAH profile (SKIP).
 
 ## Sources
 - [TAH #835 encyclopedia: 835. Catherine Hwang 黃李彩雲 /02/2016](https://taiwaneseamericanhistory.org/who833-catherine-hwang/)
