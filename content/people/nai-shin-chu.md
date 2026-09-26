@@ -56,3 +56,4 @@ Related: [[organizations/irvine-taiwanese-presbyterian-church|Irvine台灣長老
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 <!-- deepen-x slice 09250317-19: re-verify 2026-09-25 — fresh grep (ZH+EN, works+articles): hit set identical to prior absorptions, all already linked in Role in the Community. Verified saturated; SKIP-no-new-facts. -->
+<!-- deepen-x slice 09251527-7: re-verify 2026-09-26 — fresh grep (朱迺欣/Nai-Shin Chu, works+articles): hit set unchanged (ourjourneys107 長青教室 lectures + TAH #626 + works index). Verified saturated; SKIP-no-new-facts. -->

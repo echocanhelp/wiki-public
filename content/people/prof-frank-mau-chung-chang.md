@@ -50,3 +50,4 @@ _No filled family fields on the TAH profile._
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 <!-- deepen-x slice 09231000-10: re-verify 2026-09-25 — fresh exact grep (ZH+EN, works+articles): identical hit set to prior slices, all already absorbed in Role in the Community. Verified saturated; SKIP-no-new-facts. -->
 <!-- deepen-x slice 09250317-19: re-verify 2026-09-25 — fresh grep (ZH+EN, works+articles): hit set identical to prior absorptions, all already linked in Role in the Community. Verified saturated; SKIP-no-new-facts. -->
+<!-- deepen-x slice 09251527-7: re-verify 2026-09-26 — fresh grep (張懋中/Mau-Chung, works+articles): hit set identical (ota-296, whos-who-779, 2015 返台 record, works index), all already linked in Role in the Community. Verified saturated; SKIP-no-new-facts. -->
