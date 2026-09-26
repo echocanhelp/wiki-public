@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Shee Highland Musée in IL (施哲三海嵐美術舘)
 
@@ -31,6 +31,7 @@ Shee Highland Musée is the artistic institution associated with international a
 
 - Corpus re-grep 2026-09-25 (slice 09240500-16): SKIP — verified-saturated; fresh grep (施哲三／Shee Highland／海嵐, works+articles) hit set unchanged: own records #28/#1353 plus the artist's #79/#1105/#150/#158/#159/#160/#9 and the works index, all already linked above. Nothing new to absorb.
 - Corpus re-grep 2026-09-25 (slice 09250800-10): SKIP — fresh ZH+EN grep of works+articles returns a hit set identical to the records already absorbed above; nothing new to absorb; verified saturated.
+- Corpus re-grep 2026-09-26 (slice 09260317-21): SKIP — fresh grep（施哲三／Shee Highland／海嵐, works+articles）hit set unchanged: own records #28/#1353 + artist records #79/#1105/#150/#158/#159/#160/#9 + works index, all already linked; verified saturated.
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/shee-highland-musee-in-il/)

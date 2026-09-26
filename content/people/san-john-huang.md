@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # San John Huang (黃三榮)
 
@@ -57,3 +57,5 @@ Re-grep 2026-09-24 (slice 09230317-21): fresh 黃三榮 / San John Huang grep of
 Re-grep 2026-09-25 (slice 09240317-18): hit set adds the English edition of the TACL founding memoir, now linked above; all other records (own TAH #1976, ourjourneys29/-eng, 186/-eng, 244, 272) already absorbed. Verified-saturated.
 
 Re-grep 2026-09-25 (slice 09250700-16): fresh 黃三榮 / San John Huang grep of works+articles returns the identical hit set (own TAH #1976, ourjourneys29/-eng, 186/-eng, 244, 272/-eng) — SKIP, verified-saturated.
+
+Re-grep 2026-09-26 (slice 09260400-7): fresh 黃三榮 / San John Huang grep returns the identical hit set (own whos-san-john-huang, ourjourneys29-eng, 186/-eng, 244, 272) — all already linked above — SKIP, verified-saturated.

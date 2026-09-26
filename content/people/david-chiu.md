@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # David Chiu (邱信福)
 
@@ -53,3 +53,4 @@ _No filled family fields on the TAH profile._
 複核（deepen-x 2026-09-23 slice-11）：fresh re-grep（邱信福 / David Chiu, works+articles）命中集合與前次完全相同（ourjourneys164、whos-who-2189、ota-230、david-chiu、meet-david-chiu、TACL 25th 回憶錄），全部已 wikilink 吸收 — 飽和，無新增社群材料。
 複核（deepen-x 2026-09-25 slice-10）：fresh re-grep（邱信福 / David Chiu, works+articles）命中集合不變（ourjourneys164、whos-who-2189、ota-230、david-chiu、meet-david-chiu + index），全數已 wikilink 吸收 — verified-saturated。
 複核（deepen-x 2026-09-25 slice 09250700-9）：fresh re-grep（邱信福 / David Chiu）命中集合與前次完全相同（ourjourneys164、whos-who-2189、ota-230、david-chiu、meet-david-chiu + index），全數已 wikilink 吸收 — verified-saturated，無新增社群材料。
+複核（deepen-x 2026-09-26 slice 09260317-21）：fresh re-grep（邱信福 / David Chiu, works+articles）命中集合不變（ourjourneys164、whos-who-2189、ota-230、david-chiu、meet-david-chiu、TACL 25th 回憶錄 + index），全數已 wikilink 吸收 — SKIP-with-reason: verified saturated。

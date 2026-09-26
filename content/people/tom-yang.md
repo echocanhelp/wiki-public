@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Tom Yang (楊東傑)
 
@@ -54,7 +54,10 @@ Primary material from fellow founders' memoirs in the TAHS corpus positions Yang
 - Corpus re-pass 2026-09-23 (deepen-x slice 09221000-9): SKIP — fresh ZH+EN grep returns the same 3F/UFI memoir cluster already linked above (ourjourneys85 ZH+EN, ourjourneys33, 費城四傑 #10, 五人合影 #198, own #913); no new corpus material, no conflicts.
 - Corpus re-pass 2026-09-21 (deepen-x slice 09210400-3): fresh grep returns the same 3F/UFI memoir cluster already documented above; 盧主義's founding account is now also held in English ([[works/taiwaneseamericanhistory-org/ourjourneys85-eng|85 (EN). The 3F founding account / Tsu-Yi Jay Loo]]) — same account, no new facts, no conflicts.
 - Corpus re-pass 2026-09-24 (deepen-x slice 09230500-19): SKIP — fresh ZH+EN grep returns the same 3F/UFI memoir cluster already linked above (ourjourneys85 ZH+EN, ourjourneys33, 費城四傑 #10, 五人合影 #198, own #913); no new corpus material, no conflicts.
-- Corpus re-pass 2026-09-25 (deepen-x slice 09240500-13 / 09250800-8): SKIP — fresh ZH+EN grep returns the same 3F/UFI memoir cluster already linked above (ourjourneys85 ZH+EN, ourjourneys33, 費城四傑 #10, 五人合影 #198, own #913); no new corpus material, no conflicts.
+- 盧主義（Jay Loo）親述的延攬經過：1955 年 9 月初某晚，楊東傑主動到費城 Temple University 醫學院附近房間拜訪學弟盧主義（台南一中晚他九年的學長，奉另一位台南學長之託來延攬），隨後同赴西費城與就讀賓州大學的陳以德（Edward Chen，國際關係）、林錫湖（Echo Lin，有機化學博士班）、以及來自台北的林榮勳（John Lin，國際關係）會面；楊當時是 Abington Memorial Hospital 放射科住院醫師。五人自此每週末聚會，談論對國民黨腐敗與壓抑的憤怒，最終由盧主義喊出「我們可以 advocate 台灣獨立」而催生 3F（[[works/taiwaneseamericanhistory-org/my-stories-897|897. Freedom Calling – American Journey of a Taiwan Expatriate / Jay Loo 自傳, band A]]）。
+- 2022-08-30 同志悼文〈懷念楊東傑醫師—Remembering Dr. Tom Yang〉收入 TAH 故事語料庫（[[works/taiwaneseamericanhistory-org/my-stories-851|851. 懷念楊東傑醫師 / 2022-08-30]]）。
+- HOLD: 3F 集會起始時間 — Jay Loo 自傳記 1955 年 9 月五人已每週聚會酝酿，既有記載為 1956 年費城成立；兩者未合併，各依出處。
+- Corpus re-pass 2026-09-26 (deepen-x slice 09260317-30): fresh ZH+EN grep returns the same 3F/UFI cluster PLUS two new records now absorbed above (my-stories-897 Jay Loo 自傳英文版、my-stories-851 悼文書目).
 
 ## Sources
 - [TAH #913 encyclopedia: 913. Tom Yang  楊東傑/ 2016/05](https://taiwaneseamericanhistory.org/whoswho913/)

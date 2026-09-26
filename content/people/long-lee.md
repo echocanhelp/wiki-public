@@ -48,6 +48,8 @@ last_reviewed: 2026-09-25
 - 個人條目：[[works/taiwaneseamericanhistory-org/whoswho1424|TAH #1424 Long Lee 李隆吉 / 2016-12]]。
 - 語料複核（deepen-x slice 09250700-23, 2026-09-25）：fresh ZH+EN 再檢命中集相同（ourjourneys212／240／283／whoswho1424／Pew 聲明＋索引）；本次按 ourjourneys212 原文將生活座談會名單補全（加蘇哲（故）、黃森元、胡占星、李哲夫、朱啓吉）；其餘 verified saturated；配偶 HOLD 持續未解。
 
+- 語料複核（deepen-x slice 09260400-7, 2026-09-26）：fresh ZH+EN 再檢命中集相同（ourjourneys212／240／283／whoswho1424／Pew 聲明＋索引），全部已吸收；verified saturated，SKIP-with-reason；配偶 HOLD（須藤正子 vs 鄭美招）持續未解。
+
 ## Sources
 - [TAH #1424 encyclopedia: 1424. Long Lee李隆吉/ 2016/12](https://taiwaneseamericanhistory.org/whoswho1424/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/long-lee/)
