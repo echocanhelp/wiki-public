@@ -14,7 +14,7 @@ Canonical page: **[[people/tzetsai-eric-shen||Eric Shen (沈梓在)]]**.
 
 Former provisional slug: `shen-zizai`.
 
-Corpus check 2026-09-20: 唯一語料命中（2025-09-05 台美人歷史協會就職理事會報導）已由正規頁吸收，詳見 [[people/tzetsai-eric-shen|Eric Shen]] 的「2025 board meeting attendance」。本頁作重導用，不再重複吸收。
+Corpus check 2026-09-20: 唯一語料命中（2025-09-05 台美人歷史協會就職理事會報導）已由正規頁吸收，詳見 [[people/tzetsai-eric-shen|Eric Shen]] 的「2025 board meeting attendance」。本頁作重導用，不再重複吸收。Corpus review 2026-09-26: 重新比對（沈子載／沈梓在／Eric Shen）唯一命中仍為同一篇 2025-11-07 報導，內容屬正規頁。重導頁 SKIP。
 
 ## Works
 
