@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Paul Porwen Hung (洪伯文)
 
@@ -50,3 +50,5 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+<!-- deepen-x slice 09251023-32 2026-09-26: fresh ZH+EN grep works/+articles/ — hit set identical to already-absorbed records; no new corpus material. SKIP stands. -->
