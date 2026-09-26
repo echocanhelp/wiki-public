@@ -66,4 +66,4 @@ Corpus re-check 2026-09-22 (deepen-x slice 09220400-26), again 2026-09-23 (deepe
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 Corpus re-check 2026-09-25 (deepen-x slice 09240700-9): fresh grep 陳黃群雁 / "C. Y. Chen" of works/ and articles/ — hit set unchanged (whoswho1141, works/index, TJJ 228 report), all already wikilinked with facts absorbed. SKIP-deepen; nothing new absorbable.
-_Corpus re-check 2026-09-26 (deepen-x slice 09251000-1): fresh grep works/+articles/ — hit set identical to records already wikilinked/absorbed above; no new absorbable facts. SKIP-with-reason: saturated._
+_Corpus re-check 2026-09-26 (deepen-x slices 09251000-1 / 09260317-16 — fresh grep each time): hit set identical to records already wikilinked/absorbed above; no new absorbable facts. SKIP-with-reason: saturated._

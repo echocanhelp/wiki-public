@@ -36,3 +36,4 @@ The Taiwanese Student Association at the University of Virginia (TSA at UVA) is 
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - Corpus re-checked 2026-09-26 (DEEPEN-X slice 09250900-10): hit-set unchanged; the UVA hits outside the absorbed set ([[works/taiwaneseamericanhistory-org/ourjourneys74|周医师memoir]] / [[works/taiwaneseamericanhistory-org/ourjourneys176|orthopedics-residency memoir]]) concern UVA orthopedics residency, not TSA activity. No new facts; verified-saturated.
+- Corpus re-checked 2026-09-26 (DEEPEN-X slice 09260317-16): fresh ZH+EN grep — hit set identical; the only additional UVA-matching articles are press quotes unrelated to TSA (UVA 商學院教授陳朝暉 in a 2026 counterfeit-goods report; UVA 政治學家 Larry Sabato in a 2025 Speaker Johnson report). No new TSA-level facts; verified-saturated.
