@@ -138,3 +138,5 @@ name_en: "Tsai Ing-wen"
 - 連結複核（TJJ-A09251300-4, 2026-09-26）：本 slice 四篇 TJJ 文章（6d9cd937 台灣入WHO論壇公告／accbf8ee 劉雲平AZ疫苗信函／bff4c711 祝賀蕭美琴履任／ad7f737b 第55回世界臺灣文化論壇）subject 連結逐一正文再驗證——本頁人物確認見於正文，連結為真，無錯鏈、無虛鏈；對應日期事實條目（含該文 wikilink）已在庫 — SKIP，已飽和。
 
 <!-- TJJ-A09260400-10: verified 2026-09-26 — subject links in slice article beff9b8cd9711c3d（彭博讚蔡英文, 2020-09-22）re-checked vs 正文; both real (Tiffany Ma 馬翊庭 quote, 蔡總統主體); dated facts already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A09260400-27: verified 2026-09-26 — subject links in slice 09260400-27 articles (e041055e 台灣演義分類頁 / cd646b86 WHO世衛專題頁 / 2fc3294e Michelle Steel募款餐會 / 432e1fca Ed Royce標籤頁) re-checked vs 正文; all real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
