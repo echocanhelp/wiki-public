@@ -37,3 +37,5 @@ The Taiwanese American Association Milwaukee (TAAM, 密爾瓦基台灣同鄉會)
 > SKIP-note (deepen-x slice 09230400-18, 2026-09-24): corpus re-grep ZH+EN — hits unchanged: the chapter's own bibliographic record, ourjourneys81 中/EN (student-generation roots; EN edition now cross-linked), the film-fest item, and generic Milwaukee news (佛洛伊德報導). No TAAM chapter activity. Verified saturated.
 
 > SKIP-note (deepen-x slice 09240400-3, 2026-09-25): fresh ZH+EN re-grep — hits unchanged: the chapter's own bibliographic record (milwaukee-chapter-taa), ourjourneys81 中/EN (UW–Madison split → 利騰俊/黃啟明/田弘茂 study group w/ Douglas Mendel), the film-fest item, and generic Milwaukee news (佛洛伊德報導). No TAAM chapter activity. SKIP: verified-saturated.
+
+> SKIP-note (deepen-x slice 09250700-18, 2026-09-25): fresh ZH+EN re-grep — hits unchanged: the chapter's own bibliographic record, ourjourneys81 中/EN, the film-fest item, and generic Milwaukee news. No TAAM chapter activity, nothing absorbable. SKIP: verified-saturated.

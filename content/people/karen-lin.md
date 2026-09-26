@@ -53,3 +53,5 @@ _No filled family fields on the TAH profile._
 - Corpus re-grep 2026-09-24 (slice 09230317-18): hit set identical (155, 333, whoswho1588, ourjourneys123/128/243) — SKIP, verified-saturated; HOLD on the 1990 photo-caption identity stands.
 
 - Corpus re-grep 2026-09-25 (slice 09240317-17): hit set identical (155, 333, whoswho1588, ourjourneys123/128/243) — SKIP, verified-saturated; HOLD on the 1990 photo-caption identity stands.
+
+- Corpus re-grep 2026-09-25 (slice 09250700-17): hit set identical (155, 333, whoswho1588, ourjourneys123/128/243) — SKIP, verified-saturated; HOLD on the 1990 photo-caption identity stands.

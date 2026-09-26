@@ -37,3 +37,5 @@ The Taiwanese Association of Oklahoma (奧克拉荷馬台灣同鄉會) is a regi
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 複核（deepen-x 2026-09-24 slice-6）：fresh re-grep（奧克拉荷馬台灣同鄉會 / Taiwanese Association of Oklahoma, works+articles）零本頁外命中；頁內語料（OJ 81/318/58/53、FAPA/商會/TAA 目錄）已是本州全部可得材料 — 飽和。
+
+複核（deepen-x slice 09250700-17, 2026-09-25）：fresh re-grep（奧克拉荷馬台灣同鄉會 / Taiwanese Association of Oklahoma, works+articles）零本頁外命中；頁內語料（OJ 81/318/58/53、FAPA/商會/TAA 目錄）已是本州全部可得材料 — 飽和。
