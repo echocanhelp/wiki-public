@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Linda Yi-Fang Yau (劉義芳)
 
@@ -53,3 +53,4 @@ Re-grep 2026-09-25 (slice-16): hit set unchanged (#1566 own entry, #290 HAPA-NA 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+Re-grep 2026-09-26 (slice 09251023-14): hit set identical (#1566, #290, #382, #383, index) — verified saturated, nothing new absorbable.
