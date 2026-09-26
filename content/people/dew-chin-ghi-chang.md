@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # DEW Chin-Ghi Chang (張清祺)
 
@@ -74,3 +74,4 @@ Corpus re-grep (slice 09240600-17, 2026-09-25): same hit set (ourjourneys33, our
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+Corpus re-grep (slice 09250900-14, 2026-09-26): same hit set (ourjourneys33, ourjourneys186-eng, ff361, whos-dew-chin-ghi-chang, index); memoir passages re-verified verbatim, already absorbed above. Nothing new absorbable — SKIP (verified-saturated).

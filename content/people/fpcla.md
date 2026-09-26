@@ -5,7 +5,7 @@ tags:
   - redirect
   - FPCLA
 verification_status: published
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Formosan Presbyterian Church in Los Angeles (FPCLA)
 
@@ -44,3 +44,4 @@ Re-verified 2026-09-23 (slice 09221200-11): fresh ZH+EN grep of works/ + article
 Re-verified 2026-09-24 (slice 09230600-24): fresh ZH+EN grep returned the same six work records already linked above (182, 379, 231, ff295, 退修會, ourjourneys253). The additional 1990-Census detail surfaced in ourjourneys253 (1987-01-02 社團協調會 endorsement, FAPA 會長賴義雄 briefing, 19-member working committee) is TACL-lead narrative already recorded on the census/TACL pages, not new FPCLA fact. SKIP: verified-saturated; canonical org page carries detail.
 
 Re-verified 2026-09-25 (slice 09240600-18): fresh ZH+EN grep returned the same work records already linked above (182, 379, 231 ZH/EN, ff295, 退修會, ourjourneys61, ourjourneys253, presbyterian-church-la). SKIP: verified-saturated; canonical org page carries detail.
+Re-verified 2026-09-26 (slice 09250900-14): fresh ZH+EN grep of works/ + articles/ returned the same work records already linked above (182, 379, 231, ff295, 退修會, ourjourneys61, ourjourneys253, presbyterian-church-la). SKIP: verified-saturated; canonical org page carries detail.
