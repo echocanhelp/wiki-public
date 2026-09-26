@@ -45,6 +45,7 @@ Victor Hung is active in the Los Angeles Taiwanese American community both as pr
 - 2024-06 — as 美國六桂宗親會 president, hosted 台灣攝影經典展—龍躍台南400年 at the LA Korean Cultural Center during Taiwanese American Heritage Week (corroborated twice: 6月1-2日, 洛僑中心 — [[articles/taiwanjustice-net/2025/20250617113511_2024年大洛杉磯台美人傳統週系列活動4-20登場_5-18園遊_b5215d0aa05ace35|TJJ, 2024傳統週系列活動]] and [[articles/taiwanjustice-net/2024/20240429065124_root_55dbc6c8f41b2ad0|TJJ, 2024傳統週預告]])
 
 ## Corpus re-check
+- Re-check (deepen-x slice 09260317-31, 2026-09-26): fresh ZH+EN re-grep 洪家棟／Victor Hung found TWO article hits not previously absorbed — TJJ 2022-05 登山越野攝影展 notice (absorbed into Timeline above) and TJJ 2024-04 傳統週預告 (second corroboration for the 2024 exhibition). Work hits (#522、#521、#104、whos-who-60) unchanged.
 - Re-check (deepen-x 2026-09-21): re-grep（洪家棟 / Victor Hung）hit set unchanged (TAH #521, #522, #104, #60, works index, TJJ 傳統週 record) — every hit already absorbed above; no new community material.
 - Corpus re-check (deepen-x slice 09240317-13, 2026-09-25): fresh grep 洪家棟／Victor Hung (works+articles, excl. index) hit set identical — #522, #521, #104, TAH #60, TJJ 傳統週 record — all already absorbed. SKIP, verified-saturated.
 
