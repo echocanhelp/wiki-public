@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Dr. John Chieu (邱忠男博士)
 
@@ -62,3 +62,4 @@ Community memoirs record Dr. Chieu as a central figure in the Texas Taiwanese-Am
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- Corpus re-grep 2026-09-26 (slice 09260317-2): fresh ZH+EN grep — identical hit set (ourjourneys233/-eng, ourjourneys106, ourjourney-343, whos-who-2258, whos-who-2213, index), all cited above incl. both HOLDs; saturated, SKIP new material.

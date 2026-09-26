@@ -6,7 +6,7 @@ tags:
   - Taiwanese-American
   - Taiwan-Center-group-member
 verification_status: published
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Miss Taiwanese American Pageant Foundation
 
@@ -43,6 +43,8 @@ HOLD: conflict in Chinese naming — this page's 台灣小姐選拔基金會 vs 
 2026-09-25 (slice 09250900-6) corpus re-check: identical hit set (#2/#744/#745/#838/#7/2018 record/#889/#1256); one additional hit ourjourneys311-eng is the 1999 Capital District (NY) Festival of Nations "Miss Festival" participation by the Taiwanese American Association — a different regional event, not attributed to this LA foundation. SKIP-with-reason: verified-saturated; naming HOLD maintained.
 
 2026-09-25 re-check (slice 09240600-9): fresh ZH+EN grep returned the identical hit set (#2/#744/#745/#838/#7/2018 record/#889/#1256); no absorbable new facts. SKIP-with-reason: verified-saturated.
+
+2026-09-26 re-check (slice 09260317-4): fresh ZH+EN grep returned the identical hit set (#2/#744/#745/#838/#7/2018 record/#889/#1256); no absorbable new facts. SKIP-with-reason: verified-saturated; naming HOLD (台灣小姐 vs 台美小姐 vs 台美親善小姐) maintained.
 
 ## Source Notes
 
