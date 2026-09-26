@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Y. S. Huang (黃炎松)
 
@@ -52,3 +52,4 @@ HOLD: conflict on Chinese name — this page and TAH #1074 say 黃炎松, while 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+<!-- deepen-x 09251527-15: SKIP re-verified 2026-09-26 — fresh ZH+EN grep returns #1962, #1074, OJ#19, index — identical hit set; HOLD on 黃炎松 vs 黃永勝 stands. -->
