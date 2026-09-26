@@ -46,6 +46,7 @@ last_reviewed: 2026-09-26
 - 2026-09-24 corpus re-grep (DEEPEN-X slice 09230700-19): hit-set unchanged — the same records already cited above; the #253 passage (1986-12-17 理事會 census committee 周實/鍾茂智/黃森元/楊子清; the 19-person census 工作委員會 roster) is already absorbed in the 1986–87 bullets. Nothing new absorbable. SKIP-content.
 - 2026-09-25 corpus re-grep (slice 09240700-16): fresh 黃森元/S. Y. Huang grep — hit-set unchanged (#186/-eng, #253, #212, #1197, #422, #903, works index). Verified-saturated; SKIP-content.
 - 2026-09-26 corpus re-grep (DEEPEN-X slice 09251000-9): fresh 黃森元/S. Y. Huang grep — hit-set unchanged (same six work records); verified-saturated, SKIP-content.
+- 2026-09-26 corpus re-grep (DEEPEN-X slice 09260500-19): fresh 黃森元/S. Y. Huang grep — hit set identical (#186/-eng, #253, #212, #1197, #422, #903, index), all already absorbed and linked. Verified-saturated; SKIP-content.
 
 ## Sources
 - [TAH #903 encyclopedia: 903. S. Y. Huang 黃森元 / 2016/03](https://taiwaneseamericanhistory.org/whos903-s-y-huang/)

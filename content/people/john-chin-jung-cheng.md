@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # John Chin-Jung Cheng (鄭錦榮牧師)
 
@@ -58,3 +58,4 @@ last_reviewed: 2026-09-25
 - 複核（deepen-x 2026-09-24, slice 09230400-13）：re-grep hit set 不變 — #whos877、追念相簿 #114、Haydn〈創造〉回忆錄三項，均已吸收。飽和。
 - 複核（deepen-x 2026-09-25, slice 09240317-27）：re-grep hit set 不變 — #whos877、追念相簿 #114、Haydn〈創造〉回忆錄三項，均已吸收。飽和。
 - 複核（deepen-x 2026-09-25, slice 09250700-29）：re-grep hit set 不變，全部已吸收。飽和。
+- 複核（deepen-x 2026-09-26, slice 09260500-19）：re-grep（鄭錦榮 / Chin-Jung Cheng, works+articles）hit set 不變 — #whos877、追念相簿 #114、Haydn〈創造〉回忆錄、index 四項，全部已吸收。飽和；SKIP-content。

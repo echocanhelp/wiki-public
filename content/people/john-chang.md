@@ -49,6 +49,7 @@ _No filled family fields on the TAH profile._
 
 - Re-grep 2026-09-25 (slice 09240700-26, 張景祥/恩光): hits = own bio record 943, the two church work records already wikilinked, plus index. Verified-saturated; disambiguation HOLD above unchanged; SKIP-content.
 - Re-grep 2026-09-26 (slice 09251000-18, 張景祥/John Chang): hits = own bio record 943, the two church work records already wikilinked, plus the Audubon/Taiwan-Independence-Cup/Presented-by records under the ambiguity HOLD, plus index. Verified-saturated; disambiguation HOLD above unchanged; SKIP-content.
+- Re-grep 2026-09-26 (slice 09260500-19, 張景祥/John Chang): fresh grep — hit set identical (943, Audubon, 55 Taiwan Independence Cup, 2 Presented by Dr. John Chang, index), all under existing links/HOLD. Verified-saturated; SKIP-content.
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/john-chang/)

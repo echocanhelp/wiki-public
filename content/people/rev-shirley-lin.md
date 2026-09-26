@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Rev. Shirley Lin (林珊宇牧師)
 
@@ -53,3 +53,4 @@ HOLD: corpus text hits for "Shirley Lin" — [[works/taiwaneseamericanhistory-or
 - Re-grep 2026-09-24 (slice 09230400-23, 林珊宇 / Shirley Lin): hit set identical again (own #1695 record, works index, 林夏如 whoswho1344 + TJJ 2021 article — different person, HOLD stands). No new memoir or church record naming 林珊宇. SKIP: verified saturated.
 - Re-grep 2026-09-25 (slice 09240400-9, 林珊宇 / Shirley Lin): hit set identical again (own #1695 record, works index, 林夏如 whoswho1344 + TJJ 2021 article — different person, HOLD stands). No new memoir or church record naming 林珊宇. SKIP: verified saturated.
 - Re-grep 2026-09-25 (slice 09250700-32, 林珊宇 / Shirley Lin): hit set identical again (own #1695 record, works index, 林夏如 whoswho1344 + TJJ 2021 article — different person, HOLD stands). SKIP: verified saturated.
+- Re-grep 2026-09-26 (slice 09260500-20, 林珊宇 / Shirley Lin): hit set identical again (own #1695 record, works index, 林夏如 whoswho1344 + TJJ 2021 article — different person, HOLD stands). No new memoir or church record naming 林珊宇. SKIP: verified saturated.
