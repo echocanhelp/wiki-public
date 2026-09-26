@@ -55,3 +55,4 @@ last_reviewed: 2026-09-25
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - Re-grep 2026-09-24 (slice 09230317-23): hit set identical to the six records already absorbed — SKIP, saturated; both HOLDs stand.
 - Re-grep 2026-09-25 (slice 09240317-29): hit set identical to the six records already absorbed (#798, #390, #42+eng, #696, #31) — SKIP, saturated; both HOLDs stand.
+- Re-grep 2026-09-25 (slice 09250700-32): hit set identical to the six records already absorbed — SKIP, saturated; both HOLDs stand.
