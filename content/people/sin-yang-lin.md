@@ -46,3 +46,5 @@ _No filled family fields on the TAH profile._
 - [[works/taiwaneseamericanhistory-org/whos-who-2289-sin-yang-lin|2289. Sin-Yang Lin 林欣陽]] — own TAH encyclopedia record (corpus scan 2026-09-18 and re-checks 2026-09-20 / 2026-09-21: no other corpus material found; SKIP-deepened, link only)
 
 <!-- deepen-x 09231400-12 (2026-09-25): fresh ZH+EN grep of works+articles -> only own TAH bibliographic record + works/index.md; no memoir/community narrative to absorb. SKIP re-verified. -->
+
+<!-- deepen-x 09251031-3 (2026-09-26): fresh ZH+EN grep of works+articles -> hit set identical to existing links (own TAH bibliographic record; index lines only). No new absorbable community facts; SKIP re-verified. -->

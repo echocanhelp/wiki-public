@@ -45,3 +45,5 @@ skip_note: "deepen-x 2026-09-22 (slice 09210500-31; earlier 2026-09-21): corpus 
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 <!-- deepen-x 09231400-12 (2026-09-25): fresh ZH+EN grep of works+articles -> only own TAH bibliographic record + works/index.md; no memoir/community narrative to absorb. SKIP re-verified. -->
+
+<!-- deepen-x 09251031-3 (2026-09-26): fresh ZH+EN grep of works+articles -> hit set identical to existing links (own TAH bibliographic record; index lines only). No new absorbable community facts; SKIP re-verified. -->
