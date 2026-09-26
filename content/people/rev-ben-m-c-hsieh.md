@@ -61,3 +61,5 @@ _Corpus re-scan 2026-09-24 (deepen-x slice 09230600-4): fresh grep 謝敏川/Hsi
 
 _Corpus re-scan 2026-09-25 (deepen-x slice 09240600-8): fresh grep 謝敏川/Hsieh across works/ + articles/ — hit set identical (#144, #888, OJ14, OJ43, 牧野溪流 #186); verified-saturated, nothing new absorbable._
 <!-- deepen-x slice 09250900-4 re-verify 2026-09-25: fresh ZH+EN grep of works+articles — hit set identical to prior passes, all facts incl. HOLDs already absorbed; SKIP-with-reason: verified-saturated, no new absorbable facts -->
+
+<!-- deepen-x slice 09260317-7 re-verify 2026-09-26: fresh ZH+EN grep of works+articles — hit set identical to prior passes (#144, #888, OJ14, OJ43, #186); all facts incl. mention-network line already absorbed; SKIP-with-reason: verified-saturated -->
