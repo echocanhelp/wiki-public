@@ -59,3 +59,5 @@ Corpus re-check (deepen-x 09221500-27, 2026-09-23): fresh grep of works/ + artic
 Corpus re-check (deepen-x 09231000-12, 2026-09-25): fresh grep of works/ + articles/ (ZH+EN) returns only own TAH records, already-absorbed mentions, or the works index — verified-saturated, nothing new absorbable.
 
 Corpus re-check (deepen-x 09250317-24, 2026-09-25): fresh grep (Tom Thomas Shih / 石聰賢) returns only own entry #1877 + works index — verified-saturated, nothing new absorbable.
+
+Corpus re-check (deepen-x 09251527-14, 2026-09-26): fresh grep (Tom Thomas Shih / 石聰賢) returns only own entry #1877 + works index — verified-saturated, nothing new absorbable.

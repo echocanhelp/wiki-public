@@ -43,6 +43,7 @@ _No filled family fields on the TAH profile._
 - Re-grep 2026-09-22 (slice 09220600-12): same hits plus a fuzzy match in [[works/taiwaneseamerican-org/pew-research-center-taiwanese-american-statement|Pew Taiwanese American statement]] — that name is "Mengchun Chiang", a different person, not absorbed. Verified saturated.
 - Re-grep 2026-09-25 (slice 09230900-25): fresh ZH+EN grep returns only #260, #2169, and the works index — identical to cited set. SKIP-deepen stands; verified saturated.
 - Re-grep 2026-09-25 (slice 09250317-24): fresh ZH+EN grep (江孟芝 / Meng Chih Chiang / Mengchih Chiang) returns only #260, #2169, works index — identical to cited set. SKIP-deepen stands.
+- Re-grep 2026-09-26 (slice 09251527-14): fresh ZH+EN grep returns only #260, #2169, works index — identical to cited set. SKIP-deepen stands.
 
 ## Sources
 - [TAH #260 encyclopedia: 260. Mengchih Chiang 江孟芝](https://taiwaneseamericanhistory.org/ota-260/)

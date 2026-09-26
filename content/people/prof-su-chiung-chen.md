@@ -55,3 +55,4 @@ Prof. Su-Chiung Chen 陳素瓊教授 – History of Taiwanese American (T.A. Arc
 <!-- deepen-x slice 09221000-29 (2026-09-23): re-verified — grep hit set unchanged (own TAH #2214 + works index only). SKIP. -->
 <!-- deepen-x slice 09230900-24 (2026-09-25): re-verified — grep hit set unchanged (own TAH #2214 + works index only). SKIP. -->
 <!-- deepen-x slice 09250317-30 (2026-09-25): re-verified — fresh ZH+EN grep returns only own TAH #2214 + works index; hit set identical to prior absorption. SKIP-with-reason (saturated). -->
+<!-- deepen-x slice 09251527-16 (2026-09-26): re-verified — fresh ZH+EN grep (陳素瓊/Su-Chiung Chen) returns only own TAH #2214 + works index. SKIP-with-reason (saturated). -->

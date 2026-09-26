@@ -49,3 +49,4 @@ last_reviewed: 2026-09-26
 <!-- deepen-x slice 09231100-5 (2026-09-25): re-verified — fresh ZH+EN grep of works/ + articles/ returns only the records already linked/absorbed above (plus works/index rollup); no new memoir material; no conflicts resolved or added. -->
 
 <!-- deepen-x slice 09250400-3 (2026-09-25): re-verified — fresh ZH+EN grep of works/ + articles/ returns only the records already linked/absorbed above (plus works/index rollup); nothing new absorbable; no conflicts. SKIP-with-reason (verified saturated). -->
+<!-- deepen-x slice 09251527-16 (2026-09-26): re-verified — fresh ZH+EN grep returns only ourjourneys160, whoswho1037, the 2018 連署 article (all absorbed) + works/index. SKIP-with-reason (verified saturated). -->

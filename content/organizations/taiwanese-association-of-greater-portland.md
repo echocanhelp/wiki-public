@@ -27,6 +27,7 @@ The Taiwanese Association of Greater Portland (TAGP) is a chapter of the Taiwane
 - Corpus check 2026-09-23 (deepen-x slice 09221400-31): fresh grep again returns exactly the four linked records + works/index; verified saturated, no new facts.
 - Corpus check 2026-09-25 (deepen-x slice 09230900-30): fresh grep (TAGP / 大波特蘭 / Greater Portland) again returns exactly the four linked records + works/index; verified saturated, no new facts.
 - Corpus check 2026-09-25 (deepen-x slice 09250317-26): fresh grep again returns exactly the four linked records + works/index — SKIP (re-verified), no new facts.
+- Corpus check 2026-09-26 (deepen-x slice 09251527-16): fresh grep (TAGP / 大波特蘭 / Greater Portland) again returns exactly the four linked records + works/index — verified-saturated, SKIP-with-reason, no new facts.
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-association-of-greater-portland/)

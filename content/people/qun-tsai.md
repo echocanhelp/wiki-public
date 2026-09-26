@@ -55,3 +55,4 @@ Corpus re-check (deepen-x 09221500-27, 2026-09-23): fresh grep of works/ + artic
 Corpus re-check (deepen-x 09231000-12, 2026-09-25): fresh grep of works/ + articles/ (ZH+EN) returns only own TAH records, already-absorbed mentions, or the works index — verified-saturated, nothing new absorbable.
 
 <!-- deepen-x 09250317-23: fresh grep (蔡昆/Qun Tsai) returns only ourjourneys155 (absorbed), own records, works index — verified-saturated. -->
+<!-- deepen-x 09251527-16 (2026-09-26): fresh grep (蔡昆/Qun Tsai) returns only ourjourneys155 (absorbed), own records (senior-taiwanese-american-33, whos-who-2121), works index — verified-saturated, SKIP-with-reason. -->
