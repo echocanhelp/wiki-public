@@ -46,6 +46,7 @@ _No filled family fields on the TAH profile._
 - Corpus re-grep 2026-09-21 (slice-09210400-23): 'Shumei'/孫淑眉 matched only record #2003 + works index; SKIP-with-reason, link verified resolving.
 
 - deepen-x recheck 2026-09-25 (slice 09231200-14): grep Shumei/孫淑眉 matched only record #2003 + works index; SKIP-with-reason.
+- deepen-x recheck 2026-09-25 (slice 09250600-9): fresh grep 'Shumei|孫淑眉' matched only own record #2003 + works index; SKIP-with-reason — no community/memoir text to absorb.
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-shumei-s-sun/)

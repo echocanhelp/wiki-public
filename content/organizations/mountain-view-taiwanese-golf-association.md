@@ -36,3 +36,4 @@ last_reviewed: 2026-09-25
 - [[organizations/taiwan-center||Taiwan Center]]
 - [[sources/taiwancenter-org||taiwancenter.org]]
 <!-- deepen-x 09231200-20: re-verified 2026-09-25 — corpus grep (ZH+EN) hits only own record / works index; page already links all hits. No new material. -->
+<!-- deepen-x 09250600-6: re-verified 2026-09-25 — fresh grep (山景台灣人高爾夫/MVTGA/EN) hits only mvtgolf record + works index, already wikilinked. SKIP — nothing new absorbable. -->
