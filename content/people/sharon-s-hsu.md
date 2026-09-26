@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Sharon S. Hsu (許聖美)
 
@@ -49,6 +49,7 @@ last_reviewed: 2026-09-25
 
 - Corpus re-grep 2026-09-25 (slice 09240500-16): SKIP — verified-saturated; fresh grep (許聖美／Sharon Hsu, works+articles) hit set unchanged: own TAH #36/#42/#165/#263, Our Journeys 264, works index — all already linked above. Nothing new to absorb.
 - Corpus re-grep 2026-09-25 (slice 09250800-11): SKIP — verified-saturated; fresh grep (許聖美／Sharon.*Hsu, works+articles) hit set unchanged (own TAH #36/#42/#165/#263, Our Journeys 264, works index). Nothing new to absorb.
+- Corpus re-grep 2026-09-26 (slice 09260317-22): SKIP — verified-saturated; fresh grep (許聖美／Sharon.*Hsu, works+articles) hit set unchanged (own TAH #36/#42/#165/#263, Our Journeys 264, works index). Nothing new to absorb.
 
 ## Sources
 - [TAH #42 encyclopedia: 42. Paul (Chung Chen) and Sharon Hsu 許忠政, 許聖美 / The first private business enter](https://taiwaneseamericanhistory.org/ff42/)
