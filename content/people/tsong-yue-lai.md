@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Tsong-Yue Lai (賴聰域教授)
 
@@ -65,3 +65,5 @@ slice 09230317-20 re-grep (2026-09-24): corpus hit set identical to links alread
 2026-09-25
 
 > Corpus re-grep  (slice 09250700-27): fresh ZH+EN re-grep against works/articles — hit set identical to records already absorbed and linked above; no new absorbable community facts. SKIP: verified-saturated.
+
+> Corpus re-grep (slice 09260500-7, 2026-09-26): fresh ZH+EN grep — hit set identical to records already absorbed and linked above; no new absorbable corpus facts. SKIP: verified-saturated.

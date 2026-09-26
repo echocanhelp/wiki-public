@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Gordon S. W. Chin (金希文教授)
 
@@ -55,3 +55,5 @@ _No filled family fields on the TAH profile._
 > Corpus check (deepen-x slice 09240400-5, 2026-09-25): fresh re-grep (金希文|Gordon.*Chin) — hit set unchanged (whoswho1253, musician358, ourjourneys301, tjj 古典音樂欣賞 ×2, works index), all absorbed above. SKIP-with-reason: saturated.
 
 > Corpus check (deepen-x slice 09250700-28, 2026-09-25): fresh re-grep (金希文|Gordon.*Chin) — hit set unchanged (whoswho1253, musician358, ourjourneys301, tjj 古典音樂欣賞 ×2, works index), all absorbed above. SKIP-with-reason: saturated.
+
+> Corpus re-grep (slice 09260500-7, 2026-09-26): fresh ZH+EN grep — hit set identical to records already absorbed and linked above; no new absorbable corpus facts. SKIP: verified-saturated.
