@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Dr. James Tsai (蔡育智醫師)
 
@@ -58,3 +58,5 @@ HOLD: the 2022 announcement lists 秘書長 James Tsai; publication-era vs. curr
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - Re-verified 2026-09-25 (deepen-x slice 09250400-11): fresh ZH+EN grep hit set identical to already-absorbed/already-held records -- saturated, SKIP.
+
+<!-- deepen-x slice 09252123-10 re-check 2026-09-26: verified-saturated. Fresh ZH+EN grep of works/ + articles/ hit set identical to records already wikilinked/HOLDed on this page; no new absorbable corpus material. -->

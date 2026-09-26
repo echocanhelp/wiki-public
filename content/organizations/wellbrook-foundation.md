@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Wellbrook Foundation (美國美溪慈善基金會)
 
@@ -34,3 +34,5 @@ The Wellbrook Foundation is a charitable foundation established in the United St
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 <!-- deepen-x 09250400-21 re-check 2026-09-25: verified-saturated. Fresh ZH+EN grep of works/ + articles/ returns only own TAH bibliographic records, works/index.md, or pages already wikilinked/HOLDed in Role in the Community; no new absorbable corpus material. -->
+
+<!-- deepen-x slice 09252123-10 re-check 2026-09-26: verified-saturated. Fresh ZH+EN grep of works/ + articles/ hit set identical to records already wikilinked/HOLDed on this page; no new absorbable corpus material. -->

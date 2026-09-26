@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Prof. Hsiu-lang Chen (陳秀亮教授)
 
@@ -50,3 +50,5 @@ _No filled family fields on the TAH profile._
 
 ## Corpus check (deepen-x 09250400-23, 2026-09-25)
 SKIP (verified saturated) — fresh ZH+EN grep of works/+articles/ returns only the own TAH record already cited above plus the works index; no memoir/community text to absorb.
+
+<!-- deepen-x slice 09252123-12 (2026-09-26): verified-saturated — fresh ZH+EN corpus re-grep (works/ + articles/) hits only the already-cited records (own TAH record + works index); no new absorbable facts. -->
