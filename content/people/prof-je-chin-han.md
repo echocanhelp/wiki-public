@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Prof. Je-Chin Han (黃界清教授)
 
@@ -56,4 +56,5 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+_Corpus re-grep 2026-09-26 (slice 09260317-24): SKIP — fresh ZH+EN grep hit set identical to previously absorbed records (own #52/#604, award-77, Our Journeys 129, works index, taiwanjustice.net echoes); verified saturated._
 _Corpus re-grep 2026-09-25 (slice 09250800-9): SKIP — hit set identical to previously absorbed records; no new corpus material; verified saturated._

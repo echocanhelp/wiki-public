@@ -53,3 +53,5 @@ Corpus re-check (deepen-x 2026-09-23, slice 09221200-32; re-run 2026-09-24, slic
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 Corpus re-check (slice 09251000-2, 2026-09-26): fresh 林英侯|Ing-Hour greps return only the work pages already linked above (ourjourneys-138, ourjourneys47, whoswho1580, both TJJ articles) plus the harvest index — verified-saturated, no unabsorbed material.
+
+Corpus re-check (slice 09260317-28, 2026-09-26): fresh 林英侯|Ing-Hour greps return only the pages already linked above (ourjourneys-138, ourjourneys47, whoswho1580, both TJJ articles) plus the harvest index — verified-saturated, no unabsorbed material.

@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Ann Arbor Taiwanese Association (安雅堡)
 
@@ -35,3 +35,4 @@ The Ann Arbor Taiwanese Association (AATA) is a community organization serving T
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - Corpus re-grep 2026-09-24 (slice 09230500-15): hit set identical to previously absorbed records; no new corpus material; verified saturated.
 _Corpus re-grep 2026-09-25 (slice 09250800-9): SKIP — hit set identical to previously absorbed records; no new corpus material; verified saturated._
+- Corpus re-grep 2026-09-26 (slice 09260317-19): hit set gained one not-yet-linked record — the chapter's own TAH 檔案庫自述頁「Ann Arbor Taiwanese Association (AATA) 安娜堡台灣同鄉會」(published 2015-12-30, bibliographic record; full text stays in the vault): [[works/taiwaneseamericanhistory-org/ann-arbor-chapter-taa|AATA 安娜堡台灣同鄉會 自述記錄]]. Absorbed as a corpus-linked self-account; no other new narrative facts, no conflicts to HOLD. Remaining hits (ann-arbor-democratic, ourjourneys321 & -eng, ourjourneys8, news-ann-arbor, important2016-30, ann-arbor-taiwanese-church) already absorbed.
