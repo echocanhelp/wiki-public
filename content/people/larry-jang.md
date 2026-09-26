@@ -7,12 +7,12 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-26
 ---
 # Larry Jang (鄭龍光)
 
 ## Role in the Community
-- Corpus record: [[works/taiwaneseamericanhistory-org/whoswho1247|TAH #1247（2016-08）]]（bibliographic record only，全文在 vault）。Corpus grep over works/articles found no memoir or article material beyond this record — nothing absorbable; page left as TAH Who's Who baseline. Fresh grep 2026-09-25 (鄭龍光 / Larry Jang, works+articles) again returned only own TAH #1247 record + index entry — confirmed SKIP.
+- Corpus record: [[works/taiwaneseamericanhistory-org/whoswho1247|TAH #1247（2016-08）]]（bibliographic record only，全文在 vault）。Corpus grep over works/articles found no memoir or article material beyond this record — nothing absorbable; page left as TAH Who's Who baseline. Fresh greps 2026-09-25 and 2026-09-26 (slice 09251047-20; 鄭龍光 / Larry Jang, works+articles) again returned only own TAH #1247 record + index entry — confirmed SKIP.
 
 ## Identity Snapshot
 - **English:** Larry Jang
