@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Dr. Hui-Ling Chen (陳慧玲博士)
 
@@ -45,6 +45,8 @@ _No filled family fields on the TAH profile._
 - 2026-09-24 語料複核（slice 09230700-10）：重 grep 結果不變——本人記錄僅 [[works/taiwaneseamericanhistory-org/whos-who-2147-hui-ling-chen|TAH #2147]]＋works index；同名異人兩筆（陳方安生之女、澎湖縣議員）依旧。SKIP-with-reason：無可吸收新事實。
 
 - 2026-09-25 語料複核（slice 09240700-12）：重 grep 結果不變——本人記錄僅 [[works/taiwaneseamericanhistory-org/whos-who-2147-hui-ling-chen|TAH #2147]]＋works index；同名異人兩筆（陳方安生之女、澎湖縣議員）依旧。SKIP-with-reason：無可吸收新事實。
+
+- 2026-09-26 語料複核（slice 09251000-3）：重 grep 結果不變——本人記錄僅 [[works/taiwaneseamericanhistory-org/whos-who-2147-hui-ling-chen|TAH #2147]]；同名異人兩筆（陳方安生之女、澎湖縣議員）依旧。SKIP-with-reason：無可吸收新事實。
 
 ## Sources
 - [TAH #2147 encyclopedia: 2147. Dr. Hui-Ling Chen 陳慧玲博士](https://taiwaneseamericanhistory.org/whos-who-2147-hui-ling-chen/)

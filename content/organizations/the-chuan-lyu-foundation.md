@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # The Chuan Lyu Foundation (川流基金會)
 
@@ -37,6 +37,8 @@ Not to be confused with the 1989 literary piece 川流 by 林霞 ([[works/taiwan
 Corpus re-grep 2026-09-24 (deepen-x slice 09230700-6, 川流基金會/Chuan Lyu): fresh grep works/ + articles/ returned a hit-set identical to the program records already wikilinked above (TAH #18/#30/#38/#39/#84/#384) plus the works index. Verified-saturated; nothing new absorbable.
 
 Corpus re-grep 2026-09-25 (deepen-x slice 09240700-7): fresh grep returned the identical hit-set (program records #18/#30/#38/#39/#84/#384 + index). Verified-saturated; nothing new absorbable.
+
+Corpus re-grep 2026-09-26 (deepen-x slice 09251000-3): fresh grep returned the identical hit-set (program records #18/#30/#38/#39/#84/#384/#385 + index). Verified-saturated; nothing new absorbable.
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/the-chuan-lyu-foundation/)
