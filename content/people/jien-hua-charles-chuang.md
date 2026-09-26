@@ -56,3 +56,4 @@ Jien-Hua (Charles) Chuang 莊峻華 – History of Taiwanese American (T.A. Arch
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - Corpus re-check (2026-09-23, deepen-x slice 09230317-15, vault-only): hit set identical (#106, #233/#233 EN 募款組, TAH #2257, index) — verified-saturated, SKIP, no absorbable new facts.
+- Corpus re-check (deepen-x slice 09250700-13, 2026-09-25): fresh grep works+articles, hit set identical, all already absorbed -- saturated, SKIP.

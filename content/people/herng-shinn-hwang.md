@@ -59,3 +59,4 @@ last_reviewed: 2026-09-25
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - Corpus re-check (2026-09-23, deepen-x slice 09230317-15, vault-only): sixth re-grep, hit set identical (#735 + works index) — SKIP, verified-saturated.
 - Corpus re-check (2026-09-25, deepen-x slice 09240317-15, vault-only): seventh re-grep 黃恆信 / Herng-Shinn Hwang (works + articles), hit set identical ([[works/taiwaneseamericanhistory-org/735-herng-shinn-hwang-e9-bb-83-e6-81-86-e4-bf-a1-201512|#735]] + works index) — SKIP, saturated.
+- Corpus re-check (deepen-x slice 09250700-13, 2026-09-25): fresh grep works+articles, hit set identical, all already absorbed -- saturated, SKIP.
