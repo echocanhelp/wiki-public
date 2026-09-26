@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Julie Wu (吳茗秀醫師)
 
@@ -37,6 +37,7 @@ last_reviewed: 2026-09-25
 
 - Corpus re-grep 2026-09-25 (slice 09231000-7): hits = index, own entries 235/511, Michelle Kuo interview, Harvard presentation (+dup -2 variant) — all already linked/absorbed above; saturated, no new absorbable facts.
 - Corpus re-grep 2026-09-25 (slice 09250317-8): identical hit set (235, 511, index, Michelle Kuo interview, Harvard presentation +dup); saturated, SKIP-no-new-facts.
+- Corpus re-grep 2026-09-26 (slice 09251500-2): identical hit set (235, 511, index, Michelle Kuo interview, Harvard presentation +dup variant); all already linked/absorbed; saturated, SKIP-no-new-facts.
 
 ## Family
 

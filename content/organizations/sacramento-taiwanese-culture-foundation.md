@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Sacramento Taiwanese Culture Foundation (美國加州首府沙加緬度台灣文化基金會)
 
@@ -34,3 +34,5 @@ Corpus check (2026-09-16, slice deepen-x-30; re-run slices deepen-x-09160700-23,
  Slice deepen-x-slice-09231000-5 (2026-09-25): fresh re-grep (ZH+EN, works+articles) — identical hit set to prior checks; all hits already wikilinked/absorbed; nothing new absorbable. SKIP (saturated).
 
  Slice deepen-x-slice-09250317-5 (2026-09-25): fresh re-grep (ZH+EN, works+articles) — identical hit set to prior checks; all hits already wikilinked/absorbed; nothing new absorbable. SKIP (saturated).
+
+ Slice deepen-x-slice-09251451-1 (2026-09-26): fresh re-grep (ZH+EN, works+articles) — identical hit set to prior checks; all hits already wikilinked/absorbed; nothing new absorbable. SKIP (saturated).

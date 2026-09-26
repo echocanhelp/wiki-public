@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Paul B. Hshieh 六 (謝博六博士)
 
@@ -51,3 +51,4 @@ _No filled family fields on the TAH profile._
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 <!-- deepen-x 09250317-11: verified-saturated — corpus re-scan (works/articles) fresh 2026-09-25: hit set identical to prior passes (own records + already-wikilinked works only); no new community material. -->
+<!-- deepen-x 09251500-4: verified-saturated — corpus re-scan fresh 2026-09-26: hit set identical to prior passes (own records + already-wikilinked works only); no new community material. -->

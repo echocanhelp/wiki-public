@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # C. S. Hsu (許清松)
 
@@ -53,3 +53,5 @@ _No filled family fields on the TAH profile._
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 - 2026-09-25 DEEPEN-X09250317-7: fresh grep (ZH+EN) hit set identical to records already cited on this page — verified-saturated, SKIP-no-new-facts.
+
+ Slice deepen-x-slice-09251451-1 (2026-09-26): fresh re-grep (ZH+EN, works+articles) — identical hit set to prior checks; all hits already wikilinked/absorbed; nothing new absorbable. SKIP (saturated).
