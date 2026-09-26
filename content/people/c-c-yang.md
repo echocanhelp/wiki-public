@@ -59,3 +59,4 @@ HOLD: brother(s) with a near-identical name mentioned in blacklist lore ([[works
 
 <!-- deepen-x slice 09240600-8 re-verify 2026-09-25: fresh grep 楊朝諄/C. C. Yang across works+articles — same hit set (ourjourneys233, ourjourneys106, mystories423, ourjourneys81-eng, whos-c-c-yang, whos-c-c-yang-2); all facts incl. both HOLDs already in Role in the Community; verified-saturated -->
 <!-- deepen-x slice 09250900-4 re-verify 2026-09-25: fresh ZH+EN grep of works+articles — hit set identical to prior passes, all facts incl. HOLDs already absorbed; SKIP-with-reason: verified-saturated, no new absorbable facts -->
+<!-- deepen-x slice 09260317-4 re-verify 2026-09-26: fresh ZH+EN grep of works+articles — same hit set plus ourjourneys65-eng (roster confirms 'Tsung-chang Yang (C.C. Yang)' = 楊宗昌, now wikilinked in the disambiguation line); all other facts incl. HOLDs already absorbed -->

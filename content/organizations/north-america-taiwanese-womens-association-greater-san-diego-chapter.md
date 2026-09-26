@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # North America Taiwanese Women’s Association – Greater San Diego Chapter (北美洲台灣婦女會聖地牙哥分會)
 

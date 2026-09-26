@@ -44,6 +44,7 @@ _No filled family fields on the TAH profile._
 - Re-grepped 2026-09-23 (slice 09221100-27): hit-set identical (#387, #1542, #301, TJJ 楊子清 tag, index), all already absorbed — SKIP-with-reason: no new corpus facts.
 - Re-grepped 2026-09-24 (slice 09230600-32): hit-set identical (#387, #1542, #301, TJJ 楊子清 tag, index) — SKIP-with-reason: verified-saturated.
 - Re-grepped 2026-09-26 (slice 09250900-15): hit-set identical (#387, #1542, #301, TJJ 楊子清 tag, index) — SKIP-with-reason: verified-saturated.
+- Re-grepped 2026-09-26 (slice 09260317-12): fresh grep works/+articles/ 李慧珍|H. J. Lee — hit-set identical (#387, #301, #1542, index, TJJ 楊子清 tag), all absorbed above — SKIP-with-reason: verified-saturated.
 
 ## Sources
 - [TAH #387 encyclopedia: 387. 李慧珍, Conductor / 2017/03](https://taiwaneseamericanhistory.org/musician387/)

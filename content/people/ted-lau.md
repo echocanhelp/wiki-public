@@ -65,3 +65,4 @@ _Corpus re-grep 2026-09-25 (slice 09240700-15): two not-yet-absorbed records fou
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 _Corpus re-check 2026-09-26 (deepen-x slice 09251000-1): fresh grep works/+articles/ — hit set identical to records already wikilinked/absorbed above; no new absorbable facts. SKIP-with-reason: saturated._
+_Corpus re-check 2026-09-26 (deepen-x slice 09260317-12): fresh grep 劉重義|Ted Lau — hit set identical (publications1025, mystories297, ourjourneys238, 760 劉聰德 record, 369 費城三傑, ourjourneys234); 劉重義 vs 劉聰德 HOLD stands. SKIP-with-reason: saturated._
