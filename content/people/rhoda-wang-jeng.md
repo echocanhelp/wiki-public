@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Rhoda Wang Jeng
 
@@ -44,7 +44,7 @@ last_reviewed: 2026-09-25
 
 ## Related Pages
 - ## Corpus records
-- [[works/taiwaneseamericanhistory-org/whos-who-2134-rhoda-wang-jeng|2134. Rhoda Wang Jeng]] — her own TAH Who's Who record (2018-06-15). SKIP: no other corpus mentions; no independent community material to absorb. Re-verified 2026-09-22 (slice 09210906-18): fresh EN greps of works/ + articles/ still return only the index stub of this record.
+- [[works/taiwaneseamericanhistory-org/whos-who-2134-rhoda-wang-jeng|2134. Rhoda Wang Jeng]] — her own TAH Who's Who record (2018-06-15). SKIP: no other corpus mentions; no independent community material to absorb. Re-verified 2026-09-22 (slice 09210906-18) and 2026-09-26 (slice 09251047-19): fresh EN greps of works/ + articles/ still return only this record, the works/index.md co-listing, and unrelated Jeng-family records (Y.C. Jeng, Judy Jeng, Cherie Jeng, Raymond Jeng) — no community material about Rhoda Wang Jeng. SKIP.
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

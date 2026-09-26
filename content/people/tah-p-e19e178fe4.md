@@ -6,9 +6,9 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
-# deepen-x 09232337-1: SKIP re-verified 2026-09-25 — fresh grep 鄭許梅 matched only own TAH #586 record + works/index; no other memoir/event mentions; nothing absorbable
+# deepen-x 09232337-1: SKIP re-verified 2026-09-25 and 2026-09-26 (slice 09251047-22) — fresh grep 鄭許梅 matched only own TAH #586 record + works/index; no other memoir/event mentions; nothing absorbable
 # 鄭許梅
 
 ## Identity Snapshot
