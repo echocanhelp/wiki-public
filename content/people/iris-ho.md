@@ -60,3 +60,4 @@ Fresh grep of content/works + content/articles returned only records already abs
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - Corpus re-grep 2026-09-25 (DEEPEN-X slice 09240700-3): hit-set unchanged (ourjourneys123/-eng, TAH #309, TAH #935, TA.org perspectives, index; husband records #464/#228 already in Family) — all absorbed; SKIP-content.
 - Corpus re-grep 2026-09-26 (DEEPEN-X slice 09250900-10): hit-set unchanged (ourjourneys123/-eng, TAH #309, TAH #935, TA.org perspectives, index; husband records #464/#228 in Family) — all already absorbed. SKIP-content.
+- Corpus re-grep 2026-09-26 (DEEPEN-X slice 09260317-3): hit-set unchanged (ourjourneys123/-eng, TAH #309, TAH #935, TA.org perspectives, index; ourjourneys231/39 matched only on case-insensitive substring, no Iris Ho content) — all already absorbed. SKIP-content.

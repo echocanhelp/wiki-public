@@ -66,3 +66,4 @@ Corpus re-grep 2026-09-25 (deepen-x slice 09240600-20): fresh grep 許清煌/Jul
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 Corpus re-grep 2026-09-26 (deepen-x slice 09250900-11): fresh grep 許清煌/Julius Shu over works/ + articles/ — hit set identical to the already-absorbed set (ourjourneys244, ourjourneys212, whos-julius-shu, works index, TJJ 耆老講座標籤頁); no new passage-level facts. Verified-saturated; no conflicts found.
+Corpus re-grep 2026-09-26 (deepen-x slice 09260317-6): fresh grep 許清煌/Julius Shu over works/ + articles/ — hit set identical to the already-absorbed set (ourjourneys244, ourjourneys212, whos-julius-shu, works index, TJJ 耆老講座標籤頁); passage re-check matches verbatim, no new facts. Verified-saturated; no conflicts found.

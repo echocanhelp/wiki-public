@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # C. C. Yang (楊朝諄)
 
@@ -36,7 +36,7 @@ last_reviewed: 2026-09-25
 - Blacklisted by the KMT at one point (rumored name-confusion with a lookalike brother's name, or his chamber-presidency); entry was restored after 張士丞 and others intervened — recorded in the blacklist roster in [[works/taiwaneseamericanhistory-org/ourjourneys106|106. 中華民國的黑名單 / 何文亮、莊峻華 / 2015/02]].
 - Community offices per corpus: 前任昌會會長 and 現任北美商會會長; profiled in [[works/taiwaneseamericanhistory-org/mystories423|423. 楊朝諄的成功之路 / 簡勇 / 04/2016]].
 - HOLD: TAH press-kit profile lists only chem-industry roles; corpus memoirs add movement/organizing roles — both retained.
-- Disambiguation: the corpus records a **second「C. C. Yang」— 楊宗昌 of the Kansas campus circle**, a distinct person (all the「C. C. Yang from Kansas」references at the 1965 麥迪遜結盟大會 and the 1966 UFAI founding in [[works/taiwaneseamericanhistory-org/ourjourneys81-eng|81 (English memoir)]] are 楊宗昌, not 楊朝諄): see [[works/taiwaneseamericanhistory-org/whos-c-c-yang|1006. C. C. Yang 楊宗昌 / 2016/05]]. Do not merge.
+- Disambiguation: the corpus records a **second「C. C. Yang」— 楊宗昌 of the Kansas campus circle**, a distinct person (all the「C. C. Yang from Kansas」references at the 1965 麥迪遜結盟大會 and the 1966 UFAI founding in [[works/taiwaneseamericanhistory-org/ourjourneys81-eng|81 (English memoir)]] and the Feb 13 attendance roster naming 「Tsung-chang Yang (C.C. Yang)」 in [[works/taiwaneseamericanhistory-org/ourjourneys65-eng|65-eng]] are 楊宗昌, not 楊朝諄): see [[works/taiwaneseamericanhistory-org/whos-c-c-yang|1006. C. C. Yang 楊宗昌 / 2016/05]]. Do not merge.
 - HOLD: a「C. C. Yang」appears in the signatory roster of the Pew-recorded Taiwanese American community statement ([[works/taiwaneseamerican-org/pew-research-center-taiwanese-american-statement|Pew Research: Taiwanese American statement]]), listed next to Sandy Chou (Taiwanese Association of greater Seattle). The corpus does not state which C. C. Yang (楊朝諄 vs 楊宗昌) signed — do not attribute without evidence.
 
 ## Family
