@@ -53,3 +53,5 @@ HOLD: the same concert write-up names the trio's pianist once as 「黃煐煐」
 - [[works/taiwaneseamericanhistory-org/concerts104|Two Cranes International Music Festival]]
 - [[works/taiwaneseamericanhistory-org/65-yin-yin-huang|65. Yin Yin Huang 黃煐媖]]
 2026-09-26 re-grep (黃煐媖 / Acevedo Music, DEEPEN-X slice 09251000-5): same hit set (65-yin-yin-huang, concerts104, index, 2024+2025 concert reposts, unrelated Paraguayan Acevedo news under HOLD) — SKIP-content: verified-saturated, nothing new absorbable.
+
+2026-09-26 re-grep (黃煐媖 / Acevedo Music, DEEPEN-X slice 09260400-28): same hit set (65-yin-yin-huang, concerts104, index, 2024+2025 concert write-ups, unrelated Paraguayan Acevedo under HOLD) — SKIP-content: verified-saturated, nothing new absorbable; 黃煐煐/黃煐媖 typo HOLD stands.
