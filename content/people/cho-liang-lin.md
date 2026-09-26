@@ -114,3 +114,5 @@ Facts already present in vault pages citing Cho-Liang Lin (no new sources):
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - [[people/tyzen-hsiao||Tyzen Hsiao (蕭泰然)]]
 - [[works/taiwaneseamericanhistory-org/ourjourneys269||Our Journeys 269 — Akron 音樂會見證]]
+
+<!-- TJJ-A09260400-9: verified 2026-09-26 — subject links in slice 09260400-9 articles (064fe05a08d0aecf / a428dcebbceacf38 / 04f32b14d8cf8f12 / 1fbc7a8aff9cd26e) re-checked vs 正文; all real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->

@@ -1,0 +1,4 @@
+people/alice-yu.md
+organizations/l-a-study-group.md
+people/s-j-lin.md
+people/wen-yih-sun.md

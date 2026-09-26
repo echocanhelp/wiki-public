@@ -1,0 +1,4 @@
+people/kai-li-cheng.md
+people/t-k-lin.md
+people/z-h-yang.md
+organizations/global-alliance-for-democracy-and-peace.md

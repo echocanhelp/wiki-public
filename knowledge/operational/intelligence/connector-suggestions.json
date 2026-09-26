@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-25T07:00:31.492260",
+  "generated_at": "2026-09-26T07:00:34.799394",
   "pages_scanned": 2916,
   "capped": true,
   "cap_top_n": 80,
   "summary": {
-    "co_citation_count": 4855,
-    "co_mention_count": 10354,
+    "co_citation_count": 4937,
+    "co_mention_count": 10450,
     "shared_tags_count": 0,
     "orphan_folder_count": 3,
     "kept_co_citation": 80,
@@ -93,7 +93,7 @@
         "shared_target": "articles/taiwanjustice-net/2025/20250209211009_旅美五十周年-_-鄭炳全_438dc69b91722b16",
         "page1_title": "Alumni Association of Chia Yi High School Worldwide (AACHW)",
         "page2_title": "Taiwanese American Arts Association",
-        "shared_targets_count": 11
+        "shared_targets_count": 12
       },
       {
         "type": "CO-CITATION",
@@ -102,16 +102,25 @@
         "shared_target": "articles/taiwanjustice-net/2025/20250209211009_旅美五十周年-_-鄭炳全_438dc69b91722b16",
         "page1_title": "Alumni Association of Chia Yi High School Worldwide (AACHW)",
         "page2_title": "Taiwanese American Association of Los Angeles-East San Gabriel Valley(TAA-ESGV)",
-        "shared_targets_count": 11
+        "shared_targets_count": 12
+      },
+      {
+        "type": "CO-CITATION",
+        "page1": "organizations/alumni-association-of-chia-yi-high-school-worldwide.md",
+        "page2": "organizations/taiwanese-american-pen-club.md",
+        "shared_target": "articles/taiwanjustice-net/2025/20250209211009_旅美五十周年-_-鄭炳全_438dc69b91722b16",
+        "page1_title": "Alumni Association of Chia Yi High School Worldwide (AACHW)",
+        "page2_title": "Taiwanese American Pen Club",
+        "shared_targets_count": 12
       },
       {
         "type": "CO-CITATION",
         "page1": "organizations/alumni-association-of-chia-yi-high-school-worldwide.md",
         "page2": "organizations/taiwanese-american-soft-tennis-association.md",
-        "shared_target": "articles/taiwanjustice-net/2025/20250209211009_旅美五十周年-_-鄭炳全_438dc69b91722b16",
+        "shared_target": "articles/taiwanjustice-net/2024/20240302033647_root_589391185e9bd8c3",
         "page1_title": "Alumni Association of Chia Yi High School Worldwide (AACHW)",
         "page2_title": "Taiwanese American Soft Tennis Association",
-        "shared_targets_count": 11
+        "shared_targets_count": 8
       },
       {
         "type": "CO-CITATION",
@@ -165,7 +174,7 @@
         "shared_target": "works/taiwaneseamerican-org/pew-research-center-taiwanese-american-statement",
         "page1_title": "American Citizens for Taiwan (西雅圖美台會)",
         "page2_title": "East Bay Taiwanese Association (北加州)",
-        "shared_targets_count": 73
+        "shared_targets_count": 81
       },
       {
         "type": "CO-CITATION",
@@ -174,7 +183,7 @@
         "shared_target": "works/taiwaneseamerican-org/pew-research-center-taiwanese-american-statement",
         "page1_title": "American Citizens for Taiwan (西雅圖美台會)",
         "page2_title": "Formosan Association for Public Affairs Los Angeles(FAPA-LA)",
-        "shared_targets_count": 73
+        "shared_targets_count": 81
       },
       {
         "type": "CO-CITATION",
@@ -183,7 +192,7 @@
         "shared_target": "works/taiwaneseamerican-org/pew-research-center-taiwanese-american-statement",
         "page1_title": "American Citizens for Taiwan (西雅圖美台會)",
         "page2_title": "North America Taiwanese Women's Assoc. Southern CA Chapter NATWA-SC",
-        "shared_targets_count": 73
+        "shared_targets_count": 81
       },
       {
         "type": "CO-CITATION",
@@ -192,7 +201,7 @@
         "shared_target": "works/taiwaneseamericanhistory-org/ourjourneys76-eng",
         "page1_title": "Ann Arbor Taiwanese Association (安雅堡)",
         "page2_title": "Manhattan, KS Chapter / TAA (全美台灣同鄉會曼哈頓分會)",
-        "shared_targets_count": 52
+        "shared_targets_count": 53
       },
       {
         "type": "CO-CITATION",
@@ -201,7 +210,7 @@
         "shared_target": "works/taiwaneseamericanhistory-org/ourjourneys76-eng",
         "page1_title": "Ann Arbor Taiwanese Association (安雅堡)",
         "page2_title": "Taiwanese American Association Atlanta (亞特蘭大)",
-        "shared_targets_count": 52
+        "shared_targets_count": 53
       },
       {
         "type": "CO-CITATION",
@@ -210,7 +219,7 @@
         "shared_target": "works/taiwaneseamericanhistory-org/ourjourneys76-eng",
         "page1_title": "Ann Arbor Taiwanese Association (安雅堡)",
         "page2_title": "Taiwanese American Association Greater Cleveland (克里夫蘭)",
-        "shared_targets_count": 52
+        "shared_targets_count": 53
       },
       {
         "type": "CO-CITATION",
@@ -291,7 +300,7 @@
         "shared_target": "works/taiwaneseamericanhistory-org/ourjourneys321-eng",
         "page1_title": "Ann Arbor Taiwanese Association (安雅堡)",
         "page2_title": "Asia Democracy Foundation (民主亞洲基金會)",
-        "shared_targets_count": 13
+        "shared_targets_count": 14
       },
       {
         "type": "CO-CITATION",
@@ -300,7 +309,7 @@
         "shared_target": "works/taiwaneseamericanhistory-org/ourjourneys321-eng",
         "page1_title": "Ann Arbor Taiwanese Association (安雅堡)",
         "page2_title": "Professor Chen Wen-Chen Memorial Foundation (陳文成教授紀念基金會)",
-        "shared_targets_count": 13
+        "shared_targets_count": 14
       },
       {
         "type": "CO-CITATION",
@@ -310,6 +319,15 @@
         "page1_title": "Taiwan Student Association at the University of Michigan",
         "page2_title": "Taiwanese American Student Association at the University of Michigan",
         "shared_targets_count": 3
+      },
+      {
+        "type": "CO-CITATION",
+        "page1": "organizations/ann-arbor-taiwanese-association.md",
+        "page2": "people/yung-hwa-hsu.md",
+        "shared_target": "works/taiwaneseamericanhistory-org/ann-arbor-chapter-taa",
+        "page1_title": "Ann Arbor Taiwanese Association (安雅堡)",
+        "page2_title": "Yung Hwa Hsu (許永華)",
+        "shared_targets_count": 2
       },
       {
         "type": "CO-CITATION",
@@ -507,7 +525,7 @@
         "shared_target": "works/taiwaneseamericanhistory-org/ourjourneys281",
         "page1_title": "Asian Senior Concerns Foundation (亞裔銀髮族關懷基金會)",
         "page2_title": "I-Jen Chen (陳一仁醫師)",
-        "shared_targets_count": 2
+        "shared_targets_count": 3
       },
       {
         "type": "CO-CITATION",
@@ -715,24 +733,6 @@
         "page1_title": "Austin Taiwanese Association (奧斯丁)",
         "page2_title": "Huntsville Taiwanese American Association (亨城)",
         "shared_targets_count": 15
-      },
-      {
-        "type": "CO-CITATION",
-        "page1": "organizations/bliss-wisdom-foundation-of-north-america.md",
-        "page2": "organizations/lapc-music-foundation.md",
-        "shared_target": "works/taiwaneseamericanhistory-org/los-angeles-melody-chorus",
-        "page1_title": "Bliss & Wisdom Foundation of North America (北美福智基金會)",
-        "page2_title": "LAPC Music Foundation (洛杉磯樂音音樂基金會)",
-        "shared_targets_count": 3
-      },
-      {
-        "type": "CO-CITATION",
-        "page1": "organizations/bliss-wisdom-foundation-of-north-america.md",
-        "page2": "people/j-s-liu.md",
-        "shared_target": "works/taiwaneseamericanhistory-org/los-angeles-melody-chorus",
-        "page1_title": "Bliss & Wisdom Foundation of North America (北美福智基金會)",
-        "page2_title": "J. S. Liu (劉佳欣)",
-        "shared_targets_count": 3
       }
     ],
     "co_mention": [

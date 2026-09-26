@@ -73,3 +73,5 @@ last_reviewed: 2026-09-25
 - 2019-12-20 — 面對退將吳斯懷「願為中華民國粉身碎骨」發言，作為民進黨「下架吳斯懷」運動發起人的吳怡農回應「選舉語言、聽聽就好」，指吳斯懷不知社會不認同其立場、理念與國家認同，不適合擔任立委；民進黨並排定12月29日於黨部前北平東路辦「護國保台，下架吳斯懷」晚會（自由時報報導 via [[articles/taiwanjustice-net/2026/20260115091334_吳斯懷_粉身碎骨_說-吳怡農_聽聽就好_下架_8559790a51be8817|TJJ, 2019-12-20]]）。
 - 2022-09-28 — 以壯闊台灣聯盟發起人身分入選美國時代雜誌 2022 TIME 100 Next；時代雜誌東亞記者 Charlie Campbell 撰文介紹其平民緊急應變訓練與後盾計畫，並指他為民進黨在政治、外交、公民義務領域日益重要的顧問（[[articles/taiwanjustice-net/2022/20221127052618_2022_09_28_吳怡農推動緊急應變訓練-入選2022時代雜誌次世代百_58ad99649eba6f6f|TJJ, 2022-09-28]]）。
 - 2020-06-20 — 台灣公義報「台灣頭條」分類存檔（2020-06-25 快照）收錄「陳其邁21日偕吳怡農見邁粉 拉近與年輕人距離」，記錄高雄市長補選期間他偕同陳其邁见面会派年輕支持者（[[articles/taiwanjustice-net/2020/20200625150753_category_taiwan_page_3_11761bdaa78af55f|TJJ 台灣頭條存檔頁3, 2020-06-25 快照]]）。
+
+<!-- TJJ-A09260400-9: verified 2026-09-26 — subject links in slice 09260400-9 articles (064fe05a08d0aecf / a428dcebbceacf38 / 04f32b14d8cf8f12 / 1fbc7a8aff9cd26e) re-checked vs 正文; all real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->

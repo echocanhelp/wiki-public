@@ -52,3 +52,5 @@ last_reviewed: 2026-09-25
 - [[organizations/taiwanjustice-net||taiwanjustice.net (台灣公義網)]]
 - [[articles/taiwanjustice-net/index||taiwanjustice.net Article Archive]]
 - [[people/freeman-huang||Freeman Huang (黃樹人)]]
+
+<!-- TJJ-A09260400-9: verified 2026-09-26 — subject links in slice 09260400-9 articles (064fe05a08d0aecf / a428dcebbceacf38 / 04f32b14d8cf8f12 / 1fbc7a8aff9cd26e) re-checked vs 正文; all real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->

@@ -69,3 +69,5 @@ Re-check 2026-09-16 (slice 09160600-14): hit set again identical — all absorbe
 - Corpus re-grep 2026-09-16 (slice 09160700-11): hit set against content/works + content/articles unchanged from prior passes — every hit is a page already linked/absorbed on this page (band B bibliography + memoir/community material above). Nothing new absorbable; no new conflicts. SKIP-no-new-material.
 - Corpus re-grep 2026-09-16 (slice 09162138-7): hit set again identical (NATWA 會史 OJ 60 ZH+EN, 月曆史 OJ 160, TAH #37/#2201, index) — all absorbed under Role in the Community; 2005-presidency HOLD stands. SKIP-no-new-material.
 - New on re-grep 2026-09-16 (slice 09162200-5): she appears as 楊美麗(經濟) among the ~170 NTU alumni co-signatories of the 2018 protest letter against 南加州台大校友會 inviting 管中閔 to the annual meeting — moved under From the record (TJJ-A slice 09191200-2, 2026-09-21).
+
+<!-- TJJ-A09260400-9: verified 2026-09-26 — subject links in slice 09260400-9 articles (064fe05a08d0aecf / a428dcebbceacf38 / 04f32b14d8cf8f12 / 1fbc7a8aff9cd26e) re-checked vs 正文; all real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->

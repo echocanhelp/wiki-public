@@ -1,7 +1,7 @@
 # Connector suggestions (capped top 80)
 
-- co_citation total=4855 kept=80
-- co_mention total=10354 kept=40
+- co_citation total=4937 kept=80
+- co_mention total=10450 kept=40
 - shared_tags total=0 kept=0
 
 ## Top co-citation
@@ -15,6 +15,7 @@
 - organizations/alumni-association-of-chia-yi-high-school-worldwide.md ↔ organizations/joint-chinese-university-alumni-association-of-southern-california.md
 - organizations/alumni-association-of-chia-yi-high-school-worldwide.md ↔ organizations/taiwanese-american-arts-association.md
 - organizations/alumni-association-of-chia-yi-high-school-worldwide.md ↔ organizations/taiwanese-american-association-of-los-angeles-east-san-gabriel-valley.md
+- organizations/alumni-association-of-chia-yi-high-school-worldwide.md ↔ organizations/taiwanese-american-pen-club.md
 - organizations/alumni-association-of-chia-yi-high-school-worldwide.md ↔ organizations/taiwanese-american-soft-tennis-association.md
 - organizations/alumni-association-of-chia-yi-high-school-worldwide.md ↔ people/alan-t-chen.md
 - organizations/alumni-association-of-chia-yi-high-school-worldwide.md ↔ people/freeman-huang.md
@@ -29,4 +30,3 @@
 - organizations/ann-arbor-taiwanese-association.md ↔ organizations/taiwanese-american-association-greater-cleveland.md
 - organizations/ann-arbor-taiwanese-association.md ↔ organizations/formosan-association-for-human-rights.md
 - organizations/ann-arbor-taiwanese-association.md ↔ organizations/taiwan-student-association-at-the-university-of-michigan.md
-- organizations/ann-arbor-taiwanese-association.md ↔ organizations/taiwanese-american-student-association-at-the-university-of-michigan.md
