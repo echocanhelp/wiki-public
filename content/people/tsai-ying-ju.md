@@ -6,7 +6,7 @@ name_zh: "蔡瀛如"
 tags: [person, family]
 verification_status: owner-verified
 publish: false  # owner gate 2026-09-20: family-privacy; vault keeps full record, site must not emit
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Tsai Ying-ju (蔡瀛如)
 
@@ -36,6 +36,7 @@ last_reviewed: 2026-09-25
 - 本頁 corpus 檢索（2026-09-23, DEEPEN-X slice 09221300-15）：全名 蔡瀛如／Tsai Ying-ju 於 works/articles 零命中；唯一痕跡仍為 ourjourneys340「內人瀛如」段落（主修鋼琴、引介陳毓襄予蕭泰然），事實已吸收 — SKIP：無新可吸收事實。
 - 本頁 corpus 檢索（2026-09-24, DEEPEN-X slice 09230800-5）：檢索 蔡瀛如／Tsai Ying-ju／瀛如 命中僅 ourjourneys340（已 wikilink 並吸收於 Role in the Community）— SKIP：無新可吸收事實，無衝突需 HOLD。
 - 本頁 corpus 檢索（2026-09-25, DEEPEN-X slice 09240700-24）：全名 蔡瀛如／Tsai Ying-ju 於 works/articles 零命中（家族頁交叉引用除外）；既有事實（ourjourneys340 引介陳毓襄、Desert Springs 照片）維持原載 — SKIP：無新可吸收事實。
+- 本頁 corpus 檢索（2026-09-26, DEEPEN-X slice 09251000-9）：全名 蔡瀛如／Tsai Ying-ju 於 works/articles 零命中 — SKIP：無新可吸收事實。
 
 ## NEED YOU
 - Birth date/place; marriage date

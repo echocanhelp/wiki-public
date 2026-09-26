@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Ed Lin (林艾德)
 
@@ -48,3 +48,4 @@ Waylaid (2002) won a Members' Choice Award at the Asian American Literary Awards
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - 2026-09-23 corpus re-grep (DEEPEN-X slice 09221200-30): hit-set unchanged — same records already absorbed/wikilinked above; nothing new absorbable. SKIP-content.
+- 2026-09-26 corpus re-grep (DEEPEN-X slice 09251000-8; 林艾德/Ed Lin/林景南): hit-set unchanged — TAH #120, #2081, works index, and the taiwaneseamerican-org tour/interview/event records already wikilinked above. Verified-saturated; SKIP-content, nothing new absorbable; 林艾德 vs 林景南 name HOLD maintained.
