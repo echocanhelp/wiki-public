@@ -47,3 +47,4 @@ _SKIP-with-reason (deepen-x 0917-25; re-grepped slices 09171100-11, 09180200-31)
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 <!-- deepen-x 09231200-21: re-verify — fresh ZH+EN grep of works/+articles/; hit set identical to prior passes, all hits already linked; no new absorbable corpus facts. -->
+<!-- deepen-x slice 09250600-2 recheck 2026-09-25: SKIP — fresh ZH+EN grep of works/+articles returned only own TAH work-page records + harvest index (already linked on this page); no new memoir or third-party material. -->
