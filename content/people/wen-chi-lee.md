@@ -64,4 +64,5 @@ last_reviewed: 2026-09-26
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 - Re-verified 2026-09-25 (slice 09240317-20): fresh ZH+EN re-grep works/+articles/ — hit set identical to the works already wikilinked above; corpus-saturated, SKIP-for-deepening.
+ - Re-verified 2026-09-26 (slice 09260400-25): fresh ZH+EN grep works/+articles/ — hit set identical to the works already wikilinked above (own bylines #20/#138/#413/#80/publication1279/mystories437 + index); verified-saturated, nothing new absorbable. SKIP.
  Re-grep 2026-09-25 (slice 09250700-22): fresh ZH+EN grep — hit set identical to records already absorbed/linked above; verified-saturated, nothing new, no conflicts. SKIP.
