@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Sarolina Chang (沈麗華)
 
@@ -66,3 +66,4 @@ slice 09230317-20 re-grep (2026-09-24): corpus hit set identical to links alread
 2026-09-25
 
 > Corpus re-grep  (slice 09250700-27): fresh ZH+EN re-grep against works/articles — hit set identical to records already absorbed and linked above; no new absorbable community facts. SKIP: verified-saturated.
+> Corpus re-grep (slice 09260500-8): fresh ZH+EN re-grep (沈麗華|Sarolina) — hit set identical to records already linked (104 profile, 68, 454, 455, 50875, literature-1338); no new absorbable facts. SKIP: verified-saturated.

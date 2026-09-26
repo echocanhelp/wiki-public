@@ -63,3 +63,4 @@ _No filled family fields on the TAH profile._
 - 再核（deepen-x slice 09251400-2, 2026-09-26）：fresh grep 鄭錦家|Chin-Cha Cheng 命中集不變（whos958、33 專訪、2018 台大校友連署公開信、index），與已吸收紀錄一致 — SKIP，無新材料。
 
 <!-- TJJ-A09260400-9: verified 2026-09-26 — subject links in slice 09260400-9 articles (064fe05a08d0aecf / a428dcebbceacf38 / 04f32b14d8cf8f12 / 1fbc7a8aff9cd26e) re-checked vs 正文; all real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+- 再核（deepen-x slice 09260500-2, 2026-09-26）：fresh grep 鄭錦家|Chin-Cha Cheng 命中集不變（whos958、33 從癌末重生專訪、2018 台大校友連署公開信、index），與已吸收紀錄一致 — SKIP，無新材料。

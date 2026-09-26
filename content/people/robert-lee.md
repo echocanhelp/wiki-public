@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Robert Lee (李席舟)
 
@@ -59,3 +59,4 @@ Accomplishment
 2026-09-25
 
 > Corpus re-grep  (slice 09250700-27): fresh ZH+EN re-grep against works/articles — hit set identical to records already absorbed and linked above; no new absorbable community facts. SKIP: verified-saturated.
+> Corpus re-grep (slice 09260500-8): fresh ZH+EN re-grep (李席舟|Robert Lee) — hit set identical to absorbed set (TAH #1868, ourjourneys233, works index, unrelated Robert E. Lee 雕像報導). SKIP: verified-saturated.
