@@ -42,6 +42,8 @@ last_reviewed: 2026-09-26
 
 _Re-grepped 2026-09-22 (slice 15) and 2026-09-25 (slice 09231400-8): still only his own encyclopedia page + works index for 陳學同/H. T. Chen. SKIP: nothing absorbable in-vault._
 
+_Re-grepped 2026-09-26 (slice 09251031-29): fresh ZH+EN grep of works+articles — hit set identical ([[works/taiwaneseamericanhistory-org/whoswho967|TAH #967]] + works/index). SKIP: corpus-saturated, nothing absorbable._
+
 ## Sources
 - [TAH #967 encyclopedia: 967. H. T. Chen 陳學同 / 2016/05](https://taiwaneseamericanhistory.org/whoswho967/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/h-t-chen/)

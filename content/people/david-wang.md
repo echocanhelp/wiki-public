@@ -43,6 +43,8 @@ _No filled family fields on the TAH profile._
 - [TAH #2282 encyclopedia: 2282. David Wang 王思眾](https://taiwaneseamericanhistory.org/whos-who-2282-david-wang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/david-wang/)
 
+<!-- deepen-x slice 09251031-29 2026-09-26: fresh ZH+EN grep (David Wang / 王思眾) of works+articles — hit set identical: own record [[works/taiwaneseamericanhistory-org/whos-who-2282-david-wang|TAH #2282]] + works/index digest line. SKIP: corpus-saturated, nothing absorbable. -->
+
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

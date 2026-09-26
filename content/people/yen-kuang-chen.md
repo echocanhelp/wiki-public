@@ -50,3 +50,4 @@ Corpus review 2026-09-19, re-grep 2026-09-21 and 2026-09-22 (slice 09210900-16) 
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 <!-- deepen-x slice 09231400-30 2026-09-25: re-grep (Yen-Kuang Chen) — only own record whoswho1363 + works/index. SKIP: still no memoir/article mentions. -->
+<!-- deepen-x slice 09251031-29 2026-09-26: fresh ZH+EN grep (Yen-Kuang Chen / 陳彥光) of works+articles — hit set identical: own record [[works/taiwaneseamericanhistory-org/whoswho1363|TAH #1363]] + works/index digest line. SKIP: corpus-saturated, nothing absorbable. -->
