@@ -49,6 +49,7 @@ last_reviewed: 2026-09-26
 - 2026-09-24 (slice 09230700-10) idempotent re-verify: fresh grep 楊千鶴/Ho Yang Lin — same hits, all already linked above; no new facts. Verified-saturated SKIP.
 - 2026-09-25 (slice 09240700-21) idempotent re-verify: fresh grep 楊千鶴/Ho Yang Lin — same hits (publications112, publications-111, whoswho1311, 這些人這些事 tag archive), all already linked above; no new facts. Verified-saturated SKIP.
 - 2026-09-26 (DEEPEN-X slice 09251000-9) idempotent re-verify: fresh grep 楊千鶴/Ho Yang Lin — same hits (publications112, publications-111, whoswho1311, 這些人這些事 tag archive), all already linked above; no new facts. Verified-saturated SKIP.
+- 2026-09-26 (DEEPEN-X slice 09260500-10) idempotent re-verify: fresh grep 楊千鶴/Ho Yang Lin — same hits (publications112, publications-111, whoswho1311, 這些人這些事 tag archive), all already linked above; no new facts. Verified-saturated SKIP; 林千鶴/張顏千鶴 HOLDs stand.
 
 ## Sources
 - [TAH #1311 encyclopedia: 1311. Ho Yang Lin 楊千鶴/ 2016/10](https://taiwaneseamericanhistory.org/whoswho1311/)
