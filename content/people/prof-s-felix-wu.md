@@ -44,6 +44,7 @@ _No filled family fields on the TAH profile._
 - Corpus re-greps 2026-09-19 and 2026-09-21: no memoir or community-activity mentions beyond the record above; nothing absorbable this pass — SKIP-content, no conflicts found.
 
 - SKIP re-verify (2026-09-25, deepen-x slice 09231300-9): fresh grep 吳士駿/Felix Wu returns only [[works/taiwaneseamericanhistory-org/whos-who-2030-s-felix-wu|TAH #2030]] and index lines — no memoir mentions; nothing absorbable.
+- SKIP re-verify (2026-09-25, slice 09250600-8): fresh grep 吳士駿/Felix Wu — own record + index only; nothing absorbable.
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

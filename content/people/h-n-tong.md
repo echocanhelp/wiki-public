@@ -38,6 +38,7 @@ _No filled family fields on the TAH profile._
 - Attended the 1991 camp meeting at Des Moines, Iowa, per the year-by-year roster in [[works/taiwaneseamericanhistory-org/our-journeys-351|Our Journeys 351]].
 - His encyclopedia record is held in the corpus at [[works/taiwaneseamericanhistory-org/whoswho1631|TAH #1631]].
 - Corpus re-grep 2026-09-25 (deepen-x 09231300-1): hit set unchanged (whoswho1631, ourjourneys296, our-journeys-351, index); all corpus material already absorbed above. Saturated.
+- Re-verify 2026-09-25 (deepen-x 09250600-12): fresh ZH+EN grep of works/+articles/ returns the identical hit set — SKIP (nothing absorbable).
 
 ## Sources
 - [TAH #1631 encyclopedia: 1631. H. N. Tong 童海南 / 2017/05](https://taiwaneseamericanhistory.org/whoswho1631/)

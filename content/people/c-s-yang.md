@@ -42,6 +42,7 @@ Accomplishment
 ## Role in the Community
 - Corpus record: TAH Who's Who entry 1836 (published 2017-08-13, value band B) is the sole corpus trace for this physician — no memoir/community mentions found in works/articles — [[works/taiwaneseamericanhistory-org/whos-who-1836-c-s-yang|1836. Dr. C. S. Yang 楊彰興醫師]].
 - Corpus re-check 2026-09-25 (slice 09231200-26): ZH+EN greps of works/articles return the identical hit set (1836, 2051, index) — nothing new absorbable.
+- Re-verify 2026-09-25 (slice 09250600-12): fresh ZH+EN grep returns the identical hit set (1836, 2051, index) — SKIP (nothing absorbable); HOLD on 楊嘉善 stands.
 - HOLD: corpus entry [[works/taiwaneseamericanhistory-org/whos-who-2051-c-s-yang|2051. C. S. Yang 楊嘉善]] (2018) shares the "C. S. Yang" romanization but a different 漢名 (楊嘉善) — treated as a separate person, not merged.
 
 ## Related Pages

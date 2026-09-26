@@ -39,6 +39,7 @@ _No filled family fields on the TAH profile._
 - Corpus scan (content/works, content/articles): no further memoir or article mentions of 高山嵐 beyond the own-record page.
 
 - Deepen recheck 2026-09-25 (slice 09231200-14): fresh grep 高山嵐/Kao San Lan — own record + works index only; SKIP-with-reason.
+- Deepen recheck 2026-09-25 (slice 09250600-8): fresh grep 高山嵐/Kao San Lan — own record [[works/taiwaneseamericanhistory-org/whos-who-2273-kao-san-lan|TAH #2273]] + works index only; still no memoir mentions; SKIP.
 
 ## Sources
 - [TAH #2273 encyclopedia: 2273. Kao San Lan 高山嵐](https://taiwaneseamericanhistory.org/whos-who-2273-kao-san-lan/)

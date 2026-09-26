@@ -40,6 +40,7 @@ _No filled family fields on the TAH profile._
 - Re-grepped 2026-09-21 / 2026-09-22 (slices 09201503-20, 09211507-32): corpus hits remain only this own-record and the works index entry [[works/taiwaneseamericanhistory-org/whos-who-1844-ting-chao-chou|TAH #1844]]; no memoir or article mentions — nothing further absorbable.
 
 > Deepen pass 2026-09-25 (slice 09231300-5): VERIFIED — fresh ZH+EN grep of works/ + articles/ returns only own TAH #1844 record and works/index; no memoir mentions. SKIP (nothing absorbable).
+> Re-verify 2026-09-25 (slice 09250600-12): fresh ZH+EN grep returns the identical hit set (whos-who-1844 + index) — SKIP (nothing absorbable).
 ## Sources
 - [TAH #1844 encyclopedia: 1844. Prof. Ting-Chao Chou 周廷潮教授](https://taiwaneseamericanhistory.org/whos-who-1844-ting-chao-chou/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-ting-chao-chou/)
