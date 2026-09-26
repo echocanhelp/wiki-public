@@ -6,7 +6,7 @@ tags:
   - Taiwanese-American
   - Taiwan-Center-group-member
 verification_status: published
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # JHB Foundation
 
@@ -28,6 +28,8 @@ last_reviewed: 2026-09-25
 - **Content priority C:** Independent history not expanded from listing alone  
 
 - Re-verified 2026-09-25 (slice 09232337-25): grep 佳和/JHB hits are taiwanjustice-net 佳和集團 (翁茂鍾-era construction group) — different entity from LA 佳和文教基金會; nothing absorbable; SKIP stands.
+
+- Re-verified 2026-09-26 (slice 09251054-5): 佳和/JHB hits remain taiwanjustice-net false positives (胡佳和、林佳和、佳和集團 construction) — no LA 佳和文教基金會 material; SKIP stands.
 
 ## Related Pages
 

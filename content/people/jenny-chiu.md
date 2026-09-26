@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Jenny Chiu (邱正鵑)
 
@@ -38,6 +38,8 @@ _No filled family fields on the TAH profile._
 
 ## Role in the Community
 - Profiled in the TAH Foundation Who's Who record [[works/taiwaneseamericanhistory-org/whos-who-1801-jenny-chiu|1801. Jenny Chiu 邱正鵑]] (published 2017-07-30). No further community-record facts in the corpus beyond the press-kit entry (reverified 2026-09-20 slice 09181300-26, 2026-09-22 slice 09211300-30, and 2026-09-25 slice 09232232-20: works/articles scan returns only the works index and this own record).
+
+- 2026-09-26 re-grep (slice 09251054-5): 邱正鵑 / Jenny Chiu returns only works index + own TAH record; still press-kit-only. SKIP stands.
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

@@ -30,6 +30,7 @@ last_reviewed: 2026-09-26
 
 ## Role in the Community
 - Name appears only in its own TAH Who's Who profile record [[works/taiwaneseamericanhistory-org/330-jack-w-su-e8-98-87-e6-96-87-e6-9d-b0|330. Jack W. Su 蘇文杰 / 2015/03]] (2015/03). No mentions found in memoirs or articles on fresh 2026-09-22 ZH+EN corpus greps — biographical detail beyond the TAH profile remains unknown (SKIP-with-reason; no absorbable community facts).
+- Corpus re-grep 2026-09-26 (slice 09251054-4, ZH+EN): still silent beyond [[works/taiwaneseamericanhistory-org/330-jack-w-su-e8-98-87-e6-96-87-e6-9d-b0|TAH #330]] and the works index (SKIP-with-reason).
 
 ## Family
 

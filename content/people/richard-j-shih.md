@@ -37,6 +37,7 @@ _No filled family fields on the TAH profile._
 ## Role in the Community
 - TAH Foundation Who's Who record **#1221** (published 2016-08-06): [[works/taiwaneseamericanhistory-org/whoswho1221|1221. Richard J. Shih 石正岡 / 2016/08]] — bibliographic record only; full biographical text stays in the TAH vault.
 - Corpus re-grep 2026-09-25 (slice 09232232-16): the only hit across works/ and articles/ remains this page's own TAH encyclopedia record — no memoir/community narrative to absorb (SKIP-deepened this pass).
+- Corpus re-grep 2026-09-26 (slice 09251054-4, ZH+EN): still silent — hits limited to [[works/taiwaneseamericanhistory-org/whoswho1221|TAH #1221]] and the works index; no absorbable community facts (SKIP-with-reason).
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/richard-j-shih/)
