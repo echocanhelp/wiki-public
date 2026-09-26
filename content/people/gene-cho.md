@@ -40,6 +40,7 @@ Gene Cho, Professor of Music, has been on the UNT faculty since 1972. He receive
 - The TAH page's "Daughter: ???" remains unresolved in the corpus; no biographical detail absorbable beyond the two directory records above. Corpus re-grep 2026-09-21 (slice 09201500-27): hit set unchanged (own two directory records + works index) — verified saturated.
 
 ## Sources
+- Re-grep 2026-09-26 (slice 09251023-10): corpus hits re-confirmed = own directory records (#669, #303 typo-variant) + index only. Verified saturated; nothing new absorbable. SKIP.
 - [TAH #669 encyclopedia: 669. Gene Cho 卓仁祥/ 2015/10](https://taiwaneseamericanhistory.org/669-gene-cho-%e5%8d%93%e4%bb%81%e7%a5%a5-201510/)
 - [TAH #303 encyclopedia: 303. Gene Hco卓仁祥 Musician/ 2015/10](https://taiwaneseamericanhistory.org/303-gene-hco%e5%8d%93%e4%bb%81%e7%a5%a5-201510/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/gene-cho/)

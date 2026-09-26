@@ -43,6 +43,7 @@ From the community record (our memoirs, primary material):
 - His own TAH encyclopedia entry: [[works/taiwaneseamericanhistory-org/818-chi-shun-hwang-e9-bb-83-e6-99-ba-e8-88-9c-201602|TAH #818, 2016/02]].
 
 ## Worklog
+- 2026-09-26 deepen-x slice 09251023-10: re-verified — fresh ZH+EN grep returns the identical hit set already absorbed and wikilinked above (TAH #818, Our Journeys 36/227/263). SKIP-content — saturated.
 - 2026-09-24 deepen-x slice 09230800-23: re-verified — fresh grep of works+articles returns the identical hit set already absorbed and wikilinked above (TAH #818, Our Journeys 36/227/263). SKIP.
 - 2026-09-23 deepen-x slice 09221400-8: re-verified — fresh grep of works+articles returns the identical hit set already absorbed and wikilinked above; no new corpus material. Nothing further absorbable.
 - 2026-09-22 deepen-x slice 09220500-20: re-verified — identical hit set (TAH #818, Our Journeys 36/227/263) already absorbed above; nothing new absorbable.
