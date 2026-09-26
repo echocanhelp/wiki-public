@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Winnie Lan-In Yang (楊嵐茵)
 
@@ -40,6 +40,8 @@ Dr. Lan-In Winnie Yang has enjoyed successes not only as a pianist, but also as 
 ## Family
 
 _No filled family fields on the TAH profile._
+
+複核（deepen-x slice 09260400-6 2026-09-26）：重新 grep 楊嵐茵 / Winnie Lan-In Yang，命中集不變（僅 #236、#491、works/index）— saturated，SKIP。
 
 ## Sources
 - [TAH #236 encyclopedia: 236. Winnie Lan-In Yang楊嵐茵, Pianist, Composer / 2015/07](https://taiwaneseamericanhistory.org/236-winnie-lan-in-yang-pianist-composer/)

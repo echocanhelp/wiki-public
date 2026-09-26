@@ -45,6 +45,8 @@ _Corpus re-scan 2026-09-21: same hits (#47, #235, #123/eng, #228, memoir #372) a
 - **Daughter:** Katherine
 
 
+<!-- deepen-x slice 09260400-6 re-verify 2026-09-26: fresh ZH+EN grep hit set unchanged (#47, #235, #123/eng, #228, memoir #372) — all contexts already absorbed. Verified-saturated. -->
+
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/wen-yen-chen/)
 
