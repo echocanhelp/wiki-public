@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # James Ger (葛原隆醫師)
 
@@ -54,3 +54,4 @@ Re-verified 2026-09-25 (deepen-x slice 09250400-10): identical hit set (own-byli
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+Re-verified 2026-09-26 (deepen-x slice 09252123-8): identical hit set (own-bylines #625, #385 + works index) — corpus-saturated, SKIP.

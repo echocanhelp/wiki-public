@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Pin-Shan Peter Chen (陳品山教授)
 
@@ -49,3 +49,4 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- Re-verified 2026-09-26 (deepen-x slice 09252123-8): fresh grep for 陳品山/Pin-Shan returns only his own TAH #2127 record and the works index — corpus-saturated, SKIP.

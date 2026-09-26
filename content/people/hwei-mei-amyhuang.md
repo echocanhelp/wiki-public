@@ -52,3 +52,5 @@ last_reviewed: 2026-09-26
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+<!-- deepen-x slice 09251527-21 (2026-09-26): re-verified — fresh ZH+EN grep of works/ + articles/ returns only own TAH #933 record + works/index rollup; matches 2026-09-25 saturation checks; nothing new absorbable — verified-saturated, SKIP content-deepen. -->

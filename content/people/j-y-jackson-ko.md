@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # J. Y. Jackson Ko (柯哲洋)
 
@@ -47,3 +47,4 @@ last_reviewed: 2026-09-25
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - Re-verified 2026-09-25 (deepen-x slice 09250400-11): fresh ZH+EN grep hit set identical to already-absorbed/already-held records -- saturated, SKIP.
+- Re-verified 2026-09-26 (deepen-x slice 09252123-8): fresh grep hits remain whoswho1768, ourjourneys12 (already absorbed), and the works index — corpus-saturated, SKIP.
