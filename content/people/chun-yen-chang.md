@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Chun-Yen Chang (張俊彥)
 
@@ -52,3 +52,4 @@ SKIP-with-reason: corpus scan of `works/` and `articles/` found no primary commu
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 <!-- deepen-x 09200900-15: re-verified 2026-09-21 — corpus grep (ZH+EN) hits only own TAH record(s) in content/works; no new memoir/community material to absorb. -->
+<!-- deepen-x 09251031-6: re-verify — fresh grep (ZH+EN): hits only own record whoswho952 + works index; SKIP persists. -->

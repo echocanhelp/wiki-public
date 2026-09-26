@@ -5,7 +5,7 @@ redirect_to: organizations/taiwaneseamerican-org
 tags:
   - redirect
 verification_status: redirect
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 
 # Moved
@@ -32,4 +32,4 @@ _(none extracted yet — primary material is the 9750-page corpus under `works/t
 
 Chronological events for **Taiwaneseamerican Org**:
 
-_(none yet — this is a redirect stub.)_
+_(none yet — this is a redirect stub; re-checked 2026-09-26 — deepen stays on canonical [[organizations/taiwaneseamerican-org]], no dual-write.)_

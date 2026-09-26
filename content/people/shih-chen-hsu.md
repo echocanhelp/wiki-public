@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Shih-Chen Hsu (許世真)
 
@@ -47,3 +47,4 @@ last_reviewed: 2026-09-25
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+<!-- deepen-x 09251031-6: fresh grep 許世真/Shih-Chen Hsu → hit set identical to already-linked works (my-stories-654, whos-who-2140, ourjourneys18/-eng); all WTWA facts absorbed. No new material. -->
