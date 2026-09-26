@@ -85,3 +85,5 @@ last_reviewed: 2026-09-23
 - 2021-07-03 — 以【台文通訊】01–50期總編輯身分名列「台文通訊30週年慶祝會ONLINE」特別來賓名單（7/3 台灣時間線上舉行，同场來賓含林皙陽牧師、陳柏壽牧師、周清玉、李勤岸、蘇正玄、葉國基等历代總編輯）（[[articles/taiwanjustice-net/2021/20210920145945_2021_06_29_台文通訊30週年慶祝會online_52a71221d3029866|TJJ, 2021-06-29 公告]]）。
 - 2021-10-30 — 「台文通訊30冬紀念獎」頒獎典禮（線上）以世界台灣文化論壇共同發起人身分居來賓之列（同场來賓含前文化部長鄭麗君、陳文成紀念基金會楊黃美幸；承辦即世界台灣文化論壇）（[[articles/taiwanjustice-net/2021/20211207125658_2021_10_28_台文通訊30冬紀念獎-頒獎典禮part130日舉行_753347eb4cf48066|TJJ, 2021-10-28]]）。
 <!-- TJJ-A09240800-12: verified 2026-09-25 — subject links in slice 09240800-12 articles confirmed real; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+- 連結複核（TJJ-A09251300-4, 2026-09-26）：本 slice 四篇 TJJ 文章（6d9cd937 台灣入WHO論壇公告／accbf8ee 劉雲平AZ疫苗信函／bff4c711 祝賀蕭美琴履任／ad7f737b 第55回世界臺灣文化論壇）subject 連結逐一正文再驗證——本頁人物確認見於正文，連結為真，無錯鏈、無虛鏈；對應日期事實條目（含該文 wikilink）已在庫 — SKIP，已飽和。
+

@@ -75,3 +75,5 @@ _No filled family fields on the TAH profile._
 - TAH Who's Who 收錄為第 1539 條（2017-02 刊），corpus 內有獨立紀錄：[[works/taiwaneseamericanhistory-org/whoswho1539|TAH #1539: David Yang 楊熾勳 / 2017/02]]。
 - NATMA（北美洲台灣人醫師協會）前南加州分會會長：2021-05 「台灣入WHO論壇」即以該身分與三位前總會長同場（見上方 From the record）。
 - Corpus re-grep 2026-09-20 / 2026-09-21 / 2026-09-22: hit set unchanged (whoswho1539, ourjourneys186/-eng, 338 鮭魚回歸, 10 返台任職羅東聖母醫院) — all corpus facts already absorbed above; no new material.
+- 連結複核（TJJ-A09251300-4, 2026-09-26）：本 slice 四篇 TJJ 文章（6d9cd937 台灣入WHO論壇公告／accbf8ee 劉雲平AZ疫苗信函／bff4c711 祝賀蕭美琴履任／ad7f737b 第55回世界臺灣文化論壇）subject 連結逐一正文再驗證——本頁人物確認見於正文，連結為真，無錯鏈、無虛鏈；對應日期事實條目（含該文 wikilink）已在庫 — SKIP，已飽和。
+

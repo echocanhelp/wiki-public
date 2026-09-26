@@ -89,3 +89,5 @@ Re-grep 劉雲平 / Ted Lieu across content/works + content/articles returned th
 - Corpus re-grep (deepen-x slice 09162200-9, 2026-09-16): same six work pages (募款會, #6, events-2020-12, my-stories-787, #4, #155), all already wikilinked. SKIP-no-new-material.
 - Corpus re-grep 2026-09-17 (slice 09170130-7): hit set unchanged (募款會, #6 census-checkbox, events-2020-12, my-stories-787, #4, #155), all already wikilinked. SKIP-no-new-material.
 - Corpus re-grep 2026-09-17 (slice 09170500-2): hit set unchanged (募款會, #6, events-2020-12, my-stories-787, #4, #155, whos-who-156 書目頁, TJJ 存檔頁已引於 From the record). SKIP-no-new-material.
+- 連結複核（TJJ-A09251300-4, 2026-09-26）：本 slice 四篇 TJJ 文章（6d9cd937 台灣入WHO論壇公告／accbf8ee 劉雲平AZ疫苗信函／bff4c711 祝賀蕭美琴履任／ad7f737b 第55回世界臺灣文化論壇）subject 連結逐一正文再驗證——本頁人物確認見於正文，連結為真，無錯鏈、無虛鏈；對應日期事實條目（含該文 wikilink）已在庫 — SKIP，已飽和。
+

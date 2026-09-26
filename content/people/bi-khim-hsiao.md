@@ -44,6 +44,8 @@ _No filled family fields on the TAH profile._
 
 ## From the record
 
+- 複核（TJJ-A09251300-2, 2026-09-26）：本 slice 兩篇同文快照 4a5080befc342f69／2c5d3c7d4f5acccc（戴琪與鄧振中視訊、重啟TIFA）正文再驗證——蕭美琴以駐美代表身份列席會談之記述確認見於正文，subject 連結為真，無錯鏈、無虛鏈；2021-06-10 條目（已含兩檔 wikilink）均已在庫 — SKIP，已飽和。
+
 - 複核（TJJ-A09251000-13, 2026-09-26）：本 slice 文章 760a0bc942e1676b（VOA：台灣祝賀拜登、賀錦麗就職）正文再驗證——蕭美琴獲 JCCIC 直接邀請出席就職儀式及錄製祝賀視頻記述確認見於正文，subject 連結為真，無錯鏈、無虛鏈；對應日期事實條目（含該文 wikilink）已在庫 — SKIP，已飽和。
 - 複核（TJJ-A09250900-2, 2026-09-26）：slice 文章 9d523cc5290c997b 正文再驗證——本篇書寫對象（父親筆下的女兒）即本人，subject 連結為真，無錯鏈、無虛鏈；2020-07-26 條目（含該文 wikilink）已在庫 — SKIP，已飽和。
 
@@ -234,3 +236,5 @@ _No filled family fields on the TAH profile._
 <!-- TJJ-A09250700-1: verified 2026-09-26 — subject links in slice 09250700-1 articles (c4d413fd / 8c205697 / 8842b0e0 / e041055e) confirmed real vs 正文; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A09250800-4: verified 2026-09-26 — subject links in slice 09250800-4 articles (6f2b431c / 08b82976 / 1a2bdc08 / 53455d7e) re-checked vs 正文; all real (1a2bdc08 Subjects links fixed: stray .md suffix removed); dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+- 連結複核（TJJ-A09251300-4, 2026-09-26）：本 slice 四篇 TJJ 文章（6d9cd937 台灣入WHO論壇公告／accbf8ee 劉雲平AZ疫苗信函／bff4c711 祝賀蕭美琴履任／ad7f737b 第55回世界臺灣文化論壇）subject 連結逐一正文再驗證——本頁人物確認見於正文，連結為真，無錯鏈、無虛鏈；對應日期事實條目（含該文 wikilink）已在庫 — SKIP，已飽和。
+
