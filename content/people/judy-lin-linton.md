@@ -58,3 +58,4 @@ Consistency check: the memoir's "nine years old in Feb 1980" matches the page's 
 
 Re-verified 2026-09-25 (slice 09240600-24): fresh ZH+EN grep of works/ + articles/ returned only records already linked and absorbed on this page; SKIP: verified-saturated, no new absorbable facts.
 Re-verified 2026-09-26 (slice 09250900-25): fresh grep 林奐均 + Judy Linton/Judy Lin returns the same set (my-stories 700/702, TAH #1557, ourjourneys69 ZH/EN, CD #533); SKIP: verified-saturated, no new absorbable facts.
+Re-verified 2026-09-26 (slice 09260400-19): fresh grep 林奐均 + Linton returned the same set (my-stories 700/702, TAH #1557, ourjourneys69 ZH/EN, CD #533, mystories337); SKIP: verified-saturated, no new absorbable facts.

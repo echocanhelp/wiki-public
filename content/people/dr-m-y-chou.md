@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Dr. M. Y. Chou (周美吟博士)
 
@@ -57,6 +57,8 @@ Corpus re-grep 2026-09-24 (slice 09230317-18, 周美吟 / M. Y. Chou): hit set u
 Corpus re-grep 2026-09-25 (slice 09240317-19, 周美吟 / M. Y. Chou): hit set unchanged (TAH #1829, works index, the two already-absorbed 台灣justice e-News articles) — SKIP: verified-saturated, nothing absorbable.
 
 Corpus re-grep 2026-09-25 (slice 09250700-19, 周美吟 / M. Y. Chou): hit set unchanged (TAH #1829, works index, the two already-absorbed 台灣justice e-News articles) — SKIP: verified-saturated.
+
+Corpus re-grep 2026-09-26 (slice 09260400-19, 周美吟 / M. Y. Chou): hit set unchanged (TAH #1829, works index, the two already-absorbed 台灣justice e-News articles) — SKIP: verified-saturated.
 
 ## Timeline
 - 2020-05-11 — 中研院防疫報導: 副院長周美吟出席研檢中心進駐宣布

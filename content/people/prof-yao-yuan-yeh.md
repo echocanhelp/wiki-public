@@ -43,6 +43,7 @@ _No filled family fields on the TAH profile._
 - Corpus re-grep 2026-09-24 (slice 09230600-22): same hit set (own record + index + the four TAJPNet reprints already wikilinked) — saturated; nothing absorbable, no conflicts.
 - Corpus re-grep 2026-09-25 (slice 09240600-29): fresh ZH+EN grep 葉耀元/Yao-Yuan Yeh returned the same hit set (own record #2145 + index + the four TAJPNet reprints already wikilinked above) — saturated; nothing absorbable, no conflicts.
 - Corpus re-grep 2026-09-26 (slice 09250900-27): fresh ZH+EN grep returned the identical hit set (own record whos-who-2145 + works index only in content/works; article hits all already wikilinked) — verified-saturated SKIP; no new memoir material, no conflicts.
+- Corpus re-grep 2026-09-26 (slice 09260400-19): one new hit — a 2022-08-15 TAJPNet reprint [[articles/taiwanjustice-net/2022/20220815034558_2022_07_26_陳時中_不怒而威_vs-柯文哲_怒而不威_-陳昭_a2f47526334b0189|TAJPNet 2022-07]] carrying his 柯文哲 two-explanations quote (the same quote already wikilinked under a 2023-05 reprint; that page dates the remark 2023-03-23 vs this reprint's 2022-07-26 context — HOLD: publication-date mismatch, same quote, no auto-merge). Otherwise saturated.
 
 ## Sources
 - [TAH #2145 encyclopedia: 2145. Prof. Yao-Yuan Yeh 葉耀元教授](https://taiwaneseamericanhistory.org/whos-who-2145-yao-yuan-yeh/)
