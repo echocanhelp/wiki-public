@@ -59,4 +59,6 @@ Accomplishment
 - Corpus re-grep 2026-09-25 (slice 09250700-18): SKIP-with-reason — hit set identical (ourjourneys154/162, video-184, mystories-752, ota-129, whos-who-847), all absorbed and wikilinked; saturated.
 
 
+- Corpus re-grep 2026-09-26 (slice 09260400-1): fresh grep 歐春美/Carol Ou Lin — work-page hits identical (ourjourneys154/162, video-184, mystories-752, ota-129, whos-who-847), all absorbed and wikilinked; extra article hits (TJJ 賴清德福袋/ROOT/不分區名單) contain no 歐春美 mention (泛詞 false positives). SKIP-with-reason: saturated.
+
 <!-- TJJ-A09251500-2: verified 2026-09-26 — subject links in slice 09251500-2 articles (1251d9ed 五大會館萊豬聲明 / 92ff3ef6 彭明敏研討會 / 6e021ae4 吳修銘任拜登特助 / e1e223aa 蘇姿丰年薪榜首) re-checked vs 正文; all real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->

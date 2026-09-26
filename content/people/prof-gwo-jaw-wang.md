@@ -61,3 +61,4 @@ Community memoirs document his standing in the Taiwanese American medical commun
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - 2026-09-26 corpus re-grep (slice 09250900-13): fresh grep 王國照／Gwo Jaw Wang — hit set identical (TAH #599, 返台記 #4, OJ 291/176/201, 自傳 #865); no new facts. Verified-saturated — SKIP.
+- 2026-09-26 corpus re-grep (slice 09260400-1): fresh grep 王國照／Gwo Jaw Wang — hit set identical (TAH #599/#76, 返台記 #4, OJ 291/176/201, 自傳 #865, works index); all absorbed. SKIP: verified-saturated.
