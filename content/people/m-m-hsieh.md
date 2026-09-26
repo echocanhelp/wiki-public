@@ -35,7 +35,7 @@ _No filled family fields on the TAH profile._
 
 ## Role in the Community
 - Recorded in the TAH Foundation Who's Who story corpus: [[works/taiwaneseamericanhistory-org/whoswho1574|1574. M. M. Hsieh 謝玫玫 / 2017/03]] (published 2017-03-22).
-- Corpus grep (ZH+EN against works/ and articles/): no mentions outside her own record — no memoir/community activity absorbed.
+- Corpus grep (ZH+EN against works/ and articles/): no mentions outside her own record (re-verified 2026-09-26) — no memoir/community activity absorbed.
 
 ## Sources
 - [TAH #1574 encyclopedia: 1574. M. M. Hsieh 謝玫玫 / 2017/03](https://taiwaneseamericanhistory.org/whoswho1574/)

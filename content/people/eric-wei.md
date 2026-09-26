@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Eric Wei (魏安仁)
 
@@ -30,7 +30,7 @@ last_reviewed: 2026-09-25
 
 ## Role in the Community
 
-- Own TAH encyclopedia record preserved in the corpus: [[works/taiwaneseamericanhistory-org/whos-who-1882-eric-wei|1882. Eric Wei 魏安仁]] (published 2017-09-07). This is the sole corpus mention — a bibliographic record only, with no memoir or article material beyond the Who's Who entry.
+- Own TAH encyclopedia record preserved in the corpus: [[works/taiwaneseamericanhistory-org/whos-who-1882-eric-wei|1882. Eric Wei 魏安仁]] (published 2017-09-07). This is the sole corpus mention — a bibliographic record only, with no memoir or article material beyond the Who's Who entry. Re-verified 2026-09-26 (ZH 魏安仁 + EN grep): own record only — SKIP: nothing absorbable.
 
 ## Family
 
