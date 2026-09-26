@@ -37,6 +37,7 @@ _No filled family fields on the TAH profile._
 
 ## Role in the Community
 - Corpus presence is limited to the TAH Who's Who directory record itself: [[works/taiwaneseamericanhistory-org/whos-who-1900-william-yeh|1900. William Yeh 葉振忠]] (published 2017-09-20, bibliographic record only). No memoir or article in the corpus elaborates his community activity; the美東玉山科技協會 chairmanship is sourced solely to the TAH directory. No Monte Jade association records found in the corpus.
+- Deepen pass 2026-09-26 (slice 18): SKIP — grep re-confirmed: 玉山科技 article hits concern the Taiwan/Cupertino Monte Jade association events (張忠謀 20 週年論壇, 和碩童子賢年會, 南加捐款), none mention 葉振忠 or the East Coast chapter — no new facts absorbable.
 
 ## Sources
 - [TAH #1900 encyclopedia: 1900. William Yeh 葉振忠](https://taiwaneseamericanhistory.org/whos-who-1900-william-yeh/)

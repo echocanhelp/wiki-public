@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # K.H. Huang (黃國雄)
 
@@ -37,7 +37,8 @@ _No filled family fields on the TAH profile._
 ## Role in the Community
 
 - Author of the TAH memoir essay 759.〈敬悼恩師前總統李登輝先生〉(2020/10), honoring Lee Teng-hui as his mentor (恩師) ([[works/taiwaneseamericanhistory-org/mystories-759|759. 敬悼恩師前總統李登輝先生]]).
-- Profiled in the TAH Foundation Who's Who entry 848 (2016/02) ([[works/taiwaneseamericanhistory-org/848-k-h-huang-e9-bb-83-e5-9c-8b-e9-9b-84-201602|848. K.H. Huang 黃國雄]]).
+- Profiled in the TAH Foundation Who's Who entry 848 (2016-02) ([[works/taiwaneseamericanhistory-org/848-k-h-huang-e9-bb-83-e5-9c-8b-e9-9b-84-201602|848. K.H. Huang 黃國雄]]).
+- Corpus re-check 2026-09-26 (slice 09251039-12, 'K.H. Huang'/'黃國雄', works+articles): hits remain only his own profile #848, his own essay 759, the works index, and the TJJ tag page already linked under "From the record"; no new community mentions to absorb. Nothing new absorbable; no conflicts to hold.
 
 ## Sources
 - [TAH #848 encyclopedia: 848. K.H. Huang 黃國雄/ 2016/02](https://taiwaneseamericanhistory.org/848-k-h-huang-%e9%bb%83%e5%9c%8b%e9%9b%84-201602/)
