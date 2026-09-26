@@ -58,3 +58,4 @@ Rachel Lin began her violin lessons when she was 8 years old with Dr. Lee Tai Hs
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 - Corpus re-grep 2026-09-26 (DEEPEN-X slice 09250900-31): hit-set identical — #164/#321 encyclopedia records and the works index, all already cited. SKIP-content, nothing new absorbable.
+- Corpus re-grep 2026-09-26 (DEEPEN-X slice 09260400-31): hit-set identical — #164/#321 encyclopedia records and the works index, all already cited. SKIP-content, nothing new absorbable.

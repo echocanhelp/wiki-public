@@ -63,6 +63,8 @@ last_reviewed: 2026-09-26
 
 - 2018-07-20 — Signed as 劉惠麗(心理) among the ~170 台大校友 co-signatories of the open letter protesting 南加州台大校友會 inviting 管中閔 to speak at its 2018 annual meeting amid the disputed 校長遴選 case ([[articles/taiwanjustice-net/2018/20180721091303_2018_07_20_抗議-南加州台大校友會邀管中閔來年會做專題演講_a428dcebbceacf38|TJJ, 2018-07-20]]).
 
+2026-09-26 re-grep (劉惠麗 / Huey Li Liu, DEEPEN-X slice 09260400-28): fresh ZH+EN grep over content/works + content/articles returned the same saturated set (mystories503, mystories-745, mystories-761, publications1046 台美人生命腳跡, 77-collection, own Who's Who record) — SKIP-content: verified-saturated, nothing new absorbable.
+
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

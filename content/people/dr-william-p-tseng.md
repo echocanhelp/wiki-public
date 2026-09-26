@@ -47,6 +47,7 @@ Dr. William P. Tseng 曾伯聰醫師 – History of Taiwanese American (T.A. Arc
 - 2026-09-24（slice 09230800-6）再grep（曾伯聰／William P. Tseng）：命中仍僅本身出處 [[works/taiwaneseamericanhistory-org/whos-who-1862-william-p-tseng|TAH #1862]] 與 works/index.md，無回憶錄或文章提及。SKIP-content（verified-saturated）：無可吸收新事實、無衝突須 HOLD。
 - 2026-09-25（slice 09240700-21）再grep（曾伯聰／William P. Tseng）：命中仍僅本身出處 [[works/taiwaneseamericanhistory-org/whos-who-1862-william-p-tseng|TAH #1862]] 與 works/index.md。SKIP-content（verified-saturated）：無可吸收新事實、無衝突須 HOLD。
 - 2026-09-26（slice 09251000-8）再grep（曾伯聰／William P. Tseng）：命中仍僅本身出處 [[works/taiwaneseamericanhistory-org/whos-who-1862-william-p-tseng|TAH #1862]] 與 works/index.md。SKIP-content（verified-saturated）：無可吸收新事實、無衝突須 HOLD；「曾伯元」辨析備註維持。
+- 2026-09-26（slice 09260400-31）再grep（曾伯聰／William P. Tseng）：命中仍僅本身出處 [[works/taiwaneseamericanhistory-org/whos-who-1862-william-p-tseng|TAH #1862]] 與 works/index.md，無回憶錄或文章提及。SKIP-content（verified-saturated）：無可吸收新事實、無衝突須 HOLD。
 
 ## Sources
 - [TAH #1862 encyclopedia: 1862. Dr. William P. Tseng 曾伯聰醫師](https://taiwaneseamericanhistory.org/whos-who-1862-william-p-tseng/)
