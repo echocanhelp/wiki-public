@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Shih Pao Lin (林世寶)
 
@@ -36,7 +36,7 @@ _No filled family fields on the TAH profile._
 
 ## Role in the Community
 - Two TAH story-corpus records hold 林世寶's community footprint: the artist feature [[works/taiwaneseamericanhistory-org/artist8|8. 林世寶 Shih-Pao Lin]] (2014-09-05) and the Who's Who entry [[works/taiwaneseamericanhistory-org/whoswho1102|1102. Shih Pao Lin 林世寶]] (2016-06-22).
-- The 2014 artist record is consistent with the TAH Who's Who bio above (exhibited work Heavenly Timing, Earthly Advantage, Human Harmony I-V, 51″x51″, mixed media); no date or identity conflicts found in the corpus.
+- The 2014 artist record is consistent with the TAH Who's Who bio above (exhibited work Heavenly Timing, Earthly Advantage, Human Harmony I-V, 51″x51″, mixed media); no date or identity conflicts found in the corpus; re-grep 2026-09-26 found no mentions beyond these two records and the works index.
 
 ## Sources
 - [TAH #1102 encyclopedia: 1102. Shih Pao Lin 林世寶 / 2016/06](https://taiwaneseamericanhistory.org/whoswho1102/)
