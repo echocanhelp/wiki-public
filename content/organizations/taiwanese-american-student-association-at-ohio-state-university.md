@@ -5,7 +5,7 @@ redirect_to: organizations/taiwanese-american-student-association-ohio-state-uni
 tags:
   - redirect
 verification_status: redirect
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-26
 ---
 
 # Moved
@@ -13,6 +13,8 @@ last_reviewed: 2026-09-21
 Canonical page: **[[organizations/taiwanese-american-student-association-ohio-state-university|Taiwanese American Student Association Ohio State University]]**.
 
 Former provisional slug: `taiwanese-american-student-association-at-ohio-state-university`.
+
+2026-09-26 (slice 09251100-10): corpus re-grep done against the canonical page — hit set unchanged (Our Journeys 76 EN / 376, OSU 會訊, 2013 ITASA Midwest Conference, MAASU recap, two 2013 TASA-at-OSU event records); no new absorbable material. Canonical page is verified-saturated; this stub stays a pure redirect.
 
 ## Works
 
