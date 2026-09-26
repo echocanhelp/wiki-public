@@ -36,7 +36,7 @@ last_reviewed: 2026-09-25
 
 - Named among the supporters of the 世界台灣人美術展覽 (World Taiwanese Art Exhibition) through the 紐澤西同鄉會 (New Jersey Taiwanese Association), alongside 徐福棟、徐福棟夫人、林興隆, in the exhibition's acknowledgements written by 黃根深 ([[works/taiwaneseamericanhistory-org/ourjourneys256|256. 寫在畫展之前 / 黃根深 /10/2016]]) — placing him in the New Jersey Taiwanese community's cultural-organizing circle.
 - His own TAH Who's Who encyclopedia entry is held as bibliographic record at [[works/taiwaneseamericanhistory-org/766-gou-chung-chi-e7-b4-80-e5-9c-8b-e9-90-98-201601|766. Gou-Chung Chi 紀國鐘 /2016/01]].
-- Corpus re-verified 2026-09-25 (slice 09231300-4): fresh ZH+EN greps of works/+articles/ return only #766 (bibliographic, linked above) and ourjourneys256 (紐澤西同鄉會 acknowledgement roster, already absorbed); no new absorbable community material.
+- Corpus re-verified 2026-09-25 (slice 09231300-4; re-check slice 09250500-23): fresh ZH+EN greps of works/+articles/ return only #766 (bibliographic, linked above) and ourjourneys256 (紐澤西同鄉會 acknowledgement roster, already absorbed); no new absorbable community material.
 
 ## Family
 
