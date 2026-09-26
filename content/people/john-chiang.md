@@ -122,6 +122,7 @@ His childhood experience with racial discrimination shaped his worldview. He wit
 
 ## From the record
 
+- 連結複核（TJJ-A09251000-6, 2026-09-26）：本 slice 目錄頁 b1e144ecc18e460f（English Pages）subject 連結逐一對照正文收錄條目——全部為真，無錯鏈、無虛鏈；對應日期事實條目（含該文 wikilink）已在庫 — SKIP，已飽和。
 - 複核（TJJ-A09250400-16, 2026-09-25）：本 slice 文章 2b4b26ff68b75bc6（English Pages 目錄頁, 2017-11-09 快照）正文再驗證——John Chiang 專欄條目確認見於正文，subject 連結為真，無錯鏈、無虛鏈；2017-09-08 條目（含該文 wikilink）已在庫 — SKIP，已飽和。
 
 - 覆核（TJJ-A09250400-5, 2026-09-25）：本 slice 文章 c351c962b4545bfa（English Pages p2, 2020-06-26 快照）正文再驗證——「John Chiang︰Hear what Californians have to say about our future」專欄條目確認見於正文 ——subject 連結為真，無錯鏈、無虛鏈；對應日期事實（含該文 wikilink）已在庫 — SKIP，已飽和。 [[articles/taiwanjustice-net/2020/20200626022615_category_english-pages_page_2_c351c962b4545bfa|TJJ c351c962]]

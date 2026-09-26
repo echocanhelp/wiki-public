@@ -48,6 +48,8 @@ _No filled family fields on the TAH profile._
 
 ## From the record
 
+- 複核（TJJ-A09251000-9, 2026-09-26）：slice 文章 e9ec20fd58bf6b1c（長青教室標籤頁 p6, 2024-06-21 快照）正文再驗證——心得報告條目歸屬為真，無錯鏈、無虛鏈；對應日期事實（含該文 wikilink）已在庫 — SKIP，已飽和。
+
 - 複核（TJJ-A09230700-6, 2026-09-24）：本 slice 文章 e9ec20fd58bf6b1c（長青教室標籤頁 p6）正文再驗證——「長青教室 心得報告: 植牙與口腔的再春/ 講員:洪錦鈺與洪遠相兩位醫師/ 11-07-2012」條目確認見於正文，subject 連結為真，無錯鏈、無虛鏈；2012-11-07 條目已在庫並掛鏈本檔 — SKIP，無新材料。
 
 - 2012-11-07 — With Dr. 洪遠相, gave the 長青教室 talk 「植牙與口腔的再春」 on dental implants and oral health (心得報告 posted 2012-11-08) ([[articles/taiwanjustice-net/2024/20240621163532_root_e9ec20fd58bf6b1c|TJJ tag page, archived 2024-06-21]]).

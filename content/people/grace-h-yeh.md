@@ -31,6 +31,8 @@ TAH lists her as the first appointed organist of [[organizations/formosan-presby
 
 ## From the record
 
+- 複核（TJJ-A09251000-9, 2026-09-26）：slice 文章 a244776e9eb57979（海頓音樂欣賞課報導, 2023-01-29 快照）正文再驗證——subject 連結為真實提及，無錯鏈、無虛鏈；含該文 wikilink 的日期事實條目已在庫 — SKIP，已飽和。
+
 - 複核（TJJ-A09250400-11, 2026-09-25）：本 slice 文章 b4e27e98036e15d0（海頓音樂欣賞課報導, 2016-06-06 刊） 正文再驗證——本頁 subject 連結為真實提及，無錯鏈、無虛鏈；含該文 wikilink 的日期事實條目已在庫 — SKIP，無新材料。
 
 - 覆核（TJJ-A09240800-8, 2026-09-25）：slice 文章 a1be6b822ac7cdcd（圓滿的100, 2022-01-10 刊）——張信惠（音樂科班）伉儷專欄滿100期慶賀記述再確認見於正文，與 zhang-xinhui 別名頁同為一人、雙鏈保留，連結為真，無錯鏈、無虛鏈；2022-01-09 條目（已含該文 wikilink）已在庫 — SKIP，無新材料。
