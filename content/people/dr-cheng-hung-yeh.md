@@ -30,7 +30,7 @@ last_reviewed: 2026-09-26
 
 ## Role in the Community
 
-_Corpus checks 2026-09-21, 2026-09-22 (slice 09210500-27) and 2026-09-25 (slice 09231400-1): the only text hits in the works/articles corpus are this page's own TAH bibliographic record [[works/taiwaneseamericanhistory-org/whos-who-2124-cheng-hung-yeh|TAH #2124 (2018-06)]] and its `works/index` listing; no memoir or movement material mentions 葉澄鴻, so no community facts are absorbable. SKIP-with-reason recorded._
+_Corpus checks 2026-09-21, 2026-09-22 (slice 09210500-27), 2026-09-25 (slice 09231400-1), and 2026-09-26 (slice 09251031-25): the only text hits in the works/articles corpus are this page's own TAH bibliographic record [[works/taiwaneseamericanhistory-org/whos-who-2124-cheng-hung-yeh|TAH #2124 (2018-06)]] and its `works/index` listing; no memoir or movement material mentions 葉澄鴻, so no community facts are absorbable. SKIP-with-reason recorded._
 
 ## Family
 
