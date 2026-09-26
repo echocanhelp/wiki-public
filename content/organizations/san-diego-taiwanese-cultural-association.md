@@ -30,6 +30,7 @@ The San Diego Taiwanese Cultural Association (SDTCA, 聖地牙哥台灣同鄉會
 _Corpus re-grep 2026-09-23: same hits (project-3-41 ZH/ENG, directory record, TAA chapter record, 鄉訊 newsletter, ourjourneys337/162/328, tcsd-summer-camp, seniororg6) — all already linked above; page saturated, nothing new._
 _Corpus re-grep 2026-09-24 (deepen-x slice 09230600-28): fresh ZH+EN grep returns the same hit set (project-3-41 ZH/ENG, directory record, TAA chapter record, newsletter-sdtca, ourjourneys337) — all linked/absorbed; verified saturated._
 _Corpus re-grep 2026-09-25 (deepen-x slice 09240600-30): fresh ZH+EN grep returns the same hit set (project-3-41 ZH/ENG, directory record, TAA chapter record, newsletter-sdtca, ourjourneys337) — all linked/absorbed; verified saturated._
+_Corpus re-grep 2026-09-26 (deepen-x slice 09260317-8): chapter's own hit set unchanged/saturated; new hits are neighbouring San Diego org records — 聖地牙哥台灣人網球協會 ([[works/taiwaneseamericanhistory-org/sdtta|sdtta]], 2016) and 聖地雅歌台灣基督長老教會 ([[works/taiwaneseamericanhistory-org/san-diego-taiwanese-presbyterian-church|san-diego-taiwanese-presbyterian-church]], 2016), bibliographic records only — recorded here as ecosystem context, not chapter facts; nothing new absorbable, no conflicts._
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/san-diego-taiwanese-cultural-association/)
