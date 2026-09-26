@@ -68,6 +68,8 @@ Visiting Professor of World Religion
 
 ## From the record
 
+- 覆核（TJJ-A09260400-26, 2026-09-26）：本 slice 文章 c4d413fd5efb8a9c（FAHR 41週年年會報導） 正文再驗證——subject 連結為真實提及，無錯鏈、無虛鏈；含該文 wikilink 的日期事實條目已在庫 — SKIP，已飽和。
+
 - 複核（TJJ-A09240400-4, 2026-09-25）：本 slice 文章 c4d413fd 正文再驗證——林天民教授相關報導條目確認見於正文，subject link 為真（無錯鏈、無虛鏈）；2017-12-14 條目（已掛該文 wikilink）已在庫 — SKIP，無新材料。
 
 - 複核（TJJ-A09221500-11, 2026-09-24）：本 slice 文章 c4d413fd（FAHR 41週年年會報導）正文再驗證——「林天民教授講宗教新聞@20171214」相關報導條目確認見於正文，subject link 為真實對應（無錯鏈、無虛鏈）；2017-12-14 條目（已掛該文 wikilink）已在庫 — SKIP，無新材料。

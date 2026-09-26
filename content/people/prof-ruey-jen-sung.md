@@ -38,6 +38,7 @@ last_reviewed: 2026-09-26
 
 - 複核（deepen-x slices 09201400→09230900-2，至 2026-09-24）：历次 re-grep 宋瑞珍 / Ruey-Jen Sung 命中集均不變（Our Journeys 142、#1755、#9 返台記錄、TA Archives 2024-04 刊文、works index）— 全數已吸收於上列條目，saturated，SKIP-with-reason，無新社群材料可吸收。
 - 複核（deepen-x slice 09240900-1, 2026-09-25）：re-grep 宋瑞珍|Ruey-Jen Sung 命中集不變（ourjourneys142、#1755、#9、TA Archives 2024-04、index）— SKIP：已飽和，全數已 wikilink，無新材料。
+- 複核（deepen-x slice 09260500-1, 2026-09-26）：re-grep 宋瑞珍|Ruey-Jen Sung 命中集不變（ourjourneys142、#1755、#9、TA Archives 2024-04、index）— SKIP：已飽和，全數已 wikilink，無新材料。
 
 ## Family
 

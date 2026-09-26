@@ -58,6 +58,7 @@ last_reviewed: 2026-09-26
 - Corpus re-check 2026-09-24 (slice 09230900-7): grep 王寶田|Bao-Tyan Wang 重命中僅 TAH #282 書目、第14回世界台灣文化論壇 TJJ 文章×2、works index——與已吸收紀錄完全一致，無新材料，維持飽和。
 - Corpus re-check 2026-09-26 (slice 09251400-3): grep 王寶田|Bao-Tyan Wang re-hits only TAH #282 書目、第14回世界台灣文化論壇 TJJ 文章×2——命中集一致，維持飽和，無新材料。
 - Corpus re-check 2026-09-25 (slice 09240900-3): fresh grep 王寶田|Bao-Tyan Wang re-hits only TAH #282 書目、第14回世界台灣文化論壇 TJJ 文章×2、works index——與已吸收紀錄完全一致，維持飽和，無新材料。
+- Corpus re-check 2026-09-26 (slice 09260500-1): fresh grep 王寶田|Bao-Tyan Wang re-hits only TAH #282 書目、第14回世界台灣文化論壇 TJJ 文章×2、works index——命中集一致，維持飽和，無新材料。
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

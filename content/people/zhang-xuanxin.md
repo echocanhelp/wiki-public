@@ -33,6 +33,8 @@ In 2024/09 he appears in TAH's record of the Carnegie Hero Fund commission cerem
 
 ## From the record
 
+- 覆核（TJJ-A09260400-26, 2026-09-26）：本 slice 文章 8c20569762592915（南加州教會槍擊案中央社報導） 正文再驗證——subject 連結為真實提及，無錯鏈、無虛鏈；含該文 wikilink 的日期事實條目已在庫 — SKIP，已飽和。
+
 - 複核（TJJ-A09260400-23, 2026-09-26）：slice 文章 131a1c8ea05f85ea（台美人台加人 p360, 2024-07-15 快照）正文再驗證——「VOA專訪張宣信牧師：政治傾向不同不是敵人」條目確認見於正文，subject 連結為真，無錯鏈、無虛鏈；2022-05-19 條目（已掛該文 wikilink）已在庫 — SKIP，已飽和。
 
 - 複核（TJJ-A09251400-7, 2026-09-26）：slice 文章 8362234ba338aea7 正文再驗證——張宣信牧師與教友奮不顧身制服兇手確認見於正文，subject 連結為真，無錯鏈、無虛鏈；對應條目（已掛該文 wikilink）已在庫 — SKIP，已飽和。

@@ -35,6 +35,8 @@ _No filled family fields on the TAH profile._
 
 ## From the record
 
+- 覆核（TJJ-A09260400-26, 2026-09-26）：本 slice 文章 8842b0e0aad8032f（唐培理 GWU 座談 VOA 報導） 正文再驗證——subject 連結為真實提及，無錯鏈、無虛鏈；含該文 wikilink 的日期事實條目已在庫 — SKIP，已飽和。
+
 - 覆核（TJJ-A09260400-1, 2026-09-26）：本 slice 四篇 TJJ 文章（吳澧培回憶錄前言 9a39a754、唐培禮訃聞兩存檔 74f89ee8／5d471dbe、游朝凱中央社專訪 9c697378）均為前波已吸收文章之重複存檔；本頁 subject 連結經正文再驗證為真實提及（無錯鏈、無虛鏈），含各檔 wikilink 的日期事實條目已在庫 — SKIP，無新材料。
 
 - 複核（TJJ-A09251400-4, 2026-09-26）：本 slice 文章 92917d4c9a88eba2（自救宣言59週年國史館新書發表，da7f84e2 同稿 snapshot） 正文再驗證——本人生師身份與自救宣言案之記述確認見於正文，subject 連結為真，無錯鏈、無虛鏈；對應日期事實條目（含該文 wikilink）已在庫 — SKIP，已飽和。

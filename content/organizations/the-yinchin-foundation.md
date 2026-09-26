@@ -35,6 +35,7 @@ last_reviewed: 2026-09-26
 - 2026-09-23 deepen-x slice 09221300-17: re-verified (殷勤文教/殷清隆/殷敏寬/YIN CHIN) — hit set unchanged (awards67, whoswho1437, #40 profile, WHA 聲明 ×2, index); verified-saturated, SKIP.
 - 2026-09-25 deepen-x slice 09240800-19: DEEPENED — two new article/ hits absorbed (會館會訊 2018-06: 台美商會团体董事; 2020海外小英後援會籌備名單); hit set otherwise same as prior waves.
 - 2026-09-26 deepen-x slice 09251400-1: re-verified (殷勤/殷清隆/殷敏寬/YIN CHIN) — hit set unchanged (awards67, whoswho1437, #40 profile, WHA 聲明, index); new loose 殷勤 hits (LAGUNA WOODS chorale memoir, 蔡淑媛 夏日湖畔 essay) confirmed prose false positives (殷勤=assiduous/attentive); verified-saturated, SKIP.
+- 2026-09-26 deepen-x slice 09260500-1: re-verified (殷勤/殷清隆/殷敏寬/YIN CHIN) — hit set unchanged (awards67, whoswho1437, #40 profile, index); loose 殷勤 hits (LAGUNA WOODS chorale memoir, 蔡淑媛 夏日湖畔 essay) re-confirmed prose false positives (殷勤=assiduous/diligent hospitality); verified-saturated, SKIP.
 
 ## Source Notes
 

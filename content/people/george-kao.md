@@ -61,5 +61,6 @@ _No filled family fields on the TAH profile._
 - [[articles/taiwanjustice-net/2024/20240301071009_root_cbf185d4e8137928|廖清山 memoir — the quiet 'third man' (TJJ)]]
 - Corpus re-check 2026-09-25 (slice 09240900-2): fresh grep 高銘益/George Kao returns the identical hit set — own TAH record whoswho-2241 and the already-absorbed 廖清山 TJJ memoir column (which carries the full 高銘益 name-recall/2017-02 飲茶 reunion detail already in From the record) — no new community facts; verified saturated, SKIP-no-new-facts.
 - Corpus re-check 2026-09-26 (slice 09251400-1): fresh grep 高銘益/George Kao again hits only whoswho-2241, works/index, and the 廖清山 TJJ column — all already absorbed; verified saturated, SKIP-no-new-facts.
+- Corpus re-check 2026-09-26 (slice 09260500-1): fresh grep 高銘益/George Kao returns the identical hit set (whoswho-2241, works/index, 廖清山 TJJ column) — no new community facts; verified saturated, SKIP-no-new-facts.
 
 <!-- TJJ-A09260400-3: verified 2026-09-26 — slice 09260400-3 四篇（廖清山〈一顆難以忘懷的台灣心〉cbf185d4；楊遠薰《卓甫良與TAF的故事》兩存檔 f06677a4／e7aad53f；獨傲村夫〈反攻大陸（下）〉dd1007a6）subject links 正文再驗證均為真實提及，無錯鏈、無虛鏈；含各檔 wikilink 的日期事實條目已在庫 — saturated, no new material. -->
