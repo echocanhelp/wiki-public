@@ -65,3 +65,5 @@ Corpus re-grep 2026-09-23 (slice 09230317-9, Maggie Hsu / Mochi Magazine): hit s
 Corpus re-grep 2026-09-25 (slice deepen-x-slice-09231100-2): hit set identical（whos905、maggie-hsu-mochimag、SPARK Accel、Pew-era statement、Formosa Betrayed、index）— verified-saturated, SKIP, 無新材料；HOLD stands.
 
 Slice 09250317-4 corpus re-grep (2026-09-25): hit set identical (whos905、maggie-hsu-mochimag、SPARK Accel、Pew-era statement、Formosa Betrayed、index) — saturated, SKIP, 無新材料; HOLD on 2004-vs-2008 founding dates stands.
+
+Slice deepen-x-slice-09251500-1 corpus re-grep (2026-09-26): hit set identical (whos905, maggie-hsu-mochimag, SPARK Accel, Pew-era statement, Formosa Betrayed, index) — saturated, SKIP, 無新材料; HOLD on 2004-vs-2008 founding dates stands.
