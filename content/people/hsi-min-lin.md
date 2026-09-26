@@ -68,3 +68,4 @@ _No filled family fields on the TAH profile._
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 - 2026-09-25 — deepen-x 09240400-4 re-verify: fresh ZH+EN re-grep hit set unchanged (TJJ column + Wayback copy, TAH #1314, index). SKIP: page saturated.
+- 2026-09-25 — deepen-x 09250700-12 re-verify: fresh ZH+EN re-grep (林希明 / Hsi-Min Lin, works+articles) hit set unchanged (TJJ column 2c9cb76838702dd7 + Wayback copy 3260cd0bdf2f84d7, TAH #1314, index). SKIP: verified-saturated, no new corpus material.

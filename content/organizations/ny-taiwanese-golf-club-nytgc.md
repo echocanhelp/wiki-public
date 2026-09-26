@@ -30,6 +30,8 @@ NY Taiwanese Golf Club is a non-profit organization serving the Taiwanese Americ
 - Corpus re-grep 2026-09-24 (slice 09230400-12): hit set gained [[works/taiwaneseamericanhistory-org/georgia-tw-golf|喬治亞州台灣高爾夫球協會]] (2017-02-16) — a Georgia golf association record matching only on the generic 台灣高爾夫 substring, no NYTGC content; otherwise unchanged. SKIP-with-reason (saturated).
 - Corpus re-grep 2026-09-25 (slice 09240317-19, NYTGC / 紐約台灣人高爾夫 / NY Taiwanese Golf): hit set = the four absorbed records (nytgc 自述頁, 51053 王政卿感想, publications1211 年刊, works/index) plus one taiwanjustice-net 2025-06-16 article whose only match is "NYTGC" inside its archive_digest hash (false positive). No new material; prior georgia-tw-golf substring hit did not recur. SKIP-with-reason (saturated), no conflicts to hold.
 
+- Corpus re-grep 2026-09-25 (slice 09250700-12, NYTGC / 紐約台灣人高爾夫): hit set = the absorbed records (nytgc 自述頁, 51053 王政卿感想, works/index) plus the taiwanjustice-net 2025-06-16 archive-digest article matching only "NYTGC" in frontmatter (false positive). publications1211 年刊 remains absorbed. No new material. SKIP-with-reason (saturated), no conflicts to hold.
+
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/ny-taiwanese-golf-club-nytgc/)
 

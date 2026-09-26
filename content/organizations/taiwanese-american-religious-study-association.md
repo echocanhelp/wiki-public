@@ -37,6 +37,8 @@ The continuous 2014–2020 deposit trail shows an active lecture/publication pro
 
 *Re-grep 2026-09-25 (slice 09240400-1): fresh grep (台美人宗教研習會／信仰與人文研習會／TARSA) returns records 831-834, 923 and the TARSA-SC org record — all already linked in the Timeline above. Verified saturated.*
 
+*Re-grep 2026-09-25 (slice 09250700-9): fresh grep (台美人宗教研習會／信仰與人文研習會／TARSA) again returns only records 831-834, 923 and the TARSA-SC org record — all already linked in the Timeline above. Verified saturated; no new absorbable material.*
+
 ## Source Notes
 
 - **Content priority A:** Name on Taiwan Center group-members page  

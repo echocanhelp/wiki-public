@@ -62,3 +62,6 @@ Corpus re-grep 2026-09-21 (slice 09201400-24): 楊沛儒 / Perry Yang matches un
 
 ## Corpus re-grep (2026-09-25, slice 09240317-15)
 - SKIP: ZH+EN re-grep 楊沛儒 / Perry Yang（works + articles）命中集不變 — 本人條目 [[works/taiwaneseamericanhistory-org/whos-who-2002-perry-p-j-yang|TAH #2002]] 及 works index 而已；台美史料中心記錄已作為脈絡連結收錄。無新語料可吸收（saturated）。
+
+## Corpus re-grep (2026-09-25, slice 09250700-11)
+- SKIP: fresh ZH+EN re-grep 楊沛儒 / Perry P — hit set unchanged: his own TAH #2002 stub plus the works index only. No memoir names him; nothing new absorbable (saturated).

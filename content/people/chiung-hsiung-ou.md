@@ -50,6 +50,7 @@ NRC Senior Research Associate, Senior Microbiologist
 - 複核（deepen-x slice-09220800-16, 2026-09-22）：re-grep hit set identical（OJ 392/268/338、TAH #140/#829、works index）— 無新事實可吸收。SKIP, verified-saturated.
 - 複核（deepen-x slice-09230317-16, 2026-09-24）：re-grep 歐炯雄／Chiung-Hsiung Ou（works + articles）hit set identical（OJ 392/268/338、TAH #140/#829、works index）— 無新事實可吸收。SKIP, verified-saturated.
 - 複核（deepen-x slice-09240317-12, 2026-09-25）：re-grep 歐炯雄／Chiung-Hsiung Ou（works+articles）hit set identical — 無新事實可吸收。SKIP, verified-saturated。
+- 複核（deepen-x slice-09250700-15, 2026-09-25）：re-grep 歐炯雄／Chiung-Hsiung Ou（works+articles）hit set identical（OJ 392/268/338、TAH #140/#829、works index）— 無新事實可吸收。SKIP, verified-saturated.
 - HOLD: 首屆夏令會日期與地點衝突 — Our Journeys 392 記為利用美國國慶日（七月四日）假期、為期三夜四天、賓州唐寧頓四健會營區；Our Journeys 268 記為8月14–16日、YMCA營區。不自動合併。
 
 ## Sources

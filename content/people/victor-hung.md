@@ -62,3 +62,4 @@ Victor Hung is active in the Los Angeles Taiwanese American community both as pr
 
 - Re-check (deepen-x 2026-09-22): re-grep（洪家棟 / Victor Hung）hit set unchanged（522、521、104、whos-who-60、works index、TJJ 傳統週）— 飽和，無新增社群材料。
 - Re-check (deepen-x slice-09230317-17, 2026-09-24): re-grep（洪家棟 / Victor Hung）hit set unchanged（522、521、104、whos-who-60、works index、TJJ 傳統週 record）— SKIP: verified-saturated；Role in the Community / Timeline 已含全部語料事實。
+- Re-check (deepen-x slice-09250700-12, 2026-09-25): fresh re-grep（洪家棟 / Victor Hung, works+articles）hit set identical（#522、#521、#104、whos-who-60、works index、TJJ 傳統週 record）— 全部已吸收。SKIP: verified-saturated.

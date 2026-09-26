@@ -33,6 +33,7 @@ Absorbed from the TAH story corpus (salt-lake/utah re-grep 2026-09-18). The chap
 - Re-verified 2026-09-22 (slice 09220800-22): fresh 大鹽湖 / Greater Salt Lake / TAGSL grep returns only the own TAH record already linked — SKIP, saturated.
 - Re-verified 2026-09-24 (slice 09230317-21): re-grep again returns only the own TAH record plus the works/index listing — no new corpus mention; SKIP, verified-saturated.
 - Deepened 2026-09-25 (slice 09240317-25): Salt Lake grep surfaced ourjourneys352 (TAC-WC history) — absorbed above (Las Vegas–Salt Lake City region seat, 2019 SLC host).
+- Re-verified 2026-09-25 (slice 09250700-8): fresh 大鹽湖 / Greater Salt Lake / TAGSL grep returns only the own TAH record plus works/index — no new corpus mention; SKIP, verified-saturated.
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-association-of-the-greater-salt-lake/)

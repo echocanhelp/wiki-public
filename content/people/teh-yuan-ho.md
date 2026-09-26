@@ -56,6 +56,7 @@ Research/Teaching Specialist
 - SKIP-note (deepen-x slice 09220900-29, 2026-09-23): corpus re-grep (何德淵|Teh Yuan Ho) hit set identical — own TAH #1337 record + index + the two TaiwanJustice 長青教室 pages already cited above; no new absorbable corpus facts.
 - Re-verified 2026-09-24 (slice 09230400-11): fresh ZH+EN re-grep; hit set identical (whos-teh-yuan-ho + works index + 兩篇 TJJ 長青教室頁). 無新語料。SKIP: verified-saturated.
 - 複核（deepen-x slice-09240317-11, 2026-09-25）：fresh re-grep 何德淵|Teh Yuan Ho（works+articles）hit set = works/index + 兩篇 TJJ 長青教室頁（皆已引）。無新語料。SKIP: verified-saturated.
+- 複核（deepen-x slice-09250700-12, 2026-09-25）：fresh re-grep 何德淵|Teh Yuan Ho（works+articles）hit set = whos-teh-yuan-ho + works/index + 兩篇 TJJ 長青教室頁 23e163f71d3f2ba5 / e918947ff234901f（皆已引）。無新語料。SKIP: verified-saturated.
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/teh-yuan-ho/)
