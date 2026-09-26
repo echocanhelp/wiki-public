@@ -47,3 +47,4 @@ _No filled family fields on the TAH profile._
 <!-- deepen-x 09200800-31: SKIP — fresh grep 2026-09-21 (works/articles): own TAH record or unrelated substring hits only (Rutgers TSA, archive digests); no new memoir/community material. -->
 <!-- deepen-x 09210831-14: re-verify 2026-09-22 — fresh grep: own whoswho1474 record + index digests only; nothing new absorbable. -->
 <!-- deepen-x 09231200-6: re-verify 2026-09-25 — fresh ZH+EN grep: own whoswho1474 record + index digest only; nothing new absorbable. -->
+<!-- deepen-x 09250500-29: re-verify 2026-09-25 — fresh ZH+EN grep (黃昱銘): own whoswho1474 record + index only; nothing new absorbable. -->

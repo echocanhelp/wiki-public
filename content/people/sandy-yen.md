@@ -48,3 +48,4 @@ last_reviewed: 2026-09-25
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 <!-- deepen-x 09231200-20: re-verified 2026-09-25 — corpus grep hits (ourjourneys19/236, my-stories-852/853, whoswho1163) all already wikilinked in Role in the Community. No new material. -->
+<!-- deepen-x 09250500-28: re-verify 2026-09-25 — fresh ZH+EN grep returned identical hit set (ourjourneys19/236, my-stories-852/853, whoswho1163, index); all absorbed, saturated. -->

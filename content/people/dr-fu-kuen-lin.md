@@ -24,7 +24,7 @@ last_reviewed: 2026-09-25
 ## Role in the Community
 - Remembered in the community essay 「生技巨人林福坤的故事」 by 楊文顯 (2015-05) — [[works/taiwaneseamericanhistory-org/mystories263|263. 生技巨人林福坤的故事/楊文顯/2015/05]].
 - Held a place in the TAH story corpus from its earliest entries: [[works/taiwaneseamericanhistory-org/8-fu-kuen-lin|8. Fu-Kuen Lin 林福坤]] (2017-01-04), plus profiles [[works/taiwaneseamericanhistory-org/109-dr-fu-kuen-lin|109. Dr. Fu-Kuen Lin 林福坤博士]] and [[works/taiwaneseamericanhistory-org/whos-who-1449-fu-kuen-lin|1449. Dr. Fu-Kuen Lin 林福坤博士]].
-- Corpus check (2026-09-25): fresh grep for 林福坤/Fu-Kuen Lin returns only the work pages already linked above plus the works index — no new memoir or article mentions to absorb.
+- Corpus check (2026-09-25): fresh grep for 林福坤/Fu-Kuen Lin returns only the work pages already linked above plus the works index — no new memoir or article mentions to absorb. Re-grepped same day (slice 09250500-25): hit set identical (8, 109, 1449, mystories263, works index) — verified-saturated; SKIP.
 
 <!-- tah-tables:start -->
 ## Education

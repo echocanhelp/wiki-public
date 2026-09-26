@@ -50,3 +50,4 @@ _No filled family fields on the TAH profile._
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 <!-- deepen-x 09231200-22: re-verify 2026-09-25 — fresh grep ZH+EN over works+articles: hit set identical to prior passes (own TAH record(s) + harvest index only). Nothing new absorbable. SKIP-no-new-material. -->
+<!-- deepen-x 09250500-21: re-verify 2026-09-25 — fresh grep ZH+EN: same hit set (whoswho1502 + index only). SKIP-no-new-material. -->

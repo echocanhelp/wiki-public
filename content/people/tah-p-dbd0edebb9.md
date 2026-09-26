@@ -51,3 +51,4 @@ last_reviewed: 2026-09-25
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 <!-- deepen-x 09231200-22: re-verify 2026-09-25 — fresh grep ZH+EN over works+articles: hit set identical to prior passes (own TAH record(s) + harvest index only). Nothing new absorbable. SKIP-no-new-material. -->
+<!-- deepen-x 09250500-21: re-verify 2026-09-25 — fresh grep 黃秀華 over works+articles: same hit set (#1660, #147, essay 人間煉獄四月天, index) — all already linked. SKIP-no-new-material. -->

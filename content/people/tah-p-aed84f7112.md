@@ -47,3 +47,4 @@ last_reviewed: 2026-09-25
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[organizations/taiwan-hakka-association-for-public-affairs-in-north-america||北美台灣客家公共事務協會 (HAPA-NA)]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+<!-- deepen-x 09250500-29: re-verify 2026-09-25 — fresh grep 黃開榮: ourjourneys252 + own #636 + index only; all facts already absorbed; HOLD (苗栗 vs 紐約) stands. -->

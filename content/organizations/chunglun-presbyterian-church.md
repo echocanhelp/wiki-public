@@ -48,3 +48,4 @@ PCT / 七星中會. Taiwan congregation, not U.S. TPC.
 2. [中崙教會：我們的牧師](https://chunglun.church/%E6%88%91%E5%80%91%E7%9A%84%E7%89%A7%E5%B8%AB)
 
 <!-- deepen-x 09231200-17: re-verified 2026-09-25 — fresh grep (ZH+EN) of works/+articles/ returned no new material beyond records already absorbed on this page; SKIP stands. -->
+<!-- deepen-x 09250500-28: re-verify 2026-09-25 — fresh ZH+EN grep (中崙教會/Chunglun) of works/+articles/ returned zero hits; SKIP-with-reason stands. -->
