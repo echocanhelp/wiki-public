@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Taiwanese American Student Association at UCLA
 
@@ -29,3 +29,4 @@ SKIP-with-reason (deepen-x slice 09171300-3; re-checked 2026-09-20 in slice 0919
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 <!-- deepen-x slice 09231000-20 re-grep 2026-09-25: fresh ZH+EN grep of works+articles returns only own-name records already wikilinked on this page (plus works index); no new third-party corpus material — verified saturated, SKIP content-deepen. -->
 <!-- deepen-x slice 09250317-29 re-grep 2026-09-25: fresh ZH+EN grep of works+articles returns hit set identical to prior absorption waves (own records + works index only; UCLA TASA: zero direct hits, TASA = Seniors Assoc/ITASA). SKIP content-deepen: saturated. -->
+<!-- deepen-x slice 09251527-8 re-grep 2026-09-26: fresh grep returns hit set identical to prior waves (own records + index; UCLA TASA zero direct hits; UCLA+TASA hits = ITASA conference/reunion works at UCLA, Seniors Assoc). SKIP content-deepen: saturated. -->

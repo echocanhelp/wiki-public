@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Joseph Lin (林以信)
 
@@ -52,3 +52,4 @@ _No filled family fields on the TAH profile._
 - Corpus re-grep 2026-09-23 (slice 09221000-31): hit set again unchanged (#299/#650, winners31, #1236 林永青 HOLD, works index) — verified saturated; SKIP-with-nothing-absorbable.
 - Corpus re-grep 2026-09-25 (slice 09250317-17): hit set again unchanged (#299/#650, winners31, #1236 林永青 HOLD, works index) — verified saturated; SKIP-nothing-absorbable.
 - Corpus re-grep 2026-09-25 (slice 09230900-22): hit set again unchanged (#299/#650, winners31 總統學者獎 1996, #1236 林永青 HOLD, works index) — verified saturated; SKIP-with-nothing-absorbable.
+- Corpus re-grep 2026-09-26 (slice 09251527-8): hit set again unchanged (#299/#650, winners31 總統學者獎 1996, #1236 林永青 HOLD, works index) — verified saturated; SKIP-with-nothing-absorbable.

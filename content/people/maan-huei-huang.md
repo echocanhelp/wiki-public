@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Maan-Huei Huang (黃滿惠)
 
@@ -50,3 +50,4 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- 2026-09-26 deepen-x slice 09251527-8: SKIP (re-verified) — fresh grep (黃滿惠 / Maan-Huei) again returns only #1977, #ff353 and the works index, all linked above; no third-party memoir narrative; SKIP stands.

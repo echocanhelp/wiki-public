@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Christine L. Yang (林壽英)
 
@@ -61,3 +61,4 @@ HOLD: endowed fund names "Walter M. Yang" while the TAH profile lists husband as
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- Re-grep 2026-09-26 (slice 09251527-8): fresh grep adds two further community essays by the same author now linked above — 221. 北濱會 (ourjourney221, band A) and 757. 一封驚喜的來信 (mystories-757, band B); bibliographic records only, no body text to absorb; page now covers the full 林壽英/Christine Yang hit set.
