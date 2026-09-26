@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Chiao-jung Wang (王巧蓉)
 
@@ -33,6 +33,7 @@ last_reviewed: 2026-09-25
 - Named in the supporter roster of 陳淮崇's early TAA memoir — [[works/taiwaneseamericanhistory-org/ourjourneys-138|138. 華府與巴城TAA的誕生 / 陳淮崇 / 2015-05]].
 - Her own TAH encyclopedia entry is held as a work record — [[works/taiwaneseamericanhistory-org/whoswho1712|1712. Chiao-jung Wang 王巧蓉 / 07/2017]].
 - Re-check 2026-09-25 (slice 09231100-12; fresh grep 王巧蓉 / Chiao-jung Wang): corpus hits are exactly the four works already wikilinked above (ourjourneys228, mystories539, ourjourneys-138, whoswho1712) plus the works index — verified-saturated, no new absorbable testimony.
+- Re-check 2026-09-26 (slice 09252123-28; fresh grep 王巧蓉 / Chiao-jung Wang): identical hit set — verified-saturated, no new absorbable testimony.
 
 ## Family
 

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Ring Lin Hsu (許林碖)
 
@@ -43,6 +43,7 @@ last_reviewed: 2026-09-25
 - Family art patronage: 許鴻源, founder of 順天堂藥廠, collected roughly 670 works by Taiwanese artists. Painter 李梅樹 — moved by the family's gifts of stomach remedies — painted portraits of the couple twice ("買一送一"); both were shown at 國立臺灣美術館's 「海外存珍－順天美術館藏品歸鄉展」 (2021): [[articles/taiwanjustice-net/2021/20210415101917_2021_04_07_許鴻源和畫家搏感情_李梅樹感動買一送一_6035fe1926bfd258|許鴻源和畫家搏感情，李梅樹感動買一送一 (2021-04)]].
 - Note: corpus hits for 日本順天堂大學 (Juntendo University, Japan) match on the 順天堂 name but are an unrelated institution.
 - 2026-09-23 (slice 09221500-23), 2026-09-25 (slice 09231000-28), and 2026-09-25 (slice 09250400-19) corpus re-checks: grep for 許林碖 / Ring Lin Hsu returns only the #809 directory record and the works index — already cited above. Verified saturated; no new corpus facts.
+- 2026-09-26 (slice 09252123-28) corpus re-check: grep for 許林碖 / Ring Lin Hsu again returns only the #809 directory record and the works index — already cited above. Saturated.
 
 ## Sources
 - [TAH #809 encyclopedia: 809. Ring Lin Hsu 許林碖 / 2016/02](https://taiwaneseamericanhistory.org/809-ring-lin-hsu-%e8%a8%b1%e6%9e%97%e7%a2%96-201602/)
