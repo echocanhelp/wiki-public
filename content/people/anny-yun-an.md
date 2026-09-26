@@ -51,3 +51,4 @@ _No filled family fields on the TAH profile._
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - Corpus re-scan 2026-09-25 (deepen-x slice 09240800-10): fresh grep (works+articles) returns only the records already wikilinked above (#220, #456, index). SKIP — verified saturated, nothing new absorbable.
+- Corpus re-scan 2026-09-26 (deepen-x slice 09251000-29): fresh grep (陳韻安 / Anny Yun-An) returns only #220, #456, index — identical set. SKIP — verified saturated.

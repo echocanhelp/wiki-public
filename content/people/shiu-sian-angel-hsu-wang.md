@@ -54,3 +54,4 @@ Shiu-Sian Angel Hsu Wang 許秀香 – History of Taiwanese American (T.A. Archi
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - Re-check (DEEPEN-X09240700-28, 2026-09-25): hits unchanged - only #88, #548 and works index. SKIP, no new material.
+- Corpus re-sweep 2026-09-26 (slice 09251000-29): fresh grep works/+articles/ (許秀香 / Angel Hsu Wang / Shiu-Sian) — hit set identical (#88, #548, works index), already wikilinked above. SKIP-deepen; verified saturated.

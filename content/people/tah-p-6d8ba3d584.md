@@ -54,3 +54,5 @@ _No filled family fields on the TAH profile._
 > Corpus re-scan 2026-09-24 (deepen-x slice 09230800-15): fresh grep works/+articles/ — hit set identical (ourjourneys33/58/81/234 + TAH #777), all already wikilinked above. SKIP-deepen; nothing new absorbable.
 
 > Corpus re-scan 2026-09-25 (deepen-x slice 09240800-8): fresh grep works/+articles/ — hit set identical (ourjourneys33/58/81/234 + TAH #777). SKIP-deepen; nothing new absorbable.
+
+> Corpus re-scan 2026-09-26 (deepen-x slice 09251000-29): fresh grep works/+articles/ — hit set identical (ourjourneys33/58/81/234 + TAH #777 + index), all already wikilinked above. SKIP-deepen; nothing new absorbable.
