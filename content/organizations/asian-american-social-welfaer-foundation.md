@@ -46,3 +46,5 @@ last_reviewed: 2026-09-26
 
 - [[organizations/taiwan-center||Taiwan Center]]
 - [[sources/taiwancenter-org||taiwancenter.org]]
+
+2026-09-26 (deepen-x slice 09260400-11) re-grep (亞美社會福利 / Welfaer / Asia American Social Benefit): hit set unchanged (asia-america-fund, TAH eNews, TJJ articles + one additional tag-index page for the already-linked 老人健康研習會 series). All linked. SKIP-deepen (saturated).

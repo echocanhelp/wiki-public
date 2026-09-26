@@ -50,3 +50,4 @@ TANLA (洛杉磯西北區台灣同鄉會) is one of the better-documented LA-are
 > Corpus re-scan 2026-09-24 (deepen-x slice 09230600-16): fresh grep TANLA / 洛杉磯西北區台灣同鄉會 — same TANLA cluster + MANIFEST/index only; all linked. Verified saturated.
 > Corpus re-scan 2026-09-25 (deepen-x slice 09240600-22): fresh grep TANLA / 洛杉磯西北區台灣同鄉會 — same TANLA cluster + index only; all linked. SKIP-deepen (saturated).
 > Corpus re-scan 2026-09-26 (deepen-x slice 09250900-23): fresh grep TANLA / 洛杉磯西北區台灣同鄉會 — same TANLA cluster (history-of-tanla, tanla, activities-of-tanla, newsletter-of-tanla) + MANIFEST/index + the two already-linked TJJ articles; all linked. SKIP-deepen (saturated).
+> Corpus re-scan 2026-09-26 (deepen-x slice 09260400-10): fresh grep TANLA / 洛杉磯西北區台灣同鄉會 / Northwest Los Angeles — same four-work TANLA cluster + index/MANIFEST only; all four already wikilinked in Role in the Community. SKIP-deepen (saturated).

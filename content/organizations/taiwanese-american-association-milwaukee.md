@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Taiwanese American Association Milwaukee (密爾瓦基台灣同鄉會)
 
@@ -39,3 +39,5 @@ The Taiwanese American Association Milwaukee (TAAM, 密爾瓦基台灣同鄉會)
 > SKIP-note (deepen-x slice 09240400-3, 2026-09-25): fresh ZH+EN re-grep — hits unchanged: the chapter's own bibliographic record (milwaukee-chapter-taa), ourjourneys81 中/EN (UW–Madison split → 利騰俊/黃啟明/田弘茂 study group w/ Douglas Mendel), the film-fest item, and generic Milwaukee news (佛洛伊德報導). No TAAM chapter activity. SKIP: verified-saturated.
 
 > SKIP-note (deepen-x slice 09250700-18, 2026-09-25): fresh ZH+EN re-grep — hits unchanged: the chapter's own bibliographic record, ourjourneys81 中/EN, the film-fest item, and generic Milwaukee news. No TAAM chapter activity, nothing absorbable. SKIP: verified-saturated.
+
+> SKIP-note (deepen-x slice 09260400-11, 2026-09-26): fresh ZH+EN re-grep — hits unchanged: the chapter's own bibliographic record (milwaukee-chapter-taa), ourjourneys81 中/EN, the film-fest item, and generic Milwaukee/Wisconsin news. No TAAM chapter activity. SKIP: verified-saturated.

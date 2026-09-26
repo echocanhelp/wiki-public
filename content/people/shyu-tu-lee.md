@@ -51,6 +51,7 @@ Engineer; Manager; Administrator, Engineer & Scientific Data Center; Assistant C
 - His TAH Who's Who bibliographic record #170「Shyu-Tu Lee 李學圖」(published 2014-12-27): [[works/taiwaneseamericanhistory-org/whos-shyu-tu-lee|TAH #170 Shyu-Tu Lee 李學圖 / 2014-12-27]] — the person page previously linked only the #281 encyclopedia profile.
 - *Re-grep 2026-09-25 (slice 09240400-1): fresh ZH+EN grep (李學圖／Shyu-Tu Lee) across works/ + articles/ returns ourjourneys265, ourjourneys352, ota-281, TAH #25, #175, #305 — every hit already linked above; verified saturated, no new absorbable facts.*
 - *Re-grep 2026-09-25 (slice 09250700-8): fresh ZH+EN grep returns the same set plus whos-shyu-tu-lee (#170, already linked) and works/index — verified saturated, SKIP.*
+- *Re-grep 2026-09-26 (slice 09260317-30): fresh ZH+EN grep (李學圖／Shyu-Tu Lee) returns the same saturated set (ourjourneys265/352, ota-281, #25/#175/#305, whos-shyu-tu-lee) — all already linked; SKIP, verified-saturated.*
 
 ## Sources
 - [TAH #281 encyclopedia: 281. Dr. Shyu-Tu Lee 李學圖博士](https://taiwaneseamericanhistory.org/ota-281/)
