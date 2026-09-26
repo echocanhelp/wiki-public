@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Jang Jang Yang Lee (李楊娟娟)
 
@@ -54,3 +54,5 @@ Accomplishment
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 <!-- deepen-x 09250317-18: re-verify 2026-09-25 — fresh ZH+EN grep (works/articles): hit set identical to prior absorption waves; all corpus facts already absorbed in Role in the Community. Verified saturated; SKIP-no-new-facts. -->
+
+- Corpus re-check 2026-09-26 (slice 09251527-4): fresh ZH+EN grep returns only the absorbed memoir [[works/taiwaneseamericanhistory-org/mystories595|想念您，媽媽]], own record [[works/taiwaneseamericanhistory-org/whos-who-1917-jang-jang-yang-lee|1917. Jang Jang Yang Lee 李楊娟娟]], and works index. Verified saturated; SKIP-no-new-facts.

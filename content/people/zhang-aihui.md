@@ -8,7 +8,7 @@ tags:
   - NTPW
   - Taiwanese-American
 verification_status: published
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Zhang Ai-Hui (張愛惠)
 
@@ -52,3 +52,4 @@ Re-verified 2026-09-25 (DEEPEN-X slice 09230900-20): fresh grep of works/ and ar
 - [[people/chen-hui-chen||Chen Hui-Chen (陳慧貞)]]
 - [[people/lin-yushu||Lin Yu-Shu (林育武)]]
 - [[sources/ntpc-usa-org||NTPC USA source hub]]
+Re-checked 2026-09-26 (slice 09251527-4): fresh grep 張愛惠 / Esther Pan / Ai-Hui across works/ + articles/ still returns **zero** hits — no community-record material to absorb; SKIP-with-reason stands.

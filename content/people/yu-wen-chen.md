@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Yu-Wen Chen (陳郁雯)
 
@@ -49,3 +49,5 @@ Corpus re-check (deepen-x 09221500-27, 2026-09-23): fresh grep of works/ + artic
 Corpus re-check (deepen-x 09231000-12, 2026-09-25): fresh grep of works/ + articles/ (ZH+EN) returns only own TAH records, already-absorbed mentions, or the works index — verified-saturated, nothing new absorbable.
 
 Corpus re-check (deepen-x 09250317-24, 2026-09-25): fresh grep (Yu-Wen / 陳郁雯) — extra hits (42-yu-wen-wu, whoswho906, whoswho1020) are 吳郁文/Yu-Wen **Wu**, a different person matched on the EN substring; for 陳郁雯 the hit set remains her own two TAH records + works index — verified-saturated.
+
+Corpus re-check (deepen-x 09251527-4, 2026-09-26): fresh grep (Yu-Wen / 陳郁雯, works+articles) — hit set = own two TAH records (musician423, whoswho1815) + works index only. Verified saturated; SKIP-no-new-facts.

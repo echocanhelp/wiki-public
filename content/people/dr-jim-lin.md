@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Dr. Jim Lin (林存欣醫師)
 
@@ -56,3 +56,5 @@ No memoir or movement-activity records for 林存欣 were found in the corpus.
 <!-- deepen-x 09221500-24: re-verify 2026-09-23 — fresh grep (林存欣/Jim Lin, works+articles): own record whos-who-2138 + works index only. Verified saturated; no memoir material; SKIP-no-new-facts. -->
 <!-- deepen-x 09251000-11: re-verify 2026-09-25 — fresh grep (ZH+EN, works+articles): identical hits to prior re-verifies, all already absorbed/wikilinked (STSA 2025 hits are archive_digest hash false positives). Verified saturated; SKIP-no-new-facts. -->
 <!-- deepen-x 09250317-17: re-verify 2026-09-25 — fresh grep (林存欣/Jim Lin, works+articles): own record whos-who-2138 + works index only, identical to prior re-verifies. Verified saturated; no memoir material; SKIP-no-new-facts. -->
+
+<!-- deepen-x 09251527-4: re-verify 2026-09-26 — fresh grep (林存欣/Jim Lin, works+articles): own record whos-who-2138 + works index only, identical to prior re-verifies. Verified saturated; SKIP-no-new-facts. -->
