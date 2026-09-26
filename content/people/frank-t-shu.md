@@ -48,6 +48,7 @@ last_reviewed: 2026-09-26
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/frank-t-shu/)
 
 ## Related Pages
+- 2026-09-26 (slice 09260317-14) re-grep (許子津 / Frank T. Shu / Frank Hsu): identical hit set (ff335, ourjourneys255, ourjourneys282, whos-frank-t-shu, whos-who-1701, pew statement, works index) — all absorbed above; verified-saturated, SKIP-with-reason.
 - 2026-09-25 (slice 09250900-6) re-grep: same hit set (ff335, ourjourneys255, ourjourneys282, whos-frank-t-shu, whos-who-1701, pew statement, works index) — all absorbed; SKIP: verified-saturated.
 - 2026-09-24 re-grep (slice 09230600-21): same hit set (ff335, ourjourneys255, ourjourneys282, whos-frank-t-shu, whos-who-1701, works index) — all absorbed; verified-saturated, SKIP-with-reason.
 - [[organizations/tah-foundation||TAH Foundation]]

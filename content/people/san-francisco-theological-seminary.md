@@ -46,3 +46,4 @@ Through leaders trained there, the seminary is connected to early theological in
 - Tainan Theological College and Seminary (台南神學院)
 - Corpus re-grep 2026-09-25 (slice 09250800-6): SKIP — verified-saturated; corpus hits remain only #350 and #357, both fully absorbed; the 1966-vs-1967 graduation HOLD stands.
 - Corpus re-grep 2026-09-25 (slice 09240500-8): verified-saturated — corpus hits remain only #350 and #357, both fully absorbed; the 1966-vs-1967 graduation HOLD stands.
+- Corpus re-grep 2026-09-26 (slice 09260317-10): SKIP — verified-saturated; fresh ZH+EN grep (San Francisco Theological Seminary / 舊金山神學院) returns only #350 and #357, both fully absorbed; the 1966-vs-1967 graduation HOLD stands.

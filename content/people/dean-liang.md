@@ -64,3 +64,4 @@ Corpus re-grep 2026-09-21 (slice 09210051-10): the only works/articles hits — 
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - Corpus re-grep 2026-09-26 (slice 09250900-13): fresh grep 梁基典/Dean Liang — identical hit set (TAH #2206, mystories16, ourjourneys58, TJJ 2018 co-sign letter, index); no new facts. Verified-saturated — SKIP.
+- Corpus re-grep 2026-09-26 (slice 09260317-14): fresh grep 梁基典/Dean Liang — identical hit set (TAH #2206, mystories16, ourjourneys58, TJJ 2018 co-sign letter, index); all already linked above, no new community facts, no conflicts. Verified-saturated — SKIP.

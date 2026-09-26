@@ -35,3 +35,4 @@ The Taiwanese American Lawyers Association (TALA) is a community-service based l
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+複核（deepen-x slice 09260317-15, 2026-09-26）: fresh ZH+EN re-grep works/+articles/ hit set identical to absorbed records — SKIP (verified-saturated).

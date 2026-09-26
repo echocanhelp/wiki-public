@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Prof. Chi-Tien Chang (張啟典教授)
 
@@ -65,3 +65,4 @@ From his own oral memoir, 張啟典醫師的回憶 — 1977年TAC/EC (楊遠薰,
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - CORPUS SCAN (2026-09-25, slice 09250900-7): fresh grep 「張啟典／Chi-Tien Chang」 returns only #178, #338, #1576 and the index — all already absorbed. SKIP (verified-saturated); both HOLDs unchanged.
+複核（deepen-x slice 09260317-15, 2026-09-26）: fresh ZH+EN re-grep works/+articles/ hit set identical to absorbed records — SKIP (verified-saturated).

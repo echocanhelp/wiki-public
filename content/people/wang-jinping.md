@@ -52,3 +52,5 @@ last_reviewed: 2026-09-26
 複核（deepen-x 2026-09-25, slice 09240317-12）：corpus re-grep（王金平）命中集合不變 — works 端僅 ourjourneys301、why-taiwan-matters-part-ii（皆已吸收），其餘為 taiwanjustice-net tier2 島內政治報導（2026 海峽論壇報導已吸收）；無可吸收新社群材料（saturated）。
 
 複核（deepen-x 2026-09-25, slice 09250700-9）：fresh re-grep（王金平）命中集合不變 — works 端僅 ourjourneys301、why-taiwan-matters-part-ii（皆已吸收）；ourjourneys301 片段另點名同場與會者陳萬益、呂興昌（台灣文學學者），屬順帶提及不单列；tier2 端為島內政治報導（李眉蓁、顏寬恒報導順帶提及不收）。verified-saturated。
+
+複核（deepen-x 2026-09-26, slice 09260317-13）：fresh re-grep（王金平）命中集合不變 — works 端僅 ourjourneys301、why-taiwan-matters-part-ii（皆已吸收）；tier2 端為島內政治報導（2026-02-10 李眉蓁、2026-01-12 顏寬恒報導順帶提及不收）。無可吸收新社群材料（saturated）。
