@@ -51,3 +51,4 @@ _No filled family fields on the TAH profile._
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - Corpus check 2026-09-25 (deepen-x slice 09240800-11): fresh grep (ZH+EN+slug) against works+articles unchanged from prior waves — hits are already linked/verified above; SKIP-content (verified-saturated), no new absorbable facts, no new conflicts.
+- Corpus check 2026-09-26 (deepen-x slice 09251023-2): fresh grep (姚舒婷/姚淑婷/Shu-Ting Yao) — hits now #38, #442 (15075), index only; #212 bibliographic record no longer greps (already noted). 舒/淑 HOLD retained. SKIP-content; nothing new absorbable.

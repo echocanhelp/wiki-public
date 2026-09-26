@@ -50,3 +50,5 @@ _No filled family fields on the TAH profile._
 > Corpus re-scan 2026-09-24 (deepen-x slice 09230800-14): fresh grep works/+articles/ — hits remain only #290, #138, bibliographic #822, and index. SKIP-deepen; nothing new absorbable.
 
 > Corpus re-scan 2026-09-25 (deepen-x slice 09240800-9): fresh grep works/+articles/ — hits remain only #290, #138, bibliographic #822 (full text stays in vault), and index. All already wikilinked above. SKIP-deepen; nothing new absorbable.
+
+> Corpus re-scan 2026-09-26 (deepen-x slice 09251023-2): fresh grep works/+articles/ (張貴洋/Kwei-Yang/Ben Chang) — hit set unchanged (#290, #138, #822, index), all already wikilinked. SKIP-deepen; nothing new absorbable.

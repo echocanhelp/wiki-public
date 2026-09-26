@@ -52,3 +52,4 @@ _No filled family fields on the TAH profile._
 - 2026-09-23 deepen-x slice 09221400-6: VERIFY — fresh grep hits unchanged (whos-who-2279, Sunflower Movement article, CNN/TJJ carry, index). SKIP-content — saturated, nothing new absorbable.
 - 2026-09-24 deepen-x slice 09230800-21: VERIFY — fresh grep (顏維婷 / Wei-Ting Yen / Tammy Yen) hits unchanged (whos-who-2279, Sunflower Movement acknowledgment, CNN/TJJ carry, index). SKIP-content — saturated, nothing new absorbable.
 - Corpus check 2026-09-25 (deepen-x slice 09240800-11): fresh grep (ZH+EN+slug) against works+articles unchanged from prior waves — hits are already linked/verified above; SKIP-content (verified-saturated), no new absorbable facts, no new conflicts.
+- Corpus check 2026-09-26 (deepen-x slice 09251023-2): fresh grep (顏維婷/Wei-Ting Yen/Tammy Yen) — hits unchanged (whos-who-2279, Sunflower Movement acknowledgment, CNN/TJJ carry, index). SKIP-content; saturated, nothing new absorbable.
