@@ -59,3 +59,5 @@ slice 09230317-23 re-grep (2026-09-24): hit set identical (ourjourneys14, ourjou
 slice 09240317-25 re-grep (2026-09-25): fresh 董俊蘭/C. L. Tong grep returned the same set (ourjourneys14, ourjourneys43, #1698, works/index) — verified saturated, nothing new this pass. SKIP-with-reason.
 
 slice 09250700-25 re-grep (2026-09-25): fresh 董俊蘭/C. L. Tong grep; hit set identical (ourjourneys14, ourjourneys43, #1698, works/index) — no new absorbable facts. SKIP: verified-saturated.
+
+slice 09260500-4 re-grep (2026-09-26): hit set identical (ourjourneys14, ourjourneys43, #1698, works/index) — all absorbed above; no new absorbable facts. SKIP: verified-saturated.

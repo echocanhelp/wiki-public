@@ -61,3 +61,4 @@ last_reviewed: 2026-09-26
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 - Corpus re-scan 2026-09-26 (slice 09250900-31): fresh grep (incl. -E 泰德安德森) — hit set unchanged (TAH #322, #271, #911, #57, #541 + index); verified-saturated, SKIP-deepen.
+- Corpus re-scan 2026-09-26 (slice 09260500-4): fresh grep (incl. -E 泰德安德森) — hit set unchanged (TAH #322, #271, #911, #57, #541 + index); verified-saturated, SKIP-deepen.
