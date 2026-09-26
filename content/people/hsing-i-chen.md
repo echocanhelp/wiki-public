@@ -53,3 +53,4 @@ Slice deepen-x-slice-09220700-6 re-run (2026-09-22): identical hit set (#329, #8
 Slice deepen-x-slice-09221400-2 re-run (2026-09-23): fresh grep 陳欣沂|Hsing-I Chen — identical hit set (#329, #825, works index) -- SKIP-no-new-material (saturated).
 Slice deepen-x-slice-09230800-2 re-run (2026-09-24): fresh grep 陳欣沂|Hsing-I Chen — identical hit set (#329, #825, works index) -- SKIP-no-new-material (saturated).
 Slice deepen-x-slice-09240700-2 re-run (2026-09-25): fresh grep 陳欣沂|Hsing-I Chen — identical hit set (#329, #825, works index) -- SKIP-no-new-material (saturated).
+Slice deepen-x-slice-09250900-3 re-run (2026-09-25): fresh grep 陳欣沂|Hsing-I Chen — identical hit set (#329, #825, works index) -- SKIP-no-new-material (saturated).
