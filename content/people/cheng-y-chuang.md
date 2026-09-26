@@ -43,6 +43,7 @@ last_reviewed: 2026-09-25
 - **HR 23 advocacy, Austin (2019-03-04):** At the historic HR 23 Resolution hearing in the Texas State Capitol he appears in community photos (with Mike Chen, Katy Shull, Pearl Wu, Shannon Hu) and publicly backed FAPA's Austin work ([[works/taiwaneseamericanhistory-org/our-journeys-370|Our Journeys #370]]).
 - CORPUS SCAN (2026-09-24, slice 09230600-5): exact-name re-grep 「莊承業／Cheng Y. Chuang／Eddie Chuang」 returns the same six works already linked above (318, #370, 244, 76-eng roster, 233-eng, album #39) — no new corpus facts; verified saturated, SKIP-deepen.
 - CORPUS SCAN (2026-09-23, slice 09221100-15): exact-name re-grep 「莊承業／Cheng Y. Chuang」 returns only his already-linked works (318, 233, 1124, 1252, ourjourneys244 memoir, TFCU album #39, OJ#370); remaining loose matches are same-surname distinct people (莊子賢 Tze-jer Chuang, Henry Chuang) — no new corpus facts to absorb.
+- CORPUS SCAN (2026-09-25, slice 09250900-2): exact-name re-grep 「莊承業／Cheng Y. Chuang」 over works/+articles/ returns the same linked set (318, 244, 233-eng, album #39, 1252, 1124) — hit set identical to all prior scans; verified saturated, SKIP-deepen.
 - CORPUS SCAN (2026-09-25, slice 09240600-7): exact-name re-grep 「莊承業／Cheng Y. Chuang／Eddie Chuang」 over works/+articles/ returns the same six works already linked above (318, #370, 244, 76-eng roster, 233-eng, album #39) — hit set identical to all prior scans; verified saturated, SKIP-deepen.
 
 ## Sources

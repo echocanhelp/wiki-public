@@ -46,6 +46,8 @@ name_en: "Tsai Ing-wen"
 
 ## From the record
 
+- 複核（TJJ-A09250800-5, 2026-09-25）：本 slice 四篇 tjj-a-slice-09250800-5 文章（004420da 新聞觀測站分類頁 2024-04-25 快照、b6329042 LA Times 蔡英文參選轉載 2015-04-16、23197ebf「楊遠薰」標籤頁2 2021-12-07 快照、be7ac05c 黃勝雄記憶講座全文 2017-02-23 快照）正文逐一再驗證——本頁 subject 連結為真實提及，無錯鏈、無虛鏈；含該文 wikilink 的日期事實條目均已在庫 — SKIP，已飽和，無新材料。
+
 - 複核（TJJ-A09250400-11, 2026-09-25）：本 slice 文章 c0530664ab4c2948（Taipei Times 社論轉載, 2016-04-11）＋slice 文章 taiwanjustice-net/index（存檔索引頁） 正文再驗證——本頁 subject 連結為真實提及，無錯鏈、無虛鏈；含該文 wikilink 的日期事實條目已在庫 — SKIP，無新材料。
 
 

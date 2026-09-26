@@ -30,6 +30,7 @@ The Taiwanese Student Association (TSA) at the University of Southern California
 
 - 2026-09-23 (slice 09221100-19) corpus re-check: fresh grep「USC TSA／USC Taiwanese／南加大台灣／usc_tsa」returns only dumplings-usctsa (2017-05-12, already absorbed, publication date matches) and works/index. First-party activity corpus remains saturated; no new absorbable facts, no conflicts to HOLD.
 - 2026-09-24 (slice 09230600-9) corpus re-check: fresh grep「USC Taiwanese／南加大台灣／usc_tsa／Taiwanese Student Association」— new hits are sibling-chapter records only (ff33 University of Kansas 1961 第一個台灣同學會, osu-tsa, tsa-university-of-washington, tsapa), not USC TSA first-party material; dumplings-usctsa remains the sole USC-specific record, already absorbed. Verified saturated; sibling chapters belong on their own pages.
+- 2026-09-25 (slice 09250900-2) corpus re-check: fresh grep「TSAUSC／USC TSA／Taiwanese Student Association at the University of Southern California」 returns only ourjourneys240 (UCLA/USC 台灣同學會根源敘事, already absorbed), dumplings-usctsa, and index files — first-party corpus saturated, SKIP-deepen, no conflicts to HOLD.
 - 2026-09-25 (slice 09240600-7) corpus re-check: fresh grep「USC Taiwanese／南加大台灣／usc_tsa／USC TSA」 returns only dumplings-usctsa (already absorbed) and works/index — first-party activity corpus remains saturated across all scans; SKIP-deepen, nothing new absorbable, no conflicts to HOLD.
 
 ## Sources

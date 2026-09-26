@@ -24,6 +24,8 @@ Further founding-memoir detail (same source, [[works/taiwaneseamericanhistory-or
 
 2026-09-25 re-check (slice 09240600-7): fresh ZH+EN grep 賴俊明/Lai Junming over works/+articles/ returns only [[works/taiwaneseamericanhistory-org/ourjourneys305|Our Journeys 305]], already fully absorbed — hit set saturated across all scans, SKIP-deepen; GSTPC visiting-preacher vs St. Louis founding-pastor identity HOLD stands.
 
+2026-09-25 re-check (slice 09250900-2): fresh ZH+EN grep 賴俊明/Lai Junming returns only the GSTPC bulletin-derived corpus records (already reflected in Evidence Coverage) and [[works/taiwaneseamericanhistory-org/ourjourneys305|Our Journeys 305]], fully absorbed — verified saturated, SKIP-deepen; identity HOLD unchanged.
+
 ## Historical Significance
 Supported worship and special events including Father’s Day and regular Sunday services.
 
