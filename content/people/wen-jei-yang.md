@@ -57,3 +57,4 @@ Honorary Professor of the Dept. of Mechanical Engineering and Dept. of Biomedica
 複核（deepen-x slice 09230400-10, 2026-09-24）：fresh ZH+EN re-grep against works/+articles/ returns the identical hit set already wikilinked above — corpus-saturated, SKIP-for-deepening.
 
 複核（deepen-x slice 09240317-20, 2026-09-25）：fresh ZH+EN re-grep — 命中集合不變（mark-jacob-2008、#2163、#2296、harvest index），全部已吸收；楊文偕 vs 楊文傑 HOLD 維持 — 飽和，SKIP-for-deepening.
+複核（deepen-x slice 09250700-21, 2026-09-25）：fresh ZH+EN re-grep against works/+articles/ — 命中集合不變（mark-jacob-2008、#2163、#2296、works/index）— 飽和，SKIP-with-reason.
