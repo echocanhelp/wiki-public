@@ -38,6 +38,8 @@ last_reviewed: 2026-09-26
 - The 1980 Kennedy contact was preceded by a letter-writing drive: Kennedy's aide asked 蔡同榮 (the memoir's author) to mobilize co-native-place Americans, and 台灣人人權會的全力推動 brought 8,000 letters from Taiwanese across the US to Kennedy's office over the Kaohsiung Incident — then a record for a single issue (per [[works/taiwaneseamericanhistory-org/ourjourneys59|59. 二萬名移民額 / 蔡同榮]]).
 - His own encyclopedia record: [[works/taiwaneseamericanhistory-org/whoswho1043|TAH #1043]].
 
+2026-09-26 re-grep (deepen-x slice 09260400-23): fresh ZH+EN grep returned the identical hit set (ourjourneys234, ourjourneys59, ourjourneys65/-eng, whoswho1043, index) — all already wikilinked. Verified saturated; SKIP-deepen.
+
 ## Sources
 - [TAH #1043 encyclopedia: 1043. Philip S. Chen 陳伸夫 / 2016/05](https://taiwaneseamericanhistory.org/whoswho1043/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/philip-s-chen/)

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Harrison Lin (林貞棟)
 
@@ -49,6 +49,8 @@ Corpus re-grep 2026-09-22 (names: 林貞棟 / Harrison Lin): hits are his own TA
 ## Family
 
 _No filled family fields on the TAH profile._
+
+- 複核（deepen-x slice 09260400-23, 2026-09-26）：fresh ZH+EN re-grep returns the identical hit set（own TAH #1596 + works index + 長青教室 archive page, all already absorbed above）— SKIP, no new material.
 
 ## Sources
 - [TAH #1596 encyclopedia: 1596. Harrison Lin 林貞棟 / 2017/04](https://taiwaneseamericanhistory.org/whoswho1596/)

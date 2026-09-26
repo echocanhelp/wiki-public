@@ -54,3 +54,5 @@ last_reviewed: 2026-09-26
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 > SKIP-note (deepen-x slice 09240400-3, 2026-09-25): fresh ZH+EN re-grep — hit set identical again (work 66, ourjourneys 60/154/161/245, whos-who-1629); NATWA 網路站+分會社區服務, 婦女信箱輪值, 點心擔 1999 認定, 1993–94 leadership 名單, 17th 年會女性講者 — all already absorbed. SKIP: verified-saturated.
+
+> SKIP-note (deepen-x slice 09260400-20, 2026-09-26): fresh ZH+EN re-grep — hit set identical again (work 66, ourjourneys 60/154/161/245, whos-who-1629); no new memoir or event mention. SKIP: verified-saturated.

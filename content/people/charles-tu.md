@@ -58,3 +58,4 @@ last_reviewed: 2026-09-26
 
 - Corpus re-sweep 2026-09-25 (slice 09240600-28): exact-name grep 杜武青/"Charles Tu" returns the identical hit set (own records 601/247/680, WHA 聯合聲明 2021 + 2025 republications, works index); SKIP — verified-saturated.
 - Corpus re-sweep 2026-09-26 (slice 09250900-26): exact-name grep 杜武青/"Charles Tu" returns the identical hit set (own records 601/247/680, WHA 聯合聲明 2021 + 2025 republications, works index); SKIP — verified-saturated.
+- Corpus re-sweep 2026-09-26 (slice 09260400-20): exact-name grep 杜武青/"Charles Tu" returns the identical hit set (own records 601/247/680, works index, WHA 聯合聲明 2021 + 2025 republications); SKIP — verified-saturated.

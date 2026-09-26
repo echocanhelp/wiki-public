@@ -44,6 +44,8 @@ Liang Chuan Peng (彭兩泉) is listed in the TAH Foundation Who’s Who Taiwane
 - **Daughter:** Lina Peng
 
 
+- Corpus re-grep 2026-09-26 (slice 09260400-23): fresh ZH+EN greps returned the identical hit set (ourjourneys37 / 37-eng / 38 / 38-eng / whoswho803 + index); no new material, no conflicts. Verified-saturated SKIP.
+
 ## Sources
 - [TAH #803 encyclopedia: 803.   Liang Chuan Peng  彭兩泉/ 2016/02](https://taiwaneseamericanhistory.org/whoswho803/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/liang-chuan-peng/)

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Dr. Fu-Tong Liu (劉扶東博士)
 
@@ -46,6 +46,8 @@ _No filled family fields on the TAH profile._
 - HOLD: name collision — the corpus also lists [[works/taiwaneseamericanhistory-org/ota-251|ota-251. Dr. Fu-Tong Hsu 徐福棟博士]] (2019-02-15) and [[works/taiwaneseamericanhistory-org/whos-who-192-fu-tong-hsu|whos-who-192. Dr. Fu-Tong Hsu]], a different person sharing the romanized given name Fu-Tong. Do not merge.
 
 複核（deepen-x slice 09230400-10, 2026-09-24）：fresh ZH+EN re-grep against works/+articles/ returns the identical hit set already wikilinked above (TAH #1826 + harvest index only) — corpus-saturated, SKIP-for-deepening.
+
+複核（deepen-x slice 09260400-23, 2026-09-26）：fresh ZH+EN re-grep against works/+articles/ returns only TAH #1826 + harvest index（徐福棟 romanization HOLD stands）— corpus-saturated, SKIP-with-reason.
 
 ## Sources
 - [TAH #1826 encyclopedia: 1826. Dr. Fu-Tong Liu 劉扶東博士](https://taiwaneseamericanhistory.org/whos-who-1826-fu-tong-liu/)
