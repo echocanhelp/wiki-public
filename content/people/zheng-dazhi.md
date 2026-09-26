@@ -37,6 +37,8 @@ Zheng was not a member of the Geneva Presbyterian Church congregation in Laguna 
 
 ## From the record
 
+- 複核（TJJ-A09251400-7, 2026-09-26）：slice 文章 8362234ba338aea7 正文再驗證——鄭達志醫師挺身而出防止悲劇擴大而壯烈犧牲確認見於正文，subject 連結為真，無錯鏈、無虛鏈；對應日期條目（已掛該文 wikilink）已在庫 — SKIP，已飽和。
+
 
 - 複核（TJJ-A09250900-1, 2026-09-26）：本 slice 文章 117bdbbd9b362236 正文再驗證——本傳主體即報導主角（挺身對峙兇嫌中彈身亡、獲誉英雄），subject 連結為真（無錯鏈、無虛鏈）；對應日期條目（已掛該文 wikilink）已在庫 — SKIP，無新材料。
 - 2022-05-16 — LA Times/CNA 綜合報導（TJJ轉載）確認其身分為 Laguna Niguel 52歲醫師、身後留下妻子與兩名孩子；與張宣信牧師、教友制伏兇嫌事蹟並載，橘郡檢察長 Spitzer 譽其「犧牲了自己，讓別人得以存活」（[[articles/taiwanjustice-net/2022/20220705114925_2022_05_16_台灣來美的外省第二代周文偉到台美人教會開槍殺_117bdbbd9b362236|TJJ, 2022-05-16]]）。
