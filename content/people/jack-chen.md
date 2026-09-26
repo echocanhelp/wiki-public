@@ -46,6 +46,7 @@ _No filled family fields on the TAH profile._
 - Corpus re-scan 2026-09-23 (deepen-x slice 09221400-13): fresh grep of works/ + articles/ — hit set unchanged (own records whos-who-2182, ota-272, 678 + works index; the 137 race record above carries the team name, not his name). SKIP-deepen; nothing absorbable.
 - Corpus re-scan 2026-09-24 (deepen-x slice 09230800-22): fresh grep of works/ + articles/ for "Jack Chen" — hit set identical (whos-who-2182, ota-272, 678 + works index), all already wikilinked above. SKIP-deepen; verified-saturated.
 - Corpus re-scan 2026-09-25 (deepen-x slice 09240800-12): fresh grep of works/ + articles/ — hit set identical (whos-who-2182, ota-272, 678 + works index), all already wikilinked. SKIP-deepen; verified-saturated.
+- Corpus re-scan 2026-09-26 (deepen-x slice 09251023-4): fresh grep "Jack Chen" — hit set identical (own records whos-who-2182, ota-272, 678 + works index), all already wikilinked; HOLD on the three-Jack-Chen slug conflation stands. SKIP-deepen; verified-saturated.
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/jack-chen/)
