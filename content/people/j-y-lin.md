@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # J. Y. Lin (林哲也)
 
@@ -39,6 +39,7 @@ _No filled family fields on the TAH profile._
 - 運動人物档案俄亥俄州名單收錄其名：[[works/taiwaneseamericanhistory-org/ourjourneys58|人物名录（Ohio）]]
 - 1990-11-29《台灣公論報》Issues 915 基金會籌備專文，將他列名感謝的領導人物之一：[[works/taiwaneseamericanhistory-org/ourjourneys293|TAH 基金會籌備紀錄]]、[[works/taiwaneseamericanhistory-org/ourjourneys293-eng|TAH 基金會籌備紀錄（EN）]]
 - 本人 TAH 专访存档：[[works/taiwaneseamericanhistory-org/whoswho1202|TAH #1202（2016/07）]]
+- Corpus re-verified 2026-09-26 (ZH+EN greps over works/ + articles/): hit set is exactly the works already linked above (ourjourneys76 ZH/EN, ourjourneys58, ourjourneys293 ZH/EN, whoswho1202) — no third-party memoir text beyond these; nothing new absorbable.
 
 ## Sources
 - [TAH #1202 encyclopedia: 1202.  J. Y. Lin 林哲也 / 2016/07](https://taiwaneseamericanhistory.org/whoswho1202/)
