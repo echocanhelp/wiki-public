@@ -54,3 +54,4 @@ Re-verified 2026-09-22 (slices 09210600-14, 09220400-12), 2026-09-23 (slice 0922
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- 2026-09-25 (slice 09250900-5) corpus re-check: fresh grep 林茂清／Mou-ChinLin — hit set identical to records already absorbed (#855, Our Journeys 14, 楊遠薰彭昕 memoir copies). SKIP: verified saturated, no new material.

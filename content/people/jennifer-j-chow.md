@@ -58,3 +58,4 @@ last_reviewed: 2026-09-25
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 <!-- TJJ-A09240800-12: verified 2026-09-25 — subject links in slice 09240800-12 articles confirmed real; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+- 2026-09-25 (slice 09250900-5) corpus re-check: fresh grep 周展儀／Jennifer Chow — hit set unchanged (#388, #613, #1323, #1324, Seattle dinner, WA talk, interview, works/index), all already linked. SKIP: verified saturated; no conflicts to HOLD.

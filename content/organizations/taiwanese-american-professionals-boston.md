@@ -36,3 +36,4 @@ HOLD: conflict in parentage — this page (from the TAH directory) describes TAP
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - 2026-09-25 deepen-x slice 09240600-10: fresh grep (台美菁英 / Taiwanese American Professionals / TAP-BOS / 波士頓分會) — hit set identical to records already linked (national TAP, Boston #4, Austin #3, D.C. #5, OC, Seattle/SF scholarships). SKIP: verified saturated, no new chapter-specific facts; parentage HOLD unchanged.
+- 2026-09-25 (slice 09250900-5) corpus re-check: fresh grep (台美菁英 / Taiwanese American Professionals / TAP-BOS / 波士頓分會) — hit set identical to records already linked (national TAP, Boston #4, Austin #3, D.C. #5, OC, Seattle/SF scholarships). SKIP: verified saturated; parentage HOLD unchanged.
