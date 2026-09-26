@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Mike Lin (林健華博士)
 
@@ -41,6 +41,7 @@ last_reviewed: 2026-09-25
 ## Role in the Community
 - Named among the founding members of the Midwest Formosan Christian Foundation (MFCF, circa 1990 photo caption: Jim Chen, Sue Chen, Carol Cho, Bill Cho, David Lin, Mei Lu, Pamela Lin, Jiin Lin, Mike Lin) — the Chicago organization that rebranded as the Taiwanese American Foundation (TAF) in 1980; see [[works/taiwaneseamericanhistory-org/ourjourneys33-eng|Our Journeys #33 (TAF history, EN)]] and its Chinese counterpart [[works/taiwaneseamericanhistory-org/ourjourneys33-2|Our Journeys #33]]. HOLD: MFCF founding-member photo captioned "circa 1990" vs. the same record's narrative that MFCF became TAF in 1980 — caption date may refer to when the photo of founding members was taken, not the founding itself.
 - Profiled in the TAHS/TAH story corpus: [[works/taiwaneseamericanhistory-org/mystories206|206. TAF的傳承故事(2)─林健華的故事 / 楊遠薰 / 2015/02]] and his TAH encyclopedia entry [[works/taiwaneseamericanhistory-org/whoswho1134|1134. Mike Lin 林健華 / 2016/07]].
+- Re-verified 2026-09-26 (deepen-x slice 09251023-30): corpus hit set unchanged (mystories206, whoswho1134, ourjourneys33 ZH+EN — all already linked above; the ZH record confirms MFCF formalised as TAF in 1980 after the late-1970s second-wave immigration). One articles/ hit is a false positive (Mike Lindell in a translated NYT piece, unrelated). Nothing new absorbable; HOLD on the caption-date vs 1980 founding conflict retained.
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/mike-lin/)
