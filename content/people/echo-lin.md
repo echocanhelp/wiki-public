@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Echo Lin (林錫湖博士)
 
@@ -50,6 +50,8 @@ Note: his own TAH encyclopedia entry [[works/taiwaneseamericanhistory-org/whos-w
 _Corpus re-scan 2026-09-23 (slice 09221100-12), re-greps 2026-09-24 (slice 09230500-13) and 2026-09-25: fresh grep returns the same hit set (林錫湖/林仁惠 hits = ourjourneys85 & -eng, 198, ourjourneys33, whos-who-1894, whoswho1010); all absorbed above — verified saturated, no new community facts._
 
 _Corpus re-scan 2026-09-25 (slice 09250800-13): fresh grep (林錫湖／林仁惠／Echo Lin, works+articles) returns the same saturated hit set (ourjourneys85 & -eng, 198, ourjourneys33, whos-who-1894, whoswho1010); all absorbed above — SKIP-no-new-facts, HOLDs (edu dates, 林全福 vs 林傳福, birth-era 1930, 林錫湖 vs 林仁惠) unchanged._
+
+_Corpus re-grep 2026-09-26 (slice 09260317-20): fresh grep 林錫湖／林仁惠／Echo Lin (works+articles) returns the same saturated hit set (ourjourneys85 & -eng, 198, ourjourneys33, whos-who-1894, whoswho1010); all absorbed; SKIP-no-new-facts, HOLDs unchanged._
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/echo-lin/)

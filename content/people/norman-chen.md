@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Norman Chen
 
@@ -55,3 +55,4 @@ Norman Chen's community record in our corpus runs through his father, 陳唐山 
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - Corpus re-grep 2026-09-25 (slice 09240500-12): hit set identical (ourjourneys-138, -139, 58, 307, TAH #210, whoswho1271); no new material for the physician; 陳淮崇 HOLD stands; verified saturated.
 - Corpus re-grep 2026-09-25 (slice 09250800-10): SKIP — fresh ZH+EN grep of works+articles returns a hit set identical to the records already absorbed above; nothing new to absorb; verified saturated.
+- Corpus re-grep 2026-09-26 (slice 09260317-20): fresh grep Norman Chen|陳唐山 (works+articles) returns the identical hit set already absorbed above; nothing new for the physician; 陳淮崇 HOLD stands; verified saturated.
