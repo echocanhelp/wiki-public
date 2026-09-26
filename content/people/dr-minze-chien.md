@@ -81,3 +81,5 @@ _Compiled from this page's own Employment table — no new facts._
 
 - 新增語料庫脈絡連結（皆為本頁 Employment 表既有事實之 TAH 語料庫對應頁，非新增事蹟）：他連續十年協調的獎學金活動見 [[works/taiwaneseamericanhistory-org/1-taiwanese-american-community-scholarship-awards-greater-washington-d-c||TAH：Taiwanese American Community Scholarship Awards / Greater Washington D.C.]]；他出任會長的 TAA-GWC 另有語料庫記錄 [[works/taiwaneseamericanhistory-org/131-taagwc-past-president||TAH #131：TAAGWC Past President Portraits（2018）]]、[[works/taiwaneseamericanhistory-org/132-taagwc-50th-anniversary||TAH #132：TAAGWC 50th Anniversary]]；他 2017 年協調的東海岸台灣大會之早期歷史見 [[works/taiwaneseamericanhistory-org/73-taiwanese-american-conference-the-first-national-conference-on-broad-issues-o||TAH：Taiwanese American Conference 首次全國大會記錄]]。
 - 本輪 vault-only：未新建頁面、未上網、無虛構事蹟。
+
+<!-- TJJ-A09260400-11: verified 2026-09-26 — subject link in slice article d2dbfe220e437602（2017 美東夏令會報導, 29faf54b8c9e2d10 同文副本）re-checked vs 正文; real mention, no wrong/spurious links; dated fact w/ article wikilink already in From the record; article-side .md suffix on Subjects link fixed — saturated, no new material. -->

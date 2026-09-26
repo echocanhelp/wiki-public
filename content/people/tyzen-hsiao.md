@@ -149,6 +149,8 @@ TAH employment (unparsed string): Tainan Univ. of Technology assoc. prof.; Wenza
 - 許常惠 — NTNU composition steer. No person page yet
 
 ## From the record
+- 複核（TJJ-A09260400-7, 2026-09-26）：本 slice 文章 c62f5c50846fe267 正文再驗證——subject 連結為真（無錯鏈、無虛鏈）；對應日期條目（已掛該文 wikilink）已在庫 — SKIP，已飽和。
+
 
 - 複核（TJJ-A09251400-6, 2026-09-26）：本 slice 文章 64302d51d03b3c5f（黃瑞芬訃聞）正文再驗證——蕭泰然作曲〈嘸通嫌台灣〉於1995-07-29 TUF LA音樂會演出確認見於正文，連結為真，無錯鏈、無虛鏈；1995-07-29 條目（含該文 wikilink）已在庫 — SKIP，無新材料。
 

@@ -52,6 +52,8 @@ Dr. Long-Rong (Mark) Kao 高龍榮 – History of Taiwanese American (T.A. Archi
 - **新澤西台美同鄉會前會長** — the New Jersey community memoir lists Kao, president "back then," as "now New Jersey's most dedicated contributor to Taiwan" ([[works/taiwaneseamericanhistory-org/ourjourneys310|Our Journeys — 新澤西篇]] · [[works/taiwaneseamericanhistory-org/ourjourneys310-eng|English ed.]]); his own TAH encyclopedia record is also archived in-corpus ([[works/taiwaneseamericanhistory-org/whos1168|TAH #1168 profile]]).
 
 ## From the record
+- 複核（TJJ-A09260400-7, 2026-09-26）：本 slice 文章 2c9cb76838702dd7 正文再驗證——subject 連結為真（無錯鏈、無虛鏈）；對應日期條目（已掛該文 wikilink）已在庫 — SKIP，已飽和。
+
 
 
 - 複核（TJJ-A09250900-1, 2026-09-26）：本 slice 文章 2c9cb76838702dd7 正文再驗證——高龍榮以海台青籌辦人及前FAPA總會長引語確認見於正文，subject 連結為真（無錯鏈、無虛鏈）；對應日期條目（已掛該文 wikilink）已在庫 — SKIP，無新材料。

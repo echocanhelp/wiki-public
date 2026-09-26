@@ -75,3 +75,5 @@ Dr. Tan-Sun (Mark) Chen 陳唐山 – History of Taiwanese American (T.A. Archiv
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+<!-- TJJ-A09260400-11: verified 2026-09-26 — subject link in slice article d2dbfe220e437602（2017 美東夏令會報導, 29faf54b8c9e2d10 同文副本）re-checked vs 正文; real mention, no wrong/spurious links; dated fact w/ article wikilink already in From the record; article-side .md suffix on Subjects link fixed — saturated, no new material. -->

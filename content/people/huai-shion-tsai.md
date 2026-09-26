@@ -55,6 +55,8 @@ Huai-Shion Tsai was born in Tainan, Taiwan in 1947. She graduated from the Natio
 - Re-check pass 2026-09-14: vault records above cross-checked; they are encyclopedia/date records already absorbed into the sections above — no further biography absorbable from vault, no new facts invented. Spouse's own TAH work record (461) cross-linked in Family.
 
 ## From the record
+- 複核（TJJ-A09260400-7, 2026-09-26）：本 slice 文章 cd2062fe6528223c 正文再驗證——subject 連結為真（無錯鏈、無虛鏈）；對應日期條目（已掛該文 wikilink）已在庫 — SKIP，已飽和。
+
 
 - 複核（TJJ-A09250900-2, 2026-09-26）：slice 文章 cd2062fe6528223c 正文再驗證——以新藝畫會會員受邀參展確認見於正文，subject 連結為真，無錯鏈、無虛鏈；2017-04-01 條目（含該文 wikilink）已在庫 — SKIP，已飽和。
 

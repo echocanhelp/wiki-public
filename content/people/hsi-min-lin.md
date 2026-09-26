@@ -44,6 +44,8 @@ _No filled family fields on the TAH profile._
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/hsi-min-lin/)
 
 ## From the record
+- 複核（TJJ-A09260400-7, 2026-09-26）：本 slice 文章 2c9cb76838702dd7 正文再驗證——subject 連結為真（無錯鏈、無虛鏈）；對應日期條目（已掛該文 wikilink）已在庫 — SKIP，已飽和。
+
 
 
 - 複核（TJJ-A09250900-1, 2026-09-26）：本 slice 文章 2c9cb76838702dd7 正文再驗證——林希明以FAPA副會長受邀演講確認見於正文，subject 連結為真（無錯鏈、無虛鏈）；對應日期條目（已掛該文 wikilink）已在庫 — SKIP，無新材料。

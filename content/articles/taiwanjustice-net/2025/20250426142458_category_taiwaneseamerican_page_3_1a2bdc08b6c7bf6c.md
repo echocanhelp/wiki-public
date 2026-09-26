@@ -279,3 +279,5 @@ Page 3 of 158
 - [[people/andrew-yang|楊安澤]] — mentioned in this record
 - [[people/bi-khim-hsiao|蕭美琴]] — mentioned in this record
 
+（TJJ-A09260400-18 複核 2026-09-26：三條 subject link（彭明敏、楊安澤、蕭美琴）經正文再驗證均為真實提及（追思彭明敏紀念會紀實、楊安澤新書批美國制度失靈、蕭美琴進國務院會晤亞太助卿），無錯鏈、無虛鏈；各頁之對應日期事實（含本檔 wikilink）已在庫 — 已飽和。）
+

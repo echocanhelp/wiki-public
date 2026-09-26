@@ -25,6 +25,8 @@ last_reviewed: 2026-09-25
 - **228 追思紀念大會主持人** — at the 2025 追思紀念大會 hosted by 大洛杉磯台灣會館 with 24 台美社團 (2025-02-24, Taiwan Justice Net report preserved in the quote archive of [[people/roger-tsai||Roger Tsai (蔡漢成)]]), 董事潘掬慧 and 228系列活動召集人 [[people/tony-lee||Tony Lee (李賢群)]] presided over the ceremony.
 
 ## From the record
+- 複核（TJJ-A09260400-7, 2026-09-26）：本 slice 文章 c62f5c50846fe267 正文再驗證——subject 連結為真（無錯鏈、無虛鏈）；對應日期條目（已掛該文 wikilink）已在庫 — SKIP，已飽和。
+
 - 2025-01-25 — 第166回世界台灣文化論壇：以 TUF「228 心靈日 & 台灣文化之夜委員長」身分列名與談人（主講人為TUF會長鄭良光）（[[articles/taiwanjustice-net/2025/20250318093802_第166回世界台灣文化論壇_試論台美人-e-文化遺產-kap-傳_2490b18e8f37ea79|TJJ, 2025-01-22]]）。
 
 

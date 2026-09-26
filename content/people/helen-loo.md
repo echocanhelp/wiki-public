@@ -71,3 +71,5 @@ Accomplishment
 - 2026-09-26 deepen-x slice 09250900-10: re-verified saturated — fresh grep (翁進治/Helen Loo) returns the identical 5-file hit set (TAH #1733, ourjourneys260, index, TJJ報導×2), all wikilinked and absorbed above; SKIP, nothing new absorbable, no conflicts to HOLD.
 
 - 2026-09-26 deepen-x slice 09260317-7: re-verified saturated — fresh grep (翁進治/Helen Loo) returns the identical hit set (TAH #1733, ourjourneys260, index, TJJ報導×2), all wikilinked and absorbed above; SKIP, nothing new absorbable.
+
+<!-- TJJ-A09260400-11: verified 2026-09-26 — subject link in slice article d2dbfe220e437602（2017 美東夏令會報導, 29faf54b8c9e2d10 同文副本）re-checked vs 正文; real mention, no wrong/spurious links; dated fact w/ article wikilink already in From the record; article-side .md suffix on Subjects link fixed — saturated, no new material. -->

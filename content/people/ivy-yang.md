@@ -40,6 +40,8 @@ _No filled family fields on the TAH profile._
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/ivy-yang/)
 
 ## From the record
+- 複核（TJJ-A09260400-7, 2026-09-26）：本 slice 文章 cd2062fe6528223c 正文再驗證——subject 連結為真（無錯鏈、無虛鏈）；對應日期條目（已掛該文 wikilink）已在庫 — SKIP，已飽和。
+
 
 - 複核（TJJ-A09250900-2, 2026-09-26）：slice 文章 cd2062fe6528223c 正文再驗證——正文畫家楊靜芬簡介（「花飛碟舞」、漆藝）確認；TAH#1716 CFP 同名衝突 HOLD 照舊，subject 連結為真，無錯鏈、無虛鏈；2017-03-14 條目已在庫 — SKIP，已飽和。
 

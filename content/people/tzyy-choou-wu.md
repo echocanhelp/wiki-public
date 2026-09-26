@@ -82,3 +82,5 @@ _No filled family fields on the TAH profile._
 ## Vault records (deepen pass 2026-09-10)
 - 本人 TAH 百科條目的 vault 工作頁：[[works/taiwaneseamericanhistory-org/622-tzyy-choou-wu-e5-90-b3-e5-ad-90-e4-b8-91-201509|TAH #622 條目（2015/09）]]。
 - Johns Hopkins 學人脈絡（本頁任教記載之 vault 社團頁）：[[organizations/johns-hopkins-university-taiwanese-student-association|JHU 台美學生會]]、[[organizations/taiwanese-american-students-association-at-johns-hopkins-university|JHU TASA]]。
+
+<!-- TJJ-A09260400-11: verified 2026-09-26 — subject link in slice article d2dbfe220e437602（2017 美東夏令會報導, 29faf54b8c9e2d10 同文副本）re-checked vs 正文; real mention, no wrong/spurious links; dated fact w/ article wikilink already in From the record; article-side .md suffix on Subjects link fixed — saturated, no new material. -->

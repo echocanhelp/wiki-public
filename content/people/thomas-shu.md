@@ -35,6 +35,8 @@ Founding member and board member of the American Premium Tea Institute (now merg
 
 
 ## From the record
+- 複核（TJJ-A09260400-7, 2026-09-26）：本 slice 文章 c62f5c50846fe267 正文再驗證——subject 連結為真（無錯鏈、無虛鏈）；對應日期條目（已掛該文 wikilink）已在庫 — SKIP，已飽和。
+
 
 - 複核（TJJ-A09251500-1, 2026-09-26）：本 slice 文章 [[articles/taiwanjustice-net/2025/20250430234000_洛杉磯僑胞細心防疫_-228台灣介心靈日音樂會不間_2589c86787ef4241|2589c867]]（228介心靈日音樂會防疫報導）正文再驗證——主辦人之一許正龍登台以客語吟唱詩歌確認見於正文，subject 連結為真，無錯鏈、無虛鏈；含該文 wikilink 的 2020-03-01 條目已在庫 — SKIP，無新材料。
 - 複核（TJJ-A09251000-5, 2026-09-26）：本 slice 文章 79b5f26fdef89d22（2023台美小姐選拔賽報導） 正文再驗證——許正龍以台灣茶葉大使列名評審確認見於正文，subject 連結為真，無錯鏈、無虛鏈；對應日期事實條目（已掛該文 wikilink）已在庫 — SKIP，無新材料。
