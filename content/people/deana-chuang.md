@@ -32,6 +32,7 @@ last_reviewed: 2026-09-26
 ## Role in the Community
 - Member of NATWA II (North America Taiwanese Women's Association II) and active in its Southern California chapter. At the joint community-service event *Taiwanese American Women Standing Up* (2013-01-12, Taiwan Center, Rosemead, CA) she spoke on **prosecuting domestic violence crimes**, alongside an APWC keynote on domestic-violence issues in the API community — see [[works/taiwaneseamerican-org/community-service-event-with-natwa-ii-in-socal|Community Service Event with NATWA II in SoCal]]. Her role as a Burbank prosecutor (above) is consistent with this advocacy work.
 - Profiled in the TAH community record [[works/taiwaneseamericanhistory-org/594-deana-chuang-e8-8e-8a-e6-83-a0-e7-b6-ba-201509|594. Deana Chuang 莊惠綺]] (published 2015-09-08).
+- Re-verified 2026-09-26 (deepen-x 09251039-4): the NATWA II SoCal event notice lists her as the event RSVP contact (Deana at dchuang47@hotmail.com / natwa2admin@natwa.com) — an organizational role beyond speaking — in [[works/taiwaneseamerican-org/community-service-event-with-natwa-ii-in-socal|Community Service Event with NATWA II in SoCal]].
 
 ## Family
 

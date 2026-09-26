@@ -31,7 +31,7 @@ last_reviewed: 2026-09-26
 
 ## Role in the Community
 - TAH Foundation Who's Who encyclopedia profile preserved in the corpus as [[works/taiwaneseamericanhistory-org/whoswho1645|1645. Chris CN Chang 張照男 05/2017]] (published 2017-05-11).
-- 2018 — appears as 張照男(醫科) among the National Taiwan University alumni who co-signed the protest statement against the SoCal NTU Alumni Association's invitation of Guan Chung-min (管中閔), archived at [[articles/taiwanjustice-net/2018/20180721091303_2018_07_20_抗議-南加州台大校友會邀管中閔來年會做專題演講_a428dcebbceacf38|抗議南加州台大校友會邀管中閔 (2018-07-19)]]. HOLD: identity inferred from the NTU medical-alumni roster matching this page's NTU/physician profile; the roster gives no further identifiers.
+- 2018 — appears as 張照男(醫科) among the National Taiwan University alumni who co-signed the protest statement against the SoCal NTU Alumni Association's invitation of Guan Chung-min (管中閔), archived at [[articles/taiwanjustice-net/2018/20180721091303_2018_07_20_抗議-南加州台大校友會邀管中閔來年會做專題演講_a428dcebbceacf38|抗議南加州台大校友會邀管中閔 (2018-07-19)]]. HOLD: identity inferred from the NTU medical-alumni roster matching this page's NTU/physician profile; the roster gives no further identifiers. Re-verified 2026-09-26 (deepen-x 09251039-4): fresh ZH+EN greps return only these two corpus records; no new community-authored facts.
 
 ## Family
 
