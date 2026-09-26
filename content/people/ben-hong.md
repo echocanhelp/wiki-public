@@ -51,3 +51,4 @@ The movement record holds two TAH encyclopedia entries on him — [[works/taiwan
 - Re-verified 2026-09-23 (slice 09221000-19): fresh ZH+EN re-grep matches only the same two TAH entries (#309/#683) plus index — SKIP, verified-saturated, no new absorbable material.
 - Re-verified 2026-09-24 (slice 09230500-32): fresh ZH+EN re-grep of works/articles returns only the two TAH entries (#309/#683) + index — SKIP, verified-saturated.
 - Re-verified 2026-09-25 (slice 09240500-25): fresh ZH+EN re-grep of works/articles returns only the two TAH entries (#309/#683) + index — SKIP, verified-saturated.
+- Re-verified 2026-09-25 (slice 09250800-27): fresh ZH+EN re-grep returns only the two TAH entries (#309/#683) + index — SKIP, verified-saturated.
