@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # ALEXANDER M. LEE (李豪台)
 
@@ -39,6 +39,7 @@ _No filled family fields on the TAH profile._
 - Also carried in [[works/taiwaneseamericanhistory-org/611-david-ti-e6-88-b4-e9-87-91-e6-98-9f-201509|TAH #611 (2015-09-19)]] — HOLD: conflict, this entry's title names ALEXANDER M. LEE 李豪台 while its original URL/slug refers to David Ti 戴金星; not merged.
 - Disambiguation: the corpus article [[articles/taiwanjustice-net/2022/20220815032000_2022_06_26_政治是性平戰場_-加州跨世代lgbt議員揚起彩虹旗_07e4b6df3357ad1e|臺灣Justice 2022-08-15 政治是性平戰場]] mentions an "Alex Lee 李天明" — a California state assemblyperson, **not** this NJ lawyer; not absorbed.
 - 複核 2026-09-25（slice 09231000-18）：再 grep 全庫（李豪台／ALEXANDER M. LEE），命中僅 TAH #46、#611 與 works index — 已全數吸收，SKIP。
+- 複核 2026-09-26（slice 09252123-11）：fresh ZH+EN grep（李豪台／ALEXANDER M. LEE／Alexander Lee）命中集與上述已吸收／已 HOLD 記錄相同 — 飽和，SKIP。
 
 ## Sources
 - [TAH #46 encyclopedia: 46. ALEXANDER M. LEE 李豪台 /	The first second generation to be the president of a ](https://taiwaneseamericanhistory.org/46-alex-lee-the-first-second-generation-to-be-the-president-of-a-taiwanese-american-association-new-jersey-2013/)

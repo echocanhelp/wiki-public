@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # H. M. Chen (陳惠民)
 
@@ -53,3 +53,4 @@ Minnesota community chronicle 明州台美人百年大事 records him as 明大�
 
 <!-- deepen-x slice 09231100-10 (2026-09-25): verified-saturated — fresh ZH+EN corpus re-grep hits only the already-cited records (own TAH encyclopedia entry + works index + 明州台美人百年大事); no new absorbable facts. -->
 <!-- deepen-x slice 09250400-19 (2026-09-25): verified-saturated — identical hit set (whoswho966 + ourjourneys123 + works index); no new absorbable facts. -->
+<!-- deepen-x slice 09252123-19 (2026-09-26): verified-saturated — fresh ZH+EN re-grep of content/works+content/articles returns only the already-cited records; no new absorbable facts. -->

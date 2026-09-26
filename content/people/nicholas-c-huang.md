@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Nicholas C. Huang (黄文郁)
 
@@ -51,3 +51,4 @@ Accomplishment
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+<!-- deepen-x slice 09252123-19 (2026-09-26): verified-saturated — fresh ZH+EN re-grep of content/works+content/articles returns only the already-cited records; no new absorbable facts. -->

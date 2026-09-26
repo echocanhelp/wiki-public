@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Sheng-Hsin Lin (林聖馨)
 
@@ -47,3 +47,4 @@ Dr. Lin is documented in the TAHS/Taiwanese American History story corpus throug
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- 2026-09-26 deepen-x slice 09252123-20: fresh ZH+EN grep of works+articles — hit set unchanged (own TAH record); no new absorbable material (SKIP-content).

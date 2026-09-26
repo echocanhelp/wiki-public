@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Samuel Wu (吳德聖牧師)
 
@@ -56,3 +56,4 @@ last_reviewed: 2026-09-25
 ## Network
 - [[organizations/presbyterian-church-in-taiwan||PCT]] — TAH Who’s Who
 - 2026-09-25 deepen-x slice 09250400-29: fresh ZH+EN grep of works/+articles/ — hit set identical to prior passes (own whoswho record + index only, plus already-absorbed memoir/statement mentions). Verified saturated; nothing new absorbable.
+- 2026-09-26 deepen-x slice 09252123-16: fresh ZH+EN grep — 吳德聖 appears only at own whoswho978 + index rows; Samuel hits remain other people (林雲郎, 李茂玄). HOLD on the 福神學院/Logos equivalence stands; verified saturated.

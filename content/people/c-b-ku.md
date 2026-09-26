@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # C. B. Ku (辜澄彬)
 
@@ -41,3 +41,4 @@ C. B. Ku (辜澄彬) is listed in the TAH Foundation Who’s Who Taiwanese Ameri
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - 2026-09-25 deepen-x slice 09250400-29: fresh ZH+EN grep of works/+articles/ — hit set identical to prior passes (own whoswho record + index only, plus already-absorbed memoir/statement mentions). Verified saturated; nothing new absorbable.
+- 2026-09-26 deepen-x slice 09252123-16: fresh ZH+EN grep — hit set identical (ourjourneys09 memoir + whoswho1039 + index, all already absorbed); 華府台灣同鄉會四十週年特刊 subject listing re-confirmed. Verified saturated.

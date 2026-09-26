@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # C. C. Hsieh (謝正忠)
 
@@ -45,3 +45,4 @@ last_reviewed: 2026-09-25
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- 2026-09-26 deepen-x slice 09252123-20: fresh ZH+EN grep of works+articles — hit set unchanged (own TAH record + Our Journeys 305); no new absorbable material (SKIP-content).

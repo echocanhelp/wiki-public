@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Frank Lin (林俊甫)
 
@@ -49,3 +49,4 @@ last_reviewed: 2026-09-25
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - 2026-09-25 deepen-x slice 09250400-29: fresh ZH+EN grep of works/+articles/ — hit set identical to prior passes (own whoswho record + index only, plus already-absorbed memoir/statement mentions). Verified saturated; nothing new absorbable.
+- 2026-09-26 deepen-x slice 09252123-16: fresh ZH+EN grep — hit set identical (ourjourneys19 + whoswho1489 + index + pew statement, all already absorbed). HOLD on the two-Frank-Lin identity conflict stands; verified saturated.

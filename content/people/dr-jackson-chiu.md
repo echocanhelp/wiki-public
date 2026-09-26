@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Dr. Jackson Chiu (邱坤勝博士)
 
@@ -52,3 +52,4 @@ last_reviewed: 2026-09-25
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - 2026-09-25 deepen-x slice 09231200-4 (retry run): fresh ZH+EN grep verified-saturated — hit set identical to prior passes; nothing new absorbable.
 - 2026-09-25 deepen-x slice 09250400-26: fresh ZH+EN grep verified-saturated — hit set identical (ourjourneys81 + eng + whos-who-2219, all already wikilinked); nothing new absorbable.
+- 2026-09-26 deepen-x slice 09252123-20: fresh ZH+EN grep of works+articles — hit set unchanged (own TAH record + Our Journeys 81); no new absorbable material (SKIP-content).
