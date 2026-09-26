@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Dr. Min-Hsiung Ko (柯敏雄醫師)
 
@@ -44,6 +44,7 @@ Corpus-linked (absorbed 2026-09-18):
 
 
 ## Worklog
+- 2026-09-26 deepen-x slice 09251023-3: re-verified — fresh grep (柯敏雄|Min-Hsiung Ko) against works+articles returns the identical hit set (mystories592 / -en, whos-who-1914, works index), all already wikilinked above. Nothing new absorbable; SKIP-content (verified-saturated).
 - 2026-09-25 deepen-x slice 09240800-12: re-verified — fresh grep of works+articles for 柯敏雄 / Min-Hsiung Ko returns the identical hit set (mystories592 / -en, whos-who-1914, works index), all already wikilinked. Nothing new absorbable; SKIP.
 - 2026-09-24 deepen-x slice 09230800-22: re-verified — fresh grep of works+articles for 柯敏雄 / Min-Hsiung Ko returns the identical hit set (mystories592 / -en, whos-who-1914, works index), all already wikilinked above. Nothing new absorbable.
 - 2026-09-23 deepen-x slice 09221400-8: re-verified — fresh grep of works+articles returns the identical hit set already absorbed and wikilinked above; no new corpus material. Nothing further absorbable.
