@@ -40,6 +40,7 @@ last_reviewed: 2026-09-25
 _No filled family fields on the TAH profile._
 
 > Re-verified 2026-09-25 (slice 09231200-31): fresh grep 黃英明/Ying-ming Huang returned only works/index.md entries for the already-linked records (#1384, award #67, 台權會新聞網 article); no additional corpus material — SKIP-with-reason.
+> Re-verified 2026-09-25 (slice 09250500-17): fresh grep returned only the three already-linked records (#1384, A1 award, 台權會新聞網 article) — SKIP-with-reason.
 
 ## Sources
 - [TAH #1384 encyclopedia: 1384. Ying-ming Huang 黃英明 / 2016/11](https://taiwaneseamericanhistory.org/whoswho1384/)

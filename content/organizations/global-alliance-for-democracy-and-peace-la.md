@@ -32,3 +32,5 @@ last_reviewed: 2026-09-25
 
 - [[organizations/taiwan-center||Taiwan Center]]
 - [[sources/taiwancenter-org||taiwancenter.org]]
+
+<!-- deepen-x 09250500-26: re-verified 2026-09-25 — ZH+EN+acronym grep of works+articles returned ZERO hits; no LA支盟-specific material. SKIP stands. -->

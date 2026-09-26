@@ -42,6 +42,7 @@ last_reviewed: 2026-09-25
 _No filled family fields on the TAH profile._
 
 > Re-verified 2026-09-25 (slice 09231200-31): fresh grep 張庭寧/Doris T. Chang returned only works/index.md entries for the already-absorbed book #140 and encyclopedia #1188; no memoir/press-kit narrative beyond the snapshot — SKIP-with-reason.
+> Re-verified 2026-09-25 (slice 09250500-17): fresh grep works/+articles/ returned only the two already-linked records (#140 book, #1188 encyclopedia entry); no memoir mentions — SKIP-with-reason.
 
 ## Sources
 - [TAH #1188 encyclopedia: 1188. Doris T. Chang  張庭寧 / 2016/04](https://taiwaneseamericanhistory.org/whoswho1188/)
