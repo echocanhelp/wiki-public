@@ -49,3 +49,5 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+<!-- deepen-x 09250500-20: re-verify 2026-09-25 — fresh grep ZH+EN over works+articles: hit set identical to prior passes (RTGSA hits are false positives: 萊斯大學=old Rice student gen, 提姆·萊斯=Tim Rice, 克萊斯勒=Kreisler). Nothing new absorbable. SKIP-no-new-material. -->

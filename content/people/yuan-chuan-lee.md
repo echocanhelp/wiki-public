@@ -51,3 +51,5 @@ Corpus re-grep 2026-09-17 (slice 09171100-12): grep 李遠川 / Yuan Chuan Lee a
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 <!-- deepen-x 09231200-22: re-verify 2026-09-25 — fresh grep ZH+EN over works+articles: hit set identical to prior passes (own TAH record(s) + harvest index only). Nothing new absorbable. SKIP-no-new-material. -->
+
+<!-- deepen-x 09250500-20: re-verify 2026-09-25 — fresh grep ZH+EN over works+articles: hit set identical to prior passes (RTGSA hits are false positives: 萊斯大學=old Rice student gen, 提姆·萊斯=Tim Rice, 克萊斯勒=Kreisler). Nothing new absorbable. SKIP-no-new-material. -->

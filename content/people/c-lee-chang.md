@@ -43,7 +43,7 @@ last_reviewed: 2026-09-25
 - SKIP (2026-09-20, deepen-x slice 09181300-21): corpus grep for 李長堅/C. Lee Chang returns only this entry's own index lines (works/index.md, adjacent 583/582 records) — no memoir or article mentions; nothing further absorbable.
 - SKIP re-verify (2026-09-22, deepen-x slice 09211200-10): fresh grep returns only [[works/taiwaneseamericanhistory-org/584-c-lee-chang-e6-9d-8e-e9-95-b7-e5-a0-85-201509|TAH #584]] and index lines — already cited; nothing absorbable.
 
-- SKIP re-verify (2026-09-25, deepen-x slice 09231300-9): fresh grep 李長堅/C. Lee Chang in works+articles returns only [[works/taiwaneseamericanhistory-org/584-c-lee-chang-e6-9d-8e-e9-95-b7-e5-a0-85-201509|TAH #584]] and index lines — already cited; no memoir mentions; nothing absorbable.
+- SKIP re-verify (2026-09-25, deepen-x slices 09231300-9, 09250500-16): fresh grep 李長堅/C. Lee Chang in works+articles returns only [[works/taiwaneseamericanhistory-org/584-c-lee-chang-e6-9d-8e-e9-95-b7-e5-a0-85-201509|TAH #584]] and index lines — already cited; no memoir mentions; nothing absorbable; saturated.
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/c-lee-chang/)

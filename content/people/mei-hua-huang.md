@@ -33,7 +33,7 @@ Mei-Hua Huang has recently received her Master’s Degree in Vocal Performance f
 ## Role in the Community
 - Held in the TAH musician archive as a soprano: [[works/taiwaneseamericanhistory-org/musician84|TAH musician #84 — Mei-Hua Huang 黃美華, Soprano]] (2014-12), and in the TAH Who's Who corpus: [[works/taiwaneseamericanhistory-org/whoswho1116|TAH #1116 — Mei-Hua Huang 黃美華]] (2016-06).
 - The community record documents her as a Taiwanese-American vocalist and music educator in the Los Angeles area: M.S. in Vocal Performance (CSULA, 1995), Orff music coordinator at Santa Monica Crossroads Community Foundation, and choir director at New Roads Middle School.
-- No further narrative material on her in the memoir corpus (records are bibliographic only; re-grepped 2026-09-21, again slice 09231100-13 2026-09-25 — only her own two TAH records hit, no new material).
+- No further narrative material on her in the memoir corpus (records are bibliographic only; re-grepped 2026-09-21, again slices 09231100-13 / 09250500-16 2026-09-25 — only her own two TAH records hit, no new material; saturated).
 
 ## Family
 
