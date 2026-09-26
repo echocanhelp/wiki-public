@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # I. Y. Lin (林一洋醫師)
 
@@ -57,3 +57,4 @@ last_reviewed: 2026-09-25
 - Corpus re-check 2026-09-24 (deepen-x slice 09230800-18): fresh grep (林一洋 / I. Y. Lin / I-Yang Lin, works+articles) — hit-set unchanged (ourjourneys201, #54/#69 lectureship records, #865, index). verified-saturated; SKIP, nothing new absorbable.
 
 Corpus re-check 2026-09-25 (deepen-x slice 09240800-6): fresh grep of works/+articles/ — hit set unchanged, all hits already wikilinked with facts absorbed. SKIP-deepen; verified saturated.
+- Corpus re-check 2026-09-26 (deepen-x slice 09251000-28): fresh grep (林一洋 / I. Y. Lin) — hit set unchanged (own encyclopedia #865, index, unrelated taiwanjustice 湯圓 article). Verified saturated; SKIP.

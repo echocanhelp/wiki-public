@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Chinese Christian Church of New Jersey (新澤西主恩堂台語堂)
 
@@ -34,3 +34,4 @@ The Chinese Christian Church of New Jersey (CCCNJ) is a multi-congregation Chris
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- 2026-09-26 deepen-x slice 09251000-28: re-verified — fresh grep returns only the 2015-06-11 org record + index, already absorbed/wikilinked. Verified-saturated, SKIP.

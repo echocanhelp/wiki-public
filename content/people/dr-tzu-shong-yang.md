@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Dr. Tzu-Shong Yang (楊次雄醫師)
 
@@ -52,3 +52,4 @@ Accomplishment
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- Corpus re-check 2026-09-26 (deepen-x slice 09251000-28): fresh grep (ZH+EN) of works+articles returns only records already wikilinked above — verified saturated; SKIP-deepen.
