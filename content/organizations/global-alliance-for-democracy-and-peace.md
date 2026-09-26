@@ -6,7 +6,7 @@ tags:
   - Taiwanese-American
   - Taiwan-Center-group-member
 verification_status: published
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Global Alliance for Democracy and Peace (GADP)
 
@@ -38,3 +38,4 @@ last_reviewed: 2026-09-25
 
 - [[organizations/taiwan-center||Taiwan Center]]
 - [[sources/taiwancenter-org||taiwancenter.org]]
+- 2026-09-26 corpus re-check (slice 09251400-4): fresh grep 全僑民主和平聯盟 / Global Alliance for Democracy / GADP across works + articles again returns zero hits. SKIP-with-reason unchanged.
