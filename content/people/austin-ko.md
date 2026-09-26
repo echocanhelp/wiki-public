@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Austin Ko
 
@@ -32,7 +32,7 @@ last_reviewed: 2026-09-25
 ## Role in the Community
 - National Programs Director, ITASA, 2014–2015 (TAH encyclopedia record [[works/taiwaneseamericanhistory-org/whoswho1603|1603. Austin Ko / 2017-04]]).
 - 2021-05 — signed the Taiwanese American community statement responding to Pew Research reports on Taiwanese identity ([[works/taiwaneseamerican-org/pew-research-center-taiwanese-american-statement|Pew response statement]]), listed alongside Mei-Shi Chu (NATWA), Barney Cheng, and others.
-- Re-swept 2026-09-25: ZH+EN grep of works/ and articles/ returns only his own profile record, the Pew response statement, and the works index; the ITASA history memoirs do not name him — nothing further absorbable.
+- Re-swept 2026-09-26, slice 09251047-15: ZH+EN grep of works/ and articles/ returns only his own profile record, the Pew response statement, and the works index; the ITASA history memoirs do not name him — nothing further absorbable.
 
 ## Family
 
