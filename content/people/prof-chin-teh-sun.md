@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Prof. Chin-Teh Sun (孫錦德教授)
 
@@ -47,6 +47,7 @@ From the NATPA founding memoir (創會首十年紀事) preserved in our corpus a
 - Corpus re-grep 2026-09-23 (deepen-x slice 09221200-24): same hit set (ourjourneys69 +EN, TAH #40/#737, works index). Verified-saturated; nothing new absorbable.
 - Corpus re-grep 2026-09-24 (deepen-x slice 09230700-16): same hit set (ourjourneys69 +EN, TAH #40/#737, works index); ZH memoir text verified verbatim against the absorbed 1980 創會十六人 and 1981 中西區區域理事 facts; founding roster corrected per memoir. No conflicts, nothing new absorbable.
 - Corpus re-grep 2026-09-25 (deepen-x slice 09240600-32): same hit set (ourjourneys69 +EN, TAH #40/#737, works index); verified-saturated, nothing new absorbable.
+- Corpus re-grep 2026-09-26 (deepen-x slice 09250900-32): same hit set (ourjourneys69 +EN, TAH #40/#737, works index); memoir ZH text re-verified verbatim against the absorbed 1980-02-16 創會十六人 and 1981 中西區區域理事 facts. Verified-saturated, nothing new absorbable.
 
 ## Sources
 - [TAH #40 encyclopedia: 40. Prof. Chin-Teh Sun 孫錦德教授](https://taiwaneseamericanhistory.org/40-prof-chin-teh-sun/)

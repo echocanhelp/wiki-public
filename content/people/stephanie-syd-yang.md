@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Stephanie Syd Yang
 
@@ -54,3 +54,4 @@ _No filled family fields on the TAH profile._
 <!-- deepen-x slice 09221300-3 re-verify 2026-09-23: fresh grep — identical hit set (whos-who-2080, index, 2019 releases, natwa2con); all absorbed; no new facts -->
 <!-- deepen-x slice 09230700-3 re-verify 2026-09-24: fresh grep — same hit set (whos-who-2080, index, 2019 releases, taiwanese-american-film, letter-of-advice, natwa2con); all absorbed; no new absorbable facts -->
 <!-- deepen-x slice 09240600-31 re-verify 2026-09-25: fresh grep — hit set identical (whos-who-2080, index, 2019 releases, natwa2con); all absorbed; no new facts -->
+<!-- deepen-x slice 09250900-31 re-verify 2026-09-26: fresh grep — hit set identical (whos-who-2080, index, 2019 releases, natwa2con); all absorbed; no new facts -->

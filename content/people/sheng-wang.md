@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Sheng Wang
 
@@ -55,3 +55,4 @@ Corpus re-verify (deepen-x slice 09240700-7, 2026-09-25): fresh Sheng Wang grep 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+Corpus re-verify (deepen-x slice 09250900-31, 2026-09-26): fresh grep returns the identical hit set — own TaiwaneseAmerican.org press records plus the works index; SKIP-deepen confirmed.

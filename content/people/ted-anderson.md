@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Ted Anderson (泰德安德森)
 
@@ -60,3 +60,4 @@ last_reviewed: 2026-09-25
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
+- Corpus re-scan 2026-09-26 (slice 09250900-31): fresh grep (incl. -E 泰德安德森) — hit set unchanged (TAH #322, #271, #911, #57, #541 + index); verified-saturated, SKIP-deepen.
