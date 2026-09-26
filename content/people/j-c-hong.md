@@ -16,8 +16,8 @@ last_reviewed: 2026-09-26
 - **Chinese:** 洪濬正
 - **Era:** 1957
 - **Geography:** Taichung, Taiwan
-- **Core roles:** Taiwanese American (TAH Who’s Who)
-- **Source:** TAH Foundation Who’s Who
+- **Core roles:** Taiwanese American (TAH Who's Who)
+- **Source:** TAH Foundation Who's Who
 
 
 <!-- tah-tables:start -->
@@ -37,10 +37,10 @@ last_reviewed: 2026-09-26
 
 ## Sources
 - [TAH #1777 encyclopedia: 1777. J. C. Hong 洪濬正](https://taiwaneseamericanhistory.org/whos-who-1777-j-c-hong/)
-- [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/j-c-hong/)
+- [TAH Who's Who](https://taiwaneseamericanhistory.org/person/j-c-hong/)
 
 ## Corpus note (deepen-x 09171100-25)
-SKIP: only corpus hit is the bibliographic stub of his own Who's Who entry ([[works/taiwaneseamericanhistory-org/whos-who-1777-j-c-hong|1777. J. C. Hong 洪濬正]], published 2017-07-24) — no additional community/corpus facts to absorb. Re-verified 2026-09-22 (slice 09210906-18) and 2026-09-25 (slice 09231500-13): fresh ZH+EN greps of works/ + articles/ still return only the index stub of this record.
+SKIP: only corpus hit is the bibliographic stub of his own Who's Who entry ([[works/taiwaneseamericanhistory-org/whos-who-1777-j-c-hong|1777. J. C. Hong 洪濬正]], published 2017-07-24) — no additional community/corpus facts to absorb. Re-verified 2026-09-22 (slice 09210906-18), 2026-09-25 (slice 09231500-13), and 2026-09-26 (slice 09251047-12): fresh ZH+EN greps of works/ + articles/ still return only the index stub of this record.
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
