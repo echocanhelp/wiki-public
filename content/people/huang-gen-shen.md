@@ -119,6 +119,8 @@ Notable quotes and mentions of **黃根深** in Taiwan Justice articles:
 
 ## From the record
 
+- 覆核（TJJ-A09250400-5, 2026-09-25）：本 slice 文章 89e6683c93156205（台美人台加人 p356, 2024-05-20 快照）正文再驗證——UCLA 座談與談人「李木通、劉天良、黃根深@03092016」條目確認見於正文 ——subject 連結為真，無錯鏈、無虛鏈；對應日期事實（含該文 wikilink）已在庫 — SKIP，已飽和。 [[articles/taiwanjustice-net/2024/20240520023218_root_89e6683c93156205|TJJ 89e6683c]]
+
 - 複核（TJJ-A09231000-4, 2026-09-25）：本 slice 文章 89e6683c93156205 正文再驗證——「台美人物誌-半世紀前UCLA的那些日子…黃根深」與 UCLA 座談與談人條目確認見於正文，subject 連結為真，無錯鏈、無虛鏈；對應日期事實（含該文 wikilink）已在庫 — SKIP，已飽和。[[articles/taiwanjustice-net/2024/20240520023218_root_89e6683c93156205|TJJ 89e6683c]]
 
 - 複核（TJJ-A09171200-2, 2026-09-24）：本 slice 文章 89e6683c93156205（台美人台加人 p356, 2024-05-20 快照）正文再驗證——UCLA座談與談人黃根深條目確認見於正文，連結為真；2016-03-09 條目已在庫 — SKIP，無新材料。 ([[articles/taiwanjustice-net/2024/20240520023218_root_89e6683c93156205|TJJ 台美人台加人存檔頁]])
