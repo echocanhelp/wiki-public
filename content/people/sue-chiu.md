@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Sue Chiu (黃雪香)
 
@@ -55,3 +55,4 @@ Being always enjoying various forms of artistic expression, I took my first cera
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 Corpus re-grep (slice 09230700-12, 2026-09-24): fresh grep for 黃雪香/Sue Chiu — hit-set unchanged (#529, #65, #853, #154, works index); TAFNC review mention in ourjourneys38-eng is organization-level. Verified-saturated; nothing new absorbable.
 Corpus re-grep (slice 09240700-16, 2026-09-25): fresh 黃雪香/Sue Chiu grep of works+articles — hit-set unchanged (#529, #65, #853, #154, works index). Verified-saturated; SKIP-content, nothing new absorbable.
+Corpus re-grep (slice 09251000-8, 2026-09-26): fresh 黃雪香/Sue Chiu grep of works+articles — hit-set unchanged (#529, #65, #853, #154, works index). Verified-saturated; SKIP-content, nothing new absorbable, no conflicts.
