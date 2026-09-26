@@ -24,6 +24,7 @@ The UCLA Taiwanese American Union (TAU) was an undergraduate Taiwanese student o
 - Otherwise no memoir or record in works/ or articles/ names the UCLA Taiwanese American Union / TAU directly; contemporary UCLA Taiwanese student organizing in the corpus is documented on the separate pages [[organizations/taiwanese-american-student-association-at-ucla|TASA at UCLA]] and [[organizations/taiwanese-student-association-at-ucla|Taiwanese Student Association at UCLA]].
 - HOLD (2026-09-25 re-grep): the only corpus "TAU" is 台美聯合陣線 (TAU), whose admins appear among the signatories of [[works/taiwaneseamerican-org/bilingual-chinese-english-an-open-letter-to-the-taiwanese-american-community-sec|給台美人的一封公開信：守護台灣民主 (2020)]] — that is the national 台美聯合陣線 coalition, not this UCLA undergraduate club; no relation claimed, attribution held. No fresh first-person material.
 - Corpus re-grep 2026-09-25 (slice 09250400-2): zero hits for "UCLA Taiwanese American Union"/uclatau in works/ + articles/ — nothing absorbable; page state unchanged.
+- Corpus re-grep 2026-09-26 (slice 09251527-22): zero hits again in works/ + articles/; 2012 Mini Olympics listing + 台美聯合陣線 TAU disambiguation HOLD above stand; nothing absorbable, page state unchanged.
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/ucla-taiwanese-american-union/)

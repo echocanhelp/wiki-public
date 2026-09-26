@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Prof. Andy Tsay (蔡安達教授)
 
@@ -53,3 +53,4 @@ Accomplishment
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 <!-- deepen-x 09250317-23: fresh grep (蔡安達/Andy Tsay) returns only already-absorbed records (whos-who-2175, 52891/#205, mystories482, works index) — verified-saturated, SKIP-no-new-facts. -->
+<!-- deepen-x 2026-09-26 slice 09251527-13: fresh grep (蔡安達/Andy Tsay) of content/works+articles returns the identical hit set (whos-who-2175, 52891/#205, mystories482, works index) — verified-saturated, SKIP-no-new-facts. -->
