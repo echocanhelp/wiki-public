@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 <!-- deepen-x slice 09190300-11: SKIP — re-grepped works+articles for 謝若蘭/Jolan Hsieh: hits are only the own TAH Who's Who record (works/taiwaneseamericanhistory-org/whoswho1180.md), a PCT network listing, and index pages; no memoir/community material to absorb. -->
 <!-- deepen-x slice 09201503-26: verified-saturated 2026-09-21 — re-grep against works+articles returns only whoswho1180 + index page; SKIP-with-reason stands. -->
@@ -57,3 +57,4 @@ SKIP-with-reason (deepen-x slice 09211507-30, 2026-09-22): corpus grep (謝若�
 
 <!-- deepen-x slice 09230900-30 re-grep 2026-09-25: fresh grep (謝若蘭 / Jolan Hsieh) in works+articles returns only own record whoswho1180 + works index — verified saturated, SKIP content-deepen. -->
 <!-- deepen-x 09250317-25 re-grep 2026-09-25: fresh ZH+EN grep of works+articles returns hit set identical to prior absorption waves (own TAH record + already-wikilinked works only); verified saturated, nothing new absorbable. -->
+<!-- deepen-x slice 09251527-11 re-grep 2026-09-26: fresh grep (謝若蘭 / Jolan Hsieh) of works+articles returns only own record whoswho1180 + works index; verified saturated; SKIP content-deepen. -->

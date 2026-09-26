@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Patricia J. Chen
 
@@ -52,3 +52,4 @@ _No filled family fields on the TAH profile._
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 <!-- deepen-x 09250317-25 re-grep 2026-09-25: fresh ZH+EN grep of works+articles returns hit set identical to prior absorption waves (own TAH record + already-wikilinked works only); verified saturated, nothing new absorbable. -->
+<!-- deepen-x slice 09251527-11 re-grep 2026-09-26: fresh grep (Patricia J. Chen / Patricia Chen) of works+articles returns the identical set (mystories53, 40-patricia-j-chen, 615, index); verified saturated; 615 author-name HOLD stands; nothing new absorbable. -->

@@ -42,6 +42,7 @@ last_reviewed: 2026-09-25
 Christine L. Yang (林壽英) is a recurring author and donor in the TAH corpus:
 
 - Memoirs: [[works/taiwaneseamericanhistory-org/mystories242|242. 一個来自泗溝水鄉下的女孩]] (2015/05), [[works/taiwaneseamericanhistory-org/282-a-immigrates-story-201506|282. 一個臺美移民的故事]] (2015/06), [[works/taiwaneseamericanhistory-org/mystories584|584. 結婚五十年雜感]] (2017/10), [[works/taiwaneseamericanhistory-org/mystories639|639. 社區服務與回饋]] (2018/06)
+- Community essays: [[works/taiwaneseamericanhistory-org/ourjourney221|221. 北濱會]] (2016/05, band A), [[works/taiwaneseamericanhistory-org/mystories-757|757. 一封驚喜的來信]] (2020/10, band B)
 - Archival donor: [[works/taiwaneseamericanhistory-org/collection-of-mrs-christine-yang|54. Collection of Mrs. Christine Yang 林壽英女士的收藏]]
 - Endowed giving: [[works/taiwaneseamericanhistory-org/awards-92|92. Walter M. Yang and Christine L. Yang Endowed Fund]]
 
