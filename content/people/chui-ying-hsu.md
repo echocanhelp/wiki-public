@@ -37,6 +37,7 @@ last_reviewed: 2026-09-26
 - Corpus scan (re-verified 2026-09-25, slice deepen-x-09231500-21) found no memoir/community activity beyond her own TAH encyclopedia entry, preserved in the corpus as a bibliographic stub at [[works/taiwaneseamericanhistory-org/309-chui-ying-hsu-e9-bb-83-e7-bf-a0-e8-8b-b1201502|TAH #309]] (published 2015-02-23). No absorbable community facts this pass; page stays on press-kit snapshot pending new material.
 - Her husband 許盛男 has his own TAH encyclopedia record published the same day: [[works/taiwaneseamericanhistory-org/308-maurice-hsu-e8-a8-b1-e7-9b-9b-e7-94-b7201502|TAH #308. Maurice Hsu 許盛男 / 2015-02]] — the couple was profiled as a pair in the 2015/02 batch.
 
+<!-- deepen-x re-verified SKIP 2026-09-26 (slice 09251047-7): fresh ZH+EN grep -> own TAH #309 stub + works index only; nothing absorbable. -->
 ## Sources
 - [TAH #309 encyclopedia: 309. Chui Ying Hsu 黃翠英/2015/02](https://taiwaneseamericanhistory.org/309-chui-ying-hsu-%e9%bb%83%e7%bf%a0%e8%8b%b1201502/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/chui-ying-hsu/)

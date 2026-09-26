@@ -7,7 +7,8 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
+<!-- deepen-x: SKIP 2026-09-26 (slice 09251047-10) — fresh grep 黃瑞宗/Roger Huang across works+articles: hits only own record whoswho1150 + works index; nothing absorbable. -->
 ---
 # Roger Huang (黃瑞宗)
 

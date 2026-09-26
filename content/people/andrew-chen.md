@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Andrew Chen (陳威光博士)
 
@@ -45,3 +45,4 @@ _No filled family fields on the TAH profile._
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 <!-- deepen-x re-verified SKIP 2026-09-25 (slice 09232337-6): fresh ZH+EN grep of content/works + content/articles -> only own TAH bibliography record + works-index entry (ATSA matches were NATSA/CAATSA substrings). No memoir/community material; nothing absorbable. No bio invented. -->
+<!-- deepen-x re-verified SKIP 2026-09-26 (slice 09251047-9): fresh ZH+EN grep of content/works + content/articles -> only own TAH record + works index; nothing absorbable. -->
