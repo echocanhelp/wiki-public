@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Dawen Wang (王大文)
 
@@ -48,3 +48,5 @@ _No filled family fields on the TAH profile._
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - Re-verified 2026-09-25 (slice 09250317-9): fresh grep 王大文/Dawen Wang returns whoswho1305, works index, and the TA.org Dawen cluster — all already linked; same-name HOLD unchanged. Verified saturated, SKIP.
+
+- 2026-09-26 DEEPEN-X09251451-2: fresh grep 王大文/Dawen Wang returns whoswho1305, works index, TA.org Dawen cluster — all already linked; same-name HOLD unchanged. Verified-saturated, SKIP.
