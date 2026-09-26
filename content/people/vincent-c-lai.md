@@ -36,7 +36,7 @@ _No filled family fields on the TAH profile._
 - **2016-11** — his own TAH Who's Who story record is archived as [[works/taiwaneseamericanhistory-org/whoswho1380|1380. Vincent C. Lai 賴經都 / 2016/11]] (2016-11-06, band B).
 - Re-verified 2026-09-22: corpus appearances limited to [[works/taiwaneseamericanhistory-org/ourjourneys-138|華府與巴城TAA的誕生]] (陳淮崇 memoir) and his own record; no additional memoir material found.
 
-<!-- DEEPEN-X RECHECK 2026-09-25: corpus grep re-run (賴經都 / Vincent C. Lai, works+articles) — hit set unchanged: ourjourneys-138 memoir, own TAH #1380 record, works index. Section already current; no new material. -->
+<!-- DEEPEN-X RECHECK 2026-09-25 (slices incl. 09250600-25): corpus grep re-run (賴經都 / Vincent C. Lai, works+articles) — hit set unchanged: ourjourneys-138 memoir, own TAH #1380 record, works index. Section already current; no new material. -->
 
 ## Sources
 - [TAH #1380 encyclopedia: 1380. Vincent C. Lai 賴經都 / 2016/11](https://taiwaneseamericanhistory.org/whoswho1380/)

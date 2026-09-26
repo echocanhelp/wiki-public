@@ -41,7 +41,7 @@ Corpus check 2026-09-18, re-verified 2026-09-21 (slice 09191200-12) and 2026-09-
 
 No community/memoir material found → no biography added (no invented biography).
 
-Corpus re-check (2026-09-25, deepen-x slice 09231300-31): fresh grep (劉大強 / Ta-Chiang Liu) again returned only own record [[works/taiwaneseamericanhistory-org/whos-who-2122-ta-chiang-liu|TAH #2122]] + index — SKIP persists.
+Corpus re-check (2026-09-25, deepen-x slices 09231300-31 and 09250600-25): fresh grep (劉大強 / Ta-Chiang Liu) again returned only own record [[works/taiwaneseamericanhistory-org/whos-who-2122-ta-chiang-liu|TAH #2122]] + index — SKIP persists.
 
 ## Sources
 - [TAH #2122 encyclopedia: 2122. Prof. Ta-Chiang Liu 劉大強教授](https://taiwaneseamericanhistory.org/whos-who-2122-ta-chiang-liu/)
