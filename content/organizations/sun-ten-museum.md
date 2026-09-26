@@ -32,6 +32,8 @@ Re-grep 2026-09-24 (slice 09230317-22, incl. 順天美術館 / Sun Ten / Shun-Ti
 
 Re-grep 2026-09-25 (slice 09240317-27, 順天美術館 / Sun Ten / Shun-Tien variants, works+articles): same six records (art-exhibitions-2, ourjourneys107, history-of-sun-ten-museum, 13-shun-tien-art-museum-donates, videos143, art-exhibitions37) — no new mention. SKIP (saturated).
 
+Re-grep 2026-09-25 (slice 09250700-23): same six records, no new mention. SKIP (saturated).
+
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/sun-ten-museum/)
 
