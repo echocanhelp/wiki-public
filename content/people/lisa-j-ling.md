@@ -40,7 +40,7 @@ Host of National Geographic Explorer, reality television show, The Job, reporter
 - Held in the TAH Foundation story corpus: [[works/taiwaneseamericanhistory-org/132-lisa-j-ling-e5-87-8c-e5-bf-97-e6-85-a7|TAH #132 — Lisa J. Ling 凌志慧]] (published 2014-12-03, bibliographic record).
 - Her corpus record documents a national-media career (CNN, OWN, ABC, National Geographic Explorer, Channel One News); no movement-organization activity is recorded in the vault corpus beyond the TAH Who's Who profile itself.
 - Listed in the same TAH Who's Who corpus alongside [[people/laura-g-ling|Laura G. Ling 凌志美]] (TAH #133).
-- Corpus grep re-run (works + articles, 2026-09-21, again slice 09231100-13 2026-09-25): hit set unchanged — only the TAH #132 record and the works index. Nothing new absorbable; no movement-organization mentions surfaced.
+- Corpus grep re-run (works + articles, 2026-09-21, again slices 09231100-13 and 09250500-15, 2026-09-25): hit set unchanged — only the TAH #132 record and the works index. Nothing new absorbable; no movement-organization mentions surfaced.
 
 ## Sources
 - [TAH #132 encyclopedia: 132. Lisa J. Ling 凌志慧](https://taiwaneseamericanhistory.org/132-lisa-j-ling-%e5%87%8c%e5%bf%97%e6%85%a7/)
