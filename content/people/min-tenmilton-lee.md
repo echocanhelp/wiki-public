@@ -42,6 +42,7 @@ last_reviewed: 2026-09-26
 - Personal archive donated to the TAH collection: 84. 李明典博士的收藏 / Collection of the Dr. Min-Ten (Milton) Lee ([[works/taiwaneseamericanhistory-org/private-collections-84|private-collections-84]], era 2019) — his own papers are primary material in the corpus.
 - His own TAH encyclopedia record is held in the corpus: 972. Min Ten(Milton) Lee 李明典 / 2016/05 ([[works/taiwaneseamericanhistory-org/whoswho972|whoswho972]]).
 - HOLD: video72 credits him as "Dr. Ming Lee" while other records use "Min-Ten (Milton) Lee" — same wikilink target, name spelling not auto-merged.
+- 2026-09-26 re-grep (slice 09260317-8): 李明典/Min-Ten/Milton Lee across works+articles returns exactly the already-linked records (dr-minten-lee, private-collections-84, whoswho972, videos71/72, publications999) — SKIP: saturated, no new corpus material, Dr. Ming Lee spelling HOLD maintained.
 
 ## Family
 
