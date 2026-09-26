@@ -71,3 +71,5 @@ _No filled family fields on the TAH profile._
 - Corpus re-grep (slice deepen-x-slice-09211300-5, 2026-09-22): 張信義 / S. Y. Chang / Sidney Chang across works+articles — hit set unchanged (whoswho1651, OJ #33-eng/#74/#74-eng/#79/#377, TJJ 楊遠薰 reprints 2021/2024/2025, index); all already linked. SKIP-no-new-material; English-name HOLD stands.
 - Corpus re-grep (slice deepen-x-slice-09220700-2, 2026-09-22): 張信義 / S. Y. Chang / Sidney Chang — hit set unchanged (whoswho1651, OJ #33-eng/#74/#74-eng/#79/#377); all already linked. SKIP-with-reason: 語料已飽和; English-name HOLD stands.
 - Corpus re-grep (slice deepen-x-slice-09221500-1, 2026-09-23): 張信義 across works+articles — hit set unchanged (whoswho1651, OJ #33-eng/#74/#79/#377, index, TJJ 楊遠薰 reprints 2021/2025); all already linked, incl. the 2025-03-23 re-verification note above. SKIP-with-reason: 語料已飽和; English-name HOLD stands.
+
+<!-- TJJ-A09250800-1: verified 2026-09-26 — 本 slice 4 篇（楊遠薰《卓甫良與TAF的故事》兩存檔 e7aad53f／b4206bcf；獨傲村夫〈反攻大陸（下）〉兩存檔 dd1007a6／35d25fb4）正文再驗證——subject 連結為真實提及（無錯鏈、無虛鏈）；含該文 wikilink 的日期事實條目已在庫 — saturated, no new material. -->

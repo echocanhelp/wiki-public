@@ -72,3 +72,5 @@ HOLD: conflict — spouse page linked as 江美惠 vs corpus work page listing �
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+<!-- TJJ-A09250800-1: verified 2026-09-26 — 本 slice 4 篇（楊遠薰《卓甫良與TAF的故事》兩存檔 e7aad53f／b4206bcf；獨傲村夫〈反攻大陸（下）〉兩存檔 dd1007a6／35d25fb4）正文再驗證——subject 連結為真實提及（無錯鏈、無虛鏈）；含該文 wikilink 的日期事實條目已在庫 — saturated, no new material. -->
