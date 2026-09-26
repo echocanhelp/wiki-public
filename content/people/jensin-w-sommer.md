@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Jensin W. Sommer (翁正欣)
 
@@ -60,3 +60,4 @@ Accomplishment
 Corpus re-check 2026-09-23 (deepen-x slice 09221300-7): fresh grep for 翁正欣 / Jensin — hit set unchanged (whos-who-559, ota-228, ff366 family record, 233 Navy essay, jensin-w-sommer Maryland record, works index); all already absorbed above. SKIP-deepen; nothing new absorbable.
 
 Corpus re-check 2026-09-25 (deepen-x slice 09240700-30): fresh ZH+EN grep — hit set unchanged (whos-who-559, ota-228, ff366 family record, 233 Navy essay, jensin-w-sommer Maryland record, index); all already absorbed. SKIP-deepen; nothing new absorbable.
+Corpus re-check 2026-09-26 (deepen-x slice 09251000-23): fresh grep -E (翁正欣|Jensin) — hit set unchanged (whos-who-559, ota-228, ff366, 233 Navy essay, jensin-w-sommer Maryland record, index); all already absorbed. SKIP-deepen; nothing new absorbable.

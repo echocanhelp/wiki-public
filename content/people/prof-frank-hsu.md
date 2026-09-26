@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Prof. Frank Hsu (許德標教授)
 
@@ -57,3 +57,4 @@ His community record is held in the TA.org story corpus as Who's Who #1701 (publ
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+<!-- deepen-x 09251000-23: re-verified 2026-09-26 — fresh grep -E (許德標|Frank Hsu, works+articles): hits unchanged (whos-who-1701, ff335, ourjourneys255, Pew statement, index) — all absorbed as collision notes. SKIP-content — saturated. -->
