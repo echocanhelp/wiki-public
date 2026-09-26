@@ -58,6 +58,8 @@ last_reviewed: 2026-09-26
 
 ## From the record
 
+- 複核（TJJ-A09251400-6, 2026-09-26）：本 slice 文章 d6441ab32ea8636d 正文再驗證——高成炎出席座談並發言（陳文成差一屆學長）確認見於正文，連結為真，無錯鏈、無虛鏈；2021-09-25 條目（含該文 wikilink）已在庫 — SKIP，無新材料。
+
 - 複核（TJJ-A09240800-9, 2026-09-25）：本 slice 文章 d6441ab32ea8636d 正文再驗證——高成炎出席座談並發言（陳文成差一屆學長）確認見於正文，連結為真，無錯鏈、無虛鏈；2021-09-25 條目（含該文 wikilink）已在庫 — SKIP，無新材料。
 
 - 語料複核（DEEPEN-X slice 09250900-12, 2026-09-26）：fresh ZH+EN grep（高成炎／Cheng-yan Kao）命中集不變（ourjourneys106/101/96、617 文、415 條目、TJJ 向心案彙整、陳文成 40 週年報導），全數已收錄；HOLD（NASA vs GE 任職）維持 — SKIP-with-reason。
