@@ -36,3 +36,6 @@ The United Taiwanese Association (UTA) at UC San Diego — known in Chinese as �
 
 > Re-grep 2026-09-24 (slice 09230400-13): fresh grep hit set = own work record ucsd-united-taiwanese-association + index only; nothing new absorbable. SKIP: verified-saturated.
 > Re-grep 2026-09-25 (slice 09240317-26): fresh grep (台灣學友會 / United Taiwanese) hit set = own work record + index only; nothing new absorbable. SKIP: verified-saturated.
+2026-09-25
+
+> Corpus re-grep  (slice 09250700-27): fresh ZH+EN re-grep against works/articles — hit set identical to records already absorbed and linked above; no new absorbable community facts. SKIP: verified-saturated.

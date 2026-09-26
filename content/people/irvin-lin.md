@@ -59,3 +59,5 @@ Accomplishment
 - Corpus re-grep 2026-09-24 (slice 09230400-13): hit set identical — #234 / #1431 / #1052 / #493 plus index listings; remaining works/articles matches remain the known LIEN/IRVIN false positives. Verified saturated.
 
 slice 09240317-23 re-grep (2026-09-25): fresh ZH+EN corpus grep; hit set identical to links already absorbed above — no new absorbable facts. SKIP: verified-saturated.
+
+slice 09250700-25 re-grep (2026-09-25): fresh 林斐強/Irvin Lin grep; hit set identical — #234 / #1431 / #1052 / #493 plus index listings; no new memoir material. SKIP: verified-saturated.

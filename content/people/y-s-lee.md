@@ -57,3 +57,4 @@ Accomplishment
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - Corpus re-grep 2026-09-25 (slice 09240317-24): hit set identical to records already absorbed above; no new corpus facts. SKIP-with-reason (saturated).
+- Corpus re-grep 2026-09-25 (slice 09250700-26): hit set identical (TAH #1850, twjustice 大稻埕文 2025/2021 兩版, works/index) — no new corpus facts. Verified saturated; Columbia M.A. 1911 vs 1915 HOLD stands. SKIP-with-reason.

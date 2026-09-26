@@ -56,3 +56,4 @@ _No filled family fields on the TAH profile._
 - Re-grep 2026-09-22 (slice 09220800-24): hit set identical (22-welly-yang, works/index, ILF announcement) — all already absorbed. Verified saturated; STUF vs Starside HOLD stands.
 - Re-grep 2026-09-24 (slice 09230317-23): hit set identical (22-welly-yang own record, ILF announcement, works/index) — all already absorbed. Verified saturated; STUF vs Starside HOLD stands.
 - Re-grep 2026-09-25 (slice 09240317-26): hit set identical (22-welly-yang own record, ILF announcement, works/index) — all already absorbed. Verified saturated; STUF vs Starside HOLD stands.
+- Re-grep 2026-09-25 (slice 09250700-26): hit set identical (22-welly-yang own record, ILF announcement, works/index) — all already absorbed. Verified saturated; STUF vs Starside HOLD stands. SKIP-with-reason.

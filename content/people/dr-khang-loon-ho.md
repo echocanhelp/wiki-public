@@ -50,3 +50,4 @@ _No filled family fields on the TAH profile._
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - Corpus re-grep 2026-09-25 (slice 09240400-4): fresh ZH+EN hits identical to the absorbed set (TAH #1960, 我們的旅程 #269, both Covid-19 浩劫餘生錄 pages, index) — no new community material. Verified-saturated; SKIP-with-reason.
+- Corpus re-grep 2026-09-25 (slice 09250700-26): fresh ZH+EN hits identical to the absorbed set (TAH #1960, 我們的旅程 #269, both Covid-19 浩劫餘生錄 pages, works/index) — no new community material. Verified-saturated; SKIP-with-reason.

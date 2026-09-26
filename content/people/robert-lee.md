@@ -56,3 +56,6 @@ Accomplishment
 > Corpus check (deepen-x slice 09220900-27, 2026-09-23): fresh re-grep (李席舟|Robert Lee) — hit set identical to absorbed set (own TAH #1868 record, ourjourneys233 活動組/募款組 名單, works index, unrelated Robert E. Lee 雕像報導 under Disambiguation). No new community facts. SKIP: saturated.
 > Corpus check (deepen-x slice 09230400-18, 2026-09-24): fresh re-grep (李席舟|Robert Lee) — hit set identical to absorbed set (TAH #1868, ourjourneys233, works index, unrelated Robert E. Lee 雕像報導). No new community facts. SKIP: saturated.
 > Corpus check (deepen-x slice 09240400-6, 2026-09-25): fresh ZH+EN re-grep (李席舟|Robert Lee) — hit set identical to absorbed set (TAH #1868, ourjourneys233 活動組/募款組, works index, unrelated Robert E. Lee 雕像報導). No new community facts. SKIP: verified-saturated.
+2026-09-25
+
+> Corpus re-grep  (slice 09250700-27): fresh ZH+EN re-grep against works/articles — hit set identical to records already absorbed and linked above; no new absorbable community facts. SKIP: verified-saturated.

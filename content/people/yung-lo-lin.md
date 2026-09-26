@@ -61,3 +61,5 @@ slice 09220800-20 re-grep (2026-09-22): corpus hit set identical to links alread
 slice 09230317-20 re-grep (2026-09-24): corpus hit set identical to links already absorbed above — no new absorbable facts.
 
 slice 09240317-23 re-grep (2026-09-25): fresh ZH+EN corpus grep; hit set identical to links already absorbed above — no new absorbable facts. SKIP: verified-saturated.
+
+slice 09250700-25 re-grep (2026-09-25): fresh 林永樂/Yung-Lo Lin grep; hit set identical (#whos1282, ourjourneys245, works/index, plus the known taiwanjustice.net 2015 editorial = ROC diplomat namesake, not merged) — no new absorbable facts. SKIP: verified-saturated.
