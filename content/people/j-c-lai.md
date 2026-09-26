@@ -41,3 +41,4 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- 2026-09-26 re-verified (slice -21): grep 賴景宗 / J. C. Lai again returns only whoswho2035 + works index — nothing absorbable.

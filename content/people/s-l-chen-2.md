@@ -47,3 +47,4 @@ last_reviewed: 2026-09-26
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- 2026-09-26 re-verified (slice -21): fresh ZH+EN grep returns only own TAH record pages (whoswho1477, whoswho1390, musician372) + works index; HOLD on the two-S.-L.-Chen collision stands; nothing absorbable.

@@ -46,3 +46,4 @@ Listed in the TAH Foundation Who's Who encyclopedia record [[works/taiwaneseamer
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- 2026-09-26 re-verified (slice -21): fresh grep 林淑珠 returns only whoswho1204 + works index; verification saturated, SKIP.
