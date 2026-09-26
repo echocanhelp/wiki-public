@@ -7,7 +7,7 @@ tags:
 provisional: true
 verification_status: provisional
 needs_source: true
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Brother Ku (GSTPC)
 
