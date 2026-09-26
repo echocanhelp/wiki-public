@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Michele Cheng
 
@@ -57,3 +57,4 @@ _No filled family fields on the TAH profile._
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - [[works/taiwaneseamericanhistory-org/musician355|TAH 355 — Michele Cheng, composer]]
 - [[works/taiwaneseamericanhistory-org/whoswho1235|TAH 1235 — Michele Cheng]]
+<!-- deepen-x slice 09251417-4 re-grep 2026-09-26: fresh ZH+EN grep works+articles — hit set identical to already-cited records; no new corpus material. Verified-saturated, SKIP new content. -->

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 <!-- deepen-x slice 09190300-11: SKIP — corpus grep for 林威伸/Wei-Shen (works+articles) hits only the own TAH Who's Who record (works/taiwaneseamericanhistory-org/whos-who-1913-wei-shen-lin.md) and index pages; no memoir/community material to absorb. TMAGP presidency (2017) already recorded below. -->
 # Dr. Wei-Shen W. Lin (林威伸醫師)
@@ -54,3 +54,4 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+<!-- deepen-x slice 09251417-4 re-grep 2026-09-26: fresh ZH+EN grep works+articles — hit set identical to already-cited records; no new corpus material. Verified-saturated, SKIP new content. -->
