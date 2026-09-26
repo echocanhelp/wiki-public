@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Justine Ker
 
@@ -52,3 +52,4 @@ last_reviewed: 2026-09-25
 <!-- deepen-x slice 09221300-29 re-verify 2026-09-23: fresh grep of works/+articles/ — hit set identical to records already cited/absorbed on this page; verified-saturated, no new absorbable facts -->
 <!-- deepen-x slice 09230800-21 re-verify 2026-09-24: fresh grep of works/+articles/ — hit set identical (whos1124-justine-ker, justineker interview, representation-apa, index); verified-saturated, SKIP-content -->
 <!-- deepen-x slice 09240800-12 re-verify 2026-09-25: fresh grep of works/+articles/ — hit set identical (whos1124-justine-ker, justineker interview, representation-apa, index); verified-saturated, SKIP-content -->
+<!-- deepen-x slice 09251023-5 re-verify 2026-09-26: fresh grep of works/+articles/ — hit set identical to records already cited/absorbed on this page; verified-saturated, no new absorbable facts -->

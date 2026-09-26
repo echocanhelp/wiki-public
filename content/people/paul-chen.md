@@ -219,6 +219,8 @@ Notable quotes and mentions of **陳柏宇** in Taiwan Justice articles:
 
 ## From the record
 
+- 複核（TJJ-A09251000-14, 2026-09-26）：slice 文章 097b5750fcf3091a（花蓮0403震災台館勸募報導）subject link 正文再驗證——陳柏宇以會館董事長身分發言賑災協調中心角色，連結為真，無錯鏈、無虛鏈；2024-04-04 條目（含該文 wikilink）已在庫 — SKIP，無新材料。
+
 - 複核（TJJ-A09251000-9, 2026-09-26）：slice 文章 2fc3294ed01f2d2a（Michelle Steel 朴銀珠募款餐會報導, 2025-08-08 快照；同文 8c5d1203 2022-08-13 快照）正文再驗證——與會名單歸屬為真，無錯鏈、無虛鏈；2022-07-02 條目（含該文 wikilink）已在庫 — SKIP，已飽和。
 
 - 連結複核（TJJ-A09251000-6, 2026-09-26）：本 slice 兩篇同文快照 b1d58af16c0a5e5b / 80c0a825a7a661b6（2021年南加州僑界支持台灣參與WHA聯合聲明）——本頁人物列名共同發起人清單，subject 連結為真，無錯鏈、無虛鏈；2021-05-13 條目（含該文 wikilink）已在庫 — SKIP，已飽和。

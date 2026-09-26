@@ -100,6 +100,8 @@ A business card shared during onboarding identifies Ken Wu (吳兆峯) as Secret
 
 ## From the record
 
+- 複核（TJJ-A09251000-14, 2026-09-26）：slice 文章 097b5750fcf3091a（花蓮0403震災台館勸募報導）subject link 正文再驗證——吳兆峯為引語發言人（董事會臨時動議賑災勸募、代表台館受訪NBC/ABC/KTLA），連結為真，無錯鏈、無虛鏈；2024-04-04 條目（含該文 wikilink）已在庫 — SKIP，無新材料。
+
 - 複核（TJJ-A09250400-18, 2026-09-25）：slice 文章 [[articles/taiwanjustice-net/2022/20221127045936_2022_09_25_第53回世界台灣文化論壇_ti美國點光台灣高龍榮-吳_e9faa17a0a7ea61c|e9fa…]]（第53回世界台灣文化論壇）正文再驗證——與談人 Ken Wu（吳兆峯）記述確認見於正文，subject 連結為真，無錯鏈、無虛鏈；2022-09-25 條目已在庫 — SKIP，已飽和。
 
 - 複核（TJJ-A09240700-12, 2026-09-25）：slice 文章 097b5750fcf3091a（花蓮0403震災台館勸募報導）subject link 正文再驗證——吳兆峯為引語發言人（台館董事會臨時動議賑災勸募、代表受訪主流媒體），連結為真，無錯鏈、無虛鏈；2024-04-04 條目已在庫 — SKIP，無新材料。

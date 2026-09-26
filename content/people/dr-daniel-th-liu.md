@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Dr. Daniel TH Liu (劉鼎秀博士)
 
@@ -54,3 +54,4 @@ last_reviewed: 2026-09-25
 - Corpus re-check 2026-09-24 (slice 09230800-25): fresh ZH+EN grep of works/ + articles/ returned the identical saturated set (mystories22, #252, #142, ourjourneys53) — all already wikilinked above. SKIP; nothing new absorbable.
 > Re-verify 2026-09-23 (deepen-x slice 09221400-10): fresh grep works/+articles/ — hit set unchanged (own records + works/index only), all records already wikilinked above. SKIP; nothing new absorbable.
 <!-- deepen-x slice 09240800-15 (2026-09-25): saturated re-verify — fresh grep (劉鼎秀/Daniel TH Liu, works+articles) returns the identical absorbed set (mystories22, #252 自傳, #142, ourjourneys53 會館贊助) + index. Nothing new absorbable. -->
+<!-- deepen-x slice 09251023-5 re-verify 2026-09-26: fresh grep of works/+articles/ — hit set identical to records already cited/absorbed on this page; verified-saturated, no new absorbable facts -->

@@ -55,6 +55,7 @@ last_reviewed: 2026-09-24
 
 - 覆核（TJJ-A09171200-4, 2026-09-24）：本 slice 四篇 TJJ 文章（台美人台加人索引 6f2b431c、NATMA 標籤頁 08b82976、挺港聯合聲明 53455d7e、台美人分類頁 1a2bdc08）正文再驗證——subject 連結為真實提及，無錯鏈、無虛鏈；對應日期事實（含該文 wikilink）已在庫 — SKIP，無新材料。
 - 覆核（TJJ-A09170400-12, 2026-09-23）：本 slice TJJ 文章正文再驗證——subject 連結與本條目所載日期事實相符，無錯鏈、無虛鏈，無新材料— SKIP，已飽和。
+- 2019-11-02 — 其紀念廣場命名案自2014年台大校務會議同意後延宕未建，台大校方反悔拒負一半工程費，台大學生會、研究生協會、數學系師生20餘人陪同陳文成基金會發動廣場工程募款（預算1200萬元，家人已捐200萬元、董事長楊黃美幸捐100萬元），二姊陳寶月出席記者會籲「還我真相」；廣場盼於2020-07-02紀念晚會前建置完成（[[articles/taiwanjustice-net/2022/20220415221720_2019_11_02_校方反悔拒出陳文成紀念廣場工程費_-台大師生偕_03754005e8506b45|TJJ 報導，2019-11-02]]）。
 - 2019-09-03 — The Professor Chen Wen-chen Memorial Foundation, in his name, was a signatory of the overseas Taiwanese organizations' joint statement 「拒一國兩制！海外台灣人社團：支持香港反對中國暴政」, signed by 「陳文成教授紀念基金會 會長劉斌碩 教授」 ([[articles/taiwanjustice-net/2024/20240221122756_root_53455d7e13136092|TJJ record, 2024-02-21 archive of the 2019-09-04 posting]]).
 - 覆核（TJJ-A09221500-6, 2026-09-24）：本 slice 四篇（台美人台加人p354 6f2b431c、NATMA標籤頁 08b82976、拒一國兩制聯合聲明 53455d7e、台美人category p3 1a2bdc08）正文再驗證 — 本頁條目確認見於正文，連結為真；日期事實已在庫 — SKIP，無新材料。
 
