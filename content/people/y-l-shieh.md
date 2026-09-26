@@ -38,6 +38,7 @@ last_reviewed: 2026-09-25
 - **Encyclopedia record:** TAH Who's Who entry #1243 (2016/08) — [[works/taiwaneseamericanhistory-org/whoswho1243|1243. Y. L. Shieh 沈郁良]].
 - Corpus re-verified 2026-09-22 (slice 09211300-23): hits are only ourjourneys-138 (創會先鋒獎 caption, already absorbed above) and #1243 (bibliographic only); no new absorbable material.
 - Corpus re-verified 2026-09-25 (slice 09231300-4): fresh ZH+EN greps return only ourjourneys-138 and #1243 — same hit set, both already absorbed/linked. Saturated.
+- Corpus re-verified 2026-09-25 (slice 09250600-17): fresh ZH+EN greps again return only ourjourneys-138, #1243, and the works index — no new absorbable material.
 
 ## Sources
 - [TAH #1243 encyclopedia: 1243.  Y. L. Shieh 	 沈郁良 / 2016/08](https://taiwaneseamericanhistory.org/whoswho1243/)

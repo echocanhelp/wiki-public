@@ -42,6 +42,7 @@ _No filled family fields on the TAH profile._
 - Corpus re-grep 2026-09-21 (deepen-x slice 09191200-19): works/ and articles/ returned no mentions beyond the subject's own TAH record — no community-authored material to absorb (SKIP).
 
 - Corpus re-grep 2026-09-21 (deepen-x slice 09210400-31): works/ and articles/ again returned only [[works/taiwaneseamericanhistory-org/578-dr-tom-f-lue-e5-91-82-e7-a6-8f-e6-b3-b0-201509|578. Dr. Tom F. Lue 呂福泰 / 2015/09]] and the works index — no community-authored material to absorb (SKIP).
+- Corpus re-grep 2026-09-25 (slice 09250600-19): identical hit set (578 + works index); no new memoir/community material (SKIP).
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-tom-f-lue/)
