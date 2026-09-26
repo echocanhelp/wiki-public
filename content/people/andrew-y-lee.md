@@ -56,6 +56,8 @@ _Corpus re-scan 2026-09-25: fresh grep of works/articles for 李友義/Andrew Le
 
 _Corpus re-scan 2026-09-25 (slice 09250800-13): fresh grep (李友義／Andrew Lee, works+articles) returns the same saturated hit set (63 紀念獎學金, ourjourneys-138, our-journeys-357, ourjourneys37/38/106); all absorbed above — SKIP-no-new-facts, HOLD (Northrop-through-2001 vs death-2000) unchanged._
 
+_Corpus re-scan 2026-09-26 (slice 09260317-23): fresh grep (李友義／Andrew Lee, works+articles) returns the same saturated hit set (63 紀念獎學金, ourjourneys-138, our-journeys-357, ourjourneys37/38/106); all absorbed above — SKIP-no-new-facts, HOLD (Northrop-through-2001 vs death-2000) unchanged._
+
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/andrew-y-lee/)
 

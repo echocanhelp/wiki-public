@@ -34,6 +34,8 @@ _Corpus re-scan 2026-09-24: fresh grep of works/articles for Formosa Foundation/
 
 _Corpus re-scan 2026-09-25 (slice 09250800-13): fresh grep (Formosa Foundation／福爾摩莎基金會／福爾摩沙基金會, works+articles) returns the same saturated hit set — all absorbed above; SKIP-no-new-facts, HOLDs unchanged._
 
+_Corpus re-scan 2026-09-26 (slice 09260317-26): fresh grep (Formosa Foundation／福爾摩莎基金會／福爾摩沙基金會, works+articles) returns the same saturated hit set (works 5, 41, 77, 2010-ambassador-program, formosa-betrayed, farewell, 2015 ambassador call, index) — all absorbed above; SKIP-no-new-facts, HOLDs (farewell-vs-camp sequence, 莎/沙 hanzi) unchanged._
+
 ## Source Notes
 
 - **Content priority A:** Name on Taiwan Center group-members page  
