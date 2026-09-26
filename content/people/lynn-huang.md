@@ -44,6 +44,8 @@ _No filled family fields on the TAH profile._
 
 ## From the record
 
+- 複核（TJJ-A09250400-13, 2026-09-25）：本 slice 文章 b7ec76fa6b673920／2b3d5a363a2935eb（以立合唱團「致死的震怒近了」同稿兩存檔副本）正文再驗證——鋼琴 Lynn Huang 黃令先確認見於正文，subject 連結為真，無錯鏈、無虛鏈；2023-02-03 條目（已含兩檔 wikilink）已在庫 — SKIP，已飽和。
+
 - 複核（TJJ-A09240900-1, 2026-09-25）：本切片四篇正文再驗證——54dd66fe454bf899 本條本頁再確認；subject 連結為真，2024-05-13 條目（已含該檔 wikilink）已在庫 — SKIP，無新材料。
 
 - 複核（TJJ-A09240800-7, 2026-09-25）：本切片相關存檔稿正文再驗證——本頁 subject 連結為真實提及（無錯鏈、無虛鏈），含該文 wikilink 的日期事實條目已在庫 — SKIP，無新材料。

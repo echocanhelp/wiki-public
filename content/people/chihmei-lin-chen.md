@@ -46,6 +46,8 @@ last_reviewed: 2026-09-25
 - Listed as a contributor in [[works/taiwaneseamericanhistory-org/ourjourneys79|Our Journeys 79]] with the blurb 「心理學博士，大學敎授」; that record also wikilinks back to her person page.
 
 ## From the record
+- 複核（TJJ-A09250400-3, 2026-09-25）：本 slice 文章 a428dceb 正文再驗證——chihmei-lin-chen 對應真實（記述確認見於正文），無錯鏈、無虛鏈；含該文 wikilink 的日期事實條目已在庫 — SKIP，無新材料。
+
 
 - 複核（TJJ-A09230800-1, 2026-09-24）：文章 a428dcebbceacf38（2018 台大校友公開信） 正文再驗證——本頁 subject 連結確認見於正文（無錯鏈、無虛鏈）；對應 From-the-record 條目已在庫 — SKIP，無新材料。
 - 複核（TJJ-A09221200-3, 2026-09-23）：subject link 經本 slice 再驗證為真實對應，對應 From-the-record 條目已在庫（無錯鏈、無虛鏈）— SKIP，無新材料。

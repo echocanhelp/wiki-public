@@ -50,6 +50,8 @@ last_reviewed: 2026-09-25
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/michael-fonte/)
 
 ## From the record
+- 複核（TJJ-A09250400-3, 2026-09-25）：本 slice 文章 29faf54b 正文再驗證——michael-fonte 對應真實（記述確認見於正文），無錯鏈、無虛鏈；含該文 wikilink 的日期事實條目已在庫 — SKIP，無新材料。
+
 
 - 覆核（TJJ-A09240800-14, 2026-09-25）：本 slice 文章 c1e603063718b409（華府台灣同鄉會感恩節餐會報導, 2023-12-01 快照）正文再驗證——彭光理致詞「美台最好時刻/最危險時刻」確認見於正文，subject 連結為真，無錯鏈、無虛鏈；2023-11-11 條目（已含該文 wikilink）已在庫 — SKIP，無新材料。
 

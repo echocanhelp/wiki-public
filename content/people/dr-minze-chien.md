@@ -55,6 +55,8 @@ _Compiled from this page's own Employment table — no new facts._
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-minze-chien/)
 
 ## From the record
+- 複核（TJJ-A09250400-3, 2026-09-25）：本 slice 文章 29faf54b 正文再驗證——dr-minze-chien 對應真實（記述確認見於正文），無錯鏈、無虛鏈；含該文 wikilink 的日期事實條目已在庫 — SKIP，無新材料。
+
 
 - 再核（TJJ-A09171100-7, 2026-09-24）：本 slice 兩份楊遠薰夏令會報導（29faf54b／d2dbfe22 同文存檔副本）正文再驗證——簡明子以召集人身分 7/2 揭幕致詞、7/4 交接會旗之連結為真；2017-07 條目已在庫 — SKIP，無新材料。
 

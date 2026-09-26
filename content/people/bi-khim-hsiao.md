@@ -43,6 +43,8 @@ _No filled family fields on the TAH profile._
 
 
 ## From the record
+- 複核（TJJ-A09250400-3, 2026-09-25）：本 slice 文章 064fe05a 正文再驗證——bi-khim-hsiao 對應真實（記述確認見於正文），無錯鏈、無虛鏈；含該文 wikilink 的日期事實條目已在庫 — SKIP，無新材料。
+
 
 - 複核（TJJ-A09250400-7, 2026-09-25）：slice 文章 兩篇正文再驗證——9a66943e68f1e0ef（台美人台加人隨機頁, 2024-04-21 快照）收錄「美媒專訪 蕭美琴：區域穩定美台有共同責任」；2ac7d75679fda7fe（台灣鄉情與文化 p3, 2020-06-28 快照）收錄「蕭美琴辭別花蓮將駐美，支持者送祝福」，subject 連結為真，無錯鏈、無虛鏈；含該文 wikilink 的日期事實條目已在庫 — SKIP，無新材料。
 

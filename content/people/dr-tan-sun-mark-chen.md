@@ -59,6 +59,8 @@ Dr. Tan-Sun (Mark) Chen 陳唐山 – History of Taiwanese American (T.A. Archiv
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-tan-sun-mark-chen/)
 
 ## From the record
+- 複核（TJJ-A09250400-3, 2026-09-25）：本 slice 文章 29faf54b 正文再驗證——dr-tan-sun-mark-chen 對應真實（記述確認見於正文），無錯鏈、無虛鏈；含該文 wikilink 的日期事實條目已在庫 — SKIP，無新材料。
+
 
 - 再核（TJJ-A09171100-7, 2026-09-24）：本 slice 兩份楊遠薰夏令會報導（29faf54b／d2dbfe22 同文存檔副本）正文再驗證——陳唐山以遠景基金會董事長代表蔡英文總統演講「新政府的施政藍圖與展望」之連結為真；2017-07-02 條目已在庫 — SKIP，無新材料。
 

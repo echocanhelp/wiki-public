@@ -38,6 +38,8 @@ last_reviewed: 2026-09-25
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/peter-chiu/)
 
 ## From the record
+- 複核（TJJ-A09250400-3, 2026-09-25）：本 slice 文章 a428dceb 正文再驗證——peter-chiu 對應真實（記述確認見於正文），無錯鏈、無虛鏈；含該文 wikilink 的日期事實條目已在庫 — SKIP，無新材料。
+
 
 - 複核（TJJ-A09250400-6, 2026-09-26）：本 slice 兩篇分類存檔 f454eda084b7ca99（園藝分類）與 8bf4798dd2771f38（大洛杉磯台灣會館分類）正文再驗證——「Sadako與Peter Chiu(邱勝宗夫婦)講EM酵素及製作@20170924」確認見於兩篇正文，subject 連結為真，無錯鏈、無虛鏈；2017-09-24 條目（已含兩文 wikilink）已在庫 — SKIP，已飽和。
 

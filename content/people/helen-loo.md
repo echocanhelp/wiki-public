@@ -45,6 +45,8 @@ Accomplishment
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/helen-loo/)
 
 ## From the record
+- 複核（TJJ-A09250400-3, 2026-09-25）：本 slice 文章 29faf54b 正文再驗證——helen-loo 對應真實（記述確認見於正文），無錯鏈、無虛鏈；含該文 wikilink 的日期事實條目已在庫 — SKIP，無新材料。
+
 
 - 再核（TJJ-A09171100-7, 2026-09-24）：本 slice 兩份楊遠薰夏令會報導（29faf54b／d2dbfe22 同文存檔副本）正文再驗證——翁進治於 7/4 閉幕接手會旗出任 2018 TAC/EC 理事長之連結為真；2017-07-04 條目已在庫 — SKIP，無新材料。
 

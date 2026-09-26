@@ -100,6 +100,8 @@ In 2006, the party ended official recognition of factions, though they remain re
 - **Verification:** Pending — content derived from Wikipedia (CC BY-SA 3.0) and cross-referenced with existing Echopedia pages
 
 ## From the record
+- 複核（TJJ-A09250400-3, 2026-09-25）：本 slice 文章 f19de8f9 正文再驗證——democratic-progressive-party 對應真實（記述確認見於正文），無錯鏈、無虛鏈；含該文 wikilink 的日期事實條目已在庫 — SKIP，無新材料。
+
 
 - 複核（TJJ-A09240800-4, 2026-09-25）：本 slice 文章 042939d886040651（Mark Kao 高龍榮 Taipei Times 專欄 TJJ 轉載）正文再驗證——DPP 九合一勝選、被美方要求給對中政策「specific outcome」之記述確認見於正文，subject 連結為真，無錯鏈、無虛鏈；2015-03-27 條目（含該文 wikilink）已在庫 — SKIP，已飽和。
 
