@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # DFW Taiwanese American Heritage Foundation (達福台美人傳統文化基金會)
 
@@ -33,3 +33,4 @@ The Taiwanese American Heritage Foundation (TAHF) is a community organization ba
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - Re-grep 2026-09-25 (slice 09240800-27): fresh grep for 達福台美人傳統 / DFW Taiwanese American Heritage / Mayfest returns only the already-wikilinked records + works index. Verified-saturated.
+- Re-grep 2026-09-26 (slice 09251400-8): fresh grep for 達福台美人傳統 / DFW Taiwanese American Heritage / Mayfest returns only the already-wikilinked records + works index. Verified-saturated.

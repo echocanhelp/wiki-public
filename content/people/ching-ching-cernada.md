@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Ching Ching Cernada (陳清清)
 
@@ -58,3 +58,4 @@ Accomplishment
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- 2026-09-26 deepen-x slice 09251400-8: SKIP (re-verified) — fresh grep returns only own record #80, book record #465, and the works index, all already wikilinked; no memoir narrative; HOLD (陳清清 vs 陳晴晴) stands.
