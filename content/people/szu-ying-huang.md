@@ -7,8 +7,9 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 # deepen-x 09232232-2: SKIP re-verified 2026-09-25 — fresh grep 黃思穎/Szu-Ying Huang: zero corpus hits beyond own encyclopedia record 1210; nothing absorbable
+# deepen-x 09251047-4: SKIP re-verified 2026-09-26 — fresh grep 黃思穎/Szu-Ying Huang: only hit is own catalog line in works/index.md; nothing absorbable
 ---
 # Szu-Ying Huang (黃思穎)
 

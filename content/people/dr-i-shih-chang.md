@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Dr. I-Shih Chang (張倚石博士)
 
@@ -39,7 +39,7 @@ last_reviewed: 2026-09-25
 - 2014-12-19 — 收錄於 TAH Who's Who 人物紀錄 — [[works/taiwaneseamericanhistory-org/158-dr-i-shih-chang-e5-bc-b5-e5-80-9a-e7-9f-b3|158. Dr. I-Shih Chang 張倚石]]
 
 ## Role in the Community
-Corpus check (2026-09-20): the vault holds two TAH records for Chang — his Who's Who entry and the 1998 award record above. The award is the community-documented honor corroborating his Aerospace Corp. solid-fuel role; no memoir narrative beyond these records.
+Corpus check (2026-09-20): the vault holds two TAH records for Chang — his Who's Who entry and the 1998 award record above. The award is the community-documented honor corroborating his Aerospace Corp. solid-fuel role; no memoir narrative beyond these records. Re-swept 2026-09-26: corpus hits unchanged (only the two TAH records already linked above).
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-i-shih-chang/)

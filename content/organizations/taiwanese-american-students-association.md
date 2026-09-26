@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Taiwanese American Students Association
 
@@ -20,7 +20,7 @@ The Taiwanese American Students Association (TASA) at Texas A&M University is a 
 
 ## Role in the Community
 - SKIP（本波×2，最新 2026-09-25）：corpus（works/articles）無關於德州農工 TAMU 此學生社團的可吸收紀錄。注意辨義：corpus 中屢見之「TASA」指 「南加州台美老人協會 Taiwanese American Seniors Association」（見 [[organizations/taiwanese-america-seniors-association-of-southern-california-tasa]]，如 [[works/taiwaneseamericanhistory-org/ourjourneys173-eng|Our Journeys 173]] Flamingo Garden 一節），與本會無關，切勿誤鏈。
-- 再確認（2026-09-26）：另有一批「ITASA」紀錄（[[works/taiwaneseamericanhistory-org/276-itasa-the-intercollegiate-taiwanese-american-students-association-itasa-0220|276. ITASA]]、[[works/taiwaneseamericanhistory-org/history-of-itasa|ITASA 史]])屬 1990 年代聯校台美學生社，與本 TAMU 社團亦非同一組織。corpus 全無 Texas A&M TAMU TASA（2018 創社）之記載，維持 SKIP。
+- 再確認（本波 2026-09-26）：另有一批「ITASA」紀錄（[[works/taiwaneseamericanhistory-org/276-itasa-the-intercollegiate-taiwanese-american-students-association-itasa-0220|276. ITASA]]、[[works/taiwaneseamericanhistory-org/history-of-itasa|ITASA 史]])屬 1990 年代聯校台美學生社，與本 TAMU 社團亦非同一組織。corpus 全無 Texas A&M TAMU TASA（2018 創社）之記載，維持 SKIP。
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-american-students-association/)
