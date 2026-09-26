@@ -1,0 +1,4 @@
+people/michelle-kuo.md
+organizations/taiwanese-american-cultural-association.md
+people/yang-ming-ren.md
+people/darice-lee.md

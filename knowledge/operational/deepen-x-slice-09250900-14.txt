@@ -1,0 +1,4 @@
+people/fpcla.md
+people/dew-chin-ghi-chang.md
+organizations/clear-lake-taiwanese-association.md
+people/li-shun-lu.md

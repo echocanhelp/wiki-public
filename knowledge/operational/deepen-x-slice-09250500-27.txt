@@ -1,0 +1,4 @@
+people/chou-long-huang.md
+organizations/hakka-foundation.md
+people/sam-huang.md
+people/rev-ming-huei-phillip-liu.md

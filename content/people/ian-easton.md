@@ -94,6 +94,7 @@ See the source hub. Top mentions:
 
 ## From the record
 
+- 覆核（TJJ-A09250800-6, 2026-09-25）：本 slice 與 TJJ-A09230400-5／TJJ-A09171100-8 重疊，涵蓋同一組文章；正文再驗證——主體連結為真實提及（無錯鏈、無虛鏈），對應日期事實條目（含該文 wikilink）已在庫 — SKIP，無新材料。
 - 覆核（TJJ-A09250400-5, 2026-09-25）：本 slice 文章 89e6683c93156205（台美人台加人 p356, 2024-05-20 快照）正文再驗證——「易思安(Ian Easton)講『中國對台灣的軍事攻擊威脅』◎ITS 主辦台灣安全研討會@20180210」條目確認見於正文 ——subject 連結為真，無錯鏈、無虛鏈；對應日期事實（含該文 wikilink）已在庫 — SKIP，已飽和。 [[articles/taiwanjustice-net/2024/20240520023218_root_89e6683c93156205|TJJ 89e6683c]]
 
 - 複核（TJJ-A09231000-4, 2026-09-25）：本 slice 文章 89e6683c93156205 正文再驗證——「易思安(Ian Easton)講『中國對台灣的軍事攻擊威脅』」ITS 研討會條目確認見於正文，subject 連結為真，無錯鏈、無虛鏈；對應日期事實（含該文 wikilink）已在庫 — SKIP，已飽和。[[articles/taiwanjustice-net/2024/20240520023218_root_89e6683c93156205|TJJ 89e6683c]]

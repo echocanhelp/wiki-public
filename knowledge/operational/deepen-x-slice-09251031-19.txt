@@ -1,0 +1,4 @@
+organizations/greater-sacramento-taiwanese-association-gsta.md
+people/amelia-wu.md
+people/dr-tso-yee-fan.md
+people/cherry-chi.md

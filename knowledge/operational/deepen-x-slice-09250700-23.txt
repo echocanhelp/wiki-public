@@ -1,0 +1,4 @@
+people/long-lee.md
+organizations/sun-ten-museum.md
+people/c-l-hong.md
+organizations/taiwanese-student-association-at-georgia-tech.md

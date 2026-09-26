@@ -1,0 +1,4 @@
+people/oliver-chen.md
+organizations/hsu-shih-memorial-foundation.md
+people/rev-prof-joseph-wang.md
+people/doug-chiang.md

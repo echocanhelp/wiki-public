@@ -229,3 +229,5 @@ _No filled family fields on the TAH profile._
 
 
 <!-- TJJ-A09250700-1: verified 2026-09-26 — subject links in slice 09250700-1 articles (c4d413fd / 8c205697 / 8842b0e0 / e041055e) confirmed real vs 正文; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A09250800-4: verified 2026-09-26 — subject links in slice 09250800-4 articles (6f2b431c / 08b82976 / 1a2bdc08 / 53455d7e) re-checked vs 正文; all real (1a2bdc08 Subjects links fixed: stray .md suffix removed); dated fact w/ article wikilink already in From the record — saturated, no new material. -->

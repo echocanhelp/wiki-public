@@ -1,0 +1,4 @@
+people/richard-wang.md
+people/jen-jong-lai.md
+organizations/rice-taiwanese-association.md
+people/william-yeh.md

@@ -1,16 +1,16 @@
 {
-  "date": "2026-09-24",
+  "date": "2026-09-25",
   "standards_version": 10,
   "total_pages_scanned": 2910,
-  "pages_with_findings": 66,
-  "auto_queued": 14,
+  "pages_with_findings": 54,
+  "auto_queued": 11,
   "queue": [
     {
-      "path": "organizations/johns-hopkins-university-taiwanese-student-association.md",
+      "path": "organizations/north-america-taiwanese-womens-association-boston-chapter.md",
       "findings": [
         "STRUCT_NO_HISTORY",
-        "READABILITY_LONG_SENTENCES_36wps",
-        "READABILITY_MANY_LONG_SENTENCES_5"
+        "READABILITY_LONG_SENTENCES_31wps",
+        "READABILITY_MANY_LONG_SENTENCES_6"
       ],
       "priority": "medium",
       "instructions": [
@@ -21,11 +21,26 @@
       ]
     },
     {
-      "path": "organizations/north-america-taiwanese-womens-association-boston-chapter.md",
+      "path": "organizations/north-america-taiwanese-womens-association-detroit-chapter.md",
       "findings": [
         "STRUCT_NO_HISTORY",
-        "READABILITY_LONG_SENTENCES_31wps",
-        "READABILITY_MANY_LONG_SENTENCES_5"
+        "READABILITY_LONG_SENTENCES_30wps",
+        "READABILITY_MANY_LONG_SENTENCES_6"
+      ],
+      "priority": "medium",
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol",
+        "Fix ONLY listed findings — no inventing biography",
+        "Update last_reviewed after fixes",
+        "Commit only (no publish)"
+      ]
+    },
+    {
+      "path": "organizations/rutgers-taiwan-study-association.md",
+      "findings": [
+        "STRUCT_NO_HISTORY",
+        "READABILITY_LONG_SENTENCES_32wps",
+        "READABILITY_MANY_LONG_SENTENCES_4"
       ],
       "priority": "medium",
       "instructions": [
@@ -51,40 +66,10 @@
       ]
     },
     {
-      "path": "organizations/taiwanese-american-student-association-at-cornell.md",
+      "path": "organizations/taiwanese-student-association-at-nc-state.md",
       "findings": [
         "STRUCT_NO_HISTORY",
-        "READABILITY_LONG_SENTENCES_33wps",
-        "READABILITY_MANY_LONG_SENTENCES_5"
-      ],
-      "priority": "medium",
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol",
-        "Fix ONLY listed findings — no inventing biography",
-        "Update last_reviewed after fixes",
-        "Commit only (no publish)"
-      ]
-    },
-    {
-      "path": "organizations/taiwanese-american-student-association-at-penn-state.md",
-      "findings": [
-        "STRUCT_NO_HISTORY",
-        "READABILITY_LONG_SENTENCES_33wps",
-        "READABILITY_MANY_LONG_SENTENCES_5"
-      ],
-      "priority": "medium",
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol",
-        "Fix ONLY listed findings — no inventing biography",
-        "Update last_reviewed after fixes",
-        "Commit only (no publish)"
-      ]
-    },
-    {
-      "path": "organizations/taiwanese-association-of-america-dallas-fort-worth.md",
-      "findings": [
-        "STRUCT_NO_HISTORY",
-        "READABILITY_LONG_SENTENCES_31wps",
+        "READABILITY_LONG_SENTENCES_34wps",
         "READABILITY_MANY_LONG_SENTENCES_4"
       ],
       "priority": "medium",
@@ -96,11 +81,10 @@
       ]
     },
     {
-      "path": "organizations/taiwanese-student-association-at-ohio-state-university.md",
+      "path": "people/chi-huey-wong.md",
       "findings": [
-        "STRUCT_NO_HISTORY",
-        "READABILITY_LONG_SENTENCES_33wps",
-        "READABILITY_MANY_LONG_SENTENCES_5"
+        "DESC_NO_TITLE_MENTION",
+        "READABILITY_MANY_LONG_SENTENCES_4"
       ],
       "priority": "medium",
       "instructions": [
@@ -111,11 +95,11 @@
       ]
     },
     {
-      "path": "organizations/world-taiwan-foundation.md",
+      "path": "people/dr-tong-y-chen.md",
       "findings": [
-        "STRUCT_NO_HISTORY",
-        "READABILITY_LONG_SENTENCES_30wps",
-        "READABILITY_MANY_LONG_SENTENCES_5"
+        "DESC_NO_TITLE_MENTION",
+        "LINKS_NO_RELATED",
+        "STRUCT_NO_RELATED"
       ],
       "priority": "medium",
       "instructions": [
@@ -140,7 +124,21 @@
       ]
     },
     {
-      "path": "people/george-h-kerr.md",
+      "path": "people/fang-ming-chen.md",
+      "findings": [
+        "DESC_NO_TITLE_MENTION",
+        "READABILITY_MANY_LONG_SENTENCES_5"
+      ],
+      "priority": "medium",
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol",
+        "Fix ONLY listed findings — no inventing biography",
+        "Update last_reviewed after fixes",
+        "Commit only (no publish)"
+      ]
+    },
+    {
+      "path": "people/min-kao.md",
       "findings": [
         "DESC_NO_TITLE_MENTION",
         "READABILITY_MANY_LONG_SENTENCES_4"
@@ -154,52 +152,10 @@
       ]
     },
     {
-      "path": "people/ho-rui-hsu.md",
+      "path": "people/paul-lin.md",
       "findings": [
         "DESC_NO_TITLE_MENTION",
-        "READABILITY_MANY_LONG_SENTENCES_4"
-      ],
-      "priority": "medium",
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol",
-        "Fix ONLY listed findings — no inventing biography",
-        "Update last_reviewed after fixes",
-        "Commit only (no publish)"
-      ]
-    },
-    {
-      "path": "people/jennifer-j-chow.md",
-      "findings": [
-        "DESC_NO_TITLE_MENTION",
-        "READABILITY_MANY_LONG_SENTENCES_4"
-      ],
-      "priority": "medium",
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol",
-        "Fix ONLY listed findings — no inventing biography",
-        "Update last_reviewed after fixes",
-        "Commit only (no publish)"
-      ]
-    },
-    {
-      "path": "people/k-c-liao.md",
-      "findings": [
-        "DESC_TOO_SHORT",
-        "READABILITY_MANY_LONG_SENTENCES_4"
-      ],
-      "priority": "medium",
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol",
-        "Fix ONLY listed findings — no inventing biography",
-        "Update last_reviewed after fixes",
-        "Commit only (no publish)"
-      ]
-    },
-    {
-      "path": "people/rev-martin-c-wang.md",
-      "findings": [
-        "DESC_NO_TITLE_MENTION",
-        "READABILITY_MANY_LONG_SENTENCES_4"
+        "LINKS_HIGH_DENSITY"
       ],
       "priority": "medium",
       "instructions": [
@@ -210,6 +166,6 @@
       ]
     }
   ],
-  "suppressed_findings": 2081,
-  "fp_history_entries": 2248
+  "suppressed_findings": 2117,
+  "fp_history_entries": 2266
 }

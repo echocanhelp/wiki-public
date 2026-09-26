@@ -91,3 +91,5 @@ Coverage in the taiwanjustice-net corpus harvested into this vault extends his p
 ## Vault deepening note (2026-09-14, vault-only, slice 09140107-11)
 - Father entry now wikilinked to [[people/dr-kei-hsiung-yang||Dr. Kei-Hsiung Yang (楊界雄)]] — his page's Son entry verified on disk (reciprocal).
 - No vault pages exist for Evelyn Yang, Brown University, Columbia Law School, Venture for America, or the Forward Party; tah-tables content is already mirrored in the Timeline. No other existing-slug links apply.
+
+<!-- TJJ-A09250800-4: verified 2026-09-26 — subject links in slice 09250800-4 articles (6f2b431c / 08b82976 / 1a2bdc08 / 53455d7e) re-checked vs 正文; all real (1a2bdc08 Subjects links fixed: stray .md suffix removed); dated fact w/ article wikilink already in From the record — saturated, no new material. -->

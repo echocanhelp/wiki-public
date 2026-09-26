@@ -1,0 +1,4 @@
+people/j-c-hong.md
+people/dr-shin-s-chen.md
+organizations/taiwan-hakka-language-system.md
+people/rev-tsu-kung-chuang.md

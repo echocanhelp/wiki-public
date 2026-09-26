@@ -1,0 +1,4 @@
+organizations/happy-dancers-club.md
+organizations/global-education-fund.md
+people/fealing-lin.md
+people/dr-kung-ming-jan.md

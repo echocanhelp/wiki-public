@@ -1,0 +1,4 @@
+organizations/hsu-shih-memorial-foundation.md
+people/rev-prof-joseph-wang.md
+people/doug-chiang.md
+people/wu-pei-su.md

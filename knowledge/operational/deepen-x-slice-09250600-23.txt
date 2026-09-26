@@ -1,0 +1,4 @@
+organizations/bald-eagle-society.md
+people/julia-chenzu-tsai.md
+people/j-c-lin.md
+people/shawn-c-chou.md

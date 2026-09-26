@@ -1,0 +1,4 @@
+people/wen-jer-chen.md
+people/nancy-ho.md
+organizations/distinguished-citizens-society-international-usa.md
+organizations/georgetown-taiwanese-student-association.md

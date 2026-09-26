@@ -1,0 +1,4 @@
+people/thomas-chen.md
+organizations/kaohsiung-hotel-association.md
+people/stephanie-chuang.md
+people/y-c-hsu.md

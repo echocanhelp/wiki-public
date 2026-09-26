@@ -30,6 +30,7 @@ The Global Taiwan Institute (GTI) is a think tank dedicated to strengthening US-
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/global-taiwan-institute/)
 
 ## From the record
+- 覆核（TJJ-A09250800-6, 2026-09-25）：本 slice 與 TJJ-A09230400-5／TJJ-A09171100-8 重疊，涵蓋同一組文章；正文再驗證——主體連結為真實提及（無錯鏈、無虛鏈），對應日期事實條目（含該文 wikilink）已在庫 — SKIP，無新材料。
 - 複核（TJJ-A09250400-3, 2026-09-25）：本 slice 文章 064fe05a 正文再驗證——global-taiwan-institute 對應真實（記述確認見於正文），無錯鏈、無虛鏈；含該文 wikilink 的日期事實條目已在庫 — SKIP，無新材料。
 
 

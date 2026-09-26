@@ -1,48 +1,48 @@
-## Echopedia Janitor — 2026-09-24
+## Echopedia Janitor — 2026-09-25
 - Standards v10
-- Pages with findings: **190**
+- Pages with findings: **186**
 - Queued tonight (max 40): **40**
 - Queue:
-  - `people/bai-peiyu.md` age≈26.2d · NO_IDENTITY_SNAPSHOT
-  - `people/nanfang-shuo.md` age≈26.2d · NO_IDENTITY_SNAPSHOT
-  - `people/sang-pu.md` age≈26.2d · NO_IDENTITY_SNAPSHOT
-  - `people/tang-peili.md` age≈26.2d · NO_IDENTITY_SNAPSHOT
-  - `people/wang-qiaoling.md` age≈26.2d · NO_IDENTITY_SNAPSHOT
-  - `people/wang-shufen.md` age≈26.2d · NO_IDENTITY_SNAPSHOT
-  - `people/xia-ming.md` age≈26.2d · NO_IDENTITY_SNAPSHOT
-  - `people/zou-jingwen.md` age≈26.2d · NO_IDENTITY_SNAPSHOT
-  - `people/chao-sile.md` age≈2.4d · NO_TYPE, NO_IDENTITY_SNAPSHOT, NO_LAST_REVIEWED
-  - `people/chen-po-kong.md` age≈2.4d · NO_TYPE, NO_IDENTITY_SNAPSHOT, NO_LAST_REVIEWED
-  - `people/du-ao-cunfu.md` age≈2.4d · NO_TYPE, NO_IDENTITY_SNAPSHOT, NO_LAST_REVIEWED
-  - `people/fan-jiang-ti-ang.md` age≈2.4d · NO_TYPE, NO_IDENTITY_SNAPSHOT, NO_LAST_REVIEWED
-  - `people/guan-renjian.md` age≈2.4d · NO_TYPE, NO_IDENTITY_SNAPSHOT, NO_LAST_REVIEWED
-  - `people/li-jian.md` age≈2.4d · NO_TYPE, NO_IDENTITY_SNAPSHOT, NO_LAST_REVIEWED
-  - `people/lin-baohua.md` age≈2.4d · NO_TYPE, NO_IDENTITY_SNAPSHOT, NO_LAST_REVIEWED
-  - `people/yang-yueqing.md` age≈2.4d · NO_TYPE, NO_IDENTITY_SNAPSHOT, NO_LAST_REVIEWED
-  - `people/yuan-zhihui.md` age≈2.4d · NO_TYPE, NO_IDENTITY_SNAPSHOT, NO_LAST_REVIEWED
-  - `people/huang-diyin.md` age≈0.7d · NO_TYPE, NO_IDENTITY_SNAPSHOT, NO_LAST_REVIEWED
-  - `people/dr-hsing-chi-chuck-chang.md` age≈15.2d · LINK_BODY_SPARSE
-  - `people/george-lee.md` age≈15.2d · LINK_BODY_SPARSE
-  - `people/huang-yongcheng.md` age≈15.2d · NO_IDENTITY_SNAPSHOT
-  - `people/prof-sze-ya-yeh.md` age≈15.2d · LINK_BODY_SPARSE
-  - `people/dr-wei-yang-andy-lin.md` age≈14.2d · LINK_BODY_SPARSE
-  - `people/kuan-cheng-lu.md` age≈14.2d · LINK_BODY_SPARSE
-  - `people/po-wei-lai.md` age≈14.2d · LINK_BODY_SPARSE
-  - `people/deng-shuzhen.md` age≈13.2d · LINK_BODY_SPARSE
-  - `people/karen-chia-ling-ho.md` age≈12.2d · LINK_BODY_SPARSE
-  - `organizations/westchester-taiwanese-womens-associationwtwa.md` age≈11.2d · LINK_BODY_SPARSE
-  - `organizations/global-hakka-un-ngo-applying-committee-un-ngo.md` age≈11.2d · LINK_BODY_SPARSE
-  - `organizations/north-america-pastel-artist-association.md` age≈11.2d · LINK_BODY_SPARSE
-  - `organizations/evergreen-senior-university-by-evangelical-formosa-church-of-irvine-esu.md` age≈11.2d · LINK_BODY_SPARSE
-  - `people/agnes-hsu.md` age≈11.2d · LINK_BODY_SPARSE
-  - `people/dr-ching-c-shir.md` age≈11.2d · LINK_BODY_SPARSE
-  - `people/dr-chi-wan-lai.md` age≈11.2d · LINK_BODY_SPARSE
-  - `people/dr-min-chin-mary-lee.md` age≈11.2d · LINK_BODY_SPARSE
-  - `people/dr-yung-san-liang.md` age≈11.2d · LINK_BODY_SPARSE
-  - `people/feng-hsu-lee.md` age≈11.2d · LINK_BODY_SPARSE
-  - `people/grace-chung.md` age≈11.2d · LINK_BODY_SPARSE
-  - `people/gwhyneth-chen.md` age≈11.2d · 
-  - `people/hanchien-lee.md` age≈11.2d · LINK_BODY_SPARSE
-- Log: `knowledge/operational/janitor-log/2026-09-24.jsonl`
+  - `people/bai-peiyu.md` age≈27.2d · NO_IDENTITY_SNAPSHOT
+  - `people/nanfang-shuo.md` age≈27.2d · NO_IDENTITY_SNAPSHOT
+  - `people/sang-pu.md` age≈27.2d · NO_IDENTITY_SNAPSHOT
+  - `people/tang-peili.md` age≈27.2d · NO_IDENTITY_SNAPSHOT
+  - `people/wang-qiaoling.md` age≈27.2d · NO_IDENTITY_SNAPSHOT
+  - `people/wang-shufen.md` age≈27.2d · NO_IDENTITY_SNAPSHOT
+  - `people/xia-ming.md` age≈27.2d · NO_IDENTITY_SNAPSHOT
+  - `people/zou-jingwen.md` age≈27.2d · NO_IDENTITY_SNAPSHOT
+  - `people/chao-sile.md` age≈3.4d · NO_TYPE, NO_IDENTITY_SNAPSHOT, NO_LAST_REVIEWED
+  - `people/chen-po-kong.md` age≈3.4d · NO_TYPE, NO_IDENTITY_SNAPSHOT, NO_LAST_REVIEWED
+  - `people/du-ao-cunfu.md` age≈3.4d · NO_TYPE, NO_IDENTITY_SNAPSHOT, NO_LAST_REVIEWED
+  - `people/fan-jiang-ti-ang.md` age≈3.4d · NO_TYPE, NO_IDENTITY_SNAPSHOT, NO_LAST_REVIEWED
+  - `people/guan-renjian.md` age≈3.4d · NO_TYPE, NO_IDENTITY_SNAPSHOT, NO_LAST_REVIEWED
+  - `people/li-jian.md` age≈3.4d · NO_TYPE, NO_IDENTITY_SNAPSHOT, NO_LAST_REVIEWED
+  - `people/lin-baohua.md` age≈3.4d · NO_TYPE, NO_IDENTITY_SNAPSHOT, NO_LAST_REVIEWED
+  - `people/yang-yueqing.md` age≈3.4d · NO_TYPE, NO_IDENTITY_SNAPSHOT, NO_LAST_REVIEWED
+  - `people/yuan-zhihui.md` age≈3.4d · NO_TYPE, NO_IDENTITY_SNAPSHOT, NO_LAST_REVIEWED
+  - `people/huang-diyin.md` age≈1.7d · NO_TYPE, NO_IDENTITY_SNAPSHOT, NO_LAST_REVIEWED
+  - `people/dr-hsing-chi-chuck-chang.md` age≈16.2d · LINK_BODY_SPARSE
+  - `people/george-lee.md` age≈16.2d · LINK_BODY_SPARSE
+  - `people/huang-yongcheng.md` age≈16.2d · NO_IDENTITY_SNAPSHOT
+  - `people/prof-sze-ya-yeh.md` age≈16.2d · LINK_BODY_SPARSE
+  - `people/dr-wei-yang-andy-lin.md` age≈15.2d · LINK_BODY_SPARSE
+  - `people/kuan-cheng-lu.md` age≈15.2d · LINK_BODY_SPARSE
+  - `people/po-wei-lai.md` age≈15.2d · LINK_BODY_SPARSE
+  - `people/deng-shuzhen.md` age≈14.2d · LINK_BODY_SPARSE
+  - `people/karen-chia-ling-ho.md` age≈13.2d · LINK_BODY_SPARSE
+  - `organizations/westchester-taiwanese-womens-associationwtwa.md` age≈12.2d · LINK_BODY_SPARSE
+  - `organizations/global-hakka-un-ngo-applying-committee-un-ngo.md` age≈12.2d · LINK_BODY_SPARSE
+  - `organizations/north-america-pastel-artist-association.md` age≈12.2d · LINK_BODY_SPARSE
+  - `organizations/evergreen-senior-university-by-evangelical-formosa-church-of-irvine-esu.md` age≈12.2d · LINK_BODY_SPARSE
+  - `people/agnes-hsu.md` age≈12.2d · LINK_BODY_SPARSE
+  - `people/dr-ching-c-shir.md` age≈12.2d · LINK_BODY_SPARSE
+  - `people/dr-chi-wan-lai.md` age≈12.2d · LINK_BODY_SPARSE
+  - `people/dr-min-chin-mary-lee.md` age≈12.2d · LINK_BODY_SPARSE
+  - `people/dr-yung-san-liang.md` age≈12.2d · LINK_BODY_SPARSE
+  - `people/feng-hsu-lee.md` age≈12.2d · LINK_BODY_SPARSE
+  - `people/grace-chung.md` age≈12.2d · LINK_BODY_SPARSE
+  - `people/hanchien-lee.md` age≈12.2d · LINK_BODY_SPARSE
+  - `people/hsien-ann-meng.md` age≈12.2d · LINK_BODY_SPARSE
+- Log: `knowledge/operational/janitor-log/2026-09-25.jsonl`
 - Agent auto-apply: **False** (local pin only if enabled)
 - First-mention AUTO: **0**

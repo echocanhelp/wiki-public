@@ -1,0 +1,4 @@
+people/vincent-c-lai.md
+people/prof-elaine-hsiao.md
+people/joseph-y-t-hung.md
+people/prof-ta-chiang-liu.md

@@ -1,0 +1,4 @@
+people/sophia-yen.md
+organizations/tacl-toastmaster-club.md
+people/jimenez-lai.md
+people/matthew-tsai.md

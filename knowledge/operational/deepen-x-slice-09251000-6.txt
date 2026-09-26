@@ -1,0 +1,4 @@
+people/w-j-james-chung.md
+people/rev-james-chang.md
+people/hofu-wu.md
+people/yung-tsai-yen.md

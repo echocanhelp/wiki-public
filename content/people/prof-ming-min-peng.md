@@ -125,3 +125,5 @@ _No filled family fields on the TAH profile._
 
 
 <!-- TJJ-A09250800-1: verified 2026-09-26 — 本 slice 4 篇（楊遠薰《卓甫良與TAF的故事》兩存檔 e7aad53f／b4206bcf；獨傲村夫〈反攻大陸（下）〉兩存檔 dd1007a6／35d25fb4）正文再驗證——subject 連結為真實提及（無錯鏈、無虛鏈）；含該文 wikilink 的日期事實條目已在庫 — saturated, no new material. -->
+
+<!-- TJJ-A09250800-4: verified 2026-09-26 — subject links in slice 09250800-4 articles (6f2b431c / 08b82976 / 1a2bdc08 / 53455d7e) re-checked vs 正文; all real (1a2bdc08 Subjects links fixed: stray .md suffix removed); dated fact w/ article wikilink already in From the record — saturated, no new material. -->

@@ -43,6 +43,7 @@ _No filled family fields on the TAH profile._
 - Corpus re-grep 2026-09-20 / 2026-09-21 / 2026-09-22: hit set unchanged (our-journeys-382, our-journeys-383, whoswho1378, TJJ 反萊豬/228 articles); this pass newly absorbed the 2024-03-12 全美會紀念228 report (「台灣歷史人權教育月」, 尋找湯德章) — no further material.
 
 ## From the record
+- 覆核（TJJ-A09250800-6, 2026-09-25）：本 slice 與 TJJ-A09230400-5／TJJ-A09171100-8 重疊，涵蓋同一組文章；正文再驗證——主體連結為真實提及（無錯鏈、無虛鏈），對應日期事實條目（含該文 wikilink）已在庫 — SKIP，無新材料。
 - 覆核（TJJ-A09240700-6, 2026-09-25）：本 slice 文章 f6213c1937fa956d（全美會2021年228完滿報導）正文再驗證——會長陳桂鈴閉幕總結「紀念二二八是要確保苦難不再發生」語錄確認見於正文，連結為真；2021-03-13 條目（已含該文 wikilink）已在庫 — SKIP，已飽和。
 
 

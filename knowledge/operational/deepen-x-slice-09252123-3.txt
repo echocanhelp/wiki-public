@@ -1,0 +1,4 @@
+organizations/taiwanese-american-student-association-at-georgia-tech.md
+people/prof-chih-hao-lucas-chang.md
+organizations/new-world-art-center.md
+people/mynor-king-wang.md

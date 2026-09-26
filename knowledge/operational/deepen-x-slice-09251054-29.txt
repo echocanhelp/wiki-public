@@ -1,0 +1,4 @@
+people/joseph-yang.md
+people/t-s-hsu.md
+people/grace-liu.md
+organizations/arizona-taiwanese-student-association.md

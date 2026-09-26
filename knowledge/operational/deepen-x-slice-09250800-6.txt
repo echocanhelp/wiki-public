@@ -1,0 +1,4 @@
+people/san-francisco-theological-seminary.md
+people/dr-sheng-yi-chuang.md
+organizations/taiwanese-association-of-south-florida.md
+organizations/south-bay-taiwanese-association-of-s-california.md

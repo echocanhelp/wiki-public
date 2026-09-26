@@ -1,0 +1,4 @@
+people/howard-shu.md
+people/prof-hsu-te-cheng.md
+people/joseph-chow.md
+people/john-wuo.md

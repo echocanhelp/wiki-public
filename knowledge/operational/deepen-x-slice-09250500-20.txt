@@ -1,0 +1,4 @@
+organizations/rice-taiwanese-graduate-student-association.md
+people/l-w-cheng.md
+people/yuan-chuan-lee.md
+people/wei-shou-hu.md
