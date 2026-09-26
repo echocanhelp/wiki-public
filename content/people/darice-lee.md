@@ -53,3 +53,4 @@ last_reviewed: 2026-09-26
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - Corpus re-check 2026-09-25 (deepen-x slice 09240700-18): fresh grep (洪珠美／Darice Lee) of works/ + articles/ — hits unchanged (OJ #265, OJ #352, Who's Who #859, empty taiwanjustice tag page, works/index.md). Saturated; nothing new absorbable, HOLD maintained.
+- Corpus re-grep 2026-09-26 (slice 09260500-32): fresh ZH+EN grep — hit set identical to records already absorbed (see above). Verified-saturated SKIP.
