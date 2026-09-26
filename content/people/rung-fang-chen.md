@@ -53,3 +53,4 @@ Corpus re-check 2026-09-25 (deepen-x slice 09240700-19): fresh grep — hit set 
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 Corpus re-check 2026-09-26 (deepen-x slice 09251000-10): fresh grep — hit set identical (ourjourneys315, whos1098, ourjourneys38-eng, works index). SKIP-deepen; verified-saturated, nothing new absorbable.
+- Corpus re-grep 2026-09-26 (slice 09260500-17): fresh ZH+EN grep of content/works + content/articles — hit set identical to all prior passes; every hit already absorbed and linked above. SKIP-with-reason: no new absorbable material (verified-saturated).

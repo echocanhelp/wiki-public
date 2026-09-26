@@ -51,3 +51,4 @@ _No filled family fields on the TAH profile._
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - Re-scan 2026-09-25 (slice 09240700-23): identical hit set (own #1398 record, index, the four already-linked HFX/馬侃獎 articles about MP 莊文浩). SKIP, nothing new absorbable about the Silicon Valley Talent founder; identity HOLD maintained.
 - Re-scan 2026-09-26 (slice 09251000-12): fresh grep Michael Chong — identical hit set (own #1398 record, works index, the four linked HFX/馬侃獎 articles, all about MP 莊文浩). Verified-saturated SKIP; identity HOLD maintained.
+- Corpus re-grep 2026-09-26 (slice 09260500-17): fresh ZH+EN grep of content/works + content/articles — hit set identical to all prior passes; every hit already absorbed and linked above. SKIP-with-reason: no new absorbable material (verified-saturated).
