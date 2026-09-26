@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-26
 ---
 # Chien-Feng Jeffrey Wang (王劍峯博士)
 
@@ -34,6 +34,7 @@ Chien-Feng (Jeffrey) Wang 王劍峯 – History of Taiwanese American (T.A. Arch
 ## Role in the Community
 - 投入台美史料保存：TAH Who's Who 記錄其與台美史料中心（T.A. Archives）的關聯（[[works/taiwaneseamericanhistory-org/whoswho1321|1321. Chien-Feng (Jeffrey) Wang 王劍峯 / 2016/10]], published 2016-10-22）。Corpus holds the bibliographic record only; no memoir or further community narrative found.
 - SKIP注記（2026-09-25 複核）：再grep works/articles（王劍峯／Chien-Feng／Jeffrey Wang），唯一命中為 works/index.md 之書目條目（whoswho1321，已引用）；無回憶錄或社群敘事可吸收，驗證飽和。
+- 2026-09-26（deepen-x slice 09251039-1）三度複核：王劍峯／Jeffrey Wang／Chien-Feng 於 works/ + articles/ 僅命中 [[works/taiwaneseamericanhistory-org/whoswho1321|whoswho1321]] 書目記錄與 works/index；無可吸收素材。SKIP。
 
 ## Family
 
