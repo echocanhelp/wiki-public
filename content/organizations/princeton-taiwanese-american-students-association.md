@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Princeton Taiwanese American Students Association
 
@@ -34,3 +34,4 @@ The Princeton Taiwanese American Students Association (TASA) is an undergraduate
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- Corpus re-check 2026-09-26 (deepen-x slice 09250900-19): fresh grep hit-set identical (ourjourneys356 ZH+EN, ourjourneys12/268 incidental, TJJ 華語文中心/國防工業會議 articles). SKIP-content: verified-saturated; both HOLDs stand.

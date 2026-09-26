@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # James Chin-Chun Su (蘇金春)
 
@@ -62,3 +62,4 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- Corpus re-grep 2026-09-26 (DEEPEN-X slice 09250900-19): fresh ZH+EN grep returns the identical hit-set (Our Journeys 57 + EN, 81 + EN, 138, TAH #670) already absorbed. Verified saturated. SKIP-with-reason.
