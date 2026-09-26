@@ -6,7 +6,7 @@ tags:
   - Taiwanese-American
   - Taiwan-Center-group-member
 verification_status: published
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Hsu Shih Memorial Foundation
 
@@ -36,3 +36,4 @@ last_reviewed: 2026-09-25
 - [[organizations/taiwan-center||Taiwan Center]]
 - [[sources/taiwancenter-org||taiwancenter.org]]
 <!-- deepen-x slice 09250400-24 (2026-09-25): verified-saturated — fresh ZH+EN re-grep of works/ + articles/ returns no absorbable material beyond already-cited records. -->
+<!-- deepen-x slice 09252123-21 (2026-09-26): verified-saturated — fresh ZH+EN re-grep (許石基金會/Hsu Shih Memorial) returns zero hits. SKIP-with-reason. -->

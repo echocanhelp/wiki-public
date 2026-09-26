@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Rev. Prof. Joseph Wang (王守仁牧師)
 
@@ -51,3 +51,4 @@ His own TAH encyclopedia entry is held in the vault at [[works/taiwaneseamerican
 <!-- deepen-x slice 09211507-17 (2026-09-22): SKIP re-verified — corpus re-grep again returns only own work page + works index; nothing absorbable. -->
 <!-- deepen-x slice 09231100-3 (2026-09-25): verified-saturated — corpus re-grep returns only own TAH record + already-linked works pages; nothing new absorbable. -->
 <!-- deepen-x slice 09250400-24 (2026-09-25): verified-saturated — fresh ZH+EN re-grep of works/ + articles/ returns no absorbable material beyond already-cited records. -->
+<!-- deepen-x slice 09252123-21 (2026-09-26): verified-saturated — fresh grep for 王守仁 returns only own TAH #1668 record + works index; Taiwan Justice "Joseph Wang"/"王教授" hits are unrelated individuals. SKIP-with-reason. -->
