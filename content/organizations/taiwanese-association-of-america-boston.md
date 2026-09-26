@@ -20,6 +20,7 @@ The Taiwanese Association of America Boston (波士頓台灣同鄉會) is the Bo
 
 ## Role in the Community
 
+- **前身脈絡（TAA 成立前的波士頓台灣人組織）**：1965-10-29/30 麥迪遜「台灣人領袖聯合大會」（Formosa Leadership United Congress，籌組 UFAI 前身）已有 Boston Taiwanese Association 代表蕭信一（Sin-I Hsiao）出席（[[works/taiwaneseamericanhistory-org/ourjourneys81-eng|Our Journeys #81 EN]]，蘇昭明回憶）；1966-06-18 費城合併談判九地區代表中波士頓仍由蕭信一出席。1970-06-01 美東台灣同鄉會等合併為全美台灣同鄉會（TAA）時，美東會波士頓支會改組為 TAA 波士頓分會（[[works/taiwaneseamericanhistory-org/ourjourneys300-eng|Our Journeys #300 EN]]，大紐約分會沿革）——分會源流可上溯至 1960 年代校園時代的波士頓台灣人組織。
 - **創始分會**：據吳木盛《全美台灣同鄉會》memoir（[[works/taiwaneseamericanhistory-org/ourjourneys76|Our Journeys #76]]），波士頓分會（當時負責人郭清江）是 TAA 全國會 28 個創始分會之一，屬 1970 年前後留美校園台灣同鄉會浪潮。1978 年底 Boston 同鄉爭取下，《望春風》雜誌自 Houston 遷至 Boston，1979-01-15 起在波士頓以鉛字排印、藝術家設計封面後復刊（同memoir）——分會早期與同鄉媒體史直接相連。
 - 1977年：張啟典擔任波士頓台灣同鄉會會長，並主辦第8屆美東台灣人夏令會於羅德島布朗大學（Brown University）舉行，為美東夏令會首次在美國大學校園舉辦，約四百多人參加（[[works/taiwaneseamericanhistory-org/ourjourneys338|Our Journeys #338]]）。
 - 常態會務紀錄：[[works/taiwaneseamericanhistory-org/12-e6-b3-a2-e5-a3-ab-e9-a0-93-e5-8f-b0-e7-81-a3-e5-90-8c-e9-84-89-e6-9c-83-2015-|波士頓台灣同鄉會 2015年年會 (2015/03)]]；會訊見 [[works/taiwaneseamericanhistory-org/newsletter-boston-taa|TAA/Boston Chapter 會訊 (2019)]]。
