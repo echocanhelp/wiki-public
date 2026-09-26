@@ -34,6 +34,7 @@ Member, Committee on Agriculture, Committee on Appropriations, and Committee on 
 - SKIP: corpus grep found no other substantive community material on him — the press-kit profile remains the sole biographical source. Other "Pan" mentions in the article corpus refer to different people (e.g. US Rep. Jimmy Panetta).
 - Re-verified 2026-09-22 (slice 09210900-5): fresh grep of content/works + content/articles returned only his own archive record #127 and the works index — nothing new absorbable; skip stance stands.
 - Re-verified 2026-09-25 (slice 09231300-6): fresh grep returns only record #127 and the works index — nothing new absorbable.
+- Re-verified 2026-09-25 (slice 09250600-27): fresh ZH+EN grep returns only record #127 and the works index — skip stance stands.
 
 ## Family
 
