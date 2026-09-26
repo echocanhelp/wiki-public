@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Professor Schuman S. Tu (杜新茂教授)
 
@@ -54,3 +54,5 @@ Professor Schuman S. Tu 杜新茂 – History of Taiwanese American (T.A. Archiv
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+- Corpus re-check 2026-09-26 (slice 09260400-2): fresh grep 杜新茂／Schuman（works+articles）hit set identical（#145、#156、#162、OJ282、#97、OJ17；#520/#532 remain Schumann piano false positives）— all absorbed. SKIP.

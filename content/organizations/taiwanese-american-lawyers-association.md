@@ -6,7 +6,7 @@ tags:
   - Taiwanese-American
   - Taiwan-Center-group-member
 verification_status: published
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Taiwanese American Lawyers Association (TALA)
 
@@ -53,3 +53,5 @@ HOLD: this page and [[organizations/taiwanese-american-lawyers-association-tala|
 
 - Re-verified 2026-09-25 (slice 09240317-17): corpus re-grep (ZH+EN+TALA) hit set unchanged — ourjourneys29 (ZH+EN), the two TAHS bibliographic records, TAH #318, works index — all already absorbed and wikilinked above; saturated. HOLD vs 台美律師協會 duplicate stands.
 - Re-verified 2026-09-25 (slice 09250700-15): corpus re-grep (ZH+EN+TALA) hit set unchanged — ourjourneys29 (ZH+EN), the two TAHS bibliographic records, TAH #318, works index — all already absorbed and wikilinked above; saturated. HOLD vs 台美律師協會 duplicate stands.
+
+- Re-verified 2026-09-26 (slice 09260400-2): corpus re-grep (ZH+EN+TALA) hit set unchanged — ourjourneys29 (ZH+EN), the two TAHS bibliographic records, TAH #318, works index — all already absorbed and wikilinked above; saturated. HOLD vs 台美律師協會 duplicate stands.
