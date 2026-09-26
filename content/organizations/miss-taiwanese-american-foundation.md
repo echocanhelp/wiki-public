@@ -45,3 +45,5 @@ Corpus re-grep (slice 09230317-10, 2026-09-24): hit set unchanged (directory #2,
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 (deepen-x slice 09240317-8, 2026-09-25): re-grep hits unchanged (directory #2, magazine 744/745, pageant #7, calendar #1256, story #889) -- verified-saturated, SKIP, no new material.
+
+(deepen-x slice 09250700-7, 2026-09-25): re-grep hits unchanged (directory #2, magazine 744/745, pageant #7, calendar #1256, story #889) — verified-saturated, SKIP, no new material.

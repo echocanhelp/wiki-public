@@ -56,3 +56,4 @@ _No filled family fields on the TAH profile._
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - (deepen-x slice 09240317-8, 2026-09-25): re-grep hit set identical -- only already-cited award records (38/39/37, 308, 681) + Our Journeys 19 (ECAD namesake HOLD). SKIP, verified-saturated.
+- 複核（deepen-x slice 09250700-7, 2026-09-25）：re-grep 黃俊文／Paul Huang（works+articles）hit set identical — 僅已引之獲獎記錄（38/39/37、308、681）與 Our Journeys 19（ECAD 同名者 HOLD）。SKIP, verified-saturated.

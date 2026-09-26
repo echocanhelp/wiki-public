@@ -33,6 +33,7 @@ Corpus records showing the chapter's activity:
 - Re-grep 2026-09-24 (slice 09230500-22): fresh grep (亞特蘭大台灣同鄉會 / "Taiwanese American Association Atlanta" / Atlanta Taiwanese Association) across works/ + articles/ returns exactly the records already cited above — verified saturated, no new facts.
 
 - *Re-grep 2026-09-25 (slice 09240400-1): fresh grep (亞特蘭大台灣同鄉會／Taiwanese American Association Atlanta／Atlanta Taiwanese Association) across works/ + articles/ returns exactly the records already cited above (e-newsletter, 1330 directory, scholarship award, encyclopedia profile, cultural festival, index) — verified saturated, no new facts.*
+- *Re-grep 2026-09-25 (slice 09250700-6): fresh grep (亞特蘭大台灣同鄉會／Taiwanese American Association Atlanta／Atlanta Taiwanese Association) across works/ + articles/ returns the identical hit set (e-newsletter, 1330 directory, scholarship award, encyclopedia profile, cultural festival, works index) — verified saturated; SKIP-no-new-facts.*
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-american-association-atlanta/)

@@ -59,3 +59,4 @@ last_reviewed: 2026-09-25
 - TAH 故事記錄：[[works/taiwaneseamericanhistory-org/whos-who-1855-c-y-huang|TAH #1855 Rev. C. Y. Huang 黃主義牧師]]
 - 複核（deepen-x 2026-09-24, slice 09230400-7）：re-grep 黃主義 命中集不變 — 僅本人條目 [[works/taiwaneseamericanhistory-org/whos-who-1855-c-y-huang|TAH #1855]]、[[works/taiwaneseamericanhistory-org/ourjourneys270|TAH #270]]、works index；C. Y. Huang 羅曼字命中僅本人條目與 index（#2314 黃清燕 已 HOLD 為同人同拼不同人，未併入）；無新語料可吸收（saturated）。
 - 複核（deepen-x 2026-09-25, slice 09240317-9）: fresh ZH+EN re-grep（黃主義 / C. Y. Huang, works+articles）命中集不變: 僅本人條目 #1855、ourjourneys270（劉主安/劉青眼/陳皙宗脈落已吸收）、works/index; #2314 黃清燕 仍 HOLD 未併入 (saturated, SKIP)
+- 複核（deepen-x 2026-09-25, slice 09250700-7）: fresh ZH+EN re-grep（黃主義 / C. Y. Huang, works+articles）命中集不變 — 僅 #1855、ourjourneys270、works/index；#2314 黃清燕 仍 HOLD 未併入。SKIP, verified-saturated.
