@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Chia-Jen Lo (羅嘉仁)
 
@@ -38,6 +38,7 @@ Corpus review (2026-09-19): the only corpus hit is the subject's own TAH encyclo
 - Re-verified 2026-09-22: fresh grep (ZH+EN) again returned only the self-record above plus the works index; no third-party mentions; nothing further absorbable.
 - Re-scan 2026-09-25 (slice 20): fresh ZH+EN grep — self-record + works-index line only; no third-party mentions; nothing absorbable.
 
+- Re-verified 2026-09-26 (deepen-x slice 09251031-23): fresh ZH+EN grep of works/ + articles/ — hit set unchanged (own TAH record + works index only); no third-party memoir material; SKIP stands.
 ## Sources
 - [TAH #1751 encyclopedia: 1751. Chia-Jen Lo 羅嘉仁](https://taiwaneseamericanhistory.org/whos-who-1751-chia-jen-lo/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/chia-jen-lo/)

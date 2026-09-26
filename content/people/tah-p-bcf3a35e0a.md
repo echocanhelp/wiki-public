@@ -6,7 +6,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # 劉文章
 
@@ -38,6 +38,7 @@ last_reviewed: 2026-09-25
 - 2026-09-22 re-verify (slice 09210920-6): fresh grep 劉文章 — corpus hits are only his own encyclopedia entry ([[works/taiwaneseamericanhistory-org/whos1097|1097. 劉文章]]) and ourjourneys245 (already absorbed above); no other memoir material to absorb.
 - Re-verified 2026-09-25 (deepen-x slice 09231500-14): fresh grep 劉文章 of works/ + articles/ still returns only his own record [[works/taiwaneseamericanhistory-org/whos1097|whos1097]], ourjourneys245 (absorbed above), and the works index — SKIP stands.
 
+- Re-verified 2026-09-26 (deepen-x slice 09251031-23): fresh ZH+EN grep of works/ + articles/ — hit set unchanged (own TAH record + works index only); no third-party memoir material; SKIP stands.
 ## Sources
 - [TAH #1097 encyclopedia: 1097. 劉文章](https://taiwaneseamericanhistory.org/whos1097/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/%e5%8a%89%e6%96%87%e7%ab%a0/)

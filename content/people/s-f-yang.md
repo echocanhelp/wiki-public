@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # S. F. Yang (楊雪鳳)
 
@@ -34,6 +34,7 @@ last_reviewed: 2026-09-25
 
 - **Children:** [[people/nancy-yang|Nancy Yang 陳玲銖]] (陳玲銖), [[people/lucy-yang|Lucy Yang 楊淑詠]] — per their vault pages, which name 楊冠傑 as father and 楊雪鳳 as mother. Husband inferred as 楊冠傑 (no direct record naming the marriage; not auto-asserted).
 
+- Re-verified 2026-09-26 (deepen-x slice 09251031-23): fresh ZH+EN grep of works/ + articles/ — hit set unchanged (own TAH record + works index only); no third-party memoir material; SKIP stands.
 ## Sources
 - [TAH #1530 encyclopedia: 1530. S. F. Yang 楊雪鳳 / 2017/02](https://taiwaneseamericanhistory.org/whoswho1530/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/s-f-yang/)
