@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Taiwanese American Student Association at UCR
 
@@ -30,4 +30,5 @@ The Taiwanese American Student Association at UCR (TASA @ UCR) is a student cult
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 <!-- deepen-x 09221500-31: verified-saturated — corpus re-scan (works/articles) fresh 2026-09-23: hit set identical to prior passes (own TAH record + already-wikilinked works only); no new community material. -->
 <!-- deepen-x 09231000-15: verified-saturated — corpus re-scan (works/articles) fresh 2026-09-25: ZH+EN grep hit set identical to prior passes (own TAH record + already-wikilinked works/index entries only); no new community material. -->
+<!-- deepen-x 09252123-1: verified-saturated (SKIP) — fresh grep 2026-09-26: TASA/UCR hits unchanged; 'Riverside' hits remain 河邊教堂/Riverside Church NY (Our Journeys #266/#274/#300), no UCR TASA material. -->
 <!-- deepen-x 09250317-22: verified-saturated — fresh ZH+EN grep 2026-09-25: TASA/UCR hit set unchanged; 'Riverside' hits remain NY's Riverside Church / 475 Riverside Dr (Our Journeys #266/#274/#300), no UCR TASA material. -->
