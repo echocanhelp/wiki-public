@@ -43,6 +43,8 @@ _No filled family fields on the TAH profile._
 
 - Re-verified 2026-09-25 (deepen-x slice 09240317-32): fresh grep (鄭如珍 / Jean Cheng) returns only the three records linked above plus the works index; bio text in #283 matches the existing section verbatim — SKIP, verified-saturated.
 
+- Re-verified 2026-09-25 (deepen-x slice 09250800-31): fresh grep (鄭如珍 / Jean Cheng) returns only #283, the film record, the UCSD 2022-12 donor note, and the works index — SKIP, verified-saturated.
+
 ## Timeline
 - 1993 — First film「Across a Paper Ocean」premiered on the US festival circuit
 - 1998 — M.F.A. thesis film「Han Chee (Sweet Potato)」(San Francisco State Univ.)

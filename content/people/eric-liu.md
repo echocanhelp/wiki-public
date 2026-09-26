@@ -51,6 +51,8 @@ _No filled family fields on the TAH profile._
 ^- Corpus re-check 2026-09-25 (slice deepen-x-09240400-13): fresh ZH+EN grep 劉柏川 / Eric Liu against works/articles returned only the own-name record #179, the works index, and the two already-absorbed essays (「What are you?」, On Stubborn Roots) — verified-saturated again, nothing new absorbable. SKIP.
 ^- Corpus re-check 2026-09-24: fresh ZH+EN grep against works/articles returned only the already-absorbed records above plus substring false matches (place names like Rowland Heights, month words like "June line-up", the works index) — verified-saturated, nothing new absorbable.
 
+- Corpus re-check 2026-09-25 (slice 09250800-31): fresh ZH+EN grep 劉柏川 / Eric Liu returns only #179, the works index, and the two already-absorbed essays (「What are you?」, On Stubborn Roots) — SKIP, verified-saturated.
+
 ## Sources
 - [TAH #179 encyclopedia: 179. Eric Liu 劉柏川](https://taiwaneseamericanhistory.org/179-eric-liu-%e5%8a%89%e6%9f%8f%e5%b7%9d/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/eric-liu/)
