@@ -49,3 +49,4 @@ _No filled family fields on the TAH profile._
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - Re-check 2026-09-25 (slice 09240400-6): fresh ZH+EN re-grep (Mree / Marie Hsiao) — hit set unchanged (334, 910, a-moment-with-mree, harvest index); no new community material. Verified-saturated.
+- Re-check 2026-09-25 (slice 09250700-31): fresh ZH+EN re-grep (Mree / Marie Hsiao) — hit set unchanged (334, 910, a-moment-with-mree, harvest index); no new community material. Verified-saturated.

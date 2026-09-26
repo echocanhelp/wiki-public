@@ -38,3 +38,5 @@ The Taiwanese Student Association at Arizona State University (TSA @ ASU) is a s
 <!-- deepen-x slice 09230400-21 (2026-09-24): SKIP re-verified — fresh grep (亞利桑那/ASU/TSA) over works/+articles/ returned ZERO real hits; no club record in corpus. Verified saturated. -->
 
 <!-- deepen-x slice 09240400-8 (2026-09-25): SKIP re-verified — fresh grep (Arizona State/亞利桑那/ASU filtered by 同學會/Student Association) hits only the works index; Arizona works pages (TAA/FAPA/NATWA/Heritage Week chapters) are different orgs. No club record; nothing absorbable. -->
+
+<!-- deepen-x slice 09250700-31 (2026-09-25): SKIP re-verified — fresh grep (亞利桑那州立/Arizona State/asu.tsa/TSA-ASU) hits only Taiwan Justice news articles citing ASU professors on unrelated topics (Mars panoramas, Orbital Reef, 一帶一路, 自駕車, COVID) — all false positives. No club record in corpus; nothing absorbable. Verified saturated. -->

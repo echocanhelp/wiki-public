@@ -32,3 +32,4 @@ The former Evangelical Formosan Church of El Sobrante (平諾台福基督教會)
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - Re-grep 2026-09-25 (slice 09240317-29): identical hit set (el-sobrante, harvest-berkeley, berkeley directory records + works index), all already linked; no memoir material on the merger. SKIP: HOLD on merger date retained.
+- Re-grep 2026-09-25 (slice 09250700-31): fresh grep (北加州台福 / El Sobrante / 柏克萊台福 / Harvest Berkeley / Formosan Church of NorCal) returned the identical hit set — el-sobrante, harvest-berkeley, berkeley directory records + works index, all already linked; no memoir material dates the merger. SKIP: HOLD on merger date retained.

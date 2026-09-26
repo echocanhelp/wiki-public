@@ -56,3 +56,4 @@ _No filled family fields on the TAH profile._
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 複核（deepen-x slice 09240317-20, 2026-09-25）：fresh ZH+EN re-grep returns only TAH #1826 + harvest index; 徐福棟 romanization HOLD stands — corpus-saturated, SKIP-for-deepening.
+複核（deepen-x slice 09250700-21, 2026-09-25）：fresh ZH+EN re-grep against works/+articles/ returns the identical hit set（TAH #1826 + harvest index only）— corpus-saturated, SKIP-with-reason.
