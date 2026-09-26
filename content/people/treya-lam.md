@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Treya Lam
 
@@ -47,3 +47,4 @@ _No filled family fields on the TAH profile._
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 <!-- deepen-x 09231000-14: verified-saturated — corpus re-scan (works/articles) fresh 2026-09-25: hit set identical to prior passes (own records + already-wikilinked works only); David Kuang-Tzu Lin: fresh grep hits (ourjourneys33 family-photo 'David Lin', TJJ 林沅融 David Lin, TJJ 牧師林大衛 David Lin) are name collisions, NOT 李光治 — excluded, no absorbable material. -->
 <!-- deepen-x 09250317-11: verified-saturated — corpus re-scan (works/articles) fresh 2026-09-25: hit set identical to prior passes (own records + already-wikilinked works only); no new community material. -->
+<!-- deepen-x 09251500-3: verified-saturated — corpus re-scan (works/articles) fresh 2026-09-26: hits are only own TAH records (#273, #544/19093) + works/index.md, all already linked above; SKIP. -->
