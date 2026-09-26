@@ -35,3 +35,4 @@ The UW iTaiwan Graduate Students and Professional Organization (Chinese name: �
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 > Deepen pass 2026-09-25 (slice 09240500-28): SKIP — re-grep (西雅圖華大台灣研究生社/UW iTaiwan) hits only the club's own work record and the works index (prior OCAC iTaiwan article hit did not recur) — no new corpus material.
+> Corpus re-verified 2026-09-26 (deepen-x slice 09251023-15): fresh grep (西雅圖華大台灣研究生社/UW iTaiwan) — hits remain only the club's own work record, works/index, and the 2025 OCAC 僑委會 article (iTaiwan there = OCAC service window, not this club). SKIP — verified-saturated.

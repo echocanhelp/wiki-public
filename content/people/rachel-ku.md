@@ -45,6 +45,7 @@ _No filled family fields on the TAH profile._
 - Corpus re-verified 2026-09-22 (deepen-x slice 09211507-19): grep of works/ + articles/ for 'Rachel Ku' still returns only her own bibliographic index entries (#192, #394) — no memoir or community-body mentions to absorb; page remains saturated.
 - Corpus re-verified 2026-09-24 (deepen-x slice 09230400-28): fresh re-grep unchanged — only #192, #394 and the works index; verified-saturated.
 - Corpus re-verified 2026-09-25 (deepen-x slice 09240500-31): fresh grep unchanged — hits remain only her own index entries [[works/taiwaneseamericanhistory-org/192-rachel-ku-violist-201505|#192]] and [[works/taiwaneseamericanhistory-org/394-rachel-ku-201504|#394]] plus works/index; no memoir or community-body mentions. SKIP — page saturated.
+- Corpus re-verified 2026-09-26 (deepen-x slice 09251023-15): fresh grep for 'Rachel Ku' returns only #192/#394 + works/index (the single 瑞秋 in a 2023 戴維森訪台團 article is an unrelated transliterated name, not the violist). SKIP — page saturated.
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

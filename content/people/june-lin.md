@@ -48,3 +48,4 @@ _No filled family fields on the TAH profile._
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - Corpus re-verified 2026-09-25 (deepen-x slice 09240400-14): fresh ZH+EN grep of works/ + articles/ returned hit sets identical to the links already absorbed above — verified-saturated, nothing new absorbable.
+- Corpus re-verified 2026-09-26 (deepen-x slice 09251023-15): fresh ZH+EN grep returned only the already-absorbed records (record 320, TAH #1925, Pew statement) plus false substring matches (works index, Goohana "June line-up"). SKIP — verified-saturated.
