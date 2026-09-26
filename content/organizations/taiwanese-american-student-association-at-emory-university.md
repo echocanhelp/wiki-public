@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Taiwanese American Student Association at Emory University
 
@@ -25,6 +25,7 @@ The Taiwanese American Student Association at Emory University (Emory TASA) is a
 - 2010-11-20 — Emory 與 GATech 共同主辦「Taste of Taiwan 2010」：[[works/taiwaneseamerican-org/taste-of-taiwan-2010-hosted-by-emory-gatech|Taste of Taiwan 2010, hosted by Emory & GATech]]。HOLD: 紀錄僅寫「hosted by Emory & GATech」，未指名是否由兩校 TASA 承辦。
 
 ## Corpus note
+- 2026-09-26 re-grep (slice 09250900-20): fresh grep (Emory) — hit set unchanged (index, Night Market, healthy-living, Will Tiao, Taste of Taiwan, Twitter Wars), all already linked/assessed above. No new Emory-TASA facts. SKIP-with-reason.
 - 2026-09-25 re-grep (slice 09240600-21): fresh grep (Emory) — hit set unchanged (index, Night Market, healthy-living, Will Tiao, Taste of Taiwan, Twitter Wars), all already linked/assessed above. No new Emory-TASA facts. SKIP-with-reason.
 - 2026-09-24 re-grep (slice 09230700-3): fresh grep — hit set now includes the 'Healthy Living and Eating' memoir ([[works/taiwaneseamerican-org/healthy-living-and-eating|Healthy Living and Eating]]): the author's Emory mention is only medical training (Northwestern/Emory), no Emory-TASA facts. All other hits (index, Night Market, Will Tiao, Taste of Taiwan, Twitter Wars) already linked/assessed above. No new absorbable facts.
 - 2026-09-23 re-grep (slice 09221300-3): fresh grep of works/ + articles/ — hits are only the index and the Night Market work page already linked above; Will Tiao / Taste of Taiwan pages already linked with HOLDs. No new Emory-TASA material — no new absorbable facts.
