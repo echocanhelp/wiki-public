@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Dr. Min Hsiung Tsai (蔡敏雄博士)
 
@@ -37,6 +37,7 @@ Accomplishment
 - Corpus grep re-verified 2026-09-18, 2026-09-20, 2026-09-21, 2026-09-22, 2026-09-23, and 2026-09-25 (DEEPEN-X slices 09180300-18, 09191000-17, 09210051-8, 09220500-18, 09221400-19, 09230900-31): coverage limited to his own Who's Who record and the works index — no memoir or article mentions; HOLD on spouse conflict (邱淑媛 vs 王梅鳳) stands.
 - HOLD: conflict in family record — spouse listed as both 邱淑媛 and 王梅鳳 ( tah-tables "邱淑媛/王梅鳳"); no corpus material resolves which/when.
 - Corpus re-grep 2026-09-25 (slice 09250400-5): hits remain own TAH #1915 record + works index only; no memoir/article mentions; spouse HOLD stands.
+- Re-verify 2026-09-26 (slice 09252123-5): fresh ZH+EN grep — hits remain own TAH #1915 record + works index only; SKIP-with-reason stands; spouse HOLD (邱淑媛 vs 王梅鳳) stands.
 
 ## Family
 
