@@ -45,8 +45,31 @@ Canonical URL: https://echocanhelp.github.io/wiki-public/people/albert-zh-sku-b-
 | 國家圖書館 CIP 末頁 | **Not done** — **missing from Word**; need PDF last page |
 | 台語 SKU C | Out of scope until asked |
 | Human retail cast | After scratch sign-off + consent path |
+| ZH re-render (Albert 2026 full-listen notes) | **Gated** — list below; not started until confirm |
 
 ---
+
+## Albert full-listen notes (gated — do not re-render until sign-off)
+
+Source: Albert group message after returning to Los Angeles; overall “還算不錯”; then corrections. **Re-listen after these fixes, then 定案.**
+
+1. **Tempo — English:** all English slower; quotes and proper names slower and clearer.
+2. **Tempo — Chinese:** all Chinese slightly slower (not optional).
+3. **D.Min.:** speak **「D Min Doctor of Ministry 宣道學博士學位」** — not 「D 點 Min」.
+4. **Dotted abbreviations:** F.B.I. T.I.R.A. UPCUSA etc. as oral **FBI / TIRA / UPCUSA** — do not speak the period as 「點」.
+5. **Dr. / Ms.:** not letter-by-letter D R / M S. Speak English titles: **Dr. Rice, Dr. Lee, Ms. Helder, Dr. Come, Dr. Van Dusen** (and others).
+6. **Prof.:** speak **Professor** + name (Rice, Lee, …).
+7. **Money:** e.g. **$18,000 → 一萬八千美元**. Five-year plan: 第一年五萬美元 … 第五年一萬美元 **第六年零美元**.
+8. **228:** **二二八事件** — not 兩百二十八.
+9. **UCLA:** letter by letter **U C L A**, not as a word “Ucla”.
+10. **Quote:** *Don’t trust anyone who over 30.* **entirely in English**; **30 = thirty**, not 三十.
+11. **424:** **四二四事件**, clearly.
+12. **UPCUSA (原作者序):** letters **U-P-C-U-S-A**, not “Upc USA”.
+13. **長老:** 破音 **zhǎng-lǎo** (教會「長老」), never **常老**.
+14. **Cover line:** after Albert S. H. Lai add **賴信雄** — 「由 Albert S. H. Lai 賴信雄 恭敬地提交給…」.
+15. **Ezekiel 19:5:** speak **「這句話摘自舊約聖經 以西結書 第十九章 第五節」**.
+16. **目錄:** include in audio (before 前言); page numbers optional — **ask Albert**.
+17. Still open from plan: **參考資料 (keep English)** and **CIP** (missing from Word).
 
 ## How to listen (manuscript order)
 

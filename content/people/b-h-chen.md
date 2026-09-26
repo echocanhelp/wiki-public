@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # B. H. Chen (陳炳煌)
 
@@ -63,3 +63,5 @@ last_reviewed: 2026-09-25
 > Corpus check (deepen-x slice 09230400-21, 2026-09-24): fresh re-grep hit set identical (whoswho1292, b-h-chen #1, my-stories-690); no new unabsorbed corpus facts. SKIP: saturated.
 > Corpus check (deepen-x slice 09240400-9, 2026-09-25): fresh re-grep hit set identical (whoswho1292, b-h-chen #1, my-stories-690, works index); no new unabsorbed corpus facts. SKIP: saturated.
 > Corpus check (deepen-x slice 09250800-19, 2026-09-25): fresh re-grep (陳炳煌|B. H. Chen|Bing-Huang) hit set identical (whoswho1292, b-h-chen #1, my-stories-690, works index); no new unabsorbed corpus facts. SKIP: saturated.
+
+Corpus re-check 2026-09-26 (deepen-x slice 09260500-30): fresh ZH+EN grep of works/ + articles/ — hit set identical to the records already linked and absorbed on this page (plus index listings). No new community-corpus material. SKIP-deepen; verified-saturated.
