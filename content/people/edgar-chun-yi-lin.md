@@ -65,6 +65,8 @@ The TAH archive carries this person under both romanizations — Edgar (TAH #174
 
 ## From the record
 
+- 覆核（TJJ-A09251300-3, 2026-09-26）：本 slice 兩份同文文章 0832558e3b4e5ac7 / b7327dcf888cee82（台美史料中心 March 2021 Newsletter）正文再驗證——subject 連結為真實提及，無錯鏈、無虛鏈；含兩文 wikilink 的 2021-02-28 條目已在庫 — SKIP，已飽和。
+
 - 2021-02-28 — 台美史料中心（T. A. Archives）3月通訊重刊林俊義〈活出淋漓盡致的生命〉自述（2015-02），記其赴美後由美國文學轉讀生物、於 Indiana Goshen College 重新起步的經歷（[[articles/taiwanjustice-net/2021/20210419132127_2021_02_28_march-2021-newsletter-t-a-archives-台美史料中心_0832558e3b4e5ac7|TJJ, 2021-02-28]]；同文另存 [[articles/taiwanjustice-net/2026/20260208202549_march-2021-newsletter-t-a-archives-台美史料中心_b7327dcf888cee82|2026-02-08 快照]]）。
 
 ## Sources

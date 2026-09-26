@@ -81,6 +81,8 @@ Absorbed from the on-page bio and tah-tables (no external sources):
 
 ## From the record
 
+- 覆核（TJJ-A09251300-3, 2026-09-26）：本 slice 文章 483521594640641a（紐約台灣會館蘇春槐接任理事長 CNA 報導, 2021-04-07）正文再驗證——subject 連結為真實提及，無錯鏈、無虛鏈；含該文 wikilink 的 2021-04-07 條目已在庫 — SKIP，已飽和。
+
 - 複核（TJJ-A09240900-2, 2026-09-25）：本 slice 文章正文再驗證——本頁 subject 連結為真實提及（無錯鏈、無虛鏈），含該文 wikilink 的日期事實條目已在庫 — SKIP，無新材料。
 - 複核（TJJ-A09221300-15, 2026-09-23）：本 slice 文章 1251d9ed 正文再驗證——方秀蓉以紐約台灣會館理事長聯署萊豬聲明的連結為真，2021-01-12 條目已在庫，無錯鏈、無虛鏈 — SKIP，無新材料。
 

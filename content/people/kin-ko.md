@@ -68,5 +68,7 @@ M.S., Aerospace Engineering; Ph.D. Course Program
 
 ## From the record
 
+- 覆核（TJJ-A09251300-3, 2026-09-26）：本 slice 兩份同文文章 0832558e3b4e5ac7 / b7327dcf888cee82（台美史料中心 March 2021 Newsletter）正文再驗證——subject 連結為真實提及，無錯鏈、無虛鏈；含兩文 wikilink 的 2021-02-28 條目已在庫 — SKIP，已飽和。
+
 - 2021-02-28 — 台美史料中心3月通訊刊出柯金寅撰〈緬懷楊教授國雄兄〉：楊國雄2021年元旦逝世於紐澤西州蒙特克萊爾，享壽八十三；2月5日蒙特克萊爾州立大學舉辦線上追思會（[[articles/taiwanjustice-net/2021/20210419132127_2021_02_28_march-2021-newsletter-t-a-archives-台美史料中心_0832558e3b4e5ac7|TJJ, 2021-02-28]]；同文另存 [[articles/taiwanjustice-net/2026/20260208202549_march-2021-newsletter-t-a-archives-台美史料中心_b7327dcf888cee82|2026-02-08 快照]]）。
 <!-- TJJ-A09240800-10: verified 2026-09-25 — subject links in slice 09240800-10 articles confirmed real; dated fact w/ article wikilink already in From the record — saturated, no new material. -->

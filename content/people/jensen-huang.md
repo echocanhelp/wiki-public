@@ -49,6 +49,8 @@ Jensen Huang founded NVIDIA in 1993 and has served since its inception as presid
 
 ## From the record
 
+- 覆核（TJJ-A09251300-3, 2026-09-26）：本 slice 文章 483521594640641a（紐約台灣會館蘇春槐接任理事長 CNA 報導, 2021-04-07）正文再驗證——subject 連結為真實提及，無錯鏈、無虛鏈；含該文 wikilink 的 2021-04-07 條目已在庫 — SKIP，已飽和。
+
 - 複核（TJJ-A09250900-3, 2026-09-26）：本 slice 文章 00354cf6ba9cf607（台美人台加人分類頁 page 358, 2024-06-19 快照）正文再驗證——「黃仁勳加州理工畢典致詞」確認見於正文，subject 連結為真，無錯鏈、無虛鏈；對應日期事實（含該文 wikilink）已在庫 — SKIP，已飽和。 [[articles/taiwanjustice-net/2024/20240619181806_root_00354cf6ba9cf607|快照]]
 - 複核（TJJ-A09250400-9, 2026-09-25）：本 slice 文章 923dad71（「台灣新聞」分類頁, 2023-12-01 存檔）正文再驗證——「Catch大錢潮 20231201 黃仁勳『晶片純美製造』還要20年?」條目確認見於清單，subject 連結為真，無錯鏈、無虛鏈；2023-12-01 條目（已掛該文 wikilink）已在庫 — SKIP，已飽和。
 
