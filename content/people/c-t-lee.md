@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # C. T. Lee (李青泰)
 
@@ -48,3 +48,4 @@ last_reviewed: 2026-09-25
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- Re-verify 2026-09-26 (slice 09251000-21): fresh grep works/+articles/ — identical hit set (ourjourneys228, ourjourneys293, chabot-honoring-party-5-1-18, whoswho974, works index), all facts already absorbed in Role in the Community. SKIP-deepen; verified saturated.

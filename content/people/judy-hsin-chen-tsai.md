@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Judy Hsin-Chen Tsai (蔡幸珍)
 
@@ -54,3 +54,4 @@ last_reviewed: 2026-09-25
 - Re-verified 2026-09-23 (deepen-x slice 09221400-12): fresh grep of works/ + articles/ — hit set identical (TAH #845, works/index, TJJ 會訊 record); no new memoir/article mentions. SKIP.
 - Re-verified 2026-09-24 (deepen-x slice 09230800-27): fresh ZH+EN grep — hit set identical (TAH #845, works/index, TJJ 會訊 record; her name re-confirmed in the 第11屆20位個人董事 list already absorbed). No new facts. SKIP.
 - Re-verified 2026-09-25 (deepen-x slice 09240800-2): fresh ZH+EN grep — hit set identical (TAH #845, works/index, TJJ 會訊 record); no new memoir material. SKIP.
+- Re-verified 2026-09-26 (deepen-x slice 09251000-21): fresh ZH+EN grep — hit set identical (TAH #845, works/index, TJJ 會訊 record — 第11屆20位個人董事名單 re-confirmed, 蔡幸珍 already absorbed in Role in the Community). No new facts. SKIP.

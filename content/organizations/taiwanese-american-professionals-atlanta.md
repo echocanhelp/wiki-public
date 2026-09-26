@@ -43,3 +43,4 @@ Corpus re-grep 2026-09-22: no additional mentions of TAP-ATL / 台美菁英協�
 - 2026-09-23 corpus re-grep (DEEPEN-X slice 09221200-30): hit-set unchanged — same records already absorbed/wikilinked above; nothing new absorbable. SKIP-content.
 - 2026-09-24 corpus re-grep (DEEPEN-X slice 09230700-21): hits = own chapter record + already-wikilinked event records + works index; the wider TAPpy-hour grep matched other chapters' (DC, SF) events, no Atlanta-specific facts. verified-saturated.
 - 2026-09-25 corpus re-grep (DEEPEN-X slice 09240700-24): hit-set unchanged (atlanta-chapter-tap + works index only) — verified-saturated, SKIP.
+- 2026-09-26 corpus re-grep (DEEPEN-X slice 09251000-22): hits = own chapter record + announcement-party event record + works index, all already wikilinked with facts absorbed — verified-saturated, SKIP.
