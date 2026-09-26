@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # S. C. Yang (楊淑卿)
 
@@ -52,3 +52,4 @@ last_reviewed: 2026-09-25
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 <!-- deepen-x slice 09250400-3 (2026-09-25): re-verified — fresh ZH+EN grep of works/ + articles/ returns only the records already linked/absorbed above (plus works/index rollup); nothing new absorbable; no conflicts. SKIP-with-reason (verified saturated). -->
+<!-- deepen-x slice 09251527-17 (2026-09-26): SKIP re-verified — fresh ZH+EN grep of works/ + articles/ hit set identical to prior absorption (own TAH record + works index only); nothing new absorbable; verified saturated. -->

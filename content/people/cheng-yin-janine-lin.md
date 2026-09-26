@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Dr. Cheng-Yin Janine Lin (林政穎博士)
 
@@ -49,3 +49,4 @@ _No filled family fields on the TAH profile._
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 <!-- deepen-x slice 09231000-17 (2026-09-25): SKIP re-verified — fresh grep of works/ + articles/ returns only the records already absorbed on this page; nothing new absorbable. -->
 <!-- deepen-x slice 09250317-31 (2026-09-25): SKIP re-verified — fresh ZH+EN grep returns only musician427, Who's Who 2063, and the index (all already absorbed); no memoir/community mentions; verified saturated. -->
+<!-- deepen-x slice 09251527-17 (2026-09-26): SKIP re-verified — fresh ZH+EN grep of works/ + articles/ hit set identical to prior absorption (own TAH record + works index only); nothing new absorbable; verified saturated. -->

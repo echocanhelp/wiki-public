@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # H. L. Hung (洪榮隆)
 
@@ -43,3 +43,4 @@ _No filled family fields on the TAH profile._
 <!-- deepen-x 09220700-23: SKIP — corpus re-scan (works/articles) fresh 2026-09-22: hits are only own TAH records, works/index.md, or pages already wikilinked in Role in the Community; no new community material. -->
 <!-- deepen-x 09231000-13: verified-saturated — fresh corpus grep: hits only own records / already-linked works; no new community material. -->
 <!-- deepen-x 09250317-32: SKIP re-verified 2026-09-25 — fresh ZH+EN grep of works/+articles/ returns only ourjourneys75 (+EN) and #1239, all already absorbed/linked above; no new community material. -->
+<!-- deepen-x slice 09251527-18 (2026-09-26): SKIP re-verified — fresh ZH+EN grep of works/+articles/ returns only the records already linked/absorbed in Role in the Community (plus works/index rollup); no new corpus material, no conflicts to hold. -->

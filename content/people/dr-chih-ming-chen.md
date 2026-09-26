@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Dr. Chih-Ming Chen (陳志明博士)
 
@@ -53,3 +53,4 @@ Accomplishment
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 <!-- deepen-x slice 09250400-3 (2026-09-25): re-verified — fresh ZH+EN grep of works/ + articles/ returns only the records already linked/absorbed above (plus works/index rollup); nothing new absorbable; no conflicts. SKIP-with-reason (verified saturated). -->
+<!-- deepen-x slice 09251527-18 (2026-09-26): SKIP re-verified — fresh ZH+EN grep of works/+articles/ returns only the records already linked/absorbed in Role in the Community (plus works/index rollup); no new corpus material, no conflicts to hold. -->
