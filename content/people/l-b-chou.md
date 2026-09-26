@@ -34,7 +34,7 @@ _No filled family fields on the TAH profile._
 
 ## Role in the Community
 - TAH Who's Who 紀錄：[[works/taiwaneseamericanhistory-org/whswho1427|1427. L. B. Chou 周聯彬/ 2016/12]]。
-- 公共衛生領域拓荒者：朱真一、陳永興考證謝娥生平時記述，周聯彬寫自傳時不知謝娥已先得美國公共衛生博士學位，自認台灣人第一位公衛博士——兩人同為台灣人公衛博士先驅，先後次序存議（見 [[articles/taiwanjustice-net/2025/20250808015559_台灣第一位外科女醫生謝娥-1949年離台移民美國有_a3608b31f14db754|台灣第一位外科女醫生謝娥…（朱真一+陳永興）]]）。HOLD: 「台灣人第一位公共衛生博士」謝娥 vs 周聯彬，兩說並存不強行裁定。Re-verified 2026-09-25 (slice 09250600-27): fresh ZH+EN grep returned the same hit set (own record #1427, 朱真一/陳永興 謝娥考證文×2, works index) — saturated, nothing new absorbable. 2022/07/26 文：[[articles/taiwanjustice-net/2022/20220815035652_2022_07_26_台灣第一位外科女醫生謝娥-1949年離台移民美國有_9388a12b28bea71e|台灣第一位外科女醫生謝娥…（朱真一, 2022/07）]]——周寫自傳時不知謝娥已先得公衛博士，自認第一位；朱評「周博士成就非凡」。
+- 公共衛生領域拓荒者：朱真一、陳永興考證謝娥生平時記述，周聯彬寫自傳時不知謝娥已先得美國公共衛生博士學位，自認台灣人第一位公衛博士——兩人同為台灣人公衛博士先驅，先後次序存議（見 [[articles/taiwanjustice-net/2025/20250808015559_台灣第一位外科女醫生謝娥-1949年離台移民美國有_a3608b31f14db754|台灣第一位外科女醫生謝娥…（朱真一+陳永興）]]）。HOLD: 「台灣人第一位公共衛生博士」謝娥 vs 周聯彬，兩說並存不強行裁定。Re-verified 2026-09-25 (slice 09250600-27): fresh ZH+EN grep returned the same hit set (own record #1427, 朱真一/陳永興 謝娥考證文×2, works index) — saturated, nothing new absorbable. 考證最早見於朱真一 2022/07/26 文：[[articles/taiwanjustice-net/2022/20220815035652_2022_07_26_台灣第一位外科女醫生謝娥-1949年離台移民美國有_9388a12b28bea71e|台灣第一位外科女醫生謝娥…（朱真一, 2022/07）]]——周寫自傳時不知謝娥已先得公衛博士，自認第一位；朱評「周博士成就非凡」。
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/l-b-chou/)

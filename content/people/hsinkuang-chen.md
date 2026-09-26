@@ -49,3 +49,4 @@ _No filled family fields on the TAH profile._
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 > SKIP re-check (deepen-x 09231300-28, 2026-09-25): fresh ZH+EN grep of content/works + content/articles returned only own TAH record + works index — no community/memoir material to absorb.
+> SKIP re-check (deepen-x 09250600-30, 2026-09-25): fresh ZH+EN grep returned hit set identical to prior deepen records ([[works/taiwaneseamericanhistory-org/whoswho1494|TAH #1494]] + works index) — saturated, nothing new to absorb.
