@@ -7,7 +7,7 @@ tags:
   - vice-chair
   - Taiwanese-American
 verification_status: published
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Chen Hui-Chen (陳慧貞)
 
@@ -47,3 +47,5 @@ SKIP (re-confirmed) — fresh grep of works/ + articles/ for 陳慧貞 / Hui-Che
 SKIP (re-confirmed) — fresh grep for 陳慧貞 / Hui-Chen Chen returns zero hits; NTPC source material remains the only record.
 ## Corpus check (deepen-x 09240500-31, 2026-09-25)
 SKIP (re-confirmed) — fresh grep of works/ + articles/ for 陳慧貞 / Hui-Chen Chen / Chen Hui-Chen: zero hits. NTPC Vice-Chair 2025/26 (中原區, 2028 屆滿) + Historical Committee Treasurer record stands as written; nothing absorbable.
+## Corpus check (deepen-x 09251023-16, 2026-09-26)
+SKIP (re-confirmed) — fresh grep of works/ + articles/ for 陳慧訶 / Hui-Chen Chen / Chen Hui-Chen: zero hits. NTPC Vice-Chair 2025/26 (中原區, 2028 屆滿) + Historical Committee Treasurer record stands; nothing absorbable.

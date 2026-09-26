@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Yili Hsu (許義莉)
 
@@ -53,3 +53,4 @@ Yili Hsu, a native of Taiwan, is a free-lance flutist around the Dallas metro ar
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - Corpus re-verified 2026-09-24 (deepen-x slice 09230317-29): fresh ZH+EN grep of works/ + articles/ returned hit sets identical to the links already absorbed above — verified-saturated, nothing new absorbable.
 - Corpus re-verified 2026-09-25 (deepen-x slice 09240400-14): fresh ZH+EN grep of works/ + articles/ returned hit sets identical to the links already absorbed above — verified-saturated, nothing new absorbable.
+- Corpus re-verified 2026-09-26 (deepen-x slice 09251023-16): fresh ZH+EN grep of works/ + articles/ returned the identical hit set (whoswho1228, musician148, works/index) — all already linked above; verified-saturated, nothing new absorbable.
