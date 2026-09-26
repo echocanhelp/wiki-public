@@ -23,7 +23,7 @@ The Taiwanese Import and Export Association of America is a business association
 - Its scholarship program is separately recorded in the corpus: [[works/taiwaneseamericanhistory-org/taiwanese-import-and-export-association-of-america-inc-scholarship-awards|64. 美國台灣人進出口公會獎學金 (TAH record, published 2016-05-31)]], corroborating the page's claim that the association awards scholarships to Taiwanese American students.
 - Both records entered the corpus via the TAH organization/story directory; no memoir text names individual officers, so leadership details remain HOLD (not in corpus).
 
-- Re-verified 2026-09-25 (slice 09231200-31): fresh grep of works/ + articles/ returned only the two already-linked directory records; no memoir names individual officers — SKIP-with-reason, leadership stays HOLD.
+- Re-verified 2026-09-25 (slices 09231200-31 and 09250500-30): fresh ZH+EN grep (美國台灣人進出口公會 / "Taiwanese Import and Export Association") of works/ + articles/ returned only the two already-linked directory records plus the works index row; no memoir names individual officers — SKIP-with-reason, leadership stays HOLD.
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-import-and-export-association-of-america-inc/)

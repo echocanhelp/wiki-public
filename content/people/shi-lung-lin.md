@@ -41,7 +41,7 @@ _No filled family fields on the TAH profile._
 - Corpus-wide grep of memoirs and articles returns no other mention of him — nothing further absorbable; TAH profile facts (中山醫學 1989 → USC 生化 M.S./Ph.D. → USC 醫學院 Assistant Professor 2002–2008 → W&L Stem Cell Research director) stand as-is, no conflicts found.
 - Re-verified 2026-09-21 (deepen-x slice 09201503-22): re-grep across content/works + content/articles — hit set unchanged (own TAH record #945 + index row only); verified-saturated.
 
-- Re-verified 2026-09-22 (slice 09211507-27) and 2026-09-25 (slice 09231100-25): re-grepped ZH+EN (林希龍 / "Shi-Lung Lin") against content/works + content/articles; hit set unchanged (own TAH record #945 + index row only) — verified-saturated, no new corpus material absorbable.
+- Re-verified 2026-09-22 (slice 09211507-27), 2026-09-25 (slices 09231100-25 and 09250500-30): re-grepped ZH+EN (林希龍 / "Shi-Lung Lin") against content/works + content/articles; hit set unchanged (own TAH record #945 + index row only) — verified-saturated, no new corpus material absorbable.
 
 ## Sources
 - [TAH #945 encyclopedia: 945. Shi-Lung Lin 林希龍 / 2016/04](https://taiwaneseamericanhistory.org/945-shi-lung-lin-%e6%9e%97%e5%b8%8c%e9%be%8d-201604/)
