@@ -60,3 +60,4 @@ _No filled family fields on the TAH profile._
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - [[articles/taiwanjustice-net/2024/20240301071009_root_cbf185d4e8137928|廖清山 memoir — the quiet 'third man' (TJJ)]]
 - Corpus re-check 2026-09-25 (slice 09240900-2): fresh grep 高銘益/George Kao returns the identical hit set — own TAH record whoswho-2241 and the already-absorbed 廖清山 TJJ memoir column (which carries the full 高銘益 name-recall/2017-02 飲茶 reunion detail already in From the record) — no new community facts; verified saturated, SKIP-no-new-facts.
+- Corpus re-check 2026-09-26 (slice 09251400-1): fresh grep 高銘益/George Kao again hits only whoswho-2241, works/index, and the 廖清山 TJJ column — all already absorbed; verified saturated, SKIP-no-new-facts.
