@@ -34,6 +34,7 @@ last_reviewed: 2026-09-26
 - 2026-09-23（slice 09221300-17）再grep（台灣大專聯合校友會／中國大專院校聯合校友會／Joint Chinese University）：命中仍為已連結之 concerts90、WHA 聲明（2021 + 2025 存檔）、太魯閣號慰問函；verified-saturated, SKIP.
 - 2026-09-24（slice 09230800-6）再grep（台灣大專聯合校友會／中國大專院校聯合校友會／Joint Chinese University）：命中仍為已連結之 [[works/taiwaneseamericanhistory-org/concerts90||concerts90]]、WHA 聯合聲明（2021 原文＋2025 存檔，兩校名並列已記於上方 HOLD）、太魯閣號慰問函。SKIP-content（verified-saturated）：無可吸收新事實，名稱衝突維持 HOLD 不逕行合併。
 - 2026-09-25（slice 09240700-13）再grep（台灣大專聯合校友會／中國大專院校聯合校友會／Joint Chinese University）：命中仍為已連結之 concerts90、WHA 聯合聲明（2021＋2025 存檔）、太魯閣號慰問函及 index。SKIP-content（verified-saturated）：無新事實，兩校名 HOLD 不變。
+- 2026-09-26（slice 09250900-29）再grep（台灣大專聯合校友會／中國大專院校聯合校友會／Joint Chinese University）：命中仍為已連結之 concerts90、WHA 聯合聲明（2021＋2025 存檔）、太魯閣號慰問函及 index。SKIP-content（verified-saturated）：無新事實，兩校名 HOLD 不變。
 
 ## Related Pages
 

@@ -24,7 +24,8 @@ The group appears in the TAH corpus as part of the New Jersey Taiwanese student-
 - [[works/taiwaneseamericanhistory-org/602-e5-8f-b0-e7-be-8e-e5-a4-a7-e5-ad-b8-e7-94-9f-e8-b7-a8-e6-a0-a1-e9-9a-9b-e5-8|602. 台美大學生跨校際協會 2005 手冊 / Rutgers University]] — the 2005 intercollegiate Taiwanese student handbook lists 羅格斯大學台灣硏究社 RTSA, documenting the club's activity by 2005.
 - [[works/taiwaneseamericanhistory-org/rutgers-taiwan-study-association|Rutgers Taiwan Study Association 羅格斯大學台灣研究社 藍白拖武士]] — 2018 cultural program record (published 2018-04-04).
 - [[works/taiwaneseamericanhistory-org/rutgerstsa-e5-8f-b0-e7-81-a3-e7-a0-94-e7-a9-b6-e7-a4-be-e5-be-9e-sars-e5-88-b0-c|Rutgers TSA 台灣研究社 — 從 SARS 到 COVID-19]] — 2020 pandemic-forum record (event dated 09/11/2020 in the title; published 2020-12-04).
-- [[works/taiwaneseamericanhistory-org/ourjourneys356|Our Journeys #356 — New Jersey Taiwanese community]] — lists Rutgers (as item 17) among New Jersey's major Taiwanese American organizations.
+- [[works/taiwaneseamericanhistory-org/rutgers-tsa-e7-b6-b2-e8-b7-af-e6-bc-94-e8-ac-9b-e6-b4-bb-e5-8b-95-e5-81-9a-e5-b7|Rutgers TSA 網路演講活動–做工的人]] — 2020-12-04 online talk (網路演講) on 「做工的人」, showing the club running documentary-linked discussion into the pandemic period alongside its forum programming.
+- [[works/taiwaneseamericanhistory-org/ourjourneys356|Our Journeys #356 — New Jersey Taiwanese community]] — lists Rutgers (as item 17, rendered "Rutgers Taiwanese Students Association" in the English edition [[works/taiwaneseamericanhistory-org/ourjourneys356-eng|ourjourneys356-eng]]) among New Jersey's major Taiwanese American organizations.
 
 HOLD: name conflict — the 2005 handbook and Our Journeys list render the group as "RTSA / Rutgers Taiwanese Students Association", while the TAH directory and 2018/2020 records use "Rutgers Taiwan Study Association". Never auto-merged; treated as the same club pending owner confirmation.
 

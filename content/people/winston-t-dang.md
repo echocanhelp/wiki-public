@@ -60,3 +60,5 @@ _No filled family fields on the TAH profile._
 2026-09-24 re-grep (deepen-x 09230600-31): fresh ZH+EN corpus grep (陳重信 / Winston T. Dang) returned only the records already linked on this page (349-our-journeys, ourjourneys254, publications1056, 661 bio) — verified saturated, nothing new absorbable, no conflicts.
 
 2026-09-25 re-grep (deepen-x 09240600-31): fresh ZH+EN corpus grep (陳重信 / Winston T. Dang) returned only the records already linked (publications1056, 349-our-journeys, ourjourneys254, 661 bio) — verified saturated, nothing new absorbable, no conflicts.
+
+2026-09-26 re-grep (deepen-x slice 09250900-28): fresh ZH+EN corpus grep returned the identical hit set (publications1056, 349-our-journeys, ourjourneys254, 661 bio, works index) — verified saturated, nothing new absorbable, no conflicts.

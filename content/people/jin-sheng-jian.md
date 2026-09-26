@@ -56,3 +56,5 @@ _No filled family fields on the TAH profile._
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 _Corpus re-scan (slice 09240600-31, 2026-09-25): fresh ZH+EN grep returns the same six work hits (#81, #234, #59, #272, #378, Who's Who #2229); all facts already absorbed — no new dates, roles, or orgs; no conflicts. SKIP-content._
+
+_Corpus re-scan (slice 09250900-29, 2026-09-26): fresh ZH+EN grep returns the same six work hits (#81, #234, #59, #272, #378, Who's Who #2229); all facts already absorbed — no new dates, roles, or orgs; no conflicts to HOLD. SKIP-content (verified-saturated)._
