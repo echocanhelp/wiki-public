@@ -29,3 +29,4 @@ _SKIP (2026-09-18 deepen-x; re-verified 2026-09-21 twice, incl. ROCSA/"ROC stude
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 <!-- deepen-x slice 09231300-7 recheck 2026-09-25: SKIP — fresh ZH+EN grep of works/+articles returned only own TAH work-page index rows / harvest index (or zero hits, or known idiom false positive); no new memoir or third-party material. -->
+<!-- deepen-x slice 09250500-32 recheck 2026-09-25: SKIP — fresh ZH+EN grep of works/+articles returned no new material (see above); verified saturated, no changes. -->
