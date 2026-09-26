@@ -40,8 +40,7 @@ last_reviewed: 2026-09-26
 
 _No filled family fields on the TAH profile._
 
-- Re-grepped 2026-09-25 (slice 09240700-26): fresh grep 王琳琦/Linda Wang returns the same hit set (#362, #1278, ourjourneys301, index), all absorbed above; TUF 奨学金/Geneva memoir fact and its HOLD stand. Verified-saturated; SKIP-with-reason.
-- Re-grepped 2026-09-26 (slice 09251000-18): fresh grep 王琳琦/Linda Wang returns the same hit set (#362, #1278, ourjourneys301, index), all absorbed above; TUF 奨学金/Geneva memoir fact and its HOLD stand. Verified-saturated; SKIP-with-reason.
+- Re-grepped 2026-09-25 → 2026-09-26 (slices 09240700-26, 09251000-18, this slice 09260500-23): fresh grep 王琳琦/Linda Wang over works/ + articles/ — no corpus hits beyond the already-absorbed #362/#1278/ourjourneys301 records (works/ grep now returns zero files). SKIP: verified saturated.
 
 ## Sources
 - [TAH #362 encyclopedia: 362. Linda Wang 王琳琦, Violinist / 2016/09](https://taiwaneseamericanhistory.org/musician362/)
