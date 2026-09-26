@@ -52,3 +52,4 @@ last_reviewed: 2026-09-25
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+<!-- deepen-x 09250600-16: re-verified 2026-09-25 — corpus grep (ZH+EN) hits = own records (712, ourjourneys47, winners10) only, all already absorbed into Role in the Community. SKIP. -->

@@ -48,3 +48,4 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+<!-- deepen-x 09250600-16: re-verified 2026-09-25 — grep returns #177, works index, Our Journeys 305 (牧師 David Chun-Ming Lai, different person). Nothing absorbable. -->
