@@ -51,6 +51,7 @@ last_reviewed: 2026-09-25
 - Corpus re-grep 2026-09-23 (slice 09221000-7): SKIP — hit set unchanged (ourjourneys290 ZH+EN, #252, #58, #107, #245, publications487, own #204 record); nothing new to absorb.
 - Corpus re-grep 2026-09-24 (slice 09230500-16): SKIP — hit set unchanged (ourjourneys290 ZH+EN, #252 +eng, #58, #107, #245, publications487, own #204 record); #252-eng roster re-confirmed (HAPA-NA presidents incl. Clyde Kiang 2000–2002), already corroborated by #290-eng link above; nothing new to absorb.
 - Corpus re-grep 2026-09-25 (slice 09240500-9): SKIP — hit set unchanged (ourjourneys290 ZH+EN, #252, #58, #107, #245, publications487, own #204 record); nothing new to absorb.
+- Corpus re-grep 2026-09-25 (slice 09250800-7): SKIP — fresh ZH+EN grep (Clyde Kiang／江運貴) hit set identical to the records already linked above; nothing new to absorb, no conflicts.
 
 ## Sources
 - [TAH #204 encyclopedia: 204. Clyde Kiang 江運貴/2015/01](https://taiwaneseamericanhistory.org/204-clyde-kiang-%e6%b1%9f%e9%81%8b%e8%b2%b4201501/)

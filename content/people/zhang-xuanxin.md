@@ -120,3 +120,5 @@ Pages that link to **zhang-xuanxin** (zhang-xuanxin):
 - [[organizations/irvine-taiwanese-presbyterian-church||ITPC]]
 - [[works/taiwaneseamericanhistory-org/910-carnegie-hero-fund-commission-john-cheng-and-billy-chang-09-2024|TAH #910 — Carnegie Hero Fund commission (John Cheng & Billy Chang, 2024/09)]]
 - [[people/index||People Index]]
+
+<!-- TJJ-A09250700-1: verified 2026-09-26 — subject links in slice 09250700-1 articles (c4d413fd / 8c205697 / 8842b0e0 / e041055e) confirmed real vs 正文; dated fact w/ article wikilink already in From the record — saturated, no new material. -->

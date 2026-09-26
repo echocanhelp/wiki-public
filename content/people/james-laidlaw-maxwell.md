@@ -83,3 +83,5 @@ Laijohn TOC v2 — bodies not archived:
 - [[organizations/good-shepherd-taiwanese-presbyterian-church||GSTPC]]
 - [[organizations/elder-john-lai-archives||史料庫]]
 - [[sources/laijohn-com||laijohn.com]]
+
+<!-- TJJ-A09250700-1: verified 2026-09-26 — subject links in slice 09250700-1 articles (c4d413fd / 8c205697 / 8842b0e0 / e041055e) confirmed real vs 正文; dated fact w/ article wikilink already in From the record — saturated, no new material. -->

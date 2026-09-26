@@ -34,3 +34,4 @@ The Taiwanese Student Society (TSS), known in Chinese as 明尼蘇達大學台�
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 _Corpus re-grep 2026-09-24 (slice 09230500-13): SKIP — hit set unchanged (same UW-M/北卡/華大 collision set); no UMTC TSS material._
 _Corpus re-grep 2026-09-25 (slice 09240500-9): SKIP — hit set unchanged (UW TSA, UW-M #205/#277, 北卡 #381, unrelated taiwanjustice articles). HOLD: MTSC/UW-M name collision stands; no UMTC TSS material._
+_Corpus re-grep 2026-09-25 (slice 09250800-7): SKIP — fresh grep (Taiwanese Student Society / 明尼蘇達大學台灣學生會 / UMTC) returns only unrelated taiwanjustice-net articles; no UMTC TSS material. HOLD: MTSC/UW-M name collision stands._

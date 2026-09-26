@@ -73,3 +73,5 @@ Zheng was not a member of the Geneva Presbyterian Church congregation in Laguna 
 - [[organizations/laguna-woods-village-taiwanese-club||Laguna Woods Village Taiwanese Club]]
 - [[works/taiwaneseamerican-org/laguna-woods-taiwanese-church-shooting||Laguna Woods Taiwanese Church shooting]]
 - [[sources/2017-tahs-publication||2017 TAHS Publication]]
+
+<!-- TJJ-A09250700-1: verified 2026-09-26 — subject links in slice 09250700-1 articles (c4d413fd / 8c205697 / 8842b0e0 / e041055e) confirmed real vs 正文; dated fact w/ article wikilink already in From the record — saturated, no new material. -->

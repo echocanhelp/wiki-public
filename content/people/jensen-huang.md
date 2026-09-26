@@ -68,3 +68,5 @@ Jensen Huang founded NVIDIA in 1993 and has served since its inception as presid
 - 複核（deepen-x 2026-09-25, slice 09240317-21）：fresh ZH+EN re-grep（黃仁勳 / Jensen Huang, works+articles）命中集合不變（ota-221、whos-who-226、award-79、fortune-business-person-of-the-year、our-journeys-387、TAIGI interview、TJJ 存檔頁），全數已吸收並 wikilink。SKIP-with-reason（saturated）。
 
 <!-- TJJ-A09240800-10: verified 2026-09-25 — subject links in slice 09240800-10 articles confirmed real; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A09250700-1: verified 2026-09-26 — subject links in slice 09250700-1 articles (c4d413fd / 8c205697 / 8842b0e0 / e041055e) confirmed real vs 正文; dated fact w/ article wikilink already in From the record — saturated, no new material. -->

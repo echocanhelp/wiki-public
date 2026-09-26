@@ -78,3 +78,5 @@ Visiting Professor of World Religion
 
 ## Corpus re-sweep — 2026-09-14 (slice 09141500-2)
 - 全庫 grep（林天民／Tian-Min Lin）命中之作品（TAH #189、#183、#462、#463、#464、Our Journeys #268、#107）皆已連結並吸收於上文 Role in the Community（slice 09141213-32）。無新增社群事實，SKIP-with-reason（已飽和）。
+
+<!-- TJJ-A09250700-1: verified 2026-09-26 — subject links in slice 09250700-1 articles (c4d413fd / 8c205697 / 8842b0e0 / e041055e) confirmed real vs 正文; dated fact w/ article wikilink already in From the record — saturated, no new material. -->

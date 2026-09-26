@@ -55,6 +55,6 @@ The Taiwanese Association of Alabama Birmingham (伯明罕臺灣同鄉會) is a 
 
 - SKIP-with-reason (re-checked 2026-09-24): fresh grep 伯明罕臺灣同鄉會 / "Taiwanese Association of Alabama" across content/works + content/articles returned zero hits; broader 伯明罕/Birmingham matches remain unrelated (King-quotation memoir [[works/taiwaneseamerican-org/belonging-immigration-hsin-i-cheng|Belonging & Immigration]], taiwanjustice.net news geography). No chapter activity, roster, or founding facts absorbable — verified-saturated skip.
 
-## Corpus review (slice 09240500-5)
+## Corpus review (slice 09250800-1)
 
-- SKIP-with-reason (re-checked 2026-09-25): grep 伯明罕臺灣同鄉會 / "Taiwanese Association of Alabama" across content/works + content/articles returned zero hits again — no chapter activity, roster, or founding facts absorbable; verified-saturated skip.
+- SKIP-with-reason (re-checked 2026-09-25): fresh grep 伯明罕臺灣同鄉會 / "Taiwanese Association of Alabama" / Birmingham across works/ + articles/ — no chapter-specific memoir hits. Broader Alabama matches checked: ourjourneys58 (TAA state-coordinator roster lists 阿拉巴馬: 羅松永 — state-level TAA contact, not Birmingham-chapter-specific; noted here, not merged into chapter facts), ourjourney-343 (member state-distribution statistics, Alabama 8 names — no chapter detail), ourjourneys256 (Auburn/Alabama MBA biography, unrelated), ourjourneys196-katrina (personal reunion narrative passing through Alabama, unrelated). No chapter activity, roster, or founding facts absorbable — verified-saturated skip.

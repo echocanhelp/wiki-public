@@ -57,6 +57,12 @@ study-group-nj), the already-disambiguated TAA/NJ records (history-taannj, activ
 newsletter-of-taanj), the FAPA NJ record (176. 徐墨齡), plus works index — no NJ-chapter-specific new
 material; verified saturated, no conflicts.
 
+Re-grepped 2026-09-25 (slice 09250800-7): SKIP — ZH+EN hits are its own records (natwa-new-jersey-chapter,
+study-group-nj), the already-disambiguated TAA/NJ records (history-taannj, activities-of-taanj,
+newsletter-of-taanj, plus TAA-layer photo-albums-activities-4 and the TAA/NJ scholarship record
+11-taiwanese-american-community-scholarship-awards-taa-n-j — both 紐澤西台灣同鄉會/TAA, not this chapter),
+and the FAPA NJ record (176. 徐墨齡). No NJ-chapter-specific new material; verified saturated, no conflicts.
+
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/north-america-taiwanese-womens-association-new-jersey-chapter/)
 

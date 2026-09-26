@@ -51,6 +51,7 @@ Community memoirs record Dr. Chieu as a central figure in the Texas Taiwanese-Am
 - 2015 — Site and interior inspections for the Houston 台灣人活動中心 building fund (from [[works/taiwaneseamericanhistory-org/ourjourneys233|莊承業 memoir]])
 
 ## Re-grep log
+- Corpus re-grep 2026-09-25 (slice 09250800-5): fresh ZH+EN grep — identical hit set (ourjourneys233/-eng, whos-who-2213, ourjourneys106, ourjourney-343, whos-who-2258-john-chieu), all cited above incl. both HOLDs; still saturated, SKIP new material.
 - Corpus re-grep 2026-09-25 (slice 09240500-5): fresh ZH+EN grep — identical hit set, still saturated.
 - Corpus re-grep 2026-09-24 (slice 09230500-8): verified-saturated — hit set (ourjourney-343, ourjourneys106, ourjourneys233/233-eng, whos-who-2258, whos-who-2213) all cited above incl. both HOLDs; no new absorbable material.
 
