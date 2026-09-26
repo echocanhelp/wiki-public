@@ -36,3 +36,4 @@ Fresh greps 2026-09-20 / 2026-09-21 / 2026-09-22 / 2026-09-23 / 2026-09-24 (slic
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 Fresh re-grep 2026-09-25 (slice 09240400-10): TASA/Berkeley hits in content/works are the same linked records plus false positives (our-journeys-350/390 = 灣區教會 memoir Berkeley church locations; history-of-itasa = no Berkeley mention). SKIP-for-deepening, saturated.
+Fresh re-grep 2026-09-25 (slice 09250800-17): TASA hits in content/works = same linked records + ITASA-general files (176 Keimay Yang memorial, newsletter-itasa, 578 ITASA 1998-1999) verified to contain no Berkeley mention; ourjourneys173-eng = seniors-association false positive. SKIP-for-deepening, saturated.

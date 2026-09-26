@@ -57,3 +57,4 @@ _No filled family fields on the TAH profile._
 > Corpus re-grep (deepen-x slice 09230400-23, 2026-09-24): fresh ZH+EN re-grep (彭汪嘉康 / Whang-Peng) hit set unchanged — ff316, arthur-s-flemming-award-1971, whoswho1522, 台灣演義 article, all linked above. SKIP: verified saturated.
 
 > Corpus re-grep (deepen-x slice 09240400-10, 2026-09-25): fresh ZH+EN re-grep (彭汪嘉康 / Whang-Peng) hit set unchanged — ff316, arthur-s-flemming-award-1971, whoswho1522, 台灣演義 article, all linked above. SKIP: verified saturated.
+> Corpus re-grep (deepen-x slice 09250800-18, 2026-09-25): fresh ZH+EN re-grep (彭汪嘉康 / Whang-Peng) hit set unchanged — ff316, arthur-s-flemming-award-1971, whoswho1522, 台灣演義 article, all linked above. SKIP: verified saturated.

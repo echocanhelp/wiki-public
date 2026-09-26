@@ -31,6 +31,7 @@ The New Orleans Taiwanese Association (紐奧良 台灣同鄉會) is a regional 
 
 - Corpus grep (2026-09-24, slice 09230500-7): SKIP-with-reason — hits are only the already-wikilinked dedicated work page (taiwanese-association-of-new-orleans) and the works index; no new absorbable chapter-level material.
 - Corpus grep (2026-09-25, slice 09240500-4): SKIP-with-reason — hits remain only the already-wikilinked dedicated work page and the works index; no new absorbable chapter-level material.
+- Corpus grep (2026-09-25, slice 09250800-2): SKIP-with-reason — ZH+EN grep 紐奧良台灣同鄉會/New Orleans Taiwanese Association/Taiwanese Association of New Orleans returns only the already-wikilinked dedicated work page; no new absorbable chapter-level material.
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/new-orleans-taiwanese-association/)

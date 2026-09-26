@@ -55,3 +55,4 @@ _No filled family fields on the TAH profile._
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - Re-verified 2026-09-24 (slice 09230400-19): hit set unchanged (whos-who-2061, mystories552, ourjourneys295, ff262). SKIP: verified-saturated; HOLD 1973 vs 1974 stands.
 - Re-verified 2026-09-25 (slice 09240400-8): fresh grep 蔡金裕/J. Y. Tsai over content/works + content/articles — hit set unchanged (whos-who-2061, mystories552, ourjourneys295, ff262). SKIP: verified-saturated; HOLD 1973 vs 1974 stands.
+- Re-verified 2026-09-25 (slice 09250800-17): fresh ZH+EN grep hit set unchanged (whos-who-2061, mystories552, ourjourneys295, ff262). SKIP: verified-saturated; HOLD 1973 vs 1974 stands.

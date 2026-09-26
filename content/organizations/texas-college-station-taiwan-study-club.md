@@ -35,3 +35,4 @@ The Texas College Station Taiwan Study Club is a student organization based in C
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 > 複核 2026-09-25（deepen-x slice 09240600-6）：fresh ZH+EN grep「德州卡城台灣研究社／Texas College Station Taiwan Study Club」— hit set unchanged (#34 record, directory page, tx-228-70th, works index)，全部已掛鏈於上。SKIP-deepen，驗證已飽和。
+> 複核 2026-09-25（deepen-x slice 09250800-2）：fresh ZH+EN grep — hit set identical (#34 record, directory page, tx-228-70th)；no new absorbable material. SKIP-deepen，飽和。
