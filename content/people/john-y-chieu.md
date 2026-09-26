@@ -55,3 +55,4 @@ last_reviewed: 2026-09-25
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - Corpus re-grep 2026-09-24 (slice 09230500-15): hit set identical to previously absorbed records; no new corpus material; verified saturated.
 - Corpus re-grep 2026-09-25 (slice 09240500-12): hit set identical again; no new corpus material; engineer-vs-activist HOLD stands; verified saturated.
+- Corpus re-grep 2026-09-25 (slice 09250800-11): SKIP — hit set identical (TAH #2213, #2258, Our Journeys #106, #343, #233 ZH+EN); no new corpus material; engineer-vs-activist HOLD stands; verified saturated.

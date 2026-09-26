@@ -57,3 +57,4 @@ last_reviewed: 2026-09-25
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - Corpus re-grep 2026-09-23 (slice 09221000-4): fresh ZH+EN grep — hit set (whos261, ff288, my-stories-772, our-journeys-384, maggie-hsu-mochimag, works/index) fully linked above; verified-saturated, no new absorbable material.
 - Corpus re-grep 2026-09-24 (slice 09230500-10): verified-saturated — hit set identical to 2026-09-23 log (whos261, ff288, my-stories-772, our-journeys-384, maggie-hsu-mochimag, works/index), all linked above; no new absorbable material.
+- Corpus re-grep 2026-09-25 (slice 09250800-3): verified-saturated — fresh ZH+EN grep returns the same six-file hit set, all linked above; UCSD 384 same-name entry still HOLD-disambiguated; no new absorbable material.

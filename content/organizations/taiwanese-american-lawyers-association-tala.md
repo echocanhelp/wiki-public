@@ -27,7 +27,7 @@ The Taiwanese American Lawyers Association (TALA) is a community-service based l
 - Named members appearing in the TALA directory record [[works/taiwaneseamericanhistory-org/taiwanese-american-lawyers-association|Taiwanese American Lawyers Association]]: [[people/san-john-huang|San John Huang]], [[people/simon-lin|Simon Lin]].
 - Also profiled in the community journeys anthology [[works/taiwaneseamericanhistory-org/ourjourneys29-eng|Our Journeys 29 (EN)]] and its Chinese counterpart [[works/taiwaneseamericanhistory-org/ourjourneys29|Our Journeys 29 中文版]]; the directory/bibliographic record itself is [[works/taiwaneseamericanhistory-org/taiwanese-american-lawyers-association|1. Taiwanese American Lawyers Association (TALA) 台美律師協會]].
 - NOTE: a parallel page [[organizations/taiwanese-american-lawyers-association]] covers the same organization; HOLD: two directory entries not yet merged.
-- Corpus re-grep 2026-09-25 (slice 09240500-11): hit set identical to absorbed records (activities-of-taiwanese-american-lawyers-association, taiwanese-american-lawyers-association, ff318, ourjourneys29 +eng, works index); no new corpus material; verified saturated.
+- Corpus re-grep 2026-09-25 (slice 09240500-11 / 09250800-8): hit set identical to absorbed records (activities-of-taiwanese-american-lawyers-association, taiwanese-american-lawyers-association, ff318, ourjourneys29 +eng, works index); the only extra hit (taiwanjustice 2025-02-16 袁智慧 article) matches on the string TALA inside its wayback archive_digest hash, not content — false positive; no new corpus material; verified saturated.
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-american-lawyers-association-tala/)

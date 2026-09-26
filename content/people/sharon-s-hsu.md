@@ -48,6 +48,7 @@ last_reviewed: 2026-09-25
 - Corpus re-grep 2026-09-24 (slice 09230500-23): SKIP — verified-saturated; fresh grep (許聖美／Sharon Hsu, works+articles) hits unchanged: own TAH #36/#42/#165/#263, Our Journeys 264 (Ken Lee memoir passage names her and 廖國仲 as 楊遠薰's profiled friends, already reflected above), works index. Nothing new to absorb.
 
 - Corpus re-grep 2026-09-25 (slice 09240500-16): SKIP — verified-saturated; fresh grep (許聖美／Sharon Hsu, works+articles) hit set unchanged: own TAH #36/#42/#165/#263, Our Journeys 264, works index — all already linked above. Nothing new to absorb.
+- Corpus re-grep 2026-09-25 (slice 09250800-11): SKIP — verified-saturated; fresh grep (許聖美／Sharon.*Hsu, works+articles) hit set unchanged (own TAH #36/#42/#165/#263, Our Journeys 264, works index). Nothing new to absorb.
 
 ## Sources
 - [TAH #42 encyclopedia: 42. Paul (Chung Chen) and Sharon Hsu 許忠政, 許聖美 / The first private business enter](https://taiwaneseamericanhistory.org/ff42/)

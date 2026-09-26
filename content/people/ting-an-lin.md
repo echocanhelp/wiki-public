@@ -66,3 +66,4 @@ _No filled family fields on the TAH profile._
 - Re-verified 2026-09-23 (slice 09221200-12): SKIP — grep returns only whos-who-1803, works index, the two TJJ 海台青 camp columns, and the 釋字第791號 petitioner record; nothing new absorbable.
 - Re-verified 2026-09-24 (slice 09230600-19): SKIP — same hit set (whos-who-1803, works index, both TJJ 海台青 camp columns, 釋字第791號 text); nothing new absorbable.
 - 複核（deepen-x slice 09240600-6, 2026-09-25）：fresh grep 林庭安／Ting-An Lin — hit set unchanged（whos-who-1803、works index、兩篇 TJJ 海台青專欄、釋字第791號聲請人文）；無新可吸收材料 — SKIP。
+- 複核（deepen-x slice 09250800-3, 2026-09-25）：fresh grep 林庭安／Ting-An Lin — hit set identical（whos-who-1803、works index、TJJ 海台青與黑客松 column 2021+2024 archives、釋字第791號聲請人六 record — name-only match, still not linked, HOLD）；無新可吸收材料 — SKIP。
