@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Patricia Anne Tsung (曾毓安醫師)
 
@@ -18,6 +18,7 @@ last_reviewed: 2026-09-25
 - 個人紀錄存於 [[works/taiwaneseamericanhistory-org/whoswho1464|1464. Patricia Anne Tsung 曾毓安 / 2017/01]]（2017-01-18，band B）。
 - Corpus re-grep 2026-09-22: corpus hits limited to the works index and the subject's own record; no third-party mentions in memoirs or community works; nothing new absorbable.
 - Corpus re-grep 2026-09-25 (deepen-x slice 4): hits still only [[works/taiwaneseamericanhistory-org/whoswho1464|whoswho1464]] + works/index; father's record [[works/taiwaneseamericanhistory-org/whoswho1462|whoswho1462]] adjacent in index only. SKIP-with-reason stands.
+- Corpus re-grep 2026-09-26 (deepen-x slice 09251031-7): same hit set — own record + index only; nothing new absorbable. SKIP-with-reason stands.
 
 ## Identity Snapshot
 - **English:** Patricia Anne Tsung

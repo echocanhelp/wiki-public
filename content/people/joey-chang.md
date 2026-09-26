@@ -36,6 +36,7 @@ _No filled family fields on the TAH profile._
 ## Role in the Community
 - Entered the community record through the TAH story corpus: [[works/taiwaneseamericanhistory-org/musician-437|437. Joey Chang 張亦喬, Pianist]], published 2019-10-18 (value band B; the vault holds a bibliographic record — full text stays in the source archive).
 - Corpus check 2026-09-21 / 2026-09-25: re-runs confirm only this bibliographic record (+ works index); no memoir or community-organizing facts absorbable, no conflicts.
+- Re-check 2026-09-26 (deepen-x slice 09251031-13): fresh ZH+EN grep of works/+articles/ again matches only [[works/taiwaneseamericanhistory-org/musician-437|TAH #437]] + works/index — hit set unchanged, no new corpus facts, no conflicts.
 
 ## Sources
 - [TAH #437 encyclopedia: 437. Joey Chang 張亦喬, Pianist/10/2019](https://taiwaneseamericanhistory.org/musician-437/)
