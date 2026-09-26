@@ -62,6 +62,8 @@ last_reviewed: 2026-09-26
 
 - 2026-09-25（slice 09240600-30）語料再grep（邱碧玉／Peggy Cooley）：命中集不變（TAH #2161 出處頁、works index、已吸收之 520 報導兩份存檔），無新事實、無衝突。SKIP-content（verified-saturated）。
 
+- 2026-09-26（slice 09250900-27）語料再grep（邱碧玉／Peggy Cooley）：命中集不變（TAH #2161 出處頁、works index、已吸收之 520 報導兩份存檔），無回憶錄提及、無新事實、無衝突。SKIP-content（verified-saturated）。
+
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Stanley Hsiao (蕭東賢)
 
@@ -48,6 +48,7 @@ No memoir names 蕭東賢 directly, but corpus records around his wife 黃美琇
 - 2026-09-23 (slice 09221200-18): verified-saturated re-verify; the 義論 editorial-category archive page ([[articles/taiwanjustice-net/2025/20250419234307_category_editorial_f3d0464b25d155e9|義論 editorial column index, archived 2025-04-19]]) corroborates the sustained columnist presence.
 - 2026-09-24 (slice 09230600-18): fresh ZH+EN grep returns only his own encyclopedia record, the MANIFEST, the 義論 column archive page, and his signed article — all already cited above; no new memoir material naming 蕭東賢 (SKIP-with-reason).
 - 2026-09-25 (slice 09240600-30): fresh ZH+EN grep returns only his own encyclopedia record, works index, MANIFEST, the 義論 column archive page, and his signed article — all already cited above; no new memoir material naming 蕭東賢 (SKIP-with-reason).
+- 2026-09-26 (slice 09250900-27): fresh ZH+EN grep returns the identical hit set (whos-who-2254, works index, MANIFEST, 義論 column archive page, signed article) — all already cited above; no new memoir material naming 蕭東賢 (SKIP-with-reason).
 
 ## Sources
 - [TAH #2254 encyclopedia: 2254. Stanley Hsiao 蕭東賢](https://taiwaneseamericanhistory.org/whos-who-2254-stanley-hsiao/)
