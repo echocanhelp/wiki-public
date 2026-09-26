@@ -7,7 +7,7 @@ tags:
   - exec-member
   - Taiwanese-American
 verification_status: published
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Lin Yu-Shu (林育武)
 
@@ -36,6 +36,7 @@ He is one of the eight voting members of the NTPC Executive Committee, represent
 - Re-verified 2026-09-21 (deepen-x slice 24): zero corpus hits in works/articles — SKIP again, nothing absorbable.
 - Re-verified 2026-09-22 (deepen-x slice 10): still zero corpus hits — SKIP, nothing absorbable.
 - Re-verified 2026-09-25 (deepen-x slice 09231400-6): zero corpus hits in works/articles for 林育武 / Yu-Shu Lin / Yushu Lin — SKIP, nothing absorbable.
+- Re-verified 2026-09-26 (deepen-x slice 09251031-5): still zero corpus hits — SKIP, nothing absorbable.
 
 ## Related Pages
 

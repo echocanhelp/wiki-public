@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Ching-Nan Ou (歐清南)
 
@@ -44,6 +44,10 @@ From the Houston movement record ([[works/taiwaneseamericanhistory-org/ourjourne
 - 會館（7250 Harwin）大廳音響設備由林秋成、歐清南、[[people/dr-kuo-shih-yeh|葉國勢]]負責。
 
 His own memoir/record is held at [[works/taiwaneseamericanhistory-org/816-ching-nan-ou-201602|816. Ching-Nan Ou 歐清南 / 2016-02]] (English version: [[works/taiwaneseamericanhistory-org/ourjourneys233-eng|Our Journeys 233 (EN)]]).
+
+## Corpus Check
+
+- 2026-09-26 re-verify (deepen-x slice 09251031-5): fresh grep of works/articles for 歐清南/Ching-Nan Ou — hit set unchanged (ourjourneys233 / -eng / own record 816 + index). All corpus facts already absorbed in Role in the Community above; no new material.
 
 ## Sources
 - [TAH #816 encyclopedia: 816. Ching-Nan Ou 歐清南 / 2016/02](https://taiwaneseamericanhistory.org/816-ching-nan-ou-201602/)

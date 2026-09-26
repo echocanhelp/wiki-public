@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Dr. Thomas Yawting Ko (柯耀庭醫師)
 
@@ -41,6 +41,7 @@ Dr. Thomas Yawting Ko 柯耀庭醫師 – History of Taiwanese American (T.A. Ar
 
 ## Corpus Check
 
+- 2026-09-26 re-verify (deepen-x slice 09251031-5): fresh grep of works/articles — hit set unchanged (own whos-who-1889 page + index only); no memoir/community material (SKIP).
 - 2026-09-20 deepen-x (slice 29) / 2026-09-22 re-verify (slice 09210831-12): only corpus hit for 柯耀庭/Yawting is his own TAH Who's Who bibliographic page [[works/taiwaneseamericanhistory-org/whos-who-1889-thomas-yawting-ko|whos-who-1889]] — no memoir/community material in works/articles to absorb (SKIP). NATMA D.C. Chapter president and Doctors Community Hospital roles remain sourced solely from the TAH directory.
 
 ## Related Pages

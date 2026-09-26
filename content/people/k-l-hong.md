@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # K. L. Hong (洪桂林博士)
 
@@ -50,3 +50,5 @@ last_reviewed: 2026-09-25
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+> Corpus re-verify 2026-09-26 (slice 09251031-17): fresh grep 洪桂林/K. L. Hong — same hit set (own record [[works/taiwaneseamericanhistory-org/784-k-l-hong-e6-b4-aa-e6-a1-82-e6-9e-97-201601|TAH #784]] only); nothing absorbable. SKIP.

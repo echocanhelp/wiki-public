@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Anne Ku
 
@@ -42,3 +42,5 @@ HOLD: 語料庫另有同姓小提琴手 Rachel Ku（推測為家人），但無�
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+> Corpus re-verify 2026-09-26 (slice 09251031-17): fresh grep Anne Ku — own records [[works/taiwaneseamericanhistory-org/193-anne-ku-violist-201505|TAH #193]], [[works/taiwaneseamericanhistory-org/395-anne-ku-201505|TAH #395]] + the 2015 音樂人群像 already noted; no new memoir/report mentions. SKIP.

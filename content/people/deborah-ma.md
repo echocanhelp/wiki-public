@@ -48,3 +48,4 @@ _No filled family fields on the TAH profile._
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 <!-- deepen-x slice 09231400-27 recheck 2026-09-25: fresh ZH+EN grep of works/+articles matched only own TAH bibliographic record + works/index; no independent memoir material. SKIP-with-reason stands. -->
+<!-- deepen-x slice 09251031-12 recheck 2026-09-26: re-grep matches identical set (own record, works index, Deborah Mason false positive); SKIP stands. -->

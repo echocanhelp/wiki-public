@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # C. C. Lin (林振昌)
 
@@ -39,6 +39,8 @@ last_reviewed: 2026-09-25
 - Employment match with existing text: the same record sits alongside his 台獨聯盟辦公室 role already listed above; no conflict.
 - HOLD: the 1970-07-01 Formosan Club of America founding roster lists the Houston chapter president as "Rung-chang Lin" (per [[works/taiwaneseamericanhistory-org/ourjourneys76|76. 全美台灣同鄉會 / 吳木盛]]); whether this is 林振昌 (then in Minnesota/NY) or a different Lin is unresolved — not absorbed.
 - NOTE: 'Kristin C. C. Lin' (Shung Ye Museum chair, mentioned in a taiwaneseamerican.org art article) is a different person — not absorbed here.
+- Mentioned in the MFCF/TAF photo-album memoir: a photo caption places "Dr. C.C. Lin & his wife, Se-Ching (林靜竹/世真)" beside Dr. Sidney Chang (張信義) in a retrospective on the Taiwanese American Christian fellowship since 1966, per [[works/taiwaneseamericanhistory-org/ourjourneys33-eng|Our Journeys 33 (EN)]] — indicating ties to the TAF network.
+- HOLD: conflict on wife's name — the Family section (TAH directory) lists 麗榮; the TAF memoir caption names 林靜竹/世真 (Se-Ching). Not merged; identity of the caption's C.C. Lin not independently confirmed.
 - His own encyclopedia record: [[works/taiwaneseamericanhistory-org/whoswho1267|TAH #1267]].
 
 ## Sources

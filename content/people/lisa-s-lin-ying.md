@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Lisa S. Lin Ying (印林秀玲)
 
@@ -46,3 +46,5 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+> Corpus re-verify 2026-09-26 (slice 09251031-17): fresh grep 印林秀玲/Lisa S. Lin Ying across works/+articles/ — only own record [[works/taiwaneseamericanhistory-org/305-lisa-s-lin-ying-e5-8d-b0-e6-9e-97-e7-a7-80-e7-8e-b2201502|TAH #305]]; nothing absorbable. SKIP.
