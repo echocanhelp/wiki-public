@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Rui Mu Lee (李瑞木)
 
@@ -55,3 +55,4 @@ last_reviewed: 2026-09-25
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - Corpus re-verified 2026-09-24 (deepen-x slice 09230317-29): fresh ZH+EN grep of works/ + articles/ returned hit sets identical to the links already absorbed above — verified-saturated, nothing new absorbable.
 - Corpus re-verified 2026-09-25 (deepen-x slice 09240400-14): fresh ZH+EN grep of works/ + articles/ returned hit sets identical to the links already absorbed above — verified-saturated, nothing new absorbable.
+<!-- deepen-x 09251023-17: SKIP — corpus re-scan (works/articles) fresh 2026-09-26: hit set identical to links already absorbed on this page; no new community material. -->

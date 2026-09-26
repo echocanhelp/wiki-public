@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Joseph Huang (黃春輝)
 
@@ -52,3 +52,4 @@ _No filled family fields on the TAH profile._
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - Corpus re-verified 2026-09-24 (deepen-x slice 09230317-29): fresh ZH+EN grep of works/ + articles/ returned hit sets identical to the links already absorbed above — verified-saturated, nothing new absorbable.
 <!-- deepen-x 09240400-15: SKIP — corpus re-scan (works/articles) fresh 2026-09-25: hits are only own TAH record whoswho1493 (already wikilinked) + works/index.md; no new community material. -->
+<!-- deepen-x 09251023-17: SKIP — corpus re-scan (works/articles) fresh 2026-09-26: hit set identical to links already absorbed on this page; no new community material. -->
