@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # I-Chun Catherine Chang (張儀君教授)
 
@@ -47,6 +47,7 @@ I-Chun (Catherine) Chang 張儀君教授 – History of Taiwanese American (T.A.
 
 - Corpus check 2026-09-24 (deepen-x slice 09230700-5): re-grep 張儀君/Catherine Chang/I-Chun — hit-set unchanged: own [[works/taiwaneseamericanhistory-org/whos-who-2129-i-chun-chang|TAH #2129]], [[works/taiwaneseamericanhistory-org/ourjourneys218|Our Journeys 218]] (both absorbed), false positives (267-i-chunn-lee-pianist, works index). SKIP-content: verified-saturated; 副教授 vs Assistant Professor HOLD stands.
 - Corpus check 2026-09-25 (deepen-x slice 09240600-25): re-grep hit-set identical (whos-who-2129, ourjourneys218, 267-i-chunn-lee-pianist false positive, works index). SKIP-content: verified-saturated; no new absorbable community facts.
+- Corpus check 2026-09-26 (deepen-x slice 09250900-24): fresh ZH+EN grep (張儀君 / Catherine Chang / I-Chun) returned the identical hit set — own [[works/taiwaneseamericanhistory-org/whos-who-2129-i-chun-chang|TAH #2129]] and [[works/taiwaneseamericanhistory-org/ourjourneys218|Our Journeys 218]] (both absorbed), 267-i-chunn-lee-pianist false positive, works index. SKIP: verified-saturated; 副教授 vs Assistant Professor HOLD stands.
 
 ## Sources
 - [TAH #2129 encyclopedia: 2129. I-Chun (Catherine) Chang 張儀君教授](https://taiwaneseamericanhistory.org/whos-who-2129-i-chun-chang/)
