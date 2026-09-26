@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Frederic Wang (王穎裕)
 
@@ -53,3 +53,4 @@ Corpus sweeps 2026-09-20, 2026-09-21, 2026-09-22 and 2026-09-23: the only works 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- 2026-09-26 deepen-x slice 09252123-30: fresh ZH+EN grep (works+articles) — hit set identical to prior passes, all already linked; verified saturated (SKIP).
