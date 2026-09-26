@@ -46,6 +46,8 @@ _No filled family fields on the TAH profile._
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 ## From the record
+
+- 覆核（TJJ-A09260400-19, 2026-09-26）：本 slice 文章 53455d7e（挺港聯合聲明, 2024-02-21 快照, 2019-09-04 發布）正文再驗證——subject 連結為真實提及（正文中英雙語署名清單逐一對照），無錯鏈、無虛鏈；含該文 wikilink 的 2019-09-03 日期事實已在庫 — SKIP，已飽和。
 - 複核（TJJ-A09250400-3, 2026-09-25）：本 slice 文章 29faf54b 正文再驗證——dr-ming-hong-chow 對應真實（記述確認見於正文），無錯鏈、無虛鏈；含該文 wikilink 的日期事實條目已在庫 — SKIP，無新材料。
 
 

@@ -57,6 +57,8 @@ Mao-ching (David) Huang 黃茂清 – History of Taiwanese American (T.A. Archiv
 
 ## From the record
 
+
+- 覆核（TJJ-A09260400-19, 2026-09-26）：本 slice 文章 9a66943e（台美人台加人隨機頁 p353, 2024-04-21 快照）正文再驗證——subject 連結為真實提及，無錯鏈、無虛鏈；含該文 wikilink 的日期事實已在庫 — SKIP，已飽和。
 - 複核（TJJ-A09250400-7, 2026-09-25）：slice 文章 9a66943e68f1e0ef（台美人台加人隨機頁 p353, 2024-04-21 快照）正文再驗證——台美人物誌黃茂清律師專訪（李木通主持, 2016-11-30）確認見於正文，subject 連結為真，無錯鏈、無虛鏈；含該文 wikilink 的日期事實條目已在庫 — SKIP，無新材料。
 
 
