@@ -54,3 +54,4 @@ _No filled family fields on the TAH profile._
 - 複核（deepen-x slice-09220800-18, 2026-09-22）：re-grep hit set identical（僅 #1861 與 works/index）— SKIP, verified-saturated，無可吸收材料。
 - 複核（deepen-x slice-09230317-19, 2026-09-24）：re-grep hit set identical（僅 #1861 與 works/index）— SKIP, verified-saturated，無可吸收材料。
 - 複核（deepen-x slice-09240317-19, 2026-09-25）：re-grep 孟懷縈 / Teresa H. Meng（works + articles）hit set identical（僅本人書目記錄 #1861 與 works/index）— SKIP, verified-saturated。
+- 複核（deepen-x slice-09250700-19, 2026-09-25）：re-grep 孟懷縈 / Teresa H. Meng（works + articles）hit set identical（僅本人書目記錄 #1861 與 works/index）— SKIP, verified-saturated。
