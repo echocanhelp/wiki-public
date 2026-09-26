@@ -34,6 +34,8 @@ Corpus re-grep 2026-09-21: additional NATWA-wide records only (1992 聯誼通訊
 
 Re-grep 2026-09-22 (slice 09211400-28): same hit set — the chapter's own four records (all linked above) plus NATMA St. Louis / Our Journeys context records already covered by the context note.
 
+複核（deepen-x slice 09250700-10, 2026-09-25）: fresh ZH+EN re-grep 命中集與前次相同 — 本分會一手記錄全部已 wikilink（Festival of Nations／年終慈善晚會／directory／Art Museum 原住民舞蹈／HavenHouse 聖誕晚餐／22. Compassion），其餘命中為 NATMA St. Louis 與兄弟分會（TAA／NATPA）背景記錄，已註记於上。saturated, SKIP.
+
 Sibling-organization context (fresh grep 2026-09-23, slice 09220900-23): the St. Louis corpus also carries records of neighboring Taiwanese-American chapters the NATWA chapter shares the local civic scene with — the 聖路易台灣同鄉會 TAA/St. Louis Chapter newsletter ([[works/taiwaneseamericanhistory-org/community-newsletter-of-taastl|TAA/St. Louis Chapter 通訊, 2019-05-30]]) and the NATPA St. Louis Chapter bulletin ([[works/taiwaneseamericanhistory-org/publication1317|台美人特訊 / NATPA St. Louis Chapter / 1994]]). These are sibling organizations, not this chapter's own first-hand records — context only, no facts merged.
 
 ## Sources

@@ -55,3 +55,5 @@ slice 09220800-20 re-grep (2026-09-22): corpus hit set identical to links alread
 Re-grep 2026-09-24 (slice 09230317-21): fresh 黃三榮 / San John Huang grep of content/works + content/articles returns the same six records (own TAH profile #1976, ourjourneys29/-eng, ourjourneys244, ourjourneys186/-eng, ourjourneys272) plus an index listing — all already linked above; SKIP, verified-saturated.
 
 Re-grep 2026-09-25 (slice 09240317-18): hit set adds the English edition of the TACL founding memoir, now linked above; all other records (own TAH #1976, ourjourneys29/-eng, 186/-eng, 244, 272) already absorbed. Verified-saturated.
+
+Re-grep 2026-09-25 (slice 09250700-16): fresh 黃三榮 / San John Huang grep of works+articles returns the identical hit set (own TAH #1976, ourjourneys29/-eng, 186/-eng, 244, 272/-eng) — SKIP, verified-saturated.

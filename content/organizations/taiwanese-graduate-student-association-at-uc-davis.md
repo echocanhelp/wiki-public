@@ -35,3 +35,4 @@ UC Davis has a documented place in the Taiwanese American movement in Northern C
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- Re-verified 2026-09-25 (slice 09250700-16): fresh re-grep TGSA / Taiwanese Graduate Student Association（works + articles）returns zero hits. SKIP — no corpus material to absorb.
