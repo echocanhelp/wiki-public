@@ -43,3 +43,4 @@ last_reviewed: 2026-09-25
 
 - [[organizations/taiwan-center||Taiwan Center]]
 - [[sources/taiwancenter-org||taiwancenter.org]]
+- Corpus re-grep 2026-09-25 (slice 09250800-4): fresh ZH+EN grep (師範院校校友/JTTAA) — identical hit set (jttaa work page, works/index, both WHA 聲明 archives, 太魯閣號慰問函); co-initiator listing in the WHA statement body re-verified verbatim; all absorbed, verified-saturated.

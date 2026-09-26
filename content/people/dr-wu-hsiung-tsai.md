@@ -42,6 +42,8 @@ Corpus records (memoirs and movement histories in the vault) document a substant
 
 These corpus facts are consistent with the TAH employment record (Cornell, Princeton, and Federal Government / Library of Congress service; Ph.D. Library Science, Univ. of Chicago 1970). No date or name conflicts found. (Note: 蔡文雄, a Washington D.C. lawyer among the 1971 TAA registrants in the same memoir, is a different person.)
 
+- **2018 NTU alumni open letter (管中閔 controversy):** The 2018/07 taiwanjustice.net record of NTU alumni protesting the invitation of 管中閔 to the Southern California NTU Alumni Association lists 「蔡武雄(外文)」 among the signatories — see [[articles/taiwanjustice-net/2018/20180721091303_2018_07_20_抗議-南加州台大校友會邀管中閔來年會做專題演講_a428dcebbceacf38|抗議南加州台大校友會邀管中閔 (2018/07)]]. HOLD: the signatory is tagged 外文系 while this profile's education record is Library Science (Univ. of Chicago); undergrad department unrecorded here, so identity not auto-merged.
+
 _Corpus re-scan 2026-09-23: fresh grep of works/articles for 蔡武雄/Wu Hsiung Tsai returns the same hits (ourjourneys76 & -eng, ourjourneys254, ourjourneys63, ourjourneys47, whos-who-1703); all absorbed above — verified saturated, no new community facts._
 
 ## Family

@@ -27,6 +27,7 @@ Taiwan Care Inc. is a Taiwanese American nonprofit organization rooted in the Ne
 - Corpus re-grep 2026-09-24 (slice 09230500-18): fresh grep of works+articles for 關懷台灣基金會/Taiwan(ese) Care returns the same four absorbed records plus the English edition of the NJ survey, [[works/taiwaneseamericanhistory-org/ourjourneys356-eng|Our Journeys 356 (EN)]] — same 政治社團 classification and same founding paragraph (founded 1986 by NJ-settled Taiwanese, mission 提升對台灣文化的認識 / 贊助台灣弱勢團體及個人, UFI core area note); the only other hit, [[works/taiwaneseamericanhistory-org/taiwanese-career-womens-association-tcwa|TCWA 北美洲台灣職業婦女協會]], is a substring collision (Taiwanese Career ≠ Taiwanese Care), not a related org. No new facts; naming HOLD stands. Verified saturated.
 
 - Corpus re-grep 2026-09-25 (slice 09240500-16): SKIP — verified-saturated; fresh grep (關懷台灣基金會／Taiwan(ese) Care, works+articles) returns the same four absorbed records (#108, #226, ourjourneys356 + EN, org record) plus the works index and the TCWA substring collision (Taiwanese Career ≠ Taiwanese Care). Naming HOLD stands; nothing new to absorb.
+- Corpus re-grep 2026-09-25 (slice 09250800-10): SKIP — fresh ZH+EN grep of works+articles returns a hit set identical to the records already absorbed above; nothing new to absorb; verified saturated.
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwan-care-inc/)

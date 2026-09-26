@@ -60,3 +60,4 @@ Accomplishment
 - Corpus re-grep 2026-09-23 (slice 09221000-10): hit set = own TAH biblio entry, my-stories-797, works index, and the already-linked TJJ HELLO TAIWAN / 感恩餐宴 archives — no memoir narrative beyond what is absorbed above; nothing new (SKIP-with-reason).
 - Corpus re-grep 2026-09-24 (slice 09230500-19): hit set unchanged (own #2017 biblio, my-stories-797, works index, MANIFEST, already-linked TJJ archives) — SKIP-with-reason: 語料已飽和，無可吸收新事實，無衝突須 HOLD。
 - Corpus re-grep 2026-09-25 (slice 09240500-15): SKIP — hit set unchanged (own biblio, my-stories-797, works index, already-linked TJJ archives); 語料飽和，無新材料，無衝突。
+- Corpus re-grep 2026-09-25 (slice 09250800-4): SKIP — hit set unchanged (own #2017 biblio, my-stories-797, works index, already-linked TJJ HELLO TAIWAN / 感恩餐宴 archives); 語料飽和，無新材料，無衝突須 HOLD。

@@ -36,3 +36,4 @@ Taiwan Student Association at Syracuse University is a cultural organization of 
 
 _Corpus re-grep 2026-09-24 (slice 09230500-13): SKIP-new-facts — fresh ZH+EN grep (雪城/Syracuse) returns the identical saturated set (ourjourneys76 + eng, syracuse-chapter-taa, history-of-taa-syracuse, ourjourneys185, ourjourneys310); no new absorbable material._
 _Corpus re-grep 2026-09-25 (slice 09240500-8): SKIP-new-facts — fresh ZH+EN grep (雪城/Syracuse) returns the identical saturated set (ourjourneys76 + eng, syracuse-chapter-taa, history-of-taa-syracuse, ourjourneys185, ourjourneys310); no new absorbable material._
+_Corpus re-grep 2026-09-25 (slice 09250800-4): SKIP-new-facts — fresh ZH+EN grep (雪城/Syracuse) returns the identical saturated set (ourjourneys76 + eng, syracuse-chapter-taa, history-of-taa-syracuse, ourjourneys185, ourjourneys310); body re-check confirms TAA 43 chapters under 許和瑞, 1974 美東夏令會 via 王秋森, 福杯起源, 伊薩卡 record all already absorbed; no new material._

@@ -64,3 +64,4 @@ For more bio information, please click link in Who’s Who: 971. Cheng-I (Jim) Y
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - 覆核（deepen-x slice 09240600-6, 2026-09-25）：fresh grep 楊正義／Jim Young／Cheng-I — hit set unchanged (ourjourneys76/-eng, our-journeys-378, whoswho971, atists62, index)；378 之 1997 條目已吸收並保留 HOLD。驗證已飽和 — SKIP。
+- 覆核（deepen-x slice 09250800-4, 2026-09-25）：fresh grep 楊正義／Jim Young／Cheng-I — hit set unchanged (ourjourneys76/-eng, our-journeys-378, whoswho971, atists62, index)；378 之 1997 條目已吸收並保留 HOLD。驗證已飽和 — SKIP。
