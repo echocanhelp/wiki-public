@@ -19,6 +19,8 @@ last_reviewed: 2026-09-24
 Overseas Taiwanese for Democracy (海外台灣青年陣線) is a North American coalition of overseas Taiwanese youth organizations that emerged from the transnational solidarity efforts surrounding Taiwan’s 2014 Sunflower Movement, during which overseas Taiwanese students helped amplify international coverage of the occupation of Taiwan’s Parliament in protest of the Cross-Strait Service Trade Agreement. The organization draws from a long lineage of overseas Taiwanese democracy activists and seeks to unite Taiwanese youth in North America around civic consciousness and Taiwanese identity. Its activities include annual conferences, issue-based study and action on topics such as history, law, economics, ethnicity, and gender, as well as outreach to connect with international civil society. The group explicitly advocates for Taiwanese independence as a long-term goal and aims to cultivate the next generation of civic leaders committed to social reform. In 2015, the organization held an annual conference themed around cross-generational Taiwanese subjectivity.
 
 ## From the record
+- 複核（TJJ-A09260400-7, 2026-09-26）：本 slice 文章 2c9cb76838702dd7 正文再驗證——subject 連結為真（無錯鏈、無虛鏈）；對應日期條目（已掛該文 wikilink）已在庫 — SKIP，已飽和。
+
 
 
 - 複核（TJJ-A09250900-1, 2026-09-26）：本 slice 文章 2c9cb76838702dd7 正文再驗證——本篇主角組織海台青OTD確認見於正文，subject 連結為真（無錯鏈、無虛鏈）；對應日期條目（已掛該文 wikilink）已在庫 — SKIP，無新材料。
