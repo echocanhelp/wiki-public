@@ -59,3 +59,4 @@ _No filled family fields on the TAH profile._
 
 ## Network
 - [[organizations/irvine-taiwanese-presbyterian-church||ITPC]] — TAH Who’s Who
+- Re-grep 2026-09-25 (slice 09250800-26): fresh ZH+EN grep over content/works + content/articles returned the identical hit set — all records already absorbed above. Verified-saturated, SKIP-with-reason. (hit set: own TAH #1596 + works index + 長青教室 archive page)

@@ -57,3 +57,4 @@ HOLD: 通訊錄將他列於 Utah，Who's Who 傳記頁與現職（USDA、IDDS �
 > Saturate-note (deepen-x slice 09221000-15, 2026-09-23): re-grep ZH+EN again returned the identical hit set; no new absorbable corpus facts.
 > Saturate-note (deepen-x slice 09230500-31, 2026-09-24): re-grep ZH+EN returned the identical hit set (ourjourneys-138, ourjourneys58, TAH #792, TJJ 2018-07-20, index); verified-saturated.
 > Saturate-note (deepen-x slice 09240500-24, 2026-09-25): re-grep ZH+EN returned the identical hit set; no new absorbable corpus facts; verified-saturated.
+- Re-grep 2026-09-25 (slice 09250800-26): fresh ZH+EN grep over content/works + content/articles returned the identical hit set — all records already absorbed above. Verified-saturated, SKIP-with-reason. (hit set: ourjourneys-138, ourjourneys58, TAH #792, TJJ 2018-07-20, index)

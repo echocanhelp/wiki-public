@@ -42,6 +42,7 @@ _No filled family fields on the TAH profile._
 - Corpus re-grep 2026-09-21 (slice 09201400-27): hit set identical — only #350 / #1178 plus index listings; no memoir mentions. Verified saturated. Re-grep 2026-09-22 (slice 09211400-21): identical. Re-grep 2026-09-23 (slice 09220900-23): identical — #350, #1178, index listings only; nothing absorbable.
 - Corpus re-grep 2026-09-24 (slice 09230400-22): hit set unchanged (musician350 + whoswho1178 + index only), all already cited. SKIP: saturated.
 - Corpus re-grep 2026-09-25 (slice 09240400-12): hit set unchanged (musician350 + whoswho1178 + index only), all already cited. SKIP: saturated.
+- Corpus re-grep 2026-09-25 (slice 09250800-24): hit set unchanged (musician350 + whoswho1178 + index only), all already cited. SKIP: saturated.
 
 ## Sources
 - [TAH #350 encyclopedia: 350. Ying-Ying Chen 陳盈穎, Musician / 2016/07](https://taiwaneseamericanhistory.org/musician350/)
