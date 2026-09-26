@@ -66,5 +66,8 @@ Research Associate
 ## Corpus re-grep (2026-09-24, slice 09230400-8)
 - SKIP: ZH+EN re-grep across content/works + content/articles: hit-set unchanged, all prior hits already absorbed and wikilinked; no new corpus material to absorb (saturated).
 
+## Corpus re-grep (2026-09-25, slice 09250700-15)
+- SKIP: re-grep 林資深 / Tzu-Shen Lin（works+articles）命中集不變（ourjourneys12、ourjourneys307、mystories-114、mystories114-eng、176、115），全數已吸收並 wikilink，無新增社群材料（saturated）。
+
 ## Corpus re-grep (2026-09-25, slice 09240317-16)
 - SKIP: re-grep 林資深 / Tzu-Shen Lin 命中集不變（ourjourneys12、ourjourneys307、mystories-114、mystories114-eng、176、115），全數已吸收並 wikilink，無新增社群材料（saturated）。

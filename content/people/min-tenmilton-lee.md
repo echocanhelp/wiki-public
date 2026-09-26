@@ -64,3 +64,6 @@ _No filled family fields on the TAH profile._
 
 ## Corpus re-grep (2026-09-25, slice 09240317-16)
 - SKIP: ZH+EN re-grep（李明典 / Min-Ten / Milton）hit-set unchanged (dr-minten-lee、private-collections-84、whoswho972、videos71/72、publications999)，全數已吸收。新增的兩個疑似命中為假陽性：ourjourneys301 與 742（程孟郎）中的 "Milton" 分指鋼琴家 Milton Stern 與 Milton M. Chen，非本人 — 不吸收。Dr. Ming Lee 拼寫 HOLD 維持。
+
+## Corpus re-grep (2026-09-25, slice 09250700-8)
+- SKIP: ZH+EN re-grep（李明典 / Min-Ten / Milton / Ming Lee）— genuine hit-set unchanged (dr-minten-lee、private-collections-84、whoswho972、videos71/72、publications999)，全數已吸收。本輪新增的三个 "Ming Lee" 命中皆為假陽性：ourjourneys76-eng 與 whos-who-1780 指 Franklin Fong-Ming Lee 李豐明（TAA 創始成員／上州紐約），188 指 Chong Ming Lee 李聰敏 — 皆非本人，不吸收。
