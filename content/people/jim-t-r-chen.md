@@ -55,3 +55,5 @@ Corpus re-grep 2026-09-19 (slice 09180317-12) and 2026-09-20 (slice 09191100-12)
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 Corpus re-grep 2026-09-25 (slice 09240600-28): 鄭昭任/"Jim Chen" greps return the same set (TAH #811, ourjourneys33-2 + EN roster, works index) — all absorbed; verified-saturated, SKIP.
+
+Corpus re-grep 2026-09-26 (slice 09250900-28): fresh 鄭昭任 / Jim T. R. Chen / "Jim Chen" greps return the identical set (TAH #811, ourjourneys33-2 + ourjourneys33-eng, works index) — all absorbed; verified saturated, SKIP, no conflicts.

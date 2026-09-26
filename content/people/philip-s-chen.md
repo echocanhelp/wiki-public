@@ -52,3 +52,5 @@ last_reviewed: 2026-09-26
 2026-09-24 re-grep (deepen-x slice 09230600-30): fresh ZH+EN corpus grep hit-set unchanged (ourjourneys234, ourjourneys59, ourjourneys65/-eng, whoswho1043, index) — all already wikilinked above — verified saturated, nothing new absorbable.
 
 2026-09-25 re-grep (deepen-x slice 09240700-7): fresh 陳伸夫/Philip S. Chen grep of works/ + articles/ returned the identical hit set (ourjourneys234, ourjourneys59, ourjourneys65/-eng, whoswho1043, index) — all already wikilinked. Verified saturated; SKIP-deepen.
+
+2026-09-26 re-grep (deepen-x slice 09250900-28): fresh ZH+EN corpus grep returned the identical hit set (ourjourneys234, ourjourneys59, ourjourneys65/-eng, whoswho1043, works index) — verified saturated, nothing new absorbable, no conflicts.
