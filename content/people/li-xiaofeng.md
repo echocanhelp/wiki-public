@@ -11190,6 +11190,8 @@ Notable quotes and mentions of **李筱峰** in Taiwan Justice articles:
 
 ## From the record
 
+- 複核（TJJ-A09251400-4, 2026-09-26）：本 slice 文章 92917d4c9a88eba2（自救宣言59週年國史館新書發表，da7f84e2 同稿 snapshot） 正文再驗證——本人應邀座談並提出15字濃縮評述確認見於正文（author 連結為真），subject 連結為真，無錯鏈、無虛鏈；對應日期事實條目（含該文 wikilink）已在庫 — SKIP，已飽和。
+
 - 複核（TJJ-A09251300-1, 2026-09-26）：本 slice 文章 da7f84e2（自救宣言59週年國史館新書發表）正文再驗證——本文列為 author 且「15字」評述確認見於正文，subject 連結為真，無錯鏈、無虛鏈；對應日期事實條目（含該文 wikilink）已在庫 — SKIP，已飽和。
 
 - 複核（TJJ-A09240800-7, 2026-09-25）：本切片相關存檔稿正文再驗證——本頁 subject 連結為真實提及（無錯鏈、無虛鏈），含該文 wikilink 的日期事實條目已在庫 — SKIP，無新材料。

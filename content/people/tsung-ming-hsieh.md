@@ -35,6 +35,8 @@ _No filled family fields on the TAH profile._
 
 ## From the record
 
+- 複核（TJJ-A09251400-4, 2026-09-26）：本 slice 文章 92917d4c9a88eba2（自救宣言59週年國史館新書發表，da7f84e2 同稿 snapshot） 正文再驗證——本人生師身份與自救宣言案之記述確認見於正文，subject 連結為真，無錯鏈、無虛鏈；對應日期事實條目（含該文 wikilink）已在庫 — SKIP，已飽和。
+
 - 複核（TJJ-A09251300-1, 2026-09-26）：本 slice 文章 da7f84e2（自救宣言59週年國史館新書發表）正文再驗證——本人與謝聰敏同案之記述確認見於正文，subject 連結為真，無錯鏈、無虛鏈；對應日期事實條目（含該文 wikilink）已在庫 — SKIP，已飽和。
 
 - 複核（TJJ-A09250400-2, 2026-09-25）：本 slice 4 篇 TJJ 文章（2d725102 去殖民化（下）、039ccce4 Joyce Lin 墜機、162effa7 TASF 紓困獎學金、1d72b2ae 小英後援會造勢）subject link 再驗證：{NAME} 對應真實（記述確認見於正文），無錯鏈、無虛鏈；含該文 wikilink 的日期事實條目已在庫 — SKIP，無新材料。
