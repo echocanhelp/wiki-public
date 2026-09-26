@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Paul Hsu (徐紹欽)
 
@@ -50,3 +50,4 @@ _No filled family fields on the TAH profile._
 
 ## Work log
 - SKIP (deepen-x slice 09231500-7, 2026-09-25): fresh ZH+EN grep of content/works + content/articles returned only the person's own TAH Who's Who record + index (no memoir/community material beyond what is already cited); page saturated, nothing absorbable.
+- SKIP (deepen-x slice 09251031-8, 2026-09-26): fresh ZH+EN grep (徐紹欽 / Paul Hsu) — hit set unchanged (own record whoswho1320 + index only); page saturated.

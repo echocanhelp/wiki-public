@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Ching-Chong Huang (黃慶鍾醫師)
 
@@ -46,3 +46,6 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+## Work log
+- SKIP (deepen-x slice 09251031-9, 2026-09-26): fresh ZH+EN grep of content/works + content/articles returned only the hit set already absorbed by this page (own TAH record + index, plus previously cited works); nothing new absorbable.
