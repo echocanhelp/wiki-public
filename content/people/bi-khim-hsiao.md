@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Bi-khim Hsiao (蕭美琴)
 
@@ -44,6 +44,7 @@ _No filled family fields on the TAH profile._
 
 ## From the record
 
+- 複核（TJJ-A09251000-13, 2026-09-26）：本 slice 文章 760a0bc942e1676b（VOA：台灣祝賀拜登、賀錦麗就職）正文再驗證——蕭美琴獲 JCCIC 直接邀請出席就職儀式及錄製祝賀視頻記述確認見於正文，subject 連結為真，無錯鏈、無虛鏈；對應日期事實條目（含該文 wikilink）已在庫 — SKIP，已飽和。
 - 複核（TJJ-A09250900-2, 2026-09-26）：slice 文章 9d523cc5290c997b 正文再驗證——本篇書寫對象（父親筆下的女兒）即本人，subject 連結為真，無錯鏈、無虛鏈；2020-07-26 條目（含該文 wikilink）已在庫 — SKIP，已飽和。
 
 - 複核（TJJ-A09250800-5, 2026-09-25）：本 slice 四篇 tjj-a-slice-09250800-5 文章（004420da 新聞觀測站分類頁 2024-04-25 快照、b6329042 LA Times 蔡英文參選轉載 2015-04-16、23197ebf「楊遠薰」標籤頁2 2021-12-07 快照、be7ac05c 黃勝雄記憶講座全文 2017-02-23 快照）正文逐一再驗證——本頁 subject 連結為真實提及，無錯鏈、無虛鏈；含該文 wikilink 的日期事實條目均已在庫 — SKIP，已飽和，無新材料。

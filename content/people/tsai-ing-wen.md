@@ -7,7 +7,7 @@ tags:
   - taiwanjustice-net
   - thin-page
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 name_en: "Tsai Ing-wen"
 ---
 # Tsai Ing-wen (蔡英文)
@@ -46,6 +46,7 @@ name_en: "Tsai Ing-wen"
 
 ## From the record
 
+- 複核（TJJ-A09251000-13, 2026-09-26）：本 slice 文章 760a0bc942e1676b（VOA：台灣祝賀拜登、賀錦麗就職）正文再驗證——蔡總統發推祝賀全文確認見於正文，subject 連結為真，無錯鏈、無虛鏈；對應日期事實條目（含該文 wikilink）已在庫 — SKIP，已飽和。
 - 複核（TJJ-A09251000-9, 2026-09-26）：slice 文章 432e1fca739d02b8（Ed Royce 標籤頁, 2024-06-13 快照）正文再驗證——subject 連結為真實提及，無錯鏈、無虛鏈；對應日期事實（含該文 wikilink）已在庫 — SKIP，已飽和。
 
 - 複核（TJJ-A09250800-5, 2026-09-25）：本 slice 四篇 tjj-a-slice-09250800-5 文章（004420da 新聞觀測站分類頁 2024-04-25 快照、b6329042 LA Times 蔡英文參選轉載 2015-04-16、23197ebf「楊遠薰」標籤頁2 2021-12-07 快照、be7ac05c 黃勝雄記憶講座全文 2017-02-23 快照）正文逐一再驗證——本頁 subject 連結為真實提及，無錯鏈、無虛鏈；含該文 wikilink 的日期事實條目均已在庫 — SKIP，已飽和，無新材料。

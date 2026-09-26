@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Steven Chou (周清耀)
 
@@ -28,6 +28,7 @@ Steven Chou (周清耀) is listed in the TAH Foundation Who’s Who Taiwanese Am
 
 ## From the record
 
+- 複核（TJJ-A09251000-13, 2026-09-26）：本 slice 文章 79291dad808ef7f7（大洛杉磯台灣會館會訊 2018-06）正文再驗證——「周清耀」列第11屆個人董事名單確認見於正文，subject 連結為真，無錯鏈、無虛鏈；對應日期事實條目（含該文 wikilink）已在庫 — SKIP，已飽和。
 - 連結複核（TJJ-A09251000-6, 2026-09-26）：本 slice 兩篇同文快照 b1d58af16c0a5e5b / 80c0a825a7a661b6（2021年南加州僑界支持台灣參與WHA聯合聲明）——本頁人物列名共同發起人清單，subject 連結為真，無錯鏈、無虛鏈；2021-05-13 條目（含該文 wikilink）已在庫 — SKIP，已飽和。
 - 複核（TJJ-A09240700-5, 2026-09-25）：本 slice 兩篇同文快照 b1d58af16c0a5e5b / 80c0a825a7a661b6（2021年南加州僑界支持台灣參與WHA聯合聲明）——列名共同發起人清單，周清耀 subject 連結為真，無錯鏈、無虛鏈；對應日期事實條目（含該文 wikilink）已在庫 — SKIP，已飽和。
 - 複核（TJJ-A09230700-11, 2026-09-24）：本 slice 文章 79291dad808ef7f7（大洛杉磯台灣會館會訊 2018-06）正文再驗證——「周清耀」確認見於第11屆20位個人董事名單，subject 連結為真，無錯鏈、無虛鏈；2018-06-27 條目已在庫 — SKIP，已飽和。

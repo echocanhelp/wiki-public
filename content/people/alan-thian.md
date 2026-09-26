@@ -11,7 +11,7 @@ name_en: "Alan Thian"
 name_zh_hanzi: "田詒鴻"
 name_zh: "田詒鴻"
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 source_note: "TAHS 2025 organization chart (roles only; no private contacts)"
 ---
 # Alan Thian (田詒鴻)
@@ -263,6 +263,7 @@ Notable quotes and mentions of **田詒鴻** in Taiwan Justice articles:
 
 ## From the record
 
+- 複核（TJJ-A09251000-13, 2026-09-26）：本 slice 文章 79291dad808ef7f7（大洛杉磯台灣會館會訊 2018-06）正文再驗證——「一致選出田詒鴻擔任董事長」及署名信確認見於正文，subject 連結為真，無錯鏈、無虛鏈；對應日期事實條目（含該文 wikilink）已在庫 — SKIP，已飽和。
 - 連結複核（TJJ-A09251000-6, 2026-09-26）：本 slice 兩篇同文快照 b1d58af16c0a5e5b / 80c0a825a7a661b6（2021年南加州僑界支持台灣參與WHA聯合聲明）——本頁人物列名共同發起人清單，subject 連結為真，無錯鏈、無虛鏈；2021-05-13 條目（含該文 wikilink）已在庫 — SKIP，已飽和。
 - 複核（TJJ-A09250400-14, 2026-09-25）：本 slice 文章 17835ad9（2016-06-12 會館第十屆董事會報導） 主體連結經正文再驗證為真實對應（無錯鏈、無虛鏈）；對應日期事實條目（含該文 wikilink）已在庫 — SKIP，無新材料。
 

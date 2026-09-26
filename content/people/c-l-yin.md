@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # C. L. Yin (殷清隆)
 
@@ -28,6 +28,7 @@ last_reviewed: 2026-09-25
 
 ## From the record
 
+- 複核（TJJ-A09251000-13, 2026-09-26）：本 slice 文章 79291dad808ef7f7（大洛杉磯台灣會館會訊 2018-06）正文再驗證——「台美商會殷清隆」列第11屆團體董事名單確認見於正文，subject 連結為真，無錯鏈、無虛鏈；對應日期事實條目（含該文 wikilink）已在庫 — SKIP，已飽和。
 - 複核（TJJ-A09250400-2, 2026-09-25）：本 slice 4 篇 TJJ 文章（2d725102 去殖民化（下）、039ccce4 Joyce Lin 墜機、162effa7 TASF 紓困獎學金、1d72b2ae 小英後援會造勢）subject link 再驗證：{NAME} 對應真實（記述確認見於正文），無錯鏈、無虛鏈；含該文 wikilink 的日期事實條目已在庫 — SKIP，無新材料。
 
 - 複核（TJJ-A09230700-11, 2026-09-24）：本 slice 文章 79291dad808ef7f7（大洛杉磯台灣會館會訊 2018-06）正文再驗證——「台美商會殷清隆」確認見於第11屆團體董事名單，subject 連結為真，無錯鏈、無虛鏈；2018-06-27 條目已在庫 — SKIP，已飽和。

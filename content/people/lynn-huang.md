@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-26
 ---
 # Lynn Huang (黃令先)
 
@@ -44,6 +44,7 @@ _No filled family fields on the TAH profile._
 
 ## From the record
 
+- 複核（TJJ-A09251000-13, 2026-09-26）：本 slice 文章 79291dad808ef7f7（大洛杉磯台灣會館會訊 2018-06）正文再驗證——「師範院校黃令先」列第11屆團體董事確認見於正文，subject 連結為真，無錯鏈、無虛鏈；對應日期事實條目（含該文 wikilink）已在庫 — SKIP，已飽和。
 - 複核（TJJ-A09250400-18, 2026-09-25）：slice 文章 [[articles/taiwanjustice-net/2025/20250524200224_以立合唱團世界首演_希望之光_影音_025f6ed990dc9e2c|025f…]]（以立「希望之光」）／[[articles/taiwanjustice-net/2024/20240302032241_root_f985012b1ed56ad0|f985…]]（「末日之淚」）正文再驗證——黃令先作曲兼指揮（希望之光）、鋼琴（末日之淚）記述確認見於正文，subject 連結為真，無錯鏈、無虛鏈；對應日期條目（含兩檔 wikilink）已在庫 — SKIP，已飽和。
 
 - 複核（TJJ-A09250400-16, 2026-09-25）：本 slice 文章 526ee7d662ebe432（以立合唱團「拯救我」原稿）正文再驗證——鋼琴黃令先確認見於正文，subject 連結為真，無錯鏈、無虛鏈；2022-10-01／10-08 條目（含該文 wikilink）已在庫 — SKIP，已飽和。

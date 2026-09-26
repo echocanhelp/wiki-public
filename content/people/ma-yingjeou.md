@@ -7,7 +7,7 @@ tags:
   - taiwanjustice-net
   - thin-page
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-26
 ---
 # Ma Ying-jeou (馬英九)
 
@@ -30,6 +30,7 @@ last_reviewed: 2026-09-24
 
 ## From the record
 
+- 複核（TJJ-A09251000-13, 2026-09-26）：本 slice 文章 69b4f44f9c019bd5（陳順盛探訪報導英文转载）正文再驗證——「Ma Ying-jeou…refuses to consider medial parole」確認見於正文，subject 連結為真，無錯鏈、無虛鏈；對應日期事實條目（含該文 wikilink）已在庫 — SKIP，已飽和。
 - 複核（TJJ-A09251000-9, 2026-09-26）：slice 文章 432e1fca739d02b8（Ed Royce 標籤頁, 2024-06-13 快照）正文再驗證——subject 連結為真實提及，無錯鏈、無虛鏈；對應日期事實（含該文 wikilink）已在庫 — SKIP，已飽和。
 
 - 連結複核（TJJ-A09251000-6, 2026-09-26）：本 slice 目錄頁 b1e144ecc18e460f（English Pages）subject 連結逐一對照正文收錄條目——全部為真，無錯鏈、無虛鏈；對應日期事實條目（含該文 wikilink）已在庫 — SKIP，已飽和。
