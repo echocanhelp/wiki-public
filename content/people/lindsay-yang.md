@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Lindsay Yang (楊瑩瓊)
 
@@ -34,7 +34,7 @@ _No filled family fields on the TAH profile._
 ## Role in the Community
 - Held in the TAH community record as both a Who's Who profile [[works/taiwaneseamericanhistory-org/whoswho1179|1179. Lindsay Yang 楊瑩瓊]] (2016-07-23) and a musician-directory entry [[works/taiwaneseamericanhistory-org/musician351|351. Lindsay Yang 楊瑩瓊, Pianist]] (2016-07-23).
 
-_Re-grepped 2026-09-22 (slice 15) and 2026-09-25 (slice 09231400-4): no corpus hits beyond her own TAH Who's Who/musician records already linked. SKIP: nothing absorbable in-vault._
+_Re-grepped 2026-09-22 (slice 15), 2026-09-25 (slice 09231400-4), and 2026-09-26 (slice 09251031-30): no corpus hits beyond her own TAH Who's Who/musician records [[works/taiwaneseamericanhistory-org/whoswho1179|1179. Lindsay Yang 楊瑩瓊]] / [[works/taiwaneseamericanhistory-org/musician351|351. Lindsay Yang 楊瑩瓊, Pianist]] and the works index. SKIP: nothing absorbable in-vault._
 
 ## Sources
 - [TAH #1179 encyclopedia: 1179. Lindsay Yang 楊瑩瓊 / 2016/07](https://taiwaneseamericanhistory.org/whoswho1179/)

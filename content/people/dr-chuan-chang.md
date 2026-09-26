@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Dr. Chuan Chang (張仲權博士)
 
@@ -42,6 +42,7 @@ Publication(Non-professional)
 
 ## Role in the Community
 - SKIP (deepen-x slice 09210500-31, 2026-09-22; earlier 09191200-14, 09180400-16): fresh corpus grep of content/works + content/articles returned only the subject's own TAH entry [[works/taiwaneseamericanhistory-org/whos-who-2278-chuan-chang|2278. Dr. Chuan Chang 張仲權博士]] and the works index — no community-authored narrative to absorb. Re-grep 2026-09-25 (slice 09231400-19): hit set unchanged — only his own entry and the works index.
+- Re-verified 2026-09-26 (slice 09251031-30): fresh ZH+EN grep returns only own entry [[works/taiwaneseamericanhistory-org/whos-who-2278-chuan-chang|2278. Dr. Chuan Chang 張仲權博士]] + works index. SKIP stands.
 
 ## Sources
 - [TAH #2278 encyclopedia: 2278. Dr. Chuan Chang 張仲權博士](https://taiwaneseamericanhistory.org/whos-who-2278-chuan-chang/)
