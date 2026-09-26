@@ -1,5 +1,5 @@
 ---
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 title: 台灣新聞
 type: article
 domain: taiwanjustice.net
