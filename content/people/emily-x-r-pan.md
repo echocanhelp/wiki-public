@@ -47,6 +47,8 @@ Corpus records show Pan's debut novel entered the Taiwanese American community r
 
 美国書商協會(ABA)評為2018年優良讀物 (American Booksellers Association named as a top read of 2018) — matches the TAH #1242/Literature record.
 
+- 複核（deepen-x slice 09250800-31, 2026-09-25）：fresh grep 潘相如 / Emily X.R. Pan 僅見已吸收之 #2107、#1242、2018-09-25 訪談與 works index — SKIP，verified-saturated，無新社群材料。
+
 ## Sources
 - [TAH #2107 encyclopedia: 2107. Emily X.R. Pan 潘相如 / 05/2018](https://taiwaneseamericanhistory.org/whoswho2107/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/emily-x-r-pan/)
