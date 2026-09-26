@@ -54,3 +54,4 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+> Re-verified 2026-09-26 (slice 09251500-5): fresh grep 王采羿一 / Jenny Wang hit set unchanged (#2234, OFTaiwan Award announcement, creators conversation, works index); verified-saturated, Rutgers-vs-NYU HOLD stands.

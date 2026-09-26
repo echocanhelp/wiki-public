@@ -5,7 +5,7 @@ redirect_to: hsu-shih-huan
 tags:
   - redirect
 verification_status: redirect
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 
 # Moved
@@ -49,3 +49,4 @@ Chronological events for **許世環**:
 <!-- deepen-x 09221500-28: re-verify 2026-09-23 — fresh grep (works/articles): hit set unchanged (single 2018 台大校友抗議公開信 only, already recorded + quoted). Redirect stub; SKIP-with-reason. -->
 <!-- deepen-x 09231000-14: verified-saturated — corpus re-scan (works/articles) fresh 2026-09-25: hit set identical to prior passes (own records + already-wikilinked works only); David Kuang-Tzu Lin: fresh grep hits (ourjourneys33 family-photo 'David Lin', TJJ 林沅融 David Lin, TJJ 牧師林大衛 David Lin) are name collisions, NOT 李光治 — excluded, no absorbable material. -->
 <!-- deepen-x 09250317-10: verified-saturated — redirect stub; sole corpus mention (2018-07-19 台大校友公開信) already recorded; SKIP-with-reason. -->
+<!-- deepen-x 09251500-4: verified-saturated — redirect stub; sole corpus mention (2018-07-19 台大校友公開信) already recorded; fresh grep 2026-09-26 hit set unchanged; SKIP-with-reason. -->
