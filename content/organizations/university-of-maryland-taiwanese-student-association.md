@@ -28,6 +28,8 @@ Re-grepped 2026-09-24 (slice 09230700-25): zero direct hits for the club name or
 
 Re-grepped 2026-09-25 (slice 09240700-25): zero direct hits for "University of Maryland Taiwanese Student" / umdtsa / umd_tsa in works/ + articles/. Still SKIP: nothing absorbable about this club.
 
+Re-grepped 2026-09-26 (slice 09251000-19): zero direct hits for the club name or handles (umdtsa / umd_tsa); "Maryland" hits remain unrelated memoir passages. Still SKIP: nothing absorbable about this club.
+
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/university-of-maryland-taiwanese-student-association/)
 

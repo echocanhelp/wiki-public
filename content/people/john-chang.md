@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # John Chang (張景祥牧師)
 
@@ -48,6 +48,7 @@ _No filled family fields on the TAH profile._
 - HOLD: "John Chang" is ambiguous in this corpus. [[works/taiwaneseamericanhistory-org/honorary-member-by-audubon-artists-society-john-chang-2017|57. Audubon Artists Society honorary member / 2017]] is John Chang 張哲雄 ([[people/jason-chang|張哲雄]]), and [[works/taiwaneseamericanhistory-org/55-taiwan-independence-cup|55. Taiwan Independence Cup / 2018/11]] is Dr. Shiching John Chang ([[people/dr-shiching-john-chang]]) — neither merged here. [[works/taiwaneseamericanhistory-org/2-presented-by-dr-john-chang|2. Presented by Dr. John Chang / Overland Park, KS / 2015]] is unresolved and not absorbed.
 
 - Re-grep 2026-09-25 (slice 09240700-26, 張景祥/恩光): hits = own bio record 943, the two church work records already wikilinked, plus index. Verified-saturated; disambiguation HOLD above unchanged; SKIP-content.
+- Re-grep 2026-09-26 (slice 09251000-18, 張景祥/John Chang): hits = own bio record 943, the two church work records already wikilinked, plus the Audubon/Taiwan-Independence-Cup/Presented-by records under the ambiguity HOLD, plus index. Verified-saturated; disambiguation HOLD above unchanged; SKIP-content.
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/john-chang/)

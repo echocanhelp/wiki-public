@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Linda Wang (王琳琦)
 
@@ -43,6 +43,7 @@ last_reviewed: 2026-09-25
 _No filled family fields on the TAH profile._
 
 - Re-grepped 2026-09-25 (slice 09240700-26): fresh grep 王琳琦/Linda Wang returns the same hit set (#362, #1278, ourjourneys301, index), all absorbed above; TUF 奨学金/Geneva memoir fact and its HOLD stand. Verified-saturated; SKIP-with-reason.
+- Re-grepped 2026-09-26 (slice 09251000-18): fresh grep 王琳琦/Linda Wang returns the same hit set (#362, #1278, ourjourneys301, index), all absorbed above; TUF 奨学金/Geneva memoir fact and its HOLD stand. Verified-saturated; SKIP-with-reason.
 
 ## Sources
 - [TAH #362 encyclopedia: 362. Linda Wang 王琳琦, Violinist / 2016/09](https://taiwaneseamericanhistory.org/musician362/)

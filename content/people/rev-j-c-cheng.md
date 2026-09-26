@@ -43,6 +43,7 @@ last_reviewed: 2026-09-26
 
 - Corpus re-check 2026-09-22/23 (slice 09221100-29): fresh grep returns only his own directory record [[works/taiwaneseamericanhistory-org/whos-who-2105-j-c-cheng|2105. Rev. J. C. Cheng 鄭紀昭牧師]], 張理美's church memoir [[works/taiwaneseamericanhistory-org/ourjourneys305|305. 美國聖路易台灣人長老基督教會的歷史簡略]] (already fully absorbed above), and the works index. Nothing new absorbable this pass.
 - Corpus re-check 2026-09-24 (slice 09230700-16) and 2026-09-25 (slice 09240700-15): fresh grep returns only [[works/taiwaneseamericanhistory-org/whos-who-2105-j-c-cheng|2105]], 張理美's church memoir [[works/taiwaneseamericanhistory-org/ourjourneys305|305]] (both fully absorbed above), and the works index. Verified-saturated, nothing new absorbable.
+- Corpus re-check 2026-09-26 (slice 09251000-19): fresh grep returns the identical hit set — [[works/taiwaneseamericanhistory-org/whos-who-2105-j-c-cheng|2105]], [[works/taiwaneseamericanhistory-org/ourjourneys305|305]], works index. Verified-saturated, nothing new absorbable.
 
 ## Sources
 - [TAH #2105 encyclopedia: 2105. Rev. J. C. Cheng 鄭紀昭牧師](https://taiwaneseamericanhistory.org/whos-who-2105-j-c-cheng/)

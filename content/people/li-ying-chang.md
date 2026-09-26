@@ -57,3 +57,5 @@ _No filled family fields on the TAH profile._
 > Corpus re-scan 2026-09-24 (deepen-x slice 09230800-11): fresh grep works/+articles/ — hit set identical (whoswho1206, musician353, works index), all already wikilinked. SKIP-deepen; nothing new absorbable. HOLD on degree-level conflict (MM vs B.S., Peabody) stands.
 
 > Corpus re-scan 2026-09-25 (deepen-x slice 09240800-3): fresh grep works/+articles/ — hit set unchanged (whoswho1206, musician353, works index), all already wikilinked. SKIP-deepen; verified saturated. HOLD on degree-level conflict (MM vs B.S., Peabody) stands.
+
+> Corpus re-scan 2026-09-26 (deepen-x slice 09251000-19): fresh grep works/+articles/ for 張理盈 / Li-Ying Chang — hit set identical (whoswho1206, musician353, works index), all already wikilinked. SKIP-deepen; verified saturated. HOLD on degree-level conflict (MM vs B.S., Peabody) stands.

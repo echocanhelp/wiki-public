@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Chuck Lee (李忠敏)
 
@@ -60,3 +60,5 @@ Corpus re-check 2026-09-23 (deepen-x slice 09221300-7): fresh grep for 李忠敏
 Corpus re-check 2026-09-24 (deepen-x slice 09230700-18): fresh grep for 李忠敏 / Chuck Lee — hit set unchanged (own publications1011–1019, whos1249, works index); no third-party memoir material. SKIP-deepen; nothing new absorbable.
 
 Corpus re-scan 2026-09-25 (deepen-x slice 09240700-22): fresh grep — hit set unchanged, all hits already wikilinked with facts absorbed. SKIP-deepen; nothing new absorbable.
+
+Corpus re-check 2026-09-26 (deepen-x slice 09251000-18): fresh grep 李忠敏 / Chuck Lee — hit set unchanged (own publications1011–1019, whos1249); no third-party memoir material. SKIP-deepen; nothing new absorbable.

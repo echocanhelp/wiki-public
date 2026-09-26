@@ -42,3 +42,5 @@ Corpus re-check 2026-09-23 (deepen-x slice 09221300-7): fresh grep for 南澤西
 Corpus re-check 2026-09-24 (deepen-x slice 09230700-18): fresh grep for 南澤西 / South Jersey — hit set unchanged (chapter's own TAA record, Our Journeys 356 EN/ZH, works index); all already wikilinked with facts absorbed. SKIP-deepen.
 
 Corpus re-scan 2026-09-25 (deepen-x slice 09240700-22): fresh grep — hit set unchanged, all hits already wikilinked with facts absorbed. SKIP-deepen; nothing new absorbable.
+
+Corpus re-scan 2026-09-26 (deepen-x slice 09251000-17): fresh grep 南澤西/South Jersey — hit set unchanged (chapter's own TAA record, Our Journeys 356 EN/ZH, works index); all already wikilinked with facts absorbed. SKIP-deepen.

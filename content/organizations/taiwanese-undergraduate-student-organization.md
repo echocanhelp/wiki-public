@@ -31,6 +31,7 @@ TUSO itself is not named in our memoir corpus, but it stands on a documented UW�
 - 2026-09-23 (slice 09221300-12) 第三次複核：grep（TUSO／Taiwanese Undergraduate Student Organization，works+articles）再次零命中。維持 SKIP-with-reason：語料無本組織記載，既有 UW–Madison 學生運動系譜維持原載，無可吸收新事實。
 - 2026-09-24 (slice 09230700-19) 第四次複核：grep（TUSO／Taiwanese Undergraduate Student Organization，works+articles）再次零命中。維持 SKIP-with-reason：語料無本組織記載，無可吸收新事實。
 - 2026-09-25 (slice 09240700-24) 第五次複核：grep 再次零命中。維持 SKIP-with-reason：語料無本組織記載，既有 UW–Madison 學生運動系譜維持原載，無可吸收新事實。
+- 2026-09-26 (slice 09251000-17) 第六次複核：grep（TUSO／Taiwanese Undergraduate Student Organization，works+articles）再次零命中。維持 SKIP-with-reason：語料無本組織記載，既有 UW–Madison 學生運動系譜維持原載，無可吸收新事實。
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-undergraduate-student-organization/)
