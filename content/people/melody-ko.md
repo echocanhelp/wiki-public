@@ -43,3 +43,5 @@ last_reviewed: 2026-09-26
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+<!-- Re-verified deepen-x 09251031-15 (2026-09-26): fresh ZH+EN grep of works/ + articles/ — hit set unchanged: own record [[works/taiwaneseamericanhistory-org/whos-who-1831-melody-ko|1831. Melody Ko 柯頌恩]] + works index only; no memoir/community material. SKIP stands. -->
