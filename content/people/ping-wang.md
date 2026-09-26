@@ -36,6 +36,7 @@ _No filled family fields on the TAH profile._
 ## Role in the Community
 - Community-facing footprint in the corpus is his popular medical writing: the 糖尿病與你 lecture record (2019-10-30, 吳瑞惠撰) published on 台灣公義網 ([[articles/taiwanjustice-net/2024/20240522045150_root_26f763595b5ce4fb|TJJ, 2019-10-31]]) and archived under the 保健 category page alongside 鄭炳全、李堅、楊遠薰、唐培理 ([[articles/taiwanjustice-net/2024/20240421172838_root_f74e3a075f079fdb|TJJ 保健類目, 2024-04-21 存檔]]) — he brought diabetes and 數據醫學 education to the TA community audience.
 - Directory/biographic record: TAH #1194 encyclopedia entry ([[works/taiwaneseamericanhistory-org/whoswho1194|1194. Ping Wang 王秉訓 / 2016/07]]).
+- Re-grep 2026-09-26 (slice 09260400-8): fresh grep 王秉訓/"Ping Wang" — hit set identical (whoswho1194, 王漢平 same-romanization different person, index, TJJ harvest MANIFEST, the two already-cited TJJ pages). Verified-saturated; no new absorbable facts.
 - Re-grep 2026-09-22 (slice 09210500-26), 2026-09-23 (slice 09221300-12) and 2026-09-24 (slice 09230700-24): the only other works-layer hit, [[works/taiwaneseamericanhistory-org/200-hann-ping-wang-e7-8e-8b-e6-bc-a2-e5-b9-b3201501|200. Hann-Ping Wang 王漢平 / 2015/01]], is a different person (王漢平, matched on the romanization "Ping Wang" only) — not absorbed. Remaining hits are his own whoswho1194 record, works/index.md, and the two TJJ pages already cited (plus the TJJ harvest MANIFEST). Saturated; no memoir authoring his community role is in the vault yet.
 
 ## Sources
