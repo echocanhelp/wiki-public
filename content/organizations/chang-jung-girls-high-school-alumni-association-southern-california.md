@@ -29,6 +29,7 @@ last_reviewed: 2026-09-25
 - **Content priority A:** Name on Taiwan Center group-members page  
 - **Hub:** [[sources/taiwancenter-org||taiwancenter.org]]  
 - **Content priority C:** Independent history not expanded from listing alone  
+- Corpus re-grep 2026-09-25 (deepen-x slice 09250600-15, 長榮女中 / Chang Jung Girls): hits remain only its own TAH record [[works/taiwaneseamericanhistory-org/chang-jung-girls-high-school|chang-jung-girls-high-school]] + works index — no memoir material beyond what is already absorbed above; SKIP-with-reason.
 
 ## Related Pages
 

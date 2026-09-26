@@ -39,7 +39,7 @@ _No filled family fields on the TAH profile._
 
 The vault's community record for Anne H. Chow is the TAH Who's Who entry itself, held in the story corpus as [[works/taiwaneseamericanhistory-org/whos-who-1981-anne-h-chow|1981. Anne H. Chow]] (2017-12-26, band B — bibliographic record; full text stays in the vault). No memoir, article, or organizational mention in `content/works` or `content/articles` adds community-activity facts beyond the directory biography (corpus grep 2026-09-18: only the Who's Who record + index entries).
 
-- Corpus re-scan 2026-09-22 (deepen-x slice 09210900-2) and 2026-09-25 (slice 09231200-27): hits remain the Who's Who record [[works/taiwaneseamericanhistory-org/whos-who-1981-anne-h-chow|1981]] + index lines; the other ZH/EN grep hits (musician149, Anne Hu/Lunchbox, Pew statement) are Anne **Hu**, a different person — no absorbable community material.
+- Corpus re-scan 2026-09-22 (deepen-x slice 09210900-2) and 2026-09-25 (slices 09231200-27, 09250600-15): hits remain the Who's Who record [[works/taiwaneseamericanhistory-org/whos-who-1981-anne-h-chow|1981]] + index lines; the other ZH/EN grep hits (musician149, Anne Hu/Lunchbox, Pew statement, and 周-name matches in musician411 / ourjourneys30) are different people — no absorbable community material. SKIP-with-reason.
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/anne-h-chow/)
 

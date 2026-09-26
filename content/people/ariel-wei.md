@@ -39,7 +39,7 @@ _No filled family fields on the TAH profile._
 - HOLD: conflict in degree designations — narrative bio says B.F.A. (NTNU) and M.A. (Eastern Washington University); the TAH harvest tables record B.S. and M.S. Not merged.
 
 - Corpus re-scan 2026-09-22 (deepen-x slice 09210900-2): still only the Who's Who record [[works/taiwaneseamericanhistory-org/whoswho1170|1170]] + index line — no absorbable community material.
-- Corpus re-grep 2026-09-25 (deepen-x slice 09231200-30): hit set unchanged (own record + works index only) — SKIP-with-reason, nothing new absorbable.
+- Corpus re-grep 2026-09-25 (deepen-x slices 09231200-30, 09250600-15): hit set unchanged (own record + works index only) — SKIP-with-reason, nothing new absorbable.
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/ariel-wei/)
 

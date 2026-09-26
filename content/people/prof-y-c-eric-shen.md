@@ -30,6 +30,7 @@ Prof. Y. C. (Eric) Shen 沈耀初教授 – History of Taiwanese American (T.A. 
 - Served as president of the TAA Greater Chicago Chapter (全美台灣同鄉會芝加哥分會) for the 2015–2018 term, per the chapter's own president roster recorded in a chapter memoir; succeeded by 賴琦亮 from 2019 (HOLD: roster shows 2015–2018 vs successor "2019至今" — term boundary not merged). Source: [[works/taiwaneseamericanhistory-org/our-journeys-378|芝加哥台灣同鄉會 memoir (Our Journeys 378)]].
 - His TAH Foundation Who's Who entry is preserved at [[works/taiwaneseamericanhistory-org/whos-who-1825-y-c-shen|TAH #1825]].
 - The memoir records a 2015 photo of Tsai Ing-wen's Chicago visit with the chapter during his tenure.
+- Corpus re-grep 2026-09-25 (deepen-x slice 09250600-15, 沈耀初 / Eric Shen): hits remain [[works/taiwaneseamericanhistory-org/our-journeys-378|Our Journeys 378]] + own Who's Who record — already absorbed above; SKIP-with-reason, nothing new.
 
 ## Family
 
