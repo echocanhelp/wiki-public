@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Carole Huang (陳春華)
 
@@ -49,3 +49,4 @@ Name-variant: corpus uses both "Carole Huang" and "Carol Huang" for her. HOLD: [
 
 - 2026-09-25 DEEPEN-X09230900-17 re-run: fresh grep hit set identical (ourjourneys-138, ourjourneys263, ff306, whos1383) — verified-saturated, SKIP; 黃欣怡 HOLD stands.
 - 2026-09-25 DEEPEN-X09250317-9 re-run: fresh grep hit set identical (ourjourneys-138, ourjourneys263, ff306, whos1383, works index) — verified-saturated, SKIP; 黃欣怡 HOLD stands.
+- 2026-09-26 DEEPEN-X09251451-3 re-run: fresh grep hit set identical to records already cited/absorbed above — verified-saturated, SKIP.

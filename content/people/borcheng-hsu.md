@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # BorCheng Hsu (許伯丞)
 
@@ -49,3 +49,4 @@ _No filled family fields on the TAH profile._
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 \nCorpus re-grep (slice 09250317-9, 2026-09-25): identical hit set (whos-who-1175, 117, 中央社 article, works index); saturated, no new absorbable facts.
+- 2026-09-26 DEEPEN-X09251451-3 re-run: fresh grep hit set identical to records already cited/absorbed above — verified-saturated, SKIP.
