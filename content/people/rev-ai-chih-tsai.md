@@ -61,3 +61,5 @@ last_reviewed: 2026-09-25
 複核（deepen-x slice 09230400-3, 2026-09-24）：corpus re-grep（蔡愛智／Ai Chih Tsai，works+articles）命中集不變（our-journeys-350、whos-who-1652、ourjourneys266、index），全數已吸收並 wikilink；無新增社群材料 — SKIP-with-reason（飽和）。
 
 複核（deepen-x slice 09240317-3, 2026-09-25）：corpus re-grep（蔡愛智／Ai Chih Tsai，works+articles）命中集不變（our-journeys-350、whos-who-1652、ourjourneys266、index），全數已吸收並 wikilink；無新增社群材料 — SKIP-with-reason（飽和）。
+
+複核（deepen-x slice 09250700-1, 2026-09-25）：corpus re-grep（蔡愛智／Ai Chih Tsai，works+articles）命中集不變（our-journeys-350、whos-who-1652、ourjourneys266、index），全數已吸收並 wikilink；無新增社群材料 — SKIP-with-reason（飽和）。

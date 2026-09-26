@@ -28,3 +28,4 @@ SKIP-with-reason (2026-09-18; re-grep 2026-09-21 and 2026-09-22: still zero TGSA
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 <!-- deepen-x recheck 2026-09-25 (slice 09231300-22): fresh grep TGSA/研究生學生會/graduate student association — still zero hits in works+articles. SKIP stands. -->
+<!-- deepen-x recheck 2026-09-25 (slice 09250600-31): fresh grep again zero hits in works+articles. SKIP persists. -->

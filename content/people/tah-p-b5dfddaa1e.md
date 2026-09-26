@@ -61,3 +61,4 @@ Re-verified 2026-09-21 (slice 09201400-23): corpus re-grep (works/articles) retu
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- 覆核（deepen-x slice 09250700-1, 2026-09-25）：corpus re-grep（黃蔡瑞雲／Ray-Yun，works+articles）命中集不變（#32／#277／#338／#365／#698／ourjourneys50 ＋ TJJ 台美人台加人索引），全數已吸收並 wikilink — SKIP，已飽和。

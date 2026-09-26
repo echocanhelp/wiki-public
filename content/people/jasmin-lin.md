@@ -34,6 +34,7 @@ last_reviewed: 2026-09-25
 - HOLD: name-romanization conflict — record #479 spells her "Jasmin Lin", record #230 spells her "Jasmine Lin" (same 林允白).
 - HOLD: publication-date conflict — record #230's title says 2017/05 but the works index dates it 2015-07-05; not merged.
 - Corpus re-sweep 2026-09-25 (slice 14): hits remain only #479, #230 and the index; no memoir or article mentions — nothing further absorbable.
+- Re-grep 2026-09-25 (slice 09250600-32): hit set unchanged for 林允白. The EN query "Jasmin" additionally matched Jasmine Fang and a jasmine-tea product page in taiwaneseamerican-org works — false positives (substring), not this person. Nothing absorbable; HOLDs above stand.
 
 ## Family
 

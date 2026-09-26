@@ -41,3 +41,4 @@ The Taiwanese Association of America San Antonio (TAASA) is a chapter of the Tai
 - Re-verify 2026-09-24 (slice 09230317-8 completion pass): fresh re-grep — hit set identical to records already wikilinked; no new absorbable material. SKIP (saturated).
 people/kin-ko.md
 organizations/american-citizens-for-taiwan.md
+- Corpus re-grep 2026-09-25 (slice 09250700-1; 聖安東尼 / San Antonio): fresh grep of content/works + content/articles — hit set identical to the records already wikilinked above (Our Journeys 155/307/317/318, Chamber of Commerce, Church/Evangelical Formosan Church of San Antonio); saturated, SKIP-with-reason.

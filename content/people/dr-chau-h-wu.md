@@ -41,6 +41,8 @@ SKIP-with-reason (corpus-first pass 2026-09-18): corpus grep for 吳照雄 / Cha
 
 <!-- DEEPEN-X RECHECK 2026-09-22: corpus grep re-run (吳照雄 / Chau H. Wu, works+articles) — hit set unchanged: own TAH #1966 bibliographic record only. SKIP stands. -->
 
+<!-- DEEPEN-X RECHECK 2026-09-25 (slice 09250600-32): corpus grep re-run — hit set unchanged (own record + index). SKIP stands. -->
+
 ## Sources
 - [TAH #1966 encyclopedia: 1966. Dr. Chau H. Wu 吳照雄博士](https://taiwaneseamericanhistory.org/whos-who-1966-chau-h-wu/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-chau-h-wu/)

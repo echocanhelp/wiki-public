@@ -73,3 +73,6 @@ last_reviewed: 2026-09-25
 
 ## Corpus re-grep (2026-09-25, slice 09240317-16)
 - SKIP: re-grep 傅舟山 / C.S. Fu 命中集不變 — 本人 TAH #1151、works index、及已吸收之 TJJ 三篇（會館會訊 2018-06-27、WHA 聯合聲明 2021 及 2025 快照）；無新語料可吸收（saturated）。
+
+## Corpus re-grep (2026-09-25, slice 09250700-1)
+- SKIP: re-grep 傅舟山 / C.S. Fu 命中集不變 — 本人 TAH #1151、works index、及已吸收之 TJJ 三篇（會館會訊 2018-06-27、WHA 聯合聲明 2021 及 2025 快照）；無新語料可吸收（飽和）。
