@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Prof. Ruey J. Yu (余瑞錦教授)
 
@@ -54,3 +54,4 @@ Publication(Non-professional)
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+<!-- deepen-x slice 09251527-19 (2026-09-26): SKIP re-verified — fresh ZH+EN grep of works/+articles/ returns only the records already absorbed/linked on this page (own TAH record + index listings); no new community material. -->

@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Brooklyn Artists Studio (布魯克林藝站)
 
@@ -28,3 +28,4 @@ BAS is documented twice in the TAH story corpus: a record on its predecessor, th
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 <!-- deepen-x slice 09250400-1 (2026-09-25): SKIP re-verified — fresh ZH+EN grep of works/ + articles/ returns only the records already cited on this page; nothing new absorbable. -->
+<!-- Corpus re-grep 2026-09-26 (slice 09251527-20): fresh ZH+EN grep of works/+articles/ returns only the records already wikilinked/absorbed on this page; verified saturated; SKIP-content. -->
