@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Li-Shan Chang (張力山)
 
@@ -45,3 +45,4 @@ SKIP-with-reason (re-verified again 2026-09-25, slices incl. 09231300-1; origina
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- 2026-09-26 覆核（deepen-x 09251023-25）：ZH+EN 再查 works/ + articles/，命中集不變（僅自身 TAH 檔案與 works/index），SKIP：無可吸收社群事蹟。
