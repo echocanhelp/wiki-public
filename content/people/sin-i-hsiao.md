@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Sin-I Hsiao (蕭欣義)
 
@@ -44,6 +44,8 @@ last_reviewed: 2026-09-25
 ## Family
 
 _No filled family fields on the TAH profile._
+
+2026-09-26 corpus re-grep (蕭欣義 / Sin-I Hsiao, DEEPEN-X slice 09250900-8): hit-set unchanged (whoswho1013, ourjourneys81, ourjourneys259, ourjourneys58, ourjourneys234, ourjourneys245) — every hit already cited above; verbatim re-checks (麥迪遜結盟代表名簿、1966費城合併會、1990黑名單18人、通訊錄Massachusetts欄) all match existing text. Saturated; SKIP-with-reason.
 
 ## Sources
 - [TAH #1013 encyclopedia: 1013. Sin-I Hsiao 蕭欣義 / 2016/05](https://taiwaneseamericanhistory.org/whoswho1013/)

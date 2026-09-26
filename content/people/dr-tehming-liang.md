@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-26
 ---
 # Dr. Tehming Liang (梁德明醫師)
 
@@ -54,3 +54,4 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- 2026-09-26 corpus re-grep (slice 09250900-11): fresh grep 梁德明/Tehming Liang over works/ + articles/ returns the identical set (own TAH record 1867, works index, 2026 TJJ HK-councillor homonym article). Nothing new absorbable. SKIP (verified-saturated).

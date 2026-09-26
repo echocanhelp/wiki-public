@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Taiwanese Cultural Society at Stanford University
 
@@ -36,3 +36,5 @@ Corpus re-check 2026-09-23 (slice 09221200-26): fresh grep — still only unrela
 Corpus re-check (slice 09230700-12, 2026-09-24): fresh grep — no new Stanford TCS-specific corpus material; added pre-TCS Stanford venue context (Taiwanese Cultural Music Troupe 1989, Hu Nai-yuan 1992) from ourjourneys38-eng TAFNC review.
 
 Corpus re-check (slice 09240600-18, 2026-09-25): fresh grep — Stanford hits in corpus are unrelated (Taiwan S&T Hub opening in our-journeys-387, early-Bay-Area symposia at Stanford in ourjourneys37-eng, Westchester/Chicago/Harvard TCS bodies); no Stanford TCS-specific material. SKIP: verified-saturated.
+
+Corpus re-grep 2026-09-26 (slice 09250900-13): fresh grep "Taiwanese Cultural Society" — hits unchanged (Westchester/Chicago/Harvard TCS bodies in ourjourneys18-eng / photo-albums-activities-16 / chicago-tcs / harvard-tcs, plus already-linked on-discovering-passion-purpose); no Stanford TCS-specific material. Verified-saturated — SKIP.

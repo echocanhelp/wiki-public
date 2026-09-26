@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Huntsville Taiwanese American Association (亨城)
 
@@ -31,6 +31,8 @@ The Huntsville Taiwanese American Association (HTAA) is a local chapter of the T
 
 - 2026-09-25 re-check (slice 09240600-21): corpus re-grep (亨城 / HTAA / 蕃薯味 / Huntsville) returned the same already-linked work pages plus the Butterfly Chong 張翠蝶 choral-conductor profile ([[works/taiwaneseamericanhistory-org/36-butterfly-chong-e5-bc-b5-e7-bf-a0-e8-9d-b6-choral-conductor|36. Butterfly Chong]]) — her Huntsville is Huntsville, Texas (Sam Houston State University), same venue-vs-chapter false positive as ourjourneys318; no Alabama-chapter facts. Saturated; SKIP-with-reason.
 - 2026-09-24 re-check (slice 09230600-22): corpus re-grep (亨城 / HTAA / 蕃薯味 / Huntsville Taiwanese American) returned the same work pages already wikilinked above (project-3-13 ±eng, HTAA record, ourjourneys245, index) plus one false positive (a digest-string match in a 2022 TAJPNet article). Saturated; no new facts, no conflicts.
+
+- 2026-09-26 re-check (slice 09250900-8): corpus re-grep (亨城 / 蕃薯味 / 番薯味 / Huntsville) returned only the already-linked work pages (project-3-13 +-eng, HTAA record, ourjourneys245, ourjourneys318) plus the Butterfly Chong Huntsville-Texas venue false positive. Saturated; SKIP-with-reason.
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/huntsville-taiwanese-american-association/)

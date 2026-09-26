@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Kris Hsu (徐謙讓)
 
@@ -60,3 +60,4 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- Re-verify 2026-09-26 (slice 09250900-11): fresh grep 徐謙讓/Kris Hsu across works+articles returns the identical saturated set (own [[works/taiwaneseamericanhistory-org/whos-who-2157-kris-hsu|TAH #2157]], works index, TJJ 週末漫談音樂 38 & 88), all absorbed above; SKIP — no new community facts.

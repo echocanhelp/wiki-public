@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Julius Shu 05 (許清煌)
 
@@ -65,3 +65,4 @@ Corpus re-grep 2026-09-25 (deepen-x slice 09240600-20): fresh grep 許清煌/Jul
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+Corpus re-grep 2026-09-26 (deepen-x slice 09250900-11): fresh grep 許清煌/Julius Shu over works/ + articles/ — hit set identical to the already-absorbed set (ourjourneys244, ourjourneys212, whos-julius-shu, works index, TJJ 耆老講座標籤頁); no new passage-level facts. Verified-saturated; no conflicts found.

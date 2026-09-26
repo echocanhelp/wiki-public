@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Prof. Gwo Jaw Wang (王國照教授)
 
@@ -60,3 +60,4 @@ Community memoirs document his standing in the Taiwanese American medical commun
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- 2026-09-26 corpus re-grep (slice 09250900-13): fresh grep 王國照／Gwo Jaw Wang — hit set identical (TAH #599, 返台記 #4, OJ 291/176/201, 自傳 #865); no new facts. Verified-saturated — SKIP.
