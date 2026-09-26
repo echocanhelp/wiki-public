@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: reviewed
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # FORMOSAN ASSOCIATION FOR G.M.T. CULTURE (台灣人牛罵頭文史拹會)
 
@@ -33,3 +33,4 @@ The Formosan Association for G.M.T. Culture is a Los Angeles-based organization 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- Re-grep 2026-09-26 (slice 09251400-5): hit set unchanged (own TAH record + index only) — verified-saturated, SKIP-with-reason.
