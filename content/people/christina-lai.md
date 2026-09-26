@@ -57,3 +57,5 @@ Re-grep 2026-09-25 (slice 09240317-26): fresh 賴李煦煦 / Christina Lai grep 
 
 ## Network
 - [[organizations/presbyterian-church-in-taiwan||PCT]] — TAH Who’s Who
+
+Re-grep 2026-09-25 (slice 09250700-28): fresh 賴李煦煦 / Christina Lai grep returns only own stub #1895 + works index — already absorbed above; verified saturated. SKIP.

@@ -58,3 +58,5 @@ Exhibition at SCA Gallery (Southern California Art Project Gallery), Pomona, Cal
 > Saturate-note (deepen-x slice 09220900-20, 2026-09-23): fresh corpus re-grep (劉白 / Echo Lew) hit set identical to the note above — no new absorbable material. Verified saturated.
 > Saturate-note (deepen-x slice 09230400-17, 2026-09-24): fresh corpus re-grep (劉白 / Echo Lew) hit set identical (whos223, artist7, 496 catalogue, art-exhibitions-42, art-show-11, our-journeys-371) — all linked above. Verified saturated, no conflicts.
 > Saturate-note (deepen-x slice 09240400-5, 2026-09-25): fresh ZH+EN re-grep (劉白 / Echo Lew) hit set identical (whos223, artist7, 496 catalogue, art-exhibitions-42, art-show-11, our-journeys-371) — all linked above. Verified saturated, no conflicts.
+
+> Saturate-note (deepen-x slice 09250700-28, 2026-09-25): fresh ZH+EN re-grep (劉白 / Echo Lew) hit set identical (whos223, artist7, 496 catalogue, art-exhibitions-42, art-show-11, our-journeys-371) — all linked above. Verified saturated, no conflicts.
