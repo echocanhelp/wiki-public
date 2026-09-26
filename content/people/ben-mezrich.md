@@ -38,7 +38,8 @@ press-kit accomplishment above.
 ## Family
 
 - **Wife:** [[people/tonya-c-mezrich|Tonya C Mezrich 陳糖亞]] — herself in the TAH corpus
-  ([[works/taiwaneseamericanhistory-org/whos-who-2180-tonya-c-mezrich|2180. Tonya C Mezrich 陳糖亞]], 2019-04-28).
+  ([[works/taiwaneseamericanhistory-org/whos-who-2180-tonya-c-mezrich|2180. Tonya C Mezrich 陳糖亞]], 2019-04-28; also the earlier duplicate record
+  [[works/taiwaneseamericanhistory-org/ota-263|263. Tonya C Mezrich 陳糖亞]]).
 
 
 ## Sources
