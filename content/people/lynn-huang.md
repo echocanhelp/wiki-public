@@ -43,6 +43,9 @@ Lynn Huang is an active musician in the Taiwanese American communities in southe
 _No filled family fields on the TAH profile._
 
 ## From the record
+
+- 複核（TJJ-A09250400-15, 2026-09-25）：本 slice 四篇（末日之淚 e7e0fe18、音樂短講第13集 4119cffe、學生王子 2b2e0ebc、拯救我 7214b273）正文再驗證——本人鋼琴／特別講座泛音／音樂總監／鋼琴各身份確認見於正文，subject 連結為真，無錯鏈、無虛鏈；四篇之含該文 wikilink 日期條目均已在庫 — SKIP，無新材料。
+
 - 複核（TJJ-A09250400-19, 2026-09-25）：本 slice 兩存檔稿（「拯救我」80b33cf1846bc005、「希望之光」a40b37bc03b2b9cb）正文再驗證——黃令先於「拯救我」鋼琴、「希望之光」作曲兼指揮均確認見於正文，subject 連結為真、無錯鏈無虛鏈；含兩檔 wikilink 的日期條目已在庫 — SKIP，無新材料。
 
 - 複核（TJJ-A09250400-14, 2026-09-25）：本 slice 文章 6ba229d2／8c6aeada（以立合唱團末日之淚、致死的震怒近了存檔稿） 主體連結經正文再驗證為真實對應（無錯鏈、無虛鏈）；對應日期事實條目（含該文 wikilink）已在庫 — SKIP，無新材料；Subjects 連結 .md 後綴已修正為慣例格式。

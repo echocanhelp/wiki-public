@@ -150,6 +150,8 @@ TAH employment (unparsed string): Tainan Univ. of Technology assoc. prof.; Wenza
 
 ## From the record
 
+- 複核（TJJ-A09250400-16, 2026-09-25）：本 slice 文章 de11e29571f3dc86（半音合唱團國家音樂廳錄影稿）相關影音欄「蕭泰然教授南加州追思會」條目正文再驗證——subject 連結為真，無錯鏈、無虛鏈；2015-03-14 條目（含該文 wikilink）已在庫 — SKIP，已飽和。
+
 - 覆核（TJJ-A09250400-5, 2026-09-25）：本 slice 文章 11aa2dfa5f64d7e4（楊子清 tag 頁）正文再驗證——「TUF 台灣文化之夜 1994 – 李喬/楊青矗/李慧珍/郭雋律/郭雋音/蕭泰然/吳英俊」及 1993 曾道雄/陳麗蟬/蕭泰然 演唱會影音紀錄條目確認見於正文 ——subject 連結為真，無錯鏈、無虛鏈；對應日期事實（含該文 wikilink）已在庫 — SKIP，已飽和。 [[articles/taiwanjustice-net/2021/20210117071954_tag_楊子清_11aa2dfa5f64d7e4|TJJ 11aa2dfa]]
 
 - 覆核（TJJ-A09240800-8, 2026-09-25）：slice 文章 bfc5f319a036a339（黃瑞芬訃聞, 2022-01-29 刊）——〈嘸通嫌台灣〉於1995-07-29 TUF LA 音樂會演出記述再確認見於正文，連結為真，無錯鏈、無虛鏈；1995-07-29 條目（已含該文 wikilink）已在庫 — SKIP，無新材料。

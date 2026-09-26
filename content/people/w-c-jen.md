@@ -51,3 +51,4 @@ SKIP (re-verified 2026-09-25, deepen-x 09231500-1): fresh ZH+EN greps of works/ 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- Corpus re-grep 2026-09-25 (deepen-x slice 09250500-4): hits = own records #388/#1543 + index only; no memoir/community mention. Verified saturated, SKIP; Pianist-vs-豎笛 conflict stays on HOLD.
