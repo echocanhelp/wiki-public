@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Charles Ke (柯烱輝)
 
@@ -28,7 +28,7 @@ last_reviewed: 2026-09-25
 
 ## Corpus absorb note (2026-09-25)
 
-Refreshed 2026-09-25: re-grep confirms still only the own-record hit.
+Refreshed 2026-09-25 and 2026-09-26: re-grep confirms still only the own-record hit.
 
 SKIP: corpus grep (works/ + articles/) found only this person's own TAH Who's Who bibliographic record ([[works/taiwaneseamericanhistory-org/whoswho1779]]); no memoir or community-history material mentioning Charles Ke 柯烱輝 exists in the vault yet — nothing absorbable.
 

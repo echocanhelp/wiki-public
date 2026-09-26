@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Mingkong Chen
 
@@ -34,7 +34,7 @@ _No filled family fields on the TAH profile._
 
 ## Role in the Community
 - His TAH Who's Who profile is preserved in our story corpus as community historical record (entry 1996, published 2018-01-31): [[works/taiwaneseamericanhistory-org/whoswho1996|1996. Mingkong Chen / 01/2018]]. No further community/corpus material found beyond the bibliographic record.
-- 2026-09-25 deepen-X re-check: fresh ZH+EN grep of content/works + content/articles returned only this already-cited entry and works/index listings — SKIP: no new corpus material.
+- 2026-09-25 / 2026-09-26 deepen-X re-check: fresh ZH+EN grep of content/works + content/articles returned only this already-cited entry and works/index listings — SKIP: no new corpus material.
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/mingkong-chen/)
