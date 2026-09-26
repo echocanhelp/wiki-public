@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # S. T. Liu (劉曉亭)
 
@@ -56,6 +56,7 @@ last_reviewed: 2026-09-25
 
 - 複核（deepen-x slice-31, 2026-09-25）：fresh ZH+EN grep 命中集合仍僅 #1152/#1611 書目、works index、已鏈之 TJJ 論壇節目單兩篇 — 飽和，無新材料。
 - 複核（deepen-x slice 09250800-29, 2026-09-25）：fresh ZH+EN grep 命中集合仍僅 #1152/#1611 書目、works index、已鏈之 TJJ 論壇節目單兩篇 — 飽和，無新材料。
+- 複核（deepen-x slice-09260500-13, 2026-09-26）：fresh ZH+EN grep 命中集合仍僅 #1152/#1611 書目、works index、已鏈之 TJJ 論壇節目單兩篇 — SKIP，飽和，無新材料。
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

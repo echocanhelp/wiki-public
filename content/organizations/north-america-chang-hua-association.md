@@ -6,7 +6,7 @@ tags:
   - Taiwanese-American
   - Taiwan-Center-group-member
 verification_status: published
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # North America Chang Hua Association
 
@@ -52,3 +52,4 @@ Also appears in the corpus as ESTA Changhua activity — [[works/taiwaneseameric
 - SKIP: 再grep 北美彰化同鄉會 / Chang Hua（works+articles）僅見已連結之 570/572 會刊、歷史頁、活動頁、楊信獎學金、彰化女中校友會及年刊頁，語料均已吸收，無新語料。
 - 複核（deepen-x slice 09240317-28, 2026-09-25）：re-grep 命中集合與前次完全相同——僅見本頁已連結之 works 頁與 index，無新語料可吸收。SKIP。
 - 複核（deepen-x slice 09250700-29, 2026-09-25）：re-grep（北美彰化同鄉會 / Chang Hua Association / NACHA）命中集合再次相同，均為已連結之 works 頁。SKIP。
+- 複核（deepen-x slice-09260500-13, 2026-09-26）：re-grep（北美彰化同鄉會 / Chang Hua Association / NACHA）命中集合再次相同（570/572 會刊、協會歷史、NACHA 活動、楊信獎學金、index），均為已連結之 works 頁。SKIP。
