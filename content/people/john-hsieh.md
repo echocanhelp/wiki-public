@@ -51,3 +51,4 @@ _No filled family fields on the TAH profile._
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 <!-- deepen-x slice 09240600-19 re-verify 2026-09-25: fresh ZH+EN grep of works/+articles/ — hit set identical to material already absorbed; verified-saturated, no new absorbable facts -->
 <!-- deepen-x slice 09250900-19 re-verify 2026-09-26: fresh ZH+EN grep of works/+articles/ — hit set identical to material already absorbed; verified-saturated, no new absorbable facts -->
+<!-- deepen-x slice 09260400-9 re-verify 2026-09-26: fresh ZH+EN grep — hit set identical (OJ 38/38-eng/142, OJ 370, TAH #470, index); verified-saturated, no new absorbable facts -->

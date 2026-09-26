@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Taiwanese Association of Oklahoma (奧克拉荷馬台灣同鄉會)
 
@@ -40,3 +40,5 @@ The Taiwanese Association of Oklahoma (奧克拉荷馬台灣同鄉會) is a regi
 複核（deepen-x 2026-09-24 slice-6）：fresh re-grep（奧克拉荷馬台灣同鄉會 / Taiwanese Association of Oklahoma, works+articles）零本頁外命中；頁內語料（OJ 81/318/58/53、FAPA/商會/TAA 目錄）已是本州全部可得材料 — 飽和。
 
 複核（deepen-x slice 09250700-17, 2026-09-25）：fresh re-grep（奧克拉荷馬台灣同鄉會 / Taiwanese Association of Oklahoma, works+articles）零本頁外命中；頁內語料（OJ 81/318/58/53、FAPA/商會/TAA 目錄）已是本州全部可得材料 — 飽和。
+
+複核（deepen-x slice 09260400-9, 2026-09-26）：精確全名 re-grep 仍零本頁外命中；擴大至「奧克拉荷馬」發現 OJ 256（黃根深畫展致謝，點名奧州鄭金生）一筆新語料，已吸收於上。

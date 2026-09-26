@@ -68,3 +68,5 @@ HOLD: TAH table lists "NBC News — 2011-2012 — Freelance Reporter" while the 
 2026-09-25 re-grep (deepen-x 09240600-23): fresh EN grep returned the same six-file hit set (whowho1395, works index, both TaiwaneseAmerican.org profiles, Stephanie Lin page, ITASA 2009 page) — all linked above. SKIP: verified saturated, HOLD retained.
 
 2026-09-26 re-grep (deepen-x 09250900-21): fresh EN grep returned the same six-file hit set (whowho1395, works index, both TaiwaneseAmerican.org profiles, Stephanie Lin page, ITASA 2009 page) — all linked above. SKIP: verified saturated, HOLD retained.
+
+2026-09-26 re-grep (deepen-x 09260400-9): fresh EN grep returned the same six-file hit set — all linked above. SKIP: verified saturated, HOLD retained.
