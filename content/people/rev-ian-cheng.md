@@ -47,3 +47,4 @@ last_reviewed: 2026-09-25
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 <!-- deepen-x 09231300-10: SKIP — fresh grep 2026-09-25 (works/articles): hit set identical to prior passes (own TAH record / works-index digest only, no memoir or community material); nothing new absorbable. -->
+<!-- deepen-x 09250600-13: SKIP — fresh grep 2026-09-25 (works/articles): own TAH #1727 record + works-index digest only; no memoir or community material. -->
