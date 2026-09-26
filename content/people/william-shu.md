@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # William Shu (許子祥)
 
@@ -41,6 +41,8 @@ _No filled family fields on the TAH profile._
 ## Sources
 - [TAH #2292 encyclopedia: 2292. William Shu 許子祥](https://taiwaneseamericanhistory.org/whos-who-2292-william-shu/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/william-shu/)
+
+- Sweep 2026-09-26 (deepen-x slice 09251047-30): fresh ZH+EN grep of works/+articles/ — hits limited to own TAH directory record + works index; no new absorbable community facts. SKIP.
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

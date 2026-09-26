@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Yunn-Mei Lin (林詠梅)
 
@@ -38,6 +38,8 @@ last_reviewed: 2026-09-25
 ## Sources
 - [TAH #217 encyclopedia: 217. Yunn-Mei Lin 林詠梅/2015/01](https://taiwaneseamericanhistory.org/217-yunn-mei-lin-%e6%9e%97%e8%a9%a0%e6%a2%85201501/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/yunn-mei-lin/)
+
+- Sweep 2026-09-26 (deepen-x slice 09251047-30): fresh ZH+EN grep of works/+articles/ — hits limited to own TAH directory record + works index; no new absorbable community facts. SKIP.
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

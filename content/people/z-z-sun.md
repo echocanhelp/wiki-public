@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Z.Z. Sun (孫足枝)
 
@@ -37,7 +37,7 @@ _No filled family fields on the TAH profile._
 
 ## Role in the Community
 
-Her TAH Who's Who record is in the corpus at [[works/taiwaneseamericanhistory-org/whoswho1621|1621. Z.Z. Sun 孫足枝 / 2017-04]]. The work page is a band-B bibliographic record only (full text stays in the vault), so no additional community narrative was absorbable from the corpus at this pass. Re-checked deepen-x 2026-09-21: corpus hits unchanged (re-checked deepen-x 2026-09-25) — own encyclopedia record and index listing only.
+Her TAH Who's Who record is in the corpus at [[works/taiwaneseamericanhistory-org/whoswho1621|1621. Z.Z. Sun 孫足枝 / 2017-04]]. The work page is a band-B bibliographic record only (full text stays in the vault), so no additional community narrative was absorbable from the corpus at this pass. Re-checked deepen-x 2026-09-21: corpus hits unchanged (re-checked deepen-x 2026-09-25; re-checked deepen-x 09251047-29 2026-09-26: fresh ZH+EN grep — only own encyclopedia record and index listing) — nothing absorbable.
 
 ## Sources
 - [TAH #1621 encyclopedia: 1621. Z.Z. Sun 孫足枝/ 2017/04](https://taiwaneseamericanhistory.org/whoswho1621/)

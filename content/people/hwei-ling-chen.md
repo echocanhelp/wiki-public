@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Hwei-Ling Chen (涂惠鈴)
 
@@ -42,6 +42,8 @@ _No filled family fields on the TAH profile._
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/hwei-ling-chen/)
 
 - Fresh re-verified 2026-09-25 (deepen-x slice 09232337-25): ZH+EN grep (涂惠鈴/洪惠鈴/Hwei-Ling Chen) of works/ + articles/ — hits limited to own record whoswho1510 + works index; nothing new absorbable; HOLD on 涂/洪 surname conflict stands.
+
+- Sweep 2026-09-26 (deepen-x slice 09251047-30): fresh ZH+EN grep of works/+articles/ — hits limited to own TAH directory record + works index; no new absorbable community facts. SKIP.
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

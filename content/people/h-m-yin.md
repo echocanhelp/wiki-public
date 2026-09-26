@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # H. M. Yin (殷惠敏)
 
@@ -43,6 +43,8 @@ _No filled family fields on the TAH profile._
 ## Sources
 - [TAH #1079 encyclopedia: 1079.  H. M. Yin 殷惠敏 / 2016/06](https://taiwaneseamericanhistory.org/whoswho1079/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/h-m-yin/)
+
+- Sweep 2026-09-26 (deepen-x slice 09251047-30): fresh ZH+EN grep of works/+articles/ — hits limited to own TAH directory record + works index; no new absorbable community facts. SKIP.
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
