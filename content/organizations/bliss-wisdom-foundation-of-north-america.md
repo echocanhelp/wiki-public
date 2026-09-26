@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Bliss & Wisdom Foundation of North America (北美福智基金會)
 
@@ -32,3 +32,4 @@ The Bliss & Wisdom Foundation of North America is the North American arm of the 
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 <!-- deepen-x slice 09240700-32 (2026-09-25): saturated re-verify — fresh ZH+EN grep of works/ + articles/ returns the hit-set already absorbed on this page; no new corpus facts, no conflicts. -->
+<!-- deepen-x slice 09251000-31 (2026-09-26): saturated re-verify — fresh grep 福智 / Bliss Wisdom returns only the org's own TAH #39/#54 records + works index, already absorbed above; SKIP. -->

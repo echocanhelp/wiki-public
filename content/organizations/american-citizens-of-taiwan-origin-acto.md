@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # American Citizens of Taiwan Origin ACTO (美台公民協會)
 
@@ -23,7 +23,7 @@ American Citizens of Taiwan Origin (ACTO) is a non-profit 501(c)(3) organization
 - Scholarship record: the ACTO Realco Second Spring Scholarship Award is documented at [[works/taiwaneseamericanhistory-org/40-american-citizens-of-taiwan-origin-acto-realco-second-spring-scholarship-awar|40. 美台公民協會獎學金]], consistent with the annual Outstanding Student Award noted above.
 - Organization directory record held at [[works/taiwaneseamericanhistory-org/american-citizens-of-taiwan-origin-acto|American Citizens of Taiwan Origin (ACTO) 美台公民協會]].
 
-> SKIP-with-reason (re-verified 2026-09-21 corpus sweep; fresh grep same result — false positives were the ACTO substring in an archive_digest hash and an unrelated film essay): a fresh grep of content/works and content/articles for 美台公民協會 / American Citizens of Taiwan Origin / ACTO returned only the three work pages already absorbed above (directory record, 年刊, Realco scholarship record), plus false positives (the substring "acto" inside "actor" in a film essay, an archive digest hash, and the works index re-listing the same records). No new memoir/article facts to absorb; no conflicts found, so none held. Re-verified again 2026-09-22: fresh grep hit set unchanged — all three records already linked above. Re-verified again 2026-09-23 (slice 09221200-28): hit set unchanged (directory record, 年刊, #40 scholarship record + index). SKIP-content. Re-verified 2026-09-25 (slice 09240700-31): hit set unchanged (directory record, 年刊, #40 scholarship + substring false positives in film essay / digest hash / taiwanjustice tags) — saturated.
+> SKIP-with-reason (re-verified 2026-09-21 corpus sweep; fresh grep same result — false positives were the ACTO substring in an archive_digest hash and an unrelated film essay): a fresh grep of content/works and content/articles for 美台公民協會 / American Citizens of Taiwan Origin / ACTO returned only the three work pages already absorbed above (directory record, 年刊, Realco scholarship record), plus false positives (the substring "acto" inside "actor" in a film essay, an archive digest hash, and the works index re-listing the same records). No new memoir/article facts to absorb; no conflicts found, so none held. Re-verified again 2026-09-22: fresh grep hit set unchanged — all three records already linked above. Re-verified again 2026-09-23 (slice 09221200-28): hit set unchanged (directory record, 年刊, #40 scholarship record + index). SKIP-content. Re-verified 2026-09-25 (slice 09240700-31): hit set unchanged (directory record, 年刊, #40 scholarship + substring false positives in film essay / digest hash / taiwanjustice tags) — saturated. Re-verified 2026-09-26 (slice 09251000-30): hit set unchanged; new false positives also 'acto' inside 'actor'/'factor' in the EEAAO film essay and a Russian clinical-trials 臨床試驗機構協會 (ACTO) mention in a taiwanjustice article — not this org. SKIP-content.
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/american-citizens-of-taiwan-origin-acto/)

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Heng-Liong Lin (林興隆)
 
@@ -55,3 +55,4 @@ last_reviewed: 2026-09-25
 
 - Corpus re-check 2026-09-24 (deepen-x slice 09230800-16): fresh grep works/+articles/ for 林興隆/Heng-Liong Lin returns only the four records already cited (897, ourjourneys12/256/338) + works index — saturated, SKIP.
 - Corpus re-check 2026-09-25 (deepen-x slice 09240800-8): fresh grep works/+articles/ — hit set identical (897, ourjourneys12/256/338) — saturated, SKIP.
+- Corpus re-check 2026-09-26 (deepen-x slice 09251000-30): fresh grep — hit set identical (897, ourjourneys12/256/338 + index); presidency-since-2008 HOLD stands. SKIP-deepen; saturated.

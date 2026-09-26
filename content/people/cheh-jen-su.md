@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Cheh-Jen Su (蘇哲仁)
 
@@ -59,3 +59,4 @@ _No filled family fields on the TAH profile._
 - 2026-09-24 deepen-x slice 09230800-10: idempotent re-verify — grep returns only #5, #292, mystories5, index, all wikilinked; verified-saturated.
 - 2026-09-23 deepen-x slice 09221300-21: idempotent re-verify — fresh grep 蘇哲仁/Cheh-Jen Su returns only the already-wikilinked pages (#5 encyclopedia, #292 book, mystories5, index); no new memoir material. Verified-saturated.
 - 2026-09-25 deepen-x slice 09240800-7: re-verified — fresh grep returns only #5, #292, mystories5 (all wikilinked); no new corpus material. Verified-saturated, SKIP.
+- 2026-09-26 deepen-x slice 09251000-30: re-verified — fresh grep 蘇哲仁/Cheh-Jen Su returns only #5, #292, mystories5 + works index, all wikilinked. SKIP-deepen; saturated.
