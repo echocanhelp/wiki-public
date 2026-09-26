@@ -62,3 +62,5 @@ last_reviewed: 2026-09-25
 <!-- deepen-x 09230400-32: re-checked 2026-09-24 — fresh grep (EN + 柯賢清): only whoswho1506 + works/index + the already-linked 2018 open letter; saturated, nothing absorbable. -->
 
 > 複核 deepen-x slice 09240500-28 (2026-09-25): fresh ZH+EN grep of works/+articles/ returns the identical hit set as prior passes (own TAH record + already-linked material only) — verified saturated, SKIP-with-reason: no new corpus material.
+
+> 複核 deepen-x slice 09250800-28 (2026-09-25): fresh ZH+EN grep returns the identical hit set (whoswho1506 + works/index + the already-linked 2018 open letter) — SKIP, no new material.

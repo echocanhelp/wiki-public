@@ -41,6 +41,7 @@ TAH Foundation 於 2017-07-27 將其列入台美人 Who's Who 檔案並入檔 [[
 - Re-verified 2026-09-21: corpus re-grep (works/articles) matches only the TAH #1782 record above plus index listings — no memoir, letter, or event mention of 李雄武 elsewhere. SKIP: nothing further absorbable.
 - Re-verified 2026-09-22 (deepen-x slice 09211400-32), 2026-09-23 (deepen-x slice 09220900-28) and 2026-09-24 (deepen-x slice 09230400-26): corpus re-grep ZH+EN against works/articles — hit set unchanged (own TAH #1782 record + works index only). No new absorbable corpus facts.
 - Re-verified 2026-09-25 (deepen-x slice 09240500-27): corpus re-grep ZH+EN (李雄武 / Shung-Wu Lee) against works/articles — hit set unchanged (own TAH #1782 record + works index only). SKIP: nothing absorbable.
+- Re-verified 2026-09-25 (deepen-x slice 09250800-28): corpus re-grep ZH+EN — hit set unchanged (own TAH #1782 record + works index only). SKIP: nothing absorbable.
 
 ## Sources
 - [TAH #1782 encyclopedia: 1782. Prof. Shung-Wu Lee 李雄武教授](https://taiwaneseamericanhistory.org/whos-who-1782-shung-wu-lee/)
