@@ -48,3 +48,5 @@ _No filled family fields on the TAH profile._
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 <!-- deepen-x 09231200-17: re-verified 2026-09-25 — fresh grep (ZH+EN) of works/+articles/ returned only the corpus record(s) already cited on this page; SKIP stands, nothing new absorbable. -->
+
+<!-- deepen-x 09250500-22: re-verified 2026-09-25 — fresh grep (ZH+EN) of works/+articles/ returned only musician57 + whoswho1113 already cited; SKIP stands, nothing new absorbable. -->

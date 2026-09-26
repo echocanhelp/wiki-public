@@ -50,3 +50,4 @@ _Disambiguation: TAH Who's Who #2251 "Dr. Sam Huang" is 黃森茂, a different p
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 <!-- deepen-x 09210831-19: re-verify — hit set (whoswho1240, ourjourneys232, whos-who-2251 disambig) already absorbed in Role in the Community; no new facts. -->
 <!-- deepen-x 09231200-7: re-verified 2026-09-25 — fresh ZH+EN corpus grep hit set identical to records already absorbed above; no new material. -->
+<!-- deepen-x 09250500-27: re-verified 2026-09-25 — hit set identical (whoswho1240, ourjourneys232, whos-who-2251 disambig, works index); all absorbed, disambig HOLD intact; verified-saturated, SKIP. -->

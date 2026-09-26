@@ -45,6 +45,7 @@ last_reviewed: 2026-09-25
 - Co-author of the collective autobiography [[works/taiwaneseamericanhistory-org/publications1046|1046. 台美人生命腳跡 / 11/2016]], alongside 黃東昇、林靜竹、陳天令、劉惠麗、江正吉、劉宗憲、柯耀宗.
 - Church community: the New Jersey Taiwanese Presbyterian church history [[works/taiwaneseamericanhistory-org/ourjourneys14|14. 紐澤西台美團契基督長老教會歷史]] records a "Kenneth Liu" serving as 英語部主任 in the late 1990s. HOLD: conflict engineer vs clergy — the English passage styles him "Rev. Kenneth Liu ... Director of the English Ministry", inconsistent with the 劉光道 engineering career (Bechtel/PG&E/Parsons Brinckerhoff, CA); likely a different Kenneth Liu.
 - Profiled in TAH Who's Who encyclopedia [[works/taiwaneseamericanhistory-org/whoswho1456|1456. Kenneth Liu 劉光道 / 2017/01]].
+- Re-verify (2026-09-25, deepen-x slice 09250500-24): fresh corpus grep returns only his own memoir [[works/taiwaneseamericanhistory-org/mystories386|386]], the collective autobiography [[works/taiwaneseamericanhistory-org/publications1046|1046]], and the NJ church history [[works/taiwaneseamericanhistory-org/ourjourneys14|14]] — all already cited above; the Rev. Kenneth Liu HOLD stands. Nothing new absorbable.
 
 ## Sources
 - [TAH #1456 encyclopedia: 1456. Kenneth Liu  劉光道 / 2017/01](https://taiwaneseamericanhistory.org/whoswho1456/)

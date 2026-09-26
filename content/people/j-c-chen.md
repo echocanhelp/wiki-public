@@ -27,6 +27,7 @@ J. C. Chen (陳進財) is listed in the TAH Foundation Who’s Who Taiwanese Ame
 - His own TAH encyclopedia profile: [[works/taiwaneseamericanhistory-org/whoswho1000|1000. J. C. Chen 陳進財 / 2016-05]].
 - HOLD: the corpus mention in the 鄭紀昭牧師 record ([[works/taiwaneseamericanhistory-org/whos-who-2105-j-c-cheng|2105]]) concerns Rev. J. C. Cheng (鄭紀昭), a different person with similar initials — do not conflate.
 - 2026-09-22 corpus re-check: grep for 陳進財 / J. C. Chen returns only 許永華's memoir, his own TAH entry, and the J. C. Cheng (鄭紀昭) record already flagged above. No new corpus facts.
+- Re-verify (2026-09-25, deepen-x slice 09250500-24): fresh grep returns only [[works/taiwaneseamericanhistory-org/ourjourneys250|許永華's memoir]] and the J. C. Cheng disambiguation record — both already cited; saturated, nothing new absorbable.
 
 ## Family
 

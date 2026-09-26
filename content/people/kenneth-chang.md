@@ -8,7 +8,6 @@ tags:
   - tah-whos-who
 verification_status: pending
 last_reviewed: 2026-09-25
-#deepen-x-09250500-21
 ---
 # Kenneth Chang (張學賢)
 

@@ -33,3 +33,4 @@ The Hakka Foundation is a Taiwanese American nonprofit organization serving the 
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 <!-- deepen-x 09231200-7: re-verified 2026-09-25 — fresh ZH+EN corpus grep hit set identical to records already absorbed above; no new material. -->
+<!-- deepen-x 09250500-27: re-verified 2026-09-25 — hit set identical (own directory record, works index, 太魯閣號慰問函), all already absorbed; verified-saturated, SKIP. -->
