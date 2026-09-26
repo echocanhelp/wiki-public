@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # K. C. Du (杜國清)
 
@@ -56,3 +56,5 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+2026-09-26 re-grep (deepen-x 09250900-30): fresh ZH+EN grep returned the same hit set already linked/absorbed on this page — verified-saturated SKIP-content, nothing new absorbable, existing HOLDs unchanged.
