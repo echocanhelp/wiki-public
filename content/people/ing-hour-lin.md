@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Ing-Hour Lin (林英侯博士)
 
@@ -51,3 +51,5 @@ Corpus re-check (deepen-x 2026-09-23, slice 09221200-32; re-run 2026-09-24, slic
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+Corpus re-check (slice 09251000-2, 2026-09-26): fresh 林英侯|Ing-Hour greps return only the work pages already linked above (ourjourneys-138, ourjourneys47, whoswho1580, both TJJ articles) plus the harvest index — verified-saturated, no unabsorbed material.

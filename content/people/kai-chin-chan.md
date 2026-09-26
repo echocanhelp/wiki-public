@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Kai-Chin Chan (詹凱臣)
 
@@ -65,3 +65,5 @@ last_reviewed: 2026-09-25
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+- 2026-09-26 slice 09251000-2 複核：命中集合不變（TAH #1154、works index、2021 WHA 聲明兩筆、2013 核四表決一筆），全部已收錄 — SKIP。

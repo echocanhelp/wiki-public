@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # North America Taiwanese Women’s Association – Hawaii Chapter (北美洲台灣婦女會夏威夷分會)
 
@@ -37,3 +37,4 @@ Re-verified SKIP (slice 09221500-7, 2026-09-23): fresh grep 夏威夷|Hawaii aga
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 Re-verified SKIP (slice 09230900-5, 2026-09-24): fresh grep 北美洲台灣婦女會|NATWA returns the parent-newsletter records 663/679 聯誼通訊, the Houston-centric [[works/taiwaneseamericanhistory-org/ourjourneys328|Our Journeys #328]], and [[works/taiwaneseamericanhistory-org/columns17|17. 關懷網 by NATWA关怀资讯中心]] — grep for Hawaii/夏威夷 inside these new hits returns zero matches. No chapter-level facts to absorb. Saturated.
 Re-verified SKIP (slice 09240800-1, 2026-09-25): fresh grep 北美洲台灣婦女會|NATWA returns the same saturated set plus San Diego / Oregon-Southwest chapter records — grep Hawaii/夏威夷 inside the new chapter hits returns zero matches. No chapter-level facts to absorb. Saturated.
+Re-verified SKIP (slice 09251000-2, 2026-09-26): fresh grep 陳美惠|Mei-Hui|北美洲台灣婦女會|NATWA returns the saturated set (663/679 聯誼通訊, ourjourneys328, columns17, San Diego / Oregon-Southwest chapter records) — grep Hawaii/夏威夷 inside every new hit returns zero matches. No chapter-level facts to absorb. Saturated.

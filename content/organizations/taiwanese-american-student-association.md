@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 <!-- deepen-x 09200800-27: SKIP — fresh corpus re-scan: TASA hits are the Seniors Association and ITASA only (already noted in the HOLD); no corpus record for the Vanderbilt chapter itself. -->
 ---
 # Taiwanese American Student Association
@@ -33,3 +33,4 @@ HOLD: name-collision — "TASA" in the TAH story corpus denotes the **Taiwanese 
 <!-- deepen-x 09221300-10: re-verify — fresh grep again returns only ITASA-cluster records already noted. Corpus-wide 'Vanderbilt' mentions are unrelated (a Houston teacher bio in ourjourneys298; Miss Louisiana Justine Ker in justineker). Still no Vanderbilt TASA-chapter record. SKIP-deepen maintained. -->
 <!-- deepen-x 09230700-15: re-verify — fresh TASA grep returns the same Seniors-Association + ITASA-cluster records already in the HOLD above (ourjourneys173-eng, ourjourneys157, history-of-itasa, 578, newsletter-itasa, seniors-association page); broad 台美/台灣同鄉聯合會 matches are unrelated org titles. Still no Vanderbilt-chapter record. SKIP-deepen maintained. -->
 <!-- deepen-x 09240700-9: re-verify — fresh TASA grep returns the same Seniors/ITASA-cluster records already in the HOLD, plus 176. In Memory of My Son Keimay Yang (Agnes Wu) — an ITASA-supporter memoir, no Vanderbilt fact. Still no Vanderbilt-chapter record. SKIP-deepen maintained. -->
+<!-- deepen-x 09251000-2: re-verify — fresh TASA grep returns the same Seniors-Association records (ourjourneys173/157/356, 78 photo-albums, 通訊月刊 newsletter) and ITASA-cluster records already in the HOLD; from-east-to-west-with-wong-fu-productions mentions ITASA chapters only. Still no Vanderbilt-chapter record. SKIP-deepen maintained. -->
