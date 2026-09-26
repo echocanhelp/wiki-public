@@ -85,3 +85,5 @@ Accomplishment
 
 ## Corpus recheck (deepen-x slice 09142319-2, 2026-09-15)
 - 語料庫重檢（works/articles）：命中 #19、#970、#71 收藏、#55 中興大學傑出校友、#36 布袋戲偶、#643 悼文——皆已於上文收錄連結，且均為書目級紀錄（全文留原站），無新社群事實可吸收 — SKIP-with-reason。
+
+<!-- TJJ-A09251400-9: verified 2026-09-26 — subject links in slice 09251400-9 articles re-checked vs 正文; all real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->

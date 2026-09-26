@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Shih-han Erika Chiu (邱詩涵)
 
@@ -58,3 +58,4 @@ _No filled family fields on the TAH profile._
 - 複核（deepen-x slice-09221500-6, 2026-09-23）：re-grep 邱詩涵|Shih-han 命中集不變（僅本人書目 #245、#502＋index）— SKIP-with-reason（飽和），無新材料。
 - 複核（deepen-x slice-09230900-4, 2026-09-24）：re-grep 邱詩涵|Shih-han 命中集不變（僅本人書目 #245、#502＋index）— SKIP-with-reason（飽和），無新回憶錄/社群材料可吸收。
 - 覆核（deepen-x slice-09230900-4 rerun, 2026-09-25）：re-grep 命中集不變（僅 #245、#502＋index）— SKIP-with-reason（飽和），無新材料。
+- 覆核（deepen-x slice-09251417-1, 2026-09-26）：fresh grep 邱詩涵|Shih-han 命中集不變（僅本人書目 #245、#502＋index）— SKIP-with-reason（飽和），無新材料。

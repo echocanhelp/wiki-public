@@ -98,3 +98,5 @@ _No filled family fields on the TAH profile._
 
 - All cited vault pages verified present: [[works/taiwaneseamericanhistory-org/whoswho1324||#1324 Who's Who]], [[works/taiwaneseamericanhistory-org/photo-albums-historical-19||#19]], [[works/taiwaneseamericanhistory-org/milestones14||Milestones #14]], the #142/#89/#468 photo works, and both 刺蔣 depth sources above. The person-identity caveat (pediatrician vs 4/24刺蔣 黃文雄; ITPC's dermatologist 黃文雄 likely a third person) remains unresolved in the vault source set — `verification_status` stays pending; no new in-vault facts to absorb.
 
+
+<!-- TJJ-A09251400-9: verified 2026-09-26 — subject links in slice 09251400-9 articles re-checked vs 正文; all real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
