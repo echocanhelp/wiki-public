@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # C. N. Chen (陳建南)
 
@@ -50,3 +50,4 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- **deepen-x re-grep 2026-09-26 (slice 09251023-14):** fresh grep returns identical hit set (ourjourneys-138, ourjourneys107, ourjourneys217, whoswho1770, index) — verified-saturated, nothing new absorbable.
