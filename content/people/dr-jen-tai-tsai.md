@@ -58,3 +58,5 @@ Accomplishment
 複核（deepen-x 2026-09-24, slice 09230400-12）：corpus re-grep（蔡仁泰 / Jen-Tai Tsai）命中集合不變（ourjourneys59/65/65-eng、senior-taiwanese-american-29、184、whos-who-2033），全數已吸收並 wikilink。SKIP-with-reason（saturated）。
 
 複核（deepen-x 2026-09-25, slice 09240317-21）：fresh ZH+EN re-grep（蔡仁泰 / Jen-Tai Tsai）命中集合不變（ourjourneys59/65/65-eng、senior-taiwanese-american-29、184、whos-who-2033），全數已吸收並 wikilink。SKIP-with-reason（saturated）。
+
+複核（deepen-x 2026-09-25, slice 09250700-20）：fresh ZH+EN re-grep 命中集合不變（ourjourneys59/65/65-eng、senior-taiwanese-american-29、184、whos-who-2033、works index），全數已吸收並 wikilink。SKIP-with-reason（saturated）。

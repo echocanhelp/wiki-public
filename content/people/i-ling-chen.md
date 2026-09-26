@@ -58,3 +58,4 @@ _No filled family fields on the TAH profile._
 - Re-verified 2026-09-23 (slice 09220900-11): SKIP-with-reason — hit set unchanged (TAH #3, #748 only); no memoir or event mention of 陳奕伶; nothing further absorbable.
 - Re-verified 2026-09-24 (slice 09230400-9): SKIP-with-reason — hit set unchanged (own TAH profiles #3, #748 + works index only); no memoir or event mention; saturated.
 - Re-verified 2026-09-25 (slice 09240317-18): SKIP-with-reason — hit set unchanged (own TAH profiles #3, #748 + works index only); no memoir or event mention; saturated.
+- Re-verified 2026-09-25 (slice 09250700-20): SKIP-with-reason — hit set unchanged (TAH #3, #748, works index); no memoir or event mention of 陳奕伶; nothing further absorbable.

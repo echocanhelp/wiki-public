@@ -63,3 +63,5 @@ Corpus re-grep 2026-09-20 / 2026-09-21 / 2026-09-22 / 2026-09-24 (slice 09181500
 
 ## Network
 - [[organizations/presbyterian-church-in-taiwan||PCT]] — TAH Who’s Who
+
+Re-grep (deepen-x 2026-09-25, slice 09250700-20): fresh ZH+EN re-grep hit set unchanged (Our Journeys #257, Who's Who #214, feature #268, works index), all already absorbed and wikilinked. SKIP-with-reason (saturated).
