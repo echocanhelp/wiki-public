@@ -23,6 +23,8 @@ last_reviewed: 2026-08-30
 
 ## From the record
 
+- 複核（TJJ-A09251500-1, 2026-09-26）：本 slice 文章 [[articles/taiwanjustice-net/2024/20240622135632_root_54dd66fe454bf899|54dd66fe]]（以立合唱團 Mayfield 校園文化交流）正文再驗證——本人為撰稿作者（frontmatter authors + ◎ 署名）確認屬實，author／subject 連結為真，無錯鏈、無虛鏈；含該文 wikilink 的 2024-05-13 日期條目已在庫 — SKIP，無新材料。
+
 - 複核（TJJ-A09251400-4, 2026-09-26）：本 slice 文章 9412105875987041（以立合唱團 Mayfield 校園文化交流） 正文再驗證——本人為撰稿作者（frontmatter authors + ◎ 署名）確認屬實，author 連結為真，subject 連結為真，無錯鏈、無虛鏈；對應日期事實條目（含該文 wikilink）已在庫 — SKIP，已飽和。
 
 - 複核（TJJ-A09240900-1, 2026-09-25）：本切片四篇（54dd66fe／2589c867／cc3bbdbf／6d16f9e3）正文再驗證——54dd66fe454bf899（以立合唱團 Mayfield 校園交流）本人為撰稿作者（frontmatter authors + ◎ 署名）確認屬實，author 連結為真、無虛鏈；另三篇無涉本人。2024-05-13 條目（已含該檔 wikilink）已在庫 — SKIP，無新材料。

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Chee-Hway Tsai (蔡啟輝)
 
@@ -54,3 +54,4 @@ _No filled family fields on the TAH profile._
 - Re-grep 2026-09-23 (slice 09221000-30) / 2026-09-25 (slice 09230900-24): hits remain own record #1942 + works index only — SKIP-deepen re-confirmed, no community/movement material in vault.
 - SKIP-deepen note: only absorbable corpus material was the profile work record (absorbed above); corpus re-greps 2026-09-20 and 2026-09-21 (slice 09201500-19) re-confirm no memoir or community text (hits: own record + works/index only), nothing invented.
 - Re-grep 2026-09-25 (slice 09250400-5): hits remain own record #1942 + works index only — SKIP-deepen re-confirmed, no new community material.
+<!-- deepen-x slice 09252123-4 (2026-09-26): re-verified — fresh ZH+EN grep of works/ + articles/ returns only own already-linked records + works/index rollup; saturated, nothing absorbable; no conflicts. -->

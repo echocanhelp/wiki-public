@@ -38,6 +38,8 @@ _No filled family fields on the TAH profile._
 
 ## From the record
 
+- 複核（TJJ-A09251500-1, 2026-09-26）：本 slice 文章 [[articles/taiwanjustice-net/2024/20240522043642_root_cc3bbdbfc662fe66|cc3bbdbf]] 正文再驗證——陳西園老師擔綱舞蹈指導確認見於正文，subject 連結為真，無錯鏈、無虛鏈；含該文 wikilink 的 2016-06-14 條目已在庫 — SKIP，無新材料。
+
 - 覆核（TJJ-A09251400-5, 2026-09-26）：slice 文章 735744492226b90c（2016台美小姐開訓記者會, 2016-06-14 刊）——陳西園擔綱舞蹈指導記述（與 TAH 頁舞蹈老師身分相符）再確認見於正文，連結為真，無錯鏈、無虛鏈；對應日期事實條目（已含該文 wikilink）已在庫 — SKIP，無新材料。
 - 複核（TJJ-A09251000-5, 2026-09-26）：本 slice 文章 79b5f26fdef89d22（2023台美小姐選拔賽報導） 正文再驗證——陳西園編排「望春風」開幕舞確認見於正文，subject 連結為真，無錯鏈、無虛鏈；對應日期事實條目（已掛該文 wikilink）已在庫 — SKIP，無新材料。
 

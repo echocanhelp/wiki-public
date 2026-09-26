@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Sophia Yen
 
@@ -54,3 +54,4 @@ _No filled family fields on the TAH profile._
 
 <!-- deepen-x slice 09231100-5 (2026-09-25): re-verified — fresh ZH+EN grep of works/ + articles/ returns only the records already linked/absorbed above (plus works/index rollup); no new memoir material; no conflicts resolved or added. -->
 <!-- deepen-x slice 09250400-7 (2026-09-25): re-verified — fresh ZH+EN grep of works/ + articles/ returns only whoswho990 + works/index; saturated, nothing absorbable. -->
+<!-- deepen-x slice 09252123-4 (2026-09-26): re-verified — fresh ZH+EN grep of works/ + articles/ returns only own already-linked records + works/index rollup; saturated, nothing absorbable; no conflicts. -->
