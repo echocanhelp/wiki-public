@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Dr. Ming-Daw Tsai (蔡明道博士)
 
@@ -61,3 +61,4 @@ _No filled family fields on the TAH profile._
 - SKIP: 再grep僅見本身TAH出處頁 whos-who-1839 及 works index，無回憶錄語料可吸收；維持2026-09-14複核結論。
 - SKIP 2026-09-25 (slice 09240400-5): fresh ZH+EN re-grep (蔡明道 / Ming-Daw Tsai) hit set identical — own source record whos-who-1839 + works index only; no memoir material absorbable. Verified-saturated.
 - SKIP 2026-09-25 (slice 09250700-30): fresh ZH+EN re-grep (蔡明道 / Ming-Daw Tsai) hit set identical — whos-who-1839 + works index only; nothing absorbable. Verified-saturated.
+- SKIP 2026-09-26 (slice 09260500-15): fresh ZH+EN re-grep (蔡明道 / Ming-Daw Tsai) hit set identical — whos-who-1839 + works index only; nothing absorbable. Verified-saturated.

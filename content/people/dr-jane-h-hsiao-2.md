@@ -57,3 +57,4 @@ _No filled family fields on the TAH profile._
 >Corpus re-scan 2026-09-25 (deepen-x slice 09240700-22): fresh grep — hit set unchanged, all hits already wikilinked with facts absorbed. SKIP-deepen; nothing new absorbable. (duplicate-person HOLD vs [[people/jane-h-hsiao]] stands.)
 
 > Corpus re-scan 2026-09-26 (deepen-x slice 09251000-10): fresh grep — hit set unchanged (85, whos-who-1465, ff346, mystories600, 684) + index, all already linked. SKIP-deepen; duplicate-person HOLD vs [[people/jane-h-hsiao]] stands.
+> Corpus re-scan 2026-09-26 (deepen-x slice 09260500-15): fresh ZH+EN grep — hit set unchanged (85, whos-who-1465, ff346, mystories600, 684) + index, all already linked. SKIP-deepen; duplicate-person HOLD vs [[people/jane-h-hsiao]] stands.
