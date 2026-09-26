@@ -56,6 +56,8 @@ _Corpus re-scan 2026-09-22: fresh grep works/articles returns the same hits (#12
 - 2026-09-25 語料複核（slice 09240600-15）：fresh grep hit set identical（123/123-eng/268/15、mystories486、whoswho18）— SKIP-with-reason, verified saturated.
 - 2026-09-26 語料複核（slice 09250900-15）：fresh grep（徐頌鵬／Sung-Peng Hsu）hit set identical（123/123-eng/268/15、mystories486、whoswho18），全部已收錄並掛鏈 — SKIP-with-reason, verified saturated.
 
+- 2026-09-26 語料複核（slice 09260400-3）：fresh grep 徐頌鵬／Sung-Peng Hsu（works+articles）hit set identical（OJ 123/123-eng/268/15、mystories486、whoswho18）— 全數已吸收掛鏈（1970 首屆夏令會宗教節目、1984 明州同鄉會會長、1992 夏令會講題、文化展「娘家」）。SKIP-with-reason, verified saturated.
+
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/sung-peng-hsu/)
 
