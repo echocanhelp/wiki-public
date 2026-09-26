@@ -39,6 +39,8 @@ last_reviewed: 2026-09-26
 - Corpus record: his TAH encyclopedia entry is held as [[works/taiwaneseamericanhistory-org/whos-who-1830-kenneth-ko|1830. Kenneth Ko 柯吉文]] (published 2017-08-09). No memoir or movement-activity material found elsewhere in the corpus.
 - A second TAH Who's Who page for his daughter [[works/taiwaneseamericanhistory-org/whos-who-1831-melody-ko|1831. Melody Ko 柯頌恩]] was published the same day, documenting the family's continuing presence in the community record.
 
+- Corpus re-scan 2026-09-26 (slice 31): fresh ZH+EN greps of works+articles returned hit sets identical to the records above (whos-who-1830 + daughter's 1831); no memoir or movement-activity material beyond the encyclopedia record.
+
 ## Sources
 - [TAH #1830 encyclopedia: 1830. Kenneth Ko 柯吉文](https://taiwaneseamericanhistory.org/whos-who-1830-kenneth-ko/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/kenneth-ko/)

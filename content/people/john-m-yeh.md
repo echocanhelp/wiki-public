@@ -44,6 +44,8 @@ last_reviewed: 2026-09-26
 
 Corpus source: [[works/taiwaneseamericanhistory-org/ourjourney-343|Our Journey — Austin Taiwanese church]] (written 2014); profile record [[works/taiwaneseamericanhistory-org/whoswho941|941. John M. Yeh 葉明翰 / 2016/04]].
 
+- Corpus re-scan 2026-09-26 (slice 31): fresh ZH+EN greps of works+articles returned hit sets identical to the records above (whoswho941, Our Journey 343); no new material, no conflicts.
+
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/john-m-yeh/)
 

@@ -38,6 +38,8 @@ _No filled family fields on the TAH profile._
 - 2018-07-20: named among 國立台灣大學校友 who signed the 南加州台大校友會 open letter protesting the invitation of 管中閔 to give a keynote at the association's annual meeting (taiwanjustice.net archive article, signed as 黃健造(藥學)). HOLD: same-person identity with the UT-Houston biomedical Ph.D. profile inferred from name + pharmacy/science background, not yet confirmed.
 - Corpus re-scan 2026-09-25 (slice 18): fresh ZH+EN greps of works+articles returned hit sets identical to prior deepens (the two works pages above + the taiwanjustice.net open letter + works index); no new material, no conflicts.
 
+- Corpus re-scan 2026-09-26 (slice 31): fresh ZH+EN greps of works+articles returned hit sets identical to prior deepens (159, 451 Lizard Rock, the taiwanjustice.net open letter); no new material, no conflicts.
+
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-jen-tzaw-huang/)
 

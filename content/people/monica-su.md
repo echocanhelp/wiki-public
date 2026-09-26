@@ -48,3 +48,4 @@ _No filled family fields on the TAH profile._
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 <!-- deepen-x 09231300-32: re-verify — fresh ZH+EN grep of works/ + articles/: hit set unchanged (own record + already-absorbed works only); SKIP persists. -->
+<!-- deepen-x 09251023-29 (2026-09-26): re-verify — fresh -E grep (蘇千芳|Monica Su) hits only musician360, whoswho1266, index.md — both works already linked above; SKIP persists. -->
