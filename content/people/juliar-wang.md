@@ -38,6 +38,8 @@ Source from 美洲台灣日報http://taiwandaily.net/gp2.aspx?_p=kSF1c9zU9HS21FC
 
 ## From the record
 
+- 複核（TJJ-A09250400-6, 2026-09-26）：本 slice 文章 f454eda084b7ca99（園藝分類存檔頁, 2024-02-25 快照）正文再驗證——「多肉植物 succulent–謝秀緞 (Juliar Wang) 主講[影]」確認見於正文，subject 連結為真，無錯鏈、無虛鏈；2021-05-06 條目（已含該文 wikilink）已在庫 — SKIP，已飽和。
+
 - 複核（TJJ-A09230900-1, 2026-09-25）：本 slice 文章 f454eda084b7ca99（園藝分類存檔頁, 2024-02-25 快照）正文再驗證——「多肉植物 succulent–謝秀緞 (Juliar Wang) 主講[影]」確認見於正文，subject 連結為真，無錯鏈、無虛鏈；2021 講座日期條目（已含該文 wikilink）已在庫，講座日期 HOLD（2021-05-06 vs 2021-07-18）不變 — SKIP，已飽和。
 
 - 複核（TJJ-A09162345-15 / t_0c0e3cd1, 2026-09-24）：本 slice 文章 f454eda084b7ca99（園藝分類存檔頁, 2024-02-25 快照） 正文再驗證——subject 連結為真實提及，無錯鏈、無虛鏈；對應日期事實條目（含該文 wikilink）已在庫 — SKIP，已飽和。

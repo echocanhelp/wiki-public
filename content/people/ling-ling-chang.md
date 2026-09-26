@@ -58,6 +58,8 @@ _Corpus re-grep 2026-09-25 (DEEPEN-X slice 09240600-1): fresh ZH+EN grep of work
 
 ## From the record
 
+- 複核（TJJ-A09250400-6, 2026-09-26）：本 slice 文章 f51d2ebb674cbdd3（English Pages 分類存檔頁 p13, 2024-05-22 快照）正文再驗證——「加州史上首位女性台美人州參議員張玲玲宣誓就職 / Ling Ling Chang Takes Oath…」確認見於正文，subject 連結為真，無錯鏈、無虛鏈；2018-06-25 條目（已含該文 wikilink）已在庫；張齡玲 vs 張玲玲 HOLD 不變 — SKIP，已飽和。
+
 - 複核（TJJ-A09231000-4, 2026-09-25）：本 slice 文章 c351c962b4545bfa / c92664485ca4c1a7 正文再驗證——「加州史上首位女性台美人州參議員張玲玲宣誓就職 / Ling Ling Chang Takes Oath…」標題確認見於正文，subject 連結為真，無錯鏈、無虛鏈；對應日期事實（含該文 wikilink）已在庫 — SKIP，已飽和。[[articles/taiwanjustice-net/2020/20200626022615_category_english-pages_page_2_c351c962b4545bfa|TJJ c351c962]]、[[articles/taiwanjustice-net/2020/20200629063835_category_english-pages_page_3_c92664485ca4c1a7|TJJ c9266448]]
 
 - 複核（TJJ-A09230900-1, 2026-09-25）：本 slice 文章 f51d2ebb674cbdd3（English Pages 分類存檔頁 p13, 2024-05-21 快照）正文再驗證——「加州史上首位女性台美人州參議員張玲玲宣誓就職 / Ling Ling Chang Takes Oath…」確認見於正文，subject 連結為真，無錯鏈、無虛鏈；2018-06-25 條目（已含該文 wikilink）已在庫；張齡玲 vs 張玲玲 HOLD 不變 — SKIP，已飽和。
