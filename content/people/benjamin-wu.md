@@ -34,6 +34,7 @@ last_reviewed: 2026-09-26
 ## Role in the Community
 
 - Featured in the TAH Foundation story/Who's Who corpus: entry 301, published 2015-02-15 — [[works/taiwaneseamericanhistory-org/11028|301. Benjamin Wu 吳旭淳 / 2015/02]]. The record is held as bibliography only and no other memoir or article in the corpus names him; the government career facts above come from the TAH directory tables. (Re-grepped 2026-09-21 deepen-x 09210051-18 and 2026-09-25 deepen-x-27: still no corpus material beyond the own-profile record; SKIP.)
+- Re-grepped 2026-09-26 (slice 09251047-31): 吳旭淳/Benjamin Wu hits limited to own record 11028 + works index — SKIP, nothing absorbable.
 
 ## Family
 

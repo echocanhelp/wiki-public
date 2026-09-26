@@ -41,6 +41,7 @@ _No filled family fields on the TAH profile._
 Corpus presence is limited to his TAH Who's Who bibliographic record — re-grepped 2026-09-21 and again 2026-09-25 (陳垣崇 / Yuan-Tsong) against content/works and content/articles (SKIP: no memoir or article mentions found beyond it):
 
 - [[works/taiwaneseamericanhistory-org/whoswho951|TAH #951 Who's Who record 陳垣崇]] (2016/04)
+- Re-grepped 2026-09-26 (slice 09251047-31): 陳垣崇/Yuan-Tsong Chen hits limited to own record whoswho951 + works index — SKIP.
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/yuan-tsong-chen/)
