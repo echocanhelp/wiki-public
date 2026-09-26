@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Isaiah Lee (李宗派教授)
 
@@ -58,3 +58,4 @@ _No filled family fields on the TAH profile._
 
 slice 09240317-23 re-grep (2026-09-25): fresh ZH+EN corpus grep; hit set identical to links already absorbed above — no new absorbable facts. SKIP: verified-saturated.
 - Re-verified 2026-09-25 (deepen-x slice 09250700-24): fresh ZH+EN corpus re-grep returned the identical hit set already absorbed and wikilinked above — no new community facts, no conflicts. SKIP: verified-saturated.
+- Re-verified 2026-09-26 (deepen-x slice 09260400-30): fresh ZH+EN corpus re-grep (李宗派／Isaiah Lee／Chung-Pai Lee) hit set identical (ourjourneys186/231/107 + -eng copies + story 346 + 597 現代老人學) — no new corpus facts, no conflicts. SKIP: verified-saturated.

@@ -40,6 +40,7 @@ Beatrice Long 隆信真 is a top prize winner in several international competiti
 
 - Corpus re-grep 2026-09-25 (slice 09240700-10)（隆信真／Beatrice Long）：命中仍僅書目紀錄 TAH #1774、#420 與 works index；無回憶錄敘述可吸收；隆愛真姊妹案維持 HOLD。Verified-saturated SKIP。
 - Corpus re-grep 2026-09-26 (slice 09250900-32)（隆信真／Beatrice Long）：命中仍僅書目紀錄 TAH #1774、#420 與 works index；無回憶錄敘述可吸收；隆愛真姊妹案維持 HOLD。Verified-saturated SKIP。
+- Corpus re-grep 2026-09-26 (slice 09260400-30)（隆信真／Beatrice Long）：命中仍僅書目紀錄 TAH #1774、#420 與 works index；無回憶錄敘述可吸收；隆愛真姊妹案維持 HOLD。Verified-saturated SKIP。
 ## Family
 
 - **Mother:** 卓靜純
