@@ -28,6 +28,7 @@ The Taiwanese American Pen Club (TAPC) is a literary organization founded in 199
 - The TAH directory entry itself is archived in-corpus: [[works/taiwaneseamericanhistory-org/taiwanese-american-pen-club-la|TAH organization archive: TAPC LA]].
 - 複核（deepen-x 2026-09-20 / 2026-09-22 / 0923 slice-2）：corpus re-grep（台美人筆會 / Taiwanese American Pen Club，works+articles）命中集合不變（台美文藝系列 #80/#82/#333/#1365、#216 首任會長、目录存檔頁），全數已吸收並 wikilink — 無新增社群材料。
 - 再複核（slice 09231000-3，2026-09-25）：fresh grep 台美人筆會|Taiwanese American Pen Club — 命中集不變（#216、#80、#1365、#333、#82、目录存檔頁），全部已連結，無新增可吸收材料。SKIP。
+- 再複核（slice 09251417-1，2026-09-26）：fresh grep 台美人筆會|Taiwanese American Pen Club — 命中集不變（#216、#80、#82、#333、#1365、目录存檔頁），全部已連結，無新增可吸收材料。SKIP。
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-american-pen-club-la/)
