@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Beatrice Long (隆信真)
 
@@ -39,6 +39,7 @@ Beatrice Long 隆信真 is a top prize winner in several international competiti
 - 2026-09-22（slice 09220500-9）語料再grep（隆信真／Beatrice Long）：命中僅本身兩筆書目紀錄 [[works/taiwaneseamericanhistory-org/whos-who-1774-beatrice-long|TAH #1774]]、[[works/taiwaneseamericanhistory-org/musician420|TAH #420]] 與 works index；無回憶錄敘述可吸收。姊妹 HOLD 案（隆愛真）本輪語料無新來源，維持 HOLD。SKIP-content（verified-saturated）。
 
 - Corpus re-grep 2026-09-25 (slice 09240700-10)（隆信真／Beatrice Long）：命中仍僅書目紀錄 TAH #1774、#420 與 works index；無回憶錄敘述可吸收；隆愛真姊妹案維持 HOLD。Verified-saturated SKIP。
+- Corpus re-grep 2026-09-26 (slice 09250900-32)（隆信真／Beatrice Long）：命中仍僅書目紀錄 TAH #1774、#420 與 works index；無回憶錄敘述可吸收；隆愛真姊妹案維持 HOLD。Verified-saturated SKIP。
 ## Family
 
 - **Mother:** 卓靜純
