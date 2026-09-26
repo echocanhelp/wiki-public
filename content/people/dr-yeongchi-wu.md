@@ -51,3 +51,5 @@ _No filled family fields on the TAH profile._
 - 覆核（TJJ-A09231000-7, 2026-09-25）：本 slice 文章 14114a89（陳東榮醫師麻醉演講心得報告, 2024-06-14 存檔）正文再驗證——本頁「普世醫學」條即掛該文 wikilink，連結為真，無錯鏈、無虛鏈 — SKIP，已飽和。
 
 - 複核（deepen-x 2026-09-25 slice 09240317-9）: fresh ZH+EN re-grep（吳永吉 / Yeongchi Wu）命中集不變（records 67/125/126、whos-who-122、ourjourneys 256/291、Exit 訪談、陳東榮文）, 全部已 wikilink 吸收 (saturated, SKIP)
+
+- 複核（deepen-x slice 09250700-5, 2026-09-25）: fresh ZH+EN re-grep（works+articles）hit set identical to prior deepen records — all hits already absorbed/wikilinked; SKIP: verified-saturated, no new corpus material.
