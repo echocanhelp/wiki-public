@@ -54,3 +54,5 @@ last_reviewed: 2026-09-26
 > Re-verified 2026-09-25 (slice 09231000-31): fresh grep returns only whos-who-1806 plus index rows — no new absorbable corpus material.
 
 > Re-verified 2026-09-25 (slice 09250400-26): fresh ZH+EN grep returns only whos-who-1806 plus index rows — verified-saturated, nothing new absorbable.
+
+> Re-verified 2026-09-26 (slice 09252123-23): fresh ZH+EN grep returns only [[works/taiwaneseamericanhistory-org/whos-who-1806-lisa-peng|whos-who-1806]] plus index rows — verified-saturated, nothing new absorbable.

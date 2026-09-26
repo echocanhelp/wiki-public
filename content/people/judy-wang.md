@@ -40,6 +40,7 @@ _No filled family fields on the TAH profile._
 - Corpus re-check 2026-09-21, again 2026-09-22 (slices incl. 28): record #150's vault copy carries bibliographic metadata only (full text stays at the source), and no other work in `content/works`/`content/articles` names 王瑞婉 — the corpus currently offers no evidence to resolve or dismiss the identification above.
 - Corpus re-check 2026-09-25 (slice -22): hits remain #1918, #150 (Taitzer and Judy Wang), and index only; no text names 王瑞婉 beyond the Who's Who record — the #150 identification stays on HOLD.
 - 語料複核（deepen-x 09250400-30, 2026-09-25）：再檢 content/works + content/articles（中英雙查），命中集仍為 #1918、#150 與 index，無新增可吸收材料；#150 身分持續 HOLD。Verified-saturated.
+- 語料複核（deepen-x 09252123-23, 2026-09-26）：再檢 content/works + content/articles（中英雙查），命中集仍為 #1918、#150（[[works/taiwaneseamericanhistory-org/150-e7-8e-8b-e6-b3-b0-e6-be-a4-e5-a4-ab-e5-a9-a6-taitzer-and-judy-wang-the-first|Taitzer and Judy Wang]]）與 index，無新增可吸收材料；#150 身分持續 HOLD。Verified-saturated.
 
 ## Sources
 - [TAH #1918 encyclopedia: 1918. Judy Wang 王瑞婉](https://taiwaneseamericanhistory.org/whos-who-1918-judy-wang/)
