@@ -48,6 +48,7 @@ last_reviewed: 2026-09-26
 
 - Corpus re-scan 2026-09-25 (slice 09240700-10): fresh ZH+EN greps (蔡嘉寅／C. Y. Tsai) returned the same five work hits (#603, ourjourneys69/-eng, ourjourneys107, ourjourneys47 + index); memoir passages re-checked (founding 16 at Chicago 1980-02-16, General Director slate, 2nd president from 1981-08-01, 1990 D.C. prep meeting, May 1990 Taiwan invitation tour) — all absorbed, nothing new. Verified-saturated SKIP.
 - Corpus re-scan 2026-09-26 (slice 09250900-24): fresh ZH+EN grep returned the same five work hits (#603, ourjourneys69/-eng, ourjourneys107, ourjourneys47 + index) — all absorbed above. Verified-saturated SKIP; no new facts, no new conflicts.
+- Corpus re-scan 2026-09-26 (slice 09260400-15): fresh ZH+EN grep (蔡嘉寅 / C. Y. Tsai) returned the same five work hits — all absorbed above. Verified-saturated SKIP.
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/c-y-tsai/)
 

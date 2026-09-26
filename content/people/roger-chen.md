@@ -57,3 +57,4 @@ Chen appears in the TAHS/Taiwanese American History story corpus through two TAH
 
 Re-verified 2026-09-25 (slice 09240600-24): fresh ZH+EN grep of works/ + articles/ returned only records already linked and absorbed on this page; SKIP: verified-saturated, no new absorbable facts.
 Re-verified 2026-09-26 (slice 09250900-25): fresh ZH 陳正哲 + EN 'Roger Chen' grep returns only own TAH #235/#2185 records + works index; SKIP: verified-saturated, no new absorbable facts.
+Re-verified 2026-09-26 (slice 09260400-21): fresh ZH+EN grep returns only own TAH [[works/taiwaneseamericanhistory-org/ota-235|#235]] / [[works/taiwaneseamericanhistory-org/whos-who-2185-roger-chen|#2185]] records + works index; SKIP: verified-saturated, no memoir narrative to absorb.

@@ -31,6 +31,7 @@ last_reviewed: 2026-09-26
 - 2026-09-24 re-grep (deepen-x 09230600-23): fresh ZH+EN grep (高雄中學校友 / 雄中雄女 / KHSAA) again returned the identical hit set — all already linked; no new facts, no new conflicts.
 - 2026-09-25 re-grep (deepen-x 09240600-29): fresh ZH+EN grep (高雄中學校友 / 雄中雄女 / KHSAA) again returned the identical hit set (us-kshs, sc-kh, enewsletters-khsaa, index, 2021 WHA statement + 2025 repost) — all already linked above; no new facts, no new conflicts. Verified-saturated.
 - 2026-09-26 re-grep (deepen-x 09250900-24): fresh ZH+EN grep again returned the identical hit set (us-kshs, sc-kh, enewsletters-khsaa, index, 2021 WHA statement + 2025 repost) — all already linked above; no new facts, no new conflicts. Verified-saturated.
+- 2026-09-26 re-grep (deepen-x 09260400-15): fresh ZH+EN grep (高雄中學校友 / 雄中雄女 / KHSAA) again returned the identical hit set — all already linked above; no new facts, no new conflicts. Verified-saturated.
 
 ## Source Notes
 
