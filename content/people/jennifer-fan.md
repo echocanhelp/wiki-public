@@ -36,6 +36,7 @@ last_reviewed: 2026-09-26
 
 - 2026-09-22 re-verified: fresh corpus grep (ZH+EN) over works/ and articles/ returned only this own TAH record page — no memoir/journal material to absorb beyond what is already recorded above.
 - 2026-09-25 re-verified: fresh ZH grep 方碧霞 returns only own whoswho968; EN 'Jennifer Fan' hits (senior-taiwanese-american-22, ourjourneys*, 738-…-fan, 1799-liang-shih-fan) are other people (范-surname pages) — SKIP, no false merge.
+- 2026-09-26 re-verified (slice 09251047-14): fresh ZH+EN grep (方碧霞 / Jennifer Fan) over works/ and articles/ returns only own whoswho968 record + works index — corpus-saturated, SKIP.
 ## Sources
 - [TAH #968 encyclopedia: 968. Jennifer Fan 方碧霞 / 2016/05](https://taiwaneseamericanhistory.org/whoswho968/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/jennifer-fan/)
