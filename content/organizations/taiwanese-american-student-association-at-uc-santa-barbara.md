@@ -31,6 +31,7 @@ HOLD: apart from the 2014 sponsorship credit (which names the group as "UCSB Tai
 - Re-grepped 2026-09-23 (slice 09221100-32): verified saturated — fresh grep surfaced only the already-cited Chuan Lyu chair record, the Anita Chang/Tongues of Heaven listing, plus ITASA (Intercollegiate Taiwanese American Student Association — a separate national body, not UCSB TASA) and unrelated Santa Barbara mentions. No new absorbable facts.
 - Re-grepped 2026-09-24 (slice 09230600-24): same hit set plus two 2025 taiwanjustice-net articles about UCSB's Center for Taiwan Studies "Made in Taiwan" storytelling project (CTS/MiT, dir. Sabine Frühstück / Silke Werth) — campus Taiwan-studies activity, no stated TASA involvement; not absorbable as org fact. SKIP: verified saturated.
 - Re-grepped 2026-09-25 (slice 09240600-22): same cluster (Chuan Lyu chair, Our Journeys 352, night market, Anita Chang listing) plus index/MANIFEST and one unrelated 2026 TJJ economy article mentioning Santa Barbara. Only direct TASA credit remains the 2014 "UCSB Taiwanese Student Assoc." co-sponsorship already linked. SKIP-deepen (saturated).
+- Re-grepped 2026-09-26 (slice 09250900-16): identical hit set (Chuan Lyu chair, OJ-352, night market, Anita Chang listing, index, one unrelated 2026 TJJ economy article). No new absorbable facts. SKIP (verified-saturated).
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-american-student-association-at-uc-santa-barbara/)

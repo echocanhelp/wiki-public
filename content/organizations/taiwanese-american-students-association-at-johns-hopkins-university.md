@@ -30,6 +30,7 @@ The Taiwanese American Students Association at Johns Hopkins University (jhuTASA
 
 - 2026-09-24 corpus re-grep (slice 09230600-12): fresh grep hits (OJ-138, night markets 2011/2013, Taste of Taiwan, three New Creatives profiles, Taliyah Huang interview) all absorbed in Timeline, no new facts. verified-saturated.
 - 2026-09-25 corpus re-grep (slice 09240600-15): hit set unchanged (OJ-138, index, night markets, New Creatives, BobaWay interview) — SKIP (verified-saturated).
+- 2026-09-26 corpus re-grep (slice 09250900-16): hit set unchanged (OJ-138, index, night markets 2011/2013, Taste of Taiwan, New Creatives, BobaWay interview) — SKIP (verified-saturated).
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-american-students-association-at-johns-hopkins-university/)

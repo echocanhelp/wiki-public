@@ -56,3 +56,4 @@ last_reviewed: 2026-09-26
 <!-- deepen-x slice 09221300-2 re-verify 2026-09-23: fresh grep — same hit set; 20240302 taiwanjustice hit has no 楊茂嘉/Walter mention (title-phrase match only), all real hits already absorbed; no new absorbable facts -->
 <!-- deepen-x slice 09230700-2 re-verify 2026-09-24: fresh grep 楊茂嘉/Walter M. Yang — same hit set (awards-92, 401, ourjourneys275, pew statement, taiwanjustice 2018 管中閔 report); Northwestern memoir excerpt re-read, already absorbed via ourjourneys275 line; no new absorbable facts -->
 <!-- deepen-x slice 09240600-19 re-verify 2026-09-25: fresh ZH+EN grep of works/+articles/ — hit set identical to material already absorbed; verified-saturated, no new absorbable facts -->
+<!-- deepen-x slice 09250900-18 re-verify 2026-09-26: fresh ZH+EN grep — hit set identical (awards-92, 401 profile, ourjourneys275, pew statement, taiwanjustice 2018 管中閔 report); verified-saturated, no new absorbable facts -->

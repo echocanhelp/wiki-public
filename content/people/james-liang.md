@@ -47,6 +47,7 @@ _No filled family fields on the TAH profile._
 - His encyclopedia memoir is held in the corpus at [[works/taiwaneseamericanhistory-org/194-james-liang|194. James Liang 梁政吉]].
 - 2026-09-25 (slice 09240700-4) idempotent re-verify: fresh grep 梁政吉/James Liang — hits limited to records already linked above (194, 727, ourjourneys186/186-eng, ourjourneys110/110-eng) + works index + 已引用之 TJJ WHA 聲明兩快照; no new absorbable facts. Verified-saturated SKIP.
 - 2026-09-24 (slice 09230700-10) idempotent re-verify: fresh grep 梁政吉/James Liang — hits limited to records already linked above (194, 727, ourjourneys186/186-eng, ourjourneys110/110-eng) + works index; no new absorbable facts. Verified-saturated SKIP.
+- 2026-09-26 (slice 09250900-16) idempotent re-verify: fresh grep 梁政吉/James Liang of works/+articles/ — identical hit set (194, 727, ourjourneys186/186-eng, ourjourneys110/110-eng); no new corpus facts. SKIP (verified-saturated).
 
 ## Sources
 - [TAH #194 encyclopedia: 194. James Liang 梁政吉](https://taiwaneseamericanhistory.org/194-james-liang/)

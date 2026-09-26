@@ -61,3 +61,4 @@ _No filled family fields on the TAH profile._
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - 2026-09-24 (deepen-x slice 09230600-26): fresh ZH+EN re-grep of works/+articles/ — hit-set identical to material already absorbed above. SKIP-content: verified-saturated; HOLDs unchanged.
 <!-- deepen-x slice 09240600-19 re-verify 2026-09-25: fresh ZH+EN grep of works/+articles/ — hit set identical to material already absorbed; verified-saturated, no new absorbable facts -->
+<!-- deepen-x slice 09250900-18 re-verify 2026-09-26: fresh ZH+EN grep — hit set identical (OJ 142, OJ 209, disputes5, law4, TAH #265 profile); verified-saturated, HOLDs unchanged -->

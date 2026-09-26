@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Dr. Tsann-Wang Yu (余燦旺博士)
 
@@ -35,7 +35,7 @@ _No filled family fields on the TAH profile._
 
 ## Role in the Community
 
-- Early participant in the Austin, Texas Taiwanese student movement: per the community memoir [[works/taiwaneseamericanhistory-org/ourjourneys76|Our Journeys — 吳木盛與奧斯汀台灣學生活動]], 吳木盛 deliberately invited 余燦旺, 楊正義, 李隼三, 邱忠南, 吳勝吉, 陳國洸, 洪堯本, 江慶章, 林峰生 and 盧肇基 to dinner at his home to build ties among Taiwanese students in what was then a KMT stronghold; the weekend gatherings at the 吳家 («話仙», often until midnight) became the first regular Taiwanese student meetings in Austin and led to the founding of the Austin 台灣同鄉會 with 吳木盛 as first president.
+- Early participant in the Austin, Texas Taiwanese student movement: per the community memoir [[works/taiwaneseamericanhistory-org/ourjourneys76|Our Journeys — 吳木盛與奧斯汀台灣學生活動]], 吳木盛 deliberately invited 余燦旺, 楊正義, 李隼三, 邱忠南, 吳勝吉, 陳國洸, 洪堯本, 江慶章, 林峰生 and 盧肇基 to dinner at his home to build ties among Taiwanese students in what was then a KMT stronghold; the weekend gatherings at the 吳家 («話仙», often until midnight) became the first regular Taiwanese student meetings in Austin and led to the founding of the Austin 台灣同鄉會 with 吳木盛 as first president. Per the same memoir, in early 1970 the group began monthly 郊遊 outings (each organized in rotation by a volunteer) before deciding to formalize the 同鄉會, and 吳木盛 accepted the presidency without hesitation when asked (「不敢推辭，毫不猶疑地答應」).
 - Signatory of the July 2018 statement by NTU alumni protesting the Southern California NTU Alumni Association's invitation of 管中閔 to its annual meeting, listed as 余燦旺(氣象): [[articles/taiwanjustice-net/2018/20180721091303_2018_07_20_抗議-南加州台大校友會邀管中閔來年會做專題演講_a428dcebbceacf38|台大校友嚴正抗議聲明 (Taiwan Justice, 2018-07-21)]] — community-side corroboration of his atmospheric-sciences specialty.
 - Own TAH Who’s Who entry preserved in the corpus: [[works/taiwaneseamericanhistory-org/whos-who-1700-tsann-wang-yu|1700. Dr. Tsann-Wang Yu 余燦旺博士]] (published 2017-06-28).
 - Corpus re-verify (deepen-x 09210700-25): the Austin memoir exists in the corpus in both Chinese and English editions; the English record [[works/taiwaneseamericanhistory-org/ourjourneys76-eng|Our Journeys 76-eng]] names him as "Tsann-wang Yu" among the students 吳木盛 recruited, corroborating the ZH account already cited above. No new facts beyond this link; no conflicts to HOLD.

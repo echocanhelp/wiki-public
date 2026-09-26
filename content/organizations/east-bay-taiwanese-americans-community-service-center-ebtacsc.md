@@ -35,3 +35,4 @@ The East Bay Taiwanese Americans Community Service Center (EBTACSC) is a nonprof
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 <!-- deepen-x slice 09240600-19 re-verify 2026-09-25: fresh ZH+EN grep of works/+articles/ — hit set identical to material already absorbed; verified-saturated, no new absorbable facts -->
+<!-- deepen-x slice 09250900-18 re-verify 2026-09-26: fresh ZH+EN grep — hit set identical (OJ 335, senior-ebtacsc, "What Are You?" identity essay, index); verified-saturated, no new absorbable facts -->
