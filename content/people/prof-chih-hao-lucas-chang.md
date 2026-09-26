@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Prof. Chih-Hao Lucas Chang (張志豪教授)
 
@@ -46,4 +46,4 @@ _No filled family fields on the TAH profile._
 - Documented in the TAH story corpus as encyclopedia record #2125 ([[works/taiwaneseamericanhistory-org/whos-who-2125-chih-hao-chang|2125. Prof. Chih-Hao (Lucas) Chang 張志豪教授]], published 2018-06-07) — his community-record footprint is the TAH Who's Who profile itself; no memoir or event material found in the corpus.
 <!-- deepen-x slice 09231100-6 (2026-09-25): SKIP re-verified — corpus re-grep (張志豪/Chih-Hao/Lucas Chang) over works/+articles/ returns no new records; homonym politician articles absent; verified saturated. -->
 <!-- deepen-x slice 09250400-18 (2026-09-25): SKIP re-verified — re-grep returns only own TAH #2125 record + index plus the 4 known homonym-politician TJJ articles (萊豬停權/賴清德初選/中正萬華/林佳龍選情, 張志豪=DPP 中評委); no new US-researcher material; saturated. -->
-- Disambiguation: the 張志豪 appearing in TJJ/CNA coverage of DPP 中評會 disciplinary votes and 新北市議員 elections (2021–2023) is a homonymous Taiwan-based politician (DPP 新聞部主任 / 中評委), NOT this US-based researcher. Re-greps 2026-09-20 (slice 09190400-17), 2026-09-21 (slice 09201503-2), 2026-09-22 (slice 09211507-10), and 2026-09-25 (slice 09250400-18, incl. a 2025-03 TJJ 民主大聯盟 report where 發言人張志豪 relays 賴清德's remarks — same politician) return only these homonym articles plus his own TAH record — verified-saturated, nothing absorbable. Do not absorb those articles here.
+- Disambiguation: the 張志豪 appearing in TJJ/CNA coverage of DPP 中評會 disciplinary votes and 新北市議員 elections (2021–2023) is a homonymous Taiwan-based politician (DPP 新聞部主任 / 中評委), NOT this US-based researcher. Re-greps 2026-09-20 (slice 09190400-17), 2026-09-21 (slice 09201503-2), 2026-09-22 (slice 09211507-10), and 2026-09-25 (slice 09250400-18, incl. a 2025-03 TJJ 民主大聯盟 report where 發言人張志豪 relays 賴清德's remarks — same politician) return only these homonym articles plus his own TAH record — verified-saturated, nothing absorbable. Do not absorb those articles here. Re-verified 2026-09-26 (slice 09252123-3): homonym set now 6 TJJ pieces (adds 2025-03-27 朱敬一報導 and 2025-03-28 初選制度報導, both quoting DPP 發言人 張志豪 — same politician); no US-researcher material; saturated.

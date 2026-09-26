@@ -44,6 +44,7 @@ last_reviewed: 2026-09-26
 - Corpus re-check (2026-09-21 slices 09191100-20 & 09210317-18; re-verified 2026-09-22 slice 09220600-17 and 2026-09-23 slice 09221500-17 — fresh grep returns only the same records): fresh grep across works + articles returns only the records already absorbed above (own encyclopedia entry #614, the ITPC 長青教室 program page [[works/taiwaneseamericanhistory-org/ourjourneys107|ourjourneys107]], and the works index) — no new community facts to absorb.
 <!-- deepen-x slice 09231000-26 re-grep 2026-09-25: fresh grep (林豐仁/Fong-Jen Lin) in works+articles returns only the records above; verified saturated. -->
 <!-- deepen-x slice 09250400-8 re-grep 2026-09-25: same hit set (#614, ourjourneys107, works index); SKIP — no new corpus facts. -->
+<!-- deepen-x slice 09252123-7 re-grep 2026-09-26: same hit set (#614, ourjourneys107, works index); SKIP — no new corpus facts. -->
 
 ## Sources
 - [TAH #614 encyclopedia: 614. Fong-Jen Lin 林豐仁 / 2015/09](https://taiwaneseamericanhistory.org/614-fong-jen-lin-%e6%9e%97%e8%b1%90%e4%bb%81-201509/)
