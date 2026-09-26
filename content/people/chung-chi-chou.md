@@ -56,3 +56,4 @@ _No filled family fields on the TAH profile._
 > Re-verified 2026-09-23 (deepen-x slice 09220900-28): corpus re-grep ZH+EN (+美溪/Wellbrook) against works/articles — hit set unchanged (wellbrook-foundation, mystories485, whoswho1406, index), all already linked above. No new absorbable corpus facts.
 > Re-verified 2026-09-24 (deepen-x slice 09230400-21): corpus re-grep ZH+EN (+美溪/Wellbrook) — hit set unchanged (mystories485, wellbrook-foundation, whoswho1406), all already linked above. No new absorbable facts.
 > Re-verified 2026-09-25 (deepen-x slice 09240400-8): fresh grep 周重吉/Chung Chi Chou over content/works + content/articles — no hits beyond the already-linked mystories485, whoswho1406, wellbrook-foundation. SKIP: verified saturated.
+> Re-verified 2026-09-25 (deepen-x slice 09250800-16): fresh grep 周重吉/Chung Chi Chou/美溪/Wellbrook — hit set unchanged (mystories485, whoswho1406, wellbrook-foundation). SKIP: verified saturated.

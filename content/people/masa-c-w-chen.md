@@ -53,3 +53,4 @@ The orchid years are documented in the community's own story corpus: [[works/tai
 - Re-check 2026-09-22 (slice 09211500-15): re-grep 陳正旺/Masa still returns only TAH #2294, mystories-765 and the harvest index — all already cited; section remains current.
 - Re-check 2026-09-24 (slice 09230400-14): fresh re-grep 陳正旺/Masa returns the same cited set (TAH #2294, mystories-765, harvest index); the extra raw hits ourjourneys74-eng and the 福岡滅門案 news article are 'Masao'/romanization false positives, not this person — verified saturated, no new material. SKIP-with-reason.
 - Re-grep 2026-09-25 (slice 09240317-29): same cited set (TAH #2294, mystories-765, works index) — SKIP, saturated; section remains current.
+- Re-grep 2026-09-25 (slice 09250800-18): fresh grep 陳正旺 / Masa C. W. Chen over works/ + articles/ returns the same cited set (TAH #2294, mystories-765, harvest index) — SKIP, verified saturated.
