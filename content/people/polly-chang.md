@@ -48,3 +48,4 @@ Heartland Institute Financial Education, CPP-College Planning Program
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+<!-- deepen-x recheck 2026-09-26 (slice 09251023-27): fresh ZH+EN grep of works/+articles/ — hit set identical to prior sweeps (own TAH record + index only; Julan: own works + 婦女信箱 roster already cited). No new absorbable material. SKIP stands. -->

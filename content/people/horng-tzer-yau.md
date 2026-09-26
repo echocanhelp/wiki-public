@@ -50,3 +50,4 @@ _No filled family fields on the TAH profile._
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 <!-- deepen-x recheck 2026-09-25 (slice 09231300-22): fresh ZH+EN grep — hit set identical (own TAH #1552 + works index). SKIP stands. -->
+<!-- deepen-x recheck 2026-09-26 (slice 09251023-27): fresh ZH+EN grep of works/+articles/ — hit set identical to prior sweeps (own TAH record + index only; Julan: own works + 婦女信箱 roster already cited). No new absorbable material. SKIP stands. -->
