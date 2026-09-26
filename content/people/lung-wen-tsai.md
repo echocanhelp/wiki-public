@@ -37,7 +37,7 @@ last_reviewed: 2026-09-25
 - Held in the Taiwanese American historical record as a TAH community story entry (#221, 2015/01) documenting an engineer-educator path from NTU through SUNY Buffalo and Stanford into GM, HP, and professorships at University of Maryland and UC Riverside.
 - Community archival record: [[works/taiwaneseamericanhistory-org/221-lung-wen-tsai-e8-94-a1-e9-9a-86-e6-96-87201501|221. Lung-Wen Tsai 蔡隆文/2015/01]] (published 2015-01-19), cross-referencing [[organizations/tah-foundation|TAH Foundation]].
 - Corpus record matches the education/employment lines above; no conflicts.
-- Re-grepped 2026-09-21 (deepen-x slices 31 and 09210317-25), 2026-09-22 (slice 28), , 2026-09-25 (slice 09231100-20), and 2026-09-25 (slice 09250600-5): corpus hits are only this page's own work record [[works/taiwaneseamericanhistory-org/221-lung-wen-tsai-e8-94-a1-e9-9a-86-e6-96-87201501|221. Lung-Wen Tsai 蔡隆文/2015/01]] and index lines; no memoir/articles mentions. SKIP content-deepen.
+- Re-grepped 2026-09-21 (deepen-x slices 31 and 09210317-25), 2026-09-22 (slice 28), 2026-09-25 (slice 09231100-20), and 2026-09-25 (slice 09250600-5): corpus hits are only this page's own work record [[works/taiwaneseamericanhistory-org/221-lung-wen-tsai-e8-94-a1-e9-9a-86-e6-96-87201501|221. Lung-Wen Tsai 蔡隆文/2015/01]] and index lines; no memoir/articles mentions. SKIP content-deepen.
 
 ## Family
 

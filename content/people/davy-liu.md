@@ -46,6 +46,7 @@ _No filled family fields on the TAH profile._
 
 <!-- deepen-x 09210831-29: re-verify 2026-09-22 — fresh grep 'Davy Liu|劉大偉': only own record whoswho1523 + index. Nothing new absorbable. -->
 <!-- deepen-x 09231300-1: re-verify 2026-09-25 — fresh grep 'Davy Liu|劉大偉' works/+articles/: hit set unchanged (own record whoswho1523 + index only). Still SKIP-with-reason. -->
+<!-- deepen-x 09250600-9: re-verify 2026-09-25 — fresh grep 'Davy Liu|劉大偉' works/+articles/: only own record whoswho1523 + index. SKIP-with-reason; no memoir/community text. -->
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

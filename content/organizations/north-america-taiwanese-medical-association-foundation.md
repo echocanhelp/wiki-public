@@ -36,7 +36,7 @@ The canonical page **[[organizations/north-american-taiwanese-medical-associatio
 
 ## Corpus records (deepen-x 2026-09-25, vault-only)
 
-Fresh ZH+EN grep found foundation-specific material not previously linked here; absorb into the canonical page when next touched:
+Fresh ZH+EN grep found foundation-specific material not previously linked here; **now absorbed into the canonical page (deepen-x 09250600-1, 2026-09-25)**:
 
 - [[works/taiwaneseamericanhistory-org/project-3-45-eng|45. 北美洲台灣人醫師協會基金會南加分會簡介 / History of NATMA Foundation / Daniel C. Hsu]] — Southern California chapter foundation history (era 2018).
 - [[works/taiwaneseamericanhistory-org/ourjourneys74-eng|Our Journeys 74]] — under President Kun T. Liao the NATMA Foundation created a scholarship sending second-generation Taiwanese doctors to internships at medical schools in Taiwan; charter amended to open membership to second-generation doctors.

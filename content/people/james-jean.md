@@ -35,7 +35,7 @@ _No filled family fields on the TAH profile._
 
 ## Role in the Community
 - Recorded in the TAH Foundation Who's Who corpus as a Taiwanese American visual artist (Taipei-born, 1979; SVA NYC 2001). Community corpus records naming him: [[works/taiwaneseamericanhistory-org/46-james-jean201505|TAH story #46, James Jean / 2015-05]] and [[works/taiwaneseamericanhistory-org/whoswho903|TAH Who's Who #993, James Jean / 2016-05]].
-- Corpus records are bibliographic stubs (band B, full text in vault) — no additional community/corpus facts absorbable beyond the two record entries above.
+- Corpus records are bibliographic stubs (band B, full text in vault) — no additional community/corpus facts absorbable beyond the two record entries above. Corpus re-grep 2026-09-25 (slice 09250600-4): hits limited to these two records + the works index — verified saturated.
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/james-jean/)
