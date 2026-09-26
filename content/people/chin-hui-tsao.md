@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Chin-Hui Tsao (曹錦輝)
 
@@ -34,6 +34,8 @@ Accomplishment
 ## Role in the Community
 
 _Re-verified 2026-09-25 (deepen-x slice 09231400-2): fresh ZH+EN grep returned only this page's own bibliographic record + works/index.md line; SKIP stands._
+
+_Re-verified 2026-09-26 (deepen-x slice 09251023-30): fresh ZH+EN grep (曹錦輝 / Chin-Hui Tsao) across works/ + articles/ returned zero corpus hits beyond this page's own bibliographic record. SKIP stands._
 
 _Corpus check 2026-09-21: the only text hit in the works/articles corpus is this page's own TAH bibliographic record [[works/taiwaneseamericanhistory-org/whos-who-1753-chin-hui-tsao|TAH #1753 (2017-07)]]; no memoir or movement material mentions 曹錦輝, so no community facts are absorbable. SKIP-with-reason recorded._
 

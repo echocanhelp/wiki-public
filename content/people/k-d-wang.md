@@ -27,6 +27,7 @@ K. D. Wang (王康德) is listed in the TAH Foundation Who’s Who Taiwanese Ame
 - 義工老師：紐約台灣會館老人中心（TASC）義工老師芳名錄收录，教授水墨畫等美術課程（據 2017-10 林炎誠記述）— [[works/taiwaneseamericanhistory-org/ourjourneys316|316. 紐約台灣會館老人中心]]
 - 自有 Who's Who 條目存於故事庫：[[works/taiwaneseamericanhistory-org/whos-who-1726-k-d-wang|1726. K. D. Wang 王康德]]（2017-07，書目性紀錄）
 - Re-verified 2026-09-22 and 2026-09-25 (slice 09231400-6): fresh corpus grep returns only these three records (publications-1372, ourjourneys316, whos-who-1726) plus index listings — all facts above already absorbed, nothing new; ourjourneys316 confirms him in the TASC 老人中心義工老師芳名錄 (水墨畫/美術), already linked.
+- Re-verified 2026-09-26 (deepen-x slice 09251023-29): fresh -E grep (王康德|K. D. Wang) returns the same hit set (publications-1372, ourjourneys316, whos-who-1726 + index.md) — saturated, nothing absorbable.
 
 ## Family
 

@@ -48,3 +48,4 @@ last_reviewed: 2026-09-26
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 <!-- deepen-x 09231300-32: re-verify — fresh ZH+EN grep of works/ + articles/: hit set unchanged (own record + already-absorbed works only); SKIP persists. -->
+<!-- deepen-x 09251023-29 (2026-09-26): re-verify — fresh -E grep (方森茂|Woody Fang|Sen Maw) hits only ourjourneys239, whos-sen-maw-woody-fang, index.md — both already absorbed above; SKIP persists. -->
