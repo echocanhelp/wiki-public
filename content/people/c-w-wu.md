@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # C. W. Wu (吳成文)
 
@@ -39,7 +39,7 @@ last_reviewed: 2026-09-25
 
 
 ## Role in the Community
-- Listed in the TAH Foundation Who's Who encyclopedia as entry #954, published 2016-04-24: [[works/taiwaneseamericanhistory-org/whoswho954|954. C. W. Wu 吳成文 / 2016/04]]. No other corpus mentions found in works/articles. Re-grep 2026-09-25 (slice 09232232-16): hits remain only this record and the works/index.md co-listing — SKIP-deepened this pass.
+- Listed in the TAH Foundation Who's Who encyclopedia as entry #954, published 2016-04-24: [[works/taiwaneseamericanhistory-org/whoswho954|954. C. W. Wu 吳成文 / 2016/04]]. No other corpus mentions found in works/articles. Re-grep 2026-09-25 (slice 09232232-16) and 2026-09-26 (slice 09251047-19): hits remain only this record and the works/index.md co-listing — SKIP.
 
 ## Sources
 - [TAH #954 encyclopedia: 954.  C. W. Wu 吳成文 / 2016/04](https://taiwaneseamericanhistory.org/whoswho954/)
