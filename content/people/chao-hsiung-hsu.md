@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Chao-Hsiung Hsu (許昭雄醫師)
 
@@ -48,3 +48,4 @@ last_reviewed: 2026-09-25
 
 <!-- DEEPEN-X SKIP 2026-09-21: corpus re-grep (許昭雄 / Chao-Hsiung Hsu, works+articles) returned only own TAHS #627 story record (band B, bibliographic) + index entry. No memoir/community records beyond existing Role section; nothing absorbable. -->
 <!-- DEEPEN-X SKIP 2026-09-25: corpus re-grep (許昭雄 / Chao-Hsiung Hsu, works+articles) again returned only own TAHS #627 record + index. Still nothing absorbable. -->
+<!-- DEEPEN-X SKIP 2026-09-26: corpus re-grep (許昭雄 / Chao-Hsiung Hsu, works+articles) again returned only own TAHS #627 record + index. Nothing absorbable. -->

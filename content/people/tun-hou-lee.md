@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Tun-Hou Lee (李敦厚)
 
@@ -46,3 +46,5 @@ Corpus review 2026-09-22, re-verified 2026-09-25 (deepen-x 09231500-2, fresh hit
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+<!-- DEEPEN-X SKIP 2026-09-26: corpus re-grep (李敦厚 / Tun-Hou Lee, works+articles) again returned only own TAH #773 record + index. Nothing absorbable. -->
