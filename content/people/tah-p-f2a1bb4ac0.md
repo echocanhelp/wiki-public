@@ -6,7 +6,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # 李玉琛醫師
 
@@ -51,3 +51,4 @@ last_reviewed: 2026-09-25
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+<!-- deepen-x 09251023-20: re-checked 2026-09-26 — fresh grep (-E, EN+ZH): hit set identical to prior saturation notes; nothing new absorbable. -->
