@@ -56,3 +56,4 @@ Dr. Virginia S. Shen 李香蘭教授 – History of Taiwanese American (T.A. Arc
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 <!-- deepen-x slice 09250900-18 re-verify 2026-09-26: fresh ZH+EN grep of works/+articles/ — hit set identical to material already absorbed (TAH #1947, OJ #279 singer-film mention, index); verified-saturated, no new absorbable facts -->
+<!-- deepen-x slice 09260400-4 re-verify 2026-09-26: fresh ZH+EN grep of works/+articles/ — hit set identical to material already absorbed (TAH #1947, OJ #279 singer-film mention — confirmed the WWII-singer documentary by 陳玫君, not this educator; index); verified-saturated, no new absorbable facts -->

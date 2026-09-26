@@ -70,3 +70,5 @@ slice 09230317-18 re-grep (2026-09-24, 許秀聰 / Martha Hsu / VanDriel): hit s
 slice 09240317-16 re-grep (2026-09-25, 許秀聰 / Martha Hsu / VanDriel): hit set identical (first-137, whoswho1070, works index, TAJS index article) — SKIP: verified-saturated; duplicate-page HOLD vs Martha VanDriel stands pending owner review.
 
 slice 09250700-16 re-grep (2026-09-25, 許秀聰 / Martha Hsu / VanDriel): hit set identical (first-137, whoswho1070, works index, TAJS index article) — SKIP: verified-saturated; duplicate-page HOLD vs Martha VanDriel stands pending owner review.
+
+slice 09260400-4 re-grep (2026-09-26, 許秀聰 / Martha Hsu / VanDriel): hit set identical (first-137, whoswho1070, works index, TAJS index article) — SKIP: verified-saturated; duplicate-page HOLD vs Martha VanDriel stands pending owner review.

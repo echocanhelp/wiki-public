@@ -41,7 +41,8 @@ Victor Hung is active in the Los Angeles Taiwanese American community both as pr
 ## Timeline
 - 2003 — released guitar music CDs (吉他介紹片; 台北捷運狂想曲), archived in the TAH encyclopedia
 - 2014 — profiled in the TAH encyclopedia (60. Victor Hung 洪家棟) and in 李品高's essay 「吉他家洪家棟」
-- 2024-06 — as 美國六桂宗親會 president, hosted 台灣攝影經典展—龍躍台南400年 at the LA Korean Cultural Center during Taiwanese American Heritage Week (corroborated: 6月1-2日, 洛僑中心 — [[articles/taiwanjustice-net/2025/20250617113511_2024年大洛杉磯台美人傳統週系列活動4-20登場_5-18園遊_b5215d0aa05ace35|TJJ, 2024傳統週系列活動]])
+- 2022-05-14~15 — as 美國六桂宗親會 president, hosted 「2022大洛杉磯台美人傳統週系列活動——美國加州登山越野攝影展」 at the 洛杉磯華僑文教中心; the show was his own photography — five years of California mountain/desert/rock scenery and Milky Way camping shots — shared with hikers and 鄉親 ([[articles/taiwanjustice-net/2022/20220519105743_2022_05_13_美國加州登山越野攝影展5月14-15日於洛僑中心展出_5702b6cdc12e8f54|TJJ, 2022登山越野攝影展]])
+- 2024-06 — as 美國六桂宗親會 president, hosted 台灣攝影經典展—龍躍台南400年 at the LA Korean Cultural Center during Taiwanese American Heritage Week (corroborated twice: 6月1-2日, 洛僑中心 — [[articles/taiwanjustice-net/2025/20250617113511_2024年大洛杉磯台美人傳統週系列活動4-20登場_5-18園遊_b5215d0aa05ace35|TJJ, 2024傳統週系列活動]] and [[articles/taiwanjustice-net/2024/20240429065124_root_55dbc6c8f41b2ad0|TJJ, 2024傳統週預告]])
 
 ## Corpus re-check
 - Re-check (deepen-x 2026-09-21): re-grep（洪家棟 / Victor Hung）hit set unchanged (TAH #521, #522, #104, #60, works index, TJJ 傳統週 record) — every hit already absorbed above; no new community material.
