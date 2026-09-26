@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # K. J. Ray Liu (劉國瑞)
 
@@ -35,6 +35,7 @@ last_reviewed: 2026-09-25
 - Recorded in the TAHS corpus as TAH Foundation Who's Who #948 (published 2016-04-24): [[works/taiwaneseamericanhistory-org/whoswho947|TAH #948 — K. J. Ray Liu 劉國瑞]]. The corpus record matches the TAH press-kit table (NTU 電機 1983, U-Michigan M.S., UCLA Ph.D. 1990, University of Maryland ECE professor, 電機系副系主任 from 2008); no additional community-organizing roles appear in the corpus.
 
 - deepen-x recheck 2026-09-21 (slice-09210400-24): fresh grep of content/works + content/articles for 劉國瑞 / Ray Liu matched only his own TAH work record ([[works/taiwaneseamericanhistory-org/whoswho947|TAH #948]]) and the works index — no memoir/community text to absorb. SKIP-with-reason.
+- deepen-x recheck 2026-09-26 (slice-09251031-28): re-ran the ZH+EN grep — hit set unchanged (whoswho947 + index only). Still no memoir/community text to absorb. SKIP-with-reason.
 
 ## Family
 
