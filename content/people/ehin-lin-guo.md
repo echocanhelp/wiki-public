@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 # deepen-x 09210920-23: SKIP re-verified — fresh 2026-09-22 ZH+EN grep (郭青齡/Ehin-Lin Guo) matched no corpus material beyond own TAH #1585 stub + index; nothing absorbable
 # deepen-x 09200939-12: SKIP — fresh 2026-09-21 ZH+EN grep matched only own TAH #1585 stub (already wikilinked below) + works/index; no absorbable memoir material
 ---
@@ -45,3 +45,4 @@ _No filled family fields on the TAH profile._
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - [[works/taiwaneseamericanhistory-org/whoswho1585|1585. Ehin-Lin Guo 郭青齡 / 2017/03]] — TAH 百科紀錄
+# deepen-x 09251047-25: SKIP re-verified 2026-09-26 — fresh ZH+EN grep matched only own TAH Who's Who record + index; no absorbable memoir material
