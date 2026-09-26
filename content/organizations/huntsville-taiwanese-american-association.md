@@ -33,6 +33,7 @@ The Huntsville Taiwanese American Association (HTAA) is a local chapter of the T
 - 2026-09-24 re-check (slice 09230600-22): corpus re-grep (亨城 / HTAA / 蕃薯味 / Huntsville Taiwanese American) returned the same work pages already wikilinked above (project-3-13 ±eng, HTAA record, ourjourneys245, index) plus one false positive (a digest-string match in a 2022 TAJPNet article). Saturated; no new facts, no conflicts.
 
 - 2026-09-26 re-check (slice 09250900-8): corpus re-grep (亨城 / 蕃薯味 / 番薯味 / Huntsville) returned only the already-linked work pages (project-3-13 +-eng, HTAA record, ourjourneys245, ourjourneys318) plus the Butterfly Chong Huntsville-Texas venue false positive. Saturated; SKIP-with-reason.
+- 2026-09-26 re-check (slice 09260317-17): corpus re-grep (亨城／蕃薯味／番薯味／Huntsville Taiwanese) returned only the already-linked work pages (project-3-13 +-eng, HTAA record, ourjourneys245) plus index. Saturated; SKIP-with-reason, no new facts, no conflicts.
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/huntsville-taiwanese-american-association/)
