@@ -61,6 +61,8 @@ last_reviewed: 2026-09-24
 
 - 複核（TJJ-A09230400-1, 2026-09-24）：subject link 經本 slice 文章 becb39f917174438 正文再驗證為真實對應，對應 From-the-record 條目已在庫並掛鏈本檔（無錯鏈、無虛鏈）— SKIP，無新材料。
 
+- 複核（TJJ-A09250800-3, 2026-09-25）：本 slice 文章 d2d01925bc6bbba3（English Pages p5, 2024-07-18 快照）正文再驗證——「The Madness of Ma: Slow-Motion State Violence in Taiwan」「250,000 people demonstrated in front of Ma's office」清單條目確認見於正文，subject 連結為真，無錯鏈、無虛鏈；2013-04-22／2013-08-03 條目（含該文 wikilink）已在庫 — SKIP，已飽和。
+
 - 複核（TJJ-A09162345-17, 2026-09-24）：本 slice 文章 d2d01925bc6bbba3（English Pages p5, 2024-07-18 快照）正文再驗證——「The Madness of Ma: Slow-Motion State Violence in Taiwan」「250,000 people demonstrated in front of Ma's office」清單條目確認見於正文，連結為真，無錯鏈、無虛鏈；對應日期條目已在庫 — SKIP，無新材料（[[articles/taiwanjustice-net/2024/20240718230535_root_d2d01925bc6bbba3|TJJ English Pages 存檔頁, 2024-07-18 快照]]）。
 
 - 複核（TJJ-A09162345-31, 2026-09-24）：slice 文章 432e1fca739d02b8（Ed Royce 標籤頁）正文再驗證——'Ma Ying-jeou ally in Congress' 2012-04-27 條目再確認見於正文，連結為真；對應日期事實（含該文 wikilink）已在庫 — SKIP，無新材料。
