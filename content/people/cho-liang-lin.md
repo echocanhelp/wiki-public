@@ -75,6 +75,8 @@ Facts already present in vault pages citing Cho-Liang Lin (no new sources):
 
 ## From the record
 
+- 複核（TJJ-A09250900-2, 2026-09-26）：slice 文章 04f32b14d8cf8f12（台灣會館會訊 #11, 2016-12-17）正文再驗證——12/12 NSO 與林昭亮 Segerstrom Concert Hall 演出（會館共同主辦）確認見於正文，subject 連結為真，無錯鏈、無虛鏈；2016-12-12 條目（含該文 wikilink）已在庫 — SKIP，已飽和。
+
 - 複核（TJJ-A09250400-11, 2026-09-25）：本 slice 文章 b4e27e98036e15d0（海頓音樂欣賞課報導, 2016-06-06 刊） 正文再驗證——本頁 subject 連結為真實提及，無錯鏈、無虛鏈；含該文 wikilink 的日期事實條目已在庫 — SKIP，無新材料。
 
 - 覆核（TJJ-A09240600-2, 2026-09-25）：slice 文章 a244776e（海頓音樂欣賞課報導）正文再驗證——林昭亮開場介紹記述再確認見於正文，連結為真；對應日期事實已在庫 — SKIP，無新材料。

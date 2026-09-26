@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Rung-fang Chen (陳榮芳)
 
@@ -51,3 +51,5 @@ Corpus re-check 2026-09-25 (deepen-x slice 09240700-19): fresh grep — hit set 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+Corpus re-check 2026-09-26 (deepen-x slice 09251000-10): fresh grep — hit set identical (ourjourneys315, whos1098, ourjourneys38-eng, works index). SKIP-deepen; verified-saturated, nothing new absorbable.
