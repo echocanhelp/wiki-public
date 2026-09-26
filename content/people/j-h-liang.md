@@ -36,7 +36,7 @@ last_reviewed: 2026-09-25
 - 近況：Supermicro（美超微）因未如期提交財報、遭媒體報導司法部調查，一度面臨那斯達克除名危機（見 [[articles/taiwanjustice-net/2025/20250328125102_超微財報期限迫近股價續跌-陷那斯達克除名危機_681b0e73c7cd7e03|台灣立報報導]]）。
 - 近況更新（2025）：安永（Ernst & Young）因對公司治理及透明度存有疑慮於2024年10月辭去美超微審計職務；2025-08-29 美超微重申財務報告內部控管仍存在弱點，盤中股價重挫近5%（見 [[articles/taiwanjustice-net/2025/20251008094311_美超微披露財務控管存在弱點_盤中股價重挫近5_d13609706a1d7d14|台灣立報報導]]）。
 
-> Re-verified 2026-09-25 (slice 09231300-8): fresh grep of works/articles returns the records already linked plus one new 立報報導 (2025-10-08, Supermicro 財務控管弱點) — absorbed above. No new memoir material.
+> Re-verified 2026-09-25 (slices 09231300-8, 09250500-1): fresh grep of works/articles returns the records already linked plus the 立報報導 pieces (2025-10-08, Supermicro 財務控管弱點) — absorbed above. Slice 09250500-1 recheck: zero hits beyond already-linked records; no new memoir material.
 
 ## Family
 

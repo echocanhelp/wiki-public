@@ -53,3 +53,4 @@ _No filled family fields on the TAH profile._
 <!-- deepen-x slices 09191200-28 / 09210900-16 rechecks 2026-09-21 / 2026-09-22: SKIP — fresh grep of works/+articles matched only own TAH whos-who work page and works/index; no independent memoir/article material. -->
 
 <!-- deepen-x slice 09231400-27 recheck 2026-09-25: fresh ZH+EN grep of works/+articles matched only own TAH bibliographic record + works/index; no independent memoir material. SKIP-with-reason stands. -->
+<!-- deepen-x slice 09250500-1 recheck 2026-09-25: fresh ZH+EN grep returned zero hits beyond own record/index. SKIP. -->

@@ -38,6 +38,7 @@ last_reviewed: 2026-09-25
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/peter-chiu/)
 
 ## From the record
+- 複核（TJJ-A09250400-17, 2026-09-26）：本 slice 文章 c83c2315ab0b3e26（王廷宜追思會稿）正文再驗證——連絡人邱勝宗確認見於正文，subject 連結為真（無錯鏈、無虛鏈）；2022-06-25 條目（已含該文 wikilink）已在庫 — SKIP，已飽和。
 - 複核（TJJ-A09250400-3, 2026-09-25）：本 slice 文章 a428dceb 正文再驗證——peter-chiu 對應真實（記述確認見於正文），無錯鏈、無虛鏈；含該文 wikilink 的日期事實條目已在庫 — SKIP，無新材料。
 
 

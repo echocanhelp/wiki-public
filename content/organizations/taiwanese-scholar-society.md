@@ -29,6 +29,8 @@ No corpus facts about TSS to absorb; page kept at directory-level depth.
 
 Disambiguation (deepen-x recheck 2026-09-25): fresh ZH+EN grep matches 台灣學者協會 works — these are the **Taiwanese Scholar Association in St. Louis (TSA-STL)**, a distinct organization, not this CMU club: [[works/taiwaneseamericanhistory-org/taiwanese-scholar-association-in-st-louis-tsa-stl|TSA-STL directory record]], [[works/taiwaneseamericanhistory-org/publications1220|TSA-STL 2017 年會手冊]], [[works/taiwaneseamericanhistory-org/publications1221|TSA-STL 2018 年會手冊]]. The 台灣學者 mentions in [[works/taiwaneseamericanhistory-org/ourjourneys47|Our Journeys #47]] concern NATPA's 返台年會 scholar invitations, also unrelated. Still zero corpus material on CMU TSS itself.
 
+Recheck (deepen-x 09250500-1, 2026-09-25): fresh CMU/TSS grep adds only tangential mentions — [[works/taiwaneseamericanhistory-org/ourjourneys321-eng|Our Journeys #321]] and [[works/taiwaneseamericanhistory-org/ourjourneys292-eng|Our Journeys #292]] name Carnegie Mellon in the 陳文成 / Pittsburgh Taiwanese Association context, and [[works/taiwaneseamerican-org/green-island-secrets|Green Island Secrets]] mentions CMU incidentally. None concern this club; SKIP-with-reason stands.
+
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-scholar-society/)
 

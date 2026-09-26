@@ -59,6 +59,7 @@ _Corpus-absorbed 2026-09-14 (slice 09141300-17); primary material from our own m
 
 
 ## From the record
+- 複核（TJJ-A09250400-17, 2026-09-26）：本 slice 文章 c83c2315ab0b3e26（追思會稿）正文再驗證——本傳主體，歿 2020-06-20、Rose Hill 長眠、6/25 台灣會館追思會記述確認見於正文；subject 連結為真（無錯鏈、無虛鏈），含該文 wikilink 的條目已在庫 — SKIP，已飽和。
 
 - 覆核（TJJ-A09240400-4, 2026-09-25）：本 slice 文章 c4d413fd 正文再驗證——得獎人王泰和即本傳主，subject link 為真（無錯鏈、無虛鏈）；2017-12-09 獲獎演講條目（已掛該文 wikilink）已在庫 — SKIP，無新材料。
 
