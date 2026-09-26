@@ -7,9 +7,10 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Shang C. Chiou (邱祥竹醫師)
+<!-- deepen-x slice 09251054-8 re-verified 2026-09-26: SKIP — fresh ZH+EN grep of content/works + content/articles; hits are own TAH record page only (or false-positive TDA inside wayback archive_digest hashes), no absorbable memoir/community narrative. -->
 
 ## Identity Snapshot
 - **English:** Shang C. Chiou
