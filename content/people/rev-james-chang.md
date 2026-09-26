@@ -62,3 +62,4 @@ HOLD: name collision — the corpus also contains [[works/taiwaneseamerican-org/
 - Corpus re-grep 2026-09-22 (DEEPEN-X slice 09212352-21): hit-set identical (ZH+EN grep: #1812, works index, Pop-Up Chef HOLD) — nothing new absorbable.
 - Corpus re-grep 2026-09-23 (DEEPEN-X slice 09221200-21): hit-set identical (ZH+EN grep: #1812, works index, Pop-Up Chef HOLD) — nothing new absorbable.
 - Corpus re-grep 2026-09-24 (DEEPEN-X slice 09230700-14): ZH+EN grep adds loose 張牧師 matches in ourjourneys-364, our-journeys-350, our-journeys-357, ourjourneys231 — inspected: all refer to 張瑞雄牧師 (the Bay Area/LA Methodist–Presbyterian church pioneer), a different person from 張拯民牧師. HOLD: do not attribute those memoir passages here. Nothing new absorbable.
+- Corpus re-grep 2026-09-26 (deepen-x slice 09251000-6): hit-set unchanged (ZH 張拯民: TAH #1812 + works index only). SKIP-content: nothing new absorbable.

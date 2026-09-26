@@ -58,4 +58,5 @@ Corpus re-grep (slice 09230600-30, 2026-09-24): hit-set unchanged — TAH #70, #
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- Corpus re-grep 2026-09-26 (DEEPEN-X slice 09251000-4): hit-set identical — only own records [[works/taiwaneseamericanhistory-org/70-sandra-wright-shen-piano|TAH #70]], [[works/taiwaneseamericanhistory-org/688-e4-bb-99-e6-9d-9c-e6-8b-89-e2-80-a7-e8-b3-b4-e7-89-b9-e2-80-a7-e6-b2-88-sand|TAH #688]], the [[works/taiwaneseamericanhistory-org/mystories112|仙杜拉琴韻心聲]] feature and index listings; no memoir adds dates or roles. SKIP-content: verified-saturated, no conflicts to HOLD.
 - Corpus re-grep 2026-09-25 (DEEPEN-X slice 09240700-14): hit-set identical to prior passes — only already-cited own records, the absorbed memoir/article material, and the works index. SKIP-content: verified-saturated, nothing new absorbable, no conflicts to HOLD.

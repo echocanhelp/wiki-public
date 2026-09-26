@@ -43,6 +43,7 @@ http://blog.xuite.net/ysyang0102/twblog/145974084-%E7%9F%BD%E8%B0%B7%E4%B9%8B%E5
 - 本人為題的故事記錄：[[works/taiwaneseamericanhistory-org/794-yung-tsai-yen-e9-a1-8f-e6-b0-b8-e8-b2-a1-201601|794. Yung-Tsai Yen 顏永財 / 2016/01]]；兩篇故事的上篇：[[works/taiwaneseamericanhistory-org/my-stories-852|852. 矽谷之夢 (上)——北加州顏永財與莊和子的故事]]。
 - 1995-04（台美時報第269期）台美公民協會（TACL）籌備顧問名單收錄「Y. T. Yan」（顏永財縮寫，與同列之莊和子夫姓 Yen 相符）— inferred attribution, 見 [[works/taiwaneseamericanhistory-org/ourjourneys186-eng|186. 台美公民協會簡介（英）]]。
 - Corpus re-grep (slice 09240700-16, 2026-09-25): fresh 顏永財/Yung-Tsai Yen grep of works+articles — hit-set unchanged (#853/#852 矽谷之夢, #794, #19, #236, #239, #47, works index). Verified-saturated; SKIP-content; 1981-vs-1982 創辦年 HOLD 維持。
+- Corpus re-grep (slice 09251000-6, 2026-09-26): hit-set unchanged (#239, #853, #19, #794, #236, #47). Verified-saturated; SKIP-content; 1981-vs-1982 HOLD 維持。
 
 ## Family
 

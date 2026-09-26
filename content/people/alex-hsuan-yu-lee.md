@@ -50,4 +50,5 @@ The movement record holds two TAH encyclopedia entries on him — [[works/taiwan
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- Corpus re-grep 2026-09-26 (DEEPEN-X slice 09251000-4): hit-set identical — only already-cited own records [[works/taiwaneseamericanhistory-org/musician146|#146]], [[works/taiwaneseamericanhistory-org/whoswho1225|#1225]] and the works index. SKIP-content: verified-saturated, nothing new absorbable, no conflicts to HOLD.
 - Corpus re-grep 2026-09-25 (DEEPEN-X slice 09240700-14): hit-set identical to prior passes — only already-cited own records, the absorbed memoir/article material, and the works index. SKIP-content: verified-saturated, nothing new absorbable, no conflicts to HOLD.
