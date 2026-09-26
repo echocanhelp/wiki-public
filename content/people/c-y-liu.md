@@ -27,6 +27,7 @@ last_reviewed: 2026-09-26
 
 ## Role in the Community
 - Listed in the TAH Foundation Who's Who profile record [[works/taiwaneseamericanhistory-org/whoswho1160|1160. C. Y. Liu 劉晴吟 / 2016/07]] (published 2016-07-20): 台大法律系畢業, 台北出身, 嫁 Joel Doughten. Re-swept 2026-09-25 (ZH+EN, incl. husband's name Joel Doughten): works/ and articles/ hits are limited to this own profile record and the works index — no memoir mentions; biographical detail beyond the TAH profile remains unknown.
+- Re-swept 2026-09-26: fresh ZH+EN grep (incl. Joel Doughten) returned only own record + index — SKIP.
 
 ## Family
 
