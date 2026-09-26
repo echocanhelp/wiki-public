@@ -31,3 +31,4 @@ Bald Eagle Society is a community organization founded in 2014 in Southern Calif
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 > SKIP re-check (deepen-x 09231300-21, 2026-09-25): fresh ZH+EN grep of content/works + content/articles returned only the own TAH bibliographic record + index lines — no community/memoir material to absorb; SKIP stands.
+> SKIP re-check (deepen-x 09250600-23, 2026-09-25): fresh ZH+EN grep — hit set unchanged (own record + index only); SKIP stands, verified-saturated.

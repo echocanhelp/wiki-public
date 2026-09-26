@@ -49,3 +49,4 @@ _No filled family fields on the TAH profile._
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 > SKIP re-check (deepen-x 09231300-21, 2026-09-25): fresh ZH+EN grep of content/works + content/articles returned only the own TAH bibliographic record + index lines — no community/memoir material to absorb; SKIP stands.
+> SKIP re-check (deepen-x 09250600-23, 2026-09-25): fresh ZH+EN grep — hit set unchanged (own TAH #1606 record + index only); SKIP stands, verified-saturated.

@@ -33,6 +33,7 @@ last_reviewed: 2026-09-25
 ## Role in the Community
 - Two TAH Foundation story-corpus records document his community profile: [[works/taiwaneseamericanhistory-org/328-e5-91-a8-e6-ad-a3-e7-83-9c-e4-b8-80-e8-b7-af-e8-b5-b0-e4-be-86-e6-94-af-e6-8|TAH #328「一路走來支持弱勢」(朱乙真, 2015)]] — a first-person account of his legal-aid advocacy — and [[works/taiwaneseamericanhistory-org/577-shawn-c-chou-e5-91-a8-e6-ad-a3-e7-83-9c-201509|TAH #577 (2015)]]. Both corroborate the Who's Who employment line (聯邦法律援助所 → own practice serving the underprivileged).
 - Re-verified 2026-09-25 (deepen-x slice 09231300-13): fresh ZH+EN grep — hit set unchanged (own TAH #328 + #577 records + index rows); both already absorbed above; verified-saturated.
+- Re-verified 2026-09-25 (deepen-x slice 09250600-23): fresh ZH+EN grep — hit set again identical (#328, #577, index); no new corpus material; SKIP stands.
 
 ## Family
 

@@ -52,6 +52,8 @@ can be made from the corpus.
 Corpus re-verification (2026-09-25, slice 09231400-1): fresh ZH+EN greps of
 works/ and articles/ returned only [[works/taiwaneseamericanhistory-org/whoswho1671|TAH #1671]]
 and its `works/index` listing — no third-party mention; nothing new absorbable.
+Slice 09250600-23 (2026-09-25): hit set unchanged (TAH #1671 + index rows only);
+verified-saturated.
 
 ## Timeline
 - 2017-05: profiled in the TAH Foundation Who's Who record

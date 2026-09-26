@@ -43,6 +43,7 @@ last_reviewed: 2026-09-25
 
 _Re-verified 2026-09-22 (deepen-x slice 15): corpus grep for 林保山/Paul Lynn in works+articles returns only the three records already wikilinked above (whos-paul-lynn, ourjourneys58, art-exhibitions-8). Nothing new absorbable in-vault; no web per protocol._
 _Re-verified 2026-09-25 (slice 09231300-6): grep returns only whos-paul-lynn, ourjourneys58, art-exhibitions-8 — all already wikilinked above; nothing new absorbable._
+_Re-verified 2026-09-25 (slice 09250600-19): identical hit set (whos-paul-lynn, ourjourneys58, art-exhibitions-8 + works index) — all already wikilinked; nothing new absorbable (SKIP)._
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/paul-lynn/)
