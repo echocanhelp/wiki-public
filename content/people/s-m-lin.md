@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # S. M. Lin (林素敏)
 
@@ -44,3 +44,6 @@ last_reviewed: 2026-09-25
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+## Work log
+- SKIP (deepen-x slice 09251031-10, 2026-09-26): fresh ZH+EN grep returned the same set (couple-story work 368, own #1541, index) — both work pages are bibliographic-only records, already reflected in Role in the Community; nothing absorbable.
