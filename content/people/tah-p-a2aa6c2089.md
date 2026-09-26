@@ -40,6 +40,8 @@ last_reviewed: 2026-09-25
 
 _No filled family fields on the TAH profile._
 
+- Corpus re-check 2026-09-25 (slice 09250500-11): fresh grep 李泰雄 / 南鄉泰 returns only the three already-absorbed corpus records (publications65, 非異鄉人, own record 362) + index; no additional mentions. Verified-saturated.
+
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/%e6%9d%8e%e6%b3%b0%e9%9b%84/)
 
