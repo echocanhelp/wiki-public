@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Jason Tsai (蔡智行)
 
@@ -50,3 +50,4 @@ last_reviewed: 2026-09-25
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 <!-- deepen-x slice 09231100-3 (2026-09-25): verified-saturated — corpus re-grep returns only own TAH record + already-linked works pages; nothing new absorbable. -->
 <!-- deepen-x slice 09250400-26 (2026-09-25): verified-saturated — fresh ZH+EN grep returns only whoswho1608, index rows, and the two already-linked tjol org works; nothing new absorbable. -->
+<!-- deepen-x slice 09252123-18 (2026-09-26): verified-saturated — fresh ZH+EN grep returns only whoswho1608, index, and the two already-linked LID/JTASA works (context re-read: no facts beyond what Role in the Community already records); nothing new absorbable. -->

@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Columbia University Taiwanese Graduate Student Association
 
@@ -31,3 +31,4 @@ The Columbia University Taiwanese Graduate Student Association (TGSA) is a regis
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 <!-- deepen-x slice 09250400-28 (2026-09-25): SKIP re-verified — fresh ZH+EN re-grep of works/+articles/ returns only the hit set already recorded on this page; no new memoir/community material. Verified saturated. -->
+<!-- deepen-x slice 09252123-18 (2026-09-26): SKIP re-verified — fresh ZH+EN grep (TGSA / 哥倫比亞大學台灣學生會 / columbiatgsa / 'Columbia University Taiwanese') returns zero hits in works/+articles/. Verified saturated. -->

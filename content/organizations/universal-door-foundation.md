@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Universal Door Foundation (美音基金會)
 
@@ -23,6 +23,7 @@ The foundation's flagship event is on the community record: the Formosan America
 
 - Corpus check (2026-09-25): fresh grep for 美音基金會/Universal Door Foundation returns only the two work pages already linked above plus the works index — no new memoir or article mentions to absorb. Related community musicians recorded elsewhere in the corpus include pianist [[people/sheng-yuan-kuan|官聖媛 Sheng-Yuan Kuan]].
 - 語料複核（deepen-x 09250400-30, 2026-09-25）：再檢 content/works + content/articles（中英雙查），命中集與上述記錄完全相同，僅 concerts35 與自身條目及 index，無新增可吸收材料。Verified-saturated.
+- 語料複核（deepen-x 09252123-18, 2026-09-26）：中英雙查再檢，命中集仍僅 concerts35、自身條目 universal-door-foundation 及 index，無新增可吸收材料。Verified-saturated.
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/universal-door-foundation/)
