@@ -7,11 +7,12 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-26
 # deepen-x 09180800-22: SKIP — corpus grep matched only his own TAH record 1370 (bibliographic stub) plus index listings; no absorbable community material
 # deepen-x 09200939-12: SKIP re-verified — fresh 2026-09-21 grep matched only own TAH #1370 stub + works/index; no absorbable community material
 # deepen-x 09210920-24: SKIP re-verified 2026-09-22 — grep "Ian Y. Lian" matched only own whoswho1370 stub + index; broad 連 grep hits were false positives (連續/連署/連瑪玉); nothing absorbable
 # deepen-x 09232232-2: SKIP re-verified 2026-09-25 — fresh grep: broad 連 hits again all false positives (連續/連署/連瑪玉); only own whoswho1370 + index; nothing absorbable
+# deepen-x 09251039-31: SKIP re-verified 2026-09-26 — grep 'Ian Y' exact returns zero lines; broad 連/Lian hits all false positives; nothing absorbable
 ---
 # Ian Y. Lian
 
