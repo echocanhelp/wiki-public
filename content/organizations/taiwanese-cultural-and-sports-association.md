@@ -37,6 +37,8 @@ Corpus re-grep 2026-09-24 (deepen-x slice 09230600-20): fresh ZH+EN grep returns
 
 Corpus re-grep 2026-09-25 (deepen-x slice 09240600-20): fresh grep 台灣文化體育協會 / Cultural and Sports / TASA — the TASA matches (ourjourneys173-eng, ourjourneys157, history-of-itasa, 176 Keimay Yang memorial, 578 ITASA, newsletter-itasa) are the student TASA/ITASA, a different org matched on the generic acronym; no 體育協會 passage. SKIP — nothing absorbable.
 
+Corpus re-grep 2026-09-26 (deepen-x slice 09250900-12): fresh ZH+EN grep surfaced one new body-text hit — the 戴口罩參與北加州國際童玩節 TJJ archive report (absorbed above, first record naming a TCSA officer, 會長高椿惠); the 台灣文化體育協會年會 tag page still shows "No posts to display"; remaining hits are the two already-linked work pages and index/manifest listings.
+
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-cultural-and-sports-association/)
 
