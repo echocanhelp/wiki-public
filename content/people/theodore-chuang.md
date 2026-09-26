@@ -54,3 +54,5 @@ _No filled family fields on the TAH profile._
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 <!-- deepen-x slice 09240800-15 (2026-09-25): saturated re-verify — fresh grep (Theodore Chuang/西奧多．莊, works+articles) returns only whoswho1556, works index, and the already-absorbed 2025-04 USAID ruling article (body confirms: ordered restoration of USAID staff computer access, found probable constitutional violations, ruled Musk/DOGE directly controlled USAID — all already in Role in the Community). Nothing new absorbable. -->
+
+- Corpus re-check 2026-09-26 (deepen-x slice 09251023-1): fresh ZH+EN grep works/ + articles/ -- hit set unchanged (whoswho1556, works index, already-absorbed 2025-04 USAID ruling article). Saturated; nothing new absorbable.

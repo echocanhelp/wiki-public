@@ -37,3 +37,4 @@ The Cornell Taiwanese American Society (CTAS) is a registered student organizati
 
 - Corpus re-check 2026-09-24 (deepen-x slice 09230800-16): fresh grep works/+articles/ for 'Cornell Taiwanese'/'CTAS' returns zero hits; 伊薩卡/Cornell lineage records already absorbed above — saturated, SKIP.
 - Corpus re-check 2026-09-25 (deepen-x slice 09240800-9): fresh grep works/+articles/ ('Cornell Taiwanese'/'CTAS'/伊薩卡) — hit set unchanged (OJ #310 ZH+EN, ithaca-taa, TAA Ithaca history, index; 伊薩卡 only incidental in a Taiwan Justice news article). All hits already wikilinked above — saturated, SKIP.
+- Corpus re-check 2026-09-26 (deepen-x slice 09251023-1): fresh grep works/ + articles/ (Cornell Taiwanese / CTAS / 伊薩卡) -- hit set unchanged (OJ #310 ZH+EN, ithaca-taa, TAA Ithaca history, index; 伊薩卡 incidental in one news article). All already wikilinked above -- saturated, SKIP.

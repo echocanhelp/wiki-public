@@ -44,6 +44,7 @@ last_reviewed: 2026-09-26
 - 2026-09-23（slice 09221300-20）再grep：命中集合未變（僅 #1827 與 works/index.md）。SKIP-content：無可吸收新事實。
 - 2026-09-24（slice 09230800-17）再grep（陳貴賢／Kuei-Hsien Chen）：命中仍僅 [[works/taiwaneseamericanhistory-org/whos-who-1827-kuei-hsien-chen|TAH #1827]]。SKIP-content：無可吸收新事實。
 - 2026-09-25（slice 09240800-9）再grep（陳貴賢／Kuei-Hsien Chen）：命中仍僅 [[works/taiwaneseamericanhistory-org/whos-who-1827-kuei-hsien-chen|TAH #1827]] 與 works/index.md；#1827 為書目紀錄（全文留 vault），無內文可吸收。SKIP-content：無可吸收新事實。
+- 2026-09-26 (slice 09251023-1) re-grep (陳貴賢 / Kuei-Hsien Chen): hits remain only TAH #1827 and works/index.md. SKIP-content: no absorbable new facts.
 
 ## Sources
 - [TAH #1827 encyclopedia: 1827. Dr. Kuei-Hsien Chen 陳貴賢博士](https://taiwaneseamericanhistory.org/whos-who-1827-kuei-hsien-chen/)
