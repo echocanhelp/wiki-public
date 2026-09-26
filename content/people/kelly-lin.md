@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Kelly Lin (林雨潔博士)
 
@@ -48,3 +48,5 @@ _No filled family fields on the TAH profile._
 <!-- deepen-x 09231100-17 re-check 2026-09-25: verified-saturated. Fresh ZH+EN grep of works/ + articles/ returns only own TAH bibliographic records, works/index.md, or pages already wikilinked/HOLDed in Role in the Community; no new absorbable corpus material. -->
 
 <!-- deepen-x 09250400-21 re-check 2026-09-25: verified-saturated. Fresh ZH+EN grep of works/ + articles/ returns only own TAH bibliographic records, works/index.md, or pages already wikilinked/HOLDed in Role in the Community; no new absorbable corpus material. -->
+
+<!-- deepen-x 09252123-9 re-check 2026-09-26: verified-saturated. Fresh ZH+EN grep of works/ + articles/ hit set identical to prior slices (own TAH record + index + pages already wikilinked/HOLDed); no new absorbable corpus material. SKIP. -->
