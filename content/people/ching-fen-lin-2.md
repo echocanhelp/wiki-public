@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Ching Fen Lin (林青棻)
 
@@ -48,3 +48,4 @@ Accomplishment
 - 2026-09-25 deepen-x re-check (slice -4): fresh grep ZH+EN hits remain only own record + index; 張靜芬 vocal pages are the other Ching-Fen Lin (SKIP).
 - 2026-09-25 deepen-x slice 09231200-4 (retry run): fresh ZH+EN grep verified-saturated — hit set identical to prior passes; nothing new absorbable.
 - 2026-09-25 deepen-x slice 09250400-29: fresh ZH+EN grep of works/+articles/ — hit set identical to prior passes (own whoswho record + index only, plus already-absorbed memoir/statement mentions). Verified saturated; nothing new absorbable.
+<!-- deepen-x slice 09252123-17 (2026-09-26): SKIP re-verified — fresh ZH+EN grep of works/+articles/ returns hit set identical to prior passes (own records + index only); no new memoir/community material. Verified saturated. -->

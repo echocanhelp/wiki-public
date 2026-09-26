@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Min-Chu Wang Chen (王陳明珠)
 
@@ -51,3 +51,4 @@ Accomplishment
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - Re-grepped corpus 2026-09-25 (slice 09231000-31): still only whos-who-1928 + index rows; no new memoir material — SKIP-with-reason stands.
 <!-- deepen-x slice 09250400-28 (2026-09-25): SKIP re-verified — fresh ZH+EN re-grep of works/+articles/ returns only the hit set already recorded on this page; no new memoir/community material. Verified saturated. -->
+<!-- deepen-x slice 09252123-17 (2026-09-26): SKIP re-verified — fresh ZH+EN grep of works/+articles/ returns hit set identical to prior passes (own records + index only); no new memoir/community material. Verified saturated. -->
