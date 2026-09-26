@@ -38,6 +38,8 @@ Prof. Shiou-Chuan Sheryl Tsai 蔡秀娟 – History of Taiwanese American (T.A. 
 - 2026-09-21 deepen-x re-check: corpus hits unchanged (own record + index only) — SKIP again.
 - 2026-09-22 deepen-x re-check (slice -20): fresh grep ZH+EN hits remain only own record [[works/taiwaneseamericanhistory-org/whoswho1439|TAH #1439]] + works index — no memoir prose to absorb (SKIP).
 
+- 2026-09-25 deepen-x slice 09250500-18 re-check: fresh ZH+EN grep returns the identical hit set (own record whoswho1439 + works index only) — verified-saturated, nothing absorbable.
+
 ## Family
 
 _No filled family fields on the TAH profile._

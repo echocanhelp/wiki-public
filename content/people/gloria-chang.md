@@ -37,6 +37,8 @@ Corpus material positions Gloria Chang within the 張信行／黃美星 family r
 Note (2026-09-25): [[works/taiwaneseamericanhistory-org/ourjourneys2|2. 《台灣之音》的回顧 / 張富雄]] mentions a "Sister Mary Gloria" — but that is 張富雄's eldest daughter (a nun), NOT this subject, whose father is 張信行醫師 (see Family). HOLD: name collision only, do not merge.
 
 
+- 2026-09-25 deepen-x slice 09250500-18 re-check: fresh EN grep of works/+articles/ returns the identical hit set (own TAH record who830 + works index only) — verified-saturated, no new material on Gloria herself.
+
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/gloria-chang/)
 
