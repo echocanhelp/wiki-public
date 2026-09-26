@@ -278,3 +278,5 @@ Page 3 of 157
 - [[people/lanhee-j-chen|陳仁宜]] — mentioned in this record
 - [[people/si-zhi-chen|陳泗治]] — mentioned in this record
 
+（TJJ-A09260400-20 複核 2026-09-26：二條 subject link 經正文再驗證均為真實提及（「台裔學者陳仁宜：川普身邊友台顧問多」條目、「第155回世界台灣文化論壇：台灣音樂家陳泗治校長」條目），無錯鏈、無虛鏈；兩頁之含本檔 wikilink 日期事實已在庫。已飽和。）
+
