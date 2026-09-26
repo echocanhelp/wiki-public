@@ -7,19 +7,23 @@ tags:
   - taiwanjustice-net
   - thin-page
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 name_en: "Lai Ching-te"
+name_zh: "賴清德"
 ---
 # Lai Ching-te (賴清德)
 
-**Lai Ching-te** (賴清德) appears extensively in the [[sources/taiwanjustice-net||taiwanjustice.net]] archive (**211** article hits by title/topic extraction). This is a **thin A-tier** page for graph linking — not a full biography.
+**Lai Ching-te** (賴清德) appears extensively in the [[sources/taiwanjustice-net||taiwanjustice.net]] archive (**211** article hits by title/topic extraction). Community-record coverage below; comparative biography from [[sources/zh-wikipedia-lai-ching-te||zh.wikipedia (SSOT comparator)]].
 
 ## Identity Snapshot
 
 - **English:** Lai Ching-te
 - **Chinese:** 賴清德
-- **Role (as covered):** President of the ROC (Taiwan), 2024–
-- **Echopedia scope:** Taiwan politics coverage via taiwanjustice.net; not a Taiwanese-American diaspora profile
+- **Born:** 1959-10-06, 萬里鄉六坑煤礦區 (今新北市萬里區) — miner father 賴朝金 died of mine gas poisoning 1960-01-08, aged 33; raised single-parent by mother 賴童好 ([sourced](../sources/zh-wikipedia-lai-ching-te.md))
+- **Training:** 國立成功大學 M.D.; internist (內科醫師) before politics
+- **Roles:** 總統 2024– · 副總統 2020–2024 · 行政院院長 2017–2019 · 臺南市長 2010–2017 · 國大代表/立委 1996– · [[organizations/democratic-progressive-party||DPP]] 主席 2022–
+- **Family:** spouse 吳玫如, two sons (zh.wp)
+- **Echopedia scope:** Taiwan politics coverage via taiwanjustice.net + diaspora memoir record; not himself a Taiwanese-American diaspora profile
 
 ## Role in the Community (corpus record)
 
@@ -31,6 +35,30 @@ name_en: "Lai Ching-te"
 - **HOLD:** president-term and policy labels remain from taiwanjustice.net coverage only; expand with primary sources, not press knowledge.
 - **Corpus re-grep 2026-09-19:** content/works hits are exactly ourjourneys181 and our-journeys-382, both already wikilinked above — all absorbable diaspora-memoir material is in; remaining coverage is TJJ press reposts.
 - **Corpus re-grep 2026-09-22 (slice 09211123-2, via alias stub [[people/lai-qingde]]):** hits unchanged — ourjourneys181, ourjourneys192, our-journeys-382, a-republic-of-taiwan-chloe-shih, all already wikilinked; no new absorbable diaspora facts.
+
+## Timeline
+
+Comparative frame from [[sources/zh-wikipedia-lai-ching-te||zh.wp]]; movement-record entries from the vault corpus.
+
+- 1959-10-06 — 出生萬里礦區；1960-01-08 父賴朝金礦災身亡 [sourced: zh.wp]
+- 1994 — 陳定南競選「全國醫師後援會」總召集人，棄醫從政之路 [sourced: zh.wp]
+- 1996 — 當選國大代表 [sourced: zh.wp]
+- 2010-12-25 — 當選臺南市市長（連任 2014）[sourced: zh.wp]
+- 2015-10 — 以市長身分現於紐約台灣中心圈合影，見 [[works/taiwaneseamericanhistory-org/ourjourneys181|咱要出頭天 181]]（corpus）
+- 2016-01 — 勸進旅美台灣人「回台灣投票」原文引述，見 [[works/taiwaneseamericanhistory-org/ourjourneys192|ourjourneys192]]（corpus）
+- 2017-09-08 – 2019-01-14 — 第29任行政院院長 [sourced: zh.wp]
+- 2020-05-20 — 就任副總統（搭 [[people/tsai-ing-wen|蔡英文]]）[sourced: zh.wp]
+- 2022-10-24 — 副總統任內接見全美會 FCA 回台團，見 [[works/taiwaneseamericanhistory-org/our-journeys-382|our-journeys 382]]（corpus）
+- 2022-11 — 補選繼任 [[organizations/democratic-progressive-party|DPP]] 主席 [sourced: zh.wp]
+- 2023-11-20 — 獲提名選2024總統，確定 [[people/bi-khim-hsiao|蕭美琴]] 為副手（[[articles/taiwanjustice-net/2023/20231208130546_root_2a3226a1b19c5a46|TJJ 轉載中央社]]）
+- 2024-05-20 — 就任第16任總統（[[articles/taiwanjustice-net/2025/20250213214800_520就職典禮賴清德家人將出席-蕭美琴母親返台觀禮_0258611f5f824a5d|TJJ/中央社]]；萬里鄉親近500人包車觀禮）
+- 2025-01-16 — 接見韓國瑜赴美就職觀禮團，「多喝咖啡」緩頰預算協商（[[articles/taiwanjustice-net/2025/20250719114825_韓國瑜提預算協商盼柯建銘不要那麼硬-總統緩頰_8fc11ca0c5dbaebe|TJJ/中央社]]）
+
+## Network
+
+- **Diaspora record (our own corpus):** [[works/taiwaneseamericanhistory-org/ourjourneys181|ourjourneys181]] · [[works/taiwaneseamericanhistory-org/ourjourneys192|ourjourneys192]] · [[works/taiwaneseamericanhistory-org/our-journeys-382|our-journeys 382]] · [[works/taiwaneseamerican-org/a-republic-of-taiwan-chloe-shih|A Republic of Taiwan (Chloe Shih)]]
+- **Vault people links:** [[people/tsai-ing-wen|蔡英文]] (任命閣揆、2020搭檔) · [[people/bi-khim-hsiao|蕭美琴]] (2024搭檔) · [[people/yi-ho-cheng|鄭義和]] (FCA 2022接見) · [[people/freeman-huang|Freeman Huang]] (TJJ publisher)
+- **Press:** [[organizations/taiwanjustice-net||台灣公義網]] — 211 article hits, hub at [[articles/taiwanjustice-net/index||TJJ archive index]]
 
 ## From the record
 
