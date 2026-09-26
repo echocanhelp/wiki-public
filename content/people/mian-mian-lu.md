@@ -38,6 +38,8 @@ _No filled family fields on the TAH profile._
 - Absorbed from the NATWA convention record ([[works/taiwaneseamerican-org/natwa2con|natwa2con]], 2018-03-16): began living on her own as a teenager and joined Taipei's avant-garde theater scene, writing, directing and starring in plays; member of Critical Point Theater and founder of The Door Theater in 1996. Lived in Brooklyn, New York 2008–2012, making short films and directing a small-theater piece for the Brick Theater; moved back to Taipei in 2012. Her short film **Midnight Dance** screened at the Asian American International Film Festival and the Los Angeles Asian Pacific Film Festival; **My Mom's Wedding** also received a special award from Women Make Waves Film Festival Taiwan; she was preparing her first feature "Mickey on the Road" as of 2018.
 - Panel session detail: the parent-daughter filmmakers panel was held Sunday 2018-04-22 9:00 am at the NATWA 2nd convention; Lu participated via a pre-recorded short video from Taiwan ([[works/taiwaneseamerican-org/natwa2con|natwa2con]]).
 
+- 覆核（deepen-x-09250600-1, 2026-09-25）：fresh ZH+EN grep（陸慧綿/Mian Mian Lu）— 命中僅自有存根 [[works/taiwaneseamericanhistory-org/whos-who-2082-mian-mian-lu|whos-who-2082]]、index、已載的 NATWA 2nd convention 紀錄 [[works/taiwaneseamerican-org/natwa2con|natwa2con]] — SKIP，已飽和，無新材料。
+
 ## Sources
 - [TAH #2082 encyclopedia: 2082. Mian Mian Lu 陸慧綿](https://taiwaneseamericanhistory.org/whos-who-2082-mian-mian-lu/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/mian-mian-lu/)
