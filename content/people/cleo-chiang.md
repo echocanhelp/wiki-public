@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Cleo Chiang (江詩怡)
 
@@ -37,6 +37,7 @@ last_reviewed: 2026-09-25
 ## Role in the Community
 - Served as **President of the Taiwanese American Federation of Northern California** ([[organizations/taiwanese-american-federation-of-n-california|TAFNC]]), per the community signatories of [[works/taiwaneseamerican-org/pew-research-center-taiwanese-american-statement|the Pew Research Center Taiwanese American statement]] — a movement-record role that outranks the press-kit employment entries above.
 - Her own TAH Who's Who encyclopedia entry is held in the corpus as [[works/taiwaneseamericanhistory-org/78-cleo-chiang-e6-b1-9f-e8-a9-a9-e6-80-a1|78. Cleo Chiang 江詩怡]] (2014-11-05, band B).
+- Corpus sweep (deepen-x 09251039-2, 2026-09-26): fresh ZH+EN greps again return only the own #78 record, the works index, and the Pew statement signatory list already linked above. Page saturated; nothing further absorbable.
 - Corpus sweep (2026-09-25): the full hit set (own #78 record, index, Pew statement signatory list) is already linked above. No further memoir or activity mention found — nothing further absorbable.
 
 ## Sources
