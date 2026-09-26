@@ -31,16 +31,6 @@ The Taiwanese Association of America – South Jersey Chapter (南澤西台灣�
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
-Corpus re-check 2026-09-21 (deepen-x slice 09200700-24): fresh grep for 南澤西 / South Jersey — hits are the chapter's own records (South Jersey Chapter / TAA, Our Journeys 356 EN/ZH) already absorbed above; no additional memoir material. SKIP-deepen.
+Corpus re-check 2026-09-21 → 2026-09-25 (slices 09200700-24, 09210700-29, 09220400-26, 09221300-7, 09230700-18, 09240700-22, 09251000-17): fresh grep 南澤西 / South Jersey — hit set unchanged (chapter's own TAA record, Our Journeys 356 EN/ZH, works index); all already wikilinked with facts absorbed. SKIP-deepen.
 
-Corpus re-check 2026-09-22 (deepen-x slice 09210700-29): fresh grep of works/ and articles/ — hit set unchanged, all hits already wikilinked with facts absorbed. SKIP-deepen; nothing new absorbable.
-
-Corpus re-check 2026-09-22 (deepen-x slice 09220400-26): fresh grep for 南澤西 / South Jersey — hit set unchanged (chapter's own TAA record, Our Journeys 356 EN/ZH, works index), all already absorbed. SKIP-deepen.
-
-Corpus re-check 2026-09-23 (deepen-x slice 09221300-7): fresh grep for 南澤西 / South Jersey — hit set unchanged (chapter's own TAA record, Our Journeys 356 EN/ZH, works index); all already wikilinked with facts absorbed. SKIP-deepen.
-
-Corpus re-check 2026-09-24 (deepen-x slice 09230700-18): fresh grep for 南澤西 / South Jersey — hit set unchanged (chapter's own TAA record, Our Journeys 356 EN/ZH, works index); all already wikilinked with facts absorbed. SKIP-deepen.
-
-Corpus re-scan 2026-09-25 (deepen-x slice 09240700-22): fresh grep — hit set unchanged, all hits already wikilinked with facts absorbed. SKIP-deepen; nothing new absorbable.
-
-Corpus re-scan 2026-09-26 (deepen-x slice 09251000-17): fresh grep 南澤西/South Jersey — hit set unchanged (chapter's own TAA record, Our Journeys 356 EN/ZH, works index); all already wikilinked with facts absorbed. SKIP-deepen.
+Corpus re-check 2026-09-26 (this slice 09260500-23): fresh grep 南澤西/South Jersey over works/ + articles/ — zero hits beyond the already-linked records above. SKIP-deepen; verified saturated.

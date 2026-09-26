@@ -34,7 +34,8 @@ _No filled family fields on the TAH profile._
 
 ## Role in the Community
 
-- **寫作供稿:** 2016 年 1 月至 6 月間在 TAH 出版平台（publications）連續供稿九篇歷史／科學主題長文，涵蓋屠殺與刑案記實、戰爭史、兩岸領導人簡史、哲學家與科學家、太陽系、宗教史、物種起源與人類文明演化、亞太大國史：
+- **寫作供稿:** 2015 年 12 月起在 TAH 出版平台（publications）供稿，2016 年 1 月至 6 月間連續供稿九篇歷史／科學主題長文，涵蓋屠殺與刑案記實、戰爭史、兩岸領導人簡史、哲學家與科學家、太陽系、宗教史、物種起源與人類文明演化、亞太大國史：
+  - [[works/taiwaneseamericanhistory-org/publications1010|1010. 世界人種 民族問題 及 主要原住民歷史簡述（2015/12）]]
   - [[works/taiwaneseamericanhistory-org/publications1011|1011. 一甲子年代台灣發生的大屠殺及重大刑事案件記實（2016/01）]]
   - [[works/taiwaneseamericanhistory-org/publications1012|1012. 古今世界主要戰爭史（2016/01）]]
   - [[works/taiwaneseamericanhistory-org/publications1013|1013. 中華民國及在台灣人歷任領導人簡史（2016/04）]]
@@ -62,3 +63,4 @@ Corpus re-check 2026-09-24 (deepen-x slice 09230700-18): fresh grep for 李忠�
 Corpus re-scan 2026-09-25 (deepen-x slice 09240700-22): fresh grep — hit set unchanged, all hits already wikilinked with facts absorbed. SKIP-deepen; nothing new absorbable.
 
 Corpus re-check 2026-09-26 (deepen-x slice 09251000-18): fresh grep 李忠敏 / Chuck Lee — hit set unchanged (own publications1011–1019, whos1249); no third-party memoir material. SKIP-deepen; nothing new absorbable.
+Corpus re-check 2026-09-26 (deepen-x slice 09260500-25): fresh grep found one hit NOT previously linked — publications1010 (世界人種 民族問題 及 主要原住民歷史簡述, 2015/12), his earliest corpus contribution; now absorbed into Role in the Community. No third-party memoir material; rest of hit set already linked.
