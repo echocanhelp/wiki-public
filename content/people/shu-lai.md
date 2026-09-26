@@ -61,6 +61,7 @@ last_reviewed: 2026-09-23
 - Signed the July 2018 open letter of NTU alumni protesting the invitation of 管中閔 by the SoCal NTU alumni council — [[articles/taiwanjustice-net/2018/20180721091303_2018_07_20_抗議-南加州台大校友會邀管中閔來年會做專題演講_a428dcebbceacf38|2018 alumni protest letter]] — listed as 賴淑遠(商學), corroborating her NTU 商學院 (accounting) degree. The letter also lists 賴聰域(數學), corroborating her husband's NTU math-alumnus background.
 
 ## From the record
+- 複核（TJJ-A09250400-14, 2026-09-25）：本 slice 文章 17835ad9（2016-06-12 會館第十屆董事會報導） 主體連結經正文再驗證為真實對應（無錯鏈、無虛鏈）；對應日期事實條目（含該文 wikilink）已在庫 — SKIP，無新材料。
 
 - 2016-06-11 — 大洛杉磯台灣會館會員大會選出第十屆董事31名，賴淑遠當選第三副董事長（董事長林榮松）（[[articles/taiwanjustice-net/2024/20240425081647_root_17835ad9519f9cfe|TJJ, 2016-06-12]]）。
 

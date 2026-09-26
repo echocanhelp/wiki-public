@@ -218,6 +218,7 @@ Notable quotes and mentions of **陳柏宇** in Taiwan Justice articles:
 - [[people/dr-paul-chen||Dr. Paul Chen]] — TAH Who’s Who physician, Redwood City. Different person (same English name only).
 
 ## From the record
+- 複核（TJJ-A09250400-14, 2026-09-25）：本 slice 文章 17835ad9（2016-06-12 會館第十屆董事會報導） 主體連結經正文再驗證為真實對應（無錯鏈、無虛鏈）；對應日期事實條目（含該文 wikilink）已在庫 — SKIP，無新材料。
 
 - 複核（TJJ-A09240900-2, 2026-09-25）：本 slice 文章正文再驗證——本頁 subject 連結為真實提及（無錯鏈、無虛鏈），含該文 wikilink 的日期事實條目已在庫 — SKIP，無新材料。
 - 複核（TJJ-A09240800-15, 2026-09-25）：本 slice 文章 06510e79（2020-11-19 林榮松獲聘政務顧問報導）、77328a2c（2016-06-12 會館第十屆董事會報導）正文再驗證——陳柏宇以會館董事長出席觀禮、及當選第二副董事長兼財務長之記述皆確認見於正文，subject 連結為真，無錯鏈、無虛鏈；2020-11-18 與 2016-06-11 條目（含該文 wikilink）已在庫 — SKIP，已飽和。
@@ -231,6 +232,7 @@ Notable quotes and mentions of **陳柏宇** in Taiwan Justice articles:
 
 - 複核（TJJ-A09240500-2, 2026-09-25）：本 slice 文章 c62f5c50846fe267 正文再驗證——陳柏宇以僑務委員身分列席確認見於正文，subject 連結為真（無錯鏈、無虛鏈）；對應日期條目（已掛該文 wikilink）已在庫 — SKIP，無新材料。
 
+- 複核（TJJ-A09250400-12, 2026-09-25）：本 slice 4 篇 TJJ 文章（95fd8186 二二八77周年追思、26f76359 糖尿病與你、a1b56965 彭明敏紀念研討會、afdbd8b2 台灣會館重建動土）正文再驗證——陳柏宇 以台館董事長致辭（主題「二二八的反抗」）確認見於正文，subject 連結為真（無錯鏈、無虛鏈）；含該文 wikilink 的日期事實條目已在庫 — SKIP，無新材料。
 - 複核（TJJ-A09230900-3, 2026-09-25）：本 slice 4 篇 TJJ 文章（95fd8186 二二八77周年追思、26f76359 糖尿病與你、a1b56965 彭明敏紀念研討會、afdbd8b2 台灣會館重建動土）subject link 再驗證：陳柏宇 對應真實，無錯鏈、無虛鏈；對應 From-the-record 條目已在庫 — SKIP，無新材料。
 - 複核（TJJ-A09230800-1, 2026-09-24）：文章 2a543ddc9301b7b3（會館24週年募款年會公告）、文章 c05e2d53013fcd15（會館疫情服務報導） 正文再驗證——本頁 subject 連結確認見於正文（無錯鏈、無虛鏈）；對應 From-the-record 條目已在庫 — SKIP，無新材料。
 

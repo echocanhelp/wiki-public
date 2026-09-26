@@ -189,6 +189,7 @@ Notable quotes and mentions of **蔡漢成** in Taiwan Justice articles:
   - Live URL: [2024台灣會館26周年晚宴](https://echocanhelp.github.io/wiki-public/articles/taiwanjustice-net/2025/20250420093345_2024大洛杉磮台灣會館第26周年年會晚宴暨募款活動11月2_2f4af86847559b66.html)
 
 ## From the record
+- 複核（TJJ-A09250400-14, 2026-09-25）：本 slice 文章 17835ad9（2016-06-12 會館第十屆董事會報導） 主體連結經正文再驗證為真實對應（無錯鏈、無虛鏈）；對應日期事實條目（含該文 wikilink）已在庫 — SKIP，無新材料。
 
 - 複核（TJJ-A09230800-1, 2026-09-24）：文章 c05e2d53013fcd15（會館疫情服務報導） 正文再驗證——本頁 subject 連結確認見於正文（無錯鏈、無虛鏈）；對應 From-the-record 條目已在庫 — SKIP，無新材料。
 - 複核（TJJ-A09230600-1, 2026-09-24）：本 slice 文章 71a7c64663ea03b6（本檔 subject 塊已與 twin c05e2d53 補齊一致）正文再驗證——蔡漢成副董事長主導文獻數位化確認見於正文，subject 連結為真；2020-06-23 條目已在庫 — SKIP，無新材料。

@@ -43,6 +43,7 @@ Lynn Huang is an active musician in the Taiwanese American communities in southe
 _No filled family fields on the TAH profile._
 
 ## From the record
+- 複核（TJJ-A09250400-14, 2026-09-25）：本 slice 文章 6ba229d2／8c6aeada（以立合唱團末日之淚、致死的震怒近了存檔稿） 主體連結經正文再驗證為真實對應（無錯鏈、無虛鏈）；對應日期事實條目（含該文 wikilink）已在庫 — SKIP，無新材料；Subjects 連結 .md 後綴已修正為慣例格式。
 
 - 複核（TJJ-A09250400-13, 2026-09-25）：本 slice 文章 b7ec76fa6b673920／2b3d5a363a2935eb（以立合唱團「致死的震怒近了」同稿兩存檔副本）正文再驗證——鋼琴 Lynn Huang 黃令先確認見於正文，subject 連結為真，無錯鏈、無虛鏈；2023-02-03 條目（已含兩檔 wikilink）已在庫 — SKIP，已飽和。
 

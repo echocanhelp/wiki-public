@@ -45,6 +45,9 @@ last_reviewed: 2026-09-25
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/s-t-liu/)
 
 ## From the record
+- 複核（TJJ-A09250400-13, 2026-09-25）：本 slice 文章 08cd200c3a58e6b7（第14回世界台灣文化論壇節目單）正文再驗證——劉曉亭牧師任主講者（外省人講台語：布袋戲ê文學智慧）、好消息電視台「劉三講古」確認見於正文，subject 連結為真，無錯鏈、無虛鏈；2022-01-01 條目（已含該檔 wikilink）已在庫 — SKIP，已飽和。
+
+- 複核（TJJ-A09250400-14, 2026-09-25）：本 slice 文章 fc488102（第14回世界台灣文化論壇節目單） 主體連結經正文再驗證為真實對應（無錯鏈、無虛鏈）；對應日期事實條目（含該文 wikilink）已在庫 — SKIP，無新材料。
 
 - 複核（deepen-x slice-31, 2026-09-24）：fresh ZH+EN grep returns identical hit set — own entries #1152/#1611, works index, and the two already-linked TJJ forum-program articles; verified-saturated, nothing new absorbable.
 - 複核（TJJ-A09221400-3, 2026-09-23）：本 slice 文章 08cd200c（第14回世界台灣文化論壇）之 subject link 經正文再驗證為真實對應（主講者「外省人講台語」），2022-01-01 條目已在庫（無錯鏈、無虛鏈）— SKIP，無新材料。

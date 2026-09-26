@@ -42,6 +42,9 @@ last_reviewed: 2026-09-25
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/bao-tyan-wang/)
 
 ## From the record
+- 複核（TJJ-A09250400-13, 2026-09-25）：本 slice 文章 08cd200c3a58e6b7（第14回世界台灣文化論壇節目單）正文再驗證——訪問王寶田博士（與郭月霞長老娘談現代歌仔戲）確認見於節目單，subject 連結為真，無錯鏈、無虛鏈；2022-01-01 條目（已含該檔 wikilink）已在庫 — SKIP，已飽和。
+
+- 複核（TJJ-A09250400-14, 2026-09-25）：本 slice 文章 fc488102（第14回世界台灣文化論壇節目單） 主體連結經正文再驗證為真實對應（無錯鏈、無虛鏈）；對應日期事實條目（含該文 wikilink）已在庫 — SKIP，無新材料。
 
 - 複核（TJJ-A09221400-3, 2026-09-23）：本 slice 文章 08cd200c（第14回世界台灣文化論壇）之 subject link 經正文再驗證為真實對應（訪問嘉賓），2022-01-01 條目已在庫（無錯鏈、無虛鏈）— SKIP，無新材料。
 
