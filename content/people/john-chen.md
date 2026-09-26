@@ -63,3 +63,6 @@ last_reviewed: 2026-09-25
 
 ## Corpus re-grep (2026-09-25, deepen-x slice-09240317-4)
 - SKIP: fresh grep 陳榮儒 / John Chen (works+articles) — hit set identical to records already wikilinked above (ourjourneys228、ourjourneys123/123-eng、ourjourneys197、167、901、687) + John Cheng 誤配頁；無新語料。
+
+## Corpus re-grep (2026-09-25, deepen-x slice-09250700-3)
+- SKIP: fresh grep 陳榮儒 / John Chen (works+articles) — hit set identical to records already wikilinked above (ourjourneys123/123-eng、167、687、ourjourneys228、ourjourneys197) + John Cheng 誤配頁 (910); no new corpus material.
