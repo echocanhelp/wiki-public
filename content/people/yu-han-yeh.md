@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Yu-Han Yeh (葉宇涵)
 
@@ -64,3 +64,5 @@ slice 09230317-20 re-grep (2026-09-24): corpus hit set identical to links alread
 slice 09240317-23 re-grep (2026-09-25): fresh ZH+EN corpus grep; hit set identical to links already absorbed above — no new absorbable facts. SKIP: verified-saturated.
 
 slice 09250700-25 re-grep (2026-09-25): fresh 葉宇涵/Yu-Han Yeh grep; hit set identical (#1208, #354 bibliographic records only, works/index) — no community-trace corpus material. SKIP: verified-saturated.
+
+slice 09260400-32 re-grep (2026-09-26): fresh 葉宇涵/Yu-Han Yeh grep; hit set identical (#1208, #354 bibliographic records only, works/index) — no community-trace corpus material. SKIP: verified-saturated.

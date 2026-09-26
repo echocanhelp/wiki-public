@@ -50,3 +50,5 @@ last_reviewed: 2026-09-26
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - 2026-09-26 corpus re-grep (張月英 / Anna Chang, DEEPEN-X slice 09251000-5): hit-set unchanged (#985 whos-who, ourjourneys49, ourjourneys154, ourjourneys33, works index) — all facts already absorbed; nothing new absorbable.
+
+- 2026-09-26 corpus re-grep (張月英 / Anna Chang, DEEPEN-X slice 09260400-32): hit-set unchanged (#985 whos-who, ourjourneys49, ourjourneys154, ourjourneys33, works index) — all facts already absorbed; nothing new absorbable.
