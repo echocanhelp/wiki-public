@@ -36,3 +36,4 @@ The East Bay Taiwanese Americans Community Service Center (EBTACSC) is a nonprof
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 <!-- deepen-x slice 09240600-19 re-verify 2026-09-25: fresh ZH+EN grep of works/+articles/ — hit set identical to material already absorbed; verified-saturated, no new absorbable facts -->
 <!-- deepen-x slice 09250900-18 re-verify 2026-09-26: fresh ZH+EN grep — hit set identical (OJ 335, senior-ebtacsc, "What Are You?" identity essay, index); verified-saturated, no new absorbable facts -->
+<!-- deepen-x slice 09260400-8 re-verify 2026-09-26: fresh ZH+EN grep (EBTACSC／東灣台美人社區服務中心) — hit set identical (OJ 335 林天德 園藝組 memoir, senior-ebtacsc directory record, "What Are You?" identity essay, index); all already absorbed above; verified-saturated, no new absorbable facts -->

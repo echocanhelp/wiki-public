@@ -55,3 +55,5 @@ _No filled family fields on the TAH profile._
 <!-- deepen-x slice 09240600-23 re-verify 2026-09-25: fresh grep 呂明森/Morisan Lu — same hit set (ourjourneys9-eng/09, ourjourneys17, whos-m-s-lu, index), all already absorbed; verified-saturated SKIP, no conflicts. -->
 
 <!-- deepen-x slice 09250900-22 re-verify 2026-09-26: fresh grep 呂明森/Morisan Lu — identical hit set (ourjourneys9-eng/09, ourjourneys17, whos-m-s-lu, index), all already absorbed; verified-saturated SKIP, no conflicts. -->
+
+<!-- deepen-x slice 09260400-14 re-verify 2026-09-26: fresh grep 呂明森/Morisan Lu — identical hit set (ourjourneys9-eng/09, ourjourneys17, whos-m-s-lu, index), all already absorbed; verified-saturated SKIP, no conflicts. -->

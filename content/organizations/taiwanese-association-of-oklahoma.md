@@ -25,6 +25,7 @@ The Taiwanese Association of Oklahoma (奧克拉荷馬台灣同鄉會) is a regi
 - 同州兄弟組織見 [[works/taiwaneseamericanhistory-org/43-oklahoma-chapter-chapter-fapa|FAPA 奧克拉荷馬州分會]] 及 [[works/taiwaneseamericanhistory-org/taiwanese-american-chamber-of-commerce-of-oklahoma|奧克拉荷馬台灣商會]]。
 - **同鄉通訊錄脈絡**：陳希寬回憶編印第一本《全美台灣同鄉通訊錄》時，奧克拉荷馬州登錄的联系人為王人紀（*，州聯絡人）、陳唐山二人，為本州有組織台美同鄉網絡的最早書面紀錄之一。見 [[works/taiwaneseamericanhistory-org/ourjourneys58|58. 回憶編印第一本《全美台灣同鄉通訊錄》的甘苦經過 / 陳希寬]]。
 - **TAA 奧州分會目錄紀錄**：TAH 網站存有其目錄頁（TAH 全會系統下之 Oklahoma Chapter，2015-11-15 登錄）。見 [[works/taiwaneseamericanhistory-org/oklahoma-chapter-taa|Taiwanese Association of America Oklahoma Chapter 全美台灣同鄉會奧克拉荷馬分會]]。
+- **1990-2010 年代奧州同鄉**：黃根深〈寫在畫展之前〉（2016-10）致謝台美畫展募圖熱心鄉親時，點名「奧克拉荷馬的鄭金生」為購圖同鄉之一，為本州同鄉參與台美文化運動的近期書面紀錄。見 [[works/taiwaneseamericanhistory-org/ourjourneys256|256. 寫在畫展之前 / 黃根深]]。
 - **1980 年代奧州同鄉網絡**：黃美星回憶 1988 年自奧克拉荷馬搬來灣區前，奧州已有台美同鄉圈——她抵灣區後每逢週六即聚數十鄉親吃飯開會聲援台灣民主運動，後與夫婿張信行等于 2003-03 在 Fremont 創立北加州第一間台美人公厝「台灣會館」。此側證 1980 年代奧州已有組織化的台美同鄉往來。見 [[works/taiwaneseamericanhistory-org/ourjourneys53|53. 台灣會館美夢成真 / 黃美星]]。
 
 ## Corpus re-grep (2026-09-23, slice 09220900-13)
