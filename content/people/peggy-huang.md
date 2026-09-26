@@ -58,6 +58,8 @@ Re-grep 黃瑞雅|Peggy Huang: works hit set unchanged (ota-292, whos-who-2199, 
 
 ## From the record
 
+
+- 複核（TJJ-A09250900-1, 2026-09-26）：本 slice 文章 117bdbbd9b362236 正文再驗證——黃瑞雅以約巴林達台裔市議員受訪轉述教友見聞確認見於正文，subject 連結為真（無錯鏈、無虛鏈）；對應日期條目（已掛該文 wikilink）已在庫 — SKIP，無新材料。
 - 複核（TJJ-A09240500-2, 2026-09-25）：本 slice 文章 117bdbbd9b362236 正文再驗證——黃瑞雅以約巴林達台裔市議員受訪轉述教友見聞確認見於正文，subject 連結為真（無錯鏈、無虛鏈）；對應日期條目（已掛該文 wikilink）已在庫 — SKIP，無新材料。
 
 - 複核（TJJ-A09230400-1, 2026-09-24）：subject link 經本 slice 文章 117bdbbd9b362236 正文再驗證為真實對應，對應 From-the-record 條目已在庫並掛鏈本檔（無錯鏈、無虛鏈）— SKIP，無新材料。

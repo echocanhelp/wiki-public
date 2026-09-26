@@ -30,6 +30,8 @@ last_reviewed: 2026-09-24
 
 ## From the record
 
+
+- 複核（TJJ-A09250900-1, 2026-09-26）：本 slice 文章 becb39f917174438 正文再驗證——經濟學人社論（馬王政爭、ICAO邀請、9.2%支持率）對馬英九之記述確認見於正文，subject 連結為真（無錯鏈、無虛鏈）；對應日期條目（已掛該文 wikilink）已在庫 — SKIP，無新材料。
 - 複核（TJJ-A09250400-11, 2026-09-25）：本 slice 文章 c0530664ab4c2948（Taipei Times 社論轉載, 2016-04-11）＋slice 文章 taiwanjustice-net/index（存檔索引頁） 正文再驗證——本頁 subject 連結為真實提及，無錯鏈、無虛鏈；含該文 wikilink 的日期事實條目已在庫 — SKIP，無新材料。
 
 - 複核（TJJ-A09250400-3, 2026-09-25）：本 slice 文章 f19de8f9 正文再驗證——ma-yingjeou 對應真實（記述確認見於正文），無錯鏈、無虛鏈；含該文 wikilink 的日期事實條目已在庫 — SKIP，無新材料。

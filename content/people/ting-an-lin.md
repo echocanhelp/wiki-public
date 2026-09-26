@@ -39,6 +39,8 @@ _No filled family fields on the TAH profile._
 
 ## From the record
 
+
+- 複核（TJJ-A09250900-1, 2026-09-26）：本 slice 文章 2c9cb76838702dd7 正文再驗證——林庭安為海台青召集人確認見於正文，subject 連結為真（無錯鏈、無虛鏈）；對應日期條目（已掛該文 wikilink）已在庫 — SKIP，無新材料。
 - 複核（TJJ-A09250900-2, 2026-09-26）：slice 文章 3260cd0bdf2f84d7 正文再驗證——林庭安為海台青召集人確認見於正文，subject 連結為真，無錯鏈、無虛鏈；2017-07-24 條目（含該文 wikilink）已在庫 — SKIP，已飽和。
 
 - 複核（TJJ-A09240500-2, 2026-09-25）：本 slice 文章 2c9cb76838702dd7 正文再驗證——林庭安為海台青召集人確認見於正文，subject 連結為真（無錯鏈、無虛鏈）；對應日期條目（已掛該文 wikilink）已在庫 — SKIP，無新材料。

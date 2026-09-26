@@ -334,6 +334,8 @@ Notable quotes and mentions of **林榮松** in Taiwan Justice articles:
 
 ## From the record
 
+
+- 複核（TJJ-A09250900-1, 2026-09-26）：本 slice 文章 c62f5c50846fe267 正文再驗證——林榮松以國策顧問致辭確認見於正文，subject 連結為真（無錯鏈、無虛鏈）；對應日期條目（已掛該文 wikilink）已在庫 — SKIP，無新材料。
 - 複核（TJJ-A09250900-2, 2026-09-26）：slice 文章 04f32b14d8cf8f12 即其董事長報告（署名林榮松 2016-12-17），subject 連結為真，無錯鏈、無虛鏈；2016-12-17 條目（含該文 wikilink）已在庫 — SKIP，已飽和。
 - 複核（TJJ-A09250400-14, 2026-09-25）：本 slice 文章 17835ad9（2016-06-12 會館第十屆董事會報導） 主體連結經正文再驗證為真實對應（無錯鏈、無虛鏈）；對應日期事實條目（含該文 wikilink）已在庫 — SKIP，無新材料。
 

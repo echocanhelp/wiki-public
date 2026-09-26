@@ -150,6 +150,8 @@ TAH employment (unparsed string): Tainan Univ. of Technology assoc. prof.; Wenza
 
 ## From the record
 
+
+- 複核（TJJ-A09250900-1, 2026-09-26）：本 slice 文章 c62f5c50846fe267 正文再驗證——蕭泰然作曲《台灣翠青》於追思大會傳唱確認見於正文，subject 連結為真（無錯鏈、無虛鏈）；對應日期條目（已掛該文 wikilink）已在庫 — SKIP，無新材料。
 - 覆核（TJJ-A09250800-6, 2026-09-25）：本 slice 與 TJJ-A09230400-5／TJJ-A09171100-8 重疊，涵蓋同一組文章；正文再驗證——主體連結為真實提及（無錯鏈、無虛鏈），對應日期事實條目（含該文 wikilink）已在庫 — SKIP，無新材料。
 - 複核（TJJ-A09250400-16, 2026-09-25）：本 slice 文章 de11e29571f3dc86（半音合唱團國家音樂廳錄影稿）相關影音欄「蕭泰然教授南加州追思會」條目正文再驗證——subject 連結為真，無錯鏈、無虛鏈；2015-03-14 條目（含該文 wikilink）已在庫 — SKIP，已飽和。
 

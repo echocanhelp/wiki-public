@@ -36,6 +36,8 @@ Founding member and board member of the American Premium Tea Institute (now merg
 
 ## From the record
 
+
+- 複核（TJJ-A09250900-1, 2026-09-26）：本 slice 文章 c62f5c50846fe267 正文再驗證——許正龍以優社會長客台雙語獨唱《台灣翠青》確認見於正文，subject 連結為真（無錯鏈、無虛鏈）；對應日期條目（已掛該文 wikilink）已在庫 — SKIP，無新材料。
 - 複核（TJJ-A09240900-1, 2026-09-25）：本切片四篇正文再驗證——2589c86787ef4241 本人主辦人之一客語吟唱再確認；連結為真，2020-03-01 條目已在庫 — SKIP，無新材料。
 
 - 複核（TJJ-A09240500-2, 2026-09-25）：本 slice 文章 c62f5c50846fe267 正文再驗證——許正龍以優社會長獨唱客台雙語《台灣翠青》確認見於正文，subject 連結為真（無錯鏈、無虛鏈）；對應日期條目（已掛該文 wikilink）已在庫 — SKIP，無新材料。

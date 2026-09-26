@@ -53,6 +53,8 @@ Dr. Long-Rong (Mark) Kao 高龍榮 – History of Taiwanese American (T.A. Archi
 
 ## From the record
 
+
+- 複核（TJJ-A09250900-1, 2026-09-26）：本 slice 文章 2c9cb76838702dd7 正文再驗證——高龍榮以海台青籌辦人及前FAPA總會長引語確認見於正文，subject 連結為真（無錯鏈、無虛鏈）；對應日期條目（已掛該文 wikilink）已在庫 — SKIP，無新材料。
 - 複核（TJJ-A09250900-2, 2026-09-26）：slice 文章 3260cd0bdf2f84d7 正文再驗證——高龍榮以海台青籌辦人/前FAPA總會長身分受訪評述黑客松確認見於正文，subject 連結為真，無錯鏈、無虛鏈；對應條目已在庫 — SKIP，已飽和。
 
 - 複核（TJJ-A09250800-3, 2026-09-25）：本 slice 文章 d2d01925bc6bbba3（English Pages p5, 2024-07-18 快照）正文再驗證——署名欄「Mark Kao 高龍榮/Taipei Times」清單條目確認見於正文，subject 連結為真，無錯鏈、無虛鏈；2015-03-27 條目（已掛該文 wikilink）已在庫 — SKIP，已飽和。
