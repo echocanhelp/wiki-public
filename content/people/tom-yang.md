@@ -54,7 +54,7 @@ Primary material from fellow founders' memoirs in the TAHS corpus positions Yang
 - Corpus re-pass 2026-09-23 (deepen-x slice 09221000-9): SKIP — fresh ZH+EN grep returns the same 3F/UFI memoir cluster already linked above (ourjourneys85 ZH+EN, ourjourneys33, 費城四傑 #10, 五人合影 #198, own #913); no new corpus material, no conflicts.
 - Corpus re-pass 2026-09-21 (deepen-x slice 09210400-3): fresh grep returns the same 3F/UFI memoir cluster already documented above; 盧主義's founding account is now also held in English ([[works/taiwaneseamericanhistory-org/ourjourneys85-eng|85 (EN). The 3F founding account / Tsu-Yi Jay Loo]]) — same account, no new facts, no conflicts.
 - Corpus re-pass 2026-09-24 (deepen-x slice 09230500-19): SKIP — fresh ZH+EN grep returns the same 3F/UFI memoir cluster already linked above (ourjourneys85 ZH+EN, ourjourneys33, 費城四傑 #10, 五人合影 #198, own #913); no new corpus material, no conflicts.
-- Corpus re-pass 2026-09-25 (deepen-x slice 09240500-13): SKIP — fresh ZH+EN grep returns the same 3F/UFI memoir cluster already linked above (ourjourneys85 ZH+EN, ourjourneys33, 費城四傑 #10, 五人合影 #198, own #913); no new corpus material, no conflicts.
+- Corpus re-pass 2026-09-25 (deepen-x slice 09240500-13 / 09250800-8): SKIP — fresh ZH+EN grep returns the same 3F/UFI memoir cluster already linked above (ourjourneys85 ZH+EN, ourjourneys33, 費城四傑 #10, 五人合影 #198, own #913); no new corpus material, no conflicts.
 
 ## Sources
 - [TAH #913 encyclopedia: 913. Tom Yang  楊東傑/ 2016/05](https://taiwaneseamericanhistory.org/whoswho913/)
