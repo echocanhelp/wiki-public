@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Ye-Ming Wu (吳怡明)
 
@@ -56,3 +56,5 @@ last_reviewed: 2026-09-25
 
 - 2026-09-24 deepen-x slice 09230800-11: re-verified — fresh grep returns exactly the linked set (ourjourneys24/53 ±EN, whoswho1184, index); verified-saturated, SKIP.
 - 2026-09-25 deepen-x slice 09240800-7: re-verified — fresh grep 吳怡明/Ye-Ming Wu returns exactly the linked set (ourjourneys24/53 ±EN, whoswho1184); no new corpus material. Verified-saturated, SKIP.
+
+Corpus re-check 2026-09-26 (deepen-x slice 09251000-27): fresh grep of works/+articles/ — hit set unchanged, all hits already wikilinked with facts absorbed. SKIP-deepen; verified saturated.

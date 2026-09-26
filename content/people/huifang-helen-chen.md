@@ -50,3 +50,5 @@ _No filled family fields on the TAH profile._
 - Corpus check 2026-09-24 (deepen-x slice 09230800-11): fresh grep (Huifang/Huifan Helen Chen) — hit set unchanged (184, 381, works index), all already absorbed. SKIP-deepen; HOLD on Huifang-vs-Huifan dedup still pending owner input.
 
 - Corpus check 2026-09-25 (deepen-x slice 09240800-4): fresh grep (Huifang/Huifan Helen Chen) — identical hit set (184, 381, works index); no new corpus material. SKIP-deepen; HOLD on Huifang-vs-Huifan romanization dedup still pending owner input.
+
+- Corpus check 2026-09-26 (deepen-x slice 09251000-22): fresh grep (Huifang/Huifan Helen Chen) — identical hit set (184, 381, works index); no new corpus material. SKIP-deepen; HOLD on Huifang-vs-Huifan romanization dedup still pending owner input.
