@@ -54,6 +54,8 @@ Corpus-absorbed (deepen-x slice 28, 2026-09-14) from 鍾澄文's column [[articl
 
 ## From the record
 
+- 複核（TJJ-A09250400-19, 2026-09-25）：本 slice 文章「希望之光」存檔稿 a40b37bc03b2b9cb 正文再驗證——陳慧如鋼琴確認見於正文，subject 連結為真、無錯鏈無虛鏈；含該檔 wikilink 的 2022-12-02 條目已在庫 — SKIP，無新材料。
+
 - 複核（TJJ-A09230900-10, 2026-09-25）：本切片兩存檔稿（「拯救我」80b33cf1846bc005、「希望之光」a40b37bc03b2b9cb）subject link （希望之光：鋼琴） 經正文再驗證為真實對應（無錯鏈、無虛鏈），含本文 wikilink 的日期條目已在庫 — SKIP，無新材料；兩稿 Subjects 之 people/*.md 後綴連結已修正為慣例格式。
 
 - 複核（TJJ-A09221400-8, 2026-09-23）：「希望之光」2025 存檔（[[articles/taiwanjustice-net/2025/20250524200224_以立合唱團世界首演_希望之光_影音_025f6ed990dc9e2c|025f6ed990dc9e2c]]）subject link（鋼琴陳慧如）經正文再驗證為真實對應，2022-12-02 條目已在庫 — SKIP，无新材料。
