@@ -4,7 +4,7 @@ type: person
 tags:
   - 
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Elder Xu Wenkai (許文凱)
 
@@ -35,3 +35,4 @@ Elder Xu appears in church bulletin records and is recognized as a community eld
 ## Related Pages
 - [[people/index||People Index]]
 - Re-verified SKIP (deepen-x 09232337-32, 2026-09-25): fresh grep 許文凱/Xu Wenkai across works/ and articles/ — still zero corpus hits; nothing absorbable.
+- Re-verified SKIP (deepen-x 09251054-23, 2026-09-26): fresh grep 許文凱/Xu Wenkai across works/ and articles/ — still zero corpus hits; nothing absorbable.

@@ -38,6 +38,7 @@ last_reviewed: 2026-09-26
 - [TAH #963 encyclopedia: 963.  Pei Lin 林伯修/ 2016/05](https://taiwaneseamericanhistory.org/whoswho963/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/pei-lin/)
 
+- Fresh re-verified 2026-09-26 (slice 09251054-19): grep 林伯修/Pei Lin — own record whoswho963 + works index only; SKIP stands.
 - Fresh re-verified 2026-09-25 (slice 09232337-25): grep 林伯修/Pei Lin — own record whoswho963 + works index only; SKIP-with-nothing-absorbable stands.
 
 ## Related Pages

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Cady Tsai (蔡暉玲)
 
@@ -47,3 +47,4 @@ last_reviewed: 2026-09-25
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- Re-verified SKIP (deepen-x 09251054-23, 2026-09-26): fresh ZH+EN grep — hit set unchanged (own record + works index only); nothing absorbable.
