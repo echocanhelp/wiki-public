@@ -1,3 +1,17 @@
+=== SITE DESIGN HEAL — 2026-09-26 dry=0 audit_only=1 ===
+flags: heal=True featured=True publish=True
+SITE_DESIGN_STATUS: ACTION
+SITE_DESIGN_SUMMARY: critical=0 high=2 medium=1 md=15083 heals=publish
+HIGH: [A3] MD without HTML: 19 (recent≤7d: 19)
+HIGH: [B3] new/changed MD missing HTML (≤7d)
+SITE_DESIGN_BRIEF: /home/leedt/echo-system/echopedia/site-design-brief.md
+SITE_DESIGN_HEAL: audit-only status=ACTION
+=== SITE DESIGN AUDIT ===
+SITE_DESIGN_STATUS: ACTION
+SITE_DESIGN_SUMMARY: critical=0 high=2 medium=1 md=15083 heals=publish
+HIGH: [A3] MD without HTML: 19 (recent≤7d: 19)
+HIGH: [B3] new/changed MD missing HTML (≤7d)
+SITE_DESIGN_BRIEF: /home/leedt/echo-system/echopedia/site-design-brief.md
 ## Site design audit — 2026-09-26 00:30
 
 - pages_md=15083
@@ -58,4 +72,3 @@
 
 ### P13 agent scope
 - Only items marked AGENT_SUGGESTED or human-directed layout marker fixes.
-- Canon: echopedia/SITE_DESIGN.md

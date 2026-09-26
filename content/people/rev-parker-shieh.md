@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Rev. Parker Shieh (謝貫明牧師)
 
@@ -56,3 +56,4 @@ last_reviewed: 2026-09-25
 - Corpus re-check 2026-09-23 (deepen-x slice 09221400-7): fresh grep of works/ + articles/ for 謝貫明 / Parker Shieh returns only the own-name entry whos-who-1811 and the works index — no new absorbable material.
 <!-- deepen-x slice 09230800-20 re-verify 2026-09-24: fresh grep of works/+articles/ — hit set identical to records already cited/absorbed; verified-saturated, no new absorbable facts -->
 <!-- deepen-x slice 09240800-14 re-verify 2026-09-25: fresh grep of works/+articles/ — hit set identical to records already cited/absorbed; verified-saturated, no new absorbable facts -->
+<!-- deepen-x slice 09251023-7 re-verify 2026-09-26: fresh grep (謝貫明 / Parker Shieh) — exact-name hits remain own entry whos-who-1811 + works index; broader 'Shieh/謝' hits are other people (謝己/James Jii Shieh TAAGPC, 謝榮春, 沈郁良 Y.L. Shieh) — not absorbable; SKIP-deepen maintained -->

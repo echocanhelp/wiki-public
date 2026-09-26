@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Seng-Jaw Soong (宋盛照)
 
@@ -62,3 +62,4 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- 2026-09-26 deepen-x slice 09251023-8: re-verified — fresh grep 宋盛照/Seng-Jaw Soong returns only own TAH record #1482 and the works index, already wikilinked. Nothing absorbable.

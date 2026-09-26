@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_run": "2026-09-26T00:26:32",
+  "last_run": "2026-09-26T00:30:51",
   "status": "ACTION",
   "stats": {
     "md": 15083,
@@ -94,9 +94,10 @@
     {
       "id": "C1",
       "sev": "LOW",
-      "msg": "spelling signals (sample): 1",
+      "msg": "spelling signals (sample): 2",
       "examples": [
-        "peggy-cooley.md: ?ching"
+        "prof-chin-teh-sun.md: Teh\u2192the",
+        "prof-chin-teh-sun.md: teh\u2192the"
       ],
       "agent": true
     }
@@ -105,14 +106,6 @@
     "publish"
   ],
   "history": [
-    {
-      "at": "2026-09-17T04:45:24",
-      "status": "WARN",
-      "critical": 0,
-      "high": 0,
-      "medium": 1,
-      "finding_count": 4
-    },
     {
       "at": "2026-09-18T04:30:13",
       "status": "ACTION",
@@ -339,6 +332,14 @@
     },
     {
       "at": "2026-09-26T00:26:32",
+      "status": "ACTION",
+      "critical": 0,
+      "high": 2,
+      "medium": 1,
+      "finding_count": 6
+    },
+    {
+      "at": "2026-09-26T00:30:51",
       "status": "ACTION",
       "critical": 0,
       "high": 2,

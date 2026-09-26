@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Taiwanese American Association of Mississippi (密西西比臺灣同鄉會)
 
@@ -34,3 +34,4 @@ The Taiwanese American Association of Mississippi (密西西比臺灣同鄉會) 
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 <!-- deepen-x slice 09230800-31 (2026-09-24): SKIP — re-grep 密西西比 / Association of Mississippi: hit set unchanged (鄭炳全 Ole Miss memoir, works index, generic TaiwanJustice state news only); no new community-organization material. -->
 <!-- deepen-x slice 09240800-22 (2026-09-25): SKIP — re-grep: only generic state mentions (Charles Yu Mississippi Review credit, Hattiesburg guest-writer bio in taiwaneseamerican-org interviews) + prior absorbed records; no organization material. -->
+<!-- deepen-x slice 09251023-8 (2026-09-26): SKIP — re-grep 密西西比臺灣同鄉會 / Association of Mississippi: zero hits in works/ + articles/; prior absorbed records (陳希寬 通訊錄 無名氏, 22-person count, 鄭炳全 Ole Miss memoir) remain the only material. -->

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Z. H. Yang (楊日信博士)
 
@@ -58,3 +58,4 @@ Corpus memoirs (吳朱實) record 楊日信 as a central builder of the Taiwanes
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- Corpus re-check 2026-09-26 (deepen-x slice 09251023-8): fresh grep of works/ + articles/ — hit set unchanged (mystories433, ourjourneys15/322/123, whoswho1504), all already cited and absorbed above. SKIP.
