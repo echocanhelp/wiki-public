@@ -41,6 +41,8 @@ _No filled family fields on the TAH profile._
 
 > Deepen pass 2026-09-25 (slice 09231200-14): SKIP-with-reason — re-grep 楊華生/Wah-Sang Yeung/Vincent Yeung across content/works+content/articles: own record + index only, no new memoir/community material.
 
+> Deepen pass 2026-09-25 (slice 09250500-12): SKIP-with-reason — re-grep again returns only the own TAH record and the works index; nothing absorbable.
+
 ## Sources
 - [TAH #2008 encyclopedia: 2008. Dr. Vincent Wah-Sang Yeung 楊華生醫師](https://taiwaneseamericanhistory.org/whos-who-2008-wah-sang-yeung/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-vincent-wah-sang-yeung/)

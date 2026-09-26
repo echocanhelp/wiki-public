@@ -38,7 +38,7 @@ last_reviewed: 2026-09-25
 ## Role in the Community
 
 - Corpus presence is limited to his two TAH Foundation directory records — [[works/taiwaneseamericanhistory-org/whos-who-2187-patrick-p-lin|2187. Patrick P. Lin 林博智]] (2019-05-12) and [[works/taiwaneseamericanhistory-org/ota-262|262. Patrick P. Lin 林博智]] (OTA, 2019-02-24). No memoir or community-activity record in the story corpus yet (second-generation; father is 林芳仁).
-- HOLD: no corpus material beyond the directory entries; nothing absorbable about community roles. Re-verified 2026-09-21 (slice 09191100-21, again slice 09210317-24, again slice 09220700-17 2026-09-22, again slice 09231100-13 2026-09-25): fresh grep 林博智/Patrick P. Lin across content/works + content/articles still returns only these two directory records plus index adjacency.
+- HOLD: no corpus material beyond the directory entries; nothing absorbable about community roles. Re-verified 2026-09-21 (slice 09191100-21, again slice 09210317-24, again slice 09220700-17 2026-09-22, again slice 09231100-13 2026-09-25, again slice 09250500-14 2026-09-25): fresh grep 林博智/Patrick P. Lin across content/works + content/articles still returns only these two directory records plus index adjacency.
 
 ## Sources
 - [TAH #2187 encyclopedia: 2187. Patrick P. Lin 林博智](https://taiwaneseamericanhistory.org/whos-who-2187-patrick-p-lin/)

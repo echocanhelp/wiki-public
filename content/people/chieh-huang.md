@@ -49,3 +49,4 @@ Corpus records for Chieh Huang are limited to his own TAH Who's Who entry; no me
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - Corpus re-grep 2026-09-25 (deepen-x slice 09231200-13): hit set identical to prior passes (own TAH record + works index only); no community-authored material to absorb (verified-saturated, SKIP).
+- Corpus re-grep 2026-09-25 (deepen-x slice 09250500-14): hit set unchanged — own TAH record [[works/taiwaneseamericanhistory-org/whos-who-1993-chieh-huang|TAH #1993]], works index, and taiwanjustice-net articles matching 黃世傑 ([[people/shih-chieh-huang|shih-chieh-huang]], different person); no absorbable community material (verified-saturated, SKIP).
