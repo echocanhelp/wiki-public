@@ -243,6 +243,8 @@ Notable quotes and mentions of **吳澧培** in Taiwan Justice articles:
 
 ## From the record
 
+- 覆核（TJJ-A09260400-1, 2026-09-26）：本 slice 四篇 TJJ 文章（吳澧培回憶錄前言 9a39a754、唐培禮訃聞兩存檔 74f89ee8／5d471dbe、游朝凱中央社專訪 9c697378）均為前波已吸收文章之重複存檔；本頁 subject 連結經正文再驗證為真實提及（無錯鏈、無虛鏈），含各檔 wikilink 的日期事實條目已在庫 — SKIP，無新材料。
+
 - 複核（TJJ-A09230800-1, 2026-09-24）：文章 2a543ddc9301b7b3（會館24週年募款年會公告） 正文再驗證——本頁 subject 連結確認見於正文（無錯鏈、無虛鏈）；對應 From-the-record 條目已在庫 — SKIP，無新材料。
 - 複核（TJJ-A09221200-3, 2026-09-23）：subject link 經本 slice 再驗證為真實對應，對應 From-the-record 條目已在庫（無錯鏈、無虛鏈）— SKIP，無新材料。
 

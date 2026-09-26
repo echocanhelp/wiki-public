@@ -75,6 +75,8 @@ _No filled family fields on the TAH profile._
 
 ## From the record
 
+- 覆核（TJJ-A09260400-1, 2026-09-26）：本 slice 四篇 TJJ 文章（吳澧培回憶錄前言 9a39a754、唐培禮訃聞兩存檔 74f89ee8／5d471dbe、游朝凱中央社專訪 9c697378）均為前波已吸收文章之重複存檔；本頁 subject 連結經正文再驗證為真實提及（無錯鏈、無虛鏈），含各檔 wikilink 的日期事實條目已在庫 — SKIP，無新材料。
+
 - 覆核（TJJ-A09251300-3, 2026-09-26）：本 slice 文章 c082b03671e7c8ee（慈林「撕開黑幕的光」聯展 CNA 報導, 2024-06-08）正文再驗證——subject 連結為真實提及，無錯鏈、無虛鏈；含該文 wikilink 的 2024-06-08 條目已在庫 — SKIP，已飽和。
 
 - 複核（TJJ-A09240900-2, 2026-09-25）：本 slice 文章正文再驗證——本頁 subject 連結為真實提及（無錯鏈、無虛鏈），含該文 wikilink 的日期事實條目已在庫 — SKIP，無新材料。
