@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Chin Chih Yang (楊金池)
 
@@ -26,7 +26,8 @@ last_reviewed: 2026-09-25
 ## Role in the Community
 
 - Profiled in the TAH encyclopedia: [[works/taiwaneseamericanhistory-org/whoswho1591|1591. Chin Chih Yang 楊金池 / 2017/03]] (2017-03-31).
-- Corpus grep (works/ + articles/) re-verified 2026-09-25 (ZH+EN 楊金池|Chin Chih Yang): hits limited to the own-record above and the works index (band B, no article text). SKIP — no memoir or movement material beyond the TAH profile.
+- Corpus grep (ZH+EN 楊金池|Chin Chih Yang): hits limited to the own-record above and the works index (band B, no article text). SKIP — no memoir or movement material beyond the TAH profile.
+- Corpus re-swept 2026-09-26 (slice 09251039-21): fresh ZH+EN grep of content/works + content/articles again returns only own record [[works/taiwaneseamericanhistory-org/whoswho1591|TAH #1591]] and works/index rows. SKIP-with-reason stands.
 
 
 <!-- tah-tables:start -->
