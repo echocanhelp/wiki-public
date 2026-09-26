@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Edward J. S. Lin (林敬賢)
 
@@ -32,6 +32,8 @@ Edward J. S. Lin (林敬賢) is listed in the TAH Foundation Who’s Who Taiwane
 - 複核 2026-09-25（slice 09231000-18）：再 grep（林敬賢／Edward J. S. Lin）全庫新增吸收 ff293（客家一號禮賓車）、mystories445（守信的蔡英文總統）、ourjourneys75（中文版理事名錄）、whos634；#75 中英文版同錄 2014 FAHR 名錄，非衝突。無新事實。
 - 2021 年以「Edward J. Lin, Hakka For UN NGO Association」名義共同連署台美社會對皮尤研究中心（Pew Research）將台灣人數據併入中國人的抗議聲明，要求以「台灣人」獨立分類重刊。见 [[works/taiwaneseamerican-org/pew-research-center-taiwanese-american-statement|Response to Pew Research Reports Hiding Taiwanese Identity]]（2021-05-01）。此為其與世界客家組織之外、客家联合国會（Hakka For UN NGO Association）角色的直接文獻。
 - 複核（deepen-x slice-09250317-6, 2026-09-25）：re-grep（林敬賢／Edward J. Lin）新命中 Pew 聲明連署一名，已吸收於上；其餘與前次一致。
+
+- 複核（deepen-x slice-09251527-1, 2026-09-26）：fresh grep 林敬賢 / Edward J. S. Lin（works+articles）hit set identical (#378, #252, #75/-eng, 收藏档#98, 口述影像#100, Who's Who #1513/#634, mystories445, ff293) — all already linked above; verified saturated, SKIP-no-new-facts.
 
 ## Family
 

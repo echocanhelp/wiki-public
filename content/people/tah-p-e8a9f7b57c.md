@@ -6,7 +6,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # 蕭樂善
 
@@ -56,3 +56,4 @@ last_reviewed: 2026-09-25
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - Re-verified 2026-09-25 (slice 09250317-27): fresh ZH+EN grep returns only [[works/taiwaneseamericanhistory-org/whos866|TAH #866]] + the daughter' memoir [[works/taiwaneseamericanhistory-org/ourjourneys215|#215]] + works index — both already absorbed. SKIP-with-reason (verified-saturated).
+<!-- deepen-x slice 09251527-6: re-verify 2026-09-26 — fresh grep (ZH+EN, works+articles): hit set identical to prior absorptions, all already linked in Role in the Community. Verified saturated; SKIP-no-new-facts. -->

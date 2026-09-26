@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Agnes Wu (姜瑞香)
 
@@ -49,6 +49,8 @@ last_reviewed: 2026-09-25
 - **Signatory of the 2021 Pew Research community response**, listed as "Agnes Wu, North America Taiwanese Women's Association" among the Taiwanese American community leaders who demanded disaggregated "Taiwanese" census data — [[works/taiwaneseamerican-org/pew-research-center-taiwanese-american-statement|Response to Pew Research Reports Hiding Taiwanese Identity]] (2021-05-01).
 - Her Keimay memorial also exists in English in the movement corpus as first-person narrative: [[works/taiwaneseamerican-org/in-memory-of-my-son-keimay-yang-e2-80-93-a-devoted-supporter-of-itasa|In Memory of my Son, Keimay Yang — A Devoted Supporter of ITASA]] (taiwaneseamerican.org; same content as #176).
 - 複核（deepen-x slice-09250317-6, 2026-09-25）：re-grep 姜瑞香 / Agnes Wu — new hits absorbed above (Pew statement, taiwaneseamerican-org Keimay memorial); remaining hit set unchanged.
+
+- 複核（deepen-x slice-09251527-1, 2026-09-26）：fresh grep 姜瑞香 / Agnes Wu（works+articles）hit set identical (#310, mystories313/-eng, #176, ourjourneys154, mystories351) — all already linked above; verified saturated, SKIP-no-new-facts.
 
 ## Sources
 - [TAH #310 encyclopedia: 310. Agnes Wu 姜瑞香/2015/02](https://taiwaneseamericanhistory.org/310-agnes-wu-%e5%a7%9c%e7%91%9e%e9%a6%99201502/)

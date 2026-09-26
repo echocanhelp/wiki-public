@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # North America Taiwanese Women’s Association – Arizona Chapter (北美洲台灣婦女會亞利桑那分會)
 
@@ -30,6 +30,8 @@ North America Taiwanese Women’s Association – Arizona Chapter is a local cha
 - 2026-09-24 (slice 09230900-4): fresh grep 北美洲台灣婦女會/NATWA × Arizona/亞利桑 — hits remain only this chapter's own record + works/index; no new chapter-level facts — SKIP-with-reason (saturated at chapter layer).
 - 2026-09-23 (slice 09221500-7): fresh grep — Arizona institutional network extended: [[works/taiwaneseamericanhistory-org/arizona-chapter-taa|Taiwanese American Association of Arizona 亞利桑那州台灣同鄉會]] (2015 record) and [[works/taiwaneseamericanhistory-org/taiwanese-american-heritage-week-of-arizona|Taiwanese American Heritage Week of Arizona]] (2018 record, issued under the TAA Arizona chapter name) — NATWA Arizona's own layer unchanged, no new chapter-level facts.
 - 2026-09-25 (slice 09250317-6): fresh grep 北美台灣婦女會/North America Taiwanese Women — corpus-wide hits are umbrella-level or other chapters (e.g. Kansas chapter scholarship project in [[works/taiwaneseamericanhistory-org/ourjourneys303|ourjourneys303]], first-president 張富美 record #19) plus org-tag chrome in concert/photo indexes; nothing Arizona-chapter-level — SKIP (saturated at chapter layer).
+
+- 2026-09-26 (slice 09251527-1): fresh grep 亞利桑那分會 / NATWA×Arizona — hits remain only this chapter's own record + works/index; no chapter-level facts — SKIP (saturated at chapter layer).
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/north-america-taiwanese-womens-association-arizona-chapter/)
