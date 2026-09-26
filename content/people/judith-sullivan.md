@@ -35,7 +35,7 @@ _No filled family fields on the TAH profile._
 
 ## Role in the Community
 
-- Corpus sweep 2026-09-18: no memoir/community-record hits beyond her own TAH Who's Who entry — no absorbable community facts (SKIP-content). TAH encyclopedia record: [[works/taiwaneseamericanhistory-org/whos-who-2054-judith-sullivan||2054. Judith Sullivan 林秀華]]（2018-03-06, bibliographic record only）. Re-verified 2026-09-25 (deepen-x 09231400-23): fresh ZH+EN greps return only this record.
+- Corpus sweep 2026-09-18: no memoir/community-record hits beyond her own TAH Who's Who entry — no absorbable community facts (SKIP-content). TAH encyclopedia record: [[works/taiwaneseamericanhistory-org/whos-who-2054-judith-sullivan||2054. Judith Sullivan 林秀華]]（2018-03-06, bibliographic record only）. Re-verified 2026-09-25 (deepen-x 09231400-23) and 2026-09-26 (deepen-x 09251039-29): fresh ZH+EN greps return only this record.
 
 ## Sources
 - [TAH #2054 encyclopedia: 2054.  Judith Sullivan 林秀華](https://taiwaneseamericanhistory.org/whos-who-2054-judith-sullivan/)
