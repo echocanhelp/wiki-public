@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Y. S. Lee (李延禧)
 
@@ -58,3 +58,4 @@ Accomplishment
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - Corpus re-grep 2026-09-25 (slice 09240317-24): hit set identical to records already absorbed above; no new corpus facts. SKIP-with-reason (saturated).
 - Corpus re-grep 2026-09-25 (slice 09250700-26): hit set identical (TAH #1850, twjustice 大稻埕文 2025/2021 兩版, works/index) — no new corpus facts. Verified saturated; Columbia M.A. 1911 vs 1915 HOLD stands. SKIP-with-reason.
+- Corpus re-grep 2026-09-26 (slice 09260500-5): hit set identical (TAH #1850, twjustice 大稻埕文 2025/2021 兩版, works/index) — no new corpus facts. SKIP-with-reason (verified-saturated); Columbia M.A. 1911 vs 1915 HOLD stands.

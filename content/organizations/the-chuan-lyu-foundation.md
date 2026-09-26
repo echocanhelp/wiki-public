@@ -40,6 +40,8 @@ Corpus re-grep 2026-09-25 (deepen-x slice 09240700-7): fresh grep returned the i
 
 Corpus re-grep 2026-09-26 (deepen-x slice 09251000-3): fresh grep returned the identical hit-set (program records #18/#30/#38/#39/#84/#384/#385 + index). Verified-saturated; nothing new absorbable.
 
+Corpus re-grep 2026-09-26 (deepen-x slice 09260500-5): fresh grep returned the identical hit-set (program records #18/#30/#38/#39/#84/#384/#385 + index). Verified-saturated; nothing new absorbable.
+
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/the-chuan-lyu-foundation/)
 
