@@ -31,6 +31,7 @@ The Taiwanese Student Association at the University of Washington (TSAUW), also 
 
 - Corpus ecosystem note (2026-09-25): the same 2014-10-12 corpus batch records a companion UW campus group — Taiwanese Overseas Students Association (TOSA) 華大海外同學會 ([[works/taiwaneseamericanhistory-org/tosa-taiwnanese-overseas-students-association|TOSA 華大海外同學會]]) — a distinct organization on the same campus; noted, not merged.
 - *Re-grep 2026-09-25 (slice 09240400-1): fresh ZH+EN grep (華大台灣學生會／TSAUW／Taiwanese Student Association at University of Washington) across works/ + articles/ returns only the org's own corpus record and the works index — hit set already absorbed above; verified saturated.*
+- *Re-grep 2026-09-25 (slice 09250700-2): fresh ZH+EN grep returns only the org's own corpus record + works index — same saturated set; nothing new absorbable.*
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-student-association-at-university-of-washington/)

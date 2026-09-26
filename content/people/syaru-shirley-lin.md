@@ -60,3 +60,4 @@ last_reviewed: 2026-09-25
 複核（deepen-x 2026-09-23, slice 09220900-7）：corpus re-grep（林夏如 / Syaru Shirley Lin，works+articles）命中集合不變（whoswho1344、index、四篇 TJJ 引述），全數已吸收，verified-saturated，無新增社群材料。
 複核（deepen-x 2026-09-24, slice 09230400-4）：corpus re-grep（林夏如 / Syaru，works+articles）命中集合不變（whoswho1344、index、四篇 TJJ 引述），全數已吸收，verified-saturated，無新增社群材料。
 複核（deepen-x 2026-09-25, slice 09240317-5）：corpus re-grep（林夏如 / Syaru，works+articles）命中集合不變（whoswho1344、index、四篇 TJJ 引述），全數已吸收，verified-saturated，無新增社群材料。
+複核（deepen-x 2026-09-25, slice 09250700-4）：corpus re-grep（林夏如 / Syaru，works+articles）命中集合不變（whoswho1344、index、四篇 TJJ 引述），全數已吸收，verified-saturated，無新增社群材料。
