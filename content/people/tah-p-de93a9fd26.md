@@ -32,6 +32,7 @@ last_reviewed: 2026-09-26
 ## Role in the Community
 - 2015-01-06 — 列名於 TAH Foundation Who's Who（第 194 則），TAH 網站保存其傳記條目作為台美人歷史記錄：[[works/taiwaneseamericanhistory-org/194-e9-bb-83-e8-81-96-e7-a5-90-e5-8d-9a-e5-a3-ab|194. 黃聖祐 博士]]（value band B）。
 - 語料庫（works/articles）中無其他 memoir 或集會記錄直接提及本人；社群角色資料以 TAH Who's Who 條目為唯一來源。
+- 語料庫重掃（deepen-x 09251047-29，2026-09-26，ZH+EN）：結論不變 — 'Sheng-Yu' 命中僅官聖媛（另一人）及自身條目之索引羅列，無可吸收之社群事實，SKIP。
 - 語料庫重掃（deepen-x 09240400-23，2026-09-25，ZH+EN）：'Sheng-Yu' 命中皆為官聖媛（[[works/taiwaneseamericanhistory-org/31-sheng-yuan-kuan-e5-ae-98-e8-81-96-e5-aa-9b-piano|TAH #31]]、[[works/taiwaneseamericanhistory-org/15125|TAH #446]]，另一人，已排除）；本人僅有自身條目，無可吸收之社群事實。
 
 ## Sources

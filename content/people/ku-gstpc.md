@@ -30,6 +30,7 @@ Brother Ku appears in GSTPC bulletin records. This is a provisional stub pending
 - 2026-09-19 deepen-x sweep: no corpus hits in works/ or articles/ (only the GSTPC bibliographic record exists, no named-member text). SKIP — nothing absorbable.
 - 2026-09-22 deepen-x 09210920-31 re-verify: exact-phrase grep for "Brother Ku" in works/ + articles/ returns zero hits; loose 'Ku ' matches are unrelated persons (Anne Ku, An Ku Shaw, Pei-Ning Ku). SKIP — nothing absorbable.
 - 2026-09-25 deepen-x 09232337-7 re-verify: zero Brother Ku hits; loose Ku/谷 matches are all unrelated (C. Kuo, Goo-Shun Wang, Kun-T Liao records). SKIP stands.
+- 2026-09-26 deepen-x 09251047-29 re-verify: case-insensitive "Brother Ku" grep in works/ + articles/ returns zero hits. SKIP stands.
 
 ## Name Variants / Disambiguation
 - Chinese: 未知
