@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # K. S. Chao (趙坤山)
 
@@ -33,7 +33,7 @@ last_reviewed: 2026-09-25
 <!-- tah-tables:end -->
 
 ## Role in the Community
-Name appears only in its own TAH encyclopedia record [[works/taiwaneseamericanhistory-org/whoswho1195|1195. K. S. Chao 趙坤山 / 2016/07]]. Fresh 2026-09-25 ZH+EN corpus greps of works/ and articles/ found no memoir or community mentions — career detail above remains sourced solely from the TAH profile (SKIP-with-reason; no absorbable community facts).
+Name appears only in its own TAH encyclopedia record [[works/taiwaneseamericanhistory-org/whoswho1195|1195. K. S. Chao 趙坤山 / 2016/07]]. Fresh 2026-09-26 ZH+EN corpus greps of works/ and articles/ (slice 09251031-20) again found only the self-record plus the works index — no memoir or community mentions — career detail above remains sourced solely from the TAH profile (SKIP-with-reason; no absorbable community facts).
 
 ## Family
 
