@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Emily Lin Lee (林榮峰)
 
@@ -46,6 +46,7 @@ For more bio information, please click link in Who’s Who : 564. Emily Lin Lee 
 - Corpus re-grep 2026-09-23 (slice 09221000-14): 林榮峰/Emily Lin Lee/Emily Lee across works+articles returns exactly the same record set (whos564, artist53, ourjourneys316, footsteps-32/33, index) — verified saturated, no new facts, no conflicts.
 - Corpus re-grep 2026-09-24 (slice 09230500-27): ZH+EN scan of works+articles returns the identical set (whos564, ourjourneys316, footsteps-32/33, artist53, index) — no new memoir material. Verified-saturated.
 - Corpus re-grep 2026-09-25 (slice 09240500-20): 林榮峰/Emily Lin Lee/Emily Lee scan of works+articles returns the identical record set (whos564, artist53, ourjourneys316 義工老師 roster, footsteps-32/33, index); the ourjourneys316 roster passage re-read confirms her listing as 李林榮峰 among the 義工老師, already absorbed. No new facts, no conflicts. Verified-saturated.
+- Corpus re-grep 2026-09-26 (slice 09250800-15): her own-name records remain the saturated set, but the corpus carries expanded family context: her son 李伯寧 (Bernard Travis Lee) is documented in [[works/taiwaneseamericanhistory-org/whos-who-592|592. Prof. Bernard Travis Lee 李伯寧教授]], [[works/taiwaneseamericanhistory-org/ota-285|285. Prof. Bernard Travis Lee]] and [[works/taiwaneseamericanhistory-org/288-e6-9d-8e-e4-bc-af-e5-af-a7-e9-86-ab-e5-b8-ab-e7-9a-84-e6-95-85-e4-ba-8b-e6-9|288. 李伯寧醫師的故事 (施長要, 2015/06)]], and the memoir [[works/taiwaneseamericanhistory-org/ourjourneys291|ourjourneys291]] describes him as a world-class 整型外科 (microsurgery) surgeon recently recruited to 哈佛大學醫學院. Her direct records verified-saturated; no conflicts.
 
 ## Sources
 - [TAH #564 encyclopedia: 564. Emily Lin Lee 林榮峰 /2015/08](https://taiwaneseamericanhistory.org/whos564-emily-lin-lee/)

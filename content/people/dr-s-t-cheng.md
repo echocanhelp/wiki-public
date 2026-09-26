@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Dr. S. T. Cheng (鄭信傳醫師)
 
@@ -40,6 +40,7 @@ last_reviewed: 2026-09-25
 - He is listed among the Taiwanese American community signatories of the 2021 statement responding to Pew Research reports that obscured Taiwanese identity: [[works/taiwaneseamerican-org/pew-research-center-taiwanese-american-statement|Response to Pew Research Reports Hiding Taiwanese Identity (2021)]].
 - HOLD: conflict — wife's name on this page (魏妙奎) vs. the Cincinnati memoir and interview title (魏妙圭); not auto-merged.
 
+> Saturate-note (deepen-x slice 09250800-15, 2026-09-26): corpus re-grep ZH+EN (鄭信傳 / S. T. Cheng / 妙圭 / 妙奎) returned the identical hit set (ourjourneys293 / -eng, TAH #2158, videos40, whoswho1065, Pew statement, index) — all already linked above; SKIP this round, HOLD on 魏妙奎 vs 魏妙圭 stands. Verified-saturated.
 > Saturate-note (deepen-x slice 09240500-19, 2026-09-25): corpus re-grep ZH+EN (鄭信傳 / S. T. Cheng / 魏妙圭 / 魏妙奎) returned the identical hit set (ourjourneys293 / -eng, TAH #2158, videos40, whoswho1065, Pew statement, index) — all already linked above; HOLD on 魏妙奎 vs 魏妙圭 stands. Verified-saturated.
 
 ## Sources

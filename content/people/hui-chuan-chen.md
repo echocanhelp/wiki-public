@@ -43,6 +43,7 @@ _No filled family fields on the TAH profile._
 Corpus re-grep 2026-09-21 (slice 09201400-27): hit set identical — only #27 / #1093 plus index listings; no memoir mentions. Verified saturated. Re-grep 2026-09-22 (slice 09211400-21): identical. Re-grep 2026-09-23 (slice 09220900-23): identical — #27, #1093, index listings only; nothing absorbable.
 - Corpus re-grep 2026-09-24 (slice 09230400-22): hit set unchanged (musician27 + whoswho1093 + index only), all already cited. SKIP: saturated.
 - Corpus re-grep 2026-09-25 (slice 09240400-12): hit set unchanged (musician27 + whoswho1093 + index only), all already cited. SKIP: saturated.
+- Corpus re-grep 2026-09-25 (slice 09250800-24): hit set unchanged (musician27 + whoswho1093 + index only), all already cited. SKIP: saturated.
 
 ## Sources
 - [TAH #1093 encyclopedia: 1093. Hui-Chuan Chen 陳慧娟 / 2016/06](https://taiwaneseamericanhistory.org/whoswho1093/)
