@@ -47,3 +47,4 @@ Re-verified 2026-09-23 (slice 09221200-11): fresh ZH+EN grep of works/ + article
 Re-verified 2026-09-24 (slice 09230600-23): fresh ZH+EN grep of works/ + articles/ returned the identical hit set (TAH #228, #810, #378, #363, photo album #81, works index) — all already linked and absorbed above; verified-saturated, no new absorbable facts.
 
 Re-verified 2026-09-25 (slice 09240600-14): fresh ZH+EN grep of works/ + articles/ returned the identical hit set (TAH #228, #810, #378, #363, photo album #81, works index) — all already linked and absorbed above; SKIP-with-reason: verified-saturated, no new absorbable facts.
+<!-- deepen-x slice 09250900-4 re-verify 2026-09-25: fresh ZH+EN grep of works+articles — hit set identical to prior passes, all facts incl. HOLDs already absorbed; SKIP-with-reason: verified-saturated, no new absorbable facts -->

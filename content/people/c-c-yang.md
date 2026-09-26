@@ -58,3 +58,4 @@ HOLD: brother(s) with a near-identical name mentioned in blacklist lore ([[works
 <!-- deepen-x slice 09230700-2 re-verify 2026-09-24: fresh grep 楊朝諄/C. C. Yang across works+articles — same hit set (ourjourneys233, ourjourneys106, mystories423, ourjourneys81-eng, whos-c-c-yang, whos-c-c-yang-2); excerpt re-read (募款組 roster, 謝里法義賣, 黑名單 29, 昌會/北美商會) all already in Role in the Community incl. both HOLDs; no new absorbable facts -->
 
 <!-- deepen-x slice 09240600-8 re-verify 2026-09-25: fresh grep 楊朝諄/C. C. Yang across works+articles — same hit set (ourjourneys233, ourjourneys106, mystories423, ourjourneys81-eng, whos-c-c-yang, whos-c-c-yang-2); all facts incl. both HOLDs already in Role in the Community; verified-saturated -->
+<!-- deepen-x slice 09250900-4 re-verify 2026-09-25: fresh ZH+EN grep of works+articles — hit set identical to prior passes, all facts incl. HOLDs already absorbed; SKIP-with-reason: verified-saturated, no new absorbable facts -->
