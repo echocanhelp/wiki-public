@@ -62,3 +62,5 @@ Per the same 執委 letter and 2026 Annual Meeting invitation: written reports f
 - Re-grep 2026-09-24 (slice 09230400-24): zero hits again for 謝信光 / Xie Xinguang / frankhsieh7 across works+articles; SKIP — sole source remains the NTPC 2025/26 執委 letter (already absorbed above); no memoir material to absorb. No facts invented.
 
 > Corpus re-grep (deepen-x slice 09240400-10, 2026-09-25): zero hits for 謝信光 / Xie Xinguang / frankhsieh7 across works+articles. SKIP — sole source remains the NTPC 2025/26 執委 letter (already absorbed above).
+
+> Corpus re-grep (deepen-x slice 09250800-19, 2026-09-25): zero hits for 謝信光 / Xie Xinguang / frankhsieh7 across works+articles. SKIP — sole source remains the NTPC 2025/26 執委 letter (already absorbed above); no memoir material to absorb. No facts invented.

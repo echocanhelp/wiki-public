@@ -55,3 +55,4 @@ Kuo appears twice in the TAH encyclopedia corpus as a Taiwanese American classic
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 - SKIP 2026-09-25 (slice 09240400-10): re-grep hit set again identical (#319, #699, index) — saturated.
+- SKIP 2026-09-25 (slice 09250800-23): re-grep hit set again identical (#319, #699, index) — saturated.

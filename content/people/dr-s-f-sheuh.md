@@ -44,6 +44,7 @@ _No filled family fields on the TAH profile._
 - Corpus re-grep 2026-09-23 (slice 09220900-25): hit set unchanged (whos-who-1899 + ourjourneys17 + index only), all already cited. SKIP: saturated.
 - Corpus re-grep 2026-09-24 (slice 09230400-22): hit set unchanged (whos-who-1899 + ourjourneys17 + index only), all already cited. SKIP: saturated.
 - Corpus re-grep 2026-09-25 (slice 09240400-11): hit set unchanged (whos-who-1899 + ourjourneys17 + index only), all already cited; memoir quotes and 14-shareholder roster already absorbed. SKIP: saturated.
+- Corpus re-grep 2026-09-25 (slice 09250800-23): hit set unchanged (whos-who-1899 + ourjourneys17 + index only), all already cited. SKIP: saturated.
 
 ## Sources
 - [TAH #1899 encyclopedia: 1899. Dr. S. F. Sheuh 薛信夫博士](https://taiwaneseamericanhistory.org/whos-who-1899-s-f-sheuh/)

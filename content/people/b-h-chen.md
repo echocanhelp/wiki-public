@@ -62,3 +62,4 @@ last_reviewed: 2026-09-25
 > Corpus check (deepen-x slice 09220900-27, 2026-09-23): fresh re-grep (陳炳煌|B. H. Chen|Bing-Huang) — hit set identical (whoswho1292, b-h-chen #1, my-stories-690, works index); no new unabsorbed corpus facts. SKIP: saturated.
 > Corpus check (deepen-x slice 09230400-21, 2026-09-24): fresh re-grep hit set identical (whoswho1292, b-h-chen #1, my-stories-690); no new unabsorbed corpus facts. SKIP: saturated.
 > Corpus check (deepen-x slice 09240400-9, 2026-09-25): fresh re-grep hit set identical (whoswho1292, b-h-chen #1, my-stories-690, works index); no new unabsorbed corpus facts. SKIP: saturated.
+> Corpus check (deepen-x slice 09250800-19, 2026-09-25): fresh re-grep (陳炳煌|B. H. Chen|Bing-Huang) hit set identical (whoswho1292, b-h-chen #1, my-stories-690, works index); no new unabsorbed corpus facts. SKIP: saturated.

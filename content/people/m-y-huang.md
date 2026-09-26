@@ -41,6 +41,7 @@ _No filled family fields on the TAH profile._
 - Corpus re-grep 2026-09-23 (slice 09220900-32): hit set identical (musician419, whoswho1463, whoswho1773, works index) — nothing further absorbable; HOLD stands.
 - Corpus re-grep 2026-09-24 (slice 09230400-25): hit set identical (musician419, whoswho1463, whoswho1773, works index) — no memoir/article mention of 黃美雲; nothing new absorbable. SKIP: page saturated; musician-vs-physician HOLD stands.
 - Corpus re-grep 2026-09-25 (slice 09240500-23): hit set identical (musician419, whoswho1463, whoswho1773, works index); content/articles clean. Verified-saturated, SKIP-with-reason; HOLD stands.
+- Corpus re-grep 2026-09-25 (slice 09250800-23): hit set identical (musician419, whoswho1463, whoswho1773, works index); content/articles clean. SKIP: verified-saturated; HOLD stands.
 
 ## Sources
 - [TAH #419 encyclopedia: 419. 黃美雲,Musician / 07/2017](https://taiwaneseamericanhistory.org/musician419/)
