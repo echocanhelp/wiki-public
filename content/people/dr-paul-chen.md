@@ -49,3 +49,4 @@ TAH Foundation Who’s Who slug `paul-chen`. **No 漢名** on the TAH profile. *
 ## Corpus check (deepen-x 09190400-20, 2026-09-20)
 SKIP (re-confirmed 09211507-25, 2026-09-22) — fresh grep returns only [[works/taiwaneseamericanhistory-org/whoswho1484|TAH #1484 Paul Chen /2017-01]]（書目記錄のみ；両ページに紐づく帰属テキストなし); disambiguation HOLD already recorded — nothing absorbable.
 Re-grep 2026-09-25 (deepen-x slice 09231200-30): ZH-name 陳柏宇 hits in taiwanjustice.net articles (2021 mask donations via 大洛杉磯台灣會館, WHA joint statement, 吳振波 memorial) are attributable to TAHS officer [[people/paul-chen|Paul Chen (陳柏宇)]], not this no-漢名 physician — SKIP-with-reason stands.
+Re-grep 2026-09-25 (deepen-x slice 09250500-2): fresh grep returns only [[works/taiwaneseamericanhistory-org/whoswho1484|TAH #1484]]（書目記錄のみ）+ works index; attribution HOLD stands — SKIP.

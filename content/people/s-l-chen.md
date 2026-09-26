@@ -40,6 +40,7 @@ _No filled family fields on the TAH profile._
 - HOLD: name collision — TAH #1477「S. L. Chen」refers to 陳晳憐 ([[works/taiwaneseamericanhistory-org/whoswho1477]], 2017-01), a different person from 陳世霖; do not merge the two records.
 - SKIP further deepening (re-verified 2026-09-21 and 2026-09-22 slice 09220800-29): fresh grep across works+articles returns only his own TAH records (#1390, #372), the #1477 collision entry, and the works index — all bibliographic copies, no memoir content to absorb.
 - SKIP re-confirmed 2026-09-25 (deepen-x slice 09231100-23): fresh ZH+EN grep returns only own bibliographic records (#1390, #372) + works index; no memoir content to absorb.
+- SKIP re-confirmed 2026-09-25 (deepen-x slice 09250500-2): fresh ZH+EN grep returns own records (#1390, #372), the #1477 陳晳憐 collision entry, + works index; no memoir content to absorb.
 
 ## Sources
 - [TAH #1390 encyclopedia: 1390. S. L. Chen 陳世霖 / 2016/11](https://taiwaneseamericanhistory.org/whoswho1390/)

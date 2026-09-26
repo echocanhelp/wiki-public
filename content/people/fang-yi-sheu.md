@@ -19,6 +19,7 @@ Earlier SKIP note (slice 09180400-23) is superseded: a work page for TAH #1499 n
 - Portrayed in the community film record: Yo-hung Yao's documentary *Salute* (2022) is reviewed in [[works/taiwaneseamerican-org/taiwan-films-that-imagine-taiwanese-america|Taiwan Films That Imagine Taiwanese America]] — the review notes she trained at the Martha Graham Dance Company in New York in her 20s and built a binational career as one of the most important modern dancers to hail from Taiwan.
 - Note: corpus also holds records for other Sheu/Sheuh family members (Danny Sheu, violist; Dr. S. F. Sheuh 薛信夫) — different persons, not merged here.
 - Re-grepped 2026-09-25 (slice 09231200-25): hit set identical to prior pass (own TAH #1499 record, works index, *Salute* review in [[works/taiwaneseamerican-org/taiwan-films-that-imagine-taiwanese-america|Taiwan Films That Imagine Taiwanese America]] — already cited) — verified-saturated; SKIP, nothing absorbable.
+- Re-grepped 2026-09-25 (slice 09250500-2): ZH+EN hits identical again (own TAH #1499 record, works index, *Salute* review — all already cited) — saturated; SKIP, nothing absorbable.
 
 ## Identity Snapshot
 - **English:** Fang-Yi Sheu

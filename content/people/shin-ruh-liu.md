@@ -35,6 +35,7 @@ last_reviewed: 2026-09-25
 - Two Who's Who entries document his place in the community record: [[works/taiwaneseamericanhistory-org/57-shin-ruh-liu-201512|57. 劉新祿 Shin-Ruh Liu / 2015/12]] and [[works/taiwaneseamericanhistory-org/whoswho999|999. Shin-Ruh Liu 劉新祿 / 2016/05]].
 - The short biography's lifespan 1906~1984 matches the Identity Snapshot era; no conflict found.
 - Re-verified 2026-09-25 (deepen-x slice 09231200-5): fresh ZH+EN grep returns only the four records already cited above (#57, #377 小傳 / 洪嘉惠, #376 先父 memoir / 劉兆民, #999) — corpus-saturated, no new material to absorb.
+- Re-verified 2026-09-25 (deepen-x slice 09250500-2): same four records + works index only — saturated; SKIP, nothing absorbable.
 
 ## Family
 
