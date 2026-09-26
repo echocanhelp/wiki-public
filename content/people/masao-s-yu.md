@@ -39,6 +39,7 @@ _No filled family fields on the TAH profile._
 - **1984-07-14** — Founding participant, 北美洲台灣人醫師協會 (NATMA), formally established at Western Michigan University, Ypsilanti, MI, before ~40 physicians; attended as part of the Cleveland delegation. Same source; English account at [[works/taiwaneseamericanhistory-org/ourjourneys74-eng|Our Journeys #74 (EN)]].
 - **FAPA organizing, Ohio** — Credited in the movement memoir [[works/taiwaneseamericanhistory-org/ourjourneys228|Our Journeys #228]] as the 北俄州 physician whose long-term cultivation with the FAPA 克里夫蘭分會 produced Senator Sherrod Brown's repeated pro-Taiwan legislative support.
 - Own TAH Who's Who profile record: [[works/taiwaneseamericanhistory-org/whos-masao-s-yu|671. Masao S. Yu 游祥修 / 2015/10]].
+- Corpus re-verified 2026-09-25 (deepen-x slice 09250600-26): grep confirms the Cleveland founding roster (25 人, 北醫 contingent) and the NATMA 1984-07-14 attendance already absorbed above; no new material.
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/masao-s-yu/)

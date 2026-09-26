@@ -35,6 +35,8 @@ HOLD: the two corpus records render the Chinese name differently (全美台灣�
 
 Full page: [[organizations/national-taiwanese-presbyterian-council||National Taiwanese Presbyterian Council]].
 
+Corpus re-verified 2026-09-25 (deepen-x slice 09250600-26): grep returns only the two tahs.org records already linked above plus the index row; no new memoir coverage; ZH-name HOLD stands.
+
 ## Related Pages
 - [[organizations/national-taiwanese-presbyterian-council||National Taiwanese Presbyterian Council]]
 |- [[organizations/presbyterian-church-in-taiwan||Presbyterian Church in Taiwan]]
