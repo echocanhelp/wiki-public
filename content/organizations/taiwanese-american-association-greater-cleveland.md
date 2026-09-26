@@ -27,7 +27,7 @@ TAA itself was incorporated in Washington D.C. on 1971-08-13 as The Formosan Clu
 
 Cross-chapter fellowship is recorded from the Pittsburgh side: the Pittsburgh chapter's founding history recalls westward visits as far as 克里夫蘭 and Columbus in Ohio, every gathering built around softball games — Cleveland repeatedly a destination on the early TAA inter-chapter circuit ([[works/taiwaneseamericanhistory-org/ourjourneys292|292. 早年匹茲堡台灣同鄉會簡介與歷屆會長考證 / 胡民祥 / 06/2017]]).
 
-_Corpus re-scan 2026-09-25 (slice 09240500-6): fresh ZH+EN grep of works/ + articles/ for 克里夫蘭台灣同鄉會 / Greater Cleveland returns no corpus file beyond this page's own work record and works/index.md — all Cleveland-chapter facts (28-chapter founding roster, NATMA/NATPA/FAPA parallel chapters, Pittsburgh inter-chapter circuit memoir) are already absorbed above. Verified-saturated._
+_Corpus re-scan 2026-09-25 (slice 09250800-1): fresh ZH+EN grep re-run — hit set identical to the prior scan (cleveland-chapter-taa, ourjourneys76/76-eng, ourjourneys74, natma/natpa cleveland chapters, taiwanese-foundation-of-greater-cleveland); no new Cleveland-chapter material. SKIP-deepen._
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-american-association-greater-cleveland/)
