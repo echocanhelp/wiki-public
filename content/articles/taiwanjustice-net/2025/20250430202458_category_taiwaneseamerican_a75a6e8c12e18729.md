@@ -277,3 +277,5 @@ Page 1 of 158
 - [[people/li-lin-cheng|鄭麗伶]] — mentioned in this record
 - [[people/dr-ying-yuan-lee|李應元博士]] — mentioned in this record
 
+（TJJ-A09260400-21 複核 2026-09-26：三條 subject link（黃邦雄、鄭麗伶、李應元博士）經正文再驗證均為真實提及——黃邦雄醫師 HPV 疫苗講堂條目／NATPA 鄭麗伶會長敬弔李應元弔文條目，無錯鏈、無虛鏈；各頁日期事實條目（含本檔 wikilink）已在庫 — 已飽和。）
+
