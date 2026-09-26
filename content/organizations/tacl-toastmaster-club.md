@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # TACL Toastmaster Club (議會學社)
 
@@ -33,3 +33,5 @@ The club's own community record is held in our corpus: [[works/taiwaneseamerican
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+<!-- deepen-x slice 09252123-14 (2026-09-26): verified-saturated — fresh ZH+EN re-grep hits only own record + works index (already absorbed); no new absorbable facts. -->

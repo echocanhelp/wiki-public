@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Taiwanese American Charity and Education Association (台美慈善教育協會)
 
@@ -23,6 +23,7 @@ The Taiwanese American Charity and Education Association is a nonprofit organiza
 - The organization runs a scholarship program for Taiwanese American students, recorded in the corpus as the 台美慈善教協獎學金 award [[works/taiwaneseamericanhistory-org/19-the-taiwanese-american-charity-and-education-association-scholarship-e5-8f-b0|19. The Taiwanese American Charity and Education Association SCHOLARSHIP Award 台美慈善教協獎學金]] (published 2015-07-23). It appeared in the same scholarship roundup as the TAA-NNJ and Houston Taiwanese American Heritage scholarships, placing it among the established Taiwanese American community scholarship grantors.
 - Corpus re-scan 2026-09-21 (slice 09200700-27), re-verified 2026-09-22 (slice 09210800-14), 2026-09-23 (slice 09221500-22), and 2026-09-25 (slice 09231000-27): the only corpus hits are the two bibliographic records already linked above (both hold full text in the source archive, not the vault) — SKIP-deepen, nothing new absorbable.
 - Corpus re-scan 2026-09-25 (slice 09250400-17): fresh ZH+EN greps of content/works + content/articles return hit sets identical to the two records already linked above — saturated, nothing new absorbable. SKIP-with-reason.
+- Corpus re-scan 2026-09-26 (slice 09252123-11): fresh ZH+EN greps return only the two linked records plus works/index — saturated, SKIP.
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-american-charity-and-education-association/)

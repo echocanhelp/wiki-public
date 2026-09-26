@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Yang Yang (楊陽)
 
@@ -49,3 +49,5 @@ _No filled family fields on the TAH profile._
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 <!-- deepen-x slice 09231100-7 (2026-09-25): verified saturated — fresh ZH+EN grep of works/ + articles/ returns only the person's own TAH Who's Who record + works index; no memoir/community material to absorb. -->
 <!-- deepen-x slice 09250400-20 re-check 2026-09-25: still saturated — grep returns only whoswho1568, 836-yang-yang, catching-the-invisible-light (all already linked) + works/index.md. -->
+
+<!-- deepen-x slice 09252123-14 (2026-09-26): verified-saturated — fresh ZH+EN re-grep hit set unchanged (whoswho1568, 836-yang-yang, works index — all already linked; catching-the-invisible-light also already cited); no new absorbable facts. -->
