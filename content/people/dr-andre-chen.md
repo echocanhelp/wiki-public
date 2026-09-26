@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Dr. Andre Chen (陳安哲醫師)
 
@@ -49,3 +49,5 @@ last_reviewed: 2026-09-25
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+<!-- deepen-x slice 09251031-32 recheck 2026-09-26: SKIP — fresh ZH+EN grep of works/+articles matched only own entries #869 and #215 (both already linked) and works/index; no independent memoir material. -->

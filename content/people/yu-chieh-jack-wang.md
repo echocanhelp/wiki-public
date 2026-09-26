@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Yu-Chieh Jack Wang
 
@@ -40,6 +40,7 @@ His own encyclopedia entry is held in the corpus as [[works/taiwaneseamericanhis
 
 HOLD: name collision — [[works/taiwaneseamericanhistory-org/581-gene-jack-wang-e7-8e-8b-e4-bf-8a-e5-82-91-201509|TAH #581 Gene-Jack Wang 王俊傑]] is a different "Jack Wang"; not merged with this scientist.
 - Deepen pass 2026-09-25: SKIP — fresh ZH+EN grep of content/works + content/articles returned only this person's own entry and index listings; no memoir/feature mentions, no new community facts absorbable.
+- Deepen-x slice 09251031-32 recheck 2026-09-26: SKIP — fresh ZH+EN grep matched only own entry #1368, the already-HOLD'd namesake #581 Gene-Jack Wang 王俊傑, and works/index; nothing absorbable.
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/yu-chieh-jack-wang/)

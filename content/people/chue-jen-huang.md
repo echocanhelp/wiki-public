@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Chue-Jen Huang (楊純貞)
 
@@ -46,3 +46,5 @@ last_reviewed: 2026-09-25
 <!-- deepen-x slice 09191200-28 recheck 2026-09-21: SKIP — fresh grep of works/+articles matched only own TAH whos-who work page and works/index; no independent memoir/article material. -->
 
 <!-- deepen-x slice 09231500-6 recheck 2026-09-25: SKIP — fresh ZH+EN grep matched only own work page 566 (+ husband 565 already linked) and works/index; no new memoir material. -->
+
+<!-- deepen-x slice 09251031-32 recheck 2026-09-26: SKIP — fresh ZH+EN grep matched only own work page 566 and works/index (neighbour entries 565/5 already linked or non-memoir); no new material. -->
