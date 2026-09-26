@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Joyce Hwang
 
@@ -50,3 +50,5 @@ Associate Professor
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+Corpus re-scan 2026-09-26 (deepen-x 09251047-1): fresh ZH+EN grep of works/+articles/ — no new mentions beyond own record/index; SKIP, nothing absorbable.

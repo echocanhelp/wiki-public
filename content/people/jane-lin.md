@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Jane Lin (許淑貞)
 
@@ -47,3 +47,5 @@ last_reviewed: 2026-09-25
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 Corpus re-scan 2026-09-25: re-verified — no mentions outside her own record; near-matches remain different people (簡林美枝, Sue-Jane Lin 林素貞 [[works/taiwaneseamericanhistory-org/whoswho1595|1595]]).
+
+Corpus re-scan 2026-09-26 (deepen-x 09251047-1): fresh ZH+EN grep — still only own record + whoswho1595 (Sue-Jane Lin, different person); SKIP, nothing absorbable.

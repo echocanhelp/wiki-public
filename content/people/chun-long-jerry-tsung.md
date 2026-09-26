@@ -40,6 +40,7 @@ Chun Long (Jerry) Tsung 曾俊隆 – History of Taiwanese American (T.A. Archiv
 
 - Recruited (招兵買馬) during the expansion of the Southern California movement network that rotated meetings between Los Angeles, Orange County, and San Diego, joining alongside 陳榮昌, 劉信逹, 石正平, and 簡長明 ([[works/taiwaneseamericanhistory-org/ourjourneys265|265. 2011年美西夏令會的回顧 / 黃根深 /11/2016]]).
 - His Who's Who record (#1462, 2017-01) is itself in the corpus ([[works/taiwaneseamericanhistory-org/whoswho1462|1462. Chun Long (Jerry) Tsung 曾俊隆]]).
+- 2026-09-26 re-check: fresh corpus grep matched only ourjourneys265 (already absorbed above), his own #1462 record, and the works index — no new community material.
 
 ## Sources
 - [TAH #1462 encyclopedia: 1462. Chun Long (Jerry) Tsung 曾俊隆 / 2017/01](https://taiwaneseamericanhistory.org/whoswho1462/)
