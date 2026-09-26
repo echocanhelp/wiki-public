@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # F.Y. Anthony Shaw (蕭芳苑)
 
@@ -38,7 +38,7 @@ last_reviewed: 2026-09-25
 
 ## Role in the Community
 
-- The vault corpus holds his TAH Who's Who encyclopedia entry as his primary record: [[works/taiwaneseamericanhistory-org/whoswho875-anthony-shaw|TAH #875 F.Y. (Anthony) Shaw 蕭芳苑, 2016/03]]. No other corpus mentions found (2026-09-18 deepen-x sweep of `works/` + `articles/`), so no community activity beyond the directory biography is absorbable.
+- The vault corpus holds his TAH Who's Who encyclopedia entry as his primary record: [[works/taiwaneseamericanhistory-org/whoswho875-anthony-shaw|TAH #875 F.Y. (Anthony) Shaw 蕭芳苑, 2016/03]]. No other corpus mentions found (2026-09-26 deepen-x sweep of `works/` + `articles/`), so no community activity beyond the directory biography is absorbable.
 
 ## Sources
 - [TAH #875 encyclopedia: 875. F.Y. (Anthony) Shaw 蕭芳苑 / 2016/03](https://taiwaneseamericanhistory.org/whoswho875-anthony-shaw/)
