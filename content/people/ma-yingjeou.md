@@ -29,12 +29,15 @@ last_reviewed: 2026-09-24
 - **Do not invent:** No birth data, family, or private contact on this page
 
 ## From the record
+- 複核（TJJ-A09250400-3, 2026-09-25）：本 slice 文章 f19de8f9 正文再驗證——ma-yingjeou 對應真實（記述確認見於正文），無錯鏈、無虛鏈；含該文 wikilink 的日期事實條目已在庫 — SKIP，無新材料。
+
 
 - 複核（TJJ-A09250400-7, 2026-09-25）：slice 文章 9e7164ea03c1512b（The Madness of Ma, Jack Healey 聲明, 2013-04-22）正文再驗證——指馬政府涉入司法、「慢動作謀殺」扁等記述確認見於正文，subject 連結為真，無錯鏈、無虛鏈；含該文 wikilink 的日期事實條目已在庫 — SKIP，無新材料。
 
 
 - 複核（TJJ-A09250400-6, 2026-09-26）：本 slice 文章 f51d2ebb674cbdd3（English Pages 分類存檔頁 p13, 2024-05-22 快照）正文再驗證——「『人權先生』籲馬認錯 莫對媒體施壓」及〈The Shutdown in Taiwan: Ma Ying-jeou's Peculiar Obsession〉確認見於正文，subject 連結為真，無錯鏈、無虛鏈；對應條目（已含該文 wikilink）已在庫 — SKIP，已飽和。
 
+- 複核（TJJ-A09250400-8, 2026-09-25）：本 slice 文章 ae7271322e42897b（當直選的統派總統發飆，范姜提昂/Taipei Times 2015-03-10）正文再驗證——馬英九為全文主角（首位直選統派總統、九月風暴逼宮王金平論述），subject 連結為真，無錯鏈、無虛鏈；既有條目已涵蓋 — SKIP，已飽和。
 - 複核（TJJ-A09240800-6, 2026-09-25）：本 slice 文章 adc931e5b99bb0a9（van der Wees 評 2012 大選）正文再驗證——馬英九 2008 承諾出讓黨產未兌現、勝選出於對不穩定之恐懼等記述確認見於正文，subject 連結為真（無錯鏈、無虛鏈）；2012-01-29 條目已在庫 — SKIP，無新材料。
 
 - 複核（TJJ-A09240500-2, 2026-09-25）：本 slice 文章 becb39f917174438 正文再驗證——馬英九為最不受歡迎民選總統之一、9.2%支持度、ICAO突破確認見於正文，subject 連結為真（無錯鏈、無虛鏈）；對應日期條目（已掛該文 wikilink）已在庫 — SKIP，無新材料。
