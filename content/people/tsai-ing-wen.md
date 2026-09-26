@@ -137,3 +137,4 @@ name_en: "Tsai Ing-wen"
 - 2015-04-16 — TJJ 轉載 LA Times（Ralph Jennings, 2015-04-15）：民進黨於週三提名58歲的法律學者蔡英文參選2016年1月總統選舉，民調領先至少10個百分點，有望成為台灣首位女性總統；Cornell Law 與 LSE 背景，主張與北京對話但要求兩岸對等會談，並引述台灣智庫副執行長賴怡忠評其不會以台獨為優先（[[articles/taiwanjustice-net/2024/20240616133139_root_b63290424caedcf7|TJJ 轉載 LA Times, 2015-04-16]]）。
 - 連結複核（TJJ-A09251300-4, 2026-09-26）：本 slice 四篇 TJJ 文章（6d9cd937 台灣入WHO論壇公告／accbf8ee 劉雲平AZ疫苗信函／bff4c711 祝賀蕭美琴履任／ad7f737b 第55回世界臺灣文化論壇）subject 連結逐一正文再驗證——本頁人物確認見於正文，連結為真，無錯鏈、無虛鏈；對應日期事實條目（含該文 wikilink）已在庫 — SKIP，已飽和。
 
+<!-- TJJ-A09260400-10: verified 2026-09-26 — subject links in slice article beff9b8cd9711c3d（彭博讚蔡英文, 2020-09-22）re-checked vs 正文; both real (Tiffany Ma 馬翊庭 quote, 蔡總統主體); dated facts already in From the record — saturated, no new material. -->

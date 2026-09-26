@@ -68,3 +68,5 @@ _No filled family fields on the TAH profile._
 - 2026-09-25 DEEPEN-X09250317-7: fresh grep (ZH+EN) hit set identical to records already cited on this page — verified-saturated, SKIP-no-new-facts.
 
 - 2026-09-26 DEEPEN-X09251451-2: fresh grep (洪錦鈺/Jennifer Hung) hit set (whoswho1485, works index) identical to records already cited here — verified-saturated, SKIP-no-new-facts.
+
+<!-- TJJ-A09260400-28: verified 2026-09-26 — slice articles 073ea211088c8fae / e9ec20fd58bf6b1c / c595d332038f73bb / c30596cc1ea6e337 (tag/directory pages) re-checked vs 正文; subject link real, dated fact w/ article wikilink already in From the record — saturated, no new material. -->

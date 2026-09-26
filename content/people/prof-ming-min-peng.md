@@ -139,3 +139,4 @@ _No filled family fields on the TAH profile._
 <!-- TJJ-A09251500-2: verified 2026-09-26 — subject links in slice 09251500-2 articles (1251d9ed 五大會館萊豬聲明 / 92ff3ef6 彭明敏研討會 / 6e021ae4 吳修銘任拜登特助 / e1e223aa 蘇姿丰年薪榜首) re-checked vs 正文; all real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A09260400-3: verified 2026-09-26 — slice 09260400-3 四篇（廖清山〈一顆難以忘懷的台灣心〉cbf185d4；楊遠薰《卓甫良與TAF的故事》兩存檔 f06677a4／e7aad53f；獨傲村夫〈反攻大陸（下）〉dd1007a6）subject links 正文再驗證均為真實提及，無錯鏈、無虛鏈；含各檔 wikilink 的日期事實條目已在庫 — saturated, no new material. -->
+<!-- TJJ-A09260400-10: verified 2026-09-26 — subject links in slice article 2a543ddc9301b7b3（會館24週年募款年會公告）re-checked vs 正文; all real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->

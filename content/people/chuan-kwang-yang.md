@@ -66,3 +66,4 @@ last_reviewed: 2026-09-25
 複核（deepen-x 2026-09-22 slice-10）：re-grep（楊傳廣 / Chuan-Kwang Yang, works+articles）命中集合與前次完全相同（ff374、videos115、whos-who-2152、index、TJJ 紀政告），全部已吸收 — 飽和，無新增社群材料。
 複核（deepen-x 2026-09-24 slice-14 完成盤）：re-grep（楊傳廣 / Chuan-Kwang Yang / C.K. Yang, works+articles）命中集合不變（ff374、videos115、whos-who-2152、TJJ 紀政告），全部已吸收 — 飽和，無新材料。
 複核（deepen-x 2026-09-25 slice-09240317-4）：re-grep（楊傳廣 / Chuan-Kwang Yang / C.K. Yang, works+articles）命中集合不變（ff374、videos115、whos-who-2152、index、TJJ 紀政告），全部已吸收 — 飽和，無新材料。
+<!-- TJJ-A09260400-10: verified 2026-09-26 — subject links in slice article 2a543ddc9301b7b3（會館24週年募款年會公告）re-checked vs 正文; all real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->

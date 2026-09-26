@@ -94,3 +94,4 @@ _No filled family fields on the TAH profile._
 <!-- TJJ-A09250800-4: verified 2026-09-26 — subject links in slice 09250800-4 articles (6f2b431c / 08b82976 / 1a2bdc08 / 53455d7e) re-checked vs 正文; all real (1a2bdc08 Subjects links fixed: stray .md suffix removed); dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A09260400-11: verified 2026-09-26 — subject link in slice article d2dbfe220e437602（2017 美東夏令會報導, 29faf54b8c9e2d10 同文副本）re-checked vs 正文; real mention, no wrong/spurious links; dated fact w/ article wikilink already in From the record; article-side .md suffix on Subjects link fixed — saturated, no new material. -->
+<!-- TJJ-A09260400-10: verified 2026-09-26 — subject links in slice article 29faf54b8c9e2d10（2017美東夏令會報導）re-checked vs 正文; all real, no wrong/spurious links (authors 雙管道符 typo fixed); dated fact w/ article wikilink already in From the record — saturated, no new material. -->

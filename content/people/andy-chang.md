@@ -60,3 +60,5 @@ _No filled family fields on the TAH profile._
 - Re-verified 2026-09-26 (deepen-x slice 09260400-25): fresh ZH+EN grep of works/ + articles/ — hit set identical (publications 174/1050/1051, whoswho1442, ourjourneys107/260, all already wikilinked/absorbed above). No new absorbable facts. SKIP-with-reason: verified-saturated.
 
 - 2012-02-22 — Lectured at the 長青教室 on 台灣國際外交的突破 (breakthroughs in Taiwan's international diplomacy) (心得報告 posted 2012-02-23) ([[articles/taiwanjustice-net/2024/20240621163532_root_e9ec20fd58bf6b1c|TJJ tag page, archived 2024-06-21]]).
+
+<!-- TJJ-A09260400-28: verified 2026-09-26 — slice articles 073ea211088c8fae / e9ec20fd58bf6b1c / c595d332038f73bb / c30596cc1ea6e337 (tag/directory pages) re-checked vs 正文; subject link real, dated fact w/ article wikilink already in From the record — saturated, no new material. -->

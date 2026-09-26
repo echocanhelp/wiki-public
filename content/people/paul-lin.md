@@ -73,3 +73,5 @@ last_reviewed: 2026-09-25
 - Corpus re-grep 2026-09-22 (slice 09220800-13): hit set identical (whoswho1085-2, ourjourneys107, ourjourneys296, works index, TJJ MANIFEST + archive pages) — verified-saturated, no new material.
 - Corpus re-grep 2026-09-23 (slice deepen-x-09230317-12): hit set identical (whoswho1085-2, ourjourneys107, ourjourneys296, works index, TJJ MANIFEST + archive pages) — verified-saturated, no new material.
 - HOLD: name collision — "Paul Lin 林年松" appears as a 1999-era officer of the Taiwanese Association of Greater Kansas City ([[works/taiwaneseamericanhistory-org/ourjourneys296|296. 平原區台灣人秋令會的介紹 / 童海南 /06/2017]]); 林年松 ≠ 林水波, not merged.
+
+<!-- TJJ-A09260400-28: verified 2026-09-26 — slice articles 073ea211088c8fae / e9ec20fd58bf6b1c / c595d332038f73bb / c30596cc1ea6e337 (tag/directory pages) re-checked vs 正文; subject link real, dated fact w/ article wikilink already in From the record — saturated, no new material. -->

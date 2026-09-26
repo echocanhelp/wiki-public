@@ -157,4 +157,4 @@ Pages that link to **wang-gui-rong** (wang-gui-rong):
 - [[people/huang-gen-shen||Huang Gen-shen (黃根深)]]
 - [[organizations/taiwan-american-foundation||Taiwanese American Foundation (TAF)]]
 - [[organizations/taiwan-center||LA Taiwan Center]]
-- [[people/franklin-ping-cheng||Franklin Ping Cheng (程炳成) — 2017 TAHS president]]
+- [[people/franklin-ping-cheng||Franklin Ping Cheng (程炳成) — 2017 TAHS president]]<!-- TJJ-A09260400-10: verified 2026-09-26 — subject links in slice article 2a543ddc9301b7b3（會館24週年募款年會公告）re-checked vs 正文; all real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->

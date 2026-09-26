@@ -284,3 +284,4 @@ Notable quotes and mentions of **吳澧培** in Taiwan Justice articles:
 - [[organizations/tah-foundation||TAH Foundation]]
 
 - [[people/albert-s-lai||Dr. Albert S. Lai]]
+<!-- TJJ-A09260400-10: verified 2026-09-26 — subject links in slice article 2a543ddc9301b7b3（會館24週年募款年會公告）re-checked vs 正文; all real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->

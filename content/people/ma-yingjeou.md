@@ -141,3 +141,4 @@ last_reviewed: 2026-09-26
 - [[people/freeman-huang||Freeman Huang (黃樹人)]]
 
 <!-- TJJ-A09260400-6: verified 2026-09-26 — subject link becb39f917174438 confirmed real; 2013-10-06 dated fact w/ wikilink already in From the record — saturated. -->
+<!-- TJJ-A09260400-10: verified 2026-09-26 — subject links in slice article f19de8f9d3b53071（Chen Shui-bian return to prison, 2013-04-22）re-checked vs 正文; all real, no wrong/spurious links (.md suffixes stripped from Subjects block); dated fact w/ article wikilink already in From the record — saturated, no new material. -->
