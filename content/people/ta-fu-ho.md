@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Ta-Fu Ho (何達夫博士)
 
@@ -48,3 +48,5 @@ last_reviewed: 2026-09-25
 
 <!-- deepen-x 2026-09-22: re-scan (ZH+EN) — hits limited to own records whoswho1264 + memorial-scholarship work 34, both already absorbed. Verified current. -->
 <!-- deepen-x slice 09231400-30 2026-09-25: re-grep (ZH+EN) — hits remain limited to own records whoswho1264 + memorial-scholarship work 34, already absorbed. SKIP: no new corpus material. -->
+
+<!-- deepen-x slice 09251031-18 2026-09-26: re-grep (ZH+EN) — hits remain whoswho1264 + memorial-scholarship work 34, both absorbed. SKIP: no new corpus material. -->

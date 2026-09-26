@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Jaw Sy Chen (陳昭司)
 
@@ -47,3 +47,5 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+<!-- deepen-x slice 09251031-18 2026-09-26: re-grep (ZH+EN) — hits remain ourjourneys311 (officer line 1982.5 會長 陳昭司, already absorbed) + own whoswho1661. SKIP: nothing further absorbable. -->

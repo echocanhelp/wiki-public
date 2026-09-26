@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Taiwanese Association of Students at Tufts
 
@@ -29,3 +29,5 @@ The Taiwanese Association of Students at Tufts (TAST) is a culture-oriented stud
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+- 2026-09-26 re-verify (deepen-x 09251031-18): fresh grep — no TAST hit in works/articles ("TAST" matches are TASTA 華府台灣產業科技協會, unrelated). SKIP stands.
