@@ -40,6 +40,7 @@ _No filled family fields on the TAH profile._
 
 - Re-verified 2026-09-22 (deepen-x slice 09211507-27): re-grepped ZH+EN against content/works + content/articles; hit set unchanged from prior pass — verified-saturated, no new corpus material absorbable.
 - Corpus re-check 2026-09-25 (slice -22): hit set unchanged (#298, #649, index). Verified-saturated.
+- Corpus re-check 2026-09-25 (slice 09250500-13): hit set unchanged (#298, #649, index). Verified-saturated; no new absorbable material.
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/ja-hsieh/)

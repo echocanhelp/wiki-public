@@ -23,6 +23,8 @@ The Taiwanese Association of Tampa Bay (佛州天霸市台灣同鄉會) is a reg
 - The chapter has its own historical record in the TAH story corpus: [[works/taiwaneseamericanhistory-org/ta-tampa-bay-fl|Taiwanese Association of Tampa Bay, FL 佛州天霸市台灣同鄉會]] (published 2014-10-12, value band B), which documents the chapter within the national TAA network.
 - The Tampa Bay area also hosted a parallel community institution, the Taiwanese Chamber of Commerce of Tampa Bay Florida (天柏灣台灣商會), recorded at [[works/taiwaneseamericanhistory-org/taiwanese-chamber-of-commerce-of-tampa-bay-florida|35. Taiwanese Chamber of Commerce of Tampa Bay Florida 天柏灣台灣商會]] (2016-05-06) — a business association distinct from this hometown association.
 
+_Note (2026-09-25, deepen-x slice 09250500-11): re-verified — fresh grep 佛州天霸市台灣同鄉會 / "Taiwanese Association of Tampa" in works+articles returns only the chapter's own record ta-tampa-bay-fl + index line (already absorbed); no memoir material. Verified-saturated._
+
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-association-of-tampa-bay/)
 

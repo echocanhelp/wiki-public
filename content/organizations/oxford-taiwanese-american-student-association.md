@@ -28,6 +28,8 @@ The Oxford Taiwanese American Student Association (Oxford TASA) is a student org
 >
 > Re-verified 2026-09-25 (slice 09231200-12): SKIP again — fresh grep (Oxford Taiwanese / OTASA / 牛津) in works+articles returns zero hits; still nothing absorbable beyond the TAH directory record.
 
+> Re-verified 2026-09-25 (slice 09250500-11): SKIP again — fresh grep Oxford Taiwanese / OTASA / 牛津 in works+articles; the only 牛津 hits remain taiwanjustice UK-pandemic news, unrelated. Nothing absorbable.
+
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/oxford-taiwanese-american-student-association/)
 
