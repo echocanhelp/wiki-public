@@ -32,7 +32,7 @@ Born and raised in Taiwan, Indigenous Taiwanese pianist Joy Chi Wang graduated f
 <!-- tah-tables:end -->
 
 ## Role in the Community
-- Corpus coverage consists of two TAH Foundation Who's Who records from September 2016 — [[works/taiwaneseamericanhistory-org/musician365|TAH #365 (pianist profile)]] and [[works/taiwaneseamericanhistory-org/whoswho1288|TAH #1288]] — held as bibliographic records; no memoir/community text beyond the press-kit profile was found in the corpus (SKIP-deepen: no community-record facts in corpus hits). Re-confirmed by corpus scans 2026-09-18 (deepen-x slice 09171000-6), 2026-09-20 (slice 09180900-21), and 2026-09-25 (slice 09231200-27): hits remain only the two band-B directory records + index.
+- Corpus coverage consists of two TAH Foundation Who's Who records from September 2016 — [[works/taiwaneseamericanhistory-org/musician365|TAH #365 (pianist profile)]] and [[works/taiwaneseamericanhistory-org/whoswho1288|TAH #1288]] — held as bibliographic records; no memoir/community text beyond the press-kit profile was found in the corpus (SKIP-deepen: no community-record facts in corpus hits). Re-confirmed by corpus scans 2026-09-18 (deepen-x slice 09171000-6), 2026-09-20 (slice 09180900-21), and 2026-09-25 (slice 09231200-27): hits remain only the two band-B directory records + index. Re-confirmed 2026-09-25 (slice 09250600-28): same hit set, SKIP stands.
 
 ## Family
 

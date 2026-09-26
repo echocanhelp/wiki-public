@@ -46,3 +46,4 @@ _No filled family fields on the TAH profile._
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 - 2026-09-25 覆核（deepen-x 09231300-20）：works/、articles/ 全庫再查，僅見自身 TAH 檔案、index 與上列同名消歧紀錄，無新社群事蹟可吸收。
+- 2026-09-25 覆核（deepen-x 09250600-29）：works/、articles/ 全庫再查，僅見自身 TAH 檔案、index 與同名消歧紀錄，無新社群事蹟可吸收。

@@ -33,6 +33,7 @@ _No filled family fields on the TAH profile._
 ## Role in the Community
 
 - Community record: TAH story record "267. I-Chunn Lee, Pianist" (2015-08-15), part of the TAH musician-profile series alongside 266. 王雅惠 (conductor), 265. 王培儒 (violinist), and 264. 陳映妤 (pianist). Record held at [[works/taiwaneseamericanhistory-org/267-i-chunn-lee-pianist|267. I-Chunn Lee, Pianist]]; bibliographic record only — no narrative facts absorbable beyond the pianist profile itself. Re-verified 2026-09-22 and again 2026-09-25 (deepen-x slice 09231200-10): re-grep ZH+EN across content/works + content/articles — hit set unchanged (own TAH record + index row only); SKIP-with-reason stands.
+- Re-grep 2026-09-25 (slice 09250600-28): hit set again only [[works/taiwaneseamericanhistory-org/267-i-chunn-lee-pianist|own TAH record #267]] + index row; no community/memoir text — SKIP stands.
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/i-chunn-lee/)

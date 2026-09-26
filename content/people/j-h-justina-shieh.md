@@ -29,7 +29,7 @@ Accomplishment
   - [[works/taiwaneseamericanhistory-org/whos-who-1217-j-h-shieh|1217. J. H. (Justina) Shieh 謝節惠]] — published 2016-08-06
 
 HOLD: no memoir text in the corpus; the two encyclopedia entries have not been compared for content conflicts.
-- Corpus re-grep 2026-09-25: hit set unchanged (own two Who's Who records + works index only); no memoir or community-organizing text names her — nothing new absorbable.
+- Corpus re-grep 2026-09-25: hit set unchanged (own two Who's Who records + works index only); no memoir or community-organizing text names her — nothing new absorbable (re-grep 2026-09-25, slice 09250600-28: same hit set — own two Who's Who records + index; SKIP stands).
 
 ## Family
 

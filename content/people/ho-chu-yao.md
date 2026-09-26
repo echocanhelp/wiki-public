@@ -51,3 +51,4 @@ last_reviewed: 2026-09-25
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 - Corpus re-grep 2026-09-25 (deepen-x 09231300-20): hit set unchanged (own TAH record + index only); 姚慶章 couple links already recorded; no new community facts absorbable.
+- Corpus re-grep 2026-09-25 (deepen-x 09250600-29): hit set unchanged (own TAH #304 + index only); 姚慶章 couple links already recorded; nothing new absorbable.

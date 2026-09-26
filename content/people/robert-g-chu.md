@@ -47,3 +47,4 @@ last_reviewed: 2026-09-25
 <!-- DEEPEN-X RECHECK 2026-09-20: corpus grep re-run (朱靜懷 / Robert G. Chu, works+articles) — hit set identical to 09-18 pass: own TAH #2144 record + index entry only. SKIP stands. -->
 <!-- DEEPEN-X RECHECK 2026-09-21: corpus grep re-run (朱靜懷 / Robert G. Chu / 朱明威 / 蔡珠美, works+articles) — hit set unchanged: own TAH #2144 record only. SKIP stands. -->
 <!-- DEEPEN-X RECHECK 2026-09-25 (slice 09231300-22): corpus grep re-run (ZH+EN, works+articles) — hit set unchanged from 09-21/09-22 passes: own TAH record/index only. SKIP stands. -->
+<!-- DEEPEN-X RECHECK 2026-09-25 (slice 09250600-28): corpus grep re-run (ZH+EN, works+articles) — hit set unchanged: own TAH #2144 record + index only. SKIP stands. -->
