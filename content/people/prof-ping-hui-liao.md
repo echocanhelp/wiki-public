@@ -49,6 +49,7 @@ _No filled family fields on the TAH profile._
 - Chairman, Society of Comparative Literature of the Republic of China
 
 ## From the record
+- 2025-01-25 — 第166回世界台灣文化論壇（試論台美人 ê 文化遺產 kap 傳承）：正文（台文）稱「廖炳輝教授」，英文譯文作 Peng-hui Liao, UC San Diego's Taiwan Studies Center——指本人，與會分享保存台美史料（收集、保藏、數位化、傳播）之重要性（[[articles/taiwanjustice-net/2025/20250318093802_第166回世界台灣文化論壇_試論台美人-e-文化遺產-kap-傳_2490b18e8f37ea79|TJJ, 2025-01-22]]）。
 
 - 複核（TJJ-A09240800-13, 2026-09-25）：本 slice 文章 ad7f737b9872262d（第55回世界臺灣文化論壇 廖炳惠教授論「大佛普拉斯」, 2022-10-03）正文再驗證——主講人廖炳惠（UCSD 台灣學研究中心主任，引 forthcoming Siting Postcoloniality Duke UP 2023）確認見於正文，subject 連結為真，無錯鏈、無虛鏈；2022-10-03 條目（已含該文 wikilink）已在庫 — SKIP，已飽和。
 
