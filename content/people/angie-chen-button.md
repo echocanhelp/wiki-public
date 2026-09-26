@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Angie Chen Button (陳筱玲)
 
@@ -31,7 +31,7 @@ last_reviewed: 2026-09-25
 <!-- tah-tables:end -->
 
 ## Role in the Community
-- Recorded in the TAHS corpus as TAH Foundation Who's Who #1567 (published 2017-03-20): [[works/taiwaneseamericanhistory-org/whoswho1567|TAH #1567 — Angie Chen Button 陳筱玲]]. The corpus record matches the TAH press-kit table (UT B.S. Finance, TI marketing manager, Texas House District 112 from 2009); no additional community-organizing roles appear in the corpus (re-swept 2026-09-22: no memoir/article mentions).
+- Recorded in the TAHS corpus as TAH Foundation Who's Who #1567 (published 2017-03-20): [[works/taiwaneseamericanhistory-org/whoswho1567|TAH #1567 — Angie Chen Button 陳筱玲]]. The corpus record matches the TAH press-kit table (UT B.S. Finance, TI marketing manager, Texas House District 112 from 2009); no additional community-organizing roles appear in the corpus (re-swept 2026-09-22: no memoir/article mentions; re-verified 2026-09-26 deepen-x slice 26: fresh ZH+EN grep (-E '陳筱玲|Angie Chen Button') over works/ + articles/ returns no hits — SKIP-with-reason).
 
 ## Family
 
