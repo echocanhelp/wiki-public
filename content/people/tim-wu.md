@@ -68,3 +68,5 @@ Accomplishment
 
 - 複核（TJJ-A09230700-7, 2026-09-24）：slice 文章 d0d03097ac759900（AIT處長孫曉雅口罩亮眼）正文再驗證——「加入白宮國家經濟委員會的台裔哥倫比亞大學教授吳修銘，他的父親過去即是黑名單的一員，還曾發行地下刊物『望春風』」確認見於正文，連結為真；2021-07-18 條目已在庫 — SKIP，無新材料。
 
+
+<!-- TJJ-A09251500-2: verified 2026-09-26 — subject links in slice 09251500-2 articles (1251d9ed 五大會館萊豬聲明 / 92ff3ef6 彭明敏研討會 / 6e021ae4 吳修銘任拜登特助 / e1e223aa 蘇姿丰年薪榜首) re-checked vs 正文; all real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Kenji C. Liu
 
@@ -43,3 +43,4 @@ _No filled family fields on the TAH profile._
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 <!-- deepen-x slice 09250317-29 re-grep 2026-09-25: fresh ZH+EN grep of works+articles returns hit set identical to prior absorption waves (own records + works index only; UCLA TASA: zero direct hits, TASA = Seniors Assoc/ITASA). SKIP content-deepen: saturated. -->
+<!-- deepen-x slice 09251527-10: re-verify 2026-09-26 — fresh ZH+EN grep (works+articles): hit set identical to prior slices, all already absorbed. Verified saturated; SKIP-no-new-facts. -->

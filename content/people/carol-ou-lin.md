@@ -58,3 +58,5 @@ Accomplishment
 - Corpus re-grep 2026-09-25 (slice 09240317-18): SKIP-with-reason — hit set identical (ourjourneys154/162, video-184, mystories-752, ota-129, whos-who-847, TJJ 萊豬聲明 article), all absorbed and wikilinked; saturated.
 - Corpus re-grep 2026-09-25 (slice 09250700-18): SKIP-with-reason — hit set identical (ourjourneys154/162, video-184, mystories-752, ota-129, whos-who-847), all absorbed and wikilinked; saturated.
 
+
+<!-- TJJ-A09251500-2: verified 2026-09-26 — subject links in slice 09251500-2 articles (1251d9ed 五大會館萊豬聲明 / 92ff3ef6 彭明敏研討會 / 6e021ae4 吳修銘任拜登特助 / e1e223aa 蘇姿丰年薪榜首) re-checked vs 正文; all real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->

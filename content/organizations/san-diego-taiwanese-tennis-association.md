@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # San Diego Taiwanese Tennis Association (聖地牙哥台灣人網球協會)
 
@@ -35,3 +35,4 @@ Programs per the directory record: singles/doubles seasonal tournaments, quarter
 
 - 2026-09-25 DEEPEN-X09230900-17 re-run: fresh grep (聖地牙哥台灣人網球協會/SDTTA/Qinqing) returns only own directory record sdtta + works index — saturated, SKIP.
 - 2026-09-25 DEEPEN-X09250317-13 re-run: fresh grep returns only own directory record sdtta + index — saturated, SKIP.
+<!-- deepen-x slice 09251527-10: re-verify 2026-09-26 — fresh ZH+EN grep (works+articles): hit set identical to prior slices, all already absorbed. Verified saturated; SKIP-no-new-facts. -->

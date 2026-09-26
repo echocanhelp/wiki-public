@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Dr. Joseph Kho (許隼夫博士)
 
@@ -54,3 +54,4 @@ last_reviewed: 2026-09-25
 ## Network
 - [[organizations/presbyterian-church-in-taiwan||PCT]] — TAH Who’s Who
 <!-- deepen-x 09250317-18: re-verify 2026-09-25 — fresh ZH+EN grep (works/articles): hit set identical to prior absorption waves; all corpus facts already absorbed in Role in the Community. Verified saturated; SKIP-no-new-facts. -->
+<!-- deepen-x 09251527-5: re-verify 2026-09-26 — fresh ZH+EN grep (works/articles): hit set identical to prior absorption waves; all corpus facts already absorbed in Role in the Community. Verified saturated; SKIP-no-new-facts. -->

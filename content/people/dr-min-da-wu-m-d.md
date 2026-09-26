@@ -59,3 +59,5 @@ last_reviewed: 2026-09-26
 
 - 2021-03-05 — 中央社記者華盛頓報導白宮宣布其子吳修銘（Tim Wu）出任拜登總統科技與競爭政策特別助理時，特別記載「父親吳明達來自台灣」（[[articles/taiwanjustice-net/2025/20250621234639_台裔吳修銘任拜登特助_預料將對抗科技巨頭_6e021ae439684a11|TJJ/CNA, 2021-03-05]]）。
 
+
+<!-- TJJ-A09251500-2: verified 2026-09-26 — subject links in slice 09251500-2 articles (1251d9ed 五大會館萊豬聲明 / 92ff3ef6 彭明敏研討會 / 6e021ae4 吳修銘任拜登特助 / e1e223aa 蘇姿丰年薪榜首) re-checked vs 正文; all real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
