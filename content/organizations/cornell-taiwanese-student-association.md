@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Cornell Taiwanese Student Association
 
@@ -37,3 +37,4 @@ The Cornell Taiwanese Student Association (CTSA; 康乃爾臺灣同學會) is a 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- Corpus re-grep 2026-09-26 (slice 09260317-1): SKIP — fresh grep hits are only archive_digest substring collisions (CTSA strings in wayback digests) and the ACTSA news item; no corpus text names the association. All community material above already absorbed. Verified saturated.

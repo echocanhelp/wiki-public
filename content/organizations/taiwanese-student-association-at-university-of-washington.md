@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Taiwanese Student Association at University of Washington
 
@@ -39,3 +39,4 @@ The Taiwanese Student Association at the University of Washington (TSAUW), also 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- *Re-grep 2026-09-26 (slice 09260317-1): fresh ZH+EN grep returns only the org's own corpus record + works index — hit set already absorbed above; verified saturated.*

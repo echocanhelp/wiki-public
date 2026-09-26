@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Ming Hsin Chiang (江明信)
 
@@ -61,3 +61,4 @@ Accomplishment
 - Corpus re-grep 2026-09-24 (slice 09230500-19): hit set unchanged (own #2017 biblio, my-stories-797, works index, MANIFEST, already-linked TJJ archives) — SKIP-with-reason: 語料已飽和，無可吸收新事實，無衝突須 HOLD。
 - Corpus re-grep 2026-09-25 (slice 09240500-15): SKIP — hit set unchanged (own biblio, my-stories-797, works index, already-linked TJJ archives); 語料飽和，無新材料，無衝突。
 - Corpus re-grep 2026-09-25 (slice 09250800-4): SKIP — hit set unchanged (own #2017 biblio, my-stories-797, works index, already-linked TJJ HELLO TAIWAN / 感恩餐宴 archives); 語料飽和，無新材料，無衝突須 HOLD。
+- Corpus re-grep 2026-09-26 (slice 09260317-1): SKIP — hit set unchanged (own #2017 biblio, my-stories-797, works index, MANIFEST, already-linked TJJ HELLO TAIWAN / 感恩餐宴 archives); 語料飽和，無新材料，無衝突須 HOLD.
