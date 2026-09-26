@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Cherry Chi (紀江蒨)
 
@@ -45,3 +45,4 @@ _No filled family fields on the TAH profile._
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 <!-- deepen-x slice 09231400-30 2026-09-25: re-grep (紀江蒨 / Cherry Chi) — only own record whos-who-1822 + works/index. SKIP: still nothing absorbable beyond TAH press-kit roles. -->
+<!-- deepen-x slice 09251031-19 2026-09-26: re-grep (紀江蒨 / Cherry Chi) — hit set identical: own record whos-who-1822 + works/index only. SKIP confirmed. -->

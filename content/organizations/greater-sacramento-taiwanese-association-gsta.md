@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Greater Sacramento Taiwanese Association GSTA (大沙加偭度台灣同鄉會)
 
@@ -27,3 +27,4 @@ SKIP-with-reason (re-verified 2026-09-25, deepen-x slice 09231300-26; earlier 20
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+<!-- deepen-x slice 09251031-19 2026-09-26: re-grep (GSTA / 大沙加) of works+articles — zero hits. SKIP stands: Sacramento corpus material belongs to sibling orgs (SAFA / FAPA Sacramento / STCF), not GSTA. -->

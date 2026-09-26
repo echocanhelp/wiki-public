@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Dr. Tso-Yee Fan (范佐怡博士)
 
@@ -47,3 +47,4 @@ last_reviewed: 2026-09-25
 - [[works/taiwaneseamericanhistory-org/whos-who-2287-tso-yee-fan|2287. Dr. Tso-Yee Fan 范佐怡博士]]
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+<!-- deepen-x slice 09251031-19 2026-09-26: re-grep (范佐怡 / Tso-Yee Fan) — hit set identical: own record whos-who-2287 + works/index only. SKIP confirmed; nothing absorbable beyond TAH press-kit record. -->
