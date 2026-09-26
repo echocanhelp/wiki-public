@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Frances Y. Wang (王怡芳)
 
@@ -47,3 +47,4 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- 2026-09-26 re-sweep (slice 09251039-9): fresh ZH+EN grep of works/+articles/ — hits remain only own record [[works/taiwaneseamericanhistory-org/whoswho1989|1989. Frances Y. Wang 王怡芳]] + works index; no new community facts; SKIP-deepen stands.
