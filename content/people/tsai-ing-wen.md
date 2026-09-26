@@ -46,6 +46,9 @@ name_en: "Tsai Ing-wen"
 
 ## From the record
 
+- 複核（TJJ-A09250400-11, 2026-09-25）：本 slice 文章 c0530664ab4c2948（Taipei Times 社論轉載, 2016-04-11）＋slice 文章 taiwanjustice-net/index（存檔索引頁） 正文再驗證——本頁 subject 連結為真實提及，無錯鏈、無虛鏈；含該文 wikilink 的日期事實條目已在庫 — SKIP，無新材料。
+
+
 - 複核（TJJ-A09240800-4, 2026-09-25）：本 slice 文章 042939d886040651（Mark Kao 高龍榮 Taipei Times 專欄 TJJ 轉載）正文再驗證——蔡英文時任 DPP 主席暨 2012 參選人、2011 訪美被批重 process 輕 outcome 之記述確認見於正文，subject 連結為真，無錯鏈、無虛鏈；2015-03-27 條目（含該文 wikilink）已在庫 — SKIP，已飽和。
 
 - 複核（TJJ-A09240800-7, 2026-09-25）：本切片相關存檔稿正文再驗證——本頁 subject 連結為真實提及（無錯鏈、無虛鏈），含該文 wikilink 的日期事實條目已在庫 — SKIP，無新材料。
@@ -56,6 +59,7 @@ name_en: "Tsai Ing-wen"
 
 - 複核（TJJ-A09240400-1, 2026-09-25）：本 slice 兩篇文章 86312fe2a2feb73e（English Pages 存檔頁3, 2024-05-30 快照）、2a3226a1b19c5a46（中央社副手專稿轉載, 2023-12-08 快照）正文再驗證——「Law scholar nominated for Taiwan presidency」等 2015-04-16 英語參選報導、及賴蕭配「延續蔡英文路線」記述確認見於正文，subject 連結為真（無錯鏈、無虛鏈）；對應日期條目（2015-04-16／2023-11-20，含兩文 wikilink）已在庫 — SKIP，無新材料。
 
+- 複核（TJJ-A09250400-12, 2026-09-25）：本 slice 4 篇 TJJ 文章（95fd8186 二二八77周年追思、26f76359 糖尿病與你、a1b56965 彭明敏紀念研討會、afdbd8b2 台灣會館重建動土）正文再驗證——蔡英文 於陳儀深演講中被述及推動轉型正義，確認見於正文，subject 連結為真（無錯鏈、無虛鏈）；含該文 wikilink 的日期事實條目已在庫 — SKIP，無新材料。
 - 複核（TJJ-A09230900-3, 2026-09-25）：本 slice 4 篇 TJJ 文章（95fd8186 二二八77周年追思、26f76359 糖尿病與你、a1b56965 彭明敏紀念研討會、afdbd8b2 台灣會館重建動土）subject link 再驗證：蔡英文 對應真實，無錯鏈、無虛鏈；對應 From-the-record 條目已在庫 — SKIP，無新材料。
 - 複核（TJJ-A09230900-2, 2026-09-25）：slice 文章 c0530664ab4c2948（Taipei Times 社論轉載, 2016-04-11）＋slice 文章 taiwanjustice-net/index（存檔索引頁）正文再驗證——本頁 subject 連結為真實提及，無錯鏈、無虛鏈；對應日期事實條目（含該文 wikilink）已在庫 — SKIP，無新材料。
 

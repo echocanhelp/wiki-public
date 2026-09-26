@@ -46,6 +46,8 @@ father [[people/su-chun-huai||蘇春槐]]; mother 羅淑雅 (no page yet).
 
 ## From the record
 
+- 覆核（TJJ-A09250400-9, 2026-09-25）：本 slice 文章 4779b4e7（蘇姿丰獲SIA羅伯特諾伊斯大獎報導, 2026-01-21 存檔）正文再驗證——本頁 subject 連結為真（與 [[people/lisa-su|Lisa T. Su]] 雙頁並存維持）；2020 Noyce 獎條目（已掛該文 wikilink）已在庫 — SKIP，已飽和。
+
 - 複核（TJJ-A09240900-2, 2026-09-25）：本 slice 文章正文再驗證——本頁 subject 連結為真實提及（無錯鏈、無虛鏈），含該文 wikilink 的日期事實條目已在庫 — SKIP，無新材料。
 - 覆核（TJJ-A09240800-14, 2026-09-25）：本 slice 文章 88c15e5403e6b9b9（PCAST名單報導）正文再驗證——本頁（TAH Who's Who 視角）subject 連結為真，2021-09-22 條目（含該文 wikilink）已在庫 — SKIP，無新材料。
 

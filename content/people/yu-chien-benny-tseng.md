@@ -40,6 +40,9 @@ _No filled family fields on the TAH profile._
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/yu-chien-benny-tseng/)
 
 ## From the record
+
+- 複核（TJJ-A09250400-11, 2026-09-25）：本 slice 文章 b4e27e98036e15d0（海頓音樂欣賞課報導, 2016-06-06 刊） 正文再驗證——本頁 subject 連結為真實提及，無錯鏈、無虛鏈；含該文 wikilink 的日期事實條目已在庫 — SKIP，無新材料。
+
 - 覆核（TJJ-A09240600-2, 2026-09-25）：slice 文章 a244776e（海頓音樂欣賞課報導）正文再驗證——曾宇謙得獎演奏錄影壓軸記述再確認見於正文，連結為真；對應日期事實已在庫 — SKIP，無新材料。
 
 - 複核（TJJ-A09230900-2, 2026-09-25）：slice 文章 b4e27e98036e15d0（海頓音樂欣賞課報導, 2016-06-06 刊）正文再驗證——本頁 subject 連結為真實提及，無錯鏈、無虛鏈；對應日期事實條目（含該文 wikilink）已在庫 — SKIP，無新材料。
