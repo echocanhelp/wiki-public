@@ -36,6 +36,7 @@ last_reviewed: 2026-09-25
 - Re-grepped 2026-09-22 (slice 09211507-24): corpus hits remain only his own TAH record, the works index, and the 2018-07 連署聲明 already cited above — verified-saturated, nothing further absorbable.
 
 - Re-grepped 2026-09-25 (slice 09231200-25): corpus hit set identical to the 2026-09-22 pass (own TAH #769 record, works index, the 2018-07 連署聲明 already cited) — verified-saturated; SKIP, nothing absorbable.
+- Re-grepped 2026-09-25 (slice 09250500-25): hit set unchanged (own TAH #769 record, works index, the 2018-07 連署聲明 whose signature list confirms 鄭英松(農工)) — verified-saturated; SKIP.
 
 ## Family
 

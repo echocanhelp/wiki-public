@@ -48,3 +48,4 @@ last_reviewed: 2026-09-25
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 <!-- deepen-x 09231200-6: re-verify 2026-09-25 — fresh ZH+EN grep: hits remain #2259, #379, #245 — all already absorbed; no new material. -->
+<!-- deepen-x 09250500-28: re-verify 2026-09-25 — fresh ZH+EN grep returned identical hit set (#2259, #379, #245, works index); saturated, no new material. -->
