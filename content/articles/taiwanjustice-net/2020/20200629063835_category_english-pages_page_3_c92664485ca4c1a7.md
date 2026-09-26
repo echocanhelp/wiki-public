@@ -300,3 +300,5 @@ Load more
 - [[people/peter-chen|Peter Chen]] — mentioned in this record
 - [[people/ling-ling-chang|Ling Ling Chang]] — mentioned in this record
 
+
+（TJJ-A09260400-12 複核 2026-09-26：二條 subject link（Peter Chen 陳正義、張玲玲）經正文再驗證均為真實提及——「Time to reaffirm Taiwan-US ties」署名條目與張玲玲宣誓就職報導標題確認見於正文，無錯鏈、無虛鏈；兩人頁之對應日期事實（2020-06-29 / 2018-06-25，含本檔 wikilink）已在庫 — 已飽和。）
