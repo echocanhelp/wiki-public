@@ -30,6 +30,7 @@ SKIP-with-reason: no corpus hits in works/ or articles/ for 臍帶血 or "Cord B
 Re-verified 2026-09-22 (slice 09210920-29): fresh ZH+EN grep — still zero hits; SKIP stands.
 
 - Re-verified 2026-09-25 (slice 09232337-25): fresh ZH+EN grep 臍帶血 / Cord Blood — zero corpus hits; SKIP stands.
+- Re-verified 2026-09-26 (slice 09251054-24): fresh ZH+EN grep 臍帶血 / Cord Blood — zero corpus hits; SKIP stands.
 
 ## Related Pages
 
