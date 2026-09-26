@@ -7,7 +7,7 @@ tags:
 provisional: true
 verification_status: provisional
 needs_source: true
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Brother Hu (GSTPC)
 
@@ -39,3 +39,4 @@ Brother Hu appears in GSTPC bulletin records. This is a provisional stub pending
 ## Related Pages
 - [[people/index||People Index]]
 - [[organizations/good-shepherd-taiwanese-presbyterian-church||Good Shepherd Taiwanese Presbyterian Church]]
+- 2026-09-26 re-sweep (slice 09251039-10): fresh grep again zero hits in works/ + articles/. SKIP confirmed (4th consecutive sweep).

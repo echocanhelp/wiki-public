@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # John Wuo (鄂志超)
 
@@ -28,7 +28,7 @@ last_reviewed: 2026-09-25
 ## Role in the Community
 - Listed in the TAH Foundation Who's Who profile record [[works/taiwaneseamericanhistory-org/whoswho1155|1155. John Wuo 鄂志超 / 2016/07]] (published 2016-07-17): 台灣出身, 電機工程師, University of Redland 電機工程學士 (profile spelling; likely University of Redlands — unknown, not merged). Fresh grep (ZH+EN) against works/ and articles/ found no further corpus mentions in memoirs — detail beyond the TAH profile remains unknown.
 
-- 2026-09-25 deepen-x slice 09232232-13: re-grep (ZH+EN) confirmed zero new corpus mentions — only hits are his own encyclopedia record [[works/taiwaneseamericanhistory-org/whoswho1155|1155. John Wuo 鄂志超 / 2016/07]] and the works index listing. Nothing absorbable this pass.
+- 2026-09-25 deepen-x slice 09232232-13: re-grep (ZH+EN) confirmed zero new corpus mentions — only hits are his own encyclopedia record [[works/taiwaneseamericanhistory-org/whoswho1155|1155. John Wuo 鄂志超 / 2016/07]] and the works index listing. Nothing absorbable this pass. Re-verified 2026-09-26 (deepen-x 09251039-15): ZH+EN grep again hits only whoswho1155 + works index.
 
 ## Family
 

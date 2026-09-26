@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Howard Shu (舒之顥)
 
@@ -45,4 +45,4 @@ last_reviewed: 2026-09-25
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
-<!-- DEEPEN-X SKIP 2026-09-25: corpus grep (舒之顥 / Howard Shu, works+articles) returns only own records ff301 + whos1248 (both band B, already linked in Role section) + index listings. Nothing absorbable. -->
+<!-- DEEPEN-X SKIP 2026-09-25, re-verified 2026-09-26 (deepen-x 09251039-15): corpus grep (舒之顥 / Howard Shu, works+articles) returns only own records ff301 + whos1248 (both band B, already linked in Role section) + index listings. Nothing absorbable. -->

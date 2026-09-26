@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Ben Mezrich (賓梅立克)
 
@@ -49,3 +49,4 @@ press-kit accomplishment above.
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- 2026-09-26 re-sweep (slice 09251039-10): fresh grep returns 2181, 273 (Ben), 2180, 263 (Tonya C Mezrich duplicate bibliographic record) + index — all band-B press-kit records; no new Ben biography in the community corpus.
