@@ -51,6 +51,7 @@ _No filled family fields on the TAH profile._
 - 2026-09-23 re-grep (slice 09221000-12): fresh grep (郭慈安／Tsuann Kuo, works+articles) hits confined to the already-linked records; the other 郭/Kuo work pages in the corpus (Simon C. Kuo, Paul Kuo, Tzu-Hsing Kuo, etc.) are different persons. Verified saturated, no new absorbable facts, no conflicts to HOLD.
 - 2026-09-24 re-grep (slice 09230500-24): fresh grep (郭慈安／Tsuann Kuo, works+articles) hit set unchanged (TAH #164/#255, NATWA 2015, 228 episode, 正義通訊 newsletter, works index). Verified saturated — SKIP, no new absorbable facts.
 - 2026-09-25 re-grep (slice 09240500-17): fresh grep (郭慈安／Tsuann Kuo, works+articles) hit set unchanged (TAH #164/#255, NATWA 2015, 228 episode, 正義通訊 newsletter, works index). Verified saturated — SKIP, no new absorbable facts, no conflicts to HOLD.
+- 2026-09-25 re-grep (slice 09250800-14): fresh grep (郭慈安／Tsuann Kuo, works+articles) hit set unchanged (TAH #164/#255, NATWA 2015, 228 episode, 正義通訊 newsletter, works index). Verified saturated — SKIP, no new absorbable facts, no conflicts to HOLD.
 
 ## Sources
 - [TAH #164 encyclopedia: 164. 郭慈安博士 Dr. Tsuann Kuo / 第一個老年學的 Ph.D. / 1991](https://taiwaneseamericanhistory.org/164-%e9%83%ad%e6%85%88%e5%ae%89%e5%8d%9a%e5%a3%ab-dr-tsuann-kuo-%e7%ac%ac%e4%b8%80%e5%80%8b%e8%80%81%e5%b9%b4%e5%ad%b8%e7%9a%84-ph-d-1991/)

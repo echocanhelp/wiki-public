@@ -32,4 +32,4 @@ North America Taiwanese Women’s Association – Northern California Chapter is
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - Corpus re-grep 2026-09-23 (slice 09221100-13): SKIP-new-facts — 北加/Northern California re-grep hits are other orgs' records (TACL 北加分會, NATMA 北加州分會, TAFNC 38) plus the already-absorbed natwa-northern-california-chapter and 624 懷念的台灣菜; no new chapter-level absorbable material.
-- Corpus re-grep 2026-09-25 (slice 09240500-12): SKIP-new-facts — hit set identical (natwa-northern-california-chapter, tacl-northern-california, natma-northern-california-chapter, ourjourneys38-eng, Pew statement); no new chapter-level material; verified saturated.
+- Corpus re-grep 2026-09-25 (slice 09240500-12 / 09250800-8): SKIP-new-facts — hit set identical (natwa-northern-california-chapter, tacl-northern-california, natma-northern-california-chapter, ourjourneys38-eng, Pew statement); extra hits (open letter to SEC — NATWA II co-signer, 228百合胸花報導, taiwanjustice 2024 root pages) are NATWA-national/generic, no 北加分會-level facts; no new chapter-level material; verified saturated.
