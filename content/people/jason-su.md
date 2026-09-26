@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Jason Su (蘇子榮)
 
@@ -39,7 +39,7 @@ last_reviewed: 2026-09-25
 _No filled family fields on the TAH profile._
 
 ## Timeline
-- 2016-09-14 — TAHS/TAH Foundation 公開其百科條目：[[works/taiwaneseamericanhistory-org/whos1277|1277. Jason Su 蘇子榮]]（參考記錄；條目僅存書目，暫無可吸收的社群敘述；2026-09-22 與 2026-09-25 deepen-x-27 兩度重新掃描：corpus 僅見自身條目與 works index，無新事實，SKIP）
+- 2016-09-14 — TAHS/TAH Foundation 公開其百科條目：[[works/taiwaneseamericanhistory-org/whos1277|1277. Jason Su 蘇子榮]]（參考記錄；條目僅存書目，暫無可吸收的社群敘述；2026-09-22、2026-09-25 deepen-x-27、與 2026-09-26 slice 09251054-13 三度重新掃描：corpus 僅見自身條目與 works index，無新事實，SKIP）
 
 ## Sources
 - [TAH #1277 encyclopedia: 1277. Jason Su 蘇子榮 /09/2016](https://taiwaneseamericanhistory.org/whos1277/)
