@@ -240,3 +240,4 @@ Official: **36** directors; 董事長兼會館會長; 正副監事長 / 財務�
 - [[organizations/taiwanese-american-historical-society||TAHS]]
 - [[organizations/new-york-taiwan-center||New York Taiwan Center]] — different org
 - Board, school, group members: sections above
+<!-- TJJ-A09260400-10: verified 2026-09-26 — subject links in slice article 2a543ddc9301b7b3（會館24週年募款年會公告）re-checked vs 正文; all real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->

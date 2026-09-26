@@ -163,3 +163,4 @@ In 2006, the party ended official recognition of factions, though they remain re
 - [[organizations/taiwan-center||Taiwan Center Foundation of the Greater Los Angeles]]
 
 <!-- TJJ-A09260400-6: verified 2026-09-26 — subject link becb39f917174438 confirmed real; dated fact w/ wikilink already in From the record — saturated. -->
+<!-- TJJ-A09260400-10: verified 2026-09-26 — subject links in slice article f19de8f9d3b53071（Chen Shui-bian return to prison, 2013-04-22）re-checked vs 正文; all real, no wrong/spurious links (.md suffixes stripped from Subjects block); dated fact w/ article wikilink already in From the record — saturated, no new material. -->
