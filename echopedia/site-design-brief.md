@@ -1,4 +1,4 @@
-## Site design audit — 2026-09-25 00:30
+## Site design audit — 2026-09-26 00:26
 
 - pages_md=15083
 - critical=0 high=2 medium=1
@@ -32,7 +32,7 @@
 
 ### LOW (1)
 - **C1** spelling signals (sample): 1 `[AGENT_SUGGESTED]`
-  - `tahs-member-onboarding.md: ?onboarding`
+  - `peggy-cooley.md: ?ching`
 
 ### INFO (2)
 - **B2** pinned featured pages: 6 (cap 6 people + 3 orgs; overflow hides recency)
@@ -42,7 +42,7 @@
   - `people/lin-yuan-ching.md`
   - `people/yang-jia-you.md`
   - `people/yang-xin.md`
-- **B1** person/org touched ≤7d (rely on recency featured window): 2245
+- **B1** person/org touched ≤7d (rely on recency featured window): 2239
   - `people/a-n-liu.md`
   - `people/abby-hong.md`
   - `people/adam-chang.md`

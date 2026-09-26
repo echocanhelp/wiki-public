@@ -34,6 +34,7 @@ Liang Chuan Peng (彭兩泉) is listed in the TAH Foundation Who’s Who Taiwane
 - 2026-09-24 deepen-x slice 09230600-29: SKIP — verified-saturated. Fresh ZH+EN greps return the identical hit set (ourjourneys37 / 38 / 37-eng / 38-eng / whoswho803 + index); no new material.
 
 - Corpus re-grep 2026-09-25 (slice 09240700-10): fresh ZH+EN greps (彭兩泉／Liang Chuan Peng) hit only ourjourneys37 / 38 / 37-eng / 38-eng / whoswho803 (+ index) — identical hit set; all context (1975 第二屬會長, 美西夏令營/TACWC founding, 重心南移, 協志會 leader roster) already absorbed. Verified-saturated SKIP.
+- Corpus re-grep 2026-09-26 (slice 09250900-27): fresh ZH+EN greps returned the identical hit set (ourjourneys37 / 38 / 37-eng / 38-eng / whoswho803 + index); no new material, no conflicts. Verified-saturated SKIP.
 ## Family
 
 - **Wife:** Wen-Fong Peng

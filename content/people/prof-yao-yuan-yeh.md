@@ -42,6 +42,7 @@ _No filled family fields on the TAH profile._
 - Corpus re-grep 2026-09-23 (slice 09221200-10): re-verified saturated — same hits (#2145 own record + the four TAJPNet reprints already wikilinked above); no new community facts to absorb, no conflicts to hold.
 - Corpus re-grep 2026-09-24 (slice 09230600-22): same hit set (own record + index + the four TAJPNet reprints already wikilinked) — saturated; nothing absorbable, no conflicts.
 - Corpus re-grep 2026-09-25 (slice 09240600-29): fresh ZH+EN grep 葉耀元/Yao-Yuan Yeh returned the same hit set (own record #2145 + index + the four TAJPNet reprints already wikilinked above) — saturated; nothing absorbable, no conflicts.
+- Corpus re-grep 2026-09-26 (slice 09250900-27): fresh ZH+EN grep returned the identical hit set (own record whos-who-2145 + works index only in content/works; article hits all already wikilinked) — verified-saturated SKIP; no new memoir material, no conflicts.
 
 ## Sources
 - [TAH #2145 encyclopedia: 2145. Prof. Yao-Yuan Yeh 葉耀元教授](https://taiwaneseamericanhistory.org/whos-who-2145-yao-yuan-yeh/)

@@ -1,4 +1,4 @@
-## Queue drain — 2026-09-25
+## Queue drain — 2026-09-26
 - Items: **40**
 
 - `people/bai-peiyu.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
@@ -39,7 +39,7 @@
 - `people/dr-yung-san-liang.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 - `people/feng-hsu-lee.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 - `people/grace-chung.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
-- `people/gwhyneth-chen.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 - `people/hanchien-lee.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
+- `people/hsien-ann-meng.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 
 Fail-closed first-mention is AUTO (janitor). HOLD leftover ≠ human body-link batch.
