@@ -31,7 +31,8 @@ Accomplishment
 <!-- tah-tables:end -->
 
 ## Role in the Community
-- 2017-07-09 — profiled in the TAH encyclopedia corpus: [[works/taiwaneseamericanhistory-org/whos-who-1749-chen-chang-lee|1749. Chen Chang Lee 李振昌]]. Re-grepped 2026-09-22: still bibliographic record only (full text stays in the vault); no additional community/corpus facts absorbable beyond the press-kit career facts already above — no invented biography added.
+- 2017-07-09 — profiled in the TAH encyclopedia corpus: [[works/taiwaneseamericanhistory-org/whos-who-1749-chen-chang-lee|1749. Chen Chang Lee 李振昌]] (value band B, full text stays in the vault); the 9th-Taiwanese-major-leaguer note is from the TAH Who's Who table.
+- Corpus re-grep 2026-09-25 (slice 09250600-19): hit set unchanged (whos-who-1749 + works index); no community-authored memoir material to absorb (SKIP). No conflicts found.
 
 ## Family
 
@@ -39,12 +40,8 @@ _No filled family fields on the TAH profile._
 
 ## Sources
 - [TAH #1749 encyclopedia: 1749. Chen Chang Lee 李振昌](https://taiwaneseamericanhistory.org/whos-who-1749-chen-chang-lee/)
-- [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/chen-chang-lee/)
+- [TAH Who's Who](https://taiwaneseamericanhistory.org/person/chen-chang-lee/)
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
-
-## Role in the Community
-- Recorded in the TAH Foundation Who's Who corpus: [[works/taiwaneseamericanhistory-org/whos-who-1749-chen-chang-lee|1749. Chen Chang Lee 李振昌]] (2017-07-09, value band B).
-- Corpus check (works + articles) returned no memoir/community narrative beyond this bibliographic record; the 9th-Taiwanese-major-leaguer note is from the TAH Who's Who table. No conflicts found.

@@ -44,6 +44,7 @@ _No filled family fields on the TAH profile._
 - Note: corpus grep found no memoir/article mentions beyond this own-record; nothing further absorbable.
 - Re-verified 2026-09-21 (deepen-x slice 09201503-22): re-grep across content/works + content/articles — hit set unchanged (own TAH record #1526 + index row only); verified-saturated.
 - Re-verified 2026-09-25 (deepen-x slice 09231300-13): fresh ZH+EN grep of content/works + content/articles — hit set unchanged (own TAH #1526 record + index row); no new corpus facts absorbable.
+- Re-verified 2026-09-25 (deepen-x slice 09250600-20): fresh ZH+EN grep — hit set unchanged (own TAH #1526 record + index row); SKIP stands.
 
 ## Sources
 - [TAH #1526 encyclopedia: 1526.  Emeritus HH Chiu 邱輝煌 / 2017/02](https://taiwaneseamericanhistory.org/whoswho1526/)

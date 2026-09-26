@@ -47,3 +47,4 @@ _No filled family fields on the TAH profile._
 
 ## Corpus note
 - Corpus grep (works/, articles/) re-verified 2026-09-22: hits remain only this person's own TAH Who's Who bibliographic record [[works/taiwaneseamericanhistory-org/whos-charles-hsiao|1937. Charles Hsiao 蕭俊雄 /11/2017]] and the works index — no memoir or community-history text carrying additional facts. SKIP: nothing absorbable.
+- Re-verified 2026-09-25 (deepen-x slice 09250600-20): fresh ZH+EN grep of content/works + content/articles — hit set unchanged (own TAH #1937 record + index row); SKIP stands.

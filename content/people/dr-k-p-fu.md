@@ -50,3 +50,4 @@ last_reviewed: 2026-09-25
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 <!-- deepen-x slice 09231400-3 recheck 2026-09-25: SKIP — fresh ZH+EN grep of works/+articles matched only this person's own TAH Who's Who work page and the works index; hit set identical to prior re-verifications, no independent memoir/article material to absorb. -->
+<!-- deepen-x slice 09250600-20 recheck 2026-09-25: SKIP — fresh ZH+EN grep matched own TAH #2299 record, the 傅康平紀念獎學金 work page (already linked above), and the works index; nothing new absorbable. -->
