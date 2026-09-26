@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Fealing Lin (林暉怜)
 
@@ -44,3 +44,5 @@ _No filled family fields on the TAH profile._
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 <!-- deepen-x slice 09231500-6 recheck 2026-09-25: SKIP — fresh ZH+EN grep of works/+articles matched only own TAH bibliographic work pages (whoswho1104, artist11) and works/index; no independent memoir material. -->
+
+<!-- deepen-x slice 09251031-21 recheck 2026-09-26: SKIP — fresh ZH+EN grep of works/+articles matched only the pages already wikilinked here (+ works/index). No new memoir/community material. -->

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Dr. Kung-Ming Jan (詹恭明醫師)
 
@@ -48,3 +48,5 @@ He appears in the same 2018-02-06 corpus tranche as fellow Taiwanese-American ph
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+<!-- deepen-x slice 09251031-21 recheck 2026-09-26: SKIP — fresh ZH+EN grep of works/+articles matched only the pages already wikilinked here (+ works/index). No new memoir/community material. -->
