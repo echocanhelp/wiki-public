@@ -60,3 +60,4 @@ last_reviewed: 2026-09-26
 <!-- TJJ-A09240800-10: verified 2026-09-25 — subject links in slice 09240800-10 articles confirmed real; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- deepen-x 09250317-23: fresh ZH+EN grep (works/articles) hit set identical to prior absorption (own TAH record, ourjourneys123 ZH/EN, TJJ newsletter articles already wikilinked) — verified-saturated. -->
+- Corpus re-check 2026-09-26 (slice 09251527-2): fresh ZH+EN grep 林宣緒 / Adrian Lin → identical hit set already absorbed (own TAH #918, ourjourneys123 ZH/EN 會長名單與夏令會詞料, TJJ 2021-02-28 / 2026-02-08 病西施婚事的兩份同文); index hits are bibliography only. Verified-saturated.

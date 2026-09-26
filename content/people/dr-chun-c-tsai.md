@@ -37,6 +37,7 @@ last_reviewed: 2026-09-26
 - Corpus re-grep 2026-09-22 (slice 09220600-20): hits unchanged (own TAH record, NATMA founding record [[works/taiwaneseamericanhistory-org/ourjourneys74|ourjourneys74]]/-eng, 美展專刊致謝 [[works/taiwaneseamericanhistory-org/ourjourneys256|ourjourneys256]], index); community facts above already absorbed — no new material.
 - Corpus re-grep 2026-09-25 (slice 09230900-25): fresh ZH+EN grep returns the identical hit set (own record #1968, NATMA founding, 美展專刊致謝, index); NATMA founding attendee list and donor acknowledgment already absorbed above. Verified saturated.
 - 2026-09-25 corpus re-check (deepen-x slice 09250317-14): fresh grep 蔡俊晴/Chun C Tsai returns own record, NATMA founding records, 美展專刊, index — already absorbed. Loose "Chun C" matches (ourjourneys24/53/76, whos-who-1721) contain no mention of him on context check. Verified-saturated; SKIP-no-new-facts.
+- Corpus re-check 2026-09-26 (slice 09251527-2): fresh ZH+EN grep 蔡俊晴 / Chun C Tsai → identical hit set (own #1968, NATMA 創會 ourjourneys74 ZH/EN 芝加哥代表名單, 美展專刊 ourjourneys256 致謝, index) — facts above re-verified against fresh context grep; nothing new absorbable. Verified-saturated.
 
 ## Family
 

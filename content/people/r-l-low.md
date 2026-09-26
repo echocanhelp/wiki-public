@@ -37,6 +37,7 @@ last_reviewed: 2026-09-26
 - Corpus re-check 2026-09-23 (slice 09221400-26): hits unchanged — own TAH vocal record #417, Who's Who #1771, works index only. No memoir mentions; nothing new absorbable.
 - Corpus re-check 2026-09-24 (slice 09230900-22): hit set again identical (羅瑞蘭 / Rui-Lan Lo / R. L. Low → [[works/taiwaneseamericanhistory-org/musician417|#417]], [[works/taiwaneseamericanhistory-org/whoswho1771|#1771]], works index) — verified saturated; SKIP-with-nothing-absorbable.
 - Corpus re-check 2026-09-25 (slice 09250317-12): fresh grep 羅瑞蘭 / Rui-Lan Lo / R. L. Low → only own TAH vocal record [[works/taiwaneseamericanhistory-org/musician417|#417]], Who's Who [[works/taiwaneseamericanhistory-org/whoswho1771|#1771]], works index — identical to prior waves; nothing new absorbable.
+- Corpus re-check 2026-09-26 (slice 09251527-2): grep 羅瑞蘭 / R. L. Low / Rui-Lan Lo → identical saturated set ([[works/taiwaneseamericanhistory-org/musician417|#417]], [[works/taiwaneseamericanhistory-org/whoswho1771|#1771]], works index); no memoir mentions; SKIP-nothing-absorbable.
 
 ## Family
 

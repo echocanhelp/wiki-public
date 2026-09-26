@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Yen-Ching Chiu (邱彥菁)
 
@@ -49,3 +49,4 @@ _No filled family fields on the TAH profile._
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 <!-- deepen-x slice 09250317-20: re-verify 2026-09-25 — fresh ZH+EN grep (works+articles): identical hit set to prior slices, all already absorbed. Verified saturated; SKIP-no-new-facts. -->
+<!-- deepen-x slice 09251527-9 re-grep 2026-09-26: fresh ZH+EN grep of works+articles returns hit set identical to all prior absorption waves (own TAH records + works index + already-wikilinked works only); no new third-party corpus material — verified saturated, SKIP content-deepen. -->
