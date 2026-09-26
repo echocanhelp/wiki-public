@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # T. H. Ying (應天華)
 
@@ -34,7 +34,7 @@ last_reviewed: 2026-09-25
 Corpus sweep of works/articles found only his own TAH Who's Who entry — no memoir or movement material in the community record beyond the press-kit profile. Engineer and entrepreneur: founded and leads I/O Control (USA); BS mechanical engineering (龍華科大), MS business administration; wife 陳小平.
 
 - [[works/taiwaneseamericanhistory-org/whoswho1161|1161. T. H. Ying 應天華 / 2016/07]] — TAH Who's Who record, 2016-07-20 (band B)
-- 2026-09-25 re-sweep: fresh ZH+EN grep of works/articles returned only own record whoswho1161 + index — SKIP (no memoir/movement material to absorb).
+- 2026-09-25 re-sweep; re-verified 2026-09-26 (slice 09251047-28): fresh ZH+EN grep of works/articles returned only own record whoswho1161 + index — SKIP (no memoir/movement material to absorb).
 
 ## Family
 

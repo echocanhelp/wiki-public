@@ -4,7 +4,7 @@ type: organization
 tags:
   - 
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Taiwan Formosa
 
@@ -19,6 +19,7 @@ last_reviewed: 2026-09-25
 Taiwan Formosa works to promote awareness and preservation of Taiwanese history, culture, and heritage.
 
 SKIP-note (deepen-x 2026-09-20; re-verified 2026-09-21, slice 09200939-6): corpus grep of `content/works` + `content/articles` for "Taiwan Formosa" returned no organizational match — the sole hit [[works/taiwaneseamerican-org/taiwan-to-update-garbage-truck-music|Taiwan to update garbage truck music (TaiwaneseAmerican.org)]] uses "Taiwan Formosan Bear" as a latte-art reference, not this entity. No corpus-verifiable facts absorbable; the Identity Snapshot above remains unsourced placeholder. Do not treat as confirmed org until a primary record names it.
+- Re-verified SKIP (deepen-x 09251047-28, 2026-09-26): fresh grep — sole hit still the latte-art reference; no organizational record. Placeholder-only.
 - Re-verified SKIP (deepen-x 09240400-22, 2026-09-25): fresh grep 'Taiwan Formosa' across works/ and articles/ — sole hit remains the latte-art 'Taiwan Formosan Bear' reference in [[works/taiwaneseamerican-org/taiwan-to-update-garbage-truck-music|Taiwan to update garbage truck music]]; no organizational record. Still placeholder-only.
 
 ## Related Pages
