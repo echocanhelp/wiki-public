@@ -53,3 +53,5 @@ last_reviewed: 2026-09-26
 2026-09-25 re-grep (deepen-x 09240700-12): fresh ZH+EN corpus grep returned only the records already linked on this page — verified saturated, nothing new absorbable, no conflicts.
 
 2026-09-26 re-grep (deepen-x 09251000-7): fresh ZH+EN corpus grep (美國台灣文化協會 / TACA / Taiwanese American Cultural Association) returned only the records already linked above (records 29/30/23, index, 2026-02 二二八 article) — verified saturated, nothing new absorbable, HOLD on English-rendering conflict maintained.
+
+slice 09260400-27 re-grep (2026-09-26): fresh ZH+EN corpus grep returned the same hit set already linked/absorbed on this page — verified-saturated, nothing new absorbable, existing HOLDs unchanged.

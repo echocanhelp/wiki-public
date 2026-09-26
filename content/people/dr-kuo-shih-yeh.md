@@ -56,3 +56,5 @@ _No filled family fields on the TAH profile._
 2026-09-25 re-grep (deepen-x 09240600-30): fresh ZH+EN grep returned the same hit set (ourjourneys76 ZH/EN, 106, 233, 318, my-stories-708) — verified saturated, nothing new absorbable, existing HOLD unchanged.
 
 2026-09-26 re-grep (deepen-x 09250900-30): fresh ZH+EN grep returned the same hit set already linked/absorbed on this page — verified-saturated SKIP-content, nothing new absorbable, existing HOLDs unchanged.
+
+slice 09260400-27 re-grep (2026-09-26): fresh ZH+EN corpus grep returned the same hit set already linked/absorbed on this page — verified-saturated, nothing new absorbable, existing HOLDs unchanged.

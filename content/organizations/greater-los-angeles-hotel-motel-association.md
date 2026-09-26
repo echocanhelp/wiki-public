@@ -43,3 +43,5 @@ Corpus re-check 2026-09-23 (deepen-x slice 09221200-17): fresh grep for 大洛�
 - 2026-09-25 (deepen-x slice 09240600-31): fresh ZH+EN re-grep of works/+articles/ — hit-set identical (innkeepers-association-la, index, both WHA 聯合聲明 copies). SKIP-content: verified-saturated; HOLD stands.
 
 2026-09-26 re-grep (deepen-x 09250900-30): fresh ZH+EN grep returned the same hit set already linked/absorbed on this page — verified-saturated SKIP-content, nothing new absorbable, existing HOLDs unchanged.
+
+slice 09260400-27 re-grep (2026-09-26): fresh ZH+EN corpus grep returned the same hit set already linked/absorbed on this page — verified-saturated, nothing new absorbable, existing HOLDs unchanged.
