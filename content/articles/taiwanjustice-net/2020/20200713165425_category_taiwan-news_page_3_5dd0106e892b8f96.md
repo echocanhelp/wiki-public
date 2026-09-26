@@ -301,3 +301,5 @@ Load more
 - [[people/lanhee-j-chen|Lanhee J. Chen]] — mentioned in this record
 - [[people/bi-khim-hsiao|蕭美琴]] — mentioned in this record
 
+
+（TJJ-A09260400-15 複核 2026-09-26：兩條 subject 連結（Lanhee J. Chen 陳仁宜、蕭美琴）經正文再驗證均見於存檔頁清單——陳仁宜投書CNN談台灣防疫、蕭美琴三篇連訪——為真實提及，無錯鏈、無虛鏈；各人頁之含本檔 wikilink 日期事實條目已在庫 — 已飽和。）
