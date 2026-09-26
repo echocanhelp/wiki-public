@@ -52,3 +52,4 @@ _No filled family fields on the TAH profile._
 <!-- deepen-x slice 09221300-29 re-verify 2026-09-23: fresh grep of works/+articles/ — hit set identical to records already cited/absorbed on this page; verified-saturated, no new absorbable facts -->
 <!-- deepen-x slice 09230800-20 re-verify 2026-09-24: fresh grep of works/+articles/ — hit set identical to records already cited/absorbed; verified-saturated, no new absorbable facts -->
 <!-- deepen-x slice 09240800-14 re-verify 2026-09-25: fresh grep of works/+articles/ — hit set identical to records already cited/absorbed; verified-saturated, no new absorbable facts -->
+<!-- deepen-x slice 09251023-7 re-verify 2026-09-26: fresh grep (林玉惠 / Yuh-Huey) — hit set unchanged (whoswho1756, musician413, works index); verified-saturated, no new absorbable facts; HOLD on [[people/grace-lin]] stands -->

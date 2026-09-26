@@ -43,6 +43,7 @@ Dr. Bob Cheng (鄭寶鼎博士) was a Taiwanese American chemist, entrepreneur, 
 
 
 ## From the record
+- 複核（TJJ-A09251000-5, 2026-09-26）：本 slice 文章 9907500dda4f33bb（林宏容緬懷鄭寶鼎博士悼文） 正文再驗證——鄭寶鼎往生記述確認見於正文，subject 連結為真，無錯鏈、無虛鏈；對應日期事實條目（已掛該文 wikilink）已在庫 — SKIP，無新材料。
 
 - 複核（TJJ-A09230700-3, 2026-09-24）：本 slice 文章 林宏容緬懷鄭寶鼎博士稿 9907500dda4f33bb 正文再驗證——subject 連結為真實對應，無錯鏈、無虛鏈；對應日期事實（含該文 wikilink）2020-09-30 創辦人往生/史料中心/TACS 條目已在庫 — SKIP，無新材料。
 

@@ -35,6 +35,7 @@ Founding member and board member of the American Premium Tea Institute (now merg
 
 
 ## From the record
+- 複核（TJJ-A09251000-5, 2026-09-26）：本 slice 文章 79b5f26fdef89d22（2023台美小姐選拔賽報導） 正文再驗證——許正龍以台灣茶葉大使列名評審確認見於正文，subject 連結為真，無錯鏈、無虛鏈；對應日期事實條目（已掛該文 wikilink）已在庫 — SKIP，無新材料。
 
 - 複核（TJJ-A09251000-11, 2026-09-26）：本 slice 文章 ff4731d4f51b100d（228介心靈日77週年紀念音樂會影音全集）正文再驗證——「優社社長許正龍以客語吟頌杜潘芳格『台灣介心靈日』詩作」及吟頌張秋台《渡台悲歌》確認見於正文，subject 連結為真，無錯鏈、無虛鏈；2024-02-28 條目（含該頁 wikilink）已在庫 — SKIP，無新材料。
 

@@ -218,6 +218,7 @@ Notable quotes and mentions of **陳柏宇** in Taiwan Justice articles:
 - [[people/dr-paul-chen||Dr. Paul Chen]] — TAH Who’s Who physician, Redwood City. Different person (same English name only).
 
 ## From the record
+- 複核（TJJ-A09251000-5, 2026-09-26）：本 slice 文章 79b5f26fdef89d22（2023台美小姐選拔賽報導） 正文再驗證——陳柏宇以台館基金會董事長致辭確認見於正文，subject 連結為真，無錯鏈、無虛鏈；對應日期事實條目（已掛該文 wikilink）已在庫 — SKIP，無新材料。
 
 - 複核（TJJ-A09251000-13, 2026-09-26）：本 slice 文章 79291dad808ef7f7（大洛杉磯台灣會館會訊 2018-06）正文再驗證——「第一副董陳柏宇」當選記述確認見於正文，subject 連結為真，無錯鏈、無虛鏈；對應日期事實條目（含該文 wikilink）已在庫 — SKIP，已飽和。
 - 複核（TJJ-A09251000-14, 2026-09-26）：slice 文章 097b5750fcf3091a（花蓮0403震災台館勸募報導）subject link 正文再驗證——陳柏宇以會館董事長身分發言賑災協調中心角色，連結為真，無錯鏈、無虛鏈；2024-04-04 條目（含該文 wikilink）已在庫 — SKIP，無新材料。

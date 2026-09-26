@@ -40,6 +40,7 @@ Led FORMOSAT-1 (福衛一號) launch team as head of launch group at National Sc
 - TAH's story corpus holds a feature on him, "108. Ching Sze Hsieh 謝清志", published 2014-11-23 — see [[works/taiwaneseamericanhistory-org/108-e8-ac-9d-e6-b8-85-e5-bf-97-e5-8d-9a-e5-a3-ab-dr-ching-sze-hsieh|TAH story #108]].
 
 ## From the record
+- 複核（TJJ-A09251000-5, 2026-09-26）：本 slice 文章 9907500dda4f33bb（林宏容緬懷鄭寶鼎博士悼文）＋2777c888（長青教室標籤彙整頁） 正文再驗證——悼文2010籌備會議條目與長青教室主講條目均確認見於正文，subject 連結為真，無錯鏈、無虛鏈；對應日期事實條目（已掛該文 wikilink）已在庫 — SKIP，無新材料。
 - 複核（TJJ-A09240800-4, 2026-09-25）：本 slice 文章 59a68b9cd855c1bf（司法不公，國耻之最：聲援翁啟惠連署）正文再驗證——本人投書發起的連署再度發起之記述確認見於正文，subject 連結為真，無錯鏈、無虛鏈；2021-09-10 條目（含該文 wikilink）已在庫 — SKIP，已飽和。
 
 - 覆核（TJJ-A09240600-2, 2026-09-25）：本 slice 兩篇標籤頁 2777c888（長青教室）與 20053f0a（耆老講座）正文再驗證——2017-05-24 主講與 2024-09-07 同台講座條目再確認見於正文，subject 連結為真，無錯鏈、無虛鏈；對應日期事實（含該文 wikilink）已在庫 — SKIP，無新材料。

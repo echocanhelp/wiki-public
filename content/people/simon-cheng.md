@@ -53,6 +53,7 @@ last_reviewed: 2026-09-23
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 ## From the record
+- 複核（TJJ-A09251000-5, 2026-09-26）：本 slice 文章 2490b18e8f37ea79（第166回世界台灣文化論壇） 正文再驗證——鄭良光以TUF會長任主講人確認見於正文，subject 連結為真，無錯鏈、無虛鏈；對應日期事實條目（已掛該文 wikilink）已在庫 — SKIP，無新材料。
 
 - 複核（TJJ-A09251000-14, 2026-09-26）：slice 文章 24ebe5f065076949（2016海外台語研習會公告）subject link 正文再驗證——鄭良光開台語文學寫作欣賞課並介紹陳雷與游朝凱，確認見於正文，連結為真，無錯鏈、無虛鏈；2016-05-10 條目（含該文 wikilink）已在庫 — SKIP，無新材料。
 

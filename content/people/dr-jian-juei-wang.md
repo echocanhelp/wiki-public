@@ -59,6 +59,7 @@ Beyond his association leadership — president of the Orange County Taiwanese A
 His Golden Orange Club (金桔會)/OCTA project-management role recorded in the TAH profile ties the essayist persona to the same Orange County community infrastructure. The 2019 personal-collection record shows his papers entered the TAH archive as well.
 
 ## From the record
+- 複核（TJJ-A09251000-5, 2026-09-26）：本 slice 文章 9907500dda4f33bb（林宏容緬懷鄭寶鼎博士悼文） 正文再驗證——王健椎2020-09-21報訃電話記述確認見於正文，subject 連結為真，無錯鏈、無虛鏈；對應日期事實條目（已掛該文 wikilink）已在庫 — SKIP，無新材料。
 
 - 複核（TJJ-A09230700-3, 2026-09-24）：本 slice 文章 林宏容緬懷鄭寶鼎博士稿 9907500dda4f33bb 正文再驗證——subject 連結為真實對應，無錯鏈、無虛鏈；對應日期事實（含該文 wikilink）2020-09-30 報訃電話條目已在庫 — SKIP，無新材料。
 
