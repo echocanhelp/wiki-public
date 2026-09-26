@@ -29,6 +29,7 @@ last_reviewed: 2026-09-26
 ## Role in the Community
 - Profiled in the TAHS-maintained Taiwanese American encyclopedia: [[works/taiwaneseamericanhistory-org/932-s-y-wong-e7-bf-81-e6-b0-b4-e5-85-83-201604|932. S. Y. Wong 翁水元]] (published 2016-04-17, band B — bibliographic record only; full text stays in the vault).
 - Corpus sweep found no memoir/community records beyond this own-entry citation; no further facts absorbed. Fresh sweep 2026-09-25: only the own TAH #932 record and the works index — no absorbable community facts, no conflicts to hold.
+- DEEPEN-X slice 09251054-10 re-check 2026-09-26: fresh ZH+EN grep (works+articles) again returned only the own TAH #932 record + index. SKIP — nothing absorbable.
 
 ## Family
 
