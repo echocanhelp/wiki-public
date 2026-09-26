@@ -58,3 +58,4 @@ Accomplishment
 - Corpus re-grep 2026-09-25 (slice 09240317-15): hit set unchanged; new taiwanjustice.net shooting report linked above as disambiguation evidence only (victim 鄭達志, father 鄭俊曉 ≠ this page's 鄭榮得/鄭良光). No new facts for this person — SKIP, saturated.
 
 - 複核（deepen-x slice 09250700-5, 2026-09-25）: fresh ZH+EN re-grep（works+articles）hit set identical to prior deepen records — all hits already absorbed/wikilinked; SKIP: verified-saturated, no new corpus material.
+- 複核（deepen-x slice 09260317-11, 2026-09-26）: fresh ZH+EN re-grep hit set unchanged (mystories231, artist36, ota-227, whos-who-1019 + unrelated Dr. John Cheng 鄭達志 shooting records) — SKIP: verified-saturated, no absorbable new facts.

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Yi-Ting Hsieh
 
@@ -45,6 +45,7 @@ _No filled family fields on the TAH profile._
 - 2026-09-24 語料複核（slice 09230500-19）：fresh grep 命中仍僅 [[works/taiwaneseamericanhistory-org/musician430|TAH #430]]、[[works/taiwaneseamericanhistory-org/whos-who-2141-yi-ting-hsieh|TAH #2141]] 與 works index。SKIP-with-reason：語料已飽和，無可吸收新事實，無衝突須 HOLD。
 - 2026-09-25 語料複核（slice 09240500-11）：fresh grep（'Yi-Ting Hsieh'，無漢名記錄，works+articles）命中僅 [[works/taiwaneseamericanhistory-org/musician430|TAH #430]] 與 works index；無回憶錄或文章提及。SKIP-with-reason：語料已飽和，無可吸收新事實，無衝突須 HOLD。
 - 2026-09-25 語料複核（slice 09250800-7）：fresh grep（'Yi-Ting Hsieh'＋常見漢名對應，works+articles）命中僅 [[works/taiwaneseamericanhistory-org/musician430|TAH #430]] 與 works index（#2141 頁本身未變）。SKIP-with-reason：語料已飽和，無可吸收新事實，無衝突須 HOLD。
+- 2026-09-26 語料複核（slice 09260317-4）：fresh grep（'Yi-Ting'，works+articles）命中為本身出處頁 [[works/taiwaneseamericanhistory-org/musician430|TAH #430]]、[[works/taiwaneseamericanhistory-org/whos-who-2141-yi-ting-hsieh|TAH #2141]]、works index，另兩筆為不同人：Yi-Ting Chang（嘉義大學觀光研究者，[[works/taiwaneseamerican-org/from-ilha-formosa-to-passport-to-taiwan-comparing-the-2006-and-2018-taiwanese-to|Ilha Formosa→護照→台灣文]]）與 historian Yi-Ting Chung（[[works/taiwaneseamerican-org/taiwanese-american-jing-mei-memorial-park|晶美紀念公園文]]）——均已在上文標注為不同人，不予吸收。SKIP-with-reason：語料已飽和，無可吸收新事實，無衝突須 HOLD。
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/yi-ting-hsieh/)

@@ -72,3 +72,5 @@ last_reviewed: 2026-09-26
 - [[organizations/presbyterian-church-in-taiwan||PCT]] — TAH Who’s Who
 
 <!-- TJJ-A09251400-10: verified 2026-09-26 — subject links in slice 09251400-10 articles (f6ed9463 2013核四表決名單 / 0258611f 2024-05-19 520就職報導 / 06510e79 2020-11-19 林榮松獲聘政務顧問 / 77328a2c 2016-06-12 會館第十屆董事會) re-checked vs 正文; all real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- deepen-x slice 09260317-5 re-verify 2026-09-26: fresh grep 邱碧玉/Peggy Cooley across works+articles — hit set unchanged (TAH #2161 出處頁, works/index, 已吸收之 520 報導兩份存檔); no memoir mentions, no new facts, no conflicts. SKIP-content (verified-saturated). -->

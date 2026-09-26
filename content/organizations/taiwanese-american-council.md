@@ -33,6 +33,7 @@ From the community record (member memoirs):
 
 - Corpus re-grep 2026-09-25 (slice 09240500-7): SKIP — fresh ZH+EN grep hit set identical to the 2026-09-24 log (ourjourneys9-eng, ourjourneys09, ourjourneys356 ±eng, directory work pages); no new absorbable material.
 - Corpus re-grep 2026-09-25 (slice 09250800-5): SKIP — fresh ZH+EN grep hit set identical again (ourjourneys9-eng, ourjourneys09, ourjourneys356 ±eng, taiwanese-american-council, -of-greater-new-york); verified-saturated.
+- Corpus re-grep 2026-09-26 (slice 09260317-3): SKIP — fresh ZH+EN grep hit set identical again (ourjourneys9/-eng, ourjourneys09, ourjourneys356 ±eng, directory work pages); verified-saturated, no new absorbable material.
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-american-council/)

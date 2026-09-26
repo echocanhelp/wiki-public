@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Taiwanese Association of Syracuse (雪城台灣同鄉會)
 
@@ -43,3 +43,4 @@ Parent organization: [[organizations/taiwanese-association-of-america|Taiwanese 
 
 <!-- deepen-x slice 09240600-8 re-verify 2026-09-25: fresh grep 雪城/Syracuse across works+articles — hit set identical to absorbed set (OJ76+-eng, OJ185, OJ310, chapter page, chapter history, 鄉訊 newsletter, FAPA NY39); verified-saturated, nothing new absorbable -->
 <!-- deepen-x slice 09250900-5 re-verify 2026-09-25: fresh grep 雪城/Syracuse across works+articles — hit set identical to absorbed set (OJ76+-eng, OJ185, OJ310, chapter page, chapter history, 鄉訊 newsletter, FAPA NY39); verified-saturated, nothing new absorbable -->
+<!-- deepen-x slice 09260317-5 re-verify 2026-09-26: fresh grep 雪城/Syracuse across works+articles — hit set identical to absorbed set (OJ76+-eng, OJ185, OJ310, OJ292, chapter page, chapter history, 鄉訊 newsletter, FAPA NY39); verified-saturated, nothing new absorbable -->

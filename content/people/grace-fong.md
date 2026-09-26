@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Dr .Grace Fong
 
@@ -54,3 +54,4 @@ Re-grep 'Grace Fong' against content/works + content/articles: zero hits both pa
 - Re-verify 2026-09-24 (slice 09230317-8 completion pass): re-grep Grace Fong — still zero corpus hits; nothing absorbable. SKIP-with-reason stands.
 - Re-verify 2026-09-25 (slice 09240317-4): re-grep "Grace Fong" vs content/works+content/articles — still zero corpus hits; nothing absorbable. SKIP-with-reason stands.
 - Re-verify 2026-09-25 (slice 09250700-4): re-grep "Grace Fong" vs content/works+content/articles — still zero corpus hits; nothing absorbable. SKIP-with-reason stands.
+- Re-verify 2026-09-26 (slice 09260317-9): re-grep "Grace Fong" vs content/works+content/articles — still zero corpus hits; nothing absorbable. SKIP-with-reason stands.

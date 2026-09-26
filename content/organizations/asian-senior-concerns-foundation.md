@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Asian Senior Concerns Foundation (亞裔銀髮族關懷基金會)
 
@@ -28,6 +28,8 @@ The Asian Senior Concerns Foundation is a nonprofit organization established in 
 - 2026-09-24 (slice 09230600-8) corpus re-check: fresh grep「Asian Senior Concerns／亞裔銀髮／陳一仁」adds nothing new — only the 48 directory entry, founder memoir ourjourneys281, founder page whoswho1452, and works/index, all already linked. Verified-saturated; HOLD (2001 directory vs 2002 founder memoir) maintained.
 - 2026-09-25 (slice 09250900-6) corpus re-check: fresh grep「Asian Senior Concerns／亞裔銀髮／陳一仁」returns only the 48 directory entry, founder memoir ourjourneys281, founder page whoswho1452, and works/index — all already linked. SKIP-with-reason: verified-saturated; HOLD (2001 vs 2002) maintained.
 - 2026-09-25 (slice 09240600-9) corpus re-check: fresh grep「Asian Senior Concerns／銀髮關懷／老年關懷／高齡關懷」returned only the 48 directory entry and works/index, both already linked. SKIP-with-reason: verified-saturated; HOLD maintained.
+
+<!-- deepen-x slice 09260317-5 re-verify 2026-09-26: fresh grep 亞裔銀髮/Asian Senior Concerns across works+articles returns only the 48 directory entry, founder memoir ourjourneys281, and works/index — all already linked. SKIP-with-reason (verified-saturated); HOLD (2001 directory vs 2002 founder memoir) maintained. -->
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/asian-senior-concerns-foundation/)
