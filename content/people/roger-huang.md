@@ -14,6 +14,7 @@ last_reviewed: 2026-09-26
 <!-- deepen-x: SKIP 2026-09-21 — corpus sweep (fresh grep 2026-09-21) hits only its own bibliography page works/taiwaneseamericanhistory-org/whoswho1150 + works index; no memoir mentions to absorb. -->
 <!-- deepen-x: SKIP 2026-09-22 (slice 09210920-6) — fresh grep 黃瑞宗/Roger Huang across works+articles: zero hits; re-verify, nothing new absorbable. -->
 <!-- deepen-x: SKIP 2026-09-25 (slice 09232232-7) — fresh grep 黃瑞宗/Roger Huang across works+articles: zero hits again; nothing absorbable. -->
+<!-- deepen-x: SKIP 2026-09-26 (slice 09251047-10) — fresh grep 黃瑞宗/Roger Huang across works+articles: hits only own record whoswho1150 + works index; nothing absorbable. -->
 
 ## Identity Snapshot
 - **English:** Roger Huang

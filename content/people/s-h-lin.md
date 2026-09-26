@@ -47,3 +47,4 @@ _No filled family fields on the TAH profile._
 - Corpus grep (works/, articles/) found only this person's own TAH Who's Who bibliographic record [[works/taiwaneseamericanhistory-org/whoswho955|955. S. H. Lin 林聖賢]] — no memoir or community-history text carrying additional facts.
 - SKIP-deepened 2026-09-20: nothing absorbable beyond the TAH press-kit fields already on this page; no community-record material in the vault corpus.
 - Re-verified 2026-09-21 / 2026-09-22 / 2026-09-25 (ZH+EN grep): hits limited to [[works/taiwaneseamericanhistory-org/whoswho955|own TAH #955 record]] and the works index; SKIP stands.
+- Re-verified 2026-09-26 (slice 09251047-10, ZH+EN grep): same — only own record + works index; SKIP stands.

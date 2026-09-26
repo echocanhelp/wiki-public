@@ -49,3 +49,4 @@ Corpus review 2026-09-21: the only corpus mentions are the subject's own TAH Who
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 Corpus re-scan 2026-09-25: re-verified — sole ZH+EN hits are his own record [[works/taiwaneseamericanhistory-org/whoswho1392|1392]]; nothing absorbable in works/ or articles/.
+Corpus re-scan 2026-09-26 (deepen-x 09251047-8): SKIP re-confirmed — fresh grep hits only [[works/taiwaneseamericanhistory-org/whoswho1392|1392]] and the index listing.
