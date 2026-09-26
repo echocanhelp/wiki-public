@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Taiwanese American Professionals Austin
 
@@ -43,3 +43,5 @@ Disambiguation (checked against corpus, not absorbed): in the FAPA founding memo
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+2026-09-26（slice 09251000-24）再grep（TAP-ATX／Taiwanese American Professionals Austin／TAP Austin）：content/works 與 content/articles 仍零命中，維持 SKIP-content。

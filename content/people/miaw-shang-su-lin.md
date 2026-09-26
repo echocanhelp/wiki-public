@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Miaw Shang Su Lin (林蘇妙香)
 
@@ -49,3 +49,4 @@ Corpus re-check 2026-09-22 (deepen-x slice 09220400-28) and again 2026-09-23 (sl
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 <!-- TJJ-A09240800-10: verified 2026-09-25 — subject links in slice 09240800-10 articles confirmed real; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+- Corpus re-sweep 2026-09-26 (slice 09251000-24): hits remain only #290, video #37, #1107, the works index, and the two TJJ March-2021-newsletter snapshots — all already linked; verified-saturated SKIP-deepen.
