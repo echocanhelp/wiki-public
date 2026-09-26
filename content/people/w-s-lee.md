@@ -51,3 +51,4 @@ _No filled family fields on the TAH profile._
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - Corpus re-grep 2026-09-24 (slice 09230900-5): fresh grep 李武雄|W. S. Lee again returns only [[works/taiwaneseamericanhistory-org/whoswh1878|#1878]], [[works/taiwaneseamericanhistory-org/ourjourneys268|ourjourneys268]], and index rows — no new corpus material. Verified saturated; SKIP-deepen, HOLD retained.
 - Corpus re-grep 2026-09-25 (slice 09240800-2): fresh grep 李武雄|W. S. Lee again returns only #1878, ourjourneys268, and index rows — no new material. Verified saturated; SKIP-deepen, HOLD retained.
+- Corpus re-grep 2026-09-26 (slice 09251000-20): fresh grep 李武雄|W. S. Lee again returns only #1878, ourjourneys268, and index rows — no new material. Verified saturated; SKIP-deepen, HOLD retained.
