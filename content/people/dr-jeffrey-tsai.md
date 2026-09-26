@@ -52,3 +52,4 @@ _No filled family fields on the TAH profile._
 
 - Corpus re-scan 2026-09-25 (deepen-x slice 09240600-18): fresh grep 蔡長宗 / Jeffrey Tsai over works/ + articles/ — hit set identical (ourjourneys186/-eng, ourjourneys272/-eng, whos-who-2248, taiwanjustice 20180208 event listings incl. the 2020-02-29 repost of the same Feb session), all absorbed above. SKIP: verified-saturated.
 - Corpus re-scan 2026-09-26 (deepen-x slice 09250900-11): fresh grep 蔡長宗 / Jeffrey Tsai over works/ + articles/ — hit set identical (ourjourneys186/-eng, ourjourneys272/-eng, whos-who-2248, works index), all absorbed above. SKIP: verified-saturated.
+- Corpus re-scan 2026-09-26 (deepen-x slice 09260317-28): fresh grep 蔡長宗 / Jeffrey Tsai over works/ + articles/ — hit set identical (ourjourneys186/-eng, ourjourneys272/-eng, ourjourneys272/-eng 名簿, whos-who-2248, works index), all absorbed above. SKIP: verified-saturated.
