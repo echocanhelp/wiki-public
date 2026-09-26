@@ -34,6 +34,7 @@ _No filled family fields on the TAH profile._
 ## Role in the Community
 - 2004 年創作作品收錄於《Art of Traditional Taiwanese Culture 2005 Calendar 台灣心，鄉土情》年曆：[[works/taiwaneseamericanhistory-org/publications1043|台灣心，鄉土情 2005 年曆]]
 - TAH 基金會百科 own profile 存檔：[[works/taiwaneseamericanhistory-org/whos-who-19-monica-hsu|TAH #19 Monica Hsu 徐麗芬]]
+- Corpus grep (ZH+EN against works/ and articles/, 2026-09-26): hits limited to the calendar record and her own profile — no memoir/community activity beyond the above absorbed.
 
 ## Sources
 - [TAH #19 encyclopedia: 19. Monica Hsu 徐麗芬](https://taiwaneseamericanhistory.org/whos-who-19-monica-hsu/)
