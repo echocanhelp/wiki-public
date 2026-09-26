@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Dr. Hong-Chien Lin (林洪謙醫師)
 
@@ -47,6 +47,7 @@ last_reviewed: 2026-09-25
 - Re-verified 2026-09-23 (slice 09220900-15): fresh re-grep 林洪謙 / Hong-Chien Lin returns the identical set already linked above (TAH #163、#108、#91、#325、Our Journeys 74 + ENG). No new material; SKIP-for-deepening, existing corpus links stand.
 - Re-verified 2026-09-24 (slice 09230400-10): fresh ZH+EN re-grep returns the identical set already linked above (TAH #163、#108、#91、#325、Our Journeys 74 + ENG). Corpus-saturated, SKIP-for-deepening.
 - Re-verified 2026-09-25 (slice 09240317-21): fresh ZH+EN re-grep（林洪謙 / Hong-Chien Lin）returns the identical set already linked above（TAH #163、#108、#91、#325、Our Journeys 74 + ENG）。Corpus-saturated, SKIP-for-deepening.
+- Re-verified 2026-09-26 (slice 09260400-10): fresh ZH+EN re-grep（林洪謙 / Hong-Chien Lin）returns the identical set already linked above（TAH #163、#108、#91、#325、Our Journeys 74 + ENG）。NATMA 創會名單、TAF 營隊家長名單、文學供稿均已吸收。Corpus-saturated, SKIP-for-deepening.
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-hong-chien-lin/)
