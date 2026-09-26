@@ -36,3 +36,4 @@ North America Taiwanese Women’s Association – Greater San Diego Chapter is a
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - Corpus re-grep 2026-09-25 (slice 09250900-7): SKIP — fresh grep 聖地牙哥分會 / NATWA San Diego returns the identical set (story #5, activities-of-natwa-gsd, natwa2015, March-for-Our-Lives credit, works index); no new chapter-specific material; verified saturated.
+- Corpus re-grep 2026-09-26 (slice 09260317-12): SKIP — fresh grep 聖地牙哥分會 / Greater San Diego returns the identical set (natwa-san-diego-chapter, 10-FAPA San Diego, san-diego-chapter-tap, activities-of-natwa-gsd, works index); no new chapter-specific material; verified saturated.

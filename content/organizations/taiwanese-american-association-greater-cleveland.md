@@ -29,6 +29,8 @@ Cross-chapter fellowship is recorded from the Pittsburgh side: the Pittsburgh ch
 
 _Corpus re-scan 2026-09-25 (slice 09250800-1): fresh ZH+EN grep re-run — hit set identical to the prior scan (cleveland-chapter-taa, ourjourneys76/76-eng, ourjourneys74, natma/natpa cleveland chapters, taiwanese-foundation-of-greater-cleveland); no new Cleveland-chapter material. SKIP-deepen._
 
+New this round (slice 09260317-8): 林靜竹's NATPA memoir recalls that in early 1990, ahead of the first NATPA return-to-Taiwan annual meeting, the 克里夫蘭 chapter (among 新英蘭、密西根、中北部) was asked by phone to have its 分會長 and 理事 rally members — 100+ members plus 50 family ultimately attended ([[works/taiwaneseamericanhistory-org/ourjourneys47|47. NATPA首度回台召開年會的經緯 / 林靜竹 / 2014/10]]); the Cleveland chapter's mobilization capacity shows up even in cross-org annual-meeting logistics.
+
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-american-association-greater-cleveland/)
 

@@ -55,7 +55,7 @@ Corpus re-check 2026-09-24 (deepen-x slice 09230600-17): fresh grep 鄭天佐/�
 
 Corpus re-check 2026-09-25 (deepen-x slice 09240600-16): fresh grep 鄭天佐/鄭天助/T. C. Cheng/Tien C — hit set identical to prior checks (whowswho953, whoswho1232, our-journeys-377/378, ourjourneys33-eng substantive; publications1343/1344 = author Tien C. Lee, ourjourneys75-eng = Dr. Tien Chao-ming — string false positives). Verified saturated; both HOLDs stand — SKIP-with-reason.
 
-Corpus re-check 2026-09-26 (deepen-x slice 09250900-8): fresh grep 鄭天佐/鄭天助/T. C. Cheng — hit set identical to prior checks (whowswho953, whoswho1232, our-journeys-377/378, ourjourneys33-eng substantive; publications1343/1344 = Tien C. Lee, ourjourneys75-eng = Dr. Tien Chao-ming — string false positives). Verified saturated; both HOLDs stand — SKIP-with-reason.
+Corpus re-check 2026-09-26 (deepen-x slice 09260317-11): fresh grep 鄭天佐/鄭天助/T. C. Cheng — hit set identical to prior checks (whowswho953, whoswho1232, our-journeys-377/378, ourjourneys33-eng substantive; publications1343/1344 = Tien C. Lee, ourjourneys75-eng = Dr. Tien Chao-ming — string false positives). Verified saturated; both HOLDs stand — SKIP-with-reason.
 
 ## Sources
 - [TAH #953 encyclopedia: 953. T. C. Cheng 鄭天佐 / 2016/04](https://taiwaneseamericanhistory.org/whowswho953/)
