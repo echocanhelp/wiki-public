@@ -48,3 +48,4 @@ _No filled family fields on the TAH profile._
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 <!-- deepen-x slice 09231400-3 recheck 2026-09-25: SKIP — fresh ZH+EN grep of works/+articles matched only this person's own TAH Who's Who work page and the works index; hit set identical to prior re-verifications, no independent memoir/article material to absorb. -->
+<!-- deepen-x slice 09250600-21 recheck 2026-09-25: SKIP — fresh ZH+EN grep hit set identical: own #405 work page, works index, plus the Our Journeys #219 seminar record and TAA/NNJ org page, whose facts (OPT/H-1B panel at 北澤西同鄉會 2016-04-16 就業座談會) are already absorbed above; nothing new. -->

@@ -43,6 +43,8 @@ Corpus: [[works/taiwaneseamericanhistory-org/ourjourneys59|59. 二萬名移民�
 
 HOLD: conflict — the memoir places 劉寬平 in 1980 as vice president of a Massachusetts fruit company, while the TAH table's earliest recorded role is President of United Brand from 1978; the two employer records are unreconciled.
 
+Corpus re-grep 2026-09-25 (slice 09250600-19): hit set unchanged (ourjourneys59, whos-who776 + works index); the 蔡同榮 memoir passage is already absorbed above — nothing new absorbable (SKIP).
+
 ## Sources
 - [TAH #776 encyclopedia: 776. George K. Liu 劉寬平 /2016/01](https://taiwaneseamericanhistory.org/whos-who776/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/george-k-liu/)

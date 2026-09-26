@@ -51,3 +51,4 @@ _No filled family fields on the TAH profile._
 <!-- deepen-x slice 09210900-17 recheck 2026-09-22: SKIP — grep 林竹信/Zwu-Shi matched only own whoswho1343 work page; no independent memoir/article material. -->
 
 <!-- deepen-x slice 09231400-3 recheck 2026-09-25: SKIP — fresh ZH+EN grep of works/+articles matched only this person's own TAH Who's Who work page and the works index; hit set identical to prior re-verifications, no independent memoir/article material to absorb. -->
+<!-- deepen-x slice 09250600-21 recheck 2026-09-25: SKIP — fresh ZH+EN grep (林竹信/Zwu-Shi) matched only own whoswho1343 work page and works index; no independent memoir/article material. -->
