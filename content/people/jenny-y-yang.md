@@ -38,6 +38,7 @@ _No filled family fields on the TAH profile._
 - Own TAH Who's Who record: [[works/taiwaneseamericanhistory-org/whpswho1490|1490. Jenny Y Yang 楊又芳 / 2017/01]].
 - Corpus check (deepen-x 09231400-22, 2026-09-25): fresh grep returns only already-absorbed records; the Blacklava/Vickie Wang hits are the comedian-mislink HOLD below — nothing new.
 - HOLD: the stand-up comedian "Jenny Yang" mentioned in [[works/taiwaneseamerican-org/on-two-decades-of-blacklava-and-celebrating-the-other|Blacklava / Celebrating the Other]] and the Vickie Wang essays appears to be a different person; those works' Subjects links to this page are likely mislinks (scientist vs comedian). Never auto-merged.
+- Re-check 2026-09-26 (deepen-x slice 09251031-13): fresh ZH+EN grep hit set unchanged — own record + PECASE record + works/index + the comedian-mislink works above. No new scientist-side corpus facts; HOLD stands.
 
 ## Sources
 - [TAH #1490 encyclopedia: 1490. Jenny Y Yang 楊又芳 / 2017/01](https://taiwaneseamericanhistory.org/whpswho1490/)

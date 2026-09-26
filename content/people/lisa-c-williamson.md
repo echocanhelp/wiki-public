@@ -34,7 +34,7 @@ last_reviewed: 2026-09-26
 _No filled family fields on the TAH profile._
 
 ## Role in the Community
-- Recorded in the TAH Foundation encyclopedia via [[works/taiwaneseamericanhistory-org/whos-who-1971-lisa-c-williamson|1971. Lisa C. Williamson 李貞瑩]] (published 2017-12-03; bibliographic record — full text stays in the TAH vault). No other corpus material mentions her; the finance-to-Kumon education-entrepreneurship path rests solely on the TAH Who's Who entry. Re-grepped 2026-09-19, 2026-09-21 and 2026-09-25 (deepen-x 09231300-12): still only the #1971 record — no new corpus material, SKIP content-deepen.
+- Recorded in the TAH Foundation encyclopedia via [[works/taiwaneseamericanhistory-org/whos-who-1971-lisa-c-williamson|1971. Lisa C. Williamson 李貞瑩]] (published 2017-12-03; bibliographic record — full text stays in the TAH vault). No other corpus material mentions her; the finance-to-Kumon education-entrepreneurship path rests solely on the TAH Who's Who entry. Re-grepped 2026-09-19, 2026-09-21, 2026-09-25 and 2026-09-26 (deepen-x 09251031-14): still only the #1971 record — the new Williamson hits in taiwanjustice.net articles are unrelated people (Dr. John Finley Williamson, Peter Williamson, Jan Williamson, MP John Williamson). SKIP content-deepen.
 
 ## Sources
 - [TAH #1971 encyclopedia: 1971. Lisa C. Williamson 李貞瑩](https://taiwaneseamericanhistory.org/whos-who-1971-lisa-c-williamson/)
