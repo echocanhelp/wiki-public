@@ -1,0 +1,4 @@
+people/yang-ming-ren.md
+people/sheng-wang.md
+organizations/taiwanese-student-association-at-georgia-tech.md
+organizations/yin-chin-foundation-of-u-s-a.md

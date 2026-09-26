@@ -1,0 +1,4 @@
+people/san-francisco-theological-seminary.md
+organizations/taiwanese-student-society.md
+people/kevin-wu.md
+people/li-ying-shang.md
