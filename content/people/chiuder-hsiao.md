@@ -42,6 +42,7 @@ _No filled family fields on the TAH profile._
 - SKIP-with-reason: corpus grep（蕭秋德/Chiuder）僅見於本人傳記頁 [[works/taiwaneseamericanhistory-org/whoswho1525|1525. Chiuder Hsiao 蕭秋德 / 2017/02]] 及 works/index，回憶錄/社運文本無可吸收之社群事實；現職以 Employment 記錄為準。
 
 - SKIP confirmed (2026-09-25 re-grep): hits limited to own entry [[works/taiwaneseamericanhistory-org/whoswho1525|1525. Chiuder Hsiao 蕭秋德]] + works/index; nothing absorbable.
+- Re-swept 2026-09-26 (slice 09251039-30): fresh ZH+EN greps return only the own record above + works index — SKIP, no memoir/organization material.
 
 ## Sources
 - [TAH #1525 encyclopedia: 1525. Chiuder Hsiao 蕭秋德 2017/02](https://taiwaneseamericanhistory.org/whoswho1525/)

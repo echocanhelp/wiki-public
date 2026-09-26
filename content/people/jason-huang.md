@@ -37,6 +37,7 @@ _No filled family fields on the TAH profile._
 - Listed among the early officers/members in the founding history of the DC/Baltimore TAA chapter, [[works/taiwaneseamericanhistory-org/ourjourneys-138|138. 華府與巴城TAA的誕生 / 陳淮崇 / 2015/05]] (1988–89 roster).
 - In the 1991 Taiwanese-American summer camp memoir [[works/taiwaneseamericanhistory-org/our-journeys-379|379. 十年東南夏令憶感 / 01/2022]], 華府的黃仁宗 attended on behalf of the newly formed 民進黨海外黨部 (US-East branch) and urged camp members to join the party.
 - Record [[works/taiwaneseamericanhistory-org/whoswho1682|1682. Jason Huang 黃仁宗 / 05/2017]] — TAH Who's Who encyclopedia entry, the primary holdings record for this person.
+- Re-swept 2026-09-26 (slice 09251039-30): corpus hits confirmed unchanged — founding roster in [[works/taiwaneseamericanhistory-org/ourjourneys-138|138. 華府與巴城TAA的誕生]], 民進黨海外黨部 camp passage in [[works/taiwaneseamericanhistory-org/our-journeys-379|379. 十年東南夏令憶感]], own record, works index. No new absorbable material.
 
 ## Sources
 - [TAH #1682 encyclopedia: 1682. Jason Huang 黃仁宗 / 05/2017](https://taiwaneseamericanhistory.org/whoswho1682/)
