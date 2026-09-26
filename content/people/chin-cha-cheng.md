@@ -60,3 +60,4 @@ _No filled family fields on the TAH profile._
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - 再核（deepen-x slice-09240900-2, 2026-09-25）：fresh grep 鄭錦家/Chin-Cha Cheng 結果不變（whos958 自身書目、33 從癌末重生專訪、2018 台大校友連署公開信、index），命中集與已吸收紀錄完全一致，無新可吸收社群敘事 — SKIP，已飽和。
+- 再核（deepen-x slice 09251400-2, 2026-09-26）：fresh grep 鄭錦家|Chin-Cha Cheng 命中集不變（whos958、33 專訪、2018 台大校友連署公開信、index），與已吸收紀錄一致 — SKIP，無新材料。
