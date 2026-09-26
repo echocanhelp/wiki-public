@@ -38,6 +38,7 @@ last_reviewed: 2026-09-26
   HOLD: conflict in the 2010 award wording — TAH profile lists MVP/打點王/得分王/最佳防守 for the World Youth League Championships; the 2017 community article cites the Junior League World Series and World Junior Baseball Championship titles instead. Both kept, not merged.
 
 - Corpus re-checks 2026-09-22, 2026-09-23 (slice 09221300-23), 2026-09-24 (slice 09230800-28) and 2026-09-25 (slice 09240800-30): SKIP — corpus grep returns only the own encyclopedia page 1750, the works index, and the already-absorbed taiwan-zhiguang athlete roundup (re-read this run; its facts are already fully absorbed above, HOLD on the 2010-award wording still stands); no new community material.
+- Corpus re-check 2026-09-26 (slice 09251400-16): SKIP — grep 林子偉|Tzu-Wei Lin still hits only the own TAH #1750 mirror, the works index, and the already-absorbed taiwan-zhiguang roundup; no new community material.
 
 ## Family
 
