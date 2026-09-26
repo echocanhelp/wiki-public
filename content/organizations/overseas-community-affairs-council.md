@@ -178,3 +178,5 @@ OCAC plays a significant role in the **Taiwanese-American experience** in Southe
 - [[organizations/taiwanese-american-historical-society||Taiwanese American Historical Society (TAHS)]]
 - [[organizations/fapa-los-angeles||FAPA Los Angeles]]
 - [[sources/ocac-gov-tw||ocac.gov.tw (source hub)]]
+
+<!-- TJJ-A09260400-6: verified 2026-09-26 — subject link 162effa713237818 confirmed real; 2020-06-16 dated fact w/ wikilink already in From the record — saturated. -->

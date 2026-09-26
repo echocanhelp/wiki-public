@@ -79,3 +79,5 @@ Zheng was not a member of the Geneva Presbyterian Church congregation in Laguna 
 - [[sources/2017-tahs-publication||2017 TAHS Publication]]
 
 <!-- TJJ-A09250700-1: verified 2026-09-26 — subject links in slice 09250700-1 articles (c4d413fd / 8c205697 / 8842b0e0 / e041055e) confirmed real vs 正文; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A09260400-6: verified 2026-09-26 — subject link 117bdbbd9b362236 confirmed real; 2022-05-16 dated fact w/ article wikilink already in From the record — saturated, no new material. -->

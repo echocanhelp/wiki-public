@@ -54,3 +54,5 @@ Corpus re-grep 2026-09-22 (DEEPEN-X slice 09212352-24): hits are only the record
 - [[works/taiwaneseamericanhistory-org/whoswho1437|TAH #1437 殷清隆 百科 entry (2016/12)]]
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+<!-- TJJ-A09260400-6: verified 2026-09-26 — subject link 1d72b2ae61640747 confirmed real; 2019-10-10 dated fact w/ wikilink already in From the record — saturated. -->

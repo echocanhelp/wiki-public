@@ -161,3 +161,5 @@ In 2006, the party ended official recognition of factions, though they remain re
 - [[people/albert-s-lai||Dr. Albert S. Lai (賴信雄)]]
 - [[organizations/formosan-presbyterian-church-in-los-angeles||Formosan Presbyterian Church in Los Angeles (FPCLA)]] — linked through Albert Lai's dissertation documenting the democratization history
 - [[organizations/taiwan-center||Taiwan Center Foundation of the Greater Los Angeles]]
+
+<!-- TJJ-A09260400-6: verified 2026-09-26 — subject link becb39f917174438 confirmed real; dated fact w/ wikilink already in From the record — saturated. -->
