@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # K. L. Hung (洪基隆博士)
 
@@ -41,6 +41,7 @@ last_reviewed: 2026-09-25
 _No filled family fields on the TAH profile._
 
 - Re-verified (2026-09-25 re-grep): corpus hits remain [[works/taiwaneseamericanhistory-org/ourjourneys106|Our Journeys #106]] blacklist note + own entry [[works/taiwaneseamericanhistory-org/whoswho1055|1055. K. L. Hung 洪基隆]] — both already absorbed; no new facts.
+- Re-verified 2026-09-26 (deepen-x slice 09251039-6): fresh ZH+EN grep returns only the same two works; no new corpus facts.
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/k-l-hung/)

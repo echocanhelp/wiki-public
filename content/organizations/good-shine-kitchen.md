@@ -5,7 +5,7 @@ name_en: "Good Shine Kitchen"
 name_zh: "故鄉台灣料理"
 tags: [organization, business, tahs-family]
 verification_status: owner-verified
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Good Shine Kitchen (故鄉台灣料理)
 
@@ -22,3 +22,6 @@ last_reviewed: 2026-09-25
 
 ## NEED YOU
 - Exact founding year; fate of the bakery/food shop; photos of signage/interior (candidate for family photo custody folder)
+
+## Corpus note
+- Corpus grep 2026-09-26 (deepen-x slice 09251039-6): zero hits for 故鄉台灣料理 / Good Shine Kitchen in works/ or articles/ — founding/activism facts rest on the LAT press evidence and owner statements already recorded above. Nothing new absorbable; NEED YOU items stand.

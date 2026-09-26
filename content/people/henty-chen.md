@@ -47,3 +47,5 @@ last_reviewed: 2026-09-26
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+<!-- deepen-x 09251039-7 2026-09-26: re-scan ZH+EN — only own record #461 + index hit; no memoir material to absorb. SKIP. -->

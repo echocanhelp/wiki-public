@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Prof. Henry Chuang (莊英煌教授)
 
@@ -42,6 +42,7 @@ SKIP (deepen-x 2026-09-22 re-verify): corpus grep found only his own bibliograph
 
 ## Sources
 <!-- deepen-x 09231500-3 2026-09-25: re-scan ZH+EN — only own record #2302 + index hit; no memoir/community facts to absorb. SKIP. -->
+<!-- deepen-x 09251039-6 2026-09-26: re-scan ZH+EN — only own record #2302 + index hit. SKIP stands. -->
 
 - [TAH #2302 encyclopedia: 2302. Prof. Henry Chuang 莊英煌教授](https://taiwaneseamericanhistory.org/whos-who-2302-henry-chuang/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-henry-chuang/)
