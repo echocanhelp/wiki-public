@@ -40,6 +40,7 @@ _No filled family fields on the TAH profile._
 - Corpus re-grep 2026-09-24 (slice 09230900-6): hit set unchanged (ourjourneys24/-eng, 38/-eng, 106, whoswho1066). SKIP — saturated, no new facts.
 - Corpus re-grep 2026-09-25 (slice 09240900-4): fresh grep 余舜華/Shun Hua Yu returns the same saturated set. Text re-verified against the page: 三十年回顧 confirms 第26屆會長余舜華 initiated the 921 賑災捐款 (16萬美元 remitted under 第27屆陳麗都) and the 2000 大選 60萬募款 sits in the same section without naming a beneficiary — existing HOLD preserved; 會館誕生 confirms 选址帮忙 by 余舜華、溫美玲、羅芙美 (memoir names 溫美玲/羅芙美, no pages yet — no wikilink added); 黑名單 places her among 北加州 簽証被拒/受刁難 figures. SKIP — saturated, no new facts.
 - Corpus re-grep 2026-09-26 (slice 09251400-2): fresh grep 余舜華|Shun Hua Yu of works+articles returns the identical saturated set (ourjourneys24/-eng, 38/-eng, 106, whoswho1066, index). All facts remain absorbed. SKIP — no new facts.
+- Corpus re-grep 2026-09-26 (slice 09260500-9): fresh grep 余舜華|Shun Hua Yu of works+articles returns the identical saturated set (ourjourneys24/-eng, 38/-eng, 106, whoswho1066). All facts remain absorbed; existing HOLD on the 2000 大選募款 attribution preserved. SKIP — no new facts.
 
 ## Sources
 - [TAH #1067 encyclopedia: 1067. Shun Hua Yu 余舜華 / 2016/06](https://taiwaneseamericanhistory.org/whoswho1066/)

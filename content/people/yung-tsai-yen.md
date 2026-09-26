@@ -56,3 +56,4 @@ http://blog.xuite.net/ysyang0102/twblog/145974084-%E7%9F%BD%E8%B0%B7%E4%B9%8B%E5
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- Corpus re-grep (slice 09260500-12, 2026-09-26): fresh 顏永財/Yung-Tsai Yen ZH+EN grep — hit-set unchanged (#239, #853, #19, #794, #236, #47). Verified-saturated; SKIP-content; 1981-vs-1982 創辦年 HOLD 維持。
