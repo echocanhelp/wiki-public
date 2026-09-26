@@ -37,3 +37,5 @@ Re-verified 2026-09-24 (slice 09230600-24): fresh ZH+EN grep (SVTAA / 矽谷台�
 
 Re-verified 2026-09-25 (slice 09240600-24): fresh ZH+EN grep of works/ + articles/ returned only records already linked and absorbed on this page; SKIP: verified-saturated, no new absorbable facts.
 Re-verified 2026-09-26 (slice 09250900-25): fresh grep (SVTAA / 矽谷台灣同鄉會 / Silicon Valley Taiwanese American Association) returns only the chapter's own directory record, the works index, and the Pew statement already linked above; SKIP: verified-saturated, nothing new absorbable.
+
+Re-verified 2026-09-26 (slice 09260400-13): fresh ZH+EN grep returned the same three hits (own directory record, works index, Pew statement); SKIP: verified-saturated.

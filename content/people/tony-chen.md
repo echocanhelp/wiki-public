@@ -56,3 +56,4 @@ last_reviewed: 2026-09-25
 
 > SKIP-note (deepen-x slice 09240400-3, 2026-09-25): fresh ZH+EN re-grep — hit set identical to the linked set (ourjourneys76 + -eng, works 83/80/1000, whos145); Austin 學生活動 roster, 同鄉會 founded after 2–3 outings under 吳木盛, and his literary pieces all already absorbed. SKIP: verified-saturated.
 > SKIP-note (deepen-x slice 09250700-19, 2026-09-25): fresh ZH+EN re-grep (陳國洸 / Tony Chen) — hit set identical to the linked set (ourjourneys76 + -eng, works 83/80/1000, whos145); nothing new absorbable. SKIP: verified-saturated.
+> SKIP-note (deepen-x slice 09260400-13, 2026-09-26): fresh ZH+EN re-grep — hit set identical (ourjourneys76 + -eng, works 83/80/1000, whos145); nothing new absorbable. SKIP: verified-saturated.
