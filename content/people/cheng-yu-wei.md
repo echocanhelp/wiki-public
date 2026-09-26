@@ -38,6 +38,7 @@ _No filled family fields on the TAH profile._
 
 - Community record: her TAH Who's Who encyclopedia entry is held in the story corpus as [[works/taiwaneseamericanhistory-org/whoswho1584|1584. Cheng-Yu Wei 魏琤郁]] (published 2017-03-26, value band B).
 - Corpus scan 2026-09-25 (ZH+EN grep works/articles): hits limited to this own record listing in works/index.md; no memoir or article mentions beyond the encyclopedia record itself; UCSD stage-management roles above remain press-kit sourced.
+- Re-swept 2026-09-26: fresh ZH+EN grep returned only own record + index — SKIP.
 
 ## Sources
 - [TAH #1584 encyclopedia: 1584. Cheng-Yu Wei 魏琤郁 / 2017/03](https://taiwaneseamericanhistory.org/whoswho1584/)

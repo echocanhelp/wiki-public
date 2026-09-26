@@ -40,6 +40,7 @@ _No filled family fields on the TAH profile._
 
 - Community record: his TAH Who's Who encyclopedia entry is held in the story corpus as [[works/taiwaneseamericanhistory-org/whoswho1898|1898. L. H. Chen 陳隆旭]] (published 2017-09-20, value band B).
 - Corpus scan 2026-09-25 (ZH+EN grep works/articles): hits limited to this own record listing in works/index.md; no memoir or article mentions beyond the encyclopedia record itself; pharmaceutical-research roles above remain press-kit sourced.
+- Re-swept 2026-09-26: fresh ZH+EN grep returned only own record + index — SKIP.
 
 ## Sources
 - [TAH #1898 encyclopedia: 1898. L. H. Chen 陳隆旭 / 09/2017](https://taiwaneseamericanhistory.org/whoswho1898/)
