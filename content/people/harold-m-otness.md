@@ -35,7 +35,7 @@ last_reviewed: 2026-09-26
 
 
 ## Role in the Community
-- SKIP note (2026-09-20, re-verified 2026-09-21 / 2026-09-22 / 2026-09-25 ZH+EN grep): corpus grep matched only the own-profile record [[works/taiwaneseamericanhistory-org/148-harold-m-otness-e6-ad-90-e7-8d-bb-e6-96-87|TAH #148, 2014-12-09]]; no memoir/article material beyond the existing TAH snapshot (SoO library-science professorship, 1966–1999, already recorded).
+- SKIP note (2026-09-20, re-verified through 2026-09-26 ZH+EN grep): corpus grep matched only the own-profile record [[works/taiwaneseamericanhistory-org/148-harold-m-otness-e6-ad-90-e7-8d-bb-e6-96-87|TAH #148, 2014-12-09]]; no memoir/article material beyond the existing TAH snapshot (SoO library-science professorship, 1966–1999, already recorded).
 
 ## Sources
 - [TAH #148 encyclopedia: 148. Harold M. Otness 歐獻文](https://taiwaneseamericanhistory.org/148-harold-m-otness-%e6%ad%90%e7%8d%bb%e6%96%87/)
