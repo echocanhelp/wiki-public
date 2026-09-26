@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Grace Liu
 
@@ -46,3 +46,4 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- SKIP（deepen-x 09251054-29 覆核 2026-09-26）: 中英名再查仍僅命中自身 whoswho982 紀錄, 無可吸收材料。

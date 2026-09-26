@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Arizona Taiwanese Student Association
 
@@ -27,3 +27,4 @@ The Arizona Taiwanese Student Association (ATSA) is a registered student organiz
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- SKIP note (re-verified 2026-09-26, slice 09251054-29: grep matches were NATSA/CAATSA substring false positives again; no org-specific material).

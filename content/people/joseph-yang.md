@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Joseph Yang (楊澤修博士)
 
@@ -44,3 +44,4 @@ last_reviewed: 2026-09-25
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- SKIP (re-verified 2026-09-26, slice 09251054-29: fresh ZH+EN grep found only own whoswho1273 record + index co-listing; nothing absorbable).

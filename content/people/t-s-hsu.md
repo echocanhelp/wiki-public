@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # T. S. Hsu (許廷鑫)
 
@@ -42,3 +42,4 @@ SKIP-with-reason: corpus grep (works/articles) found only this person's own TAH 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- SKIP (re-verified 2026-09-26, slice 09251054-29: ZH+EN grep of works/articles found only own whoswho1146 record + index; no memoir material).
