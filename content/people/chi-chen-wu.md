@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Chi-Chen Wu (吳紀禛)
 
@@ -52,4 +52,4 @@ _No filled family fields on the TAH profile._
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 ## Corpus check (deepen-x 09230400-29, 2026-09-24)
-SKIP (re-confirmed) — fresh grep for 吳紀禛 / Chi-Chen Wu still limited to the two own-profile encyclopedia records plus the works index. Verified saturated.
+SKIP (re-confirmed) — fresh grep for 吳紀禛 / Chi-Chen Wu still limited to the two own-profile encyclopedia records plus the works index. Verified saturated. Re-grep 2026-09-26 (slice 09251023-21): same hit set — verified saturated.

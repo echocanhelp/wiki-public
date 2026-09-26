@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # AJ WANG FOUNDATION – SCHOLARSHIP FUND
 
@@ -30,4 +30,4 @@ The AJ Wang Foundation is a 501(c)(3) non-profit organization established in Nov
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 ## Corpus check (deepen-x 09230400-29, 2026-09-24)
-SKIP (re-confirmed) — fresh grep of works/ + articles/ for "AJ Wang" returns only the own-records and the works index; no new corpus facts absorbable.
+SKIP (re-confirmed) — fresh grep of works/ + articles/ for "AJ Wang" returns only the own-records and the works index; no new corpus facts absorbable. Re-grep 2026-09-26 (slice 09251023-21): the only extra hits (ourjourneys278, whoswho1572) are 王震昭 / Chen-Chao Wang — a substring false positive on 王震, unrelated to this Foundation; founder still unrecorded in corpus (HOLD stands).
