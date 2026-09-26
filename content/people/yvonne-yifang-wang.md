@@ -57,6 +57,7 @@ Dr. Yvonne Yifang Wang, violinist born in Taoyuan, Taiwan, grew up in music as b
 _No filled family fields on the TAH profile._
 
 ## From the record
+- 複核（TJJ-A09250400-17, 2026-09-26）：本 slice 文章 426d2811d4065134（音樂短講第13集）正文再驗證——王亦凡博士特別講座「泛音」確認見於正文，subject 連結為真（無錯鏈、無虛鏈）；2020-12-13 條目（已含該文 wikilink）已在庫 — SKIP，已飽和。
 
 - 複核（TJJ-A09250400-15, 2026-09-25）：本 slice 文章音樂短講第13集 4119cffe 正文再驗證——subject link（與黃令先之特別講座「泛音」）為真實對應，無錯鏈、無虛鏈；含該文 wikilink 之 2020-12-13 條目已在庫 — SKIP，無新材料。另三篇無涉本人。
 

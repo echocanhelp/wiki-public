@@ -53,6 +53,7 @@ Corpus-absorbed (deepen-x slice 28, 2026-09-14) from 鍾澄文's column [[articl
 - New corpus link from this pass: 2020 Virtual Choir 指揮 activity in the taiwanjustice article above (first third-party community mention beyond her own TAH pages).
 
 ## From the record
+- 複核（TJJ-A09250400-17, 2026-09-26）：本 slice 文章 e7e2a1e1a71524ce（以立「希望之光」世界首演）正文再驗證——鋼琴陳慧如確認見於正文，subject 連結為真（無錯鏈、無虛鏈）；2022-12-02 條目（已含該文 wikilink）已在庫 — SKIP，已飽和。
 
 - 複核（TJJ-A09250400-19, 2026-09-25）：本 slice 文章「希望之光」存檔稿 a40b37bc03b2b9cb 正文再驗證——陳慧如鋼琴確認見於正文，subject 連結為真、無錯鏈無虛鏈；含該檔 wikilink 的 2022-12-02 條目已在庫 — SKIP，無新材料。
 
