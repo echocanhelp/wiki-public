@@ -34,6 +34,7 @@ last_reviewed: 2026-09-26
 - **Re-verified 2026-09-22** (deepen-x slice 25): corpus hits are only 劉天良《生活座談會簡史》(ourjourneys212 — founding list matches the page: 李成奎、王志成、洪正吉、許新民、陳光耀、劉天良, 1983年1月, 阮厝) and his own TAH #1975 entry; both already linked, nothing new absorbable.
 - **Re-verified 2026-09-25** (deepen-x slice 09231100-23): fresh ZH+EN grep of works+articles returns only ourjourneys212 and own TAH #1975 (both already linked); no new absorbable facts — verified saturated.
 - **Re-verified 2026-09-25** (deepen-x slice 09250400-31): grep re-run returns the identical hit set (own TAH entry, ourjourneys212, plus the works/index.md listing) — no new absorbable material.
+- **Re-verified 2026-09-26** (deepen-x slice 09252123-24): grep re-run returns the identical hit set (whos-chih-cheng-wang, ourjourneys212, works index) — saturated, SKIP-with-reason.
 
 ## Family
 

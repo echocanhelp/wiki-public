@@ -47,3 +47,4 @@ _No filled family fields on the TAH profile._
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - Fresh corpus re-grep 2026-09-25 (slices 09231000-31, 09250400-12): hits remain only whoswho342, musician171, and the works index — no memoir coverage; verified saturated, SKIP.
+- Fresh corpus re-grep 2026-09-26 (slice 09252123-24): identical hit set (whoswho342, musician171, works index) — saturated, SKIP-with-reason.

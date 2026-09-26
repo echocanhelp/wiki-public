@@ -47,6 +47,7 @@ last_reviewed: 2026-09-26
 - Re-verified 2026-09-22 (deepen-x slice 09211507-27): re-grepped ZH+EN against content/works + content/articles; hit set unchanged from prior pass — verified-saturated, no new corpus material absorbable.
 - Re-verified 2026-09-25 (deepen-x slice 09231100-26): fresh ZH+EN grep returns the same two own-records (#79 profile, #257 草與露) plus index rows — verified-saturated idempotent re-check, nothing new absorbable.
 - Re-verified 2026-09-25 (deepen-x slice 09250400-31): grep re-run returns the identical hit set (own #79 profile, own #257 草與露, works/index.md listing) — saturated, no new absorbable material.
+- Re-verified 2026-09-26 (deepen-x slice 09252123-24): grep re-run returns the identical hit set (#79, #257, works index) — saturated, SKIP-with-reason.
 
 ## Sources
 - [TAH #79 encyclopedia: 79. Peggy Liao 廖碧玉](https://taiwaneseamericanhistory.org/79-peggy-liao-%e5%bb%96%e7%a2%a7%e7%8e%89/)
