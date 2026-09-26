@@ -50,6 +50,7 @@ Accomplishment
 - Corpus re-grep (slice 09240700-19, 2026-09-25): hit-set unchanged (whos-who-39, Lockheed Martin award, ourjourneys43, works index) — verified-saturated, nothing new absorbable, no conflicts.
 
 - Corpus re-grep (slice 09251000-11, 2026-09-26): hit-set unchanged (whos-who-39, Lockheed Martin award KingChi Wu record, ourjourneys43 同工 lecture-series passage, works index) — verified-saturated, nothing new absorbable, no conflicts.
+- Corpus re-grep (slice 09260500-14, 2026-09-26): hit-set unchanged (whos-who-39, Lockheed Martin KingChi Wu award, ourjourneys43, works index) — verified-saturated, nothing new absorbable, no conflicts.
 
 ## Sources
 - [TAH #39 encyclopedia: 39. Keng Chi Wu 吳耿志](https://taiwaneseamericanhistory.org/whos-who-39-keng-chi-wu/)

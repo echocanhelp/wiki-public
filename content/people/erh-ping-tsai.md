@@ -41,6 +41,7 @@ last_reviewed: 2026-09-26
 - Corpus re-check 2026-09-24 (slice 09230800-7): fresh grep 蔡爾平/Erh-Ping Tsai of works/ + articles/ returns the same hit set (videos53/videos54/84/1511, works index, 一步一腳印 article index) — all already linked above. Verified-saturated; SKIP-content.
 - Corpus re-check 2026-09-25 (slice 09240700-25): fresh grep 蔡爾平/Erh-Ping Tsai/Erhping Tsai of works/ + articles/ returns the same hit set (videos53/videos54/84/1511, works index, 一步一腳印 article index) — all already linked above. Verified-saturated; SKIP-content.
 - Corpus re-check 2026-09-26 (slice 09251000-12): fresh grep 蔡爾平/Erh-Ping Tsai — same hit set (videos53/videos54/84/1511, works index, 一步一腳印 article index), all already linked. Verified-saturated; SKIP-content, no conflicts to HOLD.
+- Corpus re-check 2026-09-26 (slice 09260500-14): fresh grep 蔡爾平/Erh-Ping Tsai/Erhping Tsai — same hit set (videos53/videos54/84/1511, works index, 一步一腳印 article index), all already linked. Verified-saturated; SKIP-content, no conflicts to HOLD.
 
 ### Timeline
 - 2017-02-15 — recorded in the TAH Foundation encyclopedia (#1511).

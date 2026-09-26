@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Jacy Chen (陳彩雲博士)
 
@@ -46,6 +46,7 @@ _No filled family fields on the TAH profile._
 - 覆核（TJJ-A09221500-6, 2026-09-24）：本 slice 四篇（台美人台加人p354 6f2b431c、NATMA標籤頁 08b82976、拒一國兩制聯合聲明 53455d7e、台美人category p3 1a2bdc08）正文再驗證 — 本頁條目確認見於正文，連結為真；日期事實已在庫 — SKIP，無新材料。
 - 覆核（deepen-x-09231500-21, 2026-09-25）：全庫 ZH+EN grep — 命中僅自有 TAH 條目存根 [[works/taiwaneseamericanhistory-org/whoswho1573|1573. Jacy Chen 陳彩雲]]（published 2017-03-22）及已載的挺港聯合聲明 TJJ 記錄，無新回忆錄材料 — SKIP，已飽和。
 - 覆核（deepen-x-09250600-1, 2026-09-25）：fresh ZH+EN grep（陳彩雲/Jacy Chen）— 命中集與前次相同：自有存根 whoswho1573、index、挺港聯合聲明 53455d7e，均已收錄 — SKIP，已飽和，無新材料。
+- 覆核（deepen-x-09260500-16, 2026-09-26）：fresh ZH+EN grep（陳彩雲/Jacy Chen）— 命中集不變：whoswho1573 自有存根、index、挺港聯合聲明 53455d7e，全數已收錄 — SKIP，已飽和（verified-saturated）。
 
 ## Sources
 - Her own TAH Who's Who entry is archived in the corpus at [[works/taiwaneseamericanhistory-org/whoswho1573|1573. Jacy Chen 陳彩雲 / 2017/03]].
