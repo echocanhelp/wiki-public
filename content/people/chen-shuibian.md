@@ -30,6 +30,8 @@ last_reviewed: 2026-09-24
 
 ## From the record
 
+- 複核（TJJ-A09250400-10, 2026-09-25）：本 slice 文章 c595d332038f73bb（「Taiwan」標籤頁, 2024-06-20 存檔）正文再驗證——「Chen Shui-bian suicide attempt confirmed by medical team during prison visit…」（2013-04-24 條目）再確認見於清單，連結為真；2013-04-24 條目（已含該文 wikilink）已在庫 — SKIP，無新材料。
+
 - 複核（TJJ-A09240400-3, 2026-09-25）：slice 文章 b63290424caedcf7（TJJ 轉載 LA Times 蔡英文參選報導, 2015-04-16）正文再驗證——扁任內主張台獨、進黨表明維持現狀之記述確認見於正文，subject 連結為真，無錯鏈、無虛鏈；2015-04-16 條目（含該文 wikilink）已在庫 — SKIP，已飽和，無新材料。
 
 - 複核（TJJ-A09240400-1, 2026-09-25）：本 slice 文章 86312fe2a2feb73e（English Pages 分類存檔頁3, 2024-05-30 快照）正文再驗證——扁案英語報導（「A Plea from a doctor for President Chen」2013-03-03、「Chen Shui-bian's return to prison」2013-04-22）確認見於清單，subject 連結為真（無錯鏈、無虛鏈）；2013-03-07 條目（已含該文 wikilink）已在庫 — SKIP，無新材料。
