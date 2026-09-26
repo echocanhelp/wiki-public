@@ -41,6 +41,7 @@ Hui-Ling Hsu is a Taiwanese violist. Ms. Hsu earned her B.A. from Soochow Univer
 
 - Corpus re-scan 2026-09-22 (deepen-x slices 09210900-2, 09220800-30): hits remain the two TAH story records ([[works/taiwaneseamericanhistory-org/280-hui-ling-hsu-violinist-201508|280]], [[works/taiwaneseamericanhistory-org/553-hui-ling-hsu-201508|553]]) + index line; Violinist-vs-violist conflict still on HOLD, no new material — verified saturated.
 - Corpus re-check 2026-09-25 (slice -22): hits remain the two TAH story records + index; Violinist-vs-violist conflict still on HOLD. Verified-saturated.
+- Corpus re-check 2026-09-25 (deepen-x slice 09250500-5): ZH fuzzy grep (惠玲) added only same-name-different-person hits — 涂惠玲 in [[works/taiwaneseamericanhistory-org/ourjourneys101|101. 美東南區台灣人海上夏令會]], 高惠玲 in [[works/taiwaneseamericanhistory-org/our-journeys-389|389. 印城台灣同鄉會紀要]], 王惠玲/Lynette Ong in a TJJ article — none are this violist. Nothing absorbable; verified-saturated.
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/hui-ling-hsu/)
 

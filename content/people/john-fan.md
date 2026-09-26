@@ -47,3 +47,4 @@ last_reviewed: 2026-09-25
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- Re-verified 2026-09-25 (deepen-x slice 09250500-9): fresh ZH+EN grep returns the same set — whoswho1269, inside-piccollage, works index, John Fanestil article (different person). SKIP-with-reason: no new community material.

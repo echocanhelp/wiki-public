@@ -44,6 +44,7 @@ BFA, Studio Arts, Photography, Ceramics
 
 <!-- deepen-x 09210831-12: SKIP — corpus re-scan (2026-09-22): grep 郭正雍/Cheng-Yung Kuo in works+articles returns only own record whos-cheng-yung-kuo + works index; nothing absorbable. -->
 - SKIP re-confirmed 2026-09-25 (deepen-x slice 09231100-23): fresh ZH+EN grep returns only own record whos-cheng-yung-kuo + works index; nothing absorbable.
+- SKIP re-confirmed 2026-09-25 (deepen-x slice 09250500-5): grep 郭正雍/Cheng-Yung Kuo again returns only [[works/taiwaneseamericanhistory-org/whos-cheng-yung-kuo|whos-cheng-yung-kuo]] + works index; nothing absorbable.
 
 ## Sources
 - [TAH #1610 encyclopedia: 1610. Cheng-Yung Kuo 郭正雍 /04/2017](https://taiwaneseamericanhistory.org/whos-cheng-yung-kuo/)

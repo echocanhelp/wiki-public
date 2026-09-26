@@ -44,3 +44,4 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- Re-verified 2026-09-25 (deepen-x slice 09250500-9): fresh ZH+EN grep again returns only the works already cited (whoswho1466, NATWA 2015, support appeal, 228 event ×2, index). SKIP-with-reason: saturated.
