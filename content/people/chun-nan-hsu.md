@@ -7,8 +7,8 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
-skip_note: "deepen-x 2026-09-19 / re-verified 2026-09-25 (09231400-29): corpus re-verified — sole hit is own band-B TAH bibliographic record whoswho1191; no absorbable community facts"
+last_reviewed: 2026-09-26
+skip_note: "deepen-x 2026-09-19 / re-verified 2026-09-26 (slice 09251039-23): corpus re-verified — sole hit is own band-B TAH bibliographic record whoswho1191; no absorbable community facts"
 ---
 # Chun-Nan Hsu (許鈞南)
 
@@ -34,6 +34,7 @@ skip_note: "deepen-x 2026-09-19 / re-verified 2026-09-25 (09231400-29): corpus r
 ## Role in the Community
 
 - His community record is the TAH Who's Who encyclopedia entry [[works/taiwaneseamericanhistory-org/whoswho1191|TAH #1191, 2016/07]] — a bibliographic record only; no memoir, letter, or other first-person corpus material exists for him. Community facts beyond the press-kit profile: none absorbable.
+- Re-swept 2026-09-26 (slice 09251039-23): fresh ZH+EN greps return only own record whoswho1191 and the works index — SKIP-with-reason stands.
 
 ## Family
 
