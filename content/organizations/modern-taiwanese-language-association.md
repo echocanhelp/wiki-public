@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Modern Taiwanese Language Association (台語現代文協會)
 
@@ -37,3 +37,4 @@ From the TAH corpus record layers:
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- Corpus re-grep 2026-09-26 (slice 09251000-16): hit set unchanged (directory record, #198, #20, works index). Verified-saturated SKIP.

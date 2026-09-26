@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # J. W. Huang Lee (李黃貞文)
 
@@ -53,3 +53,4 @@ Vice President of The National Taiwan University Alumni Association in the Washi
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - Re-grepped 2026-09-25 (slice 09240700-18): hits limited to own #1808 record + works index — identical to prior passes; verified-saturated, no new absorbable facts.
+- Re-grepped 2026-09-26 (slice 09251000-12): fresh grep 李黃貞文 / J. W. Huang Lee — hits still limited to own #1808 record + works index. Verified-saturated SKIP; no unabsorbed corpus facts.

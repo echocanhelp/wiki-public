@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Michael Chong
 
@@ -50,3 +50,4 @@ _No filled family fields on the TAH profile._
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - Re-scan 2026-09-25 (slice 09240700-23): identical hit set (own #1398 record, index, the four already-linked HFX/馬侃獎 articles about MP 莊文浩). SKIP, nothing new absorbable about the Silicon Valley Talent founder; identity HOLD maintained.
+- Re-scan 2026-09-26 (slice 09251000-12): fresh grep Michael Chong — identical hit set (own #1398 record, works index, the four linked HFX/馬侃獎 articles, all about MP 莊文浩). Verified-saturated SKIP; identity HOLD maintained.

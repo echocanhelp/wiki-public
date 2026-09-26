@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Jeffrey Lee (李友禮)
 
@@ -56,3 +56,4 @@ _No filled family fields on the TAH profile._
 2026-09-23 re-check (slice 09221200-26): same six work pages re-grepped ZH+EN (376/378, ourjourneys79, columns3, my-stories-406, 831); all cited and linked. SKIP. HOLD (d. 2017 vs profile living-era) still standing.
 Corpus re-grep (slice 09230700-12, 2026-09-24): fresh grep for 李友禮/Jeffrey Lee — same six work pages (376/378, ourjourneys79, columns3, my-stories-406, 831), all cited and linked. HOLD (d. 2017 per 376 vs profile living-era) still standing.
 Corpus re-grep (slice 09240700-17, 2026-09-25): hit set identical (376/378, ourjourneys79, columns3, my-stories-406, 831), all absorbed. Verified-saturated SKIP.
+Corpus re-grep (slice 09251000-12, 2026-09-26): fresh grep 李友禮/Jeffrey Lee — same six work pages (376/378, ourjourneys79, columns3, my-stories-406, 831), all cited and linked; chairman list, 稅務信箱 column, 基金 volunteer tenure, and 名錄 entry re-verified against source text. Verified-saturated SKIP; HOLD (d. 2017 per 376) still standing.
