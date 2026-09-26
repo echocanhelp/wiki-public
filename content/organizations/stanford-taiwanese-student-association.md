@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Stanford Taiwanese Student Association
 
@@ -33,3 +33,4 @@ The Stanford Taiwanese Student Association (STSA) is a non-political, non-religi
 <!-- deepen-x 09221500-28: re-verify 2026-09-23 — fresh grep (works/articles): same 2022 layoffs report (absorbed) + two 2025 archive_digest 'STSA' substring false positives (Ukraine piece, 民進黨說明會 piece). SKIP-with-reason. -->
 <!-- deepen-x 09251000-11: re-verify 2026-09-25 — fresh grep (ZH+EN, works+articles): identical hits to prior re-verifies, all already absorbed/wikilinked (STSA 2025 hits are archive_digest hash false positives). Verified saturated; SKIP-no-new-facts. -->
 <!-- deepen-x 09250317-16: re-verify 2026-09-25 — fresh grep (ZH+EN, works+articles): hit set identical to prior re-verifies, all already absorbed/wikilinked (STSA hits = 2025 archive_digest hash false positives). Verified saturated; SKIP-no-new-facts. -->
+<!-- deepen-x 09251435-1: re-verify 2026-09-26 — fresh grep (STSA/Stanford Taiwanese/史丹佛台灣, works+articles): identical hits — 2022 layoffs report (absorbed) + two 2025 archive_digest substring false positives. Verified saturated; SKIP-no-new-facts. -->
