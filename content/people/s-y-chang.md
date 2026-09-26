@@ -73,3 +73,5 @@ _No filled family fields on the TAH profile._
 - Corpus re-grep (slice deepen-x-slice-09221500-1, 2026-09-23): 張信義 across works+articles — hit set unchanged (whoswho1651, OJ #33-eng/#74/#79/#377, index, TJJ 楊遠薰 reprints 2021/2025); all already linked, incl. the 2025-03-23 re-verification note above. SKIP-with-reason: 語料已飽和; English-name HOLD stands.
 
 <!-- TJJ-A09250800-1: verified 2026-09-26 — 本 slice 4 篇（楊遠薰《卓甫良與TAF的故事》兩存檔 e7aad53f／b4206bcf；獨傲村夫〈反攻大陸（下）〉兩存檔 dd1007a6／35d25fb4）正文再驗證——subject 連結為真實提及（無錯鏈、無虛鏈）；含該文 wikilink 的日期事實條目已在庫 — saturated, no new material. -->
+
+<!-- TJJ-A09260400-3: verified 2026-09-26 — slice 09260400-3 四篇（廖清山〈一顆難以忘懷的台灣心〉cbf185d4；楊遠薰《卓甫良與TAF的故事》兩存檔 f06677a4／e7aad53f；獨傲村夫〈反攻大陸（下）〉dd1007a6）subject links 正文再驗證均為真實提及，無錯鏈、無虛鏈；含各檔 wikilink 的日期事實條目已在庫 — saturated, no new material. -->
