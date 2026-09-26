@@ -47,6 +47,8 @@ last_reviewed: 2026-09-25
 - 2020-09 — Wrote 「感念台美史料中心創辦人鄭寶鼎先生」, a memorial essay for 台美史料中心 founder Bob Cheng 鄭寶鼎, held as [[works/taiwaneseamericanhistory-org/mystories-745|TAH My Stories #745, 2020/09]] — placing her among the community figures commemorating the centre's founder in the same period as [[people/hong-zong-lin|林宏容]]'s essay.
 - Corpus re-grep 2026-09-25 (deepen-x slice 09240317-30): fresh grep 劉惠麗 / Huey Li Liu over content/works + content/articles returns only the TAH records already absorbed above (My Stories #503/#745/#761, Publications #1046 台美人生命腳跡, collection #77, own Who's Who record) — SKIP: no new corpus material.
 
+- Corpus re-grep 2026-09-25 (deepen-x slice 09250800-18): fresh grep 劉惠麗 / Huey Li Liu over works/ + articles/ returns only records already absorbed (#503/#745/#761, Publications #1046, collection #77, Who's Who #1479) — SKIP: no new corpus material.
+
 ## Sources
 - [TAH #77 encyclopedia: 77. Collection of Huey Li Liu 劉惠麗](https://taiwaneseamericanhistory.org/77-collection-of-huey-li-liu/)
 - [TAH #1479 encyclopedia: 1479. Huey Li Liu 劉惠麗 /01/2017](https://taiwaneseamericanhistory.org/whos-huey-li-liu/)

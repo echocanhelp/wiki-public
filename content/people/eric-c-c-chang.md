@@ -42,6 +42,7 @@ _No filled family fields on the TAH profile._
 - 2026-09-22 re-grep (deepen-x slice 09212352-16): fresh grep ('Eric C.C. Chang'／'Eric Chang', works+articles) hits confined to the already-linked records (#1723, FAPA-YPG announcements ×2, Pew statement, Jeremy Lin credits, SF dinner record) — no new absorbable facts; the HOLD above stands.
 - 2026-09-24 re-grep (slice 09230500-26): hit set unchanged (own #1723 entry, FAPA-YPG ×2, Pew 聲明, Jeremy Lin credits, SF dinner ×2); the Pew 聲明 and Jeremy Lin credits also surface the same-month newcomer record (Kollaboration Chicago) already in the index but not person-specific. No new absorbable facts; the identity HOLD stands. Verified saturated.
 - 2026-09-25 re-grep (slice 09240500-18): fresh grep (works+articles) — new raw hits are all different people (ourjourneys192 = Eric Chu 朱立倫; whos-who-2200 Eric Chien; 272 Eric Cheng 鄭晧). The Eric C.C. Chang / TACLe Eric Chang hit set is unchanged. No new absorbable facts; identity HOLD stands.
+- 2026-09-25 re-grep (slice 09250800-14): fresh grep (works+articles) for 'Eric C.C. Chang' returns only his own #1723 entry plus the works index — the exact-match hit set has narrowed to the directory record; the TACLe/FAPA-YPG 'Eric Chang' records remain the only activist-layer links. No new absorbable facts; identity HOLD stands. Verified saturated.
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/eric-c-c-chang/)
