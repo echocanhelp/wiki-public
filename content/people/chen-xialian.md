@@ -4,7 +4,7 @@ type: person
 tags:
   - 
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Elder Chen Xialian (陳夏蓮長老)
 
@@ -48,6 +48,8 @@ Use Echopedia Community Contributions Hub.
 - Era: 2023–2025
 - Geography: Southern California
 - Core roles: elder, ordained minister, community leader
+
+- Corpus note 2026-09-26 (slice 09251023-18; regex 陳夏蓮 / Chen Xialian / Xiaolian / 夏連): zero hits in works/articles — the 夏蓮 hits remain 趙夏蓮/Helen Allen, a different person. SKIP — bulletin-derived evidence remains the sole source.
 
 ## Related Pages
 - [[organizations/good-shepherd-taiwanese-presbyterian-church||Good Shepherd Taiwanese Presbyterian Church (好牧者臺灣基督長老教會)]]

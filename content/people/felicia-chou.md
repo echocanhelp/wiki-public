@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Felicia Chou (周馥亞)
 
@@ -49,6 +49,8 @@ _No filled family fields on the TAH profile._
 ## Sources
 - [TAH #168 encyclopedia: 168. Felicia Chou 周馥亞](https://taiwaneseamericanhistory.org/168-felicia-chou-%e5%91%a8%e9%a6%a5%e4%ba%9e/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/felicia-chou/)
+
+- Corpus re-scan 2026-09-26 (slice 09251023-18): fresh ZH+EN grep returns the identical 4-file hit set (#168 own, mislinked #1823 許蕙茹, unconfirmed #1438, index) — verified saturated; SKIP-deepen, HOLD on the #1823 hanzi conflict stands.
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
