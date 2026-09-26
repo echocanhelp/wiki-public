@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # C. T. Huang (黃昭騰)
 
@@ -37,7 +37,7 @@ last_reviewed: 2026-09-25
 
 ## Role in the Community
 - Carried in the TAH Who's Who corpus as [[works/taiwaneseamericanhistory-org/whoswho1512|1512. C. T. Huang 黃昭騰 / 2017/02]] (published 2017-02-19, bibliographic record). No other corpus trace found in works/articles; nothing further absorbable.
-- SKIP (deepen-x 09240400-21, re-verified 2026-09-25): ZH+EN corpus grep again returned only the own Who's Who record; nothing absorbable.
+- SKIP (deepen-x 09240400-21, re-verified 2026-09-25 與 2026-09-26 slice 09251054-28): ZH+EN corpus grep again returned only the own Who's Who record; nothing absorbable.
 
 
 ## Sources

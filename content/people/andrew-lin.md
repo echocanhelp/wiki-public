@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Andrew Lin (林昇彬牧師)
 
@@ -33,7 +33,7 @@ last_reviewed: 2026-09-25
 
 - 台灣人社區牧者：TAH Who's Who 1717（2017/07）收錄其事奉紀錄，見 [[works/taiwaneseamericanhistory-org/whoswho1717|1717. Andrew Lin 林昇彬]]。
 - 於佛州Orlando台福教會及基督教浸信會仁愛堂任牧師（見上方 Employment，出自 TAH 檔案）。
-- 語料庫重掃（deepen-x 09240400-23，2026-09-25，ZH+EN）：僅見自身書目條目 [[works/taiwaneseamericanhistory-org/whoswho1717|TAH #1717, 2017/07]] 及索引頁，無其他 memoir／集會記錄可吸收。
+- 語料庫重掃（deepen-x 09240400-23，2026-09-25；再掃 deepen-x 09251054-22，2026-09-26，ZH+EN）：僅見自身書目條目 [[works/taiwaneseamericanhistory-org/whoswho1717|TAH #1717, 2017/07]] 及索引頁，無其他 memoir／集會記錄可吸收 — SKIP 維持。
 
 ## Family
 
