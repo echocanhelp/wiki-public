@@ -30,6 +30,8 @@ last_reviewed: 2026-09-26
 
 ## From the record
 
+- 複核（TJJ-A09251300-2, 2026-09-26）：本 slice 文章 adc931e5b99bb0a9（van der Wees 評 2012 大選）正文再驗證——馬英九 2008 年黨產承諾未兌現及「恐懼票」論述確認見於正文，subject 連結為真，無錯鏈、無虛鏈；2012-01-29 條目（已含該文 wikilink）已在庫 — SKIP，已飽和。
+
 - 複核（TJJ-A09251000-13, 2026-09-26）：本 slice 文章 69b4f44f9c019bd5（陳順盛探訪報導英文转载）正文再驗證——「Ma Ying-jeou…refuses to consider medial parole」確認見於正文，subject 連結為真，無錯鏈、無虛鏈；對應日期事實條目（含該文 wikilink）已在庫 — SKIP，已飽和。
 - 複核（TJJ-A09251000-9, 2026-09-26）：slice 文章 432e1fca739d02b8（Ed Royce 標籤頁, 2024-06-13 快照）正文再驗證——subject 連結為真實提及，無錯鏈、無虛鏈；對應日期事實（含該文 wikilink）已在庫 — SKIP，已飽和。
 
