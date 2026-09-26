@@ -44,3 +44,4 @@ _No filled family fields on the TAH profile._
 
 <!-- deepen-x 09200900-15: re-verified 2026-09-21 — corpus grep (ZH+EN) hits only own TAH record(s) in content/works; no new memoir/community material to absorb. -->
 <!-- deepen-x 09231300-26: re-verified 2026-09-25 — fresh ZH+EN grep of content/works + content/articles returns the same hit set (mystories463, whoswho1616, works index), both already linked on-page; SKIP-with-reason, nothing new absorbable. -->
+<!-- deepen-x 09250600-18: re-verified 2026-09-25 — fresh ZH+EN grep of content/works + content/articles returns the same hit set already linked on-page; SKIP-with-reason, nothing new absorbable. -->
