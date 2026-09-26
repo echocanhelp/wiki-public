@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-26
 ---
 # Chun Chiu (邱俊邦)
 
@@ -46,6 +46,7 @@ _No filled family fields on the TAH profile._
 ## Worklog
 
 - 2026-09-23 deepen-x slice 09221300-20: re-verified — fresh grep returns only works already wikilinked (Our Journeys 19/24/53 incl. -eng variants, whoswho1072) plus the 國策顧問 roster already cited under From the record. Nothing new absorbable.
+- 2026-09-26 deepen-x slice 09251023-13: re-verified — fresh grep (邱俊邦/Chun Chiu) returns only works already wikilinked (Our Journeys 19/24/53 incl. -eng, whoswho1072). Nothing new absorbable.
 - 2026-09-24 deepen-x slice 09230800-28: re-verified — same hit set (Our Journeys 19/24/53 + -eng, whoswho1072); OJ 24's 台灣會館籌備委員會 roster is already the basis of the 2003 line above (page names the core invitees; roster also included 高淑貞、邱光一、吳振和). Nothing new absorbable.
 
 ## Sources
