@@ -53,6 +53,7 @@ last_reviewed: 2026-09-27
 - 2026-09-25 deepen-x slice 09240800-4: idempotent re-verify — fresh grep (賴江椿|David Lai) hit set unchanged (OJ 290/252 + -eng mirrors, TAH #633; OJ 305 'David Lai' remains a different person); chair-succession text re-read matches absorbed tenure 2007–2008. Verified-saturated.
 - 2026-09-26 deepen-x slice 09260500-28: idempotent re-verify — fresh grep (賴江椿|David Lai) hit set unchanged (OJ 290/252 + -eng mirrors, OJ 305 different-person David Lai, TAH #633). Verified-saturated; SKIP-deepen.
 - 2026-09-26 deepen-x slice 09251000-20: idempotent re-verify — fresh grep (賴江椿|David Lai) hit set unchanged (OJ 290/252 + -eng mirrors, TAH #633, index; OJ 305 'David Lai' remains a different person). Verified-saturated; SKIP-deepen.
+- 2026-09-27 deepen-x slice 09260500-28 (retry run): fresh grep (賴江椿|David Lai) re-run — hit set identical (OJ 290/252 + -eng mirrors, OJ 305 different-person, TAH #633). SKIP-deepen, saturated.
 
 
 ## Sources

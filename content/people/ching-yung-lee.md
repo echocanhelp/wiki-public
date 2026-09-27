@@ -39,6 +39,7 @@ last_reviewed: 2026-09-27
 - Note: the two 397 records appear to be duplicate catalogue entries of the same memoir (same number/title, different harvest slugs); flagged, not merged.
 - Corpus re-sweep 2026-09-25 (slice 09240700-27): fresh ZH+EN grep of content/works + content/articles returned the identical hit set (ourjourneys311、our-journeys-391、ourjourneys291、658、397×2), all already absorbed above. verified-saturated.
 - Corpus re-sweep 2026-09-26 (slice 09260500-28): fresh ZH+EN grep returned the identical hit set (ourjourneys311、our-journeys-391、ourjourneys291、658、397×2), all already absorbed above. verified-saturated.
+- Corpus re-sweep 2026-09-27 (slice 09260500-28 retry run): fresh grep re-run — identical hit set again. verified-saturated, SKIP.
 - Corpus re-sweep 2026-09-26 (slice 09251000-19): fresh ZH+EN grep returned the identical hit set (ourjourneys311、our-journeys-391、ourjourneys291、658、397×2), all already absorbed above. verified-saturated.
 - Corpus re-sweep 2026-09-24 (slice 09230700-26): 李慶榮 / Ching Yung Lee hits unchanged — ourjourneys311, our-journeys-391, ourjourneys291, 658, and both 397 records, all already linked above; no new memoir or association material. verified-saturated.
 
