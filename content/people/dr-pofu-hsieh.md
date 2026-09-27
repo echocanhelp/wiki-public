@@ -56,3 +56,4 @@ Corpus re-check 2026-09-22 (deepen-x slice 09220400-26): fresh grep for 謝博�
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 <!-- deepen-x slice 09240700-32 (2026-09-25): saturated re-verify — fresh ZH+EN grep of works/ + articles/ returns the hit-set already absorbed on this page; no new corpus facts, no conflicts. -->
 <!-- deepen-x slice 09251000-31 (2026-09-26): saturated re-verify — fresh grep 謝博夫 / Pofu Hsieh returns whos-who-1904 + works index + the 2021 WHO forum article, all already absorbed above. SKIP-deepen. -->
+<!-- deepen-x slice 09260600-22 re-verify 2026-09-27: fresh grep 謝博夫/Pofu — hit set identical (whos-who-1904, works index, 2021 WHO forum article), all absorbed. SKIP-deepen. -->

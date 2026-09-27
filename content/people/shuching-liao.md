@@ -55,3 +55,4 @@ last_reviewed: 2026-09-27
 > Corpus re-scan 2026-09-24 (deepen-x slice 09230800-12): fresh grep re-run — hit-set unchanged (own #478 + works/index only). SKIP-deepen; nothing new absorbable.
 > Corpus re-scan 2026-09-25 (deepen-x slice 09240800-8): fresh grep re-run — hit-set unchanged (own #478 + works/index only). SKIP-deepen; nothing new absorbable.
 > Corpus re-scan 2026-09-26 (deepen-x slice 09251000-31): fresh grep 廖郭淑卿 / Shuching Liao — hit-set unchanged (own #478 + works/index only); facts in Role in the Community already absorbed. SKIP-deepen.
+> Corpus re-scan 2026-09-27 (deepen-x slice 09260600-21): fresh grep re-run — hit-set unchanged (own #478 + works/index only). SKIP-deepen.

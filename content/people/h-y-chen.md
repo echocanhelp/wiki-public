@@ -51,3 +51,4 @@ _No filled family fields on the TAH profile._
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - Corpus re-grep 2026-09-26 (slice 09251400-4): identical hit set (whoswho1669/1888, ourjourneys58, index, the 2 TJJ HK-law HOLD articles). SKIP — saturated, no new facts, existing HOLDs unchanged.
+<!-- deepen-x slice 09260600-22 re-verify 2026-09-27: fresh grep 陳弘毅/H. Y. Chen — hit set identical (whoswho1669/1888, ourjourneys58, index, 2 TJJ HK-law HOLD articles). SKIP-deepen, HOLDs unchanged. -->

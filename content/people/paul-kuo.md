@@ -53,3 +53,4 @@ _No filled family fields on the TAH profile._
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - Re-verified 2026-09-26 (deepen-x slice 09250800-25): fresh ZH+EN re-grep — hit set identical (#27, #276, #497, art-show-13, Pew response, index). Verified-saturated, SKIP-with-reason.
+- Re-verified 2026-09-27 (deepen-x slice 09260600-21): fresh ZH+EN re-grep — hit set identical (#27, #276, #497, art-show-13, Pew response, index). Verified-saturated, SKIP-with-reason.
