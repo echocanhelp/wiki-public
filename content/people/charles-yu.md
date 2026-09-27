@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-27
 ---
 # Charles Yu (游朝凱)
 
@@ -94,3 +94,6 @@ Corpus grep (游朝凱 / Charles Yu) returns 6 work records — awards-93, whos-
 
 
 <!-- TJJ-A09260500-5: verified 2026-09-27 — slice articles (24ebe5f065076949 2016海外台語研習會公告 / 4a5080befc342f69＋2c5d3c7d4f5acccc 戴琪鄧振中TIFA同文兩存檔 / adc931e5b99bb0a9 van der Wees 評2012大選) subject links re-checked vs 正文; all real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+
+<!-- TJJ-A09260600-5: verified 2026-09-27 — wave-2 re-check of slice articles f4bc88a2 二二八77周年會館追思 / 5b6cede8 游朝凱寫作獎 / 64302d51 黃瑞芬訃聞 / d6441ab3 陳文成40週年: subject links re-checked vs 正文, all real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->

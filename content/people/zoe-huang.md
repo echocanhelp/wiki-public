@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-09-27
 ---
 # Zoe Huang (黃瑞芬)
 
@@ -88,3 +88,6 @@ _No filled family fields on the TAH profile._
 - 2022-01-29 — TJJ 轉載中央社訃聞：先生孫華翔證實其15日因心肌梗塞在家中過世；返台後任台北愛樂電台主持人與製作人、IC之音「ici Zoe－Zoe在這裡」主持人，在北藝大推廣部與師大法語中心開音樂美學課程，出版10多本音樂書籍；鋼琴家葉綠娜（茱莉亞同學）憶述上周才至其新家聊天（[[articles/taiwanjustice-net/2022/20220519130616_2022_01_29_台灣女聲樂家_資深古典音樂節目主持人黃瑞芬過_bfc5f319a036a339|TJJ 轉載中央社, 2022-01-29]]）。
 
 <!-- TJJ-A09260500-7: verified 2026-09-27 — slice 09260500-7 articles (d4a7f9e55282396a 立委號次抽籤 / 10e3a027ce22991c 晶片短缺 / 735744492226b90c 2016台美小姐開訓 / bfc5f319a036a339 黃瑞芬訃聞) subject links re-checked vs 正文; all real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+
+<!-- TJJ-A09260600-5: verified 2026-09-27 — wave-2 re-check of slice articles f4bc88a2 二二八77周年會館追思 / 5b6cede8 游朝凱寫作獎 / 64302d51 黃瑞芬訃聞 / d6441ab3 陳文成40週年: subject links re-checked vs 正文, all real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->

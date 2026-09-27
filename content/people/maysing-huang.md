@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-27
 ---
 # Maysing Huang (楊黃美幸)
 
@@ -75,3 +75,6 @@ last_reviewed: 2026-09-25
 - Named among 紐約同鄉會 donors thanked in the 台灣研究社/公論報 era fund-raising record ([[works/taiwaneseamericanhistory-org/ourjourneys256|256]]).
 
 - 複核（TJJ-A09260500-16, 2026-09-27）：本 slice 僅 753347eb（台文通訊30冬紀念獎頒獎典禮公告）涉本人——以陳文成紀念基金會來賓身分確認見於正文，subject 連結為真，無錯鏈、無虛鏈；含該文 wikilink 的 2021-10-30 條目已在庫 — SKIP，已飽和。
+
+
+<!-- TJJ-A09260600-5: verified 2026-09-27 — wave-2 re-check of slice articles f4bc88a2 二二八77周年會館追思 / 5b6cede8 游朝凱寫作獎 / 64302d51 黃瑞芬訃聞 / d6441ab3 陳文成40週年: subject links re-checked vs 正文, all real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->

@@ -8,7 +8,7 @@ tags:
   - novelist
   - literature
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-27
 ---
 # Shawna Yang Ryan (楊小娜)
 
@@ -108,3 +108,6 @@ Yang Ryan's profile in the 2017 TAHS publication was prepared by the Taiwanese A
 - 2017-03-04 / 03-05 — 大洛杉磯台灣會館會訊公告：3月4日下午一時應台美人筆會等社團之邀在會館演講《綠島》創作經驗，3月5日下午三點在橙縣Tustin台灣人長老教會演講「Legacy: Seventy Years after 2-28」；會訊並記其為夏威夷大學文學教授、以七年寫成《綠島》獲NYT與LA Times推介（[[articles/taiwanjustice-net/2024/20240530134421_root_23da543a315a1fa1|TJJ 轉載台灣會館會訊，2017-02-17]]）。
 
 - 複核（TJJ-A09230700-7, 2026-09-24）：slice 文章 23da543a315a1fa1（南加2/25聯合紀念228七十週年公告）正文再驗證——「台美人第二代作家楊小娜(Green Island的作者)…3月4日會館演講、3月5日Tustin台灣人長老教會演講」確認見於正文，連結為真；2017-03-04/05 條目已在庫 — SKIP，無新材料。
+
+
+<!-- TJJ-A09260600-5: verified 2026-09-27 — wave-2 re-check of slice articles f4bc88a2 二二八77周年會館追思 / 5b6cede8 游朝凱寫作獎 / 64302d51 黃瑞芬訃聞 / d6441ab3 陳文成40週年: subject links re-checked vs 正文, all real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
