@@ -66,4 +66,4 @@ last_reviewed: 2026-09-27
 - SKIP note（deepen-x slice-09230317-10, re-grep 2026-09-24）：re-grep hit set identical（mystories398、12-36、12-37、807、works/index、TJJ 台大數學系回憶）— verified-saturated。
 - (deepen-x slice 09240317-8, re-grep 2026-09-25): hit set identical (mystories398, 12-36, 12-37, 807, works/index, TJJ NTU-math memoir) -- verified-saturated, SKIP.
 - SKIP note (deepen-x slice 09250700-8, re-grep 2026-09-25): hit set identical (mystories398, 12-36, 12-37, 807, works/index, TJJ 台大數學系回憶) — verified-saturated, nothing new absorbable.
-- SKIP note (deepen-x slice 09260317-27, re-grep 2026-09-26): hit set identical (mystories398, 12-36, 12-37, 807, works/index, TJJ 台大數學系回憶) — verified-saturated, nothing new absorbable.
+- SKIP note (deepen-x slice 09260700-16, re-grep 2026-09-27): fresh grep 許振榮／Chen-Jung Hsu (works+articles) hit set identical (mystories398, 12-36, 12-37, 807, works/index, TJJ 台大數學系回憶) — verified-saturated, nothing new absorbable.
