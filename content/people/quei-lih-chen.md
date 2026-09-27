@@ -66,3 +66,5 @@ _No filled family fields on the TAH profile._
 ## Deepen — 2026-09-14 (vault-only re-check)
 - All wikilink targets re-verified against live vault slugs (Our Journeys #29, #419, #54, JHU Taiwanese Student Association, ITASA @ USC record, 半音合唱團 archive note, 楊子清, Chen Wen-chen Memorial Foundation) — no broken links.
 - The Career Record section already absorbs every fact present in the cited encyclopedia records (#419, #54) and the vault accompanist/debut records. Conductor 鄭超明 (Chao-Ming Cheng), Samuel Sanders, and Daniel Pollack have no vault pages, so no new wikilinks were possible without creating new pages; no biography invented.
+
+<!-- TJJ-A09260500-17: verified 2026-09-27 — slice 09260500-17 articles (2b4b26ff English Pages目錄 / de11e295 半音合唱團國家音樂廳錄影 / 526ee7d6 以立拯救我 / 928db8aa 以立森林王子) subject links re-checked vs 正文; all real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->

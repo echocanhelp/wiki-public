@@ -124,3 +124,5 @@ Accomplishment
 ## Revision History
 - 2026-09-21 (DEEPEN-HSU-PARENTS): person page confirmed (created 2026-09-20 from owner-supplied names); Desert Springs 2026-09 photo custody record added to From the record; wife [[people/tsai-ying-ju|蔡瀛如]] and Family cross-links verified on leonard-hsu-jr.md and hung-jen-liu.md caption.
 
+
+<!-- TJJ-A09260500-17: verified 2026-09-27 — slice 09260500-17 articles (2b4b26ff English Pages目錄 / de11e295 半音合唱團國家音樂廳錄影 / 526ee7d6 以立拯救我 / 928db8aa 以立森林王子) subject links re-checked vs 正文; all real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
