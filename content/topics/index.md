@@ -20,4 +20,4 @@ Topical hub pages. People/orgs carry the record; topics carry the **stack** — 
 - [[topics/taiwan-relations-act|Taiwan Relations Act (1979)]] — the US statutory rebuttal of "purely internal affair"
 - [[topics/228-incident|The 228 Incident (1947)]] — the founding memory of why self-rule cannot be ceded
 
-Primary-document archives backing the collection: [[sources/scio-taiwan-white-paper-2022|PRC 2022 white paper]] · [[sources/prc-white-paper-doctrinal-diff-1993-2000-2022|white-paper deletion analysis]].
+Primary-document archives backing the collection: [[sources/scio-taiwan-white-paper-2022|PRC 2022 white paper]] · [[sources/prc-white-paper-doctrinal-diff-1993-2000-2022|white-paper deletion analysis]] · general-reference comparator: [[sources/en-wikipedia-taiwan|en.wikipedia "Taiwan" ("is a country")]].

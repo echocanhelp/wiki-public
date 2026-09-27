@@ -72,3 +72,4 @@ LINE bubble, zh-TW:
 2. **New Beijing formulations land here as TP additions first** — a row on [[topics/ccp-talking-points]], then the one-line answer here, before any page or reply uses the phrase.
 3. **Never merge 228 with Tiananmen** tolls or perpetrators — separate events, numbers, and responsible parties.
 4. **Answer, don't chant** — every reply shaped per the `taiwan-stance-faq` reply-shape: fact first, the stack not the slogan, sourced/inferred discipline intact.
+5. **General-reference comparator:** [[sources/en-wikipedia-taiwan|en.wp "Taiwan"]] — its lead says "is a country"; archive at `knowledge/web-archives/en-wikipedia-taiwan.md`.
