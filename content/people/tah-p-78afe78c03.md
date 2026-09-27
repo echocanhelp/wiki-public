@@ -48,7 +48,7 @@ _No filled family fields on the TAH profile._
 - 本頁 corpus 檢索（DEEPEN-X slice 09240700-27, 2026-09-25 再核）：命中集不變（own works TAH #257／#526、works index、【台灣演義】學運神鵰俠侶存檔快照三處），全部已收錄。verified-saturated。
 - 本頁 corpus 檢索（DEEPEN-X slice 09251000-20, 2026-09-26 再核）：命中集不變（own works TAH #257／#526、works index、【台灣演義】學運神鵰俠侶存檔快照三處），全部已收錄。Verified-saturated；SKIP-deepen。
 - 本頁 corpus 檢索（DEEPEN-X slice 09260500-27, 2026-09-26 再核）：命中集不變（own works TAH #257／#526、works index、【台灣演義】學運神鵰俠侶存檔快照三處），全部已收錄。Verified-saturated；SKIP-deepen。
-- 本頁 corpus 檢索（DEEPEN-X slice 09260500-27, 2026-09-27 再核）：命中集不變（own works、works index、【台灣演義】存檔快照三處），全部已收錄。Verified-saturated；SKIP-deepen。
+- 本頁 corpus 檢索（DEEPEN-X slice 09260500-27, 2026-09-27 再核）：命中集不變（own works TAH #257／#526、works index、【台灣演義】學運神鵰俠侶存檔快照三處），全部已收錄。Verified-saturated；SKIP-deepen。
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/%e9%99%b3%e7%8e%b2%e7%8e%89/)
 
