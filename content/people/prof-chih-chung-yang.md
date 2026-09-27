@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-26
+last_reviewed: 2026-09-27
 ---
 # Prof. Chih-Chung Yang (楊志忠教授)
 
@@ -60,3 +60,4 @@ _No filled family fields on the TAH profile._
 - Re-check (deepen-x slice 09260317-31, 2026-09-26): fresh re-grep（楊志忠 / Chih-Chung Yang, works+articles）again returns only TAH #2064 + harvest index — SKIP confirmed, nothing absorbable.
 - Re-check (deepen-x 2026-09-25 slice-10): fresh re-grep（楊志忠 / Chih-Chung Yang, works+articles）again returns only TAH #2064 + harvest index — SKIP confirmed, nothing absorbable.
 - Re-check (deepen-x 2026-09-25 slice 09250700-10): fresh re-grep（楊志忠 / Chih-Chung Yang, works+articles）again returns only TAH #2064 + harvest index — SKIP confirmed, nothing absorbable.
+<!-- deepen-x slice 09260700-20 re-verify 2026-09-27: fresh ZH+EN grep of works/+articles/ — hit set identical to material already absorbed; verified-saturated, no new absorbable facts -->

@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-26
+last_reviewed: 2026-09-27
 ---
 # Clear Lake Taiwanese Association (明湖台灣同鄉會)
 
@@ -40,3 +40,4 @@ The Clear Lake Taiwanese Association (明湖台灣同鄉會) is a local chapter 
 - 2026-09-26 corpus re-grep (slice 09250900-14): hit set unchanged (616, TAH #12 簡介, ourjourneys155, 966, 1243, clear-lake-tx-chapter-taa). Nothing new absorbable — SKIP (verified-saturated). HOLD 明湖 vs 明湖城 still open.
 
 - 2026-09-26 corpus re-grep (slice 09260400-2): hit set unchanged (616, TAH #12 簡介, ourjourneys155, 966, 1243, clear-lake-tx-chapter-taa). Nothing new absorbable — SKIP (verified-saturated). HOLD 明湖 vs 明湖城 still open.
+<!-- deepen-x slice 09260700-20 re-verify 2026-09-27: fresh ZH+EN grep of works/+articles/ — hit set identical to material already absorbed; verified-saturated, no new absorbable facts -->

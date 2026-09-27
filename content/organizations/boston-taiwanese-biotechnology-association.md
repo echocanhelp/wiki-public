@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-26
+last_reviewed: 2026-09-27
 ---
 # Boston Taiwanese Biotechnology Association (波士頓台灣人生物科技協會)
 
@@ -43,3 +43,4 @@ Corpus re-grep 2026-09-26 (slice 09260400-4): hit set identical — own director
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+<!-- deepen-x slice 09260700-20 re-verify 2026-09-27: fresh ZH+EN grep of works/+articles/ — hit set identical to material already absorbed; verified-saturated, no new absorbable facts -->
