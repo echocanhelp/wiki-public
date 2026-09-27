@@ -55,3 +55,4 @@ last_reviewed: 2026-09-27
 - 2026-09-24 deepen-x slice 09230800-12: idempotent re-verify — identical hit-set; 1976 台灣人權及文化協會 co-founding (OJ #75), 1982-01-21 TACL founding meeting (OJ #272), 1985-04-15 簡介 signatory (OJ #186) all already absorbed. Verified-saturated.
 - 2026-09-25 deepen-x slice 09240800-3: fresh grep works/+articles/ — identical hit-set (OJ #75, #186, #272, TAH #718, index), all already wikilinked. SKIP-deepen; verified-saturated.
 - 2026-09-26 deepen-x slice 09251000-24: fresh grep works/+articles/ — identical hit-set (OJ #75, #186, #272, TAH #718, index), all already wikilinked. SKIP-deepen; verified-saturated.
+- 2026-09-27 deepen-x slice 09260600-10: fresh grep works/+articles/ — identical hit-set (OJ #75, #186, #272, TAH #718, index), all already wikilinked. SKIP-deepen; verified-saturated.
