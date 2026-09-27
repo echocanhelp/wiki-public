@@ -38,6 +38,7 @@ last_reviewed: 2026-09-26
 - Epoch Times interview shows him quoting a "Consul General of China" meeting (2011): the company's own news page phrasing — recorded as written, no label added.
 
 ## Related Pages
+- **RHCA presidency (elected ~2011):** became President of [[organizations/rowland-heights-chinese-association|Rowland Heights Chinese Association]] shortly before the May 2012 gala; his first documented act was fixing the Alvarado/Desire Ave. dropoff parking problem for Rowland Unified parents with school-board VP Cary Chen and the LA County Sheriff (community testimony, STC blog 2012-05-14). Stated goal: the association as "a role model … uniting people … best quality of education, business environment, and every resident's daily life."
 - [[organizations/stc-management|STC Management]] · [[organizations/yes-plaza|Yes Plaza]] · [[organizations/stc-rowland-legacy|STC Rowland Legacy]]
 - [[people/susan-hsu|Susan Hsu]]
 - [[sources/stcmanagement-com|STC site source hub]]

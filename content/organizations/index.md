@@ -20,6 +20,7 @@ On a phone, **use header search** (漢名 or English). This page is an A–Z lis
 ### A {#a}
 
 [[organizations/acevedo-music-and-art-education-foundation-inc|Acevedo Music & Art Education Foundation Inc]]
+[[organizations/ai-education-foundation|AI Education Foundation (AI教育基金會)]]
 [[organizations/aj-wang-foundation-scholarship-fund|AJ WANG FOUNDATION – SCHOLARSHIP FUND]]
 [[organizations/alumni-association-of-chia-yi-high-school-worldwide|Alumni Association of Chia Yi High School Worldwide (AACHW)]]
 [[organizations/american-citizens-for-taiwan|American Citizens for Taiwan (西雅圖美台會)]]
@@ -32,6 +33,7 @@ On a phone, **use header search** (漢名 or English). This page is an A–Z lis
 [[organizations/association-of-taiwanese-students-at-mit|Association of Taiwanese Students at MIT]]
 [[organizations/asu-taiwanese-international-student-association|ASU Taiwanese International Student Association]]
 [[organizations/austin-taiwanese-association|Austin Taiwanese Association (奧斯丁)]]
+
 
 ### B {#b}
 
@@ -236,12 +238,14 @@ On a phone, **use header search** (漢名 or English). This page is an A–Z lis
 ### R {#r}
 
 [[organizations/north-america-taiwanese-medical-association-foundation|Redirect → North American Taiwanese Medical Association Foundation]]
-[[organizations/taiwanese-american-student-association-at-ohio-state-university|Redirect → Taiwanese American Student Association Ohio State University]]
-[[organizations/taiwaneseamericanhistory-org|Redirect → Taiwaneseamerican Org]]
-[[organizations/taiwan-center-foundation-of-greater-los-angeles|Redirect → 大洛杉磯台灣會館]]
 [[organizations/rice-taiwanese-association|Rice Taiwanese Association]]
 [[organizations/rice-taiwanese-graduate-student-association|Rice Taiwanese Graduate Student Association]]
+[[organizations/rowland-heights-chinese-association|Rowland Heights Chinese Association (羅蘭崗華人協會)]]
 [[organizations/rutgers-taiwan-study-association|Rutgers Taiwan Study Association (羅格斯大學台灣研究社)]]
+[[organizations/taiwan-center-foundation-of-greater-los-angeles|Redirect → 大洛杉磯台灣會館]]
+[[organizations/taiwanese-american-student-association-at-ohio-state-university|Redirect → Taiwanese American Student Association Ohio State University]]
+[[organizations/taiwaneseamericanhistory-org|Redirect → Taiwaneseamerican Org]]
+
 
 ### S {#s}
 
