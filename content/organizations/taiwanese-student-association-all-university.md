@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-26
+last_reviewed: 2026-09-27
 ---
 # Taiwanese Student Association – All-University
 
@@ -40,3 +40,4 @@ HOLD: the TAH directory entry "Taiwanese Student Association – All-University"
 
 - 複核（deepen-x slice 09250700-5, 2026-09-25）: fresh ZH+EN re-grep（works+articles）hit set identical to prior deepen records — all hits already absorbed/wikilinked; SKIP: verified-saturated, no new corpus material.
 複核（deepen-x slice 09260317-15, 2026-09-26）: fresh ZH+EN re-grep works/+articles/ hit set identical to absorbed records — SKIP (verified-saturated).
+- 複核（deepen-x slice 09260700-10, 2026-09-27）: fresh ZH+EN re-grep works/+articles/ hit set identical to absorbed records — SKIP (verified-saturated), no new corpus material.

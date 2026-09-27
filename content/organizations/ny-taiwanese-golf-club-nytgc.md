@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-26
+last_reviewed: 2026-09-27
 ---
 # NY Taiwanese Golf Club NYTGC (紐約台灣人高爾夫球俱樂部)
 
@@ -33,6 +33,7 @@ NY Taiwanese Golf Club is a non-profit organization serving the Taiwanese Americ
 - Corpus re-grep 2026-09-25 (slice 09250700-12, NYTGC / 紐約台灣人高爾夫): hit set = the absorbed records (nytgc 自述頁, 51053 王政卿感想, works/index) plus the taiwanjustice-net 2025-06-16 archive-digest article matching only "NYTGC" in frontmatter (false positive). publications1211 年刊 remains absorbed. No new material. SKIP-with-reason (saturated), no conflicts to hold.
 - Corpus re-grep 2026-09-26 (slice 09260317-19, NYTGC / 紐約台灣人高爾夫 / NY Taiwanese Golf): hit set = the absorbed records (nytgc 自述頁, 51053 王政卿感想, publications1211 年刊, works/index) plus the taiwanjustice-net archive-digest false positive. No new material. SKIP-with-reason (saturated).
 
+- Corpus re-grep 2026-09-27 (slice 09260700-2, NYTGC / 紐約台灣人高爾夫): hit set = the absorbed records (nytgc 自述頁, 51053 王政卿感想, works/index) plus the taiwanjustice-net 2025-06-16 archive-digest false positive on "NYTGC"; publications1211 年刊 remains absorbed. No new material. SKIP-with-reason (saturated), no conflicts to hold.
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/ny-taiwanese-golf-club-nytgc/)
 

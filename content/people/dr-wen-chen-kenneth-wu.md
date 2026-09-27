@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-26
+last_reviewed: 2026-09-27
 ---
 # Dr. Wen-Chen Kenneth Wu (吳文振博士)
 
@@ -48,6 +48,7 @@ _No filled family fields on the TAH profile._
 - 2026-09-25 語料複核（slice 09250800-12）：grep（吳文振／Wen-Chen Kenneth Wu／Kenneth Wu，works+articles）命中仍僅本身出處頁 [[works/taiwaneseamericanhistory-org/whos-who-1697-wen-chen-wu|TAH #1697]] 與 works index。SKIP-with-reason：無可吸收新事實，無衝突須 HOLD。
 - 2026-09-26 語料複核（slice 09260317-18）：grep（吳文振／Wen-Chen Kenneth Wu／Kenneth Wu，works+articles）命中仍僅本身出處頁 [[works/taiwaneseamericanhistory-org/whos-who-1697-wen-chen-wu|TAH #1697]] 與 works index。SKIP-with-reason：無可吸收新事實，無衝突須 HOLD。
 
+- 2026-09-27 語料複核（slice 09260700-2）：grep（吳文振／Wen-Chen Kenneth Wu／Kenneth Wu，works+articles）命中仍僅本身出處頁 [[works/taiwaneseamericanhistory-org/whos-who-1697-wen-chen-wu|TAH #1697]] 與 works index。SKIP-with-reason：無可吸收新事實，無衝突須 HOLD。
 ## Sources
 - [TAH #1697 encyclopedia: 1697. Dr. Wen-Chen (Kenneth) Wu 吳文振博士](https://taiwaneseamericanhistory.org/whos-who-1697-wen-chen-wu/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-wen-chen-kenneth-wu/)

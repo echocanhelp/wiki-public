@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-26
+last_reviewed: 2026-09-27
 ---
 # Stephen Lin (林俊提)
 
@@ -56,3 +56,4 @@ _No filled family fields on the TAH profile._
 - Re-check (slice deepen-x-09240317-7, 2026-09-25): fresh grep 林俊提/Stephen Lin — same hit set (Our Journeys 2/8/8-eng/19/352, Who's Who #1821), all absorbed — verified-saturated, SKIP.
 - Re-check (slice deepen-x-09250700-6, 2026-09-25): fresh grep 林俊提/Stephen Lin — same hit set (Our Journeys 2/8/8-eng/19/352, Who's Who #1821), all absorbed — verified-saturated, SKIP.
 - Re-check (slice deepen-x-slice-09260317-19, 2026-09-26): fresh grep 林俊提/Stephen Lin — same hit set (Our Journeys 2/8/8-eng/19/352, Who's Who #1821), all absorbed — verified-saturated, SKIP.
+- 複核（deepen-x slice 09260700-10, 2026-09-27）: fresh ZH+EN re-grep works/+articles/ hit set identical to absorbed records — SKIP (verified-saturated), no new corpus material.

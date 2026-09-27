@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-26
+last_reviewed: 2026-09-27
 ---
 # Taiwanese Cultural Society at Stanford University
 
@@ -24,6 +24,8 @@ The Taiwanese Cultural Society at Stanford University (TCS) is an undergraduate 
 - **Pre-TCS cultural soil at Stanford:** before the club was renamed TCS, Bay Area movement cultural programming repeatedly used Stanford as a venue — the "Taiwanese Cultural Music Troupe" performed at Stanford in 1989 and violinist Hu Nai-yuan in 1992, per the TAFNC thirty-year review [[works/taiwaneseamericanhistory-org/ourjourneys38-eng|38. TAFNC Thirty Year Review]] — context for why a cultural club could take root on campus by the early 1990s.
 - **Graduate/professional track:** the graduate-student and staff community at Stanford is documented separately at [[organizations/stanford-taiwanese-student-association|Stanford Taiwanese Student Association]].
 
+
+Corpus re-grep 2026-09-27 (slice 09260700-2): fresh grep 'Taiwanese Cultural Society' + 'Stanford' (works+articles) — TCS hits unchanged (Westchester/Chicago/Harvard bodies, already-linked on-discovering-passion-purpose); Stanford hits are unrelated (our-journeys-387, ourjourneys37/38-eng, book-citation mentions of Stanford University Press in taiwaneseamerican-org essays). No Stanford TCS-specific material. Verified-saturated — SKIP.
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-cultural-society-at-stanford-university/)
 
