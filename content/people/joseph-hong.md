@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-26
+last_reviewed: 2026-09-27
 ---
 # Joseph Hong (洪茂澤)
 
@@ -63,3 +63,5 @@ _No filled family fields on the TAH profile._
 <!-- deepen-x slice 09240600-19 re-verify 2026-09-25: fresh ZH+EN grep of works/+articles/ — hit set identical to material already absorbed; verified-saturated, no new absorbable facts -->
 <!-- deepen-x slice 09260317-24 re-verify 2026-09-26: fresh ZH+EN grep — hit set identical (OJ 142, OJ 209, disputes5, law4, TAH #265 profile); verified-saturated, HOLDs unchanged -->
 <!-- deepen-x slice 09250900-18 re-verify 2026-09-26: fresh ZH+EN grep — hit set identical (OJ 142, OJ 209, disputes5, law4, TAH #265 profile); verified-saturated, HOLDs unchanged -->
+
+<!-- deepen-x slice 09260700-14 re-verify 2026-09-27: fresh ZH+EN grep — hit set identical (OJ 142, OJ 209, disputes5, law4, TAH #265 profile, 耆老講座標籤頁); verified-saturated, HOLDs unchanged -->

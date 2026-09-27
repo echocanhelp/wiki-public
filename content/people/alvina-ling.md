@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-26
+last_reviewed: 2026-09-27
 ---
 # Alvina Ling (林佑珊)
 
@@ -59,3 +59,5 @@ Accomplishment
 - Corpus re-grep 2026-09-25 (slice 09240600-18): fresh ZH+EN grep of works/+articles/ — hit set identical (whos-who-1680, when-love-is-more-than-words, 2022/2023/2024/2025/2026 prize records, this-is-why-you-must-read, alvina-ling-editor), all absorbed above. SKIP: verified-saturated.
 - 2026-09-26 corpus re-grep (slice 09250900-13): fresh grep Alvina Ling／林佑珊 — hit set identical (whos-who-1680, when-love-is-more-than-words, 2023/2024 prize records, this-is-why-you-must-read); all absorbed. Verified-saturated — SKIP.
 - 2026-09-26 corpus re-grep (slice 09260317-30): fresh grep Alvina Ling／林佑珊 — hit set identical (whos-who-1680, when-love-is-more-than-words, 2022/2023/2024/2025/2026 prize records, this-is-why-you-must-read, alvina-ling-editor); all absorbed. Verified-saturated — SKIP.
+
+- 2026-09-27 corpus re-grep (slice 09260700-14): fresh grep 林佑珊／Alvina Ling — hit set identical (whos-who-1680, when-love-is-more-than-words, 2022–2026 prize records, this-is-why-you-must-read, alvina-ling-editor); all absorbed. Verified-saturated — SKIP.

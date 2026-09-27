@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-26
+last_reviewed: 2026-09-27
 ---
 # Dr. John Tsuang (莊文宗醫師)
 
@@ -58,3 +58,5 @@ Clinical Professor; Director of the Dual Diagnosis Treatment Program
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - Corpus re-grep 2026-09-26 (slice 09260317-28): SKIP — verified-saturated; fresh grep (莊文宗／John Tsuang／TSUANG, works+articles) returns only his own TAH #1924 entry plus the works index; hit set unchanged, nothing absorbable.
+
+- Corpus re-grep 2026-09-27 (slice 09260700-14): SKIP — fresh grep (莊文宗／John Tsuang, works+articles) returns only his own TAH #1924 entry plus the works index; hit set unchanged, nothing absorbable.
