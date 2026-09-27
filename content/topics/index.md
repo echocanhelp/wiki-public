@@ -13,6 +13,7 @@ Topical hub pages. People/orgs carry the record; topics carry the **stack** — 
 
 ## Taiwan & Sovereignty (counter-ccp collection)
 
+- [[topics/east-san-gabriel-valley|East San Gabriel Valley — the Little Taipei chapter]]
 - [[topics/taiwan-status|Political Status of Taiwan]] — entry point; the five-layer stack
 - [[topics/counter-ccp-narrative|Counter-CCP Narrative (SSOT)]] — THE authoritative counter; every answer draws from here
 - [[topics/ccp-talking-points|CCP Talking Points Inventory]] — Beijing's claims as Beijing states them, with defect pointers (TP-1…TP-18)

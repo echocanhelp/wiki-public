@@ -23,6 +23,7 @@ On a phone, **use header search** (漢名 or English). This page is an A–Z lis
 [[organizations/ai-education-foundation|AI Education Foundation (AI教育基金會)]]
 [[organizations/aj-wang-foundation-scholarship-fund|AJ WANG FOUNDATION – SCHOLARSHIP FUND]]
 [[organizations/alumni-association-of-chia-yi-high-school-worldwide|Alumni Association of Chia Yi High School Worldwide (AACHW)]]
+[[organizations/american-chinese-dance-association|American Chinese Dance Association (美國華裔舞蹈協會, ACDA)]]
 [[organizations/american-citizens-for-taiwan|American Citizens for Taiwan (西雅圖美台會)]]
 [[organizations/american-citizens-of-taiwan-origin-acto|American Citizens of Taiwan Origin ACTO (美台公民協會)]]
 [[organizations/ann-arbor-taiwanese-association|Ann Arbor Taiwanese Association (安雅堡)]]
@@ -92,18 +93,20 @@ On a phone, **use header search** (漢名 or English). This page is an A–Z lis
 ### F {#f}
 
 [[organizations/family-keepers-international-2015-05|Family Keepers International /2015/05 (國際真愛家庭協會)]]
+[[organizations/fapa-los-angeles|Formosan Association for Public Affairs Los Angeles(FAPA-LA)]]
+[[organizations/fapa-orange-county|Formosan Association for Public Affairs Orange County (FAPA- OC)]]
 [[organizations/formosa-foundation|Formosa Foundation]]
 [[organizations/formosa-senior-association|Formosa Senior Association]]
 [[organizations/formosan-association-for-g-m-t-culture|FORMOSAN ASSOCIATION FOR G.M.T. CULTURE (台灣人牛罵頭文史拹會)]]
 [[organizations/formosan-association-for-human-rights|Formosan Association for Human Rights]]
-[[organizations/fapa-los-angeles|Formosan Association for Public Affairs Los Angeles(FAPA-LA)]]
-[[organizations/fapa-orange-county|Formosan Association for Public Affairs Orange County (FAPA- OC)]]
 [[organizations/formosan-presbyterian-church-in-los-angeles|Formosan Presbyterian Church in Los Angeles (FPCLA)]]
 [[organizations/formosan-society-for-performing-arts-inc-fospa|Formosan Society for Performing Arts Inc. FOSPA (福爾摩沙表演藝術協會)]]
 [[organizations/formosar-chriotion-for-self-determination|Formosar Chriotion for Self Determination (臺灣人民自決運動)]]
+[[organizations/forus-foundation|FORUS Foundation (Friends of Rowland Unified Schools)]]
 [[organizations/fri-philo|Fri. Philo (哲學星期五)]]
 [[organizations/friends-of-taiwan|Friends of Taiwan]]
 [[organizations/friends-of-taiwan-greater-st-louis|Friends of Taiwan-Greater St. Louis (聖路易台灣之友會)]]
+
 
 ### G {#g}
 
