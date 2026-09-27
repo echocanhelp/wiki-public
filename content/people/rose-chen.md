@@ -54,6 +54,8 @@ Corpus-absorbed (deepen-x slice 28, 2026-09-14) from 鍾澄文's column [[articl
 
 ## From the record
 
+<!-- TJJ-A09260500-20: verified 2026-09-27 — slice article a40b37bc03b2b9cb（以立「希望之光」世界首演）subject link re-checked vs 正文: real (鋼琴：陳慧如 Rose Chen), no wrong/spurious links; 2022-12-02 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
 - 複核（TJJ-A09250400-18, 2026-09-25）：slice 文章 [[articles/taiwanjustice-net/2025/20250524200224_以立合唱團世界首演_希望之光_影音_025f6ed990dc9e2c|025f…]]（以立「希望之光」2025-05 存檔）正文再驗證——「鋼琴：陳慧如 Rose Chen」確認見於正文，subject 連結為真，無錯鏈、無虛鏈；2022-12-02 條目已在庫 — SKIP，已飽和。
 - 複核（TJJ-A09250400-17, 2026-09-26）：本 slice 文章 e7e2a1e1a71524ce（以立「希望之光」世界首演）正文再驗證——鋼琴陳慧如確認見於正文，subject 連結為真（無錯鏈、無虛鏈）；2022-12-02 條目（已含該文 wikilink）已在庫 — SKIP，已飽和。
 
