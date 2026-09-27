@@ -65,3 +65,5 @@ last_reviewed: 2026-09-27
 - Corpus re-check 2026-09-26 (slice 09251527-2): fresh ZH+EN grep 林宣緒 / Adrian Lin → identical hit set already absorbed (own TAH #918, ourjourneys123 ZH/EN 會長名單與夏令會詞料, TJJ 2021-02-28 / 2026-02-08 病西施婚事的兩份同文); index hits are bibliography only. Verified-saturated.
 
 <!-- TJJ-A09260500-9: verified 2026-09-27 — slice 09260500-9 4 篇（b7327dcf TAA Archives Newsletter / 95fd8186 洛杉磯會館228追思77年 / 26f76359 糖尿病與你 / a1b56965 彭明敏研討會）正文再驗證——subject 連結為真實提及，無錯鏈、無虛鏈；含該文 wikilink 的日期事實條目已在庫 — saturated, no new material. -->
+
+<!-- DEEPEN-X09260600-2: verified 2026-09-27 — fresh ZH+EN grep hit set identical to prior passes (TAH #918, ourjourneys123 ZH/EN, TJJ newsletter 兩份同文, all already wikilinked) — verified-saturated, SKIP-no-new-facts. -->

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-26
+last_reviewed: 2026-09-27
 ---
 # Edward J. S. Lin (林敬賢)
 
@@ -23,7 +23,7 @@ Edward J. S. Lin (林敬賢) is listed in the TAH Foundation Who’s Who Taiwane
 
 ## Role in the Community
 - 1979 年美丽岛事件后，芝加哥台灣同鄉會理事會指派林敬賢在芝加哥成立《台灣之音》，委請莊智惠、李秀雄编辑广播台湾最新消息，突破国民党媒体封锁。见 [[works/taiwaneseamericanhistory-org/our-journeys-378|Our Journeys #378（芝加哥台灣同鄉會史）]]。
-- 2012／2013 年任美洲台灣客家聯合會會長，因同时担任世界台灣客家聯合會會長，该年恳亲会以「全球台灣客家懇親會」之名于芝加哥举办（会长/主持：林敬賢／張瑞玲）。见 [[works/taiwaneseamericanhistory-org/ourjourneys252|Our Journeys #252]]。
+- 2012／2013 年任美洲台灣客家聯合會會長，因同时担任世界台灣客家聯合會會長，该年恳亲会以「全球台灣客家懇親會」之名于芝加哥举办（会长/主持：林敬賢／張瑞玲；第9届恳亲会主题「珍惜 tung 花、擁抱全世界」）。见 [[works/taiwaneseamericanhistory-org/ourjourneys252|Our Journeys #252]]；英文版同錄（[[works/taiwaneseamericanhistory-org/ourjourneys252-eng|Our Journeys #252 (eng)]]：「2012/2013, THAA President Edward J. S. Lin was also the President of the Taiwanese Hakka Associations of the World… called the conference the 'Global Taiwanese Hakka Conference'」）。
 - 2014 年任台湾人权促进会（FAHR）理监事名录中的董事。见 [[works/taiwaneseamericanhistory-org/ourjourneys75-eng|Our Journeys #75 (eng)]]。
 - 2026-09-22 re-check (slice 09220600-7): fresh corpus grep returns only the work pages already wikilinked above (Our Journeys #378／#252／#75、收藏档 #98、口述影像 #100、Who's Who #1513) plus the works index; loose-pattern hits in Our Journeys #85／#76 (eng) are false positives ("Edward Chen … Echo Lin", different persons) — no additional memoir material; nothing new absorbed.
 - 2014 年亦見於全美台灣人權協會（FAHR）理事名錄（理事：…林敬賢），摘錄自張丁蘭的故事。见 [[works/taiwaneseamericanhistory-org/ourjourneys75|Our Journeys #75（中文）]]。
@@ -46,3 +46,5 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+- 複核（DEEPEN-X09260600-2, 2026-09-27）：fresh grep 全庫唯一未掛鏈命中 ourjourneys252-eng（#252 英文版）——已吸收：英文敘述確認 2012/2013 全球客家懇親會命名由來與第9届主題「珍惜 tung 花、擁抱全世界」；其餘命中皆已掛鏈。
