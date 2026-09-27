@@ -84,4 +84,4 @@ Not on the 2025 paper org chart. Owner-confirmed for public leadership listing (
 - [[people/david-lee||David Lee (李東璞)]]
 - [[people/ashton-hsu||Ashton Hsu (許思敦)]]
 - [[sources/taiwanjustice-net||taiwanjustice.net archive]]
-- [[people||People Index]]
+- People Index

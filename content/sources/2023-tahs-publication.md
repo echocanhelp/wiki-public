@@ -105,6 +105,6 @@ This publication's 19 profiles will be migrated into **Echopedia** as living per
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||Taiwanese American Historical Society (TAHS)]]
 - [[sources/2017-tahs-publication||2017 TAHS Publication]]
-- [[echopedia||Echopedia — Community Knowledge Hub]]
+- Echopedia — Community Knowledge Hub
 - [[people/zheng-bing-quan||鄭炳全 (Zheng Bingquan)]] — also in 2017 publication
 - [[people/wang-yao-ting-xie-xiulan||王耀廷、謝秀緞 (Wang Yao-ting & Xie Xiulan)]] — also in 2017 publication

@@ -45,10 +45,10 @@ Ching-Tse Lee, Ph.D., Professor Emeritus of Psychology at the City University of
 
 ## Community Leadership (from TAH profile)
 - Brooklyn College (CUNY) 心理系 — 系主任 9 年；任教近 40 年，榮休教授
-- [[organizations/golden-eagle-institute\|\|Golden Eagle Institute]] — 現任總裁；銀髮服務創辦人兼總裁（1991-2007, 2013）
+- [[organizations/golden-eagle-institute||Golden Eagle Institute]] — 現任總裁；銀髮服務創辦人兼總裁（1991-2007, 2013）
 - Tao and Zen Research Institute — 主任；World Zen Art Center 名譽總裁（2012）
 - North America Taiwanese Professors Association / New York Chapter — 會長（1984-1985, 2001-2002）
-- [[organizations/taiwan-photography-association-in-greater-new-york-tpagny\|\|Taiwan Photography Association in Greater New York]] — 創辦人兼會長（2005-2012, 2015）
+- [[organizations/taiwan-photography-association-in-greater-new-york-tpagny||Taiwan Photography Association in Greater New York]] — 創辦人兼會長（2005-2012, 2015）
 - National Taiwan University Alumni Association / New York Chapter — 會長（1997-1999）
 - Taiwan Christian Church Council of North America — 期刊總編輯（1975-1976）
 - 攝影展三次（APA 年會、St. Francis College Callahan Center、Soho Photo Gallery）

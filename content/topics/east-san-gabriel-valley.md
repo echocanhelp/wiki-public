@@ -23,12 +23,12 @@ The east SGV — **Rowland Heights, Hacienda Heights, Diamond Bar, Walnut** (mos
 
 | Year | Institution | Function |
 |---|---|---|
-| ~1987–89 | [[organizations/american-chinese-dance-association\|ACDA 美國華裔舞蹈協會]] | arts federation; 中華舞篇 galas (37th edition 2026) |
-| ~1990 | [[organizations/rowland-heights-chinese-association\|RHCA 羅蘭崗華人協會]] | general-purpose association; annual installation gala |
-| 1997 | [[organizations/forus-foundation\|FORUS Foundation]] | school-funding foundation, Rowland Unified |
-| 1998 | [[organizations/taiwanese-american-association-of-los-angeles-east-san-gabriel-valley\|TAA-ESGV 聖東台灣同鄉會]] | hometown association (Taiwan Center network) |
-| ~2006 | [[organizations/yes-plaza\|Yes Plaza 夜市廣場 countdown]] | the invented civic ritual — NYE night market, thousands |
-| 2025– | [[organizations/stc-rowland-legacy\|STC Rowland Legacy / Taste of Taiwan]] | the night market comes to Rowland Heights, 傳承 |
+| ~1987–89 | [[organizations/american-chinese-dance-association|ACDA 美國華裔舞蹈協會]] | arts federation; 中華舞篇 galas (37th edition 2026) |
+| ~1990 | [[organizations/rowland-heights-chinese-association|RHCA 羅蘭崗華人協會]] | general-purpose association; annual installation gala |
+| 1997 | [[organizations/forus-foundation|FORUS Foundation]] | school-funding foundation, Rowland Unified |
+| 1998 | [[organizations/taiwanese-american-association-of-los-angeles-east-san-gabriel-valley|TAA-ESGV 聖東台灣同鄉會]] | hometown association (Taiwan Center network) |
+| ~2006 | [[organizations/yes-plaza|Yes Plaza 夜市廣場 countdown]] | the invented civic ritual — NYE night market, thousands |
+| 2025– | [[organizations/stc-rowland-legacy|STC Rowland Legacy / Taste of Taiwan]] | the night market comes to Rowland Heights, 傳承 |
 
 ## The through-line
 

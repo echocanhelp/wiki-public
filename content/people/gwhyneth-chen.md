@@ -168,5 +168,5 @@ _No filled family fields on the TAH profile; Wikidata (Q118396237) lists "Edith 
 - Vault records: [[works/taiwaneseamericanhistory-org/54-gwhyneth-chen||TAH #54]], [[works/taiwaneseamericanhistory-org/gwhyneth-chen-spirio||TAH #367 — Steinway SPIRIO (2017)]], [[works/taiwaneseamericanhistory-org/whos-who-668-gwhyneth-chen||TAH #668]]
 
 ## Network & Gaps
-- [[organizations/tah-foundation||TAH Foundation]] · [[organizations/steinway-and-sons||Steinway & Sons]] (2017–) · [[organizations/juilliard-school||Juilliard School]] · [[organizations/city-of-ten-thousand-buddhas||City of Ten Thousand Buddhas]] (1993 prize donation)
+- [[organizations/tah-foundation||TAH Foundation]] · Steinway & Sons (2017–) · Juilliard School · City of Ten Thousand Buddhas (1993 prize donation)
 - **Gaps:** family/marital fields empty everywhere ("Edith Chen" on Wikidata unresolved); birthplace 新竹縣 single-sourced (zh.wp); exact Miami Symphony seasons undated; verify the 2021 "complete Rachmaninoff concertos in one day" claim (Taiwan PAA bio, truncated text). DOB 1970-07-29 now double-sourced (en-academic mirror + zh.wikipedia) — HOLD cleared.

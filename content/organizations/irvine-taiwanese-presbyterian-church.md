@@ -23,7 +23,7 @@ Irvine Taiwanese Presbyterian Church (ITPC, 爾灣台灣基督長老教會) is a
 
 ## History
 
-ITPC was established around 2012 as a Taiwanese-language congregation for immigrants and retirees in the Southern California area, particularly in [[Irvine]]]] and [[Laguna Woods Village]]]]. The church found a home through a partnership with Geneva Presbyterian Church, which opened its chapel for ITPC's worship services. The community consists largely of Taiwanese-born retirees who relocated to the area after retiring from careers across the United States.
+ITPC was established around 2012 as a Taiwanese-language congregation for immigrants and retirees in the Southern California area, particularly in Irvine]] and Laguna Woods Village]]. The church found a home through a partnership with Geneva Presbyterian Church, which opened its chapel for ITPC's worship services. The community consists largely of Taiwanese-born retirees who relocated to the area after retiring from careers across the United States.
 
 The church has maintained a continuous presence for over a decade. The site lists a **2023 515紀念冊** ([Drive PDF](https://drive.google.com/file/d/1neFS8L5gwOi0AAQHpAROd75Gn1vrXaYE/view?usp=sharing)) — that is the booklet **title**, not a claim the church is 515 years old. The congregation is about **120** members; Sunday worship in 台語.
 
@@ -40,13 +40,13 @@ Rev. Li Fu-Jen began his pastoral ministry at ITPC in August 2025. He brings a u
 **Early Life and Conversion:**
 Li Fu-Jen was born into a non-religious but loving family as the sixth of seven siblings. His father was a self-made businessman who studied at Waseda University's electrical engineering department in Japan. His mother was a daughter of the 台北六張犁黃家 (Huang family of Liuzhangli), a prominent Taiwanese Christian family. Despite the family's lack of formal religious affiliation, both parents provided a nurturing environment with considerable freedom.
 
-As a child, he occasionally attended Sunday services and youth fellowship at Taipei Chengjian Christian Presbyterian Church (台北建成基督長老教會) with his elder sister. His conversion occurred during his second year of high school at [[淡江中學||Tamsui High School]], when a primary school classmate convinced him to attend a summer camp — where, on the final day, he responded to the pastor's call and committed his life to Christ. His deeper faith reflection began during his final year at [[东海大学||Tunghai University]], as he sought God's guidance for his uncertain future.
+As a child, he occasionally attended Sunday services and youth fellowship at Taipei Chengjian Christian Presbyterian Church (台北建成基督長老教會) with his elder sister. His conversion occurred during his second year of high school at Tamsui High School, when a primary school classmate convinced him to attend a summer camp — where, on the final day, he responded to the pastor's call and committed his life to Christ. His deeper faith reflection began during his final year at Tunghai University, as he sought God's guidance for his uncertain future.
 
 **Engineering Career:**
 After university graduation, Rev. Li spent 15 years working as a mechanical engineer at an aerospace company in the United States. During this period, his faith underwent a profound transformation. Through God's mercy, he re-evaluated the meaning and purpose of his life and ultimately responded to God's call to full-time ministry.
 
 **Theological Training:**
-Beginning in 1997, Rev. Li pursued theological education at evangelical seminaries, including [[正道神學院]]]], [[Fuller Theological Seminary]]]], and [[Gordon-Conwell Theological Seminary]]]]. He was ordained in 2004 after completing seminary.
+Beginning in 1997, Rev. Li pursued theological education at evangelical seminaries, including 正道神學院]], Fuller Theological Seminary]], and Gordon-Conwell Theological Seminary]]. He was ordained in 2004 after completing seminary.
 
 **Ministry Career:**
 After ordination, Rev. Li served in evangelical churches and organizations in Los Angeles, then moved to Houston, and returned to Los Angeles, always within evangelical church contexts. In August 2025, he came to ITPC to serve as pastor, describing it as another experience of God's special grace.
@@ -59,7 +59,7 @@ They have two adult children: their daughter works at a kindergarten in Houston,
 ### Previous Pastors
 
 - **Rev. Chen Meihui (陳美蕙牧師)** — served ITPC in a pastoral capacity before Rev. Li's arrival
-- **Rev. Zhang Xuanxin (張宣信牧師)** — served ITPC and contributed significantly to the congregation, including delivering lectures at the [[長青教室||Senior Class]] program
+- **Rev. Zhang Xuanxin (張宣信牧師)** — served ITPC and contributed significantly to the congregation, including delivering lectures at the Senior Class program
 
 ---
 
@@ -421,10 +421,10 @@ From I-5, take the El Toro exit west (towards Laguna Hills). Continue about 3 mi
 - [[people/chen-meihui||Chen Meihui (陳美蕙)]]
 - [[people/zhang-xuanxin||Zhang Xuanxin (張宣信)]]
 - [[people/hung-jen-liu||Rev. Hung-Jen Liu (劉弘仁)]] — guest preacher (「悔改與救恩」 2021-07-18; 「祂的星」)
-- [[Geneva Presbyterian Church||Geneva Presbyterian Church]]
-- [[Laguna Woods||Laguna Woods Village]]
-- [[Laguna Hills||Laguna Hills, California]]
-- [[Irvine||Irvine, California]]
+- Geneva Presbyterian Church
+- Laguna Woods Village
+- Laguna Hills, California
+- Irvine, California
 - [[sources/irvine-taiwanese-presbyterian-church||ITPC Official Website (source)]]
 - [[people/zhang-xuanxin||Billy Chang 張宣信]]
 - [[people/dr-ching-k-lin||Dr. Ching K. Lin (林清貴博士)]]

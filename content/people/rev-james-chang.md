@@ -50,7 +50,7 @@ Accomplishment
 
 ## Network
 - [[organizations/presbyterian-church-in-taiwan||PCT]] — TAH Who’s Who
-- [[organizations/formosan-presbyterian-church-in-greater-houston||休士頓台灣基督長老教會]] — Pastor (per TAH record)
+- [[works/taiwaneseamericanhistory-org/formosan-presbyterian-church-in-greater-houston||休士頓台灣基督長老教會]] — Pastor (per TAH record)
 
 ## Role in the Community
 

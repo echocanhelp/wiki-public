@@ -481,7 +481,7 @@ A 555 · B 1782 · C 80 · total 2417 — full list, never truncated.
 - [[works/taiwaneseamerican-org/volunteer-at-the-mid-autumn-festival-in-atlanta|Volunteer at the Mid Autumn Festival in Atlanta]] — 2014-09-06 · B
 - [[works/taiwaneseamerican-org/mid-autumn-festival-bbq-with-tap-in-seattle|Mid-Autumn Festival BBQ with TAP in Seattle]] — 2014-09-06 · B
 - [[works/taiwaneseamerican-org/ed-lin-interview|An Interview with Ed Lin, Author of Ghost Month]] — 2014-09-03 · A
-- [[works/taiwaneseamerican-org/keep-taiwan-free-2014|September 13th \| Keep Taiwan Free Movement in NYC!]] — 2014-09-02 · A
+- [[works/taiwaneseamerican-org/keep-taiwan-free-2014|September 13th | Keep Taiwan Free Movement in NYC!]] — 2014-09-02 · A
 - [[works/taiwaneseamerican-org/keep-taiwan-free-rally-2014-fundraiser|Keep Taiwan Free Rally 2014 Fundraiser]] — 2014-09-02 · B
 - [[works/taiwaneseamerican-org/beach-bbq-with-tap-and-uiaaan-in-chicago|Beach BBQ with TAP and UIAAAN in Chicago]] — 2014-09-01 · B
 - [[works/taiwaneseamerican-org/blood-drive-with-tap-and-tjcc-in-san-diego|Blood Drive with TAP and TJCC in San Diego]] — 2014-08-31 · B
@@ -2466,214 +2466,214 @@ A 379 · B 9358 · C 0 · total 9737 — full list, never truncated.
 - [[works/taiwaneseamericanhistory-org/connecting-generations-taiwanese-american-elders-share-their-stories-with-studen|Connecting Generations: Taiwanese American Elders Share Their Stories with Students from Taiwan]] — 2026-08-06 · B
 - [[works/taiwaneseamericanhistory-org/nasa-astronaut-born-in-taiwan-returns-to-celebrate-freedom-250|NASA Astronaut Born in Taiwan Returns to Celebrate Freedom 250]] — 2026-05-01 · B
 - [[works/taiwaneseamericanhistory-org/manhattan-school-of-music-appoints-acclaimed-conductor-mei-ann-chen-as-incoming-|Manhattan School of Music Appoints Acclaimed Conductor Mei-Ann Chen as incoming Director of Orchestral Activities and Chair of Conducting]] — 2026-04-30 · B
-- [[works/taiwaneseamericanhistory-org/publications-1384|1384. 南加州台南一中&台南女中校友會2025年刊 \| 09/2025/Magazine]] — 2025-09-24 · B
-- [[works/taiwaneseamericanhistory-org/video-188|188. Founder of TCCGWC – 黃泰郎 Tai Huang’s Journey \| TAH Taiwanese Americans Oral History Project]] — 2025-08-06 · A
-- [[works/taiwaneseamericanhistory-org/video-187|187. Advisor of TAAGPC – 王博文 Powen Wang’s Journey \| TAH Taiwanese Americans Oral History Project]] — 2025-08-05 · A
-- [[works/taiwaneseamericanhistory-org/video-186|186. Director of TCFGLA – 林榮松 Simon Long Song Lin’s Journey \| TAH Taiwanese Americans Oral History Project]] — 2025-08-01 · A
-- [[works/taiwaneseamericanhistory-org/video-185|185. President of TAAGPC –謝己 James Jii Shieh’s Journey \| TAH Taiwanese Americans Oral History Project]] — 2025-08-01 · A
-- [[works/taiwaneseamericanhistory-org/video-184|184. CEO of SDTC/TAF – 歐春美 Chunmei Ou Lin’s Journey \| TAH Taiwanese Americans Oral History Project]] — 2025-08-01 · A
-- [[works/taiwaneseamericanhistory-org/video-183|183. President of NYTC – 蘇春槐 Chun-Hwai Su’s Journey \| TAH Taiwanese Americans Oral History Project]] — 2025-08-01 · A
-- [[works/taiwaneseamericanhistory-org/video-182|182. Chairwoman of THSH – 徐秋蓉 Evelyn Hsu’s Journey \| TAH Taiwanese Americans Oral History Project]] — 2025-07-31 · A
-- [[works/taiwaneseamericanhistory-org/video-181|181. President of TACNC – 廖俊惠 Chinhuei Liao’s Journey \| TAH Taiwanese Americans Oral History Project]] — 2025-07-31 · A
-- [[works/taiwaneseamericanhistory-org/video-180|180. President of TAA – 宋明麗 Mingly Song’s Journey \| TAH Taiwanese Americans Oral History Project]] — 2025-07-31 · A
-- [[works/taiwaneseamericanhistory-org/913-e9-96-8b-e7-99-bc-e5-9f-ba-e5-9b-a0-e7-b7-a8-e8-bc-af-e6-96-b0-e6-8a-80-e8-a|913. 開發基因編輯新技術治白血病 台裔劉如謙獲「突破獎」 \| 05/2025]] — 2025-05-15 · B
-- [[works/taiwaneseamericanhistory-org/912-e5-8f-b0-e8-a3-94-e6-9f-8f-e5-85-8b-e8-90-8a-e5-ad-b8-e8-80-85-e5-8a-89-e9-8|912. 台裔柏克萊學者劉金智潔 獲任美國國家工程學院長 \| 05/2025]] — 2025-05-15 · B
-- [[works/taiwaneseamericanhistory-org/394-summary-of-the-taiwanese-americans-conference-2025-04-2025|394. Summary of the Taiwanese Americans Conference 2025 \| 04/2025]] — 2025-04-04 · B
-- [[works/taiwaneseamericanhistory-org/tah-museum|46. TAH Museum \| 2025]] — 2025-02-07 · B
-- [[works/taiwaneseamericanhistory-org/our-journeys-393|393. 旅美台灣醫師組團義診20年 難忘老婦下跪喊哈利路亞 \| 10/2024]] — 2024-10-30 · A
-- [[works/taiwaneseamericanhistory-org/911-e7-be-8e-e9-9b-bb-e6-b1-a0-e6-9d-90-e6-96-99-e5-bb-a0-e7-8d-b2-e5-9f-ba-e5-b|911. 美電池材料廠獲基建法補助 台裔CEO王憲宏挑大樑 \| 09/2024]] — 2024-09-27 · B
-- [[works/taiwaneseamericanhistory-org/910-carnegie-hero-fund-commission-john-cheng-and-billy-chang-09-2024|910. Carnegie Hero Fund Commission – John Cheng and Billy Chang \| 09/2024]] — 2024-09-27 · B
+- [[works/taiwaneseamericanhistory-org/publications-1384|1384. 南加州台南一中&台南女中校友會2025年刊 | 09/2025/Magazine]] — 2025-09-24 · B
+- [[works/taiwaneseamericanhistory-org/video-188|188. Founder of TCCGWC – 黃泰郎 Tai Huang’s Journey | TAH Taiwanese Americans Oral History Project]] — 2025-08-06 · A
+- [[works/taiwaneseamericanhistory-org/video-187|187. Advisor of TAAGPC – 王博文 Powen Wang’s Journey | TAH Taiwanese Americans Oral History Project]] — 2025-08-05 · A
+- [[works/taiwaneseamericanhistory-org/video-186|186. Director of TCFGLA – 林榮松 Simon Long Song Lin’s Journey | TAH Taiwanese Americans Oral History Project]] — 2025-08-01 · A
+- [[works/taiwaneseamericanhistory-org/video-185|185. President of TAAGPC –謝己 James Jii Shieh’s Journey | TAH Taiwanese Americans Oral History Project]] — 2025-08-01 · A
+- [[works/taiwaneseamericanhistory-org/video-184|184. CEO of SDTC/TAF – 歐春美 Chunmei Ou Lin’s Journey | TAH Taiwanese Americans Oral History Project]] — 2025-08-01 · A
+- [[works/taiwaneseamericanhistory-org/video-183|183. President of NYTC – 蘇春槐 Chun-Hwai Su’s Journey | TAH Taiwanese Americans Oral History Project]] — 2025-08-01 · A
+- [[works/taiwaneseamericanhistory-org/video-182|182. Chairwoman of THSH – 徐秋蓉 Evelyn Hsu’s Journey | TAH Taiwanese Americans Oral History Project]] — 2025-07-31 · A
+- [[works/taiwaneseamericanhistory-org/video-181|181. President of TACNC – 廖俊惠 Chinhuei Liao’s Journey | TAH Taiwanese Americans Oral History Project]] — 2025-07-31 · A
+- [[works/taiwaneseamericanhistory-org/video-180|180. President of TAA – 宋明麗 Mingly Song’s Journey | TAH Taiwanese Americans Oral History Project]] — 2025-07-31 · A
+- [[works/taiwaneseamericanhistory-org/913-e9-96-8b-e7-99-bc-e5-9f-ba-e5-9b-a0-e7-b7-a8-e8-bc-af-e6-96-b0-e6-8a-80-e8-a|913. 開發基因編輯新技術治白血病 台裔劉如謙獲「突破獎」 | 05/2025]] — 2025-05-15 · B
+- [[works/taiwaneseamericanhistory-org/912-e5-8f-b0-e8-a3-94-e6-9f-8f-e5-85-8b-e8-90-8a-e5-ad-b8-e8-80-85-e5-8a-89-e9-8|912. 台裔柏克萊學者劉金智潔 獲任美國國家工程學院長 | 05/2025]] — 2025-05-15 · B
+- [[works/taiwaneseamericanhistory-org/394-summary-of-the-taiwanese-americans-conference-2025-04-2025|394. Summary of the Taiwanese Americans Conference 2025 | 04/2025]] — 2025-04-04 · B
+- [[works/taiwaneseamericanhistory-org/tah-museum|46. TAH Museum | 2025]] — 2025-02-07 · B
+- [[works/taiwaneseamericanhistory-org/our-journeys-393|393. 旅美台灣醫師組團義診20年 難忘老婦下跪喊哈利路亞 | 10/2024]] — 2024-10-30 · A
+- [[works/taiwaneseamericanhistory-org/911-e7-be-8e-e9-9b-bb-e6-b1-a0-e6-9d-90-e6-96-99-e5-bb-a0-e7-8d-b2-e5-9f-ba-e5-b|911. 美電池材料廠獲基建法補助 台裔CEO王憲宏挑大樑 | 09/2024]] — 2024-09-27 · B
+- [[works/taiwaneseamericanhistory-org/910-carnegie-hero-fund-commission-john-cheng-and-billy-chang-09-2024|910. Carnegie Hero Fund Commission – John Cheng and Billy Chang | 09/2024]] — 2024-09-27 · B
 - [[works/taiwaneseamericanhistory-org/whos-who-2322|2322. Billy Chang 張宣信]] — 2024-09-10 · B
-- [[works/taiwaneseamericanhistory-org/my-stories-909|909. 曾任AIT官員 台裔王涵就任美國駐名古屋首席領事 \| 08/2024]] — 2024-08-29 · B
-- [[works/taiwaneseamericanhistory-org/publications-1383|1383. 南加州台南一中&台南女中校友會2024年刊 \| 08/2024/Magazine]] — 2024-08-22 · B
-- [[works/taiwaneseamericanhistory-org/my-stories-908|908. 搭一座橋跨越語言鴻溝 台裔游朝凱為有口難言的父輩移民而寫 \| 07/2024]] — 2024-07-31 · B
-- [[works/taiwaneseamericanhistory-org/our-journeys-392|392. 美東台灣人夏令會1975年總召集人 王成章牧師的專訪 \| 07/2024]] — 2024-07-31 · A
-- [[works/taiwaneseamericanhistory-org/my-stories-907|907. 台裔莊念祖研究火箭燃料助探索火星 NASA授最高榮譽 \| 07/2024]] — 2024-07-09 · B
-- [[works/taiwaneseamericanhistory-org/my-stories-906|906. 直球對決台灣議題 喜劇演員陳士駿：我故鄉我驕傲 \| 06/2024]] — 2024-06-27 · B
-- [[works/taiwaneseamericanhistory-org/project-festival-50|50. 德州首府奧斯汀市宣告5月12-19日為台美人傳統週 \| 06/2024]] — 2024-06-14 · B
-- [[works/taiwaneseamericanhistory-org/our-journeys-391|391. 紐約州首府區台美文化促進會二十週年回顧 \| 06/2024]] — 2024-06-14 · A
-- [[works/taiwaneseamericanhistory-org/publications-1382|1382. 2023台美文藝 \| 06/2024/Literature/文學]] — 2024-06-14 · B
+- [[works/taiwaneseamericanhistory-org/my-stories-909|909. 曾任AIT官員 台裔王涵就任美國駐名古屋首席領事 | 08/2024]] — 2024-08-29 · B
+- [[works/taiwaneseamericanhistory-org/publications-1383|1383. 南加州台南一中&台南女中校友會2024年刊 | 08/2024/Magazine]] — 2024-08-22 · B
+- [[works/taiwaneseamericanhistory-org/my-stories-908|908. 搭一座橋跨越語言鴻溝 台裔游朝凱為有口難言的父輩移民而寫 | 07/2024]] — 2024-07-31 · B
+- [[works/taiwaneseamericanhistory-org/our-journeys-392|392. 美東台灣人夏令會1975年總召集人 王成章牧師的專訪 | 07/2024]] — 2024-07-31 · A
+- [[works/taiwaneseamericanhistory-org/my-stories-907|907. 台裔莊念祖研究火箭燃料助探索火星 NASA授最高榮譽 | 07/2024]] — 2024-07-09 · B
+- [[works/taiwaneseamericanhistory-org/my-stories-906|906. 直球對決台灣議題 喜劇演員陳士駿：我故鄉我驕傲 | 06/2024]] — 2024-06-27 · B
+- [[works/taiwaneseamericanhistory-org/project-festival-50|50. 德州首府奧斯汀市宣告5月12-19日為台美人傳統週 | 06/2024]] — 2024-06-14 · B
+- [[works/taiwaneseamericanhistory-org/our-journeys-391|391. 紐約州首府區台美文化促進會二十週年回顧 | 06/2024]] — 2024-06-14 · A
+- [[works/taiwaneseamericanhistory-org/publications-1382|1382. 2023台美文藝 | 06/2024/Literature/文學]] — 2024-06-14 · B
 - [[works/taiwaneseamericanhistory-org/publications-1381|1381. 台灣協志會50年回顧 ｜ 05/2024/Magazine]] — 2024-06-01 · B
-- [[works/taiwaneseamericanhistory-org/my-stories-905|905. 美佛州僑領李三富慨捐仟萬 回饋海大培育學弟妹 \| 05/2024]] — 2024-05-30 · B
-- [[works/taiwaneseamericanhistory-org/my-stories-904|904. Carlsbad man uses family’s Taiwanese farming techniques to grow exotic fruit \| 04/2024]] — 2024-04-25 · B
-- [[works/taiwaneseamericanhistory-org/my-stories-903|903. 142年首見 台裔唐泰芮成洛杉磯時報首位女總編 \| 04/2024]] — 2024-04-24 · B
-- [[works/taiwaneseamericanhistory-org/my-stories-902|902. 專訪「醫生中的醫生」- 聖路易高銘憲醫師談移民如何就醫？ \| 04/2024]] — 2024-04-22 · B
-- [[works/taiwaneseamericanhistory-org/my-stories-901|901. 臺灣女性科學家閃耀美國工程界！東海大學傑出校友郭小華擠身美國NAE國家院士 \| 03/2024]] — 2024-03-29 · B
-- [[works/taiwaneseamericanhistory-org/my-stories-900|900. From ECG to Odyssey: A Life in Academic Clinical Medicine \| 03/2024]] — 2024-03-27 · B
-- [[works/taiwaneseamericanhistory-org/my-stories-899|899. 台裔導演王湘聖作品「奶奶跟外婆」前進奧斯卡 主角嗨喊想見李安 \| 02/2024]] — 2024-02-21 · B
-- [[works/taiwaneseamericanhistory-org/my-stories-898|898. 「金門」入圍奧斯卡紀錄短片5強 江松長盼倡導和平 \| 01/2024]] — 2024-01-31 · B
-- [[works/taiwaneseamericanhistory-org/my-stories-897|897. Freedom Calling – American Journey of a Taiwan Expatriate \| 01/2024]] — 2024-01-30 · A
-- [[works/taiwaneseamericanhistory-org/my-stories-896|896. 白色恐怖下的早期留美學生  \| 01/2024]] — 2024-01-23 · B
+- [[works/taiwaneseamericanhistory-org/my-stories-905|905. 美佛州僑領李三富慨捐仟萬 回饋海大培育學弟妹 | 05/2024]] — 2024-05-30 · B
+- [[works/taiwaneseamericanhistory-org/my-stories-904|904. Carlsbad man uses family’s Taiwanese farming techniques to grow exotic fruit | 04/2024]] — 2024-04-25 · B
+- [[works/taiwaneseamericanhistory-org/my-stories-903|903. 142年首見 台裔唐泰芮成洛杉磯時報首位女總編 | 04/2024]] — 2024-04-24 · B
+- [[works/taiwaneseamericanhistory-org/my-stories-902|902. 專訪「醫生中的醫生」- 聖路易高銘憲醫師談移民如何就醫？ | 04/2024]] — 2024-04-22 · B
+- [[works/taiwaneseamericanhistory-org/my-stories-901|901. 臺灣女性科學家閃耀美國工程界！東海大學傑出校友郭小華擠身美國NAE國家院士 | 03/2024]] — 2024-03-29 · B
+- [[works/taiwaneseamericanhistory-org/my-stories-900|900. From ECG to Odyssey: A Life in Academic Clinical Medicine | 03/2024]] — 2024-03-27 · B
+- [[works/taiwaneseamericanhistory-org/my-stories-899|899. 台裔導演王湘聖作品「奶奶跟外婆」前進奧斯卡 主角嗨喊想見李安 | 02/2024]] — 2024-02-21 · B
+- [[works/taiwaneseamericanhistory-org/my-stories-898|898. 「金門」入圍奧斯卡紀錄短片5強 江松長盼倡導和平 | 01/2024]] — 2024-01-31 · B
+- [[works/taiwaneseamericanhistory-org/my-stories-897|897. Freedom Calling – American Journey of a Taiwan Expatriate | 01/2024]] — 2024-01-30 · A
+- [[works/taiwaneseamericanhistory-org/my-stories-896|896. 白色恐怖下的早期留美學生  | 01/2024]] — 2024-01-23 · B
 - [[works/taiwaneseamericanhistory-org/newsletters-of-t-a-archives-2024|Newsletters of T.A. Archives 2024]] — 2024-01-02 · B
-- [[works/taiwaneseamericanhistory-org/publications-1380|1380. 全美台灣同鄉會50周年特刊 \| 12/2023/Magazine]] — 2023-12-29 · B
-- [[works/taiwaneseamericanhistory-org/our-journeys-390|390. 2023 in Review: The Founding Director’s Year-end Message from UCSD’s Center of Taiwan Studies \| 12/2023]] — 2023-12-23 · A
-- [[works/taiwaneseamericanhistory-org/our-journeys-389|389. 印城台灣同鄉會紀要 \|12/2023]] — 2023-12-13 · A
-- [[works/taiwaneseamericanhistory-org/my-stories-895|895. 憶舊-起步雖晚落步永不嫌遲 \| 12/2023]] — 2023-12-12 · B
-- [[works/taiwaneseamericanhistory-org/my-stories-894|894. 許宗邦組跨族裔醫師團國際義診 幫助第三世界人民 \| 12/2023]] — 2023-12-07 · B
-- [[works/taiwaneseamericanhistory-org/my-stories-893|893. Albert Chen(陳敏祐) to receive 2023 Sachem Award \| 12/2023]] — 2023-12-07 · B
-- [[works/taiwaneseamericanhistory-org/my-stories-892|892. 政大校友捐贈3.2億 盼成打造台版普立茲獎  \| 11/2023]] — 2023-11-30 · B
-- [[works/taiwaneseamericanhistory-org/my-stories-891|891. 我的美國夢 (My American Dream) \| 11/2023]] — 2023-11-30 · B
-- [[works/taiwaneseamericanhistory-org/my-stories-890|890. 李昭鋐的故事 \| 11/2023]] — 2023-11-29 · B
-- [[works/taiwaneseamericanhistory-org/my-stories-889|889. 台美小姐皇后 張芳瑜摘美國亞裔小姐后冠  \| 11/2023]] — 2023-11-29 · B
-- [[works/taiwaneseamericanhistory-org/my-stories-888|888. 大聯盟「台灣日」向美國退伍軍官黃珍珍致敬 \| 10/2023]] — 2023-10-24 · B
-- [[works/taiwaneseamericanhistory-org/publications-1379|1379. Made In Taiwan 台灣製造 \| 09/2023/Life]] — 2023-09-28 · B
-- [[works/taiwaneseamericanhistory-org/my-stories-887|887. 紀念彭明敏教授百歲冥誕 \| 09/2023]] — 2023-09-27 · B
-- [[works/taiwaneseamericanhistory-org/my-stories-886|886. MSCI永續發展中心成立 台裔李宜玲出任創始負責人 \| 09/2023]] — 2023-09-26 · B
-- [[works/taiwaneseamericanhistory-org/my-stories-885|885. 全球快閃記憶體鋒會 台裔美籍許富菖奪創新大獎 \| 09/2023]] — 2023-09-26 · B
-- [[works/taiwaneseamericanhistory-org/publications-1378|1378. 北美洲台灣人教授協會 – 二十一年的回顧 \| 09/2023/Magazine]] — 2023-09-26 · B
-- [[works/taiwaneseamericanhistory-org/publications-1377|1377. 第 2 本 《十年的回顧》：1990 – 2000-北美洲台灣人教授協會 \| 09/2023/Magazine]] — 2023-09-26 · B
-- [[works/taiwaneseamericanhistory-org/publications-1376|1376. 南加州台南一中&台南女中校友會2023年刊 \| 09/2023/Magazine]] — 2023-09-14 · B
-- [[works/taiwaneseamericanhistory-org/publications-1375|1375. 南加州台南一中&台南女中校友會2022年刊 \| 09/2023/Magazine]] — 2023-09-14 · B
+- [[works/taiwaneseamericanhistory-org/publications-1380|1380. 全美台灣同鄉會50周年特刊 | 12/2023/Magazine]] — 2023-12-29 · B
+- [[works/taiwaneseamericanhistory-org/our-journeys-390|390. 2023 in Review: The Founding Director’s Year-end Message from UCSD’s Center of Taiwan Studies | 12/2023]] — 2023-12-23 · A
+- [[works/taiwaneseamericanhistory-org/our-journeys-389|389. 印城台灣同鄉會紀要 |12/2023]] — 2023-12-13 · A
+- [[works/taiwaneseamericanhistory-org/my-stories-895|895. 憶舊-起步雖晚落步永不嫌遲 | 12/2023]] — 2023-12-12 · B
+- [[works/taiwaneseamericanhistory-org/my-stories-894|894. 許宗邦組跨族裔醫師團國際義診 幫助第三世界人民 | 12/2023]] — 2023-12-07 · B
+- [[works/taiwaneseamericanhistory-org/my-stories-893|893. Albert Chen(陳敏祐) to receive 2023 Sachem Award | 12/2023]] — 2023-12-07 · B
+- [[works/taiwaneseamericanhistory-org/my-stories-892|892. 政大校友捐贈3.2億 盼成打造台版普立茲獎  | 11/2023]] — 2023-11-30 · B
+- [[works/taiwaneseamericanhistory-org/my-stories-891|891. 我的美國夢 (My American Dream) | 11/2023]] — 2023-11-30 · B
+- [[works/taiwaneseamericanhistory-org/my-stories-890|890. 李昭鋐的故事 | 11/2023]] — 2023-11-29 · B
+- [[works/taiwaneseamericanhistory-org/my-stories-889|889. 台美小姐皇后 張芳瑜摘美國亞裔小姐后冠  | 11/2023]] — 2023-11-29 · B
+- [[works/taiwaneseamericanhistory-org/my-stories-888|888. 大聯盟「台灣日」向美國退伍軍官黃珍珍致敬 | 10/2023]] — 2023-10-24 · B
+- [[works/taiwaneseamericanhistory-org/publications-1379|1379. Made In Taiwan 台灣製造 | 09/2023/Life]] — 2023-09-28 · B
+- [[works/taiwaneseamericanhistory-org/my-stories-887|887. 紀念彭明敏教授百歲冥誕 | 09/2023]] — 2023-09-27 · B
+- [[works/taiwaneseamericanhistory-org/my-stories-886|886. MSCI永續發展中心成立 台裔李宜玲出任創始負責人 | 09/2023]] — 2023-09-26 · B
+- [[works/taiwaneseamericanhistory-org/my-stories-885|885. 全球快閃記憶體鋒會 台裔美籍許富菖奪創新大獎 | 09/2023]] — 2023-09-26 · B
+- [[works/taiwaneseamericanhistory-org/publications-1378|1378. 北美洲台灣人教授協會 – 二十一年的回顧 | 09/2023/Magazine]] — 2023-09-26 · B
+- [[works/taiwaneseamericanhistory-org/publications-1377|1377. 第 2 本 《十年的回顧》：1990 – 2000-北美洲台灣人教授協會 | 09/2023/Magazine]] — 2023-09-26 · B
+- [[works/taiwaneseamericanhistory-org/publications-1376|1376. 南加州台南一中&台南女中校友會2023年刊 | 09/2023/Magazine]] — 2023-09-14 · B
+- [[works/taiwaneseamericanhistory-org/publications-1375|1375. 南加州台南一中&台南女中校友會2022年刊 | 09/2023/Magazine]] — 2023-09-14 · B
 - [[works/taiwaneseamericanhistory-org/setaa-2023|SETAA 2023]] — 2023-08-31 · B
-- [[works/taiwaneseamericanhistory-org/publications-1374|1374. 2023 第40 屆 美東南區台灣人夏令會手冊 \| 08/2023/Magazine]] — 2023-08-31 · B
-- [[works/taiwaneseamericanhistory-org/publications-1373|1373. 台美人柯耀宗博士訪談紀錄 \| 08/2023/Life]] — 2023-08-18 · B
-- [[works/taiwaneseamericanhistory-org/publications-1372|1372. 王永宗家族敘事：王康厚、王康德口述訪談紀錄 \| 08/2023/Life]] — 2023-08-18 · B
-- [[works/taiwaneseamericanhistory-org/my-stories-884|884.  緬懷我摯愛的父親吳聖麒 \| 08/2023]] — 2023-08-16 · B
-- [[works/taiwaneseamericanhistory-org/my-stories-883|883. 林凱倫獲民主黨提名 角逐紐約州高院法官 \| 08/2023]] — 2023-08-16 · B
-- [[works/taiwaneseamericanhistory-org/my-stories-882|882. 台裔女大生創建BobaWay台英翻譯網頁 助台裔美國人學台語 \| 07/2023]] — 2023-07-21 · B
-- [[works/taiwaneseamericanhistory-org/our-journeys-388|388. 為何台美人醫生多？台美第一代醫生甘苦談 \| 07/2023]] — 2023-07-21 · A
+- [[works/taiwaneseamericanhistory-org/publications-1374|1374. 2023 第40 屆 美東南區台灣人夏令會手冊 | 08/2023/Magazine]] — 2023-08-31 · B
+- [[works/taiwaneseamericanhistory-org/publications-1373|1373. 台美人柯耀宗博士訪談紀錄 | 08/2023/Life]] — 2023-08-18 · B
+- [[works/taiwaneseamericanhistory-org/publications-1372|1372. 王永宗家族敘事：王康厚、王康德口述訪談紀錄 | 08/2023/Life]] — 2023-08-18 · B
+- [[works/taiwaneseamericanhistory-org/my-stories-884|884.  緬懷我摯愛的父親吳聖麒 | 08/2023]] — 2023-08-16 · B
+- [[works/taiwaneseamericanhistory-org/my-stories-883|883. 林凱倫獲民主黨提名 角逐紐約州高院法官 | 08/2023]] — 2023-08-16 · B
+- [[works/taiwaneseamericanhistory-org/my-stories-882|882. 台裔女大生創建BobaWay台英翻譯網頁 助台裔美國人學台語 | 07/2023]] — 2023-07-21 · B
+- [[works/taiwaneseamericanhistory-org/our-journeys-388|388. 為何台美人醫生多？台美第一代醫生甘苦談 | 07/2023]] — 2023-07-21 · A
 - [[works/taiwaneseamericanhistory-org/my-stories-881|881. Professor Margaret Shih Assumes Role of Department Chair in Anderson School of Management in UCLA]] — 2023-07-14 · B
-- [[works/taiwaneseamericanhistory-org/our-journeys-387|387. 史丹佛「台灣科學及科技中心」揭幕 台美科研開新頁 \| 06/2023]] — 2023-06-28 · A
-- [[works/taiwaneseamericanhistory-org/my-stories-880|880. 台東小孩昔日赴美洗碗賺學費 李明東62歲拚上索諾瑪州立大學校長 \| 06/2023]] — 2023-06-19 · B
-- [[works/taiwaneseamericanhistory-org/my-stories-879|879. 廖俊智獲頒國際獎項 籲利用代謝工程因應全球暖化 \| 06/2023]] — 2023-06-14 · B
-- [[works/taiwaneseamericanhistory-org/publications-1371|1371. Taiwanese Awakening \| 06/2023 /Literature]] — 2023-06-08 · B
-- [[works/taiwaneseamericanhistory-org/my-stories-878|878. 華人賴正光捐贈美醫院1億美元  研發免疫學 \| 05/2023]] — 2023-05-24 · B
-- [[works/taiwaneseamericanhistory-org/our-journeys-386|386. UCSD獲500萬成立台灣研究中心跨學科合作 \| 05/2023]] — 2023-05-23 · A
-- [[works/taiwaneseamericanhistory-org/piblications-1370|1370. 今生難忘的五一五 515 2022 Unforgettable \| 05/2023/Religion]] — 2023-05-22 · B
-- [[works/taiwaneseamericanhistory-org/my-stories-877|877. MIT學者、興大校友蔡立慧 發現阿茲海默症逆轉新法 \| 05/2023]] — 2023-05-18 · B
-- [[works/taiwaneseamericanhistory-org/my-stories-876|876. 台裔市長吳弭琴藝精湛 與波士頓交響樂團同台演奏驚豔全場 \| 05/2023]] — 2023-05-18 · B
-- [[works/taiwaneseamericanhistory-org/my-stories-875|875. 台裔美籍作家徐華剖析成長歷程 自傳榮獲普立茲獎 \| 05/2023]] — 2023-05-16 · B
-- [[works/taiwaneseamericanhistory-org/our-journeys-385|385. Grand Opening of the Center for Taiwan Studies at UCSD \| 05/2023]] — 2023-05-12 · A
-- [[works/taiwaneseamericanhistory-org/my-stories-874|874. 想當飛行員「人生計畫失敗」台裔杜龍蓀成NASA主管領導3000人 \| 05/2023]] — 2023-05-09 · B
-- [[works/taiwaneseamericanhistory-org/my-stories-873|873. 飛向夢想 \| 04/2023]] — 2023-04-30 · B
-- [[works/taiwaneseamericanhistory-org/my-stories-872|872. 李明亮奠定台灣遺傳學、任抗SARS總指揮 獲兒童醫療終身貢獻獎 \| 04/2023]] — 2023-04-30 · B
+- [[works/taiwaneseamericanhistory-org/our-journeys-387|387. 史丹佛「台灣科學及科技中心」揭幕 台美科研開新頁 | 06/2023]] — 2023-06-28 · A
+- [[works/taiwaneseamericanhistory-org/my-stories-880|880. 台東小孩昔日赴美洗碗賺學費 李明東62歲拚上索諾瑪州立大學校長 | 06/2023]] — 2023-06-19 · B
+- [[works/taiwaneseamericanhistory-org/my-stories-879|879. 廖俊智獲頒國際獎項 籲利用代謝工程因應全球暖化 | 06/2023]] — 2023-06-14 · B
+- [[works/taiwaneseamericanhistory-org/publications-1371|1371. Taiwanese Awakening | 06/2023 /Literature]] — 2023-06-08 · B
+- [[works/taiwaneseamericanhistory-org/my-stories-878|878. 華人賴正光捐贈美醫院1億美元  研發免疫學 | 05/2023]] — 2023-05-24 · B
+- [[works/taiwaneseamericanhistory-org/our-journeys-386|386. UCSD獲500萬成立台灣研究中心跨學科合作 | 05/2023]] — 2023-05-23 · A
+- [[works/taiwaneseamericanhistory-org/piblications-1370|1370. 今生難忘的五一五 515 2022 Unforgettable | 05/2023/Religion]] — 2023-05-22 · B
+- [[works/taiwaneseamericanhistory-org/my-stories-877|877. MIT學者、興大校友蔡立慧 發現阿茲海默症逆轉新法 | 05/2023]] — 2023-05-18 · B
+- [[works/taiwaneseamericanhistory-org/my-stories-876|876. 台裔市長吳弭琴藝精湛 與波士頓交響樂團同台演奏驚豔全場 | 05/2023]] — 2023-05-18 · B
+- [[works/taiwaneseamericanhistory-org/my-stories-875|875. 台裔美籍作家徐華剖析成長歷程 自傳榮獲普立茲獎 | 05/2023]] — 2023-05-16 · B
+- [[works/taiwaneseamericanhistory-org/our-journeys-385|385. Grand Opening of the Center for Taiwan Studies at UCSD | 05/2023]] — 2023-05-12 · A
+- [[works/taiwaneseamericanhistory-org/my-stories-874|874. 想當飛行員「人生計畫失敗」台裔杜龍蓀成NASA主管領導3000人 | 05/2023]] — 2023-05-09 · B
+- [[works/taiwaneseamericanhistory-org/my-stories-873|873. 飛向夢想 | 04/2023]] — 2023-04-30 · B
+- [[works/taiwaneseamericanhistory-org/my-stories-872|872. 李明亮奠定台灣遺傳學、任抗SARS總指揮 獲兒童醫療終身貢獻獎 | 04/2023]] — 2023-04-30 · B
 - [[works/taiwaneseamericanhistory-org/publications-1369|1369. 休士頓台美人50週年特刊 04/2023/Magazine]] — 2023-04-30 · B
 - [[works/taiwaneseamericanhistory-org/publications-1368|1368. 黃東昇八五回顧：府城黃葉兩家故事 / 黃東昇 / 03/ 2023/Autobiography]] — 2023-04-01 · B
-- [[works/taiwaneseamericanhistory-org/my-stories-871|871. 蘇維思獲提名美國勞工部長 台裔父親做生意經歷促成她為勞權奮戰 \| 03/2023]] — 2023-03-28 · B
-- [[works/taiwaneseamericanhistory-org/my-stories-870|870. 台裔作曲家陳士惠獲頒美國藝術文學院音樂獎 \| 03/2023]] — 2023-03-28 · B
-- [[works/taiwaneseamericanhistory-org/my-stories-869|869. 楊信：甘苦都忘了 做人比做生意重要 \| 02/2023]] — 2023-02-28 · B
-- [[works/taiwaneseamericanhistory-org/my-stories-868|868. USDA Names Simon Liu as New ARS Administrator \| 02/2023]] — 2023-02-27 · B
-- [[works/taiwaneseamericanhistory-org/my-stories-867|867. 溫智宇捐UCI 2000萬 蓋診療大樓 來自台灣 父母皆藍領 \|01/2023]] — 2023-01-31 · B
-- [[works/taiwaneseamericanhistory-org/my-stories-866|866. 《紐時》讚蕭美琴 ：華府最具影響力的大使 \| 01/2023]] — 2023-01-29 · B
-- [[works/taiwaneseamericanhistory-org/my-stories-865|865. 勇闖好萊塢 台裔服裝造型師：一路走來如奇蹟 \| 01/2023]] — 2023-01-29 · B
+- [[works/taiwaneseamericanhistory-org/my-stories-871|871. 蘇維思獲提名美國勞工部長 台裔父親做生意經歷促成她為勞權奮戰 | 03/2023]] — 2023-03-28 · B
+- [[works/taiwaneseamericanhistory-org/my-stories-870|870. 台裔作曲家陳士惠獲頒美國藝術文學院音樂獎 | 03/2023]] — 2023-03-28 · B
+- [[works/taiwaneseamericanhistory-org/my-stories-869|869. 楊信：甘苦都忘了 做人比做生意重要 | 02/2023]] — 2023-02-28 · B
+- [[works/taiwaneseamericanhistory-org/my-stories-868|868. USDA Names Simon Liu as New ARS Administrator | 02/2023]] — 2023-02-27 · B
+- [[works/taiwaneseamericanhistory-org/my-stories-867|867. 溫智宇捐UCI 2000萬 蓋診療大樓 來自台灣 父母皆藍領 |01/2023]] — 2023-01-31 · B
+- [[works/taiwaneseamericanhistory-org/my-stories-866|866. 《紐時》讚蕭美琴 ：華府最具影響力的大使 | 01/2023]] — 2023-01-29 · B
+- [[works/taiwaneseamericanhistory-org/my-stories-865|865. 勇闖好萊塢 台裔服裝造型師：一路走來如奇蹟 | 01/2023]] — 2023-01-29 · B
 - [[works/taiwaneseamericanhistory-org/newsletters-of-t-a-archives-2023|Newsletters of T.A. Archives 2023]] — 2023-01-01 · B
-- [[works/taiwaneseamericanhistory-org/my-stories-864|864. 疫情加劇種族對立 旅美藝術家為移民女性發聲 \| 12/2022]] — 2022-12-28 · B
-- [[works/taiwaneseamericanhistory-org/my-stories-863|863. 台生技創業家賴正光捐8億 美大學系所為他改名 \| 12/2022]] — 2022-12-28 · B
-- [[works/taiwaneseamericanhistory-org/my-stories-862|862. 台裔眾議員劉雲平 當選民主黨團副主席 \| 12/2022]] — 2022-12-23 · B
-- [[works/taiwaneseamericanhistory-org/our-journeys-384|384. A Year-end Message from the Founding Director UCSD Taiwan Studies Center \| 12/2022]] — 2022-12-23 · A
-- [[works/taiwaneseamericanhistory-org/my-stories-861|861. 美期中選舉「台灣移民」曲怡文當選 首位在台出生紐約州女參議員、曾任中天編譯 \|11/2022]] — 2022-11-29 · B
-- [[works/taiwaneseamericanhistory-org/my-stories-860|860. 美式中餐霸主Panda Express出身台灣 50年累積逾千億資產 \| 11/2022]] — 2022-11-29 · B
-- [[works/taiwaneseamericanhistory-org/our-journeys-383|383. 2022年全美會回台參訪記(下) \| 11/2022]] — 2022-11-29 · A
-- [[works/taiwaneseamericanhistory-org/our-journeys-382|382.  2022年全美會回台參訪記(上) \| 11/2022]] — 2022-11-28 · A
-- [[works/taiwaneseamericanhistory-org/my-stories-859|859. 台灣工程師推動Meta台語AI翻譯 盼父親溝通無礙 \| 10/2022]] — 2022-10-26 · B
-- [[works/taiwaneseamericanhistory-org/my-stories-858|858. 吳怡農推動緊急應變訓練 入選2022時代雜誌次世代百大人物 \|10/2022]] — 2022-10-26 · B
-- [[works/taiwaneseamericanhistory-org/my-stories-857|857. 周烒明醫師與吳秀惠醫師的故事(下) \| 10/2022]] — 2022-10-25 · B
-- [[works/taiwaneseamericanhistory-org/my-stories-856|856. 周烒明醫師與吳秀惠醫師的故事(上) \| 10/2022]] — 2022-10-25 · B
+- [[works/taiwaneseamericanhistory-org/my-stories-864|864. 疫情加劇種族對立 旅美藝術家為移民女性發聲 | 12/2022]] — 2022-12-28 · B
+- [[works/taiwaneseamericanhistory-org/my-stories-863|863. 台生技創業家賴正光捐8億 美大學系所為他改名 | 12/2022]] — 2022-12-28 · B
+- [[works/taiwaneseamericanhistory-org/my-stories-862|862. 台裔眾議員劉雲平 當選民主黨團副主席 | 12/2022]] — 2022-12-23 · B
+- [[works/taiwaneseamericanhistory-org/our-journeys-384|384. A Year-end Message from the Founding Director UCSD Taiwan Studies Center | 12/2022]] — 2022-12-23 · A
+- [[works/taiwaneseamericanhistory-org/my-stories-861|861. 美期中選舉「台灣移民」曲怡文當選 首位在台出生紐約州女參議員、曾任中天編譯 |11/2022]] — 2022-11-29 · B
+- [[works/taiwaneseamericanhistory-org/my-stories-860|860. 美式中餐霸主Panda Express出身台灣 50年累積逾千億資產 | 11/2022]] — 2022-11-29 · B
+- [[works/taiwaneseamericanhistory-org/our-journeys-383|383. 2022年全美會回台參訪記(下) | 11/2022]] — 2022-11-29 · A
+- [[works/taiwaneseamericanhistory-org/our-journeys-382|382.  2022年全美會回台參訪記(上) | 11/2022]] — 2022-11-28 · A
+- [[works/taiwaneseamericanhistory-org/my-stories-859|859. 台灣工程師推動Meta台語AI翻譯 盼父親溝通無礙 | 10/2022]] — 2022-10-26 · B
+- [[works/taiwaneseamericanhistory-org/my-stories-858|858. 吳怡農推動緊急應變訓練 入選2022時代雜誌次世代百大人物 |10/2022]] — 2022-10-26 · B
+- [[works/taiwaneseamericanhistory-org/my-stories-857|857. 周烒明醫師與吳秀惠醫師的故事(下) | 10/2022]] — 2022-10-25 · B
+- [[works/taiwaneseamericanhistory-org/my-stories-856|856. 周烒明醫師與吳秀惠醫師的故事(上) | 10/2022]] — 2022-10-25 · B
 - [[works/taiwaneseamericanhistory-org/publications-1367|1367. 我的足跡/張幸吉/10/2022/Autobiography/自傳]] — 2022-10-01 · B
 - [[works/taiwaneseamericanhistory-org/publications-1366|1366. 浩劫餘生錄/台美人筆會/10/2022/Literature/文學]] — 2022-10-01 · B
 - [[works/taiwaneseamericanhistory-org/publicatioins-1365|1365. 2021台美文藝/台美人筆會/10/2022/Literature/文學]] — 2022-10-01 · B
-- [[works/taiwaneseamericanhistory-org/my-stories-855|855. 野地的花 (下) \| 09/2022]] — 2022-09-24 · B
-- [[works/taiwaneseamericanhistory-org/my-stories-854|854. 野地的花 (上) \| 09/2022]] — 2022-09-24 · B
-- [[works/taiwaneseamericanhistory-org/my-stories-853|853. 矽谷之夢 (下) – 北加州顏永財與莊和子的故事 \| 09/2022]] — 2022-09-24 · B
-- [[works/taiwaneseamericanhistory-org/my-stories-852|852. 矽谷之夢 (上) – 北加州顏永財與莊和子的故事  \| 09/2022]] — 2022-09-24 · B
-- [[works/taiwaneseamericanhistory-org/my-stories-851|851. 懷念楊東傑醫師-Remembering Dr. Tom Yang \| 08/2022]] — 2022-08-30 · B
-- [[works/taiwaneseamericanhistory-org/my-stories-850|850. 台灣指揮林韡函 獲聘美密蘇里交響樂團音樂總監 \| 08/2022]] — 2022-08-27 · B
-- [[works/taiwaneseamericanhistory-org/my-stories-849|849. 台式鍋貼加州飄香 廚師用料理讓美國食客認識台灣 \| 08/2022]] — 2022-08-27 · B
-- [[works/taiwaneseamericanhistory-org/my-stories-848|848. 僑務委員白越珠獲拜登總統簽發的白宮終身成就獎 \|07/2022]] — 2022-07-28 · B
-- [[works/taiwaneseamericanhistory-org/my-stories-847|847. 台裔朱如茵10歲稱霸小小頂級廚師美國版 超強抗壓性令父母驚豔 \| 07/2022]] — 2022-07-26 · B
-- [[works/taiwaneseamericanhistory-org/my-stories-846|846. 翁啟惠獲頒化學界四面體獎 表揚醣科學開創研究 \| 07/2022]] — 2022-07-26 · B
-- [[works/taiwaneseamericanhistory-org/my-stories-845|845. ‘It’ producer Dan Lin sets up creator accelerator for racial equity in Hollywood \| 07/2022]] — 2022-07-26 · B
-- [[works/taiwaneseamericanhistory-org/my-stories-844|844. 華府馬州青商潛力之星黃彥霖 勇闖北美生物醫療商業領域 \| 07/2022]] — 2022-07-16 · B
-- [[works/taiwaneseamericanhistory-org/my-stories-843|843. 懷念彭明敏教授 -台灣自救兮先知、一代偉人 \| 06/2022]] — 2022-06-30 · B
-- [[works/taiwaneseamericanhistory-org/my-stories-842|842. 吳兆峯：面對詭譎多變世界 台美人責任更大 \| 06/2022]] — 2022-06-30 · B
-- [[works/taiwaneseamericanhistory-org/my-stories-841|841. 驚憾「血案」後的省思 \| 06/2022]] — 2022-06-19 · B
-- [[works/taiwaneseamericanhistory-org/my-stories-840|840. 追思我終身的老師彭明敏 \|06/2022]] — 2022-06-19 · B
-- [[works/taiwaneseamericanhistory-org/our-journeys-381|381. 我的青春在北卡/ 北卡台灣同鄉會50年回顧   \| 06/2022]] — 2022-06-19 · A
-- [[works/taiwaneseamericanhistory-org/my-stories-839|839. 鄭達志醫師告別式  超級英雄備及哀榮 \| 05/2022]] — 2022-05-30 · B
-- [[works/taiwaneseamericanhistory-org/my-stories-838|838. MIT納米大樓以台裔校友蘇姿丰命名 \| 05/2022]] — 2022-05-25 · B
-- [[works/taiwaneseamericanhistory-org/my-stories-837|837. 死裹逃生的目擊者一一記南加州台灣教會槍殺的慘案(一) \| 05/2022]] — 2022-05-25 · B
-- [[works/taiwaneseamericanhistory-org/my-stories-836|836. 南加州教會槍擊案擋彈犧牲 鄭達志醫師視病猶親備受推崇 \| 05/2022]] — 2022-05-23 · B
-- [[works/taiwaneseamericanhistory-org/our-journeys-380|380. Irvine台灣基督長老教會槍擊案 1死5傷 Elderly Taiwanese Church in California Attacked by Shooter\| 05/2022]] — 2022-05-18 · A
-- [[works/taiwaneseamericanhistory-org/my-stories-835|835. 獲選美國國家科學院院士 馬中珮：若外星人進攻 人類勢必合作 \|05/2022]] — 2022-05-12 · B
-- [[works/taiwaneseamericanhistory-org/my-stories-834|834. 中研院丁邦容、馬中珮 獲選美國國家科學院士 \| 05/2022]] — 2022-05-12 · B
-- [[works/taiwaneseamericanhistory-org/my-stories-833|833. A tribute to our  “ 貴人（Benefactor）”  Chung-Hsiu Wu, M.D. （吳忠修） \| 05/2022]] — 2022-05-11 · B
-- [[works/taiwaneseamericanhistory-org/my-stories-832|832. 《母恩似海》 母親節，懷念一位偉大的母親  Mother’s Day in Memory of a Great Mother  \| 04/2022]] — 2022-04-30 · B
-- [[works/taiwaneseamericanhistory-org/my-stories-831|831. 一甲子的交陪，思念彭明敏 \| 04/2022]] — 2022-04-20 · B
-- [[works/taiwaneseamericanhistory-org/my-stories-830|830. 從火車機關士到NASA科學家 馬偕第四代孫柯威霖辭世 \| 04/2022]] — 2022-04-20 · B
-- [[works/taiwaneseamericanhistory-org/my-stories-829|829. 發表台灣自救宣言 台獨教父彭明敏畢生推動民主 \| 04/2022]] — 2022-04-18 · B
-- [[works/taiwaneseamericanhistory-org/my-stories-828|828. 僑務諮詢委員宋明麗 獲福爾摩沙獎章 \| 04/2022]] — 2022-04-01 · B
-- [[works/taiwaneseamericanhistory-org/my-stories-827|827. 小童工拚成CEO 台裔移民疫情下展韌性 \| 03/ 2022]] — 2022-03-22 · B
-- [[works/taiwaneseamericanhistory-org/my-stories-826|826. 新生代台美人胡雯昕 躋身政界為民發聲 \| 03/2022]] — 2022-03-22 · B
-- [[works/taiwaneseamericanhistory-org/my-stories-825|825. 台裔教授喬榮治 獲美醫學生物研究院院士殊榮 \| 02/2022]] — 2022-02-26 · B
-- [[works/taiwaneseamericanhistory-org/my-stories-824|824. 林衡哲撰寫蕭泰然音樂人生全紀錄 滿滿台灣味 \| 02/2022]] — 2022-02-24 · B
-- [[works/taiwaneseamericanhistory-org/publications-1364|1364. 宜中耆老憶往述今–簡忠松專輯 \| 簡忠松 /02/2022/ Autobiography/自傳]] — 2022-02-24 · B
-- [[works/taiwaneseamericanhistory-org/my-stories-823|823.  台裔滑冰選手陳楷雯完美演繹梁祝，冬奧花滑團體賽美國摘銀 \| 02/2022]] — 2022-02-22 · B
-- [[works/taiwaneseamericanhistory-org/my-stories-822|822. My FAPA Stories \| 02/2022]] — 2022-02-07 · B
-- [[works/taiwaneseamericanhistory-org/my-stories-821|821. 我的輪迴轉世積分知多少？ \|  01/2022]] — 2022-01-30 · B
-- [[works/taiwaneseamericanhistory-org/our-journeys-379|379. 十年東南夏令憶感 \| 01/2022]] — 2022-01-26 · A
+- [[works/taiwaneseamericanhistory-org/my-stories-855|855. 野地的花 (下) | 09/2022]] — 2022-09-24 · B
+- [[works/taiwaneseamericanhistory-org/my-stories-854|854. 野地的花 (上) | 09/2022]] — 2022-09-24 · B
+- [[works/taiwaneseamericanhistory-org/my-stories-853|853. 矽谷之夢 (下) – 北加州顏永財與莊和子的故事 | 09/2022]] — 2022-09-24 · B
+- [[works/taiwaneseamericanhistory-org/my-stories-852|852. 矽谷之夢 (上) – 北加州顏永財與莊和子的故事  | 09/2022]] — 2022-09-24 · B
+- [[works/taiwaneseamericanhistory-org/my-stories-851|851. 懷念楊東傑醫師-Remembering Dr. Tom Yang | 08/2022]] — 2022-08-30 · B
+- [[works/taiwaneseamericanhistory-org/my-stories-850|850. 台灣指揮林韡函 獲聘美密蘇里交響樂團音樂總監 | 08/2022]] — 2022-08-27 · B
+- [[works/taiwaneseamericanhistory-org/my-stories-849|849. 台式鍋貼加州飄香 廚師用料理讓美國食客認識台灣 | 08/2022]] — 2022-08-27 · B
+- [[works/taiwaneseamericanhistory-org/my-stories-848|848. 僑務委員白越珠獲拜登總統簽發的白宮終身成就獎 |07/2022]] — 2022-07-28 · B
+- [[works/taiwaneseamericanhistory-org/my-stories-847|847. 台裔朱如茵10歲稱霸小小頂級廚師美國版 超強抗壓性令父母驚豔 | 07/2022]] — 2022-07-26 · B
+- [[works/taiwaneseamericanhistory-org/my-stories-846|846. 翁啟惠獲頒化學界四面體獎 表揚醣科學開創研究 | 07/2022]] — 2022-07-26 · B
+- [[works/taiwaneseamericanhistory-org/my-stories-845|845. ‘It’ producer Dan Lin sets up creator accelerator for racial equity in Hollywood | 07/2022]] — 2022-07-26 · B
+- [[works/taiwaneseamericanhistory-org/my-stories-844|844. 華府馬州青商潛力之星黃彥霖 勇闖北美生物醫療商業領域 | 07/2022]] — 2022-07-16 · B
+- [[works/taiwaneseamericanhistory-org/my-stories-843|843. 懷念彭明敏教授 -台灣自救兮先知、一代偉人 | 06/2022]] — 2022-06-30 · B
+- [[works/taiwaneseamericanhistory-org/my-stories-842|842. 吳兆峯：面對詭譎多變世界 台美人責任更大 | 06/2022]] — 2022-06-30 · B
+- [[works/taiwaneseamericanhistory-org/my-stories-841|841. 驚憾「血案」後的省思 | 06/2022]] — 2022-06-19 · B
+- [[works/taiwaneseamericanhistory-org/my-stories-840|840. 追思我終身的老師彭明敏 |06/2022]] — 2022-06-19 · B
+- [[works/taiwaneseamericanhistory-org/our-journeys-381|381. 我的青春在北卡/ 北卡台灣同鄉會50年回顧   | 06/2022]] — 2022-06-19 · A
+- [[works/taiwaneseamericanhistory-org/my-stories-839|839. 鄭達志醫師告別式  超級英雄備及哀榮 | 05/2022]] — 2022-05-30 · B
+- [[works/taiwaneseamericanhistory-org/my-stories-838|838. MIT納米大樓以台裔校友蘇姿丰命名 | 05/2022]] — 2022-05-25 · B
+- [[works/taiwaneseamericanhistory-org/my-stories-837|837. 死裹逃生的目擊者一一記南加州台灣教會槍殺的慘案(一) | 05/2022]] — 2022-05-25 · B
+- [[works/taiwaneseamericanhistory-org/my-stories-836|836. 南加州教會槍擊案擋彈犧牲 鄭達志醫師視病猶親備受推崇 | 05/2022]] — 2022-05-23 · B
+- [[works/taiwaneseamericanhistory-org/our-journeys-380|380. Irvine台灣基督長老教會槍擊案 1死5傷 Elderly Taiwanese Church in California Attacked by Shooter| 05/2022]] — 2022-05-18 · A
+- [[works/taiwaneseamericanhistory-org/my-stories-835|835. 獲選美國國家科學院院士 馬中珮：若外星人進攻 人類勢必合作 |05/2022]] — 2022-05-12 · B
+- [[works/taiwaneseamericanhistory-org/my-stories-834|834. 中研院丁邦容、馬中珮 獲選美國國家科學院士 | 05/2022]] — 2022-05-12 · B
+- [[works/taiwaneseamericanhistory-org/my-stories-833|833. A tribute to our  “ 貴人（Benefactor）”  Chung-Hsiu Wu, M.D. （吳忠修） | 05/2022]] — 2022-05-11 · B
+- [[works/taiwaneseamericanhistory-org/my-stories-832|832. 《母恩似海》 母親節，懷念一位偉大的母親  Mother’s Day in Memory of a Great Mother  | 04/2022]] — 2022-04-30 · B
+- [[works/taiwaneseamericanhistory-org/my-stories-831|831. 一甲子的交陪，思念彭明敏 | 04/2022]] — 2022-04-20 · B
+- [[works/taiwaneseamericanhistory-org/my-stories-830|830. 從火車機關士到NASA科學家 馬偕第四代孫柯威霖辭世 | 04/2022]] — 2022-04-20 · B
+- [[works/taiwaneseamericanhistory-org/my-stories-829|829. 發表台灣自救宣言 台獨教父彭明敏畢生推動民主 | 04/2022]] — 2022-04-18 · B
+- [[works/taiwaneseamericanhistory-org/my-stories-828|828. 僑務諮詢委員宋明麗 獲福爾摩沙獎章 | 04/2022]] — 2022-04-01 · B
+- [[works/taiwaneseamericanhistory-org/my-stories-827|827. 小童工拚成CEO 台裔移民疫情下展韌性 | 03/ 2022]] — 2022-03-22 · B
+- [[works/taiwaneseamericanhistory-org/my-stories-826|826. 新生代台美人胡雯昕 躋身政界為民發聲 | 03/2022]] — 2022-03-22 · B
+- [[works/taiwaneseamericanhistory-org/my-stories-825|825. 台裔教授喬榮治 獲美醫學生物研究院院士殊榮 | 02/2022]] — 2022-02-26 · B
+- [[works/taiwaneseamericanhistory-org/my-stories-824|824. 林衡哲撰寫蕭泰然音樂人生全紀錄 滿滿台灣味 | 02/2022]] — 2022-02-24 · B
+- [[works/taiwaneseamericanhistory-org/publications-1364|1364. 宜中耆老憶往述今–簡忠松專輯 | 簡忠松 /02/2022/ Autobiography/自傳]] — 2022-02-24 · B
+- [[works/taiwaneseamericanhistory-org/my-stories-823|823.  台裔滑冰選手陳楷雯完美演繹梁祝，冬奧花滑團體賽美國摘銀 | 02/2022]] — 2022-02-22 · B
+- [[works/taiwaneseamericanhistory-org/my-stories-822|822. My FAPA Stories | 02/2022]] — 2022-02-07 · B
+- [[works/taiwaneseamericanhistory-org/my-stories-821|821. 我的輪迴轉世積分知多少？ |  01/2022]] — 2022-01-30 · B
+- [[works/taiwaneseamericanhistory-org/our-journeys-379|379. 十年東南夏令憶感 | 01/2022]] — 2022-01-26 · A
 - [[works/taiwaneseamericanhistory-org/publications-1363|1363. 客家台語詩–試驗試驗集 / 朱真一 / 01/2022/ Literature]] — 2022-01-26 · B
 - [[works/taiwaneseamericanhistory-org/publications-132|1362. 從歷史文化看台灣人尤其客家人的健康問題 / 朱真一 / 01/2022/ Life 生活]] — 2022-01-26 · B
-- [[works/taiwaneseamericanhistory-org/820-e8-8a-9d-e5-8a-a0-e5-93-a5-e9-9d-92-e5-95-86-e6-bd-9b-e5-8a-9b-e4-b9-8b-e6-9|820. 芝加哥青商潛力之星黃聖家打造理財一片天 \| 01/2022]] — 2022-01-22 · B
-- [[works/taiwaneseamericanhistory-org/my-stories-819|819. 放棄SpaceX高薪 台裔工程師轉行「賣披薩」！ \| 01/2022]] — 2022-01-07 · B
-- [[works/taiwaneseamericanhistory-org/my-stories-818|818. 都鐸園與華府建都的故事 \| 01/2022]] — 2022-01-07 · B
+- [[works/taiwaneseamericanhistory-org/820-e8-8a-9d-e5-8a-a0-e5-93-a5-e9-9d-92-e5-95-86-e6-bd-9b-e5-8a-9b-e4-b9-8b-e6-9|820. 芝加哥青商潛力之星黃聖家打造理財一片天 | 01/2022]] — 2022-01-22 · B
+- [[works/taiwaneseamericanhistory-org/my-stories-819|819. 放棄SpaceX高薪 台裔工程師轉行「賣披薩」！ | 01/2022]] — 2022-01-07 · B
+- [[works/taiwaneseamericanhistory-org/my-stories-818|818. 都鐸園與華府建都的故事 | 01/2022]] — 2022-01-07 · B
 - [[works/taiwaneseamericanhistory-org/newsletters-of-t-a-archives-2022|Newsletters of T.A. Archives 2022]] — 2022-01-01 · B
 - [[works/taiwaneseamericanhistory-org/videos-179|179. 灣區台美人歷史系列6 – 灣區臺美人女力的凝聚]] — 2022-01-01 · B
-- [[works/taiwaneseamericanhistory-org/my-stories-817|817. 叫他第一名 台裔青年馬康喆獲美國油畫協會金獎 \| 12/2021]] — 2021-12-20 · B
-- [[works/taiwaneseamericanhistory-org/my-stories-816|816. 蕭清芬在美辭世 蕭美琴悼父親：一生守護台灣本土意識 \|12/2021]] — 2021-12-16 · B
-- [[works/taiwaneseamericanhistory-org/my-stories-815|815. 台裔學者陳仁宜角逐加州主計長 感恩父母支持 \| 12/2021]] — 2021-12-10 · B
+- [[works/taiwaneseamericanhistory-org/my-stories-817|817. 叫他第一名 台裔青年馬康喆獲美國油畫協會金獎 | 12/2021]] — 2021-12-20 · B
+- [[works/taiwaneseamericanhistory-org/my-stories-816|816. 蕭清芬在美辭世 蕭美琴悼父親：一生守護台灣本土意識 |12/2021]] — 2021-12-16 · B
+- [[works/taiwaneseamericanhistory-org/my-stories-815|815. 台裔學者陳仁宜角逐加州主計長 感恩父母支持 | 12/2021]] — 2021-12-10 · B
 - [[works/taiwaneseamericanhistory-org/private-collections-104|104. Collection of the Dr. Emerson M. F. Jou 周明峰醫師的收藏]] — 2021-12-07 · B
-- [[works/taiwaneseamericanhistory-org/my-stories-814|814. 此心安處是吾鄉 \| 11/2021]] — 2021-11-30 · B
-- [[works/taiwaneseamericanhistory-org/my-stories-813|813. 李應元爽朗笑容成追憶 活躍政壇30年以高EQ、好人緣著稱 \| 11/2021]] — 2021-11-24 · B
+- [[works/taiwaneseamericanhistory-org/my-stories-814|814. 此心安處是吾鄉 | 11/2021]] — 2021-11-30 · B
+- [[works/taiwaneseamericanhistory-org/my-stories-813|813. 李應元爽朗笑容成追憶 活躍政壇30年以高EQ、好人緣著稱 | 11/2021]] — 2021-11-24 · B
 - [[works/taiwaneseamericanhistory-org/publications1361|1361. 晚霞滿天 / 周明峰 / 06/2021/Life/生活]] — 2021-11-23 · B
 - [[works/taiwaneseamericanhistory-org/publications-1360|1360. 大華府台美人長樂會 2019-2021 年刊]] — 2021-11-18 · B
-- [[works/taiwaneseamericanhistory-org/my-stories-812|812. 美國台裔夫妻創業 MIT「快樂口罩」開學季秒殺 \| 11/2021]] — 2021-11-08 · B
-- [[works/taiwaneseamericanhistory-org/my-stories-811|811. 美國追夢的前奏曲 \| 11/2021]] — 2021-11-08 · B
-- [[works/taiwaneseamericanhistory-org/my-stories-810|810. 良知不死–紀念好友梅心怡 \| 11/2021]] — 2021-11-04 · B
-- [[works/taiwaneseamericanhistory-org/my-stories-809|809. 台裔吳弭角逐波士頓市長 家庭劇變母親患病讓她意外踏入政壇 \| 10/2021]] — 2021-10-29 · B
+- [[works/taiwaneseamericanhistory-org/my-stories-812|812. 美國台裔夫妻創業 MIT「快樂口罩」開學季秒殺 | 11/2021]] — 2021-11-08 · B
+- [[works/taiwaneseamericanhistory-org/my-stories-811|811. 美國追夢的前奏曲 | 11/2021]] — 2021-11-08 · B
+- [[works/taiwaneseamericanhistory-org/my-stories-810|810. 良知不死–紀念好友梅心怡 | 11/2021]] — 2021-11-04 · B
+- [[works/taiwaneseamericanhistory-org/my-stories-809|809. 台裔吳弭角逐波士頓市長 家庭劇變母親患病讓她意外踏入政壇 | 10/2021]] — 2021-10-29 · B
 - [[works/taiwaneseamericanhistory-org/videos-178|178. 灣區台美人歷史系列5-台灣協志會 48 年]] — 2021-10-29 · B
 - [[works/taiwaneseamericanhistory-org/videos-177|177. 灣區台美人歷史系列4-阮二人所參加的獨立運動 / 我在美國社區做義工的經驗談]] — 2021-10-29 · B
 - [[works/taiwaneseamericanhistory-org/akron-ohio-chapter-taa|Akron, Ohio Chapter / TAA 阿克隆台灣同鄉會]] — 2021-10-27 · B
-- [[works/taiwaneseamericanhistory-org/our-journeys-378|378. 芝加哥台灣同鄉會50年的歳月 \| 10/2021]] — 2021-10-19 · A
-- [[works/taiwaneseamericanhistory-org/my-stories-808|808. 兩位傑岀的第二代台美人 \| 10/2021]] — 2021-10-13 · B
+- [[works/taiwaneseamericanhistory-org/our-journeys-378|378. 芝加哥台灣同鄉會50年的歳月 | 10/2021]] — 2021-10-19 · A
+- [[works/taiwaneseamericanhistory-org/my-stories-808|808. 兩位傑岀的第二代台美人 | 10/2021]] — 2021-10-13 · B
 - [[works/taiwaneseamericanhistory-org/award-79|79.  Jensen Huang, Time’s 100 Most Influential People of 2021]] — 2021-10-11 · B
-- [[works/taiwaneseamericanhistory-org/our-journeys-377|377. 回憶一九八一年TAF青少年夏令營 \| 10/2021]] — 2021-10-11 · A
-- [[works/taiwaneseamericanhistory-org/my-stories-807|807. 悼先夫——鄭寶鼎 \| 10/2021]] — 2021-10-08 · B
-- [[works/taiwaneseamericanhistory-org/my-stories-806|806. 台裔青年船長 創新直售阿拉斯加鮭魚 \| 09/2021]] — 2021-09-27 · B
-- [[works/taiwaneseamericanhistory-org/my-stories-805|805. 獨家／蘇姿丰－永遠的先鋒　來自台灣的矽谷半導體女王傳奇 \| 09/2021]] — 2021-09-24 · B
-- [[works/taiwaneseamericanhistory-org/my-stories-804|804. 洛臺館副董事長蔡漢成服務鄉親數十年 \| 09/2021]] — 2021-09-24 · B
+- [[works/taiwaneseamericanhistory-org/our-journeys-377|377. 回憶一九八一年TAF青少年夏令營 | 10/2021]] — 2021-10-11 · A
+- [[works/taiwaneseamericanhistory-org/my-stories-807|807. 悼先夫——鄭寶鼎 | 10/2021]] — 2021-10-08 · B
+- [[works/taiwaneseamericanhistory-org/my-stories-806|806. 台裔青年船長 創新直售阿拉斯加鮭魚 | 09/2021]] — 2021-09-27 · B
+- [[works/taiwaneseamericanhistory-org/my-stories-805|805. 獨家／蘇姿丰－永遠的先鋒　來自台灣的矽谷半導體女王傳奇 | 09/2021]] — 2021-09-24 · B
+- [[works/taiwaneseamericanhistory-org/my-stories-804|804. 洛臺館副董事長蔡漢成服務鄉親數十年 | 09/2021]] — 2021-09-24 · B
 - [[works/taiwaneseamericanhistory-org/videos-176|176. 灣區台美人歷史系列3- 半杯水的驅使，半世紀參與台灣人民主運動暨職場奮鬥心路歷程]] — 2021-09-11 · B
 - [[works/taiwaneseamericanhistory-org/publications-1359|1359. 府城南廠物語 ｜ 北加州東灣台美人長樂會-第五集/09/2021]] — 2021-09-11 · B
-- [[works/taiwaneseamericanhistory-org/my-stories-803|803. 林榮松：行醫救人 一心為臺灣 \| 09/2021]] — 2021-09-09 · B
-- [[works/taiwaneseamericanhistory-org/my-stories-802|802. 台灣第一人 翁啟惠獲頒威爾許化學獎 \| 09/2021]] — 2021-09-08 · B
-- [[works/taiwaneseamericanhistory-org/my-stories-801|801. 從窮孩子到億萬富豪 洛臺美人楊信分享創業路 \| 09/2021]] — 2021-09-08 · B
+- [[works/taiwaneseamericanhistory-org/my-stories-803|803. 林榮松：行醫救人 一心為臺灣 | 09/2021]] — 2021-09-09 · B
+- [[works/taiwaneseamericanhistory-org/my-stories-802|802. 台灣第一人 翁啟惠獲頒威爾許化學獎 | 09/2021]] — 2021-09-08 · B
+- [[works/taiwaneseamericanhistory-org/my-stories-801|801. 從窮孩子到億萬富豪 洛臺美人楊信分享創業路 | 09/2021]] — 2021-09-08 · B
 - [[works/taiwaneseamericanhistory-org/videos-175|175. 灣區台美人歷史系列2–八五憶往: 一位留美拓荒者, 服務臺美人社區之回顧]] — 2021-09-08 · B
 - [[works/taiwaneseamericanhistory-org/videos-174|174. 灣區台美人歷史系列1–History of NCFF (TAFNC) & BATAA]] — 2021-09-08 · B
 - [[works/taiwaneseamericanhistory-org/publications1358|1358. 山中燈火入夢來/劉照男/05/2021/Autobiography/自傳]] — 2021-09-07 · B
 - [[works/taiwaneseamericanhistory-org/our-journeys-376|376. 中西部台灣人夏令會簡史 ｜ 08/2021]] — 2021-08-30 · A
-- [[works/taiwaneseamericanhistory-org/my-stories-800|800. The Laurel Award for Health Equity – Dr. Tsu-Yin Wu \| 08/2021]] — 2021-08-23 · B
+- [[works/taiwaneseamericanhistory-org/my-stories-800|800. The Laurel Award for Health Equity – Dr. Tsu-Yin Wu | 08/2021]] — 2021-08-23 · B
 - [[works/taiwaneseamericanhistory-org/artifacts-83|83. Vote Tsai Ing-wen for President 2016 – Vest and Flag]] — 2021-08-21 · B
 - [[works/taiwaneseamericanhistory-org/musical-concerts-174|174. TACEA Annual Concerts 博愛慈善音樂會]] — 2021-08-21 · B
 - [[works/taiwaneseamericanhistory-org/cultural-musical-concerts-173|173. Voices from Taiwan – a Formosa Singers Concert 2018]] — 2021-08-19 · B
 - [[works/taiwaneseamericanhistory-org/publications-1357|1357. 休士頓台美人50週年特刊/07/2021]] — 2021-08-19 · B
 - [[works/taiwaneseamericanhistory-org/publications-1356|1356. 莊承業的回憶錄 / 莊承業 /06/2021/Autobiography/自傳]] — 2021-08-19 · B
 - [[works/taiwaneseamericanhistory-org/artifacts-82|82. Enoch Wu Campaign Materials and Gifts for 2020 Legislator 吳怡農2020立法委員競選文宣品與贈品]] — 2021-08-17 · B
-- [[works/taiwaneseamericanhistory-org/my-stories-799|799. 台灣教授領軍 奈米晶片抓出孕婦生產致命因子 \| 08/2021]] — 2021-08-17 · B
-- [[works/taiwaneseamericanhistory-org/my-stories-798|798. 悼PSA發明者王敏昌 \| 08/2021]] — 2021-08-17 · B
-- [[works/taiwaneseamericanhistory-org/our-journeys-375|375. 1983年李登輝訪問紐約州首府 \| 08/2021]] — 2021-08-17 · A
+- [[works/taiwaneseamericanhistory-org/my-stories-799|799. 台灣教授領軍 奈米晶片抓出孕婦生產致命因子 | 08/2021]] — 2021-08-17 · B
+- [[works/taiwaneseamericanhistory-org/my-stories-798|798. 悼PSA發明者王敏昌 | 08/2021]] — 2021-08-17 · B
+- [[works/taiwaneseamericanhistory-org/our-journeys-375|375. 1983年李登輝訪問紐約州首府 | 08/2021]] — 2021-08-17 · A
 - [[works/taiwaneseamericanhistory-org/videos-173|173. 50年薪火相傳，談台美人的形成和延續]] — 2021-08-17 · B
 - [[works/taiwaneseamericanhistory-org/whos-who-2321-stanley-sun|2321. Stanley Sun 孫獻祥]] — 2021-08-05 · B
 - [[works/taiwaneseamericanhistory-org/publications1355|1355. 九隻羊的心靈札記 / 楊玖之 /03/2021/Autobiography/自傳]] — 2021-08-03 · B
-- [[works/taiwaneseamericanhistory-org/my-stories-797|797. HELLO TAIWAN行動 紐約台僑江明信牽成愛台善循環 \| 07/2021]] — 2021-07-23 · B
-- [[works/taiwaneseamericanhistory-org/publications-1354|1354. Surging Tides: A Journey for Independence \| 張郁彬 \| 07/2021]] — 2021-07-23 · A
-- [[works/taiwaneseamericanhistory-org/my-stories-796|796. 最思念，故鄉人！美疫苗贈台倍增幕後功臣 童振源透露是這些台僑默默奔走幫建功 \| 07/2021]] — 2021-07-20 · B
-- [[works/taiwaneseamericanhistory-org/my-stories-795|795. A Big Thanks to Stanley Sun from USS Hornet- Sea, Air and Space Museum! \| 07/2021]] — 2021-07-20 · B
-- [[works/taiwaneseamericanhistory-org/our-journeys-374|374. “We are not puppies, we are who we are”: A Voice from the Indigenous Taiwanese Diaspora \| 06/2021]] — 2021-06-24 · A
-- [[works/taiwaneseamericanhistory-org/our-journeys-373|373. The Overseas Taiwanese Student Movement And Its Impact on Post-Sunflower Movement Politics \| 06/2021]] — 2021-06-24 · A
-- [[works/taiwaneseamericanhistory-org/our-journeys-372|372. Reinscribing Taiwanese Americans into Transpacific History \| 06/2021]] — 2021-06-24 · A
-- [[works/taiwaneseamericanhistory-org/my-stories-794|794. A Pioneer for Princeton Women, Fifty Years on – Taiwanese woman was the first female received a Princeton Ph. D. \| 06/2021]] — 2021-06-22 · B
-- [[works/taiwaneseamericanhistory-org/our-journeys-371|371. ２０２１立足在地交流國際 \| 06/2021]] — 2021-06-08 · A
-- [[works/taiwaneseamericanhistory-org/my-stories-793|793. 加州大學聖地牙哥分校 校友陳秋山 捐母校500萬創建台灣中心 \| $5 Million Gift to Establish New Center for Taiwan Studies \| 05/2021]] — 2021-05-26 · B
-- [[works/taiwaneseamericanhistory-org/publications-1353|1353. 施哲三 油畫、雕塑、瓷品及織錦 \| 施哲三海嵐美術館 \| 05/2021]] — 2021-05-26 · B
+- [[works/taiwaneseamericanhistory-org/my-stories-797|797. HELLO TAIWAN行動 紐約台僑江明信牽成愛台善循環 | 07/2021]] — 2021-07-23 · B
+- [[works/taiwaneseamericanhistory-org/publications-1354|1354. Surging Tides: A Journey for Independence | 張郁彬 | 07/2021]] — 2021-07-23 · A
+- [[works/taiwaneseamericanhistory-org/my-stories-796|796. 最思念，故鄉人！美疫苗贈台倍增幕後功臣 童振源透露是這些台僑默默奔走幫建功 | 07/2021]] — 2021-07-20 · B
+- [[works/taiwaneseamericanhistory-org/my-stories-795|795. A Big Thanks to Stanley Sun from USS Hornet- Sea, Air and Space Museum! | 07/2021]] — 2021-07-20 · B
+- [[works/taiwaneseamericanhistory-org/our-journeys-374|374. “We are not puppies, we are who we are”: A Voice from the Indigenous Taiwanese Diaspora | 06/2021]] — 2021-06-24 · A
+- [[works/taiwaneseamericanhistory-org/our-journeys-373|373. The Overseas Taiwanese Student Movement And Its Impact on Post-Sunflower Movement Politics | 06/2021]] — 2021-06-24 · A
+- [[works/taiwaneseamericanhistory-org/our-journeys-372|372. Reinscribing Taiwanese Americans into Transpacific History | 06/2021]] — 2021-06-24 · A
+- [[works/taiwaneseamericanhistory-org/my-stories-794|794. A Pioneer for Princeton Women, Fifty Years on – Taiwanese woman was the first female received a Princeton Ph. D. | 06/2021]] — 2021-06-22 · B
+- [[works/taiwaneseamericanhistory-org/our-journeys-371|371. ２０２１立足在地交流國際 | 06/2021]] — 2021-06-08 · A
+- [[works/taiwaneseamericanhistory-org/my-stories-793|793. 加州大學聖地牙哥分校 校友陳秋山 捐母校500萬創建台灣中心 | $5 Million Gift to Establish New Center for Taiwan Studies | 05/2021]] — 2021-05-26 · B
+- [[works/taiwaneseamericanhistory-org/publications-1353|1353. 施哲三 油畫、雕塑、瓷品及織錦 | 施哲三海嵐美術館 | 05/2021]] — 2021-05-26 · B
 - [[works/taiwaneseamericanhistory-org/my-stories-792|792. 加州台裔科技人扮演「柯南」 精準定位救迷路登山客/A hiker was lost and desperate. A stranger with an unusual hobby saved him/04/2021]] — 2021-04-29 · B
 - [[works/taiwaneseamericanhistory-org/whos-who-2320-hui-na-lin|2320. Hui Na Lin 賴慧娜]] — 2021-04-28 · B
 - [[works/taiwaneseamericanhistory-org/our-journeys-370|370. FAPA TX-C中徳州分會記事  2018- /Pearl Wu]] — 2021-04-27 · A
@@ -3590,7 +3590,7 @@ A 379 · B 9358 · C 0 · total 9737 — full list, never truncated.
 - [[works/taiwaneseamericanhistory-org/ourfootsteps-28|28. Nature Is My Studio By Artist Chao-Min Liu(劉兆民)/2019]] — 2019-04-28 · B
 - [[works/taiwaneseamericanhistory-org/whos-who-2181-ben-mezrich|2181. Ben Mezrich 賓梅立克]] — 2019-04-28 · B
 - [[works/taiwaneseamericanhistory-org/whos-who-2180-tonya-c-mezrich|2180. Tonya C Mezrich 陳糖亞]] — 2019-04-28 · B
-- [[works/taiwaneseamericanhistory-org/our-journeys-347|347. 來去美國：從大量高技術移民到穩定地多樣化交流 \| “Going to America”: An Overview on Taiwanese Migration to the US \| 06/2021 (updated)]] — 2019-04-27 · A
+- [[works/taiwaneseamericanhistory-org/our-journeys-347|347. 來去美國：從大量高技術移民到穩定地多樣化交流 | “Going to America”: An Overview on Taiwanese Migration to the US | 06/2021 (updated)]] — 2019-04-27 · A
 - [[works/taiwaneseamericanhistory-org/vedios142|142. Taiwanese American Immigration History 早期台灣留美學生移民史-英文版04/2019]] — 2019-04-25 · B
 - [[works/taiwaneseamericanhistory-org/photo-albums-activities-141|141. In Memory of Mrs. Min-Mei Wu Chen 吳明美 生命的禮讚]] — 2019-04-25 · B
 - [[works/taiwaneseamericanhistory-org/346-history-of-formosan-club-at-madison-wisconsin|346. History of FORMOSAN Club at Madison, Wisconsin]] — 2019-04-23 · B
@@ -3920,7 +3920,7 @@ A 379 · B 9358 · C 0 · total 9737 — full list, never truncated.
 - [[works/taiwaneseamericanhistory-org/157-dr-mike-kuo|157. Dr. Mike Kuo 郭正光博士]] — 2018-10-24 · B
 - [[works/taiwaneseamericanhistory-org/380-dr-george-tseng|380. The First Taiwanese American to Throw the First Pitch of the U. S. Major League Baseball/Miami Marlins: Dr. George Tseng in Miami FL 07/29/2016]] — 2018-10-23 · B
 - [[works/taiwaneseamericanhistory-org/128-pitch-dr-george-tseng|128. The Ceremonial First Pitch of the U.S. Major League Baseball/Miami Marlins by Dr. George Tseng 07/29/2016 Miami/FL]] — 2018-10-23 · B
-- [[works/taiwaneseamericanhistory-org/127-late-life|127. LATE LIFE: THE CHIEN-MING WANG STORY \| 後勁：王建民 \| OFFICIAL TEASER]] — 2018-10-22 · B
+- [[works/taiwaneseamericanhistory-org/127-late-life|127. LATE LIFE: THE CHIEN-MING WANG STORY | 後勁：王建民 | OFFICIAL TEASER]] — 2018-10-22 · B
 - [[works/taiwaneseamericanhistory-org/whos-who-2166-michelle-wu|2166. Michelle Wu 吳彌]] — 2018-10-21 · B
 - [[works/taiwaneseamericanhistory-org/whos-who-2165-ming-j-lee|2165. Dr. Ming J. Lee 李銘正博士]] — 2018-10-21 · B
 - [[works/taiwaneseamericanhistory-org/156-dr-jian-juei-wang|156. Dr. Jian-Juei Wang 王健椎博士]] — 2018-10-21 · B

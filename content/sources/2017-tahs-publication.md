@@ -84,6 +84,6 @@ This publication's 22 profiles have been migrated into **Echopedia** as living p
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||Taiwanese American Historical Society (TAHS)]]
-- [[echopedia||Echopedia — Community Knowledge Hub]]
+- Echopedia — Community Knowledge Hub
 - [[people/yang-jia-you||楊嘉猷 (Charles Yang)]]
 - [[people/liao-shu-zong||廖述宗]]

@@ -44,7 +44,7 @@ Accomplishment
 - 1932 出生，台灣台中
 - 1957 畢業於台南神學院
 - 1962 太平洋神學院（Pacific School of Religion）
-- 1967 舊金山神學院（[[organizations/san-francisco-theological-seminary|San Francisco Theological Seminary]]）；協助建立 [[organizations/formosan-presbyterian-church-in-los-angeles|洛杉磯台教會 FPCLA]]
+- 1967 舊金山神學院（[[people/san-francisco-theological-seminary|San Francisco Theological Seminary]]）；協助建立 [[organizations/formosan-presbyterian-church-in-los-angeles|洛杉磯台教會 FPCLA]]
 - 1967–1971 Fresno Methodist Church 牧師
 - 1973–1985 Methodist Asian Church 事工總監
 - 1985–1991 Berkeley Methodist Church 主任牧師
