@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-26
+last_reviewed: 2026-09-27
 ---
 # Prof. James C. Liao (廖俊智教授)
 
@@ -59,3 +59,4 @@ last_reviewed: 2026-09-26
 - 2020-03-26 — as Academia Sinica president, held a video conference with Eva Zažímalová, president of the Czech Academy of Sciences, on epidemic-prevention cooperation, ahead of the Taiwan–Czech joint epidemic statement — recorded in the Taiwan Justice article [[articles/taiwanjustice-net/2026/20260112182623_歐洲第一國_捷克和台灣簽署防疫聯合聲明台灣致_964f4264f55a1f8b|歐洲第一國！捷克和台灣簽署防疫聯合聲明]].
 - 2021-04-07 — witnessed the 錢復資料捐贈典禮 at Academia Sinica (前監察院長錢復 donated ~40 years, 200+ boxes of archives to 近史所檔案館); 廖俊智 noted 錢復's deep ties to AS (father 錢思亮 former AS president, brother 錢煦 academician) — recorded in [[articles/taiwanjustice-net/2021/20210415102350_2021_04_07_錢復捐贈中研院近40年檔案_含斷交_華府政要往來_e19a8e02acd8de89|錢復捐贈中研院近40年檔案]].
 - Corpus re-grep 2026-09-26 (slice 09260500-24): works/ hit set unchanged (107, 1081, mystories239, important2016-22, my-stories-879 + index); articles/ yielded two new absorbable mentions (above), now linked and absorbed.
+- Corpus re-grep 2026-09-27 (slice 09260500-24 retry): hit set identical (107, 1081, mystories239, important2016-22, my-stories-879 + two taiwanjustice articles already absorbed above). Verified-saturated, no new absorbable facts (SKIP-with-reason).

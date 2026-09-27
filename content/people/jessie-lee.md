@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-26
+last_reviewed: 2026-09-27
 ---
 # Jessie Lee (李潔晞)
 
@@ -53,3 +53,4 @@ _No filled family fields on the TAH profile._
 - Corpus re-grep 2026-09-24 (slice 09230500-27): 李潔晞/Jessie Lee scan of works+articles returns the identical set (TAH #2083, NATWA2con, index) — no new coverage. Verified-saturated.
 - Corpus re-grep 2026-09-25 (slice 09240500-20): 李潔晞/Jessie Lee scan of works+articles returns the identical set (TAH #2083, NATWA2con, index) — no new coverage; the film-attribution HOLD above stands. Verified-saturated.
 - Corpus re-grep 2026-09-25 (slice 09250800-16): identical hit set (TAH #2083, NATWA2con) — no new coverage; HOLD stands. Verified-saturated.
+- Corpus re-grep 2026-09-27 (slice 09260500-27): identical hit set (TAH #2083, NATWA2con, index) — no new coverage; the film-attribution HOLD stands. Verified-saturated.

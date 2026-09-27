@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-26
+last_reviewed: 2026-09-27
 ---
 # Marisa Lin (陳麗雲)
 
@@ -46,6 +46,7 @@ last_reviewed: 2026-09-26
 - Corpus re-check 2026-09-25 (deepen-x slice 09240800-4): fresh grep 陳麗雲 / Marisa Lin — identical hit set; our-journeys-389 會長名录 and 輪流會長 volunteer list re-read, consistent with absorbed facts (no 陳麗雲 entry among 歷任會長 — she appears only as rotating volunteer). SKIP-deepen; verified-saturated.
 - Corpus re-check 2026-09-26 (deepen-x slice 09251000-18): fresh grep 陳麗雲 / Marisa Lin — identical hit set (#798, our-journeys-389, works index); all rotating-volunteer, troupe-reception, and Palladium facts already absorbed. SKIP-deepen; verified-saturated.
 - Corpus re-check 2026-09-26 (deepen-x slice 09260500-21): fresh grep 陳麗雲 / Marisa Lin — identical hit set; 389 body context re-read (2009 後六人輪流會長 volunteer list, 旅館迎接舞團 record) — consistent, fully absorbed. SKIP-deepen; verified-saturated.
+- Corpus re-check 2026-09-27 (slice 09260500-21 worker retry): fresh grep 陳麗雲 / Marisa Lin — identical hit set (#798, our-journeys-389, works index). SKIP-deepen; verified-saturated.
 
 ## Sources
 - [TAH #798 encyclopedia: 798. Marisa Lin 陳麗雲/ 2016/02](https://taiwaneseamericanhistory.org/798-marisa-lin-%e9%99%b3%e9%ba%97%e9%9b%b2-201602/)
