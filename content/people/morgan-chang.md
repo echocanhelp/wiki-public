@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-27
 ---
 # Morgan Chang (張富雄)
 
@@ -66,6 +66,8 @@ Accomplishment
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 ## From the record
+
+- 覆核（TJJ-A09260500-8, 2026-09-27）：slice 文章 c082b03671e7c8ee 正文再驗證——慈林「撕開黑幕的光」聯展 CNA 報導（2024-06-08）：張富雄1977年創立台灣之音之記述再確認見於正文，subject 連結為真，無錯鏈、無虛鏈；含該文 wikilink 的日期事實條目已在庫 — SKIP，已飽和。
 
 - 覆核（TJJ-A09251300-3, 2026-09-26）：本 slice 文章 c082b03671e7c8ee（慈林「撕開黑幕的光」聯展 CNA 報導, 2024-06-08）正文再驗證——subject 連結為真實提及，無錯鏈、無虛鏈；含該文 wikilink 的 2024-06-08 條目已在庫 — SKIP，已飽和。
 

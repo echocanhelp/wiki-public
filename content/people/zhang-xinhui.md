@@ -8,7 +8,7 @@ tags:
   - taiwanjustice
   - publication-contributor
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-27
 ---
 
 # Chang Hsin-hui / 張信惠
@@ -41,6 +41,8 @@ Top 6 articles from taiwanjustice.net mentioning zhang-xinhui:
    - Score: 155
 
 ## From the record
+
+- 覆核（TJJ-A09260500-8, 2026-09-27）：slice 文章 a1be6b822ac7cdcd 正文再驗證——圓滿的100（2022-01-10 刊）：張信惠為葉思雅伉儷之一、與 grace-h-yeh 別名頁同人；正文記述再確認，subject 連結為真，無錯鏈、無虛鏈；含該文 wikilink 的日期事實條目已在庫 — SKIP，已飽和。
 
 - 覆核（TJJ-A09260400-26, 2026-09-26）：本 slice 文章 a244776e9eb57979（會館台灣學校音樂欣賞課報導） 正文再驗證——subject 連結為真實提及，無錯鏈、無虛鏈；含該文 wikilink 的日期事實條目已在庫 — SKIP，已飽和。
 

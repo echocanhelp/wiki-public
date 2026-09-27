@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-26
+last_reviewed: 2026-09-27
 ---
 # Miaw Shang Su Lin (林蘇妙香)
 
@@ -38,6 +38,8 @@ The 台美史料中心 March 2021 newsletter reprinted Ken Lee's memorial essay 
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/miaw-shang-su-lin/)
 
 ## From the record
+
+- 覆核（TJJ-A09260500-8, 2026-09-27）：slice 文章 0832558e3b4e5ac7 正文再驗證——台美史料中心 March 2021 Newsletter：蘇妙香（「病西施」一文主角）再確認見於正文，subject 連結為真，無錯鏈、無虛鏈；含該文 wikilink 的日期事實條目已在庫 — SKIP，已飽和。
 
 - 覆核（TJJ-A09251300-3, 2026-09-26）：本 slice 兩份同文文章 0832558e3b4e5ac7 / b7327dcf888cee82（台美史料中心 March 2021 Newsletter）正文再驗證——subject 連結為真實提及，無錯鏈、無虛鏈；含兩文 wikilink 的 2021-02-28 條目已在庫 — SKIP，已飽和。
 

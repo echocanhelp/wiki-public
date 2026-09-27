@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-27
 ---
 # Prof. Ming Liang Lee (李明亮)
 
@@ -79,6 +79,8 @@ TAH records held in this vault:
 
 
 ## From the record
+
+- 覆核（TJJ-A09260500-8, 2026-09-27）：slice 文章 a1be6b822ac7cdcd 正文再驗證——圓滿的100（2022-01-10 刊）：李明亮醫師代表伉儷赴台南致詞觀禮之追述再確認見於正文，subject 連結為真，無錯鏈、無虛鏈；含該文 wikilink 的日期事實條目已在庫 — SKIP，已飽和。
 
 - 複核（TJJ-A09251400-1, 2026-09-26）：slice 文章 77b0891ec24689f9（週末漫談音樂(88) 信雅古典音樂珍藏啟用儀式致詞, 2021-10-16）正文再驗證——「醫學院同班同學李明亮醫師從台北專程來台南代表我們參加儀式」確認見於正文，subject 連結為真，無錯鏈、無虛鏈；2021-10-15 條目（含該文 wikilink）已在庫 — SKIP，已飽和。
 

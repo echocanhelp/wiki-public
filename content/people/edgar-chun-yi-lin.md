@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-14
+last_reviewed: 2026-09-27
 ---
 # Prof. Jun-Yi Lin (林俊義教授)
 
@@ -64,6 +64,8 @@ The TAH archive carries this person under both romanizations — Edgar (TAH #174
 - Graduate-school context: [[organizations/taiwanese-association-of-indiana||Taiwanese Association of Indiana]] as community context at Indiana Univ., where he took his M.S. and Ph.D. in Biology.
 
 ## From the record
+
+- 覆核（TJJ-A09260500-8, 2026-09-27）：slice 文章 0832558e3b4e5ac7 正文再驗證——台美史料中心 March 2021 Newsletter：林俊義「活出淋漓盡致的生命」再確認見於正文，subject 連結為真，無錯鏈、無虛鏈；含該文 wikilink 的日期事實條目已在庫 — SKIP，已飽和。
 
 - 覆核（TJJ-A09251300-3, 2026-09-26）：本 slice 兩份同文文章 0832558e3b4e5ac7 / b7327dcf888cee82（台美史料中心 March 2021 Newsletter）正文再驗證——subject 連結為真實提及，無錯鏈、無虛鏈；含兩文 wikilink 的 2021-02-28 條目已在庫 — SKIP，已飽和。
 

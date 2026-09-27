@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-27
 ---
 # Yung Hwa Hsu (許永華)
 
@@ -77,6 +77,8 @@ Both TAH encyclopedia records (#170, #298) and his papers collection are absorbe
 - 其餘結論維持上輪：僱主、學校、Chen Wen-Cheng 基金會與 WFTA 以外組織仍無 vault 頁面，不加死連結；無新建頁面、未上網、無虛構事蹟。
 
 ## From the record
+
+- 覆核（TJJ-A09260500-8, 2026-09-27）：slice 文章 0832558e3b4e5ac7 正文再驗證——台美史料中心 March 2021 Newsletter：許永華撰「由陳文成紀念基金會的創立談起」再確認見於正文，subject 連結為真，無錯鏈、無虛鏈；含該文 wikilink 的日期事實條目已在庫 — SKIP，已飽和。
 
 - 覆核（TJJ-A09251300-3, 2026-09-26）：本 slice 兩份同文文章 0832558e3b4e5ac7 / b7327dcf888cee82（台美史料中心 March 2021 Newsletter）正文再驗證——subject 連結為真實提及，無錯鏈、無虛鏈；含兩文 wikilink 的 2021-02-28 條目已在庫 — SKIP，已飽和。
 

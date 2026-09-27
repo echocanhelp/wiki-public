@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-27
 ---
 # Jensen Huang (黃仁勳)
 
@@ -48,6 +48,8 @@ Jensen Huang founded NVIDIA in 1993 and has served since its inception as presid
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/jensen-huang/)
 
 ## From the record
+
+- 覆核（TJJ-A09260500-8, 2026-09-27）：slice 文章 483521594640641a 正文再驗證——紐約台灣會館交接 CNA 報導（2021-04-07）：黃仁勳為蘇春槐表弟之記述再確認見於正文，subject 連結為真，無錯鏈、無虛鏈；含該文 wikilink 的日期事實條目已在庫 — SKIP，已飽和。
 
 - 覆核（TJJ-A09251300-3, 2026-09-26）：本 slice 文章 483521594640641a（紐約台灣會館蘇春槐接任理事長 CNA 報導, 2021-04-07）正文再驗證——subject 連結為真實提及，無錯鏈、無虛鏈；含該文 wikilink 的 2021-04-07 條目已在庫 — SKIP，已飽和。
 

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-09-27
 ---
 # Hui Na Lin (賴慧娜)
 
@@ -45,6 +45,8 @@ _No filled family fields on the TAH profile._
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/hui-na-lin/)
 
 ## From the record
+
+- 覆核（TJJ-A09260500-8, 2026-09-27）：slice 文章 a1be6b822ac7cdcd 正文再驗證——圓滿的100（2022-01-10 刊）：賴慧娜連袂拜訪致賀並作水果派之記述再確認見於正文，subject 連結為真，無錯鏈、無虛鏈；含該文 wikilink 的日期事實條目已在庫 — SKIP，已飽和。
 
 
 - 覆核（TJJ-A09260400-19, 2026-09-26）：本 slice 文章 c9dd9fb7（Covid-19 浩劫餘生錄分類頁, 2021-11-29 快照）正文再驗證——subject 連結為真實提及（文章標題署名見於正文列表），無錯鏈、無虛鏈；含該文 wikilink 的日期事實已在庫 — SKIP，已飽和。

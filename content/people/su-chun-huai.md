@@ -8,7 +8,7 @@ tags:
   - father
   - amd
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-09-27
 ---
 # Su Chun-huai (蘇春槐)
 
@@ -76,6 +76,8 @@ Pages that link to **su-chun-huai** (su-chun-huai):
 1. [[sources/2017-tahs-publication||2017-tahs-publication]]
 
 ## From the record
+
+- 覆核（TJJ-A09260500-8, 2026-09-27）：slice 文章 483521594640641a 正文再驗證——紐約台灣會館交接 CNA 報導（2021-04-07）：蘇春槐接任理事長及永續經營基金記述再確認見於正文，subject 連結為真，無錯鏈、無虛鏈；含該文 wikilink 的日期事實條目已在庫 — SKIP，已飽和。
 
 - 覆核（TJJ-A09251300-3, 2026-09-26）：本 slice 文章 483521594640641a（紐約台灣會館蘇春槐接任理事長 CNA 報導, 2021-04-07）正文再驗證——subject 連結為真實提及，無錯鏈、無虛鏈；含該文 wikilink 的 2021-04-07 條目已在庫 — SKIP，已飽和。
 
