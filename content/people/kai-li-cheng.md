@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-27
 ---
 # Kai-Li Cheng (鄭凱莉博士)
 
@@ -50,3 +50,4 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+<!-- deepen-x slice 09260600-30 (2026-09-27): saturated re-verify — fresh ZH+EN grep of works/ + articles/ returns hit set identical to what this page already absorbs; no new corpus facts, no conflicts. SKIP-content. -->
