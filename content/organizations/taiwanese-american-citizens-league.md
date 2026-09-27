@@ -53,3 +53,6 @@ HOLD: conflict in name — the corpus record titles the organization "Taiwanese 
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 <!-- TJJ-A09260400-6: verified 2026-09-26 — subject link 162effa713237818 confirmed real; 2020-06-16 dated fact w/ wikilink already in From the record — saturated. -->
+
+
+<!-- TJJ-A09260500-6: verified 2026-09-27 — slice articles 81e80ba38969bf88 / 9412105875987041 / 92917d4c9a88eba2 / fd270f41202454d7 re-checked vs 正文; subject links all real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->

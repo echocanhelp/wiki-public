@@ -11080,3 +11080,6 @@ Notable quotes and mentions of **楊子清** in Taiwan Justice articles:
 - [[sources/taiwanjustice-net||taiwanjustice.net source hub]]
 - [[organizations/taiwanjustice-net||taiwanjustice.net (台灣公義網)]]
 - [[people/freeman-huang||Freeman Huang (黃樹人)]]
+
+
+<!-- TJJ-A09260500-6: verified 2026-09-27 — slice articles 81e80ba38969bf88 / 9412105875987041 / 92917d4c9a88eba2 / fd270f41202454d7 re-checked vs 正文; subject links all real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->

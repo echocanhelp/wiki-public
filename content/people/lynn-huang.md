@@ -120,3 +120,6 @@ _No filled family fields on the TAH profile._
 <!-- TJJ-A09260500-3: verified 2026-09-27 — subject link vs 正文 real (79291dad808ef7f7 大洛杉磯台灣會館會訊 2018-06); dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A09260500-14: verified 2026-09-27 — all subject links re-checked vs 正文: real, no wrong/spurious links (以立「致死的震怒近了」 b7ec76fa/2b3d5a36; 第14回世界台灣文化論壇 08cd200c/fc488102); dated facts w/ article wikilinks already in From the record — saturated, no new material. -->
+
+
+<!-- TJJ-A09260500-6: verified 2026-09-27 — slice articles 81e80ba38969bf88 / 9412105875987041 / 92917d4c9a88eba2 / fd270f41202454d7 re-checked vs 正文; subject links all real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->

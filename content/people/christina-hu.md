@@ -69,3 +69,6 @@ _No filled family fields on the TAH profile._
 - Corpus re-grep 2026-09-22 (slice 09212352-3): SKIP-with-reason — hit set unchanged (own #1586, Blacklist film records, census/Pew TACL records, TJJ Pew quote); all linked, corpus saturated; Blacklist-vs-corporate-career HOLD stands.
 - Corpus re-grep 2026-09-23 (slice 09221000-2): SKIP-with-reason — hit set unchanged (own #1586, Blacklist film records, census/Pew TACL records, works index); all linked, corpus saturated; Blacklist-vs-corporate-career HOLD stands.
 - Corpus re-grep 2026-09-24 (slice 09230400-1): SKIP-with-reason — fresh ZH+EN grep hit set unchanged (own #1586, Blacklist film records, census/Pew TACL records, works index); all linked, corpus saturated; Blacklist-vs-corporate-career HOLD stands.
+
+
+<!-- TJJ-A09260500-6: verified 2026-09-27 — slice articles 81e80ba38969bf88 / 9412105875987041 / 92917d4c9a88eba2 / fd270f41202454d7 re-checked vs 正文; subject links all real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->

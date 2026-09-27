@@ -66,3 +66,6 @@ last_reviewed: 2026-09-25
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - [[sources/taiwaneseamerican-org|TaiwaneseAmerican.org]]
 - Corpus re-grep 2026-09-25 (slice 09240500-8): fresh ZH+EN grep (Leona Chen/陳文羿) — hit set confined to her own already-linked bibliography (whos-leona-chen, census-2020-fundraiser, remembrance-228, in-solidarity, pew statement) + works index; no new absorbable material.
+
+
+<!-- TJJ-A09260500-6: verified 2026-09-27 — slice articles 81e80ba38969bf88 / 9412105875987041 / 92917d4c9a88eba2 / fd270f41202454d7 re-checked vs 正文; subject links all real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
