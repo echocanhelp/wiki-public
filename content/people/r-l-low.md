@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-26
+last_reviewed: 2026-09-27
 ---
 # R. L. Low (羅瑞蘭)
 
@@ -52,3 +52,4 @@ last_reviewed: 2026-09-26
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- Corpus re-check 2026-09-27 (deepen-x slice 09260600-19): fresh grep (羅瑞蘭 / Rui-Lan Lo / R. L. Low) — identical saturated set ([[works/taiwaneseamericanhistory-org/musician417|#417]], [[works/taiwaneseamericanhistory-org/whoswho1771|#1771]], index); no memoir mentions; SKIP-nothing-absorbable.

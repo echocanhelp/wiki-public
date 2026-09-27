@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-26
+last_reviewed: 2026-09-27
 ---
 # Dr. Tzu-Shong Yang (楊次雄醫師)
 
@@ -53,3 +53,4 @@ Accomplishment
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - Corpus re-check 2026-09-26 (deepen-x slice 09251000-28): fresh grep (ZH+EN) of works+articles returns only records already wikilinked above — verified saturated; SKIP-deepen.
+- Corpus re-check 2026-09-27 (deepen-x slice 09260600-19): fresh grep (楊次雄 / Tzu-Shong Yang) — identical hit set: own memoir #77, NATMA founding #74 (+EN), group photo #363, own Whos Who record + index; all already absorbed. Verified saturated; SKIP-deepen.
