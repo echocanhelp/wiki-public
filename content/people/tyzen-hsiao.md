@@ -225,3 +225,5 @@ TAH employment (unparsed string): Tainan Univ. of Technology assoc. prof.; Wenza
 - [[organizations/elder-john-lai-archives||史料庫]] — episode + 〈台灣翠青〉檔. TOC **374** = 林乾, not this man
 
 <!-- TJJ-A09260500-7: verified 2026-09-27 — slice 09260500-7 articles (d4a7f9e55282396a 立委號次抽籤 / 10e3a027ce22991c 晶片短缺 / 735744492226b90c 2016台美小姐開訓 / bfc5f319a036a339 黃瑞芬訃聞) subject links re-checked vs 正文; all real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A09260500-13: verified 2026-09-27 — subject links in slice 09260500-13 articles (a20fb275b89c3fb7 鄭自才登記連署 / 996879ac7a006acf FAHR第44屆年會 / 63257725da30ee94 FAHR研討會 / 4c65a9afe4934086 520就職快照) re-checked vs 正文; all real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->

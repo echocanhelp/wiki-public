@@ -67,3 +67,5 @@ B.S. Dept. of Adult & Continuing Education(社教系)
 - Corpus re-grep 2026-09-23 (slice 09221000-2)：驗證飽和 — 命中集不變（#311、#513、#545、#448、#173、our-journeys-357、ourjourneys2、ourjourneys60-eng），紐約「台灣之音」回憶錄中絕食抗議段落已吸收；無新語料，Stella Chen Landauer 同名 HOLD 不變。
 - Corpus re-grep 2026-09-24 (slice 09230400-1)：驗證飽和 — fresh ZH+EN grep 命中集與前次完全一致且全部已連結吸收；無新語料，Stella Chen Landauer 同名 HOLD 不變。
 
+
+<!-- TJJ-A09260500-13: verified 2026-09-27 — subject links in slice 09260500-13 articles (a20fb275b89c3fb7 鄭自才登記連署 / 996879ac7a006acf FAHR第44屆年會 / 63257725da30ee94 FAHR研討會 / 4c65a9afe4934086 520就職快照) re-checked vs 正文; all real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
