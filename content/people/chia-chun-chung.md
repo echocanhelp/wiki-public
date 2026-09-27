@@ -67,3 +67,5 @@ _No filled family fields on the TAH profile._
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - 複核 2026-09-24 (DEEPEN-X slice 09230400-2): fresh ZH+EN corpus re-grep (content/works content/articles) hit set identical to prior check; all hits already linked on this page; no new memoir or club material absorbable. verified-saturated.
+
+<!-- TJJ-A09260500-4: verified 2026-09-27 — slice articles 69b4f44f9c019bd5 / 760a0bc942e1676b / 097b5750fcf3091a / 1f001897255f71a7 re-checked vs 正文; subject links all real (paul-chen = 會館董事長 陳柏宇 per TAH #1788 owner ruling), no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->

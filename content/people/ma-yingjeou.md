@@ -147,3 +147,5 @@ last_reviewed: 2026-09-26
 
 
 <!-- TJJ-A09260500-5: verified 2026-09-27 — slice articles (24ebe5f065076949 2016海外台語研習會公告 / 4a5080befc342f69＋2c5d3c7d4f5acccc 戴琪鄧振中TIFA同文兩存檔 / adc931e5b99bb0a9 van der Wees 評2012大選) subject links re-checked vs 正文; all real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A09260500-4: verified 2026-09-27 — slice articles 69b4f44f9c019bd5 / 760a0bc942e1676b / 097b5750fcf3091a / 1f001897255f71a7 re-checked vs 正文; subject links all real (paul-chen = 會館董事長 陳柏宇 per TAH #1788 owner ruling), no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->

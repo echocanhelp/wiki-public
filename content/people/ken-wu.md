@@ -591,3 +591,5 @@ Articles from taiwanjustice.net mentioning **Ken Wu (吳兆峯)**:
    - Source: https://taiwanjustice.net/%E4%B8%8D%E6%83%B3%E5%86%8D%E8%B7%9F%E4%B8%AD%E5%9C%8B%E6%B7%B7%E6%B7%86%EF%BC%8C%E6%B5%B7%E5%A4%96%E5%8F%B0%E7%81%A3%E4%BA%BA%E8%81%B2%E6%98%8E%EF%BC%9A%E7%9B%BC%E8%AD%B7%E7%85%A7%E4%BB%A5%E3%80%8Cta/
    - Match: alias='吳兆峯' where=body pts=40
    - Score: 40
+
+<!-- TJJ-A09260500-4: verified 2026-09-27 — slice articles 69b4f44f9c019bd5 / 760a0bc942e1676b / 097b5750fcf3091a / 1f001897255f71a7 re-checked vs 正文; subject links all real (paul-chen = 會館董事長 陳柏宇 per TAH #1788 owner ruling), no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->

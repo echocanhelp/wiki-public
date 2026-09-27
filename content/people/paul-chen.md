@@ -318,3 +318,5 @@ Notable quotes and mentions of **陳柏宇** in Taiwan Justice articles:
 <!-- TJJ-A09260400-27: verified 2026-09-26 — subject links in slice 09260400-27 articles (e041055e 台灣演義分類頁 / cd646b86 WHO世衛專題頁 / 2fc3294e Michelle Steel募款餐會 / 432e1fca Ed Royce標籤頁) re-checked vs 正文; all real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A09260500-3: verified 2026-09-27 — subject link vs 正文 real (79291dad808ef7f7 大洛杉磯台灣會館會訊 2018-06); dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A09260500-4: verified 2026-09-27 — slice articles 69b4f44f9c019bd5 / 760a0bc942e1676b / 097b5750fcf3091a / 1f001897255f71a7 re-checked vs 正文; subject links all real (paul-chen = 會館董事長 陳柏宇 per TAH #1788 owner ruling), no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->

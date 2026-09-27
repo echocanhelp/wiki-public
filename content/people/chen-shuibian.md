@@ -136,3 +136,5 @@ last_reviewed: 2026-09-26
 <!-- TJJ-A09260400-28: verified 2026-09-26 — slice articles 073ea211088c8fae / e9ec20fd58bf6b1c / c595d332038f73bb / c30596cc1ea6e337 (tag/directory pages) re-checked vs 正文; subject link real, dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A09260400-27: verified 2026-09-26 — subject links in slice 09260400-27 articles (e041055e 台灣演義分類頁 / cd646b86 WHO世衛專題頁 / 2fc3294e Michelle Steel募款餐會 / 432e1fca Ed Royce標籤頁) re-checked vs 正文; all real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A09260500-4: verified 2026-09-27 — slice articles 69b4f44f9c019bd5 / 760a0bc942e1676b / 097b5750fcf3091a / 1f001897255f71a7 re-checked vs 正文; subject links all real (paul-chen = 會館董事長 陳柏宇 per TAH #1788 owner ruling), no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
