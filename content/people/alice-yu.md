@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-26
+last_reviewed: 2026-09-27
 ---
 # Alice Yu (游陳鈴津)
 
@@ -58,3 +58,4 @@ Distinguished Chair Professor
 <!-- deepen-x slice 09230700-29 (2026-09-24): saturated re-verify — fresh ZH+EN grep of works/ + articles/ returns the hit-set already absorbed on this page; no new corpus facts, no conflicts. -->
 <!-- deepen-x slice 09240700-32 (2026-09-25): saturated re-verify — fresh ZH+EN grep of works/ + articles/ returns the hit-set already absorbed on this page; no new corpus facts, no conflicts. -->
 <!-- deepen-x slice 09251023-6 (2026-09-26): saturated re-verify — fresh ZH+EN grep of works/ + articles/ returns only whoswho1533 + index, already absorbed on this page; no new corpus facts, no conflicts. -->
+<!-- deepen-x slice 09260600-28 (2026-09-27): saturated re-verify — fresh ZH+EN grep of works/ + articles/ returns the hit-set already absorbed on this page; no new corpus facts, no conflicts. -->

@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-26
+last_reviewed: 2026-09-27
 ---
 # L.A. Study Group (大洛杉磯台灣讀書會)
 
@@ -34,3 +34,4 @@ Re-checked 2026-09-23 (slice 09221200-25; prior 2026-09-21) against the full cor
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+<!-- deepen-x slice 09260600-28 (2026-09-27): saturated re-verify — fresh ZH+EN grep of works/ + articles/ returns the hit-set already absorbed on this page; no new corpus facts, no conflicts. -->
