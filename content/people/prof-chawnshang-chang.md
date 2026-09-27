@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-26
+last_reviewed: 2026-09-27
 ---
 # Prof. Chawnshang Chang (張傳祥教授)
 
@@ -57,3 +57,4 @@ Prof. Chawnshang Chang 張傳祥教授 – History of Taiwanese American (T.A. A
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - Corpus re-grep 2026-09-26 (slice 09250800-25): hit set unchanged (TAH #22/#77/#2047 + index only), all already cited. SKIP: saturated.
+- Corpus re-grep 2026-09-27 (slice 09260600-29): hit set unchanged (TAH #22/#77/#2047 + index only), all already cited. SKIP: saturated.
