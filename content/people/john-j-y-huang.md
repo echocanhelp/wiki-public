@@ -64,3 +64,4 @@ Re-verified 2026-09-24 (slice 09230700-25): fresh grep (黃仲義 / John J.Y. Hu
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - Re-check (DEEPEN-X09240700-28, 2026-09-25): fresh ZH+EN grep hit set unchanged - ourjourneys37, ourjourneys106, TAH #84, works index only; all already absorbed. SKIP, no new material.
 - 2026-09-26 deepen-x slice 09251000-25: fresh grep (黃仲義|John J.Y. Huang) hit set unchanged — ourjourneys37, ourjourneys106, TAH #84, works index only; TAI 協志會 founding facts already absorbed. SKIP, no new material.
+- 2026-09-27 deepen-x slice 09260600-7: fresh grep (黃仲義|John J.Y. Huang) hit set unchanged — ourjourneys37, ourjourneys106, TAH #84, works index only; all facts already absorbed. SKIP, no new material.

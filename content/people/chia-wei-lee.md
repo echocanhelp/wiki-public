@@ -57,3 +57,4 @@ _No filled family fields on the TAH profile._
 - 複核（deepen-x slices 0916→09230900-2，至 2026-09-24）：历次 re-grep 命中集均不變（僅本人 TAH #527／#258 書目記錄＋works/index）— SKIP-with-reason：無可吸收之回憶錄/社群語料，無衝突需 HOLD。
 - 複核（deepen-x slice 09251400-3, 2026-09-26）：grep 李佳蔚|Chia Wei Lee 重命中僅本人 TAH #527／#258 書目記錄——與歷輪命中集一致。SKIP-with-reason：無回憶錄/社群語料可吸收，無衝突需 HOLD。
 - 複核（deepen-x slice 09240900-3, 2026-09-25）：grep 李佳蔚|Chia Wei Lee 重命中僅本人 TAH #527／#258 書目記錄＋works index——與歷輪命中集完全一致。SKIP-with-reason：無回憶錄/社群語料可吸收，無衝突需 HOLD。
+- 複核（deepen-x slice 09260600-7, 2026-09-27）：grep 李佳蔚|Chia Wei Lee 重命中僅本人 TAH #527／#258 書目記錄＋works index——與歷輪命中集一致。SKIP-with-reason：無回憶錄/社群語料可吸收，無衝突需 HOLD。

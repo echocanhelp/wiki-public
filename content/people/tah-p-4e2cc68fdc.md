@@ -53,3 +53,4 @@ last_reviewed: 2026-09-27
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 <!-- deepen-x 09230800-18: re-verified 2026-09-24 — fresh grep (張肅, works+articles): hits unchanged (ourjourneys106, ourjourneys33, whos480, index) — all absorbed; 106 blacklist roster line and 33 family narrative already in Role in the Community. SKIP-content — saturated. -->
 <!-- deepen-x 09251000-23: re-verified 2026-09-26 — fresh grep (張肅, works+articles): hits unchanged (ourjourneys106, ourjourneys33, whos480, index) — all absorbed. SKIP-content — saturated. -->
+<!-- deepen-x 09260600-7: re-verified 2026-09-27 — fresh grep (張肅, works+articles): hits unchanged (ourjourneys106, ourjourneys33, whos480, index) — all absorbed. SKIP-content — saturated, nothing new absorbable. -->
