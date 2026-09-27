@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-26
+last_reviewed: 2026-09-27
 ---
 # Dr. Tsann-Wang Yu (余燦旺博士)
 
@@ -59,3 +59,5 @@ _No filled family fields on the TAH profile._
 2026-09-26 re-grep (deepen-x 09250900-22): fresh ZH+EN grep returned the same hit set (ourjourneys76 +eng, whos-who-1700, index, 2018 NTU-alumni statement); absorbed one memoir detail from ourjourneys76 (early-1970 monthly 郊遊 rotation preceding the 同鄉會 founding; 吳木盛 accepted the presidency without hesitation). No conflicts.
 
 2026-09-26 re-grep (deepen-x slice 09260317-19): fresh ZH+EN grep (余燦旺 / Tsann-Wang Yu) returned the same hit set (ourjourneys76 +eng, whos-who-1700, index, 2018 NTU-alumni statement), all already linked; verified saturated, SKIP-with-reason.
+
+2026-09-27 re-grep (deepen-x slice 09260700-7): fresh ZH+EN grep (余燦旺 / Tsann-Wang Yu) returned the same hit set (ourjourneys76 +eng, whos-who-1700, works index, 2018 NTU-alumni statement), all already linked; verified saturated, SKIP-with-reason.

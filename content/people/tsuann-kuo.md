@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-26
+last_reviewed: 2026-09-27
 ---
 # Tsuann Kuo (郭慈安博士)
 
@@ -43,6 +43,7 @@ _No filled family fields on the TAH profile._
 - Advocate/organizer — confirmed speaker at the NATWA II 10th-anniversary convention (panel *Showcasing Ten Years of North American Taiwanese Women Artists*), alongside Jennifer Chow, Marilyn Fu, Karen Lin and Victoria Linchong: [[works/taiwaneseamerican-org/natwa2015|NATWA 2015]].
 - 228 與轉型正義 — guest (with Wei-Wei Chang, Michi Fu, Josephine Pan) on TaiwaneseAmerican.org's two-part 75th-anniversary-of-228 episode; part two covered her and Michi Fu's work with 228 survivors and families through the Transitional Justice Commission: [[works/taiwaneseamerican-org/remembering-the-228-massacre-readings-resources-on-taiwans-white-terror-era|Remembering the 228 Massacre]].
 - 2019-10-13 — 主講「台美人生」at the 大洛杉磯台灣會館 21st-anniversary rebuilding fund-raiser (announced 2019-10-01, with 民進黨副秘書長林飛帆 as surprise guest): [[articles/taiwanjustice-net/2020/20200628054328_category_taiwancenter_newsletter_page_3_6584a80df73858ef|台灣正義通訊]].
+- 2019-10-01 公告記錄 — the announcement of that fundraiser (「大洛杉磯台灣會館21周年重建募款餐會10月13日舉行．郭慈安教授主講台美人生，神秘嘉賓揭曉：民進黨副秘書長林飛帆」, announced 2019-10-01) is itself preserved in the same newsletter archive: [[articles/taiwanjustice-net/2020/20200625110644_category_taiwancenter_newsletter_page_2_dad11b620b8d9268|台灣正義通訊 會館新聞頁 (Taiwan Justice, 2020-06)]]。
 2026-09-21 re-grep (deepen-x slice 09191400-8): corpus hits still confined to the already-linked records below — no new absorbable facts.
 - Second community record: [[works/taiwaneseamericanhistory-org/255-tsuann-kuo-e9-83-ad-e6-85-88-e5-ae-89201502|TAH #255]] (2015-02).
 - 2026-09-21 re-grep (deepen-x slice 09210317-7): fresh grep (works+articles) hits confined to the already-linked records above (TAH #164/#255, NATWA 2015, 228 episode, 正義通訊 newsletter) — no new absorbable facts, no conflicts to HOLD.
@@ -53,6 +54,8 @@ _No filled family fields on the TAH profile._
 - 2026-09-25 re-grep (slice 09240500-17): fresh grep (郭慈安／Tsuann Kuo, works+articles) hit set unchanged (TAH #164/#255, NATWA 2015, 228 episode, 正義通訊 newsletter, works index). Verified saturated — SKIP, no new absorbable facts, no conflicts to HOLD.
 - 2026-09-25 re-grep (slice 09250800-14): fresh grep (郭慈安／Tsuann Kuo, works+articles) hit set unchanged (TAH #164/#255, NATWA 2015, 228 episode, 正義通訊 newsletter, works index). Verified saturated — SKIP, no new absorbable facts, no conflicts to HOLD.
 - 2026-09-26 re-grep (slice 09260317-29): fresh grep (郭慈安／Tsuann Kuo, works+articles) hit set unchanged (TAH #164/#255, works index, 228 episode, NATWA 2015, 正義通訊 newsletter); the #164/#255 hits are title/front-matter only and the rest are already-absorbed quote lines. Verified saturated — SKIP, no new absorbable facts, no conflicts to HOLD.
+
+- 2026-09-27 re-grep (slice 09260700-7): fresh grep (郭慈安／Tsuann Kuo, works+articles) hit set unchanged except one additional archive record — the 2019-10-01 announcement of the 會館21周年餐會 on the newsletter's earlier page, now linked above. Otherwise saturated (TAH #164/#255, NATWA 2015, 228 episode, 正義通訊 newsletter), no conflicts to HOLD.
 
 ## Sources
 - [TAH #164 encyclopedia: 164. 郭慈安博士 Dr. Tsuann Kuo / 第一個老年學的 Ph.D. / 1991](https://taiwaneseamericanhistory.org/164-%e9%83%ad%e6%85%88%e5%ae%89%e5%8d%9a%e5%a3%ab-dr-tsuann-kuo-%e7%ac%ac%e4%b8%80%e5%80%8b%e8%80%81%e5%b9%b4%e5%ad%b8%e7%9a%84-ph-d-1991/)

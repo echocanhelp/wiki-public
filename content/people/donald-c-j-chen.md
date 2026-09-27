@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-26
+last_reviewed: 2026-09-27
 ---
 # Donald C.J. Chen (陳哲仁醫師)
 
@@ -63,3 +63,5 @@ _Corpus re-scan 2026-09-25 (slice 09240500-13): SKIP — fresh grep returns the 
 _Corpus re-grep 2026-09-25 (slice 09250800-9): SKIP — hit set identical to previously absorbed records; no new corpus material; verified saturated._
 
 _Corpus re-grep 2026-09-26 (slice 09260317-22): SKIP — fresh grep 陳哲仁/Donald Chen (works+articles) returns the identical hit set (photo-albums-activities-111, ourjourneys-138, ourjourneys76 +eng, mystories403, whos474); all absorbed above; verified saturated._
+
+_Corpus re-grep 2026-09-27 (slice 09260700-7): SKIP — fresh grep 陳哲仁/Donald Chen (works+articles) returns the identical hit set (photo-albums-activities-111, ourjourneys-138, ourjourneys76 +eng, mystories403, whos474, 58-first-private-clinic, ff309); all absorbed above; verified saturated._
