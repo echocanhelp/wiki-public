@@ -206,3 +206,5 @@ Notable quotes and mentions of **劉玲華** in Taiwan Justice articles:
 
 - 2026-07-16: Created thin person page from Taiwan Center board absorb.
 - 2026-07-25: Owner-verified LINE display name Linda as this page; captured private LINE user ID; expanded onboarding sections (identity, consent, verification). verification_status → owner_verified.
+
+- 複核（TJJ-A09260500-15, 2026-09-27）：本 slice 僅 [[articles/taiwanjustice-net/2024/20240425081647_root_17835ad9519f9cfe|17835ad9]] 涉本人，subject 連結為真；含該文 wikilink 的 2016-06-11 條目已在庫 — SKIP，無新材料。

@@ -102,3 +102,5 @@ last_reviewed: 2026-09-23
 - [[people/wei-boji||Wei Boji (魏博基)]]
 - [[people/xu-shitan||Xu Shitan (徐士坦)]]
 - [[people/wang-rongyi||Wang Rongyi (王榮義)]]
+
+- 複核（TJJ-A09260500-15, 2026-09-27）：本 slice 僅 [[articles/taiwanjustice-net/2024/20240425081647_root_17835ad9519f9cfe|17835ad9]] 涉本人，subject 連結為真；含該文 wikilink 的 2016-06-11 條目已在庫 — SKIP，無新材料。

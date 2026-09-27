@@ -263,6 +263,8 @@ Notable quotes and mentions of **田詒鴻** in Taiwan Justice articles:
 
 ## From the record
 
+- 複核（TJJ-A09260500-10, 2026-09-27）：本 slice 文章 afdbd8b27a42563d（洛杉磯台灣會館重建動土, 2025-05-04）正文再驗證——田詒鴻以董事長/國策顧問身分主持動土、盼世代傳承台灣認同，確認見於正文，subject 連結為真，無錯鏈、無虛鏈；2025-05-03 日期事實條目（已掛該文 wikilink）已在庫 — SKIP，已飽和。
+
 - 複核（TJJ-A09251400-3, 2026-09-26）：本 slice 文章 f631078d99d9924d（海外小英後援會助選團返台助選, 2020-01-06）正文再驗證——田詒鴻以會長身分分享世代交替觀察確認見於正文，連結為真；2020-01-06 條目（已含該文 wikilink）已在庫 — SKIP，已飽和。
 - 複核（TJJ-A09251000-13, 2026-09-26）：本 slice 文章 79291dad808ef7f7（大洛杉磯台灣會館會訊 2018-06）正文再驗證——「一致選出田詒鴻擔任董事長」及署名信確認見於正文，subject 連結為真，無錯鏈、無虛鏈；對應日期事實條目（含該文 wikilink）已在庫 — SKIP，已飽和。
 - 連結複核（TJJ-A09251000-6, 2026-09-26）：本 slice 兩篇同文快照 b1d58af16c0a5e5b / 80c0a825a7a661b6（2021年南加州僑界支持台灣參與WHA聯合聲明）——本頁人物列名共同發起人清單，subject 連結為真，無錯鏈、無虛鏈；2021-05-13 條目（含該文 wikilink）已在庫 — SKIP，已飽和。
@@ -338,3 +340,5 @@ Notable quotes and mentions of **田詒鴻** in Taiwan Justice articles:
 <!-- TJJ-A09260400-10: verified 2026-09-26 — subject links in slice article 2a543ddc9301b7b3（會館24週年募款年會公告）re-checked vs 正文; all real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A09260500-3: verified 2026-09-27 — subject link vs 正文 real (79291dad808ef7f7 大洛杉磯台灣會館會訊 2018-06); dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+- 複核（TJJ-A09260500-15, 2026-09-27）：本 slice 僅 [[articles/taiwanjustice-net/2024/20240425081647_root_17835ad9519f9cfe|17835ad9]] 涉本人，subject 連結為真；含該文 wikilink 的 2016-06-11 條目已在庫 — SKIP，無新材料。

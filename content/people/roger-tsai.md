@@ -204,3 +204,5 @@ Notable quotes and mentions of **蔡漢成** in Taiwan Justice articles:
 - [[people/leonard-hsu-jr||Leonard Hsu Jr. (許景鴻)]] — President (會長)
 - [[people/yang-jia-you||Charles Yang (楊嘉猷)]] — Treasurer (財務長); founding president
 - [[people/freeman-huang||Freeman Huang (黃樹人)]] — Secretary (秘書)
+
+- 複核（TJJ-A09260500-15, 2026-09-27）：本 slice 僅 [[articles/taiwanjustice-net/2024/20240425081647_root_17835ad9519f9cfe|17835ad9]] 涉本人，subject 連結為真；含該文 wikilink 的 2016-06-11 條目已在庫 — SKIP，無新材料。
