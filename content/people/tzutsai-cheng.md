@@ -78,3 +78,5 @@ last_reviewed: 2026-09-26
 - 覆核（TJJ-A09251000-1, 2026-09-26）：本 slice 文章 e3440fec（陳昭南不流血革命）正文再驗證——鄭自才以田台仁附信（2022-03-03）記1975歐台會初見面名單記述確認見於正文（無錯鏈、無虛鏈）；含該文 wikilink 的條目已在庫 — SKIP，無新材料。
 
 <!-- TJJ-A09251400-9: verified 2026-09-26 — subject links in slice 09251400-9 articles re-checked vs 正文; all real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A09260500-3: verified 2026-09-27 — subject link vs 正文 real (24119694dbb384c9 刺蔣案50週年對談報導); dated fact w/ article wikilink already in From the record — saturated, no new material. -->

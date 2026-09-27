@@ -69,3 +69,5 @@ last_reviewed: 2026-09-26
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+<!-- TJJ-A09260500-3: verified 2026-09-27 — subject link vs 正文 real (24119694dbb384c9 刺蔣案50週年對談報導); dated fact w/ article wikilink already in From the record — saturated, no new material. -->

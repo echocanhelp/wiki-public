@@ -61,3 +61,5 @@ last_reviewed: 2026-09-26
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+<!-- TJJ-A09260500-3: verified 2026-09-27 — subject link vs 正文 real (43b81b6b892fea96 世台基金會公益晚宴報導); dated fact w/ article wikilink already in From the record — saturated, no new material. -->

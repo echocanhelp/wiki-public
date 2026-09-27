@@ -336,3 +336,5 @@ Notable quotes and mentions of **田詒鴻** in Taiwan Justice articles:
 
 <!-- TJJ-A09260400-6: verified 2026-09-26 — subject link 1d72b2ae61640747 confirmed real; 2019-10-10 dated fact w/ wikilink already in From the record — saturated. -->
 <!-- TJJ-A09260400-10: verified 2026-09-26 — subject links in slice article 2a543ddc9301b7b3（會館24週年募款年會公告）re-checked vs 正文; all real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A09260500-3: verified 2026-09-27 — subject link vs 正文 real (79291dad808ef7f7 大洛杉磯台灣會館會訊 2018-06); dated fact w/ article wikilink already in From the record — saturated, no new material. -->

@@ -116,3 +116,5 @@ _No filled family fields on the TAH profile._
 ## Cross-link check (deepen pass 2026-09-14)
 
 - All wikilinks on this page resolve to existing vault pages, including the two taiwanjustice.net concert/video archive notices and [[works/taiwaneseamericanhistory-org/18-elite-chorus||TAH #18: Elite Chorus]] cited above. No further absorbable in-vault facts beyond the 2026-09-10 vault-record notes; no new links added this pass.
+
+<!-- TJJ-A09260500-3: verified 2026-09-27 — subject link vs 正文 real (79291dad808ef7f7 大洛杉磯台灣會館會訊 2018-06); dated fact w/ article wikilink already in From the record — saturated, no new material. -->

@@ -100,3 +100,5 @@ _No filled family fields on the TAH profile._
 
 
 <!-- TJJ-A09251400-9: verified 2026-09-26 — subject links in slice 09251400-9 articles re-checked vs 正文; all real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A09260500-3: verified 2026-09-27 — subject link vs 正文 real (24119694dbb384c9 刺蔣案50週年對談報導); dated fact w/ article wikilink already in From the record — saturated, no new material. -->

@@ -56,3 +56,5 @@ Steven Chou (周清耀) is listed in the TAH Foundation Who’s Who Taiwanese Am
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - Corpus re-check 2026-09-25 (slice 09240900-2): fresh grep 周清耀/Steven Chou returns the identical hit set (whoswho1147, WHA聯合聲明 x2 快照, 會館會訊 2018-06) — all already absorbed/wikilinked above; verified saturated, SKIP-no-new-facts.
 - Corpus re-check 2026-09-26 (slice 09251400-1): fresh grep 周清耀/Steven Chou returns the identical hit set (whoswho1147, works/index, WHA聲明 x2, 會館會訊 2018-06) — all already absorbed; verified saturated, SKIP-no-new-facts.
+
+<!-- TJJ-A09260500-3: verified 2026-09-27 — subject link vs 正文 real (79291dad808ef7f7 大洛杉磯台灣會館會訊 2018-06); dated fact w/ article wikilink already in From the record — saturated, no new material. -->

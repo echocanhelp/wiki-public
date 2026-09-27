@@ -56,3 +56,5 @@ Corpus re-grep 2026-09-22 (DEEPEN-X slice 09212352-24): hits are only the record
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 <!-- TJJ-A09260400-6: verified 2026-09-26 — subject link 1d72b2ae61640747 confirmed real; 2019-10-10 dated fact w/ wikilink already in From the record — saturated. -->
+
+<!-- TJJ-A09260500-3: verified 2026-09-27 — subject link vs 正文 real (79291dad808ef7f7 大洛杉磯台灣會館會訊 2018-06); dated fact w/ article wikilink already in From the record — saturated, no new material. -->
