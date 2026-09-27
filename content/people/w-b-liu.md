@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-26
+last_reviewed: 2026-09-27
 ---
 # W. B. Liu (劉文彬)
 
@@ -53,3 +53,4 @@ last_reviewed: 2026-09-26
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - Corpus re-check 2026-09-25 (deepen-x slice 09240800-10): fresh grep (works+articles) hits = whoswho1396 + works/index + the 2024-07-16 TJJ reception article — identical set, all already linked. Saturated; SKIP.
 - Corpus re-check 2026-09-26 (deepen-x slice 09251000-29): fresh grep (劉文彬 / W. B. Liu) hits = whoswho1396 + works/index + the 2024-07-16 TJJ reception article — identical set, all already linked. Saturated; SKIP.
+- Corpus re-check 2026-09-27 (deepen-x slice 09260600-17): fresh grep (劉文彬 / W. B. Liu) hits = whoswho1396 + works/index + the 2024-07-16 TJJ reception article — identical set, all already linked. Saturated; SKIP.

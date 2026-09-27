@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-27
 ---
 # Juey H. Lai (賴瑞宏博士)
 
@@ -58,3 +58,4 @@ last_reviewed: 2026-09-25
 <!-- deepen-x slice 09230500-32 (2026-09-24): re-verified — corpus hits remain ourjourneys15 + ourjourneys123 + own TAH memoir record, all already absorbed. SKIP (saturated). -->
 <!-- deepen-x slice 09240500-25 (2026-09-25): re-verified — corpus hits remain own record + ourjourneys15 + ourjourneys123, all already absorbed (台灣攤「死黨」core member, 1998 同鄉會會長, 雲門《流浪者之歌》接待會, 《懷念張麗惠》intro). SKIP (saturated). -->
 <!-- deepen-x slice 09250800-24 (2026-09-25): re-verified — corpus hit set unchanged (whos-juey-h-lai + ourjourneys15 + ourjourneys123 + index), all already absorbed. SKIP (saturated). -->
+<!-- deepen-x slice 09260600-17 (2026-09-27): re-verified — fresh grep corpus hit set unchanged (whos-juey-h-lai + ourjourneys15 + ourjourneys123 + index), all already absorbed. SKIP (saturated). -->
