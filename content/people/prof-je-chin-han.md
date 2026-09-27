@@ -58,3 +58,4 @@ _No filled family fields on the TAH profile._
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 _Corpus re-grep 2026-09-26 (slice 09260317-24): SKIP — fresh ZH+EN grep hit set identical to previously absorbed records (own #52/#604, award-77, Our Journeys 129, works index, taiwanjustice.net echoes); verified saturated._
 _Corpus re-grep 2026-09-25 (slice 09250800-9): SKIP — hit set identical to previously absorbed records; no new corpus material; verified saturated._
+_Corpus re-grep 2026-09-27 (slice 09260700-12): SKIP — fresh ZH+EN grep hit set identical to previously absorbed records (own #52/#604, award-77, Our Journeys 129, works index, taiwanjustice.net echoes); verified saturated._
