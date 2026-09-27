@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-26
+last_reviewed: 2026-09-27
 ---
 # Ju Cheng Lee (李汝成)
 
@@ -51,3 +51,4 @@ last_reviewed: 2026-09-26
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- Corpus re-grep 2026-09-27 (slice 09260600-6): hit set unchanged (mystories594, own TAH #1916, plus the 李汝城 physician set whos-who-32/217/ourjourneys202/304); checked whos-who-32 + 217 titles — both Dr. Ju-Cheng Lee **李汝城**醫師 (Ghee-Lan Association first president), not this Changhua entrepreneur. Name-collision HOLD stands; SKIP-content (verified-saturated).

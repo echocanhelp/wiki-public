@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-26
+last_reviewed: 2026-09-27
 ---
 # Dr. Ching-Jen Wang (王清貞醫師)
 
@@ -54,3 +54,4 @@ Accomplishment
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- Re-verified 2026-09-27 (deepen-x slice 09260600-6): fresh ZH+EN grep — hit set identical (ourjourneys74 roster, #7 返台任院長, winners32, TAH #1666, index), all already wikilinked above. No new facts; 院長-1995 vs Dean/Board-1997–2003 HOLD stands. SKIP.

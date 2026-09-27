@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-26
+last_reviewed: 2026-09-27
 ---
 # Justin Lin (林詣彬)
 
@@ -50,3 +50,4 @@ _No filled family fields on the TAH profile._
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - Corpus re-scan 2026-09-26 (slice 09251000-21): fresh ZH+EN grep — identical hit set (the four linked works + works index). SKIP; saturated.
+- Corpus re-scan 2026-09-27 (slice 09260600-8): fresh ZH+EN grep identical hit set (#166, taiwanese-american-film, director-justin-lin essay, blacklava retrospective, works index). SKIP; saturated.

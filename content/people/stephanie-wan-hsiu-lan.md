@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-26
+last_reviewed: 2026-09-27
 ---
 # Stephanie Wan-Hsiu Lan (藍婉修)
 
@@ -37,6 +37,7 @@ Stephanie Wan-Hsiu Lan 藍婉修 – History of Taiwanese American (T.A. Archive
 
 ## Worklog
 - 2026-09-25 deepen-x slice 09240700-27: re-verified — fresh grep 藍婉修/Stephanie Wan-Hsiu Lan returns only own entries 222/462 + works index; the other "Stephanie" corpus hits (張理 Chang, Chuang) are different people. Nothing new.
+- 2026-09-27 deepen-x slice 09260600-5: fresh grep (藍婉修|Stephanie Wan-Hsiu Lan, works+articles, excluding index) returns only own entries [[works/taiwaneseamericanhistory-org/222-stephanie-wan-hsiu-lan-e8-97-8d-e5-a9-89-e4-bf-ae-pianist-201606|#222]] / [[works/taiwaneseamericanhistory-org/462-stephanie-wan-hsiu-lan-e8-97-8d-e5-a9-89-e4-bf-ae-201506|#462]] — already absorbed. Verified saturated, SKIP.
 - 2026-09-24 deepen-x slice 09230700-22: re-verified — fresh grep 藍婉修/Stephanie Wan-Hsiu Lan returns only own entries 222/462 + works index, all already absorbed. Nothing new.
 - 2026-09-23 deepen-x slice 09221300-9: re-verified — fresh grep 藍婉修/Stephanie Wan-Hsiu Lan returns only own entries 222/462 + works index, all already absorbed. Nothing new.
 - 2026-09-22 deepen-x slice 09220400-32: re-verified — fresh grep 藍婉修/Stephanie Wan-Hsiu Lan returns only own entries 222/462 and the works index, all already absorbed above; 藍婉倩 (里港鄉長 candidate) remains a different person. Nothing new.
