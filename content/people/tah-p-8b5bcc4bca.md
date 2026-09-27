@@ -60,3 +60,4 @@ Corpus re-grep 2026-09-24 (slice 09230700-24): hit set = ourjourneys19, ourjourn
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - Re-check (DEEPEN-X09240700-28, 2026-09-25): fresh grep hits still ourjourneys19/199/291, whos862, works index - all cited above. SKIP, no new material.
 - Re-check (DEEPEN-X09251000-26, 2026-09-26): fresh grep hits still ourjourneys19/199/291, whos862, works index — all cited above. HOLD (WashU degree year vs training-completion) stands. SKIP, no new material.
+- Re-check (deepen-x slice 09260600-11, 2026-09-27): fresh grep (黃世惠, works+articles) hit set identical — ourjourneys19/199/291, whos862, works index, all cited above. Verified-saturated, SKIP; HOLD stands.
