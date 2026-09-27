@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-26
+last_reviewed: 2026-09-27
 ---
 # Andrew Y. Lee (李友義博士)
 
@@ -64,3 +64,4 @@ _Corpus re-scan 2026-09-26 (slice 09260317-23): fresh grep (李友義／Andrew L
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- Corpus re-grep 2026-09-27 (DEEPEN-X slice 09260700-5): fresh ZH+EN grep (works+articles) returns the identical hit set already absorbed above; SKIP-with-reason: verified saturated, no new absorbable material, existing HOLDs unchanged.

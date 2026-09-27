@@ -72,3 +72,5 @@ last_reviewed: 2026-09-26
 
 <!-- TJJ-A09251400-8: verified 2026-09-26 — subject link in slice article 52a71221d3029866（台文通訊30週年慶祝會ONLINE, 2021-06-29）confirmed real vs 正文（特別來賓名單）; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 - Corpus re-check (deepen-x slice 09260317-27, 2026-09-26): fresh grep works+articles, hit set identical（本人條目 TAH #1696、works index、台文通訊30週年 TJJ 公告，皆已吸收）-- saturated, SKIP.
+
+<!-- TJJ-A09260600-6: verified 2026-09-27 — subject links in slice article 52a71221d3029866（台文通訊30週年慶祝會ONLINE, 2021-06-29）confirmed real vs 正文（特別來賓名單）; dated fact w/ article wikilink already in From the record — saturated, no new material. -->

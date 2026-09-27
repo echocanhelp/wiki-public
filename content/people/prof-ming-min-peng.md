@@ -144,3 +144,5 @@ _No filled family fields on the TAH profile._
 <!-- TJJ-A09260400-10: verified 2026-09-26 — subject links in slice article 2a543ddc9301b7b3（會館24週年募款年會公告）re-checked vs 正文; all real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A09260500-9: verified 2026-09-27 — slice 09260500-9 4 篇（b7327dcf TAA Archives Newsletter / 95fd8186 洛杉磯會館228追思77年 / 26f76359 糖尿病與你 / a1b56965 彭明敏研討會）正文再驗證——subject 連結為真實提及，無錯鏈、無虛鏈；含該文 wikilink 的日期事實條目已在庫 — saturated, no new material. -->
+
+<!-- TJJ-A09260600-6: verified 2026-09-27 — subject links in slice article 2a0ba680f2b8720a（海內外人權救援聯展, 2024-06-08）confirmed real vs 正文（台灣之音1977夫妻/彭明敏X計畫）; dated fact w/ article wikilink already in From the record — saturated, no new material. -->

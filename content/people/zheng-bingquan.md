@@ -10834,3 +10834,5 @@ Notable quotes and mentions of **鄭炳全** in Taiwan Justice articles:
 <!-- TJJ-A09240800-12: verified 2026-09-25 — subject links in slice 09240800-12 articles confirmed real; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A09251400-8: verified 2026-09-26 — subject link in slice article c76f11ecd2598ecb（2017台美文藝出版, 2017-06-11）confirmed real vs 正文（筆會第二代作家名單/編委名單）; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A09260600-6: verified 2026-09-27 — subject links in slice article c76f11ecd2598ecb（2017台美文藝出版, 2017-06-11）confirmed real vs 正文（筆會第二代作家名單/編委名單）; dated fact w/ article wikilink already in From the record — saturated, no new material. -->

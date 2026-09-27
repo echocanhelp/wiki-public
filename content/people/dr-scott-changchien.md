@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-26
+last_reviewed: 2026-09-27
 ---
 # Dr. Scott ChangChien (張簡吉誠醫師)
 
@@ -58,3 +58,4 @@ _No filled family fields on the TAH profile._
 - Corpus re-grep 2026-09-24 (slice 09230500-15): hit set identical to previously absorbed records; no new corpus material; verified saturated.
 _Corpus re-grep 2026-09-25 (slice 09250800-9): SKIP — hit set identical to previously absorbed records; no new corpus material; verified saturated._
 _Corpus re-grep 2026-09-26 (slice 09260317-20): fresh grep 張簡吉誠|Scott ChangChien (works+articles) returns the identical saturated hit set (own #1943, ourjourneys74, ourjourneys262, works index); all already linked; SKIP-with-reason: no new absorbable material._
+- Corpus re-grep 2026-09-27 (DEEPEN-X slice 09260700-5): fresh ZH+EN grep (works+articles) returns the identical hit set already absorbed above; SKIP-with-reason: verified saturated, no new absorbable material, existing HOLDs unchanged.

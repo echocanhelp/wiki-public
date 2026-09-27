@@ -64,3 +64,5 @@ _No filled family fields on the TAH profile._
 <!-- TJJ-A09240800-12: verified 2026-09-25 — subject links in slice 09240800-12 articles confirmed real; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A09251400-8: verified 2026-09-26 — subject link in slice article fa7c957f552d76e9（總統府資政27人國策顧問70人名單, 2022-09-02）confirmed real vs 正文（名單所載）; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A09260600-6: verified 2026-09-27 — subject links in slice article fa7c957f552d76e9（總統府資政國策顧問名單, 2022-09-02）confirmed real vs 正文（資政/國策顧問名單）; dated fact w/ article wikilink already in From the record — saturated, no new material. -->

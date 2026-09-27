@@ -97,3 +97,5 @@ Corpus grep (游朝凱 / Charles Yu) returns 6 work records — awards-93, whos-
 
 
 <!-- TJJ-A09260600-5: verified 2026-09-27 — wave-2 re-check of slice articles f4bc88a2 二二八77周年會館追思 / 5b6cede8 游朝凱寫作獎 / 64302d51 黃瑞芬訃聞 / d6441ab3 陳文成40週年: subject links re-checked vs 正文, all real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A09260600-6: verified 2026-09-27 — subject links in slice article c76f11ecd2598ecb（2017台美文藝出版, 2017-06-11）confirmed real vs 正文（筆會第二代作家名單/編委名單）; dated fact w/ article wikilink already in From the record — saturated, no new material. -->

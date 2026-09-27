@@ -64,3 +64,5 @@ last_reviewed: 2026-09-26
 <!-- TJJ-A09251400-8: verified 2026-09-26 — subject link in slice article 52a71221d3029866（台文通訊30週年慶祝會ONLINE, 2021-06-29）confirmed real vs 正文（特別來賓名單）; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 - Corpus check 2026-09-26 (deepen-x slice 09260400-26): fresh grep works/ + articles/ for Burton Tan/陳柏壽 — identical hit set (whos-who-1663, ourjourneys245, works/index, pew statement, 2021-06-29 TJJ 台文通訊30週年), all already absorbed. Verified-saturated; SKIP-content.
+
+<!-- TJJ-A09260600-6: verified 2026-09-27 — subject links in slice article 52a71221d3029866（台文通訊30週年慶祝會ONLINE, 2021-06-29）confirmed real vs 正文（特別來賓名單）; dated fact w/ article wikilink already in From the record — saturated, no new material. -->

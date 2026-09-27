@@ -61,3 +61,5 @@ last_reviewed: 2026-09-27
 <!-- Re-check slice 09251417-2 2026-09-26: fresh grep 梁凱琳/Kailin Gow hit set identical (ff354 + whos-who-1979, works index, TJJ 2017-06-11 report). Verified-saturated; SKIP-for-deepening. -->
 
 <!-- TJJ-A09251400-8: verified 2026-09-26 — subject link in slice article c76f11ecd2598ecb（2017台美文藝出版, 2017-06-11）confirmed real vs 正文（筆會第二代作家名單/編委名單）; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A09260600-6: verified 2026-09-27 — subject links in slice article c76f11ecd2598ecb（2017台美文藝出版, 2017-06-11）confirmed real vs 正文（筆會第二代作家名單/編委名單）; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
