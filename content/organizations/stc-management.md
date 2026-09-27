@@ -22,10 +22,20 @@ Real-estate investment, property-management, and leasing firm in the San Gabriel
 
 ## Record
 
-- **Accredited Management Organization (AMO)**; affiliations listed on-site: CCIM, ICSC, AIR, IREM, AOA, MRMLS, NAR, CoStar, LoopNet, CAR.
-- **CEO John Hsu:** CPM + CCIM; President, Greater Los Angeles Chapter of CCIM; **first Chinese-American selected (2009) to the CCIM Institute's Jay W. Levine Leadership Development Academy**; UCLA B.A. Business & Economics, Pepperdine M.B.A.; bio lists fluency in English, Mandarin and **Taiwanese**.
-- **Taiwan capital nexus (bios, on-site):** staff member Benjamin previously Director of Asset Management for a publicly traded company **based in Taiwan**, acquiring $450M+ of Southern California real estate (5,000+ residential units, 3M+ SF commercial); Susan spent two years with an overseas affiliated PR company **in Taiwan**.
-- **Community-identity marker:** four separate staff bios state fluency in "English, Mandarin and **Taiwanese**" — the SGV professional-world usage of "Taiwanese" as a language name, worth noting for the language-identity record.
+- **Accredited Management Organization (AMO)** — per CEO bio, **first Asian firm in the country** to receive the designation; affiliations listed on-site: CCIM, ICSC, AIR, IREM, AOA, MRMLS, NAR, CoStar, LoopNet, CAR.
+- **Scale (web-sourced, 2026-09-26):** founded **1985** (LinkedIn company data); ~60 commercial centers in Southern California, portfolio valued ~**$1.5B** (OCBJ); annual revenue $20–30M, 10–20 employees per LinkedIn profile era (OCBJ 2024-era story cites ~100 including center staff). Second office in **City of Industry** ("STC Center" — venue for community events per the firm's news page).
+- **Notable holdings in press:** former Bank of America / **Nixon Plaza** building, Uptown Whittier (acquired Oct 2014, $4.75M; National Historic Landmark — Nixon's first law office; rooftop-flag restoration planned, Whittier Daily News); **Anaheim GardenWalk** — affiliate purchase closed Dec 21 [2024] at **$80M** (OCBJ; "long-term holding… not planning to flip" — John Hsu).
+- **Community-economy venue role:** STC Center (City of Industry) hosted RHCA installation gala (2012), Million Stars Singing Contest, ACDA dance festival, AIR mainstream/Asian realty mixer (2011), F5 Financial Forum (2011); firm attended Ed Royce fundraiser (2012); news page records a 2011 luncheon with "Consul General of China" Qiu Shaofang (title as STC wrote it). Chinese press credits STC/Hsu with shaping 四季廣場, 夜市 (Yes Plaza) and 羅蘭廣場 commercial districts.
+
+### Staff (on-site roster, echoped)
+
+- [[people/john-hsu|John Hsu (許惠欽)]] — Officer & CEO
+- [[people/susan-hsu|Susan Hsu]] — HR Manager & Director of Property Management (CA agent since 1987; two years at the Taiwan-affiliated PR firm)
+- [[people/melody-yang|Melody Yang]] — Accounting Manager & Director of Property Management (broker since 2000)
+- [[people/amy-li|Amy Li]] — Marketing Manager (CSULB graphic design; community seminars)
+- **Benjamin** (surname not stated on-site) — prior: Director of Asset Management for a **Taiwan-listed company**, acquired $450M+ SoCal assets (5,000+ units, 3M+ SF commercial)
+- **Tina** (surname not stated on-site) — accounting; CSUF B.B.A.; languages incl. Vietnamese
+- Four bios list fluency in "English, Mandarin and **Taiwanese**" — SGV professional usage of the language name, noted for the language-identity record.
 
 ## Historical Significance
 

@@ -9,7 +9,10 @@ tags:
 verification_status: pending
 last_reviewed: 2026-09-15
 ---
-# Dr. John Hsu (徐新宏博士)
+# Dr. John Hsu
+(徐新宏博士)
+
+> Not to be confused with [[people/john-hsu|John Hsu (許惠欽)]], real-estate executive (STC Management).
 
 ## Identity Snapshot
 - **English:** Dr. John Hsu
