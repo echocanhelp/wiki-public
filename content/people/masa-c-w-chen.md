@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-27
 ---
 # Masa C. W. Chen (陳正旺)
 
@@ -42,6 +42,7 @@ The orchid years are documented in the community's own story corpus: [[works/tai
 - **Daughter:** Amy, Ruth
 - **Son:** Leo, Miles
 
+- Re-grep 2026-09-27 (slice 09260500-29): fresh grep 陳正旺 / Masa C. W. Chen over works/ + articles/ returns the same cited set (TAH #2294, mystories-765, harvest index) — SKIP, verified saturated.
 
 ## Sources
 - [TAH #2294 encyclopedia: 2294. Masa C. W. Chen 陳正旺](https://taiwaneseamericanhistory.org/whos-who-2294-masa-c-w-chen/)

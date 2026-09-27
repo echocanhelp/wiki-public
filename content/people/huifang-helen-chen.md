@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-26
+last_reviewed: 2026-09-27
 ---
 # Huifang Helen Chen
 
@@ -38,6 +38,8 @@ _No filled family fields on the TAH profile._
 - A second TA.org encyclopedia record [[works/taiwaneseamericanhistory-org/381-huifan-helen-chen-201504|381. Huifan Helen Chen / 2015/04]] points at [[people/huifan-helen-chen|Huifan Helen Chen]] — identical credentials (Curtis B.M., Miami M.M.) under romanization "Huifan" vs "Huifang". HOLD: likely the same person under a romanization variant; dedup pending owner/community input, pages not merged.
 - The bare "Helen Chen" signatory in [[works/taiwaneseamerican-org/pew-research-center-taiwanese-american-statement|PEW Research Center 台美人聲明]] lacks any identifier — not attributed here (unknown person).
 - No Chinese name appears in any corpus record (the TAH profile's 漢名 field is empty); no 漢名 backfill possible — pending owner/community input.
+
+- Corpus check 2026-09-27 (deepen-x slice 09260500-29): fresh grep (Huifang/Huifan) — identical hit set (184, 381, works index); no new corpus material. SKIP-deepen; HOLD on Huifang-vs-Huifan romanization dedup still pending owner input.
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/huifang-helen-chen/)
