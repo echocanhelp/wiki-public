@@ -21,7 +21,7 @@ PRC white paper issued by the Taiwan Affairs Office (TAO) and the State Council 
 ## Verbatim-sourced claims (exact spans)
 
 - **Never a state:** "Taiwan has never been a state; its status as part of China is unalterable."
-- **UNGA 2758:** the resolution "settled once and for all the political, legal and procedural issues of China's representation in the UN, and it covered the whole country, including Taiwan" — see [[sources/uncga-resolution-2758]].
+- **UNGA 2758:** the resolution "settled once and for all the political, legal and procedural issues of China's representation in the UN, and it covered the whole country, including Taiwan" — see [[topics/un-resolution-2758]].
 - **UN legal opinion:** quotes the UN Secretariat Legal Office as saying "the United Nations considers Taiwan as a province of China with no separate status."
 - **1982 Constitution:** "Taiwan is part of the sacred territory of the PRC" (quoting the PRC Constitution, 1982).
 - **Anti-Secession Law 2005:** "the state shall never allow the Taiwan independence secessionist forces to make Taiwan secede from China under any name or by any means."
@@ -29,7 +29,7 @@ PRC white paper issued by the Taiwan Affairs Office (TAO) and the State Council 
 - **Use of force:** "will not renounce the use of force, and we reserve the option of taking all necessary measures," but force is a "last resort taken under compelling circumstances."
 - **Rejuvenation deadline:** reunification tied to national rejuvenation; "should not allow this problem to be passed down from one generation to the next."
 - **Treaties:** Treaty of San Francisco 1951 dismissed as "illegal and invalid"; Cairo Declaration and Potsdam Proclamation cited as binding "international legal documents."
-- **US:** accused of "using Taiwan to contain China" (phrase appears ~5 times) — see [[sources/taiwan-relations-act]].
+- **US:** accused of "using Taiwan to contain China" (phrase appears ~5 times) — see [[topics/taiwan-relations-act]].
 - **One-China consensus:** as of 2022, 181 countries have ties with the PRC on a one-China basis.
 - **1978 US-China communique:** the US "acknowledges the Chinese position that there is but one China and Taiwan is part of China" — note *acknowledges*, not *recognizes*: the deliberate wording difference across the English/French/Chinese texts (the French version used "reconnait").
 
