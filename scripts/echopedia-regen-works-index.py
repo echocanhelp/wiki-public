@@ -67,7 +67,7 @@ def load_works() -> list[dict]:
 
 
 def md_link(r: dict) -> str:
-    t = r["title"].replace("|", "\\|").replace("]", "")
+    t = r["title"].replace("]", "")  # pipes in display text are legal (alias = text after FIRST pipe); escaping re-created the autofix churn (2026-09-26)
     band = r["band"] or "?"
     # Full works/ wikilink — relative ./src/slug becomes ../src (404 at site root)
     return f"- [[{r['href']}|{t}]] — {r['date'] or 'undated'} · {band}"

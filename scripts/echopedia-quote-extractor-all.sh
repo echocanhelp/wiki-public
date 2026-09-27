@@ -35,9 +35,9 @@ fi
 export PYTHON SCRIPT_DIR
 export OMP_NUM_THREADS=1 MKL_NUM_THREADS=1 OPENBLAS_NUM_THREADS=1
 echo "=== Quote Extractor: All TAHS Members (par=$PAR) ==="
-echo "Processing ${#SLUGS[@]} members..."
+echo "Processing ${#SLUGS[@]} members in ONE pass (shared article cache, 2026-09-26)..."
 
-printf '%s\n' "${SLUGS[@]}" | xargs -P "$PAR" -I{} \
-    $PYTHON "$SCRIPT_DIR/echopedia-quote-extractor.py" --person {}
+SLUG_CSV=$(IFS=,; echo "${SLUGS[*]}")
+$PYTHON "$SCRIPT_DIR/echopedia-quote-extractor.py" --persons "$SLUG_CSV"
 
 echo "=== Done ==="

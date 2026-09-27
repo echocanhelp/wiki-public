@@ -97,6 +97,10 @@ SLUG_TO_CHINESE = {
 # Minimum context length around the name mention
 CONTEXT_CHARS = 80
 
+# Process-local article cache so --persons batch mode scans 3.7k articles ONCE
+# instead of once per person (added 2026-09-26 efficiency pass).
+ARTICLE_CACHE: dict = {"articles": None}
+
 
 def extract_title_from_frontmatter(content):
     """Extract title from frontmatter."""
@@ -146,7 +150,6 @@ def find_quotes(slug, chinese_name):
         en_name = slug.replace('-', ' ').title()
         en_name = en_name.replace('S Lai', 'S. Lai').replace('Hsu Jr', 'Hsu Jr.')
         search_names.append(en_name)
-
     # Load priority hits for this slug (pre-scored matches)
     hits_file = REPO_ROOT / "knowledge/research/taiwanjustice-net-priority-hits.jsonl"
     hit_paths = set()
@@ -165,13 +168,18 @@ def find_quotes(slug, chinese_name):
         except (OSError, json.JSONDecodeError):
             pass
 
-    if ARTICLES_DIR.exists():
-        for article_file in ARTICLES_DIR.rglob("*.md"):
-            try:
-                content = article_file.read_text(encoding="utf-8")
-            except (OSError, UnicodeDecodeError):
-                continue
+    if ARTICLE_CACHE["articles"] is None:
+        loaded = []
+        if ARTICLES_DIR.exists():
+            for af in ARTICLES_DIR.rglob("*.md"):
+                try:
+                    loaded.append((af, af.read_text(encoding="utf-8")))
+                except (OSError, UnicodeDecodeError):
+                    continue
+        ARTICLE_CACHE["articles"] = loaded
 
+    if ARTICLE_CACHE["articles"]:
+        for article_file, content in ARTICLE_CACHE["articles"]:
             rel_path = str(article_file.relative_to(REPO_ROOT))
 
             # Check if this person is mentioned
@@ -337,30 +345,30 @@ def add_quotes_to_person_page(slug, quotes, dry_run=False):
 
 def main():
     parser = argparse.ArgumentParser(description="Generate ## Quotes sections for person pages")
-    parser.add_argument("--person", type=str, required=True, help="Person slug")
+    parser.add_argument("--person", type=str, help="Person slug")
+    parser.add_argument("--persons", type=str, help="Comma-separated slugs (single-pass batch; shares article cache)")
     parser.add_argument("--dry-run", action="store_true", help="Show what would be done without writing")
     args = parser.parse_args()
 
-    slug = args.person
-    chinese_name = SLUG_TO_CHINESE.get(slug)
+    slugs = [s.strip() for s in (args.persons or args.person or "").split(",") if s.strip()]
+    if not slugs:
+        parser.error("need --person or --persons")
 
-    if not chinese_name:
-        print(f"ERROR: No Chinese name mapping for slug '{slug}'")
-        return
+    for slug in slugs:
+        chinese_name = SLUG_TO_CHINESE.get(slug)
 
-    print(f"Finding quotes for {chinese_name} ({slug})...")
-    quotes = find_quotes(slug, chinese_name)
-    print(f"  Found {len(quotes)} quotes")
+        if not chinese_name:
+            print(f"ERROR: No Chinese name mapping for slug '{slug}'")
+            continue
 
-    if quotes:
-        for q in quotes[:5]:
-            print(f"  {q['date']} — {q['quote'][:80]}")
-        if len(quotes) > 5:
-            print(f"  ... and {len(quotes) - 5} more")
+        print(f"Finding quotes for {chinese_name} ({slug})...")
+        quotes = find_quotes(slug, chinese_name)
+        print(f"  Found {len(quotes)} quotes")
 
-        add_quotes_to_person_page(slug, quotes, dry_run=args.dry_run)
-    else:
-        print("  No quotes found.")
+        if quotes:
+            add_quotes_to_person_page(slug, quotes, dry_run=args.dry_run)
+        else:
+            print("  No quotes found.")
 
     print("\nDone.")
 
