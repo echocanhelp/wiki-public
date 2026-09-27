@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-26
+last_reviewed: 2026-09-27
 ---
 # Prof. Perry P.J. Yang (楊沛儒教授)
 
@@ -68,3 +68,6 @@ Corpus re-grep 2026-09-21 (slice 09201400-24): 楊沛儒 / Perry Yang matches un
 
 ## Corpus re-grep (2026-09-25, slice 09250700-11)
 - SKIP: fresh ZH+EN re-grep 楊沛儒 / Perry P — hit set unchanged: his own TAH #2002 stub plus the works index only. No memoir names him; nothing new absorbable (saturated).
+
+## Corpus re-grep (2026-09-27, slice 09260700-9)
+- SKIP: fresh ZH+EN re-grep hits unchanged — own TAH #2002 stub plus works index only. Nothing new absorbable (saturated).

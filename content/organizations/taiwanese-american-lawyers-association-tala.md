@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-26
+last_reviewed: 2026-09-27
 ---
 # Taiwanese American Lawyers Association TALA (台美律師協會)
 
@@ -36,3 +36,4 @@ The Taiwanese American Lawyers Association (TALA) is a community-service based l
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 複核（deepen-x slice 09260317-15, 2026-09-26）: fresh ZH+EN re-grep works/+articles/ hit set identical to absorbed records — SKIP (verified-saturated).
+復核 (deepen-x slice 09260700-9, 2026-09-27): fresh ZH+EN re-grep — hit set identical to absorbed records — SKIP (verified-saturated).

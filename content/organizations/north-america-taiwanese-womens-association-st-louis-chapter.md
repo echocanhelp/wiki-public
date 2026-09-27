@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-26
+last_reviewed: 2026-09-27
 ---
 # North America Taiwanese Women’s Association – St. Louis Chapter (北美洲台灣婦女會聖路易分會)
 
@@ -45,3 +45,4 @@ Sibling-organization context (fresh grep 2026-09-23, slice 09220900-23): the St.
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 複核（deepen-x slice 09260317-15, 2026-09-26）: fresh ZH+EN re-grep works/+articles/ hit set identical to absorbed records — SKIP (verified-saturated).
+復核 (deepen-x slice 09260700-9, 2026-09-27): fresh ZH+EN re-grep — chapter first-hand hit set unchanged, all already wikilinked; extra hits are NATWA-wide records and sibling chapters, not chapter first-hand material. SKIP (verified-saturated).
