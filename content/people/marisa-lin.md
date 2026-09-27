@@ -55,3 +55,4 @@ last_reviewed: 2026-09-27
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- Re-verified 2026-09-27 (slice 09260500-21 worker retry): fresh grep (Marisa Lin / 陳麗雲) — identical hit set (#798, our-journeys-389, index); all 印城同鄉會 facts already absorbed. SKIP-deepen; verified-saturated.
