@@ -261,8 +261,10 @@ On a phone, **use header search** (漢名 or English). This page is an A–Z lis
 [[organizations/southeast-bay-taiwanese-association-sebta|Southeast Bay Taiwanese Association SEBTA (北加州)]]
 [[organizations/southern-california-alumni-association-of-tainan-first-senior-high-sch|Southern California Alumni Association of Tainan First Senior High School and Tainan Girls’ Senior High School(AATFHSSCA)]]
 [[organizations/stanford-taiwanese-student-association|Stanford Taiwanese Student Association]]
+[[organizations/stc-rowland-legacy|STC Rowland Legacy]]
 [[organizations/student-association-of-taiwan-uw-madison|Student Association of Taiwan, UW-Madison]]
 [[organizations/sun-ten-museum|Sun Ten Museum (順天美術館)]]
+
 
 ### T {#t}
 
@@ -512,8 +514,10 @@ On a phone, **use header search** (漢名 or English). This page is an A–Z lis
 
 [[organizations/yale-taiwanese-student-association|Yale Taiwanese Student Association]]
 [[organizations/yang-foundation|Yang Foundation (楊文傑紀念基金會)]]
+[[organizations/yes-plaza|Yes Plaza (夜市廣場)]]
 [[organizations/yin-chin-foundation-of-u-s-a|YIN CHIN FOUNDATION OF U.S.A. (美國殷勤文教公益基金會)]]
 [[organizations/youth-orchestra-cycny|Youth Orchestra, CYCNY (紐約幼獅青少年管弦樂團)]]
+
 
 ### # {#other}
 
