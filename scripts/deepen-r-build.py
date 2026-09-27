@@ -43,6 +43,8 @@ BODY = (
     "(write 'HOLD: conflict A vs B', never auto-merge dates/ages), set last_reviewed: today. "
     "No web, no new pages, no invented biography; wikilinks to EXISTING slugs only. "
     "Pages with no corpus hits and nothing absorbable: note SKIP-with-reason. "
+    "FRONTMATTER RULE: append notes BELOW the closing '---' fence only — an HTML comment written "
+    "inside YAML frontmatter breaks the ENTIRE Quartz build (fixed 6 files 2026-09-26). "
     "HARD RULES: (1) max 3 tool calls per page; (2) when ALL pages are processed, you MUST run "
     "`git add -A content/ && git commit -m 'deepen-r revisit' ; hermes kanban complete __TASKID__ "
     "--result 'N deepened, M skipped, K corpus-linked'` as your LAST action; (3) ending your turn without calling "
