@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-26
+last_reviewed: 2026-09-27
 ---
 # Richard Lin (林品任)
 
@@ -44,6 +44,7 @@ _No filled family fields on the TAH profile._
 - Re-grepped 2026-09-24 (slice 09230700-26): hits unchanged — #306/#678, the #393 hedge-fund name-collision record, and the index only. No new corpus facts; #393 HOLD stands. verified-saturated.
 - Re-grepped 2026-09-25 (slice 09240700-29): hits unchanged — #306/#678, #393 hedge-fund name-collision record, index only. No new corpus facts; #393 HOLD stands. Verified-saturated SKIP-deepen.
 - Re-grepped 2026-09-26 (slice 09251000-26): hits unchanged — #306/#678, #393 name-collision record, index only. No new corpus facts; #393 HOLD stands. Verified-saturated SKIP.
+- Re-grepped 2026-09-27 (slice 09260600-14): fresh grep 林品任/Richard Lin over works+articles — hit set unchanged (#306/#678 records, #393 hedge-fund name-collision record, index). No new corpus facts; #393 HOLD stands. Verified-saturated SKIP.
 
 ## Sources
 - [TAH #306 encyclopedia: 306. Richard Lin 林品任, Violinist / 2015/10](https://taiwaneseamericanhistory.org/306-richard-lin-%e6%9e%97%e5%93%81%e4%bb%bb-violinist-201510/)

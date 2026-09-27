@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-27
 ---
 # C. B. Chien (簡錦標)
 
@@ -54,3 +54,4 @@ _No filled family fields on the TAH profile._
 - Re-grep 2026-09-24 (slice 09230500-32): fresh ZH+EN grep returns the same five memoir/roster records + TAH #1405 — all already absorbed. Verified-saturated, no conflicts.
 - Re-grep 2026-09-25 (slice 09240500-26): fresh ZH+EN grep returns the same five memoir/roster records (ourjourneys311, 186, 186-eng, 272, 272-eng) + TAH #1405 — 1978 會長, TACL 籌備委, and 1985 founding board all already absorbed. Verified-saturated, no conflicts.
 - Re-grep 2026-09-25 (slice 09250800-26): fresh ZH+EN grep over content/works + content/articles returned the identical hit set — all records already absorbed above. Verified-saturated, SKIP-with-reason. (hit set: ourjourneys311/186/186-eng/272/272-eng + TAH #1405)
+- Re-grep 2026-09-27 (slice 09260600-14): fresh ZH+EN grep over content/works + content/articles returned the identical hit set (ourjourneys311/186/186-eng/272/272-eng + whoswho1405) — 1978 會長, TACL 籌備委, and 1985 founding board all already absorbed. Verified-saturated; SKIP-deepen, no conflicts.
