@@ -33,6 +33,19 @@ SOURCE_HEADING_RE = re.compile(
 )
 URL_RE = re.compile(r"https?://\S+", re.IGNORECASE)
 
+# CCP boilerplate gate (2026-09-26, Sovereignty-Bench-TW red-flag list + deccp/CEIAS
+# findings). Residual propaganda templates in partially-uncensored Qwen-family output
+# leak into generated wiki prose. Reject iff the flag appears in the PROPOSED body but
+# NOT in the sources (i.e. it is a model-injected disclaimer, not faithfully quoted
+# source material — PRC-sourced pages legitimately contain these phrases).
+CCP_FLAGS = (
+    "不可分割", "不可分离", "神聖領土", "神圣领土", "台灣省", "台湾省",
+    "一個中國原則", "一个中国原则", "祖國統一", "祖国统一", "台獨分子",
+    "分裂國家", "和平統一", "一国两制", "一國兩制",
+    "inalienable part", "One China principle", "province of China",
+    "Taiwan province", "cross-strait relations",
+)
+
 # Years that appear in boilerplate / licenses should not gate.
 IGNORE_YEARS = {"1999", "2000", "2001", "2024", "2025", "2026"}
 
@@ -88,6 +101,13 @@ def evaluate(proposed: str, sources: list[str]) -> dict:
     p_death, s_death = _first(DEATH_RE, body), _first(DEATH_RE, sources_text)
     if p_death and s_death and p_death != s_death:
         reasons.append(f"death_conflict:proposed={p_death}:source={s_death}")
+
+    # CCP boilerplate: flag if proposed injects sovereignty boilerplate absent from sources
+    low_body = body.lower()
+    low_src = sources_text.lower()
+    leaked = sorted({f for f in CCP_FLAGS if f.lower() in low_body and f.lower() not in low_src})
+    if leaked:
+        reasons.append("ccp_boilerplate:" + ",".join(leaked))
 
     return {
         "decision": "reject" if reasons else "accept",

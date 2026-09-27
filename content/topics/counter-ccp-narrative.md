@@ -66,6 +66,15 @@ LINE bubble, zh-TW:
 
 > Taiwan is already a country in the only sense that matters to the people who live there — self-rule — and is denied that name by a larger state that has never governed it.
 
+## The Model Layer (2026-09-26)
+
+Counter-narrative now also runs at the machine layer: our local worker keeps a
+neutral-archivist stance prompt, generated wiki prose passes a red-flag gate
+(sovereignty boilerplate not present in the sources is rejected as a model
+leak), and the keeper model is scored — not just pass/fail'd — on the
+Sovereignty-Bench-TW after every model swap. Narrative sovereignty includes the
+tools that write the narrative.
+
 ## Maintenance Rules
 
 1. **Numbers that move require re-fetch before citing:** recognizer-state count, CIP population, white-paper count, 2022 PLA incident counts. Never cite from memory.
