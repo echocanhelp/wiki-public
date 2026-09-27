@@ -6,7 +6,7 @@ tags:
   - Taiwanese-American
   - Taiwan-Center-group-member
 verification_status: published
-last_reviewed: 2026-09-26
+last_reviewed: 2026-09-27
 ---
 # Taiwanese American Religious Study Association
 
@@ -40,6 +40,8 @@ The continuous 2014–2020 deposit trail shows an active lecture/publication pro
 *Re-grep 2026-09-26 (slice 09260317-24): fresh grep (台美人宗教研習會／信仰與人文研習會／TARSA) again returns only records 831-834, 923/924 and the TARSA-SC org record — all already linked in the Timeline above. Verified saturated; no new absorbable material.*
 
 *Re-grep 2026-09-25 (slice 09250700-9): fresh grep (台美人宗教研習會／信仰與人文研習會／TARSA) again returns only records 831-834, 923 and the TARSA-SC org record — all already linked in the Timeline above. Verified saturated; no new absorbable material.*
+
+*Re-grep 2026-09-27 (slice 09260700-8): fresh grep (台美人宗教研習會／信仰與人文研習會／TARSA) again returns only records 831-834, 923 and the TARSA-SC org record — all already linked in the Timeline above. Verified saturated; no new absorbable material.*
 
 ## Source Notes
 
