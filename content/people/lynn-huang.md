@@ -127,3 +127,5 @@ _No filled family fields on the TAH profile._
 <!-- TJJ-A09260500-20: verified 2026-09-27 — slice article a40b37bc03b2b9cb（以立「希望之光」世界首演）subject link re-checked vs 正文: real (作曲、指揮：黃令先), no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 - 複核（TJJ-A09260500-15, 2026-09-27）：本 slice 四篇（[[articles/taiwanjustice-net/2025/20250213030340_以立合唱團_演唱_末日之淚_-選自威爾第的_6ba229d2998bbfa4|6ba229d2]]／[[articles/taiwanjustice-net/2024/20240228151341_root_8c6aeada16c1e8ba|8c6aeada]]／[[articles/taiwanjustice-net/2023/20230202201307_2022_12_14_以立合唱團_演唱_末日之淚_-選自威爾第的_e7e0fe18037cc328|e7e0fe18]]／[[articles/taiwanjustice-net/2024/20240425081647_root_17835ad9519f9cfe|17835ad9]]）正文再驗證——涉本人各篇 subject 連結為真；含各文 wikilink 的 2022-10-01／10-08 條目已在庫；[[articles/taiwanjustice-net/2024/20240425081647_root_17835ad9519f9cfe|17835ad9]] 無涉本人 — SKIP，無新材料。
+
+- 複核（TJJ-A09260500-16, 2026-09-27）：本 slice 三篇涉本人——4119cffe（音樂短講第13集：泛音特講）、2b2e0ebc（學生王子：音樂總監）、7214b273（拯救我：鋼琴）subject 連結再驗證均為真，無錯鏈、無虛鏈；第四篇 753347eb（台文通訊30冬）無涉本人；三篇之含該文 wikilink 日期條目（2020-12-13／2024-10-12／2022-10-01／10-08）均已在庫 — SKIP，已飽和。

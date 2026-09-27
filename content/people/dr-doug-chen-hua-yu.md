@@ -53,3 +53,4 @@ _No filled family fields on the TAH profile._
 
 > Saturate-note (deepen-x slice 09240500-21, 2026-09-25): re-verify — hit set identical (whos-who-1923, mystories597, 台積研發六騎士 article, index); nothing new absorbable. SKIP: page saturated.
 > Saturate-note (deepen-x slice 09250800-20, 2026-09-25): fresh ZH+EN grep — hit set identical (whos-who-1923, mystories597, 台積研發六騎士 article, index); all already linked. SKIP: verified-saturated.
+> Saturate-note (deepen-x slice 09260600-3, 2026-09-27): fresh ZH+EN grep (余振華/Chen-Hua Yu) — hit set identical (whos-who-1923, mystories597, 台積研發六騎士 article, index); nothing new absorbable. SKIP: verified-saturated.
