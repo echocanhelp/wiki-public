@@ -1,7 +1,16 @@
 ---
-
+title: "Jane Marie Chen"
+type: person
+name_en: "Jane Marie Chen"
+name_zh: ""
+tags:
+  - person
+  - tah-whos-who
+verification_status: pending
+last_reviewed: 2026-09-26
 ---
 <!-- deepen-x slice 09251054-11: SKIP re-verified 2026-09-26 — fresh ZH+EN+Embrace grep of works/articles: zero hits beyond own record -->
+
 # Jane Marie Chen
 
 ## Identity Snapshot
