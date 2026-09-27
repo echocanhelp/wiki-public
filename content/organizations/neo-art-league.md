@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-26
+last_reviewed: 2026-09-27
 ---
 # Neo Art League (加州新藝畫會)
 
@@ -35,3 +35,4 @@ Neo Art League is a professional artists association founded in 2006 by Taiwanes
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - Corpus re-grep 2026-09-26 (slice 09260317-25): SKIP — fresh grep (新藝畫會／Neo Art League) hit set unchanged: directory record, #30, #38, Our Journeys #371, TJJ 話畫時間, works index; verified saturated.
+- Corpus re-grep 2026-09-27 (slice 09260700-13): SKIP — fresh grep (新藝畫會／Neo Art League) hit set unchanged: directory record, #30, #38, Our Journeys #371, TJJ 話畫時間, works index; verified saturated.

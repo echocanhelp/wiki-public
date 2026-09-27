@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-26
+last_reviewed: 2026-09-27
 ---
 # John Pang Yu (余金榜)
 
@@ -50,3 +50,4 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- Corpus re-grep 2026-09-27 (slice 09260700-13): hit set unchanged (#610 + ourjourneys37/37-eng/39 + our-journeys-389 + works index — all linked above) — verified-saturated, SKIP this pass.

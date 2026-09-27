@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-26
+last_reviewed: 2026-09-27
 ---
 # Dr. Jia-Huey Lin Yu (林佳惠博士)
 
@@ -56,3 +56,4 @@ First President of Taiwanese American Seniors Society of Greater Washington, DC�
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- Re-grep 2026-09-27 (slice 09260700-13): fresh grep (林佳惠／Jia-Huey, works+articles) returns only TAH #152 + works index — verified saturated, no new corpus facts.

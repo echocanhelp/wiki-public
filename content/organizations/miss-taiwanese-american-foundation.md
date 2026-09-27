@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-26
+last_reviewed: 2026-09-27
 ---
 # Miss Taiwanese American Foundation (台美小姐選拔基金會)
 
@@ -24,6 +24,8 @@ The Miss Taiwanese American (MTA) Pageant is an annual competition held by the T
 - 2012-08 — pageant again documented in the 大洛杉磯台灣會館 magazine as 台美親善小姐 (name variant not merged) — [[works/taiwaneseamericanhistory-org/745-2012-e5-8f-b0-e7-be-8e-e8-a6-aa-e5-96-84-e5-b0-8f-e5-a7-90-miss-taiwanese-am|745. 2012 台美親善小姐 Miss Taiwanese American Pageant]].
 - 2014-10-12 — listed in the TAH organization directory — [[works/taiwaneseamericanhistory-org/miss-taiwanese-american-foundation|2. Miss Taiwanese American Foundation 台美小姐選拔基金會]].
 - 2016-08-07 — pageant held by the Taiwan Center Foundation of Greater Los Angeles (大洛杉磯台灣會館基金會), confirming the operator named in this page's summary — [[works/taiwaneseamericanhistory-org/7-08072016-miss-taiwanese-american-pageant|7. 08/07/2016 Miss Taiwanese American Pageant]].
+- 2015-08 — pageant documented in the 大洛杉磯台灣會館 magazine as 台美親善小姐 (name variant not merged) — [[works/taiwaneseamericanhistory-org/838-2015-e5-8f-b0-e7-be-8e-e8-a6-aa-e5-96-84-e5-b0-8f-e5-a7-90-miss-taiwanese-am|838. 2015 台美親善小姐 Miss Taiwanese American Pageant]].
+- 2018-08-04 — Miss Taiwanese American 2018 pageant sponsored by Taiwan Center of Greater Los Angeles, held in San Gabriel, CA — [[works/taiwaneseamericanhistory-org/19-miss-taiwanese-american-2018-sponsored-by-taiwan-center-greater-los-angeles-i|19. Miss Taiwanese American/2018, San Gabriel /CA 08/04/2018]].
 - 2018-12 — program promoted via a Miss Taiwanese American 2019 calendar — [[works/taiwaneseamericanhistory-org/1256-miss-taiwanese-american-2019-calendar|1256. Miss Taiwanese American 2019 /Calendar]].
 - 2023-11 — an MTA queen, 張芳瑜, went on to win the 美國亞裔小姐 (Miss Asian America) crown — [[works/taiwaneseamericanhistory-org/my-stories-889|889. 台美小姐皇后 張芳瑜摘美國亞裔小姐后冠]].
 
