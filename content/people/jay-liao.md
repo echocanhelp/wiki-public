@@ -22,7 +22,8 @@ last_reviewed: 2026-09-26
 
 - Creator, writer, and director of [[works/jliaoart-org/the-islands-story|The Island's Story: Taiwan's 400-Year Journey]] (2025–2026), a ten-part documentary series; editing with Sam Martin.
 - Self-described practice (about page): films, art, and independent projects "around things I'm curious about"; also maintains *Art of the Dhamma* (Buddhist-inspired body of work: impermanence, mindfulness, letting go) and short films.
-- Community exhibition record 2026: House of Taiwan Balboa Park (May 31, Aug 16), San Diego Taiwan Festival at NTC Park Liberty Station (Aug 22), Passport to Diplomacy Balboa Park (Sep 6), Taiwan Carnival Anaheim (Sep 25–27).
+- Community exhibition record 2026: House of Taiwan Balboa Park (May 31, Aug 16), **San Diego Taiwan Festival** at NTC Park Liberty Station (Aug 22 — the festival is run by [[organizations/taiwanese-american-professionals-san-diego|TAP-SD]]), Passport to Diplomacy Balboa Park (Sep 6), Taiwan Carnival Anaheim (Sep 25–27).
+- The screening circuit places him inside San Diego's Taiwanese-American institutional network — the same venues as [[organizations/san-diego-taiwanese-cultural-association|SDTCA]]-circle community programming; his series' framing aligns with the civic-programming consensus (community-sourced).
 
 ## Source Notes and Confidence
 
