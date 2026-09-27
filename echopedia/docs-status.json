@@ -1,14 +1,15 @@
 {
-  "at": "2026-09-27T04:48:15.426404+00:00",
+  "at": "2026-09-27T06:53:33.736950+00:00",
   "status": "WARN",
   "fail": 0,
-  "warn": 1,
+  "warn": 2,
   "ok": 13,
-  "cron_count": 29,
+  "cron_count": 31,
   "agent_crons": 0,
-  "bad_deliver": 0,
+  "bad_deliver": 1,
   "link_missing": 0,
   "issues": [
+    "WARN: cron deliver not System group: 1",
     "WARN: WHERE_WE_ARE last_reviewed 2026-09-06 is 20d old (>14d)"
   ]
 }
