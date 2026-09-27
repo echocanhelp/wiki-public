@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-26
+last_reviewed: 2026-09-27
 ---
 # Y. C. Hsu (許耀慶)
 
@@ -57,3 +57,5 @@ _No filled family fields on the TAH profile._
 - [[works/taiwaneseamericanhistory-org/whoswho1244|1244. Y. C. Hsu 許耀慶 / 2016/08]]
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+> Corpus re-verify (deepen-x 09260700-27, 2026-09-27): fresh ZH+EN grep returned only ourjourneys186/-eng, ourjourneys272/-eng, whoswho1244, whoswho1560 collision note, works index. Both HOLDs stand. SKIP-deepen.

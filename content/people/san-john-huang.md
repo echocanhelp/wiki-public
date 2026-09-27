@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-26
+last_reviewed: 2026-09-27
 ---
 # San John Huang (黃三榮)
 
@@ -59,3 +59,5 @@ Re-grep 2026-09-25 (slice 09240317-18): hit set adds the English edition of the 
 Re-grep 2026-09-25 (slice 09250700-16): fresh 黃三榮 / San John Huang grep of works+articles returns the identical hit set (own TAH #1976, ourjourneys29/-eng, 186/-eng, 244, 272/-eng) — SKIP, verified-saturated.
 
 Re-grep 2026-09-26 (slice 09260400-7): fresh 黃三榮 / San John Huang grep returns the identical hit set (own whos-san-john-huang, ourjourneys29-eng, 186/-eng, 244, 272) — all already linked above — SKIP, verified-saturated.
+
+Re-grep 2026-09-27 (slice 09260700-26): fresh ZH+EN grep of works/ + articles/ returns the identical hit set (whos-san-john-huang, ourjourneys29-eng, 244, 186/-eng, 272) — all already linked above; SKIP, verified-saturated.

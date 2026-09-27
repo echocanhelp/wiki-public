@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-26
+last_reviewed: 2026-09-27
 ---
 # Chien-Tai Chen (陳建台)
 
@@ -73,3 +73,5 @@ _No filled family fields on the TAH profile._
 複核（deepen-x 2026-09-25, slice 09250700-15）：re-grep（陳建台 / Chien-Tai Chen, works+articles）仍僅本人書目 #302/#654 與 index 條目 — SKIP，無新增社群材料。
 
 複核（deepen-x 2026-09-26, slice 09260400-7）：re-grep（陳建台 / Chien-Tai Chen, works+articles）命中集合不變（本人書目 #302/#654 + index 條目）— SKIP，無可吸收社群材料。
+
+複核（deepen-x 2026-09-27, slice 09260700-27）：re-grep（陳建台 / Chien-Tai Chen, works+articles）命中集合不變（本人書目 #302/#654 + index 條目）— SKIP，無可吸收社群材料。

@@ -51,3 +51,4 @@ _No filled family fields on the TAH profile._
 - Re-verified 2026-09-25 (slice 09250317-9): fresh grep 王大文/Dawen Wang returns whoswho1305, works index, and the TA.org Dawen cluster — all already linked; same-name HOLD unchanged. Verified saturated, SKIP.
 
 - 2026-09-26 DEEPEN-X09251451-2: fresh grep 王大文/Dawen Wang returns whoswho1305, works index, TA.org Dawen cluster — all already linked; same-name HOLD unchanged. Verified-saturated, SKIP.
+- 複核 2026-09-27（slice 09260600-32）：再 grep works/ + articles/（王大文 / Dawen Wang），命中集不變（whoswho1305、works index、TA.org Dawen cluster）— 已全部吸收並 wikilink，同名人 HOLD 不變，無新事實。SKIP；verified-saturated。
