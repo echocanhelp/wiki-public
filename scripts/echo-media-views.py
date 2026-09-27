@@ -156,7 +156,7 @@ Listen below; every piece is listed (not a teaser).
 
 ## Related Pages
 - [[works/index|Stories & historical works]]
-- [[media/_manifest|Media catalog manifest]]
+- Media catalog manifest: `media/_manifest.json`
 """
     OUT.parent.mkdir(parents=True, exist_ok=True)
     OUT.write_text(body, encoding="utf-8")
