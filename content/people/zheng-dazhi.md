@@ -37,6 +37,8 @@ Zheng was not a member of the Geneva Presbyterian Church congregation in Laguna 
 
 ## From the record
 
+- 複核（TJJ-A09260500-10, 2026-09-27）：本 slice 文章 8362234ba338aea7（南加州槍擊案的省思, 洪錦鈺社論, 2022-05-17）正文再驗證——鄭達志醫師挺身而出防止悲劇擴大之記述確認見於正文，subject 連結為真，無錯鏈、無虛鏈；對應日期事實條目（已掛該文 wikilink）已在庫 — SKIP，已飽和。
+
 - 覆核（TJJ-A09260400-26, 2026-09-26）：本 slice 文章 8c20569762592915（南加州教會槍擊案中央社報導） 正文再驗證——subject 連結為真實提及，無錯鏈、無虛鏈；含該文 wikilink 的日期事實條目已在庫 — SKIP，已飽和。
 
 - 複核（TJJ-A09251400-7, 2026-09-26）：slice 文章 8362234ba338aea7 正文再驗證——鄭達志醫師挺身而出防止悲劇擴大而壯烈犧牲確認見於正文，subject 連結為真，無錯鏈、無虛鏈；對應日期條目（已掛該文 wikilink）已在庫 — SKIP，已飽和。

@@ -57,6 +57,8 @@ The corpus documents Lieu's standing within the Taiwanese American community in 
 
 ## From the record
 
+- 複核（TJJ-A09260500-10, 2026-09-27）：本 slice 文章 afdbd8b27a42563d（洛杉磯台灣會館重建動土, 2025-05-04）正文再驗證——劉雲平於台館新館動土典禮致詞（支持台美關係、趙美心避免雙重課稅法案）確認見於正文，subject 連結為真，無錯鏈、無虛鏈；2025-05-03 日期事實條目（已掛該文 wikilink）已在庫 — SKIP，已飽和。
+
 - 複核（TJJ-A09251000-14, 2026-09-26）：slice 文章 097b5750fcf3091a（花蓮0403震災台館勸募報導）subject link 正文再驗證——劉雲平列名即時對台灣表達關懷的跨黨派聯邦眾議員之一，連結為真，無錯鏈、無虛鏈；2024-04-04 條目（含該文 wikilink）已在庫 — SKIP，無新材料。
 
 - 連結複核（TJJ-A09251000-6, 2026-09-26）：本 slice 目錄頁 c6f9dbff48b39366（台美人台加人）subject 連結逐一對照正文條目——全部為真，無錯鏈、無虛鏈；對應日期事實條目（含該文 wikilink）已在庫 — SKIP，已飽和。
