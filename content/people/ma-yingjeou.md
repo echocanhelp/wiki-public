@@ -144,3 +144,6 @@ last_reviewed: 2026-09-26
 <!-- TJJ-A09260400-10: verified 2026-09-26 — subject links in slice article f19de8f9d3b53071（Chen Shui-bian return to prison, 2013-04-22）re-checked vs 正文; all real, no wrong/spurious links (.md suffixes stripped from Subjects block); dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A09260400-27: verified 2026-09-26 — subject links in slice 09260400-27 articles (e041055e 台灣演義分類頁 / cd646b86 WHO世衛專題頁 / 2fc3294e Michelle Steel募款餐會 / 432e1fca Ed Royce標籤頁) re-checked vs 正文; all real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+
+<!-- TJJ-A09260500-5: verified 2026-09-27 — slice articles (24ebe5f065076949 2016海外台語研習會公告 / 4a5080befc342f69＋2c5d3c7d4f5acccc 戴琪鄧振中TIFA同文兩存檔 / adc931e5b99bb0a9 van der Wees 評2012大選) subject links re-checked vs 正文; all real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->

@@ -261,3 +261,6 @@ _No filled family fields on the TAH profile._
 <!-- TJJ-A09260400-9: verified 2026-09-26 — subject links in slice 09260400-9 articles (064fe05a08d0aecf / a428dcebbceacf38 / 04f32b14d8cf8f12 / 1fbc7a8aff9cd26e) re-checked vs 正文; all real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A09260400-28: verified 2026-09-26 — slice articles 073ea211088c8fae / e9ec20fd58bf6b1c / c595d332038f73bb / c30596cc1ea6e337 (tag/directory pages) re-checked vs 正文; subject link real, dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+
+<!-- TJJ-A09260500-5: verified 2026-09-27 — slice articles (24ebe5f065076949 2016海外台語研習會公告 / 4a5080befc342f69＋2c5d3c7d4f5acccc 戴琪鄧振中TIFA同文兩存檔 / adc931e5b99bb0a9 van der Wees 評2012大選) subject links re-checked vs 正文; all real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
