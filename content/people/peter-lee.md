@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-26
+last_reviewed: 2026-09-27
 ---
 # Peter Lee (李文智)
 
@@ -62,3 +62,5 @@ Corpus grep (works/articles, both 李文智 and "Peter Lee") hits only this page
 - [[sources/taiwaneseamericanhistory-org-story-corpus||TAHS story corpus]] — source hub for encyclopedia entries #445 / #213
 - [[works/taiwaneseamericanhistory-org/445-peter-lee-e6-9d-8e-e6-96-87-e6-99-ba-201506||TAH #445: Peter Lee 李文智]]
 - [[works/taiwaneseamericanhistory-org/213-2||TAH #213: Peter Lee 李文智, Countertenor]]
+
+Re-check slice 09260700-32 (2026-09-27): fresh grep 李文智/Peter Lee — same hit set (#445、#213、index only) — saturated, SKIP.

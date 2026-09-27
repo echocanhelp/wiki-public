@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-26
+last_reviewed: 2026-09-27
 ---
 # Silicon Valley Taiwanese American Association (北加州)
 
@@ -39,3 +39,5 @@ Re-verified 2026-09-25 (slice 09240600-24): fresh ZH+EN grep of works/ + article
 Re-verified 2026-09-26 (slice 09250900-25): fresh grep (SVTAA / 矽谷台灣同鄉會 / Silicon Valley Taiwanese American Association) returns only the chapter's own directory record, the works index, and the Pew statement already linked above; SKIP: verified-saturated, nothing new absorbable.
 
 Re-verified 2026-09-26 (slice 09260400-13): fresh ZH+EN grep returned the same three hits (own directory record, works index, Pew statement); SKIP: verified-saturated.
+
+Re-verified 2026-09-27 (slice 09260700-32): fresh ZH+EN grep returned the same three hits (own directory record, works index, Pew statement); SKIP: verified-saturated.

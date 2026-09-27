@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-27
 ---
 # Cindy Liu (劉杏芳)
 
@@ -54,3 +54,4 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- Re-verified 2026-09-27 (slice 09260700-32): fresh ZH+EN grep returns the same hit set (whos-hsingfang-cindy-liu, musician352, works/index) — verified-saturated, SKIP.
