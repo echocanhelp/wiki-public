@@ -11089,3 +11089,5 @@ Notable quotes and mentions of **楊子清** in Taiwan Justice articles:
 - 複核（TJJ-A09260500-16, 2026-09-27）：本 slice 兩篇涉本人——4119cffe（音樂短講第13集 author/主講）、7214b273（拯救我：指揮、提供）subject/author 連結再驗證均為真，無錯鏈、無虛鏈；學生王子 2b2e0ebc、台文通訊30冬 753347eb 無涉本人；兩篇之含該文 wikilink 日期條目（2020-12-13／2022-10-01／10-08）均已在庫 — SKIP，已飽和。
 
 <!-- TJJ-A09260500-17: verified 2026-09-27 — slice 09260500-17 articles (2b4b26ff English Pages目錄 / de11e295 半音合唱團國家音樂廳錄影 / 526ee7d6 以立拯救我 / 928db8aa 以立森林王子) subject links re-checked vs 正文; all real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A09260500-18: verified 2026-09-27 — slice articles (c83c2315 王廷宜追思會 / 426d2811 楊子清音樂短講13集 / e7e2a1e1＋025f6ed9 以立希望之光兩存檔副本) subject links re-checked vs 正文; all real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
