@@ -77,3 +77,5 @@ last_reviewed: 2026-09-25
 - Re-verify 2026-09-22 (TJJ-A09220400-7): link-check against slice article 3be67f6e82d34da7 body — mention confirmed real, dated fact above stands; no new material.
 - Corpus re-grep 2026-09-23 (slice 09221100-13): SKIP-new-facts — ZH+EN re-grep returns the same saturated hit set (ourjourneys74 + eng, our-journeys-363, ff303, whos1287, 謝清志林水泉回台被毆 record); no new absorbable material.
 - Corpus re-grep 2026-09-24 (slice 09230500-7): SKIP-new-facts — same saturated hit set (ourjourneys74 + eng, our-journeys-363, ff303, whos1287, 謝清志林水泉回台被毆 record); no new absorbable material.
+
+<!-- TJJ-A09260600-1: verified 2026-09-27 — subject links in slice 09260600-1 articles (77b0891e 信雅古典音樂珍藏啟用致詞 / 3be67f6e 台美人台加人存檔頁2 / 2e141df6 蔬果園藝標籤頁 / 2fa1c26a 台美人台加人存檔頁359) re-checked vs 正文; all real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->

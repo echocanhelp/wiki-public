@@ -246,3 +246,5 @@ Do not write her as a Taiwanese American biography. The U.S. nodes are **(1) TAH
 - 2026-08-16: Initial page from zh.wikipedia + 民報 + 瓦硐許姓
 - 2026-08-16: Deepen — TAH #196/#258, Fount 2021, PCT 斗南 bulletin; Faith/Church mechanism table; full discography + GMA table; TA honesty updated (TAH listing ≠ residence)
 - 2026-09-04: Owner-verified LINE identity (@許景淳Christine Hsu); recorded LINE note quote (father / Tyzen Hsiao / Taiwan from cannot-sing to free-to-sing)
+
+<!-- TJJ-A09260600-1: verified 2026-09-27 — subject links in slice 09260600-1 articles (77b0891e 信雅古典音樂珍藏啟用致詞 / 3be67f6e 台美人台加人存檔頁2 / 2e141df6 蔬果園藝標籤頁 / 2fa1c26a 台美人台加人存檔頁359) re-checked vs 正文; all real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->

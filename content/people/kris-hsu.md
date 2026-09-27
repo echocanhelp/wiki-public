@@ -64,3 +64,5 @@ _No filled family fields on the TAH profile._
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - Re-verify 2026-09-26 (slice 09250900-11): fresh grep 徐謙讓/Kris Hsu across works+articles returns the identical saturated set (own [[works/taiwaneseamericanhistory-org/whos-who-2157-kris-hsu|TAH #2157]], works index, TJJ 週末漫談音樂 38 & 88), all absorbed above; SKIP — no new community facts.
 - Re-verify 2026-09-26 (slice 09260317-2): fresh grep 徐謙讓/Kris Hsu across works+articles returns the identical saturated set (own [[works/taiwaneseamericanhistory-org/whos-who-2157-kris-hsu|TAH #2157]], works index, TJJ 週末漫談音樂 38 & 88), all absorbed above; SKIP — no new community facts.
+
+<!-- TJJ-A09260600-1: verified 2026-09-27 — subject links in slice 09260600-1 articles (77b0891e 信雅古典音樂珍藏啟用致詞 / 3be67f6e 台美人台加人存檔頁2 / 2e141df6 蔬果園藝標籤頁 / 2fa1c26a 台美人台加人存檔頁359) re-checked vs 正文; all real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
