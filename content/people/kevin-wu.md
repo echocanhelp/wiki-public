@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-26
+last_reviewed: 2026-09-27
 ---
 # Kevin Wu (吳凱文)
 
@@ -60,3 +60,4 @@ Corpus: [[works/taiwaneseamerican-org/we-b-here-with-kevjumba-he-e2-80-99s-taiwa
 - 2026-09-25 (slice 09250900-6) corpus re-check: fresh grep（吳凱文／Kevin Wu／KevJumba）— hit set identical to records already absorbed (whos-who-1775, Amazing Race, B HERE, Blacklava-20th, Kollaboration SF, Jordan Hwang oral history); SKIP: verified-saturated.
 - 2026-09-25 deepen-x slice 09240600-10: fresh grep (吳凱文 / Kevin Wu / KevJumba) — hit set identical to records already absorbed (whos-who-1775, Amazing Race, B HERE, Blacklava-20th essay, Kollaboration SF, Jordan Hwang oral history). SKIP: verified saturated, no conflicts.
 - 2026-09-26 (slice 09260317-10) corpus re-check: fresh grep（吳凱文／Kevin Wu／KevJumba）— hit set identical to records already absorbed; SKIP: verified-saturated.
+- 2026-09-27 (slice 09260700-1) corpus re-check: fresh grep（吳凱文／Kevin Wu／KevJumba）— hit set identical to records already absorbed (whos-who-1775, Amazing Race, B HERE, Blacklava-20th, Kollaboration SF, Jordan Hwang oral history, index); SKIP: verified-saturated.

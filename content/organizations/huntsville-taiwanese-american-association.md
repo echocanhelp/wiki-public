@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-26
+last_reviewed: 2026-09-27
 ---
 # Huntsville Taiwanese American Association (亨城)
 
@@ -41,3 +41,5 @@ The Huntsville Taiwanese American Association (HTAA) is a local chapter of the T
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+- 2026-09-27 re-check (slice 09260700-3): corpus re-grep (Huntsville／亨城／蕃薯味) returned only the already-linked work pages (project-3-13-eng, HTAA record, ourjourneys245, ourjourneys318) plus the Butterfly Chong Huntsville-Texas venue false positive. Saturated; SKIP-with-reason.

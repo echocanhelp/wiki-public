@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-26
+last_reviewed: 2026-09-27
 ---
 # Rutgers Taiwan Study Association (羅格斯大學台灣研究社)
 
@@ -45,3 +45,5 @@ HOLD: name conflict — the 2005 handbook and Our Journeys list render the group
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+- Corpus re-check 2026-09-27 (deepen-x slice 09260700-3): fresh ZH+EN grep (羅格斯大學台灣研究社／Rutgers Taiwan Study／Rutgers TSA／RTSA) returns the same four cited work pages, the works index, and the known TJJ 2021-01-18 digest-string false positive — no new absorbable fact. Verified saturated; SKIP-with-reason.

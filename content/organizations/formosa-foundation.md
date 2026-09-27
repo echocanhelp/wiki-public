@@ -6,7 +6,7 @@ tags:
   - Taiwanese-American
   - Taiwan-Center-group-member
 verification_status: published
-last_reviewed: 2026-09-26
+last_reviewed: 2026-09-27
 ---
 # Formosa Foundation
 
@@ -50,3 +50,5 @@ _Corpus re-scan 2026-09-26 (slice 09260317-26): fresh grep (Formosa Foundationï¼
 
 - [[organizations/taiwan-center||Taiwan Center]]
 - [[sources/taiwancenter-org||taiwancenter.org]]
+
+_Corpus re-scan 2026-09-27 (slice 09260700-3): fresh grep (Formosa Foundation, works+articles) returns the same saturated hit set (works 5, 41, 77, camp, ambassador-program, formosa-betrayed, index) â€” all absorbed above; SKIP-no-new-facts, HOLDs unchanged._

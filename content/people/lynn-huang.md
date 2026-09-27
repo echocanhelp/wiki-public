@@ -44,6 +44,8 @@ _No filled family fields on the TAH profile._
 
 ## From the record
 
+- 複核（TJJ-A09260600-4, 2026-09-27）：本 slice 四篇正文再驗證——僅 [[articles/taiwanjustice-net/2024/20240622135632_root_54dd66fe454bf899|54dd66fe]] 涉本人（攜電子鍵盤隨團伴奏、「天烏烏」改編曲〈Oh My Goodness〉確認見於正文），subject 連結為真，無錯鏈、無虛鏈；含該文 wikilink 的 2024-05-13 條目已在庫 — SKIP，無新材料。正文另涉 公孫樂／楊子清／王如君(Miranda Wang)／Kay Bowen／Daphne Wu，主體連結無遺漏虛鏈。
+
 - 複核（TJJ-A09251500-1, 2026-09-26）：本 slice 四篇（[[articles/taiwanjustice-net/2024/20240622135632_root_54dd66fe454bf899|54dd66fe]]／[[articles/taiwanjustice-net/2025/20250430234000_洛杉磯僑胞細心防疫_-228台灣介心靈日音樂會不間_2589c86787ef4241|2589c867]]／[[articles/taiwanjustice-net/2024/20240522043642_root_cc3bbdbfc662fe66|cc3bbdbf]]／[[articles/taiwanjustice-net/2025/20250518232637_戴琪_台美貿易倡議盼在關鍵領域達高標準成果_6d16f9e35d9e3188|6d16f9e3]]）正文再驗證——僅 [[articles/taiwanjustice-net/2024/20240622135632_root_54dd66fe454bf899|54dd66fe]] 涉本人（攜電子鍵盤隨團、改編〈Oh My Goodness〉確認見於正文），subject 連結為真，無錯鏈、無虛鏈；另三篇無涉本人；含該文 wikilink 的 2024-05-13 條目已在庫 — SKIP，無新材料。
 
 - 複核（TJJ-A09251400-4, 2026-09-26）：本 slice 文章 9412105875987041（以立合唱團 Mayfield 校園文化交流） 正文再驗證——黃令先攜電子鍵盤伴奏並提供「天烏烏」改編曲之記述確認見於正文，subject 連結為真，無錯鏈、無虛鏈；對應日期事實條目（含該文 wikilink）已在庫 — SKIP，已飽和。

@@ -84,6 +84,8 @@ Together with the encyclopedia records ([[works/taiwaneseamericanhistory-org/ota
 
 ## From the record
 
+- 複核（TJJ-A09260600-2, 2026-09-27）：本 slice 文章 b35038dda7fa4bcf（長青教室心得報告標籤頁, 2024-07-23 存檔）正文再驗證——「長青教室心得報告-植物生化素與你的健康【video】◎ 林清貴博士」確認見於正文，subject 連結為真，無錯鏈、無虛鏈；2019-05-17 條目（已掛該頁 wikilink）已在庫 — SKIP，已飽和。
+
 - 複核（TJJ-A09251400-2, 2026-09-26）：本 slice 文章 b35038dda7fa4bcf（長青教室心得報告標籤頁, 2024-07-23 存檔）正文再驗證——「長青教室心得報告-植物生化素與你的健康【video】◎ 林清貴博士」確認見於正文，subject 連結為真，無錯鏈、無虛鏈；2019-05-17 條目（已掛該頁 wikilink）已在庫 — SKIP，已飽和。
 
 - 2019-05-17 — Gave the 長青教室 talk 「植物生化素與你的健康」 (phytochemicals and your health, with video) at the class he directs ([[articles/taiwanjustice-net/2024/20240723014059_root_b35038dda7fa4bcf|TJJ tag page, archived 2024-07-23]]).

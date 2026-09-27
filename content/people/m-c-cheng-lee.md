@@ -53,3 +53,4 @@ last_reviewed: 2026-09-26
 - Corpus re-grep 2026-09-25 (deepen-x slice-20): identical hit set (whoswho937 + [[works/taiwaneseamericanhistory-org/whos-who-1916-ju-cheng-lee|Ju-Cheng Lee #1916]] / #50 / #182 disambiguation + ourjourneys74-eng / ourjourneys304-eng); HOLD confirmed, no absorbable memoir text.
 - Corpus re-grep 2026-09-25 (slice 09250317-8): identical hit set (whoswho937 + Ju-Cheng Lee #1916 disambiguation + index); HOLD confirmed, saturated, SKIP-no-new-facts.
 - Corpus re-grep 2026-09-26 (slice 09251500-2): identical hit set (whoswho937 + Ju-Cheng Lee #1916 disambiguation + index); HOLD confirmed, saturated, SKIP-no-new-facts.
+- Corpus re-grep 2026-09-27 (slice 09260600-32): identical hit set over works/ + articles/ (whoswho937 + [[works/taiwaneseamericanhistory-org/whos-who-1916-ju-cheng-lee|Ju-Cheng Lee #1916]] disambiguation + works index); HOLD confirmed, saturated, SKIP-no-new-facts.
