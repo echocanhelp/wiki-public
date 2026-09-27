@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-26
+last_reviewed: 2026-09-27
 ---
 # Dr. Chun C Tsai (蔡俊晴醫師)
 
@@ -51,3 +51,4 @@ last_reviewed: 2026-09-26
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- Corpus re-check 2026-09-27 (slice 09260600-23): fresh ZH+EN grep returns the identical hit set (own #1968, NATMA founding ourjourneys74 ZH/EN, 美展專刊 ourjourneys256 致謝, index) — all facts already absorbed. Verified-saturated.
