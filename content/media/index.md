@@ -242,4 +242,4 @@ Echopedia 記錄事實；本作品則據這些事實以 AI 創作，屬藝術詮
 
 ## Related Pages
 - [[works/index|Stories & historical works]]
-- Media catalog manifest
+- Media catalog manifest: `media/_manifest.json`

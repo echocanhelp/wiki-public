@@ -14,14 +14,14 @@
 - **Level:** L3
 - **L2 auto-publish on drift:** True
 - **L3 auto-push when green:** True
-- **Last good deploy:** `5cde2b2824`
+- **Last good deploy:** `b38f434b6f2`
 - **Last night (ledger):** analyzer scanned 2910 queued 11 suppressed 2117 · 🟡 QUEUE janitor HOLD leftover 40 · 🟡 QUEUE kanban blocked 12 · 🔴 NEED YOU cron fail: memory-audit
 - **Track SSOT:** `knowledge/operational/intelligence/autonomy-ledger.json`
 
 ## Content
 |- **Tier1 pages:** 2895 (people 2415 / orgs 440 / sources 40) · Tier2 archive: 29103
 |- **Janitor queue depth:** 49
-|- **Uncommitted files:** 2
+|- **Uncommitted files:** 1
 
 ## Self-improvement pipeline (Scout → Filter → Extract → Evaluate → Generate → Review)
 || Stage | Script | Last run | Output |
