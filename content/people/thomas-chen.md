@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-26
+last_reviewed: 2026-09-27
 ---
 # Thomas Chen (陳秋貴)
 
@@ -66,3 +66,4 @@ last_reviewed: 2026-09-26
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 <!-- TJJ-A09260500-3: verified 2026-09-27 — subject link vs 正文 real (43b81b6b892fea96 世台基金會公益晚宴報導); dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+- 2026-09-27 deepen-x slice 09260700-11: verified-saturated re-verify — fresh ZH+EN grep hit set identical (mystories129, ota-275, 307, index, TJJ 2022 世台晚宴, Pew statement signatory under HOLD); nothing new absorbable.

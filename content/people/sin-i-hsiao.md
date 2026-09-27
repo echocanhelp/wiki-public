@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-26
+last_reviewed: 2026-09-27
 ---
 # Sin-I Hsiao (蕭欣義)
 
@@ -57,3 +57,5 @@ _No filled family fields on the TAH profile._
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 <!-- deepen-x slice 09221300-1 re-verify 2026-09-23:  -->
+
+2026-09-27 corpus re-grep (蕭欣義 / Sin-I Hsiao, DEEPEN-X slice 09260700-11): fresh grep over works/ + articles/ — hit-set unchanged (whoswho1013, ourjourneys81/-eng, 259, 58, 234, 245, 63, 47, index); every hit already cited above. Saturated; SKIP-with-reason.
