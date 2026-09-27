@@ -55,3 +55,4 @@ _No filled family fields on the TAH profile._
 
 ## Vault Cross-References
 - TAH 紀錄：[[works/taiwaneseamericanhistory-org/musician350|350. Ying-Ying Chen 陳盈穎, Musician]]、[[works/taiwaneseamericanhistory-org/whoswho1178|1178. Ying-Ying Chen 陳盈穎]]。
+<!-- deepen-x slice 09260600-24 (2026-09-27): saturated re-verify — fresh grep 陳盈穎/Ying-Ying Chen returns only musician350 + whoswho1178 + works index, all cited above; SKIP. -->

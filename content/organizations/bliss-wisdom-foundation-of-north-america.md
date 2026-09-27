@@ -33,3 +33,4 @@ The Bliss & Wisdom Foundation of North America is the North American arm of the 
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 <!-- deepen-x slice 09240700-32 (2026-09-25): saturated re-verify — fresh ZH+EN grep of works/ + articles/ returns the hit-set already absorbed on this page; no new corpus facts, no conflicts. -->
 <!-- deepen-x slice 09251000-31 (2026-09-26): saturated re-verify — fresh grep 福智 / Bliss Wisdom returns only the org's own TAH #39/#54 records + works index, already absorbed above; SKIP. -->
+<!-- deepen-x slice 09260600-24 (2026-09-27): saturated re-verify — fresh grep 福智/Bliss Wisdom returns only the orgs own TAH #39/#54 records + works index, already absorbed; SKIP. -->
