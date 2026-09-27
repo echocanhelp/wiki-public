@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-26
+last_reviewed: 2026-09-27
 ---
 # Edward Liu (劉俊宏)
 
@@ -54,3 +54,4 @@ last_reviewed: 2026-09-26
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+<!-- deepen-x slice 09260600-31 (2026-09-27): saturated re-verify — fresh ZH+EN grep hit set unchanged; all records already absorbed above. SKIP-content. -->
