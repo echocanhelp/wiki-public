@@ -93,3 +93,5 @@ Jennet Jah is the daughter of the noted composter, Professor Kenneth Lee. She gr
 - 複核（TJJ-A09260500-15, 2026-09-27）：本 slice 僅 [[articles/taiwanjustice-net/2024/20240228151341_root_8c6aeada16c1e8ba|8c6aeada]] 涉本人（飾 Abigaille 確認見於正文），subject 連結為真；含該文 wikilink 的條目已在庫 — SKIP，無新材料。
 
 <!-- TJJ-A09260500-17: verified 2026-09-27 — slice 09260500-17 articles (2b4b26ff English Pages目錄 / de11e295 半音合唱團國家音樂廳錄影 / 526ee7d6 以立拯救我 / 928db8aa 以立森林王子) subject links re-checked vs 正文; all real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+- 複核（TJJ-A09260500-16, 2026-09-27）：本 slice 兩篇涉本人——2b2e0ebc（學生王子：聲樂指導）、7214b273（拯救我：女高音獨唱）subject 連結再驗證均為真，無錯鏈、無虛鏈；另兩篇無涉本人；含該兩文 wikilink 的 2024-10-12／2022-10-01／10-08 條目已在庫 — SKIP，已飽和。

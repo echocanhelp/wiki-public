@@ -73,3 +73,5 @@ last_reviewed: 2026-09-25
 - 2022-10-24 — during the 全美會回台參訪, she (described there as 「1986年全美會會長暨前僑委會副委員長」) accompanied 創會會長鄭義和 at the dinner with 賴清德副總統 at 海霸王; she is also in the group photo with 蘇春槐 ([[works/taiwaneseamericanhistory-org/our-journeys-382|382. 2022年全美會回台參訪記]]). HOLD: conflict in TAA presidency year — the TAA roster/work [[works/taiwaneseamericanhistory-org/ourjourneys76-eng|76]] gives 1987–1988 while the 2022 memoir says 1986年全美會會長; not auto-merged.
 - 2017-03 — featured with 吳澧培 in a profile of their film ambition behind 《林北小舞》 ([[works/taiwaneseamericanhistory-org/ourjourneys279|279. 吳澧培、楊黃美幸的電影夢《林北小舞》 / 朱蒲青, 2017-03-09]]).
 - Named among 紐約同鄉會 donors thanked in the 台灣研究社/公論報 era fund-raising record ([[works/taiwaneseamericanhistory-org/ourjourneys256|256]]).
+
+- 複核（TJJ-A09260500-16, 2026-09-27）：本 slice 僅 753347eb（台文通訊30冬紀念獎頒獎典禮公告）涉本人——以陳文成紀念基金會來賓身分確認見於正文，subject 連結為真，無錯鏈、無虛鏈；含該文 wikilink 的 2021-10-30 條目已在庫 — SKIP，已飽和。

@@ -94,3 +94,5 @@ last_reviewed: 2026-09-23
 <!-- TJJ-A09260500-5: verified 2026-09-27 — slice articles (24ebe5f065076949 2016海外台語研習會公告 / 4a5080befc342f69＋2c5d3c7d4f5acccc 戴琪鄧振中TIFA同文兩存檔 / adc931e5b99bb0a9 van der Wees 評2012大選) subject links re-checked vs 正文; all real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A09260500-17: verified 2026-09-27 — slice 09260500-17 articles (2b4b26ff English Pages目錄 / de11e295 半音合唱團國家音樂廳錄影 / 526ee7d6 以立拯救我 / 928db8aa 以立森林王子) subject links re-checked vs 正文; all real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+- 複核（TJJ-A09260500-16, 2026-09-27）：本 slice 僅 753347eb（台文通訊30冬紀念獎頒獎典禮公告）涉本人——以世界台灣文化論壇共同發起人來賓身分確認見於正文，subject 連結為真，無錯鏈、無虛鏈；含該文 wikilink 的 2021-10-30 條目已在庫 — SKIP，已飽和。
