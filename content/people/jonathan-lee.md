@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-26
+last_reviewed: 2026-09-27
 ---
 # Jonathan Lee
 
@@ -53,3 +53,4 @@ last_reviewed: 2026-09-26
 - Corpus re-check 2026-09-23 (deepen-x slice 09221300-21): fresh grep of works+articles returns the same hit set (whoswho1397, Pew statement, 228 discussion panel, 2008 election piece); all already wikilinked and absorbed above. Verified-saturated.
 - Corpus re-check 2026-09-25 (deepen-x slice 09240800-19): fresh grep returns the same hit set (whoswho1397, Pew statement, 228 panel, 2008 election piece, index) — all already wikilinked above. SKIP, verified-saturated.
 - Corpus re-check 2026-09-26 (deepen-x slice 09251400-5): fresh grep of works/ + articles/ returns the same hit set (whoswho1397, Pew statement, 228 panel, 2008 election piece, index) — all already wikilinked above. SKIP, verified-saturated.
+> Corpus re-scan 2026-09-27 (deepen-x slice 09260600-26): fresh ZH+EN grep of works/+articles/ — hit set identical to records already cited/absorbed on this page; verified-saturated, nothing new absorbable. SKIP-deepen.
