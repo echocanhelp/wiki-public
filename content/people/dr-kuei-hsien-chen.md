@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-26
+last_reviewed: 2026-09-27
 ---
 # Dr. Kuei-Hsien Chen (陳貴賢博士)
 
@@ -53,3 +53,4 @@ last_reviewed: 2026-09-26
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- 2026-09-27 (slice 09260600-13) re-grep (Kuei-Hsien Chen): hits remain only TAH #1827 and works/index.md. SKIP-content: no absorbable new facts.
