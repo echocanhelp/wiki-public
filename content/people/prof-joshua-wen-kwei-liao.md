@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-26
+last_reviewed: 2026-09-27
 ---
 # Prof. Joshua Wen-Kwei Liao (廖文奎教授)
 
@@ -49,3 +49,4 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- 復核（slice 09260600-20 2026-09-27）：grep 廖文奎|Wen-Kwei Liao|Joshua Liao 重命中僅 whos-who-1849、my-stories-897 與 works index——命中集與已吸收紀錄完全一致，維持飽和。

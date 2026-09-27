@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-26
+last_reviewed: 2026-09-27
 ---
 # Julie Wu (吳茗秀醫師)
 
@@ -49,3 +49,4 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- Corpus re-grep 2026-09-27 (slice 09260600-20): identical hit set (235, 511, index, Michelle Kuo interview, Harvard presentation +dup-2 variant); all already linked/absorbed; saturated, SKIP-no-new-facts.

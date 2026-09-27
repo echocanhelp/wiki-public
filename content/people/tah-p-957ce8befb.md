@@ -58,3 +58,4 @@ HOLD: conflict — TAH #276 titles her profile "Cing-Ru Shih 石青如, Composer
 <!-- deepen-x slice 09230700-29 (2026-09-24): saturated re-verify — fresh ZH+EN grep of works/ + articles/ returns the hit-set already absorbed on this page; no new corpus facts, no conflicts. -->
 <!-- deepen-x slice 09240800-15 (2026-09-25): saturated re-verify — fresh grep (石青如/Cing-Ru Shih) returns own TAH #276/#549 records + already-absorbed OurJourneys 287 (作曲家簡介, 三首小提琴編曲, 善友後代聚會) + index. HOLD stands; nothing new. -->
 <!-- deepen-x slice 09251023-4 (2026-09-26): saturated re-verify — fresh grep (石青如/Cing-Ru Shih) hit set unchanged (own TAH #276/#549 + OurJourneys 287 already absorbed + index). Nothing new absorbable. -->
+<!-- deepen-x slice 09260600-18 (2026-09-27): saturated re-verify — fresh grep (石青如/Cing-Ru Shih) hit set unchanged (own TAH #276/#549 + OurJourneys 287 already absorbed + index). HOLD stands; nothing new absorbable. -->
