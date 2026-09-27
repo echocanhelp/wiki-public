@@ -214,6 +214,12 @@ def find_quotes(slug, chinese_name):
                     if context.startswith("title:") or context.startswith("author:"):
                         continue
 
+                    # Skip wiki-list debris: contexts containing wikilink syntax are
+                    # the "related people" footer of archived articles, not quotes
+                    # (fixed 9 bogus quote blocks 2026-09-26)
+                    if "[[" in context or "]]" in context:
+                        continue
+
                     # Clean up the context — remove excessive whitespace
                     context = re.sub(r'\s+', ' ', context).strip()
 

@@ -11249,10 +11249,6 @@ See the source hub. Top mentions:
 Notable quotes and mentions of **林保華** in Taiwan Justice articles:
 
 
-### Unknown (1 quotes)
-
-1. "aonan||Chen Chao-nan (陳昭南)]] — 398 articles - [[people/lin-baohua||Lin Bao-hua (林保華)]] — 241 articles - [[people/yu-jie||Yu Chieh (余杰)]] — 99 articles - [[people/f"
-   — "taiwanjustice.net Article Archive" (unknown)
 
 ### 2025 (59 quotes)
 

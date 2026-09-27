@@ -11135,10 +11135,6 @@ Chronological events for **廖清山**:
 Notable quotes and mentions of **廖清山** in Taiwan Justice articles:
 
 
-### Unknown (1 quotes)
-
-1. "an||He Qinglian (何清漣)]] — 50 articles - [[people/liao-qingshan||Liao Qing-shan (廖清山)]] — 37 articles ### Political Figures - [[people/tsai-ing-wen||Tsai Ing-wen ("
-   — "taiwanjustice.net Article Archive" (unknown)
 
 ### 2024 (24 quotes)
 
