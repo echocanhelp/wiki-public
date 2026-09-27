@@ -1,0 +1,4 @@
+people/j-c-hong.md
+people/rev-tsu-kung-chuang.md
+people/ku-gstpc.md
+organizations/ucr-united-taiwanese-student-association.md

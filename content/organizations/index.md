@@ -35,7 +35,6 @@ On a phone, **use header search** (漢名 or English). This page is an A–Z lis
 [[organizations/asu-taiwanese-international-student-association|ASU Taiwanese International Student Association]]
 [[organizations/austin-taiwanese-association|Austin Taiwanese Association (奧斯丁)]]
 
-
 ### B {#b}
 
 [[organizations/bald-eagle-society|Bald Eagle Society (白首老鷹社)]]
@@ -93,12 +92,12 @@ On a phone, **use header search** (漢名 or English). This page is an A–Z lis
 ### F {#f}
 
 [[organizations/family-keepers-international-2015-05|Family Keepers International /2015/05 (國際真愛家庭協會)]]
-[[organizations/fapa-los-angeles|Formosan Association for Public Affairs Los Angeles(FAPA-LA)]]
-[[organizations/fapa-orange-county|Formosan Association for Public Affairs Orange County (FAPA- OC)]]
 [[organizations/formosa-foundation|Formosa Foundation]]
 [[organizations/formosa-senior-association|Formosa Senior Association]]
 [[organizations/formosan-association-for-g-m-t-culture|FORMOSAN ASSOCIATION FOR G.M.T. CULTURE (台灣人牛罵頭文史拹會)]]
 [[organizations/formosan-association-for-human-rights|Formosan Association for Human Rights]]
+[[organizations/fapa-los-angeles|Formosan Association for Public Affairs Los Angeles(FAPA-LA)]]
+[[organizations/fapa-orange-county|Formosan Association for Public Affairs Orange County (FAPA- OC)]]
 [[organizations/formosan-presbyterian-church-in-los-angeles|Formosan Presbyterian Church in Los Angeles (FPCLA)]]
 [[organizations/formosan-society-for-performing-arts-inc-fospa|Formosan Society for Performing Arts Inc. FOSPA (福爾摩沙表演藝術協會)]]
 [[organizations/formosar-chriotion-for-self-determination|Formosar Chriotion for Self Determination (臺灣人民自決運動)]]
@@ -106,7 +105,6 @@ On a phone, **use header search** (漢名 or English). This page is an A–Z lis
 [[organizations/fri-philo|Fri. Philo (哲學星期五)]]
 [[organizations/friends-of-taiwan|Friends of Taiwan]]
 [[organizations/friends-of-taiwan-greater-st-louis|Friends of Taiwan-Greater St. Louis (聖路易台灣之友會)]]
-
 
 ### G {#g}
 
@@ -241,14 +239,13 @@ On a phone, **use header search** (漢名 or English). This page is an A–Z lis
 ### R {#r}
 
 [[organizations/north-america-taiwanese-medical-association-foundation|Redirect → North American Taiwanese Medical Association Foundation]]
+[[organizations/taiwanese-american-student-association-at-ohio-state-university|Redirect → Taiwanese American Student Association Ohio State University]]
+[[organizations/taiwaneseamericanhistory-org|Redirect → Taiwaneseamerican Org]]
+[[organizations/taiwan-center-foundation-of-greater-los-angeles|Redirect → 大洛杉磯台灣會館]]
 [[organizations/rice-taiwanese-association|Rice Taiwanese Association]]
 [[organizations/rice-taiwanese-graduate-student-association|Rice Taiwanese Graduate Student Association]]
 [[organizations/rowland-heights-chinese-association|Rowland Heights Chinese Association (羅蘭崗華人協會)]]
 [[organizations/rutgers-taiwan-study-association|Rutgers Taiwan Study Association (羅格斯大學台灣研究社)]]
-[[organizations/taiwan-center-foundation-of-greater-los-angeles|Redirect → 大洛杉磯台灣會館]]
-[[organizations/taiwanese-american-student-association-at-ohio-state-university|Redirect → Taiwanese American Student Association Ohio State University]]
-[[organizations/taiwaneseamericanhistory-org|Redirect → Taiwaneseamerican Org]]
-
 
 ### S {#s}
 
@@ -268,10 +265,10 @@ On a phone, **use header search** (漢名 or English). This page is an A–Z lis
 [[organizations/southeast-bay-taiwanese-association-sebta|Southeast Bay Taiwanese Association SEBTA (北加州)]]
 [[organizations/southern-california-alumni-association-of-tainan-first-senior-high-sch|Southern California Alumni Association of Tainan First Senior High School and Tainan Girls’ Senior High School(AATFHSSCA)]]
 [[organizations/stanford-taiwanese-student-association|Stanford Taiwanese Student Association]]
-[[organizations/stc-rowland-legacy|STC Rowland Legacy]]
+[[organizations/stc-management|STC Management (順天 · Sung Tien Collaboration)]]
+[[organizations/stc-rowland-legacy|STC Rowland Legacy (STC 顺天联合基金会)]]
 [[organizations/student-association-of-taiwan-uw-madison|Student Association of Taiwan, UW-Madison]]
 [[organizations/sun-ten-museum|Sun Ten Museum (順天美術館)]]
-
 
 ### T {#t}
 
@@ -524,7 +521,6 @@ On a phone, **use header search** (漢名 or English). This page is an A–Z lis
 [[organizations/yes-plaza|Yes Plaza (夜市廣場)]]
 [[organizations/yin-chin-foundation-of-u-s-a|YIN CHIN FOUNDATION OF U.S.A. (美國殷勤文教公益基金會)]]
 [[organizations/youth-orchestra-cycny|Youth Orchestra, CYCNY (紐約幼獅青少年管弦樂團)]]
-
 
 ### # {#other}
 

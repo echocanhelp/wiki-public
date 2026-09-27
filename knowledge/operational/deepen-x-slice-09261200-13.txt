@@ -1,0 +1,4 @@
+people/rev-h-d-chen.md
+people/dr-jacob-huang.md
+people/huey-j-lee.md
+organizations/ntpc.md

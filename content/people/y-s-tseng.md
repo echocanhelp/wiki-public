@@ -1,17 +1,8 @@
 ---
-title: "Y. S. Tseng (曾元勝)"
-type: person
-name_en: "Y. S. Tseng"
-name_zh: "曾元勝"
-tags:
-  - person
-  - tah-whos-who
-verification_status: pending
-last_reviewed: 2026-09-26
+
+---
 <!-- deepen-x slice 09251054-10: SKIP re-verified 2026-09-26 — fresh ZH+EN grep: only own TAH #1007 stub + works/index -->
 <!-- deepen-x slice 09232337-14: SKIP re-verified 2026-09-25 — fresh ZH+EN grep of works/articles: only own TAH stub + works/index -->
-# deepen-x slice 09210920-26: SKIP re-verified 2026-09-22 — corpus hit is only own TAH #1007 stub (band B, bibliographic only)
----
 # Y. S. Tseng (曾元勝)
 
 ## Identity Snapshot

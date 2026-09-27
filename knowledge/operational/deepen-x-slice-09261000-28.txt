@@ -1,0 +1,4 @@
+organizations/lkgt.md
+people/chi-chen-wu.md
+people/chieh-huang.md
+people/lirong-wang.md

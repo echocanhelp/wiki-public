@@ -1,0 +1,4 @@
+people/lucy-yang.md
+people/michael-k-yu.md
+people/freeman-lin.md
+people/charles-ke.md

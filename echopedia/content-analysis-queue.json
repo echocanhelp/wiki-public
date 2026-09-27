@@ -1,45 +1,30 @@
 {
-  "date": "2026-09-25",
+  "date": "2026-09-26",
   "standards_version": 10,
-  "total_pages_scanned": 2910,
-  "pages_with_findings": 54,
-  "auto_queued": 11,
+  "total_pages_scanned": 2918,
+  "pages_with_findings": 60,
+  "auto_queued": 9,
   "queue": [
-    {
-      "path": "organizations/north-america-taiwanese-womens-association-boston-chapter.md",
-      "findings": [
-        "STRUCT_NO_HISTORY",
-        "READABILITY_LONG_SENTENCES_31wps",
-        "READABILITY_MANY_LONG_SENTENCES_6"
-      ],
-      "priority": "medium",
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol",
-        "Fix ONLY listed findings — no inventing biography",
-        "Update last_reviewed after fixes",
-        "Commit only (no publish)"
-      ]
-    },
-    {
-      "path": "organizations/north-america-taiwanese-womens-association-detroit-chapter.md",
-      "findings": [
-        "STRUCT_NO_HISTORY",
-        "READABILITY_LONG_SENTENCES_30wps",
-        "READABILITY_MANY_LONG_SENTENCES_6"
-      ],
-      "priority": "medium",
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol",
-        "Fix ONLY listed findings — no inventing biography",
-        "Update last_reviewed after fixes",
-        "Commit only (no publish)"
-      ]
-    },
     {
       "path": "organizations/rutgers-taiwan-study-association.md",
       "findings": [
         "STRUCT_NO_HISTORY",
         "READABILITY_LONG_SENTENCES_32wps",
+        "READABILITY_MANY_LONG_SENTENCES_5"
+      ],
+      "priority": "medium",
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol",
+        "Fix ONLY listed findings — no inventing biography",
+        "Update last_reviewed after fixes",
+        "Commit only (no publish)"
+      ]
+    },
+    {
+      "path": "organizations/taiwanese-american-organization-at-uc-irvine.md",
+      "findings": [
+        "STRUCT_NO_HISTORY",
+        "READABILITY_LONG_SENTENCES_37wps",
         "READABILITY_MANY_LONG_SENTENCES_4"
       ],
       "priority": "medium",
@@ -51,11 +36,11 @@
       ]
     },
     {
-      "path": "organizations/student-association-of-taiwan-uw-madison.md",
+      "path": "organizations/taiwanese-american-professionals-san-diego.md",
       "findings": [
         "STRUCT_NO_HISTORY",
         "READABILITY_LONG_SENTENCES_33wps",
-        "READABILITY_MANY_LONG_SENTENCES_4"
+        "READABILITY_MANY_LONG_SENTENCES_5"
       ],
       "priority": "medium",
       "instructions": [
@@ -110,20 +95,6 @@
       ]
     },
     {
-      "path": "people/edward-chen.md",
-      "findings": [
-        "DESC_NO_TITLE_MENTION",
-        "READABILITY_MANY_LONG_SENTENCES_4"
-      ],
-      "priority": "medium",
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol",
-        "Fix ONLY listed findings — no inventing biography",
-        "Update last_reviewed after fixes",
-        "Commit only (no publish)"
-      ]
-    },
-    {
       "path": "people/fang-ming-chen.md",
       "findings": [
         "DESC_NO_TITLE_MENTION",
@@ -166,6 +137,6 @@
       ]
     }
   ],
-  "suppressed_findings": 2117,
-  "fp_history_entries": 2266
+  "suppressed_findings": 2131,
+  "fp_history_entries": 2292
 }

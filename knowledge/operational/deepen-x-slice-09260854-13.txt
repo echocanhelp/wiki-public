@@ -1,0 +1,4 @@
+people/rev-james-chang.md
+people/michael-chong.md
+people/dr-peter-wu.md
+people/dr-jane-h-hsiao-2.md

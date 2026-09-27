@@ -1,15 +1,7 @@
 ---
-title: "Castor Yu (尤中正)"
-type: person
-name_en: "Castor Yu"
-name_zh: "尤中正"
-tags:
-  - person
-  - tah-whos-who
-verification_status: pending
-last_reviewed: 2026-09-26
-<!-- deepen-x slice 09251054-11: SKIP re-verified 2026-09-26 — fresh ZH+EN grep of works/articles: zero hits beyond own 2 records -->
+
 ---
+<!-- deepen-x slice 09251054-11: SKIP re-verified 2026-09-26 — fresh ZH+EN grep of works/articles: zero hits beyond own 2 records -->
 # Castor Yu (尤中正)
 
 ## Identity Snapshot

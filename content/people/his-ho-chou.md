@@ -1,15 +1,7 @@
 ---
-title: "His-Ho Chou (周錫和)"
-type: person
-name_en: "His-Ho Chou"
-name_zh: "周錫和"
-tags:
-  - person
-  - tah-whos-who
-verification_status: pending
-last_reviewed: 2026-09-26
-<!-- deepen-x slice 09251054-11: SKIP re-verified 2026-09-26 — fresh ZH+EN grep of works/articles: zero hits beyond own record -->
+
 ---
+<!-- deepen-x slice 09251054-11: SKIP re-verified 2026-09-26 — fresh ZH+EN grep of works/articles: zero hits beyond own record -->
 # His-Ho Chou (周錫和)
 
 ## Identity Snapshot

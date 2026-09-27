@@ -1,0 +1,4 @@
+organizations/georgetown-taiwanese-american-student-association.md
+people/judy-huang.md
+people/howard-shu.md
+people/dr-i-shih-chang.md

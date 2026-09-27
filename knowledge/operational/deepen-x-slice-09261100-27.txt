@@ -1,0 +1,4 @@
+people/carol-kuo.md
+organizations/global-alliance-for-democracy-and-peace-la.md
+organizations/chunglun-presbyterian-church.md
+people/julie-kuo.md

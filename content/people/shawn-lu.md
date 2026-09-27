@@ -1,17 +1,8 @@
 ---
-title: "Shawn Lu (呂紹翔)"
-type: person
-name_en: "Shawn Lu"
-name_zh: "呂紹翔"
-tags:
-  - person
-  - tah-whos-who
-verification_status: pending
-last_reviewed: 2026-09-26
+
+---
 <!-- deepen-x slice 09251054-11: SKIP re-verified 2026-09-26 — fresh ZH+EN grep of works/articles: zero hits beyond own record -->
 <!-- deepen-x slice 09232337-14: SKIP re-verified 2026-09-25 — fresh ZH+EN grep of works/articles: only own TAH stub + works/index -->
-# deepen-x slice 09210920-26: SKIP re-verified 2026-09-22 — corpus hit is only own TAH #940 stub (band B, bibliographic only)
----
 # Shawn Lu (呂紹翔)
 
 ## Identity Snapshot

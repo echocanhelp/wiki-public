@@ -1,0 +1,4 @@
+people/rui-mu-lee.md
+people/judy-wang.md
+people/jimenez-lai.md
+people/felicia-chou.md

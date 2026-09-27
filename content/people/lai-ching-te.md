@@ -8,6 +8,7 @@ tags:
   - thin-page
 verification_status: pending
 last_reviewed: 2026-09-26
+deepened: diaspora-relationship layer 2026-09-26
 name_en: "Lai Ching-te"
 name_zh: "賴清德"
 ---
@@ -27,14 +28,28 @@ name_zh: "賴清德"
 
 ## Role in the Community (corpus record)
 
-- **As Tainan mayor in diaspora memoir:** pictured/credited with the author in [[works/taiwaneseamericanhistory-org/ourjourneys181|181. 漫談「法拉盛式」生活 / 劉蘇多惠 /2015/10]] (New York Taiwan Center circle, from 咱要出頭天 社團篇).
-- **Quoted on diaspora vote-banking:** in [[works/taiwaneseamericanhistory-org/ourjourneys192|192. Americans from Taiwan return home to vote and boost democracy / 01/2016]] he is quoted urging Taiwanese Americans who "do well in the U.S. or Canada" to return and support candidates — the community as opinion leaders and donation source.
-- **As VP hosting FCA:** at the 2022 全美會 (Federation for A Free Taiwan) return visit, Vice President Lai joined the 10/24 banquet hosted by FCA founding chairman [[people/yi-ho-cheng|鄭義和]] — see [[works/taiwaneseamericanhistory-org/our-journeys-382|382. 2022年全美會回台參訪記(上) | 11/2022]].
-- **In sovereignty commentary:** cited as "president-to-be" planning closer US ties in [[works/taiwaneseamerican-org/a-republic-of-taiwan-chloe-shih|A Republic of Taiwan: Breaking the Chains]].
-- **As VP on Ukraine, 2022-02-27:** in the taiwanjustice.net archive, his statement 「卑躬屈膝無法停止侵略，全民一心守護國家」 frames Taiwan alongside Ukraine — defending the democratic way of life, standing with the democratic camp on sanctions ("自己的國家自己救") — [[articles/taiwanjustice-net/2026/20260211101404_賴清德_卑躬屈膝無法停止侵略_全民一心守護國_6eb558bd5ea47dfe|TJJ archive, posted 2022-02-27]]; publisher [[people/freeman-huang|Freeman Huang]].
+*(deepened 2026-09-26 — mission pass: the diaspora-relationship layer, all facts from our own TJJ archive + memoir corpus)*
+
+**Diaspora as constituency — Lai's 40-year relationship with the Taiwanese American community, in our own record:**
+
+- **2014 — Tainan mayor's first diaspora tour:** NY 僑界晚會 where he read 陳菊's handwritten letter on the 81 gas explosions and thanked the NY community (民報 via [[articles/taiwanjustice-net/2024/20240520021847_root_35f8d8694390dcf3|TJJ repost]]); SF 僑宴 attended by SoCal community members who traveled north specifically for it — pitch: 亞洲矽谷 ([[articles/taiwanjustice-net/2024/20240520034013_root_6f2b431c9cb0cca9|TJJ]]); met 蓮舫 in Tokyo the same tour ([[articles/taiwanjustice-net/2022/20220927090913_2014_09_11_賴清德與日本國會參議員蓮舫_相見歡_-共促台日_賴清德與日本國會參議院參議員蓮舫_090aa2308648fe76|TJJ]]). Tainan's 2017 WBSC Little League team trained in Phoenix & LA with 台灣會館 community fundraising support ([[articles/taiwanjustice-net/2024/20240721101942_root_04f32b14d8cf8f12|TJJ]]).
+- **2015–2016 — memoir record:** NY Taiwan Center circle photo in [[works/taiwaneseamericanhistory-org/ourjourneys181|ourjourneys181]]; the vote-banking quote on diaspora return-voting in [[works/taiwaneseamericanhistory-org/ourjourneys192|ourjourneys192]].
+- **2018 — first LA 信賴台灣之友會 fund-raiser:** 大洛杉磯信賴台灣之友會募款餐會, full video in the archive ([[articles/taiwanjustice-net/2024/20240425075826_root_be345f13232e54f8|TJJ/民視, 2023-08-20 edition]]).
+- **2019 — "務實台獨工作者" reframed for a US audience:** VOA interview (2019-12-30): the emphasis is on 務實; the "定海神針" of cross-strait relations is the **Taiwan Relations Act**, not the 九二共識 ([[articles/taiwanjustice-net/2026/20260115084736_voa專訪賴清德_兩岸關係的定海神針是_台灣_a92a3b3f7e83186c|TJJ/VOA]]). Lost the 2019 DPP primary to 蔡英文 with single-digit party-office support despite leading polls (陳茂雄 column, [[articles/taiwanjustice-net/2026/20260123224856_蔡英文是贏在權力與資源-_-陳茂雄_3a1b4c65065af4f9|TJJ]]); VP-debate 交鋒 with 張善政 ([[articles/taiwanjustice-net/2026/20260122074443_賴清德張善政前院長政策交鋒_余湘訴求多黨取代_24ff310ecf232866|TJJ]]).
+- **2020 — the LA rally that wasn't:** the 海外小英後援會 LA rally (聖蓋博希爾頓, 2020-10-13) was a south-California disappointment when his schedule held him in Europe/SF; 海外助選團團長 [[people/lin-rongsong|林榮松]] explained, and 林飛帆/何博文 were substituted "分進合擊" ([[articles/taiwanjustice-net/2024/20240613093234_root_1d72b2ae61640747|TJJ/林蓮華]]). His 2020 campaign video message to the 大洛杉磯台灣會館 23rd-anniversary fundraiser is preserved in the Taiwan Center category archive ([[articles/taiwanjustice-net/2025/20250417212406_category_taiwancenter_5771205fef6c7bd9|TJJ]]).
+- **2021 — to the North American 228 assembly:** 隔洋致詞 to 北美洲海外台灣人二二八紀念活動 — 228 cost Taiwan a generation of elites; the community's shared-history consciousness feeds transitional justice, with 僑委會 (童振源) encouraging overseas 228 events ([[articles/taiwanjustice-net/2026/20260210064123_2021北美洲海外台灣人二二八紀念活動-台灣國家人權_28b0cc4e52acece2|TJJ]]). Also publicly saluted the pan-Asian 奶茶聯盟 youth-democracy wave ([[articles/taiwanjustice-net/2026/20260118232456_年輕人的反中浪潮在亞洲遍地開花_f8f59415ced70d56|TJJ]]); his condolence message was read at 洪哲勝's online memorial — the late UCLA/北美台獨聯盟 founder ([[articles/taiwanjustice-net/2022/20220228012423_2021_01_02_追思洪哲勝_王丹致詞_陳破空主持_眾多民運大_9206c320850ac026|TJJ]]) — the diaspora movement's elder generation acknowledging him in kind.
+- **2022 — transit diplomacy lands in LA:** en route to the Honduras inauguration he transited LAX with AIT 主席莫健 boarding the plane to greet him; 100+ 僑胞 flags at the hotel pre-dawn; he video-met 17 US members of Congress from LA with 蕭美琴 alongside ([[articles/taiwanjustice-net/2022/20220519113123_2022_01_25_賴清德過境洛城_ait主席_蕭美琴登機迎接_僑胞_133d21ee0155a02b|TJJ]], [[articles/taiwanjustice-net/2022/20220519114439_2022_01_26_賴清德率特使團抵宏都拉斯_副總統李薇拉親迎影_41ccf41bf974cb0e|TJJ]]; community welcome-call notice archived at [[articles/taiwanjustice-net/2022/20220519122453_2022_01_21_歡迎賴清德副總統過境洛杉磯_歡迎報名_92006c232bc65342|TJJ]]). Oct 2022: hosted FCA 全美會 banquet ([[works/taiwaneseamericanhistory-org/our-journeys-382|our-journeys 382]], pre-existing).
+- **2023 — the diaspora campaign:** NY 僑界 formed the first overseas 後援會 ("僑胞是台灣隊一員, help build Taiwan as the MVP of the free world", [[articles/taiwanjustice-net/2023/20230322161425_2023_03_18_挺賴清德選總統-紐約僑界成立海外後援會_5233d52b6cfa8acb|TJJ]]); the 大洛杉磯信賴之友會 ran its 2023-08-20 LA fundraiser dinner (民視 video, [[articles/taiwanjustice-net/2024/20240425075826_root_be345f13232e54f8|TJJ]]). Community mood captured by VOA's LA polling report: 信賴之友會 deputy SG **吳兆峯** on the 鐘擺效應 — LA 台美人 sympathetic to Lai but reluctant to let DPP dominate, splitting ticket to 時代力量/基進黨 ([[articles/taiwanjustice-net/2023/20230923052341_2023_09_13_旅美台灣人_台美人關注總統大選_心憂台海安危_b3b999c8460eb56a|TJJ/VOA]]). The 賴蕭配 itself ran through the diaspora: 蕭美琴 resigned as 駐美代表 after the APEC meeting in San Francisco to join the ticket ([[articles/taiwanjustice-net/2023/20231201224837_root_c1e603063718b409|TJJ]], [[articles/taiwanjustice-net/2025/20250213225915_蕭美琴返台拚選戰-對台美關係持續深化有信心_b88719a1ac18aa12|TJJ]]).
+- **2020→2024 — Washington as third home turf:** as VP-elect (Apr 2020) his White House National Security Council meeting set the highest-level visit since 1979, plus State Dept, Rubio/Risch/Menendez/Gardner, the National Prayer Breakfast, NY + SF 僑宴 ([[articles/taiwanjustice-net/2025/20250425192704_賴清德拜會白宮國安會_台美關係再突破_350acdacf2697935|TJJ]], [[articles/taiwanjustice-net/2025/20250425150123_美參院外委會主席見賴清德_支持台美簽自貿協定_45626bea907db39b|TJJ]], [[articles/taiwanjustice-net/2025/20251209223029_賴清德應邀赴華府-出席全美祈禱早餐會_3bde1bcb0bb0e10b|TJJ]], [[articles/taiwanjustice-net/2024/20240715153222_root_131a1c8ea05f85ea|TJJ]]). As DPP chair he awarded the retiring AIT-DC 主任 **彭光理 (Michael Fonte)** — "the DPP's most important voice in Washington for 20+ years" — a lifetime-achievement medal ([[articles/taiwanjustice-net/2024/20240225154559_root_e68ffc76518812af|TJJ]]). Hosted ex-SecState Pompeo with dried-pineapple (2021-02, [[articles/taiwanjustice-net/2026/20260211095003_賴副總統宴請蓬佩奧_送上鳳梨乾感謝挺台_ca7a627d4962d696|TJJ]]).
+- **2024–2025 — president in the movement's calendar:** inaugural address doctrine "中華民國與中華人民共和國互不隸屬" ([[articles/taiwanjustice-net/2025/20250517145834_賴清德總統就職演說_打造民主和平繁榮的新台灣_092f18ec366fb670|TJJ]]); 228-40th-of-Lin-Family-Massacre statement "原諒不代表遺忘", recounting finding 戒嚴 banned magazines covering the Lin massacre at the **Library of Congress** ([[articles/taiwanjustice-net/2025/20250420005315_二二八暨林宅血案40週年_賴清德_原諒不代表遺忘_bd7ce7594b3267e1|TJJ]]); June 2024 國會改革 standoff — praised "數以萬計" protesters defending 程序正義 ([[articles/taiwanjustice-net/2024/20240619173332_root_3d8d3f1fce993a50|TJJ]]); president's-envoy transit NYC for Paraguay inauguration 2024-08 ([[articles/taiwanjustice-net/2025/20251008092439_學者_賴清德過境-台美緊密協調-展現長期互信_074a938f29b63a0d|TJJ]]), 2025 transit plan via NY/Dallas for Paraguay/Guatemala/Belize ([[articles/taiwanjustice-net/2025/20250810095924_傳總統8月出訪過境美國-府_若有確定安排適時公布_963c3e5ca32e5766|TJJ]]).
+
+**Movement reading:** our corpus shows a two-way record — Lai courted the diaspora as a political constituency (return votes, overseas 後援會s, transit diplomacy staged as community events), while the community treated him instrumentally, endorsing, questioning (吳兆峯's 鐘擺), and holding him to the movement's agenda (转型正義游行 demands on him, [[articles/taiwanjustice-net/2025/20250212080336_228事件77週年數百人遊行-籲政院國會提轉型正義法案_9bb6650d74c6bc6c|TJJ]]). That reciprocal, dated, named-in-our-own-archive relationship is exactly what no press bio carries.
+
+- **Earlier absorbed facts (kept):** 2022-02-27 Ukraine statement 「卑躬屈膝無法停止侵略，全民一心守護國家」 ([[articles/taiwanjustice-net/2026/20260211101404_賴清德_卑躬屈膝無法停止侵略_全民一心守護國_6eb558bd5ea47dfe|TJJ]], publisher [[people/freeman-huang|Freeman Huang]]); sovereignty framing in [[works/taiwaneseamerican-org/a-republic-of-taiwan-chloe-shih|A Republic of Taiwan (Chloe Shih)]]; 2019-12-22 雙北掃街 with 吳怡農/許淑華 ([[articles/taiwanjustice-net/2025/20251210214746_藍綠台北衝選情_陳建仁領軍-車隊掃街開直播_韓_1fbc7a8aff9cd26e|TJJ]]).
 - **HOLD:** president-term and policy labels remain from taiwanjustice.net coverage only; expand with primary sources, not press knowledge.
 - **Corpus re-grep 2026-09-19:** content/works hits are exactly ourjourneys181 and our-journeys-382, both already wikilinked above — all absorbable diaspora-memoir material is in; remaining coverage is TJJ press reposts.
 - **Corpus re-grep 2026-09-22 (slice 09211123-2, via alias stub [[people/lai-qingde]]):** hits unchanged — ourjourneys181, ourjourneys192, our-journeys-382, a-republic-of-taiwan-chloe-shih, all already wikilinked; no new absorbable diaspora facts.
+- **Corpus re-grep 2026-09-26 (mission deepening, full-vault scan):** 2,175 files mention 賴清德; 156 TJJ article files carry diaspora/US context — the 2014–2025 diaspora-engagement layer above is now absorbed from it. Remaining unabsorbed hits are domestic-政治 reposts (罷免, 國會改革 tactics, primary polling) that belong to org/other-person pages, not this biography.
 
 ## Timeline
 
@@ -44,7 +59,15 @@ Comparative frame from [[sources/zh-wikipedia-lai-ching-te||zh.wp]]; movement-re
 - 1994 — 陳定南競選「全國醫師後援會」總召集人，棄醫從政之路 [sourced: zh.wp]
 - 1996 — 當選國大代表 [sourced: zh.wp]
 - 2010-12-25 — 當選臺南市市長（連任 2014）[sourced: zh.wp]
+- 2014-08/09 — 市長訪美：紐約僑界晚會宣讀陳菊81氣爆親筆信、舊金山僑宴（南加鄉親北上參加）、東京會蓮舫（corpus, see Role in the Community）
 - 2015-10 — 以市長身分現於紐約台灣中心圈合影，見 [[works/taiwaneseamericanhistory-org/ourjourneys181|咱要出頭天 181]]（corpus）
+- 2019-12-30 — VOA專訪：「務實台獨工作者」重點在務實；兩岸定海神針是《台灣關係法》（corpus）
+- 2020-01-05~07 — 副總統當選人訪華府：白宮國安會70分鐘會談，斷交以來最高層級（corpus）
+- 2020-10-13 — 海外小英後援會洛杉磯造勢因歐行程缺席，林飛帆、何博文代打（corpus）
+- 2021-02-28 — 北美洲海外台灣人二二八紀念活動隔洋致詞（corpus）
+- 2022-01-25 — 出訪宏都拉斯過境洛杉磯：AIT主席莫健登機迎接、百餘僑胞迎候、視訊會晤17位美國國會議員（corpus）
+- 2023-03-18 — 紐約僑界成立海外後援會挺選總統（corpus）
+- 2023-08-20 — 大洛杉磯信賴台灣之友會募款餐會（corpus, 民視全場影音存檔）
 - 2016-01 — 勸進旅美台灣人「回台灣投票」原文引述，見 [[works/taiwaneseamericanhistory-org/ourjourneys192|ourjourneys192]]（corpus）
 - 2017-09-08 – 2019-01-14 — 第29任行政院院長 [sourced: zh.wp]
 - 2020-05-20 — 就任副總統（搭 [[people/tsai-ing-wen|蔡英文]]）[sourced: zh.wp]
@@ -57,6 +80,7 @@ Comparative frame from [[sources/zh-wikipedia-lai-ching-te||zh.wp]]; movement-re
 ## Network
 
 - **Diaspora record (our own corpus):** [[works/taiwaneseamericanhistory-org/ourjourneys181|ourjourneys181]] · [[works/taiwaneseamericanhistory-org/ourjourneys192|ourjourneys192]] · [[works/taiwaneseamericanhistory-org/our-journeys-382|our-journeys 382]] · [[works/taiwaneseamerican-org/a-republic-of-taiwan-chloe-shih|A Republic of Taiwan (Chloe Shih)]]
+- **Diaspora actors named in the new layer:** [[people/lin-rongsong|林榮松]] (海外助選團團長, 2020) · 吳兆峯 (大洛杉磯信賴之友會副總幹事 — no page yet, 1-mention) · 彭光理 Michael Fonte (AIT-DC, 賴頒獎章 — no page yet) · 童振源 (僑委會, 2021 228 — no page yet) · [[people/bi-khim-hsiao|蕭美琴]] (駐美代表→2024搭檔, strengthened)
 - **Vault people links:** [[people/tsai-ing-wen|蔡英文]] (任命閣揆、2020搭檔) · [[people/bi-khim-hsiao|蕭美琴]] (2024搭檔) · [[people/yi-ho-cheng|鄭義和]] (FCA 2022接見) · [[people/freeman-huang|Freeman Huang]] (TJJ publisher)
 - **Press:** [[organizations/taiwanjustice-net||台灣公義網]] — 211 article hits, hub at [[articles/taiwanjustice-net/index||TJJ archive index]]
 
