@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-26
+last_reviewed: 2026-09-27
 ---
 # Long Lee (李隆吉)
 
@@ -58,3 +58,5 @@ last_reviewed: 2026-09-26
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - 語料複核（deepen-x slice 09240400-4, 2026-09-25）：fresh ZH+EN 再檢命中集相同（ourjourneys212／240／283／Pew 聲明＋whoswho1424／索引），全部已吸收；verified saturated，SKIP-with-reason；配偶 HOLD（須藤正子 vs 鄭美招）持續未解。
+
+- 語料複核（deepen-x slice 09260700-23, 2026-09-27）：fresh ZH+EN 再檢命中集相同（ourjourneys212／240／283／whoswho1424／Pew 聲明＋索引），全部已吸收；verified saturated，SKIP-with-reason；配偶 HOLD（須藤正子 vs 鄭美招）持續未解。

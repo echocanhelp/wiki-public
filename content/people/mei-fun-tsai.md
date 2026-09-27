@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-27
 ---
 # Mei Fun Tsai (吳美芬)
 
@@ -56,3 +56,4 @@ Accomplishment
 複核（deepen-x 2026-09-25 slice 09240317-9）: fresh ZH+EN re-grep 命中集與前次相同（ourjourneys 60/74/74-eng/81、publications64、collection）, 全部已吸收 (saturated, SKIP)
 複核（deepen-x slice 09250700-10）: fresh ZH+EN re-grep 命中集與前次相同（ourjourneys 60/74/74-eng/81、publications64、collection）— saturated, SKIP.
 複核（deepen-x slice 09260317-32）: fresh ZH+EN re-grep 命中集與前次相同（ourjourneys 60/74/74-eng/81、publications64、collection）— saturated, SKIP.
+複核（deepen-x slice 09260700-23）: fresh ZH+EN re-grep 命中集與前次相同（ourjourneys 60/74/74-eng/81、publications64、collection）— saturated, SKIP.
