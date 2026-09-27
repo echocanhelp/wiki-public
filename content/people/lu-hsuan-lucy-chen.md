@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-26
+last_reviewed: 2026-09-27
 ---
 # Lu-Hsuan Lucy Chen (陳綠萱)
 
@@ -65,3 +65,5 @@ _No filled family fields on the TAH profile._
 - Re-check (slice 09250317-3, 2026-09-25): re-grep hit set unchanged (#40 / #514 + index only), no new absorbable material. SKIP.
 
 - Re-check (slice 09251417-2, 2026-09-26): re-grep 陳綠萱|Lu-Hsuan|Lucy Chen hit set unchanged (#40 / #514 + index only), no new absorbable material. SKIP-with-reason.
+
+Slice deepen-x-slice-09260600-1 (2026-09-27): fresh re-grep (ZH+EN, works+articles) — identical hit set to prior checks; all hits already wikilinked/absorbed; nothing new absorbable. SKIP (saturated).
