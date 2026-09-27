@@ -272,3 +272,7 @@ December 18, 2023
 ...
 87
 Page 2 of 87
+
+## Subjects
+- [[people/lai-ching-te.md|賴清德]] — mentioned in this record
+

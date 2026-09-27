@@ -187,3 +187,7 @@ Posts navigation
 9
 »
 © 2016 台灣公義電子報
+
+## Subjects
+- [[people/lai-ching-te.md|賴清德]] — mentioned in this record
+

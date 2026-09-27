@@ -261,3 +261,7 @@ January 13, 2023
 筱君 台灣 PLUS
 January 11, 2023
 Load more
+
+## Subjects
+- [[people/lai-ching-te.md|賴清德]] — mentioned in this record
+

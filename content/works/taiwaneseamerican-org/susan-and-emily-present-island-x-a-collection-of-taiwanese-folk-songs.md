@@ -65,6 +65,7 @@ TaiwaneseAmerican.org end note: Thank you Emily and Susan for the shout-out! If 
 ## Subjects
 - Arts &amp; Culture
 - Perspectives
+- [[people/susan-hsu.md|Susan Hsu]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

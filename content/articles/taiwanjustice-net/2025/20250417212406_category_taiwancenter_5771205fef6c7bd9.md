@@ -271,3 +271,7 @@ June 23, 2020
 ...
 15
 Page 1 of 15
+
+## Subjects
+- [[people/lai-ching-te.md|賴清德]] — mentioned in this record
+

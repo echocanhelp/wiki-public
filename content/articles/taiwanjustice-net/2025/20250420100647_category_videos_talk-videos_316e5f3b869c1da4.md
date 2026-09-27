@@ -272,3 +272,7 @@ March 25, 2025
 ...
 109
 Page 1 of 109
+
+## Subjects
+- [[people/lai-ching-te.md|賴清德]] — mentioned in this record
+

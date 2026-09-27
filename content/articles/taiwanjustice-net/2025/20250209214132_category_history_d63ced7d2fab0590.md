@@ -272,3 +272,7 @@ March 13, 2022
 ...
 24
 Page 1 of 24
+
+## Subjects
+- [[people/lai-ching-te.md|賴清德]] — mentioned in this record
+

@@ -272,3 +272,7 @@ April 25, 2021
 ...
 159
 Page 1 of 159
+
+## Subjects
+- [[people/lai-ching-te.md|賴清德]] — mentioned in this record
+

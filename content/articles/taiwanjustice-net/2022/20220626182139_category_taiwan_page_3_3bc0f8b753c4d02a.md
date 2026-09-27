@@ -267,3 +267,7 @@ August 23, 2020
 ...
 1,028
 Page 3 of 1,028
+
+## Subjects
+- [[people/lai-ching-te.md|賴清德]] — mentioned in this record
+

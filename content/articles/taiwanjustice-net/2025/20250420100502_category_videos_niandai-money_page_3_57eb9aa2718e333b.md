@@ -274,3 +274,7 @@ March 3, 2025
 ...
 140
 Page 3 of 140
+
+## Subjects
+- [[people/lai-ching-te.md|賴清德]] — mentioned in this record
+

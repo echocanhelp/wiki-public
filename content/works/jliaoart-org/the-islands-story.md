@@ -52,3 +52,7 @@ The episode spine (Austronesian-first, colonial-sequence, White Terror, democrat
 - [[sources/jliaoart-com|jliaoart.com (creator site)]]
 - [[topics/taiwan-status|Political Status of Taiwan]]
 - [[topics/228-incident|The 228 Incident]] (Ep 6 prehistory)
+
+## Subjects
+- [[people/jay-liao.md|Jay Liao]] — mentioned in this record
+

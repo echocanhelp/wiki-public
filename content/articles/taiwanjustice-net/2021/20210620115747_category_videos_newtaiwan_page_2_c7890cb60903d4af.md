@@ -307,3 +307,7 @@ August 30, 2013
 ...
 98
 Page 2 of 98
+
+## Subjects
+- [[people/lai-ching-te.md|賴清德]] — mentioned in this record
+

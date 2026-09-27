@@ -270,3 +270,7 @@ July 28, 2024
 2
 3
 Page 1 of 3
+
+## Subjects
+- [[people/lai-ching-te.md|賴清德]] — mentioned in this record
+
