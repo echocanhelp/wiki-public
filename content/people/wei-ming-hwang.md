@@ -90,3 +90,5 @@ _No filled family fields on the TAH profile._
 - 1995-07-29 — 擔任台灣人聯合基金會（TUF）「台灣名家演奏系列」洛杉磯音樂會小提琴獨奏，與黃瑞芬同台（[[articles/taiwanjustice-net/2024/20240225012121_root_64302d51d03b3c5f|TJJ 轉載訃聞，2022-01-29]]）。
 - 1995-07-29 — 黃瑞芬訃聞附記：1995年7月29日 TUF「台灣名家演奏系列」洛杉磯音樂會小提琴為蘇顯達、黃維明（同台：鋼琴葉綠娜、中提琴吳昭麗、大提琴陳建安；節目含呂泉生〈搖嬰仔歌〉、蕭泰然〈嘸通嫌台灣〉）（[[articles/taiwanjustice-net/2022/20220519130616_2022_01_29_台灣女聲樂家_資深古典音樂節目主持人黃瑞芬過_bfc5f319a036a339|TJJ 轉載訃聞，2022-01-29]]）。
 - 1995-07-29 — 「台灣民謠之夜，民謠與詩的對話」節目紀錄（Harriet and Charles Fine Arts Complex, CSULA；弦樂四重奏小提琴蘇顯達、黃維明）：同演出之 TJJ 節目存檔副本（[[articles/taiwanjustice-net/2024/20240520022857_root_e1412ed957f76e0d|TJJ 節目紀錄，2024-05-20 存檔]]）。
+
+<!-- TJJ-A09260500-7: verified 2026-09-27 — slice 09260500-7 articles (d4a7f9e55282396a 立委號次抽籤 / 10e3a027ce22991c 晶片短缺 / 735744492226b90c 2016台美小姐開訓 / bfc5f319a036a339 黃瑞芬訃聞) subject links re-checked vs 正文; all real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->

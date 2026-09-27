@@ -75,3 +75,5 @@ last_reviewed: 2026-09-25
 - 2020-06-20 — 台灣公義報「台灣頭條」分類存檔（2020-06-25 快照）收錄「陳其邁21日偕吳怡農見邁粉 拉近與年輕人距離」，記錄高雄市長補選期間他偕同陳其邁见面会派年輕支持者（[[articles/taiwanjustice-net/2020/20200625150753_category_taiwan_page_3_11761bdaa78af55f|TJJ 台灣頭條存檔頁3, 2020-06-25 快照]]）。
 
 <!-- TJJ-A09260400-9: verified 2026-09-26 — subject links in slice 09260400-9 articles (064fe05a08d0aecf / a428dcebbceacf38 / 04f32b14d8cf8f12 / 1fbc7a8aff9cd26e) re-checked vs 正文; all real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A09260500-7: verified 2026-09-27 — slice 09260500-7 articles (d4a7f9e55282396a 立委號次抽籤 / 10e3a027ce22991c 晶片短缺 / 735744492226b90c 2016台美小姐開訓 / bfc5f319a036a339 黃瑞芬訃聞) subject links re-checked vs 正文; all real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->

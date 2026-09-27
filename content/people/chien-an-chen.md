@@ -89,3 +89,5 @@ _No filled family fields on the TAH profile._
 
 ## Re-check（deepen-x slice 09141400-1，2026-09-14）
 本次 corpus grep（陳建安／Chien-An Chen）僅命中已連結的書目紀錄頁（musician86、whoswho134、ourjourneys301）與 index；TUF 演奏紀錄已見上方「Role in the Community」。本輪 SKIP：無新增可吸收材料。
+
+<!-- TJJ-A09260500-7: verified 2026-09-27 — slice 09260500-7 articles (d4a7f9e55282396a 立委號次抽籤 / 10e3a027ce22991c 晶片短缺 / 735744492226b90c 2016台美小姐開訓 / bfc5f319a036a339 黃瑞芬訃聞) subject links re-checked vs 正文; all real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->

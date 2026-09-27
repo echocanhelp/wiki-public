@@ -61,3 +61,5 @@ _No filled family fields on the TAH profile._
 - Re-verify 2026-09-24 (TJJ-A09170400-17): link-check against slice article 93c0627d body — 「吳沛憶、王世堅、徐巧芯、王鴻薇、李彥秀以議員成功轉戰立委」確認見於正文，連結為真；2025-02-01 條目已在庫，同名 HOLD（北市議員≠TAH 醫師）不變。
 - 覆核（TJJ-A09171200-9, 2026-09-24）：slice 09171200-9 四篇與 TJJ-A09170400-17 同文（北市議員缺額 93c0627d、全美會228 f6213c19、長青教室tag 2777c888、會館tag p13 ced69523）正文再驗證 — 本頁條目確認見於正文，連結為真；日期事實已在庫 — SKIP，無新材料。
 - 2026-01 — 國民黨文傳會主委李彥秀表示傅崐萁率立委訪中行程係傅個人規畫安排，黨中央隨後澄清訪中將聚焦兩岸民生經濟議題；報導並述及同團投票舞弊風波（上報／藍營報導 via [[articles/taiwanjustice-net/2026/20260112183035_5-20前-國民黨立委去中國表善意_但遭質疑拆賴_454f1c39904c9f85|TJJ record, 2026-01]]）。Same KMT-legislator identity as the HOLD note above — not the Illinois physician.
+
+<!-- TJJ-A09260500-7: verified 2026-09-27 — slice 09260500-7 articles (d4a7f9e55282396a 立委號次抽籤 / 10e3a027ce22991c 晶片短缺 / 735744492226b90c 2016台美小姐開訓 / bfc5f319a036a339 黃瑞芬訃聞) subject links re-checked vs 正文; all real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->

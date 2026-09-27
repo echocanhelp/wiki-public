@@ -107,3 +107,5 @@ last_reviewed: 2026-09-24
 - 2016-05-08 — 大洛杉磯台灣會館台灣學校古典音樂欣賞課「台灣人音樂家」專場：主講者葉思雅醫師憶述曾從呂泉生學鋼琴，談及其《杯底不可飼金魚》創作於二二八時勢背景，並播放呂泉生獨唱自己作品的錄音 —— [[articles/taiwanjustice-net/2024/20240522054349_root_b4e27e98036e15d0|TJJ，2016-06-06 刊]]。
 - 2016-06-06 — 同文另存 Wayback 2023-01-29 存檔副本：同場記呂泉生因二二八情勢創作《杯底不可飼金魚》、葉思雅曾從其學鋼琴、並播放呂泉生獨唱自己作品的錄音 —— [[articles/taiwanjustice-net/2023/20230129123134_2016_06_06_大洛杉磯台灣會館台灣學校_古典音樂欣賞_-六月_a244776e9eb57979|TJJ，2016-06-06 刊・2023-01-29 存檔]]。
 - 1995-07-29 — 其作品〈搖嬰仔歌〉在台灣人聯合基金會（TUF）洛杉磯「台灣名家演奏系列」音樂會上由黃瑞芬等演出（[[articles/taiwanjustice-net/2022/20220519130616_2022_01_29_台灣女聲樂家_資深古典音樂節目主持人黃瑞芬過_bfc5f319a036a339|TJJ 轉載訃聞，2022-01-29]]；[[articles/taiwanjustice-net/2024/20240225012121_root_64302d51d03b3c5f|2024 存檔copy]]）。
+
+<!-- TJJ-A09260500-7: verified 2026-09-27 — slice 09260500-7 articles (d4a7f9e55282396a 立委號次抽籤 / 10e3a027ce22991c 晶片短缺 / 735744492226b90c 2016台美小姐開訓 / bfc5f319a036a339 黃瑞芬訃聞) subject links re-checked vs 正文; all real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
