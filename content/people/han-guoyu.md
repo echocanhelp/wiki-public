@@ -31,7 +31,9 @@ last_reviewed: 2026-09-25
 - **Primary org:** [[organizations/taiwanjustice-net||taiwanjustice.net (台灣公義網)]]
 - **Do not invent:** No birth data, family, or private contact on this page
 
-## From the Record
+## From the record
+
+- 複核（TJJ-A09260600-3, 2026-09-27）：本 slice 文章 8fc11ca0c5dbaebe（韓國瑜提預算協商, 2025-01-16）正文第三次再驗證——立法院長率跨黨派赴美就職觀禮團、盼「柯總召不要那麼硬」確認見於正文，連結為真；柯建銘暫無頁、李彥秀 TAH 同名 HOLD 維持；2025-01-16 條目（已含該文 wikilink）已在庫 — SKIP，已飽和。
 
 - 複核（TJJ-A09251400-3, 2026-09-26）：本 slice 文章 8fc11ca0c5dbaebe（韓國瑜提預算協商, 2025-01-16）正文再驗證——立法院長率跨黨派赴美就職觀禮團、盼「柯總召不要那麼硬」確認見於正文，連結為真；2025-01-16 條目（已含該文 wikilink）已在庫 — SKIP，已飽和。
 - 複核（TJJ-A09240800-3, 2026-09-25）：本 slice 文章 8fc11ca0c5dbaebe（韓國瑜提預算協商, 2025-01-16）正文再驗證——韓國瑜以立法院長率跨黨派立委赴美就職觀禮團、赴總統府就總預算協商之記述確認見於正文，subject 連結為真，無錯鏈、無虛鏈；2025-01-16 條目（已含該文 wikilink）已在庫 — SKIP，已飽和。

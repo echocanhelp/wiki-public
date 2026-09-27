@@ -44,6 +44,8 @@ _No filled family fields on the TAH profile._
 
 ## From the record
 
+- 複核（TJJ-A09260600-3, 2026-09-27）：本 slice 文章 8fc11ca0c5dbaebe（韓國瑜提預算協商, 2025-01-16）正文第三次再驗證——蕭美琴閉門會議分享4年前就職大典低溫經驗確認見於正文，連結為真；2025-01-16 條目（已含該文 wikilink）已在庫 — SKIP，已飽和。
+
 - 覆核（TJJ-A09260400-26, 2026-09-26）：本 slice 文章 8c20569762592915（南加州教會槍擊案中央社報導） 正文再驗證——subject 連結為真實提及，無錯鏈、無虛鏈；含該文 wikilink 的日期事實條目已在庫 — SKIP，已飽和。
 
 
