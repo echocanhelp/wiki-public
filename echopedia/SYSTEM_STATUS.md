@@ -1,6 +1,6 @@
 # Echopedia System Status
 
-*Generated: 2026-09-26 00:27 PDT*
+*Generated: 2026-09-27 00:26 PDT*
 
 ## Orientation
 - **Entry:** go <plain language> via go-router (auto-route) · **Control:** [CONTROL.md](CONTROL.md)
@@ -15,19 +15,19 @@
 - **L2 auto-publish on drift:** True
 - **L3 auto-push when green:** True
 - **Last good deploy:** `5cde2b2824`
-- **Last night (ledger):** analyzer scanned 2910 queued 14 suppressed 2081 · 🟡 QUEUE janitor HOLD leftover 40 · 🟡 QUEUE kanban blocked 12 · 🔴 NEED YOU cron fail: echopedia-nightly-audit
+- **Last night (ledger):** analyzer scanned 2910 queued 11 suppressed 2117 · 🟡 QUEUE janitor HOLD leftover 40 · 🟡 QUEUE kanban blocked 12 · 🔴 NEED YOU cron fail: memory-audit
 - **Track SSOT:** `knowledge/operational/intelligence/autonomy-ledger.json`
 
 ## Content
-|- **Tier1 pages:** 2876 (people 2409 / orgs 433 / sources 34) · Tier2 archive: 29103
-|- **Janitor queue depth:** 51
-|- **Uncommitted files:** 0
+|- **Tier1 pages:** 2895 (people 2415 / orgs 440 / sources 40) · Tier2 archive: 29103
+|- **Janitor queue depth:** 49
+|- **Uncommitted files:** 6
 
 ## Self-improvement pipeline (Scout → Filter → Extract → Evaluate → Generate → Review)
 || Stage | Script | Last run | Output |
 ||-------|--------|----------|--------|
 || Scout | echopedia-scout-live | 04:05 local | 44 checked, 0 broken, 0 slow |
-|| Filter | echopedia-content-analysis | 03:05 local | 2910 scanned, 11 queued |
+|| Filter | echopedia-content-analysis | 03:05 local | 2918 scanned, 9 queued |
 || Extract | echopedia-extract-actions | 04:15 local | knowledge/operational/extracted/ |
 || Evaluate | echopedia-evaluate-actions | 04:20 local | knowledge/operational/evaluated/ |
 || Generate | echopedia-generate-cards | 04:25 local | no data |
@@ -55,43 +55,43 @@ Load skill **echopedia-ops** first for any wiki work.
 ```
     Name:      cron-output-rotate
     Schedule:  5 21 * * *
-    Last run:  2026-09-25T21:05:50.094124-07:00  ok
+    Last run:  2026-09-26T21:06:11.193955-07:00  ok
     Name:      vault-morning-brief
     Schedule:  0 7 * * *
-    Last run:  2026-09-25T07:00:51.629335-07:00  ok
+    Last run:  2026-09-26T07:00:56.168701-07:00  ok
     Name:      vllm-thermal-scaler
     Schedule:  every 1m
-    Last run:  2026-09-26T00:26:46.919947-07:00  ok
+    Last run:  2026-09-27T00:25:48.959305-07:00  ok
     Name:      Echopedia content analysis
     Schedule:  10 21 * * *
-    Last run:  2026-09-25T21:10:51.838053-07:00  ok
+    Last run:  2026-09-26T21:11:13.632526-07:00  ok
     Name:      unified-watchdog
     Schedule:  every 30m
-    Last run:  2026-09-26T00:12:48.746104-07:00  ok
+    Last run:  2026-09-27T00:00:52.329366-07:00  ok
     Name:      memory-audit
     Schedule:  50 0 * * *
-    Last run:  2026-09-25T00:51:20.235984-07:00  ok
+    Last run:  2026-09-26T00:51:02.029314-07:00  error: Script exited with code 1
     Name:      echopedia-nightly-audit
     Schedule:  15 21 * * *
-    Last run:  2026-09-25T21:51:10.358753-07:00  ok
+    Last run:  2026-09-26T21:53:29.224670-07:00  error: Interrupted by shutdown before terminal completion.
     Name:      echopedia-janitor
     Schedule:  30 21 * * *
-    Last run:  2026-09-25T21:41:03.362124-07:00  ok
+    Last run:  2026-09-26T21:41:22.986537-07:00  ok
     Name:      echopedia-weekly-improvement
     Schedule:  15 22 * * 0
     Last run:  2026-09-20T22:24:46.922623-07:00  ok
     Name:      echopedia-ci-heal
     Schedule:  25 0 * * *
-    Last run:  2026-09-25T00:27:06.951146-07:00  ok
+    Last run:  2026-09-26T00:28:48.057430-07:00  ok
     Name:      echopedia-site-design
     Schedule:  30 0 * * *
-    Last run:  2026-09-25T00:31:08.723109-07:00  ok
+    Last run:  2026-09-26T00:31:49.911716-07:00  ok
     Name:      vault-search-index-rebuild
     Schedule:  0 21 * * 0
     Last run:  2026-09-20T21:00:44.250517-07:00  ok
     Name:      echopedia-scout-live
     Schedule:  40 21 * * *
-    Last run:  2026-09-25T21:41:02.628583-07:00  ok
+    Last run:  2026-09-26T21:41:22.475684-07:00  ok
     Name:      echopedia-extract-actions
 ```
 

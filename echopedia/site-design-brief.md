@@ -1,39 +1,18 @@
-## Site design audit — 2026-09-26 00:30
+## Site design audit — 2026-09-27 00:26
 
-- pages_md=15083
-- critical=0 high=2 medium=1
-- heals_suggested=publish
+- pages_md=15103
+- critical=0 high=0 medium=1
+- heals_suggested=none
 
 ### Summary
-- **SITE_DESIGN_STATUS: ACTION**
-
-### HIGH (2)
-- **A3** MD without HTML: 19 (recent≤7d: 19) `[heal:publish]`
-  - `people/hsu-hsin-liang.md`
-  - `people/mei-xinyi.md`
-  - `organizations/north-america-taiwanese-medical-association-foundation.md`
-  - `organizations/taiwanese-american-student-association-at-ohio-state-university.md`
-  - `organizations/taiwaneseamericanhistory-org.md`
-  - `works/taiwaneseamerican-org/jess-eng-taitung-eats-book.md`
-  - `works/taiwaneseamericanhistory-org/108-e8-a7-a3-e6-b0-b8-e5-8d-9a-e5-a3-ab-dr-ching-sze-hsieh.md`
-  - `works/taiwaneseamericanhistory-org/135-e5-85-a8-e7-be-8e-e5-8f-b0-e7-81-a3-e5-90-8c-e9-84-8b-e6-9c-83-e7-b0-a1-e4-b.md`
-- **B3** new/changed MD missing HTML (≤7d) `[heal:publish]`
-  - `people/hsu-hsin-liang.md`
-  - `people/mei-xinyi.md`
-  - `organizations/north-america-taiwanese-medical-association-foundation.md`
-  - `organizations/taiwanese-american-student-association-at-ohio-state-university.md`
-  - `organizations/taiwaneseamericanhistory-org.md`
-  - `works/taiwaneseamerican-org/jess-eng-taitung-eats-book.md`
-  - `works/taiwaneseamericanhistory-org/108-e8-a7-a3-e6-b0-b8-e5-8d-9a-e5-a3-ab-dr-ching-sze-hsieh.md`
-  - `works/taiwaneseamericanhistory-org/135-e5-85-a8-e7-be-8e-e5-8f-b0-e7-81-a3-e5-90-8c-e9-84-8b-e6-9c-83-e7-b0-a1-e4-b.md`
+- **SITE_DESIGN_STATUS: WARN**
 
 ### MEDIUM (1)
-- **F4** people/index.html is 1501992 bytes — heavy on mobile. Do NOT hand-edit content/people/index.md. Search-first is the IA; regen script only if links break.
+- **F4** people/index.html is 1514464 bytes — heavy on mobile. Do NOT hand-edit content/people/index.md. Search-first is the IA; regen script only if links break.
 
 ### LOW (1)
-- **C1** spelling signals (sample): 2 `[AGENT_SUGGESTED]`
-  - `prof-chin-teh-sun.md: Teh→the`
-  - `prof-chin-teh-sun.md: teh→the`
+- **C1** spelling signals (sample): 1 `[AGENT_SUGGESTED]`
+  - `dr-ching-tse-lee.md: ?ching`
 
 ### INFO (2)
 - **B2** pinned featured pages: 6 (cap 6 people + 3 orgs; overflow hides recency)
@@ -43,7 +22,7 @@
   - `people/lin-yuan-ching.md`
   - `people/yang-jia-you.md`
   - `people/yang-xin.md`
-- **B1** person/org touched ≤7d (rely on recency featured window): 2239
+- **B1** person/org touched ≤7d (rely on recency featured window): 2249
   - `people/a-n-liu.md`
   - `people/abby-hong.md`
   - `people/adam-chang.md`
@@ -54,7 +33,7 @@
   - `people/ai-jen-poo.md`
 
 ### Programmable heals
-- publish
+- (none)
 
 ### P13 agent scope
 - Only items marked AGENT_SUGGESTED or human-directed layout marker fixes.

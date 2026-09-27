@@ -1,5 +1,5 @@
 {
-  "at": "2026-09-27T06:53:33.736950+00:00",
+  "at": "2026-09-27T07:26:02.258633+00:00",
   "status": "WARN",
   "fail": 0,
   "warn": 2,
@@ -10,6 +10,6 @@
   "link_missing": 0,
   "issues": [
     "WARN: cron deliver not System group: 1",
-    "WARN: WHERE_WE_ARE last_reviewed 2026-09-06 is 20d old (>14d)"
+    "WARN: WHERE_WE_ARE last_reviewed 2026-09-06 is 21d old (>14d)"
   ]
 }
