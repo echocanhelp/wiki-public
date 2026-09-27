@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-26
+last_reviewed: 2026-09-27
 ---
 # Echo Lin (林錫湖博士)
 
@@ -59,3 +59,4 @@ _Corpus re-grep 2026-09-26 (slice 09260317-20): fresh grep 林錫湖／林仁惠
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+_Corpus re-grep 2026-09-27 (slice 09260700-6): fresh grep 林錫湖／林仁惠／Echo Lin (works+articles) returns the same saturated hit set (ourjourneys85 & -eng, 198, ourjourneys33, whos-who-1894, whoswho1010); all absorbed; SKIP-no-new-facts, HOLDs unchanged._
