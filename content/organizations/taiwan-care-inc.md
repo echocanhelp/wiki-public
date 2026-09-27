@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-26
+last_reviewed: 2026-09-27
 ---
 # Taiwan Care Inc. (關懷台灣基金會)
 
@@ -29,6 +29,7 @@ Taiwan Care Inc. is a Taiwanese American nonprofit organization rooted in the Ne
 - Corpus re-grep 2026-09-25 (slice 09240500-16): SKIP — verified-saturated; fresh grep (關懷台灣基金會／Taiwan(ese) Care, works+articles) returns the same four absorbed records (#108, #226, ourjourneys356 + EN, org record) plus the works index and the TCWA substring collision (Taiwanese Career ≠ Taiwanese Care). Naming HOLD stands; nothing new to absorb.
 - Corpus re-grep 2026-09-25 (slice 09250800-10): SKIP — fresh ZH+EN grep of works+articles returns a hit set identical to the records already absorbed above; nothing new to absorb; verified saturated.
 - Corpus re-grep 2026-09-26 (slice 09260317-18): SKIP — fresh ZH+EN grep returns a hit set identical to the records already absorbed above (plus works index and the TCWA substring collision, Taiwanese Career ≠ Taiwanese Care); nothing new to absorb; naming HOLD stands; verified saturated.
+- Corpus re-grep 2026-09-27 (slice 09260700-4): SKIP — fresh ZH+EN grep (關懷台灣基金會／Taiwan(ese) Care, works+articles) hit set identical to the absorbed records (#108, #226, ourjourneys356 + EN, org record) plus the TCWA substring collision; nothing new absorbable; naming HOLD stands; verified saturated.
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwan-care-inc/)

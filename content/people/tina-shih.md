@@ -41,6 +41,8 @@ _No filled family fields on the TAH profile._
 
 ## From the record
 
+- 複核（TJJ-A09260600-4, 2026-09-27）：本 slice 文章 [[articles/taiwanjustice-net/2024/20240522043642_root_cc3bbdbfc662fe66|cc3bbdbf]] 正文再驗證——施雅婷開訓首日講解選美須知、「身、心、靈俱美」確認見於正文，subject 連結為真，無錯鏈、無虛鏈；含該文 wikilink 的 2016-06-14 條目已在庫 — SKIP，無新材料；正文另涉 陳西園／賴淑遠，連結無虛鏈。
+
 - 複核（TJJ-A09251500-1, 2026-09-26）：本 slice 文章 [[articles/taiwanjustice-net/2024/20240522043642_root_cc3bbdbfc662fe66|cc3bbdbf]]（2016台美小姐開訓記者會）正文再驗證——施雅婷老師開訓首日講解選美須知確認見於正文，subject 連結為真，無錯鏈、無虛鏈；含該文 wikilink 的 2016-06-14 條目已在庫 — SKIP，無新材料。
 
 - 覆核（TJJ-A09251400-5, 2026-09-26）：slice 文章 735744492226b90c（2016台美小姐開訓記者會, 2016-06-14 刊）——開訓首日施雅婷講解選美須知、「身、心、靈俱美」記述再確認見於正文，連結為真，無錯鏈、無虛鏈；對應日期事實條目（已含該文 wikilink）已在庫 — SKIP，無新材料。

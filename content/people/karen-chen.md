@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-26
+last_reviewed: 2026-09-27
 ---
 # Karen Chen (陳楷雯)
 
@@ -45,6 +45,7 @@ Track of her coverage in the TAH community archive:
 - 2026-09-25 re-grep (slice 09240500-18): fresh grep (陳楷雯／Karen Chen, works+articles) — only new hit vs prior rounds is the TAH #3 bibliographic record now linked above; no narrative text to absorb, no new dates; existing HOLD kept.
 - 2026-09-25 re-grep (slice 09250800-11): fresh grep (陳楷雯／Karen Chen, works+articles) hit set identical to linked records (#2/#240/#313/#1486/#1988, #823, #1204, #3) — SKIP, verified saturated; nothing new absorbable; existing HOLD kept, no dates merged.
 - 2026-09-26 re-grep (slice 09260317-17): fresh grep (陳楷雯／Karen Chen, works+articles) hit set identical to the linked records (#2/#240/#313/#1486/#1988, #823, #1204, #3) — SKIP, verified saturated; nothing new absorbable; existing HOLD kept, no dates merged.
+- 2026-09-27 re-grep (slice 09260700-4): fresh grep (陳楷雯／Karen Chen, works+articles) hit set identical to the linked records (#2/#240/#1486/#1988, #823, #1204) — SKIP, verified saturated; nothing new absorbable; existing HOLD kept, no dates merged.
 
 ## Family
 

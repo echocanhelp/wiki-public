@@ -62,6 +62,8 @@ Absorbed from vault pages already naming her (no web):
 
 ## From the record
 
+- 複核（TJJ-A09260600-4, 2026-09-27）：本 slice 文章 [[articles/taiwanjustice-net/2025/20250518232637_戴琪_台美貿易倡議盼在關鍵領域達高標準成果_6d16f9e35d9e3188|6d16f9e3]] 正文再驗證——戴琪於 selectUSA 投資峰會演說談美台貿易倡議、談判路線圖確認見於正文，subject 連結為真，無錯鏈、無虛鏈；含該文 wikilink 的 2022-06-28 條目已在庫 — SKIP，無新材料；正文另涉 鄧振中／蕭美琴／畢昂奇(Sarah Bianchi)／拜登，連結無虛鏈。
+
 - 複核（TJJ-A09251500-1, 2026-09-26）：本 slice 文章 [[articles/taiwanjustice-net/2025/20250518232637_戴琪_台美貿易倡議盼在關鍵領域達高標準成果_6d16f9e35d9e3188|6d16f9e3]]（台美貿易倡議）正文再驗證——戴琪於 selectUSA 峰會演說談美台貿易倡議確認見於正文，subject 連結為真，無錯鏈、無虛鏈；含該文 wikilink 的 2022-06-28 條目已在庫 — SKIP，無新材料。
 
 - 覆核（TJJ-A09251400-5, 2026-09-26）：slice 文章 10e3a027ce22991c（汽車晶片短缺報導, 2021-02-25 刊）——戴琪於參院財政委員會提名聽證會當日就晶片短缺被斯塔貝諾參議員提及之記述再確認見於正文，連結為真，無錯鏈、無虛鏈；對應日期事實條目（已含該文 wikilink）已在庫 — SKIP，無新材料。

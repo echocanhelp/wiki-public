@@ -28,6 +28,8 @@ last_reviewed: 2026-09-24
 
 ## From the record
 
+- 複核（TJJ-A09260600-4, 2026-09-27）：本 slice 文章 [[articles/taiwanjustice-net/2024/20240622135632_root_54dd66fe454bf899|54dd66fe]] 正文再驗證——以立合唱團總指揮楊子清率團赴 Mayfield 交流並稱「國民外交」確認見於正文，subject 連結為真，無錯鏈、無虛鏈；含該文 wikilink 的 2024-05-13 條目已在庫 — SKIP，無新材料。
+
 - 複核（TJJ-A09251500-1, 2026-09-26）：本 slice 文章 [[articles/taiwanjustice-net/2024/20240622135632_root_54dd66fe454bf899|54dd66fe]] 正文再驗證——以立合唱團總指揮楊子清率團赴 Mayfield 交流並稱「國民外交」確認見於正文，subject 連結為真，無錯鏈、無虛鏈；含該文 wikilink 的 2024-05-13 日期條目已在庫 — SKIP，無新材料。
 
 - 複核（TJJ-A09251400-4, 2026-09-26）：本 slice 文章 9412105875987041（以立合唱團 Mayfield 校園文化交流） 正文再驗證——總指揮楊子清率團赴 Mayfield 交流並稱國民外交確認見於正文，subject 連結為真，無錯鏈、無虛鏈；對應日期事實條目（含該文 wikilink）已在庫 — SKIP，已飽和。

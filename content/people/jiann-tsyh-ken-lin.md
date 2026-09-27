@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-26
+last_reviewed: 2026-09-27
 ---
 # Jiann-Tsyh Ken Lin (林健次博士)
 
@@ -42,6 +42,7 @@ President, North American Taiwanese Professors Association, Northern California 
 - Under his 1994 presidency the federation held political-education events: a 台灣加入聯合國座談會 with FAPA's speaker, a 春節晚會 with Dr. 陳永興, and 鄉情座談會 with 張富美, 陳芳明, and 艾琳達 (per the same memoir).
 - Contact listed on the Northern California 台灣司法改革/公民運動 roster in the taiwanjustice.net corpus (925 number — consistent with his Albany, CA residence).
 - HOLD: financial-commentary articles on the 兆豐案 attributed to 「林健次」(民報 2016-11-28) in taiwanjustice.net articles — same-name identity with this USDA research chemist unverified; do not merge biography.
+- 2021 年台美人社區回應 Pew Research Center 將台灣人資料併入「華人」分類的連署聲明中，署名者「Ken Lin, Taiwanese American Senior Society East Bay」與本人北加州 925 聯絡的生活躍期相符，但東灣 TASS 成員身份與本人關聯未获語料直接證實，暫記不併 [[works/taiwaneseamerican-org/pew-research-center-taiwanese-american-statement|2021 Pew 聲明連署]]。
 - TAH encyclopedia profile: [[works/taiwaneseamericanhistory-org/449-jiann-tsyh-ken-lin-e6-9e-97-e5-81-a5-e6-ac-a1201506|449. Jiann-Tsyh (Ken) Lin 林健次 / 2015/06]].
 - Corpus re-check (2026-09-20, deepen-x slice 09190445-1, vault-only): fresh grep hit set = #142 memoir + #449 profile + the taiwanjustice.net 兆豐案 tag/category index pages (the 「林健次」民報 byline, HOLD above) + the 鄭文龍灣區拜訪 roster (925-736-2304, same contact as already noted). Nothing new absorbable; SKIP-with-no-new-facts.
 - Corpus re-check (2026-09-21, deepen-x slice 09201500-4, vault-only): hit set unchanged (#142 memoir, #449 profile, taiwanjustice 兆豐案 byline pages, 灣區拜訪 roster). Verified-saturated; SKIP.
@@ -51,6 +52,7 @@ President, North American Taiwanese Professors Association, Northern California 
 - Corpus re-check (2026-09-25, deepen-x slice 09240317-7, vault-only): hit set unchanged (#142 memoir, #449 profile, taiwanjustice index pages bearing the 「林健次」byline — HOLD above). Nothing new absorbable; SKIP.
 - Corpus re-check (2026-09-25, deepen-x slice 09250700-6, vault-only): hit set unchanged (#142 memoir, #449 profile, works index, taiwanjustice 兆豐案 tag pages bearing the 「林健次」/民報 2016-11-28 byline — HOLD above — and the 灣區名册 with the same 925-736-2304 contact). Verified-saturated; SKIP.
 - Corpus re-check (2026-09-26, deepen-x slice 09260317-11, vault-only): hit set unchanged (#142 memoir, #449 profile, taiwanjustice 兆豐案 byline pages — HOLD above). Verified-saturated; SKIP.
+- Corpus re-check (2026-09-27, deepen-x slice 09260700-2, vault-only): fresh grep 林健次|Jiann-Tsyh|Ken Lin — one new hit: the 2021 taiwaneseamerican.org Pew statement signatory list (「Ken Lin, Taiwanese American Senior Society East Bay」), absorbed above as an unconfirmed same-name association; taiwanjustice 2024 兆豐案 tag pages (「面目全非的台灣金管會──兆豐案的省思 ◎林健次/民報 2016-11-28」, HOLD above) and the 灣區名册 unchanged. Otherwise verified-saturated.
 
 
 ## Sources

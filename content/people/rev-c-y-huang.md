@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-26
+last_reviewed: 2026-09-27
 ---
 # Rev. C. Y. Huang (黃主義牧師)
 
@@ -61,3 +61,4 @@ last_reviewed: 2026-09-26
 - 複核（deepen-x 2026-09-25, slice 09240317-9）: fresh ZH+EN re-grep（黃主義 / C. Y. Huang, works+articles）命中集不變: 僅本人條目 #1855、ourjourneys270（劉主安/劉青眼/陳皙宗脈落已吸收）、works/index; #2314 黃清燕 仍 HOLD 未併入 (saturated, SKIP)
 - 複核（deepen-x 2026-09-26, slice 09260317-16）: fresh ZH+EN re-grep（黃主義 / C. Y. Huang, works+articles）命中集不變 — 僅 #1855、ourjourneys270、works/index；#2314 黃清燕 仍 HOLD 未併入。SKIP, verified-saturated.
 - 複核（deepen-x 2026-09-25, slice 09250700-7）: fresh ZH+EN re-grep（黃主義 / C. Y. Huang, works+articles）命中集不變 — 僅 #1855、ourjourneys270、works/index；#2314 黃清燕 仍 HOLD 未併入。SKIP, verified-saturated.
+- 複核（deepen-x 2026-09-27, slice 09260700-4）: fresh ZH+EN re-grep（黃主義 / C. Y. Huang, works+articles）命中集不變 — 僅 #1855、ourjourneys270、works/index；#2314 黃清燕 仍 HOLD 未併入。SKIP, verified-saturated.
