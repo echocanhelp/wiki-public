@@ -71,3 +71,5 @@ last_reviewed: 2026-09-26
 - 2026-09-26 slice 09260317-14 複核：命中集合不變（TAH #1154、works index、2021 WHA 聲明兩筆 b1d58af1/80c0a825、2013 核四表決 f6ed9463），全部已收錄，無新社群事實 — SKIP（已飽和）。
 
 <!-- TJJ-A09251400-10: verified 2026-09-26 — subject links in slice 09251400-10 articles (f6ed9463 2013核四表決名單 / 0258611f 2024-05-19 520就職報導 / 06510e79 2020-11-19 林榮松獲聘政務顧問 / 77328a2c 2016-06-12 會館第十屆董事會) re-checked vs 正文; all real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A09260600-8: verified 2026-09-27 — subject links in slice 09260600-8 articles (f6ed9463 2013核四表決名單 / 0258611f 2024-05-19 520就職報導 / 06510e79 2020-11-19 林榮松獲聘政務顧問 / 77328a2c 2016-06-12 會館第十屆董事會) re-checked vs 正文; all real, no wrong/spurious links; dated facts w/ article wikilinks already in From the record — saturated, no new material. -->

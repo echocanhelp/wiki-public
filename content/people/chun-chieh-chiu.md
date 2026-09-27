@@ -83,3 +83,5 @@ _No filled family fields on the TAH profile._
 <!-- TJJ-A09260400-27: verified 2026-09-26 — subject links in slice 09260400-27 articles (e041055e 台灣演義分類頁 / cd646b86 WHO世衛專題頁 / 2fc3294e Michelle Steel募款餐會 / 432e1fca Ed Royce標籤頁) re-checked vs 正文; all real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A09260500-11: verified 2026-09-27 — slice articles re-checked vs 正文; subject link real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. --> slice 6d9cd937dedb11f7 台灣入WHO論壇公告
+
+<!-- TJJ-A09260600-8: verified 2026-09-27 — subject links in slice 09260600-8 articles (f6ed9463 2013核四表決名單 / 0258611f 2024-05-19 520就職報導 / 06510e79 2020-11-19 林榮松獲聘政務顧問 / 77328a2c 2016-06-12 會館第十屆董事會) re-checked vs 正文; all real, no wrong/spurious links; dated facts w/ article wikilinks already in From the record — saturated, no new material. -->

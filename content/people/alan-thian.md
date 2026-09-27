@@ -344,3 +344,5 @@ Notable quotes and mentions of **田詒鴻** in Taiwan Justice articles:
 <!-- TJJ-A09260500-3: verified 2026-09-27 — subject link vs 正文 real (79291dad808ef7f7 大洛杉磯台灣會館會訊 2018-06); dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 - 複核（TJJ-A09260500-15, 2026-09-27）：本 slice 僅 [[articles/taiwanjustice-net/2024/20240425081647_root_17835ad9519f9cfe|17835ad9]] 涉本人，subject 連結為真；含該文 wikilink 的 2016-06-11 條目已在庫 — SKIP，無新材料。
+
+<!-- TJJ-A09260600-8: verified 2026-09-27 — subject links in slice 09260600-8 articles (f6ed9463 2013核四表決名單 / 0258611f 2024-05-19 520就職報導 / 06510e79 2020-11-19 林榮松獲聘政務顧問 / 77328a2c 2016-06-12 會館第十屆董事會) re-checked vs 正文; all real, no wrong/spurious links; dated facts w/ article wikilinks already in From the record — saturated, no new material. -->

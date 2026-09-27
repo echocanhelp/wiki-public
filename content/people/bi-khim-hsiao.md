@@ -279,3 +279,5 @@ _No filled family fields on the TAH profile._
 <!-- TJJ-A09260500-13: verified 2026-09-27 — subject links in slice 09260500-13 articles (a20fb275b89c3fb7 鄭自才登記連署 / 996879ac7a006acf FAHR第44屆年會 / 63257725da30ee94 FAHR研討會 / 4c65a9afe4934086 520就職快照) re-checked vs 正文; all real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A09260600-1: verified 2026-09-27 — subject links in slice 09260600-1 articles (77b0891e 信雅古典音樂珍藏啟用致詞 / 3be67f6e 台美人台加人存檔頁2 / 2e141df6 蔬果園藝標籤頁 / 2fa1c26a 台美人台加人存檔頁359) re-checked vs 正文; all real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A09260600-8: verified 2026-09-27 — subject links in slice 09260600-8 articles (f6ed9463 2013核四表決名單 / 0258611f 2024-05-19 520就職報導 / 06510e79 2020-11-19 林榮松獲聘政務顧問 / 77328a2c 2016-06-12 會館第十屆董事會) re-checked vs 正文; all real, no wrong/spurious links; dated facts w/ article wikilinks already in From the record — saturated, no new material. -->
