@@ -57,3 +57,5 @@ _No filled family fields on the TAH profile._
 - 2019-10-31 — 台灣公義網刊出「糖尿病與你◎王秉訓教授」演講記錄（2019-10-30 記錄、吳瑞惠撰）：記王秉訓經哈佛醫學院訓練後於2004年主持爾灣加大糖尿病治療及研究中心，及數據醫學、飲食與AI醫療要點（[[articles/taiwanjustice-net/2024/20240522045150_root_26f763595b5ce4fb|TJJ, 2019-10-31]]）。
 - 該「糖尿病與你」演講稿亦見於台灣公義網保健類目存檔頁，頁中並列有鄭炳全、李堅、楊遠薰、唐培理等筆名作者（[[articles/taiwanjustice-net/2024/20240421172838_root_f74e3a075f079fdb|TJJ 保健類目, 2024-04-21 存檔]]）。
 Corpus re-check 2026-09-26 (deepen-x slice 09251000-16): fresh ZH+EN grep — hit set identical (whoswho1194, 糖尿病與你 TJJ article, TJJ 保健類目, MANIFEST, 200-hann-ping-wang=王漢平 false positive, works index), all absorbed. Verified-saturated SKIP.
+
+<!-- TJJ-A09260500-9: verified 2026-09-27 — slice 09260500-9 4 篇（b7327dcf TAA Archives Newsletter / 95fd8186 洛杉磯會館228追思77年 / 26f76359 糖尿病與你 / a1b56965 彭明敏研討會）正文再驗證——subject 連結為真實提及，無錯鏈、無虛鏈；含該文 wikilink 的日期事實條目已在庫 — saturated, no new material. -->

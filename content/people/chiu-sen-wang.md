@@ -71,3 +71,5 @@ last_reviewed: 2026-09-25
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - Corpus re-grep 2026-09-23 (slice 09221000-2)：驗證飽和 — 命中集不變（ourjourneys76/-eng、81、212、234、publications1092、#235、#377）。#81 中「麥迪遜結盟大會」書信連署名单另列「西雅圖的王秋森」，與同文洛杉磯地區代表身分並存，不另拆記；無新可吸收語料。
 - Corpus re-grep 2026-09-24 (slice 09230400-1)：驗證飽和 — fresh ZH+EN grep 命中集不變且全部已連結吸收；無新可吸收語料。
+
+<!-- TJJ-A09260500-9: verified 2026-09-27 — slice 09260500-9 4 篇（b7327dcf TAA Archives Newsletter / 95fd8186 洛杉磯會館228追思77年 / 26f76359 糖尿病與你 / a1b56965 彭明敏研討會）正文再驗證——subject 連結為真實提及，無錯鏈、無虛鏈；含該文 wikilink 的日期事實條目已在庫 — saturated, no new material. -->

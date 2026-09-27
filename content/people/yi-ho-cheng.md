@@ -89,3 +89,5 @@ From [[works/taiwaneseamericanhistory-org/ourjourneys76|TAH #76 — 全美台灣
 <!-- TJJ-A09251500-2: verified 2026-09-26 — subject links in slice 09251500-2 articles (1251d9ed 五大會館萊豬聲明 / 92ff3ef6 彭明敏研討會 / 6e021ae4 吳修銘任拜登特助 / e1e223aa 蘇姿丰年薪榜首) re-checked vs 正文; all real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A09260500-3: verified 2026-09-27 — subject link vs 正文 real (da7f84e20eff6ae9 人民自救宣言59週年報導); dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A09260500-9: verified 2026-09-27 — slice 09260500-9 4 篇（b7327dcf TAA Archives Newsletter / 95fd8186 洛杉磯會館228追思77年 / 26f76359 糖尿病與你 / a1b56965 彭明敏研討會）正文再驗證——subject 連結為真實提及，無錯鏈、無虛鏈；含該文 wikilink 的日期事實條目已在庫 — saturated, no new material. -->

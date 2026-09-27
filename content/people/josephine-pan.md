@@ -112,3 +112,5 @@ last_reviewed: 2026-09-25
 - [[people/wei-boji||Wei Boji (魏博基)]]
 - [[people/xu-shitan||Xu Shitan (徐士坦)]]
 - [[people/wang-rongyi||Wang Rongyi (王榮義)]]
+
+<!-- TJJ-A09260500-9: verified 2026-09-27 — slice 09260500-9 4 篇（b7327dcf TAA Archives Newsletter / 95fd8186 洛杉磯會館228追思77年 / 26f76359 糖尿病與你 / a1b56965 彭明敏研討會）正文再驗證——subject 連結為真實提及，無錯鏈、無虛鏈；含該文 wikilink 的日期事實條目已在庫 — saturated, no new material. -->

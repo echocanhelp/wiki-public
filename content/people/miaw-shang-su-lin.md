@@ -53,3 +53,5 @@ Corpus re-check 2026-09-22 (deepen-x slice 09220400-28) and again 2026-09-23 (sl
 <!-- TJJ-A09240800-10: verified 2026-09-25 — subject links in slice 09240800-10 articles confirmed real; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 - Corpus re-sweep 2026-09-26 (slice 09251000-24): hits remain only #290, video #37, #1107, the works index, and the two TJJ March-2021-newsletter snapshots — all already linked; verified-saturated SKIP-deepen.
 - Corpus re-sweep 2026-09-26 (slice 09260500-2): fresh grep hit-set unchanged (#290, video #37, #1107, works index, two TJJ March-2021-newsletter snapshots — all already linked) — verified-saturated SKIP-deepen.
+
+<!-- TJJ-A09260500-9: verified 2026-09-27 — slice 09260500-9 4 篇（b7327dcf TAA Archives Newsletter / 95fd8186 洛杉磯會館228追思77年 / 26f76359 糖尿病與你 / a1b56965 彭明敏研討會）正文再驗證——subject 連結為真實提及，無錯鏈、無虛鏈；含該文 wikilink 的日期事實條目已在庫 — saturated, no new material. -->

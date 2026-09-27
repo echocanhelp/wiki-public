@@ -120,3 +120,5 @@ _No filled family fields on the TAH profile._
 <!-- TJJ-A09260400-3: verified 2026-09-26 — slice 09260400-3 四篇（廖清山〈一顆難以忘懷的台灣心〉cbf185d4；楊遠薰《卓甫良與TAF的故事》兩存檔 f06677a4／e7aad53f；獨傲村夫〈反攻大陸（下）〉dd1007a6）subject links 正文再驗證均為真實提及，無錯鏈、無虛鏈；含各檔 wikilink 的日期事實條目已在庫 — saturated, no new material. -->
 
 <!-- TJJ-A09260500-3: verified 2026-09-27 — subject link vs 正文 real (da7f84e20eff6ae9 人民自救宣言59週年報導); dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A09260500-9: verified 2026-09-27 — slice 09260500-9 4 篇（b7327dcf TAA Archives Newsletter / 95fd8186 洛杉磯會館228追思77年 / 26f76359 糖尿病與你 / a1b56965 彭明敏研討會）正文再驗證——subject 連結為真實提及，無錯鏈、無虛鏈；含該文 wikilink 的日期事實條目已在庫 — saturated, no new material. -->

@@ -108,3 +108,5 @@ last_reviewed: 2026-09-25
 ## Vault deepening note (slice 09140107-9, 2026-09-14, vault-only)
 - Institution-context links added from the existing vault corpus: [[organizations/taiwanese-american-student-association-ohio-state-university||Taiwanese American Student Association @ Ohio State University]] and [[organizations/taiwanese-student-association-at-ohio-state-university||Taiwanese Student Association at Ohio State University]] (MS Civil Engineering years at Ohio State). Context only — no documented membership.
 - The cited vault records — TAH #710 ([[works/taiwaneseamericanhistory-org/whos-who-710||bibliographic stub]]) and the Taiwan Center board archive — carry no further absorbable biography; full-text biography remains outside this source set. Status: published for board role only.
+
+<!-- TJJ-A09260500-9: verified 2026-09-27 — slice 09260500-9 4 篇（b7327dcf TAA Archives Newsletter / 95fd8186 洛杉磯會館228追思77年 / 26f76359 糖尿病與你 / a1b56965 彭明敏研討會）正文再驗證——subject 連結為真實提及，無錯鏈、無虛鏈；含該文 wikilink 的日期事實條目已在庫 — saturated, no new material. -->

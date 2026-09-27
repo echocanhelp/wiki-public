@@ -86,3 +86,5 @@ The TAH archive carries this person under both romanizations — Edgar (TAH #174
 - Environmental record: as Director of the EPA (2000-2001), titled 台灣環保之父 in [[works/taiwaneseamericanhistory-org/174-prof-edgar-lin||TAH #174]] and [[works/taiwaneseamericanhistory-org/publication-501||his own memoir 活出淋漓盡致的生命 (2014-10)]], he overlaps with the movement held in the vault as [[organizations/taiwan-environmental-action-network-tean||Taiwan Environmental Action Network (TEAN)]].
 - No further biography exists in the vault source set; deepened via cross-links only.
 <!-- TJJ-A09240800-10: verified 2026-09-25 — subject links in slice 09240800-10 articles confirmed real; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A09260500-9: verified 2026-09-27 — slice 09260500-9 4 篇（b7327dcf TAA Archives Newsletter / 95fd8186 洛杉磯會館228追思77年 / 26f76359 糖尿病與你 / a1b56965 彭明敏研討會）正文再驗證——subject 連結為真實提及，無錯鏈、無虛鏈；含該文 wikilink 的日期事實條目已在庫 — saturated, no new material. -->
