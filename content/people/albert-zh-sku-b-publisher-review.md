@@ -77,7 +77,15 @@ Book order for **Chinese 2025 edition**, then 1971 dissertation body.
 
 ### A. Cover → before Chapter I
 
-#### A1. 2025 推薦序／原作者序／導讀 · ~56 min · **NEW**
+### A0. 目錄 · ~1.2 min · **v2**（本版目錄無頁碼，只唸條目）
+
+<audio controls preload="metadata" style="width:100%;max-width:40rem">
+  <source src="https://echocanhelp.github.io/wiki-public/public/media/albert-zh-toc-hsiaochen-publisher-v1-full-scratch.mp3" type="audio/mpeg">
+</audio>
+
+- [Download (raw)](https://raw.githubusercontent.com/echocanhelp/wiki-public/gh-pages/public/media/albert-zh-toc-hsiaochen-publisher-v1-full-scratch.mp3)
+
+#### A1. 2025 推薦序／原作者序／導讀 · ~62 min · **v2 −10%**
 
 <audio controls preload="metadata" style="width:100%;max-width:40rem">
   <source src="https://echocanhelp.github.io/wiki-public/public/media/albert-zh-2025-front-hsiaochen-publisher-v1-full-scratch.mp3" type="audio/mpeg">
