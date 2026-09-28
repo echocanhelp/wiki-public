@@ -1,6 +1,6 @@
 # Echopedia System Status
 
-*Generated: 2026-09-27 22:19 PDT*
+*Generated: 2026-09-28 00:28 PDT*
 
 ## Orientation
 - **Entry:** go <plain language> via go-router (auto-route) · **Control:** [CONTROL.md](CONTROL.md)
@@ -21,7 +21,7 @@
 ## Content
 |- **Tier1 pages:** 2895 (people 2415 / orgs 440 / sources 40) · Tier2 archive: 29103
 |- **Janitor queue depth:** 47
-|- **Uncommitted files:** 113
+|- **Uncommitted files:** 62
 
 ## Self-improvement pipeline (Scout → Filter → Extract → Evaluate → Generate → Review)
 || Stage | Script | Last run | Output |
@@ -61,13 +61,13 @@ Load skill **echopedia-ops** first for any wiki work.
     Last run:  2026-09-27T07:00:44.705632-07:00  ok
     Name:      vllm-thermal-scaler
     Schedule:  every 1m
-    Last run:  2026-09-27T22:18:51.396641-07:00  ok
+    Last run:  2026-09-28T00:27:56.357878-07:00  ok
     Name:      Echopedia content analysis
     Schedule:  10 21 * * *
     Last run:  2026-09-27T21:11:13.371933-07:00  ok
     Name:      unified-watchdog
     Schedule:  every 30m
-    Last run:  2026-09-27T22:18:49.622592-07:00  ok
+    Last run:  2026-09-28T00:18:54.576321-07:00  ok
     Name:      memory-audit
     Schedule:  50 0 * * *
     Last run:  2026-09-27T00:50:49.175462-07:00  error: Script exited with code 1
@@ -79,7 +79,7 @@ Load skill **echopedia-ops** first for any wiki work.
     Last run:  2026-09-27T21:41:24.249966-07:00  ok
     Name:      echopedia-weekly-improvement
     Schedule:  15 22 * * 0
-    Last run:  2026-09-20T22:24:46.922623-07:00  ok
+    Last run:  2026-09-27T22:21:36.494439-07:00  error: Interrupted by shutdown before terminal completion.
     Name:      echopedia-ci-heal
     Schedule:  25 0 * * *
     Last run:  2026-09-27T00:28:38.703090-07:00  ok
@@ -114,7 +114,7 @@ Load skill **echopedia-ops** first for any wiki work.
 | 10 1 * * * | `echopedia-docs-sync` | no_agent | on | ok | `echopedia-docs-sync-cron.sh` |
 | 10 21 * * * | `Echopedia content analysis` | no_agent | on | ok | `echopedia-content-analysis-cron.sh` |
 | 15 21 * * * | `echopedia-nightly-audit` | no_agent | on | ok | `echopedia-nightly-audit-wrapper.sh` |
-| 15 22 * * 0 | `echopedia-weekly-improvement` | no_agent | on | ok | `echopedia-weekly-improvement.sh` |
+| 15 22 * * 0 | `echopedia-weekly-improvement` | no_agent | on | error | `echopedia-weekly-improvement.sh` |
 | 15 23 * * * | `echopedia-quote-extractor` | no_agent | on | ok | `echopedia-quote-extractor-cron.sh` |
 | 20 22 * * * | `echopedia-evaluate-actions` | no_agent | on | ok | `echopedia-evaluate-actions.py` |
 | 20 6 * * * | `echopedia-digest` | no_agent | OFF | ok | `echopedia-digest.sh` |

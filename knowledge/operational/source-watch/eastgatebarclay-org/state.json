@@ -2,8 +2,8 @@
   "id": "eastgatebarclay-org",
   "urls": {
     "https://eastgatebarclay.org/2026/08/17/2026-08-09%ef%bc%8e%e3%80%8c%e6%89%80%e7%be%85%e9%96%80%e3%80%8d/": {
-      "hash": "83c916ef8f1dbfd0f90cbc232bde5451",
-      "len": 35170,
+      "hash": "6ba931f2f6fc3f23f6d8765a0263c783",
+      "len": 36187,
       "code": 200,
       "baseline": false
     },
@@ -146,8 +146,8 @@
       "baseline": false
     },
     "https://eastgatebarclay.org/aboutme/": {
-      "hash": "76f304fd51debdc1e353743bd6eae2f0",
-      "len": 37118,
+      "hash": "7f27c47ee4908b5f773604406a611101",
+      "len": 37970,
       "code": 200,
       "baseline": false
     },
@@ -614,6 +614,6 @@
       "baseline": false
     }
   },
-  "last_poll": "2026-09-21T06:52:02Z",
+  "last_poll": "2026-09-28T06:52:19Z",
   "baseline_at": "2026-08-22T18:08:58Z"
 }

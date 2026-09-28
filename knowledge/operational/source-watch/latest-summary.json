@@ -1,5 +1,5 @@
 {
-  "at": "2026-09-21T06:52:15Z",
+  "at": "2026-09-28T06:52:32Z",
   "dry_run": false,
   "sources": [
     {
@@ -15,14 +15,29 @@
     },
     {
       "id": "good-shepherd-taiwanese-presbyterian-church",
-      "new": [],
-      "changed": [],
+      "new": [
+        "https://gstpc.org/home/09-27-2026-sunday-bulletin/"
+      ],
+      "changed": [
+        "https://gstpc.org/home/feed/",
+        "https://gstpc.org/home/category/bulletin/",
+        "https://gstpc.org/home/tag/bulletin-2/",
+        "https://gstpc.org/home/tag/%e9%80%b1%e5%a0%b1/"
+      ],
       "gone_sample": [],
       "errors": [
         "https://gstpc.org/home/xmlrpc.php HTTP 405",
         "https://gstpc.org/home/wprhe_qrcode_style.css  HTTP 404"
       ],
-      "applied": [],
+      "applied": [
+        "tier2:good-shepherd-taiwanese-presbyterian-church-delta-2026-09-27-home-feed.md",
+        "tier2:good-shepherd-taiwanese-presbyterian-church-delta-2026-09-27-home-09-27-2026-sunday-bulletin.md",
+        "tier2:good-shepherd-taiwanese-presbyterian-church-delta-2026-09-27-home-category-bulletin.md",
+        "tier2:good-shepherd-taiwanese-presbyterian-church-delta-2026-09-27-home-tag-bulletin-2.md",
+        "tier2:good-shepherd-taiwanese-presbyterian-church-delta-2026-09-27-home-tag--e9-80-b1-e5-a0-b1.md",
+        "last_reviewed:hub",
+        "last_reviewed:good-shepherd-taiwanese-presbyterian-church.md"
+      ],
       "parked": false,
       "a_band": [],
       "advisory": []
@@ -42,14 +57,16 @@
     },
     {
       "id": "presbyterian-church-in-taiwan",
-      "new": [],
-      "changed": [
-        "https://www.pct.org.tw/news_focus.aspx"
+      "new": [
+        "https://www.pct.org.tw/news_pct.aspx?strBlockID=B00006&amp;strContentID=C2026092400003&amp;strDesc=Y",
+        "https://www.pct.org.tw/news_pct.aspx?strBlockID=B00006&amp;strContentID=C2026092300001&amp;strDesc=Y"
       ],
+      "changed": [],
       "gone_sample": [],
       "errors": [],
       "applied": [
-        "tier2:presbyterian-church-in-taiwan-delta-2026-09-20-news_focus.aspx.md",
+        "tier2:presbyterian-church-in-taiwan-delta-2026-09-27-news_pct.aspx.md",
+        "tier2:presbyterian-church-in-taiwan-delta-2026-09-27-news_pct.aspx.md",
         "last_reviewed:hub",
         "last_reviewed:presbyterian-church-in-taiwan.md"
       ],
@@ -70,11 +87,18 @@
     },
     {
       "id": "taiwaneseamerican-org",
-      "new": [],
+      "new": [
+        "https://www.taiwaneseamerican.org/2026/09/vincent-chu-nice-places/"
+      ],
       "changed": [],
       "gone_sample": [],
       "errors": [],
-      "applied": [],
+      "applied": [
+        "tier2:taiwaneseamerican-org-delta-2026-09-27-2026-09-vincent-chu-nice-places.md",
+        "work:vincent-chu-nice-places.md",
+        "last_reviewed:hub",
+        "last_reviewed:taiwaneseamerican-org.md"
+      ],
       "parked": false,
       "a_band": [],
       "advisory": []
@@ -104,10 +128,18 @@
     {
       "id": "eastgatebarclay-org",
       "new": [],
-      "changed": [],
+      "changed": [
+        "https://eastgatebarclay.org/2026/08/17/2026-08-09%ef%bc%8e%e3%80%8c%e6%89%80%e7%be%85%e9%96%80%e3%80%8d/",
+        "https://eastgatebarclay.org/aboutme/"
+      ],
       "gone_sample": [],
       "errors": [],
-      "applied": [],
+      "applied": [
+        "tier2:eastgatebarclay-org-delta-2026-09-27-2026-08-17-2026-08-09-ef-bc-8e-e3-80-8c-e6-89-80-e7-be-85-e9-96-80-e3-80-8d.md",
+        "tier2:eastgatebarclay-org-delta-2026-09-27-aboutme.md",
+        "last_reviewed:hub",
+        "last_reviewed:tainan-east-gate-barclay-memorial-church.md"
+      ],
       "parked": false,
       "a_band": [],
       "advisory": []
@@ -115,10 +147,24 @@
     {
       "id": "penghu-info",
       "new": [],
-      "changed": [],
+      "changed": [
+        "https://penghu.info/OB3EA09D40C6E9BC3602",
+        "https://penghu.info/OB23C512046DFE3D988E",
+        "https://penghu.info/OB3BAC46B986E5DBC51B",
+        "https://penghu.info/OB2C73E27C74756946C9",
+        "https://penghu.info/OBC70EF284CBE5C8FB3C"
+      ],
       "gone_sample": [],
       "errors": [],
-      "applied": [],
+      "applied": [
+        "tier2:penghu-info-delta-2026-09-27-ob3ea09d40c6e9bc3602.md",
+        "tier2:penghu-info-delta-2026-09-27-ob23c512046dfe3d988e.md",
+        "tier2:penghu-info-delta-2026-09-27-ob3bac46b986e5dbc51b.md",
+        "tier2:penghu-info-delta-2026-09-27-ob2c73e27c74756946c9.md",
+        "tier2:penghu-info-delta-2026-09-27-obc70ef284cbe5c8fb3c.md",
+        "last_reviewed:hub",
+        "last_reviewed:penghu-info.md"
+      ],
       "parked": false,
       "a_band": [],
       "advisory": [
@@ -146,7 +192,11 @@
   ],
   "need_you": [],
   "auto_lines": [
-    "presbyterian-church-in-taiwan: +0 new / 1 changed; applied 3"
+    "good-shepherd-taiwanese-presbyterian-church: +1 new / 4 changed; applied 7",
+    "presbyterian-church-in-taiwan: +2 new / 0 changed; applied 4",
+    "taiwaneseamerican-org: +1 new / 0 changed; applied 4",
+    "eastgatebarclay-org: +0 new / 2 changed; applied 4",
+    "penghu-info: +0 new / 5 changed; applied 7"
   ],
   "queue_lines": [],
   "a_band": []

@@ -39,8 +39,9 @@ A 0 · B 0 · C 0 · total 1 — full list, never truncated.
 - [[works/jliaoart-org/the-islands-story|The Island's Story: Taiwan's 400-Year Journey]] — undated · ?
 ### taiwaneseamerican-org
 
-A 555 · B 1782 · C 80 · total 2417 — full list, never truncated.
+A 555 · B 1782 · C 81 · total 2418 — full list, never truncated.
 
+- [[works/taiwaneseamerican-org/vincent-chu-nice-places|Quitting Your Job for the Plot: In Conversation with Vincent Chu (“Nice Places”)]] — 2026-09-21 · C
 - [[works/taiwaneseamerican-org/jess-eng-taitung-eats-book|From Tea to Millet: Writer Jess Eng’s book “Taitung Eats” uncovers a fast growing slow food movement in Southeastern Taiwan]] — 2026-09-19 · B
 - [[works/taiwaneseamerican-org/vultures-medical-conspiracy-thriller|Now Streaming on Instagram: “Vultures,” a Medical Conspiracy Thriller]] — 2026-09-07 · A
 - [[works/taiwaneseamerican-org/eric-sze-taiwanese-cookbook|Taiwanese Chef Eric Sze Brings Honesty & “Intentional Fusion” to His First Cookbook]] — 2026-09-03 · A

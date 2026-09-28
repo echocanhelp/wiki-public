@@ -8,7 +8,7 @@ tags:
   - historical-platform
   - knowledge
 verification_status: published
-last_reviewed: 2026-09-16
+last_reviewed: 2026-09-27
 ---
 # Penghu.info 平台（澎湖知識服務／澎湖記憶庫）
 

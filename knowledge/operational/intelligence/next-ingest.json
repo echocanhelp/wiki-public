@@ -1,5 +1,5 @@
 {
-  "at": "2026-09-21T06:52:15Z",
+  "at": "2026-09-28T06:52:32Z",
   "suggestions": [
     {
       "kind": "website",
@@ -18,10 +18,10 @@
       "action": "go Echopedia website https://tcnn.org.tw/"
     }
   ],
-  "candidates_considered": 31,
+  "candidates_considered": 35,
   "pools": {
-    "website_like": 23,
+    "website_like": 27,
     "densify": 0,
-    "total": 31
+    "total": 35
   }
 }

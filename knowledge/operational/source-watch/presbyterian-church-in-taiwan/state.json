@@ -312,8 +312,20 @@
       "len": 48227,
       "code": 200,
       "baseline": false
+    },
+    "https://www.pct.org.tw/news_pct.aspx?strBlockID=B00006&amp;strContentID=C2026092400003&amp;strDesc=Y": {
+      "hash": "74687820865df367591aa7eac86948db",
+      "len": 48256,
+      "code": 200,
+      "baseline": false
+    },
+    "https://www.pct.org.tw/news_pct.aspx?strBlockID=B00006&amp;strContentID=C2026092300001&amp;strDesc=Y": {
+      "hash": "94471f3bf117e55bdb9d36f20b5d8e32",
+      "len": 48256,
+      "code": 200,
+      "baseline": false
     }
   },
-  "last_poll": "2026-09-21T06:49:39Z",
+  "last_poll": "2026-09-28T06:49:31Z",
   "baseline_at": null
 }

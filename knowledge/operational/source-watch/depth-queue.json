@@ -1,10 +1,10 @@
 {
-  "at": "2026-09-21T06:52:14Z",
+  "at": "2026-09-28T06:52:31Z",
   "items": [
     {
       "id": "taiwancenter-org",
       "page": "content/organizations/taiwan-center.md",
-      "bytes": 23357,
+      "bytes": 24520,
       "tier": "THICK"
     },
     {
@@ -16,7 +16,7 @@
     {
       "id": "irvine-taiwanese-presbyterian-church",
       "page": "content/organizations/irvine-taiwanese-presbyterian-church.md",
-      "bytes": 29145,
+      "bytes": 28991,
       "tier": "THICK"
     },
     {
@@ -52,7 +52,7 @@
     {
       "id": "eastgatebarclay-org",
       "page": "content/organizations/tainan-east-gate-barclay-memorial-church.md",
-      "bytes": 5044,
+      "bytes": 5419,
       "tier": "MEDIUM"
     },
     {

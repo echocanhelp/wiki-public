@@ -26,3 +26,91 @@ CI: publishing to heal drift
 INCIDENT_LOGGED: /home/leedt/echo-system/knowledge/operational/incidents/2026-09-27.md
 CI: site-design OK
 CI: smoke OK
+[gh-pages 26872524a75] ci-heal: L2 auto-heal (2026-09-27)
+ 109 files changed, 2715 insertions(+), 694 deletions(-)
+ create mode 100644 knowledge/operational/content-analysis/2026-09-27.jsonl
+ create mode 100644 knowledge/operational/deepen-x-slice-09270315-1.txt
+ create mode 100644 knowledge/operational/deepen-x-slice-09270315-2.txt
+ create mode 100644 knowledge/operational/deepen-x-slice-09270315-3.txt
+ create mode 100644 knowledge/operational/deepen-x-slice-09270315-4.txt
+ create mode 100644 knowledge/operational/deepen-x-slice-09270315-5.txt
+ create mode 100644 knowledge/operational/deepen-x-slice-09270315-6.txt
+ create mode 100644 knowledge/operational/deepen-x-slice-09270315-7.txt
+ create mode 100644 knowledge/operational/deepen-x-slice-09270315-8.txt
+ create mode 100644 knowledge/operational/deepen-x-slice-09270400-1.txt
+ create mode 100644 knowledge/operational/deepen-x-slice-09270400-2.txt
+ create mode 100644 knowledge/operational/deepen-x-slice-09270400-3.txt
+ create mode 100644 knowledge/operational/deepen-x-slice-09270400-4.txt
+ create mode 100644 knowledge/operational/deepen-x-slice-09270400-5.txt
+ create mode 100644 knowledge/operational/deepen-x-slice-09270400-6.txt
+ create mode 100644 knowledge/operational/deepen-x-slice-09270500-1.txt
+ create mode 100644 knowledge/operational/deepen-x-slice-09270600-1.txt
+ create mode 100644 knowledge/operational/deepen-x-slice-09270600-2.txt
+ create mode 100644 knowledge/operational/deepen-x-slice-09270600-3.txt
+ create mode 100644 knowledge/operational/deepen-x-slice-09270600-4.txt
+ create mode 100644 knowledge/operational/deepen-x-slice-09270600-5.txt
+ create mode 100644 knowledge/operational/deepen-x-slice-09270600-6.txt
+ create mode 100644 knowledge/operational/deepen-x-slice-09270600-7.txt
+ create mode 100644 knowledge/operational/deepen-x-slice-09270600-8.txt
+ create mode 100644 knowledge/operational/deepen-x-slice-09270700-1.txt
+ create mode 100644 knowledge/operational/deepen-x-slice-09270700-10.txt
+ create mode 100644 knowledge/operational/deepen-x-slice-09270700-11.txt
+ create mode 100644 knowledge/operational/deepen-x-slice-09270700-12.txt
+ create mode 100644 knowledge/operational/deepen-x-slice-09270700-13.txt
+ create mode 100644 knowledge/operational/deepen-x-slice-09270700-14.txt
+ create mode 100644 knowledge/operational/deepen-x-slice-09270700-15.txt
+ create mode 100644 knowledge/operational/deepen-x-slice-09270700-16.txt
+ create mode 100644 knowledge/operational/deepen-x-slice-09270700-17.txt
+ create mode 100644 knowledge/operational/deepen-x-slice-09270700-18.txt
+ create mode 100644 knowledge/operational/deepen-x-slice-09270700-19.txt
+ create mode 100644 knowledge/operational/deepen-x-slice-09270700-2.txt
+ create mode 100644 knowledge/operational/deepen-x-slice-09270700-20.txt
+ create mode 100644 knowledge/operational/deepen-x-slice-09270700-21.txt
+ create mode 100644 knowledge/operational/deepen-x-slice-09270700-22.txt
+ create mode 100644 knowledge/operational/deepen-x-slice-09270700-3.txt
+ create mode 100644 knowledge/operational/deepen-x-slice-09270700-4.txt
+ create mode 100644 knowledge/operational/deepen-x-slice-09270700-5.txt
+ create mode 100644 knowledge/operational/deepen-x-slice-09270700-6.txt
+ create mode 100644 knowledge/operational/deepen-x-slice-09270700-7.txt
+ create mode 100644 knowledge/operational/deepen-x-slice-09270700-8.txt
+ create mode 100644 knowledge/operational/deepen-x-slice-09270700-9.txt
+ create mode 100644 knowledge/operational/deepen-x-slice-09270900-1.txt
+ create mode 100644 knowledge/operational/deepen-x-slice-09270900-2.txt
+ create mode 100644 knowledge/operational/deepen-x-slice-09270953-1.txt
+ create mode 100644 knowledge/operational/deepen-x-slice-09270953-2.txt
+ create mode 100644 knowledge/operational/extracted/2026-09-27.json
+ create mode 100644 knowledge/operational/incidents/2026-09-27.md
+ create mode 100644 knowledge/operational/janitor-log/2026-09-27.jsonl
+ create mode 100644 knowledge/operational/scout/2026-09-27.jsonl
+ create mode 100644 knowledge/operational/tjj-a-slice-09270400-1.txt
+ create mode 100644 knowledge/operational/tjj-a-slice-09270400-2.txt
+ create mode 100644 knowledge/operational/tjj-a-slice-09270400-3.txt
+ create mode 100644 knowledge/operational/tjj-a-slice-09270400-4.txt
+ create mode 100644 knowledge/operational/tjj-a-slice-09270500-1.txt
+ create mode 100644 knowledge/operational/tjj-a-slice-09270500-2.txt
+ create mode 100644 knowledge/operational/tjj-a-slice-09270500-3.txt
+ create mode 100644 knowledge/operational/tjj-a-slice-09270500-4.txt
+ create mode 100644 knowledge/operational/tjj-a-slice-09270500-5.txt
+ create mode 100644 knowledge/operational/tjj-a-slice-09270500-6.txt
+ create mode 100644 knowledge/operational/tjj-a-slice-09270500-7.txt
+ create mode 100644 knowledge/operational/tjj-a-slice-09270500-8.txt
+ create mode 100644 knowledge/operational/tjj-a-slice-09270500-9.txt
+ create mode 100644 knowledge/operational/tjj-a-slice-09270600-1.txt
+ create mode 100644 knowledge/operational/tjj-a-slice-09270600-2.txt
+ create mode 100644 knowledge/operational/tjj-a-slice-09270600-3.txt
+ create mode 100644 knowledge/operational/tjj-a-slice-09270600-4.txt
+ create mode 100644 knowledge/operational/tjj-a-slice-09270600-5.txt
+ create mode 100644 knowledge/operational/tjj-a-slice-09270600-6.txt
+ create mode 100644 knowledge/operational/tjj-a-slice-09270600-7.txt
+ create mode 100644 knowledge/operational/tjj-a-slice-09270700-1.txt
+ create mode 100644 knowledge/operational/tjj-a-slice-09270700-2.txt
+ create mode 100644 knowledge/operational/tjj-a-slice-09270800-1.txt
+ create mode 100644 knowledge/operational/tjj-a-slice-09270800-2.txt
+ create mode 100644 knowledge/operational/tjj-a-slice-09270800-3.txt
+ create mode 100644 knowledge/operational/tjj-a-slice-09270800-4.txt
+ create mode 100644 knowledge/operational/tjj-a-slice-09270800-5.txt
+ create mode 100644 knowledge/operational/tjj-a-slice-09270800-6.txt
+CI: committed heal
+CI: not green — no L3 push
+CI_SUMMARY: green=0 ops=WARN drift=ACTION smoke=OK
+CI_STATUS: HEALED_OR_WARN
