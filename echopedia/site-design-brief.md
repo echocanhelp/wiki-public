@@ -1,4 +1,4 @@
-## Site design audit — 2026-09-27 00:30
+## Site design audit — 2026-09-27 22:19
 
 - pages_md=15103
 - critical=0 high=0 medium=1
@@ -10,10 +10,6 @@
 ### MEDIUM (1)
 - **F4** people/index.html is 1514464 bytes — heavy on mobile. Do NOT hand-edit content/people/index.md. Search-first is the IA; regen script only if links break.
 
-### LOW (1)
-- **C1** spelling signals (sample): 1 `[AGENT_SUGGESTED]`
-  - `dr-ching-tse-lee.md: ?ching`
-
 ### INFO (2)
 - **B2** pinned featured pages: 6 (cap 6 people + 3 orgs; overflow hides recency)
   - `people/albert-s-lai.md`
@@ -22,7 +18,7 @@
   - `people/lin-yuan-ching.md`
   - `people/yang-jia-you.md`
   - `people/yang-xin.md`
-- **B1** person/org touched ≤7d (rely on recency featured window): 2249
+- **B1** person/org touched ≤7d (rely on recency featured window): 2250
   - `people/a-n-liu.md`
   - `people/abby-hong.md`
   - `people/adam-chang.md`

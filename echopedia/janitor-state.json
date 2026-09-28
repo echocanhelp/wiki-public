@@ -1,15 +1,8 @@
 {
   "version": 1,
-  "last_run": "2026-09-26",
+  "last_run": "2026-09-27",
   "standards_version_seen": 10,
   "runs": [
-    {
-      "date": "2026-08-23",
-      "candidates": 442,
-      "selected": 40,
-      "standards_version": 10,
-      "standards_bumped": false
-    },
     {
       "date": "2026-08-25",
       "candidates": 5098,
@@ -212,6 +205,13 @@
       "selected": 40,
       "standards_version": 10,
       "standards_bumped": false
+    },
+    {
+      "date": "2026-09-27",
+      "candidates": 199,
+      "selected": 40,
+      "standards_version": 10,
+      "standards_bumped": false
     }
   ],
   "queue": [
@@ -344,39 +344,7 @@
       ]
     },
     {
-      "path": "people/chen-po-kong.md",
-      "findings": [
-        "NO_TYPE",
-        "NO_IDENTITY_SNAPSHOT",
-        "NO_LAST_REVIEWED"
-      ],
-      "hygiene": [],
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol references/wiki-linking.md",
-        "Fix ONLY listed findings; no inventing biography",
-        "First-mention wikilinks for existing slugs only",
-        "Do not commit/push/quartz unless operator enabled",
-        "Re-run link-hygiene on this path after edits"
-      ]
-    },
-    {
       "path": "people/du-ao-cunfu.md",
-      "findings": [
-        "NO_TYPE",
-        "NO_IDENTITY_SNAPSHOT",
-        "NO_LAST_REVIEWED"
-      ],
-      "hygiene": [],
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol references/wiki-linking.md",
-        "Fix ONLY listed findings; no inventing biography",
-        "First-mention wikilinks for existing slugs only",
-        "Do not commit/push/quartz unless operator enabled",
-        "Re-run link-hygiene on this path after edits"
-      ]
-    },
-    {
-      "path": "people/fan-jiang-ti-ang.md",
       "findings": [
         "NO_TYPE",
         "NO_IDENTITY_SNAPSHOT",
@@ -409,22 +377,6 @@
     },
     {
       "path": "people/li-jian.md",
-      "findings": [
-        "NO_TYPE",
-        "NO_IDENTITY_SNAPSHOT",
-        "NO_LAST_REVIEWED"
-      ],
-      "hygiene": [],
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol references/wiki-linking.md",
-        "Fix ONLY listed findings; no inventing biography",
-        "First-mention wikilinks for existing slugs only",
-        "Do not commit/push/quartz unless operator enabled",
-        "Re-run link-hygiene on this path after edits"
-      ]
-    },
-    {
-      "path": "people/lin-baohua.md",
       "findings": [
         "NO_TYPE",
         "NO_IDENTITY_SNAPSHOT",
@@ -473,6 +425,54 @@
     },
     {
       "path": "people/huang-diyin.md",
+      "findings": [
+        "NO_TYPE",
+        "NO_IDENTITY_SNAPSHOT",
+        "NO_LAST_REVIEWED"
+      ],
+      "hygiene": [],
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol references/wiki-linking.md",
+        "Fix ONLY listed findings; no inventing biography",
+        "First-mention wikilinks for existing slugs only",
+        "Do not commit/push/quartz unless operator enabled",
+        "Re-run link-hygiene on this path after edits"
+      ]
+    },
+    {
+      "path": "people/lin-baohua.md",
+      "findings": [
+        "NO_TYPE",
+        "NO_IDENTITY_SNAPSHOT",
+        "NO_LAST_REVIEWED"
+      ],
+      "hygiene": [],
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol references/wiki-linking.md",
+        "Fix ONLY listed findings; no inventing biography",
+        "First-mention wikilinks for existing slugs only",
+        "Do not commit/push/quartz unless operator enabled",
+        "Re-run link-hygiene on this path after edits"
+      ]
+    },
+    {
+      "path": "people/fan-jiang-ti-ang.md",
+      "findings": [
+        "NO_TYPE",
+        "NO_IDENTITY_SNAPSHOT",
+        "NO_LAST_REVIEWED"
+      ],
+      "hygiene": [],
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol references/wiki-linking.md",
+        "Fix ONLY listed findings; no inventing biography",
+        "First-mention wikilinks for existing slugs only",
+        "Do not commit/push/quartz unless operator enabled",
+        "Re-run link-hygiene on this path after edits"
+      ]
+    },
+    {
+      "path": "people/chen-po-kong.md",
       "findings": [
         "NO_TYPE",
         "NO_IDENTITY_SNAPSHOT",
@@ -614,7 +614,7 @@
       ]
     },
     {
-      "path": "organizations/westchester-taiwanese-womens-associationwtwa.md",
+      "path": "organizations/evergreen-senior-university-by-evangelical-formosa-church-of-irvine-esu.md",
       "findings": [
         "LINK_BODY_SPARSE"
       ],
@@ -656,7 +656,7 @@
       ]
     },
     {
-      "path": "organizations/evergreen-senior-university-by-evangelical-formosa-church-of-irvine-esu.md",
+      "path": "organizations/westchester-taiwanese-womens-associationwtwa.md",
       "findings": [
         "LINK_BODY_SPARSE"
       ],
@@ -684,7 +684,19 @@
       ]
     },
     {
-      "path": "people/dr-ching-c-shir.md",
+      "path": "people/david-huang.md",
+      "findings": [],
+      "hygiene": [],
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol references/wiki-linking.md",
+        "Fix ONLY listed findings; no inventing biography",
+        "First-mention wikilinks for existing slugs only",
+        "Do not commit/push/quartz unless operator enabled",
+        "Re-run link-hygiene on this path after edits"
+      ]
+    },
+    {
+      "path": "people/dr-chi-wan-lai.md",
       "findings": [
         "LINK_BODY_SPARSE"
       ],
@@ -698,7 +710,7 @@
       ]
     },
     {
-      "path": "people/dr-chi-wan-lai.md",
+      "path": "people/dr-ching-c-shir.md",
       "findings": [
         "LINK_BODY_SPARSE"
       ],
@@ -782,24 +794,27 @@
       ]
     },
     {
-      "path": "people/hsien-ann-meng.md",
+      "path": "organizations/taiwanese-american-association-greater-cleveland.md",
       "findings": [
-        "LINK_BODY_SPARSE"
+        "STRUCT_NO_HISTORY",
+        "READABILITY_LONG_SENTENCES_31wps",
+        "READABILITY_MANY_LONG_SENTENCES_4"
       ],
       "hygiene": [],
       "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol references/wiki-linking.md",
-        "Fix ONLY listed findings; no inventing biography",
-        "First-mention wikilinks for existing slugs only",
-        "Do not commit/push/quartz unless operator enabled",
-        "Re-run link-hygiene on this path after edits"
-      ]
+        "Load skill echopedia-ops then echopedia-ingestion-protocol",
+        "Fix ONLY listed findings — no inventing biography",
+        "Update last_reviewed after fixes",
+        "Commit only (no publish)"
+      ],
+      "source": "content-analyzer",
+      "priority": "medium"
     },
     {
-      "path": "organizations/rutgers-taiwan-study-association.md",
+      "path": "organizations/taiwanese-american-council-of-greater-new-york.md",
       "findings": [
         "STRUCT_NO_HISTORY",
-        "READABILITY_LONG_SENTENCES_32wps",
+        "READABILITY_LONG_SENTENCES_33wps",
         "READABILITY_MANY_LONG_SENTENCES_5"
       ],
       "hygiene": [],
@@ -847,11 +862,10 @@
       "priority": "medium"
     },
     {
-      "path": "organizations/taiwanese-student-association-at-nc-state.md",
+      "path": "people/chris-cn-chang.md",
       "findings": [
-        "STRUCT_NO_HISTORY",
-        "READABILITY_LONG_SENTENCES_34wps",
-        "READABILITY_MANY_LONG_SENTENCES_4"
+        "DESC_TOO_SHORT",
+        "DESC_NO_TITLE_MENTION"
       ],
       "hygiene": [],
       "instructions": [
@@ -864,10 +878,10 @@
       "priority": "medium"
     },
     {
-      "path": "people/chi-huey-wong.md",
+      "path": "people/pan-yi-ling.md",
       "findings": [
         "DESC_NO_TITLE_MENTION",
-        "READABILITY_MANY_LONG_SENTENCES_4"
+        "READABILITY_LONG_SENTENCES_34wps"
       ],
       "hygiene": [],
       "instructions": [
@@ -880,59 +894,10 @@
       "priority": "medium"
     },
     {
-      "path": "people/dr-tong-y-chen.md",
+      "path": "people/zai-xing-wang.md",
       "findings": [
-        "DESC_NO_TITLE_MENTION",
-        "LINKS_NO_RELATED",
-        "STRUCT_NO_RELATED"
-      ],
-      "hygiene": [],
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol",
-        "Fix ONLY listed findings — no inventing biography",
-        "Update last_reviewed after fixes",
-        "Commit only (no publish)"
-      ],
-      "source": "content-analyzer",
-      "priority": "medium"
-    },
-    {
-      "path": "people/fang-ming-chen.md",
-      "findings": [
-        "DESC_NO_TITLE_MENTION",
-        "READABILITY_MANY_LONG_SENTENCES_5"
-      ],
-      "hygiene": [],
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol",
-        "Fix ONLY listed findings — no inventing biography",
-        "Update last_reviewed after fixes",
-        "Commit only (no publish)"
-      ],
-      "source": "content-analyzer",
-      "priority": "medium"
-    },
-    {
-      "path": "people/min-kao.md",
-      "findings": [
-        "DESC_NO_TITLE_MENTION",
-        "READABILITY_MANY_LONG_SENTENCES_4"
-      ],
-      "hygiene": [],
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol",
-        "Fix ONLY listed findings — no inventing biography",
-        "Update last_reviewed after fixes",
-        "Commit only (no publish)"
-      ],
-      "source": "content-analyzer",
-      "priority": "medium"
-    },
-    {
-      "path": "people/paul-lin.md",
-      "findings": [
-        "DESC_NO_TITLE_MENTION",
-        "LINKS_HIGH_DENSITY"
+        "DESC_TOO_SHORT",
+        "DESC_NO_TITLE_MENTION"
       ],
       "hygiene": [],
       "instructions": [
@@ -945,7 +910,7 @@
       "priority": "medium"
     }
   ],
-  "last_candidates": 197,
+  "last_candidates": 199,
   "last_selected": [
     "people/bai-peiyu.md",
     "people/nanfang-shuo.md",
@@ -956,15 +921,15 @@
     "people/xia-ming.md",
     "people/zou-jingwen.md",
     "people/chao-sile.md",
-    "people/chen-po-kong.md",
     "people/du-ao-cunfu.md",
-    "people/fan-jiang-ti-ang.md",
     "people/guan-renjian.md",
     "people/li-jian.md",
-    "people/lin-baohua.md",
     "people/yang-yueqing.md",
     "people/yuan-zhihui.md",
     "people/huang-diyin.md",
+    "people/lin-baohua.md",
+    "people/fan-jiang-ti-ang.md",
+    "people/chen-po-kong.md",
     "people/dr-hsing-chi-chuck-chang.md",
     "people/george-lee.md",
     "people/huang-yongcheng.md",
@@ -974,18 +939,18 @@
     "people/po-wei-lai.md",
     "people/deng-shuzhen.md",
     "people/karen-chia-ling-ho.md",
-    "organizations/westchester-taiwanese-womens-associationwtwa.md",
+    "organizations/evergreen-senior-university-by-evangelical-formosa-church-of-irvine-esu.md",
     "organizations/global-hakka-un-ngo-applying-committee-un-ngo.md",
     "organizations/north-america-pastel-artist-association.md",
-    "organizations/evergreen-senior-university-by-evangelical-formosa-church-of-irvine-esu.md",
+    "organizations/westchester-taiwanese-womens-associationwtwa.md",
     "people/agnes-hsu.md",
-    "people/dr-ching-c-shir.md",
+    "people/david-huang.md",
     "people/dr-chi-wan-lai.md",
+    "people/dr-ching-c-shir.md",
     "people/dr-min-chin-mary-lee.md",
     "people/dr-yung-san-liang.md",
     "people/feng-hsu-lee.md",
     "people/grace-chung.md",
-    "people/hanchien-lee.md",
-    "people/hsien-ann-meng.md"
+    "people/hanchien-lee.md"
   ]
 }

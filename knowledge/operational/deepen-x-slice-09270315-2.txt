@@ -1,0 +1,4 @@
+people/henry-cheng.md
+people/marie-hsiao-mree.md
+organizations/stc-management.md
+organizations/yale-taiwanese-student-association.md

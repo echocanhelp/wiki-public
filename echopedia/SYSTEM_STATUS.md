@@ -1,6 +1,6 @@
 # Echopedia System Status
 
-*Generated: 2026-09-27 00:28 PDT*
+*Generated: 2026-09-27 22:19 PDT*
 
 ## Orientation
 - **Entry:** go <plain language> via go-router (auto-route) · **Control:** [CONTROL.md](CONTROL.md)
@@ -15,19 +15,19 @@
 - **L2 auto-publish on drift:** True
 - **L3 auto-push when green:** True
 - **Last good deploy:** `b38f434b6f2`
-- **Last night (ledger):** analyzer scanned 2910 queued 11 suppressed 2117 · 🟡 QUEUE janitor HOLD leftover 40 · 🟡 QUEUE kanban blocked 12 · 🔴 NEED YOU cron fail: memory-audit
+- **Last night (ledger):** analyzer scanned 2918 queued 9 suppressed 2131 · 🟡 QUEUE janitor HOLD leftover 40 · 🟡 QUEUE kanban blocked 12 · 🔴 NEED YOU cron fail: memory-audit, echopedia-nightly-audit
 - **Track SSOT:** `knowledge/operational/intelligence/autonomy-ledger.json`
 
 ## Content
 |- **Tier1 pages:** 2895 (people 2415 / orgs 440 / sources 40) · Tier2 archive: 29103
-|- **Janitor queue depth:** 49
-|- **Uncommitted files:** 1
+|- **Janitor queue depth:** 47
+|- **Uncommitted files:** 113
 
 ## Self-improvement pipeline (Scout → Filter → Extract → Evaluate → Generate → Review)
 || Stage | Script | Last run | Output |
 ||-------|--------|----------|--------|
 || Scout | echopedia-scout-live | 04:05 local | 44 checked, 0 broken, 0 slow |
-|| Filter | echopedia-content-analysis | 03:05 local | 2918 scanned, 9 queued |
+|| Filter | echopedia-content-analysis | 03:05 local | 2929 scanned, 7 queued |
 || Extract | echopedia-extract-actions | 04:15 local | knowledge/operational/extracted/ |
 || Evaluate | echopedia-evaluate-actions | 04:20 local | knowledge/operational/evaluated/ |
 || Generate | echopedia-generate-cards | 04:25 local | no data |
@@ -55,43 +55,43 @@ Load skill **echopedia-ops** first for any wiki work.
 ```
     Name:      cron-output-rotate
     Schedule:  5 21 * * *
-    Last run:  2026-09-26T21:06:11.193955-07:00  ok
+    Last run:  2026-09-27T21:06:11.824332-07:00  ok
     Name:      vault-morning-brief
     Schedule:  0 7 * * *
-    Last run:  2026-09-26T07:00:56.168701-07:00  ok
+    Last run:  2026-09-27T07:00:44.705632-07:00  ok
     Name:      vllm-thermal-scaler
     Schedule:  every 1m
-    Last run:  2026-09-27T00:27:49.520949-07:00  ok
+    Last run:  2026-09-27T22:18:51.396641-07:00  ok
     Name:      Echopedia content analysis
     Schedule:  10 21 * * *
-    Last run:  2026-09-26T21:11:13.632526-07:00  ok
+    Last run:  2026-09-27T21:11:13.371933-07:00  ok
     Name:      unified-watchdog
     Schedule:  every 30m
-    Last run:  2026-09-27T00:00:52.329366-07:00  ok
+    Last run:  2026-09-27T22:18:49.622592-07:00  ok
     Name:      memory-audit
     Schedule:  50 0 * * *
-    Last run:  2026-09-26T00:51:02.029314-07:00  error: Script exited with code 1
+    Last run:  2026-09-27T00:50:49.175462-07:00  error: Script exited with code 1
     Name:      echopedia-nightly-audit
     Schedule:  15 21 * * *
-    Last run:  2026-09-26T21:53:29.224670-07:00  error: Interrupted by shutdown before terminal completion.
+    Last run:  2026-09-27T21:50:28.107561-07:00  ok
     Name:      echopedia-janitor
     Schedule:  30 21 * * *
-    Last run:  2026-09-26T21:41:22.986537-07:00  ok
+    Last run:  2026-09-27T21:41:24.249966-07:00  ok
     Name:      echopedia-weekly-improvement
     Schedule:  15 22 * * 0
     Last run:  2026-09-20T22:24:46.922623-07:00  ok
     Name:      echopedia-ci-heal
     Schedule:  25 0 * * *
-    Last run:  2026-09-26T00:28:48.057430-07:00  ok
+    Last run:  2026-09-27T00:28:38.703090-07:00  ok
     Name:      echopedia-site-design
     Schedule:  30 0 * * *
-    Last run:  2026-09-26T00:31:49.911716-07:00  ok
+    Last run:  2026-09-27T00:31:39.151510-07:00  ok
     Name:      vault-search-index-rebuild
     Schedule:  0 21 * * 0
-    Last run:  2026-09-20T21:00:44.250517-07:00  ok
+    Last run:  2026-09-27T21:00:49.943158-07:00  ok
     Name:      echopedia-scout-live
     Schedule:  40 21 * * *
-    Last run:  2026-09-26T21:41:22.475684-07:00  ok
+    Last run:  2026-09-27T21:41:24.691325-07:00  ok
     Name:      echopedia-extract-actions
 ```
 
@@ -102,18 +102,18 @@ Load skill **echopedia-ops** first for any wiki work.
 
 ## Cron inventory (generated)
 <!-- cron-inventory-start -->
-<!-- cron-inventory-meta: count=31 agent=0 bad_deliver=1 -->
+<!-- cron-inventory-meta: count=31 agent=0 bad_deliver=0 -->
 | Schedule | Job | Mode | En | Last | Script |
 |----------|-----|------|----|------|--------|
 | */15 15-21 * * * | `echopedia-window-freeze` | no_agent | on | ok | `echopedia-window-freeze.sh` |
 | 0 21 * * 0 | `vault-search-index-rebuild` | no_agent | on | ok | `vault-search-index-rebuild.sh` |
-| 0 22 * * * | `echopedia-board-brief` | no_agent | on | — | `echopedia-board-brief.py` |
+| 0 22 * * * | `echopedia-board-brief` | no_agent | on | ok | `echopedia-board-brief.py` |
 | 0 22 * * * | `echopedia-extract-actions` | no_agent | on | ok | `echopedia-extract-actions.py` |
 | 0 23 * * * | `echopedia-person-works-linker` | no_agent | on | ok | `echopedia-person-works-linker-cron.sh` |
 | 0 7 * * * | `vault-morning-brief` | no_agent | on | ok | `vault-morning-brief.py` |
 | 10 1 * * * | `echopedia-docs-sync` | no_agent | on | ok | `echopedia-docs-sync-cron.sh` |
 | 10 21 * * * | `Echopedia content analysis` | no_agent | on | ok | `echopedia-content-analysis-cron.sh` |
-| 15 21 * * * | `echopedia-nightly-audit` | no_agent | on | error | `echopedia-nightly-audit-wrapper.sh` |
+| 15 21 * * * | `echopedia-nightly-audit` | no_agent | on | ok | `echopedia-nightly-audit-wrapper.sh` |
 | 15 22 * * 0 | `echopedia-weekly-improvement` | no_agent | on | ok | `echopedia-weekly-improvement.sh` |
 | 15 23 * * * | `echopedia-quote-extractor` | no_agent | on | ok | `echopedia-quote-extractor-cron.sh` |
 | 20 22 * * * | `echopedia-evaluate-actions` | no_agent | on | ok | `echopedia-evaluate-actions.py` |

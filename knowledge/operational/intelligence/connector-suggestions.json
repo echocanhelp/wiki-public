@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-26T07:00:34.799394",
-  "pages_scanned": 2916,
+  "generated_at": "2026-09-27T07:00:33.664669",
+  "pages_scanned": 2935,
   "capped": true,
   "cap_top_n": 80,
   "summary": {
-    "co_citation_count": 4937,
-    "co_mention_count": 10450,
+    "co_citation_count": 4978,
+    "co_mention_count": 10517,
     "shared_tags_count": 0,
     "orphan_folder_count": 3,
     "kept_co_citation": 80,
@@ -22,6 +22,51 @@
         "page1_title": "Taiwanese American Association of Los Angeles-East San Gabriel Valley(TAA-ESGV)",
         "page2_title": "taiwaneseamericanhistory.org (TAH Foundation)",
         "shared_targets_count": 4
+      },
+      {
+        "type": "CO-CITATION",
+        "page1": "organizations/ai-education-foundation.md",
+        "page2": "organizations/stc-rowland-legacy.md",
+        "shared_target": "people/pan-yi-ling",
+        "page1_title": "AI Education Foundation (AI教育基金會)",
+        "page2_title": "STC Rowland Legacy (STC 顺天联合基金会)",
+        "shared_targets_count": 3
+      },
+      {
+        "type": "CO-CITATION",
+        "page1": "organizations/ai-education-foundation.md",
+        "page2": "organizations/rowland-heights-chinese-association.md",
+        "shared_target": "organizations/stc-rowland-legacy",
+        "page1_title": "AI Education Foundation (AI教育基金會)",
+        "page2_title": "Rowland Heights Chinese Association (羅蘭崗華人協會)",
+        "shared_targets_count": 7
+      },
+      {
+        "type": "CO-CITATION",
+        "page1": "organizations/ai-education-foundation.md",
+        "page2": "organizations/stc-management.md",
+        "shared_target": "organizations/stc-rowland-legacy",
+        "page1_title": "AI Education Foundation (AI教育基金會)",
+        "page2_title": "STC Management (順天 · Sung Tien Collaboration)",
+        "shared_targets_count": 7
+      },
+      {
+        "type": "CO-CITATION",
+        "page1": "organizations/ai-education-foundation.md",
+        "page2": "people/john-hsu.md",
+        "shared_target": "organizations/stc-rowland-legacy",
+        "page1_title": "AI Education Foundation (AI教育基金會)",
+        "page2_title": "John Hsu (許惠欽)",
+        "shared_targets_count": 7
+      },
+      {
+        "type": "CO-CITATION",
+        "page1": "organizations/ai-education-foundation.md",
+        "page2": "organizations/american-chinese-dance-association.md",
+        "shared_target": "organizations/yes-plaza",
+        "page1_title": "AI Education Foundation (AI教育基金會)",
+        "page2_title": "American Chinese Dance Association (美國華裔舞蹈協會, ACDA)",
+        "shared_targets_count": 7
       },
       {
         "type": "CO-CITATION",
@@ -139,6 +184,33 @@
         "page1_title": "Alumni Association of Chia Yi High School Worldwide (AACHW)",
         "page2_title": "Freeman Huang (黃樹人)",
         "shared_targets_count": 8
+      },
+      {
+        "type": "CO-CITATION",
+        "page1": "organizations/american-chinese-dance-association.md",
+        "page2": "organizations/forus-foundation.md",
+        "shared_target": "organizations/rowland-heights-chinese-association",
+        "page1_title": "American Chinese Dance Association (美國華裔舞蹈協會, ACDA)",
+        "page2_title": "FORUS Foundation (Friends of Rowland Unified Schools)",
+        "shared_targets_count": 4
+      },
+      {
+        "type": "CO-CITATION",
+        "page1": "organizations/american-chinese-dance-association.md",
+        "page2": "people/john-hsu.md",
+        "shared_target": "organizations/rowland-heights-chinese-association",
+        "page1_title": "American Chinese Dance Association (美國華裔舞蹈協會, ACDA)",
+        "page2_title": "John Hsu (許惠欽)",
+        "shared_targets_count": 4
+      },
+      {
+        "type": "CO-CITATION",
+        "page1": "organizations/forus-foundation.md",
+        "page2": "people/john-hsu.md",
+        "shared_target": "organizations/rowland-heights-chinese-association",
+        "page1_title": "FORUS Foundation (Friends of Rowland Unified Schools)",
+        "page2_title": "John Hsu (許惠欽)",
+        "shared_targets_count": 4
       },
       {
         "type": "CO-CITATION",
@@ -336,6 +408,15 @@
         "shared_target": "articles/taiwanjustice-net/2022/20220228033245_2020_12_26_民主亞洲基金會會長洪哲勝辭世_獨盟辦追思會_44c486d870e08028",
         "page1_title": "Asia Democracy Foundation (民主亞洲基金會)",
         "page2_title": "Chin-Hsin Jason Liu (劉進興)",
+        "shared_targets_count": 2
+      },
+      {
+        "type": "CO-CITATION",
+        "page1": "organizations/asia-democracy-foundation.md",
+        "page2": "people/lai-ching-te.md",
+        "shared_target": "articles/taiwanjustice-net/2022/20220228012423_2021_01_02_追思洪哲勝_王丹致詞_陳破空主持_眾多民運大_9206c320850ac026",
+        "page1_title": "Asia Democracy Foundation (民主亞洲基金會)",
+        "page2_title": "Lai Ching-te (賴清德)",
         "shared_targets_count": 2
       },
       {
@@ -652,90 +733,17 @@
         "page1_title": "Austin Taiwanese Association (奧斯丁)",
         "page2_title": "Pearl Pi-Chu Yang Wu (楊碧珠)",
         "shared_targets_count": 3
-      },
-      {
-        "type": "CO-CITATION",
-        "page1": "people/karen-lin.md",
-        "page2": "people/pearl-pi-chu-yang-wu.md",
-        "shared_target": "works/taiwaneseamericanhistory-org/ourjourneys243",
-        "page1_title": "Karen Lin (林璇雯)",
-        "page2_title": "Pearl Pi-Chu Yang Wu (楊碧珠)",
-        "shared_targets_count": 3
-      },
-      {
-        "type": "CO-CITATION",
-        "page1": "organizations/austin-taiwanese-association.md",
-        "page2": "people/cheng-y-chuang.md",
-        "shared_target": "works/taiwaneseamericanhistory-org/our-journeys-370",
-        "page1_title": "Austin Taiwanese Association (奧斯丁)",
-        "page2_title": "Cheng Y. Chuang (莊承業)",
-        "shared_targets_count": 8
-      },
-      {
-        "type": "CO-CITATION",
-        "page1": "organizations/austin-taiwanese-association.md",
-        "page2": "people/dr-mike-kuo.md",
-        "shared_target": "works/taiwaneseamericanhistory-org/our-journeys-370",
-        "page1_title": "Austin Taiwanese Association (奧斯丁)",
-        "page2_title": "Dr. Mike Kuo (郭正光博士)",
-        "shared_targets_count": 8
-      },
-      {
-        "type": "CO-CITATION",
-        "page1": "organizations/austin-taiwanese-association.md",
-        "page2": "people/dr-peter-wu.md",
-        "shared_target": "works/taiwaneseamericanhistory-org/our-journeys-370",
-        "page1_title": "Austin Taiwanese Association (奧斯丁)",
-        "page2_title": "Dr. Peter Wu (吳平原博士)",
-        "shared_targets_count": 8
-      },
-      {
-        "type": "CO-CITATION",
-        "page1": "organizations/austin-taiwanese-association.md",
-        "page2": "people/dr-john-chieu.md",
-        "shared_target": "works/taiwaneseamericanhistory-org/ourjourney-343",
-        "page1_title": "Austin Taiwanese Association (奧斯丁)",
-        "page2_title": "Dr. John Chieu (邱忠男博士)",
-        "shared_targets_count": 10
-      },
-      {
-        "type": "CO-CITATION",
-        "page1": "organizations/austin-taiwanese-association.md",
-        "page2": "people/john-m-yeh.md",
-        "shared_target": "works/taiwaneseamericanhistory-org/ourjourney-343",
-        "page1_title": "Austin Taiwanese Association (奧斯丁)",
-        "page2_title": "John M. Yeh (葉明翰牧師)",
-        "shared_targets_count": 10
-      },
-      {
-        "type": "CO-CITATION",
-        "page1": "organizations/austin-taiwanese-association.md",
-        "page2": "organizations/formosar-chriotion-for-self-determination.md",
-        "shared_target": "works/taiwaneseamericanhistory-org/ourjourneys318",
-        "page1_title": "Austin Taiwanese Association (奧斯丁)",
-        "page2_title": "Formosar Chriotion for Self Determination (臺灣人民自決運動)",
-        "shared_targets_count": 15
-      },
-      {
-        "type": "CO-CITATION",
-        "page1": "organizations/austin-taiwanese-association.md",
-        "page2": "organizations/greater-washington-taiwan-culture-center.md",
-        "shared_target": "works/taiwaneseamericanhistory-org/ourjourneys318",
-        "page1_title": "Austin Taiwanese Association (奧斯丁)",
-        "page2_title": "Greater Washington Taiwan Culture Center (華府台灣文化中心)",
-        "shared_targets_count": 15
-      },
-      {
-        "type": "CO-CITATION",
-        "page1": "organizations/austin-taiwanese-association.md",
-        "page2": "organizations/huntsville-taiwanese-american-association.md",
-        "shared_target": "works/taiwaneseamericanhistory-org/ourjourneys318",
-        "page1_title": "Austin Taiwanese Association (奧斯丁)",
-        "page2_title": "Huntsville Taiwanese American Association (亨城)",
-        "shared_targets_count": 15
       }
     ],
     "co_mention": [
+      {
+        "type": "CO-MENTION",
+        "page1": "organizations/ai-education-foundation.md",
+        "page2": "people/pan-yi-ling.md",
+        "page1_title": "AI Education Foundation (AI教育基金會)",
+        "page2_title": "潘意玲 (Irene Fang)",
+        "mention_text": "潘意玲 (Irene Fang)"
+      },
       {
         "type": "CO-MENTION",
         "page1": "organizations/aj-wang-foundation-scholarship-fund.md",
@@ -775,6 +783,22 @@
         "page1_title": "Alumni Association of Chia Yi High School Worldwide (AACHW)",
         "page2_title": "taiwaneseamericanhistory.org (TAH Foundation)",
         "mention_text": "taiwaneseamericanhistory.org (TAH Foundation)"
+      },
+      {
+        "type": "CO-MENTION",
+        "page1": "organizations/american-chinese-dance-association.md",
+        "page2": "organizations/taiwanese-american-arts-association.md",
+        "page1_title": "American Chinese Dance Association (美國華裔舞蹈協會, ACDA)",
+        "page2_title": "Taiwanese American Arts Association",
+        "mention_text": "Taiwanese American Arts Association"
+      },
+      {
+        "type": "CO-MENTION",
+        "page1": "organizations/american-chinese-dance-association.md",
+        "page2": "organizations/taiwanese-american-cultural-association.md",
+        "page1_title": "American Chinese Dance Association (美國華裔舞蹈協會, ACDA)",
+        "page2_title": "Taiwanese American Cultural Association",
+        "mention_text": "Taiwanese American Cultural Association"
       },
       {
         "type": "CO-MENTION",
@@ -1031,30 +1055,6 @@
         "page1_title": "ASU Taiwanese International Student Association",
         "page2_title": "taiwaneseamericanhistory.org (TAH Foundation)",
         "mention_text": "taiwaneseamericanhistory.org (TAH Foundation)"
-      },
-      {
-        "type": "CO-MENTION",
-        "page1": "organizations/austin-taiwanese-association.md",
-        "page2": "organizations/chinese-and-taiwanese-student-association.md",
-        "page1_title": "Austin Taiwanese Association (奧斯丁)",
-        "page2_title": "Chinese and Taiwanese Student Association",
-        "mention_text": "Chinese and Taiwanese Student Association"
-      },
-      {
-        "type": "CO-MENTION",
-        "page1": "organizations/austin-taiwanese-association.md",
-        "page2": "organizations/taiwanese-american-foundation.md",
-        "page1_title": "Austin Taiwanese Association (奧斯丁)",
-        "page2_title": "Taiwanese-American Foundation",
-        "mention_text": "TaiwaneseAmerican Foundation"
-      },
-      {
-        "type": "CO-MENTION",
-        "page1": "organizations/austin-taiwanese-association.md",
-        "page2": "organizations/taiwanese-american-student-association-ohio-state-university.md",
-        "page1_title": "Austin Taiwanese Association (奧斯丁)",
-        "page2_title": "Taiwanese American Student Association @ Ohio State University",
-        "mention_text": "Taiwanese American Student Association @ Ohio State University"
       }
     ],
     "shared_tags": []
