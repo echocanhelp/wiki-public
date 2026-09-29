@@ -1,4 +1,4 @@
-## Queue drain — 2026-09-28
+## Queue drain — 2026-09-29
 - Items: **40**
 
 - `people/bai-peiyu.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
@@ -33,7 +33,6 @@
 - `organizations/north-america-pastel-artist-association.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 - `organizations/westchester-taiwanese-womens-associationwtwa.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 - `people/agnes-hsu.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
-- `people/david-huang.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 - `people/dr-chi-wan-lai.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 - `people/dr-ching-c-shir.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 - `people/dr-min-chin-mary-lee.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
@@ -41,5 +40,6 @@
 - `people/feng-hsu-lee.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 - `people/grace-chung.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 - `people/hanchien-lee.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
+- `people/hsien-ann-meng.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 
 Fail-closed first-mention is AUTO (janitor). HOLD leftover ≠ human body-link batch.

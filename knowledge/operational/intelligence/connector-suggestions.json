@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-27T07:00:33.664669",
+  "generated_at": "2026-09-28T07:00:35.662718",
   "pages_scanned": 2935,
   "capped": true,
   "cap_top_n": 80,
   "summary": {
-    "co_citation_count": 4978,
-    "co_mention_count": 10517,
+    "co_citation_count": 4982,
+    "co_mention_count": 10520,
     "shared_tags_count": 0,
     "orphan_folder_count": 3,
     "kept_co_citation": 80,
@@ -246,7 +246,7 @@
         "shared_target": "works/taiwaneseamerican-org/pew-research-center-taiwanese-american-statement",
         "page1_title": "American Citizens for Taiwan (西雅圖美台會)",
         "page2_title": "East Bay Taiwanese Association (北加州)",
-        "shared_targets_count": 81
+        "shared_targets_count": 82
       },
       {
         "type": "CO-CITATION",
@@ -255,7 +255,7 @@
         "shared_target": "works/taiwaneseamerican-org/pew-research-center-taiwanese-american-statement",
         "page1_title": "American Citizens for Taiwan (西雅圖美台會)",
         "page2_title": "Formosan Association for Public Affairs Los Angeles(FAPA-LA)",
-        "shared_targets_count": 81
+        "shared_targets_count": 82
       },
       {
         "type": "CO-CITATION",
@@ -264,7 +264,7 @@
         "shared_target": "works/taiwaneseamerican-org/pew-research-center-taiwanese-american-statement",
         "page1_title": "American Citizens for Taiwan (西雅圖美台會)",
         "page2_title": "North America Taiwanese Women's Assoc. Southern CA Chapter NATWA-SC",
-        "shared_targets_count": 81
+        "shared_targets_count": 82
       },
       {
         "type": "CO-CITATION",
