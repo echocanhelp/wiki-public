@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-26
+last_reviewed: 2026-09-29
 ---
 # Taiwanese American Student Association at UC Santa Barbara
 
@@ -41,3 +41,4 @@ HOLD: apart from the 2014 sponsorship credit (which names the group as "UCSB Tai
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 - Re-grepped 2026-09-26 (slice 09260400-4): fresh grep UCSB/TASA/Santa Barbara across works+articles — hit set identical (Chuan Lyu chair, OJ-352, night market, Anita Chang listing) plus ITASA records (a separate national body) and OJ-173/157 campus mentions; no new TASA-attributable facts. SKIP (verified-saturated).
+- Re-grepped 2026-09-29 (slice 09260700-18): fresh grep UCSB/TASA/Santa Barbara — hit set identical (Chuan Lyu chair, OJ-352, night market, Anita Chang listing); remaining matches are ITASA substring hits / unrelated Santa Barbara mentions. No new TASA-attributable facts. SKIP (verified-saturated).

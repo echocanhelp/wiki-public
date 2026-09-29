@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-27
+last_reviewed: 2026-09-29
 ---
 # Miss Taiwanese American Foundation (台美小姐選拔基金會)
 

@@ -6,7 +6,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-26
+last_reviewed: 2026-09-29
 ---
 # 毛清芬
 
@@ -65,3 +65,4 @@ HOLD: Employment 表載 台灣公論報 財務 1981-87；回憶錄指帳務由�
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- 複核（deepen-x slice-09260700-18, 2026-09-29）：fresh re-grep 毛清芬（works+articles）hit set identical — 僅已引之 ourjourneys 49/283/292/126、#329、黑名單口述、TAH #619。SKIP, verified-saturated.

@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-27
+last_reviewed: 2026-09-29
 ---
 # Taiwanese American Organization at the University of Southern California
 
