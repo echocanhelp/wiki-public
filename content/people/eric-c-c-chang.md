@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-26
+last_reviewed: 2026-09-29
 ---
 # Eric C.C. Chang
 
@@ -52,3 +52,4 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- 2026-09-29 re-grep (slice 09260700-15): fresh grep 'Eric C.C. Chang' works+articles — hit set unchanged (own #1723 entry + works index); TACLe 'Eric Chang' activist layer unchanged. No new absorbable facts; identity HOLD stands. Verified saturated, SKIP-with-reason.

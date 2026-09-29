@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-26
+last_reviewed: 2026-09-29
 ---
 # Mei Lu (陳香梅)
 
@@ -54,3 +54,4 @@ HOLD: TAF（台灣人協進會）會史紀念照中的 "Mei Lu"（MFCF 1990 前�
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
+- Corpus re-check 2026-09-29 (deepen-x slice 09260700-15): re-grep (陳香梅 / Mei Lu) — identical hit set (ourjourneys154、ourjourneys33 中英、#1699 記錄頁、index、TJJ 二二八報導), all already wikilinked/absorbed — verified-saturated SKIP；盧美惠同名 HOLD 維持。
