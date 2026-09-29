@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-27
+last_reviewed: 2026-09-29
 ---
 # Ing-Hour Lin (林英侯博士)
 
@@ -57,3 +57,4 @@ Corpus re-check (slice 09251000-2, 2026-09-26): fresh 林英侯|Ing-Hour greps r
 Corpus re-check (slice 09260317-28, 2026-09-26): fresh 林英侯|Ing-Hour greps return only the pages already linked above (ourjourneys-138, ourjourneys47, whoswho1580, both TJJ articles) plus the harvest index — verified-saturated, no unabsorbed material.
 
 Corpus re-check (slice 09260700-14, 2026-09-27): fresh 林英侯|Ing-Hour greps return only the pages already linked above (ourjourneys-138, ourjourneys47, whoswho1580, both TJJ articles) plus the harvest index — verified-saturated, no unabsorbed material.
+- Corpus re-check (slice 09260700-14, 2026-09-29): fresh 林英侯|Ing-Hour greps return only the pages already linked above (ourjourneys-138, ourjourneys47, whoswho1580, both TJJ articles) plus the harvest index — verified-saturated, no unabsorbed material.
