@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-26
+last_reviewed: 2026-09-30
 ---
 # Joanna Yan (石正暖)
 
@@ -55,3 +55,4 @@ last_reviewed: 2026-09-26
 - Re-grep 2026-09-24 (slice 09230800-29): hit set unchanged (artist31, whoswho1023, portrait painting + index) — TAH bibliographic records only, no memoir narrative; saturated, no conflicts.
 - Re-grep 2026-09-25 (slice 09240800-25): hit set unchanged (artist31, whoswho1023, portrait painting + index) — all already linked; TAH bibliographic records only, no memoir narrative; verified saturated, no conflicts.
 - Re-grep 2026-09-26 (slice 09251400-7): hit set unchanged (artist31, whoswho1023, portrait painting + index) — all already linked; TAH bibliographic records only, no memoir narrative; verified saturated, no conflicts.
+- Re-grep 2026-09-30 (slice 09260800-21): hit set unchanged (artist31, whoswho1023, portrait painting + index) — all already linked above; TAH bibliographic records only, no memoir narrative; verified saturated, no conflicts.
