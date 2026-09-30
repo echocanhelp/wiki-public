@@ -51,3 +51,4 @@ _No filled family fields on the TAH profile._
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - Corpus re-grep 2026-09-25 (slice 09250317-9): hit set unchanged (#983, #1314, Healthy Living and Eating, Annie T's Cakes interview, works index), all absorbed above. Verified-saturated; SKIP.
 - 2026-09-26 DEEPEN-X09251451-3 re-run: fresh grep hit set identical to records already cited/absorbed above — verified-saturated, SKIP.
+- Re-verify 2026-09-30 (deepen-x slice 09260800-28): fresh ZH+EN grep works/+articles/ — hit set identical to absorbed set (own TAH records + works index); verified-saturated, SKIP; nothing new absorbable.
