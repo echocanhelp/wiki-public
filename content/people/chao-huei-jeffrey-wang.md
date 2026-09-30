@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-29
+last_reviewed: 2026-09-30
 ---
 # Chao-Huei Jeffrey Wang (王肇輝)
 
@@ -55,6 +55,7 @@ Chao-Huei (Jeffrey) Wang 王肇輝 – History of Taiwanese American (T.A. Archi
 - 複核（deepen-x slice 09250700-10, 2026-09-25）：fresh re-grep 王肇輝／Chao-Huei（works+articles）hit set identical — 僅 whoswho965＋works index。SKIP, verified-saturated.
 
 - 複核（deepen-x slice-09260317-31, 2026-09-26）：fresh re-grep 王肇輝／Chao-Huei／Jeffrey Wang（works+articles）hit set identical — 僅 whoswho965＋works index（北濱會 221／念肇輝 431 已引於上）。SKIP, verified-saturated.
+- 複核（deepen-x slice-09260700-17, 2026-09-30）：fresh re-grep 王肇輝／Chao-Huei（works+articles）hit set identical — 僅 whoswho965＋works index（北濱會 221／念肇輝 431 已引於上）。SKIP, verified-saturated.
 
 ## Sources
 - [TAH #965 encyclopedia: 965.  Chao-Huei (Jeffrey) Wang 王肇輝 / 2016/05](https://taiwaneseamericanhistory.org/whoswho965/)

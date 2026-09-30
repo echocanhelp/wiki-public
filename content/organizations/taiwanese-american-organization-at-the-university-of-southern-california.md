@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-29
+last_reviewed: 2026-09-30
 ---
 # Taiwanese American Organization at the University of Southern California
 
@@ -35,6 +35,8 @@ The Taiwanese American Organization (TAO) at the University of Southern Californ
 > Deepen pass 2026-09-26 (slice 09250900-17): SKIP — fresh grep (usctao / 'TAO at USC' / 南加大.*TAO) across content/works + content/articles returned ZERO files. Verified-saturated; nothing absorbable.
 
 > Deepen pass 2026-09-26 (slice 09260400-5): SKIP — fresh grep (usctao / TAO at USC / 南加大.*TAO / 'Taiwanese American Organization'): matches remain generic collective records (video-asian-choral-festival, 7-t-shirts, concerts26, photo-albums-activities-19/96, ourjourneys247) that never name this USC club. Verified-saturated; nothing absorbable.
+
+> Deepen pass 2026-09-30 (slice 09260700-17): SKIP — fresh grep (usctao / 'TAO at USC' / 'Taiwanese American Organization' / 南加大.*TAO) across works/ + articles/: matches remain generic collective records ('Activities of Taiwanese American Organizations' section headers in photo-albums/concerts/t-shirt records, ourjourneys247) that never name this USC club. Verified-saturated; nothing absorbable.
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-american-organization-at-the-university-of-southern-california/)

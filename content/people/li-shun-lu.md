@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-29
+last_reviewed: 2026-09-30
 ---
 # Li-Shun Lu (呂理順)
 
@@ -60,3 +60,4 @@ Senior Staff Engineer to Engineering Consultant
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - Corpus re-grep 2026-09-26 (slice 09250900-14): identical hit set (mystories444, our-journeys-359, whos1080, ourjourneys-139); 陳淮崇回憶錄 roster/「豬寮」passages re-verified verbatim, already absorbed above. Verified saturated — SKIP-with-reason.
 - Corpus re-grep 2026-09-26 (slice 09260317-32): identical hit set (mystories444, our-journeys-359, whos1080, ourjourneys-139); 陳淮崇回憶錄 roster/「豬寮」passages re-verified verbatim, already absorbed above. Verified saturated — SKIP-with-reason.
+- Corpus re-grep 2026-09-30 (slice 09260700-17): identical hit set (mystories444, our-journeys-359, whos1080, ourjourneys-139, + works/index bibliographic listings). Verified saturated — SKIP-with-reason.
