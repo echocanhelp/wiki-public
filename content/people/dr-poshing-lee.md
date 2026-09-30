@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-26
+last_reviewed: 2026-09-30
 ---
 # Dr. Poshing Lee (李勃興醫師)
 
@@ -52,3 +52,5 @@ _No filled family fields on the TAH profile._
 
 <!-- deepen-x slice 09230900-16 (2026-09-24): re-verified — fresh grep 李勃興/Poshing returns only own whos-who-2007 record + works index; verified-saturated, nothing new absorbable. SKIP. -->
 <!-- deepen-x 09251527-5: re-verify 2026-09-26 — fresh ZH+EN grep (works/articles): hit set identical to prior absorption waves; all corpus facts already absorbed in Role in the Community. Verified saturated; SKIP-no-new-facts. -->
+
+- 2026-09-30 corpus re-check (deepen-x slice 09260854-22): fresh grep '李勃興|Poshing Lee' (fixed alternation, -rl + -h -m2 -A2) over works+articles returns only his own whos-who-2007 record and works/index — identical to prior waves. Verified-saturated; SKIP-no-new-facts.
