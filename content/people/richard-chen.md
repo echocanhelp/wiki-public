@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-26
+last_reviewed: 2026-09-30
 ---
 # Richard Chen (陳重光舊名)
 
@@ -52,3 +52,5 @@ _No filled family fields on the TAH profile._
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 _Corpus re-check 2026-09-26 (deepen-x slice 09251000-1): fresh grep works/+articles/ — hit set identical to records already wikilinked/absorbed above; no new absorbable facts. SKIP-with-reason: saturated._
+
+_Corpus re-check 2026-09-30 (slice 09260800-16): fresh grep (陳重光 / Richard Chen) over works/+articles/ — hit set identical to records already wikilinked/absorbed above (whos1100, ourjourneys162, films/Pew identity HOLDs, 李正三 substring hits). SKIP-with-reason: saturated._

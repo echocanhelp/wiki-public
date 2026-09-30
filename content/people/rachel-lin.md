@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-26
+last_reviewed: 2026-09-30
 ---
 # Rachel Lin
 
@@ -59,3 +59,5 @@ Rachel Lin began her violin lessons when she was 8 years old with Dr. Lee Tai Hs
 
 - Corpus re-grep 2026-09-26 (DEEPEN-X slice 09250900-31): hit-set identical — #164/#321 encyclopedia records and the works index, all already cited. SKIP-content, nothing new absorbable.
 - Corpus re-grep 2026-09-26 (DEEPEN-X slice 09260400-31): hit-set identical — #164/#321 encyclopedia records and the works index, all already cited. SKIP-content, nothing new absorbable.
+
+- Corpus re-grep 2026-09-30 (slice 09260800-16): hit-set identical — #164/#321 encyclopedia records and the works index, all already cited. SKIP-content, nothing new absorbable.
