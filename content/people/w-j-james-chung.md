@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-26
+last_reviewed: 2026-09-30
 ---
 # W. J. James Chung (鍾文忠)
 
@@ -44,6 +44,7 @@ _No filled family fields on the TAH profile._
 - Re-grepped 2026-09-25 (slice 09240700-13, grep 鍾文忠/James Chung/James Chuang): hit-set identical (whos-who-1932, ff344, our-journeys-360, index) — SKIP-content: verified-saturated; Chung/Chuang and NY/NJ HOLDs stand.
 - Re-grepped 2026-09-26 (slice 09251000-6): hit-set identical (whos-who-1932, ff344, our-journeys-360, index) — SKIP-content: verified-saturated, no new corpus facts.
 - Re-grepped 2026-09-26 (slice 09260500-10): hit-set identical (whos-who-1932, ff344, our-journeys-360, index) — SKIP-content: verified-saturated; Chung/Chuang and NY/NJ HOLDs stand.
+- Re-grepped 2026-09-30 (slice 09260854-14): fresh grep 鍾文忠/James Chung/James Chuang — hit-set identical (whos-who-1932, ff344, our-journeys-360, index) — SKIP-content: verified-saturated, no new corpus facts; Chung/Chuang and NY/NJ HOLDs stand.
 
 ## Sources
 - [TAH #1932 encyclopedia: 1932. W. J. (James) Chung 鍾文忠](https://taiwaneseamericanhistory.org/whos-who-1932-wen-jung-chung/)
