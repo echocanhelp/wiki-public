@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-26
+last_reviewed: 2026-09-30
 ---
 # Dr. Hofu Wu (吳和甫博士)
 
@@ -46,6 +46,8 @@ _No filled family fields on the TAH profile._
 - 2026-09-25 deepen-x slice 09240700-11: re-verify SKIP — fresh ZH+EN grep returns the identical hit set (ourjourneys47, 143, 749, works index), all linked/absorbed; verified saturated.
 - 2026-09-26 deepen-x slice 09251000-6: re-verify SKIP — fresh ZH+EN grep returns the identical hit set (ourjourneys47, 749, 143, works index); verified saturated.
 - 2026-09-26 deepen-x slice 09260500-11: re-verify SKIP — fresh ZH+EN grep returns the identical hit set (ourjourneys47, 749, 143, works index); verified saturated.
+
+- 2026-09-30 deepen-x slice 09260854-18: re-verify SKIP — fresh ZH+EN grep returns the identical hit set (ourjourneys47, 143, 749, works index), all linked/absorbed; verified saturated.
 
 ## Sources
 - [TAH #143 encyclopedia: 143. Dr. Hofu Wu 吳和甫博士](https://taiwaneseamericanhistory.org/143-dr-hofu-wu/)

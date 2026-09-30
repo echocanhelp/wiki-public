@@ -62,3 +62,4 @@ _No filled family fields on the TAH profile._
 - SKIP 2026-09-25 (slice 09240400-5): fresh ZH+EN re-grep (蔡明道 / Ming-Daw Tsai) hit set identical — own source record whos-who-1839 + works index only; no memoir material absorbable. Verified-saturated.
 - SKIP 2026-09-25 (slice 09250700-30): fresh ZH+EN re-grep (蔡明道 / Ming-Daw Tsai) hit set identical — whos-who-1839 + works index only; nothing absorbable. Verified-saturated.
 - SKIP 2026-09-26 (slice 09260500-15): fresh ZH+EN re-grep (蔡明道 / Ming-Daw Tsai) hit set identical — whos-who-1839 + works index only; nothing absorbable. Verified-saturated.
+- SKIP 2026-09-30 (slice 09260854-20): fresh ZH+EN re-grep (蔡明道 / Ming-Daw Tsai, works/ + articles/) — hit set identical: own source record whos-who-1839 + works index only. No memoir material absorbable. Verified-saturated.
