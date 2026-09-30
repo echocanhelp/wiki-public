@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-26
+last_reviewed: 2026-09-30
 ---
 # Dr. Jin L. Lin (林金龍博士)
 
@@ -59,3 +59,5 @@ last_reviewed: 2026-09-26
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+- Corpus re-grep 2026-09-30 (slice 09260800-2): hit set unchanged — own TAH #2310 entry, works index, and the same held taiwanjustice.net column (HOLD above); no memoir mentions. SKIP-with-reason — verified-saturated.

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-26
+last_reviewed: 2026-09-30
 ---
 # K. C. Du (杜國清)
 
@@ -60,3 +60,5 @@ _No filled family fields on the TAH profile._
 2026-09-26 re-grep (deepen-x 09250900-30): fresh ZH+EN grep returned the same hit set already linked/absorbed on this page — verified-saturated SKIP-content, nothing new absorbable, existing HOLDs unchanged.
 
 2026-09-26 re-grep (杜國清 / K. C. Du / Kuo-Ching Tu, DEEPEN-X slice 09260400-28): same saturated hit set ([[works/taiwaneseamericanhistory-org/27-e8-87-ba-e7-81-a3-e6-96-87-e5-ad-b8-e6-9d-9c-e5-9c-8b-e6-b8-85tu-kuo-ching-19|#27]], [[works/taiwaneseamericanhistory-org/142-taiwanese-literature-english-translation-series-kuo-ching-tu-2011-01-e6-96-8|#142]], [[works/taiwaneseamericanhistory-org/whoswho1145|Who's Who #1145]], index); bibliographic records only, no memoir narrative — SKIP-content, nothing new absorbable.
+
+2026-09-30 re-grep (K. C. Du / 杜國清 / Kuo-Ching Tu, DEEPEN-X slice 09260800-2): same saturated hit set (#27, #142, Who's Who #1145, index); bibliographic records only, no memoir narrative — SKIP-content, nothing new absorbable.
