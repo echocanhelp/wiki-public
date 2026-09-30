@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-26
+last_reviewed: 2026-09-30
 ---
 # Taiwanese American Students Association at Johns Hopkins University
 
@@ -39,3 +39,4 @@ The Taiwanese American Students Association at Johns Hopkins University (jhuTASA
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+<!-- deepen-x slice 09260700-22 re-verify 2026-09-30: fresh ZH+EN grep of works/+articles/ — hit set identical to records already absorbed in this page (verified-saturated, no new absorbable facts) -->
