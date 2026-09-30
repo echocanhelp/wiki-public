@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-26
+last_reviewed: 2026-09-30
 ---
 # Angellee Shaw Chen (陳安仁理博士)
 
@@ -48,6 +48,7 @@ Family-layer corpus context (absorbed 2026-09-21): she is part of the Shaw Chen 
 - Siblings in adjacent Who's Who records: [[people/michellee-shaw-chen|Michellee Shaw Chen 陳美真理]] ([[works/taiwaneseamericanhistory-org/whos871-michellee-shaw-chen|TAH #871]]) and [[people/shante-shawsean-chen|Shante Shaw (Sean) Chen 陳善哲]] ([[works/taiwaneseamericanhistory-org/whos-who-870-shante-shaw-chen|TAH #870]]).
 - Corpus re-grep 2026-09-23 (slice 09221400-32): fresh grep of works/articles returns only the records already wikilinked/absorbed above — no new memoir material. Verified saturated; SKIP-content.
 - Corpus re-grep 2026-09-25 (slice 09230900-26): fresh grep of works/articles returns only whos872 plus the already-absorbed Shaw Chen family records (whos871, whos-who-870, #473/#8 蕭永真). Verified saturated; SKIP-content.
+- Corpus re-grep 2026-09-30 (slice 09260800-32): fresh ZH+EN grep (安仁理 / Angellee Shaw Chen) of works/articles returns only whos872 + index — identical to the already-absorbed record set. Verified saturated; SKIP-content.
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/angellee-shaw-chen/)

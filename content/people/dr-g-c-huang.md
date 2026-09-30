@@ -6,7 +6,7 @@ name_zh: "黃光彩博士"
 tags:
   - person
   - tah-whos-who
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-30
 verification_status: pending
 ---
 # Dr. G. C. Huang (黃光彩博士)
@@ -43,6 +43,7 @@ _No filled family fields on the TAH profile._
 - Re-verified 2026-09-17 (slice-18), 2026-09-20 (slice-13), 2026-09-21 (slice 09201400-28), 2026-09-22 (slice 09211400-27), 2026-09-23 (slice 09220900-32), and 2026-09-24 (slice 09230400-27): corpus re-grep (黃光彩|G. C. Huang|Kuan-tsae against works/articles) matches only the presidents roster (2007 entry, romanization "Kuan-tsae Huang 黃光彩") and the TAH #1869 directory profile above — hit set identical, no year change; nothing further absorbable.
 - Re-verified 2026-09-25 (deepen-x slice 09240500-27): re-grep (黃光彩|Kuan-tsae) — hit set identical (presidents roster ourjourneys-138 + TAH #1869); HOLD above retained. SKIP: nothing further absorbable.
 - Re-verified 2026-09-25 (deepen-x slice 09250800-29): re-grep (黃光彩|G. C. Huang|Kuan-tsae) — hit set identical (ourjourneys-138 roster + TAH #1869 + works index); HOLD retained. SKIP: nothing further absorbable.
+- Re-verified 2026-09-30 (deepen-x slice 09260800-32): fresh re-grep (黃光彩 / G. C. Huang / Kuan-tsae) — hit set identical (ourjourneys-138 presidents roster + TAH #1869 + works index); HOLD (DC presidency vs Singapore roles) retained, not auto-merged. SKIP: nothing further absorbable.
 
 ## Sources
 - [TAH #1869 encyclopedia: 1869. Dr. G. C. Huang 黃光彩博士](https://taiwaneseamericanhistory.org/whos-who-1869-g-c-huang/)
