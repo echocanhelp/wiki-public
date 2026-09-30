@@ -60,3 +60,5 @@ _Corpus re-scan (slice 09240600-31, 2026-09-25): fresh ZH+EN grep returns the sa
 _Corpus re-scan (slice 09250900-29, 2026-09-26): fresh ZH+EN grep returns the same six work hits (#81, #234, #59, #272, #378, Who's Who #2229); all facts already absorbed — no new dates, roles, or orgs; no conflicts to HOLD. SKIP-content (verified-saturated)._
 
 _Corpus re-scan (slice 09260400-22, 2026-09-26): fresh ZH+EN grep returns the same hit set (#81, #234, #59, #272, #378, Who's Who #2229, plus EN parallel editions #81-eng/#272-eng); all facts already absorbed — no new dates, roles, or orgs; no conflicts to HOLD. SKIP-content (verified-saturated)._
+
+_Re-grep (slice 09260800-5, 2026-09-30): fresh ZH 簡金生 + EN 'Jin-Sheng Jian' grep confirms the same six work hits (#81, #234, #59, #272, #378, Who's Who #2229) — all facts already absorbed. One id-resolution check this pass: memoir #378 is the Chicago Taiwanese Association 50-year account, and its appendix lists 歷屆芝加哥台灣同鄉會會長 — so the 1978 entry is that association's president; TACL (#272) and the 籌備小組 list remain the LA-based 1982 context, distinct from the Chicago post. No conflict to HOLD; verified-saturated._

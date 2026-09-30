@@ -51,6 +51,8 @@ No memoir names 蕭東賢 directly, but corpus records around his wife 黃美琇
 - 2026-09-26 (slice 09250900-27): fresh ZH+EN grep returns the identical hit set (whos-who-2254, works index, MANIFEST, 義論 column archive page, signed article) — all already cited above; no new memoir material naming 蕭東賢 (SKIP-with-reason).
 - 2026-09-26 (slice 09260400-20): fresh ZH+EN grep returns the identical hit set (whos-who-2254, works index, MANIFEST, 義論 column archive page, signed article) — all already cited above; no new memoir material naming 蕭東賢 (SKIP-with-reason).
 
+- 2026-09-30 (slice 09260800-6): fresh ZH+EN grep (蕭東賢 / Stanley Hsiao) across content/works + content/articles returns the identical hit set (whos-who-2254, works index, MANIFEST, 義論 column archive page, signed article) — all already cited above; no new memoir material naming 蕭東賢 (SKIP-with-reason, verified-saturated).
+
 ## Sources
 - [TAH #2254 encyclopedia: 2254. Stanley Hsiao 蕭東賢](https://taiwaneseamericanhistory.org/whos-who-2254-stanley-hsiao/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/stanley-hsiao/)
