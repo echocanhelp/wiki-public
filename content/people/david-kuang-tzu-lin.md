@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-26
+last_reviewed: 2026-09-30
 ---
 # David Kuang-Tzu Lin (李光治博士)
 
@@ -54,3 +54,4 @@ _No filled family fields on the TAH profile._
 <!-- deepen-x 09231000-14: verified-saturated — corpus re-scan (works/articles) fresh 2026-09-25: hit set identical to prior passes (own records + already-wikilinked works only); David Kuang-Tzu Lin: fresh grep hits (ourjourneys33 family-photo 'David Lin', TJJ 林沅融 David Lin, TJJ 牧師林大衛 David Lin) are name collisions, NOT 李光治 — excluded, no absorbable material. -->
 <!-- deepen-x 09250317-11: verified-saturated — corpus re-scan (works/articles) fresh 2026-09-25: hit set identical to prior passes (own records + already-wikilinked works only); no new community material. -->
 <!-- deepen-x 09251500-3: verified-saturated — corpus re-scan (works/articles) fresh 2026-09-26: hits are only own TAH record whoswho1487 + works/index.md; no new community material, SKIP. -->
+<!-- deepen-x 09260800-26: re-verify 2026-09-30 — fresh ZH+EN grep (works+articles): hit set unchanged (own TAH record(s) + works/index only; all already absorbed+wikilinked). Verified-saturated; SKIP-no-new-facts. -->

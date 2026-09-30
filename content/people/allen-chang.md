@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-26
+last_reviewed: 2026-09-30
 ---
 # Allen Chang (張伯寬)
 
@@ -54,3 +54,4 @@ last_reviewed: 2026-09-26
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 <!-- deepen-x 09251527-3: re-verify 2026-09-26 — fresh grep (ZH+EN, works+articles): hit set identical to prior re-verifies, all already absorbed/wikilinked. Verified saturated; SKIP-no-new-facts. -->
+<!-- deepen-x 09260800-26: re-verify 2026-09-30 — fresh ZH+EN grep (works+articles): hit set unchanged (own TAH record(s) + works/index only; all already absorbed+wikilinked). Verified-saturated; SKIP-no-new-facts. -->
