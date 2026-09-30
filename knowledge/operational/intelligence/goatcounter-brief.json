@@ -1,13 +1,13 @@
 {
-  "at": "2026-09-29T14:00:37Z",
+  "at": "2026-09-30T14:00:31Z",
   "cutoff": "2026-08-21T19:22:14Z",
   "ok": true,
-  "visits_since_cutoff": 97,
-  "yesterday_pdt": "2026-09-28",
-  "yesterday_visits": 4,
+  "visits_since_cutoff": 103,
+  "yesterday_pdt": "2026-09-29",
+  "yesterday_visits": 10,
   "top": [
     {
-      "count": 16,
+      "count": 18,
       "path": "/wiki-public/people/albert-zh-sku-b-publisher-review.html",
       "title": "Albert ZH SKU B \u2014 publisher manuscript final review"
     },
@@ -22,14 +22,14 @@
       "title": "Not Found"
     },
     {
-      "count": 6,
-      "path": "/wiki-public/people/albert-chapter1-zh-hsiaochen-full-review",
-      "title": "Albert Ch.1 ZH full \u2014 HsiaoChen evaluation (SKU B gate)"
+      "count": 7,
+      "path": "/wiki-public",
+      "title": "Echopedia"
     },
     {
       "count": 6,
-      "path": "/wiki-public",
-      "title": "Echopedia"
+      "path": "/wiki-public/people/albert-chapter1-zh-hsiaochen-full-review",
+      "title": "Albert Ch.1 ZH full \u2014 HsiaoChen evaluation (SKU B gate)"
     }
   ],
   "error": null

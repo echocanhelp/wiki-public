@@ -1,4 +1,4 @@
-TAHS · Echopedia morning brief — 2026-09-29
+TAHS · Echopedia morning brief — 2026-09-30
 1 NEED YOU item(s) below; the rest is auto-handled.
 
 🔴 NEED YOU (your judgment only)
@@ -26,7 +26,7 @@ TAHS · Echopedia morning brief — 2026-09-29
 🟡 QUEUE 11 pages WIP/incomplete
 
 🟡 QUEUE / link suggestions (disk)
-ℹ️  INFO  top tips below · full pairs on disk (~15502 scored)
+ℹ️  INFO  top tips below · full pairs on disk (~15514 scored)
 
 🟡 QUEUE / optional link tips (≤5, not NEED YOU)
 🟡 QUEUE 1. Link tip: organizations/taiwanese-american-association-of-los-angeles-east-san-gabriel-valley.md ↔ sources/taiwaneseamericanhistory-org.md
@@ -36,11 +36,11 @@ TAHS · Echopedia morning brief — 2026-09-29
 🟡 QUEUE 5. Link tip: organizations/ai-education-foundation.md ↔ people/john-hsu.md
 
 ℹ️ SITE (wiki visits; operator self-traffic excluded)
-ℹ️  INFO  wiki 97 visits since cutoff · yday 2026-09-28 = 4 · /people/albert-zh-sku-b-publisher-review.html 16, /people/gwhyneth-chen 16, /people/albert-zh-sku-b-publishe
+ℹ️  INFO  wiki 103 visits since cutoff · yday 2026-09-29 = 10 · /people/albert-zh-sku-b-publisher-review.html 18, /people/gwhyneth-chen 16, /people/albert-zh-sku-b-publis
 
 ✅ AUTO (overnight — evidence)
-✅ AUTO analyzer scanned 2929 queued 5 suppressed 2194
+✅ AUTO analyzer scanned 2929 queued 1 suppressed 2229
 🟡 QUEUE janitor HOLD leftover 40
-🟡 QUEUE kanban blocked 346
+🟡 QUEUE kanban blocked 16
 🔴 NEED YOU cron fail: memory-audit, echopedia-weekly-improvement
 ℹ️  INFO  only 🔴 NEED YOU requires your reply

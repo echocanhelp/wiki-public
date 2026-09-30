@@ -1,0 +1,3 @@
+people/john-chang.md
+people/john-chin-jung-cheng.md
+people/scott-lee.md
