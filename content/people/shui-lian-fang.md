@@ -59,3 +59,4 @@ No other corpus memoirs/records mention her or 方國炤; biography beyond the a
 - 2026-09-25 DEEPEN-X09230900-17 re-run: fresh grep returns only #1251 autobiography, #2167 Who's Who, works index — saturated, SKIP.
 - 2026-09-25 (slice 09250317-10): fresh grep returns only #1251 autobiography, #2167 Who's Who, works index — saturated, SKIP.
 <!-- deepen-x 09251500-4: verified-saturated — fresh grep 2026-09-26 (方廖水蓮/Shui-Lian Fang/方國炤) returns only #1251 autobiography, #2167 Whos Who, works index; saturated, SKIP. -->
+<!-- deepen-x 09260854-23: re-verify 2026-09-30 — fresh grep (方廖水蓮/Shui-Lian Fang/方國炤, works+articles): identical hit set (#1251 autobiography, #2167 Whos Who, works index), all already absorbed/wikilinked. Verified saturated; SKIP-no-new-facts. -->

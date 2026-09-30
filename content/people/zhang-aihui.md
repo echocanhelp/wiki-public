@@ -53,3 +53,4 @@ Re-verified 2026-09-25 (DEEPEN-X slice 09230900-20): fresh grep of works/ and ar
 - [[people/lin-yushu||Lin Yu-Shu (林育武)]]
 - [[sources/ntpc-usa-org||NTPC USA source hub]]
 Re-checked 2026-09-26 (slice 09251527-4): fresh grep 張愛惠 / Esther Pan / Ai-Hui across works/ + articles/ still returns **zero** hits — no community-record material to absorb; SKIP-with-reason stands.
+Re-verified 2026-09-30 (slice 09260854-23): fresh grep (張愛惠 / Esther Pan / Ai-Hui, works+articles) still zero hits — her only corpus-adjacent records stay the NTPC/NTPW roster pages already wikilinked above. Verified saturated; SKIP-no-new-facts.

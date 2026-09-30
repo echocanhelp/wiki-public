@@ -53,3 +53,4 @@ Accomplishment
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 <!-- deepen-x slice 09250317-28 re-grep 2026-09-25: fresh ZH+EN grep of works+articles returns only own-name records already wikilinked on this page (plus works index); no new third-party corpus material — verified saturated, SKIP content-deepen. -->
 <!-- deepen-x slice 09251527-11 re-grep 2026-09-26: fresh grep (楊士宏 / Shug-Hong Young) of works+articles returns only own [[works/taiwaneseamericanhistory-org/whos-who-1841-shug-hong-young|TAH #1841]] + works index; no memoir material. Verified saturated; SKIP content-deepen. -->
+<!-- deepen-x 09260854-23: re-verify 2026-09-30 — fresh grep (楊士宏/Shug-Hong Young, works+articles): own record whos-who-1841 + works index only, identical to prior re-verifies. Verified saturated; no memoir material; SKIP-no-new-facts. -->
