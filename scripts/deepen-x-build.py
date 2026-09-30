@@ -2,7 +2,7 @@
 """Re-slice top thin pages into 6-page cards (iteration-budget-safe) and emit
 protocol-fixed kanban cards. Rank: size desc (closest to good first).
 Skips paths already claimed by an existing open DEEPEN-* card."""
-import glob, json, os, re, subprocess
+import glob, json, os, re, subprocess, time
 from pathlib import Path
 
 REPO = Path('/home/leedt/echo-system')
@@ -20,6 +20,26 @@ for pat in ('content/people/*.md', 'content/organizations/*.md'):
         if s < 5000:
             rows.append((s, os.path.relpath(f, REPO / 'content')))
 rows.sort(reverse=True)
+
+# Traffic-aware ranking (2026-09-26): GoatCounter path counts are cached nightly
+# by the analytics scrape to knowledge/research/gc-path-counts.json, keeping this
+# builder offline-deterministic. score = size * (1 + 3*visits): thin pages that
+# people actually READ jump the queue (lester-tsai lesson: top path, no page).
+GC = REPO / 'knowledge/research/gc-path-counts.json'
+visits = {}
+if GC.exists():
+    try:
+        raw = json.loads(GC.read_text())
+        age = (time.time() - GC.stat().st_mtime) / 86400
+        if age <= 7:  # stale cache -> fall back to size-only ranking
+            for path, c in raw.get('counts', {}).items():
+                slug = path.replace('/wiki-public/', '').removesuffix('.html')
+                visits[slug] = visits.get(slug, 0) + int(c)
+    except Exception:
+        pass
+if visits:
+    rows = [(s * (1 + 3 * visits.get(rel.removesuffix('.md'), 0)), rel) for s, rel in rows]
+    rows.sort(reverse=True)
 
 # Dedupe against OPEN cards (any non-done/archived status) — two keys:
 # (a) same card title already open, (b) slice path-set overlaps an open card.
@@ -72,7 +92,8 @@ for i in range(NCARDS):
         "wikilink each work page touched ([[works/...|label]]), reconcile with existing text, HOLD conflicts "
         "(write 'HOLD: conflict A vs B', never auto-merge dates/ages), set last_reviewed: today. "
         "No web, no new pages, no invented biography; wikilinks to EXISTING slugs only. "
-        "Pages with no corpus hits and nothing absorbable: note SKIP-with-reason. "
+        "Pages with no corpus hits and nothing absorbable: note SKIP-with-reason and record "
+        "`hits-hash=<12hex>` from the audit line so unchanged corpora auto-skip next audit. "
         "FRONTMATTER RULE: append notes BELOW the closing '---' fence only — an HTML comment written "
         "inside YAML frontmatter breaks the ENTIRE Quartz build (fixed 6 files 2026-09-26). "
         "HARD RULES: (1) max 3 tool calls per page; (2) when ALL pages are processed, you MUST run "

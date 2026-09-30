@@ -18,13 +18,12 @@ existing = set()
 by_base = defaultdict(set)
 for dp, dirs, files in os.walk(root):
     for fn in files:
-        if not fn.endswith(".md"):
-            continue
-        rel = os.path.relpath(os.path.join(dp, fn), root)[:-3]
-        existing.add(rel)
-        base = rel.rsplit("/", 1)[-1]
-        if base != "index":
-            by_base[base].add(rel)
+        if fn.endswith(".md"):
+            rel = os.path.relpath(os.path.join(dp, fn), root)[:-3]
+            existing.add(rel)
+            base = rel.rsplit("/", 1)[-1]
+            if base != "index":
+                by_base[base].add(rel)
 
 LINK = re.compile(r"\[\[([^\[\]]+)\]\]")
 

@@ -1,6 +1,6 @@
 # Echopedia System Status
 
-*Generated: 2026-09-29 00:28 PDT*
+*Generated: 2026-09-29 00:29 PDT*
 
 ## Orientation
 - **Entry:** go <plain language> via go-router (auto-route) · **Control:** [CONTROL.md](CONTROL.md)
@@ -21,7 +21,7 @@
 ## Content
 |- **Tier1 pages:** 2895 (people 2415 / orgs 440 / sources 40) · Tier2 archive: 29103
 |- **Janitor queue depth:** 45
-|- **Uncommitted files:** 61
+|- **Uncommitted files:** 17
 
 ## Self-improvement pipeline (Scout → Filter → Extract → Evaluate → Generate → Review)
 || Stage | Script | Last run | Output |
@@ -61,7 +61,7 @@ Load skill **echopedia-ops** first for any wiki work.
     Last run:  2026-09-28T07:01:28.963167-07:00  ok
     Name:      vllm-thermal-scaler
     Schedule:  every 1m
-    Last run:  2026-09-29T00:26:59.841823-07:00  ok
+    Last run:  2026-09-29T00:28:59.899174-07:00  ok
     Name:      Echopedia content analysis
     Schedule:  10 21 * * *
     Last run:  2026-09-28T21:11:37.745121-07:00  ok
@@ -118,7 +118,7 @@ Load skill **echopedia-ops** first for any wiki work.
 | 15 23 * * * | `echopedia-quote-extractor` | no_agent | on | ok | `echopedia-quote-extractor-cron.sh` |
 | 20 22 * * * | `echopedia-evaluate-actions` | no_agent | on | ok | `echopedia-evaluate-actions.py` |
 | 20 6 * * * | `echopedia-digest` | no_agent | OFF | ok | `echopedia-digest.sh` |
-| 25 0 * * * | `echopedia-ci-heal` | no_agent | on | error | `echopedia-ci-heal-wrapper.sh` |
+| 25 0 * * * | `echopedia-ci-heal` | no_agent | on | ok | `echopedia-ci-heal-wrapper.sh` |
 | 30 0 * * * | `echopedia-site-design` | no_agent | on | ok | `echopedia-site-design-wrapper.sh` |
 | 30 21 * * * | `echopedia-janitor` | no_agent | on | ok | `echopedia-janitor-wrapper.sh` |
 | 30 22 1 * * | `go-router-monthly-audit` | AGENT | on | ok | `go-router` |

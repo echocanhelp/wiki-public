@@ -1,54 +1,10 @@
 {
-  "date": "2026-09-28",
+  "date": "2026-09-29",
   "standards_version": 10,
   "total_pages_scanned": 2929,
-  "pages_with_findings": 28,
-  "auto_queued": 5,
+  "pages_with_findings": 9,
+  "auto_queued": 1,
   "queue": [
-    {
-      "path": "organizations/taiwanese-american-association-greater-cleveland.md",
-      "findings": [
-        "STRUCT_NO_HISTORY",
-        "READABILITY_LONG_SENTENCES_31wps",
-        "READABILITY_MANY_LONG_SENTENCES_4"
-      ],
-      "priority": "medium",
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol",
-        "Fix ONLY listed findings — no inventing biography",
-        "Update last_reviewed after fixes",
-        "Commit only (no publish)"
-      ]
-    },
-    {
-      "path": "organizations/taiwanese-american-council-of-greater-new-york.md",
-      "findings": [
-        "STRUCT_NO_HISTORY",
-        "READABILITY_LONG_SENTENCES_33wps",
-        "READABILITY_MANY_LONG_SENTENCES_5"
-      ],
-      "priority": "medium",
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol",
-        "Fix ONLY listed findings — no inventing biography",
-        "Update last_reviewed after fixes",
-        "Commit only (no publish)"
-      ]
-    },
-    {
-      "path": "people/chris-cn-chang.md",
-      "findings": [
-        "DESC_TOO_SHORT",
-        "DESC_NO_TITLE_MENTION"
-      ],
-      "priority": "medium",
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol",
-        "Fix ONLY listed findings — no inventing biography",
-        "Update last_reviewed after fixes",
-        "Commit only (no publish)"
-      ]
-    },
     {
       "path": "people/pan-yi-ling.md",
       "findings": [
@@ -62,22 +18,8 @@
         "Update last_reviewed after fixes",
         "Commit only (no publish)"
       ]
-    },
-    {
-      "path": "people/zai-xing-wang.md",
-      "findings": [
-        "DESC_TOO_SHORT",
-        "DESC_NO_TITLE_MENTION"
-      ],
-      "priority": "medium",
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol",
-        "Fix ONLY listed findings — no inventing biography",
-        "Update last_reviewed after fixes",
-        "Commit only (no publish)"
-      ]
     }
   ],
-  "suppressed_findings": 2194,
+  "suppressed_findings": 2229,
   "fp_history_entries": 2307
 }

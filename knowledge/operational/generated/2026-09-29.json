@@ -1,0 +1,35 @@
+{
+  "date": "2026-09-29",
+  "total_cards": 2,
+  "evaluated_file": "/home/leedt/echo-system/knowledge/operational/evaluated/2026-09-29.json",
+  "priority_counts": {
+    "medium": 2
+  },
+  "playbook_counts": {
+    "P8": 2
+  },
+  "cards": [
+    {
+      "card_id": "echo-gen-2026-09-29-0001",
+      "title": "[MEDIUM] pan-yi-ling: Ensure the first paragraph mentions the page subject",
+      "body": "## Task: [MEDIUM] pan-yi-ling: Ensure the first paragraph mentions the page subject\n\n**Priority:** medium\n**Playbook:** P8\n**Page:** `people/pan-yi-ling.md`\n**Finding:** `DESC_NO_TITLE_MENTION`\n**Score:** 6.0 (inbound links: 4)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/people/pan-yi-ling.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-09-29 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Ensure the first paragraph mentions the page subject\n**Detail:** The first paragraph should reference the person/organization this page is about.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: DESC_NO_TITLE_MENTION\nPage type: people\nType weight: 1.5\nFinding weight: 1.0",
+      "priority": "medium",
+      "playbook": "P8",
+      "page": "people/pan-yi-ling.md",
+      "finding": "DESC_NO_TITLE_MENTION",
+      "score": 6.0,
+      "target_path": "/home/leedt/echo-system/content/people/pan-yi-ling.md"
+    },
+    {
+      "card_id": "echo-gen-2026-09-29-0002",
+      "title": "[MEDIUM] pan-yi-ling: Break up long sentences",
+      "body": "## Task: [MEDIUM] pan-yi-ling: Break up long sentences\n\n**Priority:** medium\n**Playbook:** P8\n**Page:** `people/pan-yi-ling.md`\n**Finding:** `READABILITY_LONG_SENTENCES_34wps`\n**Score:** 3.0 (inbound links: 4)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/people/pan-yi-ling.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-09-29 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Break up long sentences\n**Detail:** Average words per sentence exceeds 30. Break up long sentences for readability.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: READABILITY_LONG_SENTENCES\nPage type: people\nType weight: 1.5\nFinding weight: 0.5",
+      "priority": "medium",
+      "playbook": "P8",
+      "page": "people/pan-yi-ling.md",
+      "finding": "READABILITY_LONG_SENTENCES_34wps",
+      "score": 3.0,
+      "target_path": "/home/leedt/echo-system/content/people/pan-yi-ling.md"
+    }
+  ]
+}

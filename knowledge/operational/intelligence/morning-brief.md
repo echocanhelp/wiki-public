@@ -1,4 +1,4 @@
-TAHS · Echopedia morning brief — 2026-09-28
+TAHS · Echopedia morning brief — 2026-09-29
 1 NEED YOU item(s) below; the rest is auto-handled.
 
 🔴 NEED YOU (your judgment only)
@@ -35,9 +35,12 @@ TAHS · Echopedia morning brief — 2026-09-28
 🟡 QUEUE 4. Link tip: organizations/ai-education-foundation.md ↔ organizations/stc-management.md
 🟡 QUEUE 5. Link tip: organizations/ai-education-foundation.md ↔ people/john-hsu.md
 
+ℹ️ SITE (wiki visits; operator self-traffic excluded)
+ℹ️  INFO  wiki 97 visits since cutoff · yday 2026-09-28 = 4 · /people/albert-zh-sku-b-publisher-review.html 16, /people/gwhyneth-chen 16, /people/albert-zh-sku-b-publishe
+
 ✅ AUTO (overnight — evidence)
-✅ AUTO analyzer scanned 2929 queued 7 suppressed 2166
+✅ AUTO analyzer scanned 2929 queued 5 suppressed 2194
 🟡 QUEUE janitor HOLD leftover 40
 🟡 QUEUE kanban blocked 346
-🔴 NEED YOU cron fail: memory-audit, echopedia-weekly-improvement, echopedia-ci-heal
+🔴 NEED YOU cron fail: memory-audit, echopedia-weekly-improvement
 ℹ️  INFO  only 🔴 NEED YOU requires your reply

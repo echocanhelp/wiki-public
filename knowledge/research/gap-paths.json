@@ -1,0 +1,216 @@
+{
+"scraped": "2026-09-29",
+"probes": 35,
+"gaps": [
+{
+"path": "/wiki-public/people/",
+"tier": "live404",
+"code": 404,
+"demand": 0
+},
+{
+"path": "/wiki-public/works/",
+"tier": "live404+was200",
+"code": 404,
+"demand": 0
+},
+{
+"path": "/wiki-public/organizations/",
+"tier": "live404",
+"code": 404,
+"demand": 0
+},
+{
+"path": "/wiki-public/media/leonard-hsu-jr.mp3",
+"tier": "live404",
+"code": 404,
+"demand": 0
+},
+{
+"path": "/wiki-public/home/leedt/media-outputs/jobs/_smoke-instrumental.wav",
+"tier": "live404",
+"code": 404,
+"demand": 0
+},
+{
+"path": "/wiki-public/home/leedt/media-outputs/jobs/shante-taigi-chorus-a.wav",
+"tier": "live404+was200",
+"code": 404,
+"demand": 0
+},
+{
+"path": "/wiki-public/home/leedt/media-outputs/jobs/shante-taigi-chorus-taga-chopped90.wav",
+"tier": "live404",
+"code": 404,
+"demand": 0
+},
+{
+"path": "/wiki-public/home/leedt/media-outputs/jobs/shante-taigi-chorus-taga.wav",
+"tier": "live404+was200",
+"code": 404,
+"demand": 0
+},
+{
+"path": "/wiki-public/home/leedt/media-outputs/jobs/shante-taigi-chorus-b.wav",
+"tier": "live404",
+"code": 404,
+"demand": 0
+},
+{
+"path": "/wiki-public/media/shante-shawsean-chen-song-taigi-gold-langdu.mp3",
+"tier": "live404",
+"code": 404,
+"demand": 0
+},
+{
+"path": "/wiki-public/media/shante-shawsean-chen-song-taigi.mp3",
+"tier": "live404+was200",
+"code": 404,
+"demand": 0
+},
+{
+"path": "/wiki-public/home/leedt/media-outputs/jobs/leonard-go-zh-taga.wav",
+"tier": "live404",
+"code": 404,
+"demand": 0
+},
+{
+"path": "/wiki-public/home/leedt/media-outputs/jobs/leonard-go-taigi-v4.wav",
+"tier": "live404",
+"code": 404,
+"demand": 0
+},
+{
+"path": "/wiki-public/home/leedt/media-outputs/jobs/leonard-go-taigi-v3.wav",
+"tier": "live404",
+"code": 404,
+"demand": 0
+},
+{
+"path": "/wiki-public/home/leedt/media-outputs/jobs/echo-resonance-tony-ann.wav",
+"tier": "live404",
+"code": 404,
+"demand": 0
+},
+{
+"path": "/wiki-public/home/leedt/media-outputs/jobs/david-lee-song-zhtw.wav",
+"tier": "live404+was200",
+"code": 404,
+"demand": 0
+},
+{
+"path": "/wiki-public/media/shante-shawsean-chen-song.mp3",
+"tier": "live404+was200",
+"code": 404,
+"demand": 0
+},
+{
+"path": "/wiki-public/home/leedt/media-outputs/jobs/leonard-go-taigi-v2.wav",
+"tier": "live404+was200",
+"code": 404,
+"demand": 0
+},
+{
+"path": "/wiki-public/home/leedt/media-outputs/jobs/leonard-go-taigi.wav",
+"tier": "live404",
+"code": 404,
+"demand": 0
+},
+{
+"path": "/wiki-public/home/leedt/media-outputs/jobs/leonard-go-leonard.wav",
+"tier": "live404+was200",
+"code": 404,
+"demand": 0
+},
+{
+"path": "/wiki-public/home/leedt/media-outputs/jobs/david-lee-song.wav",
+"tier": "live404+was200",
+"code": 404,
+"demand": 0
+},
+{
+"path": "/wiki-public/home/leedt/media-outputs/jobs/ken-wu-quote.wav",
+"tier": "live404+was200",
+"code": 404,
+"demand": 0
+},
+{
+"path": "/wiki-public/media/",
+"tier": "live404+was200",
+"code": 404,
+"demand": 0
+},
+{
+"path": "/wiki-public/media/albert-chapter1-taiwanese-female-full.mp3",
+"tier": "live404+was200",
+"code": 404,
+"demand": 0
+},
+{
+"path": "/wiki-public/media/albert-ch01-en-christopher-v1-scratch.mp3",
+"tier": "live404+was200",
+"code": 404,
+"demand": 0
+},
+{
+"path": "/wiki-public/media/albert-00b-en-christopher-v1-scratch.mp3",
+"tier": "live404",
+"code": 404,
+"demand": 0
+},
+{
+"path": "/wiki-public/media/albert-ch02p1-en-christopher-v1-scratch.mp3",
+"tier": "live404",
+"code": 404,
+"demand": 0
+},
+{
+"path": "/wiki-public/media/albert-ch02p2-en-christopher-v1-scratch.mp3",
+"tier": "live404+was200",
+"code": 404,
+"demand": 0
+},
+{
+"path": "/wiki-public/media/albert-ch03-en-christopher-v1-scratch.mp3",
+"tier": "live404",
+"code": 404,
+"demand": 0
+},
+{
+"path": "/wiki-public/media/albert-ch04-en-christopher-v1-scratch.mp3",
+"tier": "live404",
+"code": 404,
+"demand": 0
+},
+{
+"path": "/wiki-public/media/albert-ch05-en-christopher-v1-scratch.mp3",
+"tier": "live404+was200",
+"code": 404,
+"demand": 0
+},
+{
+"path": "/wiki-public/media/albert-ch06p1-en-christopher-v1-scratch.mp3",
+"tier": "live404",
+"code": 404,
+"demand": 0
+},
+{
+"path": "/wiki-public/media/albert-ch06p2-en-christopher-v1-scratch.mp3",
+"tier": "live404+was200",
+"code": 404,
+"demand": 0
+},
+{
+"path": "/wiki-public/knowledge/web-archives/latimes/leonard-hsu-monterey-park-trail",
+"tier": "live404+was200",
+"code": 404,
+"demand": 0
+},
+{
+"path": "/wiki-public/",
+"tier": "live404+was200",
+"code": 404,
+"demand": 0
+}
+]
+}

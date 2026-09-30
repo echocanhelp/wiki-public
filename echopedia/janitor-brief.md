@@ -1,48 +1,48 @@
-## Echopedia Janitor — 2026-09-28
+## Echopedia Janitor — 2026-09-29
 - Standards v10
 - Pages with findings: **198**
 - Queued tonight (max 40): **40**
 - Queue:
-  - `people/bai-peiyu.md` age≈30.2d · NO_IDENTITY_SNAPSHOT
-  - `people/nanfang-shuo.md` age≈30.2d · NO_IDENTITY_SNAPSHOT
-  - `people/sang-pu.md` age≈30.2d · NO_IDENTITY_SNAPSHOT
-  - `people/tang-peili.md` age≈30.2d · NO_IDENTITY_SNAPSHOT
-  - `people/wang-qiaoling.md` age≈30.2d · NO_IDENTITY_SNAPSHOT
-  - `people/wang-shufen.md` age≈30.2d · NO_IDENTITY_SNAPSHOT
-  - `people/xia-ming.md` age≈30.2d · NO_IDENTITY_SNAPSHOT
-  - `people/zou-jingwen.md` age≈30.2d · NO_IDENTITY_SNAPSHOT
-  - `people/chao-sile.md` age≈6.4d · NO_TYPE, NO_IDENTITY_SNAPSHOT, NO_LAST_REVIEWED
-  - `people/du-ao-cunfu.md` age≈6.4d · NO_TYPE, NO_IDENTITY_SNAPSHOT, NO_LAST_REVIEWED
-  - `people/guan-renjian.md` age≈6.4d · NO_TYPE, NO_IDENTITY_SNAPSHOT, NO_LAST_REVIEWED
-  - `people/li-jian.md` age≈6.4d · NO_TYPE, NO_IDENTITY_SNAPSHOT, NO_LAST_REVIEWED
-  - `people/yang-yueqing.md` age≈6.4d · NO_TYPE, NO_IDENTITY_SNAPSHOT, NO_LAST_REVIEWED
-  - `people/yuan-zhihui.md` age≈6.4d · NO_TYPE, NO_IDENTITY_SNAPSHOT, NO_LAST_REVIEWED
-  - `people/huang-diyin.md` age≈1.9d · NO_TYPE, NO_IDENTITY_SNAPSHOT, NO_LAST_REVIEWED
-  - `people/lin-baohua.md` age≈1.9d · NO_TYPE, NO_IDENTITY_SNAPSHOT, NO_LAST_REVIEWED
-  - `people/fan-jiang-ti-ang.md` age≈1.9d · NO_TYPE, NO_IDENTITY_SNAPSHOT, NO_LAST_REVIEWED
-  - `people/chen-po-kong.md` age≈1.9d · NO_TYPE, NO_IDENTITY_SNAPSHOT, NO_LAST_REVIEWED
-  - `people/dr-hsing-chi-chuck-chang.md` age≈19.2d · LINK_BODY_SPARSE
-  - `people/george-lee.md` age≈19.2d · LINK_BODY_SPARSE
-  - `people/huang-yongcheng.md` age≈19.2d · NO_IDENTITY_SNAPSHOT
-  - `people/prof-sze-ya-yeh.md` age≈19.2d · LINK_BODY_SPARSE
-  - `people/dr-wei-yang-andy-lin.md` age≈18.2d · LINK_BODY_SPARSE
-  - `people/kuan-cheng-lu.md` age≈18.2d · LINK_BODY_SPARSE
-  - `people/po-wei-lai.md` age≈18.2d · LINK_BODY_SPARSE
-  - `people/deng-shuzhen.md` age≈17.2d · LINK_BODY_SPARSE
-  - `people/karen-chia-ling-ho.md` age≈16.2d · LINK_BODY_SPARSE
-  - `organizations/evergreen-senior-university-by-evangelical-formosa-church-of-irvine-esu.md` age≈15.2d · LINK_BODY_SPARSE
-  - `organizations/global-hakka-un-ngo-applying-committee-un-ngo.md` age≈15.2d · LINK_BODY_SPARSE
-  - `organizations/north-america-pastel-artist-association.md` age≈15.2d · LINK_BODY_SPARSE
-  - `organizations/westchester-taiwanese-womens-associationwtwa.md` age≈15.2d · LINK_BODY_SPARSE
-  - `people/agnes-hsu.md` age≈15.2d · LINK_BODY_SPARSE
-  - `people/dr-chi-wan-lai.md` age≈15.2d · LINK_BODY_SPARSE
-  - `people/dr-ching-c-shir.md` age≈15.2d · LINK_BODY_SPARSE
-  - `people/dr-min-chin-mary-lee.md` age≈15.2d · LINK_BODY_SPARSE
-  - `people/dr-yung-san-liang.md` age≈15.2d · LINK_BODY_SPARSE
-  - `people/feng-hsu-lee.md` age≈15.2d · LINK_BODY_SPARSE
-  - `people/grace-chung.md` age≈15.2d · LINK_BODY_SPARSE
-  - `people/hanchien-lee.md` age≈15.2d · LINK_BODY_SPARSE
-  - `people/hsien-ann-meng.md` age≈15.2d · LINK_BODY_SPARSE
-- Log: `knowledge/operational/janitor-log/2026-09-28.jsonl`
+  - `people/bai-peiyu.md` age≈31.2d · NO_IDENTITY_SNAPSHOT
+  - `people/nanfang-shuo.md` age≈31.2d · NO_IDENTITY_SNAPSHOT
+  - `people/sang-pu.md` age≈31.2d · NO_IDENTITY_SNAPSHOT
+  - `people/tang-peili.md` age≈31.2d · NO_IDENTITY_SNAPSHOT
+  - `people/wang-qiaoling.md` age≈31.2d · NO_IDENTITY_SNAPSHOT
+  - `people/wang-shufen.md` age≈31.2d · NO_IDENTITY_SNAPSHOT
+  - `people/xia-ming.md` age≈31.2d · NO_IDENTITY_SNAPSHOT
+  - `people/zou-jingwen.md` age≈31.2d · NO_IDENTITY_SNAPSHOT
+  - `people/chao-sile.md` age≈7.4d · NO_TYPE, NO_IDENTITY_SNAPSHOT, NO_LAST_REVIEWED
+  - `people/du-ao-cunfu.md` age≈7.4d · NO_TYPE, NO_IDENTITY_SNAPSHOT, NO_LAST_REVIEWED
+  - `people/guan-renjian.md` age≈7.4d · NO_TYPE, NO_IDENTITY_SNAPSHOT, NO_LAST_REVIEWED
+  - `people/li-jian.md` age≈7.4d · NO_TYPE, NO_IDENTITY_SNAPSHOT, NO_LAST_REVIEWED
+  - `people/yang-yueqing.md` age≈7.4d · NO_TYPE, NO_IDENTITY_SNAPSHOT, NO_LAST_REVIEWED
+  - `people/yuan-zhihui.md` age≈7.4d · NO_TYPE, NO_IDENTITY_SNAPSHOT, NO_LAST_REVIEWED
+  - `people/huang-diyin.md` age≈2.9d · NO_TYPE, NO_IDENTITY_SNAPSHOT, NO_LAST_REVIEWED
+  - `people/lin-baohua.md` age≈2.9d · NO_TYPE, NO_IDENTITY_SNAPSHOT, NO_LAST_REVIEWED
+  - `people/fan-jiang-ti-ang.md` age≈2.9d · NO_TYPE, NO_IDENTITY_SNAPSHOT, NO_LAST_REVIEWED
+  - `people/chen-po-kong.md` age≈2.9d · NO_TYPE, NO_IDENTITY_SNAPSHOT, NO_LAST_REVIEWED
+  - `people/dr-hsing-chi-chuck-chang.md` age≈20.2d · LINK_BODY_SPARSE
+  - `people/george-lee.md` age≈20.2d · LINK_BODY_SPARSE
+  - `people/huang-yongcheng.md` age≈20.2d · NO_IDENTITY_SNAPSHOT
+  - `people/prof-sze-ya-yeh.md` age≈20.2d · LINK_BODY_SPARSE
+  - `people/dr-wei-yang-andy-lin.md` age≈19.2d · LINK_BODY_SPARSE
+  - `people/kuan-cheng-lu.md` age≈19.2d · LINK_BODY_SPARSE
+  - `people/po-wei-lai.md` age≈19.2d · LINK_BODY_SPARSE
+  - `people/deng-shuzhen.md` age≈18.2d · LINK_BODY_SPARSE
+  - `people/karen-chia-ling-ho.md` age≈17.2d · LINK_BODY_SPARSE
+  - `organizations/evergreen-senior-university-by-evangelical-formosa-church-of-irvine-esu.md` age≈16.2d · LINK_BODY_SPARSE
+  - `organizations/global-hakka-un-ngo-applying-committee-un-ngo.md` age≈16.2d · LINK_BODY_SPARSE
+  - `organizations/north-america-pastel-artist-association.md` age≈16.2d · LINK_BODY_SPARSE
+  - `organizations/westchester-taiwanese-womens-associationwtwa.md` age≈16.2d · LINK_BODY_SPARSE
+  - `people/agnes-hsu.md` age≈16.2d · LINK_BODY_SPARSE
+  - `people/dr-chi-wan-lai.md` age≈16.2d · LINK_BODY_SPARSE
+  - `people/dr-ching-c-shir.md` age≈16.2d · LINK_BODY_SPARSE
+  - `people/dr-min-chin-mary-lee.md` age≈16.2d · LINK_BODY_SPARSE
+  - `people/dr-yung-san-liang.md` age≈16.2d · LINK_BODY_SPARSE
+  - `people/feng-hsu-lee.md` age≈16.2d · LINK_BODY_SPARSE
+  - `people/grace-chung.md` age≈16.2d · LINK_BODY_SPARSE
+  - `people/hanchien-lee.md` age≈16.2d · LINK_BODY_SPARSE
+  - `people/hsien-ann-meng.md` age≈16.2d · LINK_BODY_SPARSE
+- Log: `knowledge/operational/janitor-log/2026-09-29.jsonl`
 - Agent auto-apply: **False** (local pin only if enabled)
 - First-mention AUTO: **0**
