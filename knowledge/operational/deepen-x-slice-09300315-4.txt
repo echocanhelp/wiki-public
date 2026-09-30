@@ -1,0 +1,4 @@
+people/alan-t-chen.md
+people/professor-schuman-s-tu.md
+organizations/asian-american-social-welfaer-foundation.md
+organizations/taiwanese-student-association-at-uc-santa-barbara.md
