@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-26
+last_reviewed: 2026-09-30
 ---
 # Dr. Ei-Shun Lin (林益顯醫師)
 
@@ -60,3 +60,5 @@ From the community corpus (memoirs outrank the press-kit profile):
 > Saturate-note (deepen-x slice 09250700-30, 2026-09-25): corpus re-grep (林益顯 / Ei-Shun Lin) hit set unchanged — whos-who-2027 + ourjourneys74 中/EN + works index, all already linked. SKIP: verified-saturated.
 
 > Saturate-note (deepen-x slice 09260500-14, 2026-09-26): corpus re-grep (林益顯 / Ei-Shun Lin) hit set unchanged — whos-who-2027 + ourjourneys74 中/EN + works index, all already linked. SKIP: verified-saturated.
+
+> Saturate-note (deepen-x slice 09260854-15, 2026-09-30): corpus re-grep (林益顯 / Ei-Shun Lin) hit set unchanged — whos-who-2027 + ourjourneys74 中/EN + works index, all already linked in Role in the Community. SKIP: verified-saturated.

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-26
+last_reviewed: 2026-09-30
 ---
 # Dr. Dan-Kai Liu (劉登凱博士)
 
@@ -59,3 +59,4 @@ Dr. Liu is a leader in the Southern California Taiwanese technical community, se
 - Corpus re-grep 2026-09-25 (slice 09240700-20): hit set identical to all prior passes; every hit already absorbed above. SKIP-with-reason: no new absorbable material (verified-saturated).
 - Corpus re-grep 2026-09-26 (slice 09251000-13): fresh ZH+EN grep of content/works + content/articles — hit set identical to all prior passes; every hit already absorbed above. SKIP-with-reason: no new absorbable material (verified-saturated).
 - Corpus re-grep 2026-09-26 (slice 09260500-16): 劉登凱/Dan-Kai grep returns only my-stories-785, whos-who-2316, and the works index — all absorbed above. SKIP-with-reason: no new absorbable material (verified-saturated).
+- Corpus re-grep 2026-09-30 (slice 09260854-16): fresh ZH+EN grep of content/works + content/articles — hit set identical (my-stories-785, whos-who-2316, works index only; no article/memoir mentions). All hits already absorbed above. SKIP-with-reason: verified-saturated, nothing new absorbable.

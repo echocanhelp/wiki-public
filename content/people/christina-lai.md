@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-26
+last_reviewed: 2026-09-30
 ---
 # Christina Lai (賴李煦煦)
 
@@ -60,3 +60,4 @@ Re-grep 2026-09-25 (slice 09240317-26): fresh 賴李煦煦 / Christina Lai grep 
 
 Re-grep 2026-09-25 (slice 09250700-28): fresh 賴李煦煦 / Christina Lai grep returns only own stub #1895 + works index — already absorbed above; verified saturated. SKIP.
 Re-grep 2026-09-26 (slice 09260500-10): fresh 賴李煦煦 / Christina Lai grep returns only own stub #1895 + works index — already absorbed above; verified saturated. SKIP.
+Re-grep 2026-09-30 (slice 09260854-15): fresh 賴李煦煦 / Christina Lai grep returns only own stub #1895 + works index — already absorbed above; verified saturated. SKIP.

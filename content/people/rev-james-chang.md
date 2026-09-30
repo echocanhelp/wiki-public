@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-26
+last_reviewed: 2026-09-30
 ---
 # Rev. James Chang (張拯民牧師)
 
@@ -64,3 +64,5 @@ HOLD: name collision — the corpus also contains [[works/taiwaneseamerican-org/
 - Corpus re-grep 2026-09-24 (DEEPEN-X slice 09230700-14): ZH+EN grep adds loose 張牧師 matches in ourjourneys-364, our-journeys-350, our-journeys-357, ourjourneys231 — inspected: all refer to 張瑞雄牧師 (the Bay Area/LA Methodist–Presbyterian church pioneer), a different person from 張拯民牧師. HOLD: do not attribute those memoir passages here. Nothing new absorbable.
 - Corpus re-grep 2026-09-26 (deepen-x slice 09251000-6): hit-set unchanged (ZH 張拯民: TAH #1812 + works index only). SKIP-content: nothing new absorbable.
 - Corpus re-grep (deepen-x slice 09260500-12, 2026-09-26): ZH+EN hit-set unchanged — own TAH #1812 record, works index, and the unrelated Pop-Up Chef entry (HOLD above). SKIP-content: nothing new absorbable.
+
+- Corpus re-grep 2026-09-30 (deepen-x slice 09260854-13): ZH+EN grep adds 張牧師 matches in our-journeys-380 and ourjourneys61 — inspected: our-journeys-380's 張牧師 is 張宣信牧師 (尔灣 car-accident memorial, and his own conversion memoir — mentor Rev. Hugh MacMillan 明有德, father-in-law 張遇昌牧師), a different person from 張捋民牧師. HOLD: do not attribute those passages here. Nothing new absorbable; verified-saturated SKIP-content.
