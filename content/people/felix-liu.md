@@ -67,3 +67,5 @@ Corpus re-grep 2026-09-20 / 2026-09-21 / 2026-09-22 / 2026-09-24 (slice 09181500
 Re-grep (deepen-x 2026-09-25, slice 09250700-20): fresh ZH+EN re-grep hit set unchanged (Our Journeys #257, Who's Who #214, feature #268, works index), all already absorbed and wikilinked. SKIP-with-reason (saturated).
 
 Re-grep (deepen-x 2026-09-26, slice 09260400-19): fresh ZH+EN re-grep hit set unchanged (Our Journeys #257, Who's Who #214, feature #268, works index), all already absorbed and wikilinked. SKIP-with-reason (saturated).
+
+Re-grep (deepen-x 2026-09-30, slice 09260800-7): fresh ZH+EN re-grep (劉富理 / Felix Liu, works+articles) hit set unchanged (Our Journeys #257, Who's Who #214, feature #268, works index), all already absorbed and wikilinked. SKIP-with-reason (saturated).
