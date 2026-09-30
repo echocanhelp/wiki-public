@@ -44,4 +44,5 @@ last_reviewed: 2026-09-30
 - [[people/freeman-huang||Freeman Huang (黃樹人)]]
 - Re-grep 2026-09-25 (slice 09250700-22): identical picture — 0 hits in `content/works`; `content/articles` hits remain taiwanjustice.net reportage/tag indexes (e.g. 2026-01-20 tag_藍白合作, tag_代理主席). No diaspora community facts absorbable; SKIP-content stands.
 - Re-grep 2026-09-26 (slice 09260400-17): identical picture — 0 hits in `content/works`; `content/articles` hits remain taiwanjustice.net reportage/tag indexes (e.g. 森喜朗弔唁團 clip: 柯父母現身台北賓館弔唁李登輝). No diaspora community facts absorbable; SKIP-content stands.
+- Re-grep 2026-09-30 (slice 09260800-3): identical picture — 0 hits in `content/works`; `content/articles` hits remain taiwanjustice.net reportage/tag indexes (e.g. 2026-01-20 tag_藍白合作 / tag_藍白拖 / tag_代理主席, 森喜朗弔唁團 clip). No diaspora community facts absorbable; SKIP-content stands.
 
