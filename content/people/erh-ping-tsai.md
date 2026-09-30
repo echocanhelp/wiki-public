@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-26
+last_reviewed: 2026-09-30
 ---
 # Erh-Ping Tsai (蔡爾平)
 
@@ -61,3 +61,4 @@ last_reviewed: 2026-09-26
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- Corpus re-check 2026-09-30 (slice 09260854-11): fresh grep 蔡爾平/Erh-Ping Tsai/Erhping Tsai — same hit set (videos53/videos54/84/1511, works index, 一步一腳印 article index), all already linked. Verified-saturated; SKIP-content, no conflicts to HOLD.
