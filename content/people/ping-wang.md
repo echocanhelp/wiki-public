@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-27
+last_reviewed: 2026-09-30
 ---
 # Ping Wang (王秉訓)
 
@@ -59,3 +59,5 @@ _No filled family fields on the TAH profile._
 Corpus re-check 2026-09-26 (deepen-x slice 09251000-16): fresh ZH+EN grep — hit set identical (whoswho1194, 糖尿病與你 TJJ article, TJJ 保健類目, MANIFEST, 200-hann-ping-wang=王漢平 false positive, works index), all absorbed. Verified-saturated SKIP.
 
 <!-- TJJ-A09260500-9: verified 2026-09-27 — slice 09260500-9 4 篇（b7327dcf TAA Archives Newsletter / 95fd8186 洛杉磯會館228追思77年 / 26f76359 糖尿病與你 / a1b56965 彭明敏研討會）正文再驗證——subject 連結為真實提及，無錯鏈、無虛鏈；含該文 wikilink 的日期事實條目已在庫 — saturated, no new material. -->
+
+<!-- deepen-x slice 09260700-25 re-verify 2026-09-30: fresh ZH+EN grep — hit set identical (whoswho1194, 200-hann-ping-wang=王漢平 false positive, works index, MANIFEST, two cited TJJ pages). 王漢平 disambiguation re-checked and stands. Verified-saturated; no new absorbable facts. -->

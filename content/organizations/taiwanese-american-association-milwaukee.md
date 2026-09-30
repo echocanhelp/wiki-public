@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-26
+last_reviewed: 2026-09-30
 ---
 # Taiwanese American Association Milwaukee (密爾瓦基台灣同鄉會)
 
@@ -41,3 +41,5 @@ The Taiwanese American Association Milwaukee (TAAM, 密爾瓦基台灣同鄉會)
 > SKIP-note (deepen-x slice 09250700-18, 2026-09-25): fresh ZH+EN re-grep — hits unchanged: the chapter's own bibliographic record, ourjourneys81 中/EN, the film-fest item, and generic Milwaukee news. No TAAM chapter activity, nothing absorbable. SKIP: verified-saturated.
 
 > SKIP-note (deepen-x slice 09260400-11, 2026-09-26): fresh ZH+EN re-grep — hits unchanged: the chapter's own bibliographic record (milwaukee-chapter-taa), ourjourneys81 中/EN, the film-fest item, and generic Milwaukee/Wisconsin news. No TAAM chapter activity. SKIP: verified-saturated.
+
+> SKIP-note (deepen-x slice 09260700-25, 2026-09-30): fresh ZH+EN re-grep — hits unchanged: the chapter's own bibliographic record (milwaukee-chapter-taa), ourjourneys81 中/EN, ourjourneys277 (UW-Madison 台灣布袋戲團 memoir — Milwaukee-city mentions only: 1997 Moon Festival debut; 鄭良福 couple puppet donation, no TAAM chapter activity), the film-fest item, and generic Milwaukee news. No TAAM chapter activity. SKIP: verified-saturated.

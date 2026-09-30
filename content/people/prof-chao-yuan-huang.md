@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-27
+last_reviewed: 2026-09-30
 ---
 # Prof. Chao Yuan Huang (黃昭淵教授)
 
@@ -62,3 +62,5 @@ Re-grep 2026-09-22 (slice 09211400-13): corpus hits (黃昭淵 / Chao Yuan Huang
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+- 複核（deepen-x slice-09260700-25, 2026-09-30）：fresh grep 黃昭淵／Chao Yuan Huang（works + articles）hit set identical（#623、OJ74 ZH+EN、OJ37 ZH+EN）— 全數已吸收。SKIP, verified-saturated.
