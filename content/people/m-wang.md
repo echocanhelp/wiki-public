@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-30
 ---
 # M. Wang (陳美霞)
 
@@ -35,6 +35,7 @@ last_reviewed: 2026-09-25
 - 早在 1994 年明州文化展「Tapestry Fabric and Textile」主題時，吳朱實記述：向台南民權路佛俱店訂製的故意未完成金蔥繡彩布，即由「王美霞」（夫家稱呼，即本頁陳美霞）带回美國（[[works/taiwaneseamericanhistory-org/ourjourneys15|15. 點滴回顧明州文化展 / 吳朱實 /2014/09]]）——顯示她自 1990 年代起即長期扮演台灣—明州文化展的台美聯絡角色。
 - 2026-09-25 覆核（deepen-x 09250500-1）：fresh ZH+EN grep 僅再添 works/index 書目列舉及一篇 taiwanjustice-net 政治報導（文中「Mr Wang」為王金平 Wang Jin-pyng，字串誤配非本頁人物，勿合併）；無新社群事蹟。
 - 另有劉進興散文〈556. 美霞〉（[[works/taiwaneseamericanhistory-org/mystories556|mystories556]]，2017-07-05）以其為題；本庫僅存書目紀錄，全文在 TAH vault，暫無可吸收內容。HOLD: mystories556 是否即寫本頁陳美霞，待全文核對（同名「美霞」，夫家稱王美霞，與本頁吻合度高但未見本名佐證）。
+- 2026-09-30 覆核（deepen-x 09260800-19）：fresh ZH+EN grep（含「美霞」寬字串）僅再添 ourjourneys15 / ourjourneys223 兩篇（1994/2016 明州台灣文化展的猴子燈籠與繡彩布，已吸收於上）與其書目列舉；mystories556 覆核確認為書目紀錄（full text 在 vault），HOLD 維持。SKIP — saturated。
 
 ## Family
 
