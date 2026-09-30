@@ -11127,6 +11127,10 @@ Chronological events for **李堅**:
 - **2011-11-09** 🎤 兩岸關係
 - **2011-11-25** 🎤 中國新聞
 
+## From the record
+
+- 複核（TJJ-A09260800-13, 2026-09-30）：本 slice 文章 c351c962b4545bfa／c92664485ca4c1a7（English Pages p2/p3 目錄頁快照）正文再驗證——李堅為 2019-09-04 台派連署文之轉貼轉載來源（「李堅專欄」欄僅為站內導航標籤），非其親撰文章；連結為真（轉載歸屬），無錯鏈、無虛鏈 — SKIP，無新材料。
+
 ## Related Pages
 
 - [[sources/taiwanjustice-net]]
