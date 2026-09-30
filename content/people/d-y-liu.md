@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-26
+last_reviewed: 2026-09-30
 ---
 # D. Y. Liu (劉德勇)
 
@@ -53,3 +53,5 @@ last_reviewed: 2026-09-26
 <!-- deepen-x 09251000-11: re-verify 2026-09-25 — fresh grep (ZH+EN, works+articles): identical hits to prior re-verifies, all already absorbed/wikilinked (STSA 2025 hits are archive_digest hash false positives). Verified saturated; SKIP-no-new-facts. -->
 <!-- deepen-x 09250317-16: re-verify 2026-09-25 — fresh grep (ZH+EN, works+articles): hit set identical to prior re-verifies, all already absorbed/wikilinked (STSA hits = 2025 archive_digest hash false positives). Verified saturated; SKIP-no-new-facts. -->
 <!-- deepen-x 09251435-1: re-verify 2026-09-26 — fresh grep (劉德勇/D. Y. Liu, works+articles): hit set identical to prior re-verifies (ourjourneys217, ourjourneys270, whoswho1854, index; TJJ 劉德華 hits are unrelated name noise). All absorbed above. Verified saturated; SKIP-no-new-facts. -->
+
+- 2026-09-30 deepen-x slice 09260800-20: re-verified — fresh grep (劉德勇/D. Y. Liu, works+articles): hit set identical to prior re-verifies (ourjourneys217, ourjourneys270, whoswho1854, index). All absorbed above. Verified saturated; SKIP-no-new-facts.

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-26
+last_reviewed: 2026-09-30
 ---
 # Suing Wang (王淑英)
 
@@ -57,3 +57,5 @@ last_reviewed: 2026-09-26
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+- Re-verify 2026-09-30 (slice 09260800-20): fresh grep (王淑英/Suing Wang) — hit set identical (#155, publication944, publication945, #842, index); all linked above; nothing new absorbable. Verified-saturated. SKIP.
