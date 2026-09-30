@@ -62,3 +62,5 @@ last_reviewed: 2026-09-26
 
 - Corpus re-scan 2026-09-26 (slice 09250900-31): fresh grep (incl. -E 泰德安德森) — hit set unchanged (TAH #322, #271, #911, #57, #541 + index); verified-saturated, SKIP-deepen.
 - Corpus re-scan 2026-09-26 (slice 09260500-4): fresh grep (incl. -E 泰德安德森) — hit set unchanged (TAH #322, #271, #911, #57, #541 + index); verified-saturated, SKIP-deepen.
+
+Corpus re-verify (deepen-x slice 09260854-7, 2026-09-30): fresh ZH+EN grep of works/ + articles/ returns the identical hit set to the links already absorbed above — no memoir or body-text mentions beyond them. SKIP: verified-saturated. (TJJ 化作千風 article body re-checked; only detail beyond absorbed links is the 余忠村 yield-seat episode, already covered by the chair-for-over-a-decade record — no conflict)

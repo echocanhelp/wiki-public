@@ -57,3 +57,5 @@ Corpus re-verify (deepen-x slice 09240700-7, 2026-09-25): fresh Sheng Wang grep 
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 Corpus re-verify (deepen-x slice 09250900-31, 2026-09-26): fresh grep returns the identical hit set — own TaiwaneseAmerican.org press records plus the works index; SKIP-deepen confirmed.
 Corpus re-verify (deepen-x slice 09260500-6, 2026-09-26): fresh grep again returns the identical hit set — own TaiwaneseAmerican.org press records plus the works index; SKIP-deepen confirmed.
+
+Corpus re-verify (deepen-x slice 09260854-7, 2026-09-30): fresh ZH+EN grep of works/ + articles/ returns the identical hit set to the links already absorbed above — no memoir or body-text mentions beyond them. SKIP: verified-saturated.

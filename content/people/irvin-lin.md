@@ -63,3 +63,5 @@ slice 09240317-23 re-grep (2026-09-25): fresh ZH+EN corpus grep; hit set identic
 slice 09250700-25 re-grep (2026-09-25): fresh 林斐強/Irvin Lin grep; hit set identical — #234 / #1431 / #1052 / #493 plus index listings; no new memoir material. SKIP: verified-saturated.
 
 slice 09260500-5 re-grep (2026-09-26): fresh 林斐強/Irvin Lin grep; hit set identical — #234 / #1431 / #1052 / #493 plus index listings; no new memoir material. SKIP: verified-saturated.
+
+Corpus re-verify (deepen-x slice 09260854-7, 2026-09-30): fresh ZH+EN grep of works/ + articles/ returns the identical hit set to the links already absorbed above — no memoir or body-text mentions beyond them. SKIP: verified-saturated.

@@ -61,3 +61,5 @@ slice 09240317-25 re-grep (2026-09-25): fresh 董俊蘭/C. L. Tong grep returned
 slice 09250700-25 re-grep (2026-09-25): fresh 董俊蘭/C. L. Tong grep; hit set identical (ourjourneys14, ourjourneys43, #1698, works/index) — no new absorbable facts. SKIP: verified-saturated.
 
 slice 09260500-4 re-grep (2026-09-26): hit set identical (ourjourneys14, ourjourneys43, #1698, works/index) — all absorbed above; no new absorbable facts. SKIP: verified-saturated.
+
+Corpus re-verify (deepen-x slice 09260854-7, 2026-09-30): fresh ZH+EN grep of works/ + articles/ returns the identical hit set to the links already absorbed above — no memoir or body-text mentions beyond them. SKIP: verified-saturated.
