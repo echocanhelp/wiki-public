@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-26
+last_reviewed: 2026-09-30
 ---
 # Fu-Mei Wu Chen (陳吳富美)
 
@@ -49,6 +49,8 @@ last_reviewed: 2026-09-26
 - 2026-09-24（slice 09230800-29）再grep：命中集與上列完全一致（mystories27/157/190/498、publications1154、whos-who-327）；無新事實。verified-saturated。
 - 2026-09-25（slice 09240800-26）再grep：命中集不變（mystories27/157/190/498、publications1154、whos-who-327）；無新事實。verified-saturated。
 - 2026-09-26（slice 09251400-9）再grep：命中集不變（mystories27/157/190/498、publications1154、whos-who-327、收藏紀錄）；無新事實。verified-saturated。
+
+- 2026-09-30 (slice 09260854-24) re-grep (陳樂富美／Fu-Mei Wu Chen, works+articles): hit set unchanged (mystories27/157/190/498, publications1154, whos-who-327) — all already absorbed and wikilinked above. No new corpus facts. Verified-saturated; SKIP-for-new-facts.
 
 ## Sources
 - [TAH #327 encyclopedia: 327. Fu-Mei Wu Chen 陳吳富美/2015/03](https://taiwaneseamericanhistory.org/whos-who-327-fu-mei-wu-chen/)
