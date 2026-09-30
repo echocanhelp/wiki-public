@@ -54,3 +54,4 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+<!-- deepen-x 09260800-24: verified-saturated — corpus re-scan (works/articles) fresh 2026-09-30 for 洪明奇/Mien-Chie Hung: identical hit set (own entry 271, winners41 award, works/index listing) — all already linked; SKIP-no-new-facts. -->

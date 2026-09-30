@@ -51,3 +51,4 @@ last_reviewed: 2026-09-26
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - 2026-09-25 (slice 09250317-10): corpus re-grepped — hits remain only 明州大事紀 ourjourneys123 (2007 Honeywell 終身成就獎, 2010 同鄉會會長 — absorbed) + own TAH #155 record; SKIP, no new facts.
 - 2026-09-26 (slice 09251500-3): corpus re-grepped again — hits unchanged (明州大事紀 ourjourneys123 + own TAH #155 + works/index listing); no new facts, SKIP.
+<!-- deepen-x 09260800-24: corpus re-grepped 2026-09-30 (劉協同/Sie-Tung Liu): hits unchanged — 明州大事紀 ourjourneys123 (2007 Honeywell 終身成就獎, 2010 同鄉會會長 — absorbed), own TAH #155 record, and works/index listing; no new facts, SKIP. -->
