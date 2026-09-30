@@ -53,3 +53,4 @@ last_reviewed: 2026-09-30
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - Corpus re-check 2026-09-26 (slice 09260500-22): fresh grep returns the identical hit set — [[works/taiwaneseamericanhistory-org/whos-who-2105-j-c-cheng|2105]], [[works/taiwaneseamericanhistory-org/ourjourneys305|305]], works index. Verified-saturated, nothing new absorbable.
+- Corpus re-check 2026-09-30 (slice 09260854-16): fresh ZH+EN grep returns the identical hit set — 2105, 305 (both fully absorbed above), works index. Verified-saturated, nothing new absorbable.
