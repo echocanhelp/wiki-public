@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-26
+last_reviewed: 2026-09-30
 ---
 # The Chuan Lyu Foundation (川流基金會)
 
@@ -48,3 +48,5 @@ Corpus re-grep 2026-09-26 (deepen-x slice 09260500-5): fresh grep returned the i
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+Corpus re-grep 2026-09-30 (deepen-x slice 09260854-6): fresh grep works/ + articles/ for 川流基金會/Chuan Lyu — hit set identical to the program records already wikilinked above (#18/#30/#38/#39/#84/#384/#385 + the #418 林霞 literary-piece disambiguation + works index). Verified-saturated; nothing new absorbable.

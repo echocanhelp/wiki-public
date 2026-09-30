@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-26
+last_reviewed: 2026-09-30
 ---
 # C. K. Lee (李世光)
 
@@ -60,3 +60,5 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+- Corpus re-scan 2026-09-30 (deepen-x slice 09260854-6): fresh grep (李世光／C. K. Lee) — hits unchanged (TAH #783, #15 返台任教 1994, Our Journeys 310, works index); OJ310 政府要員博士群 list and 鄭昭夫 鄉訊 detail verbatim re-confirmed. SKIP-content (verified-saturated); nothing new absorbable, no conflicts to HOLD.

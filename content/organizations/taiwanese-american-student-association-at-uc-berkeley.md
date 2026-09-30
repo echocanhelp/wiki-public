@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-26
+last_reviewed: 2026-09-30
 ---
 # Taiwanese American Student Association at UC Berkeley
 
@@ -38,3 +38,5 @@ Fresh greps 2026-09-20 / 2026-09-21 / 2026-09-22 / 2026-09-23 / 2026-09-24 (slic
 Fresh re-grep 2026-09-25 (slice 09240400-10): TASA/Berkeley hits in content/works are the same linked records plus false positives (our-journeys-350/390 = 灣區教會 memoir Berkeley church locations; history-of-itasa = no Berkeley mention). SKIP-for-deepening, saturated.
 Fresh re-grep 2026-09-25 (slice 09250800-17): TASA hits in content/works = same linked records + ITASA-general files (176 Keimay Yang memorial, newsletter-itasa, 578 ITASA 1998-1999) verified to contain no Berkeley mention; ourjourneys173-eng = seniors-association false positive. SKIP-for-deepening, saturated.
 Fresh re-grep 2026-09-26 (slice 09260500-16): hit set identical — our-journeys-350/390 (灣區教會 memoir false positives), ourjourneys173-eng (seniors-association false positive), ourjourneys157, history-of-itasa, 677 (language class, already linked as related-thread). SKIP-for-deepening, verified-saturated.
+
+Fresh re-grep 2026-09-30 (deepen-x slice 09260854-6): hit set identical — the 4 linked TASA event records + writing-journey-2 (Shawna Yang Ryan memoir-adjacent author note: author sat on a Berkeley TASA career panel ~2003-era; no new dated wiki fact) + works index. Verified-saturated, nothing new absorbable.
