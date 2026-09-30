@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-26
+last_reviewed: 2026-09-30
 ---
 # Remii Huang (黃婕妤)
 
@@ -55,3 +55,4 @@ _No filled family fields on the TAH profile._
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - Corpus re-checked 2026-09-26 (slice 09260500-22): fresh grep 黃婕妤/Remii Huang returns the same hit set (own TAH record #2078, natwa2con, index). No new community material; film-attribution HOLD stands. Verified-saturated; SKIP-content.
+- Corpus re-checked 2026-09-30 (slice 09260854-19): fresh grep 黃婕妤/Remii Huang returns the same hit set (own TAH record #2078, natwa2con, index). No new community material; film-attribution HOLD stands. Verified-saturated; SKIP-content.

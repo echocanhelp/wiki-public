@@ -6,7 +6,7 @@ name_zh: "蔡瀛如"
 tags: [person, family]
 verification_status: owner-verified
 publish: false  # owner gate 2026-09-20: family-privacy; vault keeps full record, site must not emit
-last_reviewed: 2026-09-26
+last_reviewed: 2026-09-30
 ---
 # Tsai Ying-ju (蔡瀛如)
 
@@ -41,3 +41,4 @@ last_reviewed: 2026-09-26
 ## NEED YOU
 - Birth date/place; marriage date
 - 本頁 corpus 檢索（2026-09-26, DEEPEN-X slice 09260500-22）：全名 蔡瀛如／Tsai Ying-ju 於 works/articles 零命中；短名 瀛如 唯一命中仍為 ourjourneys340（已吸收並 wikilink）— SKIP：無新可吸收事實。
+- 本頁 corpus 檢索（2026-09-30, DEEPEN-X slice 09260854-19）：全名 蔡瀛如／Tsai Ying-ju 於 works/articles 零命中；短名 瀛如 唯一命中仍為 ourjourneys340（已吸收並 wikilink）— SKIP：無新可吸收事實。
