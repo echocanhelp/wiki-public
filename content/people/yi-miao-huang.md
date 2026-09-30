@@ -59,3 +59,5 @@ _No filled family fields on the TAH profile._
 - Re-grep 2026-09-25 (slice 09250700-26): hit set identical (22-welly-yang own record, ILF announcement, works/index) — all already absorbed. Verified saturated; STUF vs Starside HOLD stands. SKIP-with-reason.
 
 > Corpus re-grep (slice 09260500-7, 2026-09-26): fresh ZH+EN grep — hit set identical to records already absorbed and linked above; no new absorbable corpus facts. SKIP: verified-saturated.
+
+- Corpus re-grep (slice 09260854-9, 2026-09-30): fresh ZH+EN grep — hit set identical to records already absorbed and linked above (verified by re-grep this run). No new absorbable community facts. SKIP: verified-saturated.
