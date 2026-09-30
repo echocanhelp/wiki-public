@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-26
+last_reviewed: 2026-09-30
 ---
 # Tony Chen (陳國洸)
 
@@ -38,7 +38,7 @@ last_reviewed: 2026-09-26
 
 ## Role in the Community
 - Early Taiwanese student movement in Austin, Texas: 吳木盛 hand-picked 陳國洸 among the students he invited to his home to start Taiwanese student activity in the conservative US South — the full picked roster per the memoir: 楊正義、李隼三、邱忠南、吳勝吉、陳國洸、洪堯本、江慶章、余燦旺、林峰生、盧肇基. These dinners became regular meetings and led to the founding of the Austin Taiwanese hometown association (会长: 吳木盛, agreed after 2–3 monthly outings), per 吳木盛's memoir [[works/taiwaneseamericanhistory-org/ourjourneys76|76. 全美台灣同鄉會/吳木盛/12/2014]] (band A — primary memoir; English version [[works/taiwaneseamericanhistory-org/ourjourneys76-eng|here]]).
-- TAHS-published writer: [[works/taiwaneseamericanhistory-org/83-e5-8f-b0-e7-81-a3-e6-83-85-e6-bc-82-e6-b3-8a-e5-bf-83-e9-99-b3-e5-9c-8b-e6-b4|83. 台灣情 漂泊心 / 2003-01 文學]] and [[works/taiwaneseamericanhistory-org/publications1000|1000. 相思情曲‧夢 / 2016-03 生活]].
+- TAHS-published writer: [[works/taiwaneseamericanhistory-org/83-e5-8f-b0-e7-81-a3-e6-83-85-e6-bc-82-e6-b3-8a-e5-bf-83-e9-99-b3-e5-9c-8b-e6-b4|83. 台灣情 漂泊心 / 2003-01 文學]], [[works/taiwaneseamericanhistory-org/409-e8-90-bd-e5-9c-b0-e7-94-9f-e6-a0-b9-e9-99-b3-e5-9c-8b-e6-b4-b8200608-e6-96-8|409. 落地生根 / 2006-08 文學]] and [[works/taiwaneseamericanhistory-org/publications1000|1000. 相思情曲‧夢 / 2016-03 生活]].
 - His memoir piece [[works/taiwaneseamericanhistory-org/80-e9-99-b3-e5-9c-8b-e6-b4-b8-e5-bc-94-e5-bf-b5-e4-ba-a1-e5-a6-bb-ef-bc-9a-e6-80|80. 弔念亡妻李文枝：思念妳]] corroborates the Family entry 李文枝 (deceased) and documents him as a TAHS contributor.
 - Who's Who bibliographic record: [[works/taiwaneseamericanhistory-org/whos145|145. Tony Chen 陳國洸 / 2014/12]] (band B).
 - Corpus re-grep 2026-09-21 (slice 09201500-11): hit set unchanged (ourjourneys76 + -eng, works 83/80/1000, whos145) — the -eng memoir copy carries the same Austin roster (Tony Chen among 吳木盛's ten picks) with no extra facts. SKIP-for-deepening: page already carries the full community record.
@@ -57,3 +57,4 @@ last_reviewed: 2026-09-26
 > SKIP-note (deepen-x slice 09240400-3, 2026-09-25): fresh ZH+EN re-grep — hit set identical to the linked set (ourjourneys76 + -eng, works 83/80/1000, whos145); Austin 學生活動 roster, 同鄉會 founded after 2–3 outings under 吳木盛, and his literary pieces all already absorbed. SKIP: verified-saturated.
 > SKIP-note (deepen-x slice 09250700-19, 2026-09-25): fresh ZH+EN re-grep (陳國洸 / Tony Chen) — hit set identical to the linked set (ourjourneys76 + -eng, works 83/80/1000, whos145); nothing new absorbable. SKIP: verified-saturated.
 > SKIP-note (deepen-x slice 09260400-13, 2026-09-26): fresh ZH+EN re-grep — hit set identical (ourjourneys76 + -eng, works 83/80/1000, whos145); nothing new absorbable. SKIP: verified-saturated.
+> SKIP-note (deepen-x slice 09260700-31, 2026-09-30): fresh ZH+EN re-grep — one new work page linked this pass: 409. 落地生根 (his own literary record, previously unlinked). No other new 陳國洸 material; roster-name co-mentions in ourjourneys76/chun-san-lee/dr-tsann-wang-yu already absorbed. Verified-saturated.

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-26
+last_reviewed: 2026-09-30
 ---
 # Prof. Maw-Kuen Wu (吳茂昆教授)
 
@@ -54,6 +54,7 @@ _No filled family fields on the TAH profile._
 - 2026-09-25 deepen-x slice 09240700-8: re-verify SKIP — fresh ZH+EN grep again returns only 142, 646, works index, and the two linked TJJ records ([[articles/taiwanjustice-net/2023/20230322155952_tag_貪汙_e509e1f4141f5c8a|貪汙 tag]], [[articles/taiwanjustice-net/2025/20250518215329_論文案-陳其邁_3分鐘可解決為何要拖著_民進黨批_99294ec7acb0fca8|TJJ 2025-05-18]]); no memoir mentions, tenure HOLD stands.
 - 2026-09-26 deepen-x slice 09250900-22: re-verify SKIP — fresh ZH+EN grep (吳茂昆 / Maw-Kuen Wu) returns the identical hit set (142, 646, works index, two linked TJJ records); verified saturated, nothing new absorbable, tenure HOLD stands.
 - 2026-09-26 deepen-x slice 09260400-13: re-verify SKIP — fresh ZH+EN grep hit set identical (142, 646, works index, two linked TJJ records); saturated, tenure HOLD stands.
+- 2026-09-30 deepen-x slice 09260700-31: re-verify SKIP — fresh ZH+EN grep (吳茂昆 / Maw-Kuen Wu) returns the identical hit set (142, 646, works index, two linked TJJ records); no memoir mentions anywhere in works/articles. Verified saturated, tenure HOLD stands.
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
