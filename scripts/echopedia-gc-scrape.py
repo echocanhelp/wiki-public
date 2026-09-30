@@ -27,8 +27,10 @@ def login_and_fetch(base, email, pw):
     op = urllib.request.build_opener(urllib.request.HTTPCookieProcessor(cj))
     data = urllib.parse.urlencode({"email": email, "password": pw}).encode()
     op.open(urllib.request.Request(base + "/user/requestlogin", data=data), timeout=30)
-    html_txt = op.open(base + "/", timeout=30).read().decode("utf-8", errors="replace")
-    return html_txt
+    return op  # session kept; fetch pages via op.open()
+
+def fetch_page(op, path):
+    return op.open(path, timeout=30).read().decode("utf-8", errors="replace")
 
 def main():
     ap = argparse.ArgumentParser()
@@ -42,27 +44,35 @@ def main():
         sys.exit(2)
 
     import html as h
-    page = login_and_fetch(args.base, email, pw)
+    op = login_and_fetch(args.base, email, pw)
+    # ?period=7d renders the true 7-day window (verified live 2026-09-27);
+    # root without param = default 30d view. Scrape the tightest honest window.
+    try:
+        page = fetch_page(op, args.base + "/?period=7d")
+    except Exception:
+        page = fetch_page(op, args.base + "/")
 
-    tot = re.search(r'class="total">\((\d+)\)<', page)
-    shown = re.search(r'class="total-display">\((\d+)\)<', page)
+    tot = re.search(r'class="total">\(?(\d+)\)?<', page)
+    shown = re.search(r'class="total-display">\(?(\d+)\)?<', page)
     counts = {p: int(c) for p, c in re.findall(r'<tr id="(/wiki-public[^"]*?)"[^>]*data-count="(\d+)"', page)}
 
-    # site-wide daily series: chart widgets named e.g. 'totalpages'/'pages' with data-stats
+    # per-row 7-day daily series: rows carry <tr id="/wiki-public/path" ... data-count="N">
+    # then a data-stats="[{"day":..,"hourly":[24],"daily":n,...}]" (keys: day/hourly/daily;
+    # HTML-escaped JSON). Per-page series only — GoatCounter renders no site-wide daily map.
     per_day = {}
-    wm = re.search(r'data-widget="total"[^>]*data-stats="(.*?)"', page)
-    if not wm:
-        wm = re.search(r'data-stats="(\[\{&quot;d&quot;[^\"]*?)&quot;"', page)
-    if wm:
+    for m in re.finditer(r'<tr id="(/wiki-public[^"]*?)"[^>]*data-count="\d+"(.*?)</tr>', page, re.S):
+        sm = re.search(r'data-stats="(.*?)"', m.group(2), re.S)
+        if not sm:
+            continue
         try:
-            series = json.loads(h.unescape(wm.group(1)))
-            for item in series:
-                day = item.get("d") or item.get("label")
-                val = item.get("v") if "v" in item else item.get("value")
-                if day and val:
-                    per_day[day] = per_day.get(day, 0) + int(val)
+            series = json.loads(h.unescape(sm.group(1)))
         except Exception:
-            pass
+            continue
+        for item in series:
+            day = item.get("day")
+            val = item.get("daily")
+            if day and val:
+                per_day[day] = per_day.get(day, 0) + int(val)
 
     out = {
         "scraped": time.strftime("%Y-%m-%d"),
