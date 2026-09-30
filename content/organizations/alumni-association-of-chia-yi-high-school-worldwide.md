@@ -41,6 +41,8 @@ Re-grep 2026-09-26 (slice 09250800-15): 嘉中/嘉義高中校友/AACHW/Chia Yi 
 
 Re-grep 2026-09-26 (slice 09260400-15): 嘉中校友/嘉義中學校友/Chia Yi High School/AACHW returns exactly the cited set — verified saturated, no new facts, HOLD stands.
 
+Re-grep 2026-09-30 (slice 09260800-6): 嘉中/嘉義高中/Chia Yi High School/AACHW across works+articles returns the same cited set (sccaa, 年刊 592, 12-62, index, 鄭炳全 memoir ×2 captures) plus a Pew statement page with no 嘉中 content — verified saturated, no new facts, HOLD stands.
+
 ## Source Notes
 
 - **Content priority A:** Name on Taiwan Center group-members page  

@@ -6,7 +6,7 @@ tags:
   - Taiwanese-American
   - Taiwan-Center-group-member
 verification_status: published
-last_reviewed: 2026-09-26
+last_reviewed: 2026-09-30
 ---
 # Acevedo Music & Art Education Foundation Inc
 
@@ -55,3 +55,5 @@ HOLD: the same concert write-up names the trio's pianist once as 「黃煐煐」
 2026-09-26 re-grep (黃煐媖 / Acevedo Music, DEEPEN-X slice 09251000-5): same hit set (65-yin-yin-huang, concerts104, index, 2024+2025 concert reposts, unrelated Paraguayan Acevedo news under HOLD) — SKIP-content: verified-saturated, nothing new absorbable.
 
 2026-09-26 re-grep (黃煐媖 / Acevedo Music, DEEPEN-X slice 09260400-28): same hit set (65-yin-yin-huang, concerts104, index, 2024+2025 concert write-ups, unrelated Paraguayan Acevedo under HOLD) — SKIP-content: verified-saturated, nothing new absorbable; 黃煐煐/黃煐媖 typo HOLD stands.
+
+2026-09-30 re-grep (黃煐媖 / Acevedo Music, DEEPEN-X slice 09260800-12): same hit set (concerts104, index) — SKIP-content: verified-saturated, nothing new absorbable; 黃煐煐/黃煐媖 typo HOLD stands.
