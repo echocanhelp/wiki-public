@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-26
+last_reviewed: 2026-09-30
 ---
 # Michael Chong
 
@@ -52,3 +52,5 @@ _No filled family fields on the TAH profile._
 - Re-scan 2026-09-25 (slice 09240700-23): identical hit set (own #1398 record, index, the four already-linked HFX/馬侃獎 articles about MP 莊文浩). SKIP, nothing new absorbable about the Silicon Valley Talent founder; identity HOLD maintained.
 - Re-scan 2026-09-26 (slice 09251000-12): fresh grep Michael Chong — identical hit set (own #1398 record, works index, the four linked HFX/馬侃獎 articles, all about MP 莊文浩). Verified-saturated SKIP; identity HOLD maintained.
 - Corpus re-grep 2026-09-26 (slice 09260500-17): fresh ZH+EN grep of content/works + content/articles — hit set identical to all prior passes; every hit already absorbed and linked above. SKIP-with-reason: no new absorbable material (verified-saturated).
+
+- Re-scan 2026-09-30 (slice 09260854-13): fresh ZH+EN grep adds [[articles/taiwanjustice-net/2023/20230505175602_2023_05_04_加拿大議員批北京後遭恐嚇_外長_考慮驅逐中國_fa3e6b48519985f0|加拿大議員批北京後遭恐嚇]] (2023 — MP 莊文浩 questioned a Chinese diplomat who tailed his Hong Kong family, prompting MOFA minister Melanie Joly to consider expulsion) and a 2025 republication of the Commons 266-0 motion (20250317173614). All new hits are about the MP 莊文浩, not the Silicon Valley Talent founder — identity HOLD maintained, verified-saturated SKIP.

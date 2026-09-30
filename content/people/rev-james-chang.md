@@ -66,3 +66,5 @@ HOLD: name collision — the corpus also contains [[works/taiwaneseamerican-org/
 - Corpus re-grep (deepen-x slice 09260500-12, 2026-09-26): ZH+EN hit-set unchanged — own TAH #1812 record, works index, and the unrelated Pop-Up Chef entry (HOLD above). SKIP-content: nothing new absorbable.
 
 - Corpus re-grep 2026-09-30 (deepen-x slice 09260854-13): ZH+EN grep adds 張牧師 matches in our-journeys-380 and ourjourneys61 — inspected: our-journeys-380's 張牧師 is 張宣信牧師 (尔灣 car-accident memorial, and his own conversion memoir — mentor Rev. Hugh MacMillan 明有德, father-in-law 張遇昌牧師), a different person from 張捋民牧師. HOLD: do not attribute those passages here. Nothing new absorbable; verified-saturated SKIP-content.
+
+- Corpus re-grep 2026-09-30 (deepen-x slice 09260854-13): ZH+EN grep adds 張牧師 matches in our-journeys-380 and ourjourneys61 — inspected: our-journeys-380's 張牧師 is 張宣信牧師 (爾灣 car-accident memorial, and his own conversion memoir — mentor Rev. Hugh MacMillan 明有德, father-in-law 張逢昌牧師), a different person from 張拯民牧師. HOLD: do not attribute those passages here. Nothing new absorbable; verified-saturated SKIP-content.
