@@ -59,3 +59,5 @@ Corpus re-grep 2026-09-25 (slice 09240600-28): 鄭昭任/"Jim Chen" greps return
 Corpus re-grep 2026-09-26 (slice 09250900-28): fresh 鄭昭任 / Jim T. R. Chen / "Jim Chen" greps return the identical set (TAH #811, ourjourneys33-2 + ourjourneys33-eng, works index) — all absorbed; verified saturated, SKIP, no conflicts.
 
 Corpus re-grep 2026-09-26 (slice 09260400-24): fresh 鄭昭任 / Jim T. R. Chen / "Jim Chen" greps return the identical set (TAH #811, ourjourneys33-2 + ourjourneys33-eng, works index) — all absorbed; verified saturated, SKIP, no conflicts.
+
+Corpus re-grep 2026-09-30 (slice 09260800-10): fresh 鄭昭任 / Jim T. R. Chen / "Jim Chen" greps across works/ + articles/ return the identical set (TAH #811, ourjourneys33-2 + ourjourneys33-eng, works index) — all absorbed; MFCF attribution and its HOLD (single band-A narrative, no 中文名 tie to TAH #811) stand. Verified saturated, SKIP, no conflicts.
