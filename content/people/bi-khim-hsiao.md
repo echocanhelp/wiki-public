@@ -283,3 +283,5 @@ _No filled family fields on the TAH profile._
 <!-- TJJ-A09260600-1: verified 2026-09-27 — subject links in slice 09260600-1 articles (77b0891e 信雅古典音樂珍藏啟用致詞 / 3be67f6e 台美人台加人存檔頁2 / 2e141df6 蔬果園藝標籤頁 / 2fa1c26a 台美人台加人存檔頁359) re-checked vs 正文; all real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A09260600-8: verified 2026-09-27 — subject links in slice 09260600-8 articles (f6ed9463 2013核四表決名單 / 0258611f 2024-05-19 520就職報導 / 06510e79 2020-11-19 林榮松獲聘政務顧問 / 77328a2c 2016-06-12 會館第十屆董事會) re-checked vs 正文; all real, no wrong/spurious links; dated facts w/ article wikilinks already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A09260800-20: verified 2026-09-30 — slice 09260800-20 articles (d2d01925 English Pages p5 2024-07-18 snapshot / 11761bda 台灣頭條 p3 2020-06-25 snapshot / 004420da 新聞觀測站 2024-04-25 snapshot) re-checked vs 正文; all subject links real (蕭美琴: 辭別花蓮將駐美 + 準副總統選後專訪 entries confirmed present), no wrong/spurious links; dated facts w/ article wikilinks already in From the record — saturated, no new material. -->
