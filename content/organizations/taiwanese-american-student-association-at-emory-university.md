@@ -41,3 +41,6 @@ The Taiwanese American Student Association at Emory University (Emory TASA) is a
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+## Corpus re-grep (2026-09-30, slice 09260700-19)
+- SKIP: fresh grep -i 'Emory' over works+articles = 89 files, but all non-TASA mentions are substring false-positives — case-insensitive "emory" matched "In Memory of" titles (verified: the Keimay Yang / ITASA memoir matches only in title/URL, no Emory-university content). Genuine Emory-TASA hit set unchanged (index, Night Market, healthy-living, Will Tiao, Taste of Taiwan, Twitter Wars), all already linked/assessed above. No new Emory-TASA facts (saturated).
