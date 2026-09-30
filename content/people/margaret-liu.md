@@ -39,6 +39,7 @@ last_reviewed: 2026-09-30
 - Her life story is held in the TAH Foundation Who's Who corpus as its own work: [[works/taiwaneseamericanhistory-org/whoswho1497|1497. Margaret Liu 林美華 / 2017/02]] (published 2017-02-05).
 - Active in the 台大校友 community in Southern California — see the dated 2018 open-letter co-signatory entry under From the record.
 - 複核（DEEPEN-X09252123-27, 2026-09-26）：語料 fresh grep（林美華/Margaret Liu, works+articles）僅再現自身書目條目 whoswho1497、works index、與已吸收之 2018 台大校友公開信連署 a428dcebbceacf38——無新增社群敘事 → SKIP-no-new-material。
+- 複核（DEEPEN-X09260800-27, 2026-09-30）：語料 fresh grep（林美華/Margaret Liu, works+articles）僅再現 whoswho1497、works 索引與已吸收之 2018 台大校友公開信連署 a428dcebbceacf38，無新增社群敘事 → SKIP-no-new-material。
 - 再查 slice 09191100-18、09210317-29、09231100-15、09250400-15（至 2026-09-25）：語料重 grep 僅再現自身書目條目、works 索引與已吸收之 TJJ 連署紀錄（a428dcebbceacf38），無新增社群敘事可吸收 → SKIP-no-new-material。
 
 ## Sources

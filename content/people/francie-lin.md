@@ -53,3 +53,4 @@ _No filled family fields on the TAH profile._
 > Re-verify 2026-09-24 (deepen-x slice 09230800-24): fresh grep — hit set = Edgar record, whoswho1158, Band-A interview, works/index; all absorbed. SKIP.
 > Re-verify 2026-09-25 (deepen-x slice 09240800-22): fresh grep — hit set = Edgar record, whoswho1158, Band-A interview, works/index; all absorbed. SKIP.
 - Re-verify 2026-09-26 (deepen-x slice 09251023-11): fresh ZH+EN grep works/+articles/ — hit set identical to absorbed set (own TAH records + works index); verified-saturated, SKIP; nothing new absorbable.
+- Re-verify 2026-09-30 (deepen-x slice 09260800-27): fresh ZH+EN grep — hit set identical (Edgar record, whoswho1158, Band-A interview, works/index); all absorbed. SKIP; nothing new absorbable.

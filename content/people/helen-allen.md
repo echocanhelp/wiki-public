@@ -51,3 +51,4 @@ last_reviewed: 2026-09-30
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - Corpus re-check 2026-09-26 (deepen-x slice 09251400-8): fresh grep — hit set identical (ourjourneys-138 roster line, TAH #310, TAH #625, works/index), all already absorbed and linked above. SKIP.
+- Corpus re-check 2026-09-30 (deepen-x slice 09260800-27): fresh grep — hit set identical (ourjourneys-138 roster line, TAH #310, TAH #625, works/index), all already absorbed and linked above. SKIP.
