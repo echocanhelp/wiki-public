@@ -52,3 +52,4 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+<!-- deepen-x slice 09260800-30: re-verify 2026-09-30 — fresh grep (陳禹辛/Sue Chen/Sue Cheng, works+articles): hit set unchanged (own #427 entry, ourjourneys33 EN/中, Pew statement, works index) — HOLD 陳禹辛 vs 廖淑清 unchanged, verified-saturated. -->
