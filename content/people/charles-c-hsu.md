@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-26
+last_reviewed: 2026-09-30
 ---
 # Dr. Charles C. Hsu (許宗邦醫師)
 
@@ -56,3 +56,5 @@ Accomplishment
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - Re-verified 2026-09-25 (deepen-x slice 09250700-24): fresh ZH+EN corpus re-grep returned the identical hit set already absorbed and wikilinked above — no new community facts, no conflicts. SKIP: verified-saturated.
+
+- Re-verified 2026-09-30 (deepen-x slice 09260800-17): fresh ZH+EN re-grep of works/ + articles/ returned the identical hit set already absorbed and wikilinked above — no new community facts, no conflicts. SKIP: verified-saturated.

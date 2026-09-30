@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-26
+last_reviewed: 2026-09-30
 ---
 # Cheng-Shen Fang (范振聲教授)
 
@@ -52,3 +52,5 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+- Re-verified 2026-09-30 (deepen-x slice 09260800-17): fresh ZH+EN re-grep of works/ + articles/ returned the identical hit set already absorbed and wikilinked above — no new community facts, no conflicts. SKIP: verified-saturated.

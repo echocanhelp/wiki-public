@@ -24,6 +24,8 @@ The UCLA campus was one of the earliest hubs of organized Taiwanese student acti
 
 HOLD: the corpus memoirs document pre-1988 Taiwanese student activity at UCLA but do not mention TSA itself; no direct corpus record of TSA's own founding or activities was found (only the TAH directory and the 1988-dated contact email). Related campus organizations exist as separate pages: [[organizations/taiwanese-american-student-association-at-ucla|Taiwanese American Student Association at UCLA]] and [[organizations/ucla-taiwanese-american-union|UCLA Taiwanese American Union]] — HOLD: relationship among the three UCLA groups unresolved.
 
+Corpus re-verify (deepen-x 09260800-21, 2026-09-30): fresh grep of works/ + articles/ for 'Taiwanese Student Association at UCLA' / 'ucla.tsa' / 'TSA UCLA' returns no direct TSA-UCLA record. Nearest corpus neighbors are other campuses only — [[works/taiwaneseamericanhistory-org/dumplings-usctsa|燒肉粽 by USC Taiwanese Student Association 南加大台灣同學會]] (USC, 2017), [[works/taiwaneseamericanhistory-org/osu-taiwanese-student-association|OSU Taiwanese Student Association]], [[works/taiwaneseamericanhistory-org/tsa-taiwanese-student-association-at-the-university-of-washington|TSA at University of Washington]] and [[works/taiwaneseamericanhistory-org/ff33|33. TSA – University of Kansas, The First TSA, 1961]] — cited here as context that peer-campus TSAs are separately documented, not as UCLA records. SKIP; nothing new absorbable, HOLD notes stand.
+
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-student-association-at-ucla/)
 
