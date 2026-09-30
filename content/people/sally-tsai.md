@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-26
+last_reviewed: 2026-09-30
 ---
 # Sally Tsai (蔡淑理)
 
@@ -53,3 +53,4 @@ last_reviewed: 2026-09-26
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 <!-- deepen-x 09251527-3: re-verify 2026-09-26 — fresh grep (ZH+EN, works+articles): hit set identical to prior re-verifies, all already absorbed/wikilinked. Verified saturated; SKIP-no-new-facts. -->
+<!-- deepen-x 09260800-29: re-verify 2026-09-30 — fresh grep (蔡淑理/Sally Tsai, works+articles): hits = own records #345/#181, ourjourneys340, works/index only; ourjourneys340 text re-confirmed 南灣百合花合唱團由蔡淑理帶領, consistent with existing text. Verified saturated; SKIP-no-new-facts. -->
