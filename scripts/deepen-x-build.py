@@ -61,6 +61,16 @@ for _id, _title, body in open_rows:
         if sp.is_file():
             open_paths.update(sp.read_text().split())
 
+# 2026-09-30 audit: the dedupe guard silently starved itself — 458 stuck
+# 09-26 cards (feed while the dispatcher was down; resume re-unblocked them,
+# nothing dispatches them) swallowed 1,606 slice paths and every fresh slice
+# collided → 0 cards for a day. Cap = 12 open cards * SLICE; also ignore
+# empty 'pending' bodies (they carry no slice file anyway).
+MAX_OPEN_SLICES = 12
+paths_per_card = max(1, len(open_paths) // max(1, len(open_rows)))
+if len(open_rows) > MAX_OPEN_SLICES or paths_per_card > 4:
+    open_paths = set()          # dedupe pool is stale — rebuild fresh slices
+    open_titles = set()
 top = [r for r in rows if r[1] not in open_paths][:SLICE * NCARDS]
 made = 0
 STAMP = subprocess.run(['date', '+%m%d%H%M'], capture_output=True, text=True).stdout.strip()
