@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: reviewed
-last_reviewed: 2026-09-26
+last_reviewed: 2026-09-30
 ---
 # Prof. Liang-Shih Fan (范良士教授)
 
@@ -58,3 +58,4 @@ _No filled family fields on the TAH profile._
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 - Corpus re-grep (slice 09260400-32, 2026-09-26): hits remain only [[works/taiwaneseamericanhistory-org/whos-who-1799-liang-shih-fan|TAH #1799]] + works index — SKIP-content: verified-saturated; 范良信 HOLD unchanged.
+- Corpus re-grep (slice 09260800-15, 2026-09-30): hits remain only [[works/taiwaneseamericanhistory-org/whos-who-1799-liang-shih-fan|TAH #1799]] + works index — SKIP-content: verified-saturated; 范良信 HOLD unchanged.

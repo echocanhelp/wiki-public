@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-26
+last_reviewed: 2026-09-30
 ---
 # Anna Chang (張月英)
 
@@ -52,3 +52,4 @@ last_reviewed: 2026-09-26
 - 2026-09-26 corpus re-grep (張月英 / Anna Chang, DEEPEN-X slice 09251000-5): hit-set unchanged (#985 whos-who, ourjourneys49, ourjourneys154, ourjourneys33, works index) — all facts already absorbed; nothing new absorbable.
 
 - 2026-09-26 corpus re-grep (張月英 / Anna Chang, DEEPEN-X slice 09260400-32): hit-set unchanged (#985 whos-who, ourjourneys49, ourjourneys154, ourjourneys33, works index) — all facts already absorbed; nothing new absorbable.
+- 2026-09-30 corpus re-grep (張月英 / Anna Chang, slice 09260800-15): hit-set unchanged (#985 whos-who, ourjourneys49, ourjourneys154, ourjourneys33, works index) — all facts already absorbed; nothing new absorbable.

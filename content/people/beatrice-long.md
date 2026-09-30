@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-26
+last_reviewed: 2026-09-30
 ---
 # Beatrice Long (隆信真)
 
@@ -54,3 +54,4 @@ Beatrice Long 隆信真 is a top prize winner in several international competiti
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- Corpus re-grep 2026-09-30 (slice 09260800-15)（隆信真／Beatrice Long）：命中仍僅書目紀錄 [[works/taiwaneseamericanhistory-org/whos-who-1774-beatrice-long|TAH #1774]]、[[works/taiwaneseamericanhistory-org/musician420|TAH #420]] 與 works index；無回憶錄敘述可吸收；隆愛真姊妹案維持 HOLD。Verified-saturated SKIP。
