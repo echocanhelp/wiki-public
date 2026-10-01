@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-10-01
 ---
 # Pauline Huang (黃百齡)
 
@@ -49,3 +49,4 @@ _No filled family fields on the TAH profile._
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 <!-- deepen-x 09250500-7: SKIP — corpus re-scan (works/articles) fresh 2026-09-25: hit set identical to prior passes (own TAH records / already-absorbed coverage); no new community material. -->
+<!-- deepen-x 09261100-8: SKIP - corpus re-scan (works/articles) fresh 2026-10-01: full ZH+EN grep hit set identical to prior passes (own TAH records / already-absorbed coverage); no new community material. -->
