@@ -37,6 +37,7 @@ Yu-Wen Wu is an interdisciplinary artist creating works that explore universal c
 - The repeat records (2015, then twice in 2016) document sustained visibility in the TAH Who's Who corpus during 2015–2016.
 - Records are bibliographic (band B); full text stays in the TAH vault.
 - Corpus re-grep 2026-09-26 (slice 09251031-7): hit set unchanged — the same three band-B records plus the works index; no memoir/community narrative. SKIP-with-reason stands.
+- Corpus re-grep 2026-10-01 (slice 09261300-15): hit set unchanged — the same three band-B records (#42, #996, #1020) plus the works index; no memoir/community narrative. SKIP-with-reason stands.
 
 ## Family
 

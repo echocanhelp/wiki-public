@@ -47,3 +47,4 @@ last_reviewed: 2026-10-01
 ## Work log
 - SKIP (deepen-x slice 09231500-7, 2026-09-25): fresh ZH+EN grep of content/works + content/articles returned only the person's own TAH Who's Who record + index (no memoir/community material beyond what is already cited); page saturated, nothing absorbable.
 - SKIP (deepen-x slice 09251031-10, 2026-09-26): fresh ZH+EN grep returned the same set (own #1537 record, index, Pew statement) — all already wikilinked above; no memoir/community material; saturated.
+- SKIP (deepen-x slice 09261300-15, 2026-10-01): fresh ZH+EN grep again returned only her own #1537 record, the Pew statement, and the works index — all already wikilinked above; saturated, nothing absorbable.
