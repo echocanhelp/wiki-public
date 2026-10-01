@@ -2,3 +2,5 @@ people/cheng-wu.md
 people/c-n-chen.md
 people/feng-jen-lu.md
 organizations/liu-kwee-family-association-usa.md
+
+<!-- deepen-x slice 09260900-27 (2026-10-01): fresh full-corpus ZH+EN re-grep (works/ + articles/). cheng-wu: hits = TCC roster, whoswho1423, 2025 台杉 quote (HOLD held) — saturated. c-n-chen: hits = ourjourneys-138/107/217, whoswho1770, JHUTSA + d-y-liu/prof-shi-shung-huang cross-refs (all roster mentions already absorbed); 陳淮崇 re-grep = distinct person (Norman Chen, TAA/Baltimore-DC president), no merge. feng-jen-lu: hits = whoswho1638, musician399 + index only — saturated. liu-kwee-family-association-usa: hits = Six Kuen Brotherhood + concerts25 + 541 + 2021/2025 傳統週 articles, all linked; both HOLD conflicts stand (宗親會 vs 文教基金會; 05/06/2017 date ambiguity) — saturated. 4/4 verified-saturated, 0 new absorbs, 0 new links. -->

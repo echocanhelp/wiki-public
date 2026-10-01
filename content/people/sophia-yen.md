@@ -55,3 +55,4 @@ _No filled family fields on the TAH profile._
 <!-- deepen-x slice 09231100-5 (2026-09-25): re-verified — fresh ZH+EN grep of works/ + articles/ returns only the records already linked/absorbed above (plus works/index rollup); no new memoir material; no conflicts resolved or added. -->
 <!-- deepen-x slice 09250400-7 (2026-09-25): re-verified — fresh ZH+EN grep of works/ + articles/ returns only whoswho990 + works/index; saturated, nothing absorbable. -->
 <!-- deepen-x slice 09252123-4 (2026-09-26): re-verified — fresh ZH+EN grep of works/ + articles/ returns only own already-linked records + works/index rollup; saturated, nothing absorbable; no conflicts. -->
+- Corpus re-verified 2026-10-01 (deepen-x slice 09260900-29): fresh ZH+EN grep of works/ + articles/ returned the identical hit set already linked/absorbed above (or empty) — verified-saturated, nothing new absorbable.
