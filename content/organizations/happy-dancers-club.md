@@ -36,3 +36,4 @@ last_reviewed: 2026-09-26
 - [[sources/taiwancenter-org||taiwancenter.org]]
 
 <!-- deepen-x slice 09251031-21 recheck 2026-09-26: SKIP — fresh ZH+EN grep of works/+articles matched only the pages already wikilinked here (+ works/index). No new memoir/community material. -->
+<!-- deepen-x slice 09261300-23 recheck 2026-10-01: SKIP persists — fresh grep (快乐排舞班/快樂排舞班 + Happy Dancers) hits only the 2026-02-09 twjustice article (already absorbed + linked) and the Taiwan Center membership listing. Also checked the sibling [[organizations/taiwanese-american-industrial-technology-association-taita-east-coast|TAITA East Coast]] note, which keeps Happy Club (精精俱樂部) as a deliberately distinct group — not merged. No new corpus material. -->
