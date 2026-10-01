@@ -42,6 +42,7 @@ Accomplishment
 - No memoir or other community record found in works/ or articles/ beyond the bibliographic record; re-swept 2026-09-19, 2026-09-22 (deepen-x slice 09220600-18), and 2026-09-23 (deepen-x slice 09221500-14) — the taiwanjustice-net article hits (時力茶壺風暴, 罷韓, 雙城論壇 coverage) are a 時代力量秘書長 / 北市府秘書長 陳志明 of the same name, not this person; nothing further absorbable.
 - HOLD: possible name collision — [[works/taiwaneseamericanhistory-org/ourjourneys219|Our Journeys #219]] records a 陳志明 speaking on tech careers at a北澤西同鄉會 student job seminar (NJIT/NYU) as 副總栽 of DoubleBridge Technologies; identity with the Anchen Pharmaceuticals founder is unconfirmed, not merged.
 - Re-grepped corpus 2026-09-25 (slice 09231000-25): same hit set — ourjourneys219 (HOLD above stands) and the taiwanjustice 陳志明 articles (時代力量/北市府 official, different person); nothing new absorbable.
+- Re-grepped 2026-09-30 (slice 09260900-9): identical hit set — ourjourneys219 (HOLD stands), whos-who-1938, works/index rollup, and the three taiwanjustice-net articles (all a different 陳志明: 時代力量秘書長 / 北市府秘書長). Verified saturated; SKIP-with-reason.
 
 
 ## Sources

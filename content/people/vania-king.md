@@ -33,6 +33,7 @@ Vania King (金久慈) is listed in the TAH Foundation Who’s Who Taiwanese Ame
 - Re-verified 2026-09-25 (slice 09250317-22): fresh ZH+EN grep returns only #705, #49/#921, the 2013 interview, and the works index — all absorbed above; saturated, no new absorbable facts.
 
 - Re-verified 2026-09-26 (slice 09252123-2): fresh ZH+EN grep returns only #705, #49/#921, the 2013 interview, and the works index — all absorbed above; saturated, SKIP-with-reason.
+- Re-verified 2026-09-30 (slice 09260900-9): fresh ZH+EN grep returns only #705, #49/#921, the 2013 interview, and the works index — all absorbed above; saturated, SKIP-with-reason.
 ## Family
 - Father — tennis coach of Vania and her brother Phillip.
 - Siblings: brother Phillip (eldest, top-ranked junior, later went to college); twin older sisters Ivana and Mindy (per the 2013 interview).

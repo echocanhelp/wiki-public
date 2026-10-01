@@ -26,6 +26,7 @@ last_reviewed: 2026-09-30
 - 2018 入錄 TAH Foundation 名人錄百科第 2135 條；見 [[works/taiwaneseamericanhistory-org/whos-who-2135-ching-ih-wang|2135. Ching Ih Wang 王進益]]。
 - 堪薩斯大學台灣人同學會活躍成員與贊助者（見 Employment；與 1964–1971 留學期相符）。
 - Re-verified 2026-09-20, 2026-09-21 (DEEPEN-X slice 09210051-8), 2026-09-22 (DEEPEN-X slice 09220500-13) and 2026-09-23 (DEEPEN-X slice 09221400-16) and 2026-09-25 (DEEPEN-X slice 09230900-23): 王進益小記 (#652) is held as a bibliographic record (full text stays in the vault); corpus re-grep (works/articles) found no further mention of 王進益 outside the records linked above (only works/index.md) — no new facts absorbable, no conflicts to hold.
+- Re-verified 2026-09-30 (slice 09260900-9): fresh ZH+EN grep returns only #2135, #652, #42 and works/index.md — all already linked above; saturated, SKIP-with-reason.
 
 <!-- tah-tables:start -->
 ## Education
