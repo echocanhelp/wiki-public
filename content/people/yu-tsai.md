@@ -50,5 +50,4 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
-> Re-verified 2026-09-25 (slice 09231300-11): fresh grep returned the same records (TAH #916, Our Journeys #37, index) — nothing new absorbable.
-> Re-verified 2026-09-25 (slice 09250600-27): fresh ZH+EN grep returned the same records — nothing new absorbable.
+> Re-verified 2026-10-01 (slice 09261300-2): fresh ZH+EN grep re-run over content/works + content/articles — hit-set unchanged (TAH #916 + Our Journeys #37 + index). OJ #37 body text checked in full: TAI/Bay Area organizational history, no 蔡羽 narrative; his name is a subject-tag on the record only. Nothing new absorbable — CLOSING as saturated.
