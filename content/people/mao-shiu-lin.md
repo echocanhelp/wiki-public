@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-26
+last_reviewed: 2026-10-01
 # deepen-x 09251039-31: SKIP re-verified 2026-09-26 — fresh grep: 林茂修/Mao-Shiu hits = own whoswho721 + works index only; nothing absorbable
 ---
 # Mao-Shiu Lin (林茂修)

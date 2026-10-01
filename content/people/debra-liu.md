@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-26
+last_reviewed: 2026-10-01
 ---
 # Debra Liu (謝金朱)
 
@@ -27,6 +27,7 @@ Debra Liu (謝金朱) is listed in the TAH Foundation Who's Who Taiwanese Americ
 - **婦女信箱 host (1994–1995):** Co-hosted the North America Taiwanese Women's Association column 「婦女信箱」 (formosa-reporter, launched 1991) alongside 吳淳雅、林千千、詹麗茹, per the column history in [[works/taiwaneseamericanhistory-org/ourjourneys161|婦女信箱的歷史 / 阿香(吳美芬)]].
 - **北卡台灣同鄉會 cultural activism (2020–2021):** Served as 粉絲團啦啦隊長 for the NC team in the 全美台灣同鄉會 online New Year singing contest, documented in [[works/taiwaneseamericanhistory-org/our-journeys-365|花絮—北卡台灣同鄉會參加2020全美台灣同鄉會跨年活動]].
 - **Who's Who record:** [[works/taiwaneseamericanhistory-org/whos-who-2245|2245. Debra Liu 謝金朱/02/2020]] (bibliographic record).
+- Re-grep 2026-10-01 (slice 09260900-26): fresh ZH+EN grep of works/ + articles/ (謝金朱|Debra Liu) returns the identical hit set — our-journeys-381, ourjourneys161, our-journeys-365, whos-who-2245 — all already linked above; verified-saturated, nothing new absorbable.
 - Re-grep 2026-09-24 (slice 09230317-30): hit set unchanged — corpus hits remain our-journeys-381, ourjourneys161, our-journeys-365 and whos-who-2245, all already linked above; verified saturated, nothing new absorbable.
 
 ## Family
@@ -42,4 +43,5 @@ Debra Liu (謝金朱) is listed in the TAH Foundation Who's Who Taiwanese Americ
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - Corpus re-verified 2026-09-25 (deepen-x slice 09240400-14): fresh ZH+EN grep of works/ + articles/ returned hit sets identical to the links already absorbed above — verified-saturated, nothing new absorbable.
+- Corpus re-verified 2026-10-01 (deepen-x slice 09260900-26): fresh ZH+EN grep returned the identical hit set (our-journeys-381, ourjourneys161, our-journeys-365, whos-who-2245, works/index) — all already linked above; verified-saturated, nothing new absorbable.
 - Corpus re-verified 2026-09-26 (deepen-x slice 09251023-16): fresh ZH+EN grep of works/ + articles/ returned the identical hit set (our-journeys-381, ourjourneys161, whos-who-2245, our-journeys-365, works/index) — all already linked above; verified-saturated, nothing new absorbable.

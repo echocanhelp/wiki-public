@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: reviewed
-last_reviewed: 2026-09-26
+last_reviewed: 2026-10-01
 ---
 # Prof. Teh-Hui Kao (高德輝教授)
 

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-26
+last_reviewed: 2026-10-01
 ---
 # Dr. Chih-Chien Adam Chou (周志謙博士)
 
@@ -46,6 +46,8 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+Corpus re-check 2026-10-01 (deepen-x slice 09260900-26): SKIP — fresh ZH+EN grep (周志謙|Chih-Chien Adam Chou|Chih-Chien|Adam Chou) unchanged: own TAH #2231 mirror only (romanization-substring false positives already disambiguated on 2026-09-20). No new absorbable material; verified-saturated.
 
 Corpus re-check 2026-09-21 (deepen-x slice 09200700-24): fresh grep for 周志謙 / Chih-Chien / Adam Chou — hits remain only his own TAH #2231 mirror and the works index; no memoir/community material. SKIP-deepen.
 
