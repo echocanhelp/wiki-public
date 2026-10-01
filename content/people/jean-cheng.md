@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-10-01
 ---
 # Jean Cheng (鄭如珍)
 
@@ -17,7 +17,7 @@ last_reviewed: 2026-09-25
 - **Era:** Birth Place
 - **Geography:** Boston, MA
 - **Core roles:** entrepreneur
-- **Source:** TAH Foundation Who’s Who
+- **Source:** TAH Foundation Who's Who
 
 
 <!-- tah-tables:start -->
@@ -45,6 +45,8 @@ _No filled family fields on the TAH profile._
 
 - Re-verified 2026-09-25 (deepen-x slice 09250800-31): fresh grep (鄭如珍 / Jean Cheng) returns only #283, the film record, the UCSD 2022-12 donor note, and the works index — SKIP, verified-saturated.
 
+- Re-verified 2026-10-01 (deepen-x slice 09260900-16): fresh full-corpus grep (鄭如珍 / Jean Cheng) over `works/` + `articles/` again returns only the three records linked above plus the works index — SKIP, verified-saturated. No new community/corpus material since 2026-09-25.
+
 ## Timeline
 - 1993 — First film「Across a Paper Ocean」premiered on the US festival circuit
 - 1998 — M.F.A. thesis film「Han Chee (Sweet Potato)」(San Francisco State Univ.)
@@ -53,7 +55,7 @@ _No filled family fields on the TAH profile._
 
 ## Sources
 - [TAH #283 encyclopedia: 283. Jean Cheng 鄭如珍/2015/02](https://taiwaneseamericanhistory.org/283-jean-cheng-%e9%84%ad%e5%a6%82%e7%8f%8d201502/)
-- [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/jean-cheng/)
+- [TAH Who's Who](https://taiwaneseamericanhistory.org/person/jean-cheng/)
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

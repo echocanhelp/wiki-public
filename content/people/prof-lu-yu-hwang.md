@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-26
+last_reviewed: 2026-10-01
 ---
 # Prof. Lu-Yu Hwang (黃綠玉教授)
 
@@ -51,3 +51,5 @@ Corpus re-check (deepen-x 09201503-13, 2026-09-21): verified-saturated — fresh
 Corpus re-check (deepen-x 09231100-12, 2026-09-25): verified-saturated — fresh grep 黃綠玉 / Lu-Yu Hwang returns only own records [[works/taiwaneseamericanhistory-org/whos-who-2184-lu-yu-hwang|#2184]], [[works/taiwaneseamericanhistory-org/ota-253|#253]] and the works index; nothing new absorbable.
 Corpus re-check (deepen-x slice 09250400-14, 2026-09-25): fresh ZH+EN grep of content/works + content/articles returned only the own records / memoir passages already wikilinked above and the works index — verified saturated, nothing new absorbable, no conflicts to hold.
 Corpus re-check (deepen-x slice 09252123-5, 2026-09-26): fresh ZH+EN grep 黃綠玉 / Lu-Yu Hwang returns only own records [[works/taiwaneseamericanhistory-org/whos-who-2184-lu-yu-hwang|#2184]], [[works/taiwaneseamericanhistory-org/ota-253|#253]] and the works index — verified saturated, nothing new absorbable.
+
+Corpus re-check (deepen-x 09260900-23, 2026-10-01): fresh ZH+EN grep (黃綠玉 / Lu-Yu Hwang) over works/ + articles/ returns only own records [[works/taiwaneseamericanhistory-org/whos-who-2184-lu-yu-hwang|#2184]], [[works/taiwaneseamericanhistory-org/ota-253|#253]] and the works index — verified saturated, nothing new absorbable (spouse page [[people/dr-r-palmer-beasley|Dr. R. Palmer Beasley]] lists her only as Wife, no community facts).

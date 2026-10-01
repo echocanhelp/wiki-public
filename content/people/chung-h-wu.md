@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-26
+last_reviewed: 2026-10-01
 ---
 # Chung H. Wu (吳忠修)
 
@@ -17,7 +17,7 @@ last_reviewed: 2026-09-26
 - **Era:** -
 - **Geography:** 台灣
 - **Core roles:** physician, professor, educator
-- **Source:** TAH Foundation Who’s Who
+- **Source:** TAH Foundation Who's Who
 
 University of Pennsylvania
 生殖內分泌研究員 (Reproductive Endocrinology Researcher)
@@ -53,7 +53,7 @@ HOLD: conflict in romanization — Chung H. Wu (this page, TAH #1347) vs Chung-H
 ## Sources
 - [TAH #833 encyclopedia: 833. A tribute to our  “ 貴人（Benefactor）”  Chung-Hsiu Wu, M.D. （吳忠修） | 05/2022](https://taiwaneseamericanhistory.org/my-stories-833/)
 - [TAH #1347 encyclopedia: 1347. Chung H. Wu 吳忠修 / 2016/10](https://taiwaneseamericanhistory.org/whoswho1347/)
-- [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/chung-h-wu/)
+- [TAH Who's Who](https://taiwaneseamericanhistory.org/person/chung-h-wu/)
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
@@ -61,3 +61,4 @@ HOLD: conflict in romanization — Chung H. Wu (this page, TAH #1347) vs Chung-H
 <!-- deepen-x slice 09231000-17 (2026-09-25): SKIP re-verified — fresh grep of works/ + articles/ returns only the records already absorbed on this page; nothing new absorbable. -->
 <!-- deepen-x 09250317-32: SKIP re-verified 2026-09-25 — fresh ZH+EN grep of works/+articles/ returns only #833, #1347, works index (all already absorbed/linked); no new community material. -->
 <!-- deepen-x slice 09251527-19 (2026-09-26): SKIP re-verified — fresh ZH+EN grep of works/+articles/ returns only the records already absorbed/linked on this page (own TAH record + index listings); no new community material. -->
+<!-- deepen-x slice 09260900-16 (2026-10-01): SKIP re-verified — fresh ZH+EN grep of works/+articles/ (both romanizations 吳忠修 / Chung H. Wu / Chung-Hsiu) returns only #833, #1347 and the works index, all already absorbed and linked; no new community material. -->

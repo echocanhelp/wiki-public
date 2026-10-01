@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-26
+last_reviewed: 2026-10-01
 ---
 # Prof. Robert Yien (顏善邦教授)
 
@@ -53,3 +53,5 @@ Accomplishment
 <!-- deepen-x 09230400-32: re-checked 2026-09-24 — fresh grep works+articles: same self-record + works/index hits only; no memoir/article mentions. SKIP stands. -->
 <!-- deepen-x 09240500-31: re-checked 2026-09-25 — fresh grep (顏善邦 / Robert Yien) works+articles: hits remain only [[works/taiwaneseamericanhistory-org/whos-who-2120-robert-yien|TAH #2120 self-record]] + works/index. SKIP-with-reason stands: no memoir/community-body facts beyond the TAH press-kit record. -->
 <!-- deepen-x 09251023-16: re-checked 2026-09-26 — fresh grep (顏善邦 / Robert Yien) works+articles: hits remain only [[works/taiwaneseamericanhistory-org/whos-who-2120-robert-yien|TAH #2120 self-record]] + works/index. SKIP-with-reason stands: no memoir/community-body facts beyond the TAH press-kit record. -->
+
+<!-- deepen-x 09260900-23: re-checked 2026-10-01 — fresh grep (顏善邦 / Robert Yien) works+articles: hits remain only [[works/taiwaneseamericanhistory-org/whos-who-2120-robert-yien|TAH #2120 self-record]] + works/index. SKIP-with-reason stands: no memoir/community-body facts beyond the TAH press-kit record. -->
