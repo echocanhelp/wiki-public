@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-26
+last_reviewed: 2026-10-01
 ---
 # Princeton Association of Taiwanese Students
 
@@ -26,6 +26,7 @@ The Princeton Association of Taiwanese Students (PATS; 普林斯頓台灣同學�
 
 > Re-verified 2026-09-25 (slice 09250400-26): fresh ZH+EN grep of works/articles returns zero hits — SKIP, no absorbable corpus material; HOLD vs PTASA/ITASA stands.
 > Re-verified 2026-09-26 (slice 09252123-22): fresh grep PATS / 普林斯頓台灣同學會 / full English name across works/ + articles/ returns zero hits — SKIP, HOLD stands.
+> Re-verified 2026-10-01 (slice 09261000-22): broad 'princeton' re-grep of works/ + articles/ now returns absorbable adjacent material — ITASA Princeton University Chapter and "Princeton Taiwanese American Student Association" in [[works/taiwaneseamericanhistory-org/ourjourneys356-eng|Our Journeys #356 (EN)]]; Princeton Univ. locations in [[works/taiwaneseamericanhistory-org/ourjourneys327|Our Journeys #327]], [[works/taiwaneseamericanhistory-org/concerts15|concerts15 New Jersey Formosan Melodies, Princeton NJ 1995-11-25]], and [[works/taiwaneseamericanhistory-org/ourjourneys126|Our Journeys #126]] (Woodrow Wilson School, Princeton); PATS-era Princeton Univ. handbooks [[works/taiwaneseamericanhistory-org/414-e5-8f-b0-e7-be-8e-e5-a4-a7-e5-ad-b8-e7-94-9f-e8-b7-a8-e6-a0-a1-e9-9a-9b-e5-8|414. 台美大學生跨校際協會1994手冊/Princeton University]] and [[works/taiwaneseamericanhistory-org/423-e5-8f-b0-e7-be-8e-e5-a4-a7-e5-ad-b8-e7-94-9f-e8-b7-a8-e6-a0-a1-e9-9a-9b-e5-8|423. 1998手冊]]. Still zero hits for "PATS" / 普林斯頓台灣同學會 itself — HOLD vs PTASA/ITASA extended to cover these handbook records; no identity merge.
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/princeton-association-of-taiwanese-students/)
