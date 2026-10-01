@@ -55,3 +55,5 @@ Beyond the exhibition circuit, TAAA sat on the institutional side of the Los Ang
 - [[sources/taiwancenter-org||taiwancenter.org]]
 
 - Re-verified 2026-09-25 (deepen-x slice 09250800-32): fresh grep (台美藝術協會 / Taiwanese American Arts Association) returns the same four TAHS records linked above, the works index, and the 鄭炳全 memoir — SKIP, verified saturated.
+
+- Re-verified 2026-10-02 (deepen-x slice 09260900-16, CWD sweep): fixed-pattern ZH+EN grep (台美藝術協會|Taiwanese American Arts Association|TAAA) over `works/` + `articles/` re-run confirms saturation. One additional source located for the same 2024-05-18/19 洛僑中心 exhibit: [[articles/taiwanjustice-net/2025/20250617113511_2024年大洛杉磯台美人傳統週系列活動4-20登場_5-18園遊_b5215d0aa05ace35|2024 傳統週 系列活動 (Taiwan Justice Net, 2025-06-17)]] — a 2025 retrospective of the 2024 Heritage-Week series, so it *corroborates* the 5/18–19 exhibition rather than adding a new event. No new material; verified-saturated.
