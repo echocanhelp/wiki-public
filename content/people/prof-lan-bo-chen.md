@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-26
+last_reviewed: 2026-09-30
 ---
 # Prof. Lan-Bo Chen (陳良博教授)
 
@@ -53,3 +53,5 @@ _No filled family fields on the TAH profile._
 <!-- deepen-x slice 09230900-15 (2026-09-24): re-verified — fresh grep hit set identical to material already absorbed/cited on this page; no new corpus material. SKIP. -->
 <!-- deepen-x slice 09240900-10 (2026-09-25): re-verified — fresh grep hit set identical to material already absorbed/cited on this page (own records + index only); no new memoir/community material. SKIP. -->
 <!-- deepen-x slice 09251400-12 (2026-09-26): re-verified — fresh grep hit set identical to material already absorbed/cited on this page (own records + index only); no new memoir/community material. SKIP. -->
+
+<!-- deepen-x slice 09260854-25 (2026-09-30): re-verified — fresh grep 陳良博/Lan-Bo Chen: hit set unchanged (own #1994 + Our Journeys #70 memoir + works index). Memoir line re-checked this run; already fully absorbed above. SKIP, verified saturated. -->

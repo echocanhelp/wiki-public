@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-26
+last_reviewed: 2026-09-30
 ---
 # Ling-Yeng Young (陳玲瑛)
 
@@ -52,3 +52,5 @@ last_reviewed: 2026-09-26
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+Corpus re-check 2026-09-30 (deepen-x slice 09260854-25): fresh ZH+EN grep of works/ + articles/ returns the identical three-record hit set (whos65, artist26, publications354) + index — SKIP stands.

@@ -6,7 +6,7 @@ tags:
   - Taiwanese-American
   - Taiwan-Center-group-member
 verification_status: published
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-30
 ---
 # Taiwan Benevolent Association of California
 
