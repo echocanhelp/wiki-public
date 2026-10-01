@@ -42,3 +42,6 @@ Fresh ZH+EN grep found foundation-specific material not previously linked here; 
 - [[works/taiwaneseamericanhistory-org/ourjourneys74-eng|Our Journeys 74]] — under President Kun T. Liao the NATMA Foundation created a scholarship sending second-generation Taiwanese doctors to internships at medical schools in Taiwan; charter amended to open membership to second-generation doctors.
 - [[articles/taiwanjustice-net/2025/20250328121330_natma-基金會獎學金開始接受申請-9月15日截止_b2e459eb492baa06|NATMA 基金會獎學金開始接受申請 (2025)]] — parent NATMA founded 1984, 15 chapters, 1,200+ members; foundation awards annual US$3,000 scholarships to Taiwanese American students in medical-related fields, applications via Daniel Hsu.
 - [[articles/taiwanjustice-net/2022/20221129014646_2022_07_24_natma-基金會獎學金開始接受申請-9月15日截止_6f9e146d2c12bbf7|NATMA 基金會獎學金 (2022 call)]] — 15th year of the scholarship; 3 awards of $3,000, online ceremony due to the pandemic.
+
+<!-- deepen-x slice 09261000-17 (2026-10-01): re-grep (NATMA / 北美洲台灣人醫師協會) of works/ + articles/ = 178 hits, all parent-NATMA chapter/mission records or already-linked (NATMA eNewsletter, chapter pages, Our Journeys 74, project-3-45, scholarship calls) — nothing Foundation-specific left unlinked. Redirect stub stays saturated; content lives on the canonical page. SKIP-with-reason. -->
+

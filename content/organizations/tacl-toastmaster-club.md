@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-26
+last_reviewed: 2026-10-01
 ---
 # TACL Toastmaster Club (議會學社)
 
@@ -26,6 +26,7 @@ The club's own community record is held in our corpus: [[works/taiwaneseamerican
 - 1992-09 — founded by TACL board members and members
 - 2014-10-12 — community history record published to the TAH corpus ([[works/taiwaneseamericanhistory-org/tacl-toastmaster-club|record]])
 - Corpus re-checks 2026-09-22 / 2026-09-25 (slices 09230900-31, 09250400-7): fresh grep of works/articles returns only the club's own record page (already absorbed) plus works/index — no new community facts.
+- Corpus re-check (deepen-x 09261000-18, 2026-10-01): fresh `grep -rli 'toastmaster'` + `議會學社|乾杯俱樂部` over works/ + articles/ → only the club's own record, the SF Toastmasters event page (both already linked above) and works/index. SKIP — no new community facts. (Note: `ourjourneys212` 劉天良《生活座談會簡史》 also matches "TOASTMASTERS" but is false-positive — it documents the 生活座談會 conversation-circle network founded 1971, in which 李成奎 merely translated the Toastmasters International curriculum as internal reference material. Different subject from this 1992 TACL club → not absorbable, do not merge.)
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/tacl-toastmaster-club/)
