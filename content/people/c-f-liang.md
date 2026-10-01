@@ -39,6 +39,7 @@ Corpus review 2026-09-21: fresh grep found no mentions beyond his own record bel
 - Re-verified 2026-09-22: fresh grep (ZH+EN) across content/works + content/articles again returned only the self-record above plus the works index; no third-party mentions; nothing further absorbable.
 - Re-verified 2026-09-25: fresh grep (梁昌夫 / C.F. Liang) again returned only [[works/taiwaneseamericanhistory-org/whoswho1492|whoswho1492]] plus the works index — SKIP, nothing new absorbable.
 - Re-verified 2026-09-26: fresh grep (梁昌夫 / C.F. Liang) again returned only the self-record plus the works index — SKIP, still no third-party mentions.
+- Re-verified 2026-10-01 (slice 09261300-13): fresh grep (梁昌夫 / C.F. Liang) across works/ + articles/ — same hit set ([[works/taiwaneseamericanhistory-org/whoswho1492|TAH #1492]] + `works/index.md` digest line only). No memoir, article, or org record names him. SKIP — corpus-saturated, nothing absorbable.
 
 ## Family
 

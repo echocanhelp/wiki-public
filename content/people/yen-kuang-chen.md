@@ -42,6 +42,8 @@ _No filled family fields on the TAH profile._
 
 Corpus review 2026-09-19, re-grep 2026-09-21 and 2026-09-22 (slice 09210900-16) (Yen-Kuang Chen / 陳彥光): the only vault mentions are the subject's own TAH encyclopedia record, [[works/taiwaneseamericanhistory-org/whoswho1363|TAH #1363, 1363. Yen-Kuang Chen / 2016/11]] (bibliographic record only; full text stays in the vault) and the works index. No memoir, article, or organizational record in content/works or content/articles names him beyond this profile — no community facts absorbable, no biography invented (SKIP).
 
+Re-verified 2026-10-01 (slice 09261300-13): fresh grep (Yen-Kuang Chen / 陳彥光) across works/ + articles/ — hit set unchanged ([[works/taiwaneseamericanhistory-org/whoswho1363|TAH #1363]] + `works/index.md` digest line). SKIP — corpus-saturated, nothing absorbable.
+
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/yen-kuang-chen/)
 
