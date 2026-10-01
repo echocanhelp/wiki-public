@@ -44,6 +44,8 @@ Corpus review 2026-09-19, re-grep 2026-09-21 and 2026-09-22 (slice 09210900-16) 
 
 Re-verified 2026-10-01 (slice 09261300-13): fresh grep (Yen-Kuang Chen / 陳彥光) across works/ + articles/ — hit set unchanged ([[works/taiwaneseamericanhistory-org/whoswho1363|TAH #1363]] + `works/index.md` digest line). SKIP — corpus-saturated, nothing absorbable.
 
+**Name-collision sweep 2026-10-01 (disconfirmed — this is NOT the 陳彥光 gap-fill trap):** bare 彥光 appears in `our-journeys-350` and `ourjourneys53`, but it is **林彥光**, a 迦南教會 elder and 籌備委員 (with 吳銘源, 陳芳瑤) — a different man from 陳彥光, and no church/memoir text anywhere in the vault names the subject of this page. Full-name `grep -rlE '陳彥光'` over all of `content/` returns only his own TAH #1363 record, this page, `people/index.md` and the `sources/taiwaneseamericanhistory-org.md` roster. Verified against the earlier identity rule: same romanisation ≠ same person, and here even the CJK given-name match fails. SKIP — nothing absorbable, nothing to HOLD.
+
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/yen-kuang-chen/)
 

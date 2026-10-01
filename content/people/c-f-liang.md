@@ -34,7 +34,8 @@ last_reviewed: 2026-10-01
 <!-- tah-tables:end -->
 
 ## Role in the Community
-Corpus review 2026-09-21: fresh grep found no mentions beyond his own record below.
+Corpus review 2026-09-21: fresh grep found no mentions beyond his own record below. **Probe caveat:** the 2026-09-21/25/26/10-01 passes below were run with the broken `grep -rl 'A|B'` form (`|` literal ⇒ silent ZERO hits, see `echopedia-page-deepening`). The correct `grep -rlE '梁昌夫|C\.F\. Liang'` form was re-run 2026-10-01 (full-vault, `content/` not only `works/`+`articles/`) and **returns the same set** — so the saturation verdict stands, but it was re-earned, not trusted.
+**Surname/substring sweep (disconfirmed, do not re-litigate):** 昌夫 as a substring occurs only in 鄭德昌夫婦 and 黃榮昌夫婦 (`ourjourneys26`, `ourjourneys-139`) — different men, not 梁昌夫. `sources/taiwaneseamericanhistory-org.md` and `people/index.md` hits are alphabetical roster rows, and that page correctly keeps him, 梁志宏 (`c-h-chris-liang`) and `c-k-lo` as three separate people.
 - His TAH Who's Who profile is itself preserved in the story corpus as record **1492** (published 2017-01-30, value band B) — [[works/taiwaneseamericanhistory-org/whoswho1492|1492. C.F. Liang 梁昌夫 / 2017/01]]. This is the only corpus footprint found; no memoir or event records name him.
 - Re-verified 2026-09-22: fresh grep (ZH+EN) across content/works + content/articles again returned only the self-record above plus the works index; no third-party mentions; nothing further absorbable.
 - Re-verified 2026-09-25: fresh grep (梁昌夫 / C.F. Liang) again returned only [[works/taiwaneseamericanhistory-org/whoswho1492|whoswho1492]] plus the works index — SKIP, nothing new absorbable.
