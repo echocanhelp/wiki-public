@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-10-01
 ---
 # Kenneth Chang (張學賢)
 
@@ -25,6 +25,7 @@ Source from Taiwanese Association of American Greater Washington Chapter Special
 - **華府台灣同鄉會（TAA Greater Washington）1972 年會長** — listed among the chapter's 創會先鋒獎得主 in the chapter's own history: [[works/taiwaneseamericanhistory-org/ourjourneys-138|Our Journey #138]]. The page's existing press-kit source (TAA Greater Washington Special Edition, 2008/11) is consistent with this chapter-leadership record.
 - Microbiology professor; later returned to Taiwan from the Washington, D.C. area and served as **臨床研究部主任 at 林口長庚醫學院** — recorded in 吳德朗's own NATPA memoir: 吳德朗 visited him there with 廖述宗 the week after the 1990 NATPA annual conference; the memoir notes he was a retired microbiology professor who had returned to Taiwan from the Washington, D.C. area: [[works/taiwaneseamericanhistory-org/ourjourneys47|Our Journey #47（留美夢•台灣情摘錄）]].
 - Also profiled in TAH Who's Who encyclopedia entry #1381 (2016/11): [[works/taiwaneseamericanhistory-org/whoswho1381|1381. Kenneth Chang 張學賢]].
+- Re-swept 2026-10-01 (slice 09261100-29) with a corrected ERE grep (`-rlE '張學賢|Kenneth Chang'` over `works/` + `articles/`; the task-body literal `content/works content/articles` prefix matches nothing here because the sweep already runs from the `content/` root, and a bare `Jen Chan`-style substring also false-positives on `RayJen Chang` in the Pew statement). Hit set unchanged vs prior passes: the 1972 會長 roll and 創會先鋒獎 caption in [[works/taiwaneseamericanhistory-org/ourjourneys-138|Our Journey #138]], the 1990-08 visit in [[works/taiwaneseamericanhistory-org/ourjourneys47|Our Journey #47]], his own record [[works/taiwaneseamericanhistory-org/whoswho1381|#1381]], and `works/index.md` rows only — all already absorbed above. No new corpus material to absorb.
 
 ## Timeline
 - 1972 — 會長 of 華府台灣同鄉會 (TAA Greater Washington) ([[works/taiwaneseamericanhistory-org/ourjourneys-138|source]])
