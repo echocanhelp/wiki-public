@@ -28,6 +28,7 @@ K. D. Wang (王康德) is listed in the TAH Foundation Who’s Who Taiwanese Ame
 - 自有 Who's Who 條目存於故事庫：[[works/taiwaneseamericanhistory-org/whos-who-1726-k-d-wang|1726. K. D. Wang 王康德]]（2017-07，書目性紀錄）
 - Re-verified 2026-09-22 and 2026-09-25 (slice 09231400-6): fresh corpus grep returns only these three records (publications-1372, ourjourneys316, whos-who-1726) plus index listings — all facts above already absorbed, nothing new; ourjourneys316 confirms him in the TASC 老人中心義工老師芳名錄 (水墨畫/美術), already linked.
 - Re-verified 2026-09-26 (deepen-x slice 09251023-29): fresh -E grep (王康德|K. D. Wang) returns the same hit set (publications-1372, ourjourneys316, whos-who-1726 + index.md) — saturated, nothing absorbable.
+- Re-verified 2026-10-01 (deepen-x slice 09261200-24): fresh ZH+EN grep unchanged — 1372 (王永宗家族 oral history, co-narrated with 王康厚), 316 (TASC 義工老師芳名錄, 水墨畫), 1726 (own Who's Who entry) + index only; all facts above already absorbed, nothing new.
 
 ## Family
 
