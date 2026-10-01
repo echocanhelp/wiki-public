@@ -7,7 +7,7 @@ tags:
   - vice-chair
   - Taiwanese-American
 verification_status: published
-last_reviewed: 2026-09-26
+last_reviewed: 2026-10-01
 ---
 # Chen Hui-Chen (陳慧貞)
 
