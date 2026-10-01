@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-26
+last_reviewed: 2026-10-01
 ---
 # Chicago Taiwanese Cuisine and Culture Association (芝加哥台灣美食文化交流協會)
 
