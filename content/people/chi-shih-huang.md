@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-10-01
 ---
 # Chi Shih Huang (黃及時)
 
@@ -42,6 +42,7 @@ last_reviewed: 2026-09-25
 - Featured in the TAH Foundation Who's Who encyclopedia entry [[works/taiwaneseamericanhistory-org/whoswho1129|1129. Chi Shih Huang 黃及時 / 2016/07]] (2016-07-10).
 - Oral-history/video interview as 董事長: [[works/taiwaneseamericanhistory-org/videos52|52. 專訪黃及時董事長]] (2017-02-27).
 - Corpus re-grep 2026-09-25 (deepen-x slice 09231200-13): works/ and articles/ hit set identical to prior passes (own TAH record #1129, video interview #52, 管碧玲氣爆座談報告, works index); no new community-authored material to absorb (verified-saturated).
+- Re-verified 2026-10-01 (deepen-x slice 09261100-10): fresh whole-corpus grep of `works/` + `articles/` for 黃及時 / Chi Shih Huang confirms the hit set is closed — 4 substantive records only: his own TAH record #1129, the video interview #52, the 管碧玲 氣爆 座談 report, and `works/index.md`. The 氣爆 report's own `## Subjects` block lists him solely as a named 僑民 respondent ("演講後，黃及時等僑民也紛紛建言…"), i.e. group-level, already absorbed. No memoir names him individually. SKIP-with-reason: saturated — nothing new absorbable.
 
 ## Sources
 - [TAH #1129 encyclopedia: 1129. Chi Shih Huang 黃及時 / 2016/07](https://taiwaneseamericanhistory.org/whoswho1129/)
