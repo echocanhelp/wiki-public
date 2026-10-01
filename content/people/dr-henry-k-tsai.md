@@ -32,7 +32,7 @@ last_reviewed: 2026-10-01
 
 ## Role in the Community
 The story corpus holds one record of him: his own TAH encyclopedia entry, [[works/taiwaneseamericanhistory-org/whos-who-2092-henry-k-tsai|TAH #2092: Dr. Henry K. Tsai]] (published 2018-04-17), which preserves his press-kit biography as community historical record. No memoirs, letters, or event reports in content/works or content/articles name him beyond that entry, so no further community facts are absorbable; his record remains the TAH directory profile (radiation oncologist, Harvard college and medical school, practice in New Jersey).
-- Corpus re-check (deepen-x 09231200-15, 2026-09-25; slice 09251023-24, 2026-09-26): re-grep of works + articles for "Henry K. Tsai" returned only his own entry and the works index — no new absorbable material.
+- Corpus re-check (deepen-x 09231200-15, 2026-09-25; slice 09251023-24, 2026-09-26; slice 09261341-4, 2026-10-01): re-grep of works + articles for "Henry K. Tsai" returned only his own entry and the works index — no new absorbable material. Other 蔡/Sai-Tsai names in the corpus (Tron Rong Tsai #18, J. Y. Tsai #2061, Ho-Chie Tsai #43, Susan Shu Ai Tsai #357, mystories456) are different people — no relation to this oncologist.
 
 ## Family
 
