@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-10-01
 ---
 # Cheng-Ming Chuong (鍾正明)
 
@@ -52,3 +52,5 @@ last_reviewed: 2026-09-25
 <!-- deepen-x 09210831-20: re-verified 2026-09-22 — corpus grep (ZH+EN) hits remain only own record whoswho606 + works index. SKIP. -->
 <!-- deepen-x 09231200-20: re-verified 2026-09-25 — grep hits still only whoswho606 + index. SKIP (4th pass). -->
 <!-- deepen-x 09250600-16: re-verified 2026-09-25 — grep hits still only whoswho606. SKIP (5th pass). -->
+
+<!-- deepen-x 09261200-23: re-verified 2026-10-01 — corpus grep (鍾正明/Cheng-Ming Chuong) hits only own record whoswho606 + works index. No new community material. SKIP (6th pass). -->

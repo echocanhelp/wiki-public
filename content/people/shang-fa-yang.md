@@ -45,3 +45,4 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+<!-- deepen-x 09261200-23: re-verified 2026-10-01 — corpus grep (Zh/E, -E alternation) of works/ + articles/ still hits only own records 743 + 1833 + works index. No memoir/article material. HOLD (Utah State vs Utah; degree-program conflict) stands. SKIP. -->

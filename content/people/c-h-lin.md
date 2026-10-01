@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-10-01
 ---
 # C. H. Lin (林建宏)
 
@@ -47,3 +47,5 @@ _No filled family fields on the TAH profile._
 
 - 2026-09-25 覆核（deepen-x 09231300-20）：works/、articles/ 全庫再查，僅見自身 TAH 檔案、index 與上列同名消歧紀錄，無新社群事蹟可吸收。
 - 2026-09-25 覆核（deepen-x 09250600-29）：works/、articles/ 全庫再查，僅見自身 TAH 檔案、index 與同名消歧紀錄，無新社群事蹟可吸收。
+
+- 2026-10-01 覆核（deepen-x 09261200-23）：works/、articles/ 全庫再查（含 791 號解釋檔），僅見自身 TAH 檔案、index 與同名消歧紀錄，無新社群事蹟可吸收。
