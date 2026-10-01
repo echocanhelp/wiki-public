@@ -52,3 +52,5 @@ last_reviewed: 2026-10-01
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 > Corpus re-verify 2026-09-26 (slice 09251031-17): fresh grep 洪桂林/K. L. Hong — same hit set (own record [[works/taiwaneseamericanhistory-org/784-k-l-hong-e6-b4-aa-e6-a1-82-e6-9e-97-201601|TAH #784]] only); nothing absorbable. SKIP.
+
+> Corpus re-verify 2026-10-01 (slice 09261300-13): fresh grep 洪桂林 / K. L. Hong across works/ + articles/ — hit set identical (own record [[works/taiwaneseamericanhistory-org/784-k-l-hong-e6-b4-aa-e6-a1-82-e6-9e-97-201601|TAH #784]] + `works/index.md` digest line). No memoir, article, or org record names him. HOLD (do NOT merge): [[works/taiwaneseamericanhistory-org/whoswho1055|TAH #1055 K. L. Hung 洪基隆 / 2016/06]] is a **different person** — 洪基隆 (1953–, Riverside CA, marine biologist, I-shou Senior High Fishing Club), not 洪桂林 (1935–2016, 台北, chemical engineer, import-export). The "K. L." romanisation collides; treat as two distinct people. SKIP — corpus-saturated.
