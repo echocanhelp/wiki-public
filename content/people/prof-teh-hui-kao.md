@@ -52,3 +52,5 @@ _No filled family fields on the TAH profile._
 
 <!-- deepen-x slice 09250400-25 (2026-09-25): verified-saturated — fresh ZH+EN corpus re-grep (works/ + articles/) hits only the already-cited records (own TAH encyclopedia entry + works index); no new absorbable facts. -->
 <!-- deepen-x slice 09252123-13 (2026-09-26): SKIP re-verified — fresh ZH+EN grep of works/ + articles/ returns only the already-cited own TAH record(s) + works index; no memoir/community material. -->
+
+<!-- deepen-x slice 09261000-15 (2026-10-01): SKIP re-verified — fresh ZH+EN grep (grep -rlE) of works/ + articles/ returns only the already-cited own TAH record(s) + works index; no memoir/community material. -->

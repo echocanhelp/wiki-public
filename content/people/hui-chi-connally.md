@@ -51,3 +51,5 @@ last_reviewed: 2026-10-01
 <!-- deepen-x slice 09231100-7 (2026-09-25): verified saturated — fresh ZH+EN grep of works/ + articles/ returns only the person's own TAH Who's Who record + works index; no memoir/community material to absorb. -->
 <!-- deepen-x slice 09250400-22 (2026-09-25): SKIP re-verified — fresh ZH+EN grep of works/ + articles/ returns only the already-cited whoswho1298 record + works index; no memoir/community material. -->
 <!-- deepen-x slice 09252123-13 (2026-09-26): SKIP re-verified — fresh ZH+EN grep of works/ + articles/ returns only the already-cited own TAH record(s) + works index; no memoir/community material. -->
+
+<!-- deepen-x slice 09261000-15 (2026-10-01): SKIP re-verified — fresh ZH+EN grep (grep -rlE) of works/ + articles/ returns only the already-cited own TAH record(s) + works index; no memoir/community material. -->
