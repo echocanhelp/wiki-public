@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-10-01
 ---
 # Edward K Wang (王凱廷)
 
@@ -42,6 +42,7 @@ The corpus records Wang as a milestone figure for the second generation: [[works
 - Corpus re-grep 2026-09-21 / 2026-09-22 / 2026-09-25 (slice 09231100-14): grep 王凱廷 / Edward Wang across content/works + content/articles returns only his own two TAH records (#376, #2136) plus the harvest index — no memoir narrative beyond them. Nothing new absorbable this pass.
 
 - 2026-09-25 deepen-x slice 09250500-18 re-check: fresh ZH+EN grep returns the identical hit set (own records #376 + #2136 + works index only) — verified-saturated, nothing new absorbable.
+- 2026-10-01 deepen-x slice 09261100-17 re-check: fresh ZH+EN grep (王凱廷 / Edward K Wang / Edward Wang) over content/works + content/articles returns the identical hit set — own records #376 and #2136 plus the works index. No memoir narrative beyond them; verified-saturated, nothing new absorbable.
 
 ## Sources
 - [TAH #2136 encyclopedia: 2136. Edward K Wang 王凱廷](https://taiwaneseamericanhistory.org/whos-who-2136-edward-k-wang/)

@@ -6,7 +6,7 @@ tags:
   - Taiwanese-American
   - Taiwan-Center-group-member
 verification_status: published
-last_reviewed: 2026-09-25
+last_reviewed: 2026-10-01
 ---
 # Institute for Taiwanese Studies
 
@@ -31,6 +31,7 @@ last_reviewed: 2026-09-25
 - Per the 台美人物誌 interview with Dr. [[people/wang-kexiong|王克雄]] (Taiwan Justice profile, archived 2024-09-05): he co-founded 美國台灣研究院 and serves as a current board director; the institute's main work is supplying Taiwan perspectives and data to US think tanks, and it once arranged a seminar between Dr. 蔡英文 and US think-tank figures — [[articles/taiwanjustice-net/2024/20240905070707_root_a4f51e89fe5a4080|王克雄博士專訪]].
 - HOLD: a separate corpus record exists for 南加州台灣研究院 / Institute for Taiwanese Studies (S. California) — [[works/taiwaneseamericanhistory-org/institute-for-taiwanese-studies-s-california|record]]; parent/affiliate relationship not established, not merged.
 - Re-verified 2026-09-25 (slice 09250600-6): SKIP — fresh grep (美國台灣研究院/Institute for Taiwanese Studies) returns only the two own records, the works index, and the 王克雄 專訪 already cited above; nothing new absorbable.
+- Re-verified 2026-10-01 (slice 09261100-17): SKIP — fresh grep (美國台灣研究院 / Institute for Taiwanese Studies / 台灣研究院) over content/works + content/articles returns only the two own records (#13 美國台灣研究院 2014-10-12, #1 南加州台灣研究院), the works index, and the 王克雄 專訪 already cited above. HOLD: the three 2026 taiwanjustice-net articles that match on "台灣研究院" name **PRC think-tanks**, not this US body — 北大台灣研究院 (院長李義虎), 廈門大學台灣研究院 (劉國深), 北京聯合大學台灣研究院 (朱松嶺). Grep artifact; do not absorb or wikilink. No new absorbable fact.
 
 ## Sources
 - [TAH directory](https://taiwaneseamericanhistory.org/organization/institute-for-taiwanese-studies/)

@@ -52,4 +52,5 @@ _Disambiguation: TAH Who's Who #2251 "Dr. Sam Huang" is 黃森茂, a different p
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 <!-- deepen-x 09210831-19: re-verify — hit set (whoswho1240, ourjourneys232, whos-who-2251 disambig) already absorbed in Role in the Community; no new facts. -->
 <!-- deepen-x 09231200-7: re-verified 2026-09-25 — fresh ZH+EN corpus grep hit set identical to records already absorbed above; no new material. -->
-<!-- deepen-x 09250500-27: re-verified 2026-09-25 — hit set identical (whoswho1240, ourjourneys232, whos-who-2251 disambig, works index); all absorbed, disambig HOLD intact; verified-saturated, SKIP. -->
+- Re-verified 2026-10-01 (slice 09261100-17): SKIP — fresh ZH+EN grep (黃興貫 / Sam Huang) returns the same set — own #1240, the 2016 遊行記 #232, and the #2251 黃森茂 disambiguation — all already absorbed; verified-saturated, nothing new absorbable.
+<!-- deepen-x 09261100-17: verified-saturated 2026-10-01; disambiguation HOLD (黃興貫 #1240 vs 黃森茂 #2251) and family-name HOLD (黃康玲 vs 黃康妮) both intact. -->
