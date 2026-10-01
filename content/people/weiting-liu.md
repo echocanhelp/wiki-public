@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-10-01
 ---
 # Weiting Liu (劉威廷)
 
@@ -53,3 +53,5 @@ _No filled family fields on the TAH profile._
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 <!-- deepen-x slice 09250600-24: SKIP — fresh grep 2026-09-25 (works/articles): own TAH record + works index only; no memoir/community material absorbable. -->
+
+<!-- deepen-x slice 09261200-16: SKIP — fresh grep (works/articles): no hit beyond own record; hit set unchanged, no new material. -->

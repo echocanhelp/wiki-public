@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-10-01
 ---
 # Swing Chuang (莊宗勳)
 
@@ -50,3 +50,5 @@ _No filled family fields on the TAH profile._
 - Recorded in the TAH Foundation Who's Who corpus: [[works/taiwaneseamericanhistory-org/whos-who-1776-swing-chuang|1776. Swing Chuang 莊宗勳]] (2017-07-24, value band B).
 - Corpus check (works + articles) returned no memoir/community narrative beyond this bibliographic record; the NAIA champion note is from the TAH Who's Who table. No conflicts found.
 <!-- deepen-x slice 09250600-24: SKIP — fresh grep 2026-09-25 (works/articles): own TAH record + works index only; no memoir/community material absorbable. -->
+
+<!-- deepen-x slice 09261200-16: SKIP — fresh grep (works/articles): no hit beyond own record; hit set unchanged, no new material. -->
