@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-10-01
 ---
 # Larry Hsu (許中強)
 
@@ -50,3 +50,5 @@ last_reviewed: 2026-09-25
 > Re-check (deepen-x 09231300-15, 2026-09-25): fresh ZH+EN grep of content/works + content/articles — hit set identical to prior passes (own TAH bibliographic record + works/index only). SKIP confirmed; nothing absorbable, no biography invented.
 
 > Re-check (deepen-x 09250600-11, 2026-09-25): fresh ZH+EN grep of content/works + content/articles — hit set identical to prior passes (own TAH bibliographic record + works/index only; for Victor Liu also the unrelated 紅通-family article). SKIP confirmed; nothing absorbable, no biography invented.
+
+> Re-check (deepen-x 09261100-11, 2026-10-01): fresh ZH+EN grep of content/works + content/articles — hit set identical to prior passes (own TAH bibliographic record whoswho1365 + works/index only). SKIP confirmed; no community/memoir material to absorb, no biography invented.
