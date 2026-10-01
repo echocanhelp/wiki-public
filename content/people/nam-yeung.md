@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-10-01
 ---
 # Nam Yeung (楊楠)
 
@@ -50,3 +50,5 @@ _No filled family fields on the TAH profile._
 <!-- deepen-x 09231200-17: re-verified 2026-09-25 — fresh grep (ZH+EN) of works/+articles/ returned only the corpus record(s) already cited on this page; SKIP stands, nothing new absorbable. -->
 
 <!-- deepen-x 09250500-22: re-verified 2026-09-25 — fresh grep (ZH+EN) of works/+articles/ returned only musician57 + whoswho1113 already cited; SKIP stands, nothing new absorbable. -->
+
+<!-- deepen-x slice 09261100-19 recheck 2026-10-01: re-verified — fresh grep (楊楠/Nam Yeung) of content/works + content/articles returned only musician57 + whoswho1113 already cited; SKIP stands, nothing new absorbable. -->
