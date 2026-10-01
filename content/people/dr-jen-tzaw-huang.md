@@ -39,6 +39,7 @@ _No filled family fields on the TAH profile._
 - Corpus re-scan 2026-09-25 (slice 18): fresh ZH+EN greps of works+articles returned hit sets identical to prior deepens (the two works pages above + the taiwanjustice.net open letter + works index); no new material, no conflicts.
 
 - Corpus re-scan 2026-09-26 (slice 31): fresh ZH+EN greps of works+articles returned hit sets identical to prior deepens (159, 451 Lizard Rock, the taiwanjustice.net open letter); no new material, no conflicts.
+- Re-grep 2026-10-01 (deepen-x slice 09261200-29): fresh ZH+EN grep of content/works + content/articles unchanged — 159 + 451 Lizard Rock + the taiwanjustice.net 2018 open letter + index lines only; the letter hit is the same signatory list already recorded above. Nothing new absorbable; identity HOLD stands. SKIP-with-reason.
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-jen-tzaw-huang/)
