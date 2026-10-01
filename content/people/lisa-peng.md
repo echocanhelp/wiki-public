@@ -56,3 +56,5 @@ last_reviewed: 2026-10-01
 > Re-verified 2026-09-25 (slice 09250400-26): fresh ZH+EN grep returns only whos-who-1806 plus index rows — verified-saturated, nothing new absorbable.
 
 > Re-verified 2026-09-26 (slice 09252123-23): fresh ZH+EN grep returns only [[works/taiwaneseamericanhistory-org/whos-who-1806-lisa-peng|whos-who-1806]] plus index rows — verified-saturated, nothing new absorbable.
+
+<!-- deepen-x slice 09261000-20 (2026-10-01): verified-saturated — fresh full-regex grep (-E, ZH+EN, no literal-pipe trap) over content/works + content/articles returns only the records already cited on this page (own TAH record + works/index rows) plus the disambiguation/HOLD records already flagged; no new absorbable corpus material. -->

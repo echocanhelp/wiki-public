@@ -51,3 +51,5 @@ _No filled family fields on the TAH profile._
 <!-- deepen-x 09230400-32: re-checked 2026-09-24 — fresh grep (EN + 陳秋榮): only own #764 record + works/index; saturated, nothing absorbable. -->
 <!-- deepen-x 09240500-32: re-checked 2026-09-25 — fresh grep (EN + 陳秋榮): only own #764 record + works/index; 'Frank Chen' hits are the HOLD'd 陳鳳山/陳惟揚 records, not him; saturated. -->
 <!-- deepen-x 09251023-20: re-checked 2026-09-26 — fresh grep (-E, EN+ZH): hit set identical to prior saturation notes; nothing new absorbable. -->
+
+<!-- deepen-x slice 09261000-20 (2026-10-01): verified-saturated — fresh full-regex grep (-E, ZH+EN, no literal-pipe trap) over content/works + content/articles returns only the records already cited on this page (own TAH record + works/index rows) plus the disambiguation/HOLD records already flagged; no new absorbable corpus material. -->
