@@ -33,6 +33,7 @@ last_reviewed: 2026-10-01
 - Community service record: 台灣人公共事務會華府總部 (NATLA Washington DC headquarters) member since 2012; B.S. 應用外語, 元智大學.
 - Disambiguation: fresh corpus grep for the romanization "Christopher Lin" also hits taiwanjustice.net press coverage of 林榮基 (Causeway Books HK bookseller in Taiwan) — different person, hanzi does not match; not absorbable here.
 - Corpus re-check 2026-09-26 (slice 09251023-23): fresh ZH+EN grep of works/ + articles/ — hit set unchanged (own TAH #1436 record + index row only); no memoir or movement text beyond what is absorbed above. SKIP.
+- Re-grep 2026-10-01 (deepen-x slice 09261200-20): identical result — only own record [[works/taiwaneseamericanhistory-org/whoswho1436|TAH #1436]] + works/index row; 林榮基 (Causeway Books) disambiguation still stands, no new absorbable facts. SKIP.
 
 ## Family
 
