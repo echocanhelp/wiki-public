@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-26
+last_reviewed: 2026-10-01
 ---
 # Georgetown Taiwanese Student Association
 
@@ -22,6 +22,8 @@ The Georgetown Taiwanese Student Association (GUTSA) was a student organization 
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/georgetown-taiwanese-student-association/)
+
+<!-- deepen-x 2026-10-01 (slice 09261300-21): re-scan — zero hits for GUTSA / 'Georgetown Taiwanese' in works/ + articles/; only unrelated 'Georgetown' hits (Georgetown University Press book, Georgetown Guyana, a journalist at Georgetown University). SKIP-with-reason stands. -->
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
