@@ -31,7 +31,7 @@ last_reviewed: 2026-10-01
 
 ## Role in the Community
 
-_Corpus check 2026-09-21 (re-confirmed slice-09210400-28): the only text hit in the works/articles corpus is this page's own TAH bibliographic record [[works/taiwaneseamericanhistory-org/whos-who-1961-shu-li-chen|TAH #1961 (2017-12)]] plus the works index; no memoir or movement material mentions 陳淑麗, so no community facts are absorbable. SKIP-with-reason recorded. Re-verified 2026-09-25 (deepen-x slice 09231300-18): fresh ZH+EN grep — hit set unchanged (own TAH #1961 record + index row only). Re-verified 2026-09-26 (deepen-x slice 09251023-23): hit set still unchanged; no community facts absorbable. SKIP._
+_Corpus check 2026-09-21 (re-confirmed slice-09210400-28): the only text hit in the works/articles corpus is this page's own TAH bibliographic record [[works/taiwaneseamericanhistory-org/whos-who-1961-shu-li-chen|TAH #1961 (2017-12)]] plus the works index; no memoir or movement material mentions 陳淑麗, so no community facts are absorbable. SKIP-with-reason recorded. Re-verified 2026-09-25 (deepen-x slice 09231300-18): fresh ZH+EN grep — hit set unchanged (own TAH #1961 record + index row only). Re-verified 2026-09-26 (deepen-x slice 09251023-23): hit set still unchanged; no community facts absorbable. SKIP. Re-verified 2026-10-01 (deepen-x slice 09261300-12): fresh grep 'Shu-li Chen|陳淑麗' across content/works + content/articles — hit set still unchanged (own TAH #1961 record + works index only); no new material, SKIP._
 
 ## Family
 
