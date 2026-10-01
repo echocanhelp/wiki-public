@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-26
+last_reviewed: 2026-09-30
 ---
 # Rizia H. Lin (洪文鳳)
 
@@ -59,3 +59,5 @@ last_reviewed: 2026-09-26
 <!-- deepen-x slice 09230900-19 (2026-09-24): re-verified — fresh grep returns only own TAH #317/#694 records; no third-party mentions. SKIP. -->
 <!-- deepen-x slice 09250317-20: re-verify 2026-09-25 — fresh ZH+EN grep (works+articles): identical hit set to prior slices, all already absorbed. Verified saturated; SKIP-no-new-facts. -->
 <!-- deepen-x slice 09251527-11 re-grep 2026-09-26: fresh ZH+EN grep (洪文鳳/Rizia) of works+articles returns only own TAH #317/#694 records + works index; no third-party memoir mentions. Verified saturated; SKIP-no-new-facts. -->
+
+<!-- deepen-x slice 09260900-1 (2026-09-30): re-verified — fresh grep (洪文鳳/Rizia) returns only own TAH #317/#694 records + index listings; no third-party corpus mentions. Verified saturated; SKIP. -->
