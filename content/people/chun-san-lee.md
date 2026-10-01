@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-10-01
 ---
 # Chun San Lee (李隼三博士)
 
@@ -48,3 +48,4 @@ _No filled family fields on the TAH profile._
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 <!-- deepen-x recheck 2026-09-25 (slice 09231300-22): fresh ZH+EN grep — hits ourjourneys76(+eng) + TAH #1563, all already wikilinked on-page. Nothing new absorbable. -->
 <!-- deepen-x recheck 2026-09-25 (slice 09250600-30): fresh ZH+EN grep — hit set identical (ourjourneys76 + ourjourneys76-eng + TAH #1563 + works index); memoir passage re-read matches absorbed text (1971 第二任會長, 領事館恫嚇). Saturated, no conflict. -->
+<!-- deepen-x recheck 2026-10-01 (slice 09261200-3): fresh ZH+EN grep (李隼三/Chun San Lee/Chun-San) over works/ + articles/ — hit set unchanged (ourjourneys76 + -eng + whoswho1563 + works index), all already wikilinked above; both memoir copies (ZH/EN) re-read and match the absorbed text verbatim. Saturated, nothing new absorbable. -->

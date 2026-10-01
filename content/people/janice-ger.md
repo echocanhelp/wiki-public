@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-10-01
 ---
 # Janice Ger (吳瑩瑛)
 
@@ -37,7 +37,7 @@ last_reviewed: 2026-09-25
 - Authored 《父親的國畫之路》 (2015-04), a family-history essay on her father's Chinese-painting path: [[works/taiwaneseamericanhistory-org/mystories236|父親的國畫之路]].
 - Her own encyclopedia record is held in the corpus at [[works/taiwaneseamericanhistory-org/386-janice-ger-e5-90-b3-e7-91-a9-e7-91-9b201504|TAH #386]].
 - Her husband 葛原隆 has a parallel encyclopedia record in the corpus: [[works/taiwaneseamericanhistory-org/385-james-ger-e8-91-9b-e5-8e-9f-e9-9a-86201504|TAH #385 James Ger 葛原隆 / 2015/04]]; he co-authored 《晚風習習木長青》 with her (TAH #625).
-- Re-verified 2026-09-25 (deepen-x slice 09231300-17): fresh ZH+EN grep over `works/` + `articles/` returns only the four records already linked above plus the works index — saturated, nothing further absorbable.
+- Re-verified 2026-09-25 (deepen-x slice 09231300-17) and 2026-10-01 (slice 09261200-3): fresh ZH+EN grep over `works/` + `articles/` (吳瑩瑛/Janice Ger) returns only the four records already linked above plus the works index — saturated, nothing further absorbable.
 
 ## Sources
 - [TAH #386 encyclopedia: 386. Janice Ger 吳瑩瑛/2015/04](https://taiwaneseamericanhistory.org/386-janice-ger-%e5%90%b3%e7%91%a9%e7%91%9b201504/)
@@ -47,3 +47,4 @@ last_reviewed: 2026-09-25
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 <!-- deepen-x 09250600-18: re-verified 2026-09-25 — fresh ZH+EN grep of content/works + content/articles returns the same hit set already linked on-page; SKIP-with-reason, nothing new absorbable. -->
+<!-- deepen-x 09261200-3: re-verified 2026-10-01 — repeat full grep (吳瑩瑛/Janice Ger) still returns only the four linked records + works index; 晚風習習木長青 and 父親的國畫之路 re-read (byline/title hits only, no new body facts). Still saturated. -->
