@@ -56,4 +56,4 @@ last_reviewed: 2026-10-01
 ## Network
 - [[organizations/presbyterian-church-in-taiwan||PCT]] — TAH Who’s Who
 - 2026-09-25 deepen-x slice 09250400-29: fresh ZH+EN grep of works/+articles/ — hit set identical to prior passes (own whoswho record + index only, plus already-absorbed memoir/statement mentions). Verified saturated; nothing new absorbable.
-- 2026-09-26 deepen-x slice 09252123-16: fresh ZH+EN grep — 吳德聖 appears only at own whoswho978 + index rows; Samuel hits remain other people (林雲郎, 李茂玄). HOLD on the 福神學院/Logos equivalence stands; verified saturated.
+- 2026-10-01 deepen-x slice 09261000-10: fresh full-corpus ZH+EN grep — 吳德聖 hits only own whoswho978 (re-read: bibliographic-only, no facts) + index rows; `Samuel Wu` exact returns no additional named-subject material. Prior false positives (林雲郎, 李茂玄) did not re-appear as a named subject. Verified saturated; nothing new absorbable.
