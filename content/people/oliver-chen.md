@@ -54,3 +54,4 @@ Accomplishment
 - Corpus sweep re-run 2026-09-25 (deepen-x slice 09231100-11): fresh grep for Oliver Chen / 陳奧利佛 in content/works + content/articles returns only own TAH #239/#676 records + works index — verified saturated, nothing new absorbable. SKIP-with-reason.
 - Corpus re-scan 2026-09-25 (slice 09250400-17): fresh ZH+EN greps return identical hit sets — still saturated. SKIP-with-reason.
 - Corpus re-scan 2026-09-26 (slice 09252123-21): fresh ZH+EN greps return only own TAH #239/#676 records + works index — still saturated. SKIP-with-reason.
+- Corpus re-scan 2026-10-01 (slice 09261000-22): fresh ZH+EN re-grep (Oliver Chen / 陳奧利佛) returns only own TAH #239/#676 records + works/index — verified saturated, nothing new absorbable. SKIP-with-reason.

@@ -52,3 +52,4 @@ last_reviewed: 2026-10-01
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 <!-- deepen-x 09251023-20: re-checked 2026-09-26 — fresh grep (-E, EN+ZH): hit set identical to prior saturation notes; nothing new absorbable. -->
+<!-- deepen-x 09261000-22: re-checked 2026-10-01 — fresh ZH re-grep (李玉琛) returns only own records (227, 495, mystories281) + works/index — verified saturated, nothing new absorbable (SKIP-with-reason). -->
