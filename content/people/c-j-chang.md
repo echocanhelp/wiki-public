@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-26
+last_reviewed: 2026-09-30
 ---
 # C. J. Chang (張家禎)
 
@@ -42,6 +42,7 @@ last_reviewed: 2026-09-26
 - deepen-x 09250400-23 recheck 2026-09-25: fresh grep adds one further archive of the same shooting coverage, [[articles/taiwanjustice-net/2024/20240225155925_root_10f3f037d2cbf527|內華達大學拉斯維加斯分校槍擊案3教職員喪命（2024-02-25 存檔）]], which carries new detail: 張家禎 1981 年取得台灣海洋大學學士學位，於拉斯維加斯任教逾 20 年，槍擊發生於李商學院（Lee Business School）4 樓辦公室（2023-12-06，中央社）。HOLD: conflict — 報導之海洋大學學士（1981）vs TAH #1807 載台大農機，學歷欄不相符，不逕行合併。
 
 - Re-verified 2026-09-26 (slice 09252123-1): fresh ZH+EN grep returns the same record set (TAH #1807, works index, 台灣 justice UNLV 槍擊案 coverage already cited above) — no memoir or movement material to absorb; HOLD stands.
+- Re-verified 2026-09-30 (slice 09260854-31): fresh ZH+EN grep returns the same record set (TAH #1807, works index, 台灣 justice UNLV 槍擊案 coverage + manifest, all already cited) — no new corpus material to absorb; HOLD stands.
 
 ## Sources
 - [TAH #1807 encyclopedia: 1807. C. J. Chang 張家禎 / 07/2017](https://taiwaneseamericanhistory.org/whoswho1807/)

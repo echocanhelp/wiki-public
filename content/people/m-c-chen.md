@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-26
+last_reviewed: 2026-09-30
 ---
 # M. C. Chen (陳玫琪)
 
@@ -54,3 +54,4 @@ _No filled family fields on the TAH profile._
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - Corpus re-grep 2026-09-26 (slice 09251500-5): identical hit set (own #370/#1315 + index + M. C. Cheng Lee collision records #937/#1916, different person). Verified-saturated; SKIP — no new corpus facts.
+- Corpus re-grep 2026-09-30 (slice 09260854-31): fresh ZH+EN grep of works+articles returns the identical hit set (own #370/#1315 + index + M. C. Cheng Lee collision records #937/#1916, different person). Verified-saturated; SKIP — no new corpus facts.
