@@ -1,0 +1,4 @@
+organizations/asian-american-social-welfaer-foundation.md
+organizations/taiwanese-student-association-at-uc-santa-barbara.md
+organizations/the-kee-jen-education-of-arts-foundation.md
+people/ke-wenze.md
