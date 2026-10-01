@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-10-01
 ---
 # Lorenzo Chun-Han Chang (張淳菡)
 
@@ -47,3 +47,4 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+<!-- deepen-x 09261100-23: re-verify 2026-10-01 — fresh full-corpus ZH+EN grep of content/works + content/articles: hit set identical to prior passes (own TAH records + works index; other-name matches are different people). Verified corpus-saturated; no new absorbable material. SKIP content-deepen. -->
