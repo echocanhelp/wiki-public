@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-10-01
 ---
 # Ying-Hsuan Sun (孫英玄)
 
@@ -55,3 +55,5 @@ SKIP-with-reason: corpus scan of `works/` and `articles/` found no primary commu
 <!-- deepen-x 09231200-17: re-verified 2026-09-25 — fresh grep (ZH+EN) of works/+articles/ returned only the corpus record(s) already cited on this page; SKIP stands, nothing new absorbable. -->
 
 <!-- deepen-x 09250500-22: re-verified 2026-09-25 — fresh grep (ZH+EN) of works/+articles/ returned only the corpus record(s) already cited on this page; SKIP stands, nothing new absorbable. -->
+
+<!-- deepen-x 09261100-16: re-verified 2026-10-01 — fresh grep (ZH+EN) of content/works+content/articles: hits only own TAH record #1325 + works/index rollup. SKIP stands, nothing absorbable. -->

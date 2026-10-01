@@ -6,7 +6,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-10-01
 ---
 # 黃秀華
 
@@ -52,3 +52,4 @@ last_reviewed: 2026-09-25
 
 <!-- deepen-x 09231200-22: re-verify 2026-09-25 — fresh grep ZH+EN over works+articles: hit set identical to prior passes (own TAH record(s) + harvest index only). Nothing new absorbable. SKIP-no-new-material. -->
 <!-- deepen-x 09250500-21: re-verify 2026-09-25 — fresh grep 黃秀華 over works+articles: same hit set (#1660, #147, essay 人間煉獄四月天, index) — all already linked. SKIP-no-new-material. -->
+<!-- deepen-x 09261100-16: re-verify 2026-10-01 — fresh grep 黃秀華/S. H. Huang over content/works+content/articles: hit set identical to prior passes (own records #1660, #147, essay 人間煉獄四月天, works/index rollup only). Nothing new absorbable. SKIP-no-new-material. -->

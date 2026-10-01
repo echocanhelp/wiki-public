@@ -4,7 +4,7 @@ type: person
 tags:
   - 
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-10-01
 ---
 # Rev. Xie Xinzhong (謝信中)
 
@@ -41,3 +41,5 @@ Rev. Xie is recognized as an ordained minister within the Taiwanese Presbyterian
 <!-- deepen-x 09231200-17: re-verified 2026-09-25 — fresh grep (ZH+EN) of works/+articles/ returned only the corpus record(s) already cited on this page; SKIP stands, nothing new absorbable. -->
 
 <!-- deepen-x 09250500-22: re-verified 2026-09-25 — fresh grep (ZH+EN) of works/+articles/ returned only the 2022-05-17 TJJ press-conference report already cited; SKIP stands, nothing new absorbable. -->
+
+<!-- deepen-x 09261100-16: re-verified 2026-10-01 — fresh grep (ZH+EN) of content/works+content/articles: only hit remains the 2022-05-17 TJJ press-conference report already cited. SKIP stands, nothing new absorbable. -->
