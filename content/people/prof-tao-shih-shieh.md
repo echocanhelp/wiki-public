@@ -40,6 +40,7 @@ Prof. Tao-Shih Shieh 謝道時教授 – History of Taiwanese American (T.A. Arc
 - HOLD: conflict — Identity Snapshot era "1948-2016" implies death in 2016, but the Who's Who record [[works/taiwaneseamericanhistory-org/whos-who-1838-tao-shih-shieh|TAH #1838]] was published 2017-08-13; entry may be posthumous or the death year wrong. Not merged.
 - No other corpus hits in works/ or articles/ beyond the bibliographic record itself (re-checked 2026-09-21 and again 2026-09-25, deepen-x slice 10 — grep returns only TAH #1838 and works/index); HOLD above stands.
 - Re-grep 2026-10-01 (deepen-x slice 09261200-29): fresh ZH+EN grep of content/works + content/articles unchanged — own TAH #1838 bibliographic record + index lines only. Nothing new absorbable; HOLD stands. SKIP-with-reason.
+- Re-grep 2026-10-01 (re-verify, slice 09261200-29 re-run): grep of content/works + content/articles again returned ONLY [[works/taiwaneseamericanhistory-org/whos-who-1838-tao-shih-shieh|TAH #1838]] and works/index — no new community material anywhere in the corpus. HOLD above still stands (do not auto-merge the 2016 death-year vs 2017 publication conflict). SKIP confirmed.
 
 
 ## Sources
