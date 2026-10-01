@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-10-01
 ---
 # Dr. Po-Chun Chen (陳柏均博士)
 
@@ -17,7 +17,7 @@ last_reviewed: 2026-09-25
 - **Era:** --
 - **Geography:** Taiwan
 - **Core roles:** engineer
-- **Source:** TAH Foundation Who’s Who
+- **Source:** TAH Foundation Who's Who
 
 
 <!-- tah-tables:start -->
@@ -42,7 +42,7 @@ _No filled family fields on the TAH profile._
 
 ## Sources
 - [TAH #2146 encyclopedia: 2146. Dr. Po-Chun Chen 陳柏均博士](https://taiwaneseamericanhistory.org/whos-who-2146-po-chun-chen/)
-- [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-po-chun-chen/)
+- [TAH Who's Who](https://taiwaneseamericanhistory.org/person/dr-po-chun-chen/)
 
 ## Related Pages
 - [[works/taiwaneseamericanhistory-org/whos-who-2146-po-chun-chen|2146. Dr. Po-Chun Chen 陳柏均博士]] — TAH Who's Who record (2018-07-10)

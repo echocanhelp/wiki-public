@@ -16,7 +16,7 @@ last_reviewed: 2026-10-01
 - **Era:** Birth Place
 - **Geography:** 台灣台北
 - **Core roles:** professor
-- **Source:** TAH Foundation Who’s Who
+- **Source:** TAH Foundation Who's Who
 
 出生於台灣台北，五歲從父親陳昭良習小提琴，母親則幫忙伴奏，是如此的音樂氣氛伴著琦瑤長大。在台灣參加過多次小提琴比賽並獲獎無數。及長隨家人移居美國洛杉磯。1980年師從名教授Alice Schoenfeld門下習琴。不久獲獎學金到纽約茱麗葉音樂學校就讀，在名小提琴家Margaret Pardee的指導下獲音樂學士與碩士學位。
 
@@ -36,15 +36,16 @@ _No filled family fields on the TAH profile._
 ## Sources
 - [TAH #342 encyclopedia: 342. 陳琦瑤 / 2015/03](https://taiwaneseamericanhistory.org/whoswho342/)
 - [TAH #171 encyclopedia: 171. Ci-Yao Chen 陳琦瑤, Violinist / 2015/03](https://taiwaneseamericanhistory.org/musician171/)
-- [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/%e9%99%b3%e7%90%a6%e7%91%a4/)
+- [TAH Who's Who](https://taiwaneseamericanhistory.org/person/%e9%99%b3%e7%90%a6%e7%91%a4/)
 
 ## Role in the Community
 - Community-record profiles: [[works/taiwaneseamericanhistory-org/whoswho342|TAH encyclopedia #342, 2015/03 (record 2015-03-22)]] and [[works/taiwaneseamericanhistory-org/musician171|171. Ci-Yao Chen 陳琦瑤, Violinist, 2015/03 (record 2015-03-15)]] — the musician-layer entry documenting her as Concert Master of the Long Beach Symphony Orchestra and Juilliard-trained (B.A./B.S. Music) violinist, in the same 2015/03 TAH musician series as 溫玉妙 (#341), 呂信也 (#339), 林安里 (#170) and 陳慧如 (#169).
 - HOLD: tah-tables degree labels "B.A. Music" + "B.S. Music" vs the bio text's 學士與碩士 (bachelor's + master's) — conflict, not auto-merged.
 - Fresh corpus re-grep 2026-09-23 (slice 09221500-23) for 陳琦瑤 / Ci-Yao Chen: hits remain only whoswho342, musician171, and the works index — no memoir coverage; verified saturated.
+- Fresh corpus re-grep 2026-09-25 (slices 09231000-31, 09250400-12): hits remain only whoswho342, musician171, and the works index — no memoir coverage; verified saturated, SKIP.
+- Fresh corpus re-grep 2026-09-26 (slice 09252123-24): identical hit set (whoswho342, musician171, works index) — saturated, SKIP-with-reason.
+- Fresh corpus re-grep 2026-10-01 (slice 09261000-24): identical hit set again (whoswho342, musician171, works/index.md) — no memoir or community mention of her in works/ or articles/; verified saturated, SKIP-with-reason.
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
-- Fresh corpus re-grep 2026-09-25 (slices 09231000-31, 09250400-12): hits remain only whoswho342, musician171, and the works index — no memoir coverage; verified saturated, SKIP.
-- Fresh corpus re-grep 2026-09-26 (slice 09252123-24): identical hit set (whoswho342, musician171, works index) — saturated, SKIP-with-reason.
