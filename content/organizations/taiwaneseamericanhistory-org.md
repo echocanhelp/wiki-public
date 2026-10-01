@@ -5,7 +5,7 @@ redirect_to: organizations/taiwaneseamerican-org
 tags:
   - redirect
 verification_status: redirect
-last_reviewed: 2026-09-26
+last_reviewed: 2026-10-01
 ---
 
 # Moved
@@ -33,3 +33,4 @@ _(none extracted yet — primary material is the 9750-page corpus under `works/t
 Chronological events for **Taiwaneseamerican Org**:
 
 _(none yet — this is a redirect stub; re-checked 2026-09-26 — deepen stays on canonical [[organizations/taiwaneseamerican-org]], no dual-write.)_
+<!-- deepen-x 09261300-22: re-verify — this slug stays a redirect stub; deepening stays on canonical [[organizations/taiwaneseamerican-org]]. Corpus grep (台美史料中心／T.A. Archives) hits are the harvest corpus itself (26/9 Newsletter of T.A. Archives, 327, 303, 112) — not biography material. No dual-write. HOLD persists. -->

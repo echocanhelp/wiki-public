@@ -46,3 +46,4 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+<!-- deepen-x 09261300-22: re-verify (4th) — fresh grep (ZH+EN: 王劍峯／Chien-Feng／Jeffrey Wang) over works/ + articles/: only hits are own bibliographic record [[works/taiwaneseamericanhistory-org/whoswho1321|whoswho1321]] and works/index. No memoir or community narrative. SKIP persists — verification saturated. -->
