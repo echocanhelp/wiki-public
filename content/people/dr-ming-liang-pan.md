@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-10-01
 ---
 # Dr. Ming Liang Pan (潘銘梁博士)
 
@@ -48,3 +48,4 @@ _No filled family fields on the TAH profile._
 <!-- deepen-x 09200800-31: SKIP — fresh grep 2026-09-21 (works/articles): own TAH record or unrelated substring hits only (Rutgers TSA, archive digests); no new memoir/community material. -->
 <!-- deepen-x slice 09231300-11: SKIP — fresh grep 2026-09-25 (works/articles): own TAH record whos-who-2060 + works index only; no memoir/community material. -->
 <!-- deepen-x slice 09250600-24: SKIP — fresh grep 2026-09-25 (works/articles): own TAH record + works index only; no memoir/community material absorbable. -->
+<!-- deepen-x slice 09261200-18 (2026-10-01): fresh ZH+EN grep (潘銘梁/Ming Liang Pan) of works+articles -> own record whos-who-2060 + works index only; no memoir/community material absorbable. SKIP re-verified. -->

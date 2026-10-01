@@ -56,3 +56,6 @@ His own memoir/record is held at [[works/taiwaneseamericanhistory-org/816-ching-
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+<!-- deepen-x slice 09261200-18 (2026-10-01): fresh ZH+EN grep (歐清南/Ching-Nan Ou) of works+articles -> hit set unchanged (ourjourneys233 / -eng / own record 816 + index). All corpus facts already absorbed; no new material. -->
+<!-- deepen-x slice 09261200-18 (2026-10-01): fresh ZH+EN grep (陳瑞珠/R. C. Chen) of works+articles -> same #186 / #186 (EN) roster + own #1148, all already absorbed. No new corpus facts. -->
+<!-- deepen-x slice 09261200-18 (2026-10-01): fresh ZH+EN grep (潘銘梁/Ming Liang Pan) of works+articles -> own record whos-who-2060 + works index only; no memoir/community material absorbable. SKIP re-verified. -->
