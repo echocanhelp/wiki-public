@@ -35,3 +35,7 @@
 - @mention required for agent reply; free Reply/Push reserved for @ or DM
 - Adapter: `_line_message_is_mentioned` + early return after archive
 - **Requires gateway restart** to load
+
+## 2026-10-01 — deepen-x slice 09260900-26 (t_818b1c6d)
+
+Deepened 4 thin Tier1 person pages (dr-chih-chien-adam-chou, debra-liu, prof-chang-jang-hsieh, p-k-frank-hsu) with a fresh full-corpus ZH+EN grep. Result: 0 new absorbable community facts (4 verified-saturated / disambiguated). Disambiguations recorded: "Chih-Chien/Adam Chou" romanization-substring FPs (already cleared 09-20); "Kuo-Chang Jang" 簡國璋 in OJ 138 TAA officer roster ≠ 謝常彰 (and already disambiguated on helen-allen); Pew bare "Frank Hsu" signatory (no 漢名) not attributable to 徐博高. All 4 pages had their re-check notes consolidated + last_reviewed bumped to 2026-10-01. Also swept the 895-file 09-30 date-drift set into the same commit (verified content-identical to HEAD~1 except the 4 slice files). No publish.
