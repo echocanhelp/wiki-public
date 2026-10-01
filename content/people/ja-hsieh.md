@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-10-01
 ---
 # Ja Hsieh (謝家豪博士)
 
@@ -48,3 +48,4 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+<!-- deepen-x 09261100-26: re-verified 2026-10-01 — fresh full-corpus ZH+EN grep (謝家豪/Ja Hsieh) hits only #298, #649 + works index, all already linked above. Verified-saturated; nothing new absorbable, no conflicts. -->

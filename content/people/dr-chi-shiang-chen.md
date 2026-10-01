@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-10-01
 ---
 # Dr. Chi- Shiang Chen (陳吉祥醫師)
 
@@ -49,3 +49,4 @@ Medical Director, Respiratory Therapy Department, Church Hospital Baltimore MD (
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+<!-- deepen-x 09261100-26: re-verified 2026-10-01 — fresh full-corpus ZH+EN grep (陳吉祥/Chi-Shiang Chen/Tze-Ming Chen/陳婉玉) hits only own TAH #1209 record, the 2018-07 連署聲明, + works index — all already covered above. Verified-saturated; nothing new absorbable, no conflicts. -->
