@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-26
+last_reviewed: 2026-09-29
 ---
 # Mynor King Wang (王華東博士)
 

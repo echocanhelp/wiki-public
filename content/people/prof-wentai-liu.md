@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-26
+last_reviewed: 2026-10-01
 ---
 # Prof. Wentai Liu (劉文泰教授)
 
@@ -57,3 +57,4 @@ _No filled family fields on the TAH profile._
 - Re-grep 2026-09-24 (slice 09230800-26): re-confirmed — works/articles hits limited to own TAH records (#280, #753) + index; SKIP, nothing absorbable.
 - Re-grep 2026-09-25 (slice 09240800-25): re-confirmed — works/articles hits limited to own TAH records (#280, #753) + index; SKIP, nothing absorbable.
 - Re-grep 2026-09-26 (slice 09251400-10): re-confirmed — works/articles hits limited to own TAH records (#280, #753) + index; SKIP, nothing absorbable.
+- Re-grep 2026-10-01 (slice 09260854-30): fresh ZH+EN grep (劉文泰 / Wentai Liu) across works+articles again returns only own TAH records (#280, #753) + works index — verified saturated, SKIP content-deepen.
