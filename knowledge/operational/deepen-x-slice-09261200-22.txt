@@ -1,4 +1,0 @@
-people/robert-g-chu.md
-people/prof-ralph-t-yang.md
-people/perry-b-shieh.md
-people/peter-hsu.md
