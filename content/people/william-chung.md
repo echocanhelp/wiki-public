@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-02
 ---
 # William Chung (鍾桂榮博士)
 
@@ -44,6 +44,7 @@ last_reviewed: 2026-10-01
 - 2026-09-25 覆核（deepen-x 09231100-23）：works/、articles/ 再查僅見 ourjourneys-138、ourjourneys58、自record 673，皆已連結；無新增事實——已驗證飽和。
 - 2026-09-25 覆核（slice -32）：命中集相同（ourjourneys-138、ourjourneys58、自record 673、works/index）；無新增事實——已驗證飽和。
 - 2026-09-26 覆核（slice 09252123-28）：命中集相同（ourjourneys-138、ourjourneys58、自record 673、works/index）；無新增事實——已驗證飽和。
+- 2026-10-02 覆核（slice 09261000-26）：content/works、content/articles 以 ZH+EN 再查，命中集完全相同（ourjourneys-138、ourjourneys58、自record 673、works/index）；Ohio 聯絡人名單再確認一次（Ohio：蔡垂憲、徐福棟*、鍾桂榮、陳昭星、陳以德、林哲也、曾博禮）。無新增事實可吸收——已驗證飽和。
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/william-chung/)
