@@ -36,6 +36,7 @@ Accomplishment
 ## Role in the Community
 - Held in the community record via TAH Who's Who encyclopedia [[works/taiwaneseamericanhistory-org/whos-who-2177-ssu-yu-huang|2177. Ssu-Yu Huang 黃思瑜]] (bibliographic record only). Documented community achievement: winner, 2010 National Symphony Orchestra (Taiwan) call for score.
 - Corpus sweep 2026-09-25: no memoir/article mentions beyond her own record and the works index — nothing absorbable.
+- Corpus re-verified 2026-10-01 (slice 09261100-9): fresh ZH+EN grep of works/ + articles/ returns only her own TAH record 2177 and the works index listing — SKIP (saturated, no independent memoir material).
 
 ## Family
 

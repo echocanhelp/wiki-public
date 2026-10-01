@@ -38,10 +38,12 @@ _No filled family fields on the TAH profile._
 
 ## Role in the Community
 - Sole corpus presence is his own TAH Who's Who encyclopedia record, published 2015-11-14: [[works/taiwaneseamericanhistory-org/704-joker-l-jenkins-e7-b0-a1-e5-82-91-e5-85-8b-201511|704. Joker L. Jenkins 簡傑克 / 2015/11]] (bibliographic record only). No memoir or article in the corpus narrates community activity — nothing further absorbable without inventing biography.
-- HOLD: name-collision note — the only other corpus mentions of "Jenkins" are different people (韓戰越界美兵 Charles Jenkins and 明州議員 Andrea Jenkins in Taiwan Justice articles); do not conflate with Joker L. Jenkins.
+- HOLD: name-collision note — the only other corpus mentions of "Jenkins" are different people and must not be conflated with Joker L. Jenkins: Charles Jenkins (韓戰越界美兵, in the Taiwan Justice piece on US soldiers crossing into North Korea) and Andrea Jenkins (明州議員 / Minneapolis city councillor, in the AFP 唐鳳 interview). The grep matches on surname alone; neither is a Taiwanese American community relation.
 - Record's community significance: a Taiwanese American reaching captain-of-the-ship rank in the US Navy (USS Gary 2006, USS Essex 2012), which is why TAH recorded him.
 
 - Corpus re-check 2026-09-25 (slice 09231100-30): fresh ZH+EN grep of content/works + content/articles returns only his own record 704 and the works index — verified saturated, nothing new absorbable.
+
+- Corpus re-verified 2026-10-01 (slice 09261100-9): fresh ZH+EN grep of works/ + articles/ returns only his own record 704, the works index, and the two unrelated Taiwan Justice articles already held above — SKIP (saturated, nothing new absorbable).
 
 ## Sources
 - [TAH #704 encyclopedia: 704. Joker L. Jenkins 簡傑克 / 2015/11](https://taiwaneseamericanhistory.org/704-joker-l-jenkins-%e7%b0%a1%e5%82%91%e5%85%8b-201511/)
@@ -50,4 +52,3 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
-- Corpus re-grep 2026-09-25 (deepen-x slice 09250500-3): works/+articles/ hit set identical to absorbed records above — SKIP (saturated, nothing new absorbable).
