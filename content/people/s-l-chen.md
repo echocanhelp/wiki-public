@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-10-01
 ---
 # S. L. Chen (陳世霖)
 
@@ -41,6 +41,7 @@ _No filled family fields on the TAH profile._
 - SKIP further deepening (re-verified 2026-09-21 and 2026-09-22 slice 09220800-29): fresh grep across works+articles returns only his own TAH records (#1390, #372), the #1477 collision entry, and the works index — all bibliographic copies, no memoir content to absorb.
 - SKIP re-confirmed 2026-09-25 (deepen-x slice 09231100-23): fresh ZH+EN grep returns only own bibliographic records (#1390, #372) + works index; no memoir content to absorb.
 - SKIP re-confirmed 2026-09-25 (deepen-x slice 09250500-2): fresh ZH+EN grep returns own records (#1390, #372), the #1477 陳晳憐 collision entry, + works index; no memoir content to absorb.
+- SKIP re-confirmed 2026-10-01 (deepen-x slice 09261100-6): fresh ZH+EN grep of works+articles returns only own bibliographic records (#1390, #372), the #1477 陳晳憐 collision entry, and the works index — all already cited above; no memoir content to absorb.
 
 ## Sources
 - [TAH #1390 encyclopedia: 1390. S. L. Chen 陳世霖 / 2016/11](https://taiwaneseamericanhistory.org/whoswho1390/)

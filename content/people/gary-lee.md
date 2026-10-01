@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-10-01
 ---
 # Gary Lee (李桂銳)
 
@@ -45,6 +45,7 @@ _No filled family fields on the TAH profile._
 - Held in the TAH Who's Who record: [[works/taiwaneseamericanhistory-org/whos892-gary-lee|892. Gary Lee 李桂銳 / 2016/03]].
 - Re-grepped corpus for 李桂銳/Gary Lee 2026-09-19, re-verified 2026-09-21: no memoir or article mentions beyond his own records above; nothing further absorbable this pass (SKIP).
 - Re-grepped 2026-09-25 (slice 09250500-25): fresh ZH+EN grep returns only own record [[works/taiwaneseamericanhistory-org/whos892-gary-lee|TAH #892]] + the works index — the LIGHTMED corporate item cited above no longer matches the name grep; verified-saturated, nothing absorbable.
+- Re-grepped 2026-10-01 (slice 09261100-6): fresh ZH+EN grep returns only own record [[works/taiwaneseamericanhistory-org/whos892-gary-lee|TAH #892]] + the works index; no memoir or article mentions elsewhere — verified-saturated, nothing absorbable.
 
 ## Sources
 - [TAH #892 encyclopedia: 892. Gary Lee 李桂銳 /2016/03](https://taiwaneseamericanhistory.org/whos892-gary-lee/)

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-10-01
 ---
 # Fang-Yi Sheu (許芳宜)
 
@@ -20,6 +20,7 @@ Earlier SKIP note (slice 09180400-23) is superseded: a work page for TAH #1499 n
 - Note: corpus also holds records for other Sheu/Sheuh family members (Danny Sheu, violist; Dr. S. F. Sheuh 薛信夫) — different persons, not merged here.
 - Re-grepped 2026-09-25 (slice 09231200-25): hit set identical to prior pass (own TAH #1499 record, works index, *Salute* review in [[works/taiwaneseamerican-org/taiwan-films-that-imagine-taiwanese-america|Taiwan Films That Imagine Taiwanese America]] — already cited) — verified-saturated; SKIP, nothing absorbable.
 - Re-grepped 2026-09-25 (slice 09250500-2): ZH+EN hits identical again (own TAH #1499 record, works index, *Salute* review — all already cited) — saturated; SKIP, nothing absorbable.
+- Re-grepped 2026-10-01 (slice 09261100-6): fresh ZH+EN grep returns the identical hit set (own TAH #1499 record, works index, *Salute* review in [[works/taiwaneseamerican-org/taiwan-films-that-imagine-taiwanese-america|Taiwan Films That Imagine Taiwanese American]] — already cited above) — verified-saturated; SKIP, nothing absorbable.
 
 ## Identity Snapshot
 - **English:** Fang-Yi Sheu

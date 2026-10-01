@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-10-01
 ---
 # John Fan (樊立勳博士)
 
@@ -40,6 +40,7 @@ last_reviewed: 2026-09-25
 - His story is also held in the TAH Foundation Who's Who entry 1269, published 2016-09-11: [[works/taiwaneseamericanhistory-org/whoswho1269|1269. John Fan 樊立勳 / 09/2016]] (band B, story).
 - Note: a 2025 taiwanjustice.net article mention of "John Fanestil" (約翰·法內斯蒂爾牧師, Friends of Friendship Park) is a different person and was not absorbed.
 - Corpus check (2026-09-25, deepen-x slice 09231300-26): fresh ZH+EN grep of content/works + content/articles returns the same hit set — own TAH record [[works/taiwaneseamericanhistory-org/whoswho1269|1269. John Fan 樊立勳]], the already-linked PicCollage interview, the works index, and the John Fanestil article (different person). No new memoir/community material absorbable; SKIP-with-reason.
+- Corpus check (2026-10-01, deepen-x slice 09261100-6): fresh ZH+EN grep returns the same set again (whoswho1269, inside-piccollage, works index, John Fanestil article — different person, 約翰·法內斯蒂爾牧師, boundary-wall quote only). SKIP-with-reason: no new community material.
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/john-fan/)
