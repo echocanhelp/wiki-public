@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-09-29
 ---
 # C. Lee Chang (李長堅博士)
 
@@ -44,6 +44,7 @@ last_reviewed: 2026-09-25
 - SKIP re-verify (2026-09-22, deepen-x slice 09211200-10): fresh grep returns only [[works/taiwaneseamericanhistory-org/584-c-lee-chang-e6-9d-8e-e9-95-b7-e5-a0-85-201509|TAH #584]] and index lines — already cited; nothing absorbable.
 
 - SKIP re-verify (2026-09-25, deepen-x slices 09231300-9, 09250500-16): fresh grep 李長堅/C. Lee Chang in works+articles returns only [[works/taiwaneseamericanhistory-org/584-c-lee-chang-e6-9d-8e-e9-95-b7-e5-a0-85-201509|TAH #584]] and index lines — already cited; no memoir mentions; nothing absorbable; saturated.
+- Re-verified 2026-09-29 (deepen-x slice 09261200-17): fresh `grep -rlE '李長堅|C. Lee Chang'` over content/works + content/articles — hit set unchanged (own TAH #584 record + `works/index.md` row only). The #584 file is a **bibliographic-record-only** stub ("_Bibliographic record only. Full text stays in the vault._"), so there is no memoir prose to absorb. Verified-saturated; no new corpus material.
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/c-lee-chang/)
