@@ -35,3 +35,4 @@ The Taiwanese Sporting Association of New Jersey is a community organization cen
 > Re-verify 2026-09-24 (deepen-x slice 09230800-24): fresh grep — hit set = own record, ourjourneys356 (+eng), works/index; all absorbed. SKIP.
 > Re-verify 2026-09-25 (deepen-x slice 09240800-23): fresh grep — hit set = own record, ourjourneys356 (+eng), works/index; all absorbed. SKIP.
 > Re-verify 2026-09-26 (deepen-x slice 09251023-12): fresh grep — hit set unchanged (own record, ourjourneys356 +eng, index); all absorbed. SKIP.
+> Re-verify 2026-09-30 (deepen-x slice 09260854-28): fresh ZH+EN grep — hit set unchanged (own record, ourjourneys356 +eng, works/index); all already wikilinked. SKIP; nothing new absorbable.

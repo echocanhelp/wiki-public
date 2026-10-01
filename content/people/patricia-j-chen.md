@@ -44,6 +44,7 @@ _No filled family fields on the TAH profile._
 > Re-verified 2026-09-22 (slice 09220700-17): fresh grep Patricia J. Chen / Patricia Chen across works/ + articles/ returns the same three records (mystories53, 40-patricia-j-chen, 615) plus index adjacency; no new community-activity material; 615 HOLD stands.
 > Re-verified 2026-09-23 (slice 09221500-13): fresh grep Patricia Chen across works/ + articles/ returns the same records (mystories53, 40-patricia-j-chen, 615, index); verified saturated, 615 HOLD stands.
 > Re-verified 2026-09-25 (slice 09230900-24): fresh grep Patricia J. Chen / Patricia Chen returns the identical record set; verified saturated, 615 HOLD stands.
+> Re-verified 2026-09-30 (slice 09260854-28): fresh ZH+EN grep of works/ + articles/ returns the same set — mystories53, 40-patricia-j-chen, 615, works/index — all already wikilinked above; verified saturated, nothing new absorbable; 615 author-name HOLD stands.
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/patricia-j-chen/)

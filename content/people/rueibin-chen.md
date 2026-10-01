@@ -31,6 +31,7 @@ Pianist with a documented footprint in the Taiwanese American community record:
 HOLD: birth year 1967 in Identity Snapshot comes from the TAH Who's Who import only; no corroborating corpus date. (Re-grep 2026-09-22, slice 09211507-5: corpus hits remain the two own TAH records, the index, and the two TaiwanJustice records already wikilinked above — verified saturated.)
 (Re-grep 2026-09-23, slice 09221000-31: hit set again identical — #324, #506, works index, and the two already-linked TaiwanJustice records; verified saturated; SKIP-with-nothing-absorbable.)
 (Re-grep 2026-09-25, slice 09230900-22: hit set again identical — #324, #506, works index, and the two already-linked TaiwanJustice records; verified saturated; SKIP-with-nothing-absorbable.)
+(Re-grep 2026-09-30, slice 09260854-28: fresh ZH+EN grep (陳瑞斌/Rueibin Chen) of works/ + articles/ returns the same set — #324, #506, works/index, and the two already-linked TaiwanJustice records; verified saturated, nothing new absorbable.)
 
 ## Family
 
