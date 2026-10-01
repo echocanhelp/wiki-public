@@ -35,6 +35,7 @@ Rev. Ming Huei Phillip Liu 劉銘輝牧師 – History of Taiwanese American (T.
 - Bridged science and the Chinese-language church community in New Jersey: scientist at the NJ Dept. of Environmental Protection, visiting professor at Rutgers, and Senior Pastor of Princeton Christian Church (普林斯頓華人基督教會).
 - Corpus record: [[works/taiwaneseamericanhistory-org/whos-who-1627-ming-huei-liu|1627. Rev. Ming Huei Phillip Liu 劉銘輝牧師]] (TAH Who's Who, 2017-04-23).
 - 2026-09-18 through 2026-09-25 re-checks (incl. slices 09211507 series, 09231100-15, 09250500-27): corpus grep hits only his own Who's Who entry ([[works/taiwaneseamericanhistory-org/whos-who-1627-ming-huei-liu|TAH #1627]]) via the works index — no memoir/community material beyond the TAH profile; no facts invented.
+- Re-verified 2026-10-01 (slice 09261200-25): fresh -E grep (`劉銘輝|Ming Huei` + 銘輝 alone) over `works/` + `articles/` still returns only his own bibliographic record [[works/taiwaneseamericanhistory-org/whos-who-1627-ming-huei-liu|TAH #1627]] and the `works/index.md` directory row. No memoir/community material; nothing absorbable. SKIP.
 
 ## Family
 

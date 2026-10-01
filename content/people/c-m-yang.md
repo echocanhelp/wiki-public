@@ -46,3 +46,4 @@ Founded the Formosa Club of Eastern US (美東福爾摩莎俱樂部), the predec
 <!-- deepen-x 09231200-20 / 09250600-4: re-verified 2026-09-25 — corpus grep (楊啓明 / C. M Yang) zero new hits; own record whos-who-2220 + our-journeys links already present. No new material — SKIP-with-reason. -->
 
 <!-- deepen-x 09261200-23: re-verified 2026-10-01 — corpus grep (楊啓明/C. M Yang) zero new hits; own record whos-who-2220 + our-journeys Formosa-Club links already in place (24 corpus files mention the Formosa Club generally). SKIP-with-reason. -->
+<!-- deepen-x 09261200-23 (enforcement pass, 2026-10-01): re-ran greps from scratch — '楊啓明'/'楊启明'/'C. M Yang' hit only whos-who-2220 (own record, already linked) + index rows. The 24 Formosa-Club files were re-checked: none names Yang, so no first-person Formosa-Club founder account exists in the corpus to absorb. Do NOT re-dispatch; saturation reached. -->

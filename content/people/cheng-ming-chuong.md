@@ -54,3 +54,4 @@ last_reviewed: 2026-10-01
 <!-- deepen-x 09250600-16: re-verified 2026-09-25 — grep hits still only whoswho606. SKIP (5th pass). -->
 
 <!-- deepen-x 09261200-23: re-verified 2026-10-01 — corpus grep (鍾正明/Cheng-Ming Chuong) hits only own record whoswho606 + works index. No new community material. SKIP (6th pass). -->
+<!-- deepen-x 09261200-23 (enforcement pass, 2026-10-01): re-ran the ZH+EN grep from scratch — hits still only whoswho606 (own record, already linked), works/index, people/index, sources index. Nothing absorbable. Do NOT re-dispatch this page; saturation reached. -->

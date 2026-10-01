@@ -46,3 +46,4 @@ _No filled family fields on the TAH profile._
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 <!-- deepen-x 09261200-23: re-verified 2026-10-01 — corpus grep (Zh/E, -E alternation) of works/ + articles/ still hits only own records 743 + 1833 + works index. No memoir/article material. HOLD (Utah State vs Utah; degree-program conflict) stands. SKIP. -->
+<!-- deepen-x 09261200-23 (enforcement pass, 2026-10-01): re-ran greps from scratch — 'Shang Fa Yang'/'楊祥發'/'Shang-Fa Yang' hit only 743, 1833, works/index, and the twin page [[people/prof-shang-fa-yang]]. The only other Wolf Prize corpus hits (winners47, 翁啟惠 連署檔) are about Wong Chi-Huey's 2014 Wolf Prize in Chemistry, not Yang — no cross-link to add. Do NOT re-dispatch; saturation reached. -->
