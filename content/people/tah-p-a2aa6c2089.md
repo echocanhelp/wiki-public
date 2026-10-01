@@ -50,3 +50,4 @@ _No filled family fields on the TAH profile._
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 <!-- deepen-x 09210831-16: SKIP — corpus re-scan (works/articles) fresh 2026-09-22: only own TAH records / already-absorbed coverage; no new community material. -->
 <!-- deepen-x 09231100-32: verified-saturated — re-grep 2026-09-25 (李泰雄|南鄉泰, works+articles): same 3 own records + index; nothing new absorbable. -->
+<!-- deepen-x 09261100-7: verified-saturated (2026-10-01) — re-grep 李泰雄 / 南鄉泰 / 南乡泰 (works+articles): only publications65, 非異鄉人, own record 362 + index. HOLD on name-form conflict stays. -->
