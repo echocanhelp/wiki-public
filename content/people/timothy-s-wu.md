@@ -52,3 +52,5 @@ _No filled family fields on the TAH profile._
 <!-- deepen-x 09250400-21 re-check 2026-09-25: verified-saturated. Fresh ZH+EN grep of works/ + articles/ returns only own TAH bibliographic records, works/index.md, or pages already wikilinked/HOLDed in Role in the Community; no new absorbable corpus material. -->
 
 <!-- deepen-x 09252123-9 re-check 2026-09-26: verified-saturated. Fresh ZH+EN grep of works/ + articles/ hit set identical to prior slices (own TAH record + index + pages already wikilinked/HOLDed); no new absorbable corpus material. SKIP. -->
+
+<!-- deepen-x 09261000-1 re-check 2026-10-01: verified-saturated. Fresh ZH+EN grep (吳獻章 / Timothy S. Wu / Timothy) of works/ + articles/ hits = own record whoswho1332 + works/index.md only; remaining "Timothy" hits are Timothy Tian-Min Lin (#464, #183), Timothy Tau and Timothy Den — other people, already excluded above. No new absorbable corpus material. SKIP. -->

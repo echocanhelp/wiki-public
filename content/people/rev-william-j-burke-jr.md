@@ -52,3 +52,5 @@ The corpus holds one record of Rev. Burke: his own TAH Who's Who encyclopedia en
 
 <!-- deepen-x 09231100-17 re-check 2026-09-25: verified-saturated. Fresh ZH+EN grep of works/ + articles/ returns only own TAH bibliographic records, works/index.md, or pages already wikilinked/HOLDed in Role in the Community; no new absorbable corpus material. -->
 <!-- deepen-x slice 09250400-19 re-check 2026-09-25: verified-saturated — fresh ZH+EN grep returns only own record whos-who-2269 + works index; no new absorbable corpus material. -->
+
+<!-- deepen-x 09261000-1 re-check 2026-10-01: verified-saturated. Fresh grep of works/ + articles/ returns own record whos-who-2269 + works/index.md + taiwanjustice-net "Burke" hits, which are Arleigh Burke-class destroyer articles (USS Dewey DDG-105 抵日; 伯克級神盾艦 軍購報導), not this person. No new absorbable corpus material. SKIP. -->
