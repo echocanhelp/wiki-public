@@ -6,7 +6,7 @@ tags:
   - Taiwanese-American
   - Taiwan-Center-group-member
 verification_status: published
-last_reviewed: 2026-09-25
+last_reviewed: 2026-10-01
 ---
 # [[organizations/global-alliance-for-democracy-and-peace||Global Alliance for Democracy and Peace]] (GADP)-LA
 
@@ -26,7 +26,7 @@ last_reviewed: 2026-09-25
 - **Content priority C:** Independent history not expanded from listing alone  
 - **deepen-x recheck 2026-09-19:** acronym 全僑民主和平聯盟 / GADP still has no corpus hits (only unrelated Sydney/Philippines 僑界 news in taiwanjustice-net), but the alliance's full English name appears in the TAH concert archive: [[works/taiwaneseamericanhistory-org/concerts127|127. Friendship Concert 連誼音樂會 by Global Alliance For Democracy and Peace & NATMA]] (Philadelphia, Glenside, PA, 2008-05-03). HOLD: that record documents the parent alliance's East-Coast activity, not the LA支盟 — no LA-branch-specific facts absorbable yet.
 - **deepen-x re-grep 2026-09-21 (slice 09210317-28):** re-run, no change — the sole corpus hit remains [[works/taiwaneseamericanhistory-org/concerts127|concerts127]] (parent alliance, PA 2008); no LA支盟-specific material. SKIP this pass.
-- **deepen-x re-grep 2026-09-25 (slice 09231200-26):** case-sensitive ZH+EN greps of works+articles returned zero hits for 全僑民主和平聯盟 / Global Alliance for Democracy; no LA支盟-specific material. SKIP.
+- **deepen-x re-grep 2026-10-01 (slice 09261100-27):** case-insensitive ZH+EN+acronym grep (全僑民主和平聯盟 / Global Alliance for|For Democracy / GADP) of works+articles re-confirmed the sole hit remains [[works/taiwaneseamericanhistory-org/concerts127|concerts127]] (Philadelphia/Glenside PA, 2008-05-03 — parent alliance). No LA支盟-specific material anywhere in corpus. SKIP.
 
 ## Related Pages
 
@@ -34,3 +34,4 @@ last_reviewed: 2026-09-25
 - [[sources/taiwancenter-org||taiwancenter.org]]
 
 <!-- deepen-x 09250500-26: re-verified 2026-09-25 — ZH+EN+acronym grep of works+articles returned ZERO hits; no LA支盟-specific material. SKIP stands. -->
+<!-- deepen-x 09261100-27: re-verified 2026-10-01 — case-insensitive ZH+EN+GADP grep of works/+articles/ returned only concerts127 (parent alliance, PA 2008). No LA支盟 material. SKIP stands. -->

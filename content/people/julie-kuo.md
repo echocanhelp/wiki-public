@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-10-01
 ---
 # Julie Kuo (郭瑞筠)
 
@@ -38,7 +38,7 @@ _No filled family fields on the TAH profile._
 - Profiled in the TAH Who's Who encyclopedia: [[works/taiwaneseamericanhistory-org/whoswho1524|TAH #1524, Julie Kuo 郭瑞筠, 2017/02]].
 
 - SKIP re-verify (2026-09-25, deepen-x slice 09231300-9): fresh grep 郭瑞筠/Julie Kuo returns only her own records [[works/taiwaneseamericanhistory-org/ff317|TAH #317]], [[works/taiwaneseamericanhistory-org/whoswho1524|TAH #1524]] and index lines — no memoir/community text; nothing absorbable.
-- SKIP re-verify (2026-09-25, deepen-x slice 09250500-14): hit set identical — own TAH records + index only; verified-saturated.
+- SKIP re-verify (2026-10-01, deepen-x slice 09261100-27): fresh ZH+EN grep of works+articles returned the identical hit set — own records [[works/taiwaneseamericanhistory-org/ff317|TAH #317]], [[works/taiwaneseamericanhistory-org/whoswho1524|TAH #1524]] and the works index only; no memoir/community text. Verified-saturated.
 
 ## Sources
 - [TAH #1524 encyclopedia: 1524. Julie Kuo 郭瑞筠 2017/02](https://taiwaneseamericanhistory.org/whoswho1524/)

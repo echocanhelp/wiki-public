@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-10-01
 ---
 # C. H. Kuo (郭忠豪)
 
@@ -43,6 +43,7 @@ Assistant Professor
 - His essays treat restaurant history as immigrant/ethnic memory, matching his NYU history training and UIUC East Asian Studies appointment.
 - TAH encyclopedia entry: [[works/taiwaneseamericanhistory-org/whoswho1189|1189. C. H. Kuo 郭忠豪 / 2016/07]] (published 2016-07-29).
 - Re-verified 2026-09-25 (deepen-x slice 09250600-20): fresh ZH+EN grep of content/works + content/articles — hit set unchanged (mystories550, mystories540, publications1084, own TAH #1189 record, index); all corpus material already absorbed above.
+- Re-verified 2026-10-01 (deepen-x slice 09261100-28): fresh ZH+EN full-corpus grep — hit set unchanged (mystories550, mystories540, publications1084, own TAH #1189 record, index); nothing new absorbable.
 
 ## Sources
 - [TAH #1189 encyclopedia: 1189. C. H. Kuo 郭忠豪 / 2016/07](https://taiwaneseamericanhistory.org/whoswho1189/)
