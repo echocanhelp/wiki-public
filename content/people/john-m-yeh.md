@@ -52,3 +52,5 @@ Corpus source: [[works/taiwaneseamericanhistory-org/ourjourney-343|Our Journey â
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+<!-- DEEPEN-X RECHECK 2026-10-01 (slice 09261300-3): corpus grep re-run (ZH+EN, works+articles) â€” hit set unchanged: own TAH bibliographic record + index only (Yeh: also Our Journey 343, already cited). SKIP stands; nothing new absorbable. -->

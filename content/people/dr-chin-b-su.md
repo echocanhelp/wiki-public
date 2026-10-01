@@ -49,3 +49,5 @@ _No filled family fields on the TAH profile._
 
 ## Work log
 - SKIP (deepen-x slice 09251031-9, 2026-09-26): fresh ZH+EN grep of content/works + content/articles returned only the hit set already absorbed by this page (own TAH record + index, plus previously cited works); nothing new absorbable.
+
+<!-- DEEPEN-X RECHECK 2026-10-01 (slice 09261300-3): corpus grep re-run (ZH+EN, works+articles) — hit set unchanged: own TAH bibliographic record + index only (Yeh: also Our Journey 343, already cited). SKIP stands; nothing new absorbable. -->

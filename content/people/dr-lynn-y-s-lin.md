@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-10-01
 ---
 # Dr. Lynn Y.S. Lin (林英祥博士)
 
@@ -47,3 +47,5 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+<!-- DEEPEN-X RECHECK 2026-10-01 (slice 09261300-3): corpus grep re-run (ZH+EN, works+articles) — hit set unchanged: own TAH bibliographic record + index only (Yeh: also Our Journey 343, already cited). SKIP stands; nothing new absorbable. -->
