@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-10-01
 ---
 # Sam Huang (黃興貫)
 
@@ -32,6 +32,8 @@ last_reviewed: 2026-09-25
 
 - **Daughter:** Cindy黃心怡
 - **Son:** Connie黃康玲
+
+_HOLDER (name form): the separate Who's Who cluster record [[works/taiwaneseamericanhistory-org/whoswho1242|1242. Connie Huang 黃康妮]] (Drexel B.S.; 陸軍上尉 → 德國訊號部隊 IT顧問) is the closest match to this son's name+credential but spells the given name 黃康妮, not 黃康玲, and no corpus source names a son at all. HOLD: do not auto-merge the two name forms or the relationship until the original TAH #1240 text (full text stays in the vault) is read._
 
 
 ## Role in the Community
