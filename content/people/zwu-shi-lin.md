@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-10-01
 ---
 # Zwu-Shi Lin (林竹信)
 
@@ -52,3 +52,4 @@ _No filled family fields on the TAH profile._
 
 <!-- deepen-x slice 09231400-3 recheck 2026-09-25: SKIP — fresh ZH+EN grep of works/+articles matched only this person's own TAH Who's Who work page and the works index; hit set identical to prior re-verifications, no independent memoir/article material to absorb. -->
 <!-- deepen-x slice 09250600-21 recheck 2026-09-25: SKIP — fresh ZH+EN grep (林竹信/Zwu-Shi) matched only own whoswho1343 work page and works index; no independent memoir/article material. -->
+<!-- deepen-x slice 09261200-6 recheck 2026-10-01: SKIP — fresh ZH+EN grep (林竹信/Zwu-Shi) of works/+articles again matched only this person's own TAH Who's Who work page (whoswho1343) and the works index; hit set identical, no independent memoir/article material to absorb. -->
