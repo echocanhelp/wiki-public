@@ -32,6 +32,7 @@ last_reviewed: 2026-10-02
 ## Role in the Community
 
 - Profiled in the TAH Foundation Who's Who encyclopedia as record #2099: [[works/taiwaneseamericanhistory-org/whos-who-2099-deborah-ma|2099. Deborah Ma 馬佳美醫師]].
+- Health-education lectures at the Irvine Taiwanese Presbyterian Church (爾灣台灣基督長老教會) — "Muscle strength training for seniors" (Dr. 馬佳美), in the church's Retirement & Lifestyle lecture series alongside Dr. 黃勝雄 (healthy aging / a long, fruitful life), Dr. 朱耀源 (the golden years), Prof. 胡宏仁 and others. This is the community-facing side of her TAH press-kit entry: not a US-licensed MD (her credential is Oriental Medicine & Acupuncture, per `tah-tables`), she served the Orange County Taiwanese immigrant/retiree community as a *health lecturer* through the church. See [[organizations/irvine-taiwanese-presbyterian-church|Irvine Taiwanese Presbyterian Church (ITPC)]].
 - No other corpus mentions; the corpus "Deborah" hit in a 2025 taiwanjustice.net article refers to a UK drug dealer (Deborah Mason), not this person — not absorbed.
 - Re-verified 2026-09-21 (deepen-x slice 09201503-24): fresh corpus grep returns only her encyclopedia record, the works index, and the Deborah Mason false positive — no memoir material to absorb.
 

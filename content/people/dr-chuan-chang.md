@@ -43,6 +43,8 @@ Publication(Non-professional)
 ## Role in the Community
 - SKIP (deepen-x slice 09210500-31, 2026-09-22; earlier 09191200-14, 09180400-16): fresh corpus grep of content/works + content/articles returned only the subject's own TAH entry [[works/taiwaneseamericanhistory-org/whos-who-2278-chuan-chang|2278. Dr. Chuan Chang 張仲權博士]] and the works index — no community-authored narrative to absorb. Re-grep 2026-09-25 (slice 09231400-19): hit set unchanged — only his own entry and the works index.
 - Re-verified 2026-09-26 (slice 09251031-30): fresh ZH+EN grep returns only own entry [[works/taiwaneseamericanhistory-org/whos-who-2278-chuan-chang|2278. Dr. Chuan Chang 張仲權博士]] + works index. SKIP stands.
+- Re-verified 2026-10-01 (slice 09261300-27): full-vault ERE grep `張仲權|Chuan Chang` over `content/` (works + articles + people + organizations + sources) — **6 files** (not the 18 an earlier note on this page claimed; that figure counted matching *lines* across index/rollup files, not distinct sources): his own page, his own TAH record `whos-who-2278`, `works/index`, `people/index`, the `taiwaneseamericanhistory-org` source hub, and `people/yu-an-chang`. Every one is his own record, an index/navigation rollup, or a *different* person (see disambiguation below). No community-authored narrative; **SKIP re-confirmed, still nothing absorbable.**
+- Disambiguation: the substring `Chuan Chang` also matches **Kai-Chuan Chang** (內子 of [[people/yu-an-chang|Chang Yu-An 張育安]]). She is a *different person* and has no page; do not merge or link her on the basis of a romanisation overlap.
 
 ## Sources
 - [TAH #2278 encyclopedia: 2278. Dr. Chuan Chang 張仲權博士](https://taiwaneseamericanhistory.org/whos-who-2278-chuan-chang/)

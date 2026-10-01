@@ -37,6 +37,7 @@ He is one of the eight voting members of the NTPC Executive Committee, represent
 - Re-verified 2026-09-22 (deepen-x slice 10): still zero corpus hits — SKIP, nothing absorbable.
 - Re-verified 2026-09-25 (deepen-x slice 09231400-6): zero corpus hits in works/articles for 林育武 / Yu-Shu Lin / Yushu Lin — SKIP, nothing absorbable.
 - Re-verified 2026-09-26 (deepen-x slice 09251031-5): still zero corpus hits — SKIP, nothing absorbable.
+- Re-verified 2026-10-01 (deepen-x slice 09261300-27): broadened the probe to the **whole vault** (not just `works/` + `articles/`) so nothing could hide outside the two protocol paths. `林育武 / Yu-Shu Lin / Yushu Lin` now matches 6 files — the ITPC-adjacent org page, three peer pages, `people/index`, and `sources/ntpc-usa-org` — but each match is the *same* 2025/26 執委 roster roster-table entry and "Related Pages" back-link already recorded above, not independent memoir material. **Zero corpus hits; SKIP re-confirmed, nothing absorbable.**
 
 ## Related Pages
 

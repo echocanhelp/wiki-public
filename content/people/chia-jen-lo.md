@@ -39,6 +39,8 @@ Corpus review (2026-09-19): the only corpus hit is the subject's own TAH encyclo
 - Re-scan 2026-09-25 (slice 20): fresh ZH+EN grep — self-record + works-index line only; no third-party mentions; nothing absorbable.
 
 - Re-verified 2026-09-26 (deepen-x slice 09251031-23): fresh ZH+EN grep of works/ + articles/ — hit set unchanged (own TAH record + works index only); no third-party memoir material; SKIP stands.
+- Re-verified 2026-10-01 (deepen-x slice 09261300-27): full-vault ERE grep `羅嘉仁|Chia-Jen Lo` returned one *additional* file, [[people/fu-te-ni|Fu-Te Ni (倪福德)]]. Read in context it names him only as a **cluster peer** inside a baseball-player roster — #1751 / #1753 / #1750 / #1749 grouped as "the movement's sports wing" — not as a subject of a third-party memoir. It adds no fact about this page's subject (no deeds, no network, no event), so per mission priority (community/corpus facts outrank bibliographic co-occurrence) it is **not absorbable**. Disambiguation kept: no biographical detail is inferred from the shared baseball-cluster listing; career dates stay as sourced in `tah-tables`. **SKIP re-confirmed, nothing absorbable.**
+
 ## Sources
 - [TAH #1751 encyclopedia: 1751. Chia-Jen Lo 羅嘉仁](https://taiwaneseamericanhistory.org/whos-who-1751-chia-jen-lo/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/chia-jen-lo/)
