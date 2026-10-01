@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-10-01
 ---
 # HsinKuang Chen (陳信光)
 
@@ -50,3 +50,5 @@ _No filled family fields on the TAH profile._
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 > SKIP re-check (deepen-x 09231300-28, 2026-09-25): fresh ZH+EN grep of content/works + content/articles returned only own TAH record + works index — no community/memoir material to absorb.
 > SKIP re-check (deepen-x 09250600-30, 2026-09-25): fresh ZH+EN grep returned hit set identical to prior deepen records ([[works/taiwaneseamericanhistory-org/whoswho1494|TAH #1494]] + works index) — saturated, nothing new to absorb.
+
+> SKIP re-check (deepen-x 09261200-10, 2026-10-01): ERE grep of content/works + content/articles for `HsinKuang Chen|陳信光` returns only [[works/taiwaneseamericanhistory-org/whoswho1494|TAH #1494]] + the works index — identical hit set, both already linked above. CTAI org page and #1494 wikilinks verified resolvable (files exist). No memoir names him; saturated.

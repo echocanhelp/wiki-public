@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-10-01
 ---
 # F. Z. Chen Wu (吳陳芳容醫師)
 
@@ -41,6 +41,8 @@ last_reviewed: 2026-09-25
 - **2016-10-27** — Who's Who encyclopedia entry archived in the TAH story corpus as [[works/taiwaneseamericanhistory-org/whoswho1348|1348. F. Z. Chen Wu 吳陳芳容 / 2016/10]] (bibliographic record only; no memoir in the corpus).
 - Note: other corpus hits for "Chen Wu" (吳貞貞 Chen-Chen Wu, 吳紀禛 Chi-Chen Wu — pianists, daughters of 楊碧珠 Pearl Wu) are different people; no biography absorbed from them.
 - Corpus scan 2026-09-21 (deepen-x slice 24): re-verified — only hit is the band-B record above plus the works index (husband 吳忠修's [[works/taiwaneseamericanhistory-org/whoswho1347|TAH #1347]] is adjacent in the index but is his own record); nothing absorbable.
+
+> Disambiguation re-confirmed 2026-10-01 (slice 09261200-10): the "Chen Wu" string hits are **given-name** compounds, not this person — Chen-Chen Wu 吳貞貞 and Chi-Chen Wu 吳紀禛 (pianists, daughters of 楊碧珠 Pearl Wu) plus Chen Wu-fu (陳武夫, the ophthalmologist in [[works/taiwaneseamericanhistory-org/ourjourneys74-eng|ourjourneys74]]). Her name as a married compound `吳陳芳容` occurs only in [[works/taiwaneseamericanhistory-org/whoswho1348|TAH #1348]] and the works index; her husband 吳忠修's record #1347 confirms surname 吳 ≠ a Chen surname, so "F. Z. Chen Wu" is surname 吳 + maiden 陳. No biography to absorb — SKIP holds.
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/f-z-chen-wu/)
