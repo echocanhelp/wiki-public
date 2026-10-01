@@ -1,0 +1,6 @@
+# deepen-x slice 09261341-1 — processed 2026-10-01 (QA-verify, no edit needed)
+content/people/joshua-c-chang.md — saturated, SKIP (grep 張嘉熙/Joshua C. Chang over full content/ = 0 hits; own record whoswho1369 only)
+content/people/joseph-chang.md — saturated, SKIP (0 hits; own record 942-joseph-chang only)
+content/people/chao-w-chen.md — saturated, SKIP (0 hits; own records whoswho2091 + ourjourneys233-eng already absorbed)
+content/people/david-hsieh.md — saturated, SKIP (0 hits; own records #35 PECASE + whoswho1491 already absorbed)
+# all 4: fresh grep -rl over content/ (widened beyond works/+articles/) → nothing absorbable, no conflicts
