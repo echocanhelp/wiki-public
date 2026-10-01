@@ -52,3 +52,4 @@ Corpus sweeps 2026-09-20, 2026-09-21, 2026-09-22, 2026-09-23 (incl. slices 09220
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- Corpus sweep 2026-10-01 (deepen-x slice 09261000-31): full-corpus ZH+EN re-grep of works/ + articles/ for Anna Lee/李宛蓉 — hit set unchanged (Lunchbox release interview + TAH #2295 profile + works index only, both already absorbed with links above). SKIP-saturated, no new material.
