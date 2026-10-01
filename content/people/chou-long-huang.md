@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-10-01
 ---
 # Chou-Long Huang (黃朝龍)
 
@@ -50,3 +50,5 @@ _No filled family fields on the TAH profile._
 - [[works/taiwaneseamericanhistory-org/1366-chou-long-huang-e9-bb-83-e6-9c-9d-e9-be-8d-201611|1366. Chou-Long Huang 黃朝龍 / 2016/11]] — TAH Who's Who record (2016-11-03)
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+<!-- deepen-x 09261100-24: re-verify 2026-10-01 — fresh full-corpus ZH+EN grep (people/ works/ articles/): hit set unchanged vs prior passes (own TAH records + index + cross-mentions only, all already wikilinked or triaged as false positives); no new corpus facts absorbable. verified-saturated, SKIP. -->

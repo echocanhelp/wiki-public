@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-10-01
 ---
 # Anny Hung (洪磊螢)
 
@@ -50,3 +50,5 @@ Won First Place for City Song Composition Competition in Kaohsiung, Taiwan and P
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+<!-- deepen-x 09261100-24: re-verify 2026-10-01 — fresh full-corpus ZH+EN grep (people/ works/ articles/): hit set unchanged vs prior passes (own TAH records + index + cross-mentions only, all already wikilinked or triaged as false positives); no new corpus facts absorbable. verified-saturated, SKIP. -->
