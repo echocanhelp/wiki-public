@@ -28,6 +28,8 @@ The Chicago Taiwanese Cuisine and Culture Association promotes Taiwanese traditi
 - Re-verified 2026-09-25 (slice 09250400-4): fresh grep 芝加哥台灣美食文化交流協會/Chicago Taiwanese Cuisine over works+articles returns only the directory entry, Family Fun Fest #62, and the works index — all absorbed; saturated.
 
 - Re-verified 2026-09-26 (slice 09252123-2): fresh ZH+EN grep over works+articles returns only the directory entry, Family Fun Fest #62, and the works index — all absorbed; saturated.
+
+- Re-verified 2026-10-01 (slice 09260900-21): fresh ZH+EN grep 芝加哥台灣美食文化交流協會/Chicago Taiwanese Cuisine over works/ + articles/ returns only the directory entry, Family Fun Fest #62, and the works index — all absorbed; saturated. No new community facts (SKIP-verified).
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/chicago-taiwanese-cuisine-and-culture-association/)
 
