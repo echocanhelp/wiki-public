@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-26
+last_reviewed: 2026-10-01
 ---
 # Hwei-Mei Amy Huang (謝惠美)
 
@@ -44,6 +44,9 @@ last_reviewed: 2026-09-26
 - Re-verified 2026-09-25 (slice 09230900-29): fresh ZH+EN corpus grep returns only #933 + works index — verified-saturated, SKIP content-deepen.
 - Re-verified 2026-09-25 (slice 09250317-30): fresh ZH+EN corpus grep again returns only #933 + works index — verified-saturated, SKIP content-deepen.
 - Her husband 黃崑巖 (Kun-Yen Huang), later founding dean of NCKU Medical College, appears in Chen Huaichong's band-A memoir of the early DC/Baltimore Taiwanese community: [[works/taiwaneseamericanhistory-org/ourjourneys-138|138. 華府與巴城TAA的誕生 / 陳淮崇]] places him among the 1960s researchers at NIH and national labs in the Washington area — the Huang household belongs to the founding generation of the 華府台灣人 community. Husband's own corpus records: [[works/taiwaneseamericanhistory-org/whos-who-828-kun-yen-huang|TAH #828, 黃崑巖教授]], [[works/taiwaneseamericanhistory-org/ota-294|OTA #294, 黃崑巖教授]].
+
+- HOLD: conflict in daughter naming — the husband's page [[people/prof-kun-yen-huang|Prof. Kun-Yen Huang]] lists 三女「黃岫清、黃岫安、黃岫寧」, while this page lists the daughters as Susie / Amelia / Nellie. No source dates either list; do not auto-merge.
+- Verified saturated at this run (2026-10-01, deepen-x 10010315-14): full-corpus ZH+EN grep returns only own #933 record + works/index + people/index + husband page 謝惠美 mention + source page; all already absorbed above — SKIP content-deepen with one new HOLD added (daughter naming).
 
 ## Sources
 - [TAH #933 encyclopedia: 933. Hwei-Mei (Amy)Huang 謝惠美 /2016/04](https://taiwaneseamericanhistory.org/933-hwei-mei-amyhuang-%e8%ac%9d%e6%83%a0%e7%be%8e-201604/)
