@@ -39,7 +39,9 @@ _No filled family fields on the TAH profile._
 
 The vault's community record for Anne H. Chow is the TAH Who's Who entry itself, held in the story corpus as [[works/taiwaneseamericanhistory-org/whos-who-1981-anne-h-chow|1981. Anne H. Chow]] (2017-12-26, band B — bibliographic record; full text stays in the vault). No memoir, article, or organizational mention in `content/works` or `content/articles` adds community-activity facts beyond the directory biography (corpus grep 2026-09-18: only the Who's Who record + index entries).
 
-- Corpus re-scan 2026-09-22 (deepen-x slice 09210900-2) and 2026-09-25 (slices 09231200-27, 09250600-15): hits remain the Who's Who record [[works/taiwaneseamericanhistory-org/whos-who-1981-anne-h-chow|1981]] + index lines; the other ZH/EN grep hits (musician149, Anne Hu/Lunchbox, Pew statement, and 周-name matches in musician411 / ourjourneys30) are different people — no absorbable community material. SKIP-with-reason.
+- Corpus re-scan 2026-09-22 (deepen-x slice 09210900-2) and 2026-09-25 (slices 09231200-27, 09250600-15): hits remain the Who's Who record [[works/taiwaneseamericanhistory-org/whos-who-1981-anne-h-chow|1981]] + index lines; the other ZH/EN grep hits (musician149, Anne Hu/Lunchbox, Anne H. Chow, Pew statement, and 周-name matches in musician411 / ourjourneys30) are different people — no absorbable community material. SKIP-with-reason.
+- Re-grep 2026-10-01 (re-verify, slice 09261200-29 re-run): fresh grep of content/works + content/articles returned only [[works/taiwaneseamericanhistory-org/whos-who-1981-anne-h-chow|1981. Anne H. Chow]] + works/index — no new material. The directory biography (Cornell EE/MBA → AT&T → AAJC vice chair → Girl Scouts USA board → FranklinCovey) remains the only record; no community-activity facts to absorb and none invented. SKIP confirmed.
+
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/anne-h-chow/)
 
