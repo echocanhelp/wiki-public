@@ -25,6 +25,7 @@ The Taiwanese-American Foundation of Boston is a non-profit organization establi
 Corpus re-grep 2026-09-20 (slice 09190130-18), re-verified 2026-09-21 (slice 09201400-28), 2026-09-22 (slice 09211400-25), 2026-09-23 (slice 09220900-30), and 2026-09-24 (slice 09230400-26): grep 波士頓台美基金會 / "Taiwanese-American Foundation of Boston" / "TAF Boston" across content/works + content/articles returns only its own two TAH directory records (already linked above) and index listings. No memoir or article adds facts; nothing new absorbable; no conflicts to hold.
 - Re-verified 2026-09-25 (deepen-x slice 09240500-27): 波士頓台美基金會 / TAF Boston hits remain only its own TAH #17/#26 records + index. SKIP: nothing new absorbable; no conflicts.
 - Re-verified 2026-09-25 (deepen-x slice 09250800-29): 波士頓台美基金會 / TAF Boston hits remain only its own TAH #17/#26 records + index. SKIP: nothing new absorbable; no conflicts.
+- Re-verified 2026-10-01 (deepen-x slice 09260854-30): fresh ZH+EN grep (波士頓台美基金會 / TAF Boston / Taiwanese-American Foundation of Boston / Boston Taiwanese) across works+articles adds only its own #17/#26 records + index, plus name-coincidence pages (Boston Taiwanese Christian Church, Boston Taiwanese Biotechnology Association — different orgs; 1965 conference attendee list mentions the unrelated Boston Taiwanese Association). No memoir material; SKIP: nothing new absorbable, no conflicts.
 
 ### Timeline
 - 2015-07-24 — organization directory record #17 and scholarship award record #26 published in the TAH encyclopedia
