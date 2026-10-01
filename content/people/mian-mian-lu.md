@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-10-01
 ---
 # Mian Mian Lu (陸慧綿)
 
@@ -39,6 +39,7 @@ _No filled family fields on the TAH profile._
 - Panel session detail: the parent-daughter filmmakers panel was held Sunday 2018-04-22 9:00 am at the NATWA 2nd convention; Lu participated via a pre-recorded short video from Taiwan ([[works/taiwaneseamerican-org/natwa2con|natwa2con]]).
 
 - 覆核（deepen-x-09250600-1, 2026-09-25）：fresh ZH+EN grep（陸慧綿/Mian Mian Lu）— 命中僅自有存根 [[works/taiwaneseamericanhistory-org/whos-who-2082-mian-mian-lu|whos-who-2082]]、index、已載的 NATWA 2nd convention 紀錄 [[works/taiwaneseamerican-org/natwa2con|natwa2con]] — SKIP，已飽和，無新材料。
+- Re-verify 2026-10-01 (slice 09261000-2): fresh ZH+EN grep (works/ + articles/) — same hits only: own stub whos-who-2082, the works index, and the natwa2con panel record (both already linked above). No memoir, newsletter, or event report names her. Verified saturated, SKIP.
 
 ## Sources
 - [TAH #2082 encyclopedia: 2082. Mian Mian Lu 陸慧綿](https://taiwaneseamericanhistory.org/whos-who-2082-mian-mian-lu/)
