@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-26
+last_reviewed: 2026-10-01
 ---
 # UCLA Taiwanese American Union
 
@@ -23,8 +23,8 @@ The UCLA Taiwanese American Union (TAU) was an undergraduate Taiwanese student o
 - 2012-10-20 — a Taiwaneseamerican.org community listing records a “Mini Olympics & Social with UCI + UCLA Taiwanese American Clubs” campus event: [[works/taiwaneseamerican-org/mini-olympics-social-with-uci-ucla-taiwanese-american-clubs|Mini Olympics & Social with UCI + UCLA Taiwanese American Clubs]] (duplicate listing: [[works/taiwaneseamerican-org/mini-olympics-social-with-uci-ucla-taiwanese-american-clubs-2|same event, second record]]). The listing names UCLA Taiwanese American clubs collectively and does not name TAU explicitly, so it is recorded as corroborating UCLA Taiwanese student-club intercampus activity in 2012 rather than a TAU-specific attribution.
 - Otherwise no memoir or record in works/ or articles/ names the UCLA Taiwanese American Union / TAU directly; contemporary UCLA Taiwanese student organizing in the corpus is documented on the separate pages [[organizations/taiwanese-american-student-association-at-ucla|TASA at UCLA]] and [[organizations/taiwanese-student-association-at-ucla|Taiwanese Student Association at UCLA]].
 - HOLD (2026-09-25 re-grep): the only corpus "TAU" is 台美聯合陣線 (TAU), whose admins appear among the signatories of [[works/taiwaneseamerican-org/bilingual-chinese-english-an-open-letter-to-the-taiwanese-american-community-sec|給台美人的一封公開信：守護台灣民主 (2020)]] — that is the national 台美聯合陣線 coalition, not this UCLA undergraduate club; no relation claimed, attribution held. No fresh first-person material.
-- Corpus re-grep 2026-09-25 (slice 09250400-2): zero hits for "UCLA Taiwanese American Union"/uclatau in works/ + articles/ — nothing absorbable; page state unchanged.
 - Corpus re-grep 2026-09-26 (slice 09251527-22): zero hits again in works/ + articles/; 2012 Mini Olympics listing + 台美聯合陣線 TAU disambiguation HOLD above stand; nothing absorbable, page state unchanged.
+- Corpus re-grep 2026-10-01 (slice 09260900-24): fresh case-insensitive grep for "UCLA Taiwanese American Union"/uclatau across works/ + articles/ → zero hits, unchanged. Wider UCLA sweep found period material on predecessor-era UCLA Taiwanese student organizing — [[works/taiwaneseamericanhistory-org/ourjourneys240|TAH Our Journeys #240, 半世紀前 UCLA的那些日子, 08/2016]] (1960s–70s 台灣同學會/讀書會 era: 劉天良's 1966 迎新會, the 讀書會 rotating book reports, and Neil Jacoby's 1967 campus talk; names 劉天良, 陳嶄新, 李木通, 黃根深, 王秋森, 陳松真/陳松楨) and oral-history mirrors in [[works/taiwaneseamericanhistory-org/ourjourneys212|Our Journeys #212]] and [[works/taiwaneseamericanhistory-org/ourjourneys61|Our Journeys #61]]. These predate and do not name TAU (contemporary, Culture-Night/a-cappella era), so they are recorded as background on UCLA Taiwanese student organizing, not TAU attribution — no merge, HOLD stance unchanged.
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/ucla-taiwanese-american-union/)

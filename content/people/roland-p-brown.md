@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-10-01
 ---
 # Roland P. Brown (薄柔纜醫生)
 
@@ -56,3 +56,4 @@ last_reviewed: 2026-09-25
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 Corpus re-check (deepen-x 09250800-32, 2026-09-25): fresh ZH+EN grep 薄柔纜 / Roland|Rowland Brown → only already-absorbed TAH #88 / My Stories #159 + works index. SKIP: verified saturated.
+Corpus re-check (deepen-x 09260900-24, 2026-10-01): fresh ZH+EN grep 薄柔纜 / Roland P. Brown / Rowland Brown → same hits (#88, mystories159 — title spellings "Roland"/"Rowland" conflict still held, see HOLD above — plus works/index). Nothing new absorbable. SKIP — verified saturated.
