@@ -48,3 +48,4 @@ _No filled family fields on the TAH profile._
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 <!-- Re-verified deepen-x 09251031-15 (2026-09-26): fresh ZH+EN grep — hit set unchanged (own record [[works/taiwaneseamericanhistory-org/whos-who-2090-rachel-liu-siu|2090. Rachel Liu Siu 劉廣然]] + works index only); still no memoir/community-narrative material beyond the TAH profile. SKIP stands. -->
+<!-- Re-verified deepen-x 09261200-25 (2026-10-01): fresh ZH+EN grep (`劉廣然|Rachel Liu Siu`) — hit set unchanged (own record [[works/taiwaneseamericanhistory-org/whos-who-2090-rachel-liu-siu|2090. Rachel Liu Siu 劉廣然]] + works/index.md directory row only). Still no memoir/community-narrative material beyond the TAH Who's Who profile. SKIP stands. -->

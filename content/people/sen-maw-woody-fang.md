@@ -49,3 +49,4 @@ last_reviewed: 2026-10-01
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 <!-- deepen-x 09231300-32: re-verify — fresh ZH+EN grep of works/ + articles/: hit set unchanged (own record + already-absorbed works only); SKIP persists. -->
 <!-- deepen-x 09251023-29 (2026-09-26): re-verify — fresh -E grep (方森茂|Woody Fang|Sen Maw) hits only ourjourneys239, whos-sen-maw-woody-fang, index.md — both already absorbed above; SKIP persists. -->
+<!-- deepen-x 09261200-25 (2026-10-01): re-verify — fresh -E grep (方森茂|Woody Fang|Sen Maw) over works/ + articles/ still hits only ourjourneys239, whos-sen-maw-woody-fang, and the works/index.md directory row; all three already reflected above (the $10,000 夏令會 donation fact is quoted in full at [[works/taiwaneseamericanhistory-org/ourjourneys239|Our Journeys #239]]). No new corpus material. SKIP persists. -->
