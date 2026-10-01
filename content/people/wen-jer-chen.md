@@ -49,3 +49,5 @@ last_reviewed: 2026-10-01
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+- Corpus re-grep 2026-10-01 (deepen-x slice 09261000-30): full ZH+EN grep (陳文哲/Wen Jer Chen) of works/ + articles/ returns only whos1402, eulogy mystories484 and the works index — hit set unchanged; verified saturated, SKIP with reason (nothing new absorbable).

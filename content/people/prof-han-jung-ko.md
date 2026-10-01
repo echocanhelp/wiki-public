@@ -49,3 +49,5 @@ _No filled family fields on the TAH profile._
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - 2026-09-26 deepen-x slice 09252123-30: fresh ZH+EN grep (works+articles) — hit set identical to prior passes, all already linked; verified saturated (SKIP).
+
+- 2026-10-01 deepen-x slice 09261000-30: fresh ZH+EN grep (柯涵容/Han-Jung Ko/Han Jung Ko) — hit set identical (Pew response statement where the name does not actually occur, whos-who-1665, index). Verified saturated (SKIP).
