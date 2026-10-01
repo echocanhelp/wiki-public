@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-26
+last_reviewed: 2026-09-30
 ---
 # Cheng-Hou Lee (李振豪)
 
@@ -54,3 +54,4 @@ _No filled family fields on the TAH profile._
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 <!-- deepen-x slice 09251417-5 re-grep 2026-09-26: fresh grep of works+articles — hit set unchanged (own records + index only); no new absorbable corpus material. Verified-saturated; SKIP content-deepen. -->
+<!-- deepen-x slice 09260900-13 re-grep 2026-09-30: fresh ZH+EN grep of works+articles — hit set unchanged (own records 286/569 + index only); no new absorbable corpus material. Verified-saturated; SKIP content-deepen. -->

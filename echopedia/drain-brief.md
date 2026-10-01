@@ -1,4 +1,4 @@
-## Queue drain — 2026-09-30
+## Queue drain — 2026-10-01
 - Items: **40**
 
 - `people/bai-peiyu.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
@@ -12,7 +12,6 @@
 - `people/chao-sile.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 - `people/du-ao-cunfu.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 - `people/guan-renjian.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
-- `people/li-jian.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 - `people/yang-yueqing.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 - `people/yuan-zhihui.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 - `people/huang-diyin.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
@@ -23,6 +22,7 @@
 - `people/george-lee.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 - `people/huang-yongcheng.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 - `people/prof-sze-ya-yeh.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
+- `people/li-jian.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 - `people/dr-wei-yang-andy-lin.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 - `people/kuan-cheng-lu.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 - `people/po-wei-lai.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
