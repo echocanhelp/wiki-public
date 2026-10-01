@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-26
+last_reviewed: 2026-10-01
 ---
 # C. Y. Lee (李欽勇博士)
 
@@ -43,6 +43,7 @@ _No filled family fields on the TAH profile._
 - 2026-09-25 (slice -32): new hit — taiwanjustice.net archive carries a 2018-06-10 民報 column 「中國國民(搶產)黨」政客猛於怪手 signed 李宗穎 ([[articles/taiwanjustice-net/2024/20240723031558_root_f2227632f4982941|政客猛於怪手]]), filed under that site's 中國國民黨 tag page ([[articles/taiwanjustice-net/2024/20240613093733_root_2bdb311d90c0db7e|Tag: 中國國民黨]]). If the 2020 TAH 李宗穎 is this columnist, he was an active 台灣Dispatch/民報 commentator — HOLD (column carries no 漢名 beyond 李宗穎, no link to the TAH professor record) still stands; no merge with 李欽勇.
 
 - 2026-09-26 corpus re-check (slice 09252123-2): hit set unchanged (TAH #1444 李欽勇, the 2020 李宗穎 record, the Shanghai Expo article, index). Verified-saturated; both HOLDs stand; SKIP-content.
+- 2026-10-01 corpus re-grep (slice 09260900-15): fresh grep (李欽勇 / 李宗穎 / C. Y. Lee) across works/ + articles/ returns only records already cited above — the two bibliography-only TAH records (#1444, #2020: 'Bibliographic record only. Full text stays in the vault' — no absorbable body text), the Shanghai Expo article, and index rollup rows. SKIP: verified-saturated, no new corpus facts; both HOLDs stand.
 ## Sources
 - [TAH Who's Who](https://taiwaneseamericanhistory.org/person/c-y-lee/)
 

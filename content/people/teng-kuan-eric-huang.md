@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-26
+last_reviewed: 2026-10-01
 ---
 # Teng-Kuan Eric Huang (黃勝寬)
 
@@ -50,3 +50,4 @@ _No filled family fields on the TAH profile._
 <!-- deepen-x slice 09231100-5 (2026-09-25): re-verified — fresh ZH+EN grep of works/ + articles/ returns only the records already linked/absorbed above (plus works/index rollup); no new memoir material; no conflicts resolved or added. -->
 <!-- deepen-x slice 09250400-1 (2026-09-25): SKIP re-verified — fresh ZH+EN grep of works/ + articles/ returns only the records already cited on this page; nothing new absorbable. -->
 <!-- deepen-x slice 09251527-21 (2026-09-26): re-verified — fresh grep (黃勝寬/黃騰寬/Teng-Kuan) → only whoswho1637, music398, eric-teng-kuan-huang-pianist already linked above; nothing new absorbable; duplicate-page HOLD (勝寬 vs 騰寬) still open. -->
+<!-- deepen-x slice 09260900-15 (2026-10-01): SKIP re-verified — fresh grep (黃勝寬 / 黃騰寬 / Teng-Kuan) of works/ + articles/ returns only the records already linked/absorbed above (plus the works/index rollup rows); no new memoir material; duplicate-page HOLD (勝寬 vs 騰寬) still open. -->
