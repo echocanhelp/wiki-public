@@ -51,3 +51,4 @@ _No filled family fields on the TAH profile._
 > Re-verify 2026-09-23 (deepen-x slice 09221400-10): fresh grep works/+articles/ — hit set unchanged (own records + works/index only), all records already wikilinked above. SKIP; nothing new absorbable.
 > Re-verify 2026-09-25 (deepen-x slice 09240800-22): fresh grep — hit set unchanged (#1735/#412 + index only). SKIP stands.
 > Re-verify 2026-09-26 (deepen-x slice 09251023-12): fresh grep — hit set unchanged (#1735/#412 + index only). SKIP stands.
+> Re-verify 2026-09-30 (deepen-x slice 09260900-2): fresh grep of works/ + articles/ — hit set unchanged (#1735/#412 + works index only), all already wikilinked above. SKIP stands.

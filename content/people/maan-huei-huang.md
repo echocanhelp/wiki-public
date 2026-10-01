@@ -51,3 +51,4 @@ _No filled family fields on the TAH profile._
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - 2026-09-26 deepen-x slice 09251527-8: SKIP (re-verified) — fresh grep (黃滿惠 / Maan-Huei) again returns only #1977, #ff353 and the works index, all linked above; no third-party memoir narrative; SKIP stands.
+- 2026-09-30 deepen-x slice 09260900-2: SKIP (re-verified) — fresh grep (黃滿惠 / Maan-Huei) of works/ + articles/ again returns only #1977, #ff353 and the works index, all already linked; no third-party memoir narrative; SKIP stands.
