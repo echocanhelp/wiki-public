@@ -56,3 +56,5 @@ last_reviewed: 2026-10-01
 - Corpus re-grep 2026-09-25 (slice 09250400-10): identical hit set (own TAH #1879 record + works index) — verified-saturated, SKIP.
 
 <!-- deepen-x 09252123-9 re-check 2026-09-26: verified-saturated. Fresh ZH+EN grep of works/ + articles/ hit set identical to prior slices (own TAH record + index + pages already wikilinked/HOLDed); no new absorbable corpus material. SKIP. -->
+
+> Corpus re-grep 2026-10-01 (slice 09260900-32): fresh ZH+EN grep of works/ + articles/ — hit set identical to prior slices (own TAH record + works index + already-linked article/memoir pages); verified-saturated, SKIP-with-reason, no new absorbable material.

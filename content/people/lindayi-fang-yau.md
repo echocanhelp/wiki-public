@@ -54,3 +54,5 @@ Re-grep 2026-09-25 (slice-16): hit set unchanged (#1566 own entry, #290 HAPA-NA 
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 Re-grep 2026-09-26 (slice 09251023-14): hit set identical (#1566, #290, #382, #383, index) — verified saturated, nothing new absorbable.
+
+Corpus re-check (deepen-x slice 09260900-31, 2026-10-01): fresh ZH+EN grep of content/works + content/articles returned the same saturated hit set — own TAH record(s) plus the memo/article passages already wikilinked above, plus the works index. Nothing new absorbable; no conflicts to hold. SKIP.
