@@ -6,7 +6,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-10-01
 ---
 # 陳金松
 
@@ -52,3 +52,4 @@ _No filled family fields on the TAH profile._
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 <!-- deepen-x 09231200-18: SKIP — fresh ZH+EN grep of works/+articles/: only own TAH #223/#463 records; no external corpus coverage; HOLD (roles) stands. -->
 <!-- deepen-x 09250600-5: SKIP — fresh ZH+EN grep (陳金松/Jin Song Chen) of works/+articles/: hit set identical (own #223/#463 records + works/index.md only); nothing absorbable; HOLD (roles) stands. -->
+<!-- deepen-x 09261100-22: SKIP — fresh ZH+EN grep (陳金松/Jin Song Chen) of works/+articles/: hit set identical (own #223/#463 records + works/index.md only); no external corpus coverage; nothing absorbable; HOLD (roles) stands. -->

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-10-01
 ---
 # Tze-jer Chuang (莊子哲)
 
@@ -54,3 +54,5 @@ _No filled family fields on the TAH profile._
 > SKIP re-check (deepen-x 09231300-21, 2026-09-25): fresh ZH+EN grep of content/works + content/articles returned only the own TAH bibliographic record + index lines — no community/memoir material to absorb; SKIP stands.
 
 > SKIP re-check (deepen-x 09250600-22, 2026-09-25): fresh ZH+EN grep of content/works + content/articles returned only the own TAH bibliographic record + index lines (footsteps/mystories hits were false matches on other names); no community/memoir material to absorb; SKIP stands.
+
+> SKIP re-check (deepen-x 09261100-22, 2026-10-01): fresh ZH+EN grep (莊子哲/Tze-jer Chuang) of content/works + content/articles returned only own record 741 + works/index.md — no memoir or community mentions; SKIP stands.
