@@ -45,6 +45,8 @@ HOLD: conflict — the memoir places 劉寬平 in 1980 as vice president of a Ma
 
 Corpus re-grep 2026-09-25 (slice 09250600-19): hit set unchanged (ourjourneys59, whos-who776 + works index); the 蔡同榮 memoir passage is already absorbed above — nothing new absorbable (SKIP).
 
+Corpus re-grep 2026-10-01 (slice 09261200-6): fresh grep of works/ + articles/ for 劉寬平 / George K. Liu returns the same hit set — ourjourneys59, whos-who776, and works/index. The 蔡同榮 memoir passage (1980 Massachusetts fruit-company VP, Kennedy introduction via the company's Washington agent) is already absorbed above and the United Brand vs. fruit-company conflict remains on HOLD. No new corpus material to absorb (SKIP).
+
 ## Sources
 - [TAH #776 encyclopedia: 776. George K. Liu 劉寬平 /2016/01](https://taiwaneseamericanhistory.org/whos-who776/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/george-k-liu/)
