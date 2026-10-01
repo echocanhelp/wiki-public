@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-10-01
 ---
 # Huey J. Lee (李惠仁醫師)
 
@@ -42,6 +42,7 @@ last_reviewed: 2026-09-25
 - 2026-09-22 覆核（deepen-x 09210831-32）：works/、articles/ 再查僅見上述三筆（ourjourneys12 幽默大師、ourjourneys153 街頭抗爭分享〔已 HOLD〕、自record 900）。無新增事實可吸收；ourjourneys153 之同姓名衝突維持 HOLD。
 - 2026-09-25 覆核（deepen-x 09231200-9, 09250500-16）：語料庫再查結果與前次相同（ourjourneys12、ourjourneys153、自record 900），無可吸收之新事實；同姓名衝突維持 HOLD；saturated。
 
+- 2026-10-01 覆核（deepen-x 09261200-13）：`works/`、`articles/` 以 -E 再查僅見 ourjourneys12（幽默大師）、ourjourneys153（街頭抗爭分享〔已 HOLD〕）與自record 900；同名衝突維持 HOLD，無可吸收之新事實；saturated。
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/huey-j-lee/)
 

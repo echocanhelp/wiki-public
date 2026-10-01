@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-10-01
 ---
 # Rev. H. D. Chen (陳浩德牧師)
 
@@ -35,6 +35,7 @@ last_reviewed: 2026-09-25
 - **Son:** 慕恩
 
 
+- 2026-10-01 re-verify (deepen-x 09261200-13): fresh -E grep (陳浩德|H. D. Chen) over `content/works` + `content/articles` again returns only the own TAH #1824 record and works/index.md. Saturated — no absorbable corpus fact; section above stands.
 ## Sources
 - [TAH #1824 encyclopedia: 1824. Rev. H. D. Chen 陳浩德牧師](https://taiwaneseamericanhistory.org/whos-who-1824-h-d-chen/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/rev-h-d-chen/)

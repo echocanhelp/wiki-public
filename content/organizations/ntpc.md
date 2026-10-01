@@ -6,7 +6,7 @@ tags:
   - disambiguation
   - NTPC
 verification_status: published
-last_reviewed: 2026-09-25
+last_reviewed: 2026-10-01
 ---
 # NTPC — National Taiwanese Presbyterian Council (not New Taipei City)
 
@@ -14,9 +14,9 @@ last_reviewed: 2026-09-25
 
 | Initials used as… | Spell-out | Page |
 |---|---|---|
-| **NTPC** (church) | **N**ational **T**aiwanese **P**resbyterian **C**ouncil · 美國基督長老教會全國台灣人教會聯合會 | [[organizations/national-taiwanese-presbyterian-council]]]] |
+| **NTPC** (church) | **N**ational **T**aiwanese **P**resbyterian **C**ouncil · 美國基督長老教會全國台灣人教會聯合會 | [[organizations/national-taiwanese-presbyterian-council|National Taiwanese Presbyterian Council]]] |
 | **NTPC** (city) | **N**ew **T**aipei **C**ity · 新北市 | civic — not a church |
-| **PCT 北部大會** | **P**resbyterian **C**hurch in **T**aiwan, Northern Synod | [[organizations/presbyterian-church-in-taiwan]]]] — **do not call this NTPC** |
+| **PCT 北部大會** | **P**resbyterian **C**hurch in **T**aiwan, Northern Synod | [[organizations/presbyterian-church-in-taiwan|Presbyterian Church in Taiwan]]] — **do not call this NTPC** |
 
 This slug used to say “North Taiwan Presbyterian Church (NTPC)” and pointed at the US council. That merge is wrong.
 
@@ -37,6 +37,9 @@ Full page: [[organizations/national-taiwanese-presbyterian-council||National Tai
 
 Corpus re-verified 2026-09-25 (deepen-x slice 09250600-26): grep returns only the two tahs.org records already linked above plus the index row; no new memoir coverage; ZH-name HOLD stands.
 
+Corpus re-verified 2026-10-01 (deepen-x slice 09261200-13): -E grep (NTPC|全美台灣人教會聯合會|美國基督長老教會全國台灣人教會聯合會) over `content/works` + `content/articles` returns only the two tahs.org records linked above, the works index, and an unrelated 陳其邁勝選 tag file under articles/taiwanjustice-net/ (city-sense noise, not council coverage). No new corpus coverage; ZH-name HOLD stands.
+
 ## Related Pages
 - [[organizations/national-taiwanese-presbyterian-council||National Taiwanese Presbyterian Council]]
-|- [[organizations/presbyterian-church-in-taiwan||Presbyterian Church in Taiwan]]
+- [[organizations/presbyterian-church-in-taiwan||Presbyterian Church in Taiwan]]
+
