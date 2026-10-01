@@ -48,3 +48,4 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+<!-- deepen-x slice 09261300-11 recheck 2026-10-01: fresh ZH+EN grep (David Wang / 王思眾) of works/+articles — hit set unchanged (own record whos-who-2282 + works/index digest line). No independent memoir material. SKIP-with-reason stands. -->

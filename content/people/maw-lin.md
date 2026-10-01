@@ -46,3 +46,4 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+<!-- deepen-x slice 09261300-11 recheck 2026-10-01: fresh ZH+EN grep (Maw Lin / 林茂雄) of works/+articles — hit set unchanged (own records whoswho1024 + #28 + works/index digest lines). No memoir material. SKIP-with-reason stands. -->
