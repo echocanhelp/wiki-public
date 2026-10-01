@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-10-01
 ---
 # Show-Ya Wang (邱綉雅)
 
@@ -38,6 +38,7 @@ last_reviewed: 2026-09-25
 ## Family
 
 - Spouse: [[people/gene-jack-wang|王俊傑 (Gene-Jack / "Samson") Wang]] (per the TPC St. Louis memoir, which names the couple together).
+- Re-verified 2026-10-01 (deepen-x slice 09261100-14): fresh ZH+EN grep of works/ + articles/ returns only whos-who-1659, ourjourneys305, and the works index — all absorbed above. Verified saturated, no new material.
 
 ## Sources
 - [TAH #1659 encyclopedia: 1659. Show-Ya Wang 邱綉雅](https://taiwaneseamericanhistory.org/whos-who-1659-show-ya-wang/)

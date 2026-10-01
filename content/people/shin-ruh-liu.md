@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-10-01
 ---
 # Shin-Ruh Liu (劉新祿)
 
@@ -40,7 +40,7 @@ last_reviewed: 2026-09-25
 ## Family
 
 - **Son:** 劉兆民
-
+- Re-verified 2026-10-01 (deepen-x slice 09261100-14): fresh ZH+EN grep of works/ + articles/ again returns only the four records already cited (#57, #999 encyclopedias, #377 小傳 / 洪嘉惠, #376 先父 memoir / 劉兆民) plus the works index — saturated; SKIP, nothing absorbable.
 
 ## Sources
 - [TAH #999 encyclopedia: 999. Shin-Ruh Liu 劉新祿 / 2016/05](https://taiwaneseamericanhistory.org/whoswho999/)

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-10-01
 ---
 # Gloria Chang
 
@@ -38,6 +38,7 @@ Note (2026-09-25): [[works/taiwaneseamericanhistory-org/ourjourneys2|2. 《台�
 
 
 - 2026-09-25 deepen-x slice 09250500-18 re-check: fresh EN grep of works/+articles/ returns the identical hit set (own TAH record who830 + works index only) — verified-saturated, no new material on Gloria herself.
+- 2026-10-01 re-verify (deepen-x slice 09261100-14): fresh EN+ZH grep of works/ + articles/ returns only her own TAH record who830-gloria-chang, the parental records (199/195/558), and the family memoirs (ourjourneys53, 142, 37, 38, 24-eng) already cited — no new material on Gloria herself. SKIP-with-reason: corpus-saturated.
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/gloria-chang/)
