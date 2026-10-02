@@ -40,5 +40,5 @@ Accomplishment
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
-<!-- DEEPEN-X slice 09251054-19 2026-09-26: re-verified SKIP — grep (高健元 / Chien Yuan Kao / Chien-Yuan Kao, works+articles) returned only own TAH #1736 record + index. -->
+<!-- DEEPEN-X slice 09251054-19 2026-09-26, re-verified slice 09261405-11 2026-10-01: fresh grep (高健元 / Chien Yuan Kao / Chien-Yuan Kao / Kao Chien-Yuan, works+articles) returned only own TAH #1736 record + index. -->
 <!-- DEEPEN-X SKIP 2026-09-20; re-verified SKIP 2026-09-21 (slice 09210051-14) and 2026-09-25 (slice 09232337-4): fresh corpus grep (高健元 / Chien Yuan Kao / Chien-Yuan Kao, works+articles) returned only own TAH #1736 Who's Who record (band B, bibliographic) + index entry. No memoir/community records; nothing absorbable. No bio invented. -->
