@@ -49,6 +49,7 @@ HOLD: TAH #180 lists him as 洛台鄉會第一任會長 1968–1971, while 周�
 ## Re-grep log
 - Corpus re-grep 2026-09-25 (slice 09240500-3): fresh ZH+EN grep — hit set identical (ourjourneys54-eng, 244, 295, whoswho1033, TAH #180; the photo-albums-111 / mystories403 / ourjourneys76-eng matches remain Donald C.J. Chen under the HOLD above); verified-saturated, no new absorbable material.
 - Corpus re-grep 2026-09-24 (slice 09230500-8): verified-saturated — hit set (ourjourneys54-eng, ourjourneys244, ourjourneys295, whoswho1033, TAH #180) all linked above. The ourjourneys76-eng match is "Donald C. J. Chen", TAA DC founding-chapter president ([[people/donald-c-j-chen]]) — same HOLD as above, not this person; no new absorbable material.
+- Corpus re-grep 2026-10-01 (slice 09270315-1): fresh ZH+EN grep — hit set unchanged (ourjourneys54-eng, 244, 76-eng, whoswho1033, TAH #180, works index; the photo-albums-111 / mystories403 / 58-first-private-clinic / ff309 matches remain Dr. Donald C.J. Chen 陳哲仁 under the HOLD above). Verified-saturated, no new absorbable material. hits-hash=6d8801f1c6bf
 
 ## Sources
 - [TAH #1033 encyclopedia: 1033. C. J. Chen 陳銓仁 / 2016/05](https://taiwaneseamericanhistory.org/whoswho1033/)

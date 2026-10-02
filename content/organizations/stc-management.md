@@ -7,7 +7,7 @@ tags:
   - real-estate
   - los-angeles-area
 verification_status: pending
-last_reviewed: 2026-09-26
+last_reviewed: 2026-10-01
 ---
 # STC Management (順天 · Sung Tien Collaboration)
 
@@ -44,3 +44,4 @@ A documented example of Taiwanese-American presence in a sector (commercial real
 ## Related Pages
 - [[organizations/taiwanese-american-association-of-los-angeles-east-san-gabriel-valley|TAALA East SGV]] — neighboring SGV community org
 - [[sources/stcmanagement-com|STC Management (official site)]]
+- Corpus re-grep 2026-10-01 (slice 09270315-2): fresh grep (STC Management / Sung Tien / 順天) over works+articles — the 順天 hits are the unrelated 順天美術館 (Sun Ten Museum, Taipei art collection — see [[organizations/sun-ten-museum|Sun Ten Museum]]) and 順天沙龍/Sheng-Tien Salon, NOT this SGV firm; zero hits for STC Management itself. Nothing absorbable. SKIP-content.
