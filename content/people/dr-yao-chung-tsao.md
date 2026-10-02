@@ -48,3 +48,5 @@ A recipient of Alexander C. Williams, Jr Award from Human Factors and Ergonomics
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - 2026-09-26 re-sweep (slice 09251039-10): fresh ZH+EN grep for this name across works/ + articles/ returns only record 756 (already linked) + works/index. Corpus-saturated — nothing further absorbable.
+
+- 2026-10-01 re-sweep (slice 09261341-9): fresh ZH+EN grep for 卓耀宗 / Yao-Chung Tsao across works/ + articles/ returns only record 756 (already linked) + works/index. Corpus-saturated — SKIP stands.

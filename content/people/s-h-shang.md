@@ -44,3 +44,4 @@ last_reviewed: 2026-10-01
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- 2026-10-01（slice 09261341-9）重查：ZH+EN grep（商夏會 / S. H. Shang）命中集不變 — 僅本人傳記書目頁 [[works/taiwaneseamericanhistory-org/1162-s-h-shang-e5-95-86-e5-a4-8f-e6-9c-83-201607|TAH #1162 商夏會 / 2016-07]] 與 works/index，無可吸收史料；配偶視角記述維持 HOLD（蘇國雄同一性未证实）。

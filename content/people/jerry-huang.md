@@ -51,3 +51,4 @@ last_reviewed: 2026-10-01
 - Re-verified 2026-09-22: fresh grep still returns only the own TAH record and works index; no community-record material. SKIP stands.
 - Re-verified 2026-09-25: fresh ZH+EN grep returns only own TAH record [[works/taiwaneseamericanhistory-org/whoswho1061|1061. Jerry Huang 黃金利]] and works index. SKIP stands.
 - 2026-09-26 re-sweep (slice 09251039-9): fresh ZH+EN grep — hits remain only own record [[works/taiwaneseamericanhistory-org/whoswho1061|1061. Jerry Huang 黃金利]] + works index; SKIP-deepen stands.
+- 2026-10-01 re-sweep (slice 09261341-9): fresh ZH+EN grep — hits remain only own record [[works/taiwaneseamericanhistory-org/whoswho1061|1061. Jerry Huang 黃金利]] + works/index. SKIP-deepen stands.
