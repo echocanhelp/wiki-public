@@ -44,7 +44,7 @@ last_reviewed: 2026-10-01
 
 ## Related Pages
 ## Role in the Community
-- 2026-09-21 deepen-x pass; re-verified 2026-09-25 (fresh grep 鄭許梅): corpus check found the person's own story record in the TAHS corpus; no other works/articles mentions, no new absorbable facts, no conflicts.
+- 2026-09-21 deepen-x pass; re-verified 2026-09-25 and 2026-09-26 (slice 09251047-22) and 2026-10-01 (slice 09261405-11; fresh grep 鄭許梅 over works/ + articles/): corpus check found only the person's own story record in the TAHS corpus + its index row; no other works/articles mentions, no new absorbable facts, no conflicts.
 - Personal record in corpus: [[works/taiwaneseamericanhistory-org/586-e9-84-ad-e8-a8-b1-e6-a2-85-201509|586. 鄭許梅 / 2015/09]] (published bibliographic record, band B).
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
