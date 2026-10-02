@@ -38,6 +38,7 @@ _No filled family fields on the TAH profile._
 
 - Community record held in the corpus as [[works/taiwaneseamericanhistory-org/1443-wenhui-cai-e8-94-a1-e6-96-87-e8-bc-9d-201612|TAH encyclopedia record #1443 (2016-12-26)]] — bibliographic record only; no memoir or community-activity text in the vault names him beyond the press-kit profile.
 - Re-check (deepen-x 09210900-23, 2026-09-22; prior pass 09191200-30; deepen-x 09231500-5, 2026-09-25): fresh grep of content/works + content/articles for 蔡文輝 / Wenhui Cai — hits limited to the own bibliographic record plus works/index. SKIP confirmed.
+- Re-sweep 2026-10-01 (slice 09261341-32): fresh ZH+EN grep of works/ + articles/ — hits unchanged ([[works/taiwaneseamericanhistory-org/1443-wenhui-cai-e8-94-a1-e6-96-87-e8-bc-9d-201612|TAH #1443]] + works/index only); no new absorbable facts. SKIP.
 
 ## Sources
 - [TAH #1443 encyclopedia: 1443. Wenhui Cai  蔡文輝 / 2016/12](https://taiwaneseamericanhistory.org/1443-wenhui-cai-%e8%94%a1%e6%96%87%e8%bc%9d-201612/)

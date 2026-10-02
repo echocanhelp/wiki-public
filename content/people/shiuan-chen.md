@@ -33,6 +33,7 @@ last_reviewed: 2026-10-01
 - Appears in the TAH story corpus as his own Who's Who record: [[works/taiwaneseamericanhistory-org/780-shiuan-chen-e9-99-b3-e7-91-84-201601|780. Shiuan Chen 陳瑄 / 2016/01]] (band B, published 2016-01-31); the record lists him as subject.
 - Corpus note: the only other corpus match, [[works/taiwaneseamerican-org/the-228-inheritance-taiwans-revolution-is-here|The 228 Inheritance]], cites "Yaut Yi-Shiuan Chen" (decolonizing-property scholarship, 2018) — likely a different person, not absorbed.
 - Re-swept 2026-09-25: ZH+EN grep of works/ and articles/ returned zero hits beyond the records above — SKIP: no new corpus material to absorb.
+- Re-sweep 2026-10-01 (slice 09261341-32): fresh ZH+EN grep — hits unchanged (own record [[works/taiwaneseamericanhistory-org/780-shiuan-chen-e9-99-b3-e7-91-84-201601|780]], works/index, and the 228 Inheritance footnote citing a different person, Yaut Yi-Shiuan Chen). No new absorbable material. SKIP.
 
 ## Family
 
