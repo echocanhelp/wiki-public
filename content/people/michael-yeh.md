@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-02
 ---
 # Michael Yeh (葉明青)
 
@@ -44,3 +44,4 @@ last_reviewed: 2026-10-01
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 <!-- DEEPEN-X SKIP 2026-09-26 (re-check of 2026-09-25 pass, slice 09251054-18): corpus re-grep (葉明青 / Michael Yeh, works+articles) again returned only own TAH #2313 Who's Who record [[works/taiwaneseamericanhistory-org/whos-who-2313-michael-yeh|2313. Michael Yeh 葉明青]] (band B, bibliographic) + index entry. No memoir/community records; nothing absorbable. No bio invented. -->
+<!-- DEEPEN-X SKIP 2026-10-02 (slice 09261405-32 re-verify): corpus re-grep (葉明青 / Michael Yeh, works+articles) again returned only own TAH #2313 Who's Who record [[works/taiwaneseamericanhistory-org/whos-who-2313-michael-yeh|2313. Michael Yeh 葉明青]] + index entry. No memoir/community records; nothing absorbable. No bio invented. -->

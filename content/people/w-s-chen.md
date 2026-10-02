@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-02
 ---
 # W. S. Chen (陳務憲)
 
@@ -44,3 +44,4 @@ No community activity recorded in the corpus beyond his TAH profile (re-verified
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+<!-- DEEPEN-X SKIP 2026-10-02 (slice 09261405-32 re-verify): corpus re-grep (陳務憲 / W. S. Chen) returned own record whoswho1521, the distinct same-initials person 陳文祥 (whoswho1658 — do NOT merge), and the works index. No community/memoir material; page already saturated at HEAD. -->
