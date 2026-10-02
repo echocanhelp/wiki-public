@@ -7,7 +7,7 @@ tags:
   - taiwanjustice-net
   - thin-page
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-10-01
 name_en: "Hou Yu-ih"
 ---
 # Hou Yu-ih (侯友宜)
