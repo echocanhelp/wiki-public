@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-27
+last_reviewed: 2026-10-02
 ---
 # Agnes Hsiao (黃美琇)
 
@@ -60,3 +60,5 @@ last_reviewed: 2026-09-27
 <!-- deepen-x slice 09251023-5 re-verify 2026-09-26: fresh grep of works/+articles/ — hit set identical to records already cited/absorbed on this page; verified-saturated, no new absorbable facts -->
 
 Corpus re-check 2026-09-27 (deepen-x slice 09260600-27): fresh ZH+EN grep of works/ + articles/ — hit set identical to the records already wikilinked/absorbed on this page; verified-saturated, no new absorbable facts, no conflicts to HOLD. SKIP.
+
+Corpus re-check 2026-10-02 (deepen-x slice 09270700-13): fresh ZH+EN grep of works/ + articles/ for Agnes Hsiao / 黃美琇 — Fresh ZH+EN grep of works/ + articles/ — hit set identical to the records already wikilinked/absorbed on this page (OJ 30/30-eng/265, memoir #459, Who's Who #796, works index); verified-saturated, no new absorbable facts, no conflicts to HOLD. SKIP. hits-hash=a237b5fc3260

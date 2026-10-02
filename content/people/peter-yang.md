@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-27
+last_reviewed: 2026-10-02
 ---
 # Peter Yang (楊秉彝)
 
@@ -58,3 +58,5 @@ Accomplishment
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 Corpus re-check 2026-09-27 (deepen-x slice 09260600-27): fresh ZH+EN grep of works/ + articles/ — hit set identical to the records already wikilinked/absorbed on this page; verified-saturated, no new absorbable facts, no conflicts to HOLD. SKIP.
+
+Corpus re-check 2026-10-02 (deepen-x slice 09270700-13): fresh ZH+EN grep of works/ + articles/ for Peter Yang / 楊秉彝 — Fresh ZH+EN grep of works/ + articles/ — hit set identical to the records already wikilinked/absorbed on this page (video collection, #35, #2215, works index, TJJ 攝影 records ×2); verified-saturated, no new absorbable facts, no conflicts to HOLD. SKIP. hits-hash=e65ca2b13d07
