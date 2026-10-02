@@ -38,6 +38,7 @@ last_reviewed: 2026-10-01
 Corpus check (2026-09-20): the only corpus record naming 李茂玄 is his own TAH Who's Who entry ([[works/taiwaneseamericanhistory-org/whoswho1143|1143. Samuel Lee 李茂玄 / 2017/06]]); no memoir or movement material found in content/works or content/articles beyond this bibliographic record. SKIP-with-reason: nothing absorbable. Re-verified 2026-09-22 (slice 09210920-13) and 2026-09-25 (slice 09232337-2): fresh ZH+EN grep returned only this record and the works index.
 
 - 2026-09-26 re-verified (slice 09251054-19): fresh ZH+EN grep returned only own record whoswho1143 + works index; SKIP-with-nothing-absorbable stands.
+- 2026-10-01 re-verified (slice 09261405-16): fresh full-corpus ZH+EN grep — 李茂玄 / Samuel Lee hits only own whoswho1143 + source-hub row + name-cross-refs in samuel-wu.md (where his name is logged as a false positive, not a fact about him). SKIP confirmed (nothing absorbable).
 
 ## Sources
 - [TAH #1143 encyclopedia: 1143. Samuel Lee 李茂玄 / 2017/06](https://taiwaneseamericanhistory.org/whoswho1143/)

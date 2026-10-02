@@ -36,7 +36,11 @@ _No filled family fields on the TAH profile._
 
 ## Role in the Community
 
+Fellowship of Anesthesia for Open-Heart Surgery, Albert Einstein Hospital, 1975-1976 — the only activity trail beyond the degree/residency tables; no community/movement participation found in our corpus.
+
 Corpus reviews 2026-09-19, 2026-09-22, 2026-09-25, and 2026-09-26 (slices 09232232-1, 09251047-27): the only corpus mentions are the subject's own TAH Who's Who record — [[works/taiwaneseamericanhistory-org/whoswho1655|1655. Tony. Li-Cheng Yeh 葉禮禎 / 05/2017]] (published 2017-05-11, band B). No third-party mentions found in memoirs or community works; no new facts absorbable beyond the TAH press-kit record above.
+
+- 2026-10-01 re-verified (slice 09261405-16): fresh full-corpus ZH+EN grep — 葉禮禎 / Li-Cheng Yeh hits only own whoswho1655 + own person/source-hub rows. SKIP confirmed (nothing absorbable).
 
 ## Sources
 - [TAH #1655 encyclopedia: 1655. Tony. Li-Cheng Yeh  葉禮禎 / 05/2017](https://taiwaneseamericanhistory.org/whoswho1655/)

@@ -35,6 +35,7 @@ Corpus sweep of works/articles found only his own TAH Who's Who entry — no mem
 
 - [[works/taiwaneseamericanhistory-org/whoswho1161|1161. T. H. Ying 應天華 / 2016/07]] — TAH Who's Who record, 2016-07-20 (band B)
 - 2026-09-25 re-sweep; re-verified 2026-09-26 (slice 09251047-28): fresh ZH+EN grep of works/articles returned only own record whoswho1161 + index — SKIP (no memoir/movement material to absorb).
+- 2026-10-01 re-verified (slice 09261405-16): fresh full-corpus ZH+EN grep — 應天華 / T. H. Ying hits only own whoswho1161 + own person/source-hub rows; nothing absorbable. (A 陳小平 in a 陳破空 2021 article is the PRC anchorwoman, not his wife — not absorbable.) SKIP confirmed.
 
 ## Family
 
