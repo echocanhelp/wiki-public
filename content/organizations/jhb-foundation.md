@@ -29,7 +29,7 @@ last_reviewed: 2026-09-26
 
 - Re-verified 2026-09-25 (slice 09232337-25): grep 佳和/JHB hits are taiwanjustice-net 佳和集團 (翁茂鍾-era construction group) — different entity from LA 佳和文教基金會; nothing absorbable; SKIP stands.
 
-- Re-verified 2026-09-26 (slice 09251054-5): 佳和/JHB hits remain taiwanjustice-net false positives (胡佳和、林佳和、佳和集團 construction) — no LA 佳和文教基金會 material; SKIP stands.
+- Re-verified 2026-10-01 (slice 09261400-31): literal 佳和 sweep across content/ re-confirms every hit is a **different entity** — person names 胡佳和 (rights activist) and 林佳和 (academic, 青平台 Foundation board list) plus 佳和集團 construction (翁茂鍾 era) in taiwanjustice-net; remaining matches were `archive_digest` hash false positives (`...JHB...` base32). Zero 佳和文教基金會 material anywhere outside this page's own citation and the [[organizations/taiwan-center|Taiwan Center]] group-members listing. `verification_status` demoted `published` → `pending`: a listing-only page should not carry `published`. SKIP stands.
 
 ## Related Pages
 

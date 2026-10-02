@@ -31,10 +31,11 @@ last_reviewed: 2026-10-01
 ## Role in the Community
 - Name appears only in its own TAH Who's Who profile record [[works/taiwaneseamericanhistory-org/330-jack-w-su-e8-98-87-e6-96-87-e6-9d-b0|330. Jack W. Su 蘇文杰 / 2015/03]] (2015/03). No mentions found in memoirs or articles on fresh 2026-09-22 ZH+EN corpus greps — biographical detail beyond the TAH profile remains unknown (SKIP-with-reason; no absorbable community facts).
 - Corpus re-grep 2026-09-26 (slice 09251054-4, ZH+EN): still silent beyond [[works/taiwaneseamericanhistory-org/330-jack-w-su-e8-98-87-e6-96-87-e6-9d-b0|TAH #330]] and the works index (SKIP-with-reason).
+- Corpus re-grep 2026-10-01 (slice 09261400-31): silent again beyond [[works/taiwaneseamericanhistory-org/330-jack-w-su-e8-98-87-e6-96-87-e6-9d-b0|TAH #330]] + index; the record is verified as a bibliographic stub with no article text, so E.M.S. Trading and the Feng Chia degree have no second corroboration in the corpus (SKIP-with-reason).
 
 ## Family
 
-- **Son:** 2
+- **Children:** 2 _(TAH Who's Who "Family" field recorded as a count, not names — source-table harvest artifact, pending name expansion. Do not treat "2" as a name.)_
 
 
 ## Sources
