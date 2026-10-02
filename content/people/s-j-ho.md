@@ -24,6 +24,7 @@ last_reviewed: 2026-09-25
 ## Role in the Community
 - President of the Taiwanese Association of America Houston Chapter (休士頓台灣同鄉會會長), 2018 — community leadership role in the TAA chapter network.
 - Profiled in the TAH Foundation Who's Who, record 2116, published 2018-05-27 — [[works/taiwaneseamericanhistory-org/whos-who-2116-s-j-ho|2116. S. J. Ho 何世杰]].
+- Context (corpus grep 2026-10-01): the Houston chapter's own history — founded 1970 as 休士頓台灣同鄉會 (Houston Formosan Club), later hosting TAFCC/TAFCU, 台灣文獻會 and 台灣語學校 offices — is recorded in [[works/taiwaneseamericanhistory-org/ourjourneys-138|ourjourneys-138]] and [[works/taiwaneseamericanhistory-org/ourjourneys233-eng|ourjourneys-233]]; no memoir in the corpus names S. J. Ho personally, so nothing beyond the chapter presidency is absorbable.
 
 ## Family
 

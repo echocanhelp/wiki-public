@@ -26,8 +26,9 @@ No corpus record documents the modern graduate-level YTSA itself, but the corpus
 - Yale doctoral candidate 陳隆志 served as spokesman at the Williamsport Little League support event with the 台獨聯盟 banner (see [[works/taiwaneseamericanhistory-org/ourjourneys62|ourjourneys 62]]).
 - 鄭義勇 and 林天民, then at Yale, were part of the East-coast theological network feeding the 夏令會 movement ([[works/taiwaneseamericanhistory-org/ourjourneys268|ourjourneys 268]]).
 - Yale University appears in the 台美大學生跨校際協會 (TAUC) 1999 handbook as a member campus chapter ([[works/taiwaneseamericanhistory-org/556-e5-8f-b0-e7-be-8e-e5-a4-a7-e5-ad-b8-e7-94-9f-e8-b7-a8-e6-a0-a1-e9-9a-9b-e5-8|556. 台美大學生跨校際協會1999手冊/Yale University]]).
+- The 2014 ITASA (台美同學會, cross-campus) East Coast Conference and its alumni-events follow-up were held at Yale — the closest modern-Yale Taiwanese student organizing in the corpus; both are bibliographic band-B records with no organizational detail beyond the venue ([[works/taiwaneseamerican-org/2014-itasa-east-coast-conference-at-yale|2014 ITASA East Coast Conference at Yale]], [[works/taiwaneseamerican-org/itasa-2014-alumni-events-at-yale|ITASA 2014 Alumni Events at Yale]]). See [[organizations/taiwanese-american-society-at-yale|Taiwanese American Society at Yale]] for the separate Yale org page.
 
-HOLD: the current GSAS-registered YTSA and these earlier undergraduate/movement-era Yale groups are distinct organizations; no source merges them.
+HOLD: the current GSAS-registered YTSA and these earlier undergraduate/movement-era Yale groups are distinct organizations; no source merges them. ITASA-at-Yale 2014 is likewise a distinct, cross-campus association — not merged with YTSA or TASAY.
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/yale-taiwanese-student-association/)
