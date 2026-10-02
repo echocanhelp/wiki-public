@@ -33,6 +33,8 @@ Accomplishment
 ## Role in the Community
 Corpus check (2026-09-22 re-verify, deepen-x 09210900-13; re-verified 2026-09-25, slice 09231400-29; re-verified 2026-09-26, slice 09251039-22): the only corpus material naming him is his own TAH Who's Who entry, [[works/taiwaneseamericanhistory-org/whos-who-1747-che-hsuan-lin|1747. Che-Hsuan Lin 林哲瑄]]. No memoir or movement-record hits — he appears in the corpus only as a TAH Who's Who subject (baseball career), not as a movement actor.
 
+- Re-verified 2026-10-01 (deepen-x slice 09261400-15): fresh ZH+EN grep over works/ + articles/ returns only the own Who's Who entry in works/index.md — SKIP-with-reason unchanged: no memoir/movement material to absorb.
+
 ## Family
 
 - **Wife:** 妤婕

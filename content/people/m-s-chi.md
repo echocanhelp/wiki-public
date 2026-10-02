@@ -48,3 +48,4 @@ _No filled family fields on the TAH profile._
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - 2026-09-26 re-verified (deepen-x slice 18): fresh ZH+EN grep over works/ + articles/ returns only this own TAH record — SKIP-with-reason: no memoir material to absorb.
+- 2026-10-01 re-verified (deepen-x slice 09261400-15): fresh ZH+EN grep over works/ + articles/ again returns only the own TAH record entry in works/index.md — SKIP-with-reason unchanged.

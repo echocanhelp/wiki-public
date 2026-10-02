@@ -1,10 +1,42 @@
 {
-  "date": "2026-09-30",
+  "date": "2026-10-01",
   "standards_version": 10,
-  "total_pages_scanned": 2929,
-  "pages_with_findings": 1,
-  "auto_queued": 0,
-  "queue": [],
-  "suppressed_findings": 2245,
-  "fp_history_entries": 2308
+  "total_pages_scanned": 2930,
+  "pages_with_findings": 5,
+  "auto_queued": 2,
+  "queue": [
+    {
+      "path": "people/prof-yao-yuan-yeh.md",
+      "findings": [
+        "DESC_NO_TITLE_MENTION",
+        "READABILITY_MANY_LONG_SENTENCES_4"
+      ],
+      "priority": "medium",
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol",
+        "Fix ONLY listed findings — no inventing biography",
+        "Update last_reviewed after fixes",
+        "Commit only (no publish)"
+      ]
+    },
+    {
+      "path": "people/林芸.md",
+      "findings": [
+        "FRESHNESS_NO_REVIEW_DATE",
+        "LINKS_LOW_DENSITY",
+        "LINKS_NO_RELATED",
+        "STRUCT_NO_TYPE",
+        "STRUCT_NO_REVIEW_DATE"
+      ],
+      "priority": "high",
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol",
+        "Fix ONLY listed findings — no inventing biography",
+        "Update last_reviewed after fixes",
+        "Commit only (no publish)"
+      ]
+    }
+  ],
+  "suppressed_findings": 2244,
+  "fp_history_entries": 2316
 }
