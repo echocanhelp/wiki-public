@@ -32,7 +32,7 @@ last_reviewed: 2026-10-01
 
 - Endocrinology / thyroid specialist in private practice (內分泌 甲狀腺科 開業醫師), trained at 台北醫學院 (B.S. 醫科, 1976), per his TAH profile.
 - Admitted to the TAH Foundation Who's Who record in 2015/11: [[works/taiwaneseamericanhistory-org/709-walter-h-shiau-e8-95-ad-e9-b4-bb-e6-a8-a1-2014511|709. Walter H Shiau 蕭鴻模 / 2015/11]].
-- Re-verified 2026-09-21 / 2026-09-22 (deepen-x slices 09201300-25, 09211300-22): corpus grep returns only his own record [[works/taiwaneseamericanhistory-org/709-walter-h-shiau-e8-95-ad-e9-b4-bb-e6-a8-a1-2014511|709]] — nothing absorbable; skip stands. Re-verified 2026-09-25 (deepen-x 09231300-16) and 2026-09-26 (slice 09251031-2): same single hit — skip stands.
+- Re-verified 2026-09-21 / 2026-09-22 / 2026-09-25 / 2026-09-26 (deepen-x slices 09201300-25, 09211300-22, 09231300-16, 09251031-2) and again 2026-10-01 (slice 09261341-7): every full-corpus grep (ZH, EN, and URL-encoded CJK) returns only his own record [[works/taiwaneseamericanhistory-org/709-walter-h-shiau-e8-95-ad-e9-b4-bb-e6-a8-a1-2014511|709]] plus the works index — no third-party memoir or directory mention anywhere; skip stands.
 - No memoir/corpus narrative beyond the TAH profile itself; the Identity Snapshot "Era"/"Geography" fields hold untransformed column labels from the source form (Birth Place / arrival city) — left as-is.
 
 ## Family
