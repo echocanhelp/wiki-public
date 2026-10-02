@@ -39,3 +39,5 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+<!-- DEEPEN-X SKIP 2026-10-01: corpus re-grep (ZH+EN names, works+articles) — hits are only own TAH record + authored 聖東同鄉會 parade piece #125 + index co-listings. No third-party memoir mentions. SKIP-deepen stands; page saturated at HEAD. -->

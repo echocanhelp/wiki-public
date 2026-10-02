@@ -47,3 +47,5 @@ Corpus review 2026-09-19 (re-grep 2026-09-22, same result): the only corpus ment
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - 2026-09-25 re-sweep (slice 09232232-4): fresh ZH+EN grep — hits are only own record [[works/taiwaneseamericanhistory-org/whoswho1328|1328]] + works/index; no third-party memoir mentions; SKIP-deepen stands.
 <!-- DEEPEN-X SKIP 2026-09-26: corpus re-grep (林上祺 / Shan Lin, works+articles) again returned only own TAH #1328 record + index. Nothing absorbable. -->
+
+<!-- DEEPEN-X SKIP 2026-10-01: corpus re-grep (ZH+EN names, works+articles) — hits are only own TAH record + index co-listings. No third-party memoir mentions. SKIP-deepen stands; page saturated at HEAD. -->
