@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-10-01
 ---
 # C. C. Su (蘇仲卿博士)
 
@@ -37,6 +37,7 @@ last_reviewed: 2026-09-25
 
 ## Role in the Community
 - Corpus record: [[works/taiwaneseamericanhistory-org/whoswho956|956. C. C. Su 蘇仲卿 / 2016-04]] — the person's own TAH Foundation encyclopedia entry in our corpus. Fresh 2026-09-22 ZH+EN greps of content/works and content/articles found no further memoir mentions beyond this own record.
+- 2026-10-01 deepen-X re-check: re-ran the ZH+EN grep — still only this already-cited record and index listings. SKIP: no new corpus material.
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/c-c-su/)

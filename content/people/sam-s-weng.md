@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-10-01
 ---
 # Sam S Weng (翁勝三醫師)
 
@@ -35,6 +35,7 @@ _No filled family fields on the TAH profile._
 
 ## Role in the Community
 - Profiled in the TAH Foundation Who's Who story corpus: [[works/taiwaneseamericanhistory-org/whoswho1342|1342. Sam S Weng 翁勝三]] (published 2016-10-25, value band B). The record is bibliographic only — full text stays in the TAH vault, so no further biography is absorbed.
+- 2026-10-01 deepen-X re-check: fresh ZH+EN grep of content/works and content/articles returned only this already-cited record and index listings — SKIP: no new corpus material.
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/sam-s-weng/)
