@@ -33,3 +33,8 @@ A data point on **first-adopters of AI-era community organizing in the Chinese d
 
 ## Related Pages
 - [[people/pan-yi-ling|潘意玲 (Irene Fang)]] · [[organizations/stc-rowland-legacy|STC Rowland Legacy]] · [[organizations/yes-plaza|Yes Plaza]]
+
+## Deepen notes (2026-10-01)
+
+- Corpus re-grep 2026-10-01 (slice 09270315-7) over `content/works` + `content/articles` (EN + ZH terms: "AI Education Foundation", "AI教育基金會", "AI 教育基金會"): zero hits — the org's record rests on independent ZH press (World Journal / Epoch Times / US Health Lifestyle), not on corpus memoirs, so there is nothing community-authored to absorb. Sister pages cross-checking the same facts (`people/pan-yi-ling`, `organizations/stc-rowland-legacy`, `organizations/yes-plaza`) carry no new facts about this org either. Verified at existing density; nothing absorbable — recorded for auto-skip next audit.
+- hits-hash=cf89f34a7544 (articles/taiwanjustice-net tree)

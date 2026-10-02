@@ -31,3 +31,8 @@ The education-funding layer of east-SGV self-provision: Rowland Unified serves t
 
 ## Related Pages
 - [[organizations/rowland-heights-chinese-association|RHCA]] · [[topics/east-san-gabriel-valley|East SGV topic hub]]
+
+## Deepen notes (2026-10-01)
+
+- Corpus re-grep 2026-10-01 (slice 09270315-7) over `content/works` + `content/articles` (EN + ZH: "FORUS", "Friends of Rowland", "羅漢頓"): zero hits — FORUS funding facts live in district-hosted press (Rowland Unified site/news) and the RHCA gala chronicle, already absorbed in `organizations/rowland-heights-chinese-association` and `topics/east-san-gabriel-valley`; no new corpus fact for this page. Verified at existing density; nothing absorbable — recorded for auto-skip next audit.
+- hits-hash=cf89f34a7544 (articles/taiwanjustice-net tree)
