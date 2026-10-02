@@ -24,3 +24,5 @@ Canonical page: **[[people/alan-thian||Alan Thian (田詒鴻)]]**.
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 Corpus re-check 2026-09-25: SKIP — redirect stub; corpus works re-grepped (ZH+EN) and all hits belong to the canonical page, already absorbed there.
+
+Corpus re-grep 2026-10-01 (DEEPEN-X09261419-23): SKIP — no absorbable material left on this slug. Full `content/works` + `content/articles` grep for 田詒鴻 / Thian returns only [[works/taiwaneseamericanhistory-org/ota-274|TAH OTA #274]], [[works/taiwaneseamericanhistory-org/whos-who-1939-yee-phong-thian|TAH #1939]] and the #339/#340 蕭泰然音樂節 memoirs, all already wikilinked in [[people/alan-thian||Alan Thian (田詒鴻)]] §Role in the Community. Redirect stubs are not deepened.
