@@ -32,3 +32,9 @@ last_reviewed: 2026-10-01
 ## Related Pages
 - [[works/jliaoart-org/the-islands-story|The Island's Story]]
 - [[sources/jliaoart-com|jliaoart.com source hub]]
+
+
+## Deepen notes (2026-10-01)
+
+- Corpus re-grep 2026-10-01 (slice 09270315-7) over `content/works` + `content/articles` (EN + ZH: "Jay Liao", "廖"): one hit — `works/jliaoart-org/the-islands-story.md`, the work page for his own series (creator credit + editing note only; already wikilinked from this page). No memoir or community-authored corpus material about Jay Liao; nothing absorbable beyond the existing record — recorded for auto-skip next audit.
+- hits-hash=0d478313859f (works/articles tree, jay-liao grep)

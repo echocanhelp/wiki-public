@@ -29,3 +29,9 @@ last_reviewed: 2026-10-01
 ## Related Pages
 - [[organizations/stc-management|STC Management]]
 - [[people/john-hsu|John Hsu (許惠欽)]]
+
+
+## Deepen notes (2026-10-01)
+
+- Corpus re-grep 2026-10-01 (slice 09270315-7) over `content/works` + `content/articles` (EN + ZH: "Susan Hsu"): three hits, all the Exit Clov musician [[people/emily-hsu|Emily Hsu]]'s twin sister Susan Hsu (folk-song duo "Susan and Emily", Exit Clov, Island X album + interview pages). **HOLD: identity collision** — real-estate/property-management Susan Hsu (STC Management, LA SGV, CA RE license since 1987) vs musician Susan Hsu (Exit Clov). No corpus evidence linking or separating them; no biography facts absorbed until the two are confirmed same or different persons — recorded for auto-skip next audit (re-grep needed if identity resolves).
+- hits-hash=71328340d3c2 placeholder-check
