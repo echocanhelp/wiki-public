@@ -35,3 +35,6 @@ The association layer of **Little Taipei's formation**: created by the same firs
 
 ## Related Pages
 - [[people/john-hsu|John Hsu (許惠欽)]] · [[organizations/yes-plaza|Yes Plaza]] · [[organizations/stc-rowland-legacy|STC Rowland Legacy]]
+
+## Corpus Re-check
+- 2026-10-01 (deepen-x slice 09270315-6) re-grep, `name_zh|name_en` per audit convention (「Rowland Heights Chinese Association」/「羅蘭崗華人協會」, works+articles, >400B corpus files): 0 hits — no corpus mention of this association; nothing absorbable. The only 羅蘭崗/Rowland Heights corpus mention (陳仁宜 memoir article) is generic residence geography, not this association, and names different orgs: 聖峪華協 and 聖瑪利諾華人協會 (San Gabriel & San Marino Chinese-American associations — *different* bodies, no page and no conflict with RHCA; 聖峪華協中文学校 = the school, 聖瑪利諾中文學校 = the school). No new page created (per task: no new pages). SKIP: verified-saturated at HEAD. hits-hash=da39a3ee5e6b

@@ -5,8 +5,9 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-27
+last_reviewed: 2026-10-01
 ---
+<!-- deepen-x 09270400-3: 4-page slice re-grep done 2026-10-01. This page — and the sibling UMD club page — record the *same* 3 UMD work records; see the identity-collision HOLD before citing either as a source for this club. -->
 # University of Maryland Taiwanese Student Association
 
 ## Identity Snapshot
@@ -32,6 +33,8 @@ Re-grepped 2026-09-26 (slice 09251000-19): zero direct hits for the club name or
 
 
 Re-grepped 2026-09-27 (slice 09260500-29): zero direct hits for the club name or handles (umdtsa / umd_tsa) in works/ + articles/; Maryland/馬里蘭 hits remain unrelated memoir passages (翁登山/FDA 馬里蘭退休, 台灣寨 memoir). Still SKIP: nothing absorbable about this club; TSA-vs-TASA overlap HOLD unchanged.
+Re-grepped 2026-10-01 (slice 09270400-3): still zero direct hits for the club name or handles (umdtsa / umd_tsa) in works/ + articles/; Maryland/馬里蘭 hits remain unrelated (University of Maryland Medical Center, UMD Confucius Institute, a UMD physics-paper byline, and the 4 UMD event records already linked above). NEW FINDING — identity-collision HOLD: the 3 UMD event records wikilinked above are the *same* records also carried by [[organizations/taiwanese-american-student-association-at-the-university-of-maryland-college-park|TASA at UMD]], and Jonathan Chen's own memoir states in his words "I was the ITASA Representative for the University of Maryland, College Park chapter" — chapter-level, not a campus club — so none of these records evidences UMD TSA (umdtsa). Nothing absorbable about this club from either club's records. hits-hash=d41d8cd98f00
+
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/university-of-maryland-taiwanese-student-association/)
 

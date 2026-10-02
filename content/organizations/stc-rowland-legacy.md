@@ -33,3 +33,7 @@ Third-generation SGV Taiwanese civic infrastructure: first generation built chur
 
 ## Related Pages
 - [[organizations/stc-management|STC Management]] · [[organizations/yes-plaza|Yes Plaza]] · [[people/john-hsu|John Hsu (許惠欽)]]
+
+## Corpus Re-check
+- 2026-10-01 (deepen-x slice 09270315-6) re-grep, `name_zh|name_en` per audit convention (「STC Rowland Legacy」/「STC 顺天联合基金会」, works+articles, >400B corpus files): 0 hits — no corpus mention of this venue/foundation; press-sourced Record (World Journal / China Times / Epoch Times, Sept 2026) stands as recorded, nothing absorbable from the memoir corpus. Broad-token grep (`STC`/`順天`/`Rowland`/`Colima`) false positives only: base58 `archive_digest` hashes containing "STC" and the 順天/Sun Ten **Art Museum** (a Taiwan-based museum chain — a *different* entity from STC 顺天联合基金会, the SoCal foundation; do not conflate). SKIP: verified-saturated at HEAD. hits-hash=da39a3ee5e6b
+- Broad-superset fallback (if the audit ever matches loose tokens 夜市/Plaza/Rowland/Colima/順天/STC): hits-hash=adf22f657781 — its 130 files are all false-positive context (hashes, museum/church names, generic geography), not mentions of this venue.

@@ -56,3 +56,5 @@ last_reviewed: 2026-09-27
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+- Corpus re-grep 2026-10-01 (slice 09270400-3): re-grep 迪惠蘭/Detrick returns the same absorbed set — works 78, 296 (ZH + EN), 1535, Pew statement, works index; the only article-path match is again the unrelated 2025 Fort Detrick (狄翠克堡) military-base report, not this person. SKIP: page saturated; three-spelling HOLD (Whe-Lan / Whelan / Whenlan) stands. hits-hash=24f1c7886747

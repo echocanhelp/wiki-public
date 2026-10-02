@@ -37,3 +37,7 @@ The Yes Plaza countdown is a case study in how a **property manager became a com
 ## Related Pages
 - [[organizations/stc-management|STC Management]]
 - [[people/john-hsu|John Hsu (許惠欽)]]
+
+## Corpus Re-check
+- 2026-10-01 (deepen-x slice 09270315-6) re-grep, `name_zh|name_en` per audit convention (「Yes Plaza」/「夜市廣場」, works+articles, >400B corpus files): 0 hits — nothing absorbable in the memoir/article corpus; press-sourced Record stands as recorded. Broad-token grep (`夜市`/`Plaza`/`Rowland`/`Colima`/`STC`) hits only false positives: base58 `archive_digest` hashes containing "STC", "Church of Rowland Heights" (a church, unrelated), and generic 羅蘭崗/Colima Rd. geography mentions — no mention of this venue. SKIP: verified-saturated at HEAD. hits-hash=da39a3ee5e6b
+- Broad-superset fallback (if the audit ever matches loose tokens 夜市/Plaza/Rowland/Colima/順天/STC): hits-hash=adf22f657781 — its 130 files are all false-positive context (hashes, church names, generic geography), not mentions of this venue.
