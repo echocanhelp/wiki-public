@@ -40,7 +40,7 @@ last_reviewed: 2026-10-01
 ## Role in the Community
 
 - Recorded in the TAH story corpus as encyclopedia entry 1038 (published 2016-05-28). [[works/taiwaneseamericanhistory-org/whoswho1038|1038. Shi-Kaung Peng 彭旭光 / 2016/05]]
-- No memoir/community narrative beyond the Who's Who record in the corpus; sweeps re-run 2026-09-25 and 2026-09-26 (deepen-x-14): only hits are his own encyclopedia work page and the index (SKIP).
+- No memoir/community narrative beyond the Who's Who record in the corpus; sweeps re-run 2026-09-25, 2026-09-26 (deepen-x-14), and 2026-10-01 (widened whole-vault ERE sweep incl. knowledge/web-archives): only hits are his own encyclopedia work page, his person page, and index files (SKIP verified).
 
 ## Sources
 - [TAH #1038 encyclopedia: 1038. Shi-Kaung Peng 彭旭光  / 2016/05](https://taiwaneseamericanhistory.org/whoswho1038/)

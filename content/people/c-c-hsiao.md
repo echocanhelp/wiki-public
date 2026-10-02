@@ -32,7 +32,9 @@ last_reviewed: 2026-10-01
 
 ## Role in the Community
 
-- His story is recorded in the TAHS community archive: "1498. C. C. Hsiao 蕭忠正" was published 2017-02-05 ([[works/taiwaneseamericanhistory-org/1498-c-c-hsiao-e8-95-ad-e5-bf-a0-e6-ad-a3-201702|TAHS #1498]]). The local record is bibliographic only; no additional community detail to reconcile. deepen-x 09210051-13 于 2026-09-21 複查 works/articles：僅本身條目與 index 收錄行命中，無獨立語料可吸收（SKIP-with-reason）。
+- His story is recorded in the TAHS community archive: "1498. C. C. Hsiao 蕭忠正" was published 2017-02-05 ([[works/taiwaneseamericanhistory-org/1498-c-c-hsiao-e8-95-ad-e5-bf-a0-e6-ad-a3-201702|TAHS #1498]]). The local record is bibliographic only; no additional community detail to reconcile.
+- HOLD (name collision): a separate scientist **C. C. Hsieh 謝正忠** (TAH #1420, Rice Ph.D. X-ray diffraction, Pfizer/Tyco) is conflated with this engineer **C. C. Hsiao 蕭忠正** (NTU B.S., New Mexico M.S. nuclear engineering) in the source roster — see [[people/c-c-hsieh]]. Do not merge records or treat the [[sources/taiwaneseamericanhistory-org]] roster link as a backlink to this page until the CJK identity is confirmed separate.
+- Re-swept 2026-10-01 (deepen-x slice 09261405-28) with a corrected ERE grep (`-rlE '蕭忠正|C. C. Hsiao'`; the 2026-09-21 probe used the broken `'A|B'` form — `|` literal in BRE). Fresh full-vault grep: only own entry + works index + the `[[people/c-c-hsiao]]` roster link in [[sources/taiwaneseamericanhistory-org]]; no new absorbable corpus text (SKIP-with-reason).
 
 ## Family
 

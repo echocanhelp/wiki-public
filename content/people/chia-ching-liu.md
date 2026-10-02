@@ -33,7 +33,10 @@ last_reviewed: 2026-10-01
 TAH's Who's Who corpus holds a single bibliographic record for Dr. Liu (台大醫學院 1957 M.D., orthopedic residency, Washington Hospital Center 1968–2002):
 - [[works/taiwaneseamericanhistory-org/whoswho1654|1654. Chia-Ching Liu 劉嘉慶 / 05-2017]] — published 2017-05-11
 
-HOLD: record is bibliographic only (band B); no community/memoir narrative in the corpus to absorb beyond the TAH profile.
+Community activity found in-archive (sweep widened to knowledge/web-archives, 2026-10-01):
+- TAAGWC (台美華人基督教團體 / 台灣文化中心, DC-area) event program lists 劉嘉慶醫師（骨科) as a volunteer panelist at the 免費醫療諮詢 Medical panel (10:00–12:00, free lunch after) — one of eight diaspora physicians staffing the free-clinic hour, alongside 王政仁, 朱石象, 李東壁, 李俊昇, 林秀三, 張簡俊一, 游宏仁, 陳吉祥 (source: knowledge/web-archives/taiwaneseamericanhistory-org/posts/taagwc-newsletter.md).
+- The program's framing — "Are you interested in medical career? Come to ask these senior professions!" — shows the panel doubled as mentoring for second-generation attendants, not only treatment.
+- HOLD: otherwise the record is bibliographic only (band B); no memoir prose beyond the TAH profile + the panel listing.
 
 ## Family
 
