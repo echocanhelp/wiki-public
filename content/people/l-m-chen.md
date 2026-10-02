@@ -47,3 +47,4 @@ last_reviewed: 2026-10-01
 - SKIP-deepened 2026-09-20: nothing absorbable beyond the TAH press-kit fields already on this page; no community-record material in the vault corpus.
 - Re-verified 2026-09-22: fresh grep still returns only the own TAH record and works index; no community-record material. SKIP stands.
 - Re-verified 2026-09-25 (slice 09231500-10) and 2026-09-26 (slice 09251031-30): grep '陳麗美' / 'L. M. Chen' returns only own record [[works/taiwaneseamericanhistory-org/whos-who-1881-l-m-chen|1881. L. M. Chen 陳麗美]] + works index. SKIP stands.
+- Re-verified 2026-10-01 (slice 09261341-26): fresh grep '陳麗美' / 'L. M. Chen' across works/ and articles/ — zero hits. SKIP stands.
