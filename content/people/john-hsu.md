@@ -42,3 +42,6 @@ last_reviewed: 2026-10-01
 - [[organizations/stc-management|STC Management]] · [[organizations/yes-plaza|Yes Plaza]] · [[organizations/stc-rowland-legacy|STC Rowland Legacy]]
 - [[people/susan-hsu|Susan Hsu]]
 - [[sources/stcmanagement-com|STC site source hub]]
+
+## Re-grep log
+- 2026-10-01 (slice 09270315-1) re-check: grep (許惠欽 / John Hsu, works+articles) — 許惠欽 zero hits; the only "John Hsu" hits are whos-who-2262 and the works index, which are **John Hsu 許作初** (a different person; already disambiguated at the top of this page). No corpus record of this John Hsu (許惠欽, STC real-estate); nothing absorbable from the memoir corpus — press/LinkedIn-sourced Record stays as recorded. hits-hash=09dd39de6249
