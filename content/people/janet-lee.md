@@ -32,6 +32,7 @@ _No filled family fields on the TAH profile._
 - HOLD: name collision — 2025 taiwanjustice-net articles mention 李慧芝, the 行政院發言人 (Executive Yuan spokesperson), a different person from this Taiwanese American profile (Lafayette, IN). Not merged.
 - Re-checked 2026-09-25 (deepen-x slice 17): same hit set (own TAH records #38/#706 + the unrelated 政院發言人 articles) — no new absorbable facts; collision HOLD stands.
 - Re-checked 2026-09-26 (deepen-x slice 14): identical hit set (own TAH records + unrelated 政院發言人 articles) — SKIP, no absorbable facts; collision HOLD stands.
+- Re-checked 2026-10-01 (deepen-x slice 09261341-14): re-grep returns the same set — own records #38/#706, works/index rows, and the 2025 taiwanjustice-net 政院發言人 articles. Disambiguation holds: 李慧芝 appears there only in running prose ("行政院發言人李慧芝" / "李慧芝說") and is **not** a named subject, so these are not subjects of this TA page. Nothing absorbable; collision HOLD stands.
 
 ## Sources
 - [TAH #706 encyclopedia: 706. Janet Lee 李慧芝 /2015/11](https://taiwaneseamericanhistory.org/706-janet-lee-%e6%9d%8e%e6%85%a7%e8%8a%9d-201511/)
