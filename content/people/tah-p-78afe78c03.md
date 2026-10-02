@@ -6,7 +6,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-27
+last_reviewed: 2026-10-02
 ---
 # 陳玲玉博士
 
@@ -55,3 +55,5 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+- Corpus re-check 09270400-1 (2026-10-02): fresh grep works/+articles/ (陳玲玉 / Chen-Ling Yu / Chen Ling-Yu / Ling-Yu Chen / Ling Yu Chen) — hit set unchanged vs 09260500-28 (6 files, hits-hash=135c8775a0fb); all hits already wikilinked or non-biographical (index). Verified-saturated; SKIP-deepen, nothing new absorbable.

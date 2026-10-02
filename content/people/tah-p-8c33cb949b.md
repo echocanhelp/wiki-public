@@ -6,7 +6,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-27
+last_reviewed: 2026-10-02
 ---
 # 賴江椿
 
@@ -63,3 +63,5 @@ last_reviewed: 2026-09-27
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+- Corpus re-check 09270400-1 (2026-10-02): fresh grep works/+articles/ (賴江椿 / David Lai / David C. C. Lai / davidcclai) — hit set unchanged vs 09260500-28 (6 files, hits-hash=75cab5bc4940); all hits already wikilinked or non-biographical (index). Verified-saturated; SKIP-deepen, nothing new absorbable.

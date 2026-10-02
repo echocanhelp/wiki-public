@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-27
+last_reviewed: 2026-10-02
 ---
 # Cornell Taiwanese American Society
 
@@ -40,3 +40,5 @@ The Cornell Taiwanese American Society (CTAS) is a registered student organizati
 - Corpus re-check 2026-09-26 (deepen-x slice 09260500-28): fresh grep works/+articles/ (Cornell Taiwanese / CTAS / 伊薩卡) — hit set unchanged (OJ #310 ZH+EN, ithaca-taa, TAA Ithaca history, index; 伊薩卡 incidental in one news article). All already wikilinked — saturated, SKIP.
 - Corpus re-check 2026-09-26 (deepen-x slice 09251023-1): fresh grep works/ + articles/ (Cornell Taiwanese / CTAS / 伊薩卡) -- hit set unchanged (OJ #310 ZH+EN, ithaca-taa, TAA Ithaca history, index; 伊薩卡 incidental in one news article). All already wikilinked above -- saturated, SKIP.
 - Corpus re-check 2026-09-27 (deepen-x slice 09260500-28 retry run): fresh grep re-run — hit set identical (OJ #310 ZH+EN, ithaca-taa, TAA Ithaca history, index; 伊薩卡 incidental in one news article). Saturated, SKIP.
+
+- Corpus re-check 09270400-1 (2026-10-02): fresh grep works/+articles/ (Cornell Taiwanese / CTAS / 伊薩卡 / Cornell University Taiwanese) — hit set unchanged vs 09260500-28 (8 files, hits-hash=557759297689); all hits already wikilinked or non-biographical (index). Verified-saturated; SKIP-deepen, nothing new absorbable.
