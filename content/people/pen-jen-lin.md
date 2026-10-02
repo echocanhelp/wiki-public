@@ -12,7 +12,8 @@ last_reviewed: 2026-10-01
 # Pen-Jen Lin (林本仁)
 
 ## Role in the Community
-- Corpus record: [[works/taiwaneseamericanhistory-org/whoswho1051|TAH #1051（2016-06）]]（bibliographic record only，全文在 vault）。Corpus grep over works/articles found no memoir or article material beyond this record — nothing absorbable; page left as TAH Who's Who baseline. Fresh greps 2026-09-21, 2026-09-25, and 2026-09-26 (slice 09251047-20; 林本仁 / Pen-Jen Lin, works+articles) returned only own TAH #1051 record + index entry — confirmed SKIP.
+- Corpus record: [[works/taiwaneseamericanhistory-org/whoswho1051|TAH #1051（2016-06）]]（bibliographic record only，全文在 vault）. Corpus grep over works/articles found no memoir or article material beyond this record — nothing absorbable; page left as TAH Who's Who baseline. Fresh greps 2026-09-21, 2026-09-25, and 2026-09-26 (slice 09251047-20; 林本仁 / Pen-Jen Lin, works+articles) returned only own TAH #1051 record + index entry — confirmed SKIP.
+- Re-swept 2026-10-01, deepen-x slice 09261405-7: fresh ZH+EN grep (林本仁 / Pen-Jen Lin) across works+articles — hits unchanged (own record [[works/taiwaneseamericanhistory-org/whoswho1051|TAH #1051]], a bibliographic stub with no article text, + works/index.md). No memoir or article names him; nothing absorbable. SKIP (verified-saturated).
 
 ## Identity Snapshot
 - **English:** Pen-Jen Lin

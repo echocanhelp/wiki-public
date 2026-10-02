@@ -20,6 +20,7 @@ The Chinese and Taiwanese Student Association (CATSA) is a recognized student or
 
 ## Role in the Community
 - SKIP (deepen-x slices 09171300-29 / 09180400-16, re-verified 2026-09-22 / 09210906-25 / 09232232-22): zero corpus hits in content/works or content/articles for CATSA / Chinese and Taiwanese Student Association / CU Boulder — nothing community-authored to absorb beyond the TAH directory entry.
+- Re-swept 2026-10-01, deepen-x slice 09261405-7: fresh grep (CATSA / Chinese and Taiwanese Student Association) across works+articles — zero hits, unchanged. Only remaining "Boulder" prose hit is [[works/taiwaneseamericanhistory-org/mystories278-eng|My Stories #278 (EN)]], where the only Colorado/University-of-Colorado mention is one daughter working as a doctor at University of Colorado Medical School — a Colorado-family career detail, not about this student association (nothing to attribute; no overlap with this org page). Campus-TSA records in the corpus concern other campuses (USC, UW-Madison, NCSU, KU, OSU, UW); nothing is coextensive with CATSA. SKIP-with-reason: no community-authored material (verified-saturated). See also sibling page [[organizations/taiwanese-student-association-at-cu|Taiwanese Student Association at CU]] — same campus, distinct org; its page carries the contextual Colorado cross-references.
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/chinese-and-taiwanese-student-association/)
