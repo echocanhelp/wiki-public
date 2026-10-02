@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-27
+last_reviewed: 2026-10-01
 ---
 # Theodore Chuang ．莊 (西奧多)
 
@@ -57,3 +57,5 @@ _No filled family fields on the TAH profile._
 
 - Corpus re-check 2026-09-26 (deepen-x slice 09251023-1): fresh ZH+EN grep works/ + articles/ -- hit set unchanged (whoswho1556, works index, already-absorbed 2025-04 USAID ruling article). Saturated; nothing new absorbable.
 - Corpus re-check 2026-09-26 (deepen-x slice 09260500-31): fresh ZH+EN grep (Theodore Chuang/西奧多．莊, works+articles) — hit set unchanged (whoswho1556, works index, already-absorbed 2025-04 USAID ruling article). Verified-saturated; SKIP-deepen.
+
+- Corpus re-check 2026-10-01 (deepen-x slice 09270400-4): fresh grep (Theodore Chuang/西奧多, works+articles) — hits unchanged: whoswho1556, works index, already-absorbed 2025-04 USAID ruling article, plus 3 taiwanjustice spurious-mention articles (2020-04 五角大樓分層測試 — 西奧多·羅斯福號航母; 2025-03 川普就職演說; 2025-03 沒有華格納沒有以色列 — Theodor Herzl) whose auto-inserted Subjects wikilinks all misfire on shared 西奧多 given-name. No new absorbable material for this person; verified-saturated, SKIP-deepen. hits-hash=e8a87db358a4+75af430d88bd

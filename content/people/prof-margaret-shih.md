@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-27
+last_reviewed: 2026-10-01
 ---
 # Prof. Margaret Shih (施華維教授)
 
@@ -63,3 +63,5 @@ Re-grep 2026-09-25 (slice 09240317-28): hit set again identical (#507, OTA #261,
 Re-grep 2026-09-25 (slice 09250700-32): hit set again identical (#507, OTA #261, #881, harvest index) — SKIP, saturated.
 Re-grep 2026-09-26 (slice 09260500-28): hit set again identical (#507, OTA #261, #881, harvest index) — SKIP, saturated.
 Re-grep 2026-09-27 (slice 09260500-28 retry run): hit set again identical (#507, OTA #261, #881, harvest index) — SKIP, saturated.
+
+- Corpus re-grep 2026-10-01 (slice 09270400-4): hit set again identical (#507, OTA #261, #881, harvest index) — SKIP, saturated. hits-hash=24f8bb74f3b2+057564958243+6ed775e8b479
