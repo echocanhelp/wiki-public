@@ -43,6 +43,8 @@ last_reviewed: 2026-10-01
 - Era given as 1936–2003 in the snapshot while the record itself is dated 2018 (posthumous profile) — no conflict, publication date ≠ lifespan.
 - Re-verified 2026-09-26 (slice 09251039-21): fresh ZH+EN grep (-E) returns only own TAH record [[works/taiwaneseamericanhistory-org/whos-who-2073|TAH #2073]] and works index; no memoir or movement-activity material. SKIP stands.
 
+<!-- deepen-x re-verified SKIP 2026-10-02 (slice 09261400-6): fresh ZH+EN grep (full-corpus scope: works/ + articles/ + knowledge/) -> only own Who's Who record [[works/taiwaneseamericanhistory-org/whos-who-2073|2073]] + works index + source roster link; no third-party memoir material. SKIP stands. -->
+
 ## Sources
 - [TAH #2073 encyclopedia: 2073. Dr. Kent Wu 吳英資博士/ 03/2018](https://taiwaneseamericanhistory.org/whos-who-2073/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-kent-wu/)
