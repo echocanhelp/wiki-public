@@ -47,3 +47,5 @@ _No filled family fields on the TAH profile._
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 Corpus re-scan 2026-09-26 (deepen-x 09251047-1): fresh ZH+EN grep — still only own TAH record 750 + index; SKIP, nothing absorbable.
+
+<!-- deepen-x re-verified SKIP 2026-10-02 (slice 09261400-6): fresh ZH+EN grep (full-corpus scope: works/ + articles/ + knowledge/) -> only own Who's Who record + works index + source roster link; no third-party memoir material. SKIP stands. -->
