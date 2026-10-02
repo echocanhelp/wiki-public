@@ -35,6 +35,8 @@ last_reviewed: 2026-10-01
 - Re-swept 2026-09-25: fresh ZH+EN grep returned only own record whoswho1300 + index — SKIP.
 - Re-swept 2026-09-26: grep also matched works/taiwaneseamerican-org/james-huang-is-a-gleek-are-you.md and a 2025 taiwanjustice article on 黃瑞雅/Peggy Huang — both false positives: the "James Huang醫師" husband there is Peggy Huang's spouse, a different person from this page's James Huang (HOLD: two James Huangs in corpus, no evidence of link). Nothing absorbable — SKIP.
 
+Re-swept 2026-10-02 (slice 09261341-30, QA-verify): fresh ZH+EN grep of works/ + articles/ returns no corpus hits at all — own record + index only; verified-saturated, nothing absorbable.
+
 ## Family
 
 - **Husband:** James Huang

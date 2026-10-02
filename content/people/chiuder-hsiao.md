@@ -33,6 +33,8 @@ last_reviewed: 2026-10-01
 - 美國奧克拉荷馬Halliburton研究中心 — 研發工程師
 <!-- tah-tables:end -->
 
+Re-swept 2026-10-02 (slice 09261341-30, QA-verify): fresh ZH+EN grep of works/ + articles/ returns no corpus hits at all — own record + index only; verified-saturated, nothing absorbable.
+
 ## Family
 
 _No filled family fields on the TAH profile._

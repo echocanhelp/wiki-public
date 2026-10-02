@@ -31,6 +31,8 @@ last_reviewed: 2026-10-01
 - San Francisco Critical Care Medical Group — Present — Doctor
 <!-- tah-tables:end -->
 
+Re-swept 2026-10-02 (slice 09261341-30, QA-verify): fresh ZH+EN grep of works/ + articles/ returns no corpus hits at all — own record + index only; verified-saturated, nothing absorbable.
+
 ## Family
 
 _No filled family fields on the TAH profile._
