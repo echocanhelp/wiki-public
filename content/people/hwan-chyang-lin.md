@@ -52,5 +52,5 @@ _No filled family fields on the TAH profile._
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - Re-grep 2026-09-25 (slice 09240317-29): hit set identical to records already absorbed (TAH #720, taiwanjustice-net 2025-06/2026-01 archive articles) — SKIP, saturated; HOLD on contested-dissertation framing stands.
-- Re-grep 2026-09-25 (slice 09250800-20): fresh ZH+EN grep — hit set identical (TAH #720/#790, taiwanjustice-net 2025-06/2026-01 articles, index/MANIFEST); all already absorbed — SKIP, verified-saturated; HOLD stands.
 - Corpus re-grep 2026-09-26 (slice 09260500-32): fresh ZH+EN grep — hit set identical to records already absorbed (see above). Verified-saturated SKIP.
+- Corpus re-grep 2026-10-01 (slice 09270315-5): fresh ZH+EN grep — hit set identical (TAH #720, taiwanjustice-net 2025-06/2026-01 articles + 2026-01-21 陳茂雄 commentary, MANIFEST/index); the 2026-01-21 piece adds only that 陳學聖 and 王浩宇 reacted to the 彭文正 presser — no new fact about Lin. Verified saturated; SKIP. HOLD (contested-dissertation framing) stands. hits-hash=4e6e10c77a8f
