@@ -32,6 +32,7 @@ last_reviewed: 2026-10-01
 
 - **Husband:** Joseph C. Liu
 - **Son:** John Liu, Robert Liu, Edward Liu
+- Cross-check with [[people/john-chun-liu|John Chun Liu 劉醇逸]]: his TAH record lists mother "Jamy Liu" and son "Joseph Liu (劉正龍)" — different spelling and generation from the two lists above. HOLD: possible conflated or same-name (尤瑞美 vs Jamy Liu) family fields from the same TAH extract; do not merge.
 
 
 ## Sources
