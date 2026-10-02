@@ -31,7 +31,7 @@ last_reviewed: 2026-10-01
 ## Role in the Community
 
 - Profiled in the TAH encyclopedia: [[works/taiwaneseamericanhistory-org/whoswho1032|1032. Marian Miaw-ju Chen 陳林妙珠 / 2016/05]] (2016-05-28).
-- Corpus record is bibliographic only (band B); corpus grep (works/ + articles/) re-verified 2026-09-25 and 2026-09-26 (slice 09251054-15, ZH+EN 陳林妙珠|Marian Miaw-ju Chen): own-record + works index only, no memoir text. SKIP — nothing further absorbable from works/articles.
+- Corpus record is bibliographic only (band B); corpus grep (works/ + articles/) re-verified 2026-09-25, 2026-09-26 (slice 09251054-15) and 2026-10-01 (slice 09261405-28, corrected ERE grep `陳林妙珠|Marian Miaw-ju Chen`, full vault): own-record + works index only, no memoir text. SKIP — nothing further absorbable from works/articles.
 
 ## Family
 
