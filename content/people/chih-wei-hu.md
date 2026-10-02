@@ -44,3 +44,4 @@ _No filled family fields on the TAH profile._
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - Corpus re-grep 2026-09-26 (slice 09251047-3): fresh ZH+EN grep of works/ and articles/ returned only the own TAH record, the works index, and previously-noted mentions (incl. the Marina Lu 盧雅文 name-collision essay) — nothing new absorbable; page held at prior state (SKIP-deepened).
+- Corpus re-grep 2026-10-01 (slice 09261341-11): fresh ZH+EN grep of works/ and articles/ again returned only the own record [[works/taiwaneseamericanhistory-org/whos-who-1746-chih-wei-hu|1746]] and the works index entry — no community-organizing material; SKIP-deepened, no conflicts found.

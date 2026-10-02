@@ -43,6 +43,7 @@ last_reviewed: 2026-10-01
 - The corpus index also carries a companion record for his wife under her married name, [[works/taiwaneseamericanhistory-org/whoswho1533|1533. Alice Yu 游陳鈴津 / 2017/02]], corroborating the Family entry 陳鈴津.
 - Re-check (deepen-x 09231500-5, 2026-09-25): fresh grep of content/works + content/articles for 游正博 / John Yu — hits limited to the own bibliographic record plus works/index; nothing new absorbable.
 - Re-check (deepen-x 09251031-25, 2026-09-26): same result — only own record + works index; SKIP-with-reason maintained.
+- Re-check (deepen-x 09261341-11, 2026-10-01): fresh ZH+EN grep of works/ + articles/ again returned only the own record [[works/taiwaneseamericanhistory-org/whoswho1534|1534]] and the works index entry; SKIP-with-reason maintained, no conflicts found.
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/john-yu/)
