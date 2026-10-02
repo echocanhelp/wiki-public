@@ -31,7 +31,7 @@ last_reviewed: 2026-10-01
 <!-- tah-tables:end -->
 
 ## Role in the Community
-- TAHS/TAH Foundation holds two archival records of Lin as a Taiwanese American violinist: [[works/taiwaneseamericanhistory-org/479-jasmin-lin-e6-9e-97-e5-85-81-e7-99-bd-201507|TAH #479 (2015-07-05)]] and [[works/taiwaneseamericanhistory-org/230-jasmine-lin-e6-9e-97-e5-85-81-e7-99-bd-violinist-201507|TAH #230, listed as a Violinist]].
+- TAHS/TAH Foundation holds two archival records of Lin as a Taiwanese American violinist: [[works/taiwaneseamericanhistory-org/479-jasmin-lin-e6-9e-97-e5-85-81-e7-99-bd-201507|TAH #479 (2015-07-05)]] and TAH #230, listed as a Violinist.
 - **Cohort placement (new, verified 2026-10-01).** Both records file Lin in the July-2015 batch of Taiwanese American *classical* musicians ([[sources/taiwaneseamericanhistory-org-story-corpus|source hub]]). She belongs to the TAH musician cohort, not the 音樂人才檔案群 grouping used on [[people/tah-p-6f2c4b9d8d|黃美菁]]'s page — that page groups 黃美菁, 盧冠呈, Lin and 蔡佩君 together as the same cohort.
 - Both records are bibliographic (band B); full text stays in the TAH vault.
 - **HOLD: name-romanisation conflict** — record #479 spells her "Jasmin Lin", record #230 spells her "Jasmine Lin" (same 林允白).
