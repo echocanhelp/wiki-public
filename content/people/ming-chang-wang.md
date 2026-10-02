@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-02
 ---
 # Ming Chang Wang (王敏昌)
 
@@ -57,3 +57,4 @@ last_reviewed: 2026-10-01
 - Re-grep 2026-09-25 (slice 09240317-29): hit set identical to the six records already absorbed (#798, #390, #42+eng, #696, #31) — SKIP, saturated; both HOLDs stand.
 - Re-grep 2026-09-25 (slice 09250700-32): hit set identical to the six records already absorbed — SKIP, saturated; both HOLDs stand.
 - Re-grep 2026-09-26 (slice 09260500-25): hit set identical to the records already absorbed — SKIP, saturated; both HOLDs stand.
+- Corpus re-grep (deepen-x slice 09270315-4, 2026-10-02): fresh ZH+EN grep — hit set unchanged (my-stories-798, mystories390, mystories42 + mystories42-eng, 696-ming-chang-wang, 31 memorial interview), all already wikilinked/absorbed above. SKIP: verified-saturated; both HOLDs stand. hits-hash=9fd7577a2bea

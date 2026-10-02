@@ -55,3 +55,4 @@ Fresh ZH+EN corpus re-grep 2026-09-24 (slice 09230400-21): hit set identical to 
 Corpus check (deepen-x slice 09240400-9, 2026-09-25): fresh ZH+EN re-grep hit set identical to records already absorbed above (愛鄉合唱團 program + TAH #10/#443 + works index); no new unabsorbed corpus facts. SKIP: saturated.
 Corpus check (deepen-x slice 09250800-17, 2026-09-25): fresh ZH+EN grep hit set identical (愛鄉合唱團 program + TAH #10/#443 + works index); no new mentions. SKIP: saturated; Eastman 2009-vs-2014 HOLD stands.
 Corpus re-check (deepen-x slice 09260500-25, 2026-09-26): fresh ZH+EN re-grep hit set identical to records already absorbed (愛鄉合唱團 program + TAH #10/#443); no new mentions. SKIP: saturated.
+Corpus re-check 2026-10-01 (deepen-x slice 09270315-3): fresh ZH+EN grep — hit set unchanged (愛鄉合唱團 program + TAH #10/#443 + works index); no new mentions. SKIP: verified-saturated; Eastman 2009-vs-2014 HOLD stands. hits-hash=ec382b75b8e0

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-02
 ---
 # C. T. Lee (李青泰)
 
@@ -51,3 +51,4 @@ last_reviewed: 2026-10-01
 - Re-verify 2026-09-26 (slice 09251000-21): fresh grep works/+articles/ — identical hit set (ourjourneys228, ourjourneys293, chabot-honoring-party-5-1-18, whoswho974, works index), all facts already absorbed in Role in the Community. SKIP-deepen; verified saturated.
 
 - Corpus re-grep (deepen-x slice 09260500-26, 2026-09-26): fresh ZH+EN grep hit set unchanged — all hits already wikilinked and absorbed above. SKIP: verified-saturated.
+- Corpus re-grep (deepen-x slice 09270315-4, 2026-10-02): fresh ZH+EN grep — hit set unchanged (ourjourneys228, ourjourneys293, chabot-honoring-party-5-1-18, whoswho974, works index), all already wikilinked/absorbed above. SKIP: verified-saturated. hits-hash=dc81f950e6d7

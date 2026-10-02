@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-02
 ---
 # J. Y. Tsai (蔡金裕)
 
@@ -58,3 +58,4 @@ _No filled family fields on the TAH profile._
 - Re-verified 2026-09-25 (slice 09250800-17): fresh ZH+EN grep hit set unchanged (whos-who-2061, mystories552, ourjourneys295, ff262). SKIP: verified-saturated; HOLD 1973 vs 1974 stands.
 
 - Corpus re-grep (deepen-x slice 09260500-26, 2026-09-26): fresh ZH+EN grep hit set unchanged — all hits already wikilinked and absorbed above. SKIP: verified-saturated.
+- Corpus re-grep (deepen-x slice 09270315-4, 2026-10-02): fresh ZH+EN grep over content/works + content/articles — hit set unchanged (whos-who-2061, mystories552, ourjourneys295, ff262, works index), all already wikilinked/absorbed above. SKIP: verified-saturated; HOLD 1973 vs 1974 stands. hits-hash=1835c2f134e8

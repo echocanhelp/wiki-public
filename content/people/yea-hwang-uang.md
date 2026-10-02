@@ -52,3 +52,4 @@ _No filled family fields on the TAH profile._
 - Corpus re-grep 2026-09-25 (slice 09250700-32): hit set unchanged (ourjourneys313/-eng, record 293, own memoir ourjourneys102, works index) — SKIP: verified-saturated.
 
 - Corpus re-grep (deepen-x slice 09260500-26, 2026-09-26): fresh ZH+EN grep hit set unchanged — all hits already wikilinked and absorbed above. SKIP: verified-saturated.
+- Corpus re-grep 2026-10-01 (slice 09270315-3): fresh ZH+EN grep — hit set unchanged (ourjourneys313/-eng, record 293, own memoir ourjourneys102, works index) — all absorbed and wikilinked above. SKIP: verified-saturated. hits-hash=bfc4a5b8981d

@@ -55,3 +55,4 @@ Corpus re-check 2026-09-24 (deepen-x slice 09230700-13): fresh ZH+EN grep — hi
 Corpus re-check 2026-09-25 (deepen-x slice 09240700-17): fresh ZH+EN grep — hit set identical, all absorbed. Verified-saturated SKIP.
 Corpus re-check 2026-09-26 (deepen-x slice 09251000-16): fresh ZH+EN grep — hit set identical (our-journeys-370, whoswho1190, AAAFF Prismatic Taiwan, ITASA's Coming of Age, NATWA II letter-of-advice, works index), all absorbed. Verified-saturated SKIP.
 Corpus re-check 2026-09-26 (deepen-x slice 09260500-18): fresh ZH+EN grep — hit set identical, all absorbed. Verified-saturated SKIP.
+Corpus re-check 2026-10-01 (deepen-x slice 09270315-3): fresh ZH+EN grep — hit set unchanged (our-journeys-370, whoswho1190, AAAFF Prismatic Taiwan, ITASA's Coming of Age, NATWA II letter-of-advice, works index), all already absorbed above. SKIP: verified-saturated. hits-hash=005ed0e51ae1
