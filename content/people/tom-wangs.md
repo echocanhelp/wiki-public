@@ -48,3 +48,4 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+<!-- deepen-x re-verified SKIP 2026-10-01 (slice 09261400-8): fresh ZH+EN grep (works+articles) -> own record stubs + works index only; no memoir/newsletter material beyond them; taiwanjustice 2022 王自立 = Air Force officer, conflict already HOLDed. Nothing absorbable. -->
