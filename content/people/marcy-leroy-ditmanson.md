@@ -42,6 +42,7 @@ _No filled family fields on the TAH profile._
 - Served as a physician at 門諾醫院 (Hualien), per the TAH profile above.
 - Re-verified 2026-09-25 (slice 09232232-20): fresh ZH+EN grep of works/ + articles/ — hits are only these two own records plus the works index; no memoir material beyond the press-kit entry.
 - Re-verified 2026-09-26 (slice 09251047-10): fresh ZH+EN grep — hits remain only the two own records (whoswho1346, whowho1357) plus the works index; no memoir material. SKIP stands.
+- Re-verified 2026-10-02 (slice 09261400-5): fresh ZH+EN grep (戴德森 / Ditmanson / Marcy) — hits remain only the two own records (whoswho1346, whowho1357) + works index. SKIP stands.
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
