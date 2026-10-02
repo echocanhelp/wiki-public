@@ -34,7 +34,7 @@ last_reviewed: 2026-10-01
 _No filled family fields on the TAH profile._
 
 ## Role in the Community
-- Documented twice in the TAH corpus: as a current-events profile [[works/taiwaneseamericanhistory-org/katy-tang|Katy Tang 湯凱蒂 in California (2020/07)]] and as encyclopedia entry [[works/taiwaneseamericanhistory-org/whos-who-2280-katy-tang|TAH #2280 Katy Tang 湯凱蒂]]; both are bibliographic records (full text stays at the source), so the Board-of-Supervisors tenure above rests on the TAH table until the texts are absorbed.
+- Documented twice in the TAH corpus: as a current-events profile [[works/taiwaneseamericanhistory-org/katy-tang|Katy Tang 湯凱蒂 in California (2020/07)]] and as encyclopedia entry [[works/taiwaneseamericanhistory-org/whos-who-2280-katy-tang|TAH #2280 Katy Tang 湯凱蒂]]; both are bibliographic records (full text stays at the source), so the Board-of-Supervisors tenure above rests on the TAH table until the texts are absorbed. (Verified 2026-10-01: the 2020/07 profile record is a clipping of an external SF Chronicle news item, not TAHS community-recording material — held as press-kit-class source per mission rule.)
 - The 2020/07 profile was published as part of a cohort documenting elected Taiwanese-American officials alongside David Chiu 邱信福 and Raymond T. Chen — TAH frames her as a community milestone in California politics rather than a solo biography.
 - Re-grep 2026-09-25 (slice 09231400-19) and 2026-09-26 (slice 09251031-12): hit set unchanged (the two records above plus the works index); both remain bibliographic records, no new narrative to absorb.
 

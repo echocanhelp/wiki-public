@@ -47,4 +47,5 @@ _No filled family fields on the TAH profile._
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - Corpus re-grep 2026-09-25 (slice 09232232-17): fresh ZH+EN grep of works/ and articles/ returned no mentions outside the subject's own TAH record — nothing new absorbable; page held at prior state (SKIP-deepened).
+- Corpus re-grep 2026-10-01 (slice 09261341-15): fresh ZH+EN grep of works/ and articles/ — hits unchanged (own record + works index only). No memoir, committee role, or event record anywhere in the corpus; still SKIP-deepened (saturated).
 - Corpus re-grep 2026-09-26 (slice 09251047-5): fresh ZH+EN grep (-E) of works/ and articles/ — hits limited to own record [[works/taiwaneseamericanhistory-org/whoswho1338|1338. Adam Chang 張耀元 / 2016/10]] + works index; SKIP, nothing absorbable.
