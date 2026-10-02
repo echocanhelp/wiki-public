@@ -46,6 +46,9 @@ _No filled family fields on the TAH profile._
 - 同姓旁證排除：corpus 中廖坤塗醫師（#165、#672）、廖光男（OCTA 創會會長，#253）、Our Journeys 69 所載 Kenneth K. Wu 皆為不同人士，與本頁無關。
 - 2026-09-21 / 2026-09-22 / 2026-09-25（slice 09211507-32、09231400-19）重查：hit set unchanged，仍僅見同姓人士紀錄（廖坤塗 #165/#672、廖光男 #253、Our Journeys 各篇），無可吸收之社群運動史料。
 
+- 2026-10-01 (slice 09261341-10) 重查：grep（Kenneth C. Liao / Kenneth Liao / 廖姓全庫）命中集不變，僅 own TAH #1897 + works index；同姓 Kenneth Chang 張學賢（#1381）、Kenneth C. Yang 楊基規（#1944）與 Kenneth Chen 標籤頁皆為不同人士，排除。無可吸收史料，維持 SKIP。
+
+
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/kenneth-c-liao/)
 

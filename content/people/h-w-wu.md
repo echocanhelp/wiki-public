@@ -42,6 +42,9 @@ last_reviewed: 2026-10-01
 - SKIP (deepen-x slice 09251039-2, 2026-09-26): fresh ZH+EN greps again returned only own record whoswho1419 + works index. No memoir/community material; no padding.
 - SKIP (deepen-x slice 09231500-13, 2026-09-25): fresh ZH+EN greps again returned only [[works/taiwaneseamericanhistory-org/whoswho1419|TAH #1419]] + the works index. No memoir/community material; no padding.
 
+- SKIP (deepen-x slice 09261341-10, 2026-10-01): fresh ZH+EN grep of works/ + articles/ again returned only the own TAH record #1419 + the works index (all 'Wu' hits elsewhere are other people, e.g. 蘇正宏 substring). No memoir/community material; page held (SKIP).
+
+
 ## Sources
 - [TAH #1419 encyclopedia: 1419. H. W. Wu 吳宏為 / 2016/12](https://taiwaneseamericanhistory.org/whoswho1419/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/h-w-wu/)

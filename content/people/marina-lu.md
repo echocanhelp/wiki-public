@@ -29,6 +29,9 @@ _No filled family fields on the TAH profile._
 - Profiled in the TAH Foundation story corpus: [[works/taiwaneseamericanhistory-org/whoswho1222|1222. Marina Lu 呂惠秋]] (published 2016-08-06, band B) — held as community historical record. The corpus record is bibliographic; no further community facts to absorb.
 - HOLD: name collision — the corpus also mentions a different "Marina Lu" (盧雅文), the singer mother of cellist Yo-Yo Ma, in the taiwanjustice.net 週末漫談音樂 essay [[articles/taiwanjustice-net/2025/20251116054240_週末漫談音樂68_7歲的音樂神童受邀請在華盛頓_d924d1148dfbeedf|週末漫談音樂68：7歲的音樂神童受邀請在華盛頓]] (2021 copy also archived). Same English name, different person from the TAH-artist 呂惠秋; do not merge. Corpus sweep 2026-09-25: no other mentions of 呂惠秋 in works/articles.
 
+- Corpus re-grep 2026-10-01 (slice 09261341-10): fresh ZH+EN grep of works/ + articles/ returned only the own TAH record #1222, the works index, and the 盧雅文 name-collision essay (already linked in the HOLD above). Nothing new absorbable; page held (SKIP-deepened).
+
+
 ## Sources
 - [TAH #1222 encyclopedia: 1222. Marina Lu 呂惠秋 / 2016/08](https://taiwaneseamericanhistory.org/whoswho1222/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/marina-lu/)

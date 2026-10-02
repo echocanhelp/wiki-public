@@ -37,6 +37,9 @@ last_reviewed: 2026-10-01
 - **Daughter:** Tiffany
 
 
+- Corpus re-grep 2026-10-01 (slice 09261341-10): fresh ZH+EN grep of works/ + articles/ returned only the own TAH record #1231, the FCA presidential roster in OJ #378 (already absorbed above), and the works index — nothing new absorbable; page held (SKIP-deepened).
+
+
 ## Sources
 - [TAH #1231 encyclopedia: 1231. Peter Deng 鄧培德 / 2016/08](https://taiwaneseamericanhistory.org/whoswho1231/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/peter-deng/)
