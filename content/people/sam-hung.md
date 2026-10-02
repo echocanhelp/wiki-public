@@ -31,6 +31,7 @@ Sam Hung (洪南山) is listed in the TAH Foundation Who’s Who Taiwanese Ameri
 - Re-swept 2026-09-21: fresh corpus grep returned only his own record and the works index — no new material.
 - Re-swept 2026-09-25 (deepen-x-31): again only own record + works index — nothing absorbable.
 - Re-swept 2026-09-26 (slice 09251047-31): same result — own record + works index only.
+- Re-swept 2026-10-01 (deepen-x slice 09261405-14): fresh ZH+EN grep of works+articles again returned only the own encyclopedia record above + works/index — no new absorbable corpus material.
 
 ## Sources
 - [TAH #867 encyclopedia: 867. Sam Hung 洪南山/ 2016/03](https://taiwaneseamericanhistory.org/867-sam-hung-%e6%b4%aa%e5%8d%97%e5%b1%b1-201603/)
