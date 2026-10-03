@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-27
+last_reviewed: 2026-10-03
 ---
 # Herng-Shinn Hwang (黃恆信)
 
@@ -64,3 +64,4 @@ last_reviewed: 2026-09-27
 - Corpus re-check (deepen-x slice 09250700-13, 2026-09-25): fresh grep works+articles, hit set identical, all already absorbed -- saturated, SKIP.
 
 - Corpus re-check (2026-09-27, deepen-x slice 09260700-26): fresh re-grep 黃恆信 / Herng-Shinn Hwang, hit set identical (#735 + works index) — SKIP, verified-saturated.
+- Corpus re-check (2026-10-03, deepen-x slice 09270900-2, vault-only): fresh re-grep 黃恆信 / Herng-Shinn Hwang, hit set identical (#735 + works index, articles zero) — SKIP, verified-saturated, no absorbable new facts. hits-hash=9f533f0b9060.
