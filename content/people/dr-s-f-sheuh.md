@@ -46,6 +46,7 @@ _No filled family fields on the TAH profile._
 - Corpus re-grep 2026-09-25 (slice 09240400-11): hit set unchanged (whos-who-1899 + ourjourneys17 + index only), all already cited; memoir quotes and 14-shareholder roster already absorbed. SKIP: saturated.
 - Corpus re-grep 2026-09-25 (slice 09250800-23): hit set unchanged (whos-who-1899 + ourjourneys17 + index only), all already cited. SKIP: saturated.
 - Corpus re-grep 2026-09-27 (slice 09260600-15): hit set unchanged (whos-who-1899 + ourjourneys17 + index only), all already cited; 14-shareholder roster and 「十嘴九尻川，做嘸代誌」 quote already absorbed. SKIP: saturated.
+- Corpus re-grep 2026-10-03 (slice 09270700-6): hit set unchanged (whos-who-1899 + ourjourneys17 + index only), all already cited. SKIP: saturated. hits-hash=9aa7dfb6f616
 
 ## Sources
 - [TAH #1899 encyclopedia: 1899. Dr. S. F. Sheuh 薛信夫博士](https://taiwaneseamericanhistory.org/whos-who-1899-s-f-sheuh/)

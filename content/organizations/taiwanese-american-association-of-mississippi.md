@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-27
+last_reviewed: 2026-10-03
 ---
 # Taiwanese American Association of Mississippi (密西西比臺灣同鄉會)
 
