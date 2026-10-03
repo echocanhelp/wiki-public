@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-30
+last_reviewed: 2026-10-03
 ---
 # Roger Chen (陳正哲)
 
@@ -40,6 +40,8 @@ Accomplishment
 
 Chen appears in the TAHS/Taiwanese American History story corpus through two TAH Foundation encyclopedia records: the OTA entry [[works/taiwaneseamericanhistory-org/ota-235|235. Roger Chen 陳正哲]] (2019-01-29, filed alongside [[works/taiwaneseamericanhistory-org/activities-tafnc|TAFNC 北加州台灣同鄉聯合會活動]]) and the Who's Who entry [[works/taiwaneseamericanhistory-org/whos-who-2185-roger-chen|2185. Roger Chen 陳正哲]] (2019-05-04). The 2019 records sit in the Northern California community cluster; the corpus holds no memoir narrative beyond these entries, so his community role is documented as engineer/entrepreneur (MIT EE 1991 → UCSC Biochemistry 2007, founder of Bioelectronica Corporation 2017). No further corpus activity found.
 - Corpus re-grep 2026-09-18 (slice 09170600-14): hit set unchanged — only the own TAH #235 / #2185 entries and the works index; no memoir narrative to absorb. Re-confirmed 2026-09-19 (slice 09180400-4): same hit set; nothing new to absorb. Re-confirmed again 2026-09-20 (slice 09191100-6): fresh grep of content/works + content/articles returns only the works index — nothing new to absorb.
+
+Re-verified 2026-10-03 (slice 09300315-8): fresh ZH 陳正哲 + EN "Roger Chen" grep of works/ + articles/ returns only own TAH #235/#2185 records + the works index (hits-hash=00c08d1e8a0d, unchanged since 09260800-5) — SKIP: verified-saturated, no memoir narrative to absorb, no new absorbable facts.
 
 ## Sources
 - [TAH #2185 encyclopedia: 2185. Roger Chen 陳正哲](https://taiwaneseamericanhistory.org/whos-who-2185-roger-chen/)

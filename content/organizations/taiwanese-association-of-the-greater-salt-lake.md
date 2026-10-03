@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-29
+last_reviewed: 2026-10-03
 ---
 # Taiwanese Association of the Greater Salt Lake (大鹽湖)
 
@@ -35,6 +35,8 @@ Absorbed from the TAH story corpus (salt-lake/utah re-grep 2026-09-18). The chap
 - Deepened 2026-09-25 (slice 09240317-25): Salt Lake grep surfaced ourjourneys352 (TAC-WC history) — absorbed above (Las Vegas–Salt Lake City region seat, 2019 SLC host).
 - Re-verified 2026-09-25 (slice 09250700-8): fresh 大鹽湖 / Greater Salt Lake / TAGSL grep returns only the own TAH record plus works/index — no new corpus mention; SKIP, verified-saturated.
 - Re-verified 2026-09-26 (slice 09260317-27): fresh 大鹽湖 / Greater Salt Lake / TAGSL grep returns only the own TAH record plus works/index — no new corpus mention; SKIP, verified-saturated.
+
+- Re-verified 2026-10-03 (slice 09300315-8): fresh 大鹽湖 / Greater Salt Lake / TAGSL grep of works/ + articles/ returns only the own TAH record + works index (hits-hash=5610de4b1188, unchanged since 09250700-8) — SKIP: verified-saturated, no new corpus mention, no new facts.
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-association-of-the-greater-salt-lake/)
