@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-27
+last_reviewed: 2026-10-03
 ---
 # Ai-Jen Poo (蒲艾真)
 
@@ -54,3 +54,4 @@ last_reviewed: 2026-09-27
 - Re-grep 2026-09-25 (slice 09240500-23): fresh ZH+EN grep returns own TAH #2040 record + index only; hit set unchanged. Verified-saturated, SKIP-with-reason.
 - Re-grep 2026-09-25 (slice 09250800-26): fresh ZH+EN grep over content/works + content/articles returned the identical hit set — all records already absorbed above. Verified-saturated, SKIP-with-reason. (hit set: own TAH #2040 + works index + TA online interview only)
 - Re-grep 2026-09-27 (slice 09260600-12): fresh ZH+EN grep (蒲艾真 / Ai-Jen Poo / Ai-jen Poo) — hit set unchanged (own TAH #2040 + index + TA online interview, all already absorbed above). Verified-saturated, SKIP-with-reason.
+- Re-grep 2026-10-03 (slice 09270700-5): fresh ZH+EN grep (蒲艾真 / Ai-Jen Poo / Ai-jen Poo) over content/works + content/articles — hit set unchanged (own TAH #2040 record + works index + TA online interview [[works/taiwaneseamerican-org/ai-jen-poo-inspiring-across-generations|Inspiring Across Generations]], all already absorbed above). Verified-saturated, SKIP-with-reason. hits-hash=49d86f8d85ff

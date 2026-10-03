@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-27
+last_reviewed: 2026-10-03
 ---
 # I. Y. Lin (林一洋醫師)
 
@@ -59,3 +59,4 @@ last_reviewed: 2026-09-27
 Corpus re-check 2026-09-25 (deepen-x slice 09240800-6): fresh grep of works/+articles/ — hit set unchanged, all hits already wikilinked with facts absorbed. SKIP-deepen; verified saturated.
 - Corpus re-check 2026-09-26 (deepen-x slice 09251000-28): fresh grep (林一洋 / I. Y. Lin) — hit set unchanged (own encyclopedia #865, index, unrelated taiwanjustice 湯圓 article). Verified saturated; SKIP.
 - Corpus re-check 2026-09-27 (deepen-x slice 09260600-14): fresh grep (林一洋 / I. Y. Lin / I-Yang Lin) over works+articles — hit set unchanged (ourjourneys201 memoir, #54/#69 lectureship records, #865, index), all already wikilinked with facts absorbed. Verified saturated; SKIP.
+- 2026-10-03 DEEPEN-X09270700-3: fresh grep (林一洋 / I. Y. Lin / I-Yang Lin) over works/+articles/ — hit set unchanged (ourjourneys201 memoir, #54/#69 lectureship records, #865, works index), all already wikilinked with facts absorbed. Nothing new absorbable; verified-saturated, SKIP. hits-hash=44bfbab291e1

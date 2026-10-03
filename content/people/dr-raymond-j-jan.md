@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-27
+last_reviewed: 2026-10-03
 ---
 # Dr. Raymond J. Jan (詹正治博士)
 
@@ -63,3 +63,5 @@ Jan's movement service is recorded in the TAH encyclopedia corpus: his account [
 > SKIP-note (deepen-x slice 09250800-22, 2026-09-25): corpus re-grep (詹正治|Raymond J. Jan) hit set identical again — own TAH #2284 record + corpus index only; no new absorbable corpus facts.
 
 > SKIP-note (deepen-x slice 09260600-9, 2026-09-27): corpus re-grep (詹正治|Raymond J. Jan|raymond-j-jan) hit set identical again — own TAH #2284 record + corpus index only; no new absorbable corpus facts.
+
+> SKIP-note (DEEPEN-X09270700-3, 2026-10-03): fresh grep (詹正治 / Raymond J. Jan / raymond-j-jan) over works/+articles/ — hit set unchanged (own TAH #2284 record whos-who-2284 + corpus index only); no new absorbable corpus facts. Verified-saturated, SKIP. hits-hash=6a694e2d98ad

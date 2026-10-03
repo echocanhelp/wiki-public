@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-27
+last_reviewed: 2026-10-03
 ---
 # Shiu-Sian Angel Hsu Wang (許秀香)
 
@@ -56,3 +56,4 @@ Shiu-Sian Angel Hsu Wang 許秀香 – History of Taiwanese American (T.A. Archi
 - Re-check (DEEPEN-X09240700-28, 2026-09-25): hits unchanged - only #88, #548 and works index. SKIP, no new material.
 - Corpus re-sweep 2026-09-26 (slice 09251000-29): fresh grep works/+articles/ (許秀香 / Angel Hsu Wang / Shiu-Sian) — hit set identical (#88, #548, works index), already wikilinked above. SKIP-deepen; verified saturated.
 - Corpus re-sweep 2026-09-27 (slice 09260600-15): fresh grep works/+articles/ (許秀香 / Angel Hsu Wang) — hit set identical (#88, #548, works index), already wikilinked above; 許鴻玉 (Hannah Hsu Wang) hits remain a different person, not merged. SKIP-deepen; verified saturated.
+- 2026-10-03 DEEPEN-X09270700-3: fresh grep (許秀香 / Shiu-Sian / Angel Hsu Wang) over works/+articles/ — hit set unchanged (#88 First Ph.D. record, #548 encyclopedia record, works index), all already wikilinked above. No new memoir or association material names her; verified-saturated, SKIP. hits-hash=6214bc10828a

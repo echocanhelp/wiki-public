@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-27
+last_reviewed: 2026-10-03
 ---
 # Ching-Ju Cheng (鄭靜如)
 
@@ -52,3 +52,4 @@ _No filled family fields on the TAH profile._
 - Corpus re-check 2026-09-25 (deepen-x slice 09240800-13): fresh grep (鄭靜如 / Ching-Ju Cheng) unchanged — own records #395/#1634 + index rows only. SKIP-deepen maintained.
 - Corpus re-check 2026-09-26 (deepen-x slice 09251023-7): fresh grep (鄭靜如 / Ching-Ju Cheng) unchanged — own records [[works/taiwaneseamericanhistory-org/musician395|#395]] / [[works/taiwaneseamericanhistory-org/whoswho1634|#1634]] + index rows only. SKIP-deepen maintained.
 - Corpus re-check 2026-09-27 (deepen-x slice 09260600-19): fresh grep (鄭靜如 / Ching-Ju Cheng) — identical hit set: own records [[works/taiwaneseamericanhistory-org/musician395|#395]] / [[works/taiwaneseamericanhistory-org/whoswho1634|#1634]] + index only. SKIP-deepen maintained.
+- Corpus re-check 2026-10-03 (deepen-x slice 09270700-5): fresh grep (鄭靜如 / Ching-Ju Cheng, works+articles) — hit set unchanged from the 2026-09-27 sweep: own records [[works/taiwaneseamericanhistory-org/musician395|#395]] / [[works/taiwaneseamericanhistory-org/whoswho1634|#1634]] + works index only; no third-party 靜如 hit. Verified-saturated, SKIP-deepen maintained. hits-hash=4410b0b557b4
