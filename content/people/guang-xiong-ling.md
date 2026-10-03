@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-27
+last_reviewed: 2026-10-03
 ---
 # Guang-Xiong Ling (凌光雄)
 
@@ -56,3 +56,5 @@ _No filled family fields on the TAH profile._
 - 2026-09-25 deepen-x slice 09240900-5: re-verify — fresh grep 凌光雄/Guang-Xiong Ling hit set identical to prior waves (ourjourneys268, ourjourneys217, own whos-who-2228, index); all passages absorbed above. Verified-saturated.
 - 2026-09-26 deepen-x slice 09251400-4: re-verify — fresh grep hit set identical (ourjourneys268, ourjourneys217, own whos-who-2228, index). Verified-saturated.
 - 2026-09-27 deepen-x slice 09260600-29: re-verify — fresh grep hit set identical (ourjourneys268, ourjourneys217, own whos-who-2228, index); content check of both memoirs confirms 和平契友/夏令會/email-source/建堂代表團 passages all absorbed. Verified-saturated.
+
+Corpus re-check 2026-10-03 (deepen-x slice 09270700-11): fresh ZH+EN grep of works/+articles/ — hit set unchanged (ourjourneys268, ourjourneys217, own whos-who-2228, index); content check confirms 和平契友/1970夏令會/email-source/建堂代表團 passages all absorbed. SKIP-deepen; verified saturated. hits-hash=7421faf4a26a

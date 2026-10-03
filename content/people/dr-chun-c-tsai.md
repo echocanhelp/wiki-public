@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-27
+last_reviewed: 2026-10-03
 ---
 # Dr. Chun C Tsai (蔡俊晴醫師)
 
@@ -52,3 +52,5 @@ last_reviewed: 2026-09-27
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - Corpus re-check 2026-09-27 (slice 09260600-23): fresh ZH+EN grep returns the identical hit set (own #1968, NATMA founding ourjourneys74 ZH/EN, 美展專刊 ourjourneys256 致謝, index) — all facts already absorbed. Verified-saturated.
+
+Corpus re-check 2026-10-03 (deepen-x slice 09270700-11): fresh ZH+EN grep of works/+articles/ — identical hit set (own #1968, NATMA founding ourjourneys74 ZH/EN, 美展專刊 ourjourneys256 致謝, index); NATMA 芝加哥代表名單 + donor acknowledgment re-verified in context grep — all absorbed. SKIP-deepen; verified saturated. hits-hash=7421faf4a26a

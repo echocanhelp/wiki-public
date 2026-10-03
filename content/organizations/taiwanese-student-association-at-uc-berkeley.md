@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-27
+last_reviewed: 2026-10-03
 ---
 # Taiwanese Student Association at UC Berkeley
 
@@ -37,3 +37,4 @@ The Taiwanese Student Association (TSA) at the University of California, Berkele
 
 - 2026-09-26 DEEPEN-X09251451-2: fresh grep (柏克萊加大台灣同學會/berkeleytsa/Berkeley) hits are campus-adjacent only — 灣區台語教會史 (our-journeys-350), UC Berkeley 台語語言課程 1992+/1996 (ourjourneys229, 677-…-language-class), Stanford/TaiwanSTEC forum mentions (our-journeys-390/387) — none TSA-at-UCB facts; verified-saturated, SKIP-with-reason.
 - 2026-09-27 DEEPEN-X09260600-3: fresh grep (柏克萊加大台灣同學會/berkeleytsa/'Taiwanese Student Association') hit set identical to prior passes — sibling chapters (USC dumplings-usctsa, ff33 KU-first, OSU, UW, TSAPA) + own WorldVision/karaoke works already wikilinked. No UC Berkeley TSA facts. Verified-saturated, SKIP-with-reason.
+- 2026-10-03 DEEPEN-X09270600-2: fresh full-corpus grep (柏克萊加大台灣同學會 / berkeleytsa / 'Taiwanese Student Association') hits unchanged — ff33 (KU 1961 first TSA), UW TSA, Rice TSA, david-chen-taiwanese-handbook (author's TSA activity = UW/Seattle, not UCB), plus own karaoke works already wikilinked. No UC Berkeley TSA facts. Verified-saturated, SKIP-with-reason. hits-hash=tsa-ucb-0927-2
