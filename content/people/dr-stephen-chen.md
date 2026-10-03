@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-30
+last_reviewed: 2026-10-03
 ---
 # Dr. Stephen Chen (陳貞華博士)
 
@@ -55,3 +55,4 @@ _No filled family fields on the TAH profile._
 - Re-grep 2026-09-25 (slice 09240317-22): fresh ZH+EN re-grep 陳貞華/Stephen Chen returned the identical absorbed/HOLD set (whos-who-1690, ourjourneys260 講員 mention, works index, 陳欽明醫師 same-name works; collection-of-dr-stephen-chen / videos17 / 102 records all already under HOLD). Verified saturated, SKIP-with-reason.
 - Re-grep 2026-09-25 (slice 09250700-20): fresh ZH+EN re-grep hit set identical to the absorbed/HOLD set (whos-who-1690, ourjourneys260, works index, same-name 陳欽明醫師 works); no new community facts. SKIP-with-reason (saturated).
 - Re-grep 2026-09-26 (slice 09260400-16): fresh ZH+EN re-grep 陳貞華/Stephen Chen returned the identical absorbed/HOLD set (whos-who-1690, ourjourneys260 講員 mention, works index, 陳欽明醫師 same-name works). Verified saturated, SKIP-with-reason.
+- Re-grep 2026-10-03 (slice 09300315-18): fresh ZH+EN re-grep 陳貞華/Stephen Chen returned the identical absorbed/HOLD set (whos-who-1690, ourjourneys260 講員 mention, works index, 陳欽明醫師 same-name works under HOLD) **plus one new hit**: roll-call-supporting-taiwanese-american-creators... (2020 COVID small-business roll-call) — a 'Taiwanese American business owner Stephen Chen' giving away UTI test kits, source Instagram B1ZCxCPnTuR; hanzi given nowhere, identity unconfirmed vs 陳貞華 (engineer/GE/TRW) and the 陳欽明醫師 HOLD — added to HOLD, not merged.

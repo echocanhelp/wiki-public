@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-30
+last_reviewed: 2026-10-03
 ---
 # Morisan Lu (呂明森)
 
@@ -57,3 +57,4 @@ _No filled family fields on the TAH profile._
 <!-- deepen-x slice 09250900-22 re-verify 2026-09-26: fresh grep 呂明森/Morisan Lu — identical hit set (ourjourneys9-eng/09, ourjourneys17, whos-m-s-lu, index), all already absorbed; verified-saturated SKIP, no conflicts. -->
 
 <!-- deepen-x slice 09260400-14 re-verify 2026-09-26: fresh grep 呂明森/Morisan Lu — identical hit set (ourjourneys9-eng/09, ourjourneys17, whos-m-s-lu, index), all already absorbed; verified-saturated SKIP, no conflicts. -->
+<!-- deepen-x slice 09300315-18 re-verify 2026-10-03: fresh grep 呂明森/Morisan Lu — identical hit set (ourjourneys9-eng, whos-m-s-lu, index), all already absorbed; verified-saturated SKIP, no conflicts. -->
