@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-03
 ---
 # I-Chun Catherine Chang (張儀君教授)
 
@@ -57,3 +57,5 @@ I-Chun (Catherine) Chang 張儀君教授 – History of Taiwanese American (T.A.
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+- 2026-10-03 — deepen-x slice 09300315-11: re-verify SKIP — fresh ZH+EN grep (張儀君 / Catherine Chang / I-Chun) in works/+articles/ returns the identical saturated hit set (own records whos-who-2129 + ourjourneys218, both already absorbed; 267-i-chunn-lee-pianist + works index = false positives); no new absorbable community fact. 副教授 vs Assistant Professor rank HOLD stands. hits-hash=e93407ae22d5

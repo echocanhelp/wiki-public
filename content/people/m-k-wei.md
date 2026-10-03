@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-30
+last_reviewed: 2026-10-03
 ---
 # M. K. Wei (魏妙圭)
 
@@ -55,3 +55,5 @@ last_reviewed: 2026-09-30
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+- 2026-10-03 — deepen-x slice 09300315-11: re-verify SKIP — fresh ZH+EN grep (魏妙圭 / M. K. Wei) in works/+articles/ returns the identical saturated hit set (293 / 293-eng / videos40 / whoswho1065 + index); nothing new absorbable. HOLD (鄭憲章 vs 鄭信傳 name discrepancy inside record 293) stands. hits-hash=fcb4d51b72fb
