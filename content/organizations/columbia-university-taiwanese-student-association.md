@@ -39,6 +39,8 @@ Fresh re-grep 2026-09-26 (slice 09251500-2): zero hits for CUTSA / 哥倫比亞�
 
 Fresh re-grep 2026-09-27 (slice 09260600-12): zero hits for CUTSA / 哥倫比亞大學臺灣同學會 / Columbia University Taiwanese in works+articles — SKIP-no-new-facts, verified saturated.
 
+Fresh re-grep 2026-10-03 (slice 09270700-7): zero hits for CUTSA / 哥倫比亞大學臺灣同學會 / Columbia University Taiwanese in works+articles — SKIP-no-new-facts, verified saturated. hits-hash=da39a3ee5e6b
+
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/columbia-university-taiwanese-student-association/)
 

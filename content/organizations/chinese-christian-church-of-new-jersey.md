@@ -27,6 +27,7 @@ The Chinese Christian Church of New Jersey (CCCNJ) is a multi-congregation Chris
 - 2026-09-23 deepen-x slice 09221400-8: re-verified — fresh grep of works+articles returns the identical hit set already absorbed and wikilinked above; no new corpus material. Nothing further absorbable.
 - 2026-09-24 deepen-x slice 09230800-21: re-verified — fresh grep (新澤西主恩堂 / Chinese Christian Church of New Jersey / CCCNJ) returns only the 2015-06-11 org record + works index, both already absorbed and wikilinked; ourjourneys-364 memoir link unchanged. SKIP-content — saturated.
 - 2026-09-25 deepen-x slice 09240800-7: re-verified — fresh grep returns only the 2015-06-11 org record (already absorbed/wikilinked); ourjourneys-364 link unchanged. Verified-saturated, SKIP.
+- 2026-10-03 deepen-x slice 09270700-7: re-verified — fresh grep (Chinese Christian Church of New Jersey / 新澤西主恩堂台語堂 / CCCNJ) over works+articles returns only the 2015-06-11 org record + works index, both already absorbed/wikilinked; ourjourneys-364 memoir link unchanged. Verified-saturated, SKIP. hits-hash=f39be68aea30
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/chinese-christian-church-of-new-jersey/)
