@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-27
+last_reviewed: 2026-10-03
 ---
 # Kailin Gow (梁凱琳)
 
@@ -47,6 +47,7 @@ last_reviewed: 2026-09-27
 - Re-verify 2026-09-24 (slice 09230900-14): fresh grep hit set identical (own TAH records ff354 + whos-who-1979, works index, TJJ report). Verified-saturated; SKIP-for-deepening.
 - Re-verify 2026-09-25 (slice 09240900-9): fresh grep 梁凱琳/Kailin Gow hit set identical (ff354 + whos-who-1979, works index, TJJ 2017-06-11 report). Verified-saturated; SKIP-for-deepening.
 - Re-verify 2026-09-27 (slice 09260600-3): fresh grep 梁凱琳/Kailin Gow hit set identical (ff354 + whos-who-1979, works index, TJJ 2017-06-11 report). Verified-saturated; SKIP-for-deepening.
+- Re-verify 2026-10-03 (slice 09270600-3): fresh grep 梁凱琳/Kailin Gow — hit set identical (ff354 + whos-who-1979, works index, TJJ 2017-06-11 report). Verified-saturated; SKIP-for-deepening, nothing new absorbable. hits-hash=bbcee2c0646b
 
 ## Sources
 - [TAH #1979 encyclopedia: 1979. Kailin Gow 梁凱琳](https://taiwaneseamericanhistory.org/whos-who-1979-kailin-gow/)
