@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-27
+last_reviewed: 2026-10-03
 ---
 # Prof. Wen Chan (詹文聲教授)
 
@@ -60,3 +60,5 @@ His encyclopedia entry itself is preserved at [[works/taiwaneseamericanhistory-o
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - 2026-09-26 deepen-x slice 09251000-25: re-grep 詹文聲/Wen Chan — hit set unchanged (#1834, ourjourneys155 座談會記錄, index rows; all already linked). Verified-saturated SKIP-deepen.
 - 2026-09-27 deepen-x slice 09260600-12: re-grep 詹文聲/Wen Chan — hit set unchanged (#1834, ourjourneys155, index rows; all already linked). Verified-saturated SKIP-deepen.
+
+- 2026-10-03 deepen-x slice 09270700-8: re-grep 詹文聲/Wen Chan — hit set unchanged (#1834, ourjourneys155 座談會記錄, index rows + PEW statement index row; all already linked or non-biographic). Verified-saturated SKIP-deepen. hits-hash=8f3ab27c1e45

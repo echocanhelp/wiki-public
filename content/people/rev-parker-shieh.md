@@ -58,3 +58,5 @@ last_reviewed: 2026-09-27
 <!-- deepen-x slice 09240800-14 re-verify 2026-09-25: fresh grep of works/+articles/ — hit set identical to records already cited/absorbed; verified-saturated, no new absorbable facts -->
 <!-- deepen-x slice 09251023-7 re-verify 2026-09-26: fresh grep (謝貫明 / Parker Shieh) — exact-name hits remain own entry whos-who-1811 + works index; broader 'Shieh/謝' hits are other people (謝己/James Jii Shieh TAAGPC, 謝榮春, 沈郁良 Y.L. Shieh) — not absorbable; SKIP-deepen maintained -->
 <!-- deepen-x slice 09260600-15 re-verify 2026-09-27: fresh grep (謝貫明 / Parker Shieh) — hit set identical: own entry whos-who-1811 + works index only; verified-saturated, no new absorbable facts -->
+
+> Corpus re-grep 2026-10-03 (deepen-x slice 09270700-8): fresh grep (謝貫明 / Parker Shieh) — hit set identical: own entry whos-who-1811 + works index only; verified-saturated, no new absorbable facts. hits-hash=2b90c4e71da6

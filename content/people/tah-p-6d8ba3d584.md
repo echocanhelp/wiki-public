@@ -6,7 +6,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-27
+last_reviewed: 2026-10-03
 ---
 # 王人紀
 
@@ -58,3 +58,5 @@ _No filled family fields on the TAH profile._
 > Corpus re-scan 2026-09-26 (deepen-x slice 09251000-29): fresh grep works/+articles/ — hit set identical (ourjourneys33/58/81/234 + TAH #777 + index), all already wikilinked above. SKIP-deepen; nothing new absorbable.
 
 > Corpus re-scan 2026-09-27 (deepen-x slice 09260600-17): fresh grep works/+articles/ (王人紀) — hit set identical (ourjourneys33/58/81/234 + TAH #777), all already wikilinked above. SKIP-deepen; nothing new absorbable.
+
+- Corpus re-grep 2026-10-03 (deepen-x slice 09270700-8): fresh grep works/+articles/ (王人紀) — hit set identical (ourjourneys33/58/81/234 + TAH #777 + index), all already wikilinked above. SKIP-deepen; nothing new absorbable. hits-hash=c1a7e94b2f60

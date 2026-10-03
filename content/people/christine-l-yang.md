@@ -61,5 +61,6 @@ HOLD: endowed fund names "Walter M. Yang" while the TAH profile lists husband as
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- 2026-10-03 (slice 09270700-8): fresh ZH+EN grep — one addition verified: [[works/taiwaneseamericanhistory-org/my-stories-689|689. My Language Learning Journey]] (2019-08-10, band A) — memoir essay by 林壽英 herself (Hakka 四縣腔 childhood in 萬巒/泗溝水, language-learning life story); bibliographic work record, no new third-party community facts to absorb. Rest of hit set identical to the saturated set (242, 282, 584, 639, collection-of-mrs-christine-yang, awards-92 + index). Verified-saturated SKIP-deepen. hits-hash=4d2e61f8a9c3
 - Re-grep 2026-09-26 (slice 09251527-8): fresh grep adds two further community essays by the same author now linked above — 221. 北濱會 (ourjourney221, band A) and 757. 一封驚喜的來信 (mystories-757, band B); bibliographic records only, no body text to absorb; page now covers the full 林壽英/Christine Yang hit set.
 - Re-grep 2026-09-27 (slice 09260600-18): fresh ZH+EN grep — hit set identical to the linked saturated set (242, 282, 584, 639, collection-of-mrs-christine-yang, awards-92 + index); no new absorbable facts — SKIP content-deepen.
