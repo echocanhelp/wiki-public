@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-27
+last_reviewed: 2026-10-03
 ---
 # Kai-Li Cheng (鄭凱莉博士)
 
@@ -51,3 +51,5 @@ _No filled family fields on the TAH profile._
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 <!-- deepen-x slice 09260600-30 (2026-09-27): saturated re-verify — fresh ZH+EN grep of works/ + articles/ returns hit set identical to what this page already absorbs; no new corpus facts, no conflicts. SKIP-content. -->
+
+SKIP (re-confirmed, deepen-x slice 09270700-17, 2026-10-03): fresh ZH+EN grep of works/ + articles/ returns the same hit set (own records TAH #1451, #380 + works index); no memoir mentions — nothing absorbable; instrument HOLD (cellist title vs violin biography) stands.

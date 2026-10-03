@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-27
+last_reviewed: 2026-10-03
 ---
 # Prof. Shih-Wen Huang (黃碩文教授)
 
@@ -52,3 +52,5 @@ _No filled family fields on the TAH profile._
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - Corpus re-grep 2026-09-27 (slice 09260600-29): hit set unchanged (ourjourneys-138, winners, whos-who-2062, 136, 653-2); roster passage re-read confirms listing unchanged — SKIP (saturated; HOLD 1936 vs age-81 stands).
+
+- Corpus re-grep 2026-10-03 (slice 09270700-17): hit set unchanged (ourjourneys-138, winners, whos-who-2062, 136, 653-2) — SKIP (saturated; HOLD 1936 vs age-81 stands).
