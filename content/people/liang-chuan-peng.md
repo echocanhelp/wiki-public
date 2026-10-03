@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-30
+last_reviewed: 2026-10-03
 ---
 # Liang Chuan Peng (彭兩泉)
 
@@ -55,3 +55,5 @@ Liang Chuan Peng (彭兩泉) is listed in the TAH Foundation Who’s Who Taiwane
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+- Corpus re-grep 2026-10-03 (slice 09300315-15): fresh ZH+EN greps returned the identical hit set (ourjourneys37 / 37-eng / 38 / 38-eng / whoswho803 + index); no new material, no conflicts. Verified-saturated SKIP. hits-hash=8594437675ac
