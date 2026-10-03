@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-27
+last_reviewed: 2026-10-03
 ---
 # Adrian Lin (林宣緒)
 
@@ -67,3 +67,5 @@ last_reviewed: 2026-09-27
 <!-- TJJ-A09260500-9: verified 2026-09-27 — slice 09260500-9 4 篇（b7327dcf TAA Archives Newsletter / 95fd8186 洛杉磯會館228追思77年 / 26f76359 糖尿病與你 / a1b56965 彭明敏研討會）正文再驗證——subject 連結為真實提及，無錯鏈、無虛鏈；含該文 wikilink 的日期事實條目已在庫 — saturated, no new material. -->
 
 <!-- DEEPEN-X09260600-2: verified 2026-09-27 — fresh ZH+EN grep hit set identical to prior passes (TAH #918, ourjourneys123 ZH/EN, TJJ newsletter 兩份同文, all already wikilinked) — verified-saturated, SKIP-no-new-facts. -->
+
+<!-- deepen-x 09270600-1 (2026-10-03): fresh ZH+EN grep (works+articles) — hit set identical to prior passes (own TAH record + already-wikilinked works/index + absorbed TJJ articles); no new community material. verified-saturated, SKIP-no-new-facts. hits-hash=23d0d2bd9ea9 -->

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-27
+last_reviewed: 2026-10-03
 ---
 # Stephanie Wan-Hsiu Lan (藍婉修)
 
@@ -55,3 +55,5 @@ _No filled family fields on the TAH profile._
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - Re-verified 2026-09-26 (deepen-x slice 09251000-21): fresh ZH+EN grep — hit set identical (own entries 222/462 + works index), all already absorbed; 藍婉倩 remains a different person. SKIP.
+
+<!-- deepen-x 09270600-1 (2026-10-03): fresh ZH+EN grep (works+articles) — hit set identical to prior passes (own TAH record + already-wikilinked works/index + absorbed TJJ articles); no new community material. verified-saturated, SKIP-no-new-facts. hits-hash=5a507fc6580c -->

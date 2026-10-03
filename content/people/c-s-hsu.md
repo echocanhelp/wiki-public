@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-27
+last_reviewed: 2026-10-03
 ---
 # C. S. Hsu (許清松)
 
@@ -57,3 +57,5 @@ _No filled family fields on the TAH profile._
  Slice deepen-x-slice-09251451-1 (2026-09-26): fresh re-grep (ZH+EN, works+articles) — identical hit set to prior checks; all hits already wikilinked/absorbed; nothing new absorbable. SKIP (saturated).
 
 - 2026-09-27 DEEPEN-X09260600-2: fresh grep (許清松/C. S. Hsu, works+articles) hit set identical (whoswho1478, works/index, the two absorbed TJJ articles) — verified-saturated, SKIP-no-new-facts.
+
+<!-- deepen-x 09270600-1 (2026-10-03): fresh ZH+EN grep (works+articles) — hit set identical to prior passes (own TAH record + already-wikilinked works/index + absorbed TJJ articles); no new community material. verified-saturated, SKIP-no-new-facts. hits-hash=8b258dbd6f2e -->
