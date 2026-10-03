@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-27
+last_reviewed: 2026-10-03
 ---
 # Raymond Kuo
 
@@ -65,3 +65,5 @@ Re-check (deepen-x slice 09250700-17, 2026-09-25): corpus re-grep（郭泓均 / 
 Re-check (deepen-x slice 09260400-10, 2026-09-26): corpus re-grep（郭泓均 / Raymond Kuo）hit set unchanged — TAH #1820 + index + the three Taiwan Justice republications, all already wikilinked; no new community material. SKIP-with-reason.
 
 Re-check (deepen-x slice 09260700-27, 2026-09-27): corpus re-grep（郭泓均 / Raymond Kuo）hit set unchanged — TAH #1820 + index + the three Taiwan Justice republications, all already wikilinked; no new community material. SKIP-with-reason.
+
+Re-check (deepen-x slice 09270900-1, 2026-10-03): fresh 郭泓均 / Raymond Kuo grep of content/works + content/articles — hit set unchanged (whos-who-1820-raymond-kuo, works index, the three Taiwan Justice republications), all already wikilinked above; no new community material. SKIP-with-reason, verified-saturated. hits-hash=824a2ac85f85

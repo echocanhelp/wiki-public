@@ -61,3 +61,5 @@ Re-grep 2026-09-25 (slice 09250700-16): fresh 黃三榮 / San John Huang grep of
 Re-grep 2026-09-26 (slice 09260400-7): fresh 黃三榮 / San John Huang grep returns the identical hit set (own whos-san-john-huang, ourjourneys29-eng, 186/-eng, 244, 272) — all already linked above — SKIP, verified-saturated.
 
 Re-grep 2026-09-27 (slice 09260700-26): fresh ZH+EN grep of works/ + articles/ returns the identical hit set (whos-san-john-huang, ourjourneys29-eng, 244, 186/-eng, 272) — all already linked above; SKIP, verified-saturated.
+
+Re-grep 2026-10-03 (slice 09270900-1): fresh 黃三榮 / San John Huang grep of content/works + content/articles returns the identical hit set (own whos-san-john-huang, ourjourneys29/-eng, 186/-eng, 244, 272/-eng) — all already wikilinked and absorbed above; SKIP-with-reason, verified-saturated, nothing new absorbable. hits-hash=8f953ebfd213

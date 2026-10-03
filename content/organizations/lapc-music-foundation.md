@@ -46,3 +46,5 @@ Re-verified 2026-09-26 (slice 09250900-24): fresh ZH+EN grep of works/ + article
 Re-verified 2026-09-26 (slice 09260400-12): fresh ZH+EN grep of works/ + articles/ for 樂音音樂基金會 / LAPC Music / 樂音合唱團 returned only this page's own records (TAH 19, directory record, concerts86) plus the works index; SKIP: verified-saturated, no new absorbable facts.
 
 Re-verified 2026-09-27 (slice 09260700-26): fresh ZH+EN grep for 樂音音樂基金會 / LAPC Music / 樂音合唱團 returned only this page' own records (TAH 19, directory record, concerts86) plus the works index; SKIP: verified-saturated.
+
+Re-verified 2026-10-03 (slice 09270900-1): fresh ZH+EN grep of content/works + content/articles for 樂音音樂基金會 / LAPC Music returned only the page's own records (lapc-music-foundation directory record, concerts86) plus content/works/index.md — hit set unchanged vs 09260700-26 re-verify. SKIP-with-reason: verified-saturated, nothing new absorbable. hits-hash=5dce5a1101ea
