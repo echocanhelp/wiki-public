@@ -6,7 +6,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-27
+last_reviewed: 2026-10-03
 ---
 # 黃世惠
 
@@ -61,3 +61,4 @@ Corpus re-grep 2026-09-24 (slice 09230700-24): hit set = ourjourneys19, ourjourn
 - Re-check (DEEPEN-X09240700-28, 2026-09-25): fresh grep hits still ourjourneys19/199/291, whos862, works index - all cited above. SKIP, no new material.
 - Re-check (DEEPEN-X09251000-26, 2026-09-26): fresh grep hits still ourjourneys19/199/291, whos862, works index — all cited above. HOLD (WashU degree year vs training-completion) stands. SKIP, no new material.
 - Re-check (deepen-x slice 09260600-11, 2026-09-27): fresh grep (黃世惠, works+articles) hit set identical — ourjourneys19/199/291, whos862, works index, all cited above. Verified-saturated, SKIP; HOLD stands.
+- Re-check (deepen-x slice 09270700-5, 2026-10-03): fresh grep (黃世惠, works+articles) hit set identical — ourjourneys19/199/291, whos862, works index, all cited above (re-read the 朱真一 lunch/Training account #199, 矽谷創業 account #19 and 醫師 overview #291 — no facts absent from the page). Verified-saturated, SKIP; HOLD (WashU degree year vs training-completion) stands. hits-hash=1fe7823123ec

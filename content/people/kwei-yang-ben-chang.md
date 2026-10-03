@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-27
+last_reviewed: 2026-10-03
 ---
 # Kwei-Yang Ben Chang (張貴洋)
 
@@ -54,3 +54,5 @@ _No filled family fields on the TAH profile._
 > Corpus re-scan 2026-09-26 (deepen-x slice 09251023-2): fresh grep works/+articles/ (張貴洋/Kwei-Yang/Ben Chang) — hit set unchanged (#290, #138, #822, index), all already wikilinked. SKIP-deepen; nothing new absorbable.
 
 > Corpus re-scan 2026-09-27 (deepen-x slice 09260600-12): fresh grep works/+articles/ — hit set identical to prior absorption (#290, #138, #822, index), all already wikilinked. SKIP-deepen; nothing new absorbable.
+
+> Corpus re-scan 2026-10-03 (deepen-x slice 09270700-5): fresh grep works/+articles/ (張貴洋 / Kwei-Yang Ben Chang) — hit set unchanged (#290 Secretary-General + #138 2008 華府TAA會長 roster/caption, #822, index). Verified line-by-line: no new memoir material beyond the leadership listings already absorbed above. SKIP-deepen maintained; nothing new absorbable. hits-hash=115f1998b1ca
