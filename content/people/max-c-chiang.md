@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-27
+last_reviewed: 2026-10-03
 ---
 # Max C. Chiang (江建祥博士)
 
@@ -48,3 +48,4 @@ _No filled family fields on the TAH profile._
 <!-- deepen-x 09251527-1: re-verify 2026-09-26 — fresh grep (江建祥/Max C. Chiang, works+articles): hit set identical (record 620, index, taiwanjustice 江建祥律師 columns already linked, MANIFEST). Verified saturated; SKIP-no-new-facts; 蔣/江 HOLD stands. -->
 <!-- deepen-x 09250317-14: re-verify 2026-09-25 — fresh grep returns record 620, works index, the taiwanjustice 江建祥律師 columns (already linked), plus [[works/taiwaneseamerican-org/why-this-taiwanese-american-helped-tell-the-story-of-chinese-railroad-workers|Spike 150 railroad story]] which matches only on romanized "Max Chang": a Utah-born Spike 150 Foundation board member, a third distinct person, not merged. Verified saturated; SKIP-no-new-facts. -->
 <!-- deepen-x 09260600-10: re-verify 2026-09-27 — fresh grep (江建祥/Max C. Chiang/Max Chiang, works+articles): hit set identical (record 620, index, taiwanjustice columns already linked, MANIFEST). Verified saturated; SKIP-no-new-facts; 蔣/江 HOLD stands. -->
+<!-- deepen-x 09270700-2: re-verify 2026-10-03 — fresh grep (江建祥/Max C. Chiang, works+articles): hit set identical (record 620, works index, taiwanjustice columns + MANIFEST, already linked above). Verified saturated; SKIP-no-new-facts; 蔣/江 HOLD stands. hits-hash=72bc2e47f891 -->

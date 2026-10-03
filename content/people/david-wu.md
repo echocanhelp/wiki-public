@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-27
+last_reviewed: 2026-10-03
 ---
 # David Wu (吳振瑋博士)
 
@@ -48,6 +48,7 @@ last_reviewed: 2026-09-27
 - Corpus re-check 2026-09-25 (deepen-x slice 09240800-17): fresh grep (吳振瑋 / 吳振偉 / David Wu) — hit set unchanged (27, mr-david-wu-oregon, david-wu, 67, works index, heritage-week), all already linked above. Verified-saturated SKIP-deepen; 吳振偉 vs 吳振瑋 HOLD stands.
 - Corpus re-check 2026-09-26 (deepen-x slice 09251023-3): fresh grep (吳振瑋 / 吳振偉 / David Wu) — hit set unchanged (27, mr-david-wu-oregon, david-wu, 67, works index), all already linked above. Verified-saturated SKIP-deepen; 吳振偉 vs 吳振瑋 HOLD stands.
 - Corpus re-check 2026-09-27 (deepen-x slice 09260600-11): fresh grep (吳振瑋 / 吳振偉 / David Wu, works+articles) — hit set identical (27, mr-david-wu-oregon, david-wu, 67, works index, heritage-week), all linked above. Verified-saturated; HOLD stands.
+- Corpus re-check 2026-10-03 (deepen-x slice 09270700-2): fresh grep (吳振瑋 / 吳振偉 / David Wu, works+articles) — hit set identical (27, mr-david-wu-oregon, david-wu, 67, works index, heritage-week + celebrate-tahw-2), all linked above. Verified-saturated; SKIP-deepen; 吳振偉 vs 吳振瑋 HOLD stands. hits-hash=1c9bf5284d89
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/david-wu/)
