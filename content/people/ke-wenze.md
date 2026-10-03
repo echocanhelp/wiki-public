@@ -7,7 +7,7 @@ tags:
   - taiwanjustice-net
   - thin-page
 verification_status: pending
-last_reviewed: 2026-09-30
+last_reviewed: 2026-10-03
 ---
 # Ko Wen-je / Ke Wen-ze (柯文哲)
 
@@ -45,4 +45,5 @@ last_reviewed: 2026-09-30
 - Re-grep 2026-09-25 (slice 09250700-22): identical picture — 0 hits in `content/works`; `content/articles` hits remain taiwanjustice.net reportage/tag indexes (e.g. 2026-01-20 tag_藍白合作, tag_代理主席). No diaspora community facts absorbable; SKIP-content stands.
 - Re-grep 2026-09-26 (slice 09260400-17): identical picture — 0 hits in `content/works`; `content/articles` hits remain taiwanjustice.net reportage/tag indexes (e.g. 森喜朗弔唁團 clip: 柯父母現身台北賓館弔唁李登輝). No diaspora community facts absorbable; SKIP-content stands.
 - Re-grep 2026-09-30 (slice 09260800-3): identical picture — 0 hits in `content/works`; `content/articles` hits remain taiwanjustice.net reportage/tag indexes (e.g. 2026-01-20 tag_藍白合作 / tag_藍白拖 / tag_代理主席, 森喜朗弔唁團 clip). No diaspora community facts absorbable; SKIP-content stands.
+- Re-grep 2026-10-03 (slice 09300315-5): identical picture — 0 hits in `content/works`; 841 hits in `content/articles` (same file set as prior scans; taiwanjustice.net reportage/columns/tag indexes, e.g. 洛杉磯看台〈時代變了嗎？〉廖清山 2017-11-07, 棄柯保獨 column, category_column_fanjiang + category_videos_* indexes). No diaspora community facts absorbable → SKIP-content stands, no 'Role in the Community' section created. hits-hash=958e4da36c11
 

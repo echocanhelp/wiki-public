@@ -57,3 +57,4 @@ Accomplishment
 複核（deepen-x slice 09250700-10）: fresh ZH+EN re-grep 命中集與前次相同（ourjourneys 60/74/74-eng/81、publications64、collection）— saturated, SKIP.
 複核（deepen-x slice 09260317-32）: fresh ZH+EN re-grep 命中集與前次相同（ourjourneys 60/74/74-eng/81、publications64、collection）— saturated, SKIP.
 複核（deepen-x slice 09260700-23）: fresh ZH+EN re-grep 命中集與前次相同（ourjourneys 60/74/74-eng/81、publications64、collection）— saturated, SKIP.
+複核（deepen-x slice 09300315-6）: fresh ZH+EN re-grep（吳美芬 / Mei Fun Tsai, full content/）命中集合與前次相同（ourjourneys 60/74/74-eng/79/81、publications64、collection-of-mrs-mei-fun-tsai、177、whos-who-894、NATWA WI-IL chapter）— 全部已吸收，飽和, SKIP. hits-hash=9aeca9c01dc8

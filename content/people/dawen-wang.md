@@ -7,8 +7,9 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-27
+last_reviewed: 2026-10-03
 ---
+<!-- deepen-x 09290900-1 (2026-10-03): fresh ERE grep (王大文|Dawen Wang, works/ + articles/) — hit set unchanged (whoswho1305, checking-dawen, dawen-in-taiwan; full TA.org Dawen cluster + index verified present on disk and already wikilinked above); same-name HOLD (1981 Boston/MA Who's Who record vs later-generation Universal Music singer-songwriter) unchanged, do not merge. SKIP, verified-saturated. hits-hash=a0826c1cf515 -->
 # Dawen Wang (王大文)
 
 ## Identity Snapshot

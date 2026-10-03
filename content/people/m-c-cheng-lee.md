@@ -7,8 +7,9 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-27
+last_reviewed: 2026-10-03
 ---
+<!-- deepen-x 09290900-1 (2026-10-03): fresh ERE grep (李鄭美昭|M. C. Cheng Lee, works/ + articles/) — hit set unchanged (whoswho937 + whos-who-1916-ju-cheng-lee disambiguation + index); Ju-Cheng Lee (李汝成, NY) NOT-MERGE HOLD stands, no absorbable memoir text. SKIP, verified-saturated. hits-hash=796aee484aef -->
 # M. C. Cheng Lee (李鄭美昭)
 
 ## Identity Snapshot

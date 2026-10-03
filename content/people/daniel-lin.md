@@ -7,8 +7,9 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-27
+last_reviewed: 2026-10-03
 ---
+<!-- deepen-x 09290900-1 (2026-10-03): fresh ERE grep (林嘉仁|Daniel Lin, works/ + articles/) — hit set unchanged (ourjourneys265, ourjourneys186 + -eng, whos-daniel-lin, index), all already absorbed and wikilinked above; SKIP, verified-saturated. hits-hash=ef3b36a64ff2 -->
 # Daniel Lin (林嘉仁)
 
 ## Identity Snapshot
