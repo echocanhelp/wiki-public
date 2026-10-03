@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-27
+last_reviewed: 2026-10-03
 ---
 # T. K. Lin (林宗光)
 
@@ -57,3 +57,4 @@ last_reviewed: 2026-09-27
 <!-- deepen-x slice 09240700-31 (2026-09-25): saturated re-verify — fresh grep hit set unchanged (OJ #37, #47, #74 ZH+EN, mystories293, TAH #813); all absorbed above. -->
 <!-- deepen-x slice 09251000-32 (2026-09-26): saturated re-verify — fresh grep hit set unchanged (OJ #37, #47, #74 ZH+EN, mystories293, TAH #813); all absorbed above. SKIP-content. -->
 <!-- deepen-x slice 09260600-30 (2026-09-27): saturated re-verify — fresh grep hit set unchanged (OJ #37, #47, #74, mystories293, TAH #813); all absorbed above. SKIP-content. -->
+<!-- deepen-x slice 09270700-21 (2026-10-03): saturated re-verify — fresh grep hit set unchanged (OJ #37, #47, #74 ZH+ENG, mystories293, TAH #813, index); all absorbed above. SKIP-content. -->
