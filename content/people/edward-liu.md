@@ -55,3 +55,4 @@ last_reviewed: 2026-09-27
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 <!-- deepen-x slice 09260600-31 (2026-09-27): saturated re-verify — fresh ZH+EN grep hit set unchanged; all records already absorbed above. SKIP-content. -->
+<!-- deepen-x slice 09270700-22 (2026-10-03): saturated re-verify — fresh ERE grep (zh+en+variant names, -rlE probe self-checked non-vacuous) over content/works + content/articles returns the identical hit set (person-specific TAH records + index only), all already absorbed/wikilinked above. SKIP-content; HOLDs stand. -->
