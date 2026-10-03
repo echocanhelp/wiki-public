@@ -59,3 +59,5 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+- 2026-10-03 — deepen-x slice 09300315-9: re-verify SKIP — fresh ZH+EN grep (吳茂昆 / Maw-Kuen Wu) returns the identical saturated hit set (own-record works #142 + #646, works index, and the two linked TJJ records); no memoir mentions of 吳茂昆 anywhere in content/works or content/articles; no new absorbable fact. Tenure-range HOLD (Director "2002-2004, 2016-2012" vs "(2002-)") stands. hits-hash=f0d46da96e63

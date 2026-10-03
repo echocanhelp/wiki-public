@@ -61,3 +61,5 @@ Documented across the TAH Foundation story corpus as a community memoirist and l
 - Deepened 2026-09-25 (slice 09240317-25): fresh grep surfaced two previously unlinked bylined memoirs — mystories326 (五十年前之大車禍) and mystories613 (祈禱的力量) — absorbed above.
 - Re-verified 2026-09-25 (slice 09250700-14): fresh grep 劉怡明/Yi-Ming Liu returns the same 10 work pages (whos, ff342, mystories326/331/572/613, ourjourneys289, ourjourneys-364, collection, 349-our-journeys) — all already wikilinked above; saturated, SKIP-with-reason.
 - Re-verified 2026-09-26 (slice 09260400-1): fresh grep 劉怡明/Yi-Ming Liu — hit set identical (whos, ff342, mystories326/331/572/613, ourjourneys289, ourjourneys-364, collection, 349-our-journeys); all absorbed. SKIP: verified-saturated.
+
+- Re-verified 2026-10-03 (slice 09300315-9): fresh grep 劉怡明/Yi-Ming Liu — hit set identical (11 pages: whos, ff342, mystories326/331/572/613, ourjourneys289, ourjourneys-364, collection, 349-our-journeys, works index); TJJ 2021 WHA statement copy (also in the 2021/20210616072940 record) lists 台美人歷史協會 (TAHS), not this person. All absorbed. SKIP: verified-saturated. hits-hash=281567250cfc
