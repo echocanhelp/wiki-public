@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-27
+last_reviewed: 2026-10-03
 ---
 # Long Lee (李隆吉)
 
@@ -60,3 +60,4 @@ last_reviewed: 2026-09-27
 - 語料複核（deepen-x slice 09240400-4, 2026-09-25）：fresh ZH+EN 再檢命中集相同（ourjourneys212／240／283／Pew 聲明＋whoswho1424／索引），全部已吸收；verified saturated，SKIP-with-reason；配偶 HOLD（須藤正子 vs 鄭美招）持續未解。
 
 - 語料複核（deepen-x slice 09260700-23, 2026-09-27）：fresh ZH+EN 再檢命中集相同（ourjourneys212／240／283／whoswho1424／Pew 聲明＋索引），全部已吸收；verified saturated，SKIP-with-reason；配偶 HOLD（須藤正子 vs 鄭美招）持續未解。
+- 語料複核（deepen-x slice 09300315-2, 2026-10-03）：fresh ZH+EN 再檢命中集相同（ourjourneys212／240／283／whoswho1424／Pew 聲明＋索引），全部已吸收；verified saturated，SKIP-with-reason，hits-hash=a627f910f528；配偶 HOLD（須藤正子 vs 鄭美招）持續未解。
