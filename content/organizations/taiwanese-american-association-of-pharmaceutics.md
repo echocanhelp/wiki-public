@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-27
+last_reviewed: 2026-10-03
 ---
 # Taiwanese American Association of Pharmaceutics (台美藥劑協會)
 
@@ -28,6 +28,8 @@ The Taiwanese American Association of Pharmaceutics (TAAP) is a professional org
 - Corpus re-scan 2026-09-25 (deepen-x slice 09240800-18): fresh grep (台美藥劑協會／TAAP) — hit set unchanged (the four cited works + index + 2 known articles/ false positives: the opaque digest string "BY2TAAPMN…" and an APEC news article matching only via "FTAAP"). Nothing new absorbable.
 - Corpus re-scan 2026-09-26 (deepen-x slice 09251023-4): fresh grep (台美藥劑協會／TAAP) — hit set unchanged (the four cited works + index + the known articles/ FTAAP false positive). Nothing new absorbable.
 - Corpus re-scan 2026-09-27 (deepen-x slice 09260600-18): fresh grep (台美藥劑協會／TAAP) — hit set unchanged (the four cited works + index + the known articles/ false positives). Nothing new absorbable.
+
+Corpus re-check 2026-10-03 (deepen-x slice 09270700-10): fresh grep (台美藥劑協會／full EN name) over works/ + articles/ — hit set unchanged (ourjourneys356 + -eng, enewsletter-taap, directory entry, index; articles/ hits still only the known opaque-digest and FTAAP false positives). All hits already wikilinked with facts absorbed. SKIP-deepen; verified saturated. hits-hash=49ed6abaa5ef
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-american-association-of-pharmaceutics/)

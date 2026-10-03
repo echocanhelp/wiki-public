@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-27
+last_reviewed: 2026-10-03
 ---
 # M. Y. Huang (黃美雲)
 
@@ -54,3 +54,5 @@ _No filled family fields on the TAH profile._
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 Corpus re-check 2026-09-27 (deepen-x slice 09260600-16): fresh ZH+EN grep of works/+articles/ — hit set unchanged, all hits already wikilinked with facts absorbed. SKIP-deepen; verified saturated.
+
+Corpus re-check 2026-10-03 (deepen-x slice 09270700-10): fresh ZH+EN grep of works/+articles/ — hit set identical (musician419, whoswho1463, whoswho1773, works index); content/articles clean; no new absorbable facts. SKIP-deepen; verified saturated; musician-vs-physician HOLD stands. hits-hash=d2ad19cd7fe7

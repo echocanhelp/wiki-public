@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-27
+last_reviewed: 2026-10-03
 ---
 # Liu-Hsiung Chuang (莊六雄博士)
 
@@ -59,3 +59,4 @@ HOLD: 通訊錄將他列於 Utah，Who's Who 傳記頁與現職（USDA、IDDS �
 > Saturate-note (deepen-x slice 09240500-24, 2026-09-25): re-grep ZH+EN returned the identical hit set; no new absorbable corpus facts; verified-saturated.
 - Re-grep 2026-09-25 (slice 09250800-26): fresh ZH+EN grep over content/works + content/articles returned the identical hit set — all records already absorbed above. Verified-saturated, SKIP-with-reason. (hit set: ourjourneys-138, ourjourneys58, TAH #792, TJJ 2018-07-20, index)
 > Saturate-note (deepen-x slice 09260600-19, 2026-09-27): fresh ZH+EN grep returned the identical hit set (ourjourneys-138, ourjourneys58, TAH #792, TJJ 2018-07-20, index); no new absorbable corpus facts; verified-saturated.
+> Saturate-note (deepen-x slice 09270700-10, 2026-10-03): fresh ZH+EN grep returned the identical hit set (ourjourneys-138, ourjourneys58, whos-who-792, works index, TJJ 2018-07-20); no new absorbable corpus facts; verified-saturated, SKIP-with-reason. hits-hash=2e5270f36fbb
