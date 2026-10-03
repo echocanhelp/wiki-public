@@ -1,4 +1,4 @@
-## Queue drain — 2026-10-02
+## Queue drain — 2026-10-03
 - Items: **40**
 
 - `people/bai-peiyu.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
@@ -9,7 +9,6 @@
 - `people/nanfang-shuo.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 - `people/tang-peili.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 - `people/wang-qiaoling.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
-- `people/林芸.md`: add Related Pages stub, WROTE
 - `people/dr-hsing-chi-chuck-chang.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 - `people/george-lee.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 - `people/prof-sze-ya-yeh.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
@@ -28,6 +27,7 @@
 - `people/chao-sile.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 - `people/chen-po-kong.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 - `people/deng-shuzhen.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
+- `people/林芸.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 - `people/karen-chia-ling-ho.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 - `organizations/evergreen-senior-university-by-evangelical-formosa-church-of-irvine-esu.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 - `organizations/global-hakka-un-ngo-applying-committee-un-ngo.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)

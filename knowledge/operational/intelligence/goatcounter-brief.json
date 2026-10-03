@@ -1,9 +1,9 @@
 {
-  "at": "2026-10-01T14:00:28Z",
+  "at": "2026-10-02T14:00:36Z",
   "cutoff": "2026-08-21T19:22:14Z",
   "ok": true,
-  "visits_since_cutoff": 108,
-  "yesterday_pdt": "2026-09-30",
+  "visits_since_cutoff": 111,
+  "yesterday_pdt": "2026-10-01",
   "yesterday_visits": 5,
   "top": [
     {
@@ -23,13 +23,13 @@
     },
     {
       "count": 7,
-      "path": "/wiki-public",
-      "title": "Echopedia"
-    },
-    {
-      "count": 6,
       "path": "/wiki-public/people/albert-en-sku-a-scratch-review",
       "title": "Albert EN SKU A audiobook scratch \u2014 full book review"
+    },
+    {
+      "count": 7,
+      "path": "/wiki-public",
+      "title": "Echopedia"
     }
   ],
   "error": null

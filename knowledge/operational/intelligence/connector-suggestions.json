@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-01T07:00:26.978200",
+  "generated_at": "2026-10-02T07:00:34.579750",
   "pages_scanned": 2936,
   "capped": true,
   "cap_top_n": 80,
   "summary": {
-    "co_citation_count": 5003,
-    "co_mention_count": 10544,
+    "co_citation_count": 5042,
+    "co_mention_count": 10596,
     "shared_tags_count": 0,
     "orphan_folder_count": 3,
     "kept_co_citation": 80,
@@ -84,7 +84,7 @@
         "shared_target": "organizations/tah-foundation",
         "page1_title": "AJ WANG FOUNDATION – SCHOLARSHIP FUND",
         "page2_title": "American Citizens for Taiwan (西雅圖美台會)",
-        "shared_targets_count": 2610
+        "shared_targets_count": 2611
       },
       {
         "type": "CO-CITATION",
@@ -93,7 +93,7 @@
         "shared_target": "organizations/tah-foundation",
         "page1_title": "AJ WANG FOUNDATION – SCHOLARSHIP FUND",
         "page2_title": "American Citizens of Taiwan Origin ACTO (美台公民協會)",
-        "shared_targets_count": 2610
+        "shared_targets_count": 2611
       },
       {
         "type": "CO-CITATION",
@@ -102,7 +102,7 @@
         "shared_target": "organizations/tah-foundation",
         "page1_title": "AJ WANG FOUNDATION – SCHOLARSHIP FUND",
         "page2_title": "Ann Arbor Taiwanese Association (安雅堡)",
-        "shared_targets_count": 2610
+        "shared_targets_count": 2611
       },
       {
         "type": "CO-CITATION",
@@ -179,6 +179,60 @@
       {
         "type": "CO-CITATION",
         "page1": "organizations/american-chinese-dance-association.md",
+        "page2": "people/dr-steve-huang.md",
+        "shared_target": "articles/taiwanjustice-net/2025/20250614233935_2023台美小姐選拔賽_盛大舉行-宋依珊_mimiq-soong_奪后_79b5f26fdef89d22",
+        "page1_title": "American Chinese Dance Association (美國華裔舞蹈協會, ACDA)",
+        "page2_title": "Dr. Steve Huang (黃文谷醫師)",
+        "shared_targets_count": 8
+      },
+      {
+        "type": "CO-CITATION",
+        "page1": "organizations/american-chinese-dance-association.md",
+        "page2": "people/paul-chen.md",
+        "shared_target": "articles/taiwanjustice-net/2025/20250614233935_2023台美小姐選拔賽_盛大舉行-宋依珊_mimiq-soong_奪后_79b5f26fdef89d22",
+        "page1_title": "American Chinese Dance Association (美國華裔舞蹈協會, ACDA)",
+        "page2_title": "Paul Chen (陳柏宇)",
+        "shared_targets_count": 8
+      },
+      {
+        "type": "CO-CITATION",
+        "page1": "organizations/american-chinese-dance-association.md",
+        "page2": "people/tah-p-e0d94fd09b.md",
+        "shared_target": "articles/taiwanjustice-net/2025/20250614233935_2023台美小姐選拔賽_盛大舉行-宋依珊_mimiq-soong_奪后_79b5f26fdef89d22",
+        "page1_title": "American Chinese Dance Association (美國華裔舞蹈協會, ACDA)",
+        "page2_title": "陳西園",
+        "shared_targets_count": 8
+      },
+      {
+        "type": "CO-CITATION",
+        "page1": "organizations/american-chinese-dance-association.md",
+        "page2": "people/tina-shih.md",
+        "shared_target": "articles/taiwanjustice-net/2023/20230204022253_2016_06_14_2016台美小姐選拔-開訓記者會大洛杉磯台灣會館06122016-_735744492226b90c",
+        "page1_title": "American Chinese Dance Association (美國華裔舞蹈協會, ACDA)",
+        "page2_title": "Tina Shih (施雅婷)",
+        "shared_targets_count": 6
+      },
+      {
+        "type": "CO-CITATION",
+        "page1": "people/tah-p-e0d94fd09b.md",
+        "page2": "people/tina-shih.md",
+        "shared_target": "articles/taiwanjustice-net/2023/20230204022253_2016_06_14_2016台美小姐選拔-開訓記者會大洛杉磯台灣會館06122016-_735744492226b90c",
+        "page1_title": "陳西園",
+        "page2_title": "Tina Shih (施雅婷)",
+        "shared_targets_count": 6
+      },
+      {
+        "type": "CO-CITATION",
+        "page1": "organizations/american-chinese-dance-association.md",
+        "page2": "sources/taiwaneseamericanhistory-org.md",
+        "shared_target": "people/tah-p-e0d94fd09b",
+        "page1_title": "American Chinese Dance Association (美國華裔舞蹈協會, ACDA)",
+        "page2_title": "taiwaneseamericanhistory.org (TAH Foundation)",
+        "shared_targets_count": 2
+      },
+      {
+        "type": "CO-CITATION",
+        "page1": "organizations/american-chinese-dance-association.md",
         "page2": "organizations/forus-foundation.md",
         "shared_target": "organizations/rowland-heights-chinese-association",
         "page1_title": "American Chinese Dance Association (美國華裔舞蹈協會, ACDA)",
@@ -237,7 +291,7 @@
         "shared_target": "works/taiwaneseamerican-org/pew-research-center-taiwanese-american-statement",
         "page1_title": "American Citizens for Taiwan (西雅圖美台會)",
         "page2_title": "East Bay Taiwanese Association (北加州)",
-        "shared_targets_count": 82
+        "shared_targets_count": 83
       },
       {
         "type": "CO-CITATION",
@@ -246,7 +300,7 @@
         "shared_target": "works/taiwaneseamerican-org/pew-research-center-taiwanese-american-statement",
         "page1_title": "American Citizens for Taiwan (西雅圖美台會)",
         "page2_title": "Formosan Association for Public Affairs Los Angeles(FAPA-LA)",
-        "shared_targets_count": 82
+        "shared_targets_count": 83
       },
       {
         "type": "CO-CITATION",
@@ -255,7 +309,7 @@
         "shared_target": "works/taiwaneseamerican-org/pew-research-center-taiwanese-american-statement",
         "page1_title": "American Citizens for Taiwan (西雅圖美台會)",
         "page2_title": "North America Taiwanese Women's Assoc. Southern CA Chapter NATWA-SC",
-        "shared_targets_count": 82
+        "shared_targets_count": 83
       },
       {
         "type": "CO-CITATION",
@@ -679,60 +733,6 @@
         "page1_title": "Austin Taiwanese Association (奧斯丁)",
         "page2_title": "Taiwanese American Professionals Boston",
         "shared_targets_count": 7
-      },
-      {
-        "type": "CO-CITATION",
-        "page1": "organizations/austin-taiwanese-association.md",
-        "page2": "organizations/taiwanese-american-professionals-los-angeles.md",
-        "shared_target": "works/taiwaneseamericanhistory-org/austin-chapter-tap",
-        "page1_title": "Austin Taiwanese Association (奧斯丁)",
-        "page2_title": "Taiwanese American Professionals Los Angeles (洛杉磯台美菁英協會)",
-        "shared_targets_count": 7
-      },
-      {
-        "type": "CO-CITATION",
-        "page1": "organizations/austin-taiwanese-association.md",
-        "page2": "organizations/taiwanese-american-professionals-orange-county.md",
-        "shared_target": "works/taiwaneseamericanhistory-org/austin-chapter-tap",
-        "page1_title": "Austin Taiwanese Association (奧斯丁)",
-        "page2_title": "Taiwanese American Professionals Orange County (台美菁英協會橙縣分會)",
-        "shared_targets_count": 7
-      },
-      {
-        "type": "CO-CITATION",
-        "page1": "organizations/austin-taiwanese-association.md",
-        "page2": "people/dr-mu-sheng-wu.md",
-        "shared_target": "works/taiwaneseamericanhistory-org/ourjourneys45-eng",
-        "page1_title": "Austin Taiwanese Association (奧斯丁)",
-        "page2_title": "Dr. Mu-Sheng Wu (吳木盛博士)",
-        "shared_targets_count": 2
-      },
-      {
-        "type": "CO-CITATION",
-        "page1": "organizations/austin-taiwanese-association.md",
-        "page2": "people/karen-lin.md",
-        "shared_target": "works/taiwaneseamericanhistory-org/ourjourneys243",
-        "page1_title": "Austin Taiwanese Association (奧斯丁)",
-        "page2_title": "Karen Lin (林璇雯)",
-        "shared_targets_count": 3
-      },
-      {
-        "type": "CO-CITATION",
-        "page1": "organizations/austin-taiwanese-association.md",
-        "page2": "people/pearl-pi-chu-yang-wu.md",
-        "shared_target": "works/taiwaneseamericanhistory-org/ourjourneys243",
-        "page1_title": "Austin Taiwanese Association (奧斯丁)",
-        "page2_title": "Pearl Pi-Chu Yang Wu (楊碧珠)",
-        "shared_targets_count": 3
-      },
-      {
-        "type": "CO-CITATION",
-        "page1": "people/karen-lin.md",
-        "page2": "people/pearl-pi-chu-yang-wu.md",
-        "shared_target": "works/taiwaneseamericanhistory-org/ourjourneys243",
-        "page1_title": "Karen Lin (林璇雯)",
-        "page2_title": "Pearl Pi-Chu Yang Wu (楊碧珠)",
-        "shared_targets_count": 3
       }
     ],
     "co_mention": [

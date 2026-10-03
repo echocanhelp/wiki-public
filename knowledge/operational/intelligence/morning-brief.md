@@ -1,4 +1,4 @@
-TAHS · Echopedia morning brief — 2026-10-01
+TAHS · Echopedia morning brief — 2026-10-02
 1 NEED YOU item(s) below; the rest is auto-handled.
 
 🔴 NEED YOU (your judgment only)
@@ -10,11 +10,10 @@ TAHS · Echopedia morning brief — 2026-10-01
 🟡 QUEUE Charles Yang: soft pending aged out: capture_line_user_id_on_first_sender_message
 
 🟡 SOURCE CONTINUITY (live sites)
-✅ AUTO  good-shepherd-taiwanese-presbyterian-church: +1 new / 4 changed; applied 7
-✅ AUTO  presbyterian-church-in-taiwan: +2 new / 0 changed; applied 4
-✅ AUTO  taiwaneseamerican-org: +1 new / 0 changed; applied 4
-✅ AUTO  eastgatebarclay-org: +0 new / 2 changed; applied 4
-✅ AUTO  penghu-info: +0 new / 5 changed; applied 7
+🟡 QUEUE taiwancenter-org: +0 new / 4 changed (see disk)
+🟡 QUEUE presbyterian-church-in-taiwan: +1 new / 2 changed (see disk)
+🟡 QUEUE taiwaneseamericanhistory-org: +1 new / 0 changed (see disk)
+🟡 QUEUE eastgatebarclay-org: +3 new / 0 changed (see disk)
 
 🟡 NEXT INGEST (≤2, advisory — not started)
 🟡 QUEUE latimes.com — external host on 6 Tier1 pages; not watched
@@ -26,7 +25,7 @@ TAHS · Echopedia morning brief — 2026-10-01
 🟡 QUEUE 11 pages WIP/incomplete
 
 🟡 QUEUE / link suggestions (disk)
-ℹ️  INFO  top tips below · full pairs on disk (~15547 scored)
+ℹ️  INFO  top tips below · full pairs on disk (~15638 scored)
 
 🟡 QUEUE / optional link tips (≤5, not NEED YOU)
 🟡 QUEUE 1. Link tip: organizations/taiwanese-american-association-of-los-angeles-east-san-gabriel-valley.md ↔ sources/taiwaneseamericanhistory-org.md
@@ -36,11 +35,11 @@ TAHS · Echopedia morning brief — 2026-10-01
 🟡 QUEUE 5. Link tip: organizations/ai-education-foundation.md ↔ people/john-hsu.md
 
 ℹ️ SITE (wiki visits; operator self-traffic excluded)
-ℹ️  INFO  wiki 108 visits since cutoff · yday 2026-09-30 = 5 · /people/albert-zh-sku-b-publisher-review.html 19, /people/gwhyneth-chen 16, /people/albert-zh-sku-b-publish
+ℹ️  INFO  wiki 111 visits since cutoff · yday 2026-10-01 = 5 · /people/albert-zh-sku-b-publisher-review.html 19, /people/gwhyneth-chen 16, /people/albert-zh-sku-b-publish
 
 ✅ AUTO (overnight — evidence)
-✅ AUTO analyzer scanned 2929 queued 0 suppressed 2245
-🟡 QUEUE janitor HOLD leftover 40
-🟡 QUEUE kanban blocked 19
-🔴 NEED YOU cron fail: memory-audit, echopedia-weekly-improvement, echopedia-ci-heal
+✅ AUTO analyzer scanned 2930 queued 2 suppressed 2244
+🟡 QUEUE janitor HOLD leftover 39
+🟡 QUEUE kanban blocked 33
+🔴 NEED YOU cron fail: memory-audit, echopedia-nightly-audit, echopedia-weekly-improvement, go-router-monthly-audit
 ℹ️  INFO  only 🔴 NEED YOU requires your reply

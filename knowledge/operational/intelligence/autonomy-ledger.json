@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-01",
+  "date": "2026-10-02",
   "standards_version": 10,
   "auto_apply_agent": false,
   "nodes": {
@@ -11,19 +11,19 @@
       "n": 0
     },
     "analyzer": {
-      "scanned": 2929,
-      "queued": 0,
-      "suppressed": 2245
+      "scanned": 2930,
+      "queued": 2,
+      "suppressed": 2244
     },
     "enrichment_writes": {
       "n": 0,
       "enabled": false
     },
     "janitor.hold": {
-      "n": 40
+      "n": 39
     },
     "kanban.blocked": {
-      "n": 19
+      "n": 33
     },
     "kanban.auto_go": {
       "enabled": false
@@ -38,19 +38,21 @@
     },
     "cron.fail": [
       "memory-audit",
+      "echopedia-nightly-audit",
       "echopedia-weekly-improvement",
-      "echopedia-ci-heal"
+      "go-router-monthly-audit"
     ]
   },
   "telegram_auto_lines": [
-    "✅ AUTO analyzer scanned 2929 queued 0 suppressed 2245",
-    "🟡 QUEUE janitor HOLD leftover 40",
-    "🟡 QUEUE kanban blocked 19",
-    "🔴 NEED YOU cron fail: memory-audit, echopedia-weekly-improvement, echopedia-ci-heal"
+    "✅ AUTO analyzer scanned 2930 queued 2 suppressed 2244",
+    "🟡 QUEUE janitor HOLD leftover 39",
+    "🟡 QUEUE kanban blocked 33",
+    "🔴 NEED YOU cron fail: memory-audit, echopedia-nightly-audit, echopedia-weekly-improvement, go-router-monthly-audit"
   ],
   "cron_fail_names": [
     "memory-audit",
+    "echopedia-nightly-audit",
     "echopedia-weekly-improvement",
-    "echopedia-ci-heal"
+    "go-router-monthly-audit"
   ]
 }

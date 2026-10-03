@@ -1,0 +1,88 @@
+{
+  "date": "2026-10-02",
+  "standards_version": 10,
+  "total_findings": 8,
+  "total_pages": 3,
+  "actions": [
+    {
+      "page": "organizations/ucla-taiwanese-american-union.md",
+      "finding": "STRUCT_NO_HISTORY",
+      "finding_prefix": "STRUCT_NO_HISTORY",
+      "action": "Add ## History section",
+      "detail": "Add a History section with key dates, milestones, and events. Include dates and brief descriptions.",
+      "playbook": "P8",
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "organizations/ucla-taiwanese-american-union.md",
+      "finding": "READABILITY_LONG_SENTENCES_30wps",
+      "finding_prefix": "READABILITY_LONG_SENTENCES",
+      "action": "Break up long sentences",
+      "detail": "Average words per sentence exceeds 30. Break up long sentences for readability.",
+      "playbook": "P8",
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "organizations/ucla-taiwanese-american-union.md",
+      "finding": "READABILITY_MANY_LONG_SENTENCES_4",
+      "finding_prefix": "READABILITY_MANY_LONG_SENTENCES",
+      "action": "Break up long sentences",
+      "detail": "Multiple sentences exceed 50 words. Break them up for readability.",
+      "playbook": "P8",
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "people/prof-yao-yuan-yeh.md",
+      "finding": "DESC_NO_TITLE_MENTION",
+      "finding_prefix": "DESC_NO_TITLE_MENTION",
+      "action": "Ensure the first paragraph mentions the page subject",
+      "detail": "The first paragraph should reference the person/organization this page is about.",
+      "playbook": "P8",
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "people/prof-yao-yuan-yeh.md",
+      "finding": "READABILITY_MANY_LONG_SENTENCES_4",
+      "finding_prefix": "READABILITY_MANY_LONG_SENTENCES",
+      "action": "Break up long sentences",
+      "detail": "Multiple sentences exceed 50 words. Break them up for readability.",
+      "playbook": "P8",
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "people/林芸.md",
+      "finding": "FRESHNESS_NO_REVIEW_DATE",
+      "finding_prefix": "FRESHNESS_NO_REVIEW_DATE",
+      "action": "Add last_reviewed: YYYY-MM-DD to frontmatter",
+      "detail": "Add a last_reviewed date to the page frontmatter.",
+      "playbook": "P8",
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "people/林芸.md",
+      "finding": "STRUCT_NO_TYPE",
+      "finding_prefix": "STRUCT_NO_TYPE",
+      "action": "Add type: to frontmatter",
+      "detail": "Add type: person, type: organization, or type: source to the page frontmatter.",
+      "playbook": "P8",
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "people/林芸.md",
+      "finding": "STRUCT_NO_REVIEW_DATE",
+      "finding_prefix": "STRUCT_NO_REVIEW_DATE",
+      "action": "Add last_reviewed: YYYY-MM-DD to frontmatter",
+      "detail": "Add a last_reviewed date to the page frontmatter so the freshness checker can track it.",
+      "playbook": "P8",
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    }
+  ]
+}

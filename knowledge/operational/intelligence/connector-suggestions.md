@@ -1,7 +1,7 @@
 # Connector suggestions (capped top 80)
 
-- co_citation total=5003 kept=80
-- co_mention total=10544 kept=40
+- co_citation total=5042 kept=80
+- co_mention total=10596 kept=40
 - shared_tags total=0 kept=0
 
 ## Top co-citation
@@ -23,10 +23,10 @@
 - organizations/alumni-association-of-chia-yi-high-school-worldwide.md ↔ organizations/taiwanese-american-pen-club.md
 - organizations/alumni-association-of-chia-yi-high-school-worldwide.md ↔ organizations/taiwanese-american-soft-tennis-association.md
 - organizations/alumni-association-of-chia-yi-high-school-worldwide.md ↔ people/alan-t-chen.md
+- organizations/american-chinese-dance-association.md ↔ people/dr-steve-huang.md
+- organizations/american-chinese-dance-association.md ↔ people/paul-chen.md
+- organizations/american-chinese-dance-association.md ↔ people/tah-p-e0d94fd09b.md
+- organizations/american-chinese-dance-association.md ↔ people/tina-shih.md
+- people/tah-p-e0d94fd09b.md ↔ people/tina-shih.md
+- organizations/american-chinese-dance-association.md ↔ sources/taiwaneseamericanhistory-org.md
 - organizations/american-chinese-dance-association.md ↔ organizations/forus-foundation.md
-- organizations/american-chinese-dance-association.md ↔ people/john-hsu.md
-- organizations/forus-foundation.md ↔ people/john-hsu.md
-- organizations/american-citizens-for-taiwan.md ↔ organizations/taiwanese-american-perspectives.md
-- organizations/american-citizens-for-taiwan.md ↔ people/jonathan-lee.md
-- organizations/taiwanese-american-perspectives.md ↔ people/jonathan-lee.md
-- organizations/american-citizens-for-taiwan.md ↔ organizations/east-bay-taiwanese-association.md
