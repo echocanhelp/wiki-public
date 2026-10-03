@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-27
+last_reviewed: 2026-10-03
 ---
 # Donald J. Liu (劉瑞義牧師)
 
@@ -55,3 +55,5 @@ _No filled family fields on the TAH profile._
 > Corpus re-scan 2026-09-26 (deepen-x slice 09251023-7): fresh grep 劉瑞義/Donald J. Liu/Suigii — hit set identical ([[works/taiwaneseamericanhistory-org/ourjourneys106|ourjourneys106 blacklist]], [[works/taiwaneseamericanhistory-org/whoswho1049|whoswho1049]], [[works/taiwaneseamericanhistory-org/21-donald-j-liu-suigii|21-donald-j-liu-suigii]], index). Verified-saturated; nothing new absorbable.
 >
 > Corpus re-scan 2026-09-27 (deepen-x slice 09260600-7): fresh grep 劉瑞義/Donald J. Liu — hit set identical (ourjourneys106, whoswho1049, 21-donald-j-liu-suigii, index). SKIP-content — verified-saturated; nothing new absorbable.
+>
+> Corpus re-scan 2026-10-03 (deepen-x slice 09270600-6): fresh grep 劉瑞義/Donald J. Liu (works+articles) — hit set unchanged (ourjourneys106 blacklist roster, whoswho1049, 21-donald-j-liu-suigii, index), all already wikilinked in Role in the Community. Verified-saturated, SKIP-no-new-facts. hits-hash=17700ff2e471

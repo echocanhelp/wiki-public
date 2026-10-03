@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-27
+last_reviewed: 2026-10-03
 ---
 # Taiwanese American Professionals Atlanta (台美菁英協會亞特蘭大分會)
 
@@ -45,3 +45,4 @@ Corpus re-grep 2026-09-22: no additional mentions of TAP-ATL / 台美菁英協�
 - 2026-09-25 corpus re-grep (DEEPEN-X slice 09240700-24): hit-set unchanged (atlanta-chapter-tap + works index only) — verified-saturated, SKIP.
 - 2026-09-26 corpus re-grep (DEEPEN-X slice 09251000-22): hits = own chapter record + announcement-party event record + works index, all already wikilinked with facts absorbed — verified-saturated, SKIP.
 - 2026-09-27 corpus re-grep (deepen-x slice 09260600-4): hits = own chapter record + already-wikilinked event records + works index; hit-set unchanged — verified-saturated, SKIP.
+- 2026-10-03 corpus re-grep (deepen-x slice 09270600-6): fresh grep 'Taiwanese American Professionals Atlanta' returns ZERO hits in works+articles (exact English name appears in no corpus page; the ZH 台美菁英協會亞特蘭大分會 form appears only in the own chapter record atlanta-chapter-tap + index, already wikilinked above). Hit-set empty under audit-convention name set → verified-saturated, SKIP. hits-hash=da39a3ee5e6b

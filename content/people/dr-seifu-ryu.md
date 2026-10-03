@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-27
+last_reviewed: 2026-10-03
 ---
 # Dr. Seifu Ryu (劉清風醫師)
 
@@ -57,3 +57,4 @@ Accomplishment
 - 2026-09-23 deepen-x slice 09221300-26: re-verified saturated — fresh grep against works/ + articles/ returns the same 6 files (OJ #285, OJ #270, TAH #1847, firstfamous #391, my-stories #774, index), all already wikilinked in Role in the Community; no new absorbable facts.
 - 2026-09-26 deepen-x slice 09251000-25: fresh grep (劉清風|Seifu Ryu) returns the same 6 files (OJ #285, OJ #270, TAH #1847, firstfamous #391, my-stories #774, index), all already wikilinked in Role in the Community. Verified-saturated, SKIP.
 - 2026-09-27 deepen-x slice 09260600-6: fresh grep (劉清風|Seifu Ryu) returns the same 6 files (OJ #285, OJ #270, TAH #1847, firstfamous #391, my-stories #774, index), all wikilinked. Verified-saturated, SKIP.
+- 2026-10-03 deepen-x slice 09270600-6: fresh re-grep (劉清風|Seifu Ryu, works+articles) — hit set unchanged, all mentions already wikilinked in Role in the Community. Verified-saturated, SKIP-no-new-facts. hits-hash=0906e7577b73 (audit-convention name set {劉清風醫師, Dr. Seifu Ryu, title} → index, firstfamous-391, OJ #270, OJ #285, TAH #1847; my-stories-774 matches loose 劉清風 only, no exact-name hit).

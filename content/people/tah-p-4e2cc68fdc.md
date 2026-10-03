@@ -6,7 +6,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-27
+last_reviewed: 2026-10-03
 ---
 # 張肅
 
@@ -54,3 +54,4 @@ last_reviewed: 2026-09-27
 <!-- deepen-x 09230800-18: re-verified 2026-09-24 — fresh grep (張肅, works+articles): hits unchanged (ourjourneys106, ourjourneys33, whos480, index) — all absorbed; 106 blacklist roster line and 33 family narrative already in Role in the Community. SKIP-content — saturated. -->
 <!-- deepen-x 09251000-23: re-verified 2026-09-26 — fresh grep (張肅, works+articles): hits unchanged (ourjourneys106, ourjourneys33, whos480, index) — all absorbed. SKIP-content — saturated. -->
 <!-- deepen-x 09260600-7: re-verified 2026-09-27 — fresh grep (張肅, works+articles): hits unchanged (ourjourneys106, ourjourneys33, whos480, index) — all absorbed. SKIP-content — saturated, nothing new absorbable. -->
+<!-- deepen-x 09270600-6 (2026-10-03): re-verified — fresh grep (張肅, works+articles): hits unchanged (ourjourneys106 blacklist roster, ourjourneys33 family narrative, whos480, index) — all already absorbed in Role in the Community; 106 roster also lists 劉瑞義 (see donald-j-liu page), no new facts for either page. SKIP-content — saturated. hits-hash=91c2a1ee9d85 -->
