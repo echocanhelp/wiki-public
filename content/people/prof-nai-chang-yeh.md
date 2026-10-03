@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-27
+last_reviewed: 2026-10-03
 ---
 # Prof. Nai-chang Yeh (葉乃裳教授)
 
@@ -57,3 +57,5 @@ Corpus re-grep (slice 09240700-19, 2026-09-25): fresh grep — hits unchanged (o
 Corpus re-grep (slice 09251000-15, 2026-09-26): fresh grep 葉乃裳/Nai-chang Yeh — hits unchanged (own three TAH records + index); no memoir or article mentions. SKIP (verified-saturated).
 Corpus re-grep (slice 09260500-24, 2026-09-26): fresh grep — hits unchanged (own three TAH records + index); no memoir or article mentions. SKIP (verified-saturated).
 Corpus re-grep (slice 09260500-24 retry, 2026-09-27): fresh ZH+EN grep — hits unchanged (own three TAH records + index); no memoir or article mentions. SKIP (verified-saturated).
+
+Corpus re-grep (deepen-x slice 09270400-2, 2026-10-03): fresh ZH+EN grep 葉乃裳/Nai-chang Yeh over content/works + content/articles — hits unchanged (own three TAH records: pride #10, #187, #1004, + works index); no memoir or article mentions. SKIP (verified-saturated). hits-hash=35b110b54aa9

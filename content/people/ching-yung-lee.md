@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-27
+last_reviewed: 2026-10-03
 ---
 # Ching Yung Lee (李慶榮)
 
@@ -59,3 +59,5 @@ last_reviewed: 2026-09-27
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+- Corpus re-sweep 2026-10-03 (slice 09270400-2): fresh ZH+EN grep 李慶榮/Ching Yung Lee over content/works + content/articles — identical hit set again (ourjourneys311, mystories397, 397 EN-titled duplicate, 658, ourjourneys291, our-journeys-391), all already absorbed above. verified-saturated, SKIP. hits-hash=fecfbaca32ff

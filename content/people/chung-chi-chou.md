@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-27
+last_reviewed: 2026-10-03
 ---
 # Chung Chi Chou (周重吉)
 
@@ -58,3 +58,5 @@ _No filled family fields on the TAH profile._
 > Re-verified 2026-09-25 (deepen-x slice 09240400-8): fresh grep 周重吉/Chung Chi Chou over content/works + content/articles — no hits beyond the already-linked mystories485, whoswho1406, wellbrook-foundation. SKIP: verified saturated.
 > Re-verified 2026-09-25 (deepen-x slice 09250800-16): fresh grep 周重吉/Chung Chi Chou/美溪/Wellbrook — hit set unchanged (mystories485, whoswho1406, wellbrook-foundation). SKIP: verified saturated.
 > Re-verified 2026-09-27 (deepen-x slice 09260500-23 rerun): fresh grep 周重吉/Chung Chi Chou/美溪/Wellbrook over content/works + content/articles — hit set unchanged (mystories485, whoswho1406, wellbrook-foundation, works index), all already linked above. SKIP: verified saturated.
+
+> Re-verified 2026-10-03 (deepen-x slice 09270400-2): fresh grep 周重吉/Chung Chi Chou/美溪/Wellbrook over content/works + content/articles — hit set unchanged (wellbrook-foundation, mystories485, whoswho1406, works index), all already linked above. SKIP: verified saturated. hits-hash=a3bf9d6b1ef9
