@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-27
+last_reviewed: 2026-10-03
 ---
 # Taiwanese American Association of Greater Orlando TAAGO (大奧蘭多)
 
@@ -38,4 +38,4 @@ HOLD: founding year of TAAGO not in corpus (directory-era record only, 2015); no
 
 <!-- deepen-x slice 09240800-15 (2026-09-25): saturated re-verify — fresh grep (TAAGO/大奧蘭多, works+articles) returns only the already-wikilinked chapter record, 大奧蘭多台灣商會 record, and works index; Pew signatory + 台福教會 records already absorbed above. No new corpus facts. -->
 <!-- deepen-x slice 09251023-2 (2026-09-26): saturated re-verify — fresh grep (TAAGO/大奧蘭多/Greater Orlando, works+articles) returns only the already-wikilinked chapter record, 大奧蘭多台灣商會 record, Pew signatory record, and works index. No new corpus facts. -->
-<!-- deepen-x slice 09260600-8 (2026-09-27): saturated re-verify — fresh grep (TAAGO/大奧蘭多/Greater Orlando, works+articles) returns only the already-wikilinked chapter record, 大奧蘭多台灣商會 record, Pew signatory record, and works index. No new corpus facts. -->
+<!-- deepen-x slice 09270600-5 (2026-10-03): saturated re-verify — fresh grep (TAAGO/大奧蘭多/Greater Orlando, works+articles) returns only the already-wikilinked chapter record, 大奧蘭多台灣商會 record, Pew signatory record, and works index. No new corpus facts. hits-hash=852a2e5c9f1d -->
