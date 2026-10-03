@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-27
+last_reviewed: 2026-10-03
 ---
 # Prof. Dennis Hsieh (謝顯堂教授)
 
@@ -59,3 +59,4 @@ _No filled family fields on the TAH profile._
 
 - 2026-09-24 deepen-x slice 09230800-16: re-verified — fresh grep for Dennis Hsieh/謝顯堂 over works+articles returns only own TAH record #2094, the works index, and the already-cited 2018 TJJ 南加州台大校友會 roster; nothing further absorbable, SKIP.
 - 2026-09-26 deepen-x slice 09251000-25: fresh grep (謝顯堂|Dennis Hsieh, works+articles) returns only own TAH record #2094, the works index, and the already-cited 2018 TJJ 南加州台大校友會 roster (謝顯堂(農化) line); nothing further absorbable, SKIP.
+- 2026-10-03 deepen-x slice 09270600-4: fresh grep (謝顯堂|Dennis Hsieh, works+articles) returns only own TAH record #2094, the works index, and the already-cited 2018 TJJ 南加州台大校友會 roster; nothing further absorbable, SKIP. hits-hash=597d875a4737
