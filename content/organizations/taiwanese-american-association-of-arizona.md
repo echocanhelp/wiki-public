@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-27
+last_reviewed: 2026-10-03
 ---
 # Taiwanese American Association of Arizona (亞歷桑那州)
 
@@ -42,3 +42,5 @@ Note: the acronym TAAA also belongs to a different org, [[works/taiwaneseamerica
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 - Corpus re-grep 2026-09-27 (slice 09260700-23): fresh ZH+EN re-grep (亞歷桑那/亞利桑那/Arizona) returned the identical hit set — arizona-chapter-taa, heritage-week record, FAPA/NATWA Arizona works, plus state-level-only ourjourneys58/338. No absorbable chapter facts. Verified-saturated.
+
+- Corpus re-grep 2026-10-03 (slice 09300315-1): fresh ZH+EN re-grep (亞歷桑那/亞利桑那/Arizona/TAAA) returned the identical hit set — arizona-chapter-taa, heritage-week record, FAPA/NATWA Arizona works, TAAA arts-association disambiguation record, plus state-level-only ourjourneys58/338, our-journeys-376 (retirement-migration anecdote) and the taiwans-got-it piece (singer from Arizona). No chapter-level facts. Verified-saturated. hits-hash=dc314cc36bc0
