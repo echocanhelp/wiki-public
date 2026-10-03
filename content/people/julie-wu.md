@@ -50,3 +50,5 @@ _No filled family fields on the TAH profile._
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - Corpus re-grep 2026-09-27 (slice 09260600-20): identical hit set (235, 511, index, Michelle Kuo interview, Harvard presentation +dup-2 variant); all already linked/absorbed; saturated, SKIP-no-new-facts.
+
+- Corpus re-grep 2026-10-03 (slice 09270700-12): identical hit set (235, 511, index, Michelle Kuo interview, Harvard presentation +dup-2 variant, FAPA potluck, Bergvelt interview); all already linked/absorbed; saturated, SKIP-no-new-facts. hits-hash=c2e175aa6f25

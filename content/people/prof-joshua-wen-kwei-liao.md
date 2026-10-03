@@ -50,3 +50,4 @@ _No filled family fields on the TAH profile._
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - 復核（slice 09260600-20 2026-09-27）：grep 廖文奎|Wen-Kwei Liao|Joshua Liao 重命中僅 whos-who-1849、my-stories-897 與 works index——命中集與已吸收紀錄完全一致，維持飽和。
+- 復核（slice 09270700-12 2026-10-03）：grep 廖文奎|Wen-Kwei Liao|Joshua Liao|Formosa Speaks 重命中僅 whos-who-1849、my-stories-897 與 works index——命中集與已吸收紀錄完全一致，無新可吸收事實，維持飽和。hits-hash=c2e175aa6f25

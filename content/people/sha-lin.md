@@ -59,3 +59,5 @@ Corpus re-check 2026-09-25 (deepen-x slice 09240800-8): fresh grep — hit set i
 Corpus re-check 2026-09-26 (deepen-x slice 09251000-30): fresh grep — hit set identical (232/629/628/whos2/artist43 + index); death-date HOLD still stands. SKIP-deepen; saturated.
 
 Corpus re-check 2026-09-27 (deepen-x slice 09260600-27): fresh ZH+EN grep of works/ + articles/ — hit set identical to the records already wikilinked/absorbed on this page; verified-saturated, no new absorbable facts, no conflicts to HOLD. SKIP.
+
+Corpus re-check 2026-10-03 (deepen-x slice 09270700-12): fresh ZH+EN grep of works/ + articles/ — hit set identical (232/629/628/whos2/artist43 + works index), all already wikilinked with facts absorbed; death-date HOLD still stands. SKIP-deepen; nothing new absorbable. hits-hash=c2e175aa6f25
