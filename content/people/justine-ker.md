@@ -54,3 +54,4 @@ last_reviewed: 2026-09-27
 <!-- deepen-x slice 09240800-12 re-verify 2026-09-25: fresh grep of works/+articles/ — hit set identical (whos1124-justine-ker, justineker interview, representation-apa, index); verified-saturated, SKIP-content -->
 <!-- deepen-x slice 09251023-5 re-verify 2026-09-26: fresh grep of works/+articles/ — hit set identical to records already cited/absorbed on this page; verified-saturated, no new absorbable facts -->
 <!-- deepen-x slice 09260600-22 re-verify 2026-09-27: fresh ZH+EN grep of works/+articles/ — hit set identical to records already cited/absorbed on this page; verified-saturated, no new absorbable facts -->
+<!-- deepen-x slice 09270700-14 re-verify 2026-10-03: fresh grep — hit set identical (whos1124-justine-ker, justineker interview, representation-apa, index); verified-saturated, no new absorbable facts, hits-hash=c867c61139b2 -->

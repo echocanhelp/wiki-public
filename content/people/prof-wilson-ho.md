@@ -53,3 +53,4 @@ The movement record holds his own TAH encyclopedia entry [[works/taiwaneseameric
 - Corpus re-grep 2026-09-25 (slice 09240400-12, 何文程 / Wilson Ho): only own TAH #2037 record + works index; SKIP — page saturated; 何文程/何文壽 relationship HOLD stands.
 - Corpus re-grep 2026-09-25 (slice 09250800-24, 何文程 / Wilson Ho): only own TAH #2037 record + works index; SKIP — page saturated; 何文程/何文壽 relationship HOLD stands.
 - Corpus re-grep 2026-09-27 (slice 09260600-20, 何文程 / Wilson Ho): only own TAH #2037 record + works index; SKIP — page saturated; 何文程/何文壽 relationship HOLD stands.
+- Corpus re-grep 2026-10-03 (slice 09270700-14, 何文程 / Wilson Ho): only own TAH #2037 record + works index; SKIP — page saturated; 何文程/何文壽 relationship HOLD stands; hits-hash=077cfb904af6.
