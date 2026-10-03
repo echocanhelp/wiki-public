@@ -57,3 +57,4 @@ First President of Taiwanese American Seniors Society of Greater Washington, DC�
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - Re-grep 2026-09-27 (slice 09260700-13): fresh grep (林佳惠／Jia-Huey, works+articles) returns only TAH #152 + works index — verified saturated, no new corpus facts.
+hits-hash=5599183ed6fe 2026-10-03 slice 09270953-1 re-grep (林佳惠/Jia-Huey Lin, works+articles): hit set identical to material already absorbed (own record [[works/taiwaneseamericanhistory-org/whos-who-152-jia-huey-lin|TAH #152]] + works index only) — verified saturated, nothing absorbable, no conflicts to HOLD; 沈耀初-style NOT-MERGE note for 林雨純 substring false-positives stands.
