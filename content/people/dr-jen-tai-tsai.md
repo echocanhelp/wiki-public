@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-30
+last_reviewed: 2026-10-03
 ---
 # Dr. Jen-Tai Tsai (蔡仁泰博士)
 
@@ -64,3 +64,5 @@ Accomplishment
 複核（deepen-x 2026-09-26, slice 09260400-17）：fresh ZH+EN re-grep（蔡仁泰 / Jen-Tai Tsai）命中集合不變（ourjourneys59/65/65-eng、senior-taiwanese-american-29、184、whos-who-2033），全數已吸收並 wikilink。SKIP-with-reason（saturated）。
 
 複核（deepen-x 2026-09-30, slice 09260800-3）：fresh ZH+EN re-grep（蔡仁泰 / Jen-Tai Tsai）命中集合不變（ourjourneys59/65/65-eng、senior-taiwanese-american-29、184、whos-who-2033），全數已吸收並 wikilink。SKIP-with-reason（saturated）。
+
+複核（deepen-x 2026-10-03, slice 09300315-7）：fresh ZH+EN re-grep（蔡仁泰 / Jen-Tai Tsai）命中集合不變（ourjourneys59/65/65-eng、senior-taiwanese-american-29、184、whos-who-2033、works index），全數已吸收並 wikilink。SKIP-with-reason（saturated）。hits-hash=f0f3def7bdeb

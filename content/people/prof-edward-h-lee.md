@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-30
+last_reviewed: 2026-10-03
 ---
 # Prof. Edward H Lee (李賢淇教授)
 
@@ -62,3 +62,5 @@ last_reviewed: 2026-09-30
 > Corpus re-scan 2026-09-26 (deepen-x slice 09260400-17): fresh ZH+EN grep of works/ + articles/ — identical hit set (record #1676, ourjourneys-138, ourjourneys47, 2018-07-20 TJJ 連署名單, works index). Verified-saturated; SKIP — nothing new absorbable.
 >
 > Corpus re-scan 2026-09-30 (deepen-x slice 09260800-3): fresh ZH+EN grep of works/ + articles/ — identical hit set (record #1676, ourjourneys-138, ourjourneys47, 2018-07-20 TJJ 連署名單, works index). Verified-saturated; SKIP — nothing new absorbable.
+>
+> Corpus re-scan 2026-10-03 (deepen-x slice 09300315-7): fresh ZH+EN grep 李賢淇/Edward H Lee — identical hit set (record #1676, ourjourneys-138, ourjourneys47, 2018-07-20 TJJ 連署名單, works index). Verified-saturated; SKIP — nothing new absorbable. hits-hash=2458096ae0cc
