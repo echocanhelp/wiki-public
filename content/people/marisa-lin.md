@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-27
+last_reviewed: 2026-10-03
 ---
 # Marisa Lin (陳麗雲)
 
@@ -56,3 +56,4 @@ last_reviewed: 2026-09-27
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - Re-verified 2026-09-27 (slice 09260500-21 worker retry): fresh grep (Marisa Lin / 陳麗雲) — identical hit set (#798, our-journeys-389, index); all 印城同鄉會 facts already absorbed. SKIP-deepen; verified-saturated.
+- Re-verified 2026-10-03 (slice 09270500-1): fresh grep (Marisa Lin / 陳麗雲) — identical hit set (#798, our-journeys-389, index); all 印城同鄉會 facts already absorbed. Verified-saturated; SKIP-deepen. hits-hash=41866d8522a0

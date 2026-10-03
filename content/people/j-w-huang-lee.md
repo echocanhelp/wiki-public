@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-27
+last_reviewed: 2026-10-03
 ---
 # J. W. Huang Lee (李黃貞文)
 
@@ -56,3 +56,4 @@ Vice President of The National Taiwan University Alumni Association in the Washi
 - Re-grepped 2026-09-26 (slice 09251000-12): fresh grep 李黃貞文 / J. W. Huang Lee — hits still limited to own #1808 record + works index. Verified-saturated SKIP; no unabsorbed corpus facts.
 - Re-grepped 2026-09-26 (slice 09260500-21): fresh grep 李黃貞文 / J. W. Huang Lee — same hit set (own [[works/taiwaneseamericanhistory-org/whos-who-1808-j-w-huang-lee|#1808]] record + works index, bibliographic header only). Verified-saturated SKIP; no unabsorbed corpus facts.
 - Re-grepped 2026-09-27 (slice 09260500-21 retry): fresh grep — same hit set. Verified-saturated SKIP; no unabsorbed corpus facts.
+- Re-grepped 2026-10-03 (slice 09270500-1): fresh grep 李黃貞文 / J. W. Huang Lee — same hit set (own [[works/taiwaneseamericanhistory-org/whos-who-1808-j-w-huang-lee|#1808]] record + works index, bibliographic header only). Verified-saturated SKIP; no unabsorbed corpus facts. hits-hash=f1d8aa4469a9

@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-27
+last_reviewed: 2026-10-03
 ---
 # Taiwanese Association of America Hawaii (夏威夷)
 
@@ -42,3 +42,4 @@ The Taiwanese Association of America Hawaii (夏威夷台灣同鄉會) is the Ha
 - Re-verified 2026-09-26 (slice 09251000-20): fresh grep over works+articles returns only the five records already wikilinked above (honolulu-festival, taa-hawaii-senior, hawaii-chapter-taa, formosan-quarterly, 582.台僑共28期) plus index — no new material. Verified-saturated; SKIP-deepen.
 - Re-verified 2026-09-26 (slice 09260500-21): fresh grep (夏威夷台灣同鄉會 / TAA Hawaii / Taiwanese Association of America Hawaii) — identical five-record hit set + index, all bibliographic headers only; every fact already wikilinked above. Verified-saturated; SKIP-deepen.
 - Re-verified 2026-09-27 (slice 09260500-21 retry): fresh grep — identical hit set; no new material. Verified-saturated; SKIP-deepen.
+- Re-verified 2026-10-03 (slice 09270500-1): fresh grep (夏威夷台灣同鄉會 / TAA Hawaii / Taiwanese Association of America Hawaii) — identical hit set (honolulu-festival, hawaii-chapter-taa, +index); all five records already wikilinked above. Verified-saturated; SKIP-deepen. hits-hash=6c14dc0f3f42

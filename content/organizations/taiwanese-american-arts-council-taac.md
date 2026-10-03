@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-27
+last_reviewed: 2026-10-03
 ---
 # Taiwanese American Arts Council TAAC (台美文藝協會)
 
@@ -38,3 +38,4 @@ The Taiwanese American Arts Council (TAAC) was established in 2014 to carry forw
 
 <!-- deepen-x slice 09211507-4 (2026-09-22): founder names entity-linked to existing pages 陳隆豐/陳秋貴/黃再添/廖修平 (lazily grepped TAAC work records #17/#18/#52/news-taac carry no additional narrative text); Luchia Meihua Lee has no wiki page — noted, not linked. -->
 - Re-verified 2026-09-27 (slice 09260500-21 worker retry): fresh grep (TAAC / Taiwanese American Arts Council) across works+articles — no hit beyond own records, founder entity-links in footnote already final. Verified-saturated; SKIP-deepen.
+- Re-verified 2026-10-03 (slice 09270500-1): fresh grep (TAAC / Taiwanese American Arts Council) — hits are the TAAC work records (#17/#18/gala/news) already wikilinked or noted above; founder entity-links final. Verified-saturated; SKIP-deepen. hits-hash=da39a3ee5e6b
