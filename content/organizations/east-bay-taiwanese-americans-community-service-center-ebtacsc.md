@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-30
+last_reviewed: 2026-10-03
 ---
 # East Bay Taiwanese Americans Community Service Center EBTACSC (東灣台美人社區服務中心)
 
@@ -38,3 +38,5 @@ The East Bay Taiwanese Americans Community Service Center (EBTACSC) is a nonprof
 <!-- deepen-x slice 09250900-18 re-verify 2026-09-26: fresh ZH+EN grep — hit set identical (OJ 335, senior-ebtacsc, "What Are You?" identity essay, index); verified-saturated, no new absorbable facts -->
 <!-- deepen-x slice 09260400-8 re-verify 2026-09-26: fresh ZH+EN grep (EBTACSC／東灣台美人社區服務中心) — hit set identical (OJ 335 林天德 園藝組 memoir, senior-ebtacsc directory record, "What Are You?" identity essay, index); all already absorbed above; verified-saturated, no new absorbable facts -->
 <!-- deepen-x slice 09260700-22 re-verify 2026-09-30: fresh ZH+EN grep of works/+articles/ — hit set identical to records already absorbed in this page (verified-saturated, no new absorbable facts) -->
+
+slice 09300315-3 re-verify (2026-10-03): fresh ZH+EN grep (EBTACSC / 東灣台美人社區服務中心) — hit set identical (OJ 335 林天德 園藝組 memoir, senior-ebtacsc directory record, "What Are You?" identity essay, index); all already absorbed above; verified-saturated, no new absorbable facts. hits-hash unchanged set.

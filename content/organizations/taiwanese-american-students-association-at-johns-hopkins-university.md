@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-30
+last_reviewed: 2026-10-03
 ---
 # Taiwanese American Students Association at Johns Hopkins University
 
@@ -40,3 +40,5 @@ The Taiwanese American Students Association at Johns Hopkins University (jhuTASA
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 <!-- deepen-x slice 09260700-22 re-verify 2026-09-30: fresh ZH+EN grep of works/+articles/ — hit set identical to records already absorbed in this page (verified-saturated, no new absorbable facts) -->
+
+slice 09300315-3 re-grep (2026-10-03, Johns Hopkins / jhuTASA / JHU): fresh grep -rl of works/ + articles/ — beyond the known saturated set (OJ-138, night markets 2011/2013, Taste of Taiwan, three New Creatives profiles, Taliyah Huang interview, index), the delta hits are substring noise: Bonnie Jin profile (Johns Hopkins = her own JHU education, not TASA activity; no JHU/TASA link stated), Michelle Young interview (JHU = CTY pre-college camp, not TASA), and ~70 taiwanjustice news articles matching "JHU" as digit-run noise. Nothing absorbable — SKIP: verified-saturated.

@@ -61,3 +61,5 @@ Re-verified 2026-09-26 (slice 09250900-25): fresh grep 林奐均 + Judy Linton/J
 Re-verified 2026-09-26 (slice 09260400-19): fresh grep 林奐均 + Linton returned the same set (my-stories 700/702, TAH #1557, ourjourneys69 ZH/EN, CD #533, mystories337); SKIP: verified-saturated, no new absorbable facts.
 
 Re-verified 2026-09-30 (slice 09260800-6): fresh ZH+EN grep (林奐均 / Judy Linton / 林亮均 / 林亭均) across works/ + articles/ returned the same set above plus two taiwanjustice.net press reports on the 林宅血案 case itself (2025-06-15 家博案發日通話紀錄; 2025-12-11 促轉會監控報告) — press coverage of the case, not memoir material naming 林奐均 personally; nothing new absorbable. SKIP: verified-saturated, no new facts.
+
+slice 09300315-3 re-grep (2026-10-03, 林奐均 / Judy Linton / Judy Lin): fresh grep -rl of works/ + articles/ returns the same set (my-stories 700/702, TAH #1557, ourjourneys69 ZH/EN, CD #533, mystories337, works index) plus the two taiwanjustice press records re-checked since 09260800-6 (2025-06-15 家博案發日通話紀錄; 2025-12-11 促轉會監控報告) — press coverage of the 林宅血案 case, no memoir material naming 林奐均 personally; nothing new absorbable. SKIP: verified-saturated. hits-hash=3a583b693321
