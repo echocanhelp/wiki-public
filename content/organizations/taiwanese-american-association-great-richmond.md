@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-27
+last_reviewed: 2026-10-03
 ---
 # Taiwanese American Association Great Richmond (大雷城)
 
@@ -39,3 +39,4 @@ The Taiwanese American Association Great Richmond (大雷城 台灣同鄉會) is
 
 - 2026-09-26 DEEPEN-X09251451-2: fresh grep (大雷城/里奇蒙/Great Richmond) — zero new hits beyond the 2015-11-09 directory record; 台美協會 hits are Windsor Area TAA (#590 中區台美協會) and other chapters, not this one. HOLD stands, verified-saturated, SKIP-with-reason.
 - 2026-09-27 DEEPEN-X09260600-9: fresh grep (大雷城/里奇蒙分會/Great Richmond) over works+articles returned only the 2015-11-09 directory record + index; broad 'Richmond' hits are TJJ news articles about other Richmonds (VA politics, Richmond CA) — no chapter facts. HOLD stands, verified-saturated, SKIP-with-reason.
+- 2026-10-03 DEEPEN-X09270700-1: fresh grep (大雷城 / Great Richmond / 里奇蒙) over works/+articles/ — hit set unchanged (only the 2015-11-09 Richmond, VA Chapter directory record + index; broad 'Richmond' hits remain the other-Richmonds false positives already listed). Still no founding date, roster, or activity detail in corpus. HOLD stands, verified-saturated, SKIP. hits-hash=0518bd4078cf

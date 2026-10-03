@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-27
+last_reviewed: 2026-10-03
 ---
 # Dr. Wei-Ting Yen (顏維婷博士)
 
@@ -54,3 +54,4 @@ _No filled family fields on the TAH profile._
 - Corpus check 2026-09-25 (deepen-x slice 09240800-11): fresh grep (ZH+EN+slug) against works+articles unchanged from prior waves — hits are already linked/verified above; SKIP-content (verified-saturated), no new absorbable facts, no new conflicts.
 - Corpus check 2026-09-26 (deepen-x slice 09251023-2): fresh grep (顏維婷/Wei-Ting Yen/Tammy Yen) — hits unchanged (whos-who-2279, Sunflower Movement acknowledgment, CNN/TJJ carry, index). SKIP-content; saturated, nothing new absorbable.
 - Corpus check 2026-09-27 (deepen-x slice 09260600-11): fresh grep (顏維婷 / Wei-Ting Yen / Tammy Yen, works+articles) — hit set identical (whos-who-2279, Sunflower Movement acknowledgment, CNN/TJJ carry, index), all linked above. SKIP-content; saturated; F&M vs Academia Sinica HOLD stands.
+- 2026-10-03 DEEPEN-X09270700-1: fresh grep (顏維婷 / Wei-Ting Yen / Tammy Yen) over works/+articles/ — hit set unchanged (whos-who-2279, Sunflower Movement acknowledgment, CNN/TJJ carry, index), all already linked above. No new corpus facts; F&M vs Academia Sinica HOLD stands; verified-saturated, SKIP. hits-hash=1f09e014f150

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-27
+last_reviewed: 2026-10-03
 ---
 # Dr. Min-Hsiung Ko (柯敏雄醫師)
 
@@ -61,3 +61,5 @@ Corpus-linked (absorbed 2026-09-18):
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+- 2026-10-03 DEEPEN-X09270700-1 (slice re-check): fresh grep (柯敏雄 / Min-Hsiung Ko) over works/+articles/ — hit set identical (mystories592 / -en, whos-who-1914, works index), all already wikilinked above. Nothing new absorbable; verified-saturated, SKIP. hits-hash=6faa07c1f386
