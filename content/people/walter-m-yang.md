@@ -58,3 +58,5 @@ last_reviewed: 2026-10-03
 <!-- deepen-x slice 09240600-19 re-verify 2026-09-25: fresh ZH+EN grep of works/+articles/ — hit set identical to material already absorbed; verified-saturated, no new absorbable facts -->
 <!-- deepen-x slice 09250900-18 re-verify 2026-09-26: fresh ZH+EN grep — hit set identical (awards-92, 401 profile, ourjourneys275, pew statement, taiwanjustice 2018 管中閔 report); verified-saturated, no new absorbable facts -->
 <!-- deepen-x slice 09260400-5 re-verify 2026-09-26: fresh ZH+EN grep — hit set identical (awards-92, 401, ourjourneys275, index, pew statement, taiwanjustice 2018 管中閔 report); Dryden Hall memoir excerpt re-read, already absorbed via ourjourneys275 line; verified-saturated, SKIP-content -->
+
+<!-- deepen-x re-verify slices 09210831-3 to 09260400-5 --> — re-grep 2026-10-03 (slice 09300315-12): fresh ZH+EN grep of works/+articles/ — hit set unchanged (awards-92, 401, ourjourneys275, works index, pew statement, taiwanjustice 2018 管中閔 report), all already absorbed; verified-saturated SKIP. hits-hash=800ddcc2f580
