@@ -57,3 +57,4 @@ Accomplishment
 - Re-grep 2026-09-25 (slice 09240500-24): works/articles scan again returns only his own TAH #2312 record + index — no memoir/movement material to absorb. SKIP: page saturated, no conflicts.
 - Re-grep 2026-09-26 (slice 09250800-25): works/articles scan again returns only his own TAH #2312 record + index — no memoir/movement material to absorb. SKIP: saturated.
 - Re-grep 2026-09-27 (slice 09260600-23): works/articles scan returns only his own TAH #2312 record + index — no memoir/movement material. SKIP: saturated, no conflicts.
+- Re-grep 2026-10-03 (slice 09270700-18): fresh ERE grep (楊文光|W.K. Young) of works/ + articles/ returns only his own TAH #2312 record + works/people index — identical hit set, no memoir/movement material to absorb. SKIP: saturated, no conflicts. hits-hash=5ca120ca5fe1

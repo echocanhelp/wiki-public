@@ -53,3 +53,4 @@ _No filled family fields on the TAH profile._
 - Corpus re-scan 2026-09-25 (deepen-x slice 09240800-10): fresh grep (works+articles) returns only the records already wikilinked above (#220, #456, index). SKIP — verified saturated, nothing new absorbable.
 - Corpus re-scan 2026-09-26 (deepen-x slice 09251000-29): fresh grep (陳韻安 / Anny Yun-An) returns only #220, #456, index — identical set. SKIP — verified saturated.
 - Corpus re-scan 2026-09-27 (slice 09260600-23): fresh grep (陳韻安 / Anny Yun-An / Anny Chen) returns only #220, #456, index — identical set. SKIP — verified saturated.
+- Corpus re-grep 2026-10-03 (slice 09270700-18): fresh ERE grep (陳韻安|Anny Yun-An|Anny Chen) of works/ + articles/ — hit set unchanged (#220, #456, works/index, people/index only), all already cited. SKIP: saturated, nothing absorbable. hits-hash=d537eac49705
