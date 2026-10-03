@@ -35,4 +35,4 @@ The Bliss & Wisdom Foundation of North America is the North American arm of the 
 <!-- deepen-x slice 09251000-31 (2026-09-26): saturated re-verify — fresh grep 福智 / Bliss Wisdom returns only the org's own TAH #39/#54 records + works index, already absorbed above; SKIP. -->
 <!-- deepen-x slice 09260600-24 (2026-09-27): saturated re-verify — fresh grep 福智/Bliss Wisdom returns only the orgs own TAH #39/#54 records + works index, already absorbed; SKIP. -->
 
-<!-- deepen-x slice 09270700-17 (2026-10-03): saturated re-verify — fresh grep 福智 / Bliss Wisdom returns only the orgs own TAH #39/#54 records + works index, already absorbed; SKIP. -->
+<!-- deepen-x slice 09270700-17 (2026-10-03): saturated re-verify — fresh grep 福智 / Bliss Wisdom across works/ + articles/ returns only the org's own TAH #39/#54 records + works index + a false positive (Fort Bliss 布立斯堡, in a US-army news item) and a 蓬佩奧 article's "Global Alliance" phrase — none is Bliss & Wisdom material. No new corpus facts, no conflicts. SKIP. -->
