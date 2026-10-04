@@ -6,7 +6,7 @@ tags:
   - Taiwanese-American
   - Taiwan-Center-group-member
 verification_status: published
-last_reviewed: 2026-09-30
+last_reviewed: 2026-10-04
 ---
 # Asian American Social Welfaer Foundation
 
@@ -50,3 +50,5 @@ last_reviewed: 2026-09-30
 2026-09-26 (deepen-x slice 09260400-11) re-grep (亞美社會福利 / Welfaer / Asia American Social Benefit): hit set unchanged (asia-america-fund, TAH eNews, TJJ articles + one additional tag-index page for the already-linked 老人健康研習會 series). All linked. SKIP-deepen (saturated).
 
 2026-09-30 (deepen-x slice 09260700-25) re-grep (亞美社會福利 / Welfaer / Asia American Social Benefit): hit set unchanged (asia-america-fund, TAH eNews, TJJ articles + index/tag-index). All linked; HOLD name conflict unchanged. SKIP-deepen (saturated).
+
+2026-10-04 (deepen-x slice 09300315-4) re-grep (亞美社會福利 / Welfaer / Asia American Social Benefit): hit set unchanged (asia-america-fund, TAH eNews, TJJ articles + index/tag-index; 2024-04/06/07 _root_ matches verified = 228-event co-host roster mentions only, already covered by the 2024 entry above). All linked; HOLD name conflict unchanged. SKIP-deepen (verified-saturated). hits-hash=ed5814138a88

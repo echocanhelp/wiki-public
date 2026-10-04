@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-30
+last_reviewed: 2026-10-04
 ---
 # Taiwanese Student Association at UC Santa Barbara
 
@@ -35,4 +35,5 @@ The Taiwanese Student Association (TSA) at UC Santa Barbara is a non-profit, non
 <!-- deepen-x 09240800-1: re-verified 2026-09-25 — fresh grep Santa Barbara matched only the two linked sponsor attestations, the venue-only Chuan Lyu Chair record, Our Journeys #352 venue mention, an unrelated taiwanjustice Fed-speech item (Santa Barbara = speech venue only), and works index. Nothing about this org to absorb. SKIP. -->
 <!-- deepen-x 09251000-5: re-verified 2026-09-26 — fresh grep Santa Barbara matched only the two linked sponsor attestations, venue-only records (Chuan Lyu Chair, Our Journeys #352, Alisal wildfire news), a CTS/UCSB Global Storytelling item (about the Center for Taiwan Studies, not this org), and works index. Nothing about this org to absorb. SKIP. -->
 <!-- deepen-x 09260400-24: re-verified 2026-09-26 — fresh grep Santa Barbara matched only the two linked sponsor attestations, venue-only records (Chuan Lyu Chair, Our Journeys #352, Alisal wildfire + Fed-speech news items), a CTS/UCSB Global Storytelling item (Center for Taiwan Studies, not this org), and works index. Nothing about this org to absorb. SKIP. -->
+<!-- deepen-x 09260800-3: re-verified 2026-10-04 (slice 09300315-4) — fresh grep (Santa Barbara / UCSB) hit set unchanged: two linked sponsor attestations, venue-only records (Chuan Lyu Chair #84, OJ #352), venue-only news items (Alisal wildfire, Fed-speech, Global Storytelling = CTS not TSA), and works index. Nothing about this org to absorb. SKIP — verified-saturated. hits-hash=282685559c87 -->
 <!-- deepen-x 09260800-3: re-verified 2026-09-30 — fresh grep Santa Barbara|UCSB matched only the two linked sponsor attestations, venue-only records (Chuan Lyu Chair #84, Our Journeys #352 — 2012 TAC-WC venue, organized by Ken Huang/Darice Lee, not TSA), an unrelated Fed-speech news item, and works index. Nothing about this org to absorb. SKIP. -->

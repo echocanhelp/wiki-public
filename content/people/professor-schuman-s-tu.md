@@ -57,3 +57,4 @@ Professor Schuman S. Tu 杜新茂 – History of Taiwanese American (T.A. Archiv
 
 - Corpus re-check 2026-09-26 (slice 09260400-2): fresh grep 杜新茂／Schuman（works+articles）hit set identical（#145、#156、#162、OJ282、#97、OJ17；#520/#532 remain Schumann piano false positives）— all absorbed. SKIP.
 <!-- deepen-x slice 09260700-22 re-verify 2026-09-30: fresh ZH+EN grep of works/+articles/ — hit set identical to records already absorbed in this page (verified-saturated, no new absorbable facts) -->
+<!-- deepen-x slice 09300315-4 re-verify 2026-10-04: fresh ZH+EN grep (杜新茂 / Schuman) — hit set identical (#145, #156, #162, OJ282, #97, OJ17 + index; Schumann piano matches #520/#532 + 週末漫談音樂 series remain classical-music false positives, no 杜新茂 content). All absorbed. SKIP — verified-saturated. hits-hash=4367fe038ca4 -->
