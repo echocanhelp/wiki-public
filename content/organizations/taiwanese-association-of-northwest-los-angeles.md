@@ -6,7 +6,7 @@ tags:
   - Taiwanese-American
   - Taiwan-Center-group-member
 verification_status: published
-last_reviewed: 2026-10-03
+last_reviewed: 2026-10-04
 ---
 # Taiwanese Association of Northwest Los Angeles
 
@@ -53,3 +53,5 @@ TANLA (洛杉磯西北區台灣同鄉會) is one of the better-documented LA-are
 > Corpus re-scan 2026-09-26 (deepen-x slice 09260400-10): fresh grep TANLA / 洛杉磯西北區台灣同鄉會 / Northwest Los Angeles — same four-work TANLA cluster + index/MANIFEST only; all four already wikilinked in Role in the Community. SKIP-deepen (saturated).
 
 > 複核（deepen-x 2026-10-03, slice 09270900-2）：fresh grep TANLA / Northwest Los Angeles / 洛杉磯西北區 — 4-work TANLA cluster + TJJ index/tag/category + WHA + 228 + 傳統週 articles; all already linked in Role in the Community (verified non-vacuous: 第二講 漫談電解質 周芳全, 給阿媽的一封信 screening 4/2 CA Lutheran U, TANLA 舞蹈+歌唱+十鼓 at 傳統週, 宋怡欣 = TANLA's 台灣會館 group-director seat — none new, all indexed already). SKIP-deepen (saturated); hits-hash=6bbf68e980a2.
+
+> 複核（deepen-x 2026-10-04, slice 09300848-10）: fresh grep TANLA / 洛杉磯西北區台灣同鄉會 / Northwest Los Angeles — same 4-work TANLA cluster (history-of-tanla, tanla, activities-of-tanla, newsletter-of-tanla) + TJJ 醫療講座/WHA/228/傳統週/tag-category articles + MANIFEST/index only; all already linked in Role in the Community. SKIP-deepen (verified saturated); nothing new absorbable. hits-hash=bbc8282d7a3e

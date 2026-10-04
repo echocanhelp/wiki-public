@@ -1,5 +1,5 @@
 ---
-title: "Prof. Edward H Lee (李賢淇教授)"
+title: "Prof. Edward H Lee (李賢淇)"
 type: person
 name_en: "Prof. Edward H Lee"
 name_zh: "李賢淇教授"
