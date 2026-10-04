@@ -69,3 +69,5 @@ Re-check (deepen-x slice 09260700-27, 2026-09-27): corpus re-grep（郭泓均 / 
 Re-check (deepen-x slice 09270900-1, 2026-10-03): fresh 郭泓均 / Raymond Kuo grep of content/works + content/articles — hit set unchanged (whos-who-1820-raymond-kuo, works index, the three Taiwan Justice republications), all already wikilinked above; no new community material. SKIP-with-reason, verified-saturated. hits-hash=824a2ac85f85
 
 Re-check (deepen-x slice 09300848-9, 2026-10-04): fresh ZH+EN grep (郭泓均 / Raymond Kuo) of works/ + articles/ — hit set unchanged (whos-who-1820, works/index, the three Taiwan Justice republications), all already wikilinked above; no new community material. SKIP-with-reason, verified-saturated.
+
+Re-check (deepen-x slice 09300855-9, 2026-10-04): fresh ZH+EN grep (郭泓均 / Raymond Kuo) of works/ + articles/ — hit set unchanged (whos-who-1820-raymond-kuo, works/index, the three Taiwan Justice republications), all already wikilinked above; no new community material. SKIP-with-reason, verified-saturated. hits-hash=26f7782c025d

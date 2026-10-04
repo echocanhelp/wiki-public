@@ -60,3 +60,5 @@ Accomplishment
 複核（deepen-x slice 09300315-6）: fresh ZH+EN re-grep（吳美芬 / Mei Fun Tsai, full content/）命中集合與前次相同（ourjourneys 60/74/74-eng/79/81、publications64、collection-of-mrs-mei-fun-tsai、177、whos-who-894、NATWA WI-IL chapter）— 全部已吸收，飽和, SKIP. hits-hash=9aeca9c01dc8
 
 複核(deepen-x slice 09300848-9, 2026-10-04): fresh ZH+EN re-grep (吳美芬 / Mei Fun Tsai) of works/ + articles/ — hit set unchanged (own #177/#894, ourjourneys 60/74/74-eng/81/161, publications64, collection-of-mrs-mei-fun-tsai; the one article hit is an unrelated 校友名單 name-droplet, not biography) — all absorbed; saturated, SKIP.
+
+複核(deepen-x slice 09300855-9, 2026-10-04): fresh ZH+EN re-grep (吳美芬 / Mei Fun Tsai) of works/ + articles/ — hit set unchanged (own 177-mei-fun-tsai, whos-who-894, ourjourneys 60/74/74-eng/81, publications64, collection-of-mrs-mei-fun-tsai) — all already wikilinked and absorbed above; saturated, SKIP. hits-hash=8211412422c0
