@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-29
+last_reviewed: 2026-10-04
 ---
 # Chen-Jung Hsu (許振榮)
 
@@ -68,3 +68,5 @@ last_reviewed: 2026-09-29
 - SKIP note (deepen-x slice 09250700-8, re-grep 2026-09-25): hit set identical (mystories398, 12-36, 12-37, 807, works/index, TJJ 台大數學系回憶) — verified-saturated, nothing new absorbable.
 - SKIP note (deepen-x slice 09260700-16, re-grep 2026-09-27): fresh grep 許振榮／Chen-Jung Hsu (works+articles) hit set identical (mystories398, 12-36, 12-37, 807, works/index, TJJ 台大數學系回憶) — verified-saturated, nothing new absorbable.
 - SKIP note (deepen-x slice 09300315-6, re-grep 2026-10-03): fresh grep 許振榮／Chen-Jung Hsu (whole content/) hit set identical (mystories398, 12-36, 12-37, 807, works/index, TJJ 台大數學系回憶, people/index, dr-po-fang-philip-hsieh, sources hub) — all absorbed; verified-saturated, nothing new absorbable. hits-hash=6fd135c7d44c
+
+- SKIP note (deepen-x slice 09300848-8, re-grep 2026-10-04): fresh grep 許振榮／Chen-Jung Hsu (content/works + content/articles) hit set identical (mystories398, 12-36, 12-37, 807, works/index, TJJ 台大數學系回憶) — all already linked/absorbed; verified-saturated, nothing new absorbable. hits-hash=6fd135c7d44c

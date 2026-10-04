@@ -64,3 +64,5 @@ _No filled family fields on the TAH profile._
 2026-09-30 re-grep (K. C. Du / 杜國清 / Kuo-Ching Tu, DEEPEN-X slice 09260800-2): same saturated hit set (#27, #142, Who's Who #1145, index); bibliographic records only, no memoir narrative — SKIP-content, nothing new absorbable.
 
 2026-10-03 re-grep (杜國清 / K. C. Du / Kuo-Ching Tu, DEEPEN-X slice 09300315-5): same saturated hit set — 4 files only (#27, #142, Who's Who #1145, works/index); all already linked above. Bibliographic records only, no memoir narrative — SKIP-content, nothing new absorbable. hits-hash=06aab98be970
+
+2026-10-04 re-grep (杜國清 / K. C. Du / Kuo-Ching Tu, slice 09300848-8): same saturated hit set — #27, #142, Who's Who #1145, works/index only; all already linked. Bibliographic records only, no memoir narrative — SKIP-content, nothing new absorbable. hits-hash=06aab98be970

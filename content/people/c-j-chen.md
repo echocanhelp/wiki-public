@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-10-04
 ---
 # C. J. Chen (陳銓仁)
 
@@ -59,3 +59,5 @@ HOLD: TAH #180 lists him as 洛台鄉會第一任會長 1968–1971, while 周�
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+- Corpus re-grep 2026-10-04 (slice 09300848-8): fresh ZH+EN grep — hit set +2 vs 09270315-1, both NEW hits verified as different-person/false-positive, no new absorbable fact. (1) [[works/taiwaneseamericanhistory-org/ourjourneys257|257. 洛杉磯台福基督教會]]: "陳慶霖" (a 台語堂 founding member, 1970) — different person, not 陳銓仁; (2) [[works/taiwaneseamericanhistory-org/ourjourneys240|240. 半世紀前 UCLA的那些日子]]: "陳銓仁(陳隆、陳堅的大哥，已過世)在主持的" 台灣同鄉會 — identity unconfirmed vs our C.J. Chen; if same, would conflict with the 老人會 secretary / SCTFCU Treasurer timeline (1968–71 鄉會 period active) and with TAH #180's 第一任會長 dating, so HELD, not merged. Donald C.J. Chen (陳哲仁) hit set also re-checked (photo-albums-111, ourjourneys-138, 76-eng, 76, mystories403, whos474) — HOLD above unchanged, whos474/whoswho1033 are distinct records. Verified-saturated. hits-hash=6d8801f1c6bf
