@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-30
+last_reviewed: 2026-10-04
 ---
 # Rev. C. L. Tong (董俊蘭牧師)
 
@@ -63,3 +63,4 @@ slice 09250700-25 re-grep (2026-09-25): fresh 董俊蘭/C. L. Tong grep; hit set
 slice 09260500-4 re-grep (2026-09-26): hit set identical (ourjourneys14, ourjourneys43, #1698, works/index) — all absorbed above; no new absorbable facts. SKIP: verified-saturated.
 
 Corpus re-verify (deepen-x slice 09260854-7, 2026-09-30): fresh ZH+EN grep of works/ + articles/ returns the identical hit set to the links already absorbed above — no memoir or body-text mentions beyond them. SKIP: verified-saturated.
+Corpus re-grep (deepen-x slice 09300500-2, 2026-10-04): fresh ZH+EN grep of works/ + articles/ — hit set identical to the links already absorbed above (ourjourneys14, ourjourneys43, #1698, works index). SKIP: verified-saturated, hits-hash=6310b7a45209.
