@@ -57,3 +57,5 @@ _No filled family fields on the TAH profile._
 > Corpus check (deepen-x slice 09250700-28, 2026-09-25): fresh re-grep (金希文|Gordon.*Chin) — hit set unchanged (whoswho1253, musician358, ourjourneys301, tjj 古典音樂欣賞 ×2, works index), all absorbed above. SKIP-with-reason: saturated.
 
 > Corpus re-grep (slice 09260500-7, 2026-09-26): fresh ZH+EN grep — hit set identical to records already absorbed and linked above; no new absorbable corpus facts. SKIP: verified-saturated.
+
+> Corpus re-grep (slice 09300348-6, 2026-10-04): fresh ZH+EN grep (金希文|Gordon.*Chin) over works/ + articles/ — hit set unchanged (whoswho1253, musician358, ourjourneys301, tjj 古典音樂欣賞 ×2, works/index index listing). All absorbed above; no new corpus facts. SKIP-with-reason: verified-saturated. hits-hash=104d25cb03e4+8e11ee372487+a6b3c9b41238+4229f2498b4a+e270c7aeed7d+ed01dd5538fb
