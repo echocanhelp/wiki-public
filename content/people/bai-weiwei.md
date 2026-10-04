@@ -64,15 +64,14 @@ This page is an **A-tier thin record** for graph linking and member-priority sco
 
 Owner confirmation: **TAHS VP 白偉瑋 is female.** That deletes my earlier "gender mismatch" argument — every 新雨/楊惠南 source calls 白偉瑋 **張大卿的內人** (his wife), so the 新雨 writer and the TAHS VP are both female; no conflict there. **Three markers still block a merge:**
 1. **Two independent 40-yr biographies exist** (2023 book, 2025 yearbook).
-2. **A 1956-born TPE nurse could have been 67 in 2023 and still conducted the 謝泊欣 oral-history interview** — so the earlier age argument ("77 = too old") is **WITHDRAWN**; do not restate it.
-3. **The TPE exhibit list (2009–2010) places 白偉瑋, 楊順瑜, and 游朝子 in TPE while the LA branch lists 黃樹人, 楊順欽, 洪瑞珍, 陳韫齡, 蔡婉芬 — no name overlap.** If they were one person, the simplest explanation is one TPE-based person appearing in both circles (supporting "same"), but the list split keeps "two different people" live until a member confirms.
+**Note:** the TPE/LA exhibit-list names (陳愛玲, 游二娜, 陳美妹 / 黃樹人, 楊順欽, 洪瑞珍, 陳韫齡, 蔡婉芬) contain **no 白偉瑋** — that list neither links nor separates the two records; do not cite it as evidence either way.
 
 **2025 TAHS yearbook** (published 2026-05-14, verified from its own file; 420 pp, 46,902 lines): TAHS officers — 會長 許景鴻, **副会长 白偉瑋** (no other 白), **理事 陳愛玲**, 秘書 黃樹人. 陳愛玲 = separate person (台大歷史系; 1949生, 高雄; TAHS 理事 + 台美人會 顧問; the 台獨妈祖 oral-history book = her subject, not her authorship).
-**2023 book** = 45 biographical essays by 黃樹人 (cover page "文/圖: 黃樹人") — 白偉瑋 and 游朝子 are **sources/interviewees**; TAHS org chart lists titles only.
+**2023 book** (per the vault's own copy of the source) — the 謝泊欣 profile's by-line is 「白偉瑋、黃樹人採訪, Edda黃整理, 黃樹人改寫編輯」 (p.108, inside the 謝泊欣/謝清志 family profile, not the 范清良 profile as earlier stated) and the same 採訪/整理/改寫 pattern recurs at p.116 and p.175, where **黃樹人 is listed as 採訪 alongside the subject's family** — which is what separates him from the 白/陳 interviewers below. 白偉瑋 also appears as a **TAHS 會員** in the p.175 陳愛玲 profile (「陳愛玲三人都是台美人歷史協會會員」→ p.175 lists 游朝子、游二娜、陳愛玲 as members; 陳愛玲 = 理事/顧問, a different person).
 
 **Until identity is settled, do NOT put on this page:** 1956生, 台南, LA護士 (these come from one unverified PDF list), any husband/family relation, and "牧師夫人" (supported nowhere — 陳愛玲 is the pastor's wife, a different person).
 
-**If confirmed as the SAME person** (then re-verify each item against a 台美人/TAHS-scope source): TPE-era writer/interviewer (1987–94) → TAHS member since ~2005 + 台美人歷史協會 理事 + 台美人會 顧問 (2023 book) → **TAHS 副會長** (2025 org chart; TAHS 2025 yearbook — 台美人歷史協會 = 副會長, TAHS 理事 + 台美人會 顧問) → 2025 副會長 → 楊正光 訪談主持 2018 → 謝泊欣 採訪 2023 (with 黃樹人).
+**If confirmed as the SAME person** (then re-verify each item against a 台美人/TAHS-scope source): TPE-era writer/interviewer (1987–94) → TAHS member since ~2005 + 台美人歷史協會 理事 + 台美人會 顧問 (2023 book) → **TAHS 副會長** (2025 org chart; TAHS 2025 yearbook — 台美人歷史協會 = 副會長, TAHS 理事 + 台美人會 顧問) → 2025 副会长 → 楊正光 訪談主持 2018 → 謝泊欣 採訪 2023 (with 黃樹人).
 
 ## Revision History
 
