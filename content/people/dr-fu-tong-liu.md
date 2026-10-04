@@ -59,3 +59,5 @@ _No filled family fields on the TAH profile._
 
 複核（deepen-x slice 09240317-20, 2026-09-25）：fresh ZH+EN re-grep returns only TAH #1826 + harvest index; 徐福棟 romanization HOLD stands — corpus-saturated, SKIP-for-deepening.
 複核（deepen-x slice 09250700-21, 2026-09-25）：fresh ZH+EN re-grep against works/+articles/ returns the identical hit set（TAH #1826 + harvest index only）— corpus-saturated, SKIP-with-reason.
+
+Re-grep 2026-10-04 (deepen-x slice 09300315-25): fresh ZH+EN grep (劉扶東 / Fu-Tong Liu) over works/ + articles/ returns only TAH #1826 + works index; 徐福棟 romanization HOLD stands (other Fu-Tong hits belong to 徐福棟). Corpus-saturated, SKIP-with-reason: no new material. hits-hash=16374df90b79+ed01dd5538fb

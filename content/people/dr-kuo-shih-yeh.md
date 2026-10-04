@@ -58,3 +58,5 @@ _No filled family fields on the TAH profile._
 2026-09-26 re-grep (deepen-x 09250900-30): fresh ZH+EN grep returned the same hit set already linked/absorbed on this page — verified-saturated SKIP-content, nothing new absorbable, existing HOLDs unchanged.
 
 slice 09260400-27 re-grep (2026-09-26): fresh ZH+EN corpus grep returned the same hit set already linked/absorbed on this page — verified-saturated, nothing new absorbable, existing HOLDs unchanged.
+
+2026-10-04 re-grep (deepen-x slice 09300315-25): fresh ZH+EN grep (葉國勢 / Kuo Shih Yeh) over works/ + articles/ returned the same hit set already linked/absorbed on this page (ourjourneys76 ZH+EN, 106, 233, 318, my-stories-708) — verified-saturated, nothing new absorbable, existing HOLDs unchanged. hits-hash=1c366f645548+4e26cad97957+88184184c6cf+5896728d3cb9+3b325527d37f+339e68a5dc15

@@ -40,3 +40,5 @@ Corpus re-verify (deepen-x 09260800-21, 2026-09-30): fresh grep of works/ + arti
 
 > Corpus re-verify (deepen-x 09240700-30, 2026-09-25): fresh grep — still zero corpus hits. SKIP; HOLD notes stand.
 > Corpus re-verify (deepen-x 09251000-32, 2026-09-26): fresh grep — still zero corpus hits. SKIP; HOLD notes stand.
+
+Corpus re-verify (deepen-x 09300315-25, 2026-10-04): fresh grep of works/ + articles/ for "Taiwanese Student Association at UCLA" / ucla.tsa / "TSA UCLA" — still zero corpus hits. SKIP; nothing new absorbable, HOLD notes stand. hits-hash=n/a (zero-hit grep)

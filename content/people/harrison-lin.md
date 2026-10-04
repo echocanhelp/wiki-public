@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-04
 ---
 # Harrison Lin (林貞棟)
 
@@ -63,3 +63,4 @@ _No filled family fields on the TAH profile._
 ## Network
 - [[organizations/irvine-taiwanese-presbyterian-church||ITPC]] — TAH Who’s Who
 - Re-grep 2026-09-25 (slice 09250800-26): fresh ZH+EN grep over content/works + content/articles returned the identical hit set — all records already absorbed above. Verified-saturated, SKIP-with-reason. (hit set: own TAH #1596 + works index + 長青教室 archive page)
+- Corpus re-grep 2026-10-04 (deepen-x slice 09300315-25): fresh ZH+EN grep (林貞棟 / Harrison Lin) over works/ + articles/ returns the identical hit set — own TAH #1596 record, works index, and the 長青教室 archive page, all already absorbed above. Verified-saturated, SKIP-with-reason: no new corpus material, no conflicts. hits-hash=19a679434f10+ed01dd5538fb+d21991f60487

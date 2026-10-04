@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-04
 ---
 # Dr. M. Y. Chou (周美吟博士)
 
@@ -71,3 +71,5 @@ Corpus re-grep 2026-09-26 (slice 09260400-19, 周美吟 / M. Y. Chou): hit set u
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+Corpus re-grep 2026-10-04 (slice 09300315-23, 周美吟 / M. Y. Chou): fresh ZH+EN grep across works/ + articles/. hit set unchanged — her own TAH #1829 record, the works index, and the two 台灣justice e-News articles (34th academicians' meeting review chair; 2020-05 紅豆餅/研檢中心 photo) already absorbed above; the broad "Chou" grep matched unrelated 周姓/Johnson articles only — SKIP: verified-saturated, nothing absorbable.
