@@ -42,6 +42,7 @@ Accomplishment
 - Profiled in the TAH Foundation Who's Who encyclopedia entry [[works/taiwaneseamericanhistory-org/whos-who-1740-kuo-pin-wang|1740. Dr. Kuo-Pin Wang 王國斌博士]] (2017-07-04), which records him in the National Taiwan University alumni roster under 電機 (electrical engineering) — consistent with the 1970 B.S. EE on this page.
 - Appears in the community record around the 南加州台大校友會's 2018 invitation of 管中閔 for its annual-meeting keynote ([[articles/taiwanjustice-net/2018/20180721091303_2018_07_20_抗議-南加州台大校友會邀管中閔來年會做專題演講_a428dcebbceacf38|TJJ column, 2018-07-20]]).
 - Community roles carried from the TAH profile: 華府台灣產業科技協會 Director and Financial Officer; 北美洲台灣人教授協會華府巴城分會 Vice President.
+- Corpus re-verify 2026-10-04 (deepen-x slice 09300321-9): fresh ZH+EN grep (王國斌 / Kuo-Pin Wang) across works+articles returns the identical saturated hit set — the whos-who-1740 entry, its works index listing, and the TJJ 2018-07-20 column — all already linked above. SKIP-content, nothing new absorbable. hits-hash=06df618c73c7
 
 ## Worklog
 

@@ -36,3 +36,4 @@ The Taiwanese-American Irvine’s Eagle Brotherhood Group is a fraternity organi
 - Re-verify 2026-09-24 (slice 09230800-26): fresh grep 老鷹兄弟姐妹會/Eagle Brotherhood across works+articles returns only the TAH #8 directory entry and the works index — still SKIP, nothing absorbable.
 - Re-verify 2026-09-25 (slice 09240800-20): fresh grep 老鷹兄弟姐妹會/Eagle Brotherhood returns only the TAH #8 directory entry + works index — still SKIP, nothing absorbable.
 - Re-verify 2026-09-26 (slice 09251400-6): fresh grep 老鷹兄弟姐妹會/Eagle Brotherhood returns only the TAH #8 directory entry + works index — still SKIP, nothing absorbable.
+- Re-verify 2026-10-04 (slice 09300321-9): fresh grep 老鷹兄弟姐妹會/Eagle Brotherhood across works+articles returns only the TAH #8 directory entry — still SKIP, nothing absorbable. hits-hash=f5849b1845c8
