@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-26
+last_reviewed: 2026-10-04
 ---
 # Taiwanese Student Association at Arizona State University
 
@@ -42,3 +42,5 @@ The Taiwanese Student Association at Arizona State University (TSA @ ASU) is a s
 <!-- deepen-x slice 09250700-31 (2026-09-25): SKIP re-verified — fresh grep (亞利桑那州立/Arizona State/asu.tsa/TSA-ASU) hits only Taiwan Justice news articles citing ASU professors on unrelated topics (Mars panoramas, Orbital Reef, 一帶一路, 自駕車, COVID) — all false positives. No club record in corpus; nothing absorbable. Verified saturated. -->
 
 <!-- deepen-x slice 09260400-31 (2026-09-26): SKIP re-verified — fresh grep (亞利桑那州立/Arizona State/asu.tsa) hits only Taiwan Justice news articles citing ASU professors on unrelated topics (Mars 360全景, Orbital Reef, 一帶一路, 自駕車, COVID) — false positives. No club record in corpus; nothing absorbable. Verified saturated. -->
+
+<!-- deepen-x slice 09300315-24 (2026-10-04): SKIP re-verified — fresh grep (Arizona State/亞利桑那州立) again hits ONLY false positives: ASU professors quoted on Mars panoramas (Jim Bell), Orbital Reef, 一帶一路 (Sophal Ear), 自駕車 (Andrew Maynard), and a COVID case linked to an ASU-affiliated person (Maricopa County). No club record; nothing absorbable. hits-hash=bc53d3298689 -->

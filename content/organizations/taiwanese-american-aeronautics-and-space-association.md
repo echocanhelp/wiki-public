@@ -6,7 +6,7 @@ tags:
   - Taiwanese-American
   - Taiwan-Center-group-member
 verification_status: published
-last_reviewed: 2026-09-26
+last_reviewed: 2026-10-04
 ---
 # Taiwanese American Aeronautics and Space Association
 
@@ -43,3 +43,4 @@ last_reviewed: 2026-09-26
 - Re-grep 2026-09-25 (slice 09240317-20): fresh ZH+EN+TASSA grep — hit set identical (record 2, 383, ourjourneys236, 斯人已逝 memoir, works/index); verified saturated, nothing new, no conflicts. SKIP.
  Re-grep 2026-09-25 (slice 09250700-22): fresh ZH+EN grep — hit set identical to records already absorbed/linked above; verified-saturated, nothing new, no conflicts. SKIP.
 - Re-grep 2026-09-26 (slice 09260400-26): fresh ZH+EN+TASSA grep across content/works + content/articles — hit set identical (record 2, 383, ourjourneys236, 斯人已逝 鄭寶鼎 memoir, works/index); verified saturated, nothing new absorbable, no conflicts. SKIP.
+- Re-grep 2026-10-04 (slice 09300315-24): fresh ZH+EN+TASSA grep — hit set identical (record 2, works/index, 斯人已逝 鄭寶鼎 memoir); TASSA use of the 史料中心 hall and the 正念學 events already absorbed. Verified saturated; nothing new absorbable. hits-hash=bc53d3298689
