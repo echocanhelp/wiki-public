@@ -57,3 +57,4 @@ Timeline (from cited vault pages): 1980 B.S. Industrial Engineering, Tunghai Uni
 - 複核（deepen-x slice-09240317-28, 2026-09-25）：re-grep 陳鳳山 / F. Frank Chen 命中集合相同（TAH #1911、winners49、works index、陳惟揚誤配頁）— SKIP，無新語料可吸收。
 - 複核（deepen-x slice-09250700-30, 2026-09-25）：re-grep 陳鳳山 / F. Frank Chen 命中集合再次相同（TAH #1911、winners49、works index、陳惟揚誤配頁）— SKIP，無新語料可吸收。
 - 複核（deepen-x slice-09260854-14, 2026-09-30）：re-grep 陳鳳山 / F. Frank Chen 命中集合相同（TAH #1911、winners49、works index）；唯一額外命中 two-perspectives 頁確認為陳惟揚（Frank Chen, director）同名誤配 — SKIP，無新語料可吸收。
+- 複核（deepen-x slice-09300507-3, 2026-10-04）：re-grep 陳鳳山 / F. Frank Chen 命中集合相同（TAH #1911、winners49、works index、陳惟揚同名誤配頁 two-perspectives）— SKIP，無新語料可吸收。hits-hash=26c97706bda9

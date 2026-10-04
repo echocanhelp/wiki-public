@@ -67,3 +67,4 @@ last_reviewed: 2026-10-04
 
 - Corpus re-grep 2026-09-26 (slice 09260500-12): hit-set identical to all prior passes — own record TAH #417 plus index listings only. SKIP-with-reason: no new absorbable material (verified-saturated).
 - Corpus re-grep 2026-09-30 (slice 09260854-14): hit-set identical (own record TAH #417 plus index listings only). SKIP-with-reason: no new absorbable material (verified-saturated).
+- Corpus re-grep 2026-10-04 (slice 09300507-3): fresh ZH+EN grep 葉高芳 / Kaofang Yeh over content/works + content/articles (python full-text sweep, 41,273 md files) — hit set identical to all prior passes (own record TAH #417 + works/index.md listing only). SKIP-with-reason: verified-saturated, nothing new absorbable. hits-hash=f03c8b8d12de

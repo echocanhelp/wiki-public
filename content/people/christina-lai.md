@@ -61,3 +61,4 @@ Re-grep 2026-09-25 (slice 09240317-26): fresh 賴李煦煦 / Christina Lai grep 
 Re-grep 2026-09-25 (slice 09250700-28): fresh 賴李煦煦 / Christina Lai grep returns only own stub #1895 + works index — already absorbed above; verified saturated. SKIP.
 Re-grep 2026-09-26 (slice 09260500-10): fresh 賴李煦煦 / Christina Lai grep returns only own stub #1895 + works index — already absorbed above; verified saturated. SKIP.
 Re-grep 2026-09-30 (slice 09260854-15): fresh 賴李煦煦 / Christina Lai grep returns only own stub #1895 + works index — already absorbed above; verified saturated. SKIP.
+Re-grep 2026-10-04 (slice 09300507-3): fresh 賴李煦煦 / Christina Lai grep returns only own stub #1895 + works index — already absorbed above; verified saturated. SKIP. hits-hash=ef3724b16f17
