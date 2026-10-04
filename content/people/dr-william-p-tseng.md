@@ -59,3 +59,5 @@ Dr. William P. Tseng 曾伯聰醫師 – History of Taiwanese American (T.A. Arc
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - 2026-10-03 語料複核 (slice 09300315-6): fresh grep (曾伯聰 / William P. Tseng, full content/) hit set identical (whos-who-1862, works/index, people/caroline-chien, people/index, sources hub) — no memoir/article mentions beyond the 2026-09-17 scan; SKIP-with-reason, nothing absorbable. hits-hash=f0b7d560bd4b
+
+- 2026-10-04 語料複核 (slice 09300855-10): fresh grep (曾伯聰 / William P. Tseng, works+articles) — hit set identical to prior passes (whos-who-1862 + works/index only); no memoir/article mentions. SKIP-content (verified-saturated): nothing absorbable, no conflicts to HOLD. hits-hash=b5277aacbceb

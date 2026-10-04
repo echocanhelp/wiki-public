@@ -69,3 +69,5 @@ last_reviewed: 2026-10-04
 - Corpus re-check 2026-10-04 (slice 09300334-1): fresh grep re-hits only TAH #282 work page, the 2 TJJ 14th WTCF forum articles, and works index -- hit set identical to already-absorbed records; saturated, no new material. hits-hash=406cddd506d4
 
 - Corpus re-check 2026-10-04 (slice 09300848-10): fresh grep 王寶田|Bao-Tyan Wang re-hits only TAH #282 work page, the 2 TJJ 14th WTCF forum articles, and works index — hit set identical to already-absorbed records; saturated, no new material. hits-hash=86de3a72164a
+
+- Corpus re-check 2026-10-04 (slice 09300855-10): fresh grep 王寶田|Bao-Tyan Wang re-hits only TAH #282 work page, the 2 TJJ 14th WTCF forum articles, and works index — hit set identical to already-absorbed records; saturated, no new material. hits-hash=009ff7d43b6d
