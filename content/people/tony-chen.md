@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-30
+last_reviewed: 2026-10-04
 ---
 # Tony Chen (陳國洸)
 
@@ -44,7 +44,7 @@ last_reviewed: 2026-09-30
 - Corpus re-grep 2026-09-21 (slice 09201500-11): hit set unchanged (ourjourneys76 + -eng, works 83/80/1000, whos145) — the -eng memoir copy carries the same Austin roster (Tony Chen among 吳木盛's ten picks) with no extra facts. SKIP-for-deepening: page already carries the full community record.
 - Re-grep 2026-09-22 (slice 09211400-22): ZH+EN hits identical to the linked set above; nothing new absorbable. SKIP: verified-saturated.
 - Re-grep 2026-09-23 (slice 09220900-20): ZH+EN hit set identical to the linked set (ourjourneys76 + -eng, works 83/80/1000, whos145); nothing new absorbable. SKIP: verified-saturated.
-- Re-grep 2026-09-24 (slice 09230400-17): ZH+EN hit set gains two name-collision false positives — [[works/taiwaneseamericanhistory-org/whos-tony-chen|1921. Tony Chen 陳東寧]] and [[works/taiwaneseamericanhistory-org/u-s-presidential-scholars-program-tony-chen-1997|36. U.S. Presidential Scholars Program / Tony Chen 陳彥豪 /1997]] are different people (東寧 ≠ 國洸 ≠ 彥豪; do not merge). No new 陳國洸 material. SKIP: verified-saturated.
+- Re-grep 2026-09-24 (slice 09230400-17): ZH+EN hit set gains three name-collision false positives — [[works/taiwaneseamericanhistory-org/whos-tony-chen|1921. Tony Chen 陳東寧]], [[works/taiwaneseamericanhistory-org/u-s-presidential-scholars-program-tony-chen-1997|36. U.S. Presidential Scholars Program / Tony Chen 陳彥豪 /1997]], and a 2021 CNBC reprint (TSMC Arizona fab) naming 台積電技術處長 陳鏘澤 "Tony Chen" — all different people (東寧 ≠ 國洸 ≠ 彥豪 ≠ 鏘澤; do not merge). No new 陳國洸 material. SKIP: verified-saturated.
 
 ## Sources
 - [TAH #145 encyclopedia: 145. Tony Chen 陳國洸 / 2014/12](https://taiwaneseamericanhistory.org/whos145/)
@@ -59,3 +59,4 @@ last_reviewed: 2026-09-30
 > SKIP-note (deepen-x slice 09260400-13, 2026-09-26): fresh ZH+EN re-grep — hit set identical (ourjourneys76 + -eng, works 83/80/1000, whos145); nothing new absorbable. SKIP: verified-saturated.
 > SKIP-note (deepen-x slice 09260700-31, 2026-09-30): fresh ZH+EN re-grep — one new work page linked this pass: 409. 落地生根 (his own literary record, previously unlinked). No other new 陳國洸 material; roster-name co-mentions in ourjourneys76/chun-san-lee/dr-tsann-wang-yu already absorbed. Verified-saturated.
 > SKIP-note (deepen-x slice 09300315-2, 2026-10-03): fresh ZH+EN re-grep — hit set identical to the linked set (ourjourneys76 + -eng, works 83/80/409/1000, whos145); -eng copy re-checked verbatim (Austin roster + 同鄉會 founding after 3 outings), nothing new absorbable. SKIP: verified-saturated, hits-hash=6e6668e68757.
+> SKIP-note (deepen-x slice 09300848-3, 2026-10-04): fresh ZH+EN re-grep — the only non-index hits are name-collision false positives, no 陳國洸 material: (a) ourjourneys292-eng 匹茲堡同鄉會历届會長名單 (1981–82) and its auto-generated Subjects wikilink — that 會長 is a different person (a Pennsylvania chapter president; the 陳國洸 in ourjourneys76 is an Austin, TX student); (b) a 2021/2022 TJJ CNBC reprint about the TSMC Arizona fab naming 台積電技術處長 陳鏘澤 (Tony Chen), plus its Subjects wikilink. Do not merge either into this page. Verified-saturated — SKIP-with-reason, hits-hash=710352a6cc52.
