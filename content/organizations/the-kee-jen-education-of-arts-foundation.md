@@ -36,6 +36,8 @@ The foundation carries the name of composer **Chuang-Shien Lu 呂泉生**, one o
 2026-09-30 re-check (slice 09260800-13): corpus re-grep (Kee-Jen / Kee Jen / 呂泉生文教) zero hits again — foundation-name layer saturated. 呂泉生-person grep re-run: new 2025 taiwanjustice articles discuss the 《杯底不可飼金魚》 lyricist dispute (lyricist now identified as 陳大禹, not 呂泉生 — family statement withdrawing his lyric credit), but these concern the composer's own work-catalogue record (handled on his person page), not foundation facts — nothing absorbable here; no conflicts. SKIP (verified-saturated).
 2026-09-30 re-check (slice 09300315-5): corpus re-grep (Kee-Jen / Kee Jen / 呂泉生文教) over works/ + articles/ — 0 hits again; hit set unchanged since 09221200-10. Nothing absorbable beyond the 呂泉生-person material above; no new facts, no conflicts. SKIP (verified-saturated). hits-hash=da39a3ee5e6b
 
+2026-10-04 re-check (slice 09300848-7): corpus re-grep (Kee-Jen / Kee Jen / 呂泉生文教) over works/ + articles/ — 0 hits again (empty hit set, unchanged since 09221200-10). Nothing absorbable beyond the 呂泉生-person material above; no new facts, no conflicts. SKIP (verified-saturated). hits-hash=d41d8cd98f00
+
 HOLD: the English name "Kee-Jen" vs. the romanization "Chien" in the pinyin-style "Chuang-Shien" of 呂泉生's name ( Wade-Giles vs. other romanization of 泉生 ) — no auto-merge of spelling; recorded as both appear.
 
 ## Source Notes
