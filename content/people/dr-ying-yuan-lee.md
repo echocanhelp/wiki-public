@@ -96,3 +96,5 @@ last_reviewed: 2026-10-01
 
 - 2021 — 逝世後 NATPA 發表弔文〈哲人日已遠：敬弔李應元博士〉（鄭麗伶會長暨全體理事署名），見台灣公義報「台美人台加人」分類（2025-04-30 存檔）—— [[articles/taiwanjustice-net/2025/20250430202458_category_taiwaneseamerican_a75a6e8c12e18729|TJJ 台美人台加人存檔頁]]。
 - 2021-11 — 逝世後獲 NATPA 弔文〈哲人日已遠：敬弔李應元博士〉，列於台灣公義報「北美洲台灣人教授協會」標籤頁頭條（2021-11-22）（[[articles/taiwanjustice-net/2025/20250914125309_tag_北美洲台灣人教授協會_912bedafc3ae02b4|TJJ NATPA tag, 存檔 2025-09-14]]）。
+
+<!-- TJJ-A09300400-25: verified 2026-10-04 — subject links in slice 09300400-25 articles (f1972734 我的肥皂箱 p1 / 131a1c8e 台美人台加人 p360 / ced69523 大洛杉磯台灣會館 tag p13 / 49d912cc 長青教室 tag p2) re-checked vs 正文; all real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->

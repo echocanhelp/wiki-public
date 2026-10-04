@@ -80,3 +80,5 @@ Robert Chen (陳慕融; pinyin: Chén Mùróng) is a Taiwanese-born violinist wh
 - Corpus re-grep 2026-09-23 (slice 09221000-2)：驗證飽和 — 命中集不變（73、98、ourjourneys294、ourjourneys301、works index、pew statement）；無新社区事實；Pew「Dr. Robert Chen, FAPA」同名異人 HOLD 不變。
 - Re-verify 2026-09-23 (TJJ-A09221200-7): link-check against slice article 131a1c8ea05f85ea body —「陳慕融小提琴獨奏會 – TUF 台灣名家演奏系列 1994 ◎楊子清提供」條目確認見於正文，連結為真；日期事實已在庫，無新材料。
 - Corpus re-grep 2026-09-24 (slice 09230400-3): hit set unchanged (73、98、ourjourneys294、ourjourneys301、works index、pew statement) — verified saturated; no new community facts; Pew「Dr. Robert Chen, FAPA」same-name HOLD unchanged. SKIP-with-reason.
+
+<!-- TJJ-A09300400-25: verified 2026-10-04 — subject links in slice 09300400-25 articles (f1972734 我的肥皂箱 p1 / 131a1c8e 台美人台加人 p360 / ced69523 大洛杉磯台灣會館 tag p13 / 49d912cc 長青教室 tag p2) re-checked vs 正文; all real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->

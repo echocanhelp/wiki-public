@@ -97,3 +97,5 @@ BVM (Bachelor of Veterinary Medicine)
 複核（deepen-x slice 09181500-6, 2026-09-20）：corpus re-grep 命中 OJ 277、287、242、205、自身 TAH #1609 條目與 index — 全部已吸收於上方 Role in the Community／Family／From the record 各節，無新增社群材料，SKIP-with-reason：語料已飽和。
 
 再核（deepen-x slice 09201400-1, 2026-09-21）：re-grep 命中集與前次相同（OJ 277/287/242/205、自身條目、index）— 無新增材料，維持飽和判定。
+
+<!-- TJJ-A09300400-25: verified 2026-10-04 — subject links in slice 09300400-25 articles (f1972734 我的肥皂箱 p1 / 131a1c8e 台美人台加人 p360 / ced69523 大洛杉磯台灣會館 tag p13 / 49d912cc 長青教室 tag p2) re-checked vs 正文; all real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
