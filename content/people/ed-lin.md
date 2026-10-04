@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-30
+last_reviewed: 2026-10-04
 ---
 # Ed Lin (林艾德)
 
@@ -51,3 +51,4 @@ Waylaid (2002) won a Members' Choice Award at the Asian American Literary Awards
 - 2026-09-26 corpus re-grep (DEEPEN-X slice 09251000-8; 林艾德/Ed Lin/林景南): hit-set unchanged — TAH #120, #2081, works index, and the taiwaneseamerican-org tour/interview/event records already wikilinked above. Verified-saturated; SKIP-content, nothing new absorbable; 林艾德 vs 林景南 name HOLD maintained.
 - 2026-09-26 corpus re-grep (DEEPEN-X slice 09260400-30; 林艾德/Ed Lin/林景南): hit-set unchanged — TAH #120, #2081, works index, taiwaneseamerican-org tour/interview/event records already wikilinked. Verified-saturated SKIP-content; 林艾德 vs 林景南 HOLD maintained.
 - 2026-09-30 corpus re-grep (DEEPEN-X slice 09260800-13; 林艾德/Ed Lin/林景南): hit-set unchanged — #120, #2081, index, and the tour/interview/event records already wikilinked. Verified-saturated SKIP-content; 林艾德 vs 林景南 HOLD maintained.
+- 2026-10-04 corpus re-grep (DEEPEN-X slice 09300315-16; 林艾德/Ed Lin/林景南): hit-set unchanged (10 hits) — TAH #120, #2081, works index, and the taiwaneseamerican-org tour/interview/event records already wikilinked above, plus the `...berkeley-2` duplicate of the same 2014-08-10 Berkeley Ghost Month event (same record, second URL — not a new fact). Verified-saturated SKIP-content; nothing new absorbable; 林艾德 vs 林景南 name HOLD maintained. hits-hash=256c311ec218

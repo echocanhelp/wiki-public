@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-30
+last_reviewed: 2026-10-04
 ---
 # Taiwanese Graduate Student Association at UC Davis
 
@@ -37,3 +37,4 @@ UC Davis has a documented place in the Taiwanese American movement in Northern C
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - Re-verified 2026-09-25 (slice 09250700-16): fresh re-grep TGSA / Taiwanese Graduate Student Association（works + articles）returns zero hits. SKIP — no corpus material to absorb.
 - Re-verified 2026-09-26 (slice 09260400-12): fresh re-grep 'TGSA' / 'Taiwanese Graduate Student Association'（works + articles）returns zero hits. SKIP — no corpus material to absorb; the Davis movement layer above remains the sole corpus context.
+- Re-verified 2026-10-04 (slice 09300315-16): fresh re-grep 'TGSA' / 'Taiwanese Graduate Student Association'（works + articles）returns zero hits — hit-set unchanged. SKIP — no corpus material to absorb; the Davis movement layer (WFTA 10th annual meeting, ITASA/TAO records, B HERE/KevJumba) remains the sole corpus context. hits-hash=d41d8cd98f00
