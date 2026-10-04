@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-30
+last_reviewed: 2026-10-04
 ---
 # Pi-Kwang Tsung (曾碧光)
 
@@ -68,3 +68,4 @@ Beyond the directory entry, no memoir/article in the corpus currently names him;
 > Re-verify 2026-09-25 (deepen-x slice 09240800-22): fresh grep works/+articles/ — hit set unchanged (own records + works/index only). SKIP; nothing new absorbable.
 - Re-verify 2026-09-26 (deepen-x slice 09251023-11): fresh ZH+EN grep works/+articles/ — hit set identical to absorbed set (own TAH records + works index); verified-saturated, SKIP; nothing new absorbable.
 <!-- deepen-x 09260800-26: re-verify 2026-09-30 — fresh ZH+EN grep (works+articles): hit set unchanged (own TAH record(s) + works/index only; all already absorbed+wikilinked). Verified-saturated; SKIP-no-new-facts. -->
+<!-- deepen-x slice 09300321-2: re-verify 2026-10-04 — fresh ZH+EN grep (曾碧光/Pi-Kwang, works+articles): hit set unchanged (own TAH #1260 record + works index only; loose "Kwang" matches = Chuan-Kwang Yang 楊傳光 + 李洋王齊麟 badminton, name collisions, excluded). Verified-saturated; SKIP-no-new-facts. -->

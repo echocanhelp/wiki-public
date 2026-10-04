@@ -5,7 +5,7 @@ redirect_to: hsu-shih-huan
 tags:
   - redirect
 verification_status: redirect
-last_reviewed: 2026-09-30
+last_reviewed: 2026-10-04
 ---
 
 # Moved
@@ -51,3 +51,4 @@ Chronological events for **許世環**:
 <!-- deepen-x 09250317-10: verified-saturated — redirect stub; sole corpus mention (2018-07-19 台大校友公開信) already recorded; SKIP-with-reason. -->
 <!-- deepen-x 09251500-4: verified-saturated — redirect stub; sole corpus mention (2018-07-19 台大校友公開信) already recorded; fresh grep 2026-09-26 hit set unchanged; SKIP-with-reason. -->
 <!-- deepen-x slice 09260800-30: re-verify 2026-09-30 — fresh grep (許世環/Shih-huan/Shihuan, works+articles): hit set unchanged (single 2018-07-20 台大校友抗議公開信 mention, already recorded + quoted). Redirect stub; verified-saturated; SKIP-with-reason. -->
+<!-- deepen-x slice 09300321-2: re-verify 2026-10-04 — fresh grep (許世環/Shih-huan, works+articles): hit set unchanged (single 2018-07-20 台大校友抗議公開信 mention, already recorded + quoted; "Shihuan" loose-EN match = Tsai Chia-lin 鄭欽明, different person). Redirect stub; verified-saturated; SKIP-with-reason. -->

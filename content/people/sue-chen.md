@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-30
+last_reviewed: 2026-10-04
 ---
 # Sue Chen (陳禹辛)
 
@@ -53,3 +53,4 @@ _No filled family fields on the TAH profile._
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 <!-- deepen-x slice 09260800-30: re-verify 2026-09-30 — fresh grep (陳禹辛/Sue Chen/Sue Cheng, works+articles): hit set unchanged (own #427 entry, ourjourneys33 EN/中, Pew statement, works index) — HOLD 陳禹辛 vs 廖淑清 unchanged, verified-saturated. -->
+<!-- deepen-x slice 09300321-2: re-verify 2026-10-04 — fresh grep (陳禹辛/Sue Chen/Sue Cheng, works+articles): hit set unchanged (own #427 entry, ourjourneys33 EN/中, Pew statement, works index). HOLD 陳禹辛 vs 廖淑清 unchanged; verified-saturated. -->
