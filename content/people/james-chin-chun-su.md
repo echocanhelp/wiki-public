@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-03
+last_reviewed: 2026-10-04
 ---
 # James Chin-Chun Su (蘇金春)
 
@@ -66,3 +66,5 @@ _No filled family fields on the TAH profile._
 - Corpus re-grep 2026-09-26 (DEEPEN-X slice 09260400-10): fresh ZH+EN grep (蘇金春 / Chin-Chun Su) returns the identical hit-set (Our Journeys 57 + EN, 81 + EN, 138, TAH #670) already absorbed above; the 1966 UFI→UFAI delegate role and the College Park roster are in place. Verified saturated. SKIP-with-reason.
 
 Corpus re-grep 2026-10-03 (DEEPEN-X slice 09300315-13) (蘇金春/Chin-Chun Su grep): fresh ZH+EN re-grep against works/+articles/ returns the identical hit set already wikilinked above — no new absorbable community material; HOLDs maintained. Verified-saturated, SKIP-with-reason. hits-hash=fe8129560b8b
+
+Corpus re-grep 2026-10-04 (DEEPEN-X slice 09300848-19) (蘇金春/Chin-Chun Su grep): fresh ZH+EN re-grep against works/+articles/ returns the identical hit set already wikilinked above — Our Journeys 57 + EN, 81 + EN (UFI delegate roster + NYTimes ad origin), 138 (College Park roster), TAH #670. No new absorbable community material; the 1966 UFI→UFAI role and College Park roster already absorbed. Verified-saturated, SKIP-with-reason.
