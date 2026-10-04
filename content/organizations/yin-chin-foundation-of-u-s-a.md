@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-30
+last_reviewed: 2026-10-04
 ---
 # YIN CHIN FOUNDATION OF U.S.A. (美國殷勤文教公益基金會)
 
