@@ -1,0 +1,4 @@
+people/richard-chen.md
+organizations/taiwanese-student-association-at-arizona-state-university.md
+people/hsien-ching-ko.md
+people/sue-chiu.md

@@ -1,0 +1,4 @@
+organizations/american-citizens-of-taiwan-origin-acto.md
+people/s-t-liu.md
+people/rev-shirley-lin.md
+organizations/stc-management.md

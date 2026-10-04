@@ -1,0 +1,4 @@
+people/jacy-chen.md
+people/hsiu-chine-yeh-wang.md
+organizations/kaohsiung-hotel-association.md
+people/alex-hsuan-yu-lee.md
