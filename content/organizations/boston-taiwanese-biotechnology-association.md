@@ -45,3 +45,7 @@ Corpus re-grep 2026-09-26 (slice 09260400-4): hit set identical — own director
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 <!-- deepen-x slice 09260700-20 re-verify 2026-09-27: fresh ZH+EN grep of works/+articles/ — hit set identical to material already absorbed; verified-saturated, no new absorbable facts -->
 hits-hash=5599183ed6fe 2026-10-03 slice 09270953-1 re-grep (波士頓台灣人生物科技協會/Boston Taiwanese Biotechnology/BTBA, works+articles): hit set identical to material already absorbed (own directory record + index; recurring BTBA-substring false positive in the 川普/烏克蘭 taiwanjustice-net article digest hash did not recur this pass) — verified saturated, nothing absorbable, no conflicts to HOLD.
+
+## Corpus sweep (slice 09300848-4, verified 2026-10-04)
+- Full ZH+EN sweep of `works/` + `articles/` (波士頓台灣人生物科技協會 / Boston Taiwanese Biotechnology / BTBA). Strict-name hit set unchanged: own directory record `works/taiwaneseamericanhistory-org/boston-taiwanese-biotechnology-association.md`, `works/index.md` listing, and the recurring "BTBA" substring false positive inside the 川普/烏克蘭 taiwanjustice-net article's archive_digest hash (re-confirmed this pass: random hash characters only, no association content).
+- Nothing new absorbable; no conflicts to HOLD — verified-saturated, nothing absorbable, no conflicts to HOLD. hits-hash=555d45f875ae
