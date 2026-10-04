@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-30
+last_reviewed: 2026-10-04
 ---
 # Wen Chi Chang (張文祺)
 
@@ -50,3 +50,4 @@ last_reviewed: 2026-09-30
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - Re-verify 2026-09-30 (deepen-x slice 09260800-28): fresh ZH+EN grep works/+articles/ — hit set identical to absorbed set (own TAH records + works index); verified-saturated, SKIP; nothing new absorbable.
+- Re-verify 2026-10-04 (deepen-x slice 09300321-6): fresh ZH+EN grep (張文祺 / Wen Chi Chang) — hit set unchanged (ourjourneys81, ourjourneys81-eng, whoswho1455, works index); verified-saturated, SKIP; nothing new absorbable.
