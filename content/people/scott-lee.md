@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-30
+last_reviewed: 2026-10-04
 ---
 # Scott Lee (李捷琦)
 
@@ -40,6 +40,7 @@ _No filled family fields on the TAH profile._
 - TAH 語料庫另有兩筆本人演奏紀錄，皆為書目性紀錄、正文存於 TAH vault：[[works/taiwaneseamericanhistory-org/568-scott-lee-e6-9d-8e-e6-8d-b7-e7-90-a6-201509|TAH #568 Scott Lee 李捷琦 / 2015-09]]、[[works/taiwaneseamericanhistory-org/285-scott-lee-e6-9d-8e-e6-8d-b7-e7-90-a6-ef-bc-8c-viola-201509|TAH #285 Scott Lee 李捷琦, Viola / 2015-09]]。
 - Re-grep 2026-09-20 (slice 09190400-9): corpus scan of works/articles returns only the works index plus his own two bibliographic records (now wikilinked with corrected existing slugs); no memoir or movement-activity material to absorb. Existing Role-in-the-Community facts stand, no conflicts found.
 - Re-grep 2026-09-22 (slice 09211400-28): hit set identical (works index + own two bibliographic records, both already linked). No new corpus material — SKIP deepening.
+- Corpus check (deepen-x slice 09300507-4, 2026-10-04): fresh ZH+EN re-grep (李捷琦 / Scott Lee) hit set identical (#568, #285, works index); no new corpus material. SKIP: verified-saturated.
 
 ## Sources
 - [TAH #568 encyclopedia: 568. Scott Lee 李捷琦 / 2015/09](https://taiwaneseamericanhistory.org/568-scott-lee-%e6%9d%8e%e6%8d%b7%e7%90%a6-201509/)

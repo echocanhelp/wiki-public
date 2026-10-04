@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-30
+last_reviewed: 2026-10-04
 ---
 # John Chang (張景祥牧師)
 
@@ -50,6 +50,7 @@ _No filled family fields on the TAH profile._
 - Re-grep 2026-09-25 (slice 09240700-26, 張景祥/恩光): hits = own bio record 943, the two church work records already wikilinked, plus index. Verified-saturated; disambiguation HOLD above unchanged; SKIP-content.
 - Re-grep 2026-09-26 (slice 09251000-18, 張景祥/John Chang): hits = own bio record 943, the two church work records already wikilinked, plus the Audubon/Taiwan-Independence-Cup/Presented-by records under the ambiguity HOLD, plus index. Verified-saturated; disambiguation HOLD above unchanged; SKIP-content.
 - Re-grep 2026-09-26 (slice 09260500-19, 張景祥/John Chang): fresh grep — hit set identical (943, Audubon, 55 Taiwan Independence Cup, 2 Presented by Dr. John Chang, index), all under existing links/HOLD. Verified-saturated; SKIP-content.
+- Re-grep 2026-10-04 (slice 09300507-4): fresh ZH+EN re-grep (張景祥/John Chang, works+articles) — hit set identical to the saturated set above (own bio 943, Audubon 57, 55 Taiwan Independence Cup, 2 Presented by Dr. John Chang, + works index). No new absorbable material; ambiguity HOLD above unchanged. SKIP-content (verified-saturated).
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/john-chang/)
