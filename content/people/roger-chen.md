@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-03
+last_reviewed: 2026-10-04
 ---
 # Roger Chen (陳正哲)
 
@@ -62,3 +62,5 @@ Re-verified 2026-09-26 (slice 09250900-25): fresh ZH 陳正哲 + EN 'Roger Chen'
 Re-verified 2026-09-26 (slice 09260400-21): fresh ZH+EN grep returns only own TAH [[works/taiwaneseamericanhistory-org/ota-235|#235]] / [[works/taiwaneseamericanhistory-org/whos-who-2185-roger-chen|#2185]] records + works index; SKIP: verified-saturated, no memoir narrative to absorb.
 
 Re-verified 2026-09-30 (slice 09260800-5): fresh ZH 陳正哲 + EN 'Roger Chen' grep of content/works + content/articles returned only own TAH #235/#2185 records + the works index; no memoir narrative to absorb. SKIP: verified-saturated, no new absorbable facts.
+
+Re-verified 2026-10-04 (slice 09300848-14): fresh ZH 陳正哲 + EN "Roger Chen" grep of works/ + articles/ returns zero hits (no own-record works pages either); zero hits since prior passes — verified-saturated, SKIP, nothing new absorbable.

@@ -57,3 +57,5 @@ _No filled family fields on the TAH profile._
 
 - Re-scan 2026-10-04 (slice 09300507-1): fresh ZH+EN grep (Michael Chong / 莊文浩) over works/+articles/ — hit set unchanged from all prior passes (own #1398 record, works index, the four HFX/馬佐獎 articles, all about MP 莊文浩, already linked). SKIP-with-reason: verified-saturated, nothing absorbable about the Silicon Valley Talent founder; identity HOLD maintained.
 
+
+- Re-scan 2026-10-04 (slice 09300848-14): fresh ZH+EN grep (Michael Chong / 莊文浩) over works/+articles/ — zero hits; zero hits in prior passes too (only the own #1398 record and HFX articles about MP 莊文浩, already linked). SKIP-with-reason: verified-saturated, nothing absorbable about the Silicon Valley Talent founder; identity HOLD (entrepreneur vs. MP 莊文浩) maintained.

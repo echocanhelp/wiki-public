@@ -6,7 +6,7 @@ tags:
   - Taiwanese-American
   - Taiwan-Center-group-member
 verification_status: published
-last_reviewed: 2026-10-03
+last_reviewed: 2026-10-04
 ---
 # Alumni Association of Chia Yi High School Worldwide (AACHW)
 
@@ -55,3 +55,5 @@ Re-grep 2026-10-03 (slice 09300315-8): 嘉中校友 / Chia Yi High School / AACH
 
 - [[organizations/taiwan-center||Taiwan Center]]
 - [[sources/taiwancenter-org||taiwancenter.org]]
+
+Re-grep 2026-10-04 (slice 09300848-14): fresh ZH+EN grep (嘉中校友/嘉義高中校友/嘉義中學/Chia Yi High School/AACHW) across works+articles — zero hits; identical to all prior passes (verified-saturated). SKIP, no new facts, HOLD (Worldwide vs. SoCal branch) stands.
