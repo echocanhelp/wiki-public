@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-30
+last_reviewed: 2026-10-04
 ---
 # W.C. Lin (林文釗)
 
@@ -58,3 +58,5 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+- Corpus re-grep 2026-10-04 (slice 09300321-7): fresh ZH+EN grep returns the identical hit set (already-linked works + own index/encyclopedia entry) — verified-saturated, nothing new absorbable. SKIP. hits-hash=de4a7e7c734b

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-30
+last_reviewed: 2026-10-04
 ---
 # Weiko Lin (林偉克)
 
@@ -57,3 +57,5 @@ Taiwan-born screenwriter and producer; the community record frames him as part o
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+- Corpus re-grep 2026-10-04 (slice 09300321-7): fresh ZH+EN grep returns the identical hit set (already-linked works + own index/encyclopedia entry) — verified-saturated, nothing new absorbable. SKIP. hits-hash=de488e824894

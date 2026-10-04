@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-30
+last_reviewed: 2026-10-04
 ---
 # Herbert T Chen (陳志青)
 
@@ -55,3 +55,5 @@ last_reviewed: 2026-09-30
 - Re-grep 2026-09-24 (slice 09230700-32): re-confirmed — fresh ZH+EN grep returns only own TAH #316 record + ourjourneys-369 memoir passage (already absorbed in Role in the Community + Family); verified-saturated, SKIP-with-reason.
 - Re-grep 2026-09-26 (slice 09251023-9): fresh ZH+EN grep returns own TAH #316 record + ourjourneys-369 only, both already absorbed/wikilinked in Role in the Community + Family. Verified-saturated, SKIP.
 - Re-grep 2026-09-25 (slice 09240800-16): fresh ZH+EN grep returns own TAH #316 record + ourjourneys-369 only, both already absorbed/wikilinked. Verified-saturated, SKIP.
+
+- Corpus re-grep 2026-10-04 (slice 09300321-7): fresh ZH+EN grep returns the identical hit set (already-linked works + own index/encyclopedia entry) — verified-saturated, nothing new absorbable. SKIP. hits-hash=b883973ad9db

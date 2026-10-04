@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-30
+last_reviewed: 2026-10-04
 ---
 # Tong-Liang Larry Chen (陳東亮)
 
@@ -56,3 +56,5 @@ Tong-Liang (Larry) Chen 陳東亮 – History of Taiwanese American (T.A. Archiv
 - Corpus re-check 2026-09-24 (slice 09230800-26): hits remain the five linked works (ff307 / ourjourneys43 / mystories590 / artifacts55 / whoswho1387) plus the works index — all details already absorbed; nothing new. SKIP.
 - Corpus re-check 2026-09-25 (slice 09240800-19): fresh grep (陳東亮 / Larry Chen / Tong-Liang) returns the same five linked works plus the index — verified-saturated, nothing new absorbable. SKIP.
 - Corpus re-check 2026-09-26 (slice 09251400-6): fresh grep (陳東亮 / Larry Chen / Tong-Liang) returns the same five linked works plus the index — verified-saturated, nothing new absorbable. SKIP.
+
+- Corpus re-grep 2026-10-04 (slice 09300321-7): fresh ZH+EN grep returns the identical hit set (already-linked works + own index/encyclopedia entry) — verified-saturated, nothing new absorbable. SKIP. hits-hash=77cb574ce3ef
