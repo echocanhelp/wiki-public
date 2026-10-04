@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-30
+last_reviewed: 2026-10-04
 ---
 # Li-Shun Lu (呂理順)
 
@@ -17,7 +17,7 @@ last_reviewed: 2026-09-30
 - **Era:** 1937
 - **Geography:** Taiwan/Taipei
 - **Core roles:** engineer
-- **Source:** TAH Foundation Who’s Who
+- **Source:** TAH Foundation Who's Who
 
 Houston Offshore Engineering, etc.
 Senior Staff Engineer to Engineering Consultant
@@ -53,7 +53,7 @@ Senior Staff Engineer to Engineering Consultant
 
 ## Sources
 - [TAH #1080 encyclopedia: 1080. Li-Shun Lu 呂理順 /2016/06](https://taiwaneseamericanhistory.org/whos1080-li-shun-lu/)
-- [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/li-shun-lu/)
+- [TAH Who's Who](https://taiwaneseamericanhistory.org/person/li-shun-lu/)
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
@@ -62,3 +62,4 @@ Senior Staff Engineer to Engineering Consultant
 - Corpus re-grep 2026-09-26 (slice 09260317-32): identical hit set (mystories444, our-journeys-359, whos1080, ourjourneys-139); 陳淮崇回憶錄 roster/「豬寮」passages re-verified verbatim, already absorbed above. Verified saturated — SKIP-with-reason.
 - Corpus re-grep 2026-09-30 (slice 09260700-17): identical hit set (mystories444, our-journeys-359, whos1080, ourjourneys-139, + works/index bibliographic listings). Verified saturated — SKIP-with-reason.
 - Corpus re-grep 2026-10-03 (slice 09300315-2): identical hit set (mystories444, our-journeys-359, whos1080, ourjourneys-139, + works/index bibliographic listing). Verified saturated — SKIP-with-reason, hits-hash=6e6668e68757.
+- Corpus re-grep 2026-10-04 (slice 09300855-3): fresh ZH+EN grep — hit set identical to prior passes (mystories444, our-journeys-359, ourjourneys-139, whos1080; + works/index bibliographic listing). Verified saturated — SKIP-with-reason, nothing new absorbable. hits-hash=6fccbb828b49 (sha1 over works+articles hit-set).

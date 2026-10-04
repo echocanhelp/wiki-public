@@ -17,7 +17,7 @@ last_reviewed: 2026-10-04
 - **Era:** 1941
 - **Geography:** 台灣苗栗縣三義鄉
 - **Core roles:** engineer, entrepreneur
-- **Source:** TAH Foundation Who’s Who
+- **Source:** TAH Foundation Who's Who
 
 
 <!-- tah-tables:start -->
@@ -48,7 +48,7 @@ last_reviewed: 2026-10-04
 
 ## Sources
 - [TAH #145 encyclopedia: 145. Tony Chen 陳國洸 / 2014/12](https://taiwaneseamericanhistory.org/whos145/)
-- [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/tony-chen/)
+- [TAH Who's Who](https://taiwaneseamericanhistory.org/person/tony-chen/)
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
@@ -60,3 +60,4 @@ last_reviewed: 2026-10-04
 > SKIP-note (deepen-x slice 09260700-31, 2026-09-30): fresh ZH+EN re-grep — one new work page linked this pass: 409. 落地生根 (his own literary record, previously unlinked). No other new 陳國洸 material; roster-name co-mentions in ourjourneys76/chun-san-lee/dr-tsann-wang-yu already absorbed. Verified-saturated.
 > SKIP-note (deepen-x slice 09300315-2, 2026-10-03): fresh ZH+EN re-grep — hit set identical to the linked set (ourjourneys76 + -eng, works 83/80/409/1000, whos145); -eng copy re-checked verbatim (Austin roster + 同鄉會 founding after 3 outings), nothing new absorbable. SKIP: verified-saturated, hits-hash=6e6668e68757.
 > SKIP-note (deepen-x slice 09300848-3, 2026-10-04): fresh ZH+EN re-grep — the only non-index hits are name-collision false positives, no 陳國洸 material: (a) ourjourneys292-eng 匹茲堡同鄉會历届會長名單 (1981–82) and its auto-generated Subjects wikilink — that 會長 is a different person (a Pennsylvania chapter president; the 陳國洸 in ourjourneys76 is an Austin, TX student); (b) a 2021/2022 TJJ CNBC reprint about the TSMC Arizona fab naming 台積電技術處長 陳鏘澤 (Tony Chen), plus its Subjects wikilink. Do not merge either into this page. Verified-saturated — SKIP-with-reason, hits-hash=710352a6cc52.
+> SKIP-note (deepen-x slice 09300855-3, 2026-10-04): fresh ZH+EN re-grep — hit set identical to prior passes; the only non-index hits remain the name-collision false positives (陳東寧 #1921, 陳彥豪 Presidential Scholars, 陳鏘澤 TSMC CNBC reprint + its Subjects copies). No new 陳國洸 material. Verified-saturated — SKIP-with-reason, hits-hash=8ef02f288a62 (sha1 over works+articles hit-set).
