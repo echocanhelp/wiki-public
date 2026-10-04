@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-30
+last_reviewed: 2026-10-04
 ---
 # Prof. Teresa H. Meng (孟懷縈教授)
 
@@ -58,3 +58,5 @@ _No filled family fields on the TAH profile._
 - 複核（deepen-x slice-09260400-18, 2026-09-26）：re-grep 孟懷縈 / Teresa H. Meng（works + articles）hit set identical（僅本人書目記錄 #1861 與 works/index）— SKIP, verified-saturated，無可吸收材料。
 
 Re-verified 2026-09-30 (slice 09260800-5): fresh ZH 孟懷縈 + EN 'Teresa H. Meng' grep of content/works + content/articles returned only own TAH #1861 bibliographic record + works index; no memoir/community material to absorb. SKIP: verified-saturated.
+
+Re-verified 2026-10-04 (deepen-x slice 09300315-10): fresh ZH+EN re-grep (孟懷縈 / Teresa H. Meng, works + articles) — hit set identical (own #1861 bibliographic record + works/index only); nothing absorbable. SKIP: verified-saturated, hits-hash=152444697fea.

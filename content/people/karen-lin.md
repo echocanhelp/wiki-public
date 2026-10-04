@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-30
+last_reviewed: 2026-10-04
 ---
 # Karen Lin (林璇雯)
 
@@ -57,3 +57,5 @@ _No filled family fields on the TAH profile._
 - Corpus re-grep 2026-09-25 (slice 09250700-17): hit set identical (155, 333, whoswho1588, ourjourneys123/128/243) — SKIP, verified-saturated; HOLD on the 1990 photo-caption identity stands.
 - Corpus re-grep 2026-09-26 (slice 09260400-14): hit set identical (155, 333, whoswho1588, ourjourneys123/128/243) — SKIP, verified-saturated; HOLD on the 1990 photo-caption identity stands.
 - Corpus re-grep 2026-09-30 (slice 09260700-31): hit set identical (155, 333, whoswho1588, ourjourneys123/128/243; co-mentions in bianca-liang/julia-huang already absorbed) — SKIP, verified-saturated; HOLD on the 1990 photo-caption identity stands.
+
+- Corpus re-grep 2026-10-04 (slice 09300315-10): hit set identical (155, 333, whoswho1588, ourjourneys123/128/243) — SKIP, verified-saturated, hits-hash=152444697fea; HOLD on the 1990 photo-caption identity stands.
