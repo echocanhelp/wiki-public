@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-30
+last_reviewed: 2026-10-04
 ---
 # M. Wang (陳美霞)
 
@@ -53,4 +53,4 @@ last_reviewed: 2026-09-30
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
-- 2026-10-04 覆核（deepen-x 09300315-28）：fresh ZH+EN grep（陳美霞 / M. Wang / 美霞）hit set 與前次完全相同——ourjourneys223 / mystories556 / ourjourneys15 / whos-m-wang / works index / taiwanjustice-net「Mr Wang」= 王金平（Wang Jin-pyng）字串誤配（維持不合併）。mystories556 覆核仍為書目紀錄（全文在 vault），HOLD 維持。SKIP — saturated, nothing new absorbable.
+- 2026-10-04 覆核（deepen-x 09300315-28）：fresh ZH+EN grep（陳美霞 / M. Wang / 美霞）hit set 與前次完全相同——ourjourneys223 / mystories556 / ourjourneys15 / whos-m-wang / works index / taiwanjustice-net「Mr Wang」= 王金平（Wang Jin-pyng）字串誤配（維持不合併）。mystories556 覆核仍為書目紀錄（全文在 vault），HOLD 維持。SKIP — saturated, nothing new absorbable。hits-hash=5be44b924f50+89c2cd8931ad+db5e15a42d57+16706c9b4f5c+ed01dd5538fb+7096216e02ba

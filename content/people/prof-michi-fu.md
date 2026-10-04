@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-30
+last_reviewed: 2026-10-04
 ---
 # Prof. Michi Fu
 
@@ -55,3 +55,4 @@ Re-grep 2026-09-22 (slice 09211507-13): exact-name hits limited to her own TAH r
 <!-- deepen-x 09250317-11: verified-saturated — corpus re-scan (works/articles) fresh 2026-09-25: hit set identical to prior passes (own records + already-wikilinked works only); no new community material. -->
 <!-- deepen-x 09251500-4: verified-saturated — corpus re-scan (works/articles) fresh 2026-09-26: hit set identical to prior passes (own TAH record + already-wikilinked works only); no new community material. -->
 <!-- deepen-x 09260800-24: verified-saturated — corpus re-scan (works/articles) fresh 2026-09-30: exact-name grep hits only her own TAH record #2151, works/index listing, and the two already-wikilinked works (Remembering the 228 Massacre, Letter of Advice); no new community material. SKIP-no-new-facts. -->
+<!-- deepen-x 09300315-28: verified-saturated — corpus re-scan (works/articles) fresh 2026-10-04: exact-name grep hits only her own TAH record #2151, works/index listing, and the two already-wikilinked works (Remembering the 228 Massacre, Letter of Advice); hit set identical to prior passes, no new community material. SKIP-no-new-facts. hits-hash=fc62ed3fb50f+ed01dd5538fb+86ac1c303649+89d909a02dc4 -->

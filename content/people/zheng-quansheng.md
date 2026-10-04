@@ -4,7 +4,7 @@ type: person
 tags:
   - 
 verification_status: pending
-last_reviewed: 2026-09-30
+last_reviewed: 2026-10-04
 ---
 # Zheng Quansheng (鄭泉聲)
 
@@ -61,3 +61,4 @@ Pages that link to **zheng-quansheng** (zheng-quansheng):
 - [[sources/irvine-taiwanese-presbyterian-church||ITPC history document (source)]]
 - [[people/guo-yingyan||Guo Yingyan (郭應言)]]
 - Corpus re-check 2026-09-26 (deepen-x slice 09251400-8): fresh grep of works/ + articles/ for 鄭泉聲 / Quansheng returns zero hits again — ITPC history document remains the only corpus record. SKIP, nothing new absorbable.
+- Corpus re-check 2026-10-04 (deepen-x slice 09300315-28): fresh grep of works/ + articles/ for 鄭泉聲 / Quansheng again returns zero hits (zero-hit grep, hits-hash=n/a) — ITPC history document remains the only corpus record; Tustin TPC clause still corroborating only. SKIP, nothing new absorbable; Geography HOLD (US vs returned-to-Japan) unchanged, never auto-merged.
