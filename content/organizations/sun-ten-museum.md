@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-30
+last_reviewed: 2026-10-04
 ---
 # Sun Ten Museum (順天美術館)
 
@@ -35,6 +35,8 @@ Re-grep 2026-09-25 (slice 09240317-27, 順天美術館 / Sun Ten / Shun-Tien var
 Re-grep 2026-09-25 (slice 09250700-23): same six records, no new mention. SKIP (saturated).
 
 Re-grep 2026-09-26 (slice 09260500-9, 順天美術館 / Sun Ten / Shun-Tien variants, works+articles): same six records (art-exhibitions-2, ourjourneys107, history-of-sun-ten-museum, 13-shun-tien-art-museum-donates, videos143, art-exhibitions37) — no new mention. SKIP (saturated).
+
+Re-grep 2026-10-04 (slice 09300348-4, 順天美術館 / Sun Ten / Shun-Tien variants, works+articles): same six records (art-exhibitions-2, ourjourneys107, history-of-sun-ten-museum, 13-shun-tien-art-museum-donates, videos143, art-exhibitions37) — no new mention. SKIP (saturated). hits-hash=8e792e197f8f
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/sun-ten-museum/)

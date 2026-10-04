@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-30
+last_reviewed: 2026-10-04
 ---
 # Y. S. Lee (李延禧)
 
@@ -48,6 +48,7 @@ Accomplishment
 - Corpus re-grep (slice 09220800-24, 2026-09-22): hit set identical（TAH #1850、twjustice 大稻埕文 2025/2021 兩版、works/index）— verified saturated; Columbia M.A. 1911 vs 1915 HOLD stands.
 
 - Corpus re-grep (slice 09230317-22, 2026-09-24): hit set identical（TAH #1850、twjustice 大稻埕文 2025/2021 兩版、works/index）— verified saturated; Columbia M.A. 1911 vs 1915 HOLD stands. SKIP.
+- Corpus re-grep (slice 09300348-4, 2026-10-04): fresh grep 李延禧|Y. S. Lee|新高銀行 returns the identical saturated set — TAH #1850、twjustice 大稻埕文 2025/2021 兩版、其 category 索引頁（僅列標題，無新事實）、MANIFEST.jsonl 與 works/index 目錄列舉 — no new corpus facts. SKIP-with-reason (verified-saturated); Columbia M.A. 1911 vs 1915 HOLD stands. hits-hash=96efb6dfd8e4
 
 ## Sources
 - [TAH #1850 encyclopedia: 1850. Y. S. Lee 李延禧](https://taiwaneseamericanhistory.org/whos-who-1850-y-s-lee/)

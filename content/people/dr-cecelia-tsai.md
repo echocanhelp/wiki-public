@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-30
+last_reviewed: 2026-10-04
 ---
 # Dr. Cecelia Tsai (葉明霞博士)
 
@@ -57,3 +57,4 @@ last_reviewed: 2026-09-30
 - Corpus re-grep 2026-09-25 (slice 09240317-24): hit set identical to records already absorbed above; no new corpus facts. SKIP-with-reason (saturated).
 - Corpus re-grep 2026-09-25 (slice 09250700-26): hit set identical (whos-who-1963, ourjourneys60/-eng, ourjourneys230, ourjourneys292/-eng) — all absorbed above; no new corpus facts. Verified saturated; SKIP-with-reason.
 - Corpus re-grep 2026-09-26 (slice 09260500-4): hit set identical (whos-who-1963, ourjourneys60/-eng, ourjourneys230, ourjourneys292/-eng) — all absorbed above; no new corpus facts. Verified saturated; SKIP-with-reason.
+- Corpus re-grep 2026-10-04 (slice 09300348-4): fresh grep 葉明霞|Cecelia Tsai returns the identical saturated set (whos-who-1963, ourjourneys60/-eng, ourjourneys230, ourjourneys292/-eng) — all absorbed above; no new corpus facts. Verified saturated; SKIP-with-reason. hits-hash=422a915f519a
