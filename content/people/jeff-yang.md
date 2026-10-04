@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-30
+last_reviewed: 2026-10-04
 ---
 # Jeff Yang (楊致和)
 
@@ -59,3 +59,5 @@ Accomplishment
 ## Worklog
 - 2026-09-26 (deepen-x slice 09251000-15): fresh ZH+EN re-grep — hits unchanged (my-stories-694, whos-who-2266, michelle-young-the-art-spy, hudson-yang, apa-artists, to-date-or-not-to-date, index), all already linked and absorbed in Role in the Community. SKIP-content: verified-saturated.
 - 2026-09-26 (deepen-x slice 09260500-11): fresh ZH+EN re-grep — hits unchanged (my-stories-694, whos-who-2266, michelle-young-the-art-spy, hudson-yang, apa-artists, index), all already linked and absorbed. SKIP-content: verified-saturated.
+
+<!-- deepen-x 09300500-4 | re-grep 2026-10-04 | hits-hash=a488a5a81b60 -->

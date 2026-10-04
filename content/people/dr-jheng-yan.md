@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-30
+last_reviewed: 2026-10-04
 ---
 # Dr. Jheng Yan (嚴正博士)
 
@@ -52,3 +52,5 @@ His own TAH encyclopedia entry is held in the vault at [[works/taiwaneseamerican
 - Corpus re-grep 2026-09-25 (slice 09240400-7): fresh grep (嚴正博士 / Jheng Yan) hit set = own whos-who-2317 record + works index only (bare 嚴正 matches are adjective prose, already annotated) — all absorbed. SKIP: verified-saturated.
 - Corpus re-grep 2026-09-25 (slice 09250700-31): fresh grep (嚴正博士 / Jheng Yan) hit set unchanged — own whos-who-2317 + my-stories-786 + works index only; 嚴正 prose matches are adjective false positives already annotated. SKIP: verified-saturated.
 - Corpus re-grep 2026-09-26 (slice 09260500-11): fresh grep (嚴正博士 / Jheng Yan) hit set = own whos-who-2317 + works index only; my-stories-786 still linked, 嚴正 prose matches already annotated. SKIP: verified-saturated.
+
+<!-- deepen-x 09300500-4 | re-grep 2026-10-04 | hits-hash=a488a5a81b60 -->
