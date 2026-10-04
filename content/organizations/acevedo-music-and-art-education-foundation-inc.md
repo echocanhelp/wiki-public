@@ -58,4 +58,4 @@ HOLD: the same concert write-up names the trio's pianist once as 「黃煐煐」
 
 2026-09-30 re-grep (黃煐媖 / Acevedo Music, DEEPEN-X slice 09260800-12): same hit set (concerts104, index) — SKIP-content: verified-saturated, nothing new absorbable; 黃煐煐/黃煐媖 typo HOLD stands.
 
-2026-10-04 re-grep (黃煐媖 / Acevedo Music, DEEPEN-X slice 09300315-16): same hit set (65-yin-yin-huang, concerts104, index, 2024+2025 concert write-ups, unrelated Paraguayan Acevedo news under HOLD) — SKIP-content: verified-saturated, nothing new absorbable; 黃煐煐/黃煐媖 typo HOLD stands. hits-hash=6552a6978439
+2026-10-04 re-grep (黃煐媖 / Acevedo Music, DEEPEN-X slice 09300848-23): same hit set (65-yin-yin-huang, concerts104, index, 2024+2025 concert write-ups, unrelated Paraguayan Acevedo news under HOLD) — SKIP-content: verified-saturated, nothing new absorbable; 黃煐煐/黃煐媖 typo HOLD stands. hits-hash=75ffe7015153
