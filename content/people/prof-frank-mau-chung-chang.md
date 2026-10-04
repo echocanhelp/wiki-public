@@ -52,3 +52,5 @@ _No filled family fields on the TAH profile._
 <!-- deepen-x slice 09250317-19: re-verify 2026-09-25 — fresh grep (ZH+EN, works+articles): hit set identical to prior absorptions, all already linked in Role in the Community. Verified saturated; SKIP-no-new-facts. -->
 <!-- deepen-x slice 09251527-7: re-verify 2026-09-26 — fresh grep (張懋中/Mau-Chung, works+articles): hit set identical (ota-296, whos-who-779, 2015 返台 record, works index), all already linked in Role in the Community. Verified saturated; SKIP-no-new-facts. -->
 <!-- deepen-x slice 09260800-30: re-verify 2026-09-30 — fresh grep (張懋中/Mau-Chung, works+articles): hit set identical to prior slices (ota-296, whos-who-779, 2015 返台 record, works index), all already linked in Role in the Community. Verified saturated; SKIP-no-new-facts. -->
+
+> Re-verified 2026-10-04 (slice 09300315-32): fresh grep (張懋中 / Mau-Chung) over content/works + content/articles returns the same hit set (ota-296, 14-...2015 返台 record, whos-who-779, works/index) — no new community-authored material; verified-saturated, SKIP-no-new-material, hits-hash=5396413048b1464f.

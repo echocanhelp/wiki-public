@@ -55,3 +55,5 @@ _No filled family fields on the TAH profile._
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - Re-verified 2026-09-27 (slice 09260700-32): fresh ZH+EN grep returns the same hit set (whos-hsingfang-cindy-liu, musician352, works/index) — verified-saturated, SKIP.
+
+> Re-verified 2026-10-04 (slice 09300315-32): fresh grep (劉杏芳 / Cindy Liu / Hsingfang) over content/works + content/articles returns the same hit set (whos-hsingfang-cindy-liu, musician352, works/index) — no new community-authored material; verified-saturated, SKIP-no-new-material, hits-hash=51e59272c4d9dc47.

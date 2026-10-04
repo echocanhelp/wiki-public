@@ -57,3 +57,5 @@ _No filled family fields on the TAH profile._
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 > Re-verified 2026-09-26 (slice 09251500-5): fresh grep 王采羿一 / Jenny Wang hit set unchanged (#2234, OFTaiwan Award announcement, creators conversation, works index); verified-saturated, Rutgers-vs-NYU HOLD stands.
+
+> Re-verified 2026-10-04 (slice 09300315-32): fresh grep (王采羿一 / Jenny Wang) over content/works + content/articles returns the same hit set (whos-who-2234, introducing-the-oftaiwan-award, when-love-is-more-than-words, works/index) — no new community-authored material; verified-saturated, SKIP-no-new-material, hits-hash=0c8b0a79277f8d7f.
