@@ -45,3 +45,6 @@ last_reviewed: 2026-10-01
 
 ## Re-grep log
 - 2026-10-01 (slice 09270315-1) re-check: grep (許惠欽 / John Hsu, works+articles) — 許惠欽 zero hits; the only "John Hsu" hits are whos-who-2262 and the works index, which are **John Hsu 許作初** (a different person; already disambiguated at the top of this page). No corpus record of this John Hsu (許惠欽, STC real-estate); nothing absorbable from the memoir corpus — press/LinkedIn-sourced Record stays as recorded. hits-hash=09dd39de6249
+
+# Re-grep log
+- 2026-10-04 (slice 09300848-6) re-grep (許惠欽 / John Hsu, works+articles): hit set unchanged — whos-who-2262 + whos-who-873 + ota-287 are the OTHER John Hsu (許作初 real-estate / 徐新宏 nuclear, both disambiguated at top); works index = directory listing only. Zero corpus record of this John Hsu (許惠欽, STC real-estate); nothing absorbable. Verified-saturated. SKIP. hits-hash=932d13407974

@@ -57,3 +57,5 @@ last_reviewed: 2026-10-04
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 <!-- deepen-x slice 09260700-22 re-verify 2026-09-30: fresh ZH+EN grep of works/+articles/ — hit set identical to records already absorbed in this page (verified-saturated, no new absorbable facts) -->
 <!-- deepen-x slice 09300315-4 re-verify 2026-10-04: fresh ZH+EN grep (陳清風 / ALAN T. CHEN / Alan T. Chen) — hit set identical (ourjourneys277, 256, 47, #713, #1457, 鄭炳全 旅美五十周年 memoir + its 2024-03 duplicate, indexes). Wisconsin-vs-Chicago HOLD unchanged. SKIP — verified-saturated, nothing absorbable. hits-hash=a991b5cefd61 -->
+
+<!-- deepen-x slice 09300848-6 re-verify 2026-10-04: fresh ZH+EN grep (陳清風 / ALAN T. CHEN / Alan T. Chen) — hit set identical (ourjourneys277, 256, 47, #713, #1457, 鄭炳全 memoir + 2024-03 duplicate, indexes). Wisconsin-vs-Chicago HOLD unchanged. SKIP — verified-saturated. hits-hash=a991b5cefd61 -->
