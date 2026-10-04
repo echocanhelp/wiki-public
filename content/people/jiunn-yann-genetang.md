@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-30
+last_reviewed: 2026-10-04
 ---
 # Jiunn-yann Gene Tang (湯俊彥博士)
 
@@ -59,3 +59,5 @@ _No filled family fields on the TAH profile._
 - Re-grep 2026-09-26 (slice 09260400-16): hit set identical (our-journeys-378, ourjourneys307, private-collections-86, ourjourneys256, own record 762, works/index) — all absorbed verbatim; SKIP (saturated).
 - Re-grep 2026-09-30 (slice 09260700-31): hit set identical (our-journeys-378, ourjourneys307, private-collections-86, ourjourneys256, own record 762, works/index) — re-checked body passages (望春風 Madison takeover six issues, 歷屆會長 1998, 達拉斯 donor list, records 762/86): all absorbed verbatim, no new facts, no new conflicts. SKIP (saturated).
 - Re-grep 2026-10-03 (slice 09300315-6): fresh grep (湯俊彥 / Jiunn-yann / Gene Tang, full content/) hit set identical (our-journeys-378, ourjourneys307, private-collections-86, ourjourneys256, own record 762, works/index, people/index, sources hub) — all absorbed verbatim; SKIP (saturated). hits-hash=6db89e339321
+
+- Re-grep 2026-10-04 (slice 09300848-9): fresh ZH+EN grep (湯俊彥 / Jiunn-yann / Gene Tang) of works/ + articles/ — hit set identical (our-journeys-378, ourjourneys307, private-collections-86, ourjourneys256, own record 762, works/index) — all absorbed verbatim, no new facts, no new conflicts. SKIP (saturated). hits-hash=3be0766d5215
