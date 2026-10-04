@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-04
 ---
 # Bao-Tyan Wang (王寶田博士)
 
@@ -65,3 +65,5 @@ last_reviewed: 2026-10-01
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 <!-- TJJ-A09260500-14: verified 2026-09-27 — all subject links re-checked vs 正文: real, no wrong/spurious links (以立「致死的震怒近了」 b7ec76fa/2b3d5a36; 第14回世界台灣文化論壇 08cd200c/fc488102); dated facts w/ article wikilinks already in From the record — saturated, no new material. -->
+
+- Corpus re-check 2026-10-04 (slice 09300334-1): fresh grep re-hits only TAH #282 work page, the 2 TJJ 14th WTCF forum articles, and works index -- hit set identical to already-absorbed records; saturated, no new material. hits-hash=406cddd506d4

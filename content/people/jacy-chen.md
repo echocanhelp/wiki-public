@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-04
 ---
 # Jacy Chen (陳彩雲博士)
 
@@ -57,3 +57,5 @@ _No filled family fields on the TAH profile._
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 <!-- TJJ-A09250800-4: verified 2026-09-26 — subject links in slice 09250800-4 articles (6f2b431c / 08b82976 / 1a2bdc08 / 53455d7e) re-checked vs 正文; all real (1a2bdc08 Subjects links fixed: stray .md suffix removed); dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+- Corpus re-check 2026-10-04 (slice 09300334-1): fresh grep re-hits only her own whoswho1573 stub, works index, and the 2019-09-04 NATWA joint-statement TJJ article (NATWA president signature already absorbed) -- hit set unchanged; saturated, no new material. hits-hash=be8e4777eff0
