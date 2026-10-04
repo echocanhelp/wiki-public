@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-27
+last_reviewed: 2026-10-04
 ---
 # Jack Chen
 
@@ -55,3 +55,4 @@ _No filled family fields on the TAH profile._
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - Corpus re-scan 2026-09-27 (deepen-x slice 09260600-13): fresh grep of works/ + articles/ - hit set identical (whos-who-2182, ota-272, 678 + works index), all already wikilinked; HOLD on the three-Jack-Chen slug conflation stands. SKIP-deepen; verified-saturated.
+- Corpus re-scan 2026-10-04 (slice 09270600-7): fresh grep "Jack Chen" — hit set identical (whos-who-2182, ota-272, 678 + works index), all already wikilinked; HOLD on the three-Jack-Chen slug conflation stands. SKIP-deepen; verified-saturated.
