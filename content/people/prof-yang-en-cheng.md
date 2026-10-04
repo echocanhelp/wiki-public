@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-30
+last_reviewed: 2026-10-04
 ---
 # Prof. Yang-En Cheng (鄭仰恩教授)
 
@@ -59,3 +59,4 @@ _No filled family fields on the TAH profile._
 - Corpus re-grep 2026-09-30 (DEEPEN-X slice 09251000-5): hit-set identical to prior passes — own TAH #1896, works index, 余杰2015 article. SKIP-content: verified-saturated, nothing new absorbable, no conflicts to HOLD.
 - Corpus re-grep 2026-09-30 (slice 09260500-2): hit-set identical — own TAH #1896, works index, 余杰2015 article (the awards-92 hit is a false match on 'Walter M. Yang and Christine L. Yang Endowed Fund'). SKIP-content: verified-saturated, nothing new absorbable.
 - Corpus re-grep 2026-09-30 (DEEPEN-X slice 09260854-3): hit-set again identical — own TAH #1896, works index, 余杰2015 article. SKIP-content: verified-saturated, nothing new absorbable, no conflicts to HOLD.
+- Corpus re-grep 2026-10-04 (DEEPEN-X slice 09300348-3): hit-set again identical (own TAH #1896 page, works index, 余杰2015 article). hits-hash=2becde32600d. SKIP-content: verified-saturated, nothing new absorbable, no conflicts to HOLD.
