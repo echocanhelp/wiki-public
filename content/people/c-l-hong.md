@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-30
+last_reviewed: 2026-10-04
 ---
 # C. L. Hong (洪健棣牧師)
 
@@ -63,3 +63,5 @@ _No filled family fields on the TAH profile._
 - Re-verified 2026-09-26 (slice 09260400-32): fresh grep 洪健棣 / C. L. Hong returned the identical hit set (whoswho1483, ourjourneys43, works index). SKIP: saturated, no new corpus material.
 
 - Re-verified 2026-09-30 (slice 09260800-16): fresh grep 洪健棣 / C. L. Hong returned the identical hit set (whoswho1483, ourjourneys43, works index). SKIP: saturated, no new corpus material.
+
+- Re-verified 2026-10-04 (slice 09300315-22): fresh grep 洪健棣 / C. L. Hong（works+articles）returned the identical hit set (whoswho1483, ourjourneys43, works index). SKIP-with-reason: saturated, no new corpus material; hits-hash=325fb7f1bbb2.

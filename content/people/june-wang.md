@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-04
 ---
 # June Wang (王純純)
 
@@ -50,6 +50,8 @@ Accomplishment
 - 2026-09-26 deepen-x slice 09250900-29: SKIP — verified-saturated. Fresh ZH+EN greps return the identical set (#297, #832, #236, #292 黃滿玉 memoir, works index); no new material; HOLD (2013 convention vs work-236 misdated title) stands.
 
 - 2026-09-26 deepen-x slice 09260400-24: SKIP — verified-saturated. Fresh ZH+EN greps (王純純／June Wang／June W. Wang) return the identical set (#297, #832, #236, #292 黃滿玉 memoir, works index); no new material; HOLD (2013 convention vs work-236 misdated title) stands.
+
+- 2026-10-04 deepen-x slice 09300315-22: SKIP — verified-saturated. Fresh ZH+EN greps (王純純／June Wang) return the identical set (#297, #832, #236, #292 黃滿玉 memoir, works index); no new material; HOLD (2013 convention vs work-236 misdated title) stands; hits-hash=f51296490d44.
 
 ## Sources
 - [TAH #297 encyclopedia: 297. June W. Wang 王純純](https://taiwaneseamericanhistory.org/ota-297/)

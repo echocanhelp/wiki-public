@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-04
 ---
 # Dr. Charles Tu (杜武青博士)
 
@@ -59,3 +59,5 @@ last_reviewed: 2026-10-01
 - Corpus re-sweep 2026-09-25 (slice 09240600-28): exact-name grep 杜武青/"Charles Tu" returns the identical hit set (own records 601/247/680, WHA 聯合聲明 2021 + 2025 republications, works index); SKIP — verified-saturated.
 - Corpus re-sweep 2026-09-26 (slice 09250900-26): exact-name grep 杜武青/"Charles Tu" returns the identical hit set (own records 601/247/680, WHA 聯合聲明 2021 + 2025 republications, works index); SKIP — verified-saturated.
 - Corpus re-sweep 2026-09-26 (slice 09260400-20): exact-name grep 杜武青/"Charles Tu" returns the identical hit set (own records 601/247/680, works index, WHA 聯合聲明 2021 + 2025 republications); SKIP — verified-saturated.
+
+- Corpus re-sweep 2026-10-04 (slice 09300315-22): exact-name grep 杜武青/"Charles Tu" returns the identical hit set (own records 601/247/680, works index, WHA 聯合聲明 2021 + 2025 republications); SKIP — verified-saturated, no new material; hits-hash=c5b9bacfe1c2.

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-04
 ---
 # Jang-Yen Wu (吳政彥)
 
@@ -61,3 +61,5 @@ Assistant, Associate, Senior Scientist and Section Head
 - Corpus re-grep 2026-09-25 (DEEPEN-X slice 09240600-25): hit set unchanged — Our Journeys 231 (ZH + EN), TAH #591, works index. SKIP-with-reason: verified-saturated; HOLD (Jang-Yen vs Chen-Yen) stands.
 - Corpus re-grep 2026-09-26 (DEEPEN-X slice 09250900-26): hit set unchanged — Our Journeys 231 (ZH + EN), TAH #591, works index. SKIP-with-reason: verified-saturated; HOLD (Jang-Yen vs Chen-Yen) stands.
 - Corpus re-grep 2026-09-26 (DEEPEN-X slice 09260400-21): hit set unchanged — Our Journeys 231 (ZH + EN), TAH #591, works index only. SKIP-with-reason: verified-saturated; HOLD (Jang-Yen vs Chen-Yen, same 吳政彥) stands, no new facts.
+
+- Corpus re-grep 2026-10-04 (DEEPEN-X slice 09300315-22): fresh grep 吳政彥 / Jang-Yen Wu / Chen-Yen Wu returns the identical hit set — Our Journeys 231 (ZH + EN), TAH #591, works index. SKIP-with-reason: verified-saturated; HOLD (Jang-Yen vs Chen-Yen, same 吳政彥) stands, no new facts; hits-hash=356f368cac50.
