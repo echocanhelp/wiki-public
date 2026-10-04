@@ -56,3 +56,4 @@ _No filled family fields on the TAH profile._
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - 2026-09-25 (slice 09250317-10): corpus re-grepped — same hits (ourjourneys74/-eng, ourjourneys186/-eng, publicationlife948, whos863), all already linked above; saturated, no new absorbable facts.
 - 2026-09-26 (slice 09251500-3): corpus re-grepped — identical hit set (ourjourneys74/-eng, ourjourneys186/-eng, publicationlife948, whos863), all already linked above; saturated, SKIP.
+- 2026-10-04 (slice 09300321-10): corpus re-grepped — identical 6 hits (ourjourneys74/-eng, ourjourneys186/-eng, publicationlife948, whos863), all already linked above; saturated, SKIP.
