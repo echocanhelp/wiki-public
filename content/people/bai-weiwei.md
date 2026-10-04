@@ -60,10 +60,23 @@ This page is an **A-tier thin record** for graph linking and member-priority sco
 - [[people/yang-jia-you||Charles Yang (楊嘉猷)]] — Treasurer (財務長); founding president
 - [[people/freeman-huang||Freeman Huang (黃樹人)]] — Secretary (秘書)
 
-### Identity verification (re-check 2026-10-03, 04:0x)
-`content/organizations/taiwanese-american-historical-society.md` **has NO 會長/副會長/秘書 roster table** (that block is 楊国生's, in `knowledge/…` only). Verified in **2025 台美人會年鑑**: 台美人歷史協會 **副会长 白偉瑋** + **理事 陳愛玲** (陳愛玲 = separate person — 台大歷史系, 1949生, 高雄, "台獨妈祖" 口述傳記). Identity question re-checked: the 楊惠南 x4 sources carry NO birth-year and NO occupation for 白偉瑋 — the only bio line ("1956年生, 台南, 護士") is in the **PDF only**, and it explicitly says 白偉瑋 is **張大卿's wife** (she), while TAHS VP 白偉瑋's 2023 interviewer credit carries no spouse/occupation; the 2023 roster lists 楊平猷/楊嘉猷 brothers AND 白偉瑋 as separate entries, and 白偉瑋 appears in the TPE exhibit list, not the LA list. => **Three independent markers (gender via 內人, geography TPE-vs-LA, and the two-circle roster overlap) say likely DIFFERENT people; the only source tying "she" to the TPE list is the PDF's own list.** Do NOT merge the PDF bio onto this page; If one person, the record would span TPE+LA writing 1987–94 → 顧問 → 理事 → VP 2025; that reading holds ONLY as conditional prose: *if* one person → writer/interviewer (1987–94, TPE + LA) + 台美人會 顧問 + 台美人歷史協會 理事 → 副會長 2025.
+### Identity verification (updated 2026-10-03 — **gender CONFIRMED female by owner → identity now LIKELY, not confirmed**)
+
+Owner confirmation: **TAHS VP 白偉瑋 is female.** That deletes my earlier "gender mismatch" argument — every 新雨/楊惠南 source calls 白偉瑋 **張大卿的內人** (his wife), so the 新雨 writer and the TAHS VP are both female; no conflict there. **Three markers still block a merge:**
+1. **Two independent 40-yr biographies exist** (2023 book, 2025 yearbook).
+2. **A 1956-born TPE nurse could have been 67 in 2023 and still conducted the 謝泊欣 oral-history interview** — so the earlier age argument ("77 = too old") is **WITHDRAWN**; do not restate it.
+3. **The TPE exhibit list (2009–2010) places 白偉瑋, 楊順瑜, and 游朝子 in TPE while the LA branch lists 黃樹人, 楊順欽, 洪瑞珍, 陳韫齡, 蔡婉芬 — no name overlap.** If they were one person, the simplest explanation is one TPE-based person appearing in both circles (supporting "same"), but the list split keeps "two different people" live until a member confirms.
+
+**2025 TAHS yearbook** (published 2026-05-14, verified from its own file; 420 pp, 46,902 lines): TAHS officers — 會長 許景鴻, **副会长 白偉瑋** (no other 白), **理事 陳愛玲**, 秘書 黃樹人. 陳愛玲 = separate person (台大歷史系; 1949生, 高雄; TAHS 理事 + 台美人會 顧問; the 台獨妈祖 oral-history book = her subject, not her authorship).
+**2023 book** = 45 biographical essays by 黃樹人 (cover page "文/圖: 黃樹人") — 白偉瑋 and 游朝子 are **sources/interviewees**; TAHS org chart lists titles only.
+
+**Until identity is settled, do NOT put on this page:** 1956生, 台南, LA護士 (these come from one unverified PDF list), any husband/family relation, and "牧師夫人" (supported nowhere — 陳愛玲 is the pastor's wife, a different person).
+
+**If confirmed as the SAME person** (then re-verify each item against a 台美人/TAHS-scope source): TPE-era writer/interviewer (1987–94) → TAHS member since ~2005 + 台美人歷史協會 理事 + 台美人會 顧問 (2023 book) → **TAHS 副會長** (2025 org chart; TAHS 2025 yearbook — 台美人歷史協會 = 副會長, TAHS 理事 + 台美人會 顧問) → 2025 副會長 → 楊正光 訪談主持 2018 → 謝泊欣 採訪 2023 (with 黃樹人).
 
 ## Revision History
+
+- **2026-10-03 (later)** — owner confirmed VP 白偉瑋 is female: gender-mismatch argument withdrawn, identity re-graded to LIKELY-SAME (unconfirmed); age argument also withdrawn; hard "do NOT" list set (1956/台南/LA護士/any kinship/"牧師夫人").
 
 - **2026-10-03** — web-deepened: 楊惠南×4 + dhammarain (rain-25/44/50/55/57/58) + TAHS 2018 archive + 2023 book. Two 白偉瑋 entries (1956/護士/新雨 vs TAHS VP) found; merge held, conflict logged.
 
