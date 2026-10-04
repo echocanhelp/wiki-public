@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-30
+last_reviewed: 2026-10-04
 ---
 # Michelle Kuo (郭怡慧)
 
@@ -44,6 +44,8 @@ Accomplishment
 - Interviewed in the community conversation on anti-Blackness in the Taiwanese American community: [[works/taiwaneseamerican-org/addressing-anti-blackness-within-the-taiwanese-american-community|Addressing Anti-Blackness within the Taiwanese American Community]].
 - Profiled in the TAH encyclopedia: [[works/taiwaneseamericanhistory-org/whos-who-2031-michelle-kuo|2031. Michelle Kuo 郭怡慧]] (2018-02-14).
 - Husband Albert Wu co-authors the newsletter above; the couple appear together in community records.
+
+2026-10-04 re-grep (deepen-x 09300348-5): fresh ZH+EN corpus grep (郭怡慧|Michelle Kuo) returned only the records already linked on this page (whos-who-2031, my-stories-763, interview-michellekuo, community-resources, jing-mei-memorial, works/index) — verified saturated, nothing new absorbable, no conflicts. hits-hash=549d84bd471b
 
 ## Sources
 - [TAH #2031 encyclopedia: 2031. Michelle Kuo 郭怡慧](https://taiwaneseamericanhistory.org/whos-who-2031-michelle-kuo/)

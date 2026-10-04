@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-30
+last_reviewed: 2026-10-04
 ---
 # Sarolina Chang (沈麗華)
 
@@ -52,6 +52,8 @@ Corpus re-grep 2026-09-20/21: hit set = own works + the two 畢思理博士/Beas
 Corpus re-grep 2026-09-22 (slice 09211400-16): hit set identical — her own literature records (104 profile, 68, 454, 455, 50875, literature-1338), all already linked above; own profile record 104 is a bibliographic stub. Saturated; byline-variant HOLD stands.
 
 Corpus re-grep 2026-09-22 (slice 09220800-22): fresh 沈麗華 / Sarolina Chang grep returns the same own-record set (105 profile stub, 68, 160, 453, 50875, literature-1338), all already linked — SKIP, saturated.
+
+Corpus re-grep 2026-10-04 (slice 09300348-5): fresh ZH+EN re-grep (沈麗華|Sarolina) — hit set identical to records already absorbed and linked above (104/105 profile stub, 68, 160, 453, 454, 455, 50875/658, literature-1338, collection-of-mrs-sarolina-shen-chang); no new absorbable community facts. SKIP: verified-saturated; byline-variant HOLD stands. hits-hash=6b420b180ba7
 
 ## Sources
 - [TAH #105 encyclopedia: 105. Sarolina Chang 沈麗華](https://taiwaneseamericanhistory.org/104-%e6%b2%88%e9%ba%97%e8%8f%af-sarolina-chang/)
