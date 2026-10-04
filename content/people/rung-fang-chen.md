@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-30
+last_reviewed: 2026-10-04
 ---
 # Rung-fang Chen (陳榮芳)
 
@@ -55,3 +55,4 @@ Corpus re-check 2026-09-30 (deepen-x slice 09260854-14): fresh grep — hit set 
 
 Corpus re-check 2026-09-26 (deepen-x slice 09251000-10): fresh grep — hit set identical (ourjourneys315, whos1098, ourjourneys38-eng, works index). SKIP-deepen; verified-saturated, nothing new absorbable.
 - Corpus re-grep 2026-09-26 (slice 09260500-17): fresh ZH+EN grep of content/works + content/articles — hit set identical to all prior passes; every hit already absorbed and linked above. SKIP-with-reason: no new absorbable material (verified-saturated).
+- Corpus re-grep 2026-10-04 (slice 09300507-3): fresh ZH+EN grep 陳榮芳/Rung-fang Chen — hit set identical (ourjourneys315, whos1098, ourjourneys38-eng, works index); all facts already absorbed and linked above. SKIP-with-reason: verified-saturated, nothing new absorbable. hits-hash=43c1b27741c0+d7ff7995f010+b4d1756f80be
