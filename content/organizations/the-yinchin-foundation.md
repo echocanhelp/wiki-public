@@ -50,3 +50,5 @@ last_reviewed: 2026-10-04
 
 - 2026-10-04 deepen-x slice 09300348-1: re-verified (ZH+EN grep across works+articles) — hit set unchanged (awards67, whoswho1437, #40 profile, WHA statement x2, 2020 Hou-yieh-hui fundraising report, index); verified-saturated, SKIP. hits-hash=1d1a315d458a.
 - 2026-10-04 deepen-x slice 09300848-13: re-verified (殷勤文教/殷清隆/殷敏寬/YIN CHIN, works+articles) — hit set unchanged (awards67, whoswho1437, #40 profile, index, WHA 聲明 ×2 — the 2025/11 re-post of the WHA statement is a duplicate of the 2021/06 article already cited, same 共同發起人 list incl. 殷清隆, no new facts); verified-saturated, SKIP. hits-hash=101eb0158b66 (hit-set hash, pattern-sensitive; content-wise identical to 1d1a315d458a wave).
+
+- 2026-10-04 deepen-x slice 09300855-13: re-verified (殷勤文教/殷清隆/殷敏寬/YIN CHIN/Yinchin, works+articles) — hit set unchanged (awards67, whoswho1437, #40 profile, WHA 聲明 ×2 incl. the 2025/11 re-post already checked as a duplicate of the 2021/06 article, index); verified-saturated, SKIP. hits-hash=101eb0158b66 (identical to the 09300348-1 and 09300848-13 waves — same pattern set, same hit set).

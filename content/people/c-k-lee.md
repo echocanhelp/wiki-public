@@ -53,6 +53,8 @@ _No filled family fields on the TAH profile._
 - Corpus re-scan 2026-09-26 (slice 09251000-11): fresh grep 李世光／C. K. Lee — hits unchanged (TAH #783, #15 返台任教 1994, Our Journeys 310, works index); OJ310 政府要員博士群 list and 鄭昭夫 鄉訊 detail verbatim re-confirmed. SKIP-content (verified-saturated); nothing new absorbable.
 - Corpus re-scan 2026-09-26 (slice 09260500-9): fresh grep 李世光／C. K. Lee — hits unchanged (TAH #783, #15 返台任教 1994, Our Journeys 310, works index). SKIP-content (verified-saturated); nothing new absorbable, no conflicts to HOLD.
 
+- Corpus re-scan 2026-10-04 (slice 09300848-24): fresh grep (李世光 / C. K. Lee; case-insensitive EN sweep also run) — hits unchanged (TAH #783, #15 返台任教 1994, Our Journeys 310, works index); OJ310 政府要員博士群 list and 鄭昭夫 鄉訊 detail verbatim re-confirmed. SKIP-content (verified-saturated); nothing new absorbable, no conflicts to HOLD. hits-hash=b341b513704f
+
 ## Sources
 - [TAH #783 encyclopedia: 783. C. K. Lee 李世光  / 2016/01](https://taiwaneseamericanhistory.org/783-prof-c-k-lee-%e6%9d%8e%e4%b8%96%e5%85%89-201601/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/c-k-lee/)

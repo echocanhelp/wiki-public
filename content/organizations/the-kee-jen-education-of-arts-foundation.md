@@ -6,7 +6,7 @@ tags:
   - Taiwanese-American
   - Taiwan-Center-group-member
 verification_status: published
-last_reviewed: 2026-10-03
+last_reviewed: 2026-10-04
 ---
 # The Kee-Jen Education of Arts Foundation
 

@@ -38,6 +38,7 @@ Absorbed from the TAH story corpus (salt-lake/utah re-grep 2026-09-18). The chap
 
 - Re-verified 2026-10-03 (slice 09300315-8): fresh 大鹽湖 / Greater Salt Lake / TAGSL grep of works/ + articles/ returns only the own TAH record + works index (hits-hash=5610de4b1188, unchanged since 09250700-8) — SKIP: verified-saturated, no new corpus mention, no new facts.
 - Re-verified 2026-10-04 (slice 09300848-13): fresh 大鹽湖 / Greater Salt Lake / TAGSL grep of works/ + articles/ — hit set unchanged (own TAGSL record, Days of '47, Salt Lake chamber of commerce, 2019 WCTAC, ourjourneys352, plus #88 許秀香 Utah Ph.D. bibliographic record — no named-subject overlap with this org page). No new corpus mention; SKIP, verified-saturated. hits-hash=2120984d0804 (note: prior 5610de4b1188 used a different pattern set, hence differing hash — hit *set* is unchanged).
+- Re-verified 2026-10-04 (slice 09300855-13): fresh 大鹽湖 / Greater Salt Lake / TAGSL grep of works/ + articles/ returns only the own TAGSL record + works/index listing — no new corpus mention; SKIP, verified-saturated (hit *set* unchanged since 09250700-8; article hits 許秀香 Utah Ph.D. + Utah chapter FAPA have no named-subject overlap with this org page). hits-hash=37c647aa519e (pattern-set hash, not comparable across pattern sets).
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-association-of-the-greater-salt-lake/)
