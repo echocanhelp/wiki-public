@@ -71,4 +71,4 @@ HOLD: TAH table lists "NBC News — 2011-2012 — Freelance Reporter" while the 
 
 2026-09-26 re-grep (deepen-x 09260400-9): fresh EN grep returned the same six-file hit set — all linked above. SKIP: verified saturated, HOLD retained.
 
-2026-10-04 re-grep (deepen-x 09300315-21): fresh EN grep over works+articles returned the same six-file hit set (whowho1395, works index, both TaiwaneseAmerican.org profiles, Stephanie Lin page, ITASA 2009 page) — all linked above. SKIP: verified saturated, HOLD retained. hits-hash=8f35fb1da965+ed01dd5538fb+1ad33a8c698c+ea0542a07075+0049ced5fe6c+7e3865dfc090
+2026-10-04 re-grep (deepen-x 09300848-31): fresh EN grep over works+articles returned the same six-file hit set (whowho1395, works index, both TaiwaneseAmerican.org profiles, Stephanie Lin page, ITASA 2009 page) — all already linked above; nothing new absorbable. SKIP: verified saturated, HOLD (KPIX staff 2011 vs NBC freelance 2011-12) retained. hits-hash=3e4683d3088c
