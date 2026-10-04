@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_run": "2026-10-03T00:30:18",
+  "last_run": "2026-10-04T00:29:14",
   "status": "ACTION",
   "stats": {
     "md": 15105,
@@ -52,7 +52,7 @@
     {
       "id": "B1",
       "sev": "INFO",
-      "msg": "person/org touched \u22647d (rely on recency featured window): 1735",
+      "msg": "person/org touched \u22647d (rely on recency featured window): 1653",
       "examples": [
         "people/a-n-liu.md",
         "people/abby-hong.md",
@@ -76,22 +76,6 @@
     "publish"
   ],
   "history": [
-    {
-      "at": "2026-09-24T00:26:31",
-      "status": "ACTION",
-      "critical": 0,
-      "high": 2,
-      "medium": 1,
-      "finding_count": 5
-    },
-    {
-      "at": "2026-09-24T00:30:51",
-      "status": "ACTION",
-      "critical": 0,
-      "high": 2,
-      "medium": 1,
-      "finding_count": 6
-    },
     {
       "at": "2026-09-25T00:26:11",
       "status": "ACTION",
@@ -310,6 +294,22 @@
     },
     {
       "at": "2026-10-03T00:30:18",
+      "status": "ACTION",
+      "critical": 0,
+      "high": 2,
+      "medium": 1,
+      "finding_count": 5
+    },
+    {
+      "at": "2026-10-04T00:27:33",
+      "status": "ACTION",
+      "critical": 0,
+      "high": 2,
+      "medium": 1,
+      "finding_count": 5
+    },
+    {
+      "at": "2026-10-04T00:29:14",
       "status": "ACTION",
       "critical": 0,
       "high": 2,

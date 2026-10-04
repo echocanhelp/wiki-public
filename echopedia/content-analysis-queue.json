@@ -1,29 +1,15 @@
 {
-  "date": "2026-10-02",
+  "date": "2026-10-03",
   "standards_version": 10,
   "total_pages_scanned": 2930,
-  "pages_with_findings": 5,
-  "auto_queued": 3,
+  "pages_with_findings": 4,
+  "auto_queued": 2,
   "queue": [
     {
       "path": "organizations/ucla-taiwanese-american-union.md",
       "findings": [
         "STRUCT_NO_HISTORY",
         "READABILITY_LONG_SENTENCES_30wps",
-        "READABILITY_MANY_LONG_SENTENCES_4"
-      ],
-      "priority": "medium",
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol",
-        "Fix ONLY listed findings — no inventing biography",
-        "Update last_reviewed after fixes",
-        "Commit only (no publish)"
-      ]
-    },
-    {
-      "path": "people/prof-yao-yuan-yeh.md",
-      "findings": [
-        "DESC_NO_TITLE_MENTION",
         "READABILITY_MANY_LONG_SENTENCES_4"
       ],
       "priority": "medium",
@@ -50,6 +36,6 @@
       ]
     }
   ],
-  "suppressed_findings": 2241,
+  "suppressed_findings": 2243,
   "fp_history_entries": 2316
 }

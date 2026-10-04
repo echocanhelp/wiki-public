@@ -1407,7 +1407,8 @@
     "2026-08-22",
     "2026-08-23",
     "2026-10-01",
-    "2026-10-02"
+    "2026-10-02",
+    "2026-10-03"
   ],
   "organizations/asia-democracy-foundation.md|STRUCT_NO_HISTORY": [
     "2026-08-21",
@@ -3143,7 +3144,6 @@
     "2026-08-23"
   ],
   "organizations/taiwanese-american-arts-association.md|STRUCT_NO_HISTORY": [
-    "2026-08-21",
     "2026-08-22",
     "2026-08-22",
     "2026-08-22",
@@ -3152,7 +3152,8 @@
     "2026-09-25",
     "2026-09-26",
     "2026-10-01",
-    "2026-10-02"
+    "2026-10-02",
+    "2026-10-03"
   ],
   "organizations/taiwanese-american-arts-council-taac.md|STRUCT_NO_HISTORY": [
     "2026-08-21",
@@ -4722,7 +4723,8 @@
     "2026-08-22",
     "2026-08-23",
     "2026-10-01",
-    "2026-10-02"
+    "2026-10-02",
+    "2026-10-03"
   ],
   "organizations/ucr-united-taiwanese-student-association.md|STRUCT_NO_HISTORY": [
     "2026-08-21",
@@ -16521,7 +16523,8 @@
   "organizations/taiwanese-american-arts-association.md|READABILITY_LONG_SENTENCES": [
     "2026-09-24",
     "2026-10-01",
-    "2026-10-02"
+    "2026-10-02",
+    "2026-10-03"
   ],
   "organizations/taiwanese-american-foundation-of-boston.md|READABILITY_LONG_SENTENCES": [
     "2026-09-24"
@@ -16941,19 +16944,23 @@
   ],
   "organizations/arizona-taiwanese-student-association.md|READABILITY_LONG_SENTENCES": [
     "2026-10-01",
-    "2026-10-02"
+    "2026-10-02",
+    "2026-10-03"
   ],
   "organizations/ucla-taiwanese-american-union.md|READABILITY_LONG_SENTENCES": [
     "2026-10-01",
-    "2026-10-02"
+    "2026-10-02",
+    "2026-10-03"
   ],
   "organizations/ucla-taiwanese-american-union.md|READABILITY_MANY_LONG_SENTENCES": [
     "2026-10-01",
-    "2026-10-02"
+    "2026-10-02",
+    "2026-10-03"
   ],
   "people/林芸.md|FRESHNESS_NO_REVIEW_DATE": [
     "2026-10-01",
-    "2026-10-02"
+    "2026-10-02",
+    "2026-10-03"
   ],
   "people/林芸.md|LINKS_LOW_DENSITY": [
     "2026-10-01"
@@ -16963,10 +16970,12 @@
   ],
   "people/林芸.md|STRUCT_NO_TYPE": [
     "2026-10-01",
-    "2026-10-02"
+    "2026-10-02",
+    "2026-10-03"
   ],
   "people/林芸.md|STRUCT_NO_REVIEW_DATE": [
     "2026-10-01",
-    "2026-10-02"
+    "2026-10-02",
+    "2026-10-03"
   ]
 }
