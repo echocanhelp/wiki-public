@@ -57,3 +57,5 @@ _No filled family fields on the TAH profile._
 - Corpus re-verify (deepen-x slice 09250900-26, 2026-09-26): fresh grep 張若葳/Lovell Park Chang returned the identical hit set (ourjourneys306, musician94, whoswho1060 + works index) — all absorbed; verified-saturated, SKIP-deepen. HOLD (張若葳 vs 張紀葳 in 幼獅師資名單) stands.
 - Corpus re-verify (deepen-x slice 09260400-17, 2026-09-26): fresh ZH+EN grep returned the identical hit set (ourjourneys306, musician94, whoswho1060 + works index) — all absorbed; verified-saturated, SKIP-deepen. HOLD (張若葳 vs 張紀葳) stands.
 - 2026-10-04 (slice 09300315-19): fresh deterministic re-grep 張若葳 / Lovell Park Chang — identical hit set (ourjourneys306, musician94, whoswho1060 + works index); all absorbed; verified-saturated, SKIP-deepen. HOLD (張若葳 vs 張紀葳 in 幼獅師資名單) stands. hits-hash=bc363618de0d (audit-convention sha1 over name-key hit-set {#306, #94, #1060, index} = 4 files).
+
+- Corpus re-grep 2026-10-04 (DEEPEN-X slice 09300848-29): fresh ZH+EN grep over works/ + articles/ — hit-set identical to prior passes (own TAH records + absorbed memoir/article material + works index); nothing new absorbable. verified-saturated, SKIP-content.

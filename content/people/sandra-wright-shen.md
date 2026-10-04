@@ -63,3 +63,5 @@ Corpus re-grep (slice 09230600-30, 2026-09-24): hit-set unchanged — TAH #70, #
 
 - Corpus re-grep 2026-09-26 (slice 09260400-11): hit-set identical — own records TAH #70, #688, mystories112 feature only; no new memoir material. SKIP-content: verified-saturated.
 - Corpus re-grep 2026-10-04 (slice 09300315-20): fresh grep 仙杜拉/"Sandra Wright Shen" over works+articles — hit set unchanged ([[works/taiwaneseamericanhistory-org/70-sandra-wright-shen-piano|TAH #70]], [[works/taiwaneseamericanhistory-org/688-e4-bb-99-e6-9d-9c-e6-8b-89-e2-80-a7-e8-b3-b4-e7-89-b9-e2-80-a7-e6-b2-88-sand|TAH #688]], [[works/taiwaneseamericanhistory-org/mystories112|仙杜拉琴韻心聲]], index); no memoir adds dates or roles — verified-saturated, SKIP. hits-hash=8b5a2a74b4a6
+
+- Corpus re-grep 2026-10-04 (DEEPEN-X slice 09300848-29): fresh ZH+EN grep over works/ + articles/ — hit-set identical to prior passes (own TAH records + absorbed memoir/article material + works index); nothing new absorbable. verified-saturated, SKIP-content.
