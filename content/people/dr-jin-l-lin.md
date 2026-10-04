@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-03
+last_reviewed: 2026-10-04
 ---
 # Dr. Jin L. Lin (林金龍博士)
 
@@ -62,3 +62,4 @@ last_reviewed: 2026-10-03
 
 - Corpus re-grep 2026-09-30 (slice 09260800-2): hit set unchanged — own TAH #2310 entry, works index, and the same held taiwanjustice.net column (HOLD above); no memoir mentions. SKIP-with-reason — verified-saturated.
 - Corpus re-grep 2026-10-03 (slice 09300315-7): hit set unchanged — own [[works/taiwaneseamericanhistory-org/whos-who-2310-jin-l-lin|TAH #2310]], works index, and the same held taiwanjustice.net column (HOLD above). The [[works/taiwaneseamerican-org/laura-huang-olivia-chen-project-emplify|Laura Huang/Olivia Chen project]] hit is again only the 'Min Jin Lee' book-title substring false-positive. No memoir mentions. SKIP-with-reason — verified-saturated. hits-hash=ee1948a6daed
+- Corpus re-grep 2026-10-04 (slice 09300848-11): fresh ZH+EN grep (林金龍 / Jin L. Lin) — hit set unchanged (own [[works/taiwaneseamericanhistory-org/whos-who-2310-jin-l-lin|TAH #2310]], works index, the same held taiwanjustice.net column); no memoir mentions. SKIP-with-reason — verified-saturated. hits-hash=ee1948a6daed

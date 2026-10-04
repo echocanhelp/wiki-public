@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-03
+last_reviewed: 2026-10-04
 ---
 # Adrian Lin (林宣緒)
 
@@ -69,3 +69,5 @@ last_reviewed: 2026-10-03
 <!-- DEEPEN-X09260600-2: verified 2026-09-27 — fresh ZH+EN grep hit set identical to prior passes (TAH #918, ourjourneys123 ZH/EN, TJJ newsletter 兩份同文, all already wikilinked) — verified-saturated, SKIP-no-new-facts. -->
 
 <!-- deepen-x 09270600-1 (2026-10-03): fresh ZH+EN grep (works+articles) — hit set identical to prior passes (own TAH record + already-wikilinked works/index + absorbed TJJ articles); no new community material. verified-saturated, SKIP-no-new-facts. hits-hash=23d0d2bd9ea9 -->
+
+<!-- deepen-x 09300848-11 (2026-10-04): fresh ZH+EN grep (林宣緒 / Adrian Lin, works+articles) — hit set unchanged (ourjourneys123 ZH/EN 會長名單與夏令會詞料, whoswho918 own entry, TJJ newsletter 兩份同文, works/index 目錄命中 only); all hits已吸收並 wikilink, no new community material. verified-saturated, SKIP-no-new-facts. hits-hash=23d0d2bd9ea9 -->
