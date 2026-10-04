@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-30
+last_reviewed: 2026-10-04
 ---
 # Stephanie Chuang
 
@@ -70,3 +70,5 @@ HOLD: TAH table lists "NBC News — 2011-2012 — Freelance Reporter" while the 
 2026-09-26 re-grep (deepen-x 09250900-21): fresh EN grep returned the same six-file hit set (whowho1395, works index, both TaiwaneseAmerican.org profiles, Stephanie Lin page, ITASA 2009 page) — all linked above. SKIP: verified saturated, HOLD retained.
 
 2026-09-26 re-grep (deepen-x 09260400-9): fresh EN grep returned the same six-file hit set — all linked above. SKIP: verified saturated, HOLD retained.
+
+2026-10-04 re-grep (deepen-x 09300315-21): fresh EN grep over works+articles returned the same six-file hit set (whowho1395, works index, both TaiwaneseAmerican.org profiles, Stephanie Lin page, ITASA 2009 page) — all linked above. SKIP: verified saturated, HOLD retained. hits-hash=8f35fb1da965+ed01dd5538fb+1ad33a8c698c+ea0542a07075+0049ced5fe6c+7e3865dfc090

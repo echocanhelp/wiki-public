@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-04
 ---
 # Alex Hsuan-Yu Lee (李軒宇博士)
 
@@ -53,3 +53,4 @@ The movement record holds two TAH encyclopedia entries on him — [[works/taiwan
 - Corpus re-grep 2026-09-26 (DEEPEN-X slice 09251000-4): hit-set identical — only already-cited own records [[works/taiwaneseamericanhistory-org/musician146|#146]], [[works/taiwaneseamericanhistory-org/whoswho1225|#1225]] and the works index. SKIP-content: verified-saturated, nothing new absorbable, no conflicts to HOLD.
 - Corpus re-grep 2026-09-25 (DEEPEN-X slice 09240700-14): hit-set identical to prior passes — only already-cited own records, the absorbed memoir/article material, and the works index. SKIP-content: verified-saturated, nothing new absorbable, no conflicts to HOLD.
 - Corpus re-grep 2026-09-26 (DEEPEN-X slice 09260400-24): hit-set identical — only already-cited own records [[works/taiwaneseamericanhistory-org/musician146|#146]], [[works/taiwaneseamericanhistory-org/whoswho1225|#1225]] and the works index. SKIP-content: verified-saturated, nothing new absorbable, no conflicts to HOLD.
+- Corpus re-grep 2026-10-04 (DEEPEN-X slice 09300315-21): hit-set identical — only already-cited own records [[works/taiwaneseamericanhistory-org/musician146|#146]], [[works/taiwaneseamericanhistory-org/whoswho1225|#1225]] and the works index. SKIP-content: verified-saturated, nothing new absorbable, no conflicts to HOLD. hits-hash=7445d190a166+8a46487fa2ea+ed01dd5538fb
