@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-30
+last_reviewed: 2026-10-04
 ---
 # Irvin Lin (林斐強)
 
@@ -65,3 +65,5 @@ slice 09250700-25 re-grep (2026-09-25): fresh 林斐強/Irvin Lin grep; hit set 
 slice 09260500-5 re-grep (2026-09-26): fresh 林斐強/Irvin Lin grep; hit set identical — #234 / #1431 / #1052 / #493 plus index listings; no new memoir material. SKIP: verified-saturated.
 
 Corpus re-verify (deepen-x slice 09260854-7, 2026-09-30): fresh ZH+EN grep of works/ + articles/ returns the identical hit set to the links already absorbed above — no memoir or body-text mentions beyond them. SKIP: verified-saturated.
+
+- Corpus re-grep (deepen-x slice 09300500-1, 2026-10-04): fresh 林斐強/Irvin Lin grep of works/ + articles/ — hit set identical: #234 / #1431 / #1052 / #493 + works index; remaining article matches are UC Irvine/"Irving" substring false positives (verified by case-insensitive -i scan). Verified-saturated, SKIP-deepen. hits-hash=7f3c21a9e04b

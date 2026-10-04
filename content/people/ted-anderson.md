@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-30
+last_reviewed: 2026-10-04
 ---
 # Ted Anderson (泰德安德森)
 
@@ -64,3 +64,5 @@ last_reviewed: 2026-09-30
 - Corpus re-scan 2026-09-26 (slice 09260500-4): fresh grep (incl. -E 泰德安德森) — hit set unchanged (TAH #322, #271, #911, #57, #541 + index); verified-saturated, SKIP-deepen.
 
 Corpus re-verify (deepen-x slice 09260854-7, 2026-09-30): fresh ZH+EN grep of works/ + articles/ returns the identical hit set to the links already absorbed above — no memoir or body-text mentions beyond them. SKIP: verified-saturated. (TJJ 化作千風 article body re-checked; only detail beyond absorbed links is the 余忠村 yield-seat episode, already covered by the chair-for-over-a-decade record — no conflict)
+
+- Corpus re-verify (deepen-x slice 09300500-1, 2026-10-04): fresh ZH+EN grep of works/ + articles/ — hit set unchanged (TAH #322, #271, #911, #57, #541 + works index); all body-text hits are title/Identity-Snapshot echoes of already-absorbed works. Verified-saturated, SKIP-deepen. hits-hash=7f3c21a9e04b

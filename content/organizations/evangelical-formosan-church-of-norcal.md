@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-30
+last_reviewed: 2026-10-04
 ---
 # Evangelical Formosan Church of NorCal (北加州台福基督教會)
 
@@ -35,3 +35,5 @@ The former Evangelical Formosan Church of El Sobrante (平諾台福基督教會)
 - Re-grep 2026-09-25 (slice 09250700-31): fresh grep (北加州台福 / El Sobrante / 柏克萊台福 / Harvest Berkeley / Formosan Church of NorCal) returned the identical hit set — el-sobrante, harvest-berkeley, berkeley directory records + works index, all already linked; no memoir material dates the merger. SKIP: HOLD on merger date retained.
 - Corpus re-grep (slice 09260500-3, 2026-09-26): fresh ZH+EN hit-set identical to the absorbed/link set above; no new community material. Verified-saturated; SKIP-with-reason.
 - Corpus re-grep (slice 09260854-9, 2026-09-30): fresh ZH+EN grep (北加州台福 / El Sobrante / 柏克萊台福 / Harvest Berkeley / Formosan Church of NorCal) against works+articles — hit set identical to the absorbed/link set above (el-sobrante, harvest-berkeley, berkeley directory records + works index). No memoir material dates the merger. SKIP-with-reason: verified-saturated; HOLD on merger date retained.
+
+- Corpus re-grep (deepen-x slice 09300500-1, 2026-10-04): fresh ZH+EN grep (北加州台福 / El Sobrante / 柏克萊台福 / Harvest Berkeley / Formosan Church of NorCal) — hit set identical to the absorbed/link set above (el-sobrante + harvest-berkeley directory records + works index). No memoir material dates the merger. SKIP-with-reason: verified-saturated; HOLD on merger date retained. hits-hash=7f3c21a9e04b

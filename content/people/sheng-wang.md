@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-30
+last_reviewed: 2026-10-04
 ---
 # Sheng Wang
 
@@ -59,3 +59,5 @@ Corpus re-verify (deepen-x slice 09250900-31, 2026-09-26): fresh grep returns th
 Corpus re-verify (deepen-x slice 09260500-6, 2026-09-26): fresh grep again returns the identical hit set — own TaiwaneseAmerican.org press records plus the works index; SKIP-deepen confirmed.
 
 Corpus re-verify (deepen-x slice 09260854-7, 2026-09-30): fresh ZH+EN grep of works/ + articles/ returns the identical hit set to the links already absorbed above — no memoir or body-text mentions beyond them. SKIP: verified-saturated.
+
+Corpus re-verify (deepen-x slice 09300500-1, 2026-10-04): fresh ZH+EN grep of works/ + articles/ returns the identical hit set — own TaiwaneseAmerican.org press records (8 files, all already linked) plus the works index; zero article hits. SKIP: verified-saturated. hits-hash=7f3c21a9e04b
