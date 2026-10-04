@@ -41,3 +41,5 @@ The Yin Chin Foundation of U.S.A. is a nonprofit charitable organization registe
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 - Re-grep 2026-10-04 (slice 09300348-1): ZH+EN grep across works+articles returns exactly the cited record set (awards67, whoswho1437, own directory record, both WHA statement captures, works index) — verified saturated, no new facts, no conflicts; hits-hash=adf6cdf8a999.
+
+- Re-grep 2026-10-04 (slice 09300855-12): ZH+EN grep re-run this attempt (殷勤文教/殷清隆/殷敏寬/Yin Chin) across works+articles returns exactly the cited record set (awards67, whoswho1437, own directory record, both WHA statement captures, works index) — verified saturated, no new facts, no conflicts; hits-hash=d0158cf91c7d.
