@@ -1,0 +1,4 @@
+people/marisa-lin.md
+people/richard-chen.md
+organizations/yin-chin-foundation-of-u-s-a.md
+people/jacy-chen.md

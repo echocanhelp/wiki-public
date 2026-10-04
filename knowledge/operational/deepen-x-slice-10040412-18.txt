@@ -1,0 +1,4 @@
+people/theodore-chuang.md
+people/chin-hsin-jason-liu.md
+people/peirong-lo.md
+organizations/taiwanese-student-association-at-georgia-tech.md
